@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Robot Immitation: A gentle Intro](https://dev.to/nicanor_korir/robot-immitation-a-gentle-intro-30hc)
+- [Building the Future of Customer Interaction with Oodles’ Chatbot Development Services](https://dev.to/oodlesplatform/building-the-future-of-customer-interaction-with-oodles-chatbot-development-services-57cg)
+- [AI Just Scored 37.8% of Human Intelligence — Introducing the AGCI Benchmark](https://dev.to/epic_programmer_55489f708/ai-just-scored-378-of-human-intelligence-introducing-the-agci-benchmark-186f)
 - [Looping in JavaScript](https://dev.to/vidya_cdd37fca763a53a10e2/looping-in-javascript-44h2)
-- [NodeJS Microservices: 7 Observability Checks Before Launch Published](https://dev.to/budventure_technologies_5/nodejs-microservices-7-observability-checks-before-launch-published-4f9l)
-- [The Critical Role of Phase Estimation in Speech Enhancement under Low SNR Conditions](https://dev.to/namanigandhi/phase-matters-in-noisy-environments-1k25)
-- [Boost Developer Revenue with Monetzly’s AI Conversation API](https://dev.to/monetzly/boost-developer-revenue-with-monetzlys-ai-conversation-api-3blc)
-- [SmolRTSP: Open-Source Practices for Efficient RTSP Streaming in Embedded Systems](https://dev.to/zediot/smolrtsp-open-source-practices-for-efficient-rtsp-streaming-in-embedded-systems-28i6)
+- [CSS BACKGROUND AND FLEXBOX STYLES](https://dev.to/suma_suma/css-background-and-flexbox-styles-3mo1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
