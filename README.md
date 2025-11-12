@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [DuckDB for In-Repo Analytics: Warehouse-Grade Queries in Your Pull Requests](https://dev.to/pullflow/duckdb-for-in-repo-analytics-warehouse-grade-queries-in-your-pull-requests-4ha7)
+- [What Is a Controller in Kubernetes?](https://dev.to/jumptotech/what-is-a-controller-in-kubernetes-51jk)
 - [EnvSecOps: The Obviously Painful Path Forward](https://dev.to/jl03/envsecops-the-obviously-painful-path-forward-3gaa)
 - [Use Gadget&#39;s Preact hooks to build Shopify UI extensions](https://dev.to/gadget/use-gadgets-preact-hooks-to-build-shopify-ui-extensions-43o)
-- [PokeeResearch: Effective Deep Research via Reinforcement Learning from AIFeedback and Robust Reasoning Scaffold](https://dev.to/paperium/pokeeresearch-effective-deep-research-via-reinforcement-learning-from-aifeedback-and-robust-5a0)
 - [AI Content Marketing: 2025&#39;s Game-Changing Strategies](https://dev.to/synergistdigitalmedia/ai-content-marketing-2025s-game-changing-strategies-4mm)
-- [Decoding the Daily Grind: AI That Understands Your Unspoken Routines](https://dev.to/arvind_sundararajan/decoding-the-daily-grind-ai-that-understands-your-unspoken-routines-1m4a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
