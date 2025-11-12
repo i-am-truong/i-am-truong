@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Free eBook] How We Built a Practical Framework for Evaluating AI Agents in Production](https://dev.to/karthikavinash/free-ebook-how-we-built-a-practical-framework-for-evaluating-ai-agents-in-production-22pf)
-- [8 Million Records in 156ms](https://dev.to/huynhnhanquoc/8-million-records-in-156ms-3m9f)
-- [ASTA Framework: Character Grid-Based UI Components for Developers](https://dev.to/jqueryscript/asta-framework-character-grid-based-ui-components-for-developers-4j24)
-- [Just the Way I Code](https://dev.to/huynhnhanquoc/just-the-way-i-code-404f)
-- [Identity, Nodes, and the Structure of Trust](https://dev.to/huynhnhanquoc/identity-nodes-and-the-structure-of-trust-420)
+- [Da Nang and the Dream I Accidentally Left Behind](https://dev.to/huynhnhanquoc/da-nang-and-the-dream-i-accidentally-left-behind-3al4)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-b9p)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-52lf)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-2i33)
+- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-2631)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
