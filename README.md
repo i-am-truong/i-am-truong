@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Cloned Myself in 2 Minutes to Answer Gemini API Questions](https://dev.to/dynamicwebpaige/i-cloned-myself-in-2-minutes-to-answer-gemini-api-questions-2dmf)
 - [How I Built a &quot;Community Prayer Quilt&quot; in 5 Minutes](https://dev.to/googleai/how-i-built-a-community-prayer-quilt-in-5-minutes-5afk)
 - [Starting my MBA](https://dev.to/obiako/starting-my-mba-12bl)
 - [Scale Frontend Application: Journey from Zero to Millions of users.](https://dev.to/akashpal/scale-frontend-application-journey-from-zero-to-millions-of-users-1697)
 - [Evolving Minds: Building Adaptable AI Through Strategic Response Learning](https://dev.to/arvind_sundararajan/evolving-minds-building-adaptable-ai-through-strategic-response-learning-2j24)
-- [Recent research in AI Sports Coach has led to a groundbreaki](https://dev.to/drcarlosruizviquez/recent-research-in-ai-sports-coach-has-led-to-a-groundbreaki-2c3h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
