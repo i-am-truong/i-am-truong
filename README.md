@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [faster whisper从多媒体语音材料中抽取出文本-3](https://dev.to/dragon72463399/faster-whispercong-duo-mei-ti-yu-yin-cai-liao-zhong-chou-qu-chu-wen-ben-3-4li3)
-- [faster whisper从多媒体语音材料中抽取出文本-2](https://dev.to/dragon72463399/faster-whispercong-duo-mei-ti-yu-yin-cai-liao-zhong-chou-qu-chu-wen-ben-2-4hnd)
-- [Just another November 11](https://dev.to/codemoron/just-another-november-11-1eag)
-- [How to Design a Scalable Architecture for Cloud Applications](https://dev.to/daya-shankar/how-to-design-a-scalable-architecture-for-cloud-applications-cb3)
-- [Create Your First MCP Tool: The readFile Tool Explained](https://dev.to/ndabene/create-your-first-mcp-tool-the-readfile-tool-explained-3e0h)
+- [This article is for those devs who don&#39;t value QA testing while developing mobile apps.](https://dev.to/devang18/this-article-is-for-those-devs-who-dont-value-qa-testing-while-developing-mobile-apps-44mk)
+- [☁️ My First Wish for Myself](https://dev.to/huynhnhanquoc/my-first-wish-for-myself-ffk)
+- [Day 41 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-41-of-100-days-dsa-coding-challenge-5amd)
+- [Two Years for a Journey](https://dev.to/huynhnhanquoc/two-years-for-a-journey-130f)
+- [Do You Want to Code — or Become a Developer?](https://dev.to/huynhnhanquoc/do-you-want-to-code-or-become-a-developer-1apf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
