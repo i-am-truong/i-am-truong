@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Existe imutabilidade no JS/TS? Como funciona?](https://dev.to/fernandogbs/existe-imutabilidade-no-jsts-como-funciona-5fmm)
-- [Use AI to Speed Up Security Hardening &lpar;and Read This First&rpar;](https://dev.to/tad_kershner_577c2eb5cec2/use-ai-to-speed-up-security-hardening-and-read-this-first-n6f)
-- [[Boost]](https://dev.to/mpampanasubito/-2jl3)
-- [loop](https://dev.to/query_filter_591122b53770/loop-3a3b)
-- [How OLSRT breaks languages barriers?](https://dev.to/javadinteger/how-olsrt-breaks-languages-barriers-40o3)
+- [Predicting the Unpredictable: Reproducible BiLSTM Forecasting of Incident Countsin the Global Terrorism Database &lpar;GTD&rpar;](https://dev.to/paperium/predicting-the-unpredictable-reproducible-bilstm-forecasting-of-incident-countsin-the-global-2hka)
+- [Ma première extension Chrome... Synonymes Maison](https://dev.to/maison/ma-premiere-extension-chrome-synonymes-maison-2bi2)
+- [New major HMPL version 3.2.0 🕶](https://dev.to/hmpljs/new-major-version-320-79e)
+- [The Architecture of Traffic Arbitrage: A Professional&#39;s Blueprint](https://dev.to/tsaplina_elena/the-architecture-of-traffic-arbitrage-a-professionals-blueprint-3kpm)
+- [Building Your Own VPC on Linux: A DevOps Love Story 💘🐧](https://dev.to/herdeybayor/building-your-own-vpc-on-linux-a-devops-love-story-4ca1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
