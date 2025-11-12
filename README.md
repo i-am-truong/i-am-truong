@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Database Indexing Explained Like You&#39;re 5 &lpar;Then Like You&#39;re a Senior Dev&rpar;](https://dev.to/adhikareeprayush/database-indexing-explained-like-youre-5-then-like-youre-a-senior-dev-57hc)
+- [Betting on Yourself: A Quick Guide for Young Tech Entrepreneurs](https://dev.to/n3on/betting-on-yourself-a-quick-guide-for-young-tech-entrepreneurs-4k4p)
 - [GPT 5.1 just dropped](https://dev.to/ben/gpt-51-just-dropped-52nb)
 - [Fixing Common Git Lock Errors: Understanding and Recovering from .git/index.lock](https://dev.to/rijultp/fixing-common-git-lock-errors-understanding-and-recovering-from-gitindexlock-47ej)
-- [I Cloned Myself in 2 Minutes to Answer Gemini API Questions](https://dev.to/googleai/i-cloned-myself-in-2-minutes-to-answer-gemini-api-questions-2dmf)
-- [How I Built a &quot;Community Prayer Quilt&quot; in 5 Minutes](https://dev.to/googleai/how-i-built-a-community-prayer-quilt-in-5-minutes-5afk)
-- [Clean, Fast, and Safe: The Senior Developer&#39;s Guide to Python Comprehensions and Core Collections](https://dev.to/onlineproxy/clean-fast-and-safe-the-senior-developers-guide-to-python-comprehensions-and-core-collections-80a)
+- [Oracle AI Database 26ai: Bind Variable Support in Materialized View Query Rewrite](https://dev.to/vahidusefzadeh/oracle-ai-database-26ai-bind-variable-support-in-materialized-view-query-rewrite-8of)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
