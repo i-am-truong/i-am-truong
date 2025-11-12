@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [OOP Under the Hood: Prototypes, new, and More](https://dev.to/karensantana/oop-under-the-hood-prototypes-new-and-more-4mh)
-- [Stop Blaming Doctrine - Start Understanding It](https://dev.to/jszutkowski/stop-blaming-doctrine-start-understanding-it-55k2)
-- [Mr Sunday Movies: A New High? - Predator: Badlands Review](https://dev.to/popcorn_movies/mr-sunday-movies-a-new-high-predator-badlands-review-28b1)
-- [DI containers are dead, long live context containers!](https://dev.to/flix_dubsomeone635_0/di-containers-are-dead-long-live-context-containers-3hna)
-- [What is dom?](https://dev.to/aj_arul/what-is-dom-4p4i)
+- [Neuro-Symbolic Wednesdays: Can/Will LLMs Learn to Reason?](https://dev.to/centaurai/neuro-symbolic-wednesdays-canwill-llms-learn-to-reason-3did)
+- [Making Neovim Your Own: A Practical Guide for VSCode Users](https://dev.to/orue/making-neovim-your-own-a-practical-guide-for-vscode-users-3f6p)
+- [🧱 Part 1: Why Every Frontend Developer Should Learn NGINX](https://dev.to/vishwark/part-1-why-every-frontend-developer-should-learn-nginx-4g82)
+- [blob6](https://dev.to/query_filter_591122b53770/blob6-17lk)
+- [Any-Depth Alignment: Unlocking Innate Safety Alignment of LLMs to Any-Depth](https://dev.to/paperium/any-depth-alignment-unlocking-innate-safety-alignment-of-llms-to-any-depth-1ii0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
