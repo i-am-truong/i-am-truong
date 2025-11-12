@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Top AI Test Case Generators in 2025: Automate Software Testing with Smarter AI Tools](https://dev.to/alexai/top-ai-test-case-generators-in-2025-automate-software-testing-with-smarter-ai-tools-beo)
-- [🚀 TCP vs UDP — What You Think You Know Is Already Outdated](https://dev.to/jamie_wang_5a76e661ad80fa/tcp-vs-udp-what-you-think-you-know-is-already-outdated-en2)
-- [SOLID and its relationship with OOP](https://dev.to/khafido/solid-and-its-relationship-with-oop-jmm)
-- [Atomic State Management in React: Zustand vs Jotai vs Recoil ⚛️](https://dev.to/taronvardanyan/atomic-state-management-in-react-zustand-vs-jotai-vs-recoil-j5p)
-- [Atomic State Management in React: Zustand vs Jotai vs Recoil ⚛️](https://dev.to/taronvardanyan/atomic-state-management-in-react-zustand-vs-jotai-vs-recoil-35cp)
+- [🚀 Introducing ArkenoPlay: Let’s Build Together!](https://dev.to/arkeno-org/introducing-arkenoplay-lets-build-together-3d7a)
+- [Building Software in the Age of AI: The Mindset Shift and the Playbook That Actually Works](https://dev.to/cleberdelima/building-software-in-the-age-of-ai-the-mindset-shift-and-the-playbook-that-actually-works-42jc)
+- [Top 9 Lightstep &lpar;ServiceNow&rpar; Alternatives in 2025 &lpar;And How to Migrate&rpar;](https://dev.to/signoz/top-9-lightstep-servicenow-alternatives-in-2025-and-how-to-migrate-5135)
+- [Chronosphere vs Datadog: Which Observability Platform is Right for You in 2025?](https://dev.to/signoz/chronosphere-vs-datadog-which-observability-platform-is-right-for-you-in-2025-546n)
+- [⚡ Real-Time Notifications: How Instant Updates Can Make or Break Your App](https://dev.to/okoye_ndidiamaka_5e3b7d30/real-time-notifications-how-instant-updates-can-make-or-break-your-app-5hc2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
