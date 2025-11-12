@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Africa’s tokenization opportunity: Building markets before they mature.](https://dev.to/victory_adugbo_28d7c59ec0/africas-tokenization-opportunity-building-markets-before-they-mature-3ipk)
+- [Inside Docker: The Complete Architecture Explained from CLI to Kernel](https://dev.to/srinivasamcjf/inside-docker-the-complete-architecture-explained-from-cli-to-kernel-4mf1)
+- [5 JavaScript Patterns I&#39;ve Seen Senior Developers Use &lpar;And Why They Matter&rpar;](https://dev.to/priyanshijdev/5-javascript-patterns-ive-seen-senior-developers-use-and-why-they-matter-3731)
 - [From Legacy Windows to AI Agent: The Journey of MintBridge to REMI &lpar;Final PoC&rpar;](https://dev.to/jramone3/from-legacy-windows-to-ai-agent-the-journey-of-mintbridge-to-remi-final-poc-4mm1)
 - [The next machine learning startup is in your front yard](https://dev.to/leon_lin_s/the-next-machine-learning-startup-is-in-your-front-yard-hg9)
-- [Efficient Android Screen Recording Using MediaRecorder + MediaProjection](https://dev.to/cat_dogrunning_in_the_s/efficient-android-screen-recording-using-mediarecorder-mediaprojection-27ib)
-- [Enclave Games Monthly Report: October 2025](https://dev.to/end3r/enclave-games-monthly-report-october-2025-12k3)
-- [Yann LeCun to depart Meta and launch AI startup focused on &#39;world models&#39;](https://dev.to/technoblogger14o3/yann-lecun-to-depart-meta-and-launch-ai-startup-focused-on-world-models-1102)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
