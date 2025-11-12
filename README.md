@@ -121,9 +121,9 @@ Python                   1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [GPT 5.1 just dropped](https://dev.to/ben/gpt-51-just-dropped-52nb)
 - [Fixing Common Git Lock Errors: Understanding and Recovering from .git/index.lock](https://dev.to/rijultp/fixing-common-git-lock-errors-understanding-and-recovering-from-gitindexlock-47ej)
-- [I Cloned Myself in 2 Minutes to Answer Gemini API Questions](https://dev.to/dynamicwebpaige/i-cloned-myself-in-2-minutes-to-answer-gemini-api-questions-2dmf)
+- [I Cloned Myself in 2 Minutes to Answer Gemini API Questions](https://dev.to/googleai/i-cloned-myself-in-2-minutes-to-answer-gemini-api-questions-2dmf)
 - [How I Built a &quot;Community Prayer Quilt&quot; in 5 Minutes](https://dev.to/googleai/how-i-built-a-community-prayer-quilt-in-5-minutes-5afk)
-- [Starting my MBA](https://dev.to/obiako/starting-my-mba-12bl)
+- [Clean, Fast, and Safe: The Senior Developer&#39;s Guide to Python Comprehensions and Core Collections](https://dev.to/onlineproxy/clean-fast-and-safe-the-senior-developers-guide-to-python-comprehensions-and-core-collections-80a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
