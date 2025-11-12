@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Africa’s tokenization opportunity: Building markets before they mature.](https://dev.to/victory_adugbo_28d7c59ec0/africas-tokenization-opportunity-building-markets-before-they-mature-3ipk)
-- [Inside Docker: The Complete Architecture Explained from CLI to Kernel](https://dev.to/srinivasamcjf/inside-docker-the-complete-architecture-explained-from-cli-to-kernel-4mf1)
-- [5 JavaScript Patterns I&#39;ve Seen Senior Developers Use &lpar;And Why They Matter&rpar;](https://dev.to/priyanshijdev/5-javascript-patterns-ive-seen-senior-developers-use-and-why-they-matter-3731)
-- [From Legacy Windows to AI Agent: The Journey of MintBridge to REMI &lpar;Final PoC&rpar;](https://dev.to/jramone3/from-legacy-windows-to-ai-agent-the-journey-of-mintbridge-to-remi-final-poc-4mm1)
-- [The next machine learning startup is in your front yard](https://dev.to/leon_lin_s/the-next-machine-learning-startup-is-in-your-front-yard-hg9)
+- [OOP Under the Hood: Prototypes, new, and More](https://dev.to/karensantana/oop-under-the-hood-prototypes-new-and-more-4mh)
+- [Stop Blaming Doctrine - Start Understanding It](https://dev.to/jszutkowski/stop-blaming-doctrine-start-understanding-it-55k2)
+- [Mr Sunday Movies: A New High? - Predator: Badlands Review](https://dev.to/popcorn_movies/mr-sunday-movies-a-new-high-predator-badlands-review-28b1)
+- [DI containers are dead, long live context containers!](https://dev.to/flix_dubsomeone635_0/di-containers-are-dead-long-live-context-containers-3hna)
+- [What is dom?](https://dev.to/aj_arul/what-is-dom-4p4i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
