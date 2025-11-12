@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Tines - SOAR Tool](https://dev.to/kuljotbiring/tines-soar-tool-37fh)
-- [GoREST is dead...](https://dev.to/nicolasbonnici/gorest-is-dead-1ap9)
-- [Developer onboarding is broken in most companies.](https://dev.to/whykislay/developer-onboarding-is-broken-in-most-companies-4hhn)
-- [full text](https://dev.to/query_filter_591122b53770/full-text-3emj)
-- [Receiving Webhooks in RestlessIDE](https://dev.to/restlessmike/receiving-webhooks-in-restlesside-932)
+- [New Features for Better State Control in WebForms Core 2](https://dev.to/elanatframework/new-features-for-better-state-control-in-webforms-core-2-40g1)
+- [Rick Beato: This AI Song Just Went Number 1...FOR REAL](https://dev.to/music_youtube/rick-beato-this-ai-song-just-went-number-1for-real-1cgg)
+- [Tutorial: Building a Podcast Knowledge Base with the Gemini File Search Tool](https://dev.to/googleai/building-a-podcast-ai-with-the-gemini-file-search-tool-1d4l)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 5 - &#39;Lady Bird’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-5-lady-bird-40dh)
+- [2025](https://dev.to/temporalio/2025-3dmg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
