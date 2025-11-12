@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Existe imutabilidade no JS/TS? Como funciona?](https://dev.to/fernandogbs/existe-imutabilidade-no-jsts-como-funciona-5fmm)
+- [Use AI to Speed Up Security Hardening &lpar;and Read This First&rpar;](https://dev.to/tad_kershner_577c2eb5cec2/use-ai-to-speed-up-security-hardening-and-read-this-first-n6f)
+- [[Boost]](https://dev.to/mpampanasubito/-2jl3)
+- [loop](https://dev.to/query_filter_591122b53770/loop-3a3b)
 - [How OLSRT breaks languages barriers?](https://dev.to/javadinteger/how-olsrt-breaks-languages-barriers-40o3)
-- [blob19](https://dev.to/query_filter_591122b53770/blob19-gb3)
-- [Masonry Grid Goes CSS-Only: An Experimental Approach](https://dev.to/dangreen/masonry-grid-goes-css-only-an-experimental-approach-527c)
-- [Can I using OLSRT in my project?](https://dev.to/javadinteger/can-i-using-olsrt-to-my-project-129p)
-- [Building a Production-Ready VPC Implementation on Linux. HNG Internship Task 4: Complete VPC Control System with Networking](https://dev.to/masterpitan/building-a-production-ready-vpc-implementation-on-linux-hng-internship-task-4-complete-vpc-control-3h9j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
