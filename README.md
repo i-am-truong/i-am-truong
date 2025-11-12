@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [New Features for Better State Control in WebForms Core 2](https://dev.to/elanatframework/new-features-for-better-state-control-in-webforms-core-2-40g1)
-- [Rick Beato: This AI Song Just Went Number 1...FOR REAL](https://dev.to/music_youtube/rick-beato-this-ai-song-just-went-number-1for-real-1cgg)
-- [Tutorial: Building a Podcast Knowledge Base with the Gemini File Search Tool](https://dev.to/googleai/building-a-podcast-ai-with-the-gemini-file-search-tool-1d4l)
-- [Ringer Movies: The 25 Best Movies of the Century: No. 5 - &#39;Lady Bird’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-5-lady-bird-40dh)
-- [2025](https://dev.to/temporalio/2025-3dmg)
+- [Pin It or Bin It Pt 3: The Agent Firewall](https://dev.to/jl03/pin-it-or-bin-it-pt-3-the-agent-firewall-3ml9)
+- [Pin It or Bin It](https://dev.to/jl03/pin-it-or-bin-it-3b4l)
+- [Improving accessibility for popins: focus trap and keyboard handling](https://dev.to/yoriiis/improving-accessibility-for-popins-focus-trap-and-keyboard-handling-50k7)
+- [I built &lpar;another&rpar; Elm-style `useEffectReducer` hook for React ⚛️](https://dev.to/c4605/i-built-another-elm-style-useeffectreducer-hook-for-react-5fkd)
+- [Django learning Day 9 progress](https://dev.to/stackbento/django-learning-day-9-progress-1jbl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
