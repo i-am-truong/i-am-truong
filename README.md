@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Async/Await is finally back in Zig](https://dev.to/barddoo/asyncawait-is-finally-back-in-zig-23hi)
+- [Beyond Sprints: A Scalable Milestone-Based Planning Model for Midsize Companies](https://dev.to/denwerok/beyond-sprints-a-scalable-milestone-based-planning-model-for-midsize-companies-1f56)
+- [🚀 How to Build and Deploy ChatGPT Apps with MCP Servers](https://dev.to/hani__8725b7a/how-to-build-and-deploy-chatgpt-apps-with-mcp-servers-4dda)
+- [MongoDB Query Optimization: How I Reduced Response Time from 2 Seconds to 200ms](https://dev.to/viveklumbhani/mongodb-query-optimization-how-i-reduced-response-time-from-2-seconds-to-200ms-bh2)
 - [🌀 Simulating Time Loops in a Shed: A Spin-Biased FDTD Journey](https://dev.to/freedeathtv/simulating-time-loops-in-a-shed-a-spin-biased-fdtd-journey-2l)
-- [Beyond apps: what comes after the app store and google play](https://dev.to/georgemz/beyond-apps-what-comes-after-the-app-store-and-google-play-1jh8)
-- [SOLIDWORKS: Blech-Eigenschaften zu Zeichnungen hinzufügen](https://dev.to/cadstore/solidworks-blech-eigenschaften-zu-zeichnungen-hinzufugen-392g)
-- [SuperClaude: Tu Agente de IA ya no es Junior, Ahora es Arquitecto y se Sube al Stack.](https://dev.to/barrilitodev/superclaude-tu-agente-de-ia-ya-no-es-junior-ahora-es-arquitecto-y-se-sube-al-stack-7ee)
-- [Beyond Scheduling: How Kubernetes Uses QoS, Priority, and Scoring to Keep Your Cluster Balanced](https://dev.to/gteegela/beyond-scheduling-how-kubernetes-uses-qos-priority-and-scoring-to-keep-your-cluster-balanced-40jg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
