@@ -122,8 +122,8 @@ Python                   1 repo              █░░░░░░░░░░�
 - [[Free eBook] How We Built a Practical Framework for Evaluating AI Agents in Production](https://dev.to/karthikavinash/free-ebook-how-we-built-a-practical-framework-for-evaluating-ai-agents-in-production-22pf)
 - [8 Million Records in 156ms](https://dev.to/huynhnhanquoc/8-million-records-in-156ms-3m9f)
 - [ASTA Framework: Character Grid-Based UI Components for Developers](https://dev.to/jqueryscript/asta-framework-character-grid-based-ui-components-for-developers-4j24)
-- [What Really Happens When You Access AWS: Complete Data Flow Example](https://dev.to/aws-builders/what-really-happens-when-you-access-aws-complete-data-flow-example-3j4c)
-- [☁️ My First Wish for Myself](https://dev.to/huynhnhanquoc/my-first-wish-for-myself-ffk)
+- [Just the Way I Code](https://dev.to/huynhnhanquoc/just-the-way-i-code-404f)
+- [Identity, Nodes, and the Structure of Trust](https://dev.to/huynhnhanquoc/identity-nodes-and-the-structure-of-trust-420)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
