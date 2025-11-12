@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [It&#39;s 2025. You Should Probably Be Using Expo for React Native.](https://dev.to/devi_green_00f82b6d705/its-2025-you-should-probably-be-using-expo-for-react-native-407a)
-- [Understanding L1 DevOps: The First Line of Support in Modern Operations](https://dev.to/srinivasamcjf/understanding-l1-devops-the-first-line-of-support-in-modern-operations-5fff)
-- [AWS Automated Report Generator: SQS &amp; Lambda](https://dev.to/godinhojoao/aws-automated-report-generator-sqs-lambda-4fn9)
-- [RangeLink v0.3.0: One Keybinding to Rule Them All](https://dev.to/couimet/rangelink-v030-one-keybinding-to-rule-them-all-2h01)
-- [✅ Scenario #14 – Integrate Kubernetes with Vault to fetch Secrets](https://dev.to/latchudevops/scenario-14-integrate-kubernetes-with-vault-to-fetch-secrets-2jdj)
+- [🚀 Why Programming Knowledge Still Matters in the Age of AI Development Tools](https://dev.to/harukin399/why-programming-knowledge-still-matters-in-the-age-of-ai-development-tools-11b9)
+- [Sending Emails in Laravel with Mailtrap: A Beginner&#39;s Guide](https://dev.to/rohitdhiman/sending-emails-in-laravel-with-mailtrap-a-beginners-guide-1dfl)
+- [Deploying NestJS Microservices to Azure Container Apps](https://dev.to/ibraheembello/deploying-nestjs-microservices-to-azure-container-apps-1jh4)
+- [Introduction to FPGA and Verification of FPGA-based designs](https://dev.to/alpinumblogs/introduction-to-fpga-and-verification-of-fpga-based-designs-32ai)
+- [Build a Complete Data Pipeline from Scratch: CSV to Dashboard Using Python, MySQL, and Airflow”](https://dev.to/srinivasamcjf/build-a-complete-data-pipeline-from-scratch-csv-to-dashboard-using-python-mysql-and-airflow-558c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
