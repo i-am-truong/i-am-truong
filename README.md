@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Project Management Courses: Master the Skills to Lead Successful Projects](https://dev.to/ptp_8f8dfa1f68e86d92296b6/project-management-courses-master-the-skills-to-lead-successful-projects-3o00)
-- [Nx vs. Turborepo: Integrated Ecosystem or High-Speed Task Runner? The Key Decision for Your Monorepo](https://dev.to/thedavestack/nx-vs-turborepo-integrated-ecosystem-or-high-speed-task-runner-the-key-decision-for-your-monorepo-279)
-- [Progressive Web Apps: Building Offline-First UIs – Never Lose Your Users Again!](https://dev.to/karthik_n/progressive-web-apps-building-offline-first-uis-never-lose-your-users-again-2mip)
-- [Day 27 of My AI &amp; Data Mastery Journey: From Python to Generative AI](https://dev.to/nitinbhatt46/day-27-of-my-ai-data-mastery-journey-from-python-to-generative-ai-3e45)
-- [Boost Developer productivity and DBOps efficiency with AWS Aurora Cloning](https://dev.to/aws-builders/boost-developer-productivity-and-dbops-efficiency-with-aws-aurora-cloning-5cc8)
+- [Why Web Developers Should Embrace AI-Powered Code Assistants in 2025](https://dev.to/umaarahmed/why-web-developers-should-embrace-ai-powered-code-assistants-in-2025-26h9)
+- [🌿 SaijinOS Part 8 — Interface as Breath: Designing Calm Interaction](https://dev.to/kato_masato_c5593c81af5c6/saijinos-part-8-interface-as-breath-designing-calm-interaction-3pn2)
+- [Building a Social Network Analyzer with CXXGraph: From Friend Recommendations to Influence Detection](https://dev.to/zigrazor/building-a-social-network-analyzer-with-cxxgraph-from-friend-recommendations-to-influence-detection-5e8p)
+- [7 Projects to Master Frontend Development](https://dev.to/hashbyt/7-projects-to-master-frontend-development-ag0)
+- [The Rise of AI in Everyday Applications](https://dev.to/itcs11/the-rise-of-ai-in-everyday-applications-4i3b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
