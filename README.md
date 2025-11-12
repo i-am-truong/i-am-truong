@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Robot Immitation: A gentle Intro](https://dev.to/nicanor_korir/robot-immitation-a-gentle-intro-30hc)
-- [Building the Future of Customer Interaction with Oodles’ Chatbot Development Services](https://dev.to/oodlesplatform/building-the-future-of-customer-interaction-with-oodles-chatbot-development-services-57cg)
-- [AI Just Scored 37.8% of Human Intelligence — Introducing the AGCI Benchmark](https://dev.to/epic_programmer_55489f708/ai-just-scored-378-of-human-intelligence-introducing-the-agci-benchmark-186f)
-- [Looping in JavaScript](https://dev.to/vidya_cdd37fca763a53a10e2/looping-in-javascript-44h2)
-- [CSS BACKGROUND AND FLEXBOX STYLES](https://dev.to/suma_suma/css-background-and-flexbox-styles-3mo1)
+- [✨ Two New Tools Are Live on QuickZap](https://dev.to/curry_lau_9674447236abfc0/two-new-tools-are-live-on-quickzap-5bdl)
+- [Battery-Powered LoRaWAN Temperature and Humidity Sensor: Balancing Power Efficiency and Real-Time Data](https://dev.to/manthink/battery-powered-lorawan-temperature-and-humidity-sensor-balancing-power-efficiency-and-real-time-59gh)
+- [Navigating the Future of IT: Trends, Challenges, and Opportunities](https://dev.to/itcs11/navigating-the-future-of-it-trends-challenges-and-opportunities-3g4a)
+- [What Is Elasticsearch and How to Set It Up in WordPress](https://dev.to/serveravatar/what-is-elasticsearch-and-how-to-set-it-up-in-wordpress-836)
+- [Master C# Programming: Complete Tutorial for Modern Developers](https://dev.to/tpointtechblog/master-c-programming-complete-tutorial-for-modern-developers-5fi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
