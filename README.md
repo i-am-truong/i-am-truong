@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CNNs: from a beginner&#39;s point of view](https://dev.to/nicanor_korir/cnns-from-a-beginners-point-of-view-7ek)
-- [Introducing eventsourcing.dev: A Clear Guide to Event Sourcing](https://dev.to/patriceckhart/introducing-eventsourcingdev-a-clear-guide-to-event-sourcing-3hga)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-37me)
-- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-33m1)
-- [Git Deep Dive: Mastering rerere](https://dev.to/louis7/git-deep-dive-mastering-rerere-12jm)
+- [Terraform, but Safer — How I Built tf-safe to Protect State Files Automatically](https://dev.to/birhrt/terraform-but-safer-how-i-built-tf-safe-to-protect-state-files-automatically-2ndd)
+- [blob14](https://dev.to/query_filter_591122b53770/blob14-3a0j)
+- [Integrate SDKs for Profitable AI Conversations with Monetzly](https://dev.to/monetzly/integrate-sdks-for-profitable-ai-conversations-with-monetzly-48c6)
+- [AI in Content Marketing: 2025&#39;s Biggest Shift](https://dev.to/synergistdigitalmedia/ai-in-content-marketing-2025s-biggest-shift-550e)
+- [I Was Done Getting Answers — So I Built RAG That Asks Questions Too](https://dev.to/nishant_prakash_780f5d541/i-was-done-getting-answers-so-i-built-rag-that-asks-questions-too-1c2e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
