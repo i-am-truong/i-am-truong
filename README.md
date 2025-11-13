@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Prompts Matter: How AI Answers Change Based on What You Ask](https://dev.to/najilouis/why-prompts-matter-how-ai-answers-change-based-on-what-you-ask-5778)
-- [How to Ensure Quality of Responses in AI Agents: A Practical, End-to-End Playbook](https://dev.to/kuldeep_paul/how-to-ensure-quality-of-responses-in-ai-agents-a-practical-end-to-end-playbook-1p90)
-- [Sharing My Little Experiment: Code Genie – A Simple Open-Source Tool to Help with Code Ideas](https://dev.to/vision2030/sharing-my-little-experiment-code-genie-a-simple-open-source-tool-to-help-with-code-ideas-2e3h)
-- [How to Migrate Your Local WordPress Site to a Vito Web Panel Server](https://dev.to/aiarnob/how-to-migrate-your-local-wordpress-site-to-a-vito-web-panel-server-3f84)
-- [Project-based learning vs tutorials: Escape tutorial hell](https://dev.to/frontendmentor/project-based-learning-vs-tutorials-escape-tutorial-hell-1cpp)
+- [Model Driven App: disable &quot;Open in Excel Online&quot; button](https://dev.to/_neronotte/model-driven-app-disable-open-in-excel-online-button-15j9)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-3l2d)
+- [Tipos que programam: construindo um encoder Base64 em tempo de compilação](https://dev.to/iagobelo/tipos-que-programam-construindo-um-encoder-base64-em-tempo-de-compilacao-1b02)
+- [Why Coursiv Believes the Developer of the Future Is Also a Teacher](https://dev.to/allenbailey25/why-coursiv-believes-the-developer-of-the-future-is-also-a-teacher-2n97)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 5 - &#39;Lady Bird’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-5-lady-bird-1695)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
