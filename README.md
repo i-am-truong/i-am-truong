@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Internet of Things](https://dev.to/solegaonkar/the-internet-of-things-154j)
+- [🚀 Introducing Router-Kit a lightweight, eco-friendly React router for simple routing needs](https://dev.to/mohammedbencheikh/introducing-router-kit-a-lightweight-eco-friendly-react-router-for-simple-routing-needs-1aaj)
+- [boing de mango](https://dev.to/hary_valentinobeltranhe/gh-3kho)
 - [devme.me a puzzle meme-driven mini-game full of silly jokes](https://dev.to/linegel/devmeme-a-puzzle-meme-driven-mini-game-full-of-silly-jokes-1d32)
 - [How to Use GitHub Secrets Effectively in Multi-Service Deployments](https://dev.to/avwerosuoghene/how-to-use-github-secrets-effectively-in-multi-service-deployments-13dp)
-- [Becoming a full stack developer &lpar;Ml Engineer&rpar; day 5](https://dev.to/ujjawal_patel_9baa51e6bf5/becoming-a-full-stack-developer-ml-engineer-day-5-1a5p)
-- [Understanding Go&#39;s context Package: A Guide to Proper Usage](https://dev.to/idrisakintobi/understanding-gos-context-package-a-guide-to-proper-usage-341h)
-- [Gemini CLI Core Commands: Work Calmly, Ship Confidently](https://dev.to/james_miller_8dc58a89cb9e/gemini-cli-core-commands-work-calmly-ship-confidently-4cnm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
