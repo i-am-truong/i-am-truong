@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding AI Agents: Compilers of Human Intent](https://dev.to/sandeep_sharma_2c6860616f/understanding-ai-agents-compilers-of-human-intent-5834)
-- [Is AI Really Dangerous or Is It a Myth? Separating Facts from Fear](https://dev.to/sagar_sajwan_a91beb41c861/is-ai-really-dangerous-or-is-it-a-myth-separating-facts-from-fear-in-2025-f5e)
-- [Cloud vs On-Premise Warranty Management Systems:- Which Is Better in 2025?](https://dev.to/digiwarr/cloud-vs-on-premise-warranty-management-systems-which-is-better-in-2025-l0k)
-- [Efficient S3 File Uploads: Speed &amp; Large File Handling in NestJS](https://dev.to/adamthedeveloper/efficient-s3-file-uploads-speed-large-file-handling-in-nestjs-31a4)
-- [Use Markdownlint for your documentation](https://dev.to/jonasbn/use-markdownlint-for-your-documentation-5ln)
+- [Dark Mode for Help Centers: Pros, Cons, and Implementation Tips](https://dev.to/freepixel11/dark-mode-for-help-centers-pros-cons-and-implementation-tips-4ik1)
+- [The Hard Truth About Learning to Code &lpar;That No One Tells You&rpar;](https://dev.to/hadil/the-hard-truth-about-learning-to-code-that-no-one-tells-you-15c1)
+- [SaaS, PaaS, and IaaS: A Comprehensive Guide to Cloud Service Models](https://dev.to/saaslyai/saas-paas-and-iaas-a-comprehensive-guide-to-cloud-service-models-44i0)
+- [🚀 Built a Full CI/CD Pipeline with Playwright + Docker + Allure in Just 2 Days](https://dev.to/deftoexplore/built-a-full-cicd-pipeline-with-playwright-docker-allure-in-just-2-days-155m)
+- [BulkSend your documents to multiple recipients using BoldSign](https://dev.to/boldsign/bulksend-your-documents-to-multiple-recipients-using-boldsign-575k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
