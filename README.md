@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AWS Builder Center: Connect, Learn, and Build with the Cloud Community](https://dev.to/devteam/aws-builder-center-connect-learn-and-build-with-the-cloud-community-3jge)
-- [Dancing in the Clouds: Moving Dancer2 Apps from a VPS to Cloud Run](https://dev.to/davorg/dancing-in-the-clouds-moving-dancer2-apps-from-a-vps-to-cloud-run-omb)
-- [Key challenges in API test automation](https://dev.to/tomjohnson3/key-challenges-in-api-test-automation-3gp9)
-- [form4](https://dev.to/query_filter_591122b53770/form4-48g2)
-- [MongoDB Drivers and Network Compression](https://dev.to/alexbevi/mongodb-drivers-and-network-compression-4b7)
+- [Variable and Objects in Java](https://dev.to/dinesh_g_909f4a82c67f5bbd/variable-and-objects-in-java-48io)
+- [AI in Content Marketing: 2025 Strategy Guide](https://dev.to/synergistdigitalmedia/ai-in-content-marketing-2025-strategy-guide-3j30)
+- [5 Money Metrics Every Digital Professional Should Track](https://dev.to/luketaylor25/5-money-metrics-every-digital-professional-should-track-44km)
+- [# 🛠️ Fixing “No Valid Android SDK Root Found” Error in WSL &lpar;Ubuntu&rpar;](https://dev.to/kabahima/-fixing-no-valid-android-sdk-root-found-error-in-wsl-ubuntu-361o)
+- [AI Content Marketing: 2025 Strategies That Actually Work](https://dev.to/synergistdigitalmedia/ai-content-marketing-2025-strategies-that-actually-work-fpm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
