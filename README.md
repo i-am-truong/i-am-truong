@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Thread Pool](https://dev.to/min38/thread-pool-3ema)
-- [Steps on how to create Virtual Machine](https://dev.to/baris86/steps-on-how-to-create-virtual-machine-571b)
-- [How to Integrate WebAssembly: 7 Practical Patterns for Faster Web Applications](https://dev.to/aaravjoshi/how-to-integrate-webassembly-7-practical-patterns-for-faster-web-applications-1k0h)
-- [We Built an x402 Marketplace for Bookmark Collectors &lpar;That Pays Creators &amp; Curators in USDC&rpar;](https://dev.to/handuo/we-built-an-x402-marketplace-for-bookmark-collectors-3id)
-- [Create Your First Google ADK Agent: A Beginner&#39;s Guide](https://dev.to/ranand12/create-your-first-google-adk-agent-a-beginners-guide-5d41)
+- [A Curated List of Awesome BASIC Dialects, IDEs, and Tutorials](https://dev.to/stelixx-insider/a-curated-list-of-awesome-basic-dialects-ides-and-tutorials-77i)
+- [AI Content Marketing: 2025 Strategy Guide](https://dev.to/synergistdigitalmedia/ai-content-marketing-2025-strategy-guide-197i)
+- [Understanding Container Magic: The Overlay Filesystem Story](https://dev.to/ajinkya_singh_2c02bd40423/understanding-container-magic-the-overlay-filesystem-story-37dh)
+- [JavaScript Unit Testing with Jest: 8 Essential Techniques Every Developer Should Master](https://dev.to/aaravjoshi/javascript-unit-testing-with-jest-8-essential-techniques-every-developer-should-master-4mk0)
+- [I Built a Voice-Controlled Plant Sitter in Python with Goose &amp; Gemini CLI](https://dev.to/smyekh/i-built-a-voice-controlled-plant-sitter-in-python-with-goose-gemini-cli-5g29)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
