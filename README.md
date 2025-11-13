@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Lessons from Building a 24/7 Autonomous AI System](https://dev.to/ottobot2025/lessons-from-building-a-247-autonomous-ai-system-emd)
 - [A Curated List of Awesome BASIC Dialects, IDEs, and Tutorials](https://dev.to/stelixx-insider/a-curated-list-of-awesome-basic-dialects-ides-and-tutorials-77i)
 - [Data Types in JavaScript](https://dev.to/code-scythe/data-types-in-javascript-249j)
 - [demo](https://dev.to/veltrex_labs/demo-5ee1)
 - [AI Content Marketing: 2025 Strategy Guide](https://dev.to/synergistdigitalmedia/ai-content-marketing-2025-strategy-guide-197i)
-- [Understanding Container Magic: The Overlay Filesystem Story](https://dev.to/ajinkya_singh_2c02bd40423/understanding-container-magic-the-overlay-filesystem-story-37dh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
