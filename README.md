@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Fusaka Mainnet Upgrade, Linea’s Exponent Tokenomics, Etherspot’s EIP-7702 Workshop at Devconnect](https://dev.to/etherspot/fusaka-mainnet-upgrade-lineas-exponent-tokenomics-etherspots-eip-7702-workshop-at-devconnect-1kdo)
+- [How to Add Real-Time Web Search to Your LLM Using Tavily](https://dev.to/manishmshiva/how-to-add-real-time-web-search-to-your-llm-using-tavily-37hn)
+- [Setup Your Lightweight Backend in Minutes using PocketBase and Sevalla](https://dev.to/manishmshiva/setup-your-lightweight-backend-in-minutes-using-pocketbase-and-sevalla-20c6)
+- [What I Learned After My First Week Sharing on Dev.to](https://dev.to/itsugo/what-i-learned-after-my-first-week-sharing-on-devto-3ifp)
 - [I built a clean admin dashboard template using Next.js + MUI — would love your feedback!](https://dev.to/royh/i-built-a-clean-admin-dashboard-template-using-nextjs-mui-would-love-your-feedback-cc8)
-- [Seagate Launches Next-Generation Edge Enterprise Storage, Engineered for Tomorrow’s Data Challenges](https://dev.to/back_link1_cd5021c4627b58/seagate-launches-next-generation-edge-enterprise-storage-engineered-for-tomorrows-data-challenges-1d17)
-- [The MCP Reckoning =&gt; Why the Protocol Never Worked and What Comes Next](https://dev.to/ejb503/the-mcp-reckoning-why-the-protocol-never-worked-and-what-comes-next-26oi)
-- [🚀 Vibe Coding Mistakes &lpar;When Using AI Tools&rpar; and How to Avoid Them](https://dev.to/tirumalaraonaidu/vibe-coding-mistakes-when-using-ai-tools-and-how-to-avoid-them-2p7c)
-- [[Boost]](https://dev.to/marvin_p/-4a0f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
