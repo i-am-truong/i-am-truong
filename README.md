@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-ba)
-- [Ringer Movies: The 25 Best Movies of the Century: No. 5 - &#39;Lady Bird’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-5-lady-bird-1o9b)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-57mi)
-- [Mr Sunday Movies: A New High? - Predator: Badlands Review](https://dev.to/popcorn_movies/mr-sunday-movies-a-new-high-predator-badlands-review-1g50)
-- [Metric Tradeoffs in Data Science: Deciding When One Metric Goes Up and Another Goes Down](https://dev.to/xiaoming_nian_94953c8c9b8/metric-tradeoffs-in-data-science-deciding-when-one-metric-goes-up-and-another-goes-down-1e55)
+- [Build Your Own WiFi-Controlled Drone with ESP32 &lpar;Beginner-Friendly&rpar;](https://dev.to/david_thomas/build-your-own-wifi-controlled-drone-with-esp32-beginner-friendly-3146)
+- [Resolving lint-staged + pidtree Failures During Git Pre-Commit Hooks](https://dev.to/zand/resolving-lint-staged-pidtree-failures-during-git-pre-commit-hooks-p1a)
+- [Boosting Your Upwork Journey with Credly Certifications](https://dev.to/itsmstfbysl/boosting-your-upwork-journey-with-credly-certifications-13nf)
+- [I Brought Neovim’s Best Navigation Plugin to VS Code &lpar;And You Don’t Need Vim to Use It&rpar;](https://dev.to/sourav9063/i-brought-neovims-best-navigation-plugin-to-vs-code-and-you-dont-need-vim-to-use-it-ibe)
+- [Build an Accessible React Modal: A Step-by-Step Guide &lpar;No Libraries!&rpar;](https://dev.to/hashbyt/build-an-accessible-react-modal-a-step-by-step-guide-no-libraries-3di6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
