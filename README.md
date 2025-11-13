@@ -121,9 +121,9 @@ Python                   1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [devme.me a puzzle meme-driven mini-game full of silly jokes](https://dev.to/linegel/devmeme-a-puzzle-meme-driven-mini-game-full-of-silly-jokes-1d32)
 - [How to Use GitHub Secrets Effectively in Multi-Service Deployments](https://dev.to/avwerosuoghene/how-to-use-github-secrets-effectively-in-multi-service-deployments-13dp)
+- [Becoming a full stack developer &lpar;Ml Engineer&rpar; day 5](https://dev.to/ujjawal_patel_9baa51e6bf5/becoming-a-full-stack-developer-ml-engineer-day-5-1a5p)
 - [Understanding Go&#39;s context Package: A Guide to Proper Usage](https://dev.to/idrisakintobi/understanding-gos-context-package-a-guide-to-proper-usage-341h)
-- [Building a Duolingo-Style Interactive Mascot in Rive: Step-by-Step Guide](https://dev.to/uianimation/building-a-duolingo-style-interactive-mascot-in-rive-step-by-step-guide-2d5c)
-- [Optimizing In-Browser PDF Rendering/Viewing](https://dev.to/joyfill/optimizing-in-browser-pdf-renderingviewing-22g3)
+- [Gemini CLI Core Commands: Work Calmly, Ship Confidently](https://dev.to/james_miller_8dc58a89cb9e/gemini-cli-core-commands-work-calmly-ship-confidently-4cnm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
