@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Launch a Profitable Online Clothing Brand in 2025](https://dev.to/creative_soul_1f7d988fcf9/how-to-launch-a-profitable-online-clothing-brand-in-2025-4edk)
+- [The future of Mobile Apps in the era of Agentic AI](https://dev.to/priya_negi_9ffd29931ea408/the-future-of-mobile-apps-in-the-era-of-agentic-ai-2fjd)
+- [The Journey of Wowzers: Creativity, Challenges, and Our Future](https://dev.to/carter_flynn_7e3f50b8c386/the-journey-of-wowzers-creativity-challenges-and-our-future-3cfj)
+- [🧠 How User-Space and Kernel-Space Affect Security in Linux](https://dev.to/secbyshresth/how-user-space-and-kernel-space-affect-security-in-linux-18an)
 - [What It Takes to Build a Modern Social Network in Django](https://dev.to/smartlegionlab/what-it-takes-to-build-a-modern-social-network-in-django-24dd)
-- [SEnoir devs help me need guidanace](https://dev.to/aditya_58e93/senoir-devs-help-me-need-guidanace-3doh)
-- [I Built 3 Full-Stack Clones in 3 Months — But I’m Not a “Real Coder” &lpar;Yet&rpar;. Roast Me.](https://dev.to/aditya_58e93/i-built-3-full-stack-clones-in-3-months-but-im-not-a-real-coder-yet-roast-me-55if)
-- [🔗 LangChain na prática: Conceitos fundamentais e avançados para construir agentes inteligentes](https://dev.to/matheusdeuss/langchain-na-pratica-conceitos-fundamentais-e-avancados-para-construir-agentes-inteligentes-4jo6)
-- [🚀 Scaling Up: Why I Chose FastAPI Over Flask and Django for a Data API](https://dev.to/roberttidball/scaling-up-why-i-chose-fastapi-over-flask-and-django-for-a-data-api-1phi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
