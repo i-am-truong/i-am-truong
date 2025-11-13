@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Jordium Gantt Vue3 Update — Canvas Optimized, Dragging Reimagined](https://dev.to/nelson_li_c5265341756c7ab/jordium-gantt-vue3-update-canvas-optimized-dragging-reimagined-232l)
-- [7 Advanced Yet Practical Ways to Make Your AI Pipeline Production-Grade](https://dev.to/akadhanu/7-advanced-yet-practical-ways-to-make-your-ai-pipeline-production-grade-6d9)
-- [Wow Great!! Vision of Ajay Hinduja](https://dev.to/isla_cook_eefe09b13f92a04/wow-great-vision-of-ajay-hinduja-nmm)
-- [Understanding Span&lt;T&gt; in C#](https://dev.to/mariemoalla/understanding-span-in-c-jk1)
-- [Ajay Hinduja believes in Humanoid Robots: The Future of Industrial Automation using AI](https://dev.to/geofflyon/ajay-hinduja-believes-in-humanoid-robots-the-future-of-industrial-automation-using-ai-38jh)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-ba)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 5 - &#39;Lady Bird’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-5-lady-bird-1o9b)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-57mi)
+- [Mr Sunday Movies: A New High? - Predator: Badlands Review](https://dev.to/popcorn_movies/mr-sunday-movies-a-new-high-predator-badlands-review-1g50)
+- [Metric Tradeoffs in Data Science: Deciding When One Metric Goes Up and Another Goes Down](https://dev.to/xiaoming_nian_94953c8c9b8/metric-tradeoffs-in-data-science-deciding-when-one-metric-goes-up-and-another-goes-down-1e55)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
