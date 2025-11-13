@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Create custom steps for Workspace Flows](https://dev.to/googleworkspace/create-custom-steps-for-workspace-flows-2m4o)
+- [Career advice for starting over at 31](https://dev.to/abzresponsible/career-advice-for-starting-over-at-31-24d)
+- [Did you know that AI-powered audio restoration technology ha](https://dev.to/drcarlosruizviquez/did-you-know-that-ai-powered-audio-restoration-technology-ha-42e1)
 - [Configurando Testes com Jest e Testing Library em um Projeto TypeScript](https://dev.to/marcos_vile/configurando-testes-com-jest-e-testing-library-em-um-projeto-typescript-pdm)
 - [The Production Readiness Checklist](https://dev.to/michaelsolati/the-production-readiness-checklist-1922)
-- [Automatizando a Segurança na AWS: Um Guia Prático com Terraform](https://dev.to/marcos_vile/automatizando-a-seguranca-na-aws-um-guia-pratico-com-terraform-48o8)
-- [Using x402-next with Next.js 16](https://dev.to/shahbaz17/using-x402-next-with-nextjs-16-1me1)
-- [AI Content Marketing: 2025 Strategy Guide](https://dev.to/synergistdigitalmedia/ai-content-marketing-2025-strategy-guide-4399)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
