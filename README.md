@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Dark Mode for Help Centers: Pros, Cons, and Implementation Tips](https://dev.to/freepixel11/dark-mode-for-help-centers-pros-cons-and-implementation-tips-4ik1)
-- [The Hard Truth About Learning to Code &lpar;That No One Tells You&rpar;](https://dev.to/hadil/the-hard-truth-about-learning-to-code-that-no-one-tells-you-15c1)
-- [SaaS, PaaS, and IaaS: A Comprehensive Guide to Cloud Service Models](https://dev.to/saaslyai/saas-paas-and-iaas-a-comprehensive-guide-to-cloud-service-models-44i0)
-- [🚀 Built a Full CI/CD Pipeline with Playwright + Docker + Allure in Just 2 Days](https://dev.to/deftoexplore/built-a-full-cicd-pipeline-with-playwright-docker-allure-in-just-2-days-155m)
-- [BulkSend your documents to multiple recipients using BoldSign](https://dev.to/boldsign/bulksend-your-documents-to-multiple-recipients-using-boldsign-575k)
+- [Building Conflux - My Own Real-time Collaboration Engine in Rust](https://dev.to/kayleecodez/building-conflux-my-own-real-time-collaboration-engine-in-rust-41lm)
+- [Next.js Server Actions vs API Routes: Don’t Build Your App Until You Read This](https://dev.to/myogeshchavan97/nextjs-server-actions-vs-api-routes-dont-build-your-app-until-you-read-this-4kb9)
+- [Multilingual AI and Its Impact in India](https://dev.to/qwegle_insights/multilingual-ai-and-its-impact-in-india-52a0)
+- [NoteBookLM Tutorial: How to Turn Documents Into AI Podcasts](https://dev.to/siddhartha_vandavasi_5c3a/notebooklm-tutorial-how-to-turn-documents-into-ai-podcasts-37j5)
+- [How to Add WhatsApp Button in Your Automotive App](https://dev.to/kamal_deeppareek_f5bb5d8/how-to-add-whatsapp-button-in-your-automotive-app-4emf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
