@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🧩Scenario #15 — Horizontal Pod Autoscaler &lpar;HPA&rpar; in Kubernetes](https://dev.to/latchudevops/scenario-15-horizontal-pod-autoscaler-hpa-in-kubernetes-5eo1)
+- [Untitled](https://dev.to/junayed_islam_2c7c9e1d0ce/untitled-3bjh)
+- [NocoBase Weekly Updates: Optimization and Bug Fixes](https://dev.to/nocobase/nocobase-weekly-updates-optimization-and-bug-fixes-4fin)
+- [🚀 ทำความเข้าใจ Row-Level Security &lpar;RLS&rpar; ใน PostgreSQL แบบง่ายที่สุด](https://dev.to/tanakritseangnet/thamkhwaamekhaaaicch-row-level-security-rls-ain-postgresql-aebbngaaythiisud-4m25)
 - [GitHub Copilot Model Context Sizes &lpar;Nov 2025&rpar;](https://dev.to/dr_furqanullah_8819ecd9/github-copilot-model-context-sizes-nov-2025-3nif)
-- [How I Build Books, Brands &amp; Products With ChatGPT](https://dev.to/jaideepparashar/how-i-build-books-brands-products-with-chatgpt-3em5)
-- [🚀 ¡Despídete del Caos de Configs! Mi Viaje con Azure App Configuration: Escalabilidad, Seguridad y 0 Downtimes en Microservicios](https://dev.to/francotel/despidete-del-caos-de-configs-mi-viaje-con-azure-app-configuration-escalabilidad-seguridad-y-52g7)
-- [Build Live Caption Broadcasting for Events with Next.js and Elevenlabs API](https://dev.to/jqueryscript/build-live-caption-broadcasting-for-events-with-nextjs-and-elevenlabs-api-1mbb)
-- [Taming Complexity: Unleashing Evolutionary Algorithms for System Modeling](https://dev.to/arvind_sundararajan/taming-complexity-unleashing-evolutionary-algorithms-for-system-modeling-52lb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
