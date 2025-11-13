@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Key challenges in API test automation](https://dev.to/tomjohnson3/key-challenges-in-api-test-automation-3gp9)
+- [MongoDB Drivers and Network Compression](https://dev.to/alexbevi/mongodb-drivers-and-network-compression-4b7)
 - [Model Driven App: disable &quot;Open in Excel Online&quot; button](https://dev.to/_neronotte/model-driven-app-disable-open-in-excel-online-button-15j9)
 - [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-3l2d)
 - [Tipos que programam: construindo um encoder Base64 em tempo de compilação](https://dev.to/iagobelo/tipos-que-programam-construindo-um-encoder-base64-em-tempo-de-compilacao-1b02)
-- [Why Coursiv Believes the Developer of the Future Is Also a Teacher](https://dev.to/allenbailey25/why-coursiv-believes-the-developer-of-the-future-is-also-a-teacher-2n97)
-- [Ringer Movies: The 25 Best Movies of the Century: No. 5 - &#39;Lady Bird’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-5-lady-bird-1695)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
