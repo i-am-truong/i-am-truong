@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A controller in Kubernetes is a control loop that:](https://dev.to/jumptotech/a-controller-in-kubernetes-is-a-control-loop-that-23d3)
-- [He realizado un curso de 20 vídeos para aprender bases de datos](https://dev.to/luisjoselopezd/he-realizado-un-curso-de-20-videos-para-aprender-bases-de-datos-58id)
-- [Comprehensive Hands-on Walk Through of Dremio Cloud Next Gen &lpar;Hands-on with Free Trial&rpar;](https://dev.to/alexmercedcoder/comprehensive-hands-on-walk-through-of-dremio-cloud-next-gen-hands-on-with-free-trial-3b88)
-- [openai-whisper从多媒体抽取文本（windows GPU 版本）](https://dev.to/dragon72463399/openai-whispercong-duo-mei-ti-chou-qu-wen-ben-windows-gpu-ban-ben--5dc6)
-- [DSA Fundamentals: Binary Trees - Mastering Tree Traversal and Recursion](https://dev.to/jayk0001/dsa-fundamentals-binary-trees-mastering-tree-traversal-and-recursion-4gmg)
+- [10 Years in: Why I Still Google Everything &lpar;And Why I’m Finally Okay With It&rpar;](https://dev.to/keeganu/10-years-in-why-i-still-google-everything-and-why-im-finally-okay-with-it-3ca7)
+- [Building a Production RAG System for Resume Search: What Actually Worked &lpar;and What Didn&#39;t&rpar;](https://dev.to/harrywynn/building-a-production-rag-system-for-resume-search-what-actually-worked-and-what-didnt-3jaa)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-47mc)
+- [Mr Sunday Movies: A New High? - Predator: Badlands Review](https://dev.to/popcorn_movies/mr-sunday-movies-a-new-high-predator-badlands-review-47h9)
+- [Scaling SEO Across Languages, Countries and Services: The Real Challenges of Multi-Territory Architecture](https://dev.to/antti_kaipila/scaling-seo-across-languages-countries-and-services-the-real-challenges-of-multi-territory-6g8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
