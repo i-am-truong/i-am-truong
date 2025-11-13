@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Launch a Profitable Online Clothing Brand in 2025](https://dev.to/creative_soul_1f7d988fcf9/how-to-launch-a-profitable-online-clothing-brand-in-2025-4edk)
-- [The future of Mobile Apps in the era of Agentic AI](https://dev.to/priya_negi_9ffd29931ea408/the-future-of-mobile-apps-in-the-era-of-agentic-ai-2fjd)
-- [The Journey of Wowzers: Creativity, Challenges, and Our Future](https://dev.to/carter_flynn_7e3f50b8c386/the-journey-of-wowzers-creativity-challenges-and-our-future-3cfj)
-- [🧠 How User-Space and Kernel-Space Affect Security in Linux](https://dev.to/secbyshresth/how-user-space-and-kernel-space-affect-security-in-linux-18an)
-- [What It Takes to Build a Modern Social Network in Django](https://dev.to/smartlegionlab/what-it-takes-to-build-a-modern-social-network-in-django-24dd)
+- [Nuxt Tutorial 1 - First Steps](https://dev.to/aloisseckar/nuxt-tutorial-1-first-steps-2jp5)
+- [Nuxt Tutorial 0 - Introduction](https://dev.to/aloisseckar/nuxt-tutorial-0-introduction-4mli)
+- [AI That Never Forgets? Google’s Nested Learning Makes Models Smarter, Not Bigger](https://dev.to/aiwithapex/ai-that-never-forgets-googles-nested-learning-makes-models-smarter-not-bigger-519p)
+- [How to Plan a Successful Seasonal Marketing Campaign: A Complete Guide](https://dev.to/manjarul_islam_52e9e8207f/how-to-plan-a-successful-seasonal-marketing-campaign-a-complete-guide-3dbj)
+- [🚀 Exploring Microfrontends with Webpack Module Federation](https://dev.to/joel2011140/exploring-microfrontends-with-webpack-module-federation-1g63)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
