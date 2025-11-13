@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What It Takes to Build a Modern Social Network in Django](https://dev.to/smartlegionlab/what-it-takes-to-build-a-modern-social-network-in-django-24dd)
+- [SEnoir devs help me need guidanace](https://dev.to/aditya_58e93/senoir-devs-help-me-need-guidanace-3doh)
+- [I Built 3 Full-Stack Clones in 3 Months — But I’m Not a “Real Coder” &lpar;Yet&rpar;. Roast Me.](https://dev.to/aditya_58e93/i-built-3-full-stack-clones-in-3-months-but-im-not-a-real-coder-yet-roast-me-55if)
+- [🔗 LangChain na prática: Conceitos fundamentais e avançados para construir agentes inteligentes](https://dev.to/matheusdeuss/langchain-na-pratica-conceitos-fundamentais-e-avancados-para-construir-agentes-inteligentes-4jo6)
 - [🚀 Scaling Up: Why I Chose FastAPI Over Flask and Django for a Data API](https://dev.to/roberttidball/scaling-up-why-i-chose-fastapi-over-flask-and-django-for-a-data-api-1phi)
-- [NPR Music: Emily King: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-emily-king-tiny-desk-concert-2l00)
-- [Ringer Movies: The 25 Best Movies of the Century: No. 5 - &#39;Lady Bird’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-5-lady-bird-24n0)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-2b44)
-- [Shock to the System: How We &#39;Hacked&#39; a Tesla at Zero Nights 2017 ⚡🔧](https://dev.to/d3one/shock-to-the-system-how-we-hacked-a-tesla-at-zero-nights-2017-413n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
