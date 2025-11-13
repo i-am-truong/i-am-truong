@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Go&#39;s context Package: A Guide to Proper Usage](https://dev.to/idrisakintobi/understanding-gos-context-package-a-guide-to-proper-usage-341h)
+- [Building a Duolingo-Style Interactive Mascot in Rive: Step-by-Step Guide](https://dev.to/uianimation/building-a-duolingo-style-interactive-mascot-in-rive-step-by-step-guide-2d5c)
+- [Optimizing In-Browser PDF Rendering/Viewing](https://dev.to/joyfill/optimizing-in-browser-pdf-renderingviewing-22g3)
 - [A Practical Guide to Kubernetes Stateful Backup and Recovery](https://dev.to/aws-builders/a-practical-guide-to-kubernetes-stateful-backup-and-recovery-5e9e)
 - [Ringer Movies: The 25 Best Movies of the Century: No. 5 - &#39;Lady Bird’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-5-lady-bird-2bj3)
-- [How Duolingo Uses Rive for Their Character Animation — And How You Can Build a Similar Rive Mascot System](https://dev.to/uianimation/how-duolingo-uses-rive-for-their-character-animation-and-how-you-can-build-a-similar-rive-mascot-5d19)
-- [FinSight: Towards Real-World Financial Deep Research](https://dev.to/paperium/finsight-towards-real-world-financial-deep-research-1a07)
-- [How to become a DJ, which tech and software to use for newbies](https://dev.to/egledigital/how-to-become-a-dj-which-tech-and-software-to-use-for-newbies-1kjj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
