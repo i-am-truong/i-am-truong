@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Thread Pool](https://dev.to/min38/thread-pool-3ema)
+- [Steps on how to create Virtual Machine](https://dev.to/baris86/steps-on-how-to-create-virtual-machine-571b)
+- [How to Integrate WebAssembly: 7 Practical Patterns for Faster Web Applications](https://dev.to/aaravjoshi/how-to-integrate-webassembly-7-practical-patterns-for-faster-web-applications-1k0h)
 - [We Built an x402 Marketplace for Bookmark Collectors &lpar;That Pays Creators &amp; Curators in USDC&rpar;](https://dev.to/handuo/we-built-an-x402-marketplace-for-bookmark-collectors-3id)
 - [Create Your First Google ADK Agent: A Beginner&#39;s Guide](https://dev.to/ranand12/create-your-first-google-adk-agent-a-beginners-guide-5d41)
-- [Speech Language Pathologist Salary Guide 2025](https://dev.to/esc-usa/speech-language-pathologist-salary-guide-2025-3hp)
-- [Best Firearm Parts: A Complete Guide for Enthusiasts and Professionals](https://dev.to/waston_a569aa7628caf50ed0/best-firearm-parts-a-complete-guide-for-enthusiasts-and-professionals-4h99)
-- [Carpet Cleaning Services That Protect Against Color Fading](https://dev.to/bettywillis/carpet-cleaning-services-that-protect-against-color-fading-30de)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
