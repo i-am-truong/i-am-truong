@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Inline editing with custom elements in Rails](https://dev.to/railsdesigner/inline-editing-with-custom-elements-in-rails-10gl)
 - [The Internet of Things](https://dev.to/solegaonkar/the-internet-of-things-154j)
 - [🚀 Introducing Router-Kit a lightweight, eco-friendly React router for simple routing needs](https://dev.to/mohammedbencheikh/introducing-router-kit-a-lightweight-eco-friendly-react-router-for-simple-routing-needs-1aaj)
 - [boing de mango](https://dev.to/hary_valentinobeltranhe/gh-3kho)
 - [devme.me a puzzle meme-driven mini-game full of silly jokes](https://dev.to/linegel/devmeme-a-puzzle-meme-driven-mini-game-full-of-silly-jokes-1d32)
-- [How to Use GitHub Secrets Effectively in Multi-Service Deployments](https://dev.to/avwerosuoghene/how-to-use-github-secrets-effectively-in-multi-service-deployments-13dp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
