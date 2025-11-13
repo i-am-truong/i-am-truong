@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Guide to Linux Command Line for Cloud Engineers](https://dev.to/aws-builders/the-ultimate-guide-to-linux-command-line-for-cloud-engineers-4dd3)
-- [How Salesforce is Shaping the API Economy in 2025](https://dev.to/taniya1004/how-salesforce-is-shaping-the-api-economy-in-2025-4cmh)
-- [How I Fixed My Broken Academic Workflow and Made Peace with Citations](https://dev.to/vincent_gay_77e325241795e/how-i-fixed-my-broken-academic-workflow-and-made-peace-with-citations-1il8)
-- [Do Dham Yatra Package: Know the Challenges and the Best Ways to Deal With Them](https://dev.to/md_tasin_796ae00572dbbd80/do-dham-yatra-package-know-the-challenges-and-the-best-ways-to-deal-with-them-5dp4)
-- [Nuxt Tutorial 1 - First Steps](https://dev.to/aloisseckar/nuxt-tutorial-1-first-steps-2jp5)
+- [Understanding AI Agents: Compilers of Human Intent](https://dev.to/sandeep_sharma_2c6860616f/understanding-ai-agents-compilers-of-human-intent-5834)
+- [Is AI Really Dangerous or Is It a Myth? Separating Facts from Fear](https://dev.to/sagar_sajwan_a91beb41c861/is-ai-really-dangerous-or-is-it-a-myth-separating-facts-from-fear-in-2025-f5e)
+- [Cloud vs On-Premise Warranty Management Systems:- Which Is Better in 2025?](https://dev.to/digiwarr/cloud-vs-on-premise-warranty-management-systems-which-is-better-in-2025-l0k)
+- [Efficient S3 File Uploads: Speed &amp; Large File Handling in NestJS](https://dev.to/adamthedeveloper/efficient-s3-file-uploads-speed-large-file-handling-in-nestjs-31a4)
+- [Use Markdownlint for your documentation](https://dev.to/jonasbn/use-markdownlint-for-your-documentation-5ln)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
