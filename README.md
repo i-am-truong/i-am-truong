@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to MSRL Web](https://dev.to/kartik_patel/introduction-to-msrl-web-521c)
-- [Do You Even Belong in Tech Anymore?](https://dev.to/linkbenjamin/do-you-even-belong-in-tech-anymore-47gc)
-- [Vibe Coding: How You Can Build an App Without Coding Knowledge](https://dev.to/victoria_odeh/vibe-coding-how-you-can-build-an-app-without-coding-knowledge-4f5o)
-- [Is Medical Weight Loss Right for You? Finding Your Solution in Fort Lauderdale](https://dev.to/moselewis/is-medical-weight-loss-right-for-you-finding-your-solution-in-fort-lauderdale-97m)
-- [Polyoxymethylene Price Trend Key Insights for Manufacturers and Procurement Teams](https://dev.to/lavanya_irani_5948439baa4/polyoxymethylene-price-trend-key-insights-for-manufacturers-and-procurement-teams-4b3h)
+- [Creating a Basic FastAPI Application with CRUD Operations](https://dev.to/sakshi_agarwal_4c639a581c/creating-a-basic-fastapi-application-with-crud-operations-278o)
+- [[Boost]](https://dev.to/mohitrajput987/-3afh)
+- [NPR Music: Pulp: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-pulp-tiny-desk-concert-117l)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-b5a)
+- [Top Security Threats in Blockchain](https://dev.to/coinblocklab/top-security-threats-in-blockchain-409f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
