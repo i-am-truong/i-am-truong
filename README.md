@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-g3k)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-5m1)
-- [Introducing `coderkit` — A Practical Utility Toolkit for Everyday JavaScript Work](https://dev.to/shivam_waghmare_b65078f18/introducing-coderkit-a-practical-utility-toolkit-for-everyday-javascript-work-1bl0)
-- [Understanding Metallurgical Microscopes: How They Work, Key Applications, and How to Choose the Right One](https://dev.to/fengdie_li_ff5f7699a062c2/understanding-metallurgical-microscopes-how-they-work-key-applications-and-how-to-choose-the-35p7)
-- [Day 1265 : Myself](https://dev.to/dwane/day-1265-myself-4e9g)
+- [GitHub Copilot Model Context Sizes &lpar;Nov 2025&rpar;](https://dev.to/dr_furqanullah_8819ecd9/github-copilot-model-context-sizes-nov-2025-3nif)
+- [How I Build Books, Brands &amp; Products With ChatGPT](https://dev.to/jaideepparashar/how-i-build-books-brands-products-with-chatgpt-3em5)
+- [🚀 ¡Despídete del Caos de Configs! Mi Viaje con Azure App Configuration: Escalabilidad, Seguridad y 0 Downtimes en Microservicios](https://dev.to/francotel/despidete-del-caos-de-configs-mi-viaje-con-azure-app-configuration-escalabilidad-seguridad-y-52g7)
+- [Build Live Caption Broadcasting for Events with Next.js and Elevenlabs API](https://dev.to/jqueryscript/build-live-caption-broadcasting-for-events-with-nextjs-and-elevenlabs-api-1mbb)
+- [Taming Complexity: Unleashing Evolutionary Algorithms for System Modeling](https://dev.to/arvind_sundararajan/taming-complexity-unleashing-evolutionary-algorithms-for-system-modeling-52lb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
