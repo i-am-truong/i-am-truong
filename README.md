@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AWS Builder Center: Connect, Learn, and Build with the Cloud Community](https://dev.to/devteam/aws-builder-center-connect-learn-and-build-with-the-cloud-community-3jge)
+- [Dancing in the Clouds: Moving Dancer2 Apps from a VPS to Cloud Run](https://dev.to/davorg/dancing-in-the-clouds-moving-dancer2-apps-from-a-vps-to-cloud-run-omb)
 - [Key challenges in API test automation](https://dev.to/tomjohnson3/key-challenges-in-api-test-automation-3gp9)
+- [form4](https://dev.to/query_filter_591122b53770/form4-48g2)
 - [MongoDB Drivers and Network Compression](https://dev.to/alexbevi/mongodb-drivers-and-network-compression-4b7)
-- [Model Driven App: disable &quot;Open in Excel Online&quot; button](https://dev.to/_neronotte/model-driven-app-disable-open-in-excel-online-button-15j9)
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-3l2d)
-- [Tipos que programam: construindo um encoder Base64 em tempo de compilação](https://dev.to/iagobelo/tipos-que-programam-construindo-um-encoder-base64-em-tempo-de-compilacao-1b02)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
