@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Conflux - My Own Real-time Collaboration Engine in Rust](https://dev.to/kayleecodez/building-conflux-my-own-real-time-collaboration-engine-in-rust-41lm)
-- [Next.js Server Actions vs API Routes: Don’t Build Your App Until You Read This](https://dev.to/myogeshchavan97/nextjs-server-actions-vs-api-routes-dont-build-your-app-until-you-read-this-4kb9)
-- [Multilingual AI and Its Impact in India](https://dev.to/qwegle_insights/multilingual-ai-and-its-impact-in-india-52a0)
-- [NoteBookLM Tutorial: How to Turn Documents Into AI Podcasts](https://dev.to/siddhartha_vandavasi_5c3a/notebooklm-tutorial-how-to-turn-documents-into-ai-podcasts-37j5)
-- [How to Add WhatsApp Button in Your Automotive App](https://dev.to/kamal_deeppareek_f5bb5d8/how-to-add-whatsapp-button-in-your-automotive-app-4emf)
+- [Jordium Gantt Vue3 Update — Canvas Optimized, Dragging Reimagined](https://dev.to/nelson_li_c5265341756c7ab/jordium-gantt-vue3-update-canvas-optimized-dragging-reimagined-232l)
+- [Ajay Hinduja believes in Humanoid Robots: The Future of Industrial Automation using AI](https://dev.to/geofflyon/ajay-hinduja-believes-in-humanoid-robots-the-future-of-industrial-automation-using-ai-38jh)
+- [Responsive Design in CSS: Mastering Media Queries and Fluid Layouts](https://dev.to/sharique_siddiqui_8242dad/responsive-design-in-css-mastering-media-queries-and-fluid-layouts-4aa1)
+- [Is String Truly Immutable?](https://dev.to/vulinh64/is-string-truly-immutable-g00)
+- [Integrating Oracles in Smart Contracts Using Chainlink](https://dev.to/williamsj04/integrating-oracles-in-smart-contracts-using-chainlink-1525)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
