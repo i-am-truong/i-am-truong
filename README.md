@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [MCP x Cursor PoC: Rogue MCP Servers, IDE Browsers, and Real Defenses](https://dev.to/0xrelogic/mcp-x-cursor-poc-rogue-mcp-servers-ide-browsers-and-real-defenses-1dda)
-- [UI &amp; UX Course in Pitampura — Start Your Creative Journey at ZICA Pitampura](https://dev.to/divyanshu_rai_a77de0a03ae/ui-ux-course-in-pitampura-start-your-creative-journey-at-zica-pitampura-3jif)
-- [Building a Take-Home Pay Calculator Using JavaScript and Open Data APIs](https://dev.to/johan_smith_44df8af459875/building-a-take-home-pay-calculator-using-javascript-and-open-data-apis-115h)
-- [AI Content Marketing: 2025 Strategy Guide](https://dev.to/synergistdigitalmedia/ai-content-marketing-2025-strategy-guide-1pc0)
-- [Inside the Edge: How Real-Time Data Pipelines Power Connected Devices](https://dev.to/abdul_shamim/inside-the-edge-how-real-time-data-pipelines-power-connected-devices-2m43)
+- [We Built an x402 Marketplace for Bookmark Collectors &lpar;That Pays Creators &amp; Curators in USDC&rpar;](https://dev.to/handuo/we-built-an-x402-marketplace-for-bookmark-collectors-3id)
+- [Create Your First Google ADK Agent: A Beginner&#39;s Guide](https://dev.to/ranand12/create-your-first-google-adk-agent-a-beginners-guide-5d41)
+- [Speech Language Pathologist Salary Guide 2025](https://dev.to/esc-usa/speech-language-pathologist-salary-guide-2025-3hp)
+- [Best Firearm Parts: A Complete Guide for Enthusiasts and Professionals](https://dev.to/waston_a569aa7628caf50ed0/best-firearm-parts-a-complete-guide-for-enthusiasts-and-professionals-4h99)
+- [Carpet Cleaning Services That Protect Against Color Fading](https://dev.to/bettywillis/carpet-cleaning-services-that-protect-against-color-fading-30de)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
