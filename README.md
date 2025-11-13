@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Weaning Woes](https://dev.to/jennyli/weaning-woes-5f86)
-- [Flutter Stateful Widget on the Backend](https://dev.to/horda/flutter-stateful-widget-on-the-backend-3dho)
-- [Build a Smart Object Detection Alarm with Arduino &amp; HC-SR04 Sensor – Full Tutorial](https://dev.to/elmerurbina/build-a-smart-object-detection-alarm-with-arduino-hc-sr04-sensor-full-tutorial-39da)
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-2kbg)
-- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-34eo)
+- [How to make Angular Material inputs look like simple fields](https://dev.to/dhutaryan/how-to-make-angular-material-inputs-look-like-simple-fields-3oe5)
+- [Day 10 Django Learning.](https://dev.to/stackbento/day-10-django-learning-430g)
+- [An ADHD-Friendly Task &amp; Focus Timer Built in PHP.](https://dev.to/wildshark/an-adhd-friendly-task-focus-timer-built-in-php-563h)
+- [Terraform](https://dev.to/jumptotech/terraform-4c0k)
+- [Secure and Efficient Remote File System Mounting with SSHFS: A Practical Guide](https://dev.to/autoescuelaexpres/secure-and-efficient-remote-file-system-mounting-with-sshfs-a-practical-guide-2bin)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
