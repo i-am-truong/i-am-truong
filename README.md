@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Developers Need Automated Brag Docs](https://dev.to/nataliaherself/why-developers-need-automated-brag-docs-1gko)
-- [Inline editing with custom elements in Rails](https://dev.to/railsdesigner/inline-editing-with-custom-elements-in-rails-10gl)
-- [Setting up CI/CD with GitHub Actions](https://dev.to/jongwan93/setting-up-cicd-with-github-actions-1ap9)
-- [How Digital Recordkeeping Enhances Compliance on Public Construction Projects](https://dev.to/kapusto/how-digital-recordkeeping-enhances-compliance-on-public-construction-projects-1af7)
-- [21Shares ETFs Signal Next Wave of Crypto Integration And the Rise of Real-World Crypto Utility](https://dev.to/vincoop/21shares-etfs-signal-next-wave-of-crypto-integration-and-the-rise-of-real-world-crypto-utility-4dfo)
+- [Weaning Woes](https://dev.to/jennyli/weaning-woes-5f86)
+- [Flutter Stateful Widget on the Backend](https://dev.to/horda/flutter-stateful-widget-on-the-backend-3dho)
+- [Build a Smart Object Detection Alarm with Arduino &amp; HC-SR04 Sensor – Full Tutorial](https://dev.to/elmerurbina/build-a-smart-object-detection-alarm-with-arduino-hc-sr04-sensor-full-tutorial-39da)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-2kbg)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-2e59)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
