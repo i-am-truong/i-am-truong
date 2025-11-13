@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Blockchain for Beginner Developers](https://dev.to/np_hacks_code/blockchain-for-beginner-developers-4k0e)
+- [Building a Secure DAL: Composable Multi-Tenancy Filtering with C# and Linq2Db](https://dev.to/gigaherz/building-a-secure-dal-composable-multi-tenancy-filtering-with-c-and-linq2db-19lo)
+- [From Figma to Next.js: How I Built a Functional UI Using Kombai](https://dev.to/tarunsinghofficial/from-figma-to-nextjs-how-i-built-a-functional-ui-using-kombai-335j)
 - [It’s Not the Product Owner - It’s You. “We Don’t Have Time for Refactoring” Is the Most Expensive Lie in Tech](https://dev.to/sylwia-lask/its-not-the-product-owner-its-you-we-dont-have-time-for-refactoring-is-the-most-expensive-adp)
 - [How CAMEL Rebuilt Browser Automation: From Python to TypeScript for Reliable AI Agents](https://dev.to/camel-ai/how-camel-rebuilt-browser-automation-from-python-to-typescript-for-reliable-ai-agents-2893)
-- [Shipping Faster with Strapi AI Translations &amp; More Homepage Customizations](https://dev.to/strapi/shipping-faster-with-strapi-ai-translations-more-homepage-customizations-275k)
-- [Why I Enter Contests Even When I Lose](https://dev.to/juliamendelwritingagain/why-i-enter-contests-even-when-i-lose-4b69)
-- [Comic Translate: Unleash the Power of GPT-4 for Flawless Global Comic Translation](https://dev.to/githubopensource/comic-translate-unleash-the-power-of-gpt-4-for-flawless-global-comic-translation-3hd0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
