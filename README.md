@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Creating a Basic FastAPI Application with CRUD Operations](https://dev.to/sakshi_agarwal_4c639a581c/creating-a-basic-fastapi-application-with-crud-operations-278o)
-- [[Boost]](https://dev.to/mohitrajput987/-3afh)
-- [NPR Music: Pulp: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-pulp-tiny-desk-concert-117l)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-b5a)
-- [Top Security Threats in Blockchain](https://dev.to/coinblocklab/top-security-threats-in-blockchain-409f)
+- [Strapi AI is now Generally Available, DX Upgrades and Cloud Improvements!](https://dev.to/strapi/strapi-ai-is-now-generally-available-dx-upgrades-and-cloud-improvements-amg)
+- [Bicycles Are All Your AI Agents Need](https://dev.to/cloudx/bicycles-are-all-your-ai-agents-need-33cc)
+- [What’s a project you’re genuinely proud of?](https://dev.to/madsendev/whats-a-project-youre-genuinely-proud-of-1k4f)
+- [Top 10 Portfolio Project Ideas for Beginner Developers &lpar;Each With Real-World Use Cases&rpar;](https://dev.to/dhruvjoshi9/top-10-portfolio-project-ideas-for-beginner-developers-each-with-real-world-use-cases-1emb)
+- [Fixing Failing Tests Automatically with Playwright’s New Healer Agent](https://dev.to/debs_obrien/fixing-failing-tests-automatically-with-playwrights-new-healer-agent-13ck)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
