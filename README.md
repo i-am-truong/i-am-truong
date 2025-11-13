@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [devme.me a puzzle meme-driven mini-game full of silly jokes](https://dev.to/linegel/devmeme-a-puzzle-meme-driven-mini-game-full-of-silly-jokes-1d32)
+- [How to Use GitHub Secrets Effectively in Multi-Service Deployments](https://dev.to/avwerosuoghene/how-to-use-github-secrets-effectively-in-multi-service-deployments-13dp)
 - [Understanding Go&#39;s context Package: A Guide to Proper Usage](https://dev.to/idrisakintobi/understanding-gos-context-package-a-guide-to-proper-usage-341h)
 - [Building a Duolingo-Style Interactive Mascot in Rive: Step-by-Step Guide](https://dev.to/uianimation/building-a-duolingo-style-interactive-mascot-in-rive-step-by-step-guide-2d5c)
 - [Optimizing In-Browser PDF Rendering/Viewing](https://dev.to/joyfill/optimizing-in-browser-pdf-renderingviewing-22g3)
-- [A Practical Guide to Kubernetes Stateful Backup and Recovery](https://dev.to/aws-builders/a-practical-guide-to-kubernetes-stateful-backup-and-recovery-5e9e)
-- [Ringer Movies: The 25 Best Movies of the Century: No. 5 - &#39;Lady Bird’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-5-lady-bird-2bj3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
