@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Blue/Green Deployment, Ensuring Zero Downtime Deployments](https://dev.to/alina_shujaat_e1753c735c2/bluegreen-deployment-ensuring-zero-downtime-deployments-2o9b)
-- [Reproducible Dev Environments](https://dev.to/khozaei/reproducible-dev-environments-10mk)
-- [Tcpdump and SNAT on Linux NAT Server: Why Outgoing SNAT Packets Don’t Appear in Captures &lpar;and How to Fix It&rpar;](https://dev.to/jelly5199/tcpdump-and-snat-on-linux-nat-server-why-outgoing-snat-packets-dont-appear-in-captures-and-how-252l)
-- [Optimize Your ForgeRock IDM MySQL Repository with these Performance Tuning Best Practices](https://dev.to/iamdevbox/optimize-your-forgerock-idm-mysql-repository-with-these-performance-tuning-best-practices-3e61)
-- [The Production-Ready GenAI Platform: A Complete AWS Architecture for Codified Governance](https://dev.to/dee66/the-production-ready-genai-platform-a-complete-aws-architecture-for-codified-governance-4m5e)
+- [Project-based learning vs tutorials: Escape tutorial hell](https://dev.to/frontendmentor/project-based-learning-vs-tutorials-escape-tutorial-hell-1cpp)
+- [“One Reason to Change” — The Forgotten Logic Behind the SRP &lpar;and How Clprolf Completes It&rpar;](https://dev.to/charles_koffler_bcabc582b/one-reason-to-change-the-forgotten-logic-behind-the-srp-and-how-clprolf-completes-it-1n5o)
+- [Available across the whole Forem network and self-hosted instances if configured](https://dev.to/ben/available-across-the-whole-forem-network-and-self-hosted-instances-if-configured-1m0b)
+- [Cover Image Generation Now an Option in the DEV Editor](https://dev.to/devteam/cover-image-generation-now-an-option-in-the-dev-editor-1nld)
+- [The &quot;Vibe-Coding&quot; Epidemic](https://dev.to/codalio/the-vibe-coding-epidemic-c86)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
