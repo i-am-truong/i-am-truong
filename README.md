@@ -123,7 +123,7 @@ Python                   1 repo              █░░░░░░░░░░�
 - [How to Power IoT and Embedded Devices Efficiently with Lithium Batteries](https://dev.to/aaaakira/how-to-power-iot-and-embedded-devices-efficiently-with-lithium-batteries-52i9)
 - [Configuring Azure App Service Authentication with Azure Entra ID to Exclude API Routes While Protecting the UI](https://dev.to/mikaelkrief2/configuring-azure-app-service-authentication-with-azure-entra-id-to-exclude-api-routes-while-l0i)
 - [How to Manage RDB Migrations Safely in HarmonyOS NEXT](https://dev.to/harmonyos/how-to-manage-rdb-migrations-safely-in-harmonyos-next-56i)
-- [Mastering Async &amp; Concurrency: The React 18+ &amp; Next.js Paradigm Shift](https://dev.to/mahdardavari/mastering-async-concurrency-the-react-18-nextjs-paradigm-shift-30j9)
+- [C# 14 nima yangiliklar?](https://dev.to/nodirbekabdulaxadov/c-14-nima-yangiliklar-83k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
