@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [10 Years in: Why I Still Google Everything &lpar;And Why I’m Finally Okay With It&rpar;](https://dev.to/keeganu/10-years-in-why-i-still-google-everything-and-why-im-finally-okay-with-it-3ca7)
-- [Building a Production RAG System for Resume Search: What Actually Worked &lpar;and What Didn&#39;t&rpar;](https://dev.to/harrywynn/building-a-production-rag-system-for-resume-search-what-actually-worked-and-what-didnt-3jaa)
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-47mc)
-- [Mr Sunday Movies: A New High? - Predator: Badlands Review](https://dev.to/popcorn_movies/mr-sunday-movies-a-new-high-predator-badlands-review-47h9)
-- [Scaling SEO Across Languages, Countries and Services: The Real Challenges of Multi-Territory Architecture](https://dev.to/antti_kaipila/scaling-seo-across-languages-countries-and-services-the-real-challenges-of-multi-territory-6g8)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-g3k)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-5m1)
+- [Introducing `coderkit` — A Practical Utility Toolkit for Everyday JavaScript Work](https://dev.to/shivam_waghmare_b65078f18/introducing-coderkit-a-practical-utility-toolkit-for-everyday-javascript-work-1bl0)
+- [Understanding Metallurgical Microscopes: How They Work, Key Applications, and How to Choose the Right One](https://dev.to/fengdie_li_ff5f7699a062c2/understanding-metallurgical-microscopes-how-they-work-key-applications-and-how-to-choose-the-35p7)
+- [Day 1265 : Myself](https://dev.to/dwane/day-1265-myself-4e9g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
