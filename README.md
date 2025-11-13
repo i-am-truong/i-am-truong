@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Modern Data Platform to Track Kenya’s Food Prices — A Data Engineering Case Study](https://dev.to/rosewabere/building-a-modern-data-platform-to-track-kenyas-food-prices-a-data-engineering-case-study-15m2)
-- [FAQ: How to Survive Designing a Sustainable Product](https://dev.to/expertise_enviropass_0155/faq-how-to-survive-designing-a-sustainable-product-51p6)
-- [Building a Simple Personal Library with Python: My Experience from Zero to Execution](https://dev.to/shahrouzlogs/building-a-simple-personal-library-with-python-my-experience-from-zero-to-execution-fge)
-- [BetterAuth Integration with Encore.ts](https://dev.to/encore/betterauth-integration-with-encorets-103c)
-- [From raw bytes to 3D worlds: visualizing LiDAR data with Python](https://dev.to/stefan_donosa/from-raw-bytes-to-3d-worlds-visualizing-lidar-data-with-python-24bo)
+- [🚀 Blue/Green Deployment, Ensuring Zero Downtime Deployments](https://dev.to/alina_shujaat_e1753c735c2/bluegreen-deployment-ensuring-zero-downtime-deployments-2o9b)
+- [Reproducible Dev Environments](https://dev.to/khozaei/reproducible-dev-environments-10mk)
+- [Tcpdump and SNAT on Linux NAT Server: Why Outgoing SNAT Packets Don’t Appear in Captures &lpar;and How to Fix It&rpar;](https://dev.to/jelly5199/tcpdump-and-snat-on-linux-nat-server-why-outgoing-snat-packets-dont-appear-in-captures-and-how-252l)
+- [Optimize Your ForgeRock IDM MySQL Repository with these Performance Tuning Best Practices](https://dev.to/iamdevbox/optimize-your-forgerock-idm-mysql-repository-with-these-performance-tuning-best-practices-3e61)
+- [The Production-Ready GenAI Platform: A Complete AWS Architecture for Codified Governance](https://dev.to/dee66/the-production-ready-genai-platform-a-complete-aws-architecture-for-codified-governance-4m5e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
