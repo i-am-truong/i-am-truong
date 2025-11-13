@@ -121,9 +121,9 @@ Python                   1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [Why Developers Need Automated Brag Docs](https://dev.to/nataliaherself/why-developers-need-automated-brag-docs-1gko)
 - [Inline editing with custom elements in Rails](https://dev.to/railsdesigner/inline-editing-with-custom-elements-in-rails-10gl)
+- [Setting up CI/CD with GitHub Actions](https://dev.to/jongwan93/setting-up-cicd-with-github-actions-1ap9)
+- [How Digital Recordkeeping Enhances Compliance on Public Construction Projects](https://dev.to/kapusto/how-digital-recordkeeping-enhances-compliance-on-public-construction-projects-1af7)
 - [21Shares ETFs Signal Next Wave of Crypto Integration And the Rise of Real-World Crypto Utility](https://dev.to/vincoop/21shares-etfs-signal-next-wave-of-crypto-integration-and-the-rise-of-real-world-crypto-utility-4dfo)
-- [The Internet of Things](https://dev.to/solegaonkar/the-internet-of-things-154j)
-- [🚀 Introducing Router-Kit a lightweight, eco-friendly React router for simple routing needs](https://dev.to/mohammedbencheikh/introducing-router-kit-a-lightweight-eco-friendly-react-router-for-simple-routing-needs-1aaj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
