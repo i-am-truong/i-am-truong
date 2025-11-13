@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Build Your Own WiFi-Controlled Drone with ESP32 &lpar;Beginner-Friendly&rpar;](https://dev.to/david_thomas/build-your-own-wifi-controlled-drone-with-esp32-beginner-friendly-3146)
-- [Resolving lint-staged + pidtree Failures During Git Pre-Commit Hooks](https://dev.to/zand/resolving-lint-staged-pidtree-failures-during-git-pre-commit-hooks-p1a)
-- [Boosting Your Upwork Journey with Credly Certifications](https://dev.to/itsmstfbysl/boosting-your-upwork-journey-with-credly-certifications-13nf)
-- [I Brought Neovim’s Best Navigation Plugin to VS Code &lpar;And You Don’t Need Vim to Use It&rpar;](https://dev.to/sourav9063/i-brought-neovims-best-navigation-plugin-to-vs-code-and-you-dont-need-vim-to-use-it-ibe)
-- [Build an Accessible React Modal: A Step-by-Step Guide &lpar;No Libraries!&rpar;](https://dev.to/hashbyt/build-an-accessible-react-modal-a-step-by-step-guide-no-libraries-3di6)
+- [Self-Hosted Web Application Firewall for My Homelab](https://dev.to/arina_cholee/self-hosted-web-application-firewall-for-my-homelab-58oa)
+- [Spring Boot LogX — Free Request Tracing &amp; Smart Logging Boilerplate for Clean, Debuggable APIs](https://dev.to/boiler_agents/spring-boot-logx-free-request-tracing-smart-logging-boilerplate-for-clean-debuggable-apis-22f7)
+- [Everything about Next.js 16](https://dev.to/alex-beygi/everything-about-nextjs-16-2fg3)
+- [Building Reliable Legal AI: Never Missing a Supreme Court Case](https://dev.to/pascal_cescato_692b7a8a20/building-legal-ai-that-doesnt-miss-supreme-court-cases-5aec)
+- [The Illusion of Control](https://dev.to/pascal_cescato_692b7a8a20/the-illusion-of-control-1571)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
