@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I built a clean admin dashboard template using Next.js + MUI — would love your feedback!](https://dev.to/royh/i-built-a-clean-admin-dashboard-template-using-nextjs-mui-would-love-your-feedback-cc8)
+- [Seagate Launches Next-Generation Edge Enterprise Storage, Engineered for Tomorrow’s Data Challenges](https://dev.to/back_link1_cd5021c4627b58/seagate-launches-next-generation-edge-enterprise-storage-engineered-for-tomorrows-data-challenges-1d17)
+- [The MCP Reckoning =&gt; Why the Protocol Never Worked and What Comes Next](https://dev.to/ejb503/the-mcp-reckoning-why-the-protocol-never-worked-and-what-comes-next-26oi)
+- [🚀 Vibe Coding Mistakes &lpar;When Using AI Tools&rpar; and How to Avoid Them](https://dev.to/tirumalaraonaidu/vibe-coding-mistakes-when-using-ai-tools-and-how-to-avoid-them-2p7c)
 - [[Boost]](https://dev.to/marvin_p/-4a0f)
-- [How to Power IoT and Embedded Devices Efficiently with Lithium Batteries](https://dev.to/aaaakira/how-to-power-iot-and-embedded-devices-efficiently-with-lithium-batteries-52i9)
-- [Configuring Azure App Service Authentication with Azure Entra ID to Exclude API Routes While Protecting the UI](https://dev.to/mikaelkrief2/configuring-azure-app-service-authentication-with-azure-entra-id-to-exclude-api-routes-while-l0i)
-- [How to Manage RDB Migrations Safely in HarmonyOS NEXT](https://dev.to/harmonyos/how-to-manage-rdb-migrations-safely-in-harmonyos-next-56i)
-- [C# 14 nima yangiliklar?](https://dev.to/nodirbekabdulaxadov/c-14-nima-yangiliklar-83k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
