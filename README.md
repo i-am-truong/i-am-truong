@@ -120,10 +120,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Jordium Gantt Vue3 Update — Canvas Optimized, Dragging Reimagined](https://dev.to/nelson_li_c5265341756c7ab/jordium-gantt-vue3-update-canvas-optimized-dragging-reimagined-232l)
+- [7 Advanced Yet Practical Ways to Make Your AI Pipeline Production-Grade](https://dev.to/akadhanu/7-advanced-yet-practical-ways-to-make-your-ai-pipeline-production-grade-6d9)
+- [Wow Great!! Vision of Ajay Hinduja](https://dev.to/isla_cook_eefe09b13f92a04/wow-great-vision-of-ajay-hinduja-nmm)
+- [Understanding Span&lt;T&gt; in C#](https://dev.to/mariemoalla/understanding-span-in-c-jk1)
 - [Ajay Hinduja believes in Humanoid Robots: The Future of Industrial Automation using AI](https://dev.to/geofflyon/ajay-hinduja-believes-in-humanoid-robots-the-future-of-industrial-automation-using-ai-38jh)
-- [Responsive Design in CSS: Mastering Media Queries and Fluid Layouts](https://dev.to/sharique_siddiqui_8242dad/responsive-design-in-css-mastering-media-queries-and-fluid-layouts-4aa1)
-- [Is String Truly Immutable?](https://dev.to/vulinh64/is-string-truly-immutable-g00)
-- [Integrating Oracles in Smart Contracts Using Chainlink](https://dev.to/williamsj04/integrating-oracles-in-smart-contracts-using-chainlink-1525)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
