@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to MSRL Web](https://dev.to/kartik_patel/introduction-to-msrl-web-521c)
+- [Do You Even Belong in Tech Anymore?](https://dev.to/linkbenjamin/do-you-even-belong-in-tech-anymore-47gc)
 - [Vibe Coding: How You Can Build an App Without Coding Knowledge](https://dev.to/victoria_odeh/vibe-coding-how-you-can-build-an-app-without-coding-knowledge-4f5o)
 - [Is Medical Weight Loss Right for You? Finding Your Solution in Fort Lauderdale](https://dev.to/moselewis/is-medical-weight-loss-right-for-you-finding-your-solution-in-fort-lauderdale-97m)
 - [Polyoxymethylene Price Trend Key Insights for Manufacturers and Procurement Teams](https://dev.to/lavanya_irani_5948439baa4/polyoxymethylene-price-trend-key-insights-for-manufacturers-and-procurement-teams-4b3h)
-- [Why Accurate As-Built Documentation Matters for Renovation and Retrofits?](https://dev.to/reetielubana/why-accurate-as-built-documentation-matters-for-renovation-and-retrofits-5750)
-- [Fusaka Mainnet Upgrade, Linea’s Exponent Tokenomics, Etherspot’s EIP-7702 Workshop at Devconnect](https://dev.to/etherspot/fusaka-mainnet-upgrade-lineas-exponent-tokenomics-etherspots-eip-7702-workshop-at-devconnect-1kdo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
