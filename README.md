@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Blockchain for Beginner Developers](https://dev.to/np_hacks_code/blockchain-for-beginner-developers-4k0e)
-- [Building a Secure DAL: Composable Multi-Tenancy Filtering with C# and Linq2Db](https://dev.to/gigaherz/building-a-secure-dal-composable-multi-tenancy-filtering-with-c-and-linq2db-19lo)
-- [From Figma to Next.js: How I Built a Functional UI Using Kombai](https://dev.to/tarunsinghofficial/from-figma-to-nextjs-how-i-built-a-functional-ui-using-kombai-335j)
-- [It’s Not the Product Owner - It’s You. “We Don’t Have Time for Refactoring” Is the Most Expensive Lie in Tech](https://dev.to/sylwia-lask/its-not-the-product-owner-its-you-we-dont-have-time-for-refactoring-is-the-most-expensive-adp)
-- [How CAMEL Rebuilt Browser Automation: From Python to TypeScript for Reliable AI Agents](https://dev.to/camel-ai/how-camel-rebuilt-browser-automation-from-python-to-typescript-for-reliable-ai-agents-2893)
+- [FAQ: How to Survive Designing a Sustainable Product](https://dev.to/expertise_enviropass_0155/faq-how-to-survive-designing-a-sustainable-product-51p6)
+- [Building a Simple Personal Library with Python: My Experience from Zero to Execution](https://dev.to/shahrouzlogs/building-a-simple-personal-library-with-python-my-experience-from-zero-to-execution-fge)
+- [BetterAuth Integration with Encore.ts](https://dev.to/encore/betterauth-integration-with-encorets-103c)
+- [From raw bytes to 3D worlds: visualizing LiDAR data with Python](https://dev.to/stefan_donosa/from-raw-bytes-to-3d-worlds-visualizing-lidar-data-with-python-24bo)
+- [Reverse Engineering the M1C1 LiDAR: cracking the protocol without documentation](https://dev.to/stefan_donosa/reverse-engineering-the-m1c1-lidar-cracking-the-protocol-without-documentation-3ji0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
