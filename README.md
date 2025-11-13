@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Desassing, unsassing.](https://dev.to/ivorjetski/desassing-unsassing-nog)
+- [form11](https://dev.to/query_filter_591122b53770/form11-357a)
+- [A Clean, Driver-Aware ORM Architecture in PHP](https://dev.to/dev_iadicola/a-clean-driver-aware-orm-architecture-in-php-20h2)
 - [How to make Angular Material inputs look like simple fields](https://dev.to/dhutaryan/how-to-make-angular-material-inputs-look-like-simple-fields-3oe5)
-- [Day 10 Django Learning.](https://dev.to/stackbento/day-10-django-learning-430g)
-- [An ADHD-Friendly Task &amp; Focus Timer Built in PHP.](https://dev.to/wildshark/an-adhd-friendly-task-focus-timer-built-in-php-563h)
-- [Terraform](https://dev.to/jumptotech/terraform-4c0k)
-- [Secure and Efficient Remote File System Mounting with SSHFS: A Practical Guide](https://dev.to/autoescuelaexpres/secure-and-efficient-remote-file-system-mounting-with-sshfs-a-practical-guide-2bin)
+- [form10](https://dev.to/query_filter_591122b53770/form10-568j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
