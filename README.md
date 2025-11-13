@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Self-Hosted Web Application Firewall for My Homelab](https://dev.to/arina_cholee/self-hosted-web-application-firewall-for-my-homelab-58oa)
-- [Spring Boot LogX — Free Request Tracing &amp; Smart Logging Boilerplate for Clean, Debuggable APIs](https://dev.to/boiler_agents/spring-boot-logx-free-request-tracing-smart-logging-boilerplate-for-clean-debuggable-apis-22f7)
-- [Everything about Next.js 16](https://dev.to/alex-beygi/everything-about-nextjs-16-2fg3)
-- [Building Reliable Legal AI: Never Missing a Supreme Court Case](https://dev.to/pascal_cescato_692b7a8a20/building-legal-ai-that-doesnt-miss-supreme-court-cases-5aec)
-- [The Illusion of Control](https://dev.to/pascal_cescato_692b7a8a20/the-illusion-of-control-1571)
+- [Statistics Day 2: Correlation Isn’t Causation — Here’s Why It Matters!](https://dev.to/brains_behind_bots/day-2-understanding-correlation-causation-and-key-statistical-terms-for-data-science-4i1i)
+- [The AI Shift: Why Specialized Models are the Next Wave for Tech Teams](https://dev.to/idavidov13/the-ai-shift-why-specialized-models-are-the-next-wave-for-tech-teams-2n4p)
+- [Mastering Cross-Region Loadbalancer Configuration](https://dev.to/careerbytecode/mastering-cross-region-loadbalancer-configuration-2di2)
+- [Downloading TikTok Videos with Python &lpar;Part 2&rpar;](https://dev.to/hasdata_com/downloading-tiktok-videos-with-python-part-2-emp)
+- [The Five Paradoxes That Break AI](https://dev.to/c4fkrx/the-five-paradoxes-that-break-ai-n1n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
