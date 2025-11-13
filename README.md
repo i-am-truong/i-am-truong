@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Vibe Coding: How You Can Build an App Without Coding Knowledge](https://dev.to/victoria_odeh/vibe-coding-how-you-can-build-an-app-without-coding-knowledge-4f5o)
+- [Is Medical Weight Loss Right for You? Finding Your Solution in Fort Lauderdale](https://dev.to/moselewis/is-medical-weight-loss-right-for-you-finding-your-solution-in-fort-lauderdale-97m)
+- [Polyoxymethylene Price Trend Key Insights for Manufacturers and Procurement Teams](https://dev.to/lavanya_irani_5948439baa4/polyoxymethylene-price-trend-key-insights-for-manufacturers-and-procurement-teams-4b3h)
+- [Why Accurate As-Built Documentation Matters for Renovation and Retrofits?](https://dev.to/reetielubana/why-accurate-as-built-documentation-matters-for-renovation-and-retrofits-5750)
 - [Fusaka Mainnet Upgrade, Linea’s Exponent Tokenomics, Etherspot’s EIP-7702 Workshop at Devconnect](https://dev.to/etherspot/fusaka-mainnet-upgrade-lineas-exponent-tokenomics-etherspots-eip-7702-workshop-at-devconnect-1kdo)
-- [How to Add Real-Time Web Search to Your LLM Using Tavily](https://dev.to/manishmshiva/how-to-add-real-time-web-search-to-your-llm-using-tavily-37hn)
-- [Setup Your Lightweight Backend in Minutes using PocketBase and Sevalla](https://dev.to/manishmshiva/setup-your-lightweight-backend-in-minutes-using-pocketbase-and-sevalla-20c6)
-- [What I Learned After My First Week Sharing on Dev.to](https://dev.to/itsugo/what-i-learned-after-my-first-week-sharing-on-devto-3ifp)
-- [I built a clean admin dashboard template using Next.js + MUI — would love your feedback!](https://dev.to/royh/i-built-a-clean-admin-dashboard-template-using-nextjs-mui-would-love-your-feedback-cc8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
