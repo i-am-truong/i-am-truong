@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Strapi AI is now Generally Available, DX Upgrades and Cloud Improvements!](https://dev.to/strapi/strapi-ai-is-now-generally-available-dx-upgrades-and-cloud-improvements-amg)
-- [Bicycles Are All Your AI Agents Need](https://dev.to/cloudx/bicycles-are-all-your-ai-agents-need-33cc)
-- [What’s a project you’re genuinely proud of?](https://dev.to/madsendev/whats-a-project-youre-genuinely-proud-of-1k4f)
-- [Top 10 Portfolio Project Ideas for Beginner Developers &lpar;Each With Real-World Use Cases&rpar;](https://dev.to/dhruvjoshi9/top-10-portfolio-project-ideas-for-beginner-developers-each-with-real-world-use-cases-1emb)
-- [Fixing Failing Tests Automatically with Playwright’s New Healer Agent](https://dev.to/debs_obrien/fixing-failing-tests-automatically-with-playwrights-new-healer-agent-13ck)
+- [🚀 Building My First Full-Stack Todo App with React + Supabase ⚛️](https://dev.to/sripadh_sujith_1487e8db18/building-my-first-full-stack-todo-app-with-react-supabase-1pg8)
+- [Think. Update. Automate — PostgreSQL with Rust &lpar;Part 2&rpar;](https://dev.to/manjushaps/think-update-automate-postgresql-with-rust-part-2-4ml8)
+- [How To Build a Frontend with Lovable.dev for Your Strapi Backend](https://dev.to/strapi/how-to-build-a-frontend-with-lovabledev-for-your-strapi-backend-3f22)
+- [Closures Explained in minutes &lpar;🎒 Backpack Analogy&rpar;](https://dev.to/yahav10/closures-explained-in-minutes-backpack-analogy-54k3)
+- [How QBurst Migrated a Luxury Brand from Strapi v4 to Strapi 5](https://dev.to/strapi/how-qburst-migrated-a-luxury-brand-from-strapi-v4-to-strapi-5-1j4m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
