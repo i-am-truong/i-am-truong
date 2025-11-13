@@ -120,10 +120,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [A Curated List of Awesome BASIC Dialects, IDEs, and Tutorials](https://dev.to/stelixx-insider/a-curated-list-of-awesome-basic-dialects-ides-and-tutorials-77i)
+- [Data Types in JavaScript](https://dev.to/code-scythe/data-types-in-javascript-249j)
+- [demo](https://dev.to/veltrex_labs/demo-5ee1)
 - [AI Content Marketing: 2025 Strategy Guide](https://dev.to/synergistdigitalmedia/ai-content-marketing-2025-strategy-guide-197i)
 - [Understanding Container Magic: The Overlay Filesystem Story](https://dev.to/ajinkya_singh_2c02bd40423/understanding-container-magic-the-overlay-filesystem-story-37dh)
-- [JavaScript Unit Testing with Jest: 8 Essential Techniques Every Developer Should Master](https://dev.to/aaravjoshi/javascript-unit-testing-with-jest-8-essential-techniques-every-developer-should-master-4mk0)
-- [I Built a Voice-Controlled Plant Sitter in Python with Goose &amp; Gemini CLI](https://dev.to/smyekh/i-built-a-voice-controlled-plant-sitter-in-python-with-goose-gemini-cli-5g29)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
