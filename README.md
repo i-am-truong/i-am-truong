@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Ultimate Guide to Linux Command Line for Cloud Engineers](https://dev.to/aws-builders/the-ultimate-guide-to-linux-command-line-for-cloud-engineers-4dd3)
+- [How Salesforce is Shaping the API Economy in 2025](https://dev.to/taniya1004/how-salesforce-is-shaping-the-api-economy-in-2025-4cmh)
+- [How I Fixed My Broken Academic Workflow and Made Peace with Citations](https://dev.to/vincent_gay_77e325241795e/how-i-fixed-my-broken-academic-workflow-and-made-peace-with-citations-1il8)
+- [Do Dham Yatra Package: Know the Challenges and the Best Ways to Deal With Them](https://dev.to/md_tasin_796ae00572dbbd80/do-dham-yatra-package-know-the-challenges-and-the-best-ways-to-deal-with-them-5dp4)
 - [Nuxt Tutorial 1 - First Steps](https://dev.to/aloisseckar/nuxt-tutorial-1-first-steps-2jp5)
-- [Nuxt Tutorial 0 - Introduction](https://dev.to/aloisseckar/nuxt-tutorial-0-introduction-4mli)
-- [AI That Never Forgets? Google’s Nested Learning Makes Models Smarter, Not Bigger](https://dev.to/aiwithapex/ai-that-never-forgets-googles-nested-learning-makes-models-smarter-not-bigger-519p)
-- [How to Plan a Successful Seasonal Marketing Campaign: A Complete Guide](https://dev.to/manjarul_islam_52e9e8207f/how-to-plan-a-successful-seasonal-marketing-campaign-a-complete-guide-3dbj)
-- [🚀 Exploring Microfrontends with Webpack Module Federation](https://dev.to/joel2011140/exploring-microfrontends-with-webpack-module-federation-1g63)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
