@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How AI SEO is Transforming Technical Optimization for Developers](https://dev.to/babamanga/how-ai-seo-is-transforming-technical-optimization-for-developers-1j61)
-- [How to Plan a Tournament Structure When You Don&#39;t Know Where to Start](https://dev.to/bracketmaker/how-to-plan-a-tournament-structure-when-you-dont-know-where-to-start-2i3k)
-- [Building Your Own Cloud: A Linux VPC Simulator with vpcctl](https://dev.to/wolecharles/building-your-own-cloud-a-linux-vpc-simulator-with-vpcctl-85n)
-- [AWS Certified Developer - Associate &lpar;DVA-C02&rpar; Exam Guide](https://dev.to/thukhakyawe_cloud/aws-certified-developer-associate-dva-c02-exam-guide-3mm9)
-- [SafeLine WAF Builds a Unified Identity Authentication Hub](https://dev.to/arina_cholee/safeline-waf-builds-a-unified-identity-authentication-hub-1bac)
+- [[Boost]](https://dev.to/marvin_p/-4a0f)
+- [How to Power IoT and Embedded Devices Efficiently with Lithium Batteries](https://dev.to/aaaakira/how-to-power-iot-and-embedded-devices-efficiently-with-lithium-batteries-52i9)
+- [Configuring Azure App Service Authentication with Azure Entra ID to Exclude API Routes While Protecting the UI](https://dev.to/mikaelkrief2/configuring-azure-app-service-authentication-with-azure-entra-id-to-exclude-api-routes-while-l0i)
+- [How to Manage RDB Migrations Safely in HarmonyOS NEXT](https://dev.to/harmonyos/how-to-manage-rdb-migrations-safely-in-harmonyos-next-56i)
+- [Mastering Async &amp; Concurrency: The React 18+ &amp; Next.js Paradigm Shift](https://dev.to/mahdardavari/mastering-async-concurrency-the-react-18-nextjs-paradigm-shift-30j9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
