@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Lessons from Building a 24/7 Autonomous AI System](https://dev.to/ottobot2025/lessons-from-building-a-247-autonomous-ai-system-emd)
-- [A Curated List of Awesome BASIC Dialects, IDEs, and Tutorials](https://dev.to/stelixx-insider/a-curated-list-of-awesome-basic-dialects-ides-and-tutorials-77i)
-- [Data Types in JavaScript](https://dev.to/code-scythe/data-types-in-javascript-249j)
-- [demo](https://dev.to/veltrex_labs/demo-5ee1)
-- [AI Content Marketing: 2025 Strategy Guide](https://dev.to/synergistdigitalmedia/ai-content-marketing-2025-strategy-guide-197i)
+- [A Practical Guide to Kubernetes Stateful Backup and Recovery](https://dev.to/aws-builders/a-practical-guide-to-kubernetes-stateful-backup-and-recovery-5e9e)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 5 - &#39;Lady Bird’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-5-lady-bird-2bj3)
+- [How Duolingo Uses Rive for Their Character Animation — And How You Can Build a Similar Rive Mascot System](https://dev.to/uianimation/how-duolingo-uses-rive-for-their-character-animation-and-how-you-can-build-a-similar-rive-mascot-5d19)
+- [FinSight: Towards Real-World Financial Deep Research](https://dev.to/paperium/finsight-towards-real-world-financial-deep-research-1a07)
+- [How to become a DJ, which tech and software to use for newbies](https://dev.to/egledigital/how-to-become-a-dj-which-tech-and-software-to-use-for-newbies-1kjj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
