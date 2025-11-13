@@ -123,7 +123,7 @@ Python                   1 repo              █░░░░░░░░░░�
 - [Flutter Stateful Widget on the Backend](https://dev.to/horda/flutter-stateful-widget-on-the-backend-3dho)
 - [Build a Smart Object Detection Alarm with Arduino &amp; HC-SR04 Sensor – Full Tutorial](https://dev.to/elmerurbina/build-a-smart-object-detection-alarm-with-arduino-hc-sr04-sensor-full-tutorial-39da)
 - [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-2kbg)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-2e59)
+- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-34eo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
