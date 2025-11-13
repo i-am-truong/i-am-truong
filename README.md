@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Prompts Matter: How AI Answers Change Based on What You Ask](https://dev.to/najilouis/why-prompts-matter-how-ai-answers-change-based-on-what-you-ask-5778)
+- [How to Ensure Quality of Responses in AI Agents: A Practical, End-to-End Playbook](https://dev.to/kuldeep_paul/how-to-ensure-quality-of-responses-in-ai-agents-a-practical-end-to-end-playbook-1p90)
+- [Sharing My Little Experiment: Code Genie – A Simple Open-Source Tool to Help with Code Ideas](https://dev.to/vision2030/sharing-my-little-experiment-code-genie-a-simple-open-source-tool-to-help-with-code-ideas-2e3h)
+- [How to Migrate Your Local WordPress Site to a Vito Web Panel Server](https://dev.to/aiarnob/how-to-migrate-your-local-wordpress-site-to-a-vito-web-panel-server-3f84)
 - [Project-based learning vs tutorials: Escape tutorial hell](https://dev.to/frontendmentor/project-based-learning-vs-tutorials-escape-tutorial-hell-1cpp)
-- [“One Reason to Change” — The Forgotten Logic Behind the SRP &lpar;and How Clprolf Completes It&rpar;](https://dev.to/charles_koffler_bcabc582b/one-reason-to-change-the-forgotten-logic-behind-the-srp-and-how-clprolf-completes-it-1n5o)
-- [Available across the whole Forem network and self-hosted instances if configured](https://dev.to/ben/available-across-the-whole-forem-network-and-self-hosted-instances-if-configured-1m0b)
-- [Cover Image Generation Now an Option in the DEV Editor](https://dev.to/devteam/cover-image-generation-now-an-option-in-the-dev-editor-1nld)
-- [The &quot;Vibe-Coding&quot; Epidemic](https://dev.to/codalio/the-vibe-coding-epidemic-c86)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
