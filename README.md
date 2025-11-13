@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Setting Up NVIDIA Parakeet TDT 0.6B v3 for Speech Recognition on AWS EC2 Ubuntu](https://dev.to/architectalick/setting-up-nvidia-parakeet-tdt-06b-v3-for-speech-recognition-on-aws-ec2-ubuntu-1e9b)
 - [Desassing, unsassing.](https://dev.to/ivorjetski/desassing-unsassing-nog)
 - [form11](https://dev.to/query_filter_591122b53770/form11-357a)
 - [A Clean, Driver-Aware ORM Architecture in PHP](https://dev.to/dev_iadicola/a-clean-driver-aware-orm-architecture-in-php-20h2)
 - [How to make Angular Material inputs look like simple fields](https://dev.to/dhutaryan/how-to-make-angular-material-inputs-look-like-simple-fields-3oe5)
-- [form10](https://dev.to/query_filter_591122b53770/form10-568j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
