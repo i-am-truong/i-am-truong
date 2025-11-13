@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Create custom steps for Workspace Flows](https://dev.to/googleworkspace/create-custom-steps-for-workspace-flows-2m4o)
-- [Career advice for starting over at 31](https://dev.to/abzresponsible/career-advice-for-starting-over-at-31-24d)
-- [Did you know that AI-powered audio restoration technology ha](https://dev.to/drcarlosruizviquez/did-you-know-that-ai-powered-audio-restoration-technology-ha-42e1)
-- [Configurando Testes com Jest e Testing Library em um Projeto TypeScript](https://dev.to/marcos_vile/configurando-testes-com-jest-e-testing-library-em-um-projeto-typescript-pdm)
-- [The Production Readiness Checklist](https://dev.to/michaelsolati/the-production-readiness-checklist-1922)
+- [MCP x Cursor PoC: Rogue MCP Servers, IDE Browsers, and Real Defenses](https://dev.to/0xrelogic/mcp-x-cursor-poc-rogue-mcp-servers-ide-browsers-and-real-defenses-1dda)
+- [UI &amp; UX Course in Pitampura — Start Your Creative Journey at ZICA Pitampura](https://dev.to/divyanshu_rai_a77de0a03ae/ui-ux-course-in-pitampura-start-your-creative-journey-at-zica-pitampura-3jif)
+- [Building a Take-Home Pay Calculator Using JavaScript and Open Data APIs](https://dev.to/johan_smith_44df8af459875/building-a-take-home-pay-calculator-using-javascript-and-open-data-apis-115h)
+- [AI Content Marketing: 2025 Strategy Guide](https://dev.to/synergistdigitalmedia/ai-content-marketing-2025-strategy-guide-1pc0)
+- [Inside the Edge: How Real-Time Data Pipelines Power Connected Devices](https://dev.to/abdul_shamim/inside-the-edge-how-real-time-data-pipelines-power-connected-devices-2m43)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
