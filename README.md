@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Python Core Utilities](https://dev.to/saveshodhan/python-core-utilities-3fdo)
-- [🚀 DNS Benchmark Tool v0.2.8 — 1k+ downloads in 5 days](https://dev.to/frankovo/dns-benchmark-tool-v028-1k-downloads-in-5-days-505m)
-- [Why You Need an LLM Gateway in 2025?](https://dev.to/kuldeep_paul/why-you-need-an-llm-gateway-in-2025-1l4j)
-- [Top 5 AI Evaluation Tools in 2025: A Technical Buyer’s Guide for Robust LLM and Agentic Systems](https://dev.to/kuldeep_paul/top-5-ai-evaluation-tools-in-2025-a-technical-buyers-guide-for-robust-llm-and-agentic-systems-2gfo)
-- [Building a Rubik&#39;s Cube Solver: A Primer on Claude Skills](https://dev.to/jason_peterson_607e54abf5/building-a-rubiks-cube-solver-a-primer-on-claude-skills-4m7k)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-2cc2)
+- [Ringer Movies: What Happened With the Fall Movie Slate?](https://dev.to/popcorn_movies/ringer-movies-what-happened-with-the-fall-movie-slate-34ee)
+- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-pa8)
+- [Things I Wish I Knew as a Fresher Developer on My First Project](https://dev.to/manishsahu001/things-i-wish-i-knew-as-a-fresher-developer-on-my-first-project-4bjl)
+- [functools.partial](https://dev.to/saveshodhan/functoolspartial-3d49)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
