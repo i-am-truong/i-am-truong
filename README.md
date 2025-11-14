@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Learned React + Next.js in Three Months Without Watching a Single Tutorial.](https://dev.to/toboreeee/i-learned-react-nextjs-in-three-months-without-watching-a-single-tutorial-3m01)
+- [Por qué React no es magia: lo entendí cuando dejé de pelearme con los renders](https://dev.to/hileodev/por-que-react-no-es-magia-lo-entendi-cuando-deje-de-pelearme-con-los-renders-29n2)
 - [Python by Structure: The For/Else Block You Didn&#39;t Know Existed](https://dev.to/aaron_rose_0787cc8b4775a0/python-by-structure-the-forelse-block-you-didnt-know-existed-4pp)
 - [Amazon DocumentDB New Query Planner](https://dev.to/aws-heroes/amazon-documentdb-new-query-planner-2dh0)
 - [AI Content Marketing: 2025 Strategy Guide](https://dev.to/synergistdigitalmedia/ai-content-marketing-2025-strategy-guide-1epd)
-- [Bridging the Abstraction Gap: Formalizing Complex Systems with AI by Arvind Sundararajan](https://dev.to/arvind_sundararajan/bridging-the-abstraction-gap-formalizing-complex-systems-with-ai-by-arvind-sundararajan-12n2)
-- [A starters guide from SQS and some learning along the way](https://dev.to/javiermendogo/a-starters-guide-from-sqs-and-some-learning-along-the-way-2lpg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
