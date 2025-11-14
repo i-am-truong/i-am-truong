@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Shipyard MCP Server: Manage environments with AI agents](https://dev.to/shipyard/the-shipyard-mcp-server-manage-environments-with-ai-agents-2249)
+- [Lab 8- OSD 600](https://dev.to/kkrishnan10/lab-8-osd-600-43k2)
 - [Ringer Movies: What Happened With the Fall Movie Slate?](https://dev.to/popcorn_movies/ringer-movies-what-happened-with-the-fall-movie-slate-4hjc)
+- [React 19: A Comprehensive Technical Guide with Code Examples](https://dev.to/collins_oromoni_c3bdc3b02/react-19-a-comprehensive-technical-guide-with-code-examples-22d3)
 - [Interoperating Open Table Formats on AWS Using Apache XTable &lpar;Delta Iceberg&rpar;](https://dev.to/aws-builders/interoperating-open-table-formats-on-aws-using-apache-xtable-delta-iceberg-39id)
-- [Self-Propelled Missiles: How To Find and Work with High Achievers](https://dev.to/gamepill/self-propelled-missiles-how-to-find-and-work-with-high-achievers-1903)
-- [[Boost]](https://dev.to/sucodelarangela/-dge)
-- [The Two Lists That Define Every Software Project](https://dev.to/tmwakalasya/the-two-lists-that-define-every-software-project-2nhk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
