@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Trigger AWS CodePipeline from a Cross-Account S3 Upload &lpar;Using EventBridge + IAM Roles&rpar;](https://dev.to/santanu_das/trigger-aws-codepipeline-from-a-cross-account-s3-upload-using-eventbridge-iam-roles-185d)
+- [Dumb*** business ideas](https://dev.to/elysionmind/dumb-business-ideas-4mck)
+- [Accelerating Vision Transformers with Adaptive Patch Sizes](https://dev.to/paperium/accelerating-vision-transformers-with-adaptive-patch-sizes-9e7)
+- [The Complete Google Cloud Learning Roadmap for 2026: Certifications, Courses &amp; Skills You Need](https://dev.to/rohan_jee_085655230/the-complete-google-cloud-learning-roadmap-for-2026-certifications-courses-skills-you-need-2095)
 - [GPT 5.1 API Deep Dive](https://dev.to/alifar/gpt-51-api-deep-dive-151b)
-- [n8n Is Secretly Becoming the #1 Automation Tool](https://dev.to/devmastermind/n8n-is-secretly-becoming-the-1-automation-tool-jbb)
-- [How developers can cope with pressure while remaining calm and professional](https://dev.to/artemooon/how-developers-can-cope-with-pressure-while-remaining-calm-and-professional-52n8)
-- [TEXT vs BLOB in SQLite: Best Practices for Base64 Storage](https://dev.to/rijultp/text-vs-blob-in-sqlite-best-practices-for-base64-storage-2ef4)
-- [My Experience Creating CI Workflows and Contributing Tests to an Existing Project](https://dev.to/dharam_ghevariya_0d946c37/my-experience-creating-ci-workflows-and-contributing-tests-to-an-existing-project-3hpc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
