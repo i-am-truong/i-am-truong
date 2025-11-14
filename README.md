@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🧠💥 “Linear Algebra Ruined My Life &lpar;and Made Me Better at AI&rpar;”](https://dev.to/abdelazizel7or/linear-algebra-ruined-my-life-and-made-me-better-at-ai-2eii)
-- [Day 43 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-43-of-100-days-dsa-coding-challenge-2ek)
-- [Achieving Atomicity and Isolation in Concurrent Rust: Channels vs. Mutexes](https://dev.to/amritsingh183/achieving-atomicity-and-isolation-in-concurrent-rust-channels-vs-mutexes-ij)
-- [Auditoría directa en Cloud Shell Editor sobre rutas internas de AI Platform](https://dev.to/cmd_p1ng_2967568c9b7a76/auditoria-directa-en-cloud-shell-editor-sobre-rutas-internas-de-ai-platform-1d7e)
-- [De modelos a microservicios: cómo desplegar ML en Java y .NET &lpar;ES&rpar;](https://dev.to/vicodev/de-modelos-a-microservicios-como-desplegar-ml-en-java-y-net-es-2h5n)
+- [Gemini Canvas vs GPT-5: Which Creates the Best Presentation?](https://dev.to/ndabene/gemini-canvas-vs-gpt-5-which-creates-the-best-presentation-53cd)
+- [AI Content Marketing: 2025 Strategy Guide](https://dev.to/synergistdigitalmedia/ai-content-marketing-2025-strategy-guide-3dbg)
+- [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-255p)
+- [Java&#39;s Funny Little Heresies](https://dev.to/vulinh64/javas-funny-little-heresies-2cng)
+- [Smarter Testing with AI: How Test Case Creation and Data Management Are Evolving](https://dev.to/aio_tests_903984883a574e9/smarter-testing-with-ai-how-test-case-creation-and-data-management-are-evolving-p1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
