@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Autonomous Testing Revolution: How AI Agents Are Reshaping Quality Engineering](https://dev.to/qa-leaders/the-autonomous-testing-revolution-how-ai-agents-are-reshaping-quality-engineering-37c7)
-- [Star vs. Snowflake Schema](https://dev.to/wangare_/star-vs-snowflake-schema-3l1o)
-- [This Week In React #258: TanStack, Next.js | Valdi, IntersectionObserver, Nitro | TC39, Node](https://dev.to/sebastienlorber/this-week-in-react-258-tanstack-nextjs-valdi-intersectionobserver-nitro-tc39-node-21fg)
-- [Application Modernization &amp; Cloud Architecture: A Strategic Approach](https://dev.to/muhammed_muddassirfarooq/application-modernization-cloud-architecture-a-strategic-approach-4mm8)
-- [Kimi K2 Thinking vs. Claude 4.5 Sonnet vs. GPT-5 Codex: Tested the best models for agentic coding](https://dev.to/composiodev/kimi-k2-thinking-vs-claude-45-sonnet-vs-gpt-5-codex-tested-the-best-models-for-agentic-coding-21e5)
+- [Spring: la Feature que Tardó 6 Años en Llegar &lpar;Y Cómo Cambia Todo&rpar;](https://dev.to/fdherrera/spring-la-feature-que-tardo-6-anos-en-llegar-y-como-cambia-todo-38i0)
+- [Elastic Container Service on AWS - How to Get Started Step-by-Step](https://dev.to/heyjoshlee/elastic-container-service-on-aws-how-to-get-started-step-by-step-5eff)
+- [Top 5 Aplikasi Terbaik untuk Muslim di 2026 &lpar;Wajib Dicoba!&rpar;](https://dev.to/cas8398/top-5-aplikasi-terbaik-untuk-muslim-di-2026-wajib-dicoba-23n3)
+- [The ideal way to prompt your AI coding assistant for 90% accuracy](https://dev.to/anita_ihuman/the-ideal-way-to-prompt-your-ai-coding-assistant-for-90-accuracy-1f09)
+- [How to Build a Personal Learning Dashboard Using AI Tools](https://dev.to/allenbailey25/how-to-build-a-personal-learning-dashboard-using-ai-tools-3d7f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
