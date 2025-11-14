@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My DevOps Journey: Day 14 - AWS Storage and Global Distribution: The Missing Pieces Every Cloud Engineer Must Master](https://dev.to/sheershsinha/my-devops-journey-day-14-aws-storage-and-global-distribution-the-missing-pieces-every-cloud-42ck)
-- [GroupBy no JavaScript: a forma fácil de indexar e organizar dados](https://dev.to/sucodelarangela/groupby-no-javascript-a-forma-moderna-de-indexar-e-organizar-dados-48f3)
-- [OpenAI&#39;s Aardvark: Revolutionizing Secure Software Development with AI Agents](https://dev.to/stelixx-insider/openais-aardvark-revolutionizing-secure-software-development-with-ai-agents-4jbb)
-- [Security news weekly round-up - 14th November 2025](https://dev.to/ziizium/security-news-weekly-round-up-14th-november-2025-2ngm)
-- [Arithmetic Expansion in Bash: The Little Feature That Makes Your Scripts Cleaner](https://dev.to/parthkamal/arithmetic-expansion-in-bash-the-little-feature-that-makes-your-scripts-cleaner-35fa)
+- [Ringer Movies: What Happened With the Fall Movie Slate?](https://dev.to/popcorn_movies/ringer-movies-what-happened-with-the-fall-movie-slate-4hjc)
+- [Interoperating Open Table Formats on AWS Using Apache XTable &lpar;Delta Iceberg&rpar;](https://dev.to/aws-builders/interoperating-open-table-formats-on-aws-using-apache-xtable-delta-iceberg-39id)
+- [Self-Propelled Missiles: How To Find and Work with High Achievers](https://dev.to/gamepill/self-propelled-missiles-how-to-find-and-work-with-high-achievers-1903)
+- [[Boost]](https://dev.to/sucodelarangela/-dge)
+- [The Two Lists That Define Every Software Project](https://dev.to/tmwakalasya/the-two-lists-that-define-every-software-project-2nhk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
