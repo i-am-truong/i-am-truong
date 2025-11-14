@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Beyond Page One: Building a Highly Robust SEO Lead Generation Agent with Python and SerpApi🤖](https://dev.to/rafajrg21/beyond-page-one-building-a-highly-robust-seo-lead-generation-agent-with-python-and-serpapi-331h)
+- [Critical Vulnerability in v380 Cameras: How Plaintext Credentials Exposed Millions of Devices](https://dev.to/__2ea5fee000c/critical-vulnerability-in-v380-cameras-how-plaintext-credentials-exposed-millions-of-devices-57b2)
+- [Stop Storing Configs With Your Code](https://dev.to/stevenstuartm/stop-storing-configs-with-your-code-18gl)
 - [The Developer’s Guide to Earning Passive Income Through SaaS](https://dev.to/softwaredeveloperhub01/the-developers-guide-to-earning-passive-income-through-saas-5ap)
 - [Text or Pixels? It Takes Half: On the Token Efficiency of Visual Text Inputs inMultimodal LLMs](https://dev.to/paperium/text-or-pixels-it-takes-half-on-the-token-efficiency-of-visual-text-inputs-inmultimodal-llms-j0d)
-- [Untitled](https://dev.to/aee_24_9016552015fca58303/untitled-57nj)
-- [Learning Xahau: Automating Hook Execution with Cron Transactions](https://dev.to/ekiserrepe/learning-xahau-automating-hook-execution-with-cron-transactions-14n1)
-- [Time Boxing &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/time-boxing-bite-size-article-39o6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
