@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[AWS] One-click MCP installation with Kiro [Kiro]](https://dev.to/aws-builders/aws-one-click-mcp-installation-with-kiro-kiro-2ipo)
-- [Implementing Card on File for Your App: A Developer’s Guide](https://dev.to/flutterwaveeng/implementing-card-on-file-for-your-app-a-developers-guide-45e8)
-- [Nov14, 2025 | The Tongyi Weekly: Your weekly dose of cutting-edge AI from Tongyi Lab](https://dev.to/alibaba_tongyi_lab_25ad9f/nov14-2025-the-tongyi-weekly-your-weekly-dose-of-cutting-edge-ai-from-tongyi-lab-ca1)
-- [🕰️ Async Basics in Rustlang](https://dev.to/iolivia/async-basics-in-rustlang-2ibb)
-- [TypeScript PDF Libraries &lpar;Free &amp; Paid Tools Comparison&rpar; for Developers](https://dev.to/tayyabcodes/typescript-pdf-libraries-free-paid-tools-comparison-for-developers-1641)
+- [Django Tutorial: The Ultimate Guide &lpar;2023&rpar;](https://dev.to/masteringbackend/django-tutorial-the-ultimate-guide-2023-3ijd)
+- [Trupe: Implementing Actor Model in .NET](https://dev.to/actor-dev/trupe-implementing-actor-model-in-net-5hch)
+- [Trupe: Implementando o Modelo de Atores no .NET](https://dev.to/actor-dev/trupe-implementando-o-modelo-de-atores-no-net-2gmk)
+- [The True Cost of a Data Breach](https://dev.to/guardingpearsoftware/the-true-cost-of-a-data-breach-5bkc)
+- [MVP Delivery Timelines in the Real World: A DevOps Engineer’s Breakdown of What’s Actually Achievable](https://dev.to/artyom_mukhopad_a9444ed6d/mvp-delivery-timelines-in-the-real-world-a-devops-engineers-breakdown-of-whats-actually-5b2h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
