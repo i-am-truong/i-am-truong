@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GroupBy no JavaScript: a forma moderna de indexar e organizar dados](https://dev.to/sucodelarangela/groupby-no-javascript-a-forma-moderna-de-indexar-e-organizar-dados-48f3)
+- [OpenAI&#39;s Aardvark: Revolutionizing Secure Software Development with AI Agents](https://dev.to/stelixx-insider/openais-aardvark-revolutionizing-secure-software-development-with-ai-agents-4jbb)
 - [Security news weekly round-up - 14th November 2025](https://dev.to/ziizium/security-news-weekly-round-up-14th-november-2025-2ngm)
+- [Arithmetic Expansion in Bash: The Little Feature That Makes Your Scripts Cleaner](https://dev.to/parthkamal/arithmetic-expansion-in-bash-the-little-feature-that-makes-your-scripts-cleaner-35fa)
 - [The Complete Guide to NLP Text Preprocessing: Tokenization, Normalization, Stemming, Lemmatization, and More](https://dev.to/themustaphatijani/the-complete-guide-to-nlp-text-preprocessing-tokenization-normalization-stemming-lemmatization-50ap)
-- [Transform Your SDK Integration with Monetzly&#39;s Ad Solutions](https://dev.to/monetzly/transform-your-sdk-integration-with-monetzlys-ad-solutions-2c5m)
-- [DeepWideSearch: Benchmarking Depth and Width in Agentic Information Seeking](https://dev.to/paperium/deepwidesearch-benchmarking-depth-and-width-in-agentic-information-seeking-bc9)
-- [**Automatización de Cumplimiento con TarantulaHawk](https://dev.to/drcarlosruizviquez/automatizacion-de-cumplimiento-con-tarantulahawk-33m8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
