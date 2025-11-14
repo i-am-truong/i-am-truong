@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Day a Service Worker Held My Entire Site Hostage](https://dev.to/bradleymatera/the-day-a-service-worker-held-my-entire-site-hostage-21d3)
-- [Master Touch Typing: The Complete Guide for Developers and Tech Learners](https://dev.to/farhad_rahimi_klie/master-touch-typing-the-complete-guide-for-developers-and-tech-learners-44jj)
-- [Just like we debug code, we can debug prompts and consistently turn dull outputs into deep, well-reasoned, usable results. But hardly anyone knew how to do it.](https://dev.to/jaideepparashar/just-like-we-debug-code-we-can-debug-prompts-and-consistently-turn-dull-outputs-into-deep-3ibc)
-- [TanStack Starter: Complete Full-Stack Template with Authentication and Database Integration](https://dev.to/jqueryscript/tanstack-starter-complete-full-stack-template-with-authentication-and-database-integration-2g51)
-- [From Boring Outputs to Brilliant Answers: My Prompt Debug Process](https://dev.to/jaideepparashar/from-boring-outputs-to-brilliant-answers-my-prompt-debug-process-1h18)
+- [The Day My Gatsby Nav Bar Made Me Question Reality](https://dev.to/bradleymatera/the-day-my-gatsby-nav-bar-made-me-question-reality-1b0i)
+- [**Mejora en PLD gracias a la Inteligencia Artificial: Un Cas](https://dev.to/drcarlosruizviquez/mejora-en-pld-gracias-a-la-inteligencia-artificial-un-cas-4ojg)
+- [Never Put Sensitive Data in Your JWT Payload](https://dev.to/_satria_herman/never-put-sensitive-data-in-your-jwt-payload-345i)
+- [Cleaning Up Triangle Shader Lab and Finally Making It Make Sense](https://dev.to/bradleymatera/cleaning-up-triangle-shader-lab-and-finally-making-it-make-sense-1p8n)
+- [As AI-generated media becomes increasingly ubiquitous, I&#39;d l](https://dev.to/drcarlosruizviquez/as-ai-generated-media-becomes-increasingly-ubiquitous-id-l-3i8f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
