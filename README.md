@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀 DNS Benchmark Tool v0.2.8 — 1k+ downloads in 5 days](https://dev.to/frankovo/dns-benchmark-tool-v028-1k-downloads-in-5-days-505m)
+- [Why You Need an LLM Gateway in 2025?](https://dev.to/kuldeep_paul/why-you-need-an-llm-gateway-in-2025-1l4j)
+- [Top 5 AI Evaluation Tools in 2025: A Technical Buyer’s Guide for Robust LLM and Agentic Systems](https://dev.to/kuldeep_paul/top-5-ai-evaluation-tools-in-2025-a-technical-buyers-guide-for-robust-llm-and-agentic-systems-2gfo)
 - [Building a Rubik&#39;s Cube Solver: A Primer on Claude Skills](https://dev.to/jason_peterson_607e54abf5/building-a-rubiks-cube-solver-a-primer-on-claude-skills-4m7k)
-- [The Core of Reactivity: 4 Native JavaScript State Management Patterns](https://dev.to/tjcoding/the-core-of-reactivity-4-native-javascript-state-management-patterns-5ejm)
-- [Ruby PORO Explained: How Plain Old Ruby Objects Make Your Code Better](https://dev.to/zilton7/ruby-poro-explained-how-plain-old-ruby-objects-make-your-code-better-40n3)
-- [Setting Up CI, Automated Testing, and Linting for My share-my-repo Project](https://dev.to/hsachdeva9/setting-up-ci-automated-testing-and-linting-for-my-share-my-repo-project-2caj)
-- [Fortify Your Federated Learning: Collaborative Teaching Against Data Corruption by Arvind Sundararajan](https://dev.to/arvind_sundararajan/fortify-your-federated-learning-collaborative-teaching-against-data-corruption-by-arvind-32nb)
+- [How to Prevent Unnecessary Charges on AWS: Free Billing Alerts for Beginners](https://dev.to/naamiahmed/how-to-prevent-unnecessary-charges-on-aws-free-billing-alerts-for-beginners-1g4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
