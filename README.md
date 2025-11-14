@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Future of Nanotechnology Manufacturing: Trends and Innovations](https://dev.to/jason-robinson/future-of-nanotechnology-manufacturing-trends-and-innovations-45n3)
-- [Get Images For Your XRPL Project](https://dev.to/bithomp/get-images-for-your-xrpl-project-c49)
-- [ByteAether.Ulid 1.3.2: .NET 10 Support, C# 14&#39;s Field, and Engineering Zero-Overhead IDs](https://dev.to/gigaherz/byteaetherulid-132-net-10-support-c-14s-field-and-engineering-zero-overhead-ids-3pn7)
-- [AION CLI: The Figma Your Backend Has Been Waiting For](https://dev.to/shinoj_cm_6b559b3ab51bf47/aion-cli-the-figma-your-backend-has-been-waiting-for-55k)
-- [I Built 150+ Free Tools That Run 100% in Your Browser — No Logins, No Limits, No Ads](https://dev.to/oguzhan_toolwaves/i-built-150-free-tools-that-run-100-in-your-browser-no-logins-no-limits-no-ads-h0b)
+- [This Week In React #258: TanStack, Next.js | Valdi, IntersectionObserver, Nitro | TC39, Node](https://dev.to/sebastienlorber/this-week-in-react-258-tanstack-nextjs-valdi-intersectionobserver-nitro-tc39-node-21fg)
+- [Application Modernization &amp; Cloud Architecture: A Strategic Approach](https://dev.to/muhammed_muddassirfarooq/application-modernization-cloud-architecture-a-strategic-approach-4mm8)
+- [Kimi K2 Thinking vs. Claude 4.5 Sonnet vs. GPT-5 Codex: Tested the best models for agentic coding](https://dev.to/composiodev/kimi-k2-thinking-vs-claude-45-sonnet-vs-gpt-5-codex-tested-the-best-models-for-agentic-coding-21e5)
+- [I just launched ReactChallenges.com](https://dev.to/duffmancc/i-just-launched-reactchallengescom-e27)
+- [Domain controller decommission SOP](https://dev.to/thiyagarajan_thangavel/domain-controller-decommission-sop-31l9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
