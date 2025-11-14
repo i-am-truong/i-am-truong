@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Sonic-PI](https://dev.to/grzegorzgrzegorz/sonic-pi-2e0n)
+- [Integrando IA en aplicaciones .NET: del modelo al despliegue](https://dev.to/vicodev/integrando-ia-en-aplicaciones-net-del-modelo-al-despliegue-4ki9)
+- [Understanding XSS: A Beginner’s Guide for Developers and Pentesters](https://dev.to/alighasemi889/understanding-xss-a-beginners-guide-for-developers-and-pentesters-2knj)
 - [⚙️ Automate Tasks Easily with npm Pre and Post Scripts](https://dev.to/natarajan_c_k/automate-tasks-easily-with-npm-pre-and-post-scripts-25kj)
 - [OCaml in 5 Minutes: From Zero to &#39;Hello&#39;](https://dev.to/david2am/ocaml-in-5-minutes-from-zero-to-hello-42mm)
-- [deploying a express.js + react web-app on vercel](https://dev.to/sardinessz/deploying-a-expressjs-react-web-app-on-vercel-2k9)
-- [OCaml/Dune Modules &amp; Libraries &lpar;Like JS but Better&rpar;](https://dev.to/david2am/ocamldune-modules-libraries-like-js-but-better-4fn)
-- [Learning React.....](https://dev.to/sourav_mahato_3900/learning-react-i8c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
