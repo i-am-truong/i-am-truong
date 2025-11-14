@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My Real AI Development Setup](https://dev.to/bradleymatera/how-i-actually-use-agentic-ai-tools-in-vs-code-webflow-and-aws-2kad)
 - [Sonic-PI](https://dev.to/grzegorzgrzegorz/sonic-pi-2e0n)
+- [What is datatype in js?](https://dev.to/divya_divya_b18f82b19353a/what-is-datatype-in-js-273m)
+- [Data Engineer — Người Kiến Tạo “Dòng Chảy Dữ Liệu” Trong Kỷ Nguyên Số](https://dev.to/peter_nguyen_d4a2eb51814e/data-engineer-nguoi-kien-tao-dong-chay-du-lieu-trong-ky-nguyen-so-51lm)
 - [Integrando IA en aplicaciones .NET: del modelo al despliegue](https://dev.to/vicodev/integrando-ia-en-aplicaciones-net-del-modelo-al-despliegue-4ki9)
-- [Understanding XSS: A Beginner’s Guide for Developers and Pentesters](https://dev.to/alighasemi889/understanding-xss-a-beginners-guide-for-developers-and-pentesters-2knj)
-- [⚙️ Automate Tasks Easily with npm Pre and Post Scripts](https://dev.to/natarajan_c_k/automate-tasks-easily-with-npm-pre-and-post-scripts-25kj)
-- [OCaml in 5 Minutes: From Zero to &#39;Hello&#39;](https://dev.to/david2am/ocaml-in-5-minutes-from-zero-to-hello-42mm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
