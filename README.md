@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Automate NGINX Deployment on AWS EC2 Server using Bash Script](https://dev.to/taiwoakinbolaji/automate-nginx-deployment-on-aws-ec2-server-using-bash-script-5a92)
-- [Building an Enhanced PPO Trading Bot with Real-Time Data Sync and IBKR Integration](https://dev.to/jai_thumar/building-an-enhanced-ppo-trading-bot-with-real-time-data-sync-and-ibkr-integration-e0j)
-- [The Hidden Truth About the Wise Men: What the Bible Really Says About the Magi and Why It Changes Everything](https://dev.to/douglasvandergraph/the-hidden-truth-about-the-wise-men-what-the-bible-really-says-about-the-magi-and-why-it-changes-4gcd)
-- [Beyond &quot;The End of Cybersecurity&quot;: Refusal as Default Architecture](https://dev.to/narnaiezzsshaa/beyond-the-end-of-cybersecurity-refusal-as-default-architecture-5ce2)
-- [Mr Sunday Movies: A New High? - Predator: Badlands Review](https://dev.to/popcorn_movies/mr-sunday-movies-a-new-high-predator-badlands-review-5cl7)
+- [Create a Text Editor in Go - Status Bar](https://dev.to/alcb1310/create-a-text-editor-in-go-status-bar-2047)
+- [Two Hours to Find a Swapped String](https://dev.to/yrizos/two-hours-to-find-a-swapped-string-4jba)
+- [MySQL COUNT Scalar Subquery Optimization: The Complete Guide](https://dev.to/sqlflash1024/mysql-count-scalar-subquery-optimization-the-complete-guide-45e8)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-31kp)
+- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-2d1l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
