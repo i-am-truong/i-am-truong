@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hello MonoGame](https://dev.to/david_caplette/hello-monogame-4ial)
-- [Tooth to Tail](https://dev.to/jonasbn/tooth-to-tail-4hj0)
-- [My Real AI Development Setup](https://dev.to/bradleymatera/how-i-actually-use-agentic-ai-tools-in-vs-code-webflow-and-aws-2kad)
-- [The Ultimate Guide to Building Stunning AI Apps For Beginners - Gradio](https://dev.to/manikandan/gradio-mastery-for-ai-beginners-the-ultimate-guide-to-building-stunning-ai-apps-without-being-a-47fl)
-- [Sonic-PI](https://dev.to/grzegorzgrzegorz/sonic-pi-2e0n)
+- [Smart Pointers in C++: Managing Memory Safely](https://dev.to/min38/smart-pointers-in-c-managing-memory-safely-41ck)
+- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-2b93)
+- [How to Play Subway Surfers on PC: Full 2025 Setup Guide](https://dev.to/lyra786/how-to-play-subway-surfers-on-pc-full-2025-setup-guide-846)
+- [How to Connect PostgreSQL to Power BI Using Local PostgreSQL and Aiven.](https://dev.to/wangare_/how-to-connect-postgresql-to-power-bi-using-local-postgresql-andaiven-37aa)
+- [Build Your Own AI-Powered Resume Builder Using Next.js, React 19 &amp; Gemini AI &lpar;Full Source Code&rpar;](https://dev.to/pattanaik_ramswarup_a5890/build-your-own-ai-powered-resume-builder-using-nextjs-react-19-gemini-ai-full-source-code-3ln9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
