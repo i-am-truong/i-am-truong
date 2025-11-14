@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Better Way to build](https://dev.to/fiveace_merill/a-better-way-to-build-5fec)
+- [🚀 Passing PCI in 2025: A Developer’s Server-Hardening Guide &lpar;Real Configs + Audit Notes&rpar;](https://dev.to/labamrash/passing-pci-in-2025-a-developers-server-hardening-guide-real-configs-audit-notes-nj6)
+- [Building a Smart Recommendation System: Leveraging BERT for Skill Extraction](https://dev.to/sopnonill87/building-a-smart-recommendation-system-leveraging-bert-for-skill-extraction-46ln)
 - [How to Install OpenAPI &lpar;Swagger&rpar; Editor Plugin in Eclipse Offline](https://dev.to/rinaxsumomo/how-to-install-openapi-swagger-editor-in-eclipse-offline-2d79)
 - [How Skapi Helped Me Finally Get a Raise with Just 15 Minutes of Code](https://dev.to/skapi_api/how-skapi-helped-me-finally-get-a-raise-with-just-15-minutes-of-code-58ab)
-- [Πώς το Azure Front Door Μοιράζει Έξυπνα την Παγκόσμια Κίνηση και Διατηρεί τις Εφαρμογές Πάντα Διαθέσιμες](https://dev.to/__b63657/pos-to-azure-front-door-moirazei-exupna-ten-pagkosmia-kinese-kai-diaterei-tis-epharmoges-panta-33h5)
-- [Rick Beato: This AI Song Just Went Number 1...FOR REAL](https://dev.to/music_youtube/rick-beato-this-ai-song-just-went-number-1for-real-dgm)
-- [How to configure Relyt ONE in Dify?](https://dev.to/data_cloud_/how-to-configure-relyt-one-in-dify-4iod)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
