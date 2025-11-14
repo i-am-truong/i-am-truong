@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Optical Flow: How Robots &lpar;and maybe your Phone&rpar; See Motion](https://dev.to/nicanor_korir/optical-flow-how-robots-and-maybe-your-phone-see-motion-19ca)
+- [🚀 Introducing ChatATP: The Universal Operating System for AI Agents](https://dev.to/samuelobinnachimdi/introducing-chatatp-the-universal-operating-system-for-ai-agents-5gpc)
 - [AWS Enterprise Support vs Partners: Which One Do You Actually Need?](https://dev.to/aws-builders/aws-enterprise-support-vs-partners-which-one-do-you-actually-need-485f)
 - [AWS Multi-Account Strategy: The Right Architecture for Your Growth Stage](https://dev.to/aws-builders/aws-multi-account-strategy-the-right-architecture-for-your-growth-stage-29ho)
 - [AWS Organizations Best Practices: The Critical Configurations Most Teams Miss](https://dev.to/aws-builders/aws-organizations-best-practices-the-critical-configurations-most-teams-miss-3ii0)
-- [AWS Professional Services: What You Should Know Before You Migrate](https://dev.to/aws-builders/aws-professional-services-what-you-should-know-before-you-migrate-59ha)
-- [Get your head spinning about Recursive Functions](https://dev.to/hopeyclarkey/get-your-head-spinning-about-recursive-functions-30mh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
