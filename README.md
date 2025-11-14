@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting Marimo Up and Running on Windows with uv](https://dev.to/nazanin_ashrafi/getting-marimo-up-and-running-on-windows-with-uv-4982)
+- [DevOps Engineer to Cloud Architect](https://dev.to/abidaslam892/devops-engineer-to-cloud-architect-57cb)
+- [The Hidden Power of Portfolio Consumers in Brand Growth](https://dev.to/whoozit_in_82812c2fd22a09/the-hidden-power-of-portfolio-consumers-in-brand-growth-2noi)
+- [Detailed Tools That Help HR Teams Manage Large and Hybrid Workforces](https://dev.to/lovely_baghel_f8747016ba8/detailed-tools-that-help-hr-teams-manage-large-and-hybrid-workforces-3he)
 - [☝️ One thing which has helped me IMMENSELY in learning React...](https://dev.to/alokkumar8/one-thing-which-has-helped-me-immensely-in-learning-react-ple)
-- [AION CLI: The Figma Your Backend Has Been Waiting For](https://dev.to/shinoj_cm_6b559b3ab51bf47/aion-cli-the-figma-your-backend-has-been-waiting-for-561l)
-- [Final Project Report 1: Schema Evolution Support on Apache SeaTunnel Flink Engine](https://dev.to/seatunnel/final-project-report-1-schema-evolution-support-on-apache-seatunnel-flink-engine-2e5n)
-- [I/O Multiplexing](https://dev.to/min38/io-multiplexing-3lho)
-- [Android::Bluetooth](https://dev.to/minwook/androidbluetooth-1b8m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
