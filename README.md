@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Clean &amp; Modern Sign-Up Form | HTML, CSS, JS &amp; Bootstrap](https://dev.to/s1tara/clean-modern-sign-up-form-html-css-js-bootstrap-2ple)
+- [My Favourite Urdu Peot](https://dev.to/drananyamehta/my-favourite-urdu-peot-11e3)
+- [My One-Person Company Automation Stack &lpar;2025 Edition&rpar;](https://dev.to/cheungmanyung/my-one-person-company-automation-stack-2025-edition-2faa)
 - [Statistics Day 3: Understanding P-Value — The Heart of Hypothesis Testing](https://dev.to/brains_behind_bots/statistics-day-3-understanding-p-value-the-heart-of-hypothesis-testing-4l4p)
 - [React Router v6 – The Complete Guide to What’s New &lpar;With v5 vs v6 Code Examples&rpar;](https://dev.to/vishwark/react-router-v6-the-complete-guide-to-whats-new-with-v5-vs-v6-code-examples-1955)
-- [From Post to Pwned: How Stored Cross-Site Scripting &lpar;Stored XSS&rpar; Can Lead to Account Takeover](https://dev.to/mo_zain/from-post-to-pwned-how-stored-cross-site-scripting-stored-xss-can-lead-to-account-takeover-2op7)
-- [Freelance Devs: How to Land Your First High-Paying Client Without Stress](https://dev.to/softwaredeveloperhub01/freelance-devs-how-to-land-your-first-high-paying-client-without-stress-25mp)
-- [How to Scale Automated Testing with Open Source Testing Tools?](https://dev.to/sophielane/how-to-scale-automated-testing-with-open-source-testing-tools-39a7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
