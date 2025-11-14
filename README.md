@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Getting Marimo Up and Running on Windows with uv](https://dev.to/nazanin_ashrafi/getting-marimo-up-and-running-on-windows-with-uv-4982)
-- [DevOps Engineer to Cloud Architect](https://dev.to/abidaslam892/devops-engineer-to-cloud-architect-57cb)
-- [The Hidden Power of Portfolio Consumers in Brand Growth](https://dev.to/whoozit_in_82812c2fd22a09/the-hidden-power-of-portfolio-consumers-in-brand-growth-2noi)
-- [Detailed Tools That Help HR Teams Manage Large and Hybrid Workforces](https://dev.to/lovely_baghel_f8747016ba8/detailed-tools-that-help-hr-teams-manage-large-and-hybrid-workforces-3he)
-- [☝️ One thing which has helped me IMMENSELY in learning React...](https://dev.to/alokkumar8/one-thing-which-has-helped-me-immensely-in-learning-react-ple)
+- [Building an Audio Transcription Tool: A Deep Dive into WER Metrics](https://dev.to/amara2025/building-an-audio-transcription-tool-a-deep-dive-into-wer-metrics-3j9o)
+- [Novel Drama Perfection: How The Betrayed Series&#39; Maddy &amp; Tobias Became the Ultimate Heartbreak Prescription](https://dev.to/em_trn_7e18ddad7a894433b/novel-drama-perfection-how-the-betrayed-series-maddy-tobias-became-the-ultimate-heartbreak-5d98)
+- [Adaptability as the Core of Software Design](https://dev.to/leonpennings/adaptability-as-the-core-of-software-design-5ah8)
+- [How to Implement Swiper in HarmonyOS](https://dev.to/harmonyos/how-to-implement-swiper-in-harmonyos-1kd5)
+- [How To Integrate Native C++ Codes Into Arkts](https://dev.to/harmonyos/how-to-integrate-native-c-codes-into-arkts-3hde)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
