@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Create a Text Editor in Go - Status Bar](https://dev.to/alcb1310/create-a-text-editor-in-go-status-bar-2047)
-- [Two Hours to Find a Swapped String](https://dev.to/yrizos/two-hours-to-find-a-swapped-string-4jba)
-- [MySQL COUNT Scalar Subquery Optimization: The Complete Guide](https://dev.to/sqlflash1024/mysql-count-scalar-subquery-optimization-the-complete-guide-45e8)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-31kp)
-- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-2d1l)
+- [The Day a Service Worker Held My Entire Site Hostage](https://dev.to/bradleymatera/the-day-a-service-worker-held-my-entire-site-hostage-21d3)
+- [Master Touch Typing: The Complete Guide for Developers and Tech Learners](https://dev.to/farhad_rahimi_klie/master-touch-typing-the-complete-guide-for-developers-and-tech-learners-44jj)
+- [Just like we debug code, we can debug prompts and consistently turn dull outputs into deep, well-reasoned, usable results. But hardly anyone knew how to do it.](https://dev.to/jaideepparashar/just-like-we-debug-code-we-can-debug-prompts-and-consistently-turn-dull-outputs-into-deep-3ibc)
+- [TanStack Starter: Complete Full-Stack Template with Authentication and Database Integration](https://dev.to/jqueryscript/tanstack-starter-complete-full-stack-template-with-authentication-and-database-integration-2g51)
+- [From Boring Outputs to Brilliant Answers: My Prompt Debug Process](https://dev.to/jaideepparashar/from-boring-outputs-to-brilliant-answers-my-prompt-debug-process-1h18)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
