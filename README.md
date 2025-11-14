@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How developers can cope with pressure while remaining calm and professional](https://dev.to/artemooon/how-developers-can-cope-with-pressure-while-remaining-calm-and-professional-52n8)
+- [TEXT vs BLOB in SQLite: Best Practices for Base64 Storage](https://dev.to/rijultp/text-vs-blob-in-sqlite-best-practices-for-base64-storage-2ef4)
 - [Extending the Nano Banana image generation to also be responsible for fun unique profile images for users who register through a path without providing their own profile pic.](https://dev.to/ben/extending-the-nano-banana-image-generation-to-also-be-responsible-for-fun-unique-profile-images-for-2hjd)
 - [🚀 Supabase Connection Scaling: The Essential Guide for FastAPI Developers](https://dev.to/papansarkar101/supabase-connection-scaling-the-essential-guide-for-fastapi-developers-348o)
 - [Angular 21 Developer Guide: AI Tools, Signal Forms, ARIA, and Build Optimizations](https://dev.to/cristiansifuentes/angular-21-developer-guide-ai-tools-signal-forms-aria-and-build-optimizations-4jib)
-- [Pakistan’s Cloud Community Is Rising — My Experience at AWS Student Community Day Islamabad ☁✨](https://dev.to/ahad_panhwer/pakistans-cloud-community-is-rising-my-experience-at-aws-student-community-day-islamabad-2chn)
-- [Smart Pointers in C++: Managing Memory Safely](https://dev.to/min38/smart-pointers-in-c-managing-memory-safely-41ck)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
