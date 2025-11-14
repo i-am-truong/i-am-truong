@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Python by Structure: The For/Else Block You Didn&#39;t Know Existed](https://dev.to/aaron_rose_0787cc8b4775a0/python-by-structure-the-forelse-block-you-didnt-know-existed-4pp)
+- [Amazon DocumentDB New Query Planner](https://dev.to/aws-heroes/amazon-documentdb-new-query-planner-2dh0)
+- [AI Content Marketing: 2025 Strategy Guide](https://dev.to/synergistdigitalmedia/ai-content-marketing-2025-strategy-guide-1epd)
+- [Bridging the Abstraction Gap: Formalizing Complex Systems with AI by Arvind Sundararajan](https://dev.to/arvind_sundararajan/bridging-the-abstraction-gap-formalizing-complex-systems-with-ai-by-arvind-sundararajan-12n2)
 - [A starters guide from SQS and some learning along the way](https://dev.to/javiermendogo/a-starters-guide-from-sqs-and-some-learning-along-the-way-2lpg)
-- [The Pragmatic Programmer: Lessons That Still Matter](https://dev.to/nikodyring/the-pragmatic-programmer-lessons-that-still-matter-51ml)
-- [sorted&lpar;&rpar; function is used to sort the elements in a Tuple](https://dev.to/onaolapo11/sorted-function-is-used-to-sort-the-elements-in-a-tuple-196e)
-- [Setting up CI and automated testing](https://dev.to/slyang08/setting-up-ci-and-automated-testing-cf0)
-- [The Shipyard MCP Server: Manage environments with AI agents](https://dev.to/shipyard/the-shipyard-mcp-server-manage-environments-with-ai-agents-2249)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
