@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [This Is Likely the Computing Technology that Supports the Most Data Sources](https://dev.to/esproc_spl/this-is-likely-the-computing-technology-that-supports-the-most-data-sources-50n)
+- [How to Re-Encrypt Aurora Snapshots with a CMK for Cross-Account Migration](https://dev.to/aws-builders/how-to-re-encrypt-aurora-snapshots-with-a-cmk-for-cross-account-migration-1abm)
 - [🧩 How We Solved “Unable to Get Certificate CRL” in Rails: A Debugging Story](https://dev.to/madhuhari188/how-we-solved-unable-to-get-certificate-crl-in-rails-a-debugging-story-2pna)
 - [Beyond ChatGPT: 5 Under-the-Radar AI Tools Revolutionizing Your Daily Productivity](https://dev.to/veltrex_labs/beyond-chatgpt-5-under-the-radar-ai-tools-revolutionizing-your-daily-productivity-3cfb)
 - [Building an Audio Transcription Tool: A Deep Dive into WER Metrics](https://dev.to/amara2025/building-an-audio-transcription-tool-a-deep-dive-into-wer-metrics-3j9o)
-- [Novel Drama Perfection: How The Betrayed Series&#39; Maddy &amp; Tobias Became the Ultimate Heartbreak Prescription](https://dev.to/em_trn_7e18ddad7a894433b/novel-drama-perfection-how-the-betrayed-series-maddy-tobias-became-the-ultimate-heartbreak-5d98)
-- [Adaptability as the Core of Software Design](https://dev.to/leonpennings/adaptability-as-the-core-of-software-design-5ah8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
