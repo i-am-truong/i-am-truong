@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hello MonoGame](https://dev.to/david_caplette/hello-monogame-4ial)
 - [Tooth to Tail](https://dev.to/jonasbn/tooth-to-tail-4hj0)
 - [My Real AI Development Setup](https://dev.to/bradleymatera/how-i-actually-use-agentic-ai-tools-in-vs-code-webflow-and-aws-2kad)
+- [The Ultimate Guide to Building Stunning AI Apps For Beginners - Gradio](https://dev.to/manikandan/gradio-mastery-for-ai-beginners-the-ultimate-guide-to-building-stunning-ai-apps-without-being-a-47fl)
 - [Sonic-PI](https://dev.to/grzegorzgrzegorz/sonic-pi-2e0n)
-- [What is datatype in js?](https://dev.to/divya_divya_b18f82b19353a/what-is-datatype-in-js-273m)
-- [Data Engineer — Người Kiến Tạo “Dòng Chảy Dữ Liệu” Trong Kỷ Nguyên Số](https://dev.to/peter_nguyen_d4a2eb51814e/data-engineer-nguoi-kien-tao-dong-chay-du-lieu-trong-ky-nguyen-so-51lm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
