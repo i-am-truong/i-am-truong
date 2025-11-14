@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Browsers to Distributed Compute: How Neurolov’s NLOV Token Enables Decentralized AI Infrastructure](https://dev.to/neurolov__ai/from-browsers-to-distributed-compute-how-neurolovs-nlov-token-enables-decentralized-ai-d2e)
-- [🚀 Managing Media Files with MinIO and Podman](https://dev.to/mcheremnov/managing-media-files-with-minio-and-podman-2701)
-- [Setting Up Better-Auth in Next.js with Kysely + Prisma Schema](https://dev.to/golamrabbani/setting-up-better-auth-in-nextjs-with-kysely-prisma-schema-2c0p)
-- [SaijinOS Part 10 — Pandora System: Transforming Fractured Personas Into Hope](https://dev.to/kato_masato_c5593c81af5c6/saijinos-part-10-pandora-system-transforming-fractured-personas-into-hope-4l83)
-- [SaijinOS Part 9 — Multi-Persona Co-Creation Protocol](https://dev.to/kato_masato_c5593c81af5c6/saijinos-part-9-multi-persona-co-creation-protocol-2bep)
+- [Future of Nanotechnology Manufacturing: Trends and Innovations](https://dev.to/jason-robinson/future-of-nanotechnology-manufacturing-trends-and-innovations-45n3)
+- [Get Images For Your XRPL Project](https://dev.to/bithomp/get-images-for-your-xrpl-project-c49)
+- [ByteAether.Ulid 1.3.2: .NET 10 Support, C# 14&#39;s Field, and Engineering Zero-Overhead IDs](https://dev.to/gigaherz/byteaetherulid-132-net-10-support-c-14s-field-and-engineering-zero-overhead-ids-3pn7)
+- [AION CLI: The Figma Your Backend Has Been Waiting For](https://dev.to/shinoj_cm_6b559b3ab51bf47/aion-cli-the-figma-your-backend-has-been-waiting-for-55k)
+- [I Built 150+ Free Tools That Run 100% in Your Browser — No Logins, No Limits, No Ads](https://dev.to/oguzhan_toolwaves/i-built-150-free-tools-that-run-100-in-your-browser-no-logins-no-limits-no-ads-h0b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
