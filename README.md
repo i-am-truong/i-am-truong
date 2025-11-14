@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀 FNPM Just Became Invisible &lpar;In the Good Way&rpar;: Transparent Alias, Better Tests &amp; a Smoother Experience](https://dev.to/jairofernandez/fnpm-just-became-invisible-in-the-good-way-transparent-alias-better-tests-a-smoother-2af)
+- [I Tried Coding 10 Hours a Day for 30 Days — Here’s What Happened](https://dev.to/n3on/i-tried-coding-10-hours-a-day-for-30-days-heres-what-happened-54ia)
 - [This Is Likely the Computing Technology that Supports the Most Data Sources](https://dev.to/esproc_spl/this-is-likely-the-computing-technology-that-supports-the-most-data-sources-50n)
 - [How to Re-Encrypt Aurora Snapshots with a CMK for Cross-Account Migration](https://dev.to/aws-builders/how-to-re-encrypt-aurora-snapshots-with-a-cmk-for-cross-account-migration-1abm)
 - [🧩 How We Solved “Unable to Get Certificate CRL” in Rails: A Debugging Story](https://dev.to/madhuhari188/how-we-solved-unable-to-get-certificate-crl-in-rails-a-debugging-story-2pna)
-- [Beyond ChatGPT: 5 Under-the-Radar AI Tools Revolutionizing Your Daily Productivity](https://dev.to/veltrex_labs/beyond-chatgpt-5-under-the-radar-ai-tools-revolutionizing-your-daily-productivity-3cfb)
-- [Building an Audio Transcription Tool: A Deep Dive into WER Metrics](https://dev.to/amara2025/building-an-audio-transcription-tool-a-deep-dive-into-wer-metrics-3j9o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
