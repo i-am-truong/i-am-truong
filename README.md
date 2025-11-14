@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [⚙️ Automate Tasks Easily with npm Pre and Post Scripts](https://dev.to/natarajan_c_k/automate-tasks-easily-with-npm-pre-and-post-scripts-25kj)
 - [OCaml in 5 Minutes: From Zero to &#39;Hello&#39;](https://dev.to/david2am/ocaml-in-5-minutes-from-zero-to-hello-42mm)
 - [deploying a express.js + react web-app on vercel](https://dev.to/sardinessz/deploying-a-expressjs-react-web-app-on-vercel-2k9)
 - [OCaml/Dune Modules &amp; Libraries &lpar;Like JS but Better&rpar;](https://dev.to/david2am/ocamldune-modules-libraries-like-js-but-better-4fn)
 - [Learning React.....](https://dev.to/sourav_mahato_3900/learning-react-i8c)
-- [Stop npm i-ing Blind: How I Catch Malicious Packages Before They Hit Production](https://dev.to/block_hacks/stop-npm-i-ing-blind-how-i-catch-malicious-packages-before-they-hit-production-1c29)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
