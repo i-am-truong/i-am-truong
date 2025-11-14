@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Coding Tools Won&#39;t Replace Developers](https://dev.to/mygom/ai-coding-tools-wont-replace-developers-32bn)
+- [Spring Modulith vs Multi-Module projects - advantages and disadvantages](https://dev.to/tleipzig/spring-modulith-vs-multi-module-projects-advantages-and-disadvantages-55l)
 - [&quot;Technical Debt Will Bite Us in the Ass&quot;: How to Make Non-Technical Stakeholders Actually Care](https://dev.to/tlorent/technical-debt-will-bite-us-in-the-ass-how-to-make-non-technical-stakeholders-actually-care-2oef)
 - [Stop Fighting Tailwind: How to Customize It Without Custom CSS](https://dev.to/hashbyt/stop-fighting-tailwind-how-to-customize-it-without-custom-css-1gm5)
-- [Hold On, What’s MFA? Discover Why Your Phone’s Key to Every Login](https://dev.to/jaloplo/hold-on-whats-mfa-discover-why-your-phones-key-to-every-login-57nf)
-- [I built a CLI tool that analyzes LLM prompts for clarity, cost, and security - would love feedback](https://dev.to/umar_fyunusa_ab97415e208/i-built-a-cli-tool-that-analyzes-llm-prompts-for-clarity-cost-and-security-would-love-feedback-d91)
-- [How I started learning new tech as a student](https://dev.to/ms_dhoni_a4c01ccbe13160e2/how-i-started-learning-new-tech-as-a-student-j9f)
+- [Browser API: URLPattern — A Modern Way to Compare URLs](https://dev.to/nefedov-dm/browser-api-urlpattern-a-modern-way-to-compare-urls-10jk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
