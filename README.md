@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Core Utilities](https://dev.to/saveshodhan/python-core-utilities-3fdo)
 - [🚀 DNS Benchmark Tool v0.2.8 — 1k+ downloads in 5 days](https://dev.to/frankovo/dns-benchmark-tool-v028-1k-downloads-in-5-days-505m)
 - [Why You Need an LLM Gateway in 2025?](https://dev.to/kuldeep_paul/why-you-need-an-llm-gateway-in-2025-1l4j)
 - [Top 5 AI Evaluation Tools in 2025: A Technical Buyer’s Guide for Robust LLM and Agentic Systems](https://dev.to/kuldeep_paul/top-5-ai-evaluation-tools-in-2025-a-technical-buyers-guide-for-robust-llm-and-agentic-systems-2gfo)
 - [Building a Rubik&#39;s Cube Solver: A Primer on Claude Skills](https://dev.to/jason_peterson_607e54abf5/building-a-rubiks-cube-solver-a-primer-on-claude-skills-4m7k)
-- [How to Prevent Unnecessary Charges on AWS: Free Billing Alerts for Beginners](https://dev.to/naamiahmed/how-to-prevent-unnecessary-charges-on-aws-free-billing-alerts-for-beginners-1g4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
