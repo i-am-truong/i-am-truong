@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Intelligent Request Queue Management in WebForms Core 2](https://dev.to/elanatframework/intelligent-request-queue-management-in-webforms-core-2-32jk)
 - [Nuxt Tutorial 2 - Components &amp; Pages](https://dev.to/aloisseckar/nuxt-tutorial-2-components-pages-432g)
+- [War of the words](https://dev.to/leon_lin_s/war-of-the-words-a27)
 - [Optical Flow: How Robots &lpar;and maybe your Phone&rpar; See Motion](https://dev.to/nicanor_korir/optical-flow-how-robots-and-maybe-your-phone-see-motion-19ca)
 - [🚀 Introducing ChatATP: The Universal Operating System for AI Agents](https://dev.to/samuelobinnachimdi/introducing-chatatp-the-universal-operating-system-for-ai-agents-5gpc)
-- [AWS Enterprise Support vs Partners: Which One Do You Actually Need?](https://dev.to/aws-builders/aws-enterprise-support-vs-partners-which-one-do-you-actually-need-485f)
-- [AWS Multi-Account Strategy: The Right Architecture for Your Growth Stage](https://dev.to/aws-builders/aws-multi-account-strategy-the-right-architecture-for-your-growth-stage-29ho)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
