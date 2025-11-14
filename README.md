@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Django Tutorial: The Ultimate Guide &lpar;2023&rpar;](https://dev.to/masteringbackend/django-tutorial-the-ultimate-guide-2023-3ijd)
-- [Trupe: Implementing Actor Model in .NET](https://dev.to/actor-dev/trupe-implementing-actor-model-in-net-5hch)
-- [Trupe: Implementando o Modelo de Atores no .NET](https://dev.to/actor-dev/trupe-implementando-o-modelo-de-atores-no-net-2gmk)
-- [The True Cost of a Data Breach](https://dev.to/guardingpearsoftware/the-true-cost-of-a-data-breach-5bkc)
-- [MVP Delivery Timelines in the Real World: A DevOps Engineer’s Breakdown of What’s Actually Achievable](https://dev.to/artyom_mukhopad_a9444ed6d/mvp-delivery-timelines-in-the-real-world-a-devops-engineers-breakdown-of-whats-actually-5b2h)
+- [I built a CLI tool that analyzes LLM prompts for clarity, cost, and security - would love feedback](https://dev.to/umar_fyunusa_ab97415e208/i-built-a-cli-tool-that-analyzes-llm-prompts-for-clarity-cost-and-security-would-love-feedback-d91)
+- [How I started learning new tech as a student](https://dev.to/ms_dhoni_a4c01ccbe13160e2/how-i-started-learning-new-tech-as-a-student-j9f)
+- [Comprehensive Design Approach for Pan-Tilt-Zoom &lpar;PTZ&rpar; Cameras](https://dev.to/einfochips/comprehensive-design-approach-for-pan-tilt-zoom-ptz-cameras-5hbd)
+- [Python by Structure: The Try/Else Block You&#39;re Not Using](https://dev.to/aaron_rose_0787cc8b4775a0/python-by-structure-the-tryelse-block-youre-not-using-4mg7)
+- [Day 3: Fixed the Data Insertion Bug – SpeakSheet Now Generates Working Excel Files](https://dev.to/varun_krishnan_1339308c02/day-3-fixed-the-data-insertion-bug-speaksheet-now-generates-working-excel-files-1d9k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
