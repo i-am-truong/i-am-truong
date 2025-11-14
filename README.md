@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[AWS] One-click MCP installation with Kiro [Kiro]](https://dev.to/aws-builders/aws-one-click-mcp-installation-with-kiro-kiro-2ipo)
+- [Implementing Card on File for Your App: A Developer’s Guide](https://dev.to/flutterwaveeng/implementing-card-on-file-for-your-app-a-developers-guide-45e8)
+- [Nov14, 2025 | The Tongyi Weekly: Your weekly dose of cutting-edge AI from Tongyi Lab](https://dev.to/alibaba_tongyi_lab_25ad9f/nov14-2025-the-tongyi-weekly-your-weekly-dose-of-cutting-edge-ai-from-tongyi-lab-ca1)
+- [🕰️ Async Basics in Rustlang](https://dev.to/iolivia/async-basics-in-rustlang-2ibb)
 - [TypeScript PDF Libraries &lpar;Free &amp; Paid Tools Comparison&rpar; for Developers](https://dev.to/tayyabcodes/typescript-pdf-libraries-free-paid-tools-comparison-for-developers-1641)
-- [What I Learned Launching a Modern Photo Sharing Site](https://dev.to/jundata/lessons-learned-from-deploying-a-federated-photo-sharing-service-2kh0)
-- [`requirements.txt` in python](https://dev.to/nazanin_ashrafi/requirementstxt-in-python-1jjl)
-- [SMTP for Transactional Emails: How It Works &amp;amp; How to Set It Up Correctly](https://dev.to/tusharsmtpmaster/smtp-for-transactional-emails-how-it-works-amp-how-to-set-it-up-correctly-c16)
-- [From Late-Night Tutorials to Coding Mastery: The Journey of Stewart Joseph](https://dev.to/stewartjoseph17/from-late-night-tutorials-to-coding-mastery-the-journey-of-stewart-joseph-1da0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
