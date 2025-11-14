@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Extending the Nano Banana image generation to also be responsible for fun unique profile images for users who register through a path without providing their own profile pic.](https://dev.to/ben/extending-the-nano-banana-image-generation-to-also-be-responsible-for-fun-unique-profile-images-for-2hjd)
+- [🚀 Supabase Connection Scaling: The Essential Guide for FastAPI Developers](https://dev.to/papansarkar101/supabase-connection-scaling-the-essential-guide-for-fastapi-developers-348o)
+- [Angular 21 Developer Guide: AI Tools, Signal Forms, ARIA, and Build Optimizations](https://dev.to/cristiansifuentes/angular-21-developer-guide-ai-tools-signal-forms-aria-and-build-optimizations-4jib)
+- [Pakistan’s Cloud Community Is Rising — My Experience at AWS Student Community Day Islamabad ☁✨](https://dev.to/ahad_panhwer/pakistans-cloud-community-is-rising-my-experience-at-aws-student-community-day-islamabad-2chn)
 - [Smart Pointers in C++: Managing Memory Safely](https://dev.to/min38/smart-pointers-in-c-managing-memory-safely-41ck)
-- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-2b93)
-- [How to Play Subway Surfers on PC: Full 2025 Setup Guide](https://dev.to/lyra786/how-to-play-subway-surfers-on-pc-full-2025-setup-guide-846)
-- [How to Connect PostgreSQL to Power BI Using Local PostgreSQL and Aiven.](https://dev.to/wangare_/how-to-connect-postgresql-to-power-bi-using-local-postgresql-andaiven-37aa)
-- [Build Your Own AI-Powered Resume Builder Using Next.js, React 19 &amp; Gemini AI &lpar;Full Source Code&rpar;](https://dev.to/pattanaik_ramswarup_a5890/build-your-own-ai-powered-resume-builder-using-nextjs-react-19-gemini-ai-full-source-code-3ln9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
