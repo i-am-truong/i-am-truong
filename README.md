@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🧠💥 “Linear Algebra Ruined My Life &lpar;and Made Me Better at AI&rpar;”](https://dev.to/abdelazizel7or/linear-algebra-ruined-my-life-and-made-me-better-at-ai-2eii)
+- [Day 43 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-43-of-100-days-dsa-coding-challenge-2ek)
+- [Achieving Atomicity and Isolation in Concurrent Rust: Channels vs. Mutexes](https://dev.to/amritsingh183/achieving-atomicity-and-isolation-in-concurrent-rust-channels-vs-mutexes-ij)
+- [Auditoría directa en Cloud Shell Editor sobre rutas internas de AI Platform](https://dev.to/cmd_p1ng_2967568c9b7a76/auditoria-directa-en-cloud-shell-editor-sobre-rutas-internas-de-ai-platform-1d7e)
 - [De modelos a microservicios: cómo desplegar ML en Java y .NET &lpar;ES&rpar;](https://dev.to/vicodev/de-modelos-a-microservicios-como-desplegar-ml-en-java-y-net-es-2h5n)
-- [A Practical Guide to JavaScript Promises: Real-World Usage](https://dev.to/ctrix/a-practical-guide-to-javascript-promises-real-world-usage-1eml)
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-10d5)
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-elg)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-44d5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
