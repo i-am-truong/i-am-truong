@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Python AppsTalks to the Web: A Deep Dive into WSGI and Web Servers](https://dev.to/naveen_poojari_a5512e580a/how-python-appstalks-to-the-web-a-deep-dive-into-wsgi-and-web-servers-4ojb)
-- [Why Do We Need WSGI for Python Web Apps? &lpar;And Why Flask Uses Gunicorn&rpar;](https://dev.to/techwithhari/why-do-we-need-wsgi-for-python-web-apps-and-why-flask-uses-gunicorn-dm0)
-- [How to make your first open source contribution](https://dev.to/kpeale/how-to-make-your-first-open-source-contribution-3328)
-- [Day 34: Python Balanced Numbers Filter, Identify Numbers with Equal Even and Odd Digits Using Modular Checks](https://dev.to/shahrouzlogs/day-34-python-balanced-numbers-filter-identify-numbers-with-equal-even-and-odd-digits-using-chd)
-- [Flutter vs React Native: Which Is Better for Healthcare &amp; Fitness Apps?](https://dev.to/ciphernutz/flutter-vs-react-native-which-is-better-for-healthcare-fitness-apps-178)
+- [From Browsers to Distributed Compute: How Neurolov’s NLOV Token Enables Decentralized AI Infrastructure](https://dev.to/neurolov__ai/from-browsers-to-distributed-compute-how-neurolovs-nlov-token-enables-decentralized-ai-d2e)
+- [🚀 Managing Media Files with MinIO and Podman](https://dev.to/mcheremnov/managing-media-files-with-minio-and-podman-2701)
+- [Setting Up Better-Auth in Next.js with Kysely + Prisma Schema](https://dev.to/golamrabbani/setting-up-better-auth-in-nextjs-with-kysely-prisma-schema-2c0p)
+- [SaijinOS Part 10 — Pandora System: Transforming Fractured Personas Into Hope](https://dev.to/kato_masato_c5593c81af5c6/saijinos-part-10-pandora-system-transforming-fractured-personas-into-hope-4l83)
+- [SaijinOS Part 9 — Multi-Persona Co-Creation Protocol](https://dev.to/kato_masato_c5593c81af5c6/saijinos-part-9-multi-persona-co-creation-protocol-2bep)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
