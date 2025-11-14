@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Developer’s Guide to Earning Passive Income Through SaaS](https://dev.to/softwaredeveloperhub01/the-developers-guide-to-earning-passive-income-through-saas-5ap)
+- [Text or Pixels? It Takes Half: On the Token Efficiency of Visual Text Inputs inMultimodal LLMs](https://dev.to/paperium/text-or-pixels-it-takes-half-on-the-token-efficiency-of-visual-text-inputs-inmultimodal-llms-j0d)
+- [Untitled](https://dev.to/aee_24_9016552015fca58303/untitled-57nj)
 - [Learning Xahau: Automating Hook Execution with Cron Transactions](https://dev.to/ekiserrepe/learning-xahau-automating-hook-execution-with-cron-transactions-14n1)
 - [Time Boxing &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/time-boxing-bite-size-article-39o6)
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-30d1)
-- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-1578)
-- [The Complete Toolkit: Essential Tools, Platforms, and Resources Every Pump.fun Participant Needs](https://dev.to/hamd_writer_8c77d9c88c188/the-complete-toolkit-essential-tools-platforms-and-resources-every-pumpfun-participant-needs-9pb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
