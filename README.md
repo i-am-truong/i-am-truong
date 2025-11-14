@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Tooth to Tail](https://dev.to/jonasbn/tooth-to-tail-4hj0)
 - [My Real AI Development Setup](https://dev.to/bradleymatera/how-i-actually-use-agentic-ai-tools-in-vs-code-webflow-and-aws-2kad)
 - [Sonic-PI](https://dev.to/grzegorzgrzegorz/sonic-pi-2e0n)
 - [What is datatype in js?](https://dev.to/divya_divya_b18f82b19353a/what-is-datatype-in-js-273m)
 - [Data Engineer — Người Kiến Tạo “Dòng Chảy Dữ Liệu” Trong Kỷ Nguyên Số](https://dev.to/peter_nguyen_d4a2eb51814e/data-engineer-nguoi-kien-tao-dong-chay-du-lieu-trong-ky-nguyen-so-51lm)
-- [Integrando IA en aplicaciones .NET: del modelo al despliegue](https://dev.to/vicodev/integrando-ia-en-aplicaciones-net-del-modelo-al-despliegue-4ki9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
