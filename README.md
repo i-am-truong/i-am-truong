@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Day My Gatsby Nav Bar Made Me Question Reality](https://dev.to/bradleymatera/the-day-my-gatsby-nav-bar-made-me-question-reality-1b0i)
-- [**Mejora en PLD gracias a la Inteligencia Artificial: Un Cas](https://dev.to/drcarlosruizviquez/mejora-en-pld-gracias-a-la-inteligencia-artificial-un-cas-4ojg)
-- [Never Put Sensitive Data in Your JWT Payload](https://dev.to/_satria_herman/never-put-sensitive-data-in-your-jwt-payload-345i)
-- [Cleaning Up Triangle Shader Lab and Finally Making It Make Sense](https://dev.to/bradleymatera/cleaning-up-triangle-shader-lab-and-finally-making-it-make-sense-1p8n)
-- [As AI-generated media becomes increasingly ubiquitous, I&#39;d l](https://dev.to/drcarlosruizviquez/as-ai-generated-media-becomes-increasingly-ubiquitous-id-l-3i8f)
+- [De modelos a microservicios: cómo desplegar ML en Java y .NET &lpar;ES&rpar;](https://dev.to/vicodev/de-modelos-a-microservicios-como-desplegar-ml-en-java-y-net-es-2h5n)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-10d5)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-elg)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-44d5)
+- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-ne0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
