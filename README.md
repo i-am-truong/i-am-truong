@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Spring: la Feature que Tardó 6 Años en Llegar &lpar;Y Cómo Cambia Todo&rpar;](https://dev.to/fdherrera/spring-la-feature-que-tardo-6-anos-en-llegar-y-como-cambia-todo-38i0)
-- [Elastic Container Service on AWS - How to Get Started Step-by-Step](https://dev.to/heyjoshlee/elastic-container-service-on-aws-how-to-get-started-step-by-step-5eff)
-- [Top 5 Aplikasi Terbaik untuk Muslim di 2026 &lpar;Wajib Dicoba!&rpar;](https://dev.to/cas8398/top-5-aplikasi-terbaik-untuk-muslim-di-2026-wajib-dicoba-23n3)
-- [The ideal way to prompt your AI coding assistant for 90% accuracy](https://dev.to/anita_ihuman/the-ideal-way-to-prompt-your-ai-coding-assistant-for-90-accuracy-1f09)
-- [How to Build a Personal Learning Dashboard Using AI Tools](https://dev.to/allenbailey25/how-to-build-a-personal-learning-dashboard-using-ai-tools-3d7f)
+- [AWS Enterprise Support vs Partners: Which One Do You Actually Need?](https://dev.to/aws-builders/aws-enterprise-support-vs-partners-which-one-do-you-actually-need-485f)
+- [AWS Multi-Account Strategy: The Right Architecture for Your Growth Stage](https://dev.to/aws-builders/aws-multi-account-strategy-the-right-architecture-for-your-growth-stage-29ho)
+- [AWS Organizations Best Practices: The Critical Configurations Most Teams Miss](https://dev.to/aws-builders/aws-organizations-best-practices-the-critical-configurations-most-teams-miss-3ii0)
+- [AWS Professional Services: What You Should Know Before You Migrate](https://dev.to/aws-builders/aws-professional-services-what-you-should-know-before-you-migrate-59ha)
+- [Get your head spinning about Recursive Functions](https://dev.to/hopeyclarkey/get-your-head-spinning-about-recursive-functions-30mh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
