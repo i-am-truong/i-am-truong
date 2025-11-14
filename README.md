@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Rekichizu: A Modern Take on Japan&#39;s Historical Maps](https://dev.to/mierune/rekichizu-a-modern-take-on-japans-historical-maps-53gp)
-- [📝 React Router Data APIs — The Complete Beginner-Friendly Guide &lpar;2025 Edition&rpar;](https://dev.to/vishwark/react-router-data-apis-the-complete-beginner-friendly-guide-2025-edition-46cn)
-- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-4k4m)
-- [From File Chaos to Clean Catalog: How AI Batch Tools Organize &amp; Remove Backgrounds at Scale](https://dev.to/freepixel11/from-file-chaos-to-clean-catalog-how-ai-batch-tools-organize-remove-backgrounds-at-scale-o33)
-- [Next.jsでQiita風の見出しアンカーリンクを実装する方法](https://dev.to/beachone1155/nextjsdeqiitafeng-nojian-chu-siankarinkuwoshi-zhuang-surufang-fa-bkj)
+- [☝️ One thing which has helped me IMMENSELY in learning React...](https://dev.to/alokkumar8/one-thing-which-has-helped-me-immensely-in-learning-react-ple)
+- [AION CLI: The Figma Your Backend Has Been Waiting For](https://dev.to/shinoj_cm_6b559b3ab51bf47/aion-cli-the-figma-your-backend-has-been-waiting-for-561l)
+- [Final Project Report 1: Schema Evolution Support on Apache SeaTunnel Flink Engine](https://dev.to/seatunnel/final-project-report-1-schema-evolution-support-on-apache-seatunnel-flink-engine-2e5n)
+- [I/O Multiplexing](https://dev.to/min38/io-multiplexing-3lho)
+- [Android::Bluetooth](https://dev.to/minwook/androidbluetooth-1b8m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
