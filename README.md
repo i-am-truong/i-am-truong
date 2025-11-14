@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Intelligent Request Queue Management in WebForms Core 2](https://dev.to/elanatframework/intelligent-request-queue-management-in-webforms-core-2-32jk)
-- [Nuxt Tutorial 2 - Components &amp; Pages](https://dev.to/aloisseckar/nuxt-tutorial-2-components-pages-432g)
-- [War of the words](https://dev.to/leon_lin_s/war-of-the-words-a27)
-- [Optical Flow: How Robots &lpar;and maybe your Phone&rpar; See Motion](https://dev.to/nicanor_korir/optical-flow-how-robots-and-maybe-your-phone-see-motion-19ca)
-- [🚀 Introducing ChatATP: The Universal Operating System for AI Agents](https://dev.to/samuelobinnachimdi/introducing-chatatp-the-universal-operating-system-for-ai-agents-5gpc)
+- [Building a Rubik&#39;s Cube Solver: A Primer on Claude Skills](https://dev.to/jason_peterson_607e54abf5/building-a-rubiks-cube-solver-a-primer-on-claude-skills-4m7k)
+- [The Core of Reactivity: 4 Native JavaScript State Management Patterns](https://dev.to/tjcoding/the-core-of-reactivity-4-native-javascript-state-management-patterns-5ejm)
+- [Ruby PORO Explained: How Plain Old Ruby Objects Make Your Code Better](https://dev.to/zilton7/ruby-poro-explained-how-plain-old-ruby-objects-make-your-code-better-40n3)
+- [Setting Up CI, Automated Testing, and Linting for My share-my-repo Project](https://dev.to/hsachdeva9/setting-up-ci-automated-testing-and-linting-for-my-share-my-repo-project-2caj)
+- [Fortify Your Federated Learning: Collaborative Teaching Against Data Corruption by Arvind Sundararajan](https://dev.to/arvind_sundararajan/fortify-your-federated-learning-collaborative-teaching-against-data-corruption-by-arvind-32nb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
