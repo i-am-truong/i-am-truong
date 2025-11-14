@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GPT 5.1 API Deep Dive](https://dev.to/alifar/gpt-51-api-deep-dive-151b)
+- [n8n Is Secretly Becoming the #1 Automation Tool](https://dev.to/devmastermind/n8n-is-secretly-becoming-the-1-automation-tool-jbb)
 - [How developers can cope with pressure while remaining calm and professional](https://dev.to/artemooon/how-developers-can-cope-with-pressure-while-remaining-calm-and-professional-52n8)
 - [TEXT vs BLOB in SQLite: Best Practices for Base64 Storage](https://dev.to/rijultp/text-vs-blob-in-sqlite-best-practices-for-base64-storage-2ef4)
-- [Extending the Nano Banana image generation to also be responsible for fun unique profile images for users who register through a path without providing their own profile pic.](https://dev.to/ben/extending-the-nano-banana-image-generation-to-also-be-responsible-for-fun-unique-profile-images-for-2hjd)
-- [🚀 Supabase Connection Scaling: The Essential Guide for FastAPI Developers](https://dev.to/papansarkar101/supabase-connection-scaling-the-essential-guide-for-fastapi-developers-348o)
-- [Angular 21 Developer Guide: AI Tools, Signal Forms, ARIA, and Build Optimizations](https://dev.to/cristiansifuentes/angular-21-developer-guide-ai-tools-signal-forms-aria-and-build-optimizations-4jib)
+- [My Experience Creating CI Workflows and Contributing Tests to an Existing Project](https://dev.to/dharam_ghevariya_0d946c37/my-experience-creating-ci-workflows-and-contributing-tests-to-an-existing-project-3hpc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
