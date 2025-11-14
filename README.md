@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [&quot;Technical Debt Will Bite Us in the Ass&quot;: How to Make Non-Technical Stakeholders Actually Care](https://dev.to/tlorent/technical-debt-will-bite-us-in-the-ass-how-to-make-non-technical-stakeholders-actually-care-2oef)
+- [Stop Fighting Tailwind: How to Customize It Without Custom CSS](https://dev.to/hashbyt/stop-fighting-tailwind-how-to-customize-it-without-custom-css-1gm5)
+- [Hold On, What’s MFA? Discover Why Your Phone’s Key to Every Login](https://dev.to/jaloplo/hold-on-whats-mfa-discover-why-your-phones-key-to-every-login-57nf)
 - [I built a CLI tool that analyzes LLM prompts for clarity, cost, and security - would love feedback](https://dev.to/umar_fyunusa_ab97415e208/i-built-a-cli-tool-that-analyzes-llm-prompts-for-clarity-cost-and-security-would-love-feedback-d91)
 - [How I started learning new tech as a student](https://dev.to/ms_dhoni_a4c01ccbe13160e2/how-i-started-learning-new-tech-as-a-student-j9f)
-- [Comprehensive Design Approach for Pan-Tilt-Zoom &lpar;PTZ&rpar; Cameras](https://dev.to/einfochips/comprehensive-design-approach-for-pan-tilt-zoom-ptz-cameras-5hbd)
-- [Python by Structure: The Try/Else Block You&#39;re Not Using](https://dev.to/aaron_rose_0787cc8b4775a0/python-by-structure-the-tryelse-block-youre-not-using-4mg7)
-- [Day 3: Fixed the Data Insertion Bug – SpeakSheet Now Generates Working Excel Files](https://dev.to/varun_krishnan_1339308c02/day-3-fixed-the-data-insertion-bug-speaksheet-now-generates-working-excel-files-1d9k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
