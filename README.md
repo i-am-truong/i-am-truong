@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Logic Apps Locally with VS Code: HTTP, Blob, Queue &amp; More](https://dev.to/imdj/building-logic-apps-locally-with-vs-code-http-blob-queue-more-1agj)
+- [**Breaking the Data Silos in Federated Learning: The Rise of](https://dev.to/drcarlosruizviquez/breaking-the-data-silos-in-federated-learning-the-rise-of-2mi9)
+- [What happens when you type console.log&lpar;&rpar;?](https://dev.to/giftintech/what-happens-when-you-type-consolelog-3k4p)
 - [Beyond Page One: Building a Highly Robust SEO Lead Generation Agent with Python and SerpApi🤖](https://dev.to/rafajrg21/beyond-page-one-building-a-highly-robust-seo-lead-generation-agent-with-python-and-serpapi-331h)
 - [Critical Vulnerability in v380 Cameras: How Plaintext Credentials Exposed Millions of Devices](https://dev.to/__2ea5fee000c/critical-vulnerability-in-v380-cameras-how-plaintext-credentials-exposed-millions-of-devices-57b2)
-- [Stop Storing Configs With Your Code](https://dev.to/stevenstuartm/stop-storing-configs-with-your-code-18gl)
-- [The Developer’s Guide to Earning Passive Income Through SaaS](https://dev.to/softwaredeveloperhub01/the-developers-guide-to-earning-passive-income-through-saas-5ap)
-- [Text or Pixels? It Takes Half: On the Token Efficiency of Visual Text Inputs inMultimodal LLMs](https://dev.to/paperium/text-or-pixels-it-takes-half-on-the-token-efficiency-of-visual-text-inputs-inmultimodal-llms-j0d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
