@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 FNPM Just Became Invisible &lpar;In the Good Way&rpar;: Transparent Alias, Better Tests &amp; a Smoother Experience](https://dev.to/jairofernandez/fnpm-just-became-invisible-in-the-good-way-transparent-alias-better-tests-a-smoother-2af)
-- [I Tried Coding 10 Hours a Day for 30 Days — Here’s What Happened](https://dev.to/n3on/i-tried-coding-10-hours-a-day-for-30-days-heres-what-happened-54ia)
-- [This Is Likely the Computing Technology that Supports the Most Data Sources](https://dev.to/esproc_spl/this-is-likely-the-computing-technology-that-supports-the-most-data-sources-50n)
-- [How to Re-Encrypt Aurora Snapshots with a CMK for Cross-Account Migration](https://dev.to/aws-builders/how-to-re-encrypt-aurora-snapshots-with-a-cmk-for-cross-account-migration-1abm)
-- [🧩 How We Solved “Unable to Get Certificate CRL” in Rails: A Debugging Story](https://dev.to/madhuhari188/how-we-solved-unable-to-get-certificate-crl-in-rails-a-debugging-story-2pna)
+- [Hey guys, just in case you missed this: I documented my experience building an open-source solution to improving the experience of front-end developers. Please check it out!](https://dev.to/olawalethefirst/hey-guys-just-in-case-you-missed-this-i-documented-my-experience-building-an-open-source-solution-3l13)
+- [How to Mount and Unmount Drives and Partitions in Linux](https://dev.to/serveravatar/how-to-mount-and-unmount-drives-and-partitions-in-linux-19oo)
+- [When a simple order update breaks Revolut Checkout workflow](https://dev.to/asoseil/when-a-simple-order-update-breaks-revolut-checkout-workflow-ocf)
+- [NPR Music: Nova Twins: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-nova-twins-tiny-desk-concert-21jl)
+- [Which DevOps certs are necessary for a Frontend Lead?](https://dev.to/kelvynthai/which-devops-certs-are-necessary-for-a-frontend-lead-5pn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
