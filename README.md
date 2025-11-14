@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Coding Tools Won&#39;t Replace Developers](https://dev.to/mygom/ai-coding-tools-wont-replace-developers-32bn)
-- [Spring Modulith vs Multi-Module projects - advantages and disadvantages](https://dev.to/tleipzig/spring-modulith-vs-multi-module-projects-advantages-and-disadvantages-55l)
-- [&quot;Technical Debt Will Bite Us in the Ass&quot;: How to Make Non-Technical Stakeholders Actually Care](https://dev.to/tlorent/technical-debt-will-bite-us-in-the-ass-how-to-make-non-technical-stakeholders-actually-care-2oef)
-- [Stop Fighting Tailwind: How to Customize It Without Custom CSS](https://dev.to/hashbyt/stop-fighting-tailwind-how-to-customize-it-without-custom-css-1gm5)
-- [Browser API: URLPattern — A Modern Way to Compare URLs](https://dev.to/nefedov-dm/browser-api-urlpattern-a-modern-way-to-compare-urls-10jk)
+- [How to Install OpenAPI &lpar;Swagger&rpar; Editor Plugin in Eclipse Offline](https://dev.to/rinaxsumomo/how-to-install-openapi-swagger-editor-in-eclipse-offline-2d79)
+- [How Skapi Helped Me Finally Get a Raise with Just 15 Minutes of Code](https://dev.to/skapi_api/how-skapi-helped-me-finally-get-a-raise-with-just-15-minutes-of-code-58ab)
+- [Πώς το Azure Front Door Μοιράζει Έξυπνα την Παγκόσμια Κίνηση και Διατηρεί τις Εφαρμογές Πάντα Διαθέσιμες](https://dev.to/__b63657/pos-to-azure-front-door-moirazei-exupna-ten-pagkosmia-kinese-kai-diaterei-tis-epharmoges-panta-33h5)
+- [Rick Beato: This AI Song Just Went Number 1...FOR REAL](https://dev.to/music_youtube/rick-beato-this-ai-song-just-went-number-1for-real-dgm)
+- [How to configure Relyt ONE in Dify?](https://dev.to/data_cloud_/how-to-configure-relyt-one-in-dify-4iod)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
