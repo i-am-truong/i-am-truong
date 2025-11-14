@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hey guys, just in case you missed this: I documented my experience building an open-source solution to improving the experience of front-end developers. Please check it out!](https://dev.to/olawalethefirst/hey-guys-just-in-case-you-missed-this-i-documented-my-experience-building-an-open-source-solution-3l13)
-- [How to Mount and Unmount Drives and Partitions in Linux](https://dev.to/serveravatar/how-to-mount-and-unmount-drives-and-partitions-in-linux-19oo)
-- [When a simple order update breaks Revolut Checkout workflow](https://dev.to/asoseil/when-a-simple-order-update-breaks-revolut-checkout-workflow-ocf)
-- [NPR Music: Nova Twins: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-nova-twins-tiny-desk-concert-21jl)
-- [Which DevOps certs are necessary for a Frontend Lead?](https://dev.to/kelvynthai/which-devops-certs-are-necessary-for-a-frontend-lead-5pn)
+- [TypeScript PDF Libraries &lpar;Free &amp; Paid Tools Comparison&rpar; for Developers](https://dev.to/tayyabcodes/typescript-pdf-libraries-free-paid-tools-comparison-for-developers-1641)
+- [What I Learned Launching a Modern Photo Sharing Site](https://dev.to/jundata/lessons-learned-from-deploying-a-federated-photo-sharing-service-2kh0)
+- [`requirements.txt` in python](https://dev.to/nazanin_ashrafi/requirementstxt-in-python-1jjl)
+- [SMTP for Transactional Emails: How It Works &amp;amp; How to Set It Up Correctly](https://dev.to/tusharsmtpmaster/smtp-for-transactional-emails-how-it-works-amp-how-to-set-it-up-correctly-c16)
+- [From Late-Night Tutorials to Coding Mastery: The Journey of Stewart Joseph](https://dev.to/stewartjoseph17/from-late-night-tutorials-to-coding-mastery-the-journey-of-stewart-joseph-1da0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
