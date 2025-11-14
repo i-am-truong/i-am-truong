@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How API-First Development is Changing Full-Stack Web Development](https://dev.to/sain_bux_dev/how-api-first-development-is-changing-full-stack-web-development-84b)
-- [The Bug: How a Missing Database Index Cost Us Real Money](https://dev.to/viveklumbhani/the-bug-how-a-missing-database-index-cost-us-real-money-472b)
-- [Building a Unified Calendar API: Lessons from Aggregating Google Calendar, CalDAV, and Jira](https://dev.to/anthony_cole_d8330ab71208/building-a-unified-calendar-api-lessons-from-aggregating-google-calendar-caldav-and-jira-3ei8)
-- [Trigger AWS CodePipeline from a Cross-Account S3 Upload &lpar;Using EventBridge + IAM Roles&rpar;](https://dev.to/santanu_das/trigger-aws-codepipeline-from-a-cross-account-s3-upload-using-eventbridge-iam-roles-185d)
-- [Dumb*** business ideas](https://dev.to/elysionmind/dumb-business-ideas-4mck)
+- [Learning Xahau: Automating Hook Execution with Cron Transactions](https://dev.to/ekiserrepe/learning-xahau-automating-hook-execution-with-cron-transactions-14n1)
+- [Time Boxing &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/time-boxing-bite-size-article-39o6)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-30d1)
+- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-1578)
+- [The Complete Toolkit: Essential Tools, Platforms, and Resources Every Pump.fun Participant Needs](https://dev.to/hamd_writer_8c77d9c88c188/the-complete-toolkit-essential-tools-platforms-and-resources-every-pumpfun-participant-needs-9pb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
