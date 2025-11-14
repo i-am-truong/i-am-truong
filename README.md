@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Collapse of the Web: The Sameness &amp; Death of Difference in Tech](https://dev.to/rockyessel/the-collapse-of-the-web-the-sameness-death-of-difference-in-tech-2gkg)
+- [WAF Showdown: Real Deployment Costs Compared](https://dev.to/carrie_luo1/waf-showdown-real-deployment-costs-compared-9ee)
 - [A Better Way to build](https://dev.to/fiveace_merill/a-better-way-to-build-5fec)
 - [🚀 Passing PCI in 2025: A Developer’s Server-Hardening Guide &lpar;Real Configs + Audit Notes&rpar;](https://dev.to/labamrash/passing-pci-in-2025-a-developers-server-hardening-guide-real-configs-audit-notes-nj6)
 - [Building a Smart Recommendation System: Leveraging BERT for Skill Extraction](https://dev.to/sopnonill87/building-a-smart-recommendation-system-leveraging-bert-for-skill-extraction-46ln)
-- [How to Install OpenAPI &lpar;Swagger&rpar; Editor Plugin in Eclipse Offline](https://dev.to/rinaxsumomo/how-to-install-openapi-swagger-editor-in-eclipse-offline-2d79)
-- [How Skapi Helped Me Finally Get a Raise with Just 15 Minutes of Code](https://dev.to/skapi_api/how-skapi-helped-me-finally-get-a-raise-with-just-15-minutes-of-code-58ab)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
