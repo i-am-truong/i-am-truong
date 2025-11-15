@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mindmap Ziin: A Free Mindmap](https://dev.to/choonho/mindmap-ziin-a-free-mindmap-5340)
+- [CI/CD on Local Gitlab server| Setup GitLab Runner | Self-hosted GitLab](https://dev.to/ishmam_abir/cicd-on-local-gitlab-server-setup-gitlab-runner-self-hosted-gitlab-37nf)
+- [Best Practices and Patterns for Building Scalable .NET Backend APIs](https://dev.to/bharat_biyani_dc2bd6e7e49/best-practices-and-patterns-for-building-scalable-net-backend-apis-32ec)
 - [Advanced Django Deployment on Seenode: Production-Ready Strategies for 2025](https://dev.to/app_dev_b139d1a58b00b6516/advanced-django-deployment-on-seenode-production-ready-strategies-for-2025-5bcm)
 - [The Future is &quot;Zero-Trust&quot; Automation: An Introduction to Flowork.](https://dev.to/ari_anggoro_9628f03902953/the-future-is-zero-trust-automation-an-introduction-to-flowork-3g6i)
-- [This Python Workflow Automation Tool Finally Solved Dependency Hell.](https://dev.to/ari_anggoro_9628f03902953/this-python-workflow-automation-tool-finally-solved-dependency-hell-2o2a)
-- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-2kbf)
-- [Run Ballerina in Your Browser!](https://dev.to/pramithamj/run-ballerina-in-your-browser-10fo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
