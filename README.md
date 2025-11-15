@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Diffey.in: The Online Text Comparison &amp; Diff Tool](https://dev.to/kushal/diffeyin-the-online-text-comparison-diff-tool-3h76)
+- [Rick Beato: Jahari Stampley... I&#39;ve Never Heard Playing Like This!](https://dev.to/music_youtube/rick-beato-jahari-stampley-ive-never-heard-playing-like-this-1gj7)
 - [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-1bl7)
 - [AWS VPC: Security and Control from Scratch](https://dev.to/figueroaeandres/aws-vpc-security-and-control-from-scratch-39ml)
-- [What is an e-commerce website and why do you need one?](https://dev.to/sitesazan/what-is-an-e-commerce-website-and-why-do-you-need-one-25io)
-- [Finding My Writing Routine In The Quiet Hours Of The Cafe](https://dev.to/evanloringiswriting/finding-my-writing-routine-in-the-quiet-hours-of-the-cafe-36j3)
-- [Dev Log 37 - Consolidated Update](https://dev.to/asx/dev-log-37-consolidated-update-oo7)
+- [Will AI Replace Small and Beginner Programmers by 2035? A Realistic Look at the Future](https://dev.to/mohammad_noorbakhsh_3b47d/will-ai-replace-small-and-beginner-programmers-by-2035-a-realistic-look-at-the-future-ggc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
