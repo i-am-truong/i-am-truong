@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Angular HttpResource + Signals: The Modern Approach to API Development](https://dev.to/rohit_singh_ee84e64941db7/angular-httpresource-signals-the-modern-approach-to-api-development-1n9d)
+- [DSA Fundamentals: Arrays &amp; Strings - From Theory to LeetCode Practice](https://dev.to/jayk0001/dsa-fundamentals-arrays-strings-from-theory-to-leetcode-practice-5e87)
+- [Rendering 15 Million Moving Nodes in the Browser with WebGPU](https://dev.to/ajlaston/rendering-15-million-moving-nodes-in-the-browser-with-webgpu-2g31)
 - [An Introduction to LangChain](https://dev.to/solegaonkar/an-introduction-to-langchain-9m6)
 - [checkout this article on Feature Selection Techniques with R: Origins, Methods, and Real-Life Applications](https://dev.to/vamshi_e_eebe5a6287a27142/checkout-this-article-on-feature-selection-techniques-with-r-origins-methods-and-real-life-43n)
-- [Feature Selection Techniques with R: Origins, Methods, and Real-Life Applications](https://dev.to/vamshi_e_eebe5a6287a27142/feature-selection-techniques-with-r-origins-methods-and-real-life-applications-4nif)
-- [Credential Optics Institutional Access: Competence is Authored, Not Conferred](https://dev.to/narnaiezzsshaa/credential-optics-institutional-access-competence-is-authored-not-conferred-bdg)
-- [Webinar Analytics Guide: Measure Success &amp; Boost Performance](https://dev.to/sujana_sanmo_9d182dd64e71/webinar-analytics-guide-measure-success-boost-performance-20h8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
