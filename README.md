@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Run Efficient ClamAV Scans on a 4GB RAM Server &lpar;Without Killing Your Machine&rpar;](https://dev.to/lovestaco/how-to-run-efficient-clamav-scans-on-a-4gb-ram-server-without-killing-your-machine-14)
+- [useRef&lpar;&rpar; and how it prevents flicker in a Map component](https://dev.to/cathylai/useref-and-how-it-prevents-flicker-in-a-map-component-ckj)
 - [Python Core Utility - `itertools.groupby`](https://dev.to/saveshodhan/python-core-utility-itertoolsgroupby-1jef)
+- [Top Five Breast Pump Reviews for 2025: Gentle, Practical Picks With Real‑World Feedback](https://dev.to/johnsmith5/top-five-breast-pump-reviews-for-2025-gentle-practical-picks-with-real-world-feedback-21hb)
 - [Python Core Utility - `collections.defaultdict`](https://dev.to/saveshodhan/python-core-utility-collectionsdefaultdict-n70)
-- [[Boost]](https://dev.to/md_ataullah_205566605d138/-3efj)
-- [Part 1: Mastering Dynamic Programming — 5 Steps to Solve It &lpar;Longest Increasing Subsequence Using Tabulation / Bottom-Up&rpar;](https://dev.to/saishanmukkha/part-1-mastering-dynamic-programming-5-steps-to-solve-it-longest-increasing-sequence-using-5hm4)
-- [Reality Bites: Hardening Your AI Against Physical-World Attacks](https://dev.to/arvind_sundararajan/reality-bites-hardening-your-ai-against-physical-world-attacks-1n0n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
