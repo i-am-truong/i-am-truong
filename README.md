@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The truth about learning to code.](https://dev.to/m2m_vir/the-truth-about-learning-to-code-9l1)
 - [Diffey.in: The Online Text Comparison &amp; Diff Tool](https://dev.to/kushal/diffeyin-the-online-text-comparison-diff-tool-3h76)
+- [Website design with artificial intelligence](https://dev.to/sitesazan/website-design-with-artificial-intelligence-9m8)
 - [Rick Beato: Jahari Stampley... I&#39;ve Never Heard Playing Like This!](https://dev.to/music_youtube/rick-beato-jahari-stampley-ive-never-heard-playing-like-this-1gj7)
 - [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-1bl7)
-- [AWS VPC: Security and Control from Scratch](https://dev.to/figueroaeandres/aws-vpc-security-and-control-from-scratch-39ml)
-- [Will AI Replace Small and Beginner Programmers by 2035? A Realistic Look at the Future](https://dev.to/mohammad_noorbakhsh_3b47d/will-ai-replace-small-and-beginner-programmers-by-2035-a-realistic-look-at-the-future-ggc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
