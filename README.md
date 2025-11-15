@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a simple RAG system in PHP with the Neuron AI framework in one evening](https://dev.to/samuel_akopyan_e902195a96/building-a-simple-rag-system-in-php-with-the-neuron-ai-framework-in-one-evening-2051)
+- [Availability — Queue Based Load Leveling](https://dev.to/sawantudayan/availability-queue-based-load-leveling-44pg)
 - [GitHub Actions in Your JetBrains IDE](https://dev.to/revenate/github-actions-in-your-jetbrains-ide-3jm4)
 - [&quot;Building NecroOS: A Haunted Windows 95 Simulator with Kiro AI&quot;](https://dev.to/astaaddahiya/building-necroos-a-haunted-windows-95-simulator-with-kiro-ai-4pl4)
-- [Ortogonalidade: O Caminho para Sistemas de Software Eficientes](https://dev.to/danielcamucatto/ortogonalidade-o-caminho-para-sistemas-de-software-eficientes-38jd)
-- [Deep Dive into React’s useReducer — From Quiz Answers to Senior‑Level Patterns](https://dev.to/cristiansifuentes/deep-dive-into-reacts-usereducer-from-quiz-answers-to-senior-level-patterns-299g)
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-52mm)
+- [Responsables de cumplimiento en México, es hora de adoptar t](https://dev.to/drcarlosruizviquez/responsables-de-cumplimiento-en-mexico-es-hora-de-adoptar-t-1cp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
