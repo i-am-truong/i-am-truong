@@ -120,10 +120,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Statistics Day 4: Z-Score vs Min-Max Normalization — Making Data Fair for ML Models](https://dev.to/brains_behind_bots/statistics-day-4-z-score-vs-min-max-normalization-making-data-fair-for-ml-models-1plc)
+- [Building a Bootloader from Scratch: An x86 Assembly Guide](https://dev.to/aayush_gid/building-a-bootloader-from-scratch-an-x86-assembly-guide-fpi)
 - [🚀Understanding Webpack: A begineer friendly Guide with Examples](https://dev.to/selviparasakthik/understanding-webpack-a-begineer-friendly-guide-with-examples-3dp)
 - [MySQL HeatWave: Backing Up and Restoring DB Systems](https://dev.to/derrickryangiggs/mysql-heatwave-backing-up-and-restoring-db-systems-57ff)
 - [Django without models.](https://dev.to/mikey_developer/django-without-models-11co)
-- [Transform API Monetization: A Deep Dive into Monetzly](https://dev.to/monetzly/transform-api-monetization-a-deep-dive-into-monetzly-4i62)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
