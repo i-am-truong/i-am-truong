@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Kiro Did It: Streamlining Comments, Structure, and Logging Using Steering Docs!](https://dev.to/bhatiagirish/kiro-did-it-streamlining-comments-structure-and-logging-using-steering-docs-3hcm)
+- [Microsoft Azure vs OCI Networking: A Deep Dive](https://dev.to/vaibhav_bedi_82eeb9670233/microsoft-azure-vs-oci-networking-a-deep-dive-1h13)
+- [🧪 Test Post - Dev.to API Integration Test](https://dev.to/aaradhya_91c28204a580458b/test-post-devto-api-integration-test-27md)
 - [Network Resilience &amp; Routing Reliability: Lessons from Real-World Cloud Systems](https://dev.to/vaibhav_bedi_82eeb9670233/network-resilience-routing-reliability-lessons-from-real-world-cloud-systems-2joe)
-- [What is Hydration in Next.js ⚠️?](https://dev.to/manishsahu001/what-is-hydration-in-nextjs--mh9)
-- [Availability — Throttling &lpar;1&rpar;](https://dev.to/sawantudayan/availability-throttling-1-1an1)
-- [ComfyDeploy Local Development Setup Guide](https://dev.to/ogkai/comfydeploy-local-development-setup-guide-h6m)
-- [Responsive Images in HTML](https://dev.to/xxzeroxx/responsive-images-in-html-3pf6)
+- [What CodeSphere Agency is upto lately.....?](https://dev.to/hasnainmakada99/what-codesphere-agency-is-upto-lately-7ce)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
