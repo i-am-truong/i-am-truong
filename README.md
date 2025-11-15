@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [✅ Task — 3: Use Variables, Locals, and Outputs for a Simple EC2 Instance Setup](https://dev.to/latchudevops/task-3-use-variables-locals-and-outputs-for-a-simple-ec2-instance-setup-10le)
+- [🚫 Kubernetes Ingress-NGINX Deprecation: Why You Should Stop Using It &amp; What to Choose Instead](https://dev.to/shashank215/kubernetes-ingress-nginx-deprecation-why-you-should-stop-using-it-what-to-choose-instead-2nmo)
+- [Implementing Concurrency Control in MongoDB](https://dev.to/sheep_/implementing-concurrency-control-in-mongodb-1ban)
 - [The Only SOLID + Clean Code JavaScript Guide You Need in 2025](https://dev.to/clara_ashford_cb1c74e7d57/the-only-solid-clean-code-javascript-guide-you-need-in-2025-5bah)
 - [HOW TO: Run Spark on Kubernetes with AWS EMR on EKS &lpar;2025&rpar;](https://dev.to/chaos-genius/how-to-run-spark-on-kubernetes-with-aws-emr-on-eks-2025-28jo)
-- [The Barrel Trap: How I Learned to Stop Re‑Exporting and Love Explicit Imports](https://dev.to/elmay/the-barrel-trap-how-i-learned-to-stop-re-exporting-and-love-explicit-imports-3872)
-- [Testing While Developing &lpar;Part 6&rpar;: Using Testing Library Selectors](https://dev.to/kevinccbsg/testing-while-developing-part-6-using-testing-library-selectors-2p35)
-- [What do you think?](https://dev.to/seagamesai/what-do-you-think-2af6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
