@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [“Computer Networking: The Backbone of the Internet”](https://dev.to/heyyprakhar1/computer-networking-the-backbone-of-the-internet-1905)
+- [🧠Deterministic scoring for messy AI agent graphs: what I learned building OrKa v0.9.6](https://dev.to/marcosomma/deterministic-scoring-for-messy-ai-agent-graphs-what-i-learned-building-orka-v096-57el)
 - [Closures &amp; Callstacks: Building a Game to Learn JavaScript Closures](https://dev.to/stuartp/closures-callstacks-building-a-game-to-learn-javascript-closures-1jb2)
+- [Transform Conversations into Cash with Monetzly&#39;s SDK Integration](https://dev.to/monetzly/transform-conversations-into-cash-with-monetzlys-sdk-integration-1j2i)
 - [Your Understanding of Abstraction is Incomplete &lpar;And It&#39;s Holding You Back&rpar;](https://dev.to/araldhafeeri/your-understanding-of-abstraction-is-incomplete-and-its-holding-you-back-4k5l)
-- [Unlocking the Unsolvable: Parallel Search Algorithms Conquer Complexity by Arvind Sundararajan](https://dev.to/arvind_sundararajan/unlocking-the-unsolvable-parallel-search-algorithms-conquer-complexity-by-arvind-sundararajan-f15)
-- [Beyond the Hype: How Apple Intelligence Will Actually Change Your Daily Productivity](https://dev.to/veltrex_labs/beyond-the-hype-how-apple-intelligence-will-actually-change-your-daily-productivity-4ga4)
-- [🚀How My Kubernetes KIND Contribution Got Merged: A Beginner’s Journey Into Real Open Source](https://dev.to/anjalimishra1st/how-my-kubernetes-kind-contribution-got-merged-a-beginners-journey-into-real-open-source-4p3e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
