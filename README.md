@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Diciembre de Agentes &lpar;2025&rpar;](https://dev.to/icebeam7/diciembre-de-agentes-2025-4oob)
+- [The Developer’s Guide to Multi-Session Automation](https://dev.to/vietnam/the-developers-guide-to-multi-session-automation-cgk)
+- [How to implement Pagination in Spring-boot project?](https://dev.to/deadpoolx7/how-to-implement-pagination-in-spring-boot-project-4p4)
+- [react](https://dev.to/marat_nersesyan_2b61cfda6/react-4993)
 - [My submission for DEV Education Track](https://dev.to/js_cipher/my-submission-for-dev-education-track-2ffp)
-- [Hashicorp Vault for secrets management](https://dev.to/lucaspereiradesouzat/hashicorp-vault-for-secrets-management-3352)
-- [Hashicorp Vault para gerenciamento de segredos](https://dev.to/lucaspereiradesouzat/hashicorp-vault-para-gerenciamento-de-segredos-33fb)
-- [NPR Music: Nova Twins: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-nova-twins-tiny-desk-concert-5gcc)
-- [Ringer Movies: What Happened With the Fall Movie Slate?](https://dev.to/popcorn_movies/ringer-movies-what-happened-with-the-fall-movie-slate-8aj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
