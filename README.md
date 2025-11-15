@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-52mm)
+- [Ringer Movies: What Happened With the Fall Movie Slate?](https://dev.to/popcorn_movies/ringer-movies-what-happened-with-the-fall-movie-slate-3ld4)
+- [I Stopped Recording Voiceovers for My Tech YouTube Channel. Here&#39;s What Happened.](https://dev.to/blogai/i-stopped-recording-voiceovers-for-my-tech-youtube-channel-heres-what-happened-564i)
+- [Why Your Snowflake Bill is High and How to Fix It with a Hybrid Approach](https://dev.to/zenithai/why-your-snowflake-bill-is-high-and-how-to-fix-it-with-a-hybrid-approach-1o3h)
 - [How to Run Efficient ClamAV Scans on a 4GB RAM Server &lpar;Without Killing Your Machine&rpar;](https://dev.to/lovestaco/how-to-run-efficient-clamav-scans-on-a-4gb-ram-server-without-killing-your-machine-14)
-- [useRef&lpar;&rpar; and how it prevents flicker in a Map component](https://dev.to/cathylai/useref-and-how-it-prevents-flicker-in-a-map-component-ckj)
-- [Resume screener app](https://dev.to/abhi278/resume-screener-app-1hig)
-- [Why I didn&#39;t get any job till now?](https://dev.to/arun_jamdagni_042e940f675/why-i-didnt-get-any-job-till-now-5gm8)
-- [Python Core Utility - `itertools.groupby`](https://dev.to/saveshodhan/python-core-utility-itertoolsgroupby-1jef)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
