@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Supply Chain Ecosystem: A Guide to Building a Modern, Data-Driven Logistics Network](https://dev.to/disiplin_forml_e60c4755/the-supply-chain-ecosystem-a-guide-to-building-a-modern-data-driven-logistics-network-41if)
-- [Logic Apps Local Dev Tools: Visual Walkthrough](https://dev.to/imdj/logic-apps-local-dev-tools-visual-walkthrough-5gph)
-- [Is Your Frontend Blindfolded? Monitoring &amp; Observability for Beginners](https://dev.to/karthik_n/is-your-frontend-blindfolded-monitoring-observability-for-beginners-4e54)
-- [Mcp servers: Complete Setup for AI Agents &lpar;Step-by-Step&rpar;](https://dev.to/robort-gabriel/mcp-servers-complete-setup-for-ai-agents-step-by-step-coh)
-- [✅ Task 2 — Create a Reusable VPC Module with Environments using Terraform &lpar;dev/stage/prod&rpar;](https://dev.to/latchudevops/task-2-create-a-reusable-vpc-module-with-environments-using-terraform-devstageprod-3aa0)
+- [The Only SOLID + Clean Code JavaScript Guide You Need in 2025](https://dev.to/clara_ashford_cb1c74e7d57/the-only-solid-clean-code-javascript-guide-you-need-in-2025-5bah)
+- [HOW TO: Run Spark on Kubernetes with AWS EMR on EKS &lpar;2025&rpar;](https://dev.to/chaos-genius/how-to-run-spark-on-kubernetes-with-aws-emr-on-eks-2025-28jo)
+- [The Barrel Trap: How I Learned to Stop Re‑Exporting and Love Explicit Imports](https://dev.to/elmay/the-barrel-trap-how-i-learned-to-stop-re-exporting-and-love-explicit-imports-3872)
+- [Testing While Developing &lpar;Part 6&rpar;: Using Testing Library Selectors](https://dev.to/kevinccbsg/testing-while-developing-part-6-using-testing-library-selectors-2p35)
+- [What do you think?](https://dev.to/seagamesai/what-do-you-think-2af6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
