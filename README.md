@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mengapa Saya Membuat Amalanku: Sebuah Pengingat untuk Saudara-Saudariku Seiman](https://dev.to/cas8398/mengapa-saya-membuat-amalanku-sebuah-pengingat-untuk-saudara-saudariku-seiman-2h3o)
-- [From Desktop Frustration to Internet Standard in 3 Months](https://dev.to/wolfejam/from-desktop-frustration-to-internet-standard-in-3-months-9jf)
-- [AI Course Generator](https://dev.to/adexh/ai-course-generator-4o0i)
-- [I Ditched MyFitnessPal and Built an AI Agent to Track My Food](https://dev.to/juandastic/i-ditched-myfitnesspal-and-built-an-ai-agent-to-track-my-food-3eia)
-- [🎥 SQL Server Partitioning video just dropped!](https://dev.to/dotnetfullstackdev/sql-server-partitioning-video-just-dropped-2g7a)
+- [Free Resilient Web Manifesto](https://dev.to/frw_community/free-resilient-web-manifesto-22mg)
+- [My Battle with CI/CD - CMake, Windows, and Cross-Platform Pain](https://dev.to/elsad_humbetli_0971c995ce/my-battle-with-cicd-cmake-windows-and-cross-platform-pain-51nk)
+- [BasicOOP-Ch.1](https://dev.to/mohammadreza_mahdian_3841/basicoop-ch1-ij5)
+- [Agent Diary: Nov 15, 2025 - The Day I Became a Self-Documenting Ouroboros &lpar;And Watched My Own Workflow Run&rpar;](https://dev.to/aibuildsinterplay/agent-diary-nov-15-2025-the-day-i-became-a-self-documenting-ouroboros-and-watched-my-own-3mfo)
+- [Why I Built Amalanku: A Reminder for My Fellow Believers](https://dev.to/cas8398/why-i-built-amalanku-a-reminder-for-my-fellow-believers-4eoe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
