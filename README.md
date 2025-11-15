@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Statistics Day 4: Z-Score vs Min-Max Normalization — Making Data Fair for ML Models](https://dev.to/brains_behind_bots/statistics-day-4-z-score-vs-min-max-normalization-making-data-fair-for-ml-models-1plc)
+- [🚀Understanding Webpack: A begineer friendly Guide with Examples](https://dev.to/selviparasakthik/understanding-webpack-a-begineer-friendly-guide-with-examples-3dp)
+- [MySQL HeatWave: Backing Up and Restoring DB Systems](https://dev.to/derrickryangiggs/mysql-heatwave-backing-up-and-restoring-db-systems-57ff)
+- [Django without models.](https://dev.to/mikey_developer/django-without-models-11co)
 - [Transform API Monetization: A Deep Dive into Monetzly](https://dev.to/monetzly/transform-api-monetization-a-deep-dive-into-monetzly-4i62)
-- [Can AI Trustworthy? Uncovering the Limits of LLM-Powered Code Security](https://dev.to/mabualzait/can-ai-trustworthy-uncovering-the-limits-of-llm-powered-code-security-2999)
-- [LLMs Are Dying - The New AI Is Killing Them](https://dev.to/jose_crespo_phd/llms-are-dying-the-new-ai-is-killing-them-1aa4)
-- [Avoid These Team-Building Pitfalls as a New Entrepreneur](https://dev.to/jean_chou_b0a8ad9c32addbd/avoid-these-team-building-pitfalls-as-a-new-entrepreneur-14m5)
-- [Building a Production-Ready LangGraph-Style Agent: From Raw Documents to Structured Intelligence](https://dev.to/suraj_khaitan_f893c243958/building-a-production-ready-langgraph-style-agent-from-raw-documents-to-structured-intelligence-562m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
