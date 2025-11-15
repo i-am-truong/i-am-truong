@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mindmap Ziin: A Free Mindmap](https://dev.to/choonho/mindmap-ziin-a-free-mindmap-5340)
-- [CI/CD on Local Gitlab server| Setup GitLab Runner | Self-hosted GitLab](https://dev.to/ishmam_abir/cicd-on-local-gitlab-server-setup-gitlab-runner-self-hosted-gitlab-37nf)
-- [Best Practices and Patterns for Building Scalable .NET Backend APIs](https://dev.to/bharat_biyani_dc2bd6e7e49/best-practices-and-patterns-for-building-scalable-net-backend-apis-32ec)
-- [Advanced Django Deployment on Seenode: Production-Ready Strategies for 2025](https://dev.to/app_dev_b139d1a58b00b6516/advanced-django-deployment-on-seenode-production-ready-strategies-for-2025-5bcm)
-- [The Future is &quot;Zero-Trust&quot; Automation: An Introduction to Flowork.](https://dev.to/ari_anggoro_9628f03902953/the-future-is-zero-trust-automation-an-introduction-to-flowork-3g6i)
+- [Transform API Monetization: A Deep Dive into Monetzly](https://dev.to/monetzly/transform-api-monetization-a-deep-dive-into-monetzly-4i62)
+- [Can AI Trustworthy? Uncovering the Limits of LLM-Powered Code Security](https://dev.to/mabualzait/can-ai-trustworthy-uncovering-the-limits-of-llm-powered-code-security-2999)
+- [LLMs Are Dying - The New AI Is Killing Them](https://dev.to/jose_crespo_phd/llms-are-dying-the-new-ai-is-killing-them-1aa4)
+- [Avoid These Team-Building Pitfalls as a New Entrepreneur](https://dev.to/jean_chou_b0a8ad9c32addbd/avoid-these-team-building-pitfalls-as-a-new-entrepreneur-14m5)
+- [Building a Production-Ready LangGraph-Style Agent: From Raw Documents to Structured Intelligence](https://dev.to/suraj_khaitan_f893c243958/building-a-production-ready-langgraph-style-agent-from-raw-documents-to-structured-intelligence-562m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
