@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why We Ditched React and Built Financial Calculators in Vanilla JavaScript &lpar;And How It Made Everything Better&rpar;](https://dev.to/cnivargi/why-we-ditched-react-and-built-financial-calculators-in-vanilla-javascript-and-how-it-made-2nl)
+- [The Future Internet Won’t Run on Centralized Servers — It Will Run on Devices Like Yours, Powered by Neurolov](https://dev.to/neurolov__ai/the-future-internet-wont-run-on-centralized-servers-it-will-run-on-devices-like-yours-powered-4nc0)
 - [The Real Cost of Headless Commerce: Is It Worth the Hype?](https://dev.to/indianwebsiteco/the-real-cost-of-headless-commerce-is-it-worth-the-hype-3pe)
 - [Why Parquet Is Everywhere - And What Makes It Actually Fast?](https://dev.to/mohhddhassan/why-parquet-is-everywhere-and-what-makes-it-actually-fast-4p66)
-- [Web Developer Travis McCracken on The Art of Dependency Injection in Go](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-art-of-dependency-injection-in-go-3ljm)
-- [The Complete 2026 and beyond Google SRE Interview Preparation Guide — Frameworks, Scenarios, and Roadmap](https://dev.to/aceinterviews/the-complete-2026-and-beyond-google-sre-interview-preparation-guide-frameworks-scenarios-and-1ni4)
-- [How to build an AI Voice Agent with PaplaAI Text to speech Model](https://dev.to/chaitrali_kakde/how-to-build-an-ai-voice-agent-with-paplaai-text-to-speech-model-2lb)
+- [Maximize Developer Revenue with Monetzly&#39;s API Monetization](https://dev.to/monetzly/maximize-developer-revenue-with-monetzlys-api-monetization-5d25)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
