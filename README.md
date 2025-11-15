@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [✅ Task 2 — Create a Reusable VPC Module with Environments using Terraform &lpar;dev/stage/prod&rpar;](https://gg.forem.com/latchudevops/task-2-create-a-reusable-vpc-module-with-environments-using-terraform-devstageprod-3aa0)
-- [Building a Summarizer app using Amazon Bedrock and Bedrock Guardrails using AWS CDK](https://gg.forem.com/katevu/building-a-summarizer-app-using-amazon-bedrock-and-bedrock-guardrails-using-aws-cdk-56a7)
-- [Constructor overloading in java](https://gg.forem.com/dinesh_g_909f4a82c67f5bbd/constructor-overloading-in-java-232c)
-- [Debug Logic Apps in Docker Without the Hassle](https://gg.forem.com/imdj/debug-logic-apps-in-docker-without-the-hassle-3763)
-- [Expose only the data needed by the frontend](https://gg.forem.com/luigimorel/expose-only-the-data-needed-by-the-frontend-1fhk)
+- [Logic Apps Local Dev Tools: Visual Walkthrough](https://dev.to/imdj/logic-apps-local-dev-tools-visual-walkthrough-5gph)
+- [✅ Task 2 — Create a Reusable VPC Module with Environments using Terraform &lpar;dev/stage/prod&rpar;](https://dev.to/latchudevops/task-2-create-a-reusable-vpc-module-with-environments-using-terraform-devstageprod-3aa0)
+- [Building a Summarizer app using Amazon Bedrock and Bedrock Guardrails using AWS CDK](https://dev.to/katevu/building-a-summarizer-app-using-amazon-bedrock-and-bedrock-guardrails-using-aws-cdk-56a7)
+- [Constructor overloading in java](https://dev.to/dinesh_g_909f4a82c67f5bbd/constructor-overloading-in-java-232c)
+- [Debug Logic Apps in Docker Without the Hassle](https://dev.to/imdj/debug-logic-apps-in-docker-without-the-hassle-3763)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
