@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My submission for DEV Education Track](https://dev.to/js_cipher/my-submission-for-dev-education-track-2ffp)
+- [Hashicorp Vault for secrets management](https://dev.to/lucaspereiradesouzat/hashicorp-vault-for-secrets-management-3352)
+- [Hashicorp Vault para gerenciamento de segredos](https://dev.to/lucaspereiradesouzat/hashicorp-vault-para-gerenciamento-de-segredos-33fb)
 - [NPR Music: Nova Twins: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-nova-twins-tiny-desk-concert-5gcc)
 - [Ringer Movies: What Happened With the Fall Movie Slate?](https://dev.to/popcorn_movies/ringer-movies-what-happened-with-the-fall-movie-slate-8aj)
-- [Games: Atomix](https://dev.to/orsenthil/games-atomix-2ofj)
-- [Build in Public: Week 2. How Do People Even Find Influencers?](https://dev.to/olgabraginskaya/build-in-public-week-2-how-do-people-even-find-influencers-40dn)
-- [From 11 Failing Tests to a 110-Test &quot;Bulletproof&quot; AI: A Debugging War Story](https://dev.to/freerave/from-11-failing-tests-to-a-110-test-bulletproof-ai-a-debugging-war-story-36k3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
