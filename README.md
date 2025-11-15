@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ROBLOX made me think I sucked at making games.](https://dev.to/blankets-awful-posts/roblox-made-me-think-i-sucked-at-making-games-o0c)
 - [Meaning of passwordless authentication for beginners &lpar;and let&#39;s make it&rpar;](https://dev.to/jahongir2007/meaning-of-passwordless-authentication-for-beginners-and-lets-make-it-9l2)
 - [💼 Real-Time Collaboration: The Secret Weapon of Modern Project Management](https://dev.to/okoye_ndidiamaka_5e3b7d30/real-time-collaboration-the-secret-weapon-of-modern-project-management-3ep2)
 - [✅ Task 1 — Initialize a Terraform project with backend and provider blocks](https://dev.to/latchudevops/task-1-initialize-a-terraform-project-with-backend-and-provider-blocks-1ia9)
-- [Analytics Plugins That Reveal Hidden Support Bottlenecks](https://dev.to/freepixel11/analytics-plugins-that-reveal-hidden-support-bottlenecks-3b0a)
-- [UTF-8 Decoder — Turn Encoded Text Back Into Real Words 🧙‍♂️🔓](https://dev.to/akashbijwe/utf-8-decoder-turn-encoded-text-back-into-real-words-fig)
+- [Architecting Large-Scale AWS Migrations Using AWS Application Migration Service &lpar;MGN&rpar; .](https://dev.to/kishore_karumanchi_acbc18/architecting-large-scale-aws-migrations-using-aws-application-migration-service-mgn--1idp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
