@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How AI Transformed My Resume &lpar;and Landed Me More Interviews in 2025&rpar; — A Deep Dive with Real Prompts](https://dev.to/mess_anti_25613b50c3a1161/how-ai-transformed-my-resume-and-landed-me-more-interviews-in-2025-a-deep-dive-with-real-prompts-62l)
-- [Position-Candidate-Hypothesis &lpar;PCH&rpar; Paradigm: A New Research Direction for NP-Complete Problems](https://dev.to/smartlegionlab/position-candidate-hypothesis-pch-paradigm-a-new-research-direction-for-np-complete-problems-2b00)
-- [Series Week 8/52 — Database consolidation : Key to managing rising applications to curtail OCI cloud costs](https://dev.to/nabhaas/series-week-852-database-consolidation-key-to-managing-rising-applications-to-curtail-oci-1aj9)
-- [Caching — The Secret Weapon Behind Fast, Scalable Systems — Architecture Series: Part 4](https://dev.to/usman_awan/caching-the-secret-weapon-behind-fast-scalable-systems-architecture-series-part-4-44cm)
-- [Hashicorp Terraform Associate and AWS Cloud Automation Topics and Scenarios with examples](https://dev.to/giridharan_devops/hashicorp-terraform-associate-and-aws-cloud-automation-topics-and-scenarios-with-examples-5b8h)
+- [The Future is &quot;Zero-Trust&quot; Automation: An Introduction to Flowork.](https://dev.to/ari_anggoro_9628f03902953/the-future-is-zero-trust-automation-an-introduction-to-flowork-3g6i)
+- [This Python Workflow Automation Tool Finally Solved Dependency Hell.](https://dev.to/ari_anggoro_9628f03902953/this-python-workflow-automation-tool-finally-solved-dependency-hell-2o2a)
+- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-2kbf)
+- [How Hackers Are Using AI to Craft Unstoppable Phishing Campaigns](https://dev.to/sagar_sajwan_a91beb41c861/how-hackers-are-using-ai-to-craft-unstoppable-phishing-campaigns-al4)
+- [🔐 Understanding WMI in Cybersecurity — A Simple Beginner’s Guide](https://dev.to/natarajan_c_k/understanding-wmi-in-cybersecurity-a-simple-beginners-guide-3hce)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
