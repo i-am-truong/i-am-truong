@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Easiest Way to Build Auditable, Cryptographically-Secure Workflows.](https://dev.to/alya_mahalini_f05d9953cfa/the-easiest-way-to-build-auditable-cryptographically-secure-workflows-5bnc)
+- [The Story Behind Peaceful Night, a Calm Space for Tired Minds](https://dev.to/thoma_nani_817d966e031880/the-story-behind-peaceful-night-a-calm-space-for-tired-minds-5994)
 - [AI Education Booms: The U.S. States Leading the New Talent Wave](https://dev.to/aiwithapex/ai-education-booms-the-us-states-leading-the-new-talent-wave-420c)
 - [Automated macOS Setup with Dotfiles](https://dev.to/mikula/automated-macos-setup-with-dotfiles-4221)
 - [AI Assistants Revolutionizing Daily Productivity in 2025](https://dev.to/creative_soul_1f7d988fcf9/ai-assistants-revolutionizing-daily-productivity-in-2025-ked)
-- [Process Mapping Tool](https://dev.to/rverwey/process-mapping-tool-5eh4)
-- [🚀 Angular HttpResource + Signals: The Modern Approach to API Development](https://dev.to/rohit_singh_ee84e64941db7/angular-httpresource-signals-the-modern-approach-to-api-development-1n9d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
