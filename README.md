@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Revamp SDK Integration: Monetize Your AI Conversations Effectively](https://dev.to/monetzly/revamp-sdk-integration-monetize-your-ai-conversations-effectively-2097)
+- [Let&#39;s create a production grade REST API from an existing database or from scratch using Go in seconds](https://dev.to/nicolasbonnici/lets-create-a-production-grade-rest-api-from-an-existing-database-or-from-scratch-using-go-in-1c61)
 - [[Boost]](https://dev.to/pietro_contadini_f13a29b6/-3m85)
 - [Availability — Heartbeats &lpar;1&rpar;](https://dev.to/sawantudayan/availability-heartbeats-part-1-bkn)
 - [Temporal State Coordination: A Timeline of a Timeline](https://dev.to/tiadrop/temporal-state-coordination-a-timeline-of-a-timeline-52fi)
-- [Building a simple RAG system in PHP with the Neuron AI framework in one evening](https://dev.to/samuel_akopyan_e902195a96/building-a-simple-rag-system-in-php-with-the-neuron-ai-framework-in-one-evening-2051)
+- [Quantum-Inspired Encoding: Revolutionizing Reinforcement Learning with Scarce Data](https://dev.to/arvind_sundararajan/quantum-inspired-encoding-revolutionizing-reinforcement-learning-with-scarce-data-4j6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
