@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Luminara — A Full Request-Lifecycle HTTP Client Built on Native Fetch](https://dev.to/jonathan_miller_969e5f9dc/luminara-a-full-request-lifecycle-http-client-built-on-native-fetch-5c7p)
+- [The Complete 2026 and beyond Google SRE Interview Preparation Guide — Frameworks, Scenarios, and Roadmap](https://dev.to/aceinterviews/the-complete-2026-and-beyond-google-sre-interview-preparation-guide-frameworks-scenarios-and-5bp3)
+- [Why a Resume Folder Is Important for Professionals](https://dev.to/seo_thetlwh_71e58a32d77e5/why-a-resume-folder-is-important-for-professionals-2a8o)
+- [Luminara — A Full Request-Lifecycle HTTP Client Built on Native Fetch](https://dev.to/miller-28/luminara-a-full-request-lifecycle-http-client-built-on-native-fetch-5c7p)
 - [Boxing and Streams in Java](https://dev.to/soumenmitra/boxing-and-streams-in-java-3o96)
 - [How I Successfully Set Up Dual Boot &lpar;Windows + Fedora Linux&rpar;](https://dev.to/notrobot200/how-i-successfully-set-up-dual-boot-windows-fedora-linux-574a)
-- [✅ Task — 3: Use Variables, Locals, and Outputs for a Simple EC2 Instance Setup](https://dev.to/latchudevops/task-3-use-variables-locals-and-outputs-for-a-simple-ec2-instance-setup-10le)
-- [Estratégias Eficazes de Crescimento para Impulsionar Seu Negócio](https://dev.to/movin/estrategias-eficazes-de-crescimento-para-impulsionar-seu-negocio-enc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
