@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [.NET Aspire and WSL Docker](https://dev.to/glsolaria/net-aspire-and-wsl-docker-21k4)
 - [Building a Scalable Notification System with RabbitMQ and Microservices](https://dev.to/wurldguy/building-a-scalable-notification-system-with-rabbitmq-and-microservices-1a9f)
 - [Rick Beato: Jahari Stampley... I&#39;ve Never Heard Playing Like This!](https://dev.to/music_youtube/rick-beato-jahari-stampley-ive-never-heard-playing-like-this-2acn)
 - [What I learned from Analyzing HTTP Traffic with Wireshark](https://dev.to/ganesh-kumar/what-i-learned-from-analyzing-http-traffic-with-wireshark-32k6)
 - [A Declaration of Digital Independence](https://dev.to/frw_community/a-declaration-of-digital-independence-3267)
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-487l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
