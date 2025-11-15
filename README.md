@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Forensic Framework: Cybersecurity Lies Developers Hear About SMB Security](https://dev.to/narnaiezzsshaa/forensic-framework-cybersecurity-lies-developers-hear-about-smb-security-4jjp)
+- [Building the Future with AWS: A Complete Guide for AI/ML Learners](https://dev.to/kdmeena/building-the-future-with-aws-a-complete-guide-for-aiml-learners-4b9k)
+- [Secure DevSecOps Pipelines](https://dev.to/godofgeeks/secure-devsecops-pipelines-2h1e)
+- [Unlock Infinite Game Worlds: The Power of Automata-Driven Game Logic by Arvind Sundararajan](https://dev.to/arvind_sundararajan/unlock-infinite-game-worlds-the-power-of-automata-driven-game-logic-by-arvind-sundararajan-8d2)
 - [ROBLOX made me think I sucked at making games.](https://dev.to/blankets-awful-posts/roblox-made-me-think-i-sucked-at-making-games-o0c)
-- [Meaning of passwordless authentication for beginners &lpar;and let&#39;s make it&rpar;](https://dev.to/jahongir2007/meaning-of-passwordless-authentication-for-beginners-and-lets-make-it-9l2)
-- [💼 Real-Time Collaboration: The Secret Weapon of Modern Project Management](https://dev.to/okoye_ndidiamaka_5e3b7d30/real-time-collaboration-the-secret-weapon-of-modern-project-management-3ep2)
-- [✅ Task 1 — Initialize a Terraform project with backend and provider blocks](https://dev.to/latchudevops/task-1-initialize-a-terraform-project-with-backend-and-provider-blocks-1ia9)
-- [Architecting Large-Scale AWS Migrations Using AWS Application Migration Service &lpar;MGN&rpar; .](https://dev.to/kishore_karumanchi_acbc18/architecting-large-scale-aws-migrations-using-aws-application-migration-service-mgn--1idp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
