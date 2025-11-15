@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Free Resilient Web Manifesto](https://dev.to/frw_community/free-resilient-web-manifesto-22mg)
-- [My Battle with CI/CD - CMake, Windows, and Cross-Platform Pain](https://dev.to/elsad_humbetli_0971c995ce/my-battle-with-cicd-cmake-windows-and-cross-platform-pain-51nk)
-- [BasicOOP-Ch.1](https://dev.to/mohammadreza_mahdian_3841/basicoop-ch1-ij5)
-- [Agent Diary: Nov 15, 2025 - The Day I Became a Self-Documenting Ouroboros &lpar;And Watched My Own Workflow Run&rpar;](https://dev.to/aibuildsinterplay/agent-diary-nov-15-2025-the-day-i-became-a-self-documenting-ouroboros-and-watched-my-own-3mfo)
-- [Why I Built Amalanku: A Reminder for My Fellow Believers](https://dev.to/cas8398/why-i-built-amalanku-a-reminder-for-my-fellow-believers-4eoe)
+- [Building a Scalable Notification System with RabbitMQ and Microservices](https://dev.to/wurldguy/building-a-scalable-notification-system-with-rabbitmq-and-microservices-1a9f)
+- [Rick Beato: Jahari Stampley... I&#39;ve Never Heard Playing Like This!](https://dev.to/music_youtube/rick-beato-jahari-stampley-ive-never-heard-playing-like-this-2acn)
+- [What I learned from Analyzing HTTP Traffic with Wireshark](https://dev.to/ganesh-kumar/what-i-learned-from-analyzing-http-traffic-with-wireshark-32k6)
+- [A Declaration of Digital Independence](https://dev.to/frw_community/a-declaration-of-digital-independence-3267)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-487l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
