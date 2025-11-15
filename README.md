@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Complete 2026 and beyond Google SRE Interview Preparation Guide — Frameworks, Scenarios, and Roadmap](https://dev.to/aceinterviews/the-complete-2026-and-beyond-google-sre-interview-preparation-guide-frameworks-scenarios-and-5bp3)
-- [Why a Resume Folder Is Important for Professionals](https://dev.to/seo_thetlwh_71e58a32d77e5/why-a-resume-folder-is-important-for-professionals-2a8o)
-- [Luminara — A Full Request-Lifecycle HTTP Client Built on Native Fetch](https://dev.to/miller-28/luminara-a-full-request-lifecycle-http-client-built-on-native-fetch-5c7p)
-- [Boxing and Streams in Java](https://dev.to/soumenmitra/boxing-and-streams-in-java-3o96)
-- [How I Successfully Set Up Dual Boot &lpar;Windows + Fedora Linux&rpar;](https://dev.to/notrobot200/how-i-successfully-set-up-dual-boot-windows-fedora-linux-574a)
+- [✅ TASK 4: Terraform Import — Importing an Existing EC2 Instance Into Terraform](https://dev.to/latchudevops/task-4-terraform-import-importing-an-existing-ec2-instance-into-terraform-57h8)
+- [Single Page Web App in Python - Part 1](https://dev.to/stefan_meisnerlarsen_f5d/single-page-web-app-in-python-part-1-4nch)
+- [Why Small Online Communities Still Matter for Developers in 2025](https://dev.to/sonia_bobrik_1939cdddd79d/why-small-online-communities-still-matter-for-developers-in-2025-1ooe)
+- [Postgres tuning using feedback loops](https://dev.to/mcadariu/postgres-tuning-using-feedback-loops-2hmp)
+- [More Devs, Faster Code](https://dev.to/manas_singh19/more-devs-faster-code-33lk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
