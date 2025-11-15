@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Statistics Day 4: Z-Score vs Min-Max Normalization — Making Data Fair for ML Models](https://dev.to/brains_behind_bots/statistics-day-4-z-score-vs-min-max-normalization-making-data-fair-for-ml-models-1plc)
-- [Building a Bootloader from Scratch: An x86 Assembly Guide](https://dev.to/aayush_gid/building-a-bootloader-from-scratch-an-x86-assembly-guide-fpi)
-- [🚀Understanding Webpack: A begineer friendly Guide with Examples](https://dev.to/selviparasakthik/understanding-webpack-a-begineer-friendly-guide-with-examples-3dp)
-- [MySQL HeatWave: Backing Up and Restoring DB Systems](https://dev.to/derrickryangiggs/mysql-heatwave-backing-up-and-restoring-db-systems-57ff)
-- [Django without models.](https://dev.to/mikey_developer/django-without-models-11co)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-1dii)
+- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-1gh1)
+- [🏁 ASPICE Literacy — Episode 10: Suppliers and ASPICE: Trust, Verify, and Collaborate 🧩](https://dev.to/abdulosman/aspice-literacy-episode-10-suppliers-and-aspice-trust-verify-and-collaborate-1o92)
+- [Deploy Rails apps for $5/month](https://dev.to/samuelbruk/deploy-rails-apps-for-5month-13in)
+- [🧠 Does Mental Health Get Worse with Age?](https://dev.to/nvelup_e92618d5196e8d9f43/does-mental-health-get-worse-with-age-13lf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
