@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From 11 Failing Tests to a 110-Test &quot;Bulletproof&quot; AI: A Debugging War Story](https://dev.to/freerave/from-11-failing-tests-to-a-110-test-bulletproof-ai-a-debugging-war-story-36k3)
+- [🔥 LLM Interview Series&lpar;5&rpar;: Self-supervised Learning and Next-token Prediction](https://dev.to/jackm_345442a09fb53b/llm-interview-series5-self-supervised-learning-and-next-token-prediction-4kl)
 - [IPS vs TN Displays in 2025: How to Choose the Right Panel for Work, Gaming, and Daily Use](https://dev.to/jasonliu112/ips-vs-tn-displays-in-2025-how-to-choose-the-right-panel-for-work-gaming-and-daily-use-1gd3)
-- [“Computer Networking: The Backbone of the Internet”](https://dev.to/heyyprakhar1/computer-networking-the-backbone-of-the-internet-1905)
-- [🧠Deterministic scoring for messy AI agent graphs: what I learned building OrKa v0.9.6](https://dev.to/marcosomma/deterministic-scoring-for-messy-ai-agent-graphs-what-i-learned-building-orka-v096-57el)
-- [Closures &amp; Callstacks: Building a Game to Learn JavaScript Closures](https://dev.to/stuartp/closures-callstacks-building-a-game-to-learn-javascript-closures-1jb2)
-- [Transform Conversations into Cash with Monetzly&#39;s SDK Integration](https://dev.to/monetzly/transform-conversations-into-cash-with-monetzlys-sdk-integration-1j2i)
+- [Is AI Coming for YOUR Job? A Developer&#39;s Reality Check](https://dev.to/aiworkshield/is-ai-coming-for-your-job-a-developers-reality-check-5c3e)
+- [Making Money: Explained!](https://dev.to/aniruddhaadak/making-money-explained-360p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
