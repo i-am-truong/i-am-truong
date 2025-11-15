@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to use unsupported macbooks for modern software development](https://dev.to/chamal1120/how-to-use-unsupported-macbooks-for-modern-software-development-4nol)
+- [DAY 1 – Introduction to Python](https://dev.to/aruna_arun_0cda4eb425bb0f/day-1-introduction-to-python-kon)
+- [Top Strategies to Boost Web API Performance in .NET](https://dev.to/shiv_darshanrathore_402a/top-strategies-to-boost-web-api-performance-in-net-1298)
+- [Next level Realism with Qwen Image is now possible after new realism LoRA workflow](https://dev.to/furkangozukara/next-level-realism-with-qwen-image-is-now-possible-after-new-realism-lora-workflow-2d5l)
 - [2.Clone Git Repository on Storage Server](https://dev.to/thukhakyawe_cloud/2clone-git-repository-on-storage-server-4akf)
-- [The Mystery of the Invisible Tab: A YAML Debugging Tale](https://dev.to/david_shimon_0c086967acb5/the-mystery-of-the-invisible-tab-a-yaml-debugging-tale-3e3l)
-- [Docker: A core backend concept](https://dev.to/webziro/docker-a-core-backend-concept-7mk)
-- [Stop the Panic: NGINX is NOT Dead: Understanding the ingress-nginx Controller Retirement](https://dev.to/anderson_leite/stop-the-panic-nginx-is-not-dead-understanding-the-ingress-nginx-controller-retirement-35fm)
-- [AI Content Marketing: 2025 Strategy Guide](https://dev.to/synergistdigitalmedia/ai-content-marketing-2025-strategy-guide-2i5k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
