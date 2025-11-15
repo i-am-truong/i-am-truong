@@ -120,10 +120,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Let&#39;s create a production grade REST API from an existing database or from scratch using Go in seconds](https://dev.to/nicolasbonnici/lets-create-a-production-grade-rest-api-from-an-existing-database-or-from-scratch-using-go-in-1c61)
-- [[Boost]](https://dev.to/pietro_contadini_f13a29b6/-3m85)
 - [Availability — Heartbeats &lpar;1&rpar;](https://dev.to/sawantudayan/availability-heartbeats-part-1-bkn)
 - [Temporal State Coordination: A Timeline of a Timeline](https://dev.to/tiadrop/temporal-state-coordination-a-timeline-of-a-timeline-52fi)
 - [Quantum-Inspired Encoding: Revolutionizing Reinforcement Learning with Scarce Data](https://dev.to/arvind_sundararajan/quantum-inspired-encoding-revolutionizing-reinforcement-learning-with-scarce-data-4j6)
+- [Brand Tagging with VLMs](https://dev.to/thevilledev/brand-tagging-with-vlms-3096)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
