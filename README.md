@@ -119,13 +119,12 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Linux App Structure Explained: Working with /opt, Desktop Entries, and sudo tee](https://dev.to/rijultp/the-linux-app-structure-explained-working-with-opt-desktop-entries-and-sudo-tee-1fl7)
-- [Building a chatbot in Rust powered by Gemini Flash Models.
-
-It&#39;s pretty cool.](https://dev.to/btejas/building-a-chatbot-in-rust-powered-by-gemini-flash-modelsits-pretty-cool-eh6)
-- [SRT Pendulum System Recently Failed? Solutions for Programmer Energy Workers](https://dev.to/kassius_jupiter_725bb6799/srt-pendulum-system-recently-failed-solutions-for-programmer-energy-workers-bmi)
-- [AI-Powered End-to-End Testing: A New Paradigm for Software Quality Assurance](https://dev.to/pietrocontadini/ai-powered-end-to-end-testing-a-new-paradigm-for-software-quality-assurance-1f5n)
-- [Building a crypto tool as a solo developer](https://dev.to/rai_moh_c69ab6ccdf3efc528/building-a-crypto-tool-as-a-solo-developer-34eb)
+- [VS Code vs Visual Studio](https://dev.to/agunwachidiebelecalistus/vs-code-vs-visual-studio-nib)
+- [Why Utility Classes in CSS Make Modern Front-End Development Faster, Cleaner, and More Scalable](https://dev.to/rverwey/why-utility-classes-in-css-make-modern-front-end-development-faster-cleaner-and-more-scalable-1ddf)
+- [5 Key Performance Benchmarks for AI Development in 2025](https://dev.to/lofcz/5-key-performance-benchmarks-for-ai-development-in-2025-2mco)
+- [[Boost]](https://dev.to/nicolasbonnici/-5b8h)
+- [Updated errors in this test website I made, Archaic! 
+Bringing your memories to life in an organized bento-grid style to share with friends &amp; family. Still looking for people to test it out, tips for developing this myself in React is appreciated :&rpar;](https://dev.to/designzbyoj/updated-errors-in-this-test-website-i-made-archaic-bringing-your-memories-to-life-in-an-10jl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
