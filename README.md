@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Core Utility - `itertools.groupby`](https://dev.to/saveshodhan/python-core-utility-itertoolsgroupby-1jef)
 - [Python Core Utility - `collections.defaultdict`](https://dev.to/saveshodhan/python-core-utility-collectionsdefaultdict-n70)
 - [[Boost]](https://dev.to/md_ataullah_205566605d138/-3efj)
 - [Part 1: Mastering Dynamic Programming — 5 Steps to Solve It &lpar;Longest Increasing Subsequence Using Tabulation / Bottom-Up&rpar;](https://dev.to/saishanmukkha/part-1-mastering-dynamic-programming-5-steps-to-solve-it-longest-increasing-sequence-using-5hm4)
 - [Reality Bites: Hardening Your AI Against Physical-World Attacks](https://dev.to/arvind_sundararajan/reality-bites-hardening-your-ai-against-physical-world-attacks-1n0n)
-- [Nuxt Tutorial 3 - Utils &amp; Composables](https://dev.to/aloisseckar/nuxt-tutorial-3-utils-composables-3o51)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
