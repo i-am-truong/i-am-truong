@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Diciembre de Agentes &lpar;2025&rpar;](https://dev.to/icebeam7/diciembre-de-agentes-2025-4oob)
-- [The Developer’s Guide to Multi-Session Automation](https://dev.to/vietnam/the-developers-guide-to-multi-session-automation-cgk)
-- [How to implement Pagination in Spring-boot project?](https://dev.to/deadpoolx7/how-to-implement-pagination-in-spring-boot-project-4p4)
-- [react](https://dev.to/marat_nersesyan_2b61cfda6/react-4993)
-- [My submission for DEV Education Track](https://dev.to/js_cipher/my-submission-for-dev-education-track-2ffp)
+- [The Mystery of the Invisible Tab: A YAML Debugging Tale](https://dev.to/david_shimon_0c086967acb5/the-mystery-of-the-invisible-tab-a-yaml-debugging-tale-3e3l)
+- [Stop the Panic: NGINX is NOT Dead: Understanding the ingress-nginx Controller Retirement](https://dev.to/anderson_leite/stop-the-panic-nginx-is-not-dead-understanding-the-ingress-nginx-controller-retirement-35fm)
+- [AI Content Marketing: 2025 Strategy Guide](https://dev.to/synergistdigitalmedia/ai-content-marketing-2025-strategy-guide-2i5k)
+- [Ansible Automation Mastery: Hands-On Labs for Inventory Grouping, Apt Package Management, and the Fetch Module](https://dev.to/labex/ansible-automation-mastery-hands-on-labs-for-inventory-grouping-apt-package-management-and-the-1m71)
+- [Conquering Complexity: Massively Parallel Game Solving](https://dev.to/arvind_sundararajan/conquering-complexity-massively-parallel-game-solving-3j73)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
