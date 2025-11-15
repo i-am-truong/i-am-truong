@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI World Clocks](https://dev.to/technoblogger14o3/ai-world-clocks-1keh)
-- [Games: achilles-1](https://dev.to/orsenthil/games-achilles-1-7pj)
-- [How to Write Effective AI Prompts for Scientific Illustrations](https://dev.to/localfaceswap/how-to-write-effective-ai-prompts-for-scientific-illustrations-dgd)
-- [The truth about learning to code.](https://dev.to/m2m_vir/the-truth-about-learning-to-code-9l1)
-- [Diffey.in: The Online Text Comparison &amp; Diff Tool](https://dev.to/kushal/diffeyin-the-online-text-comparison-diff-tool-3h76)
+- [Closures &amp; Callstacks: Building a Game to Learn JavaScript Closures](https://dev.to/stuartp/closures-callstacks-building-a-game-to-learn-javascript-closures-1jb2)
+- [Your Understanding of Abstraction is Incomplete &lpar;And It&#39;s Holding You Back&rpar;](https://dev.to/araldhafeeri/your-understanding-of-abstraction-is-incomplete-and-its-holding-you-back-4k5l)
+- [Unlocking the Unsolvable: Parallel Search Algorithms Conquer Complexity by Arvind Sundararajan](https://dev.to/arvind_sundararajan/unlocking-the-unsolvable-parallel-search-algorithms-conquer-complexity-by-arvind-sundararajan-f15)
+- [Beyond the Hype: How Apple Intelligence Will Actually Change Your Daily Productivity](https://dev.to/veltrex_labs/beyond-the-hype-how-apple-intelligence-will-actually-change-your-daily-productivity-4ga4)
+- [🚀How My Kubernetes KIND Contribution Got Merged: A Beginner’s Journey Into Real Open Source](https://dev.to/anjalimishra1st/how-my-kubernetes-kind-contribution-got-merged-a-beginners-journey-into-real-open-source-4p3e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
