@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How AI Transformed My Resume &lpar;and Landed Me More Interviews in 2025&rpar; — A Deep Dive with Real Prompts](https://dev.to/mess_anti_25613b50c3a1161/how-ai-transformed-my-resume-and-landed-me-more-interviews-in-2025-a-deep-dive-with-real-prompts-62l)
 - [Position-Candidate-Hypothesis &lpar;PCH&rpar; Paradigm: A New Research Direction for NP-Complete Problems](https://dev.to/smartlegionlab/position-candidate-hypothesis-pch-paradigm-a-new-research-direction-for-np-complete-problems-2b00)
 - [Series Week 8/52 — Database consolidation : Key to managing rising applications to curtail OCI cloud costs](https://dev.to/nabhaas/series-week-852-database-consolidation-key-to-managing-rising-applications-to-curtail-oci-1aj9)
 - [Caching — The Secret Weapon Behind Fast, Scalable Systems — Architecture Series: Part 4](https://dev.to/usman_awan/caching-the-secret-weapon-behind-fast-scalable-systems-architecture-series-part-4-44cm)
 - [Hashicorp Terraform Associate and AWS Cloud Automation Topics and Scenarios with examples](https://dev.to/giridharan_devops/hashicorp-terraform-associate-and-aws-cloud-automation-topics-and-scenarios-with-examples-5b8h)
-- [Forensic Framework: Cybersecurity Lies Developers Hear About SMB Security](https://dev.to/narnaiezzsshaa/forensic-framework-cybersecurity-lies-developers-hear-about-smb-security-4jjp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
