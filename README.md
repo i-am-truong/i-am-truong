@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI World Clocks](https://dev.to/technoblogger14o3/ai-world-clocks-1keh)
 - [The truth about learning to code.](https://dev.to/m2m_vir/the-truth-about-learning-to-code-9l1)
 - [Diffey.in: The Online Text Comparison &amp; Diff Tool](https://dev.to/kushal/diffeyin-the-online-text-comparison-diff-tool-3h76)
 - [Website design with artificial intelligence](https://dev.to/sitesazan/website-design-with-artificial-intelligence-9m8)
 - [Rick Beato: Jahari Stampley... I&#39;ve Never Heard Playing Like This!](https://dev.to/music_youtube/rick-beato-jahari-stampley-ive-never-heard-playing-like-this-1gj7)
-- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-1bl7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
