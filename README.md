@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Data-Driven Communications Strategy: Step-by-Step Guide](https://dev.to/sujana_sanmo_9d182dd64e71/data-driven-communications-strategy-step-by-step-guide-212o)
-- [Latest Emerging Tech News Transforming the Digital Landscape](https://dev.to/rapidcellphone/latest-emerging-tech-news-transforming-the-digital-landscape-35bj)
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-1dii)
-- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-1gh1)
-- [Understanding var vs const in Go — A Beginner-Friendly Guide](https://dev.to/ahmed112/understanding-var-vs-const-in-go-a-beginner-friendly-guide-10ai)
+- [✅ Task 2 — Create a Reusable VPC Module with Environments using Terraform &lpar;dev/stage/prod&rpar;](https://gg.forem.com/latchudevops/task-2-create-a-reusable-vpc-module-with-environments-using-terraform-devstageprod-3aa0)
+- [Building a Summarizer app using Amazon Bedrock and Bedrock Guardrails using AWS CDK](https://gg.forem.com/katevu/building-a-summarizer-app-using-amazon-bedrock-and-bedrock-guardrails-using-aws-cdk-56a7)
+- [Constructor overloading in java](https://gg.forem.com/dinesh_g_909f4a82c67f5bbd/constructor-overloading-in-java-232c)
+- [Debug Logic Apps in Docker Without the Hassle](https://gg.forem.com/imdj/debug-logic-apps-in-docker-without-the-hassle-3763)
+- [Expose only the data needed by the frontend](https://gg.forem.com/luigimorel/expose-only-the-data-needed-by-the-frontend-1fhk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
