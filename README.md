@@ -120,10 +120,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [How Monetzly Enables Profitable SDK Integration for AI Developers](https://dev.to/monetzly/how-monetzly-enables-profitable-sdk-integration-for-ai-developers-1lkg)
-- [**Technical AI Governance Challenge:**](https://dev.to/drcarlosruizviquez/technical-ai-governance-challenge-cdm)
 - [5 Essential Array Methods Every JavaScript Developer Must Know](https://dev.to/manikandan_a8f99e0153ef77/5-essential-array-methods-every-javascript-developer-must-know-3h0p)
+- [AMD and STRADVISION Collaboration – Accelerating the Road to Autonomy](https://dev.to/back_link1_cd5021c4627b58/amd-and-stradvision-collaboration-accelerating-the-road-to-autonomy-11mo)
+- [The Best Cutting Scissors You Can Buy on a Budget](https://dev.to/mileskgoc1/the-best-cutting-scissors-you-can-buy-on-a-budget-3ja2)
 - [Rick Beato: Jahari Stampley... I&#39;ve Never Heard Playing Like This!](https://dev.to/music_youtube/rick-beato-jahari-stampley-ive-never-heard-playing-like-this-4iog)
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-2h96)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
