@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [NPR Music: Nova Twins: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-nova-twins-tiny-desk-concert-5gcc)
+- [Ringer Movies: What Happened With the Fall Movie Slate?](https://dev.to/popcorn_movies/ringer-movies-what-happened-with-the-fall-movie-slate-8aj)
+- [Games: Atomix](https://dev.to/orsenthil/games-atomix-2ofj)
+- [Build in Public: Week 2. How Do People Even Find Influencers?](https://dev.to/olgabraginskaya/build-in-public-week-2-how-do-people-even-find-influencers-40dn)
 - [From 11 Failing Tests to a 110-Test &quot;Bulletproof&quot; AI: A Debugging War Story](https://dev.to/freerave/from-11-failing-tests-to-a-110-test-bulletproof-ai-a-debugging-war-story-36k3)
-- [🔥 LLM Interview Series&lpar;5&rpar;: Self-supervised Learning and Next-token Prediction](https://dev.to/jackm_345442a09fb53b/llm-interview-series5-self-supervised-learning-and-next-token-prediction-4kl)
-- [IPS vs TN Displays in 2025: How to Choose the Right Panel for Work, Gaming, and Daily Use](https://dev.to/jasonliu112/ips-vs-tn-displays-in-2025-how-to-choose-the-right-panel-for-work-gaming-and-daily-use-1gd3)
-- [Is AI Coming for YOUR Job? A Developer&#39;s Reality Check](https://dev.to/aiworkshield/is-ai-coming-for-your-job-a-developers-reality-check-5c3e)
-- [Making Money: Explained!](https://dev.to/aniruddhaadak/making-money-explained-360p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
