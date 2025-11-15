@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 1267 : I Linger On](https://dev.to/dwane/day-1267-i-linger-on-46lc)
-- [I Learned React + Next.js in Three Months Without Watching a Single Tutorial.](https://dev.to/toboreeee/i-learned-react-nextjs-in-three-months-without-watching-a-single-tutorial-3m01)
-- [Por qué React no es magia: lo entendí cuando dejé de pelearme con los renders](https://dev.to/hileodev/por-que-react-no-es-magia-lo-entendi-cuando-deje-de-pelearme-con-los-renders-29n2)
-- [Python by Structure: The For/Else Block You Didn&#39;t Know Existed](https://dev.to/aaron_rose_0787cc8b4775a0/python-by-structure-the-forelse-block-you-didnt-know-existed-4pp)
-- [Amazon DocumentDB New Query Planner](https://dev.to/aws-heroes/amazon-documentdb-new-query-planner-2dh0)
+- [Federated avatars in authentik](https://dev.to/timo_reusch/federated-avatars-in-authentik-4le2)
+- [OSD600: Lab 8](https://dev.to/kphero/osd600-lab-8-3315)
+- [Azure Application Gateway και Azure Front Door](https://dev.to/__b63657/azure-application-gateway-kai-azure-front-door-263g)
+- [[Boost]](https://dev.to/b5119/-55ml)
+- [Fine-Tuning LLMs: LoRA, Quantization, and Distillation Simplified](https://dev.to/iamfaham/fine-tuning-llms-lora-quantization-and-distillation-simplified-12nf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
