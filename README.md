@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Supply Chain Ecosystem: A Guide to Building a Modern, Data-Driven Logistics Network](https://dev.to/disiplin_forml_e60c4755/the-supply-chain-ecosystem-a-guide-to-building-a-modern-data-driven-logistics-network-41if)
 - [Logic Apps Local Dev Tools: Visual Walkthrough](https://dev.to/imdj/logic-apps-local-dev-tools-visual-walkthrough-5gph)
+- [Is Your Frontend Blindfolded? Monitoring &amp; Observability for Beginners](https://dev.to/karthik_n/is-your-frontend-blindfolded-monitoring-observability-for-beginners-4e54)
+- [Mcp servers: Complete Setup for AI Agents &lpar;Step-by-Step&rpar;](https://dev.to/robort-gabriel/mcp-servers-complete-setup-for-ai-agents-step-by-step-coh)
 - [✅ Task 2 — Create a Reusable VPC Module with Environments using Terraform &lpar;dev/stage/prod&rpar;](https://dev.to/latchudevops/task-2-create-a-reusable-vpc-module-with-environments-using-terraform-devstageprod-3aa0)
-- [Building a Summarizer app using Amazon Bedrock and Bedrock Guardrails using AWS CDK](https://dev.to/katevu/building-a-summarizer-app-using-amazon-bedrock-and-bedrock-guardrails-using-aws-cdk-56a7)
-- [Constructor overloading in java](https://dev.to/dinesh_g_909f4a82c67f5bbd/constructor-overloading-in-java-232c)
-- [Debug Logic Apps in Docker Without the Hassle](https://dev.to/imdj/debug-logic-apps-in-docker-without-the-hassle-3763)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
