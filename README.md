@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Monetzly Enables Profitable SDK Integration for AI Developers](https://dev.to/monetzly/how-monetzly-enables-profitable-sdk-integration-for-ai-developers-1lkg)
-- [5 Essential Array Methods Every JavaScript Developer Must Know](https://dev.to/manikandan_a8f99e0153ef77/5-essential-array-methods-every-javascript-developer-must-know-3h0p)
-- [AMD and STRADVISION Collaboration – Accelerating the Road to Autonomy](https://dev.to/back_link1_cd5021c4627b58/amd-and-stradvision-collaboration-accelerating-the-road-to-autonomy-11mo)
-- [The Best Cutting Scissors You Can Buy on a Budget](https://dev.to/mileskgoc1/the-best-cutting-scissors-you-can-buy-on-a-budget-3ja2)
-- [Rick Beato: Jahari Stampley... I&#39;ve Never Heard Playing Like This!](https://dev.to/music_youtube/rick-beato-jahari-stampley-ive-never-heard-playing-like-this-4iog)
+- [Meaning of passwordless authentication for beginners &lpar;and let&#39;s make it&rpar;](https://dev.to/jahongir2007/meaning-of-passwordless-authentication-for-beginners-and-lets-make-it-9l2)
+- [💼 Real-Time Collaboration: The Secret Weapon of Modern Project Management](https://dev.to/okoye_ndidiamaka_5e3b7d30/real-time-collaboration-the-secret-weapon-of-modern-project-management-3ep2)
+- [✅ Task 1 — Initialize a Terraform project with backend and provider blocks](https://dev.to/latchudevops/task-1-initialize-a-terraform-project-with-backend-and-provider-blocks-1ia9)
+- [Analytics Plugins That Reveal Hidden Support Bottlenecks](https://dev.to/freepixel11/analytics-plugins-that-reveal-hidden-support-bottlenecks-3b0a)
+- [UTF-8 Decoder — Turn Encoded Text Back Into Real Words 🧙‍♂️🔓](https://dev.to/akashbijwe/utf-8-decoder-turn-encoded-text-back-into-real-words-fig)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
