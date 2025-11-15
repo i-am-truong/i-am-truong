@@ -119,11 +119,13 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to use unsupported macbooks for modern software development](https://dev.to/chamal1120/how-to-use-unsupported-macbooks-for-modern-software-development-4nol)
-- [DAY 1 – Introduction to Python](https://dev.to/aruna_arun_0cda4eb425bb0f/day-1-introduction-to-python-kon)
-- [Top Strategies to Boost Web API Performance in .NET](https://dev.to/shiv_darshanrathore_402a/top-strategies-to-boost-web-api-performance-in-net-1298)
-- [Next level Realism with Qwen Image is now possible after new realism LoRA workflow](https://dev.to/furkangozukara/next-level-realism-with-qwen-image-is-now-possible-after-new-realism-lora-workflow-2d5l)
-- [2.Clone Git Repository on Storage Server](https://dev.to/thukhakyawe_cloud/2clone-git-repository-on-storage-server-4akf)
+- [The Linux App Structure Explained: Working with /opt, Desktop Entries, and sudo tee](https://dev.to/rijultp/the-linux-app-structure-explained-working-with-opt-desktop-entries-and-sudo-tee-1fl7)
+- [Building a chatbot in Rust powered by Gemini Flash Models.
+
+It&#39;s pretty cool.](https://dev.to/btejas/building-a-chatbot-in-rust-powered-by-gemini-flash-modelsits-pretty-cool-eh6)
+- [SRT Pendulum System Recently Failed? Solutions for Programmer Energy Workers](https://dev.to/kassius_jupiter_725bb6799/srt-pendulum-system-recently-failed-solutions-for-programmer-energy-workers-bmi)
+- [AI-Powered End-to-End Testing: A New Paradigm for Software Quality Assurance](https://dev.to/pietrocontadini/ai-powered-end-to-end-testing-a-new-paradigm-for-software-quality-assurance-1f5n)
+- [Building a crypto tool as a solo developer](https://dev.to/rai_moh_c69ab6ccdf3efc528/building-a-crypto-tool-as-a-solo-developer-34eb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
