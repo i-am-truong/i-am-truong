@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What is Hydration in Next.js ⚠️?](https://dev.to/manishsahu001/what-is-hydration-in-nextjs--mh9)
+- [Availability — Throttling &lpar;1&rpar;](https://dev.to/sawantudayan/availability-throttling-1-1an1)
+- [ComfyDeploy Local Development Setup Guide](https://dev.to/ogkai/comfydeploy-local-development-setup-guide-h6m)
 - [Let&#39;s create a production grade REST API from an existing database or from scratch using Go in seconds](https://dev.to/nicolasbonnici/lets-create-a-production-grade-rest-api-from-an-existing-database-or-from-scratch-using-go-in-1c61)
 - [Availability — Heartbeats &lpar;1&rpar;](https://dev.to/sawantudayan/availability-heartbeats-part-1-bkn)
-- [Temporal State Coordination: A Timeline of a Timeline](https://dev.to/tiadrop/temporal-state-coordination-a-timeline-of-a-timeline-52fi)
-- [Quantum-Inspired Encoding: Revolutionizing Reinforcement Learning with Scarce Data](https://dev.to/arvind_sundararajan/quantum-inspired-encoding-revolutionizing-reinforcement-learning-with-scarce-data-4j6)
-- [Brand Tagging with VLMs](https://dev.to/thevilledev/brand-tagging-with-vlms-3096)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
