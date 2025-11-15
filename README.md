@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Position-Candidate-Hypothesis &lpar;PCH&rpar; Paradigm: A New Research Direction for NP-Complete Problems](https://dev.to/smartlegionlab/position-candidate-hypothesis-pch-paradigm-a-new-research-direction-for-np-complete-problems-2b00)
+- [Series Week 8/52 — Database consolidation : Key to managing rising applications to curtail OCI cloud costs](https://dev.to/nabhaas/series-week-852-database-consolidation-key-to-managing-rising-applications-to-curtail-oci-1aj9)
+- [Caching — The Secret Weapon Behind Fast, Scalable Systems — Architecture Series: Part 4](https://dev.to/usman_awan/caching-the-secret-weapon-behind-fast-scalable-systems-architecture-series-part-4-44cm)
+- [Hashicorp Terraform Associate and AWS Cloud Automation Topics and Scenarios with examples](https://dev.to/giridharan_devops/hashicorp-terraform-associate-and-aws-cloud-automation-topics-and-scenarios-with-examples-5b8h)
 - [Forensic Framework: Cybersecurity Lies Developers Hear About SMB Security](https://dev.to/narnaiezzsshaa/forensic-framework-cybersecurity-lies-developers-hear-about-smb-security-4jjp)
-- [Building the Future with AWS: A Complete Guide for AI/ML Learners](https://dev.to/kdmeena/building-the-future-with-aws-a-complete-guide-for-aiml-learners-4b9k)
-- [Secure DevSecOps Pipelines](https://dev.to/godofgeeks/secure-devsecops-pipelines-2h1e)
-- [Unlock Infinite Game Worlds: The Power of Automata-Driven Game Logic by Arvind Sundararajan](https://dev.to/arvind_sundararajan/unlock-infinite-game-worlds-the-power-of-automata-driven-game-logic-by-arvind-sundararajan-8d2)
-- [ROBLOX made me think I sucked at making games.](https://dev.to/blankets-awful-posts/roblox-made-me-think-i-sucked-at-making-games-o0c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
