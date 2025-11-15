@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cloud Automation: Stop Clicking Buttons and Start Shipping Faster](https://dev.to/vaibhav_bedi_82eeb9670233/cloud-automation-stop-clicking-buttons-and-start-shipping-faster-2ble)
 - [Kiro Did It: Streamlining Comments, Structure, and Logging Using Steering Docs!](https://dev.to/bhatiagirish/kiro-did-it-streamlining-comments-structure-and-logging-using-steering-docs-3hcm)
+- [Troubleshooting Real-World Network Outages in Microsoft Azure](https://dev.to/vaibhav_bedi_82eeb9670233/troubleshooting-real-world-network-outages-in-microsoft-azure-12j2)
 - [Microsoft Azure vs OCI Networking: A Deep Dive](https://dev.to/vaibhav_bedi_82eeb9670233/microsoft-azure-vs-oci-networking-a-deep-dive-1h13)
 - [🧪 Test Post - Dev.to API Integration Test](https://dev.to/aaradhya_91c28204a580458b/test-post-devto-api-integration-test-27md)
-- [Network Resilience &amp; Routing Reliability: Lessons from Real-World Cloud Systems](https://dev.to/vaibhav_bedi_82eeb9670233/network-resilience-routing-reliability-lessons-from-real-world-cloud-systems-2joe)
-- [What CodeSphere Agency is upto lately.....?](https://dev.to/hasnainmakada99/what-codesphere-agency-is-upto-lately-7ce)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
