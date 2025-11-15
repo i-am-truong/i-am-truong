@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Has Anyone Else Seen a Suspicious Follower Spike Recently?](https://dev.to/gnomeman4201/has-anyone-else-seen-a-suspicious-follower-spike-recently-4401)
 - [Async JS Explained Using Swiggy, Zomato &amp; Food Orders 😋🍴](https://dev.to/applexity_ox/async-js-explained-using-swiggy-zomato-food-orders-4k4p)
 - [Kiro with MCP for GitHub Integration, Docs, Diagrams and AWS Recommendations](https://dev.to/aws-builders/mcp-on-kiro-for-github-integration-docs-diagrams-and-aws-recommendations-3g5m)
 - [It was acceptable in the 80s](https://dev.to/diso/it-was-acceptable-in-the-80s-4go3)
 - [AI Content Marketing: 2025 Strategies That Actually Work](https://dev.to/synergistdigitalmedia/ai-content-marketing-2025-strategies-that-actually-work-mk6)
-- [Quantum-Inspired Geometry: Boosting Offline Reinforcement Learning with Compact State Representations](https://dev.to/arvind_sundararajan/quantum-inspired-geometry-boosting-offline-reinforcement-learning-with-compact-state-3bei)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
