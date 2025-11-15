@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Contrary to JAVA, embedded in Python is the idea of Methods and Functions](https://dev.to/onaolapo11/contrary-to-java-embedded-in-python-is-the-idea-of-methods-and-functions-13df)
-- [Coding Challenge Practice - Question 56](https://dev.to/tomivan/coding-challenge-practice-question-56-343k)
-- [Cloud Automation: Stop Clicking Buttons and Start Shipping Faster](https://dev.to/vaibhav_bedi_82eeb9670233/cloud-automation-stop-clicking-buttons-and-start-shipping-faster-2ble)
-- [Kiro Did It: Streamlining Comments, Structure, and Logging Using Steering Docs!](https://dev.to/bhatiagirish/kiro-did-it-streamlining-comments-structure-and-logging-using-steering-docs-3hcm)
-- [Troubleshooting Real-World Network Outages in Microsoft Azure](https://dev.to/vaibhav_bedi_82eeb9670233/troubleshooting-real-world-network-outages-in-microsoft-azure-12j2)
+- [Async JS Explained Using Swiggy, Zomato &amp; Food Orders 😋🍴](https://dev.to/applexity_ox/async-js-explained-using-swiggy-zomato-food-orders-4k4p)
+- [Kiro with MCP for GitHub Integration, Docs, Diagrams and AWS Recommendations](https://dev.to/aws-builders/mcp-on-kiro-for-github-integration-docs-diagrams-and-aws-recommendations-3g5m)
+- [It was acceptable in the 80s](https://dev.to/diso/it-was-acceptable-in-the-80s-4go3)
+- [How to Create an Internal Documentation Library](https://dev.to/jessica_karpinski_e1415d5/how-to-create-an-internal-documentation-library-5gf1)
+- [AI Content Marketing: 2025 Strategies That Actually Work](https://dev.to/synergistdigitalmedia/ai-content-marketing-2025-strategies-that-actually-work-mk6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
