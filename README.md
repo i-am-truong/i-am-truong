@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Network Resilience &amp; Routing Reliability: Lessons from Real-World Cloud Systems](https://dev.to/vaibhav_bedi_82eeb9670233/network-resilience-routing-reliability-lessons-from-real-world-cloud-systems-2joe)
 - [What is Hydration in Next.js ⚠️?](https://dev.to/manishsahu001/what-is-hydration-in-nextjs--mh9)
 - [Availability — Throttling &lpar;1&rpar;](https://dev.to/sawantudayan/availability-throttling-1-1an1)
 - [ComfyDeploy Local Development Setup Guide](https://dev.to/ogkai/comfydeploy-local-development-setup-guide-h6m)
-- [Let&#39;s create a production grade REST API from an existing database or from scratch using Go in seconds](https://dev.to/nicolasbonnici/lets-create-a-production-grade-rest-api-from-an-existing-database-or-from-scratch-using-go-in-1c61)
-- [Availability — Heartbeats &lpar;1&rpar;](https://dev.to/sawantudayan/availability-heartbeats-part-1-bkn)
+- [Responsive Images in HTML](https://dev.to/xxzeroxx/responsive-images-in-html-3pf6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
