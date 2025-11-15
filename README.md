@@ -121,9 +121,9 @@ Python                   1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [How to Run Efficient ClamAV Scans on a 4GB RAM Server &lpar;Without Killing Your Machine&rpar;](https://dev.to/lovestaco/how-to-run-efficient-clamav-scans-on-a-4gb-ram-server-without-killing-your-machine-14)
 - [useRef&lpar;&rpar; and how it prevents flicker in a Map component](https://dev.to/cathylai/useref-and-how-it-prevents-flicker-in-a-map-component-ckj)
+- [Resume screener app](https://dev.to/abhi278/resume-screener-app-1hig)
+- [Why I didn&#39;t get any job till now?](https://dev.to/arun_jamdagni_042e940f675/why-i-didnt-get-any-job-till-now-5gm8)
 - [Python Core Utility - `itertools.groupby`](https://dev.to/saveshodhan/python-core-utility-itertoolsgroupby-1jef)
-- [Top Five Breast Pump Reviews for 2025: Gentle, Practical Picks With Real‑World Feedback](https://dev.to/johnsmith5/top-five-breast-pump-reviews-for-2025-gentle-practical-picks-with-real-world-feedback-21hb)
-- [Python Core Utility - `collections.defaultdict`](https://dev.to/saveshodhan/python-core-utility-collectionsdefaultdict-n70)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
