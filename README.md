@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Data-Driven Communications Strategy: Step-by-Step Guide](https://dev.to/sujana_sanmo_9d182dd64e71/data-driven-communications-strategy-step-by-step-guide-212o)
+- [Latest Emerging Tech News Transforming the Digital Landscape](https://dev.to/rapidcellphone/latest-emerging-tech-news-transforming-the-digital-landscape-35bj)
 - [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-1dii)
 - [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-1gh1)
-- [🏁 ASPICE Literacy — Episode 10: Suppliers and ASPICE: Trust, Verify, and Collaborate 🧩](https://dev.to/abdulosman/aspice-literacy-episode-10-suppliers-and-aspice-trust-verify-and-collaborate-1o92)
-- [Deploy Rails apps for $5/month](https://dev.to/samuelbruk/deploy-rails-apps-for-5month-13in)
-- [🧠 Does Mental Health Get Worse with Age?](https://dev.to/nvelup_e92618d5196e8d9f43/does-mental-health-get-worse-with-age-13lf)
+- [Understanding var vs const in Go — A Beginner-Friendly Guide](https://dev.to/ahmed112/understanding-var-vs-const-in-go-a-beginner-friendly-guide-10ai)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
