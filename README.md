@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding React Native Navigation Lifecycle](https://dev.to/cathylai/understanding-react-native-navigation-lifecycle-4g86)
-- [Lesson 24: Freqtrade-Trading Monitoring and Adjustment](https://dev.to/henry_lin_3ac6363747f45b4/lesson-24-freqtrade-trading-monitoring-and-adjustment-4cjj)
-- [https://medium.com/@farhan.nasir01/top-7-mistakes-that-slow-down-wordpress-websites-and-how-i-fix-them-5b82a1434476](https://dev.to/farhannasirdev/-i5p)
-- [第 24 课：Freqtrade交易监控与调整](https://dev.to/henry_lin_3ac6363747f45b4/di-24-ke-freqtradejiao-yi-jian-kong-yu-diao-zheng-23c6)
-- [Startup Failure](https://dev.to/unseenumair/startup-failure-2n88)
+- [Mengapa Saya Membuat Amalanku: Sebuah Pengingat untuk Saudara-Saudariku Seiman](https://dev.to/cas8398/mengapa-saya-membuat-amalanku-sebuah-pengingat-untuk-saudara-saudariku-seiman-2h3o)
+- [From Desktop Frustration to Internet Standard in 3 Months](https://dev.to/wolfejam/from-desktop-frustration-to-internet-standard-in-3-months-9jf)
+- [AI Course Generator](https://dev.to/adexh/ai-course-generator-4o0i)
+- [I Ditched MyFitnessPal and Built an AI Agent to Track My Food](https://dev.to/juandastic/i-ditched-myfitnesspal-and-built-an-ai-agent-to-track-my-food-3eia)
+- [🎥 SQL Server Partitioning video just dropped!](https://dev.to/dotnetfullstackdev/sql-server-partitioning-video-just-dropped-2g7a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
