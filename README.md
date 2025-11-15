@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [IPS vs TN Displays in 2025: How to Choose the Right Panel for Work, Gaming, and Daily Use](https://dev.to/jasonliu112/ips-vs-tn-displays-in-2025-how-to-choose-the-right-panel-for-work-gaming-and-daily-use-1gd3)
 - [“Computer Networking: The Backbone of the Internet”](https://dev.to/heyyprakhar1/computer-networking-the-backbone-of-the-internet-1905)
 - [🧠Deterministic scoring for messy AI agent graphs: what I learned building OrKa v0.9.6](https://dev.to/marcosomma/deterministic-scoring-for-messy-ai-agent-graphs-what-i-learned-building-orka-v096-57el)
 - [Closures &amp; Callstacks: Building a Game to Learn JavaScript Closures](https://dev.to/stuartp/closures-callstacks-building-a-game-to-learn-javascript-closures-1jb2)
 - [Transform Conversations into Cash with Monetzly&#39;s SDK Integration](https://dev.to/monetzly/transform-conversations-into-cash-with-monetzlys-sdk-integration-1j2i)
-- [Your Understanding of Abstraction is Incomplete &lpar;And It&#39;s Holding You Back&rpar;](https://dev.to/araldhafeeri/your-understanding-of-abstraction-is-incomplete-and-its-holding-you-back-4k5l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
