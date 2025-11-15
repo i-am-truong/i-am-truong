@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Advanced Django Deployment on Seenode: Production-Ready Strategies for 2025](https://dev.to/app_dev_b139d1a58b00b6516/advanced-django-deployment-on-seenode-production-ready-strategies-for-2025-5bcm)
 - [The Future is &quot;Zero-Trust&quot; Automation: An Introduction to Flowork.](https://dev.to/ari_anggoro_9628f03902953/the-future-is-zero-trust-automation-an-introduction-to-flowork-3g6i)
 - [This Python Workflow Automation Tool Finally Solved Dependency Hell.](https://dev.to/ari_anggoro_9628f03902953/this-python-workflow-automation-tool-finally-solved-dependency-hell-2o2a)
 - [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-2kbf)
-- [How Hackers Are Using AI to Craft Unstoppable Phishing Campaigns](https://dev.to/sagar_sajwan_a91beb41c861/how-hackers-are-using-ai-to-craft-unstoppable-phishing-campaigns-al4)
-- [🔐 Understanding WMI in Cybersecurity — A Simple Beginner’s Guide](https://dev.to/natarajan_c_k/understanding-wmi-in-cybersecurity-a-simple-beginners-guide-3hce)
+- [Run Ballerina in Your Browser!](https://dev.to/pramithamj/run-ballerina-in-your-browser-10fo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
