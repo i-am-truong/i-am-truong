@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Luminara — A Full Request-Lifecycle HTTP Client Built on Native Fetch](https://dev.to/jonathan_miller_969e5f9dc/luminara-a-full-request-lifecycle-http-client-built-on-native-fetch-5c7p)
+- [Boxing and Streams in Java](https://dev.to/soumenmitra/boxing-and-streams-in-java-3o96)
+- [How I Successfully Set Up Dual Boot &lpar;Windows + Fedora Linux&rpar;](https://dev.to/notrobot200/how-i-successfully-set-up-dual-boot-windows-fedora-linux-574a)
 - [✅ Task — 3: Use Variables, Locals, and Outputs for a Simple EC2 Instance Setup](https://dev.to/latchudevops/task-3-use-variables-locals-and-outputs-for-a-simple-ec2-instance-setup-10le)
-- [🚫 Kubernetes Ingress-NGINX Deprecation: Why You Should Stop Using It &amp; What to Choose Instead](https://dev.to/shashank215/kubernetes-ingress-nginx-deprecation-why-you-should-stop-using-it-what-to-choose-instead-2nmo)
-- [Implementing Concurrency Control in MongoDB](https://dev.to/sheep_/implementing-concurrency-control-in-mongodb-1ban)
-- [The Only SOLID + Clean Code JavaScript Guide You Need in 2025](https://dev.to/clara_ashford_cb1c74e7d57/the-only-solid-clean-code-javascript-guide-you-need-in-2025-5bah)
-- [HOW TO: Run Spark on Kubernetes with AWS EMR on EKS &lpar;2025&rpar;](https://dev.to/chaos-genius/how-to-run-spark-on-kubernetes-with-aws-emr-on-eks-2025-28jo)
+- [Estratégias Eficazes de Crescimento para Impulsionar Seu Negócio](https://dev.to/movin/estrategias-eficazes-de-crescimento-para-impulsionar-seu-negocio-enc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
