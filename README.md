@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding the Role of Context in AI Agent Responses](https://dev.to/kamya_shah_e69d5dd78f831c/understanding-the-role-of-context-in-ai-agent-responses-2f8h)
+- [How AI Batch Background Removal Helps Non-Designers Create Professional Visuals](https://dev.to/freepixel11/how-ai-batch-background-removal-helps-non-designers-create-professional-visuals-51h4)
 - [The Easiest Way to Build Auditable, Cryptographically-Secure Workflows.](https://dev.to/alya_mahalini_f05d9953cfa/the-easiest-way-to-build-auditable-cryptographically-secure-workflows-5bnc)
 - [The Story Behind Peaceful Night, a Calm Space for Tired Minds](https://dev.to/thoma_nani_817d966e031880/the-story-behind-peaceful-night-a-calm-space-for-tired-minds-5994)
 - [AI Education Booms: The U.S. States Leading the New Talent Wave](https://dev.to/aiwithapex/ai-education-booms-the-us-states-leading-the-new-talent-wave-420c)
-- [Automated macOS Setup with Dotfiles](https://dev.to/mikula/automated-macos-setup-with-dotfiles-4221)
-- [AI Assistants Revolutionizing Daily Productivity in 2025](https://dev.to/creative_soul_1f7d988fcf9/ai-assistants-revolutionizing-daily-productivity-in-2025-ked)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
