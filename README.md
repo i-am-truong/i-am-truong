@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [2.Clone Git Repository on Storage Server](https://dev.to/thukhakyawe_cloud/2clone-git-repository-on-storage-server-4akf)
 - [The Mystery of the Invisible Tab: A YAML Debugging Tale](https://dev.to/david_shimon_0c086967acb5/the-mystery-of-the-invisible-tab-a-yaml-debugging-tale-3e3l)
+- [Docker: A core backend concept](https://dev.to/webziro/docker-a-core-backend-concept-7mk)
 - [Stop the Panic: NGINX is NOT Dead: Understanding the ingress-nginx Controller Retirement](https://dev.to/anderson_leite/stop-the-panic-nginx-is-not-dead-understanding-the-ingress-nginx-controller-retirement-35fm)
 - [AI Content Marketing: 2025 Strategy Guide](https://dev.to/synergistdigitalmedia/ai-content-marketing-2025-strategy-guide-2i5k)
-- [Ansible Automation Mastery: Hands-On Labs for Inventory Grouping, Apt Package Management, and the Fetch Module](https://dev.to/labex/ansible-automation-mastery-hands-on-labs-for-inventory-grouping-apt-package-management-and-the-1m71)
-- [Conquering Complexity: Massively Parallel Game Solving](https://dev.to/arvind_sundararajan/conquering-complexity-massively-parallel-game-solving-3j73)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
