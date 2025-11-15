@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [✅ TASK 4: Terraform Import — Importing an Existing EC2 Instance Into Terraform](https://dev.to/latchudevops/task-4-terraform-import-importing-an-existing-ec2-instance-into-terraform-57h8)
-- [Single Page Web App in Python - Part 1](https://dev.to/stefan_meisnerlarsen_f5d/single-page-web-app-in-python-part-1-4nch)
-- [Why Small Online Communities Still Matter for Developers in 2025](https://dev.to/sonia_bobrik_1939cdddd79d/why-small-online-communities-still-matter-for-developers-in-2025-1ooe)
-- [Postgres tuning using feedback loops](https://dev.to/mcadariu/postgres-tuning-using-feedback-loops-2hmp)
-- [More Devs, Faster Code](https://dev.to/manas_singh19/more-devs-faster-code-33lk)
+- [The Real Cost of Headless Commerce: Is It Worth the Hype?](https://dev.to/indianwebsiteco/the-real-cost-of-headless-commerce-is-it-worth-the-hype-3pe)
+- [Why Parquet Is Everywhere - And What Makes It Actually Fast?](https://dev.to/mohhddhassan/why-parquet-is-everywhere-and-what-makes-it-actually-fast-4p66)
+- [Web Developer Travis McCracken on The Art of Dependency Injection in Go](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-art-of-dependency-injection-in-go-3ljm)
+- [The Complete 2026 and beyond Google SRE Interview Preparation Guide — Frameworks, Scenarios, and Roadmap](https://dev.to/aceinterviews/the-complete-2026-and-beyond-google-sre-interview-preparation-guide-frameworks-scenarios-and-1ni4)
+- [How to build an AI Voice Agent with PaplaAI Text to speech Model](https://dev.to/chaitrali_kakde/how-to-build-an-ai-voice-agent-with-paplaai-text-to-speech-model-2lb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
