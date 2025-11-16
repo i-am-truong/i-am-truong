@@ -122,8 +122,8 @@ Python                   1 repo              █░░░░░░░░░░�
 - [The Day I Realized I Wasn’t Coding — I Was Just Context Switching to Death.](https://dev.to/vjygour/the-day-i-realized-i-wasnt-coding-i-was-just-context-switching-to-death-5an)
 - [PHP 8.5: The Silent Web Revolution](https://dev.to/ndabene/php-85-the-silent-web-revolution-2i19)
 - [How I Upgraded My App’s UI With Real-Time Output + a 10-Second Demo &lpar;BusinessAdBooster Update&rpar;](https://dev.to/shemith_mohanan_6361bb8a2/how-i-upgraded-my-apps-ui-with-real-time-output-a-10-second-demo-businessadbooster-update-32bn)
-- [Countdown to Glory: Uncovering 2026 World Cup Trends &amp; Predictions](https://dev.to/mabualzait/countdown-to-glory-uncovering-2026-world-cup-trends-predictions-415m)
 - [AI Content Marketing: 2025 Strategy Guide](https://dev.to/synergistdigitalmedia/ai-content-marketing-2025-strategy-guide-5dpa)
+- [Conquering Complexity: Parallel Proof Search for Superhuman AI by Arvind Sundararajan](https://dev.to/arvind_sundararajan/conquering-complexity-parallel-proof-search-for-superhuman-ai-by-arvind-sundararajan-1nb6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
