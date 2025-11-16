@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Compare Chatbot Platforms for Your Business](https://dev.to/chatboqai/how-to-compare-chatbot-platforms-for-your-business-3n2n)
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-59gf)
+- [What&#39;s the use of Intermediate models in Django &lpar;Many to Many Relationship&rpar;](https://dev.to/guzmanojero/whats-the-use-of-intermediate-models-in-django-many-to-many-relationship-40li)
+- [How AI is Revolutionizing Developer Productivity in 2025: A Complete Guide](https://dev.to/srivsatavarishabh17/how-ai-is-revolutionizing-developer-productivity-in-2025-a-complete-guide-21i6)
 - [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-1ad9)
+- [The Ultimate React Interview Prep: 30+ Questions Covering Hooks, Context, VDOM, and Fiber](https://dev.to/rahul_lokare_323a1be36f3a/the-ultimate-react-interview-prep-30-questions-covering-hooks-context-vdom-and-fiber-37jb)
 - [How Cryptocurrency Prices Work Across Different Blockchains](https://dev.to/thevenice/how-cryptocurrency-prices-work-across-different-blockchains-13j4)
-- [Connect django with tailwind css](https://dev.to/pritish_academy/connect-django-with-tailwind-css-a86)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
