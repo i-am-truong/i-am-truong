@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Built Vidurai: When Ancient Philosophy Meets Modern AI](https://dev.to/chandantochandan/how-i-built-vidurai-when-ancient-philosophy-meets-modern-ai-5b0o)
 - [🧠 Hydration, Selective Hydration &amp; Progressive Hydration Explained &lpar;React vs Vue/Nuxt vs Others&rpar;](https://dev.to/vishwark/hydration-selective-hydration-progressive-hydration-explained-react-vs-vuenuxt-vs-others-47fc)
 - [How to Embed a HubSpot Form in Next.js and react js](https://dev.to/imagemagixonline/how-to-embed-a-hubspot-form-in-nextjs-and-react-js-3fk1)
 - [I Got My First Dev Job After 6 Months of Rejections - Here&#39;s What Actually Worked](https://dev.to/rayray_m_c5487ff87bb0e41e/i-got-my-first-dev-job-after-6-months-of-rejections-heres-what-actually-worked-1ihf)
-- [🌐 How to Choose the Best Domain](https://dev.to/stasxreal/how-to-choose-the-best-domain-3dca)
-- [Toon: A Lightweight Data Format That Helps Cut LLM Token Costs](https://dev.to/shishsingh/toon-a-lightweight-data-format-that-helps-cut-llm-token-costs-211i)
+- [Redis Basic Data Management: Key-Value Operations and Atomic Counters Tutorial](https://dev.to/labex/redis-basic-data-management-key-value-operations-and-atomic-counters-tutorial-2hm0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
