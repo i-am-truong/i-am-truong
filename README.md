@@ -120,10 +120,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [How We Process Information Using The DIKW Model](https://dev.to/chihidan/how-we-process-information-using-the-dikw-model-4p60)
+- [Python For Exploit Development](https://dev.to/biscottidiskette/python-for-exploit-development-2971)
+- [🚀 Parallel Routes &amp; Intercepting Routes in Next.js — Complete Beginner-Friendly Guide](https://dev.to/vishwark/parallel-routes-intercepting-routes-in-nextjs-complete-beginner-friendly-guid-54ao)
 - [Seamless Map Integration in React Native: A Complete Guide](https://dev.to/dainyjose/seamless-map-integration-in-react-native-a-complete-guide-29o7)
-- [How I Quietly Fixed My Entire Creative Workflow with One Tool](https://dev.to/yokii/how-i-quietly-fixed-my-entire-creative-workflow-with-one-tool-207d)
-- [Python for DevOps: A Practical, No-Nonsense Learning Plan](https://dev.to/ajaylegion/python-for-devops-a-practical-no-nonsense-learning-plan-4l4o)
-- [🛠️ Dynamic Joget Form Generation Using BeanShell Scripting](https://dev.to/exploringmylifeworks/dynamic-joget-form-generation-using-beanshell-scripting-aln)
+- [Why using arduino-cli is better than building from Arduino IDE](https://dev.to/embeddedk8/why-using-arduino-cli-is-better-than-building-from-arduino-ide-3c44)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
