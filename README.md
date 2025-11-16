@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Learn Windows CLI Hands-on](https://dev.to/al_rl_262bf3e3f877e3574f3/learn-windows-cli-hands-on-59na)
+- [Agentic AI Security: Understanding the Hidden Risks in Autonomous Agents](https://dev.to/sudarshangouda/agentic-ai-security-understanding-the-hidden-risks-in-autonomous-agents-3l02)
 - [How I Built Vidurai: When Ancient Philosophy Meets Modern AI](https://dev.to/yvidurai/how-i-built-vidurai-when-ancient-philosophy-meets-modern-ai-3njj)
+- [Learning Django by Building: Week 1](https://dev.to/negih/learning-django-by-building-week-1-2h47)
 - [Day 36: Python Integer Sequence Generator, Efficiently Concatenate Numbers from 1 to n with Interactive Input](https://dev.to/shahrouzlogs/day-36-python-integer-sequence-generator-efficiently-concatenate-numbers-from-1-to-n-with-2574)
-- [How I Built Vidurai: When Ancient Philosophy Meets Modern AI](https://dev.to/chandantochandan/how-i-built-vidurai-when-ancient-philosophy-meets-modern-ai-5b0o)
-- [🚀 Project Management in 2025: Why the PMBOK® Guide, Eighth Edition, Marks a Turning Point](https://dev.to/tirumalaraonaidu/project-management-in-2025-why-the-pmbokr-guide-eighth-edition-marks-a-turning-point-691)
-- [Death’s Job Game](https://dev.to/iamvatsal/deaths-job-game-2hec)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
