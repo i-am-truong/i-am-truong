@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [IInteger Generic Parameters in Swift 6.2: A New Era for Type-Safe Programming](https://dev.to/arshtechpro/iinteger-generic-parameters-in-swift-62-a-new-era-for-type-safe-programming-495d)
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-11f4)
-- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-1kom)
-- [Introducing KurrentDB-Swift: Bringing Event Sourcing to Server-Side Swift](https://dev.to/gradyzhuo/introducing-kurrentdb-swift-bringing-event-sourcing-to-server-side-swift-3g83)
-- [Games: Biniax 2](https://dev.to/orsenthil/games-biniax-2-1dm9)
+- [Rediscovering the Joy of Coding — Writing My First Real Program in Pascal](https://dev.to/bekbrace/rediscovering-the-joy-of-coding-writing-my-first-real-program-in-pascal-3d65)
+- [Why AI Alone Feels Like That One Friend Who Tells Great Stories but Never Brings Proof](https://dev.to/trojanmocx/why-ai-alone-feels-like-that-one-friend-who-tells-great-stories-but-never-brings-proof-1218)
+- [Day F0: The Fuck Up That Brought Me Back](https://dev.to/casperday11/day-f0-the-fuck-up-that-brought-me-back-5ek2)
+- [Making Money with Code: The Beginner’s Guide to Freelance Development](https://dev.to/softwaredeveloperhub01/making-money-with-code-the-beginners-guide-to-freelance-development-1m8c)
+- [Creating NFTs with Web3.js](https://dev.to/lucaspereiradesouzat/creating-nfts-with-web3js-3nnm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
