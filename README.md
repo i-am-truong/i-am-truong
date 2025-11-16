@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Creating a Future-Proof Android Ads SDK: Balancing Monetization, Performance, and User Experience](https://dev.to/lovekgarg/creating-a-future-proof-android-ads-sdk-balancing-monetization-performance-and-user-experience-1kn)
+- [Seeking Engineers with Parameter Selection Problems - Free Mathematical Analysis](https://dev.to/patternician/seeking-engineers-with-parameter-selection-problems-free-mathematical-analysis-4bol)
+- [Container Security: From Development to Production](https://dev.to/instadevops/container-security-from-development-to-production-46k7)
 - [Git Force Push: Bypassing Repository Protection Rules](https://dev.to/kkibet/git-force-push-bypassing-repository-protection-rules-4702)
 - [Unlocking AI Potential: Massively Parallel Search for Complex Problems](https://dev.to/arvind_sundararajan/unlocking-ai-potential-massively-parallel-search-for-complex-problems-13ed)
-- [Get Good Git Ninja, don&#39;t Get Got &lpar;눈_눈&rpar; O=&lpar;&#39;-&#39;Q&rpar;](https://dev.to/bibimbop123/get-good-git-ninja-dont-get-gotnunnuno-q-e83)
-- [GitHub Push Protection: How I Fixed the &quot;Repository Rule Violations&quot; Error](https://dev.to/kkibet/github-push-protection-how-i-fixed-the-repository-rule-violations-error-50b8)
-- [Part 3: From Neural Networks to Autonomous Coffee Roasting - Orchestrating MCP Servers with .NET Aspire and n8n Agents](https://dev.to/syamaner/part-3-from-neural-networks-to-autonomous-coffee-roasting-orchestrating-mcp-servers-with-net-58pd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
