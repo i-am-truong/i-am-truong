@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Increase my familiarity with BASE64.](https://dev.to/akari_iku/increase-my-familiarity-with-base64-1e6b)
+- [Technical SEO for Developers: A Comprehensive Guide to Building Search-Friendly Applications](https://dev.to/mina_golzari_dalir/technical-seo-for-developers-a-comprehensive-guide-to-building-search-friendly-applications-36pn)
 - [SRE in Action: Understanding How Real Teams Use SLOs, SLIs, and Error Budgets to Stay Reliable Through Case Studies - Part 1](https://dev.to/jagkush/sre-in-action-understanding-how-real-teams-use-slos-slis-and-error-budgets-to-stay-reliable-27k6)
 - [AI in One Repo](https://dev.to/dhanushnehru/ai-in-one-repo-5e3)
 - [[Boost]](https://dev.to/dhanushnehru/-58cn)
-- [The Most Terrifying App I&#39;ve Ever Built: Hounty.app](https://dev.to/valeriavg/the-most-terrifying-app-ive-ever-built-hountyapp-5g18)
-- [Где купить гидравлические цилиндры на заказ?](https://dev.to/notioninfo/gdie-kupit-ghidravlichieskiie-tsilindry-na-zakaz-7i7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
