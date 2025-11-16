@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Generate a Dataverse ERD for Azure Dev Ops Wiki](https://dev.to/mcombp/generate-a-dataverse-erd-for-azure-dev-ops-wiki-3m4)
 - [OpenBSD Upgrade 7.7 to 7.8](https://dev.to/nabbisen/openbsd-upgrade-77-to-78-3b75)
 - [⚛️ Controlled vs Uncontrolled Components in React – A Deep Dive](https://dev.to/fazal_mansuri_/controlled-vs-uncontrolled-components-in-react-a-deep-dive-1hhb)
 - [The Best UI/UX of 2026? Why It’s Time for a New Interface](https://dev.to/roma_armstrong/the-best-uiux-of-2026-why-its-time-for-a-new-interface-6n7)
 - [The Tech Renaissance: Java, Python, JavaScript, and Beyond](https://dev.to/atharvshinde2004/the-tech-renaissance-java-python-javascript-and-beyond-5eim)
-- [Webinar Analytics: Your Guide to Measuring Success](https://dev.to/glensizemore/webinar-analytics-your-guide-to-measuring-success-4c8k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
