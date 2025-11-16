@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [One Hot Encoding](https://dev.to/devunderdog/one-hot-encoding-28d)
+- [How AI Will Transform CAD Software in the Next 5 Years &lpar;Autodesk, SolidWorks, CATIA &amp; Beyond&rpar;](https://dev.to/mohammad_noorbakhsh_3b47d/how-ai-will-transform-cad-software-in-the-next-5-years-autodesk-solidworks-catia-beyond-27m7)
+- [How I Built Book-Writer-AI in a Few Days: Tech Stack, Architecture &amp; Challenges](https://dev.to/red_wolfman_680dc4b3efc3e/how-i-built-book-writer-ai-in-a-few-days-tech-stack-architecture-challenges-2maa)
+- [Laravel Eloquent’s create&lpar;&rpar; Methods](https://dev.to/thecodeliner/laravel-eloquents-create-family-19j1)
 - [osquery + OpenTelemetry = ❤️](https://dev.to/agardnerit/osquery-opentelemetry--55c)
-- [Pagy 9.1 to 43.0? What have Changed?](https://dev.to/jessalejo/pagy-91-to-430-what-have-changed-2933)
-- [Jordium.Snowflake.NET — A Fast and Lightweight Distributed ID Generator for .NET](https://dev.to/nelson_li_c5265341756c7ab/jordiumsnowflakenet-a-fast-and-lightweight-distributed-id-generator-for-net-7c4)
-- [Consumption Based pricing](https://dev.to/ayoola_ogunleye_f5b671a10/consumption-based-pricing-44hp)
-- [Stop AI From Seeing What It Shouldn’t: A Practical Guide to PII Safety](https://dev.to/sridharcr/stop-ai-from-seeing-what-it-shouldnt-a-practical-guide-to-pii-safety-38ll)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
