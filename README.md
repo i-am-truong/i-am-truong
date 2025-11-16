@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/pietro_contadini_f13a29b6/-1pcf)
-- [Effortless Jupyter Notebook to PDF in VS Code: Meet nb2pdf #python #nb2pdf #vscode #ipnyb2pdf](https://dev.to/ganesh250684/effortless-jupyter-notebook-to-pdf-in-vs-code-meet-nb2pdf-python-nb2pdf-vscode-ipnyb2pdf-4o07)
-- [Safety vs Security in Software: A Practical Guide for Engineers and Infrastructure Teams](https://dev.to/anderson_leite/safety-vs-security-in-software-a-practical-guide-for-engineers-and-infrastructure-teams-34f3)
-- [Building an AI Workout Coach: OpenAI Responses API + Dynamic Reasoning Levels](https://dev.to/dpelleri/building-an-ai-workout-coach-with-nextjs-openai-and-supabase-olp)
-- [Share Claude-created Documents Across Worktrees with dot-claude-sync](https://dev.to/ugo/share-claude-created-documents-across-worktrees-with-dot-claude-sync-cpc)
+- [🚀 How to Install Supabase CLI on Windows &lpar;The Right Way&rpar; — A Simple Guide for Everyone](https://dev.to/chiragx309/how-to-install-supabase-cli-on-windows-the-right-way-a-simple-guide-for-everyone-14om)
+- [🎨 Dynamic Dashboard Colors: Mapping Pie Chart Slices to Workflow Status](https://dev.to/exploringmylifeworks/dynamic-dashboard-colors-mapping-pie-chart-slices-to-workflow-status-2ihg)
+- [From Chatbots to Companions: How Empathetic AI Is Redefining Human–Machine Interaction](https://dev.to/mikhailliublin/from-chatbots-to-companions-how-empathetic-ai-is-redefining-human-machine-interaction-49fg)
+- [💾 Custom Approval History in Joget: Direct SQL Insertion via BeanShell Tool](https://dev.to/exploringmylifeworks/custom-approval-history-in-joget-direct-sql-insertion-via-beanshell-tool-1kcp)
+- [Why I Built 17 Developer Tools with Client-Side Processing](https://dev.to/sunny_raj_cbc39b29a91ee0d/why-i-built-17-developer-tools-with-client-side-processing-2cm0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
