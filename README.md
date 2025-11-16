@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Hermes, Fabric, and the New Architecture in React Native](https://dev.to/naderalfakesh/understanding-hermes-fabric-and-the-new-architecture-in-react-native-49gb)
 - [Linux for DevOps - The Complete Hands-On Beginner-to-Advanced Guide &lpar;Week 1 Series&rpar;](https://dev.to/ashish0360/linux-for-devops-the-complete-hands-on-beginner-to-advanced-guide-week-1-series-1a68)
 - [Why Your Internet Speed Test Lies](https://dev.to/rasulmmdv/why-your-internet-speed-test-lies-174f)
 - [N+1 query in databases](https://dev.to/rajusarkar/n1-query-in-databases-50lb)
 - [Building RSSRenaissance: AI-Powered Summaries for Smarter Reading](https://dev.to/fabricecoder/building-rssrenaissance-ai-powered-summaries-for-smarter-reading-ild)
-- [I Built 20+ Free Developer Tools as a Solo Dev - Here’s How &lpar;and Why&rpar;](https://dev.to/dafin_edisonj_3ec5f65110/i-built-20-free-developer-tools-as-a-solo-dev-heres-how-and-why-2gn8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
