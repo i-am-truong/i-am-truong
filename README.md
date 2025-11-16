@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Infinibay Development update #01](https://dev.to/andres_b_26dabd6ea99769a/infinibay-development-update-01-b53)
+- [This Week’s Cloud Native Pulse: Top Releases &amp; Urgent Ingress NGINX News &lpar;Nov 16, 2025&rpar;](https://dev.to/aws-builders/this-weeks-cloud-native-pulse-top-releases-urgent-ingress-nginx-news-nov-16-2025-1f8b)
 - [Disaster and Emergency Response with TAK and AWS](https://dev.to/aws-builders/disaster-and-emergency-response-with-tak-3pef)
 - [How to Cut AWS Costs and Maintain Reliability Without a FinOps Team](https://dev.to/copubah/how-to-cut-aws-costs-and-maintain-reliability-without-a-finops-team-54cl)
 - [Disaster and Emergency Response with TAK and AWS](https://dev.to/awsugonair/disaster-and-emergency-response-with-tak-and-aws-53lm)
-- [A Free OpenAPI 3.2 Editor with Linting and Outline Support](https://dev.to/zeddd/a-free-openapi-32-editor-with-linting-and-outline-support-20mg)
-- [More advanced use of console logging](https://dev.to/muszynov/more-advanced-use-of-console-logging-4oi1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
