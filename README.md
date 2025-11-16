@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [An AI Crew for Automated Diagramming and Documentation](https://dev.to/kirponik/an-ai-crew-for-automated-diagramming-and-documentation-og2)
-- [Writing your first LLVM Transformation Passes - Dead Code Elimination and Constant Propagation](https://dev.to/cppchedy/writing-your-first-llvm-transformation-passes-dead-code-elimination-and-constant-propagation-1anj)
-- [[Without jQuery] Rewriting in JavaScript Selectors Edition](https://dev.to/rundezv/without-jquery-rewriting-in-javascript-selectors-edition-3b0e)
-- [Building a Full-Stack Product Monitoring System: A Technical Deep Dive](https://dev.to/dilutedev/building-a-full-stack-product-monitoring-system-a-technical-deep-dive-27j0)
-- [🚀 Meet Noty: The Chrome Extension That Finally Fixed My Messy Workflow](https://dev.to/odqin/meet-noty-the-chrome-extension-that-finally-fixed-my-messy-workflow-3h44)
+- [StatefulSets &amp; Persistent Storage in Kubernetes](https://dev.to/rosgluk/statefulsets-persistent-storage-in-kubernetes-dbi)
+- [Python Design Patterns for Clean Architecture](https://dev.to/rosgluk/python-design-patterns-for-clean-architecture-1jk0)
+- [Go Unit Testing: Structure &amp; Best Practices](https://dev.to/rosgluk/go-unit-testing-structure-best-practices-1b5n)
+- [Linux Data Science Stack: Jupyter, Pandas &amp; Tools](https://dev.to/rosgluk/linux-data-science-stack-jupyter-pandas-tools-3fof)
+- [Helm Charts: Kubernetes Package Management](https://dev.to/rosgluk/helm-charts-kubernetes-package-management-2oei)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
