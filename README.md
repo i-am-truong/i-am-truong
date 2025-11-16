@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [N+1 query in databases](https://dev.to/rajusarkar/n1-query-in-databases-50lb)
+- [Building RSSRenaissance: AI-Powered Summaries for Smarter Reading](https://dev.to/fabricecoder/building-rssrenaissance-ai-powered-summaries-for-smarter-reading-ild)
+- [I Built 20+ Free Developer Tools as a Solo Dev - Here’s How &lpar;and Why&rpar;](https://dev.to/dafin_edisonj_3ec5f65110/i-built-20-free-developer-tools-as-a-solo-dev-heres-how-and-why-2gn8)
 - [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-3i99)
 - [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-460i)
-- [The fastest and easiest way to setup React with Bulma and Vite.](https://dev.to/allxsmith/the-fastest-and-easiest-way-to-setup-react-with-bulma-and-vite-37b)
-- [5 Essential Skills Every Software Engineer Needs in 2025](https://dev.to/mehrdadkhodaverdi/5-essential-skills-every-software-engineer-needs-in-2025-3l67)
-- [AI Agents: From Zero to Hero in 5-Days With Kaggle and Google](https://dev.to/fedtti/ai-agents-from-zero-to-hero-in-5-days-with-kaggle-and-google-4ibk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
