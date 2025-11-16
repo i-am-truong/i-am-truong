@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [emojis-cleaner — A npm package to remove Emojis from Any File or Codebase &lpar;CLI + JS API&rpar;](https://dev.to/pulkitgovrani/emojis-cleaner-a-npm-package-to-remove-emojis-from-any-file-or-codebase-cli-js-api-41c0)
+- [Difference Array Technique](https://dev.to/thetenthman/difference-array-technique-4n5a)
 - [How We Process Information Using The DIKW Model](https://dev.to/chihidan/how-we-process-information-using-the-dikw-model-4p60)
 - [Python For Exploit Development](https://dev.to/biscottidiskette/python-for-exploit-development-2971)
 - [🚀 Parallel Routes &amp; Intercepting Routes in Next.js — Complete Beginner-Friendly Guide](https://dev.to/vishwark/parallel-routes-intercepting-routes-in-nextjs-complete-beginner-friendly-guid-54ao)
-- [Seamless Map Integration in React Native: A Complete Guide](https://dev.to/dainyjose/seamless-map-integration-in-react-native-a-complete-guide-29o7)
-- [Why using arduino-cli is better than building from Arduino IDE](https://dev.to/embeddedk8/why-using-arduino-cli-is-better-than-building-from-arduino-ide-3c44)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
