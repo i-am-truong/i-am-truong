@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🎮 Understanding Linux Cgroups](https://dev.to/ajinkya_singh_2c02bd40423/understanding-linux-cgroups-2kf1)
+- [When Big O Lies](https://dev.to/kyrylorud/when-big-o-lies-o7l)
 - [Docker - Host–Container File Sharing : Named Volumes vs Bind Mounts, Behavior Differences, and Key Pitfalls](https://dev.to/kakisoft/docker-host-container-file-sharing-named-volumes-vs-bind-mounts-behavior-differences-and-key-45o9)
 - [RAW WORLD – Micro Jam 49 Devlog](https://dev.to/kartik_patel/raw-world-micro-jam-49-devlog-4137)
 - [Time Management for Devs](https://dev.to/gustavowoltmann18/time-management-for-devs-2fb5)
-- [The Pioneering Inventions of Nikola Tesla: A Legacy of Innovation](https://dev.to/gustavowoltmann18/the-pioneering-inventions-of-nikola-tesla-a-legacy-of-innovation-1d8p)
-- [Infinibay Development update #01](https://dev.to/andres_b_26dabd6ea99769a/infinibay-development-update-01-b53)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
