@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [An AI Crew for Automated Diagramming and Documentation](https://dev.to/kirponik/an-ai-crew-for-automated-diagramming-and-documentation-og2)
+- [Writing your first LLVM Transformation Passes - Dead Code Elimination and Constant Propagation](https://dev.to/cppchedy/writing-your-first-llvm-transformation-passes-dead-code-elimination-and-constant-propagation-1anj)
 - [[Without jQuery] Rewriting in JavaScript Selectors Edition](https://dev.to/rundezv/without-jquery-rewriting-in-javascript-selectors-edition-3b0e)
 - [Building a Full-Stack Product Monitoring System: A Technical Deep Dive](https://dev.to/dilutedev/building-a-full-stack-product-monitoring-system-a-technical-deep-dive-27j0)
 - [🚀 Meet Noty: The Chrome Extension That Finally Fixed My Messy Workflow](https://dev.to/odqin/meet-noty-the-chrome-extension-that-finally-fixed-my-messy-workflow-3h44)
-- [A cleaner, safer, plug-and-play NanoGPT](https://dev.to/sergiu_nistor_7f22d08cdbf/a-cleaner-safer-plug-and-play-nanogpt-8bg)
-- [Python by Structure: Context Managers and the With Statement](https://dev.to/aaron_rose_0787cc8b4775a0/python-by-structure-context-managers-and-the-with-statement-1g8j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
