@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Managing Complex Form State in Vue3/Nuxt3: Composition API and State Separation](https://dev.to/taro000/managing-complex-form-state-in-vue3nuxt3-composition-api-and-state-separation-32g)
-- [Debugging Java ClassNotFoundException: A Beginner&#39;s Guide to Finding Missing Dependencies](https://dev.to/itzsrikanth/debugging-java-classnotfoundexception-a-beginners-guide-to-finding-missing-dependencies-1i9p)
-- [Google Cloud Group DevFest Toronto 2025 - The Most Chaotic Conference I&#39;ve Ever Been To](https://dev.to/xiongemi/google-cloud-group-devfest-toronto-2025-the-most-chaotic-conference-ive-ever-been-to-2348)
-- [Beyond The Tutorial: Why Courses Are Not What We Thought](https://dev.to/leojimenezg/beyond-the-tutorial-why-courses-are-not-what-we-thought-30oo)
-- [go to visual studio code](https://dev.to/dealajoevincenthash/go-to-visual-studio-code-185)
+- [5.Delete Git Branch](https://dev.to/thukhakyawe_cloud/5delete-git-branch-2dpn)
+- [Predicting the Unpredictable: Visualizing the Future with Temporal Independence](https://dev.to/arvind_sundararajan/predicting-the-unpredictable-visualizing-the-future-with-temporal-independence-5egj)
+- [4.Update Git Repository with Sample HTML File](https://dev.to/thukhakyawe_cloud/4update-git-repository-with-sample-html-file-3e8h)
+- [🔥 LLM Interview Series&lpar;6&rpar;: RLHF &lpar;Reinforcement Learning from Human Feedback&rpar; Demystified](https://dev.to/jackm_345442a09fb53b/llm-interview-series6-rlhf-reinforcement-learning-from-human-feedback-demystified-hi8)
+- [3.Fork a Git Repository](https://dev.to/thukhakyawe_cloud/3fork-a-git-repository-efk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
