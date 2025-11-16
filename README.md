@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [WTF is Circuit Breaker Pattern?](https://dev.to/dailybugle33/wtf-is-circuit-breaker-pattern-142k)
-- [📊NumPy Practice !](https://dev.to/ramyacse/numpy-practice--394g)
-- [📊 Day 64 of My Data Analytics Journey!](https://dev.to/ramyacse/day-64-of-my-data-analytics-journey-4if1)
-- [Nuxt Tutorial 4 - Server Side](https://dev.to/aloisseckar/nuxt-tutorial-4-server-side-2dal)
-- [I wanted to create an AI app named Jarvis it should wake when I say, Jarvis . It should provide me latest news with the help of Google when I ask. Moreover, it should act like an AI chatbot. Like ChatGPT or grok](https://dev.to/asgar_ali_0fc38c362fc3858/i-wanted-to-create-an-ai-app-named-jarvis-it-should-wake-when-i-say-jarvis-it-should-provide-me-4h2g)
+- [The Tech Renaissance: Java, Python, JavaScript, and Beyond](https://dev.to/atharvshinde2004/the-tech-renaissance-java-python-javascript-and-beyond-5eim)
+- [Webinar Analytics: Your Guide to Measuring Success](https://dev.to/glensizemore/webinar-analytics-your-guide-to-measuring-success-4c8k)
+- [Outil de Cybersécurité du Jour - Nov 16, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-nov-16-2025-41db)
+- [AI&#39;s Revolution in Team Formation and Collaboration](https://dev.to/jean_chou_b0a8ad9c32addbd/ais-revolution-in-team-formation-and-collaboration-192m)
+- [How to Search Screenshots Like a Pro with Recall Assist](https://dev.to/nodminger/how-to-search-screenshots-like-a-pro-with-recall-assist-on2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
