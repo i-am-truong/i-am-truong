@@ -82,10 +82,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [StatefulSets &amp; Persistent Storage in Kubernetes](https://dev.to/rosgluk/statefulsets-persistent-storage-in-kubernetes-dbi)
+- [Snap Package Manager Cheatsheet](https://dev.to/rosgluk/snap-package-manager-cheatsheet-36en)
 - [Python Design Patterns for Clean Architecture](https://dev.to/rosgluk/python-design-patterns-for-clean-architecture-1jk0)
+- [Ubuntu Package Management: APT and dpkg Cheatsheet](https://dev.to/rosgluk/ubuntu-package-management-apt-and-dpkg-cheatsheet-1na)
 - [Go Unit Testing: Structure &amp; Best Practices](https://dev.to/rosgluk/go-unit-testing-structure-best-practices-1b5n)
-- [Linux Data Science Stack: Jupyter, Pandas &amp; Tools](https://dev.to/rosgluk/linux-data-science-stack-jupyter-pandas-tools-3fof)
-- [Helm Charts: Kubernetes Package Management](https://dev.to/rosgluk/helm-charts-kubernetes-package-management-2oei)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
