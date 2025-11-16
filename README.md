@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [LLM Guardrails: 50+ Safety Layers Every AI Application Needs](https://dev.to/aayush_gid/llm-guardrails-50-safety-layers-every-ai-application-needs-4bnm)
-- [🚀 How to Install Supabase CLI on Windows &lpar;The Right Way&rpar; — A Simple Guide for Everyone](https://dev.to/chiragx309/how-to-install-supabase-cli-on-windows-the-right-way-a-simple-guide-for-everyone-14om)
-- [🎨 Dynamic Dashboard Colors: Mapping Pie Chart Slices to Workflow Status](https://dev.to/exploringmylifeworks/dynamic-dashboard-colors-mapping-pie-chart-slices-to-workflow-status-2ihg)
-- [Understanding DevOps: Bridging Development and Operations](https://dev.to/bamacharan/understanding-devops-bridging-development-and-operations-28c9)
-- [From Chatbots to Companions: How Empathetic AI Is Redefining Human–Machine Interaction](https://dev.to/mikhailliublin/from-chatbots-to-companions-how-empathetic-ai-is-redefining-human-machine-interaction-49fg)
+- [How to Secure RabbitMQ &amp; Celery with TLS/SSL](https://dev.to/zaaachos/how-to-secure-rabbitmq-celery-with-tlsssl-3ie2)
+- [Web Developer Travis McCracken on Why You Should Know Your Stack’s Limits](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-why-you-should-know-your-stacks-limits-1g1c)
+- [What is Ctrl+H in Excel? Master Find &amp; Replace for Data Cleaning](https://dev.to/mohammad_ehsanansari_671/what-is-ctrlh-in-excel-master-find-replace-for-data-cleaning-37mm)
+- [Beyond Vanity Metrics: 7 B2B Marketing KPIs You Can Query Like an API](https://dev.to/michaelaiglobal/beyond-vanity-metrics-7-b2b-marketing-kpis-you-can-query-like-an-api-1878)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-1b9l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
