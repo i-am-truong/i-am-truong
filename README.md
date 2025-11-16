@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🧠 Hydration, Selective Hydration &amp; Progressive Hydration Explained &lpar;React vs Vue/Nuxt vs Others&rpar;](https://dev.to/vishwark/hydration-selective-hydration-progressive-hydration-explained-react-vs-vuenuxt-vs-others-47fc)
+- [How to Embed a HubSpot Form in Next.js and react js](https://dev.to/imagemagixonline/how-to-embed-a-hubspot-form-in-nextjs-and-react-js-3fk1)
+- [I Got My First Dev Job After 6 Months of Rejections - Here&#39;s What Actually Worked](https://dev.to/rayray_m_c5487ff87bb0e41e/i-got-my-first-dev-job-after-6-months-of-rejections-heres-what-actually-worked-1ihf)
+- [🌐 How to Choose the Best Domain](https://dev.to/stasxreal/how-to-choose-the-best-domain-3dca)
 - [Toon: A Lightweight Data Format That Helps Cut LLM Token Costs](https://dev.to/shishsingh/toon-a-lightweight-data-format-that-helps-cut-llm-token-costs-211i)
-- [[Apache Iceberg] Iceberg Performance: The Hidden Cost of NULLS FIRST](https://dev.to/cutechuanchuan/apache-iceberg-iceberg-performance-the-hidden-cost-of-nulls-first-20cl)
-- [Master the Shadowing Technique: Transform Your English Fluency in 30 Days](https://dev.to/nguyn_nguynb_d299ab12/master-the-shadowing-technique-transform-your-english-fluency-in-30-days-5d98)
-- [🏋️ Narwade&#39;s Health Club: A Full-Stack Fitness Platform](https://dev.to/ashwin_dumane/building-narwades-health-club-a-full-stack-fitness-platform-4ng0)
-- [When Static Sites Stop Scaling: Migrating FreeDevTools &lpar;125K+ Pages&rpar; from Static Astro to SSR](https://dev.to/lovestaco/when-static-sites-stop-scaling-migrating-freedevtools-125k-pages-from-static-astro-to-ssr-1hf5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
