@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Implementing a Stack From Scratch](https://dev.to/abhii71/implementing-a-stack-from-scratch-18e9)
-- [Crafting Precision: Unlocking the Power of AI Prompts](https://dev.to/speed_productsltd_d61c77b/crafting-precision-unlocking-the-power-of-ai-prompts-3o87)
-- [Daily Tech News Roundup - 2025-11-16](https://dev.to/atharvshinde2004/daily-tech-news-roundup-2025-11-16-12e6)
-- [Day 45 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-45-of-100-days-dsa-coding-challenge-92k)
-- [Understanding the Godown Wiring Connection Diagram](https://dev.to/polynoteshub/understanding-the-godown-wiring-connection-diagram-lk4)
+- [The Day I Realized I Wasn’t Coding — I Was Just Context Switching to Death.](https://dev.to/vjygour/the-day-i-realized-i-wasnt-coding-i-was-just-context-switching-to-death-5an)
+- [PHP 8.5: The Silent Web Revolution](https://dev.to/ndabene/php-85-the-silent-web-revolution-2i19)
+- [How I Upgraded My App’s UI With Real-Time Output + a 10-Second Demo &lpar;BusinessAdBooster Update&rpar;](https://dev.to/shemith_mohanan_6361bb8a2/how-i-upgraded-my-apps-ui-with-real-time-output-a-10-second-demo-businessadbooster-update-32bn)
+- [Countdown to Glory: Uncovering 2026 World Cup Trends &amp; Predictions](https://dev.to/mabualzait/countdown-to-glory-uncovering-2026-world-cup-trends-predictions-415m)
+- [AI Content Marketing: 2025 Strategy Guide](https://dev.to/synergistdigitalmedia/ai-content-marketing-2025-strategy-guide-5dpa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
