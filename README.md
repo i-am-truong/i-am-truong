@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Toon: A Lightweight Data Format That Helps Cut LLM Token Costs](https://dev.to/shishsingh/toon-a-lightweight-data-format-that-helps-cut-llm-token-costs-211i)
+- [[Apache Iceberg] Iceberg Performance: The Hidden Cost of NULLS FIRST](https://dev.to/cutechuanchuan/apache-iceberg-iceberg-performance-the-hidden-cost-of-nulls-first-20cl)
 - [Master the Shadowing Technique: Transform Your English Fluency in 30 Days](https://dev.to/nguyn_nguynb_d299ab12/master-the-shadowing-technique-transform-your-english-fluency-in-30-days-5d98)
 - [🏋️ Narwade&#39;s Health Club: A Full-Stack Fitness Platform](https://dev.to/ashwin_dumane/building-narwades-health-club-a-full-stack-fitness-platform-4ng0)
 - [When Static Sites Stop Scaling: Migrating FreeDevTools &lpar;125K+ Pages&rpar; from Static Astro to SSR](https://dev.to/lovestaco/when-static-sites-stop-scaling-migrating-freedevtools-125k-pages-from-static-astro-to-ssr-1hf5)
-- [Rediscovering the Joy of Coding — Writing My First Real Program in Pascal](https://dev.to/bekbrace/rediscovering-the-joy-of-coding-writing-my-first-real-program-in-pascal-3d65)
-- [Why AI Alone Feels Like That One Friend Who Tells Great Stories but Never Brings Proof](https://dev.to/trojanmocx/why-ai-alone-feels-like-that-one-friend-who-tells-great-stories-but-never-brings-proof-1218)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
