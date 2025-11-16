@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Git Force Push: Bypassing Repository Protection Rules](https://dev.to/kkibet/git-force-push-bypassing-repository-protection-rules-4702)
+- [Get Good Git Ninja, don&#39;t Get Got &lpar;눈_눈&rpar; O=&lpar;&#39;-&#39;Q&rpar;](https://dev.to/bibimbop123/get-good-git-ninja-dont-get-gotnunnuno-q-e83)
+- [GitHub Push Protection: How I Fixed the &quot;Repository Rule Violations&quot; Error](https://dev.to/kkibet/github-push-protection-how-i-fixed-the-repository-rule-violations-error-50b8)
+- [Part 3: From Neural Networks to Autonomous Coffee Roasting - Orchestrating MCP Servers with .NET Aspire and n8n Agents](https://dev.to/syamaner/part-3-from-neural-networks-to-autonomous-coffee-roasting-orchestrating-mcp-servers-with-net-58pd)
 - [Building a Fully-Featured Custom WebView App in Android: Complete Guide](https://dev.to/kkibet/building-a-fully-featured-custom-webview-app-in-android-complete-guide-4lof)
-- [React Router v7 Transition Future Flag — The Complete Guide for 2025](https://dev.to/cristiansifuentes/react-router-v7-transition-future-flag-the-complete-guide-for-2025-5dk3)
-- [Why LogLayer is the Logging Abstraction Framework for TypeScript](https://dev.to/theogravity/why-loglayer-is-the-logging-abstraction-framework-for-typescript-39mk)
-- [Understand The Algorithm Behind The Coin Change Problem With Mathematics](https://dev.to/ganesh-kumar/understand-the-algorithm-behind-the-coin-change-problem-with-mathematics-1d7e)
-- [Syntax Trap #002](https://dev.to/tabeacodes/syntax-trap-002-473p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
