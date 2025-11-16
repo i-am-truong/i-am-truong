@@ -82,10 +82,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Git Force Push: Bypassing Repository Protection Rules](https://dev.to/kkibet/git-force-push-bypassing-repository-protection-rules-4702)
+- [Unlocking AI Potential: Massively Parallel Search for Complex Problems](https://dev.to/arvind_sundararajan/unlocking-ai-potential-massively-parallel-search-for-complex-problems-13ed)
 - [Get Good Git Ninja, don&#39;t Get Got &lpar;눈_눈&rpar; O=&lpar;&#39;-&#39;Q&rpar;](https://dev.to/bibimbop123/get-good-git-ninja-dont-get-gotnunnuno-q-e83)
 - [GitHub Push Protection: How I Fixed the &quot;Repository Rule Violations&quot; Error](https://dev.to/kkibet/github-push-protection-how-i-fixed-the-repository-rule-violations-error-50b8)
 - [Part 3: From Neural Networks to Autonomous Coffee Roasting - Orchestrating MCP Servers with .NET Aspire and n8n Agents](https://dev.to/syamaner/part-3-from-neural-networks-to-autonomous-coffee-roasting-orchestrating-mcp-servers-with-net-58pd)
-- [Building a Fully-Featured Custom WebView App in Android: Complete Guide](https://dev.to/kkibet/building-a-fully-featured-custom-webview-app-in-android-complete-guide-4lof)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
