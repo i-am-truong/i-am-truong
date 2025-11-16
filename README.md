@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Importância dos Metas Keys no Desenvolvimento de Plugins no WordPress](https://dev.to/matheussesso/a-importancia-dos-metas-keys-no-desenvolvimento-de-plugins-no-wordpress-jl3)
-- [From Azure Fundamentals to Architect: How to Progress from AZ-900 to AZ-305 in One Year](https://dev.to/cyberry_technologies/from-azure-fundamentals-to-architect-how-to-progress-from-az-900-to-az-305-in-one-year-5fih)
-- [The Day I Realized I Wasn’t Coding — I Was Just Context Switching to Death.](https://dev.to/vjygour/the-day-i-realized-i-wasnt-coding-i-was-just-context-switching-to-death-5an)
-- [PHP 8.5: The Silent Web Revolution](https://dev.to/ndabene/php-85-the-silent-web-revolution-2i19)
-- [How I Upgraded My App’s UI With Real-Time Output + a 10-Second Demo &lpar;BusinessAdBooster Update&rpar;](https://dev.to/shemith_mohanan_6361bb8a2/how-i-upgraded-my-apps-ui-with-real-time-output-a-10-second-demo-businessadbooster-update-32bn)
+- [How to Compare Chatbot Platforms for Your Business](https://dev.to/chatboqai/how-to-compare-chatbot-platforms-for-your-business-3n2n)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-59gf)
+- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-1ad9)
+- [How Cryptocurrency Prices Work Across Different Blockchains](https://dev.to/thevenice/how-cryptocurrency-prices-work-across-different-blockchains-13j4)
+- [Connect django with tailwind css](https://dev.to/pritish_academy/connect-django-with-tailwind-css-a86)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
