@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Stop AI From Seeing What It Shouldn’t: A Practical Guide to PII Safety](https://dev.to/sridharcr/stop-ai-from-seeing-what-it-shouldnt-a-practical-guide-to-pii-safety-38ll)
+- [Games: Chromono](https://dev.to/orsenthil/games-chromono-513m)
+- [Custom Exploit Development](https://dev.to/godofgeeks/custom-exploit-development-nnm)
+- [A Universe of Triangles.](https://dev.to/kichuman28/a-universe-of-triangles-3f9n)
 - [Build a Kubernetes Cluster map in real time using DNS](https://dev.to/agardnerit/build-a-kubernetes-cluster-map-in-real-time-using-dns-nf9)
-- [The Emotional Rollercoaster of Building Your First MVP](https://dev.to/developerpartners/the-emotional-rollercoaster-of-building-your-first-mvp-4204)
-- [Homeworkify: Your Smart Solution for Understanding Homework Problems](https://dev.to/david_wenham/homeworkify-your-smart-solution-for-understanding-homework-problems-5ck2)
-- [Trinity Protocol™: How We Built a 2-of-3 Multi-Chain Consensus System with 90% Gas Savings](https://dev.to/chronosvault/trinity-protocol-how-we-built-a-2-of-3-multi-chain-consensus-system-with-90-gas-savings-44k1)
-- [October 2025: Review of learning records](https://dev.to/kazutora_hattori_66972c88/october-2025-review-of-learning-records-381b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
