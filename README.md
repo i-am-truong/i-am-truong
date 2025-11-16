@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Passing dynamic number of parameters to a reusable Github Actions workflow](https://dev.to/karatheodory/passing-dynamic-number-of-parameters-to-a-reusable-github-actions-workflow-2bcl)
+- [I built an HTML PDF API for real-world web apps &lpar;SPAs, iframes, dashboards&rpar;](https://dev.to/gopdfgenie/i-built-an-html-pdf-api-for-real-world-web-apps-spas-iframes-dashboards-5g05)
 - [Star Multi-Class Classification Neural Network With Pytorch](https://dev.to/lucirie/star-multi-class-classification-neural-network-with-pytorch-457g)
 - [Why CI/CD Is Not Just Jenkins and YAML: The Untold Reality of DevOps Pipelines](https://dev.to/srinivasamcjf/why-cicd-is-not-just-jenkins-and-yaml-the-untold-reality-of-devops-pipelines-4mif)
 - [Hiring founding engineer AI/ML Cash+equity](https://dev.to/raza_ahmed/hiring-founding-engineer-aiml-cashequity-2p5a)
-- [🎃 Transforming the Web Into a Spooky World — Building Halloween Vibes with Kiro](https://dev.to/deepak_negi_f1d64e7393000/transforming-the-web-into-a-spooky-world-building-halloween-vibes-with-kiro-9lj)
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-42bl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
