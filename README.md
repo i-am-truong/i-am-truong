@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Very cool project!](https://dev.to/jimmymcbride/very-cool-project-4f4h)
+- [Anticipatory UI: The Future of Zero-Click Interaction](https://dev.to/arvind_sundararajan/anticipatory-ui-the-future-of-zero-click-interaction-21im)
 - [StatefulSets &amp; Persistent Storage in Kubernetes](https://dev.to/rosgluk/statefulsets-persistent-storage-in-kubernetes-dbi)
 - [Snap Package Manager Cheatsheet](https://dev.to/rosgluk/snap-package-manager-cheatsheet-36en)
 - [Python Design Patterns for Clean Architecture](https://dev.to/rosgluk/python-design-patterns-for-clean-architecture-1jk0)
-- [Ubuntu Package Management: APT and dpkg Cheatsheet](https://dev.to/rosgluk/ubuntu-package-management-apt-and-dpkg-cheatsheet-1na)
-- [Go Unit Testing: Structure &amp; Best Practices](https://dev.to/rosgluk/go-unit-testing-structure-best-practices-1b5n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
