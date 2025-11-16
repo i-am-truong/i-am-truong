@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [5.Delete Git Branch](https://dev.to/thukhakyawe_cloud/5delete-git-branch-2dpn)
-- [Predicting the Unpredictable: Visualizing the Future with Temporal Independence](https://dev.to/arvind_sundararajan/predicting-the-unpredictable-visualizing-the-future-with-temporal-independence-5egj)
-- [4.Update Git Repository with Sample HTML File](https://dev.to/thukhakyawe_cloud/4update-git-repository-with-sample-html-file-3e8h)
-- [🔥 LLM Interview Series&lpar;6&rpar;: RLHF &lpar;Reinforcement Learning from Human Feedback&rpar; Demystified](https://dev.to/jackm_345442a09fb53b/llm-interview-series6-rlhf-reinforcement-learning-from-human-feedback-demystified-hi8)
-- [3.Fork a Git Repository](https://dev.to/thukhakyawe_cloud/3fork-a-git-repository-efk)
+- [CurlDotNet: Bringing curl&#39;s Power to .NET](https://dev.to/iron-software/curldotnet-bringing-curls-power-to-net-ce2)
+- [🎥 Cancellation token in C# video just dropped!](https://dev.to/dotnetfullstackdev/cancellation-token-in-c-video-just-dropped-2m20)
+- [Como Combinar Imagens com C++ e ImageMagick](https://dev.to/marcosplusplus/como-combinar-imagens-com-c-e-imagemagick-2lhp)
+- [A developer without a prompt library is like a coder without a framework. You can build everything from scratch, but why should you?](https://dev.to/jaideepparashar/a-developer-without-a-prompt-library-is-like-a-coder-without-a-framework-you-can-build-everything-5enc)
+- [How I Created My Own Prompt Library on GitHub &lpar;And Why Every Developer Should Too&rpar;](https://dev.to/jaideepparashar/how-i-created-my-own-prompt-library-on-github-and-why-every-developer-should-too-2koj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
