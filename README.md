@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding the Different POST Content Types](https://dev.to/djangotricks/understanding-the-different-post-content-types-3bjd)
+- [🚀 GPT-5.1 Is Here, Warmer, Smarter, More Reliable](https://dev.to/tirumalaraonaidu/gpt-51-is-here-warmer-smarter-more-reliable-1691)
+- [The Hidden Costs of Running a Business Without ERP](https://dev.to/disiplin_forml_e60c4755/the-hidden-costs-of-running-a-business-without-erp-3o5)
 - [Very cool project!](https://dev.to/jimmymcbride/very-cool-project-4f4h)
-- [Anticipatory UI: The Future of Zero-Click Interaction](https://dev.to/arvind_sundararajan/anticipatory-ui-the-future-of-zero-click-interaction-21im)
-- [StatefulSets &amp; Persistent Storage in Kubernetes](https://dev.to/rosgluk/statefulsets-persistent-storage-in-kubernetes-dbi)
-- [Snap Package Manager Cheatsheet](https://dev.to/rosgluk/snap-package-manager-cheatsheet-36en)
-- [Python Design Patterns for Clean Architecture](https://dev.to/rosgluk/python-design-patterns-for-clean-architecture-1jk0)
+- [A Beginner’s Guide to Using MCP with LangGraph](https://dev.to/aiengineering/a-beginners-guide-to-using-mcp-with-langgraph-2fg5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
