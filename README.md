@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Disaster and Emergency Response with TAK and AWS](https://dev.to/aws-builders/disaster-and-emergency-response-with-tak-3pef)
+- [How to Cut AWS Costs and Maintain Reliability Without a FinOps Team](https://dev.to/copubah/how-to-cut-aws-costs-and-maintain-reliability-without-a-finops-team-54cl)
+- [Disaster and Emergency Response with TAK and AWS](https://dev.to/awsugonair/disaster-and-emergency-response-with-tak-and-aws-53lm)
 - [A Free OpenAPI 3.2 Editor with Linting and Outline Support](https://dev.to/zeddd/a-free-openapi-32-editor-with-linting-and-outline-support-20mg)
-- [Is React a good fit for the future of AI-generated UI?](https://dev.to/adalbertuschris/is-react-a-good-fit-for-the-future-of-ai-generated-ui-5dbb)
-- [Passing dynamic number of parameters to a reusable Github Actions workflow](https://dev.to/karatheodory/passing-dynamic-number-of-parameters-to-a-reusable-github-actions-workflow-2bcl)
-- [I built an HTML PDF API for real-world web apps &lpar;SPAs, iframes, dashboards&rpar;](https://dev.to/gopdfgenie/i-built-an-html-pdf-api-for-real-world-web-apps-spas-iframes-dashboards-5g05)
-- [Star Multi-Class Classification Neural Network With Pytorch](https://dev.to/lucirie/star-multi-class-classification-neural-network-with-pytorch-457g)
+- [More advanced use of console logging](https://dev.to/muszynov/more-advanced-use-of-console-logging-4oi1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
