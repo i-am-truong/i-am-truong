@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CurlDotNet: Bringing curl&#39;s Power to .NET](https://dev.to/iron-software/curldotnet-bringing-curls-power-to-net-ce2)
-- [🎥 Cancellation token in C# video just dropped!](https://dev.to/dotnetfullstackdev/cancellation-token-in-c-video-just-dropped-2m20)
-- [Como Combinar Imagens com C++ e ImageMagick](https://dev.to/marcosplusplus/como-combinar-imagens-com-c-e-imagemagick-2lhp)
-- [A developer without a prompt library is like a coder without a framework. You can build everything from scratch, but why should you?](https://dev.to/jaideepparashar/a-developer-without-a-prompt-library-is-like-a-coder-without-a-framework-you-can-build-everything-5enc)
-- [How I Created My Own Prompt Library on GitHub &lpar;And Why Every Developer Should Too&rpar;](https://dev.to/jaideepparashar/how-i-created-my-own-prompt-library-on-github-and-why-every-developer-should-too-2koj)
+- [Trash Theory: Exploring Tricky &amp; Maxinquaye: The 90s Bowie? | New British Canon](https://dev.to/music_youtube/trash-theory-exploring-tricky-maxinquaye-the-90s-bowie-new-british-canon-3idf)
+- [How to promote a link building post to developer communities](https://dev.to/bakhat_yar_016451bb6f3b86/how-to-promote-a-link-building-post-to-developer-communities-27k1)
+- [summary of git management](https://dev.to/hirooka_kazuya_d7f37d3cde/summary-of-git-management-3m9f)
+- [🏗️ Part 2 — Running a Serverless API Locally with AWS SAM &lpar;API Gateway + Lambda + DynamoDB&rpar;](https://dev.to/balaji_sivakumar_e7a4b07a/part-2-running-a-serverless-api-locally-with-aws-sam-api-gateway-lambda-dynamodb-dob)
+- [AI &amp; Email Marketing: Supercharge Engagement in 2025](https://dev.to/jamessherman/ai-email-marketing-supercharge-engagement-in-2025-16ke)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
