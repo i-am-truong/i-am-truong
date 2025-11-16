@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Meet Pulsimo - Monitor Your Systems with Precision &amp; Power](https://dev.to/abirk/meet-pulsimo-monitor-your-systems-with-precision-power-32ji)
+- [Why Modern Electronic Devices Are Rapidly Switching to Capacitive Touch Screens](https://dev.to/tonyhe8688/why-modern-electronic-devices-are-rapidly-switching-to-capacitive-touch-screens-1p9i)
+- [Practical Guide to Dynamic IP Blocking in Nginx](https://dev.to/tiger_smith_9f421b9131db5/practical-guide-to-dynamic-ip-blocking-in-nginx-3k0j)
 - [Increase my familiarity with BASE64.](https://dev.to/akari_iku/increase-my-familiarity-with-base64-1e6b)
-- [Technical SEO for Developers: A Comprehensive Guide to Building Search-Friendly Applications](https://dev.to/mina_golzari_dalir/technical-seo-for-developers-a-comprehensive-guide-to-building-search-friendly-applications-36pn)
-- [SRE in Action: Understanding How Real Teams Use SLOs, SLIs, and Error Budgets to Stay Reliable Through Case Studies - Part 1](https://dev.to/jagkush/sre-in-action-understanding-how-real-teams-use-slos-slis-and-error-budgets-to-stay-reliable-27k6)
-- [AI in One Repo](https://dev.to/dhanushnehru/ai-in-one-repo-5e3)
-- [[Boost]](https://dev.to/dhanushnehru/-58cn)
+- [Technical SEO for Developers: A Comprehensive Guide to Building Search-Friendly Applications](https://dev.to/mina_golzari_dalir/technical-seo-for-developers-a-comprehensive-guide-to-building-search-friendly-applications-4d87)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
