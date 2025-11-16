@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [OpenBSD Upgrade 7.7 to 7.8](https://dev.to/nabbisen/openbsd-upgrade-77-to-78-3b75)
+- [⚛️ Controlled vs Uncontrolled Components in React – A Deep Dive](https://dev.to/fazal_mansuri_/controlled-vs-uncontrolled-components-in-react-a-deep-dive-1hhb)
+- [The Best UI/UX of 2026? Why It’s Time for a New Interface](https://dev.to/roma_armstrong/the-best-uiux-of-2026-why-its-time-for-a-new-interface-6n7)
 - [The Tech Renaissance: Java, Python, JavaScript, and Beyond](https://dev.to/atharvshinde2004/the-tech-renaissance-java-python-javascript-and-beyond-5eim)
 - [Webinar Analytics: Your Guide to Measuring Success](https://dev.to/glensizemore/webinar-analytics-your-guide-to-measuring-success-4c8k)
-- [Outil de Cybersécurité du Jour - Nov 16, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-nov-16-2025-41db)
-- [AI&#39;s Revolution in Team Formation and Collaboration](https://dev.to/jean_chou_b0a8ad9c32addbd/ais-revolution-in-team-formation-and-collaboration-192m)
-- [How to Search Screenshots Like a Pro with Recall Assist](https://dev.to/nodminger/how-to-search-screenshots-like-a-pro-with-recall-assist-on2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
