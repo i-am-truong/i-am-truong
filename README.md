@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🎙️Inside the JVM: A Live Walkthrough](https://dev.to/onyxwizard/inside-the-jvm-a-live-walkthrough-1ljl)
-- [📚 An In-Depth Guide to Modern Cryptography and Web Security](https://dev.to/dev-alamin/an-in-depth-guide-to-modern-cryptography-and-web-security-452d)
-- [Ship LangGraph.js Workflows in Production with Open LangGraph Server](https://dev.to/konghayao/ship-langgraphjs-workflows-in-production-with-open-langgraph-server-39i5)
-- [Method Overloading in Java](https://dev.to/vidya_varshini/method-overloading-in-java-4m0e)
-- [How to Secure RabbitMQ &amp; Celery with TLS/SSL](https://dev.to/zaaachos/how-to-secure-rabbitmq-celery-with-tlsssl-3ie2)
+- [The Most Terrifying App I&#39;ve Ever Built: Hounty.app](https://dev.to/valeriavg/the-most-terrifying-app-ive-ever-built-hountyapp-5g18)
+- [Где купить гидравлические цилиндры на заказ?](https://dev.to/notioninfo/gdie-kupit-ghidravlichieskiie-tsilindry-na-zakaz-7i7)
+- [DeckerGUI Introduces Token-Based Workhour Tracking for AI-Integrated Work Environments](https://dev.to/ctaxnagomi/deckergui-introduces-token-based-workhour-tracking-for-ai-integrated-work-environments-4bjk)
+- [Weekly Challenge: The one about formatting](https://dev.to/simongreennet/weekly-challenge-the-one-about-formatting-kfp)
+- [Scale Django on Seenode: Production Architecture That Actually Works](https://dev.to/app_dev_b139d1a58b00b6516/scale-django-on-seenode-production-architecture-that-actually-works-2bkk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
