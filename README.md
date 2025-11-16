@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering BeanShell Hash Variables in Joget: The Most Basic &amp; Practical Guide](https://dev.to/exploringmylifeworks/mastering-beanshell-hash-variables-in-joget-the-most-basic-practical-guide-5fnc)
 - [One Hot Encoding](https://dev.to/devunderdog/one-hot-encoding-28d)
+- [Unlocking the Power of AI for Impeccable Online Reputation](https://dev.to/devarticles/unlocking-the-power-of-ai-for-impeccable-online-reputation-cap)
 - [How AI Will Transform CAD Software in the Next 5 Years &lpar;Autodesk, SolidWorks, CATIA &amp; Beyond&rpar;](https://dev.to/mohammad_noorbakhsh_3b47d/how-ai-will-transform-cad-software-in-the-next-5-years-autodesk-solidworks-catia-beyond-27m7)
-- [How I Built Book-Writer-AI in a Few Days: Tech Stack, Architecture &amp; Challenges](https://dev.to/red_wolfman_680dc4b3efc3e/how-i-built-book-writer-ai-in-a-few-days-tech-stack-architecture-challenges-2maa)
-- [Laravel Eloquent’s create&lpar;&rpar; Methods](https://dev.to/thecodeliner/laravel-eloquents-create-family-19j1)
-- [osquery + OpenTelemetry = ❤️](https://dev.to/agardnerit/osquery-opentelemetry--55c)
+- [How to Use netstat, ss, and lsof for Linux Network Debugging](https://dev.to/serveravatar/how-to-use-netstat-ss-and-lsof-for-linux-network-debugging-33p3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
