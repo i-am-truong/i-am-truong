@@ -81,11 +81,12 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [YubiKey vs Virtual MFA: The Data-Driven Decision for Root Account Security](https://dev.to/carlosinfantes/yubikey-vs-virtual-mfa-the-data-driven-decision-for-root-account-security-56pk)
+- [Recently, while browsing through GitHub, I stumbled upon a repository that’s rapidly gaining momentum — a toolkit powerful enough to help you build entire systems. You probably know it already: TanStack.
+How are you fetching data ?](https://dev.to/mcdonald_musimwa_2d25c783/recently-while-browsing-through-github-i-stumbled-upon-a-repository-thats-rapidly-gaining-bc4)
 - [How Brokers Can Strengthen Risk Communication With Clearer Property Insights](https://dev.to/kapusto/how-brokers-can-strengthen-risk-communication-with-clearer-property-insights-1h6b)
 - [🚀 Creating a Future-Proof Android Ads SDK: Balancing Monetization, Performance, and User Experience](https://dev.to/lovekgarg/creating-a-future-proof-android-ads-sdk-balancing-monetization-performance-and-user-experience-1kn)
 - [Create new Database in Postgres](https://dev.to/geekslayr8/create-new-database-in-postgres-1h23)
-- [Building Resilient Identity Security in Modern Hybrid Environments](https://dev.to/kapusto/building-resilient-identity-security-in-modern-hybrid-environments-37hi)
-- [Seeking Engineers with Parameter Selection Problems - Free Mathematical Analysis](https://dev.to/patternician/seeking-engineers-with-parameter-selection-problems-free-mathematical-analysis-4bol)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
