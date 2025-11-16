@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Master the Shadowing Technique: Transform Your English Fluency in 30 Days](https://dev.to/nguyn_nguynb_d299ab12/master-the-shadowing-technique-transform-your-english-fluency-in-30-days-5d98)
+- [🏋️ Narwade&#39;s Health Club: A Full-Stack Fitness Platform](https://dev.to/ashwin_dumane/building-narwades-health-club-a-full-stack-fitness-platform-4ng0)
+- [When Static Sites Stop Scaling: Migrating FreeDevTools &lpar;125K+ Pages&rpar; from Static Astro to SSR](https://dev.to/lovestaco/when-static-sites-stop-scaling-migrating-freedevtools-125k-pages-from-static-astro-to-ssr-1hf5)
 - [Rediscovering the Joy of Coding — Writing My First Real Program in Pascal](https://dev.to/bekbrace/rediscovering-the-joy-of-coding-writing-my-first-real-program-in-pascal-3d65)
 - [Why AI Alone Feels Like That One Friend Who Tells Great Stories but Never Brings Proof](https://dev.to/trojanmocx/why-ai-alone-feels-like-that-one-friend-who-tells-great-stories-but-never-brings-proof-1218)
-- [Day F0: The Fuck Up That Brought Me Back](https://dev.to/casperday11/day-f0-the-fuck-up-that-brought-me-back-5ek2)
-- [Making Money with Code: The Beginner’s Guide to Freelance Development](https://dev.to/softwaredeveloperhub01/making-money-with-code-the-beginners-guide-to-freelance-development-1m8c)
-- [Creating NFTs with Web3.js](https://dev.to/lucaspereiradesouzat/creating-nfts-with-web3js-3nnm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
