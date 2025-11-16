@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-j73)
-- [WhatsApp malware campaign targeting Chrome credential vaults](https://dev.to/jenapuneet/whatsapp-malware-campaign-targeting-chrome-credential-vaults-1pgk)
-- [Synthesizing a project in ChatGPT to create content for my site.](https://dev.to/dhouse109/synthesizing-a-project-in-chatgpt-to-create-content-for-my-site-83n)
-- [Coding Challenge Practice - Question 57](https://dev.to/tomivan/coding-challenge-practice-question-57-40hk)
-- [San Diego Pilot Pitch [1]](https://dev.to/shepherd_1ec15ed8e8d85ced/san-diego-pilot-pitch-1-1b9g)
+- [[Without jQuery] Rewriting in JavaScript Selectors Edition](https://dev.to/rundezv/without-jquery-rewriting-in-javascript-selectors-edition-3b0e)
+- [Building a Full-Stack Product Monitoring System: A Technical Deep Dive](https://dev.to/dilutedev/building-a-full-stack-product-monitoring-system-a-technical-deep-dive-27j0)
+- [🚀 Meet Noty: The Chrome Extension That Finally Fixed My Messy Workflow](https://dev.to/odqin/meet-noty-the-chrome-extension-that-finally-fixed-my-messy-workflow-3h44)
+- [Python by Structure: Context Managers and the With Statement](https://dev.to/aaron_rose_0787cc8b4775a0/python-by-structure-context-managers-and-the-with-statement-1g8j)
+- [Everything You Need to Do Before Successfully Reading an Excel File with Pandas](https://dev.to/techkene/everything-you-need-to-do-before-successfully-reading-an-excel-file-with-pandas-3ec7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
