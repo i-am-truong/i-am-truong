@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Docker - Host–Container File Sharing : Named Volumes vs Bind Mounts, Behavior Differences, and Key Pitfalls](https://dev.to/kakisoft/docker-host-container-file-sharing-named-volumes-vs-bind-mounts-behavior-differences-and-key-45o9)
+- [RAW WORLD – Micro Jam 49 Devlog](https://dev.to/kartik_patel/raw-world-micro-jam-49-devlog-4137)
+- [Time Management for Devs](https://dev.to/gustavowoltmann18/time-management-for-devs-2fb5)
+- [The Pioneering Inventions of Nikola Tesla: A Legacy of Innovation](https://dev.to/gustavowoltmann18/the-pioneering-inventions-of-nikola-tesla-a-legacy-of-innovation-1d8p)
 - [Infinibay Development update #01](https://dev.to/andres_b_26dabd6ea99769a/infinibay-development-update-01-b53)
-- [This Week’s Cloud Native Pulse: Top Releases &amp; Urgent Ingress NGINX News &lpar;Nov 16, 2025&rpar;](https://dev.to/aws-builders/this-weeks-cloud-native-pulse-top-releases-urgent-ingress-nginx-news-nov-16-2025-1f8b)
-- [Disaster and Emergency Response with TAK and AWS](https://dev.to/aws-builders/disaster-and-emergency-response-with-tak-3pef)
-- [How to Cut AWS Costs and Maintain Reliability Without a FinOps Team](https://dev.to/copubah/how-to-cut-aws-costs-and-maintain-reliability-without-a-finops-team-54cl)
-- [Disaster and Emergency Response with TAK and AWS](https://dev.to/awsugonair/disaster-and-emergency-response-with-tak-and-aws-53lm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
