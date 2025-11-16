@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Install Bulma and React in 30 Seconds](https://dev.to/allxsmith/install-bulma-and-react-in-30-seconds-33ic)
-- [How to promote a link building post to developer communities](https://dev.to/bakhat_yar_016451bb6f3b86/how-to-promote-a-link-building-post-to-developer-communities-27k1)
-- [summary of git management](https://dev.to/hirooka_kazuya_d7f37d3cde/summary-of-git-management-3m9f)
-- [🏗️ Part 2 — Running a Serverless API Locally with AWS SAM &lpar;API Gateway + Lambda + DynamoDB&rpar;](https://dev.to/balaji_sivakumar_e7a4b07a/part-2-running-a-serverless-api-locally-with-aws-sam-api-gateway-lambda-dynamodb-dob)
-- [AI &amp; Email Marketing: Supercharge Engagement in 2025](https://dev.to/jamessherman/ai-email-marketing-supercharge-engagement-in-2025-16ke)
+- [Implementing a Stack From Scratch](https://dev.to/abhii71/implementing-a-stack-from-scratch-18e9)
+- [Crafting Precision: Unlocking the Power of AI Prompts](https://dev.to/speed_productsltd_d61c77b/crafting-precision-unlocking-the-power-of-ai-prompts-3o87)
+- [Daily Tech News Roundup - 2025-11-16](https://dev.to/atharvshinde2004/daily-tech-news-roundup-2025-11-16-12e6)
+- [Day 45 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-45-of-100-days-dsa-coding-challenge-92k)
+- [Understanding the Godown Wiring Connection Diagram](https://dev.to/polynoteshub/understanding-the-godown-wiring-connection-diagram-lk4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
