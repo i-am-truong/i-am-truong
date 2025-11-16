@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How Brokers Can Strengthen Risk Communication With Clearer Property Insights](https://dev.to/kapusto/how-brokers-can-strengthen-risk-communication-with-clearer-property-insights-1h6b)
 - [🚀 Creating a Future-Proof Android Ads SDK: Balancing Monetization, Performance, and User Experience](https://dev.to/lovekgarg/creating-a-future-proof-android-ads-sdk-balancing-monetization-performance-and-user-experience-1kn)
+- [Create new Database in Postgres](https://dev.to/geekslayr8/create-new-database-in-postgres-1h23)
+- [Building Resilient Identity Security in Modern Hybrid Environments](https://dev.to/kapusto/building-resilient-identity-security-in-modern-hybrid-environments-37hi)
 - [Seeking Engineers with Parameter Selection Problems - Free Mathematical Analysis](https://dev.to/patternician/seeking-engineers-with-parameter-selection-problems-free-mathematical-analysis-4bol)
-- [Container Security: From Development to Production](https://dev.to/instadevops/container-security-from-development-to-production-46k7)
-- [Git Force Push: Bypassing Repository Protection Rules](https://dev.to/kkibet/git-force-push-bypassing-repository-protection-rules-4702)
-- [Unlocking AI Potential: Massively Parallel Search for Complex Problems](https://dev.to/arvind_sundararajan/unlocking-ai-potential-massively-parallel-search-for-complex-problems-13ed)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
