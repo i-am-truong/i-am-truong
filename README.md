@@ -81,12 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [YubiKey vs Virtual MFA: The Data-Driven Decision for Root Account Security](https://dev.to/carlosinfantes/yubikey-vs-virtual-mfa-the-data-driven-decision-for-root-account-security-56pk)
-- [Recently, while browsing through GitHub, I stumbled upon a repository that’s rapidly gaining momentum — a toolkit powerful enough to help you build entire systems. You probably know it already: TanStack.
-How are you fetching data ?](https://dev.to/mcdonald_musimwa_2d25c783/recently-while-browsing-through-github-i-stumbled-upon-a-repository-thats-rapidly-gaining-bc4)
-- [How Brokers Can Strengthen Risk Communication With Clearer Property Insights](https://dev.to/kapusto/how-brokers-can-strengthen-risk-communication-with-clearer-property-insights-1h6b)
-- [🚀 Creating a Future-Proof Android Ads SDK: Balancing Monetization, Performance, and User Experience](https://dev.to/lovekgarg/creating-a-future-proof-android-ads-sdk-balancing-monetization-performance-and-user-experience-1kn)
-- [Create new Database in Postgres](https://dev.to/geekslayr8/create-new-database-in-postgres-1h23)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-3i99)
+- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-460i)
+- [The fastest and easiest way to setup React with Bulma and Vite.](https://dev.to/allxsmith/the-fastest-and-easiest-way-to-setup-react-with-bulma-and-vite-37b)
+- [5 Essential Skills Every Software Engineer Needs in 2025](https://dev.to/mehrdadkhodaverdi/5-essential-skills-every-software-engineer-needs-in-2025-3l67)
+- [AI Agents: From Zero to Hero in 5-Days With Kaggle and Google](https://dev.to/fedtti/ai-agents-from-zero-to-hero-in-5-days-with-kaggle-and-google-4ibk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
