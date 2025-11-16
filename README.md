@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🎙️Inside the JVM: A Live Walkthrough](https://dev.to/onyxwizard/inside-the-jvm-a-live-walkthrough-1ljl)
+- [📚 An In-Depth Guide to Modern Cryptography and Web Security](https://dev.to/dev-alamin/an-in-depth-guide-to-modern-cryptography-and-web-security-452d)
+- [Ship LangGraph.js Workflows in Production with Open LangGraph Server](https://dev.to/konghayao/ship-langgraphjs-workflows-in-production-with-open-langgraph-server-39i5)
+- [Method Overloading in Java](https://dev.to/vidya_varshini/method-overloading-in-java-4m0e)
 - [How to Secure RabbitMQ &amp; Celery with TLS/SSL](https://dev.to/zaaachos/how-to-secure-rabbitmq-celery-with-tlsssl-3ie2)
-- [Web Developer Travis McCracken on Why You Should Know Your Stack’s Limits](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-why-you-should-know-your-stacks-limits-1g1c)
-- [What is Ctrl+H in Excel? Master Find &amp; Replace for Data Cleaning](https://dev.to/mohammad_ehsanansari_671/what-is-ctrlh-in-excel-master-find-replace-for-data-cleaning-37mm)
-- [Beyond Vanity Metrics: 7 B2B Marketing KPIs You Can Query Like an API](https://dev.to/michaelaiglobal/beyond-vanity-metrics-7-b2b-marketing-kpis-you-can-query-like-an-api-1878)
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-1b9l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
