@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [WTF is Circuit Breaker Pattern?](https://dev.to/dailybugle33/wtf-is-circuit-breaker-pattern-142k)
+- [📊NumPy Practice !](https://dev.to/ramyacse/numpy-practice--394g)
 - [📊 Day 64 of My Data Analytics Journey!](https://dev.to/ramyacse/day-64-of-my-data-analytics-journey-4if1)
 - [Nuxt Tutorial 4 - Server Side](https://dev.to/aloisseckar/nuxt-tutorial-4-server-side-2dal)
 - [I wanted to create an AI app named Jarvis it should wake when I say, Jarvis . It should provide me latest news with the help of Google when I ask. Moreover, it should act like an AI chatbot. Like ChatGPT or grok](https://dev.to/asgar_ali_0fc38c362fc3858/i-wanted-to-create-an-ai-app-named-jarvis-it-should-wake-when-i-say-jarvis-it-should-provide-me-4h2g)
-- [Mastering BeanShell Hash Variables in Joget: The Most Basic &amp; Practical Guide](https://dev.to/exploringmylifeworks/mastering-beanshell-hash-variables-in-joget-the-most-basic-practical-guide-5fnc)
-- [One Hot Encoding](https://dev.to/devunderdog/one-hot-encoding-28d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
