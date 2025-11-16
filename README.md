@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [OpenBSD 7.7 を 7.8 へ アップグレード](https://dev.to/nabbisen/openbsd-77-wo-78-he-atupuguredo-4g15)
-- [Image Dithering made fast and free](https://dev.to/kosa12/image-dithering-made-fast-and-free-9lo)
-- [Generate a Dataverse ERD for Azure Dev Ops Wiki](https://dev.to/mcombp/generate-a-dataverse-erd-for-azure-dev-ops-wiki-3m4)
-- [OpenBSD Upgrade 7.7 to 7.8](https://dev.to/nabbisen/openbsd-upgrade-77-to-78-3b75)
-- [⚛️ Controlled vs Uncontrolled Components in React – A Deep Dive](https://dev.to/fazal_mansuri_/controlled-vs-uncontrolled-components-in-react-a-deep-dive-1hhb)
+- [How We Process Information Using The DIKW Model](https://dev.to/chihidan/how-we-process-information-using-the-dikw-model-4p60)
+- [Seamless Map Integration in React Native: A Complete Guide](https://dev.to/dainyjose/seamless-map-integration-in-react-native-a-complete-guide-29o7)
+- [How I Quietly Fixed My Entire Creative Workflow with One Tool](https://dev.to/yokii/how-i-quietly-fixed-my-entire-creative-workflow-with-one-tool-207d)
+- [Python for DevOps: A Practical, No-Nonsense Learning Plan](https://dev.to/ajaylegion/python-for-devops-a-practical-no-nonsense-learning-plan-4l4o)
+- [🛠️ Dynamic Joget Form Generation Using BeanShell Scripting](https://dev.to/exploringmylifeworks/dynamic-joget-form-generation-using-beanshell-scripting-aln)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
