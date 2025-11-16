@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SRE in Action: Understanding How Real Teams Use SLOs, SLIs, and Error Budgets to Stay Reliable Through Case Studies - Part 1](https://dev.to/jagkush/sre-in-action-understanding-how-real-teams-use-slos-slis-and-error-budgets-to-stay-reliable-27k6)
+- [AI in One Repo](https://dev.to/dhanushnehru/ai-in-one-repo-5e3)
+- [[Boost]](https://dev.to/dhanushnehru/-58cn)
 - [The Most Terrifying App I&#39;ve Ever Built: Hounty.app](https://dev.to/valeriavg/the-most-terrifying-app-ive-ever-built-hountyapp-5g18)
 - [Где купить гидравлические цилиндры на заказ?](https://dev.to/notioninfo/gdie-kupit-ghidravlichieskiie-tsilindry-na-zakaz-7i7)
-- [DeckerGUI Introduces Token-Based Workhour Tracking for AI-Integrated Work Environments](https://dev.to/ctaxnagomi/deckergui-introduces-token-based-workhour-tracking-for-ai-integrated-work-environments-4bjk)
-- [Weekly Challenge: The one about formatting](https://dev.to/simongreennet/weekly-challenge-the-one-about-formatting-kfp)
-- [Scale Django on Seenode: Production Architecture That Actually Works](https://dev.to/app_dev_b139d1a58b00b6516/scale-django-on-seenode-production-architecture-that-actually-works-2bkk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
