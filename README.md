@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Fully-Featured Custom WebView App in Android: Complete Guide](https://dev.to/kkibet/building-a-fully-featured-custom-webview-app-in-android-complete-guide-4lof)
+- [React Router v7 Transition Future Flag — The Complete Guide for 2025](https://dev.to/cristiansifuentes/react-router-v7-transition-future-flag-the-complete-guide-for-2025-5dk3)
+- [Why LogLayer is the Logging Abstraction Framework for TypeScript](https://dev.to/theogravity/why-loglayer-is-the-logging-abstraction-framework-for-typescript-39mk)
 - [Understand The Algorithm Behind The Coin Change Problem With Mathematics](https://dev.to/ganesh-kumar/understand-the-algorithm-behind-the-coin-change-problem-with-mathematics-1d7e)
 - [Syntax Trap #002](https://dev.to/tabeacodes/syntax-trap-002-473p)
-- [Dagger 2.0 vs Hilt in Android: A Comprehensive Overview](https://dev.to/lovekgarg/dagger-20-vs-hilt-in-android-a-comprehensive-overview-2lec)
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-44ml)
-- [Untitled](https://dev.to/vivek_kolte_9177c978975a9/untitled-3l9l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
