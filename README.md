@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Deploying a Web Server VM and Installing IIS on Windows](https://dev.to/ojosamuel129/deploying-a-web-server-vm-and-installing-iis-on-windows-nfk)
-- [Learn Windows CLI Hands-on](https://dev.to/al_rl_262bf3e3f877e3574f3/learn-windows-cli-hands-on-59na)
-- [Agentic AI Security: Understanding the Hidden Risks in Autonomous Agents](https://dev.to/sudarshangouda/agentic-ai-security-understanding-the-hidden-risks-in-autonomous-agents-3l02)
-- [How I Built Vidurai: When Ancient Philosophy Meets Modern AI](https://dev.to/yvidurai/how-i-built-vidurai-when-ancient-philosophy-meets-modern-ai-3njj)
-- [Learning Django by Building: Week 1](https://dev.to/negih/learning-django-by-building-week-1-2h47)
+- [Understand The Algorithm Behind The Coin Change Problem With Mathematics](https://dev.to/ganesh-kumar/understand-the-algorithm-behind-the-coin-change-problem-with-mathematics-1d7e)
+- [Syntax Trap #002](https://dev.to/tabeacodes/syntax-trap-002-473p)
+- [Dagger 2.0 vs Hilt in Android: A Comprehensive Overview](https://dev.to/lovekgarg/dagger-20-vs-hilt-in-android-a-comprehensive-overview-2lec)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-44ml)
+- [Untitled](https://dev.to/vivek_kolte_9177c978975a9/untitled-3l9l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
