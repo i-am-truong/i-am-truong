@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🎮 Understanding Linux Cgroups](https://dev.to/ajinkya_singh_2c02bd40423/understanding-linux-cgroups-2kf1)
-- [When Big O Lies](https://dev.to/kyrylorud/when-big-o-lies-o7l)
-- [Docker - Host–Container File Sharing : Named Volumes vs Bind Mounts, Behavior Differences, and Key Pitfalls](https://dev.to/kakisoft/docker-host-container-file-sharing-named-volumes-vs-bind-mounts-behavior-differences-and-key-45o9)
-- [RAW WORLD – Micro Jam 49 Devlog](https://dev.to/kartik_patel/raw-world-micro-jam-49-devlog-4137)
-- [Time Management for Devs](https://dev.to/gustavowoltmann18/time-management-for-devs-2fb5)
+- [IInteger Generic Parameters in Swift 6.2: A New Era for Type-Safe Programming](https://dev.to/arshtechpro/iinteger-generic-parameters-in-swift-62-a-new-era-for-type-safe-programming-495d)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-11f4)
+- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-1kom)
+- [Introducing KurrentDB-Swift: Bringing Event Sourcing to Server-Side Swift](https://dev.to/gradyzhuo/introducing-kurrentdb-swift-bringing-event-sourcing-to-server-side-swift-3g83)
+- [Games: Biniax 2](https://dev.to/orsenthil/games-biniax-2-1dm9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
