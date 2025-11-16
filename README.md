@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Effortless Jupyter Notebook to PDF in VS Code: Meet nb2pdf #python #nb2pdf #vscode #ipnyb2pdf](https://dev.to/ganesh250684/effortless-jupyter-notebook-to-pdf-in-vs-code-meet-nb2pdf-python-nb2pdf-vscode-ipnyb2pdf-4o07)
+- [Safety vs Security in Software: A Practical Guide for Engineers and Infrastructure Teams](https://dev.to/anderson_leite/safety-vs-security-in-software-a-practical-guide-for-engineers-and-infrastructure-teams-34f3)
+- [Building an AI Workout Coach: OpenAI Responses API + Dynamic Reasoning Levels](https://dev.to/dpelleri/building-an-ai-workout-coach-with-nextjs-openai-and-supabase-olp)
 - [Share Claude-created Documents Across Worktrees with dot-claude-sync](https://dev.to/ugo/share-claude-created-documents-across-worktrees-with-dot-claude-sync-cpc)
 - [🚨 Resuming Stuck Joget Workflow Tools with API](https://dev.to/exploringmylifeworks/resuming-stuck-joget-workflow-tools-with-api-kg1)
-- [Memahami KNN Algorithm dan Sistem Rekomendasi dengan Visualisasi Simpel](https://dev.to/ezzeddinp/memahami-knn-algorithm-dan-sistem-rekomendasi-dengan-visualisasi-simpel-22h0)
-- [emojis-cleaner — A npm package to remove Emojis from Any File or Codebase &lpar;CLI + JS API&rpar;](https://dev.to/pulkitgovrani/emojis-cleaner-a-npm-package-to-remove-emojis-from-any-file-or-codebase-cli-js-api-41c0)
-- [Difference Array Technique](https://dev.to/thetenthman/difference-array-technique-4n5a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
