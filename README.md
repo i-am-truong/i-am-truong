@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [osquery + OpenTelemetry = ❤️](https://dev.to/agardnerit/osquery-opentelemetry--55c)
+- [Pagy 9.1 to 43.0? What have Changed?](https://dev.to/jessalejo/pagy-91-to-430-what-have-changed-2933)
+- [Jordium.Snowflake.NET — A Fast and Lightweight Distributed ID Generator for .NET](https://dev.to/nelson_li_c5265341756c7ab/jordiumsnowflakenet-a-fast-and-lightweight-distributed-id-generator-for-net-7c4)
+- [Consumption Based pricing](https://dev.to/ayoola_ogunleye_f5b671a10/consumption-based-pricing-44hp)
 - [Stop AI From Seeing What It Shouldn’t: A Practical Guide to PII Safety](https://dev.to/sridharcr/stop-ai-from-seeing-what-it-shouldnt-a-practical-guide-to-pii-safety-38ll)
-- [Games: Chromono](https://dev.to/orsenthil/games-chromono-513m)
-- [Custom Exploit Development](https://dev.to/godofgeeks/custom-exploit-development-nnm)
-- [A Universe of Triangles.](https://dev.to/kichuman28/a-universe-of-triangles-3f9n)
-- [Build a Kubernetes Cluster map in real time using DNS](https://dev.to/agardnerit/build-a-kubernetes-cluster-map-in-real-time-using-dns-nf9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
