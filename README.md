@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Share Claude-created Documents Across Worktrees with dot-claude-sync](https://dev.to/ugo/share-claude-created-documents-across-worktrees-with-dot-claude-sync-cpc)
+- [🚨 Resuming Stuck Joget Workflow Tools with API](https://dev.to/exploringmylifeworks/resuming-stuck-joget-workflow-tools-with-api-kg1)
+- [Memahami KNN Algorithm dan Sistem Rekomendasi dengan Visualisasi Simpel](https://dev.to/ezzeddinp/memahami-knn-algorithm-dan-sistem-rekomendasi-dengan-visualisasi-simpel-22h0)
 - [emojis-cleaner — A npm package to remove Emojis from Any File or Codebase &lpar;CLI + JS API&rpar;](https://dev.to/pulkitgovrani/emojis-cleaner-a-npm-package-to-remove-emojis-from-any-file-or-codebase-cli-js-api-41c0)
 - [Difference Array Technique](https://dev.to/thetenthman/difference-array-technique-4n5a)
-- [How We Process Information Using The DIKW Model](https://dev.to/chihidan/how-we-process-information-using-the-dikw-model-4p60)
-- [Python For Exploit Development](https://dev.to/biscottidiskette/python-for-exploit-development-2971)
-- [🚀 Parallel Routes &amp; Intercepting Routes in Next.js — Complete Beginner-Friendly Guide](https://dev.to/vishwark/parallel-routes-intercepting-routes-in-nextjs-complete-beginner-friendly-guid-54ao)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
