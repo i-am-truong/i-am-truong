@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [LLM Guardrails: 50+ Safety Layers Every AI Application Needs](https://dev.to/aayush_gid/llm-guardrails-50-safety-layers-every-ai-application-needs-4bnm)
 - [🚀 How to Install Supabase CLI on Windows &lpar;The Right Way&rpar; — A Simple Guide for Everyone](https://dev.to/chiragx309/how-to-install-supabase-cli-on-windows-the-right-way-a-simple-guide-for-everyone-14om)
 - [🎨 Dynamic Dashboard Colors: Mapping Pie Chart Slices to Workflow Status](https://dev.to/exploringmylifeworks/dynamic-dashboard-colors-mapping-pie-chart-slices-to-workflow-status-2ihg)
+- [Understanding DevOps: Bridging Development and Operations](https://dev.to/bamacharan/understanding-devops-bridging-development-and-operations-28c9)
 - [From Chatbots to Companions: How Empathetic AI Is Redefining Human–Machine Interaction](https://dev.to/mikhailliublin/from-chatbots-to-companions-how-empathetic-ai-is-redefining-human-machine-interaction-49fg)
-- [💾 Custom Approval History in Joget: Direct SQL Insertion via BeanShell Tool](https://dev.to/exploringmylifeworks/custom-approval-history-in-joget-direct-sql-insertion-via-beanshell-tool-1kcp)
-- [Why I Built 17 Developer Tools with Client-Side Processing](https://dev.to/sunny_raj_cbc39b29a91ee0d/why-i-built-17-developer-tools-with-client-side-processing-2cm0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
