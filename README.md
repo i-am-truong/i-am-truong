@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What happens when your cluster runs out of CPU? — The unsolved DevOps paradox](https://dev.to/hyndaviboddeda/what-happens-when-your-cluster-runs-out-of-cpu-the-unsolved-devops-paradox-2j68)
-- [ZipperOS: A Community-Driven Linux OS Designed by Users, for Users](https://dev.to/wolfie_numbers_f600dbfc56/zipperos-a-community-driven-linux-os-designed-by-users-for-users-721)
-- [The Bug That Taught Me Everything](https://dev.to/evan_lausier/the-bug-that-taught-me-everything-2k2n)
-- [Python by Structure: Generator Delegation with Yield From](https://dev.to/aaron_rose_0787cc8b4775a0/python-by-structure-generator-delegation-with-yield-from-3d4d)
-- [Best Antidetect Browsers for TikTok Multiple Accounts](https://dev.to/vietnam/best-antidetect-browsers-for-tiktok-multiple-accounts-jch)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-j73)
+- [WhatsApp malware campaign targeting Chrome credential vaults](https://dev.to/jenapuneet/whatsapp-malware-campaign-targeting-chrome-credential-vaults-1pgk)
+- [Synthesizing a project in ChatGPT to create content for my site.](https://dev.to/dhouse109/synthesizing-a-project-in-chatgpt-to-create-content-for-my-site-83n)
+- [Coding Challenge Practice - Question 57](https://dev.to/tomivan/coding-challenge-practice-question-57-40hk)
+- [San Diego Pilot Pitch [1]](https://dev.to/shepherd_1ec15ed8e8d85ced/san-diego-pilot-pitch-1-1b9g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
