@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Meet Pulsimo - Monitor Your Systems with Precision &amp; Power](https://dev.to/abirk/meet-pulsimo-monitor-your-systems-with-precision-power-32ji)
-- [Why Modern Electronic Devices Are Rapidly Switching to Capacitive Touch Screens](https://dev.to/tonyhe8688/why-modern-electronic-devices-are-rapidly-switching-to-capacitive-touch-screens-1p9i)
-- [Practical Guide to Dynamic IP Blocking in Nginx](https://dev.to/tiger_smith_9f421b9131db5/practical-guide-to-dynamic-ip-blocking-in-nginx-3k0j)
-- [Increase my familiarity with BASE64.](https://dev.to/akari_iku/increase-my-familiarity-with-base64-1e6b)
-- [Technical SEO for Developers: A Comprehensive Guide to Building Search-Friendly Applications](https://dev.to/mina_golzari_dalir/technical-seo-for-developers-a-comprehensive-guide-to-building-search-friendly-applications-4d87)
+- [Star Multi-Class Classification Neural Network With Pytorch](https://dev.to/lucirie/star-multi-class-classification-neural-network-with-pytorch-457g)
+- [Why CI/CD Is Not Just Jenkins and YAML: The Untold Reality of DevOps Pipelines](https://dev.to/srinivasamcjf/why-cicd-is-not-just-jenkins-and-yaml-the-untold-reality-of-devops-pipelines-4mif)
+- [Hiring founding engineer AI/ML Cash+equity](https://dev.to/raza_ahmed/hiring-founding-engineer-aiml-cashequity-2p5a)
+- [🎃 Transforming the Web Into a Spooky World — Building Halloween Vibes with Kiro](https://dev.to/deepak_negi_f1d64e7393000/transforming-the-web-into-a-spooky-world-building-halloween-vibes-with-kiro-9lj)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-42bl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
