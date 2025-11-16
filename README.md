@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Is React a good fit for the future of AI-generated UI?](https://dev.to/adalbertuschris/is-react-a-good-fit-for-the-future-of-ai-generated-ui-5dbb)
 - [Passing dynamic number of parameters to a reusable Github Actions workflow](https://dev.to/karatheodory/passing-dynamic-number-of-parameters-to-a-reusable-github-actions-workflow-2bcl)
 - [I built an HTML PDF API for real-world web apps &lpar;SPAs, iframes, dashboards&rpar;](https://dev.to/gopdfgenie/i-built-an-html-pdf-api-for-real-world-web-apps-spas-iframes-dashboards-5g05)
 - [Star Multi-Class Classification Neural Network With Pytorch](https://dev.to/lucirie/star-multi-class-classification-neural-network-with-pytorch-457g)
-- [Why CI/CD Is Not Just Jenkins and YAML: The Untold Reality of DevOps Pipelines](https://dev.to/srinivasamcjf/why-cicd-is-not-just-jenkins-and-yaml-the-untold-reality-of-devops-pipelines-4mif)
-- [Hiring founding engineer AI/ML Cash+equity](https://dev.to/raza_ahmed/hiring-founding-engineer-aiml-cashequity-2p5a)
+- [👋 Hi Dev Community! I am Promise &lpar;you can call me SP&rpar;, I am super excited to share my journey here too!](https://dev.to/sylvester_promise_6f46193/hi-dev-community-i-am-promise-you-can-call-me-sp-i-am-super-excited-to-share-my-journey-here-5bc4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
