@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Built Vidurai: When Ancient Philosophy Meets Modern AI](https://dev.to/yvidurai/how-i-built-vidurai-when-ancient-philosophy-meets-modern-ai-3njj)
+- [Day 36: Python Integer Sequence Generator, Efficiently Concatenate Numbers from 1 to n with Interactive Input](https://dev.to/shahrouzlogs/day-36-python-integer-sequence-generator-efficiently-concatenate-numbers-from-1-to-n-with-2574)
 - [How I Built Vidurai: When Ancient Philosophy Meets Modern AI](https://dev.to/chandantochandan/how-i-built-vidurai-when-ancient-philosophy-meets-modern-ai-5b0o)
-- [🧠 Hydration, Selective Hydration &amp; Progressive Hydration Explained &lpar;React vs Vue/Nuxt vs Others&rpar;](https://dev.to/vishwark/hydration-selective-hydration-progressive-hydration-explained-react-vs-vuenuxt-vs-others-47fc)
-- [How to Embed a HubSpot Form in Next.js and react js](https://dev.to/imagemagixonline/how-to-embed-a-hubspot-form-in-nextjs-and-react-js-3fk1)
-- [I Got My First Dev Job After 6 Months of Rejections - Here&#39;s What Actually Worked](https://dev.to/rayray_m_c5487ff87bb0e41e/i-got-my-first-dev-job-after-6-months-of-rejections-heres-what-actually-worked-1ihf)
-- [Redis Basic Data Management: Key-Value Operations and Atomic Counters Tutorial](https://dev.to/labex/redis-basic-data-management-key-value-operations-and-atomic-counters-tutorial-2hm0)
+- [🚀 Project Management in 2025: Why the PMBOK® Guide, Eighth Edition, Marks a Turning Point](https://dev.to/tirumalaraonaidu/project-management-in-2025-why-the-pmbokr-guide-eighth-edition-marks-a-turning-point-691)
+- [Death’s Job Game](https://dev.to/iamvatsal/deaths-job-game-2hec)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
