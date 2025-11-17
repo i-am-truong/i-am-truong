@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [onSubmit in React.js Forms: Why action=&quot;&quot; and method=&quot;&quot; don’t apply anymore](https://dev.to/victorugs_dev/onsubmit-in-reactjs-forms-why-action-and-method-dont-apply-anymore-3dg7)
-- [**Eco-Friendly AI Code Snippet: Resource-aware Neural Networ](https://dev.to/drcarlosruizviquez/eco-friendly-ai-code-snippet-resource-aware-neural-networ-3mdm)
-- [Healthcare Data Interoperability and FHIR: A Developer&#39;s Guide](https://dev.to/pauladeroju/healthcare-data-interoperability-and-fhir-a-developers-guide-4pc0)
-- [AI in Frontend Development: The New Copilot](https://dev.to/ishanbagchi/ai-in-frontend-development-the-new-copilot-19eg)
-- [Is Your Data Training Someone’s AI? I Built a Browser Extension to Find Out.](https://dev.to/dwikbtn/is-your-data-training-someones-ai-i-built-a-browser-extension-to-find-out-km3)
+- [n8n Web Scraping || Part 2: Pagination, Infinite Scroll, Network Capture &amp; More](https://dev.to/extractdata/n8n-web-scraping-part-2-pagination-infinite-scroll-network-capture-more-365)
+- [**A Tale of Two Frameworks: Declarative vs](https://dev.to/drcarlosruizviquez/a-tale-of-two-frameworks-declarative-vs-2j58)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-1fdp)
+- [Event-Driven Updates with ThingsDB](https://dev.to/joente/event-driven-updates-with-thingsdb-3in5)
+- [**The Multimodal AI Blind Spot: Integrating Sensory Feedback](https://dev.to/drcarlosruizviquez/the-multimodal-ai-blind-spot-integrating-sensory-feedback-3e5g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
