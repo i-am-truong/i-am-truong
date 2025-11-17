@@ -123,8 +123,8 @@ Python                   1 repo              █░░░░░░░░░░�
 - [Linen Layout](https://dev.to/rmion/linen-layout-4e4d)
 - [A Practical Guide to Profiling &amp; Optimizing React Applications for Peak Performance 🚀](https://dev.to/alisamir/a-practical-guide-to-profiling-optimizing-react-applications-for-peak-performance-273i)
 - [Reading Between the Lines: How Leaders Build Emotional Intelligence One Page &lpar;or Episode&rpar; at a Time](https://dev.to/angela_ash_6da09e1fd957c1/reading-between-the-lines-how-leaders-build-emotional-intelligence-one-page-or-episode-at-a-time-16kn)
+- [API Reference](https://dev.to/endersaka/api-reference-42fg)
 - [Making code fun again: An introduction to code golf](https://dev.to/mousetail/making-code-fun-again-an-introduction-to-code-golf-166p)
-- [Nested Loop and Hash Join for MongoDB $lookup](https://dev.to/franckpachot/nested-loop-and-hash-join-for-mongodb-lookup-259d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
