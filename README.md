@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Apache Dev Mail Digest: Iceberg &amp; Polaris &lpar;Nov 12–17, 2025&rpar;](https://dev.to/alexmercedcoder/apache-dev-mail-digest-iceberg-polaris-nov-12-17-2025-2gpd)
 - [Achieve RAG in 15 Minutes: A Step-by-Step Agentforce Data Library Tutorial](https://dev.to/hemantj/achieve-rag-in-15-minutes-a-step-by-step-agentforce-data-library-tutorial-42de)
+- [Why its special?](https://dev.to/vigneshwaralingam/why-its-special-p5l)
 - [Exploring Git by Building My Own Minimal Version Control System](https://dev.to/ironrinox/exploring-git-by-building-my-own-minimal-version-control-system-5591)
 - [Build a Calorie Estimation App With Vision Agents](https://dev.to/emmanuelthecoder/build-a-calorie-estimation-app-with-vision-agents-750)
-- [WinInsTool.](https://dev.to/iinitialb/wininstool-3ak3)
-- [Ensuring No Prior Art Is Overlooked: Thorough Prior Art Search Techniques](https://dev.to/patentscanai/ensuring-no-prior-art-is-overlooked-thorough-prior-art-search-techniques-2oa7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
