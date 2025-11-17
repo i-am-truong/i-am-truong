@@ -81,11 +81,17 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Dejé de hablar de AI y empecé a construir: Construye un RAG simple con Amazon Bedrock Knowledge Bases.](https://dev.to/sinariver/deje-de-hablar-de-ai-y-empece-a-construir-construye-un-rag-simple-con-amazon-bedrock-knowledge-3j42)
-- [I stopped talking about AI and started to build: Build a RAG System with Amazon Bedrock, Titan Embeddings &amp; Knowledge Bases](https://dev.to/sinariver/i-stopped-talking-about-ai-and-started-to-build-build-a-rag-system-with-amazon-bedrock-titan-2ke6)
-- [Automated Testing using MCP &amp; AI Agents](https://dev.to/awsugonair/automated-testing-using-mcp-ai-agents-278i)
-- [Meme Monday](https://dev.to/ben/meme-monday-4jn7)
-- [Search for the Best Website Development Company in Ashburn](https://dev.to/debtech_llc_19ccb100ccfa8/search-for-the-best-website-development-company-in-ashburn-n8k)
+- [Utilize another telemetry data for faster improvement with AI agent](https://dev.to/awsugonair/utilize-another-telemetry-data-for-faster-improvement-with-ai-agent-41h2)
+- [I Had 10 Minutes to Fix a Broken PDF Before My Client Demo](https://dev.to/bryan_collins_abcd0214d94/i-had-10-minutes-to-fix-a-broken-pdf-before-my-client-demo-35k2)
+- [Graduating from Vibe Coding: Spec‑Driven Development with Kiro](https://dev.to/aws-builders/graduating-from-vibe-coding-spec-driven-development-with-kiro-gb8)
+- [Design Review Checklist 📋](https://dev.to/stoft/design-review-checklist-4cl5)
+- [I’ll be honest with you:
+I didn’t wake up one morning thinking “Let me reverse-engineer TikTok today.”
+
+It started with something much simpler:
+
+“I just want to upload videos to TikTok programmatically…
+why is this so damn hard?”](https://dev.to/mrzaizai2k/ill-be-honest-with-you-i-didnt-wake-up-one-morning-thinking-let-me-reverse-engineer-tiktok-1pbg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
