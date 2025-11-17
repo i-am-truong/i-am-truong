@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating hobby websites in 2025](https://dev.to/heymarkkop/creating-hobby-websites-in-2025-305)
+- [Kafka Architecture - The Complete Mental Model 🧠](https://dev.to/ajinkya_singh_2c02bd40423/kafka-architecture-the-complete-mental-model-2k52)
+- [Building an interactive map with Replit Agent: A software engineer tests vibe-coding efficiency](https://dev.to/kenakingkong/building-an-interactive-map-with-replit-agent-a-software-engineer-tests-vibe-coding-efficiency-3068)
+- [Bundle Google Fonts with your NativePHP Mobile application](https://dev.to/michaelishri/bundle-google-fonts-with-your-nativephp-mobile-application-1l84)
 - [🚀 How to Create My Startup? &lpar;A Developer-Friendly Guide&rpar;](https://dev.to/stasxreal/how-to-create-my-startup-a-developer-friendly-guide-3453)
-- [Mastering Python Strings: More Than Just Text](https://dev.to/onlineproxy/mastering-python-strings-more-than-just-text-1m4f)
-- [Linen Layout](https://dev.to/rmion/linen-layout-4e4d)
-- [A Practical Guide to Profiling &amp; Optimizing React Applications for Peak Performance 🚀](https://dev.to/alisamir/a-practical-guide-to-profiling-optimizing-react-applications-for-peak-performance-273i)
-- [Reading Between the Lines: How Leaders Build Emotional Intelligence One Page &lpar;or Episode&rpar; at a Time](https://dev.to/angela_ash_6da09e1fd957c1/reading-between-the-lines-how-leaders-build-emotional-intelligence-one-page-or-episode-at-a-time-16kn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
