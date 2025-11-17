@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Chess Engine](https://dev.to/tensie_24f10fe37a08dc7d0d/chess-engine-48kl)
+- [Instalacion en Ubuntu de Homebrew y asdf &lpar;Gestor de Versiones Múltiples&rpar;](https://dev.to/pablojavierjimenez/instalacion-en-ubuntu-de-homebrew-y-asdf-gestor-de-versiones-multiples-4bp8)
 - [My React template](https://dev.to/tkorakas/my-react-template-ho4)
 - [Building a Custom TypeScript Client for Your REST API](https://dev.to/__c75487cfa/building-a-custom-typescript-client-for-your-rest-api-ahb)
 - [Tired of Rails one-off scripts becoming a nightmare? I built something for that.](https://dev.to/a_abdellatif/tired-of-rails-one-off-scripts-becoming-a-nightmare-i-built-something-for-that-5fcb)
-- [The Hidden AI Tax on Tech Debt](https://dev.to/bwca/the-hidden-ai-tax-on-tech-debt-4k10)
-- [How to scrape websites that Selenium or Playwright can&#39;t](https://dev.to/patfinder/how-to-scrape-website-that-selenium-or-playwright-cant-4cfa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
