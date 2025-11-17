@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Making code fun again: An introduction to code golf](https://dev.to/mousetail/making-code-fun-again-an-introduction-to-code-golf-166p)
+- [Nested Loop and Hash Join for MongoDB $lookup](https://dev.to/franckpachot/nested-loop-and-hash-join-for-mongodb-lookup-259d)
+- [I Thought Low Pricing Would Be My Startup’s Advantage — Turns Out It Doesn’t Work That Way](https://dev.to/serhii_bezpalyi_618f348e6/i-thought-low-pricing-would-be-my-startups-advantage-turns-out-it-doesnt-work-that-way-3m7l)
+- [Gen AI para potenciar DevOps: ideas clave de mi participación como speaker en AWS Community Day Bolivia](https://dev.to/alex_flores_efdf107dbb0a5/gen-ai-para-potenciar-devops-ideas-clave-de-mi-participacion-como-speaker-en-aws-community-day-49d0)
 - [KI zeigt nicht die Zukunft des Marketings. Sie zeigt den Zustand der Branche.](https://dev.to/jens_r_4ac124fba483a5d950/ki-zeigt-nicht-die-zukunft-des-marketings-sie-zeigt-den-zustand-der-branche-122h)
-- [LuminoraCore v1.1: Your AI Memory That Actually Travels 🧠✨](https://dev.to/rulyaltamirano/luminoracore-v11-your-ai-memory-that-actually-travels-1e4c)
-- [Hunting TTPs for the EVALUSION ClickFix Campaign Delivering Amatera Stealer &amp; NetSupport RAT](https://dev.to/jenapuneet/hunting-ttps-for-the-evalusion-clickfix-campaign-delivering-amatera-stealer-netsupport-rat-22j4)
-- [How we built Hermes - a military-grade encryption tool that&#39;s ready for the quantum computing era](https://dev.to/chronocoders/how-we-built-hermes-a-military-grade-encryption-tool-thats-ready-for-the-quantum-computing-era-10b5)
-- [Setup Hashicorp Vault + Vault Agent on Docker Compose](https://dev.to/tjuliu/setup-hashicorp-vault-vault-agent-on-docker-compose-4af0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
