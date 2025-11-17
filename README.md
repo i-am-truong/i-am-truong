@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Nested Learning — My Reflections on a Model That Learns How to Learn](https://dev.to/mitanshgor/nested-learning-my-reflections-on-a-model-that-learns-how-to-learn-14b5)
-- [One Sound at a time - My Audio Engineering Journey](https://dev.to/awesomeaudioai/one-sound-at-a-time--28i6)
-- [Novo Gerenciador de tarefas V1.0/duo!!!!](https://dev.to/richard_rangeljung_5e573/novo-gerenciador-de-tarefas-v10duo-1o46)
-- [10 Real-World Examples of AI That You&#39;re Already Using Every Day](https://dev.to/saaslyai/10-real-world-examples-of-ai-that-youre-already-using-every-day-31o4)
-- [Angular 21 is Here: Real Features That Actually Improve Your Daily Workflow](https://dev.to/mmourouh/angular-21-is-here-real-features-that-actually-improve-your-daily-workflow-ogk)
+- [Migrating from Cloud WAF to Self-Hosted SafeLine: A Practical Guide](https://dev.to/carrie_luo1/migrating-from-cloud-waf-to-self-hosted-safeline-a-practical-guide-2f0d)
+- [I built &#39;EarthquakeToday,&#39; a 24/7 multi-platform bot in Python. In its first month, it&#39;s served 3k visitors.](https://dev.to/stepnalien/i-built-earthquaketoday-a-247-multi-platform-bot-in-python-in-its-first-month-its-served-3k-3ob7)
+- [Flexible Flask Endpoints for Hierarchical Local News on SuburbStory](https://dev.to/roberttidball/flexible-flask-endpoints-for-hierarchical-local-news-on-suburbstory-3dd8)
+- [GREAT READ!](https://dev.to/angel1130la/great-read-ofm)
+- [Apache Spark vs Apache Hadoop—10 Crucial Differences &lpar;2025&rpar;](https://dev.to/chaos-genius/apache-spark-vs-apache-hadoop-10-crucial-differences-2025-27l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
