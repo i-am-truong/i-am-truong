@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Full Online Notepad Using Vibe Coding — Without Knowing How to Code](https://dev.to/wayne_cooper_e4d59c24c355/how-i-built-a-full-online-notepad-using-vibe-coding-without-knowing-how-to-code-2n94)
-- [🚀 Junior Devs Aren&#39;t Disappearing—They&#39;re Just Getting Started](https://dev.to/tlorent/junior-devs-arent-disappearing-theyre-just-getting-started-5fob)
-- [LANGUAGE MODELS USING MLP &lpar;Part 1&rpar;](https://dev.to/blackbidz/language-models-using-mlp-part-1-39bd)
-- [A Practical Guide to Building AI Agents with Java and Spring AI - Part 3 - Add Knowledge](https://dev.to/yuriybezsonov/a-practical-guide-to-building-ai-agents-with-java-and-spring-ai-part-3-add-knowledge-5fa0)
-- [AI Guardrails: A Comprehensive Guide from Basic to Advanced Implementation](https://dev.to/techstuff/ai-guardrails-a-comprehensive-guide-from-basic-to-advanced-implementation-39jk)
+- [Digital Zoom vs. Cropping: Are They the Same Thing?](https://dev.to/raafe_asad/digital-zoom-vs-cropping-are-they-the-same-thing-58fh)
+- [The magic of auto-fit and auto-fill &lpar;and the difference between them&rpar;](https://dev.to/mahbubur001/the-magic-of-auto-fit-and-auto-fill-and-the-difference-between-them-592c)
+- [MachineTranslation.com Rolls Out SMART: One Consistent Translation Backed by Multiple AI Engines](https://dev.to/naitsirhc/machinetranslationcom-rolls-out-smart-one-consistent-translation-backed-by-multiple-ai-engines-i11)
+- [How to implement dynamic data preloading through backend pagination prefetching?](https://dev.to/harmonyos/how-to-implement-dynamic-data-preloading-through-backend-pagination-prefetching-9n7)
+- [WTF is Reinforcement Learning from Human Feedback?](https://dev.to/dailybugle33/wtf-is-reinforcement-learning-from-human-feedback-246h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
