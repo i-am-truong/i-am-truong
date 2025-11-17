@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Achieve RAG in 15 Minutes: A Step-by-Step Agentforce Data Library Tutorial](https://dev.to/hemantj/achieve-rag-in-15-minutes-a-step-by-step-agentforce-data-library-tutorial-42de)
 - [Exploring Git by Building My Own Minimal Version Control System](https://dev.to/ironrinox/exploring-git-by-building-my-own-minimal-version-control-system-5591)
 - [Build a Calorie Estimation App With Vision Agents](https://dev.to/emmanuelthecoder/build-a-calorie-estimation-app-with-vision-agents-750)
-- [How to Generate Video Schema for Any YouTube Video Automatically](https://dev.to/websitedeveloper/how-to-generate-video-schema-for-any-youtube-video-automatically-4jfe)
-- [How to SSH Into a VirtualBox Ubuntu VM From Windows - Password Authentication &lpar;Step-By-Step Guide&rpar;](https://dev.to/kevin_suchetan_6f9d783b4f/how-to-ssh-into-a-virtualbox-ubuntu-vm-from-windows-password-authentication-step-by-step-guide-3843)
-- [How to Successfully Migrate Your App with an AI Agent](https://dev.to/blockopensource/how-to-successfully-migrate-your-app-with-an-ai-agent-26o7)
+- [WinInsTool.](https://dev.to/iinitialb/wininstool-3ak3)
+- [Ensuring No Prior Art Is Overlooked: Thorough Prior Art Search Techniques](https://dev.to/patentscanai/ensuring-no-prior-art-is-overlooked-thorough-prior-art-search-techniques-2oa7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
