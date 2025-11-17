@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-15fh)
-- [How to Write Your Own Static File Server in Pure Node.js](https://dev.to/aryan015/how-to-write-your-own-static-file-server-in-pure-nodejs-486k)
-- [Transformers: The Magic Engine Behind ChatGPT, Gemini &amp; Every Modern AI Model!](https://dev.to/pavanbelagatti/transformers-the-magic-engine-behind-chatgpt-gemini-every-modern-ai-model-5abk)
-- [India’s Leading AI Development Companies: Top 20 List — Explore India’s top AI firms delivering smart, scalable solutions. InnovationM is listed among the top 5. Full post: https://www.innovationm.com/blog/top-10-ai-development-companies-in-india-2025/](https://dev.to/kritikasharma09/indias-leading-ai-development-companies-top-20-list-explore-indias-top-ai-firms-delivering-mj7)
-- [Building a Brand That Reflects Your Commitment to Ethical Tech Practices: Why Integrity Is Your New Competitive Edge](https://dev.to/okoye_ndidiamaka_5e3b7d30/building-a-brand-that-reflects-your-commitment-to-ethical-tech-practices-why-integrity-is-your-new-5hj3)
+- [How I Built a Full Online Notepad Using Vibe Coding — Without Knowing How to Code](https://dev.to/wayne_cooper_e4d59c24c355/how-i-built-a-full-online-notepad-using-vibe-coding-without-knowing-how-to-code-2n94)
+- [🚀 Junior Devs Aren&#39;t Disappearing—They&#39;re Just Getting Started](https://dev.to/tlorent/junior-devs-arent-disappearing-theyre-just-getting-started-5fob)
+- [LANGUAGE MODELS USING MLP &lpar;Part 1&rpar;](https://dev.to/blackbidz/language-models-using-mlp-part-1-39bd)
+- [A Practical Guide to Building AI Agents with Java and Spring AI - Part 3 - Add Knowledge](https://dev.to/yuriybezsonov/a-practical-guide-to-building-ai-agents-with-java-and-spring-ai-part-3-add-knowledge-5fa0)
+- [AI Guardrails: A Comprehensive Guide from Basic to Advanced Implementation](https://dev.to/techstuff/ai-guardrails-a-comprehensive-guide-from-basic-to-advanced-implementation-39jk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
