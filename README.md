@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Build Confidence in n8n. Your Entry Point to AI Driven Automations](https://dev.to/rijultp/build-confidence-in-n8n-your-entry-point-to-ai-driven-automations-a3n)
-- [Why I Started Paying Attention to the Small Stuff Again](https://dev.to/evanmarlowe/why-i-started-paying-attention-to-the-small-stuff-again-38hp)
-- [Understanding related_name in Django &lpar;With Clear Examples&rpar;](https://dev.to/guzmanojero/understanding-relatedname-in-django-with-clear-examples-2em5)
-- [When the Tool Improves Itself: What Recursive Self-Improvement Feels Like From the Inside](https://dev.to/izzyfuller/when-the-tool-improves-itself-what-recursive-self-improvement-feels-like-from-the-inside-4a6h)
-- [Apache Dev Mail Digest: Iceberg &amp; Polaris &lpar;Nov 12–17, 2025&rpar;](https://dev.to/alexmercedcoder/apache-dev-mail-digest-iceberg-polaris-nov-12-17-2025-2gpd)
+- [KI zeigt nicht die Zukunft des Marketings. Sie zeigt den Zustand der Branche.](https://dev.to/jens_r_4ac124fba483a5d950/ki-zeigt-nicht-die-zukunft-des-marketings-sie-zeigt-den-zustand-der-branche-122h)
+- [LuminoraCore v1.1: Your AI Memory That Actually Travels 🧠✨](https://dev.to/rulyaltamirano/luminoracore-v11-your-ai-memory-that-actually-travels-1e4c)
+- [Hunting TTPs for the EVALUSION ClickFix Campaign Delivering Amatera Stealer &amp; NetSupport RAT](https://dev.to/jenapuneet/hunting-ttps-for-the-evalusion-clickfix-campaign-delivering-amatera-stealer-netsupport-rat-22j4)
+- [How we built Hermes - a military-grade encryption tool that&#39;s ready for the quantum computing era](https://dev.to/chronocoders/how-we-built-hermes-a-military-grade-encryption-tool-thats-ready-for-the-quantum-computing-era-10b5)
+- [Setup Hashicorp Vault + Vault Agent on Docker Compose](https://dev.to/tjuliu/setup-hashicorp-vault-vault-agent-on-docker-compose-4af0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
