@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Digital Zoom vs. Cropping: Are They the Same Thing?](https://dev.to/raafe_asad/digital-zoom-vs-cropping-are-they-the-same-thing-58fh)
-- [The magic of auto-fit and auto-fill &lpar;and the difference between them&rpar;](https://dev.to/mahbubur001/the-magic-of-auto-fit-and-auto-fill-and-the-difference-between-them-592c)
-- [MachineTranslation.com Rolls Out SMART: One Consistent Translation Backed by Multiple AI Engines](https://dev.to/naitsirhc/machinetranslationcom-rolls-out-smart-one-consistent-translation-backed-by-multiple-ai-engines-i11)
-- [How to implement dynamic data preloading through backend pagination prefetching?](https://dev.to/harmonyos/how-to-implement-dynamic-data-preloading-through-backend-pagination-prefetching-9n7)
-- [WTF is Reinforcement Learning from Human Feedback?](https://dev.to/dailybugle33/wtf-is-reinforcement-learning-from-human-feedback-246h)
+- [Retries and Hedges: Calming the Tail](https://dev.to/miller-28/retries-and-hedges-calming-the-tail-ima)
+- [Using CTEs When Your ORM Says No &lpar;The Lazy Developer&#39;s Survival Guide&rpar;](https://dev.to/pascal_cescato_692b7a8a20/using-ctes-when-your-orm-says-no-the-lazy-developers-survival-guide-2e24)
+- [Building Better on AWS: A Practical Guide to the Well-Architected Framework](https://dev.to/sauveer_ketan/building-better-on-aws-a-practical-guide-to-the-well-architected-framework-1l2p)
+- [Master JavaScript: Complete Guide for Beginners with Examples](https://dev.to/suraj_kumar_fb57ae0928df2/master-javascript-complete-guide-for-beginners-with-examples-309d)
+- [Liman Mail Ayarları](https://dev.to/aciklab/liman-mail-ayarlari-3351)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
