@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Smarter Property Valuation Systems: How Modern AVMs Work Under the Hood](https://dev.to/shivang_shuklataazaa_b46/building-smarter-property-valuation-systems-how-modern-avms-work-under-the-hood-2bo6)
 - [How a young entrepreneur named Abhay Aditya Jain is re-writing the rules of the AI web](https://dev.to/okabarack/how-a-young-entrepreneur-named-abhay-aditya-jain-is-re-writing-the-rules-of-the-ai-web-53fi)
 - [Controlling Kubernetes Network Traffic – Part 1](https://dev.to/aws-builders/controlling-kubernetes-network-traffic-part-1-1i0)
+- [Using Ansible File Module to Manage Files &amp; Directories](https://dev.to/spacelift/using-ansible-file-module-to-manage-files-directories-di3)
 - [Playwright MCP Servers Explained: Automation and Testing](https://dev.to/debs_obrien/playwright-mcp-servers-explained-automation-and-testing-4mo0)
-- [Babylon.js vs Three.js: The 360 Technical Comparison for Production Workloads](https://dev.to/devin-rosario/babylonjs-vs-threejs-the-360deg-technical-comparison-for-production-workloads-2fn6)
-- [I Applied to 247 Jobs Before I Realized I Was Doing It All Wrong](https://dev.to/ng_zixuan_99b5a15db5490e/i-applied-to-247-jobs-before-i-realized-i-was-doing-it-all-wrong-d0p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
