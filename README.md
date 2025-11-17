@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My React template](https://dev.to/tkorakas/my-react-template-ho4)
+- [Building a Custom TypeScript Client for Your REST API](https://dev.to/__c75487cfa/building-a-custom-typescript-client-for-your-rest-api-ahb)
+- [Tired of Rails one-off scripts becoming a nightmare? I built something for that.](https://dev.to/a_abdellatif/tired-of-rails-one-off-scripts-becoming-a-nightmare-i-built-something-for-that-5fcb)
 - [The Hidden AI Tax on Tech Debt](https://dev.to/bwca/the-hidden-ai-tax-on-tech-debt-4k10)
 - [How to scrape websites that Selenium or Playwright can&#39;t](https://dev.to/patfinder/how-to-scrape-website-that-selenium-or-playwright-cant-4cfa)
-- [AI SDLC Transformation — Part 2: How to Measure Impact &lpar;and Avoid Vanity Metrics&rpar;](https://dev.to/ogasimov/ai-sdlc-transformation-part-2-how-to-measure-impact-and-avoid-vanity-metrics-1d2m)
-- [Influencer Marketing in 2025: Beyond the Follower Count Theater](https://dev.to/synergistdigitalmedia/influencer-marketing-in-2025-beyond-the-follower-count-theater-1lf1)
-- [🛒 A COMPLETE CUSTOMER SHOPPING FEEDBACK SYSTEM](https://dev.to/engripaye/a-complete-customer-shopping-feedback-system-kkf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
