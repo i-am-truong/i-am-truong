@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Open-sourcing a Laravel SaaS Starter: Stripe Billing, Teams &amp; Horizon &lpar;Copy-Paste Setup&rpar;](https://dev.to/budventure_technologies_5/open-sourcing-a-laravel-saas-starter-stripe-billing-teams-horizon-copy-paste-setup-385a)
+- [Getting Started With Hugging Face Transformers](https://dev.to/richard_abishai/getting-started-with-hugging-face-transformers-14gh)
+- [Mastering Go profiling](https://dev.to/vplatonov/mastering-go-profiling-3fi3)
 - [The Project Pipeline: Why We Celebrate Delivery Instead of Value Delivered](https://dev.to/j4s0nc/the-project-pipeline-why-we-celebrate-delivery-instead-of-value-delivered-jdj)
-- [Database Schemas: Star Schema vs. Snowflake Schema and Choosing the Right Data Warehouse Design](https://dev.to/ed_j_wanjama/database-schemas-star-schema-vs-snowflake-schema-and-choosing-the-right-data-warehouse-design-593l)
-- [The Fastest and Cleanest Way to Convert PDF Bank Statements to Excel, XML, CSV, QIF, OFX](https://dev.to/nuhayd_shaik_68ee737ef605/the-fastest-and-cleanest-way-to-convert-pdf-bank-statements-to-excel-xml-csv-qif-ofx-2ne6)
-- [Why Both Startup Code and Legacy Systems Need Code Context — And How LLMs + CodeDoc Make It Possible](https://dev.to/notadevbuthere/why-both-startup-code-and-legacy-systems-need-code-context-and-how-llms-codedoc-make-it-possible-19e1)
-- [How Machine Learning in Cars is Changing Driving Forever](https://dev.to/sohan_lal_241c2d80b2705e7/how-machine-learning-in-cars-is-changing-driving-forever-4fp3)
+- [Password Generators: Why You Need to Use Them](https://dev.to/sagar_sajwan_a91beb41c861/password-generators-why-you-need-to-use-them-5037)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
