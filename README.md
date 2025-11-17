@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🎯 Predict Markets Like a FAANG Data Scientist: 3 ML Models That Outperform MBA Analysts](https://dev.to/igornosatov_15/predict-markets-like-a-faang-data-scientist-3-ml-models-that-outperform-mba-analysts-559k)
-- [React for Total Beginners](https://dev.to/buchilazarus4/react-for-total-beginners-13m7)
-- [🌱 My Coding Journey: Small Steps, Simple Projects, and Steady Progress](https://dev.to/olivia_roseparker_b7261e/my-coding-journey-small-steps-simple-projects-and-steady-progress-1ni7)
-- [Migrating Metabase Content Between Instances: A Production-Ready Solution for Data Teams](https://dev.to/_p_m_d_/migrating-metabase-content-between-instances-a-production-ready-solution-for-data-teams-3d0n)
-- [Errors in my Next.js Project](https://dev.to/tiberiu_mihai/errors-in-my-nextjs-project-46fg)
+- [Introduction to Swarm: an extensible Typescript code generation framework](https://dev.to/genyus/introduction-to-swarm-an-extensible-typescript-code-generation-framework-50p0)
+- [Introduction to Swarm: Building full-stack apps with Wasp](https://dev.to/genyus/introduction-to-swarm-building-full-stack-apps-with-wasp-1nc5)
+- [Command Line for Total Beginners](https://dev.to/buchilazarus4/command-line-for-total-beginners-efa)
+- [I built a free NFL player guessing game — need feedback!](https://dev.to/dota_don_03ef3dc1ffd2a934/i-built-a-free-nfl-player-guessing-game-need-feedback-5c9m)
+- [[Boost]](https://dev.to/klaudia_kovov_bf17561f/-a7j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
