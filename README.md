@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Install Node.js and Android Development Tools on a Custom Drive in Windows](https://dev.to/k-kibet/how-to-install-nodejs-and-android-development-tools-on-a-custom-drive-in-windows-2fmc)
-- [Small Beats Big: Baidu’s Open AI Reads Docs, Charts, and Video—Fast and Lean](https://dev.to/aiwithapex/small-beats-big-baidus-open-ai-reads-docs-charts-and-video-fast-and-lean-2ol2)
-- [Sustainable Fashion in the Modern World](https://dev.to/mariamrankhive/sustainable-fashion-in-the-modern-world-2hm0)
-- [Built a Framework for AI Coding Assistants in Multi-Repo Projects &lpar;and You Can Use It&rpar;](https://dev.to/kiwibreaksme/built-a-framework-for-ai-coding-assistants-in-multi-repo-projects-and-you-can-use-it-44f7)
-- [Built a Framework for AI Coding Assistants in Multi-Repo Projects &lpar;and You Can Use It&rpar;](https://dev.to/kiwibreaksme/built-a-framework-for-ai-coding-assistants-in-multi-repo-projects-and-you-can-use-it-2d7b)
+- [When React’s Philosophy Isn’t Enough and Data Attributes Save the Day](https://dev.to/mrezanahi_f133292cb4695d/when-reacts-philosophy-isnt-enough-and-data-attributes-save-the-day-5dpi)
+- [Building a Production-Ready AI ChatBot Platform with Real-Time Analytics](https://dev.to/vivekyadav200988/building-a-production-ready-ai-chatbot-platform-with-real-time-analytics-4ioe)
+- [From Specs to Spooky: Using Kiro to Build My AI Psychic Hotline](https://dev.to/hulyamasharipov/from-specs-to-spooky-using-kiro-to-build-my-ai-psychic-hotline-3552)
+- [Pagination in flutter](https://dev.to/niranjantk_8a74072f217dbe/pagination-in-flutter-34pk)
+- [Unified Data Management Platform: The Smartest Way to Control, Connect &amp; Grow Your Data](https://dev.to/infoveave/unified-data-management-platform-the-smartest-way-to-control-connect-grow-your-data-15fi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
