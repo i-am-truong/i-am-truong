@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Both Startup Code and Legacy Systems Need Code Context — And How LLMs + CodeDoc Make It Possible](https://dev.to/notadevbuthere/why-both-startup-code-and-legacy-systems-need-code-context-and-how-llms-codedoc-make-it-possible-19e1)
+- [How Machine Learning in Cars is Changing Driving Forever](https://dev.to/sohan_lal_241c2d80b2705e7/how-machine-learning-in-cars-is-changing-driving-forever-4fp3)
 - [From Frozen Funds to Freedom | PayRam’s Permissionless Commerce Stack Is Replacing Custodial Crypto Checkouts](https://dev.to/ibrahimpima/from-frozen-funds-to-freedom-payrams-permissionless-commerce-stack-is-replacing-custodial-crypto-36eh)
 - [Why is a secure PDF manipulation tool essential?](https://dev.to/mcagriaksoy/we-need-a-safe-pdf-manipulation-tool-1918)
 - [Learn Miniscript in Y Minutes](https://dev.to/kartik_patel/learn-miniscript-in-y-minutes-1n50)
-- [Running Local AI on Linux With GPU: Ollama + Open WebUI + Gemma](https://dev.to/lovestaco/running-local-ai-on-linux-with-gpu-ollama-open-webui-gemma-546h)
-- [Docker storage drivers](https://dev.to/meghasharmaaaa/docker-storage-drivers-4a75)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
