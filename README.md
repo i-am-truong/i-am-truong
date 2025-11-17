@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with CIDR and Subnetting in AWS](https://dev.to/irfansatrio/getting-started-with-cidr-and-subnetting-in-aws-1cb9)
 - [When React’s Philosophy Isn’t Enough and Data Attributes Save the Day](https://dev.to/mrezanahi_f133292cb4695d/when-reacts-philosophy-isnt-enough-and-data-attributes-save-the-day-5dpi)
 - [Building a Production-Ready AI ChatBot Platform with Real-Time Analytics](https://dev.to/vivekyadav200988/building-a-production-ready-ai-chatbot-platform-with-real-time-analytics-4ioe)
 - [From Specs to Spooky: Using Kiro to Build My AI Psychic Hotline](https://dev.to/hulyamasharipov/from-specs-to-spooky-using-kiro-to-build-my-ai-psychic-hotline-3552)
 - [Pagination in flutter](https://dev.to/niranjantk_8a74072f217dbe/pagination-in-flutter-34pk)
-- [Unified Data Management Platform: The Smartest Way to Control, Connect &amp; Grow Your Data](https://dev.to/infoveave/unified-data-management-platform-the-smartest-way-to-control-connect-grow-your-data-15fi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
