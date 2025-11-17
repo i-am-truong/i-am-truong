@@ -81,10 +81,10 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Create a Text Editor in Go - A Text Editor](https://dev.to/alcb1310/create-a-text-editor-in-go-a-text-editor-1m83)
+- [If I have to start again, I will use Free AI tools instead of premium. Here is why:](https://dev.to/jaideepparashar/if-i-have-to-start-again-i-will-use-free-ai-tools-instead-of-premium-here-is-why-im0)
 - [The Best Free Tools I Use to Run an AI-Driven Business](https://dev.to/jaideepparashar/the-best-free-tools-i-use-to-run-an-ai-driven-business-4abn)
-- [Andrew Huang: S4 2.0 is one of the most inspiring tools I&#39;ve used](https://dev.to/music_youtube/andrew-huang-s4-20-is-one-of-the-most-inspiring-tools-ive-used-33cd)
 - [Meta-Authors Note: Codie&#39;s Cognitive Chronicals](https://dev.to/izzyfuller/meta-authors-note-codies-cognitive-chronicals-2kg2)
-- [Trash Theory: Exploring Tricky &amp; Maxinquaye: The 90s Bowie? | New British Canon](https://dev.to/music_youtube/trash-theory-exploring-tricky-maxinquaye-the-90s-bowie-new-british-canon-16ed)
 - [AMAZON WEB SERVICES](https://dev.to/techwithazaria/amazon-web-services-2f65)
 <!-- BLOG-POST-LIST:END -->
 
