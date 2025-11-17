@@ -81,10 +81,10 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Enable Storyblok Visual Editor in Production?](https://dev.to/jacobandrewsky/how-to-enable-storyblok-visual-editor-in-production-34kf)
 - [Introduction to Swarm: an extensible Typescript code generation framework](https://dev.to/genyus/introduction-to-swarm-an-extensible-typescript-code-generation-framework-50p0)
 - [Introduction to Swarm: Building full-stack apps with Wasp](https://dev.to/genyus/introduction-to-swarm-building-full-stack-apps-with-wasp-1nc5)
 - [Command Line for Total Beginners](https://dev.to/buchilazarus4/command-line-for-total-beginners-efa)
-- [I built a free NFL player guessing game — need feedback!](https://dev.to/dota_don_03ef3dc1ffd2a934/i-built-a-free-nfl-player-guessing-game-need-feedback-5c9m)
 - [[Boost]](https://dev.to/klaudia_kovov_bf17561f/-a7j)
 <!-- BLOG-POST-LIST:END -->
 
