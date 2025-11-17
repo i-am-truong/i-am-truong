@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [deboa, a simple http client for rust](https://dev.to/rogrio_arajo_55dae16f0d/deboa-a-simple-http-client-for-rust-2758)
+- [Customer Experience Design: Why Your Friction Map Matters More Than Your Journey Map](https://dev.to/synergistdigitalmedia/customer-experience-design-why-your-friction-map-matters-more-than-your-journey-map-5gbj)
+- [The Unseen Code: When Medical AI Reveals More Than Medicine by Arvind Sundararajan](https://dev.to/arvind_sundararajan/the-unseen-code-when-medical-ai-reveals-more-than-medicine-by-arvind-sundararajan-11on)
 - [Marketing Automation Tools: What Actually Works When You&#39;re Not an Enterprise](https://dev.to/synergistdigitalmedia/marketing-automation-tools-what-actually-works-when-youre-not-an-enterprise-1mf1)
 - [Learning Rust: Custom Error types that actually work!](https://dev.to/darkosubotica/learning-rust-custom-error-types-that-actually-work-4n03)
-- [Django Deployment : Day 14](https://dev.to/stackbento/django-deployment-day-14-mbd)
-- [Building a Para MCP Server + Next.js Wallet Demo &lpar;with Kiro + MCP&rpar;](https://dev.to/kirodotdev/building-a-para-mcp-server-nextjs-wallet-demo-with-kiro-mcp-56j1)
-- [Next.js Weekly #108: React Email 5, Better Upload, Error Boundary, Anti-Vendor-Lock-In, StyleX, PWA App Icons in Next.js 16](https://dev.to/erfanebrahimnia/nextjs-weekly-108-react-email-5-better-upload-error-boundary-anti-vendor-lock-in-stylex-pwa-1pfj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
