@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Music Monday &lpar;Anything goes!&rpar;](https://dev.to/musicforem/music-monday-anything-goes-371g)
-- [My Biggest Mistake as a New Coder &lpar;Nobody Warned Me&rpar;](https://dev.to/canro91/my-biggest-mistake-as-a-new-coder-nobody-warned-me-1g55)
-- [When Phoenix LiveView is the wrong choice](https://dev.to/devbrett-dot-com/choosing-phoenix-liveview-1o88)
-- [Create a Text Editor in Go - A Text Editor](https://dev.to/alcb1310/create-a-text-editor-in-go-a-text-editor-1m83)
-- [If I have to start again, I will use Free AI tools instead of premium. Here is why:](https://dev.to/jaideepparashar/if-i-have-to-start-again-i-will-use-free-ai-tools-instead-of-premium-here-is-why-im0)
+- [Data Warehouse vs Data Lake vs Data Lakehouse: Technical Guide &lpar;2025&rpar;](https://dev.to/chaos-genius/data-warehouse-vs-data-lake-vs-data-lakehouse-technical-guide-2025-3hg2)
+- [🚀 Introduction to Git Worktree &lpar;With Oh My Zsh Aliases&rpar;](https://dev.to/prakh_r/introduction-to-git-worktree-with-oh-my-zsh-aliases-27lp)
+- [From Development to Production: A Complete Guide to Deploying Node.js Applications on Google Cloud](https://dev.to/k-kibet/from-development-to-production-a-complete-guide-to-deploying-nodejs-applications-on-google-cloud-1cg1)
+- [From Chaos to Control: &#39;Good Enough&#39; AI Planning is Redefining Efficiency by Arvind Sundararajan](https://dev.to/arvind_sundararajan/from-chaos-to-control-good-enough-ai-planning-is-redefining-efficiency-by-arvind-sundararajan-6d2)
+- [How to Host Your Website with Namecheap Domain and Render: A Complete Guide with Free SSL](https://dev.to/k-kibet/how-to-host-your-website-with-namecheap-domain-and-render-a-complete-guide-with-free-ssl-5516)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
