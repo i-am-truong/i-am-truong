@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What are your goals for the week? #153](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-153-1cgi)
-- [AI Guardrails: Beyond Prompt Engineering to Deliver Trustworthy LLM Answers](https://dev.to/zeroshotanu/ai-guardrails-beyond-prompt-engineering-to-deliver-trustworthy-llm-answers-kp1)
-- [Architecting for Speed &amp; Safety: How We 2x&#39;d Dev Velocity with ts-rest and Next.js API &lpar;and supercharged our AI copilot&rpar;](https://dev.to/vevarunsharma/architecting-for-speed-safety-how-we-2xd-dev-velocity-with-ts-rest-and-nextjs-api-and-56nb)
-- [CloudFormation Hooks: Lambda hooks con anotaciones granulares &lpar;en español sencillo&rpar;](https://dev.to/pangoro24/cloudformation-hooks-lambda-hooks-con-anotaciones-granulares-en-espanol-sencillo-4739)
-- [Patrol: The Flutter Testing Framework That Changes Everything](https://dev.to/hiteshm_devapp/patrol-the-flutter-testing-framework-that-changes-everything-3nb6)
+- [[Boost]](https://dev.to/anthonymax/-1ngi)
+- [Major module update!](https://dev.to/hmpljs/major-module-update-31p5)
+- [New fav claude CLI commands, /primer &amp; /wrap-up](https://dev.to/nick_porter_0cfcbc03e871f/new-fav-claude-cli-commands-primer-wrap-up-59i4)
+- [Context Engineering: The Critical Infrastructure challenge in Production LLM systems](https://dev.to/siddhantkcode/context-engineering-the-critical-infrastructure-challenge-in-production-llm-systems-4id0)
+- [How to use Prisma with Bun](https://dev.to/aidankmcalister/how-to-use-prisma-with-bun-5624)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
