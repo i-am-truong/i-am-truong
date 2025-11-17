@@ -81,17 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Utilize another telemetry data for faster improvement with AI agent](https://dev.to/awsugonair/utilize-another-telemetry-data-for-faster-improvement-with-ai-agent-41h2)
-- [I Had 10 Minutes to Fix a Broken PDF Before My Client Demo](https://dev.to/bryan_collins_abcd0214d94/i-had-10-minutes-to-fix-a-broken-pdf-before-my-client-demo-35k2)
-- [Graduating from Vibe Coding: Spec‑Driven Development with Kiro](https://dev.to/aws-builders/graduating-from-vibe-coding-spec-driven-development-with-kiro-gb8)
-- [Design Review Checklist 📋](https://dev.to/stoft/design-review-checklist-4cl5)
-- [I’ll be honest with you:
-I didn’t wake up one morning thinking “Let me reverse-engineer TikTok today.”
-
-It started with something much simpler:
-
-“I just want to upload videos to TikTok programmatically…
-why is this so damn hard?”](https://dev.to/mrzaizai2k/ill-be-honest-with-you-i-didnt-wake-up-one-morning-thinking-let-me-reverse-engineer-tiktok-1pbg)
+- [Weekly #46-2025: Laravel Live Japan, Billion-Scale Architecture, AI-Ready Repos &amp; Rethinking Software Progress](https://dev.to/weekly/weekly-46-2025-laravel-live-japan-billion-scale-architecture-ai-ready-repos-rethinking-3ljc)
+- [Spring Data JPA Best Practices: Repositories Design Guide](https://dev.to/protsenko/spring-data-jpa-best-practices-repositories-design-guide-2f6j)
+- [How much does a website cost in 2026? A practical counterpoint &amp; updated budget perspective](https://dev.to/polyapolza108/how-much-does-a-website-cost-in-2026-a-practical-counterpoint-updated-budget-perspective-d0a)
+- [I am seeing so many posts on Google Gemini Code Wiki. But https://deepwiki.org/ has been around for quiet some time now.](https://dev.to/cvipuls/i-am-seeing-so-many-posts-on-google-gemini-code-wiki-but-httpsdeepwikiorg-has-been-around-for-ma5)
+- [The Final Stage of Babel — What Comes After the Collapse of Code](https://dev.to/miller-28/the-final-stage-of-babel-what-comes-after-the-collapse-of-code-1h88)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
