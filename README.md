@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Enable Storyblok Visual Editor in Production?](https://dev.to/jacobandrewsky/how-to-enable-storyblok-visual-editor-in-production-34kf)
-- [Introduction to Swarm: an extensible Typescript code generation framework](https://dev.to/genyus/introduction-to-swarm-an-extensible-typescript-code-generation-framework-50p0)
-- [Introduction to Swarm: Building full-stack apps with Wasp](https://dev.to/genyus/introduction-to-swarm-building-full-stack-apps-with-wasp-1nc5)
-- [Command Line for Total Beginners](https://dev.to/buchilazarus4/command-line-for-total-beginners-efa)
-- [[Boost]](https://dev.to/klaudia_kovov_bf17561f/-a7j)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-15fh)
+- [How to Write Your Own Static File Server in Pure Node.js](https://dev.to/aryan015/how-to-write-your-own-static-file-server-in-pure-nodejs-486k)
+- [Transformers: The Magic Engine Behind ChatGPT, Gemini &amp; Every Modern AI Model!](https://dev.to/pavanbelagatti/transformers-the-magic-engine-behind-chatgpt-gemini-every-modern-ai-model-5abk)
+- [India’s Leading AI Development Companies: Top 20 List — Explore India’s top AI firms delivering smart, scalable solutions. InnovationM is listed among the top 5. Full post: https://www.innovationm.com/blog/top-10-ai-development-companies-in-india-2025/](https://dev.to/kritikasharma09/indias-leading-ai-development-companies-top-20-list-explore-indias-top-ai-firms-delivering-mj7)
+- [Building a Brand That Reflects Your Commitment to Ethical Tech Practices: Why Integrity Is Your New Competitive Edge](https://dev.to/okoye_ndidiamaka_5e3b7d30/building-a-brand-that-reflects-your-commitment-to-ethical-tech-practices-why-integrity-is-your-new-5hj3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
