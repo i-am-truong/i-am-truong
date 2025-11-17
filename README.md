@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Surprisingly Great Tool for Multi‑Cloud Storage – RcloneView Review](https://dev.to/rabbitjumping/a-surprisingly-great-tool-for-multi-cloud-storage-rcloneview-review-3hm4)
-- [Garbage Collection](https://dev.to/eachampagne/garbage-collection-43nk)
-- [I built a code review platform without subscriptions](https://dev.to/sousvidal/i-built-a-code-review-platform-without-subscriptions-36eg)
-- [What font `2600` magazine uses ?](https://dev.to/socar/what-font-2600-magazine-uses--2c97)
-- [How to Think About Games: Unreal Engine](https://dev.to/opbright/how-to-think-about-games-unreal-engine-2l83)
+- [Migrating Media Libraries to Content Hub in Xperience by Kentico – My Real Project Experience](https://dev.to/pawansharmaggc/migrating-media-libraries-to-content-hub-in-xperience-by-kentico-my-real-project-experience-5d53)
+- [ClickHouse: The Good, The Bad, and The Ugly](https://dev.to/lindesvard/clickhouse-the-good-the-bad-and-the-ugly-2pi7)
+- [How SkillHunt Uses Telegram for Faster Job Search](https://dev.to/m_midas/how-skillhunt-uses-telegram-for-faster-job-search-8g8)
+- [🚀 Stop Fighting Alembic — FastAPI &amp; Flask Migrations Can Finally Be as Simple as Django.](https://dev.to/adelodunpeter/stop-fighting-alembic-fastapi-flask-migrations-can-finally-be-as-simple-as-django-1d9k)
+- [Embedded Systems &amp; Electronics in 2025: Key Trends and What Really Changed](https://dev.to/danie_brooks_dc7a891322b3/embedded-systems-electronics-in-2025-key-trends-and-what-really-changed-238j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
