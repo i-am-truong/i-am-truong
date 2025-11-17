@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Guide to High-Performance Web Animations](https://dev.to/nipundinuranga/the-ultimate-guide-to-high-performance-web-animations-36dp)
-- [semantic-release : quand la CI gère nos versions à notre place](https://dev.to/jpiazzal/semantic-release-quand-la-ci-gere-nos-versions-a-notre-place-2nd7)
-- [Black Weeks. The big 50% is here.](https://dev.to/mike_andreuzza/black-weeks-the-big-50-is-here-d6k)
-- [Building Tantrik — A Multi-Agent AI Halloween Chat Using Next.js, Flask &amp; Kiro](https://dev.to/deepak_negi_f1d64e7393000/building-tantrik-a-multi-agent-ai-halloween-chat-using-nextjs-flask-kiro-jgi)
-- [Sector HQ Weekly Digest - November 17, 2025](https://dev.to/sectorhqco/sector-hq-weekly-digest-november-17-2025-1aha)
+- [From Frozen Funds to Freedom | PayRam’s Permissionless Commerce Stack Is Replacing Custodial Crypto Checkouts](https://dev.to/ibrahimpima/from-frozen-funds-to-freedom-payrams-permissionless-commerce-stack-is-replacing-custodial-crypto-36eh)
+- [Why is a secure PDF manipulation tool essential?](https://dev.to/mcagriaksoy/we-need-a-safe-pdf-manipulation-tool-1918)
+- [Learn Miniscript in Y Minutes](https://dev.to/kartik_patel/learn-miniscript-in-y-minutes-1n50)
+- [Running Local AI on Linux With GPU: Ollama + Open WebUI + Gemma](https://dev.to/lovestaco/running-local-ai-on-linux-with-gpu-ollama-open-webui-gemma-546h)
+- [Docker storage drivers](https://dev.to/meghasharmaaaa/docker-storage-drivers-4a75)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
