@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 1268 : Wonder](https://dev.to/dwane/day-1268-wonder-19dm)
 - [How We Use AI to Speed Up Development &lpar;Without Sacrificing Quality&rpar;](https://dev.to/sociilabs/how-we-use-ai-to-speed-up-development-without-sacrificing-quality-1cjk)
+- [🌾 How I Built &amp; Deployed a Crop Yield Prediction API in the Cloud](https://dev.to/austin_deyan_6c9b2445aed6/how-i-built-deployed-a-crop-yield-prediction-api-in-the-cloud-o8h)
 - [deboa, a simple http client for rust](https://dev.to/rogrio_arajo_55dae16f0d/deboa-a-simple-http-client-for-rust-2758)
 - [Customer Experience Design: Why Your Friction Map Matters More Than Your Journey Map](https://dev.to/synergistdigitalmedia/customer-experience-design-why-your-friction-map-matters-more-than-your-journey-map-5gbj)
-- [The Unseen Code: When Medical AI Reveals More Than Medicine by Arvind Sundararajan](https://dev.to/arvind_sundararajan/the-unseen-code-when-medical-ai-reveals-more-than-medicine-by-arvind-sundararajan-11on)
-- [Marketing Automation Tools: What Actually Works When You&#39;re Not an Enterprise](https://dev.to/synergistdigitalmedia/marketing-automation-tools-what-actually-works-when-youre-not-an-enterprise-1mf1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
