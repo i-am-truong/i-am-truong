@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [John von Neumann and the Birth of Modern Computing](https://dev.to/toviszsolt/john-von-neumann-and-the-birth-of-modern-computing-4o64)
 - [Understanding the Language Behind Every Webpage - What HTML Is and Why It Exists](https://dev.to/theosnyman-dev/understanding-the-language-behind-every-webpage-what-html-is-and-why-it-exists-3jl7)
 - [Prompt Optimization: How to Write Prompts That Produce Predictable, Reliable Outputs](https://dev.to/devinfo/prompt-optimization-how-to-write-prompts-that-produce-predictable-reliable-outputs-18kn)
 - [Building a 3D Rotating Cube for a Shoe Store with HTML &amp; CSS](https://dev.to/devforge/building-a-3d-rotating-cube-for-a-shoe-store-with-html-css-4em5)
 - [[Boost]](https://dev.to/anthonymax/-1ngi)
-- [Major module update!](https://dev.to/hmpljs/major-module-update-31p5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
