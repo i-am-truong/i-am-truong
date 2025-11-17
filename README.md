@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Migrating Media Libraries to Content Hub in Xperience by Kentico – My Real Project Experience](https://dev.to/pawansharmaggc/migrating-media-libraries-to-content-hub-in-xperience-by-kentico-my-real-project-experience-5d53)
-- [ClickHouse: The Good, The Bad, and The Ugly](https://dev.to/lindesvard/clickhouse-the-good-the-bad-and-the-ugly-2pi7)
-- [How SkillHunt Uses Telegram for Faster Job Search](https://dev.to/m_midas/how-skillhunt-uses-telegram-for-faster-job-search-8g8)
-- [🚀 Stop Fighting Alembic — FastAPI &amp; Flask Migrations Can Finally Be as Simple as Django.](https://dev.to/adelodunpeter/stop-fighting-alembic-fastapi-flask-migrations-can-finally-be-as-simple-as-django-1d9k)
-- [Embedded Systems &amp; Electronics in 2025: Key Trends and What Really Changed](https://dev.to/danie_brooks_dc7a891322b3/embedded-systems-electronics-in-2025-key-trends-and-what-really-changed-238j)
+- [All Data and AI Weekly #216:17Nov2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-21617nov2025-2hl1)
+- [Kubernetes Isn&#39;t Your AI Bottleneck - It&#39;s Your Secret Weapon](https://dev.to/signadot/kubernetes-isnt-your-ai-bottleneck-its-your-secret-weapon-190j)
+- [My Question is](https://dev.to/iamompandey/my-question-is-4jcj)
+- [Web Frameworks Without Headaches: Choosing Your Weapon ⚔️🌐](https://dev.to/javadinteger/web-frameworks-without-headaches-choosing-your-weapon-3h1e)
+- [Boost Your LLM Apps with Monetzly: A New Era in Developer Revenue](https://dev.to/monetzly/boost-your-llm-apps-with-monetzly-a-new-era-in-developer-revenue-5232)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
