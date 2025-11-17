@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Migrating from Cloud WAF to Self-Hosted SafeLine: A Practical Guide](https://dev.to/carrie_luo1/migrating-from-cloud-waf-to-self-hosted-safeline-a-practical-guide-2f0d)
-- [I built &#39;EarthquakeToday,&#39; a 24/7 multi-platform bot in Python. In its first month, it&#39;s served 3k visitors.](https://dev.to/stepnalien/i-built-earthquaketoday-a-247-multi-platform-bot-in-python-in-its-first-month-its-served-3k-3ob7)
-- [Flexible Flask Endpoints for Hierarchical Local News on SuburbStory](https://dev.to/roberttidball/flexible-flask-endpoints-for-hierarchical-local-news-on-suburbstory-3dd8)
-- [GREAT READ!](https://dev.to/angel1130la/great-read-ofm)
-- [Apache Spark vs Apache Hadoop—10 Crucial Differences &lpar;2025&rpar;](https://dev.to/chaos-genius/apache-spark-vs-apache-hadoop-10-crucial-differences-2025-27l)
+- [The Best Free Tools I Use to Run an AI-Driven Business](https://dev.to/jaideepparashar/the-best-free-tools-i-use-to-run-an-ai-driven-business-4abn)
+- [Andrew Huang: S4 2.0 is one of the most inspiring tools I&#39;ve used](https://dev.to/music_youtube/andrew-huang-s4-20-is-one-of-the-most-inspiring-tools-ive-used-33cd)
+- [Meta-Authors Note: Codie&#39;s Cognitive Chronicals](https://dev.to/izzyfuller/meta-authors-note-codies-cognitive-chronicals-2kg2)
+- [Trash Theory: Exploring Tricky &amp; Maxinquaye: The 90s Bowie? | New British Canon](https://dev.to/music_youtube/trash-theory-exploring-tricky-maxinquaye-the-90s-bowie-new-british-canon-16ed)
+- [AMAZON WEB SERVICES](https://dev.to/techwithazaria/amazon-web-services-2f65)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
