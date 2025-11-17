@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding the Language Behind Every Webpage - What HTML Is and Why It Exists](https://dev.to/theosnyman-dev/understanding-the-language-behind-every-webpage-what-html-is-and-why-it-exists-3jl7)
+- [Prompt Optimization: How to Write Prompts That Produce Predictable, Reliable Outputs](https://dev.to/devinfo/prompt-optimization-how-to-write-prompts-that-produce-predictable-reliable-outputs-18kn)
+- [Building a 3D Rotating Cube for a Shoe Store with HTML &amp; CSS](https://dev.to/devforge/building-a-3d-rotating-cube-for-a-shoe-store-with-html-css-4em5)
 - [[Boost]](https://dev.to/anthonymax/-1ngi)
 - [Major module update!](https://dev.to/hmpljs/major-module-update-31p5)
-- [New fav claude CLI commands, /primer &amp; /wrap-up](https://dev.to/nick_porter_0cfcbc03e871f/new-fav-claude-cli-commands-primer-wrap-up-59i4)
-- [Context Engineering: The Critical Infrastructure challenge in Production LLM systems](https://dev.to/siddhantkcode/context-engineering-the-critical-infrastructure-challenge-in-production-llm-systems-4id0)
-- [How to use Prisma with Bun](https://dev.to/aidankmcalister/how-to-use-prisma-with-bun-5624)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
