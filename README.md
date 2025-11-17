@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Data Warehouse vs Data Lake vs Data Lakehouse: Technical Guide &lpar;2025&rpar;](https://dev.to/chaos-genius/data-warehouse-vs-data-lake-vs-data-lakehouse-technical-guide-2025-3hg2)
-- [🚀 Introduction to Git Worktree &lpar;With Oh My Zsh Aliases&rpar;](https://dev.to/prakh_r/introduction-to-git-worktree-with-oh-my-zsh-aliases-27lp)
-- [From Development to Production: A Complete Guide to Deploying Node.js Applications on Google Cloud](https://dev.to/k-kibet/from-development-to-production-a-complete-guide-to-deploying-nodejs-applications-on-google-cloud-1cg1)
-- [From Chaos to Control: &#39;Good Enough&#39; AI Planning is Redefining Efficiency by Arvind Sundararajan](https://dev.to/arvind_sundararajan/from-chaos-to-control-good-enough-ai-planning-is-redefining-efficiency-by-arvind-sundararajan-6d2)
-- [How to Host Your Website with Namecheap Domain and Render: A Complete Guide with Free SSL](https://dev.to/k-kibet/how-to-host-your-website-with-namecheap-domain-and-render-a-complete-guide-with-free-ssl-5516)
+- [How to Install Node.js and Android Development Tools on a Custom Drive in Windows](https://dev.to/k-kibet/how-to-install-nodejs-and-android-development-tools-on-a-custom-drive-in-windows-2fmc)
+- [Small Beats Big: Baidu’s Open AI Reads Docs, Charts, and Video—Fast and Lean](https://dev.to/aiwithapex/small-beats-big-baidus-open-ai-reads-docs-charts-and-video-fast-and-lean-2ol2)
+- [Sustainable Fashion in the Modern World](https://dev.to/mariamrankhive/sustainable-fashion-in-the-modern-world-2hm0)
+- [Built a Framework for AI Coding Assistants in Multi-Repo Projects &lpar;and You Can Use It&rpar;](https://dev.to/kiwibreaksme/built-a-framework-for-ai-coding-assistants-in-multi-repo-projects-and-you-can-use-it-44f7)
+- [Built a Framework for AI Coding Assistants in Multi-Repo Projects &lpar;and You Can Use It&rpar;](https://dev.to/kiwibreaksme/built-a-framework-for-ai-coding-assistants-in-multi-repo-projects-and-you-can-use-it-2d7b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
