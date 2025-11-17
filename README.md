@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Ultimate Guide to End-to-End Testing: Best Practices, Tools, and Insights](https://dev.to/alok_kumar_44670e79f96677/the-ultimate-guide-to-end-to-end-testing-best-practices-tools-and-insights-2aa8)
+- [SlimPDF - A Lightweight and Privacy-Friendly PDF Compressor](https://dev.to/rajinh24/slimpdf-a-lightweight-and-privacy-friendly-pdf-compressor-hnn)
+- [Conditional for beginners](https://dev.to/roghaye_mohammadi_84/conditional-for-beginners-4gfa)
+- [Make Your Agents Think Like a Maintainer: The Setup That Stops Bugs Early](https://dev.to/mike-at-redspace/make-your-agents-think-like-a-maintainer-the-setup-that-stops-bugs-early-343a)
 - [Open-sourcing a Laravel SaaS Starter: Stripe Billing, Teams &amp; Horizon &lpar;Copy-Paste Setup&rpar;](https://dev.to/budventure_technologies_5/open-sourcing-a-laravel-saas-starter-stripe-billing-teams-horizon-copy-paste-setup-385a)
-- [Getting Started With Hugging Face Transformers](https://dev.to/richard_abishai/getting-started-with-hugging-face-transformers-14gh)
-- [Mastering Go profiling](https://dev.to/vplatonov/mastering-go-profiling-3fi3)
-- [The Project Pipeline: Why We Celebrate Delivery Instead of Value Delivered](https://dev.to/j4s0nc/the-project-pipeline-why-we-celebrate-delivery-instead-of-value-delivered-jdj)
-- [Password Generators: Why You Need to Use Them](https://dev.to/sagar_sajwan_a91beb41c861/password-generators-why-you-need-to-use-them-5037)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
