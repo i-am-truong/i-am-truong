@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Weekly #46-2025: Laravel Live Japan, Billion-Scale Architecture, AI-Ready Repos &amp; Rethinking Software Progress](https://dev.to/weekly/weekly-46-2025-laravel-live-japan-billion-scale-architecture-ai-ready-repos-rethinking-3ljc)
-- [Spring Data JPA Best Practices: Repositories Design Guide](https://dev.to/protsenko/spring-data-jpa-best-practices-repositories-design-guide-2f6j)
-- [How much does a website cost in 2026? A practical counterpoint &amp; updated budget perspective](https://dev.to/polyapolza108/how-much-does-a-website-cost-in-2026-a-practical-counterpoint-updated-budget-perspective-d0a)
-- [I am seeing so many posts on Google Gemini Code Wiki. But https://deepwiki.org/ has been around for quiet some time now.](https://dev.to/cvipuls/i-am-seeing-so-many-posts-on-google-gemini-code-wiki-but-httpsdeepwikiorg-has-been-around-for-ma5)
-- [The Final Stage of Babel — What Comes After the Collapse of Code](https://dev.to/miller-28/the-final-stage-of-babel-what-comes-after-the-collapse-of-code-1h88)
+- [A Surprisingly Great Tool for Multi‑Cloud Storage – RcloneView Review](https://dev.to/rabbitjumping/a-surprisingly-great-tool-for-multi-cloud-storage-rcloneview-review-3hm4)
+- [Garbage Collection](https://dev.to/eachampagne/garbage-collection-43nk)
+- [I built a code review platform without subscriptions](https://dev.to/sousvidal/i-built-a-code-review-platform-without-subscriptions-36eg)
+- [What font `2600` magazine uses ?](https://dev.to/socar/what-font-2600-magazine-uses--2c97)
+- [How to Think About Games: Unreal Engine](https://dev.to/opbright/how-to-think-about-games-unreal-engine-2l83)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
