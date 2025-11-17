@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Prototypal Inheritance in JavaScript: A Deep Dive](https://dev.to/samuel_ochaba_eb9c875fa89/understanding-prototypal-inheritance-in-javascript-a-deep-dive-443c)
 - [Chess Engine](https://dev.to/tensie_24f10fe37a08dc7d0d/chess-engine-48kl)
 - [Instalacion en Ubuntu de Homebrew y asdf &lpar;Gestor de Versiones Múltiples&rpar;](https://dev.to/pablojavierjimenez/instalacion-en-ubuntu-de-homebrew-y-asdf-gestor-de-versiones-multiples-4bp8)
+- [🚀 Neovim + COQ + Mason + LSP: Mini Guide](https://dev.to/albz/neovim-coq-mason-lsp-mini-guide-246h)
 - [My React template](https://dev.to/tkorakas/my-react-template-ho4)
-- [Building a Custom TypeScript Client for Your REST API](https://dev.to/__c75487cfa/building-a-custom-typescript-client-for-your-rest-api-ahb)
-- [Tired of Rails one-off scripts becoming a nightmare? I built something for that.](https://dev.to/a_abdellatif/tired-of-rails-one-off-scripts-becoming-a-nightmare-i-built-something-for-that-5fcb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
