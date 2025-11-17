@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Linen Layout](https://dev.to/rmion/linen-layout-4e4d)
+- [A Practical Guide to Profiling &amp; Optimizing React Applications for Peak Performance 🚀](https://dev.to/alisamir/a-practical-guide-to-profiling-optimizing-react-applications-for-peak-performance-273i)
+- [Reading Between the Lines: How Leaders Build Emotional Intelligence One Page &lpar;or Episode&rpar; at a Time](https://dev.to/angela_ash_6da09e1fd957c1/reading-between-the-lines-how-leaders-build-emotional-intelligence-one-page-or-episode-at-a-time-16kn)
 - [Making code fun again: An introduction to code golf](https://dev.to/mousetail/making-code-fun-again-an-introduction-to-code-golf-166p)
 - [Nested Loop and Hash Join for MongoDB $lookup](https://dev.to/franckpachot/nested-loop-and-hash-join-for-mongodb-lookup-259d)
-- [I Thought Low Pricing Would Be My Startup’s Advantage — Turns Out It Doesn’t Work That Way](https://dev.to/serhii_bezpalyi_618f348e6/i-thought-low-pricing-would-be-my-startups-advantage-turns-out-it-doesnt-work-that-way-3m7l)
-- [Gen AI para potenciar DevOps: ideas clave de mi participación como speaker en AWS Community Day Bolivia](https://dev.to/alex_flores_efdf107dbb0a5/gen-ai-para-potenciar-devops-ideas-clave-de-mi-participacion-como-speaker-en-aws-community-day-49d0)
-- [KI zeigt nicht die Zukunft des Marketings. Sie zeigt den Zustand der Branche.](https://dev.to/jens_r_4ac124fba483a5d950/ki-zeigt-nicht-die-zukunft-des-marketings-sie-zeigt-den-zustand-der-branche-122h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
