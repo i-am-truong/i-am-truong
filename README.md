@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🎯 Predict Markets Like a FAANG Data Scientist: 3 ML Models That Outperform MBA Analysts](https://dev.to/igornosatov_15/predict-markets-like-a-faang-data-scientist-3-ml-models-that-outperform-mba-analysts-559k)
+- [React for Total Beginners](https://dev.to/buchilazarus4/react-for-total-beginners-13m7)
+- [🌱 My Coding Journey: Small Steps, Simple Projects, and Steady Progress](https://dev.to/olivia_roseparker_b7261e/my-coding-journey-small-steps-simple-projects-and-steady-progress-1ni7)
 - [Migrating Metabase Content Between Instances: A Production-Ready Solution for Data Teams](https://dev.to/_p_m_d_/migrating-metabase-content-between-instances-a-production-ready-solution-for-data-teams-3d0n)
 - [Errors in my Next.js Project](https://dev.to/tiberiu_mihai/errors-in-my-nextjs-project-46fg)
-- [Research Survey on RAG Development Practices &amp; Challenges &lpar;8-10 mins&rpar;](https://dev.to/tye_chan_3f1aeb557dfd3e0d/research-survey-on-rag-development-practices-challenges-8-10-mins-347i)
-- [Unlocking the Universe: Can Quantum Algorithms Decode Particle Trajectories?](https://dev.to/arvind_sundararajan/unlocking-the-universe-can-quantum-algorithms-decode-particle-trajectories-335a)
-- [Architectural Construction Drawings: Types, Standards, and Best Practices](https://dev.to/reetielubana/architectural-construction-drawings-types-standards-and-best-practices-4n86)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
