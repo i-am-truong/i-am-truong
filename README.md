@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Attention Mechanism in Transformers: The Core Idea Behind Modern AI](https://dev.to/thelostcoder/attention-mechanism-in-transformers-the-core-idea-behind-modern-ai-4oc6)
 - [Retries and Hedges: Calming the Tail](https://dev.to/miller-28/retries-and-hedges-calming-the-tail-ima)
 - [Designing a Scalable Image Labeling Workflow with AWS S3, SQS, Lambda, Rekognition and Bedrock](https://dev.to/mate32/designing-a-scalable-image-labeling-workflow-with-aws-s3-sqs-lambda-rekognition-and-bedrock-48e4)
 - [Using CTEs When Your ORM Says No &lpar;The Lazy Developer&#39;s Survival Guide&rpar;](https://dev.to/pascal_cescato_692b7a8a20/using-ctes-when-your-orm-says-no-the-lazy-developers-survival-guide-2e24)
 - [Building Better on AWS: A Practical Guide to the Well-Architected Framework](https://dev.to/sauveer_ketan/building-better-on-aws-a-practical-guide-to-the-well-architected-framework-1l2p)
-- [Liman Mail Ayarları](https://dev.to/aciklab/liman-mail-ayarlari-3351)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
