@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What are your goals for the week? #153](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-153-1cgi)
+- [AI Guardrails: Beyond Prompt Engineering to Deliver Trustworthy LLM Answers](https://dev.to/zeroshotanu/ai-guardrails-beyond-prompt-engineering-to-deliver-trustworthy-llm-answers-kp1)
+- [Architecting for Speed &amp; Safety: How We 2x&#39;d Dev Velocity with ts-rest and Next.js API &lpar;and supercharged our AI copilot&rpar;](https://dev.to/vevarunsharma/architecting-for-speed-safety-how-we-2xd-dev-velocity-with-ts-rest-and-nextjs-api-and-56nb)
 - [CloudFormation Hooks: Lambda hooks con anotaciones granulares &lpar;en español sencillo&rpar;](https://dev.to/pangoro24/cloudformation-hooks-lambda-hooks-con-anotaciones-granulares-en-espanol-sencillo-4739)
 - [Patrol: The Flutter Testing Framework That Changes Everything](https://dev.to/hiteshm_devapp/patrol-the-flutter-testing-framework-that-changes-everything-3nb6)
-- [12 full-stack project ideas &lpar;with designs&rpar; for your developer portfolio](https://dev.to/frontendmentor/12-full-stack-project-ideas-with-designs-for-your-developer-portfolio-4of3)
-- [21 AI Tools Helping Small Businesses Grow in 2025](https://dev.to/shiv_credworks_42cfb56ff2/21-ai-tools-helping-small-businesses-grow-in-2025-8li)
-- [Transform Your Raspberry Pi into a Mini Windows 11 PC: Step-by-Step Guide](https://dev.to/messin_tom/transform-your-raspberry-pi-into-a-mini-windows-11-pc-step-by-step-guide-1c3g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
