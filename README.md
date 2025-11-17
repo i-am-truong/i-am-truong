@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with CIDR and Subnetting in AWS](https://dev.to/irfansatrio/getting-started-with-cidr-and-subnetting-in-aws-1cb9)
-- [When React’s Philosophy Isn’t Enough and Data Attributes Save the Day](https://dev.to/mrezanahi_f133292cb4695d/when-reacts-philosophy-isnt-enough-and-data-attributes-save-the-day-5dpi)
-- [Building a Production-Ready AI ChatBot Platform with Real-Time Analytics](https://dev.to/vivekyadav200988/building-a-production-ready-ai-chatbot-platform-with-real-time-analytics-4ioe)
-- [From Specs to Spooky: Using Kiro to Build My AI Psychic Hotline](https://dev.to/hulyamasharipov/from-specs-to-spooky-using-kiro-to-build-my-ai-psychic-hotline-3552)
-- [Pagination in flutter](https://dev.to/niranjantk_8a74072f217dbe/pagination-in-flutter-34pk)
+- [Migrating Metabase Content Between Instances: A Production-Ready Solution for Data Teams](https://dev.to/_p_m_d_/migrating-metabase-content-between-instances-a-production-ready-solution-for-data-teams-3d0n)
+- [Errors in my Next.js Project](https://dev.to/tiberiu_mihai/errors-in-my-nextjs-project-46fg)
+- [Research Survey on RAG Development Practices &amp; Challenges &lpar;8-10 mins&rpar;](https://dev.to/tye_chan_3f1aeb557dfd3e0d/research-survey-on-rag-development-practices-challenges-8-10-mins-347i)
+- [Unlocking the Universe: Can Quantum Algorithms Decode Particle Trajectories?](https://dev.to/arvind_sundararajan/unlocking-the-universe-can-quantum-algorithms-decode-particle-trajectories-335a)
+- [Architectural Construction Drawings: Types, Standards, and Best Practices](https://dev.to/reetielubana/architectural-construction-drawings-types-standards-and-best-practices-4n86)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
