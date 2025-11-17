@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [TapThing — A daily photo challenge with a fixed expiration](https://dev.to/francesco_errico_ad021b97/tapthing-a-daily-photo-challenge-with-a-fixed-expiration-2d8d)
-- [🏄🏻‍♂️ How to Be Productive, Deliver More, and Get Ahead With AI &lpar;Without Burning Out&rpar; — A Frontend Developer’s Perspective](https://dev.to/anisubhra_sarkar/how-to-be-productive-deliver-more-and-get-ahead-with-ai-without-burning-out-a-senior-frontend-1mc9)
-- [The DLM Advantage: Precision, Parallelism, and Control &lpar;and a simple test&rpar;](https://dev.to/aairom/the-dlm-advantage-precision-parallelism-and-control-and-a-simple-test-1hdn)
-- [Sector HQ Weekly Digest - November 17, 2025](https://dev.to/sectorhqco/sector-hq-weekly-digest-november-17-2025-aj8)
-- [Project Structure in Umami codebase - Part 1.0](https://dev.to/ramunarasinga-11/project-structure-in-umami-codebase-part-10-5537)
+- [CloudFormation Hooks: Lambda hooks con anotaciones granulares &lpar;en español sencillo&rpar;](https://dev.to/pangoro24/cloudformation-hooks-lambda-hooks-con-anotaciones-granulares-en-espanol-sencillo-4739)
+- [Patrol: The Flutter Testing Framework That Changes Everything](https://dev.to/hiteshm_devapp/patrol-the-flutter-testing-framework-that-changes-everything-3nb6)
+- [12 full-stack project ideas &lpar;with designs&rpar; for your developer portfolio](https://dev.to/frontendmentor/12-full-stack-project-ideas-with-designs-for-your-developer-portfolio-4of3)
+- [21 AI Tools Helping Small Businesses Grow in 2025](https://dev.to/shiv_credworks_42cfb56ff2/21-ai-tools-helping-small-businesses-grow-in-2025-8li)
+- [Transform Your Raspberry Pi into a Mini Windows 11 PC: Step-by-Step Guide](https://dev.to/messin_tom/transform-your-raspberry-pi-into-a-mini-windows-11-pc-step-by-step-guide-1c3g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
