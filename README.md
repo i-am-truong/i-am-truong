@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [All Data and AI Weekly #216:17Nov2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-21617nov2025-2hl1)
-- [Kubernetes Isn&#39;t Your AI Bottleneck - It&#39;s Your Secret Weapon](https://dev.to/signadot/kubernetes-isnt-your-ai-bottleneck-its-your-secret-weapon-190j)
-- [My Question is](https://dev.to/iamompandey/my-question-is-4jcj)
-- [Web Frameworks Without Headaches: Choosing Your Weapon ⚔️🌐](https://dev.to/javadinteger/web-frameworks-without-headaches-choosing-your-weapon-3h1e)
-- [Boost Your LLM Apps with Monetzly: A New Era in Developer Revenue](https://dev.to/monetzly/boost-your-llm-apps-with-monetzly-a-new-era-in-developer-revenue-5232)
+- [TapThing — A daily photo challenge with a fixed expiration](https://dev.to/francesco_errico_ad021b97/tapthing-a-daily-photo-challenge-with-a-fixed-expiration-2d8d)
+- [🏄🏻‍♂️ How to Be Productive, Deliver More, and Get Ahead With AI &lpar;Without Burning Out&rpar; — A Frontend Developer’s Perspective](https://dev.to/anisubhra_sarkar/how-to-be-productive-deliver-more-and-get-ahead-with-ai-without-burning-out-a-senior-frontend-1mc9)
+- [The DLM Advantage: Precision, Parallelism, and Control &lpar;and a simple test&rpar;](https://dev.to/aairom/the-dlm-advantage-precision-parallelism-and-control-and-a-simple-test-1hdn)
+- [Project Structure in Umami codebase - Part 1.0](https://dev.to/ramunarasinga-11/project-structure-in-umami-codebase-part-10-5537)
+- [Snapshots Fix Symptoms 📸💥➡️🩹 — Sandboxes Prevent Problems 🏖️🛠️✅](https://dev.to/artiom_aleksandrovici_61b/snapshots-fix-symptoms-sandboxes-prevent-problems-22lg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
