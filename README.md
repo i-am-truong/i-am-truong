@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Guide to End-to-End Testing: Best Practices, Tools, and Insights](https://dev.to/alok_kumar_44670e79f96677/the-ultimate-guide-to-end-to-end-testing-best-practices-tools-and-insights-2aa8)
-- [SlimPDF - A Lightweight and Privacy-Friendly PDF Compressor](https://dev.to/rajinh24/slimpdf-a-lightweight-and-privacy-friendly-pdf-compressor-hnn)
-- [Conditional for beginners](https://dev.to/roghaye_mohammadi_84/conditional-for-beginners-4gfa)
-- [Make Your Agents Think Like a Maintainer: The Setup That Stops Bugs Early](https://dev.to/mike-at-redspace/make-your-agents-think-like-a-maintainer-the-setup-that-stops-bugs-early-343a)
-- [Open-sourcing a Laravel SaaS Starter: Stripe Billing, Teams &amp; Horizon &lpar;Copy-Paste Setup&rpar;](https://dev.to/budventure_technologies_5/open-sourcing-a-laravel-saas-starter-stripe-billing-teams-horizon-copy-paste-setup-385a)
+- [Tic Tac Toe Game with HTML, CSS &amp; JavaScript — Live Demo + Source Code](https://dev.to/siddheshcodes/tic-tac-toe-game-with-html-css-javascript-live-demo-source-code-1k37)
+- [Taming Tedious Tasks with a Tiny Titan: The ESP32 Auto-Controller](https://dev.to/patrocinioluisf/taming-tedious-tasks-with-a-tiny-titan-the-esp32-auto-controller-27pp)
+- [Comparing Wallet SDKs in 2025: What Builders Should Actually Evaluate &lpar;Not Just Features&rpar;](https://dev.to/estelleatthenook/comparing-wallet-sdks-in-2025-what-builders-should-actually-evaluate-not-just-features-5c5j)
+- [The .NET News daily newsletter for C# developers](https://dev.to/jasenf/the-net-news-daily-newsletter-for-c-developers-45mi)
+- [Pharmaceutical RCPA Analytics Challenge](https://dev.to/kenyansa/pharmaceutical-rcpa-analytics-challenge-112o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
