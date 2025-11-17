@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Music Monday &lpar;Anything goes!&rpar;](https://dev.to/musicforem/music-monday-anything-goes-371g)
+- [My Biggest Mistake as a New Coder &lpar;Nobody Warned Me&rpar;](https://dev.to/canro91/my-biggest-mistake-as-a-new-coder-nobody-warned-me-1g55)
 - [When Phoenix LiveView is the wrong choice](https://dev.to/devbrett-dot-com/choosing-phoenix-liveview-1o88)
 - [Create a Text Editor in Go - A Text Editor](https://dev.to/alcb1310/create-a-text-editor-in-go-a-text-editor-1m83)
 - [If I have to start again, I will use Free AI tools instead of premium. Here is why:](https://dev.to/jaideepparashar/if-i-have-to-start-again-i-will-use-free-ai-tools-instead-of-premium-here-is-why-im0)
-- [The Best Free Tools I Use to Run an AI-Driven Business](https://dev.to/jaideepparashar/the-best-free-tools-i-use-to-run-an-ai-driven-business-4abn)
-- [Meta-Authors Note: Codie&#39;s Cognitive Chronicals](https://dev.to/izzyfuller/meta-authors-note-codies-cognitive-chronicals-2kg2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
