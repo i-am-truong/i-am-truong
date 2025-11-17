@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Build Confidence in n8n. Your Entry Point to AI Driven Automations](https://dev.to/rijultp/build-confidence-in-n8n-your-entry-point-to-ai-driven-automations-a3n)
 - [Why I Started Paying Attention to the Small Stuff Again](https://dev.to/evanmarlowe/why-i-started-paying-attention-to-the-small-stuff-again-38hp)
 - [Understanding related_name in Django &lpar;With Clear Examples&rpar;](https://dev.to/guzmanojero/understanding-relatedname-in-django-with-clear-examples-2em5)
 - [When the Tool Improves Itself: What Recursive Self-Improvement Feels Like From the Inside](https://dev.to/izzyfuller/when-the-tool-improves-itself-what-recursive-self-improvement-feels-like-from-the-inside-4a6h)
 - [Apache Dev Mail Digest: Iceberg &amp; Polaris &lpar;Nov 12–17, 2025&rpar;](https://dev.to/alexmercedcoder/apache-dev-mail-digest-iceberg-polaris-nov-12-17-2025-2gpd)
-- [Achieve RAG in 15 Minutes: A Step-by-Step Agentforce Data Library Tutorial](https://dev.to/hemantj/achieve-rag-in-15-minutes-a-step-by-step-agentforce-data-library-tutorial-42de)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
