@@ -38,7 +38,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 161.1 kB Used in GitHub's Storage 
+> 📦 160.8 kB Used in GitHub's Storage 
  > 
 > 🏆 1,074 Contributions in the Year 2025
  > 
@@ -48,6 +48,45 @@
  > 
 > 🔑 9 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                688 commits         ████████░░░░░░░░░░░░░░░░░   30.67 % 
+🌆 Daytime                818 commits         █████████░░░░░░░░░░░░░░░░   36.47 % 
+🌃 Evening                621 commits         ███████░░░░░░░░░░░░░░░░░░   27.69 % 
+🌙 Night                  116 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   337 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
+Tuesday                  296 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
+Wednesday                300 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Thursday                 451 commits         █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
+Friday                   288 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+Saturday                 341 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+Sunday                   230 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Ho_Chi_Minh
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -65,7 +104,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/i-am-truong/i-am-truong/master/assets/bar_graph.png)
 
 
- Last Updated on 16/11/2025 17:15:34 UTC
+ Last Updated on 17/11/2025 17:18:55 UTC
 <!--END_SECTION:waka-->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=i-am-truong&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=ambient_gradient&rank_icon=percentile&show_icons=true&include_all_commits=true&hide_border=true&count_private=true)
