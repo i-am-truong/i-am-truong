@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating File Share In Azure](https://dev.to/cmwokocha/creating-file-share-in-azure-kad)
 - [Day 1268 : Wonder](https://dev.to/dwane/day-1268-wonder-19dm)
+- [Web Development Basics](https://dev.to/bamacharan/web-development-basics-19dc)
+- [B2B Marketing Tactics That Actually Convert &lpar;Not the Ones Everyone Posts About&rpar;](https://dev.to/synergistdigitalmedia/b2b-marketing-tactics-that-actually-convert-not-the-ones-everyone-posts-about-53cf)
 - [How We Use AI to Speed Up Development &lpar;Without Sacrificing Quality&rpar;](https://dev.to/sociilabs/how-we-use-ai-to-speed-up-development-without-sacrificing-quality-1cjk)
-- [🌾 How I Built &amp; Deployed a Crop Yield Prediction API in the Cloud](https://dev.to/austin_deyan_6c9b2445aed6/how-i-built-deployed-a-crop-yield-prediction-api-in-the-cloud-o8h)
-- [deboa, a simple http client for rust](https://dev.to/rogrio_arajo_55dae16f0d/deboa-a-simple-http-client-for-rust-2758)
-- [Customer Experience Design: Why Your Friction Map Matters More Than Your Journey Map](https://dev.to/synergistdigitalmedia/customer-experience-design-why-your-friction-map-matters-more-than-your-journey-map-5gbj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
