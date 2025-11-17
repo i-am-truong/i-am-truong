@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Smarter Property Valuation Systems: How Modern AVMs Work Under the Hood](https://dev.to/shivang_shuklataazaa_b46/building-smarter-property-valuation-systems-how-modern-avms-work-under-the-hood-2bo6)
-- [How a young entrepreneur named Abhay Aditya Jain is re-writing the rules of the AI web](https://dev.to/okabarack/how-a-young-entrepreneur-named-abhay-aditya-jain-is-re-writing-the-rules-of-the-ai-web-53fi)
-- [Controlling Kubernetes Network Traffic – Part 1](https://dev.to/aws-builders/controlling-kubernetes-network-traffic-part-1-1i0)
-- [Using Ansible File Module to Manage Files &amp; Directories](https://dev.to/spacelift/using-ansible-file-module-to-manage-files-directories-di3)
-- [Playwright MCP Servers Explained: Automation and Testing](https://dev.to/debs_obrien/playwright-mcp-servers-explained-automation-and-testing-4mo0)
+- [Dejé de hablar de AI y empecé a construir: Construye un RAG simple con Amazon Bedrock Knowledge Bases.](https://dev.to/sinariver/deje-de-hablar-de-ai-y-empece-a-construir-construye-un-rag-simple-con-amazon-bedrock-knowledge-3j42)
+- [I stopped talking about AI and started to build: Build a RAG System with Amazon Bedrock, Titan Embeddings &amp; Knowledge Bases](https://dev.to/sinariver/i-stopped-talking-about-ai-and-started-to-build-build-a-rag-system-with-amazon-bedrock-titan-2ke6)
+- [Automated Testing using MCP &amp; AI Agents](https://dev.to/awsugonair/automated-testing-using-mcp-ai-agents-278i)
+- [Meme Monday](https://dev.to/ben/meme-monday-4jn7)
+- [Search for the Best Website Development Company in Ashburn](https://dev.to/debtech_llc_19ccb100ccfa8/search-for-the-best-website-development-company-in-ashburn-n8k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
