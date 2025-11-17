@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [frameit.dev - fast and free video thumbs, title cards and OG images](https://dev.to/edspencer/frameitdev-fast-and-free-video-thumbs-title-cards-and-og-images-250m)
+- [New File-Based Apps in .NET 10: You Can Now Run C# in Just 1 File!](https://dev.to/lovelacecoding/file-based-apps-in-net-10-you-can-now-run-c-in-just-1-file-5eji)
+- [Go disassembly: branches on arm64 vs amd64](https://dev.to/thevilledev/go-disassembly-branches-on-arm64-vs-amd64-1dpc)
 - [n8n Web Scraping || Part 2: Pagination, Infinite Scroll, Network Capture &amp; More](https://dev.to/extractdata/n8n-web-scraping-part-2-pagination-infinite-scroll-network-capture-more-365)
-- [**A Tale of Two Frameworks: Declarative vs](https://dev.to/drcarlosruizviquez/a-tale-of-two-frameworks-declarative-vs-2j58)
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-1fdp)
-- [Event-Driven Updates with ThingsDB](https://dev.to/joente/event-driven-updates-with-thingsdb-3in5)
-- [**The Multimodal AI Blind Spot: Integrating Sensory Feedback](https://dev.to/drcarlosruizviquez/the-multimodal-ai-blind-spot-integrating-sensory-feedback-3e5g)
+- [From-Basics-to-Deployment](https://dev.to/ian_b838138a27a917398d181/from-basics-to-deployment-204n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
