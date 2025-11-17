@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Marketing Automation Tools: What Actually Works When You&#39;re Not an Enterprise](https://dev.to/synergistdigitalmedia/marketing-automation-tools-what-actually-works-when-youre-not-an-enterprise-1mf1)
+- [Learning Rust: Custom Error types that actually work!](https://dev.to/darkosubotica/learning-rust-custom-error-types-that-actually-work-4n03)
+- [Django Deployment : Day 14](https://dev.to/stackbento/django-deployment-day-14-mbd)
+- [Building a Para MCP Server + Next.js Wallet Demo &lpar;with Kiro + MCP&rpar;](https://dev.to/kirodotdev/building-a-para-mcp-server-nextjs-wallet-demo-with-kiro-mcp-56j1)
 - [Next.js Weekly #108: React Email 5, Better Upload, Error Boundary, Anti-Vendor-Lock-In, StyleX, PWA App Icons in Next.js 16](https://dev.to/erfanebrahimnia/nextjs-weekly-108-react-email-5-better-upload-error-boundary-anti-vendor-lock-in-stylex-pwa-1pfj)
-- [Understanding Prototypal Inheritance in JavaScript: A Deep Dive](https://dev.to/samuel_ochaba_eb9c875fa89/understanding-prototypal-inheritance-in-javascript-a-deep-dive-443c)
-- [Chess Engine](https://dev.to/tensie_24f10fe37a08dc7d0d/chess-engine-48kl)
-- [Instalacion en Ubuntu de Homebrew y asdf &lpar;Gestor de Versiones Múltiples&rpar;](https://dev.to/pablojavierjimenez/instalacion-en-ubuntu-de-homebrew-y-asdf-gestor-de-versiones-multiples-4bp8)
-- [🚀 Neovim + COQ + Mason + LSP: Mini Guide](https://dev.to/albz/neovim-coq-mason-lsp-mini-guide-246h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
