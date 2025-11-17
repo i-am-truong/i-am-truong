@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the Different POST Content Types](https://dev.to/djangotricks/understanding-the-different-post-content-types-3bjd)
-- [🚀 GPT-5.1 Is Here, Warmer, Smarter, More Reliable](https://dev.to/tirumalaraonaidu/gpt-51-is-here-warmer-smarter-more-reliable-1691)
-- [The Hidden Costs of Running a Business Without ERP](https://dev.to/disiplin_forml_e60c4755/the-hidden-costs-of-running-a-business-without-erp-3o5)
-- [Very cool project!](https://dev.to/jimmymcbride/very-cool-project-4f4h)
-- [A Beginner’s Guide to Using MCP with LangGraph](https://dev.to/aiengineering/a-beginners-guide-to-using-mcp-with-langgraph-2fg5)
+- [Turning Your GitHub Repos into Gold: How to Sell Your Code Online](https://dev.to/softwaredeveloperhub01/turning-your-github-repos-into-gold-how-to-sell-your-code-online-187o)
+- [Lidando com Concorrência em Java - Lock Pessimista](https://dev.to/alineavila/lidando-com-concorrencia-em-java-lock-pessimista-9o3)
+- [Orchestrating Complex Processes in Node.js with @jescrich/nestjs-workflow](https://dev.to/jose_escrich_7a9e40bdd5e7/orchestrating-complex-processes-in-nodejs-with-jescrichnestjs-workflow-jjb)
+- [Quantum-Inspired Encoding: A Leap in Offline Reinforcement Learning](https://dev.to/arvind_sundararajan/quantum-inspired-encoding-a-leap-in-offline-reinforcement-learning-1161)
+- [Maximize SDK Integration: Monetize Your AI Conversations](https://dev.to/monetzly/maximize-sdk-integration-monetize-your-ai-conversations-49f5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
