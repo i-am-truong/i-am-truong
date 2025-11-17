@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [frameit.dev - fast and free video thumbs, title cards and OG images](https://dev.to/edspencer/frameitdev-fast-and-free-video-thumbs-title-cards-and-og-images-250m)
-- [New File-Based Apps in .NET 10: You Can Now Run C# in Just 1 File!](https://dev.to/lovelacecoding/file-based-apps-in-net-10-you-can-now-run-c-in-just-1-file-5eji)
-- [Go disassembly: branches on arm64 vs amd64](https://dev.to/thevilledev/go-disassembly-branches-on-arm64-vs-amd64-1dpc)
-- [n8n Web Scraping || Part 2: Pagination, Infinite Scroll, Network Capture &amp; More](https://dev.to/extractdata/n8n-web-scraping-part-2-pagination-infinite-scroll-network-capture-more-365)
-- [From-Basics-to-Deployment](https://dev.to/ian_b838138a27a917398d181/from-basics-to-deployment-204n)
+- [Looking for Advice as a Junior Fullstack Developer](https://dev.to/alejandro_tacorontegonz/looking-for-advice-as-a-junior-fullstack-developer-69n)
+- [On-Device AI with the Google Chrome Prompt API](https://dev.to/this-is-learning/on-device-ai-with-the-google-chrome-prompt-api-2jbe)
+- [Generative AI: What It Is, Why It Matters Now, And How To Put It To Work](https://dev.to/anitahenry2/generative-ai-what-it-is-why-it-matters-now-and-how-to-put-it-to-work-ej9)
+- [[Boost]](https://dev.to/nataliaherself/-106b)
+- [The Shift Towards Agentic AI: What It Means for Developers](https://dev.to/lofcz/the-shift-towards-agentic-ai-what-it-means-for-developers-4a4o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
