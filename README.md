@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Project Pipeline: Why We Celebrate Delivery Instead of Value Delivered](https://dev.to/j4s0nc/the-project-pipeline-why-we-celebrate-delivery-instead-of-value-delivered-jdj)
+- [Database Schemas: Star Schema vs. Snowflake Schema and Choosing the Right Data Warehouse Design](https://dev.to/ed_j_wanjama/database-schemas-star-schema-vs-snowflake-schema-and-choosing-the-right-data-warehouse-design-593l)
+- [The Fastest and Cleanest Way to Convert PDF Bank Statements to Excel, XML, CSV, QIF, OFX](https://dev.to/nuhayd_shaik_68ee737ef605/the-fastest-and-cleanest-way-to-convert-pdf-bank-statements-to-excel-xml-csv-qif-ofx-2ne6)
 - [Why Both Startup Code and Legacy Systems Need Code Context — And How LLMs + CodeDoc Make It Possible](https://dev.to/notadevbuthere/why-both-startup-code-and-legacy-systems-need-code-context-and-how-llms-codedoc-make-it-possible-19e1)
 - [How Machine Learning in Cars is Changing Driving Forever](https://dev.to/sohan_lal_241c2d80b2705e7/how-machine-learning-in-cars-is-changing-driving-forever-4fp3)
-- [From Frozen Funds to Freedom | PayRam’s Permissionless Commerce Stack Is Replacing Custodial Crypto Checkouts](https://dev.to/ibrahimpima/from-frozen-funds-to-freedom-payrams-permissionless-commerce-stack-is-replacing-custodial-crypto-36eh)
-- [Why is a secure PDF manipulation tool essential?](https://dev.to/mcagriaksoy/we-need-a-safe-pdf-manipulation-tool-1918)
-- [Learn Miniscript in Y Minutes](https://dev.to/kartik_patel/learn-miniscript-in-y-minutes-1n50)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
