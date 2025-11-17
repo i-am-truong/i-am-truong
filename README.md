@@ -84,8 +84,8 @@ Python                   1 repo              █░░░░░░░░░░�
 - [TapThing — A daily photo challenge with a fixed expiration](https://dev.to/francesco_errico_ad021b97/tapthing-a-daily-photo-challenge-with-a-fixed-expiration-2d8d)
 - [🏄🏻‍♂️ How to Be Productive, Deliver More, and Get Ahead With AI &lpar;Without Burning Out&rpar; — A Frontend Developer’s Perspective](https://dev.to/anisubhra_sarkar/how-to-be-productive-deliver-more-and-get-ahead-with-ai-without-burning-out-a-senior-frontend-1mc9)
 - [The DLM Advantage: Precision, Parallelism, and Control &lpar;and a simple test&rpar;](https://dev.to/aairom/the-dlm-advantage-precision-parallelism-and-control-and-a-simple-test-1hdn)
+- [Sector HQ Weekly Digest - November 17, 2025](https://dev.to/sectorhqco/sector-hq-weekly-digest-november-17-2025-aj8)
 - [Project Structure in Umami codebase - Part 1.0](https://dev.to/ramunarasinga-11/project-structure-in-umami-codebase-part-10-5537)
-- [Snapshots Fix Symptoms 📸💥➡️🩹 — Sandboxes Prevent Problems 🏖️🛠️✅](https://dev.to/artiom_aleksandrovici_61b/snapshots-fix-symptoms-sandboxes-prevent-problems-22lg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
