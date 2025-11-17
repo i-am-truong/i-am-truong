@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Turning Your GitHub Repos into Gold: How to Sell Your Code Online](https://dev.to/softwaredeveloperhub01/turning-your-github-repos-into-gold-how-to-sell-your-code-online-187o)
-- [Lidando com Concorrência em Java - Lock Pessimista](https://dev.to/alineavila/lidando-com-concorrencia-em-java-lock-pessimista-9o3)
-- [Orchestrating Complex Processes in Node.js with @jescrich/nestjs-workflow](https://dev.to/jose_escrich_7a9e40bdd5e7/orchestrating-complex-processes-in-nodejs-with-jescrichnestjs-workflow-jjb)
-- [Quantum-Inspired Encoding: A Leap in Offline Reinforcement Learning](https://dev.to/arvind_sundararajan/quantum-inspired-encoding-a-leap-in-offline-reinforcement-learning-1161)
-- [Maximize SDK Integration: Monetize Your AI Conversations](https://dev.to/monetzly/maximize-sdk-integration-monetize-your-ai-conversations-49f5)
+- [Nested Learning — My Reflections on a Model That Learns How to Learn](https://dev.to/mitanshgor/nested-learning-my-reflections-on-a-model-that-learns-how-to-learn-14b5)
+- [One Sound at a time - My Audio Engineering Journey](https://dev.to/awesomeaudioai/one-sound-at-a-time--28i6)
+- [Novo Gerenciador de tarefas V1.0/duo!!!!](https://dev.to/richard_rangeljung_5e573/novo-gerenciador-de-tarefas-v10duo-1o46)
+- [10 Real-World Examples of AI That You&#39;re Already Using Every Day](https://dev.to/saaslyai/10-real-world-examples-of-ai-that-youre-already-using-every-day-31o4)
+- [Angular 21 is Here: Real Features That Actually Improve Your Daily Workflow](https://dev.to/mmourouh/angular-21-is-here-real-features-that-actually-improve-your-daily-workflow-ogk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
