@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Gemini 3 Is Here: Google&#39;s Bold Leap into the Agentic AI Era](https://dev.to/affectionate_code/gemini-3-is-here-googles-bold-leap-into-the-agentic-ai-era-59hj)
-- [Dental Scheduling Systems: A Comparative Study in How Time Should Not Work](https://dev.to/lake22traillady/dental-scheduling-systems-a-comparative-study-in-how-time-should-not-work-5ch2)
-- [Cache Rebalancing Was Broken. Here&#39;s How They Fixed It.](https://dev.to/allenheltondev/cache-rebalancing-was-broken-heres-how-they-fixed-it-hh5)
-- [Como a IA está mudando o mercado de trabalho: uma análise completa](https://dev.to/no_codestartup/como-a-ia-esta-mudando-o-mercado-de-trabalho-uma-analise-completa-4pbn)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3ec0)
+- [How to Debug a Node.js App on AWS ECS Fargate Using Port Forwarding &lpar;Step-by-Step Guide&rpar;](https://dev.to/u11d/how-to-port-forward-to-an-ecs-fargate-task-to-debug-your-nodejs-46pn)
+- [Agente de IA para Advogado Autônomo: Guia Definitivo para Transformar sua Rotina Jurídica](https://dev.to/no_codestartup/agente-de-ia-para-advogado-autonomo-guia-definitivo-para-transformar-sua-rotina-juridica-k17)
+- [How to: Fix WebResources Layout in Dataverse Dashboards](https://dev.to/_neronotte/how-to-fix-webresources-layout-in-dataverse-dashboards-3646)
+- [Untitled](https://dev.to/gabriel_bogantesgomez_89/untitled-47o3)
+- [Criar Imagem com Inteligência Artificial Online: Guia Completo para Dominar a Arte Visual com IA](https://dev.to/no_codestartup/criar-imagem-com-inteligencia-artificial-online-guia-completo-para-dominar-a-arte-visual-com-ia-1gi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
