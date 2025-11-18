@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Make Chatbot Understand Customer Intent](https://dev.to/chatboqai/how-to-make-chatbot-understand-customer-intent-10db)
 - [Introducing dbfuse-ai — An Open-Source, Cross-Database GUI with AI-Powered SQL &lpar;Looking for Contributors&rpar;](https://dev.to/shashi_kumar_kasturi/introducing-dbfuse-ai-an-open-source-cross-database-gui-with-ai-powered-sql-looking-for-1i06)
 - [Why Google Killing XSLT Matters](https://dev.to/bibimbop123/why-google-killing-xslt-matters-3kl6)
 - [Python by Structure: The Walrus Operator - Assignment Where You Need It](https://dev.to/aaron_rose_0787cc8b4775a0/python-by-structure-the-walrus-operator-assignment-where-you-need-it-h8a)
 - [Prometric-Go Part 2 — Full Hands-On Demo with Grafana, Prometheus &amp; k6 📈](https://dev.to/asraful_haque/prometric-go-part-2-full-hands-on-demo-with-grafana-prometheus-k6-216k)
-- [Why Your Enterprise Data Platform Is No Longer Just for Analytics](https://dev.to/gigapress/why-your-enterprise-data-platform-is-no-longer-just-for-analytics-1n1i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
