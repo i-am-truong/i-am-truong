@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Trash Theory: Exploring Tricky &amp; Maxinquaye: The 90s Bowie? | New British Canon](https://dev.to/music_youtube/trash-theory-exploring-tricky-maxinquaye-the-90s-bowie-new-british-canon-hbf)
-- [Menggunakan Dua Akun GitHub di Satu Laptop &lpar;Office + Pribadi&rpar; dengan SSH Key Terpisah](https://dev.to/bluething/menggunakan-dua-akun-github-di-satu-laptop-office-pribadi-dengan-ssh-key-terpisah-mp4)
-- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-25hf)
-- [The Role of Stakeholder Analysis in Project Success](https://dev.to/writegenic/the-role-of-stakeholder-analysis-in-project-success-4e55)
-- [transform](https://dev.to/nikimunger/transform-1g72)
+- [How I Added On-Chain Rewards and NFTs to Solana Quiz: Practical Insights, Pitfalls, and Tips](https://dev.to/dima-zaichenko/how-i-added-on-chain-rewards-and-nfts-to-solana-quiz-practical-insights-pitfalls-and-tips-2l51)
+- [Building a Network Lab on Kubernetes with netclab-chart](https://dev.to/mbakalarski/building-a-network-lab-on-kubernetes-with-netclab-chart-2jjk)
+- [PDF Translate – Free PDF Translator | pdf-translation.com](https://dev.to/digiplan_pro_52d07cbd0f1a/pdf-translate-free-pdf-translator-pdf-translationcom-4eb8)
+- [Looking to collab with EU/US devs](https://dev.to/aroma_nihon_696690efb774e/looking-to-collab-with-euus-devs-og3)
+- [Website laten maken in WordPress: de voordelen van een gebruiksvriendelijk CMS](https://dev.to/creatixcode1/website-laten-maken-in-wordpress-de-voordelen-van-een-gebruiksvriendelijk-cms-21io)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
