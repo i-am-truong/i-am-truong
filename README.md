@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built an AI That Actually Generates WordPress Pages From Scratch &lpar;Not Just Templates&rpar;](https://dev.to/jdku_sjdu_6171aee799d6341/i-built-an-ai-that-actually-generates-wordpress-pages-from-scratch-not-just-templates-53fk)
-- [uiMatch: Figma-to-implementation visual diff with Playwright and CI](https://dev.to/kosaki08/uimatch-figma-to-implementation-visual-diff-with-playwright-and-ci-1819)
-- [Mejora Ubuntu con Homebrew y asdf &lpar;Gestor de Versiones Múltiples&rpar;](https://dev.to/oscarpincho/mejora-ubuntu-con-homebrew-y-asdf-gestor-de-versiones-multiples-4nka)
-- [Modern CSS Is a Game-Changer: Here’s Why Developers Love It](https://dev.to/myuihub/modern-css-is-a-game-changer-heres-why-developers-love-it-2l95)
-- [Saloon vs Guzzle vs SDK vs Http Facade for Laravel API Integrations](https://dev.to/ashallendesign/saloon-vs-guzzle-vs-sdk-vs-http-facade-for-laravel-api-integrations-2a0e)
+- [A Modern Data Governance Framework for Google Cloud: Implementing Just-Enough and Just-in-Time Access](https://dev.to/hikikomorineko/a-modern-data-governance-framework-for-google-cloud-implementing-just-enough-and-just-in-time-1a0d)
+- [Why Identity Threat Detection &amp; Response &lpar;ITDR&rpar; Is Becoming Essential in Modern Security](https://dev.to/sunnysinh_a/why-identity-threat-detection-response-itdr-is-becoming-essential-in-modern-security-15ih)
+- [Cracking the Medical Coding Challenge: Fine-Tuning BioBERT for ICD-10 Classification &lpar;Part 1&rpar;](https://dev.to/alexretana/cracking-the-medical-coding-challenge-fine-tuning-biobert-for-icd-10-classification-part-1-7oc)
+- [⭐ HTML Input Types &lpar;With Examples&rpar;](https://dev.to/ramyasree_manthena_76c598/html-input-types-with-examples-4555)
+- [Distributed Pub/Sub in Spring Boot Without the Headache](https://dev.to/seonwoo960000/distributed-pubsub-in-spring-boot-without-the-headache-1mn1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
