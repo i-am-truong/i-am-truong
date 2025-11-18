@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Run Playwright in CI Pipeline](https://dev.to/emerickp/how-to-run-playwright-in-ci-pipeline-4bec)
-- [PYTHON is Slow? but not with RUST:&rpar;](https://dev.to/hossein-mortazavi/python-is-slow-but-not-with-rust-4lna)
-- [Why Hire Blockchain Developers for Effective Digital Transformation?](https://dev.to/increase123/why-hire-blockchain-developers-for-effective-digital-transformation-31o6)
-- [I Built a Telegram Bot That Roasts Your Grocery Receipts &lpar;and Tells You Calories&rpar;](https://dev.to/plus8bit/i-built-a-telegram-bot-that-roasts-your-grocery-receipts-and-tells-you-calories-ke7)
-- [Cloudflare down DEV still up ⬆️](https://dev.to/ben/cloudflare-down-dev-still-up-2g86)
+- [Saloon vs Guzzle vs SDK vs Http Facade for Laravel API Integrations](https://dev.to/ashallendesign/saloon-vs-guzzle-vs-sdk-vs-http-facade-for-laravel-api-integrations-2a0e)
+- [✨ Crafting Procedural Landscapes in Godot 4: A Tool for Your Worlds! ✨](https://dev.to/embernoglow/crafting-procedural-landscapes-in-godot-4-a-tool-for-your-worlds-4p4f)
+- [Host Your Portfolio on Amazon S3: A Beginner&#39;s Guide to Static Website Hosting](https://dev.to/khajasabik/host-your-portfolio-on-amazon-s3-a-beginners-guide-to-static-website-hosting-310l)
+- [My First Windows Service Deployment: Lessons From a Dev Who Grew Up on Linux](https://dev.to/techwithhari/my-first-windows-service-deployment-lessons-from-a-dev-who-grew-up-on-linux-f93)
+- [Google expands Gemini AI access in Vids Workspace tool, enabling more users tocreate videos with AI](https://dev.to/ytosko/google-expands-gemini-ai-access-in-vids-workspace-tool-enabling-more-users-tocreate-videos-with-ai-5bm7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
