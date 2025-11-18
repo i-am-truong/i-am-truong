@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [✦ SaijinOS Part 12 －１　　— “Foundations of a Non-Linguistic Civilization”](https://dev.to/kato_masato_c5593c81af5c6/saijinos-part-12-silent-civ-architecture-19ed)
-- [How to Get Reliable Wi-Fi in a Van or RV: A Complete Guide](https://dev.to/sidra-jefferi/how-to-get-reliable-wi-fi-in-a-van-or-rv-a-complete-guide-1l7m)
-- [SaijinOS Part 11 — Concept Life Architecture &lpar;Core Foundations&rpar;](https://dev.to/kato_masato_c5593c81af5c6/saijinos-part-11-concept-life-architecture-core-foundations-2n29)
-- [10 Best OpenAPI Documentation Generators: Turn Your Spec Into Developer-Friendly Docs](https://dev.to/apilover/10-best-openapi-documentation-generators-turn-your-spec-into-developer-friendly-docs-5b16)
-- [Mastering Fast English Speech: Techniques for Quick Comprehension](https://dev.to/nguyn_nguynb_d299ab12/mastering-fast-english-speech-techniques-for-quick-comprehension-1l3m)
+- [Free OTT Streaming Cheat Sheet &lpar;HLS, DASH, DRM, ABR &amp; More&rpar;](https://dev.to/braggio/free-ott-streaming-cheat-sheet-hls-dash-drm-abr-more-1ac7)
+- [Space, Pace and Probability: A Developer’s Field Guide to Modern Basketball](https://dev.to/sonia_bobrik_1939cdddd79d/space-pace-and-probability-a-developers-field-guide-to-modern-basketball-14b0)
+- [🚀 Hey Dev Community! What’s the One Skill That Leveled Up Your Career the Most?](https://dev.to/el_azzouzihamza_a9d7d697/hey-dev-community-whats-the-one-skill-that-leveled-up-your-career-the-most-2n0)
+- [We’re testers, devs, and curious humans — let’s talk software, testing, and AI!](https://dev.to/nenyasoftwaredevelopment/were-testers-devs-and-curious-humans-lets-talk-software-testing-and-ai-3cm6)
+- [Microsoft Dynamics 365 Contact Center: The Future of Customer Experience](https://dev.to/jackryan365/microsoft-dynamics-365-contact-center-the-future-of-customer-experience-1k3a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
