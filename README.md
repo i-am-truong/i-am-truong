@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Passed My First Senior Backend Interview &lpar;Go&rpar; Using Educative](https://dev.to/devflex-pro/how-i-passed-my-first-senior-backend-interview-go-using-educative-35h1)
-- [How to manage Let&#39;s Encrypt certificate on EC2 instance](https://dev.to/jurijs_iv/how-to-manage-lets-encrypt-certificate-on-ec2-instance-46f4)
-- [Web Developer Travis McCracken on Statelessness in Server Architecture](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-statelessness-in-server-architecture-3d80)
-- [Mastering Docker: A Complete, Professional Guide to Containers, Networks, Volumes, Dockerfiles, and Docker Compose](https://dev.to/hajixhayjhay/mastering-docker-a-complete-professional-guide-to-containers-networks-volumes-dockerfiles-and-14cd)
-- [TypeScript Is Turning JavaScript into Java, and Nobody Wants to Admit It](https://dev.to/ofodile/typescript-is-turning-javascript-into-java-and-nobody-wants-to-admit-it-402i)
+- [From Cancer Cures to Pornography: The Six-Month Descent of AI](https://dev.to/razoorka/from-cancer-cures-to-pornography-the-six-month-descent-of-ai-7db)
+- [I Made a Browser Extension That Tells You When a Site Uses Your Data to Train AI](https://dev.to/dwikbtn/is-your-data-training-someones-ai-i-built-a-browser-extension-to-find-out-42eh)
+- [Optimizing Web Performance: How Lazy-Loading Spline Assets Took Our Build From 30 to 90 in Lighthouse](https://dev.to/tolumen/optimizing-web-performance-how-lazy-loading-spline-assets-took-our-build-from-30-to-90-in-4ne2)
+- [Why Big Tech Won&#39;t Hire Flutter Developers in 2026](https://dev.to/eira-wexford/why-big-tech-wont-hire-flutter-developers-2i88)
+- [Adaptive Anti-Corruption Layer &lpar;AACL&rpar;](https://dev.to/panjieke/adaptive-anti-corruption-layer-aacl-3hb8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
