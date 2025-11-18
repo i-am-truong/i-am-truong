@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Drowning in Photos? Let a VS Code AI Agent Organize Them for You &lpar;No Coding Needed&rpar;](https://dev.to/sharan_babuparamasivamm/drowning-in-photos-let-a-vs-code-ai-agent-organize-them-for-you-no-coding-needed-5ab8)
+- [Strategies to Analyze Any Size Dataset with LLMs Beyond its Context Limit](https://dev.to/exson_joseph/strategies-to-analyze-any-size-dataset-with-llms-beyond-its-context-limit-4i37)
+- [Master Java — One MCQ at a Time!](https://dev.to/quipoin_a9cb84280f6225b1e/master-java-one-mcq-at-a-time-5861)
 - [🖥️ Cloud PC Pool for Copilot Studio: Scalable UI Automation Without Local Machines](https://dev.to/seenakhan/cloud-pc-pool-for-copilot-studio-scalable-ui-automation-without-local-machines-1abi)
 - [Countdown to PrestaShop Developer Conference 2025: What to Expect!](https://dev.to/ndabene/countdown-to-prestashop-developer-conference-2025-what-to-expect-4o5i)
-- [Laravel-MediaWiki Mutant](https://dev.to/shroomok/laravel-mediawiki-mutant-18f7)
-- [Daily Skincare Routine for Glowing Skin: Morning to Night Guide](https://dev.to/mariamrankhive/daily-skincare-routine-for-glowing-skin-morning-to-night-guide-3en1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
