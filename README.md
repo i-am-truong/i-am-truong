@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [**Evaluating Generative AI: A Novel Metric - Perceptual Dive](https://dev.to/drcarlosruizviquez/evaluating-generative-ai-a-novel-metric-perceptual-dive-2bef)
-- [FoalTS - NodeJS framework - version 5.1 is out](https://dev.to/loicpoullain/foalts-nodejs-framework-version-51-is-out-566e)
-- [MongoDB Transactions in Laravel](https://dev.to/mongodb/mongodb-transactions-in-laravel-3110)
-- [7 Best Resources to Learn Python: My Personal Journey and Recommendations](https://dev.to/stack_overflowed/7-best-resources-to-learn-python-my-personal-journey-and-recommendations-3bdh)
-- [Azure APIM MCP: The Good, The Bad, The Ugly](https://dev.to/itsrene/azure-apim-mcp-the-good-the-bad-the-ugly-3gl7)
+- [**Mejora en PLD gracias a IA/ML: un micro-caso de éxito**](https://dev.to/drcarlosruizviquez/mejora-en-pld-gracias-a-iaml-un-micro-caso-de-exito-kg3)
+- [Five months of learning, breaking things, fixing them, and somehow building my first proper RASA chatbot. Sharing the whole journey here](https://dev.to/aniket_kuyate_15acc4e6587/five-months-of-learning-breaking-things-fixing-them-and-somehow-building-my-first-proper-rasa-55g1)
+- [Two KubeCons, One Conference: While Everyone Demos AI Agents, Engineers Are Fighting With Syslogs](https://dev.to/aronchick/two-kubecons-one-conference-while-everyone-demos-ai-agents-engineers-are-fighting-with-syslogs-4bp6)
+- [MacOS: Make Paste and Match Style the default Paste hotkey behavior](https://dev.to/adamlombard/macos-make-paste-and-match-style-the-default-paste-hotkey-behavior-a6i)
+- [Rococo Supercharged Immutability, Time-Travel Debugging &amp; Event-Driven Workflows](https://dev.to/khaleelhabeeb/rococo-supercharged-immutability-time-travel-debugging-event-driven-workflows-4jk6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
