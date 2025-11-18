@@ -120,15 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Laravel-MediaWiki Mutant](https://dev.to/shroomok/laravel-mediawiki-mutant-18f7)
+- [Daily Skincare Routine for Glowing Skin: Morning to Night Guide](https://dev.to/mariamrankhive/daily-skincare-routine-for-glowing-skin-morning-to-night-guide-3en1)
+- [AI That Speaks Telecom: Why Telcos Need a Conscious, Always-On Operator](https://dev.to/abdul_shamim/ai-that-speaks-telecom-why-telcos-need-a-conscious-always-on-operator-2f82)
 - [Aurora DSQL - Build A Serverless Multi-Region E-Commerce Platform](https://dev.to/aws-builders/aurora-dsql-build-a-serverless-multi-region-e-commerce-platform-i62)
 - [Building Better Bots: When AI Meets Code](https://dev.to/mabualzait/building-better-bots-when-ai-meets-code-2npf)
-- [Affiliate Marketing in 2025: Why Most Programs Fail &lpar;And How Yours Won&#39;t&rpar;](https://dev.to/synergistdigitalmedia/affiliate-marketing-in-2025-why-most-programs-fail-and-how-yours-wont-5dp4)
-- [APIs shaped the last decade of software.
-Prompt templates will shape the next.
-
-Most developers still see prompts as “text instructions.”
-But in reality, prompts are rapidly becoming new interfaces and protocols.](https://dev.to/jaideepparashar/apis-shaped-the-last-decade-of-software-prompt-templates-will-shape-the-next-most-developers-3g5h)
-- [Why Prompt Templates Are the New APIs](https://dev.to/jaideepparashar/why-prompt-templates-are-the-new-apis-2ocb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
