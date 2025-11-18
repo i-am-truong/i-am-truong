@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Cancer Cures to Pornography: The Six-Month Descent of AI](https://dev.to/razoorka/from-cancer-cures-to-pornography-the-six-month-descent-of-ai-7db)
-- [I Made a Browser Extension That Tells You When a Site Uses Your Data to Train AI](https://dev.to/dwikbtn/is-your-data-training-someones-ai-i-built-a-browser-extension-to-find-out-42eh)
-- [Optimizing Web Performance: How Lazy-Loading Spline Assets Took Our Build From 30 to 90 in Lighthouse](https://dev.to/tolumen/optimizing-web-performance-how-lazy-loading-spline-assets-took-our-build-from-30-to-90-in-4ne2)
-- [Why Big Tech Won&#39;t Hire Flutter Developers in 2026](https://dev.to/eira-wexford/why-big-tech-wont-hire-flutter-developers-2i88)
-- [Adaptive Anti-Corruption Layer &lpar;AACL&rpar;](https://dev.to/panjieke/adaptive-anti-corruption-layer-aacl-3hb8)
+- [How to Mock Standalone Angular Services and RxJS Timers in Jest &lpar;Without Memory Leaks&rpar; With Best Practises Of Jest, Angular](https://dev.to/codewithrajat/how-to-mock-standalone-angular-services-and-rxjs-timers-in-jest-without-memory-leaks-with-best-12ij)
+- [Writing Maintainable Feature test&lpar;Real Laravel example&rpar;](https://dev.to/codecraft_diary_3d13677fb/writing-maintainable-feature-testreal-laravel-example-58eo)
+- [Israel Data Center: How MedOne Delivers 99.999 Percent Availability at Scale](https://dev.to/mrbee/israel-data-center-how-medone-delivers-99999-percent-availability-at-scale-614)
+- [Maximizing CPU Core Utilization: GraphBit&#39;s Parallel Processing Strategies](https://dev.to/yeahiasarker/maximizing-cpu-core-utilization-graphbits-parallel-processing-strategies-16ke)
+- [Build Your Own Magic Atomic State](https://dev.to/oknoorap/build-your-own-magic-atomic-state-46nj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
