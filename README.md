@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Modern Data Governance Framework for Google Cloud: Implementing Just-Enough and Just-in-Time Access](https://dev.to/hikikomorineko/a-modern-data-governance-framework-for-google-cloud-implementing-just-enough-and-just-in-time-1a0d)
-- [Why Identity Threat Detection &amp; Response &lpar;ITDR&rpar; Is Becoming Essential in Modern Security](https://dev.to/sunnysinh_a/why-identity-threat-detection-response-itdr-is-becoming-essential-in-modern-security-15ih)
-- [Cracking the Medical Coding Challenge: Fine-Tuning BioBERT for ICD-10 Classification &lpar;Part 1&rpar;](https://dev.to/alexretana/cracking-the-medical-coding-challenge-fine-tuning-biobert-for-icd-10-classification-part-1-7oc)
-- [⭐ HTML Input Types &lpar;With Examples&rpar;](https://dev.to/ramyasree_manthena_76c598/html-input-types-with-examples-4555)
-- [Distributed Pub/Sub in Spring Boot Without the Headache](https://dev.to/seonwoo960000/distributed-pubsub-in-spring-boot-without-the-headache-1mn1)
+- [The Hard Truth About Learning Spring Boot &lpar;And How to Actually Master It&rpar;](https://dev.to/omrrharbi/the-hard-truth-about-learning-spring-boot-and-how-to-actually-master-it-5457)
+- [[Boost]](https://dev.to/oncloud7/-39fd)
+- [Inside Amazon EKS: Understanding Its Core Architecture](https://dev.to/oncloud7/inside-amazon-eks-understanding-its-core-architecture-324o)
+- [Hackathon Arc: Birth of Yantram.dev](https://dev.to/namish/hackathon-arc-birth-of-yantramdev-2lp2)
+- [When Cloudflare Sneezes, the Internet Catches a Cold](https://dev.to/debugger360/when-cloudflare-sneezes-the-internet-catches-a-cold-5d73)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
