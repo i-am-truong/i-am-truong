@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Energy Efficiency Tips for Food Manufacturing Plants](https://dev.to/jason-robinson/energy-efficiency-tips-for-food-manufacturing-plants-28ig)
+- [Why Every iOS Developer Needs Their Own Pet Projects](https://dev.to/maxnxi/why-every-ios-developer-needs-their-own-pet-projects-3e1l)
 - [Growth Hacking in 2025: What Actually Moves the Needle &lpar;And What Just Sounds Cool&rpar;](https://dev.to/synergistdigitalmedia/growth-hacking-in-2025-what-actually-moves-the-needle-and-what-just-sounds-cool-276)
 - [The Hidden Time Drain Killing Your Business Productivity](https://dev.to/tracksimple/the-hidden-time-drain-killing-your-business-productivity-2b3j)
 - [How Async/Await Made Me Love Asynchronous JavaScript Again](https://dev.to/ofodile/how-asyncawait-made-me-love-asynchronous-javascript-again-2do)
-- [PHP’s Next Chapter: From Web Framework to Agent Framework](https://dev.to/inspector/phps-next-chapter-from-web-framework-to-agent-framework-59p4)
-- [How to Create a Resource Group in Azure](https://dev.to/adebayo_ganiyatoladunjoy/how-to-create-a-resource-group-in-azure-46ma)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
