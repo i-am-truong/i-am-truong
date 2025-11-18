@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Coding Challenge Practice - Question 59](https://dev.to/tomivan/coding-challenge-practice-question-59-2j5o)
 - [⏳ The Anti-Productivity Guide: Embrace Your 4,000 Weeks with Super Productivity](https://dev.to/johannesjo/the-anti-productivity-guide-embrace-your-4000-weeks-with-super-productivity-2a9c)
 - [How to Build Robust Evaluation Datasets for AI Agents: Tips and Tricks](https://dev.to/kuldeep_paul/how-to-build-robust-evaluation-datasets-for-ai-agents-tips-and-tricks-3kp0)
 - [From brute force to reinforcement: optimizing intelligent agents with modern AI](https://dev.to/vicodev/from-brute-force-to-reinforcement-optimizing-intelligent-agents-with-modern-ai-4g0k)
 - [De la fuerza bruta al refuerzo: optimizando agentes inteligentes con IA moderna](https://dev.to/vicodev/de-la-fuerza-bruta-al-refuerzo-optimizando-agentes-inteligentes-con-ia-moderna-poa)
-- [No OAuth Required: An MCP Client For AWS IAM](https://dev.to/aws/no-oauth-required-an-mcp-client-for-aws-iam-k1o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
