@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [You&#39;re Stuck in &quot;Tutorial Hell.&quot; Here&#39;s Your Direct Escape Route.](https://dev.to/devhabib/youre-stuck-in-tutorial-hell-heres-your-direct-escape-route-2emm)
-- [Introducing Dolphin - new way to make Android Apps using React.](https://dev.to/lifeasaswin/introducing-dolphin-new-way-to-make-android-apps-using-react-1boa)
-- [Best Photo Organizing Software with Facial Recognition in 2025 — Based on My Experience](https://dev.to/valerie_novak/best-photo-organizing-software-with-facial-recognition-in-2025-based-on-my-experience-41p0)
-- [Replacing Toasts with Accessible User Feedback Patterns](https://dev.to/miasalazar/replacing-toasts-with-accessible-user-feedback-patterns-1p8l)
-- [Gemini 3: Google&#39;s Boldest AI Bet Yet – Why Developers Can&#39;t Ignore It](https://dev.to/om_shree_0709/gemini-3-googles-boldest-ai-bet-yet-why-developers-cant-ignore-it-56c4)
+- [From brute force to reinforcement: optimizing intelligent agents with modern AI](https://dev.to/vicodev/from-brute-force-to-reinforcement-optimizing-intelligent-agents-with-modern-ai-4g0k)
+- [De la fuerza bruta al refuerzo: optimizando agentes inteligentes con IA moderna](https://dev.to/vicodev/de-la-fuerza-bruta-al-refuerzo-optimizando-agentes-inteligentes-con-ia-moderna-poa)
+- [No OAuth Required: An MCP Client For AWS IAM](https://dev.to/aws/no-oauth-required-an-mcp-client-for-aws-iam-k1o)
+- [Vibe Coding vs. System Architecture: Why &quot;It Works&quot; is Not the Same as &quot;It Scales&quot;](https://dev.to/alikarbasicom/vibe-coding-vs-system-architecture-why-it-works-is-not-the-same-as-it-scales-2ho3)
+- [10 Ways to Optimize Your LLM Applications](https://dev.to/kuldeep_paul/10-ways-to-optimize-your-llm-applications-36hl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
