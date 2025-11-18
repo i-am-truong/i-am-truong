@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Jeff Su: Master 80% of Notion with this ONE Feature](https://dev.to/future_ai/jeff-su-master-80-of-notion-with-this-one-feature-58mk)
+- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-49ll)
+- [Deconstructing a Production-Ready AI Agent: A Beginner&#39;s Guide - Part 2](https://dev.to/ladam2000/the-agents-brain-defining-logic-and-reasoning-with-strands-agents-part-2-4aj2)
+- [How Non-Developers Are Building Apps: Low-Code &amp; No-Code Platforms](https://dev.to/toluxx/how-non-developers-are-building-apps-low-code-no-code-platforms-37pm)
 - [Update: Why X, ChatGPT, and Cloudflare Are Down](https://dev.to/adityapidurkar/update-why-x-chatgpt-and-cloudflare-are-down-14b6)
-- [How to Mock Standalone Angular Services and RxJS Timers in Jest &lpar;Without Memory Leaks&rpar; With Best Practises Of Jest, Angular](https://dev.to/codewithrajat/how-to-mock-standalone-angular-services-and-rxjs-timers-in-jest-without-memory-leaks-with-best-12ij)
-- [Writing Maintainable Feature test&lpar;Real Laravel example&rpar;](https://dev.to/codecraft_diary_3d13677fb/writing-maintainable-feature-testreal-laravel-example-58eo)
-- [Israel Data Center: How MedOne Delivers 99.999 Percent Availability at Scale](https://dev.to/mrbee/israel-data-center-how-medone-delivers-99999-percent-availability-at-scale-614)
-- [Maximizing CPU Core Utilization: GraphBit&#39;s Parallel Processing Strategies](https://dev.to/yeahiasarker/maximizing-cpu-core-utilization-graphbits-parallel-processing-strategies-16ke)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
