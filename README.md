@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [**Evaluating Generative AI: A Novel Metric - Perceptual Dive](https://dev.to/drcarlosruizviquez/evaluating-generative-ai-a-novel-metric-perceptual-dive-2bef)
+- [FoalTS - NodeJS framework - version 5.1 is out](https://dev.to/loicpoullain/foalts-nodejs-framework-version-51-is-out-566e)
 - [MongoDB Transactions in Laravel](https://dev.to/mongodb/mongodb-transactions-in-laravel-3110)
 - [7 Best Resources to Learn Python: My Personal Journey and Recommendations](https://dev.to/stack_overflowed/7-best-resources-to-learn-python-my-personal-journey-and-recommendations-3bdh)
 - [Azure APIM MCP: The Good, The Bad, The Ugly](https://dev.to/itsrene/azure-apim-mcp-the-good-the-bad-the-ugly-3gl7)
-- [Master SQL with 100 Challenging Questions: Test Your Database Skills](https://dev.to/sapanapal6/master-sql-with-100-challenging-questions-test-your-database-skills-2nca)
-- [Building Smart Learning Platforms: Modern Tech Stack &amp; Best Practices for 2025](https://dev.to/gloobia/building-smart-learning-platforms-modern-tech-stack-best-practices-for-2025-4n6c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
