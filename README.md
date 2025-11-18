@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with JavaScript in Oracle: Simple MLE Use Cases and Procedures](https://dev.to/rajesh_vohra_e75f579b7888/getting-started-with-javascript-in-oracle-simple-mle-use-cases-and-procedures-48m)
-- [Final Round AI vs Sensei AI: Which One Really Prepares You for the Real Interview?](https://dev.to/finalroundai/final-round-ai-vs-sensei-ai-which-one-really-prepares-you-for-the-real-interview-4m5j)
-- [Beginner-Friendly PL/SQL and JavaScript MLE Examples for Oracle 26ai](https://dev.to/rajesh_vohra_e75f579b7888/beginner-friendly-plsql-and-javascript-mle-examples-for-oracle-26ai-895)
-- [I Learned React Wrong for 3 Months. Here&#39;s What I Wish I Knew on Day 1](https://dev.to/sahil_sahu/i-learned-react-wrong-for-3-months-heres-what-i-wish-i-knew-on-day-1-hcp)
-- [Transforming LLM Apps: How Monetzly Boosts API Monetization](https://dev.to/monetzly/transforming-llm-apps-how-monetzly-boosts-api-monetization-1kne)
+- [Why CIOs and CTOs Need to Own Corporate Recycling](https://dev.to/rylko_roman_965498de23cd8/why-cios-and-ctos-need-to-own-corporate-recycling-4mp9)
+- [The Secret Life of Python: GIL Secrets - Python&#39;s Threading Mystery](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-gil-secrets-pythons-threading-mystery-10bh)
+- [How I turned my Netflix system design interview failures into frameworks that work](https://dev.to/dev_loops/how-i-turned-my-netflix-system-design-interview-failures-into-frameworks-that-work-13nj)
+- [[Boost]](https://dev.to/rajesh_vohra_e75f579b7888/-b50)
+- [What Is an Asset Retirement in IT Asset Management?](https://dev.to/teresa_tran/what-is-an-asset-retirement-in-it-asset-management-2lf8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
