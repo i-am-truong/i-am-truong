@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Create Reusable Jira Templates for Cross-Department Workflows](https://dev.to/dorota_from_vilisoft/how-to-create-reusable-jira-templates-for-cross-department-workflows-3ine)
-- [Bridging Policy and Automation: Building a Compliant AWS Pipeline in a Regulated Environment](https://dev.to/neamanahmed/bridging-policy-and-automation-building-a-compliant-aws-pipeline-in-a-regulated-environment-37nm)
-- [From Text File to Smart Search: Building RAG with Gemini in Minutes](https://dev.to/lightningdev123/from-text-file-to-smart-search-building-rag-with-gemini-in-minutes-4o7p)
-- [🧱 Lesson 8 - Authentication &amp; Authorization in .NET](https://dev.to/farrukh_rehman/lesson-8-authentication-authorization-in-net-3m84)
-- [Can AI compose truly new music? Exploring the promise and limits](https://dev.to/polyapolza108/can-ai-compose-truly-new-music-exploring-the-promise-and-limits-53en)
+- [Mastering Fast English Speech: Techniques for Quick Comprehension](https://dev.to/nguyn_nguynb_d299ab12/mastering-fast-english-speech-techniques-for-quick-comprehension-1l3m)
+- [Automating Load Testing: From Local Dev to Production Confidence](https://dev.to/gatling/automating-load-testing-from-local-dev-to-production-confidence-3mfk)
+- [Multipass + Terraform: Modern VM Automation Guide](https://dev.to/todoroff/multipass-terraform-modern-vm-automation-guide-129l)
+- [A Complete Guide to CI/CD Pipelines — From Zero to Deployment](https://dev.to/farhadrahimiklie/a-complete-guide-to-cicd-pipelines-from-zero-to-deployment-1jf2)
+- [Nuxt 4.2 — A Deep, Comprehensive Guide to Everything New](https://dev.to/ahmed_niazy/nuxt-42-a-deep-comprehensive-guide-to-everything-new-fkb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
