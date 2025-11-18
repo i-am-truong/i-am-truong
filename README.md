@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [US Tax Calculations in E-Commerce: How to Get It Right](https://dev.to/u11d/us-tax-calculations-in-e-commerce-how-to-get-it-right-5gfn)
-- [Cryptography in 2025: The Quantum Leap and the AI Arms Race](https://dev.to/ruban_6c3dae44f6a35e83c59/cryptography-in-2025-the-quantum-leap-and-the-ai-arms-race-gi7)
-- [The Privacy Rebellion Begins: Introducing Guardyn](https://dev.to/anrysys/the-privacy-rebellion-begins-introducing-guardyn-gk0)
-- [eBPF Tutorial by Example: Implementing the `scx_nest` Scheduler](https://dev.to/yunwei37/ebpf-tutorial-by-example-implementing-the-scxnest-scheduler-h79)
-- [Image Scanning Tools &lpar;Anchore, Clair&rpar;](https://dev.to/godofgeeks/image-scanning-tools-anchore-clair-4kmg)
+- [Why Your Content Must Address Data Privacy, AI Ethics, and Digital Rights — or Risk Losing Your Audience](https://dev.to/okoye_ndidiamaka_5e3b7d30/why-your-content-must-address-data-privacy-ai-ethics-and-digital-rights-or-risk-losing-your-4pck)
+- [Expert Signal: Making Professionals Discoverable to AI](https://dev.to/siddharthbhalsod/expert-signal-making-professionals-discoverable-to-ai-a54)
+- [Why Laravel Continues to Lead PHP Development in 2026](https://dev.to/er_bhanu_pratap_95/why-laravel-continues-to-lead-php-development-in-2026-4ep0)
+- [Taillens: A Tailwind Extension for Real-Time CSS Editing](https://dev.to/harshalranjhani/taillens-a-tailwind-extension-for-real-time-css-editing-239n)
+- [The Hard-Coded Crash: A Story of Dynamic Heap Allocation in Node.js](https://dev.to/asaffederman/the-hard-coded-crash-a-story-of-dynamic-heap-allocation-in-nodejs-5a77)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
