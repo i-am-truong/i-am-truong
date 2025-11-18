@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [React 19 for the Power Users](https://dev.to/tajnur/react-19-for-the-power-users-l44)
 - [AWS Professional &amp; Specialty Certifications Guide for 2026](https://dev.to/eliza_elynn_f4d2eb744a9b8/aws-professional-specialty-certifications-guide-for-2026-k1n)
 - [Energy Efficiency Tips for Food Manufacturing Plants](https://dev.to/jason-robinson/energy-efficiency-tips-for-food-manufacturing-plants-28ig)
 - [Introduction to Qlik Replicate &amp; Architecture](https://dev.to/srinivasuluparanduru/introduction-to-qlik-replicate-architecture-578p)
 - [Why Every iOS Developer Needs Their Own Pet Projects](https://dev.to/maxnxi/why-every-ios-developer-needs-their-own-pet-projects-3e1l)
-- [Understanding F.prototype in JavaScript: A Complete Guide](https://dev.to/samuel_ochaba_eb9c875fa89/understanding-fprototype-in-javascript-a-complete-guide-p7n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
