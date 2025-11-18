@@ -120,11 +120,13 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [**Mejora en PLD gracias a IA/ML: un micro-caso de éxito**](https://dev.to/drcarlosruizviquez/mejora-en-pld-gracias-a-iaml-un-micro-caso-de-exito-kg3)
-- [Five months of learning, breaking things, fixing them, and somehow building my first proper RASA chatbot. Sharing the whole journey here](https://dev.to/aniket_kuyate_15acc4e6587/five-months-of-learning-breaking-things-fixing-them-and-somehow-building-my-first-proper-rasa-55g1)
-- [Two KubeCons, One Conference: While Everyone Demos AI Agents, Engineers Are Fighting With Syslogs](https://dev.to/aronchick/two-kubecons-one-conference-while-everyone-demos-ai-agents-engineers-are-fighting-with-syslogs-4bp6)
-- [MacOS: Make Paste and Match Style the default Paste hotkey behavior](https://dev.to/adamlombard/macos-make-paste-and-match-style-the-default-paste-hotkey-behavior-a6i)
-- [Rococo Supercharged Immutability, Time-Travel Debugging &amp; Event-Driven Workflows](https://dev.to/khaleelhabeeb/rococo-supercharged-immutability-time-travel-debugging-event-driven-workflows-4jk6)
+- [Replacing Toasts with Accessible User Feedback Patterns](https://dev.to/miasalazar/replacing-toasts-with-accessible-user-feedback-patterns-1p8l)
+- [Upgrading React-Native from Android SDK 34 35: Real Issues, Real Fixes, and What No One Tells You](https://dev.to/muhammad_harisbaig_1268d/upgrading-react-native-from-android-sdk-34-35-real-issues-real-fixes-and-what-no-one-tells-you-5p9)
+- [Confessions of a Totally Average Dev: Why Being Kinda Dumb Is the Best Job on Earth ☀️😏](https://dev.to/om_shree_0709/confessions-of-a-totally-average-dev-why-being-kinda-dumb-is-the-best-job-on-earth-5049)
+- [Cloudflare Went Down - Here&#39;s What Really Happened Today](https://dev.to/mohitb_twt/cloudflare-went-down-heres-what-really-happened-today-54dg)
+- [Cloudflare Global Network Outage — What Happened &amp; Why It Matters?
+
+A major disruption hit the internet today as Cloudflare’s Global Network experienced issues, temporarily affecting millions of websites, APIs and CDN-backed services worldwide.](https://dev.to/cryptowebbuild/cloudflare-global-network-outage-what-happened-why-it-matters-a-major-disruption-hit-the-50im)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
