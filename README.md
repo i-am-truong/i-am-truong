@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [DeepSeek OCR in Automation Pipelines: Practical Engineering Insights and Integration Patterns](https://dev.to/alifar/deepseek-ocr-in-automation-pipelines-practical-engineering-insights-and-integration-patterns-3g4a)
-- [Realme UI 7.0 Breaks Cover With Smarter AI and a Cleaner, Faster Interface](https://dev.to/logicverse_2025/realme-ui-70-breaks-cover-with-smarter-ai-and-a-cleaner-faster-interface-4aa1)
-- [Google Workspace Developer Summit - Behind the scenes](https://dev.to/googleworkspace/google-workspace-developer-summit-behind-the-scenes-5ggp)
-- [Why Teams Need a Bridge Between DAST Tools and Human Pentesters](https://dev.to/sambishop/why-teams-need-a-bridge-between-dast-tools-and-human-pentesters-4jec)
-- [We built the first native mobile AI agent and open-sourced it🤯](https://dev.to/priya_negi_9ffd29931ea408/we-built-the-first-native-mobile-ai-agent-and-its-open-source-56c7)
+- [6 Essential Data Formats in Cloud Analytics: A Complete Guide with Examples](https://dev.to/raj_shriwastava_989889ad4/6-essential-data-formats-in-cloud-analytics-a-complete-guide-with-examples-7i)
+- [How to tell if I bricked my microcontroller board?](https://dev.to/carolineee/how-to-tell-if-i-bricked-my-microcontroller-board-21ii)
+- [A List of Status Pages Every TechOps Engineer Should Know](https://dev.to/talonx/a-list-of-status-pages-every-techops-engineer-should-know-28kd)
+- [How to Create Stunning AI Videos from Text with Genra.ai](https://dev.to/genra_ai/how-to-create-stunning-ai-videos-from-text-with-genraai-4j1f)
+- [WordPress 6.9 is landing this Christmas and one new feature is way bigger than it sounds](https://dev.to/muzammildev/wordpress-69-is-landing-this-christmas-and-one-new-feature-is-way-bigger-than-it-sounds-5d7b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
