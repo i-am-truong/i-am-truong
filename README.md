@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [MongoDB Transactions in Laravel](https://dev.to/mongodb/mongodb-transactions-in-laravel-3110)
+- [7 Best Resources to Learn Python: My Personal Journey and Recommendations](https://dev.to/stack_overflowed/7-best-resources-to-learn-python-my-personal-journey-and-recommendations-3bdh)
+- [Azure APIM MCP: The Good, The Bad, The Ugly](https://dev.to/itsrene/azure-apim-mcp-the-good-the-bad-the-ugly-3gl7)
+- [Master SQL with 100 Challenging Questions: Test Your Database Skills](https://dev.to/sapanapal6/master-sql-with-100-challenging-questions-test-your-database-skills-2nca)
 - [Building Smart Learning Platforms: Modern Tech Stack &amp; Best Practices for 2025](https://dev.to/gloobia/building-smart-learning-platforms-modern-tech-stack-best-practices-for-2025-4n6c)
-- [Two Weeks Stuck on Authentication: My Headless API Journey](https://dev.to/debugger360/two-weeks-stuck-on-authentication-my-headless-api-journey-1m65)
-- [Exploring XRP in DeFi and What It Teaches Us](https://dev.to/ripplexdev/exploring-xrp-in-defi-and-what-it-teaches-us-i72)
-- [Why You Should Start Using Next.js Route Groups](https://dev.to/beyondlogic/why-you-should-start-using-nextjs-route-groups-47o2)
-- [React template: Tanstack Query](https://dev.to/tkorakas/tanstack-query-5d56)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
