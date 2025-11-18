@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [React 19 for the Power Users](https://dev.to/tajnur/react-19-for-the-power-users-l44)
-- [AWS Professional &amp; Specialty Certifications Guide for 2026](https://dev.to/eliza_elynn_f4d2eb744a9b8/aws-professional-specialty-certifications-guide-for-2026-k1n)
-- [Energy Efficiency Tips for Food Manufacturing Plants](https://dev.to/jason-robinson/energy-efficiency-tips-for-food-manufacturing-plants-28ig)
-- [Introduction to Qlik Replicate &amp; Architecture](https://dev.to/srinivasuluparanduru/introduction-to-qlik-replicate-architecture-578p)
-- [Why Every iOS Developer Needs Their Own Pet Projects](https://dev.to/maxnxi/why-every-ios-developer-needs-their-own-pet-projects-3e1l)
+- [How I Passed My First Senior Backend Interview &lpar;Go&rpar; Using Educative](https://dev.to/devflex-pro/how-i-passed-my-first-senior-backend-interview-go-using-educative-35h1)
+- [How to manage Let&#39;s Encrypt certificate on EC2 instance](https://dev.to/jurijs_iv/how-to-manage-lets-encrypt-certificate-on-ec2-instance-46f4)
+- [Web Developer Travis McCracken on Statelessness in Server Architecture](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-statelessness-in-server-architecture-3d80)
+- [Mastering Docker: A Complete, Professional Guide to Containers, Networks, Volumes, Dockerfiles, and Docker Compose](https://dev.to/hajixhayjhay/mastering-docker-a-complete-professional-guide-to-containers-networks-volumes-dockerfiles-and-14cd)
+- [TypeScript Is Turning JavaScript into Java, and Nobody Wants to Admit It](https://dev.to/ofodile/typescript-is-turning-javascript-into-java-and-nobody-wants-to-admit-it-402i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
