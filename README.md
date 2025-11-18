@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [US Tax Calculations in E-Commerce: How to Get It Right](https://dev.to/u11d/us-tax-calculations-in-e-commerce-how-to-get-it-right-5gfn)
 - [Cryptography in 2025: The Quantum Leap and the AI Arms Race](https://dev.to/ruban_6c3dae44f6a35e83c59/cryptography-in-2025-the-quantum-leap-and-the-ai-arms-race-gi7)
+- [The Privacy Rebellion Begins: Introducing Guardyn](https://dev.to/anrysys/the-privacy-rebellion-begins-introducing-guardyn-gk0)
+- [eBPF Tutorial by Example: Implementing the `scx_nest` Scheduler](https://dev.to/yunwei37/ebpf-tutorial-by-example-implementing-the-scxnest-scheduler-h79)
 - [Image Scanning Tools &lpar;Anchore, Clair&rpar;](https://dev.to/godofgeeks/image-scanning-tools-anchore-clair-4kmg)
-- [第 24.3 课：币安合约交易操作详解](https://dev.to/henry_lin_3ac6363747f45b4/di-243-ke-bi-an-he-yue-jiao-yi-cao-zuo-xiang-jie-2hkh)
-- [MVC - Third Step](https://dev.to/vasudevankumar/mvc-third-step-50pi)
-- [TM1637 Board Arduino Example](https://dev.to/danielmx/tm1637-board-arduino-example-1po1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
