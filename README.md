@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up NestJS with Prisma &lpar;Without the Headache &rpar;](https://dev.to/xavier_carreragimbert/setting-up-nestjs-with-prisma-without-the-headache--47n2)
-- [The January Ghost Town: 7 Email Sequences That Keep December Buyers Coming Back](https://dev.to/synergistdigitalmedia/the-january-ghost-town-7-email-sequences-that-keep-december-buyers-coming-back-hkg)
-- [Building a Privacy-First Financial Analysis PWA with Blazor WebAssembly + On-Device AI &lpar;Gemini Nano&rpar;](https://dev.to/whitewaw/building-a-privacy-first-financial-analysis-pwa-with-blazor-webassembly-on-device-ai-gemini-nano-94a)
-- [Debugging Windows Race Conditions in Dagster](https://dev.to/jongwan93/debugging-windows-race-conditions-in-dagster-278b)
-- [JSON: The Simple Data Format That Transformed the Modern Web](https://dev.to/devendra_singh_f5e85b1362/json-the-simple-data-format-that-transformed-the-modern-web-1bp5)
+- [Creating Storage Account for Finance Department&#39;s shared file](https://dev.to/baris86/creating-storage-account-for-finance-departments-shared-file-2d77)
+- [¿Qué WMS se adapta mejor a bodegas en Chile?](https://dev.to/cerca_technology_defb08b3/que-wms-se-adapta-mejor-a-bodegas-en-chile-1l25)
+- [LinkedIn&#39;s Algorithm Stopped Rewarding Pretty Slides &lpar;And Started Rewarding Actual Thinking&rpar;](https://dev.to/synergistdigitalmedia/linkedins-algorithm-stopped-rewarding-pretty-slides-and-started-rewarding-actual-thinking-1e7l)
+- [In this article, I dive into Next.js Route Groups — what they are, how they work, and why they can make your app structure cleaner and more maintainable. I also cover some practical tips, common pitfalls, and layout strategies you can start using today.](https://dev.to/beyondlogic/in-this-article-i-dive-into-nextjs-route-groups-what-they-are-how-they-work-and-why-they-can-177h)
+- [Kicking Off 2026: Unlocking World Cup Secrets](https://dev.to/mabualzait/kicking-off-2026-unlocking-world-cup-secrets-4gmb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
