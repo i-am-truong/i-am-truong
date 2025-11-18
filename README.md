@@ -120,13 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [You&#39;re Stuck in &quot;Tutorial Hell.&quot; Here&#39;s Your Direct Escape Route.](https://dev.to/devhabib/youre-stuck-in-tutorial-hell-heres-your-direct-escape-route-2emm)
+- [Introducing Dolphin - new way to make Android Apps using React.](https://dev.to/lifeasaswin/introducing-dolphin-new-way-to-make-android-apps-using-react-1boa)
+- [Best Photo Organizing Software with Facial Recognition in 2025 — Based on My Experience](https://dev.to/valerie_novak/best-photo-organizing-software-with-facial-recognition-in-2025-based-on-my-experience-41p0)
 - [Replacing Toasts with Accessible User Feedback Patterns](https://dev.to/miasalazar/replacing-toasts-with-accessible-user-feedback-patterns-1p8l)
-- [Upgrading React-Native from Android SDK 34 35: Real Issues, Real Fixes, and What No One Tells You](https://dev.to/muhammad_harisbaig_1268d/upgrading-react-native-from-android-sdk-34-35-real-issues-real-fixes-and-what-no-one-tells-you-5p9)
-- [Confessions of a Totally Average Dev: Why Being Kinda Dumb Is the Best Job on Earth ☀️😏](https://dev.to/om_shree_0709/confessions-of-a-totally-average-dev-why-being-kinda-dumb-is-the-best-job-on-earth-5049)
-- [Cloudflare Went Down - Here&#39;s What Really Happened Today](https://dev.to/mohitb_twt/cloudflare-went-down-heres-what-really-happened-today-54dg)
-- [Cloudflare Global Network Outage — What Happened &amp; Why It Matters?
-
-A major disruption hit the internet today as Cloudflare’s Global Network experienced issues, temporarily affecting millions of websites, APIs and CDN-backed services worldwide.](https://dev.to/cryptowebbuild/cloudflare-global-network-outage-what-happened-why-it-matters-a-major-disruption-hit-the-50im)
+- [Gemini 3: Google&#39;s Boldest AI Bet Yet – Why Developers Can&#39;t Ignore It](https://dev.to/om_shree_0709/gemini-3-googles-boldest-ai-bet-yet-why-developers-cant-ignore-it-56c4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
