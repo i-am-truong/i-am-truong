@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why CIOs and CTOs Need to Own Corporate Recycling](https://dev.to/rylko_roman_965498de23cd8/why-cios-and-ctos-need-to-own-corporate-recycling-4mp9)
-- [The Secret Life of Python: GIL Secrets - Python&#39;s Threading Mystery](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-gil-secrets-pythons-threading-mystery-10bh)
-- [How I turned my Netflix system design interview failures into frameworks that work](https://dev.to/dev_loops/how-i-turned-my-netflix-system-design-interview-failures-into-frameworks-that-work-13nj)
-- [[Boost]](https://dev.to/rajesh_vohra_e75f579b7888/-b50)
-- [What Is an Asset Retirement in IT Asset Management?](https://dev.to/teresa_tran/what-is-an-asset-retirement-in-it-asset-management-2lf8)
+- [Cryptography in 2025: The Quantum Leap and the AI Arms Race](https://dev.to/ruban_6c3dae44f6a35e83c59/cryptography-in-2025-the-quantum-leap-and-the-ai-arms-race-gi7)
+- [Image Scanning Tools &lpar;Anchore, Clair&rpar;](https://dev.to/godofgeeks/image-scanning-tools-anchore-clair-4kmg)
+- [第 24.3 课：币安合约交易操作详解](https://dev.to/henry_lin_3ac6363747f45b4/di-243-ke-bi-an-he-yue-jiao-yi-cao-zuo-xiang-jie-2hkh)
+- [MVC - Third Step](https://dev.to/vasudevankumar/mvc-third-step-50pi)
+- [TM1637 Board Arduino Example](https://dev.to/danielmx/tm1637-board-arduino-example-1po1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
