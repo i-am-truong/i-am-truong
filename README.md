@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Empresas também evoluem](https://dev.to/andersoncontreira/empresas-tambem-evoluem-e8g)
+- [Packing Power: AI Cracks the Sphere Optimization Code](https://dev.to/arvind_sundararajan/packing-power-ai-cracks-the-sphere-optimization-code-h8m)
 - [The Year We Crossed the Threshold: A Journey Through 2025&#39;s Most Transformative Technology](https://dev.to/thebitforge/the-year-we-crossed-the-threshold-a-journey-through-2025s-most-transformative-technology-3aa5)
 - [Você está pronto para uma demissão hoje?](https://dev.to/andersoncontreira/voce-esta-pronto-para-uma-demissao-hoje-3aia)
 - [Add Pages to PDFs with Python: A Comprehensive Guide](https://dev.to/codingco/add-pages-to-pdfs-with-python-a-comprehensive-guide-38nm)
-- [🛒 Understand Redux State Management: The Department Store analogy](https://dev.to/cathylai/understand-redux-state-management-the-department-store-analogy-4e4p)
-- [Finding Min and Max Without Built-in Functions: A Python Tutorial](https://dev.to/highcenburg/finding-min-and-max-without-built-in-functions-a-python-tutorial-2ncg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
