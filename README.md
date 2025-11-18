@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How GitHub Copilot Uses MCP Tools Behind the Scenes](https://dev.to/this-is-learning/how-github-copilot-uses-mcp-tools-behind-the-scenes-11nk)
-- [Antigravity IDE: the next generation of AI-powered code editors](https://dev.to/vicodev/antigravity-ide-the-next-generation-of-ai-powered-code-editors-241h)
-- [Antigravity IDE: la nueva generación de editores impulsados por IA](https://dev.to/vicodev/antigravity-ide-la-nueva-generacion-de-editores-impulsados-por-ia-56m4)
-- [Setting up Kiro for Godot&lpar;MCP server&rpar;](https://dev.to/drutch/setting-up-kiro-for-godot-358c)
-- [Introducing Codebox: an open-source tool for remote development workspaces &lpar;beta&rpar;](https://dev.to/davide_bianchi_45fa6f2405/introducing-codebox-an-open-source-tool-for-remote-development-workspaces-beta-5549)
+- [Setting Up NestJS with Prisma &lpar;Without the Headache &rpar;](https://dev.to/xavier_carreragimbert/setting-up-nestjs-with-prisma-without-the-headache--47n2)
+- [The January Ghost Town: 7 Email Sequences That Keep December Buyers Coming Back](https://dev.to/synergistdigitalmedia/the-january-ghost-town-7-email-sequences-that-keep-december-buyers-coming-back-hkg)
+- [Building a Privacy-First Financial Analysis PWA with Blazor WebAssembly + On-Device AI &lpar;Gemini Nano&rpar;](https://dev.to/whitewaw/building-a-privacy-first-financial-analysis-pwa-with-blazor-webassembly-on-device-ai-gemini-nano-94a)
+- [Debugging Windows Race Conditions in Dagster](https://dev.to/jongwan93/debugging-windows-race-conditions-in-dagster-278b)
+- [JSON: The Simple Data Format That Transformed the Modern Web](https://dev.to/devendra_singh_f5e85b1362/json-the-simple-data-format-that-transformed-the-modern-web-1bp5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
