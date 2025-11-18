@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Added On-Chain Rewards and NFTs to Solana Quiz: Practical Insights, Pitfalls, and Tips](https://dev.to/dima-zaichenko/how-i-added-on-chain-rewards-and-nfts-to-solana-quiz-practical-insights-pitfalls-and-tips-2l51)
-- [Building a Network Lab on Kubernetes with netclab-chart](https://dev.to/mbakalarski/building-a-network-lab-on-kubernetes-with-netclab-chart-2jjk)
-- [PDF Translate – Free PDF Translator | pdf-translation.com](https://dev.to/digiplan_pro_52d07cbd0f1a/pdf-translate-free-pdf-translator-pdf-translationcom-4eb8)
-- [Looking to collab with EU/US devs](https://dev.to/aroma_nihon_696690efb774e/looking-to-collab-with-euus-devs-og3)
-- [Website laten maken in WordPress: de voordelen van een gebruiksvriendelijk CMS](https://dev.to/creatixcode1/website-laten-maken-in-wordpress-de-voordelen-van-een-gebruiksvriendelijk-cms-21io)
+- [DeepSeek OCR in Automation Pipelines: Practical Engineering Insights and Integration Patterns](https://dev.to/alifar/deepseek-ocr-in-automation-pipelines-practical-engineering-insights-and-integration-patterns-3g4a)
+- [Realme UI 7.0 Breaks Cover With Smarter AI and a Cleaner, Faster Interface](https://dev.to/logicverse_2025/realme-ui-70-breaks-cover-with-smarter-ai-and-a-cleaner-faster-interface-4aa1)
+- [Google Workspace Developer Summit - Behind the scenes](https://dev.to/googleworkspace/google-workspace-developer-summit-behind-the-scenes-5ggp)
+- [Why Teams Need a Bridge Between DAST Tools and Human Pentesters](https://dev.to/sambishop/why-teams-need-a-bridge-between-dast-tools-and-human-pentesters-4jec)
+- [We built the first native mobile AI agent and open-sourced it🤯](https://dev.to/priya_negi_9ffd29931ea408/we-built-the-first-native-mobile-ai-agent-and-its-open-source-56c7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
