@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Your Content Must Address Data Privacy, AI Ethics, and Digital Rights — or Risk Losing Your Audience](https://dev.to/okoye_ndidiamaka_5e3b7d30/why-your-content-must-address-data-privacy-ai-ethics-and-digital-rights-or-risk-losing-your-4pck)
-- [Expert Signal: Making Professionals Discoverable to AI](https://dev.to/siddharthbhalsod/expert-signal-making-professionals-discoverable-to-ai-a54)
-- [Why Laravel Continues to Lead PHP Development in 2026](https://dev.to/er_bhanu_pratap_95/why-laravel-continues-to-lead-php-development-in-2026-4ep0)
-- [Taillens: A Tailwind Extension for Real-Time CSS Editing](https://dev.to/harshalranjhani/taillens-a-tailwind-extension-for-real-time-css-editing-239n)
-- [The Hard-Coded Crash: A Story of Dynamic Heap Allocation in Node.js](https://dev.to/asaffederman/the-hard-coded-crash-a-story-of-dynamic-heap-allocation-in-nodejs-5a77)
+- [Trash Theory: Exploring Tricky &amp; Maxinquaye: The 90s Bowie? | New British Canon](https://dev.to/music_youtube/trash-theory-exploring-tricky-maxinquaye-the-90s-bowie-new-british-canon-hbf)
+- [Menggunakan Dua Akun GitHub di Satu Laptop &lpar;Office + Pribadi&rpar; dengan SSH Key Terpisah](https://dev.to/bluething/menggunakan-dua-akun-github-di-satu-laptop-office-pribadi-dengan-ssh-key-terpisah-mp4)
+- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-25hf)
+- [The Role of Stakeholder Analysis in Project Success](https://dev.to/writegenic/the-role-of-stakeholder-analysis-in-project-success-4e55)
+- [transform](https://dev.to/nikimunger/transform-1g72)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
