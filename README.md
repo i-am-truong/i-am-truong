@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [6 Essential Data Formats in Cloud Analytics: A Complete Guide with Examples](https://dev.to/raj_shriwastava_989889ad4/6-essential-data-formats-in-cloud-analytics-a-complete-guide-with-examples-7i)
-- [How to tell if I bricked my microcontroller board?](https://dev.to/carolineee/how-to-tell-if-i-bricked-my-microcontroller-board-21ii)
-- [A List of Status Pages Every TechOps Engineer Should Know](https://dev.to/talonx/a-list-of-status-pages-every-techops-engineer-should-know-28kd)
-- [How to Create Stunning AI Videos from Text with Genra.ai](https://dev.to/genra_ai/how-to-create-stunning-ai-videos-from-text-with-genraai-4j1f)
-- [WordPress 6.9 is landing this Christmas and one new feature is way bigger than it sounds](https://dev.to/muzammildev/wordpress-69-is-landing-this-christmas-and-one-new-feature-is-way-bigger-than-it-sounds-5d7b)
+- [From Text File to Smart Search: Building RAG with Gemini in Minutes](https://dev.to/lightningdev123/from-text-file-to-smart-search-building-rag-with-gemini-in-minutes-4o7p)
+- [🧱 Lesson 8 - Authentication &amp; Authorization in .NET](https://dev.to/farrukh_rehman/lesson-8-authentication-authorization-in-net-3m84)
+- [Can AI compose truly new music? Exploring the promise and limits](https://dev.to/polyapolza108/can-ai-compose-truly-new-music-exploring-the-promise-and-limits-53en)
+- [How to copy a tree, but not word for word](https://dev.to/pvsdev/how-to-copy-a-tree-but-not-word-for-word-c8l)
+- [What Makes a Cold Plunge Tub Worth It for Daily Wellness?](https://dev.to/wordnest/what-makes-a-cold-plunge-tub-worth-it-for-daily-wellness-10k0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
