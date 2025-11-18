@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Creating File Share In Azure](https://dev.to/cmwokocha/creating-file-share-in-azure-kad)
-- [Day 1268 : Wonder](https://dev.to/dwane/day-1268-wonder-19dm)
-- [Web Development Basics](https://dev.to/bamacharan/web-development-basics-19dc)
-- [B2B Marketing Tactics That Actually Convert &lpar;Not the Ones Everyone Posts About&rpar;](https://dev.to/synergistdigitalmedia/b2b-marketing-tactics-that-actually-convert-not-the-ones-everyone-posts-about-53cf)
-- [How We Use AI to Speed Up Development &lpar;Without Sacrificing Quality&rpar;](https://dev.to/sociilabs/how-we-use-ai-to-speed-up-development-without-sacrificing-quality-1cjk)
+- [Day 6,7,8 and 9 of becoming a full stack developer](https://dev.to/ujjawal_patel_9baa51e6bf5/day-678-and-9-of-becoming-a-full-stack-developer-2ioi)
+- [Guided Lab: Azure Storage with Customer-Managed Keys, Retention Policies &amp; Encryption Scopes](https://dev.to/ojosamuel129/guided-lab-azure-storage-with-customer-managed-keys-retention-policies-encryption-scopes-oc4)
+- [Dev Server with Iframe Hot Realod for Code Agents](https://dev.to/gabriel_leez_ebb2b482f9/dev-server-with-iframe-hot-realod-for-code-agents-ocn)
+- [CurlDotNet: Bringing curl Superpowers to Every Corner of the .NET 10 / C# Stack](https://dev.to/iron-software/curldotnet-bringing-curl-superpowers-to-every-corner-of-the-net-10-c-stack-1ol2)
+- [Cloudy With a Chance of Context: Navigating Change with Context Engineering](https://dev.to/prince_of_pasta/cloudy-with-a-chance-of-context-navigating-change-with-context-engineering-2hf5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
