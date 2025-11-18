@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Hard Truth About Learning Spring Boot &lpar;And How to Actually Master It&rpar;](https://dev.to/omrrharbi/the-hard-truth-about-learning-spring-boot-and-how-to-actually-master-it-5457)
-- [[Boost]](https://dev.to/oncloud7/-39fd)
-- [Inside Amazon EKS: Understanding Its Core Architecture](https://dev.to/oncloud7/inside-amazon-eks-understanding-its-core-architecture-324o)
-- [Hackathon Arc: Birth of Yantram.dev](https://dev.to/namish/hackathon-arc-birth-of-yantramdev-2lp2)
-- [When Cloudflare Sneezes, the Internet Catches a Cold](https://dev.to/debugger360/when-cloudflare-sneezes-the-internet-catches-a-cold-5d73)
+- [Why You Should Start Using Next.js Route Groups](https://dev.to/beyondlogic/why-you-should-start-using-nextjs-route-groups-47o2)
+- [React template: Tanstack Query](https://dev.to/tkorakas/tanstack-query-5d56)
+- [Zero to NoSQL: A Hands-On MongoDB Tutorial &lpar;No Installation Required!&rpar;](https://dev.to/raj_shriwastava_989889ad4/zero-to-nosql-a-hands-on-mongodb-tutorial-no-installation-required-39fi)
+- [2025 — Part 2](https://dev.to/temporalio/2025-part-2-2eoi)
+- [Why I Built a Cross-Tool Memory Layer for AI Assistants](https://dev.to/inotats/why-i-built-a-cross-tool-memory-layer-for-ai-assistants-bmj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
