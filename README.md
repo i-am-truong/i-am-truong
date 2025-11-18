@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: Master 80% of Notion with this ONE Feature](https://dev.to/future_ai/jeff-su-master-80-of-notion-with-this-one-feature-2hig)
-- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-38jp)
-- [New pricing model for CloudFront](https://dev.to/aws-builders/new-pricing-model-for-cloudfront-213k)
-- [Creating Storage Account for Finance Department&#39;s shared file](https://dev.to/baris86/creating-storage-account-for-finance-departments-shared-file-2d77)
-- [¿Qué WMS se adapta mejor a bodegas en Chile?](https://dev.to/cerca_technology_defb08b3/que-wms-se-adapta-mejor-a-bodegas-en-chile-1l25)
+- [Gemini 3 Is Here: Google&#39;s Bold Leap into the Agentic AI Era](https://dev.to/affectionate_code/gemini-3-is-here-googles-bold-leap-into-the-agentic-ai-era-59hj)
+- [Dental Scheduling Systems: A Comparative Study in How Time Should Not Work](https://dev.to/lake22traillady/dental-scheduling-systems-a-comparative-study-in-how-time-should-not-work-5ch2)
+- [Cache Rebalancing Was Broken. Here&#39;s How They Fixed It.](https://dev.to/allenheltondev/cache-rebalancing-was-broken-heres-how-they-fixed-it-hh5)
+- [Como a IA está mudando o mercado de trabalho: uma análise completa](https://dev.to/no_codestartup/como-a-ia-esta-mudando-o-mercado-de-trabalho-uma-analise-completa-4pbn)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3ec0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
