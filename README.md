@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [✦ SaijinOS Part 12 －１　　— “Foundations of a Non-Linguistic Civilization”](https://dev.to/kato_masato_c5593c81af5c6/saijinos-part-12-silent-civ-architecture-19ed)
+- [How to Get Reliable Wi-Fi in a Van or RV: A Complete Guide](https://dev.to/sidra-jefferi/how-to-get-reliable-wi-fi-in-a-van-or-rv-a-complete-guide-1l7m)
+- [SaijinOS Part 11 — Concept Life Architecture &lpar;Core Foundations&rpar;](https://dev.to/kato_masato_c5593c81af5c6/saijinos-part-11-concept-life-architecture-core-foundations-2n29)
+- [10 Best OpenAPI Documentation Generators: Turn Your Spec Into Developer-Friendly Docs](https://dev.to/apilover/10-best-openapi-documentation-generators-turn-your-spec-into-developer-friendly-docs-5b16)
 - [Mastering Fast English Speech: Techniques for Quick Comprehension](https://dev.to/nguyn_nguynb_d299ab12/mastering-fast-english-speech-techniques-for-quick-comprehension-1l3m)
-- [Automating Load Testing: From Local Dev to Production Confidence](https://dev.to/gatling/automating-load-testing-from-local-dev-to-production-confidence-3mfk)
-- [Multipass + Terraform: Modern VM Automation Guide](https://dev.to/todoroff/multipass-terraform-modern-vm-automation-guide-129l)
-- [A Complete Guide to CI/CD Pipelines — From Zero to Deployment](https://dev.to/farhadrahimiklie/a-complete-guide-to-cicd-pipelines-from-zero-to-deployment-1jf2)
-- [Nuxt 4.2 — A Deep, Comprehensive Guide to Everything New](https://dev.to/ahmed_niazy/nuxt-42-a-deep-comprehensive-guide-to-everything-new-fkb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
