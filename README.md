@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [amazing!!](https://dev.to/elizabethfuentes12/amazing-2n1g)
-- [Create and configure a storage account for Azure Files.](https://dev.to/freddie_barron_0a192c3278/create-and-configure-a-storage-account-for-azure-files-2595)
-- [Understanding AWS Storage &amp; Recovery Services: A Complete Guide](https://dev.to/pooja_bhavani/understanding-aws-storage-recovery-services-a-complete-guide-89f)
-- [Coding Challenge Practice - Question 59](https://dev.to/tomivan/coding-challenge-practice-question-59-2j5o)
-- [Starting My Build in Public Journey: CookTale &amp; Nutpost](https://dev.to/thehollowed1/starting-my-build-in-public-journey-cooktale-nutpost-3fdn)
+- [How GitHub Copilot Uses MCP Tools Behind the Scenes](https://dev.to/this-is-learning/how-github-copilot-uses-mcp-tools-behind-the-scenes-11nk)
+- [Antigravity IDE: the next generation of AI-powered code editors](https://dev.to/vicodev/antigravity-ide-the-next-generation-of-ai-powered-code-editors-241h)
+- [Antigravity IDE: la nueva generación de editores impulsados por IA](https://dev.to/vicodev/antigravity-ide-la-nueva-generacion-de-editores-impulsados-por-ia-56m4)
+- [Setting up Kiro for Godot&lpar;MCP server&rpar;](https://dev.to/drutch/setting-up-kiro-for-godot-358c)
+- [Introducing Codebox: an open-source tool for remote development workspaces &lpar;beta&rpar;](https://dev.to/davide_bianchi_45fa6f2405/introducing-codebox-an-open-source-tool-for-remote-development-workspaces-beta-5549)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
