@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Free OTT Streaming Cheat Sheet &lpar;HLS, DASH, DRM, ABR &amp; More&rpar;](https://dev.to/braggio/free-ott-streaming-cheat-sheet-hls-dash-drm-abr-more-1ac7)
-- [Space, Pace and Probability: A Developer’s Field Guide to Modern Basketball](https://dev.to/sonia_bobrik_1939cdddd79d/space-pace-and-probability-a-developers-field-guide-to-modern-basketball-14b0)
-- [🚀 Hey Dev Community! What’s the One Skill That Leveled Up Your Career the Most?](https://dev.to/el_azzouzihamza_a9d7d697/hey-dev-community-whats-the-one-skill-that-leveled-up-your-career-the-most-2n0)
-- [We’re testers, devs, and curious humans — let’s talk software, testing, and AI!](https://dev.to/nenyasoftwaredevelopment/were-testers-devs-and-curious-humans-lets-talk-software-testing-and-ai-3cm6)
-- [Microsoft Dynamics 365 Contact Center: The Future of Customer Experience](https://dev.to/jackryan365/microsoft-dynamics-365-contact-center-the-future-of-customer-experience-1k3a)
+- [Growth Hacking in 2025: What Actually Moves the Needle &lpar;And What Just Sounds Cool&rpar;](https://dev.to/synergistdigitalmedia/growth-hacking-in-2025-what-actually-moves-the-needle-and-what-just-sounds-cool-276)
+- [The Hidden Time Drain Killing Your Business Productivity](https://dev.to/tracksimple/the-hidden-time-drain-killing-your-business-productivity-2b3j)
+- [How Async/Await Made Me Love Asynchronous JavaScript Again](https://dev.to/ofodile/how-asyncawait-made-me-love-asynchronous-javascript-again-2do)
+- [PHP’s Next Chapter: From Web Framework to Agent Framework](https://dev.to/inspector/phps-next-chapter-from-web-framework-to-agent-framework-59p4)
+- [How to Create a Resource Group in Azure](https://dev.to/adebayo_ganiyatoladunjoy/how-to-create-a-resource-group-in-azure-46ma)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
