@@ -120,11 +120,15 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/v_b/-ikg)
-- [How Data Security Fuels Innovation in AI and Analytics](https://dev.to/anshul_kichara/how-data-security-fuels-innovation-in-ai-and-analytics-2nm8)
-- [Master Python Set Methods with Simple Visuals &lpar;Emoji Guide Inside!&rpar;](https://dev.to/niveshbansal07/master-python-set-methods-with-simple-visuals-emoji-guide-inside-6n7)
-- [How to Make Chatbot Understand Customer Intent](https://dev.to/chatboqai/how-to-make-chatbot-understand-customer-intent-10db)
-- [Introducing dbfuse-ai — An Open-Source, Cross-Database GUI with AI-Powered SQL &lpar;Looking for Contributors&rpar;](https://dev.to/shashi_kumar_kasturi/introducing-dbfuse-ai-an-open-source-cross-database-gui-with-ai-powered-sql-looking-for-1i06)
+- [Aurora DSQL - Build A Serverless Multi-Region E-Commerce Platform](https://dev.to/aws-builders/aurora-dsql-build-a-serverless-multi-region-e-commerce-platform-i62)
+- [Building Better Bots: When AI Meets Code](https://dev.to/mabualzait/building-better-bots-when-ai-meets-code-2npf)
+- [Affiliate Marketing in 2025: Why Most Programs Fail &lpar;And How Yours Won&#39;t&rpar;](https://dev.to/synergistdigitalmedia/affiliate-marketing-in-2025-why-most-programs-fail-and-how-yours-wont-5dp4)
+- [APIs shaped the last decade of software.
+Prompt templates will shape the next.
+
+Most developers still see prompts as “text instructions.”
+But in reality, prompts are rapidly becoming new interfaces and protocols.](https://dev.to/jaideepparashar/apis-shaped-the-last-decade-of-software-prompt-templates-will-shape-the-next-most-developers-3g5h)
+- [Why Prompt Templates Are the New APIs](https://dev.to/jaideepparashar/why-prompt-templates-are-the-new-apis-2ocb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
