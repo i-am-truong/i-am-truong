@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SafeLine: The Open-Source WAF That Actually Protects Your Web Apps](https://dev.to/arina_cholee/safeline-the-open-source-waf-that-actually-protects-your-web-apps-31hf)
-- [# 🛡️ Introduction to Security in the Cloud: Why It Matters &amp; How AWS IAM Protects Your World](https://dev.to/patdevops/-introduction-to-security-in-the-cloud-why-it-matters-how-aws-iam-protects-your-world-2g4)
-- [Empresas também evoluem](https://dev.to/andersoncontreira/empresas-tambem-evoluem-e8g)
-- [Packing Power: AI Cracks the Sphere Optimization Code](https://dev.to/arvind_sundararajan/packing-power-ai-cracks-the-sphere-optimization-code-h8m)
-- [The Year We Crossed the Threshold: A Journey Through 2025&#39;s Most Transformative Technology](https://dev.to/thebitforge/the-year-we-crossed-the-threshold-a-journey-through-2025s-most-transformative-technology-3aa5)
+- [Introducing dbfuse-ai — An Open-Source, Cross-Database GUI with AI-Powered SQL &lpar;Looking for Contributors&rpar;](https://dev.to/shashi_kumar_kasturi/introducing-dbfuse-ai-an-open-source-cross-database-gui-with-ai-powered-sql-looking-for-1i06)
+- [Why Google Killing XSLT Matters](https://dev.to/bibimbop123/why-google-killing-xslt-matters-3kl6)
+- [Python by Structure: The Walrus Operator - Assignment Where You Need It](https://dev.to/aaron_rose_0787cc8b4775a0/python-by-structure-the-walrus-operator-assignment-where-you-need-it-h8a)
+- [Prometric-Go Part 2 — Full Hands-On Demo with Grafana, Prometheus &amp; k6 📈](https://dev.to/asraful_haque/prometric-go-part-2-full-hands-on-demo-with-grafana-prometheus-k6-216k)
+- [Why Your Enterprise Data Platform Is No Longer Just for Analytics](https://dev.to/gigapress/why-your-enterprise-data-platform-is-no-longer-just-for-analytics-1n1i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
