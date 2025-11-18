@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Drowning in Photos? Let a VS Code AI Agent Organize Them for You &lpar;No Coding Needed&rpar;](https://dev.to/sharan_babuparamasivamm/drowning-in-photos-let-a-vs-code-ai-agent-organize-them-for-you-no-coding-needed-5ab8)
-- [Strategies to Analyze Any Size Dataset with LLMs Beyond its Context Limit](https://dev.to/exson_joseph/strategies-to-analyze-any-size-dataset-with-llms-beyond-its-context-limit-4i37)
-- [Master Java — One MCQ at a Time!](https://dev.to/quipoin_a9cb84280f6225b1e/master-java-one-mcq-at-a-time-5861)
-- [🖥️ Cloud PC Pool for Copilot Studio: Scalable UI Automation Without Local Machines](https://dev.to/seenakhan/cloud-pc-pool-for-copilot-studio-scalable-ui-automation-without-local-machines-1abi)
-- [Countdown to PrestaShop Developer Conference 2025: What to Expect!](https://dev.to/ndabene/countdown-to-prestashop-developer-conference-2025-what-to-expect-4o5i)
+- [I Learned React Wrong for 3 Months. Here&#39;s What I Wish I Knew on Day 1](https://dev.to/sahil_sahu/i-learned-react-wrong-for-3-months-heres-what-i-wish-i-knew-on-day-1-hcp)
+- [# What Exactly Is a Computer Port, What Can Be Found There, and How to See All Existing Ports of a Computer?](https://dev.to/somadinag/-what-exactly-is-a-computer-port-what-can-be-found-there-and-how-to-see-all-existing-ports-of-a-2426)
+- [Rick Beato: Jahari Stampley... I&#39;ve Never Heard Playing Like This!](https://dev.to/music_youtube/rick-beato-jahari-stampley-ive-never-heard-playing-like-this-4i7l)
+- [How to Reduce Errors in Voice Typing: Master the Art of Accurate Dictation](https://dev.to/kirat_singh_6067798d492cf/how-to-reduce-errors-in-voice-typing-master-the-art-of-accurate-dictation-3ii4)
+- [MVC - First part](https://dev.to/vasudevankumar/mvc-first-part-528j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
