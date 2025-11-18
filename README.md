@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [amazing!!](https://dev.to/elizabethfuentes12/amazing-2n1g)
+- [Create and configure a storage account for Azure Files.](https://dev.to/freddie_barron_0a192c3278/create-and-configure-a-storage-account-for-azure-files-2595)
+- [Understanding AWS Storage &amp; Recovery Services: A Complete Guide](https://dev.to/pooja_bhavani/understanding-aws-storage-recovery-services-a-complete-guide-89f)
 - [Coding Challenge Practice - Question 59](https://dev.to/tomivan/coding-challenge-practice-question-59-2j5o)
-- [⏳ The Anti-Productivity Guide: Embrace Your 4,000 Weeks with Super Productivity](https://dev.to/johannesjo/the-anti-productivity-guide-embrace-your-4000-weeks-with-super-productivity-2a9c)
-- [How to Build Robust Evaluation Datasets for AI Agents: Tips and Tricks](https://dev.to/kuldeep_paul/how-to-build-robust-evaluation-datasets-for-ai-agents-tips-and-tricks-3kp0)
-- [From brute force to reinforcement: optimizing intelligent agents with modern AI](https://dev.to/vicodev/from-brute-force-to-reinforcement-optimizing-intelligent-agents-with-modern-ai-4g0k)
-- [De la fuerza bruta al refuerzo: optimizando agentes inteligentes con IA moderna](https://dev.to/vicodev/de-la-fuerza-bruta-al-refuerzo-optimizando-agentes-inteligentes-con-ia-moderna-poa)
+- [Starting My Build in Public Journey: CookTale &amp; Nutpost](https://dev.to/thehollowed1/starting-my-build-in-public-journey-cooktale-nutpost-3fdn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
