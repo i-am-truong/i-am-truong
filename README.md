@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Jeff Su: Master 80% of Notion with this ONE Feature](https://dev.to/future_ai/jeff-su-master-80-of-notion-with-this-one-feature-2hig)
+- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-38jp)
+- [New pricing model for CloudFront](https://dev.to/aws-builders/new-pricing-model-for-cloudfront-213k)
 - [Creating Storage Account for Finance Department&#39;s shared file](https://dev.to/baris86/creating-storage-account-for-finance-departments-shared-file-2d77)
 - [¿Qué WMS se adapta mejor a bodegas en Chile?](https://dev.to/cerca_technology_defb08b3/que-wms-se-adapta-mejor-a-bodegas-en-chile-1l25)
-- [LinkedIn&#39;s Algorithm Stopped Rewarding Pretty Slides &lpar;And Started Rewarding Actual Thinking&rpar;](https://dev.to/synergistdigitalmedia/linkedins-algorithm-stopped-rewarding-pretty-slides-and-started-rewarding-actual-thinking-1e7l)
-- [In this article, I dive into Next.js Route Groups — what they are, how they work, and why they can make your app structure cleaner and more maintainable. I also cover some practical tips, common pitfalls, and layout strategies you can start using today.](https://dev.to/beyondlogic/in-this-article-i-dive-into-nextjs-route-groups-what-they-are-how-they-work-and-why-they-can-177h)
-- [Kicking Off 2026: Unlocking World Cup Secrets](https://dev.to/mabualzait/kicking-off-2026-unlocking-world-cup-secrets-4gmb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
