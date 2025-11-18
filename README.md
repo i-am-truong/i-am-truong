@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Drowning in Photos? Let a VS Code AI Agent Organize Them for You &lpar;No Coding Needed&rpar;](https://dev.to/sharan_babuparamasivamm/drowning-in-photos-let-a-vs-code-ai-agent-organize-them-for-you-no-coding-needed-5ab8)
+- [🖥️ Cloud PC Pool for Copilot Studio: Scalable UI Automation Without Local Machines](https://dev.to/seenakhan/cloud-pc-pool-for-copilot-studio-scalable-ui-automation-without-local-machines-1abi)
+- [Countdown to PrestaShop Developer Conference 2025: What to Expect!](https://dev.to/ndabene/countdown-to-prestashop-developer-conference-2025-what-to-expect-4o5i)
 - [Laravel-MediaWiki Mutant](https://dev.to/shroomok/laravel-mediawiki-mutant-18f7)
 - [Daily Skincare Routine for Glowing Skin: Morning to Night Guide](https://dev.to/mariamrankhive/daily-skincare-routine-for-glowing-skin-morning-to-night-guide-3en1)
-- [AI That Speaks Telecom: Why Telcos Need a Conscious, Always-On Operator](https://dev.to/abdul_shamim/ai-that-speaks-telecom-why-telcos-need-a-conscious-always-on-operator-2f82)
-- [Aurora DSQL - Build A Serverless Multi-Region E-Commerce Platform](https://dev.to/aws-builders/aurora-dsql-build-a-serverless-multi-region-e-commerce-platform-i62)
-- [Building Better Bots: When AI Meets Code](https://dev.to/mabualzait/building-better-bots-when-ai-meets-code-2npf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
