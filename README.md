@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AWS Professional &amp; Specialty Certifications Guide for 2026](https://dev.to/eliza_elynn_f4d2eb744a9b8/aws-professional-specialty-certifications-guide-for-2026-k1n)
 - [Energy Efficiency Tips for Food Manufacturing Plants](https://dev.to/jason-robinson/energy-efficiency-tips-for-food-manufacturing-plants-28ig)
+- [Introduction to Qlik Replicate &amp; Architecture](https://dev.to/srinivasuluparanduru/introduction-to-qlik-replicate-architecture-578p)
 - [Why Every iOS Developer Needs Their Own Pet Projects](https://dev.to/maxnxi/why-every-ios-developer-needs-their-own-pet-projects-3e1l)
-- [Growth Hacking in 2025: What Actually Moves the Needle &lpar;And What Just Sounds Cool&rpar;](https://dev.to/synergistdigitalmedia/growth-hacking-in-2025-what-actually-moves-the-needle-and-what-just-sounds-cool-276)
-- [The Hidden Time Drain Killing Your Business Productivity](https://dev.to/tracksimple/the-hidden-time-drain-killing-your-business-productivity-2b3j)
-- [How Async/Await Made Me Love Asynchronous JavaScript Again](https://dev.to/ofodile/how-asyncawait-made-me-love-asynchronous-javascript-again-2do)
+- [Understanding F.prototype in JavaScript: A Complete Guide](https://dev.to/samuel_ochaba_eb9c875fa89/understanding-fprototype-in-javascript-a-complete-guide-p7n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
