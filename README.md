@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Build Robust Evaluation Datasets for AI Agents: Tips and Tricks](https://dev.to/kuldeep_paul/how-to-build-robust-evaluation-datasets-for-ai-agents-tips-and-tricks-3kp0)
 - [From brute force to reinforcement: optimizing intelligent agents with modern AI](https://dev.to/vicodev/from-brute-force-to-reinforcement-optimizing-intelligent-agents-with-modern-ai-4g0k)
 - [De la fuerza bruta al refuerzo: optimizando agentes inteligentes con IA moderna](https://dev.to/vicodev/de-la-fuerza-bruta-al-refuerzo-optimizando-agentes-inteligentes-con-ia-moderna-poa)
 - [No OAuth Required: An MCP Client For AWS IAM](https://dev.to/aws/no-oauth-required-an-mcp-client-for-aws-iam-k1o)
 - [Vibe Coding vs. System Architecture: Why &quot;It Works&quot; is Not the Same as &quot;It Scales&quot;](https://dev.to/alikarbasicom/vibe-coding-vs-system-architecture-why-it-works-is-not-the-same-as-it-scales-2ho3)
-- [10 Ways to Optimize Your LLM Applications](https://dev.to/kuldeep_paul/10-ways-to-optimize-your-llm-applications-36hl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
