@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Jeff Bezos Is Back in the Arena: Why Project Prometheus Is the $6.2 Billion Wake-Up Call AI Needed](https://dev.to/ibrahimpima/jeff-bezos-is-back-in-the-arena-why-project-prometheus-is-the-62-billion-wake-up-call-ai-needed-2m12)
+- [Day 1269 : No More](https://dev.to/dwane/day-1269-no-more-1goc)
 - [KAFKA REAL-TIME MICROSERVICES PROJECT](https://dev.to/jumptotech/kafka-real-time-microservices-project-c70)
 - [AI Wives 2026: A Developer&#39;s Look at the Code Behind the Relationships](https://dev.to/glorioustechs/ai-wives-2026-a-developers-look-at-the-code-behind-the-relationships-3bma)
 - [The Hidden Dependency That Took Down Half the Internet Today](https://dev.to/statusfield/the-hidden-dependency-that-took-down-half-the-internet-today-55cb)
-- [TikTok Shop vs. Instagram Shopping: Real Conversion Data from 52 E-commerce Brands](https://dev.to/synergistdigitalmedia/tiktok-shop-vs-instagram-shopping-real-conversion-data-from-52-e-commerce-brands-kff)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
