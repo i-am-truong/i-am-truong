@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Create Reusable Jira Templates for Cross-Department Workflows](https://dev.to/dorota_from_vilisoft/how-to-create-reusable-jira-templates-for-cross-department-workflows-3ine)
+- [Bridging Policy and Automation: Building a Compliant AWS Pipeline in a Regulated Environment](https://dev.to/neamanahmed/bridging-policy-and-automation-building-a-compliant-aws-pipeline-in-a-regulated-environment-37nm)
 - [From Text File to Smart Search: Building RAG with Gemini in Minutes](https://dev.to/lightningdev123/from-text-file-to-smart-search-building-rag-with-gemini-in-minutes-4o7p)
 - [🧱 Lesson 8 - Authentication &amp; Authorization in .NET](https://dev.to/farrukh_rehman/lesson-8-authentication-authorization-in-net-3m84)
 - [Can AI compose truly new music? Exploring the promise and limits](https://dev.to/polyapolza108/can-ai-compose-truly-new-music-exploring-the-promise-and-limits-53en)
-- [How to copy a tree, but not word for word](https://dev.to/pvsdev/how-to-copy-a-tree-but-not-word-for-word-c8l)
-- [What Makes a Cold Plunge Tub Worth It for Daily Wellness?](https://dev.to/wordnest/what-makes-a-cold-plunge-tub-worth-it-for-daily-wellness-10k0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
