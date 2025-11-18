@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Smart Learning Platforms: Modern Tech Stack &amp; Best Practices for 2025](https://dev.to/gloobia/building-smart-learning-platforms-modern-tech-stack-best-practices-for-2025-4n6c)
+- [Two Weeks Stuck on Authentication: My Headless API Journey](https://dev.to/debugger360/two-weeks-stuck-on-authentication-my-headless-api-journey-1m65)
+- [Exploring XRP in DeFi and What It Teaches Us](https://dev.to/ripplexdev/exploring-xrp-in-defi-and-what-it-teaches-us-i72)
 - [Why You Should Start Using Next.js Route Groups](https://dev.to/beyondlogic/why-you-should-start-using-nextjs-route-groups-47o2)
 - [React template: Tanstack Query](https://dev.to/tkorakas/tanstack-query-5d56)
-- [Zero to NoSQL: A Hands-On MongoDB Tutorial &lpar;No Installation Required!&rpar;](https://dev.to/raj_shriwastava_989889ad4/zero-to-nosql-a-hands-on-mongodb-tutorial-no-installation-required-39fi)
-- [2025 — Part 2](https://dev.to/temporalio/2025-part-2-2eoi)
-- [Why I Built a Cross-Tool Memory Layer for AI Assistants](https://dev.to/inotats/why-i-built-a-cross-tool-memory-layer-for-ai-assistants-bmj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
