@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[Boost]](https://dev.to/v_b/-ikg)
+- [How Data Security Fuels Innovation in AI and Analytics](https://dev.to/anshul_kichara/how-data-security-fuels-innovation-in-ai-and-analytics-2nm8)
+- [Master Python Set Methods with Simple Visuals &lpar;Emoji Guide Inside!&rpar;](https://dev.to/niveshbansal07/master-python-set-methods-with-simple-visuals-emoji-guide-inside-6n7)
 - [How to Make Chatbot Understand Customer Intent](https://dev.to/chatboqai/how-to-make-chatbot-understand-customer-intent-10db)
 - [Introducing dbfuse-ai — An Open-Source, Cross-Database GUI with AI-Powered SQL &lpar;Looking for Contributors&rpar;](https://dev.to/shashi_kumar_kasturi/introducing-dbfuse-ai-an-open-source-cross-database-gui-with-ai-powered-sql-looking-for-1i06)
-- [Why Google Killing XSLT Matters](https://dev.to/bibimbop123/why-google-killing-xslt-matters-3kl6)
-- [Python by Structure: The Walrus Operator - Assignment Where You Need It](https://dev.to/aaron_rose_0787cc8b4775a0/python-by-structure-the-walrus-operator-assignment-where-you-need-it-h8a)
-- [Prometric-Go Part 2 — Full Hands-On Demo with Grafana, Prometheus &amp; k6 📈](https://dev.to/asraful_haque/prometric-go-part-2-full-hands-on-demo-with-grafana-prometheus-k6-216k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
