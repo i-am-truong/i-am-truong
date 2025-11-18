@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [200 reports, 11 valid bugs, 0 critical issues. Why our HackerOne VDP was still worth it](https://dev.to/ishosting/200-reports-11-valid-bugs-0-critical-issues-why-our-hackerone-vdp-was-still-worth-it-h07)
+- [Cloudflare Down: The Single Point of Failure That Crippled X and ChatGPT, Exposing a CDN Vulnerability](https://dev.to/paulthedev/cloudflare-down-the-single-point-of-failure-that-crippled-x-and-chatgpt-exposing-a-cdn-5cg4)
+- [Building a Simple URL Shortener with Go and Redis](https://dev.to/dinithi_pramodya_ad93a533/building-a-simple-url-shortener-with-go-and-redis-1i62)
+- [Teching by playing is one of the best ways to make the material &quot;click&quot;. Think you have what it takes? Join us in creating v3.0 of Cornucopia!](https://dev.to/mamicidal/teching-by-playing-is-one-of-the-best-ways-to-make-the-material-click-think-you-have-what-it-2j29)
 - [Jeff Su: Master 80% of Notion with this ONE Feature](https://dev.to/future_ai/jeff-su-master-80-of-notion-with-this-one-feature-58mk)
-- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-49ll)
-- [Deconstructing a Production-Ready AI Agent: A Beginner&#39;s Guide - Part 2](https://dev.to/ladam2000/the-agents-brain-defining-logic-and-reasoning-with-strands-agents-part-2-4aj2)
-- [How Non-Developers Are Building Apps: Low-Code &amp; No-Code Platforms](https://dev.to/toluxx/how-non-developers-are-building-apps-low-code-no-code-platforms-37pm)
-- [Update: Why X, ChatGPT, and Cloudflare Are Down](https://dev.to/adityapidurkar/update-why-x-chatgpt-and-cloudflare-are-down-14b6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
