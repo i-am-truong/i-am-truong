@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Built an AI That Actually Generates WordPress Pages From Scratch &lpar;Not Just Templates&rpar;](https://dev.to/jdku_sjdu_6171aee799d6341/i-built-an-ai-that-actually-generates-wordpress-pages-from-scratch-not-just-templates-53fk)
+- [uiMatch: Figma-to-implementation visual diff with Playwright and CI](https://dev.to/kosaki08/uimatch-figma-to-implementation-visual-diff-with-playwright-and-ci-1819)
+- [Mejora Ubuntu con Homebrew y asdf &lpar;Gestor de Versiones Múltiples&rpar;](https://dev.to/oscarpincho/mejora-ubuntu-con-homebrew-y-asdf-gestor-de-versiones-multiples-4nka)
+- [Modern CSS Is a Game-Changer: Here’s Why Developers Love It](https://dev.to/myuihub/modern-css-is-a-game-changer-heres-why-developers-love-it-2l95)
 - [Saloon vs Guzzle vs SDK vs Http Facade for Laravel API Integrations](https://dev.to/ashallendesign/saloon-vs-guzzle-vs-sdk-vs-http-facade-for-laravel-api-integrations-2a0e)
-- [✨ Crafting Procedural Landscapes in Godot 4: A Tool for Your Worlds! ✨](https://dev.to/embernoglow/crafting-procedural-landscapes-in-godot-4-a-tool-for-your-worlds-4p4f)
-- [Host Your Portfolio on Amazon S3: A Beginner&#39;s Guide to Static Website Hosting](https://dev.to/khajasabik/host-your-portfolio-on-amazon-s3-a-beginners-guide-to-static-website-hosting-310l)
-- [My First Windows Service Deployment: Lessons From a Dev Who Grew Up on Linux](https://dev.to/techwithhari/my-first-windows-service-deployment-lessons-from-a-dev-who-grew-up-on-linux-f93)
-- [Google expands Gemini AI access in Vids Workspace tool, enabling more users tocreate videos with AI](https://dev.to/ytosko/google-expands-gemini-ai-access-in-vids-workspace-tool-enabling-more-users-tocreate-videos-with-ai-5bm7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
