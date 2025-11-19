@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [84.35% on CIFAR-100 with ResNet-50](https://dev.to/amirali_soltanirad/8435-on-cifar-100-with-resnet-50-4j4b)
+- [From-Basics-to-Deployment Day 2](https://dev.to/ian_b838138a27a917398d181/from-basics-to-deployment-day-2-4768)
+- [How to run GitHub Actions locally](https://dev.to/frontenddeveli/how-to-run-github-actions-locally-28nh)
 - [2154. Keep Multiplying Found Values by Two](https://dev.to/mdarifulhaque/2154-keep-multiplying-found-values-by-two-3ffg)
-- [KISS vs DRY in Infrastructure as Code: Why Simple Often Beats Clever](https://dev.to/rosesecurity/kiss-vs-dry-in-infrastructure-as-code-why-simple-often-beats-clever-foh)
-- [How I Built MzansiShopper, An AI-Powered Retail Assistant for Personalized Shopping](https://dev.to/aws-builders/how-i-built-mzansishopper-an-ai-powered-retail-assistant-for-personalized-shopping-2ini)
-- [Project Structure in Umami codebase - Part 1.2](https://dev.to/ramunarasinga-11/project-structure-in-umami-codebase-part-12-4fk2)
-- [Build a VPC With EC2 On Terraform!](https://dev.to/pavan_reddy_8f9125a73121c/build-a-vpc-with-ec2--1hmf)
+- [How to listen for USDT &lpar;TRC20&rpar; payments in Node.js without running a full node](https://dev.to/changhai/how-to-listen-for-usdt-trc20-payments-in-nodejs-without-running-a-full-node-4g36)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
