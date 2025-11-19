@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 16 : Rest](https://dev.to/stackbento/day-16-rest-gfa)
 - [Testing the Pioneer DDJ-FLX10: First Impressions from a Working DJ](https://dev.to/taylor_thomson/testing-the-pioneer-ddj-flx10-first-impressions-from-a-working-dj-2nh0)
 - [What Is the Best AI Model in 2025? Deep Dive into Gemini 3, GPT-4, and Claude 2.1](https://dev.to/isabellaking/what-is-the-best-ai-model-in-2025-deep-dive-into-gemini-3-gpt-4-and-claude-21-6bm)
 - [⚠️ The Hidden Privacy Risks Behind AI Assistants](https://dev.to/alifar/the-hidden-privacy-risks-behind-ai-assistants-44n7)
 - [What Is LLM Post-Training? Best Techniques in 2025](https://dev.to/sunethkawasaki7/what-is-llm-post-training-best-techniques-in-2025-379g)
-- [A Simple Guide to Route Tables and Internet Gateways in AWS](https://dev.to/irfansatrio/a-simple-guide-to-route-tables-and-internet-gateways-in-aws-3b1k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
