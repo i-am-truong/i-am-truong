@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [¿Usas varias nubes? Sin un IAM sólido, ya estás en riesgo](https://dev.to/chainiz/usas-varias-nubes-sin-un-iam-solido-ya-estas-en-riesgo-1eh9)
+- [Project idea – “Real-Time Orders Platform”](https://dev.to/jumptotech/project-idea-real-time-orders-platform-305d)
+- [Inside Node.js: A Deep Dive into V8, libuv, the Event Loop &amp; Thread Pool](https://dev.to/rohith_nag/inside-nodejs-a-deep-dive-into-v8-libuv-the-event-loop-thread-pool-5fcn)
 - [Simply Order &lpar;Part 7&rpar; – Querying Orders with Details: API Composition Pattern](https://dev.to/hassan314159/simply-order-part-7-querying-orders-with-details-api-composition-pattern-20)
 - [🚀 ElasticSecOpsCoPilot — Autonomous IOC Enrichment for Elastic Security](https://dev.to/secbyshresth/elasticsecopscopilot-autonomous-ioc-enrichment-for-elastic-security-40m3)
-- [🚀Understanding JavaScript Strict Mode: Why You Should Always Use It](https://dev.to/m0slah/understanding-javascript-strict-mode-why-you-should-always-use-it-p74)
-- [First $100 compute free! A One-Command Way to Run Heavy Jobs in the Cloud &lpar;Looking for Feedback&rpar;](https://dev.to/adviser_labs/first-100-compute-free-a-one-command-way-to-run-heavy-jobs-in-the-cloud-looking-for-feedback-1cmo)
-- [Zed: The Editor I Wish I Liked](https://dev.to/1ce/zed-the-editor-i-wish-i-liked-2jn2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
