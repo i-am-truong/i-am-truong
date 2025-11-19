@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🧠 What 7 Years in .NET Development Taught Me About Software Craftsmanship](https://dev.to/heshamessam/what-7-years-in-net-development-taught-me-about-software-craftsmanship-5866)
-- [How to Create High-Performance 3D Product Viewers Using Three.js + React for Modern eCommerce Stores](https://dev.to/kellythomas/how-to-create-high-performance-3d-product-viewers-using-threejs-react-for-modern-ecommerce-stores-5f7p)
-- [🔐 Control a Solenoid Lock with Arduino Mega &lpar;Using a Relay &amp; Push Button&rpar;](https://dev.to/mohamed_ahmed_dev/control-a-solenoid-lock-with-arduino-mega-using-a-relay-push-button-3jop)
-- [The New Analytics Stack: Data Views Tools Agents](https://dev.to/hoshang_mehta/the-new-analytics-stack-data-views-tools-agents-2kg5)
-- [Spring&#39;s Core Concepts: Bean, Container, and Context Explained](https://dev.to/anir_codes07/springs-core-concepts-bean-container-and-context-explained-4ge0)
+- [Google Antigravity: The Agent-First IDE That Changes Everything](https://dev.to/manuth_lochana/google-antigravity-the-agent-first-ide-that-changes-everything-36j1)
+- [What is HFT &lpar;High Frequency Trading&rpar; and how can we implement it in Rust.](https://dev.to/mayu2008/what-is-hft-high-frequency-trading-and-how-can-we-implement-it-in-rust-10jc)
+- [Explore the Amazon Augmented AI with Human Review Workflows, Amazon Textract Form Extraction Task and Amazon Cognito User Pool](https://dev.to/aws-builders/explore-the-amazon-augmented-ai-with-human-review-workflows-amazon-textract-form-extraction-task-33kb)
+- [Statistics Day5: The Super-Simple Guide to Random Variables and Correlation for Data Science Beginners](https://dev.to/brains_behind_bots/statistics-day5-the-super-simple-guide-to-random-variables-and-correlation-for-data-science-1e8d)
+- [Of Type and Interface: TypeScript Tales Ch. 01](https://dev.to/arbishal/of-type-and-interface-typescript-tales-ch-01-39de)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
