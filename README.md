@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [7 Technical SEO Practices Every Developer-Led SaaS Should Implement in 2025](https://dev.to/liamtakahiro/7-technical-seo-practices-every-developer-led-saas-should-implement-in-2025-agk)
-- [How GitHub Copilot Uses MCP Tools — Behind the Scenes](https://dev.to/mashraf_aiman_b9a968e5c1d/how-github-copilot-uses-mcp-tools-behind-the-scenes-3pfi)
-- [计算机模拟三体运动](https://dev.to/cheng_qian_8382fdc61158ce/ji-suan-ji-mo-ni-san-ti-yun-dong-4d0l)
-- [计算机模拟双星系统](https://dev.to/cheng_qian_8382fdc61158ce/ji-suan-ji-mo-ni-shuang-xing-xi-tong-5d4p)
-- [计算机模拟地月系统](https://dev.to/cheng_qian_8382fdc61158ce/ji-suan-ji-mo-ni-di-yue-xi-tong-ied)
+- [Kiro Did It: Kiro Goes GA - And Replaces My Favorite CLI!](https://dev.to/bhatiagirish/kiro-did-it-kiro-goes-ga-and-replaces-my-favorite-cli-5ec9)
+- [SQL as Contract vs. Python as Procedure — a Short Note on Atlas vs. Alembic](https://dev.to/unauthorized/sql-as-contract-vs-python-as-procedure-a-short-note-on-atlas-vs-alembic-36io)
+- [Quesby 0.1.2 is now available!](https://dev.to/quesby/quesby-012-is-now-available-2ae6)
+- [Methods and primitive type in JS](https://dev.to/maryam_hosseini_e3effa8e8/methods-and-primitive-type-in-js-4e0o)
+- [uniapp里 rich-text 里的img图片如何控制最大宽度](https://dev.to/cheng_qian_8382fdc61158ce/uniappli-rich-text-li-de-imgtu-pian-ru-he-kong-zhi-zui-da-kuan-du-1bm9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
