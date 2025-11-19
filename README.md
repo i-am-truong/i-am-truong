@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Built MzansiShopper, An AI-Powered Retail Assistant for Personalized Shopping](https://dev.to/aws-builders/how-i-built-mzansishopper-an-ai-powered-retail-assistant-for-personalized-shopping-2ini)
+- [Project Structure in Umami codebase - Part 1.2](https://dev.to/ramunarasinga-11/project-structure-in-umami-codebase-part-12-4fk2)
+- [Build a VPC With EC2 On Terraform!](https://dev.to/pavan_reddy_8f9125a73121c/build-a-vpc-with-ec2--1hmf)
 - [Introduction to HTML: History, Role, and Syntax](https://dev.to/rajanddk/introduction-to-html-history-role-and-syntax-2g37)
 - [Twitter/X Scraper: The Complete Data Extraction Solution for Modern Digital Intelligence](https://dev.to/bytesupreme/twitterx-scraper-the-complete-data-extraction-solution-for-modern-digital-intelligence-3an2)
-- [Puppet Core 8.16.0 Released with Several Security Updates](https://dev.to/puppet/puppet-core-8160-released-with-several-security-updates-179b)
-- [Harnessing AI for Better Trading Performance: An Active Trader’s Guide](https://dev.to/traderesona/harnessing-ai-for-better-trading-performance-an-active-traders-guide-51pp)
-- [Building a Zero-Dependency Rate Limiter in Go &lpar;Token Bucket, Leaky Bucket, Sliding Window&rpar;](https://dev.to/maksat_ramazan_fbc992ffa9/building-a-zero-dependency-rate-limiter-in-go-token-bucket-leaky-bucket-sliding-window-134n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
