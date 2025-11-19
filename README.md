@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [7 Developer Productivity Hacks That Cut Coding Time by 30%](https://dev.to/carlosinfantes/7-developer-productivity-hacks-that-cut-coding-time-by-30-lem)
+- [Locks](https://dev.to/igor_grieder/locks-e05)
 - [Understanding SOLID Principles — The Foundation of Better Software Design](https://dev.to/roydevashish/understanding-solid-principles-the-foundation-of-better-software-design-456k)
 - [AzureAD 3.7: Dynamic credentials with Flexible Federated Identity](https://dev.to/danquack/azuread-37-dynamic-credentials-with-flexible-federated-identity-4ji9)
 - [🍹 Introducing Happy Hour API — A Simple Way to Add Local Drink Deals to Your App](https://dev.to/nick_calhoun_0046fedbaeac/introducing-happy-hour-api-a-simple-way-to-add-local-drink-deals-to-your-app-289l)
-- [Gemini 3 Developer Guide](https://dev.to/googleai/gemini-3-developer-guide-3j2k)
-- [My AI Bot Argues With My Swagger Schema &lpar;And Why That&#39;s Good&rpar;](https://dev.to/aragossa/my-ai-bot-argues-with-my-swagger-schema-and-why-thats-good-1efl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
