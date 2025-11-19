@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 Container Security Books in 2026](https://dev.to/aerabi/top-5-container-security-books-in-2026-2j5d)
-- [Recent Breakthrough in Edge AI: Ultra-Low Power Consumption](https://dev.to/drcarlosruizviquez/recent-breakthrough-in-edge-ai-ultra-low-power-consumption-5444)
-- [The Quantum Leap in Machine Learning: Why Quantum Supremacy](https://dev.to/drcarlosruizviquez/the-quantum-leap-in-machine-learning-why-quantum-supremacy-4mfe)
-- [7 Developer Productivity Hacks That Cut Coding Time by 30%](https://dev.to/carlosinfantes/7-developer-productivity-hacks-that-cut-coding-time-by-30-lem)
-- [Locks](https://dev.to/igor_grieder/locks-e05)
+- [Building a Risk Battle Simulator: When Board Games Meet Monte Carlo](https://dev.to/euneua/building-a-risk-battle-simulator-when-board-games-meet-monte-carlo-59o6)
+- [Hotel Search System Design](https://dev.to/sumedhbala/hotel-search-system-design-5ea4)
+- [Better integrate your AppImage with .desktop file](https://dev.to/dawhistler/better-integrate-your-appimage-with-desktop-file-41o0)
+- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-19m)
+- [**Llamado ético y convincente a los sujetos obligados para l](https://dev.to/drcarlosruizviquez/llamado-etico-y-convincente-a-los-sujetos-obligados-para-l-5745)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
