@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Prometheus Monitoring: Complete Setup &amp; Best Practices](https://dev.to/rosgluk/prometheus-monitoring-complete-setup-best-practices-4859)
-- [Advanced RAG: LongRAG, Self-RAG and GraphRAG Explained](https://dev.to/rosgluk/advanced-rag-longrag-self-rag-and-graphrag-explained-3ci8)
-- [Narrative Alchemist](https://dev.to/vlad_craciun_9fd3de149aa8/narrative-alchemist-33da)
-- [C# Guide: Build Dynamic Word Files with Rich Formatting and Data](https://dev.to/allen_yang_f905170c5a197b/c-guide-build-dynamic-word-files-with-rich-formatting-and-data-7hc)
-- [When Cloudflare Went Down: The Day the Internet Remembered Cloud Isn’t Invincible](https://dev.to/yaseen_tech/when-cloudflare-went-down-the-day-the-internet-remembered-cloud-isnt-invincible-1ha6)
+- [STM32V8: A New Era of High-Performance MCUs Built on 18nm and Cortex-M85](https://dev.to/kevinzhang109/stm32v8-a-new-era-of-high-performance-mcus-built-on-18nm-and-cortex-m85-15bm)
+- [Bash cheat sheet](https://dev.to/dyogesh/bash-cheat-sheet-1il1)
+- [KubeEdge and Edge Computing](https://dev.to/godofgeeks/kubeedge-and-edge-computing-1iem)
+- [React Component life cycle](https://dev.to/ark7/react-component-life-cycle-1448)
+- [How do I reduce hallucinations when pulling mixed data sources in an LLM-based chatbot?](https://dev.to/whitmanmark/how-do-i-reduce-hallucinations-when-pulling-mixed-data-sources-in-an-llm-based-chatbot-54ii)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
