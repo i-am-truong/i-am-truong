@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🧱 SSR vs SSG vs ISR: Choosing the Right Rendering Strategy in 2025](https://dev.to/mridudixit15/ssr-vs-ssg-vs-isr-choosing-the-right-rendering-strategy-in-2025-44e0)
 - [Kiro Did It: Kiro Goes GA - And Replaces My Favorite CLI!](https://dev.to/bhatiagirish/kiro-did-it-kiro-goes-ga-and-replaces-my-favorite-cli-5ec9)
 - [SQL as Contract vs. Python as Procedure — a Short Note on Atlas vs. Alembic](https://dev.to/unauthorized/sql-as-contract-vs-python-as-procedure-a-short-note-on-atlas-vs-alembic-36io)
 - [Quesby 0.1.2 is now available!](https://dev.to/quesby/quesby-012-is-now-available-2ae6)
 - [Methods and primitive type in JS](https://dev.to/maryam_hosseini_e3effa8e8/methods-and-primitive-type-in-js-4e0o)
-- [uniapp里 rich-text 里的img图片如何控制最大宽度](https://dev.to/cheng_qian_8382fdc61158ce/uniappli-rich-text-li-de-imgtu-pian-ru-he-kong-zhi-zui-da-kuan-du-1bm9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
