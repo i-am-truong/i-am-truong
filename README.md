@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing the LimeDB TUI: Enhanced Cluster Management from Your Terminal](https://dev.to/namanvashistha/introducing-the-limedb-tui-enhanced-cluster-management-from-your-terminal-13bf)
 - [⭐ 5 Power Mindsets for Tech Interviews](https://dev.to/cathylai/5-power-mindsets-for-tech-interviews-1cad)
+- [Coding Challenge Practice - Question 60](https://dev.to/tomivan/coding-challenge-practice-question-60-c02)
 - [The January Vanishing Act: Why Your Holiday Customers Disappear &lpar;And How to Stop It&rpar;](https://dev.to/synergistdigitalmedia/the-january-vanishing-act-why-your-holiday-customers-disappear-and-how-to-stop-it-2030)
 - [The Tool I Finally Built to Escape My Terminal Chaos](https://dev.to/madsendev/the-tool-i-finally-built-to-escape-my-terminal-chaos-37cl)
-- [Turbocharging AI: Twice Sequential Monte Carlo for Lightning-Fast Decisions by Arvind Sundararajan](https://dev.to/arvind_sundararajan/turbocharging-ai-twice-sequential-monte-carlo-for-lightning-fast-decisions-by-arvind-sundararajan-2aok)
-- [Day 16 : Rest](https://dev.to/stackbento/day-16-rest-gfa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
