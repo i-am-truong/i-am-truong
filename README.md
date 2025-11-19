@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Turbopack: A Better Way to Inline SVG in Next.js 16](https://dev.to/vitalets/turbopack-a-better-way-to-inline-svg-in-nextjs-16-36em)
 - [Your SQLite Queries Deserve Their Own Workers](https://dev.to/lovestaco/your-sqlite-queries-deserve-their-own-workers-jd7)
+- [The Most Popular AWS Services You Probably Should Use: Key Picks &amp; Why They Matter](https://dev.to/heyjoshlee/the-most-popular-aws-services-you-probably-should-use-key-picks-why-they-matter-515l)
 - [ServiceNow Test Management: Complete 2025 Guide](https://dev.to/jamescantor38/servicenow-test-management-complete-2025-guide-32aa)
 - [Build &amp; Deploy a Complete MERN Stack Blog With Admin Dashboard](https://dev.to/codewithsadee/build-deploy-a-complete-mern-stack-blog-with-admin-dashboard-49el)
-- [🏰 CloudFormation Explained as a Story — The Blueprint of CloudVille](https://dev.to/shweta_aee818203e9dffed84/cloudformation-explained-as-a-story-the-blueprint-of-cloudville-29m8)
-- [Transform LLM Apps into Profit: Monetizing AI Conversations with Monetzly](https://dev.to/monetzly/transform-llm-apps-into-profit-monetizing-ai-conversations-with-monetzly-179l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
