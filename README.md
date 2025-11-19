@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to HTML: History, Role, and Syntax](https://dev.to/rajanddk/introduction-to-html-history-role-and-syntax-2g37)
+- [Twitter/X Scraper: The Complete Data Extraction Solution for Modern Digital Intelligence](https://dev.to/bytesupreme/twitterx-scraper-the-complete-data-extraction-solution-for-modern-digital-intelligence-3an2)
 - [Puppet Core 8.16.0 Released with Several Security Updates](https://dev.to/puppet/puppet-core-8160-released-with-several-security-updates-179b)
+- [Harnessing AI for Better Trading Performance: An Active Trader’s Guide](https://dev.to/traderesona/harnessing-ai-for-better-trading-performance-an-active-traders-guide-51pp)
 - [Building a Zero-Dependency Rate Limiter in Go &lpar;Token Bucket, Leaky Bucket, Sliding Window&rpar;](https://dev.to/maksat_ramazan_fbc992ffa9/building-a-zero-dependency-rate-limiter-in-go-token-bucket-leaky-bucket-sliding-window-134n)
-- [It’s Time to End the Era of Signature-Based Malware Detection](https://dev.to/semantics-av/its-time-to-end-the-era-of-signature-based-malware-detection-4no9)
-- [Hello World!](https://dev.to/mc_e628b010/hello-world-4476)
-- [Day F3: The Day I Accidentally Acted Human](https://dev.to/casperday11/day-f3-the-day-i-accidentally-acted-human-48m2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
