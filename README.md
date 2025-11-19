@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Turbopack: A Better Way to Inline SVG in Next.js 16](https://dev.to/vitalets/turbopack-a-better-way-to-inline-svg-in-nextjs-16-36em)
-- [Your SQLite Queries Deserve Their Own Workers](https://dev.to/lovestaco/your-sqlite-queries-deserve-their-own-workers-jd7)
-- [The Most Popular AWS Services You Probably Should Use: Key Picks &amp; Why They Matter](https://dev.to/heyjoshlee/the-most-popular-aws-services-you-probably-should-use-key-picks-why-they-matter-515l)
-- [ServiceNow Test Management: Complete 2025 Guide](https://dev.to/jamescantor38/servicenow-test-management-complete-2025-guide-32aa)
-- [Build &amp; Deploy a Complete MERN Stack Blog With Admin Dashboard](https://dev.to/codewithsadee/build-deploy-a-complete-mern-stack-blog-with-admin-dashboard-49el)
+- [Gemini 3 Developer Guide](https://dev.to/googleai/gemini-3-developer-guide-3j2k)
+- [My AI Bot Argues With My Swagger Schema &lpar;And Why That&#39;s Good&rpar;](https://dev.to/aragossa/my-ai-bot-argues-with-my-swagger-schema-and-why-thats-good-1efl)
+- [Database handling using Python Alembic and SQL Alchemy](https://dev.to/shreshthajit_das_1a7b40f5/database-handling-using-python-alembic-and-sql-alchemy-3a12)
+- [Introducing Google Antigravity, a New Era in AI-Assisted Software Development](https://dev.to/googleai/introducing-google-antigravity-a-new-era-in-ai-assisted-software-development-275d)
+- [I Built a Production-Ready Next.js Boilerplate &lpar;So You Don&#39;t Have To&rpar;](https://dev.to/salmanshahriar/i-built-a-production-ready-nextjs-boilerplate-so-you-dont-have-to-17d3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
