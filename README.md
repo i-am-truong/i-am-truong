@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Give Your AI Agent a Wallet Without Getting Drained](https://dev.to/l_x_1/how-to-give-your-ai-agent-a-wallet-without-getting-drained-152h)
+- [JavaScript reads your code twice - Hoisting in var, let &amp; const](https://dev.to/_armasahar_/javascript-reads-your-code-twice-hoisting-in-var-let-const-260b)
+- [How Lodash Can Simplify Your API Testing](https://dev.to/requestly/how-lodash-can-simplify-your-api-testing-d82)
 - [Never Miss Your Way Home: Building a Smart Commute Assistant with Python Part III](https://dev.to/mcheremnov/never-miss-your-way-home-building-a-smart-commute-assistant-with-python-part-iii-3g5f)
 - [EIP-7939: Count Leading Zeros &lpar;CLZ&rpar; Opcode](https://dev.to/ankita_virani_e3e53df6feb/eip-7939-count-leading-zeros-clz-opcode-2g6d)
-- [Estratégias de Crescimento: Como Impulsionar Seu Negócio em 2024](https://dev.to/movin/estrategias-de-crescimento-como-impulsionar-seu-negocio-em-2024-56e3)
-- [Your 2026 Marketing Budget Doesn&#39;t Need More Money—It Needs Better Math](https://dev.to/synergistdigitalmedia/your-2026-marketing-budget-doesnt-need-more-money-it-needs-better-math-195a)
-- [My First Public ML Talk: Human-in-the-Loop Agent-in-the-Loop &lpar;Dec 16, DataTalks.Club&rpar;](https://dev.to/ertugrulmutlu/my-first-public-ml-talk-human-in-the-loop-agent-in-the-loop-dec-16-datatalksclub-2lf1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
