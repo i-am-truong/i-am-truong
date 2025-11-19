@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Wallet UX Architecture Decisions: How to Choose the Right Model for Your App](https://dev.to/estelleatthenook/wallet-ux-architecture-decisions-how-to-choose-the-right-model-for-your-app-30oa)
+- [How We Built an AI Terraform Co-Pilot That Actually Works &lpar;And Made It Free&rpar;](https://dev.to/prasadp/how-we-built-an-ai-terraform-co-pilot-that-actually-works-and-made-it-free-mle)
+- [From Random Uploads to a Real Underwater Photography System](https://dev.to/sonia_bobrik_1939cdddd79d/from-random-uploads-to-a-real-underwater-photography-system-2e28)
 - [How to Give Your AI Agent a Wallet Without Getting Drained](https://dev.to/l_x_1/how-to-give-your-ai-agent-a-wallet-without-getting-drained-152h)
 - [JavaScript reads your code twice - Hoisting in var, let &amp; const](https://dev.to/_armasahar_/javascript-reads-your-code-twice-hoisting-in-var-let-const-260b)
-- [How Lodash Can Simplify Your API Testing](https://dev.to/requestly/how-lodash-can-simplify-your-api-testing-d82)
-- [Never Miss Your Way Home: Building a Smart Commute Assistant with Python Part III](https://dev.to/mcheremnov/never-miss-your-way-home-building-a-smart-commute-assistant-with-python-part-iii-3g5f)
-- [EIP-7939: Count Leading Zeros &lpar;CLZ&rpar; Opcode](https://dev.to/ankita_virani_e3e53df6feb/eip-7939-count-leading-zeros-clz-opcode-2g6d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
