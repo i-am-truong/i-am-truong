@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hunting API Keys in the Wild: How I Built FleaMarket to Find &lpar;and Help Fix&rpar; Real Leaks on GitHub](https://dev.to/toxy4ny/hunting-api-keys-in-the-wild-how-i-built-fleamarket-to-find-and-help-fix-real-leaks-on-github-5eal)
+- [Mapbox Developer Tutorials help you start building quickly](https://dev.to/mapbox/mapbox-developer-tutorials-help-you-start-building-quickly-46j4)
 - [How To Convert Figma Design To React + MUI Code In Minutes](https://dev.to/the_greatbonnie/how-to-convert-figma-design-to-react-mui-code-in-minutes-l9l)
+- [⚠️ When Voting Rights Become a Weapon for Cybercriminals — The SIR Verification Scam](https://dev.to/sybersecure/when-voting-rights-become-a-weapon-for-cybercriminals-the-sir-verification-scam-534j)
 - [Versioning Your Database with SQLAlchemy and Alembic: From Models to Safe Migrations](https://dev.to/jcasman/versioning-your-database-with-sqlalchemy-and-alembic-from-models-to-safe-migrations-3i1c)
-- [Becoming a Developer](https://dev.to/amindu_saputhanthri_2ea9b/becoming-a-developer-1lm7)
-- [8-Bit Music Theory: Kirby Air Riders&#39; Music is FUN FUN FUN](https://dev.to/music_youtube/8-bit-music-theory-kirby-air-riders-music-is-fun-fun-fun-51mo)
-- [Untitled](https://dev.to/doos_rent_15bb85da3eb5e37/untitled-pg9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
