@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My views dropped like a bag of bricks the last 2 - 3 weeks](https://dev.to/alifar/my-views-dropped-like-a-bag-of-bricks-the-last-2-3-weeks-50cn)
-- [The Secret Life of Python: MRO Secrets - The Diamond Problem Solved](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-mro-secrets-the-diamond-problem-solved-3j98)
-- [Web Scraping with Python and BeautifulSoup: A Beginner-Friendly Guide](https://dev.to/hammoudi_wissem_2a55b8cc2/web-scraping-with-python-and-beautifulsoup-a-beginner-friendly-guide-4e82)
-- [Serverless vs Kubernetes: The Final Showdown - Why we decided to hold this talk and where to go from here](https://dev.to/aws-builders/serverless-vs-kubernetes-the-final-showdown-why-we-decided-to-hold-this-talk-and-where-to-go-44ee)
-- [On Learning Web Development When Web Development is Still Learning Web Development](https://dev.to/claudianathan/on-learning-web-development-when-web-development-is-still-learning-web-development-e68)
+- [🧠 What 7 Years in .NET Development Taught Me About Software Craftsmanship](https://dev.to/heshamessam/what-7-years-in-net-development-taught-me-about-software-craftsmanship-5866)
+- [How to Create High-Performance 3D Product Viewers Using Three.js + React for Modern eCommerce Stores](https://dev.to/kellythomas/how-to-create-high-performance-3d-product-viewers-using-threejs-react-for-modern-ecommerce-stores-5f7p)
+- [🔐 Control a Solenoid Lock with Arduino Mega &lpar;Using a Relay &amp; Push Button&rpar;](https://dev.to/mohamed_ahmed_dev/control-a-solenoid-lock-with-arduino-mega-using-a-relay-push-button-3jop)
+- [The New Analytics Stack: Data Views Tools Agents](https://dev.to/hoshang_mehta/the-new-analytics-stack-data-views-tools-agents-2kg5)
+- [Spring&#39;s Core Concepts: Bean, Container, and Context Explained](https://dev.to/anir_codes07/springs-core-concepts-bean-container-and-context-explained-4ge0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
