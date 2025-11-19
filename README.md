@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Understanding the Critical Render Path in React &amp; Vue &lpar;CSR&rpar; — And How It Differs from SSG &amp; SSR](https://dev.to/vishwark/understanding-the-critical-render-path-in-react-vue-csr-and-how-it-differs-from-ssg-ssr-46la)
-- [STM32V8: A New Era of High-Performance MCUs Built on 18nm and Cortex-M85](https://dev.to/kevinzhang109/stm32v8-a-new-era-of-high-performance-mcus-built-on-18nm-and-cortex-m85-15bm)
-- [Day 39: Python Word Counter, Count Words in Text with Whitespace Handling](https://dev.to/shahrouzlogs/day-39-python-word-counter-count-words-in-text-with-whitespace-handling-5h7k)
-- [Bash cheat sheet](https://dev.to/dyogesh/bash-cheat-sheet-1il1)
-- [Electrosurgery Electronics: RF Wands of the Medical Wizarding World ⚡](https://dev.to/ersajay/electrosurgery-electronics-rf-wands-of-the-medical-wizarding-world-44gg)
+- [Amazon S3 Vectors: The Cost-Friendly Way to Store and Search AI Embeddings](https://dev.to/aws-builders/amazon-s3-vectors-the-cost-friendly-way-to-store-and-search-ai-embeddings-42np)
+- [I Made a File That&#39;s Also Another File &lpar;And Your Mind is About to Break&rpar; 🤯](https://dev.to/rolan_r_n_r/i-made-a-file-thats-also-another-file-and-your-mind-is-about-to-break-35ek)
+- [Analyzing LinkedIn Job Postings: Skill Extraction &amp; Clustering](https://dev.to/esdk/analyzing-linkedin-job-postings-skill-extraction-clustering-17c7)
+- [WordPress 6.9 Is Sneaking In a Feature That’s Way More Useful Than It Sounds](https://dev.to/muzammildev/wordpress-69-is-sneaking-in-a-feature-thats-way-more-useful-than-it-sounds-5660)
+- [Serverless Workflow Engines: 40+ Tools Ranked by Latency, Cost, and Developer Experience](https://dev.to/yigit-konur/serverless-workflow-engines-40-tools-ranked-by-latency-cost-and-developer-experience-19h2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
