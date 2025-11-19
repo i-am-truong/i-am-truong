@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Top 5 Container Security Books in 2026](https://dev.to/aerabi/top-5-container-security-books-in-2026-2j5d)
+- [Recent Breakthrough in Edge AI: Ultra-Low Power Consumption](https://dev.to/drcarlosruizviquez/recent-breakthrough-in-edge-ai-ultra-low-power-consumption-5444)
+- [The Quantum Leap in Machine Learning: Why Quantum Supremacy](https://dev.to/drcarlosruizviquez/the-quantum-leap-in-machine-learning-why-quantum-supremacy-4mfe)
 - [7 Developer Productivity Hacks That Cut Coding Time by 30%](https://dev.to/carlosinfantes/7-developer-productivity-hacks-that-cut-coding-time-by-30-lem)
 - [Locks](https://dev.to/igor_grieder/locks-e05)
-- [Understanding SOLID Principles — The Foundation of Better Software Design](https://dev.to/roydevashish/understanding-solid-principles-the-foundation-of-better-software-design-456k)
-- [AzureAD 3.7: Dynamic credentials with Flexible Federated Identity](https://dev.to/danquack/azuread-37-dynamic-credentials-with-flexible-federated-identity-4ji9)
-- [🍹 Introducing Happy Hour API — A Simple Way to Add Local Drink Deals to Your App](https://dev.to/nick_calhoun_0046fedbaeac/introducing-happy-hour-api-a-simple-way-to-add-local-drink-deals-to-your-app-289l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
