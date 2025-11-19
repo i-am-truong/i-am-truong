@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [One Year of Building My Untitled Horror Inspired OS Game](https://dev.to/stg/one-year-of-building-my-untitled-horror-inspired-os-game-2gh6)
-- [File Upload UI for Non-Technical Users](https://dev.to/ideradevtools/file-upload-ui-for-non-technical-users-439i)
-- [10+ Trending Animated UI Component Libraries 🔥 &lpar;2025 Edition&rpar;](https://dev.to/jay_sarvaiya_reactjs/10-trending-animated-ui-component-libraries-2025-edition-1af4)
-- [I built a product &quot;BS Detector&quot; using Gemini 2.0 Flash and AI Studio 🕵️‍♂️](https://dev.to/googleai/i-built-a-product-bs-detector-using-gemini-20-flash-and-ai-studio-69j)
-- [AI Agent Showdown: The Five Architectures Actually Driving Wins in 2025](https://dev.to/aiwithapex/ai-agent-showdown-the-five-architectures-actually-driving-wins-in-2025-d80)
+- [Leaders – Wake Up and Smell the Coffee](https://dev.to/bid_solution/leaders-wake-up-and-smell-the-coffee-1laf)
+- [When I Grow Up, I Want to Be a Bid Writer!](https://dev.to/bid_solution/when-i-grow-up-i-want-to-be-a-bid-writer-59j7)
+- [コスト削減と自由度アップ！商用ツールからオープンソースへの乗り換え15選](https://dev.to/nakamura_takuya/kosutoxue-jian-tozi-you-du-atupushang-yong-turukaraopunsosuhenocheng-rihuan-e15xuan-d11)
+- [From localStorage to Database: Understanding the MongoDB Structure❗](https://dev.to/cristea_theodora_6200140b/from-localstorage-to-database-understanding-the-mongodb-structure-1a21)
+- [Python by Structure: Match Statements and Pattern Guards](https://dev.to/aaron_rose_0787cc8b4775a0/python-by-structure-match-statements-and-pattern-guards-1a68)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
