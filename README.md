@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Testing LLM Prompts in Production Pipelines: A Practical Approach](https://dev.to/stuartp/testing-llm-prompts-in-production-pipelines-a-practical-approach-349b)
-- [The pain of Windows development](https://dev.to/simeon_norris_49460d1e9de/the-pain-of-windows-development-1d2m)
-- [What Is ChatGPT Group Chat? A 2025 Guide to AI Collaboration](https://dev.to/emilyfoster/what-is-chatgpt-group-chat-a-2025-guide-to-ai-collaboration-3176)
-- [Nuxt Tutorial 5 - Middleware](https://dev.to/aloisseckar/nuxt-tutorial-5-middleware-3e5a)
-- [What Is Learn-to-Steer? NVIDIA’s 2025 Spatial Fix for Text-to-Image Diffusion](https://dev.to/davidevans/what-is-learn-to-steer-nvidias-2025-spatial-fix-for-text-to-image-diffusion-4eoe)
+- [Testing the Pioneer DDJ-FLX10: First Impressions from a Working DJ](https://dev.to/taylor_thomson/testing-the-pioneer-ddj-flx10-first-impressions-from-a-working-dj-2nh0)
+- [What Is the Best AI Model in 2025? Deep Dive into Gemini 3, GPT-4, and Claude 2.1](https://dev.to/isabellaking/what-is-the-best-ai-model-in-2025-deep-dive-into-gemini-3-gpt-4-and-claude-21-6bm)
+- [⚠️ The Hidden Privacy Risks Behind AI Assistants](https://dev.to/alifar/the-hidden-privacy-risks-behind-ai-assistants-44n7)
+- [What Is LLM Post-Training? Best Techniques in 2025](https://dev.to/sunethkawasaki7/what-is-llm-post-training-best-techniques-in-2025-379g)
+- [A Simple Guide to Route Tables and Internet Gateways in AWS](https://dev.to/irfansatrio/a-simple-guide-to-route-tables-and-internet-gateways-in-aws-3b1k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
