@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Handle HTML Form Submissions Without a Backend &lpar;2025 Guide&rpar;](https://dev.to/allenarduino/how-to-handle-html-form-submissions-without-a-backend-2025-guide-2i5g)
-- [🚀 New FREE Beginner Challenge: Build an Animated Equalizer in React](https://dev.to/duffmancc/new-free-beginner-challenge-build-an-animated-equalizer-in-react-k6e)
-- [Linux Kernel: Interrupt](https://dev.to/ripan030/linux-kernel-interrupt-1e7n)
-- [Hunting API Keys in the Wild: How I Built FleaMarket to Find &lpar;and Help Fix&rpar; Real Leaks on GitHub](https://dev.to/toxy4ny/hunting-api-keys-in-the-wild-how-i-built-fleamarket-to-find-and-help-fix-real-leaks-on-github-5eal)
-- [Mapbox Developer Tutorials help you start building quickly](https://dev.to/mapbox/mapbox-developer-tutorials-help-you-start-building-quickly-46j4)
+- [Microsoft Ignite 2025 for Devs &amp; DevOps: My Top Announcements](https://dev.to/pwd9000/microsoft-ignite-2025-for-devs-devops-my-top-announcements-4f6i)
+- [Understanding Content Security Policy &lpar;CSP&rpar;](https://dev.to/ozankozan/understanding-content-security-policy-csp-1hh5)
+- [Best AI Test Case Generation Tools &lpar;2025 Guide&rpar;](https://dev.to/morrismoses149/best-ai-test-case-generation-tools-2025-guide-35b9)
+- [Queen City Con 0x3: Hacking And Embracing Resiliency](https://dev.to/gitguardian/queen-city-con-0x3-hacking-and-embracing-resiliency-7hl)
+- [Instagram Threads Advertising: What We Know &lpar;and Don&#39;t&rpar; About Q1 2026](https://dev.to/synergistdigitalmedia/instagram-threads-advertising-what-we-know-and-dont-about-q1-2026-e2k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
