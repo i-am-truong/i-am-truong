@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI for Developers: Work Smarter, Not Harder](https://dev.to/mashraf_aiman_b9a968e5c1d/ai-for-developers-work-smarter-not-harder-6n7)
-- [The Reality of Learning to Code — THE UNTOLD TRUTH](https://dev.to/mashraf_aiman_b9a968e5c1d/the-reality-of-learning-to-code-the-untold-truth-2m0d)
-- [Portfolio Project: Python Terminal Game](https://dev.to/rlclwy/portfolio-project-python-terminal-game-4d75)
-- [Beyond Deadwoodworks: How Claude Code Skills Super-charge MCP Servers and Everyday Workflows](https://dev.to/fourixai/beyond-deadwoodworks-how-claude-code-skills-super-charge-mcp-servers-and-everyday-workflows-69)
-- [My First .NET Core Web API Project: Documenting the Rookie Mistakes and Wins on the Way to a Job.](https://dev.to/jervie_gono/my-first-net-core-web-api-project-documenting-the-rookie-mistakes-and-wins-on-the-way-to-a-job-23ci)
+- [7 Technical SEO Practices Every Developer-Led SaaS Should Implement in 2025](https://dev.to/liamtakahiro/7-technical-seo-practices-every-developer-led-saas-should-implement-in-2025-agk)
+- [How GitHub Copilot Uses MCP Tools — Behind the Scenes](https://dev.to/mashraf_aiman_b9a968e5c1d/how-github-copilot-uses-mcp-tools-behind-the-scenes-3pfi)
+- [计算机模拟三体运动](https://dev.to/cheng_qian_8382fdc61158ce/ji-suan-ji-mo-ni-san-ti-yun-dong-4d0l)
+- [计算机模拟双星系统](https://dev.to/cheng_qian_8382fdc61158ce/ji-suan-ji-mo-ni-shuang-xing-xi-tong-5d4p)
+- [计算机模拟地月系统](https://dev.to/cheng_qian_8382fdc61158ce/ji-suan-ji-mo-ni-di-yue-xi-tong-ied)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
