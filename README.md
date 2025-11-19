@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Designed a Modular, Event-Driven Architecture for Real-Time Voice AI](https://dev.to/ayoolasolomon/how-i-designed-a-modular-event-driven-architecture-for-real-time-voice-ai-3d6g)
-- [File 00: Introduction to Cognitive Biases](https://dev.to/cnastasi/file-00-introduction-to-cognitive-biases-3e8l)
-- [Your Landing Page Is Probably Over-Engineered](https://dev.to/cucoleadan/your-landing-page-is-probably-over-engineered-1nd)
-- [Azure Kubernetes Service &lpar;AKS&rpar; Network Policies: A Comprehensive Guide](https://dev.to/mikaelkrief2/azure-kubernetes-service-aks-network-policies-a-comprehensive-guide-484h)
-- [Google Antigravity: The Agent-First IDE That Changes Everything](https://dev.to/manuth_lochana/google-antigravity-the-agent-first-ide-that-changes-everything-36j1)
+- [Global Expansion: Unlocking Export Opportunities for Dairy Products](https://dev.to/alyssa-miller/global-expansion-unlocking-export-opportunities-for-dairy-products-fdj)
+- [Real-Time Video with the WebRTC MediaStream API](https://dev.to/mohammad_owaisk_e95f45c/real-time-video-with-the-webrtc-mediastream-api-3e12)
+- [Jeff Su: Master 80% of Notion with this ONE Feature](https://dev.to/future_ai/jeff-su-master-80-of-notion-with-this-one-feature-1enb)
+- [How AI Discovers Your MCP Tools?](https://dev.to/ndabene/how-ai-discovers-your-mcp-tools-4n9o)
+- [Gemini 3 Pro vs GPT 5.1: which is better? A Complete Comparison](https://dev.to/anna001/gemini-3-pro-vs-gpt-51-which-is-better-a-complete-comparison-2l01)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
