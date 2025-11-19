@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Handle HTML Form Submissions Without a Backend &lpar;2025 Guide&rpar;](https://dev.to/allenarduino/how-to-handle-html-form-submissions-without-a-backend-2025-guide-2i5g)
+- [🚀 New FREE Beginner Challenge: Build an Animated Equalizer in React](https://dev.to/duffmancc/new-free-beginner-challenge-build-an-animated-equalizer-in-react-k6e)
+- [Linux Kernel: Interrupt](https://dev.to/ripan030/linux-kernel-interrupt-1e7n)
 - [Hunting API Keys in the Wild: How I Built FleaMarket to Find &lpar;and Help Fix&rpar; Real Leaks on GitHub](https://dev.to/toxy4ny/hunting-api-keys-in-the-wild-how-i-built-fleamarket-to-find-and-help-fix-real-leaks-on-github-5eal)
 - [Mapbox Developer Tutorials help you start building quickly](https://dev.to/mapbox/mapbox-developer-tutorials-help-you-start-building-quickly-46j4)
-- [How To Convert Figma Design To React + MUI Code In Minutes](https://dev.to/the_greatbonnie/how-to-convert-figma-design-to-react-mui-code-in-minutes-l9l)
-- [⚠️ When Voting Rights Become a Weapon for Cybercriminals — The SIR Verification Scam](https://dev.to/sybersecure/when-voting-rights-become-a-weapon-for-cybercriminals-the-sir-verification-scam-534j)
-- [Versioning Your Database with SQLAlchemy and Alembic: From Models to Safe Migrations](https://dev.to/jcasman/versioning-your-database-with-sqlalchemy-and-alembic-from-models-to-safe-migrations-3i1c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
