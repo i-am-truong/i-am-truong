@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [6 Different Data Formats Commonly Used in Data Analytics](https://dev.to/cibin_s_/6-different-data-formats-commonly-used-in-data-analytics-3h97)
+- [Render Graph, a simple implementation](https://dev.to/dmaters/render-graph-a-simple-implementation-4ocf)
+- [Currículos de Pesquisa dos Professores de Informática - IFRN Nova Cruz](https://dev.to/rafaelmoraespereira/curriculos-de-pesquisa-dos-professores-de-informatica-ifrn-nova-cruz-5461)
+- [🚀 Offering Free Data Visualization Help — One Project...](https://dev.to/dev_ops_python/offering-free-data-visualization-help-one-project-28o8)
 - [Microsoft Ignite 2025 for Devs &amp; DevOps: My Top Announcements](https://dev.to/pwd9000/microsoft-ignite-2025-for-devs-devops-my-top-announcements-4f6i)
-- [Understanding Content Security Policy &lpar;CSP&rpar;](https://dev.to/ozankozan/understanding-content-security-policy-csp-1hh5)
-- [Best AI Test Case Generation Tools &lpar;2025 Guide&rpar;](https://dev.to/morrismoses149/best-ai-test-case-generation-tools-2025-guide-35b9)
-- [Queen City Con 0x3: Hacking And Embracing Resiliency](https://dev.to/gitguardian/queen-city-con-0x3-hacking-and-embracing-resiliency-7hl)
-- [Instagram Threads Advertising: What We Know &lpar;and Don&#39;t&rpar; About Q1 2026](https://dev.to/synergistdigitalmedia/instagram-threads-advertising-what-we-know-and-dont-about-q1-2026-e2k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
