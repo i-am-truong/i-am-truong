@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [File 00: Introduction to Cognitive Biases](https://dev.to/cnastasi/file-00-introduction-to-cognitive-biases-3e8l)
+- [Your Landing Page Is Probably Over-Engineered](https://dev.to/cucoleadan/your-landing-page-is-probably-over-engineered-1nd)
+- [Azure Kubernetes Service &lpar;AKS&rpar; Network Policies: A Comprehensive Guide](https://dev.to/mikaelkrief2/azure-kubernetes-service-aks-network-policies-a-comprehensive-guide-484h)
 - [Google Antigravity: The Agent-First IDE That Changes Everything](https://dev.to/manuth_lochana/google-antigravity-the-agent-first-ide-that-changes-everything-36j1)
 - [What is HFT &lpar;High Frequency Trading&rpar; and how can we implement it in Rust.](https://dev.to/mayu2008/what-is-hft-high-frequency-trading-and-how-can-we-implement-it-in-rust-10jc)
-- [Explore the Amazon Augmented AI with Human Review Workflows, Amazon Textract Form Extraction Task and Amazon Cognito User Pool](https://dev.to/aws-builders/explore-the-amazon-augmented-ai-with-human-review-workflows-amazon-textract-form-extraction-task-33kb)
-- [Statistics Day5: The Super-Simple Guide to Random Variables and Correlation for Data Science Beginners](https://dev.to/brains_behind_bots/statistics-day5-the-super-simple-guide-to-random-variables-and-correlation-for-data-science-1e8d)
-- [Of Type and Interface: TypeScript Tales Ch. 01](https://dev.to/arbishal/of-type-and-interface-typescript-tales-ch-01-39de)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
