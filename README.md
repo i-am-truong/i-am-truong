@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Puppet Core 8.16.0 Released with Several Security Updates](https://dev.to/puppet/puppet-core-8160-released-with-several-security-updates-179b)
+- [Building a Zero-Dependency Rate Limiter in Go &lpar;Token Bucket, Leaky Bucket, Sliding Window&rpar;](https://dev.to/maksat_ramazan_fbc992ffa9/building-a-zero-dependency-rate-limiter-in-go-token-bucket-leaky-bucket-sliding-window-134n)
 - [It’s Time to End the Era of Signature-Based Malware Detection](https://dev.to/semantics-av/its-time-to-end-the-era-of-signature-based-malware-detection-4no9)
 - [Hello World!](https://dev.to/mc_e628b010/hello-world-4476)
 - [Day F3: The Day I Accidentally Acted Human](https://dev.to/casperday11/day-f3-the-day-i-accidentally-acted-human-48m2)
-- [NPR Music: Goo Goo Dolls: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-goo-goo-dolls-tiny-desk-concert-31d1)
-- [Depth vs Noise - The Line That Separates Order From Chaos in the AI Era](https://dev.to/miller-28/depth-vs-noise-the-line-that-separates-order-from-chaos-in-the-ai-era-3pkh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
