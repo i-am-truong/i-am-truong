@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How can I improve my side hustle?](https://dev.to/dev_man/how-can-you-improve-your-side-hustle-1d5l)
 - [6 Different Data Formats Commonly Used in Data Analytics](https://dev.to/cibin_s_/6-different-data-formats-commonly-used-in-data-analytics-3h97)
 - [Render Graph, a simple implementation](https://dev.to/dmaters/render-graph-a-simple-implementation-4ocf)
 - [Currículos de Pesquisa dos Professores de Informática - IFRN Nova Cruz](https://dev.to/rafaelmoraespereira/curriculos-de-pesquisa-dos-professores-de-informatica-ifrn-nova-cruz-5461)
 - [🚀 Offering Free Data Visualization Help — One Project...](https://dev.to/dev_ops_python/offering-free-data-visualization-help-one-project-28o8)
-- [Microsoft Ignite 2025 for Devs &amp; DevOps: My Top Announcements](https://dev.to/pwd9000/microsoft-ignite-2025-for-devs-devops-my-top-announcements-4f6i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
