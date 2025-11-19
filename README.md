@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [React Concepts Explained: Part 1 - Core Fundamentals](https://dev.to/dehemi_fabio/react-concepts-explained-part-1-core-fundamentals-52kd)
+- [mobile app](https://dev.to/preetha_vaishnavi_2b82358/mobile-app-nac)
+- [Setup Gstreamer with Python on Windows](https://dev.to/liberifatali/setup-gstreamer-with-python-on-windows-59n3)
+- [Cloudflare Outage Explained: How One Company Took Down Huge Parts of the Internet — Including X](https://dev.to/dheeraj_jain/cloudflare-outage-explained-how-one-company-took-down-huge-parts-of-the-internet-including-x-44ci)
 - [🧱 SSR vs SSG vs ISR: Choosing the Right Rendering Strategy in 2025](https://dev.to/mridudixit15/ssr-vs-ssg-vs-isr-choosing-the-right-rendering-strategy-in-2025-44e0)
-- [Kiro Did It: Kiro Goes GA - And Replaces My Favorite CLI!](https://dev.to/bhatiagirish/kiro-did-it-kiro-goes-ga-and-replaces-my-favorite-cli-5ec9)
-- [SQL as Contract vs. Python as Procedure — a Short Note on Atlas vs. Alembic](https://dev.to/unauthorized/sql-as-contract-vs-python-as-procedure-a-short-note-on-atlas-vs-alembic-36io)
-- [Quesby 0.1.2 is now available!](https://dev.to/quesby/quesby-012-is-now-available-2ae6)
-- [Methods and primitive type in JS](https://dev.to/maryam_hosseini_e3effa8e8/methods-and-primitive-type-in-js-4e0o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
