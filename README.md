@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Amazon S3 Vectors: The Cost-Friendly Way to Store and Search AI Embeddings](https://dev.to/aws-builders/amazon-s3-vectors-the-cost-friendly-way-to-store-and-search-ai-embeddings-42np)
-- [I Made a File That&#39;s Also Another File &lpar;And Your Mind is About to Break&rpar; 🤯](https://dev.to/rolan_r_n_r/i-made-a-file-thats-also-another-file-and-your-mind-is-about-to-break-35ek)
-- [Analyzing LinkedIn Job Postings: Skill Extraction &amp; Clustering](https://dev.to/esdk/analyzing-linkedin-job-postings-skill-extraction-clustering-17c7)
-- [WordPress 6.9 Is Sneaking In a Feature That’s Way More Useful Than It Sounds](https://dev.to/muzammildev/wordpress-69-is-sneaking-in-a-feature-thats-way-more-useful-than-it-sounds-5660)
-- [Serverless Workflow Engines: 40+ Tools Ranked by Latency, Cost, and Developer Experience](https://dev.to/yigit-konur/serverless-workflow-engines-40-tools-ranked-by-latency-cost-and-developer-experience-19h2)
+- [Engineering Apps to Scale &lpar;Without Breaking&rpar;](https://dev.to/kiddo4lyf/engineering-apps-to-scale-without-breaking-5gff)
+- [JSON is Costing You Money: Enter TOON - the Format Built for LLMs](https://dev.to/maikidev/json-is-costing-you-money-enter-toon-the-format-built-for-llms-4ce8)
+- [📌 How to build a context-first cloud collaboration model](https://dev.to/tarakinfracodebase/how-to-build-a-context-first-cloud-collaboration-model-52pc)
+- [How to Sync Anything: Building a Sync Engine from Scratch — Part 2](https://dev.to/moremaddy/how-to-sync-anything-building-a-sync-engine-from-scratch-part-2-hjb)
+- [Cloud-Based Android Testing: Comparing Infrastructure Options for Development Teams](https://dev.to/digitalgrowthpro/cloud-based-android-testing-comparing-infrastructure-options-for-development-teams-42e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
