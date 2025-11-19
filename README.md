@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Wallet UX Architecture Decisions: How to Choose the Right Model for Your App](https://dev.to/estelleatthenook/wallet-ux-architecture-decisions-how-to-choose-the-right-model-for-your-app-30oa)
-- [How We Built an AI Terraform Co-Pilot That Actually Works &lpar;And Made It Free&rpar;](https://dev.to/prasadp/how-we-built-an-ai-terraform-co-pilot-that-actually-works-and-made-it-free-mle)
-- [From Random Uploads to a Real Underwater Photography System](https://dev.to/sonia_bobrik_1939cdddd79d/from-random-uploads-to-a-real-underwater-photography-system-2e28)
-- [How to Give Your AI Agent a Wallet Without Getting Drained](https://dev.to/l_x_1/how-to-give-your-ai-agent-a-wallet-without-getting-drained-152h)
-- [JavaScript reads your code twice - Hoisting in var, let &amp; const](https://dev.to/_armasahar_/javascript-reads-your-code-twice-hoisting-in-var-let-const-260b)
+- [Website savings: where to cut and where to stop](https://dev.to/polyapolza108/website-savings-where-to-cut-and-where-to-stop-56j1)
+- [Zoho για Developers: Αναλυτικός Οδηγός για Email, CRM και WordPress Integration](https://dev.to/__b63657/zoho-gia-developers-analutikos-odegos-gia-email-crm-kai-wordpress-integration-11kf)
+- [The Brutal Truth About Today’s “AI Startups”: Most Are Just Fancy Wrappers Around Someone Else’s Model](https://dev.to/ajaylegion/the-brutal-truth-about-todays-ai-startups-most-are-just-fancy-wrappers-around-someone-elses-55k6)
+- [What Is a Firewall—and Why Should You Use One?](https://dev.to/sagar_sajwan_a91beb41c861/what-is-a-firewall-and-why-should-you-use-one-2ak6)
+- [React made me do it😭](https://dev.to/amvitor-cm/react-made-me-do-it-1ie1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
