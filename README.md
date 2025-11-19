@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Smart Founder’s Guide to SaaS MVP Development: Build Lean, Validate Fast](https://dev.to/vicky_ijade_c2e62a312e988/the-smart-founders-guide-to-saas-mvp-development-build-lean-validate-fast-47fe)
-- [Migrating an ERP-Driven Storefront Using a Message-Broker Architecture &lpar;RabbitMQ&rpar;](https://dev.to/kasiaupside/migrating-an-erp-driven-storefront-using-a-message-broker-architecture-rabbitmq-4oa8)
-- [The future of ViBE coding: 5 years ahead](https://dev.to/polyapolza108/the-future-of-vibe-coding-5-years-ahead-1la7)
-- [Value Object in PHP 8: Build your own type system](https://dev.to/cnastasi/value-object-in-php-8-build-your-own-type-system-5970)
-- [When the Internet Held Its Breath: The Day Cloudflare Took Down 20% of the Web](https://dev.to/shiva_shanker_k/when-the-internet-held-its-breath-the-day-cloudflare-took-down-20-of-the-web-3gf8)
+- [Never Miss Your Way Home: Building a Smart Commute Assistant with Python Part III](https://dev.to/mcheremnov/never-miss-your-way-home-building-a-smart-commute-assistant-with-python-part-iii-3g5f)
+- [EIP-7939: Count Leading Zeros &lpar;CLZ&rpar; Opcode](https://dev.to/ankita_virani_e3e53df6feb/eip-7939-count-leading-zeros-clz-opcode-2g6d)
+- [Estratégias de Crescimento: Como Impulsionar Seu Negócio em 2024](https://dev.to/movin/estrategias-de-crescimento-como-impulsionar-seu-negocio-em-2024-56e3)
+- [Your 2026 Marketing Budget Doesn&#39;t Need More Money—It Needs Better Math](https://dev.to/synergistdigitalmedia/your-2026-marketing-budget-doesnt-need-more-money-it-needs-better-math-195a)
+- [My First Public ML Talk: Human-in-the-Loop Agent-in-the-Loop &lpar;Dec 16, DataTalks.Club&rpar;](https://dev.to/ertugrulmutlu/my-first-public-ml-talk-human-in-the-loop-agent-in-the-loop-dec-16-datatalksclub-2lf1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
