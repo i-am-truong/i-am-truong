@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Installing Google Antigravity on Arch &lpar;And Fixing That Annoying Login Loop&rpar;](https://dev.to/pyonarch/installing-google-antigravity-on-arch-and-fixing-that-annoying-login-loop-4ji3)
+- [I Built TabClock — A Simple Chrome Extension That Shows How Long You Spend on Each Website](https://dev.to/isajlosmi/i-built-tabclock-a-simple-chrome-extension-that-shows-how-long-you-spend-on-each-website-2737)
+- [How to Create a Portfolio Monitoring System That Doesn’t Overwhelm You](https://dev.to/luketaylor25/how-to-create-a-portfolio-monitoring-system-that-doesnt-overwhelm-you-3g55)
 - [[Boost]](https://dev.to/fenjufu/-3ffa)
 - [Building a Custom OTP Input Component in React Native](https://dev.to/neeraj1005/building-a-custom-otp-input-component-in-react-native-59m9)
-- [How to Use AI to Stress-Test Your Spending Plan Without Spreadsheets](https://dev.to/briandavies/how-to-use-ai-to-stress-test-your-spending-plan-without-spreadsheets-3kof)
-- [REMI Evolved: Beyond the Agentic Postgres Challenge](https://dev.to/jramone3/remi-evolved-beyond-the-agentic-postgres-challenge-42jp)
-- [GenAI for Engineers, What&#39;s Real, What&#39;s Not and What&#39;s Coming](https://dev.to/codingcatdev/genai-for-engineers-whats-real-whats-not-and-whats-coming-j7p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
