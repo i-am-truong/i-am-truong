@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Engineering Apps to Scale &lpar;Without Breaking&rpar;](https://dev.to/kiddo4lyf/engineering-apps-to-scale-without-breaking-5gff)
-- [JSON is Costing You Money: Enter TOON - the Format Built for LLMs](https://dev.to/maikidev/json-is-costing-you-money-enter-toon-the-format-built-for-llms-4ce8)
-- [📌 How to build a context-first cloud collaboration model](https://dev.to/tarakinfracodebase/how-to-build-a-context-first-cloud-collaboration-model-52pc)
-- [How to Sync Anything: Building a Sync Engine from Scratch — Part 2](https://dev.to/moremaddy/how-to-sync-anything-building-a-sync-engine-from-scratch-part-2-hjb)
-- [Cloud-Based Android Testing: Comparing Infrastructure Options for Development Teams](https://dev.to/digitalgrowthpro/cloud-based-android-testing-comparing-infrastructure-options-for-development-teams-42e)
+- [Why &amp; How Cloudflare shut downed the planet for sometimes](https://dev.to/mashraf_aiman_b9a968e5c1d/why-how-cloudflare-shut-downed-the-planet-for-sometimes-ojl)
+- [When Not Being an Expert Becomes Your Superpower](https://dev.to/mashraf_aiman_b9a968e5c1d/when-not-being-an-expert-becomes-your-superpower-cff)
+- [Asciinema: The Secret Weapon for Better Documentation, Training, and Handovers](https://dev.to/anderson_leite/asciinema-the-secret-weapon-for-better-documentation-training-and-handovers-1m9i)
+- [🚀 Neovim for Unreal Engine: Major Update with Asset Tracking Plugin &#39;UEA.nvim&#39;](https://dev.to/taku25/neovim-for-unreal-engine-major-update-with-asset-tracking-plugin-ueanvim-102p)
+- [I Learned JavaScript for 2 Years… Without Installing It 😭😂](https://dev.to/usama_dev/i-learned-javascript-for-2-years-without-installing-it-1jd6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
