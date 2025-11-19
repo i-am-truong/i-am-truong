@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The January Vanishing Act: Why Your Holiday Customers Disappear &lpar;And How to Stop It&rpar;](https://dev.to/synergistdigitalmedia/the-january-vanishing-act-why-your-holiday-customers-disappear-and-how-to-stop-it-2030)
 - [The Tool I Finally Built to Escape My Terminal Chaos](https://dev.to/madsendev/the-tool-i-finally-built-to-escape-my-terminal-chaos-37cl)
+- [Turbocharging AI: Twice Sequential Monte Carlo for Lightning-Fast Decisions by Arvind Sundararajan](https://dev.to/arvind_sundararajan/turbocharging-ai-twice-sequential-monte-carlo-for-lightning-fast-decisions-by-arvind-sundararajan-2aok)
 - [Day 16 : Rest](https://dev.to/stackbento/day-16-rest-gfa)
 - [Why Business Central’s Standard Scheduling Isn’t Enough for Complex Production Planning](https://dev.to/insight_works/why-business-centrals-standard-scheduling-isnt-enough-for-complex-production-planning-1h7i)
-- [Why Business Central’s Standard Scheduling Isn’t Enough for Complex Production Planning](https://dev.to/insight_works/why-business-centrals-standard-scheduling-isnt-enough-for-complex-production-planning-4486)
-- [Testing the Pioneer DDJ-FLX10: First Impressions from a Working DJ](https://dev.to/taylor_thomson/testing-the-pioneer-ddj-flx10-first-impressions-from-a-working-dj-2nh0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
