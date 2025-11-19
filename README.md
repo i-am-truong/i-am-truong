@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Embedded Swift Gets Major Upgrades in Swift 6.3](https://dev.to/arshtechpro/embedded-swift-gets-major-upgrades-in-swift-63-190m)
+- [Quick Update on EcoFurball: New Guide Published + Behind the Scenes](https://dev.to/ecofurball/quick-update-on-ecofurball-new-guide-published-behind-the-scenes-50ke)
+- [The Hidden Failure Pattern Behind the AWS, Azure and Cloudflare Outages of 2025](https://dev.to/codedetech/the-hidden-failure-pattern-behind-the-aws-azure-and-cloudflare-outages-of-2025-462n)
 - [Cloudflare went down yesterday. My monitoring lied. So I built this.](https://dev.to/yibnum_e28bd788205e815a92/cloudflare-went-down-yesterday-my-monitoring-lied-so-i-built-this-520o)
 - [Despliegue de una aplicación en AWS usando ECS + ECR](https://dev.to/robertdev/despliegue-de-una-aplicacion-en-aws-usando-ecs-ecr-j9p)
-- [Brazilian - Python Lib](https://dev.to/mauricio_reisdoefer_159bf/brazilian-python-lib-29gf)
-- [System Design Interview Tip No One Talks About](https://dev.to/ayuschjain/system-design-interview-tip-no-one-talks-about-2o43)
-- [Installing DaisyUI in Rails without Node.js](https://dev.to/mrispoli24/installing-daisyui-in-rails-without-nodejs-1eo0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
