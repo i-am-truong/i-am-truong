@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Leaders – Wake Up and Smell the Coffee](https://dev.to/bid_solution/leaders-wake-up-and-smell-the-coffee-1laf)
-- [When I Grow Up, I Want to Be a Bid Writer!](https://dev.to/bid_solution/when-i-grow-up-i-want-to-be-a-bid-writer-59j7)
-- [コスト削減と自由度アップ！商用ツールからオープンソースへの乗り換え15選](https://dev.to/nakamura_takuya/kosutoxue-jian-tozi-you-du-atupushang-yong-turukaraopunsosuhenocheng-rihuan-e15xuan-d11)
-- [From localStorage to Database: Understanding the MongoDB Structure❗](https://dev.to/cristea_theodora_6200140b/from-localstorage-to-database-understanding-the-mongodb-structure-1a21)
-- [Python by Structure: Match Statements and Pattern Guards](https://dev.to/aaron_rose_0787cc8b4775a0/python-by-structure-match-statements-and-pattern-guards-1a68)
+- [C# Guide: Build Dynamic Word Files with Rich Formatting and Data](https://dev.to/allen_yang_f905170c5a197b/c-guide-build-dynamic-word-files-with-rich-formatting-and-data-7hc)
+- [When Cloudflare Went Down: The Day the Internet Remembered Cloud Isn’t Invincible](https://dev.to/yaseen_tech/when-cloudflare-went-down-the-day-the-internet-remembered-cloud-isnt-invincible-1ha6)
+- [Why We Need Chiplets: The Challenges Facing the Semiconductor Industry and How They Help](https://dev.to/alpinumblogs/why-we-need-chiplets-the-challenges-facing-the-semiconductor-industry-and-how-they-help-4bem)
+- [API Seamless Upgrade Solution: Architectural Evolution from Push Mode to Pull Mode](https://dev.to/canonical/api-seamless-upgrade-solution-architectural-evolution-from-push-mode-to-pull-mode-5cm5)
+- [Neo and NBitcoin blockchain projects vs. static analyzer. Who wins?](https://dev.to/pvsdev/neo-and-nbitcoin-blockchain-projects-vs-static-analyzer-who-wins-58kj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
