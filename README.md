@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Bezos Is Back in the Arena: Why Project Prometheus Is the $6.2 Billion Wake-Up Call AI Needed](https://dev.to/ibrahimpima/jeff-bezos-is-back-in-the-arena-why-project-prometheus-is-the-62-billion-wake-up-call-ai-needed-2m12)
-- [Day 1269 : No More](https://dev.to/dwane/day-1269-no-more-1goc)
-- [KAFKA REAL-TIME MICROSERVICES PROJECT](https://dev.to/jumptotech/kafka-real-time-microservices-project-c70)
-- [AI Wives 2026: A Developer&#39;s Look at the Code Behind the Relationships](https://dev.to/glorioustechs/ai-wives-2026-a-developers-look-at-the-code-behind-the-relationships-3bma)
-- [The Hidden Dependency That Took Down Half the Internet Today](https://dev.to/statusfield/the-hidden-dependency-that-took-down-half-the-internet-today-55cb)
+- [Maximize Your Online Courses: How Developers Can Create and Sell Technical Courses](https://dev.to/softwaredeveloperhub01/maximize-your-online-courses-how-developers-can-create-and-sell-technical-courses-10o2)
+- [I Built and Launched a React Native App in 2 Weeks - Here&#39;s What I Learned](https://dev.to/daebeom/i-built-and-launched-a-react-native-app-in-2-weeks-heres-what-i-learned-5bal)
+- [AI Amnesia: Erasing Knowledge Without a Trace](https://dev.to/arvind_sundararajan/ai-amnesia-erasing-knowledge-without-a-trace-1cnb)
+- [Do Something While Someone Logs Into Your Linux System](https://dev.to/kingyou/do-something-while-someone-logs-into-your-linux-system-3hd4)
+- [[Boost]](https://dev.to/grayside/-9kb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
