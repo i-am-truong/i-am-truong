@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Makefiles — add a make help command](https://dev.to/antonds/makefiles-add-a-make-help-command-1o7l)
-- [How can I improve my side hustle?](https://dev.to/dev_man/how-can-you-improve-your-side-hustle-1d5l)
-- [6 Different Data Formats Commonly Used in Data Analytics](https://dev.to/cibin_s_/6-different-data-formats-commonly-used-in-data-analytics-3h97)
-- [Render Graph, a simple implementation](https://dev.to/dmaters/render-graph-a-simple-implementation-4ocf)
-- [Currículos de Pesquisa dos Professores de Informática - IFRN Nova Cruz](https://dev.to/rafaelmoraespereira/curriculos-de-pesquisa-dos-professores-de-informatica-ifrn-nova-cruz-5461)
+- [🏰 CloudFormation Explained as a Story — The Blueprint of CloudVille](https://dev.to/shweta_aee818203e9dffed84/cloudformation-explained-as-a-story-the-blueprint-of-cloudville-29m8)
+- [Transform LLM Apps into Profit: Monetizing AI Conversations with Monetzly](https://dev.to/monetzly/transform-llm-apps-into-profit-monetizing-ai-conversations-with-monetzly-179l)
+- [A Book Review of A Philosophy of Software Design-how to create software that is easy to maintain](https://dev.to/hectorw_tt/a-book-review-of-a-philosophy-of-software-design-how-to-create-software-that-is-easy-to-maintain-d7n)
+- [🚀 Introducing Laravel Chatbot – A simple &amp; powerful chatbot for your Laravel apps!](https://dev.to/emmanuel_saleem_46200ad37/introducing-laravel-chatbot-a-simple-powerful-chatbot-for-your-laravel-apps-2kdl)
+- [From Taskmaster to Thought Partner: My Evolution as an Agentic AI Developer](https://dev.to/boobal_writes/from-taskmaster-to-thought-partner-my-evolution-as-an-agentic-ai-developer-34k7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
