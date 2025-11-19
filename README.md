@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Creating a shared configuration module in Terraform](https://dev.to/denis_cooper_2e25f94af904/creating-a-shared-configuration-module-in-terraform-d5f)
-- [How to create storage account and managed identity in Azure.](https://dev.to/freddie_barron_0a192c3278/how-to-create-storage-account-and-managed-identity-in-azure-1glc)
-- [Java 17 Features Every Senior Developer Should Know - Part 6: Complete Reference Guide &amp; Syntax Cheat Sheet](https://dev.to/9mac-dev/java-17-features-every-senior-developer-should-know-part-6-complete-reference-guide-syntax-gfp)
-- [Why I Built dd-tinylog: A Lightweight Logging Library Made for Speed and Simplicity](https://dev.to/devdami/why-i-built-dd-tinylog-a-lightweight-logging-library-built-for-speed-and-simplicity-329h)
-- [The Thing I Didn’t Know I Needed Until It Helped Me](https://dev.to/iancoltonstories/the-thing-i-didnt-know-i-needed-until-it-helped-me-2mdo)
+- [The Hidden Divide in Developer Culture](https://dev.to/cheetah100/the-hidden-divide-in-developer-culture-j6l)
+- [Why Computer Vision Isn’t the Best Choice for Control Systems](https://dev.to/gold_roger/why-computer-vision-isnt-the-best-choice-for-control-systems-33da)
+- [Building a Dice Battle Simulator: When Board Games Meet Monte Carlo](https://dev.to/euneua/building-a-dice-battle-simulator-when-board-games-meet-monte-carlo-56bl)
+- [Alchemy Reimagined: AI-Powered Atom Creation for Novel Materials](https://dev.to/arvind_sundararajan/alchemy-reimagined-ai-powered-atom-creation-for-novel-materials-28ji)
+- [A Developer’s Guide to Getting Started With Cursor](https://dev.to/thecoollearner/a-developers-guide-to-getting-started-with-cursor-op6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
