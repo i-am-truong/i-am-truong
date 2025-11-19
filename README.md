@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Bootstrapping Local AI with Ollama &amp; Python in 10](https://dev.to/mabualzait/bootstrapping-local-ai-with-ollama-python-in-10-l4e)
-- [Vendor Tools &amp; Reliability — Lessons from the 2025 Cloud Outages](https://dev.to/sabitha_m_89de13e6a9dedb6/vendor-tools-reliability-lessons-from-the-2025-cloud-outages-215o)
-- [10x Productivity in Practice? A Real-World Experience Using Kiro to Refactor and Revive Legacy Code](https://dev.to/rexreus/10x-productivity-in-practice-a-real-world-experience-using-kiro-to-refactor-and-revive-legacy-code-292k)
-- [The Email List You Build When You Stop Annoying People](https://dev.to/synergistdigitalmedia/the-email-list-you-build-when-you-stop-annoying-people-24n7)
-- [NightShift MD - A Streamlined After-Hours Medical Triage System Built with Kiro](https://dev.to/jaini_shah_91196910b187eb/nightshift-md-a-streamlined-after-hours-medical-triage-system-built-with-kiro-5l3)
+- [I built a product &quot;BS Detector&quot; using Gemini 2.0 Flash and AI Studio 🕵️‍♂️](https://dev.to/googleai/i-built-a-product-bs-detector-using-gemini-20-flash-and-ai-studio-69j)
+- [AI Agent Showdown: The Five Architectures Actually Driving Wins in 2025](https://dev.to/aiwithapex/ai-agent-showdown-the-five-architectures-actually-driving-wins-in-2025-d80)
+- [kk — A tiny CLI that makes kubectl faster and less painful](https://dev.to/heart/kk-a-tiny-cli-that-makes-kubectl-faster-and-less-painful-22nb)
+- [Route Controller Action View](https://dev.to/mrowe178566/route-controller-action-view-1493)
+- [Accountability Counts](https://dev.to/bid_solution/accountability-counts-385l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
