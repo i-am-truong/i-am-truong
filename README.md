@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The REAL Difference Between React Context &amp; Global State Managers &lpar;Redux / Zustand&rpar; — And Why Most Developers Explain It Wrong](https://dev.to/khaledmsalem/the-real-difference-between-react-context-global-state-managers-redux-zustand-and-why-most-2dlc)
+- [Conhecendo as novidades do Angular 21](https://dev.to/brunoredes/conhecendo-as-novidades-do-angular-21-l29)
 - [Building a Risk Battle Simulator: When Board Games Meet Monte Carlo](https://dev.to/euneua/building-a-risk-battle-simulator-when-board-games-meet-monte-carlo-59o6)
-- [Hotel Search System Design](https://dev.to/sumedhbala/hotel-search-system-design-5ea4)
-- [Better integrate your AppImage with .desktop file](https://dev.to/dawhistler/better-integrate-your-appimage-with-desktop-file-41o0)
-- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-19m)
-- [**Llamado ético y convincente a los sujetos obligados para l](https://dev.to/drcarlosruizviquez/llamado-etico-y-convincente-a-los-sujetos-obligados-para-l-5745)
+- [How to Turn Any Mascot Illustration Into a Fully Interactive Rive Animation](https://dev.to/uianimation/how-to-turn-any-mascot-illustration-into-a-fully-interactive-rive-animation-43if)
+- [Hotel Booking: Schema Design Comparison](https://dev.to/sumedhbala/hotel-booking-schema-design-comparison-g3h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
