@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding SOLID Principles — The Foundation of Better Software Design](https://dev.to/roydevashish/understanding-solid-principles-the-foundation-of-better-software-design-456k)
+- [AzureAD 3.7: Dynamic credentials with Flexible Federated Identity](https://dev.to/danquack/azuread-37-dynamic-credentials-with-flexible-federated-identity-4ji9)
+- [🍹 Introducing Happy Hour API — A Simple Way to Add Local Drink Deals to Your App](https://dev.to/nick_calhoun_0046fedbaeac/introducing-happy-hour-api-a-simple-way-to-add-local-drink-deals-to-your-app-289l)
 - [Gemini 3 Developer Guide](https://dev.to/googleai/gemini-3-developer-guide-3j2k)
 - [My AI Bot Argues With My Swagger Schema &lpar;And Why That&#39;s Good&rpar;](https://dev.to/aragossa/my-ai-bot-argues-with-my-swagger-schema-and-why-thats-good-1efl)
-- [Database handling using Python Alembic and SQL Alchemy](https://dev.to/shreshthajit_das_1a7b40f5/database-handling-using-python-alembic-and-sql-alchemy-3a12)
-- [Introducing Google Antigravity, a New Era in AI-Assisted Software Development](https://dev.to/googleai/introducing-google-antigravity-a-new-era-in-ai-assisted-software-development-275d)
-- [I Built a Production-Ready Next.js Boilerplate &lpar;So You Don&#39;t Have To&rpar;](https://dev.to/salmanshahriar/i-built-a-production-ready-nextjs-boilerplate-so-you-dont-have-to-17d3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
