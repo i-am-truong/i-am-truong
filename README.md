@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Understanding the Critical Render Path in React &amp; Vue &lpar;CSR&rpar; — And How It Differs from SSG &amp; SSR](https://dev.to/vishwark/understanding-the-critical-render-path-in-react-vue-csr-and-how-it-differs-from-ssg-ssr-46la)
 - [STM32V8: A New Era of High-Performance MCUs Built on 18nm and Cortex-M85](https://dev.to/kevinzhang109/stm32v8-a-new-era-of-high-performance-mcus-built-on-18nm-and-cortex-m85-15bm)
+- [Day 39: Python Word Counter, Count Words in Text with Whitespace Handling](https://dev.to/shahrouzlogs/day-39-python-word-counter-count-words-in-text-with-whitespace-handling-5h7k)
 - [Bash cheat sheet](https://dev.to/dyogesh/bash-cheat-sheet-1il1)
-- [KubeEdge and Edge Computing](https://dev.to/godofgeeks/kubeedge-and-edge-computing-1iem)
-- [React Component life cycle](https://dev.to/ark7/react-component-life-cycle-1448)
-- [How do I reduce hallucinations when pulling mixed data sources in an LLM-based chatbot?](https://dev.to/whitmanmark/how-do-i-reduce-hallucinations-when-pulling-mixed-data-sources-in-an-llm-based-chatbot-54ii)
+- [Electrosurgery Electronics: RF Wands of the Medical Wizarding World ⚡](https://dev.to/ersajay/electrosurgery-electronics-rf-wands-of-the-medical-wizarding-world-44gg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
