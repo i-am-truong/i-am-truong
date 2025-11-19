@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [React Concepts Explained: Part 1 - Core Fundamentals](https://dev.to/dehemi_fabio/react-concepts-explained-part-1-core-fundamentals-52kd)
-- [mobile app](https://dev.to/preetha_vaishnavi_2b82358/mobile-app-nac)
-- [Setup Gstreamer with Python on Windows](https://dev.to/liberifatali/setup-gstreamer-with-python-on-windows-59n3)
-- [Cloudflare Outage Explained: How One Company Took Down Huge Parts of the Internet — Including X](https://dev.to/dheeraj_jain/cloudflare-outage-explained-how-one-company-took-down-huge-parts-of-the-internet-including-x-44ci)
-- [🧱 SSR vs SSG vs ISR: Choosing the Right Rendering Strategy in 2025](https://dev.to/mridudixit15/ssr-vs-ssg-vs-isr-choosing-the-right-rendering-strategy-in-2025-44e0)
+- [Bootstrapping Local AI with Ollama &amp; Python in 10](https://dev.to/mabualzait/bootstrapping-local-ai-with-ollama-python-in-10-l4e)
+- [Vendor Tools &amp; Reliability — Lessons from the 2025 Cloud Outages](https://dev.to/sabitha_m_89de13e6a9dedb6/vendor-tools-reliability-lessons-from-the-2025-cloud-outages-215o)
+- [10x Productivity in Practice? A Real-World Experience Using Kiro to Refactor and Revive Legacy Code](https://dev.to/rexreus/10x-productivity-in-practice-a-real-world-experience-using-kiro-to-refactor-and-revive-legacy-code-292k)
+- [The Email List You Build When You Stop Annoying People](https://dev.to/synergistdigitalmedia/the-email-list-you-build-when-you-stop-annoying-people-24n7)
+- [NightShift MD - A Streamlined After-Hours Medical Triage System Built with Kiro](https://dev.to/jaini_shah_91196910b187eb/nightshift-md-a-streamlined-after-hours-medical-triage-system-built-with-kiro-5l3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
