@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Designed a Modular, Event-Driven Architecture for Real-Time Voice AI](https://dev.to/ayoolasolomon/how-i-designed-a-modular-event-driven-architecture-for-real-time-voice-ai-3d6g)
 - [File 00: Introduction to Cognitive Biases](https://dev.to/cnastasi/file-00-introduction-to-cognitive-biases-3e8l)
 - [Your Landing Page Is Probably Over-Engineered](https://dev.to/cucoleadan/your-landing-page-is-probably-over-engineered-1nd)
 - [Azure Kubernetes Service &lpar;AKS&rpar; Network Policies: A Comprehensive Guide](https://dev.to/mikaelkrief2/azure-kubernetes-service-aks-network-policies-a-comprehensive-guide-484h)
 - [Google Antigravity: The Agent-First IDE That Changes Everything](https://dev.to/manuth_lochana/google-antigravity-the-agent-first-ide-that-changes-everything-36j1)
-- [What is HFT &lpar;High Frequency Trading&rpar; and how can we implement it in Rust.](https://dev.to/mayu2008/what-is-hft-high-frequency-trading-and-how-can-we-implement-it-in-rust-10jc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
