@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [One Year of Building My Untitled Horror Inspired OS Game](https://dev.to/stg/one-year-of-building-my-untitled-horror-inspired-os-game-2gh6)
+- [File Upload UI for Non-Technical Users](https://dev.to/ideradevtools/file-upload-ui-for-non-technical-users-439i)
 - [10+ Trending Animated UI Component Libraries 🔥 &lpar;2025 Edition&rpar;](https://dev.to/jay_sarvaiya_reactjs/10-trending-animated-ui-component-libraries-2025-edition-1af4)
 - [I built a product &quot;BS Detector&quot; using Gemini 2.0 Flash and AI Studio 🕵️‍♂️](https://dev.to/googleai/i-built-a-product-bs-detector-using-gemini-20-flash-and-ai-studio-69j)
 - [AI Agent Showdown: The Five Architectures Actually Driving Wins in 2025](https://dev.to/aiwithapex/ai-agent-showdown-the-five-architectures-actually-driving-wins-in-2025-d80)
-- [kk — A tiny CLI that makes kubectl faster and less painful](https://dev.to/heart/kk-a-tiny-cli-that-makes-kubectl-faster-and-less-painful-22nb)
-- [Route Controller Action View](https://dev.to/mrowe178566/route-controller-action-view-1493)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
