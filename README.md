@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Nuked All My node_modules and Saved ~10GB](https://dev.to/vukan322/i-nuked-all-my-nodemodules-and-saved-10gb-1m4k)
-- [The IPv4 Decision Matrix: A Framework for Infrastructure Teams](https://dev.to/kohanevich/the-ipv4-decision-matrix-a-framework-for-infrastructure-teams-27e7)
-- [Understanding CI/CD: The Backbone of Modern Software Development](https://dev.to/neeraj1005/understanding-cicd-the-backbone-of-modern-software-development-2m3)
-- [How AI Discovers Your MCP Tools?](https://dev.to/ndabene/how-ai-discovers-your-mcp-tools-4n9o)
-- [Gemini 3 Pro vs GPT 5.1: which is better? A Complete Comparison](https://dev.to/anna001/gemini-3-pro-vs-gpt-51-which-is-better-a-complete-comparison-2l01)
+- [The Smart Founder’s Guide to SaaS MVP Development: Build Lean, Validate Fast](https://dev.to/vicky_ijade_c2e62a312e988/the-smart-founders-guide-to-saas-mvp-development-build-lean-validate-fast-47fe)
+- [Migrating an ERP-Driven Storefront Using a Message-Broker Architecture &lpar;RabbitMQ&rpar;](https://dev.to/kasiaupside/migrating-an-erp-driven-storefront-using-a-message-broker-architecture-rabbitmq-4oa8)
+- [The future of ViBE coding: 5 years ahead](https://dev.to/polyapolza108/the-future-of-vibe-coding-5-years-ahead-1la7)
+- [Value Object in PHP 8: Build your own type system](https://dev.to/cnastasi/value-object-in-php-8-build-your-own-type-system-5970)
+- [When the Internet Held Its Breath: The Day Cloudflare Took Down 20% of the Web](https://dev.to/shiva_shanker_k/when-the-internet-held-its-breath-the-day-cloudflare-took-down-20-of-the-web-3gf8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
