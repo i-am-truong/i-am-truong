@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Embedded Swift Gets Major Upgrades in Swift 6.3](https://dev.to/arshtechpro/embedded-swift-gets-major-upgrades-in-swift-63-190m)
-- [Quick Update on EcoFurball: New Guide Published + Behind the Scenes](https://dev.to/ecofurball/quick-update-on-ecofurball-new-guide-published-behind-the-scenes-50ke)
-- [The Hidden Failure Pattern Behind the AWS, Azure and Cloudflare Outages of 2025](https://dev.to/codedetech/the-hidden-failure-pattern-behind-the-aws-azure-and-cloudflare-outages-of-2025-462n)
-- [Cloudflare went down yesterday. My monitoring lied. So I built this.](https://dev.to/yibnum_e28bd788205e815a92/cloudflare-went-down-yesterday-my-monitoring-lied-so-i-built-this-520o)
-- [Despliegue de una aplicación en AWS usando ECS + ECR](https://dev.to/robertdev/despliegue-de-una-aplicacion-en-aws-usando-ecs-ecr-j9p)
+- [Testing LLM Prompts in Production Pipelines: A Practical Approach](https://dev.to/stuartp/testing-llm-prompts-in-production-pipelines-a-practical-approach-349b)
+- [The pain of Windows development](https://dev.to/simeon_norris_49460d1e9de/the-pain-of-windows-development-1d2m)
+- [What Is ChatGPT Group Chat? A 2025 Guide to AI Collaboration](https://dev.to/emilyfoster/what-is-chatgpt-group-chat-a-2025-guide-to-ai-collaboration-3176)
+- [Nuxt Tutorial 5 - Middleware](https://dev.to/aloisseckar/nuxt-tutorial-5-middleware-3e5a)
+- [What Is Learn-to-Steer? NVIDIA’s 2025 Spatial Fix for Text-to-Image Diffusion](https://dev.to/davidevans/what-is-learn-to-steer-nvidias-2025-spatial-fix-for-text-to-image-diffusion-4eoe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
