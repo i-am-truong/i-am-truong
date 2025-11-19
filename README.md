@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The REAL Difference Between React Context &amp; Global State Managers &lpar;Redux / Zustand&rpar; — And Why Most Developers Explain It Wrong](https://dev.to/khaledmsalem/the-real-difference-between-react-context-global-state-managers-redux-zustand-and-why-most-2dlc)
-- [Conhecendo as novidades do Angular 21](https://dev.to/brunoredes/conhecendo-as-novidades-do-angular-21-l29)
-- [Building a Risk Battle Simulator: When Board Games Meet Monte Carlo](https://dev.to/euneua/building-a-risk-battle-simulator-when-board-games-meet-monte-carlo-59o6)
-- [How to Turn Any Mascot Illustration Into a Fully Interactive Rive Animation](https://dev.to/uianimation/how-to-turn-any-mascot-illustration-into-a-fully-interactive-rive-animation-43if)
-- [Hotel Booking: Schema Design Comparison](https://dev.to/sumedhbala/hotel-booking-schema-design-comparison-g3h)
+- [Creating a shared configuration module in Terraform](https://dev.to/denis_cooper_2e25f94af904/creating-a-shared-configuration-module-in-terraform-d5f)
+- [How to create storage account and managed identity in Azure.](https://dev.to/freddie_barron_0a192c3278/how-to-create-storage-account-and-managed-identity-in-azure-1glc)
+- [Java 17 Features Every Senior Developer Should Know - Part 6: Complete Reference Guide &amp; Syntax Cheat Sheet](https://dev.to/9mac-dev/java-17-features-every-senior-developer-should-know-part-6-complete-reference-guide-syntax-gfp)
+- [Why I Built dd-tinylog: A Lightweight Logging Library Made for Speed and Simplicity](https://dev.to/devdami/why-i-built-dd-tinylog-a-lightweight-logging-library-built-for-speed-and-simplicity-329h)
+- [The Thing I Didn’t Know I Needed Until It Helped Me](https://dev.to/iancoltonstories/the-thing-i-didnt-know-i-needed-until-it-helped-me-2mdo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
