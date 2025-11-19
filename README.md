@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [84.35% on CIFAR-100 with ResNet-50](https://dev.to/amirali_soltanirad/8435-on-cifar-100-with-resnet-50-4j4b)
-- [From-Basics-to-Deployment Day 2](https://dev.to/ian_b838138a27a917398d181/from-basics-to-deployment-day-2-4768)
-- [How to run GitHub Actions locally](https://dev.to/frontenddeveli/how-to-run-github-actions-locally-28nh)
-- [2154. Keep Multiplying Found Values by Two](https://dev.to/mdarifulhaque/2154-keep-multiplying-found-values-by-two-3ffg)
-- [How to listen for USDT &lpar;TRC20&rpar; payments in Node.js without running a full node](https://dev.to/changhai/how-to-listen-for-usdt-trc20-payments-in-nodejs-without-running-a-full-node-4g36)
+- [How To Convert Figma Design To React + MUI Code In Minutes](https://dev.to/the_greatbonnie/how-to-convert-figma-design-to-react-mui-code-in-minutes-l9l)
+- [Versioning Your Database with SQLAlchemy and Alembic: From Models to Safe Migrations](https://dev.to/jcasman/versioning-your-database-with-sqlalchemy-and-alembic-from-models-to-safe-migrations-3i1c)
+- [Becoming a Developer](https://dev.to/amindu_saputhanthri_2ea9b/becoming-a-developer-1lm7)
+- [8-Bit Music Theory: Kirby Air Riders&#39; Music is FUN FUN FUN](https://dev.to/music_youtube/8-bit-music-theory-kirby-air-riders-music-is-fun-fun-fun-51mo)
+- [Untitled](https://dev.to/doos_rent_15bb85da3eb5e37/untitled-pg9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
