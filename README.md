@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [¿Usas varias nubes? Sin un IAM sólido, ya estás en riesgo](https://dev.to/chainiz/usas-varias-nubes-sin-un-iam-solido-ya-estas-en-riesgo-1eh9)
-- [Project idea – “Real-Time Orders Platform”](https://dev.to/jumptotech/project-idea-real-time-orders-platform-305d)
-- [Inside Node.js: A Deep Dive into V8, libuv, the Event Loop &amp; Thread Pool](https://dev.to/rohith_nag/inside-nodejs-a-deep-dive-into-v8-libuv-the-event-loop-thread-pool-5fcn)
-- [Simply Order &lpar;Part 7&rpar; – Querying Orders with Details: API Composition Pattern](https://dev.to/hassan314159/simply-order-part-7-querying-orders-with-details-api-composition-pattern-20)
-- [🚀 ElasticSecOpsCoPilot — Autonomous IOC Enrichment for Elastic Security](https://dev.to/secbyshresth/elasticsecopscopilot-autonomous-ioc-enrichment-for-elastic-security-40m3)
+- [Cloudflare went down yesterday. My monitoring lied. So I built this.](https://dev.to/yibnum_e28bd788205e815a92/cloudflare-went-down-yesterday-my-monitoring-lied-so-i-built-this-520o)
+- [Despliegue de una aplicación en AWS usando ECS + ECR](https://dev.to/robertdev/despliegue-de-una-aplicacion-en-aws-usando-ecs-ecr-j9p)
+- [Brazilian - Python Lib](https://dev.to/mauricio_reisdoefer_159bf/brazilian-python-lib-29gf)
+- [System Design Interview Tip No One Talks About](https://dev.to/ayuschjain/system-design-interview-tip-no-one-talks-about-2o43)
+- [Installing DaisyUI in Rails without Node.js](https://dev.to/mrispoli24/installing-daisyui-in-rails-without-nodejs-1eo0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
