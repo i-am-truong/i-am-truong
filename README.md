@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Embedding AI Inside PostgreSQL : Building a Native C++ Extension.](https://dev.to/abiji-2020/embedding-ai-inside-postgresql-building-a-native-c-extension-5b8b)
-- [🔥 Account Abstraction &lpar;ERC-4337&rpar;](https://dev.to/omniradhanexus/account-abstraction-erc-4337-55f6)
-- [What is Anti-Harassment and Anti-Discrimination Policy](https://dev.to/writegenic/what-is-anti-harassment-and-anti-discrimination-policy-4o04)
-- [CSS has become too POWERFUL](https://dev.to/andreas_mller_ecc8e88f6f/css-has-become-too-powerful-34ke)
-- [Installing Google Antigravity on Arch &lpar;And Fixing That Annoying Login Loop&rpar;](https://dev.to/pyonarch/installing-google-antigravity-on-arch-and-fixing-that-annoying-login-loop-4ji3)
+- [Day F3: The Day I Accidentally Acted Human](https://dev.to/casperday11/day-f3-the-day-i-accidentally-acted-human-48m2)
+- [NPR Music: Goo Goo Dolls: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-goo-goo-dolls-tiny-desk-concert-31d1)
+- [Depth vs Noise - The Line That Separates Order From Chaos in the AI Era](https://dev.to/miller-28/depth-vs-noise-the-line-that-separates-order-from-chaos-in-the-ai-era-3pkh)
+- [Building a feature-rich datagrid with Deno &amp; Preact - First Impressions](https://dev.to/nesterow/building-a-feature-rich-datagrid-with-deno-preact-first-impressions-4cnn)
+- [Sales Pitches That Convert: The AI Template Top Performers Won&#39;t Share](https://dev.to/huizhudev/sales-pitches-that-convert-the-ai-template-top-performers-wont-share-4ad9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
