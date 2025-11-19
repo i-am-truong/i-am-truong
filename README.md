@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [It’s Time to End the Era of Signature-Based Malware Detection](https://dev.to/semantics-av/its-time-to-end-the-era-of-signature-based-malware-detection-4no9)
+- [Hello World!](https://dev.to/mc_e628b010/hello-world-4476)
 - [Day F3: The Day I Accidentally Acted Human](https://dev.to/casperday11/day-f3-the-day-i-accidentally-acted-human-48m2)
 - [NPR Music: Goo Goo Dolls: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-goo-goo-dolls-tiny-desk-concert-31d1)
 - [Depth vs Noise - The Line That Separates Order From Chaos in the AI Era](https://dev.to/miller-28/depth-vs-noise-the-line-that-separates-order-from-chaos-in-the-ai-era-3pkh)
-- [Building a feature-rich datagrid with Deno &amp; Preact - First Impressions](https://dev.to/nesterow/building-a-feature-rich-datagrid-with-deno-preact-first-impressions-4cnn)
-- [Sales Pitches That Convert: The AI Template Top Performers Won&#39;t Share](https://dev.to/huizhudev/sales-pitches-that-convert-the-ai-template-top-performers-wont-share-4ad9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
