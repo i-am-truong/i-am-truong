@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Blink Diagnostics: Decoding Health One Flutter at a Time](https://dev.to/arvind_sundararajan/blink-diagnostics-decoding-health-one-flutter-at-a-time-kk2)
-- [stopPropagation&lpar;&rpar;、catch &lpar;_&rpar;、定位属性、chrome.runtime.getURL、requestAnimationFrame&lpar;&rpar;](https://dev.to/nikimunger/stoppropagation-catch-ding-wei-shu-xing-chromeruntimegeturl-requestanimationframe-16e3)
-- [2025 Fuel Stabilization Secrets for Yacht Owners](https://dev.to/_13729875947fc3c7bcf723/2025-fuel-stabilization-secrets-for-yacht-owners-48jj)
-- [C#: Add Page Numbers to a PDF Document](https://dev.to/yahey/c-add-page-numbers-to-a-pdf-document-5edc)
-- [浮动动画](https://dev.to/nikimunger/fu-dong-dong-hua-apc)
+- [AI for Developers: Work Smarter, Not Harder](https://dev.to/mashraf_aiman_b9a968e5c1d/ai-for-developers-work-smarter-not-harder-6n7)
+- [The Reality of Learning to Code — THE UNTOLD TRUTH](https://dev.to/mashraf_aiman_b9a968e5c1d/the-reality-of-learning-to-code-the-untold-truth-2m0d)
+- [Portfolio Project: Python Terminal Game](https://dev.to/rlclwy/portfolio-project-python-terminal-game-4d75)
+- [Beyond Deadwoodworks: How Claude Code Skills Super-charge MCP Servers and Everyday Workflows](https://dev.to/fourixai/beyond-deadwoodworks-how-claude-code-skills-super-charge-mcp-servers-and-everyday-workflows-69)
+- [My First .NET Core Web API Project: Documenting the Rookie Mistakes and Wins on the Way to a Job.](https://dev.to/jervie_gono/my-first-net-core-web-api-project-documenting-the-rookie-mistakes-and-wins-on-the-way-to-a-job-23ci)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
