@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Python by Structure: Decorator Chains and Execution Order](https://dev.to/aaron_rose_0787cc8b4775a0/python-by-structure-decorator-chains-and-execution-order-13p0)
-- [Help with Story Points Estimation](https://dev.to/eduluz1976/help-with-story-points-estimation-1k4a)
-- [Transforming Real-World Operations with Computer Vision Services: A Deep Dive by Oodles](https://dev.to/oodlesplatform/transforming-real-world-operations-with-computer-vision-services-a-deep-dive-by-oodles-4lid)
-- [openwrt: error while loading shared libraries: libgcc_s.so.1: wrong ELF class: ELFCLASS32](https://dev.to/ahaoboy/openwrt-error-while-loading-shared-libraries-libgccsso1-wrong-elf-class-elfclass32-4pnl)
-- [Hashicorp Vault: Secret Management Engines](https://dev.to/admantium/hashicorp-vault-secret-management-engines-48nb)
+- [Your Mac is a Beast for Java Dev. Here&#39;s the Software to Prove It.](https://dev.to/platypus98/your-mac-is-a-beast-for-java-dev-heres-the-software-to-prove-it-3l29)
+- [🚀 Web Performance Essentials: Practical Techniques Every Frontend Developer Should Use](https://dev.to/vishwark/web-performance-essentials-practical-techniques-every-frontend-developer-should-use-cfh)
+- [How to Choose the Right UI UX Design Agency](https://dev.to/taqwah/how-to-choose-the-right-ui-ux-design-agency-53gk)
+- [JsonTree for Mantine UI: A Delightfully Simple Way to Inspect Any Data Structure](https://dev.to/undolog/jsontree-for-mantine-ui-a-delightfully-simple-way-to-inspect-any-data-structure-25ne)
+- [Angular PDF Libraries: Free &amp; Paid Tools &lpar;In-Depth Developer Guide&rpar;](https://dev.to/mohammedibrahimlj/angular-pdf-libraries-free-paid-tools-in-depth-developer-guide-59fl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
