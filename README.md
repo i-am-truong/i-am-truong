@@ -120,13 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What It Feels Like to Start Tech at 33 and Get Ignored](https://dev.to/bradleymatera/what-it-feels-like-to-start-tech-at-33-and-get-ignored-3b07)
-- [🌍 We are 14-year-old students from Valleyspur International School, Uganda, and we built a complete SDG website from scratch 😳🔥
-
-Our website teaches what to do during war, shows safe locations on a live map, includes emergency call buttons, videos, voic](https://dev.to/mikekeith/we-are-14-year-old-students-from-valleyspur-international-school-uganda-and-we-built-a-complete-fod)
-- [Why JWTs Make Terrible Authorization Tokens](https://dev.to/stevenstuartm/why-jwts-make-terrible-authorization-tokens-3c8g)
-- [Text Based 1-on-1s are Effective](https://dev.to/stakiran/text-based-1-on-1s-are-effective-328d)
-- [The Architect’s Mindset: Structuring Data for Robust AI Pipelines](https://dev.to/onlineproxy/the-architects-mindset-structuring-data-for-robust-ai-pipelines-3lbn)
+- [Building a Monte Carlo Risk Engine in PyTorch: Pricing, xVA, Exposure Simulation &amp; Wrong-Way Risk](https://dev.to/konstantin_e_ca6078bb6a2/building-a-monte-carlo-risk-engine-in-pytorch-pricing-xva-exposure-simulation-wrong-way-risk-24e5)
+- [🤯 Dudas, vueltas y un café frío](https://dev.to/laumontironi/dudas-vueltas-y-un-cafe-frio-32jk)
+- [Trysil - API REST made simple](https://dev.to/davidlastrucci/trysil-api-rest-made-simple-40j1)
+- [Nigeria&#39;s Tax Reform 2025: What It Means for You &lpar;And Why TaxEngine Changes Everything&rpar;](https://dev.to/iamcymentho/nigerias-tax-reform-2025-what-it-means-for-you-and-why-taxengine-changes-everything-fll)
+- [🌱La maternidad, la pausa laboral… y un clic](https://dev.to/laumontironi/la-maternidad-la-pausa-laboral-y-un-clic-476p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
