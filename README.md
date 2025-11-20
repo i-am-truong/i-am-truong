@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Generate MCP Tool Schemas Directly From Java Code](https://dev.to/sualeh/generate-mcp-tool-schemas-directly-from-java-code-3bif)
-- [Implementing BitDT: A Step-by-Step Guide to Date-Time Lossless Compression](https://dev.to/danexcodr/implementing-bitdt-a-step-by-step-guide-to-date-time-compression-30h7)
-- [Leveraging CPC and IPC Codes to Improve Searches: Using Classification in Patent Search](https://dev.to/patentscanai/leveraging-cpc-and-ipc-codes-to-improve-searches-using-classification-in-patent-search-5e2h)
-- [Number Time: A Proposal for Rational Temporal Measurement](https://dev.to/alex_gul_b37c77dc51977744/number-time-a-proposal-for-rational-temporal-measurement-423i)
-- [Strategy Pattern](https://dev.to/c4rlosc7/strategy-pattern-3143)
+- [Why Modern DevOps Engineers Ignore CPU, Memory &amp; Networking — And Why It’s a Big Mistake](https://dev.to/srinivasamcjf/why-modern-devops-engineers-ignore-cpu-memory-networking-and-why-its-a-big-mistake-5ac8)
+- [Create a Text Editor in Go - Search](https://dev.to/alcb1310/create-a-text-editor-in-go-search-13l7)
+- [How I Built a Chase Bank PDF Parser with 99% Accuracy](https://dev.to/baurzhan_zhetenov_442c4cd/how-i-built-a-chase-bank-pdf-parser-with-99-accuracy-4j6c)
+- [Understanding Backend Routing Like a Pro](https://dev.to/yuktisays/understanding-backend-routing-like-a-pro-9id)
+- [The Difference Between Unrestricted and Restricted Integer Partitions](https://dev.to/ganesh-kumar/the-difference-between-unrestricted-and-restricted-integer-partitions-548o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
