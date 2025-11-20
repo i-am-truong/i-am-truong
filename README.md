@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Notion vs Obsidian: Which One Fits Your Workflow?](https://dev.to/risekucom/notion-vs-obsidian-which-one-fits-your-workflow-41fd)
+- [No More Firefighting: Your n8n Workflow Blueprint](https://dev.to/kareemblessed/no-more-firefighting-your-n8n-workflow-blueprint-3pnc)
 - [Ubiquiti UniFi U6-LR Wi-Fi 6 დაშვების წერტილი მაღალი გამტარობით და გაფართოებული დაფარვით - Review](https://dev.to/innocomltd/ubiquiti-unifi-u6-lr-wi-fi-6-dashvebis-certili-magali-gamtarobit-da-gapartoebuli-daparvit-review-mcb)
 - [Best Chrome Extensions for Productivity in 2025: Save Time and Stay Focused](https://dev.to/chirag127/best-chrome-extensions-for-productivity-in-2025-save-time-and-stay-focused-3jhb)
-- [Amazon Q Custom Agents: The Complete Guide](https://dev.to/sarvar_04/amazon-q-custom-agents-the-complete-guide-1oho)
-- [Understanding All Ways to Reference the Django User Model](https://dev.to/guzmanojero/understanding-all-ways-to-reference-the-django-user-model-3ffg)
-- [Mikrotik CSS106-1G-4P-1S - მართვადი PoE სვიჩი 5 პორტით - Review and Guide](https://dev.to/innocomltd/mikrotik-css106-1g-4p-1s-martvadi-poe-svichi-5-portit-review-and-guide-56k7)
+- [Zero Balance Bank Accounts in India 2025: Complete Guide to Free Banking](https://dev.to/chirag127/zero-balance-bank-accounts-in-india-2025-complete-guide-to-free-banking-3ddm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
