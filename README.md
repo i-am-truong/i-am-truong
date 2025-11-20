@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mastering CSS Specificity, Inheritance, and the Cascade](https://dev.to/sharique_siddiqui_8242dad/mastering-css-specificity-inheritance-and-the-cascade-1nc7)
-- [🚨 Stop Wasting Money: Your PostgreSQL Data Types Are Killing Performance](https://dev.to/igornosatov_15/stop-wasting-money-your-postgresql-data-types-are-killing-performance-3cc6)
-- [A Technical Overview of Tuya Smart Mini-Apps &lpar;Panel vs. Smart Mini-App&rpar;](https://dev.to/zediot/a-technical-overview-of-tuya-smart-mini-apps-panel-vs-smart-mini-app-4agb)
-- [There&#39;s a Limit to Chat Tools — Enter QWINCS!](https://dev.to/stakiran/theres-a-limit-to-chat-tools-enter-qwincs-3cgb)
-- [Your Mac is a Beast for Java Dev. Here&#39;s the Software to Prove It.](https://dev.to/platypus98/your-mac-is-a-beast-for-java-dev-heres-the-software-to-prove-it-3l29)
+- [TUTORIAL: Implementasi Email Aman &amp; Anti-Blokir &lpar;Zero Bounce Policy&rpar;](https://dev.to/driannaird/tutorial-implementasi-email-aman-anti-blokir-zero-bounce-policy-2o0c)
+- [C/C++ code analysis that is free from build system constraints](https://dev.to/pvsdev/cc-code-analysis-that-is-free-from-build-system-constraints-4m84)
+- [SaaS AI Agent Integration - Build and Deploy in One Week](https://dev.to/mygom/saas-ai-agent-integration-build-and-deploy-in-one-week-1e0p)
+- [Is the AI Bubble About to Burst? Why Even Google Is Uncertain — and What Companies Should Do Next](https://dev.to/yaseen_tech/is-the-ai-bubble-about-to-burst-why-even-google-is-uncertain-and-what-companies-should-do-next-had)
+- [JavaFX In Action #23 with Craig Raw about the Sparrow Bitcoin Wallet](https://dev.to/fdelporte/javafx-in-action-23-with-craig-raw-about-the-sparrow-bitcoin-wallet-5f87)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
