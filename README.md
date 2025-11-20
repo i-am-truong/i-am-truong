@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🐳 Docker Deserves a Place Beside Git — Here’s Why](https://dev.to/rushier/docker-deserves-a-place-beside-git-heres-why-3444)
-- [Performance Testing Databases the Right Way: A Real-World Engineering Journey](https://dev.to/ankit_sood_66861d56d8e42a/performance-testing-databases-the-right-way-a-real-world-engineering-journey-4mfi)
-- [What Is ChatGPT Atlas?](https://dev.to/qwegle_insights/what-is-chatgpt-atlas-1hck)
-- [Gemini 3](https://dev.to/mashraf_aiman_b9a968e5c1d/gemini-3-omn)
-- [Unexpected Slow Startup Times in Azure Functions Using Consumption Plan](https://dev.to/maria_allen_df6b5a0aec264/unexpected-slow-startup-times-in-azure-functions-using-consumption-plan-35jc)
+- [What Is A Codec? Full Codec Comparison Guide [2025 Updated]](https://dev.to/red5/what-is-a-codec-full-codec-comparison-guide-2025-updated-35gl)
+- [Data Protection in Blockchain | CCPA Compliance](https://dev.to/umang_suthar_9bad6f345a8a/data-protection-in-blockchain-ccpa-compliance-2bee)
+- [How I vibe code: Improving my site design with Goose and Gemini 3](https://dev.to/debs_obrien/how-i-vibe-code-improving-my-site-design-with-goose-and-gemini-3-2a3k)
+- [5 Quick DevEx Audit Wins](https://dev.to/linkbenjamin/5-quick-devex-audit-wins-1h7l)
+- [Earn Big Through Bug Bounties: A Developer’s Guide to Ethical Hacking](https://dev.to/softwaredeveloperhub01/earn-big-through-bug-bounties-a-developers-guide-to-ethical-hacking-4ii9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
