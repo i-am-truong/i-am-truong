@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [LANGUAGE MODELS USING MLP &lpar;Part 2&rpar;](https://dev.to/blackbidz/language-models-using-mlp-part-2-g8a)
+- [Accessing the Dark Web Safely: What Researchers Should Know](https://dev.to/tor_bbb/accessing-the-dark-web-safely-what-researchers-should-know-4k1)
+- [Best AI Rank Monitoring Softwares](https://dev.to/babamanga/best-ai-rank-monitoring-softwares-49p5)
+- [The difference method shows us the elements of one set that are not found in the other](https://dev.to/onaolapo11/the-difference-method-shows-us-the-elements-of-one-set-that-are-not-found-in-the-other-1kde)
 - [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-2log)
-- [Ringer Movies: The 25 Best Movies of the Century: No. 4 - &#39;Inglourious Basterds’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-4-inglourious-basterds-55pa)
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-12hn)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-2n0c)
-- [Mr Sunday Movies: Biggest Disney Bombs: The Sorcerer&#39;s Apprentice - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-biggest-disney-bombs-the-sorcerers-apprentice-caravan-of-garbage-2pjn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
