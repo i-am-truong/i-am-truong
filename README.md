@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Python by Structure: Decorator Chains and Execution Order](https://dev.to/aaron_rose_0787cc8b4775a0/python-by-structure-decorator-chains-and-execution-order-13p0)
+- [Help with Story Points Estimation](https://dev.to/eduluz1976/help-with-story-points-estimation-1k4a)
+- [Transforming Real-World Operations with Computer Vision Services: A Deep Dive by Oodles](https://dev.to/oodlesplatform/transforming-real-world-operations-with-computer-vision-services-a-deep-dive-by-oodles-4lid)
 - [openwrt: error while loading shared libraries: libgcc_s.so.1: wrong ELF class: ELFCLASS32](https://dev.to/ahaoboy/openwrt-error-while-loading-shared-libraries-libgccsso1-wrong-elf-class-elfclass32-4pnl)
 - [Hashicorp Vault: Secret Management Engines](https://dev.to/admantium/hashicorp-vault-secret-management-engines-48nb)
-- [🚀 Type Alias in TypeScript: Why I Use Them Every Day &lpar;And How They Compare to Interfaces&rpar;](https://dev.to/mashayeakh_islam_2666f2c3/type-alias-in-typescript-why-i-use-them-every-day-and-how-they-compare-to-interfaces-399n)
-- [How I Played With Self-Correcting LLMs While Fixing My Blog](https://dev.to/peggggykang/how-i-played-with-self-correcting-llms-while-fixing-my-blog-1m9k)
-- [Why You Should Never Raise Money Before Finding Product Market Fit](https://dev.to/mapster/why-you-should-never-raise-money-before-finding-product-market-fit-884)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
