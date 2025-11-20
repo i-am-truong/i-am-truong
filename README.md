@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [gookit/goutil v0.7.2 Released: Enhanced Features &amp; Fixes for an Improved Development Experience](https://dev.to/inhere/gookitgoutil-v072-released-enhanced-features-fixes-for-an-improved-development-experience-3d06)
+- [Pace over precision – or precision over pace?](https://dev.to/abudantsov/pace-over-precision-or-precision-over-pace-5812)
 - [🚀 A Complete Guide to Rendering Agents &amp; Workflows Using Agent Framework Dev UI](https://dev.to/sayen_vv_cc7f3d9662139d60/a-complete-guide-to-rendering-agents-workflows-using-agent-framework-dev-ui-2jgl)
 - [Day 3: Type Casting - Transforming Data Types - 30 Days of Python Challenge](https://dev.to/sanaipei001/day-3-type-casting-transforming-data-types-30-days-of-python-challenge-26ip)
 - [Saving Game Data in Unity — Part 4: SQLite](https://dev.to/rahul_barate_e965377330fe/saving-game-data-in-unity-part-4-sqlite-4mdd)
-- [I got so annoyed with AI coding assistants that I built my own.](https://dev.to/vmayorskiyac/i-got-so-annoyed-with-ai-coding-assistants-that-i-built-my-own-5dfa)
-- [Python Load Json From File](https://dev.to/pineapple_26/python-load-json-from-file-14i2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
