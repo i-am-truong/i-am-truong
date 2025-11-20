@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [TUTORIAL: Implementasi Email Aman &amp; Anti-Blokir &lpar;Zero Bounce Policy&rpar;](https://dev.to/driannaird/tutorial-implementasi-email-aman-anti-blokir-zero-bounce-policy-2o0c)
-- [C/C++ code analysis that is free from build system constraints](https://dev.to/pvsdev/cc-code-analysis-that-is-free-from-build-system-constraints-4m84)
-- [SaaS AI Agent Integration - Build and Deploy in One Week](https://dev.to/mygom/saas-ai-agent-integration-build-and-deploy-in-one-week-1e0p)
-- [Is the AI Bubble About to Burst? Why Even Google Is Uncertain — and What Companies Should Do Next](https://dev.to/yaseen_tech/is-the-ai-bubble-about-to-burst-why-even-google-is-uncertain-and-what-companies-should-do-next-had)
-- [JavaFX In Action #23 with Craig Raw about the Sparrow Bitcoin Wallet](https://dev.to/fdelporte/javafx-in-action-23-with-craig-raw-about-the-sparrow-bitcoin-wallet-5f87)
+- [Going Live: How I Deployed My Water Quality ML API to the Cloud in 5 Minutes](https://dev.to/techkene/going-live-how-i-deployed-my-water-quality-ml-api-to-the-cloud-in-5-minutes-hhc)
+- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-2ge7)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 4 - &#39;Inglourious Basterds’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-4-inglourious-basterds-29ef)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-4ii9)
+- [Tutorial: Building a .NET 9 Console App with Hangfire and Channels](https://dev.to/stevsharp/tutorial-building-a-net-9-console-app-with-hangfire-and-channels-1g02)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
