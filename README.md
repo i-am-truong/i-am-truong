@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Modern Convenience of Stitched Dresses Online](https://dev.to/houseofsiyaab/the-modern-convenience-of-stitched-dresses-online-56oj)
 - [JSON Pretty Print Using Python - With Examples](https://dev.to/pineapple_26/json-pretty-print-using-python-with-examples-12ha)
 - [Assessing TOON Token Savings in an MCP Server](https://dev.to/trknhr/assessing-toon-token-savings-in-an-mcp-server-2b3i)
 - [How to host Neo4J on EC2 using Docker](https://dev.to/foundanand/how-to-host-neo4j-on-ec2-using-docker-2dem)
-- [Metabase 57: Dark mode 🌑 plus stronger governance and tighter workflows](https://dev.to/metabase/metabase-57-dark-mode-plus-stronger-governance-and-tighter-workflows-3b6n)
-- [8 Useful Coding Tools That Will Instantly Improve Your Dev Game 🔥🚀](https://dev.to/madza/8-useful-coding-tools-that-will-instantly-improve-your-dev-game-2fgo)
+- [A Simple Binary](https://dev.to/adam_weber_6dc0d5bd752326/a-simple-binary-58eg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
