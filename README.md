@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Going Live: How I Deployed My Water Quality ML API to the Cloud in 5 Minutes](https://dev.to/techkene/going-live-how-i-deployed-my-water-quality-ml-api-to-the-cloud-in-5-minutes-hhc)
-- [Building an AI Agent Traffic Management Platform: APISIX AI Gateway in Practice](https://dev.to/yilialinn/building-an-ai-agent-traffic-management-platform-apisix-ai-gateway-in-practice-4md8)
-- [The Simple Guide to Smarter Matka Planning and Daily Number Tracking](https://dev.to/knox_va_e2c78bf2dbac9077c/the-simple-guide-to-smarter-matka-planning-and-daily-number-tracking-3do)
-- [Full Final Report | Adding a gRPC Plugin to Apache DolphinScheduler](https://dev.to/chen_debra_3060b21d12b1b0/full-final-report-adding-a-grpc-plugin-to-apache-dolphinscheduler-4nca)
-- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-2ge7)
+- [How Gemini 3 Is Changing the Way Developers Build, Document, and Automate](https://dev.to/therealmrmumba/how-gemini-3-is-changing-the-way-developers-build-document-and-automate-4f8j)
+- [WTF is Distributed Deno?](https://dev.to/dailybugle33/wtf-is-distributed-deno-3469)
+- [Go in Action: Building a Production-Grade Dynamic Reverse Proxy on Top of Gin](https://dev.to/zhufuyi/go-in-action-building-a-production-grade-dynamic-reverse-proxy-on-top-of-gin-3job)
+- [Taobao API: Tutorial on retrieving product details page data via product link](https://dev.to/vx_19970108018/taobao-api-tutorial-on-retrieving-product-details-page-data-via-product-link-477m)
+- [How to make an old wash machine work with Raspberry Pi 4?](https://dev.to/carolineee/how-to-make-an-old-wash-machine-work-with-raspberry-pi-4-1ig5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
