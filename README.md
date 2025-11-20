@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Modern Convenience of Stitched Dresses Online](https://dev.to/houseofsiyaab/the-modern-convenience-of-stitched-dresses-online-56oj)
-- [JSON Pretty Print Using Python - With Examples](https://dev.to/pineapple_26/json-pretty-print-using-python-with-examples-12ha)
-- [Assessing TOON Token Savings in an MCP Server](https://dev.to/trknhr/assessing-toon-token-savings-in-an-mcp-server-2b3i)
-- [How to host Neo4J on EC2 using Docker](https://dev.to/foundanand/how-to-host-neo4j-on-ec2-using-docker-2dem)
-- [A Simple Binary](https://dev.to/adam_weber_6dc0d5bd752326/a-simple-binary-58eg)
+- [Day 2: Storing Information with Variables - 30 Days of Python Challenge](https://dev.to/sanaipei001/day-2-storing-information-with-variables-30-days-of-python-challenge-1oep)
+- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-3an2)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-1ddc)
+- [Day 1: My First Python Print Statement - 30 Days of Python Challenge](https://dev.to/sanaipei001/day-1-my-first-python-print-statement-30-days-of-python-challenge-436)
+- [Validate JSON Using PHP](https://dev.to/pineapple_26/validate-json-using-php-nfj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
