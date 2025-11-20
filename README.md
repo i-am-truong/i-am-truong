@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [withStencil - Stop Writing Skeleton Components Twice](https://dev.to/t4y3/withstencil-stop-writing-skeleton-components-twice-2dfk)
+- [Escaping Tutorial Dependency: A Practical Route for New Developers](https://dev.to/mashraf_aiman_b9a968e5c1d/escaping-tutorial-dependency-a-practical-route-for-new-developers-3ace)
 - [Rethinking Frontend Scalability: The “UI Composition Architecture” Pattern for Large React Applications](https://dev.to/riturathin/rethinking-frontend-scalability-the-ui-composition-architecture-pattern-for-large-react-3mpn)
 - [When Users Ask for &#39;Profit Margin&#39; and You Realize Formulas Are Harder Than You Thought](https://dev.to/not_varunkv/when-users-ask-for-profit-margin-and-you-realize-formulas-are-harder-than-you-thought-4eg8)
 - [Workflow Automation Tools A Complete Guide to Features Pricing Pros and Cons](https://dev.to/alifar/workflow-automation-tools-a-complete-guide-to-features-pricing-pros-and-cons-1gf2)
-- [🚇 I Built a Mini Metro–Style Multiplayer Game on Rune &lpar;And Learned a Lot About Real-Time Sync&rpar;](https://dev.to/asaleg/i-built-a-mini-metro-style-multiplayer-game-on-rune-and-learned-a-lot-about-real-time-sync-1330)
-- [Inside Cloudflare&#39;s November 18, 2025 Outage: A Deep Dive into What Broke the Internet &lpar;Temporarily&rpar;](https://dev.to/om_shree_0709/inside-cloudflares-november-18-2025-outage-a-deep-dive-into-what-broke-the-internet-temporarily-2182)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
