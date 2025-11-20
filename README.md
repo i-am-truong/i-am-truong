@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Testing the new AI Cover Art](https://dev.to/mileswk/testing-the-new-ai-cover-art-7cj)
+- [Are You Using Hexagonal Architecture, or Just Dependency Injection?](https://dev.to/stevenstuartm/are-you-using-hexagonal-architecture-or-just-dependency-injection-29ja)
+- [What is your most cursed dev practice?](https://dev.to/gamelord2011/what-is-your-most-cursed-dev-practice-26ja)
 - [DepShield: Cut Your Node.js Bundle Size by 30-40% in 5 Seconds](https://dev.to/tisankan/depshield-cut-your-nodejs-bundle-size-by-30-40-in-5-seconds-2mof)
 - [Agentic AI Development with Kiro: From Zero to SaaS Platform](https://dev.to/aws-builders/agentic-ai-development-with-kiro-from-zero-to-saas-platform-30d6)
-- [Modern Web Design Styles Every Frontend Developer Must Know &lpar;2025 Guide&rpar;](https://dev.to/homayounmmdy/modern-web-design-styles-every-frontend-developer-must-know-2025-guide-1ijl)
-- [BetterStructureSql - Clean Database Schema Dumps for Rails &lpar;Beta&rpar;](https://dev.to/sebyx07/betterstructuresql-clean-database-schema-dumps-for-rails-beta-120j)
-- [Congrats to the 2025 Hacktoberfest Writing Challenge Winners!](https://dev.to/devteam/congrats-to-the-2025-hacktoberfest-writing-challenge-winners-1hpn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
