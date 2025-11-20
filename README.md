@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Testing the new AI Cover Art](https://dev.to/mileswk/testing-the-new-ai-cover-art-7cj)
-- [Are You Using Hexagonal Architecture, or Just Dependency Injection?](https://dev.to/stevenstuartm/are-you-using-hexagonal-architecture-or-just-dependency-injection-29ja)
-- [What is your most cursed dev practice?](https://dev.to/gamelord2011/what-is-your-most-cursed-dev-practice-26ja)
-- [Stop Forcing REST onto Domain-Driven Architectures](https://dev.to/stevenstuartm/stop-forcing-rest-onto-domain-driven-architectures-1k6)
-- [Single-Minded Focus Atrophies Everything Else](https://dev.to/stevenstuartm/single-minded-focus-atrophies-everything-else-5ggf)
+- [Why Your Agile Team Might Be Building on Hope, Not Discipline](https://dev.to/stevenstuartm/why-your-agile-team-might-be-building-on-hope-not-discipline-1f88)
+- [SDG Peace &amp; War Safety Awareness Website | By Michael &amp; Gabriel](https://dev.to/michaelssekabanja14maker/sdg-peace-war-safety-awareness-website-by-michael-gabriel-2on3)
+- [#A Senior Developer Challenge](https://dev.to/liquidcode/a-senior-developer-challenge-403a)
+- [The Secret Life of Python: Bytecode Secrets - What Python Really Runs](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-bytecode-secrets-what-python-really-runs-328f)
+- [Terraform Was the Bridge, Not the Destination](https://dev.to/stevenstuartm/terraform-was-the-bridge-not-the-destination-15pl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
