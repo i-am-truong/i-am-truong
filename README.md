@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [RAG - The Smart Way to Improve AI Answers](https://dev.to/khushi2488/rag-the-smart-way-to-improve-ai-answers-526a)
-- [How AI Agents in Cybersecurity Are Revolutionizing AppSec](https://dev.to/clouddefenseai/how-ai-agents-in-cybersecurity-are-revolutionizing-appsec-5e4m)
-- [Seamlessly Manage Synchronization Flow with Cancel Reconciliation API in ForgeRock IDM](https://dev.to/iamdevbox/seamlessly-manage-synchronization-flow-with-cancel-reconciliation-api-in-forgerock-idm-2aff)
-- [Day 6: If Statements - Teaching Python to Make Decisions - 30 Days of Python Challenge](https://dev.to/sanaipei001/day-6-if-statements-teaching-python-to-make-decisions-30-days-of-python-challenge-4hl1)
-- [Terminal Resume - ssh.akshaygupta.live](https://dev.to/akshay_gupta/terminal-resume-sshakshayguptalive-3mbk)
+- [ATM Hacking: From Terminator 2 Fantasy to Red Team Reality](https://dev.to/d3one/atm-hacking-from-terminator-2-fantasy-to-red-team-reality-2gdj)
+- [Turn your code into OpenAPI 3.0 docs in seconds](https://dev.to/qodex-ai/turn-your-code-into-openapi-30-docs-in-seconds-2b75)
+- [Dockerizing Java and Python Applications](https://dev.to/altairlage/dockerizing-java-and-python-applications-4n7l)
+- [Why Reading Tools Will Be the Next Big AI Category](https://dev.to/jackm_345442a09fb53b/why-reading-tools-will-be-the-next-big-ai-category-14i9)
+- [How Microsoft Agent Framework + AG-UI Enable Agentic UX &amp; Generative UI](https://dev.to/copilotkit/how-microsoft-agent-framework-ag-ui-enable-agentic-ux-generative-ui-eci)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
