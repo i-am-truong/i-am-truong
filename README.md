@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Delete Paragraphs in Word Documents using C#](https://dev.to/codingco/delete-paragraphs-in-word-documents-using-c-9c7)
-- [المحامي الشاب الخلوق احمد الرضوان - اشهر محامين الكويت](https://dev.to/__f5bf0895f9bb7e/lmhmy-lshb-lkhlwq-hmd-lrdwn-shhr-mhmyn-lkwyt-17gn)
-- [Integrating Machine Learning into .NET Healthcare Apps](https://dev.to/evawilson01/integrating-machine-learning-into-net-healthcare-apps-113h)
-- [🤯キーワード検索の限界突破！セマンティック理解で実現する「次世代API検索」とは](https://dev.to/waterlily_0f365e5fadded0f/kiwadojian-suo-noxian-jie-tu-po-semanteitukuli-jie-deshi-xian-suruci-shi-dai-apijian-suo-toha-kj)
-- [THE PURPOSE OF HUMAN LIFE—A WALK THROUGH THE HOUSE OF BEING](https://dev.to/thinking_healer/the-purpose-of-human-life-a-walk-through-the-house-of-being-5dim)
+- [How I Played With Self-Correcting LLMs While Fixing My Blog](https://dev.to/peggggykang/how-i-played-with-self-correcting-llms-while-fixing-my-blog-1m9k)
+- [Why You Should Never Raise Money Before Finding Product Market Fit](https://dev.to/mapster/why-you-should-never-raise-money-before-finding-product-market-fit-884)
+- [Which One Should You Choose: Bash or Make?](https://dev.to/kingyou/which-one-should-you-choose-bash-or-make-2ig0)
+- [Major lessons every developer should learn before a Microsoft system design interview](https://dev.to/dev_loops/major-lessons-every-developer-should-learn-before-a-microsoft-system-design-interview-36ki)
+- [Balancing Cost and Speed: Leading Platform Engineering Companies](https://dev.to/olivia_jhonson_/balancing-cost-and-speed-leading-platform-engineering-companies-2ink)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
