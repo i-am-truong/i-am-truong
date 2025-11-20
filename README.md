@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Alibaba API: Tutorial on Retrieving Product Details Page Data via Product Link](https://dev.to/vx_19970108018/alibaba-api-tutorial-on-retrieving-product-details-page-data-via-product-link-agc)
-- [How to build a responsive four‑step onboarding section with Tailwind CSS](https://dev.to/mike_andreuzza/how-to-build-a-responsive-four-step-onboarding-section-with-tailwind-css-2k2g)
-- [Memory Leaks in SwiftUI&lpar;Real-World Examples&rpar;](https://dev.to/vnayak_hejib/memory-leaks-in-swiftui-where-they-hide-how-to-catch-them-real-world-examples-84i)
-- [File 02: Automation Bias](https://dev.to/cnastasi/file-02-automation-bias-4ili)
-- [Ethereum’s Trustless Manifesto, MetaMask Multichain Accounts, RIP-7560 Explained, x402 Protocol](https://dev.to/etherspot/ethereums-trustless-manifesto-metamask-multichain-accounts-rip-7560-explained-x402-protocol-3cl4)
+- [AI Semantic API Search: Find Any API Faster — No Exact Keywords Needed](https://dev.to/eleanor_fairfax_5ce95399d/ai-semantic-api-search-find-any-api-faster-no-exact-keywords-needed-343f)
+- [The 3 Most Subtle Solidity Bugs We Found in Audits &lpar;And How We Found Them&rpar;](https://dev.to/extropy/the-3-most-subtle-solidity-bugs-we-found-in-audits-and-how-we-found-them-549c)
+- [How to Convert XLS to XLSX and Vice Versa Using Java](https://dev.to/leondavis1991/how-to-convert-xls-to-xlsx-and-vice-versa-using-java-284o)
+- [Another amazing version with so many innovations. Discover &amp; try the open source digital workplace eXo Platform](https://dev.to/anne_sophieduport_53fc1b/another-amazing-version-with-so-many-innovations-discover-try-the-open-source-digital-workplace-31mm)
+- [Stop Coding on Day 1: A Freelancer&#39;s Guide to &quot;Ironclad&quot; Onboarding](https://dev.to/hamza_elhaissouf_5c40fec/stop-coding-on-day-1-a-freelancers-guide-to-ironclad-onboarding-4o4j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
