@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ubuntu 24.04 and better license troubleshooting in Puppet Continuous Delivery 5.13.0](https://dev.to/puppet/ubuntu-2404-and-better-license-troubleshooting-in-puppet-continuous-delivery-5130-2bc5)
+- [Building a Production-Ready Multi-Tenant ISP Billing System in 2 Days with Qoder AI](https://dev.to/gnetid/building-a-production-ready-multi-tenant-isp-billing-system-in-2-days-with-qoder-ai-3bm1)
+- [Ping Federate: Complete Guide to Identity Federation, SSO, and Modern Authentication &lpar;2025&rpar;](https://dev.to/mohansh_technologies_a5e1/ping-federate-complete-guide-to-identity-federation-sso-and-modern-authentication-2025-340e)
 - [gookit/goutil v0.7.2 Released: Enhanced Features &amp; Fixes for an Improved Development Experience](https://dev.to/inhere/gookitgoutil-v072-released-enhanced-features-fixes-for-an-improved-development-experience-3d06)
 - [Pace over precision – or precision over pace?](https://dev.to/abudantsov/pace-over-precision-or-precision-over-pace-5812)
-- [🚀 A Complete Guide to Rendering Agents &amp; Workflows Using Agent Framework Dev UI](https://dev.to/sayen_vv_cc7f3d9662139d60/a-complete-guide-to-rendering-agents-workflows-using-agent-framework-dev-ui-2jgl)
-- [Day 3: Type Casting - Transforming Data Types - 30 Days of Python Challenge](https://dev.to/sanaipei001/day-3-type-casting-transforming-data-types-30-days-of-python-challenge-26ip)
-- [Saving Game Data in Unity — Part 4: SQLite](https://dev.to/rahul_barate_e965377330fe/saving-game-data-in-unity-part-4-sqlite-4mdd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
