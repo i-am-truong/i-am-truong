@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Free Developer Tools: How I Built a Complete Toolkit for the Community](https://dev.to/creative_brain_inc/free-developer-tools-how-i-built-a-complete-toolkit-for-the-community-3b2b)
+- [My 6-Month Odyssey: From Binary Novice to Embedded Systems Warrior](https://dev.to/harshaabhi/my-6-month-odyssey-from-binary-novice-to-embedded-systems-warrior-hm0)
+- [AI in C# and .NET Development: Google Antigravity IDE](https://dev.to/iron-software/ai-in-c-and-net-development-google-antigravity-ide-5a72)
 - [Why Modern DevOps Engineers Ignore CPU, Memory &amp; Networking — And Why It’s a Big Mistake](https://dev.to/srinivasamcjf/why-modern-devops-engineers-ignore-cpu-memory-networking-and-why-its-a-big-mistake-5ac8)
 - [Create a Text Editor in Go - Search](https://dev.to/alcb1310/create-a-text-editor-in-go-search-13l7)
-- [How I Built a Chase Bank PDF Parser with 99% Accuracy](https://dev.to/baurzhan_zhetenov_442c4cd/how-i-built-a-chase-bank-pdf-parser-with-99-accuracy-4j6c)
-- [Understanding Backend Routing Like a Pro](https://dev.to/yuktisays/understanding-backend-routing-like-a-pro-9id)
-- [The Difference Between Unrestricted and Restricted Integer Partitions](https://dev.to/ganesh-kumar/the-difference-between-unrestricted-and-restricted-integer-partitions-548o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
