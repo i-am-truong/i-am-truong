@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Playwright Quirks — waitForResponse](https://dev.to/rmarinsky/playwright-quirks-waitforresponse-21p6)
+- [shadcn/ui vs Ant Design vs MUI: A Modern React Design System Comparison](https://dev.to/codefalconx/design-system-comparison-matrix-562e)
 - [Let&#39;s learn Node.js](https://dev.to/brendon_oneill__/lets-learn-nodejs-50l2)
 - [Reducing Serialization Lag in Highload Go Systems — What Actually Works in Production](https://dev.to/devflex-pro/reducing-serialization-lag-in-highload-go-systems-what-actually-works-in-production-4kij)
 - [ATM Hacking: From Terminator 2 Fantasy to Red Team Reality](https://dev.to/d3one/atm-hacking-from-terminator-2-fantasy-to-red-team-reality-2gdj)
-- [Turn your code into OpenAPI 3.0 docs in seconds](https://dev.to/qodex-ai/turn-your-code-into-openapi-30-docs-in-seconds-2b75)
-- [Dockerizing Java and Python Applications](https://dev.to/altairlage/dockerizing-java-and-python-applications-4n7l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
