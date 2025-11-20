@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Orchestrate Agentic Workflows With GitHub Spec-Kit and Google Antigravity](https://dev.to/prefrontalsys/how-i-orchestrate-agentic-workflows-with-github-spec-kit-and-google-antigravity-257l)
+- [Stock Price Prediction &lpar;Use 5 Model&rpar;](https://dev.to/mikihinasann_9cab577c3f19/stock-price-prediction-use-5-model-from-keras-180f)
+- [How to Sell Your Skills with a Small Project](https://dev.to/bradleymatera/how-to-sell-your-skills-with-a-small-project-1h0p)
 - [Build an award Winning 3D Website with scroll-based animations | Next.js, three.js &amp; GSAP](https://dev.to/robinzon100/build-an-award-winning-3d-website-with-scroll-based-animations-nextjs-threejs-gsap-3630)
 - [Stop Building AI Products Until You Understand These 7 Hard Truths About AI Engineering](https://dev.to/qa-leaders/stop-building-ai-products-until-you-understand-these-7-hard-truths-about-ai-engineering-3d61)
-- [LANGUAGE MODELS USING MLP &lpar;Part 2&rpar;](https://dev.to/blackbidz/language-models-using-mlp-part-2-g8a)
-- [Accessing the Dark Web Safely: What Researchers Should Know](https://dev.to/tor_bbb/accessing-the-dark-web-safely-what-researchers-should-know-4k1)
-- [Ringer Movies: The 25 Best Movies of the Century: No. 4 - &#39;Inglourious Basterds’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-4-inglourious-basterds-55pa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
