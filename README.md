@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Build a Face Detection App with Python OOP — From Zero to Pro&lpar;part-5&rpar;](https://dev.to/mohammadreza_mahdian_3841/build-a-face-detection-app-with-python-oop-from-zero-to-propart-5-2hpb)
+- [REMI: A Fully Auditable Autonomous Agent for Technical, Symbolic, and Financial Impact](https://dev.to/jramone3/remi-a-fully-auditable-autonomous-agent-for-technical-symbolic-and-financial-impact-ekj)
 - [How I Orchestrate Agentic Workflows With GitHub Spec-Kit and Google Antigravity](https://dev.to/prefrontalsys/how-i-orchestrate-agentic-workflows-with-github-spec-kit-and-google-antigravity-257l)
 - [Stock Price Prediction &lpar;Use 5 Model&rpar;](https://dev.to/mikihinasann_9cab577c3f19/stock-price-prediction-use-5-model-from-keras-180f)
 - [How to Sell Your Skills with a Small Project](https://dev.to/bradleymatera/how-to-sell-your-skills-with-a-small-project-1h0p)
-- [Build an award Winning 3D Website with scroll-based animations | Next.js, three.js &amp; GSAP](https://dev.to/robinzon100/build-an-award-winning-3d-website-with-scroll-based-animations-nextjs-threejs-gsap-3630)
-- [Stop Building AI Products Until You Understand These 7 Hard Truths About AI Engineering](https://dev.to/qa-leaders/stop-building-ai-products-until-you-understand-these-7-hard-truths-about-ai-engineering-3d61)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
