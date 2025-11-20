@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How We Built The First Open-Source Rust Core Agentic AI Framework](https://dev.to/yeahiasarker/how-we-built-the-first-open-source-rust-core-agentic-ai-framework-3kfc)
 - [Exploring Extension Blocks in .NET 10](https://dev.to/rasheedmozaffar/exploring-extension-blocks-in-net-10-ijo)
 - [MP 1.300/2025: Entenda os Prazos e Custos para Retornar ao Mercado Cativo](https://dev.to/ava_mendes/mp-13002025-entenda-os-prazos-e-custos-para-retornar-ao-mercado-cativo-2kb6)
 - [Unity and Fortnite: What Does This Integration Mean for Game Developers?](https://dev.to/guardingpearsoftware/unity-and-fortnite-what-does-this-integration-mean-for-game-developers-1kai)
 - [AI Semantic API Search: Find Any API Faster — No Exact Keywords Needed](https://dev.to/eleanor_fairfax_5ce95399d/ai-semantic-api-search-find-any-api-faster-no-exact-keywords-needed-343f)
-- [Understanding Buffers in Programming — The Complete Guide for Beginners &amp; Pros](https://dev.to/farhadrahimiklie/understanding-buffers-in-programming-the-complete-guide-for-beginners-pros-2o2i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
