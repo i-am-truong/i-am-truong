@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Build a Face Detection App with Python OOP — From Zero to Pro&lpar;part-5&rpar;](https://dev.to/mohammadreza_mahdian_3841/build-a-face-detection-app-with-python-oop-from-zero-to-propart-5-2hpb)
-- [REMI: A Fully Auditable Autonomous Agent for Technical, Symbolic, and Financial Impact](https://dev.to/jramone3/remi-a-fully-auditable-autonomous-agent-for-technical-symbolic-and-financial-impact-ekj)
-- [How I Orchestrate Agentic Workflows With GitHub Spec-Kit and Google Antigravity](https://dev.to/prefrontalsys/how-i-orchestrate-agentic-workflows-with-github-spec-kit-and-google-antigravity-257l)
-- [Stock Price Prediction &lpar;Use 5 Model&rpar;](https://dev.to/mikihinasann_9cab577c3f19/stock-price-prediction-use-5-model-from-keras-180f)
-- [How to Sell Your Skills with a Small Project](https://dev.to/bradleymatera/how-to-sell-your-skills-with-a-small-project-1h0p)
+- [Calculate Your Personal Voltage from Binary](https://dev.to/annavi11arrea1/calculate-your-personal-voltage-from-binary-gke)
+- [Building a Tier 3 Movie Database App with Django: My Development Journey](https://dev.to/adewaletech/building-a-tier-3-movie-database-app-with-django-my-development-journey-ga)
+- [Gemini 3: the multimodal leap redefining Google’s artificial intelligence](https://dev.to/vicodev/gemini-3-the-multimodal-leap-redefining-googles-artificial-intelligence-3fa0)
+- [Gemini 3: el salto multimodal que redefine la inteligencia artificial de Google](https://dev.to/vicodev/gemini-3-el-salto-multimodal-que-redefine-la-inteligencia-artificial-de-google-1nn0)
+- [Zero-Click Content: How to Win When Nobody Visits Your Website](https://dev.to/synergistdigitalmedia/zero-click-content-how-to-win-when-nobody-visits-your-website-jjj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
