@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Developing for Mobile: How to Build and Sell Your Own App on the App Store](https://dev.to/softwaredeveloperhub01/developing-for-mobile-how-to-build-and-sell-your-own-app-on-the-app-store-3i98)
 - [A Comprehensive Guide to Integrate FawryPay API into your own RESTful API Server](https://dev.to/_moehab/a-comprehensive-guide-to-integrate-fawrypay-api-into-your-own-restful-api-server-478d)
+- [Which industries benefit most from professional PWA development services?](https://dev.to/it-influencer/which-industries-benefit-most-from-professional-pwa-development-services-47af)
 - [Calculate Your Personal Voltage from Binary](https://dev.to/annavi11arrea1/calculate-your-personal-voltage-from-binary-gke)
 - [Building a Tier 3 Movie Database App with Django: My Development Journey](https://dev.to/adewaletech/building-a-tier-3-movie-database-app-with-django-my-development-journey-ga)
-- [Gemini 3: the multimodal leap redefining Google’s artificial intelligence](https://dev.to/vicodev/gemini-3-the-multimodal-leap-redefining-googles-artificial-intelligence-3fa0)
-- [Gemini 3: el salto multimodal que redefine la inteligencia artificial de Google](https://dev.to/vicodev/gemini-3-el-salto-multimodal-que-redefine-la-inteligencia-artificial-de-google-1nn0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
