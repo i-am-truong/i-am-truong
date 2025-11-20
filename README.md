@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Rethinking Frontend Scalability: The “UI Composition Architecture” Pattern for Large React Applications](https://dev.to/riturathin/rethinking-frontend-scalability-the-ui-composition-architecture-pattern-for-large-react-3mpn)
 - [Workflow Automation Tools A Complete Guide to Features Pricing Pros and Cons](https://dev.to/alifar/workflow-automation-tools-a-complete-guide-to-features-pricing-pros-and-cons-1gf2)
 - [🚇 I Built a Mini Metro–Style Multiplayer Game on Rune &lpar;And Learned a Lot About Real-Time Sync&rpar;](https://dev.to/asaleg/i-built-a-mini-metro-style-multiplayer-game-on-rune-and-learned-a-lot-about-real-time-sync-1330)
 - [Inside Cloudflare&#39;s November 18, 2025 Outage: A Deep Dive into What Broke the Internet &lpar;Temporarily&rpar;](https://dev.to/om_shree_0709/inside-cloudflares-november-18-2025-outage-a-deep-dive-into-what-broke-the-internet-temporarily-2182)
-- [Automating Code Quality: Stop Debating Style and Start Coding](https://dev.to/deftoexplore/automating-code-quality-stop-automating-code-quality-stop-debating-style-and-start-coding-1mo1)
-- [When the Internet Broke: What Really Happened During the Cloudflare Outage](https://dev.to/roan911/when-the-internet-broke-what-really-happened-during-the-cloudflare-outage-4lfo)
+- [Machine Vision in Semiconductor Manufacturing: A New Era of Defect-Free Production](https://dev.to/csoftweb/machine-vision-in-semiconductor-manufacturing-a-new-era-of-defect-free-production-4dp2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
