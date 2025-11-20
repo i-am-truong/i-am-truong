@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering CSS Specificity, Inheritance, and the Cascade](https://dev.to/sharique_siddiqui_8242dad/mastering-css-specificity-inheritance-and-the-cascade-1nc7)
+- [🚨 Stop Wasting Money: Your PostgreSQL Data Types Are Killing Performance](https://dev.to/igornosatov_15/stop-wasting-money-your-postgresql-data-types-are-killing-performance-3cc6)
+- [A Technical Overview of Tuya Smart Mini-Apps &lpar;Panel vs. Smart Mini-App&rpar;](https://dev.to/zediot/a-technical-overview-of-tuya-smart-mini-apps-panel-vs-smart-mini-app-4agb)
+- [There&#39;s a Limit to Chat Tools — Enter QWINCS!](https://dev.to/stakiran/theres-a-limit-to-chat-tools-enter-qwincs-3cgb)
 - [Your Mac is a Beast for Java Dev. Here&#39;s the Software to Prove It.](https://dev.to/platypus98/your-mac-is-a-beast-for-java-dev-heres-the-software-to-prove-it-3l29)
-- [🚀 Web Performance Essentials: Practical Techniques Every Frontend Developer Should Use](https://dev.to/vishwark/web-performance-essentials-practical-techniques-every-frontend-developer-should-use-cfh)
-- [How to Choose the Right UI UX Design Agency](https://dev.to/taqwah/how-to-choose-the-right-ui-ux-design-agency-53gk)
-- [JsonTree for Mantine UI: A Delightfully Simple Way to Inspect Any Data Structure](https://dev.to/undolog/jsontree-for-mantine-ui-a-delightfully-simple-way-to-inspect-any-data-structure-25ne)
-- [Angular PDF Libraries: Free &amp; Paid Tools &lpar;In-Depth Developer Guide&rpar;](https://dev.to/mohammedibrahimlj/angular-pdf-libraries-free-paid-tools-in-depth-developer-guide-59fl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
