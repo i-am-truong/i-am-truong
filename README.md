@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Keeping Your GitHub Profile in Sync with Your Articles: Automating dev.to, Cosine.sh and More Platforms](https://dev.to/eleftheriabatsou/keeping-your-github-profile-in-sync-with-your-articles-automating-devto-cosinesh-and-more-4leh)
-- [Building a Bytecode-First Security Dashboard for Web3 &lpar;and Why ABI Doesn’t Matter&rpar;](https://dev.to/0xrazumovsky/building-a-bytecode-first-security-dashboard-for-web3-and-why-abi-doesnt-matter-59fj)
-- [How to Make a Budgeted, Responsive Website for an SME](https://dev.to/startup-consultant/how-to-make-a-budgeted-responsive-website-for-an-sme-24h0)
-- [Defensive Programming: A Guide to Building Resilient API Clients](https://dev.to/kimanikevin254/defensive-programming-a-guide-to-building-resilient-api-clients-10hj)
-- [Why you should stop writing long functions](https://dev.to/giftintech/why-you-should-stop-writing-long-functions-1588)
+- [Ubiquiti UniFi U6-LR Wi-Fi 6 დაშვების წერტილი მაღალი გამტარობით და გაფართოებული დაფარვით - Review](https://dev.to/innocomltd/ubiquiti-unifi-u6-lr-wi-fi-6-dashvebis-certili-magali-gamtarobit-da-gapartoebuli-daparvit-review-mcb)
+- [Best Chrome Extensions for Productivity in 2025: Save Time and Stay Focused](https://dev.to/chirag127/best-chrome-extensions-for-productivity-in-2025-save-time-and-stay-focused-3jhb)
+- [Amazon Q Custom Agents: The Complete Guide](https://dev.to/sarvar_04/amazon-q-custom-agents-the-complete-guide-1oho)
+- [Understanding All Ways to Reference the Django User Model](https://dev.to/guzmanojero/understanding-all-ways-to-reference-the-django-user-model-3ffg)
+- [Mikrotik CSS106-1G-4P-1S - მართვადი PoE სვიჩი 5 პორტით - Review and Guide](https://dev.to/innocomltd/mikrotik-css106-1g-4p-1s-martvadi-poe-svichi-5-portit-review-and-guide-56k7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
