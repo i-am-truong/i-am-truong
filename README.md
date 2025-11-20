@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [withStencil - Stop Writing Skeleton Components Twice](https://dev.to/t4y3/withstencil-stop-writing-skeleton-components-twice-2dfk)
-- [Escaping Tutorial Dependency: A Practical Route for New Developers](https://dev.to/mashraf_aiman_b9a968e5c1d/escaping-tutorial-dependency-a-practical-route-for-new-developers-3ace)
-- [Rethinking Frontend Scalability: The “UI Composition Architecture” Pattern for Large React Applications](https://dev.to/riturathin/rethinking-frontend-scalability-the-ui-composition-architecture-pattern-for-large-react-3mpn)
-- [When Users Ask for &#39;Profit Margin&#39; and You Realize Formulas Are Harder Than You Thought](https://dev.to/not_varunkv/when-users-ask-for-profit-margin-and-you-realize-formulas-are-harder-than-you-thought-4eg8)
-- [Workflow Automation Tools A Complete Guide to Features Pricing Pros and Cons](https://dev.to/alifar/workflow-automation-tools-a-complete-guide-to-features-pricing-pros-and-cons-1gf2)
+- [🐳 Docker Deserves a Place Beside Git — Here’s Why](https://dev.to/rushier/docker-deserves-a-place-beside-git-heres-why-3444)
+- [Performance Testing Databases the Right Way: A Real-World Engineering Journey](https://dev.to/ankit_sood_66861d56d8e42a/performance-testing-databases-the-right-way-a-real-world-engineering-journey-4mfi)
+- [What Is ChatGPT Atlas?](https://dev.to/qwegle_insights/what-is-chatgpt-atlas-1hck)
+- [Gemini 3](https://dev.to/mashraf_aiman_b9a968e5c1d/gemini-3-omn)
+- [Unexpected Slow Startup Times in Azure Functions Using Consumption Plan](https://dev.to/maria_allen_df6b5a0aec264/unexpected-slow-startup-times-in-azure-functions-using-consumption-plan-35jc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
