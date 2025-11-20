@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Build an award Winning 3D Website with scroll-based animations | Next.js, three.js &amp; GSAP](https://dev.to/robinzon100/build-an-award-winning-3d-website-with-scroll-based-animations-nextjs-threejs-gsap-3630)
+- [Stop Building AI Products Until You Understand These 7 Hard Truths About AI Engineering](https://dev.to/qa-leaders/stop-building-ai-products-until-you-understand-these-7-hard-truths-about-ai-engineering-3d61)
 - [LANGUAGE MODELS USING MLP &lpar;Part 2&rpar;](https://dev.to/blackbidz/language-models-using-mlp-part-2-g8a)
 - [Accessing the Dark Web Safely: What Researchers Should Know](https://dev.to/tor_bbb/accessing-the-dark-web-safely-what-researchers-should-know-4k1)
-- [Best AI Rank Monitoring Softwares](https://dev.to/babamanga/best-ai-rank-monitoring-softwares-49p5)
-- [The difference method shows us the elements of one set that are not found in the other](https://dev.to/onaolapo11/the-difference-method-shows-us-the-elements-of-one-set-that-are-not-found-in-the-other-1kde)
-- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-2log)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 4 - &#39;Inglourious Basterds’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-4-inglourious-basterds-55pa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
