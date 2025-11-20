@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [That One CSS Gap That Tricked Me For a Week &lpar;And The Simple Fix&rpar;](https://dev.to/zaheer_ahmed_afa544c30811/that-one-css-gap-that-tricked-me-for-a-week-and-the-simple-fix-212j)
+- [Developer Tooling #008](https://dev.to/patinthehat/developer-tooling-008-4p1m)
 - [Building 1000 Candles: A Digital Memorial That Taught Me About Scale, Optimization, and Remembrance](https://dev.to/chrisbuildsonline/building-1000-candles-a-digital-memorial-that-taught-me-about-scale-optimization-and-remembrance-3ok3)
 - [GA4 Custom Funnels: 7 Templates That Actually Tell You Something Useful](https://dev.to/synergistdigitalmedia/ga4-custom-funnels-7-templates-that-actually-tell-you-something-useful-2l2c)
 - [The Hidden Math Behind Profitable Property Development: A Beginner-Friendly Guide for Developers](https://dev.to/abdul_shamim/the-hidden-math-behind-profitable-property-development-a-beginner-friendly-guide-for-developers-3fja)
-- [Top 10 things to consider when buying a new laptop in Nairobi](https://dev.to/reviewhub/top-10-things-to-consider-when-buying-a-new-laptop-in-nairobi-52m)
-- [The Ultimate Guide to Automated Content Distribution with Omni-Publisher](https://dev.to/chirag127/the-ultimate-guide-to-automated-content-distribution-with-omni-publisher-1h76)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
