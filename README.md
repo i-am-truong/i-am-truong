@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Free Developer Tools: How I Built a Complete Toolkit for the Community](https://dev.to/creative_brain_inc/free-developer-tools-how-i-built-a-complete-toolkit-for-the-community-3b2b)
-- [My 6-Month Odyssey: From Binary Novice to Embedded Systems Warrior](https://dev.to/harshaabhi/my-6-month-odyssey-from-binary-novice-to-embedded-systems-warrior-hm0)
-- [AI in C# and .NET Development: Google Antigravity IDE](https://dev.to/iron-software/ai-in-c-and-net-development-google-antigravity-ide-5a72)
-- [Why Modern DevOps Engineers Ignore CPU, Memory &amp; Networking — And Why It’s a Big Mistake](https://dev.to/srinivasamcjf/why-modern-devops-engineers-ignore-cpu-memory-networking-and-why-its-a-big-mistake-5ac8)
-- [Create a Text Editor in Go - Search](https://dev.to/alcb1310/create-a-text-editor-in-go-search-13l7)
+- [Building Accessible Themes with Generative AI](https://dev.to/icodeforbananas/building-accessible-themes-with-generative-ai-4jm5)
+- [Understanding the All Ordinaries Index: Structure, Purpose, and Market Role](https://dev.to/evie_lawson_742ae9bd57133/understanding-the-all-ordinaries-index-structure-purpose-and-market-role-38i)
+- [Antigravity and Gemini3 Coding Test](https://dev.to/connectonion/antigravity-and-gemini3-coding-test-58jb)
+- [STN Hackathon 2025](https://dev.to/prajwal_up/stn-hackathon-2025-ghg)
+- [Server Side Rendering Explained for People Who Have Never Heard of It](https://dev.to/rijultp/server-side-rendering-explained-for-people-who-have-never-heard-of-it-1pef)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
