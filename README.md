@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Delete Paragraphs in Word Documents using C#](https://dev.to/codingco/delete-paragraphs-in-word-documents-using-c-9c7)
+- [المحامي الشاب الخلوق احمد الرضوان - اشهر محامين الكويت](https://dev.to/__f5bf0895f9bb7e/lmhmy-lshb-lkhlwq-hmd-lrdwn-shhr-mhmyn-lkwyt-17gn)
 - [Integrating Machine Learning into .NET Healthcare Apps](https://dev.to/evawilson01/integrating-machine-learning-into-net-healthcare-apps-113h)
+- [🤯キーワード検索の限界突破！セマンティック理解で実現する「次世代API検索」とは](https://dev.to/waterlily_0f365e5fadded0f/kiwadojian-suo-noxian-jie-tu-po-semanteitukuli-jie-deshi-xian-suruci-shi-dai-apijian-suo-toha-kj)
 - [THE PURPOSE OF HUMAN LIFE—A WALK THROUGH THE HOUSE OF BEING](https://dev.to/thinking_healer/the-purpose-of-human-life-a-walk-through-the-house-of-being-5dim)
-- [Wearable Tech: How Health and Fitness Devices Are Getting Smarter](https://dev.to/tehreem_seorankhive_6c6ea/wearable-tech-how-health-and-fitness-devices-are-getting-smarter-27oo)
-- [C# TextReader Tutorial: Read Text Files Easily with Real Examples](https://dev.to/suraj_kumar_fb57ae0928df2/c-textreader-tutorial-read-text-files-easily-with-real-examples-gh9)
-- [How AI Discovers Your MCP Tools?](https://dev.to/ndabene/how-ai-discovers-your-mcp-tools-obh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
