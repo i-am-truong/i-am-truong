@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Going Live: How I Deployed My Water Quality ML API to the Cloud in 5 Minutes](https://dev.to/techkene/going-live-how-i-deployed-my-water-quality-ml-api-to-the-cloud-in-5-minutes-hhc)
+- [Building an AI Agent Traffic Management Platform: APISIX AI Gateway in Practice](https://dev.to/yilialinn/building-an-ai-agent-traffic-management-platform-apisix-ai-gateway-in-practice-4md8)
+- [The Simple Guide to Smarter Matka Planning and Daily Number Tracking](https://dev.to/knox_va_e2c78bf2dbac9077c/the-simple-guide-to-smarter-matka-planning-and-daily-number-tracking-3do)
+- [Full Final Report | Adding a gRPC Plugin to Apache DolphinScheduler](https://dev.to/chen_debra_3060b21d12b1b0/full-final-report-adding-a-grpc-plugin-to-apache-dolphinscheduler-4nca)
 - [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-2ge7)
-- [Ringer Movies: The 25 Best Movies of the Century: No. 4 - &#39;Inglourious Basterds’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-4-inglourious-basterds-29ef)
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-4ii9)
-- [Tutorial: Building a .NET 9 Console App with Hangfire and Channels](https://dev.to/stevsharp/tutorial-building-a-net-9-console-app-with-hangfire-and-channels-1g02)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
