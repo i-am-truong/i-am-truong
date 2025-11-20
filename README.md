@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Notion vs Obsidian: Which One Fits Your Workflow?](https://dev.to/risekucom/notion-vs-obsidian-which-one-fits-your-workflow-41fd)
-- [No More Firefighting: Your n8n Workflow Blueprint](https://dev.to/kareemblessed/no-more-firefighting-your-n8n-workflow-blueprint-3pnc)
-- [Ubiquiti UniFi U6-LR Wi-Fi 6 დაშვების წერტილი მაღალი გამტარობით და გაფართოებული დაფარვით - Review](https://dev.to/innocomltd/ubiquiti-unifi-u6-lr-wi-fi-6-dashvebis-certili-magali-gamtarobit-da-gapartoebuli-daparvit-review-mcb)
-- [Best Chrome Extensions for Productivity in 2025: Save Time and Stay Focused](https://dev.to/chirag127/best-chrome-extensions-for-productivity-in-2025-save-time-and-stay-focused-3jhb)
-- [Zero Balance Bank Accounts in India 2025: Complete Guide to Free Banking](https://dev.to/chirag127/zero-balance-bank-accounts-in-india-2025-complete-guide-to-free-banking-3ddm)
+- [Building 1000 Candles: A Digital Memorial That Taught Me About Scale, Optimization, and Remembrance](https://dev.to/chrisbuildsonline/building-1000-candles-a-digital-memorial-that-taught-me-about-scale-optimization-and-remembrance-3ok3)
+- [GA4 Custom Funnels: 7 Templates That Actually Tell You Something Useful](https://dev.to/synergistdigitalmedia/ga4-custom-funnels-7-templates-that-actually-tell-you-something-useful-2l2c)
+- [The Hidden Math Behind Profitable Property Development: A Beginner-Friendly Guide for Developers](https://dev.to/abdul_shamim/the-hidden-math-behind-profitable-property-development-a-beginner-friendly-guide-for-developers-3fja)
+- [Top 10 things to consider when buying a new laptop in Nairobi](https://dev.to/reviewhub/top-10-things-to-consider-when-buying-a-new-laptop-in-nairobi-52m)
+- [The Ultimate Guide to Automated Content Distribution with Omni-Publisher](https://dev.to/chirag127/the-ultimate-guide-to-automated-content-distribution-with-omni-publisher-1h76)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
