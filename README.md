@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Gemini 3 Is Changing the Way Developers Build, Document, and Automate](https://dev.to/therealmrmumba/how-gemini-3-is-changing-the-way-developers-build-document-and-automate-4f8j)
-- [WTF is Distributed Deno?](https://dev.to/dailybugle33/wtf-is-distributed-deno-3469)
-- [Go in Action: Building a Production-Grade Dynamic Reverse Proxy on Top of Gin](https://dev.to/zhufuyi/go-in-action-building-a-production-grade-dynamic-reverse-proxy-on-top-of-gin-3job)
-- [Taobao API: Tutorial on retrieving product details page data via product link](https://dev.to/vx_19970108018/taobao-api-tutorial-on-retrieving-product-details-page-data-via-product-link-477m)
-- [How to make an old wash machine work with Raspberry Pi 4?](https://dev.to/carolineee/how-to-make-an-old-wash-machine-work-with-raspberry-pi-4-1ig5)
+- [Centralized EKS monitoring across multiple AWS accounts](https://dev.to/hatedabamboo/centralized-eks-monitoring-across-multiple-aws-accounts-3cad)
+- [A Step-by-Step Guide on How to Integrate AI Into Your Existing Health App](https://dev.to/shikhabaldev/a-step-by-step-guide-on-how-to-integrate-ai-into-your-existing-health-app-2cll)
+- [OpenTelemetry Gin Monitoring [otelgin]](https://dev.to/uptrace/opentelemetry-gin-monitoring-otelgin-4b83)
+- [OpenTelemetry Filelog Receiver](https://dev.to/uptrace/opentelemetry-filelog-receiver-89g)
+- [How Concrete Company Improved Safety by 50%](https://dev.to/victor-lang/how-concrete-company-improved-safety-by-50-50ig)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
