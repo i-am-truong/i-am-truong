@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mutex and Lock Guard in C++](https://dev.to/min38/mutex-and-lock-guard-in-c-17i9)
-- [My Open-Source Contribution - Working on TypeScript-ESLint](https://dev.to/oleksandrakordonets/my-open-source-contribution-working-on-typescript-eslint-gmd)
-- [API Gateway vs Service Mesh: Beyond the North–South/East–West Myth](https://dev.to/rajkundalia/api-gateway-vs-service-mesh-beyond-the-north-southeast-west-myth-2mpg)
-- [CancellationToken: The Complete Technical Guide for .NET Developers](https://dev.to/iron-software/-cancellationtoken-the-complete-technical-guide-for-net-developers-1h7p)
-- [Implementing SCA tools in large legacy Android Project](https://dev.to/hyuwah/implementing-sca-tools-in-large-legacy-android-project-ije)
+- [Generate MCP Tool Schemas Directly From Java Code](https://dev.to/sualeh/generate-mcp-tool-schemas-directly-from-java-code-3bif)
+- [Implementing BitDT: A Step-by-Step Guide to Date-Time Lossless Compression](https://dev.to/danexcodr/implementing-bitdt-a-step-by-step-guide-to-date-time-compression-30h7)
+- [Leveraging CPC and IPC Codes to Improve Searches: Using Classification in Patent Search](https://dev.to/patentscanai/leveraging-cpc-and-ipc-codes-to-improve-searches-using-classification-in-patent-search-5e2h)
+- [Number Time: A Proposal for Rational Temporal Measurement](https://dev.to/alex_gul_b37c77dc51977744/number-time-a-proposal-for-rational-temporal-measurement-423i)
+- [Strategy Pattern](https://dev.to/c4rlosc7/strategy-pattern-3143)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
