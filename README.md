@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 40: Python Armstrong Numbers Finder, Detect Narcissistic Numbers in a Range with Digit Power Sum](https://dev.to/shahrouzlogs/day-40-python-armstrong-numbers-finder-detect-narcissistic-numbers-in-a-range-with-digit-power-4igb)
-- [Animation girl](https://dev.to/preetha_vaishnavi_2b82358/animation-girl-5e8a)
-- [Daily Tech News Roundup - 2025-11-20](https://dev.to/atharvshinde2004/daily-tech-news-roundup-2025-11-20-5306)
-- [CSS Wine Bottle](https://dev.to/preetha_vaishnavi_2b82358/css-wine-bottle-1k0l)
-- [7 Best Resources I Found to Learn Java &lpar;And How I Used Them to Get My First Dev Job&rpar;](https://dev.to/stack_overflowed/7-best-resources-i-found-to-learn-java-and-how-i-used-them-to-get-my-first-dev-job-484)
+- [Wearable Tech: How Health and Fitness Devices Are Getting Smarter](https://dev.to/tehreem_seorankhive_6c6ea/wearable-tech-how-health-and-fitness-devices-are-getting-smarter-27oo)
+- [C# TextReader Tutorial: Read Text Files Easily with Real Examples](https://dev.to/suraj_kumar_fb57ae0928df2/c-textreader-tutorial-read-text-files-easily-with-real-examples-gh9)
+- [How AI Discovers Your MCP Tools?](https://dev.to/ndabene/how-ai-discovers-your-mcp-tools-obh)
+- [Stop Googling Commands: The 3 Best AI Tools for Linux Help in 2025](https://dev.to/alldaylinux/stop-googling-commands-the-3-best-ai-tools-for-linux-help-in-2025-92i)
+- [Why I Built Lens Browser: A Privacy-First Alternative in a World of Data Harvesting](https://dev.to/cas8398/why-i-built-lens-browser-a-privacy-first-alternative-in-a-world-of-data-harvesting-5and)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
