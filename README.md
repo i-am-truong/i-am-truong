@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Ubuntu 24.04 and better license troubleshooting in Puppet Continuous Delivery 5.13.0](https://dev.to/puppet/ubuntu-2404-and-better-license-troubleshooting-in-puppet-continuous-delivery-5130-2bc5)
-- [Building a Production-Ready Multi-Tenant ISP Billing System in 2 Days with Qoder AI](https://dev.to/gnetid/building-a-production-ready-multi-tenant-isp-billing-system-in-2-days-with-qoder-ai-3bm1)
-- [Ping Federate: Complete Guide to Identity Federation, SSO, and Modern Authentication &lpar;2025&rpar;](https://dev.to/mohansh_technologies_a5e1/ping-federate-complete-guide-to-identity-federation-sso-and-modern-authentication-2025-340e)
-- [gookit/goutil v0.7.2 Released: Enhanced Features &amp; Fixes for an Improved Development Experience](https://dev.to/inhere/gookitgoutil-v072-released-enhanced-features-fixes-for-an-improved-development-experience-3d06)
-- [Pace over precision – or precision over pace?](https://dev.to/abudantsov/pace-over-precision-or-precision-over-pace-5812)
+- [RAG - The Smart Way to Improve AI Answers](https://dev.to/khushi2488/rag-the-smart-way-to-improve-ai-answers-526a)
+- [How AI Agents in Cybersecurity Are Revolutionizing AppSec](https://dev.to/clouddefenseai/how-ai-agents-in-cybersecurity-are-revolutionizing-appsec-5e4m)
+- [Seamlessly Manage Synchronization Flow with Cancel Reconciliation API in ForgeRock IDM](https://dev.to/iamdevbox/seamlessly-manage-synchronization-flow-with-cancel-reconciliation-api-in-forgerock-idm-2aff)
+- [Day 6: If Statements - Teaching Python to Make Decisions - 30 Days of Python Challenge](https://dev.to/sanaipei001/day-6-if-statements-teaching-python-to-make-decisions-30-days-of-python-challenge-4hl1)
+- [Terminal Resume - ssh.akshaygupta.live](https://dev.to/akshay_gupta/terminal-resume-sshakshayguptalive-3mbk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
