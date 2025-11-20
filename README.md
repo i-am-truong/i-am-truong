@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [5 APIs Every Indie Hacker Needs for Their MVP](https://dev.to/olams/5-apis-every-indie-hacker-needs-for-their-mvp-197a)
 - [Building a Monte Carlo Risk Engine in PyTorch: Pricing, xVA, Exposure Simulation &amp; Wrong-Way Risk](https://dev.to/konstantin_e_ca6078bb6a2/building-a-monte-carlo-risk-engine-in-pytorch-pricing-xva-exposure-simulation-wrong-way-risk-24e5)
 - [🤯 Dudas, vueltas y un café frío](https://dev.to/laumontironi/dudas-vueltas-y-un-cafe-frio-32jk)
 - [Trysil - API REST made simple](https://dev.to/davidlastrucci/trysil-api-rest-made-simple-40j1)
 - [Nigeria&#39;s Tax Reform 2025: What It Means for You &lpar;And Why TaxEngine Changes Everything&rpar;](https://dev.to/iamcymentho/nigerias-tax-reform-2025-what-it-means-for-you-and-why-taxengine-changes-everything-fll)
-- [🌱La maternidad, la pausa laboral… y un clic](https://dev.to/laumontironi/la-maternidad-la-pausa-laboral-y-un-clic-476p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
