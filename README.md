@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Making Chaos Conversational: A Beginner-Friendly Guide to the LitmusChaos MCP Server](https://dev.to/litmus-chaos/making-chaos-conversational-a-beginner-friendly-guide-to-the-litmuschaos-mcp-server-2ia)
-- [TDD Tests Assumptions, Not Just Code](https://dev.to/stevenstuartm/tdd-tests-assumptions-not-just-code-3oa7)
-- [Databricks Implementation: Best Practices for Data Teams](https://dev.to/noahsmith5/databricks-implementation-best-practices-for-data-teams-47eh)
-- [AI Code Generation Requires the Skills It Promises to Replace](https://dev.to/stevenstuartm/ai-code-generation-requires-the-skills-it-promises-to-replace-5c3)
-- [Agile Works When People Align, Agree, and Deliver](https://dev.to/stevenstuartm/agile-works-when-people-align-agree-and-deliver-2ppl)
+- [Modern Web Design Styles Every Frontend Developer Must Know &lpar;2025 Guide&rpar;](https://dev.to/homayounmmdy/modern-web-design-styles-every-frontend-developer-must-know-2025-guide-1ijl)
+- [BetterStructureSql - Clean Database Schema Dumps for Rails &lpar;Beta&rpar;](https://dev.to/sebyx07/betterstructuresql-clean-database-schema-dumps-for-rails-beta-120j)
+- [Congrats to the 2025 Hacktoberfest Writing Challenge Winners!](https://dev.to/devteam/congrats-to-the-2025-hacktoberfest-writing-challenge-winners-1hpn)
+- [AI vs Human Language Skills: What Will Matter Most in Global Workplaces?](https://dev.to/briansmith2/ai-vs-human-language-skills-what-will-matter-most-in-global-workplaces-235p)
+- [Blazor and Microsoft&#39;s UI Framework Track Record](https://dev.to/stevenstuartm/blazor-and-microsofts-ui-framework-track-record-2fpc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
