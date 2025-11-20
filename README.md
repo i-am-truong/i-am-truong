@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Integrating Machine Learning into .NET Healthcare Apps](https://dev.to/evawilson01/integrating-machine-learning-into-net-healthcare-apps-113h)
+- [THE PURPOSE OF HUMAN LIFE—A WALK THROUGH THE HOUSE OF BEING](https://dev.to/thinking_healer/the-purpose-of-human-life-a-walk-through-the-house-of-being-5dim)
 - [Wearable Tech: How Health and Fitness Devices Are Getting Smarter](https://dev.to/tehreem_seorankhive_6c6ea/wearable-tech-how-health-and-fitness-devices-are-getting-smarter-27oo)
 - [C# TextReader Tutorial: Read Text Files Easily with Real Examples](https://dev.to/suraj_kumar_fb57ae0928df2/c-textreader-tutorial-read-text-files-easily-with-real-examples-gh9)
 - [How AI Discovers Your MCP Tools?](https://dev.to/ndabene/how-ai-discovers-your-mcp-tools-obh)
-- [Stop Googling Commands: The 3 Best AI Tools for Linux Help in 2025](https://dev.to/alldaylinux/stop-googling-commands-the-3-best-ai-tools-for-linux-help-in-2025-92i)
-- [Why I Built Lens Browser: A Privacy-First Alternative in a World of Data Harvesting](https://dev.to/cas8398/why-i-built-lens-browser-a-privacy-first-alternative-in-a-world-of-data-harvesting-5and)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
