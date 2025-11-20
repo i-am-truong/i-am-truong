@@ -123,8 +123,8 @@ Python                   1 repo              █░░░░░░░░░░�
 - [Testing the new AI Cover Art](https://dev.to/mileswk/testing-the-new-ai-cover-art-7cj)
 - [Are You Using Hexagonal Architecture, or Just Dependency Injection?](https://dev.to/stevenstuartm/are-you-using-hexagonal-architecture-or-just-dependency-injection-29ja)
 - [What is your most cursed dev practice?](https://dev.to/gamelord2011/what-is-your-most-cursed-dev-practice-26ja)
-- [DepShield: Cut Your Node.js Bundle Size by 30-40% in 5 Seconds](https://dev.to/tisankan/depshield-cut-your-nodejs-bundle-size-by-30-40-in-5-seconds-2mof)
-- [Agentic AI Development with Kiro: From Zero to SaaS Platform](https://dev.to/aws-builders/agentic-ai-development-with-kiro-from-zero-to-saas-platform-30d6)
+- [Stop Forcing REST onto Domain-Driven Architectures](https://dev.to/stevenstuartm/stop-forcing-rest-onto-domain-driven-architectures-1k6)
+- [Single-Minded Focus Atrophies Everything Else](https://dev.to/stevenstuartm/single-minded-focus-atrophies-everything-else-5ggf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
