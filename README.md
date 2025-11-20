@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [LifeHub - AI Challenge for Cross-Platform Apps - Hot Design Showcase](https://dev.to/samarth28/lifehub-ai-challenge-for-cross-platform-apps-hot-design-showcase-215l)
-- [Introduction to the Confluent REST Proxy](https://dev.to/jumptotech/introduction-to-the-confluent-rest-proxy-1ccl)
-- [From 20 to 24 LTS: Safe Way to Upgrade Ubuntu on DigitalOcean](https://dev.to/tegos/from-20-to-24-lts-safe-way-to-upgrade-ubuntu-on-digitalocean-4gb)
-- [5 APIs Every Indie Hacker Needs for Their MVP](https://dev.to/olams/5-apis-every-indie-hacker-needs-for-their-mvp-197a)
-- [Building a Monte Carlo Risk Engine in PyTorch: Pricing, xVA, Exposure Simulation &amp; Wrong-Way Risk](https://dev.to/konstantin_e_ca6078bb6a2/building-a-monte-carlo-risk-engine-in-pytorch-pricing-xva-exposure-simulation-wrong-way-risk-24e5)
+- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-2log)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 4 - &#39;Inglourious Basterds’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-4-inglourious-basterds-55pa)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-12hn)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-2n0c)
+- [Mr Sunday Movies: Biggest Disney Bombs: The Sorcerer&#39;s Apprentice - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-biggest-disney-bombs-the-sorcerers-apprentice-caravan-of-garbage-2pjn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
