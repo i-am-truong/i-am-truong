@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 2: Storing Information with Variables - 30 Days of Python Challenge](https://dev.to/sanaipei001/day-2-storing-information-with-variables-30-days-of-python-challenge-1oep)
-- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-3an2)
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-1ddc)
-- [Day 1: My First Python Print Statement - 30 Days of Python Challenge](https://dev.to/sanaipei001/day-1-my-first-python-print-statement-30-days-of-python-challenge-436)
-- [Validate JSON Using PHP](https://dev.to/pineapple_26/validate-json-using-php-nfj)
+- [🚀 A Complete Guide to Rendering Agents &amp; Workflows Using Agent Framework Dev UI](https://dev.to/sayen_vv_cc7f3d9662139d60/a-complete-guide-to-rendering-agents-workflows-using-agent-framework-dev-ui-2jgl)
+- [Day 3: Type Casting - Transforming Data Types - 30 Days of Python Challenge](https://dev.to/sanaipei001/day-3-type-casting-transforming-data-types-30-days-of-python-challenge-26ip)
+- [Saving Game Data in Unity — Part 4: SQLite](https://dev.to/rahul_barate_e965377330fe/saving-game-data-in-unity-part-4-sqlite-4mdd)
+- [I got so annoyed with AI coding assistants that I built my own.](https://dev.to/vmayorskiyac/i-got-so-annoyed-with-ai-coding-assistants-that-i-built-my-own-5dfa)
+- [Python Load Json From File](https://dev.to/pineapple_26/python-load-json-from-file-14i2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
