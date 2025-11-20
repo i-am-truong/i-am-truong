@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [High-Trust Teams Ship Faster: The Human Side of Engineering](https://dev.to/aris_georgatos/high-trust-teams-ship-faster-the-human-side-of-engineering-ndn)
-- [SynthID Explained: A Technical Deep Dive into DeepMind’s Invisible Watermarking System](https://dev.to/grenishrai/synthid-explained-a-technical-deep-dive-into-deepminds-invisible-watermarking-system-38n7)
-- [Technance.com و کارتل خوک‌ها: یک اکوسیستم کلاهبرداری دیجیتال](https://dev.to/cartel_of_pigs/technancecom-w-khrtl-khwkhh-ykh-khwsystm-khlhbrdry-dyjytl-250c)
-- [Padrões de projeto no front-end?](https://dev.to/layssadev/padroes-de-projeto-no-front-end-1pip)
-- [UTP Cat6 Patch cord,7*0.16 26AWG &lpar;CCA&rpar; 0.5m - Review](https://dev.to/innocomltd/utp-cat6-patch-cord7016-26awg-cca-05m-review-5did)
+- [TDD Tests Assumptions, Not Just Code](https://dev.to/stevenstuartm/tdd-tests-assumptions-not-just-code-3oa7)
+- [Databricks Implementation: Best Practices for Data Teams](https://dev.to/noahsmith5/databricks-implementation-best-practices-for-data-teams-47eh)
+- [AI Code Generation Requires the Skills It Promises to Replace](https://dev.to/stevenstuartm/ai-code-generation-requires-the-skills-it-promises-to-replace-5c3)
+- [Agile Works When People Align, Agree, and Deliver](https://dev.to/stevenstuartm/agile-works-when-people-align-agree-and-deliver-2ppl)
+- [I get why people use stuff like squarespace to make websites.](https://dev.to/chezeburgur/i-get-why-people-use-stuff-like-squarespace-to-make-websites-23ek)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
