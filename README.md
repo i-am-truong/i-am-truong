@@ -120,13 +120,13 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Build with Nano Banana Pro, our Gemini 3 Pro Image model](https://dev.to/googleai/build-with-nano-banana-pro-our-gemini-3-pro-image-model-4gj7)
-- [Great news today: we&#39;ve finally launched a section featuring community projects built with hmpl-js. 
+- [What It Feels Like to Start Tech at 33 and Get Ignored](https://dev.to/bradleymatera/what-it-feels-like-to-start-tech-at-33-and-get-ignored-3b07)
+- [🌍 We are 14-year-old students from Valleyspur International School, Uganda, and we built a complete SDG website from scratch 😳🔥
 
-https://github.com/hmpl-language/projects](https://dev.to/anthonymax/great-news-today-weve-finally-launched-a-section-featuring-community-projects-built-with-3h8k)
-- [DragonMemory: Neural Sequence Compression for Production RAG](https://dev.to/damjan_akelj_be1aab4a715/dragonmemory-neural-sequence-compression-for-production-rag-54b6)
-- [Every system has an edge. Stand at the edge long enough and you realize the map was never the territory. Korzybski was onto something.](https://dev.to/gnomeman4201/every-system-has-an-edge-stand-at-the-edge-long-enough-and-you-realize-the-map-was-never-the-4hbf)
-- [Why Your Agile Team Might Be Building on Hope, Not Discipline](https://dev.to/stevenstuartm/why-your-agile-team-might-be-building-on-hope-not-discipline-1f88)
+Our website teaches what to do during war, shows safe locations on a live map, includes emergency call buttons, videos, voic](https://dev.to/mikekeith/we-are-14-year-old-students-from-valleyspur-international-school-uganda-and-we-built-a-complete-fod)
+- [Why JWTs Make Terrible Authorization Tokens](https://dev.to/stevenstuartm/why-jwts-make-terrible-authorization-tokens-3c8g)
+- [Text Based 1-on-1s are Effective](https://dev.to/stakiran/text-based-1-on-1s-are-effective-328d)
+- [The Architect’s Mindset: Structuring Data for Robust AI Pipelines](https://dev.to/onlineproxy/the-architects-mindset-structuring-data-for-robust-ai-pipelines-3lbn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
