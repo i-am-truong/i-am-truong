@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Playwright Quirks — waitForResponse](https://dev.to/rmarinsky/playwright-quirks-waitforresponse-21p6)
-- [shadcn/ui vs Ant Design vs MUI: A Modern React Design System Comparison](https://dev.to/codefalconx/design-system-comparison-matrix-562e)
-- [Let&#39;s learn Node.js](https://dev.to/brendon_oneill__/lets-learn-nodejs-50l2)
-- [Reducing Serialization Lag in Highload Go Systems — What Actually Works in Production](https://dev.to/devflex-pro/reducing-serialization-lag-in-highload-go-systems-what-actually-works-in-production-4kij)
-- [ATM Hacking: From Terminator 2 Fantasy to Red Team Reality](https://dev.to/d3one/atm-hacking-from-terminator-2-fantasy-to-red-team-reality-2gdj)
+- [Keeping Your GitHub Profile in Sync with Your Articles: Automating dev.to, Cosine.sh and More Platforms](https://dev.to/eleftheriabatsou/keeping-your-github-profile-in-sync-with-your-articles-automating-devto-cosinesh-and-more-4leh)
+- [Building a Bytecode-First Security Dashboard for Web3 &lpar;and Why ABI Doesn’t Matter&rpar;](https://dev.to/0xrazumovsky/building-a-bytecode-first-security-dashboard-for-web3-and-why-abi-doesnt-matter-59fj)
+- [How to Make a Budgeted, Responsive Website for an SME](https://dev.to/startup-consultant/how-to-make-a-budgeted-responsive-website-for-an-sme-24h0)
+- [Defensive Programming: A Guide to Building Resilient API Clients](https://dev.to/kimanikevin254/defensive-programming-a-guide-to-building-resilient-api-clients-10hj)
+- [Why you should stop writing long functions](https://dev.to/giftintech/why-you-should-stop-writing-long-functions-1588)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
