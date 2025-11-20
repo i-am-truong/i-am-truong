@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [7 Best Resources I Found to Learn Java &lpar;And How I Used Them to Get My First Dev Job&rpar;](https://dev.to/stack_overflowed/7-best-resources-i-found-to-learn-java-and-how-i-used-them-to-get-my-first-dev-job-484)
+- [Strings, Integers &amp; Lists — The Building Blocks of Python](https://dev.to/anidigitalhub/strings-integers-lists-the-building-blocks-of-python-2g8c)
 - [The 3 GitHub Projects I Recommend to Every Prompt Writer](https://dev.to/jaideepparashar/the-3-github-projects-i-recommend-to-every-prompt-writer-149n)
 - [Create, Debug, and Publish Firefox Extensions: A Full Developer Guide Step by Step](https://dev.to/m-a-h-b-u-b/create-debug-and-publish-firefox-extensions-a-full-developer-guide-step-by-step-48ln)
 - [Building Accessible Themes with Generative AI](https://dev.to/icodeforbananas/building-accessible-themes-with-generative-ai-4jm5)
-- [Understanding the All Ordinaries Index: Structure, Purpose, and Market Role](https://dev.to/evie_lawson_742ae9bd57133/understanding-the-all-ordinaries-index-structure-purpose-and-market-role-38i)
-- [Antigravity and Gemini3 Coding Test](https://dev.to/connectonion/antigravity-and-gemini3-coding-test-58jb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
