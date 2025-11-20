@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Making Chaos Conversational: A Beginner-Friendly Guide to the LitmusChaos MCP Server](https://dev.to/litmus-chaos/making-chaos-conversational-a-beginner-friendly-guide-to-the-litmuschaos-mcp-server-2ia)
 - [TDD Tests Assumptions, Not Just Code](https://dev.to/stevenstuartm/tdd-tests-assumptions-not-just-code-3oa7)
 - [Databricks Implementation: Best Practices for Data Teams](https://dev.to/noahsmith5/databricks-implementation-best-practices-for-data-teams-47eh)
 - [AI Code Generation Requires the Skills It Promises to Replace](https://dev.to/stevenstuartm/ai-code-generation-requires-the-skills-it-promises-to-replace-5c3)
 - [Agile Works When People Align, Agree, and Deliver](https://dev.to/stevenstuartm/agile-works-when-people-align-agree-and-deliver-2ppl)
-- [I get why people use stuff like squarespace to make websites.](https://dev.to/chezeburgur/i-get-why-people-use-stuff-like-squarespace-to-make-websites-23ek)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
