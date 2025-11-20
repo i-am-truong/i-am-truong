@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 40: Python Armstrong Numbers Finder, Detect Narcissistic Numbers in a Range with Digit Power Sum](https://dev.to/shahrouzlogs/day-40-python-armstrong-numbers-finder-detect-narcissistic-numbers-in-a-range-with-digit-power-4igb)
+- [Animation girl](https://dev.to/preetha_vaishnavi_2b82358/animation-girl-5e8a)
+- [Daily Tech News Roundup - 2025-11-20](https://dev.to/atharvshinde2004/daily-tech-news-roundup-2025-11-20-5306)
+- [CSS Wine Bottle](https://dev.to/preetha_vaishnavi_2b82358/css-wine-bottle-1k0l)
 - [7 Best Resources I Found to Learn Java &lpar;And How I Used Them to Get My First Dev Job&rpar;](https://dev.to/stack_overflowed/7-best-resources-i-found-to-learn-java-and-how-i-used-them-to-get-my-first-dev-job-484)
-- [Strings, Integers &amp; Lists — The Building Blocks of Python](https://dev.to/anidigitalhub/strings-integers-lists-the-building-blocks-of-python-2g8c)
-- [The 3 GitHub Projects I Recommend to Every Prompt Writer](https://dev.to/jaideepparashar/the-3-github-projects-i-recommend-to-every-prompt-writer-149n)
-- [Create, Debug, and Publish Firefox Extensions: A Full Developer Guide Step by Step](https://dev.to/m-a-h-b-u-b/create-debug-and-publish-firefox-extensions-a-full-developer-guide-step-by-step-48ln)
-- [Building Accessible Themes with Generative AI](https://dev.to/icodeforbananas/building-accessible-themes-with-generative-ai-4jm5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
