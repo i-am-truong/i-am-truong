@@ -120,11 +120,13 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Build with Nano Banana Pro, our Gemini 3 Pro Image model](https://dev.to/googleai/build-with-nano-banana-pro-our-gemini-3-pro-image-model-4gj7)
+- [Great news today: we&#39;ve finally launched a section featuring community projects built with hmpl-js. 
+
+https://github.com/hmpl-language/projects](https://dev.to/anthonymax/great-news-today-weve-finally-launched-a-section-featuring-community-projects-built-with-3h8k)
+- [DragonMemory: Neural Sequence Compression for Production RAG](https://dev.to/damjan_akelj_be1aab4a715/dragonmemory-neural-sequence-compression-for-production-rag-54b6)
+- [Every system has an edge. Stand at the edge long enough and you realize the map was never the territory. Korzybski was onto something.](https://dev.to/gnomeman4201/every-system-has-an-edge-stand-at-the-edge-long-enough-and-you-realize-the-map-was-never-the-4hbf)
 - [Why Your Agile Team Might Be Building on Hope, Not Discipline](https://dev.to/stevenstuartm/why-your-agile-team-might-be-building-on-hope-not-discipline-1f88)
-- [SDG Peace &amp; War Safety Awareness Website | By Michael &amp; Gabriel](https://dev.to/michaelssekabanja14maker/sdg-peace-war-safety-awareness-website-by-michael-gabriel-2on3)
-- [#A Senior Developer Challenge](https://dev.to/liquidcode/a-senior-developer-challenge-403a)
-- [The Secret Life of Python: Bytecode Secrets - What Python Really Runs](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-bytecode-secrets-what-python-really-runs-328f)
-- [Terraform Was the Bridge, Not the Destination](https://dev.to/stevenstuartm/terraform-was-the-bridge-not-the-destination-15pl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
