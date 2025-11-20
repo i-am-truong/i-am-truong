@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What Is A Codec? Full Codec Comparison Guide [2025 Updated]](https://dev.to/red5/what-is-a-codec-full-codec-comparison-guide-2025-updated-35gl)
-- [Data Protection in Blockchain | CCPA Compliance](https://dev.to/umang_suthar_9bad6f345a8a/data-protection-in-blockchain-ccpa-compliance-2bee)
-- [How I vibe code: Improving my site design with Goose and Gemini 3](https://dev.to/debs_obrien/how-i-vibe-code-improving-my-site-design-with-goose-and-gemini-3-2a3k)
-- [5 Quick DevEx Audit Wins](https://dev.to/linkbenjamin/5-quick-devex-audit-wins-1h7l)
-- [Earn Big Through Bug Bounties: A Developer’s Guide to Ethical Hacking](https://dev.to/softwaredeveloperhub01/earn-big-through-bug-bounties-a-developers-guide-to-ethical-hacking-4ii9)
+- [Why RAG and Agent Systems Are Unstable — A Minimal Deterministic Planner POC](https://dev.to/yuer/why-rag-and-agent-systems-are-unstable-a-minimal-deterministic-planner-poc-3gfb)
+- [Most Automation Isn&#39;t Really Automation](https://dev.to/michael_zelensky/most-automation-isnt-really-automation-39l)
+- [[Boost]](https://dev.to/marabesi/-4ah1)
+- [Akuna OA — “Not Hard, Just Don’t Mess Up](https://dev.to/net_programhelp_e160eef28/akuna-oa-not-hard-just-dont-mess-up-34jo)
+- [Sign Android apps using 1Password](https://dev.to/devtronic/sign-android-apps-using-1password-1meh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
