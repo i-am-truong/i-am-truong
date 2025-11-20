@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The 3 GitHub Projects I Recommend to Every Prompt Writer](https://dev.to/jaideepparashar/the-3-github-projects-i-recommend-to-every-prompt-writer-149n)
+- [Create, Debug, and Publish Firefox Extensions: A Full Developer Guide Step by Step](https://dev.to/m-a-h-b-u-b/create-debug-and-publish-firefox-extensions-a-full-developer-guide-step-by-step-48ln)
 - [Building Accessible Themes with Generative AI](https://dev.to/icodeforbananas/building-accessible-themes-with-generative-ai-4jm5)
 - [Understanding the All Ordinaries Index: Structure, Purpose, and Market Role](https://dev.to/evie_lawson_742ae9bd57133/understanding-the-all-ordinaries-index-structure-purpose-and-market-role-38i)
 - [Antigravity and Gemini3 Coding Test](https://dev.to/connectonion/antigravity-and-gemini3-coding-test-58jb)
-- [STN Hackathon 2025](https://dev.to/prajwal_up/stn-hackathon-2025-ghg)
-- [Server Side Rendering Explained for People Who Have Never Heard of It](https://dev.to/rijultp/server-side-rendering-explained-for-people-who-have-never-heard-of-it-1pef)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
