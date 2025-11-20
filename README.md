@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Surface-First Schema Design](https://dev.to/dileeparanawake/surface-first-schema-design-ekp)
-- [That One CSS Gap That Tricked Me For a Week &lpar;And The Simple Fix&rpar;](https://dev.to/zaheer_ahmed_afa544c30811/that-one-css-gap-that-tricked-me-for-a-week-and-the-simple-fix-212j)
-- [Developer Tooling #008](https://dev.to/patinthehat/developer-tooling-008-4p1m)
-- [Building 1000 Candles: A Digital Memorial That Taught Me About Scale, Optimization, and Remembrance](https://dev.to/chrisbuildsonline/building-1000-candles-a-digital-memorial-that-taught-me-about-scale-optimization-and-remembrance-3ok3)
-- [GA4 Custom Funnels: 7 Templates That Actually Tell You Something Useful](https://dev.to/synergistdigitalmedia/ga4-custom-funnels-7-templates-that-actually-tell-you-something-useful-2l2c)
+- [Big BOMB! 💣 PWA, Service Worker and Push Notification in WebForms Core 2](https://dev.to/elanatframework/big-bomb-pwa-service-worker-and-push-notification-in-webforms-core-2-18ca)
+- [**Uncovering Hidden Patterns: The Enigmatic World of Generat](https://dev.to/drcarlosruizviquez/uncovering-hidden-patterns-the-enigmatic-world-of-generat-3h09)
+- [SC-SC UPC SM 1MT PATCH CORD - Review](https://dev.to/innocomltd/sc-sc-upc-sm-1mt-patch-cord-review-2fdh)
+- [Go tools](https://dev.to/aniket_purohit/go-tools-1jh)
+- [**Revolutionizing Model Monitoring with WeaveML: A Closer Lo](https://dev.to/drcarlosruizviquez/revolutionizing-model-monitoring-with-weaveml-a-closer-lo-2bij)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
