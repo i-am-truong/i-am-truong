@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How We Built The First Open-Source Rust Core Agentic AI Framework](https://dev.to/yeahiasarker/how-we-built-the-first-open-source-rust-core-agentic-ai-framework-3kfc)
-- [Exploring Extension Blocks in .NET 10](https://dev.to/rasheedmozaffar/exploring-extension-blocks-in-net-10-ijo)
-- [MP 1.300/2025: Entenda os Prazos e Custos para Retornar ao Mercado Cativo](https://dev.to/ava_mendes/mp-13002025-entenda-os-prazos-e-custos-para-retornar-ao-mercado-cativo-2kb6)
-- [Unity and Fortnite: What Does This Integration Mean for Game Developers?](https://dev.to/guardingpearsoftware/unity-and-fortnite-what-does-this-integration-mean-for-game-developers-1kai)
-- [AI Semantic API Search: Find Any API Faster — No Exact Keywords Needed](https://dev.to/eleanor_fairfax_5ce95399d/ai-semantic-api-search-find-any-api-faster-no-exact-keywords-needed-343f)
+- [Workflow Automation Tools A Complete Guide to Features Pricing Pros and Cons](https://dev.to/alifar/workflow-automation-tools-a-complete-guide-to-features-pricing-pros-and-cons-1gf2)
+- [🚇 I Built a Mini Metro–Style Multiplayer Game on Rune &lpar;And Learned a Lot About Real-Time Sync&rpar;](https://dev.to/asaleg/i-built-a-mini-metro-style-multiplayer-game-on-rune-and-learned-a-lot-about-real-time-sync-1330)
+- [Inside Cloudflare&#39;s November 18, 2025 Outage: A Deep Dive into What Broke the Internet &lpar;Temporarily&rpar;](https://dev.to/om_shree_0709/inside-cloudflares-november-18-2025-outage-a-deep-dive-into-what-broke-the-internet-temporarily-2182)
+- [Automating Code Quality: Stop Debating Style and Start Coding](https://dev.to/deftoexplore/automating-code-quality-stop-automating-code-quality-stop-debating-style-and-start-coding-1mo1)
+- [When the Internet Broke: What Really Happened During the Cloudflare Outage](https://dev.to/roan911/when-the-internet-broke-what-really-happened-during-the-cloudflare-outage-4lfo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
