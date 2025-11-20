@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Introducing the LimeDB TUI: Enhanced Cluster Management from Your Terminal](https://dev.to/namanvashistha/introducing-the-limedb-tui-enhanced-cluster-management-from-your-terminal-13bf)
-- [⭐ 5 Power Mindsets for Tech Interviews](https://dev.to/cathylai/5-power-mindsets-for-tech-interviews-1cad)
-- [Coding Challenge Practice - Question 60](https://dev.to/tomivan/coding-challenge-practice-question-60-c02)
-- [The January Vanishing Act: Why Your Holiday Customers Disappear &lpar;And How to Stop It&rpar;](https://dev.to/synergistdigitalmedia/the-january-vanishing-act-why-your-holiday-customers-disappear-and-how-to-stop-it-2030)
-- [The Tool I Finally Built to Escape My Terminal Chaos](https://dev.to/madsendev/the-tool-i-finally-built-to-escape-my-terminal-chaos-37cl)
+- [Mutex and Lock Guard in C++](https://dev.to/min38/mutex-and-lock-guard-in-c-17i9)
+- [My Open-Source Contribution - Working on TypeScript-ESLint](https://dev.to/oleksandrakordonets/my-open-source-contribution-working-on-typescript-eslint-gmd)
+- [API Gateway vs Service Mesh: Beyond the North–South/East–West Myth](https://dev.to/rajkundalia/api-gateway-vs-service-mesh-beyond-the-north-southeast-west-myth-2mpg)
+- [CancellationToken: The Complete Technical Guide for .NET Developers](https://dev.to/iron-software/-cancellationtoken-the-complete-technical-guide-for-net-developers-1h7p)
+- [Implementing SCA tools in large legacy Android Project](https://dev.to/hyuwah/implementing-sca-tools-in-large-legacy-android-project-ije)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
