@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why RAG and Agent Systems Are Unstable — A Minimal Deterministic Planner POC](https://dev.to/yuer/why-rag-and-agent-systems-are-unstable-a-minimal-deterministic-planner-poc-3gfb)
-- [Most Automation Isn&#39;t Really Automation](https://dev.to/michael_zelensky/most-automation-isnt-really-automation-39l)
-- [[Boost]](https://dev.to/marabesi/-4ah1)
-- [Akuna OA — “Not Hard, Just Don’t Mess Up](https://dev.to/net_programhelp_e160eef28/akuna-oa-not-hard-just-dont-mess-up-34jo)
-- [Sign Android apps using 1Password](https://dev.to/devtronic/sign-android-apps-using-1password-1meh)
+- [JSON Pretty Print Using Python - With Examples](https://dev.to/pineapple_26/json-pretty-print-using-python-with-examples-12ha)
+- [Assessing TOON Token Savings in an MCP Server](https://dev.to/trknhr/assessing-toon-token-savings-in-an-mcp-server-2b3i)
+- [How to host Neo4J on EC2 using Docker](https://dev.to/foundanand/how-to-host-neo4j-on-ec2-using-docker-2dem)
+- [Metabase 57: Dark mode 🌑 plus stronger governance and tighter workflows](https://dev.to/metabase/metabase-57-dark-mode-plus-stronger-governance-and-tighter-workflows-3b6n)
+- [8 Useful Coding Tools That Will Instantly Improve Your Dev Game 🔥🚀](https://dev.to/madza/8-useful-coding-tools-that-will-instantly-improve-your-dev-game-2fgo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
