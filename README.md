@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [File 02: Automation Bias](https://dev.to/cnastasi/file-02-automation-bias-4ili)
 - [Ethereum’s Trustless Manifesto, MetaMask Multichain Accounts, RIP-7560 Explained, x402 Protocol](https://dev.to/etherspot/ethereums-trustless-manifesto-metamask-multichain-accounts-rip-7560-explained-x402-protocol-3cl4)
 - [Statistics Day 6: Your First Data Science Superpower: Feature Selection with Correlation &amp; Variance](https://dev.to/brains_behind_bots/statistics-day-6-your-first-data-science-superpower-feature-selection-with-correlation-variance-5eeb)
 - [WordPress to Hugo: Lightning Fast Sites in 2025](https://dev.to/pascal_cescato_692b7a8a20/wordpress-to-hugo-lightning-fast-sites-in-2025-48pa)
 - [Centralized EKS monitoring across multiple AWS accounts](https://dev.to/hatedabamboo/centralized-eks-monitoring-across-multiple-aws-accounts-3cad)
-- [A Step-by-Step Guide on How to Integrate AI Into Your Existing Health App](https://dev.to/shikhabaldev/a-step-by-step-guide-on-how-to-integrate-ai-into-your-existing-health-app-2cll)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
