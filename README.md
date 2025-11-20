@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Big BOMB! 💣 PWA, Service Worker and Push Notification in WebForms Core 2](https://dev.to/elanatframework/big-bomb-pwa-service-worker-and-push-notification-in-webforms-core-2-18ca)
-- [**Uncovering Hidden Patterns: The Enigmatic World of Generat](https://dev.to/drcarlosruizviquez/uncovering-hidden-patterns-the-enigmatic-world-of-generat-3h09)
-- [SC-SC UPC SM 1MT PATCH CORD - Review](https://dev.to/innocomltd/sc-sc-upc-sm-1mt-patch-cord-review-2fdh)
-- [Go tools](https://dev.to/aniket_purohit/go-tools-1jh)
-- [**Revolutionizing Model Monitoring with WeaveML: A Closer Lo](https://dev.to/drcarlosruizviquez/revolutionizing-model-monitoring-with-weaveml-a-closer-lo-2bij)
+- [High-Trust Teams Ship Faster: The Human Side of Engineering](https://dev.to/aris_georgatos/high-trust-teams-ship-faster-the-human-side-of-engineering-ndn)
+- [SynthID Explained: A Technical Deep Dive into DeepMind’s Invisible Watermarking System](https://dev.to/grenishrai/synthid-explained-a-technical-deep-dive-into-deepminds-invisible-watermarking-system-38n7)
+- [Technance.com و کارتل خوک‌ها: یک اکوسیستم کلاهبرداری دیجیتال](https://dev.to/cartel_of_pigs/technancecom-w-khrtl-khwkhh-ykh-khwsystm-khlhbrdry-dyjytl-250c)
+- [Padrões de projeto no front-end?](https://dev.to/layssadev/padroes-de-projeto-no-front-end-1pip)
+- [UTP Cat6 Patch cord,7*0.16 26AWG &lpar;CCA&rpar; 0.5m - Review](https://dev.to/innocomltd/utp-cat6-patch-cord7016-26awg-cca-05m-review-5did)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
