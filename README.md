@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Quick Recap: Design Patterns in Java &lpar;Real Examples&rpar;](https://dev.to/codeintention/quick-recap-design-patterns-in-java-real-examples-4p75)
-- [𝗪𝗵𝗲𝗻 𝗮 “𝗦𝗺𝗮𝗹𝗹” 𝗔𝗜 𝗠𝗼𝗱𝗲𝗹 𝗣𝘂𝘀𝗵𝗲𝘀 𝗬𝗼𝘂𝗿 𝗛𝗮𝗿𝗱𝘄𝗮𝗿𝗲 𝘁𝗼 𝗜𝘁𝘀 𝗟𝗶𝗺𝗶𝘁𝘀](https://dev.to/richa-parekh/-1lkn)
-- [Google Play Store Analysis: Data-Driven Insights for App Launch Strategy](https://dev.to/ziyad_elouahdi_e0d78d0b21/google-play-store-analysis-data-driven-insights-for-app-launch-strategy-1o0f)
-- [QuickJot: A Micro-Note Network Built for Frictionless Idea Sharing](https://dev.to/hejhdiss/quickjot-a-micro-note-network-built-for-frictionless-idea-sharing-1l0o)
-- [Expert Plumbing &amp; Heating Services in Bolton](https://dev.to/john_tonton_9500f85332169/expert-plumbing-heating-services-in-bolton-2170)
+- [Quick Recap: Caching in Java](https://dev.to/codeintention/quick-recap-caching-in-java-3k5k)
+- [Hack a Windows System Using PowerShell](https://dev.to/scofieldidehen/hack-a-windows-system-using-powershell-67e)
+- [Slim shock : the index file](https://dev.to/xwero/slim-shock-the-index-file-1h8d)
+- [De Ubuntu a Windows: Documentando el proceso de creación de un USB booteable](https://dev.to/edhersan/de-ubuntu-a-windows-documentando-el-proceso-de-creacion-de-un-usb-booteable-3aeo)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-2ilc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
