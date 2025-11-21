@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SLS Copilot in Practice: Building a Flexible Data Infrastructure for LLM Applications with SLS](https://dev.to/observabilityguy/sls-copilot-in-practice-building-a-flexible-data-infrastructure-for-llm-applications-with-sls-n94)
+- [1&rpar; Describe the Python Selenium Architecture in Detail And What is the Significance of the Python Virtual Environment?](https://dev.to/boobalan_rk_bce450f873037/1-describe-the-python-selenium-architecture-in-detail-and-what-is-the-significance-of-the-python-19la)
+- [How To Build Money Machines With AI While Everyone Else Scrolls TikTok](https://dev.to/numbpill3d/how-to-build-money-machines-with-ai-while-everyone-else-scrolls-tiktok-1m60)
+- [Angular 21 Released: What’s New &amp; Developer Guide](https://dev.to/mohitdecodes/angular-21-released-whats-new-developer-guide-3lm5)
 - [How Impeller Is Transforming Flutter UI Rendering in 2026](https://dev.to/eira-wexford/how-impeller-is-transforming-flutter-ui-rendering-in-2026-3dpd)
-- [Meet Quesby: A Privacy-First Eleventy Starter That Stays Out of Your Way](https://dev.to/quesby/meet-quesby-a-privacy-first-eleventy-starter-that-stays-out-of-your-way-4e6)
-- [Transforming Figma Designs into Flutter Code Using AI](https://dev.to/eira-wexford/transforming-figma-designs-into-flutter-code-using-ai-10do)
-- [TOON: The Token Ninja](https://dev.to/g33kzone/toon-the-token-ninja-3134)
-- [Portfolio Management for Macro Hedging on AWS](https://dev.to/aws-builders/portfolio-management-for-macro-hedging-on-aws-h5l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
