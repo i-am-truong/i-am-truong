@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I’m Building a Racing-Analysis Web App from Raw Telemetry](https://dev.to/ibrahimpima/how-im-building-a-racing-analysis-web-app-from-raw-telemetry-59g)
 - [Lombok + Gradle + IntelliJ &lpar;Java 21&rpar; — Guia rápido](https://dev.to/jonathasrochadesouza/lombok-gradle-intellij-java-21-guia-rapido-5e17)
 - [A practical guide to refactoring complex database queries in Laravel](https://dev.to/bytehire/a-practical-guide-to-refactoring-complex-database-queries-in-laravel-3lf7)
+- [How Becoming a Parent Helped Me Notice the Small Things](https://dev.to/eli-sanderson/how-becoming-a-parent-helped-me-notice-the-small-things-i79)
 - [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-2llf)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-3k2a)
-- [Asking n People &lpar;n Generative AI Models&rpar; Simultaneously](https://dev.to/stakiran/asking-n-people-n-generative-ai-models-simultaneously-2ef7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
