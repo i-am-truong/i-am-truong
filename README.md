@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-1o32)
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-5dn7)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-1blk)
-- [Mr Sunday Movies: Biggest Disney Bombs: The Sorcerer&#39;s Apprentice - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-biggest-disney-bombs-the-sorcerers-apprentice-caravan-of-garbage-1693)
-- [Async Validation in Angular Signal Forms &lpar;Complete Guide&rpar;](https://dev.to/brianmtreese/async-validation-in-angular-signal-forms-complete-guide-4f72)
+- [Branding Case Study: How Neil Patel Turned His Name into the Ultimate SEO Tool](https://dev.to/rezapurnama/branding-case-study-how-neil-patel-turned-his-name-into-the-ultimate-seo-tool-5foo)
+- [Introduction to Python Metaclasses](https://dev.to/pipinstalled/introduction-to-python-metaclasses-5811)
+- [From a $440M Exit to Building the &quot;GitHub for IP&quot;: The Story Protocol Journey](https://dev.to/roan911/from-a-440m-exit-to-building-the-github-for-ip-the-story-protocol-journey-32hb)
+- [JavaScript Closures Finally Clicked!](https://dev.to/siddheshcodes/javascript-closures-finally-clicked-hb4)
+- [Architecting Resilient Caching in Symfony: Beyond get&lpar;&rpar; and set&lpar;&rpar;](https://dev.to/mattleads/architecting-resilient-caching-in-symfony-beyond-get-and-set-3kdm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
