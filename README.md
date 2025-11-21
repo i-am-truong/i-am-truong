@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI has to go a long way to take a frontend developer job](https://dev.to/shreyvijayvargiya/ai-has-to-go-a-long-way-to-take-a-frontend-developer-job-gme)
+- [Day 33 of My AI &amp; Data Mastery Journey: From Python to Generative AI](https://dev.to/nitinbhatt46/day-33-of-my-ai-data-mastery-journey-from-python-to-generative-ai-1787)
+- [Vibe Coding vs No-Code: Why This AI-Driven Approach Is a Game-Changer](https://dev.to/websubmit_12/vibe-coding-vs-no-code-why-this-ai-driven-approach-is-a-game-changer-1coo)
+- [How to Quickly Access Nano Banana Pro via Replicate with Python](https://dev.to/xylar/how-to-quickly-access-nano-banana-pro-via-replicate-with-python-53f8)
 - [The Ultimate MCP Guide for Vibe Coding: What 1000+ Reddit Developers Actually Use &lpar;2025 Edition&rpar;](https://dev.to/yigit-konur/the-ultimate-mcp-guide-for-vibe-coding-what-1000-reddit-developers-actually-use-2025-edition-11ie)
-- [Bracelet Project](https://dev.to/preetha_vaishnavi_2b82358/bracelet-project-1gef)
-- [How to Choose the Right Party Wall Surveyor](https://dev.to/jason-edworthy/how-to-choose-the-right-party-wall-surveyor-5d96)
-- [Using AWS Like A Pro: Best Practices From Solutions Architects](https://dev.to/john_asmith_bdd2c6cdfa0/using-aws-like-a-pro-best-practices-from-solutions-architects-1kcg)
-- [Laravel Testing Made Simple with Pest: Write Clean, Readable, and Fast Tests](https://dev.to/vatsalacharya/laravel-testing-made-simple-with-pest-write-clean-readable-and-fast-tests-2b44)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
