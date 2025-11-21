@@ -120,13 +120,13 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Monitor Cost and Latency in Production LLM Systems](https://dev.to/kamya_shah_e69d5dd78f831c/how-to-monitor-cost-and-latency-in-production-llm-systems-fn6)
 - [Git 3.0 will use &quot;main&quot; as the official new default branch
 
 https://www.phoronix.com/news/Git-2.52-Released](https://dev.to/ben/git-30-will-use-main-as-the-official-new-default-branch-2e7g)
 - [INNER JOIN and LEFT OUTER JOIN in MongoDB &lpar;with $lookup and $unwind&rpar;](https://dev.to/franckpachot/inner-join-and-left-outer-join-in-mongodb-with-lookup-and-unwind-2ge4)
 - [How I Deployed a Next.js App to AWS S3 &amp; CloudFront](https://dev.to/bi3wa3/how-i-deployed-a-nextjs-app-to-aws-s3-cloudfront-simple-setup-ee6)
 - [Lessons learned and Retrospective from my first 100 signups on HomePageAgain](https://dev.to/chimpton/lessons-learned-and-retrospective-from-my-first-100-signups-on-homepageagain-3fd6)
-- [Refactoring LimeDB Proxmox LXC Setup for Enhanced Management, Reliability, and Update Capabilities](https://dev.to/namanvashistha/refactoring-limedb-proxmox-lxc-setup-for-enhanced-management-reliability-and-update-capabilities-45gh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
