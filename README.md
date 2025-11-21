@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Built a Self-Feeding SEO Engine with GPT-4o Vision + Next.js 15](https://dev.to/paul_row226/how-i-built-a-self-feeding-seo-engine-with-gpt-4o-vision-nextjs-15-55n5)
+- [Custom Hook - UseState](https://dev.to/zeeshanali0704/custom-hook-usestate-53oe)
+- [AI AIR APP — Connect Your Air Quality Sensor &amp; See Your Data](https://dev.to/abhishek_797147de6d342563/ai-air-app-connect-your-air-quality-sensor-see-your-data-3d0c)
 - [Improving AI Email Classification Accuracy Through Prompt Engineering](https://dev.to/_877737de2d34ff8c6265/improving-ai-email-classification-accuracy-through-prompt-engineering-46lh)
-- [7 Dumb things I&#39;d do if I started a software company](https://dev.to/ivypuckett/7-dumb-things-id-do-if-i-started-a-software-company-4khi)
-- [A Complete Guide to Handling Missing Values in R: Concepts, Pitfalls, and Practical Imputation with mice](https://dev.to/dipti_moryani_08e62702314/a-complete-guide-to-handling-missing-values-in-r-concepts-pitfalls-and-practical-imputation-with-3b7l)
-- [How I Built My YouTube Title Generator &lpar;from Idea to AI Tool&rpar;](https://dev.to/samantcoursey/how-i-built-my-youtube-title-generator-from-idea-to-ai-tool-545n)
-- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-9el)
+- [5 Programming Secrets Learned The Hard Way &lpar;That AI Still Can&#39;t Teach You&rpar;](https://dev.to/shalinibhavi525sudo/5-programming-secrets-learned-the-hard-way-that-ai-still-cant-teach-you-3cf6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
