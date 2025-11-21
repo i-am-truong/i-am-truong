@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [When a Trillion Dollars Moves: How Saudi Arabia&#39;s Mega-Investment Will Shake Global Currency Markets](https://dev.to/dhis_is_jj/when-a-trillion-dollars-moves-how-saudi-arabias-mega-investment-will-shake-global-currency-7ag)
+- [Warum das Crypto-Onboarding immer noch kaputt wirkt und wie es endlich besser wird](https://dev.to/piwa_lin_8b3155c3dd85f0f9/warum-das-crypto-onboarding-immer-noch-kaputt-wirkt-und-wie-es-endlich-besser-wird-3637)
 - [Bitnami MySQL Docker Image Tags Deleted](https://dev.to/hacksore/bitnami-mysql-docker-image-tags-deleted-5acm)
+- [Everyone says we&#39;re using AI wrong, but are we using it right?](https://dev.to/hugostanley/everyone-says-were-using-ai-wrong-but-are-we-using-it-right-1ag5)
 - [What Every Programmer Should Know About Memory &lpar;Part 1&rpar;](https://dev.to/hamzahassanain0/what-every-programmer-should-know-about-memory-part-1-385e)
-- [I Built GitPulse — A Faster Way to Find Beginner-Friendly Open-Source Projects](https://dev.to/jondoehimself/i-built-gitpulse-a-faster-way-to-find-beginner-friendly-open-source-projects-407e)
-- [🚀 New React Challenge: How Many Days Old Are You?](https://dev.to/duffmancc/new-react-challenge-how-many-days-old-are-you-4ka3)
-- [Smarter Search: A Revolutionary Algorithm for Crushing Complex Optimization by Arvind Sundararajan](https://dev.to/arvind_sundararajan/smarter-search-a-revolutionary-algorithm-for-crushing-complex-optimization-by-arvind-sundararajan-30d2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
