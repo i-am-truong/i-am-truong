@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [The Ultimate MCP Guide for Vibe Coding: What 1000+ Reddit Developers Actually Use &lpar;2025 Edition&rpar;](https://dev.to/yigit-konur/the-ultimate-mcp-guide-for-vibe-coding-what-1000-reddit-developers-actually-use-2025-edition-11ie)
+- [Bracelet Project](https://dev.to/preetha_vaishnavi_2b82358/bracelet-project-1gef)
 - [How to Choose the Right Party Wall Surveyor](https://dev.to/jason-edworthy/how-to-choose-the-right-party-wall-surveyor-5d96)
 - [Using AWS Like A Pro: Best Practices From Solutions Architects](https://dev.to/john_asmith_bdd2c6cdfa0/using-aws-like-a-pro-best-practices-from-solutions-architects-1kcg)
 - [Laravel Testing Made Simple with Pest: Write Clean, Readable, and Fast Tests](https://dev.to/vatsalacharya/laravel-testing-made-simple-with-pest-write-clean-readable-and-fast-tests-2b44)
-- [The Library Analogy That Makes APIs Finally Make Sense](https://dev.to/ajay_twice_dev/the-library-analogy-that-makes-apis-finally-make-sense-3b87)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
