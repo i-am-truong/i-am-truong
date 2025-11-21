@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🦀 Rust Weekly Log — Structured Logging with tracing](https://dev.to/vinecksie_rust/rust-weekly-log-structured-logging-with-tracing-j7c)
 - [The Bot That Shouldn’t Have Taken Down My Umbraco Site, and the WAF Rule That Fixed It](https://dev.to/jasonelkin/the-bot-that-shouldnt-have-taken-down-my-umbraco-site-and-the-waf-rule-that-fixed-it-36o6)
 - [Implementasi Theme Switcher di NextJS Tanpa Ribet, Flicker Free + Persist via localStorage Pakai Context API.](https://dev.to/seljarante/implementasi-theme-switcher-di-nextjs-tanpa-ribet-flicker-free-persist-via-localstorage-pakai-24ai)
 - [AuthController](https://dev.to/sugumar_8fe6aa709ab474ae3/authcontroller-178i)
 - [AI Infrastructure on Consumer Hardware](https://dev.to/rosgluk/ai-infrastructure-on-consumer-hardware-4cpj)
-- [Build Python Packages: Development to PyPI Guide](https://dev.to/rosgluk/build-python-packages-development-to-pypi-guide-39)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
