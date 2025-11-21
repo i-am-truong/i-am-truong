@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Virtual Accounts with Flutterwave](https://dev.to/flutterwaveeng/understanding-virtual-accounts-with-flutterwave-4mnm)
-- [Understanding the Party Wall Notice: When You Need It and How to Serve It Properly](https://dev.to/jason-edworthy/understanding-the-party-wall-notice-when-you-need-it-and-how-to-serve-it-properly-5dcj)
-- [Stop Using `?.` Everywhere - You&#39;re Hiding Your Bugs](https://dev.to/samuel_ochaba_eb9c875fa89/stop-using-everywhere-youre-hiding-your-bugs-1p54)
-- [Build Your MVP: Find the Right Technical Co-Founder](https://dev.to/jean_chou_b0a8ad9c32addbd/build-your-mvp-find-the-right-technical-co-founder-2ok5)
-- [A First Look at the Phoenix Framework](https://dev.to/actor-dev/from-net-to-elixir-a-first-look-at-the-phoenix-framework-59jc)
+- [LightRAG Tutorial: Getting Started with Knowledge Graph-Based RAG](https://dev.to/criticalmynd/lightrag-tutorial-getting-started-with-knowledge-graph-based-rag-526n)
+- [When One Config File Shook the Edge: Lessons from the Cloudflare Outage](https://dev.to/thesoham/when-one-config-file-shook-the-edge-lessons-from-the-cloudflare-outage-c4b)
+- [Statistics Day 7 : Hypothesis Testing Made Super Simple](https://dev.to/brains_behind_bots/statistics-day-7-hypothesis-testing-made-super-simple-2b72)
+- [LightRAG Tutorial: A Practical Guide to Knowledge Graph-Based RAG](https://dev.to/criticalmynd/lightrag-tutorial-a-practical-guide-to-knowledge-graph-based-rag-4oa0)
+- [Understanding Objects in Cedra Move: The Complete Beginner&#39;s Guide &lpar;Part 1/3&rpar;](https://dev.to/danielkestrel/understanding-objects-in-cedra-move-the-complete-beginners-guide-part-13-2c6o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
