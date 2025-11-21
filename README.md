@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Developer’s Guide to PCI DSS 4.0: What Actually Changes in 2025?](https://dev.to/narendra_sahoo_a2aeff1193/a-developers-guide-to-pci-dss-40-what-actually-changes-in-2025-icp)
-- [Nov21, 2025 | The Tongyi Weekly: Your weekly dose of cutting-edge AI from Tongyi Lab](https://dev.to/alibaba_tongyi_lab_25ad9f/nov21-2025-the-tongyi-weekly-your-weekly-dose-of-cutting-edge-ai-from-tongyi-lab-3kop)
-- [Who’s Got the Keys to Your Data? PIM’s Here to Play Bouncer!](https://dev.to/jaloplo/whos-got-the-keys-to-your-data-pims-here-to-play-bouncer-3adh)
-- [A Practical Guide to Parallel Programming in Crystal &lpar;2025&rpar;](https://dev.to/kojix2/a-practical-guide-to-parallel-programming-in-crystal-2025-1lbg)
-- [15 Bad Programming Habits You Need to Stop Now](https://dev.to/web_dev-usman/15-bad-programming-habits-you-need-to-stop-now-710)
+- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-1o32)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-5dn7)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-1blk)
+- [Mr Sunday Movies: Biggest Disney Bombs: The Sorcerer&#39;s Apprentice - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-biggest-disney-bombs-the-sorcerers-apprentice-caravan-of-garbage-1693)
+- [Async Validation in Angular Signal Forms &lpar;Complete Guide&rpar;](https://dev.to/brianmtreese/async-validation-in-angular-signal-forms-complete-guide-4f72)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
