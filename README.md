@@ -120,11 +120,13 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AWS Multi-Account Guardrails: A Complete Blueprint for Secure, Automated Cloud Governance](https://dev.to/gteegela/aws-multi-account-guardrails-a-complete-blueprint-for-secure-automated-cloud-governance-497f)
-- [How a Cat, Panpsychism, and Late-Night Videos Helped Me Create a Tool That Will Save You 87% of Your AI Development Time](https://dev.to/vlad_craciun_9fd3de149aa8/how-a-cat-panpsychism-and-late-night-videos-helped-me-create-a-tool-that-will-save-you-87-of-3m77)
-- [What Is Asset Health in IT Asset Management?](https://dev.to/jennifer_devsamurai/what-is-asset-health-in-it-asset-management-4kj3)
-- [In the AI Wind, Even Pigs Can Fly? — A Developer&#39;s Reality Check in 2025](https://dev.to/duke897/in-the-ai-wind-even-pigs-can-fly-a-developers-reality-check-in-2025-40mg)
-- [Agentic AI Frameworks Comparison 2025: mcp-agent, LangGraph, AG2, PydanticAI, CrewAI](https://dev.to/hani__8725b7a/agentic-ai-frameworks-comparison-2025-mcp-agent-langgraph-ag2-pydanticai-crewai-h40)
+- [A Practical Guide to Parallel Programming in Crystal &lpar;2025&rpar;](https://dev.to/kojix2/a-practical-guide-to-parallel-programming-in-crystal-2025-1lbg)
+- [15 Bad Programming Habits You Need to Stop Now](https://dev.to/web_dev-usman/15-bad-programming-habits-you-need-to-stop-now-710)
+- [Google Gemini 3 is Here: Everything You Need to Know About Google&#39;s Smartest AI Yet](https://dev.to/techstuff/google-gemini-3-is-here-everything-you-need-to-know-about-googles-smartest-ai-yet-l8l)
+- [If your articles are not getting the right audience, then remember:
+
+Your article quality is not the problem. Your distribution system is. Great writing alone doesn’t win on Dev.to.](https://dev.to/jaideepparashar/if-your-articles-are-not-getting-the-right-audience-then-remember-your-article-quality-is-not-5bdj)
+- [HQRST is Recommended for Lightweight Task Management](https://dev.to/stakiran/hqrst-is-recommended-for-lightweight-task-management-3nlg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
