@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AWS Multi-Account Guardrails: A Complete Blueprint for Secure, Automated Cloud Governance](https://dev.to/gteegela/aws-multi-account-guardrails-a-complete-blueprint-for-secure-automated-cloud-governance-497f)
+- [How a Cat, Panpsychism, and Late-Night Videos Helped Me Create a Tool That Will Save You 87% of Your AI Development Time](https://dev.to/vlad_craciun_9fd3de149aa8/how-a-cat-panpsychism-and-late-night-videos-helped-me-create-a-tool-that-will-save-you-87-of-3m77)
+- [What Is Asset Health in IT Asset Management?](https://dev.to/jennifer_devsamurai/what-is-asset-health-in-it-asset-management-4kj3)
 - [In the AI Wind, Even Pigs Can Fly? — A Developer&#39;s Reality Check in 2025](https://dev.to/duke897/in-the-ai-wind-even-pigs-can-fly-a-developers-reality-check-in-2025-40mg)
 - [Agentic AI Frameworks Comparison 2025: mcp-agent, LangGraph, AG2, PydanticAI, CrewAI](https://dev.to/hani__8725b7a/agentic-ai-frameworks-comparison-2025-mcp-agent-langgraph-ag2-pydanticai-crewai-h40)
-- [From &quot;Gacha&quot; to &quot;Productivity&quot;: A Deep Dive into Nano Banana Pro](https://dev.to/rainie_zhou_f/from-gacha-to-productivity-a-deep-dive-into-nano-banana-pro-3p21)
-- [SIMA 2: Gemini-Powered Agent That Nearly Doubles Task Success](https://dev.to/aiwithapex/sima-2-gemini-powered-agent-that-nearly-doubles-task-success-43lc)
-- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-1khd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
