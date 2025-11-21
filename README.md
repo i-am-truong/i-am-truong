@@ -120,13 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Monitor Cost and Latency in Production LLM Systems](https://dev.to/kamya_shah_e69d5dd78f831c/how-to-monitor-cost-and-latency-in-production-llm-systems-fn6)
-- [Git 3.0 will use &quot;main&quot; as the official new default branch
-
-https://www.phoronix.com/news/Git-2.52-Released](https://dev.to/ben/git-30-will-use-main-as-the-official-new-default-branch-2e7g)
-- [INNER JOIN and LEFT OUTER JOIN in MongoDB &lpar;with $lookup and $unwind&rpar;](https://dev.to/franckpachot/inner-join-and-left-outer-join-in-mongodb-with-lookup-and-unwind-2ge4)
-- [How I Deployed a Next.js App to AWS S3 &amp; CloudFront](https://dev.to/bi3wa3/how-i-deployed-a-nextjs-app-to-aws-s3-cloudfront-simple-setup-ee6)
-- [Lessons learned and Retrospective from my first 100 signups on HomePageAgain](https://dev.to/chimpton/lessons-learned-and-retrospective-from-my-first-100-signups-on-homepageagain-3fd6)
+- [8-Bit Music Theory: Kirby Air Riders&#39; Music is FUN FUN FUN](https://dev.to/music_youtube/8-bit-music-theory-kirby-air-riders-music-is-fun-fun-fun-i19)
+- [ChaosKit - Code-level Chaos Engineering for Go Applications](https://dev.to/roman_chudov_aae89a53d641/chaoskit-code-level-chaos-engineering-for-go-applications-2k3p)
+- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-h19)
+- [Fixing Hallucinations in Gemini 3 Pro by Overriding RLHF Instincts](https://dev.to/musculus/fixing-hallucinations-in-gemini-3-pro-by-overriding-rlhf-instincts-5e0i)
+- [Stop Wasting Hours Understanding Terraform Plans #terraform #devops #InfrastructureAsCode #VSCode](https://dev.to/ganesh250684/stop-wasting-hours-understanding-terraform-plans-terraform-devops-infrastructureascode-vscode-cf2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
