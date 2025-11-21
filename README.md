@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Beginner-Friendly Guide to TypeScript &lpar;What I Wish I Knew Earlier&rpar;](https://dev.to/increase123/a-beginner-friendly-guide-to-typescript-what-i-wish-i-knew-earlier-56oc)
 - [Testing FastAPI and LangChain with Two Response Modes](https://dev.to/izharhaq1987/testing-fastapi-and-langchain-with-two-response-modes-2907)
 - [Quick Recap: Java Versions](https://dev.to/codeintention/quick-recap-java-versions-52k6)
 - [Como as TICs estão a transformar o ensino da Programação: uma experiência em sala de aula](https://dev.to/carla_antniocossa_d52b3/como-as-tics-estao-a-transformar-o-ensino-da-programacao-uma-experiencia-em-sala-de-aula-ha7)
 - [Build a Frontend for your Microsoft Agent Framework &lpar;Python&rpar; Agents with AG-UI](https://dev.to/copilotkit/build-a-frontend-for-your-microsoft-agent-framework-python-agents-with-ag-ui-4ghk)
-- [Finding and Fixing Python Bottlenecks with Scalene](https://dev.to/ctrix/finding-and-fixing-python-bottlenecks-with-scalene-174k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
