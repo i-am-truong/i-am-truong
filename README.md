@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Advanced Anti-Fingerprinting Protection](https://dev.to/rosgluk/advanced-anti-fingerprinting-protection-3gel)
-- [Top Postman Alternatives for API Testing in 2025](https://dev.to/dthiwanka/top-postman-alternatives-for-api-testing-in-2025-171n)
-- [From Signal to Success Lucid Software’s Journey as an Early Google Chat Integration Partner](https://dev.to/googleworkspace/from-signal-to-success-lucid-softwares-journey-as-an-early-google-chat-integration-partner-3o6m)
-- [🚀 ATS CV &amp; Resume Optimization Track — CDSA Open Community](https://dev.to/cdsa/ats-cv-resume-optimization-track-cdsa-open-community-4k7d)
-- [Prepare for Granular OAuth Consent in Apps Script powered Add-ons and Chat Apps](https://dev.to/googleworkspace/prepare-for-granular-oauth-consent-in-apps-script-powered-add-ons-and-chat-apps-2lap)
+- [The Bot That Shouldn’t Have Taken Down My Umbraco Site, and the WAF Rule That Fixed It](https://dev.to/jasonelkin/the-bot-that-shouldnt-have-taken-down-my-umbraco-site-and-the-waf-rule-that-fixed-it-36o6)
+- [Implementasi Theme Switcher di NextJS Tanpa Ribet, Flicker Free + Persist via localStorage Pakai Context API.](https://dev.to/seljarante/implementasi-theme-switcher-di-nextjs-tanpa-ribet-flicker-free-persist-via-localstorage-pakai-24ai)
+- [AuthController](https://dev.to/sugumar_8fe6aa709ab474ae3/authcontroller-178i)
+- [AI Infrastructure on Consumer Hardware](https://dev.to/rosgluk/ai-infrastructure-on-consumer-hardware-4cpj)
+- [Build Python Packages: Development to PyPI Guide](https://dev.to/rosgluk/build-python-packages-development-to-pypi-guide-39)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
