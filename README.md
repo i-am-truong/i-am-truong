@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Type hints in Python &lpar;2&rpar;](https://dev.to/hyperkai/type-hints-in-python-2-4igm)
-- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-3php)
-- [Making DIY High-Performance Air Purifier for Delhi: Build Guide](https://dev.to/akaalforge/making-diy-high-performance-air-purifier-for-delhi-build-guide-3oi8)
-- [How I Built a Self-Feeding SEO Engine with GPT-4o Vision + Next.js 15](https://dev.to/paul_row226/how-i-built-a-self-feeding-seo-engine-with-gpt-4o-vision-nextjs-15-55n5)
-- [Awakening Inner Joy: The Vision, Challenges, and Future of Joy Potential](https://dev.to/carter_flynn_7e3f50b8c386/awakening-inner-joy-the-vision-challenges-and-future-of-joy-potential-4cl9)
+- [Portfolio Management for Macro Hedging on AWS](https://dev.to/aws-builders/portfolio-management-for-macro-hedging-on-aws-h5l)
+- [AI is Not Intelligent, It&#39;s Lazy &lpar;and that&#39;s its greatest strength&rpar;](https://dev.to/ndabene/ai-is-not-intelligent-its-lazy-and-thats-its-greatest-strength-47jb)
+- [How to Stay Financially Organized as a Freelancer in 2025](https://dev.to/harry_james_72725c6326eec/how-to-stay-financially-organized-as-a-freelancer-in-2025-26cf)
+- [Healthcare Transformation in 2025: AI, Interoperability &amp; Telemedicine Leading the Change](https://dev.to/champsoft/healthcare-transformation-in-2025-ai-interoperability-telemedicine-leading-the-change-3e70)
+- [Theory-Guided Data Science: A Smarter Way to Use Data](https://dev.to/deep_data_insight/theory-guided-data-science-a-smarter-way-to-use-data-e02)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
