@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What in the world is a DLL?!: Understanding DLLs](https://dev.to/afonso_faro_23584ec6be099/what-in-the-world-is-a-dll-understanding-dlls-2ppn)
+- [What Is Memory and Why You Should Learn How It Works](https://dev.to/afonso_faro_23584ec6be099/what-is-memory-and-why-you-should-learn-how-it-works-ahg)
+- [Mectora: AI-Driven Career Acceleration Platform - Developer Documentation Overview](https://dev.to/mectora-official/mectora-ai-driven-career-acceleration-platform-developer-documentation-overview-1pkl)
 - [🏁 ASPICE Literacy — Episode 11: The Metrics Mirage: When Numbers Help &lpar;and When They Hurt&rpar; 🎭](https://dev.to/abdulosman/aspice-literacy-episode-11-the-metrics-mirage-when-numbers-help-and-when-they-hurt-32mo)
 - [Why Artificial Intelligence Is Advancing and its scary](https://dev.to/afonso_faro_23584ec6be099/why-artificial-intelligence-is-advancing-and-its-scary-g21)
-- [We Tested AI Email Segmentation for 6 Months. Here&#39;s What Actually Moved the Needle.](https://dev.to/synergistdigitalmedia/we-tested-ai-email-segmentation-for-6-months-heres-what-actually-moved-the-needle-391n)
-- [Create Image Gallery from a Video](https://dev.to/marcosplusplus/create-image-gallery-from-a-video-32ob)
-- [Why You Should Host a Local AI Instead of Relying Only on a API](https://dev.to/afonso_faro_23584ec6be099/why-you-should-host-a-local-ai-instead-of-relying-only-on-a-api-3i2m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
