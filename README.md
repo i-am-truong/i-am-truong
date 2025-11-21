@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Developing for Mobile: How to Build and Sell Your Own App on the App Store](https://dev.to/softwaredeveloperhub01/developing-for-mobile-how-to-build-and-sell-your-own-app-on-the-app-store-3i98)
-- [A Comprehensive Guide to Integrate FawryPay API into your own RESTful API Server](https://dev.to/_moehab/a-comprehensive-guide-to-integrate-fawrypay-api-into-your-own-restful-api-server-478d)
-- [Which industries benefit most from professional PWA development services?](https://dev.to/it-influencer/which-industries-benefit-most-from-professional-pwa-development-services-47af)
-- [Calculate Your Personal Voltage from Binary](https://dev.to/annavi11arrea1/calculate-your-personal-voltage-from-binary-gke)
-- [Building a Tier 3 Movie Database App with Django: My Development Journey](https://dev.to/adewaletech/building-a-tier-3-movie-database-app-with-django-my-development-journey-ga)
+- [📰 Tech Takes: A Whirlwind Day in Innovation on November 20, 2025](https://dev.to/om_shree_0709/tech-takes-a-whirlwind-day-in-innovation-on-november-20-2025-309c)
+- [How useEffect Works Behind the Scenes in React](https://dev.to/sxchintha/how-useeffect-works-behind-the-scenes-in-react-3fjd)
+- [Give Your SQLite Queries Their Own Workers: A Practical Guide for Node.js Developers](https://dev.to/mashraf_aiman_b9a968e5c1d/give-your-sqlite-queries-their-own-workers-a-practical-guide-for-nodejs-developers-3d74)
+- [I put an Air-Gapped Neural Network in my pocket &lpar;Python on Android&rpar;](https://dev.to/sovarcneo/i-put-an-air-gapped-neural-network-in-my-pocket-python-on-android-1632)
+- [Beyond Behavior Trees: Unleashing Smarter Robots with Executable Knowledge by Arvind Sundararajan](https://dev.to/arvind_sundararajan/beyond-behavior-trees-unleashing-smarter-robots-with-executable-knowledge-by-arvind-sundararajan-1fg2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
