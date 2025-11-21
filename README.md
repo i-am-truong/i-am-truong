@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My Open-Source Contribution - Adding Watch Event Support to typescript-language-server](https://dev.to/oleksandrakordonets/my-open-source-contribution-adding-watch-event-support-to-typescript-language-server-3ed5)
+- [How to add polylines to a map, change polyline color, and set polyline texture](https://dev.to/harmonyos/how-to-add-polylines-to-a-map-change-polyline-color-and-set-polyline-texture-51n)
 - [Why IDPs Are the Future of DevOps: A Platform Engineer’s Perspective](https://dev.to/srinivasamcjf/why-idps-are-the-future-of-devops-a-platform-engineers-perspective-59op)
 - [Transform Your LLM Apps: Monetize Conversations with Monetzly](https://dev.to/monetzly/transform-your-llm-apps-monetize-conversations-with-monetzly-46i4)
 - [Make your Node.js APIs bulletproof using TypeScript Decorators 🛡️](https://dev.to/devetto/make-your-nodejs-apis-bulletproof-using-typescript-decorators-52cp)
-- [[Boost]](https://dev.to/jimmymcbride/-16jb)
-- [My Career Pivot From Freelance to Employee](https://dev.to/supeergabs/my-career-pivot-from-freelance-to-employee-3020)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
