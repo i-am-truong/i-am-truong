@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Nano Banana Pro: Complete Developer Tutorial](https://dev.to/googleai/introducing-nano-banana-pro-complete-developer-tutorial-5fc8)
+- [Como apago por completo el autocompletado de VS Code](https://dev.to/oscarpincho/como-apago-por-completo-el-autocompletado-de-vs-code-5599)
 - [Introducing nenv — A portable, per-project Node.js runtime for Windows &lpar;no global install required&rpar;](https://dev.to/tabreezsajjad/introducing-nenv-a-portable-per-project-nodejs-runtime-for-windows-no-global-install-required-4fp7)
 - [When Heaven Teaches You How to Live: A Deep Journey Through Matthew Chapter 6](https://dev.to/douglasvandergraph/when-heaven-teaches-you-how-to-live-a-deep-journey-through-matthew-chapter-6-45mh)
 - [Building an AWS-Based RAG Pipeline](https://dev.to/elbanic/building-an-aws-based-rag-pipeline-1lp1)
-- [The Monolith Strikes Back: When a Monolith Still Beats Microservices](https://dev.to/oluyinka_ahmedabubakar_1/the-monolith-strikes-back-when-a-monolith-still-beats-microservices-254f)
-- [Python by Structure - Class-Based Decorators That Remember](https://dev.to/aaron_rose_0787cc8b4775a0/python-by-structure-class-based-decorators-that-remember-3fgn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
