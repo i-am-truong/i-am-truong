@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [📰 Tech Takes: A Whirlwind Day in Innovation on November 20, 2025](https://dev.to/om_shree_0709/tech-takes-a-whirlwind-day-in-innovation-on-november-20-2025-309c)
-- [How useEffect Works Behind the Scenes in React](https://dev.to/sxchintha/how-useeffect-works-behind-the-scenes-in-react-3fjd)
-- [Give Your SQLite Queries Their Own Workers: A Practical Guide for Node.js Developers](https://dev.to/mashraf_aiman_b9a968e5c1d/give-your-sqlite-queries-their-own-workers-a-practical-guide-for-nodejs-developers-3d74)
-- [I put an Air-Gapped Neural Network in my pocket &lpar;Python on Android&rpar;](https://dev.to/sovarcneo/i-put-an-air-gapped-neural-network-in-my-pocket-python-on-android-1632)
-- [Beyond Behavior Trees: Unleashing Smarter Robots with Executable Knowledge by Arvind Sundararajan](https://dev.to/arvind_sundararajan/beyond-behavior-trees-unleashing-smarter-robots-with-executable-knowledge-by-arvind-sundararajan-1fg2)
+- [No other Icons Library Needed 🥶](https://dev.to/unseenumair/no-other-icons-library-needed-4500)
+- [How to Connect HubSpot in SSIS](https://dev.to/zappysys/how-to-connect-hubspot-in-ssis-21hj)
+- [📸 How I Used Gemini 3 to Build a Retro Camera Tool](https://dev.to/vatsal2210/how-i-used-gemini-3-to-build-a-retro-camera-tool-53pb)
+- [Merging Multiple File Types into One PDF in C#](https://dev.to/yahey/merging-multiple-file-types-into-one-pdf-in-c-19pb)
+- [LLM Context Window Stress Testing: Reliability Under Load](https://dev.to/vaticnz/llm-context-window-stress-testing-reliability-under-load-1gjj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
