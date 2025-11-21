@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Molecule Visualiser!](https://dev.to/dev_ops_python/molecule-visualiser-508i)
-- [Building for the Future: Why Cloud Native App Development Is Transforming Modern Businesses](https://dev.to/khushi_jitani_ca127abdedd/building-for-the-future-why-cloud-native-app-development-is-transforming-modern-businesses-2dp8)
-- [Quick Recap: Databases](https://dev.to/codeintention/quick-recap-databases-4h03)
-- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-8df)
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-2o8b)
+- [How AI could transform team collaboration: opportunities, challenges, and the future](https://dev.to/polyapolza108/how-ai-could-transform-team-collaboration-opportunities-challenges-and-the-future-3o5o)
+- [Finally xcode 26](https://dev.to/redbugmilk/finally-xcode-26-4i3l)
+- [Difference between .JAR and .WAR packaging in JAVA](https://dev.to/eya_filali_a68c4d5bad918a/difference-between-jar-and-war-packaging-in-java-nph)
+- [Building a Technical Blog with Astro + Cloudflare](https://dev.to/shusukedev/building-a-technical-blog-with-astro-cloudflare-33l)
+- [How to Compress Your Prompts and Reduce LLM Costs](https://dev.to/manishmshiva/how-to-compress-your-prompts-and-reduce-llm-costs-3pa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
