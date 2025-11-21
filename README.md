@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From &quot;Gacha&quot; to &quot;Productivity&quot;: A Deep Dive into Nano Banana Pro](https://dev.to/rainie_zhou_f/from-gacha-to-productivity-a-deep-dive-into-nano-banana-pro-3p21)
+- [SIMA 2: Gemini-Powered Agent That Nearly Doubles Task Success](https://dev.to/aiwithapex/sima-2-gemini-powered-agent-that-nearly-doubles-task-success-43lc)
+- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-1khd)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 4 - &#39;Inglourious Basterds’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-4-inglourious-basterds-55h4)
 - [SLS Copilot in Practice: Building a Flexible Data Infrastructure for LLM Applications with SLS](https://dev.to/observabilityguy/sls-copilot-in-practice-building-a-flexible-data-infrastructure-for-llm-applications-with-sls-n94)
-- [1&rpar; Describe the Python Selenium Architecture in Detail And What is the Significance of the Python Virtual Environment?](https://dev.to/boobalan_rk_bce450f873037/1-describe-the-python-selenium-architecture-in-detail-and-what-is-the-significance-of-the-python-19la)
-- [How To Build Money Machines With AI While Everyone Else Scrolls TikTok](https://dev.to/numbpill3d/how-to-build-money-machines-with-ai-while-everyone-else-scrolls-tiktok-1m60)
-- [Angular 21 Released: What’s New &amp; Developer Guide](https://dev.to/mohitdecodes/angular-21-released-whats-new-developer-guide-3lm5)
-- [How Impeller Is Transforming Flutter UI Rendering in 2026](https://dev.to/eira-wexford/how-impeller-is-transforming-flutter-ui-rendering-in-2026-3dpd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
