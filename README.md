@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Type hints in Python &lpar;2&rpar;](https://dev.to/hyperkai/type-hints-in-python-2-4igm)
+- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-3php)
+- [Making DIY High-Performance Air Purifier for Delhi: Build Guide](https://dev.to/akaalforge/making-diy-high-performance-air-purifier-for-delhi-build-guide-3oi8)
 - [How I Built a Self-Feeding SEO Engine with GPT-4o Vision + Next.js 15](https://dev.to/paul_row226/how-i-built-a-self-feeding-seo-engine-with-gpt-4o-vision-nextjs-15-55n5)
-- [Custom Hook - UseState](https://dev.to/zeeshanali0704/custom-hook-usestate-53oe)
-- [AI AIR APP — Connect Your Air Quality Sensor &amp; See Your Data](https://dev.to/abhishek_797147de6d342563/ai-air-app-connect-your-air-quality-sensor-see-your-data-3d0c)
-- [Improving AI Email Classification Accuracy Through Prompt Engineering](https://dev.to/_877737de2d34ff8c6265/improving-ai-email-classification-accuracy-through-prompt-engineering-46lh)
-- [5 Programming Secrets Learned The Hard Way &lpar;That AI Still Can&#39;t Teach You&rpar;](https://dev.to/shalinibhavi525sudo/5-programming-secrets-learned-the-hard-way-that-ai-still-cant-teach-you-3cf6)
+- [Awakening Inner Joy: The Vision, Challenges, and Future of Joy Potential](https://dev.to/carter_flynn_7e3f50b8c386/awakening-inner-joy-the-vision-challenges-and-future-of-joy-potential-4cl9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
