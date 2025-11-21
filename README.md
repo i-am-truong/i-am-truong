@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [When a Trillion Dollars Moves: How Saudi Arabia&#39;s Mega-Investment Will Shake Global Currency Markets](https://dev.to/dhis_is_jj/when-a-trillion-dollars-moves-how-saudi-arabias-mega-investment-will-shake-global-currency-7ag)
-- [Warum das Crypto-Onboarding immer noch kaputt wirkt und wie es endlich besser wird](https://dev.to/piwa_lin_8b3155c3dd85f0f9/warum-das-crypto-onboarding-immer-noch-kaputt-wirkt-und-wie-es-endlich-besser-wird-3637)
-- [Bitnami MySQL Docker Image Tags Deleted](https://dev.to/hacksore/bitnami-mysql-docker-image-tags-deleted-5acm)
-- [Everyone says we&#39;re using AI wrong, but are we using it right?](https://dev.to/hugostanley/everyone-says-were-using-ai-wrong-but-are-we-using-it-right-1ag5)
-- [What Every Programmer Should Know About Memory &lpar;Part 1&rpar;](https://dev.to/hamzahassanain0/what-every-programmer-should-know-about-memory-part-1-385e)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-nd0)
+- [Mr Sunday Movies: Biggest Disney Bombs: The Sorcerer&#39;s Apprentice - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-biggest-disney-bombs-the-sorcerers-apprentice-caravan-of-garbage-2h3i)
+- [dashboard](https://dev.to/preetha_vaishnavi_2b82358/dashboard-501b)
+- [Real-World Asset Redemption Explained](https://dev.to/quillaudits/real-world-asset-redemption-explained-1f75)
+- [This Week In React #259: State of React, Promise subclasses, Next.js, RSC, JSX Tools | Yoga CSS Grid, Radon | TC39, Browserslist](https://dev.to/sebastienlorber/this-week-in-react-259-state-of-react-promise-subclasses-nextjs-rsc-jsx-tools-yoga-css-a4o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
