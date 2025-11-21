@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Monolith Strikes Back: When a Monolith Still Beats Microservices](https://dev.to/oluyinka_ahmedabubakar_1/the-monolith-strikes-back-when-a-monolith-still-beats-microservices-254f)
+- [Python by Structure - Class-Based Decorators That Remember](https://dev.to/aaron_rose_0787cc8b4775a0/python-by-structure-class-based-decorators-that-remember-3fgn)
+- [Payra WooCommerce Plugin Updated — New Branding and Improved Media](https://dev.to/payracash/payra-woocommerce-plugin-updated-new-branding-and-improved-media-h5)
+- [Vehicle Diagnostic Timeline and Dealership Communication Analysis - Volkswagen](https://dev.to/formantaudio/vehicle-diagnostic-timeline-and-dealership-communication-analysis-volkswagen-2i87)
 - [Using DigitalOcean Spaces to Store MySQL Cache Files in PHP](https://dev.to/wildshark/using-digitalocean-spaces-to-store-mysql-cache-files-in-php-2idl)
-- [How I’m Building a Racing-Analysis Web App from Raw Telemetry](https://dev.to/ibrahimpima/how-im-building-a-racing-analysis-web-app-from-raw-telemetry-59g)
-- [Lombok + Gradle + IntelliJ &lpar;Java 21&rpar; — Guia rápido](https://dev.to/jonathasrochadesouza/lombok-gradle-intellij-java-21-guia-rapido-5e17)
-- [A practical guide to refactoring complex database queries in Laravel](https://dev.to/bytehire/a-practical-guide-to-refactoring-complex-database-queries-in-laravel-3lf7)
-- [How Becoming a Parent Helped Me Notice the Small Things](https://dev.to/eli-sanderson/how-becoming-a-parent-helped-me-notice-the-small-things-i79)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
