@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A IA está sabotando sua evolução? Velocidade de Entrega vs Profundidade de Aprendizado](https://dev.to/dchueri/a-ia-esta-sabotando-sua-evolucao-velocidade-de-entrega-vs-profundidade-de-aprendizado-73h)
-- [Is AI Sabotaging Your Career Growth? Delivery Speed vs. Learning Depth](https://dev.to/dchueri/is-ai-sabotaging-your-career-growth-delivery-speed-vs-learning-depth-297o)
-- [LightRAG Tutorial: Getting Started with Knowledge Graph-Based RAG](https://dev.to/criticalmynd/lightrag-tutorial-getting-started-with-knowledge-graph-based-rag-526n)
-- [When One Config File Shook the Edge: Lessons from the Cloudflare Outage](https://dev.to/thesoham/when-one-config-file-shook-the-edge-lessons-from-the-cloudflare-outage-c4b)
-- [Statistics Day 7 : Hypothesis Testing Made Super Simple](https://dev.to/brains_behind_bots/statistics-day-7-hypothesis-testing-made-super-simple-2b72)
+- [The Ultimate MCP Guide for Vibe Coding: What 1000+ Reddit Developers Actually Use &lpar;2025 Edition&rpar;](https://dev.to/yigit-konur/the-ultimate-mcp-guide-for-vibe-coding-what-1000-reddit-developers-actually-use-2025-edition-11ie)
+- [How to Choose the Right Party Wall Surveyor](https://dev.to/jason-edworthy/how-to-choose-the-right-party-wall-surveyor-5d96)
+- [Using AWS Like A Pro: Best Practices From Solutions Architects](https://dev.to/john_asmith_bdd2c6cdfa0/using-aws-like-a-pro-best-practices-from-solutions-architects-1kcg)
+- [Laravel Testing Made Simple with Pest: Write Clean, Readable, and Fast Tests](https://dev.to/vatsalacharya/laravel-testing-made-simple-with-pest-write-clean-readable-and-fast-tests-2b44)
+- [The Library Analogy That Makes APIs Finally Make Sense](https://dev.to/ajay_twice_dev/the-library-analogy-that-makes-apis-finally-make-sense-3b87)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
