@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Dear Developer: Your Database Isn&#39;t a File Cabinet!](https://dev.to/taurean04_14/dear-developer-your-database-isnt-a-file-cabinet-39ng)
+- [Building Real-Time Lakehouse with S3 Tables, AWS Glue, and Apache Doris](https://dev.to/apachedoris/building-real-time-lakehouse-with-s3-tables-aws-glue-and-apache-doris-5am0)
+- [ClausTk - A Tkinter library for creating New Year&#39;s and Christmas-themed interfaces](https://dev.to/limafresh/claustk-a-tkinter-library-for-creating-new-years-and-christmas-themed-interfaces-od9)
 - [Top 5 AI Tools Every Developer Should Try in 2025](https://dev.to/fijzez/top-5-ai-tools-every-developer-should-try-in-2025-3gdm)
 - [The Future of Messaging: Why Telegram Mini Apps Are Gaining Popularity](https://dev.to/guest-post/the-future-of-messaging-why-telegram-mini-apps-are-gaining-popularity-31p)
-- [Google Gemini 3 Pro — Key Features, Ecosystem Updates, and Technical Evaluations](https://dev.to/elend80/google-gemini-3-pro-key-features-ecosystem-updates-and-technical-evaluations-22dj)
-- [OSD600: Lab 9](https://dev.to/kphero/osd600-lab-9-38ba)
-- [Building forms using React Hook Form](https://dev.to/rinidh/building-forms-using-react-hook-form-d48)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
