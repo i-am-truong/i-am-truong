@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Process Injection Detector in Rust](https://dev.to/pandaadir05/building-a-process-injection-detector-in-rust-el2)
 - [A practical guide to refactoring complex database queries in Laravel](https://dev.to/bytehire/a-practical-guide-to-refactoring-complex-database-queries-in-laravel-2f7e)
 - [Senior Software Engineer – LLM Evaluation &amp; Repository Validation](https://dev.to/amir_saleem_73266b0f6410d/senior-software-engineer-llm-evaluation-repository-validation-46j1)
 - [Linux, macOS, and Windows broke my code, so I built a cross-platform test strategy](https://dev.to/asoseil/linux-macos-and-windows-broke-my-code-so-i-built-a-cross-platform-test-strategy-3633)
-- [How to Render an MMD Anime Character with WebGPU from Scratch](https://dev.to/amyangxyz/how-to-render-an-mmd-anime-character-with-webgpu-from-scratch-13cm)
-- [The Sturdy Pillar Doesn’t Need Reinforcement](https://dev.to/junothreadborne/the-sturdy-pillar-doesnt-need-reinforcement-the-silent-myth-of-single-parenthood-3cde)
+- [Easy Steps To Creating A Windows 10 Virtual Machine In Azure](https://dev.to/akintoye_gbenga/easy-steps-to-creating-a-windows-10-virtual-machine-in-azure-3n2i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
