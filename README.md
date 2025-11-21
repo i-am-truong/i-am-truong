@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Brainwash Your Agent: How We Keep The Memory Clean](https://dev.to/camel-ai/brainwash-your-agent-how-we-keep-the-memory-clean-24nn)
-- [Docker Networking Overview](https://dev.to/meghasharmaaaa/docker-networking-overview-12gn)
-- [Building the PVS-Studio megapolis](https://dev.to/pvsdev/building-the-pvs-studio-megapolis-1mp7)
-- [🦀 Rust Weekly Log — Structured Logging with tracing](https://dev.to/vinecksie_rust/rust-weekly-log-structured-logging-with-tracing-j7c)
-- [The Bot That Shouldn’t Have Taken Down My Umbraco Site, and the WAF Rule That Fixed It](https://dev.to/jasonelkin/the-bot-that-shouldnt-have-taken-down-my-umbraco-site-and-the-waf-rule-that-fixed-it-36o6)
+- [Molecule Visualiser!](https://dev.to/dev_ops_python/molecule-visualiser-508i)
+- [Building for the Future: Why Cloud Native App Development Is Transforming Modern Businesses](https://dev.to/khushi_jitani_ca127abdedd/building-for-the-future-why-cloud-native-app-development-is-transforming-modern-businesses-2dp8)
+- [Quick Recap: Databases](https://dev.to/codeintention/quick-recap-databases-4h03)
+- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-8df)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-2o8b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
