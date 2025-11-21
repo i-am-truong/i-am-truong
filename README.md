@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 18 Django learnings](https://dev.to/stackbento/day-18-django-learings-58ng)
-- [The DoD Experiment: Trying to Fix ‘Done’ Before It Breaks Us](https://dev.to/dexluce/the-dod-experiment-trying-to-fix-done-before-it-breaks-us-5ho2)
-- [Coding Challenge Practice - Question 62](https://dev.to/tomivan/coding-challenge-practice-question-62-5fbi)
-- [Sets do not possess order](https://dev.to/onaolapo11/sets-do-not-possess-order-1cmc)
-- [WisdomFlow — An AI-Powered Inspirational App Built with Uno Platform](https://dev.to/joshua_tobi_03b6c612876f3/wisdomflow-an-ai-powered-inspirational-app-built-with-uno-platform-36no)
+- [🏁 ASPICE Literacy — Episode 11: The Metrics Mirage: When Numbers Help &lpar;and When They Hurt&rpar; 🎭](https://dev.to/abdulosman/aspice-literacy-episode-11-the-metrics-mirage-when-numbers-help-and-when-they-hurt-32mo)
+- [Why Artificial Intelligence Is Advancing and its scary](https://dev.to/afonso_faro_23584ec6be099/why-artificial-intelligence-is-advancing-and-its-scary-g21)
+- [We Tested AI Email Segmentation for 6 Months. Here&#39;s What Actually Moved the Needle.](https://dev.to/synergistdigitalmedia/we-tested-ai-email-segmentation-for-6-months-heres-what-actually-moved-the-needle-391n)
+- [Create Image Gallery from a Video](https://dev.to/marcosplusplus/create-image-gallery-from-a-video-32ob)
+- [Why You Should Host a Local AI Instead of Relying Only on a API](https://dev.to/afonso_faro_23584ec6be099/why-you-should-host-a-local-ai-instead-of-relying-only-on-a-api-3i2m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
