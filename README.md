@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [In the AI Wind, Even Pigs Can Fly? — A Developer&#39;s Reality Check in 2025](https://dev.to/duke897/in-the-ai-wind-even-pigs-can-fly-a-developers-reality-check-in-2025-40mg)
+- [Agentic AI Frameworks Comparison 2025: mcp-agent, LangGraph, AG2, PydanticAI, CrewAI](https://dev.to/hani__8725b7a/agentic-ai-frameworks-comparison-2025-mcp-agent-langgraph-ag2-pydanticai-crewai-h40)
 - [From &quot;Gacha&quot; to &quot;Productivity&quot;: A Deep Dive into Nano Banana Pro](https://dev.to/rainie_zhou_f/from-gacha-to-productivity-a-deep-dive-into-nano-banana-pro-3p21)
 - [SIMA 2: Gemini-Powered Agent That Nearly Doubles Task Success](https://dev.to/aiwithapex/sima-2-gemini-powered-agent-that-nearly-doubles-task-success-43lc)
 - [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-1khd)
-- [Ringer Movies: The 25 Best Movies of the Century: No. 4 - &#39;Inglourious Basterds’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-4-inglourious-basterds-55h4)
-- [SLS Copilot in Practice: Building a Flexible Data Infrastructure for LLM Applications with SLS](https://dev.to/observabilityguy/sls-copilot-in-practice-building-a-flexible-data-infrastructure-for-llm-applications-with-sls-n94)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
