@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Process Injection Detector in Rust](https://dev.to/pandaadir05/building-a-process-injection-detector-in-rust-el2)
-- [A practical guide to refactoring complex database queries in Laravel](https://dev.to/bytehire/a-practical-guide-to-refactoring-complex-database-queries-in-laravel-2f7e)
-- [Senior Software Engineer – LLM Evaluation &amp; Repository Validation](https://dev.to/amir_saleem_73266b0f6410d/senior-software-engineer-llm-evaluation-repository-validation-46j1)
-- [Linux, macOS, and Windows broke my code, so I built a cross-platform test strategy](https://dev.to/asoseil/linux-macos-and-windows-broke-my-code-so-i-built-a-cross-platform-test-strategy-3633)
-- [Easy Steps To Creating A Windows 10 Virtual Machine In Azure](https://dev.to/akintoye_gbenga/easy-steps-to-creating-a-windows-10-virtual-machine-in-azure-3n2i)
+- [Lombok + Gradle + IntelliJ &lpar;Java 21&rpar; — Guia rápido](https://dev.to/jonathasrochadesouza/lombok-gradle-intellij-java-21-guia-rapido-5e17)
+- [A practical guide to refactoring complex database queries in Laravel](https://dev.to/bytehire/a-practical-guide-to-refactoring-complex-database-queries-in-laravel-3lf7)
+- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-2llf)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-3k2a)
+- [Asking n People &lpar;n Generative AI Models&rpar; Simultaneously](https://dev.to/stakiran/asking-n-people-n-generative-ai-models-simultaneously-2ef7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
