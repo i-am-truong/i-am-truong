@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [No other Icons Library Needed 🥶](https://dev.to/unseenumair/no-other-icons-library-needed-4500)
-- [How to Connect HubSpot in SSIS](https://dev.to/zappysys/how-to-connect-hubspot-in-ssis-21hj)
-- [📸 How I Used Gemini 3 to Build a Retro Camera Tool](https://dev.to/vatsal2210/how-i-used-gemini-3-to-build-a-retro-camera-tool-53pb)
-- [Merging Multiple File Types into One PDF in C#](https://dev.to/yahey/merging-multiple-file-types-into-one-pdf-in-c-19pb)
-- [LLM Context Window Stress Testing: Reliability Under Load](https://dev.to/vaticnz/llm-context-window-stress-testing-reliability-under-load-1gjj)
+- [Why IDPs Are the Future of DevOps: A Platform Engineer’s Perspective](https://dev.to/srinivasamcjf/why-idps-are-the-future-of-devops-a-platform-engineers-perspective-59op)
+- [Transform Your LLM Apps: Monetize Conversations with Monetzly](https://dev.to/monetzly/transform-your-llm-apps-monetize-conversations-with-monetzly-46i4)
+- [Make your Node.js APIs bulletproof using TypeScript Decorators 🛡️](https://dev.to/devetto/make-your-nodejs-apis-bulletproof-using-typescript-decorators-52cp)
+- [[Boost]](https://dev.to/jimmymcbride/-16jb)
+- [My Career Pivot From Freelance to Employee](https://dev.to/supeergabs/my-career-pivot-from-freelance-to-employee-3020)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
