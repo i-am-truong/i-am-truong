@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How CSS Grid Changed the Way I Build Web Layouts](https://dev.to/shubhradev/how-css-grid-changed-the-way-i-build-web-layouts-4n74)
+- [What is Declarative Programming](https://dev.to/canonical/what-is-declarative-programming-4fme)
 - [Branding Case Study: How Neil Patel Turned His Name into the Ultimate SEO Tool](https://dev.to/rezapurnama/branding-case-study-how-neil-patel-turned-his-name-into-the-ultimate-seo-tool-5foo)
 - [Introduction to Python Metaclasses](https://dev.to/pipinstalled/introduction-to-python-metaclasses-5811)
 - [From a $440M Exit to Building the &quot;GitHub for IP&quot;: The Story Protocol Journey](https://dev.to/roan911/from-a-440m-exit-to-building-the-github-for-ip-the-story-protocol-journey-32hb)
-- [JavaScript Closures Finally Clicked!](https://dev.to/siddheshcodes/javascript-closures-finally-clicked-hb4)
-- [Architecting Resilient Caching in Symfony: Beyond get&lpar;&rpar; and set&lpar;&rpar;](https://dev.to/mattleads/architecting-resilient-caching-in-symfony-beyond-get-and-set-3kdm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
