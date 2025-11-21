@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Nested query strings in depth — a complete technical guide](https://dev.to/silentwatcher_95/nested-query-strings-in-depth-a-complete-technical-guide-1io8)
+- [The Ultimate Guide to Choosing a Game Engine in 2025](https://dev.to/afonso_faro_23584ec6be099/the-ultimate-guide-to-choosing-a-game-engine-in-2025-32fn)
+- [A Complete Guide to JavaScript](https://dev.to/afonso_faro_23584ec6be099/a-complete-guide-to-javascript-53eh)
+- [Apache Kafka](https://dev.to/jumptotech/apache-kafka-1mi3)
 - [What in the world is a DLL?!: Understanding DLLs](https://dev.to/afonso_faro_23584ec6be099/what-in-the-world-is-a-dll-understanding-dlls-2ppn)
-- [What Is Memory and Why You Should Learn How It Works](https://dev.to/afonso_faro_23584ec6be099/what-is-memory-and-why-you-should-learn-how-it-works-ahg)
-- [🏁 ASPICE Literacy — Episode 11: The Metrics Mirage: When Numbers Help &lpar;and When They Hurt&rpar; 🎭](https://dev.to/abdulosman/aspice-literacy-episode-11-the-metrics-mirage-when-numbers-help-and-when-they-hurt-32mo)
-- [Why Artificial Intelligence Is Advancing and its scary](https://dev.to/afonso_faro_23584ec6be099/why-artificial-intelligence-is-advancing-and-its-scary-g21)
-- [We Tested AI Email Segmentation for 6 Months. Here&#39;s What Actually Moved the Needle.](https://dev.to/synergistdigitalmedia/we-tested-ai-email-segmentation-for-6-months-heres-what-actually-moved-the-needle-391n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
