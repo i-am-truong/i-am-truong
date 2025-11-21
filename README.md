@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [FYI: Paige Bailey &lpar;AI Developer Experience Lead at Deepmind&rpar; will be hosting a live demo and AMA on November 25th about Gemini 3](https://dev.to/jess/fyi-paige-bailey-ai-developer-experience-lead-at-deepmind-will-be-hosting-a-live-demo-and-ama-on-55c2)
+- [Check out the latest updates on my game.](https://dev.to/hendrikras/check-out-the-latest-updates-on-my-game-292f)
+- [It’s Time to Move Your System to an ORM](https://dev.to/_555c69ff310ebfa46b/its-time-to-move-your-system-to-an-orm-50i5)
+- [The Architecture of Browser Sandboxes: A Deep Dive into JavaScript Code Isolation](https://dev.to/alexgriss/the-architecture-of-browser-sandboxes-a-deep-dive-into-javascript-code-isolation-1dnj)
 - [The Role Confusion: SRE vs Cloud vs Platform Engineer &lpar;And Why &quot;DevOps Engineer&quot; Misses the Point&rpar;](https://dev.to/anderson_leite/the-role-confusion-sre-vs-cloud-vs-platform-engineer-and-why-devops-engineer-misses-the-point-2e4h)
-- [Mastering Flutter Debugging: Visual Tools Every Developer 👩🏻‍💻Must Know](https://dev.to/hiteshm_devapp/mastering-flutter-debugging-visual-tools-every-developer-must-know-5dlg)
-- [Quick Recap: Caching in Java](https://dev.to/codeintention/quick-recap-caching-in-java-3k5k)
-- [Hack a Windows System Using PowerShell](https://dev.to/scofieldidehen/hack-a-windows-system-using-powershell-67e)
-- [Slim shock : the index file](https://dev.to/xwero/slim-shock-the-index-file-1h8d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
