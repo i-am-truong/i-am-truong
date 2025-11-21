@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How Impeller Is Transforming Flutter UI Rendering in 2026](https://dev.to/eira-wexford/how-impeller-is-transforming-flutter-ui-rendering-in-2026-3dpd)
+- [Meet Quesby: A Privacy-First Eleventy Starter That Stays Out of Your Way](https://dev.to/quesby/meet-quesby-a-privacy-first-eleventy-starter-that-stays-out-of-your-way-4e6)
+- [Transforming Figma Designs into Flutter Code Using AI](https://dev.to/eira-wexford/transforming-figma-designs-into-flutter-code-using-ai-10do)
+- [TOON: The Token Ninja](https://dev.to/g33kzone/toon-the-token-ninja-3134)
 - [Portfolio Management for Macro Hedging on AWS](https://dev.to/aws-builders/portfolio-management-for-macro-hedging-on-aws-h5l)
-- [AI is Not Intelligent, It&#39;s Lazy &lpar;and that&#39;s its greatest strength&rpar;](https://dev.to/ndabene/ai-is-not-intelligent-its-lazy-and-thats-its-greatest-strength-47jb)
-- [How to Stay Financially Organized as a Freelancer in 2025](https://dev.to/harry_james_72725c6326eec/how-to-stay-financially-organized-as-a-freelancer-in-2025-26cf)
-- [Healthcare Transformation in 2025: AI, Interoperability &amp; Telemedicine Leading the Change](https://dev.to/champsoft/healthcare-transformation-in-2025-ai-interoperability-telemedicine-leading-the-change-3e70)
-- [Theory-Guided Data Science: A Smarter Way to Use Data](https://dev.to/deep_data_insight/theory-guided-data-science-a-smarter-way-to-use-data-e02)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
