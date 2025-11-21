@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Role Confusion: SRE vs Cloud vs Platform Engineer &lpar;And Why &quot;DevOps Engineer&quot; Misses the Point&rpar;](https://dev.to/anderson_leite/the-role-confusion-sre-vs-cloud-vs-platform-engineer-and-why-devops-engineer-misses-the-point-2e4h)
 - [Mastering Flutter Debugging: Visual Tools Every Developer 👩🏻‍💻Must Know](https://dev.to/hiteshm_devapp/mastering-flutter-debugging-visual-tools-every-developer-must-know-5dlg)
 - [Quick Recap: Caching in Java](https://dev.to/codeintention/quick-recap-caching-in-java-3k5k)
 - [Hack a Windows System Using PowerShell](https://dev.to/scofieldidehen/hack-a-windows-system-using-powershell-67e)
 - [Slim shock : the index file](https://dev.to/xwero/slim-shock-the-index-file-1h8d)
-- [PHP on Ubuntu: Installation, Setup, and First Steps](https://dev.to/pablojavierjimenez/php-on-ubuntu-installation-setup-and-first-steps-1nm1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
