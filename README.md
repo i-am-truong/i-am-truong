@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI has to go a long way to take a frontend developer job](https://dev.to/shreyvijayvargiya/ai-has-to-go-a-long-way-to-take-a-frontend-developer-job-gme)
-- [Day 33 of My AI &amp; Data Mastery Journey: From Python to Generative AI](https://dev.to/nitinbhatt46/day-33-of-my-ai-data-mastery-journey-from-python-to-generative-ai-1787)
-- [Vibe Coding vs No-Code: Why This AI-Driven Approach Is a Game-Changer](https://dev.to/websubmit_12/vibe-coding-vs-no-code-why-this-ai-driven-approach-is-a-game-changer-1coo)
-- [How to Quickly Access Nano Banana Pro via Replicate with Python](https://dev.to/xylar/how-to-quickly-access-nano-banana-pro-via-replicate-with-python-53f8)
-- [The Ultimate MCP Guide for Vibe Coding: What 1000+ Reddit Developers Actually Use &lpar;2025 Edition&rpar;](https://dev.to/yigit-konur/the-ultimate-mcp-guide-for-vibe-coding-what-1000-reddit-developers-actually-use-2025-edition-11ie)
+- [Advanced Anti-Fingerprinting Protection](https://dev.to/rosgluk/advanced-anti-fingerprinting-protection-3gel)
+- [Top Postman Alternatives for API Testing in 2025](https://dev.to/dthiwanka/top-postman-alternatives-for-api-testing-in-2025-171n)
+- [From Signal to Success Lucid Software’s Journey as an Early Google Chat Integration Partner](https://dev.to/googleworkspace/from-signal-to-success-lucid-softwares-journey-as-an-early-google-chat-integration-partner-3o6m)
+- [🚀 ATS CV &amp; Resume Optimization Track — CDSA Open Community](https://dev.to/cdsa/ats-cv-resume-optimization-track-cdsa-open-community-4k7d)
+- [Prepare for Granular OAuth Consent in Apps Script powered Add-ons and Chat Apps](https://dev.to/googleworkspace/prepare-for-granular-oauth-consent-in-apps-script-powered-add-ons-and-chat-apps-2lap)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
