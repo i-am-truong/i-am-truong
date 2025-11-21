@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [8-Bit Music Theory: Kirby Air Riders&#39; Music is FUN FUN FUN](https://dev.to/music_youtube/8-bit-music-theory-kirby-air-riders-music-is-fun-fun-fun-i19)
-- [ChaosKit - Code-level Chaos Engineering for Go Applications](https://dev.to/roman_chudov_aae89a53d641/chaoskit-code-level-chaos-engineering-for-go-applications-2k3p)
-- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-h19)
-- [Fixing Hallucinations in Gemini 3 Pro by Overriding RLHF Instincts](https://dev.to/musculus/fixing-hallucinations-in-gemini-3-pro-by-overriding-rlhf-instincts-5e0i)
-- [Stop Wasting Hours Understanding Terraform Plans #terraform #devops #InfrastructureAsCode #VSCode](https://dev.to/ganesh250684/stop-wasting-hours-understanding-terraform-plans-terraform-devops-infrastructureascode-vscode-cf2)
+- [Top 5 AI Tools Every Developer Should Try in 2025](https://dev.to/fijzez/top-5-ai-tools-every-developer-should-try-in-2025-3gdm)
+- [The Future of Messaging: Why Telegram Mini Apps Are Gaining Popularity](https://dev.to/guest-post/the-future-of-messaging-why-telegram-mini-apps-are-gaining-popularity-31p)
+- [Google Gemini 3 Pro — Key Features, Ecosystem Updates, and Technical Evaluations](https://dev.to/elend80/google-gemini-3-pro-key-features-ecosystem-updates-and-technical-evaluations-22dj)
+- [Building forms using React Hook Form](https://dev.to/rinidh/building-forms-using-react-hook-form-d48)
+- [Building a Hotel Booking System with laravel, Inertia.js and Vue.js](https://dev.to/rasoul_zinati_1f633313c05/building-a-room-booking-system-with-laravel-inertiajs-and-vuejs-62m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
