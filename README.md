@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Quick Recap: Design Patterns in Java &lpar;Real Examples&rpar;](https://dev.to/codeintention/quick-recap-design-patterns-in-java-real-examples-4p75)
+- [𝗪𝗵𝗲𝗻 𝗮 “𝗦𝗺𝗮𝗹𝗹” 𝗔𝗜 𝗠𝗼𝗱𝗲𝗹 𝗣𝘂𝘀𝗵𝗲𝘀 𝗬𝗼𝘂𝗿 𝗛𝗮𝗿𝗱𝘄𝗮𝗿𝗲 𝘁𝗼 𝗜𝘁𝘀 𝗟𝗶𝗺𝗶𝘁𝘀](https://dev.to/richa-parekh/-1lkn)
+- [Google Play Store Analysis: Data-Driven Insights for App Launch Strategy](https://dev.to/ziyad_elouahdi_e0d78d0b21/google-play-store-analysis-data-driven-insights-for-app-launch-strategy-1o0f)
 - [QuickJot: A Micro-Note Network Built for Frictionless Idea Sharing](https://dev.to/hejhdiss/quickjot-a-micro-note-network-built-for-frictionless-idea-sharing-1l0o)
-- [A practical guide to refactoring complex database queries in Laravel](https://dev.to/yetanotherkev/a-practical-guide-to-refactoring-complex-database-queries-in-laravel-5cma)
-- [Let Your AI Build Nova Poshta Integrations in Minutes](https://dev.to/philipp_sapronov/let-your-ai-build-nova-poshta-integrations-in-minutes-1a2k)
-- [Smarter Delete Button UI: A Simple Case Study on Preventing User Mistakes](https://dev.to/designmonks/smarter-delete-button-ui-a-simple-case-study-on-preventing-user-mistakes-16km)
-- [LimeDB: Architectural Shift to a Go-based Distributed Key-Value Store with Consistent Hashing](https://dev.to/namanvashistha/limedb-architectural-shift-to-a-go-based-distributed-key-value-store-with-consistent-hashing-367i)
+- [Expert Plumbing &amp; Heating Services in Bolton](https://dev.to/john_tonton_9500f85332169/expert-plumbing-heating-services-in-bolton-2170)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
