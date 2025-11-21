@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code Will Be As Good As You Are](https://dev.to/lucasbrogni1/claude-code-will-be-as-good-as-you-are-1f16)
-- [Running Firefox in Docker? Yes, with a GUI and noVNC!](https://dev.to/danielcristho/running-firefox-in-docker-yes-with-a-gui-and-novnc-5fk)
-- [React Context &amp; Routing Mastery — From Prop Drilling Pain to Auth‑Ready Architectures](https://dev.to/cristiansifuentes/react-context-routing-mastery-from-prop-drilling-pain-to-auth-ready-architectures-1nld)
-- [How I built a hybrid LAN/WAN file sync engine without VPN &lpar;and why on-demand sync still matters&rpar;](https://dev.to/pfresquet/how-i-built-a-hybrid-lanwan-file-sync-engine-without-vpn-and-why-on-demand-sync-still-matters-4iib)
-- [Mise-En-Place: a quick and easy tool for managing a dev environment](https://dev.to/pix303/mise-en-place-a-quick-and-easy-tool-for-managing-a-dev-environment-2i92)
+- [Smarter Delete Button UI: A Simple Case Study on Preventing User Mistakes](https://dev.to/designmonks/smarter-delete-button-ui-a-simple-case-study-on-preventing-user-mistakes-16km)
+- [Day F4: The Uneventful Day &lpar;And That&#39;s Fine&rpar;](https://dev.to/casperday11/day-f4-the-uneventful-day-and-thats-fine-359p)
+- [The Scaling Arms Race Is Over - The Application Age Has Begun](https://dev.to/ejb503/the-scaling-arms-race-is-over-the-application-age-has-begun-4fp2)
+- [Quick Recap: Java Threads](https://dev.to/codeintention/quick-recap-java-threads-13c9)
+- [Next.JS Authentication with Clerk](https://dev.to/pritish_academy/nextjs-authentication-with-clerk-73d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
