@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-nd0)
-- [Mr Sunday Movies: Biggest Disney Bombs: The Sorcerer&#39;s Apprentice - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-biggest-disney-bombs-the-sorcerers-apprentice-caravan-of-garbage-2h3i)
-- [dashboard](https://dev.to/preetha_vaishnavi_2b82358/dashboard-501b)
-- [Real-World Asset Redemption Explained](https://dev.to/quillaudits/real-world-asset-redemption-explained-1f75)
-- [This Week In React #259: State of React, Promise subclasses, Next.js, RSC, JSX Tools | Yoga CSS Grid, Radon | TC39, Browserslist](https://dev.to/sebastienlorber/this-week-in-react-259-state-of-react-promise-subclasses-nextjs-rsc-jsx-tools-yoga-css-a4o)
+- [Testing FastAPI and LangChain with Two Response Modes](https://dev.to/izharhaq1987/testing-fastapi-and-langchain-with-two-response-modes-2907)
+- [Quick Recap: Java Versions](https://dev.to/codeintention/quick-recap-java-versions-52k6)
+- [Como as TICs estão a transformar o ensino da Programação: uma experiência em sala de aula](https://dev.to/carla_antniocossa_d52b3/como-as-tics-estao-a-transformar-o-ensino-da-programacao-uma-experiencia-em-sala-de-aula-ha7)
+- [Build a Frontend for your Microsoft Agent Framework &lpar;Python&rpar; Agents with AG-UI](https://dev.to/copilotkit/build-a-frontend-for-your-microsoft-agent-framework-python-agents-with-ag-ui-4ghk)
+- [Finding and Fixing Python Bottlenecks with Scalene](https://dev.to/ctrix/finding-and-fixing-python-bottlenecks-with-scalene-174k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
