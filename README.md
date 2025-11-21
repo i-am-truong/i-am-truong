@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Render an MMD Anime Character with WebGPU from Scratch](https://dev.to/amyangxyz/how-to-render-an-mmd-anime-character-with-webgpu-from-scratch-13cm)
+- [The Sturdy Pillar Doesn’t Need Reinforcement](https://dev.to/junothreadborne/the-sturdy-pillar-doesnt-need-reinforcement-the-silent-myth-of-single-parenthood-3cde)
 - [Halloween CSS](https://dev.to/stefan_donosa/halloween-css-jlp)
 - [Building AI Agents: Architecture, Tools &amp; Implementation Guide](https://dev.to/vanshsaxena/building-ai-agents-architecture-tools-implementation-guide-5bac)
 - [Symmetry Solved: Lightning-Fast Algorithms Unlock New Optimization Possibilities](https://dev.to/arvind_sundararajan/symmetry-solved-lightning-fast-algorithms-unlock-new-optimization-possibilities-3bl0)
-- [Dear Developer: Your Database Isn&#39;t a File Cabinet!](https://dev.to/taurean04_14/dear-developer-your-database-isnt-a-file-cabinet-39ng)
-- [Building Real-Time Lakehouse with S3 Tables, AWS Glue, and Apache Doris](https://dev.to/apachedoris/building-real-time-lakehouse-with-s3-tables-aws-glue-and-apache-doris-5am0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
