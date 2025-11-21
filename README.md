@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A IA está sabotando sua evolução? Velocidade de Entrega vs Profundidade de Aprendizado](https://dev.to/dchueri/a-ia-esta-sabotando-sua-evolucao-velocidade-de-entrega-vs-profundidade-de-aprendizado-73h)
+- [Is AI Sabotaging Your Career Growth? Delivery Speed vs. Learning Depth](https://dev.to/dchueri/is-ai-sabotaging-your-career-growth-delivery-speed-vs-learning-depth-297o)
 - [LightRAG Tutorial: Getting Started with Knowledge Graph-Based RAG](https://dev.to/criticalmynd/lightrag-tutorial-getting-started-with-knowledge-graph-based-rag-526n)
 - [When One Config File Shook the Edge: Lessons from the Cloudflare Outage](https://dev.to/thesoham/when-one-config-file-shook-the-edge-lessons-from-the-cloudflare-outage-c4b)
 - [Statistics Day 7 : Hypothesis Testing Made Super Simple](https://dev.to/brains_behind_bots/statistics-day-7-hypothesis-testing-made-super-simple-2b72)
-- [LightRAG Tutorial: A Practical Guide to Knowledge Graph-Based RAG](https://dev.to/criticalmynd/lightrag-tutorial-a-practical-guide-to-knowledge-graph-based-rag-4oa0)
-- [Understanding Objects in Cedra Move: The Complete Beginner&#39;s Guide &lpar;Part 1/3&rpar;](https://dev.to/danielkestrel/understanding-objects-in-cedra-move-the-complete-beginners-guide-part-13-2c6o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
