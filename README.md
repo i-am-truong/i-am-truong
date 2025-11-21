@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [QuickJot: A Micro-Note Network Built for Frictionless Idea Sharing](https://dev.to/hejhdiss/quickjot-a-micro-note-network-built-for-frictionless-idea-sharing-1l0o)
+- [A practical guide to refactoring complex database queries in Laravel](https://dev.to/yetanotherkev/a-practical-guide-to-refactoring-complex-database-queries-in-laravel-5cma)
+- [Let Your AI Build Nova Poshta Integrations in Minutes](https://dev.to/philipp_sapronov/let-your-ai-build-nova-poshta-integrations-in-minutes-1a2k)
 - [Smarter Delete Button UI: A Simple Case Study on Preventing User Mistakes](https://dev.to/designmonks/smarter-delete-button-ui-a-simple-case-study-on-preventing-user-mistakes-16km)
-- [Day F4: The Uneventful Day &lpar;And That&#39;s Fine&rpar;](https://dev.to/casperday11/day-f4-the-uneventful-day-and-thats-fine-359p)
-- [The Scaling Arms Race Is Over - The Application Age Has Begun](https://dev.to/ejb503/the-scaling-arms-race-is-over-the-application-age-has-begun-4fp2)
-- [Quick Recap: Java Threads](https://dev.to/codeintention/quick-recap-java-threads-13c9)
-- [Next.JS Authentication with Clerk](https://dev.to/pritish_academy/nextjs-authentication-with-clerk-73d)
+- [LimeDB: Architectural Shift to a Go-based Distributed Key-Value Store with Consistent Hashing](https://dev.to/namanvashistha/limedb-architectural-shift-to-a-go-based-distributed-key-value-store-with-consistent-hashing-367i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
