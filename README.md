@@ -120,13 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Developer’s Guide to PCI DSS 4.0: What Actually Changes in 2025?](https://dev.to/narendra_sahoo_a2aeff1193/a-developers-guide-to-pci-dss-40-what-actually-changes-in-2025-icp)
+- [Nov21, 2025 | The Tongyi Weekly: Your weekly dose of cutting-edge AI from Tongyi Lab](https://dev.to/alibaba_tongyi_lab_25ad9f/nov21-2025-the-tongyi-weekly-your-weekly-dose-of-cutting-edge-ai-from-tongyi-lab-3kop)
+- [Who’s Got the Keys to Your Data? PIM’s Here to Play Bouncer!](https://dev.to/jaloplo/whos-got-the-keys-to-your-data-pims-here-to-play-bouncer-3adh)
 - [A Practical Guide to Parallel Programming in Crystal &lpar;2025&rpar;](https://dev.to/kojix2/a-practical-guide-to-parallel-programming-in-crystal-2025-1lbg)
 - [15 Bad Programming Habits You Need to Stop Now](https://dev.to/web_dev-usman/15-bad-programming-habits-you-need-to-stop-now-710)
-- [Google Gemini 3 is Here: Everything You Need to Know About Google&#39;s Smartest AI Yet](https://dev.to/techstuff/google-gemini-3-is-here-everything-you-need-to-know-about-googles-smartest-ai-yet-l8l)
-- [If your articles are not getting the right audience, then remember:
-
-Your article quality is not the problem. Your distribution system is. Great writing alone doesn’t win on Dev.to.](https://dev.to/jaideepparashar/if-your-articles-are-not-getting-the-right-audience-then-remember-your-article-quality-is-not-5bdj)
-- [HQRST is Recommended for Lightweight Task Management](https://dev.to/stakiran/hqrst-is-recommended-for-lightweight-task-management-3nlg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
