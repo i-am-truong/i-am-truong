@@ -120,11 +120,13 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [FYI: Paige Bailey &lpar;AI Developer Experience Lead at Deepmind&rpar; will be hosting a live demo and AMA on November 25th about Gemini 3](https://dev.to/jess/fyi-paige-bailey-ai-developer-experience-lead-at-deepmind-will-be-hosting-a-live-demo-and-ama-on-55c2)
-- [Check out the latest updates on my game.](https://dev.to/hendrikras/check-out-the-latest-updates-on-my-game-292f)
-- [It’s Time to Move Your System to an ORM](https://dev.to/_555c69ff310ebfa46b/its-time-to-move-your-system-to-an-orm-50i5)
-- [The Architecture of Browser Sandboxes: A Deep Dive into JavaScript Code Isolation](https://dev.to/alexgriss/the-architecture-of-browser-sandboxes-a-deep-dive-into-javascript-code-isolation-1dnj)
-- [The Role Confusion: SRE vs Cloud vs Platform Engineer &lpar;And Why &quot;DevOps Engineer&quot; Misses the Point&rpar;](https://dev.to/anderson_leite/the-role-confusion-sre-vs-cloud-vs-platform-engineer-and-why-devops-engineer-misses-the-point-2e4h)
+- [INNER JOIN and LEFT OUTER JOIN in MongoDB &lpar;with $lookup and $unwind&rpar;](https://dev.to/franckpachot/inner-join-and-left-outer-join-in-mongodb-with-lookup-and-unwind-2ge4)
+- [How I Deployed a Next.js App to AWS S3 &amp; CloudFront](https://dev.to/bi3wa3/how-i-deployed-a-nextjs-app-to-aws-s3-cloudfront-simple-setup-ee6)
+- [Lessons learned and Retrospective from my first 100 signups on HomePageAgain](https://dev.to/chimpton/lessons-learned-and-retrospective-from-my-first-100-signups-on-homepageagain-3fd6)
+- [Agentic Postgres Challenge: Winner Announcement Delayed](https://dev.to/devteam/agentic-postgres-challenge-winner-announcement-delayed-27c7)
+- [Testing
+
+https://github.com/stormkit-io/stormkit-io/blob/main/CHANGELOG.md/](https://dev.to/ben/testinghttpsgithubcomstormkit-iostormkit-ioblobmainchangelogmd-f2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
