@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A practical guide to refactoring complex database queries in Laravel](https://dev.to/bytehire/a-practical-guide-to-refactoring-complex-database-queries-in-laravel-2f7e)
+- [Senior Software Engineer – LLM Evaluation &amp; Repository Validation](https://dev.to/amir_saleem_73266b0f6410d/senior-software-engineer-llm-evaluation-repository-validation-46j1)
+- [Linux, macOS, and Windows broke my code, so I built a cross-platform test strategy](https://dev.to/asoseil/linux-macos-and-windows-broke-my-code-so-i-built-a-cross-platform-test-strategy-3633)
 - [How to Render an MMD Anime Character with WebGPU from Scratch](https://dev.to/amyangxyz/how-to-render-an-mmd-anime-character-with-webgpu-from-scratch-13cm)
 - [The Sturdy Pillar Doesn’t Need Reinforcement](https://dev.to/junothreadborne/the-sturdy-pillar-doesnt-need-reinforcement-the-silent-myth-of-single-parenthood-3cde)
-- [Halloween CSS](https://dev.to/stefan_donosa/halloween-css-jlp)
-- [Building AI Agents: Architecture, Tools &amp; Implementation Guide](https://dev.to/vanshsaxena/building-ai-agents-architecture-tools-implementation-guide-5bac)
-- [Symmetry Solved: Lightning-Fast Algorithms Unlock New Optimization Possibilities](https://dev.to/arvind_sundararajan/symmetry-solved-lightning-fast-algorithms-unlock-new-optimization-possibilities-3bl0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
