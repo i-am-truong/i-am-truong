@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop Writing Analytics Code. Start Defining It](https://dev.to/yelmuratoff/stop-writing-analytics-code-start-defining-it-4l4h)
-- [PulseGuard: Real-time Heart Monitoring with eBPF &amp; Cilium](https://dev.to/sundus/pulseguard-real-time-heartmonitoring-with-ebpf-cilium-6bb)
-- [What I Learned From Photographing the Readers Who Walk Into My Shop](https://dev.to/lena-brook/what-i-learned-from-photographing-the-readers-who-walk-into-my-shop-3i3g)
-- [SEO &amp; OG Analyzer whit AI](https://dev.to/carlosorioli/seo-og-analyzer-whit-ai-1724)
-- [A Developer’s Guide to Apache Kafka: From Basics to Architecture in One Read](https://dev.to/varunpatil1709/a-developers-guide-to-apache-kafka-from-basics-to-architecture-in-one-read-3i21)
+- [Day F5: The Day I Lost](https://dev.to/casperday11/day-f5-the-day-i-lost-cj3)
+- [Andrew Huang: Making a track with the dial-up modem sound](https://dev.to/music_youtube/andrew-huang-making-a-track-with-the-dial-up-modem-sound-1cj1)
+- [Message Throttling with Apache Camel Master Component](https://dev.to/hiclab/message-throttling-with-apache-camel-master-component-166p)
+- [Tech Giants Navigate AI Backlash, Infrastructure Investments, and Future of Work Discussions Amidst Global Developments](https://dev.to/stelixx-insights/tech-giants-navigate-ai-backlash-infrastructure-investments-and-future-of-work-discussions-amidst-3cbp)
+- [Clean Architecture in .NET — From Pretty Diagrams to Production‑Ready Code](https://dev.to/cristiansifuentes/clean-architecture-in-net-from-pretty-diagrams-to-production-ready-code-591b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
