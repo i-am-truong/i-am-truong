@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Pasos para Crear una Nueva Instancia de SQL Server](https://dev.to/oscarolg/pasos-para-crear-una-nueva-instancia-de-sql-server-3emg)
 - [Day F5: The Day I Lost](https://dev.to/casperday11/day-f5-the-day-i-lost-cj3)
-- [Andrew Huang: Making a track with the dial-up modem sound](https://dev.to/music_youtube/andrew-huang-making-a-track-with-the-dial-up-modem-sound-1cj1)
 - [Message Throttling with Apache Camel Master Component](https://dev.to/hiclab/message-throttling-with-apache-camel-master-component-166p)
-- [Tech Giants Navigate AI Backlash, Infrastructure Investments, and Future of Work Discussions Amidst Global Developments](https://dev.to/stelixx-insights/tech-giants-navigate-ai-backlash-infrastructure-investments-and-future-of-work-discussions-amidst-3cbp)
 - [Clean Architecture in .NET — From Pretty Diagrams to Production‑Ready Code](https://dev.to/cristiansifuentes/clean-architecture-in-net-from-pretty-diagrams-to-production-ready-code-591b)
+- [Comment Blob IA: l’interconnexion Nvidia-OpenAI-Google-Microsoft change tout?](https://dev.to/camille_vingere_f1a536f90/comment-blob-ia-linterconnexion-nvidia-openai-google-microsoft-change-tout-2dfa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
