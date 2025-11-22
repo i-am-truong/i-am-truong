@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [This &#39;Innocent&#39; Array Pattern Quietly Kills Your JavaScript Performance](https://dev.to/samuel_ochaba_eb9c875fa89/this-innocent-array-pattern-quietly-kills-your-javascript-performance-47g8)
+- [Ship Station Packing Slip Template](https://dev.to/preetha_vaishnavi_2b82358/ship-station-packing-slip-template-18jk)
+- [React Native API Example](https://dev.to/shitij_sharma_aa5d4711db6/react-native-api-example-2i57)
 - [YUM TO DNF: Amazon Linux_2023 Package Manager.](https://dev.to/giridharan_devops/yum-to-dnf-amazon-linux2023-package-manager-7m0)
-- [The “var” Error in C# — Why “The contextual keyword ‘var’ may only appear within a local variable declaration” Happens](https://dev.to/cristiansifuentes/the-var-error-in-c-why-the-contextual-keyword-var-may-only-appear-within-a-local-variable-223c)
-- [Mastering Ownership in Rust: How Variables Define Memory Safety](https://dev.to/abhinav_sharma_e01f930be6/mastering-ownership-in-rust-how-variables-define-memory-safety-3fak)
-- [Simple Regression Linear](https://dev.to/mohammadreza_mahdian_3841/simple-regression-linear-3gfe)
-- [Optimizing Data Processing on AWS with Data Compaction](https://dev.to/aws-builders/optimizing-data-processing-on-aws-with-data-compaction-1chc)
+- [Agent design is still hard](https://dev.to/technoblogger14o3/agent-design-is-still-hard-fne)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
