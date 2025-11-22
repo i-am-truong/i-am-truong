@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The “var” Error in C# — Why “The contextual keyword ‘var’ may only appear within a local variable declaration” Happens](https://dev.to/cristiansifuentes/the-var-error-in-c-why-the-contextual-keyword-var-may-only-appear-within-a-local-variable-223c)
+- [Mastering Ownership in Rust: How Variables Define Memory Safety](https://dev.to/abhinav_sharma_e01f930be6/mastering-ownership-in-rust-how-variables-define-memory-safety-3fak)
+- [Simple Regression Linear](https://dev.to/mohammadreza_mahdian_3841/simple-regression-linear-3gfe)
+- [Optimizing Data Processing on AWS with Data Compaction](https://dev.to/aws-builders/optimizing-data-processing-on-aws-with-data-compaction-1chc)
 - [The Ultimate Technical Writing Stack for 2025](https://dev.to/therealmrmumba/the-ultimate-technical-writing-stack-for-2025-49k5)
-- [My AI Stopped &quot;Guessing&quot; and Started &quot;Thinking&quot;: Implementing a Planning &amp; Reasoning Architecture](https://dev.to/aragossa/my-ai-stopped-guessing-and-started-thinking-implementing-a-planning-reasoning-architecture-4ei3)
-- [NPR Music: Ghost-Note: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-ghost-note-tiny-desk-concert-3o1b)
-- [AI assistance in Development](https://dev.to/divyansh_sareen_2d6e3baa7/ai-assistance-in-development-53nd)
-- [How to avoid getting your BetPKR account blocked?](https://dev.to/car_zilla_9a5c37d90329e8c/how-to-avoid-getting-your-betpkr-account-blocked-5amf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
