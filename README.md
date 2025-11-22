@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How TV Ad Sales Work: A Complete Overview](https://dev.to/jeffkovacek/how-tv-ad-sales-work-a-complete-overview-1ij)
-- [Exploring the Benefits of n8n AWS Integration for Enhanced Workflow Automation](https://dev.to/nayeem79/exploring-the-benefits-of-n8n-aws-integration-for-enhanced-workflow-automation-ii2)
-- [The Role of Social Profiles in Strengthening Brand SEO](https://dev.to/dbhatasana/the-role-of-social-profiles-in-strengthening-brand-seo-35l8)
-- [Spring Cloud Gateway Explained Simply: Routing, Filters, and Real-Life Use Cases](https://dev.to/ashifur_nahid_c0cbfcc7105/spring-cloud-gateway-explained-simply-routing-filters-and-real-life-use-cases-fg8)
-- [Google’s Over-Compliance is Doing the Regime&#39;s Job: A Letter from an Iranian Full-Stack Developer](https://dev.to/habibi_dev/googles-over-compliance-is-doing-the-regimes-job-a-letter-from-an-iranian-full-stack-developer-39em)
+- [The Day I Learned What Actually Slows Down React Apps](https://dev.to/nitinnair89/the-day-i-learned-what-actually-slows-down-react-apps-552p)
+- [Full-Stack Mobile Development &lpar;Flutter + Serverpod&rpar; #4 - Task CRUD Operations](https://dev.to/techwithsam/full-stack-mobile-development-flutter-serverpod-4-task-crud-operations-5fh7)
+- [How I Vibe Coded a Custom Telegram Downloader &lpar;Because Browser Throttling is the Worst&rpar;](https://dev.to/anay_pandya_bfac6bcdbb055/how-i-vibe-coded-a-custom-telegram-downloader-because-browser-throttling-is-the-worst-3alb)
+- [Building an End-to-End Monitoring Architecture in Azure for a Multi-Service Product](https://dev.to/techwithhari/building-an-end-to-end-monitoring-architecture-in-azure-for-a-multi-service-product-237j)
+- [JavaScript Clean Code Mastery: Part 2 - Functions That Do One Thing Well](https://dev.to/sizan_mahmud0_e7c3fd0cb68/javascript-clean-code-mastery-part-2-functions-that-do-one-thing-well-89f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
