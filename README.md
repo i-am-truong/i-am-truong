@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building an impossible Tic-Tac-Toe with Minimax and LemonadeJS](https://dev.to/hodeware/building-an-impossible-tic-tac-toe-with-minimax-and-lemonadejs-52df)
+- [Building a High-Performance Live Network Sniffer in Rust &lpar;Without Kernel Drivers&rpar;](https://dev.to/bored123/building-a-high-performance-live-network-sniffer-in-rust-without-kernel-drivers-5398)
 - [Build a Docusaurus-like Site with FastAPI: Step 6 - Sidebar Generation](https://dev.to/leapcell/build-a-docusaurus-like-site-with-fastapi-step-6-sidebar-generation-4i7b)
 - [A Python Tool That Simplifies Access to THE World University Rankings Data](https://dev.to/c3nk/a-python-tool-that-simplifies-access-to-the-world-university-rankings-data-24im)
 - [Is It Worth Becoming a Data Analyst?](https://dev.to/ch-kartik/is-it-worth-becoming-a-data-analyst-3nch)
-- [How I Fixed the “Large Files Detected” Error When Pushing a Terraform Project to GitHub](https://dev.to/christiana_otoboh/how-i-fixed-the-large-files-detected-error-when-pushing-a-terraform-project-to-github-3581)
-- [Pasos para Crear una Nueva Instancia de SQL Server](https://dev.to/oscarolg/pasos-para-crear-una-nueva-instancia-de-sql-server-3emg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
