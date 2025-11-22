@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Unlock the Power of Lookalike Modeling in Advertisements](https://dev.to/drcarlosruizviquez/unlock-the-power-of-lookalike-modeling-in-advertisements-14b7)
 - [Building an impossible Tic-Tac-Toe with Minimax and LemonadeJS](https://dev.to/hodeware/building-an-impossible-tic-tac-toe-with-minimax-and-lemonadejs-52df)
 - [Building a High-Performance Live Network Sniffer in Rust &lpar;Without Kernel Drivers&rpar;](https://dev.to/bored123/building-a-high-performance-live-network-sniffer-in-rust-without-kernel-drivers-5398)
+- [I Thought TOON Was Hype. Then I Tested It…](https://dev.to/nishant_prakash_780f5d541/i-thought-toon-was-hype-then-i-tested-it-3bad)
 - [Build a Docusaurus-like Site with FastAPI: Step 6 - Sidebar Generation](https://dev.to/leapcell/build-a-docusaurus-like-site-with-fastapi-step-6-sidebar-generation-4i7b)
-- [A Python Tool That Simplifies Access to THE World University Rankings Data](https://dev.to/c3nk/a-python-tool-that-simplifies-access-to-the-world-university-rankings-data-24im)
-- [Is It Worth Becoming a Data Analyst?](https://dev.to/ch-kartik/is-it-worth-becoming-a-data-analyst-3nch)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
