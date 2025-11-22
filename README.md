@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Common Coding Mistakes at Every Level &lpar;And How to Fix Them&rpar;](https://dev.to/thebitforge/common-coding-mistakes-at-every-level-and-how-to-fix-them-bnk)
-- [Java JOLT library tutorial with Examples](https://dev.to/sadiul_hakim/java-jolt-library-tutorial-with-examples-3afc)
-- [I’m building a Python-native frontend framework that runs in the browser](https://dev.to/parag_ghatage_dev124/im-building-a-python-native-frontend-framework-that-runs-in-the-browser-5cl5)
-- [How to build a responsive alternating timeline with Tailwind CSS](https://dev.to/mike_andreuzza/how-to-build-a-responsive-alternating-timeline-with-tailwind-css-3j4j)
-- [AWS DevSecOps: Deep Dive into Software Development, Security, and Operations Integration](https://dev.to/danmuso/aws-devsecops-deep-dive-into-software-development-security-and-operations-integration-f22)
+- [Day 7: Simple Calculator - Putting It All Together - 30 Days of Python Challenge](https://dev.to/sanaipei001/day-7-simple-calculator-putting-it-all-together-30-days-of-python-challenge-i9d)
+- [The Future of Digital Marketing: Strategies Businesses Can’t Ignore in 2025](https://dev.to/brand_a2db3fb555a521dd682/the-future-of-digital-marketing-strategies-businesses-cant-ignore-in-2025-2k38)
+- [Day 3: Python Programming](https://dev.to/aruna_arun_0cda4eb425bb0f/day-3-python-programming-2eo9)
+- [Untitled](https://dev.to/w_c_bbebf0827bbc4fbb8cbb4/untitled-3oee)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-374k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
