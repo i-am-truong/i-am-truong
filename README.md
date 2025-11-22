@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Andrew Huang: Making a track with the dial-up modem sound](https://dev.to/music_youtube/andrew-huang-making-a-track-with-the-dial-up-modem-sound-154n)
+- [Real Blazor WebAssembly Production Pitfalls](https://dev.to/janhjordie/real-blazor-webassembly-production-pitfalls-3hmf)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-7k8)
 - [How Machines Learned to Write Software in a Human Like Way](https://dev.to/guswoltmann84/how-machines-learned-to-write-software-in-a-human-like-way-1d9c)
-- [Why Financial Sentiment Analysis Failed Without Explainability &lpar;And How I Fixed It&rpar;](https://dev.to/ambalogun/why-financial-sentiment-analysis-failed-without-explainability-and-how-i-fixed-it-46n1)
-- [Unlock the Power of Lookalike Modeling in Advertisements](https://dev.to/drcarlosruizviquez/unlock-the-power-of-lookalike-modeling-in-advertisements-14b7)
-- [Building an impossible Tic-Tac-Toe with Minimax and LemonadeJS](https://dev.to/hodeware/building-an-impossible-tic-tac-toe-with-minimax-and-lemonadejs-52df)
-- [Building a High-Performance Live Network Sniffer in Rust &lpar;Without Kernel Drivers&rpar;](https://dev.to/bored123/building-a-high-performance-live-network-sniffer-in-rust-without-kernel-drivers-5398)
+- [Tech Giants Navigate AI Backlash, Infrastructure Investments, and Future of Work Discussions Amidst Global Developments](https://dev.to/stelixx-insights/tech-giants-navigate-ai-backlash-infrastructure-investments-and-future-of-work-discussions-amidst-2dil)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
