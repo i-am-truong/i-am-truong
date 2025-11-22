@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Java JOLT library tutorial with Examples](https://dev.to/sadiul_hakim/java-jolt-library-tutorial-with-examples-3afc)
+- [I’m building a Python-native frontend framework that runs in the browser](https://dev.to/parag_ghatage_dev124/im-building-a-python-native-frontend-framework-that-runs-in-the-browser-5cl5)
+- [How to build a responsive alternating timeline with Tailwind CSS](https://dev.to/mike_andreuzza/how-to-build-a-responsive-alternating-timeline-with-tailwind-css-3j4j)
 - [AWS DevSecOps: Deep Dive into Software Development, Security, and Operations Integration](https://dev.to/danmuso/aws-devsecops-deep-dive-into-software-development-security-and-operations-integration-f22)
-- [Integrating Google ADK to Build Smarter Multimodal AI Agents](https://dev.to/mabualzait/integrating-google-adk-to-build-smarter-multimodal-ai-agents-26bh)
-- [10 GitHub Repos Every Serious Prompt Writer Should Be Using](https://dev.to/web_dev-usman/10-github-repos-every-serious-prompt-writer-should-be-using-21jk)
-- [WordPress 6.9: New Features, Release Date &amp; Why It Matters](https://dev.to/serveravatar/wordpress-69-new-features-release-date-why-it-matters-5hen)
+- [API Monetization Made Easy: How Monetzly Transforms AI Interactions](https://dev.to/monetzly/api-monetization-made-easy-how-monetzly-transforms-ai-interactions-58i5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
