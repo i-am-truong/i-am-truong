@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀Automate Docker Image Build, Trivy Scan &amp; Push to Docker Hub Using OpenTofu](https://dev.to/latchudevops/automate-docker-image-build-trivy-scan-push-to-docker-hub-using-opentofu-2986)
+- [🌌 Silent-Civ Part14 12-3 — Integrated Persona Case Study: NuLufie &amp; LumiFie](https://dev.to/kato_masato_c5593c81af5c6/silent-civ-part-12-3-integrated-persona-case-study-nulufie-lumifie-2kbj)
 - [Scalable Multi-Tenant Architecture for Hundreds of Custom Domains](https://dev.to/peter_dyakov_06f3c69a46b7/scalable-multi-tenant-architecture-for-hundreds-of-custom-domains-56mn)
-- [My first flash loan protocol: A Solana adventure](https://dev.to/ola-zoll/my-first-flash-loan-protocol-a-solana-adventure-3i4k)
-- [Birthday Gift](https://dev.to/preetha_vaishnavi_2b82358/birthday-gift-23ng)
-- [🌿 The Tools That Make My Developer Life Easier](https://dev.to/rubiin/the-tools-that-make-my-developer-life-easier-1p06)
-- [This &#39;Innocent&#39; Array Pattern Quietly Kills Your JavaScript Performance](https://dev.to/samuel_ochaba_eb9c875fa89/this-innocent-array-pattern-quietly-kills-your-javascript-performance-47g8)
+- [Transform Conversations into Revenue with Monetzly&#39;s SDK Integration](https://dev.to/monetzly/transform-conversations-into-revenue-with-monetzlys-sdk-integration-bhh)
+- [[gsap] Moody Parallax 3D Depth Grid Gallery](https://dev.to/preetha_vaishnavi_2b82358/gsap-moody-parallax-3d-depth-grid-gallery-n8l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
