@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Build a Docusaurus-like Site with FastAPI: Step 6 - Sidebar Generation](https://dev.to/leapcell/build-a-docusaurus-like-site-with-fastapi-step-6-sidebar-generation-4i7b)
+- [A Python Tool That Simplifies Access to THE World University Rankings Data](https://dev.to/c3nk/a-python-tool-that-simplifies-access-to-the-world-university-rankings-data-24im)
+- [Is It Worth Becoming a Data Analyst?](https://dev.to/ch-kartik/is-it-worth-becoming-a-data-analyst-3nch)
+- [How I Fixed the “Large Files Detected” Error When Pushing a Terraform Project to GitHub](https://dev.to/christiana_otoboh/how-i-fixed-the-large-files-detected-error-when-pushing-a-terraform-project-to-github-3581)
 - [Pasos para Crear una Nueva Instancia de SQL Server](https://dev.to/oscarolg/pasos-para-crear-una-nueva-instancia-de-sql-server-3emg)
-- [Day F5: The Day I Lost](https://dev.to/casperday11/day-f5-the-day-i-lost-cj3)
-- [Message Throttling with Apache Camel Master Component](https://dev.to/hiclab/message-throttling-with-apache-camel-master-component-166p)
-- [Clean Architecture in .NET — From Pretty Diagrams to Production‑Ready Code](https://dev.to/cristiansifuentes/clean-architecture-in-net-from-pretty-diagrams-to-production-ready-code-591b)
-- [Comment Blob IA: l’interconnexion Nvidia-OpenAI-Google-Microsoft change tout?](https://dev.to/camille_vingere_f1a536f90/comment-blob-ia-linterconnexion-nvidia-openai-google-microsoft-change-tout-2dfa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
