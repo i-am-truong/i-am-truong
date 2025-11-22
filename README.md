@@ -122,9 +122,9 @@ Python                   1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [AI&#39;s Honesty Problem: 7 Things the Industry Won&#39;t Tell You](https://dev.to/mashraf_aiman_b9a968e5c1d/ais-honesty-problem-7-things-the-industry-wont-tell-you-j6m)
 - [Symfony Station Communiqué - ✦ Stardate: 21 November 2025 ✦](https://dev.to/reubenwalker64/symfony-station-communique-stardate-21-november-2025-537p)
+- [🧠 How Large Language Models Are Trained &lpar;And How They “Think”&rpar; — A Beginner-Friendly Guide](https://dev.to/natarajan_c_k/how-large-language-models-are-trained-and-how-they-think-a-beginner-friendly-guide-5clg)
 - [Never Miss a Reservation Again: Building an Automated Restaurant Booking Bot](https://dev.to/dilutedev/never-miss-a-reservation-again-building-an-automated-restaurant-booking-bot-1mag)
-- [How to Deploy a Django Website with Automated CI/CD Pipeline](https://dev.to/teemu_virta_19868280a6d8b/how-to-deploy-a-django-website-with-automated-cicd-pipeline-37h2)
-- [Node.js API Fetch Example with Real Data](https://dev.to/developerhelpfull/nodejs-api-fetch-example-with-real-data-2kop)
+- [How to Deploy a Django Website with Automated CI/CD Pipeline](https://dev.to/teevirta/how-to-deploy-a-django-website-with-automated-cicd-pipeline-37h2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
