@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The AI industry isn’t suffering from a lack of innovation. It’s suffering from a lack of honesty...](https://dev.to/jaideepparashar/the-ai-industry-isnt-suffering-from-a-lack-of-innovation-its-suffering-from-a-lack-of-honesty-4b3p)
+- [The AI Industry Has a Truth Problem: Here’s How I See It](https://dev.to/jaideepparashar/the-ai-industry-has-a-truth-problem-heres-how-i-see-it-1gb1)
 - [AWS Compliance with Terraform](https://dev.to/aws-builders/aws-compliance-with-terraform-faa)
 - [Beginner to Builder An AWeSome Cloud Journey](https://dev.to/aws-builders/beginner-to-builder-an-awesome-cloud-journey-1pej)
-- [Rick Beato: Where Have All The Metalheads Gone?](https://dev.to/music_youtube/rick-beato-where-have-all-the-metalheads-gone-552d)
-- [Implementing Authentication Middleware in Next.js with i18n Support](https://dev.to/tajudeen_abdulgafar_e0363/implementing-authentication-middleware-in-nextjs-with-i18n-support-3iom)
-- [Building a Native Rich Text Editor for React Native](https://dev.to/typelets/building-a-native-rich-text-editor-for-react-native-c7b)
+- [Releasing share-my-repo: A Journey from Local Code to PyPI](https://dev.to/hsachdeva9/releasing-share-my-repo-a-journey-from-local-code-to-pypi-412p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
