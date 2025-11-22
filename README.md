@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a React Native Hiragana &amp; Katakana Learning App — My Approach &amp; Lessons Learned](https://dev.to/maheshkale/building-a-react-native-hiragana-katakana-learning-app-my-approach-lessons-learned-12dn)
 - [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-1mlk)
 - [Sharding - Architecture Series: Part 5](https://dev.to/usman_awan/sharding-architecture-series-part-5-26lp)
+- [Introducing &quot;badtrace&quot;. Generate &quot;bad&quot; OpenTelemetry traces easily](https://dev.to/agardnerit/introducing-badtrace-generate-bad-opentelemetry-traces-easily-2712)
 - [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-4nb6)
-- [WebApiClientGen vs Kiota regarding ASP.NET backend + Angular Frontend](https://dev.to/zijianhuang/webapiclientgen-vs-kiota-regarding-aspnet-backend-angular-frontend-4op0)
-- [Selenium Architecture &amp; Python Virtual Environ](https://dev.to/pooja_shyam_643fff420b3a8/selenium-architecture-python-virtual-environ-3fi2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
