@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Coding Assistants Battle 2025: GitHub Copilot&#39;s Raptor Mini vs Claude Code vs Cursor Composer](https://dev.to/bakhat_yar_016451bb6f3b86/ai-coding-assistants-battle-2025-github-copilots-raptor-mini-vs-claude-code-vs-cursor-composer-4n87)
-- [How I Ended Up Building With GitHub Copilot &lpar;the Remote One&rpar; And Why It Still Feels Kinda Wild](https://dev.to/povilasjurcys/how-i-ended-up-building-with-github-copilot-the-remote-one-and-why-it-still-feels-kinda-wild-36c1)
-- [🚀 Learn to Code Like a Genius &lpar;and Not Waste Time&rpar; — A Practical Guide for Real Beginners](https://dev.to/nish2005karsh/learn-to-code-like-a-genius-and-not-waste-time-a-practical-guide-for-real-beginners-13ij)
-- [Modern Web Developer](https://dev.to/devshehzad/modern-web-developer-33pi)
-- [Why Django + Tailwind + Cursor AI is My Go-To Stack for Building MVPs Fast](https://dev.to/saad_khan_4e6e4fdf000fbf5/why-django-tailwind-cursor-ai-is-my-go-to-stack-for-building-mvps-fast-4lnj)
+- [A Developer’s Guide to Apache Kafka: From Basics to Architecture in One Read](https://dev.to/varunpatil1709/a-developers-guide-to-apache-kafka-from-basics-to-architecture-in-one-read-3i21)
+- [Free Online Accessibility Scanner — Audit Any Webpage Instantly](https://dev.to/frontendtoolstech/free-online-accessibility-scanner-audit-any-webpage-instantly-1bh7)
+- [Análise de Vetores de Ataque em Arquitetura de Aplicações Web](https://dev.to/obtuosa/analise-de-vetores-de-ataque-em-arquitetura-de-aplicacoes-web-393h)
+- [Introducing Gati: The Backend That Builds, Scales, and Evolves Itself](https://dev.to/krishnapaul/introducing-gati-the-backend-that-builds-scales-and-evolves-itself-1165)
+- [Camunda Health Monitor v2.0 Open Source: AI-Powered Intelligence](https://dev.to/dmitriy_champa_d458cfc7/camunda-health-monitor-v20-open-source-ai-powered-intelligence-4nlf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
