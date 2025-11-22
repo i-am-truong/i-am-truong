@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [I built GitPulse — A tool to help you find beginner-friendly open-source projects](https://dev.to/jondoehimself/i-built-gitpulse-a-tool-to-help-you-find-beginner-friendly-open-source-projects-1fgp)
+- [Tech Giants Navigate AI Backlash, Infrastructure Investments, and Future of Work Discussions Amidst Global Developments](https://dev.to/stelixx-insights/tech-giants-navigate-ai-backlash-infrastructure-investments-and-future-of-work-discussions-amidst-4ia5)
+- [Introducing Gati — The Zero-Ops Backend Framework for the AI Era](https://dev.to/krishnapaul/introducing-gati-the-zero-ops-backend-framework-for-the-ai-era-4jde)
 - [#Learning REACTJS And 100 Days of Writing code](https://dev.to/patrick_okoro_6f598304058/learning-reactjs-and-100-days-of-writing-code-168n)
 - [The Hidden Cost of Context Switching for Engineering Managers](https://dev.to/secur3-et/the-hidden-cost-of-context-switching-for-engineering-managers-3p09)
-- [Building a Hybrid Site Generator with Go + SQLite](https://dev.to/thornhall/building-a-hybrid-site-generator-with-go-sqlite-3j51)
-- [Breaking News: OpenAI Rebrands to OpaqueAI](https://dev.to/vaticnz/breaking-news-openai-rebrands-to-opaqueai-4edk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
