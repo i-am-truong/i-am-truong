@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Node.js API Fetch Example with Real Data](https://dev.to/shitij_sharma_aa5d4711db6/nodejs-api-fetch-example-with-real-data-2kop)
-- [P2A Security &amp; Governance: Building Enterprise-Ready Guardrails for AWS Process-to-Agentic Systems](https://dev.to/kishore_karumanchi_acbc18/p2a-security-governance-building-enterprise-ready-guardrails-for-aws-process-to-agentic-systems-mbk)
-- [NPR Music: Ghost-Note: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-ghost-note-tiny-desk-concert-1ak1)
-- [PHP - instalación y configuración en Ubuntu](https://dev.to/oscarpincho/php-instalacion-y-configuracion-en-ubuntu-10n8)
-- [From Weeks to 15 Minutes: How We Built a Data Migration System That Changed Everything](https://dev.to/mr_harshkumar_jha/from-weeks-to-15-minutes-how-we-built-a-data-migration-system-that-changed-everything-9gg)
+- [AI&#39;s Honesty Problem: 7 Things the Industry Won&#39;t Tell You](https://dev.to/mashraf_aiman_b9a968e5c1d/ais-honesty-problem-7-things-the-industry-wont-tell-you-j6m)
+- [Symfony Station Communiqué - ✦ Stardate: 21 November 2025 ✦](https://dev.to/reubenwalker64/symfony-station-communique-stardate-21-november-2025-537p)
+- [Never Miss a Reservation Again: Building an Automated Restaurant Booking Bot](https://dev.to/dilutedev/never-miss-a-reservation-again-building-an-automated-restaurant-booking-bot-1mag)
+- [How to Deploy a Django Website with Automated CI/CD Pipeline](https://dev.to/teemu_virta_19868280a6d8b/how-to-deploy-a-django-website-with-automated-cicd-pipeline-37h2)
+- [Node.js API Fetch Example with Real Data](https://dev.to/developerhelpfull/nodejs-api-fetch-example-with-real-data-2kop)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
