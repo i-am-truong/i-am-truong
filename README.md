@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Simple Ticket Tracker CLI in Go](https://dev.to/chris-amaechi/building-a-simple-ticket-tracker-cli-in-go-39fp)
+- [From Prototype to Production: How to Engineer Reliable LLM Systems](https://dev.to/aiden_up_b0673604178ec753/from-prototype-to-production-how-to-engineer-reliable-llm-systems-2eff)
+- [🚀 Integrating API Gateway with Private ALB: The New, Simpler, and More Scalable Way](https://dev.to/chainiz/integrating-api-gateway-with-private-alb-the-new-simpler-and-more-scalable-way-54ol)
+- [New User Defined Increment and decrement in C# 14](https://dev.to/lovelacecoding/new-user-defined-increment-and-decrement-in-c-14-26cl)
 - [How to connect the Next.js MCP server to VS Code Copilot Chat](https://dev.to/andreik/how-to-connect-the-nextjs-mcp-server-to-vs-code-copilot-chat-3pii)
-- [Building My Portfolio: From Idea to Launch](https://dev.to/thehollowed1/building-my-portfolio-from-idea-to-launch-4jmc)
-- [🚀 Integrando API Gateway con ALB Privado: La Nueva Forma Más Simple y Escalable](https://dev.to/chainiz/integrando-api-gateway-con-alb-privado-la-nueva-forma-mas-simple-y-escalable-370k)
-- [Maximize Your Developer Revenue through Monetzly&#39;s AI Monetization Tools](https://dev.to/monetzly/maximize-your-developer-revenue-through-monetzlys-ai-monetization-tools-3ml8)
-- [I built a tiny autosave engine for web forms](https://dev.to/plc-creates/i-built-a-tiny-autosave-engine-for-web-forms-1f08)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
