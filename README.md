@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-5896)
-- [Goodbye Green Screen: Why AI Background Removal Outperforms Traditional Editing](https://dev.to/freepixel11/goodbye-green-screen-why-ai-background-removal-outperforms-traditional-editing-3ih0)
-- [Be a Responsible Code Reviewer](https://dev.to/manojshr/be-a-responsible-code-reviewer-46ni)
-- [UK Unleashes New Cybersecurity Bill: Fortifying Digital Defenses After $28M Crypto Fraud](https://dev.to/nftsaz2025/uk-unleashes-new-cybersecurity-bill-fortifying-digital-defenses-after-28m-crypto-fraud-4j1g)
-- [Building Streaming Iceberg Tables for Real-Time Logistics Analytics](https://dev.to/awsugonair/building-streaming-iceberg-tables-for-real-time-logistics-analytics-43g4)
+- [Exploring the Benefits of n8n AWS Integration for Enhanced Workflow Automation](https://dev.to/nayeem79/exploring-the-benefits-of-n8n-aws-integration-for-enhanced-workflow-automation-ii2)
+- [The Role of Social Profiles in Strengthening Brand SEO](https://dev.to/dbhatasana/the-role-of-social-profiles-in-strengthening-brand-seo-35l8)
+- [Spring Cloud Gateway Explained Simply: Routing, Filters, and Real-Life Use Cases](https://dev.to/ashifur_nahid_c0cbfcc7105/spring-cloud-gateway-explained-simply-routing-filters-and-real-life-use-cases-fg8)
+- [Google’s Over-Compliance is Doing the Regime&#39;s Job: A Letter from an Iranian Full-Stack Developer](https://dev.to/habibi_dev/googles-over-compliance-is-doing-the-regimes-job-a-letter-from-an-iranian-full-stack-developer-39em)
+- [From Mt. Gox to the Stars: How Jed McCaleb Built Stellar Into a $15B Financial Revolution](https://dev.to/roan911/from-mt-gox-to-the-stars-how-jed-mccaleb-built-stellar-into-a-15b-financial-revolution-5h7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
