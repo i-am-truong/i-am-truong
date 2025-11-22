@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Senior Dev&#39;s Guide to Angular Architecture: Mastering the &quot;Smart vs. Dumb&quot; Component Pattern](https://dev.to/devhabib/a-senior-devs-guide-to-angular-architecture-mastering-the-smart-vs-dumb-component-pattern-1ham)
+- [10 AI Tools You Can Integrate Into Azure DevOps Today](https://dev.to/browsejobs/10-ai-tools-you-can-integrate-into-azure-devops-today-28ae)
+- [Clean Eating and Smart Nutrition Habits for 2025](https://dev.to/creative_soul_1f7d988fcf9/clean-eating-and-smart-nutrition-habits-for-2025-2cph)
 - [The Fast Fashion Era of Software](https://dev.to/danmaps/the-fast-fashion-era-of-software-3916)
 - [How to Use Unsafe in Go Without Killing Your Service](https://dev.to/devflex-pro/how-to-use-unsafe-in-go-without-killing-your-service-699)
-- [Save Me a Space at the Grown-ups’ Table | Bid Solutions](https://dev.to/bid_solution/save-me-a-space-at-the-grown-ups-table-bid-solutions-gh2)
-- [The Day I Learned What Actually Slows Down React Apps](https://dev.to/nitinnair89/the-day-i-learned-what-actually-slows-down-react-apps-552p)
-- [Full-Stack Mobile Development &lpar;Flutter + Serverpod&rpar; #4 - Task CRUD Operations](https://dev.to/techwithsam/full-stack-mobile-development-flutter-serverpod-4-task-crud-operations-5fh7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
