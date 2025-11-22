@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Notes and Boards as Virtual Offices: A Lightweight Approach](https://dev.to/stakiran/notes-and-boards-as-virtual-offices-a-lightweight-approach-59n4)
+- [Artificial Intelligence as an Educational Equalizer: Infusing AI for quality Sciences and Medical Education in Eastern Nigeria](https://dev.to/sopuluchukwu_eze/artificial-intelligence-as-an-educational-equalizer-infusing-ai-for-quality-sciences-and-medical-j6b)
 - [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-414p)
 - [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-293l)
-- [How to Achieve 100/100 on PageSpeed Insights](https://dev.to/danieltofan/how-to-achieve-100100-on-pagespeed-insights-39e9)
-- [Building a Simple Ticket Tracker CLI in Go](https://dev.to/chris-amaechi/building-a-simple-ticket-tracker-cli-in-go-39fp)
-- [From Prototype to Production: How to Engineer Reliable LLM Systems](https://dev.to/aiden_up_b0673604178ec753/from-prototype-to-production-how-to-engineer-reliable-llm-systems-2eff)
+- [Day 19 : Django Learnings](https://dev.to/stackbento/day-19-django-learnings-1h3h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
