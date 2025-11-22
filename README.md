@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Tiny Games, Big Feelings](https://dev.to/diegodotta/tiny-games-big-feelings-4oke)
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-179c)
-- [Axelang - A Systems Programming Language with Concurrency as a First-Class feature](https://dev.to/navidm/axelang-a-systems-programming-language-with-concurrency-as-a-first-class-feature-4i3b)
-- [Nested query strings in depth — a complete technical guide](https://dev.to/silentwatcher_95/nested-query-strings-in-depth-a-complete-technical-guide-1io8)
-- [A Complete Guide to WebSockets and Socket IO](https://dev.to/afonso_faro_23584ec6be099/a-complete-guide-to-websockets-and-socket-io-2bl9)
+- [Publish the repo-context-packager](https://dev.to/tajudeen_abdulgafar_e0363/publish-the-repo-context-packager-13mp)
+- [As AI-driven diagnosis and treatment plans become increasing](https://dev.to/drcarlosruizviquez/as-ai-driven-diagnosis-and-treatment-plans-become-increasing-350k)
+- [Amazon Bedrock Agentcore &amp; System Design](https://dev.to/aws-builders/amazon-bedrock-agentcore-system-design-m5j)
+- [Mi Agente se Rebeló: Intentando Crear un Bedrock Agent con S3 &lpar;y el Famoso Error &#39;[retrieved information]&#39;](https://dev.to/sinariver/mi-agente-se-rebelo-intentando-crear-un-bedrock-agent-con-s3-y-el-famoso-error-retrieved-2php)
+- [I Built a Bedrock Agent for Learning… And It Definitely Took That Mission Seriously](https://dev.to/sinariver/i-built-a-bedrock-agent-for-learning-and-it-definitely-took-that-mission-seriously-kf3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
