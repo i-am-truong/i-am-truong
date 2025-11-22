@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop Writing Giant If-Else Chains: Master the Python Registry Pattern](https://dev.to/dentedlogic/stop-writing-giant-if-else-chains-master-the-python-registry-pattern-ldm)
-- [Understanding Linux distros &lpar;and how to pick one&rpar;](https://dev.to/svhl/understanding-linux-distros-1ikb)
-- [Packaging and Releasing ContextWeaver for Lab 9](https://dev.to/kkrishnan10/packaging-and-releasing-contextweaver-for-lab-9-2e4n)
-- [Release 0.3 — Normalizing Unicode for Event Text](https://dev.to/kkrishnan10/release-03-normalizing-unicode-for-event-text-5e9p)
-- [Release 0.3 — Fixing All-Day Events Displaying as Two Days](https://dev.to/kkrishnan10/release-03-fixing-all-day-events-displaying-as-two-days-1k9p)
+- [Rick Beato: Where Have All The Metalheads Gone?](https://dev.to/music_youtube/rick-beato-where-have-all-the-metalheads-gone-552d)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-517o)
+- [I built AppInfo - see what apps are actually doing on your phone 📱](https://dev.to/member_9a08d7fd/i-built-appinfo-see-what-apps-are-actually-doing-on-your-phone-35m)
+- [Common Coding Mistakes at Every Level &lpar;And How to Fix Them&rpar;](https://dev.to/thebitforge/common-coding-mistakes-at-every-level-and-how-to-fix-them-4cgb)
+- [Python Registry Pattern: A Clean Alternative to Factory Classes](https://dev.to/dentedlogic/stop-writing-giant-if-else-chains-master-the-python-registry-pattern-ldm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
