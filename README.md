@@ -123,8 +123,8 @@ Python                   1 repo              █░░░░░░░░░░�
 - [Day 9: Temperature Converter - From Celsius to Fahrenheit - 30 Days of Python Challenge](https://dev.to/sanaipei001/day-9-temperature-converter-from-celsius-to-fahrenheit-30-days-of-python-challenge-4672)
 - [Learning Xahau: Automating Reward Claims with Hooks and CronSet](https://dev.to/ekiserrepe/learning-xahau-automating-reward-claims-with-hooks-and-cronset-n4k)
 - [Day 8: Weight Converter - Building Practical Tools - 30 Days of Python Challenge](https://dev.to/sanaipei001/day-8-weight-converter-building-practical-tools-30-days-of-python-challenge-5gk)
+- [A Beginner’s Guide to Aspect-Oriented Programming in Spring](https://dev.to/ashifur_nahid_c0cbfcc7105/a-beginners-guide-to-aspect-oriented-programming-in-spring-3ha2)
 - [The Art of the Imperfect: Embracing AI Glitches for Unexpected Creativity by Arvind Sundararajan](https://dev.to/arvind_sundararajan/the-art-of-the-imperfect-embracing-ai-glitches-for-unexpected-creativity-by-arvind-sundararajan-2i6a)
-- [The Zygote Problem: Why Every Child Deserves a Perfect Future &lpar;And How Systems Break Them&rpar;](https://dev.to/obinexus/the-zygote-problem-why-every-child-deserves-a-perfect-future-and-how-systems-break-them-8o1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
