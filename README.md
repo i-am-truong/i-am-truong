@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-5896)
+- [Goodbye Green Screen: Why AI Background Removal Outperforms Traditional Editing](https://dev.to/freepixel11/goodbye-green-screen-why-ai-background-removal-outperforms-traditional-editing-3ih0)
 - [Be a Responsible Code Reviewer](https://dev.to/manojshr/be-a-responsible-code-reviewer-46ni)
-- [Kopia: Giải pháp sao lưu mã nguồn mở hiệu quả](https://dev.to/stelixx-insider/kopia-giai-phap-sao-luu-ma-nguon-mo-hieu-qua-279i)
-- [Newsletter section #grid #scss](https://dev.to/preetha_vaishnavi_2b82358/newsletter-section-grid-scss-4gne)
-- [Futuristic Newsletter Sign-Up with Time Travel &amp; Premium Animations](https://dev.to/preetha_vaishnavi_2b82358/futuristic-newsletter-sign-up-with-time-travel-premium-animations-pob)
-- [The Ultimate Guide: 100+ Best Free AI Coding Agents &amp; Platforms &lpar;November 2025&rpar;](https://dev.to/chirag127/the-ultimate-guide-100-best-free-ai-coding-agents-platforms-november-2025-230a)
+- [UK Unleashes New Cybersecurity Bill: Fortifying Digital Defenses After $28M Crypto Fraud](https://dev.to/nftsaz2025/uk-unleashes-new-cybersecurity-bill-fortifying-digital-defenses-after-28m-crypto-fraud-4j1g)
+- [Building Streaming Iceberg Tables for Real-Time Logistics Analytics](https://dev.to/awsugonair/building-streaming-iceberg-tables-for-real-time-logistics-analytics-43g4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
