@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 42: Python Roman Numeral Converter, Bidirectional Conversion Between Roman and Integers with Mapping and Loops](https://dev.to/shahrouzlogs/day-42-python-roman-numeral-converter-bidirectional-conversion-between-roman-and-integers-with-1hfg)
-- [CSS](https://dev.to/mujahida_joynab_64c7407d8/css-42ep)
-- [My Code Worked. Excel’s &quot;Protected View&quot; Killed It.](https://dev.to/not_varunkv/my-code-worked-excels-protected-view-killed-it-d58)
-- [Mapping the Skeleton of Every Webpage - Understanding HTML’s Core Structure](https://dev.to/theosnyman-dev/mapping-the-skeleton-of-every-webpage-understanding-htmls-core-structure-28dm)
-- [Beyond the Changelog: Engineering Your Blog for B2B Thought Leadership](https://dev.to/michaelaiglobal/beyond-the-changelog-engineering-your-blog-for-b2b-thought-leadership-3ljg)
+- [Thank you team for the great summary !!!](https://dev.to/aditmodi/thank-you-team-for-the-great-summary--4b15)
+- [✨Automate WordPress + MySQL Deployment Using Docker Compose &amp; OpenTofu on Server](https://dev.to/latchudevops/automate-wordpress-mysql-deployment-using-docker-compose-opentofu-on-server-2adf)
+- [Automating Amazon Product Research with n8n, Decodo &amp; OpenAI](https://dev.to/ranjancse/automating-amazon-product-research-with-n8n-decodo-openai-502d)
+- [Silent-Civ Part 13 — Section 12-2 Fundamental Informational Units &lpar;Mapping the Civilization into YAML&rpar;](https://dev.to/kato_masato_c5593c81af5c6/silent-civ-part-13-section-12-2-fundamental-informational-units-mapping-the-civilization-into-2khh)
+- [Why C Took 52 Years to Get a Real Bool](https://dev.to/ysy63874/why-c-took-52-years-to-get-a-real-bool-13gk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
