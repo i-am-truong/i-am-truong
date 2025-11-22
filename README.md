@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Stop Writing Giant If-Else Chains: Master the Python Registry Pattern](https://dev.to/dentedlogic/stop-writing-giant-if-else-chains-master-the-python-registry-pattern-ldm)
+- [Understanding Linux distros &lpar;and how to pick one&rpar;](https://dev.to/svhl/understanding-linux-distros-1ikb)
+- [Packaging and Releasing ContextWeaver for Lab 9](https://dev.to/kkrishnan10/packaging-and-releasing-contextweaver-for-lab-9-2e4n)
 - [Release 0.3 — Normalizing Unicode for Event Text](https://dev.to/kkrishnan10/release-03-normalizing-unicode-for-event-text-5e9p)
-- [React Suite v6: A Steady Step Toward Modernization](https://dev.to/simonguo/react-suite-v6-a-steady-step-toward-modernization-22b3)
-- [Publishing Your First NPM Package: A Real-World Guide That Actually Helps](https://dev.to/mir_mursalin_ankur/publishing-your-first-npm-package-a-real-world-guide-that-actually-helps-4l4)
-- [The Secret Life of Go](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-1enk)
-- [Mix with the Masters: Mixing Night with Ken Lewis - FULL MIX NIGHT - 11/12/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-full-mix-night-11122025-f6l)
+- [Release 0.3 — Fixing All-Day Events Displaying as Two Days](https://dev.to/kkrishnan10/release-03-fixing-all-day-events-displaying-as-two-days-1k9p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
