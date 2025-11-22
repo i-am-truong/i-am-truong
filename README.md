@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Thank you team for the great summary !!!](https://dev.to/aditmodi/thank-you-team-for-the-great-summary--4b15)
-- [✨Automate WordPress + MySQL Deployment Using Docker Compose &amp; OpenTofu on Server](https://dev.to/latchudevops/automate-wordpress-mysql-deployment-using-docker-compose-opentofu-on-server-2adf)
-- [Automating Amazon Product Research with n8n, Decodo &amp; OpenAI](https://dev.to/ranjancse/automating-amazon-product-research-with-n8n-decodo-openai-502d)
-- [Silent-Civ Part 13 — Section 12-2 Fundamental Informational Units &lpar;Mapping the Civilization into YAML&rpar;](https://dev.to/kato_masato_c5593c81af5c6/silent-civ-part-13-section-12-2-fundamental-informational-units-mapping-the-civilization-into-2khh)
-- [Why C Took 52 Years to Get a Real Bool](https://dev.to/ysy63874/why-c-took-52-years-to-get-a-real-bool-13gk)
+- [The Art of the Imperfect: Embracing AI Glitches for Unexpected Creativity by Arvind Sundararajan](https://dev.to/arvind_sundararajan/the-art-of-the-imperfect-embracing-ai-glitches-for-unexpected-creativity-by-arvind-sundararajan-2i6a)
+- [The Zygote Problem: Why Every Child Deserves a Perfect Future &lpar;And How Systems Break Them&rpar;](https://dev.to/obinexus/the-zygote-problem-why-every-child-deserves-a-perfect-future-and-how-systems-break-them-8o1)
+- [Create a Subdomain in Route53 and Attach it to Elastic Beanstalk Environment](https://dev.to/pearlicia/create-a-subdomain-in-route53-and-attach-it-to-elastic-beanstalk-environment-19l)
+- [Understanding SQLite PRAGMA &lpar;And How better-sqlite3 Makes It Nicer&rpar;](https://dev.to/lovestaco/understanding-sqlite-pragma-and-how-better-sqlite3-makes-it-nicer-1ap0)
+- [I built an animated Pokémon TCG Simulator with Next.js &amp; Tailwind](https://dev.to/bigbenqin/i-built-an-animated-pokemon-tcg-simulator-with-nextjs-tailwind-12j6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
