@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Tech Giants Navigate AI Backlash, Infrastructure Investments, and Future of Work Discussions Amidst Global Developments](https://dev.to/stelixx-insights/tech-giants-navigate-ai-backlash-infrastructure-investments-and-future-of-work-discussions-amidst-4i3j)
+- [Coding Challenge Practice - Question 63](https://dev.to/tomivan/coding-challenge-practice-question-63-4pdd)
 - [Notes and Boards as Virtual Offices: A Lightweight Approach](https://dev.to/stakiran/notes-and-boards-as-virtual-offices-a-lightweight-approach-59n4)
 - [Artificial Intelligence as an Educational Equalizer: Infusing AI for quality Sciences and Medical Education in Eastern Nigeria](https://dev.to/sopuluchukwu_eze/artificial-intelligence-as-an-educational-equalizer-infusing-ai-for-quality-sciences-and-medical-j6b)
 - [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-414p)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-293l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
