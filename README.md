@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [PulseGuard: Real-time Heart Monitoring with eBPF &amp; Cilium](https://dev.to/sundus/pulseguard-real-time-heartmonitoring-with-ebpf-cilium-6bb)
+- [What I Learned From Photographing the Readers Who Walk Into My Shop](https://dev.to/lena-brook/what-i-learned-from-photographing-the-readers-who-walk-into-my-shop-3i3g)
 - [A Developer’s Guide to Apache Kafka: From Basics to Architecture in One Read](https://dev.to/varunpatil1709/a-developers-guide-to-apache-kafka-from-basics-to-architecture-in-one-read-3i21)
 - [Free Online Accessibility Scanner — Audit Any Webpage Instantly](https://dev.to/frontendtoolstech/free-online-accessibility-scanner-audit-any-webpage-instantly-1bh7)
 - [Análise de Vetores de Ataque em Arquitetura de Aplicações Web](https://dev.to/obtuosa/analise-de-vetores-de-ataque-em-arquitetura-de-aplicacoes-web-393h)
-- [Introducing Gati: The Backend That Builds, Scales, and Evolves Itself](https://dev.to/krishnapaul/introducing-gati-the-backend-that-builds-scales-and-evolves-itself-1165)
-- [🚀 Lean Startup: La guía moderna para crear productos que la gente realmente quiere](https://dev.to/joedev090/lean-startup-la-guia-moderna-para-crear-productos-que-la-gente-realmente-quiere-ocl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
