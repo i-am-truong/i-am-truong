@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How TV Ad Sales Work: A Complete Overview](https://dev.to/jeffkovacek/how-tv-ad-sales-work-a-complete-overview-1ij)
 - [Exploring the Benefits of n8n AWS Integration for Enhanced Workflow Automation](https://dev.to/nayeem79/exploring-the-benefits-of-n8n-aws-integration-for-enhanced-workflow-automation-ii2)
 - [The Role of Social Profiles in Strengthening Brand SEO](https://dev.to/dbhatasana/the-role-of-social-profiles-in-strengthening-brand-seo-35l8)
 - [Spring Cloud Gateway Explained Simply: Routing, Filters, and Real-Life Use Cases](https://dev.to/ashifur_nahid_c0cbfcc7105/spring-cloud-gateway-explained-simply-routing-filters-and-real-life-use-cases-fg8)
 - [Google’s Over-Compliance is Doing the Regime&#39;s Job: A Letter from an Iranian Full-Stack Developer](https://dev.to/habibi_dev/googles-over-compliance-is-doing-the-regimes-job-a-letter-from-an-iranian-full-stack-developer-39em)
-- [From Mt. Gox to the Stars: How Jed McCaleb Built Stellar Into a $15B Financial Revolution](https://dev.to/roan911/from-mt-gox-to-the-stars-how-jed-mccaleb-built-stellar-into-a-15b-financial-revolution-5h7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
