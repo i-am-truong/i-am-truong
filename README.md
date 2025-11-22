@@ -122,9 +122,9 @@ Python                   1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [Kopia: Giải pháp sao lưu mã nguồn mở hiệu quả](https://dev.to/stelixx-insider/kopia-giai-phap-sao-luu-ma-nguon-mo-hieu-qua-279i)
 - [Newsletter section #grid #scss](https://dev.to/preetha_vaishnavi_2b82358/newsletter-section-grid-scss-4gne)
-- [Run OSS LLMs on a Single H100 Smarter, Cheaper, Faster](https://dev.to/awsugonair/run-oss-llms-on-a-single-h100-smarter-cheaper-faster-1p25)
 - [Futuristic Newsletter Sign-Up with Time Travel &amp; Premium Animations](https://dev.to/preetha_vaishnavi_2b82358/futuristic-newsletter-sign-up-with-time-travel-premium-animations-pob)
 - [The Ultimate Guide: 100+ Best Free AI Coding Agents &amp; Platforms &lpar;November 2025&rpar;](https://dev.to/chirag127/the-ultimate-guide-100-best-free-ai-coding-agents-platforms-november-2025-230a)
+- [The Ultimate Guide to Best Mobile Recharge Apps with Cashback in 2025](https://dev.to/chirag127/the-ultimate-guide-to-best-mobile-recharge-apps-with-cashback-in-2025-3lf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
