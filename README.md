@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I built GitPulse — A tool to help you find beginner-friendly open-source projects](https://dev.to/jondoehimself/i-built-gitpulse-a-tool-to-help-you-find-beginner-friendly-open-source-projects-1fgp)
 - [#Learning REACTJS And 100 Days of Writing code](https://dev.to/patrick_okoro_6f598304058/learning-reactjs-and-100-days-of-writing-code-168n)
 - [The Hidden Cost of Context Switching for Engineering Managers](https://dev.to/secur3-et/the-hidden-cost-of-context-switching-for-engineering-managers-3p09)
 - [Building a Hybrid Site Generator with Go + SQLite](https://dev.to/thornhall/building-a-hybrid-site-generator-with-go-sqlite-3j51)
 - [Breaking News: OpenAI Rebrands to OpaqueAI](https://dev.to/vaticnz/breaking-news-openai-rebrands-to-opaqueai-4edk)
-- [Building Multi-Touch Attribution in GA4 Without Hiring a Data Analyst](https://dev.to/synergistdigitalmedia/building-multi-touch-attribution-in-ga4-without-hiring-a-data-analyst-243o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
