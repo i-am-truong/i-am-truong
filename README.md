@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why I favor the fundamentals over the &quot;Framework of the Month&quot; for Web Development](https://dev.to/benlue/why-i-favor-the-fundamentals-over-the-framework-of-the-month-for-web-development-1gka)
+- [Migrated my whole SaaS Typing](https://dev.to/omarambat/migrated-my-whole-saas-typing-3ein)
 - [Building a React Native Hiragana &amp; Katakana Learning App — My Approach &amp; Lessons Learned](https://dev.to/maheshkale/building-a-react-native-hiragana-katakana-learning-app-my-approach-lessons-learned-12dn)
 - [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-1mlk)
 - [Sharding - Architecture Series: Part 5](https://dev.to/usman_awan/sharding-architecture-series-part-5-26lp)
-- [Introducing &quot;badtrace&quot;. Generate &quot;bad&quot; OpenTelemetry traces easily](https://dev.to/agardnerit/introducing-badtrace-generate-bad-opentelemetry-traces-easily-2712)
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-4nb6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
