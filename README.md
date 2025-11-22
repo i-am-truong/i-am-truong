@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 9: Temperature Converter - From Celsius to Fahrenheit - 30 Days of Python Challenge](https://dev.to/sanaipei001/day-9-temperature-converter-from-celsius-to-fahrenheit-30-days-of-python-challenge-4672)
+- [Learning Xahau: Automating Reward Claims with Hooks and CronSet](https://dev.to/ekiserrepe/learning-xahau-automating-reward-claims-with-hooks-and-cronset-n4k)
+- [Day 8: Weight Converter - Building Practical Tools - 30 Days of Python Challenge](https://dev.to/sanaipei001/day-8-weight-converter-building-practical-tools-30-days-of-python-challenge-5gk)
 - [The Art of the Imperfect: Embracing AI Glitches for Unexpected Creativity by Arvind Sundararajan](https://dev.to/arvind_sundararajan/the-art-of-the-imperfect-embracing-ai-glitches-for-unexpected-creativity-by-arvind-sundararajan-2i6a)
 - [The Zygote Problem: Why Every Child Deserves a Perfect Future &lpar;And How Systems Break Them&rpar;](https://dev.to/obinexus/the-zygote-problem-why-every-child-deserves-a-perfect-future-and-how-systems-break-them-8o1)
-- [Create a Subdomain in Route53 and Attach it to Elastic Beanstalk Environment](https://dev.to/pearlicia/create-a-subdomain-in-route53-and-attach-it-to-elastic-beanstalk-environment-19l)
-- [Understanding SQLite PRAGMA &lpar;And How better-sqlite3 Makes It Nicer&rpar;](https://dev.to/lovestaco/understanding-sqlite-pragma-and-how-better-sqlite3-makes-it-nicer-1ap0)
-- [I built an animated Pokémon TCG Simulator with Next.js &amp; Tailwind](https://dev.to/bigbenqin/i-built-an-animated-pokemon-tcg-simulator-with-nextjs-tailwind-12j6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
