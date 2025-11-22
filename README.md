@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Imminent Threat of an Atomic Catastrophe: Understanding and Preparing for the Worst](https://dev.to/guswoltmann84/the-imminent-threat-of-an-atomic-catastrophe-understanding-and-preparing-for-the-worst-5g35)
+- [Building a Weather-Aware Activity Tool with OpenWeather &amp; Mapbox](https://dev.to/lushkovskis/building-a-weather-aware-activity-tool-with-openweather-mapbox-1dbn)
+- [How to Find a Job as a Developer and What to Consider During an Interview](https://dev.to/gustavowoltmann18/how-to-find-a-job-as-a-developer-and-what-to-consider-during-an-interview-5cee)
 - [Andrew Huang: Making a track with the dial-up modem sound](https://dev.to/music_youtube/andrew-huang-making-a-track-with-the-dial-up-modem-sound-154n)
 - [Real Blazor WebAssembly Production Pitfalls](https://dev.to/janhjordie/real-blazor-webassembly-production-pitfalls-3hmf)
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-7k8)
-- [How Machines Learned to Write Software in a Human Like Way](https://dev.to/guswoltmann84/how-machines-learned-to-write-software-in-a-human-like-way-1d9c)
-- [Tech Giants Navigate AI Backlash, Infrastructure Investments, and Future of Work Discussions Amidst Global Developments](https://dev.to/stelixx-insights/tech-giants-navigate-ai-backlash-infrastructure-investments-and-future-of-work-discussions-amidst-2dil)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
