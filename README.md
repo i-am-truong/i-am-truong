@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why I favor the fundamentals over the &quot;Framework of the Month&quot; for Web Development](https://dev.to/benlue/why-i-favor-the-fundamentals-over-the-framework-of-the-month-for-web-development-1gka)
-- [Migrated my whole SaaS Typing](https://dev.to/omarambat/migrated-my-whole-saas-typing-3ein)
-- [Building a React Native Hiragana &amp; Katakana Learning App — My Approach &amp; Lessons Learned](https://dev.to/maheshkale/building-a-react-native-hiragana-katakana-learning-app-my-approach-lessons-learned-12dn)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-1mlk)
-- [Sharding - Architecture Series: Part 5](https://dev.to/usman_awan/sharding-architecture-series-part-5-26lp)
+- [AWS DevSecOps: Deep Dive into Software Development, Security, and Operations Integration](https://dev.to/danmuso/aws-devsecops-deep-dive-into-software-development-security-and-operations-integration-f22)
+- [Integrating Google ADK to Build Smarter Multimodal AI Agents](https://dev.to/mabualzait/integrating-google-adk-to-build-smarter-multimodal-ai-agents-26bh)
+- [10 GitHub Repos Every Serious Prompt Writer Should Be Using](https://dev.to/web_dev-usman/10-github-repos-every-serious-prompt-writer-should-be-using-21jk)
+- [WordPress 6.9: New Features, Release Date &amp; Why It Matters](https://dev.to/serveravatar/wordpress-69-new-features-release-date-why-it-matters-5hen)
+- [Day 12: Deep Dive into Azure Cost Management &amp; API Consumption Strategies](https://dev.to/ibbus/day-12-deep-dive-into-azure-cost-management-api-consumption-strategies-a2e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
