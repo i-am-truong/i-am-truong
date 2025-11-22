@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Fast Fashion Era of Software](https://dev.to/danmaps/the-fast-fashion-era-of-software-3916)
+- [How to Use Unsafe in Go Without Killing Your Service](https://dev.to/devflex-pro/how-to-use-unsafe-in-go-without-killing-your-service-699)
+- [Save Me a Space at the Grown-ups’ Table | Bid Solutions](https://dev.to/bid_solution/save-me-a-space-at-the-grown-ups-table-bid-solutions-gh2)
 - [The Day I Learned What Actually Slows Down React Apps](https://dev.to/nitinnair89/the-day-i-learned-what-actually-slows-down-react-apps-552p)
 - [Full-Stack Mobile Development &lpar;Flutter + Serverpod&rpar; #4 - Task CRUD Operations](https://dev.to/techwithsam/full-stack-mobile-development-flutter-serverpod-4-task-crud-operations-5fh7)
-- [How I Vibe Coded a Custom Telegram Downloader &lpar;Because Browser Throttling is the Worst&rpar;](https://dev.to/anay_pandya_bfac6bcdbb055/how-i-vibe-coded-a-custom-telegram-downloader-because-browser-throttling-is-the-worst-3alb)
-- [Building an End-to-End Monitoring Architecture in Azure for a Multi-Service Product](https://dev.to/techwithhari/building-an-end-to-end-monitoring-architecture-in-azure-for-a-multi-service-product-237j)
-- [JavaScript Clean Code Mastery: Part 2 - Functions That Do One Thing Well](https://dev.to/sizan_mahmud0_e7c3fd0cb68/javascript-clean-code-mastery-part-2-functions-that-do-one-thing-well-89f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
