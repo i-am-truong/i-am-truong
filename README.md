@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Tech Giants Navigate AI Backlash, Infrastructure Investments, and Future of Work Discussions Amidst Global Developments](https://dev.to/stelixx-insights/tech-giants-navigate-ai-backlash-infrastructure-investments-and-future-of-work-discussions-amidst-4i3j)
-- [Coding Challenge Practice - Question 63](https://dev.to/tomivan/coding-challenge-practice-question-63-4pdd)
-- [Notes and Boards as Virtual Offices: A Lightweight Approach](https://dev.to/stakiran/notes-and-boards-as-virtual-offices-a-lightweight-approach-59n4)
-- [Artificial Intelligence as an Educational Equalizer: Infusing AI for quality Sciences and Medical Education in Eastern Nigeria](https://dev.to/sopuluchukwu_eze/artificial-intelligence-as-an-educational-equalizer-infusing-ai-for-quality-sciences-and-medical-j6b)
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-414p)
+- [Tech Giants Navigate AI Backlash, Infrastructure Investments, and Future of Work Discussions Amidst Global Developments](https://dev.to/stelixx-insights/tech-giants-navigate-ai-backlash-infrastructure-investments-and-future-of-work-discussions-amidst-4k1o)
+- [Mintlify Ignored This Feature Request for 6 Months. Here&#39;s Our Solution.](https://dev.to/realfishsam/mintlify-ignored-this-feature-request-for-6-months-heres-our-solution-1jan)
+- [Version 1.0.0 Released! My Repo Extraction Tool is now available on NPM!](https://dev.to/whyang9701/100-published-my-repo-extraction-tool-is-on-npm-now-2fbk)
+- [The Divine Algorithm: A Developer’s Confession](https://dev.to/crow004/the-divine-algorithm-a-developers-confession-30jd)
+- [Effective Communication Tips for Engineering Managers](https://dev.to/diamantino_almeida/effective-communication-tips-for-engineering-managers-11ec)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
