@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI&#39;s Honesty Problem: 7 Things the Industry Won&#39;t Tell You](https://dev.to/mashraf_aiman_b9a968e5c1d/ais-honesty-problem-7-things-the-industry-wont-tell-you-j6m)
-- [Symfony Station Communiqué - ✦ Stardate: 21 November 2025 ✦](https://dev.to/reubenwalker64/symfony-station-communique-stardate-21-november-2025-537p)
-- [🧠 How Large Language Models Are Trained &lpar;And How They “Think”&rpar; — A Beginner-Friendly Guide](https://dev.to/natarajan_c_k/how-large-language-models-are-trained-and-how-they-think-a-beginner-friendly-guide-5clg)
-- [Never Miss a Reservation Again: Building an Automated Restaurant Booking Bot](https://dev.to/dilutedev/never-miss-a-reservation-again-building-an-automated-restaurant-booking-bot-1mag)
-- [How to Deploy a Django Website with Automated CI/CD Pipeline](https://dev.to/teevirta/how-to-deploy-a-django-website-with-automated-cicd-pipeline-37h2)
+- [AI Coding Assistants Battle 2025: GitHub Copilot&#39;s Raptor Mini vs Claude Code vs Cursor Composer](https://dev.to/bakhat_yar_016451bb6f3b86/ai-coding-assistants-battle-2025-github-copilots-raptor-mini-vs-claude-code-vs-cursor-composer-4n87)
+- [How I Ended Up Building With GitHub Copilot &lpar;the Remote One&rpar; And Why It Still Feels Kinda Wild](https://dev.to/povilasjurcys/how-i-ended-up-building-with-github-copilot-the-remote-one-and-why-it-still-feels-kinda-wild-36c1)
+- [🚀 Learn to Code Like a Genius &lpar;and Not Waste Time&rpar; — A Practical Guide for Real Beginners](https://dev.to/nish2005karsh/learn-to-code-like-a-genius-and-not-waste-time-a-practical-guide-for-real-beginners-13ij)
+- [Modern Web Developer](https://dev.to/devshehzad/modern-web-developer-33pi)
+- [Why Django + Tailwind + Cursor AI is My Go-To Stack for Building MVPs Fast](https://dev.to/saad_khan_4e6e4fdf000fbf5/why-django-tailwind-cursor-ai-is-my-go-to-stack-for-building-mvps-fast-4lnj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
