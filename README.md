@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The AI industry isn’t suffering from a lack of innovation. It’s suffering from a lack of honesty...](https://dev.to/jaideepparashar/the-ai-industry-isnt-suffering-from-a-lack-of-innovation-its-suffering-from-a-lack-of-honesty-4b3p)
-- [The AI Industry Has a Truth Problem: Here’s How I See It](https://dev.to/jaideepparashar/the-ai-industry-has-a-truth-problem-heres-how-i-see-it-1gb1)
-- [AWS Compliance with Terraform](https://dev.to/aws-builders/aws-compliance-with-terraform-faa)
-- [Beginner to Builder An AWeSome Cloud Journey](https://dev.to/aws-builders/beginner-to-builder-an-awesome-cloud-journey-1pej)
-- [Releasing share-my-repo: A Journey from Local Code to PyPI](https://dev.to/hsachdeva9/releasing-share-my-repo-a-journey-from-local-code-to-pypi-412p)
+- [CSS Filter Property Playground](https://dev.to/preetha_vaishnavi_2b82358/css-filter-property-playground-326n)
+- [Instagram&#39;s Discovery Feed Algorithm: What Actually Gets You Featured &lpar;Not What Instagram Says&rpar;](https://dev.to/synergistdigitalmedia/instagrams-discovery-feed-algorithm-what-actually-gets-you-featured-not-what-instagram-says-1m1n)
+- [My First Software Release: Repo-Context-Packager](https://dev.to/oleksandrakordonets/my-first-software-release-repo-context-packager-dn0)
+- [🧹 The Garbage Collector of Java City — A Story About Memory and Mess](https://dev.to/shweta_aee818203e9dffed84/the-garbage-collector-of-java-city-a-story-about-memory-and-mess-414d)
+- [🚀 Code Tracker AI™ — A Smarter, Healthier Way to Build Software](https://dev.to/monahidalgo/code-tracker-ai-a-smarter-healthier-way-to-build-software-7pj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
