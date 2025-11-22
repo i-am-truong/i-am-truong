@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Messenger: A Tiny Planet, Big Heart — Why This Browser Game Is a Hidden Gem](https://dev.to/robin-ivi/messenger-a-tiny-planet-big-heart-why-this-browser-game-is-a-hidden-gem-41po)
+- [Creating production-ready authentication and authorization](https://dev.to/nandalal_shukla_5c06b56be/creating-production-ready-authentication-and-authorization-3i27)
+- [I Built a Fake-Data Generator for Developers and QA — Here’s Why It Matters](https://dev.to/sandeep_kumar_c31beb94496/i-built-a-fake-data-generator-for-developers-and-qa-heres-why-it-matters-39mh)
 - [The Metaverse is Here: Building for Virtual Reality and Augmented Reality](https://dev.to/softwaredeveloperhub01/the-metaverse-is-here-building-for-virtual-reality-and-augmented-reality-4pga)
-- [Gmail&#39;s 2025 Spam Filter Doesn&#39;t Care About Your Feelings: A Deliverability Reality Check](https://dev.to/synergistdigitalmedia/gmails-2025-spam-filter-doesnt-care-about-your-feelings-a-deliverability-reality-check-1l7k)
-- [Beyond Tool Use: Robots That Invent](https://dev.to/arvind_sundararajan/beyond-tool-use-robots-that-invent-4522)
-- [I built a self-hosted Google Forms alternative and made it open source! 🎉](https://dev.to/anmolbaranwal/i-built-a-self-hosted-google-forms-alternative-and-made-it-open-source-4f11)
-- [Writing for Your Audience: How to Know Who They Are](https://dev.to/onalephile_molemane_e3e9b/writing-for-your-audience-how-to-know-who-they-are-4fkc)
+- [Estratégias de Crescimento para Negócios: Guia Prático e Atualizado](https://dev.to/movin/estrategias-de-crescimento-para-negocios-guia-pratico-e-atualizado-1pfj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
