@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Robotino View - Tutorial Series](https://dev.to/calumk/robotino-view-tutorial-series-3cm3)
-- [The Imminent Threat of an Atomic Catastrophe: Understanding and Preparing for the Worst](https://dev.to/guswoltmann84/the-imminent-threat-of-an-atomic-catastrophe-understanding-and-preparing-for-the-worst-5g35)
-- [How Packaging Shapes a Binary from Build to Delivery](https://dev.to/rijultp/how-packaging-shapes-a-binary-from-build-to-delivery-3e47)
-- [Building a Weather-Aware Activity Tool with OpenWeather &amp; Mapbox](https://dev.to/lushkovskis/building-a-weather-aware-activity-tool-with-openweather-mapbox-1dbn)
-- [How to Find a Job as a Developer and What to Consider During an Interview](https://dev.to/gustavowoltmann18/how-to-find-a-job-as-a-developer-and-what-to-consider-during-an-interview-5cee)
+- [Connecting Power BI to PostgreSQL &lpar;Aiven &amp; Localhost&rpar;: A Simple Step-by-Step Guide](https://dev.to/cristopher_njuguna_6381b1/connecting-power-bi-to-postgresql-aiven-localhost-a-simple-step-by-step-guide-984)
+- [From Raw to Refined: Data Pipeline Architecture at Scale](https://dev.to/pradeep_kaalluri/from-raw-to-refined-data-pipeline-architecture-at-scale-119l)
+- [[Boost]](https://dev.to/zakariajyh/-3iea)
+- [Tech Giants Navigate AI Backlash, Infrastructure Investments, and Future of Work Discussions Amidst Global Developments](https://dev.to/stelixx-insights/tech-giants-navigate-ai-backlash-infrastructure-investments-and-future-of-work-discussions-amidst-glh)
+- [React Native Isn&#39;t React: Why Web Developers Struggle with Mobile](https://dev.to/flovetstack/react-native-isnt-react-why-web-developers-struggle-with-mobile-112m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
