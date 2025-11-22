@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why does the PHP header redirect not work sometimes?](https://dev.to/vijaythapa/why-does-the-php-header-redirect-not-work-sometimes-2k6a)
-- [A Senior Dev&#39;s Guide to Angular Architecture: Mastering the &quot;Smart vs. Dumb&quot; Component Pattern](https://dev.to/devhabib/a-senior-devs-guide-to-angular-architecture-mastering-the-smart-vs-dumb-component-pattern-1ham)
-- [10 AI Tools You Can Integrate Into Azure DevOps Today](https://dev.to/browsejobs/10-ai-tools-you-can-integrate-into-azure-devops-today-28ae)
-- [Clean Eating and Smart Nutrition Habits for 2025](https://dev.to/creative_soul_1f7d988fcf9/clean-eating-and-smart-nutrition-habits-for-2025-2cph)
-- [The Fast Fashion Era of Software](https://dev.to/danmaps/the-fast-fashion-era-of-software-3916)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-1mlk)
+- [Sharding - Architecture Series: Part 5](https://dev.to/usman_awan/sharding-architecture-series-part-5-26lp)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-4nb6)
+- [WebApiClientGen vs Kiota regarding ASP.NET backend + Angular Frontend](https://dev.to/zijianhuang/webapiclientgen-vs-kiota-regarding-aspnet-backend-angular-frontend-4op0)
+- [Selenium Architecture &amp; Python Virtual Environ](https://dev.to/pooja_shyam_643fff420b3a8/selenium-architecture-python-virtual-environ-3fi2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
