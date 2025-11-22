@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Metaverse is Here: Building for Virtual Reality and Augmented Reality](https://dev.to/softwaredeveloperhub01/the-metaverse-is-here-building-for-virtual-reality-and-augmented-reality-4pga)
 - [Gmail&#39;s 2025 Spam Filter Doesn&#39;t Care About Your Feelings: A Deliverability Reality Check](https://dev.to/synergistdigitalmedia/gmails-2025-spam-filter-doesnt-care-about-your-feelings-a-deliverability-reality-check-1l7k)
 - [Beyond Tool Use: Robots That Invent](https://dev.to/arvind_sundararajan/beyond-tool-use-robots-that-invent-4522)
 - [I built a self-hosted Google Forms alternative and made it open source! 🎉](https://dev.to/anmolbaranwal/i-built-a-self-hosted-google-forms-alternative-and-made-it-open-source-4f11)
-- [A QA Engineer&#39;s Guide to Mobile App Testing vs. Web App Testing](https://dev.to/jignect-technologies/a-qa-engineers-guide-to-mobile-app-testing-vs-web-app-testing-43hj)
-- [Why Vitamin D health effects and supplementation matter now?](https://dev.to/parth_consul_cc1f7accb69c/why-vitamin-d-health-effects-and-supplementation-matter-now-2a38)
+- [Writing for Your Audience: How to Know Who They Are](https://dev.to/onalephile_molemane_e3e9b/writing-for-your-audience-how-to-know-who-they-are-4fkc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
