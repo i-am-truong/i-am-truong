@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The HTML Dialog Element: Your Native Solution for Accessible Modals and Popups](https://dev.to/ilham-bouktir/the-html-dialog-element-your-native-solution-for-accessible-modals-and-popups-308p)
-- [Messenger: A Tiny Planet, Big Heart — Why This Browser Game Is a Hidden Gem](https://dev.to/robin-ivi/messenger-a-tiny-planet-big-heart-why-this-browser-game-is-a-hidden-gem-41po)
-- [Creating production-ready authentication and authorization](https://dev.to/nandalal_shukla_5c06b56be/creating-production-ready-authentication-and-authorization-3i27)
-- [I Built a Fake-Data Generator for Developers and QA — Here’s Why It Matters](https://dev.to/sandeep_kumar_c31beb94496/i-built-a-fake-data-generator-for-developers-and-qa-heres-why-it-matters-39mh)
-- [The Metaverse is Here: Building for Virtual Reality and Augmented Reality](https://dev.to/softwaredeveloperhub01/the-metaverse-is-here-building-for-virtual-reality-and-augmented-reality-4pga)
+- [Day 42: Python Roman Numeral Converter, Bidirectional Conversion Between Roman and Integers with Mapping and Loops](https://dev.to/shahrouzlogs/day-42-python-roman-numeral-converter-bidirectional-conversion-between-roman-and-integers-with-1hfg)
+- [CSS](https://dev.to/mujahida_joynab_64c7407d8/css-42ep)
+- [My Code Worked. Excel’s &quot;Protected View&quot; Killed It.](https://dev.to/not_varunkv/my-code-worked-excels-protected-view-killed-it-d58)
+- [Mapping the Skeleton of Every Webpage - Understanding HTML’s Core Structure](https://dev.to/theosnyman-dev/mapping-the-skeleton-of-every-webpage-understanding-htmls-core-structure-28dm)
+- [Beyond the Changelog: Engineering Your Blog for B2B Thought Leadership](https://dev.to/michaelaiglobal/beyond-the-changelog-engineering-your-blog-for-b2b-thought-leadership-3ljg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
