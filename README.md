@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Universe 2025 Recap](https://dev.to/bolt04/github-universe-2025-recap-9gl)
-- [Vasuki iTech Unveils Vasuki Cloud: A Unified, AI-Ready, Developer-First Cloud Platform for the Next Generation of Builders](https://dev.to/adamya_khairwal_9d2286eac/vasuki-itech-unveils-vasuki-cloud-a-unified-ai-ready-developer-first-cloud-platform-for-the-next-ge7)
-- [Introducing PrettyPrint — a PHP array pretty-printer with Python-/PyTorch-style formatting](https://dev.to/samuel_akopyan_e902195a96/introducing-prettyprint-a-php-array-pretty-printer-with-python-pytorch-style-formatting-1ceb)
-- [PostgreSQL Backup Myths Developers Still Believe: Comparison &amp; Truth](https://dev.to/i_am_john_tempenser/postgresql-backup-myths-developers-still-believe-comparison-truth-aie)
-- [Authentication vs Authorization &lpar;Explained in the Simplest Way Possible&rpar;](https://dev.to/njokimwai/authentication-vs-authorization-explained-in-the-simplest-way-possible-11n)
+- [Node.js API Fetch Example with Real Data](https://dev.to/shitij_sharma_aa5d4711db6/nodejs-api-fetch-example-with-real-data-2kop)
+- [P2A Security &amp; Governance: Building Enterprise-Ready Guardrails for AWS Process-to-Agentic Systems](https://dev.to/kishore_karumanchi_acbc18/p2a-security-governance-building-enterprise-ready-guardrails-for-aws-process-to-agentic-systems-mbk)
+- [NPR Music: Ghost-Note: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-ghost-note-tiny-desk-concert-1ak1)
+- [PHP - instalación y configuración en Ubuntu](https://dev.to/oscarpincho/php-instalacion-y-configuracion-en-ubuntu-10n8)
+- [From Weeks to 15 Minutes: How We Built a Data Migration System That Changed Everything](https://dev.to/mr_harshkumar_jha/from-weeks-to-15-minutes-how-we-built-a-data-migration-system-that-changed-everything-9gg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
