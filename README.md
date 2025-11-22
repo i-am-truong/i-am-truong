@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Connecting Power BI to PostgreSQL &lpar;Aiven &amp; Localhost&rpar;: A Simple Step-by-Step Guide](https://dev.to/cristopher_njuguna_6381b1/connecting-power-bi-to-postgresql-aiven-localhost-a-simple-step-by-step-guide-984)
-- [From Raw to Refined: Data Pipeline Architecture at Scale](https://dev.to/pradeep_kaalluri/from-raw-to-refined-data-pipeline-architecture-at-scale-119l)
-- [[Boost]](https://dev.to/zakariajyh/-3iea)
-- [Tech Giants Navigate AI Backlash, Infrastructure Investments, and Future of Work Discussions Amidst Global Developments](https://dev.to/stelixx-insights/tech-giants-navigate-ai-backlash-infrastructure-investments-and-future-of-work-discussions-amidst-glh)
-- [React Native Isn&#39;t React: Why Web Developers Struggle with Mobile](https://dev.to/flovetstack/react-native-isnt-react-why-web-developers-struggle-with-mobile-112m)
+- [Maximize Your Developer Revenue through Monetzly&#39;s AI Monetization Tools](https://dev.to/monetzly/maximize-your-developer-revenue-through-monetzlys-ai-monetization-tools-3ml8)
+- [I built a tiny autosave engine for web forms](https://dev.to/plc-creates/i-built-a-tiny-autosave-engine-for-web-forms-1f08)
+- [Secrets to Smarter Architecture: AI&#39;s Role in 2025 Decisions](https://dev.to/pravin_niceguy/secrets-to-smarter-architecture-ais-role-in-2025-decisions-358g)
+- [Robot Toolsmiths: Why Confidence Isn&#39;t Creativity &lpar;Yet&rpar;](https://dev.to/arvind_sundararajan/robot-toolsmiths-why-confidence-isnt-creativity-yet-4a7j)
+- [I Built an &quot;Ethical&quot; GitHub Streak Guardian &lpar;And How I Survived API Rate Limits&rpar;](https://dev.to/krdevanshu06/i-built-an-ethical-github-streak-guardian-and-how-i-survived-api-rate-limits-4po)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
