@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Java JOLT library tutorial with Examples](https://dev.to/sadiul_hakim/java-jolt-library-tutorial-with-examples-3afc)
 - [AWS DevSecOps: Deep Dive into Software Development, Security, and Operations Integration](https://dev.to/danmuso/aws-devsecops-deep-dive-into-software-development-security-and-operations-integration-f22)
 - [Integrating Google ADK to Build Smarter Multimodal AI Agents](https://dev.to/mabualzait/integrating-google-adk-to-build-smarter-multimodal-ai-agents-26bh)
 - [10 GitHub Repos Every Serious Prompt Writer Should Be Using](https://dev.to/web_dev-usman/10-github-repos-every-serious-prompt-writer-should-be-using-21jk)
 - [WordPress 6.9: New Features, Release Date &amp; Why It Matters](https://dev.to/serveravatar/wordpress-69-new-features-release-date-why-it-matters-5hen)
-- [Day 12: Deep Dive into Azure Cost Management &amp; API Consumption Strategies](https://dev.to/ibbus/day-12-deep-dive-into-azure-cost-management-api-consumption-strategies-a2e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
