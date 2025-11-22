@@ -124,7 +124,7 @@ Python                   1 repo              █░░░░░░░░░░�
 - [Free Online Accessibility Scanner — Audit Any Webpage Instantly](https://dev.to/frontendtoolstech/free-online-accessibility-scanner-audit-any-webpage-instantly-1bh7)
 - [Análise de Vetores de Ataque em Arquitetura de Aplicações Web](https://dev.to/obtuosa/analise-de-vetores-de-ataque-em-arquitetura-de-aplicacoes-web-393h)
 - [Introducing Gati: The Backend That Builds, Scales, and Evolves Itself](https://dev.to/krishnapaul/introducing-gati-the-backend-that-builds-scales-and-evolves-itself-1165)
-- [Camunda Health Monitor v2.0 Open Source: AI-Powered Intelligence](https://dev.to/dmitriy_champa_d458cfc7/camunda-health-monitor-v20-open-source-ai-powered-intelligence-4nlf)
+- [🚀 Lean Startup: La guía moderna para crear productos que la gente realmente quiere](https://dev.to/joedev090/lean-startup-la-guia-moderna-para-crear-productos-que-la-gente-realmente-quiere-ocl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
