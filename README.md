@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Tiny Games, Big Feelings](https://dev.to/diegodotta/tiny-games-big-feelings-4oke)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-179c)
+- [Axelang - A Systems Programming Language with Concurrency as a First-Class feature](https://dev.to/navidm/axelang-a-systems-programming-language-with-concurrency-as-a-first-class-feature-4i3b)
 - [Nested query strings in depth — a complete technical guide](https://dev.to/silentwatcher_95/nested-query-strings-in-depth-a-complete-technical-guide-1io8)
-- [The Ultimate Guide to Choosing a Game Engine in 2025](https://dev.to/afonso_faro_23584ec6be099/the-ultimate-guide-to-choosing-a-game-engine-in-2025-32fn)
-- [A Complete Guide to JavaScript](https://dev.to/afonso_faro_23584ec6be099/a-complete-guide-to-javascript-53eh)
-- [Apache Kafka](https://dev.to/jumptotech/apache-kafka-1mi3)
-- [What in the world is a DLL?!: Understanding DLLs](https://dev.to/afonso_faro_23584ec6be099/what-in-the-world-is-a-dll-understanding-dlls-2ppn)
+- [A Complete Guide to WebSockets and Socket IO](https://dev.to/afonso_faro_23584ec6be099/a-complete-guide-to-websockets-and-socket-io-2bl9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
