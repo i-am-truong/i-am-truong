@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Publish the repo-context-packager](https://dev.to/tajudeen_abdulgafar_e0363/publish-the-repo-context-packager-13mp)
-- [As AI-driven diagnosis and treatment plans become increasing](https://dev.to/drcarlosruizviquez/as-ai-driven-diagnosis-and-treatment-plans-become-increasing-350k)
-- [Amazon Bedrock Agentcore &amp; System Design](https://dev.to/aws-builders/amazon-bedrock-agentcore-system-design-m5j)
-- [Mi Agente se Rebeló: Intentando Crear un Bedrock Agent con S3 &lpar;y el Famoso Error &#39;[retrieved information]&#39;](https://dev.to/sinariver/mi-agente-se-rebelo-intentando-crear-un-bedrock-agent-con-s3-y-el-famoso-error-retrieved-2php)
-- [I Built a Bedrock Agent for Learning… And It Definitely Took That Mission Seriously](https://dev.to/sinariver/i-built-a-bedrock-agent-for-learning-and-it-definitely-took-that-mission-seriously-kf3)
+- [Release 0.3 — Normalizing Unicode for Event Text](https://dev.to/kkrishnan10/release-03-normalizing-unicode-for-event-text-5e9p)
+- [React Suite v6: A Steady Step Toward Modernization](https://dev.to/simonguo/react-suite-v6-a-steady-step-toward-modernization-22b3)
+- [Publishing Your First NPM Package: A Real-World Guide That Actually Helps](https://dev.to/mir_mursalin_ankur/publishing-your-first-npm-package-a-real-world-guide-that-actually-helps-4l4)
+- [The Secret Life of Go](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-1enk)
+- [Mix with the Masters: Mixing Night with Ken Lewis - FULL MIX NIGHT - 11/12/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-full-mix-night-11122025-f6l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
