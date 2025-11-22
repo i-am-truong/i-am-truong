@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AWS Compliance with Terraform](https://dev.to/aws-builders/aws-compliance-with-terraform-faa)
+- [Beginner to Builder An AWeSome Cloud Journey](https://dev.to/aws-builders/beginner-to-builder-an-awesome-cloud-journey-1pej)
 - [Rick Beato: Where Have All The Metalheads Gone?](https://dev.to/music_youtube/rick-beato-where-have-all-the-metalheads-gone-552d)
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-517o)
-- [I built AppInfo - see what apps are actually doing on your phone 📱](https://dev.to/member_9a08d7fd/i-built-appinfo-see-what-apps-are-actually-doing-on-your-phone-35m)
-- [Common Coding Mistakes at Every Level &lpar;And How to Fix Them&rpar;](https://dev.to/thebitforge/common-coding-mistakes-at-every-level-and-how-to-fix-them-4cgb)
-- [Python Registry Pattern: A Clean Alternative to Factory Classes](https://dev.to/dentedlogic/stop-writing-giant-if-else-chains-master-the-python-registry-pattern-ldm)
+- [Implementing Authentication Middleware in Next.js with i18n Support](https://dev.to/tajudeen_abdulgafar_e0363/implementing-authentication-middleware-in-nextjs-with-i18n-support-3iom)
+- [Building a Native Rich Text Editor for React Native](https://dev.to/typelets/building-a-native-rich-text-editor-for-react-native-c7b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
