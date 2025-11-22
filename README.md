@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-43hn)
-- [OSI Layer 4 Security Vulnerabilities &amp; Resolutions](https://dev.to/narnaiezzsshaa/osi-layer-4-security-vulnerabilities-resolutions-1dk6)
-- [TCP Variable-Length Packet Handling](https://dev.to/min38/tcp-variable-length-packet-handling-pc)
-- [devto test 2](https://dev.to/takeokunn/devto-test-2-2pa3)
-- [Day 9: Temperature Converter - From Celsius to Fahrenheit - 30 Days of Python Challenge](https://dev.to/sanaipei001/day-9-temperature-converter-from-celsius-to-fahrenheit-30-days-of-python-challenge-4672)
+- [The Ultimate Technical Writing Stack for 2025](https://dev.to/therealmrmumba/the-ultimate-technical-writing-stack-for-2025-49k5)
+- [My AI Stopped &quot;Guessing&quot; and Started &quot;Thinking&quot;: Implementing a Planning &amp; Reasoning Architecture](https://dev.to/aragossa/my-ai-stopped-guessing-and-started-thinking-implementing-a-planning-reasoning-architecture-4ei3)
+- [NPR Music: Ghost-Note: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-ghost-note-tiny-desk-concert-3o1b)
+- [AI assistance in Development](https://dev.to/divyansh_sareen_2d6e3baa7/ai-assistance-in-development-53nd)
+- [How to avoid getting your BetPKR account blocked?](https://dev.to/car_zilla_9a5c37d90329e8c/how-to-avoid-getting-your-betpkr-account-blocked-5amf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
