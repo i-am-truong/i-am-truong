@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [APIs Explained Simply: The Chapter I Wish I Had When Learning Full-Stack](https://dev.to/itsugo/apis-explained-simply-the-chapter-i-wish-i-had-when-learning-full-stack-3k05)
+- [Uniface 10.4 Update: The New ListBox and a Major Interface Shift 🚀](https://dev.to/petercode/uniface-104-update-the-new-listbox-and-a-major-interface-shift-1phm)
+- [Why We Chose Go to Rewrite Our DB-to-Elasticsearch Sync Tool](https://dev.to/linjifan/why-we-chose-go-to-rewrite-our-db-to-elasticsearch-sync-tool-4c9l)
+- [Tech Giants Navigate AI Backlash, Infrastructure Investments, and Future of Work Discussions Amidst Global Developments](https://dev.to/stelixx-insights/tech-giants-navigate-ai-backlash-infrastructure-investments-and-future-of-work-discussions-amidst-30n4)
 - [I Built an AI-Powered Pokedex with Python &amp; Streamlit &lpar;And It&#39;s Free!&rpar; 🚀](https://dev.to/cammanhhoang/i-built-an-ai-powered-pokedex-with-python-streamlit-and-its-free-4lem)
-- [React JS API Example for Beginners](https://dev.to/developerhelpfull/react-js-api-example-for-beginners-3e2b)
-- [🚀 Migrating from Uniface 9.7 to 10.4: A Survivor’s Guide](https://dev.to/petercode/migrating-from-uniface-97-to-104-a-survivors-guide-1ood)
-- [OAuth Integration in NestJS: From Hours of Configuration to 2 Minutes](https://dev.to/ngodinhcuong/oauth-integration-in-nestjs-from-hours-of-configuration-to-2-minutes-1a63)
-- [How EIP-4844 Changed Ethereum Gas Prices](https://dev.to/ruangsak_patomwong/how-eip-4844-changed-ethereum-gas-prices-1cip)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
