@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SSH Access to Proxmox Without Exposing Your Lab](https://dev.to/sebos/ssh-access-to-proxmox-without-exposing-your-lab-19bk)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-56kk)
-- [AIDE - File Integrity Monitoring for System Security](https://dev.to/sebos/aide-file-integrity-monitoring-for-system-security-5hkd)
-- [Building Tenders SA: Part 1 - From Problem to Platform Architecture](https://dev.to/freelancingsolutions/building-tenders-sa-part-1-from-problem-to-platform-architecture-1ogg)
-- [We Are Hiring – Join Our Growing IT Team](https://dev.to/creativedm0031/we-are-hiring-join-our-growing-it-team-3ipm)
+- [The New Digital Divide: Will &quot;Vibe Coding&quot; Really Make Everyone a Developer?](https://dev.to/alikarbasicom/the-new-digital-divide-will-vibe-coding-really-make-everyone-a-developer-1ggg)
+- [A 13-Year-Old Founder Building a Study App Because Existing Tools Weren’t Enough](https://dev.to/nikitav/a-13-year-old-founder-building-a-study-app-because-existing-tools-werent-enough-1f4g)
+- [Idable queries Relational library dev release](https://dev.to/xwero/idable-queries-relational-library-dev-release-3an4)
+- [Building Resilient Serverless Workloads with the Circuit Breaker Pattern](https://dev.to/aws-builders/building-resilient-serverless-workloads-with-the-circuit-breaker-pattern-5pb)
+- [C++ Through the Years : From Classic to Modern](https://dev.to/md_dildar_mandal/evolution-of-c-3j24)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
