@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Guide to AI-Powered Marketing Automation: From Strategy to Autonomous Systems](https://dev.to/bobby_sanders_63117dbdf8a/the-ultimate-guide-to-ai-powered-marketing-automation-from-strategy-to-autonomous-systems-gdd)
-- [Linear Algebra for AI](https://dev.to/amritanshu_dash_6ca69c0f2/linear-algebra-for-ai-5bjg)
-- [The Self-Aware Robot: How Confidence Unlocks Clever Tool Use](https://dev.to/arvind_sundararajan/the-self-aware-robot-how-confidence-unlocks-clever-tool-use-1ofm)
-- [I Built a System That Found $663K in Lost Revenue - Here&#39;s the Complete Technical Breakdown](https://dev.to/etherlabsdev/i-built-a-system-that-found-663k-in-lost-revenue-heres-the-complete-technical-breakdown-33c5)
-- [Escaping the Marketing Maze: How to Build an Autonomous System That Actually Works](https://dev.to/bobby_sanders_63117dbdf8a/escaping-the-marketing-maze-how-to-build-an-autonomous-system-that-actually-works-582i)
+- [How I Built an F1 Top-Down Racer in 48 Hours](https://dev.to/copet80/how-i-built-an-f1-top-down-racer-in-48-hours-3jhb)
+- [🌍 Uniface Localization Series &lpar;Part 1&rpar;: Mastering Date &amp; Time in Web Apps 📅](https://dev.to/petercode/uniface-localization-series-part-1-mastering-date-time-in-web-apps-5bed)
+- [Association, Aggregation, Composition in OOP: The University Story That Makes It Click](https://dev.to/sizan_mahmud0_e7c3fd0cb68/association-aggregation-composition-in-oop-the-university-story-that-makes-it-click-3d4d)
+- [The First Post here](https://dev.to/mohamedalaa921/the-first-post-here-4ag)
+- [The &quot;Zombie Request&quot; Problem: Why Your Backend Keeps Working After the User Quits](https://dev.to/tjcoding/the-zombie-request-problem-why-your-backend-keeps-working-after-the-user-quits-1167)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
