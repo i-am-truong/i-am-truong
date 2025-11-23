@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Beginner&#39;s Guide to Bubble Sort Algorithm](https://dev.to/saptarshisarkar/a-beginners-guide-to-bubble-sort-algorithm-32i8)
+- [You&#39;re Not Building Netflix: Stop Coding Like You Are](https://dev.to/adamthedeveloper/youre-not-building-netflix-stop-coding-like-you-are-1707)
 - [How I Built an F1 Top-Down Racer in 48 Hours](https://dev.to/copet80/how-i-built-an-f1-top-down-racer-in-48-hours-3jhb)
 - [🌍 Uniface Localization Series &lpar;Part 1&rpar;: Mastering Date &amp; Time in Web Apps 📅](https://dev.to/petercode/uniface-localization-series-part-1-mastering-date-time-in-web-apps-5bed)
 - [Association, Aggregation, Composition in OOP: The University Story That Makes It Click](https://dev.to/sizan_mahmud0_e7c3fd0cb68/association-aggregation-composition-in-oop-the-university-story-that-makes-it-click-3d4d)
-- [The First Post here](https://dev.to/mohamedalaa921/the-first-post-here-4ag)
-- [The &quot;Zombie Request&quot; Problem: Why Your Backend Keeps Working After the User Quits](https://dev.to/tjcoding/the-zombie-request-problem-why-your-backend-keeps-working-after-the-user-quits-1167)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
