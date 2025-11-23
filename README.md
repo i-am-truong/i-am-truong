@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 13 : Understanding Google Cloud Billing API &amp; BigQuery Exports](https://dev.to/ibbus/day-13-understanding-google-cloud-billing-api-bigquery-exports-4j2b)
-- [UPI Payment Architecture](https://dev.to/shreyans_padmani/upi-payment-architecture-5h51)
-- [Ce que je fais en tant que développeur web freelance à Verviers &lpar;Tismodev / Tismo&rpar;](https://dev.to/tismodev/ce-que-je-fais-en-tant-que-developpeur-web-freelance-a-verviers-tismodev-tismo-4f8a)
-- [I Built a Curl Command Generator App with React](https://dev.to/a-k-0047/i-built-a-curl-command-generator-app-with-react-4njb)
-- [I Built 404ping — A Lightweight API Testing CLI &lpar;curl + Postman had a baby&rpar;](https://dev.to/toklas495/i-built-404ping-a-lightweight-api-testing-cli-curl-postman-had-a-baby-1jc8)
+- [Zero-Click Content Strategy: How to Win When Google Keeps Your Traffic](https://dev.to/synergistdigitalmedia/zero-click-content-strategy-how-to-win-when-google-keeps-your-traffic-5e0n)
+- [The Hidden Tax You Are Paying Every Day: A Dev&#39;s Journey into Ops Automation](https://dev.to/empire/the-hidden-tax-you-are-paying-every-day-a-devs-journey-into-ops-automation-5f80)
+- [Back to School Evolution: 1850-2025](https://dev.to/ndabene/back-to-school-evolution-1850-2025-5bj0)
+- [AI Workers&#39; Dark Secret: Don&#39;t Get Involved!](https://dev.to/mabualzait/ai-workers-dark-secret-dont-get-involved-5hc5)
+- [Building GreenGovRAG](https://dev.to/sdp5/building-greengovrag-31ba)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
