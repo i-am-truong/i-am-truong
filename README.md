@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Contest Alarm App for Codeforces &amp; AtCoder — Need Suggestions](https://dev.to/md_shahriaswapno_ea91d1e/building-a-contest-alarm-app-for-codeforces-atcoder-need-suggestions-4560)
-- [Logging at Scale: ELK Stack vs Loki vs CloudWatch](https://dev.to/instadevops/logging-at-scale-elk-stack-vs-loki-vs-cloudwatch-2gga)
-- [The 10 Levels of API Development &lpar;From Beginner to Production-Ready&rpar;](https://dev.to/itsugo/the-10-levels-of-api-development-from-beginner-to-production-ready-94c)
-- [Tech Giants Navigate AI Backlash, Infrastructure Investments, and Future of Work Discussions Amidst Global Developments](https://dev.to/stelixx-insights/tech-giants-navigate-ai-backlash-infrastructure-investments-and-future-of-work-discussions-amidst-50j1)
-- [Leveraging Service Stored Procedures &lpar;SSPs&rpar; in Uniface 10.4](https://dev.to/petercode/leveraging-service-stored-procedures-ssps-in-uniface-104-3emd)
+- [Terraform Workspaces: Proven Multi-Environment Patterns for Real-World DevOps](https://dev.to/careerbytecode/terraform-workspaces-proven-multi-environment-patterns-for-real-world-devops-1nme)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-3c9j)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-l9b)
+- [ISO 27001 in 6 Months](https://dev.to/ccscaesar/iso-27001-in-6-months-2o8k)
+- [1262. Greatest Sum Divisible by Three](https://dev.to/mdarifulhaque/1262-greatest-sum-divisible-by-three-52co)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
