@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Guide to Wisdom: Prompting AI vs. Praying to God](https://dev.to/bobby_sanders_63117dbdf8a/the-ultimate-guide-to-wisdom-prompting-ai-vs-praying-to-god-10f9)
-- [Singleton Pattern issue in playwright browser](https://dev.to/taukirsheikh/singleton-pattern-issue-in-playwright-brwoser-g9b)
-- [Streamline SDK Integration for AI Monetization with Monetzly](https://dev.to/monetzly/streamline-sdk-integration-for-ai-monetization-with-monetzly-2bf2)
-- [SteadyFetch: A tiny Android SDK that refuses to let your downloads die](https://dev.to/namn_dev/steadyfetch-a-tiny-android-sdk-that-refuses-to-let-your-downloads-die-448g)
-- [📘 SaijinOS Part 12 &lpar;DEV Edition&rpar; Silent-Civ Architecture — Minimal Pre-Linguistic Structural Model](https://dev.to/kato_masato_c5593c81af5c6/saijinos-part-12-dev-edition-572c)
+- [Building Tornago: A Go Library for Tor Integration Born from Fraud Prevention Needs](https://dev.to/nchika/building-tornago-a-go-library-for-tor-integration-born-from-fraud-prevention-needs-5cnd)
+- [🚀 I Just Launched My First Android App — *VyomaNote*!](https://dev.to/pjdeveloper896/i-just-launched-my-first-android-app-vyomanote-3p60)
+- [Time manager in next.js](https://dev.to/piotr_skiba_58724bdfd9f05/time-manager-in-nextjs-1ofj)
+- [Sovereign MCP: Expose Local MCP Servers to Remote Clients via Cloudflare Tunnel](https://dev.to/y_m_2990f82cec633528440f4/sovereign-mcp-expose-local-mcp-servers-to-remote-clients-via-cloudflare-tunnel-2hpo)
+- [New Filament Plugin: URL Image Uploader for Laravel Projects](https://dev.to/amjadiqbal/new-filament-plugin-url-image-uploader-for-laravel-projects-4n0d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
