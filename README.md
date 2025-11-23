@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SSH Access to Proxmox Without Exposing Your Lab](https://dev.to/sebos/ssh-access-to-proxmox-without-exposing-your-lab-19bk)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-56kk)
+- [AIDE - File Integrity Monitoring for System Security](https://dev.to/sebos/aide-file-integrity-monitoring-for-system-security-5hkd)
 - [Building Tenders SA: Part 1 - From Problem to Platform Architecture](https://dev.to/freelancingsolutions/building-tenders-sa-part-1-from-problem-to-platform-architecture-1ogg)
-- [Am I Doing This Right? #1: Deploy Notifications That Actually Get Read](https://dev.to/jaredharbison/am-i-doing-this-right-1-deploy-notifications-that-actually-get-read-1ink)
-- [EF Core Migrations Troubleshooting Guide — Design Package, Tooling Versions &amp; Multi‑Project Setups](https://dev.to/cristiansifuentes/ef-core-migrations-troubleshooting-guide-design-package-tooling-versions-multi-project-setups-4a55)
-- [The Inventive Spark: When Robots Start Thinking About Their Thinking](https://dev.to/arvind_sundararajan/the-inventive-spark-when-robots-start-thinking-about-their-thinking-4me3)
-- [Connecting PostgreSQL to Power BI](https://dev.to/maureenmuthonihue/connecting-postgresql-to-power-bi-l36)
+- [We Are Hiring – Join Our Growing IT Team](https://dev.to/creativedm0031/we-are-hiring-join-our-growing-it-team-3ipm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
