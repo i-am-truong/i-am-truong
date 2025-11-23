@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Must-Read Books to Master Software Architecture and System Design](https://dev.to/somadevtoo/5-must-read-books-to-master-software-architecture-and-system-design-2hik)
 - [Why Infrastructure-as-Code Isn’t Optional Anymore](https://dev.to/inzamam_virk/why-infrastructure-as-code-isnt-optional-anymore-235j)
 - [End-to-End DevSecOps Project &lpar;Movies Finder&rpar;](https://dev.to/cheulong/end-to-end-devsecops-project-movies-finder-5bap)
+- [Is React.memo Still Useful in React 19? A Practical Guide for 2025](https://dev.to/shantih_palani/is-reactmemo-still-useful-in-react-19-a-practical-guide-for-2025-4lj5)
 - [Terraform Workspaces: Proven Multi-Environment Patterns for Real-World DevOps](https://dev.to/careerbytecode/terraform-workspaces-proven-multi-environment-patterns-for-real-world-devops-1nme)
-- [Mac System Extension Approval Error: Heres the Fix Apple Wont Tell You](https://dev.to/bryan_collins_abcd0214d94/mac-system-extension-approval-error-heres-the-fix-apple-wont-tell-you-26d2)
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-3c9j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
