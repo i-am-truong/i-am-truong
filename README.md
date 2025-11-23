@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [APIs Explained Simply: The Chapter I Wish I Had When Learning Full-Stack](https://dev.to/itsugo/apis-explained-simply-the-chapter-i-wish-i-had-when-learning-full-stack-3k05)
-- [Uniface 10.4 Update: The New ListBox and a Major Interface Shift 🚀](https://dev.to/petercode/uniface-104-update-the-new-listbox-and-a-major-interface-shift-1phm)
-- [Why We Chose Go to Rewrite Our DB-to-Elasticsearch Sync Tool](https://dev.to/linjifan/why-we-chose-go-to-rewrite-our-db-to-elasticsearch-sync-tool-4c9l)
-- [Tech Giants Navigate AI Backlash, Infrastructure Investments, and Future of Work Discussions Amidst Global Developments](https://dev.to/stelixx-insights/tech-giants-navigate-ai-backlash-infrastructure-investments-and-future-of-work-discussions-amidst-30n4)
-- [I Built an AI-Powered Pokedex with Python &amp; Streamlit &lpar;And It&#39;s Free!&rpar; 🚀](https://dev.to/cammanhhoang/i-built-an-ai-powered-pokedex-with-python-streamlit-and-its-free-4lem)
+- [The subtle trap of useMemo for large collections - and a tiny alternative](https://dev.to/shubham_dwivedi_dbf682957/the-subtle-trap-of-usememo-for-large-collections-and-a-tiny-alternative-38jg)
+- [PixelPerfect Capture: High-Quality Screenshots &amp; Full-Page Captures, Simplified](https://dev.to/0apocalypse0/pixelperfect-capture-high-quality-screenshots-full-page-captures-simplified-3m4)
+- [👀 Seeing is Believing: Visual Previews Arrive in Uniface 10.4 DSP Documentation](https://dev.to/petercode/seeing-is-believing-visual-previews-arrive-in-uniface-104-dsp-documentation-1ihb)
+- [How to find checksum of a Google Drive File](https://dev.to/sharafat/how-to-find-checksum-of-a-google-drive-file-45b7)
+- [Using Opencode as a Copy-Paste Backend for UI Prototyping](https://dev.to/istarkov/using-opencode-as-a-copy-paste-backend-for-ui-prototyping-4afc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
