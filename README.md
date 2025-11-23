@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Decoding the Beautiful Game: AI&#39;s Play-by-Play Revolution by Arvind Sundararajan](https://dev.to/arvind_sundararajan/decoding-the-beautiful-game-ais-play-by-play-revolution-by-arvind-sundararajan-9kd)
-- [High-Performance Marshaling Strategies in Go — What Actually Works at Scale](https://dev.to/devflex-pro/high-performance-marshaling-strategies-in-go-what-actually-works-at-scale-1a8m)
-- [🚀 Boost Chrome’s Speed by Giving It More Memory &lpar;Because It’s Always Hungry&rpar;](https://dev.to/fbrzlarosa/boost-chromes-speed-by-giving-it-more-memory-because-its-always-hungry-2e3b)
-- [How to Use Chatbot in Education](https://dev.to/chatboqai/how-to-use-chatbot-in-education-25oa)
-- [AI vs God: The Ultimate Guide to Discerning Divine Wisdom in the Age of Artificial Intelligence](https://dev.to/bobby_sanders_63117dbdf8a/ai-vs-god-the-ultimate-guide-to-discerning-divine-wisdom-in-the-age-of-artificial-intelligence-35bj)
+- [Tech Meets Art: Dennis Wimberly’s Scalable Creativity with AI &amp; Cloud](https://dev.to/dennis_wimberly_b8aa3c8aa/tech-meets-art-dennis-wimberlys-scalable-creativity-with-ai-cloud-3hoo)
+- [Accelerating Migration Projects with Kiro using Spec Driven Development](https://dev.to/awsugonair/accelerating-migration-projects-with-kiro-using-spec-driven-development-2b72)
+- [Free JSON APIs for Developers with Examples](https://dev.to/developerhelpfull/free-json-apis-for-developers-with-examples-291i)
+- [GitHub Finally Became a Part of My Coding Routine](https://dev.to/sareena_rahim/github-finally-became-a-part-of-my-coding-routine-4ck4)
+- [💾 Uniface &amp; Excel: Writing Data &amp; Clean Exits &lpar;Part 3&rpar;](https://dev.to/petercode/uniface-excel-writing-data-clean-exits-part-3-3k0n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
