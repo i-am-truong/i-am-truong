@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Tornago: A Go Library for Tor Integration Born from Fraud Prevention Needs](https://dev.to/nchika/building-tornago-a-go-library-for-tor-integration-born-from-fraud-prevention-needs-5cnd)
-- [🚀 I Just Launched My First Android App — *VyomaNote*!](https://dev.to/pjdeveloper896/i-just-launched-my-first-android-app-vyomanote-3p60)
-- [Time manager in next.js](https://dev.to/piotr_skiba_58724bdfd9f05/time-manager-in-nextjs-1ofj)
-- [Sovereign MCP: Expose Local MCP Servers to Remote Clients via Cloudflare Tunnel](https://dev.to/y_m_2990f82cec633528440f4/sovereign-mcp-expose-local-mcp-servers-to-remote-clients-via-cloudflare-tunnel-2hpo)
-- [New Filament Plugin: URL Image Uploader for Laravel Projects](https://dev.to/amjadiqbal/new-filament-plugin-url-image-uploader-for-laravel-projects-4n0d)
+- [Linear Algebra for AI](https://dev.to/amritanshu_dash_6ca69c0f2/linear-algebra-for-ai-5bjg)
+- [The Autonomous Marketer: How to Master Marketing Automation and AI to Scale Your Business Ethically](https://dev.to/bobby_sanders_63117dbdf8a/the-autonomous-marketer-how-to-master-marketing-automation-and-ai-to-scale-your-business-ethically-14a5)
+- [7 Essential Shifts Every Marketer Must Make Now to Master AI and Automation](https://dev.to/bobby_sanders_63117dbdf8a/7-essential-shifts-every-marketer-must-make-now-to-master-ai-and-automation-j8e)
+- [The Self-Aware Robot: How Confidence Unlocks Clever Tool Use](https://dev.to/arvind_sundararajan/the-self-aware-robot-how-confidence-unlocks-clever-tool-use-1ofm)
+- [I Built a System That Found $663K in Lost Revenue - Here&#39;s the Complete Technical Breakdown](https://dev.to/etherlabsdev/i-built-a-system-that-found-663k-in-lost-revenue-heres-the-complete-technical-breakdown-33c5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
