@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [5 Must-Read Books to Master Software Architecture and System Design](https://dev.to/somadevtoo/5-must-read-books-to-master-software-architecture-and-system-design-2hik)
-- [Why Infrastructure-as-Code Isn’t Optional Anymore](https://dev.to/inzamam_virk/why-infrastructure-as-code-isnt-optional-anymore-235j)
-- [End-to-End DevSecOps Project &lpar;Movies Finder&rpar;](https://dev.to/cheulong/end-to-end-devsecops-project-movies-finder-5bap)
-- [Is React.memo Still Useful in React 19? A Practical Guide for 2025](https://dev.to/shantih_palani/is-reactmemo-still-useful-in-react-19-a-practical-guide-for-2025-4lj5)
-- [Terraform Workspaces: Proven Multi-Environment Patterns for Real-World DevOps](https://dev.to/careerbytecode/terraform-workspaces-proven-multi-environment-patterns-for-real-world-devops-1nme)
+- [Data Locality vs. Independence: Which Should Your Database Prioritize?](https://dev.to/franckpachot/data-locality-vs-independence-which-should-your-database-prioritize-1gjb)
+- [Real estate app built with Next.js 16, shadcn/ui, and Prisma. Browse, list, and manage properties](https://dev.to/saidmounaim/real-estate-app-built-with-nextjs-16-shadcnui-and-prisma-browse-list-and-manage-properties-32e)
+- [Building a Serverless Notes App with AWS Amplify, Cognito, Lambda, DynamoDB &amp; API Gateway](https://dev.to/siddhesmm303/building-a-serverless-notes-app-with-aws-amplify-cognito-lambda-dynamodb-api-gateway-23o1)
+- [Building a static AI friendly landing page as an experiment](https://dev.to/marcustas/building-a-static-ai-friendly-landing-page-as-an-experiment-2098)
+- [Deploy Rust Agent to AWS AgentCore Runtime with GitHub actions](https://dev.to/aws-builders/deploy-rust-agent-to-aws-agentcore-runtime-with-github-actions-3gf8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
