@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Opencode for Agentic Development with Local LLMs](https://dev.to/ferdousulhaque/opencode-for-agentic-development-with-local-llms-2h4k)
-- [Intro to Pytest](https://dev.to/thatmlguy/intro-to-pytest-1m35)
-- [I may have gone a little overboard with my portfolio… 😅](https://dev.to/swastik21/i-may-have-gone-a-little-overboard-with-my-portfolio-igm)
-- [Bridging the Gap: Integrating 3GL Languages with Uniface](https://dev.to/petercode/bridging-the-gap-integrating-3gl-languages-with-uniface-4fa2)
-- [I&#39;ve got the best idea for Thanksgiving. Im going to make a multi layer gelatin cake. Then I can tell everyone its my OSI model and how this gelatin cake relates to computer science. Dorky? Yes. Going to make my OSI gelatin cake anyways. 🌈](https://dev.to/annavi11arrea1/ive-got-the-best-idea-for-thanksgiving-im-going-to-make-a-multi-layer-gelatin-cake-then-i-can-104l)
+- [Review: A Closer Look at the New YouTube Transcript Generator from Video Transcriber AI](https://dev.to/cicisee666/review-a-closer-look-at-the-new-youtube-transcript-generator-from-video-transcriber-ai-bmc)
+- [DWM: Wallpaper change](https://dev.to/voyeg3r/dwm-wallpaper-change-15cp)
+- [Building DiskCleanKit – My Journey from a Simple Idea to Mac App Store 🚀](https://dev.to/nam_tran_7c63c91d70bf0442/building-diskcleankit-my-journey-from-a-simple-idea-to-mac-app-store-22l2)
+- [# How to Connect Power BI to PostgreSQL: Local and Aiven Cloud Setup](https://dev.to/ken_kimani_7f4b5a334929b3/-how-to-connect-power-bi-to-postgresql-local-and-aiven-cloud-setup-5692)
+- [React Native API Example Step-by-Step](https://dev.to/developerhelpfull/react-native-api-example-step-by-step-3ede)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
