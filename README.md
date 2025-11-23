@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Data Locality vs. Independence: Which Should Your Database Prioritize?](https://dev.to/franckpachot/data-locality-vs-independence-which-should-your-database-prioritize-1gjb)
-- [Real estate app built with Next.js 16, shadcn/ui, and Prisma. Browse, list, and manage properties](https://dev.to/saidmounaim/real-estate-app-built-with-nextjs-16-shadcnui-and-prisma-browse-list-and-manage-properties-32e)
-- [Building a Serverless Notes App with AWS Amplify, Cognito, Lambda, DynamoDB &amp; API Gateway](https://dev.to/siddhesmm303/building-a-serverless-notes-app-with-aws-amplify-cognito-lambda-dynamodb-api-gateway-23o1)
-- [Building a static AI friendly landing page as an experiment](https://dev.to/marcustas/building-a-static-ai-friendly-landing-page-as-an-experiment-2098)
-- [Deploy Rust Agent to AWS AgentCore Runtime with GitHub actions](https://dev.to/aws-builders/deploy-rust-agent-to-aws-agentcore-runtime-with-github-actions-3gf8)
+- [Angular v21 - Guia Prático de Migração e Como Dominar as Novas Signal Forms](https://dev.to/danielcamucatto/angular-v21-guia-pratico-de-migracao-e-como-dominar-as-novas-signal-forms-1a05)
+- [If You Think YOUR Commit Messages Are Bad, Just Wait…](https://dev.to/sylwia-lask/if-you-think-your-commit-messages-are-bad-just-wait-3fgk)
+- [Monetzly: The Smart Way to Monetize Your AI Conversations Today](https://dev.to/monetzly/monetzly-the-smart-way-to-monetize-your-ai-conversations-today-126p)
+- [Tokenization in NLP: The Foundational Step That Turns Language Into Data](https://dev.to/knitesh/tokenization-in-nlp-the-foundational-step-that-turns-language-into-data-2jni)
+- [How Agentic AI Is Rewriting Source-to-Pay: A Practical Implementation Guide &amp; ROI Playbook](https://dev.to/joseph_blaise_2b0cf28ddb7/how-agentic-ai-is-rewriting-source-to-pay-a-practical-implementation-guide-roi-playbook-3a94)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
