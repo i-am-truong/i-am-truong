@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Linux Kernel: Interrupt Handling &lpar;Part 2&rpar;](https://dev.to/ripan030/linux-kernel-interrupt-handling-part-2-fe1)
+- [Mastering Web Accessibility with Tabnav: A Free Checker That Simulates Real User Interaction](https://dev.to/net_aharonov_bf7c74a4387c/mastering-web-accessibility-with-tabnav-a-free-checker-that-simulates-real-user-interaction-1ap9)
 - [🚀 How I Built PIYE — an AI Mentor for Developers Who Want Guidance, Not Just Answers](https://dev.to/aldgar/how-i-built-piye-an-ai-mentor-for-developers-who-want-guidance-not-just-answers-5dhk)
 - [Why Juniors Aren’t Getting Hired in 2026 and the One Strategy That Flips Your Odds Overnight](https://dev.to/brandonkylebailey/why-juniors-arent-getting-hired-in-2026-and-the-one-strategy-that-flips-your-odds-overnight-5b1)
-- [Revolutionising Content Management: An Introduction to AEM Business Agents](https://dev.to/raghavajoijode/revolutionising-content-management-an-introduction-to-aem-business-agents-4dnm)
-- [From Intern to Employee: How a Digital CV Gets You Noticed](https://dev.to/imtaslim/from-intern-to-employee-how-a-digital-cv-gets-you-noticed-l40)
-- [Rust CI: Security, Dependency Policy, Coverage Gate, and Fast Builds](https://dev.to/antonds/rust-ci-security-dependency-policy-coverage-gate-and-fast-builds-5f5b)
+- [Why GIFs Make Tableau Dashboards More Interesting](https://dev.to/dipti_moryani_08e62702314/why-gifs-make-tableau-dashboards-more-interesting-49d1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
