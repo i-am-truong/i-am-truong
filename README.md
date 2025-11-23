@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 13 : Understanding Google Cloud Billing API &amp; BigQuery Exports](https://dev.to/ibbus/day-13-understanding-google-cloud-billing-api-bigquery-exports-4j2b)
+- [UPI Payment Architecture](https://dev.to/shreyans_padmani/upi-payment-architecture-5h51)
+- [Ce que je fais en tant que développeur web freelance à Verviers &lpar;Tismodev / Tismo&rpar;](https://dev.to/tismodev/ce-que-je-fais-en-tant-que-developpeur-web-freelance-a-verviers-tismodev-tismo-4f8a)
 - [I Built a Curl Command Generator App with React](https://dev.to/a-k-0047/i-built-a-curl-command-generator-app-with-react-4njb)
-- [From &#39;Will AI Replace Me?&#39; to Building an AI PM: My 3-Month Journey](https://dev.to/ashbuildsai/from-will-ai-replace-me-to-building-an-ai-pm-my-3-month-journey-35ej)
-- [The Real Cost of AI: AWS Bedrock vs. OpenAI vs. Self-Hosting 💰](https://dev.to/nimmala_nagasanthoshbab/the-real-cost-of-ai-aws-bedrock-vs-openai-vs-self-hosting-236m)
-- [Industries Where Your C Code Saves Lives &lpar;And They&#39;re Hiring&rpar;](https://dev.to/fosres/industries-in-demand-for-cert-c-compliant-security-focused-coders-27n6)
-- [Meet Amazon Q: The AI Assistant That Actually Knows Your Codebase 🦄](https://dev.to/nimmala_nagasanthoshbab/meet-amazon-q-the-ai-assistant-that-actually-knows-your-codebase-4e3k)
+- [I Built 404ping — A Lightweight API Testing CLI &lpar;curl + Postman had a baby&rpar;](https://dev.to/toklas495/i-built-404ping-a-lightweight-api-testing-cli-curl-postman-had-a-baby-1jc8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
