@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Maintenance release 2.09 for the Perl Distribution Workflow](https://dev.to/jonasbn/maintenance-release-209-for-the-perl-distribution-workflow-491a)
-- [Uniface State Management: Mastering the Stateless Beast 🦄💾](https://dev.to/petercode/uniface-state-management-mastering-the-stateless-beast-31on)
-- [AI Isn&#39;t &quot;Smart&quot;: The Myth of Sentience and the Energy of a Black Hole](https://dev.to/fbrzlarosa/ai-isnt-smart-the-myth-of-sentience-and-the-energy-of-a-black-hole-2j6i)
-- [I Tried to Teach AI to Click Buttons, and It Missed by 500 Pixels](https://dev.to/duc_luong_10d1d0d0f726c3a/i-tried-to-teach-ai-to-click-buttons-and-it-missed-by-500-pixels-33ln)
-- [📘 SaijinOS Part 14 &lpar;DEV Edition&rpar; Silent-Civ SaijinOS — Unified Persona Kernel Architecture](https://dev.to/kato_masato_c5593c81af5c6/saijinos-part-14-dev-editionsilent-civ-x-saijinos-unified-persona-kernel-architecture-43ap)
+- [How EIP-4844 Changed Ethereum Gas Prices](https://dev.to/ruangsak_patomwong/how-eip-4844-changed-ethereum-gas-prices-1cip)
+- [Building the Future of Entertainment Tech: Wimberly Media’s Innovation Culture](https://dev.to/dennis_wimberly_b8aa3c8aa/building-the-future-of-entertainment-tech-wimberly-medias-innovation-culture-317h)
+- [When Noise Becomes Structure - The Hidden Mechanism Behind Resonance](https://dev.to/miller-28/when-noise-becomes-structure-the-hidden-mechanism-behind-resonance-1kd7)
+- [How equillar manage investment commissions](https://dev.to/icolomina/how-equillar-manage-investment-commissions-3c88)
+- [Top Public APIs for Beginners &lpar;No Auth Required&rpar;](https://dev.to/developerhelpfull/top-public-apis-for-beginners-no-auth-required-10el)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
