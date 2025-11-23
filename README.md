@@ -122,9 +122,9 @@ Python                   1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [Tech Meets Art: Dennis Wimberly’s Scalable Creativity with AI &amp; Cloud](https://dev.to/dennis_wimberly_b8aa3c8aa/tech-meets-art-dennis-wimberlys-scalable-creativity-with-ai-cloud-3hoo)
 - [Accelerating Migration Projects with Kiro using Spec Driven Development](https://dev.to/awsugonair/accelerating-migration-projects-with-kiro-using-spec-driven-development-2b72)
+- [Accelerating Migration Projects with Kiro using Spec-Driven Development](https://dev.to/aws-builders/accelerating-migration-projects-with-kiro-using-spec-driven-development-1bn7)
+- [Building Player-Driven Digital Worlds: How BubuVerse Blends Creativity and Interactive Design](https://dev.to/bubuverse/building-player-driven-digital-worlds-how-bubuverse-blends-creativity-and-interactive-design-43li)
 - [Free JSON APIs for Developers with Examples](https://dev.to/developerhelpfull/free-json-apis-for-developers-with-examples-291i)
-- [GitHub Finally Became a Part of My Coding Routine](https://dev.to/sareena_rahim/github-finally-became-a-part-of-my-coding-routine-4ck4)
-- [💾 Uniface &amp; Excel: Writing Data &amp; Clean Exits &lpar;Part 3&rpar;](https://dev.to/petercode/uniface-excel-writing-data-clean-exits-part-3-3k0n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
