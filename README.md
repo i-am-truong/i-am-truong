@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Infrastructure-as-Code Isn’t Optional Anymore](https://dev.to/inzamam_virk/why-infrastructure-as-code-isnt-optional-anymore-235j)
+- [End-to-End DevSecOps Project &lpar;Movies Finder&rpar;](https://dev.to/cheulong/end-to-end-devsecops-project-movies-finder-5bap)
 - [Terraform Workspaces: Proven Multi-Environment Patterns for Real-World DevOps](https://dev.to/careerbytecode/terraform-workspaces-proven-multi-environment-patterns-for-real-world-devops-1nme)
+- [Mac System Extension Approval Error: Heres the Fix Apple Wont Tell You](https://dev.to/bryan_collins_abcd0214d94/mac-system-extension-approval-error-heres-the-fix-apple-wont-tell-you-26d2)
 - [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-3c9j)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-l9b)
-- [ISO 27001 in 6 Months](https://dev.to/ccscaesar/iso-27001-in-6-months-2o8k)
-- [1262. Greatest Sum Divisible by Three](https://dev.to/mdarifulhaque/1262-greatest-sum-divisible-by-three-52co)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
