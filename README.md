@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI in Legacy Code Modernization](https://dev.to/nolanlwin/ai-in-legacy-code-modernization-2a0)
 - [OSD600: Release 0.3](https://dev.to/david_rivera_8d845b35931e/osd600-release-03-4p46)
 - [The Hidden Cost of Abstraction - Making an Informed Decision](https://dev.to/solomonaboyeji/the-hidden-cost-of-abstraction-27kk)
 - [Knowledge Graphs + LLM Integration: Query Your Ontology with Natural Language](https://dev.to/vishalmysore/knowledge-graphs-llm-integration-query-your-ontology-with-natural-language-480d)
 - [The Story of Archi: an Archimate Tool; The Pedantic Defense: How &#39;Legal&#39; Gatekeeping Violates the Spirit of Open Source](https://dev.to/steve_7dd4f5ea142451b9787/the-pedantic-defense-how-legal-gatekeeping-violates-the-spirit-of-open-source-4276)
-- [I Built Offday.app — A Small Tool That Helps You Plan Longer Holidays with Fewer Leave Days](https://dev.to/ilyasozkurt/i-built-offdayapp-a-small-tool-that-helps-you-plan-longer-holidays-with-fewer-leave-days-15b0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
