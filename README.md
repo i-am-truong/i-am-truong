@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Ultimate Guide to AI-Powered Marketing Automation: From Strategy to Autonomous Systems](https://dev.to/bobby_sanders_63117dbdf8a/the-ultimate-guide-to-ai-powered-marketing-automation-from-strategy-to-autonomous-systems-gdd)
 - [Linear Algebra for AI](https://dev.to/amritanshu_dash_6ca69c0f2/linear-algebra-for-ai-5bjg)
-- [The Autonomous Marketer: How to Master Marketing Automation and AI to Scale Your Business Ethically](https://dev.to/bobby_sanders_63117dbdf8a/the-autonomous-marketer-how-to-master-marketing-automation-and-ai-to-scale-your-business-ethically-14a5)
-- [7 Essential Shifts Every Marketer Must Make Now to Master AI and Automation](https://dev.to/bobby_sanders_63117dbdf8a/7-essential-shifts-every-marketer-must-make-now-to-master-ai-and-automation-j8e)
 - [The Self-Aware Robot: How Confidence Unlocks Clever Tool Use](https://dev.to/arvind_sundararajan/the-self-aware-robot-how-confidence-unlocks-clever-tool-use-1ofm)
 - [I Built a System That Found $663K in Lost Revenue - Here&#39;s the Complete Technical Breakdown](https://dev.to/etherlabsdev/i-built-a-system-that-found-663k-in-lost-revenue-heres-the-complete-technical-breakdown-33c5)
+- [Escaping the Marketing Maze: How to Build an Autonomous System That Actually Works](https://dev.to/bobby_sanders_63117dbdf8a/escaping-the-marketing-maze-how-to-build-an-autonomous-system-that-actually-works-582i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
