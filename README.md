@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Resolvendo o desafio 509. Fibonacci Number](https://dev.to/cancio/resolvendo-o-desafio-509-fibonacci-number-5def)
-- [Linux Kernel: Interrupt Handling &lpar;Part 2&rpar;](https://dev.to/ripan030/linux-kernel-interrupt-handling-part-2-fe1)
-- [Mastering Web Accessibility with Tabnav: A Free Checker That Simulates Real User Interaction](https://dev.to/net_aharonov_bf7c74a4387c/mastering-web-accessibility-with-tabnav-a-free-checker-that-simulates-real-user-interaction-1ap9)
-- [🚀 How I Built PIYE — an AI Mentor for Developers Who Want Guidance, Not Just Answers](https://dev.to/aldgar/how-i-built-piye-an-ai-mentor-for-developers-who-want-guidance-not-just-answers-5dhk)
-- [Why Juniors Aren’t Getting Hired in 2026 and the One Strategy That Flips Your Odds Overnight](https://dev.to/brandonkylebailey/why-juniors-arent-getting-hired-in-2026-and-the-one-strategy-that-flips-your-odds-overnight-5b1)
+- [Building Domain-Specific AI Agents Through Configuration, Not Code](https://dev.to/arvindkumar_akula_42a971e/building-domain-specific-ai-agents-through-configuration-not-code-50nh)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-292k)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-4e3c)
+- [Building a Location Picker in React Native Maps &lpar;with Draggable Marker &amp; Address Lookup&rpar;](https://dev.to/dainyjose/building-a-location-picker-in-react-native-maps-with-draggable-marker-address-lookup-1d00)
+- [Launching EC2 with Git Bash: Why SSH Is Preferable to PuTTY.](https://dev.to/elmaur1/launching-ec2-with-git-bash-why-ssh-is-preferable-to-putty-21aa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
