@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Pwnagotchi Generator: Understanding opwngrid Through Reverse Engineering](https://dev.to/angeldev0/pwnagotchi-generator-understanding-opwngrid-through-reverse-engineering-23c5)
+- [The Great Myth: More Code Equals More Progress](https://dev.to/sia_negi21/the-great-myth-more-code-equals-more-progress-5apg)
 - [Angular v21 - Guia Prático de Migração e Como Dominar as Novas Signal Forms](https://dev.to/danielcamucatto/angular-v21-guia-pratico-de-migracao-e-como-dominar-as-novas-signal-forms-1a05)
 - [If You Think YOUR Commit Messages Are Bad, Just Wait…](https://dev.to/sylwia-lask/if-you-think-your-commit-messages-are-bad-just-wait-3fgk)
 - [Monetzly: The Smart Way to Monetize Your AI Conversations Today](https://dev.to/monetzly/monetzly-the-smart-way-to-monetize-your-ai-conversations-today-126p)
-- [Tokenization in NLP: The Foundational Step That Turns Language Into Data](https://dev.to/knitesh/tokenization-in-nlp-the-foundational-step-that-turns-language-into-data-2jni)
-- [How Agentic AI Is Rewriting Source-to-Pay: A Practical Implementation Guide &amp; ROI Playbook](https://dev.to/joseph_blaise_2b0cf28ddb7/how-agentic-ai-is-rewriting-source-to-pay-a-practical-implementation-guide-roi-playbook-3a94)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
