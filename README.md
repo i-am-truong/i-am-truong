@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a 140 FPS Real-Time Face Landmark App with Just YOLOv9 + MediaPipe &lpar;5-Part Series&rpar;](https://dev.to/mohammadreza_mahdian_3841/how-i-built-a-140-fps-real-time-face-landmark-app-with-just-yolov9-mediapipe-5-part-series-mnf)
-- [Value Objects in PHP 8: Let&#39;s introduce a functional approach](https://dev.to/cnastasi/value-objects-in-php-8-lets-introduce-a-functional-approach-3aan)
-- [Why Aider](https://dev.to/avkr/why-aider-1nle)
-- [Creating a personal assistant &lpar;girlfriend&rpar; for myself](https://dev.to/yusufpapurcu/creating-a-personal-assistant-girlfriend-for-myself-1i29)
-- [Self-Sovereign Identity&#39;s Privacy Blind Spot: Why DIDs Need Confidential Computing](https://dev.to/savvysid/self-sovereign-identitys-privacy-blind-spot-why-dids-need-confidential-computing-nii)
+- [Igniting AI: From Spark to Flame with Code](https://dev.to/mabualzait/igniting-ai-from-spark-to-flame-with-code-41l)
+- [Unlocking Global Optima: A Leap in Efficient Function Optimization](https://dev.to/arvind_sundararajan/unlocking-global-optima-a-leap-in-efficient-function-optimization-4mfe)
+- [The Oracle Problem Evolved: Why Privacy-Preserving Oracles Are the Missing Link for DeFi](https://dev.to/savvysid/the-oracle-problem-evolved-why-privacy-preserving-oracles-are-the-missing-link-for-defi-2fck)
+- [REAL 1 Fake – 2 REAL A Poem of Sparse Defense &amp; Child-King Sovereignty](https://dev.to/nnamdi_okpala_7cb668168e6/real-1-fake-2-real-a-poem-of-sparse-defense-child-king-sovereignty-2hki)
+- [How Top Teams Win With Digital Products in 2025](https://dev.to/farhannasirdev/how-top-teams-win-with-digital-products-in-2025-14m3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
