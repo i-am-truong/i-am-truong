@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What is the Spring Bean Lifecycle?](https://dev.to/realnamehidden1_61/what-is-the-spring-bean-lifecycle-2ekf)
 - [Necessary Conditions GPT Must Satisfy for Producing Complex Code](https://dev.to/canonical/necessary-conditions-gpt-must-satisfy-for-producing-complex-code-2ld0)
 - [The FX Market Is Broken — Here’s How Blockchain Can Fix It](https://dev.to/favebs/the-fx-market-is-broken-heres-how-blockchain-can-fix-it-41jl)
-- [Methodological Sources of Reversible Computation](https://dev.to/canonical/methodological-sources-of-reversible-computation-396h)
-- [Dockerizing Azure Service Bus Emulator and Test with Logic Apps](https://dev.to/imdj/dockerizing-azure-service-bus-emulator-and-test-with-logic-apps-3lme)
-- [DemoProject](https://dev.to/siddhesmm303/demoproject-166b)
+- [When to Use &lpar;and Avoid&rpar; `collect&lpar;&rpar;` in Rust 1.91.1](https://dev.to/amritsingh183/when-to-use-and-avoid-collect-in-rust-1911-5gih)
+- [“Reflexão sobre o uso dasTICs no Processo de Inovação Didática”](https://dev.to/iset_felisbertobunguane_/reflexao-sobre-o-uso-dastics-no-processo-de-inovacao-didatica-1e8i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
