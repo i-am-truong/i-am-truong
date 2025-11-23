@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Resolvendo o desafio 509. Fibonacci Number](https://dev.to/cancio/resolvendo-o-desafio-509-fibonacci-number-5def)
 - [Linux Kernel: Interrupt Handling &lpar;Part 2&rpar;](https://dev.to/ripan030/linux-kernel-interrupt-handling-part-2-fe1)
 - [Mastering Web Accessibility with Tabnav: A Free Checker That Simulates Real User Interaction](https://dev.to/net_aharonov_bf7c74a4387c/mastering-web-accessibility-with-tabnav-a-free-checker-that-simulates-real-user-interaction-1ap9)
 - [🚀 How I Built PIYE — an AI Mentor for Developers Who Want Guidance, Not Just Answers](https://dev.to/aldgar/how-i-built-piye-an-ai-mentor-for-developers-who-want-guidance-not-just-answers-5dhk)
 - [Why Juniors Aren’t Getting Hired in 2026 and the One Strategy That Flips Your Odds Overnight](https://dev.to/brandonkylebailey/why-juniors-arent-getting-hired-in-2026-and-the-one-strategy-that-flips-your-odds-overnight-5b1)
-- [Why GIFs Make Tableau Dashboards More Interesting](https://dev.to/dipti_moryani_08e62702314/why-gifs-make-tableau-dashboards-more-interesting-49d1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
