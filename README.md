@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Como foi palestrar na Clojure South 2025](https://dev.to/marciofrayze/como-foi-palestrar-na-clojure-south-2025-3hb3)
-- [AI for Exploratory Data Analysis &lpar;EDA&rpar;](https://dev.to/kintur_kt/ai-for-exploratory-data-analysis-eda-6no)
-- [ZetaShare | Building Truly private file transfer with WebRTC](https://dev.to/masettermusk/zetashare-building-truly-private-file-transfer-with-webrtc-35jp)
-- [2026 World Cup Preview: Key Takeaways &amp; Trends to Watch](https://dev.to/mabualzait/2026-world-cup-preview-key-takeaways-trends-to-watch-4ll7)
-- [SEO vs. GEO: Developer&#39;s Guide](https://dev.to/zeze1020/seo-vs-geo-developers-guide-4lfi)
+- [I Built Offday.app — A Small Tool That Helps You Plan Longer Holidays with Fewer Leave Days](https://dev.to/ilyasozkurt/i-built-offdayapp-a-small-tool-that-helps-you-plan-longer-holidays-with-fewer-leave-days-15b0)
+- [Building a Spring Boot Application with Spring Cloud Stream for Kafka Stream Processing](https://dev.to/khalid_edaoudi_f60d2bbc68/building-a-spring-boot-application-with-spring-cloud-stream-for-kafka-stream-processing-3h6a)
+- [Nuxt Tutorial 6 - Vue.js Intermezzo](https://dev.to/aloisseckar/nuxt-tutorial-6-vuejs-intermezzo-45aa)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-8gg)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-2ofl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
