@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Como foi palestrar na Clojure South 2025](https://dev.to/marciofrayze/como-foi-palestrar-na-clojure-south-2025-3hb3)
+- [AI for Exploratory Data Analysis &lpar;EDA&rpar;](https://dev.to/kintur_kt/ai-for-exploratory-data-analysis-eda-6no)
+- [ZetaShare | Building Truly private file transfer with WebRTC](https://dev.to/masettermusk/zetashare-building-truly-private-file-transfer-with-webrtc-35jp)
+- [2026 World Cup Preview: Key Takeaways &amp; Trends to Watch](https://dev.to/mabualzait/2026-world-cup-preview-key-takeaways-trends-to-watch-4ll7)
 - [SEO vs. GEO: Developer&#39;s Guide](https://dev.to/zeze1020/seo-vs-geo-developers-guide-4lfi)
-- [🚀 Guia Completo: Otimização de Performance Web com Core Web Vitals](https://dev.to/fantinatto/guia-completo-otimizacao-de-performance-web-com-core-web-vitals-3nho)
-- [CKS Notes - Apiserver request security](https://dev.to/cheedge_lee/cks-notes-apiserver-request-security-3jfc)
-- [Firebase Composables - قابلة لإعادة الاستخدام](https://dev.to/ahmed_niazy/firebase-composables-qbl-ld-lstkhdm-p89)
-- [Coding Challenge Practice - Question 64](https://dev.to/tomivan/coding-challenge-practice-question-64-3p2k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
