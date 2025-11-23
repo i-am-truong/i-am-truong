@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From Cloud Audit Logs to Real-Time Threat Detection with BigQuery and Chronicle SIEM](https://dev.to/advait_patel_5476c0750b4e/from-cloud-audit-logs-to-real-time-threat-detection-with-bigquery-and-chronicle-siem-4kn5)
+- [Build your own cursor](https://dev.to/niko2609/build-your-own-cursor-1gmg)
+- [Beginner’s Guide — Build a Node.js Microservices Stack with Docker, MongoDB &amp; RabbitMQ](https://dev.to/jps27cse/beginners-guide-build-a-nodejs-microservices-stack-with-docker-mongodb-rabbitmq-577k)
 - [Stop Blocking AI Bots. Charge Them. &lpar;I built a Payment Protocol in Node.js&rpar;](https://dev.to/ankitx1357boop/stop-blocking-ai-bots-charge-them-i-built-a-payment-protocol-in-nodejs-lhc)
 - [Building a Full-Stack Type-Safe CRUD App with SolidJS, Bun, Hono, and PostgreSQL](https://dev.to/mayu2008/building-a-full-stack-type-safe-crud-app-with-solidjs-bun-hono-and-postgresql-22ea)
-- [Zero-Click Content Strategy: How to Win When Google Keeps Your Traffic](https://dev.to/synergistdigitalmedia/zero-click-content-strategy-how-to-win-when-google-keeps-your-traffic-5e0n)
-- [The Hidden Tax You Are Paying Every Day: A Dev&#39;s Journey into Ops Automation](https://dev.to/empire/the-hidden-tax-you-are-paying-every-day-a-devs-journey-into-ops-automation-5f80)
-- [Back to School Evolution: 1850-2025](https://dev.to/ndabene/back-to-school-evolution-1850-2025-5bj0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
