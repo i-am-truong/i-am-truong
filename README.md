@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀 How I Built PIYE — an AI Mentor for Developers Who Want Guidance, Not Just Answers](https://dev.to/aldgar/how-i-built-piye-an-ai-mentor-for-developers-who-want-guidance-not-just-answers-5dhk)
+- [Why Juniors Aren’t Getting Hired in 2026 and the One Strategy That Flips Your Odds Overnight](https://dev.to/brandonkylebailey/why-juniors-arent-getting-hired-in-2026-and-the-one-strategy-that-flips-your-odds-overnight-5b1)
 - [Revolutionising Content Management: An Introduction to AEM Business Agents](https://dev.to/raghavajoijode/revolutionising-content-management-an-introduction-to-aem-business-agents-4dnm)
 - [From Intern to Employee: How a Digital CV Gets You Noticed](https://dev.to/imtaslim/from-intern-to-employee-how-a-digital-cv-gets-you-noticed-l40)
-- [TypedSql: Turning the C# Type System into a Query Engine](https://dev.to/hez2010/typedsql-turning-the-c-type-system-into-a-query-engine-nie)
-- [Vinyl Tracker Project Overview](https://dev.to/bernard_borg_dev/vinyl-tracker-project-overview-5bg2)
-- [The AI-Powered Second Brain: How to Use ChatGPT and Notion to Never Forget Anything Again](https://dev.to/veltrex_labs/the-ai-powered-second-brain-how-to-use-chatgpt-and-notion-to-never-forget-anything-again-1he2)
+- [Rust CI: Security, Dependency Policy, Coverage Gate, and Fast Builds](https://dev.to/antonds/rust-ci-security-dependency-policy-coverage-gate-and-fast-builds-5f5b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
