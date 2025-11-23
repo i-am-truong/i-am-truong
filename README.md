@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The AI-Powered Second Brain: How to Use ChatGPT and Notion to Never Forget Anything Again](https://dev.to/veltrex_labs/the-ai-powered-second-brain-how-to-use-chatgpt-and-notion-to-never-forget-anything-again-1he2)
+- [Cloud FinOps in Action: How I Saved Thousands by Optimizing AWS Architectures](https://dev.to/alok_shankar/cloud-finops-in-action-how-i-saved-thousands-by-optimizing-aws-architectures-36bk)
+- [Content Security Policy &lpar;CSP&rpar;](https://dev.to/lucaspereiradesouzat/content-security-policy-csp-35h5)
 - [Run TypeScript Files in 30 Seconds](https://dev.to/walodja1987/run-typescript-files-in-30-seconds-4b3l)
 - [Stop Memory Leaks! The Practical Guide to WeakMap and WeakSet](https://dev.to/samuel_ochaba_eb9c875fa89/stop-memory-leaks-the-practical-guide-to-weakmap-and-weakset-gbm)
-- [Fiz merda com o Git… como resolver?](https://dev.to/andersoncontreira/fiz-merda-com-o-git-como-resolver-4kaf)
-- [Slush 2025 MoM 🚀](https://dev.to/shopskasalad/slush-2025-mom-1f6p)
-- [Ai in Coding: Future Impact in 2025?](https://dev.to/rociogarciavf/ai-in-coding-future-impact-in-2025-1pkp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
