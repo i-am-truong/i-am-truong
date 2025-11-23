@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built GitPulse — A tool to help you find beginner-friendly open-source projects](https://dev.to/jondoehimself/i-built-gitpulse-a-tool-to-help-you-find-beginner-friendly-open-source-projects-1fgp)
-- [Tech Giants Navigate AI Backlash, Infrastructure Investments, and Future of Work Discussions Amidst Global Developments](https://dev.to/stelixx-insights/tech-giants-navigate-ai-backlash-infrastructure-investments-and-future-of-work-discussions-amidst-4ia5)
-- [Introducing Gati — The Zero-Ops Backend Framework for the AI Era](https://dev.to/krishnapaul/introducing-gati-the-zero-ops-backend-framework-for-the-ai-era-4jde)
-- [#Learning REACTJS And 100 Days of Writing code](https://dev.to/patrick_okoro_6f598304058/learning-reactjs-and-100-days-of-writing-code-168n)
-- [The Hidden Cost of Context Switching for Engineering Managers](https://dev.to/secur3-et/the-hidden-cost-of-context-switching-for-engineering-managers-3p09)
+- [Why I Prefer Web Fundamentals Over the Endless Framework Cycle](https://dev.to/mashraf_aiman_b9a968e5c1d/why-i-prefer-web-fundamentals-over-the-endless-framework-cycle-1698)
+- [A beginner&#39;s guide to the Vggt-1b model by Vufinder on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-vggt-1b-model-by-vufinder-on-replicate-4oo8)
+- [Part 3 of My First .NET Core Web API Project: Documenting the Rookie Mistakes and Wins on the Way to a Job.](https://dev.to/jervie_gono/part-3-of-my-first-net-core-web-api-project-documenting-the-rookie-mistakes-and-wins-on-the-way-pam)
+- [Stop Building Indie SaaS the Hard Way](https://dev.to/brandonkylebailey/stop-building-indie-saas-the-hard-way-26o2)
+- [SpaceX vs Blue Origin: Why the Next Big Shock in Spaceflight Might Come From Bezos, Not Musk](https://dev.to/mashraf_aiman_b9a968e5c1d/spacex-vs-blue-origin-why-the-next-big-shock-in-spaceflight-might-come-from-bezos-not-musk-22cc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
