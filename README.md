@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What is the Spring Bean Lifecycle?](https://dev.to/realnamehidden1_61/what-is-the-spring-bean-lifecycle-2ekf)
-- [Necessary Conditions GPT Must Satisfy for Producing Complex Code](https://dev.to/canonical/necessary-conditions-gpt-must-satisfy-for-producing-complex-code-2ld0)
-- [The FX Market Is Broken — Here’s How Blockchain Can Fix It](https://dev.to/favebs/the-fx-market-is-broken-heres-how-blockchain-can-fix-it-41jl)
-- [When to Use &lpar;and Avoid&rpar; `collect&lpar;&rpar;` in Rust 1.91.1](https://dev.to/amritsingh183/when-to-use-and-avoid-collect-in-rust-1911-5gih)
-- [“Reflexão sobre o uso dasTICs no Processo de Inovação Didática”](https://dev.to/iset_felisbertobunguane_/reflexao-sobre-o-uso-dastics-no-processo-de-inovacao-didatica-1e8i)
+- [Bridging the Gap: Integrating 3GL Languages with Uniface](https://dev.to/petercode/bridging-the-gap-integrating-3gl-languages-with-uniface-4fa2)
+- [I&#39;ve got the best idea for Thanksgiving. Im going to make a multi layer gelatin cake. Then I can tell everyone its my OSI model and how this gelatin cake relates to computer science. Dorky? Yes. Going to make my OSI gelatin cake anyways. 🌈](https://dev.to/annavi11arrea1/ive-got-the-best-idea-for-thanksgiving-im-going-to-make-a-multi-layer-gelatin-cake-then-i-can-104l)
+- [Why Softmax is Used Instead of Argmax in Neural Network Training](https://dev.to/imdadul_haqueohi_1eb693e/why-softmax-is-used-instead-of-argmax-in-neural-network-training-aba)
+- [🛠️ Uniface 10.4 Tip: How to Debug C/C++ Components Without Crashing](https://dev.to/petercode/uniface-104-tip-how-to-debug-cc-components-without-crashing-kip)
+- [De-Silo Your Revenue Engine: A 5-Step Playbook for Aligning Sales &amp; Marketing APIs](https://dev.to/michaelaiglobal/de-silo-your-revenue-engine-a-5-step-playbook-for-aligning-sales-marketing-apis-3ci9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
