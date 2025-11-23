@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Revolutionising Content Management: An Introduction to AEM Business Agents](https://dev.to/raghavajoijode/revolutionising-content-management-an-introduction-to-aem-business-agents-4dnm)
+- [From Intern to Employee: How a Digital CV Gets You Noticed](https://dev.to/imtaslim/from-intern-to-employee-how-a-digital-cv-gets-you-noticed-l40)
 - [TypedSql: Turning the C# Type System into a Query Engine](https://dev.to/hez2010/typedsql-turning-the-c-type-system-into-a-query-engine-nie)
+- [Vinyl Tracker Project Overview](https://dev.to/bernard_borg_dev/vinyl-tracker-project-overview-5bg2)
 - [The AI-Powered Second Brain: How to Use ChatGPT and Notion to Never Forget Anything Again](https://dev.to/veltrex_labs/the-ai-powered-second-brain-how-to-use-chatgpt-and-notion-to-never-forget-anything-again-1he2)
-- [The &#39;Slow Productivity&#39; Revolution: Why Doing Less is the Key to Achieving More in the Age of AI](https://dev.to/veltrex_labs/the-slow-productivity-revolution-why-doing-less-is-the-key-to-achieving-more-in-the-age-of-ai-php)
-- [Cloud FinOps in Action: How I Saved Thousands by Optimizing AWS Architectures](https://dev.to/alok_shankar/cloud-finops-in-action-how-i-saved-thousands-by-optimizing-aws-architectures-36bk)
-- [Content Security Policy &lpar;CSP&rpar;](https://dev.to/lucaspereiradesouzat/content-security-policy-csp-35h5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
