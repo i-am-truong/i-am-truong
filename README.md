@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-al7)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-47ni)
-- [Kubernetes Control Plane Explained in Simple Bullets - A K8s Architect’s Guide](https://dev.to/srinivasamcjf/kubernetes-control-plane-explained-in-simple-bullets-a-k8s-architects-guide-ia)
-- [Docker Quick Guide — From &#39;Works on My Machine&#39; to Cloud‑Ready Containers](https://dev.to/cristiansifuentes/docker-quick-guide-from-works-on-my-machine-to-cloud-ready-containers-3ggn)
-- [Dealing with domain modelling mismatches on external services](https://dev.to/shalvah/dealing-with-domain-modelling-mismatches-on-external-services-2gh6)
+- [I Built a Curl Command Generator App with React](https://dev.to/a-k-0047/i-built-a-curl-command-generator-app-with-react-4njb)
+- [From &#39;Will AI Replace Me?&#39; to Building an AI PM: My 3-Month Journey](https://dev.to/ashbuildsai/from-will-ai-replace-me-to-building-an-ai-pm-my-3-month-journey-35ej)
+- [The Real Cost of AI: AWS Bedrock vs. OpenAI vs. Self-Hosting 💰](https://dev.to/nimmala_nagasanthoshbab/the-real-cost-of-ai-aws-bedrock-vs-openai-vs-self-hosting-236m)
+- [Industries Where Your C Code Saves Lives &lpar;And They&#39;re Hiring&rpar;](https://dev.to/fosres/industries-in-demand-for-cert-c-compliant-security-focused-coders-27n6)
+- [Meet Amazon Q: The AI Assistant That Actually Knows Your Codebase 🦄](https://dev.to/nimmala_nagasanthoshbab/meet-amazon-q-the-ai-assistant-that-actually-knows-your-codebase-4e3k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
