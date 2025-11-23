@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Maintenance release 2.09 for the Perl Distribution Workflow](https://dev.to/jonasbn/maintenance-release-209-for-the-perl-distribution-workflow-491a)
+- [Uniface State Management: Mastering the Stateless Beast 🦄💾](https://dev.to/petercode/uniface-state-management-mastering-the-stateless-beast-31on)
+- [AI Isn&#39;t &quot;Smart&quot;: The Myth of Sentience and the Energy of a Black Hole](https://dev.to/fbrzlarosa/ai-isnt-smart-the-myth-of-sentience-and-the-energy-of-a-black-hole-2j6i)
 - [I Tried to Teach AI to Click Buttons, and It Missed by 500 Pixels](https://dev.to/duc_luong_10d1d0d0f726c3a/i-tried-to-teach-ai-to-click-buttons-and-it-missed-by-500-pixels-33ln)
-- [Uniface Entity Services: Your Database Bodyguard 🛡️](https://dev.to/petercode/uniface-entity-services-your-database-bodyguard-22b1)
-- [Tech Meets Art: Dennis Wimberly’s Scalable Creativity with AI &amp; Cloud](https://dev.to/dennis_wimberly_b8aa3c8aa/tech-meets-art-dennis-wimberlys-scalable-creativity-with-ai-cloud-3hoo)
-- [Accelerating Migration Projects with Kiro using Spec-Driven Development](https://dev.to/aws-builders/accelerating-migration-projects-with-kiro-using-spec-driven-development-1bn7)
-- [Building Player-Driven Digital Worlds: How BubuVerse Blends Creativity and Interactive Design](https://dev.to/bubuverse/building-player-driven-digital-worlds-how-bubuverse-blends-creativity-and-interactive-design-43li)
+- [📘 SaijinOS Part 14 &lpar;DEV Edition&rpar; Silent-Civ SaijinOS — Unified Persona Kernel Architecture](https://dev.to/kato_masato_c5593c81af5c6/saijinos-part-14-dev-editionsilent-civ-x-saijinos-unified-persona-kernel-architecture-43ap)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
