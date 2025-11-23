@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Run TypeScript Files in 30 Seconds](https://dev.to/walodja1987/run-typescript-files-in-30-seconds-4b3l)
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-5aaa)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-bgb)
-- [Dart on Ubuntu: Installation, Setup, and First Steps](https://dev.to/pablojavierjimenez/dart-on-ubuntu-installation-setup-and-first-steps-455j)
-- [Cuidado ao compartilhar seus sonhos, nem todo mundo torce por você.](https://dev.to/andersoncontreira/cuidado-ao-compartilhar-seus-sonhos-nem-todo-mundo-torce-por-voce-2b6k)
+- [Stop Memory Leaks! The Practical Guide to WeakMap and WeakSet](https://dev.to/samuel_ochaba_eb9c875fa89/stop-memory-leaks-the-practical-guide-to-weakmap-and-weakset-gbm)
+- [Fiz merda com o Git… como resolver?](https://dev.to/andersoncontreira/fiz-merda-com-o-git-como-resolver-4kaf)
+- [Slush 2025 MoM 🚀](https://dev.to/shopskasalad/slush-2025-mom-1f6p)
+- [Ai in Coding: Future Impact in 2025?](https://dev.to/rociogarciavf/ai-in-coding-future-impact-in-2025-1pkp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
