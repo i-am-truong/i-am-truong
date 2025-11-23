@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The New Digital Divide: Will &quot;Vibe Coding&quot; Really Make Everyone a Developer?](https://dev.to/alikarbasicom/the-new-digital-divide-will-vibe-coding-really-make-everyone-a-developer-1ggg)
-- [A 13-Year-Old Founder Building a Study App Because Existing Tools Weren’t Enough](https://dev.to/nikitav/a-13-year-old-founder-building-a-study-app-because-existing-tools-werent-enough-1f4g)
-- [Idable queries Relational library dev release](https://dev.to/xwero/idable-queries-relational-library-dev-release-3an4)
-- [Building Resilient Serverless Workloads with the Circuit Breaker Pattern](https://dev.to/aws-builders/building-resilient-serverless-workloads-with-the-circuit-breaker-pattern-5pb)
-- [C++ Through the Years : From Classic to Modern](https://dev.to/md_dildar_mandal/evolution-of-c-3j24)
+- [Value Objects in PHP 8: Let&#39;s introduce a functional approach](https://dev.to/cnastasi/value-objects-in-php-8-lets-introduce-a-functional-approach-3aan)
+- [Why Aider](https://dev.to/avkr/why-aider-1nle)
+- [Creating a personal assistant &lpar;girlfriend&rpar; for myself](https://dev.to/yusufpapurcu/creating-a-personal-assistant-girlfriend-for-myself-1i29)
+- [Self-Sovereign Identity&#39;s Privacy Blind Spot: Why DIDs Need Confidential Computing](https://dev.to/savvysid/self-sovereign-identitys-privacy-blind-spot-why-dids-need-confidential-computing-nii)
+- [Next.js Weekly #109: Next Analyze, Prisma 7, use-nemo, State of React 2025, Error Boundaries, UI Framework Guide](https://dev.to/erfanebrahimnia/nextjs-weekly-109-next-analyze-prisma-7-use-nemo-state-of-react-2025-error-boundaries-ui-3n30)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
