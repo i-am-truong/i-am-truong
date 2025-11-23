@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-al7)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-47ni)
+- [Kubernetes Control Plane Explained in Simple Bullets - A K8s Architect’s Guide](https://dev.to/srinivasamcjf/kubernetes-control-plane-explained-in-simple-bullets-a-k8s-architects-guide-ia)
+- [Docker Quick Guide — From &#39;Works on My Machine&#39; to Cloud‑Ready Containers](https://dev.to/cristiansifuentes/docker-quick-guide-from-works-on-my-machine-to-cloud-ready-containers-3ggn)
 - [Dealing with domain modelling mismatches on external services](https://dev.to/shalvah/dealing-with-domain-modelling-mismatches-on-external-services-2gh6)
-- [Introduction to GNU, GDB, ELF, and LLDB](https://dev.to/godinhojoao/introduction-to-gnu-gdb-elf-and-lldb-p9p)
-- [Releasing My First Open-Source CLI Tool: Lessons from Publishing Repository-Context-Packager](https://dev.to/cynthia_f/releasing-my-first-open-source-cli-tool-lessons-from-publishing-repository-context-packager-2ef0)
-- [Who shapes The Blob: AI industry interconnections and consolidation?](https://dev.to/jay_all_day/who-shapes-the-blob-ai-industry-interconnections-and-consolidation-49m1)
-- [Beyond Code: The Obsessive Knowledge That Makes You Dangerous](https://dev.to/numbpill3d/beyond-code-the-obsessive-knowledge-that-makes-you-dangerous-efk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
