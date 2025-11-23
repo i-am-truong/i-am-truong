@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI in Legacy Code Modernization](https://dev.to/nolanlwin/ai-in-legacy-code-modernization-2a0)
-- [OSD600: Release 0.3](https://dev.to/david_rivera_8d845b35931e/osd600-release-03-4p46)
-- [The Hidden Cost of Abstraction - Making an Informed Decision](https://dev.to/solomonaboyeji/the-hidden-cost-of-abstraction-27kk)
-- [Knowledge Graphs + LLM Integration: Query Your Ontology with Natural Language](https://dev.to/vishalmysore/knowledge-graphs-llm-integration-query-your-ontology-with-natural-language-480d)
-- [The Story of Archi: an Archimate Tool; The Pedantic Defense: How &#39;Legal&#39; Gatekeeping Violates the Spirit of Open Source](https://dev.to/steve_7dd4f5ea142451b9787/the-pedantic-defense-how-legal-gatekeeping-violates-the-spirit-of-open-source-4276)
+- [AI is the biggest bubble in human history](https://dev.to/joaoalissonsilva/ai-is-the-biggest-bubble-in-human-history-4ce0)
+- [Nix for Fun and Profit: Programs as Lego&#39;s](https://dev.to/blu/nix-for-fun-and-profit-programs-as-legos-22e0)
+- [AI Camouflage: Clothing That Breaks the Algorithm](https://dev.to/arvind_sundararajan/ai-camouflage-clothing-that-breaks-the-algorithm-4ngi)
+- [Headless CMS: Directus and Payload Walk Into a Bar 🍵](https://dev.to/fbrzlarosa/headless-cms-directus-and-payload-walk-into-a-bar-4kog)
+- [[Boost]](https://dev.to/nolanlwin/-1nlh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
