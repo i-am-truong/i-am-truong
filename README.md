@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Rust у мікросервісах: швидкість та продуктивність, що змінюють правила гри](https://dev.to/4mars/rust-u-mikrosiervisakh-shvidkist-ta-produktivnist-shcho-zminiuiut-pravila-ghri-1a0d)
+- [AWS Policy Deep Dive](https://dev.to/terry_cloud/aws-policy-deep-dive-5e78)
+- [Fraud Detection with Knowledge Graphs: A Protégé and VidyaAstra Approach](https://dev.to/vishalmysore/fraud-detection-with-knowledge-graphs-a-protege-and-vidyaastra-approac-d0m)
 - [AI is the biggest bubble in human history](https://dev.to/joaoalissonsilva/ai-is-the-biggest-bubble-in-human-history-4ce0)
 - [Nix for Fun and Profit: Programs as Lego&#39;s](https://dev.to/blu/nix-for-fun-and-profit-programs-as-legos-22e0)
-- [AI Camouflage: Clothing That Breaks the Algorithm](https://dev.to/arvind_sundararajan/ai-camouflage-clothing-that-breaks-the-algorithm-4ngi)
-- [Headless CMS: Directus and Payload Walk Into a Bar 🍵](https://dev.to/fbrzlarosa/headless-cms-directus-and-payload-walk-into-a-bar-4kog)
-- [[Boost]](https://dev.to/nolanlwin/-1nlh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
