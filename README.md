@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Don Quixote Of Orchestration: Building For Problems No One Sees Yet](https://dev.to/marcosomma/don-quixote-of-orchestration-building-for-problems-no-one-sees-yet-1je6)
-- [Pwnagotchi Generator: Understanding opwngrid Through Reverse Engineering](https://dev.to/angeldev0/pwnagotchi-generator-understanding-opwngrid-through-reverse-engineering-4d8i)
-- [Search Online - Arama Motoru](https://dev.to/koray_korkmaz_d5cce758baa/search-online-arama-motoru-1674)
-- [Pwnagotchi Generator: Understanding opwngrid Through Reverse Engineering](https://dev.to/angeldev0/pwnagotchi-generator-understanding-opwngrid-through-reverse-engineering-23c5)
-- [The Great Myth: More Code Equals More Progress](https://dev.to/sia_negi21/the-great-myth-more-code-equals-more-progress-5apg)
+- [Run TypeScript Files in 30 Seconds](https://dev.to/walodja1987/run-typescript-files-in-30-seconds-4b3l)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-5aaa)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-bgb)
+- [Dart on Ubuntu: Installation, Setup, and First Steps](https://dev.to/pablojavierjimenez/dart-on-ubuntu-installation-setup-and-first-steps-455j)
+- [Cuidado ao compartilhar seus sonhos, nem todo mundo torce por você.](https://dev.to/andersoncontreira/cuidado-ao-compartilhar-seus-sonhos-nem-todo-mundo-torce-por-voce-2b6k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
