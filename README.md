@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Qeltrix: A Content-Derived, Parallel Streaming Obfuscation Container](https://dev.to/hejhdiss/introducing-qeltrix-a-content-derived-parallel-streaming-obfuscation-container-3ngd)
-- [Best Fake REST APIs for Testing Your App](https://dev.to/developerhelpfull/best-fake-rest-apis-for-testing-your-app-20c3)
-- [🌍 Uniface Localization Series &lpar;Part 3&rpar;: Testing &amp; Best Practices 🏁](https://dev.to/petercode/uniface-localization-series-part-3-testing-best-practices-15hk)
-- [A Beginner&#39;s Guide to Bubble Sort Algorithm](https://dev.to/saptarshisarkar/a-beginners-guide-to-bubble-sort-algorithm-32i8)
-- [You&#39;re Not Building Netflix: Stop Coding Like You Are](https://dev.to/adamthedeveloper/youre-not-building-netflix-stop-coding-like-you-are-1707)
+- [Decoding the Beautiful Game: AI&#39;s Play-by-Play Revolution by Arvind Sundararajan](https://dev.to/arvind_sundararajan/decoding-the-beautiful-game-ais-play-by-play-revolution-by-arvind-sundararajan-9kd)
+- [High-Performance Marshaling Strategies in Go — What Actually Works at Scale](https://dev.to/devflex-pro/high-performance-marshaling-strategies-in-go-what-actually-works-at-scale-1a8m)
+- [🚀 Boost Chrome’s Speed by Giving It More Memory &lpar;Because It’s Always Hungry&rpar;](https://dev.to/fbrzlarosa/boost-chromes-speed-by-giving-it-more-memory-because-its-always-hungry-2e3b)
+- [How to Use Chatbot in Education](https://dev.to/chatboqai/how-to-use-chatbot-in-education-25oa)
+- [AI vs God: The Ultimate Guide to Discerning Divine Wisdom in the Age of Artificial Intelligence](https://dev.to/bobby_sanders_63117dbdf8a/ai-vs-god-the-ultimate-guide-to-discerning-divine-wisdom-in-the-age-of-artificial-intelligence-35bj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
