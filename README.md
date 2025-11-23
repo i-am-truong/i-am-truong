@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Contest Alarm App for Codeforces &amp; AtCoder — Need Suggestions](https://dev.to/md_shahriaswapno_ea91d1e/building-a-contest-alarm-app-for-codeforces-atcoder-need-suggestions-4560)
+- [Logging at Scale: ELK Stack vs Loki vs CloudWatch](https://dev.to/instadevops/logging-at-scale-elk-stack-vs-loki-vs-cloudwatch-2gga)
 - [The 10 Levels of API Development &lpar;From Beginner to Production-Ready&rpar;](https://dev.to/itsugo/the-10-levels-of-api-development-from-beginner-to-production-ready-94c)
 - [Tech Giants Navigate AI Backlash, Infrastructure Investments, and Future of Work Discussions Amidst Global Developments](https://dev.to/stelixx-insights/tech-giants-navigate-ai-backlash-infrastructure-investments-and-future-of-work-discussions-amidst-50j1)
-- [Review: A Closer Look at the New YouTube Transcript Generator from Video Transcriber AI](https://dev.to/cicisee666/review-a-closer-look-at-the-new-youtube-transcript-generator-from-video-transcriber-ai-bmc)
-- [DWM: Wallpaper change](https://dev.to/voyeg3r/dwm-wallpaper-change-15cp)
-- [Building DiskCleanKit – My Journey from a Simple Idea to Mac App Store 🚀](https://dev.to/nam_tran_7c63c91d70bf0442/building-diskcleankit-my-journey-from-a-simple-idea-to-mac-app-store-22l2)
+- [Leveraging Service Stored Procedures &lpar;SSPs&rpar; in Uniface 10.4](https://dev.to/petercode/leveraging-service-stored-procedures-ssps-in-uniface-104-3emd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
