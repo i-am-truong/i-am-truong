@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The FX Market Is Broken — Here’s How Blockchain Can Fix It](https://dev.to/favebs/the-fx-market-is-broken-heres-how-blockchain-can-fix-it-41jl)
+- [Methodological Sources of Reversible Computation](https://dev.to/canonical/methodological-sources-of-reversible-computation-396h)
+- [Dockerizing Azure Service Bus Emulator and Test with Logic Apps](https://dev.to/imdj/dockerizing-azure-service-bus-emulator-and-test-with-logic-apps-3lme)
 - [DemoProject](https://dev.to/siddhesmm303/demoproject-166b)
 - [TikTok Shop vs Amazon Ads: The Q4 2025 ROI Reality Check Nobody&#39;s Talking About](https://dev.to/synergistdigitalmedia/tiktok-shop-vs-amazon-ads-the-q4-2025-roi-reality-check-nobodys-talking-about-53cg)
-- [☕ Threads in the Java Café — The Story of Concurrency](https://dev.to/shweta_aee818203e9dffed84/threads-in-the-java-cafe-the-story-of-concurrency-5707)
-- [Sorting Algorithms #4: Quick Sort](https://dev.to/tkouleris/sorting-algorithms-4-quick-sort-2aa3)
-- [The Blind Spot That Cost €45,000](https://dev.to/tracksimple/the-blind-spot-that-cost-eu45000-20km)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
