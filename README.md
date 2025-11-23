@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Domain-Specific AI Agents Through Configuration, Not Code](https://dev.to/arvindkumar_akula_42a971e/building-domain-specific-ai-agents-through-configuration-not-code-50nh)
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-292k)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-4e3c)
-- [Building a Location Picker in React Native Maps &lpar;with Draggable Marker &amp; Address Lookup&rpar;](https://dev.to/dainyjose/building-a-location-picker-in-react-native-maps-with-draggable-marker-address-lookup-1d00)
-- [Launching EC2 with Git Bash: Why SSH Is Preferable to PuTTY.](https://dev.to/elmaur1/launching-ec2-with-git-bash-why-ssh-is-preferable-to-putty-21aa)
+- [Using GitHub Copilot for Terraform code refactoring](https://dev.to/musukvl/using-github-copilot-for-terraform-code-refactoring-1c44)
+- [Predictive and secure look-ahead log interception using Aho-Corasick &amp; log tokenization &lpar;Java &amp; Spring&rpar;](https://dev.to/balakumaran/predictive-and-secure-look-ahead-log-interception-using-aho-corasick-log-tokenization-java--4ecg)
+- [Announcing udwall: A New Tool for Making UFW and Docker Play Nice With Each Other](https://dev.to/ganesh-kumar/announcing-udwall-a-new-tool-for-making-ufw-and-docker-play-nice-with-each-other-554b)
+- [Understanding the C Compilation Process](https://dev.to/manojge/understanding-the-c-compilation-process-5b91)
+- [I Built a Free AI Mastery Roadmap &lpar;And Why It&#39;s Not Another $500 Course&rpar;](https://dev.to/jgerton/i-built-a-free-ai-mastery-roadmap-and-why-its-not-another-500-course-162)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
