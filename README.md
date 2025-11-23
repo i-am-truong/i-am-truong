@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Opencode for Agentic Development with Local LLMs](https://dev.to/ferdousulhaque/opencode-for-agentic-development-with-local-llms-2h4k)
+- [Intro to Pytest](https://dev.to/thatmlguy/intro-to-pytest-1m35)
+- [I may have gone a little overboard with my portfolio… 😅](https://dev.to/swastik21/i-may-have-gone-a-little-overboard-with-my-portfolio-igm)
 - [Bridging the Gap: Integrating 3GL Languages with Uniface](https://dev.to/petercode/bridging-the-gap-integrating-3gl-languages-with-uniface-4fa2)
 - [I&#39;ve got the best idea for Thanksgiving. Im going to make a multi layer gelatin cake. Then I can tell everyone its my OSI model and how this gelatin cake relates to computer science. Dorky? Yes. Going to make my OSI gelatin cake anyways. 🌈](https://dev.to/annavi11arrea1/ive-got-the-best-idea-for-thanksgiving-im-going-to-make-a-multi-layer-gelatin-cake-then-i-can-104l)
-- [Why Softmax is Used Instead of Argmax in Neural Network Training](https://dev.to/imdadul_haqueohi_1eb693e/why-softmax-is-used-instead-of-argmax-in-neural-network-training-aba)
-- [🛠️ Uniface 10.4 Tip: How to Debug C/C++ Components Without Crashing](https://dev.to/petercode/uniface-104-tip-how-to-debug-cc-components-without-crashing-kip)
-- [De-Silo Your Revenue Engine: A 5-Step Playbook for Aligning Sales &amp; Marketing APIs](https://dev.to/michaelaiglobal/de-silo-your-revenue-engine-a-5-step-playbook-for-aligning-sales-marketing-apis-3ci9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
