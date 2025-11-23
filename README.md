@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The 10 Levels of API Development &lpar;From Beginner to Production-Ready&rpar;](https://dev.to/itsugo/the-10-levels-of-api-development-from-beginner-to-production-ready-94c)
+- [Tech Giants Navigate AI Backlash, Infrastructure Investments, and Future of Work Discussions Amidst Global Developments](https://dev.to/stelixx-insights/tech-giants-navigate-ai-backlash-infrastructure-investments-and-future-of-work-discussions-amidst-50j1)
 - [Review: A Closer Look at the New YouTube Transcript Generator from Video Transcriber AI](https://dev.to/cicisee666/review-a-closer-look-at-the-new-youtube-transcript-generator-from-video-transcriber-ai-bmc)
 - [DWM: Wallpaper change](https://dev.to/voyeg3r/dwm-wallpaper-change-15cp)
 - [Building DiskCleanKit – My Journey from a Simple Idea to Mac App Store 🚀](https://dev.to/nam_tran_7c63c91d70bf0442/building-diskcleankit-my-journey-from-a-simple-idea-to-mac-app-store-22l2)
-- [# How to Connect Power BI to PostgreSQL: Local and Aiven Cloud Setup](https://dev.to/ken_kimani_7f4b5a334929b3/-how-to-connect-power-bi-to-postgresql-local-and-aiven-cloud-setup-5692)
-- [React Native API Example Step-by-Step](https://dev.to/developerhelpfull/react-native-api-example-step-by-step-3ede)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
