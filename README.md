@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Qeltrix: A Content-Derived, Parallel Streaming Obfuscation Container](https://dev.to/hejhdiss/introducing-qeltrix-a-content-derived-parallel-streaming-obfuscation-container-3ngd)
+- [Best Fake REST APIs for Testing Your App](https://dev.to/developerhelpfull/best-fake-rest-apis-for-testing-your-app-20c3)
+- [🌍 Uniface Localization Series &lpar;Part 3&rpar;: Testing &amp; Best Practices 🏁](https://dev.to/petercode/uniface-localization-series-part-3-testing-best-practices-15hk)
 - [A Beginner&#39;s Guide to Bubble Sort Algorithm](https://dev.to/saptarshisarkar/a-beginners-guide-to-bubble-sort-algorithm-32i8)
 - [You&#39;re Not Building Netflix: Stop Coding Like You Are](https://dev.to/adamthedeveloper/youre-not-building-netflix-stop-coding-like-you-are-1707)
-- [How I Built an F1 Top-Down Racer in 48 Hours](https://dev.to/copet80/how-i-built-an-f1-top-down-racer-in-48-hours-3jhb)
-- [🌍 Uniface Localization Series &lpar;Part 1&rpar;: Mastering Date &amp; Time in Web Apps 📅](https://dev.to/petercode/uniface-localization-series-part-1-mastering-date-time-in-web-apps-5bed)
-- [Association, Aggregation, Composition in OOP: The University Story That Makes It Click](https://dev.to/sizan_mahmud0_e7c3fd0cb68/association-aggregation-composition-in-oop-the-university-story-that-makes-it-click-3d4d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
