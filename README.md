@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Cloud Audit Logs to Real-Time Threat Detection with BigQuery and Chronicle SIEM](https://dev.to/advait_patel_5476c0750b4e/from-cloud-audit-logs-to-real-time-threat-detection-with-bigquery-and-chronicle-siem-4kn5)
-- [Build your own cursor](https://dev.to/niko2609/build-your-own-cursor-1gmg)
-- [Beginner’s Guide — Build a Node.js Microservices Stack with Docker, MongoDB &amp; RabbitMQ](https://dev.to/jps27cse/beginners-guide-build-a-nodejs-microservices-stack-with-docker-mongodb-rabbitmq-577k)
-- [Stop Blocking AI Bots. Charge Them. &lpar;I built a Payment Protocol in Node.js&rpar;](https://dev.to/ankitx1357boop/stop-blocking-ai-bots-charge-them-i-built-a-payment-protocol-in-nodejs-lhc)
-- [Building a Full-Stack Type-Safe CRUD App with SolidJS, Bun, Hono, and PostgreSQL](https://dev.to/mayu2008/building-a-full-stack-type-safe-crud-app-with-solidjs-bun-hono-and-postgresql-22ea)
+- [The Ultimate Guide to Wisdom: Prompting AI vs. Praying to God](https://dev.to/bobby_sanders_63117dbdf8a/the-ultimate-guide-to-wisdom-prompting-ai-vs-praying-to-god-10f9)
+- [Singleton Pattern issue in playwright browser](https://dev.to/taukirsheikh/singleton-pattern-issue-in-playwright-brwoser-g9b)
+- [Streamline SDK Integration for AI Monetization with Monetzly](https://dev.to/monetzly/streamline-sdk-integration-for-ai-monetization-with-monetzly-2bf2)
+- [SteadyFetch: A tiny Android SDK that refuses to let your downloads die](https://dev.to/namn_dev/steadyfetch-a-tiny-android-sdk-that-refuses-to-let-your-downloads-die-448g)
+- [📘 SaijinOS Part 12 &lpar;DEV Edition&rpar; Silent-Civ Architecture — Minimal Pre-Linguistic Structural Model](https://dev.to/kato_masato_c5593c81af5c6/saijinos-part-12-dev-edition-572c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
