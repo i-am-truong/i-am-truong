@@ -122,9 +122,9 @@ Python                   1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [Am I Doing This Right? #1: Deploy Notifications That Actually Get Read](https://dev.to/jaredharbison/am-i-doing-this-right-1-deploy-notifications-that-actually-get-read-1ink)
 - [EF Core Migrations Troubleshooting Guide — Design Package, Tooling Versions &amp; Multi‑Project Setups](https://dev.to/cristiansifuentes/ef-core-migrations-troubleshooting-guide-design-package-tooling-versions-multi-project-setups-4a55)
-- [Building a Simple One-Page Landing Page: Code and Design for a Wellness Blog](https://dev.to/orrin_gibson_81d75422eb15/building-a-simple-one-page-landing-page-code-and-design-for-a-wellness-blog-2oj5)
 - [The Inventive Spark: When Robots Start Thinking About Their Thinking](https://dev.to/arvind_sundararajan/the-inventive-spark-when-robots-start-thinking-about-their-thinking-4me3)
 - [Connecting PostgreSQL to Power BI](https://dev.to/maureenmuthonihue/connecting-postgresql-to-power-bi-l36)
+- [The SQL Concept You Probably Missed: Materialized Views](https://dev.to/rijultp/the-sql-concept-you-probably-missed-materialized-views-13ni)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
