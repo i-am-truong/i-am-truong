@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Igniting AI: From Spark to Flame with Code](https://dev.to/mabualzait/igniting-ai-from-spark-to-flame-with-code-41l)
-- [Unlocking Global Optima: A Leap in Efficient Function Optimization](https://dev.to/arvind_sundararajan/unlocking-global-optima-a-leap-in-efficient-function-optimization-4mfe)
-- [The Oracle Problem Evolved: Why Privacy-Preserving Oracles Are the Missing Link for DeFi](https://dev.to/savvysid/the-oracle-problem-evolved-why-privacy-preserving-oracles-are-the-missing-link-for-defi-2fck)
-- [REAL 1 Fake – 2 REAL A Poem of Sparse Defense &amp; Child-King Sovereignty](https://dev.to/nnamdi_okpala_7cb668168e6/real-1-fake-2-real-a-poem-of-sparse-defense-child-king-sovereignty-2hki)
-- [How Top Teams Win With Digital Products in 2025](https://dev.to/farhannasirdev/how-top-teams-win-with-digital-products-in-2025-14m3)
+- [SEO vs. GEO: Developer&#39;s Guide](https://dev.to/zeze1020/seo-vs-geo-developers-guide-4lfi)
+- [🚀 Guia Completo: Otimização de Performance Web com Core Web Vitals](https://dev.to/fantinatto/guia-completo-otimizacao-de-performance-web-com-core-web-vitals-3nho)
+- [CKS Notes - Apiserver request security](https://dev.to/cheedge_lee/cks-notes-apiserver-request-security-3jfc)
+- [Firebase Composables - قابلة لإعادة الاستخدام](https://dev.to/ahmed_niazy/firebase-composables-qbl-ld-lstkhdm-p89)
+- [Coding Challenge Practice - Question 64](https://dev.to/tomivan/coding-challenge-practice-question-64-3p2k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
