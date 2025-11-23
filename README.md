@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Built an AI-Powered Pokedex with Python &amp; Streamlit &lpar;And It&#39;s Free!&rpar; 🚀](https://dev.to/cammanhhoang/i-built-an-ai-powered-pokedex-with-python-streamlit-and-its-free-4lem)
+- [React JS API Example for Beginners](https://dev.to/developerhelpfull/react-js-api-example-for-beginners-3e2b)
+- [🚀 Migrating from Uniface 9.7 to 10.4: A Survivor’s Guide](https://dev.to/petercode/migrating-from-uniface-97-to-104-a-survivors-guide-1ood)
+- [OAuth Integration in NestJS: From Hours of Configuration to 2 Minutes](https://dev.to/ngodinhcuong/oauth-integration-in-nestjs-from-hours-of-configuration-to-2-minutes-1a63)
 - [How EIP-4844 Changed Ethereum Gas Prices](https://dev.to/ruangsak_patomwong/how-eip-4844-changed-ethereum-gas-prices-1cip)
-- [Building the Future of Entertainment Tech: Wimberly Media’s Innovation Culture](https://dev.to/dennis_wimberly_b8aa3c8aa/building-the-future-of-entertainment-tech-wimberly-medias-innovation-culture-317h)
-- [When Noise Becomes Structure - The Hidden Mechanism Behind Resonance](https://dev.to/miller-28/when-noise-becomes-structure-the-hidden-mechanism-behind-resonance-1kd7)
-- [How equillar manage investment commissions](https://dev.to/icolomina/how-equillar-manage-investment-commissions-3c88)
-- [Top Public APIs for Beginners &lpar;No Auth Required&rpar;](https://dev.to/developerhelpfull/top-public-apis-for-beginners-no-auth-required-10el)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
