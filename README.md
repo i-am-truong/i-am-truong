@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Tech Giants Navigate AI Backlash, Infrastructure Investments, and Future of Work Discussions Amidst Global Developments](https://dev.to/stelixx-insights/tech-giants-navigate-ai-backlash-infrastructure-investments-and-future-of-work-discussions-amidst-3pfa)
-- [Learn Kafka by Doing: Build a 3-Broker Kafka Cluster with Docker Compose](https://dev.to/ajinkya_singh_2c02bd40423/learn-kafka-by-doing-build-a-3-broker-kafka-cluster-with-docker-compose-ank)
-- [The subtle trap of useMemo for large collections - and a tiny alternative](https://dev.to/shubham_dwivedi_dbf682957/the-subtle-trap-of-usememo-for-large-collections-and-a-tiny-alternative-38jg)
-- [PixelPerfect Capture: High-Quality Screenshots &amp; Full-Page Captures, Simplified](https://dev.to/0apocalypse0/pixelperfect-capture-high-quality-screenshots-full-page-captures-simplified-3m4)
-- [👀 Seeing is Believing: Visual Previews Arrive in Uniface 10.4 DSP Documentation](https://dev.to/petercode/seeing-is-believing-visual-previews-arrive-in-uniface-104-dsp-documentation-1ihb)
+- [DemoProject](https://dev.to/siddhesmm303/demoproject-166b)
+- [TikTok Shop vs Amazon Ads: The Q4 2025 ROI Reality Check Nobody&#39;s Talking About](https://dev.to/synergistdigitalmedia/tiktok-shop-vs-amazon-ads-the-q4-2025-roi-reality-check-nobodys-talking-about-53cg)
+- [☕ Threads in the Java Café — The Story of Concurrency](https://dev.to/shweta_aee818203e9dffed84/threads-in-the-java-cafe-the-story-of-concurrency-5707)
+- [Sorting Algorithms #4: Quick Sort](https://dev.to/tkouleris/sorting-algorithms-4-quick-sort-2aa3)
+- [The Blind Spot That Cost €45,000](https://dev.to/tracksimple/the-blind-spot-that-cost-eu45000-20km)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
