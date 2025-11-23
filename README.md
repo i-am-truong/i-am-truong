@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Using GitHub Copilot for Terraform code refactoring](https://dev.to/musukvl/using-github-copilot-for-terraform-code-refactoring-1c44)
-- [Predictive and secure look-ahead log interception using Aho-Corasick &amp; log tokenization &lpar;Java &amp; Spring&rpar;](https://dev.to/balakumaran/predictive-and-secure-look-ahead-log-interception-using-aho-corasick-log-tokenization-java--4ecg)
-- [Announcing udwall: A New Tool for Making UFW and Docker Play Nice With Each Other](https://dev.to/ganesh-kumar/announcing-udwall-a-new-tool-for-making-ufw-and-docker-play-nice-with-each-other-554b)
-- [Understanding the C Compilation Process](https://dev.to/manojge/understanding-the-c-compilation-process-5b91)
-- [I Built a Free AI Mastery Roadmap &lpar;And Why It&#39;s Not Another $500 Course&rpar;](https://dev.to/jgerton/i-built-a-free-ai-mastery-roadmap-and-why-its-not-another-500-course-162)
+- [Connecting PostgreSQL to Power BI](https://dev.to/maureenmuthonihue/connecting-postgresql-to-power-bi-l36)
+- [Controlling Blender with Gemini 3](https://dev.to/unclepomedev/controlling-blender-with-gemini-3-3nj9)
+- [SFTP, FTPS, or Something Better? Choosing the Right File Transfer Approach for 2026](https://dev.to/lovestaco/sftp-ftps-or-something-better-choosing-the-right-file-transfer-approach-for-2026-d8i)
+- [Machine Learning Syllabus for MAKAUT](https://dev.to/onirestart/machine-learning-syllabus-for-makaut-a0k)
+- [My Beginner-Friendly Debugging Checklist for Any Node.js API Issue](https://dev.to/now_raj/my-beginner-friendly-debugging-checklist-for-any-nodejs-api-issue-4384)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
