@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Necessary Conditions GPT Must Satisfy for Producing Complex Code](https://dev.to/canonical/necessary-conditions-gpt-must-satisfy-for-producing-complex-code-2ld0)
 - [The FX Market Is Broken — Here’s How Blockchain Can Fix It](https://dev.to/favebs/the-fx-market-is-broken-heres-how-blockchain-can-fix-it-41jl)
 - [Methodological Sources of Reversible Computation](https://dev.to/canonical/methodological-sources-of-reversible-computation-396h)
 - [Dockerizing Azure Service Bus Emulator and Test with Logic Apps](https://dev.to/imdj/dockerizing-azure-service-bus-emulator-and-test-with-logic-apps-3lme)
 - [DemoProject](https://dev.to/siddhesmm303/demoproject-166b)
-- [TikTok Shop vs Amazon Ads: The Q4 2025 ROI Reality Check Nobody&#39;s Talking About](https://dev.to/synergistdigitalmedia/tiktok-shop-vs-amazon-ads-the-q4-2025-roi-reality-check-nobodys-talking-about-53cg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
