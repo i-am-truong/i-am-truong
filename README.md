@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My Search to Become a DevRel: How Community, Teaching, WebAI and Vibe Coding Became My Path](https://dev.to/aileenvl/my-search-to-become-a-devrel-how-community-teaching-webai-and-vibe-coding-became-my-path-3n69)
 - [Rust у мікросервісах: швидкість та продуктивність, що змінюють правила гри](https://dev.to/4mars/rust-u-mikrosiervisakh-shvidkist-ta-produktivnist-shcho-zminiuiut-pravila-ghri-1a0d)
 - [AWS Policy Deep Dive](https://dev.to/terry_cloud/aws-policy-deep-dive-5e78)
 - [Fraud Detection with Knowledge Graphs: A Protégé and VidyaAstra Approach](https://dev.to/vishalmysore/fraud-detection-with-knowledge-graphs-a-protege-and-vidyaastra-approac-d0m)
-- [AI is the biggest bubble in human history](https://dev.to/joaoalissonsilva/ai-is-the-biggest-bubble-in-human-history-4ce0)
-- [Nix for Fun and Profit: Programs as Lego&#39;s](https://dev.to/blu/nix-for-fun-and-profit-programs-as-legos-22e0)
+- [The Dark Art Of Behavioral Enumeration And Why It Works Every Time](https://dev.to/numbpill3d/the-dark-art-of-behavioral-enumeration-and-why-it-works-every-time-h7o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
