@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Introducing the All-New SLS SQL Copilot](https://dev.to/observabilityguy/introducing-the-all-new-sls-sql-copilot-2mg3)
-- [How Pagination Saved an API from Crashing: A Practical Case Study](https://dev.to/taras_antoniuk_ea6a2fe7ee/how-pagination-saved-an-api-from-crashing-a-practical-case-study-4jfb)
-- [Implementing AIOps on Xperience by Kentico with n8n and GitHub Coding Agents: Automated Resolutions with Human in the Loop](https://dev.to/truelime/implementing-aiops-on-xperience-by-kentico-with-n8n-and-github-coding-agents-automated-resolutions-7o)
-- [Transform Your OpenAPI Specs Into Living Documentation: The Complete Guide](https://dev.to/apilover/transform-your-openapi-specs-into-living-documentation-the-complete-guide-4mki)
-- [The Ultimate Guide to Automotive MOST Cables](https://dev.to/dspof2000/the-ultimate-guide-to-automotive-most-cables-a0k)
+- [The Best AI Agent For Frontend - Kombai](https://dev.to/envitab/the-best-ai-agent-for-frontend-kombai-2033)
+- [MyScaleDB: Why Vector Databases Need SQL &lpar;The 2025 Reality Check&rpar;](https://dev.to/pascal_cescato_692b7a8a20/myscaledb-why-vector-databases-need-sql-the-2025-reality-check-2o99)
+- [Encrypt your GDrive / Dropbox files. GPG for beginners!](https://dev.to/aviiciii/encrypt-your-gdrive-dropbox-files-gpg-for-beginners-2c4j)
+- [Inside the Edge: Building an Automation-Native Telecom Stack for Real-Time Networks](https://dev.to/abdul_shamim/inside-the-edge-building-an-automation-native-telecom-stack-for-real-time-networks-3cfl)
+- [BATCHNORM IN LANGUAGE MODELS](https://dev.to/blackbidz/batchnorm-in-language-models-539c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
