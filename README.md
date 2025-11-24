@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: Best Picture Power Rankings &amp; the Super-Sincerity of ‘Sentimental Value&#39;](https://dev.to/popcorn_movies/ringer-movies-best-picture-power-rankings-the-super-sincerity-of-sentimental-value-2m87)
-- [New DynamoDB Key Feature &amp; Why It Matters](https://dev.to/aws-builders/new-dynamodb-key-feature-why-it-matters-38ln)
-- [I compared 17 Kotlin MVI libraries across 103 criteria - here are THE BEST 4](https://dev.to/nek12/i-compared-17-kotlin-mvi-libraries-across-103-criteria-here-are-the-best-4-5g89)
-- [Why everyone fails at the California Housing dataset the same way&lpar;6 brutal reasons&rpar;](https://dev.to/mohammadreza_mahdian_3841/why-everyone-fails-at-the-california-housing-dataset-the-same-way6-brutal-reasons-4c0g)
-- [SNK WELLNESS CENTER - Uno Platform AI Challenge Entry](https://dev.to/vonyange_2036/snk-wellness-center-uno-platform-ai-challenge-entry-2k01)
+- [Hello DEV Community 👋 — I&#39;m Sebastien, a Full-Stack &amp; iOS Developer](https://dev.to/sebastienlato/hello-dev-community-im-sebastien-a-full-stack-ios-developer-dc4)
+- [Vertical Slice Architecture in .NET — From N‑Tier Layers to Feature Slices](https://dev.to/cristiansifuentes/vertical-slice-architecture-in-net-from-n-tier-layers-to-feature-slices-4iha)
+- [The Art, the Politics, and the Final Truth of Software Development](https://dev.to/copyleftdev/the-art-the-politics-and-the-final-truth-of-software-development-5bee)
+- [Coding Challenge Practice - Question 65](https://dev.to/tomivan/coding-challenge-practice-question-65-4o4b)
+- [Freelancing Reimagined: Total Autonomy with Massa Smart Contracts](https://dev.to/kirodotdev/freelancing-reimagined-total-autonomy-with-massa-smart-contracts-2c3l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
