@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The hidden pitfalls of building online marketplaces](https://dev.to/egledigital/the-hidden-pitfalls-of-building-online-marketplaces-c2)
-- [Testing Reinvented: Why Test Coverage Is the Wrong Metric](https://dev.to/cleberdelima/testing-reinvented-why-test-coverage-is-the-wrong-metric-31l3)
-- [Angular - Custom MatPaginator Styling](https://dev.to/this-is-angular/angular-custom-matpaginator-styling-en6)
-- [The saltiest and wrongest article about Big O ever](https://dev.to/klauskpm/the-saltiest-and-wrongest-article-about-big-o-ever-1blm)
-- [Por qué ETH sigue siendo el favorito de los desarrolladores en 2025 &lpar;y por qué integrarlo ahora es más fácil que nunca&rpar;](https://dev.to/paddy_e4d3d274ebc7/por-que-eth-sigue-siendo-el-favorito-de-los-desarrolladores-en-2025-y-por-que-integrarlo-ahora-es-1m59)
+- [AI Infrastructure Cloud Setup: Practical Choices That Actually Scale](https://dev.to/mashraf_aiman_b9a968e5c1d/ai-infrastructure-cloud-setup-practical-choices-that-actually-scale-5god)
+- [Trinity Protocol is Live: The Technical Deep-Dive Into Real Multi-Chain Consensus](https://dev.to/chronosvault/trinity-protocol-is-live-the-technical-deep-dive-into-real-multi-chain-consensus-1bea)
+- [Built an interactive tech radar tool](https://dev.to/joe_leeson_fb93f7c693879f/built-an-interactive-tech-radar-tool-pl5)
+- [You Have No Idea How Screwed OpenAI Is](https://dev.to/mashraf_aiman_b9a968e5c1d/you-have-no-idea-how-screwed-openai-is-26eb)
+- [Why Your React Skills Alone Won&#39;t Master React Native](https://dev.to/mashraf_aiman_b9a968e5c1d/why-your-react-skills-alone-wont-master-react-native-4459)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
