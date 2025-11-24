@@ -122,9 +122,9 @@ Python                   1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [First-order Functional Weight Space](https://dev.to/suign/first-order-functional-weight-space-3j7b)
 - [Building a CRISPR/Prime Editing Planner with Next.js + FastAPI](https://dev.to/omniscoder/building-a-crisprprime-editing-planner-with-nextjs-fastapi-458b)
-- [StaLang Lesson No 1 Data Types](https://dev.to/japroger/stalang-lesson-no-1-data-types-4ofp)
 - [How to Connect PostgreSQL to Power BI using Local PostgreSQL.](https://dev.to/maina_meghan/how-to-connect-postgresql-to-power-bi-using-local-postgresql-27j4)
 - [🚀Deploy a Python Flask App on AWS Elastic Container Service with Fargate Using OpenTofu + Docker + Trivy + ALB](https://dev.to/latchudevops/deploy-a-python-flask-app-on-aws-elastic-container-service-with-fargate-using-opentofu-docker--5d21)
+- [10 GA4 Custom Reports That Actually Answer Your Questions &lpar;Not Google&#39;s&rpar;](https://dev.to/synergistdigitalmedia/10-ga4-custom-reports-that-actually-answer-your-questions-not-googles-5hdj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
