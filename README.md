@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [👻 Building the Haunted Energy Dashboard: A Technical Deep Dive into a Cyber-Goth Smart Home System](https://dev.to/vansh_e37509a5a0855a947a4/building-the-haunted-energy-dashboard-a-technical-deep-dive-into-a-cyber-goth-smart-home-system-1dp1)
-- [IRP: The Semantic Model That Fixes AI-Native API Chaos](https://dev.to/bnggbn/irp-the-semantic-model-that-fixes-ai-native-api-chaos-5e8e)
-- [Why Health Apps Struggle With Wearable Integrations &lpar;And How to Fix It&rpar;](https://dev.to/momentumai/why-health-apps-struggle-with-wearable-integrations-and-how-to-fix-it-5l2)
-- [Top C MCQs Every Student Must Master Before Interviews](https://dev.to/rukmini_santoshi_eaaa4274/top-c-mcqs-every-student-must-master-before-interviews-4jlo)
-- [Killing the Chaos – How LaravelUi5 Makes Backends and Frontends Speak the Same Language](https://dev.to/mgerzabek/killing-the-chaos-how-laravelui5-makes-backends-and-frontends-speak-the-same-language-1k0m)
+- [Meetily vs Otter.ai: Privacy-First Alternative for 2025](https://dev.to/zackriya/meetily-vs-otterai-privacy-first-alternative-for-2025-31j)
+- [Ringer Movies: Best Picture Power Rankings &amp; the Super-Sincerity of ‘Sentimental Value&#39;](https://dev.to/popcorn_movies/ringer-movies-best-picture-power-rankings-the-super-sincerity-of-sentimental-value-4o8o)
+- [What are your goals for the week? #154](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-154-3651)
+- [Recipe Step Normalizer — turn steps into JSON](https://dev.to/felixships/recipe-step-normalizer-turn-steps-into-json-2bbp)
+- [Dell No Bootable Device: Why 73% of Repair Shop Diagnoses Are Wrong [9289]](https://dev.to/bryan_collins_abcd0214d94/dell-no-bootable-device-why-73-of-repair-shop-diagnoses-are-wrong-9289-34oo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
