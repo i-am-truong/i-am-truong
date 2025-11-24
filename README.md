@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Training a model to predict a persuasion score for documents, but hitting a wall](https://dev.to/howard_shaw_3c36a3a6cb900/training-a-model-to-predict-a-persuasion-score-for-documents-but-hitting-a-wall-1anm)
-- [I built a custom range slider for Retool with a histogram built in](https://dev.to/ghofrane_baaziz_aea1d4056/i-built-a-custom-range-slider-for-retool-with-a-histogram-built-in-5491)
-- [Meme Monday](https://dev.to/ben/meme-monday-1ec3)
-- [Neovim x Unreal Engine: Zero-Config Debugging &amp; A Dedicated Explorer 🚀](https://dev.to/taku25/neovim-x-unreal-engine-zero-config-debugging-a-dedicated-explorer-1a38)
-- [What is Digital Transformation Consulting?](https://dev.to/phaedrasolutions/what-is-digital-transformation-consulting-22kf)
+- [👻 Building the Haunted Energy Dashboard: A Technical Deep Dive into a Cyber-Goth Smart Home System](https://dev.to/vansh_e37509a5a0855a947a4/building-the-haunted-energy-dashboard-a-technical-deep-dive-into-a-cyber-goth-smart-home-system-1dp1)
+- [IRP: The Semantic Model That Fixes AI-Native API Chaos](https://dev.to/bnggbn/irp-the-semantic-model-that-fixes-ai-native-api-chaos-5e8e)
+- [Why Health Apps Struggle With Wearable Integrations &lpar;And How to Fix It&rpar;](https://dev.to/momentumai/why-health-apps-struggle-with-wearable-integrations-and-how-to-fix-it-5l2)
+- [Top C MCQs Every Student Must Master Before Interviews](https://dev.to/rukmini_santoshi_eaaa4274/top-c-mcqs-every-student-must-master-before-interviews-4jlo)
+- [Killing the Chaos – How LaravelUi5 Makes Backends and Frontends Speak the Same Language](https://dev.to/mgerzabek/killing-the-chaos-how-laravelui5-makes-backends-and-frontends-speak-the-same-language-1k0m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
