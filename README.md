@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Inheritance vs Composition: The Principle of Independent Variation Explains Why](https://dev.to/yannick555/inheritance-vs-composition-the-principle-of-independent-variation-explains-why-4fml)
-- [Inheritance vs Composition: The Principle of Independent Variation Explains Why](https://dev.to/yannick555/inheritance-vs-composition-the-principle-of-independent-variation-explains-why-2fb0)
-- [Turn Tweets Into Beautiful Images With &lt;25 Lines of Code - A Practical Guide](https://dev.to/amna_anjum_2f911c0a1a4640/turn-tweets-into-beautiful-images-with-5-lines-of-code-a-practical-guide-mb4)
-- [Drawing Triangles with CSS Using Borders… an Exception](https://dev.to/alvaromontoro/drawing-triangles-with-css-using-borders-an-exception-3518)
-- [10 idées de projets Web3 que les développeurs peuvent créer en 2025 pour améliorer leurs compétences et attirer des clients](https://dev.to/carlvilla/10-idees-de-projets-web3-que-les-developpeurs-peuvent-creer-en-2025-pour-ameliorer-leurs-30f0)
+- [Yaml is King change my mind, please!](https://dev.to/mvaldes/yaml-is-king-change-my-mind-please-1ibg)
+- [ROFL Introduces Native Frontend Hosting: Confidential Apps Can Finally Go Full-Stack](https://dev.to/caerlower/rofl-introduces-native-frontend-hosting-confidential-apps-can-finally-go-full-stack-c89)
+- [Dart - instalación y configuración en Ubuntu](https://dev.to/oscarpincho/dart-instalacion-y-configuracion-en-ubuntu-29kk)
+- [GitSecOps: Why Compliance Only Works When Teams Can Prove What They Deliver — Not Just Promise It](https://dev.to/manuel_engelhardt_e793c88/gitsecops-why-compliance-only-works-when-teams-can-prove-what-they-deliver-not-just-promise-it-22pf)
+- [GitSecOps: Why Compliance Only Works When Teams Can Prove What They Deliver — Not Just Promise It](https://dev.to/manuel_engelhardt_e793c88/gitsecops-why-compliance-only-works-when-teams-can-prove-what-they-deliver-not-just-promise-it-42hp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
