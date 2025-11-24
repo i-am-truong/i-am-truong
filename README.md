@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started With Python Poetry](https://dev.to/mehmetalitilgen/getting-started-with-python-poetry-29bj)
+- [Who’s the most influential person in your creative or programming journey?](https://dev.to/gorky_demircn_940064e42e9/whos-the-most-influential-person-in-your-creative-or-programming-journey-4ih5)
 - [Looking for simple tools to build a personal static site for notes](https://dev.to/md8_habibullah/looking-for-simple-tools-to-build-a-personal-static-site-for-notes-30g)
 - [Installing CVAT on Fedora - Quick Guide](https://dev.to/ankk98/installing-cvat-on-fedora-quick-guide-430o)
 - [Pulumi - DNS in AWS](https://dev.to/codecowboydotio/pulumi-dns-in-aws-450f)
-- [Stop Learning Frameworks. Seriously](https://dev.to/sahil_sahu/stop-learning-frameworks-seriously-1h7e)
-- [The Gradle Mystery - When Your Code Works... Until It Doesn&#39;t 🕵️](https://dev.to/kiran_ravi_092a2cfcf60389/the-gradle-mystery-when-your-code-works-until-it-doesnt-2n9d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
