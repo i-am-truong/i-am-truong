@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Code to Coffee: How Using Crypto in Daily Life Changed My Workflow &lpar;and What I Learned About On/Off Ramps&rpar; ☕️💸](https://dev.to/tanelith/from-code-to-coffee-how-using-crypto-in-daily-life-changed-my-workflow-and-what-i-learned-about-4k2p)
-- [Dev.to Tag Hacking](https://dev.to/wyattdave/devto-tag-hacking-2ogf)
-- [Why SaaS Companies Are Prioritizing Strategic SEO Over Pure Content Volume](https://dev.to/dennis_santos_fdc46978eb4/why-saas-companies-are-prioritizing-strategic-seo-over-pure-content-volume-39ip)
-- [Digital Certificates: Anatomy, Lifecycle, and Best Practices](https://dev.to/dcs-soni/digital-certificates-anatomy-lifecycle-and-best-practices-1ii1)
-- [Building a Real DevOps Project from Scratch: A Beginner-Friendly Walkthrough](https://dev.to/bharath_018/building-a-real-devops-project-from-scratch-a-beginner-friendly-walkthrough-2c2j)
+- [The Future of Web Development: What Skills Will Matter Most](https://dev.to/sia_negi21/the-future-of-web-development-what-skills-will-matter-most-4045)
+- [recent thoughts about gen-ai](https://dev.to/forbit/recent-thoughts-about-gen-ai-57hj)
+- [Building fast in Angular with Zard UI, Tailwind CSS and Signals](https://dev.to/hassantayyab/building-fast-in-angular-with-zard-ui-tailwind-css-and-signals-cj5)
+- [LLM Code Map: Visualize TypeScript/JavaScript Dependencies &amp; Empower AI Agents](https://dev.to/mk668a/llm-code-map-visualize-typescriptjavascript-dependencies-empower-ai-agents-4bng)
+- [Unlock Better AI Outputs with These 3 Prompt Engineering Secrets](https://dev.to/pritish_academy/unlock-better-ai-outputs-with-these-3-prompt-engineering-secrets-29ka)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
