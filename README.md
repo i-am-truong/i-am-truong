@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [N8N Code Node Best Practices for Python &lpar;+Task Runner Examples&rpar;](https://dev.to/yigit-konur/n8n-code-node-best-practices-for-python-task-runner-examples-k2g)
-- [Cursor’s Secret Rules &lpar;and the Folder You Need to Understand&rpar;](https://dev.to/maheshkale/cursors-secret-rules-and-the-folder-you-need-to-understand-ai4)
-- [How I Built a Pseudocode Runner &lpar;With Zero Coding Experience&rpar; Using Compyle’s Tools](https://dev.to/idrees_qazi_9a5251741d4fe/how-i-built-a-pseudocode-runner-with-zero-coding-experience-using-compyles-tools-4da3)
-- [How to Prevent Backup-related Throttling Without Losing Data &lpar;or Mind&rpar;](https://dev.to/gitprotect/how-to-prevent-backup-related-throttling-without-losing-data-or-mind-3k4k)
-- [Working with Hibernate in Java - Part 1: Using xml config](https://dev.to/mayyaannkk/working-with-hibernate-in-java-part-1-using-xml-config-44f9)
+- [How to Automate Vulnerability Scans with Trivy](https://dev.to/addwebsolutionpvtltd/how-to-automate-vulnerability-scans-with-trivy-3b14)
+- [Back to Unity baby!](https://dev.to/rapidsingularity/back-to-unity-baby-3h7o)
+- [Best Blockchain Networks to Build Secure DeFi Wallets in 2025](https://dev.to/alyasmith0/best-blockchain-networks-to-build-secure-defi-wallets-in-2025-im)
+- [How streaming platforms engineered their own piracy problem: a data story](https://dev.to/ronnie_pye_/how-streaming-platforms-engineered-their-own-piracy-problem-a-data-story-4mkl)
+- [HTML 5](https://dev.to/priya_k_9427a2e692abd3ddb/html-5-4dpk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
