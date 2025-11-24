@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Heap Overflow &amp; Use After Free](https://dev.to/prasunchakra/understanding-heap-overflow-use-after-free-31m3)
+- [Não ter leak de memória é bem fácil, na real](https://dev.to/andorei/nao-ter-leak-de-memoria-e-bem-facil-na-real-dim)
 - [AI Infrastructure Cloud Setup: Practical Choices That Actually Scale](https://dev.to/mashraf_aiman_b9a968e5c1d/ai-infrastructure-cloud-setup-practical-choices-that-actually-scale-5god)
 - [Trinity Protocol is Live: The Technical Deep-Dive Into Real Multi-Chain Consensus](https://dev.to/chronosvault/trinity-protocol-is-live-the-technical-deep-dive-into-real-multi-chain-consensus-1bea)
 - [Built an interactive tech radar tool](https://dev.to/joe_leeson_fb93f7c693879f/built-an-interactive-tech-radar-tool-pl5)
-- [You Have No Idea How Screwed OpenAI Is](https://dev.to/mashraf_aiman_b9a968e5c1d/you-have-no-idea-how-screwed-openai-is-26eb)
-- [Why Your React Skills Alone Won&#39;t Master React Native](https://dev.to/mashraf_aiman_b9a968e5c1d/why-your-react-skills-alone-wont-master-react-native-4459)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
