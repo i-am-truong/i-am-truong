@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Would a self-hosting app store grow or ruin self-hosting?](https://dev.to/drebora/would-a-self-hosting-app-store-grow-or-ruin-self-hosting-1m8p)
+- [5 Tools You Should Try Now🧙‍♂️🫵](https://dev.to/dev_kiran/5-tools-you-should-try-now-212j)
+- [Components structure in Umami codebase — Part 1.0](https://dev.to/ramunarasinga-11/components-structure-in-umami-codebase-part-10-5905)
+- [Day 1/30: The Foundation – Why Terraform?](https://dev.to/gokulprasath_n_42438fd633/day-130-the-foundation-why-terraform-3d4i)
 - [Mastering SQL: Revisiting the Basics](https://dev.to/ch-kartik/mastering-sql-revisiting-the-basics-43ci)
-- [Tutorial: Packaging Operations Runbooks with Puppet Edge Workflows](https://dev.to/jasonstcyr/tutorial-packaging-operations-runbooks-with-puppet-edge-workflows-16jp)
-- [I built an AI agent that ships full-stack apps from a prompt &lpar;Not just code — real running Next.js apps&rpar;](https://dev.to/saathwik/i-built-an-ai-agent-that-ships-full-stack-apps-from-a-prompt-not-just-code-real-running-nextjs-4gbf)
-- [🎉 I Just Launched AnimTheme A Marketplace for Web Animations](https://dev.to/anim_theme_a5314fe2e0c287/i-just-launched-animtheme-a-marketplace-for-web-animations-160f)
-- [Controlling Kubernetes Network Traffic - Part 2](https://dev.to/aws-builders/controlling-kubernetes-network-traffic-part-2-lni)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
