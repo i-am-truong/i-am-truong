@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AltSchool Of Engineering Tinyuka’24 Month 9 Week 4](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-9-week-4-2pd8)
+- [Common LINQ Methods with Examples in .NET Core](https://dev.to/sapanapal6/common-linq-methods-with-examples-in-net-core-2m2p)
+- [The Practical Guide to Optimizing @font-face](https://dev.to/danilo1/the-practical-guide-to-optimizing-font-face-3cgd)
+- [The Map of Modern APIs: REST, GraphQL, RPC, Serverless &amp; Webhooks](https://dev.to/itsugo/the-map-of-modern-apis-rest-graphql-rpc-serverless-webhooks-38o5)
 - [DDD CRUD-Like Repository](https://dev.to/g-fuchter/ddd-crud-like-repository-1a9i)
-- [Cuidado para não virar apenas &quot;mais um sênior&quot;](https://dev.to/andersoncontreira/cuidado-para-nao-virar-apenas-mais-um-senior-2of9)
-- [Auth0 for AI Agents is now generally available!](https://dev.to/auth0/auth0-for-ai-agents-is-now-generally-available-29el)
-- [x402: A Web-Native Payment Protocol for Micropayments and Autonomous Agents](https://dev.to/caerlower/x402-a-web-native-payment-protocol-for-micropayments-and-autonomous-agents-1g39)
-- [Debugging with AI: A Pratical Approach for Modern Developers](https://dev.to/walteralleyz/debugging-with-ai-a-pratical-approach-for-modern-developers-3hb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
