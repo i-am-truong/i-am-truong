@@ -124,7 +124,7 @@ Python                   1 repo              █░░░░░░░░░░�
 - [Day F6: When Things Actually Work Out &lpar;Sort Of&rpar;](https://dev.to/casperday11/day-f6-when-things-actually-work-out-sort-of-2llg)
 - [I Built a Chrome Extension to Extract YouTube Transcripts in Bulk](https://dev.to/mohduwaish59/i-built-a-chrome-extension-to-extract-youtube-transcripts-in-bulk-and-its-been-a-game-changer-59g9)
 - [Rejection: The Gateway to Growth](https://dev.to/gamepill/rejection-the-gateway-to-growth-1imc)
-- [Breakthroughs are just boring improvements that pile up](https://dev.to/allenheltondev/breakthroughs-are-just-boring-improvements-that-pile-up-299h)
+- [Building My Crypto Research Watchlist &lpar;Beginner Full-Stack Project&rpar;](https://dev.to/iixpreyliet/building-my-crypto-research-watchlist-beginner-full-stack-project-o2d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
