@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [FAQ-driven development 😃 - or new old way to write docs / rules / prompts](https://dev.to/arenukvern/faq-driven-development-or-new-old-way-to-write-docs-rules-prompts-25jl)
+- [Day F6: When Things Actually Work Out &lpar;Sort Of&rpar;](https://dev.to/casperday11/day-f6-when-things-actually-work-out-sort-of-2llg)
+- [I Built a Chrome Extension to Extract YouTube Transcripts in Bulk](https://dev.to/mohduwaish59/i-built-a-chrome-extension-to-extract-youtube-transcripts-in-bulk-and-its-been-a-game-changer-59g9)
+- [Rejection: The Gateway to Growth](https://dev.to/gamepill/rejection-the-gateway-to-growth-1imc)
 - [Breakthroughs are just boring improvements that pile up](https://dev.to/allenheltondev/breakthroughs-are-just-boring-improvements-that-pile-up-299h)
-- [Apache Dev List Digest: Iceberg, Polaris, Arrow &amp; Parquet &lpar;Nov 18–24, 2025&rpar;](https://dev.to/alexmercedcoder/apache-dev-list-digest-iceberg-polaris-arrow-parquet-nov-18-24-2025-4dco)
-- [How to build a good container platform](https://dev.to/kubeden/how-to-build-a-good-container-platform-gk7)
-- [“Best Automated Code Review Tools for Enterprise Software Teams”](https://dev.to/uss/best-automated-code-review-tools-for-enterprise-software-teams-549f)
-- [On Engineers Having to Do Emotional Labor](https://dev.to/stakiran/on-engineers-having-to-do-emotional-labor-5d59)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
