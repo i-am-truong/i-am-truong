@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Have you ever run Robocopy on Linux?](https://dev.to/ossan/have-you-ever-run-robocopy-on-linux-22an)
-- [The Quiet Threat of AI “Undress” Apps](https://dev.to/madsendev/the-quiet-threat-of-ai-undress-apps-4ij9)
-- [Top 12 Puppet Alternatives for Automation](https://dev.to/spacelift/top-12-puppet-alternatives-for-automation-767)
-- [What I Learned From Reviewing a Complete Diabetes Prediction Machine Learning Project](https://dev.to/techkene/what-i-learned-from-reviewing-a-complete-diabetes-prediction-machine-learning-project-2dc4)
-- [Building Voyage Planner – Modern Travel Booking Website](https://dev.to/senzy01/building-voyage-planner-modern-travel-booking-website-5do8)
+- [Building a Real DevOps Project from Scratch: A Beginner-Friendly Walkthrough](https://dev.to/bharath_018/building-a-real-devops-project-from-scratch-a-beginner-friendly-walkthrough-2c2j)
+- [How I &quot;Vibe Coded&quot; a Secure AI Finance App &lpar;Without Writing the Boilerplate&rpar;](https://dev.to/swofski/how-i-vibe-coded-a-secure-ai-finance-app-without-writing-the-boilerplate-43fj)
+- [Build Your First LangGraph Agent](https://dev.to/richard_abishai/build-your-first-langgraph-agent-481p)
+- [Reflecting 2025 and Predicting 2026 Quoting DEV Post Titles](https://dev.to/ingosteinke/reflecting-2025-and-predicting-2026-quoting-dev-post-titles-6e1)
+- [Agents that ship: Breakdown of the 3-part architecture that survived real-world chaos](https://dev.to/abhigk/agents-that-ship-breakdown-of-the-3-part-architecture-that-survived-real-world-chaos-2679)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
