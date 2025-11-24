@@ -120,11 +120,14 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A 2009 IBM Patent That Solved Indoor Location Without GPS — And Got Cited 64 Times by Cisco, Microsoft, Avaya…](https://dev.to/sagar_joshi_31ac4ef39367a/a-2009-ibm-patent-that-solved-indoor-location-without-gps-and-got-cited-64-times-by-cisco-3pnn)
+- [AI-Assisted Engineering: A Senior Developer’s Framework for Speed, Quality, and Sound Technical Judgment](https://dev.to/ojsholly/ai-assisted-engineering-a-senior-developers-framework-for-speed-quality-and-sound-technical-15nh)
+- [🚀 Hello everyone
+I’ve recently launched our new website moradabads.com, where we focus on DSA, JavaScript output-based questions, articles, an online code compiler, and much more.
+
+I would really appreciate it if you could visit the website and share](https://dev.to/sumit_kumar_9fbda517e6961/hello-everyone-ive-recently-launched-our-new-website-moradabadscom-where-we-focus-on-dsa-4kbb)
+- [Packaging my Open Source Project - Release 1.0.0](https://dev.to/denisc96/packaging-my-open-source-project-release-100-5h7e)
 - [Solving React&#39;s &quot;Zombie Children,&quot; Tearing, and Context Loss with Zustand](https://dev.to/chaudharidevam/solving-reacts-zombie-children-tearing-and-context-loss-with-zustand-5d04)
-- [Errloom- Platform to Practice Debugging Real Production Outages &lpar;and It&#39;s Open Source&rpar;](https://dev.to/om_patel_4f179a05b0edc19a/errloom-platform-to-practice-debugging-real-production-outages-and-its-open-source-4al1)
-- [Built a less‑filtered LLM chat &amp; API](https://dev.to/help_abliteration_81e11b5/built-a-less-filtered-llm-chat-api-47f1)
-- [Affiliate Marketing for Developers: How to Make Money Promoting Tools You Love](https://dev.to/softwaredeveloperhub01/affiliate-marketing-for-developers-how-to-make-money-promoting-tools-you-love-1g08)
-- [Prompt Optimization for AI Builder: Lessons from TOON vs Text](https://dev.to/balagmadhu/prompt-optimization-for-ai-builder-lessons-from-toon-vs-text-2eol)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
