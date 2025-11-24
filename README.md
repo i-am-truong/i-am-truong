@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Yaml is King change my mind, please!](https://dev.to/mvaldes/yaml-is-king-change-my-mind-please-1ibg)
-- [ROFL Introduces Native Frontend Hosting: Confidential Apps Can Finally Go Full-Stack](https://dev.to/caerlower/rofl-introduces-native-frontend-hosting-confidential-apps-can-finally-go-full-stack-c89)
-- [Dart - instalación y configuración en Ubuntu](https://dev.to/oscarpincho/dart-instalacion-y-configuracion-en-ubuntu-29kk)
-- [GitSecOps: Why Compliance Only Works When Teams Can Prove What They Deliver — Not Just Promise It](https://dev.to/manuel_engelhardt_e793c88/gitsecops-why-compliance-only-works-when-teams-can-prove-what-they-deliver-not-just-promise-it-22pf)
-- [GitSecOps: Why Compliance Only Works When Teams Can Prove What They Deliver — Not Just Promise It](https://dev.to/manuel_engelhardt_e793c88/gitsecops-why-compliance-only-works-when-teams-can-prove-what-they-deliver-not-just-promise-it-42hp)
+- [DDD CRUD-Like Repository](https://dev.to/g-fuchter/ddd-crud-like-repository-1a9i)
+- [Cuidado para não virar apenas &quot;mais um sênior&quot;](https://dev.to/andersoncontreira/cuidado-para-nao-virar-apenas-mais-um-senior-2of9)
+- [Auth0 for AI Agents is now generally available!](https://dev.to/auth0/auth0-for-ai-agents-is-now-generally-available-29el)
+- [x402: A Web-Native Payment Protocol for Micropayments and Autonomous Agents](https://dev.to/caerlower/x402-a-web-native-payment-protocol-for-micropayments-and-autonomous-agents-1g39)
+- [Debugging with AI: A Pratical Approach for Modern Developers](https://dev.to/walteralleyz/debugging-with-ai-a-pratical-approach-for-modern-developers-3hb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
