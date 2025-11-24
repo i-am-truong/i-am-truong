@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Ace: How a 13-Year-Old Founder Is Using AI to Reimagine Study Tools](https://dev.to/nikitav/building-ace-how-a-13-year-old-founder-is-using-ai-to-reimagine-study-tools-2elf)
 - [Lambda&#39;s in Kotlin](https://dev.to/machinehead/lambdas-in-kotlin-kl9)
 - [I Built Antigravity AI Directory After Struggling With Agentic AI Prompts &lpar;Here&#39;s What I Learned&rpar;](https://dev.to/chandan_karn_fb750e731394/i-built-antigravity-ai-directory-after-struggling-with-agentic-ai-prompts-heres-what-i-learned-1kio)
 - [How I Integrated Google Gemini for 11 AI Features in My News App](https://dev.to/padma9647/how-i-integrated-google-gemini-for-11-ai-features-in-my-news-app-104a)
 - [Launching your RAG system on AWS: CloudFront, Lambda, Bedrock &amp; S3 Vectors](https://dev.to/sergioestebance/launching-your-rag-system-on-aws-cloudfront-lambda-bedrock-s3-vectors-pk)
-- [The Days I Tried to Start Over in a Less Demanding Way](https://dev.to/lena-hart/the-days-i-tried-to-start-over-in-a-less-demanding-way-4jc9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
