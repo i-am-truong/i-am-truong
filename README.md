@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why everyone fails at the California Housing dataset the same way&lpar;6 brutal reasons&rpar;](https://dev.to/mohammadreza_mahdian_3841/why-everyone-fails-at-the-california-housing-dataset-the-same-way6-brutal-reasons-4c0g)
+- [SNK WELLNESS CENTER - Uno Platform AI Challenge Entry](https://dev.to/vonyange_2036/snk-wellness-center-uno-platform-ai-challenge-entry-2k01)
+- [Kicking Off the Big Picture: World Cup 2026 Analysis](https://dev.to/mabualzait/kicking-off-the-big-picture-world-cup-2026-analysis-2255)
 - [FAQ-driven development 😃 - or new old way to write docs / rules / prompts](https://dev.to/arenukvern/faq-driven-development-or-new-old-way-to-write-docs-rules-prompts-25jl)
-- [Day F6: When Things Actually Work Out &lpar;Sort Of&rpar;](https://dev.to/casperday11/day-f6-when-things-actually-work-out-sort-of-2llg)
-- [I Built a Chrome Extension to Extract YouTube Transcripts in Bulk](https://dev.to/mohduwaish59/i-built-a-chrome-extension-to-extract-youtube-transcripts-in-bulk-and-its-been-a-game-changer-59g9)
-- [Rejection: The Gateway to Growth](https://dev.to/gamepill/rejection-the-gateway-to-growth-1imc)
-- [Building My Crypto Research Watchlist &lpar;Beginner Full-Stack Project&rpar;](https://dev.to/iixpreyliet/building-my-crypto-research-watchlist-beginner-full-stack-project-o2d)
+- [If you’re exploring Job Interview AI, you’ll notice how quickly it’s becoming a core part of the modern hiring experience. It’s not just companies automating screenings — candidates are now using AI to stay calm, structured, and confident during interview](https://dev.to/jeenifer_beezer/if-youre-exploring-job-interview-ai-youll-notice-how-quickly-its-becoming-a-core-part-of-the-4l2d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
