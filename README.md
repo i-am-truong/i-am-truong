@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I do not agree with Ben Lesh on his Medium article &#39;Regret Rxjs&#39;](https://dev.to/hansschenker/i-do-not-agree-with-ben-lesh-on-his-medium-article-regret-rxjs-2ig2)
-- [Declarative Identity and Emergent Semantic Spaces &lpar;Tech Spec&rpar;](https://dev.to/suign/declarative-identity-and-emergent-semantic-spaces-tech-spec-hml)
-- [The Mathematical Kernel of Model-Driven Architecture: The Y = F&lpar;X&rpar; Delta Invariant Unifying Generation and Evolution](https://dev.to/canonical/the-mathematical-kernel-of-model-driven-architecture-the-y-fx-delta-invariant-unifying-446f)
-- [Why Your HTML Layout Breaks — And How to Fix It &lpar;A Practical Guide&rpar;](https://dev.to/itsmybot/why-your-html-layout-breaks-and-how-to-fix-it-a-practical-guide-1pk9)
-- [First-order Functional Weight Space](https://dev.to/suign/first-order-functional-weight-space-3j7b)
+- [Prompt Optimization for AI Builder: Lessons from TOON vs Text](https://dev.to/balagmadhu/prompt-optimization-for-ai-builder-lessons-from-toon-vs-text-2eol)
+- [Savvy HRMS: Best Attendance Management Software India](https://dev.to/savvy_10d6d471cbd5155238a/savvy-hrms-best-attendance-management-software-india-5fi6)
+- [Metaprogramming in Low-Code Platforms](https://dev.to/canonical/metaprogramming-in-low-code-platforms-4b0h)
+- [NFT Development Company: Building the Next Digital Ownership Economy](https://dev.to/infograins_softwaresolut/nft-development-company-building-the-next-digital-ownership-economy-4874)
+- [XDSL: General-Purpose Domain-Specific Language Design](https://dev.to/canonical/xdsl-general-purpose-domain-specific-language-design-35g6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
