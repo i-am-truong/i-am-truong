@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Would a self-hosting app store grow or ruin self-hosting?](https://dev.to/drebora/would-a-self-hosting-app-store-grow-or-ruin-self-hosting-1m8p)
-- [5 Tools You Should Try Now🧙‍♂️🫵](https://dev.to/dev_kiran/5-tools-you-should-try-now-212j)
-- [Components structure in Umami codebase — Part 1.0](https://dev.to/ramunarasinga-11/components-structure-in-umami-codebase-part-10-5905)
-- [Day 1/30: The Foundation – Why Terraform?](https://dev.to/gokulprasath_n_42438fd633/day-130-the-foundation-why-terraform-3d4i)
-- [Mastering SQL: Revisiting the Basics](https://dev.to/ch-kartik/mastering-sql-revisiting-the-basics-43ci)
+- [Inheritance vs Composition: The Principle of Independent Variation Explains Why](https://dev.to/yannick555/inheritance-vs-composition-the-principle-of-independent-variation-explains-why-4fml)
+- [Inheritance vs Composition: The Principle of Independent Variation Explains Why](https://dev.to/yannick555/inheritance-vs-composition-the-principle-of-independent-variation-explains-why-2fb0)
+- [Turn Tweets Into Beautiful Images With &lt;25 Lines of Code - A Practical Guide](https://dev.to/amna_anjum_2f911c0a1a4640/turn-tweets-into-beautiful-images-with-5-lines-of-code-a-practical-guide-mb4)
+- [Drawing Triangles with CSS Using Borders… an Exception](https://dev.to/alvaromontoro/drawing-triangles-with-css-using-borders-an-exception-3518)
+- [10 idées de projets Web3 que les développeurs peuvent créer en 2025 pour améliorer leurs compétences et attirer des clients](https://dev.to/carlvilla/10-idees-de-projets-web3-que-les-developpeurs-peuvent-creer-en-2025-pour-ameliorer-leurs-30f0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
