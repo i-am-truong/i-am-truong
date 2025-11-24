@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Check the Number of Lines Changed in Your Current Git Branch Compared to Main](https://dev.to/shawon/how-to-check-the-number-of-lines-changed-in-your-current-git-branch-compared-to-main-3m6m)
-- [How to Automate Vulnerability Scans with Trivy](https://dev.to/addwebsolutionpvtltd/how-to-automate-vulnerability-scans-with-trivy-3b14)
-- [Back to Unity baby!](https://dev.to/simonjnorman/back-to-unity-baby-3h7o)
-- [Best Blockchain Networks to Build Secure DeFi Wallets in 2025](https://dev.to/alyasmith0/best-blockchain-networks-to-build-secure-defi-wallets-in-2025-im)
-- [How streaming platforms engineered their own piracy problem: a data story](https://dev.to/ronnie_pye_/how-streaming-platforms-engineered-their-own-piracy-problem-a-data-story-4mkl)
+- [I built a Lisp VM in Rust that proves its own execution trace &lpar;STARKs + Winterfell&rpar;](https://dev.to/yoozzeek/i-built-a-lisp-vm-in-rust-that-proves-its-own-execution-trace-starks-winterfell-4fi)
+- [EXPERIENCE: ZED CODE EDITOR](https://dev.to/kartik_patel/experience-zed-code-editor-2fb2)
+- [Razor Pages vs MVC: Quando escolher e por quê](https://dev.to/gustavo_viegas/razor-pages-vs-mvc-quando-escolher-e-por-que-2nie)
+- [Use Fork Git Client to Remove Passwords from Git History](https://dev.to/jjrawlins/use-fork-git-client-to-remove-passwords-from-git-history-3in)
+- [The 5 Most Common Data Quality Issues &lpar;and How Analysts Can Fix Them&rpar;](https://dev.to/pauletart/the-5-most-common-data-quality-issues-and-how-analysts-can-fix-them-3c7p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
