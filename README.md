@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Real-Time Data Lake on AWS: S3, Glue, and Athena in Production](https://dev.to/aws-builders/building-a-real-time-data-lake-on-aws-s3-glue-and-athena-in-production-4g0b)
-- [WordPress Themes Discount Trends in 2026 — An Informational Breakdown for Web Developers](https://dev.to/themexriver/wordpress-themes-discount-trends-in-2026-an-informational-breakdown-for-web-developers-1ff8)
-- [Building a Reactive Login Form with Angular Signal Forms](https://dev.to/nhannguyenuri/building-a-reactive-login-form-with-angular-signal-forms-1b55)
-- [Echo: The Buddy in the Machine](https://dev.to/vaticnz/echo-the-buddy-in-the-machine-3of3)
-- [nice](https://dev.to/daithinhle/nice-21ap)
+- [First-order Functional Weight Space](https://dev.to/suign/first-order-functional-weight-space-3j7b)
+- [Building a CRISPR/Prime Editing Planner with Next.js + FastAPI](https://dev.to/omniscoder/building-a-crisprprime-editing-planner-with-nextjs-fastapi-458b)
+- [StaLang Lesson No 1 Data Types](https://dev.to/japroger/stalang-lesson-no-1-data-types-4ofp)
+- [How to Connect PostgreSQL to Power BI using Local PostgreSQL.](https://dev.to/maina_meghan/how-to-connect-postgresql-to-power-bi-using-local-postgresql-27j4)
+- [🚀Deploy a Python Flask App on AWS Elastic Container Service with Fargate Using OpenTofu + Docker + Trivy + ALB](https://dev.to/latchudevops/deploy-a-python-flask-app-on-aws-elastic-container-service-with-fargate-using-opentofu-docker--5d21)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
