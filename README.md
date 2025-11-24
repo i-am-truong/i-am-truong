@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Long Way Home: How We Left the Server, Built a Client Empire, and Came Back Again](https://dev.to/elmay/the-long-way-home-how-we-left-the-server-built-a-client-empire-and-came-back-again-18ng)
+- [How to Connect PostgreSQL to Power BI Using Local PostgreSQL and Aiven](https://dev.to/beatrice_njagi/how-to-connect-postgresql-to-power-bi-using-local-postgresql-and-aiven-1k5m)
+- [Browser Dev Tools for Mobile!](https://dev.to/shahriarkabir44/browser-dev-tools-for-mobile-3nc8)
+- [My latest project -Building “Snackee” — A Custom Snack Brand Experience.](https://dev.to/sahilrana/my-latest-project-building-snackee-a-custom-snack-brand-experience-3c9f)
 - [Understanding Heap Overflow &amp; Use After Free](https://dev.to/prasunchakra/understanding-heap-overflow-use-after-free-31m3)
-- [Não ter leak de memória é bem fácil, na real](https://dev.to/andorei/nao-ter-leak-de-memoria-e-bem-facil-na-real-dim)
-- [AI Infrastructure Cloud Setup: Practical Choices That Actually Scale](https://dev.to/mashraf_aiman_b9a968e5c1d/ai-infrastructure-cloud-setup-practical-choices-that-actually-scale-5god)
-- [Trinity Protocol is Live: The Technical Deep-Dive Into Real Multi-Chain Consensus](https://dev.to/chronosvault/trinity-protocol-is-live-the-technical-deep-dive-into-real-multi-chain-consensus-1bea)
-- [Built an interactive tech radar tool](https://dev.to/joe_leeson_fb93f7c693879f/built-an-interactive-tech-radar-tool-pl5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
