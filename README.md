@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Long Way Home: How We Left the Server, Built a Client Empire, and Came Back Again](https://dev.to/elmay/the-long-way-home-how-we-left-the-server-built-a-client-empire-and-came-back-again-18ng)
-- [How to Connect PostgreSQL to Power BI Using Local PostgreSQL and Aiven](https://dev.to/beatrice_njagi/how-to-connect-postgresql-to-power-bi-using-local-postgresql-and-aiven-1k5m)
-- [Browser Dev Tools for Mobile!](https://dev.to/shahriarkabir44/browser-dev-tools-for-mobile-3nc8)
-- [My latest project -Building “Snackee” — A Custom Snack Brand Experience.](https://dev.to/sahilrana/my-latest-project-building-snackee-a-custom-snack-brand-experience-3c9f)
-- [Understanding Heap Overflow &amp; Use After Free](https://dev.to/prasunchakra/understanding-heap-overflow-use-after-free-31m3)
+- [Ship Features, Not Spreadsheets: Wiring Your App Straight Into the Finance Stack](https://dev.to/nick_johnson/ship-features-not-spreadsheets-wiring-your-app-straight-into-the-finance-stack-3g4m)
+- [Choosing Between Agent Builder and n8n? Here’s the Breakdown That Would’ve Saved Me Months](https://dev.to/composiodev/choosing-between-agent-builder-and-n8n-heres-the-breakdown-that-wouldve-saved-me-months-2fm5)
+- [Software Development Teams and Architecture: A Complete Guide](https://dev.to/datatechbridge/software-development-teams-and-architecture-a-complete-guide-4nm7)
+- [What happens when you try to get hired by the top IT companies](https://dev.to/thetechpreneur/what-happens-when-you-try-to-get-hired-by-the-top-it-companies-1kg5)
+- [A Day in the Life of a DevOps Engineer Who Handles Cloud Work](https://dev.to/i_am_vesh/a-day-in-the-life-of-a-devops-engineer-who-handles-cloud-work-3mml)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
