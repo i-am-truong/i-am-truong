@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Devs Who Get Hired First Do One Thing Differently](https://dev.to/brandonkylebailey/devs-who-get-hired-first-do-one-thing-differently-5eok)
+- [I built a Serverless Image Host with Vue 3 &amp; Cloudflare R2 &lpar;Free &amp; No Login&rpar;](https://dev.to/zororaka/i-built-a-serverless-image-host-with-vue-3-cloudflare-r2-free-no-login-3hdm)
+- [How I Structure All My Xcode Projects.](https://dev.to/sebastienlato/how-i-structure-all-my-xcode-projects-19ic)
 - [2025: Simplicity Is Becoming a Technical Skill](https://dev.to/farhannasirdev/2025-simplicity-is-becoming-a-technical-skill-27hn)
 - [My newsletter just made it into the Top 100 Rising In Tech on Substack.](https://dev.to/mrcomputerscience/my-newsletter-just-made-it-into-the-top-100-rising-in-tech-on-substack-1lg1)
-- [Sparse Active Fault-Tolerant Topology - Data and Functor via Dimensional Game Theory as Foundation for Consensus Boundary](https://dev.to/nnamdi_okpala_7cb668168e6/sparse-active-fault-tolerant-topology-data-and-functor-via-dimensional-game-theory-as-foundation-3pnb)
-- [Hello DEV Community 👋 — I&#39;m Sebastien, a Full-Stack &amp; iOS Developer](https://dev.to/sebastienlato/hello-dev-community-im-sebastien-a-full-stack-ios-developer-dc4)
-- [Vertical Slice Architecture in .NET — From N‑Tier Layers to Feature Slices](https://dev.to/cristiansifuentes/vertical-slice-architecture-in-net-from-n-tier-layers-to-feature-slices-4iha)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
