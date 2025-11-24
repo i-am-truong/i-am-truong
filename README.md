@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Three Programming Superpowers In One Function](https://dev.to/samuel_ochaba_eb9c875fa89/three-programming-superpowers-in-one-function-26pf)
-- [How I wrote a working compensation algorithm in one sitting](https://dev.to/tsadarsh/how-i-wrote-a-working-compensation-algorithm-in-one-sitting-35gh)
-- [Building Live Code Knowledge Graph: AST Layer Is Coming Alive](https://dev.to/jenilsavani_/building-live-code-knowledge-graph-ast-layer-is-coming-alive-elb)
-- [🚀 ECS Express Mode: de una imagen a un endpoint HTTPS en un solo paso](https://dev.to/chainiz/ecs-express-mode-de-una-imagen-a-un-endpoint-https-en-un-solo-paso-2ngb)
-- [Building Ace: How a 13-Year-Old Founder Is Using AI to Reimagine Study Tools](https://dev.to/nikitav/building-ace-how-a-13-year-old-founder-is-using-ai-to-reimagine-study-tools-2elf)
+- [Smart pointers: memory safety without garbage collection](https://dev.to/h0tb0x/smart-pointers-memory-safety-without-garbage-collection-5674)
+- [Revolutionize Your Angular Development: From Dumb Data to Smart Models with Cast-Response](https://dev.to/besara/revolutionize-your-angular-development-from-dumb-data-to-smart-models-with-cast-response-5a26)
+- [Automate UI Bug Fixing with Chrome MCP Server and Copilot](https://dev.to/balastrong/automate-ui-bug-fixing-with-chrome-mcp-server-and-copilot-2131)
+- [Day 13 of improving my Data Science skills](https://dev.to/sp_the_data_specialist/day-13-of-improving-my-data-science-skills-2f98)
+- [Sharing Some Joy: My New MCP Image Server for Cursor](https://dev.to/_unbywyd/sharing-some-joy-my-new-mcp-image-server-for-cursor-249)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
