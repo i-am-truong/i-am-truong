@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mastering FizzBuzz in Python: A Step-by-Step Guide](https://dev.to/highcenburg/mastering-fizzbuzz-in-python-a-step-by-step-guide-2hmm)
-- [Occam’s Razor destroyed my polynomial model in 5 minutes](https://dev.to/mohammadreza_mahdian_3841/occams-razor-destroyed-my-polynomial-model-in-5-minutes-3779)
-- [A new take on CSS Plumeria&#39;s main strengths](https://dev.to/refirst11/a-new-take-on-css-plumerias-main-strengths-19le)
-- [Retry and Backoff: Building Resilient Systems](https://dev.to/siffiyan_assauri_51ec6d1b/retry-and-backoff-building-resilient-systems-4ipa)
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-44p6)
+- [🚀 x402: A Practical Path Toward Built-In Web Payments](https://dev.to/adityasingh2824/x402-a-practical-path-toward-built-in-web-payments-dcf)
+- [Building a Password Strength Analyzer with Entropy and Crack Time for Beginners](https://dev.to/malarkondappan/building-a-password-strength-analyzer-with-entropy-and-crack-time-for-beginners-3i6o)
+- [Full Remote](https://dev.to/stakiran/full-remote-57k0)
+- [[Boost]](https://dev.to/brandonkylebailey/-18o0)
+- [Pixel Perfect Figma plugin for mobile developers](https://dev.to/1pixel/pixel-perfect-figma-plugin-for-mobile-developers-3gil)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
