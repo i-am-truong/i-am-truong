@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Як побудувати ядро онлайн-казино: архітектура, модулі та інтеграції](https://dev.to/4mars/iak-pobuduvati-iadro-onlain-kazino-arkhitiektura-moduli-ta-intieghratsiyi-cal)
-- [An Overview of Muathemewpgiare.com: What the Platform Offers and Why It Matters](https://dev.to/muathemewpgiare/an-overview-of-muathemewpgiarecom-what-the-platform-offers-and-why-it-matters-4hfb)
-- [Building Container Images Without Docker: Introducing pycontainer-build](https://dev.to/spboyer/building-container-images-without-docker-introducing-pycontainer-build-5go7)
-- [Mastering UI Animations in React Native Using Reanimated — A Practical Guide](https://dev.to/saloniagrawal/mastering-ui-animations-in-react-native-using-reanimated-a-practical-guide-2404)
-- [Ship Features, Not Spreadsheets: Wiring Your App Straight Into the Finance Stack](https://dev.to/nick_johnson/ship-features-not-spreadsheets-wiring-your-app-straight-into-the-finance-stack-3g4m)
+- [Launching your RAG system on AWS: CloudFront, Lambda, Bedrock &amp; S3 Vectors](https://dev.to/sergioestebance/launching-your-rag-system-on-aws-cloudfront-lambda-bedrock-s3-vectors-pk)
+- [The Days I Tried to Start Over in a Less Demanding Way](https://dev.to/lena-hart/the-days-i-tried-to-start-over-in-a-less-demanding-way-4jc9)
+- [Erase Faces, Not Utility: Instant Privacy for Image AI by Arvind Sundararajan](https://dev.to/arvind_sundararajan/erase-faces-not-utility-instant-privacy-for-image-ai-by-arvind-sundararajan-4318)
+- [Complete Toolkit for LLM Development](https://dev.to/zainudin_noori_293f1d1c1b/complete-toolkit-for-llm-development-1l7o)
+- [On-Ramps Are Solved — Off-Ramps Aren’t. Here’s Why It Matters](https://dev.to/dan_keller/on-ramps-are-solved-off-ramps-arent-heres-why-it-matters-45nm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
