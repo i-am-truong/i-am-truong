@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Solving React&#39;s &quot;Zombie Children,&quot; Tearing, and Context Loss with Zustand](https://dev.to/chaudharidevam/solving-reacts-zombie-children-tearing-and-context-loss-with-zustand-5d04)
+- [Errloom- Platform to Practice Debugging Real Production Outages &lpar;and It&#39;s Open Source&rpar;](https://dev.to/om_patel_4f179a05b0edc19a/errloom-platform-to-practice-debugging-real-production-outages-and-its-open-source-4al1)
+- [Built a less‑filtered LLM chat &amp; API](https://dev.to/help_abliteration_81e11b5/built-a-less-filtered-llm-chat-api-47f1)
+- [Affiliate Marketing for Developers: How to Make Money Promoting Tools You Love](https://dev.to/softwaredeveloperhub01/affiliate-marketing-for-developers-how-to-make-money-promoting-tools-you-love-1g08)
 - [Prompt Optimization for AI Builder: Lessons from TOON vs Text](https://dev.to/balagmadhu/prompt-optimization-for-ai-builder-lessons-from-toon-vs-text-2eol)
-- [Savvy HRMS: Best Attendance Management Software India](https://dev.to/savvy_10d6d471cbd5155238a/savvy-hrms-best-attendance-management-software-india-5fi6)
-- [Metaprogramming in Low-Code Platforms](https://dev.to/canonical/metaprogramming-in-low-code-platforms-4b0h)
-- [NFT Development Company: Building the Next Digital Ownership Economy](https://dev.to/infograins_softwaresolut/nft-development-company-building-the-next-digital-ownership-economy-4874)
-- [XDSL: General-Purpose Domain-Specific Language Design](https://dev.to/canonical/xdsl-general-purpose-domain-specific-language-design-35g6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
