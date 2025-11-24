@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building ZAS: An AI translator that translates HTML to break down language barriers](https://dev.to/sayed_anwer_833c063c23ced/building-zas-an-ai-translator-that-translates-html-to-break-down-language-barriers-1174)
+- [The Irreplaceable Role of Human Developers in the Age of AI](https://dev.to/devray/the-irreplaceable-role-of-human-developers-in-the-age-of-ai-7gp)
+- [Automatically switching Git Identities and SSH Keys on the same machine](https://dev.to/enbis/automatically-switching-git-identities-and-ssh-keys-on-the-same-machine-75n)
+- [Is the Java ecosystem cursed? A dependency analysis perspective](https://dev.to/autonomousapps/is-the-java-ecosystem-cursed-a-dependency-analysis-perspective-53ef)
 - [Smart pointers: memory safety without garbage collection](https://dev.to/h0tb0x/smart-pointers-memory-safety-without-garbage-collection-5674)
-- [Revolutionize Your Angular Development: From Dumb Data to Smart Models with Cast-Response](https://dev.to/besara/revolutionize-your-angular-development-from-dumb-data-to-smart-models-with-cast-response-5a26)
-- [Automate UI Bug Fixing with Chrome MCP Server and Copilot](https://dev.to/balastrong/automate-ui-bug-fixing-with-chrome-mcp-server-and-copilot-2131)
-- [Day 13 of improving my Data Science skills](https://dev.to/sp_the_data_specialist/day-13-of-improving-my-data-science-skills-2f98)
-- [Sharing Some Joy: My New MCP Image Server for Cursor](https://dev.to/_unbywyd/sharing-some-joy-my-new-mcp-image-server-for-cursor-249)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
