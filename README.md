@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Zcash vs. Oasis: Two Completely Different Visions of Privacy in Crypto](https://dev.to/caerlower/zcash-vs-oasis-two-completely-different-visions-of-privacy-in-crypto-1e96)
 - [AI vs ML vs DL vs GenAI: Demystifying the Buzzwords](https://dev.to/zeroshotanu/ai-vs-ml-vs-dl-vs-genai-demystifying-the-buzzwords-301c)
 - [Real estate web app built with Next.js, Prisma, BetterAuth, and ShadCN/UI](https://dev.to/saidmounaim/real-estate-web-app-built-with-nextjs-prisma-betterauth-and-shadcnui-53mj)
 - [The Quick Commerce Tech Stack: How to Build 10-Minute Delivery Logic in 2025](https://dev.to/indianwebsiteco/the-quick-commerce-tech-stack-how-to-build-10-minute-delivery-logic-in-2025-3p9k)
 - [Dell No Bootable Device: Why 73% of Repair Shop Diagnoses Are Wrong [9420]](https://dev.to/bryan_collins_abcd0214d94/dell-no-bootable-device-why-73-of-repair-shop-diagnoses-are-wrong-9420-428g)
-- [Dell No Bootable Device: Why 73% of Repair Shop Diagnoses Are Wrong [4112]](https://dev.to/bryan_collins_abcd0214d94/dell-no-bootable-device-why-73-of-repair-shop-diagnoses-are-wrong-4112-4bc2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
