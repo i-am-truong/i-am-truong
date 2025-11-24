@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started With Python Poetry](https://dev.to/mehmetalitilgen/getting-started-with-python-poetry-29bj)
-- [Who’s the most influential person in your creative or programming journey?](https://dev.to/gorky_demircn_940064e42e9/whos-the-most-influential-person-in-your-creative-or-programming-journey-4ih5)
-- [Looking for simple tools to build a personal static site for notes](https://dev.to/md8_habibullah/looking-for-simple-tools-to-build-a-personal-static-site-for-notes-30g)
-- [Installing CVAT on Fedora - Quick Guide](https://dev.to/ankk98/installing-cvat-on-fedora-quick-guide-430o)
-- [Pulumi - DNS in AWS](https://dev.to/codecowboydotio/pulumi-dns-in-aws-450f)
+- [Introducing the All-New SLS SQL Copilot](https://dev.to/observabilityguy/introducing-the-all-new-sls-sql-copilot-2mg3)
+- [How Pagination Saved an API from Crashing: A Practical Case Study](https://dev.to/taras_antoniuk_ea6a2fe7ee/how-pagination-saved-an-api-from-crashing-a-practical-case-study-4jfb)
+- [Implementing AIOps on Xperience by Kentico with n8n and GitHub Coding Agents: Automated Resolutions with Human in the Loop](https://dev.to/truelime/implementing-aiops-on-xperience-by-kentico-with-n8n-and-github-coding-agents-automated-resolutions-7o)
+- [Transform Your OpenAPI Specs Into Living Documentation: The Complete Guide](https://dev.to/apilover/transform-your-openapi-specs-into-living-documentation-the-complete-guide-4mki)
+- [The Ultimate Guide to Automotive MOST Cables](https://dev.to/dspof2000/the-ultimate-guide-to-automotive-most-cables-a0k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
