@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a 3D Virtual Portfolio Room🏠](https://dev.to/yaldakhoshpey/building-a-3d-virtual-portfolio-room-18kp)
-- [Using AI in Employee Onboarding: Transforming the New Hire Experience](https://dev.to/writegenic/using-ai-in-employee-onboarding-transforming-the-new-hire-experience-500a)
-- [8 Blockchain Networks Developers Prefer for Real Throughput and Scalability in 2025](https://dev.to/chikieabby/8-blockchain-networks-developers-prefer-for-real-throughput-and-scalability-in-2025-cg4)
-- [I built an AI agent that ships full-stack apps from a prompt &lpar;Not just code — real running Next.js apps&rpar;](https://dev.to/krishna_saathwik_6f48d9c9/i-built-an-ai-agent-that-ships-full-stack-apps-from-a-prompt-not-just-code-real-running-nextjs-338p)
-- [Zcash vs. Oasis: Two Completely Different Visions of Privacy in Crypto](https://dev.to/caerlower/zcash-vs-oasis-two-completely-different-visions-of-privacy-in-crypto-1e96)
+- [Mastering SQL: Revisiting the Basics](https://dev.to/ch-kartik/mastering-sql-revisiting-the-basics-43ci)
+- [Tutorial: Packaging Operations Runbooks with Puppet Edge Workflows](https://dev.to/jasonstcyr/tutorial-packaging-operations-runbooks-with-puppet-edge-workflows-16jp)
+- [I built an AI agent that ships full-stack apps from a prompt &lpar;Not just code — real running Next.js apps&rpar;](https://dev.to/saathwik/i-built-an-ai-agent-that-ships-full-stack-apps-from-a-prompt-not-just-code-real-running-nextjs-4gbf)
+- [🎉 I Just Launched AnimTheme A Marketplace for Web Animations](https://dev.to/anim_theme_a5314fe2e0c287/i-just-launched-animtheme-a-marketplace-for-web-animations-160f)
+- [Controlling Kubernetes Network Traffic - Part 2](https://dev.to/aws-builders/controlling-kubernetes-network-traffic-part-2-lni)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
