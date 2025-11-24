@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 x402: A Practical Path Toward Built-In Web Payments](https://dev.to/adityasingh2824/x402-a-practical-path-toward-built-in-web-payments-dcf)
-- [Building a Password Strength Analyzer with Entropy and Crack Time for Beginners](https://dev.to/malarkondappan/building-a-password-strength-analyzer-with-entropy-and-crack-time-for-beginners-3i6o)
-- [Full Remote](https://dev.to/stakiran/full-remote-57k0)
-- [[Boost]](https://dev.to/brandonkylebailey/-18o0)
-- [Pixel Perfect Figma plugin for mobile developers](https://dev.to/1pixel/pixel-perfect-figma-plugin-for-mobile-developers-3gil)
+- [🐧 20 Most Used Linux Commands Every Developer Should Know](https://dev.to/farhadrahimiklie/20-most-used-linux-commands-every-developer-should-know-259g)
+- [Deep Dive: Building Real-Time Facial Emotion Detection on Raspberry Pi with YOLOv11](https://dev.to/malarkondappan/deep-dive-building-real-time-facial-emotion-detection-on-raspberry-pi-with-yolov11-jp4)
+- [The Creative Dilemma: Sharing Ideas vs. Protecting Them](https://dev.to/gamepill/the-creative-dilemma-sharing-ideas-vs-protecting-them-2ed2)
+- [OrbStack vs Apple Containers vs Docker on macOS: How They Really Differ Under the Hood](https://dev.to/tuliopc23/orbstack-vs-apple-containers-vs-docker-on-macos-how-they-really-differ-under-the-hood-53fj)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-3b46)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
