@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ringer Movies: Best Picture Power Rankings &amp; the Super-Sincerity of ‘Sentimental Value&#39;](https://dev.to/popcorn_movies/ringer-movies-best-picture-power-rankings-the-super-sincerity-of-sentimental-value-2m87)
+- [New DynamoDB Key Feature &amp; Why It Matters](https://dev.to/aws-builders/new-dynamodb-key-feature-why-it-matters-38ln)
+- [I compared 17 Kotlin MVI libraries across 103 criteria - here are THE BEST 4](https://dev.to/nek12/i-compared-17-kotlin-mvi-libraries-across-103-criteria-here-are-the-best-4-5g89)
 - [Why everyone fails at the California Housing dataset the same way&lpar;6 brutal reasons&rpar;](https://dev.to/mohammadreza_mahdian_3841/why-everyone-fails-at-the-california-housing-dataset-the-same-way6-brutal-reasons-4c0g)
 - [SNK WELLNESS CENTER - Uno Platform AI Challenge Entry](https://dev.to/vonyange_2036/snk-wellness-center-uno-platform-ai-challenge-entry-2k01)
-- [Kicking Off the Big Picture: World Cup 2026 Analysis](https://dev.to/mabualzait/kicking-off-the-big-picture-world-cup-2026-analysis-2255)
-- [FAQ-driven development 😃 - or new old way to write docs / rules / prompts](https://dev.to/arenukvern/faq-driven-development-or-new-old-way-to-write-docs-rules-prompts-25jl)
-- [If you’re exploring Job Interview AI, you’ll notice how quickly it’s becoming a core part of the modern hiring experience. It’s not just companies automating screenings — candidates are now using AI to stay calm, structured, and confident during interview](https://dev.to/jeenifer_beezer/if-youre-exploring-job-interview-ai-youll-notice-how-quickly-its-becoming-a-core-part-of-the-4l2d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
