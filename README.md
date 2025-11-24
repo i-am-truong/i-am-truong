@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [REST vs GraphQL: Why I Use Both &lpar;And You Probably Should Too&rpar;](https://dev.to/chizihn/rest-vs-graphql-why-i-use-both-and-you-probably-should-too-28a0)
+- [Build Your Own Chat Application with Ollama Cloud Models and Chainlit](https://dev.to/coderforfun/build-your-own-chat-application-with-ollama-cloud-models-and-chainlit-15co)
+- [The Complete Developer’s Guide to GraphRAG, LightRAG, and AgenticRAG](https://dev.to/superorange0707/the-complete-developers-guide-to-graphrag-lightrag-and-agenticrag-14go)
 - [Devs Who Get Hired First Do One Thing Differently](https://dev.to/brandonkylebailey/devs-who-get-hired-first-do-one-thing-differently-5eok)
-- [I built a Serverless Image Host with Vue 3 &amp; Cloudflare R2 &lpar;Free &amp; No Login&rpar;](https://dev.to/zororaka/i-built-a-serverless-image-host-with-vue-3-cloudflare-r2-free-no-login-3hdm)
-- [How I Structure All My Xcode Projects.](https://dev.to/sebastienlato/how-i-structure-all-my-xcode-projects-19ic)
-- [2025: Simplicity Is Becoming a Technical Skill](https://dev.to/farhannasirdev/2025-simplicity-is-becoming-a-technical-skill-27hn)
-- [My newsletter just made it into the Top 100 Rising In Tech on Substack.](https://dev.to/mrcomputerscience/my-newsletter-just-made-it-into-the-top-100-rising-in-tech-on-substack-1lg1)
+- [Erase &amp; Protect: Face Anonymization Without the AI Training Hassle by Arvind Sundararajan](https://dev.to/arvind_sundararajan/erase-protect-face-anonymization-without-the-ai-training-hassle-by-arvind-sundararajan-95p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
