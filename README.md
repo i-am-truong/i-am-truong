@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [2025: Simplicity Is Becoming a Technical Skill](https://dev.to/farhannasirdev/2025-simplicity-is-becoming-a-technical-skill-27hn)
+- [My newsletter just made it into the Top 100 Rising In Tech on Substack.](https://dev.to/mrcomputerscience/my-newsletter-just-made-it-into-the-top-100-rising-in-tech-on-substack-1lg1)
+- [Sparse Active Fault-Tolerant Topology - Data and Functor via Dimensional Game Theory as Foundation for Consensus Boundary](https://dev.to/nnamdi_okpala_7cb668168e6/sparse-active-fault-tolerant-topology-data-and-functor-via-dimensional-game-theory-as-foundation-3pnb)
 - [Hello DEV Community 👋 — I&#39;m Sebastien, a Full-Stack &amp; iOS Developer](https://dev.to/sebastienlato/hello-dev-community-im-sebastien-a-full-stack-ios-developer-dc4)
 - [Vertical Slice Architecture in .NET — From N‑Tier Layers to Feature Slices](https://dev.to/cristiansifuentes/vertical-slice-architecture-in-net-from-n-tier-layers-to-feature-slices-4iha)
-- [The Art, the Politics, and the Final Truth of Software Development](https://dev.to/copyleftdev/the-art-the-politics-and-the-final-truth-of-software-development-5bee)
-- [Coding Challenge Practice - Question 65](https://dev.to/tomivan/coding-challenge-practice-question-65-4o4b)
-- [Freelancing Reimagined: Total Autonomy with Massa Smart Contracts](https://dev.to/kirodotdev/freelancing-reimagined-total-autonomy-with-massa-smart-contracts-2c3l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
