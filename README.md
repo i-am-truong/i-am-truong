@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Як побудувати ядро онлайн-казино: архітектура, модулі та інтеграції](https://dev.to/4mars/iak-pobuduvati-iadro-onlain-kazino-arkhitiektura-moduli-ta-intieghratsiyi-cal)
+- [An Overview of Muathemewpgiare.com: What the Platform Offers and Why It Matters](https://dev.to/muathemewpgiare/an-overview-of-muathemewpgiarecom-what-the-platform-offers-and-why-it-matters-4hfb)
+- [Building Container Images Without Docker: Introducing pycontainer-build](https://dev.to/spboyer/building-container-images-without-docker-introducing-pycontainer-build-5go7)
+- [Mastering UI Animations in React Native Using Reanimated — A Practical Guide](https://dev.to/saloniagrawal/mastering-ui-animations-in-react-native-using-reanimated-a-practical-guide-2404)
 - [Ship Features, Not Spreadsheets: Wiring Your App Straight Into the Finance Stack](https://dev.to/nick_johnson/ship-features-not-spreadsheets-wiring-your-app-straight-into-the-finance-stack-3g4m)
-- [Choosing Between Agent Builder and n8n? Here’s the Breakdown That Would’ve Saved Me Months](https://dev.to/composiodev/choosing-between-agent-builder-and-n8n-heres-the-breakdown-that-wouldve-saved-me-months-2fm5)
-- [Software Development Teams and Architecture: A Complete Guide](https://dev.to/datatechbridge/software-development-teams-and-architecture-a-complete-guide-4nm7)
-- [What happens when you try to get hired by the top IT companies](https://dev.to/thetechpreneur/what-happens-when-you-try-to-get-hired-by-the-top-it-companies-1kg5)
-- [A Day in the Life of a DevOps Engineer Who Handles Cloud Work](https://dev.to/i_am_vesh/a-day-in-the-life-of-a-devops-engineer-who-handles-cloud-work-3mml)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
