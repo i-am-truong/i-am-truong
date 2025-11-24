@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Built an Automated Payment Recovery System That Recovers 3x More Failed Payments](https://dev.to/etherlabsdev/i-built-an-automated-payment-recovery-system-that-recovers-3x-more-failed-payments-epg)
+- [Multithreading Demystified: The Real Difference Between Concurrency and Parallelism](https://dev.to/mohammed_27c42362d82e94dd/multithreading-demystified-the-real-difference-between-concurrency-and-parallelism-58a7)
+- [The Delete Button Dilemma: When to Soft Delete vs Hard Delete](https://dev.to/akarshan/the-delete-button-dilemma-when-to-soft-delete-vs-hard-delete-3a0i)
 - [What to use for data preparation in report, query or analysis business?](https://dev.to/esproc_spl/what-to-use-for-data-preparation-in-report-query-or-analysis-business-17c0)
 - [Emergent Mind - Philosophy &amp; Architecture](https://dev.to/vaticnz/emergent-mind-philosophy-architecture-3km7)
-- [How SuburbStory Uses Asyncio to Pull Multi-Source Government Data in Parallel](https://dev.to/roberttidball/how-suburbstory-uses-asyncio-to-pull-multi-source-government-data-in-parallel-28d8)
-- [Am I doing the best I can? Thoughts about talent, mediocrity, expectations and success.](https://dev.to/dvddpl/am-i-doing-the-best-i-can-thoughts-about-talent-mediocrity-expectations-and-success-1g6d)
-- [How to Implement Content Security Policy in Nuxt](https://dev.to/jacobandrewsky/how-to-implement-content-security-policy-in-nuxt-3jhl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
