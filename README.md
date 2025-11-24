@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Zero to Building in Under Two Minutes: Kiro-Powered Laravel Skeleton](https://dev.to/johnfmorton/from-zero-to-building-in-under-two-minutes-kiro-powered-laravel-skeleton-3d4o)
-- [In-House Production and Introspection](https://dev.to/stakiran/in-house-production-and-introspection-kkg)
-- [Update: More CIR PR&#39;s and Release 0.3](https://dev.to/david_rivera_8d845b35931e/update-more-cir-prs-and-release-03-1lne)
-- [Building ZAS: An AI translator that translates HTML to break down language barriers](https://dev.to/sayed_anwer_833c063c23ced/building-zas-an-ai-translator-that-translates-html-to-break-down-language-barriers-1174)
-- [The Irreplaceable Role of Human Developers in the Age of AI](https://dev.to/devray/the-irreplaceable-role-of-human-developers-in-the-age-of-ai-7gp)
+- [Breakthroughs are just boring improvements that pile up](https://dev.to/allenheltondev/breakthroughs-are-just-boring-improvements-that-pile-up-299h)
+- [Apache Dev List Digest: Iceberg, Polaris, Arrow &amp; Parquet &lpar;Nov 18–24, 2025&rpar;](https://dev.to/alexmercedcoder/apache-dev-list-digest-iceberg-polaris-arrow-parquet-nov-18-24-2025-4dco)
+- [How to build a good container platform](https://dev.to/kubeden/how-to-build-a-good-container-platform-gk7)
+- [“Best Automated Code Review Tools for Enterprise Software Teams”](https://dev.to/uss/best-automated-code-review-tools-for-enterprise-software-teams-549f)
+- [On Engineers Having to Do Emotional Labor](https://dev.to/stakiran/on-engineers-having-to-do-emotional-labor-5d59)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
