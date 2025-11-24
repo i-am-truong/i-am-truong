@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I do not agree with Ben Lesh on his Medium article &#39;Regret Rxjs&#39;](https://dev.to/hansschenker/i-do-not-agree-with-ben-lesh-on-his-medium-article-regret-rxjs-2ig2)
+- [Declarative Identity and Emergent Semantic Spaces &lpar;Tech Spec&rpar;](https://dev.to/suign/declarative-identity-and-emergent-semantic-spaces-tech-spec-hml)
+- [The Mathematical Kernel of Model-Driven Architecture: The Y = F&lpar;X&rpar; Delta Invariant Unifying Generation and Evolution](https://dev.to/canonical/the-mathematical-kernel-of-model-driven-architecture-the-y-fx-delta-invariant-unifying-446f)
+- [Why Your HTML Layout Breaks — And How to Fix It &lpar;A Practical Guide&rpar;](https://dev.to/itsmybot/why-your-html-layout-breaks-and-how-to-fix-it-a-practical-guide-1pk9)
 - [First-order Functional Weight Space](https://dev.to/suign/first-order-functional-weight-space-3j7b)
-- [Building a CRISPR/Prime Editing Planner with Next.js + FastAPI](https://dev.to/omniscoder/building-a-crisprprime-editing-planner-with-nextjs-fastapi-458b)
-- [How to Connect PostgreSQL to Power BI using Local PostgreSQL.](https://dev.to/maina_meghan/how-to-connect-postgresql-to-power-bi-using-local-postgresql-27j4)
-- [🚀Deploy a Python Flask App on AWS Elastic Container Service with Fargate Using OpenTofu + Docker + Trivy + ALB](https://dev.to/latchudevops/deploy-a-python-flask-app-on-aws-elastic-container-service-with-fargate-using-opentofu-docker--5d21)
-- [10 GA4 Custom Reports That Actually Answer Your Questions &lpar;Not Google&#39;s&rpar;](https://dev.to/synergistdigitalmedia/10-ga4-custom-reports-that-actually-answer-your-questions-not-googles-5hdj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
