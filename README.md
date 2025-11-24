@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AltSchool Of Engineering Tinyuka’24 Month 9 Week 4](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-9-week-4-2pd8)
-- [Common LINQ Methods with Examples in .NET Core](https://dev.to/sapanapal6/common-linq-methods-with-examples-in-net-core-2m2p)
-- [The Practical Guide to Optimizing @font-face](https://dev.to/danilo1/the-practical-guide-to-optimizing-font-face-3cgd)
-- [The Map of Modern APIs: REST, GraphQL, RPC, Serverless &amp; Webhooks](https://dev.to/itsugo/the-map-of-modern-apis-rest-graphql-rpc-serverless-webhooks-38o5)
-- [DDD CRUD-Like Repository](https://dev.to/g-fuchter/ddd-crud-like-repository-1a9i)
+- [The hidden pitfalls of building online marketplaces](https://dev.to/egledigital/the-hidden-pitfalls-of-building-online-marketplaces-c2)
+- [Testing Reinvented: Why Test Coverage Is the Wrong Metric](https://dev.to/cleberdelima/testing-reinvented-why-test-coverage-is-the-wrong-metric-31l3)
+- [Angular - Custom MatPaginator Styling](https://dev.to/this-is-angular/angular-custom-matpaginator-styling-en6)
+- [The saltiest and wrongest article about Big O ever](https://dev.to/klauskpm/the-saltiest-and-wrongest-article-about-big-o-ever-1blm)
+- [Por qué ETH sigue siendo el favorito de los desarrolladores en 2025 &lpar;y por qué integrarlo ahora es más fácil que nunca&rpar;](https://dev.to/paddy_e4d3d274ebc7/por-que-eth-sigue-siendo-el-favorito-de-los-desarrolladores-en-2025-y-por-que-integrarlo-ahora-es-1m59)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
