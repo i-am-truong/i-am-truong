@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Check the Number of Lines Changed in Your Current Git Branch Compared to Main](https://dev.to/shawon/how-to-check-the-number-of-lines-changed-in-your-current-git-branch-compared-to-main-3m6m)
 - [How to Automate Vulnerability Scans with Trivy](https://dev.to/addwebsolutionpvtltd/how-to-automate-vulnerability-scans-with-trivy-3b14)
-- [Back to Unity baby!](https://dev.to/rapidsingularity/back-to-unity-baby-3h7o)
+- [Back to Unity baby!](https://dev.to/simonjnorman/back-to-unity-baby-3h7o)
 - [Best Blockchain Networks to Build Secure DeFi Wallets in 2025](https://dev.to/alyasmith0/best-blockchain-networks-to-build-secure-defi-wallets-in-2025-im)
 - [How streaming platforms engineered their own piracy problem: a data story](https://dev.to/ronnie_pye_/how-streaming-platforms-engineered-their-own-piracy-problem-a-data-story-4mkl)
-- [HTML 5](https://dev.to/priya_k_9427a2e692abd3ddb/html-5-4dpk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
