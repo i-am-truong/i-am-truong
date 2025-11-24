@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Dev.to Tag Hacking](https://dev.to/wyattdave/devto-tag-hacking-2ogf)
+- [Why SaaS Companies Are Prioritizing Strategic SEO Over Pure Content Volume](https://dev.to/dennis_santos_fdc46978eb4/why-saas-companies-are-prioritizing-strategic-seo-over-pure-content-volume-39ip)
+- [Digital Certificates: Anatomy, Lifecycle, and Best Practices](https://dev.to/dcs-soni/digital-certificates-anatomy-lifecycle-and-best-practices-1ii1)
 - [Building a Real DevOps Project from Scratch: A Beginner-Friendly Walkthrough](https://dev.to/bharath_018/building-a-real-devops-project-from-scratch-a-beginner-friendly-walkthrough-2c2j)
-- [How I &quot;Vibe Coded&quot; a Secure AI Finance App &lpar;Without Writing the Boilerplate&rpar;](https://dev.to/swofski/how-i-vibe-coded-a-secure-ai-finance-app-without-writing-the-boilerplate-43fj)
-- [Build Your First LangGraph Agent](https://dev.to/richard_abishai/build-your-first-langgraph-agent-481p)
-- [Reflecting 2025 and Predicting 2026 Quoting DEV Post Titles](https://dev.to/ingosteinke/reflecting-2025-and-predicting-2026-quoting-dev-post-titles-6e1)
-- [Agents that ship: Breakdown of the 3-part architecture that survived real-world chaos](https://dev.to/abhigk/agents-that-ship-breakdown-of-the-3-part-architecture-that-survived-real-world-chaos-2679)
+- [Antigravity is the most expensive PORK to date](https://dev.to/kilocode/antigravity-is-the-most-expensive-pork-to-date-3mp6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
