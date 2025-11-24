@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a Lisp VM in Rust that proves its own execution trace &lpar;STARKs + Winterfell&rpar;](https://dev.to/yoozzeek/i-built-a-lisp-vm-in-rust-that-proves-its-own-execution-trace-starks-winterfell-4fi)
-- [EXPERIENCE: ZED CODE EDITOR](https://dev.to/kartik_patel/experience-zed-code-editor-2fb2)
-- [Razor Pages vs MVC: Quando escolher e por quê](https://dev.to/gustavo_viegas/razor-pages-vs-mvc-quando-escolher-e-por-que-2nie)
-- [Use Fork Git Client to Remove Passwords from Git History](https://dev.to/jjrawlins/use-fork-git-client-to-remove-passwords-from-git-history-3in)
-- [The 5 Most Common Data Quality Issues &lpar;and How Analysts Can Fix Them&rpar;](https://dev.to/pauletart/the-5-most-common-data-quality-issues-and-how-analysts-can-fix-them-3c7p)
+- [Have you ever run Robocopy on Linux?](https://dev.to/ossan/have-you-ever-run-robocopy-on-linux-22an)
+- [The Quiet Threat of AI “Undress” Apps](https://dev.to/madsendev/the-quiet-threat-of-ai-undress-apps-4ij9)
+- [Top 12 Puppet Alternatives for Automation](https://dev.to/spacelift/top-12-puppet-alternatives-for-automation-767)
+- [What I Learned From Reviewing a Complete Diabetes Prediction Machine Learning Project](https://dev.to/techkene/what-i-learned-from-reviewing-a-complete-diabetes-prediction-machine-learning-project-2dc4)
+- [Building Voyage Planner – Modern Travel Booking Website](https://dev.to/senzy01/building-voyage-planner-modern-travel-booking-website-5do8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
