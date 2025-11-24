@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🐧 20 Most Used Linux Commands Every Developer Should Know](https://dev.to/farhadrahimiklie/20-most-used-linux-commands-every-developer-should-know-259g)
-- [Deep Dive: Building Real-Time Facial Emotion Detection on Raspberry Pi with YOLOv11](https://dev.to/malarkondappan/deep-dive-building-real-time-facial-emotion-detection-on-raspberry-pi-with-yolov11-jp4)
-- [The Creative Dilemma: Sharing Ideas vs. Protecting Them](https://dev.to/gamepill/the-creative-dilemma-sharing-ideas-vs-protecting-them-2ed2)
-- [OrbStack vs Apple Containers vs Docker on macOS: How They Really Differ Under the Hood](https://dev.to/tuliopc23/orbstack-vs-apple-containers-vs-docker-on-macos-how-they-really-differ-under-the-hood-53fj)
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-3b46)
+- [WordPress Themes Discount Trends in 2026 — An Informational Breakdown for Web Developers](https://dev.to/themexriver/wordpress-themes-discount-trends-in-2026-an-informational-breakdown-for-web-developers-1ff8)
+- [Building a Reactive Login Form with Angular Signal Forms](https://dev.to/nhannguyenuri/building-a-reactive-login-form-with-angular-signal-forms-1b55)
+- [Echo: The Buddy in the Machine](https://dev.to/vaticnz/echo-the-buddy-in-the-machine-3of3)
+- [JavaScript Clean Code Mastery: Part 3 - Modern JavaScript Features That Transform Your Code](https://dev.to/sizan_mahmud0_e7c3fd0cb68/javascript-clean-code-mastery-part-3-modern-javascript-features-that-transform-your-code-4bih)
+- [Headscale Deployment and Usage Guide: Mastering Tailscale&#39;s Self-Hosting Basics for Ultimate Control](https://dev.to/carsonyang/headscale-deployment-and-usage-guide-mastering-tailscales-self-hosting-basics-for-ultimate-5ai0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
