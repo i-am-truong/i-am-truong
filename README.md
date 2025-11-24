@@ -120,14 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A 2009 IBM Patent That Solved Indoor Location Without GPS — And Got Cited 64 Times by Cisco, Microsoft, Avaya…](https://dev.to/sagar_joshi_31ac4ef39367a/a-2009-ibm-patent-that-solved-indoor-location-without-gps-and-got-cited-64-times-by-cisco-3pnn)
-- [AI-Assisted Engineering: A Senior Developer’s Framework for Speed, Quality, and Sound Technical Judgment](https://dev.to/ojsholly/ai-assisted-engineering-a-senior-developers-framework-for-speed-quality-and-sound-technical-15nh)
-- [🚀 Hello everyone
-I’ve recently launched our new website moradabads.com, where we focus on DSA, JavaScript output-based questions, articles, an online code compiler, and much more.
-
-I would really appreciate it if you could visit the website and share](https://dev.to/sumit_kumar_9fbda517e6961/hello-everyone-ive-recently-launched-our-new-website-moradabadscom-where-we-focus-on-dsa-4kbb)
-- [Packaging my Open Source Project - Release 1.0.0](https://dev.to/denisc96/packaging-my-open-source-project-release-100-5h7e)
-- [Solving React&#39;s &quot;Zombie Children,&quot; Tearing, and Context Loss with Zustand](https://dev.to/chaudharidevam/solving-reacts-zombie-children-tearing-and-context-loss-with-zustand-5d04)
+- [What to use for data preparation in report, query or analysis business?](https://dev.to/esproc_spl/what-to-use-for-data-preparation-in-report-query-or-analysis-business-17c0)
+- [Emergent Mind - Philosophy &amp; Architecture](https://dev.to/vaticnz/emergent-mind-philosophy-architecture-3km7)
+- [How SuburbStory Uses Asyncio to Pull Multi-Source Government Data in Parallel](https://dev.to/roberttidball/how-suburbstory-uses-asyncio-to-pull-multi-source-government-data-in-parallel-28d8)
+- [Am I doing the best I can? Thoughts about talent, mediocrity, expectations and success.](https://dev.to/dvddpl/am-i-doing-the-best-i-can-thoughts-about-talent-mediocrity-expectations-and-success-1g6d)
+- [How to Implement Content Security Policy in Nuxt](https://dev.to/jacobandrewsky/how-to-implement-content-security-policy-in-nuxt-3jhl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
