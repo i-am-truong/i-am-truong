@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Meetily vs Otter.ai: Privacy-First Alternative for 2025](https://dev.to/zackriya/meetily-vs-otterai-privacy-first-alternative-for-2025-31j)
-- [Ringer Movies: Best Picture Power Rankings &amp; the Super-Sincerity of ‘Sentimental Value&#39;](https://dev.to/popcorn_movies/ringer-movies-best-picture-power-rankings-the-super-sincerity-of-sentimental-value-4o8o)
-- [What are your goals for the week? #154](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-154-3651)
-- [Recipe Step Normalizer — turn steps into JSON](https://dev.to/felixships/recipe-step-normalizer-turn-steps-into-json-2bbp)
-- [Dell No Bootable Device: Why 73% of Repair Shop Diagnoses Are Wrong [9289]](https://dev.to/bryan_collins_abcd0214d94/dell-no-bootable-device-why-73-of-repair-shop-diagnoses-are-wrong-9289-34oo)
+- [AI vs ML vs DL vs GenAI: Demystifying the Buzzwords](https://dev.to/zeroshotanu/ai-vs-ml-vs-dl-vs-genai-demystifying-the-buzzwords-301c)
+- [Real estate web app built with Next.js, Prisma, BetterAuth, and ShadCN/UI](https://dev.to/saidmounaim/real-estate-web-app-built-with-nextjs-prisma-betterauth-and-shadcnui-53mj)
+- [The Quick Commerce Tech Stack: How to Build 10-Minute Delivery Logic in 2025](https://dev.to/indianwebsiteco/the-quick-commerce-tech-stack-how-to-build-10-minute-delivery-logic-in-2025-3p9k)
+- [Dell No Bootable Device: Why 73% of Repair Shop Diagnoses Are Wrong [9420]](https://dev.to/bryan_collins_abcd0214d94/dell-no-bootable-device-why-73-of-repair-shop-diagnoses-are-wrong-9420-428g)
+- [Dell No Bootable Device: Why 73% of Repair Shop Diagnoses Are Wrong [4112]](https://dev.to/bryan_collins_abcd0214d94/dell-no-bootable-device-why-73-of-repair-shop-diagnoses-are-wrong-4112-4bc2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
