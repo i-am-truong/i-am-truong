@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Real-Time Data Lake on AWS: S3, Glue, and Athena in Production](https://dev.to/aws-builders/building-a-real-time-data-lake-on-aws-s3-glue-and-athena-in-production-4g0b)
 - [WordPress Themes Discount Trends in 2026 — An Informational Breakdown for Web Developers](https://dev.to/themexriver/wordpress-themes-discount-trends-in-2026-an-informational-breakdown-for-web-developers-1ff8)
 - [Building a Reactive Login Form with Angular Signal Forms](https://dev.to/nhannguyenuri/building-a-reactive-login-form-with-angular-signal-forms-1b55)
 - [Echo: The Buddy in the Machine](https://dev.to/vaticnz/echo-the-buddy-in-the-machine-3of3)
-- [JavaScript Clean Code Mastery: Part 3 - Modern JavaScript Features That Transform Your Code](https://dev.to/sizan_mahmud0_e7c3fd0cb68/javascript-clean-code-mastery-part-3-modern-javascript-features-that-transform-your-code-4bih)
-- [Headscale Deployment and Usage Guide: Mastering Tailscale&#39;s Self-Hosting Basics for Ultimate Control](https://dev.to/carsonyang/headscale-deployment-and-usage-guide-mastering-tailscales-self-hosting-basics-for-ultimate-5ai0)
+- [nice](https://dev.to/daithinhle/nice-21ap)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
