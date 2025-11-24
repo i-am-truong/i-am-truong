@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From Zero to Building in Under Two Minutes: Kiro-Powered Laravel Skeleton](https://dev.to/johnfmorton/from-zero-to-building-in-under-two-minutes-kiro-powered-laravel-skeleton-3d4o)
+- [In-House Production and Introspection](https://dev.to/stakiran/in-house-production-and-introspection-kkg)
+- [Update: More CIR PR&#39;s and Release 0.3](https://dev.to/david_rivera_8d845b35931e/update-more-cir-prs-and-release-03-1lne)
 - [Building ZAS: An AI translator that translates HTML to break down language barriers](https://dev.to/sayed_anwer_833c063c23ced/building-zas-an-ai-translator-that-translates-html-to-break-down-language-barriers-1174)
 - [The Irreplaceable Role of Human Developers in the Age of AI](https://dev.to/devray/the-irreplaceable-role-of-human-developers-in-the-age-of-ai-7gp)
-- [Automatically switching Git Identities and SSH Keys on the same machine](https://dev.to/enbis/automatically-switching-git-identities-and-ssh-keys-on-the-same-machine-75n)
-- [Is the Java ecosystem cursed? A dependency analysis perspective](https://dev.to/autonomousapps/is-the-java-ecosystem-cursed-a-dependency-analysis-perspective-53ef)
-- [Smart pointers: memory safety without garbage collection](https://dev.to/h0tb0x/smart-pointers-memory-safety-without-garbage-collection-5674)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
