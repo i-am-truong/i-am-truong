@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built an Automated Payment Recovery System That Recovers 3x More Failed Payments](https://dev.to/etherlabsdev/i-built-an-automated-payment-recovery-system-that-recovers-3x-more-failed-payments-epg)
-- [Multithreading Demystified: The Real Difference Between Concurrency and Parallelism](https://dev.to/mohammed_27c42362d82e94dd/multithreading-demystified-the-real-difference-between-concurrency-and-parallelism-58a7)
-- [The Delete Button Dilemma: When to Soft Delete vs Hard Delete](https://dev.to/akarshan/the-delete-button-dilemma-when-to-soft-delete-vs-hard-delete-3a0i)
-- [What to use for data preparation in report, query or analysis business?](https://dev.to/esproc_spl/what-to-use-for-data-preparation-in-report-query-or-analysis-business-17c0)
-- [Emergent Mind - Philosophy &amp; Architecture](https://dev.to/vaticnz/emergent-mind-philosophy-architecture-3km7)
+- [Looking for simple tools to build a personal static site for notes](https://dev.to/md8_habibullah/looking-for-simple-tools-to-build-a-personal-static-site-for-notes-30g)
+- [Installing CVAT on Fedora - Quick Guide](https://dev.to/ankk98/installing-cvat-on-fedora-quick-guide-430o)
+- [Pulumi - DNS in AWS](https://dev.to/codecowboydotio/pulumi-dns-in-aws-450f)
+- [Stop Learning Frameworks. Seriously](https://dev.to/sahil_sahu/stop-learning-frameworks-seriously-1h7e)
+- [The Gradle Mystery - When Your Code Works... Until It Doesn&#39;t 🕵️](https://dev.to/kiran_ravi_092a2cfcf60389/the-gradle-mystery-when-your-code-works-until-it-doesnt-2n9d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
