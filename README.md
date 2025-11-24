@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My Search to Become a DevRel: How Community, Teaching, WebAI and Vibe Coding Became My Path](https://dev.to/aileenvl/my-search-to-become-a-devrel-how-community-teaching-webai-and-vibe-coding-became-my-path-3n69)
-- [Rust у мікросервісах: швидкість та продуктивність, що змінюють правила гри](https://dev.to/4mars/rust-u-mikrosiervisakh-shvidkist-ta-produktivnist-shcho-zminiuiut-pravila-ghri-1a0d)
-- [AWS Policy Deep Dive](https://dev.to/terry_cloud/aws-policy-deep-dive-5e78)
-- [Fraud Detection with Knowledge Graphs: A Protégé and VidyaAstra Approach](https://dev.to/vishalmysore/fraud-detection-with-knowledge-graphs-a-protege-and-vidyaastra-approac-d0m)
-- [The Dark Art Of Behavioral Enumeration And Why It Works Every Time](https://dev.to/numbpill3d/the-dark-art-of-behavioral-enumeration-and-why-it-works-every-time-h7o)
+- [Mastering FizzBuzz in Python: A Step-by-Step Guide](https://dev.to/highcenburg/mastering-fizzbuzz-in-python-a-step-by-step-guide-2hmm)
+- [Occam’s Razor destroyed my polynomial model in 5 minutes](https://dev.to/mohammadreza_mahdian_3841/occams-razor-destroyed-my-polynomial-model-in-5-minutes-3779)
+- [A new take on CSS Plumeria&#39;s main strengths](https://dev.to/refirst11/a-new-take-on-css-plumerias-main-strengths-19le)
+- [Retry and Backoff: Building Resilient Systems](https://dev.to/siffiyan_assauri_51ec6d1b/retry-and-backoff-building-resilient-systems-4ipa)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-44p6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
