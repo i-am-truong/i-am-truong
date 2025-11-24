@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From Code to Coffee: How Using Crypto in Daily Life Changed My Workflow &lpar;and What I Learned About On/Off Ramps&rpar; ☕️💸](https://dev.to/tanelith/from-code-to-coffee-how-using-crypto-in-daily-life-changed-my-workflow-and-what-i-learned-about-4k2p)
 - [Dev.to Tag Hacking](https://dev.to/wyattdave/devto-tag-hacking-2ogf)
 - [Why SaaS Companies Are Prioritizing Strategic SEO Over Pure Content Volume](https://dev.to/dennis_santos_fdc46978eb4/why-saas-companies-are-prioritizing-strategic-seo-over-pure-content-volume-39ip)
 - [Digital Certificates: Anatomy, Lifecycle, and Best Practices](https://dev.to/dcs-soni/digital-certificates-anatomy-lifecycle-and-best-practices-1ii1)
 - [Building a Real DevOps Project from Scratch: A Beginner-Friendly Walkthrough](https://dev.to/bharath_018/building-a-real-devops-project-from-scratch-a-beginner-friendly-walkthrough-2c2j)
-- [Antigravity is the most expensive PORK to date](https://dev.to/kilocode/antigravity-is-the-most-expensive-pork-to-date-3mp6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
