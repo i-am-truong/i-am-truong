@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Refactoring If-Else Hell into a Strategy Pattern in PHP ⚙️](https://dev.to/codecraft_diary_3d13677fb/refactoring-if-else-hell-into-a-strategy-pattern-in-php-1o4p)
+- [Building an Experimental eBPF Firewall in Rust &lpar;XDP + Heuristic Risk Scoring&rpar;](https://dev.to/n1ghtm4r33/building-an-experimental-ebpf-firewall-in-rust-xdp-heuristic-risk-scoring-phn)
+- [The Secret to Faster Picking in Business Central: Automate Warehouse Picks with One Click](https://dev.to/insight_works/the-secret-to-faster-picking-in-business-central-automate-warehouse-picks-with-one-click-39a7)
 - [Why &quot;Best Practices&quot; &amp; Frameworks Are Keeping You Junior](https://dev.to/pmbanugo/why-best-practices-frameworks-are-keeping-you-junior-3ho7)
-- [Refactoring Legacy: Part 1 - DTO&#39;s &amp; Value Objects](https://dev.to/clegginabox/refactoring-legacy-part-1-dtos-value-objects-2i30)
-- [🌙 New Blog Drop: When Your Boss Tells You to Make Magic in One Year — The Majora’s Mask Story](https://dev.to/blaze_faisal/new-blog-drop-when-your-boss-tells-you-to-make-magic-in-one-year-the-majoras-mask-story-470f)
-- [**Titular: &quot;Avanza con Transparencia: Evalúe TarantulaHawk](https://dev.to/drcarlosruizviquez/titular-avanza-con-transparencia-evalue-tarantulahawk-2e24)
-- [Why Pub/Sub Is the Architecture Trick Every Developer Should Know](https://dev.to/vatukah/why-pubsub-is-the-architecture-trick-every-developer-should-know-1i8k)
+- [Build a REAL-TIME Multiplayer Game with Laravel, Livewire &amp; Reverb!](https://dev.to/burtds/build-a-real-time-multiplayer-game-with-laravel-livewire-reverb-2mfn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
