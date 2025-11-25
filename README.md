@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Log Ordering in Distributed Systems](https://dev.to/temich/log-ordering-in-distributed-systems-3bg0)
-- [What Docker Image Tag Should You Actually Use?](https://dev.to/kyuubang/what-docker-image-tag-should-you-actually-use-f4)
-- [SafeLine: A Modern Take on Self-Hosted Web Application Security](https://dev.to/arina_cholee/safeline-a-modern-take-on-self-hosted-web-application-security-3enl)
-- [Convert millisecond price gaps into real profits](https://dev.to/__354f265b41dafa0d901b/convert-millisecond-price-gaps-into-real-profits-1kn9)
-- [The Art of AI Model Engineering: Fine-Tuning and Context Optimization](https://dev.to/ioweb_961ddefd53bd65fce97/the-art-of-ai-model-engineering-fine-tuning-and-context-optimization-497f)
+- [Launching Pylar - Access Control between Agents and Databases](https://dev.to/hoshang_mehta/launching-pylar-access-control-between-agents-and-databases-21c8)
+- [AWS re:Invent 2025 — Keynotes, how to watch live and more](https://dev.to/aws-builders/aws-reinvent-2025-keynotes-how-to-watch-live-and-more-57po)
+- [How to Evaluate a Lithium Battery Datasheet — A Developer’s Checklist](https://dev.to/docy/how-to-evaluate-a-lithium-battery-datasheet-a-developers-checklist-23kj)
+- [Docker and volumes, EBS, kubernetes](https://dev.to/mohammed_27c42362d82e94dd/docker-and-volumes-ebs-kubernetes-42hj)
+- [Progress Indicators Explained: Types, Variations &amp; Best Practices for SaaS Design](https://dev.to/lollypopdesign/progress-indicators-explained-types-variations-best-practices-for-saas-design-392n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
