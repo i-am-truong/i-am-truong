@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How AI Is Empowering Smarter Digital Marketing Strategies](https://dev.to/kapusto/how-ai-is-empowering-smarter-digital-marketing-strategies-2h8e)
 - [Introducing Redenv - A Zero-Knowledge, End-to-End Encrypted Secret Manager Built for the Serverless Era](https://dev.to/prassamin/introducing-redenv-a-zero-knowledge-end-to-end-encrypted-secret-manager-built-for-the-serverless-48me)
 - [JavaScript Build Tools: Past and Beyond](https://dev.to/increase123/javascript-build-tools-past-and-beyond-34ni)
 - [⚛️ Advanced React Hooks in 2025: Patterns You Should Know](https://dev.to/tahamjp/advanced-react-hooks-in-2025-patterns-you-should-know-2e4n)
 - [Launch Your Own Coding Bootcamp: How Developers Can Teach and Earn](https://dev.to/softwaredeveloperhub01/launch-your-own-coding-bootcamp-how-developers-can-teach-and-earn-3dne)
-- [FinOps For Agentic: How To Capture Token Usage Cost Across LLMs](https://dev.to/thenjdevopsguy/finops-for-agentic-how-to-capture-token-usage-cost-across-llms-5fco)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
