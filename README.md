@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Zero-Effort ER Diagrams in Django: Auto-Generate Directly From Your Models](https://dev.to/ajitkumar/zero-effort-er-diagrams-in-django-auto-generate-directly-from-your-models-1ji3)
-- [How to Calculate Returns When Investing Using a SIP Calculator](https://dev.to/aisha_mehra_d0f134c62a79b/how-to-calculate-returns-when-investing-using-a-sip-calculator-2fco)
-- [Opus 4.5 is Here: We’re Loving It](https://dev.to/kilocode/opus-45-is-here-were-loving-it-40ca)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-2dco)
-- [The Smart Home Uprising](https://dev.to/rawveg/the-smart-home-uprising-2gna)
+- [Understanding How the Internet Works: A Beginner&#39;s Guide to the Client-Server Model and APIs](https://dev.to/thecurlyhairdev/understanding-how-the-internet-works-a-beginners-guide-to-the-client-server-model-and-apis-2f18)
+- [The Scale Trap: How Tech Teams Went from Solving Problems to Debugging Their Own Bloat](https://dev.to/j4s0nc/the-scale-trap-how-tech-teams-went-from-solving-problems-to-debugging-their-own-bloat-2072)
+- [How Sellers Prepare Agencies Websites for Sale](https://dev.to/suddhajit_links_4ee9b6582/how-sellers-prepare-agencies-websites-for-sale-5c3e)
+- [A look at Aikido&#39;s first launch on Product Hunt](https://dev.to/fmerian/a-look-at-aikidos-first-launch-on-product-hunt-3mdn)
+- [Cron Jobs vs Real Task Schedulers: A Love Story](https://dev.to/elvissautet/cron-jobs-vs-real-task-schedulers-a-love-story-1fka)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
