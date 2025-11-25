@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Clean Code Mastery: Part 6 - Code Structure and Logic Flow That Makes Sense](https://dev.to/sizan_mahmud0_e7c3fd0cb68/javascript-clean-code-mastery-part-6-code-structure-and-logic-flow-that-makes-sense-5g0g)
-- [It Depends: Modernizing Dependency Management in the age of AI](https://dev.to/prince_of_pasta/it-depends-modernizing-dependency-management-in-the-age-of-ai-fic)
-- [JavaScript Clean Code Mastery: Part 5 - Array Methods and Immutability That Transform Your Code](https://dev.to/sizan_mahmud0_e7c3fd0cb68/javascript-clean-code-mastery-part-5-array-methods-and-immutability-that-transform-your-code-34mb)
-- [The Developer&#39;s Guide to Resume Writing: How to Write a Software Engineer Resume That Passes ATS and Impresses Recruiters](https://dev.to/writerz/the-developers-guide-to-resume-writing-how-to-write-a-software-engineer-resume-that-passes-ats-34in)
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-15gd)
+- [Nanophotonic AI: From Lab to Lightsaber &lpar;Maybe!&rpar;](https://dev.to/arvind_sundararajan/nanophotonic-ai-from-lab-to-lightsaber-maybe-4al5)
+- [AI vs ML vs LLMs - Why We Keep Mixing Them Up &lpar;And How to Finally Understand Them&rpar;](https://dev.to/codebyturkan/ai-vs-ml-vs-llms-why-we-keep-mixing-them-up-and-how-to-finally-understand-them-2918)
+- [How do you integrate Tableau and R?](https://dev.to/dipti_m_2e7ba36c478d1a48a/how-do-you-integrate-tableau-and-r-j23)
+- [JavaScript Clean Code Mastery: Part 7 - Real-World Refactoring and Tools &lpar;Series Finale!&rpar;](https://dev.to/sizan_mahmud0_e7c3fd0cb68/javascript-clean-code-mastery-part-7-real-world-refactoring-and-tools-series-finale-3lf7)
+- [Santa Came Early: I Just Published a Rust Crate and CLI Tool to Take Care of AI Markdown Citations for Good](https://dev.to/opensite/santa-came-early-i-just-published-a-rust-crate-and-cli-tool-to-take-care-of-ai-markdown-citations-521h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
