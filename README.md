@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Lithium Batteries Fail](https://dev.to/docy/why-lithium-batteries-fail-1ijf)
-- [England&#39;s Circular Economy Growth Plan: What it Means for CRE](https://dev.to/wastify_ai/englands-circular-economy-growth-plan-what-it-means-for-cre-167)
-- [The Ultimate Guide to Keyboard Sizes and Layouts: Everything You Need to Know](https://dev.to/mysticcoder/the-ultimate-guide-to-keyboard-sizes-and-layouts-everything-you-need-to-know-13ee)
-- [ApidogのAIテスト生成機能が便利だった話](https://dev.to/nakamura_takuya/apidognoaitesutosheng-cheng-ji-neng-gabian-li-datutahua-c36)
-- [Apidog MCPサーバー入門：AIとAPIをつなぐ新しい開発ワークフロー](https://dev.to/nakamura_takuya/apidog-mcpsabaru-men-aitoapiwotunaguxin-siikai-fa-wakuhuro-2g4n)
+- [How Edge Computing Enables Real-Time Digital Transformation](https://dev.to/millipixels1/how-edge-computing-enables-real-time-digital-transformation-2gjk)
+- [Azure Storage Mover: How to migrate files from AWS S3 to Azure](https://dev.to/techielass/azure-storage-mover-how-to-migrate-files-from-aws-s3-to-azure-3cep)
+- [How to deploy a PHP application in InfinityFree](https://dev.to/royadeveloper01/how-to-deploy-a-php-application-in-infinityfree-2cc5)
+- [Ringer Movies: ‘Two for the Money’ With Bill Simmons, Chris Ryan, and Cousin Sal | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-two-for-the-money-with-bill-simmons-chris-ryan-and-cousin-sal-the-rewatchables-4gj8)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-1m79)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
