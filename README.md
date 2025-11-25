@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Discover koalaz: a simple npm package to generate mock data about koalas!](https://dev.to/mattqdev/discover-koalaz-a-simple-npm-package-to-generate-mock-data-about-koalas-4pa3)
+- [21+ Best Free Tailwind v4 UI Kits and Component Libraries](https://dev.to/yucelfaruksahan/21-best-free-tailwind-v4-ui-kits-and-component-libraries-2blo)
 - [Deploying My First Task Automation App — Lessons Learned and Tips for Beginners](https://dev.to/dillionhuston/deploying-my-first-task-automation-app-lessons-learned-and-tips-for-beginners-4dpl)
 - [The Agent Factory podcast: 5 Episodes to Kickstart Your Journey to Production AI](https://dev.to/googleai/the-agent-factory-podcast-5-episodes-to-kickstart-your-journey-to-production-ai-35ml)
-- [AWS Blu Age Modernization: My Journey Through All 3 Certification Levels](https://dev.to/debapriya_dey_aada54b7766/aws-blu-age-modernization-my-journey-through-all-3-certification-levels-18c5)
-- [✅ *Authentication &amp; Authorization Basics* 🔐🌐](https://dev.to/ssekabirarobertsims/authentication-authorization-basics-3o6g)
-- [I Treated My Team Like Customers and Became a Better Manager](https://dev.to/secur3-et/i-treated-my-team-like-customers-and-became-a-better-manager-18mj)
+- [Preparing Your Business for Scalability: Technical &amp; Process Considerations](https://dev.to/anushka_verma_55f24984a90/preparing-your-business-for-scalability-technical-process-considerations-10a6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
