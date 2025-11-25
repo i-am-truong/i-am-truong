@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Announcing Cloud SQL free trial instances: Experience the power of a fully managed database](https://dev.to/googleai/announcing-cloud-sql-free-trial-instances-experience-the-power-of-a-fully-managed-database-2fbf)
-- [Building a Comprehensive E2E Test Suite with Playwright: Lessons from 100+ Test Cases](https://dev.to/bugslayer/building-a-comprehensive-e2e-test-suite-with-playwright-lessons-from-100-test-cases-171k)
-- [REST vs GraphQL: Why I Use Both &lpar;And You Probably Should Too&rpar;](https://dev.to/chizihn/rest-vs-graphql-why-i-use-both-and-you-probably-should-too-28a0)
-- [Build Your Own Chat Application with Ollama Cloud Models and Chainlit](https://dev.to/coderforfun/build-your-own-chat-application-with-ollama-cloud-models-and-chainlit-15co)
-- [The Complete Developer’s Guide to GraphRAG, LightRAG, and AgenticRAG](https://dev.to/superorange0707/the-complete-developers-guide-to-graphrag-lightrag-and-agenticrag-14go)
+- [SHA1-Hulud, npm supply chain incident](https://dev.to/snyk/sha1-hulud-npm-supply-chain-incident-1kap)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-2g7h)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-573h)
+- [Liquid Round Button Animation](https://dev.to/jubayid_hassan_734b7ff1de/liquid-round-button-animation-16j7)
+- [GoogleのAIエディタ「Antigravity」を触ってみた！設定やワークフローも解説](https://dev.to/beachone1155/googlenoaiedeitaantigravity-wohong-tutemitashe-ding-yawakuhuromojie-shuo-2lll)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
