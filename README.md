@@ -120,14 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Monitor All Your Git Projects at Once](https://dev.to/uralys/monitor-all-your-git-projects-at-once-1a33)
+- [NoMarkdown Tool Release](https://dev.to/japroger/nomarkdown-tool-release-5hb0)
+- [Deno CLI Not Parsing Options After Target Files](https://dev.to/whyang9701/deno-cli-not-parsing-options-after-target-files-4k5e)
 - [⭐ Build &quot;AI Moodboards From Tweets&quot; Using the Contentdrips API](https://dev.to/amna_anjum_2f911c0a1a4640/build-ai-moodboards-from-tweets-using-the-contentdrips-api-2e8h)
 - [Concorrência em Go: Goroutines e Channels Easy](https://dev.to/dev-araujo/concorrencia-em-go-goroutines-e-channels-easy-i8g)
-- [Yay, I&#39;ve been featured on the top 7 for the very first time! Thanks DEV ❤️](https://dev.to/dennistraub/yay-ive-been-featured-on-the-top-7-for-the-very-first-time-thanks-dev-4i04)
-- [Building a Full-Stack Class Dues Tracker: Lessons from Real-World Problem Solving](https://dev.to/wishot_cipher/building-a-full-stack-class-dues-tracker-lessons-from-real-world-problem-solving-4482)
-- [Ever had your API calls fire way too often in a Next.js app? 😅
-I wrote about how a simple useDebounce hook can smooth things out, boost performance, and keep your UI calm.
-
-Read more 👇](https://dev.to/yosolita1978/ever-had-your-api-calls-fire-way-too-often-in-a-nextjs-app-i-wrote-about-how-a-simple-5b51)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
