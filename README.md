@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Announcing Cloud SQL free trial instances: Experience the power of a fully managed database](https://dev.to/googleai/announcing-cloud-sql-free-trial-instances-experience-the-power-of-a-fully-managed-database-2fbf)
+- [Building a Comprehensive E2E Test Suite with Playwright: Lessons from 100+ Test Cases](https://dev.to/bugslayer/building-a-comprehensive-e2e-test-suite-with-playwright-lessons-from-100-test-cases-171k)
 - [REST vs GraphQL: Why I Use Both &lpar;And You Probably Should Too&rpar;](https://dev.to/chizihn/rest-vs-graphql-why-i-use-both-and-you-probably-should-too-28a0)
 - [Build Your Own Chat Application with Ollama Cloud Models and Chainlit](https://dev.to/coderforfun/build-your-own-chat-application-with-ollama-cloud-models-and-chainlit-15co)
 - [The Complete Developer’s Guide to GraphRAG, LightRAG, and AgenticRAG](https://dev.to/superorange0707/the-complete-developers-guide-to-graphrag-lightrag-and-agenticrag-14go)
-- [Devs Who Get Hired First Do One Thing Differently](https://dev.to/brandonkylebailey/devs-who-get-hired-first-do-one-thing-differently-5eok)
-- [Erase &amp; Protect: Face Anonymization Without the AI Training Hassle by Arvind Sundararajan](https://dev.to/arvind_sundararajan/erase-protect-face-anonymization-without-the-ai-training-hassle-by-arvind-sundararajan-95p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
