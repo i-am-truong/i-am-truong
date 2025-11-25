@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[Boost]](https://dev.to/dev-araujo/-3kdk)
+- [Monte Carlo Neural Operators: Democratizing Physics Simulations by Arvind Sundararajan](https://dev.to/arvind_sundararajan/monte-carlo-neural-operators-democratizing-physics-simulations-by-arvind-sundararajan-595d)
 - [Go full stack web app tutorial with sqlc and htmx. Part 1](https://dev.to/zaggy/go-full-stack-web-app-tutorial-with-sqlc-and-htmx-part-1-55ag)
 - [New repository engagements page on trendshift.io](https://dev.to/liweiyi88/new-repository-engagements-page-on-trendshiftio-4p8p)
 - [AI&#39;s false start](https://dev.to/stefandorresteijn/ais-false-start-298o)
-- [The Unix Philosophy Was Right All Along: A PIV Analysis of 17 Timeless Rules](https://dev.to/yannick555/the-unix-philosophy-was-right-all-along-a-piv-analysis-of-17-timeless-rules-2l4l)
-- [Best use of AI 2025.](https://dev.to/datawranglerai/best-use-of-ai-2025-4bfn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
