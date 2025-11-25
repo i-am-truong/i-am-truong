@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [2025 Complete Guide: How to Build End-to-End OCR with HunyuanOCR](https://dev.to/czmilo/2025-complete-guide-how-to-build-end-to-end-ocr-with-hunyuanocr-1k8m)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-mcb)
-- [A Practical Guide to Building AI Agents with Java and Spring AI - Part 4 - Add Tools](https://dev.to/yuriybezsonov/a-practical-guide-to-building-ai-agents-with-java-and-spring-ai-part-4-add-tools-3g18)
-- [Ruby on Rails AI Development: Accelerating AI Adoption](https://dev.to/devang1810/ruby-on-rails-ai-development-accelerating-ai-adoption-4g97)
-- [AI Agent Memory: From Manual Implementation to Mem0 to AWS AgentCORE](https://dev.to/sudarshangouda/ai-agent-memory-from-manual-implementation-to-mem0-to-aws-agentcore-2d7c)
+- [Github dockerfile service using AI - Part 1](https://dev.to/codecowboydotio/github-dockerfile-service-using-ai-part-1-1735)
+- [The Gen Z Privilege And The Blind Spot in AI Era](https://dev.to/dlzcods/the-gen-z-privilege-and-the-blind-spot-in-ai-era-58hm)
+- [How Multi-Agent Orchestration Reduces Developer Burnout](https://dev.to/eira-wexford/how-multi-agent-orchestration-reduces-developer-burnout-1g4i)
+- [Frontend Isn’t “Just UI” Anymore](https://dev.to/ashishxcode/frontend-isnt-just-ui-anymore-30a8)
+- [THE NETWORK RENAISSANCE](https://dev.to/peacebinflow/the-network-renaissance-553k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
