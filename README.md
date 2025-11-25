@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Convergent Evolution in AI-Augmented Development](https://dev.to/izzyfuller/convergent-evolution-in-ai-augmented-development-5173)
-- [Deep Dive into Fastjson Deserialization Vulnerabilities: From Principles to Practical Defense](https://dev.to/tiger_smith_9f421b9131db5/deep-dive-into-fastjson-deserialization-vulnerabilities-from-principles-to-practical-defense-2ka6)
-- [Trying out Amazon CloudWatch Network Flow Monitor in EKS](https://dev.to/aws-builders/trying-out-amazon-cloudwatch-network-flow-monitor-in-eks-7pc)
-- [.](https://dev.to/denicmarko/-5g9p)
-- [✨Gemini 3 Pro vs GPT 5.1: Which One Codes Better? 🚀](https://dev.to/composiodev/gemini-3-pro-vs-gpt-51-which-one-codes-better-1nld)
+- [kubectl-ai WebUI: A Visual Way to Use AI for Kubernetes Troubleshooting](https://dev.to/robert_r_7c237256b7614328/kubectl-ai-webui-a-visual-way-to-use-ai-for-kubernetes-troubleshooting-34g6)
+- [Moving Smarter, Not Faster: How Organization Shapes Great Teams](https://dev.to/reenanms/moving-smarter-not-faster-how-organization-shapes-great-teams-2eg6)
+- [Fast and Furious XXV the Missing Modem.](https://dev.to/jarvisscript/fast-and-furious-xxv-the-missing-modem-3ng9)
+- [Managing Zebra Android Devices at Scale: A Practical Guide for Developers &amp; IT Engineers](https://dev.to/gauri_bhosale_f7398ef7373/managing-zebra-android-devices-at-scale-a-practical-guide-for-developers-it-engineers-4h66)
+- [How To Architect A Feature In 5 Minutes Before Talking To AI](https://dev.to/cucoleadan/how-to-architect-a-feature-in-5-minutes-before-talking-to-ai-2on8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
