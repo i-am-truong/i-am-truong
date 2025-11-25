@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How AI Is Empowering Smarter Digital Marketing Strategies](https://dev.to/kapusto/how-ai-is-empowering-smarter-digital-marketing-strategies-2h8e)
-- [Introducing Redenv - A Zero-Knowledge, End-to-End Encrypted Secret Manager Built for the Serverless Era](https://dev.to/prassamin/introducing-redenv-a-zero-knowledge-end-to-end-encrypted-secret-manager-built-for-the-serverless-48me)
-- [JavaScript Build Tools: Past and Beyond](https://dev.to/increase123/javascript-build-tools-past-and-beyond-34ni)
-- [⚛️ Advanced React Hooks in 2025: Patterns You Should Know](https://dev.to/tahamjp/advanced-react-hooks-in-2025-patterns-you-should-know-2e4n)
-- [Launch Your Own Coding Bootcamp: How Developers Can Teach and Earn](https://dev.to/softwaredeveloperhub01/launch-your-own-coding-bootcamp-how-developers-can-teach-and-earn-3dne)
+- [How I Taught GitHub Copilot Code Review to Think Like a Maintainer](https://dev.to/techgirl1908/how-i-taught-github-copilot-code-review-to-think-like-a-maintainer-3l2c)
+- [The End of the &quot;Code Typist&quot;: How I Shipped 10k Lines in 3 Days with AI Agents](https://dev.to/wavecut/the-end-of-the-code-typist-how-i-shipped-10k-lines-in-3-days-with-ai-agents-237c)
+- [How to Work with Feedback in Prompting: A Live Guide with Examples](https://dev.to/petrashka/how-to-work-with-feedback-in-prompting-a-live-guide-with-examples-570p)
+- [Diagrams as Code Just Make Sense](https://dev.to/cgarza/diagrams-as-code-just-make-sense-50on)
+- [10 Claude Code 2.0 Techniques That Turned 3-Week Projects Into 3-Day Sprints](https://dev.to/alireza_rezvani/10-claude-code-20-techniques-that-turned-3-week-projects-into-3-day-sprints-1bpp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
