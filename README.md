@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Is Making Music With Strudel the Last Place Where Coding Still Feels Like… Coding?](https://dev.to/holasoymalva/is-making-music-with-strudel-the-last-place-where-coding-still-feels-like-coding-3jcf)
-- [more nim for embedded software development](https://dev.to/abathargh/more-nim-for-embedded-software-development-27i)
-- [The Database Zoo: Vector Databases and High-Dimensional Search](https://dev.to/gkoos/the-database-zoo-vector-databases-and-high-dimensional-search-596c)
-- [Monitor All Your Git Projects at Once](https://dev.to/uralys/monitor-all-your-git-projects-at-once-1a33)
-- [NoMarkdown Tool Release](https://dev.to/japroger/nomarkdown-tool-release-5hb0)
+- [How to Align Spring Boot Validation Errors with Your JSON Property Naming Strategy](https://dev.to/ibrahimgunduz34/how-to-align-spring-boot-validation-errors-with-your-json-property-naming-strategy-4b83)
+- [Why Execution Matters More Than Ideas in Modern Software Development](https://dev.to/farhannasirdev/why-execution-matters-more-than-ideas-in-modern-software-development-4l5i)
+- [Divergent Work Using GitHub](https://dev.to/stakiran/divergent-work-using-github-2kk8)
+- [🌐 De Cero a una VPC Segura: Despliegue de Aplicaciones Web y RDS sin el Asistente](https://dev.to/franciscojeg78/de-cero-a-una-vpc-segura-despliegue-de-aplicaciones-web-y-rds-sin-el-asistente-4ph)
+- [I Scanned 13 Popular MCP Servers. Here&#39;s What I Found. 🔐](https://dev.to/mcp-fortress/i-scanned-13-popular-mcp-servers-heres-what-i-found-3i3l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
