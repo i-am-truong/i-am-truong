@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Scaling SQLite with Node worker threads and better-sqlite3](https://dev.to/lovestaco/scaling-sqlite-with-node-worker-threads-and-better-sqlite3-4189)
 - [Learning My House One Repair at a Time](https://dev.to/mason-reeve-fixes/learning-my-house-one-repair-at-a-time-4bom)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-e4i)
 - [Install and Run Your Own LLM Locally with Ollama + Gemma in Minutes](https://dev.to/rijultp/install-and-run-your-own-llm-locally-with-ollama-gemma-in-minutes-1m99)
 - [YouTube Vanced in 2025: Dead, But Its Spirit Lives in ReVanced](https://dev.to/finn_bennet_1b4ab69b82fc1/youtube-vanced-in-2025-dead-but-its-spirit-lives-in-revanced-gol)
-- [KingRoot in 2025: The Last One-Click Root Tool Still Alive](https://dev.to/parker_ricci_5d1807fbffcd/kingroot-in-2025-the-last-one-click-root-tool-still-alive-3e39)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
