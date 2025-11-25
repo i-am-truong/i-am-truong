@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🐍 Building an FX Trading Edge: Creating a Python Client for the FXMacroData API](https://dev.to/fxmacrodata/building-an-fx-trading-edge-creating-a-python-client-for-the-fxmacrodata-api-4nnc)
-- [How I Built and Deployed My DevOps Bootcamp Blog with Nginx](https://dev.to/emmanuel_imadetaye_e73f7/how-i-built-and-deployed-my-devops-bootcamp-blog-with-nginx-9o4)
-- [AI Trends for 2026: The Rise of Agents and the New Era of Architecture](https://dev.to/douglas_mor/ai-trends-for-2026-the-rise-of-agents-and-the-new-era-of-architecture-ifg)
-- [Why are you using QWERTY?](https://dev.to/machinehead/why-are-you-using-qwerty-465j)
-- [I Built My DevOps Portfolio on a Killercoda Ubuntu Playground — And It Transformed My Learning](https://dev.to/hansomike/i-built-my-devops-portfolio-on-a-killercoda-ubuntu-playground-and-it-transformed-my-learning-99k)
+- [.](https://dev.to/denicmarko/-5g9p)
+- [✨Gemini 3 Pro vs GPT 5.1: Which One Codes Better? 🚀](https://dev.to/composiodev/gemini-3-pro-vs-gpt-51-which-one-codes-better-1nld)
+- [Code Commenting Convention](https://dev.to/christian_portoghesi_04f1/code-commenting-convention-5e79)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-4o5g)
+- [Deconstructing a Production-Ready AI Agent: A Beginner&#39;s Guide - Part 3](https://dev.to/ladam2000/the-secure-factory-deploying-and-operating-with-amazon-bedrock-agentcore-part-3-3dli)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
