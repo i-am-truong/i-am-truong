@@ -123,8 +123,8 @@ Python                   1 repo              █░░░░░░░░░░�
 - [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-15gd)
 - [ApidogのAIテスト生成機能が便利だった話](https://dev.to/nakamura_takuya/apidognoaitesutosheng-cheng-ji-neng-gabian-li-datutahua-5hn3)
 - [Apidog MCPサーバー入門：AIとAPIをつなぐ新しい開発ワークフロー](https://dev.to/nakamura_takuya/apidog-mcpsabaru-men-aitoapiwotunaguxin-siikai-fa-wakuhuro-opg)
-- [The Rise of AI Powered Search Engines: Which One Really Wins in 2025?](https://dev.to/hitendraa/the-rise-of-ai-powered-search-engines-which-one-really-wins-in-2025-3bm)
 - [I&#39;m writing a book: &quot;The Agent Paradigm&quot;](https://dev.to/connectonion/im-writing-a-book-the-agent-paradigm-5727)
+- [A Developer’s Technical Decision Guide to No-Code and Low-Code &lpar;2026&rpar;](https://dev.to/nocobase/a-developers-technical-decision-guide-to-no-code-and-low-code-2026-2m7h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
