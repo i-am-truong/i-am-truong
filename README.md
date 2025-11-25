@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Edge Computing Enables Real-Time Digital Transformation](https://dev.to/millipixels1/how-edge-computing-enables-real-time-digital-transformation-2gjk)
-- [Azure Storage Mover: How to migrate files from AWS S3 to Azure](https://dev.to/techielass/azure-storage-mover-how-to-migrate-files-from-aws-s3-to-azure-3cep)
-- [How to deploy a PHP application in InfinityFree](https://dev.to/royadeveloper01/how-to-deploy-a-php-application-in-infinityfree-2cc5)
-- [Ringer Movies: ‘Two for the Money’ With Bill Simmons, Chris Ryan, and Cousin Sal | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-two-for-the-money-with-bill-simmons-chris-ryan-and-cousin-sal-the-rewatchables-4gj8)
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-1m79)
+- [✨ Daily Learning Update – Linux Fundamentals 🐧](https://dev.to/sudarshan_yadav/daily-learning-update-linux-fundamentals-2o14)
+- [Voice-First UX: Building AI Agents with Advanced Natural Language and Speech Interfaces](https://dev.to/xccelerance_technologies_/voice-first-ux-building-ai-agents-with-advanced-natural-language-and-speech-interfaces-108j)
+- [Stop Burning Money: Implementing Semantic Caching for LLMs with Redis &amp; Cosine Similarity](https://dev.to/roiting_hacking_4d8d76800/stop-burning-money-implementing-semantic-caching-for-llms-with-redis-cosine-similarity-53a5)
+- [A No-Nonsense C# Async, Threading &amp; Concurrency Guide](https://dev.to/recurpixel/a-no-nonsense-c-async-threading-concurrency-guide-36em)
+- [🎧 The Future of Listening Is Web-Based: How to Build Powerful Audio Streaming Platforms That Users Love](https://dev.to/okoye_ndidiamaka_5e3b7d30/the-future-of-listening-is-web-based-how-to-build-powerful-audio-streaming-platforms-that-users-222l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
