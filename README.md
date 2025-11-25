@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Optimizing Kafka Tracing with OpenTelemetry: Boost Visibility &amp; Performance](https://dev.to/newrelic/optimizing-kafka-tracing-with-opentelemetry-boost-visibility-performance-442j)
+- [How to Analyze Developer Trends Using HackerNews + GitHub Data &lpar;Step-by-Step Tutorial&rpar;](https://dev.to/gittech/how-to-analyze-developer-trends-using-hackernews-github-data-step-by-step-tutorial-e2d)
+- [7 Essential API Design Patterns That Scale: Build Better Web Applications with Code Examples](https://dev.to/aaravjoshi/7-essential-api-design-patterns-that-scale-build-better-web-applications-with-code-examples-2dh)
 - [Scaling SQLite with Node worker threads and better-sqlite3](https://dev.to/lovestaco/scaling-sqlite-with-node-worker-threads-and-better-sqlite3-4189)
 - [Learning My House One Repair at a Time](https://dev.to/mason-reeve-fixes/learning-my-house-one-repair-at-a-time-4bom)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-e4i)
-- [Install and Run Your Own LLM Locally with Ollama + Gemma in Minutes](https://dev.to/rijultp/install-and-run-your-own-llm-locally-with-ollama-gemma-in-minutes-1m99)
-- [YouTube Vanced in 2025: Dead, But Its Spirit Lives in ReVanced](https://dev.to/finn_bennet_1b4ab69b82fc1/youtube-vanced-in-2025-dead-but-its-spirit-lives-in-revanced-gol)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
