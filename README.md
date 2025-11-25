@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI&#39;s false start](https://dev.to/stefandorresteijn/ais-false-start-298o)
+- [30 Days of Terraform – Day 1: Introduction to Infrastructure as Code](https://dev.to/dockrphage/30-days-of-terraform-day-1-introduction-to-infrastructure-as-code-55lm)
 - [The Secret Life of Go: Functions](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-functions-2mk1)
 - [Contract-Testing TM Forum Open APIs with Pact + Postman: Stop Breaking Your BSS](https://dev.to/yacine_s/contract-testing-tm-forum-open-apis-with-pact-postman-stop-breaking-your-bss-3hh2)
 - [Securing Azure APIM MCP Servers in Production](https://dev.to/itsrene/securing-azure-apim-mcp-servers-in-production-3gd3)
-- [Ringer Movies: ‘Two for the Money’ With Bill Simmons, Chris Ryan, and Cousin Sal | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-two-for-the-money-with-bill-simmons-chris-ryan-and-cousin-sal-the-rewatchables-2d7n)
-- [Discover koalaz: a simple npm package to generate mock data about koalas!](https://dev.to/mattqdev/discover-koalaz-a-simple-npm-package-to-generate-mock-data-about-koalas-4pa3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
