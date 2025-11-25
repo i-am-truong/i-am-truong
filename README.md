@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [England&#39;s Circular Economy Growth Plan: What it Means for CRE](https://dev.to/wastify_ai/englands-circular-economy-growth-plan-what-it-means-for-cre-167)
 - [Launching Pylar - Access Control between Agents and Databases](https://dev.to/hoshang_mehta/launching-pylar-access-control-between-agents-and-databases-21c8)
 - [AWS re:Invent 2025 — Keynotes, how to watch live and more](https://dev.to/aws-builders/aws-reinvent-2025-keynotes-how-to-watch-live-and-more-57po)
 - [How to Evaluate a Lithium Battery Datasheet — A Developer’s Checklist](https://dev.to/docy/how-to-evaluate-a-lithium-battery-datasheet-a-developers-checklist-23kj)
 - [Docker and volumes, EBS, kubernetes](https://dev.to/mohammed_27c42362d82e94dd/docker-and-volumes-ebs-kubernetes-42hj)
-- [Progress Indicators Explained: Types, Variations &amp; Best Practices for SaaS Design](https://dev.to/lollypopdesign/progress-indicators-explained-types-variations-best-practices-for-saas-design-392n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
