@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Taught GitHub Copilot Code Review to Think Like a Maintainer](https://dev.to/techgirl1908/how-i-taught-github-copilot-code-review-to-think-like-a-maintainer-3l2c)
-- [The End of the &quot;Code Typist&quot;: How I Shipped 10k Lines in 3 Days with AI Agents](https://dev.to/wavecut/the-end-of-the-code-typist-how-i-shipped-10k-lines-in-3-days-with-ai-agents-237c)
-- [How to Work with Feedback in Prompting: A Live Guide with Examples](https://dev.to/petrashka/how-to-work-with-feedback-in-prompting-a-live-guide-with-examples-570p)
-- [Diagrams as Code Just Make Sense](https://dev.to/cgarza/diagrams-as-code-just-make-sense-50on)
-- [10 Claude Code 2.0 Techniques That Turned 3-Week Projects Into 3-Day Sprints](https://dev.to/alireza_rezvani/10-claude-code-20-techniques-that-turned-3-week-projects-into-3-day-sprints-1bpp)
+- [The Benefits of Upgrading to an SSD: Boost Your Computer’s Performance](https://dev.to/rapidcellphone/the-benefits-of-upgrading-to-an-ssd-boost-your-computers-performance-4k7c)
+- [UI/UX Design Tips That Can Instantly Improve User Engagement](https://dev.to/aditi_nayak_1524136ebd420/uiux-design-tips-that-can-instantly-improve-user-engagement-i2d)
+- [Selection Sort Simplified: Easy Guide](https://dev.to/saptarshisarkar/selection-sort-simplified-easy-guide-5nf)
+- [Validations and Transformations in Backend Development](https://dev.to/yuktisays/validations-and-transformations-in-backend-development-4h7g)
+- [Understanding Anti-Glare Surfaces: How They Work and Why They Matter](https://dev.to/jasonliu112/understanding-anti-glare-surfaces-how-they-work-and-why-they-matter-1ohn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
