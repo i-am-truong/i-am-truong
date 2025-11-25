@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Refactoring If-Else Hell into a Strategy Pattern in PHP ⚙️](https://dev.to/codecraft_diary_3d13677fb/refactoring-if-else-hell-into-a-strategy-pattern-in-php-1o4p)
-- [Building an Experimental eBPF Firewall in Rust &lpar;XDP + Heuristic Risk Scoring&rpar;](https://dev.to/n1ghtm4r33/building-an-experimental-ebpf-firewall-in-rust-xdp-heuristic-risk-scoring-phn)
-- [The Secret to Faster Picking in Business Central: Automate Warehouse Picks with One Click](https://dev.to/insight_works/the-secret-to-faster-picking-in-business-central-automate-warehouse-picks-with-one-click-39a7)
-- [Why &quot;Best Practices&quot; &amp; Frameworks Are Keeping You Junior](https://dev.to/pmbanugo/why-best-practices-frameworks-are-keeping-you-junior-3ho7)
-- [Build a REAL-TIME Multiplayer Game with Laravel, Livewire &amp; Reverb!](https://dev.to/burtds/build-a-real-time-multiplayer-game-with-laravel-livewire-reverb-2mfn)
+- [Install and Run Your Own LLM Locally with Ollama + Gemma in Minutes](https://dev.to/rijultp/install-and-run-your-own-llm-locally-with-ollama-gemma-in-minutes-1m99)
+- [Building CodePulse: An AI-Powered Multi-Agent System for GitHub Repository Analysis](https://dev.to/shazim_surmawala_2d4726c9/building-codepulse-an-ai-powered-multi-agent-system-for-github-repository-analysis-174)
+- [Error handling in Go](https://dev.to/igor_grieder/error-handling-in-go-3f4o)
+- [🔥Mastering Apache Kafka: Topics, Partitions, Delivery Guarantees &amp; Replication](https://dev.to/ajinkya_singh_2c02bd40423/mastering-apache-kafka-topics-partitions-delivery-guarantees-replication-2937)
+- [Why Every AI Team Needs Automated Evaluation &lpar;Future AGI SDK Overview&rpar;](https://dev.to/devinfo/why-every-ai-team-needs-automated-evaluation-future-agi-sdk-overview-4kke)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
