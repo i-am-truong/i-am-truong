@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Build Modern Parallax &amp; Scroll Effects in SwiftUI](https://dev.to/sebastienlato/how-to-build-modern-parallax-scroll-effects-in-swiftui-20n3)
+- [College student sets up NEOVIM!!!!](https://dev.to/pxtrik/college-student-sets-up-neovim-3dn7)
+- [The Human Habit That Made My AI 40% Smarter](https://dev.to/rishi_mohanty_3ab78a38527/the-human-habit-that-made-my-ai-40-smarter-1emi)
+- [Web Development Best Practices: The Foundation of a Thriving Online Presence](https://dev.to/muhammad_fayzliaqat_cc8b/web-development-best-practices-the-foundation-of-a-thriving-online-presence-3lcj)
 - [Building a Side Project with ADHD: ChatGPT Gaslighting, r/ADHD Bans, and Why I Needed a Friend](https://dev.to/datawranglerai/building-a-side-project-with-adhd-chatgpt-gaslighting-radhd-bans-and-why-i-needed-a-friend-28p6)
-- [[Boost]](https://dev.to/dev-araujo/-3kdk)
-- [Monte Carlo Neural Operators: Democratizing Physics Simulations by Arvind Sundararajan](https://dev.to/arvind_sundararajan/monte-carlo-neural-operators-democratizing-physics-simulations-by-arvind-sundararajan-595d)
-- [Go full stack web app tutorial with sqlc and htmx. Part 1](https://dev.to/zaggy/go-full-stack-web-app-tutorial-with-sqlc-and-htmx-part-1-55ag)
-- [New repository engagements page on trendshift.io](https://dev.to/liweiyi88/new-repository-engagements-page-on-trendshiftio-4p8p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
