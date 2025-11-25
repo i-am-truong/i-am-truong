@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cloud Fax Intelligence: The Hidden Engine Behind Modern Compliance](https://dev.to/allinsightsnews/cloud-fax-intelligence-the-hidden-engine-behind-modern-compliance-4f9h)
-- [From Prototype to Production: The State of Generative AI Development in 2025](https://dev.to/ioweb_961ddefd53bd65fce97/from-prototype-to-production-the-state-of-generative-ai-development-in-2025-4126)
-- [How AI is Reducing Hiring Bias and Promoting Equal Opportunity in Recruitment](https://dev.to/clarient/how-ai-is-reducing-hiring-bias-and-promoting-equal-opportunity-in-recruitment-377m)
-- [Day 01: Why You Can’t Afford to Provision Infrastructure Manually Anymore](https://dev.to/ketan_kanade_eddc807c2065/day-01-why-you-cant-afford-to-provision-infrastructure-manually-anymore-4c53)
-- [What is Laravel Pint?](https://dev.to/laracopilot/what-is-laravel-pint-13ll)
+- [Log Ordering in Distributed Systems](https://dev.to/temich/log-ordering-in-distributed-systems-3bg0)
+- [What Docker Image Tag Should You Actually Use?](https://dev.to/kyuubang/what-docker-image-tag-should-you-actually-use-f4)
+- [SafeLine: A Modern Take on Self-Hosted Web Application Security](https://dev.to/arina_cholee/safeline-a-modern-take-on-self-hosted-web-application-security-3enl)
+- [Convert millisecond price gaps into real profits](https://dev.to/__354f265b41dafa0d901b/convert-millisecond-price-gaps-into-real-profits-1kn9)
+- [The Art of AI Model Engineering: Fine-Tuning and Context Optimization](https://dev.to/ioweb_961ddefd53bd65fce97/the-art-of-ai-model-engineering-fine-tuning-and-context-optimization-497f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
