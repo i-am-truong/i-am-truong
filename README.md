@@ -120,11 +120,13 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The next generation of billion-dollar companies won’t be built in glass offices, with huge teams, layers of management, and complex org charts.
+
+They will be built by 5 people and AI. This isn’t a slogan.](https://dev.to/jaideepparashar/the-next-generation-of-billion-dollar-companies-wont-be-built-in-glass-offices-with-huge-teams-6ph)
+- [ESP32-S3 + TensorFlow Lite Micro: A Practical Guide to Local Wake Word &amp; Edge AI Inference](https://dev.to/zediot/esp32-s3-tensorflow-lite-micro-a-practical-guide-to-local-wake-word-edge-ai-inference-5540)
+- [Why the Next Unicorns Will Be Built With 5 People and AI](https://dev.to/jaideepparashar/why-the-next-unicorns-will-be-built-with-5-people-and-ai-580b)
 - [How Can Native Mobile Banking Apps Reduce App Crashes?](https://dev.to/it-influencer/how-can-native-mobile-banking-apps-reduce-app-crashes-30pn)
 - [React vs ReactDOM: What’s the Difference? A Deep Dive Into How They Actually Work Together](https://dev.to/imsushant12/react-vs-reactdom-whats-the-difference-a-deep-dive-into-how-they-actually-work-together-1gg0)
-- [EXPERIENCE: MINI MICRO](https://dev.to/kartik_patel/experience-mini-micro-4gp4)
-- [Building Multi-Agent Systems on GCP: An Architectural Patterns Framework](https://dev.to/as_siva_0a8ec6e6e375c88b9/building-multi-agent-systems-on-gcp-an-architectural-patterns-framework-40cn)
-- [The Data Engineer’s Codex: From First Principles to the Modern Lakehouse](https://dev.to/datatechbridge/the-data-engineers-codex-from-first-principles-to-the-modern-lakehouse-24h4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
