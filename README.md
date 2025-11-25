@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🐍 Building an FX Trading Edge: Creating a Python Client for the FXMacroData API](https://dev.to/fxmacrodata/building-an-fx-trading-edge-creating-a-python-client-for-the-fxmacrodata-api-4nnc)
+- [How I Built and Deployed My DevOps Bootcamp Blog with Nginx](https://dev.to/emmanuel_imadetaye_e73f7/how-i-built-and-deployed-my-devops-bootcamp-blog-with-nginx-9o4)
+- [AI Trends for 2026: The Rise of Agents and the New Era of Architecture](https://dev.to/douglas_mor/ai-trends-for-2026-the-rise-of-agents-and-the-new-era-of-architecture-ifg)
+- [Why are you using QWERTY?](https://dev.to/machinehead/why-are-you-using-qwerty-465j)
 - [I Built My DevOps Portfolio on a Killercoda Ubuntu Playground — And It Transformed My Learning](https://dev.to/hansomike/i-built-my-devops-portfolio-on-a-killercoda-ubuntu-playground-and-it-transformed-my-learning-99k)
-- [Working 30% on a 100% Job: What I Learned as a Solo Developer](https://dev.to/madsendev/working-30-on-a-100-job-what-i-learned-as-a-solo-developer-4568)
-- [Como Estruturei um Template de AWS Lambda com Terraform e GitHub Actions](https://dev.to/marcos_vile/como-estruturei-um-template-de-aws-lambda-com-terraform-e-github-actions-5hd1)
-- [Como Provisionar Infraestrutura AWS MediaConvert com Terraform](https://dev.to/marcos_vile/como-provisionar-infraestrutura-aws-mediaconvert-com-terraform-1lg)
-- [Choosing the Right Debugging and Session Replay Tool - Multiplayer vs LogRocket, Sentry, Datadog, and FullStory](https://dev.to/andrewbaisden/choosing-the-right-debugging-and-session-replay-tool-multiplayer-vs-logrocket-sentry-datadog-577f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
