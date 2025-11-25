@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New repository engagements page on trendshift.io](https://dev.to/liweiyi88/new-repository-engagements-page-on-trendshiftio-4p8p)
 - [AI&#39;s false start](https://dev.to/stefandorresteijn/ais-false-start-298o)
 - [30 Days of Terraform – Day 1: Introduction to Infrastructure as Code](https://dev.to/dockrphage/30-days-of-terraform-day-1-introduction-to-infrastructure-as-code-55lm)
 - [The Secret Life of Go: Functions](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-functions-2mk1)
 - [Contract-Testing TM Forum Open APIs with Pact + Postman: Stop Breaking Your BSS](https://dev.to/yacine_s/contract-testing-tm-forum-open-apis-with-pact-postman-stop-breaking-your-bss-3hh2)
-- [Securing Azure APIM MCP Servers in Production](https://dev.to/itsrene/securing-azure-apim-mcp-servers-in-production-3gd3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
