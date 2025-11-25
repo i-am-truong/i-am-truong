@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Learning My House One Repair at a Time](https://dev.to/mason-reeve-fixes/learning-my-house-one-repair-at-a-time-4bom)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-e4i)
 - [Install and Run Your Own LLM Locally with Ollama + Gemma in Minutes](https://dev.to/rijultp/install-and-run-your-own-llm-locally-with-ollama-gemma-in-minutes-1m99)
-- [Building CodePulse: An AI-Powered Multi-Agent System for GitHub Repository Analysis](https://dev.to/shazim_surmawala_2d4726c9/building-codepulse-an-ai-powered-multi-agent-system-for-github-repository-analysis-174)
-- [Error handling in Go](https://dev.to/igor_grieder/error-handling-in-go-3f4o)
-- [🔥Mastering Apache Kafka: Topics, Partitions, Delivery Guarantees &amp; Replication](https://dev.to/ajinkya_singh_2c02bd40423/mastering-apache-kafka-topics-partitions-delivery-guarantees-replication-2937)
-- [Why Every AI Team Needs Automated Evaluation &lpar;Future AGI SDK Overview&rpar;](https://dev.to/devinfo/why-every-ai-team-needs-automated-evaluation-future-agi-sdk-overview-4kke)
+- [YouTube Vanced in 2025: Dead, But Its Spirit Lives in ReVanced](https://dev.to/finn_bennet_1b4ab69b82fc1/youtube-vanced-in-2025-dead-but-its-spirit-lives-in-revanced-gol)
+- [KingRoot in 2025: The Last One-Click Root Tool Still Alive](https://dev.to/parker_ricci_5d1807fbffcd/kingroot-in-2025-the-last-one-click-root-tool-still-alive-3e39)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
