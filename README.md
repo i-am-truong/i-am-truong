@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Go full stack web app tutorial with sqlc and htmx. Part 1](https://dev.to/zaggy/go-full-stack-web-app-tutorial-with-sqlc-and-htmx-part-1-55ag)
 - [New repository engagements page on trendshift.io](https://dev.to/liweiyi88/new-repository-engagements-page-on-trendshiftio-4p8p)
 - [AI&#39;s false start](https://dev.to/stefandorresteijn/ais-false-start-298o)
-- [30 Days of Terraform – Day 1: Introduction to Infrastructure as Code](https://dev.to/dockrphage/30-days-of-terraform-day-1-introduction-to-infrastructure-as-code-55lm)
-- [The Secret Life of Go: Functions](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-functions-2mk1)
-- [Contract-Testing TM Forum Open APIs with Pact + Postman: Stop Breaking Your BSS](https://dev.to/yacine_s/contract-testing-tm-forum-open-apis-with-pact-postman-stop-breaking-your-bss-3hh2)
+- [The Unix Philosophy Was Right All Along: A PIV Analysis of 17 Timeless Rules](https://dev.to/yannick555/the-unix-philosophy-was-right-all-along-a-piv-analysis-of-17-timeless-rules-2l4l)
+- [Best use of AI 2025.](https://dev.to/datawranglerai/best-use-of-ai-2025-4bfn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
