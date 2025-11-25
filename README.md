@@ -120,11 +120,14 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing Kafka Tracing with OpenTelemetry: Boost Visibility &amp; Performance](https://dev.to/newrelic/optimizing-kafka-tracing-with-opentelemetry-boost-visibility-performance-442j)
-- [How to Analyze Developer Trends Using HackerNews + GitHub Data &lpar;Step-by-Step Tutorial&rpar;](https://dev.to/gittech/how-to-analyze-developer-trends-using-hackernews-github-data-step-by-step-tutorial-e2d)
-- [7 Essential API Design Patterns That Scale: Build Better Web Applications with Code Examples](https://dev.to/aaravjoshi/7-essential-api-design-patterns-that-scale-build-better-web-applications-with-code-examples-2dh)
-- [Scaling SQLite with Node worker threads and better-sqlite3](https://dev.to/lovestaco/scaling-sqlite-with-node-worker-threads-and-better-sqlite3-4189)
-- [Learning My House One Repair at a Time](https://dev.to/mason-reeve-fixes/learning-my-house-one-repair-at-a-time-4bom)
+- [⭐ Build &quot;AI Moodboards From Tweets&quot; Using the Contentdrips API](https://dev.to/amna_anjum_2f911c0a1a4640/build-ai-moodboards-from-tweets-using-the-contentdrips-api-2e8h)
+- [Concorrência em Go: Goroutines e Channels Easy](https://dev.to/dev-araujo/concorrencia-em-go-goroutines-e-channels-easy-i8g)
+- [Yay, I&#39;ve been featured on the top 7 for the very first time! Thanks DEV ❤️](https://dev.to/dennistraub/yay-ive-been-featured-on-the-top-7-for-the-very-first-time-thanks-dev-4i04)
+- [Building a Full-Stack Class Dues Tracker: Lessons from Real-World Problem Solving](https://dev.to/wishot_cipher/building-a-full-stack-class-dues-tracker-lessons-from-real-world-problem-solving-4482)
+- [Ever had your API calls fire way too often in a Next.js app? 😅
+I wrote about how a simple useDebounce hook can smooth things out, boost performance, and keep your UI calm.
+
+Read more 👇](https://dev.to/yosolita1978/ever-had-your-api-calls-fire-way-too-often-in-a-nextjs-app-i-wrote-about-how-a-simple-5b51)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
