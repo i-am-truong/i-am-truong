@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Redis: The Complete Developer’s Guide to the Fastest Data Store in the World](https://dev.to/farhadrahimiklie/redis-the-complete-developers-guide-to-the-fastest-data-store-in-the-world-iio)
-- [Using Gemini CLI Through LiteLLM Proxy](https://dev.to/polar3130/using-gemini-cli-through-litellm-proxy-1627)
-- [What’s AI&#39;s impact on white-collar jobs and layoffs?](https://dev.to/jay_all_day/whats-ais-impact-on-white-collar-jobs-and-layoffs-56p8)
-- [[Boost]](https://dev.to/tony_d555/-30jl)
-- [Amazon Q - Kiro-dev](https://dev.to/gara501/amazon-q-kiro-dev-faj)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-15gd)
+- [ApidogのAIテスト生成機能が便利だった話](https://dev.to/nakamura_takuya/apidognoaitesutosheng-cheng-ji-neng-gabian-li-datutahua-5hn3)
+- [Apidog MCPサーバー入門：AIとAPIをつなぐ新しい開発ワークフロー](https://dev.to/nakamura_takuya/apidog-mcpsabaru-men-aitoapiwotunaguxin-siikai-fa-wakuhuro-opg)
+- [The Rise of AI Powered Search Engines: Which One Really Wins in 2025?](https://dev.to/hitendraa/the-rise-of-ai-powered-search-engines-which-one-really-wins-in-2025-3bm)
+- [I&#39;m writing a book: &quot;The Agent Paradigm&quot;](https://dev.to/connectonion/im-writing-a-book-the-agent-paradigm-5727)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
