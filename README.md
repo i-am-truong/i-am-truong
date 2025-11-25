@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Is Making Music With Strudel the Last Place Where Coding Still Feels Like… Coding?](https://dev.to/holasoymalva/is-making-music-with-strudel-the-last-place-where-coding-still-feels-like-coding-3jcf)
+- [more nim for embedded software development](https://dev.to/abathargh/more-nim-for-embedded-software-development-27i)
+- [The Database Zoo: Vector Databases and High-Dimensional Search](https://dev.to/gkoos/the-database-zoo-vector-databases-and-high-dimensional-search-596c)
 - [Monitor All Your Git Projects at Once](https://dev.to/uralys/monitor-all-your-git-projects-at-once-1a33)
 - [NoMarkdown Tool Release](https://dev.to/japroger/nomarkdown-tool-release-5hb0)
-- [Deno CLI Not Parsing Options After Target Files](https://dev.to/whyang9701/deno-cli-not-parsing-options-after-target-files-4k5e)
-- [⭐ Build &quot;AI Moodboards From Tweets&quot; Using the Contentdrips API](https://dev.to/amna_anjum_2f911c0a1a4640/build-ai-moodboards-from-tweets-using-the-contentdrips-api-2e8h)
-- [Concorrência em Go: Goroutines e Channels Easy](https://dev.to/dev-araujo/concorrencia-em-go-goroutines-e-channels-easy-i8g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
