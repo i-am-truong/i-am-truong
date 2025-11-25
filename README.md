@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [kubectl-ai WebUI: A Visual Way to Use AI for Kubernetes Troubleshooting](https://dev.to/robert_r_7c237256b7614328/kubectl-ai-webui-a-visual-way-to-use-ai-for-kubernetes-troubleshooting-34g6)
-- [Moving Smarter, Not Faster: How Organization Shapes Great Teams](https://dev.to/reenanms/moving-smarter-not-faster-how-organization-shapes-great-teams-2eg6)
-- [Fast and Furious XXV the Missing Modem.](https://dev.to/jarvisscript/fast-and-furious-xxv-the-missing-modem-3ng9)
-- [Managing Zebra Android Devices at Scale: A Practical Guide for Developers &amp; IT Engineers](https://dev.to/gauri_bhosale_f7398ef7373/managing-zebra-android-devices-at-scale-a-practical-guide-for-developers-it-engineers-4h66)
-- [How To Architect A Feature In 5 Minutes Before Talking To AI](https://dev.to/cucoleadan/how-to-architect-a-feature-in-5-minutes-before-talking-to-ai-2on8)
+- [⚛️ Advanced React Hooks in 2025: Patterns You Should Know](https://dev.to/tahamjp/advanced-react-hooks-in-2025-patterns-you-should-know-2e4n)
+- [Launch Your Own Coding Bootcamp: How Developers Can Teach and Earn](https://dev.to/softwaredeveloperhub01/launch-your-own-coding-bootcamp-how-developers-can-teach-and-earn-3dne)
+- [FinOps For Agentic: How To Capture Token Usage Cost Across LLMs](https://dev.to/thenjdevopsguy/finops-for-agentic-how-to-capture-token-usage-cost-across-llms-5fco)
+- [Building a Topic Frequency Chart from Google News Headlines](https://dev.to/hasdata_com/building-a-topic-frequency-chart-from-google-news-headlines-4i47)
+- [Uma jornada ao Trunk-Based Development](https://dev.to/ffmmjj/uma-jornada-ao-trunk-based-development-2n06)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
