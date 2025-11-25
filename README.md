@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Convergent Evolution in AI-Augmented Development](https://dev.to/izzyfuller/convergent-evolution-in-ai-augmented-development-5173)
+- [Deep Dive into Fastjson Deserialization Vulnerabilities: From Principles to Practical Defense](https://dev.to/tiger_smith_9f421b9131db5/deep-dive-into-fastjson-deserialization-vulnerabilities-from-principles-to-practical-defense-2ka6)
+- [Trying out Amazon CloudWatch Network Flow Monitor in EKS](https://dev.to/aws-builders/trying-out-amazon-cloudwatch-network-flow-monitor-in-eks-7pc)
 - [.](https://dev.to/denicmarko/-5g9p)
 - [✨Gemini 3 Pro vs GPT 5.1: Which One Codes Better? 🚀](https://dev.to/composiodev/gemini-3-pro-vs-gpt-51-which-one-codes-better-1nld)
-- [Code Commenting Convention](https://dev.to/christian_portoghesi_04f1/code-commenting-convention-5e79)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-4o5g)
-- [Deconstructing a Production-Ready AI Agent: A Beginner&#39;s Guide - Part 3](https://dev.to/ladam2000/the-secure-factory-deploying-and-operating-with-amazon-bedrock-agentcore-part-3-3dli)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
