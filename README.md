@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Benefits of Upgrading to an SSD: Boost Your Computer’s Performance](https://dev.to/rapidcellphone/the-benefits-of-upgrading-to-an-ssd-boost-your-computers-performance-4k7c)
-- [UI/UX Design Tips That Can Instantly Improve User Engagement](https://dev.to/aditi_nayak_1524136ebd420/uiux-design-tips-that-can-instantly-improve-user-engagement-i2d)
-- [Selection Sort Simplified: Easy Guide](https://dev.to/saptarshisarkar/selection-sort-simplified-easy-guide-5nf)
-- [Validations and Transformations in Backend Development](https://dev.to/yuktisays/validations-and-transformations-in-backend-development-4h7g)
-- [Understanding Anti-Glare Surfaces: How They Work and Why They Matter](https://dev.to/jasonliu112/understanding-anti-glare-surfaces-how-they-work-and-why-they-matter-1ohn)
+- [RESTful – Pílula 4 – Identificadores e o uso de UUIDs em APIs REST](https://dev.to/andersoncontreira/restful-pilula-4-identificadores-e-o-uso-de-uuids-em-apis-rest-186)
+- [Designing Trust: UX Principles in Fintech Apps](https://dev.to/pocketportfolioapp/designing-trust-ux-principles-in-fintech-apps-2gfo)
+- [GA4 Custom Reporting: Stop Building Dashboards Nobody Uses](https://dev.to/synergistdigitalmedia/ga4-custom-reporting-stop-building-dashboards-nobody-uses-16m0)
+- [I made my resume site. It wasn’t that deep.](https://dev.to/armaansucks/i-made-my-resume-site-it-wasnt-that-deep-262e)
+- [Top Data Science Tools You Should Learn in 2025 🚀](https://dev.to/techgenius/top-data-science-tools-you-should-learn-in-2025-co4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
