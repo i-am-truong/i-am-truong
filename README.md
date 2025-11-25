@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Software Developer Salary in India 2025: Breaking Down CTC, Location, and In-Demand Skills](https://dev.to/sahejan_palla_jobgrin/software-developer-salary-in-india-2025-breaking-down-ctc-location-and-in-demand-skills-351e)
 - [Does AI Generate Accessible Android Apps?](https://dev.to/eevajonnapanula/does-ai-generate-accessible-android-apps-2gb5)
+- [Building fast in Angular with Zard UI Tailwind CSS Signals and NgRx](https://dev.to/hassantayyab/building-fast-in-angular-with-zard-ui-tailwind-css-signals-and-ngrx-57ld)
 - [Switching to Zed: Made my own VSCode-Rest utility](https://dev.to/vikkio88/switching-to-zed-made-my-own-vscode-rest-utility-788)
 - [Do You Need a Mobile App to Access Apple Health Data? &lpar;Short Answer: Yes&rpar;](https://dev.to/momentumai/do-you-need-a-mobile-app-to-access-apple-health-data-short-answer-yes-joe)
-- [The Ultimate CSS Roadmap: Learn Step by Step](https://dev.to/devshefali/the-ultimate-css-roadmap-learn-step-by-step-440c)
-- [How Developers Work Faster With Multi-Model Tools](https://dev.to/rohit_gavali_0c2ad84fe4e0/how-developers-work-faster-with-multi-model-tools-11f6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
