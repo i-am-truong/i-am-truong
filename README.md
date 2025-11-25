@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding How the Internet Works: A Beginner&#39;s Guide to the Client-Server Model and APIs](https://dev.to/thecurlyhairdev/understanding-how-the-internet-works-a-beginners-guide-to-the-client-server-model-and-apis-2f18)
-- [The Scale Trap: How Tech Teams Went from Solving Problems to Debugging Their Own Bloat](https://dev.to/j4s0nc/the-scale-trap-how-tech-teams-went-from-solving-problems-to-debugging-their-own-bloat-2072)
-- [How Sellers Prepare Agencies Websites for Sale](https://dev.to/suddhajit_links_4ee9b6582/how-sellers-prepare-agencies-websites-for-sale-5c3e)
-- [A look at Aikido&#39;s first launch on Product Hunt](https://dev.to/fmerian/a-look-at-aikidos-first-launch-on-product-hunt-3mdn)
-- [Cron Jobs vs Real Task Schedulers: A Love Story](https://dev.to/elvissautet/cron-jobs-vs-real-task-schedulers-a-love-story-1fka)
+- [I Built My DevOps Portfolio on a Killercoda Ubuntu Playground — And It Transformed My Learning](https://dev.to/hansomike/i-built-my-devops-portfolio-on-a-killercoda-ubuntu-playground-and-it-transformed-my-learning-99k)
+- [Working 30% on a 100% Job: What I Learned as a Solo Developer](https://dev.to/madsendev/working-30-on-a-100-job-what-i-learned-as-a-solo-developer-4568)
+- [Como Estruturei um Template de AWS Lambda com Terraform e GitHub Actions](https://dev.to/marcos_vile/como-estruturei-um-template-de-aws-lambda-com-terraform-e-github-actions-5hd1)
+- [Como Provisionar Infraestrutura AWS MediaConvert com Terraform](https://dev.to/marcos_vile/como-provisionar-infraestrutura-aws-mediaconvert-com-terraform-1lg)
+- [Choosing the Right Debugging and Session Replay Tool - Multiplayer vs LogRocket, Sentry, Datadog, and FullStory](https://dev.to/andrewbaisden/choosing-the-right-debugging-and-session-replay-tool-multiplayer-vs-logrocket-sentry-datadog-577f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
