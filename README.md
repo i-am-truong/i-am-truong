@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Le potentiel rôle de Dieu dans notre sort &lpar;Pensée libre Pt II&rpar;](https://dev.to/elvisans/le-potentiel-role-de-dieu-dans-notre-sort-pensee-libre-pt-ii-3cje)
+- [AWS CDK Introduces Mixins: A Major Feature for Flexible Construct Composition &lpar;Developer Preview&rpar;](https://dev.to/aws-heroes/aws-cdk-introduces-mixins-a-major-feature-for-flexible-construct-composition-developer-preview-583d)
 - [Github dockerfile service using AI - Part 1](https://dev.to/codecowboydotio/github-dockerfile-service-using-ai-part-1-1735)
 - [The Gen Z Privilege And The Blind Spot in AI Era](https://dev.to/dlzcods/the-gen-z-privilege-and-the-blind-spot-in-ai-era-58hm)
 - [How Multi-Agent Orchestration Reduces Developer Burnout](https://dev.to/eira-wexford/how-multi-agent-orchestration-reduces-developer-burnout-1g4i)
-- [Frontend Isn’t “Just UI” Anymore](https://dev.to/ashishxcode/frontend-isnt-just-ui-anymore-30a8)
-- [THE NETWORK RENAISSANCE](https://dev.to/peacebinflow/the-network-renaissance-553k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
