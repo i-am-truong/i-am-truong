@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SHA1-Hulud, npm supply chain incident](https://dev.to/snyk/sha1-hulud-npm-supply-chain-incident-1kap)
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-2g7h)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-573h)
-- [Liquid Round Button Animation](https://dev.to/jubayid_hassan_734b7ff1de/liquid-round-button-animation-16j7)
-- [GoogleのAIエディタ「Antigravity」を触ってみた！設定やワークフローも解説](https://dev.to/beachone1155/googlenoaiedeitaantigravity-wohong-tutemitashe-ding-yawakuhuromojie-shuo-2lll)
+- [HTTP vs HTTPS vs TCP vs UDP](https://dev.to/sreekanth_kuruba_91721e5d/http-vs-https-vs-tcp-vs-udp-41d6)
+- [Back with another cancerous code block to share](https://dev.to/ramoyald/back-with-another-cancerous-code-block-to-share-4cig)
+- [Building API Integrations Shouldn’t Require Re-Reading Docs Every Time](https://dev.to/reliathedisco/building-api-integrations-shouldnt-require-re-reading-docs-every-time-4gnl)
+- [Java JOLT built in functions](https://dev.to/sadiul_hakim/java-jolt-built-in-functions-2p4j)
+- [技術ブログにMermaidダイアグラムを導入した話【はてなブログ・DEV.to・Next.js対応】](https://dev.to/beachone1155/ji-shu-burogunimermaiddaiaguramuwodao-ru-sitahua-hatenaburogudevtonextjsdui-ying--1c9e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
