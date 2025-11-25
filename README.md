@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Inevitable Cloud Cost Debt](https://dev.to/sravanikaipa_c5bf5/the-inevitable-cloud-cost-debt-4j82)
-- [Engineering and DEI](https://dev.to/stakiran/engineering-and-dei-2k51)
-- [✨ Daily Learning Update – Linux Fundamentals 🐧](https://dev.to/sudarshan_yadav/daily-learning-update-linux-fundamentals-2o14)
-- [Voice-First UX: Building AI Agents with Advanced Natural Language and Speech Interfaces](https://dev.to/xccelerance_technologies_/voice-first-ux-building-ai-agents-with-advanced-natural-language-and-speech-interfaces-108j)
-- [Day 45: Python Majority Element Finder, Boyer-Moore Voting Algorithm for Efficient Detection in Arrays](https://dev.to/shahrouzlogs/day-45-python-majority-element-finder-boyer-moore-voting-algorithm-for-efficient-detection-in-2f44)
+- [Statistics Day 9: Bootstrapping Made Simple: The Easiest Way to Understand Resampling](https://dev.to/brains_behind_bots/statistics-day-9-bootstrapping-made-simple-the-easiest-way-to-understand-resampling-4ob6)
+- [How to Protect Your Site from Cyber Attacks: Website Security Guide 2025](https://dev.to/chuck7chen/how-to-protect-your-website-from-cyber-attacks-essential-security-guide-2025-329o)
+- [Preventing Accidental Interchangeability in TypeScript — Branding &amp; the Unique Property Pattern](https://dev.to/silentwatcher_95/preventing-accidental-interchangeability-in-typescript-branding-the-unique-property-pattern-hda)
+- [API Integrations: High-Level Breakdown](https://dev.to/msnmongare/api-integrations-high-level-breakdown-53pi)
+- [What Every Programmer Should Know About Memory Part 2](https://dev.to/hamzahassanain0/what-every-programmer-should-know-about-memory-part-2-125m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
