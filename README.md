@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Does AI Generate Accessible Android Apps?](https://dev.to/eevajonnapanula/does-ai-generate-accessible-android-apps-2gb5)
+- [Switching to Zed: Made my own VSCode-Rest utility](https://dev.to/vikkio88/switching-to-zed-made-my-own-vscode-rest-utility-788)
+- [Do You Need a Mobile App to Access Apple Health Data? &lpar;Short Answer: Yes&rpar;](https://dev.to/momentumai/do-you-need-a-mobile-app-to-access-apple-health-data-short-answer-yes-joe)
+- [The Ultimate CSS Roadmap: Learn Step by Step](https://dev.to/devshefali/the-ultimate-css-roadmap-learn-step-by-step-440c)
 - [How Developers Work Faster With Multi-Model Tools](https://dev.to/rohit_gavali_0c2ad84fe4e0/how-developers-work-faster-with-multi-model-tools-11f6)
-- [Post-Holiday Customer Retention: What to Do With All Those December Buyers](https://dev.to/synergistdigitalmedia/post-holiday-customer-retention-what-to-do-with-all-those-december-buyers-3g52)
-- [Playwright vs Cypress: Solving Real Test Automation Challenges](https://dev.to/pratik01/playwright-vs-cypress-solving-real-test-automation-challenges-4e8m)
-- [Le potentiel rôle de Dieu dans notre sort &lpar;Pensée libre Pt II&rpar;](https://dev.to/elvisans/le-potentiel-role-de-dieu-dans-notre-sort-pensee-libre-pt-ii-3cje)
-- [AWS CDK Introduces Mixins: A Major Feature for Flexible Construct Composition &lpar;Developer Preview&rpar;](https://dev.to/aws-heroes/aws-cdk-introduces-mixins-a-major-feature-for-flexible-construct-composition-developer-preview-583d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
