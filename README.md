@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [HTTP vs HTTPS vs TCP vs UDP](https://dev.to/sreekanth_kuruba_91721e5d/http-vs-https-vs-tcp-vs-udp-41d6)
-- [Back with another cancerous code block to share](https://dev.to/ramoyald/back-with-another-cancerous-code-block-to-share-4cig)
-- [Building API Integrations Shouldn’t Require Re-Reading Docs Every Time](https://dev.to/reliathedisco/building-api-integrations-shouldnt-require-re-reading-docs-every-time-4gnl)
-- [Java JOLT built in functions](https://dev.to/sadiul_hakim/java-jolt-built-in-functions-2p4j)
-- [技術ブログにMermaidダイアグラムを導入した話【はてなブログ・DEV.to・Next.js対応】](https://dev.to/beachone1155/ji-shu-burogunimermaiddaiaguramuwodao-ru-sitahua-hatenaburogudevtonextjsdui-ying--1c9e)
+- [Redis: The Complete Developer’s Guide to the Fastest Data Store in the World](https://dev.to/farhadrahimiklie/redis-the-complete-developers-guide-to-the-fastest-data-store-in-the-world-iio)
+- [Using Gemini CLI Through LiteLLM Proxy](https://dev.to/polar3130/using-gemini-cli-through-litellm-proxy-1627)
+- [What’s AI&#39;s impact on white-collar jobs and layoffs?](https://dev.to/jay_all_day/whats-ais-impact-on-white-collar-jobs-and-layoffs-56p8)
+- [[Boost]](https://dev.to/tony_d555/-30jl)
+- [Amazon Q - Kiro-dev](https://dev.to/gara501/amazon-q-kiro-dev-faj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
