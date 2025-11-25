@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Deploying My First Task Automation App — Lessons Learned and Tips for Beginners](https://dev.to/dillionhuston/deploying-my-first-task-automation-app-lessons-learned-and-tips-for-beginners-4dpl)
 - [The Agent Factory podcast: 5 Episodes to Kickstart Your Journey to Production AI](https://dev.to/googleai/the-agent-factory-podcast-5-episodes-to-kickstart-your-journey-to-production-ai-35ml)
 - [AWS Blu Age Modernization: My Journey Through All 3 Certification Levels](https://dev.to/debapriya_dey_aada54b7766/aws-blu-age-modernization-my-journey-through-all-3-certification-levels-18c5)
 - [✅ *Authentication &amp; Authorization Basics* 🔐🌐](https://dev.to/ssekabirarobertsims/authentication-authorization-basics-3o6g)
 - [I Treated My Team Like Customers and Became a Better Manager](https://dev.to/secur3-et/i-treated-my-team-like-customers-and-became-a-better-manager-18mj)
-- [ASP.NET Core + Docker: Mastering Multi-Stage Builds for Web APIs](https://dev.to/cristiansifuentes/aspnet-core-docker-mastering-multi-stage-builds-for-web-apis-5f7i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
