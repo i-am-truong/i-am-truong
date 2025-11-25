@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Lithium Batteries Fail](https://dev.to/docy/why-lithium-batteries-fail-1ijf)
 - [England&#39;s Circular Economy Growth Plan: What it Means for CRE](https://dev.to/wastify_ai/englands-circular-economy-growth-plan-what-it-means-for-cre-167)
-- [Launching Pylar - Access Control between Agents and Databases](https://dev.to/hoshang_mehta/launching-pylar-access-control-between-agents-and-databases-21c8)
-- [AWS re:Invent 2025 — Keynotes, how to watch live and more](https://dev.to/aws-builders/aws-reinvent-2025-keynotes-how-to-watch-live-and-more-57po)
-- [How to Evaluate a Lithium Battery Datasheet — A Developer’s Checklist](https://dev.to/docy/how-to-evaluate-a-lithium-battery-datasheet-a-developers-checklist-23kj)
-- [Docker and volumes, EBS, kubernetes](https://dev.to/mohammed_27c42362d82e94dd/docker-and-volumes-ebs-kubernetes-42hj)
+- [The Ultimate Guide to Keyboard Sizes and Layouts: Everything You Need to Know](https://dev.to/mysticcoder/the-ultimate-guide-to-keyboard-sizes-and-layouts-everything-you-need-to-know-13ee)
+- [ApidogのAIテスト生成機能が便利だった話](https://dev.to/nakamura_takuya/apidognoaitesutosheng-cheng-ji-neng-gabian-li-datutahua-c36)
+- [Apidog MCPサーバー入門：AIとAPIをつなぐ新しい開発ワークフロー](https://dev.to/nakamura_takuya/apidog-mcpsabaru-men-aitoapiwotunaguxin-siikai-fa-wakuhuro-2g4n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
