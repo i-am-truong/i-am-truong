@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Align Spring Boot Validation Errors with Your JSON Property Naming Strategy](https://dev.to/ibrahimgunduz34/how-to-align-spring-boot-validation-errors-with-your-json-property-naming-strategy-4b83)
-- [Why Execution Matters More Than Ideas in Modern Software Development](https://dev.to/farhannasirdev/why-execution-matters-more-than-ideas-in-modern-software-development-4l5i)
-- [Divergent Work Using GitHub](https://dev.to/stakiran/divergent-work-using-github-2kk8)
-- [🌐 De Cero a una VPC Segura: Despliegue de Aplicaciones Web y RDS sin el Asistente](https://dev.to/franciscojeg78/de-cero-a-una-vpc-segura-despliegue-de-aplicaciones-web-y-rds-sin-el-asistente-4ph)
-- [I Scanned 13 Popular MCP Servers. Here&#39;s What I Found. 🔐](https://dev.to/mcp-fortress/i-scanned-13-popular-mcp-servers-heres-what-i-found-3i3l)
+- [The Agent Factory podcast: 5 Episodes to Kickstart Your Journey to Production AI](https://dev.to/googleai/the-agent-factory-podcast-5-episodes-to-kickstart-your-journey-to-production-ai-35ml)
+- [AWS Blu Age Modernization: My Journey Through All 3 Certification Levels](https://dev.to/debapriya_dey_aada54b7766/aws-blu-age-modernization-my-journey-through-all-3-certification-levels-18c5)
+- [✅ *Authentication &amp; Authorization Basics* 🔐🌐](https://dev.to/ssekabirarobertsims/authentication-authorization-basics-3o6g)
+- [I Treated My Team Like Customers and Became a Better Manager](https://dev.to/secur3-et/i-treated-my-team-like-customers-and-became-a-better-manager-18mj)
+- [ASP.NET Core + Docker: Mastering Multi-Stage Builds for Web APIs](https://dev.to/cristiansifuentes/aspnet-core-docker-mastering-multi-stage-builds-for-web-apis-5f7i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
