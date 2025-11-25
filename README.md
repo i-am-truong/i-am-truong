@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Inevitable Cloud Cost Debt](https://dev.to/sravanikaipa_c5bf5/the-inevitable-cloud-cost-debt-4j82)
+- [Engineering and DEI](https://dev.to/stakiran/engineering-and-dei-2k51)
 - [✨ Daily Learning Update – Linux Fundamentals 🐧](https://dev.to/sudarshan_yadav/daily-learning-update-linux-fundamentals-2o14)
 - [Voice-First UX: Building AI Agents with Advanced Natural Language and Speech Interfaces](https://dev.to/xccelerance_technologies_/voice-first-ux-building-ai-agents-with-advanced-natural-language-and-speech-interfaces-108j)
-- [Stop Burning Money: Implementing Semantic Caching for LLMs with Redis &amp; Cosine Similarity](https://dev.to/roiting_hacking_4d8d76800/stop-burning-money-implementing-semantic-caching-for-llms-with-redis-cosine-similarity-53a5)
-- [A No-Nonsense C# Async, Threading &amp; Concurrency Guide](https://dev.to/recurpixel/a-no-nonsense-c-async-threading-concurrency-guide-36em)
-- [🎧 The Future of Listening Is Web-Based: How to Build Powerful Audio Streaming Platforms That Users Love](https://dev.to/okoye_ndidiamaka_5e3b7d30/the-future-of-listening-is-web-based-how-to-build-powerful-audio-streaming-platforms-that-users-222l)
+- [Day 45: Python Majority Element Finder, Boyer-Moore Voting Algorithm for Efficient Detection in Arrays](https://dev.to/shahrouzlogs/day-45-python-majority-element-finder-boyer-moore-voting-algorithm-for-efficient-detection-in-2f44)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
