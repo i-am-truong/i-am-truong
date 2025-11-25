@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Nanophotonic AI: From Lab to Lightsaber &lpar;Maybe!&rpar;](https://dev.to/arvind_sundararajan/nanophotonic-ai-from-lab-to-lightsaber-maybe-4al5)
-- [AI vs ML vs LLMs - Why We Keep Mixing Them Up &lpar;And How to Finally Understand Them&rpar;](https://dev.to/codebyturkan/ai-vs-ml-vs-llms-why-we-keep-mixing-them-up-and-how-to-finally-understand-them-2918)
-- [How do you integrate Tableau and R?](https://dev.to/dipti_m_2e7ba36c478d1a48a/how-do-you-integrate-tableau-and-r-j23)
-- [JavaScript Clean Code Mastery: Part 7 - Real-World Refactoring and Tools &lpar;Series Finale!&rpar;](https://dev.to/sizan_mahmud0_e7c3fd0cb68/javascript-clean-code-mastery-part-7-real-world-refactoring-and-tools-series-finale-3lf7)
-- [Santa Came Early: I Just Published a Rust Crate and CLI Tool to Take Care of AI Markdown Citations for Good](https://dev.to/opensite/santa-came-early-i-just-published-a-rust-crate-and-cli-tool-to-take-care-of-ai-markdown-citations-521h)
+- [The Data Engineer’s Codex: From First Principles to the Modern Lakehouse](https://dev.to/datatechbridge/the-data-engineers-codex-from-first-principles-to-the-modern-lakehouse-24h4)
+- [Two Perspectives on Moderation](https://dev.to/dipti_moryani_08e62702314/two-perspectives-on-moderation-5edd)
+- [Introducing Lab68 Dev Platform: Build • Learn • Collaborate](https://dev.to/f4p1e/introducing-lab68-dev-platform-build-learn-collaborate-468c)
+- [Software Testing, Mock Objects, &amp; Test Isolation: Implementasi Teknik Lanjutan pada Modul Reply](https://dev.to/maulana_seto_2280dfc88c71/software-testing-mock-objects-test-isolation-implementasi-teknik-lanjutan-pada-modul-reply-4fla)
+- [Refactoring &amp; Design Patterns: Peningkatan Performa dan Aspek Nonfungsional pada Modul Reply](https://dev.to/maulana_seto_2280dfc88c71/refactoring-design-patterns-peningkatan-performa-dan-aspek-nonfungsional-pada-modul-reply-226e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
