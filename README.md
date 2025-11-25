@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How Can Native Mobile Banking Apps Reduce App Crashes?](https://dev.to/it-influencer/how-can-native-mobile-banking-apps-reduce-app-crashes-30pn)
+- [React vs ReactDOM: What’s the Difference? A Deep Dive Into How They Actually Work Together](https://dev.to/imsushant12/react-vs-reactdom-whats-the-difference-a-deep-dive-into-how-they-actually-work-together-1gg0)
+- [EXPERIENCE: MINI MICRO](https://dev.to/kartik_patel/experience-mini-micro-4gp4)
+- [Building Multi-Agent Systems on GCP: An Architectural Patterns Framework](https://dev.to/as_siva_0a8ec6e6e375c88b9/building-multi-agent-systems-on-gcp-an-architectural-patterns-framework-40cn)
 - [The Data Engineer’s Codex: From First Principles to the Modern Lakehouse](https://dev.to/datatechbridge/the-data-engineers-codex-from-first-principles-to-the-modern-lakehouse-24h4)
-- [Two Perspectives on Moderation](https://dev.to/dipti_moryani_08e62702314/two-perspectives-on-moderation-5edd)
-- [Introducing Lab68 Dev Platform: Build • Learn • Collaborate](https://dev.to/f4p1e/introducing-lab68-dev-platform-build-learn-collaborate-468c)
-- [Software Testing, Mock Objects, &amp; Test Isolation: Implementasi Teknik Lanjutan pada Modul Reply](https://dev.to/maulana_seto_2280dfc88c71/software-testing-mock-objects-test-isolation-implementasi-teknik-lanjutan-pada-modul-reply-4fla)
-- [Refactoring &amp; Design Patterns: Peningkatan Performa dan Aspek Nonfungsional pada Modul Reply](https://dev.to/maulana_seto_2280dfc88c71/refactoring-design-patterns-peningkatan-performa-dan-aspek-nonfungsional-pada-modul-reply-226e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
