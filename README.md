@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [There’s a strange gap in web development.](https://dev.to/artemdev_/theres-a-strange-gap-in-web-development-57g7)
+- [🚀 Deploying My First Portfolio on Killercoda Using Nginx — A Beginner DevOps Walkthrough](https://dev.to/sunday_micheal_0420a84c86/deploying-my-first-portfolio-on-killercoda-using-nginx-a-beginner-devops-walkthrough-3ale)
+- [Working with Docker Containers: Essential Commands and Techniques 🐋](https://dev.to/techwithhari/working-with-docker-containers-essential-commands-and-techniques-4ii7)
 - [PYTHON ESSENTIALS FOR AI/ML &lpar;Data Types&rpar;](https://dev.to/m_t_ramkrushna/python-essentials-for-aiml-data-types-1d4m)
-- [RESTful – Pílula 4 – Identificadores e o uso de UUIDs em APIs REST](https://dev.to/andersoncontreira/restful-pilula-4-identificadores-e-o-uso-de-uuids-em-apis-rest-186)
-- [Designing Trust: UX Principles in Fintech Apps](https://dev.to/pocketportfolioapp/designing-trust-ux-principles-in-fintech-apps-2gfo)
-- [GA4 Custom Reporting: Stop Building Dashboards Nobody Uses](https://dev.to/synergistdigitalmedia/ga4-custom-reporting-stop-building-dashboards-nobody-uses-16m0)
-- [I made my resume site. It wasn’t that deep.](https://dev.to/armaansucks/i-made-my-resume-site-it-wasnt-that-deep-262e)
+- [🚀 PYTHON ESSENTIALS FOR AI/ML &lpar;Variables Loops Functions&rpar;](https://dev.to/m_t_ramkrushna/python-essentials-for-aimlvariables-loops-functions-23ke)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
