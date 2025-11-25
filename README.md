@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Clean Code Mastery: Part 6 - Code Structure and Logic Flow That Makes Sense](https://dev.to/sizan_mahmud0_e7c3fd0cb68/javascript-clean-code-mastery-part-6-code-structure-and-logic-flow-that-makes-sense-5g0g)
+- [It Depends: Modernizing Dependency Management in the age of AI](https://dev.to/prince_of_pasta/it-depends-modernizing-dependency-management-in-the-age-of-ai-fic)
+- [JavaScript Clean Code Mastery: Part 5 - Array Methods and Immutability That Transform Your Code](https://dev.to/sizan_mahmud0_e7c3fd0cb68/javascript-clean-code-mastery-part-5-array-methods-and-immutability-that-transform-your-code-34mb)
+- [The Developer&#39;s Guide to Resume Writing: How to Write a Software Engineer Resume That Passes ATS and Impresses Recruiters](https://dev.to/writerz/the-developers-guide-to-resume-writing-how-to-write-a-software-engineer-resume-that-passes-ats-34in)
 - [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-15gd)
-- [ApidogのAIテスト生成機能が便利だった話](https://dev.to/nakamura_takuya/apidognoaitesutosheng-cheng-ji-neng-gabian-li-datutahua-5hn3)
-- [Apidog MCPサーバー入門：AIとAPIをつなぐ新しい開発ワークフロー](https://dev.to/nakamura_takuya/apidog-mcpsabaru-men-aitoapiwotunaguxin-siikai-fa-wakuhuro-opg)
-- [I&#39;m writing a book: &quot;The Agent Paradigm&quot;](https://dev.to/connectonion/im-writing-a-book-the-agent-paradigm-5727)
-- [A Developer’s Technical Decision Guide to No-Code and Low-Code &lpar;2026&rpar;](https://dev.to/nocobase/a-developers-technical-decision-guide-to-no-code-and-low-code-2026-2m7h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
