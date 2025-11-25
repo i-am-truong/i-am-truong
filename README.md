@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [UX Case Study: Avaliando a Usabilidade do Google Classroom na Prática](https://dev.to/andre_leiteribeiro_5022f/ux-case-study-avaliando-a-usabilidade-do-google-classroom-na-pratica-33n4)
-- [Software Developer Salary in India 2025: Breaking Down CTC, Location, and In-Demand Skills](https://dev.to/sahejan_palla_jobgrin/software-developer-salary-in-india-2025-breaking-down-ctc-location-and-in-demand-skills-351e)
-- [Does AI Generate Accessible Android Apps?](https://dev.to/eevajonnapanula/does-ai-generate-accessible-android-apps-2gb5)
-- [Building fast in Angular with Zard UI Tailwind CSS Signals and NgRx](https://dev.to/hassantayyab/building-fast-in-angular-with-zard-ui-tailwind-css-signals-and-ngrx-57ld)
-- [Switching to Zed: Made my own VSCode-Rest utility](https://dev.to/vikkio88/switching-to-zed-made-my-own-vscode-rest-utility-788)
+- [Zero-Effort ER Diagrams in Django: Auto-Generate Directly From Your Models](https://dev.to/ajitkumar/zero-effort-er-diagrams-in-django-auto-generate-directly-from-your-models-1ji3)
+- [How to Calculate Returns When Investing Using a SIP Calculator](https://dev.to/aisha_mehra_d0f134c62a79b/how-to-calculate-returns-when-investing-using-a-sip-calculator-2fco)
+- [Opus 4.5 is Here: We’re Loving It](https://dev.to/kilocode/opus-45-is-here-were-loving-it-40ca)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-2dco)
+- [The Smart Home Uprising](https://dev.to/rawveg/the-smart-home-uprising-2gna)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
