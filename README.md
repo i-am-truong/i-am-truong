@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT Atlas now has DevTools](https://dev.to/alifar/chatgpt-atlas-now-has-devtools-35h9)
-- [There’s a strange gap in web development.](https://dev.to/artemdev_/theres-a-strange-gap-in-web-development-57g7)
-- [🚀 Deploying My First Portfolio on Killercoda Using Nginx — A Beginner DevOps Walkthrough](https://dev.to/sunday_micheal_0420a84c86/deploying-my-first-portfolio-on-killercoda-using-nginx-a-beginner-devops-walkthrough-3ale)
-- [Working with Docker Containers: Essential Commands and Techniques 🐋](https://dev.to/techwithhari/working-with-docker-containers-essential-commands-and-techniques-4ii7)
-- [Use variable variables of PHP to obfuscate code](https://dev.to/hideaki_shimizu_75b25756f/use-variable-variables-of-php-to-obfuscate-code-2k4l)
+- [Why Pub/Sub Is the Architecture Trick Every Developer Should Know](https://dev.to/vatukah/why-pubsub-is-the-architecture-trick-every-developer-should-know-1i8k)
+- [🚀 React Performance Tip: Why useState&lpar;&lpar;&rpar; =&gt; ...&rpar; Beats useState&lpar;{...}&rpar;](https://dev.to/yorgie7/react-performance-tip-why-usestate-beats-usestate-5blj)
+- [Session Service: як правильно будувати сесію у high-load казино](https://dev.to/4mars/session-service-iak-pravilno-buduvati-siesiiu-u-high-load-kazino-19mf)
+- [We had enough of brainrot. We built a terminal app for Instagram to stop that.](https://dev.to/jet_chiang_d3ea958f9227d2/we-had-enough-of-brainrot-we-built-a-terminal-app-for-instagram-to-stop-that-3p1n)
+- [**Unlocking AI-Driven Content Optimization: The &#39;Engagement](https://dev.to/drcarlosruizviquez/unlocking-ai-driven-content-optimization-the-engagement-5cmg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
