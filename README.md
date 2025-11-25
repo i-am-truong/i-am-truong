@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Secret Life of Go: Functions](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-functions-2mk1)
+- [Contract-Testing TM Forum Open APIs with Pact + Postman: Stop Breaking Your BSS](https://dev.to/yacine_s/contract-testing-tm-forum-open-apis-with-pact-postman-stop-breaking-your-bss-3hh2)
+- [Securing Azure APIM MCP Servers in Production](https://dev.to/itsrene/securing-azure-apim-mcp-servers-in-production-3gd3)
+- [Ringer Movies: ‘Two for the Money’ With Bill Simmons, Chris Ryan, and Cousin Sal | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-two-for-the-money-with-bill-simmons-chris-ryan-and-cousin-sal-the-rewatchables-2d7n)
 - [Discover koalaz: a simple npm package to generate mock data about koalas!](https://dev.to/mattqdev/discover-koalaz-a-simple-npm-package-to-generate-mock-data-about-koalas-4pa3)
-- [21+ Best Free Tailwind v4 UI Kits and Component Libraries](https://dev.to/yucelfaruksahan/21-best-free-tailwind-v4-ui-kits-and-component-libraries-2blo)
-- [Deploying My First Task Automation App — Lessons Learned and Tips for Beginners](https://dev.to/dillionhuston/deploying-my-first-task-automation-app-lessons-learned-and-tips-for-beginners-4dpl)
-- [The Agent Factory podcast: 5 Episodes to Kickstart Your Journey to Production AI](https://dev.to/googleai/the-agent-factory-podcast-5-episodes-to-kickstart-your-journey-to-production-ai-35ml)
-- [Preparing Your Business for Scalability: Technical &amp; Process Considerations](https://dev.to/anushka_verma_55f24984a90/preparing-your-business-for-scalability-technical-process-considerations-10a6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
