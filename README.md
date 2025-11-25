@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Reasoning In The Wild: How I Actually Think About Cognition](https://dev.to/marcosomma/reasoning-in-the-wild-how-i-actually-think-about-cognition-1i90)
-- [The Secret Life of Go: Variables &amp; Types](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-variables-types-53co)
-- [Pourquoi changer sera difficile… &lpar;Réflexion personnelle&rpar;](https://dev.to/elvisans/pourquoi-changer-sera-difficile-reflexion-personnelle-11ak)
-- [What Can QA Teams Learn from Recent FDA Inspections at Rubicon Research &lpar;India&rpar;?](https://dev.to/shalushrotiya/what-can-qa-teams-learn-from-recent-fda-inspections-at-rubicon-research-india-4aj5)
-- [🚀 New SaaS Website Template Added: &quot;Database&quot; Is Now Live](https://dev.to/ngmaterialdev/new-saas-website-template-added-database-is-now-live-5fh9)
+- [Cloud Fax Intelligence: The Hidden Engine Behind Modern Compliance](https://dev.to/allinsightsnews/cloud-fax-intelligence-the-hidden-engine-behind-modern-compliance-4f9h)
+- [From Prototype to Production: The State of Generative AI Development in 2025](https://dev.to/ioweb_961ddefd53bd65fce97/from-prototype-to-production-the-state-of-generative-ai-development-in-2025-4126)
+- [How AI is Reducing Hiring Bias and Promoting Equal Opportunity in Recruitment](https://dev.to/clarient/how-ai-is-reducing-hiring-bias-and-promoting-equal-opportunity-in-recruitment-377m)
+- [Day 01: Why You Can’t Afford to Provision Infrastructure Manually Anymore](https://dev.to/ketan_kanade_eddc807c2065/day-01-why-you-cant-afford-to-provision-infrastructure-manually-anymore-4c53)
+- [What is Laravel Pint?](https://dev.to/laracopilot/what-is-laravel-pint-13ll)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
