@@ -120,13 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The next generation of billion-dollar companies won’t be built in glass offices, with huge teams, layers of management, and complex org charts.
-
-They will be built by 5 people and AI. This isn’t a slogan.](https://dev.to/jaideepparashar/the-next-generation-of-billion-dollar-companies-wont-be-built-in-glass-offices-with-huge-teams-6ph)
-- [ESP32-S3 + TensorFlow Lite Micro: A Practical Guide to Local Wake Word &amp; Edge AI Inference](https://dev.to/zediot/esp32-s3-tensorflow-lite-micro-a-practical-guide-to-local-wake-word-edge-ai-inference-5540)
-- [Why the Next Unicorns Will Be Built With 5 People and AI](https://dev.to/jaideepparashar/why-the-next-unicorns-will-be-built-with-5-people-and-ai-580b)
-- [How Can Native Mobile Banking Apps Reduce App Crashes?](https://dev.to/it-influencer/how-can-native-mobile-banking-apps-reduce-app-crashes-30pn)
-- [React vs ReactDOM: What’s the Difference? A Deep Dive Into How They Actually Work Together](https://dev.to/imsushant12/react-vs-reactdom-whats-the-difference-a-deep-dive-into-how-they-actually-work-together-1gg0)
+- [Reasoning In The Wild: How I Actually Think About Cognition](https://dev.to/marcosomma/reasoning-in-the-wild-how-i-actually-think-about-cognition-1i90)
+- [The Secret Life of Go: Variables &amp; Types](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-variables-types-53co)
+- [Pourquoi changer sera difficile… &lpar;Réflexion personnelle&rpar;](https://dev.to/elvisans/pourquoi-changer-sera-difficile-reflexion-personnelle-11ak)
+- [What Can QA Teams Learn from Recent FDA Inspections at Rubicon Research &lpar;India&rpar;?](https://dev.to/shalushrotiya/what-can-qa-teams-learn-from-recent-fda-inspections-at-rubicon-research-india-4aj5)
+- [🚀 New SaaS Website Template Added: &quot;Database&quot; Is Now Live](https://dev.to/ngmaterialdev/new-saas-website-template-added-database-is-now-live-5fh9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
