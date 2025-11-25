@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Agent Memory: From Manual Implementation to Mem0 to AWS AgentCORE](https://dev.to/sudarshangouda/ai-agent-memory-from-manual-implementation-to-mem0-to-aws-agentcore-2d7c)
 - [HTML strings vs the DOM API: from a small benchmark to a surprising result](https://dev.to/dariomannu/html-strings-vs-the-dom-api-from-a-small-benchmark-to-a-surprising-result-5fo6)
 - [Statistics Day 9: Bootstrapping Made Simple: The Easiest Way to Understand Resampling](https://dev.to/brains_behind_bots/statistics-day-9-bootstrapping-made-simple-the-easiest-way-to-understand-resampling-4ob6)
 - [How to Protect Your Site from Cyber Attacks: Website Security Guide 2025](https://dev.to/chuck7chen/how-to-protect-your-website-from-cyber-attacks-essential-security-guide-2025-329o)
 - [Preventing Accidental Interchangeability in TypeScript — Branding &amp; the Unique Property Pattern](https://dev.to/silentwatcher_95/preventing-accidental-interchangeability-in-typescript-branding-the-unique-property-pattern-hda)
-- [API Integrations: High-Level Breakdown](https://dev.to/msnmongare/api-integrations-high-level-breakdown-53pi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
