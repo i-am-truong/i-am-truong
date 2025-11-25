@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why &quot;Best Practices&quot; &amp; Frameworks Are Keeping You Junior](https://dev.to/pmbanugo/why-best-practices-frameworks-are-keeping-you-junior-3ho7)
+- [Refactoring Legacy: Part 1 - DTO&#39;s &amp; Value Objects](https://dev.to/clegginabox/refactoring-legacy-part-1-dtos-value-objects-2i30)
+- [🌙 New Blog Drop: When Your Boss Tells You to Make Magic in One Year — The Majora’s Mask Story](https://dev.to/blaze_faisal/new-blog-drop-when-your-boss-tells-you-to-make-magic-in-one-year-the-majoras-mask-story-470f)
+- [**Titular: &quot;Avanza con Transparencia: Evalúe TarantulaHawk](https://dev.to/drcarlosruizviquez/titular-avanza-con-transparencia-evalue-tarantulahawk-2e24)
 - [Why Pub/Sub Is the Architecture Trick Every Developer Should Know](https://dev.to/vatukah/why-pubsub-is-the-architecture-trick-every-developer-should-know-1i8k)
-- [🚀 React Performance Tip: Why useState&lpar;&lpar;&rpar; =&gt; ...&rpar; Beats useState&lpar;{...}&rpar;](https://dev.to/yorgie7/react-performance-tip-why-usestate-beats-usestate-5blj)
-- [Session Service: як правильно будувати сесію у high-load казино](https://dev.to/4mars/session-service-iak-pravilno-buduvati-siesiiu-u-high-load-kazino-19mf)
-- [We had enough of brainrot. We built a terminal app for Instagram to stop that.](https://dev.to/jet_chiang_d3ea958f9227d2/we-had-enough-of-brainrot-we-built-a-terminal-app-for-instagram-to-stop-that-3p1n)
-- [**Unlocking AI-Driven Content Optimization: The &#39;Engagement](https://dev.to/drcarlosruizviquez/unlocking-ai-driven-content-optimization-the-engagement-5cmg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
