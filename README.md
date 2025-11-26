@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [When Jesus Walks Into the Story You Stopped Hoping Would Change: A Deep Encounter with John Chapter 5](https://dev.to/douglasvandergraph/when-jesus-walks-into-the-story-you-stopped-hoping-would-change-an-8000-word-deep-encounter-with-2988)
-- [iOS Unit Testing Tutorial with Xcode &amp; Swift](https://dev.to/morrismoses149/ios-unit-testing-tutorial-with-xcode-swift-3jb7)
-- [GitOps &amp; Argo CD: A Complete Introduction.](https://dev.to/careerbytecode/gitops-argo-cd-a-complete-introduction-1l08)
-- [CKS Notes - some notes on docker&lpar;podman&rpar;](https://dev.to/cheedge_lee/cks-notes-some-notes-on-dockerpodman-gmk)
-- [Power BI Embedded ile CRM ekranına custom rapor nasıl eklenir?](https://dev.to/oguzhanasan1/power-bi-embedded-ile-crm-ekranina-custom-rapor-nasil-eklenir-mah)
+- [🧱 The Blueprint of Success: Mastering the Technical Requirements Document &lpar;TRD&rpar;](https://dev.to/mohammadidrees/the-blueprint-of-success-mastering-the-technical-requirements-document-trd-306g)
+- [2026 Marketing Budget Planning: The Framework That Actually Works When Finance Says No](https://dev.to/synergistdigitalmedia/2026-marketing-budget-planning-the-framework-that-actually-works-when-finance-says-no-2b7g)
+- [Beyond Filters: Rearchitecting Prompt Injection Defense](https://dev.to/narnaiezzsshaa/beyond-filters-rearchitecting-prompt-injection-defense-1h20)
+- [Beyond Normalization: Unlocking Database Power with Design Patterns](https://dev.to/muhammad_fayzliaqat_cc8b/beyond-normalization-unlocking-database-power-with-design-patterns-i5b)
+- [Beyond the Password: Fortifying User Authentication Security](https://dev.to/muhammad_fayzliaqat_cc8b/beyond-the-password-fortifying-user-authentication-security-50ip)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
