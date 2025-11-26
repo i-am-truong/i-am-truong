@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Language Aggregation in OpenSearch: Selecting One Document Per Group by Language Preference](https://dev.to/aws-builders/language-aggregation-in-opensearch-selecting-one-document-per-group-by-language-preference-4kn9)
-- [The Two Programming Styles of AI — and Why Everyone Uses the Wrong One](https://dev.to/jose_crespo_phd/the-two-programming-styles-of-ai-and-why-everyone-uses-the-wrong-one-c0n)
-- [Creating IAM User, S3 Bucket and VPC](https://dev.to/adarsh_gupta_c5fecf658fd7/creating-iam-user-s3-bucket-and-vpc-3262)
-- [&quot;Dependency injection patterns in Swift&quot;](https://dev.to/michal_cichon/dependency-injection-patterns-in-swift-4lbc)
-- [Fixing React Error #306 in Next.js App Router](https://dev.to/iraycd/fixing-react-error-306-in-nextjs-app-router-49dd)
+- [Build an Amazon Scraper Using Your Chrome Profile](https://dev.to/letsscrape/build-an-amazon-scraper-using-your-chrome-profile-dnk)
+- [Delta Lake Health Analyzer](https://dev.to/razorpaytech/delta-lake-health-analyzer-fg)
+- [We Tested Meta&#39;s Advantage+ Creative in 50 Campaigns: Here&#39;s What Actually Moved the Needle](https://dev.to/synergistdigitalmedia/we-tested-metas-advantage-creative-in-50-campaigns-heres-what-actually-moved-the-needle-4mle)
+- [Git Flow vs GitHub Flow : Understand in 3 Minutes](https://dev.to/hongster85/git-flow-vs-github-flow-understand-in-3-minutes-kmm)
+- [Munix - Hair Cutting Scissors Kit: Tips for Beginners to Avoid Mistakes](https://dev.to/mileskgoc1/munix-hair-cutting-scissors-kit-tips-for-beginners-to-avoid-mistakes-c4g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
