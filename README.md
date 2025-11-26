@@ -120,11 +120,13 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Build Modern Parallax &amp; Scroll Effects in SwiftUI](https://dev.to/sebastienlato/how-to-build-modern-parallax-scroll-effects-in-swiftui-20n3)
-- [College student sets up NEOVIM!!!!](https://dev.to/pxtrik/college-student-sets-up-neovim-3dn7)
-- [The Human Habit That Made My AI 40% Smarter](https://dev.to/rishi_mohanty_3ab78a38527/the-human-habit-that-made-my-ai-40-smarter-1emi)
-- [Web Development Best Practices: The Foundation of a Thriving Online Presence](https://dev.to/muhammad_fayzliaqat_cc8b/web-development-best-practices-the-foundation-of-a-thriving-online-presence-3lcj)
-- [Building a Side Project with ADHD: ChatGPT Gaslighting, r/ADHD Bans, and Why I Needed a Friend](https://dev.to/datawranglerai/building-a-side-project-with-adhd-chatgpt-gaslighting-radhd-bans-and-why-i-needed-a-friend-28p6)
+- [El conocimiento lingüístico en NLP: el puente entre la sintaxis y la semántica](https://dev.to/vicodev/el-conocimiento-linguistico-en-nlp-el-puente-entre-la-sintaxis-y-la-semantica-2m8a)
+- [Linguistic Knowledge in NLP: bridging syntax and semantics](https://dev.to/vicodev/linguistic-knowledge-in-nlp-bridging-syntax-and-semantics-11a7)
+- [Fedora 43 Post-Install Guide: 10 Essential Things to Do After Installing](https://dev.to/alldaylinux/fedora-43-post-install-guide-10-essential-things-to-do-after-installing-2m15)
+- [The developers who win the AI era will not be the ones who chase hype.
+
+And if we don’t talk about it, more developers will burn out, stall their careers, or build the wrong things.](https://dev.to/jaideepparashar/the-developers-who-win-the-ai-era-will-not-be-the-ones-who-chase-hype-and-if-we-dont-talk-56kl)
+- [Surgical Precision with AI: A New Era in Lung Cancer Staging](https://dev.to/arvind_sundararajan/surgical-precision-with-ai-a-new-era-in-lung-cancer-staging-a26)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
