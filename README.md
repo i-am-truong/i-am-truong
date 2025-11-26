@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Using Partytown with Google Tag Manager in Astro: A Step-by-Step Guide](https://dev.to/reeshee/using-partytown-with-google-tag-manager-in-astro-a-step-by-step-guide-4b48)
 - [TWD 1.2.x release - Component mocking, test and ci improvements](https://dev.to/kevinccbsg/twd-12x-release-component-mocking-test-and-ci-improvements-1lc3)
 - [TRAE Global Best Practice Challenge - L](https://dev.to/vamp_e889546e10e432ca4c4d/trae-global-best-practice-challenge-l-4o36)
 - [Google&#39;s December 2025 Core Update Hit E-commerce Hard: Here&#39;s What Actually Changed](https://dev.to/synergistdigitalmedia/googles-december-2025-core-update-hit-e-commerce-hard-heres-what-actually-changed-3k46)
 - [Day 1275 : Thanksgiving](https://dev.to/dwane/day-1275-thanksgiving-30j7)
-- [Unlock Data Narratives: Visualize Processes with Skeleton Diagrams](https://dev.to/arvind_sundararajan/unlock-data-narratives-visualize-processes-with-skeleton-diagrams-35b5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
