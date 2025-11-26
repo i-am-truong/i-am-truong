@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Best Production Management Software for Small Manufacturers in 2025](https://dev.to/learndevts/best-production-management-software-for-small-manufacturers-in-2025-540d)
 - [IVVV Stack](https://dev.to/stakiran/ivvv-stack-3pjp)
 - [Building AI-First DevOps: My very personal view on Vibe Coding and Autonomous Development](https://dev.to/nantero/building-ai-first-devops-my-very-personal-view-on-vibe-coding-and-autonomous-development-2og1)
 - [How to launch your SaaS as an engineer](https://dev.to/egledigital/how-to-launch-your-saas-as-an-engineer-2hj)
-- [Garbage Collection: Young Vs Old generation](https://dev.to/md_ashraf_dev_to/garbage-collection-young-vs-old-generation-4bkn)
-- [Stop Wrestling with React Icons - Meet Iconx: Your New Icon Workflow](https://dev.to/eelcodotdev/stop-wrestling-with-react-icons-meet-iconx-your-new-icon-workflow-2b8i)
+- [**Temporal Attention-based Long-Short Term Memory &lpar;TALSTM&rpar; C](https://dev.to/drcarlosruizviquez/temporal-attention-based-long-short-term-memory-talstm-c-1028)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
