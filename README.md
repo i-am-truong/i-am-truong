@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Your GenAI Project Failed &lpar;And How to Fix It&rpar;](https://dev.to/icybergenome_34/why-your-genai-project-failed-and-how-to-fix-it-o57)
+- [How to Make Money with Your Blog as a Developer: Content Creation That Pays](https://dev.to/softwaredeveloperhub01/how-to-make-money-with-your-blog-as-a-developer-content-creation-that-pays-56bc)
+- [From Newcomer to Power Contributor: South Korea’s Doyeon Kim Shines in Apache SeaTunnel in Just Six Months](https://dev.to/seatunnel/from-newcomer-to-power-contributor-south-koreas-doyeon-kim-shines-in-apache-seatunnel-in-just-six-3ga6)
+- [The Best Tools for Freelancers in 2026](https://dev.to/george_wilson_375f1d7bab9/the-best-tools-for-freelancers-in-2026-3fie)
 - [Catch App Store rejection issues before Apple does.](https://dev.to/sayuj_suresh_5f06841925d4/catch-app-store-rejection-issues-before-apple-does-23be)
-- [🔥Task #2 — Create Your First Helm Chart for GKE Cluster](https://dev.to/latchudevops/task-2-create-your-first-helm-chart-for-gke-cluster-3p0k)
-- [From object graph to query](https://dev.to/xwero/from-object-graph-to-query-4dh2)
-- [What Are the Common Pitfalls in Developing Financial Technology Products?](https://dev.to/it-influencer/what-are-the-common-pitfalls-in-developing-financial-technology-products-1djj)
-- [A C# File I/O Quick Reference For professionals](https://dev.to/recurpixel/a-c-file-io-quick-reference-for-professionals-2k5h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
