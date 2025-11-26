@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [When Mastery Gets Flagged: AI Detectors, False Positives, and the Inversion of Trust](https://dev.to/narnaiezzsshaa/when-mastery-gets-flagged-ai-detectors-false-positives-and-the-inversion-of-trust-3h02)
 - [How to Integrate Wallet-as-a-Service Into Your App: A Developer-Friendly Guide](https://dev.to/dan_keller/how-to-integrate-wallet-as-a-service-into-your-app-a-developer-friendly-guide-mnl)
 - [2 options to install Cursor CLI for Windows &lpar;WSL2&rpar;](https://dev.to/henriqueholtz/2-options-to-install-cursor-cli-for-windows-wsl2-49j7)
 - [Kicking Off 2026: World Cup Predictions &amp; Insights](https://dev.to/mabualzait/kicking-off-2026-world-cup-predictions-insights-4pg8)
 - [Wallet-as-a-Service: The Missing Layer in Modern Web3 Infrastructure](https://dev.to/dan_keller/wallet-as-a-service-the-missing-layer-in-modern-web3-infrastructure-3pin)
-- [SKALDA – privacy-first browser tools that run entirely in your browser](https://dev.to/skalda/skalda-privacy-first-browser-tools-that-run-entirely-in-your-browser-8gi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
