@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Agents 101 — Build and Deploy AI Agents to Production using LangChain](https://dev.to/manishmshiva/agents-101-build-and-deploy-ai-agents-to-production-using-langchain-535k)
-- [🔌The Magic of MCP Servers: Unlocking Infinite Context for AI](https://dev.to/brunoenr/the-magic-of-mcp-servers-unlocking-infinite-context-for-ai-40i1)
-- [Why Running AI Locally Is More Demanding Than You Think: Inside the Hardware Strain](https://dev.to/emma_schmidt_/why-running-ai-locally-is-more-demanding-than-you-think-inside-the-hardware-strain-12e9)
-- [The AI Gold Rush&#39;s Dirty Secret: Why OpenAI Loses Money on Every Customer](https://dev.to/ryo_suwito/the-ai-gold-rushs-dirty-secret-why-openai-loses-money-on-every-customer-3npl)
-- [🚀 Helm for Beginners — What, Why, and First Hands-On Task on GKE Cluster](https://dev.to/latchudevops/helm-for-beginners-what-why-and-first-hands-on-task-on-gke-cluster-27f7)
+- [Modern Logging with Grafana Alloy + Loki](https://dev.to/sharonkynu/modern-logging-with-grafana-alloy-loki-53ll)
+- [ESPB: WASM-like bytecode interpreter for ESP32 with seamless FreeRTOS integration.](https://dev.to/andrey_asx_6a2421d07b6d62/espb-wasm-like-bytecode-interpreter-for-esp32-with-seamless-freertos-integration-4f19)
+- [Code Detective: Using Vector Databases to Power AI-Powered Search and Docs](https://dev.to/mabualzait/code-detective-using-vector-databases-to-power-ai-powered-search-and-docs-3g07)
+- [TikTok Search Optimization: How to Rank When Gen Z Ditches Google](https://dev.to/synergistdigitalmedia/tiktok-search-optimization-how-to-rank-when-gen-z-ditches-google-e2h)
+- [Beyond Function Calling: Introducing Advanced Tool Orchestration on the Claude Developer Platform](https://dev.to/sauravkumar8178/beyond-function-calling-introducing-advanced-tool-orchestration-on-the-claude-developer-platform-5g69)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
