@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [MySQL HeatWave: Migrating Your Data to HeatWave Service](https://dev.to/derrickryangiggs/mysql-heatwave-migrating-your-data-to-heatwave-service-51ei)
+- [The Rising Complexity of Modern CSS](https://dev.to/alex-beygi/the-rising-complexity-of-modern-css-5a09)
+- [DEVLOG #0-What is DEBMO?](https://dev.to/debmo_1904/devlog-0-what-is-debmo-54cp)
 - [🚀 22s to 4s: How AI Fixed Our Vitest Performance](https://dev.to/56_kode/22s-to-4s-how-ai-fixed-our-vitest-performance-47a9)
-- [Demo](https://dev.to/jenil_sheth_3eb6f86dc4900/demo-fmb)
-- [Serverless vs Containers: What’s Winning in 2026?](https://dev.to/ripenapps-technologies/serverless-vs-containers-whats-winning-in-2026-556e)
-- [Plug &amp; Productionize Your AI Agents with AWS Bedrock AgentCore](https://dev.to/aws-builders/plug-productionize-your-ai-agents-with-aws-bedrock-agentcore-3g64)
-- [AI Agent Frameworks: A Practical Guide](https://dev.to/jeni860/ai-agent-frameworks-a-practical-guide-pi0)
+- [The Workforce of Tomorrow: How Monitoring Shapes Team Excellence](https://dev.to/timechamp01/the-workforce-of-tomorrow-how-monitoring-shapes-team-excellence-50h0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
