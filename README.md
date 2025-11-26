@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Rails Designer&#39;s Black Friday/Cyber Monday deal](https://dev.to/railsdesigner/rails-designers-black-fridaycyber-monday-deal-2m36)
-- [Criei um Bot de IA no WhatsApp usando Spring Boot e GANs para processar imagens 🤖🎨](https://dev.to/lucas_lamounier_cd8603fee/criei-um-bot-de-ia-no-whatsapp-usando-spring-boot-e-gans-para-processar-imagens-4g7g)
-- [3 Ways to Actually Improve Your Work Performance &lpar;That Changed Everything for Me&rpar;](https://dev.to/get_pieces/3-ways-to-actually-improve-your-work-performance-that-changed-everything-for-me-1nn4)
-- [How I Automated My Standup Meetings &lpar;And Why You Should Too&rpar;](https://dev.to/get_pieces/how-i-automated-my-standup-meetings-and-why-you-should-too-4aa8)
-- [Como criar e gerenciar seu primeiro banco PostgreSQL na Magalu Cloud](https://dev.to/magalucloud/como-criar-e-gerenciar-seu-primeiro-banco-postgresql-na-magalu-cloud-1k40)
+- [iOS Unit Testing Tutorial with Xcode &amp; Swift](https://dev.to/morrismoses149/ios-unit-testing-tutorial-with-xcode-swift-3jb7)
+- [GitOps &amp; Argo CD: A Complete Introduction.](https://dev.to/careerbytecode/gitops-argo-cd-a-complete-introduction-1l08)
+- [CKS Notes - some notes on docker&lpar;podman&rpar;](https://dev.to/cheedge_lee/cks-notes-some-notes-on-dockerpodman-gmk)
+- [Power BI Embedded ile CRM ekranına custom rapor nasıl eklenir?](https://dev.to/oguzhanasan1/power-bi-embedded-ile-crm-ekranina-custom-rapor-nasil-eklenir-mah)
+- [Building a Scalable Community Health Worker Analytics Platform: My Journey with dbt and Snowflake](https://dev.to/augo_amos/building-a-scalable-community-health-worker-analytics-platform-my-journey-with-dbt-and-snowflake-7gc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
