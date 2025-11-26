@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What makes .NET development solutions ideal for managing retail inventory?](https://dev.to/mindfiresolutions/what-makes-net-development-solutions-ideal-for-managing-retail-inventory-1d28)
-- [Nest Thermostat Error Codes &amp; Complete Troubleshooting Guide [2552]](https://dev.to/bryan_collins_abcd0214d94/nest-thermostat-error-codes-complete-troubleshooting-guide-2552-71g)
-- [AI-Powered Documentation: The End of Outdated Docs &lpar;and Developer Headaches&rpar;](https://dev.to/apilover/ai-powered-documentation-the-end-of-outdated-docs-and-developer-headaches-4m8b)
-- [Securing Legacy: Effective Succession Planning for Dairy Farms](https://dev.to/alyssa-miller/securing-legacy-effective-succession-planning-for-dairy-farms-4lhj)
-- [A Smarter Workflow for Debugging and Problem-Solving](https://dev.to/leena_malhotra/a-smarter-workflow-for-debugging-and-problem-solving-khi)
+- [Language Aggregation in OpenSearch: Selecting One Document Per Group by Language Preference](https://dev.to/aws-builders/language-aggregation-in-opensearch-selecting-one-document-per-group-by-language-preference-4kn9)
+- [The Two Programming Styles of AI — and Why Everyone Uses the Wrong One](https://dev.to/jose_crespo_phd/the-two-programming-styles-of-ai-and-why-everyone-uses-the-wrong-one-c0n)
+- [Creating IAM User, S3 Bucket and VPC](https://dev.to/adarsh_gupta_c5fecf658fd7/creating-iam-user-s3-bucket-and-vpc-3262)
+- [&quot;Dependency injection patterns in Swift&quot;](https://dev.to/michal_cichon/dependency-injection-patterns-in-swift-4lbc)
+- [Fixing React Error #306 in Next.js App Router](https://dev.to/iraycd/fixing-react-error-306-in-nextjs-app-router-49dd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
