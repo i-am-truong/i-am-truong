@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Hidden Cost of Utility Types and Inheritance in TypeScript](https://dev.to/fhaponenka/the-hidden-cost-of-utility-types-and-inheritance-in-typescript-14f1)
-- [HashMap in Java - Complete Documentation](https://dev.to/ashifur_nahid_c0cbfcc7105/hashmap-in-java-complete-documentation-n4m)
-- [10 Lessons About App Development I Learned After Submitting My First iOS App](https://dev.to/olivia-john/10-lessons-about-app-development-i-learned-after-submitting-my-first-ios-app-37b)
-- [Agentic AI for Startups: How Founders Can Use Agents to Scale Faster](https://dev.to/aziro_tech_8cf3f347e4e95b/agentic-ai-for-startups-how-founders-can-use-agents-to-scale-faster-10d3)
-- [Which workplace chat tool do you think balances usability and noise the best?](https://dev.to/clariti_22_6e89b280ccd102/which-workplace-chat-tool-do-you-think-balances-usability-and-noise-the-best-2pf3)
+- [🚀 22s to 4s: How AI Fixed Our Vitest Performance](https://dev.to/56_kode/22s-to-4s-how-ai-fixed-our-vitest-performance-47a9)
+- [Demo](https://dev.to/jenil_sheth_3eb6f86dc4900/demo-fmb)
+- [Serverless vs Containers: What’s Winning in 2026?](https://dev.to/ripenapps-technologies/serverless-vs-containers-whats-winning-in-2026-556e)
+- [Plug &amp; Productionize Your AI Agents with AWS Bedrock AgentCore](https://dev.to/aws-builders/plug-productionize-your-ai-agents-with-aws-bedrock-agentcore-3g64)
+- [AI Agent Frameworks: A Practical Guide](https://dev.to/jeni860/ai-agent-frameworks-a-practical-guide-pi0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
