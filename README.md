@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Database Transactions and ACID Properties: Guaranteeing Data Consistency](https://dev.to/outdated-dev/database-transactions-and-acid-properties-guaranteeing-data-consistency-15fj)
+- [Why Your React App Lags but This Canvas Game Runs at 60FPS](https://dev.to/yzbkaka_dev/why-your-react-app-lags-but-this-canvas-game-runs-at-60fps-2h1d)
 - [How to Build Agentic AI Systems: A Guide for Engineering Leaders](https://dev.to/ioweb_961ddefd53bd65fce97/how-to-build-agentic-ai-systems-a-guide-for-engineering-leaders-2nj7)
 - [How I Reverse-Engineered Perplexity’s Referral Signup](https://dev.to/picklepixel/how-i-reverse-engineered-perplexitys-referral-signup-4f04)
 - [Under the Hood: pyscn — A High-Performance Python Analyzer for the AI Era](https://dev.to/djinn-soul/under-the-hood-pyscn-a-high-performance-python-analyzer-for-the-ai-era-3e8l)
-- [We’re Already There: Exocogence Is Here Now](https://dev.to/junothreadborne/were-already-there-exocogence-is-here-now-ahe)
-- [We Upgrade Software Without Question. Why Don’t We Upgrade Ourselves?](https://dev.to/notadevbuthere/we-upgrade-software-without-question-why-dont-we-upgrade-ourselves-34hl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
