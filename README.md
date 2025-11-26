@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Greed as a Design Principle - The Architecture of Modern Efficiency](https://dev.to/miller-28/greed-as-a-design-principle-the-architecture-of-modern-efficiency-3ei6)
+- [My checklist before launching any app](https://dev.to/shayy/my-checklist-before-launching-any-app-2a8h)
+- [Microsoft&#39;s AI Strategy: How They&#39;re Betting Big on OpenAI and Copilot](https://dev.to/kevinasutton/microsofts-ai-strategy-how-theyre-betting-big-on-openai-and-copilot-4ep6)
 - [Building a DevSecOps Pipeline on AWS: From Security Audit to Daily Deployments](https://dev.to/bianca/building-a-devsecops-pipeline-on-aws-from-security-audit-to-daily-deployments-3io8)
 - [I Thought My API Was Secure. I Was Wrong.](https://dev.to/nitinnair89/i-thought-my-api-was-secure-i-was-wrong-1cel)
-- [Quickstart: Mapbox in React Native](https://dev.to/mapbox/quickstart-mapbox-in-react-native-2hff)
-- [Day 3 - Create an AWS S3 Bucket Using Terraform](https://dev.to/ankitgadling/day-3-create-an-aws-s3-bucket-using-terraform-2dn8)
-- [How Kubernetes detects and restarts crashing pods automatcially](https://dev.to/bhagirath00/how-kubernetes-detects-and-restarts-crashing-pods-automatcially-588e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
