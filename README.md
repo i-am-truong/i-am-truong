@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 3/30: My First Resource – S3 Bucket! 🪣☁️](https://dev.to/gokulprasath_n_42438fd633/day-330-my-first-resource-s3-bucket-k52)
+- [Spin Up ComfyUI on Vast.ai Without Surprises: A Practical, Developer-First Guide](https://dev.to/promptingpixels/spin-up-comfyui-on-vastai-without-surprises-a-practical-developer-first-guide-2k16)
 - [My First DevOps Project](https://dev.to/danyang007/my-first-devops-project-3f8p)
 - [How to Automate Instance Management with AWS SDK for Python &lpar;Boto3&rpar;](https://dev.to/taiwoakinbolaji/how-to-automate-instance-management-with-aws-sdk-for-python-boto3-33i3)
 - [The Silent Struggle of the High-Achiever: Why your own high standards are making you tired](https://dev.to/cathylai/the-silent-struggle-of-the-high-achiever-why-your-own-high-standards-are-making-you-tired-3lll)
-- [Qeltrix V3: Asymmetric Key Transport and the Universal Dispatcher Era](https://dev.to/hejhdiss/qeltrix-v3-asymmetric-key-transport-and-the-universal-dispatcher-era-3if5)
-- [My First Day with Terraform](https://dev.to/alafiz/my-first-day-with-terraform-1di9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
