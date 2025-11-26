@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How do you use AI in your work? And what&#39;s your limit?](https://dev.to/rasheedmozaffar/how-do-you-use-ai-in-your-work-and-whats-your-limit-1g57)
+- [Faster SQLite Lookups in Node.js Using Hash Keys &amp; Indexing](https://dev.to/lovestaco/faster-sqlite-lookups-in-nodejs-using-hash-keys-indexing-npc)
+- [AI Won’t Replace You, But an Engineer Who Knows How to Use It Might](https://dev.to/betterengineer/ai-wont-replace-you-but-an-engineer-who-knows-how-to-use-it-might-2naa)
 - [The Squirrel 🐿 Fell into the Well 😧](https://dev.to/vigneshwaralingam/the-squirrel-fell-into-the-well-3le8)
 - [Building Krome — My Clean, Modern AI Agent Template for Next.js](https://dev.to/sushilmagare10/behind-the-build-krome-2nnf)
-- [THINKING GAME DOCUMENTARY: MY REVIEW](https://dev.to/pauletart/thinking-game-documentary-my-review-36c4)
-- [Untitled](https://dev.to/maryam_alshehhi_8ec958c8d/untitled-4gbb)
-- [Write Clean Code](https://dev.to/mohamed_emad_19d0699f623d/write-clean-code-37p9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
