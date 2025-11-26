@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Concurrency: A Guide to Threads, Processes, and Asyncio](https://dev.to/ctrix/python-concurrency-a-guide-to-threads-processes-and-asyncio-45n4)
+- [The Future of Developers with AI](https://dev.to/ndabene/the-future-of-developers-with-ai-3pg7)
 - [Modern Logging with Grafana Alloy + Loki](https://dev.to/sharonkynu/modern-logging-with-grafana-alloy-loki-53ll)
 - [ESPB: WASM-like bytecode interpreter for ESP32 with seamless FreeRTOS integration.](https://dev.to/andrey_asx_6a2421d07b6d62/espb-wasm-like-bytecode-interpreter-for-esp32-with-seamless-freertos-integration-4f19)
 - [Code Detective: Using Vector Databases to Power AI-Powered Search and Docs](https://dev.to/mabualzait/code-detective-using-vector-databases-to-power-ai-powered-search-and-docs-3g07)
-- [TikTok Search Optimization: How to Rank When Gen Z Ditches Google](https://dev.to/synergistdigitalmedia/tiktok-search-optimization-how-to-rank-when-gen-z-ditches-google-e2h)
-- [Beyond Function Calling: Introducing Advanced Tool Orchestration on the Claude Developer Platform](https://dev.to/sauravkumar8178/beyond-function-calling-introducing-advanced-tool-orchestration-on-the-claude-developer-platform-5g69)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
