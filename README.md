@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Greed as a Design Principle - The Architecture of Modern Efficiency](https://dev.to/miller-28/greed-as-a-design-principle-the-architecture-of-modern-efficiency-3ei6)
-- [My checklist before launching any app](https://dev.to/shayy/my-checklist-before-launching-any-app-2a8h)
-- [Microsoft&#39;s AI Strategy: How They&#39;re Betting Big on OpenAI and Copilot](https://dev.to/kevinasutton/microsofts-ai-strategy-how-theyre-betting-big-on-openai-and-copilot-4ep6)
-- [Building a DevSecOps Pipeline on AWS: From Security Audit to Daily Deployments](https://dev.to/bianca/building-a-devsecops-pipeline-on-aws-from-security-audit-to-daily-deployments-3io8)
-- [I Thought My API Was Secure. I Was Wrong.](https://dev.to/nitinnair89/i-thought-my-api-was-secure-i-was-wrong-1cel)
+- [Microservices Authentication &amp; Authorization: A Beginner&#39;s Guide](https://dev.to/rushier/microservices-authentication-authorization-a-beginners-guide-1hde)
+- [Data Lakes vs. Data Warehouses: Which Model Fits Your Use Case?](https://dev.to/mathewpregasen/data-lakes-vs-data-warehouses-which-model-fits-your-use-case-46mm)
+- [What is Nuxeo? A brutally honest assessment from 10+ years of implementation](https://dev.to/thecontenthorizon/what-is-nuxeo-a-brutally-honest-assessment-from-10-years-of-implementation-1ae6)
+- [I Built an Animated UI Library for CSS Haters](https://dev.to/karan_k/i-built-an-animated-ui-library-for-css-haters-1nn6)
+- [Type hints in Python &lpar;6&rpar;](https://dev.to/hyperkai/type-hints-in-python-6-5d84)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
