@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Regression Testing Keeps Agile Teams Fast, Reliable, and Release-Ready](https://dev.to/aio_tests_903984883a574e9/how-regression-testing-keeps-agile-teams-fast-reliable-and-release-ready-5b1j)
-- [Mantine Window: Desktop‑style power for your React apps](https://dev.to/undolog/mantine-window-desktop-style-power-for-your-react-apps-47i9)
-- [Next.js vs WordPress for SEO: What the Community Really Thinks](https://dev.to/tudorcrisan/nextjs-vs-wordpress-for-seo-what-the-community-really-thinks-56oj)
-- [Build an Amazon Scraper Using Your Chrome Profile](https://dev.to/letsscrape/build-an-amazon-scraper-using-your-chrome-profile-dnk)
-- [Delta Lake Health Analyzer](https://dev.to/razorpaytech/delta-lake-health-analyzer-fg)
+- [The Dual-Track Skill Engine &lpar;DTSE&rpar;](https://dev.to/reda3600/the-dual-track-skill-engine-dtse-13oa)
+- [Nest Thermostat Error Codes &amp; Complete Troubleshooting Guide [6924]](https://dev.to/bryan_collins_abcd0214d94/nest-thermostat-error-codes-complete-troubleshooting-guide-6924-2d9o)
+- [Why Communication Platforms Break When They Start Scaling](https://dev.to/jackmorris10/why-communication-platforms-break-when-they-start-scaling-162p)
+- [The Complete Guide to Next.js SEO Optimization in 2025](https://dev.to/tudorcrisan/the-complete-guide-to-nextjs-seo-optimization-in-2025-460h)
+- [How Salesforce Consulting Services Transform Businesses for Better Lead Management and Faster Growth!](https://dev.to/janbasit/how-salesforce-consulting-services-transform-businesses-for-better-lead-management-and-faster-23m6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
