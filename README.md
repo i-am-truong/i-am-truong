@@ -122,9 +122,9 @@ Python                   1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [How Regression Testing Keeps Agile Teams Fast, Reliable, and Release-Ready](https://dev.to/aio_tests_903984883a574e9/how-regression-testing-keeps-agile-teams-fast-reliable-and-release-ready-5b1j)
 - [Mantine Window: Desktop‑style power for your React apps](https://dev.to/undolog/mantine-window-desktop-style-power-for-your-react-apps-47i9)
+- [Next.js vs WordPress for SEO: What the Community Really Thinks](https://dev.to/tudorcrisan/nextjs-vs-wordpress-for-seo-what-the-community-really-thinks-56oj)
 - [Build an Amazon Scraper Using Your Chrome Profile](https://dev.to/letsscrape/build-an-amazon-scraper-using-your-chrome-profile-dnk)
 - [Delta Lake Health Analyzer](https://dev.to/razorpaytech/delta-lake-health-analyzer-fg)
-- [We Tested Meta&#39;s Advantage+ Creative in 50 Campaigns: Here&#39;s What Actually Moved the Needle](https://dev.to/synergistdigitalmedia/we-tested-metas-advantage-creative-in-50-campaigns-heres-what-actually-moved-the-needle-4mle)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
