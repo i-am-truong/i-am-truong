@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Day I Learned Why Dev Environments Exist 🤯](https://dev.to/notrobot200/the-day-i-learned-why-dev-environments-exist-3l00)
-- [Refactoring the Audio Pipeline: From Latent Space to Production](https://dev.to/thi_ngocnguyen_877eb37e4/refactoring-the-audio-pipeline-from-latent-space-to-production-e2m)
-- [9 Nano Banana Pro Use Cases That Will Blow Your Mind](https://dev.to/nitinfab/9-nano-banana-pro-use-cases-that-will-blow-your-mind-4l76)
-- [PWC 349 More complex than it has to be](https://dev.to/boblied/pwc-349-more-complex-than-it-has-to-be-2c7e)
-- [Top 10 Best Web Agency Offshore for Global Businesses &lpar;2025&rpar;](https://dev.to/tot2019/top-10-best-web-agency-offshore-for-global-businesses-2025-1e1k)
+- [🚀 Helm for Beginners — What, Why, and First Hands-On Task on GKE Cluster](https://dev.to/latchudevops/helm-for-beginners-what-why-and-first-hands-on-task-on-gke-cluster-27f7)
+- [The Evolution of Software Testing: Moving from Automation Tools to Automation Strategy](https://dev.to/misterankit/the-evolution-of-software-testing-moving-from-automation-tools-to-automation-strategy-3c7m)
+- [Browser Storage Deep Dive: Cache vs IndexedDB for Scalable PWAs](https://dev.to/mino/browser-storage-deep-dive-cache-vs-indexeddb-for-scalable-pwas-35f4)
+- [I Built a &#39;Sudo&#39; Command for AI Agents &lpar;and Why You Need It&rpar;](https://dev.to/xywa23/i-built-a-sudo-command-for-ai-agents-and-why-you-need-it-3k9b)
+- [How can developers create and manage custom popup views in HarmonyOS?](https://dev.to/harmonyos/how-can-developers-create-and-manage-custom-popup-views-in-harmonyos-2aan)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
