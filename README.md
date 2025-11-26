@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [BudgetBuddy — The First Finance App That Understands Your Emotions Before Your Money](https://dev.to/jainishah/budgetbuddy-the-first-finance-app-that-understands-your-emotions-before-your-money-27i0)
-- [Unpacking the Foundation: Understanding Azure&#39;s Core Architectural Components](https://dev.to/afo_techie/unpacking-the-foundation-understanding-azures-core-architectural-components-4b)
-- [Introducing Our AI Agent: Vision-Language Automation for Real Apps](https://dev.to/gaddour/introducing-our-ai-agent-vision-language-automation-for-real-apps-131b)
-- [Europe Launches OGCR: A New Open-Source Carbon Registry for Agriculture and Forestry](https://dev.to/ogcr/europe-launches-ogcr-a-new-open-source-carbon-registry-for-agriculture-and-forestry-1i6o)
-- [2025: How to Use AI to Never Miss Anything You&#39;re Interested in](https://dev.to/mtarden/2025-how-to-use-ai-to-never-miss-anything-youre-interested-in-23nn)
+- [Building a Production-Grade MongoDB Cluster on Kubernetes: A Complete Guide to Horizontal Scalability](https://dev.to/araldhafeeri/building-a-production-grade-mongodb-cluster-on-kubernetes-a-complete-guide-to-horizontal-146f)
+- [Build a SaaS Admin Dashboard with React, Shadcn UI &amp; TypeScript](https://dev.to/codewithsadee/build-a-saas-admin-dashboard-with-react-shadcn-ui-typescript-23o4)
+- [The Complete Guide to Security Operations Centers &lpar;SOC&rpar; in 2025: Importance, Benefits &amp; How SOC Protects Modern Businesses](https://dev.to/mohansh_technologies_a5e1/the-complete-guide-to-security-operations-centers-soc-in-2025-importance-benefits-how-soc-48kf)
+- [Responding to a Critical Production Incident: A Fintech Case Study with AWS](https://dev.to/bianca/responding-to-a-critical-production-incident-a-fintech-case-study-with-aws-20i5)
+- [How to Use Coverlet Coverage Thresholds to Enforce Better Testing Standards?](https://dev.to/sophielane/how-to-use-coverlet-coverage-thresholds-to-enforce-better-testing-standards-3pec)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
