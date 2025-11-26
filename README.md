@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [IVVV Stack](https://dev.to/stakiran/ivvv-stack-3pjp)
+- [Building AI-First DevOps: My very personal view on Vibe Coding and Autonomous Development](https://dev.to/nantero/building-ai-first-devops-my-very-personal-view-on-vibe-coding-and-autonomous-development-2og1)
+- [How to launch your SaaS as an engineer](https://dev.to/egledigital/how-to-launch-your-saas-as-an-engineer-2hj)
+- [Garbage Collection: Young Vs Old generation](https://dev.to/md_ashraf_dev_to/garbage-collection-young-vs-old-generation-4bkn)
 - [Stop Wrestling with React Icons - Meet Iconx: Your New Icon Workflow](https://dev.to/eelcodotdev/stop-wrestling-with-react-icons-meet-iconx-your-new-icon-workflow-2b8i)
-- [Apache Doris AI Capabilities Unveiled &lpar;Part II&rpar;: Deep Analysis of AI_AGG and EMBED Functions](https://dev.to/apachedoris/apache-doris-ai-capabilities-unveiled-part-ii-deep-analysis-of-aiagg-and-embed-functions-2kek)
-- [I Built FlowCraft: An AI-Powered Diagram Generator for VS Code Developers](https://dev.to/shagun_mistry/i-built-flowcraft-an-ai-powered-diagram-generator-for-vs-code-developers-6ik)
-- [Affected by the AWS Outage? 5 Things to Do Tomorrow for Your Cloud Resilience ⚡](https://dev.to/terraformmonkey/affected-by-the-aws-outage-5-things-to-do-tomorrow-for-your-cloud-resilience-2emb)
-- [Stop Burning Cash on Brackets: Switch to TOON Because JSON is Too Expensive for AI](https://dev.to/devendra_singh_f5e85b1362/stop-burning-cash-on-brackets-switch-to-toon-because-json-is-too-expensive-for-ai-366g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
