@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Dual-Track Skill Engine &lpar;DTSE&rpar;](https://dev.to/reda3600/the-dual-track-skill-engine-dtse-13oa)
-- [Nest Thermostat Error Codes &amp; Complete Troubleshooting Guide [6924]](https://dev.to/bryan_collins_abcd0214d94/nest-thermostat-error-codes-complete-troubleshooting-guide-6924-2d9o)
-- [Why Communication Platforms Break When They Start Scaling](https://dev.to/jackmorris10/why-communication-platforms-break-when-they-start-scaling-162p)
-- [The Complete Guide to Next.js SEO Optimization in 2025](https://dev.to/tudorcrisan/the-complete-guide-to-nextjs-seo-optimization-in-2025-460h)
-- [How Salesforce Consulting Services Transform Businesses for Better Lead Management and Faster Growth!](https://dev.to/janbasit/how-salesforce-consulting-services-transform-businesses-for-better-lead-management-and-faster-23m6)
+- [Top 10 Mistakes Developers Still Make with Firebase in 2025](https://dev.to/mridudixit15/top-10-mistakes-developers-still-make-with-firebase-in-2025-53ah)
+- [How AI and Procedural Generation Are Transforming Role Play Game Development](https://dev.to/sarah_taylor_c02e59164123/how-ai-and-procedural-generation-are-transforming-role-play-game-development-3ml4)
+- [Run React Native Background Tasks 2026 For Optimal Performance](https://dev.to/eira-wexford/run-react-native-background-tasks-2026-for-optimal-performance-d26)
+- [We Used Claude to Build an Entire n8n Workflow in Minutes: Here’s What Actually Happened](https://dev.to/ciphernutz/we-used-claude-to-build-an-entire-n8n-workflow-in-minutes-heres-what-actually-happened-3nd7)
+- [Why Decentralized Exchanges Matter More Than Ever for Developers](https://dev.to/umang_suthar_9bad6f345a8a/why-decentralized-exchanges-matter-more-than-ever-for-developers-ik9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
