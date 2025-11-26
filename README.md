@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Social impact media: feedback on how to stop doomscrolling](https://dev.to/vitalina_531bb5c74e677f69/social-impact-media-feedback-on-how-to-stop-doomscrolling-6kl)
-- [What Modern Python Uses for Async API Calls: HTTPX &amp; TaskGroups](https://dev.to/dentedlogic/what-modern-python-uses-for-async-api-calls-httpx-taskgroups-3e4e)
-- [AI Specification Driven Development](https://dev.to/rillus/ai-specification-driven-development-4n93)
-- [Source Code Analysis of the Nonlinear Chinese-Style Reporting Engine NopReport](https://dev.to/canonical/source-code-analysis-of-the-nonlinear-chinese-style-reporting-engine-nopreport-2d21)
-- [Open-source Chinese-style reporting engine using Excel as the designer: NopReport](https://dev.to/canonical/open-source-chinese-style-reporting-engine-using-excel-as-the-designer-nopreport-2j20)
+- [PWC 349 More complex than it has to be](https://dev.to/boblied/pwc-349-more-complex-than-it-has-to-be-2c7e)
+- [General Delta Quantization Mechanism](https://dev.to/canonical/general-delta-quantization-mechanism-2oea)
+- [Java String trim&lpar;&rpar; Explained: Clean Your Strings Like a Pro](https://dev.to/satyam_gupta_0d1ff2152dcc/java-string-trim-explained-clean-your-strings-like-a-pro-10g5)
+- [A Complete Guide to MariaDB: Architecture, Features, Installation, and Best Practices](https://dev.to/farhadrahimiklie/a-complete-guide-to-mariadb-architecture-features-installation-and-best-practices-3kpf)
+- [Understanding Arithmetic and Logical Operators in Python — A Practical Guide for Developers](https://dev.to/anidigitalhub/understanding-arithmetic-and-logical-operators-in-python-a-practical-guide-for-developers-l63)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
