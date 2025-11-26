@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Squirrel 🐿 Fell into the Well 😧](https://dev.to/vigneshwaralingam/the-squirrel-fell-into-the-well-3le8)
+- [Building Krome — My Clean, Modern AI Agent Template for Next.js](https://dev.to/sushilmagare10/behind-the-build-krome-2nnf)
+- [THINKING GAME DOCUMENTARY: MY REVIEW](https://dev.to/pauletart/thinking-game-documentary-my-review-36c4)
+- [Untitled](https://dev.to/maryam_alshehhi_8ec958c8d/untitled-4gbb)
 - [Write Clean Code](https://dev.to/mohamed_emad_19d0699f623d/write-clean-code-37p9)
-- [Stop wasting time on dud ChatGPT prompts.](https://dev.to/mashraf_aiman_b9a968e5c1d/stop-wasting-time-on-dud-chatgpt-prompts-2bdj)
-- [Building Modern Backends with Kaapi: Introduction &amp; Getting Started](https://dev.to/shygyver/building-modern-backends-with-kaapi-introduction-getting-started-2199)
-- [When PostgreSQL Transactions Lie to You: A Detective Story About Phantom Reads](https://dev.to/igornosatov_15/when-postgresql-transactions-lie-to-you-a-detective-story-about-phantom-reads-n6e)
-- [Why S3 Performance Limits Matter — and How Archil Solves Them](https://dev.to/mathewpregasen/why-s3-performance-limits-matter-and-how-archil-solves-them-7mp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
