@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What makes .NET development solutions ideal for managing retail inventory?](https://dev.to/mindfiresolutions/what-makes-net-development-solutions-ideal-for-managing-retail-inventory-1d28)
+- [Nest Thermostat Error Codes &amp; Complete Troubleshooting Guide [2552]](https://dev.to/bryan_collins_abcd0214d94/nest-thermostat-error-codes-complete-troubleshooting-guide-2552-71g)
 - [AI-Powered Documentation: The End of Outdated Docs &lpar;and Developer Headaches&rpar;](https://dev.to/apilover/ai-powered-documentation-the-end-of-outdated-docs-and-developer-headaches-4m8b)
 - [Securing Legacy: Effective Succession Planning for Dairy Farms](https://dev.to/alyssa-miller/securing-legacy-effective-succession-planning-for-dairy-farms-4lhj)
 - [A Smarter Workflow for Debugging and Problem-Solving](https://dev.to/leena_malhotra/a-smarter-workflow-for-debugging-and-problem-solving-khi)
-- [Turning GitLab Merge Requests into MCP-Native Data with gitlabmcp](https://dev.to/archiescoder/turning-gitlab-merge-requests-into-mcp-native-data-with-gitlabmcp-5o9)
-- [Three AI Tool Directories That Actually Matter](https://dev.to/foxinfotech/three-ai-tool-directories-that-actually-matter-ebm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
