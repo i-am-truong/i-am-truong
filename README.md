@@ -120,13 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [El conocimiento lingüístico en NLP: el puente entre la sintaxis y la semántica](https://dev.to/vicodev/el-conocimiento-linguistico-en-nlp-el-puente-entre-la-sintaxis-y-la-semantica-2m8a)
-- [Linguistic Knowledge in NLP: bridging syntax and semantics](https://dev.to/vicodev/linguistic-knowledge-in-nlp-bridging-syntax-and-semantics-11a7)
-- [Fedora 43 Post-Install Guide: 10 Essential Things to Do After Installing](https://dev.to/alldaylinux/fedora-43-post-install-guide-10-essential-things-to-do-after-installing-2m15)
-- [The developers who win the AI era will not be the ones who chase hype.
-
-And if we don’t talk about it, more developers will burn out, stall their careers, or build the wrong things.](https://dev.to/jaideepparashar/the-developers-who-win-the-ai-era-will-not-be-the-ones-who-chase-hype-and-if-we-dont-talk-56kl)
-- [Surgical Precision with AI: A New Era in Lung Cancer Staging](https://dev.to/arvind_sundararajan/surgical-precision-with-ai-a-new-era-in-lung-cancer-staging-a26)
+- [Social impact media: feedback on how to stop doomscrolling](https://dev.to/vitalina_531bb5c74e677f69/social-impact-media-feedback-on-how-to-stop-doomscrolling-6kl)
+- [What Modern Python Uses for Async API Calls: HTTPX &amp; TaskGroups](https://dev.to/dentedlogic/what-modern-python-uses-for-async-api-calls-httpx-taskgroups-3e4e)
+- [AI Specification Driven Development](https://dev.to/rillus/ai-specification-driven-development-4n93)
+- [Source Code Analysis of the Nonlinear Chinese-Style Reporting Engine NopReport](https://dev.to/canonical/source-code-analysis-of-the-nonlinear-chinese-style-reporting-engine-nopreport-2d21)
+- [Open-source Chinese-style reporting engine using Excel as the designer: NopReport](https://dev.to/canonical/open-source-chinese-style-reporting-engine-using-excel-as-the-designer-nopreport-2j20)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
