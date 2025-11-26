@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Stopped Fighting My AI How Kiro&#39;s agent hooks and steering files fixed my biggest frustration with AI coding tools](https://dev.to/ibrahimpima/i-stopped-fighting-my-ai-how-kiros-agent-hooks-and-steering-files-fixed-my-biggest-frustration-493m)
-- [Wing It: Cloud CRUD with Winglang](https://dev.to/pedramha/wing-it-cloud-crud-with-winglang-1c0i)
-- [Best Production Management Software for Small Manufacturers in 2025](https://dev.to/learndevts/best-production-management-software-for-small-manufacturers-in-2025-540d)
-- [**Implemente un Monitoreo Transaccional Sostenible con IA/ML](https://dev.to/drcarlosruizviquez/implemente-un-monitoreo-transaccional-sostenible-con-iaml-ij1)
-- [IVVV Stack](https://dev.to/stakiran/ivvv-stack-3pjp)
+- [Wallet-as-a-Service: The Missing Layer in Modern Web3 Infrastructure](https://dev.to/dan_keller/wallet-as-a-service-the-missing-layer-in-modern-web3-infrastructure-3pin)
+- [Boost Developer Revenue with Monetzly&#39;s AI Conversation API](https://dev.to/monetzly/boost-developer-revenue-with-monetzlys-ai-conversation-api-2861)
+- [SKALDA – privacy-first browser tools that run entirely in your browser](https://dev.to/skalda/skalda-privacy-first-browser-tools-that-run-entirely-in-your-browser-8gi)
+- [24-Hour Autonomous Codex Max: What Happens When Your Code Writes Itself?](https://dev.to/prateekshaweb/24-hour-autonomous-codex-max-what-happens-when-your-code-writes-itself-11j)
+- [Tame Your LLMs: A New Optimizer for Robust Deep Learning](https://dev.to/arvind_sundararajan/tame-your-llms-a-new-optimizer-for-robust-deep-learning-3aaj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
