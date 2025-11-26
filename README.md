@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Database Transactions and ACID Properties: Guaranteeing Data Consistency](https://dev.to/outdated-dev/database-transactions-and-acid-properties-guaranteeing-data-consistency-15fj)
-- [Why Your React App Lags but This Canvas Game Runs at 60FPS](https://dev.to/yzbkaka_dev/why-your-react-app-lags-but-this-canvas-game-runs-at-60fps-2h1d)
-- [How to Build Agentic AI Systems: A Guide for Engineering Leaders](https://dev.to/ioweb_961ddefd53bd65fce97/how-to-build-agentic-ai-systems-a-guide-for-engineering-leaders-2nj7)
-- [How I Reverse-Engineered Perplexity’s Referral Signup](https://dev.to/picklepixel/how-i-reverse-engineered-perplexitys-referral-signup-4f04)
-- [Under the Hood: pyscn — A High-Performance Python Analyzer for the AI Era](https://dev.to/djinn-soul/under-the-hood-pyscn-a-high-performance-python-analyzer-for-the-ai-era-3e8l)
+- [What Are the Common Pitfalls in Developing Financial Technology Products?](https://dev.to/it-influencer/what-are-the-common-pitfalls-in-developing-financial-technology-products-1djj)
+- [A C# File I/O Quick Reference For professionals](https://dev.to/recurpixel/a-c-file-io-quick-reference-for-professionals-2k5h)
+- [Cross-compiling Go Applications](https://dev.to/godofgeeks/cross-compiling-go-applications-4ced)
+- [CuraNexus Analytics – Security in Architecture, not Afterthought](https://dev.to/lfariaus/curanexus-analytics-security-in-architecture-not-afterthought-13j)
+- [My Journey With Docker Commands — Simple Tips](https://dev.to/sudhavelanpanju/my-journey-with-docker-commands-simple-tips-4n1a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
