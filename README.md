@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [When Jesus Walks Into the Story You Stopped Hoping Would Change: A Deep Encounter with John Chapter 5](https://dev.to/douglasvandergraph/when-jesus-walks-into-the-story-you-stopped-hoping-would-change-an-8000-word-deep-encounter-with-2988)
 - [iOS Unit Testing Tutorial with Xcode &amp; Swift](https://dev.to/morrismoses149/ios-unit-testing-tutorial-with-xcode-swift-3jb7)
 - [GitOps &amp; Argo CD: A Complete Introduction.](https://dev.to/careerbytecode/gitops-argo-cd-a-complete-introduction-1l08)
 - [CKS Notes - some notes on docker&lpar;podman&rpar;](https://dev.to/cheedge_lee/cks-notes-some-notes-on-dockerpodman-gmk)
 - [Power BI Embedded ile CRM ekranına custom rapor nasıl eklenir?](https://dev.to/oguzhanasan1/power-bi-embedded-ile-crm-ekranina-custom-rapor-nasil-eklenir-mah)
-- [Building a Scalable Community Health Worker Analytics Platform: My Journey with dbt and Snowflake](https://dev.to/augo_amos/building-a-scalable-community-health-worker-analytics-platform-my-journey-with-dbt-and-snowflake-7gc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
