@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Semantic Object Factory — The Missing Layer Between AI Intent and Backend Meaning](https://dev.to/bnggbn/the-semantic-object-factory-the-missing-layer-between-ai-intent-and-backend-meaning-1pf8)
-- [UT Registration Plus: An Overview](https://dev.to/derexxd/ut-registration-plus-an-overview-45hi)
-- [Introducing Remote MCP aka MCP Tool Triggers in Azure Functions: Building Intelligent AI Assistants in the Cloud](https://dev.to/swapnil_nagar_09cd69b8e11/introducing-remote-mcp-aka-mcp-tool-triggers-in-azure-functions-building-intelligent-ai-assistants-p47)
-- [The Future Belongs to System Thinkers](https://dev.to/farhannasirdev/the-future-belongs-to-system-thinkers-2pnl)
-- [If You’re Not All-in on Databricks: Why Metadata Freedom Matters](https://dev.to/datastrato/if-youre-not-all-in-on-databricks-why-metadata-freedom-matters-1d38)
+- [TWD 1.2.x release - Component mocking, test and ci improvements](https://dev.to/kevinccbsg/twd-12x-release-component-mocking-test-and-ci-improvements-1lc3)
+- [TRAE Global Best Practice Challenge - L](https://dev.to/vamp_e889546e10e432ca4c4d/trae-global-best-practice-challenge-l-4o36)
+- [Google&#39;s December 2025 Core Update Hit E-commerce Hard: Here&#39;s What Actually Changed](https://dev.to/synergistdigitalmedia/googles-december-2025-core-update-hit-e-commerce-hard-heres-what-actually-changed-3k46)
+- [Day 1275 : Thanksgiving](https://dev.to/dwane/day-1275-thanksgiving-30j7)
+- [Unlock Data Narratives: Visualize Processes with Skeleton Diagrams](https://dev.to/arvind_sundararajan/unlock-data-narratives-visualize-processes-with-skeleton-diagrams-35b5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
