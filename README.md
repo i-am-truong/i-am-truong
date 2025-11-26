@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Stopped Fighting My AI How Kiro&#39;s agent hooks and steering files fixed my biggest frustration with AI coding tools](https://dev.to/ibrahimpima/i-stopped-fighting-my-ai-how-kiros-agent-hooks-and-steering-files-fixed-my-biggest-frustration-493m)
+- [Wing It: Cloud CRUD with Winglang](https://dev.to/pedramha/wing-it-cloud-crud-with-winglang-1c0i)
 - [Best Production Management Software for Small Manufacturers in 2025](https://dev.to/learndevts/best-production-management-software-for-small-manufacturers-in-2025-540d)
+- [**Implemente un Monitoreo Transaccional Sostenible con IA/ML](https://dev.to/drcarlosruizviquez/implemente-un-monitoreo-transaccional-sostenible-con-iaml-ij1)
 - [IVVV Stack](https://dev.to/stakiran/ivvv-stack-3pjp)
-- [Building AI-First DevOps: My very personal view on Vibe Coding and Autonomous Development](https://dev.to/nantero/building-ai-first-devops-my-very-personal-view-on-vibe-coding-and-autonomous-development-2og1)
-- [How to launch your SaaS as an engineer](https://dev.to/egledigital/how-to-launch-your-saas-as-an-engineer-2hj)
-- [**Temporal Attention-based Long-Short Term Memory &lpar;TALSTM&rpar; C](https://dev.to/drcarlosruizviquez/temporal-attention-based-long-short-term-memory-talstm-c-1028)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
