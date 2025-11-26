@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How Regression Testing Keeps Agile Teams Fast, Reliable, and Release-Ready](https://dev.to/aio_tests_903984883a574e9/how-regression-testing-keeps-agile-teams-fast-reliable-and-release-ready-5b1j)
+- [Mantine Window: Desktop‑style power for your React apps](https://dev.to/undolog/mantine-window-desktop-style-power-for-your-react-apps-47i9)
 - [Build an Amazon Scraper Using Your Chrome Profile](https://dev.to/letsscrape/build-an-amazon-scraper-using-your-chrome-profile-dnk)
 - [Delta Lake Health Analyzer](https://dev.to/razorpaytech/delta-lake-health-analyzer-fg)
 - [We Tested Meta&#39;s Advantage+ Creative in 50 Campaigns: Here&#39;s What Actually Moved the Needle](https://dev.to/synergistdigitalmedia/we-tested-metas-advantage-creative-in-50-campaigns-heres-what-actually-moved-the-needle-4mle)
-- [Git Flow vs GitHub Flow : Understand in 3 Minutes](https://dev.to/hongster85/git-flow-vs-github-flow-understand-in-3-minutes-kmm)
-- [Munix - Hair Cutting Scissors Kit: Tips for Beginners to Avoid Mistakes](https://dev.to/mileskgoc1/munix-hair-cutting-scissors-kit-tips-for-beginners-to-avoid-mistakes-c4g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
