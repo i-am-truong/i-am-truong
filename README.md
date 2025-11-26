@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Measuring AI&#39;s Real Impact on Your Engineering Team](https://dev.to/manualwise/measuring-ais-real-impact-on-your-engineering-team-1ahg)
-- [Launch Your Product Faster with NextGen Tools – The Ultimate Product Launch Platform](https://dev.to/robg12369/launch-your-product-faster-with-nextgen-tools-the-ultimate-product-launch-platform-50d4)
-- [Stop Confusing Metrics with Quality](https://dev.to/hatem_zidi/stop-confusing-metrics-with-quality-18io)
-- [10 AI Coding Tools Every Developer Should Use Now](https://dev.to/rayyan_shaikh/10-ai-coding-tools-every-developer-should-use-now-37pp)
-- [Textual – Modern TUI Framework for Python](https://dev.to/imrrobot/textual-modern-tui-framework-for-python-3cci)
+- [Day F7: The Body-Mind-Code Connection &lpar;And Why I&#39;m Doomed This Week&rpar;](https://dev.to/casperday11/day-f7-the-body-mind-code-connection-and-why-im-doomed-this-week-b1)
+- [Баланс транзакцій: як уникнути подвійних ставок та подвійних виплат](https://dev.to/4mars/balans-tranzaktsii-iak-uniknuti-podviinikh-stavok-ta-podviinikh-viplat-39b5)
+- [How to Create Auto Scaling Groups of EC2 Instances for High Availability](https://dev.to/taiwoakinbolaji/how-to-create-auto-scaling-groups-of-ec2-instances-for-high-availability-3mj4)
+- [NextGen Tools: Product Launch Platform to Showcase Your AI and SaaS Tools](https://dev.to/robg12369/nextgen-tools-product-launch-platform-to-showcase-your-ai-and-saas-tools-1g90)
+- [Boost Your Startup with NextGen Tools – A Product Launch Platform That Works](https://dev.to/robg12369/boost-your-startup-with-nextgen-tools-a-product-launch-platform-that-works-35b6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
