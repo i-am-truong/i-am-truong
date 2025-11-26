@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Секретное оружие для работы с сотнями серверов](https://dev.to/itcaat/siekrietnoie-oruzhiie-dlia-raboty-s-sotniami-siervierov-e4b)
+- [Using LIKE with Variables and Patterns in SQL](https://dev.to/intersystems/using-like-with-variables-and-patterns-in-sql-40j9)
 - [Day 3/30: My First Resource – S3 Bucket! 🪣☁️](https://dev.to/gokulprasath_n_42438fd633/day-330-my-first-resource-s3-bucket-k52)
+- [Running InterSystems IRIS with Docker: A Step-by-Step Guide - Part 1: From the Basics to Custom Dockerfile](https://dev.to/intersystems/running-intersystems-iris-with-docker-a-step-by-step-guide-part-1-from-the-basics-to-custom-g6k)
 - [Spin Up ComfyUI on Vast.ai Without Surprises: A Practical, Developer-First Guide](https://dev.to/promptingpixels/spin-up-comfyui-on-vastai-without-surprises-a-practical-developer-first-guide-2k16)
-- [My First DevOps Project](https://dev.to/danyang007/my-first-devops-project-3f8p)
-- [How to Automate Instance Management with AWS SDK for Python &lpar;Boto3&rpar;](https://dev.to/taiwoakinbolaji/how-to-automate-instance-management-with-aws-sdk-for-python-boto3-33i3)
-- [The Silent Struggle of the High-Achiever: Why your own high standards are making you tired](https://dev.to/cathylai/the-silent-struggle-of-the-high-achiever-why-your-own-high-standards-are-making-you-tired-3lll)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
