@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [2FA2FA – Free Online Two-Factor Authentication Code Generator &lpar;No App Required&rpar;](https://dev.to/ago_91ee878ac36f5b3e6e157/2fa2fa-free-online-two-factor-authentication-code-generator-no-app-required-4ajg)
-- [I Developed a Game Called “Bug Sniper” for Finding Bugs in Code](https://dev.to/goofmint/i-developed-a-game-called-bug-sniper-for-finding-bugs-in-code-2hh4)
-- [Observables in SwiftUI](https://dev.to/muhdmirzamz/observables-in-swiftui-1kee)
-- [A Beginner-Friendly Guide to JavaScript Arrays &lpar;with Examples&rpar;](https://dev.to/rajmahto/a-beginner-friendly-guide-to-javascript-arrays-with-examples-2ppi)
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-4o36)
+- [Day 46: Python Moving Average Calculator, Optimized Sliding Window for Simple Moving Average Computation](https://dev.to/shahrouzlogs/day-46-python-moving-average-calculator-optimized-sliding-window-for-simple-moving-average-ne8)
+- [From Policy to Code: How Leading Companies Operationalize Privacy](https://dev.to/chaets/from-policy-to-code-how-leading-companies-operationalize-privacy-13cj)
+- [Understanding the Basics of Pay-Per-Click &lpar;PPC&rpar; Advertising](https://dev.to/ayisha_mk/understanding-the-basics-of-pay-per-click-ppc-advertising-1bga)
+- [Fixing SQL Injection Vulnerabilities to Strengthen Security](https://dev.to/_877737de2d34ff8c6265/fixing-sql-injection-vulnerabilities-to-strengthen-security-2pph)
+- [Rethinking State Management in React: A UI Architect’s Deep Dive Into “State Boundaries”](https://dev.to/riturathin/rethinking-state-management-in-react-a-ui-architects-deep-dive-into-state-boundaries-7o4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
