@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🧱 The Blueprint of Success: Mastering the Technical Requirements Document &lpar;TRD&rpar;](https://dev.to/mohammadidrees/the-blueprint-of-success-mastering-the-technical-requirements-document-trd-306g)
-- [2026 Marketing Budget Planning: The Framework That Actually Works When Finance Says No](https://dev.to/synergistdigitalmedia/2026-marketing-budget-planning-the-framework-that-actually-works-when-finance-says-no-2b7g)
-- [Beyond Filters: Rearchitecting Prompt Injection Defense](https://dev.to/narnaiezzsshaa/beyond-filters-rearchitecting-prompt-injection-defense-1h20)
-- [Beyond Normalization: Unlocking Database Power with Design Patterns](https://dev.to/muhammad_fayzliaqat_cc8b/beyond-normalization-unlocking-database-power-with-design-patterns-i5b)
-- [Beyond the Password: Fortifying User Authentication Security](https://dev.to/muhammad_fayzliaqat_cc8b/beyond-the-password-fortifying-user-authentication-security-50ip)
+- [Quickstart: Mapbox in React Native](https://dev.to/mapbox/quickstart-mapbox-in-react-native-2hff)
+- [Day 3 - Create an AWS S3 Bucket Using Terraform](https://dev.to/ankitgadling/day-3-create-an-aws-s3-bucket-using-terraform-2dn8)
+- [How Kubernetes detects and restarts crashing pods automatcially](https://dev.to/bhagirath00/how-kubernetes-detects-and-restarts-crashing-pods-automatcially-588e)
+- [🚀 Build Your First Remote MCP Server on Azure Using TypeScript — and Supercharge Your AI Workflows](https://dev.to/spboyer/build-your-first-remote-mcp-server-on-azure-using-typescript-and-supercharge-your-ai-workflows-4aib)
+- [aigit - Git workflow automation with AI](https://dev.to/hardiksondagar/aigit-git-workflow-automation-with-ai-3b17)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
