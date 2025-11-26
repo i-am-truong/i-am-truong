@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Private Finance Tool with Vanilla JS and Local Storage](https://dev.to/aiospark/how-i-built-a-private-finance-tool-with-vanilla-js-and-local-storage-1pel)
-- [What happens when you type a URL into your browser?](https://dev.to/giftintech/what-happens-when-you-type-a-url-into-your-browser-277l)
-- [Revolutionize Your Video Workflow with AI Clip Creation](https://dev.to/gerrit_cole/revolutionize-your-video-workflow-with-ai-clip-creation-14dn)
-- [Sha1-Hulud Attack: What Happened &amp; How to Clean Your GitHub Safely](https://dev.to/abbasmithaiwala/sha1-hulud-attack-what-happened-how-to-clean-your-github-safely-gea)
-- [Express.js API Scaling: 9 Essential Techniques for High-Performance Web Applications](https://dev.to/aaravjoshi/expressjs-api-scaling-9-essential-techniques-for-high-performance-web-applications-112j)
+- [Stop Burning Cash on Brackets: Switch to TOON Because JSON is Too Expensive for AI](https://dev.to/devendra_singh_f5e85b1362/stop-burning-cash-on-brackets-switch-to-toon-because-json-is-too-expensive-for-ai-366g)
+- [معرفی متاکلاس‌ها در پایتون](https://dev.to/pipinstalled/mrfy-mtkhlsh-dr-pytwn-3a34)
+- [Vibe Coding, Productivity, and Staying Sane with AI](https://dev.to/rohsyl/vibe-coding-productivity-and-staying-sane-with-ai-eb0)
+- [Terraform Plan: Your Last Line of Defense Before Infrastructure Changes](https://dev.to/terraformmonkey/terraform-plan-your-last-line-of-defense-before-infrastructure-changes-5ge1)
+- [Decoding the Blueprint: Navigating the World of Backend Architecture Patterns](https://dev.to/muhammad_fayzliaqat_cc8b/decoding-the-blueprint-navigating-the-world-of-backend-architecture-patterns-161i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
