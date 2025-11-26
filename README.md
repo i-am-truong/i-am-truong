@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How do you use AI in your work? And what&#39;s your limit?](https://dev.to/rasheedmozaffar/how-do-you-use-ai-in-your-work-and-whats-your-limit-1g57)
-- [Faster SQLite Lookups in Node.js Using Hash Keys &amp; Indexing](https://dev.to/lovestaco/faster-sqlite-lookups-in-nodejs-using-hash-keys-indexing-npc)
-- [AI Won’t Replace You, But an Engineer Who Knows How to Use It Might](https://dev.to/betterengineer/ai-wont-replace-you-but-an-engineer-who-knows-how-to-use-it-might-2naa)
-- [The Squirrel 🐿 Fell into the Well 😧](https://dev.to/vigneshwaralingam/the-squirrel-fell-into-the-well-3le8)
-- [Building Krome — My Clean, Modern AI Agent Template for Next.js](https://dev.to/sushilmagare10/behind-the-build-krome-2nnf)
+- [How I Built a Private Finance Tool with Vanilla JS and Local Storage](https://dev.to/aiospark/how-i-built-a-private-finance-tool-with-vanilla-js-and-local-storage-1pel)
+- [What happens when you type a URL into your browser?](https://dev.to/giftintech/what-happens-when-you-type-a-url-into-your-browser-277l)
+- [Revolutionize Your Video Workflow with AI Clip Creation](https://dev.to/gerrit_cole/revolutionize-your-video-workflow-with-ai-clip-creation-14dn)
+- [Sha1-Hulud Attack: What Happened &amp; How to Clean Your GitHub Safely](https://dev.to/abbasmithaiwala/sha1-hulud-attack-what-happened-how-to-clean-your-github-safely-gea)
+- [Express.js API Scaling: 9 Essential Techniques for High-Performance Web Applications](https://dev.to/aaravjoshi/expressjs-api-scaling-9-essential-techniques-for-high-performance-web-applications-112j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
