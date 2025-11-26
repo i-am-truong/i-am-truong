@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Rust Hello World: The Hard and the Smart Way](https://dev.to/francescoxx/rust-hello-world-the-hard-and-the-smart-way-36l7)
-- [🧠 Understanding Variance in TypeScript &amp; Flow: Covariant, Contravariant, Invariant, Bivariant](https://dev.to/nyaomaru/understanding-variance-in-typescript-flow-covariant-contravariant-invariant-bivariant-4fbi)
-- [Building a Gasless Marketplace on Polygon with x402 Protocol](https://dev.to/kirodotdev/building-a-gasless-marketplace-on-polygon-with-x402-protocol-25h9)
-- [Python Concurrency: A Guide to Threads, Processes, and Asyncio](https://dev.to/ctrix/python-concurrency-a-guide-to-threads-processes-and-asyncio-45n4)
-- [The Future of Developers with AI](https://dev.to/ndabene/the-future-of-developers-with-ai-3pg7)
+- [How to Build Agentic AI Systems: A Guide for Engineering Leaders](https://dev.to/ioweb_961ddefd53bd65fce97/how-to-build-agentic-ai-systems-a-guide-for-engineering-leaders-2nj7)
+- [How I Reverse-Engineered Perplexity’s Referral Signup](https://dev.to/picklepixel/how-i-reverse-engineered-perplexitys-referral-signup-4f04)
+- [Under the Hood: pyscn — A High-Performance Python Analyzer for the AI Era](https://dev.to/djinn-soul/under-the-hood-pyscn-a-high-performance-python-analyzer-for-the-ai-era-3e8l)
+- [We’re Already There: Exocogence Is Here Now](https://dev.to/junothreadborne/were-already-there-exocogence-is-here-now-ahe)
+- [We Upgrade Software Without Question. Why Don’t We Upgrade Ourselves?](https://dev.to/notadevbuthere/we-upgrade-software-without-question-why-dont-we-upgrade-ourselves-34hl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
