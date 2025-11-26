@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Секретное оружие для работы с сотнями серверов](https://dev.to/itcaat/siekrietnoie-oruzhiie-dlia-raboty-s-sotniami-siervierov-e4b)
-- [Using LIKE with Variables and Patterns in SQL](https://dev.to/intersystems/using-like-with-variables-and-patterns-in-sql-40j9)
-- [Day 3/30: My First Resource – S3 Bucket! 🪣☁️](https://dev.to/gokulprasath_n_42438fd633/day-330-my-first-resource-s3-bucket-k52)
-- [Running InterSystems IRIS with Docker: A Step-by-Step Guide - Part 1: From the Basics to Custom Dockerfile](https://dev.to/intersystems/running-intersystems-iris-with-docker-a-step-by-step-guide-part-1-from-the-basics-to-custom-g6k)
-- [Spin Up ComfyUI on Vast.ai Without Surprises: A Practical, Developer-First Guide](https://dev.to/promptingpixels/spin-up-comfyui-on-vastai-without-surprises-a-practical-developer-first-guide-2k16)
+- [Rails Designer&#39;s Black Friday/Cyber Monday deal](https://dev.to/railsdesigner/rails-designers-black-fridaycyber-monday-deal-2m36)
+- [Criei um Bot de IA no WhatsApp usando Spring Boot e GANs para processar imagens 🤖🎨](https://dev.to/lucas_lamounier_cd8603fee/criei-um-bot-de-ia-no-whatsapp-usando-spring-boot-e-gans-para-processar-imagens-4g7g)
+- [3 Ways to Actually Improve Your Work Performance &lpar;That Changed Everything for Me&rpar;](https://dev.to/get_pieces/3-ways-to-actually-improve-your-work-performance-that-changed-everything-for-me-1nn4)
+- [How I Automated My Standup Meetings &lpar;And Why You Should Too&rpar;](https://dev.to/get_pieces/how-i-automated-my-standup-meetings-and-why-you-should-too-4aa8)
+- [Como criar e gerenciar seu primeiro banco PostgreSQL na Magalu Cloud](https://dev.to/magalucloud/como-criar-e-gerenciar-seu-primeiro-banco-postgresql-na-magalu-cloud-1k40)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
