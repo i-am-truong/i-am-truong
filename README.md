@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Measuring AI&#39;s Real Impact on Your Engineering Team](https://dev.to/manualwise/measuring-ais-real-impact-on-your-engineering-team-1ahg)
+- [Launch Your Product Faster with NextGen Tools – The Ultimate Product Launch Platform](https://dev.to/robg12369/launch-your-product-faster-with-nextgen-tools-the-ultimate-product-launch-platform-50d4)
+- [Stop Confusing Metrics with Quality](https://dev.to/hatem_zidi/stop-confusing-metrics-with-quality-18io)
+- [10 AI Coding Tools Every Developer Should Use Now](https://dev.to/rayyan_shaikh/10-ai-coding-tools-every-developer-should-use-now-37pp)
 - [Textual – Modern TUI Framework for Python](https://dev.to/imrrobot/textual-modern-tui-framework-for-python-3cci)
-- [I Tested 7 Open Source Clerk Alternatives for Full-Stack Developers](https://dev.to/haneem/i-tested-7-open-source-clerk-alternatives-for-full-stack-developers-3d4c)
-- [The $847 Idle RDS Instance: A Deep Dive into AWS Cost Optimization](https://dev.to/cloudwiseteam/the-847-idle-rds-instance-a-deep-dive-into-aws-cost-optimization-4mhf)
-- [📺 ITV-60 – Mon lecteur IPTV personnel en ligne](https://dev.to/guillaumesere/itv-60-mon-lecteur-iptv-personnel-en-ligne-1imh)
-- [Artisan Brew House: A &quot;WOW Factor&quot; UI built with Uno Platform](https://dev.to/devendra_shyoran_e735f166/artisan-brew-house-a-wow-factor-ui-built-with-uno-platform-40l3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
