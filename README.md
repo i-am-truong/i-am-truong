@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Semantic Object Factory — The Missing Layer Between AI Intent and Backend Meaning](https://dev.to/bnggbn/the-semantic-object-factory-the-missing-layer-between-ai-intent-and-backend-meaning-1pf8)
+- [UT Registration Plus: An Overview](https://dev.to/derexxd/ut-registration-plus-an-overview-45hi)
+- [Introducing Remote MCP aka MCP Tool Triggers in Azure Functions: Building Intelligent AI Assistants in the Cloud](https://dev.to/swapnil_nagar_09cd69b8e11/introducing-remote-mcp-aka-mcp-tool-triggers-in-azure-functions-building-intelligent-ai-assistants-p47)
+- [The Future Belongs to System Thinkers](https://dev.to/farhannasirdev/the-future-belongs-to-system-thinkers-2pnl)
 - [If You’re Not All-in on Databricks: Why Metadata Freedom Matters](https://dev.to/datastrato/if-youre-not-all-in-on-databricks-why-metadata-freedom-matters-1d38)
-- [Why I Switched to a Feature-Based Folder Structure &lpar;And Why You Should Too&rpar;](https://dev.to/hxnain619/why-i-switched-to-a-feature-based-folder-structure-and-why-you-should-too-3lpo)
-- [SMTP Zen - Reliable, High Deliverability email service for developers](https://dev.to/pgiglobal/smtp-zen-reliable-high-deliverability-email-service-for-developers-1o3i)
-- [I Built a Game in Less Than a Day &lpar;Without Writing a Single Line of Code&rpar;](https://dev.to/j4s0nc/i-built-a-game-in-less-than-a-day-without-writing-a-single-line-of-code-4co6)
-- [Python for Absolute Beginners: A Complete, Practical Guide Before You Even Start Coding](https://dev.to/flfabio/python-for-absolute-beginners-a-complete-practical-guide-before-you-even-start-coding-a0f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
