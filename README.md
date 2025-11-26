@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a DevSecOps Pipeline on AWS: From Security Audit to Daily Deployments](https://dev.to/bianca/building-a-devsecops-pipeline-on-aws-from-security-audit-to-daily-deployments-3io8)
+- [I Thought My API Was Secure. I Was Wrong.](https://dev.to/nitinnair89/i-thought-my-api-was-secure-i-was-wrong-1cel)
 - [Quickstart: Mapbox in React Native](https://dev.to/mapbox/quickstart-mapbox-in-react-native-2hff)
 - [Day 3 - Create an AWS S3 Bucket Using Terraform](https://dev.to/ankitgadling/day-3-create-an-aws-s3-bucket-using-terraform-2dn8)
 - [How Kubernetes detects and restarts crashing pods automatcially](https://dev.to/bhagirath00/how-kubernetes-detects-and-restarts-crashing-pods-automatcially-588e)
-- [🚀 Build Your First Remote MCP Server on Azure Using TypeScript — and Supercharge Your AI Workflows](https://dev.to/spboyer/build-your-first-remote-mcp-server-on-azure-using-typescript-and-supercharge-your-ai-workflows-4aib)
-- [aigit - Git workflow automation with AI](https://dev.to/hardiksondagar/aigit-git-workflow-automation-with-ai-3b17)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
