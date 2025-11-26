@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Gasless Marketplace on Polygon with x402 Protocol](https://dev.to/kirodotdev/building-a-gasless-marketplace-on-polygon-with-x402-protocol-25h9)
 - [Python Concurrency: A Guide to Threads, Processes, and Asyncio](https://dev.to/ctrix/python-concurrency-a-guide-to-threads-processes-and-asyncio-45n4)
 - [The Future of Developers with AI](https://dev.to/ndabene/the-future-of-developers-with-ai-3pg7)
 - [Modern Logging with Grafana Alloy + Loki](https://dev.to/sharonkynu/modern-logging-with-grafana-alloy-loki-53ll)
 - [ESPB: WASM-like bytecode interpreter for ESP32 with seamless FreeRTOS integration.](https://dev.to/andrey_asx_6a2421d07b6d62/espb-wasm-like-bytecode-interpreter-for-esp32-with-seamless-freertos-integration-4f19)
-- [Code Detective: Using Vector Databases to Power AI-Powered Search and Docs](https://dev.to/mabualzait/code-detective-using-vector-databases-to-power-ai-powered-search-and-docs-3g07)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
