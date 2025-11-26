@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [If You’re Not All-in on Databricks: Why Metadata Freedom Matters](https://dev.to/datastrato/if-youre-not-all-in-on-databricks-why-metadata-freedom-matters-1d38)
 - [Why I Switched to a Feature-Based Folder Structure &lpar;And Why You Should Too&rpar;](https://dev.to/hxnain619/why-i-switched-to-a-feature-based-folder-structure-and-why-you-should-too-3lpo)
 - [SMTP Zen - Reliable, High Deliverability email service for developers](https://dev.to/pgiglobal/smtp-zen-reliable-high-deliverability-email-service-for-developers-1o3i)
 - [I Built a Game in Less Than a Day &lpar;Without Writing a Single Line of Code&rpar;](https://dev.to/j4s0nc/i-built-a-game-in-less-than-a-day-without-writing-a-single-line-of-code-4co6)
 - [Python for Absolute Beginners: A Complete, Practical Guide Before You Even Start Coding](https://dev.to/flfabio/python-for-absolute-beginners-a-complete-practical-guide-before-you-even-start-coding-a0f)
-- [React vs. Vue.js: The 2025 Developer’s Guide to Performance, Ecosystem, and Scalability](https://dev.to/ravidasari/react-vs-vuejs-the-2025-developers-guide-to-performance-ecosystem-and-scalability-3ddi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
