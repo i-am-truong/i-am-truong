@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [MySQL HeatWave: Migrating Your Data to HeatWave Service](https://dev.to/derrickryangiggs/mysql-heatwave-migrating-your-data-to-heatwave-service-51ei)
-- [The Rising Complexity of Modern CSS](https://dev.to/alex-beygi/the-rising-complexity-of-modern-css-5a09)
-- [DEVLOG #0-What is DEBMO?](https://dev.to/debmo_1904/devlog-0-what-is-debmo-54cp)
-- [🚀 22s to 4s: How AI Fixed Our Vitest Performance](https://dev.to/56_kode/22s-to-4s-how-ai-fixed-our-vitest-performance-47a9)
-- [The Workforce of Tomorrow: How Monitoring Shapes Team Excellence](https://dev.to/timechamp01/the-workforce-of-tomorrow-how-monitoring-shapes-team-excellence-50h0)
+- [AI-Powered Documentation: The End of Outdated Docs &lpar;and Developer Headaches&rpar;](https://dev.to/apilover/ai-powered-documentation-the-end-of-outdated-docs-and-developer-headaches-4m8b)
+- [Securing Legacy: Effective Succession Planning for Dairy Farms](https://dev.to/alyssa-miller/securing-legacy-effective-succession-planning-for-dairy-farms-4lhj)
+- [A Smarter Workflow for Debugging and Problem-Solving](https://dev.to/leena_malhotra/a-smarter-workflow-for-debugging-and-problem-solving-khi)
+- [Turning GitLab Merge Requests into MCP-Native Data with gitlabmcp](https://dev.to/archiescoder/turning-gitlab-merge-requests-into-mcp-native-data-with-gitlabmcp-5o9)
+- [Three AI Tool Directories That Actually Matter](https://dev.to/foxinfotech/three-ai-tool-directories-that-actually-matter-ebm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
