@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Production-Grade MongoDB Cluster on Kubernetes: A Complete Guide to Horizontal Scalability](https://dev.to/araldhafeeri/building-a-production-grade-mongodb-cluster-on-kubernetes-a-complete-guide-to-horizontal-146f)
-- [Build a SaaS Admin Dashboard with React, Shadcn UI &amp; TypeScript](https://dev.to/codewithsadee/build-a-saas-admin-dashboard-with-react-shadcn-ui-typescript-23o4)
-- [The Complete Guide to Security Operations Centers &lpar;SOC&rpar; in 2025: Importance, Benefits &amp; How SOC Protects Modern Businesses](https://dev.to/mohansh_technologies_a5e1/the-complete-guide-to-security-operations-centers-soc-in-2025-importance-benefits-how-soc-48kf)
-- [Responding to a Critical Production Incident: A Fintech Case Study with AWS](https://dev.to/bianca/responding-to-a-critical-production-incident-a-fintech-case-study-with-aws-20i5)
-- [How to Use Coverlet Coverage Thresholds to Enforce Better Testing Standards?](https://dev.to/sophielane/how-to-use-coverlet-coverage-thresholds-to-enforce-better-testing-standards-3pec)
+- [Docker for Developers: From Zero to Running Your First Production-Grade Next.js App in 1 Hour](https://dev.to/mina_golzari_dalir/docker-for-developers-from-zero-to-running-your-first-production-grade-nextjs-app-in-1-hour-4if7)
+- [Why 70% of AI Projects Fail And What Smart CIOs Do Differently](https://dev.to/sip_mjb/why-70-of-ai-projects-failand-what-smart-cios-do-differently-mff)
+- [Ringer Movies: ‘Two for the Money’ With Bill Simmons, Chris Ryan, and Cousin Sal | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-two-for-the-money-with-bill-simmons-chris-ryan-and-cousin-sal-the-rewatchables-1ic)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-193g)
+- [CinemaSins: Everything Wrong With Mission: Impossible - The Final Reckoning In 27 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-mission-impossible-the-final-reckoning-in-27-minutes-or-less-2ck2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
