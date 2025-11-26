@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Docker for Developers: From Zero to Running Your First Production-Grade Next.js App in 1 Hour](https://dev.to/mina_golzari_dalir/docker-for-developers-from-zero-to-running-your-first-production-grade-nextjs-app-in-1-hour-4if7)
-- [Why 70% of AI Projects Fail And What Smart CIOs Do Differently](https://dev.to/sip_mjb/why-70-of-ai-projects-failand-what-smart-cios-do-differently-mff)
-- [Ringer Movies: ‘Two for the Money’ With Bill Simmons, Chris Ryan, and Cousin Sal | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-two-for-the-money-with-bill-simmons-chris-ryan-and-cousin-sal-the-rewatchables-1ic)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-193g)
-- [CinemaSins: Everything Wrong With Mission: Impossible - The Final Reckoning In 27 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-mission-impossible-the-final-reckoning-in-27-minutes-or-less-2ck2)
+- [Textual – Modern TUI Framework for Python](https://dev.to/imrrobot/textual-modern-tui-framework-for-python-3cci)
+- [I Tested 7 Open Source Clerk Alternatives for Full-Stack Developers](https://dev.to/haneem/i-tested-7-open-source-clerk-alternatives-for-full-stack-developers-3d4c)
+- [The $847 Idle RDS Instance: A Deep Dive into AWS Cost Optimization](https://dev.to/cloudwiseteam/the-847-idle-rds-instance-a-deep-dive-into-aws-cost-optimization-4mhf)
+- [📺 ITV-60 – Mon lecteur IPTV personnel en ligne](https://dev.to/guillaumesere/itv-60-mon-lecteur-iptv-personnel-en-ligne-1imh)
+- [Artisan Brew House: A &quot;WOW Factor&quot; UI built with Uno Platform](https://dev.to/devendra_shyoran_e735f166/artisan-brew-house-a-wow-factor-ui-built-with-uno-platform-40l3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
