@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Microservices Authentication &amp; Authorization: A Beginner&#39;s Guide](https://dev.to/rushier/microservices-authentication-authorization-a-beginners-guide-1hde)
-- [Data Lakes vs. Data Warehouses: Which Model Fits Your Use Case?](https://dev.to/mathewpregasen/data-lakes-vs-data-warehouses-which-model-fits-your-use-case-46mm)
-- [What is Nuxeo? A brutally honest assessment from 10+ years of implementation](https://dev.to/thecontenthorizon/what-is-nuxeo-a-brutally-honest-assessment-from-10-years-of-implementation-1ae6)
-- [I Built an Animated UI Library for CSS Haters](https://dev.to/karan_k/i-built-an-animated-ui-library-for-css-haters-1nn6)
-- [Type hints in Python &lpar;6&rpar;](https://dev.to/hyperkai/type-hints-in-python-6-5d84)
+- [Write Clean Code](https://dev.to/mohamed_emad_19d0699f623d/write-clean-code-37p9)
+- [Stop wasting time on dud ChatGPT prompts.](https://dev.to/mashraf_aiman_b9a968e5c1d/stop-wasting-time-on-dud-chatgpt-prompts-2bdj)
+- [Building Modern Backends with Kaapi: Introduction &amp; Getting Started](https://dev.to/shygyver/building-modern-backends-with-kaapi-introduction-getting-started-2199)
+- [When PostgreSQL Transactions Lie to You: A Detective Story About Phantom Reads](https://dev.to/igornosatov_15/when-postgresql-transactions-lie-to-you-a-detective-story-about-phantom-reads-n6e)
+- [Why S3 Performance Limits Matter — and How Archil Solves Them](https://dev.to/mathewpregasen/why-s3-performance-limits-matter-and-how-archil-solves-them-7mp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
