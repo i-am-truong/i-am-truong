@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Catch App Store rejection issues before Apple does.](https://dev.to/sayuj_suresh_5f06841925d4/catch-app-store-rejection-issues-before-apple-does-23be)
+- [🔥Task #2 — Create Your First Helm Chart for GKE Cluster](https://dev.to/latchudevops/task-2-create-your-first-helm-chart-for-gke-cluster-3p0k)
+- [From object graph to query](https://dev.to/xwero/from-object-graph-to-query-4dh2)
 - [What Are the Common Pitfalls in Developing Financial Technology Products?](https://dev.to/it-influencer/what-are-the-common-pitfalls-in-developing-financial-technology-products-1djj)
 - [A C# File I/O Quick Reference For professionals](https://dev.to/recurpixel/a-c-file-io-quick-reference-for-professionals-2k5h)
-- [Cross-compiling Go Applications](https://dev.to/godofgeeks/cross-compiling-go-applications-4ced)
-- [CuraNexus Analytics – Security in Architecture, not Afterthought](https://dev.to/lfariaus/curanexus-analytics-security-in-architecture-not-afterthought-13j)
-- [My Journey With Docker Commands — Simple Tips](https://dev.to/sudhavelanpanju/my-journey-with-docker-commands-simple-tips-4n1a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
