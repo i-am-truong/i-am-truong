@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Integrate Wallet-as-a-Service Into Your App: A Developer-Friendly Guide](https://dev.to/dan_keller/how-to-integrate-wallet-as-a-service-into-your-app-a-developer-friendly-guide-mnl)
+- [2 options to install Cursor CLI for Windows &lpar;WSL2&rpar;](https://dev.to/henriqueholtz/2-options-to-install-cursor-cli-for-windows-wsl2-49j7)
+- [Kicking Off 2026: World Cup Predictions &amp; Insights](https://dev.to/mabualzait/kicking-off-2026-world-cup-predictions-insights-4pg8)
 - [Wallet-as-a-Service: The Missing Layer in Modern Web3 Infrastructure](https://dev.to/dan_keller/wallet-as-a-service-the-missing-layer-in-modern-web3-infrastructure-3pin)
-- [Boost Developer Revenue with Monetzly&#39;s AI Conversation API](https://dev.to/monetzly/boost-developer-revenue-with-monetzlys-ai-conversation-api-2861)
 - [SKALDA – privacy-first browser tools that run entirely in your browser](https://dev.to/skalda/skalda-privacy-first-browser-tools-that-run-entirely-in-your-browser-8gi)
-- [24-Hour Autonomous Codex Max: What Happens When Your Code Writes Itself?](https://dev.to/prateekshaweb/24-hour-autonomous-codex-max-what-happens-when-your-code-writes-itself-11j)
-- [Tame Your LLMs: A New Optimizer for Robust Deep Learning](https://dev.to/arvind_sundararajan/tame-your-llms-a-new-optimizer-for-robust-deep-learning-3aaj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
