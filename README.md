@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day F7: The Body-Mind-Code Connection &lpar;And Why I&#39;m Doomed This Week&rpar;](https://dev.to/casperday11/day-f7-the-body-mind-code-connection-and-why-im-doomed-this-week-b1)
-- [Баланс транзакцій: як уникнути подвійних ставок та подвійних виплат](https://dev.to/4mars/balans-tranzaktsii-iak-uniknuti-podviinikh-stavok-ta-podviinikh-viplat-39b5)
-- [How to Create Auto Scaling Groups of EC2 Instances for High Availability](https://dev.to/taiwoakinbolaji/how-to-create-auto-scaling-groups-of-ec2-instances-for-high-availability-3mj4)
-- [NextGen Tools: Product Launch Platform to Showcase Your AI and SaaS Tools](https://dev.to/robg12369/nextgen-tools-product-launch-platform-to-showcase-your-ai-and-saas-tools-1g90)
-- [Boost Your Startup with NextGen Tools – A Product Launch Platform That Works](https://dev.to/robg12369/boost-your-startup-with-nextgen-tools-a-product-launch-platform-that-works-35b6)
+- [My First DevOps Project](https://dev.to/danyang007/my-first-devops-project-3f8p)
+- [How to Automate Instance Management with AWS SDK for Python &lpar;Boto3&rpar;](https://dev.to/taiwoakinbolaji/how-to-automate-instance-management-with-aws-sdk-for-python-boto3-33i3)
+- [The Silent Struggle of the High-Achiever: Why your own high standards are making you tired](https://dev.to/cathylai/the-silent-struggle-of-the-high-achiever-why-your-own-high-standards-are-making-you-tired-3lll)
+- [Qeltrix V3: Asymmetric Key Transport and the Universal Dispatcher Era](https://dev.to/hejhdiss/qeltrix-v3-asymmetric-key-transport-and-the-universal-dispatcher-era-3if5)
+- [My First Day with Terraform](https://dev.to/alafiz/my-first-day-with-terraform-1di9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
