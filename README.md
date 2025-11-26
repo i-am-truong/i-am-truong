@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I gave my AI Agent long-term memory &lpar;without the vector DB headache&rpar;](https://dev.to/jakob_sandstrm_a11b3056c/how-i-gave-my-ai-agent-long-term-memory-without-the-vector-db-headache-4c00)
-- [10x Growth Doesn’t Come From More Tools — It Comes From Removing Friction](https://dev.to/yaseen_tech/10x-growth-doesnt-come-from-more-tools-it-comes-from-removing-friction-593k)
-- [Unlocking Performance: A Comprehensive Guide to Web Workers](https://dev.to/mino/unlocking-performance-a-comprehensive-guide-to-web-workers-25i7)
-- [Day 46: Python Moving Average Calculator, Optimized Sliding Window for Simple Moving Average Computation](https://dev.to/shahrouzlogs/day-46-python-moving-average-calculator-optimized-sliding-window-for-simple-moving-average-ne8)
-- [From Policy to Code: How Leading Companies Operationalize Privacy](https://dev.to/chaets/from-policy-to-code-how-leading-companies-operationalize-privacy-13cj)
+- [The Hidden Cost of Utility Types and Inheritance in TypeScript](https://dev.to/fhaponenka/the-hidden-cost-of-utility-types-and-inheritance-in-typescript-14f1)
+- [HashMap in Java - Complete Documentation](https://dev.to/ashifur_nahid_c0cbfcc7105/hashmap-in-java-complete-documentation-n4m)
+- [10 Lessons About App Development I Learned After Submitting My First iOS App](https://dev.to/olivia-john/10-lessons-about-app-development-i-learned-after-submitting-my-first-ios-app-37b)
+- [Agentic AI for Startups: How Founders Can Use Agents to Scale Faster](https://dev.to/aziro_tech_8cf3f347e4e95b/agentic-ai-for-startups-how-founders-can-use-agents-to-scale-faster-10d3)
+- [Which workplace chat tool do you think balances usability and noise the best?](https://dev.to/clariti_22_6e89b280ccd102/which-workplace-chat-tool-do-you-think-balances-usability-and-noise-the-best-2pf3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
