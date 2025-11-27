@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Probabilistic Graph Neural Inference for bio-inspired soft robotics maintenance in hybrid quantum-classical pipelines](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-bio-inspired-soft-robotics-maintenance-in-hybrid-9gk)
+- [From WordPress to Astro: Three Days to Reclaim Control](https://dev.to/pascal_cescato_692b7a8a20/from-wordpress-to-astro-three-days-to-reclaim-control-5dn2)
 - [🧱 Lesson 9A - Login and Authentication &lpar;Angular&rpar;](https://dev.to/farrukh_rehman/lesson-9a-login-and-authentication-angular-549m)
-- [Building an Air-gapped Hardened Kubernetes Cluster with Kubespray](https://dev.to/alisoltani255/building-an-air-gapped-hardened-kubernetes-cluster-with-kubespray-4405)
-- [MaterialM Free VueJS Vuetify Admin Dashboard Template - by WrapPixel](https://dev.to/vaibhavg/materialm-free-vuejs-vuetify-admin-dashboard-template-by-wrappixel-37n4)
-- [Programming languages are like girl , they are very difficult to understand.](https://dev.to/sudit_patel_89b4731b2259a/programming-languages-are-like-girl-they-are-very-difficult-to-understand-3a90)
-- [I’m Building RankStreak — A Free Web Tools Platform &lpar;Would Love Feedback!&rpar;](https://dev.to/mihad_meraj_c9d6ab3d3bbf4/im-building-rankstreak-a-free-web-tools-platform-would-love-feedback-27a7)
+- [Mobile App Stack Regrets for 2026: What Developers Learned from Cross-Platform Challenges](https://dev.to/sherry_walker_bba406fb339/mobile-app-stack-regrets-for-2026-what-developers-learned-from-cross-platform-challenges-36ge)
+- [What Are the Key Steps Involved in a BizTalk to Logic Apps Migration?](https://dev.to/abhijith_rs_04018cf67d112/what-are-the-key-steps-involved-in-a-biztalk-to-logic-apps-migration-g2o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
