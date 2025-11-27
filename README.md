@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Probabilistic Graph Neural Inference for bio-inspired soft robotics maintenance in hybrid quantum-classical pipelines](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-bio-inspired-soft-robotics-maintenance-in-hybrid-9gk)
-- [From WordPress to Astro: Three Days to Reclaim Control](https://dev.to/pascal_cescato_692b7a8a20/from-wordpress-to-astro-three-days-to-reclaim-control-5dn2)
-- [🧱 Lesson 9A - Login and Authentication &lpar;Angular&rpar;](https://dev.to/farrukh_rehman/lesson-9a-login-and-authentication-angular-549m)
-- [Mobile App Stack Regrets for 2026: What Developers Learned from Cross-Platform Challenges](https://dev.to/sherry_walker_bba406fb339/mobile-app-stack-regrets-for-2026-what-developers-learned-from-cross-platform-challenges-36ge)
-- [What Are the Key Steps Involved in a BizTalk to Logic Apps Migration?](https://dev.to/abhijith_rs_04018cf67d112/what-are-the-key-steps-involved-in-a-biztalk-to-logic-apps-migration-g2o)
+- [AWS Explained in Simple Plain English](https://dev.to/dulmika_semal_90fb5094b87/aws-expalined-in-simple-plain-english-5h0m)
+- [Custom Cursor AI IDE Rule](https://dev.to/junaaid96/custom-cursor-rule-438j)
+- [Why &quot;this&quot; Betrays You &amp; How call/apply/bind Save Your Life – The Complete Story](https://dev.to/usman_awan/why-this-betrays-you-how-callapplybind-save-your-life-the-complete-story-4pnf)
+- [Building Secure by Design: Architecture for Zero-Trust and Always-On Protection](https://dev.to/jyothsna_devi_a41eee1ca3f/building-secure-by-design-architecture-for-zero-trust-and-always-on-protection-43d0)
+- [Building a simulator using AI for children to learn](https://dev.to/joe_boukhalil_a638efd870/building-a-simulator-using-ai-for-children-to-learn-40op)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
