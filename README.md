@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [El sustituto de JSON](https://dev.to/baltasarq/el-sustituto-de-json-5a4d)
-- [# 📌 Amazon Machine Image &lpar;AMI&rpar; - Complete Step-by-Step Guide](https://dev.to/sudarshan_yadav/-amazon-machine-image-ami-complete-step-by-step-guide-1laa)
-- [A Comprehensive Guide to Speeding Up Your AI Agent Development Lifecycle](https://dev.to/kamya_shah_e69d5dd78f831c/a-comprehensive-guide-to-speeding-up-your-ai-agent-development-lifecycle-dgg)
-- [How to Create Killer Content: The Right Equipment for the Job](https://dev.to/title-productions/how-to-create-killer-content-the-right-equipment-for-the-job-19a1)
-- [Good Git Hygiene Practices](https://dev.to/pauljlucas/good-git-hygiene-practices-2fnl)
+- [Why Cutout Works &lpar;Even Though It Looks Like Sabotage&rpar;](https://dev.to/aniket_kuyate_15acc4e6587/why-cutout-works-even-though-it-looks-like-sabotage-25pd)
+- [Color Theory in UI Design: From Basics to Advanced Palettes](https://dev.to/frontendtoolstech/color-theory-in-ui-design-from-basics-to-advanced-palettes-mdm)
+- [7 Ways to Create High-Quality Evaluation Datasets for LLMs](https://dev.to/kamya_shah_e69d5dd78f831c/7-ways-to-create-high-quality-evaluation-datasets-for-llms-2e4m)
+- [How-to: Say you have a data lake](https://dev.to/david_kershaw_b6916404da6/how-to-say-you-have-a-data-lake-1p4l)
+- [Bicep / ARM vs Terraform](https://dev.to/teaganga/bicep-arm-vs-terraform-53k1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
