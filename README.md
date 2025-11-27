@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [NocoBase Weekly Updates: Optimization and Bug Fixes](https://dev.to/nocobase/nocobase-weekly-updates-optimization-and-bug-fixes-4fb)
 - [Making A Peer Review System for My Blogs Using Google-ADK &amp; Mem0](https://dev.to/piyush_choudhari_a5b29f7f/making-a-peer-review-system-for-my-blogs-using-google-adk-mem0-3ejg)
 - [6 Essential Tools to Supercharge Your Workflow &amp; Creativity](https://dev.to/platypus98/6-essential-tools-to-supercharge-your-workflow-creativity-gkh)
 - [Micro Frontend: Common Misconceptions with Case Studies](https://dev.to/juun_roh/micro-frontend-common-misconceptions-with-case-studies-4fan)
 - [Java 8 -Streams API Few Questions](https://dev.to/ramya_kamalasekaran/java-8-streams-api-few-questions-3iho)
-- [Python by Structure: How Decorators Transform Classes](https://dev.to/aaron_rose_0787cc8b4775a0/python-by-structure-how-decorators-transform-classes-3pib)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
