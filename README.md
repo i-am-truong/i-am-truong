@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Maven Enforcer Rule dependOnAllProjects](https://dev.to/mikkoi/maven-enforcer-rule-dependonallprojects-16n6)
+- [🧪 HexSpeak — The Language That Turns Hex Into readable “Magic Words”](https://dev.to/viz-x/hexspeak-the-language-that-turns-hex-into-readable-magic-words-32m4)
+- [Why a 4-Day Workweek Just Makes Sense](https://dev.to/bibimbop123/why-a-4-day-workweek-just-makes-sense-3bel)
+- [🐔 Chicken — The Language Where Every Keyword Is “chicken&quot;](https://dev.to/viz-x/chicken-the-language-where-every-keyword-is-chicken-2jno)
 - [From Idea to Launch: A Business Guide to Building Successful AI Products](https://dev.to/imuller/from-idea-to-launch-a-business-guide-to-building-successful-ai-products-4hl)
-- [Day 4/30: The Heart of Terraform – State Files &amp; Remote Backends 🧠🗄️](https://dev.to/gokulprasath_n_42438fd633/day-430-the-heart-of-terraform-state-files-remote-backends-345)
-- [🧩 Brainfuck — The 8-Command Language Built to Hurt Programmers](https://dev.to/viz-x/brainfuck-the-8-command-language-built-to-hurt-programmers-31pe)
-- [Why Studying the Turing Machine Changed How I See AI And Why Every New AI Engineer Should Revisit It](https://dev.to/maulik_sompura_22/why-studying-the-turing-machine-changed-how-i-see-ai-and-why-every-new-ai-engineer-should-revisit-it-43hp)
-- [🧿 Hexagony — Programming Inside a Hexagon for No Logical Reason](https://dev.to/viz-x/hexagony-programming-inside-a-hexagon-for-no-logical-reason-3e8f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
