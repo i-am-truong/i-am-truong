@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Debugging and troubleshooting issues with Kiro CLI and Amazon Q Developer](https://dev.to/aws/debugging-and-troubleshooting-issues-with-kiro-cli-and-amazon-q-developer-40ae)
-- [Fixing CS0579 in .NET 10 — Why Your Assembly Attributes Are Duplicated &lpar;and How to Really Fix It&rpar;](https://dev.to/cristiansifuentes/fixing-cs0579-in-net-10-why-your-assembly-attributes-are-duplicated-and-how-to-really-fix-it-2n4o)
-- [I wrote a backend library for cloudflare worker and made it open source. Catch the full story.](https://dev.to/shazin/i-wrote-a-backend-library-for-cloudflare-worker-and-made-it-open-source-catch-the-full-story-3bfn)
-- [GitOps Fundamentals: Why Your CI/CD Needs a Single Source of Truth](https://dev.to/anusha_kuppili/gitops-fundamentals-why-your-cicd-needs-a-single-source-of-truth-4o1m)
-- [Introducing Cloud Rover. Turn Cloudflare Workers into Fully Functional Backends.](https://dev.to/shazin/introducing-cloud-rover-turn-cloudflare-workers-into-fully-functional-backends-f9j)
+- [🧪 05AB1E — Tiny Language, Big Chaos](https://dev.to/viz-x/05ab1e-tiny-language-big-chaos-3mma)
+- [Nano-Banana Pro: Prompting Guide &amp; Strategies](https://dev.to/googleai/nano-banana-pro-prompting-guide-strategies-1h9n)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-4oho)
+- [CinemaSins: Everything Wrong With Mission: Impossible - The Final Reckoning In 27 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-mission-impossible-the-final-reckoning-in-27-minutes-or-less-36aj)
+- [Mr Sunday Movies: John Carter - Caravan Of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-john-carter-caravan-of-garbage-4k1e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
