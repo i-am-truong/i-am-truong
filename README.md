@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Strike System: How I Prevent AI Feature Abuse in My News App](https://dev.to/padma9647/building-a-strike-system-how-i-prevent-ai-feature-abuse-in-my-news-app-36am)
+- [Personal Health Agent &lpar;PHA&rpar;: Multi-Agent Health System](https://dev.to/mitanshgor/personal-health-agent-pha-multi-agent-health-system-1i6l)
+- [PHIA: The Agentic LLM That Writes Code, Analyzes Your Data &amp; Explains Health Insights](https://dev.to/mitanshgor/phia-the-agentic-llm-that-writes-code-analyzes-your-data-explains-health-insights-4g1a)
 - [PH-LLM - A LLM that gives personalized sleep and fitness coaching using wearable data.](https://dev.to/mitanshgor/ph-llm-a-llm-that-gives-personalized-sleep-and-fitness-coaching-using-wearable-data-2m7f)
 - [AI for Personal Health — My Review, Reflections &amp; Real-Life Understanding](https://dev.to/mitanshgor/ai-for-personal-health-my-review-reflections-real-life-understanding-12kh)
-- [Rethinking Serverless Application Workflows from a Testing Perspective](https://dev.to/elianalamcm/rethinking-serverless-application-workflows-from-a-testing-perspective-33f6)
-- [Practical AWS FinOps for Cloud Success](https://dev.to/elianalamcm/practical-aws-finops-for-cloud-success-1mdg)
-- [Serverless Student Management System &lpar;AWS&rpar;](https://dev.to/awais_684/serverless-student-management-system-aws-2h5i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
