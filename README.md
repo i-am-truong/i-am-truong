@@ -120,13 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-8bc)
+- [Mr Sunday Movies: John Carter - Caravan Of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-john-carter-caravan-of-garbage-1f90)
 - [[Boost]](https://dev.to/anthonymax/-ep4)
-- [[Boost]](https://dev.to/marvin_p/-4pm6)
-- [Added a new example of a HATEOAS application:
-
-https://github.com/hmpl-language/examples](https://dev.to/anthonymax/added-a-new-example-of-a-hateoas-applicationhttpsgithubcomhmpl-languageexamples-2mk9)
-- [Obedient Checkouts](https://dev.to/vaticnz/obedient-checkouts-3ki0)
-- [How I Used Claude Code to Speed Up My Shell Startup by 95%](https://dev.to/nickytonline/how-i-used-claude-code-to-speed-up-my-shell-startup-by-95-m0f)
+- [I Hired AWS SAs for 5 Years. Now That I&#39;ve Left, I Can Tell You the Truth](https://dev.to/djinn/i-hired-aws-sas-for-5-years-now-that-ive-left-i-can-tell-you-the-truth-138o)
+- [Getting Started With Nmap: A Beginner-Friendly Guide](https://dev.to/bshisia/getting-started-with-nmap-a-beginner-friendly-guide-from-someone-learning-it-too-5de9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
