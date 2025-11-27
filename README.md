@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Drawing and Writing in MonoGame](https://dev.to/david_caplette/drawing-and-writing-in-monogame-10m9)
 - [🐠 Fish — The Language Where Code Swims in Four Directions](https://dev.to/viz-x/fish-the-language-where-code-swims-in-four-directions-fho)
 - [🧨 Dis — The Stack Language Built Out of Debugger Commands and Chaos](https://dev.to/viz-x/dis-the-stack-language-built-out-of-debugger-commands-and-chaos-36nl)
 - [1️⃣ Unary — The Language That Programs Using Only a Single Character](https://dev.to/viz-x/1-unary-the-language-that-programs-using-only-a-single-character-53pk)
 - [🐢 Turtle — The Language Where Code Is Just Moving a Cursor Around](https://dev.to/viz-x/turtle-the-language-where-code-is-just-moving-a-cursor-around-10kk)
-- [🐟 Deadfish — The Language With Only Four Commands and No Error Shame](https://dev.to/viz-x/deadfish-the-language-with-only-four-commands-and-no-error-shame-1eik)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
