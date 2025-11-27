@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [🐠 Fish — The Language Where Code Swims in Four Directions](https://dev.to/viz-x/fish-the-language-where-code-swims-in-four-directions-fho)
-- [Maven Enforcer Rule dependOnAllProjects](https://dev.to/mikkoi/maven-enforcer-rule-dependonallprojects-16n6)
-- [🎨 Piet — The Language Where Programs Look Like Modern Art](https://dev.to/viz-x/piet-the-language-where-programs-look-like-modern-art-4me1)
-- [Building a Full-Stack AI Memory System in 2 Weeks with Kiro AI IDE](https://dev.to/vinod_wa/building-a-full-stack-ai-memory-system-in-2-weeks-with-kiro-ai-ide-5e9h)
-- [🧩 Befunge-98 — The Chaotic 3D Upgrade to Befunge](https://dev.to/viz-x/befunge-98-the-chaotic-3d-upgrade-to-befunge-219p)
+- [🧨 Dis — The Stack Language Built Out of Debugger Commands and Chaos](https://dev.to/viz-x/dis-the-stack-language-built-out-of-debugger-commands-and-chaos-36nl)
+- [1️⃣ Unary — The Language That Programs Using Only a Single Character](https://dev.to/viz-x/1-unary-the-language-that-programs-using-only-a-single-character-53pk)
+- [🐢 Turtle — The Language Where Code Is Just Moving a Cursor Around](https://dev.to/viz-x/turtle-the-language-where-code-is-just-moving-a-cursor-around-10kk)
+- [🐟 Deadfish — The Language With Only Four Commands and No Error Shame](https://dev.to/viz-x/deadfish-the-language-with-only-four-commands-and-no-error-shame-1eik)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
