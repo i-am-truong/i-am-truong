@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Testing PlagiatKontroll Against Modern LLM Texts: Hur bra står verktyget sig i AI-eran?](https://dev.to/alexandra_campbell_1d0518/testing-plagiatkontroll-against-modern-llm-texts-hur-bra-star-verktyget-sig-i-ai-eran-b5j)
+- [Configure continuous integration by using Azure Pipelines](https://dev.to/lotanna_obianefo/configure-continuous-integration-by-using-azure-pipelines-16i2)
 - [Minimal Linux x86_64 Syscall Samples &lpar;pure assembly, no libc&rpar;](https://dev.to/nguyn_nhtmlp11a13/minimal-linux-x8664-syscall-samples-pure-assembly-no-libc-1clg)
 - [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-8bc)
-- [Mr Sunday Movies: John Carter - Caravan Of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-john-carter-caravan-of-garbage-1f90)
 - [[Boost]](https://dev.to/anthonymax/-ep4)
-- [I Hired AWS SAs for 5 Years. Now That I&#39;ve Left, I Can Tell You the Truth](https://dev.to/djinn/i-hired-aws-sas-for-5-years-now-that-ive-left-i-can-tell-you-the-truth-138o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
