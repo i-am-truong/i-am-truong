@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Minimal Linux x86_64 Syscall Samples &lpar;pure assembly, no libc&rpar;](https://dev.to/nguyn_nhtmlp11a13/minimal-linux-x8664-syscall-samples-pure-assembly-no-libc-1clg)
 - [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-8bc)
 - [Mr Sunday Movies: John Carter - Caravan Of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-john-carter-caravan-of-garbage-1f90)
 - [[Boost]](https://dev.to/anthonymax/-ep4)
 - [I Hired AWS SAs for 5 Years. Now That I&#39;ve Left, I Can Tell You the Truth](https://dev.to/djinn/i-hired-aws-sas-for-5-years-now-that-ive-left-i-can-tell-you-the-truth-138o)
-- [Getting Started With Nmap: A Beginner-Friendly Guide](https://dev.to/bshisia/getting-started-with-nmap-a-beginner-friendly-guide-from-someone-learning-it-too-5de9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
