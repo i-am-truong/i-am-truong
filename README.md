@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [How have I managed Date types in my asyncio python web scraper using PostgreSQL?](https://dev.to/brainstorm86/how-have-i-managed-date-types-in-my-asyncio-python-web-scraper-using-postgresql-2272)
+- [Is Python Dying? Should You Still Learn It in 2026?](https://dev.to/james_miller_8dc58a89cb9e/is-python-dying-should-you-still-learn-it-in-2026-5elm)
 - [Drone-ambient-noise synthesizer in Javascript: when instability is a feature, not a bug](https://dev.to/max_alyokhin/drone-ambient-noise-synthesizer-in-javascript-when-instability-is-a-feature-not-a-bug-34i8)
+- [API Monetization Made Easy: How Monetzly Empowers Developers](https://dev.to/monetzly/api-monetization-made-easy-how-monetzly-empowers-developers-7bf)
 - [Хурдтай вебийн 3 шинж](https://dev.to/bizocci/khurdtai-viebiin-3-shinzh-4ofk)
-- [MySQL SELECT … FOR UPDATE is causing a table lock during high traffic while generating sequential transaction IDs](https://dev.to/developer_account_19c62ad/mysql-select-for-update-is-causing-a-table-lock-during-high-traffic-while-generating-sequential-4ola)
-- [The Future of Cyber Resilience for Complex AWS Environments is Here](https://dev.to/aws-builders/the-future-of-cyber-resilience-for-complex-aws-environments-is-here-26c1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
