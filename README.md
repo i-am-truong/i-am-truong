@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [2025 Major Release: How Does DeepSeekMath-V2 Achieve Self-Verifying Mathematical Reasoning? Complete Technical Analysis](https://dev.to/czmilo/2025-major-release-how-does-deepseekmath-v2-achieve-self-verifying-mathematical-reasoning-3pje)
-- [When Your OS Becomes Your Enemy And Linux Becomes Your Exit](https://dev.to/numbpill3d/when-your-os-becomes-your-enemy-and-linux-becomes-your-exit-585b)
-- [Made a VSCode extension for grouping files for easier multi task management in big project](https://dev.to/pter_varga_e7679c0886477/made-a-vscode-extension-for-grouping-files-for-easier-multi-task-management-in-big-project-176i)
-- [Python Linters: A Guide for Clean Code](https://dev.to/rosgluk/python-linters-a-guide-for-clean-code-1mn5)
-- [Go Linters: Essential Tools for Code Quality](https://dev.to/rosgluk/go-linters-essential-tools-for-code-quality-35f)
+- [🤖🤖How to run AI in parallel easily and for free &lpar;Git Worktree Runner&rpar;🧠🧠](https://dev.to/webdeveloperhyper/how-to-run-ai-in-parallel-easily-and-for-free-git-worktree-runner-80o)
+- [API team alignment issues - this article nailed our exact problem](https://dev.to/atishh_amte/api-team-alignment-issues-this-article-nailed-our-exact-problem-1l5n)
+- [Что нового в Rust 1.92 beta: LLVM 20 и послабление E0719](https://dev.to/laruh/chto-novogho-v-rust-192-beta-llvm-20-i-poslablieniie-e0719-3639)
+- [Building a Collaborative Linear Style App with Next.js, Tiptap, and Velt](https://dev.to/astrodevil/building-a-collaborative-linear-style-app-with-nextjs-tiptap-and-velt-52k6)
+- [I make a cheaper NTP Clock than Digital Clock with ESP-01](https://dev.to/rifat_cd54d498fd977125e89/i-make-a-cheaper-ntp-clock-than-digital-clock-with-esp-01-fbf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
