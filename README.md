@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Stop Malware at the Door: Automated S3 File Scanning with AWS GuardDuty](https://dev.to/aws-builders/stop-malware-at-the-door-automated-s3-file-scanning-with-aws-guardduty-1c1g)
 - [Drawing and Writing in MonoGame](https://dev.to/david_caplette/drawing-and-writing-in-monogame-10m9)
-- [🐠 Fish — The Language Where Code Swims in Four Directions](https://dev.to/viz-x/fish-the-language-where-code-swims-in-four-directions-fho)
-- [🧨 Dis — The Stack Language Built Out of Debugger Commands and Chaos](https://dev.to/viz-x/dis-the-stack-language-built-out-of-debugger-commands-and-chaos-36nl)
-- [1️⃣ Unary — The Language That Programs Using Only a Single Character](https://dev.to/viz-x/1-unary-the-language-that-programs-using-only-a-single-character-53pk)
-- [🐢 Turtle — The Language Where Code Is Just Moving a Cursor Around](https://dev.to/viz-x/turtle-the-language-where-code-is-just-moving-a-cursor-around-10kk)
+- [Roofing Painting: Enhancing Protection and Curb Appeal](https://dev.to/markwayns/roofing-painting-enhancing-protection-and-curb-appeal-m3n)
+- [Why I built a &quot;Bring Your Own Key&quot; SaaS Engine on WordPress &lpar;100% Margins&rpar;](https://dev.to/blyxxa/why-i-built-a-bring-your-own-key-saas-engine-on-wordpress-100-margins-5c3)
+- [💣 HQ9+ — The Language That Only Runs 4 Commands and Still Counts as a Language](https://dev.to/viz-x/hq9-the-language-that-only-runs-4-commands-and-still-counts-as-a-language-5hm8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
