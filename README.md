@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Level Up Your SQL Skills: 8 Interactive Games That Make Learning Fun](https://dev.to/nldr/level-up-your-sql-skills-8-interactive-games-that-make-learning-fun-3omd)
-- [How to provision and S3 storage with Terraform: Plan, check, Apply, approve](https://dev.to/ekefan/how-to-provision-and-s3-storage-with-terraform-plan-check-apply-approve-m5)
-- [The 2025 Humanizer Era: SafeNew AI and the Future of Human-Centric Writing](https://dev.to/safenewai/the-2025-humanizer-era-safenew-ai-and-the-future-of-human-centric-writing-eib)
-- [What can Agentic AI do that Traditional Automation cannot?](https://dev.to/aziro_tech_8cf3f347e4e95b/what-can-agentic-ai-do-that-traditional-automation-cannot-2fl0)
-- [Quartz](https://dev.to/ulysses_simmons_26c2529c0/quartz-29ni)
+- [Python Linters: A Guide for Clean Code](https://dev.to/rosgluk/python-linters-a-guide-for-clean-code-1mn5)
+- [Go Linters: Essential Tools for Code Quality](https://dev.to/rosgluk/go-linters-essential-tools-for-code-quality-35f)
+- [Building The Spirit Box: When AI Meets the Afterlife](https://dev.to/yooi/building-the-spirit-box-when-ai-meets-the-afterlife-270a)
+- [✅ Task #2 — Deploy Your First GitOps Application on GKE Cluster Using ArgoCD](https://dev.to/latchudevops/task-2-deploy-your-first-gitops-application-on-gke-cluster-using-argocd-3ng1)
+- [I built a Python Video Downloader for my Engineering Thesis 🎓🎥](https://dev.to/oheyek/i-built-a-python-video-downloader-for-my-engineering-thesis-586m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
