@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [New in Vue - November 2025](https://dev.to/aloisseckar/new-in-vue-november-2025-1l1b)
-- [5 Técnicas Para Melhorar a Performance no seu App Angular](https://dev.to/dev-araujo/5-tecnicas-para-melhorar-a-performance-no-seu-app-angular-g0e)
-- [Day F8: The Exam Everyone Failed &lpar;And Why I Don&#39;t Care&rpar;](https://dev.to/casperday11/day-f8-the-exam-everyone-failed-and-why-i-dont-care-87k)
-- [Leveling Up Your Python Logs with Structlog](https://dev.to/dash0/leveling-up-your-python-logs-with-structlog-3a5a)
-- [x402: Pay-Per-Use Internet](https://dev.to/emperorsixpacks/x402-pay-per-use-internet-4p30)
+- [🧩 Basic Syntax for Creating a Pod](https://dev.to/itsmecharan7/basic-syntax-for-creating-a-pod-34bn)
+- [Day-04: Terraform state file management using S3 Bucket](https://dev.to/bhaskara_tejabulusu_b4bf/day-04-terraform-state-file-management-using-s3-bucket-1jll)
+- [Migrate from NuxtHub to Cloudflare directly](https://dev.to/dennisadriaans/migrate-from-nuxthub-to-cloudflare-directly-4ncd)
+- [From JSON to Internet Object: A Lean, Schema-First Data Format &lpar;Part 1&rpar;](https://dev.to/internetobject/from-json-to-internet-object-a-lean-schema-first-data-format-part-1-19e5)
+- [Solana Networking Unpacked: From TCP to QUIC, Quinn, and Transaction Flow](https://dev.to/thopatevijay/solana-networking-unpacked-from-tcp-to-quic-quinn-and-transaction-flow-2pgn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
