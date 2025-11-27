@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Spinning Icon Button – Modern Hover Animation](https://dev.to/jubayid_hassan_734b7ff1de/spinning-icon-button-modern-hover-animation-3oih)
-- [High-Level Kubernetes Architecture](https://dev.to/itsmecharan7/high-level-kubernetes-architecture-326)
-- [Problems with Docker](https://dev.to/itsmecharan7/problems-with-docker-4735)
-- [Sigmoid vs Softmax: Key Differences Explained Simply for Deep Learning](https://dev.to/nomidlseo/sigmoid-vs-softmax-key-differences-explained-simply-for-deep-learning-1dbm)
-- [Why was Kubernetes created?](https://dev.to/itsmecharan7/why-was-kubernetes-created-2lmm)
+- [Collection framework](https://dev.to/ramya_kamalasekaran/collection-framework-ak1)
+- [How I Built a Secure CI/CD Pipeline Using Kaniko, Jenkins, and Kubernetes](https://dev.to/srinivasamcjf/how-i-built-a-secure-cicd-pipeline-using-kaniko-jenkins-and-kubernetes-3n86)
+- [Getting Started with Google Patents: A Practical Guide for IP Professionals](https://dev.to/patentscanai/getting-started-with-google-patents-a-practical-guide-for-ip-professionals-3c7a)
+- [Create and configure a container app in Azure Container Apps](https://dev.to/lotanna_obianefo/create-and-configure-a-container-app-in-azure-container-apps-14hj)
+- [The Secret Life of Python: Attribute Lookup Secrets](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-attribute-lookup-secrets-1cah)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
