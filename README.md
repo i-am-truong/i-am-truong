@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Github dockerfile service using AI - Part 2](https://dev.to/codecowboydotio/github-dockerfile-servie-using-ai-part-2-914)
-- [Recrutement des développeurs en Afrique : l’incohérence d’un système qui veut innover avec des méthodes archaïques](https://dev.to/digitaldev/recrutement-des-developpeurs-en-afrique-lincoherence-dun-systeme-qui-veut-innover-avec-des-2m7f)
-- [Excessive Agency in Agentic AI: Setting Safe Boundaries](https://dev.to/eyal_doron_aisec/excessive-agency-in-agentic-ai-setting-safe-boundaries-53l5)
-- [Build your first AI agent](https://dev.to/aharna/build-your-first-ai-agent-146f)
-- [Ringer Movies: ‘Two for the Money’ With Bill Simmons, Chris Ryan, and Cousin Sal | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-two-for-the-money-with-bill-simmons-chris-ryan-and-cousin-sal-the-rewatchables-1hkm)
+- [Announcing LightningChart JS Trader v4.0](https://dev.to/omar_lightningchart/announcing-lightningchart-js-trader-v40-1ch2)
+- [Reclaim the Fun of Coding: How to Avoid Manual Input Checks](https://dev.to/benlue/reclaim-the-fun-of-coding-how-to-avoid-manual-input-checks-2ca0)
+- [Embark on a Technological Odyssey: Meet Generative AI, Your Future!](https://dev.to/itcs11/embark-on-a-technological-odyssey-meet-generative-ai-your-future-2o53)
+- [Offline Installation of Office](https://dev.to/itcs11/offline-installation-of-office-4kp0)
+- [From AWS Kinesis to Apache Kafka: Building a Real-Time Streaming Bridge](https://dev.to/abdelrahman_ahmed/from-aws-kinesis-to-apache-kafka-building-a-real-time-streaming-bridge-96b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
