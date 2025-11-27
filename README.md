@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Agent-to-Agent: Building Interoperable AI on AWS](https://dev.to/elianalamhost/agent-to-agent-building-interoperable-ai-on-aws-3bh0)
+- [React Query from Beginner to Advanced: A practical guide to mastering CRUD](https://dev.to/zopdev/react-query-from-beginner-to-advanced-a-practical-guide-to-mastering-crud-53an)
+- [The OpenAI Mixpanel Security Incident Explained](https://dev.to/alifar/the-openai-mixpanel-security-incident-explained-2ok5)
+- [How to Set Up a Free Proxy &amp; VPN Blocker on WordPress](https://dev.to/gges_grp_8f7aad204478d02a/how-to-set-up-a-free-proxy-vpn-blocker-on-wordpress-40dc)
 - [Ingress-nginx EOL is 4 Months Away: Audit Your Ingresses NOW](https://dev.to/random_round/ingress-nginx-eol-is-4-months-away-audit-your-ingresses-now-4od3)
-- [Automated Testing using MCP &amp; AI Agents](https://dev.to/elianalamhost/automated-testing-using-mcp-ai-agents-5956)
-- [Modernizing Telecom Security ML Powered Approach](https://dev.to/elianalamhost/modernizing-telecom-security-ml-powered-approach-43nj)
-- [Advanced CSS Animations and Keyframes: Taking Web Interactions to the Next Level](https://dev.to/sharique_siddiqui_8242dad/advanced-css-animations-and-keyframes-taking-web-interactions-to-the-next-level-d6j)
-- [🎙️ “The Day My Voice Took Control: Why Voice User Interfaces Are the Future of Digital Experiences”](https://dev.to/okoye_ndidiamaka_5e3b7d30/the-day-my-voice-took-control-why-voice-user-interfaces-are-the-future-of-digital-experiences-16pf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
