@@ -122,9 +122,9 @@ Python                   1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [🧩 Basic Syntax for Creating a Pod](https://dev.to/itsmecharan7/basic-syntax-for-creating-a-pod-34bn)
 - [Day-04: Terraform state file management using S3 Bucket](https://dev.to/bhaskara_tejabulusu_b4bf/day-04-terraform-state-file-management-using-s3-bucket-1jll)
+- [Developer Tools for Building Quantum-Resistant Web3 Apps with Lattice](https://dev.to/auli_takala_d379835856f1f/developer-tools-for-building-quantum-resistant-web3-apps-with-lattice-2ai0)
 - [Migrate from NuxtHub to Cloudflare directly](https://dev.to/dennisadriaans/migrate-from-nuxthub-to-cloudflare-directly-4ncd)
 - [From JSON to Internet Object: A Lean, Schema-First Data Format &lpar;Part 1&rpar;](https://dev.to/internetobject/from-json-to-internet-object-a-lean-schema-first-data-format-part-1-19e5)
-- [Solana Networking Unpacked: From TCP to QUIC, Quinn, and Transaction Flow](https://dev.to/thopatevijay/solana-networking-unpacked-from-tcp-to-quic-quinn-and-transaction-flow-2pgn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
