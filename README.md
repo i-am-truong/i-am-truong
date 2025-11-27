@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [2025 Major Release: How Does DeepSeekMath-V2 Achieve Self-Verifying Mathematical Reasoning? Complete Technical Analysis](https://dev.to/czmilo/2025-major-release-how-does-deepseekmath-v2-achieve-self-verifying-mathematical-reasoning-3pje)
+- [When Your OS Becomes Your Enemy And Linux Becomes Your Exit](https://dev.to/numbpill3d/when-your-os-becomes-your-enemy-and-linux-becomes-your-exit-585b)
+- [Made a VSCode extension for grouping files for easier multi task management in big project](https://dev.to/pter_varga_e7679c0886477/made-a-vscode-extension-for-grouping-files-for-easier-multi-task-management-in-big-project-176i)
 - [Python Linters: A Guide for Clean Code](https://dev.to/rosgluk/python-linters-a-guide-for-clean-code-1mn5)
 - [Go Linters: Essential Tools for Code Quality](https://dev.to/rosgluk/go-linters-essential-tools-for-code-quality-35f)
-- [Building The Spirit Box: When AI Meets the Afterlife](https://dev.to/yooi/building-the-spirit-box-when-ai-meets-the-afterlife-270a)
-- [✅ Task #2 — Deploy Your First GitOps Application on GKE Cluster Using ArgoCD](https://dev.to/latchudevops/task-2-deploy-your-first-gitops-application-on-gke-cluster-using-argocd-3ng1)
-- [I built a Python Video Downloader for my Engineering Thesis 🎓🎥](https://dev.to/oheyek/i-built-a-python-video-downloader-for-my-engineering-thesis-586m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
