@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Dynamics 365 for Sales: The Best CRM for Modern Businesses in 2026](https://dev.to/factsaboutb2bblogs/dynamics-365-for-sales-the-best-crm-for-modern-businesses-in-2026-32bc)
-- [Building a Strike System: How I Prevent AI Feature Abuse in My News App](https://dev.to/padma9647/building-a-strike-system-how-i-prevent-ai-feature-abuse-in-my-news-app-36am)
-- [Personal Health Agent &lpar;PHA&rpar;: Multi-Agent Health System](https://dev.to/mitanshgor/personal-health-agent-pha-multi-agent-health-system-1i6l)
-- [PHIA: The Agentic LLM That Writes Code, Analyzes Your Data &amp; Explains Health Insights](https://dev.to/mitanshgor/phia-the-agentic-llm-that-writes-code-analyzes-your-data-explains-health-insights-4g1a)
-- [PH-LLM - A LLM that gives personalized sleep and fitness coaching using wearable data.](https://dev.to/mitanshgor/ph-llm-a-llm-that-gives-personalized-sleep-and-fitness-coaching-using-wearable-data-2m7f)
+- [Definition of Services in Kubernetes](https://dev.to/itsmecharan7/definition-of-services-in-kubernetes-36if)
+- [Types of Chatbots: Rule-Based, NLP &amp; AI Chatbots Explained &lpar;Insights from DGTL Tech Hub&rpar;](https://dev.to/dgtltechhub/types-of-chatbots-rule-based-nlp-ai-chatbots-explained-insights-from-dgtl-tech-hub-2ohb)
+- [Forget Wall Street: Here’s How to Create the Best Stock Screener Yourself](https://dev.to/djinn/forget-wall-street-heres-how-to-create-the-best-stock-screener-yourself-4k2i)
+- [🚀 Terraform Azure Infrastructure &lpar;Modular Architecture + DevSecOps&rpar;](https://dev.to/techmademi/terraform-azure-infrastructure-modular-architecture-devsecops-291p)
+- [The Shopify products.json Trick: Scrape Any Store 25x Faster with Python](https://dev.to/dentedlogic/the-shopify-productsjson-trick-scrape-any-store-25x-faster-with-python-4p95)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
