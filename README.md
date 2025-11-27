@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The 2025 Humanizer Era: SafeNew AI and the Future of Human-Centric Writing](https://dev.to/safenewai/the-2025-humanizer-era-safenew-ai-and-the-future-of-human-centric-writing-eib)
+- [HOW TO BECOME AN INTELLIGENT MAN.](https://dev.to/arunabraham9947/how-to-become-an-intelligent-man-bpd)
 - [Actionable Soil Health: Scaling Decisions to African Smallholders with Earth Engine Cloud](https://dev.to/nicmsn2/actionable-soil-health-scaling-decisions-to-african-smallholders-with-earth-engine-cloud-4322)
 - [Engineering Adaptive Soundscapes: A Technical Guide to Generative Audio in Development](https://dev.to/ngoc_dungtran_fe97805363/engineering-adaptive-soundscapes-a-technical-guide-to-generative-audio-in-development-oj1)
 - [&quot;Soft Skills Are Actually the Hard Skills&quot;: Why Developer Growth Is More Difficult Than Technical Mastery](https://dev.to/tlorent/soft-skills-are-actually-the-hard-skills-why-developer-growth-is-more-difficult-than-technical-4527)
-- [Launched Ultracite on Product Hunt twice. Here&#39;s what I learned.](https://dev.to/fmerian/launched-ultracite-on-product-hunt-twice-heres-what-i-learned-e10)
-- [CKS Notes - Image Security](https://dev.to/cheedge_lee/cks-notes-image-security-29k6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
