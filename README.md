@@ -120,13 +120,13 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[Boost]](https://dev.to/anthonymax/-ep4)
+- [[Boost]](https://dev.to/marvin_p/-4pm6)
 - [Added a new example of a HATEOAS application:
 
 https://github.com/hmpl-language/examples](https://dev.to/anthonymax/added-a-new-example-of-a-hateoas-applicationhttpsgithubcomhmpl-languageexamples-2mk9)
 - [Obedient Checkouts](https://dev.to/vaticnz/obedient-checkouts-3ki0)
 - [How I Used Claude Code to Speed Up My Shell Startup by 95%](https://dev.to/nickytonline/how-i-used-claude-code-to-speed-up-my-shell-startup-by-95-m0f)
-- [Businesses were losing customers to messy bookings — so I built Rezzervo](https://dev.to/l3on06/businesses-were-losing-customers-to-messy-bookings-so-i-built-rezzervo-9a3)
-- [The Frontend Developer Roadmap: Skills, Values, and Tools to Become a Competitive Engineer in 2025/2026](https://dev.to/smrpdl1991/the-frontend-developer-roadmap-skills-values-and-tools-to-become-a-competitive-engineer-in-44o3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
