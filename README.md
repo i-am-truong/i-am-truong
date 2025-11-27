@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [## ⏳ From Dot-Com Bubble to Digital Hype: Learning from the Past](https://dev.to/jeandevbr/-from-dot-com-bubble-to-digital-hype-learning-from-the-past-2k1i)
+- [10 Frustrating API Errors &amp; What They Actually Mean](https://dev.to/sky98/10-frustrating-api-errors-what-they-actually-mean-3igg)
 - [🤖🤖How to run AI in parallel easily and for free &lpar;Git Worktree Runner&rpar;🧠🧠](https://dev.to/webdeveloperhyper/how-to-run-ai-in-parallel-easily-and-for-free-git-worktree-runner-80o)
 - [API team alignment issues - this article nailed our exact problem](https://dev.to/atishh_amte/api-team-alignment-issues-this-article-nailed-our-exact-problem-1l5n)
 - [Что нового в Rust 1.92 beta: LLVM 20 и послабление E0719](https://dev.to/laruh/chto-novogho-v-rust-192-beta-llvm-20-i-poslablieniie-e0719-3639)
-- [Building a Collaborative Linear Style App with Next.js, Tiptap, and Velt](https://dev.to/astrodevil/building-a-collaborative-linear-style-app-with-nextjs-tiptap-and-velt-52k6)
-- [I make a cheaper NTP Clock than Digital Clock with ESP-01](https://dev.to/rifat_cd54d498fd977125e89/i-make-a-cheaper-ntp-clock-than-digital-clock-with-esp-01-fbf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
