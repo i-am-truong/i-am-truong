@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Timepicker-UI v4.0.0 - Five Years of Learning, One Major Rewrite](https://dev.to/pglejzer/timepicker-ui-v400-five-years-of-learning-one-major-rewrite-1j6a)
-- [What Is xAI Grok &lpar;1–4&rpar; — And How Could Grok 5 Reshape the AI Model Landscape?](https://dev.to/emilyfoster/what-is-xai-grok-1-4-and-how-could-grok-5-reshape-the-ai-model-landscape-1l2a)
-- [Testing PlagiatKontroll Against Modern LLM Texts: Hur bra står verktyget sig i AI-eran?](https://dev.to/alexandra_campbell_1d0518/testing-plagiatkontroll-against-modern-llm-texts-hur-bra-star-verktyget-sig-i-ai-eran-b5j)
-- [Configure continuous integration by using Azure Pipelines](https://dev.to/lotanna_obianefo/configure-continuous-integration-by-using-azure-pipelines-16i2)
-- [How I host Nuxt apps on a $5 VPS with &quot;Vercel-like&quot; DX](https://dev.to/benharris2510/how-i-host-nuxt-apps-on-a-5-vps-with-vercel-like-dx-5dg4)
+- [Designing High-Performance Fintech SaaS with Redis and CDNs](https://dev.to/ertnbrk/designing-high-performance-fintech-saas-with-redis-and-cdns-120g)
+- [GA4 Custom Segments That Actually Matter: 7 Configurations Most Marketers Overlook](https://dev.to/synergistdigitalmedia/ga4-custom-segments-that-actually-matter-7-configurations-most-marketers-overlook-184j)
+- [Moving from Process to Subprocess](https://dev.to/trozware/moving-from-process-to-subprocess-4408)
+- [How Grok Works Under the Hood: Inside xAI’s Infrastructure and Training Logic](https://dev.to/davidevans/how-grok-works-under-the-hood-inside-xais-infrastructure-and-training-logic-45ag)
+- [Unveiling the Hidden Geometry That Supercharges Neural Nets](https://dev.to/arvind_sundararajan/unveiling-the-hidden-geometry-that-supercharges-neural-nets-1l91)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
