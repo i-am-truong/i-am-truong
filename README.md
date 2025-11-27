@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a &quot;Lazy&quot; AI Terminal Assistant because I hate memorizing flags](https://dev.to/abubakr_alsheikh/i-built-a-lazy-ai-terminal-assistant-because-i-hate-memorizing-flags-262l)
-- [I Built NetPrune: A Rust Tool to Clean Up My 12,000+ LinkedIn Connections](https://dev.to/chronocoders/i-built-netprune-a-rust-tool-to-clean-up-my-12000-linkedin-connections-5hmg)
-- [Using Partytown with Google Tag Manager in Astro: A Step-by-Step Guide](https://dev.to/reeshee/using-partytown-with-google-tag-manager-in-astro-a-step-by-step-guide-4b48)
-- [How to Build Apple-Style Glassmorphic UI in SwiftUI](https://dev.to/sebastienlato/how-to-build-apple-style-glassmorphic-ui-in-swiftui-3lgh)
-- [TWD 1.2.x release - Component mocking, test and ci improvements](https://dev.to/kevinccbsg/twd-12x-release-component-mocking-test-and-ci-improvements-1lc3)
+- [Building Resilient Cloud Infrastructure with Terraform and Azure](https://dev.to/divinetheanalyst/building-resilient-cloud-infrastructure-with-terraform-and-azure-4637)
+- [Introduction](https://dev.to/palakhirave/introduction-448c)
+- [🚀 File Descriptors in Linux — The Underrated Heroes of I/O](https://dev.to/ayoub_lahmami/file-descriptors-in-linux-the-underrated-heroes-of-io-5e0m)
+- [MySQL Safe Update Mode](https://dev.to/seongbae/mysql-safe-update-mode-2eel)
+- [Transitioning from Python Basics to Building Real Projects &lpar;New Phase!&rpar;](https://dev.to/ian_b838138a27a917398d181/transitioning-from-python-basics-to-building-real-projects-new-phase-5eae)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
