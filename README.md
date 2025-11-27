@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🧩 Basic Syntax for Creating a Pod](https://dev.to/itsmecharan7/basic-syntax-for-creating-a-pod-34bn)
-- [Day-04: Terraform state file management using S3 Bucket](https://dev.to/bhaskara_tejabulusu_b4bf/day-04-terraform-state-file-management-using-s3-bucket-1jll)
-- [Developer Tools for Building Quantum-Resistant Web3 Apps with Lattice](https://dev.to/auli_takala_d379835856f1f/developer-tools-for-building-quantum-resistant-web3-apps-with-lattice-2ai0)
-- [Migrate from NuxtHub to Cloudflare directly](https://dev.to/dennisadriaans/migrate-from-nuxthub-to-cloudflare-directly-4ncd)
-- [From JSON to Internet Object: A Lean, Schema-First Data Format &lpar;Part 1&rpar;](https://dev.to/internetobject/from-json-to-internet-object-a-lean-schema-first-data-format-part-1-19e5)
+- [How To Attach A Data Disk To A Virtual Machine And How To Initialize It](https://dev.to/akintoye_gbenga/how-to-attach-a-data-disk-to-a-virtual-machine-and-how-to-initialize-it-1p0c)
+- [Multicloud: Freedom or a Fancy Form of Chaos?](https://dev.to/dev_tips/multicloud-freedom-or-a-fancy-form-of-chaos-27k3)
+- [Day 2 : The Knowledge of Terraform Providers](https://dev.to/alafiz/day-2-the-knowledge-of-terraform-providers-49a1)
+- [From Localhost to Live: A Practical Guide to Deploying a Next.js App on AWS EC2 &lpar;With Common Errors &amp; Fixes&rpar;](https://dev.to/ajeet_sahu_bc00dce4aecf04/from-localhost-to-live-a-practical-guide-to-deploying-a-nextjs-app-on-aws-ec2-with-common-errors-3i5m)
+- [How to use Cursor to Generate API Testcases in Requestly](https://dev.to/heraldofsolace/how-to-use-cursor-to-generate-api-testcases-in-requestly-4pn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
