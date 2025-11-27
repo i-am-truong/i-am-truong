@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ingress-nginx EOL is 4 Months Away: Audit Your Ingresses NOW](https://dev.to/random_round/ingress-nginx-eol-is-4-months-away-audit-your-ingresses-now-4od3)
+- [Automated Testing using MCP &amp; AI Agents](https://dev.to/elianalamhost/automated-testing-using-mcp-ai-agents-5956)
 - [Modernizing Telecom Security ML Powered Approach](https://dev.to/elianalamhost/modernizing-telecom-security-ml-powered-approach-43nj)
 - [Advanced CSS Animations and Keyframes: Taking Web Interactions to the Next Level](https://dev.to/sharique_siddiqui_8242dad/advanced-css-animations-and-keyframes-taking-web-interactions-to-the-next-level-d6j)
 - [🎙️ “The Day My Voice Took Control: Why Voice User Interfaces Are the Future of Digital Experiences”](https://dev.to/okoye_ndidiamaka_5e3b7d30/the-day-my-voice-took-control-why-voice-user-interfaces-are-the-future-of-digital-experiences-16pf)
-- [[MyNextHome] Simple Data Model + Sync Flow](https://dev.to/cathylai/mynexthome-simple-data-model-sync-flow-v01-4b8f)
-- [Secrets Management in Production](https://dev.to/godofgeeks/secrets-management-in-production-efj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
