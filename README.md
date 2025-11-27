@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [8 Best CAD Software](https://dev.to/julia970/8-best-cad-software-12pb)
-- [Definition of Services in Kubernetes](https://dev.to/itsmecharan7/definition-of-services-in-kubernetes-36if)
-- [Types of Chatbots: Rule-Based, NLP &amp; AI Chatbots Explained &lpar;Insights from DGTL Tech Hub&rpar;](https://dev.to/dgtltechhub/types-of-chatbots-rule-based-nlp-ai-chatbots-explained-insights-from-dgtl-tech-hub-2ohb)
-- [Forget Wall Street: Here’s How to Create the Best Stock Screener Yourself](https://dev.to/djinn/forget-wall-street-heres-how-to-create-the-best-stock-screener-yourself-4k2i)
-- [🚀 Terraform Azure Infrastructure &lpar;Modular Architecture + DevSecOps&rpar;](https://dev.to/techmademi/terraform-azure-infrastructure-modular-architecture-devsecops-291p)
+- [[MyNextHome] Simple Data Model + Sync Flow](https://dev.to/cathylai/mynexthome-simple-data-model-sync-flow-v01-4b8f)
+- [I Built a Browser-Based HEIC PDF/PNG Converter: How It Works &lpar;and Why Office Workers Might Love It&rpar;](https://dev.to/_7bdcbcaa99fbf1c9ea608c/i-built-a-browser-based-heic-pdfpng-converter-how-it-works-and-why-office-workers-might-love-it-70h)
+- [How Blockchain Development Services Are Powering the Next Wave of Enterprise Innovation | Oodles](https://dev.to/oodlesplatform/how-blockchain-development-services-are-powering-the-next-wave-of-enterprise-innovation-oodles-24hd)
+- [Rethinking GenAI Agent: RAG &amp; MCP](https://dev.to/elianalamhost/rethinking-genai-agent-rag-mcp-12dp)
+- [Disaster and Emergency Response with TAK and AWS](https://dev.to/elianalamhost/disaster-and-emergency-response-with-tak-and-aws-18mc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
