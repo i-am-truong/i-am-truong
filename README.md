@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing LeanSpec: A Lightweight SDD Framework Built from First Principles](https://dev.to/tikazyq/introducing-leanspec-a-lightweight-sdd-framework-built-from-first-principles-18a3)
+- [🧑‍🚀 LLM Engine Telemetry: How to Profile Models and See Where Performance is Lost](https://dev.to/astronaut27/llm-engine-telemetry-how-to-profile-models-and-see-where-performance-is-lost-169b)
+- [Azure Data Solutions: Data Factory, Synapse, Data Lake &amp; Databricks Integration](https://dev.to/borisgigovic/azure-data-solutions-data-factory-synapse-data-lake-databricks-integration-2bbk)
 - [How To Attach A Data Disk To A Virtual Machine And How To Initialize It](https://dev.to/akintoye_gbenga/how-to-attach-a-data-disk-to-a-virtual-machine-and-how-to-initialize-it-1p0c)
 - [Multicloud: Freedom or a Fancy Form of Chaos?](https://dev.to/dev_tips/multicloud-freedom-or-a-fancy-form-of-chaos-27k3)
-- [Day 2 : The Knowledge of Terraform Providers](https://dev.to/alafiz/day-2-the-knowledge-of-terraform-providers-49a1)
-- [From Localhost to Live: A Practical Guide to Deploying a Next.js App on AWS EC2 &lpar;With Common Errors &amp; Fixes&rpar;](https://dev.to/ajeet_sahu_bc00dce4aecf04/from-localhost-to-live-a-practical-guide-to-deploying-a-nextjs-app-on-aws-ec2-with-common-errors-3i5m)
-- [How to use Cursor to Generate API Testcases in Requestly](https://dev.to/heraldofsolace/how-to-use-cursor-to-generate-api-testcases-in-requestly-4pn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
