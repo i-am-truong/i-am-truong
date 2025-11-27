@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Collection framework](https://dev.to/ramya_kamalasekaran/collection-framework-ak1)
-- [How I Built a Secure CI/CD Pipeline Using Kaniko, Jenkins, and Kubernetes](https://dev.to/srinivasamcjf/how-i-built-a-secure-cicd-pipeline-using-kaniko-jenkins-and-kubernetes-3n86)
-- [Getting Started with Google Patents: A Practical Guide for IP Professionals](https://dev.to/patentscanai/getting-started-with-google-patents-a-practical-guide-for-ip-professionals-3c7a)
-- [Create and configure a container app in Azure Container Apps](https://dev.to/lotanna_obianefo/create-and-configure-a-container-app-in-azure-container-apps-14hj)
-- [The Secret Life of Python: Attribute Lookup Secrets](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-attribute-lookup-secrets-1cah)
+- [6 Essential Tools to Supercharge Your Workflow &amp; Creativity](https://dev.to/platypus98/6-essential-tools-to-supercharge-your-workflow-creativity-gkh)
+- [Micro Frontend: Common Misconceptions with Case Studies](https://dev.to/juun_roh/micro-frontend-common-misconceptions-with-case-studies-4fan)
+- [Java 8 -Streams API Few Questions](https://dev.to/ramya_kamalasekaran/java-8-streams-api-few-questions-3iho)
+- [Python by Structure: How Decorators Transform Classes](https://dev.to/aaron_rose_0787cc8b4775a0/python-by-structure-how-decorators-transform-classes-3pib)
+- [Ringer Movies: ‘Two for the Money’ With Bill Simmons, Chris Ryan, and Cousin Sal | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-two-for-the-money-with-bill-simmons-chris-ryan-and-cousin-sal-the-rewatchables-429d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
