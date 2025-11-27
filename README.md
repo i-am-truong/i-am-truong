@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What Is HATEOAS? A Complete Guide + Build Your Own App Using Hypermedia 🔥](https://dev.to/anthonymax/what-is-hateoas-a-complete-guide-build-your-own-app-using-hypermedia-k56)
-- [ICYMI - pre:Invent announcements 2025](https://dev.to/lorcan_firstblox/icymi-preinvent-announcements-2025-5h1l)
-- [KENYA CROP PERFORMANCE DASHBOARD](https://dev.to/faybeth_robina/kenya-crop-performance-dashboard-1mkf)
-- [CKS Notes - TLS](https://dev.to/cheedge_lee/cks-notes-tls-bll)
-- [From Waste to Website: Eivan&#39;s &#39;Trash to Treasure&#39; Revolution Powered by Creativity and Digital Tools](https://dev.to/buysellshop/from-waste-to-website-eivans-trash-to-treasure-revolution-powered-by-creativity-and-digital-10m0)
+- [How I Used Claude Code to Speed Up My Shell Startup by 95%](https://dev.to/nickytonline/how-i-used-claude-code-to-speed-up-my-shell-startup-by-95-m0f)
+- [Businesses were losing customers to messy bookings — so I built Rezzervo](https://dev.to/l3on06/businesses-were-losing-customers-to-messy-bookings-so-i-built-rezzervo-9a3)
+- [The Frontend Developer Roadmap: Skills, Values, and Tools to Become a Competitive Engineer in 2025/2026](https://dev.to/smrpdl1991/the-frontend-developer-roadmap-skills-values-and-tools-to-become-a-competitive-engineer-in-44o3)
+- [From ESLint/StyleLint and Prettier to Biome: simplifying our front-end linting](https://dev.to/yoriiis/from-eslintstylelint-and-prettier-to-biome-simplifying-our-front-end-linting-3nmj)
+- [Transform LLM Apps into Profit Centers with Monetzly&#39;s API Monetization](https://dev.to/monetzly/transform-llm-apps-into-profit-centers-with-monetzlys-api-monetization-43l3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
