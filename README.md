@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀Terraform State File Management with AWS S3](https://dev.to/amit_kumar_7db8e36a64dd45/terraform-state-file-management-with-aws-s3-22dj)
-- [Why the Directory Is the Core of IAM: The Digital Heartbeat of Every Organization](https://dev.to/sunnysinh_a/why-the-directory-is-the-core-of-iam-the-digital-heartbeat-of-every-organization-57m1)
-- [How n8n Automates Contract Review and Approvals](https://dev.to/enna/how-n8n-automates-contract-review-and-approvals-2o96)
-- [Блогер нашёл способ воспроизводить на PS5 содержимое обычных компакт-дисков](https://dev.to/ad_layer_4acdca7d59ff763f/bloghier-nashiol-sposob-vosproizvodit-na-ps5-sodierzhimoie-obychnykh-kompakt-diskov-ib5)
-- [Introducing LeanSpec: A Lightweight SDD Framework Built from First Principles](https://dev.to/tikazyq/introducing-leanspec-a-lightweight-sdd-framework-built-from-first-principles-18a3)
+- [How have I managed Date types in my asyncio python web scraper using PostgreSQL?](https://dev.to/brainstorm86/how-have-i-managed-date-types-in-my-asyncio-python-web-scraper-using-postgresql-2272)
+- [Drone-ambient-noise synthesizer in Javascript: when instability is a feature, not a bug](https://dev.to/max_alyokhin/drone-ambient-noise-synthesizer-in-javascript-when-instability-is-a-feature-not-a-bug-34i8)
+- [Хурдтай вебийн 3 шинж](https://dev.to/bizocci/khurdtai-viebiin-3-shinzh-4ofk)
+- [MySQL SELECT … FOR UPDATE is causing a table lock during high traffic while generating sequential transaction IDs](https://dev.to/developer_account_19c62ad/mysql-select-for-update-is-causing-a-table-lock-during-high-traffic-while-generating-sequential-4ola)
+- [The Future of Cyber Resilience for Complex AWS Environments is Here](https://dev.to/aws-builders/the-future-of-cyber-resilience-for-complex-aws-environments-is-here-26c1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
