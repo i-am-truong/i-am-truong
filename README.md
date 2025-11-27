@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Agent-to-Agent: Building Interoperable AI on AWS](https://dev.to/elianalamhost/agent-to-agent-building-interoperable-ai-on-aws-3bh0)
-- [React Query from Beginner to Advanced: A practical guide to mastering CRUD](https://dev.to/zopdev/react-query-from-beginner-to-advanced-a-practical-guide-to-mastering-crud-53an)
-- [The OpenAI Mixpanel Security Incident Explained](https://dev.to/alifar/the-openai-mixpanel-security-incident-explained-2ok5)
-- [How to Set Up a Free Proxy &amp; VPN Blocker on WordPress](https://dev.to/gges_grp_8f7aad204478d02a/how-to-set-up-a-free-proxy-vpn-blocker-on-wordpress-40dc)
-- [Ingress-nginx EOL is 4 Months Away: Audit Your Ingresses NOW](https://dev.to/random_round/ingress-nginx-eol-is-4-months-away-audit-your-ingresses-now-4od3)
+- [Github dockerfile service using AI - Part 2](https://dev.to/codecowboydotio/github-dockerfile-servie-using-ai-part-2-914)
+- [Recrutement des développeurs en Afrique : l’incohérence d’un système qui veut innover avec des méthodes archaïques](https://dev.to/digitaldev/recrutement-des-developpeurs-en-afrique-lincoherence-dun-systeme-qui-veut-innover-avec-des-2m7f)
+- [Excessive Agency in Agentic AI: Setting Safe Boundaries](https://dev.to/eyal_doron_aisec/excessive-agency-in-agentic-ai-setting-safe-boundaries-53l5)
+- [Build your first AI agent](https://dev.to/aharna/build-your-first-ai-agent-146f)
+- [Ringer Movies: ‘Two for the Money’ With Bill Simmons, Chris Ryan, and Cousin Sal | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-two-for-the-money-with-bill-simmons-chris-ryan-and-cousin-sal-the-rewatchables-1hkm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
