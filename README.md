@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Cutout Works &lpar;Even Though It Looks Like Sabotage&rpar;](https://dev.to/aniket_kuyate_15acc4e6587/why-cutout-works-even-though-it-looks-like-sabotage-25pd)
-- [Color Theory in UI Design: From Basics to Advanced Palettes](https://dev.to/frontendtoolstech/color-theory-in-ui-design-from-basics-to-advanced-palettes-mdm)
-- [7 Ways to Create High-Quality Evaluation Datasets for LLMs](https://dev.to/kamya_shah_e69d5dd78f831c/7-ways-to-create-high-quality-evaluation-datasets-for-llms-2e4m)
-- [How-to: Say you have a data lake](https://dev.to/david_kershaw_b6916404da6/how-to-say-you-have-a-data-lake-1p4l)
-- [Bicep / ARM vs Terraform](https://dev.to/teaganga/bicep-arm-vs-terraform-53k1)
+- [Stop Overcomplicating RAG: Why I Built a &quot;Memory Server&quot; on Postgres &lpar;and Open Sourced It&rpar;](https://dev.to/jakob_sandstrm_a11b3056c/stop-overcomplicating-rag-why-i-built-a-memory-server-on-postgres-and-open-sourced-it-2p5n)
+- [Cloudflare&#39;s November 18 Outage – A Continuous Delivery Perspective](https://dev.to/markoa/cloudflares-november-18-outage-a-continuous-delivery-perspective-4e69)
+- [Rapidok — A High-Performance TikTok Downloader for Developers &amp; Power Users](https://dev.to/miztizm/rapidok-a-high-performance-tiktok-downloader-for-developers-power-users-deh)
+- [🚜 Farmore — Mirror Every GitHub Repo You Own in One Command](https://dev.to/miztizm/farmore-mirror-every-github-repo-you-own-in-one-command-16oc)
+- [Prototipagem rápida com Figma](https://dev.to/lucaspereiradesouzat/prototipagem-rapida-com-figma-346p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
