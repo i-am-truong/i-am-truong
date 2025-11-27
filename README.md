@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Coding Challenge Practice - Question 67](https://dev.to/tomivan/coding-challenge-practice-question-67-iid)
+- [Serilog: Get the last log file](https://dev.to/karenpayneoregon/serilog-get-the-last-log-file-4iil)
 - [The 3Rs of Output Incentives: Role, Reward, Regard](https://dev.to/stakiran/the-3rs-of-output-incentives-role-reward-regard-418m)
 - [jour 2 pour créer un os](https://dev.to/eau2lavi/jour-2-pour-creer-un-os-544c)
-- [**Riesgos de lavado de dinero en México:**](https://dev.to/drcarlosruizviquez/riesgos-de-lavado-de-dinero-en-mexico-12o2)
 - [I Built a Real-Time HackerNews Search Engine with 50 Lines of Python &lpar;No Airflow, No Kafka&rpar;](https://dev.to/badmonster0/i-built-a-real-time-hackernews-search-engine-with-50-lines-of-python-no-airflow-no-kafka-b9)
-- [Automate Open Graph Image Generation for Your Blog Posts](https://dev.to/amna_anjum_2f911c0a1a4640/automate-open-graph-image-generation-for-your-blog-posts-351)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
