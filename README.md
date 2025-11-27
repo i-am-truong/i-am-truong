@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀Terraform State File Management with AWS S3](https://dev.to/amit_kumar_7db8e36a64dd45/terraform-state-file-management-with-aws-s3-22dj)
+- [Why the Directory Is the Core of IAM: The Digital Heartbeat of Every Organization](https://dev.to/sunnysinh_a/why-the-directory-is-the-core-of-iam-the-digital-heartbeat-of-every-organization-57m1)
+- [How n8n Automates Contract Review and Approvals](https://dev.to/enna/how-n8n-automates-contract-review-and-approvals-2o96)
+- [Блогер нашёл способ воспроизводить на PS5 содержимое обычных компакт-дисков](https://dev.to/ad_layer_4acdca7d59ff763f/bloghier-nashiol-sposob-vosproizvodit-na-ps5-sodierzhimoie-obychnykh-kompakt-diskov-ib5)
 - [Introducing LeanSpec: A Lightweight SDD Framework Built from First Principles](https://dev.to/tikazyq/introducing-leanspec-a-lightweight-sdd-framework-built-from-first-principles-18a3)
-- [🧑‍🚀 LLM Engine Telemetry: How to Profile Models and See Where Performance is Lost](https://dev.to/astronaut27/llm-engine-telemetry-how-to-profile-models-and-see-where-performance-is-lost-169b)
-- [Azure Data Solutions: Data Factory, Synapse, Data Lake &amp; Databricks Integration](https://dev.to/borisgigovic/azure-data-solutions-data-factory-synapse-data-lake-databricks-integration-2bbk)
-- [How To Attach A Data Disk To A Virtual Machine And How To Initialize It](https://dev.to/akintoye_gbenga/how-to-attach-a-data-disk-to-a-virtual-machine-and-how-to-initialize-it-1p0c)
-- [Multicloud: Freedom or a Fancy Form of Chaos?](https://dev.to/dev_tips/multicloud-freedom-or-a-fancy-form-of-chaos-27k3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
