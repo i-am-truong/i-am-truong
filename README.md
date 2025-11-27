@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ICYMI - pre:Invent announcements 2025](https://dev.to/lorcan_firstblox/icymi-preinvent-announcements-2025-5h1l)
+- [From Waste to Website: Eivan&#39;s &#39;Trash to Treasure&#39; Revolution Powered by Creativity and Digital Tools](https://dev.to/buysellshop/from-waste-to-website-eivans-trash-to-treasure-revolution-powered-by-creativity-and-digital-10m0)
+- [AI Ranking Tools](https://dev.to/babbo_542a1b20fefc/ai-ranking-tools-4n51)
+- [The 2025 Dev Edge](https://dev.to/farhannasirdev/the-2025-dev-edge-3k2)
 - [Coding Challenge Practice - Question 67](https://dev.to/tomivan/coding-challenge-practice-question-67-iid)
-- [Serilog: Get the last log file](https://dev.to/karenpayneoregon/serilog-get-the-last-log-file-4iil)
-- [The 3Rs of Output Incentives: Role, Reward, Regard](https://dev.to/stakiran/the-3rs-of-output-incentives-role-reward-regard-418m)
-- [jour 2 pour créer un os](https://dev.to/eau2lavi/jour-2-pour-creer-un-os-544c)
-- [I Built a Real-Time HackerNews Search Engine with 50 Lines of Python &lpar;No Airflow, No Kafka&rpar;](https://dev.to/badmonster0/i-built-a-real-time-hackernews-search-engine-with-50-lines-of-python-no-airflow-no-kafka-b9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
