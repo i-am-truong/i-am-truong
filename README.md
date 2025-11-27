@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How SafeLine WAF Transformed Our Web Security: A Real User Case Study](https://dev.to/arina_cholee/how-safeline-waf-transformed-our-web-security-a-real-user-case-study-1m0l)
+- [The New Digital-First Shift: AI Makes Development Easy, Marketing Becomes the Hard Part](https://dev.to/mzelensky/the-new-digital-first-shift-ai-makes-development-easy-marketing-becomes-the-hard-part-500d)
+- [What is Web Scraping and What is it Used For?](https://dev.to/scrapestorm/what-is-web-scraping-and-what-is-it-used-for-1dfl)
+- [WTF is Remote Patient Monitoring?](https://dev.to/dailybugle33/wtf-is-remote-patient-monitoring-2g37)
 - [Announcing LightningChart JS Trader v4.0](https://dev.to/omar_lightningchart/announcing-lightningchart-js-trader-v40-1ch2)
-- [Reclaim the Fun of Coding: How to Avoid Manual Input Checks](https://dev.to/benlue/reclaim-the-fun-of-coding-how-to-avoid-manual-input-checks-2ca0)
-- [Embark on a Technological Odyssey: Meet Generative AI, Your Future!](https://dev.to/itcs11/embark-on-a-technological-odyssey-meet-generative-ai-your-future-2o53)
-- [Offline Installation of Office](https://dev.to/itcs11/offline-installation-of-office-4kp0)
-- [From AWS Kinesis to Apache Kafka: Building a Real-Time Streaming Bridge](https://dev.to/abdelrahman_ahmed/from-aws-kinesis-to-apache-kafka-building-a-real-time-streaming-bridge-96b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
