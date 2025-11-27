@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🐠 Fish — The Language Where Code Swims in Four Directions](https://dev.to/viz-x/fish-the-language-where-code-swims-in-four-directions-fho)
 - [Maven Enforcer Rule dependOnAllProjects](https://dev.to/mikkoi/maven-enforcer-rule-dependonallprojects-16n6)
-- [🧪 HexSpeak — The Language That Turns Hex Into readable “Magic Words”](https://dev.to/viz-x/hexspeak-the-language-that-turns-hex-into-readable-magic-words-32m4)
-- [Why a 4-Day Workweek Just Makes Sense](https://dev.to/bibimbop123/why-a-4-day-workweek-just-makes-sense-3bel)
-- [🐔 Chicken — The Language Where Every Keyword Is “chicken&quot;](https://dev.to/viz-x/chicken-the-language-where-every-keyword-is-chicken-2jno)
-- [From Idea to Launch: A Business Guide to Building Successful AI Products](https://dev.to/imuller/from-idea-to-launch-a-business-guide-to-building-successful-ai-products-4hl)
+- [🎨 Piet — The Language Where Programs Look Like Modern Art](https://dev.to/viz-x/piet-the-language-where-programs-look-like-modern-art-4me1)
+- [Building a Full-Stack AI Memory System in 2 Weeks with Kiro AI IDE](https://dev.to/vinod_wa/building-a-full-stack-ai-memory-system-in-2-weeks-with-kiro-ai-ide-5e9h)
+- [🧩 Befunge-98 — The Chaotic 3D Upgrade to Befunge](https://dev.to/viz-x/befunge-98-the-chaotic-3d-upgrade-to-befunge-219p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
