@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hacking System Design Interviews with an AI Tutor](https://dev.to/elbanic/hacking-system-design-interviews-with-an-ai-tutor-1jnj)
 - [Designing High-Performance Fintech SaaS with Redis and CDNs](https://dev.to/ertnbrk/designing-high-performance-fintech-saas-with-redis-and-cdns-120g)
 - [GA4 Custom Segments That Actually Matter: 7 Configurations Most Marketers Overlook](https://dev.to/synergistdigitalmedia/ga4-custom-segments-that-actually-matter-7-configurations-most-marketers-overlook-184j)
 - [Moving from Process to Subprocess](https://dev.to/trozware/moving-from-process-to-subprocess-4408)
 - [How Grok Works Under the Hood: Inside xAI’s Infrastructure and Training Logic](https://dev.to/davidevans/how-grok-works-under-the-hood-inside-xais-infrastructure-and-training-logic-45ag)
-- [Unveiling the Hidden Geometry That Supercharges Neural Nets](https://dev.to/arvind_sundararajan/unveiling-the-hidden-geometry-that-supercharges-neural-nets-1l91)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
