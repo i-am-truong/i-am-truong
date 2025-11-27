@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Modern Web Stack Explained](https://dev.to/saquib_pervez_0a13e54c649/the-modern-web-stack-explained-18gd)
+- [The Dockerfile mistakes even senior devs make &lpar;and yes, I learned them the the hard way&rpar;](https://dev.to/dev_tips/the-dockerfile-mistakes-even-senior-devs-make-and-yes-i-learned-them-the-the-hard-way-25gn)
+- [Qeltrix V4: The AES256-GCM Evolution and Breaking Changes](https://dev.to/hejhdiss/qeltrix-v4-the-aes256-gcm-evolution-and-breaking-changes-5b19)
 - [Stop Overcomplicating RAG: Why I Built a &quot;Memory Server&quot; on Postgres &lpar;and Open Sourced It&rpar;](https://dev.to/jakob_sandstrm_a11b3056c/stop-overcomplicating-rag-why-i-built-a-memory-server-on-postgres-and-open-sourced-it-2p5n)
-- [Cloudflare&#39;s November 18 Outage – A Continuous Delivery Perspective](https://dev.to/markoa/cloudflares-november-18-outage-a-continuous-delivery-perspective-4e69)
-- [Rapidok — A High-Performance TikTok Downloader for Developers &amp; Power Users](https://dev.to/miztizm/rapidok-a-high-performance-tiktok-downloader-for-developers-power-users-deh)
-- [🚜 Farmore — Mirror Every GitHub Repo You Own in One Command](https://dev.to/miztizm/farmore-mirror-every-github-repo-you-own-in-one-command-16oc)
-- [Prototipagem rápida com Figma](https://dev.to/lucaspereiradesouzat/prototipagem-rapida-com-figma-346p)
+- [Full Guide on Choosing Salesforce Partners in Sweden](https://dev.to/mykhailoradchenko/full-guide-on-choosing-salesforce-partners-in-sweden-4768)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
