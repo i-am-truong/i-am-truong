@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Spots Trouble Before Traffic Does: Preventing Urban Gridlock with Smart Vision by Arvind Sundararajan](https://dev.to/arvind_sundararajan/ai-spots-trouble-before-traffic-does-preventing-urban-gridlock-with-smart-vision-by-arvind-4d5h)
-- [Stop Using @import: How to Prepare for Dart Sass 3.0 &lpar;Full Migration Guide&rpar;](https://dev.to/quesby/stop-using-import-how-to-prepare-for-dart-sass-30-full-migration-guide-1agh)
-- [The Day Light Walked Into Darkness: A Deep Devotional Journey Through John 9](https://dev.to/douglasvandergraph/the-day-light-walked-into-darkness-a-deep-devotional-journey-through-john-9-11g4)
-- [Building a Useless Machine in Elixir](https://dev.to/markmark/building-a-useless-machine-in-elixir-42i1)
-- [Daily Tech News Roundup - 2025-11-27](https://dev.to/atharvshinde2004/daily-tech-news-roundup-2025-11-27-36km)
+- [PH-LLM - A LLM that gives personalized sleep and fitness coaching using wearable data.](https://dev.to/mitanshgor/ph-llm-a-llm-that-gives-personalized-sleep-and-fitness-coaching-using-wearable-data-2m7f)
+- [AI for Personal Health — My Review, Reflections &amp; Real-Life Understanding](https://dev.to/mitanshgor/ai-for-personal-health-my-review-reflections-real-life-understanding-12kh)
+- [Rethinking Serverless Application Workflows from a Testing Perspective](https://dev.to/elianalamcm/rethinking-serverless-application-workflows-from-a-testing-perspective-33f6)
+- [Practical AWS FinOps for Cloud Success](https://dev.to/elianalamcm/practical-aws-finops-for-cloud-success-1mdg)
+- [Serverless Student Management System &lpar;AWS&rpar;](https://dev.to/awais_684/serverless-student-management-system-aws-2h5i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
