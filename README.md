@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Debugging and troubleshooting issues with Kiro CLI and Amazon Q Developer](https://dev.to/aws/debugging-and-troubleshooting-issues-with-kiro-cli-and-amazon-q-developer-40ae)
+- [Fixing CS0579 in .NET 10 — Why Your Assembly Attributes Are Duplicated &lpar;and How to Really Fix It&rpar;](https://dev.to/cristiansifuentes/fixing-cs0579-in-net-10-why-your-assembly-attributes-are-duplicated-and-how-to-really-fix-it-2n4o)
+- [I wrote a backend library for cloudflare worker and made it open source. Catch the full story.](https://dev.to/shazin/i-wrote-a-backend-library-for-cloudflare-worker-and-made-it-open-source-catch-the-full-story-3bfn)
 - [GitOps Fundamentals: Why Your CI/CD Needs a Single Source of Truth](https://dev.to/anusha_kuppili/gitops-fundamentals-why-your-cicd-needs-a-single-source-of-truth-4o1m)
 - [Introducing Cloud Rover. Turn Cloudflare Workers into Fully Functional Backends.](https://dev.to/shazin/introducing-cloud-rover-turn-cloudflare-workers-into-fully-functional-backends-f9j)
-- [Day 04 - Understanding the Terraform state file and Remote backend](https://dev.to/andylovecloud/day-04-understanding-the-terraform-state-file-and-remote-backend-3h0h)
-- [🔑 Unlock Rust&#39;s Power: Demystifying Ownership.](https://dev.to/meeth_gangwar_f56b17f5aff/unlock-rusts-power-demystifying-ownership-dp3)
-- [I Built the Linux of Agent Protocols: Why MXP is 37x Faster Than JSON](https://dev.to/ferasawadi/i-built-the-linux-of-agent-protocols-why-mxp-is-37x-faster-than-json-2l54)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
