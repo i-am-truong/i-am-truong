@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Dynamics 365 for Sales: The Best CRM for Modern Businesses in 2026](https://dev.to/factsaboutb2bblogs/dynamics-365-for-sales-the-best-crm-for-modern-businesses-in-2026-32bc)
 - [Building a Strike System: How I Prevent AI Feature Abuse in My News App](https://dev.to/padma9647/building-a-strike-system-how-i-prevent-ai-feature-abuse-in-my-news-app-36am)
 - [Personal Health Agent &lpar;PHA&rpar;: Multi-Agent Health System](https://dev.to/mitanshgor/personal-health-agent-pha-multi-agent-health-system-1i6l)
 - [PHIA: The Agentic LLM That Writes Code, Analyzes Your Data &amp; Explains Health Insights](https://dev.to/mitanshgor/phia-the-agentic-llm-that-writes-code-analyzes-your-data-explains-health-insights-4g1a)
 - [PH-LLM - A LLM that gives personalized sleep and fitness coaching using wearable data.](https://dev.to/mitanshgor/ph-llm-a-llm-that-gives-personalized-sleep-and-fitness-coaching-using-wearable-data-2m7f)
-- [AI for Personal Health — My Review, Reflections &amp; Real-Life Understanding](https://dev.to/mitanshgor/ai-for-personal-health-my-review-reflections-real-life-understanding-12kh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
