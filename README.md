@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Ensuring Message Order in Distributed Systems: Addressing Pub/Sub Ordering Key Limitations with Subscriber-side Sorting](https://dev.to/einfochips/ensuring-message-order-in-distributed-systems-addressing-pubsub-ordering-key-limitations-with-5f0o)
-- [4. PYTHON ESSENTIALS FOR AI/ML &lpar;Advanced OOP&rpar;](https://dev.to/m_t_ramkrushna/4-python-essentials-for-aiml-advanced-oop-dg1)
-- [5. PYTHON ESSENTIALS FOR AI/ML &lpar;List &amp; Dictionary Comprehensions&rpar;](https://dev.to/m_t_ramkrushna/5-python-essentials-for-aiml-list-dictionary-comprehensions-2fi5)
-- [Ethereum&#39;s Interop Layer &lpar;EIL&rpar;, Sequence&#39;s Unified Payments, Eth Updated Roadmap at Devconnect, EIP-7702 Infra Integration](https://dev.to/etherspot/ethereums-interop-layer-eil-sequences-unified-payments-eth-updated-roadmap-at-devconnect-352k)
-- [Fashion Predictions: What Men Will Be Wearing Next Year](https://dev.to/stylesphereaa/fashion-predictions-what-men-will-be-wearing-next-year-50ga)
+- [New in Vue - November 2025](https://dev.to/aloisseckar/new-in-vue-november-2025-1l1b)
+- [5 Técnicas Para Melhorar a Performance no seu App Angular](https://dev.to/dev-araujo/5-tecnicas-para-melhorar-a-performance-no-seu-app-angular-g0e)
+- [Day F8: The Exam Everyone Failed &lpar;And Why I Don&#39;t Care&rpar;](https://dev.to/casperday11/day-f8-the-exam-everyone-failed-and-why-i-dont-care-87k)
+- [Leveling Up Your Python Logs with Structlog](https://dev.to/dash0/leveling-up-your-python-logs-with-structlog-3a5a)
+- [x402: Pay-Per-Use Internet](https://dev.to/emperorsixpacks/x402-pay-per-use-internet-4p30)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
