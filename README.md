@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How have I managed Date types in my asyncio python web scraper using PostgreSQL?](https://dev.to/brainstorm86/how-have-i-managed-date-types-in-my-asyncio-python-web-scraper-using-postgresql-2272)
-- [Is Python Dying? Should You Still Learn It in 2026?](https://dev.to/james_miller_8dc58a89cb9e/is-python-dying-should-you-still-learn-it-in-2026-5elm)
-- [Drone-ambient-noise synthesizer in Javascript: when instability is a feature, not a bug](https://dev.to/max_alyokhin/drone-ambient-noise-synthesizer-in-javascript-when-instability-is-a-feature-not-a-bug-34i8)
-- [API Monetization Made Easy: How Monetzly Empowers Developers](https://dev.to/monetzly/api-monetization-made-easy-how-monetzly-empowers-developers-7bf)
-- [Хурдтай вебийн 3 шинж](https://dev.to/bizocci/khurdtai-viebiin-3-shinzh-4ofk)
+- [El sustituto de JSON](https://dev.to/baltasarq/el-sustituto-de-json-5a4d)
+- [# 📌 Amazon Machine Image &lpar;AMI&rpar; - Complete Step-by-Step Guide](https://dev.to/sudarshan_yadav/-amazon-machine-image-ami-complete-step-by-step-guide-1laa)
+- [A Comprehensive Guide to Speeding Up Your AI Agent Development Lifecycle](https://dev.to/kamya_shah_e69d5dd78f831c/a-comprehensive-guide-to-speeding-up-your-ai-agent-development-lifecycle-dgg)
+- [How to Create Killer Content: The Right Equipment for the Job](https://dev.to/title-productions/how-to-create-killer-content-the-right-equipment-for-the-job-19a1)
+- [Good Git Hygiene Practices](https://dev.to/pauljlucas/good-git-hygiene-practices-2fnl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
