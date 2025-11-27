@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [## ⏳ From Dot-Com Bubble to Digital Hype: Learning from the Past](https://dev.to/jeandevbr/-from-dot-com-bubble-to-digital-hype-learning-from-the-past-2k1i)
-- [10 Frustrating API Errors &amp; What They Actually Mean](https://dev.to/sky98/10-frustrating-api-errors-what-they-actually-mean-3igg)
-- [🤖🤖How to run AI in parallel easily and for free &lpar;Git Worktree Runner&rpar;🧠🧠](https://dev.to/webdeveloperhyper/how-to-run-ai-in-parallel-easily-and-for-free-git-worktree-runner-80o)
-- [API team alignment issues - this article nailed our exact problem](https://dev.to/atishh_amte/api-team-alignment-issues-this-article-nailed-our-exact-problem-1l5n)
-- [Что нового в Rust 1.92 beta: LLVM 20 и послабление E0719](https://dev.to/laruh/chto-novogho-v-rust-192-beta-llvm-20-i-poslablieniie-e0719-3639)
+- [Ensuring Message Order in Distributed Systems: Addressing Pub/Sub Ordering Key Limitations with Subscriber-side Sorting](https://dev.to/einfochips/ensuring-message-order-in-distributed-systems-addressing-pubsub-ordering-key-limitations-with-5f0o)
+- [4. PYTHON ESSENTIALS FOR AI/ML &lpar;Advanced OOP&rpar;](https://dev.to/m_t_ramkrushna/4-python-essentials-for-aiml-advanced-oop-dg1)
+- [5. PYTHON ESSENTIALS FOR AI/ML &lpar;List &amp; Dictionary Comprehensions&rpar;](https://dev.to/m_t_ramkrushna/5-python-essentials-for-aiml-list-dictionary-comprehensions-2fi5)
+- [Ethereum&#39;s Interop Layer &lpar;EIL&rpar;, Sequence&#39;s Unified Payments, Eth Updated Roadmap at Devconnect, EIP-7702 Infra Integration](https://dev.to/etherspot/ethereums-interop-layer-eil-sequences-unified-payments-eth-updated-roadmap-at-devconnect-352k)
+- [Fashion Predictions: What Men Will Be Wearing Next Year](https://dev.to/stylesphereaa/fashion-predictions-what-men-will-be-wearing-next-year-50ga)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
