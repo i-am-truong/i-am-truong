@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GitOps Fundamentals: Why Your CI/CD Needs a Single Source of Truth](https://dev.to/anusha_kuppili/gitops-fundamentals-why-your-cicd-needs-a-single-source-of-truth-4o1m)
+- [Introducing Cloud Rover. Turn Cloudflare Workers into Fully Functional Backends.](https://dev.to/shazin/introducing-cloud-rover-turn-cloudflare-workers-into-fully-functional-backends-f9j)
+- [Day 04 - Understanding the Terraform state file and Remote backend](https://dev.to/andylovecloud/day-04-understanding-the-terraform-state-file-and-remote-backend-3h0h)
+- [🔑 Unlock Rust&#39;s Power: Demystifying Ownership.](https://dev.to/meeth_gangwar_f56b17f5aff/unlock-rusts-power-demystifying-ownership-dp3)
 - [I Built the Linux of Agent Protocols: Why MXP is 37x Faster Than JSON](https://dev.to/ferasawadi/i-built-the-linux-of-agent-protocols-why-mxp-is-37x-faster-than-json-2l54)
-- [🚀My First Portfolio Deployment with Nginx on Killercoda: A Step-by-Step DevOps Walkthrough](https://dev.to/alphajosh/my-first-portfolio-deployment-with-nginx-on-killercoda-a-step-by-step-devops-walkthrough-2p0l)
-- [ActiveFields: Search](https://dev.to/exterminate/activefields-search-35ad)
-- [30 days without AI: what I learned when I finally used my brain again](https://dev.to/dev_tips/30-days-without-ai-what-i-learned-when-i-finally-used-my-brain-again-198m)
-- [Modern Web Design Styles Every Frontend Developer Must Know &lpar;2025 Guide&rpar; Part 2](https://dev.to/homayounmmdy/modern-web-design-styles-every-frontend-developer-must-know-2025-guide-part-2-131d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
