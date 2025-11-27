@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Built the Linux of Agent Protocols: Why MXP is 37x Faster Than JSON](https://dev.to/ferasawadi/i-built-the-linux-of-agent-protocols-why-mxp-is-37x-faster-than-json-2l54)
+- [🚀My First Portfolio Deployment with Nginx on Killercoda: A Step-by-Step DevOps Walkthrough](https://dev.to/alphajosh/my-first-portfolio-deployment-with-nginx-on-killercoda-a-step-by-step-devops-walkthrough-2p0l)
 - [ActiveFields: Search](https://dev.to/exterminate/activefields-search-35ad)
 - [30 days without AI: what I learned when I finally used my brain again](https://dev.to/dev_tips/30-days-without-ai-what-i-learned-when-i-finally-used-my-brain-again-198m)
 - [Modern Web Design Styles Every Frontend Developer Must Know &lpar;2025 Guide&rpar; Part 2](https://dev.to/homayounmmdy/modern-web-design-styles-every-frontend-developer-must-know-2025-guide-part-2-131d)
-- [The Modern Web Stack Explained](https://dev.to/saquib_pervez_0a13e54c649/the-modern-web-stack-explained-18gd)
-- [The Dockerfile mistakes even senior devs make &lpar;and yes, I learned them the the hard way&rpar;](https://dev.to/dev_tips/the-dockerfile-mistakes-even-senior-devs-make-and-yes-i-learned-them-the-the-hard-way-25gn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
