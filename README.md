@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop Malware at the Door: Automated S3 File Scanning with AWS GuardDuty](https://dev.to/aws-builders/stop-malware-at-the-door-automated-s3-file-scanning-with-aws-guardduty-1c1g)
-- [Drawing and Writing in MonoGame](https://dev.to/david_caplette/drawing-and-writing-in-monogame-10m9)
-- [Roofing Painting: Enhancing Protection and Curb Appeal](https://dev.to/markwayns/roofing-painting-enhancing-protection-and-curb-appeal-m3n)
-- [Why I built a &quot;Bring Your Own Key&quot; SaaS Engine on WordPress &lpar;100% Margins&rpar;](https://dev.to/blyxxa/why-i-built-a-bring-your-own-key-saas-engine-on-wordpress-100-margins-5c3)
-- [💣 HQ9+ — The Language That Only Runs 4 Commands and Still Counts as a Language](https://dev.to/viz-x/hq9-the-language-that-only-runs-4-commands-and-still-counts-as-a-language-5hm8)
+- [Automate Open Graph Image Generation for Your Blog Posts](https://dev.to/amna_anjum_2f911c0a1a4640/automate-open-graph-image-generation-for-your-blog-posts-351)
+- [gRPC, Dependency Injection with Uber Fx, and Hexagonal Architecture in Go](https://dev.to/tylerasa/grpc-dependency-injection-with-uber-fx-and-hexagonal-architecture-in-go-3p0l)
+- [Ringer Movies: ‘Two for the Money’ With Bill Simmons, Chris Ryan, and Cousin Sal | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-two-for-the-money-with-bill-simmons-chris-ryan-and-cousin-sal-the-rewatchables-11nd)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-1j0a)
+- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-iio)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
