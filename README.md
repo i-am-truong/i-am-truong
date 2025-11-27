@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Timepicker-UI v4.0.0 - Five Years of Learning, One Major Rewrite](https://dev.to/pglejzer/timepicker-ui-v400-five-years-of-learning-one-major-rewrite-1j6a)
+- [What Is xAI Grok &lpar;1–4&rpar; — And How Could Grok 5 Reshape the AI Model Landscape?](https://dev.to/emilyfoster/what-is-xai-grok-1-4-and-how-could-grok-5-reshape-the-ai-model-landscape-1l2a)
 - [Testing PlagiatKontroll Against Modern LLM Texts: Hur bra står verktyget sig i AI-eran?](https://dev.to/alexandra_campbell_1d0518/testing-plagiatkontroll-against-modern-llm-texts-hur-bra-star-verktyget-sig-i-ai-eran-b5j)
 - [Configure continuous integration by using Azure Pipelines](https://dev.to/lotanna_obianefo/configure-continuous-integration-by-using-azure-pipelines-16i2)
-- [Minimal Linux x86_64 Syscall Samples &lpar;pure assembly, no libc&rpar;](https://dev.to/nguyn_nhtmlp11a13/minimal-linux-x8664-syscall-samples-pure-assembly-no-libc-1clg)
-- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-8bc)
-- [[Boost]](https://dev.to/anthonymax/-ep4)
+- [How I host Nuxt apps on a $5 VPS with &quot;Vercel-like&quot; DX](https://dev.to/benharris2510/how-i-host-nuxt-apps-on-a-5-vps-with-vercel-like-dx-5dg4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
