@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hacking System Design Interviews with an AI Tutor](https://dev.to/elbanic/hacking-system-design-interviews-with-an-ai-tutor-1jnj)
-- [Designing High-Performance Fintech SaaS with Redis and CDNs](https://dev.to/ertnbrk/designing-high-performance-fintech-saas-with-redis-and-cdns-120g)
-- [GA4 Custom Segments That Actually Matter: 7 Configurations Most Marketers Overlook](https://dev.to/synergistdigitalmedia/ga4-custom-segments-that-actually-matter-7-configurations-most-marketers-overlook-184j)
-- [Moving from Process to Subprocess](https://dev.to/trozware/moving-from-process-to-subprocess-4408)
-- [How Grok Works Under the Hood: Inside xAI’s Infrastructure and Training Logic](https://dev.to/davidevans/how-grok-works-under-the-hood-inside-xais-infrastructure-and-training-logic-45ag)
+- [Building a Tactical Puzzle Game: Lessons Learned from Developing Barbarian Grid](https://dev.to/ffteamnames/building-a-tactical-puzzle-game-lessons-learned-from-developing-barbarian-grid-80k)
+- [Weekly update #19](https://dev.to/abytebybyte/weekly-update-19-23dk)
+- [Secrets Management for Platforms: AWS Secrets Manager vs Parameter Store](https://dev.to/aws-builders/secrets-management-for-platforms-aws-secrets-manager-vs-parameter-store-5db5)
+- [I built a free PDF converter tool - here&#39;s what I learned](https://dev.to/mujahid_hussainlashari_d/i-built-a-free-pdf-converter-tool-heres-what-i-learned-3g0h)
+- [I Built an MCP Server That Publishes Blogs Automatically &lpar;Phase 1 Complete — Much More Coming Soon&rpar;](https://dev.to/bamacharan/i-built-an-mcp-server-that-publishes-blogs-automatically-phase-1-complete-much-more-coming-soon-49ke)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
