@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ringer Movies: ‘Two for the Money’ With Bill Simmons, Chris Ryan, and Cousin Sal | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-two-for-the-money-with-bill-simmons-chris-ryan-and-cousin-sal-the-rewatchables-3j58)
+- [Google Doesn&#39;t Trust Your Site? My Real EEAT Story From 2025](https://dev.to/h24d7/google-doesnt-trust-your-site-my-real-eeat-story-from-2025-3l9b)
 - [AWS Explained in Simple Plain English](https://dev.to/dulmika_semal_90fb5094b87/aws-expalined-in-simple-plain-english-5h0m)
+- [Biometrics + WaaS: The Future of Crypto Wallet Security](https://dev.to/kubo_sk/biometrics-waas-the-future-of-crypto-wallet-security-328p)
 - [Custom Cursor AI IDE Rule](https://dev.to/junaaid96/custom-cursor-rule-438j)
-- [Why &quot;this&quot; Betrays You &amp; How call/apply/bind Save Your Life – The Complete Story](https://dev.to/usman_awan/why-this-betrays-you-how-callapplybind-save-your-life-the-complete-story-4pnf)
-- [Building Secure by Design: Architecture for Zero-Trust and Always-On Protection](https://dev.to/jyothsna_devi_a41eee1ca3f/building-secure-by-design-architecture-for-zero-trust-and-always-on-protection-43d0)
-- [Building a simulator using AI for children to learn](https://dev.to/joe_boukhalil_a638efd870/building-a-simulator-using-ai-for-children-to-learn-40op)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
