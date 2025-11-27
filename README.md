@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How SafeLine WAF Transformed Our Web Security: A Real User Case Study](https://dev.to/arina_cholee/how-safeline-waf-transformed-our-web-security-a-real-user-case-study-1m0l)
-- [The New Digital-First Shift: AI Makes Development Easy, Marketing Becomes the Hard Part](https://dev.to/mzelensky/the-new-digital-first-shift-ai-makes-development-easy-marketing-becomes-the-hard-part-500d)
-- [What is Web Scraping and What is it Used For?](https://dev.to/scrapestorm/what-is-web-scraping-and-what-is-it-used-for-1dfl)
-- [WTF is Remote Patient Monitoring?](https://dev.to/dailybugle33/wtf-is-remote-patient-monitoring-2g37)
-- [Announcing LightningChart JS Trader v4.0](https://dev.to/omar_lightningchart/announcing-lightningchart-js-trader-v40-1ch2)
+- [🧱 Lesson 9A - Login and Authentication &lpar;Angular&rpar;](https://dev.to/farrukh_rehman/lesson-9a-login-and-authentication-angular-549m)
+- [Building an Air-gapped Hardened Kubernetes Cluster with Kubespray](https://dev.to/alisoltani255/building-an-air-gapped-hardened-kubernetes-cluster-with-kubespray-4405)
+- [MaterialM Free VueJS Vuetify Admin Dashboard Template - by WrapPixel](https://dev.to/vaibhavg/materialm-free-vuejs-vuetify-admin-dashboard-template-by-wrappixel-37n4)
+- [Programming languages are like girl , they are very difficult to understand.](https://dev.to/sudit_patel_89b4731b2259a/programming-languages-are-like-girl-they-are-very-difficult-to-understand-3a90)
+- [I’m Building RankStreak — A Free Web Tools Platform &lpar;Would Love Feedback!&rpar;](https://dev.to/mihad_meraj_c9d6ab3d3bbf4/im-building-rankstreak-a-free-web-tools-platform-would-love-feedback-27a7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
