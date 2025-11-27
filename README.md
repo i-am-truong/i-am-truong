@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Level Up Your SQL Skills: 8 Interactive Games That Make Learning Fun](https://dev.to/nldr/level-up-your-sql-skills-8-interactive-games-that-make-learning-fun-3omd)
+- [How to provision and S3 storage with Terraform: Plan, check, Apply, approve](https://dev.to/ekefan/how-to-provision-and-s3-storage-with-terraform-plan-check-apply-approve-m5)
 - [The 2025 Humanizer Era: SafeNew AI and the Future of Human-Centric Writing](https://dev.to/safenewai/the-2025-humanizer-era-safenew-ai-and-the-future-of-human-centric-writing-eib)
-- [HOW TO BECOME AN INTELLIGENT MAN.](https://dev.to/arunabraham9947/how-to-become-an-intelligent-man-bpd)
-- [Actionable Soil Health: Scaling Decisions to African Smallholders with Earth Engine Cloud](https://dev.to/nicmsn2/actionable-soil-health-scaling-decisions-to-african-smallholders-with-earth-engine-cloud-4322)
-- [Engineering Adaptive Soundscapes: A Technical Guide to Generative Audio in Development](https://dev.to/ngoc_dungtran_fe97805363/engineering-adaptive-soundscapes-a-technical-guide-to-generative-audio-in-development-oj1)
-- [&quot;Soft Skills Are Actually the Hard Skills&quot;: Why Developer Growth Is More Difficult Than Technical Mastery](https://dev.to/tlorent/soft-skills-are-actually-the-hard-skills-why-developer-growth-is-more-difficult-than-technical-4527)
+- [What can Agentic AI do that Traditional Automation cannot?](https://dev.to/aziro_tech_8cf3f347e4e95b/what-can-agentic-ai-do-that-traditional-automation-cannot-2fl0)
+- [Quartz](https://dev.to/ulysses_simmons_26c2529c0/quartz-29ni)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
