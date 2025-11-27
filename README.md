@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The 3Rs of Output Incentives: Role, Reward, Regard](https://dev.to/stakiran/the-3rs-of-output-incentives-role-reward-regard-418m)
+- [jour 2 pour créer un os](https://dev.to/eau2lavi/jour-2-pour-creer-un-os-544c)
+- [**Riesgos de lavado de dinero en México:**](https://dev.to/drcarlosruizviquez/riesgos-de-lavado-de-dinero-en-mexico-12o2)
+- [I Built a Real-Time HackerNews Search Engine with 50 Lines of Python &lpar;No Airflow, No Kafka&rpar;](https://dev.to/badmonster0/i-built-a-real-time-hackernews-search-engine-with-50-lines-of-python-no-airflow-no-kafka-b9)
 - [Automate Open Graph Image Generation for Your Blog Posts](https://dev.to/amna_anjum_2f911c0a1a4640/automate-open-graph-image-generation-for-your-blog-posts-351)
-- [gRPC, Dependency Injection with Uber Fx, and Hexagonal Architecture in Go](https://dev.to/tylerasa/grpc-dependency-injection-with-uber-fx-and-hexagonal-architecture-in-go-3p0l)
-- [Ringer Movies: ‘Two for the Money’ With Bill Simmons, Chris Ryan, and Cousin Sal | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-two-for-the-money-with-bill-simmons-chris-ryan-and-cousin-sal-the-rewatchables-11nd)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-1j0a)
-- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-iio)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
