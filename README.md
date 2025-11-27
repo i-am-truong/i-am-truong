@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🧪 05AB1E — Tiny Language, Big Chaos](https://dev.to/viz-x/05ab1e-tiny-language-big-chaos-3mma)
-- [Nano-Banana Pro: Prompting Guide &amp; Strategies](https://dev.to/googleai/nano-banana-pro-prompting-guide-strategies-1h9n)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-4oho)
-- [CinemaSins: Everything Wrong With Mission: Impossible - The Final Reckoning In 27 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-mission-impossible-the-final-reckoning-in-27-minutes-or-less-36aj)
-- [Mr Sunday Movies: John Carter - Caravan Of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-john-carter-caravan-of-garbage-4k1e)
+- [Day 4/30: The Heart of Terraform – State Files &amp; Remote Backends 🧠🗄️](https://dev.to/gokulprasath_n_42438fd633/day-430-the-heart-of-terraform-state-files-remote-backends-345)
+- [🧩 Brainfuck — The 8-Command Language Built to Hurt Programmers](https://dev.to/viz-x/brainfuck-the-8-command-language-built-to-hurt-programmers-31pe)
+- [Why Studying the Turing Machine Changed How I See AI And Why Every New AI Engineer Should Revisit It](https://dev.to/maulik_sompura_22/why-studying-the-turing-machine-changed-how-i-see-ai-and-why-every-new-ai-engineer-should-revisit-it-43hp)
+- [🧿 Hexagony — Programming Inside a Hexagon for No Logical Reason](https://dev.to/viz-x/hexagony-programming-inside-a-hexagon-for-no-logical-reason-3e8f)
+- [How can you find experts to build a new financial technology product?](https://dev.to/it-influencer/how-can-you-find-experts-to-build-a-new-financial-technology-product-4ded)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
