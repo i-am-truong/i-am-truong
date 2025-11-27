@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ActiveFields: Search](https://dev.to/exterminate/activefields-search-35ad)
+- [30 days without AI: what I learned when I finally used my brain again](https://dev.to/dev_tips/30-days-without-ai-what-i-learned-when-i-finally-used-my-brain-again-198m)
+- [Modern Web Design Styles Every Frontend Developer Must Know &lpar;2025 Guide&rpar; Part 2](https://dev.to/homayounmmdy/modern-web-design-styles-every-frontend-developer-must-know-2025-guide-part-2-131d)
 - [The Modern Web Stack Explained](https://dev.to/saquib_pervez_0a13e54c649/the-modern-web-stack-explained-18gd)
 - [The Dockerfile mistakes even senior devs make &lpar;and yes, I learned them the the hard way&rpar;](https://dev.to/dev_tips/the-dockerfile-mistakes-even-senior-devs-make-and-yes-i-learned-them-the-the-hard-way-25gn)
-- [Qeltrix V4: The AES256-GCM Evolution and Breaking Changes](https://dev.to/hejhdiss/qeltrix-v4-the-aes256-gcm-evolution-and-breaking-changes-5b19)
-- [Stop Overcomplicating RAG: Why I Built a &quot;Memory Server&quot; on Postgres &lpar;and Open Sourced It&rpar;](https://dev.to/jakob_sandstrm_a11b3056c/stop-overcomplicating-rag-why-i-built-a-memory-server-on-postgres-and-open-sourced-it-2p5n)
-- [Full Guide on Choosing Salesforce Partners in Sweden](https://dev.to/mykhailoradchenko/full-guide-on-choosing-salesforce-partners-in-sweden-4768)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
