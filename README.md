@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Modernizing Telecom Security ML Powered Approach](https://dev.to/elianalamhost/modernizing-telecom-security-ml-powered-approach-43nj)
+- [Advanced CSS Animations and Keyframes: Taking Web Interactions to the Next Level](https://dev.to/sharique_siddiqui_8242dad/advanced-css-animations-and-keyframes-taking-web-interactions-to-the-next-level-d6j)
+- [🎙️ “The Day My Voice Took Control: Why Voice User Interfaces Are the Future of Digital Experiences”](https://dev.to/okoye_ndidiamaka_5e3b7d30/the-day-my-voice-took-control-why-voice-user-interfaces-are-the-future-of-digital-experiences-16pf)
 - [[MyNextHome] Simple Data Model + Sync Flow](https://dev.to/cathylai/mynexthome-simple-data-model-sync-flow-v01-4b8f)
-- [I Built a Browser-Based HEIC PDF/PNG Converter: How It Works &lpar;and Why Office Workers Might Love It&rpar;](https://dev.to/_7bdcbcaa99fbf1c9ea608c/i-built-a-browser-based-heic-pdfpng-converter-how-it-works-and-why-office-workers-might-love-it-70h)
-- [How Blockchain Development Services Are Powering the Next Wave of Enterprise Innovation | Oodles](https://dev.to/oodlesplatform/how-blockchain-development-services-are-powering-the-next-wave-of-enterprise-innovation-oodles-24hd)
-- [Rethinking GenAI Agent: RAG &amp; MCP](https://dev.to/elianalamhost/rethinking-genai-agent-rag-mcp-12dp)
-- [Disaster and Emergency Response with TAK and AWS](https://dev.to/elianalamhost/disaster-and-emergency-response-with-tak-and-aws-18mc)
+- [Secrets Management in Production](https://dev.to/godofgeeks/secrets-management-in-production-efj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
