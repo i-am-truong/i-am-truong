@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘Two for the Money’ With Bill Simmons, Chris Ryan, and Cousin Sal | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-two-for-the-money-with-bill-simmons-chris-ryan-and-cousin-sal-the-rewatchables-3j58)
-- [Google Doesn&#39;t Trust Your Site? My Real EEAT Story From 2025](https://dev.to/h24d7/google-doesnt-trust-your-site-my-real-eeat-story-from-2025-3l9b)
-- [AWS Explained in Simple Plain English](https://dev.to/dulmika_semal_90fb5094b87/aws-expalined-in-simple-plain-english-5h0m)
-- [Biometrics + WaaS: The Future of Crypto Wallet Security](https://dev.to/kubo_sk/biometrics-waas-the-future-of-crypto-wallet-security-328p)
-- [Custom Cursor AI IDE Rule](https://dev.to/junaaid96/custom-cursor-rule-438j)
+- [Actionable Soil Health: Scaling Decisions to African Smallholders with Earth Engine Cloud](https://dev.to/nicmsn2/actionable-soil-health-scaling-decisions-to-african-smallholders-with-earth-engine-cloud-4322)
+- [Engineering Adaptive Soundscapes: A Technical Guide to Generative Audio in Development](https://dev.to/ngoc_dungtran_fe97805363/engineering-adaptive-soundscapes-a-technical-guide-to-generative-audio-in-development-oj1)
+- [&quot;Soft Skills Are Actually the Hard Skills&quot;: Why Developer Growth Is More Difficult Than Technical Mastery](https://dev.to/tlorent/soft-skills-are-actually-the-hard-skills-why-developer-growth-is-more-difficult-than-technical-4527)
+- [Launched Ultracite on Product Hunt twice. Here&#39;s what I learned.](https://dev.to/fmerian/launched-ultracite-on-product-hunt-twice-heres-what-i-learned-e10)
+- [CKS Notes - Image Security](https://dev.to/cheedge_lee/cks-notes-image-security-29k6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
