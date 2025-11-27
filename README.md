@@ -120,11 +120,13 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Resilient Cloud Infrastructure with Terraform and Azure](https://dev.to/divinetheanalyst/building-resilient-cloud-infrastructure-with-terraform-and-azure-4637)
-- [Introduction](https://dev.to/palakhirave/introduction-448c)
-- [🚀 File Descriptors in Linux — The Underrated Heroes of I/O](https://dev.to/ayoub_lahmami/file-descriptors-in-linux-the-underrated-heroes-of-io-5e0m)
-- [MySQL Safe Update Mode](https://dev.to/seongbae/mysql-safe-update-mode-2eel)
-- [Transitioning from Python Basics to Building Real Projects &lpar;New Phase!&rpar;](https://dev.to/ian_b838138a27a917398d181/transitioning-from-python-basics-to-building-real-projects-new-phase-5eae)
+- [# Impostor Syndrome in Tech: Why You Might Feel Like a Fraud — and How to Move Forward](https://dev.to/andersoncontreira/-impostor-syndrome-in-tech-why-you-might-feel-like-a-fraud-and-how-to-move-forward-11ge)
+- [We&#39;re living in a strange moment in tech history. 
+
+Just a few years ago, adding “AI-powered” to your product was a competitive advantage. Today, it’s the bare minimum.](https://dev.to/jaideepparashar/were-living-in-a-strange-moment-in-tech-history-just-a-few-years-ago-adding-ai-powered-to-4co2)
+- [When Every App Uses AI, What Makes Yours Different?](https://dev.to/jaideepparashar/when-every-app-uses-ai-what-makes-yours-different-48bb)
+- [The Architectures of Agency](https://dev.to/webmethodman/the-architectures-of-agency-2405)
+- [Kanpeki: Accessible React Components Built on React Aria](https://dev.to/jqueryscript/kanpeki-accessible-react-components-built-on-react-aria-464c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
