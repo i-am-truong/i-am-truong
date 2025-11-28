@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Finding Strength in Code, Part 2: Lessons from Loss and the Power of Reflection](https://dev.to/smmd/finding-strength-in-code-part-2-lessons-from-loss-and-the-power-of-reflection-2fb2)
-- [Introducing 8-bitHero Labs: Building Neurodivergent-Optimized AI](https://dev.to/orion_burnette_2b0c416aea/introducing-8-bithero-labs-building-neurodivergent-optimized-ai-4mf8)
-- [Best AI Model 2025: Claude 4.5 vs ChatGPT 5.1 vs Gemini 3](https://dev.to/emilyfoster/best-ai-model-2025-claude-45-vs-chatgpt-51-vs-gemini-3-2amh)
-- [I built a forensic ATS scanner in 96 hours using LLMs as my backend team. Here is the stack.](https://dev.to/ryanpedram/i-built-a-forensic-ats-scanner-in-96-hours-using-llms-as-my-backend-team-here-is-the-stack-p13)
-- [What Is Claude Opus 4.5? Anthropic’s New Frontier AI](https://dev.to/isabellaking/what-is-claude-opus-45-anthropics-new-frontier-ai-3flb)
+- [Your Company Page Is Getting Ignored: LinkedIn&#39;s Quiet Algorithm Revolution](https://dev.to/synergistdigitalmedia/your-company-page-is-getting-ignored-linkedins-quiet-algorithm-revolution-4j5f)
+- [What Is Kimi K2 Thinking? How This 1T Open-Source Agent Rivals ChatGPT-5.1 &amp; Claude 4.5](https://dev.to/bencarter/what-is-kimi-k2-thinking-how-this-1t-open-source-agent-rivals-chatgpt-51-claude-45-3eaj)
+- [What Is NVIDIA Blackwell Ultra? 2025 GPU Supply Crunch Guide](https://dev.to/banelygalan/what-is-nvidia-blackwell-ultra-2025-gpu-supply-crunch-guide-22ci)
+- [Flask + SELinux: Fixing the Mysterious 502 Error on Alma Linux](https://dev.to/codewithmpia/flask-selinux-fixing-the-mysterious-502-error-on-alma-linux-3jp2)
+- [Spiderweb](https://dev.to/saraai2056lang/spiderweb-5812)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
