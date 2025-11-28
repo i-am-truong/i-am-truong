@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-1cep)
-- [Mr Sunday Movies: The Sorcerer&#39;s Apprentice - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-sorcerers-apprentice-caravan-of-garbage-3e5b)
-- [Mr Sunday Movies: John Carter - Caravan Of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-john-carter-caravan-of-garbage-3kp8)
-- [Configure Veeam Backup for Microsoft 365: A Step-by-Step Guide](https://dev.to/itcs11/configure-veeam-backup-for-microsoft-365-a-step-by-step-guide-41d7)
-- [Top Microsoft CSP Partners in Pakistan: Get More for Less](https://dev.to/itcs11/top-microsoft-csp-partners-in-pakistan-get-more-for-less-5232)
+- [Automate Text-to-PDF Conversion Using Python](https://dev.to/allen_yang_f905170c5a197b/automate-text-to-pdf-conversion-using-python-307)
+- [Rails 8.1&#39;s Job Continuations Could Save You Dollars in Server Costs](https://dev.to/raisa_kanagaraj/rails-81s-job-continuations-could-save-you-dollars-in-server-costs-122c)
+- [If You’re Learning AI, These 5 Books Are All You Need](https://dev.to/somadevtoo/if-youre-learning-ai-these-5-books-are-all-you-need-58bb)
+- [What to Know Before Buying a 35mm Film Roll](https://dev.to/orwoshop/what-to-know-before-buying-a-35mm-film-roll-175h)
+- [🌐 Deep Dive: Architecting Real-Time Video Distribution Over IP](https://dev.to/luna_streams_d7daa1139d8e/deep-dive-architecting-real-time-video-distribution-over-ip-5hkp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
