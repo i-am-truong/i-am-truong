@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I built a forensic ATS scanner in 96 hours using LLMs as my backend team. Here is the stack.](https://dev.to/ryanpedram/i-built-a-forensic-ats-scanner-in-96-hours-using-llms-as-my-backend-team-here-is-the-stack-p13)
+- [What Is Claude Opus 4.5? Anthropic’s New Frontier AI](https://dev.to/isabellaking/what-is-claude-opus-45-anthropics-new-frontier-ai-3flb)
+- [Finding Balance in Architectural Decisions](https://dev.to/andersoncontreira/finding-balance-in-architectural-decisions-1912)
 - [Best AI Model in 2025? Gemini 3 vs GPT-5.1 vs Claude 4.5](https://dev.to/sunethkawasaki7/best-ai-model-in-2025-gemini-3-vs-gpt-51-vs-claude-45-5b3j)
-- [What Is GPT-5.1-Codex-Max? OpenAI&#39;s 2025 AI Coder](https://dev.to/davidevans/what-is-gpt-51-codex-max-openais-2025-ai-coder-51pe)
-- [I Fixed My WooCommerce Store&#39;s Embarrassing Account Page &lpar;Without Writing a Single Line of Code&rpar;](https://dev.to/sarahandrew/i-fixed-my-woocommerce-stores-embarrassing-account-page-without-writing-a-single-line-of-code-53cm)
-- [What Is Google Antigravity? Google’s Gemini 3 Coding IDE](https://dev.to/chloedavis/what-is-google-antigravity-googles-gemini-3-coding-ide-3j6g)
-- [RESTful – Pílula 5 – Versionamento de APIs RESTful](https://dev.to/andersoncontreira/restful-pilula-5-versionamento-de-apis-restful-1hnk)
+- [What Is Meta SAM 3D? Single-Image 3D in 2025](https://dev.to/banelygalan/what-is-meta-sam-3d-single-image-3d-in-2025-16b7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
