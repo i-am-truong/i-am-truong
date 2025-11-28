@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-674)
-- [Pure-Go Race Detector - Race Detection Without CGO](https://dev.to/kolkov/pure-go-race-detector-race-detection-without-cgo-2i46)
-- [C++ - instalación y configuración en Ubuntu](https://dev.to/oscarpincho/c-instalacion-y-configuracion-en-ubuntu-56n3)
-- [Profile Card 2025: simple, responsive profile cards built with HTML, CSS &amp; JS](https://dev.to/codlico/profile-card-2025-simple-responsive-profile-cards-built-with-html-and-css-41a5)
-- [Nomor WA Tokopedia](https://dev.to/ayam_kampus_f44004d3e8825/nomor-wa-tokopedia-5eoa)
+- [Meet candy-logger — a simple, friendly logger for Node.js / React.js - TS / JS projects](https://dev.to/shehari007/meet-candy-logger-a-simple-friendly-logger-for-nodejs-reactjs-ts-js-projects-52kj)
+- [LAW-N Series, Part 4 — Where Theory Becomes Architecture, and Architecture Becomes Implication](https://dev.to/peacebinflow/law-n-series-part-4-where-theory-becomes-architecture-and-architecture-becomes-implication-26bo)
+- [Cloudfront Functions, WAF](https://dev.to/cyb3rcloud8888/cloudfront-functions-waf-1oak)
+- [Beyond 5G: How 6G Will Transform Intelligent Connectivity and Real-Time Computing](https://dev.to/williamparker/beyond-5g-how-6g-will-transform-intelligent-connectivity-and-real-time-computing-3ihd)
+- [Scaling to 100K Users: Architecture Lessons from Building Nigeria&#39;s Social Commerce Platform](https://dev.to/onoja5/scaling-to-100k-users-architecture-lessons-from-building-nigerias-social-commerce-platform-e1l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
