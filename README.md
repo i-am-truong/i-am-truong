@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [📌 StackCats — A Stack-Based Language Where Instructions Are Expressed as Cat Behaviors](https://dev.to/viz-x/stackcats-a-stack-based-language-where-instructions-are-expressed-as-cat-behaviors-33ch)
-- [Gemini 3 Is Everywhere — So I Finally Tested It as a Developer &lpar;And Here’s What Happened&rpar;](https://dev.to/maxreed_918/gemini-3-is-everywhere-so-i-finally-tested-it-as-a-developer-and-heres-what-happened-5839)
-- [🥁 Beatnik — The Language Where Meaning Comes from Scrabble Scores](https://dev.to/viz-x/beatnik-the-language-where-meaning-comes-from-scrabble-scores-b5e)
-- [🐴 Pony — The Actor-Model Language Built for High-Safety Concurrency](https://dev.to/viz-x/pony-the-actor-model-language-built-for-high-safety-concurrency-c2a)
-- [Identity-Based Computing: A Post-Device Architecture](https://dev.to/suign/identity-based-computing-a-post-device-architecture-17o7)
+- [📌 Factor — The Stack-Based Language Built Around Words, Quotations, and Combinators](https://dev.to/viz-x/factor-the-stack-based-language-built-around-words-quotations-and-combinators-342b)
+- [Designer Wear for Women: A Celebration of Style and Craftsmanship](https://dev.to/houseofsiyaab/designer-wear-for-women-a-celebration-of-style-and-craftsmanship-2p3c)
+- [📌 Agda — The Language Where Programs and Proofs Become the Same Thing](https://dev.to/viz-x/agda-the-language-where-programs-and-proofs-become-the-same-thing-2lag)
+- [📌 Elixir &lpar;Script Mode&rpar; — The Lightweight Experimental Variant for Running Elixir Like a Scripting Language](https://dev.to/viz-x/elixir-script-mode-the-lightweight-experimental-variant-for-running-elixir-like-a-scripting-4idf)
+- [📌 Zig &lpar;Alpha Spec&rpar; — The Early Experimental Phase Before Zig Stabilized](https://dev.to/viz-x/zig-alpha-spec-the-early-experimental-phase-before-zig-stabilized-1p0o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
