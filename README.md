@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Comparing deboa and reqwest: Two Rust HTTP Clients in 2025](https://dev.to/rogrio_arajo_55dae16f0d/comparing-deboa-and-reqwest-two-rust-http-clients-in-2025-ooa)
-- [AWS open source newsletter, #216](https://dev.to/aws/aws-open-source-newsletter-216-1c9p)
-- [Fast Laravel Pages with Nginx Caching and Progressive Rendering](https://dev.to/devops-make-it-run/fast-laravel-pages-with-nginx-caching-and-progressive-rendering-9h)
-- [Regex in web server applications](https://dev.to/rimstone/regex-in-web-server-applications-3c8)
-- [How Airflow Physics Explains Dust Accumulation Indoors](https://dev.to/elena_bennett_5e746b5e3ef/how-airflow-physics-explains-dust-accumulation-indoors-45ma)
+- [The 48-Hour Button: Fighting Supabase, Google Auth, and &quot;Scope Creep&quot;](https://dev.to/not_varunkv/the-48-hour-button-fighting-supabase-google-auth-and-scope-creep-1e7n)
+- [AWS SAA to Security Clearance: My Path to Federal ISSO Roles](https://dev.to/joshuamichaelhall/aws-saa-to-security-clearance-my-path-to-federal-isso-roles-2i57)
+- [Stop Installing 42 Plugins: How I Build Lean, Fast WordPress Sites Without the Bloat](https://dev.to/paullyd_ca/stop-installing-42-plugins-how-i-build-lean-fast-wordpress-sites-without-the-bloat-2g92)
+- [CinemaSins: Everything Wrong With Mission: Impossible - The Final Reckoning In 27 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-mission-impossible-the-final-reckoning-in-27-minutes-or-less-288)
+- [Mr Sunday Movies: The Sorcerer&#39;s Apprentice - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-sorcerers-apprentice-caravan-of-garbage-1590)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
