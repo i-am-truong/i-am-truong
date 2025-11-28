@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The One MCP That Turns Antigravity Into a 500-Tool Powerhouse](https://dev.to/composiodev/the-one-mcp-that-turns-antigravity-into-a-500-tool-powerhouse-4ehe)
-- [Don&#39;t Just Guess, Measure: A Deep Dive into the Web Performance API](https://dev.to/lovestaco/dont-just-guess-measure-a-deep-dive-into-the-web-performance-api-4k2g)
-- [Introducing Appearances: A Simpler Way to Dynamically Style Mapbox Map Icons](https://dev.to/mapbox/introducing-appearances-a-simpler-way-to-dynamically-style-mapbox-map-icons-3ga7)
-- [Java copySign&lpar;&rpar; Method: Your Guide to Sign Manipulation](https://dev.to/satyam_gupta_0d1ff2152dcc/java-copysign-method-your-guide-to-sign-manipulation-1k2i)
-- [How Vibe Coding Changed my Development Workflow](https://dev.to/davidmorais/how-vibe-coding-changed-my-development-workflow-38gb)
+- [I Built a No-Backend Form Tool That Sends Submissions to WhatsApp — Here’s Why](https://dev.to/joe_seabrook_0f1e8fc0b720/i-built-a-no-backend-form-tool-that-sends-submissions-to-whatsapp-heres-why-5b34)
+- [How to Install &amp; Deploy Spike Vue Template](https://dev.to/wrap-pixel/how-to-install-deploy-spike-vue-template-1kce)
+- [Weekly Market Summary: Indices Hover Near Record Highs Amid Global Stability](https://dev.to/aisha_mehra_d0f134c62a79b/weekly-market-summary-indices-hover-near-record-highs-amid-global-stability-3p04)
+- [8 Simple Tips For Testing Payment Gateway Integrations](https://dev.to/flutterwaveeng/8-simple-tips-for-testing-payment-gateway-integrations-586a)
+- [Types of Manufacturing Automation: A Comprehensive Analysis of Technologies, Strategies, and Industrial Evolution](https://dev.to/itsybizz/types-of-manufacturing-automation-a-comprehensive-analysis-of-technologies-strategies-and-5aah)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
