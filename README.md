@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Automatically Generate Code Documentation from Your GitHub Repo?](https://dev.to/notadevbuthere/how-to-automatically-generate-code-documentation-from-your-github-repo-4icm)
-- [🌍 Why We Need Accessibility &lpar;a11y&rpar; — A Practical Guide for Modern Web Developers](https://dev.to/anisubhra_sarkar/why-we-need-accessibility-a11y-a-practical-guide-for-modern-web-developers-3ibn)
-- [🚀 A Complete Guide to Deploying SSL-Enabled Django in Docker With Nginx, PostgreSQL &amp; Redis](https://dev.to/bharat_solanke_8e45411fa6/a-complete-guide-to-deploying-ssl-enabled-django-in-docker-with-nginx-postgresql-redis-8el)
-- [I built a Serverless AI Job Search Agent with Next.js, FastAPI, and Google Gemini. Here is the Architecture. 🛠️](https://dev.to/kotyada_saipraneeth_7be9/i-built-a-serverless-ai-job-search-agent-with-nextjs-fastapi-and-google-gemini-here-is-the-4pl4)
-- [Architecting Advanced Routing Patterns in Symfony](https://dev.to/mattleads/architecting-advanced-routing-patterns-in-symfony-1cdp)
+- [What You Will Learn in SAP HCM Classes as a Beginner in HR](https://dev.to/ddsszx/what-you-will-learn-in-sap-hcm-classes-as-a-beginner-in-hr-3ejh)
+- [Found a 75%-off lifetime Windows fix when half our machines started expiring at 2 AM](https://dev.to/om_prakash_70e7840a925350/found-a-75-off-lifetime-windows-fix-when-half-our-machines-started-expiring-at-2-am-5ccl)
+- [GRP Make Van Build For Beginners](https://dev.to/mtrhm6087/grp-make-van-build-for-beginners-3mli)
+- [Developers: A Profession or a Toolbox? Les dérives du recrutement “homme-orchestre”](https://dev.to/digitaldev/developers-a-profession-or-a-toolboxles-derives-du-recrutement-homme-orchestre-hfi)
+- [Top React Native Wheel Pickers for Date Color Selection 2026](https://dev.to/eira-wexford/top-react-native-wheel-pickers-for-date-color-selection-2026-1oap)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
