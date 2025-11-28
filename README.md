@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building PeopleHub: An AI-Powered LinkedIn Intelligence Platform with LangGraph and Bright Data](https://dev.to/meirk-codes/building-peoplehub-an-ai-powered-linkedin-intelligence-platform-with-langgraph-and-bright-data-44na)
-- [How to Run Terraform Self-Hosted](https://dev.to/spacelift/how-to-run-terraform-self-hosted-3eoi)
-- [What GitHub Metrics Don’t Tell You — And What I Learned by Analyzing My Own History](https://dev.to/david_silvera_68a226fc605/what-github-metrics-dont-tell-you-and-what-i-learned-by-analyzing-my-own-history-1d64)
-- [4 Practical Tips That 10x’ed My Productivity with Cursor &lpar;and Helped Me Build NiceVoice&rpar;](https://dev.to/nicevoice/4-practical-tips-that-10xed-my-productivity-with-cursor-and-helped-me-build-nicevoice-25em)
-- [7 AI Tools Developers Are Using to Compress Years of Skill Growth](https://dev.to/jamespatterson25/7-ai-tools-developers-are-using-to-compress-years-of-skill-growth-4mm5)
+- [Understanding the Brighter Pipeline](https://dev.to/actor-dev/understanding-the-brighter-pipeline-4m4b)
+- [The Complete Guide to AWS Lambda Aliases, Versions, and Canary Deployments &lpar;With CDK Examples&rpar;](https://dev.to/mate32/the-complete-guide-to-aws-lambda-aliases-versions-and-canary-deployments-with-cdk-examples-31fg)
+- [ERC 8004 and Trustless AI Agents](https://dev.to/rollingindo/erc-8004-and-trustless-ai-agents-40hb)
+- [[JCAIGC]Get image entrance/exit animation list](https://dev.to/hommy/jcaigcget-image-entranceexit-animation-list-nmk)
+- [How to install Gambas in Raspberry Pi?](https://dev.to/carolineee/how-to-install-gambas-in-raspberry-pi-356d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
