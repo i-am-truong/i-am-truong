@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Rethinking My Deep-Research Agent Workflow — Should We Move Beyond Static Trees?](https://dev.to/alcholiclg/rethinking-my-deep-research-agent-workflow-should-we-move-beyond-static-trees-2eac)
+- [Future of Renewables: Innovation in Energy Transition](https://dev.to/victor-lang/future-of-renewables-innovation-in-energy-transition-316i)
+- [Your e2e tests sox because you don&#39;t Playwright](https://dev.to/spo0q/your-e2e-tests-sox-because-you-dont-playwright-3ih3)
+- [Terraform Variables in AWS – Input vs Output vs Local Variables](https://dev.to/adarsh_gupta_c5fecf658fd7/terraform-variables-in-aws-input-vs-output-vs-local-variables-3lm6)
 - [Transforming Code into AI Power: Creating a watsonx Orchestrate Tool in Python](https://dev.to/aairom/transforming-code-into-ai-power-creating-a-watsonx-orchestrate-tool-in-python-321f)
-- [🚀 How I Used AI, FRDs, Claude Sonnet, Windsurf, and Antigravity to Orchestrate a Complete Backend Without Chaos](https://dev.to/jorge6242/how-i-used-ai-frds-claude-sonnet-windsurf-and-antigravity-to-orchestrate-a-complete-backend-1jml)
-- [Building Spectre: The Media Player That Haunts You Back 👻🎭](https://dev.to/vidit_jain/building-spectre-the-media-player-that-haunts-you-back-hco)
-- [10 Common .NET Logging Mistakes and How to Avoid Them for Maintainable Apps](https://dev.to/mashrulhaque/10-common-net-logging-mistakes-and-how-to-avoid-them-for-maintainable-apps-33i9)
-- [Agentic AI: The Shift Developers Didn’t Realise They Needed](https://dev.to/nikhilsoni12/agentic-ai-the-shift-developers-didnt-realise-they-needed-85b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
