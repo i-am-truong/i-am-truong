@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My fun christmas project for this year](https://dev.to/bzddbz/my-fun-christmas-project-for-this-year-3j03)
-- [A Deep Dive into `ararog/uget`: The Modern Command-Line HTTP Client](https://dev.to/rogrio_arajo_55dae16f0d/a-deep-dive-into-araroguget-the-modern-command-line-http-client-3ea7)
-- [The 48-Hour Button: Fighting Supabase, Google Auth, and &quot;Scope Creep&quot;](https://dev.to/not_varunkv/the-48-hour-button-fighting-supabase-google-auth-and-scope-creep-1e7n)
-- [AWS SAA to Security Clearance: My Path to Federal ISSO Roles](https://dev.to/joshuamichaelhall/aws-saa-to-security-clearance-my-path-to-federal-isso-roles-2i57)
-- [Stop Installing 42 Plugins: How I Build Lean, Fast WordPress Sites Without the Bloat](https://dev.to/paullyd_ca/stop-installing-42-plugins-how-i-build-lean-fast-wordpress-sites-without-the-bloat-2g92)
+- [Android Storage Complete Guide: Internal Storage vs External Storage &lpar;Part 1&rpar;](https://dev.to/yousrasd/android-storage-complete-guide-internal-storage-vs-external-storage-part-1-40kg)
+- [You SHOULD derive your state in React](https://dev.to/marcin_codes/you-should-derive-your-state-in-react-1fbl)
+- [Unknown Unknowns &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/unknown-unknowns-bite-size-article-37j)
+- [Stop fighting your build tools. Meet AtomAttr.](https://dev.to/devadetayo/stop-fighting-your-build-tools-meet-atomattr-4bko)
+- [filter6](https://dev.to/query_filter_591122b53770/filter6-4dmi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
