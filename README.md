@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Vue tricks: smart layouts for VueJS](https://dev.to/nickpe/vue-tricks-smart-layouts-for-vuejs-8d5)
-- [get my first 1$, to prove me it&#39;s possible. I&#39;am junior front end developer from Mali in west africa.](https://dev.to/m2aml/get-my-first-1-to-prove-me-its-possible-iam-junior-front-end-developer-from-mali-in-west-1041)
-- [useState in React Hook](https://dev.to/bharath_11/usestate-in-react-hook-43bd)
-- [Ringer Movies: The Robert Redford Hall of Fame](https://dev.to/popcorn_movies/ringer-movies-the-robert-redford-hall-of-fame-61k)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-1acc)
+- [The One MCP That Turns Antigravity Into a 500-Tool Powerhouse](https://dev.to/composiodev/the-one-mcp-that-turns-antigravity-into-a-500-tool-powerhouse-4ehe)
+- [Don&#39;t Just Guess, Measure: A Deep Dive into the Web Performance API](https://dev.to/lovestaco/dont-just-guess-measure-a-deep-dive-into-the-web-performance-api-4k2g)
+- [Introducing Appearances: A Simpler Way to Dynamically Style Mapbox Map Icons](https://dev.to/mapbox/introducing-appearances-a-simpler-way-to-dynamically-style-mapbox-map-icons-3ga7)
+- [Java copySign&lpar;&rpar; Method: Your Guide to Sign Manipulation](https://dev.to/satyam_gupta_0d1ff2152dcc/java-copysign-method-your-guide-to-sign-manipulation-1k2i)
+- [How Vibe Coding Changed my Development Workflow](https://dev.to/davidmorais/how-vibe-coding-changed-my-development-workflow-38gb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
