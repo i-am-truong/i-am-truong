@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Downloads Stalling? Not Anymore. Developing Retry Maniac for Chrome](https://dev.to/neeyatlotlikar/downloads-stalling-not-anymore-developing-retry-maniac-for-chrome-3lj3)
+- [PART 5 — The Rise of Network SQL &lpar;N-SQL&rpar;](https://dev.to/peacebinflow/part-5-the-rise-of-network-sql-n-sql-240b)
+- [From stealth to spotlight: How Dimension launched on Product Hunt](https://dev.to/fmerian/from-stealth-to-spotlight-how-dimension-launched-on-product-hunt-7oi)
+- [Did you knew this??](https://dev.to/_armasahar_/did-you-knew-this-2i9e)
 - [Safely Migrating Singletons to Swift 6](https://dev.to/arshtechpro/safely-migrating-singletons-to-swift-6-4nm8)
-- [Day 4 : Terraform State File and Remote Backend](https://dev.to/alafiz/day-4-terraform-state-file-and-remote-backend-2mji)
-- [Now live: U.S. Network APIs + Video API updates](https://dev.to/vonagedev/now-live-us-network-apis-video-api-updates-4fk0)
-- [Leadership, Mindset, and the Path to Self-Mastery](https://dev.to/joshua_moll_188939cfe7314/leadership-mindset-and-the-path-to-self-mastery-13c8)
-- [[Book Review]AI Engineering by Chip Huyen](https://dev.to/uponthesky/book-reviewai-engineering-by-chip-huyen-4e26)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
