@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to build a team grid section with a cta card using Tailwind CSS](https://dev.to/mike_andreuzza/how-to-build-a-team-grid-section-with-a-cta-card-using-tailwind-css-27jh)
+- [Convert Numbers to Text or Numeric Text to Numbers in Excel Using Java](https://dev.to/leondavis1991/convert-numbers-to-text-or-numeric-text-to-numbers-in-excel-using-java-580n)
+- [Fiberglass Composite Create Van Camper In Simple Steps](https://dev.to/motrhome8322/fiberglass-composite-create-van-camper-in-simple-steps-11i2)
 - [Web Design Through the Lens of UI/UX, HCI, and CX](https://dev.to/wildshark/web-design-through-the-lens-of-uiux-hci-and-cx-2d7b)
 - [I Was Tired of Manual Video Editing — So I Built OmniVid Lite](https://dev.to/porus09/i-was-tired-of-manual-video-editing-so-i-built-omnivid-lite-15i9)
-- [Why You Should Avoid Optional Properties in TypeScript Interfaces](https://dev.to/fhaponenka/why-you-should-avoid-optional-properties-in-typescript-interfaces-119g)
-- [Boost Developer Revenue with Monetzly&#39;s API Monetization](https://dev.to/monetzly/boost-developer-revenue-with-monetzlys-api-monetization-48)
-- [Beyond the C-Wire: Powering the Next Generation of Smart Thermostats](https://dev.to/iotpulsereview/beyond-the-c-wire-powering-the-next-generation-of-smart-thermostats-1fen)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
