@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Safely Migrating Singletons to Swift 6](https://dev.to/arshtechpro/safely-migrating-singletons-to-swift-6-4nm8)
 - [Day 4 : Terraform State File and Remote Backend](https://dev.to/alafiz/day-4-terraform-state-file-and-remote-backend-2mji)
 - [Now live: U.S. Network APIs + Video API updates](https://dev.to/vonagedev/now-live-us-network-apis-video-api-updates-4fk0)
 - [Leadership, Mindset, and the Path to Self-Mastery](https://dev.to/joshua_moll_188939cfe7314/leadership-mindset-and-the-path-to-self-mastery-13c8)
 - [[Book Review]AI Engineering by Chip Huyen](https://dev.to/uponthesky/book-reviewai-engineering-by-chip-huyen-4e26)
-- [When it comes to refactoring code should we Tidy First?](https://dev.to/menilek/when-it-comes-to-refactoring-code-should-we-tidy-first-5df8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
