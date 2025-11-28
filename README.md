@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [This Week In React #260: TanStack, Actions, Immer, RTK | Vercel v0, Worklets, Skia | TC39, Playwright, Bun](https://dev.to/sebastienlorber/this-week-in-react-260-tanstack-actions-immer-rtk-vercel-v0-worklets-skia-tc39-3f36)
 - [Supercomputer Coatlicue: Scientific ambition or political spectacle?](https://dev.to/vicodev/supercomputer-coatlicue-scientific-ambition-or-political-spectacle-4dif)
 - [API Security with encrypted value in endpoints](https://dev.to/terngr/api-security-with-encrypted-value-in-endpoints-186j)
 - [Cómo usar el Profiler de React para medir renders de verdad &lpar;y dejar de adivinar&rpar;](https://dev.to/hileodev/como-usar-el-profiler-de-react-para-medir-renders-de-verdad-y-dejar-de-adivinar-2o1k)
 - [Supercomputadora Coatlicue: ¿ambición científica o espectáculo político?](https://dev.to/vicodev/coatlicue-y-si-la-supercomputadora-mexicana-realmente-existiera-2bl7)
-- [🧾 Coq — A Language for Formal Proofs, Verified Logic, and Certified Software](https://dev.to/viz-x/coq-a-language-for-formal-proofs-verified-logic-and-certified-software-3pbf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
