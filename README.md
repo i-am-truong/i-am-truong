@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Free Up Your C: Drive: Move WSL2 and Docker Desktop to Another Drive](https://dev.to/raafe_asad/free-up-your-c-drive-move-wsl2-and-docker-desktop-to-another-drive-4plc)
-- [Using n8n to Automate LinkedIn Outreach &lpar;Without Getting Banned&rpar;](https://dev.to/ciphernutz/using-n8n-to-automate-linkedin-outreach-without-getting-banned-8gh)
-- [Real-Time Monitoring in MLOps: The Hidden Key to AI Reliability](https://dev.to/clarient/real-time-monitoring-in-mlops-the-hidden-key-to-ai-reliability-50lh)
-- [Fiberglass Build Camper Van DIY Guide](https://dev.to/mtrhm4068/fiberglass-build-camper-van-diy-guide-fbl)
-- [checkout this article on Hierarchical Clustering in R: Origins, Applications, Case Studies, and Complete Guide](https://dev.to/dipti26810/checkout-this-article-on-hierarchical-clustering-in-r-origins-applications-case-studies-and-315o)
+- [Databases 4 practice](https://dev.to/erlan_akbar/databases-4-practice-2a5b)
+- [What is Immutable Storage &amp; Why It Matters](https://dev.to/itcs11/what-is-immutable-storage-why-it-matters-261n)
+- [Prose Linting for Technical Teams: What Grammarly Can’t Do](https://dev.to/blessing_olaoye_b20eaba78/prose-linting-for-technical-teams-what-grammarly-cant-do-3dc9)
+- [Zero-Click SEO in 2026: Winning When Nobody Clicks Your Links](https://dev.to/synergistdigitalmedia/zero-click-seo-in-2026-winning-when-nobody-clicks-your-links-5dal)
+- [The Role of a Brand Marketing Agency in Building Customer Trust](https://dev.to/firstclickmediagroup/the-role-of-a-brand-marketing-agency-in-building-customer-trust-ne4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
