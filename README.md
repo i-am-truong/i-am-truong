@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the Brighter Pipeline](https://dev.to/actor-dev/understanding-the-brighter-pipeline-4m4b)
-- [The Complete Guide to AWS Lambda Aliases, Versions, and Canary Deployments &lpar;With CDK Examples&rpar;](https://dev.to/mate32/the-complete-guide-to-aws-lambda-aliases-versions-and-canary-deployments-with-cdk-examples-31fg)
-- [ERC 8004 and Trustless AI Agents](https://dev.to/rollingindo/erc-8004-and-trustless-ai-agents-40hb)
-- [[JCAIGC]Get image entrance/exit animation list](https://dev.to/hommy/jcaigcget-image-entranceexit-animation-list-nmk)
-- [How to install Gambas in Raspberry Pi?](https://dev.to/carolineee/how-to-install-gambas-in-raspberry-pi-356d)
+- [Boost Developer Revenue with Monetzly&#39;s API Monetization](https://dev.to/monetzly/boost-developer-revenue-with-monetzlys-api-monetization-48)
+- [Beyond the C-Wire: Powering the Next Generation of Smart Thermostats](https://dev.to/iotpulsereview/beyond-the-c-wire-powering-the-next-generation-of-smart-thermostats-1fen)
+- [5 Coding Concepts That Become Easier the Moment You Use AI to Visualize Them](https://dev.to/luketaylor25/5-coding-concepts-that-become-easier-the-moment-you-use-ai-to-visualize-them-3mpg)
+- [How to Design a Multi-Agent Workflow for Personal Learning Projects](https://dev.to/luketaylor25/how-to-design-a-multi-agent-workflow-for-personal-learning-projects-ik8)
+- [What the Data Says About Developer Skill Acceleration With AI Assistance](https://dev.to/luketaylor25/what-the-data-says-about-developer-skill-acceleration-with-ai-assistance-2pki)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
