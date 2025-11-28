@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Databases 4 practice](https://dev.to/erlan_akbar/databases-4-practice-2a5b)
+- [80 website templates with 10 premium templates](https://dev.to/shreyvijayvargiya/80-website-templates-with-10-premium-templates-oen)
+- [Hangman Challenge: The New Wordplay Craze!](https://dev.to/games_news/hangman-challenge-the-new-wordplay-craze-4pok)
 - [What is Immutable Storage &amp; Why It Matters](https://dev.to/itcs11/what-is-immutable-storage-why-it-matters-261n)
 - [Prose Linting for Technical Teams: What Grammarly Can’t Do](https://dev.to/blessing_olaoye_b20eaba78/prose-linting-for-technical-teams-what-grammarly-cant-do-3dc9)
 - [Zero-Click SEO in 2026: Winning When Nobody Clicks Your Links](https://dev.to/synergistdigitalmedia/zero-click-seo-in-2026-winning-when-nobody-clicks-your-links-5dal)
-- [The Role of a Brand Marketing Agency in Building Customer Trust](https://dev.to/firstclickmediagroup/the-role-of-a-brand-marketing-agency-in-building-customer-trust-ne4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
