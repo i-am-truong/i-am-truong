@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Exploring the Potential of Agentic AI in Enhancing Human Productivity](https://dev.to/aziro_tech_8cf3f347e4e95b/exploring-the-potential-of-agentic-ai-in-enhancing-human-productivity-376i)
+- [Missing PDF Reader Issues: How to Install and Configure PDF Software for Any Device](https://dev.to/bryan_collins_abcd0214d94/missing-pdf-reader-issues-how-to-install-and-configure-pdf-software-for-any-device-8f)
+- [Common PDF Error Messages: What They Mean and How to Fix Them](https://dev.to/bryan_collins_abcd0214d94/common-pdf-error-messages-what-they-mean-and-how-to-fix-them-14m7)
 - [Understanding CORS: A Practical Guide](https://dev.to/byteminds/understanding-cors-a-practical-guide-3lpm)
 - [80 website templates with 10 premium templates](https://dev.to/shreyvijayvargiya/80-website-templates-with-10-premium-templates-oen)
-- [Hangman Challenge: The New Wordplay Craze!](https://dev.to/games_news/hangman-challenge-the-new-wordplay-craze-4pok)
-- [Databases 4 practice](https://dev.to/erlan_akbar/databases-4-practice-2a5b)
-- [Monitoring Demo: Setting Up Prometheus and Grafana on Amazon EKS](https://dev.to/prithiviraj_rengarajan/monitoring-demo-setting-up-prometheus-and-grafana-on-amazon-eks-468o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
