@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Open wide: Inspecting LLVM 21 with static analysis](https://dev.to/pvsdev/open-wide-inspecting-llvm-21-with-static-analysis-12bh)
+- [SiYuan: The Open-Source Knowledge Base That Lets Developers Truly Own Their Thoughts](https://dev.to/githubopensource/siyuan-the-open-source-knowledge-base-that-lets-developers-truly-own-their-thoughts-1g55)
 - [I Built a No-Backend Form Tool That Sends Submissions to WhatsApp — Here’s Why](https://dev.to/joe_seabrook_0f1e8fc0b720/i-built-a-no-backend-form-tool-that-sends-submissions-to-whatsapp-heres-why-5b34)
+- [Hardware Reliability Lessons: Why Developers Need Chip-Level Repair for MacBooks &amp; Foldable Phones](https://dev.to/sampurnakart/hardware-reliability-lessons-why-developers-need-chip-level-repair-for-macbooks-foldable-phones-g3f)
 - [How to Install &amp; Deploy Spike Vue Template](https://dev.to/wrap-pixel/how-to-install-deploy-spike-vue-template-1kce)
-- [Weekly Market Summary: Indices Hover Near Record Highs Amid Global Stability](https://dev.to/aisha_mehra_d0f134c62a79b/weekly-market-summary-indices-hover-near-record-highs-amid-global-stability-3p04)
-- [8 Simple Tips For Testing Payment Gateway Integrations](https://dev.to/flutterwaveeng/8-simple-tips-for-testing-payment-gateway-integrations-586a)
-- [Types of Manufacturing Automation: A Comprehensive Analysis of Technologies, Strategies, and Industrial Evolution](https://dev.to/itsybizz/types-of-manufacturing-automation-a-comprehensive-analysis-of-technologies-strategies-and-5aah)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
