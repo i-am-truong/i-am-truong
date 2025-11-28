@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Lessons learned implementing SCIM with Microsoft Entra and the SCIM Validator](https://dev.to/eelcolos/lessons-learned-implementing-scim-with-microsoft-entra-and-the-scim-validator-20gl)
-- [useState in React Hook](https://dev.to/bharath_11/usestate-in-react-hook-2195)
-- [Self-corrective Code Generation: A Basic Understanding and Real-life Application](https://dev.to/kayson_2025/self-corrective-code-generation-a-basic-understanding-and-real-life-application-383d)
-- [KEDA HTTP Add-on: Escalonamento Dinâmico por Volume de Requisições](https://dev.to/jonas-elias/keda-http-add-on-escalonamento-dinamico-por-volume-de-requisicoes-3d88)
-- [2025 - All Posts From Product With Attitude](https://dev.to/with_attitude/2025-all-posts-from-product-with-attitude-ka7)
+- [OSINT: Maskelenmiş Verilerin Sızıntı Analizi ile Deşifresi](https://dev.to/eagledfc/-sizi-osint-tekniklerinden-neden-koruyamaz-4nol)
+- [dump3](https://dev.to/query_filter_591122b53770/dump3-48o6)
+- [Catalyst::Request body issues with the file position pointer](https://dev.to/fleetfootmike/catalystrequest-body-issues-with-the-file-position-pointer-2k7l)
+- [⚡️ 1-Second AI Image Generation: How a 6B Parameter Model Achieves Hyper-Realistic Images &lpar;Z-Image Explained&rpar;](https://dev.to/brooks_wilson_36fbefbbae4/1-second-ai-image-generation-how-a-6b-parameter-model-achieves-hyper-realistic-images-z-image-2ilg)
+- [Building High-Impact B2B Thought Leadership in an Era of Rapid Digital Transformation](https://dev.to/kapusto/building-high-impact-b2b-thought-leadership-in-an-era-of-rapid-digital-transformation-42)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
