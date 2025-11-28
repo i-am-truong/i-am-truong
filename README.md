@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Transforming Code into AI Power: Creating a watsonx Orchestrate Tool in Python](https://dev.to/aairom/transforming-code-into-ai-power-creating-a-watsonx-orchestrate-tool-in-python-321f)
+- [🚀 How I Used AI, FRDs, Claude Sonnet, Windsurf, and Antigravity to Orchestrate a Complete Backend Without Chaos](https://dev.to/jorge6242/how-i-used-ai-frds-claude-sonnet-windsurf-and-antigravity-to-orchestrate-a-complete-backend-1jml)
+- [Building Spectre: The Media Player That Haunts You Back 👻🎭](https://dev.to/vidit_jain/building-spectre-the-media-player-that-haunts-you-back-hco)
 - [10 Common .NET Logging Mistakes and How to Avoid Them for Maintainable Apps](https://dev.to/mashrulhaque/10-common-net-logging-mistakes-and-how-to-avoid-them-for-maintainable-apps-33i9)
 - [Agentic AI: The Shift Developers Didn’t Realise They Needed](https://dev.to/nikhilsoni12/agentic-ai-the-shift-developers-didnt-realise-they-needed-85b)
-- [Bueno he estado creando un lenguaje de programación desde hace ciertos tiempo quien quiera verlo métase aquí](https://dev.to/samuel_leonardo_37aff38b4/bueno-he-estado-creando-un-lenguaje-de-programacion-desde-hace-ciertos-tiempo-quien-quiera-verlo-14ba)
-- [CinemaSins: Everything Wrong With Mission: Impossible - The Final Reckoning In 27 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-mission-impossible-the-final-reckoning-in-27-minutes-or-less-2eb8)
-- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-66i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
