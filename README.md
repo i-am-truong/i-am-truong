@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/arximughal/-4f4a)
-- [What is the 40-20-40 Rule in Software Engineering?](https://dev.to/sociilabs/what-is-the-40-20-40-rule-in-software-engineering-2bok)
-- [Improve Performance with 64K Memory Pages on AWS Graviton Processors](https://dev.to/aws-builders/improve-performance-with-64k-memory-pages-on-aws-graviton-processors-ifa)
-- [Red Queen Hypothesis and The Crescendo Jailbreak Attack Explained](https://dev.to/arhodesvcu/red-queen-hypothesis-and-the-crescendo-jailbreak-attack-explained-2hdf)
-- [Small Languages, Big Impact: Building the Russian Version of Sentence Rewriter](https://dev.to/peggggykang/small-languages-big-impact-building-the-russian-version-of-sentence-rewriter-6ho)
+- [From Hype to Impact: What AI-First Really Means](https://dev.to/jaideepparashar/from-hype-to-impact-what-ai-first-really-means-1a62)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-5211)
+- [CinemaSins: Everything Wrong With Mission: Impossible - The Final Reckoning In 27 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-mission-impossible-the-final-reckoning-in-27-minutes-or-less-14mh)
+- [Mr Sunday Movies: The Sorcerer&#39;s Apprentice - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-sorcerers-apprentice-caravan-of-garbage-j9d)
+- [The Power of Code Snippets: How to Sell Your Own Code Libraries and APIs](https://dev.to/softwaredeveloperhub01/the-power-of-code-snippets-how-to-sell-your-own-code-libraries-and-apis-22ge)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
