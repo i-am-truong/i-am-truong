@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Case Study: Red Teaming TinyLlama on a Raspberry Pi 5](https://dev.to/shynsec/case-study-red-teaming-tinyllama-on-a-raspberry-pi-5-291g)
+- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-2dc0)
+- [Building My Personal Website: From Idea to Automated Deployment &lpar;Part 1&rpar;](https://dev.to/mikula/building-my-personal-website-from-idea-to-automated-deployment-part-1-427p)
 - [Introducing gitresume, an open-source cli tool for building résumé with LLM support](https://dev.to/iamhabbeboy/introducing-gitresume-an-open-source-cli-tool-for-building-resume-with-llm-support-572c)
 - [The Secret Life of Go: Arrays and Slices](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-arrays-and-slices-38de)
-- [5 Ways to Reduce PDF File Size Without Losing Quality](https://dev.to/mujahid_hussainlashari_d/5-ways-to-reduce-pdf-file-size-without-losing-quality-13di)
-- [Building Reliable Stripe Subscriptions in NestJS: Webhook Idempotency and Optimistic Locking](https://dev.to/aniefon_umanah_ac5f21311c/building-reliable-stripe-subscriptions-in-nestjs-webhook-idempotency-and-optimistic-locking-3o91)
-- [Ship ComfyUI on RunPod &lpar;Dev-Friendly&rpar;: Cloud GPU, models, and zero local setup](https://dev.to/promptingpixels/ship-comfyui-on-runpod-dev-friendly-cloud-gpu-models-and-zero-local-setup-ha1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
