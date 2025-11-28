@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [This Week In React #260: TanStack, Actions, Immer, RTK | Vercel v0, Worklets, Skia | TC39, Playwright, Bun](https://dev.to/sebastienlorber/this-week-in-react-260-tanstack-actions-immer-rtk-vercel-v0-worklets-skia-tc39-3f36)
-- [Supercomputer Coatlicue: Scientific ambition or political spectacle?](https://dev.to/vicodev/supercomputer-coatlicue-scientific-ambition-or-political-spectacle-4dif)
-- [API Security with encrypted value in endpoints](https://dev.to/terngr/api-security-with-encrypted-value-in-endpoints-186j)
-- [Cómo usar el Profiler de React para medir renders de verdad &lpar;y dejar de adivinar&rpar;](https://dev.to/hileodev/como-usar-el-profiler-de-react-para-medir-renders-de-verdad-y-dejar-de-adivinar-2o1k)
-- [Supercomputadora Coatlicue: ¿ambición científica o espectáculo político?](https://dev.to/vicodev/coatlicue-y-si-la-supercomputadora-mexicana-realmente-existiera-2bl7)
+- [Stop paying for databases: I built a Type-safe Google Sheets ORM &lpar;Prisma-style&rpar;](https://dev.to/phatysddev/stop-paying-for-databases-i-built-a-type-safe-google-sheets-orm-prisma-style-3b2l)
+- [Fast and Furious, the missing modem.](https://dev.to/jarvisscript/fast-and-furious-the-missing-modem-5476)
+- [ASP.NET Core Identity in .NET 10 — From “Login Page” to Production‑Grade Security](https://dev.to/cristiansifuentes/aspnet-core-identity-in-net-10-from-login-page-to-production-grade-security-4n6o)
+- [Stop struggling with PWA icons. I built a tool that generates all 19 sizes + manifest.json automatically.](https://dev.to/stackapps_dev/stop-struggling-with-pwa-icons-i-built-a-tool-that-generates-all-19-sizes-manifestjson-1a89)
+- [Day 14 of improving my Data Science skills](https://dev.to/sp_the_data_specialist/day-14-of-improving-my-data-science-skills-539c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
