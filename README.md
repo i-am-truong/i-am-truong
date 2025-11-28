@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Rethinking My Deep-Research Agent Workflow — Should We Move Beyond Static Trees?](https://dev.to/alcholiclg/rethinking-my-deep-research-agent-workflow-should-we-move-beyond-static-trees-2eac)
-- [Future of Renewables: Innovation in Energy Transition](https://dev.to/victor-lang/future-of-renewables-innovation-in-energy-transition-316i)
-- [Your e2e tests sox because you don&#39;t Playwright](https://dev.to/spo0q/your-e2e-tests-sox-because-you-dont-playwright-3ih3)
-- [Terraform Variables in AWS – Input vs Output vs Local Variables](https://dev.to/adarsh_gupta_c5fecf658fd7/terraform-variables-in-aws-input-vs-output-vs-local-variables-3lm6)
-- [Transforming Code into AI Power: Creating a watsonx Orchestrate Tool in Python](https://dev.to/aairom/transforming-code-into-ai-power-creating-a-watsonx-orchestrate-tool-in-python-321f)
+- [Lessons learned implementing SCIM with Microsoft Entra and the SCIM Validator](https://dev.to/eelcolos/lessons-learned-implementing-scim-with-microsoft-entra-and-the-scim-validator-20gl)
+- [useState in React Hook](https://dev.to/bharath_11/usestate-in-react-hook-2195)
+- [Self-corrective Code Generation: A Basic Understanding and Real-life Application](https://dev.to/kayson_2025/self-corrective-code-generation-a-basic-understanding-and-real-life-application-383d)
+- [KEDA HTTP Add-on: Escalonamento Dinâmico por Volume de Requisições](https://dev.to/jonas-elias/keda-http-add-on-escalonamento-dinamico-por-volume-de-requisicoes-3d88)
+- [2025 - All Posts From Product With Attitude](https://dev.to/with_attitude/2025-all-posts-from-product-with-attitude-ka7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
