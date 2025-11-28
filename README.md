@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing gitresume, an open-source cli tool for building résumé with LLM support](https://dev.to/iamhabbeboy/introducing-gitresume-an-open-source-cli-tool-for-building-resume-with-llm-support-572c)
+- [The Secret Life of Go: Arrays and Slices](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-arrays-and-slices-38de)
+- [5 Ways to Reduce PDF File Size Without Losing Quality](https://dev.to/mujahid_hussainlashari_d/5-ways-to-reduce-pdf-file-size-without-losing-quality-13di)
 - [Building Reliable Stripe Subscriptions in NestJS: Webhook Idempotency and Optimistic Locking](https://dev.to/aniefon_umanah_ac5f21311c/building-reliable-stripe-subscriptions-in-nestjs-webhook-idempotency-and-optimistic-locking-3o91)
-- [Remove Image Backgrounds in the Browser - No Backend Needed 🚀](https://dev.to/gallaouimaher/remove-image-backgrounds-in-the-browser-no-backend-needed-4o10)
-- [When Heaven Leaned In to Listen: A Deep Journey Through John 17](https://dev.to/douglasvandergraph/when-heaven-leaned-in-to-listen-a-deep-journey-through-john-17-4h37)
-- [Security news weekly round-up - 28th November 2025](https://dev.to/ziizium/security-news-weekly-round-up-28th-november-2025-50l8)
-- [Android Storage Complete Guide: Internal Storage vs External Storage &lpar;Part 1&rpar;](https://dev.to/yousrasd/android-storage-complete-guide-internal-storage-vs-external-storage-part-1-40kg)
+- [Ship ComfyUI on RunPod &lpar;Dev-Friendly&rpar;: Cloud GPU, models, and zero local setup](https://dev.to/promptingpixels/ship-comfyui-on-runpod-dev-friendly-cloud-gpu-models-and-zero-local-setup-ha1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
