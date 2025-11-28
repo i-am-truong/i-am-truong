@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Best AI Model in 2025? Gemini 3 vs GPT-5.1 vs Claude 4.5](https://dev.to/sunethkawasaki7/best-ai-model-in-2025-gemini-3-vs-gpt-51-vs-claude-45-5b3j)
+- [What Is GPT-5.1-Codex-Max? OpenAI&#39;s 2025 AI Coder](https://dev.to/davidevans/what-is-gpt-51-codex-max-openais-2025-ai-coder-51pe)
 - [I Fixed My WooCommerce Store&#39;s Embarrassing Account Page &lpar;Without Writing a Single Line of Code&rpar;](https://dev.to/sarahandrew/i-fixed-my-woocommerce-stores-embarrassing-account-page-without-writing-a-single-line-of-code-53cm)
 - [What Is Google Antigravity? Google’s Gemini 3 Coding IDE](https://dev.to/chloedavis/what-is-google-antigravity-googles-gemini-3-coding-ide-3j6g)
 - [RESTful – Pílula 5 – Versionamento de APIs RESTful](https://dev.to/andersoncontreira/restful-pilula-5-versionamento-de-apis-restful-1hnk)
-- [SQL: CsvPath vis-a-vis SodaCL](https://dev.to/david_kershaw_b6916404da6/comparison-csvpath-vis-a-vis-sodacl-2669)
-- [Stepping Out of the Comfort Zone - Plan for the Final Stretch](https://dev.to/jongwan93/stepping-out-of-the-comfort-zone-plan-for-the-final-stretch-3h18)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
