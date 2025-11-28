@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to build a team grid section with a cta card using Tailwind CSS](https://dev.to/mike_andreuzza/how-to-build-a-team-grid-section-with-a-cta-card-using-tailwind-css-27jh)
-- [Convert Numbers to Text or Numeric Text to Numbers in Excel Using Java](https://dev.to/leondavis1991/convert-numbers-to-text-or-numeric-text-to-numbers-in-excel-using-java-580n)
-- [Fiberglass Composite Create Van Camper In Simple Steps](https://dev.to/motrhome8322/fiberglass-composite-create-van-camper-in-simple-steps-11i2)
-- [Web Design Through the Lens of UI/UX, HCI, and CX](https://dev.to/wildshark/web-design-through-the-lens-of-uiux-hci-and-cx-2d7b)
-- [I Was Tired of Manual Video Editing — So I Built OmniVid Lite](https://dev.to/porus09/i-was-tired-of-manual-video-editing-so-i-built-omnivid-lite-15i9)
+- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-1cep)
+- [Mr Sunday Movies: The Sorcerer&#39;s Apprentice - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-sorcerers-apprentice-caravan-of-garbage-3e5b)
+- [Mr Sunday Movies: John Carter - Caravan Of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-john-carter-caravan-of-garbage-3kp8)
+- [Configure Veeam Backup for Microsoft 365: A Step-by-Step Guide](https://dev.to/itcs11/configure-veeam-backup-for-microsoft-365-a-step-by-step-guide-41d7)
+- [Top Microsoft CSP Partners in Pakistan: Get More for Less](https://dev.to/itcs11/top-microsoft-csp-partners-in-pakistan-get-more-for-less-5232)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
