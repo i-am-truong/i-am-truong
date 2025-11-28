@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [7 Best Resources to Learn C# — From My Coding Journey to Yours](https://dev.to/stack_overflowed/7-best-resources-to-learn-c-from-my-coding-journey-to-yours-148c)
-- [Subcontractor Management in Paving: How an ERP System Removes Chaos From Daily Operations](https://dev.to/commander_erp_cf7c5a13333/subcontractor-management-in-paving-how-an-erp-system-removes-chaos-from-daily-operations-186g)
-- [Unpacking the TUSD Reserve Deficit: Justin Sun&#39;s Call for Oversight and the Power of Digital Platforms for Transparency](https://dev.to/nftsaz2025/unpacking-the-tusd-reserve-deficit-justin-suns-call-for-oversight-and-the-power-of-digital-1b4c)
-- [Bloom Filters, Favicon Spies, and NPM&#39;s 90-Day Clock](https://dev.to/urbanisierung/bloom-filters-favicon-spies-and-npms-90-day-clock-16ma)
-- [Password Generator Challenge](https://dev.to/fosres/password-generator-challenge-4kkl)
+- [Azure Synapse vs Databricks: 10 Must-Know Differences &lpar;2025&rpar;](https://dev.to/chaos-genius/azure-synapse-vs-databricks-10-must-know-differences-2025-73p)
+- [NAS vs. Object Storage vs. JuiceFS: Storage Selection of Billion-Dollar Quantitative Firms](https://dev.to/daswu/nas-vs-object-storage-vs-juicefs-storage-selection-of-billion-dollar-quantitative-firms-1k37)
+- [Free Interactive SQL Practice Platform for Developers](https://dev.to/satish_kandala_bf356c7994/free-interactive-sql-practice-platform-for-developers-gk)
+- [🚀 Task #4 — GitHub Actions with CI + Docker + GitOps ArgoCD + GKE Cluster &lpar;CICD&rpar;](https://dev.to/latchudevops/task-4-github-actions-with-ci-docker-gitops-argocd-gke-cluster-cicd-2e9c)
+- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-2gl9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
