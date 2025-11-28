@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [📌 Factor — The Stack-Based Language Built Around Words, Quotations, and Combinators](https://dev.to/viz-x/factor-the-stack-based-language-built-around-words-quotations-and-combinators-342b)
-- [Designer Wear for Women: A Celebration of Style and Craftsmanship](https://dev.to/houseofsiyaab/designer-wear-for-women-a-celebration-of-style-and-craftsmanship-2p3c)
-- [📌 Agda — The Language Where Programs and Proofs Become the Same Thing](https://dev.to/viz-x/agda-the-language-where-programs-and-proofs-become-the-same-thing-2lag)
-- [📌 Elixir &lpar;Script Mode&rpar; — The Lightweight Experimental Variant for Running Elixir Like a Scripting Language](https://dev.to/viz-x/elixir-script-mode-the-lightweight-experimental-variant-for-running-elixir-like-a-scripting-4idf)
-- [📌 Zig &lpar;Alpha Spec&rpar; — The Early Experimental Phase Before Zig Stabilized](https://dev.to/viz-x/zig-alpha-spec-the-early-experimental-phase-before-zig-stabilized-1p0o)
+- [Supercomputer Coatlicue: Scientific ambition or political spectacle?](https://dev.to/vicodev/supercomputer-coatlicue-scientific-ambition-or-political-spectacle-4dif)
+- [API Security with encrypted value in endpoints](https://dev.to/terngr/api-security-with-encrypted-value-in-endpoints-186j)
+- [Cómo usar el Profiler de React para medir renders de verdad &lpar;y dejar de adivinar&rpar;](https://dev.to/hileodev/como-usar-el-profiler-de-react-para-medir-renders-de-verdad-y-dejar-de-adivinar-2o1k)
+- [Supercomputadora Coatlicue: ¿ambición científica o espectáculo político?](https://dev.to/vicodev/coatlicue-y-si-la-supercomputadora-mexicana-realmente-existiera-2bl7)
+- [🧾 Coq — A Language for Formal Proofs, Verified Logic, and Certified Software](https://dev.to/viz-x/coq-a-language-for-formal-proofs-verified-logic-and-certified-software-3pbf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
