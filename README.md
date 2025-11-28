@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My fun christmas project for this year](https://dev.to/bzddbz/my-fun-christmas-project-for-this-year-3j03)
+- [A Deep Dive into `ararog/uget`: The Modern Command-Line HTTP Client](https://dev.to/rogrio_arajo_55dae16f0d/a-deep-dive-into-araroguget-the-modern-command-line-http-client-3ea7)
 - [The 48-Hour Button: Fighting Supabase, Google Auth, and &quot;Scope Creep&quot;](https://dev.to/not_varunkv/the-48-hour-button-fighting-supabase-google-auth-and-scope-creep-1e7n)
 - [AWS SAA to Security Clearance: My Path to Federal ISSO Roles](https://dev.to/joshuamichaelhall/aws-saa-to-security-clearance-my-path-to-federal-isso-roles-2i57)
 - [Stop Installing 42 Plugins: How I Build Lean, Fast WordPress Sites Without the Bloat](https://dev.to/paullyd_ca/stop-installing-42-plugins-how-i-build-lean-fast-wordpress-sites-without-the-bloat-2g92)
-- [CinemaSins: Everything Wrong With Mission: Impossible - The Final Reckoning In 27 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-mission-impossible-the-final-reckoning-in-27-minutes-or-less-288)
-- [Mr Sunday Movies: The Sorcerer&#39;s Apprentice - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-sorcerers-apprentice-caravan-of-garbage-1590)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
