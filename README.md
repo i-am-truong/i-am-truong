@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[Boost]](https://dev.to/folco_grimaldi_d6e649ff24/-1agh)
+- [How to set up Multi-Factor Authentication on your Microsoft 365 account](https://dev.to/itcs11/how-to-set-up-multi-factor-authentication-on-your-microsoft-365-account-3b54)
+- [Composite Build Van Conversion](https://dev.to/motohomefit8915/composite-build-van-conversion-i46)
 - [I got tired of 2GB Docker images for simple AI chats, so I built a single-file PHP interface.](https://dev.to/its_meee_630399243c1438/i-got-tired-of-2gb-docker-images-for-simple-ai-chats-so-i-built-a-single-file-php-interface-5efb)
 - [[Boost]](https://dev.to/anthonymax/-ccb)
-- [Deploying weserv/images with Docker](https://dev.to/kevin_tan/deploying-weservimages-with-docker-bii)
-- [Inside DBIR 2025: Why Vulnerability Exploits &amp; Credential Abuse Are Dominating Breaches](https://dev.to/0x57origin/inside-dbir-2025-why-vulnerability-exploits-credential-abuse-are-dominating-breaches-8c0)
-- [5 Common Mistakes to Avoid When Buying a Dedicated Server](https://dev.to/naveen_singh_0890e6ea5f9e/5-common-mistakes-to-avoid-when-buying-a-dedicated-server-18k6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
