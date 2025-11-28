@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Azure Synapse vs Databricks: 10 Must-Know Differences &lpar;2025&rpar;](https://dev.to/chaos-genius/azure-synapse-vs-databricks-10-must-know-differences-2025-73p)
-- [NAS vs. Object Storage vs. JuiceFS: Storage Selection of Billion-Dollar Quantitative Firms](https://dev.to/daswu/nas-vs-object-storage-vs-juicefs-storage-selection-of-billion-dollar-quantitative-firms-1k37)
-- [Free Interactive SQL Practice Platform for Developers](https://dev.to/satish_kandala_bf356c7994/free-interactive-sql-practice-platform-for-developers-gk)
-- [🚀 Task #4 — GitHub Actions with CI + Docker + GitOps ArgoCD + GKE Cluster &lpar;CICD&rpar;](https://dev.to/latchudevops/task-4-github-actions-with-ci-docker-gitops-argocd-gke-cluster-cicd-2e9c)
-- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-2gl9)
+- [How to Automatically Generate Code Documentation from Your GitHub Repo?](https://dev.to/notadevbuthere/how-to-automatically-generate-code-documentation-from-your-github-repo-4icm)
+- [🌍 Why We Need Accessibility &lpar;a11y&rpar; — A Practical Guide for Modern Web Developers](https://dev.to/anisubhra_sarkar/why-we-need-accessibility-a11y-a-practical-guide-for-modern-web-developers-3ibn)
+- [🚀 A Complete Guide to Deploying SSL-Enabled Django in Docker With Nginx, PostgreSQL &amp; Redis](https://dev.to/bharat_solanke_8e45411fa6/a-complete-guide-to-deploying-ssl-enabled-django-in-docker-with-nginx-postgresql-redis-8el)
+- [I built a Serverless AI Job Search Agent with Next.js, FastAPI, and Google Gemini. Here is the Architecture. 🛠️](https://dev.to/kotyada_saipraneeth_7be9/i-built-a-serverless-ai-job-search-agent-with-nextjs-fastapi-and-google-gemini-here-is-the-4pl4)
+- [Architecting Advanced Routing Patterns in Symfony](https://dev.to/mattleads/architecting-advanced-routing-patterns-in-symfony-1cdp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
