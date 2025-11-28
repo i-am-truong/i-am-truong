@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Billiard Fractals: The Infinite Patterns Hidden in a Rectangle](https://dev.to/xcontcom/billiard-fractals-the-infinite-patterns-hidden-in-a-rectangle-282l)
-- [You Don&#39;t Know the True Meaning of Retreat Yet](https://dev.to/stakiran/you-dont-know-the-true-meaning-of-retreat-yet-3kh7)
-- [FounderForge AI workspace](https://dev.to/eseosarumen_efesomwan_67/founderforge-ai-workspace-3opo)
-- [look at this problem once Can we discuss dsa problem here!](https://dev.to/shubhanjali_c5ab3ee45ab00/look-at-this-problem-once-can-we-discuss-dsa-problem-here-io6)
-- [Building Miniviz: A Minimalist BI Platform for IoT PoCs](https://dev.to/yoshidataisei/building-miniviz-a-minimalist-bi-platform-for-iot-pocs-4kn4)
+- [[Boost]](https://dev.to/arximughal/-4f4a)
+- [What is the 40-20-40 Rule in Software Engineering?](https://dev.to/sociilabs/what-is-the-40-20-40-rule-in-software-engineering-2bok)
+- [Improve Performance with 64K Memory Pages on AWS Graviton Processors](https://dev.to/aws-builders/improve-performance-with-64k-memory-pages-on-aws-graviton-processors-ifa)
+- [Red Queen Hypothesis and The Crescendo Jailbreak Attack Explained](https://dev.to/arhodesvcu/red-queen-hypothesis-and-the-crescendo-jailbreak-attack-explained-2hdf)
+- [Small Languages, Big Impact: Building the Russian Version of Sentence Rewriter](https://dev.to/peggggykang/small-languages-big-impact-building-the-russian-version-of-sentence-rewriter-6ho)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
