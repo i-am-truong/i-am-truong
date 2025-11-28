@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Leveraging AI Tools in Workspace Development](https://dev.to/googleworkspace/leveraging-ai-tools-in-workspace-development-5nk)
-- [Apps Script in Google Workspace](https://dev.to/googleworkspace/apps-script-in-google-workspace-2khf)
-- [🚀 5 Terraform Hacks to Cut Your Deployment Time by 90%](https://dev.to/aws-builders/5-terraform-hacks-to-cut-your-deployment-time-by-90-5dp5)
-- [Meet candy-logger — a simple, friendly logger for Node.js / React.js - TS / JS projects](https://dev.to/shehari007/meet-candy-logger-a-simple-friendly-logger-for-nodejs-reactjs-ts-js-projects-52kj)
-- [LAW-N Series, Part 4 — Where Theory Becomes Architecture, and Architecture Becomes Implication](https://dev.to/peacebinflow/law-n-series-part-4-where-theory-becomes-architecture-and-architecture-becomes-implication-26bo)
+- [User-defined networks](https://dev.to/meghasharmaaaa/user-defined-networks-1icj)
+- [Qeltrix V5: The Folder Archiver Revolution with Virtual File System](https://dev.to/hejhdiss/qeltrix-v5-the-folder-archiver-revolution-with-virtual-file-system-2foj)
+- [I Built a Free Random Data Generator — No Signup, 100% Client-Side](https://dev.to/jignesh_dhamecha_57b23398/i-built-a-free-random-data-generator-no-signup-100-client-side-31ce)
+- [Automating Database Migrations with CI/CD](https://dev.to/imdj/automating-database-migrations-with-cicd-5cdc)
+- [Exploring deboa-macros: Ergonomic HTTP Client Macros for Rust](https://dev.to/rogrio_arajo_55dae16f0d/exploring-deboa-macros-ergonomic-http-client-macros-for-rust-5ehl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
