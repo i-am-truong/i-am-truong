@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop paying for databases: I built a Type-safe Google Sheets ORM &lpar;Prisma-style&rpar;](https://dev.to/phatysddev/stop-paying-for-databases-i-built-a-type-safe-google-sheets-orm-prisma-style-3b2l)
-- [Fast and Furious, the missing modem.](https://dev.to/jarvisscript/fast-and-furious-the-missing-modem-5476)
-- [ASP.NET Core Identity in .NET 10 — From “Login Page” to Production‑Grade Security](https://dev.to/cristiansifuentes/aspnet-core-identity-in-net-10-from-login-page-to-production-grade-security-4n6o)
-- [Stop struggling with PWA icons. I built a tool that generates all 19 sizes + manifest.json automatically.](https://dev.to/stackapps_dev/stop-struggling-with-pwa-icons-i-built-a-tool-that-generates-all-19-sizes-manifestjson-1a89)
-- [Day 14 of improving my Data Science skills](https://dev.to/sp_the_data_specialist/day-14-of-improving-my-data-science-skills-539c)
+- [Comparing deboa and reqwest: Two Rust HTTP Clients in 2025](https://dev.to/rogrio_arajo_55dae16f0d/comparing-deboa-and-reqwest-two-rust-http-clients-in-2025-ooa)
+- [AWS open source newsletter, #216](https://dev.to/aws/aws-open-source-newsletter-216-1c9p)
+- [Fast Laravel Pages with Nginx Caching and Progressive Rendering](https://dev.to/devops-make-it-run/fast-laravel-pages-with-nginx-caching-and-progressive-rendering-9h)
+- [Regex in web server applications](https://dev.to/rimstone/regex-in-web-server-applications-3c8)
+- [How Airflow Physics Explains Dust Accumulation Indoors](https://dev.to/elena_bennett_5e746b5e3ef/how-airflow-physics-explains-dust-accumulation-indoors-45ma)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
