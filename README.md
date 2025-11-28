@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Leveraging AI Tools in Workspace Development](https://dev.to/googleworkspace/leveraging-ai-tools-in-workspace-development-5nk)
+- [Apps Script in Google Workspace](https://dev.to/googleworkspace/apps-script-in-google-workspace-2khf)
+- [🚀 5 Terraform Hacks to Cut Your Deployment Time by 90%](https://dev.to/aws-builders/5-terraform-hacks-to-cut-your-deployment-time-by-90-5dp5)
 - [Meet candy-logger — a simple, friendly logger for Node.js / React.js - TS / JS projects](https://dev.to/shehari007/meet-candy-logger-a-simple-friendly-logger-for-nodejs-reactjs-ts-js-projects-52kj)
 - [LAW-N Series, Part 4 — Where Theory Becomes Architecture, and Architecture Becomes Implication](https://dev.to/peacebinflow/law-n-series-part-4-where-theory-becomes-architecture-and-architecture-becomes-implication-26bo)
-- [Cloudfront Functions, WAF](https://dev.to/cyb3rcloud8888/cloudfront-functions-waf-1oak)
-- [Beyond 5G: How 6G Will Transform Intelligent Connectivity and Real-Time Computing](https://dev.to/williamparker/beyond-5g-how-6g-will-transform-intelligent-connectivity-and-real-time-computing-3ihd)
-- [Scaling to 100K Users: Architecture Lessons from Building Nigeria&#39;s Social Commerce Platform](https://dev.to/onoja5/scaling-to-100k-users-architecture-lessons-from-building-nigerias-social-commerce-platform-e1l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
