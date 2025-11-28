@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Case Study: Red Teaming TinyLlama on a Raspberry Pi 5](https://dev.to/shynsec/case-study-red-teaming-tinyllama-on-a-raspberry-pi-5-291g)
-- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-2dc0)
-- [Building My Personal Website: From Idea to Automated Deployment &lpar;Part 1&rpar;](https://dev.to/mikula/building-my-personal-website-from-idea-to-automated-deployment-part-1-427p)
-- [Introducing gitresume, an open-source cli tool for building résumé with LLM support](https://dev.to/iamhabbeboy/introducing-gitresume-an-open-source-cli-tool-for-building-resume-with-llm-support-572c)
-- [The Secret Life of Go: Arrays and Slices](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-arrays-and-slices-38de)
+- [I Fixed My WooCommerce Store&#39;s Embarrassing Account Page &lpar;Without Writing a Single Line of Code&rpar;](https://dev.to/sarahandrew/i-fixed-my-woocommerce-stores-embarrassing-account-page-without-writing-a-single-line-of-code-53cm)
+- [What Is Google Antigravity? Google’s Gemini 3 Coding IDE](https://dev.to/chloedavis/what-is-google-antigravity-googles-gemini-3-coding-ide-3j6g)
+- [RESTful – Pílula 5 – Versionamento de APIs RESTful](https://dev.to/andersoncontreira/restful-pilula-5-versionamento-de-apis-restful-1hnk)
+- [SQL: CsvPath vis-a-vis SodaCL](https://dev.to/david_kershaw_b6916404da6/comparison-csvpath-vis-a-vis-sodacl-2669)
+- [Stepping Out of the Comfort Zone - Plan for the Final Stretch](https://dev.to/jongwan93/stepping-out-of-the-comfort-zone-plan-for-the-final-stretch-3h18)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
