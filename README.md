@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day-05: Terraform variables in AWS](https://dev.to/bhaskara_tejabulusu_b4bf/day-05-terraform-variables-in-aws-aa1)
-- [Weekly Rust Progress — Observability &amp; Cryptography](https://dev.to/vinecksie_rust/weekly-rust-progress-observability-cryptography-480m)
-- [Handling Hierarchical Taxonomies in Sitecore Search](https://dev.to/sebasab/handling-hierarchical-taxonomies-in-sitecore-search-4dnf)
-- [Catalyst::Request body issues with the file position pointer](https://dev.to/fleetfootmike/catalystrequest-body-issues-with-the-file-position-pointer-2k7l)
-- [Why CutMix Works &lpar;Even When It Breaks the Image Apart&rpar;](https://dev.to/aniket_kuyate_15acc4e6587/why-cutmix-works-even-when-it-breaks-the-image-apart-1aek)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-674)
+- [Pure-Go Race Detector - Race Detection Without CGO](https://dev.to/kolkov/pure-go-race-detector-race-detection-without-cgo-2i46)
+- [C++ - instalación y configuración en Ubuntu](https://dev.to/oscarpincho/c-instalacion-y-configuracion-en-ubuntu-56n3)
+- [Profile Card 2025: simple, responsive profile cards built with HTML, CSS &amp; JS](https://dev.to/codlico/profile-card-2025-simple-responsive-profile-cards-built-with-html-and-css-41a5)
+- [Nomor WA Tokopedia](https://dev.to/ayam_kampus_f44004d3e8825/nomor-wa-tokopedia-5eoa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
