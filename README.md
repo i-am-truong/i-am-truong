@@ -120,11 +120,14 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Hype to Impact: What AI-First Really Means](https://dev.to/jaideepparashar/from-hype-to-impact-what-ai-first-really-means-1a62)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-5211)
-- [CinemaSins: Everything Wrong With Mission: Impossible - The Final Reckoning In 27 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-mission-impossible-the-final-reckoning-in-27-minutes-or-less-14mh)
-- [Mr Sunday Movies: The Sorcerer&#39;s Apprentice - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-sorcerers-apprentice-caravan-of-garbage-j9d)
-- [The Power of Code Snippets: How to Sell Your Own Code Libraries and APIs](https://dev.to/softwaredeveloperhub01/the-power-of-code-snippets-how-to-sell-your-own-code-libraries-and-apis-22ge)
+- [How a Model Really Learns: From Loss to Learning in Machine Learning &amp; Deep Learning](https://dev.to/nishanthan-k/how-a-model-really-learns-from-loss-to-learning-in-machine-learning-deep-learning-26b0)
+- [Building a Clinical AI Assistant with RAG and GPT-4](https://dev.to/senayy/building-a-clinical-ai-assistant-with-rag-and-gpt-4-4iko)
+- [🔐 The Linux Security Architecture - PAM, Capabilities, MAC &amp; Beyond](https://dev.to/secbyshresth/the-linux-security-architecture-pam-capabilities-mac-beyond-8d9)
+- [Real AI-first products won’t need to say “AI” anywhere.
+They’ll simply feel smoother, smarter, and more effortless than the alternatives.
+
+The future will belong to the builders and operators who understand this distinction.](https://dev.to/jaideepparashar/real-ai-first-products-wont-need-to-say-ai-anywhere-theyll-simply-feel-smoother-smarter-and-5h51)
+- [Day 56 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-56-of-100-days-dsa-coding-challenge-2dmg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
