@@ -120,14 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[ShowDev] I Built an Open-Source &quot;Audit Tool&quot; to Detect Government Waste Using Python &amp; Math 🐍📊](https://dev.to/melnus/showdev-i-built-an-open-source-audit-tool-to-detect-government-waste-using-python-math-a4i)
-- [How a Model Really Learns: From Loss to Learning in Machine Learning &amp; Deep Learning](https://dev.to/nishanthan-k/how-a-model-really-learns-from-loss-to-learning-in-machine-learning-deep-learning-26b0)
-- [Building a Clinical AI Assistant with RAG and GPT-4](https://dev.to/senayy/building-a-clinical-ai-assistant-with-rag-and-gpt-4-4iko)
-- [🔐 The Linux Security Architecture - PAM, Capabilities, MAC &amp; Beyond](https://dev.to/secbyshresth/the-linux-security-architecture-pam-capabilities-mac-beyond-8d9)
-- [Real AI-first products won’t need to say “AI” anywhere.
-They’ll simply feel smoother, smarter, and more effortless than the alternatives.
-
-The future will belong to the builders and operators who understand this distinction.](https://dev.to/jaideepparashar/real-ai-first-products-wont-need-to-say-ai-anywhere-theyll-simply-feel-smoother-smarter-and-5h51)
+- [Meta Advantage+ Shopping: When the Algorithm Actually Knows Better Than You &lpar;And When It Doesn&#39;t&rpar;](https://dev.to/synergistdigitalmedia/meta-advantage-shopping-when-the-algorithm-actually-knows-better-than-you-and-when-it-doesnt-3i6n)
+- [Integrate Cloudflare Turnstile into Astro and React Apps](https://dev.to/isnan__h/integrate-cloudflare-turnstile-into-astro-and-react-apps-5dl0)
+- [🧩 Haxe DSL Mode — The Hidden Configurable Language Inside Haxe](https://dev.to/viz-x/haxe-dsl-mode-the-hidden-configurable-language-inside-haxe-54hd)
+- [💎 Crystal &lpar;Early Variant&rpar; — The Almost-Ruby Language Before It Became Polished](https://dev.to/viz-x/crystal-early-variant-the-almost-ruby-language-before-it-became-polished-22k3)
+- [1 in 8 Jobs Already Automated: MIT Researchers Reveal AI&#39;s Surprising Impact](https://dev.to/mabualzait/1-in-8-jobs-already-automated-mit-researchers-reveal-ais-surprising-impact-4l00)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
