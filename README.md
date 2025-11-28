@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [User-defined networks](https://dev.to/meghasharmaaaa/user-defined-networks-1icj)
-- [Qeltrix V5: The Folder Archiver Revolution with Virtual File System](https://dev.to/hejhdiss/qeltrix-v5-the-folder-archiver-revolution-with-virtual-file-system-2foj)
-- [I Built a Free Random Data Generator — No Signup, 100% Client-Side](https://dev.to/jignesh_dhamecha_57b23398/i-built-a-free-random-data-generator-no-signup-100-client-side-31ce)
-- [Automating Database Migrations with CI/CD](https://dev.to/imdj/automating-database-migrations-with-cicd-5cdc)
-- [Exploring deboa-macros: Ergonomic HTTP Client Macros for Rust](https://dev.to/rogrio_arajo_55dae16f0d/exploring-deboa-macros-ergonomic-http-client-macros-for-rust-5ehl)
+- [Day 4 : Terraform State File and Remote Backend](https://dev.to/alafiz/day-4-terraform-state-file-and-remote-backend-2mji)
+- [Now live: U.S. Network APIs + Video API updates](https://dev.to/vonagedev/now-live-us-network-apis-video-api-updates-4fk0)
+- [Leadership, Mindset, and the Path to Self-Mastery](https://dev.to/joshua_moll_188939cfe7314/leadership-mindset-and-the-path-to-self-mastery-13c8)
+- [[Book Review]AI Engineering by Chip Huyen](https://dev.to/uponthesky/book-reviewai-engineering-by-chip-huyen-4e26)
+- [When it comes to refactoring code should we Tidy First?](https://dev.to/menilek/when-it-comes-to-refactoring-code-should-we-tidy-first-5df8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
