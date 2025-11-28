@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Open wide: Inspecting LLVM 21 with static analysis](https://dev.to/pvsdev/open-wide-inspecting-llvm-21-with-static-analysis-12bh)
-- [SiYuan: The Open-Source Knowledge Base That Lets Developers Truly Own Their Thoughts](https://dev.to/githubopensource/siyuan-the-open-source-knowledge-base-that-lets-developers-truly-own-their-thoughts-1g55)
-- [I Built a No-Backend Form Tool That Sends Submissions to WhatsApp — Here’s Why](https://dev.to/joe_seabrook_0f1e8fc0b720/i-built-a-no-backend-form-tool-that-sends-submissions-to-whatsapp-heres-why-5b34)
-- [Hardware Reliability Lessons: Why Developers Need Chip-Level Repair for MacBooks &amp; Foldable Phones](https://dev.to/sampurnakart/hardware-reliability-lessons-why-developers-need-chip-level-repair-for-macbooks-foldable-phones-g3f)
-- [How to Install &amp; Deploy Spike Vue Template](https://dev.to/wrap-pixel/how-to-install-deploy-spike-vue-template-1kce)
+- [10 Common .NET Logging Mistakes and How to Avoid Them for Maintainable Apps](https://dev.to/mashrulhaque/10-common-net-logging-mistakes-and-how-to-avoid-them-for-maintainable-apps-33i9)
+- [Agentic AI: The Shift Developers Didn’t Realise They Needed](https://dev.to/nikhilsoni12/agentic-ai-the-shift-developers-didnt-realise-they-needed-85b)
+- [Bueno he estado creando un lenguaje de programación desde hace ciertos tiempo quien quiera verlo métase aquí](https://dev.to/samuel_leonardo_37aff38b4/bueno-he-estado-creando-un-lenguaje-de-programacion-desde-hace-ciertos-tiempo-quien-quiera-verlo-14ba)
+- [CinemaSins: Everything Wrong With Mission: Impossible - The Final Reckoning In 27 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-mission-impossible-the-final-reckoning-in-27-minutes-or-less-2eb8)
+- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-66i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
