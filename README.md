@@ -123,8 +123,8 @@ Python                   1 repo              █░░░░░░░░░░�
 - [Downloads Stalling? Not Anymore. Developing Retry Maniac for Chrome](https://dev.to/neeyatlotlikar/downloads-stalling-not-anymore-developing-retry-maniac-for-chrome-3lj3)
 - [PART 5 — The Rise of Network SQL &lpar;N-SQL&rpar;](https://dev.to/peacebinflow/part-5-the-rise-of-network-sql-n-sql-240b)
 - [From stealth to spotlight: How Dimension launched on Product Hunt](https://dev.to/fmerian/from-stealth-to-spotlight-how-dimension-launched-on-product-hunt-7oi)
+- [Stop Memorizing Patterns, Start Writing Tests: A Pragmatic Guide to Better Code](https://dev.to/deva_krishna_ca6de03773ff/stop-memorizing-patterns-start-writing-tests-a-pragmatic-guide-to-better-code-il4)
 - [Did you knew this??](https://dev.to/_armasahar_/did-you-knew-this-2i9e)
-- [Safely Migrating Singletons to Swift 6](https://dev.to/arshtechpro/safely-migrating-singletons-to-swift-6-4nm8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
