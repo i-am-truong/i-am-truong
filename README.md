@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What You Will Learn in SAP HCM Classes as a Beginner in HR](https://dev.to/ddsszx/what-you-will-learn-in-sap-hcm-classes-as-a-beginner-in-hr-3ejh)
-- [Found a 75%-off lifetime Windows fix when half our machines started expiring at 2 AM](https://dev.to/om_prakash_70e7840a925350/found-a-75-off-lifetime-windows-fix-when-half-our-machines-started-expiring-at-2-am-5ccl)
-- [GRP Make Van Build For Beginners](https://dev.to/mtrhm6087/grp-make-van-build-for-beginners-3mli)
-- [Developers: A Profession or a Toolbox? Les dérives du recrutement “homme-orchestre”](https://dev.to/digitaldev/developers-a-profession-or-a-toolboxles-derives-du-recrutement-homme-orchestre-hfi)
-- [Top React Native Wheel Pickers for Date Color Selection 2026](https://dev.to/eira-wexford/top-react-native-wheel-pickers-for-date-color-selection-2026-1oap)
+- [[Boost]](https://dev.to/anthonymax/-ccb)
+- [Deploying weserv/images with Docker](https://dev.to/kevin_tan/deploying-weservimages-with-docker-bii)
+- [Inside DBIR 2025: Why Vulnerability Exploits &amp; Credential Abuse Are Dominating Breaches](https://dev.to/0x57origin/inside-dbir-2025-why-vulnerability-exploits-credential-abuse-are-dominating-breaches-8c0)
+- [How Developers Can Build Consent Driven User Experiences: A Practical Guide](https://dev.to/mehwish_malik_4f29ff7fb04/how-developers-can-build-consent-driven-user-experiences-a-practical-guide-1oo9)
+- [5 Common Mistakes to Avoid When Buying a Dedicated Server](https://dev.to/naveen_singh_0890e6ea5f9e/5-common-mistakes-to-avoid-when-buying-a-dedicated-server-18k6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
