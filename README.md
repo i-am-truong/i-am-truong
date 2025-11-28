@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Exploring the Potential of Agentic AI in Enhancing Human Productivity](https://dev.to/aziro_tech_8cf3f347e4e95b/exploring-the-potential-of-agentic-ai-in-enhancing-human-productivity-376i)
-- [Missing PDF Reader Issues: How to Install and Configure PDF Software for Any Device](https://dev.to/bryan_collins_abcd0214d94/missing-pdf-reader-issues-how-to-install-and-configure-pdf-software-for-any-device-8f)
-- [Common PDF Error Messages: What They Mean and How to Fix Them](https://dev.to/bryan_collins_abcd0214d94/common-pdf-error-messages-what-they-mean-and-how-to-fix-them-14m7)
-- [Understanding CORS: A Practical Guide](https://dev.to/byteminds/understanding-cors-a-practical-guide-3lpm)
-- [80 website templates with 10 premium templates](https://dev.to/shreyvijayvargiya/80-website-templates-with-10-premium-templates-oen)
+- [Vue tricks: smart layouts for VueJS](https://dev.to/nickpe/vue-tricks-smart-layouts-for-vuejs-8d5)
+- [get my first 1$, to prove me it&#39;s possible. I&#39;am junior front end developer from Mali in west africa.](https://dev.to/m2aml/get-my-first-1-to-prove-me-its-possible-iam-junior-front-end-developer-from-mali-in-west-1041)
+- [useState in React Hook](https://dev.to/bharath_11/usestate-in-react-hook-43bd)
+- [Ringer Movies: The Robert Redford Hall of Fame](https://dev.to/popcorn_movies/ringer-movies-the-robert-redford-hall-of-fame-61k)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-1acc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
