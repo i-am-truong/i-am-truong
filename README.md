@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Downloads Stalling? Not Anymore. Developing Retry Maniac for Chrome](https://dev.to/neeyatlotlikar/downloads-stalling-not-anymore-developing-retry-maniac-for-chrome-3lj3)
-- [PART 5 — The Rise of Network SQL &lpar;N-SQL&rpar;](https://dev.to/peacebinflow/part-5-the-rise-of-network-sql-n-sql-240b)
-- [From stealth to spotlight: How Dimension launched on Product Hunt](https://dev.to/fmerian/from-stealth-to-spotlight-how-dimension-launched-on-product-hunt-7oi)
-- [Stop Memorizing Patterns, Start Writing Tests: A Pragmatic Guide to Better Code](https://dev.to/deva_krishna_ca6de03773ff/stop-memorizing-patterns-start-writing-tests-a-pragmatic-guide-to-better-code-il4)
-- [Did you knew this??](https://dev.to/_armasahar_/did-you-knew-this-2i9e)
+- [Identity-Based Computing: A Post-Device Architecture](https://dev.to/suign/identity-based-computing-a-post-device-architecture-17o7)
+- [How Do I Return the Response from an Asynchronous Call?](https://dev.to/sharmaprash/how-do-i-return-the-response-from-an-asynchronous-call-nl2)
+- [Memory-Safety-Ultimate-Guardian](https://dev.to/member_8455d9df/memory-safety-ultimate-guardian-20eb)
+- [What is a NullPointerException, and How Do I Fix It?](https://dev.to/sharmaprash/what-is-a-nullpointerexception-and-how-do-i-fix-it-7bc)
+- [Clean and maintainable Git Histories – Part 2](https://dev.to/claudioaltamura/clean-and-maintainable-git-histories-part-2-iip)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
