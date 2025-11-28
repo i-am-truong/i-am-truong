@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Bloom Filters, Favicon Spies, and NPM&#39;s 90-Day Clock](https://dev.to/urbanisierung/bloom-filters-favicon-spies-and-npms-90-day-clock-16ma)
+- [Password Generator Challenge](https://dev.to/fosres/password-generator-challenge-4kkl)
+- [I just shipped v3.0 of Frontend Master Prep Series — Study Paths, 374+ Q&amp;A, 65 Coding Problems &amp; 500+ Flashcards](https://dev.to/maurya-sachin/i-just-shipped-v30-of-frontend-master-prep-series-study-paths-374-qa-65-coding-problems--44mi)
+- [Chatbot in a Box: Building a MCP Server &amp; Client from Scratch](https://dev.to/mabualzait/chatbot-in-a-box-building-a-mcp-server-client-from-scratch-4n2k)
 - [Meta Advantage+ Shopping: When the Algorithm Actually Knows Better Than You &lpar;And When It Doesn&#39;t&rpar;](https://dev.to/synergistdigitalmedia/meta-advantage-shopping-when-the-algorithm-actually-knows-better-than-you-and-when-it-doesnt-3i6n)
-- [Integrate Cloudflare Turnstile into Astro and React Apps](https://dev.to/isnan__h/integrate-cloudflare-turnstile-into-astro-and-react-apps-5dl0)
-- [🧩 Haxe DSL Mode — The Hidden Configurable Language Inside Haxe](https://dev.to/viz-x/haxe-dsl-mode-the-hidden-configurable-language-inside-haxe-54hd)
-- [💎 Crystal &lpar;Early Variant&rpar; — The Almost-Ruby Language Before It Became Polished](https://dev.to/viz-x/crystal-early-variant-the-almost-ruby-language-before-it-became-polished-22k3)
-- [1 in 8 Jobs Already Automated: MIT Researchers Reveal AI&#39;s Surprising Impact](https://dev.to/mabualzait/1-in-8-jobs-already-automated-mit-researchers-reveal-ais-surprising-impact-4l00)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
