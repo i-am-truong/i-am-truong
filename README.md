@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Tactical Puzzle Game: Lessons Learned from Developing Barbarian Grid](https://dev.to/ffteamnames/building-a-tactical-puzzle-game-lessons-learned-from-developing-barbarian-grid-80k)
-- [Weekly update #19](https://dev.to/abytebybyte/weekly-update-19-23dk)
-- [Secrets Management for Platforms: AWS Secrets Manager vs Parameter Store](https://dev.to/aws-builders/secrets-management-for-platforms-aws-secrets-manager-vs-parameter-store-5db5)
-- [I built a free PDF converter tool - here&#39;s what I learned](https://dev.to/mujahid_hussainlashari_d/i-built-a-free-pdf-converter-tool-heres-what-i-learned-3g0h)
-- [I Built an MCP Server That Publishes Blogs Automatically &lpar;Phase 1 Complete — Much More Coming Soon&rpar;](https://dev.to/bamacharan/i-built-an-mcp-server-that-publishes-blogs-automatically-phase-1-complete-much-more-coming-soon-49ke)
+- [🧩 Need for Services in Kubernetes.](https://dev.to/itsmecharan7/need-for-services-in-kubernetes-5acl)
+- [A beginner&#39;s guide to the Gpt-4o-Mini model by Openai on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-gpt-4o-mini-model-by-openai-on-replicate-4jln)
+- [Uncovering Global Content Trends on Netflix: A Full Tableau Analytics Breakdown](https://dev.to/augo_amos/uncovering-global-content-trends-on-netflix-a-full-tableau-analytics-breakdown-23c9)
+- [When we can use ARIA](https://dev.to/jeganmurugan_0101/when-we-can-use-aria-42h6)
+- [Understanding Web 3.0: The Blockchain Revolution](https://dev.to/sreeni5018/understanding-web-30-the-blockchain-revolution-17of)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
