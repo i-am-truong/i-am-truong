@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [OSINT: Maskelenmiş Verilerin Sızıntı Analizi ile Deşifresi](https://dev.to/eagledfc/-sizi-osint-tekniklerinden-neden-koruyamaz-4nol)
-- [dump3](https://dev.to/query_filter_591122b53770/dump3-48o6)
+- [Day-05: Terraform variables in AWS](https://dev.to/bhaskara_tejabulusu_b4bf/day-05-terraform-variables-in-aws-aa1)
+- [Weekly Rust Progress — Observability &amp; Cryptography](https://dev.to/vinecksie_rust/weekly-rust-progress-observability-cryptography-480m)
+- [Handling Hierarchical Taxonomies in Sitecore Search](https://dev.to/sebasab/handling-hierarchical-taxonomies-in-sitecore-search-4dnf)
 - [Catalyst::Request body issues with the file position pointer](https://dev.to/fleetfootmike/catalystrequest-body-issues-with-the-file-position-pointer-2k7l)
-- [⚡️ 1-Second AI Image Generation: How a 6B Parameter Model Achieves Hyper-Realistic Images &lpar;Z-Image Explained&rpar;](https://dev.to/brooks_wilson_36fbefbbae4/1-second-ai-image-generation-how-a-6b-parameter-model-achieves-hyper-realistic-images-z-image-2ilg)
-- [Building High-Impact B2B Thought Leadership in an Era of Rapid Digital Transformation](https://dev.to/kapusto/building-high-impact-b2b-thought-leadership-in-an-era-of-rapid-digital-transformation-42)
+- [Why CutMix Works &lpar;Even When It Breaks the Image Apart&rpar;](https://dev.to/aniket_kuyate_15acc4e6587/why-cutmix-works-even-when-it-breaks-the-image-apart-1aek)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
