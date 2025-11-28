@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [When Heaven Leaned In to Listen: A Deep Journey Through John 17](https://dev.to/douglasvandergraph/when-heaven-leaned-in-to-listen-a-deep-journey-through-john-17-4h37)
+- [Security news weekly round-up - 28th November 2025](https://dev.to/ziizium/security-news-weekly-round-up-28th-november-2025-50l8)
 - [Android Storage Complete Guide: Internal Storage vs External Storage &lpar;Part 1&rpar;](https://dev.to/yousrasd/android-storage-complete-guide-internal-storage-vs-external-storage-part-1-40kg)
-- [You SHOULD derive your state in React](https://dev.to/marcin_codes/you-should-derive-your-state-in-react-1fbl)
-- [Unknown Unknowns &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/unknown-unknowns-bite-size-article-37j)
-- [Stop fighting your build tools. Meet AtomAttr.](https://dev.to/devadetayo/stop-fighting-your-build-tools-meet-atomattr-4bko)
-- [filter6](https://dev.to/query_filter_591122b53770/filter6-4dmi)
+- [Unmasking Bias: How Vocal Cues Skew Speech Translation](https://dev.to/arvind_sundararajan/unmasking-bias-how-vocal-cues-skew-speech-translation-2ba4)
+- [fil9](https://dev.to/query_filter_591122b53770/fil9-51o4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
