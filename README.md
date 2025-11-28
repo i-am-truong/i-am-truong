@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building PeopleHub: An AI-Powered LinkedIn Intelligence Platform with LangGraph and Bright Data](https://dev.to/meirk-codes/building-peoplehub-an-ai-powered-linkedin-intelligence-platform-with-langgraph-and-bright-data-44na)
+- [How to Run Terraform Self-Hosted](https://dev.to/spacelift/how-to-run-terraform-self-hosted-3eoi)
+- [What GitHub Metrics Don’t Tell You — And What I Learned by Analyzing My Own History](https://dev.to/david_silvera_68a226fc605/what-github-metrics-dont-tell-you-and-what-i-learned-by-analyzing-my-own-history-1d64)
 - [4 Practical Tips That 10x’ed My Productivity with Cursor &lpar;and Helped Me Build NiceVoice&rpar;](https://dev.to/nicevoice/4-practical-tips-that-10xed-my-productivity-with-cursor-and-helped-me-build-nicevoice-25em)
 - [7 AI Tools Developers Are Using to Compress Years of Skill Growth](https://dev.to/jamespatterson25/7-ai-tools-developers-are-using-to-compress-years-of-skill-growth-4mm5)
-- [CSS Concepts That Will Actually Make Your Life as a Front-End Developer Easier](https://dev.to/web_dev-usman/css-concepts-that-will-actually-make-your-life-as-a-front-end-developer-easier-4mfj)
-- [Telegraphic Semantic Compression &lpar;TSC&rpar; - A Semantic Compression Method for LLM Contexts](https://dev.to/devasservice/telegraphic-semantic-compression-tsc-a-semantic-compression-method-for-llm-contexts-1akl)
-- [A Murder in the Park… and the Silent Killer Inside Your Engineering Culture](https://dev.to/yaseen_tech/a-murder-in-the-park-and-the-silent-killer-inside-your-engineering-culture-2l37)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
