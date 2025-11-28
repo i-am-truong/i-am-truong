@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [7 Best Resources to Learn C# — From My Coding Journey to Yours](https://dev.to/stack_overflowed/7-best-resources-to-learn-c-from-my-coding-journey-to-yours-148c)
+- [Subcontractor Management in Paving: How an ERP System Removes Chaos From Daily Operations](https://dev.to/commander_erp_cf7c5a13333/subcontractor-management-in-paving-how-an-erp-system-removes-chaos-from-daily-operations-186g)
+- [Unpacking the TUSD Reserve Deficit: Justin Sun&#39;s Call for Oversight and the Power of Digital Platforms for Transparency](https://dev.to/nftsaz2025/unpacking-the-tusd-reserve-deficit-justin-suns-call-for-oversight-and-the-power-of-digital-1b4c)
 - [Bloom Filters, Favicon Spies, and NPM&#39;s 90-Day Clock](https://dev.to/urbanisierung/bloom-filters-favicon-spies-and-npms-90-day-clock-16ma)
 - [Password Generator Challenge](https://dev.to/fosres/password-generator-challenge-4kkl)
-- [I just shipped v3.0 of Frontend Master Prep Series — Study Paths, 374+ Q&amp;A, 65 Coding Problems &amp; 500+ Flashcards](https://dev.to/maurya-sachin/i-just-shipped-v30-of-frontend-master-prep-series-study-paths-374-qa-65-coding-problems--44mi)
-- [Chatbot in a Box: Building a MCP Server &amp; Client from Scratch](https://dev.to/mabualzait/chatbot-in-a-box-building-a-mcp-server-client-from-scratch-4n2k)
-- [Meta Advantage+ Shopping: When the Algorithm Actually Knows Better Than You &lpar;And When It Doesn&#39;t&rpar;](https://dev.to/synergistdigitalmedia/meta-advantage-shopping-when-the-algorithm-actually-knows-better-than-you-and-when-it-doesnt-3i6n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
