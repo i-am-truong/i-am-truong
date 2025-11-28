@@ -120,6 +120,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[ShowDev] I Built an Open-Source &quot;Audit Tool&quot; to Detect Government Waste Using Python &amp; Math 🐍📊](https://dev.to/melnus/showdev-i-built-an-open-source-audit-tool-to-detect-government-waste-using-python-math-a4i)
 - [How a Model Really Learns: From Loss to Learning in Machine Learning &amp; Deep Learning](https://dev.to/nishanthan-k/how-a-model-really-learns-from-loss-to-learning-in-machine-learning-deep-learning-26b0)
 - [Building a Clinical AI Assistant with RAG and GPT-4](https://dev.to/senayy/building-a-clinical-ai-assistant-with-rag-and-gpt-4-4iko)
 - [🔐 The Linux Security Architecture - PAM, Capabilities, MAC &amp; Beyond](https://dev.to/secbyshresth/the-linux-security-architecture-pam-capabilities-mac-beyond-8d9)
@@ -127,7 +128,6 @@ Python                   1 repo              █░░░░░░░░░░�
 They’ll simply feel smoother, smarter, and more effortless than the alternatives.
 
 The future will belong to the builders and operators who understand this distinction.](https://dev.to/jaideepparashar/real-ai-first-products-wont-need-to-say-ai-anywhere-theyll-simply-feel-smoother-smarter-and-5h51)
-- [Day 56 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-56-of-100-days-dsa-coding-challenge-2dmg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
