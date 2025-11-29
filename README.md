@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I got a new Mac, what do I install?](https://dev.to/thelazyindiantechie/i-got-a-new-mac-what-do-i-install-3kba)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-1lam)
+- [Mr Sunday Movies: The Sorcerer&#39;s Apprentice - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-sorcerers-apprentice-caravan-of-garbage-3pa7)
 - [Mastering Dart Enums: From Basic Lists to Supercharged Classes](https://dev.to/javeedishaq/mastering-dart-enums-from-basic-lists-to-supercharged-classes-200e)
 - [A Decade of AI in K–12 Education: Evaluating Trends, Impact, and Classroom Integration](https://dev.to/svishwanathan01/a-decade-of-ai-in-k-12-education-evaluating-trends-impact-and-classroom-integration-1607)
-- [Claude Code Skill for WordPress Performance Reviews](https://dev.to/n3rdh4ck3r/claude-code-skill-for-wordpress-performance-reviews-1560)
-- [750+ Free Tailwind CSS Components &amp; Blocks](https://dev.to/readymade-ui/750-free-tailwind-css-components-blocks-1cca)
-- [Accessible forms: Grouped form fields](https://dev.to/marcelinaredocindo/accessible-forms-grouped-form-fields-5c0n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
