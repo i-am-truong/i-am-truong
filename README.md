@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [PYTHON ESSENTIALS FOR AI/ML &lpar;Virtual Environment&rpar;](https://dev.to/m_t_ramkrushna/python-essentials-for-aiml-virtual-environment-19oo)
+- [Architecting for Efficiency and Reliability with Performance Testing at Scale](https://dev.to/elianalamhost/architecting-for-efficiency-and-reliability-with-performance-testing-at-scale-24no)
+- [Serverless MediaOps: Automating Video Workflows with AI on Amazon Web Services](https://dev.to/elianalamhost/serverless-mediaops-automating-video-workflows-with-ai-on-amazon-web-services-4gh0)
+- [Sanskritica: A Comprehensive Digital Resource for Exploring Sanskrit Built with Next.js and MongoDB](https://dev.to/sharmaricky/sanskritica-a-comprehensive-digital-resource-for-exploring-sanskrit-built-with-nextjs-and-mongodb-4471)
 - [Context-Optimized APIs: Designing MCP Servers for LLMs](https://dev.to/vaticnz/context-optimized-apis-designing-mcp-servers-for-llms-5gpk)
-- [Best AI SEO Tools](https://dev.to/furkan_yaman_47be00fb2e21/best-ai-seo-tools-18ah)
-- [Explaining AI Explainability: Vision, Reality and Regulation](https://dev.to/mkdev/explaining-ai-explainability-vision-reality-and-regulation-fg6)
-- [[ES] ContextFX - Un CDI ligero para JavaFX/GluonFX con soporte de ReactFX](https://dev.to/contextfx/es-contextfx-un-cdi-ligero-para-javafxgluonfx-con-soporte-de-reactfx-26eb)
-- [How to Scrape Free SMS Verification Codes using Python &lpar;Under 10 Lines&rpar;](https://dev.to/baochouu08/how-to-scrape-free-sms-verification-codes-using-python-under-10-lines-3kam)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
