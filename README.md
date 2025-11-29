@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Discovered a Truly Accessible Image‑Generation Model &lpar;and Why You Should Try It Too&rpar;](https://dev.to/heiguo88/how-i-discovered-a-truly-accessible-image-generation-model-and-why-you-should-try-it-too-nok)
+- [Best Software Options for Running a Photobooth at an Event](https://dev.to/darkstar_fury_67a2981e7eb/best-software-options-for-running-a-photobooth-at-an-event-2574)
+- [Zombie Go Home - My Post-Halloween Game Jam Adventure](https://dev.to/smirnovw/zombie-go-home-my-post-halloween-game-jam-adventure-4faf)
 - [Always Up, Never Chill: A Friendly Intro to Availability in Software](https://dev.to/davidstevenrojas/always-up-never-chill-a-friendly-intro-to-availability-in-software-55a5)
 - [I built a blogging platform on Cloudflare Workers. Here&#39;s how it went.](https://dev.to/usamaejaz/i-built-a-blogging-platform-on-cloudflare-workers-heres-how-it-went-2732)
-- [Day 6/30: Organising Terraform – File Structure Best Practices 📂✨](https://dev.to/gokulprasath_n_42438fd633/day-630-organizing-terraform-file-structure-best-practices-4ggc)
-- [Guide to Path Variables and Query Parameters in Mitsuki Controllers](https://dev.to/david_landup/guide-to-path-variables-and-query-parameters-in-mitsuki-controllers-19fk)
-- [Smart Invoice Analyzer — How I Automated Invoice Processing &amp; Predicted Sales Using Machine Learning](https://dev.to/sanjaydot/smart-invoice-analyzer-how-i-automated-invoice-processing-predicted-sales-using-machine-learning-41b3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
