@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Script to list MongoDB collection URI &lpar;to map to WiredTiger files&rpar;](https://dev.to/franckpachot/script-to-list-mongodb-collection-uri-to-map-to-wiredtiger-files-4k2n)
-- [Building Trinity Shield: Our Custom TEE Solution for Multi-Chain Security](https://dev.to/chronosvault/building-trinity-shield-our-custom-tee-solution-for-multi-chain-security-3cdf)
-- [How I Discovered a Truly Accessible Image‑Generation Model &lpar;and Why You Should Try It Too&rpar;](https://dev.to/heiguo88/how-i-discovered-a-truly-accessible-image-generation-model-and-why-you-should-try-it-too-nok)
-- [Best Software Options for Running a Photobooth at an Event](https://dev.to/darkstar_fury_67a2981e7eb/best-software-options-for-running-a-photobooth-at-an-event-2574)
-- [🔥 A Complete, In-Depth Guide to Trusted Types in React and Modern Web Apps](https://dev.to/abhilashlr/a-complete-in-depth-guide-to-trusted-types-in-react-and-modern-web-apps-30id)
+- [Building Micro-Frontends with React Router v7 RSC and Module Federation](https://dev.to/gt_hironobu_fc367732cd350/building-micro-frontends-with-react-router-v7-rsc-and-module-federation-ajk)
+- [Complete Guide to OpenWrt in VirtualBox: Setup and Disk Expansion](https://dev.to/ahaoboy/complete-guide-to-openwrt-in-virtualbox-setup-and-disk-expansion-1fe2)
+- [Connection-Management-Art-The-Performance-Secrets-of-Low-Level-Architecture](https://dev.to/member_8455d9df/connection-management-art-the-performance-secrets-of-low-level-architecture-28kg)
+- [Analog Clock](https://dev.to/preetha_vaishnavi_2b82358/analog-clock-5727)
+- [share.pay](https://dev.to/preetha_vaishnavi_2b82358/sharepay-4o4b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
