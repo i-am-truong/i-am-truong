@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 05 - Why Terraform Variables are Essential for Efficient IaC](https://dev.to/andylovecloud/day-05-why-terraform-variables-are-essential-for-efficient-iac-3anj)
-- [30+ Free Online Tools for Developers &amp; Students – EasyTools.tech](https://dev.to/sarah_hassan_42b3c6a1cf69/30-free-online-tools-for-developers-students-easytoolstech-3nik)
-- [AWS Cloud Practitioner Questions | EC2 Fundamentals](https://dev.to/minoltan/aws-cloud-practitioner-questions-ec2-fundamentals-5d28)
-- [Build Embedded Debian Web Runtime with the Power of Isar](https://dev.to/janihau/build-embedded-debian-web-runtime-with-the-power-of-isar-150a)
-- [Beyond-env-A-Grown-Ups-Guide-to-Application-Configuration](https://dev.to/member_34349a73/beyond-env-a-grown-ups-guide-to-application-configuration-372j)
+- [Cracked&lpar;interactive&rpar;](https://dev.to/preetha_vaishnavi_2b82358/crackedinteractive-3b9e)
+- [PayPal Smart Buttons in 2025 is the about:blank flash + never-closing popup finally dead?😞](https://dev.to/vidakhoshpey22/paypal-smart-buttons-in-2025-is-the-aboutblank-flash-never-closing-popup-finally-dead-584j)
+- [Google&#39;s December 2025 Core Update Hit Your E-commerce Site: Here&#39;s What Actually Changed](https://dev.to/synergistdigitalmedia/googles-december-2025-core-update-hit-your-e-commerce-site-heres-what-actually-changed-4ef8)
+- [Crack in background as you scroll](https://dev.to/preetha_vaishnavi_2b82358/crack-in-background-as-you-scroll-3d9b)
+- [SourceFlow.Net](https://dev.to/codeshayk/sourceflownet-52p2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
