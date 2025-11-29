@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Guitar Playing Analysis App &lpar;vibe coded in 1 day&rpar;](https://dev.to/apayrus/guitar-playing-analysis-app-vibe-coded-in-1-day-4i67)
+- [Instagram&#39;s Discovery Feed Actually Rewards Different Content Now &lpar;Here&#39;s What Changed&rpar;](https://dev.to/synergistdigitalmedia/instagrams-discovery-feed-actually-rewards-different-content-now-heres-what-changed-1aa9)
 - [Week 2 of 40 – My Idea Log &amp; Randomizer](https://dev.to/florianhoeppner/week-2-of-40-my-idea-log-randomizer-4hlk)
-- [Por qué me puse a explorar Cipherseek.com — y lo que pienso de la idea](https://dev.to/ernesto_malave_285068a60e/por-que-me-puse-a-explorar-cipherseekcom-y-lo-que-pienso-de-la-idea-4b4o)
-- [Week 1 of 40 – Static Idea of the Week](https://dev.to/florianhoeppner/week-1-of-40-static-idea-of-the-week-49hn)
-- [Building a Next.js Template Clone Generator: A Complete Guide to Streamlining Your Development Workflow with Kiro](https://dev.to/kirodotdev/building-a-nextjs-template-clone-generator-a-complete-guide-to-streamlining-your-development-489n)
-- [Don&#39;t Let Your Staging Server Die: Separate Task Scheduling in Laravel](https://dev.to/tegos/dont-let-your-staging-server-die-separate-task-scheduling-in-laravel-420o)
+- [I built a free AI Comparison Portal with Next.js &lpar;Alternatives to paid directories&rpar;](https://dev.to/rehanuri_talu_4f7c9d5cb63/i-built-a-free-ai-comparison-portal-with-nextjs-alternatives-to-paid-directories-2ko3)
+- [Neural Networks: Cracking the Geometric Code to AI](https://dev.to/arvind_sundararajan/neural-networks-cracking-the-geometric-code-to-ai-297l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
