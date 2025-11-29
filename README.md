@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Dissociate And Associate The Public IP Address Of Your Virtual Machine To Save Cost](https://dev.to/akintoye_gbenga/how-to-dissociate-the-public-ip-address-of-your-virtual-machine-to-save-cost-37jc)
+- [Using One Database for Two Apps: Should You Copy Your Models or Import Them?](https://dev.to/priyam_jain_f127ddf8c4d8d/using-one-database-for-two-apps-should-you-copy-your-models-or-import-them-6g5)
+- [Securing Agentic AI: authorization patterns for autonomous systems](https://dev.to/siddhantkcode/securing-agentic-ai-authorization-patterns-for-autonomous-systems-3ajo)
 - [Play-to-Earn Game Development: Investor&#39;s Complete Guide](https://dev.to/elanahayes_8840de44ea3bfd/play-to-earn-game-development-investors-complete-guide-ha7)
-- [Cracked&lpar;interactive&rpar;](https://dev.to/preetha_vaishnavi_2b82358/crackedinteractive-3b9e)
-- [PayPal Smart Buttons in 2025 is the about:blank flash + never-closing popup finally dead?😞](https://dev.to/vidakhoshpey22/paypal-smart-buttons-in-2025-is-the-aboutblank-flash-never-closing-popup-finally-dead-584j)
-- [Google&#39;s December 2025 Core Update Hit Your E-commerce Site: Here&#39;s What Actually Changed](https://dev.to/synergistdigitalmedia/googles-december-2025-core-update-hit-your-e-commerce-site-heres-what-actually-changed-4ef8)
-- [Crack in background as you scroll](https://dev.to/preetha_vaishnavi_2b82358/crack-in-background-as-you-scroll-3d9b)
+- [ED ES Template vouchers](https://dev.to/preetha_vaishnavi_2b82358/ed-es-template-vouchers-3dgf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
