@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [You&#39;re NOT doing everything wrong](https://dev.to/acoh3n/youre-not-doing-everything-wrong-4l5n)
+- [FileInsta — A Fast &amp; Free Online File Compressor Built for Developers and Creators](https://dev.to/abhiuday_maurya_083f33d4c/fileinsta-a-fast-free-online-file-compressor-built-for-developers-and-creators-31cn)
+- [🚨 PSA for Flutter Developers Using Rive Animations: Fixing Google Play’s New 16KB Page Size Error](https://dev.to/uianimation/psa-for-flutter-developers-using-rive-animations-fixing-google-plays-new-16kb-page-size-error-lnd)
 - [🧠Veterinary AI Workflow with OrKa: Specialist Orchestration, Structured JSON Input, and Observable Reasoning](https://dev.to/marcosomma/veterinary-ai-workflow-with-orka-specialist-orchestration-structured-json-input-and-observable-2hho)
 - [Salisbury Drug Crisis](https://dev.to/thenorthcarolinabeat/salisbury-drug-crisis-47ng)
-- [How to Debug LLM Failures: A Practical, End-to-End Guide for AI Engineers](https://dev.to/kuldeep_paul/how-to-debug-llm-failures-a-practical-end-to-end-guide-for-ai-engineers-12i6)
-- [Agentic Entity Resolution for Messy Product Data](https://dev.to/frendhisaido/agentic-entity-resolution-for-messy-product-data-3ce4)
-- [Concrete Whispers: Decoding Infrastructure&#39;s Silent Distress Calls with AI by Arvind Sundararajan](https://dev.to/arvind_sundararajan/concrete-whispers-decoding-infrastructures-silent-distress-calls-with-ai-by-arvind-sundararajan-5f7h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
