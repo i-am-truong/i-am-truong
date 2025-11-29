@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Nano Banana 2](https://dev.to/leo_king_25a8aa998a261145/nano-banana-2-4ahf)
+- [A Financial MCP server with multi-provider orchestration &lpar;Open Source&rpar;](https://dev.to/kiarashplusplus/a-financial-mcp-server-with-multi-provider-orchestration-open-source-dob)
+- [The Catch-22 of programming](https://dev.to/gtanyware/the-catch-22-of-programming-2e1p)
+- [Free tool to remove watermarks from AI images, 100% private](https://dev.to/jawuilp/free-tool-to-remove-watermarks-from-ai-images-100-private-1pf4)
 - [My Journey to Becoming a Newly Promoted Senior Software Engineer](https://dev.to/serifcolakel/my-journey-to-becoming-a-newly-promoted-senior-software-engineer-45ie)
-- [The Brain&#39;s Visual Resilience: How We Compensate for Imperfections and Blue Light Shapes Our World](https://dev.to/buysellshop/the-brains-visual-resilience-how-we-compensate-for-imperfections-and-blue-light-shapes-our-world-143m)
-- [DNS Demystified: How It Works, Why Hackers Target It &amp; How DNS Hijacking Really Happens](https://dev.to/sudiip__17/dns-demystified-how-it-works-why-hackers-target-it-how-dns-hijacking-really-happens-24mn)
-- [📝 Top AI Tools for Writing in 2025 &lpar;That Actually Make You Write Better&rpar;](https://dev.to/ailon_tech_29dfe73d5236e2/top-ai-tools-for-writing-in-2025-that-actually-make-you-write-better-254m)
-- [Hardware vs Software: Which One Really Came First?](https://dev.to/usama_dev/hardware-vs-software-which-one-really-came-first-2ohg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
