@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Vibe Tax: How Unvalidated AI Code Is Flooding the Market and Driving Up Technical Debt](https://dev.to/alikarbasicom/the-vibe-tax-how-unvalidated-ai-code-is-flooding-the-market-and-driving-up-technical-debt-4g9n)
-- [How I Balance My Finances While Learning Coding on DEV](https://dev.to/josef_ayala_f511885b5b6150/how-i-balance-my-finances-while-learning-coding-on-dev-4f9m)
-- [I Learn Better Visually, So I Made a ReactJS Mindmap](https://dev.to/the_studyhub_bd3af319bcf/i-learn-better-visually-so-i-made-a-reactjs-mindmap-57ma)
-- [How to Create a Countdown Timer in Python?](https://dev.to/codingstreets/how-to-create-a-countdown-timer-in-python-k5g)
-- [DeployEase Performance Upgrades: Task Queuing and Smart Caching for Faster AWS Deployments](https://dev.to/alikhan-devs/deployease-performance-upgrades-task-queuing-and-smart-caching-for-faster-aws-deployments-4j81)
+- [Python Countdown Timer Tuorial: Step by Step Guide](https://dev.to/codingstreets/python-countdown-timer-tuorial-step-by-step-guide-43kp)
+- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-34p5)
+- [Python on Ubuntu: Installation, Setup, and First Steps](https://dev.to/pablojavierjimenez/python-on-ubuntu-installation-setup-and-first-steps-27dk)
+- [Hey There! this is my first blog.](https://dev.to/infinity_mindset_915125da/hey-there-this-is-my-first-blog-3ga1)
+- [LogInSight: A Lightweight CloudWatch Log Analytics Tool for Faster Debugging and Real-Time Insights](https://dev.to/sanjaydot/loginsight-a-lightweight-cloudwatch-log-analytics-tool-for-faster-debugging-and-real-time-insights-344m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
