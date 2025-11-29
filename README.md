@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Simple, Popular Game &quot;2048&quot;: Deployed on AWS EKS with Fargate](https://dev.to/sindhurteja/a-simple-popular-game-2048-deployed-on-aws-eks-with-fargate-2jj7)
+- [Adding Config File](https://dev.to/alcb1310/adding-config-file-58ch)
 - [Trapping Rain Water](https://dev.to/we_are_broken_compilers/trapping-rain-water-hin)
+- [How to set up Database Integration Tests in vanilla PHP](https://dev.to/filisko/how-to-set-up-database-integration-tests-in-vanilla-php-ge9)
 - [How God Lifts You When You’ve Run Out of Strength to Lift Yourself](https://dev.to/douglasvandergraph/how-god-lifts-you-when-youve-run-out-of-strength-to-lift-yourself-46mm)
-- [Solving Frontend-Lambda Timeout Issues with AppSync Asynchronous Execution](https://dev.to/ismailg/solving-frontend-lambda-timeout-issues-with-appsync-asynchronous-execution-2p93)
-- [From Vibe Coding to Production: Bridging the Gap Between AI Prototypes and Real Systems](https://dev.to/flinstonedev/from-vibe-coding-to-production-bridging-the-gap-between-ai-prototypes-and-real-systems-53h9)
-- [[Boost]](https://dev.to/devadetayo/-5f5j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
