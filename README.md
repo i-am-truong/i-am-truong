@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Micro-Frontends with React Router v7 RSC and Module Federation](https://dev.to/gt_hironobu_fc367732cd350/building-micro-frontends-with-react-router-v7-rsc-and-module-federation-ajk)
-- [Complete Guide to OpenWrt in VirtualBox: Setup and Disk Expansion](https://dev.to/ahaoboy/complete-guide-to-openwrt-in-virtualbox-setup-and-disk-expansion-1fe2)
-- [Connection-Management-Art-The-Performance-Secrets-of-Low-Level-Architecture](https://dev.to/member_8455d9df/connection-management-art-the-performance-secrets-of-low-level-architecture-28kg)
-- [Analog Clock](https://dev.to/preetha_vaishnavi_2b82358/analog-clock-5727)
-- [share.pay](https://dev.to/preetha_vaishnavi_2b82358/sharepay-4o4b)
+- [LogoDash: Make a &quot;Just Right&quot; Logo/favicon for Faster Launches](https://dev.to/huayemao/logodash-make-a-just-right-logofavicon-for-faster-launches-5cle)
+- [How to Use Trigonometry to Detect Regime Changes in Financial Markets](https://dev.to/ctj01/how-to-use-trigonometry-to-detect-regime-changes-in-financial-markets-32k2)
+- [AWS Terraform Project Structure Best Practices](https://dev.to/adarsh_gupta_c5fecf658fd7/aws-terraform-project-structure-best-practices-1mjl)
+- [AWS Terraform Project Structure | Best Practices](https://dev.to/adarsh_gupta_c5fecf658fd7/aws-terraform-project-structure-best-practices-3f2j)
+- [THE PATTERN, THE OPERATOR, AND THE COST: A Behavioral Framework for Anticipatory Defense Against Adversarial Threats](https://dev.to/findingverity/the-pattern-the-operator-and-the-cost-a-behavioral-framework-for-anticipatory-defense-against-5en8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
