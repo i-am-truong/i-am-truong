@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What are the Programming Languages?](https://dev.to/aj_arul/what-are-the-programming-languages-4kj8)
-- [Importance of a Feasibility Study in Project Management](https://dev.to/writegenic/importance-of-a-feasibility-study-in-project-management-34hb)
-- [Setting Up VS Code SSH Remote Development on OpenWrt](https://dev.to/ahaoboy/setting-up-vs-code-ssh-remote-development-on-openwrt-42mb)
-- [Optimizing SVGs for Web Performance &amp; Scalability in 2025](https://dev.to/frontendtoolstech/optimizing-svgs-for-web-performance-scalability-in-2025-3df2)
-- [SmartKNN: An Interpretable Weighted Distance Framework for K-Nearest Neighbours](https://dev.to/jashwanth_thatipamula_8ee/smartknn-an-interpretable-weighted-distance-framework-for-k-nearest-neighbours-nd5)
+- [How to Upgrade to Prisma v7?](https://dev.to/manujdixit/how-to-upgrade-to-prisma-v7-zero-confusion-guide-2ljd)
+- [I wanted to code from my phone with Claude code](https://dev.to/oxonomy/i-wanted-to-code-from-my-phone-with-claude-code-31c0)
+- [Introducing SAGEWORKS AI A Temporal &amp; Network-Native Framework for Next-Generation Computational Systems](https://dev.to/peacebinflow-labs/introducing-sageworks-ai-a-temporal-network-native-framework-for-next-generation-computational-4d8c)
+- [Just submitted MeetSpot to the Kiro Hackathon! 🚀](https://dev.to/jasonrobertdestiny/just-submitted-meetspot-to-the-kiro-hackathon-k75)
+- [Predictions for AI Developments by the End of 2027](https://dev.to/hemanth_suresh_d8fd79da4b/predictions-for-ai-developments-by-the-end-of-2027-3dpb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
