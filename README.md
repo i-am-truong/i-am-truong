@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Concrete Whispers: Decoding Infrastructure&#39;s Silent Distress Calls with AI by Arvind Sundararajan](https://dev.to/arvind_sundararajan/concrete-whispers-decoding-infrastructures-silent-distress-calls-with-ai-by-arvind-sundararajan-5f7h)
+- [NumPy Labs: Minkowski Distance, Image Edge Detection, and Array Reshaping for Data Science](https://dev.to/labex/numpy-labs-minkowski-distance-image-edge-detection-and-array-reshaping-for-data-science-5cgl)
+- [The Hidden Tax on Traders: Is Your Broker Sabotaging You?](https://dev.to/stock_expertai_5eafb5be7/the-hidden-tax-on-traders-is-your-broker-sabotaging-you-5bn)
 - [The New Casino: Wall Street&#39;s High-Stakes Gambling Epidemic](https://dev.to/stock_expertai_5eafb5be7/the-new-casino-wall-streets-high-stakes-gambling-epidemic-37f)
 - [The New Age of JSON Formatting — Faster, Cleaner, Smarter](https://dev.to/bugblitz98/the-new-age-of-json-formatting-faster-cleaner-smarter-2gnn)
-- [A Simple, Popular Game &quot;2048&quot;: Deployed on AWS EKS with Fargate](https://dev.to/sindhurteja/a-simple-popular-game-2048-deployed-on-aws-eks-with-fargate-2jj7)
-- [3512. Minimum Operations to Make Array Sum Divisible by K](https://dev.to/mdarifulhaque/3512-minimum-operations-to-make-array-sum-divisible-by-k-43e6)
-- [Adding Config File](https://dev.to/alcb1310/adding-config-file-58ch)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
