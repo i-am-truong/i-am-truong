@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Create Your First Mitsuki REST API from Scratch](https://dev.to/david_landup/how-to-create-your-first-mitsuki-api-from-scratch-4g09)
-- [The CloudAIoT 3-Layer Reference Architecture](https://dev.to/taniyama/the-cloudaiot-3-layer-reference-architecture-3kg4)
-- [Why Docker Is Not Truly Native on Windows and macOS](https://dev.to/faizanfirdousi/why-docker-is-not-truly-native-on-windows-and-macos-2af1)
-- [Stop Using “?” Everywhere! Use `Omit` &lpar; i.e. Utility Types&rpar; for Safer TypeScript](https://dev.to/hossain45/stop-using-everywhere-use-omit-utility-types-for-safer-typescript-3gd9)
-- [OpenWRT, ByeByeDPI и WinDivert: Охота на Magic Cookie STUN — Блокировка WhatsApp в РФ, как ее обойти?](https://dev.to/ad_layer_4acdca7d59ff763f/openwrt-byebyedpi-i-windivert-okhota-na-magic-cookie-stun-blokirovka-whatsapp-v-rf-kak-ieie-412k)
+- [A Secret-Scoped Semantic Value That Can Be “Pulled” Into a Public Block Without Revealing Its Origin](https://dev.to/suign/a-secret-scoped-semantic-value-that-can-be-pulled-into-a-public-block-without-revealing-its-origin-5hi0)
+- [A Day With Perplexity’s Comet AI Browser: Time-Saver or Hype?](https://dev.to/aiwithapex/a-day-with-perplexitys-comet-ai-browser-time-saver-or-hype-5h4p)
+- [The €15,000 Contract Mistake That Almost Sank My Client&#39;s Deal](https://dev.to/tracksimple/the-eu15000-contract-mistake-that-almost-sank-my-clients-deal-5dpe)
+- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-1oef)
+- [Mr Sunday Movies: The Sorcerer&#39;s Apprentice - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-sorcerers-apprentice-caravan-of-garbage-31p4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
