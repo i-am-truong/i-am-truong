@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weightless Code: My 7-Day Experiment with Google Antigravity](https://dev.to/naresh_007/weightless-code-my-7-day-experiment-with-google-antigravity-9g5)
+- [Mastering Conventional Commits](https://dev.to/tenelabs/mastering-conventional-commits-2ao7)
 - [The Future of WordPress Development in 2025: Trends, Tools, and Best Practices](https://dev.to/mdjahidbinsabit/the-future-of-wordpress-development-in-2025-trends-tools-and-best-practices-51c5)
 - [Latest Updates in Vue](https://dev.to/ibrahim_zbib_9806de6128af/latest-updates-in-vue-3p38)
-- [Google&#39;s Antigravity Hacked in 24 Hours: Why AI Agents Need a New Security Architecture](https://dev.to/hofong428/googles-antigravity-hacked-in-24-hours-why-ai-agents-need-a-new-security-architecture-5bo5)
-- [Rick Beato: I Never Realized This Beatles Song Was Played Like This](https://dev.to/music_youtube/rick-beato-i-never-realized-this-beatles-song-was-played-like-this-59p9)
-- [Algorithmic Audio Workflows: From Source Separation to Generative Synthesis](https://dev.to/kokis_jorge_f43c7beb9b951/algorithmic-audio-workflows-from-source-separation-to-generative-synthesis-4mml)
+- [Monetzly: Your Path to AI Monetization for LLM Apps](https://dev.to/monetzly/monetzly-your-path-to-ai-monetization-for-llm-apps-64m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
