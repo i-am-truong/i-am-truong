@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Guide to Mitsuki Repositories: From Zero to Full CRUD](https://dev.to/david_landup/guide-to-mitsuki-repositories-from-zero-to-full-crud-59n6)
-- [Automating Daily Tasks with systemd Timers: A Practical Guide Using Python](https://dev.to/mahinshanazeer/automating-daily-tasks-with-systemd-timers-a-practical-guide-using-python-1bhm)
-- [A Single Dork to Understand Your Infrastructure: Asset Exposure &amp; Configuration Profiling](https://dev.to/rrrowan/a-single-dork-to-understand-your-infrastructure-asset-exposure-configuration-profiling-4j0k)
-- [Filecnv — Fast, Private, and Secure Image Processing in the Browser](https://dev.to/cismic/filecnv-fast-private-and-secure-image-processing-in-the-browser-33dh)
-- [A Secret-Scoped Semantic Value That Can Be “Pulled” Into a Public Block Without Revealing Its Origin](https://dev.to/suign/a-secret-scoped-semantic-value-that-can-be-pulled-into-a-public-block-without-revealing-its-origin-5hi0)
+- [Build Linera dApps Fast with This Next.js Template](https://dev.to/kirodotdev/build-linera-dapps-fast-with-this-nextjs-template-4ih7)
+- [The Wonders of Cosmic Physics: From Black Holes to Dark Matter](https://dev.to/sydne_sloan_8e7fc123adf2b/the-wonders-of-cosmic-physics-from-black-holes-to-dark-matter-3k5)
+- [PYTHON ESSENTIALS FOR AI/ML&lpar;Error Handling&rpar;](https://dev.to/m_t_ramkrushna/python-essentials-for-aimlvirtual-environments-19pg)
+- [How Insertion Sort Works: Simplified Explanation](https://dev.to/saptarshisarkar/how-insertion-sort-works-simplified-explanation-232i)
+- [Part 1: Built an Agentforce Agent — Here’s What I Learned So You Don’t Repeat these Mistakes](https://dev.to/nidhi_sharma_d5c7d974d2df/part-1-built-an-agentforce-agent-heres-what-i-learned-so-you-dont-repeat-these-mistakes-38lf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
