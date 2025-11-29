@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Java &gt; Python for AI Agents? I Built a Surf-Forecasting Agent to Find Out](https://dev.to/phouchens/java-python-for-ai-agents-i-built-a-surf-forecasting-agent-to-find-out-5aca)
-- [Async-Programming-New-Era](https://dev.to/member_34349a73/async-programming-new-era-401c)
-- [Local LLM Hosting: Complete 2025 Guide - Ollama, vLLM, LocalAI, Jan, LM Studio &amp; More](https://dev.to/rosgluk/local-llm-hosting-complete-2025-guide-ollama-vllm-localai-jan-lm-studio-more-1dcl)
-- [Beyond the Pinch: Unlock New Robotic Dexterity with Hybrid Gripping](https://dev.to/arvind_sundararajan/beyond-the-pinch-unlock-new-robotic-dexterity-with-hybrid-gripping-pf1)
-- [Monetzly: The AI Monetization Tool for LLM App Developers](https://dev.to/monetzly/monetzly-the-ai-monetization-tool-for-llm-app-developers-jo0)
+- [AI in Medicine: A Physician–Engineer’s Perspective on the Future of Healthcare](https://dev.to/alireza_minagar_99f01ecb6/ai-in-medicine-a-physician-engineers-perspective-on-the-future-of-healthcare-8gm)
+- [📁Kubernetes Project Folder Structure](https://dev.to/itsmecharan7/kubernetes-project-folder-structure-32ai)
+- [Async-Revolution-The-New-Paradigm-of-High-Concurrency-Programming](https://dev.to/member_8455d9df/async-revolution-the-new-paradigm-of-high-concurrency-programming-ggf)
+- [Dev-Experience-Glorious-Transformation](https://dev.to/member_34349a73/dev-experience-glorious-transformation-1je1)
+- [How Does Gemini 3 Process Our Queries?](https://dev.to/nube_colectiva_nc/how-does-gemini-3-process-our-queries-424)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
