@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Is copy-pasting from the clipboard in Vim broken for you on Wayland?](https://dev.to/svhl/is-copy-pasting-from-the-clipboard-in-vim-broken-for-you-on-wayland-3lgi)
+- [Why Mixup Works &lpar;Even When It Blends Everything Into Goo&rpar;](https://dev.to/aniket_kuyate_15acc4e6587/why-mixup-works-even-when-it-blends-everything-into-goo-25g1)
 - [AI in Medicine: A Physician–Engineer’s Perspective on the Future of Healthcare](https://dev.to/alireza_minagar_99f01ecb6/ai-in-medicine-a-physician-engineers-perspective-on-the-future-of-healthcare-8gm)
 - [📁Kubernetes Project Folder Structure](https://dev.to/itsmecharan7/kubernetes-project-folder-structure-32ai)
-- [Async-Revolution-The-New-Paradigm-of-High-Concurrency-Programming](https://dev.to/member_8455d9df/async-revolution-the-new-paradigm-of-high-concurrency-programming-ggf)
 - [Dev-Experience-Glorious-Transformation](https://dev.to/member_34349a73/dev-experience-glorious-transformation-1je1)
-- [How Does Gemini 3 Process Our Queries?](https://dev.to/nube_colectiva_nc/how-does-gemini-3-process-our-queries-424)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
