@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Terminal Efficiency Unleashed: Meet the Textual TUI for Winget for Windows](https://dev.to/sudhanshuambastha/terminal-efficiency-unleashed-meet-the-textual-tui-for-winget-for-windows-2joj)
-- [🚀 ImgPeek — Fast and Easy Image Hosting for Developers](https://dev.to/zororaka/imgpeek-fast-and-easy-image-hosting-for-developers-plb)
-- [[설계, 기록] 기업별 아키텍처 , 사례연구](https://dev.to/shingyeongseon/siseutem-seolgye-gasang-myeonjeob-saryero-baeuneun-daegyumo-siseutem-seolgye-gico-pilsu-camgojaryo-moeum-1fjp)
-- [Imagination Engine: AI, Creativity, and the Art of the Future](https://dev.to/abhishekdesikan/imagination-engine-ai-creativity-and-the-art-of-the-future-59h2)
-- [I got a new Mac, what do I install?](https://dev.to/thelazyindiantechie/i-got-a-new-mac-what-do-i-install-3kba)
+- [Shai Hulud Scanner](https://dev.to/garciadiazjaime/shai-hulud-scanner-30nd)
+- [Find my umbrella with getBBox&lpar;&rpar;](https://dev.to/preetha_vaishnavi_2b82358/find-my-umbrella-with-getbbox-dlb)
+- [Umbrella](https://dev.to/preetha_vaishnavi_2b82358/umbrella-31dh)
+- [Daily Tech News Roundup - 2025-11-29](https://dev.to/atharvshinde2004/daily-tech-news-roundup-2025-11-29-30ob)
+- [A man with umbrella in a rainy day](https://dev.to/preetha_vaishnavi_2b82358/a-man-with-umbrella-in-a-rainy-day-4ik8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
