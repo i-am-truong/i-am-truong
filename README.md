@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SmartKNN: An Interpretable Weighted Distance Framework for K-Nearest Neighbours](https://dev.to/jashwanth_thatipamula_8ee/smartknn-an-interpretable-weighted-distance-framework-for-k-nearest-neighbours-nd5)
+- [Mastering Terraform File Structure – From Chaos to Clean Architecture](https://dev.to/patil_sai/mastering-terraform-file-structure-from-chaos-to-clean-architecture-3oof)
 - [LogoDash: Make a &quot;Just Right&quot; Logo/favicon for Faster Launches](https://dev.to/huayemao/logodash-make-a-just-right-logofavicon-for-faster-launches-5cle)
 - [How to Use Trigonometry to Detect Regime Changes in Financial Markets](https://dev.to/ctj01/how-to-use-trigonometry-to-detect-regime-changes-in-financial-markets-32k2)
 - [AWS Terraform Project Structure Best Practices](https://dev.to/adarsh_gupta_c5fecf658fd7/aws-terraform-project-structure-best-practices-1mjl)
-- [AWS Terraform Project Structure | Best Practices](https://dev.to/adarsh_gupta_c5fecf658fd7/aws-terraform-project-structure-best-practices-3f2j)
-- [THE PATTERN, THE OPERATOR, AND THE COST: A Behavioral Framework for Anticipatory Defense Against Adversarial Threats](https://dev.to/findingverity/the-pattern-the-operator-and-the-cost-a-behavioral-framework-for-anticipatory-defense-against-5en8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
