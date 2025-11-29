@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My Journey to Becoming a Newly Promoted Senior Software Engineer](https://dev.to/serifcolakel/my-journey-to-becoming-a-newly-promoted-senior-software-engineer-45ie)
+- [The Brain&#39;s Visual Resilience: How We Compensate for Imperfections and Blue Light Shapes Our World](https://dev.to/buysellshop/the-brains-visual-resilience-how-we-compensate-for-imperfections-and-blue-light-shapes-our-world-143m)
+- [DNS Demystified: How It Works, Why Hackers Target It &amp; How DNS Hijacking Really Happens](https://dev.to/sudiip__17/dns-demystified-how-it-works-why-hackers-target-it-how-dns-hijacking-really-happens-24mn)
+- [📝 Top AI Tools for Writing in 2025 &lpar;That Actually Make You Write Better&rpar;](https://dev.to/ailon_tech_29dfe73d5236e2/top-ai-tools-for-writing-in-2025-that-actually-make-you-write-better-254m)
 - [Hardware vs Software: Which One Really Came First?](https://dev.to/usama_dev/hardware-vs-software-which-one-really-came-first-2ohg)
-- [ASA: The First Architecture Built for the AI-Coding Era](https://dev.to/vibecodiq/asa-the-first-architecture-built-for-the-ai-coding-era-3g2k)
-- [# A Clear Difference Between IPv4 and IPv6—and How They Work](https://dev.to/sudiip__17/-a-clear-difference-between-ipv4-and-ipv6-and-how-they-work-29p2)
-- [Error-Handling-Revolution-Making-System-Crashes-a-Thing-of-the-Past](https://dev.to/member_8455d9df/error-handling-revolution-making-system-crashes-a-thing-of-the-past-1bji)
-- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-5egl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
