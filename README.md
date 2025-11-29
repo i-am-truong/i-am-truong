@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [When Kafka Goes Kaiju: Building Monster-Scale Streaming Architectures](https://dev.to/sambo2021/when-kafka-goes-kaiju-building-monster-scale-streaming-architectures-3ccp)
+- [SpamRescue AI : Kiroween Hackathon](https://dev.to/anuj846k/spamrescue-ai-kiroween-hackathon-67l)
+- [DynamoDB Race Conditions: Why Your Cache Is Burning Money](https://dev.to/iamujjwalsinha/dynamodb-race-conditions-why-your-cache-is-burning-money-44c2)
+- [Flutter: Essential widgets](https://dev.to/wps13/flutter-essential-widgets-55gc)
 - [The Hidden Payment Token Revolution](https://dev.to/asadbukhari/the-hidden-payment-token-revolution-4cfl)
-- [The Way Forward for Automation Testers in the Age of AI](https://dev.to/godhirajcode/the-way-forward-for-automation-testers-in-the-age-of-ai-1f51)
-- [Mastering Climbing Protection: A Beginner’s Guide to Safe Ascents](https://dev.to/cesar12/mastering-climbing-protection-a-beginners-guide-to-safe-ascents-1h6c)
-- [How to Use Amazon SNS Data Protection Policies to Prevent Sensitive Data Leakage](https://dev.to/aws-builders/how-to-use-amazon-sns-data-protection-policies-to-prevent-sensitive-data-leakage-1dgn)
-- [Comparison of strings is case-sensitive](https://dev.to/onaolapo11/comparison-of-strings-is-case-sensitive-4ml2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
