@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Shai Hulud Scanner](https://dev.to/garciadiazjaime/shai-hulud-scanner-30nd)
-- [Find my umbrella with getBBox&lpar;&rpar;](https://dev.to/preetha_vaishnavi_2b82358/find-my-umbrella-with-getbbox-dlb)
-- [Umbrella](https://dev.to/preetha_vaishnavi_2b82358/umbrella-31dh)
-- [Daily Tech News Roundup - 2025-11-29](https://dev.to/atharvshinde2004/daily-tech-news-roundup-2025-11-29-30ob)
-- [A man with umbrella in a rainy day](https://dev.to/preetha_vaishnavi_2b82358/a-man-with-umbrella-in-a-rainy-day-4ik8)
+- [Why Docker Is Not Truly Native on Windows and macOS](https://dev.to/faizanfirdousi/why-docker-is-not-truly-native-on-windows-and-macos-2af1)
+- [Stop Using “?” Everywhere! Use `Omit` &lpar; i.e. Utility Types&rpar; for Safer TypeScript](https://dev.to/hossain45/stop-using-everywhere-use-omit-utility-types-for-safer-typescript-3gd9)
+- [OpenWRT, ByeByeDPI и WinDivert: Охота на Magic Cookie STUN — Блокировка WhatsApp в РФ, как ее обойти?](https://dev.to/ad_layer_4acdca7d59ff763f/openwrt-byebyedpi-i-windivert-okhota-na-magic-cookie-stun-blokirovka-whatsapp-v-rf-kak-ieie-412k)
+- [Introducing Mitsuki - Spring Boot Enterprise Patterns and Speed with Python&#39;s Flexibility](https://dev.to/david_landup/introducing-mitsuki-spring-boot-enterprise-patterns-and-speed-with-pythons-flexibility-5e77)
+- [Beyond Stacked Layers: The Limitations of Traditional Deep Learning Architecture](https://dev.to/mabualzait/beyond-stacked-layers-the-limitations-of-traditional-deep-learning-architecture-27jf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
