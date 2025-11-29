@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Build Production AI Agents with Managed Long-Term Memory](https://dev.to/elizabethfuentes12/build-production-ai-agents-with-managed-long-term-memory-2jm)
-- [Why do you fall in love with your AI ? Welcome to the era of anthropomorphism](https://dev.to/s44d/why-do-you-fall-in-love-with-your-ai-welcome-to-the-era-of-anthropomorphism-53k3)
-- [Stop Copy-Pasting Into Google Translate: Automate React i18n in 5 Minutes](https://dev.to/shipi18n/stop-copy-pasting-into-google-translate-automate-react-i18n-in-5-minutes-18ol)
-- [Building a Horror Meditation App in 4 Hours with Kiro: A Frankenstein Story](https://dev.to/kishorramani/building-a-horror-meditation-app-in-4-hours-with-kiro-a-frankenstein-story-3p7k)
-- [Unified-Programming-Model-The-Art-of-Seamless-Protocol-Fusion](https://dev.to/member_8455d9df/unified-programming-model-the-art-of-seamless-protocol-fusion-50fo)
+- [Java &gt; Python for AI Agents? I Built a Surf-Forecasting Agent to Find Out](https://dev.to/phouchens/java-python-for-ai-agents-i-built-a-surf-forecasting-agent-to-find-out-5aca)
+- [Async-Programming-New-Era](https://dev.to/member_34349a73/async-programming-new-era-401c)
+- [Local LLM Hosting: Complete 2025 Guide - Ollama, vLLM, LocalAI, Jan, LM Studio &amp; More](https://dev.to/rosgluk/local-llm-hosting-complete-2025-guide-ollama-vllm-localai-jan-lm-studio-more-1dcl)
+- [Beyond the Pinch: Unlock New Robotic Dexterity with Hybrid Gripping](https://dev.to/arvind_sundararajan/beyond-the-pinch-unlock-new-robotic-dexterity-with-hybrid-gripping-pf1)
+- [Monetzly: The AI Monetization Tool for LLM App Developers](https://dev.to/monetzly/monetzly-the-ai-monetization-tool-for-llm-app-developers-jo0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
