@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Build Embedded Debian Web Runtime with the Power of Isar](https://dev.to/janihau/build-embedded-debian-web-runtime-with-the-power-of-isar-150a)
+- [Why I killed my SaaS subscription model &lpar;$12/mo&rpar; and switched to a Lifetime Deal](https://dev.to/ethannoww/why-i-killed-my-saas-subscription-model-12mo-and-switched-to-a-lifetime-deal-3p50)
+- [Kohaku: A Practical Privacy Framework for Ethereum Wallets](https://dev.to/codebyankita/kohaku-a-practical-privacy-framework-for-ethereum-wallets-4aof)
+- [Frontier LLMs: Their Strengths and Pitfalls](https://dev.to/rod_schneider/frontier-llms-their-strengths-and-pitfalls-2m48)
 - [Kashmir Trek: In-Depth Information on Routes &amp; Difficulty](https://dev.to/tasinnew22/kashmir-trek-in-depth-information-on-routes-difficulty-3ja8)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-59gl)
-- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-4090)
-- [Brand Refresh to Revenue: Using SEO-Driven Graphic Design for Growth](https://dev.to/hollowcore/brand-refresh-to-revenue-using-seo-driven-graphic-design-for-growth-3na0)
-- [Sector HQ Weekly Digest - November 29, 2025](https://dev.to/sectorhqco/sector-hq-weekly-digest-november-29-2025-3g5h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
