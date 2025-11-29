@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The New Casino: Wall Street&#39;s High-Stakes Gambling Epidemic](https://dev.to/stock_expertai_5eafb5be7/the-new-casino-wall-streets-high-stakes-gambling-epidemic-37f)
+- [The New Age of JSON Formatting — Faster, Cleaner, Smarter](https://dev.to/bugblitz98/the-new-age-of-json-formatting-faster-cleaner-smarter-2gnn)
 - [A Simple, Popular Game &quot;2048&quot;: Deployed on AWS EKS with Fargate](https://dev.to/sindhurteja/a-simple-popular-game-2048-deployed-on-aws-eks-with-fargate-2jj7)
+- [3512. Minimum Operations to Make Array Sum Divisible by K](https://dev.to/mdarifulhaque/3512-minimum-operations-to-make-array-sum-divisible-by-k-43e6)
 - [Adding Config File](https://dev.to/alcb1310/adding-config-file-58ch)
-- [Trapping Rain Water](https://dev.to/we_are_broken_compilers/trapping-rain-water-hin)
-- [How to set up Database Integration Tests in vanilla PHP](https://dev.to/filisko/how-to-set-up-database-integration-tests-in-vanilla-php-ge9)
-- [How God Lifts You When You’ve Run Out of Strength to Lift Yourself](https://dev.to/douglasvandergraph/how-god-lifts-you-when-youve-run-out-of-strength-to-lift-yourself-46mm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
