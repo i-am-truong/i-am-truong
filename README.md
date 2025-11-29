@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Adding Swagger to Your Go API](https://dev.to/rosgluk/adding-swagger-to-your-go-api-2o65)
+- [COMPLETE GITLAB CI/CD SPECIFICATION](https://dev.to/harshm03/complete-gitlab-cicd-specification-5cj0)
+- [Exploring the Elegance of Fashion Boutiques Online](https://dev.to/houseofsiyaab/exploring-the-elegance-of-fashion-boutiques-online-3m53)
+- [🧠 Ceptre — The Rule-Based Language for Modeling Systems, Stories, and Simulation Logic](https://dev.to/viz-x/ceptre-the-rule-based-language-for-modeling-systems-stories-and-simulation-logic-bkb)
 - [How To Dissociate And Associate The Public IP Address Of Your Virtual Machine To Save Cost](https://dev.to/akintoye_gbenga/how-to-dissociate-the-public-ip-address-of-your-virtual-machine-to-save-cost-37jc)
-- [Using One Database for Two Apps: Should You Copy Your Models or Import Them?](https://dev.to/priyam_jain_f127ddf8c4d8d/using-one-database-for-two-apps-should-you-copy-your-models-or-import-them-6g5)
-- [Securing Agentic AI: authorization patterns for autonomous systems](https://dev.to/siddhantkcode/securing-agentic-ai-authorization-patterns-for-autonomous-systems-3ajo)
-- [Play-to-Earn Game Development: Investor&#39;s Complete Guide](https://dev.to/elanahayes_8840de44ea3bfd/play-to-earn-game-development-investors-complete-guide-ha7)
-- [ED ES Template vouchers](https://dev.to/preetha_vaishnavi_2b82358/ed-es-template-vouchers-3dgf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
