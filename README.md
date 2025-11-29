@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Terminal Efficiency Unleashed: Meet the Textual TUI for Winget for Windows](https://dev.to/sudhanshuambastha/terminal-efficiency-unleashed-meet-the-textual-tui-for-winget-for-windows-2joj)
+- [🚀 ImgPeek — Fast and Easy Image Hosting for Developers](https://dev.to/zororaka/imgpeek-fast-and-easy-image-hosting-for-developers-plb)
+- [[설계, 기록] 기업별 아키텍처 , 사례연구](https://dev.to/shingyeongseon/siseutem-seolgye-gasang-myeonjeob-saryero-baeuneun-daegyumo-siseutem-seolgye-gico-pilsu-camgojaryo-moeum-1fjp)
 - [I got a new Mac, what do I install?](https://dev.to/thelazyindiantechie/i-got-a-new-mac-what-do-i-install-3kba)
 - [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-1lam)
-- [Mr Sunday Movies: The Sorcerer&#39;s Apprentice - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-sorcerers-apprentice-caravan-of-garbage-3pa7)
-- [Mastering Dart Enums: From Basic Lists to Supercharged Classes](https://dev.to/javeedishaq/mastering-dart-enums-from-basic-lists-to-supercharged-classes-200e)
-- [A Decade of AI in K–12 Education: Evaluating Trends, Impact, and Classroom Integration](https://dev.to/svishwanathan01/a-decade-of-ai-in-k-12-education-evaluating-trends-impact-and-classroom-integration-1607)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
