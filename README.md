@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hardware vs Software: Which One Really Came First?](https://dev.to/usama_dev/hardware-vs-software-which-one-really-came-first-2ohg)
 - [ASA: The First Architecture Built for the AI-Coding Era](https://dev.to/vibecodiq/asa-the-first-architecture-built-for-the-ai-coding-era-3g2k)
 - [# A Clear Difference Between IPv4 and IPv6—and How They Work](https://dev.to/sudiip__17/-a-clear-difference-between-ipv4-and-ipv6-and-how-they-work-29p2)
 - [Error-Handling-Revolution-Making-System-Crashes-a-Thing-of-the-Past](https://dev.to/member_8455d9df/error-handling-revolution-making-system-crashes-a-thing-of-the-past-1bji)
 - [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-5egl)
-- [Kafka Election Storm](https://dev.to/chamathjayasekara99/kafka-election-storm-20ea)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
