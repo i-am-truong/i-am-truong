@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Day 05 - Why Terraform Variables are Essential for Efficient IaC](https://dev.to/andylovecloud/day-05-why-terraform-variables-are-essential-for-efficient-iac-3anj)
+- [30+ Free Online Tools for Developers &amp; Students – EasyTools.tech](https://dev.to/sarah_hassan_42b3c6a1cf69/30-free-online-tools-for-developers-students-easytoolstech-3nik)
+- [AWS Cloud Practitioner Questions | EC2 Fundamentals](https://dev.to/minoltan/aws-cloud-practitioner-questions-ec2-fundamentals-5d28)
 - [Build Embedded Debian Web Runtime with the Power of Isar](https://dev.to/janihau/build-embedded-debian-web-runtime-with-the-power-of-isar-150a)
-- [Why I killed my SaaS subscription model &lpar;$12/mo&rpar; and switched to a Lifetime Deal](https://dev.to/ethannoww/why-i-killed-my-saas-subscription-model-12mo-and-switched-to-a-lifetime-deal-3p50)
-- [Kohaku: A Practical Privacy Framework for Ethereum Wallets](https://dev.to/codebyankita/kohaku-a-practical-privacy-framework-for-ethereum-wallets-4aof)
-- [Frontier LLMs: Their Strengths and Pitfalls](https://dev.to/rod_schneider/frontier-llms-their-strengths-and-pitfalls-2m48)
+- [Beyond-env-A-Grown-Ups-Guide-to-Application-Configuration](https://dev.to/member_34349a73/beyond-env-a-grown-ups-guide-to-application-configuration-372j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
