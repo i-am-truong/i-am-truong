@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Simplify AWS CLI Login with IAM Identity Center](https://dev.to/kelso48/how-to-simplify-aws-cli-login-with-iam-identity-center-44ib)
-- [Browser Caching Explained: From Principles to Practice](https://dev.to/curry/browser-caching-explained-from-principles-to-practice-18cn)
-- [How to Delete Multiple Instagram Comments at Once with a JavaScript Script](https://dev.to/fedecroletti/how-to-delete-multiple-instagram-comments-at-once-with-a-javascript-script-2kdc)
-- [How to build an OTP input group with Tailwind CSS and Alpine.js](https://dev.to/mike_andreuzza/how-to-build-an-otp-input-group-with-tailwind-css-and-alpinejs-4bfb)
-- [I Built a 2KB React Alternative That Uses Zero Custom Syntax](https://dev.to/sathvikcheela/i-built-a-2kb-react-alternative-that-uses-zero-custom-syntax-mpl)
+- [Kashmir Trek: In-Depth Information on Routes &amp; Difficulty](https://dev.to/tasinnew22/kashmir-trek-in-depth-information-on-routes-difficulty-3ja8)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-59gl)
+- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-4090)
+- [Brand Refresh to Revenue: Using SEO-Driven Graphic Design for Growth](https://dev.to/hollowcore/brand-refresh-to-revenue-using-seo-driven-graphic-design-for-growth-3na0)
+- [Sector HQ Weekly Digest - November 29, 2025](https://dev.to/sectorhqco/sector-hq-weekly-digest-november-29-2025-3g5h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
