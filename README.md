@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Simplify AWS CLI Login with IAM Identity Center](https://dev.to/kelso48/how-to-simplify-aws-cli-login-with-iam-identity-center-44ib)
+- [Browser Caching Explained: From Principles to Practice](https://dev.to/curry/browser-caching-explained-from-principles-to-practice-18cn)
+- [How to Delete Multiple Instagram Comments at Once with a JavaScript Script](https://dev.to/fedecroletti/how-to-delete-multiple-instagram-comments-at-once-with-a-javascript-script-2kdc)
+- [How to build an OTP input group with Tailwind CSS and Alpine.js](https://dev.to/mike_andreuzza/how-to-build-an-otp-input-group-with-tailwind-css-and-alpinejs-4bfb)
 - [I Built a 2KB React Alternative That Uses Zero Custom Syntax](https://dev.to/sathvikcheela/i-built-a-2kb-react-alternative-that-uses-zero-custom-syntax-mpl)
-- [The Surron Light Bee: Revolutionizing Off-Road Riding or Just a Pricey Toy?](https://dev.to/murl_blze_71da1f6adc19b8b/the-surron-light-bee-revolutionizing-off-road-riding-or-just-a-pricey-toy-1ij9)
-- [Hybrid Grasping: The Next Leap in Robotic Dexterity](https://dev.to/arvind_sundararajan/hybrid-grasping-the-next-leap-in-robotic-dexterity-h94)
-- [🧰 PocketASM — A Minimal Assembly-Like Language for Tiny Handheld and Emulator CPUs](https://dev.to/viz-x/pocketasm-a-minimal-assembly-like-language-for-tiny-handheld-and-emulator-cpus-aj)
-- [Shitshell -- A shell for nerds](https://dev.to/yahiagaming495/shitshell-a-shell-for-nerds-30nh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
