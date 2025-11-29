@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [You&#39;re NOT doing everything wrong](https://dev.to/acoh3n/youre-not-doing-everything-wrong-4l5n)
-- [FileInsta — A Fast &amp; Free Online File Compressor Built for Developers and Creators](https://dev.to/abhiuday_maurya_083f33d4c/fileinsta-a-fast-free-online-file-compressor-built-for-developers-and-creators-31cn)
-- [🚨 PSA for Flutter Developers Using Rive Animations: Fixing Google Play’s New 16KB Page Size Error](https://dev.to/uianimation/psa-for-flutter-developers-using-rive-animations-fixing-google-plays-new-16kb-page-size-error-lnd)
-- [🧠Veterinary AI Workflow with OrKa: Specialist Orchestration, Structured JSON Input, and Observable Reasoning](https://dev.to/marcosomma/veterinary-ai-workflow-with-orka-specialist-orchestration-structured-json-input-and-observable-2hho)
-- [Salisbury Drug Crisis](https://dev.to/thenorthcarolinabeat/salisbury-drug-crisis-47ng)
+- [The Future of WordPress Development in 2025: Trends, Tools, and Best Practices](https://dev.to/mdjahidbinsabit/the-future-of-wordpress-development-in-2025-trends-tools-and-best-practices-51c5)
+- [Latest Updates in Vue](https://dev.to/ibrahim_zbib_9806de6128af/latest-updates-in-vue-3p38)
+- [Google&#39;s Antigravity Hacked in 24 Hours: Why AI Agents Need a New Security Architecture](https://dev.to/hofong428/googles-antigravity-hacked-in-24-hours-why-ai-agents-need-a-new-security-architecture-5bo5)
+- [Rick Beato: I Never Realized This Beatles Song Was Played Like This](https://dev.to/music_youtube/rick-beato-i-never-realized-this-beatles-song-was-played-like-this-59p9)
+- [Algorithmic Audio Workflows: From Source Separation to Generative Synthesis](https://dev.to/kokis_jorge_f43c7beb9b951/algorithmic-audio-workflows-from-source-separation-to-generative-synthesis-4mml)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
