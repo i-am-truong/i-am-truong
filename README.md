@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Go&#39;s Regexp is Slow. So I Built My Own - 3000x Faster](https://dev.to/kolkov/gos-regexp-is-slow-so-i-built-my-own-3000x-faster-3i6h)
-- [Your Database Isn’t a Teenager’s Bedroom: Why Privileges Actually Matter](https://dev.to/dorothy2019/your-database-isnt-a-teenagers-bedroom-why-privileges-actually-matter-4apo)
-- [From zero to $10M empire!” – Me &amp; my future yacht!](https://dev.to/victorion0/from-zero-to-10m-empire-in-one-day-me-my-future-yacht-38a3)
-- [From missed flight to mission: building a 24-hour reminder service on AWS](https://dev.to/elmaur1/from-missed-flight-to-mission-building-a-24-hour-reminder-service-on-aws-146g)
-- [Nano Banana 2](https://dev.to/leo_king_25a8aa998a261145/nano-banana-2-4ahf)
+- [Cercle: Weval - ON &lpar;Live Version&rpar; | Cercle Odyssey](https://dev.to/music_youtube/cercle-weval-on-live-version-cercle-odyssey-3obc)
+- [Struggling with Next.js 16 App Router? Migrate Faster &amp; Smarter](https://dev.to/dharmendra/struggling-with-nextjs-16-app-router-migrate-faster-smarter-248p)
+- [Day 15 of improving my Data Science skills](https://dev.to/sp_the_data_specialist/day-15-of-improving-my-data-science-skills-28ee)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-57ih)
+- [My Project 2: Building a Simple Memo App with Python + Streamlit](https://dev.to/ian_b838138a27a917398d181/my-project-2-building-a-simple-memo-app-with-python-streamlit-1k8g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
