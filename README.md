@@ -124,7 +124,7 @@ Python                   1 repo              █░░░░░░░░░░�
 - [Architecting for Efficiency and Reliability with Performance Testing at Scale](https://dev.to/elianalamhost/architecting-for-efficiency-and-reliability-with-performance-testing-at-scale-24no)
 - [Serverless MediaOps: Automating Video Workflows with AI on Amazon Web Services](https://dev.to/elianalamhost/serverless-mediaops-automating-video-workflows-with-ai-on-amazon-web-services-4gh0)
 - [Sanskritica: A Comprehensive Digital Resource for Exploring Sanskrit Built with Next.js and MongoDB](https://dev.to/sharmaricky/sanskritica-a-comprehensive-digital-resource-for-exploring-sanskrit-built-with-nextjs-and-mongodb-4471)
-- [Context-Optimized APIs: Designing MCP Servers for LLMs](https://dev.to/vaticnz/context-optimized-apis-designing-mcp-servers-for-llms-5gpk)
+- [AI Visibility Checking Tools](https://dev.to/babamanga/ai-visibility-checking-tools-1iam)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
