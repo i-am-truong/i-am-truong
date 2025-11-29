@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day F10: Nineteen and Hating Every Minute of It](https://dev.to/casperday11/day-f10-nineteen-and-hating-every-minute-of-it-2cme)
-- [SAP–TCS Expand Strategic Collaboration With New Enterprise-Grade IoT Security Push](https://dev.to/logicverse_2025/sap-tcs-expand-strategic-collaboration-with-new-enterprise-grade-iot-security-push-5a6j)
-- [Introducing dremioframe - A Pythonic DataFrame Interface for Dremio](https://dev.to/alexmercedcoder/introducing-dremioframe-a-pythonic-dataframe-interface-for-dremio-2m72)
-- [Building a Serverless Sales Analytics Platform with AI Insights for Under $10/Month](https://dev.to/aws-builders/building-a-serverless-sales-analytics-platform-with-ai-insights-for-under-10month-49g9)
-- [My Current Tech Stack in 2026](https://dev.to/kartik_patel/my-current-tech-stack-in-2026-2695)
+- [The Vibe Tax: How Unvalidated AI Code Is Flooding the Market and Driving Up Technical Debt](https://dev.to/alikarbasicom/the-vibe-tax-how-unvalidated-ai-code-is-flooding-the-market-and-driving-up-technical-debt-4g9n)
+- [How I Balance My Finances While Learning Coding on DEV](https://dev.to/josef_ayala_f511885b5b6150/how-i-balance-my-finances-while-learning-coding-on-dev-4f9m)
+- [I Learn Better Visually, So I Made a ReactJS Mindmap](https://dev.to/the_studyhub_bd3af319bcf/i-learn-better-visually-so-i-made-a-reactjs-mindmap-57ma)
+- [How to Create a Countdown Timer in Python?](https://dev.to/codingstreets/how-to-create-a-countdown-timer-in-python-k5g)
+- [DeployEase Performance Upgrades: Task Queuing and Smart Caching for Faster AWS Deployments](https://dev.to/alikhan-devs/deployease-performance-upgrades-task-queuing-and-smart-caching-for-faster-aws-deployments-4j81)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
