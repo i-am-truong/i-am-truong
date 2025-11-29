@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Become a Digital Marketing Expert with AI Automation: Learn Online from Suresh Das](https://dev.to/shrutika_shetty_61c7a3a4d/become-a-digital-marketing-expert-with-ai-automation-learn-online-from-suresh-das-3aea)
+- [I Built a 2KB React Alternative That Uses Zero Custom Syntax](https://dev.to/sathvikcheela/i-built-a-2kb-react-alternative-that-uses-zero-custom-syntax-mpl)
+- [The Surron Light Bee: Revolutionizing Off-Road Riding or Just a Pricey Toy?](https://dev.to/murl_blze_71da1f6adc19b8b/the-surron-light-bee-revolutionizing-off-road-riding-or-just-a-pricey-toy-1ij9)
+- [Hybrid Grasping: The Next Leap in Robotic Dexterity](https://dev.to/arvind_sundararajan/hybrid-grasping-the-next-leap-in-robotic-dexterity-h94)
+- [🧰 PocketASM — A Minimal Assembly-Like Language for Tiny Handheld and Emulator CPUs](https://dev.to/viz-x/pocketasm-a-minimal-assembly-like-language-for-tiny-handheld-and-emulator-cpus-aj)
 - [Shitshell -- A shell for nerds](https://dev.to/yahiagaming495/shitshell-a-shell-for-nerds-30nh)
-- [I got tired of spammy downloader sites, so I built a clean YouTube Thumbnail Grabber &lpar;4K + WebP&rpar; 🚀](https://dev.to/prosun/i-got-tired-of-spammy-downloader-sites-so-i-built-a-clean-youtube-thumbnail-grabber-4k-webp-59aa)
-- [WTF is Narrow-Waist Architecture?](https://dev.to/dailybugle33/wtf-is-narrow-waist-architecture-4m6a)
-- [25.11.2025 - Google&#39;s Chip Gambit Just Flipped the AI Market](https://dev.to/stock_expertai_5eafb5be7/25112025-googles-chip-gambit-just-flipped-the-ai-market-gi9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
