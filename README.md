@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Guitar Playing Analysis App &lpar;vibe coded in 1 day&rpar;](https://dev.to/apayrus/guitar-playing-analysis-app-vibe-coded-in-1-day-4i67)
-- [Instagram&#39;s Discovery Feed Actually Rewards Different Content Now &lpar;Here&#39;s What Changed&rpar;](https://dev.to/synergistdigitalmedia/instagrams-discovery-feed-actually-rewards-different-content-now-heres-what-changed-1aa9)
-- [Week 2 of 40 – My Idea Log &amp; Randomizer](https://dev.to/florianhoeppner/week-2-of-40-my-idea-log-randomizer-4hlk)
-- [I built a free AI Comparison Portal with Next.js &lpar;Alternatives to paid directories&rpar;](https://dev.to/rehanuri_talu_4f7c9d5cb63/i-built-a-free-ai-comparison-portal-with-nextjs-alternatives-to-paid-directories-2ko3)
-- [Neural Networks: Cracking the Geometric Code to AI](https://dev.to/arvind_sundararajan/neural-networks-cracking-the-geometric-code-to-ai-297l)
+- [📚 Post 3: A Santa Graal da Busca: O&lpar;log N&rpar;](https://dev.to/gissandrogama/post-3-a-santa-graal-da-busca-olog-n-a6)
+- [A Migração de O&lpar;N^2&rpar; para O&lpar;N&rpar;: O Poder do O&lpar;1&rpar;](https://dev.to/gissandrogama/a-migracao-de-on2-para-on-o-poder-do-o1-3b84)
+- [O que é Big O? e o Vilão O&lpar;N^2&rpar;](https://dev.to/gissandrogama/o-que-e-big-o-e-o-vilao-on2-52ep)
+- [Using OG Image Outside of Node](https://dev.to/jdgamble555/using-og-image-outside-of-node-22f)
+- [20 Years in Fashion, 30 Days with AI: How I Used ChatGPT to Predict 2026 Trends](https://dev.to/glorioustechs/20-years-in-fashion-30-days-with-ai-how-i-used-chatgpt-to-predict-2026-trends-528k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
