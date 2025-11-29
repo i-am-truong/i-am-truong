@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Serverless Sales Analytics Platform with AI Insights for Under $10/Month](https://dev.to/aws-builders/building-a-serverless-sales-analytics-platform-with-ai-insights-for-under-10month-49g9)
+- [My Current Tech Stack in 2026](https://dev.to/kartik_patel/my-current-tech-stack-in-2026-2695)
 - [How to Upgrade to Prisma v7?](https://dev.to/manujdixit/how-to-upgrade-to-prisma-v7-zero-confusion-guide-2ljd)
 - [I wanted to code from my phone with Claude code](https://dev.to/oxonomy/i-wanted-to-code-from-my-phone-with-claude-code-31c0)
 - [Introducing SAGEWORKS AI A Temporal &amp; Network-Native Framework for Next-Generation Computational Systems](https://dev.to/peacebinflow-labs/introducing-sageworks-ai-a-temporal-network-native-framework-for-next-generation-computational-4d8c)
-- [Just submitted MeetSpot to the Kiro Hackathon! 🚀](https://dev.to/jasonrobertdestiny/just-submitted-meetspot-to-the-kiro-hackathon-k75)
-- [Predictions for AI Developments by the End of 2027](https://dev.to/hemanth_suresh_d8fd79da4b/predictions-for-ai-developments-by-the-end-of-2027-3dpb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
