@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Context-Optimized APIs: Designing MCP Servers for LLMs](https://dev.to/vaticnz/context-optimized-apis-designing-mcp-servers-for-llms-5gpk)
+- [Best AI SEO Tools](https://dev.to/furkan_yaman_47be00fb2e21/best-ai-seo-tools-18ah)
 - [Explaining AI Explainability: Vision, Reality and Regulation](https://dev.to/mkdev/explaining-ai-explainability-vision-reality-and-regulation-fg6)
 - [[ES] ContextFX - Un CDI ligero para JavaFX/GluonFX con soporte de ReactFX](https://dev.to/contextfx/es-contextfx-un-cdi-ligero-para-javafxgluonfx-con-soporte-de-reactfx-26eb)
 - [How to Scrape Free SMS Verification Codes using Python &lpar;Under 10 Lines&rpar;](https://dev.to/baochouu08/how-to-scrape-free-sms-verification-codes-using-python-under-10-lines-3kam)
-- [How I Built a Cinematic AI-Powered App Using Kiro for Kiroween 🎃](https://dev.to/tanush_shah_e5ac47ddd561e/how-i-built-a-cinematic-ai-powered-app-using-kiro-for-kiroween-1oe3)
-- [Build Linera dApps Fast with This Next.js Template](https://dev.to/kirodotdev/build-linera-dapps-fast-with-this-nextjs-template-4ih7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
