@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [abstractions in memory system for agents](https://dev.to/crawlingcrusader/abstractions-in-memory-system-for-agents-2nd9)
-- [WE&#39;RE LIVE ON PRODUCT HUNT](https://dev.to/meysam81/were-live-on-product-hunt-2n4)
-- [The Tiny Engineering Challenge: Why Smartwatch Firmware Failures Are a Data Recovery Nightmare](https://dev.to/sampurnakart/the-tiny-engineering-challenge-why-smartwatch-firmware-failures-are-a-data-recovery-nightmare-3pof)
-- [Web Developer Travis McCracken on The Simplicity of Net/HTTP in Go](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-simplicity-of-nethttp-in-go-4i28)
-- [Comparison of Web Worker, SharedWorker, and Service Worke](https://dev.to/zeeshanali0704/comparison-of-web-worker-sharedworker-and-service-worke-3ff0)
+- [The Sunk Cost Fallacy in Software: How to Recognize It and What to Do About It](https://dev.to/tal_shafir_49b67973e9d3b4/the-sunk-cost-fallacy-in-software-how-to-recognize-it-and-what-to-do-about-it-3l3a)
+- [Getting Started with Nop: Minimalistic Data Access Layer Development](https://dev.to/canonical/getting-started-with-nop-minimalistic-data-access-layer-development-51hc)
+- [Getting Started with Nop: Minimalist Service Layer Development](https://dev.to/canonical/getting-started-with-nop-minimalist-service-layer-development-4937)
+- [Building a Game Review API with Strapi: A Step-by-Step Beginner’s Guide](https://dev.to/topeogunleye/building-a-game-review-api-with-strapi-a-step-by-step-beginners-guide-98m)
+- [7 DevOps Skills Nobody Tells You to Learn Early — FULL BREAKDOWN](https://dev.to/arbythecoder/7-devops-skills-nobody-tells-you-to-learn-early-full-breakdown-3d8m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
