@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Python Countdown Timer Tuorial: Step by Step Guide](https://dev.to/codingstreets/python-countdown-timer-tuorial-step-by-step-guide-43kp)
-- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-34p5)
-- [Python on Ubuntu: Installation, Setup, and First Steps](https://dev.to/pablojavierjimenez/python-on-ubuntu-installation-setup-and-first-steps-27dk)
-- [Hey There! this is my first blog.](https://dev.to/infinity_mindset_915125da/hey-there-this-is-my-first-blog-3ga1)
-- [LogInSight: A Lightweight CloudWatch Log Analytics Tool for Faster Debugging and Real-Time Insights](https://dev.to/sanjaydot/loginsight-a-lightweight-cloudwatch-log-analytics-tool-for-faster-debugging-and-real-time-insights-344m)
+- [Trapping Rain Water](https://dev.to/we_are_broken_compilers/trapping-rain-water-hin)
+- [How God Lifts You When You’ve Run Out of Strength to Lift Yourself](https://dev.to/douglasvandergraph/how-god-lifts-you-when-youve-run-out-of-strength-to-lift-yourself-46mm)
+- [Solving Frontend-Lambda Timeout Issues with AppSync Asynchronous Execution](https://dev.to/ismailg/solving-frontend-lambda-timeout-issues-with-appsync-asynchronous-execution-2p93)
+- [From Vibe Coding to Production: Bridging the Gap Between AI Prototypes and Real Systems](https://dev.to/flinstonedev/from-vibe-coding-to-production-bridging-the-gap-between-ai-prototypes-and-real-systems-53h9)
+- [[Boost]](https://dev.to/devadetayo/-5f5j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
