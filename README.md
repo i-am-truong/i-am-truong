@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Next.js Template Clone Generator: A Complete Guide to Streamlining Your Development Workflow with Kiro](https://dev.to/kirodotdev/building-a-nextjs-template-clone-generator-a-complete-guide-to-streamlining-your-development-489n)
+- [Don&#39;t Let Your Staging Server Die: Separate Task Scheduling in Laravel](https://dev.to/tegos/dont-let-your-staging-server-die-separate-task-scheduling-in-laravel-420o)
 - [ROMANS 3 — A Legacy Deep-Dive Into the Righteousness Only God Can Give](https://dev.to/douglasvandergraph/romans-3-a-legacy-deep-dive-into-the-righteousness-only-god-can-give-44p7)
 - [Network Namespaces: Isolating VM Networking](https://dev.to/krjakbrjak/network-namespaces-isolating-vm-networking-44o5)
 - [[AWS] DevTools Evangelism: Infrastructure Composer Edition](https://dev.to/aws-builders/aws-devtools-evangelism-infrastructure-composer-edition-3pgo)
-- [Terraform Stacks: MyCoCo&#39;s Landing Zone Dependencies Done Right](https://dev.to/dc-shimla/terraform-stacks-mycocos-landing-zone-dependencies-done-right-2nna)
-- [Reading About o4-mini &amp; o4-mini-high Made Me Rethink “Small” AI Models](https://dev.to/applesophie98/reading-about-o4-mini-o4-mini-high-made-me-rethink-small-ai-models-26he)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
