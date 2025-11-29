@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Script to list MongoDB collection URI &lpar;to map to WiredTiger files&rpar;](https://dev.to/franckpachot/script-to-list-mongodb-collection-uri-to-map-to-wiredtiger-files-4k2n)
+- [Building Trinity Shield: Our Custom TEE Solution for Multi-Chain Security](https://dev.to/chronosvault/building-trinity-shield-our-custom-tee-solution-for-multi-chain-security-3cdf)
 - [How I Discovered a Truly Accessible Image‑Generation Model &lpar;and Why You Should Try It Too&rpar;](https://dev.to/heiguo88/how-i-discovered-a-truly-accessible-image-generation-model-and-why-you-should-try-it-too-nok)
 - [Best Software Options for Running a Photobooth at an Event](https://dev.to/darkstar_fury_67a2981e7eb/best-software-options-for-running-a-photobooth-at-an-event-2574)
-- [Zombie Go Home - My Post-Halloween Game Jam Adventure](https://dev.to/smirnovw/zombie-go-home-my-post-halloween-game-jam-adventure-4faf)
-- [Always Up, Never Chill: A Friendly Intro to Availability in Software](https://dev.to/davidstevenrojas/always-up-never-chill-a-friendly-intro-to-availability-in-software-55a5)
-- [I built a blogging platform on Cloudflare Workers. Here&#39;s how it went.](https://dev.to/usamaejaz/i-built-a-blogging-platform-on-cloudflare-workers-heres-how-it-went-2732)
+- [🔥 A Complete, In-Depth Guide to Trusted Types in React and Modern Web Apps](https://dev.to/abhilashlr/a-complete-in-depth-guide-to-trusted-types-in-react-and-modern-web-apps-30id)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
