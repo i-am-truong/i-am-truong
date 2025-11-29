@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Debug LLM Failures: A Practical, End-to-End Guide for AI Engineers](https://dev.to/kuldeep_paul/how-to-debug-llm-failures-a-practical-end-to-end-guide-for-ai-engineers-12i6)
+- [Agentic Entity Resolution for Messy Product Data](https://dev.to/frendhisaido/agentic-entity-resolution-for-messy-product-data-3ce4)
 - [Concrete Whispers: Decoding Infrastructure&#39;s Silent Distress Calls with AI by Arvind Sundararajan](https://dev.to/arvind_sundararajan/concrete-whispers-decoding-infrastructures-silent-distress-calls-with-ai-by-arvind-sundararajan-5f7h)
 - [NumPy Labs: Minkowski Distance, Image Edge Detection, and Array Reshaping for Data Science](https://dev.to/labex/numpy-labs-minkowski-distance-image-edge-detection-and-array-reshaping-for-data-science-5cgl)
 - [The Hidden Tax on Traders: Is Your Broker Sabotaging You?](https://dev.to/stock_expertai_5eafb5be7/the-hidden-tax-on-traders-is-your-broker-sabotaging-you-5bn)
-- [The New Casino: Wall Street&#39;s High-Stakes Gambling Epidemic](https://dev.to/stock_expertai_5eafb5be7/the-new-casino-wall-streets-high-stakes-gambling-epidemic-37f)
-- [The New Age of JSON Formatting — Faster, Cleaner, Smarter](https://dev.to/bugblitz98/the-new-age-of-json-formatting-faster-cleaner-smarter-2gnn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
