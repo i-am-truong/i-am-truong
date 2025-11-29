@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 05 - Why Terraform Variables are Essential for Efficient IaC](https://dev.to/andylovecloud/day-05-why-terraform-variables-are-essential-for-efficient-iac-3anj)
 - [Build Embedded Debian Web Runtime with the Power of Isar](https://dev.to/janihau/build-embedded-debian-web-runtime-with-the-power-of-isar-150a)
 - [Why I killed my SaaS subscription model &lpar;$12/mo&rpar; and switched to a Lifetime Deal](https://dev.to/ethannoww/why-i-killed-my-saas-subscription-model-12mo-and-switched-to-a-lifetime-deal-3p50)
 - [Kohaku: A Practical Privacy Framework for Ethereum Wallets](https://dev.to/codebyankita/kohaku-a-practical-privacy-framework-for-ethereum-wallets-4aof)
 - [Frontier LLMs: Their Strengths and Pitfalls](https://dev.to/rod_schneider/frontier-llms-their-strengths-and-pitfalls-2m48)
-- [Kashmir Trek: In-Depth Information on Routes &amp; Difficulty](https://dev.to/tasinnew22/kashmir-trek-in-depth-information-on-routes-difficulty-3ja8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
