@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cercle: Weval - ON &lpar;Live Version&rpar; | Cercle Odyssey](https://dev.to/music_youtube/cercle-weval-on-live-version-cercle-odyssey-3obc)
-- [Struggling with Next.js 16 App Router? Migrate Faster &amp; Smarter](https://dev.to/dharmendra/struggling-with-nextjs-16-app-router-migrate-faster-smarter-248p)
-- [Day 15 of improving my Data Science skills](https://dev.to/sp_the_data_specialist/day-15-of-improving-my-data-science-skills-28ee)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-57ih)
-- [My Project 2: Building a Simple Memo App with Python + Streamlit](https://dev.to/ian_b838138a27a917398d181/my-project-2-building-a-simple-memo-app-with-python-streamlit-1k8g)
+- [ROMANS 3 — A Legacy Deep-Dive Into the Righteousness Only God Can Give](https://dev.to/douglasvandergraph/romans-3-a-legacy-deep-dive-into-the-righteousness-only-god-can-give-44p7)
+- [Network Namespaces: Isolating VM Networking](https://dev.to/krjakbrjak/network-namespaces-isolating-vm-networking-44o5)
+- [[AWS] DevTools Evangelism: Infrastructure Composer Edition](https://dev.to/aws-builders/aws-devtools-evangelism-infrastructure-composer-edition-3pgo)
+- [Terraform Stacks: MyCoCo&#39;s Landing Zone Dependencies Done Right](https://dev.to/dc-shimla/terraform-stacks-mycocos-landing-zone-dependencies-done-right-2nna)
+- [Reading About o4-mini &amp; o4-mini-high Made Me Rethink “Small” AI Models](https://dev.to/applesophie98/reading-about-o4-mini-o4-mini-high-made-me-rethink-small-ai-models-26he)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
