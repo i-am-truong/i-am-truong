@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Always Up, Never Chill: A Friendly Intro to Availability in Software](https://dev.to/davidstevenrojas/always-up-never-chill-a-friendly-intro-to-availability-in-software-55a5)
+- [I built a blogging platform on Cloudflare Workers. Here&#39;s how it went.](https://dev.to/usamaejaz/i-built-a-blogging-platform-on-cloudflare-workers-heres-how-it-went-2732)
+- [Day 6/30: Organising Terraform – File Structure Best Practices 📂✨](https://dev.to/gokulprasath_n_42438fd633/day-630-organizing-terraform-file-structure-best-practices-4ggc)
+- [Guide to Path Variables and Query Parameters in Mitsuki Controllers](https://dev.to/david_landup/guide-to-path-variables-and-query-parameters-in-mitsuki-controllers-19fk)
 - [Smart Invoice Analyzer — How I Automated Invoice Processing &amp; Predicted Sales Using Machine Learning](https://dev.to/sanjaydot/smart-invoice-analyzer-how-i-automated-invoice-processing-predicted-sales-using-machine-learning-41b3)
-- [i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions](https://dev.to/member_8455d9df/i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions-29ca)
-- [From the Brink to the Big League: Pakistan’s $5B Crisis to $19.6B Clout](https://dev.to/skye_wright_1443d44f7b6d1/from-the-brink-to-the-big-league-pakistans-5b-crisis-to-196b-clout-4i37)
-- [📌 I built a code snippet manager because I kept losing my own code &lpar;MVP live&rpar;](https://dev.to/sahil_pradhan_af85f41e46a/i-built-a-code-snippet-manager-because-i-kept-losing-my-own-code-mvp-live-37g9)
-- [Building MindCareAI Backend: How I Used Xano AI to Create a Production-Ready Mental Health API in Minutes](https://dev.to/onirestart/building-mindcareai-backend-how-i-used-xano-ai-to-create-a-production-ready-mental-health-api-in-5oi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
