@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Explaining AI Explainability: Vision, Reality and Regulation](https://dev.to/mkdev/explaining-ai-explainability-vision-reality-and-regulation-fg6)
+- [[ES] ContextFX - Un CDI ligero para JavaFX/GluonFX con soporte de ReactFX](https://dev.to/contextfx/es-contextfx-un-cdi-ligero-para-javafxgluonfx-con-soporte-de-reactfx-26eb)
+- [How to Scrape Free SMS Verification Codes using Python &lpar;Under 10 Lines&rpar;](https://dev.to/baochouu08/how-to-scrape-free-sms-verification-codes-using-python-under-10-lines-3kam)
+- [How I Built a Cinematic AI-Powered App Using Kiro for Kiroween 🎃](https://dev.to/tanush_shah_e5ac47ddd561e/how-i-built-a-cinematic-ai-powered-app-using-kiro-for-kiroween-1oe3)
 - [Build Linera dApps Fast with This Next.js Template](https://dev.to/kirodotdev/build-linera-dapps-fast-with-this-nextjs-template-4ih7)
-- [The Wonders of Cosmic Physics: From Black Holes to Dark Matter](https://dev.to/sydne_sloan_8e7fc123adf2b/the-wonders-of-cosmic-physics-from-black-holes-to-dark-matter-3k5)
-- [PYTHON ESSENTIALS FOR AI/ML&lpar;Error Handling&rpar;](https://dev.to/m_t_ramkrushna/python-essentials-for-aimlvirtual-environments-19pg)
-- [How Insertion Sort Works: Simplified Explanation](https://dev.to/saptarshisarkar/how-insertion-sort-works-simplified-explanation-232i)
-- [Part 1: Built an Agentforce Agent — Here’s What I Learned So You Don’t Repeat these Mistakes](https://dev.to/nidhi_sharma_d5c7d974d2df/part-1-built-an-agentforce-agent-heres-what-i-learned-so-you-dont-repeat-these-mistakes-38lf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
