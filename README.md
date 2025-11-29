@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Adding Swagger to Your Go API](https://dev.to/rosgluk/adding-swagger-to-your-go-api-2o65)
-- [COMPLETE GITLAB CI/CD SPECIFICATION](https://dev.to/harshm03/complete-gitlab-cicd-specification-5cj0)
-- [Exploring the Elegance of Fashion Boutiques Online](https://dev.to/houseofsiyaab/exploring-the-elegance-of-fashion-boutiques-online-3m53)
-- [🧠 Ceptre — The Rule-Based Language for Modeling Systems, Stories, and Simulation Logic](https://dev.to/viz-x/ceptre-the-rule-based-language-for-modeling-systems-stories-and-simulation-logic-bkb)
-- [How To Dissociate And Associate The Public IP Address Of Your Virtual Machine To Save Cost](https://dev.to/akintoye_gbenga/how-to-dissociate-the-public-ip-address-of-your-virtual-machine-to-save-cost-37jc)
+- [abstractions in memory system for agents](https://dev.to/crawlingcrusader/abstractions-in-memory-system-for-agents-2nd9)
+- [WE&#39;RE LIVE ON PRODUCT HUNT](https://dev.to/meysam81/were-live-on-product-hunt-2n4)
+- [The Tiny Engineering Challenge: Why Smartwatch Firmware Failures Are a Data Recovery Nightmare](https://dev.to/sampurnakart/the-tiny-engineering-challenge-why-smartwatch-firmware-failures-are-a-data-recovery-nightmare-3pof)
+- [Web Developer Travis McCracken on The Simplicity of Net/HTTP in Go](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-simplicity-of-nethttp-in-go-4i28)
+- [Comparison of Web Worker, SharedWorker, and Service Worke](https://dev.to/zeeshanali0704/comparison-of-web-worker-sharedworker-and-service-worke-3ff0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
