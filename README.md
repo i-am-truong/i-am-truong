@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Go&#39;s Regexp is Slow. So I Built My Own - 3000x Faster](https://dev.to/kolkov/gos-regexp-is-slow-so-i-built-my-own-3000x-faster-3i6h)
 - [Your Database Isn’t a Teenager’s Bedroom: Why Privileges Actually Matter](https://dev.to/dorothy2019/your-database-isnt-a-teenagers-bedroom-why-privileges-actually-matter-4apo)
 - [From zero to $10M empire!” – Me &amp; my future yacht!](https://dev.to/victorion0/from-zero-to-10m-empire-in-one-day-me-my-future-yacht-38a3)
 - [From missed flight to mission: building a 24-hour reminder service on AWS](https://dev.to/elmaur1/from-missed-flight-to-mission-building-a-24-hour-reminder-service-on-aws-146g)
 - [Nano Banana 2](https://dev.to/leo_king_25a8aa998a261145/nano-banana-2-4ahf)
-- [A Financial MCP server with multi-provider orchestration &lpar;Open Source&rpar;](https://dev.to/kiarashplusplus/a-financial-mcp-server-with-multi-provider-orchestration-open-source-dob)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
