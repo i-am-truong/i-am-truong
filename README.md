@@ -123,8 +123,8 @@ Python                   1 repo              █░░░░░░░░░░�
 - [Become a Digital Marketing Expert with AI Automation: Learn Online from Suresh Das](https://dev.to/shrutika_shetty_61c7a3a4d/become-a-digital-marketing-expert-with-ai-automation-learn-online-from-suresh-das-3aea)
 - [Shitshell -- A shell for nerds](https://dev.to/yahiagaming495/shitshell-a-shell-for-nerds-30nh)
 - [I got tired of spammy downloader sites, so I built a clean YouTube Thumbnail Grabber &lpar;4K + WebP&rpar; 🚀](https://dev.to/prosun/i-got-tired-of-spammy-downloader-sites-so-i-built-a-clean-youtube-thumbnail-grabber-4k-webp-59aa)
-- [📟 HP-RPL — The Stack-Based Language Hidden Inside Classic HP Calculators](https://dev.to/viz-x/hp-rpl-the-stack-based-language-hidden-inside-classic-hp-calculators-5fe1)
-- [Easy Deployment of Vertex AI Agent Engine with vaiae](https://dev.to/toyama0919/easy-deployment-of-vertex-ai-agent-engine-with-vaiae-m84)
+- [WTF is Narrow-Waist Architecture?](https://dev.to/dailybugle33/wtf-is-narrow-waist-architecture-4m6a)
+- [25.11.2025 - Google&#39;s Chip Gambit Just Flipped the AI Market](https://dev.to/stock_expertai_5eafb5be7/25112025-googles-chip-gambit-just-flipped-the-ai-market-gi9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
