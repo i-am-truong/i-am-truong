@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Guide to Mitsuki Repositories: From Zero to Full CRUD](https://dev.to/david_landup/guide-to-mitsuki-repositories-from-zero-to-full-crud-59n6)
+- [Automating Daily Tasks with systemd Timers: A Practical Guide Using Python](https://dev.to/mahinshanazeer/automating-daily-tasks-with-systemd-timers-a-practical-guide-using-python-1bhm)
 - [A Single Dork to Understand Your Infrastructure: Asset Exposure &amp; Configuration Profiling](https://dev.to/rrrowan/a-single-dork-to-understand-your-infrastructure-asset-exposure-configuration-profiling-4j0k)
 - [Filecnv — Fast, Private, and Secure Image Processing in the Browser](https://dev.to/cismic/filecnv-fast-private-and-secure-image-processing-in-the-browser-33dh)
 - [A Secret-Scoped Semantic Value That Can Be “Pulled” Into a Public Block Without Revealing Its Origin](https://dev.to/suign/a-secret-scoped-semantic-value-that-can-be-pulled-into-a-public-block-without-revealing-its-origin-5hi0)
-- [A Day With Perplexity’s Comet AI Browser: Time-Saver or Hype?](https://dev.to/aiwithapex/a-day-with-perplexitys-comet-ai-browser-time-saver-or-hype-5h4p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
