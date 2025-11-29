@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Play-to-Earn Game Development: Investor&#39;s Complete Guide](https://dev.to/elanahayes_8840de44ea3bfd/play-to-earn-game-development-investors-complete-guide-ha7)
 - [Cracked&lpar;interactive&rpar;](https://dev.to/preetha_vaishnavi_2b82358/crackedinteractive-3b9e)
 - [PayPal Smart Buttons in 2025 is the about:blank flash + never-closing popup finally dead?😞](https://dev.to/vidakhoshpey22/paypal-smart-buttons-in-2025-is-the-aboutblank-flash-never-closing-popup-finally-dead-584j)
 - [Google&#39;s December 2025 Core Update Hit Your E-commerce Site: Here&#39;s What Actually Changed](https://dev.to/synergistdigitalmedia/googles-december-2025-core-update-hit-your-e-commerce-site-heres-what-actually-changed-4ef8)
 - [Crack in background as you scroll](https://dev.to/preetha_vaishnavi_2b82358/crack-in-background-as-you-scroll-3d9b)
-- [SourceFlow.Net](https://dev.to/codeshayk/sourceflownet-52p2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
