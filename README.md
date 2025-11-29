@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Day F10: Nineteen and Hating Every Minute of It](https://dev.to/casperday11/day-f10-nineteen-and-hating-every-minute-of-it-2cme)
+- [SAP–TCS Expand Strategic Collaboration With New Enterprise-Grade IoT Security Push](https://dev.to/logicverse_2025/sap-tcs-expand-strategic-collaboration-with-new-enterprise-grade-iot-security-push-5a6j)
+- [Introducing dremioframe - A Pythonic DataFrame Interface for Dremio](https://dev.to/alexmercedcoder/introducing-dremioframe-a-pythonic-dataframe-interface-for-dremio-2m72)
 - [Building a Serverless Sales Analytics Platform with AI Insights for Under $10/Month](https://dev.to/aws-builders/building-a-serverless-sales-analytics-platform-with-ai-insights-for-under-10month-49g9)
 - [My Current Tech Stack in 2026](https://dev.to/kartik_patel/my-current-tech-stack-in-2026-2695)
-- [How to Upgrade to Prisma v7?](https://dev.to/manujdixit/how-to-upgrade-to-prisma-v7-zero-confusion-guide-2ljd)
-- [I wanted to code from my phone with Claude code](https://dev.to/oxonomy/i-wanted-to-code-from-my-phone-with-claude-code-31c0)
-- [Introducing SAGEWORKS AI A Temporal &amp; Network-Native Framework for Next-Generation Computational Systems](https://dev.to/peacebinflow-labs/introducing-sageworks-ai-a-temporal-network-native-framework-for-next-generation-computational-4d8c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
