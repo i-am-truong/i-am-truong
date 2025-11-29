@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Create Your First Mitsuki REST API from Scratch](https://dev.to/david_landup/how-to-create-your-first-mitsuki-api-from-scratch-4g09)
+- [The CloudAIoT 3-Layer Reference Architecture](https://dev.to/taniyama/the-cloudaiot-3-layer-reference-architecture-3kg4)
 - [Why Docker Is Not Truly Native on Windows and macOS](https://dev.to/faizanfirdousi/why-docker-is-not-truly-native-on-windows-and-macos-2af1)
 - [Stop Using “?” Everywhere! Use `Omit` &lpar; i.e. Utility Types&rpar; for Safer TypeScript](https://dev.to/hossain45/stop-using-everywhere-use-omit-utility-types-for-safer-typescript-3gd9)
 - [OpenWRT, ByeByeDPI и WinDivert: Охота на Magic Cookie STUN — Блокировка WhatsApp в РФ, как ее обойти?](https://dev.to/ad_layer_4acdca7d59ff763f/openwrt-byebyedpi-i-windivert-okhota-na-magic-cookie-stun-blokirovka-whatsapp-v-rf-kak-ieie-412k)
-- [Introducing Mitsuki - Spring Boot Enterprise Patterns and Speed with Python&#39;s Flexibility](https://dev.to/david_landup/introducing-mitsuki-spring-boot-enterprise-patterns-and-speed-with-pythons-flexibility-5e77)
-- [Beyond Stacked Layers: The Limitations of Traditional Deep Learning Architecture](https://dev.to/mabualzait/beyond-stacked-layers-the-limitations-of-traditional-deep-learning-architecture-27jf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
