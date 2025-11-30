@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Simple Plugin Architecture in Java Using the Java SPI Mechanism](https://dev.to/gintop/building-a-simple-plugin-architecture-in-java-using-the-java-spi-mechanism-5234)
-- [Type-Safe LLM Outputs: Why I Built pydantic-llm-io](https://dev.to/yuu1ch13/type-safe-llm-outputs-why-i-built-pydantic-llm-io-1a6p)
-- [AWS Security Fundamentals with AWS BuilderCards Security Expansion Pack](https://dev.to/aws-builders/aws-security-fundamentals-with-aws-buildercards-security-expansion-pack-1c37)
-- [aaaaa](https://dev.to/idsts2670/aaaaa-lnm)
-- [⚙️🌍 MCP Servers + Microsoft Agent Framework unlock a New Era of Tool-Powered Intelligence ⚡](https://dev.to/keepitsimple/mcp-servers-microsoft-agent-framework-unlock-a-new-era-of-tool-powered-intelligence-48p6)
+- [Understanding User Registration: Email Agent Series Part 1](https://dev.to/nazmussaqueebashrafi/understanding-user-registration-email-agent-series-part-1-5a46)
+- [La Clave para una Landing Page que Realmente Funcione](https://dev.to/xavieroromay/la-clave-para-una-landing-page-que-realmente-funcione-4lp2)
+- [5 Reasons You Don’t Need to Move Away from JavaScript or TypeScript for the Backend](https://dev.to/zororaka/5-reasons-you-dont-need-to-move-away-from-javascript-or-typescript-for-the-backend-2861)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-2k12)
+- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-1lin)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
