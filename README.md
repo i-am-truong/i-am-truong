@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 16 of improving my Data Science skills](https://dev.to/sp_the_data_specialist/day-16-of-improving-my-data-science-skills-482e)
+- [AES Algorithm for beginners](https://dev.to/denizbasgoren/aes-algorithm-for-beginners-114f)
 - [Building &quot;Trickster&#39;s Table&quot;: A Card Game Suite with Gemini AI Studio &lpar;zero coding&rpar;](https://dev.to/j4s0nc/building-tricksters-table-a-card-game-suite-with-gemini-ai-studio-zero-coding-37bn)
 - [My Project 3: Building a Weather App with Python + Streamlit](https://dev.to/ian_b838138a27a917398d181/my-project-3-building-a-weather-app-with-python-streamlit-5423)
 - [GEO : Generative Engine Optimization - Applied](https://dev.to/nerajno/geo-generative-engine-optimization-applied-27a3)
-- [Conan in Neovim: One command to rule them all](https://dev.to/silletr/conan-in-neovim-one-command-to-rule-them-all-513g)
-- [SpecterBeats](https://dev.to/vitamindel/specterbeats-4p40)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
