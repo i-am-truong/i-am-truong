@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🛡️ How to Keep Your Application Updated on the Latest Security Threats &amp; Vulnerabilities](https://dev.to/anisubhra_sarkar/how-to-keep-your-application-updated-on-the-latest-security-threats-vulnerabilities-26i1)
+- [Fixing Legacy Dates in Uniface 10: The $NLS\_DISABLE\_NON\_GREGORIAN\_CALENDAR Switch](https://dev.to/petercode/fixing-legacy-dates-in-uniface-10-the-nlsdisablenongregoriancalendar-switch-9m7)
 - [50+ React Pro Tips You Must Know For Better Coding](https://dev.to/myogeshchavan97/50-react-pro-tips-you-must-know-for-better-coding-2okp)
 - [Why GPUs Ate the AI World](https://dev.to/jiminlee/why-gpus-ate-the-ai-world-2i87)
 - [Azure Global Infrastructure](https://dev.to/delamywa/azure-global-infrastructure-5a9h)
-- [𝐓𝐨𝐩 𝟔 𝐀𝐏𝐈 𝐚𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞 𝐒𝐭𝐲𝐥𝐞𝐬](https://dev.to/isajid07/-30g5)
-- [Master the Flutter Container: Borders, Shadows &amp; Gradients &lpar;2025 Cheat Sheet&rpar;](https://dev.to/srfdeveloper/master-the-flutter-container-borders-shadows-gradients-2025-cheat-sheet-28kb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
