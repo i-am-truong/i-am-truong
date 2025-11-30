@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Add Audit Logs to Your App &lpar;The Complete Guide for Developers&rpar;](https://dev.to/shreya_srivastava_a4cab6e/how-to-add-audit-logs-to-your-app-the-complete-guide-for-developers-h18)
+- [A Beginner’s Guide to Power Yoga for Weight Loss and Strength](https://dev.to/bhaktimeshakti/a-beginners-guide-to-power-yoga-for-weight-loss-and-strength-3e4p)
+- [Object Detection in Java with OpenCV + YOLO11 &lpar;Full Guide + Source Code&rpar;](https://dev.to/vadym_vorobiov_fa6741006a/object-detection-in-java-with-opencv-yolo11-full-guide-source-code-43i1)
 - [Visualizing Year/Month/Day Progress in Grafana](https://dev.to/mkt/visualizing-yearmonthday-progress-in-grafana-1mf4)
 - [How I Built FlyScrape: A TypeScript Web Scraper That Actually Works on Modern Websites](https://dev.to/admirsaheta/how-i-built-flyscrape-a-typescript-web-scraper-that-actually-works-on-modern-websites-4d9g)
-- [Will Data Science Still Rule 2026?](https://dev.to/mabualzait/will-data-science-still-rule-2026-2bj)
-- [Breaking the Sound Barrier with AI: Real-Time Flight Simulation Arrives by Arvind Sundararajan](https://dev.to/arvind_sundararajan/breaking-the-sound-barrier-with-ai-real-time-flight-simulation-arrives-by-arvind-sundararajan-64p)
-- [માનસિક](https://dev.to/ddr_pdr_d754dc776c87532ad/maansik-2mho)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
