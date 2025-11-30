@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [# What Is the OSI Model? Understanding All 7 Layers with Simple Examples](https://dev.to/sudiip__17/-what-is-the-osi-model-understanding-all-7-layers-with-simple-examples-4i94)
-- [I built a FireCMS Clone using Svelte 4 — Here’s what I learned](https://dev.to/ortwic/i-built-a-firecms-clone-using-svelte-4-heres-what-i-learned-1445)
-- [Devnexus 2026 Showcases the Powerful Intersection of AI, Java, and Modern Developer Tooling in Atlanta](https://dev.to/vincentmayers/devnexus-2026-showcases-the-powerful-intersection-of-ai-java-and-modern-developer-tooling-in-5a3k)
-- [Master Terraform in 20 Minutes: Concepts, Commands &amp; CI/CD](https://dev.to/kaustubhyerkade/master-terraform-in-20-minutes-concepts-commands-flow-cicd-4g0h)
-- [Footer TagHelper](https://dev.to/karenpayneoregon/footer-taghelper-457p)
+- [Enshittification: Why I’m leaving dev.to](https://dev.to/autonomousapps/enshittification-why-im-leaving-devto-3npn)
+- [Most developers use AI… but very few know how to think with AI.](https://dev.to/aldgar/most-developers-use-ai-but-very-few-know-how-to-think-with-ai-328m)
+- [Design on the Go: The Best Lightweight Browser Vector Editors for Digital Marketers](https://dev.to/buysellshop/design-on-the-go-the-best-lightweight-browser-vector-editors-for-digital-marketers-ifk)
+- [I Fully Automated Resumes](https://dev.to/frozen12/i-fully-automated-resumes-7ip)
+- [Social Listening Enhanced by Sentiment and Entity Recognition](https://dev.to/compass_solutions_cb7c065/social-listening-enhanced-by-sentiment-and-entity-recognition-4dog)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
