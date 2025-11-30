@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Automate PDF Data Extraction with n8n: Processing 30,000+ Documents Without Breaking a Sweat](https://dev.to/abdul_mohiz_41c63c868bb9e/automate-pdf-data-extraction-with-n8n-processing-30000-documents-without-breaking-a-sweat-15ia)
 - [GitHub search is broken for beginners — so I fixed it with an AI tool](https://dev.to/jondoehimself/github-search-is-broken-for-beginners-so-i-fixed-it-with-an-ai-tool-34io)
 - [Simplifying Container Ops: What ECS Express Mode Brings to the Table](https://dev.to/aws-builders/simplifying-container-ops-what-ecs-express-mode-brings-to-the-table-6dp)
 - [Getting Started with Midnight: Full Privacy dApp Setup &lpar;Lace, Compact, Docker &amp; More&rpar;](https://dev.to/martinrivero15/getting-started-with-midnight-full-privacy-dapp-setup-lace-compact-docker-more-1jle)
 - [Sleigh-Ride Cloud Chronicles: A 25-Day Journey Through Cloud and Magic](https://dev.to/aws-builders/sleigh-ride-cloud-chronicles-a-25-day-journey-through-cloud-and-magic-443e)
-- [The Mirror Problem: When AI Confidence Becomes Your Biggest Liability](https://dev.to/thedevankit/the-mirror-problem-when-ai-confidence-becomes-your-biggest-liability-26k1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
