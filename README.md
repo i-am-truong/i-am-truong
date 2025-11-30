@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Thought Leadership Marketing Is Becoming a Competitive Imperative](https://dev.to/kapusto/why-thought-leadership-marketing-is-becoming-a-competitive-imperative-3boo)
 - [The Dopamine Hit of git push vs. The Agony of git revert](https://dev.to/_boweii/the-dopamine-hit-of-git-push-vs-the-agony-of-git-revert-2icf)
-- [How I Built an AI to Draw My Architecture Diagrams &lpar;Because My Wiki Kept Dying&rpar;](https://dev.to/juand01/how-i-built-an-ai-to-draw-my-architecture-diagrams-because-my-wiki-kept-dying-5dfl)
-- [Day 16 of improving my Data Science skills](https://dev.to/sp_the_data_specialist/day-16-of-improving-my-data-science-skills-482e)
-- [AES Algorithm for beginners](https://dev.to/denizbasgoren/aes-algorithm-for-beginners-114f)
-- [Building &quot;Trickster&#39;s Table&quot;: A Card Game Suite with Gemini AI Studio &lpar;zero coding&rpar;](https://dev.to/j4s0nc/building-tricksters-table-a-card-game-suite-with-gemini-ai-studio-zero-coding-37bn)
+- [How Business Continuity Teams Can Strengthen Operational Resilience Against Modern Cyber Risks](https://dev.to/kapusto/how-business-continuity-teams-can-strengthen-operational-resilience-against-modern-cyber-risks-23oc)
+- [How B2B SaaS Teams Can Build Trust in an Era of AI-Driven Buyer Research](https://dev.to/kapusto/how-b2b-saas-teams-can-build-trust-in-an-era-of-ai-driven-buyer-research-1n8)
+- [Meta&#39;s AI Ad Creative Generator: What Actually Works &lpar;And What&#39;s Still Broken&rpar;](https://dev.to/synergistdigitalmedia/metas-ai-ad-creative-generator-what-actually-works-and-whats-still-broken-2pg6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
