@@ -123,8 +123,8 @@ Python                   1 repo              █░░░░░░░░░░�
 - [Memory-Safety-Ultimate-Guardian](https://dev.to/member_8455d9df/memory-safety-ultimate-guardian-2j16)
 - [Jutro Digital Platform — Guidewire’s Secret Sauce for Modern Insurance Apps](https://dev.to/mohantammineni/jutro-digital-platform-guidewires-secret-sauce-for-modern-insurance-apps-4j2e)
 - [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-526)
-- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-4ofm)
 - [Mengenal React Redux dan React Native Elements](https://dev.to/sandatya_widhi_ce7cb1c809/mengenal-react-redux-dan-react-native-elements-2j47)
+- [My Simple Workflow: Python Database UI](https://dev.to/sareena_rahim/my-simple-workflow-python-database-ui-36gd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
