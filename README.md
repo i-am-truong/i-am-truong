@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub search is broken for beginners — so I fixed it with an AI tool](https://dev.to/jondoehimself/github-search-is-broken-for-beginners-so-i-fixed-it-with-an-ai-tool-34io)
+- [Simplifying Container Ops: What ECS Express Mode Brings to the Table](https://dev.to/aws-builders/simplifying-container-ops-what-ecs-express-mode-brings-to-the-table-6dp)
 - [Getting Started with Midnight: Full Privacy dApp Setup &lpar;Lace, Compact, Docker &amp; More&rpar;](https://dev.to/martinrivero15/getting-started-with-midnight-full-privacy-dapp-setup-lace-compact-docker-more-1jle)
+- [Sleigh-Ride Cloud Chronicles: A 25-Day Journey Through Cloud and Magic](https://dev.to/aws-builders/sleigh-ride-cloud-chronicles-a-25-day-journey-through-cloud-and-magic-443e)
 - [The Mirror Problem: When AI Confidence Becomes Your Biggest Liability](https://dev.to/thedevankit/the-mirror-problem-when-ai-confidence-becomes-your-biggest-liability-26k1)
-- [Notes WebApp - Complete Guide with Cloud Functions, Firestore, and Cloud Storage](https://dev.to/chainiz/notes-webapp-complete-guide-with-cloud-functions-firestore-and-cloud-storage-3fcg)
-- [AI Email Segmentation: How Machine Learning Actually Doubled My Open Rates &lpar;Without the BS&rpar;](https://dev.to/synergistdigitalmedia/ai-email-segmentation-how-machine-learning-actually-doubled-my-open-rates-without-the-bs-3daj)
-- [3 mistakes that are killing your dev resume](https://dev.to/ryangst/3-mistakes-that-are-killing-your-dev-resume-l88)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
