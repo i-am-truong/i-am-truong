@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Send ESP32 Sensor Data to Miniviz for Real-time Visualization&lpar;Miniviz #1&rpar;](https://dev.to/yoshidataisei/how-to-send-esp32-sensor-data-to-miniviz-for-real-time-visualizationminiviz-1-59na)
+- [Stop Buying the Wrong Wi-Fi Adapter for Kali Linux &lpar;2025 Guide&rpar;](https://dev.to/divyanshu_bhoir_10d826831/stop-buying-the-wrong-wi-fi-adapter-for-kali-linux-2025-guide-obl)
 - [Introduction to Azure Storage](https://dev.to/delamywa/introduction-to-azure-storage-5781)
-- [Event Loop: Call Stack, Web API, Task Queue, Microtask Queue](https://dev.to/antonov_mike/event-loop-call-stack-web-api-task-queue-microtask-queue-1eb2)
-- [AI Ranking Analyzer Tools](https://dev.to/arc_support_458635af462f4/ai-ranking-analyzer-tools-22g0)
-- [AI Keyword Tracking Tools](https://dev.to/babamanga/ai-keyword-tracking-tools-5e53)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-2lc4)
+- [The Case of the Zombie Transaction: Solving &#39;Unknown Unknowns&#39; with OpenTelemetry &amp; High Cardinality](https://dev.to/ahmed_a_o/the-case-of-the-zombie-transaction-solving-unknown-unknowns-with-opentelemetry-high-cardinality-56b1)
+- [The Introduction](https://dev.to/lovishjaswal/the-introduction-4o9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
