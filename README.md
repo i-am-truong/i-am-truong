@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The 2026 Computer Science Playbook: How to Learn, Where to Focus, and What It Really Takes to Get Hired in the AI Era](https://dev.to/naveens16/the-2026-computer-science-playbook-how-to-learn-where-to-focus-and-what-it-really-takes-to-get-3nm1)
+- [Somewhere here](https://dev.to/preetha_vaishnavi_2b82358/somewhere-here-25om)
+- [Complete Guide: How to Set AI Coding Rules for Zed](https://dev.to/yigit-konur/complete-guide-how-to-set-ai-coding-rules-for-zed-ak8)
 - [Complete Guide: How to Set AI Coding Rules for Roo-Cline &lpar;Modes/Rules and more&rpar;](https://dev.to/yigit-konur/complete-guide-how-to-set-ai-coding-rules-for-roo-cline-modesrules-and-more-1kjk)
 - [Flutter Row vs Column: The Ultimate Alignment Cheat Sheet &lpar;2025&rpar;](https://dev.to/srfdeveloper/flutter-row-vs-column-the-ultimate-alignment-cheat-sheet-2025-46l5)
-- [Firmware Architecture with StateSmith](https://dev.to/standarddeviant/firmware-architecture-with-statesmith-38b9)
-- [Setting up Redux Toolkit in NextJs](https://dev.to/devtush/setting-up-redux-toolkit-in-nextjs-38k9)
-- [Top 30 React Interview Questions and Answers in 2025](https://dev.to/mahdardavari/top-30-react-interview-questions-and-answers-in-2025-29hc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
