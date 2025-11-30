@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with Midnight: Full Privacy dApp Setup &lpar;Lace, Compact, Docker &amp; More&rpar;](https://dev.to/martinrivero15/getting-started-with-midnight-full-privacy-dapp-setup-lace-compact-docker-more-1jle)
+- [The Mirror Problem: When AI Confidence Becomes Your Biggest Liability](https://dev.to/thedevankit/the-mirror-problem-when-ai-confidence-becomes-your-biggest-liability-26k1)
+- [Notes WebApp - Complete Guide with Cloud Functions, Firestore, and Cloud Storage](https://dev.to/chainiz/notes-webapp-complete-guide-with-cloud-functions-firestore-and-cloud-storage-3fcg)
+- [AI Email Segmentation: How Machine Learning Actually Doubled My Open Rates &lpar;Without the BS&rpar;](https://dev.to/synergistdigitalmedia/ai-email-segmentation-how-machine-learning-actually-doubled-my-open-rates-without-the-bs-3daj)
 - [3 mistakes that are killing your dev resume](https://dev.to/ryangst/3-mistakes-that-are-killing-your-dev-resume-l88)
-- [JavaScript: Closures Explained With Real-Life Analogies](https://dev.to/aditya_mali_648306b2e1b5d/javascript-closures-explained-with-real-life-analogies-ipk)
-- [🚀 ECS Express Mode: From an image to an HTTPS endpoint in a single step](https://dev.to/chainiz/ecs-express-mode-from-an-image-to-an-https-endpoint-in-a-single-step-2812)
-- [Top 12+ Android Emulators in 2026 Best Emulator for Android, PC, and Testing](https://dev.to/morrismoses149/top-12-android-emulators-in-2026-best-emulator-for-android-pc-and-testing-5bjh)
-- [Master RAG Evaluation with RAGAS](https://dev.to/sridhar_tondapi_d54e7e29b/master-rag-evaluation-with-ragas-5403)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
