@@ -124,7 +124,7 @@ Python                   1 repo              █░░░░░░░░░░�
 - [Building The Digital Exorcism: Infinite Replayability Through Dynamic Generation &lpar;Part 2&rpar;](https://dev.to/yooi/building-the-digital-exorcism-infinite-replayability-through-dynamic-generation-part-2-cjo)
 - [Day 06: Organizing Your Infrastructure as Code for your Project](https://dev.to/andylovecloud/day-06-organizing-your-infrastructure-as-code-for-your-project-4nko)
 - [Antigravity vs Claude Code: Ultimate Agentic Dev Showdown](https://dev.to/robort-gabriel/antigravity-vs-claude-code-ultimate-agentic-dev-showdown-1njp)
-- [The Digital Exorcism App with Kiro: Security Learning Through Haunted Codebase &lpar;Part 1&rpar;](https://dev.to/yooi/the-digital-exorcism-app-with-kiro-security-learning-through-haunted-codebase-part-1-1g05)
+- [Turbocharge Your AI: Dynamic Inference Scaling on HPC Infrastructure](https://dev.to/arvind_sundararajan/turbocharge-your-ai-dynamic-inference-scaling-on-hpc-infrastructure-4n7k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
