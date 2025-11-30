@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Self‑Taught, Not Self‑Neglected: Blue Beanie Day Tips for Indie Developers](https://dev.to/laura-wissiak/self-taught-not-self-neglected-blue-beanie-day-tips-for-indie-developers-3cb1)
+- [Repository Pattern vs Direct EF Core: The Great Debate](https://dev.to/adrianbailador/repository-pattern-vs-direct-ef-core-the-great-debate-1fon)
+- [🔥How I Automated Code Reliability with an AI Agent](https://dev.to/dev_kiran/how-i-automated-code-reliability-with-an-ai-agent-1kkb)
 - [Run Cypress autotests in parallel for Allure report](https://dev.to/smoliarick/run-cypress-autotests-in-parallel-for-allure-report-13m2)
 - [Searching 2500+ Claude Code sessions was painful, so I fixed it](https://dev.to/moshe_revah_b9ed24a93a59a/searching-2500-claude-code-sessions-was-painful-so-i-fixed-it-44fi)
-- [Code Canvas: Building a New Way to See, Explore, and Understand Code](https://dev.to/afham_shakeel_bf55efcabd5/code-canvas-building-a-new-way-to-see-explore-and-understand-code-6ab)
-- [𝐃𝐞𝐞𝐩 𝐃𝐢𝐯𝐞 𝐑𝐞𝐚𝐜𝐭 𝐍𝐚𝐭𝐢𝐯𝐞 #3: 𝐁𝐚𝐛𝐞𝐥 #2— The Real-World Battlefield](https://dev.to/trng_trnhc_cd88085f/-2-the-real-world-battlefield-1g0j)
-- [Angular SEO Mastery: How I Fixed SEO for Our Angular SPA Using AWS Amplify + Prerender.io](https://dev.to/tisankan/angular-seo-mastery-how-i-fixed-seo-for-our-angular-spa-using-aws-amplify-prerenderio-3l16)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
