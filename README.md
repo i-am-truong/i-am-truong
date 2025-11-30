@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AIDE Daily Automation Build Checklist Your Implementation Roadmap](https://dev.to/sebos/aide-daily-automation-build-checklist-your-implementation-roadmap-264j)
-- [AIDE in Motion Automating and Signing System Integrity Checks](https://dev.to/sebos/aide-in-motion-automating-and-signing-system-integrity-checks-30e6)
-- [Automate PDF Data Extraction with n8n: Processing 30,000+ Documents Without Breaking a Sweat](https://dev.to/abdul_mohiz_41c63c868bb9e/automate-pdf-data-extraction-with-n8n-processing-30000-documents-without-breaking-a-sweat-15ia)
-- [GitHub search is broken for beginners — so I fixed it with an AI tool](https://dev.to/jondoehimself/github-search-is-broken-for-beginners-so-i-fixed-it-with-an-ai-tool-34io)
-- [Simplifying Container Ops: What ECS Express Mode Brings to the Table](https://dev.to/aws-builders/simplifying-container-ops-what-ecs-express-mode-brings-to-the-table-6dp)
+- [Primeros Pasos con AWS CDK en Windows: Guía Completa de Instalación](https://dev.to/tenondev/primeros-pasos-con-aws-cdk-en-windows-guia-completa-de-instalacion-2i3c)
+- [Getting Started with AWS CDK on Windows: A Complete Setup Guide](https://dev.to/tenondev/getting-started-with-aws-cdk-on-windows-a-complete-setup-guide-53cf)
+- [🚀 I Built a Lightweight Uptime &amp; API Monitoring Tool Because Nothing Felt Simple Enough](https://dev.to/ckromannn/i-built-a-lightweight-uptime-api-monitoring-tool-because-nothing-felt-simple-enough-2o4i)
+- [Primeros Pasos con AWS CDK en macOS: Guía Completa de Instalación](https://dev.to/tenondev/primeros-pasos-con-aws-cdk-en-macos-guia-completa-de-instalacion-27b3)
+- [Maximize SDK Integration for AI Conversations with Monetzly](https://dev.to/monetzly/maximize-sdk-integration-for-ai-conversations-with-monetzly-20p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
