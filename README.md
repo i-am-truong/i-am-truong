@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The future](https://dev.to/grzegorzgrzegorz/the-future-51eb)
+- [When Should You Use Backblaze B2 and When Should You Use Cloudflare R2?](https://dev.to/zororaka/when-should-you-use-backblaze-b2-and-when-should-you-use-cloudflare-r2-402o)
+- [Building Atlassian Forge app with Kiro](https://dev.to/blueorbitz/building-atlassian-forge-app-with-kiro-k7j)
+- [Git rebase vs merge](https://dev.to/lucaspereiradesouzat/git-rebase-vs-merge-j9d)
 - [Understanding User Registration: Email Agent Series Part 1](https://dev.to/nazmussaqueebashrafi/understanding-user-registration-email-agent-series-part-1-5a46)
-- [La Clave para una Landing Page que Realmente Funcione](https://dev.to/xavieroromay/la-clave-para-una-landing-page-que-realmente-funcione-4lp2)
-- [5 Reasons You Don’t Need to Move Away from JavaScript or TypeScript for the Backend](https://dev.to/zororaka/5-reasons-you-dont-need-to-move-away-from-javascript-or-typescript-for-the-backend-2861)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-2k12)
-- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-1lin)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
