@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Conquering the Shadow DOM: A Guide for Automation Testers](https://dev.to/godhirajcode/conquering-the-shadow-dom-a-guide-for-automation-testers-36i8)
-- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-1hb1)
-- [That One Weird Line of Go Code That Saved My Weekend &lpar;And My Sanity&rpar;](https://dev.to/dev-tngsh/hat-one-weird-line-of-go-code-that-saved-my-weekend-and-my-sanity-4k0h)
-- [🚀 How I Cut Deep Learning Training Time by 45% — Without Upgrading Hardware](https://dev.to/ashish_ghadigaonkar_/how-i-cut-deep-learning-training-time-by-45-without-upgrading-hardware-71f)
-- [How to Convert JSON to TypeScript Interfaces Automatically &lpar;A Developer-Friendly Guide&rpar;](https://dev.to/jsontoall_tools/how-to-convert-json-to-typescript-interfaces-automatically-a-developer-friendly-guide-2nn8)
+- [Financial Transaction Data Reconciler PayPal](https://dev.to/elianalamhost/financial-transaction-data-reconciler-paypal-240b)
+- [Stifel Modern Data Platform](https://dev.to/elianalamhost/stifel-modern-data-platform-3i7i)
+- [LocalStorage vs SessionStorage vs Cookies — When to Use What?](https://dev.to/manukumar07/localstorage-vs-sessionstorage-vs-cookies-when-to-use-what-4l6i)
+- [A Graviton Migration Success Story](https://dev.to/elianalamhost/a-graviton-migration-success-story-36ma)
+- [🚀 CI/CD Testing Tools Comparison: GitHub Actions vs GitLab CI vs Jenkins &lpar;With Real Examples!&rpar;](https://dev.to/diegocastillo12/testing-management-tools-a-comprehensive-comparison-with-real-world-examples-5930)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
