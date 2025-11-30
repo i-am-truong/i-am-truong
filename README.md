@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AWS Strands: Sequential Multi Agent Workflow](https://dev.to/omerberatsezer/aws-strands-sequential-multi-agent-workflow-366i)
 - [Self‑Taught, Not Self‑Neglected: Blue Beanie Day Tips for Indie Developers](https://dev.to/laura-wissiak/self-taught-not-self-neglected-blue-beanie-day-tips-for-indie-developers-3cb1)
 - [Repository Pattern vs Direct EF Core: The Great Debate](https://dev.to/adrianbailador/repository-pattern-vs-direct-ef-core-the-great-debate-1fon)
 - [🔥How I Automated Code Reliability with an AI Agent](https://dev.to/dev_kiran/how-i-automated-code-reliability-with-an-ai-agent-1kkb)
-- [Run Cypress autotests in parallel for Allure report](https://dev.to/smoliarick/run-cypress-autotests-in-parallel-for-allure-report-13m2)
-- [Searching 2500+ Claude Code sessions was painful, so I fixed it](https://dev.to/moshe_revah_b9ed24a93a59a/searching-2500-claude-code-sessions-was-painful-so-i-fixed-it-44fi)
+- [Getting Started with Nop: Dynamic SQL Management](https://dev.to/canonical/getting-started-with-nop-dynamic-sql-management-4gnl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
