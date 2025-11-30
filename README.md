@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Automating My Daily Workflow with n8n, Python &amp; Gemini AI](https://dev.to/sanjaydot/automating-my-daily-workflow-with-n8n-python-gemini-ai-1a1c)
+- [I asked successful entrepreneurs about their transition from employee to founder](https://dev.to/techwood/i-asked-successful-entrepreneurs-about-their-transition-from-employee-to-founder-5881)
+- [Firecracker – The Virtualization Technology Behind AWS Lambda and Bedrock AgentCore Runtime](https://dev.to/nghidanh2005/firecracker-the-virtualization-technology-behind-aws-lambda-and-bedrock-agentcore-runtime-3k9j)
 - [Laziness: A Feature, Not A Bug](https://dev.to/thinkaddict/laziness-a-feature-not-a-bug-3lic)
 - [I built a search engine to help consultants find work without recruiters](https://dev.to/consultant_dev/i-built-a-search-engine-to-help-consultants-find-work-without-recruiters-4g6a)
-- [I built a Google Maps Clone using Next.js 16 + Leaflet — now it’s an Open-Source Starter Kit](https://dev.to/wellywahyudi/i-built-a-google-maps-clone-using-nextjs-16-leaflet-now-its-an-open-source-starter-kit-9n5)
-- [From Static Docs to Living Knowledge: Building an STS‑Aware Retrieval‑Augmented Agent Backend](https://dev.to/suraj_khaitan_f893c243958/from-static-docs-to-living-knowledge-building-an-sts-aware-retrieval-augmented-agent-backend-dng)
-- [The Architect &amp; The Automaton: A New Map for Full-Stack Developers](https://dev.to/thinkaddict/the-architect-the-automaton-a-new-map-for-full-stack-developers-5hcp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
