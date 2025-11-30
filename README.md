@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My Model Cheated: How Grad-CAM Exposed a 95% Accuracy Lie](https://dev.to/tsadarsh/my-model-cheated-how-grad-cam-exposed-a-95-accuracy-lie-2n81)
 - [Used Mermaid.js to map out my DAWless live rig. Really great for documenting complex MIDI, Audio, and CV signal flow!](https://dev.to/mikeydorje/used-mermaidjs-to-map-out-my-dawless-live-rig-really-great-for-documenting-complex-midi-audio-4ca7)
 - [I built an Advanced Python &amp; JS Obfuscator with AI Auto-Decryption 🛡️](https://dev.to/euromoscow/i-built-an-advanced-python-js-obfuscator-with-ai-auto-decryption-haa)
+- [Connection-Management-Art-The-Performance-Secrets-of-Low-Level-Architecture](https://dev.to/member_8455d9df/connection-management-art-the-performance-secrets-of-low-level-architecture-2okg)
 - [[AWS] DevTools Evangelism: CodeDeploy Edition](https://dev.to/aws-builders/aws-devtools-evangelism-codedeploy-edition-deg)
-- [The UK Global Talent Visa: A Complete Breakdown for Developers in 2026](https://dev.to/asad1/the-uk-global-talent-visa-a-complete-breakdown-for-developers-in-2026-5a0e)
-- [Sealed Box AI: A Runbook for Owning Your Own Local-Only AI Stack](https://dev.to/jtarkington77/sealed-box-ai-a-runbook-for-owning-your-own-local-only-ai-stack-4p4i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
