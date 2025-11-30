@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Can&#39;t Afford Ads for My SaaS, So I&#39;m Trying This Instead.](https://dev.to/wwenioaguiar/i-cant-afford-ads-for-my-saas-so-im-trying-this-instead-2m8d)
-- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-2go4)
-- [Developing real-time, humanlike AI video agents that enable natural customer interactions](https://dev.to/hardiquedasore/developing-real-time-humanlike-ai-video-agents-that-enable-natural-customer-interactions-4hj5)
-- [2025: Code Clarity Is Becoming the New Team Multiplier](https://dev.to/farhannasirdev/2025-code-clarity-is-becoming-the-new-team-multiplier-27bi)
-- [Maglev-Pentabot: From Factory Floor to Surgical Precision? The Future of Non-Contact Manipulation](https://dev.to/arvind_sundararajan/maglev-pentabot-from-factory-floor-to-surgical-precision-the-future-of-non-contact-manipulation-lb1)
+- [Hoppscotch — The Open Source API Development Ecosystem](https://dev.to/codefalconx/hoppscotch-the-open-source-api-development-ecosystem-4m5b)
+- [The 20 Most Essential DevOps Tools: Bridging the Gap Between Development and Operations](https://dev.to/softwaredeveloperhub01/the-20-most-essential-devops-tools-bridging-the-gap-between-development-and-operations-2m6i)
+- [251130: zsh: cd](https://dev.to/mlajkim/251130-zsh-cd-460i)
+- [What is a &quot;Retreat&quot; Suitable for Engineers](https://dev.to/stakiran/what-is-a-retreat-suitable-for-engineers-g12)
+- [Unlocking AI&#39;s Universal Secrets: Do Neural Networks Think in Fractals?](https://dev.to/arvind_sundararajan/unlocking-ais-universal-secrets-do-neural-networks-think-in-fractals-1o2i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
