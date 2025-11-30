@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Jordium Gantt Vue3 v1.4.3 — High-Performance Gantt Charts for Large Datasets](https://dev.to/nelson_li_c5265341756c7ab/jordium-gantt-vue3-v143-high-performance-gantt-charts-for-large-datasets-3ih3)
-- [🌱 Day 1 — Introduction to Terraform | 30 Days Terraform Challenge](https://dev.to/lalit192977/day-1-introduction-to-terraform-30-days-terraform-challenge-1jj8)
-- [Poems About Tech Burnout: When Senior Engineers Start Dreaming of a Simpler Life](https://dev.to/adamthedeveloper/when-senior-devs-dream-of-dirt-two-poems-from-the-tech-industry-524h)
-- [Qeltrix V6: The Future of Network-Native Encrypted Streaming](https://dev.to/hejhdiss/qeltrix-v6-the-future-of-network-native-encrypted-streaming-13k6)
-- [From Attendee to Advocate: My Journey with AWS User Group Vadodara](https://dev.to/aditmodi/from-attendee-to-advocate-my-journey-with-aws-user-group-vadodara-1948)
+- [Visualizing Year/Month/Day Progress in Grafana](https://dev.to/mkt/visualizing-yearmonthday-progress-in-grafana-1mf4)
+- [How I Built FlyScrape: A TypeScript Web Scraper That Actually Works on Modern Websites](https://dev.to/admirsaheta/how-i-built-flyscrape-a-typescript-web-scraper-that-actually-works-on-modern-websites-4d9g)
+- [Will Data Science Still Rule 2026?](https://dev.to/mabualzait/will-data-science-still-rule-2026-2bj)
+- [Breaking the Sound Barrier with AI: Real-Time Flight Simulation Arrives by Arvind Sundararajan](https://dev.to/arvind_sundararajan/breaking-the-sound-barrier-with-ai-real-time-flight-simulation-arrives-by-arvind-sundararajan-64p)
+- [માનસિક](https://dev.to/ddr_pdr_d754dc776c87532ad/maansik-2mho)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
