@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Financial Transaction Data Reconciler PayPal](https://dev.to/elianalamhost/financial-transaction-data-reconciler-paypal-240b)
-- [Stifel Modern Data Platform](https://dev.to/elianalamhost/stifel-modern-data-platform-3i7i)
-- [LocalStorage vs SessionStorage vs Cookies — When to Use What?](https://dev.to/manukumar07/localstorage-vs-sessionstorage-vs-cookies-when-to-use-what-4l6i)
-- [A Graviton Migration Success Story](https://dev.to/elianalamhost/a-graviton-migration-success-story-36ma)
-- [🚀 CI/CD Testing Tools Comparison: GitHub Actions vs GitLab CI vs Jenkins &lpar;With Real Examples!&rpar;](https://dev.to/diegocastillo12/testing-management-tools-a-comprehensive-comparison-with-real-world-examples-5930)
+- [The Ultimate Java Setup Guide &lpar;2025&rpar;: Install JDK on Windows, Mac &amp; Linux](https://dev.to/srfdeveloper/the-ultimate-java-setup-guide-2025-install-jdk-on-windows-mac-linux-3cbd)
+- [Understanding Amazon VPC - Overview and Fundamentals](https://dev.to/jajera/understanding-amazon-vpc-overview-and-fundamentals-51ii)
+- [Building an AWS Content Delivery Stack with Terraform](https://dev.to/jajera/building-an-aws-content-delivery-stack-with-terraform-end)
+- [Comparing Great Expectations and CsvPath Framework](https://dev.to/david_kershaw_b6916404da6/comparing-great-expectations-and-csvpath-framework-3lfg)
+- [Interview-prep-app](https://dev.to/ved_dixit_b30399395d33d00/interview-prep-app-1ddh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
