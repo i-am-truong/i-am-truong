@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Java Setup Guide &lpar;2025&rpar;: Install JDK on Windows, Mac &amp; Linux](https://dev.to/srfdeveloper/the-ultimate-java-setup-guide-2025-install-jdk-on-windows-mac-linux-3cbd)
-- [Understanding Amazon VPC - Overview and Fundamentals](https://dev.to/jajera/understanding-amazon-vpc-overview-and-fundamentals-51ii)
-- [Building an AWS Content Delivery Stack with Terraform](https://dev.to/jajera/building-an-aws-content-delivery-stack-with-terraform-end)
-- [Comparing Great Expectations and CsvPath Framework](https://dev.to/david_kershaw_b6916404da6/comparing-great-expectations-and-csvpath-framework-3lfg)
-- [Interview-prep-app](https://dev.to/ved_dixit_b30399395d33d00/interview-prep-app-1ddh)
+- [High-Performance Networking &lpar;RDMA, InfiniBand&rpar;](https://dev.to/godofgeeks/high-performance-networking-rdma-infiniband-o2e)
+- [How to Get License Key for 4K Video Downloader Free?](https://dev.to/james130/how-to-get-license-key-for-4k-video-downloader-free-3edg)
+- [NextGen Tools: Product Launch Platform to Showcase Your AI and SaaS Tools](https://dev.to/robg12369/nextgen-tools-product-launch-platform-to-showcase-your-ai-and-saas-tools-4fpb)
+- [Smart Roads, Safer Cities: AI Guards Against Infrastructure Chaos by Arvind Sundararajan](https://dev.to/arvind_sundararajan/smart-roads-safer-cities-ai-guards-against-infrastructure-chaos-by-arvind-sundararajan-36ih)
+- [Construí un Gestor de Contraseñas Avanzado en Julia &lpar;oh si, Juliaaaa&rpar;](https://dev.to/rventz/construi-un-gestor-de-contrasenas-avanzado-en-julia-oh-si-juliaaaa-5foe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
