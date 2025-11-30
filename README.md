@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [BIG STEPS TO TRANSFORMER &lpar;PART 1&rpar;: BUILDING THE BIGRAM](https://dev.to/blackbidz/big-steps-to-transformer-part-1-building-the-bigram-1g9b)
-- [How to Add Audit Logs to Your App &lpar;The Complete Guide for Developers&rpar;](https://dev.to/shreya_srivastava_a4cab6e/how-to-add-audit-logs-to-your-app-the-complete-guide-for-developers-h18)
-- [Computer Science Series #1: Halt and Catch Fire](https://dev.to/tkouleris/computer-science-series-1-halt-and-catch-fire-2hn8)
-- [A Beginner’s Guide to Power Yoga for Weight Loss and Strength](https://dev.to/bhaktimeshakti/a-beginners-guide-to-power-yoga-for-weight-loss-and-strength-3e4p)
-- [Object Detection in Java with OpenCV + YOLO11 &lpar;Full Guide + Source Code&rpar;](https://dev.to/vadym_vorobiov_fa6741006a/object-detection-in-java-with-opencv-yolo11-full-guide-source-code-43i1)
+- [i built a tiny mood based video picker so my lunch break doesnt disappear into scrolling](https://dev.to/prasetyanurangga/i-built-a-tiny-mood-based-video-picker-so-my-lunch-break-doesnt-disappear-into-scrolling-4hkp)
+- [The Infrastructure Overhaul That Saved My Development Velocity — A Traefik &amp; Turborepo Migration Story](https://dev.to/wintrover/the-infrastructure-overhaul-that-saved-my-development-velocity-a-traefik-turborepo-migration-420l)
+- [Stop Doomscrolling: I Built an Autonomous AI Agent to Filter the Noise &lpar;Python + LangGraph&rpar;](https://dev.to/amrithesh_dev/stop-doomscrolling-i-built-an-autonomous-ai-agent-to-filter-the-noise-python-langgraph-31k)
+- [The 7 Best AI Powered Diagrams to Supercharge Your Workflow](https://dev.to/ishmam_jahan_4269b6f13ba5/the-7-best-ai-powered-diagrams-to-supercharge-your-workflow-3bda)
+- [Understanding Terraform Providers: A Beginner’s Guide](https://dev.to/lalit192977/understanding-terraform-providers-a-beginners-guide-1fln)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
