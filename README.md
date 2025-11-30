@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Surface Tension](https://dev.to/interstelios/surface-tension-2h70)
-- [&quot;THIS Is Not My Child&quot; - Integrating PIXI.js in Tauri Vite React](https://dev.to/etekinalp/this-is-not-my-child-integrating-pixijs-in-tauri-vite-react-4j0b)
-- [Building The Digital Exorcism: Infinite Replayability Through Dynamic Generation &lpar;Part 2&rpar;](https://dev.to/yooi/building-the-digital-exorcism-infinite-replayability-through-dynamic-generation-part-2-cjo)
-- [Day 06: Organizing Your Infrastructure as Code for your Project](https://dev.to/andylovecloud/day-06-organizing-your-infrastructure-as-code-for-your-project-4nko)
-- [Turbocharge Your AI: Dynamic Inference Scaling on HPC Infrastructure](https://dev.to/arvind_sundararajan/turbocharge-your-ai-dynamic-inference-scaling-on-hpc-infrastructure-4n7k)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-3bj3)
+- [Devnexus 2026 Showcases the Powerful Intersection of AI, Java, and Modern Developer Tooling in Atlanta](https://dev.to/vincentmayers/devnexus-2026-showcases-the-powerful-intersection-of-ai-java-and-modern-developer-tooling-in-5a3k)
+- [Master Terraform in 20 Minutes: Concepts, Commands &amp; CI/CD](https://dev.to/kaustubhyerkade/master-terraform-in-20-minutes-concepts-commands-flow-cicd-4g0h)
+- [Footer TagHelper](https://dev.to/karenpayneoregon/footer-taghelper-457p)
+- [Building a File Transfer TUI Nobody Asked For: tuit](https://dev.to/mr_bloodrune/building-a-file-transfer-tui-nobody-asked-for-tuit-jge)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
