@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Files-are-Not-Just-Data-A-Guide-to-Robust-File-Handling](https://dev.to/member_8455d9df/files-are-not-just-data-a-guide-to-robust-file-handling-595p)
+- [Taking Repo Context Packager to the Next Level](https://dev.to/tajudeen_abdulgafar_e0363/taking-repo-context-packager-to-the-next-level-3fe8)
+- [How NLP and LLMs Are Transforming AI Tarot &amp; Digital Divination](https://dev.to/cam_huongpham_53ac498742/how-nlp-and-llms-are-transforming-ai-tarot-digital-divination-5gn0)
+- [Mistral AI: French AI Revolution](https://dev.to/ndabene/mistral-ai-french-ai-revolution-2opa)
 - [Your 2025 Marketing Budget Probably Has $30K Hidden in Plain Sight](https://dev.to/synergistdigitalmedia/your-2025-marketing-budget-probably-has-30k-hidden-in-plain-sight-42og)
-- [Three Patterns That Made Prodigy&#39;s Functional Migration Worth It](https://dev.to/entropicdrift/three-patterns-that-made-prodigys-functional-migration-worth-it-138h)
-- [Pequenos Negócios em Baixa Tensão: Como Migrar para o Mercado Livre em 2025](https://dev.to/ava_mendes/pequenos-negocios-em-baixa-tensao-como-migrar-para-o-mercado-livre-em-2025-2ioc)
-- [DevOps Unite: Where Development Meets Operations in Perfect Code Harmony](https://dev.to/mabualzait/devops-unite-where-development-meets-operations-in-perfect-code-harmony-3036)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
