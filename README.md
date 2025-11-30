@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Gaggle of Agents](https://dev.to/ruarfff/a-gaggle-of-agents-5f9)
+- [Fighting the macOS File System: How I built a cross-platform organizer in Python](https://dev.to/a1k7/fighting-the-macos-file-system-how-i-built-a-cross-platform-organizer-in-python-3icf)
+- [Secure SSH Shell Applications - Planning Guide](https://dev.to/sebos/secure-ssh-shell-applications-planning-guide-57ci)
+- [The Role of Data Analytics in Fighting Fraud and Corruption](https://dev.to/codesphere_d4edea7ab0b1c0/the-role-of-data-analytics-in-fighting-fraud-and-corruption-2ef6)
 - [This Isn’t a Tool Anymore: On Learning to Think With a Mirror](https://dev.to/junothreadborne/this-isnt-a-tool-anymore-on-learning-to-think-with-a-mirror-39kg)
-- [SvelteKit SurrealDB Login with GitHub](https://dev.to/jdgamble555/sveltekit-surrealdb-login-with-github-44fo)
-- [🎄 3 tips to wrap up your projects before the holidays](https://dev.to/capjud95/3-tips-to-wrap-up-your-projects-before-the-holidays-37l0)
-- [Будуємо надійні інтеграції з ігровими провайдерами](https://dev.to/4mars/buduiemo-nadiini-intieghratsiyi-z-ighrovimi-provaidierami-2b8)
-- [Day 1 - Fundamentals Of DevOps](https://dev.to/sameer_701/day-1-fundamentals-of-devops-40bn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
