@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly #48-2025: AI, Enterprise Knowledge, and the Future of Engineering](https://dev.to/weekly/weekly-48-2025-ai-enterprise-knowledge-and-the-future-of-engineering-eg8)
 - [Automating My Daily Workflow with n8n, Python &amp; Gemini AI](https://dev.to/sanjaydot/automating-my-daily-workflow-with-n8n-python-gemini-ai-1a1c)
 - [I asked successful entrepreneurs about their transition from employee to founder](https://dev.to/techwood/i-asked-successful-entrepreneurs-about-their-transition-from-employee-to-founder-5881)
-- [Firecracker – The Virtualization Technology Behind AWS Lambda and Bedrock AgentCore Runtime](https://dev.to/nghidanh2005/firecracker-the-virtualization-technology-behind-aws-lambda-and-bedrock-agentcore-runtime-3k9j)
-- [Laziness: A Feature, Not A Bug](https://dev.to/thinkaddict/laziness-a-feature-not-a-bug-3lic)
-- [I built a search engine to help consultants find work without recruiters](https://dev.to/consultant_dev/i-built-a-search-engine-to-help-consultants-find-work-without-recruiters-4g6a)
+- [Why LangChain Is Better Than Raw LLM APIs — A Quick Developer-Friendly Breakdown](https://dev.to/arfatapp/why-langchain-is-better-than-raw-llm-apis-a-quick-developer-friendly-breakdown-1c74)
+- [check my HTML,CSS,JS playground](https://dev.to/_786_sohail/check-my-htmlcssjs-playground-3lne)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
