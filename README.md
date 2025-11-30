@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Your Brain Isn’t Broken — Your Mental Architecture Is Outdated](https://dev.to/drift_42_3e6b9ee4b81a41d3/your-brain-isnt-broken-your-mental-architecture-is-outdated-364f)
 - [Enshittification: Why I’m leaving dev.to](https://dev.to/autonomousapps/enshittification-why-im-leaving-devto-3npn)
 - [Most developers use AI… but very few know how to think with AI.](https://dev.to/aldgar/most-developers-use-ai-but-very-few-know-how-to-think-with-ai-328m)
 - [Design on the Go: The Best Lightweight Browser Vector Editors for Digital Marketers](https://dev.to/buysellshop/design-on-the-go-the-best-lightweight-browser-vector-editors-for-digital-marketers-ifk)
 - [I Fully Automated Resumes](https://dev.to/frozen12/i-fully-automated-resumes-7ip)
-- [Social Listening Enhanced by Sentiment and Entity Recognition](https://dev.to/compass_solutions_cb7c065/social-listening-enhanced-by-sentiment-and-entity-recognition-4dog)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
