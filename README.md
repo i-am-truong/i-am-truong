@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Jordium Gantt Vue3 v1.4.3 — High-Performance Gantt Charts for Large Datasets](https://dev.to/nelson_li_c5265341756c7ab/jordium-gantt-vue3-v143-high-performance-gantt-charts-for-large-datasets-3ih3)
+- [🌱 Day 1 — Introduction to Terraform | 30 Days Terraform Challenge](https://dev.to/lalit192977/day-1-introduction-to-terraform-30-days-terraform-challenge-1jj8)
+- [Poems About Tech Burnout: When Senior Engineers Start Dreaming of a Simpler Life](https://dev.to/adamthedeveloper/when-senior-devs-dream-of-dirt-two-poems-from-the-tech-industry-524h)
 - [Qeltrix V6: The Future of Network-Native Encrypted Streaming](https://dev.to/hejhdiss/qeltrix-v6-the-future-of-network-native-encrypted-streaming-13k6)
 - [From Attendee to Advocate: My Journey with AWS User Group Vadodara](https://dev.to/aditmodi/from-attendee-to-advocate-my-journey-with-aws-user-group-vadodara-1948)
-- [How to Send ESP32 Sensor Data to Miniviz for Real-time Visualization&lpar;Miniviz #1&rpar;](https://dev.to/yoshidataisei/how-to-send-esp32-sensor-data-to-miniviz-for-real-time-visualizationminiviz-1-59na)
-- [Stop Buying the Wrong Wi-Fi Adapter for Kali Linux &lpar;2025 Guide&rpar;](https://dev.to/divyanshu_bhoir_10d826831/stop-buying-the-wrong-wi-fi-adapter-for-kali-linux-2025-guide-obl)
-- [Introduction to Azure Storage](https://dev.to/delamywa/introduction-to-azure-storage-5781)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
