@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Automating the Migration from Selenium/Appium to Maestro](https://dev.to/godhirajcode/automating-the-migration-from-seleniumappium-to-maestro-2i54)
 - [How Technical Documentation Boosts SaaS Conversions](https://dev.to/kapusto/how-technical-documentation-boosts-saas-conversions-4kpd)
 - [Leveraging Predictive Maintenance for Industrial Equipment](https://dev.to/kapusto/leveraging-predictive-maintenance-for-industrial-equipment-4lb)
 - [Why Workforce Cost Visibility Has Become a Critical Advantage for Project-Based Businesses](https://dev.to/kapusto/why-workforce-cost-visibility-has-become-a-critical-advantage-for-project-based-businesses-4b8g)
 - [The Dopamine Hit of git push vs. The Agony of git revert](https://dev.to/_boweii/the-dopamine-hit-of-git-push-vs-the-agony-of-git-revert-2icf)
-- [Meta&#39;s AI Ad Creative Generator: What Actually Works &lpar;And What&#39;s Still Broken&rpar;](https://dev.to/synergistdigitalmedia/metas-ai-ad-creative-generator-what-actually-works-and-whats-still-broken-2pg6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
