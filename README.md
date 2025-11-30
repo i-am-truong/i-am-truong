@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🛡️ How to Keep Your Application Updated on the Latest Security Threats &amp; Vulnerabilities](https://dev.to/anisubhra_sarkar/how-to-keep-your-application-updated-on-the-latest-security-threats-vulnerabilities-26i1)
-- [Fixing Legacy Dates in Uniface 10: The $NLS\_DISABLE\_NON\_GREGORIAN\_CALENDAR Switch](https://dev.to/petercode/fixing-legacy-dates-in-uniface-10-the-nlsdisablenongregoriancalendar-switch-9m7)
-- [50+ React Pro Tips You Must Know For Better Coding](https://dev.to/myogeshchavan97/50-react-pro-tips-you-must-know-for-better-coding-2okp)
-- [How Competitive Gaming Shapes the Digital Future: A Deep Dive Into Esports, Technology, and Player Culture](https://dev.to/nagagm/how-competitive-gaming-shapes-the-digital-future-a-deep-dive-into-esports-technology-and-player-57ij)
-- [Why GPUs Ate the AI World](https://dev.to/jiminlee/why-gpus-ate-the-ai-world-2i87)
+- [Introduction to Azure Storage](https://dev.to/delamywa/introduction-to-azure-storage-5781)
+- [Event Loop: Call Stack, Web API, Task Queue, Microtask Queue](https://dev.to/antonov_mike/event-loop-call-stack-web-api-task-queue-microtask-queue-1eb2)
+- [AI Ranking Analyzer Tools](https://dev.to/arc_support_458635af462f4/ai-ranking-analyzer-tools-22g0)
+- [AI Keyword Tracking Tools](https://dev.to/babamanga/ai-keyword-tracking-tools-5e53)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-2lc4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
