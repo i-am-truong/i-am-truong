@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [MCPs for Developers Who Think They Don&#39;t Need MCPs](https://dev.to/blockopensource/mcps-for-developers-who-think-they-dont-need-mcps-4736)
-- [My Model Cheated: How Grad-CAM Exposed a 95% Accuracy Lie](https://dev.to/tsadarsh/my-model-cheated-how-grad-cam-exposed-a-95-accuracy-lie-2n81)
-- [Used Mermaid.js to map out my DAWless live rig. Really great for documenting complex MIDI, Audio, and CV signal flow!](https://dev.to/mikeydorje/used-mermaidjs-to-map-out-my-dawless-live-rig-really-great-for-documenting-complex-midi-audio-4ca7)
-- [I built an Advanced Python &amp; JS Obfuscator with AI Auto-Decryption 🛡️](https://dev.to/euromoscow/i-built-an-advanced-python-js-obfuscator-with-ai-auto-decryption-haa)
-- [Connection-Management-Art-The-Performance-Secrets-of-Low-Level-Architecture](https://dev.to/member_8455d9df/connection-management-art-the-performance-secrets-of-low-level-architecture-2okg)
+- [Conan in Neovim: One command to rule them all](https://dev.to/silletr/conan-in-neovim-one-command-to-rule-them-all-513g)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-3bb5)
+- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-25h6)
+- [SpecterBeats](https://dev.to/vitamindel/specterbeats-4p40)
+- [One-command ComfyUI on Cloud GPUs: A Practical, Repeatable Setup](https://dev.to/promptingpixels/one-command-comfyui-on-cloud-gpus-a-practical-repeatable-setup-24hc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
