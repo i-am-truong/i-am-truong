@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Subscribe to Google Chat events using the Google Workspace Events API](https://dev.to/googleworkspace/subscribe-to-google-chat-events-using-the-google-workspace-events-api-g0c)
-- [Create and organize Docs with tabs, more card interface features for Google Chat, and more!](https://dev.to/googleworkspace/create-and-organize-docs-with-tabs-more-card-interface-features-for-google-chat-and-more-1eba)
-- [Google Workspace Developer News - Episode 12 #shorts](https://dev.to/googleworkspace/google-workspace-developer-news-episode-12-shorts-527f)
-- [Dara&#39;s thoughts on the Google Workspace Developer Summit #shorts](https://dev.to/googleworkspace/daras-thoughts-on-the-google-workspace-developer-summit-shorts-4eg1)
-- [What does a Technical Writer do?](https://dev.to/googleworkspace/what-does-a-technical-writer-do-22k3)
+- [Conquering the Shadow DOM: A Guide for Automation Testers](https://dev.to/godhirajcode/conquering-the-shadow-dom-a-guide-for-automation-testers-36i8)
+- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-1hb1)
+- [That One Weird Line of Go Code That Saved My Weekend &lpar;And My Sanity&rpar;](https://dev.to/dev-tngsh/hat-one-weird-line-of-go-code-that-saved-my-weekend-and-my-sanity-4k0h)
+- [🚀 How I Cut Deep Learning Training Time by 45% — Without Upgrading Hardware](https://dev.to/ashish_ghadigaonkar_/how-i-cut-deep-learning-training-time-by-45-without-upgrading-hardware-71f)
+- [How to Convert JSON to TypeScript Interfaces Automatically &lpar;A Developer-Friendly Guide&rpar;](https://dev.to/jsontoall_tools/how-to-convert-json-to-typescript-interfaces-automatically-a-developer-friendly-guide-2nn8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
