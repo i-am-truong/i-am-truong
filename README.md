@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Qeltrix V6: The Future of Network-Native Encrypted Streaming](https://dev.to/hejhdiss/qeltrix-v6-the-future-of-network-native-encrypted-streaming-13k6)
+- [From Attendee to Advocate: My Journey with AWS User Group Vadodara](https://dev.to/aditmodi/from-attendee-to-advocate-my-journey-with-aws-user-group-vadodara-1948)
 - [How to Send ESP32 Sensor Data to Miniviz for Real-time Visualization&lpar;Miniviz #1&rpar;](https://dev.to/yoshidataisei/how-to-send-esp32-sensor-data-to-miniviz-for-real-time-visualizationminiviz-1-59na)
 - [Stop Buying the Wrong Wi-Fi Adapter for Kali Linux &lpar;2025 Guide&rpar;](https://dev.to/divyanshu_bhoir_10d826831/stop-buying-the-wrong-wi-fi-adapter-for-kali-linux-2025-guide-obl)
 - [Introduction to Azure Storage](https://dev.to/delamywa/introduction-to-azure-storage-5781)
-- [The Case of the Zombie Transaction: Solving &#39;Unknown Unknowns&#39; with OpenTelemetry &amp; High Cardinality](https://dev.to/ahmed_a_o/the-case-of-the-zombie-transaction-solving-unknown-unknowns-with-opentelemetry-high-cardinality-56b1)
-- [The Introduction](https://dev.to/lovishjaswal/the-introduction-4o9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
