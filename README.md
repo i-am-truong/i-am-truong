@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-3g7d)
+- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-4a78)
+- [Analyzing psqlrc Settings on GitHub: How PostgreSQL Engineers Configure PostgreSQL](https://dev.to/shinyakato_/analyzing-psqlrc-settings-on-github-how-postgresql-engineers-configure-postgresql-1b3f)
 - [The 2026 Computer Science Playbook: How to Learn, Where to Focus, and What It Really Takes to Get Hired in the AI Era](https://dev.to/naveens16/the-2026-computer-science-playbook-how-to-learn-where-to-focus-and-what-it-really-takes-to-get-3nm1)
 - [Somewhere here](https://dev.to/preetha_vaishnavi_2b82358/somewhere-here-25om)
-- [Complete Guide: How to Set AI Coding Rules for Zed](https://dev.to/yigit-konur/complete-guide-how-to-set-ai-coding-rules-for-zed-ak8)
-- [Complete Guide: How to Set AI Coding Rules for Roo-Cline &lpar;Modes/Rules and more&rpar;](https://dev.to/yigit-konur/complete-guide-how-to-set-ai-coding-rules-for-roo-cline-modesrules-and-more-1kjk)
-- [Flutter Row vs Column: The Ultimate Alignment Cheat Sheet &lpar;2025&rpar;](https://dev.to/srfdeveloper/flutter-row-vs-column-the-ultimate-alignment-cheat-sheet-2025-46l5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
