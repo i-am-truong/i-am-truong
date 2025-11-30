@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [i built a tiny mood based video picker so my lunch break doesnt disappear into scrolling](https://dev.to/prasetyanurangga/i-built-a-tiny-mood-based-video-picker-so-my-lunch-break-doesnt-disappear-into-scrolling-4hkp)
-- [The Infrastructure Overhaul That Saved My Development Velocity — A Traefik &amp; Turborepo Migration Story](https://dev.to/wintrover/the-infrastructure-overhaul-that-saved-my-development-velocity-a-traefik-turborepo-migration-420l)
-- [Stop Doomscrolling: I Built an Autonomous AI Agent to Filter the Noise &lpar;Python + LangGraph&rpar;](https://dev.to/amrithesh_dev/stop-doomscrolling-i-built-an-autonomous-ai-agent-to-filter-the-noise-python-langgraph-31k)
-- [The 7 Best AI Powered Diagrams to Supercharge Your Workflow](https://dev.to/ishmam_jahan_4269b6f13ba5/the-7-best-ai-powered-diagrams-to-supercharge-your-workflow-3bda)
-- [Understanding Terraform Providers: A Beginner’s Guide](https://dev.to/lalit192977/understanding-terraform-providers-a-beginners-guide-1fln)
+- [Run Cypress autotests in parallel for Allure report](https://dev.to/smoliarick/run-cypress-autotests-in-parallel-for-allure-report-13m2)
+- [Searching 2500+ Claude Code sessions was painful, so I fixed it](https://dev.to/moshe_revah_b9ed24a93a59a/searching-2500-claude-code-sessions-was-painful-so-i-fixed-it-44fi)
+- [Code Canvas: Building a New Way to See, Explore, and Understand Code](https://dev.to/afham_shakeel_bf55efcabd5/code-canvas-building-a-new-way-to-see-explore-and-understand-code-6ab)
+- [𝐃𝐞𝐞𝐩 𝐃𝐢𝐯𝐞 𝐑𝐞𝐚𝐜𝐭 𝐍𝐚𝐭𝐢𝐯𝐞 #3: 𝐁𝐚𝐛𝐞𝐥 #2— The Real-World Battlefield](https://dev.to/trng_trnhc_cd88085f/-2-the-real-world-battlefield-1g0j)
+- [Angular SEO Mastery: How I Fixed SEO for Our Angular SPA Using AWS Amplify + Prerender.io](https://dev.to/tisankan/angular-seo-mastery-how-i-fixed-seo-for-our-angular-spa-using-aws-amplify-prerenderio-3l16)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
