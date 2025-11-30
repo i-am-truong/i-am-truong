@@ -120,10 +120,10 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/gyj/-1kn4)
+- [Surface Tension](https://dev.to/interstelios/surface-tension-2h70)
+- [&quot;THIS Is Not My Child&quot; - Integrating PIXI.js in Tauri Vite React](https://dev.to/etekinalp/this-is-not-my-child-integrating-pixijs-in-tauri-vite-react-4j0b)
 - [Building The Digital Exorcism: Infinite Replayability Through Dynamic Generation &lpar;Part 2&rpar;](https://dev.to/yooi/building-the-digital-exorcism-infinite-replayability-through-dynamic-generation-part-2-cjo)
 - [Day 06: Organizing Your Infrastructure as Code for your Project](https://dev.to/andylovecloud/day-06-organizing-your-infrastructure-as-code-for-your-project-4nko)
-- [Antigravity vs Claude Code: Ultimate Agentic Dev Showdown](https://dev.to/robort-gabriel/antigravity-vs-claude-code-ultimate-agentic-dev-showdown-1njp)
 - [Turbocharge Your AI: Dynamic Inference Scaling on HPC Infrastructure](https://dev.to/arvind_sundararajan/turbocharge-your-ai-dynamic-inference-scaling-on-hpc-infrastructure-4n7k)
 <!-- BLOG-POST-LIST:END -->
 
