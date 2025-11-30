@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Supabase and the Illusion of “Easy Caching”: Why PostgreSQL Reads Can’t Be Automatic](https://dev.to/ahammednibras8/supabase-and-the-illusion-of-easy-caching-why-postgresql-reads-cant-be-automatic-1ed2)
-- [Serverless FastAPI Deployment: Actions Speak Louder Than Words](https://dev.to/adrianm/serverless-fastapi-deployment-actions-speak-louder-than-words-1k8i)
-- [Windows](https://dev.to/jacobhsu/windows-3o51)
-- [Typescript Language Code Parser for Secrin](https://dev.to/jenilsavani_/typescript-language-code-parser-for-secrin-41d9)
-- [Bedrock AgentCore: What 5 Real ANZ Enterprise Deploys Taught Us](https://dev.to/rajmurugan/bedrock-agentcore-what-5-real-anz-enterprise-deploys-taught-us-1e28)
+- [Creational Design Patterns in Java: Industry Stories That Make Them Stick](https://dev.to/akash_pratapsingh_15d169/creational-design-patterns-in-java-industry-stories-that-make-them-stick-33p1)
+- [10 Mistakes I Made As a Beginner Full-Stack Developer &lpar;That You Can Avoid&rpar;](https://dev.to/akshat_sharma_01719d9a025/10-mistakes-i-made-as-a-beginner-full-stack-developer-that-you-can-avoid-357l)
+- [Causal AI for Developers: Go Beyond Correlation and Make Smarter Decisions](https://dev.to/infinicreator/causal-ai-for-developers-go-beyond-correlation-and-make-smarter-decisions-1ej3)
+- [Generate CHANGELOG.md Automatically 🤖](https://dev.to/nyaomaru/generate-changelogmd-automatically-26g1)
+- [About Babar Azam](https://dev.to/preetha_vaishnavi_2b82358/about-babar-azam-38a5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
