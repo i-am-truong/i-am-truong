@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Memory-Safety-Ultimate-Guardian](https://dev.to/member_8455d9df/memory-safety-ultimate-guardian-2j16)
-- [Jutro Digital Platform — Guidewire’s Secret Sauce for Modern Insurance Apps](https://dev.to/mohantammineni/jutro-digital-platform-guidewires-secret-sauce-for-modern-insurance-apps-4j2e)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-526)
-- [Mengenal React Redux dan React Native Elements](https://dev.to/sandatya_widhi_ce7cb1c809/mengenal-react-redux-dan-react-native-elements-2j47)
-- [My Simple Workflow: Python Database UI](https://dev.to/sareena_rahim/my-simple-workflow-python-database-ui-36gd)
+- [Files-are-Not-Just-Data-A-Guide-to-Robust-File-Handling](https://dev.to/member_8455d9df/files-are-not-just-data-a-guide-to-robust-file-handling-595p)
+- [Your 2025 Marketing Budget Probably Has $30K Hidden in Plain Sight](https://dev.to/synergistdigitalmedia/your-2025-marketing-budget-probably-has-30k-hidden-in-plain-sight-42og)
+- [Three Patterns That Made Prodigy&#39;s Functional Migration Worth It](https://dev.to/entropicdrift/three-patterns-that-made-prodigys-functional-migration-worth-it-138h)
+- [Pequenos Negócios em Baixa Tensão: Como Migrar para o Mercado Livre em 2025](https://dev.to/ava_mendes/pequenos-negocios-em-baixa-tensao-como-migrar-para-o-mercado-livre-em-2025-2ioc)
+- [DevOps Unite: Where Development Meets Operations in Perfect Code Harmony](https://dev.to/mabualzait/devops-unite-where-development-meets-operations-in-perfect-code-harmony-3036)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
