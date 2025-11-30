@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [50+ React Pro Tips You Must Know For Better Coding](https://dev.to/myogeshchavan97/50-react-pro-tips-you-must-know-for-better-coding-2okp)
+- [Why GPUs Ate the AI World](https://dev.to/jiminlee/why-gpus-ate-the-ai-world-2i87)
 - [Azure Global Infrastructure](https://dev.to/delamywa/azure-global-infrastructure-5a9h)
 - [𝐓𝐨𝐩 𝟔 𝐀𝐏𝐈 𝐚𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞 𝐒𝐭𝐲𝐥𝐞𝐬](https://dev.to/isajid07/-30g5)
-- [Essential Marketing &amp; Sales Tools for Growth](https://dev.to/robg12369/essential-marketing-sales-tools-for-growth-4lmo)
-- [High-Performance Networking &lpar;RDMA, InfiniBand&rpar;](https://dev.to/godofgeeks/high-performance-networking-rdma-infiniband-o2e)
-- [How to Get License Key for 4K Video Downloader Free?](https://dev.to/james130/how-to-get-license-key-for-4k-video-downloader-free-3edg)
+- [Master the Flutter Container: Borders, Shadows &amp; Gradients &lpar;2025 Cheat Sheet&rpar;](https://dev.to/srfdeveloper/master-the-flutter-container-borders-shadows-gradients-2025-cheat-sheet-28kb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
