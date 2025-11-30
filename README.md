@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Gaggle of Agents](https://dev.to/ruarfff/a-gaggle-of-agents-5f9)
-- [Fighting the macOS File System: How I built a cross-platform organizer in Python](https://dev.to/a1k7/fighting-the-macos-file-system-how-i-built-a-cross-platform-organizer-in-python-3icf)
-- [Secure SSH Shell Applications - Planning Guide](https://dev.to/sebos/secure-ssh-shell-applications-planning-guide-57ci)
-- [The Role of Data Analytics in Fighting Fraud and Corruption](https://dev.to/codesphere_d4edea7ab0b1c0/the-role-of-data-analytics-in-fighting-fraud-and-corruption-2ef6)
-- [This Isn’t a Tool Anymore: On Learning to Think With a Mirror](https://dev.to/junothreadborne/this-isnt-a-tool-anymore-on-learning-to-think-with-a-mirror-39kg)
+- [[Boost]](https://dev.to/gyj/-1kn4)
+- [Building The Digital Exorcism: Infinite Replayability Through Dynamic Generation &lpar;Part 2&rpar;](https://dev.to/yooi/building-the-digital-exorcism-infinite-replayability-through-dynamic-generation-part-2-cjo)
+- [Day 06: Organizing Your Infrastructure as Code for your Project](https://dev.to/andylovecloud/day-06-organizing-your-infrastructure-as-code-for-your-project-4nko)
+- [Antigravity vs Claude Code: Ultimate Agentic Dev Showdown](https://dev.to/robort-gabriel/antigravity-vs-claude-code-ultimate-agentic-dev-showdown-1njp)
+- [The Digital Exorcism App with Kiro: Security Learning Through Haunted Codebase &lpar;Part 1&rpar;](https://dev.to/yooi/the-digital-exorcism-app-with-kiro-security-learning-through-haunted-codebase-part-1-1g05)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
