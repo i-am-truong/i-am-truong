@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Files-are-Not-Just-Data-A-Guide-to-Robust-File-Handling](https://dev.to/member_8455d9df/files-are-not-just-data-a-guide-to-robust-file-handling-595p)
-- [Taking Repo Context Packager to the Next Level](https://dev.to/tajudeen_abdulgafar_e0363/taking-repo-context-packager-to-the-next-level-3fe8)
-- [How NLP and LLMs Are Transforming AI Tarot &amp; Digital Divination](https://dev.to/cam_huongpham_53ac498742/how-nlp-and-llms-are-transforming-ai-tarot-digital-divination-5gn0)
-- [Mistral AI: French AI Revolution](https://dev.to/ndabene/mistral-ai-french-ai-revolution-2opa)
-- [Your 2025 Marketing Budget Probably Has $30K Hidden in Plain Sight](https://dev.to/synergistdigitalmedia/your-2025-marketing-budget-probably-has-30k-hidden-in-plain-sight-42og)
+- [Subscribe to Google Chat events using the Google Workspace Events API](https://dev.to/googleworkspace/subscribe-to-google-chat-events-using-the-google-workspace-events-api-g0c)
+- [Create and organize Docs with tabs, more card interface features for Google Chat, and more!](https://dev.to/googleworkspace/create-and-organize-docs-with-tabs-more-card-interface-features-for-google-chat-and-more-1eba)
+- [Google Workspace Developer News - Episode 12 #shorts](https://dev.to/googleworkspace/google-workspace-developer-news-episode-12-shorts-527f)
+- [Dara&#39;s thoughts on the Google Workspace Developer Summit #shorts](https://dev.to/googleworkspace/daras-thoughts-on-the-google-workspace-developer-summit-shorts-4eg1)
+- [What does a Technical Writer do?](https://dev.to/googleworkspace/what-does-a-technical-writer-do-22k3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
