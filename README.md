@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building &quot;Trickster&#39;s Table&quot;: A Card Game Suite with Gemini AI Studio &lpar;zero coding&rpar;](https://dev.to/j4s0nc/building-tricksters-table-a-card-game-suite-with-gemini-ai-studio-zero-coding-37bn)
+- [My Project 3: Building a Weather App with Python + Streamlit](https://dev.to/ian_b838138a27a917398d181/my-project-3-building-a-weather-app-with-python-streamlit-5423)
+- [GEO : Generative Engine Optimization - Applied](https://dev.to/nerajno/geo-generative-engine-optimization-applied-27a3)
 - [Conan in Neovim: One command to rule them all](https://dev.to/silletr/conan-in-neovim-one-command-to-rule-them-all-513g)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-3bb5)
-- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-25h6)
 - [SpecterBeats](https://dev.to/vitamindel/specterbeats-4p40)
-- [One-command ComfyUI on Cloud GPUs: A Practical, Repeatable Setup](https://dev.to/promptingpixels/one-command-comfyui-on-cloud-gpus-a-practical-repeatable-setup-24hc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
