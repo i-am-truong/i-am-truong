@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Supabase and the Illusion of “Easy Caching”: Why PostgreSQL Reads Can’t Be Automatic](https://dev.to/ahammednibras8/supabase-and-the-illusion-of-easy-caching-why-postgresql-reads-cant-be-automatic-1ed2)
+- [Serverless FastAPI Deployment: Actions Speak Louder Than Words](https://dev.to/adrianm/serverless-fastapi-deployment-actions-speak-louder-than-words-1k8i)
+- [Windows](https://dev.to/jacobhsu/windows-3o51)
+- [Typescript Language Code Parser for Secrin](https://dev.to/jenilsavani_/typescript-language-code-parser-for-secrin-41d9)
 - [Bedrock AgentCore: What 5 Real ANZ Enterprise Deploys Taught Us](https://dev.to/rajmurugan/bedrock-agentcore-what-5-real-anz-enterprise-deploys-taught-us-1e28)
-- [[AWS] 1. IAM &lpar;Identity and Access Management&rpar; &amp; AWS CLI &lpar;Command Line Interface&rpar;](https://dev.to/sangwoo_rhie/aws-1-iam-identity-and-access-management-aws-cli-command-line-interface-2lmp)
-- [Stop Getting KeyError: &#39;\ufeffName&#39; When Reading CSVs in Python — Here’s the Fix](https://dev.to/suavebajaj/stop-getting-keyerror-ufeffname-when-reading-csvs-in-python-heres-the-fix-5e0n)
-- [CODEON – Recruitment Phase 1.0](https://dev.to/nikhil_ks/codeon-recruitment-phase-10-4p48)
-- [SaijinOS Part 17 — Silent-Civ Phase 3 in 5 Minutes &lpar;UPKA Integration Overview&rpar;](https://dev.to/kato_masato_c5593c81af5c6/saijinos-part-17-silent-civ-phase-3-in-5-minutes-upka-integration-overview-411a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
