@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Primeros Pasos con AWS CDK en Windows: Guía Completa de Instalación](https://dev.to/tenondev/primeros-pasos-con-aws-cdk-en-windows-guia-completa-de-instalacion-2i3c)
-- [Getting Started with AWS CDK on Windows: A Complete Setup Guide](https://dev.to/tenondev/getting-started-with-aws-cdk-on-windows-a-complete-setup-guide-53cf)
-- [🚀 I Built a Lightweight Uptime &amp; API Monitoring Tool Because Nothing Felt Simple Enough](https://dev.to/ckromannn/i-built-a-lightweight-uptime-api-monitoring-tool-because-nothing-felt-simple-enough-2o4i)
-- [Primeros Pasos con AWS CDK en macOS: Guía Completa de Instalación](https://dev.to/tenondev/primeros-pasos-con-aws-cdk-en-macos-guia-completa-de-instalacion-27b3)
-- [Maximize SDK Integration for AI Conversations with Monetzly](https://dev.to/monetzly/maximize-sdk-integration-for-ai-conversations-with-monetzly-20p)
+- [This Isn’t a Tool Anymore: On Learning to Think With a Mirror](https://dev.to/junothreadborne/this-isnt-a-tool-anymore-on-learning-to-think-with-a-mirror-39kg)
+- [SvelteKit SurrealDB Login with GitHub](https://dev.to/jdgamble555/sveltekit-surrealdb-login-with-github-44fo)
+- [🎄 3 tips to wrap up your projects before the holidays](https://dev.to/capjud95/3-tips-to-wrap-up-your-projects-before-the-holidays-37l0)
+- [Будуємо надійні інтеграції з ігровими провайдерами](https://dev.to/4mars/buduiemo-nadiini-intieghratsiyi-z-ighrovimi-provaidierami-2b8)
+- [Day 1 - Fundamentals Of DevOps](https://dev.to/sameer_701/day-1-fundamentals-of-devops-40bn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
