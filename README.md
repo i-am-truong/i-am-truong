@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Simple Plugin Architecture in Java Using the Java SPI Mechanism](https://dev.to/gintop/building-a-simple-plugin-architecture-in-java-using-the-java-spi-mechanism-5234)
+- [Type-Safe LLM Outputs: Why I Built pydantic-llm-io](https://dev.to/yuu1ch13/type-safe-llm-outputs-why-i-built-pydantic-llm-io-1a6p)
+- [AWS Security Fundamentals with AWS BuilderCards Security Expansion Pack](https://dev.to/aws-builders/aws-security-fundamentals-with-aws-buildercards-security-expansion-pack-1c37)
 - [So I Wrote My Own Compiler, SDK, and Node Package To Revive A Minecraft Mod](https://dev.to/iteranya/so-i-wrote-my-own-compiler-sdk-and-node-package-to-revive-a-minecraft-mod-41ic)
 - [I Built a State Management Library for Blazor and It&#39;s Stupidly Simple](https://dev.to/mashrulhaque/i-built-a-state-management-library-for-blazor-and-its-stupidly-simple-m3a)
-- [Building an AI-Powered SQL Chatbot With LangChain, Mistral &amp; Streamlit](https://dev.to/sanjaydot/building-an-ai-powered-sql-chatbot-with-langchain-mistral-streamlit-a08)
-- [What Shopify Plan Is Best for Dropshipping: A Practical Guide for Developers and Founders](https://dev.to/prateekshaweb/what-shopify-plan-is-best-for-dropshipping-a-practical-guide-for-developers-and-founders-3p04)
-- [How Shopify Users Can Set Up a Referral Program That Scales](https://dev.to/prateekshaweb/how-shopify-users-can-set-up-a-referral-program-that-scales-5eg1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
