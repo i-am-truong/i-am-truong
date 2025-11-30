@@ -123,8 +123,8 @@ Python                   1 repo              █░░░░░░░░░░�
 - [Building a Simple Plugin Architecture in Java Using the Java SPI Mechanism](https://dev.to/gintop/building-a-simple-plugin-architecture-in-java-using-the-java-spi-mechanism-5234)
 - [Type-Safe LLM Outputs: Why I Built pydantic-llm-io](https://dev.to/yuu1ch13/type-safe-llm-outputs-why-i-built-pydantic-llm-io-1a6p)
 - [AWS Security Fundamentals with AWS BuilderCards Security Expansion Pack](https://dev.to/aws-builders/aws-security-fundamentals-with-aws-buildercards-security-expansion-pack-1c37)
-- [So I Wrote My Own Compiler, SDK, and Node Package To Revive A Minecraft Mod](https://dev.to/iteranya/so-i-wrote-my-own-compiler-sdk-and-node-package-to-revive-a-minecraft-mod-41ic)
-- [I Built a State Management Library for Blazor and It&#39;s Stupidly Simple](https://dev.to/mashrulhaque/i-built-a-state-management-library-for-blazor-and-its-stupidly-simple-m3a)
+- [aaaaa](https://dev.to/idsts2670/aaaaa-lnm)
+- [⚙️🌍 MCP Servers + Microsoft Agent Framework unlock a New Era of Tool-Powered Intelligence ⚡](https://dev.to/keepitsimple/mcp-servers-microsoft-agent-framework-unlock-a-new-era-of-tool-powered-intelligence-48p6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
