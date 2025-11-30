@@ -120,10 +120,10 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Thought Leadership Marketing Is Becoming a Competitive Imperative](https://dev.to/kapusto/why-thought-leadership-marketing-is-becoming-a-competitive-imperative-3boo)
+- [How Technical Documentation Boosts SaaS Conversions](https://dev.to/kapusto/how-technical-documentation-boosts-saas-conversions-4kpd)
+- [Leveraging Predictive Maintenance for Industrial Equipment](https://dev.to/kapusto/leveraging-predictive-maintenance-for-industrial-equipment-4lb)
+- [Why Workforce Cost Visibility Has Become a Critical Advantage for Project-Based Businesses](https://dev.to/kapusto/why-workforce-cost-visibility-has-become-a-critical-advantage-for-project-based-businesses-4b8g)
 - [The Dopamine Hit of git push vs. The Agony of git revert](https://dev.to/_boweii/the-dopamine-hit-of-git-push-vs-the-agony-of-git-revert-2icf)
-- [How Business Continuity Teams Can Strengthen Operational Resilience Against Modern Cyber Risks](https://dev.to/kapusto/how-business-continuity-teams-can-strengthen-operational-resilience-against-modern-cyber-risks-23oc)
-- [How B2B SaaS Teams Can Build Trust in an Era of AI-Driven Buyer Research](https://dev.to/kapusto/how-b2b-saas-teams-can-build-trust-in-an-era-of-ai-driven-buyer-research-1n8)
 - [Meta&#39;s AI Ad Creative Generator: What Actually Works &lpar;And What&#39;s Still Broken&rpar;](https://dev.to/synergistdigitalmedia/metas-ai-ad-creative-generator-what-actually-works-and-whats-still-broken-2pg6)
 <!-- BLOG-POST-LIST:END -->
 
