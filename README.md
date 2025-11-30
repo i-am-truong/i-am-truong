@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The future](https://dev.to/grzegorzgrzegorz/the-future-51eb)
-- [When Should You Use Backblaze B2 and When Should You Use Cloudflare R2?](https://dev.to/zororaka/when-should-you-use-backblaze-b2-and-when-should-you-use-cloudflare-r2-402o)
-- [Building Atlassian Forge app with Kiro](https://dev.to/blueorbitz/building-atlassian-forge-app-with-kiro-k7j)
-- [Git rebase vs merge](https://dev.to/lucaspereiradesouzat/git-rebase-vs-merge-j9d)
-- [Understanding User Registration: Email Agent Series Part 1](https://dev.to/nazmussaqueebashrafi/understanding-user-registration-email-agent-series-part-1-5a46)
+- [Master RAG Evaluation with RAGAS](https://dev.to/sridhar_tondapi_d54e7e29b/master-rag-evaluation-with-ragas-5403)
+- [2025&#39;s &#39;Advent of Code; Event Chooses Tradition Over AI](https://dev.to/davidcassel/2025s-advent-of-code-event-chooses-tradition-over-ai-m89)
+- [Eazypasswords a zero knowledge password manager](https://dev.to/devbytho/eazypasswords-a-zero-knowledge-password-manager-189o)
+- [20kWh Battery: High-Performance Energy Storage for Residential &amp; Industrial Use](https://dev.to/avakim291/20kwh-battery-high-performance-energy-storage-for-residential-industrial-use-28da)
+- [How to Disable Local User Accounts on All Domain Computers Using Group Policy in Windows Server 2022](https://dev.to/ekurtovic/how-to-disable-local-user-accounts-on-all-domain-computers-using-group-policy-in-windows-server-2022-13d6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
