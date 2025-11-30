@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Weekly #48-2025: AI, Enterprise Knowledge, and the Future of Engineering](https://dev.to/weekly/weekly-48-2025-ai-enterprise-knowledge-and-the-future-of-engineering-eg8)
-- [Automating My Daily Workflow with n8n, Python &amp; Gemini AI](https://dev.to/sanjaydot/automating-my-daily-workflow-with-n8n-python-gemini-ai-1a1c)
-- [I asked successful entrepreneurs about their transition from employee to founder](https://dev.to/techwood/i-asked-successful-entrepreneurs-about-their-transition-from-employee-to-founder-5881)
-- [Why LangChain Is Better Than Raw LLM APIs — A Quick Developer-Friendly Breakdown](https://dev.to/arfatapp/why-langchain-is-better-than-raw-llm-apis-a-quick-developer-friendly-breakdown-1c74)
-- [check my HTML,CSS,JS playground](https://dev.to/_786_sohail/check-my-htmlcssjs-playground-3lne)
+- [So I Wrote My Own Compiler, SDK, and Node Package To Revive A Minecraft Mod](https://dev.to/iteranya/so-i-wrote-my-own-compiler-sdk-and-node-package-to-revive-a-minecraft-mod-41ic)
+- [I Built a State Management Library for Blazor and It&#39;s Stupidly Simple](https://dev.to/mashrulhaque/i-built-a-state-management-library-for-blazor-and-its-stupidly-simple-m3a)
+- [Building an AI-Powered SQL Chatbot With LangChain, Mistral &amp; Streamlit](https://dev.to/sanjaydot/building-an-ai-powered-sql-chatbot-with-langchain-mistral-streamlit-a08)
+- [What Shopify Plan Is Best for Dropshipping: A Practical Guide for Developers and Founders](https://dev.to/prateekshaweb/what-shopify-plan-is-best-for-dropshipping-a-practical-guide-for-developers-and-founders-3p04)
+- [How Shopify Users Can Set Up a Referral Program That Scales](https://dev.to/prateekshaweb/how-shopify-users-can-set-up-a-referral-program-that-scales-5eg1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
