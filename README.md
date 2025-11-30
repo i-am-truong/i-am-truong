@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Used Mermaid.js to map out my DAWless live rig. Really great for documenting complex MIDI, Audio, and CV signal flow!](https://dev.to/mikeydorje/used-mermaidjs-to-map-out-my-dawless-live-rig-really-great-for-documenting-complex-midi-audio-4ca7)
+- [I built an Advanced Python &amp; JS Obfuscator with AI Auto-Decryption 🛡️](https://dev.to/euromoscow/i-built-an-advanced-python-js-obfuscator-with-ai-auto-decryption-haa)
 - [[AWS] DevTools Evangelism: CodeDeploy Edition](https://dev.to/aws-builders/aws-devtools-evangelism-codedeploy-edition-deg)
 - [The UK Global Talent Visa: A Complete Breakdown for Developers in 2026](https://dev.to/asad1/the-uk-global-talent-visa-a-complete-breakdown-for-developers-in-2026-5a0e)
-- [HookTunnel: A Modern Alternative to Ngrok for Webhook Development](https://dev.to/zerk4/hooktunnel-a-modern-alternative-to-ngrok-for-webhook-development-3ja2)
-- [Developers vs AI: Are We Becoming AI Managers Instead of Coders?](https://dev.to/marxon/developers-vs-ai-are-we-becoming-ai-managers-instead-of-coders-5ef3)
-- [Firing Up AI with Cognitive Spark](https://dev.to/mabualzait/firing-up-ai-with-cognitive-spark-5ac7)
+- [Sealed Box AI: A Runbook for Owning Your Own Local-Only AI Stack](https://dev.to/jtarkington77/sealed-box-ai-a-runbook-for-owning-your-own-local-only-ai-stack-4p4i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
