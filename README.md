@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Creational Design Patterns in Java: Industry Stories That Make Them Stick](https://dev.to/akash_pratapsingh_15d169/creational-design-patterns-in-java-industry-stories-that-make-them-stick-33p1)
-- [10 Mistakes I Made As a Beginner Full-Stack Developer &lpar;That You Can Avoid&rpar;](https://dev.to/akshat_sharma_01719d9a025/10-mistakes-i-made-as-a-beginner-full-stack-developer-that-you-can-avoid-357l)
-- [Causal AI for Developers: Go Beyond Correlation and Make Smarter Decisions](https://dev.to/infinicreator/causal-ai-for-developers-go-beyond-correlation-and-make-smarter-decisions-1ej3)
-- [Generate CHANGELOG.md Automatically 🤖](https://dev.to/nyaomaru/generate-changelogmd-automatically-26g1)
-- [About Babar Azam](https://dev.to/preetha_vaishnavi_2b82358/about-babar-azam-38a5)
+- [Complete Guide: How to Set AI Coding Rules for Roo-Cline &lpar;Modes/Rules and more&rpar;](https://dev.to/yigit-konur/complete-guide-how-to-set-ai-coding-rules-for-roo-cline-modesrules-and-more-1kjk)
+- [Flutter Row vs Column: The Ultimate Alignment Cheat Sheet &lpar;2025&rpar;](https://dev.to/srfdeveloper/flutter-row-vs-column-the-ultimate-alignment-cheat-sheet-2025-46l5)
+- [Firmware Architecture with StateSmith](https://dev.to/standarddeviant/firmware-architecture-with-statesmith-38b9)
+- [Setting up Redux Toolkit in NextJs](https://dev.to/devtush/setting-up-redux-toolkit-in-nextjs-38k9)
+- [Top 30 React Interview Questions and Answers in 2025](https://dev.to/mahdardavari/top-30-react-interview-questions-and-answers-in-2025-29hc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
