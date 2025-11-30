@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-3g7d)
-- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-4a78)
-- [Analyzing psqlrc Settings on GitHub: How PostgreSQL Engineers Configure PostgreSQL](https://dev.to/shinyakato_/analyzing-psqlrc-settings-on-github-how-postgresql-engineers-configure-postgresql-1b3f)
-- [The 2026 Computer Science Playbook: How to Learn, Where to Focus, and What It Really Takes to Get Hired in the AI Era](https://dev.to/naveens16/the-2026-computer-science-playbook-how-to-learn-where-to-focus-and-what-it-really-takes-to-get-3nm1)
-- [Somewhere here](https://dev.to/preetha_vaishnavi_2b82358/somewhere-here-25om)
+- [I built a Google Maps Clone using Next.js 16 + Leaflet — now it’s an Open-Source Starter Kit](https://dev.to/wellywahyudi/i-built-a-google-maps-clone-using-nextjs-16-leaflet-now-its-an-open-source-starter-kit-9n5)
+- [From Static Docs to Living Knowledge: Building an STS‑Aware Retrieval‑Augmented Agent Backend](https://dev.to/suraj_khaitan_f893c243958/from-static-docs-to-living-knowledge-building-an-sts-aware-retrieval-augmented-agent-backend-dng)
+- [The Architect &amp; The Automaton: A New Map for Full-Stack Developers](https://dev.to/thinkaddict/the-architect-the-automaton-a-new-map-for-full-stack-developers-5hcp)
+- [If you&#39;re building for emerging markets, this is for you.I&#39;m sharing the complete architecture that took Ayema from 0 to 100K users in Nigeria, including the mistakes, the midnight server crashes, and the technical decisions that actually mattered.](https://dev.to/onoja5/if-youre-building-for-emerging-markets-this-is-for-you-im-sharing-the-complete-architecture-1gc5)
+- [AI Vibe Coding Is A Lie](https://dev.to/nabir14/ai-vibe-coding-is-a-lie-23e4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
