@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-3bj3)
+- [# What Is the OSI Model? Understanding All 7 Layers with Simple Examples](https://dev.to/sudiip__17/-what-is-the-osi-model-understanding-all-7-layers-with-simple-examples-4i94)
+- [I built a FireCMS Clone using Svelte 4 — Here’s what I learned](https://dev.to/ortwic/i-built-a-firecms-clone-using-svelte-4-heres-what-i-learned-1445)
 - [Devnexus 2026 Showcases the Powerful Intersection of AI, Java, and Modern Developer Tooling in Atlanta](https://dev.to/vincentmayers/devnexus-2026-showcases-the-powerful-intersection-of-ai-java-and-modern-developer-tooling-in-5a3k)
 - [Master Terraform in 20 Minutes: Concepts, Commands &amp; CI/CD](https://dev.to/kaustubhyerkade/master-terraform-in-20-minutes-concepts-commands-flow-cicd-4g0h)
 - [Footer TagHelper](https://dev.to/karenpayneoregon/footer-taghelper-457p)
-- [Building a File Transfer TUI Nobody Asked For: tuit](https://dev.to/mr_bloodrune/building-a-file-transfer-tui-nobody-asked-for-tuit-jge)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
