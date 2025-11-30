@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Publishing My First Python Library to PyPI](https://dev.to/yuuichieguchi/publishing-my-first-python-library-to-pypi-161b)
 - [Estratégias de Crescimento: Como Expandir Seu Negócio em 2024](https://dev.to/movin/estrategias-de-crescimento-como-expandir-seu-negocio-em-2024-40f5)
 - [Estratégias de Crescimento para Negócios: Guia Prático para 2024](https://dev.to/movin/estrategias-de-crescimento-para-negocios-guia-pratico-para-2024-47a6)
 - [The Knights of Santiago: Guardians of the Spanish Way](https://dev.to/guswoltmann84/the-knights-of-santiago-guardians-of-the-spanish-way-33d3)
 - [Flutter vs Xamarin: Choosing the Right Framework for Cross-Platform Development](https://dev.to/gustavowoltmann18/flutter-vs-xamarin-choosing-the-right-framework-for-cross-platform-development-bjl)
-- [Google&#39;s December 2025 Helpful Content Update: The Recovery Playbook Nobody&#39;s Talking About](https://dev.to/synergistdigitalmedia/googles-december-2025-helpful-content-update-the-recovery-playbook-nobodys-talking-about-15o4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
