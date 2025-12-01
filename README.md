@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Reflections on the Djangonaut Space Journey 🦄](https://dev.to/_e6641d4181e2ba2945d1f/reflections-on-the-djangonaut-journey-ajn)
-- [🎨 VisionVerse: From Image to AI-Generated Poetry in Minutes](https://dev.to/lungelomk/visionverse-from-image-to-ai-generated-poetry-in-minutes-1h1g)
-- [Want a CV that actually gets noticed?](https://dev.to/taurus_ai_e0f0d0fc1d8a2de/want-a-cv-that-actually-gets-noticed-49c8)
-- [Clients care about the stack you use.](https://dev.to/codingnninja/clients-care-about-the-stack-you-use-g2g)
-- [MCP servers I use in my daily life](https://dev.to/petrashka/mcp-servers-i-use-in-my-daily-life-4kah)
+- [Modernizing Legacy Workloads: KubeVirt on AKS with Azure Arc Identity](https://dev.to/cloudquill/modernizing-legacy-workloads-kubevirt-on-aks-with-azure-arc-identity-2ad0)
+- [Edge-to-Cloud Swarm Coordination for coastal climate resilience planning with ethical auditability baked in](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-coastal-climate-resilience-planning-with-ethical-auditability-1p0i)
+- [What is Bridge network driver?](https://dev.to/meghasharmaaaa/bridge-network-driver-3co6)
+- [Practical Cloud Security Wins for New AWS Teams &lpar;Even If You’re Just Getting Started&rpar;](https://dev.to/kaths3cdev/practical-cloud-security-wins-for-new-aws-teams-even-if-youre-just-getting-started-21hn)
+- [Practical Cloud Security Wins for New AWS Teams &lpar;Even If You’re Just Getting Started&rpar;](https://dev.to/kaths3cdev/practical-cloud-security-wins-for-new-aws-teams-even-if-youre-just-getting-started-1cbi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
