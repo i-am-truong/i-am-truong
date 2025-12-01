@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Automating the Migration from Selenium/Appium to Maestro](https://dev.to/godhirajcode/automating-the-migration-from-seleniumappium-to-maestro-2i54)
-- [How Technical Documentation Boosts SaaS Conversions](https://dev.to/kapusto/how-technical-documentation-boosts-saas-conversions-4kpd)
-- [Leveraging Predictive Maintenance for Industrial Equipment](https://dev.to/kapusto/leveraging-predictive-maintenance-for-industrial-equipment-4lb)
-- [Why Workforce Cost Visibility Has Become a Critical Advantage for Project-Based Businesses](https://dev.to/kapusto/why-workforce-cost-visibility-has-become-a-critical-advantage-for-project-based-businesses-4b8g)
-- [The Dopamine Hit of git push vs. The Agony of git revert](https://dev.to/_boweii/the-dopamine-hit-of-git-push-vs-the-agony-of-git-revert-2icf)
+- [DataViz Kit Weekly Update: Testing New SEO Strategies](https://dev.to/roshaan_tahir/dataviz-kit-weekly-update-testing-new-seo-strategies-45ih)
+- [Pequenos atalhos Git que deixaram meu fluxo de trabalho muito mais rápido](https://dev.to/leorodriguesdev/pequenos-atalhos-git-que-deixaram-meu-fluxo-de-trabalho-muito-mais-rapido-2556)
+- [Small shortcuts that made my Git workflow easier](https://dev.to/leorodriguesdev/small-shortcuts-that-made-my-git-workflow-easier-3bhe)
+- [Built an AI Agent That Actually Runs Agile Sprints End-to-End &lpar;Not Just Ticket Generation&rpar;](https://dev.to/ben_var_551c679bfe4787c4f/built-an-ai-agent-that-actually-runs-agile-sprints-end-to-end-not-just-ticket-generation-1853)
+- [Built an AI Agent That Actually Runs Agile Sprints End-to-End &lpar;Not Just Ticket Generation&rpar;](https://dev.to/ben_var_551c679bfe4787c4f/built-an-ai-agent-that-actually-runs-agile-sprints-end-to-end-not-just-ticket-generation-3297)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
