@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I made a thing because taking notes from YouTube sucks](https://dev.to/ayush_jhanwar_6e501579134/i-made-a-thing-because-taking-notes-from-youtube-sucks-nod)
-- [Build in Public: Week 4. The Messy Middle Of Building An AI Agent](https://dev.to/olgabraginskaya/build-in-public-week-4-the-messy-middle-of-building-an-ai-agent-2p55)
-- [XRPL Programmability: WASM Runtime Revisit](https://dev.to/ripplexdev/xrpl-programmability-wasm-runtime-revisit-2ak0)
-- [How To Categorize Your Tests in Playwright using Tags to Make Your Testing Suite Less Terrible](https://dev.to/arvind_mehairjan/how-to-categorize-your-tests-in-playwright-using-tags-to-make-your-testing-suite-less-terrible-4b5p)
-- [How to Embed Interactive Calculators in Modern Web Apps?](https://dev.to/josh_bell/how-to-embed-interactive-calculators-in-modern-web-apps-24e)
+- [Enabling IOMMU for Xeon E5 v4 on Proxmox v9](https://dev.to/allig4t0r/enabling-iommu-for-xeon-e5-v4-on-proxmox-v9-5bcf)
+- [Security-First WebSockets: Protecting Real-Time Communications from Attack](https://dev.to/vanessamadison/security-first-websockets-protecting-real-time-communications-from-attack-2j8d)
+- [Kubernetes Secrets Without the Pain: Meet kcpwd](https://dev.to/osmanuygar/kubernetes-secrets-without-the-pain-meet-kcpwd-4pfo)
+- [NDC Conferences: Optimize Your Internal OS and Minimize Compatibility Issues at Work - Alice Meredith](https://dev.to/scale_youtube/ndc-conferences-optimize-your-internal-os-and-minimize-compatibility-issues-at-work-alice-3nej)
+- [promote different IA models and providers](https://dev.to/wadie_realme_733c52996966/promote-different-ia-models-and-providers-151o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
