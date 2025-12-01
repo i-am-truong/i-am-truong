@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why I Built Shamba-MedCare &lpar;And What I Learned About Solving Real Problems&rpar;](https://dev.to/nicanor_korir/why-i-built-shamba-medcare-and-what-i-learned-about-solving-real-problems-425g)
+- [Issue #6: Blockchain Consensus Algorithms](https://dev.to/js_cipher/issue-6-blockchain-consensus-algorithms-545)
+- [Let&#39;s Stop Overprotecting Confidential Information](https://dev.to/stakiran/lets-stop-overprotecting-confidential-information-1m0l)
+- [Herança](https://dev.to/joaopedrov0/heranca-2pna)
 - [How to Fix +1-&lpar;804&rpar;-985-1002 Quickbooks Error 1612-Fast Support](https://dev.to/j9cdgwrxwu/how-to-fix-1-804-985-1002-quickbooks-error-1612-fast-support-3fp7)
-- [👻 From Coffins to Code: Building a Spooky Study Dashboard in &lt;8 Hrs with Kiro&#39;s Dark Magic 🪄](https://dev.to/kirodotdev/from-coffins-to-code-building-a-spooky-study-dashboard-in-8-hrs-with-kiros-dark-magic-eno)
-- [🔐The Secret World of APIs: How Apps Communicate Behind the Scenes](https://dev.to/sanskruti_sugandhi/the-secret-world-of-apis-how-apps-communicate-behind-the-scenes-3dpa)
-- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-17c4)
-- [The Lazy Lurk: A Mental Model for Better Tests](https://dev.to/pscheit/the-lazy-lurk-a-mental-model-for-better-tests-n32)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
