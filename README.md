@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/gouravgope/-33ik)
-- [Windows Service equivalent in Linux?](https://dev.to/mohan023/windows-service-equivalent-in-linux-jal)
-- [Salesforce vs. Salesforce Cloud: What’s the Real Difference?](https://dev.to/nivedita_nayak_d4cfe87c37/salesforce-vs-salesforce-cloud-whats-the-real-difference-2m1i)
-- [MCP servers I use in my daily life](https://dev.to/petrashka/mcp-servers-i-use-in-my-daily-life-2nga)
-- [The Vulnerability Wardrobe: What Your Security Posture Is Really Wearing](https://dev.to/narnaiezzsshaa/the-vulnerability-wardrobe-what-your-security-posture-is-really-wearing-1ao1)
+- [Mettez du Love dans votre produit, le MVP est-il dépassé ?](https://dev.to/onepoint/mettez-du-love-dans-votre-produit-le-mvp-est-il-depasse--1h87)
+- [База Данных 4 Практика](https://dev.to/erlan_akbar/baza-dannykh-4-praktika-10k2)
+- [Análisis Exhaustivo: Despliegue de Servidores MCP en Google Cloud Run](https://dev.to/angel_josevargasgutierr/analisis-exhaustivo-despliegue-de-servidores-mcp-en-google-cloud-run-1po1)
+- [🔰 NeoBASIC Language: Transpiler to C++ &lpar;and others&rpar;](https://dev.to/teknolista/neobasic-language-transpiler-to-c-and-others-7e8)
+- [10 AI Coding Habits That Instantly Made Me a Faster Developer &lpar;Real Examples&rpar;](https://dev.to/christechnocom/-10-ai-coding-habits-that-instantly-made-me-a-faster-developer-real-examples-164f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
