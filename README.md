@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Google&#39;s New AI Tool Already Beaten? Try Alibaba&#39;s Free Local Alternative](https://dev.to/localfaceswap/googles-new-ai-tool-already-beaten-try-alibabas-free-local-alternative-hee)
-- [Challenge &lpar;Cafe&rpar; lab: Creating a Static Website for the Cafe](https://dev.to/hallomell/challenge-cafe-lab-creating-a-static-website-for-the-cafe-15k9)
-- [Cafe Business Case Introduction](https://dev.to/hallomell/cafe-business-case-introduction-573m)
-- [Macroeconomics Isn&#39;t Mid, Your Takes Are: A Hacker&#39;s Guide](https://dev.to/thinkaddict/macroeconomics-isnt-mid-your-takes-are-a-hackers-guide-4p23)
-- [Build your VPC and Launch a Web Server](https://dev.to/hallomell/build-your-vpc-and-launch-a-web-server-2eo9)
+- [Hello, My name is YOEUNG YENG. I&#39;m from Cambodia.](https://dev.to/yoeungyeng/hello-my-name-is-yoeung-yeng-im-from-cambodia-1f0g)
+- [Python by Structure: Property Decorators and Managed Attributes](https://dev.to/aaron_rose_0787cc8b4775a0/python-by-structure-property-decorators-and-managed-attributes-3749)
+- [Revolutionizing Islamic Education: Embracing Modern Technology with QuranAkh Software for Madrasas in 2026](https://dev.to/quranakh/revolutionizing-islamic-education-embracing-modern-technology-with-quranakh-software-for-madrasas-372l)
+- [测试文章3多平台发布](https://dev.to/contextspace_/ce-shi-wen-zhang-3duo-ping-tai-fa-bu-14fh)
+- [Building a Production-Ready Data Pipeline on AWS: A Hands-On Guide for Data Engineers](https://dev.to/aws-builders/building-a-production-ready-data-pipeline-on-aws-a-hands-on-guide-for-data-engineers-43c2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
