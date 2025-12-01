@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hello, My name is YOEUNG YENG. I&#39;m from Cambodia.](https://dev.to/yoeungyeng/hello-my-name-is-yoeung-yeng-im-from-cambodia-1f0g)
-- [Python by Structure: Property Decorators and Managed Attributes](https://dev.to/aaron_rose_0787cc8b4775a0/python-by-structure-property-decorators-and-managed-attributes-3749)
-- [Revolutionizing Islamic Education: Embracing Modern Technology with QuranAkh Software for Madrasas in 2026](https://dev.to/quranakh/revolutionizing-islamic-education-embracing-modern-technology-with-quranakh-software-for-madrasas-372l)
-- [测试文章3多平台发布](https://dev.to/contextspace_/ce-shi-wen-zhang-3duo-ping-tai-fa-bu-14fh)
-- [Building a Production-Ready Data Pipeline on AWS: A Hands-On Guide for Data Engineers](https://dev.to/aws-builders/building-a-production-ready-data-pipeline-on-aws-a-hands-on-guide-for-data-engineers-43c2)
+- [🚀 Building Your First MCP Server: A Step-by-Step Guide](https://dev.to/sebastianfuentesavalos/-building-your-first-mcp-server-a-step-by-step-guide-41j4)
+- [🚀 Demystifying Observability: A Practical Guide with Python, Prometheus, and Grafana](https://dev.to/sebastianfuentesavalos/demystifying-observability-a-practical-guide-with-python-prometheus-and-grafana-43a)
+- [🚀 Infracodebase -&gt; Your New AI Partner for Infrastructure as Code](https://dev.to/careerbytecode/infracodebase-your-new-ai-partner-for-infrastructure-as-code-2ag7)
+- [React Native Horizontal Picker Component for 2026 Apps](https://dev.to/eira-wexford/react-native-horizontal-picker-component-for-2026-apps-59n3)
+- [The January Cliff: Why Your Holiday Customers Vanish &lpar;And How to Keep Them&rpar;](https://dev.to/synergistdigitalmedia/the-january-cliff-why-your-holiday-customers-vanish-and-how-to-keep-them-530o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
