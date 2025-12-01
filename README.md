@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Using Vue’s Custom Renderer API to Build Interfaces Beyond the DOM](https://dev.to/jacobandrewsky/using-vues-custom-renderer-api-to-build-interfaces-beyond-the-dom-1jjg)
-- [Stop wrapping your RabbitMQ code in runBlocking](https://dev.to/nathanfallet/stop-wrapping-your-rabbitmq-code-in-runblocking-18c2)
-- [Hashicorp Vault: An Inquiry into the Nature of Tokens](https://dev.to/admantium/hashicorp-vault-an-inquiry-into-the-nature-of-tokens-ao5)
-- [Your Full-Stack Roadmap is a Trap. Here&#39;s The AI-First Path.](https://dev.to/thinkaddict/your-full-stack-roadmap-is-a-trap-heres-the-ai-first-path-4bcn)
-- [Security Groups vs NACLs: A Simple Breakdown](https://dev.to/irfansatrio/security-groups-vs-nacls-a-simple-breakdown-391j)
+- [Building a Production Design System with Tailwind CSS v4](https://dev.to/saswatapal/building-a-production-design-system-with-tailwind-css-v4-1d9e)
+- [Fixing Power Platform Pipelines](https://dev.to/wyattdave/fixing-power-platform-pipelines-4b0o)
+- [Prisma 7: They Ditched Rust and Everything Got Faster](https://dev.to/web_dev-usman/prisma-7-they-ditched-rust-and-everything-got-faster-1pdi)
+- [Trick for testing exceptions in PHPUnit](https://dev.to/pscheit/trick-for-testing-exceptions-in-phpunit-28d3)
+- [Great Article for Allure Report Alternative](https://dev.to/robort_smith/great-article-for-allure-report-alternative-3gf2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
