@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Building Your First MCP Server: A Step-by-Step Guide](https://dev.to/sebastianfuentesavalos/-building-your-first-mcp-server-a-step-by-step-guide-41j4)
-- [🚀 Demystifying Observability: A Practical Guide with Python, Prometheus, and Grafana](https://dev.to/sebastianfuentesavalos/demystifying-observability-a-practical-guide-with-python-prometheus-and-grafana-43a)
-- [🚀 Infracodebase -&gt; Your New AI Partner for Infrastructure as Code](https://dev.to/careerbytecode/infracodebase-your-new-ai-partner-for-infrastructure-as-code-2ag7)
-- [React Native Horizontal Picker Component for 2026 Apps](https://dev.to/eira-wexford/react-native-horizontal-picker-component-for-2026-apps-59n3)
-- [The January Cliff: Why Your Holiday Customers Vanish &lpar;And How to Keep Them&rpar;](https://dev.to/synergistdigitalmedia/the-january-cliff-why-your-holiday-customers-vanish-and-how-to-keep-them-530o)
+- [70% of Vulnerabilities Are Memory Bugs. Here&#39;s How We Instrumented Everything.](https://dev.to/hofong428/70-of-vulnerabilities-are-memory-bugs-heres-how-we-instrumented-everything-28fk)
+- [Instagram System Design: How to Build a Scalable and High-Performance Social Media Platform](https://dev.to/nayeem79/instagram-system-design-how-to-build-a-scalable-and-high-performance-social-media-platform-lbm)
+- [Optimizing Nativewind Performance for 2026 Applications](https://dev.to/sherry_walker_bba406fb339/optimizing-nativewind-performance-for-2026-applications-1nh1)
+- [Case Study: CiC &lpar;Cross‑Interpreter Communication&rpar; with WordPress &amp; Joomla in Ascoos OS](https://dev.to/ascoos/case-study-cic-cross-interpreter-communication-with-wordpress-joomla-in-ascoos-os-28f7)
+- [Building a 3D Shooting Game with Multi-Agent Collaboration: Claude 4.5 Opus as the Brain, GPT-5.1 as the Executor](https://dev.to/hayatokishikawa/building-a-3d-shooting-game-with-multi-agent-collaboration-claude-45-opus-as-the-brain-gpt-51-33fi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
