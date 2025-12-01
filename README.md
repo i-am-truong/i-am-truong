@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Atomic Schlep: The Architecture of the Unstoppable Swap](https://dev.to/faruukku/the-atomic-schlep-the-architecture-of-the-unstoppable-swap-186i)
+- [JWT Token Validator Challenge](https://dev.to/fosres/jwt-token-validator-exercise-55mn)
+- [Google Antigravity: An Overview, Architecture, and Core Differentiators](https://dev.to/isaac29/google-antigravity-an-overview-architecture-and-core-differentiators-126e)
 - [Choosing the Right CMS for Your Next.js Site: Headless Versus File-Based](https://dev.to/prateekshaweb/choosing-the-right-cms-for-your-nextjs-site-headless-versus-file-based-51o7)
 - [Hallucinating Help](https://dev.to/vaticnz/hallucinating-help-5dkg)
-- [Linus Tech Tips &lpar;LTT&rpar;: Building the PERFECT Linux PC with Linus Torvalds](https://dev.to/future_youtube/linus-tech-tips-ltt-building-the-perfect-linux-pc-with-linus-torvalds-1fal)
-- [Pull Request Reviews](https://dev.to/gratus_devanesan_39212f29/pull-request-reviews-5576)
-- [# Otimizando Imagens Docker: Boas Práticas para Builds Eficientes](https://dev.to/victorzarzar/-otimizando-imagens-docker-boas-praticas-para-builds-eficientes-5cj7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
