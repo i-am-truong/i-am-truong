@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mettez du Love dans votre produit, le MVP est-il dépassé ?](https://dev.to/onepoint/mettez-du-love-dans-votre-produit-le-mvp-est-il-depasse--1h87)
-- [База Данных 4 Практика](https://dev.to/erlan_akbar/baza-dannykh-4-praktika-10k2)
-- [Análisis Exhaustivo: Despliegue de Servidores MCP en Google Cloud Run](https://dev.to/angel_josevargasgutierr/analisis-exhaustivo-despliegue-de-servidores-mcp-en-google-cloud-run-1po1)
-- [🔰 NeoBASIC Language: Transpiler to C++ &lpar;and others&rpar;](https://dev.to/teknolista/neobasic-language-transpiler-to-c-and-others-7e8)
-- [10 AI Coding Habits That Instantly Made Me a Faster Developer &lpar;Real Examples&rpar;](https://dev.to/christechnocom/-10-ai-coding-habits-that-instantly-made-me-a-faster-developer-real-examples-164f)
+- [Launching TwelveLabs Marengo 3.0 on Product Hunt - Behind-the-scenes](https://dev.to/fmerian/launching-twelvelabs-marengo-30-on-product-hunt-behind-the-scenes-1ege)
+- [Authentication: JWTs vs. Sessions &lpar;My Study Notes&rpar;](https://dev.to/dhruvik_15/authentication-jwts-vs-sessions-my-study-notes-5ajc)
+- [Top 11 Flutter App Development Companies in Columbus OH for 2026](https://dev.to/sherry_walker_bba406fb339/top-11-flutter-app-development-companies-in-columbus-oh-for-2026-34gk)
+- [Databases 4 Practice 2](https://dev.to/erlan_akbar/databases-4-practice-2-1o93)
+- [How to prepare for a smooth transition to the cloud.](https://dev.to/itcs11/how-to-prepare-for-a-smooth-transition-to-the-cloud-148g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
