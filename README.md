@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How Intentional Constraints Lead to Superior Code](https://dev.to/fhaponenka/how-intentional-constraints-lead-to-superior-code-2089)
+- [Introduction Post](https://dev.to/jason_bakouli_79371e2411e/introduction-post-3m84)
 - [How to Build an AI-Driven Search Experience with Meilisearch and Sevalla](https://dev.to/manishmshiva/how-to-build-an-ai-driven-search-experience-with-meilisearch-and-sevalla-2hmo)
 - [React&#39;s Render Pipeline: A Deep Dive From JSX to the Screen](https://dev.to/curry/reacts-render-pipeline-a-deep-dive-from-jsx-to-the-screen-e2k)
 - [I made a energy recovery game](https://dev.to/lovefoopants/i-made-a-energy-recovery-game-3c9b)
-- [Killing the Stochastic Parrot: I Built Accurate Cognitive AI Search](https://dev.to/iantepoot/killing-the-stochastic-parrot-i-built-accurate-cognitive-ai-search-3gh1)
-- [Meme Monday](https://dev.to/ben/meme-monday-4c68)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
