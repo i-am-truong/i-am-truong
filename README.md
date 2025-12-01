@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Choosing the Right CMS for Your Next.js Site: Headless Versus File-Based](https://dev.to/prateekshaweb/choosing-the-right-cms-for-your-nextjs-site-headless-versus-file-based-51o7)
+- [Hallucinating Help](https://dev.to/vaticnz/hallucinating-help-5dkg)
 - [Linus Tech Tips &lpar;LTT&rpar;: Building the PERFECT Linux PC with Linus Torvalds](https://dev.to/future_youtube/linus-tech-tips-ltt-building-the-perfect-linux-pc-with-linus-torvalds-1fal)
 - [Pull Request Reviews](https://dev.to/gratus_devanesan_39212f29/pull-request-reviews-5576)
 - [# Otimizando Imagens Docker: Boas Práticas para Builds Eficientes](https://dev.to/victorzarzar/-otimizando-imagens-docker-boas-praticas-para-builds-eficientes-5cj7)
-- [How I Automated My GitHub Profile README With GitHub Actions &lpar;And How You Can Automate Anything Too&rpar;](https://dev.to/bhargab/how-i-automated-my-github-profile-readme-with-github-actions-and-how-you-can-automate-anything-too-1lkm)
-- [Amazon EKS Capabilities: Quick Summary](https://dev.to/aws-builders/amazon-eks-capabilities-quick-summary-1po7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
