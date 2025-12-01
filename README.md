@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Monolith to Microservices without changing one line of code, thanks to the power of Inversion of Control &lpar;IoC&rpar;](https://dev.to/remojansen/from-monolith-to-microservices-without-changing-one-line-of-code-thanks-to-the-power-of-inversion-57l6)
-- [Quantum Granules: Taming Complexity with Effect-Based Abstraction](https://dev.to/arvind_sundararajan/quantum-granules-taming-complexity-with-effect-based-abstraction-1fib)
-- [Why You Need a Local-First API Client &lpar;With Hands-On Example&rpar;](https://dev.to/anusha_kuppili/why-you-need-a-local-first-api-client-with-hands-on-example-1no8)
-- [Update and maintain azure resources](https://dev.to/ojosamuel129/update-and-maintain-azure-resources-3ifn)
-- [Building a Transparent LAGG &lpar;LACP&rpar; Bridge with OPNsense, UDM, and UniFi — A Practical Guide](https://dev.to/andremmfaria/building-a-transparent-lagg-lacp-bridge-with-opnsense-udm-and-unifi-a-practical-guide-1d21)
+- [Google&#39;s New AI Tool Already Beaten? Try Alibaba&#39;s Free Local Alternative](https://dev.to/localfaceswap/googles-new-ai-tool-already-beaten-try-alibabas-free-local-alternative-hee)
+- [Challenge &lpar;Cafe&rpar; lab: Creating a Static Website for the Cafe](https://dev.to/hallomell/challenge-cafe-lab-creating-a-static-website-for-the-cafe-15k9)
+- [Cafe Business Case Introduction](https://dev.to/hallomell/cafe-business-case-introduction-573m)
+- [Macroeconomics Isn&#39;t Mid, Your Takes Are: A Hacker&#39;s Guide](https://dev.to/thinkaddict/macroeconomics-isnt-mid-your-takes-are-a-hackers-guide-4p23)
+- [Build your VPC and Launch a Web Server](https://dev.to/hallomell/build-your-vpc-and-launch-a-web-server-2eo9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
