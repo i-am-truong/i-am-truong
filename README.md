@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🧠 [Memory Leak] Why I Felt Stupid at 2 PM: Debugging My Brain&#39;s RAM](https://dev.to/vital_access/memory-leak-why-i-felt-stupid-at-2-pm-debugging-my-brains-ram-4lah)
-- [ZeroThreat in the AppSec Landscape: A Technical &amp; Operational Assessment](https://dev.to/jigar_online/zerothreat-in-the-appsec-landscape-a-technical-operational-assessment-f2d)
-- [Design and Simulate System Architecture before building](https://dev.to/joshua_fe9e97108ad35e33e7/design-and-simulate-system-architecture-before-building-2od7)
-- [The Velocity Trap: Why Your AI Productivity Gains Are an Illusion](https://dev.to/cleberdelima/the-velocity-trap-why-your-ai-productivity-gains-are-an-illusion-o6o)
-- [Day 1 — The Red Bear Inn: Beginning the Security Advent &lpar;Defense in Depth&rpar;](https://dev.to/aerabi/day-1-the-red-bear-inn-beginning-the-security-advent-defense-in-depth-35c7)
+- [TIL: Inspect Rails app routes from info panel](https://dev.to/epigene/til-inspect-rails-app-routes-from-info-panel-3k1b)
+- [React State Custom: Comprehensive Review](https://dev.to/vothanhdat/react-state-custom-comprehensive-review-5geb)
+- [Restoring a Lost Datafile from Standby Using RMAN](https://dev.to/vahidusefzadeh/restoring-a-lost-datafile-from-standby-using-rman-35a5)
+- [Swagger의 사실과 오해: API-First Development](https://dev.to/headf1rst/swaggeryi-sasilgwa-ohae-api-first-development-3kcc)
+- [Fix Router Blinking Red Light In Minutes](https://dev.to/bryan_collins_abcd0214d94/fix-router-blinking-red-light-in-minutes-4598)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
