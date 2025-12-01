@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Diário Dev #6: Persistência, pausas e revisitar ideias no desenvolvimento](https://dev.to/andersonvnieves/diario-dev-6-persistencia-pausas-e-revisitar-ideias-no-desenvolvimento-3bmj)
-- [Building a Responsive Interface with Kiro: My first hackathon project](https://dev.to/meds/building-a-responsive-interface-with-kiro-my-first-hackathon-project-20l1)
-- [Why Angular ARIA in v21 is pretty neat](https://dev.to/lxt/why-angular-aria-in-v21-is-pretty-neat-1652)
-- [We are spinning up planet-sized brains just to format a JSON file](https://dev.to/js402/we-are-spinning-up-planet-sized-brains-just-to-format-a-json-file-2j85)
-- [Stop Chatting, Start Specifying: Spec-Driven Design with Kiro IDE](https://dev.to/pabloalbaladejo/stop-chatting-start-specifying-spec-driven-design-with-kiro-ide-3b3o)
+- [Linus Tech Tips &lpar;LTT&rpar;: Building the PERFECT Linux PC with Linus Torvalds](https://dev.to/future_youtube/linus-tech-tips-ltt-building-the-perfect-linux-pc-with-linus-torvalds-1fal)
+- [Pull Request Reviews](https://dev.to/gratus_devanesan_39212f29/pull-request-reviews-5576)
+- [# Otimizando Imagens Docker: Boas Práticas para Builds Eficientes](https://dev.to/victorzarzar/-otimizando-imagens-docker-boas-praticas-para-builds-eficientes-5cj7)
+- [How I Automated My GitHub Profile README With GitHub Actions &lpar;And How You Can Automate Anything Too&rpar;](https://dev.to/bhargab/how-i-automated-my-github-profile-readme-with-github-actions-and-how-you-can-automate-anything-too-1lkm)
+- [Amazon EKS Capabilities: Quick Summary](https://dev.to/aws-builders/amazon-eks-capabilities-quick-summary-1po7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
