@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to connect a local AI model to VS Code.](https://dev.to/sushan/how-to-connect-a-local-ai-model-to-vs-code-1g8d)
+- [Free SQL courses for beginners in 2026](https://dev.to/nldr/free-sql-courses-for-beginners-in-2026-1667)
+- [Stop Using console.log&lpar;&rpar; in Production in 2025: Here&#39;s What You Should Do Instead.](https://dev.to/jay_m/stop-using-consolelog-in-production-in-2025-heres-what-you-should-do-instead-3e4e)
+- [Using AI to prototype games in the browser](https://dev.to/thisisjofrank/using-ai-to-prototype-games-in-the-browser-41j1)
 - [TIL: Inspect Rails app routes from info panel](https://dev.to/epigene/til-inspect-rails-app-routes-from-info-panel-3k1b)
-- [React State Custom: Comprehensive Review](https://dev.to/vothanhdat/react-state-custom-comprehensive-review-5geb)
-- [Restoring a Lost Datafile from Standby Using RMAN](https://dev.to/vahidusefzadeh/restoring-a-lost-datafile-from-standby-using-rman-35a5)
-- [Swagger의 사실과 오해: API-First Development](https://dev.to/headf1rst/swaggeryi-sasilgwa-ohae-api-first-development-3kcc)
-- [Fix Router Blinking Red Light In Minutes](https://dev.to/bryan_collins_abcd0214d94/fix-router-blinking-red-light-in-minutes-4598)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
