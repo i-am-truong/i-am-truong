@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Qeltrix Organization Launch: V1 PoC Delivers Proven Performance &amp; Security](https://dev.to/hejhdiss/qeltrix-organization-launch-v1-poc-delivers-proven-performance-security-5497)
-- [How Intentional Constraints Lead to Superior Code](https://dev.to/fhaponenka/how-intentional-constraints-lead-to-superior-code-2089)
-- [10 Useful AI Prompts You Should Try](https://dev.to/findaiprompt/10-useful-ai-prompts-you-should-try-4of8)
-- [Introduction Post](https://dev.to/jason_bakouli_79371e2411e/introduction-post-3m84)
-- [How to Build an AI-Driven Search Experience with Meilisearch and Sevalla](https://dev.to/manishmshiva/how-to-build-an-ai-driven-search-experience-with-meilisearch-and-sevalla-2hmo)
+- [From Blender-MCP to 3D-Agent: The Evolution of AI-Powered Blender Modeling](https://dev.to/glglgl/from-blender-mcp-to-3d-agent-the-evolution-of-ai-powered-blender-modeling-1m7d)
+- [The Missing Dimension in Neuroplasticity Theory](https://dev.to/drift_42_3e6b9ee4b81a41d3/the-missing-dimension-in-neuroplasticity-theory-5bp4)
+- [🚀 Build a Remote MCP Server That Connects to Any MCP Client &lpar;Claude, VSCode &amp; More&rpar;](https://dev.to/wsalas651/build-a-remote-mcp-server-that-connects-to-any-mcp-client-claude-vscode-more-3i9d)
+- [On Making Impossible States Impossible](https://dev.to/stoft/on-making-impossible-states-impossible-1goj)
+- [Updater Releases - Your Github Repository Updater](https://dev.to/embernoglow/updater-releases-your-github-repository-updater-34ao)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
