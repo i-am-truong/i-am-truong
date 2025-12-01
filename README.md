@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cloud Outages: The Unpopular Truth No One Wants to Hear](https://dev.to/aws-builders/cloud-outages-the-unpopular-truth-no-one-wants-to-hear-4enl)
-- [🔓 Decrypt MIUI .sa &amp; .sav Files Using APK Certificate Hex + Python – Full Guide by TheDevOpsRite](https://dev.to/thedevopsrite/decrypt-miui-sa-sav-files-using-apk-certificate-hex-python-full-guide-by-thedevopsrite-1l7h)
-- [Building a Data Platform on AWS: Essential Design Considerations for Power BI](https://dev.to/aws-builders/building-a-data-platform-on-aws-essential-design-considerations-for-power-bi-nk4)
-- [gopin - Automate Version Pinning for Go Install Commands](https://dev.to/kurorr/gopin-automate-version-pinning-for-go-install-commands-46m)
-- [How to connect a local AI model to VS Code.](https://dev.to/sushan/how-to-connect-a-local-ai-model-to-vs-code-1g8d)
+- [How to Build an AI-Driven Search Experience with Meilisearch and Sevalla](https://dev.to/manishmshiva/how-to-build-an-ai-driven-search-experience-with-meilisearch-and-sevalla-2hmo)
+- [React&#39;s Render Pipeline: A Deep Dive From JSX to the Screen](https://dev.to/curry/reacts-render-pipeline-a-deep-dive-from-jsx-to-the-screen-e2k)
+- [I made a energy recovery game](https://dev.to/lovefoopants/i-made-a-energy-recovery-game-3c9b)
+- [Killing the Stochastic Parrot: I Built Accurate Cognitive AI Search](https://dev.to/iantepoot/killing-the-stochastic-parrot-i-built-accurate-cognitive-ai-search-3gh1)
+- [Meme Monday](https://dev.to/ben/meme-monday-4c68)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
