@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Secrets Safe, 3-Tier Deployments Fast: Terraform + Azure Key Vault Complete Hands-On Guide](https://dev.to/careerbytecode/secrets-safe-3-tier-deployments-fast-terraform-azure-key-vault-complete-hands-on-guide-4ml5)
-- [Why Application Refactoring Shapes Your Cloud Migration Success](https://dev.to/zarajohnson/application-refactoring-for-cloud-4i18)
-- [When Your Country&#39;s Currency Loses 70% in Two Years, Bitcoin Stops Looking Risky](https://dev.to/dhis_is_jj/when-your-countrys-currency-loses-70-in-two-years-bitcoin-stops-looking-risky-3jlf)
-- [Simplifying basic &lpar;genAI&rpar; web app deployment with serverless](https://dev.to/wescpy/simplifying-basic-genai-web-app-deployment-with-serverless-3cc5)
-- [Fixing Claude Code&#39;s Amnesia](https://dev.to/arpitnath/fixing-claude-codes-amnesia-5g9f)
+- [🚀 How I Built Tulia AI’s MVP in Under a Month Thanks to Kiro’s Developer Superpowers](https://dev.to/bochie/how-i-built-tulia-ais-mvp-in-under-a-month-thanks-to-kiros-developer-superpowers-84n)
+- [TikTok SEO: Why Your Videos Aren&#39;t Being Found &lpar;And How to Fix It&rpar;](https://dev.to/synergistdigitalmedia/tiktok-seo-why-your-videos-arent-being-found-and-how-to-fix-it-41a9)
+- [101 ana ucuz](https://dev.to/alsafari_tours_17a74bc8ab/101-ana-ucuz-2fm0)
+- [How to Use AI to Write Better Blogs Faster in 2025](https://dev.to/lightningdev123/how-to-use-ai-to-write-better-blogs-faster-in-2025-4f63)
+- [Litlyx: Our new open-source launch - 10 simpler, 10 faster, 100% self-hostable](https://dev.to/antoniofromlitlyx/litlyx-our-new-open-source-launch-10x-simpler-10x-faster-100-self-hostable-2g1h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
