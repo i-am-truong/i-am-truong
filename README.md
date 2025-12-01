@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [We are spinning up planet-sized brains just to format a JSON file](https://dev.to/js402/we-are-spinning-up-planet-sized-brains-just-to-format-a-json-file-2j85)
 - [Stop Chatting, Start Specifying: Spec-Driven Design with Kiro IDE](https://dev.to/pabloalbaladejo/stop-chatting-start-specifying-spec-driven-design-with-kiro-ide-3b3o)
-- [Online Meeting Sucks!](https://dev.to/stakiran/online-meeting-sucks-1g7l)
-- [What is Web3 in Simple Terms](https://dev.to/obafemi_ogunmokun_df70d91/what-is-web3-in-simple-terms-449l)
-- [Understanding GlassEffectContainer in iOS 26](https://dev.to/arshtechpro/understanding-glasseffectcontainer-in-ios-26-2n8p)
-- [Keypad Conundrum](https://dev.to/rmion/keypad-conundrum-39hl)
+- [Shamba-MedCare Prompt Engineering](https://dev.to/nicanor_korir/shamba-medcare-prompt-engineering-5f9n)
+- [Kicking Off: Unpacking the Road to World Cup 2026](https://dev.to/mabualzait/kicking-off-unpacking-the-road-to-world-cup-2026-2bfh)
+- [How I Stopped AI Codebases From Collapsing: Architecture Drift vs. Deterministic Slices](https://dev.to/vibecodiq/how-i-stopped-ai-codebases-from-collapsing-architecture-drift-vs-deterministic-slices-3pi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
