@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Online Meeting Sucks!](https://dev.to/stakiran/online-meeting-sucks-1g7l)
 - [What is Web3 in Simple Terms](https://dev.to/obafemi_ogunmokun_df70d91/what-is-web3-in-simple-terms-449l)
 - [Maximize Your AI Conversations: Monetization Tactics for Developers](https://dev.to/monetzly/maximize-your-ai-conversations-monetization-tactics-for-developers-1806)
 - [Understanding GlassEffectContainer in iOS 26](https://dev.to/arshtechpro/understanding-glasseffectcontainer-in-ios-26-2n8p)
 - [Keypad Conundrum](https://dev.to/rmion/keypad-conundrum-39hl)
-- [Physical vs Logical Backups in PostgreSQL: Decisive Comparison &amp; Guide](https://dev.to/dean_dautovich/physical-vs-logical-backups-in-postgresql-decisive-comparison-guide-m22)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
