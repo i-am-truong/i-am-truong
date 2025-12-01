@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Practical Guide to Deploying Scalable Serverless Apps on AWS](https://dev.to/ibshafique/a-practical-guide-to-deploying-scalable-serverless-apps-on-aws-2b4p)
-- [Why Your Users Cannot Perceive Zero Latency: A Scientific Guide for Developers](https://dev.to/maria-artamonova/why-your-users-cannot-perceive-zero-latency-a-scientific-guide-for-developers-58i3)
-- [Cypress 15.7.0: A Faster, Smarter, More Modern Testing Experience](https://dev.to/testrig/cypress-1570-a-faster-smarter-more-modern-testing-experience-1d80)
-- [Why I Don’t Trust AI With Crypto Predictions?](https://dev.to/endeo/why-i-dont-trust-ai-with-crypto-predictions-539)
-- [I spent 400 hours working with AI agents and found the best one - here it is.](https://dev.to/nek12/i-spent-400-hours-working-with-ai-agents-and-found-the-best-one-here-it-is-5h1b)
+- [ZeroThreat in the AppSec Landscape: A Technical &amp; Operational Assessment](https://dev.to/jigar_online/zerothreat-in-the-appsec-landscape-a-technical-operational-assessment-f2d)
+- [Design and Simulate System Architecture before building](https://dev.to/joshua_fe9e97108ad35e33e7/design-and-simulate-system-architecture-before-building-2od7)
+- [The Velocity Trap: Why Your AI Productivity Gains Are an Illusion](https://dev.to/cleberdelima/the-velocity-trap-why-your-ai-productivity-gains-are-an-illusion-o6o)
+- [Day 1 — The Red Bear Inn: Beginning the Security Advent &lpar;Defense in Depth&rpar;](https://dev.to/aerabi/day-1-the-red-bear-inn-beginning-the-security-advent-defense-in-depth-35c7)
+- [How AI Is Changing the Way Developers Work &lpar;And Why I Built Code Tracker AI&rpar;](https://dev.to/monahidalgo/how-ai-is-changing-the-way-developers-work-and-why-i-built-code-tracker-ai-2gae)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
