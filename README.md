@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Architecture Behind a Stateless AI Application](https://dev.to/nicanor_korir/the-architecture-behind-a-stateless-ai-application-pk3)
+- [Congrats to the Winners of the Agentic Postgres Challenge with Tiger Data!](https://dev.to/devteam/congrats-to-the-winners-of-the-agentic-postgres-challenge-with-tiger-data-51m6)
+- [Trying Out Dagster for Data Orchestration](https://dev.to/ybryzy/trying-out-dagster-for-data-orchestration-1ih5)
+- [I hate working for AI start-up](https://dev.to/nishant_singh1432/i-hate-working-for-ai-start-up-28o0)
 - [The AI Refactoring Trap: Why &quot;Messy&quot; Code is Often Better](https://dev.to/samuel_ochaba_eb9c875fa89/the-ai-refactoring-trap-why-messy-code-is-often-better-563p)
-- [The &quot;Shallow Developer&quot; Trap: Why AI Code Breaks in Production](https://dev.to/samuel_ochaba_eb9c875fa89/the-shallow-developer-trap-why-ai-code-breaks-in-production-37o4)
-- [Como Criar uma Biblioteca Angular e Publicar no NPM: Guia Completo](https://dev.to/ghabryel/como-criar-uma-biblioteca-angular-e-publicar-no-npm-guia-completo-3hk8)
-- [Turn One Blog Post Into 15 Assets in 47 Minutes: My Content Repurposing System](https://dev.to/synergistdigitalmedia/turn-one-blog-post-into-15-assets-in-47-minutes-my-content-repurposing-system-1age)
-- [Quantum &#39;Negative Learning&#39;: Escaping the Optimization Abyss](https://dev.to/arvind_sundararajan/quantum-negative-learning-escaping-the-optimization-abyss-3h9o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
