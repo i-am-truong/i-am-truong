@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Troubleshooting Guide: Windows 365 Cloud PC Access &amp; OS Corruption](https://dev.to/itcs11/troubleshooting-guide-windows-365-cloud-pc-access-os-corruption-1ja6)
-- [Top 5 Audit Logging Libraries Every Startup Should Consider in 2025](https://dev.to/shreya_srivastava_a4cab6e/top-5-audit-logging-libraries-every-startup-should-consider-in-2025-lhn)
-- [How to Evaluate Smart Device + Token Projects: A Checklist for Crypto Investors &amp; Builders](https://dev.to/asher_66640eb206c4123b2f5/how-to-evaluate-smart-device-token-projects-a-checklist-for-crypto-investors-builders-15dd)
-- [Make Digital Contracts Smarter by Adding Hyperlinks with BoldSign API](https://dev.to/boldsign/make-digital-contracts-smarter-by-adding-hyperlinks-with-boldsign-api-1g6h)
-- [Why Everyday Smart Devices &lpar;Yes — Even a Toothbrush&rpar; Matter in Web3 &amp; DePIN](https://dev.to/asher_66640eb206c4123b2f5/why-everyday-smart-devices-yes-even-a-toothbrush-matter-in-web3-depin-4mg4)
+- [Using Vue’s Custom Renderer API to Build Interfaces Beyond the DOM](https://dev.to/jacobandrewsky/using-vues-custom-renderer-api-to-build-interfaces-beyond-the-dom-1jjg)
+- [Stop wrapping your RabbitMQ code in runBlocking](https://dev.to/nathanfallet/stop-wrapping-your-rabbitmq-code-in-runblocking-18c2)
+- [Hashicorp Vault: An Inquiry into the Nature of Tokens](https://dev.to/admantium/hashicorp-vault-an-inquiry-into-the-nature-of-tokens-ao5)
+- [Your Full-Stack Roadmap is a Trap. Here&#39;s The AI-First Path.](https://dev.to/thinkaddict/your-full-stack-roadmap-is-a-trap-heres-the-ai-first-path-4bcn)
+- [Security Groups vs NACLs: A Simple Breakdown](https://dev.to/irfansatrio/security-groups-vs-nacls-a-simple-breakdown-391j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
