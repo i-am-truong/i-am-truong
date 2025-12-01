@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🧠 [Memory Leak] Why I Felt Stupid at 2 PM: Debugging My Brain&#39;s RAM](https://dev.to/vital_access/memory-leak-why-i-felt-stupid-at-2-pm-debugging-my-brains-ram-4lah)
 - [ZeroThreat in the AppSec Landscape: A Technical &amp; Operational Assessment](https://dev.to/jigar_online/zerothreat-in-the-appsec-landscape-a-technical-operational-assessment-f2d)
 - [Design and Simulate System Architecture before building](https://dev.to/joshua_fe9e97108ad35e33e7/design-and-simulate-system-architecture-before-building-2od7)
 - [The Velocity Trap: Why Your AI Productivity Gains Are an Illusion](https://dev.to/cleberdelima/the-velocity-trap-why-your-ai-productivity-gains-are-an-illusion-o6o)
 - [Day 1 — The Red Bear Inn: Beginning the Security Advent &lpar;Defense in Depth&rpar;](https://dev.to/aerabi/day-1-the-red-bear-inn-beginning-the-security-advent-defense-in-depth-35c7)
-- [How AI Is Changing the Way Developers Work &lpar;And Why I Built Code Tracker AI&rpar;](https://dev.to/monahidalgo/how-ai-is-changing-the-way-developers-work-and-why-i-built-code-tracker-ai-2gae)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
