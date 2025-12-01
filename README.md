@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to reduce technical debt in every pull request](https://dev.to/kodus/how-to-reduce-technical-debt-in-every-pull-request-2m0h)
+- [Why JavaScript!](https://dev.to/mohamed_ajmal_222/why-javascript-1ppj)
 - [Is Solana Really Running Out of Memory?](https://dev.to/soltap_io/is-solana-really-running-out-of-memory-23il)
-- [🔭 Observability Practices: The 3 Pillars with a Node.js + OpenTelemetry Example](https://dev.to/wsalas651/observability-practices-the-3-pillars-with-a-nodejs-opentelemetry-example-11k7)
-- [JavaScript Introduction.](https://dev.to/mohamed_ajmal_222/javascript-introduction-2gk1)
-- [PyTorch in Practice: Engineering a Custom CNN for Hair Texture Classification](https://dev.to/austin_deyan_6c9b2445aed6/pytorch-in-practice-engineering-a-custom-cnn-for-hair-texture-classification-1b37)
-- [Illuminating Life: Mastering Cellular Processes with Light-Based Control](https://dev.to/arvind_sundararajan/illuminating-life-mastering-cellular-processes-with-light-based-control-nma)
+- [Why Anomalies Matter](https://dev.to/dipti_m_2e7ba36c478d1a48a/why-anomalies-matter-480n)
+- [Escaping .NET after 18 years: my new journey](https://dev.to/trpn_/escaping-net-after-18-years-my-new-journey-49dm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
