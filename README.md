@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Simple Contact Form Setup With Django &amp; AutoSend](https://dev.to/ddebajyati/a-simple-contact-form-setup-with-django-autosend-4ebn)
-- [The 80/20 landing page rule: Spend 80% here, get 300% more customers](https://dev.to/shorthander/the-8020-landing-page-rule-spend-80-here-get-300-more-customers-al2)
-- [The Silent Killer: How One Django Signal Can Crashed your AI Support Platform ?](https://dev.to/ismailmirza/the-silent-killer-how-one-django-signal-can-crashed-your-ai-support-platform--24jc)
-- [Using Terraform to create LXC in Proxmox](https://dev.to/woovi/using-terraform-to-create-lxc-in-proxmox-496h)
-- [Why I Chose Turborepo Over Nx: Monorepo Performance Without the Complexity](https://dev.to/saswatapal/why-i-chose-turborepo-over-nx-monorepo-performance-without-the-complexity-1afp)
+- [Day 12: Python Programming](https://dev.to/aruna_arun_0cda4eb425bb0f/day-12-python-programming-156n)
+- [Smart TV App Development: OTT Beyond Mobile and Web](https://dev.to/regal22/smart-tv-app-development-ott-beyond-mobile-and-web-6fc)
+- [&quot;That&#39;s Just How It Is&quot; Kills Innovation: Building Teams That Question Everything](https://dev.to/tlorent/thats-just-how-it-is-kills-innovation-building-teams-that-question-everything-28o2)
+- [Testing Angular 21 Components with Vitest: A Complete Guide](https://dev.to/olayeancarh/testing-angular-21-components-with-vitest-a-complete-guide-4db7)
+- [Testing Angular 21 Components with Vitest: A Complete Guide](https://dev.to/olayeancarh/testing-angular-21-components-with-vitest-a-complete-guide-8l2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
