@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 6 : Understanding Terraform File loading,Project Structure &amp; .gitignore Essentials](https://dev.to/alafiz/day-6-understanding-terraform-file-loadingproject-structure-gitignore-essentials-4ncm)
+- [How to Integrate WebAuthn in Next.js](https://dev.to/popoolatopzy/how-to-integrate-webauthn-in-nextjs-458g)
+- [Terraform Meta-Arguments](https://dev.to/anil_kumar_noolu/terraform-meta-arguments-187f)
 - [My Free Half Marathon Plan for Working Parents](https://dev.to/lexingdailylife/my-free-half-marathon-plan-for-working-parents-1cd)
 - [Getting Input Values by ID or Class… On the Backend](https://dev.to/jahongir2007/getting-input-values-by-id-or-class-on-the-backend-1ao3)
-- [🧛👻 BloodBound Academy: How I Built a Haunting AI Study Tool in ~7 Hrs Using Kiro&#39;s Spec-Driven Magic](https://dev.to/kirodotdev/bloodbound-academy-how-i-built-a-haunting-ai-study-tool-in-7-hrs-using-kiros-spec-driven-magic-1043)
-- [**Implementing AI Governance in Precision Medicine: A Case S](https://dev.to/drcarlosruizviquez/implementing-ai-governance-in-precision-medicine-a-case-s-1bg1)
-- [How to Add Feature Flags to Your App in 5 Minutes](https://dev.to/indienow/how-to-add-feature-flags-to-your-app-in-5-minutes-13b5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
