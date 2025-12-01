@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Netflix Stranger Things S5 premiere Outage](https://dev.to/alamfatima1999/netflix-stranger-things-s5-premiere-outage-3plo)
-- [**La Importancia de la Automatización en el Cumplimiento de](https://dev.to/drcarlosruizviquez/la-importancia-de-la-automatizacion-en-el-cumplimiento-de-198p)
-- [Best AI Ranking Audit Tools](https://dev.to/bell_drailing_96a7e7c0b5c/best-ai-ranking-audit-tools-33n0)
-- [Data Center Migration to Cloud](https://dev.to/rahul_goswami_9ebb75929c3/data-center-migration-to-cloud-109l)
-- [Day 6 : Understanding Terraform File loading,Project Structure &amp; .gitignore Essentials](https://dev.to/alafiz/day-6-understanding-terraform-file-loadingproject-structure-gitignore-essentials-4ncm)
+- [I made a thing because taking notes from YouTube sucks](https://dev.to/ayush_jhanwar_6e501579134/i-made-a-thing-because-taking-notes-from-youtube-sucks-nod)
+- [Build in Public: Week 4. The Messy Middle Of Building An AI Agent](https://dev.to/olgabraginskaya/build-in-public-week-4-the-messy-middle-of-building-an-ai-agent-2p55)
+- [XRPL Programmability: WASM Runtime Revisit](https://dev.to/ripplexdev/xrpl-programmability-wasm-runtime-revisit-2ak0)
+- [How To Categorize Your Tests in Playwright using Tags to Make Your Testing Suite Less Terrible](https://dev.to/arvind_mehairjan/how-to-categorize-your-tests-in-playwright-using-tags-to-make-your-testing-suite-less-terrible-4b5p)
+- [How to Embed Interactive Calculators in Modern Web Apps?](https://dev.to/josh_bell/how-to-embed-interactive-calculators-in-modern-web-apps-24e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
