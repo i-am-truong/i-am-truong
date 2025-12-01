@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Tech Radar: A Practical Guide for Technology Leaders](https://dev.to/audaciatechnology/building-a-tech-radar-a-practical-guide-for-technology-leaders-3o6p)
+- [¡Microsoft libera el código de Zork!](https://dev.to/baltasarq/microsoft-libera-el-codigo-de-zork-29nm)
+- [Shai Hulud has resurfaced.](https://dev.to/jenapuneet/shai-hulud-has-resurfaced-1bpn)
 - [🚀 How I Built Tulia AI’s MVP in Under a Month Thanks to Kiro’s Developer Superpowers](https://dev.to/bochie/how-i-built-tulia-ais-mvp-in-under-a-month-thanks-to-kiros-developer-superpowers-84n)
 - [TikTok SEO: Why Your Videos Aren&#39;t Being Found &lpar;And How to Fix It&rpar;](https://dev.to/synergistdigitalmedia/tiktok-seo-why-your-videos-arent-being-found-and-how-to-fix-it-41a9)
-- [101 ana ucuz](https://dev.to/alsafari_tours_17a74bc8ab/101-ana-ucuz-2fm0)
-- [How to Use AI to Write Better Blogs Faster in 2025](https://dev.to/lightningdev123/how-to-use-ai-to-write-better-blogs-faster-in-2025-4f63)
-- [Litlyx: Our new open-source launch - 10 simpler, 10 faster, 100% self-hostable](https://dev.to/antoniofromlitlyx/litlyx-our-new-open-source-launch-10x-simpler-10x-faster-100-self-hostable-2g1h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
