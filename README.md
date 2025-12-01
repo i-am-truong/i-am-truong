@@ -120,11 +120,15 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Blender-MCP to 3D-Agent: The Evolution of AI-Powered Blender Modeling](https://dev.to/glglgl/from-blender-mcp-to-3d-agent-the-evolution-of-ai-powered-blender-modeling-1m7d)
-- [The Missing Dimension in Neuroplasticity Theory](https://dev.to/drift_42_3e6b9ee4b81a41d3/the-missing-dimension-in-neuroplasticity-theory-5bp4)
-- [🚀 Build a Remote MCP Server That Connects to Any MCP Client &lpar;Claude, VSCode &amp; More&rpar;](https://dev.to/wsalas651/build-a-remote-mcp-server-that-connects-to-any-mcp-client-claude-vscode-more-3i9d)
-- [On Making Impossible States Impossible](https://dev.to/stoft/on-making-impossible-states-impossible-1goj)
-- [Updater Releases - Your Github Repository Updater](https://dev.to/embernoglow/updater-releases-your-github-repository-updater-34ao)
+- [3D-Agent and Blender-MCP: Both Amazing Blender AI Tools](https://dev.to/glglgl/3d-agent-and-blender-mcp-both-amazing-blender-ai-tools-4o7n)
+- [Building a Robust Bonus Engine in Go: Mastering Accrual, Wager, and Compliance](https://dev.to/4mars/building-a-robust-bonus-engine-in-go-mastering-accrual-wager-and-compliance-3i9h)
+- [Building in Public as a High School Founder: Fushi](https://dev.to/aethelsoftware/building-in-public-as-a-high-school-founder-fushi-36l4)
+- [🎨 CSS Opacity: The Simplest Way to Control Transparency on the Web](https://dev.to/arsalanmeee/css-opacity-the-simplest-way-to-control-transparency-on-the-web-356p)
+- [JSON Was Slowing Me Down — So I Created Something Better
+
+https://dev.to/internetobject/from-json-to-internet-object-a-lean-schema-first-data-format-part-1-19e5
+
+#python #javascript #api #datascience](https://dev.to/internetobject/json-was-slowing-me-down-so-i-created-something-better-1hdd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
