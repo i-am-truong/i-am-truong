@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Como Criar uma Biblioteca Angular e Publicar no NPM: Guia Completo](https://dev.to/ghabryel/como-criar-uma-biblioteca-angular-e-publicar-no-npm-guia-completo-3hk8)
+- [Turn One Blog Post Into 15 Assets in 47 Minutes: My Content Repurposing System](https://dev.to/synergistdigitalmedia/turn-one-blog-post-into-15-assets-in-47-minutes-my-content-repurposing-system-1age)
+- [Building Shamba-MedCare AI app for Real Users](https://dev.to/nicanor_korir/building-shamba-medcare-ai-app-for-real-users-dak)
 - [The Atomic Schlep: The Architecture of the Unstoppable Swap](https://dev.to/faruukku/the-atomic-schlep-the-architecture-of-the-unstoppable-swap-186i)
 - [JWT Token Validator Challenge](https://dev.to/fosres/jwt-token-validator-exercise-55mn)
-- [Google Antigravity: An Overview, Architecture, and Core Differentiators](https://dev.to/isaac29/google-antigravity-an-overview-architecture-and-core-differentiators-126e)
-- [Choosing the Right CMS for Your Next.js Site: Headless Versus File-Based](https://dev.to/prateekshaweb/choosing-the-right-cms-for-your-nextjs-site-headless-versus-file-based-51o7)
-- [Hallucinating Help](https://dev.to/vaticnz/hallucinating-help-5dkg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
