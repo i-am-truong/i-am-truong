@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Diário Dev #6: Persistência, pausas e revisitar ideias no desenvolvimento](https://dev.to/andersonvnieves/diario-dev-6-persistencia-pausas-e-revisitar-ideias-no-desenvolvimento-3bmj)
+- [Building a Responsive Interface with Kiro: My first hackathon project](https://dev.to/meds/building-a-responsive-interface-with-kiro-my-first-hackathon-project-20l1)
+- [Why Angular ARIA in v21 is pretty neat](https://dev.to/lxt/why-angular-aria-in-v21-is-pretty-neat-1652)
 - [We are spinning up planet-sized brains just to format a JSON file](https://dev.to/js402/we-are-spinning-up-planet-sized-brains-just-to-format-a-json-file-2j85)
 - [Stop Chatting, Start Specifying: Spec-Driven Design with Kiro IDE](https://dev.to/pabloalbaladejo/stop-chatting-start-specifying-spec-driven-design-with-kiro-ide-3b3o)
-- [Shamba-MedCare Prompt Engineering](https://dev.to/nicanor_korir/shamba-medcare-prompt-engineering-5f9n)
-- [Kicking Off: Unpacking the Road to World Cup 2026](https://dev.to/mabualzait/kicking-off-unpacking-the-road-to-world-cup-2026-2bfh)
-- [How I Stopped AI Codebases From Collapsing: Architecture Drift vs. Deterministic Slices](https://dev.to/vibecodiq/how-i-stopped-ai-codebases-from-collapsing-architecture-drift-vs-deterministic-slices-3pi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
