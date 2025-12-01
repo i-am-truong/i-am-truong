@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [DataViz Kit Weekly Update: Testing New SEO Strategies](https://dev.to/roshaan_tahir/dataviz-kit-weekly-update-testing-new-seo-strategies-45ih)
-- [Pequenos atalhos Git que deixaram meu fluxo de trabalho muito mais rápido](https://dev.to/leorodriguesdev/pequenos-atalhos-git-que-deixaram-meu-fluxo-de-trabalho-muito-mais-rapido-2556)
-- [Small shortcuts that made my Git workflow easier](https://dev.to/leorodriguesdev/small-shortcuts-that-made-my-git-workflow-easier-3bhe)
-- [Built an AI Agent That Actually Runs Agile Sprints End-to-End &lpar;Not Just Ticket Generation&rpar;](https://dev.to/ben_var_551c679bfe4787c4f/built-an-ai-agent-that-actually-runs-agile-sprints-end-to-end-not-just-ticket-generation-1853)
-- [Built an AI Agent That Actually Runs Agile Sprints End-to-End &lpar;Not Just Ticket Generation&rpar;](https://dev.to/ben_var_551c679bfe4787c4f/built-an-ai-agent-that-actually-runs-agile-sprints-end-to-end-not-just-ticket-generation-3297)
+- [From Monolith to Microservices without changing one line of code, thanks to the power of Inversion of Control &lpar;IoC&rpar;](https://dev.to/remojansen/from-monolith-to-microservices-without-changing-one-line-of-code-thanks-to-the-power-of-inversion-57l6)
+- [Quantum Granules: Taming Complexity with Effect-Based Abstraction](https://dev.to/arvind_sundararajan/quantum-granules-taming-complexity-with-effect-based-abstraction-1fib)
+- [Why You Need a Local-First API Client &lpar;With Hands-On Example&rpar;](https://dev.to/anusha_kuppili/why-you-need-a-local-first-api-client-with-hands-on-example-1no8)
+- [Update and maintain azure resources](https://dev.to/ojosamuel129/update-and-maintain-azure-resources-3ifn)
+- [Building a Transparent LAGG &lpar;LACP&rpar; Bridge with OPNsense, UDM, and UniFi — A Practical Guide](https://dev.to/andremmfaria/building-a-transparent-lagg-lacp-bridge-with-opnsense-udm-and-unifi-a-practical-guide-1d21)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
