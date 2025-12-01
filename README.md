@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Gateway Endpoints vs Interface Endpoints: What’s the Difference?](https://dev.to/irfansatrio/gateway-endpoints-vs-interface-endpoints-whats-the-difference-10kh)
-- [The Most Underrated Developer Tool Isn&#39;t GitHub Copilot, It&#39;s The Sun](https://dev.to/elevenapril/the-most-underrated-developer-tool-isnt-github-copilot-its-the-sun-ghk)
-- [How AI is Transforming Cloud Engineering: Practical Use Cases for 2025](https://dev.to/eva_clari_289d85ecc68da48/how-ai-is-transforming-cloud-engineering-practical-use-cases-for-2025-na5)
-- [Veeam Backup for Microsoft 365 Installation Guide](https://dev.to/itcs11/veeam-backup-for-microsoft-365-installation-guide-5lo)
-- [Modernizing Legacy Workloads: KubeVirt on AKS with Azure Arc Identity](https://dev.to/cloudquill/modernizing-legacy-workloads-kubevirt-on-aks-with-azure-arc-identity-2ad0)
+- [When Your Country&#39;s Currency Loses 70% in Two Years, Bitcoin Stops Looking Risky](https://dev.to/dhis_is_jj/when-your-countrys-currency-loses-70-in-two-years-bitcoin-stops-looking-risky-3jlf)
+- [Simplifying basic &lpar;genAI&rpar; web app deployment with serverless](https://dev.to/wescpy/simplifying-basic-genai-web-app-deployment-with-serverless-3cc5)
+- [Fixing Claude Code&#39;s Amnesia](https://dev.to/arpitnath/fixing-claude-codes-amnesia-5g9f)
+- [Build Custom Logistics Management Software With AI](https://dev.to/nickpe/build-custom-logistics-management-software-with-ai-5baf)
+- [Why a Good README.md Matters More Than Your Code](https://dev.to/bhagirath00/why-a-good-readmemd-matters-more-than-your-code-1hbg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
