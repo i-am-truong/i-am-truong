@@ -120,15 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [3D-Agent and Blender-MCP: Both Amazing Blender AI Tools](https://dev.to/glglgl/3d-agent-and-blender-mcp-both-amazing-blender-ai-tools-4o7n)
-- [Building a Robust Bonus Engine in Go: Mastering Accrual, Wager, and Compliance](https://dev.to/4mars/building-a-robust-bonus-engine-in-go-mastering-accrual-wager-and-compliance-3i9h)
-- [Building in Public as a High School Founder: Fushi](https://dev.to/aethelsoftware/building-in-public-as-a-high-school-founder-fushi-36l4)
-- [🎨 CSS Opacity: The Simplest Way to Control Transparency on the Web](https://dev.to/arsalanmeee/css-opacity-the-simplest-way-to-control-transparency-on-the-web-356p)
-- [JSON Was Slowing Me Down — So I Created Something Better
-
-https://dev.to/internetobject/from-json-to-internet-object-a-lean-schema-first-data-format-part-1-19e5
-
-#python #javascript #api #datascience](https://dev.to/internetobject/json-was-slowing-me-down-so-i-created-something-better-1hdd)
+- [My Free Half Marathon Plan for Working Parents](https://dev.to/lexingdailylife/my-free-half-marathon-plan-for-working-parents-1cd)
+- [Getting Input Values by ID or Class… On the Backend](https://dev.to/jahongir2007/getting-input-values-by-id-or-class-on-the-backend-1ao3)
+- [🧛👻 BloodBound Academy: How I Built a Haunting AI Study Tool in ~7 Hrs Using Kiro&#39;s Spec-Driven Magic](https://dev.to/kirodotdev/bloodbound-academy-how-i-built-a-haunting-ai-study-tool-in-7-hrs-using-kiros-spec-driven-magic-1043)
+- [**Implementing AI Governance in Precision Medicine: A Case S](https://dev.to/drcarlosruizviquez/implementing-ai-governance-in-precision-medicine-a-case-s-1bg1)
+- [How to Add Feature Flags to Your App in 5 Minutes](https://dev.to/indienow/how-to-add-feature-flags-to-your-app-in-5-minutes-13b5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
