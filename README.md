@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Design a Maintainable .NET Solution Structure for Growing Teams](https://dev.to/mashrulhaque/how-to-design-a-maintainable-net-solution-structure-for-growing-teams-284n)
 - [Building a Tech Radar: A Practical Guide for Technology Leaders](https://dev.to/audaciatechnology/building-a-tech-radar-a-practical-guide-for-technology-leaders-3o6p)
 - [¡Microsoft libera el código de Zork!](https://dev.to/baltasarq/microsoft-libera-el-codigo-de-zork-29nm)
 - [Shai Hulud has resurfaced.](https://dev.to/jenapuneet/shai-hulud-has-resurfaced-1bpn)
-- [🚀 How I Built Tulia AI’s MVP in Under a Month Thanks to Kiro’s Developer Superpowers](https://dev.to/bochie/how-i-built-tulia-ais-mvp-in-under-a-month-thanks-to-kiros-developer-superpowers-84n)
-- [TikTok SEO: Why Your Videos Aren&#39;t Being Found &lpar;And How to Fix It&rpar;](https://dev.to/synergistdigitalmedia/tiktok-seo-why-your-videos-arent-being-found-and-how-to-fix-it-41a9)
+- [Automating Storage Utilization Monitoring on a Private Cloud - Part 1](https://dev.to/feyisayo/automating-storage-utilization-monitoring-on-a-private-cloud-part-1-1ngd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
