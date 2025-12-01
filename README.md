@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cloud Outages: The Unpopular Truth No One Wants to Hear](https://dev.to/aws-builders/cloud-outages-the-unpopular-truth-no-one-wants-to-hear-4enl)
+- [🔓 Decrypt MIUI .sa &amp; .sav Files Using APK Certificate Hex + Python – Full Guide by TheDevOpsRite](https://dev.to/thedevopsrite/decrypt-miui-sa-sav-files-using-apk-certificate-hex-python-full-guide-by-thedevopsrite-1l7h)
+- [Building a Data Platform on AWS: Essential Design Considerations for Power BI](https://dev.to/aws-builders/building-a-data-platform-on-aws-essential-design-considerations-for-power-bi-nk4)
+- [gopin - Automate Version Pinning for Go Install Commands](https://dev.to/kurorr/gopin-automate-version-pinning-for-go-install-commands-46m)
 - [How to connect a local AI model to VS Code.](https://dev.to/sushan/how-to-connect-a-local-ai-model-to-vs-code-1g8d)
-- [Free SQL courses for beginners in 2026](https://dev.to/nldr/free-sql-courses-for-beginners-in-2026-1667)
-- [Stop Using console.log&lpar;&rpar; in Production in 2025: Here&#39;s What You Should Do Instead.](https://dev.to/jay_m/stop-using-consolelog-in-production-in-2025-heres-what-you-should-do-instead-3e4e)
-- [Using AI to prototype games in the browser](https://dev.to/thisisjofrank/using-ai-to-prototype-games-in-the-browser-41j1)
-- [TIL: Inspect Rails app routes from info panel](https://dev.to/epigene/til-inspect-rails-app-routes-from-info-panel-3k1b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
