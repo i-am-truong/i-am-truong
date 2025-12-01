@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The AI Refactoring Trap: Why &quot;Messy&quot; Code is Often Better](https://dev.to/samuel_ochaba_eb9c875fa89/the-ai-refactoring-trap-why-messy-code-is-often-better-563p)
+- [The &quot;Shallow Developer&quot; Trap: Why AI Code Breaks in Production](https://dev.to/samuel_ochaba_eb9c875fa89/the-shallow-developer-trap-why-ai-code-breaks-in-production-37o4)
 - [Como Criar uma Biblioteca Angular e Publicar no NPM: Guia Completo](https://dev.to/ghabryel/como-criar-uma-biblioteca-angular-e-publicar-no-npm-guia-completo-3hk8)
 - [Turn One Blog Post Into 15 Assets in 47 Minutes: My Content Repurposing System](https://dev.to/synergistdigitalmedia/turn-one-blog-post-into-15-assets-in-47-minutes-my-content-repurposing-system-1age)
-- [Building Shamba-MedCare AI app for Real Users](https://dev.to/nicanor_korir/building-shamba-medcare-ai-app-for-real-users-dak)
-- [The Atomic Schlep: The Architecture of the Unstoppable Swap](https://dev.to/faruukku/the-atomic-schlep-the-architecture-of-the-unstoppable-swap-186i)
-- [JWT Token Validator Challenge](https://dev.to/fosres/jwt-token-validator-exercise-55mn)
+- [Quantum &#39;Negative Learning&#39;: Escaping the Optimization Abyss](https://dev.to/arvind_sundararajan/quantum-negative-learning-escaping-the-optimization-abyss-3h9o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
