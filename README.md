@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI-Assisted Engineering: A Senior Developer’s Framework for Speed, Quality, and Sound Technical Judgment - Part 2](https://dev.to/ojsholly/ai-assisted-engineering-a-senior-developers-framework-for-speed-quality-and-sound-technical-168o)
-- [The Beginner’s Guide to Self-Signed Certificates in Nginx](https://dev.to/rijultp/the-beginners-guide-to-self-signed-certificates-in-nginx-1cbc)
-- [Gelesen: Google Mitarbeiter Nr. 59](https://dev.to/pscheit/gelesen-google-mitarbeiter-nr-59-19ip)
-- [Estratégias de Segurança Proativa para Apps Web: Detecção de Ameaças em Tempo Real e Sanitização de Inputs](https://dev.to/ecnmee/estrategias-de-seguranca-proativa-para-apps-web-deteccao-de-ameacas-em-tempo-real-e-sanitizacao-de-31ae)
-- [Building a Production Design System with Tailwind CSS v4](https://dev.to/saswatapal/building-a-production-design-system-with-tailwind-css-v4-1d9e)
+- [[Boost]](https://dev.to/gouravgope/-33ik)
+- [Windows Service equivalent in Linux?](https://dev.to/mohan023/windows-service-equivalent-in-linux-jal)
+- [Salesforce vs. Salesforce Cloud: What’s the Real Difference?](https://dev.to/nivedita_nayak_d4cfe87c37/salesforce-vs-salesforce-cloud-whats-the-real-difference-2m1i)
+- [MCP servers I use in my daily life](https://dev.to/petrashka/mcp-servers-i-use-in-my-daily-life-2nga)
+- [The Vulnerability Wardrobe: What Your Security Posture Is Really Wearing](https://dev.to/narnaiezzsshaa/the-vulnerability-wardrobe-what-your-security-posture-is-really-wearing-1ao1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
