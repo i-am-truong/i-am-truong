@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Gateway Endpoints vs Interface Endpoints: What’s the Difference?](https://dev.to/irfansatrio/gateway-endpoints-vs-interface-endpoints-whats-the-difference-10kh)
+- [The Most Underrated Developer Tool Isn&#39;t GitHub Copilot, It&#39;s The Sun](https://dev.to/elevenapril/the-most-underrated-developer-tool-isnt-github-copilot-its-the-sun-ghk)
+- [How AI is Transforming Cloud Engineering: Practical Use Cases for 2025](https://dev.to/eva_clari_289d85ecc68da48/how-ai-is-transforming-cloud-engineering-practical-use-cases-for-2025-na5)
+- [Veeam Backup for Microsoft 365 Installation Guide](https://dev.to/itcs11/veeam-backup-for-microsoft-365-installation-guide-5lo)
 - [Modernizing Legacy Workloads: KubeVirt on AKS with Azure Arc Identity](https://dev.to/cloudquill/modernizing-legacy-workloads-kubevirt-on-aks-with-azure-arc-identity-2ad0)
-- [Edge-to-Cloud Swarm Coordination for coastal climate resilience planning with ethical auditability baked in](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-coastal-climate-resilience-planning-with-ethical-auditability-1p0i)
-- [What is Bridge network driver?](https://dev.to/meghasharmaaaa/bridge-network-driver-3co6)
-- [Practical Cloud Security Wins for New AWS Teams &lpar;Even If You’re Just Getting Started&rpar;](https://dev.to/kaths3cdev/practical-cloud-security-wins-for-new-aws-teams-even-if-youre-just-getting-started-21hn)
-- [Practical Cloud Security Wins for New AWS Teams &lpar;Even If You’re Just Getting Started&rpar;](https://dev.to/kaths3cdev/practical-cloud-security-wins-for-new-aws-teams-even-if-youre-just-getting-started-1cbi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
