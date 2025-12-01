@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI-Assisted Engineering: A Senior Developer’s Framework for Speed, Quality, and Sound Technical Judgment - Part 2](https://dev.to/ojsholly/ai-assisted-engineering-a-senior-developers-framework-for-speed-quality-and-sound-technical-168o)
+- [The Beginner’s Guide to Self-Signed Certificates in Nginx](https://dev.to/rijultp/the-beginners-guide-to-self-signed-certificates-in-nginx-1cbc)
+- [Gelesen: Google Mitarbeiter Nr. 59](https://dev.to/pscheit/gelesen-google-mitarbeiter-nr-59-19ip)
+- [Estratégias de Segurança Proativa para Apps Web: Detecção de Ameaças em Tempo Real e Sanitização de Inputs](https://dev.to/ecnmee/estrategias-de-seguranca-proativa-para-apps-web-deteccao-de-ameacas-em-tempo-real-e-sanitizacao-de-31ae)
 - [Building a Production Design System with Tailwind CSS v4](https://dev.to/saswatapal/building-a-production-design-system-with-tailwind-css-v4-1d9e)
-- [Fixing Power Platform Pipelines](https://dev.to/wyattdave/fixing-power-platform-pipelines-4b0o)
-- [Prisma 7: They Ditched Rust and Everything Got Faster](https://dev.to/web_dev-usman/prisma-7-they-ditched-rust-and-everything-got-faster-1pdi)
-- [Trick for testing exceptions in PHPUnit](https://dev.to/pscheit/trick-for-testing-exceptions-in-phpunit-28d3)
-- [Great Article for Allure Report Alternative](https://dev.to/robort_smith/great-article-for-allure-report-alternative-3gf2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
