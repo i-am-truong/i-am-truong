@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 12: Python Programming](https://dev.to/aruna_arun_0cda4eb425bb0f/day-12-python-programming-156n)
-- [Smart TV App Development: OTT Beyond Mobile and Web](https://dev.to/regal22/smart-tv-app-development-ott-beyond-mobile-and-web-6fc)
-- [&quot;That&#39;s Just How It Is&quot; Kills Innovation: Building Teams That Question Everything](https://dev.to/tlorent/thats-just-how-it-is-kills-innovation-building-teams-that-question-everything-28o2)
-- [Testing Angular 21 Components with Vitest: A Complete Guide](https://dev.to/olayeancarh/testing-angular-21-components-with-vitest-a-complete-guide-4db7)
-- [Testing Angular 21 Components with Vitest: A Complete Guide](https://dev.to/olayeancarh/testing-angular-21-components-with-vitest-a-complete-guide-8l2)
+- [A Practical Guide to Deploying Scalable Serverless Apps on AWS](https://dev.to/ibshafique/a-practical-guide-to-deploying-scalable-serverless-apps-on-aws-2b4p)
+- [Why Your Users Cannot Perceive Zero Latency: A Scientific Guide for Developers](https://dev.to/maria-artamonova/why-your-users-cannot-perceive-zero-latency-a-scientific-guide-for-developers-58i3)
+- [Cypress 15.7.0: A Faster, Smarter, More Modern Testing Experience](https://dev.to/testrig/cypress-1570-a-faster-smarter-more-modern-testing-experience-1d80)
+- [Why I Don’t Trust AI With Crypto Predictions?](https://dev.to/endeo/why-i-dont-trust-ai-with-crypto-predictions-539)
+- [I spent 400 hours working with AI agents and found the best one - here it is.](https://dev.to/nek12/i-spent-400-hours-working-with-ai-agents-and-found-the-best-one-here-it-is-5h1b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
