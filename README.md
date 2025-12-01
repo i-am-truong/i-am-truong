@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Launching TwelveLabs Marengo 3.0 on Product Hunt - Behind-the-scenes](https://dev.to/fmerian/launching-twelvelabs-marengo-30-on-product-hunt-behind-the-scenes-1ege)
-- [Authentication: JWTs vs. Sessions &lpar;My Study Notes&rpar;](https://dev.to/dhruvik_15/authentication-jwts-vs-sessions-my-study-notes-5ajc)
-- [Top 11 Flutter App Development Companies in Columbus OH for 2026](https://dev.to/sherry_walker_bba406fb339/top-11-flutter-app-development-companies-in-columbus-oh-for-2026-34gk)
-- [Databases 4 Practice 2](https://dev.to/erlan_akbar/databases-4-practice-2-1o93)
-- [How to prepare for a smooth transition to the cloud.](https://dev.to/itcs11/how-to-prepare-for-a-smooth-transition-to-the-cloud-148g)
+- [Reflections on the Djangonaut Space Journey 🦄](https://dev.to/_e6641d4181e2ba2945d1f/reflections-on-the-djangonaut-journey-ajn)
+- [🎨 VisionVerse: From Image to AI-Generated Poetry in Minutes](https://dev.to/lungelomk/visionverse-from-image-to-ai-generated-poetry-in-minutes-1h1g)
+- [Want a CV that actually gets noticed?](https://dev.to/taurus_ai_e0f0d0fc1d8a2de/want-a-cv-that-actually-gets-noticed-49c8)
+- [Clients care about the stack you use.](https://dev.to/codingnninja/clients-care-about-the-stack-you-use-g2g)
+- [MCP servers I use in my daily life](https://dev.to/petrashka/mcp-servers-i-use-in-my-daily-life-4kah)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
