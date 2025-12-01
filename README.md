@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Netflix Stranger Things S5 premiere Outage](https://dev.to/alamfatima1999/netflix-stranger-things-s5-premiere-outage-3plo)
+- [**La Importancia de la Automatización en el Cumplimiento de](https://dev.to/drcarlosruizviquez/la-importancia-de-la-automatizacion-en-el-cumplimiento-de-198p)
+- [Best AI Ranking Audit Tools](https://dev.to/bell_drailing_96a7e7c0b5c/best-ai-ranking-audit-tools-33n0)
+- [Data Center Migration to Cloud](https://dev.to/rahul_goswami_9ebb75929c3/data-center-migration-to-cloud-109l)
 - [Day 6 : Understanding Terraform File loading,Project Structure &amp; .gitignore Essentials](https://dev.to/alafiz/day-6-understanding-terraform-file-loadingproject-structure-gitignore-essentials-4ncm)
-- [How to Integrate WebAuthn in Next.js](https://dev.to/popoolatopzy/how-to-integrate-webauthn-in-nextjs-458g)
-- [Terraform Meta-Arguments](https://dev.to/anil_kumar_noolu/terraform-meta-arguments-187f)
-- [My Free Half Marathon Plan for Working Parents](https://dev.to/lexingdailylife/my-free-half-marathon-plan-for-working-parents-1cd)
-- [Getting Input Values by ID or Class… On the Backend](https://dev.to/jahongir2007/getting-input-values-by-id-or-class-on-the-backend-1ao3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
