@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Perl 🐪 Weekly #749 - Design Patterns in Modern Perl](https://dev.to/szabgab/perl-weekly-749-design-patterns-in-modern-perl-3899)
-- [Stay ahead in web development: latest news, tools, and insights #113](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-113-4238)
-- [Ditch Cloud WAFs: How to Migrate to Self-Hosted SafeLine WAF with Zero Downtime](https://dev.to/arina_cholee/ditch-cloud-wafs-how-to-migrate-to-self-hosted-safeline-waf-with-zero-downtime-4afh)
-- [How to Really Measure AI Agent Performance &lpar;and ROI&rpar;](https://dev.to/aiwithapex/how-to-really-measure-ai-agent-performance-and-roi-3hnc)
-- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-56lo)
+- [Troubleshooting Guide: Windows 365 Cloud PC Access &amp; OS Corruption](https://dev.to/itcs11/troubleshooting-guide-windows-365-cloud-pc-access-os-corruption-1ja6)
+- [Top 5 Audit Logging Libraries Every Startup Should Consider in 2025](https://dev.to/shreya_srivastava_a4cab6e/top-5-audit-logging-libraries-every-startup-should-consider-in-2025-lhn)
+- [How to Evaluate Smart Device + Token Projects: A Checklist for Crypto Investors &amp; Builders](https://dev.to/asher_66640eb206c4123b2f5/how-to-evaluate-smart-device-token-projects-a-checklist-for-crypto-investors-builders-15dd)
+- [Make Digital Contracts Smarter by Adding Hyperlinks with BoldSign API](https://dev.to/boldsign/make-digital-contracts-smarter-by-adding-hyperlinks-with-boldsign-api-1g6h)
+- [Why Everyday Smart Devices &lpar;Yes — Even a Toothbrush&rpar; Matter in Web3 &amp; DePIN](https://dev.to/asher_66640eb206c4123b2f5/why-everyday-smart-devices-yes-even-a-toothbrush-matter-in-web3-depin-4mg4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
