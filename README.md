@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Symfony 7.4: The Power of Attribute Improvements](https://dev.to/mattleads/mastering-symfony-74-the-power-of-attribute-improvements-2696)
-- [SassCandy Free &amp; Open Source Next.js Template for SaaS Projects](https://dev.to/isanjayjoshi/sasscandy-free-and-open-source-nextjs-template-for-saas-projects-86j)
-- [Linear Regression](https://dev.to/ndhanvina/linear-regression-k23)
-- [Harry Potter’s Guide to Darlington Transistors: Magic for Heavy Loads ✨](https://dev.to/ersajay/harry-potters-guide-to-darlington-transistors-magic-for-heavy-loads-2cif)
-- [🏁 ASPICE Literacy —  Episode 12: Beyond Compliance: ASPICE as a Tool for Engineering Excellence 🚀](https://dev.to/abdulosman/aspice-literacy-episode-12-beyond-compliance-aspice-as-a-tool-for-engineering-excellence-789)
+- [A high-performance, accessible, and SEO-optimized portfolio built with Next.js &amp; TypeScript](https://dev.to/saidmounaim/a-high-performance-accessible-and-seo-optimized-portfolio-built-with-nextjs-typescript-nm8)
+- [What is Chaos Engineering?](https://dev.to/techielass/what-is-chaos-engineering-254o)
+- [Terraform Meta-arguments](https://dev.to/nandan_007/terraform-meta-arguments-201i)
+- [VPN for AI Content Generation Services: Protecting Your Ideas from Copy.ai to Character.ai](https://dev.to/dev-vpn/vpn-for-ai-content-generation-services-protecting-your-ideas-from-copyai-to-characterai-2k2c)
+- [One GitHub Copilot Agent Prompt for Safer Changes](https://dev.to/petermilovcik/one-github-copilot-agent-prompt-for-safer-changes-4f88)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
