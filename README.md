@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Production RAG Systems in Days, Not Weeks: Introducing ShinRAG](https://dev.to/johnnykod/building-production-rag-systems-in-days-not-weeks-introducing-shinrag-2e9l)
-- [Enterprise DAL Final: Automated User Auditing and Architectural Retrospective](https://dev.to/gigaherz/enterprise-dal-final-automated-user-auditing-and-architectural-retrospective-3jpc)
-- [How Quesby Handles SEO &lpar;Without Plugins, Frameworks, or Runtime Code&rpar;](https://dev.to/quesby/how-quesby-handles-seo-without-plugins-frameworks-or-runtime-code-251)
-- [Building Intelligent AI Agents with MongoDB Atlas: A Bidirectional Data Flow Architecture](https://dev.to/pash10g/building-intelligent-ai-agents-with-mongodb-atlas-a-bidirectional-data-flow-architecture-2obl)
-- [Pixlore — A Web-to-Figma Engine That Bridges UI, Code, and Product Workflows](https://dev.to/doong_yee/pixlore-a-web-to-figma-engine-that-bridges-ui-code-and-product-workflows-5a6h)
+- [OpenTelemetry Filelog Receiver: A Guide to Ingesting Log Files](https://dev.to/dash0/opentelemetry-filelog-receiver-a-guide-to-ingesting-log-files-38m6)
+- [Breaking the doom-prompting loop with spec-driven development](https://dev.to/vburckhardt/breaking-the-doom-prompting-loop-with-spec-driven-development-19hj)
+- [Comprehensive Guide to Load and Stress Testing Types with Locust Implementation](https://dev.to/mohsen_akbari_ebe53d7cbc2/comprehensive-guide-to-load-and-stress-testing-types-with-locust-implementation-40o6)
+- [HTTP/1.1 vs HTTP/2 vs HTTP/3 – Which One Are You Still Using in 2025?](https://dev.to/sreekanth_kuruba_91721e5d/http11-vs-http2-vs-http3-which-one-are-you-still-using-in-2025-4aah)
+- [ONLYOFFICE updated: AI agents &amp; custom hotkeys in new releases](https://dev.to/onlyoffice/onlyoffice-updated-ai-agents-custom-hotkeys-in-new-releases-hem)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
