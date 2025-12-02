@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Who&#39;s hiring — December 2025](https://dev.to/fmerian/whos-hiring-december-2025-1he2)
-- [Converting Figma Design To Next.js Code In Minutes](https://dev.to/crosspostr/converting-figma-design-to-nextjs-code-in-minutes-5607)
-- [Docker Image Compression: gzip vs zstd](https://dev.to/danielcristho/docker-image-compression-gzip-vs-zstd-4eod)
-- [AI Agents and context-aware permissions](https://dev.to/mathewpregasen/ai-agents-and-context-aware-permissions-1gii)
-- [Why Do Some SaaS Startups Grow Faster on Google While Others Stay Invisible?](https://dev.to/michael_young_e3100131f21/why-do-some-saas-startups-grow-faster-on-google-while-others-stay-invisible-2326)
+- [Inside the University Cloud: Solving Real-World Networking Challenges](https://dev.to/truenorth/inside-the-university-cloud-solving-real-world-networking-challenges-45j0)
+- [What is due diligence for IDP and why is it important?](https://dev.to/alexlipinskiwrites/what-is-due-diligence-for-idp-and-why-is-it-important-2aab)
+- [CSS Iceberg](https://dev.to/alvaromontoro/css-iceberg-506c)
+- [Introducing: AWS CDK 100 Drill Exercises - Learn by Building](https://dev.to/aws-builders/introducing-aws-cdk-100-drill-exercises-learn-by-building-5949)
+- [Wrote an article for people who wanted to use plain JS to build React Native projects, and showed how to configure with expo to use its advantages](https://dev.to/franklivania/wrote-an-article-for-people-who-wanted-to-use-plain-js-to-build-react-native-projects-and-showed-4910)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
