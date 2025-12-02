@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Medium vs DEV vs Hashnode vs Hackernoon vs CoderLegion — Where Should You Publish &amp; Launch? 🚀](https://dev.to/codingpanel/medium-vs-dev-vs-hashnode-vs-hackernoon-vs-coderlegion-where-should-you-publish-launch-3ikj)
-- [Inside the University Cloud: Solving Real-World Networking Challenges](https://dev.to/truenorth/inside-the-university-cloud-solving-real-world-networking-challenges-45j0)
-- [What is due diligence for IDP and why is it important?](https://dev.to/alexlipinskiwrites/what-is-due-diligence-for-idp-and-why-is-it-important-2aab)
-- [CSS Iceberg](https://dev.to/alvaromontoro/css-iceberg-506c)
-- [Introducing: AWS CDK 100 Drill Exercises - Learn by Building](https://dev.to/aws-builders/introducing-aws-cdk-100-drill-exercises-learn-by-building-5949)
+- [Day 18 of improving my Data Science skills](https://dev.to/sp_the_data_specialist/day-18-of-improving-my-data-science-skills-1oi5)
+- [Building a Horror Typing Game Where Blinking Kills You](https://dev.to/shahen0x/building-a-horror-typing-game-where-blinking-kills-you-229l)
+- [The Future of Software Development Isn&#39;t AI — It&#39;s Integration](https://dev.to/toplinesoftsys/the-future-of-software-development-isnt-ai-its-integration-1olk)
+- [The Equalizer and the Integrator: AI, Cybersecurity, and the Human Insight Imperative](https://dev.to/narnaiezzsshaa/the-equalizer-and-the-integrator-ai-cybersecurity-and-the-human-insight-imperative-2o49)
+- [AI Engineering Roadmap](https://dev.to/ndhanvina/ai-engineering-roadmap-264i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
