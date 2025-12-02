@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Java decrementExact&lpar;&rpar; Explained: Stop Integer Overflow Bugs](https://dev.to/satyam_gupta_0d1ff2152dcc/java-decrementexact-explained-stop-integer-overflow-bugs-308g)
-- [Building MCP Time-Traveler with Kiro: How I Used Vibe Coding, Specs, Steering, Hooks, and MCP to Build a Full Stack App](https://dev.to/prabhakaranjm/building-mcp-time-traveler-with-kiro-how-i-used-vibe-coding-specs-steering-hooks-and-mcp-to-bhl)
-- [Train a Custom Z‑Image Turbo LoRA with the Ostris AI Toolkit &lpar;RunPod Edition&rpar;](https://dev.to/promptingpixels/train-a-custom-z-image-turbo-lora-with-the-ostris-ai-toolkit-runpod-edition-1n4h)
-- [Design Patterns for Data Engineers: Cleaner ETL with the Builder Pattern.](https://dev.to/cristianbergamo/design-patterns-for-data-engineers-cleaner-etl-with-the-builder-pattern-4bi7)
-- [SAML vs OIDC: Choosing the Right Authentication Protocol for Your App](https://dev.to/iamdevbox/saml-vs-oidc-choosing-the-right-authentication-protocol-for-your-app-1h6o)
+- [Day 2 — The Typed Letter](https://dev.to/aerabi/day-2-the-typed-letter-5clg)
+- [What will enter the public domain in 2026?](https://dev.to/technoblogger14o3/what-will-enter-the-public-domain-in-2026-3g1l)
+- [FULL REDUX INTERNAL](https://dev.to/zeeshanali0704/full-redux-internal-5a03)
+- [Barclays 26NG OA Ultimate Guide | Hard Mode Memory Manager Real Questions + Passing Tips](https://dev.to/net_programhelp_e160eef28/barclays-26ng-oa-ultimate-guide-hard-mode-memory-manager-real-questions-passing-tips-83h)
+- [🔓 Successfully Decrypted MIUI .lsa &amp; .lsav Files Using Python – Full Working Method by TheDevOpsRite](https://dev.to/thedevopsrite/successfully-decrypted-miui-lsa-lsav-files-using-python-full-working-method-by-thedevopsrite-47k5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
