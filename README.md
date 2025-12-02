@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Blockchain in 2026: From-Scratch Engineering vs. Modern SDKs](https://dev.to/thevenice/building-a-blockchain-in-2026-from-scratch-engineering-vs-modern-sdks-34jn)
-- [Converted all Behat WebAPIExtension step definitions to Node.js, packaged in Webship-JS](https://dev.to/webshipco/converted-all-behat-webapiextension-step-definitions-to-nodejs-packaged-in-webship-js-5fh0)
-- [Agentgateway Review: A Feature-Rich New AI Gateway](https://dev.to/spacewander/agentgateway-review-a-feature-rich-new-ai-gateway-53lm)
-- [Cloud Cost Optimization for AI &amp; Data-Intensive Systems: Save While Scaling](https://dev.to/oleksii_samoilenko/cloud-cost-optimization-for-ai-data-intensive-systems-save-while-scaling-ofb)
-- [Transactional and Marketing Emails for AsanTyping.com](https://dev.to/danishyarkh/transactional-and-marketing-emails-for-asantypingcom-112i)
+- [รัน Typhoon 2.5 บน Colab ฟรี: จาก 30B &lpar;ไม่ไหว&rpar; สู่ 4B &quot;Sweet Spot&quot;](https://dev.to/ubinix_warun/ran-typhoon-25-bn-colab-frii-cchaak-30b-aimaihw-suu-4b-sweet-spot-2jdp)
+- [Stop Prompting the Hard Way: How Mellea Gives You Supercharged AI Results](https://dev.to/manikandan/stop-prompting-the-hard-way-how-mellea-gives-you-supercharged-ai-results-2080)
+- [Snapshots, Brooms, and Arch Linux Chaos Control](https://dev.to/akshay_gupta/snapshots-brooms-and-arch-linux-chaos-control-hie)
+- [Mock Elements: The Unsung Heroes of UI Design](https://dev.to/zopdev/mock-elements-the-unsung-heroes-of-ui-design-ocd)
+- [Introducing Forgetful - Shared Knowledge and Memory across Agents](https://dev.to/scott_raisbeck_24ea5fbc1e/introducing-forgetful-shared-knowledge-and-memory-across-agents-40o6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
