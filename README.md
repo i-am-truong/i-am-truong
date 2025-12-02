@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CHW Monthly Activity Aggregation: Turning Visit Logs into Insight](https://dev.to/oliver_samuel_028c6f65ad6/chw-monthly-activity-aggregation-turning-visit-logs-into-insight-4jm5)
-- [Building My First RAG System in One Week with Kiro IDE 🎃](https://dev.to/syed_shahnizam_4d470b6e21/building-my-first-rag-system-in-one-week-with-kiro-ide-19ee)
-- [Your First Mini Terraform Project: Install, Configure, and Deploy on AWS](https://dev.to/krisha_arya_55/your-first-mini-terraform-project-install-configure-and-deploy-on-aws-10j2)
-- [-&gt;&gt; Day-08 AWS Terraform Meta Arguments | count, depends_on, for_each](https://dev.to/amit_kumar_7db8e36a64dd45/-day-08-aws-terraform-meta-arguments-count-dependson-foreach-2im0)
-- [8 Technical SEO Processes Every Developer Should Own in Modern SaaS Teams](https://dev.to/liamtakahiro/8-technical-seo-processes-every-developer-should-own-in-modern-saas-teams-1i9k)
+- [Как сделать и настроить свой VPN](https://dev.to/ikorut/kak-sdielat-i-nastroit-svoi-vpn-4ind)
+- [Anthropic Just Acquired Bun — And It Signals the Beginning of AI-Native Software Engineering](https://dev.to/axrisi/anthropic-just-acquired-bun-and-it-signals-the-beginning-of-ai-native-software-engineering-3cd9)
+- [Building a Dependency-Aware CRUD API with FastAPI and Topological Sorting with Kiro](https://dev.to/nayana-vinod/building-a-dependency-aware-crud-api-with-fastapi-and-topological-sorting-43lm)
+- [How I Built a Production-Ready SaaS in a Weekend &lpar;and Open-Sourced It&rpar;](https://dev.to/falk_maria_zeitsprung/how-i-built-a-production-ready-saas-in-a-weekend-and-open-sourced-it-2f66)
+- [Building Ghostable &amp; Finding Ideas by Listening Well](https://dev.to/joerucci/building-ghostable-finding-ideas-by-listening-well-2h7j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
