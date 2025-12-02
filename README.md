@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Advent of AI 2025 - Day 1: Getting Goose to Generate Daily Fortunes in CI](https://dev.to/nickytonline/advent-of-ai-2025-day-1-getting-goose-to-generate-daily-fortunes-in-ci-3alp)
-- [Building a Practical A2A Protocol for Multi-Agent Supply Chain Intelligence](https://dev.to/supplygraphai/building-a-practical-a2a-protocol-for-multi-agent-supply-chain-intelligence-1jlj)
-- [Knowledge base in AI: why Q&amp;A websites are a unique training asset](https://dev.to/answergrowth/knowledge-base-in-ai-why-qa-websites-are-a-unique-training-asset-ap0)
-- [SpaceX to Launch Mission on Falcon 9 Booster 1081](https://dev.to/theentrepreneurinsight/spacex-to-launch-mission-on-falcon-9-booster-1081-45ap)
-- [From Zero to Beautiful UI: How I Built an Instagram-Like Layout Using Uno Platform Hot Design 🔥](https://dev.to/hadil/from-zero-to-beautiful-ui-how-i-built-an-instagram-like-layout-using-uno-platform-hot-design-302h)
+- [テストエンジニアが知っておくべきRedis基礎 現場で使えるコマンドと検証方法](https://dev.to/nakamura_takuya/tesutoenziniagazhi-tuteokubekiredisji-chu-xian-chang-deshi-erukomandotojian-zheng-fang-fa-2hea)
+- [When your Next.js Site Reports: Title tag Missing](https://dev.to/mxro/when-your-nextjs-site-reports-title-tag-missing-1oo9)
+- [Run a MySQL container with persistent storage using Docker volumes](https://dev.to/deborahemeni1/run-a-mysql-container-with-persistent-storage-using-docker-volumes-49ma)
+- [Legit Ways to Enjoy Canva Pro Without Paying](https://dev.to/shiva_c74698f901616e10e57/legit-ways-to-enjoy-canva-pro-without-paying-4fa7)
+- [Extending eBPF Beyond Its Limits: Custom kfuncs in Kernel Modules](https://dev.to/yunwei37/extending-ebpf-beyond-its-limits-custom-kfuncs-in-kernel-modules-475m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
