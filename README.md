@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A high-performance, accessible, and SEO-optimized portfolio built with Next.js &amp; TypeScript](https://dev.to/saidmounaim/a-high-performance-accessible-and-seo-optimized-portfolio-built-with-nextjs-typescript-nm8)
-- [What is Chaos Engineering?](https://dev.to/techielass/what-is-chaos-engineering-254o)
-- [Terraform Meta-arguments](https://dev.to/nandan_007/terraform-meta-arguments-201i)
-- [VPN for AI Content Generation Services: Protecting Your Ideas from Copy.ai to Character.ai](https://dev.to/dev-vpn/vpn-for-ai-content-generation-services-protecting-your-ideas-from-copyai-to-characterai-2k2c)
-- [One GitHub Copilot Agent Prompt for Safer Changes](https://dev.to/petermilovcik/one-github-copilot-agent-prompt-for-safer-changes-4f88)
+- [How to Build Dynamic LINQ Queries Easily with WhereDynamic in .NET8+](https://dev.to/elmehditaii/how-to-build-dynamic-linqqueries-easily-withwheredynamic-in-net8-i7o)
+- [When Do the Goals Rain Down? Uncovering the Time Periods with the Most Scoring Action in Europe&#39;s Big Five Leagues](https://dev.to/janafootball/when-do-the-goals-rain-down-uncovering-the-time-periods-with-the-most-scoring-action-in-europes-4ojf)
+- [MCP Figma: The Frontend Developer’s New Assistant](https://dev.to/disann/mcp-figma-the-frontend-developers-new-assistant-478n)
+- [AI Testing Evaluators for Scalable, Reliable QA](https://dev.to/kayson_2025/ai-testing-evaluators-for-scalable-reliable-qa-3hd4)
+- [UI Spec: An Open Format for AI-Native Interface Specifications](https://dev.to/riffi/ui-spec-an-open-format-for-ai-native-interface-specifications-mj4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
