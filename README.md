@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Modernizing Mature Ecosystems: Clean Architecture &amp; Performance in Read-Only Microservices](https://dev.to/leonardopolicarpo/modernizing-mature-ecosystems-clean-architecture-performance-in-read-only-microservices-8hb)
+- [Testing AWS Lambda Durable Functions in TypeScript](https://dev.to/edjgeek/testing-aws-lambda-durable-functions-in-typescript-5bj2)
+- [How I Built MCP Time-Traveler with Kiro: A Developer’s Journey Through Vibe Coding, Specs, Steering, Hooks, and MCP](https://dev.to/prabhakaranjm/how-i-built-mcp-time-traveler-with-kiro-a-developers-journey-through-vibe-coding-specs-m7g)
 - [Why TOON Might Be Your Next JSON Replacement &lpar;And How to Get Started&rpar;](https://dev.to/futurevision-labs/why-toon-might-be-your-next-json-replacement-and-how-to-get-started-4ban)
-- [I Built an API That Tracks Viral TikTok, Reels, and YouTube Shorts Content in Real Time](https://dev.to/virlobuilder/i-built-an-api-that-tracks-viral-tiktok-reels-and-youtube-shorts-content-in-real-time-3593)
-- [Modernizando Ecossistemas Maduros: Clean Architecture e Performance em Microsserviços de Leitura](https://dev.to/leonardopolicarpo/modernizando-sistemas-legados-clean-architecture-performance-e-docker-em-um-microsservico-3i95)
-- [Elixir for IoT: Why It Feels Like the Future](https://dev.to/tuliocalil/elixir-for-iot-why-it-feels-like-the-future-5cbd)
-- [🚀 UI/UX Preview from a Recently Delivered Client Mobile App Project](https://dev.to/abdul_wahab_fe886de9acd8a/uiux-preview-from-a-recently-delivered-client-mobile-app-project-5c9b)
+- [I Built an Enterprise Legacy Modernization Platform in 2 Days with Kiro AI &lpar;and You Can Too&rpar;](https://dev.to/ashwin_630e649e618b09ca82/i-built-an-enterprise-legacy-modernization-platform-in-2-days-with-kiro-ai-and-you-can-too-1io5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
