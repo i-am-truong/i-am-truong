@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🔥 Day 2: Understanding Spark Architecture - How Spark Executes Your Code Internally](https://dev.to/sandeepk27/day-2-understanding-spark-architecture-how-spark-executes-your-code-internally-41g4)
-- [Calculator blox fruit](https://dev.to/natalya_gamer_a885a61d69c/calculator-blox-fruit-3kln)
-- [SRD SASSA Status Check for R350 Payment Dates: Complete Guide](https://dev.to/david_wenham/srd-sassa-status-check-for-r350-payment-dates-complete-guide-4m45)
-- [Fibra de vidro para Projetar um Furgão habitável de forma simples](https://dev.to/motohomego2699/fibra-de-vidro-para-projetar-um-furgao-habitavel-de-forma-simples-5225)
-- [**Technical AI Ethics Challenge:**](https://dev.to/drcarlosruizviquez/technical-ai-ethics-challenge-5fmi)
+- [-&gt;&gt; Day-08 AWS Terraform Meta Arguments | count, depends_on, for_each](https://dev.to/amit_kumar_7db8e36a64dd45/-day-08-aws-terraform-meta-arguments-count-dependson-foreach-2im0)
+- [CinemaSins: Everything Wrong With Superman &lpar;2025&rpar; In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-superman-2025-in-17-minutes-or-less-3bnj)
+- [Most Outages Are Preventable: Why Your System Needs Self-Healing Yesterday](https://dev.to/vimgudy/most-outages-are-preventable-why-your-system-needs-self-healing-yesterday-27jb)
+- [If It’s Hard to Read, It’s Hard to Build](https://dev.to/lovestaco/if-its-hard-to-read-its-hard-to-build-19eg)
+- [New to Dev to community](https://dev.to/jagtar_singh_11d201bd24a6/new-to-dev-to-community-206g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
