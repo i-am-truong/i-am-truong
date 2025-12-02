@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [รัน Typhoon 2.5 บน Colab ฟรี: จาก 30B &lpar;ไม่ไหว&rpar; สู่ 4B &quot;Sweet Spot&quot;](https://dev.to/ubinix_warun/ran-typhoon-25-bn-colab-frii-cchaak-30b-aimaihw-suu-4b-sweet-spot-2jdp)
-- [Stop Prompting the Hard Way: How Mellea Gives You Supercharged AI Results](https://dev.to/manikandan/stop-prompting-the-hard-way-how-mellea-gives-you-supercharged-ai-results-2080)
-- [Snapshots, Brooms, and Arch Linux Chaos Control](https://dev.to/akshay_gupta/snapshots-brooms-and-arch-linux-chaos-control-hie)
-- [Mock Elements: The Unsung Heroes of UI Design](https://dev.to/zopdev/mock-elements-the-unsung-heroes-of-ui-design-ocd)
-- [Introducing Forgetful - Shared Knowledge and Memory across Agents](https://dev.to/scott_raisbeck_24ea5fbc1e/introducing-forgetful-shared-knowledge-and-memory-across-agents-40o6)
+- [Building Production RAG Systems in Days, Not Weeks: Introducing ShinRAG](https://dev.to/johnnykod/building-production-rag-systems-in-days-not-weeks-introducing-shinrag-2e9l)
+- [Enterprise DAL Final: Automated User Auditing and Architectural Retrospective](https://dev.to/gigaherz/enterprise-dal-final-automated-user-auditing-and-architectural-retrospective-3jpc)
+- [How Quesby Handles SEO &lpar;Without Plugins, Frameworks, or Runtime Code&rpar;](https://dev.to/quesby/how-quesby-handles-seo-without-plugins-frameworks-or-runtime-code-251)
+- [Building Intelligent AI Agents with MongoDB Atlas: A Bidirectional Data Flow Architecture](https://dev.to/pash10g/building-intelligent-ai-agents-with-mongodb-atlas-a-bidirectional-data-flow-architecture-2obl)
+- [Pixlore — A Web-to-Figma Engine That Bridges UI, Code, and Product Workflows](https://dev.to/doong_yee/pixlore-a-web-to-figma-engine-that-bridges-ui-code-and-product-workflows-5a6h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
