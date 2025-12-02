@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀 UI/UX Preview from a Recently Delivered Client Mobile App Project](https://dev.to/abdul_wahab_fe886de9acd8a/uiux-preview-from-a-recently-delivered-client-mobile-app-project-5c9b)
+- [Coding Challenge Practice - Question 69](https://dev.to/tomivan/coding-challenge-practice-question-69-311a)
+- [My Project 4: Movie Search App &lpar;with Python + Streamlit&rpar;](https://dev.to/ian_b838138a27a917398d181/my-project-4-movie-search-app-with-python-streamlit-3cjj)
 - [What most devs forget when launching &lpar;and regret later&rpar;](https://dev.to/shayy/what-most-devs-forget-when-launching-and-regret-later-2fbm)
-- [Simplicity Is a Feature: Build Faster, Scale Smarter](https://dev.to/farhannasirdev/simplicity-is-a-feature-build-faster-scale-smarter-28e8)
-- [Future-Ready Fulfillment Systems: A New Approach to Resilient, Flexible, and Scalable Logistics](https://dev.to/disiplin_forml_e60c4755/future-ready-fulfillment-systems-a-new-approach-to-resilient-flexible-and-scalable-logistics-2fd5)
-- [Building a Cost-Effective AutoML Platform on AWS: $10-25/month vs $150+ for SageMaker Endpoints](https://dev.to/aws-builders/building-a-cost-effective-automl-platform-on-aws-10-25month-vs-150-for-sagemaker-endpoints-1m99)
-- [From 40% to 100% SQL Generation Accuracy: Why Local AI Needs Self-Correction, Not Perfect Prompts](https://dev.to/hadywalied/from-40-to-100-sql-generation-accuracy-why-local-ai-needs-self-correction-not-perfect-prompts-283j)
+- [Calculator blox v4](https://dev.to/natalya_gamer_a885a61d69c/calculator-blox-v4-342k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
