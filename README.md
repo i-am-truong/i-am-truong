@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [compare2](https://dev.to/query_filter_591122b53770/compare2-lcj)
-- [[Boost]](https://dev.to/dev-araujo/-2hhc)
-- [Why Semantic Search Matters... especially in Barbados!](https://dev.to/hammertoe/why-semantic-search-matters-especially-in-barbados-pc4)
-- [Gadget’s BFCM 2025 &lpar;in numbers&rpar;](https://dev.to/gadget/gadgets-bfcm-2025-in-numbers-p45)
-- [Building &quot;6 Degrees of Kevin Bacon&quot; with a Graph-Native Backend: Why I Created FLXBL](https://dev.to/flxbl/building-6-degrees-of-kevin-bacon-with-a-graph-native-backend-why-i-created-flxbl-jbj)
+- [AWS re:Invent 2025 – Matt Garman’s Keynote: A Builder’s Breakdown](https://dev.to/aditmodi/aws-reinvent-2025-matt-garmans-keynote-a-builders-breakdown-36o3)
+- [compare5](https://dev.to/query_filter_591122b53770/compare5-37h4)
+- [I built a Zero-Code Data Analyst](https://dev.to/prajjawal1707/i-built-a-zero-code-data-analyst-34p3)
+- [compare4](https://dev.to/query_filter_591122b53770/compare4-5blh)
+- [compare3](https://dev.to/query_filter_591122b53770/compare3-gpm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
