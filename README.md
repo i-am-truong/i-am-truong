@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Symfony 7.4: The Power of Attribute Improvements](https://dev.to/mattleads/mastering-symfony-74-the-power-of-attribute-improvements-2696)
+- [SassCandy Free &amp; Open Source Next.js Template for SaaS Projects](https://dev.to/isanjayjoshi/sasscandy-free-and-open-source-nextjs-template-for-saas-projects-86j)
 - [Linear Regression](https://dev.to/ndhanvina/linear-regression-k23)
 - [Harry Potter’s Guide to Darlington Transistors: Magic for Heavy Loads ✨](https://dev.to/ersajay/harry-potters-guide-to-darlington-transistors-magic-for-heavy-loads-2cif)
 - [🏁 ASPICE Literacy —  Episode 12: Beyond Compliance: ASPICE as a Tool for Engineering Excellence 🚀](https://dev.to/abdulosman/aspice-literacy-episode-12-beyond-compliance-aspice-as-a-tool-for-engineering-excellence-789)
-- [テストエンジニアが知っておくべきRedis基礎 現場で使えるコマンドと検証方法](https://dev.to/nakamura_takuya/tesutoenziniagazhi-tuteokubekiredisji-chu-xian-chang-deshi-erukomandotojian-zheng-fang-fa-2hea)
-- [When your Next.js Site Reports: Title tag Missing](https://dev.to/mxro/when-your-nextjs-site-reports-title-tag-missing-1oo9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
