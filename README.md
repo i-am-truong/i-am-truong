@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CHW Monthly Activity Aggregation: Turning Visit Logs into Insight](https://dev.to/oliver_samuel_028c6f65ad6/chw-monthly-activity-aggregation-turning-visit-logs-into-insight-4jm5)
+- [Building My First RAG System in One Week with Kiro IDE 🎃](https://dev.to/syed_shahnizam_4d470b6e21/building-my-first-rag-system-in-one-week-with-kiro-ide-19ee)
+- [Your First Mini Terraform Project: Install, Configure, and Deploy on AWS](https://dev.to/krisha_arya_55/your-first-mini-terraform-project-install-configure-and-deploy-on-aws-10j2)
 - [-&gt;&gt; Day-08 AWS Terraform Meta Arguments | count, depends_on, for_each](https://dev.to/amit_kumar_7db8e36a64dd45/-day-08-aws-terraform-meta-arguments-count-dependson-foreach-2im0)
-- [CinemaSins: Everything Wrong With Superman &lpar;2025&rpar; In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-superman-2025-in-17-minutes-or-less-3bnj)
-- [Most Outages Are Preventable: Why Your System Needs Self-Healing Yesterday](https://dev.to/vimgudy/most-outages-are-preventable-why-your-system-needs-self-healing-yesterday-27jb)
-- [If It’s Hard to Read, It’s Hard to Build](https://dev.to/lovestaco/if-its-hard-to-read-its-hard-to-build-19eg)
-- [New to Dev to community](https://dev.to/jagtar_singh_11d201bd24a6/new-to-dev-to-community-206g)
+- [8 Technical SEO Processes Every Developer Should Own in Modern SaaS Teams](https://dev.to/liamtakahiro/8-technical-seo-processes-every-developer-should-own-in-modern-saas-teams-1i9k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
