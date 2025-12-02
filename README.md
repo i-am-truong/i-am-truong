@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Unleash Dynamic Content: Mastering the Elementor Flip Box Widget for Engaging WordPress Sites](https://dev.to/artarasaneh2025/unleash-dynamic-content-mastering-the-elementor-flip-box-widget-for-engaging-wordpress-sites-3akh)
+- [Branch development with git](https://dev.to/aaronmccollum/branch-development-with-git-joc)
+- [Data Analytics in Healthcare: Engineering the Future of Intelligent Medicine](https://dev.to/rank_alchemy_5ad282cec75d/data-analytics-in-healthcare-engineering-the-future-of-intelligent-medicine-lmg)
 - [From 1.2GB to 54MB: My Docker Image Went on a Diet](https://dev.to/tusharsharma099/from-12gb-to-54mb-my-docker-image-went-on-a-diet-17nd)
 - [AWS Cloud Resume Challenge - my attempt](https://dev.to/aws-builders/aws-cloud-resume-challenge-my-attempt-544m)
-- [Building an AI-Native &quot;Operating System&quot; for Revenue Teams](https://dev.to/nobleman-ai/building-an-ai-native-operating-system-for-revenue-teams-49bn)
-- [The World&#39;s First Web Components Library in the Style of shadcn — With Automatic Code Injection](https://dev.to/zizigy/the-worlds-first-web-components-library-in-the-style-of-shadcn-with-automatic-code-injection-33on)
-- [The Future of Crypto: A World Where We Don’t Even Call It “Crypto” Anymore 🚀](https://dev.to/tanelith/the-future-of-crypto-a-world-where-we-dont-even-call-it-crypto-anymore-54ah)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
