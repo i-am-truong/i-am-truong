@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A step-by-step guide to fine-tuning MedGemma for breast tumor classification](https://dev.to/googleai/a-step-by-step-guide-to-fine-tuning-medgemma-for-breast-tumor-classification-35af)
+- [Exploring native Browser/Web APIs](https://dev.to/bridget_amana/exploring-native-browserweb-apis-2mj8)
+- [Agentic Software Engineering &lpar;ASE&rpar;: The Software Development Landscape is Shifting Again](https://dev.to/elbanic/agentic-software-engineering-ase-the-software-development-landscape-is-shifting-again-4bc4)
+- [Crypto Payment Gateway Explained](https://dev.to/rbtex/crypto-payment-gateway-explained-533e)
 - [The SaaS Gold Rush is a Trap.](https://dev.to/whykislay/the-saas-gold-rush-is-a-trap-5bb6)
-- [Как сделать и настроить свой VPN](https://dev.to/ikorut/kak-sdielat-i-nastroit-svoi-vpn-4ind)
-- [Anthropic Just Acquired Bun — And It Signals the Beginning of AI-Native Software Engineering](https://dev.to/axrisi/anthropic-just-acquired-bun-and-it-signals-the-beginning-of-ai-native-software-engineering-3cd9)
-- [Building a Dependency-Aware CRUD API with FastAPI and Topological Sorting with Kiro](https://dev.to/nayana-vinod/building-a-dependency-aware-crud-api-with-fastapi-and-topological-sorting-43lm)
-- [How I Built a Production-Ready SaaS in a Weekend &lpar;and Open-Sourced It&rpar;](https://dev.to/falk_maria_zeitsprung/how-i-built-a-production-ready-saas-in-a-weekend-and-open-sourced-it-2f66)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
