@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Seeking Career guidance](https://dev.to/abby21/seeking-career-guidance-45hb)
-- [Behind the Scenes of a “Crazy Pizza Game”: How HTML5 Casual Games Are Built](https://dev.to/gamh5games/behind-the-scenes-of-a-crazy-pizza-game-how-html5-casual-games-are-built-1hjn)
-- [AuroraCanvas — A Cross-Platform Generative Art Experience](https://dev.to/s10olamide/auroracanvas-a-cross-platform-generative-art-experience-5ac4)
-- [9 Essential Developer Tools You Should be Exploring Right Now ⚡️🔎](https://dev.to/madza/9-essential-developer-tools-you-should-be-exploring-right-now-2kdj)
-- [Describe promotions on AI services available now](https://dev.to/wadie_realme_733c52996966/describe-promotions-on-ai-services-available-now-4ml7)
+- [SAML vs OIDC: Choosing the Right Authentication Protocol for Your App](https://dev.to/iamdevbox/saml-vs-oidc-choosing-the-right-authentication-protocol-for-your-app-1h6o)
+- [What is Low Code Tools?What are the tools?](https://dev.to/aj_arul/what-is-low-code-toolswhat-are-the-tools-2k7p)
+- [Can an AI Predict the Taste of Your Salad? Here’s What I Built. 🥗🤖](https://dev.to/hari_narayanan_c557f6488b/can-an-ai-predict-the-taste-of-your-salad-heres-what-i-built-1ejd)
+- [Understanding Amazon Q Custom Agents: Concepts, Architecture &amp; Inner Workings](https://dev.to/aws-builders/understanding-amazon-q-custom-agents-concepts-architecture-inner-workings-362)
+- [How to Prompt AI for Consistent JSON Responses](https://dev.to/cucoleadan/how-to-prompt-ai-for-consistent-json-responses-1gbm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
