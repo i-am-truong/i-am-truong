@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why TOON Might Be Your Next JSON Replacement &lpar;And How to Get Started&rpar;](https://dev.to/futurevision-labs/why-toon-might-be-your-next-json-replacement-and-how-to-get-started-4ban)
 - [I Built an API That Tracks Viral TikTok, Reels, and YouTube Shorts Content in Real Time](https://dev.to/virlobuilder/i-built-an-api-that-tracks-viral-tiktok-reels-and-youtube-shorts-content-in-real-time-3593)
 - [Modernizando Ecossistemas Maduros: Clean Architecture e Performance em Microsserviços de Leitura](https://dev.to/leonardopolicarpo/modernizando-sistemas-legados-clean-architecture-performance-e-docker-em-um-microsservico-3i95)
 - [Elixir for IoT: Why It Feels Like the Future](https://dev.to/tuliocalil/elixir-for-iot-why-it-feels-like-the-future-5cbd)
 - [🚀 UI/UX Preview from a Recently Delivered Client Mobile App Project](https://dev.to/abdul_wahab_fe886de9acd8a/uiux-preview-from-a-recently-delivered-client-mobile-app-project-5c9b)
-- [Coding Challenge Practice - Question 69](https://dev.to/tomivan/coding-challenge-practice-question-69-311a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
