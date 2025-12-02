@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Built an Open-Source Kubernetes Dashboard - Here&#39;s What I Learned](https://dev.to/gauravtayade11/title-i-built-an-open-source-kubernetes-dashboard-heres-what-i-learned-4n7k)
 - [Day 60 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-60-of-100-days-dsa-coding-challenge-22i7)
 - [Thinking Like a Diffusion Model](https://dev.to/eddieajau/thinking-like-a-diffusion-model-5f3b)
 - [LinkedIn&#39;s 2026 Algorithm: The Engagement Bait Era Is Finally Over](https://dev.to/synergistdigitalmedia/linkedins-2026-algorithm-the-engagement-bait-era-is-finally-over-68)
 - [ChatGPT Opens to Erotic Conversations](https://dev.to/ndabene/chatgpt-opens-to-erotic-conversations-2dcj)
-- [🔐 Understanding Governance in Microsoft Fabric](https://dev.to/sajjadrahman56/understanding-governance-in-microsoft-fabric-ggk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
