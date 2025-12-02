@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [how to use GVM &lpar;Go Version Manager&rpar;](https://dev.to/kingyou/how-to-use-gvm-go-version-manager-4kd6)
-- [# 🛡️ Entendiendo las Service Control Policies &lpar;SCPs&rpar; en AWS Organizations](https://dev.to/terry_cloud/-entendiendo-las-service-control-policies-scps-en-aws-organizations-40li)
-- [Mitigating post-airdrop fud practical guide for Web3 teams](https://dev.to/wevolv3_c2aea5159adf3b85f/mitigating-post-airdrop-fud-practical-guide-for-web3-teams-3l63)
-- [Mitigating post-airdrop fud practical guide for Web3 teams](https://dev.to/wevolv3_c2aea5159adf3b85f/mitigating-post-airdrop-fud-practical-guide-for-web3-teams-3i99)
-- [Why ~40% of AI Engineering is repetitive glue work &lpar;not AI work&rpar;](https://dev.to/wehadit/why-40-of-ai-engineering-is-repetitive-glue-work-not-ai-work-497c)
+- [Mitigating post-airdrop fud practical guide for Web3 teams](https://dev.to/wevolv3_c2aea5159adf3b85f/mitigating-post-airdrop-fud-practical-guide-for-web3-teams-4f1)
+- [From 5 Seconds to 0.7 Seconds: How I Built a Production-Ready Voice AI Agent &lpar;And Cut Latency by 7x&rpar;](https://dev.to/sidharth_grover_0c1bbe66d/from-5-seconds-to-07-seconds-how-i-built-a-production-ready-voice-ai-agent-and-cut-latency-by-7x-52ig)
+- [Blazor Developer Tools v0.10: A Deep Dive into Framework-Level Integration](https://dev.to/joseph_gregory_c4be294afc/blazor-developer-tools-v010-a-deep-dive-into-framework-level-integration-1b6m)
+- [From Ruby OOP to Elixir Functional by Example](https://dev.to/hungle00/from-ruby-oop-to-elixir-functional-11mp)
+- [Think Like HATEOAS: How Agentic RAG Dynamically Navigates Knowledge](https://dev.to/sreeni5018/think-like-hateoas-how-agentic-rag-dynamically-navigates-knowledge-2n63)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
