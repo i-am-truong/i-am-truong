@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Build Dynamic LINQ Queries Easily with WhereDynamic in .NET8+](https://dev.to/elmehditaii/how-to-build-dynamic-linqqueries-easily-withwheredynamic-in-net8-i7o)
+- [WTF is Distributed Data Warehousing?](https://dev.to/dailybugle33/wtf-is-distributed-data-warehousing-3o2l)
+- [How a Traditional Retail Brand Transformed Its Operations With Data &amp; Automation](https://dev.to/wisecor_transformation_7b/how-a-traditional-retail-brand-transformed-its-operations-with-data-automation-li2)
+- [My Journey to China Xiamen University, Why I Chose This Path and Why You Might Too](https://dev.to/akash_karki_fde178bd54f48/my-journey-to-china-xiamen-university-why-i-chose-this-path-and-why-you-might-too-2j87)
+- [🚀 How to Build Dynamic LINQ Queries Easily with WhereDynamic in .NET8+](https://dev.to/elmehditaii/how-to-build-dynamic-linqqueries-easily-withwheredynamic-in-net8-i7o)
 - [When Do the Goals Rain Down? Uncovering the Time Periods with the Most Scoring Action in Europe&#39;s Big Five Leagues](https://dev.to/janafootball/when-do-the-goals-rain-down-uncovering-the-time-periods-with-the-most-scoring-action-in-europes-4ojf)
-- [MCP Figma: The Frontend Developer’s New Assistant](https://dev.to/disann/mcp-figma-the-frontend-developers-new-assistant-478n)
-- [AI Testing Evaluators for Scalable, Reliable QA](https://dev.to/kayson_2025/ai-testing-evaluators-for-scalable-reliable-qa-3hd4)
-- [UI Spec: An Open Format for AI-Native Interface Specifications](https://dev.to/riffi/ui-spec-an-open-format-for-ai-native-interface-specifications-mj4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
