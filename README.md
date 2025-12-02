@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Architecture Behind a Stateless AI Application](https://dev.to/nicanor_korir/the-architecture-behind-a-stateless-ai-application-pk3)
-- [Congrats to the Winners of the Agentic Postgres Challenge with Tiger Data!](https://dev.to/devteam/congrats-to-the-winners-of-the-agentic-postgres-challenge-with-tiger-data-51m6)
-- [Trying Out Dagster for Data Orchestration](https://dev.to/ybryzy/trying-out-dagster-for-data-orchestration-1ih5)
-- [I hate working for AI start-up](https://dev.to/nishant_singh1432/i-hate-working-for-ai-start-up-28o0)
-- [The AI Refactoring Trap: Why &quot;Messy&quot; Code is Often Better](https://dev.to/samuel_ochaba_eb9c875fa89/the-ai-refactoring-trap-why-messy-code-is-often-better-563p)
+- [Chip Design Breakthrough: Predicting Performance Before Layout](https://dev.to/arvind_sundararajan/chip-design-breakthrough-predicting-performance-before-layout-4o8p)
+- [WHAT IS A SECRET?](https://dev.to/jumptotech/what-is-a-secret-ikp)
+- [Web App or Mobile App? Choosing Your MVP Platform](https://dev.to/sociilabs/web-app-or-mobile-app-choosing-your-mvp-platform-4n2o)
+- [Achieve Prisma-like Developer Experience in EF Core! Introduction to Linqraft](https://dev.to/arika0093/achieve-prisma-like-developer-experience-in-ef-core-introduction-to-linqraft-110p)
+- [Stop Fixing Code Manually: How NeuroLint Automates What ESLint Can&#39;t](https://dev.to/just_clive_b0f7c2ce633fec/stop-fixing-code-manually-how-neurolint-automates-what-eslint-cant-18ai)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
