@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 18 of improving my Data Science skills](https://dev.to/sp_the_data_specialist/day-18-of-improving-my-data-science-skills-1oi5)
-- [Building a Horror Typing Game Where Blinking Kills You](https://dev.to/shahen0x/building-a-horror-typing-game-where-blinking-kills-you-229l)
-- [The Future of Software Development Isn&#39;t AI — It&#39;s Integration](https://dev.to/toplinesoftsys/the-future-of-software-development-isnt-ai-its-integration-1olk)
-- [The Equalizer and the Integrator: AI, Cybersecurity, and the Human Insight Imperative](https://dev.to/narnaiezzsshaa/the-equalizer-and-the-integrator-ai-cybersecurity-and-the-human-insight-imperative-2o49)
-- [AI Engineering Roadmap](https://dev.to/ndhanvina/ai-engineering-roadmap-264i)
+- [How to Deploy a Web App Using Ansible in 10 Minutes](https://dev.to/krisha_arya_55/how-to-deploy-a-web-app-using-ansible-in-10-minutes-4p1)
+- [Building a Full-Stack App Shouldn’t Feel Like Starting From Zero Every Time](https://dev.to/bearstudio/building-a-full-stack-app-shouldnt-feel-like-starting-from-zero-every-time-2fgn)
+- [How Do You Architect Audit Logging in a Microservices Platform?](https://dev.to/mahendra_kumar_6b3dceb27e/how-do-you-architect-audit-logging-in-a-microservices-platform-2f4p)
+- [I open sourced Introlix - an AI research platform](https://dev.to/introlix/i-open-sourced-introlix-an-ai-research-platform-1kc4)
+- [One Prompt, One App: Hands-On with Google Antigravity](https://dev.to/james_miller_8dc58a89cb9e/one-prompt-one-app-hands-on-with-google-antigravity-2jme)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
