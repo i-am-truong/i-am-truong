@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀Building Your First MCP Server: A Complete Guide](https://dev.to/diegocastillo12/building-your-first-mcp-server-a-complete-guide-4m7d)
-- [Why JavaScript Is More Important Than Ever in Today’s Development World](https://dev.to/muhammadrameez/why-javascript-is-more-important-than-ever-in-todays-development-world-4i5h)
-- [⚠️ Data Leakage in Machine Learning](https://dev.to/ashish_ghadigaonkar_/data-leakage-in-machine-learning-2ia3)
-- [Working with the DOM, Click Events, and Web APIs](https://dev.to/0netheball/working-with-the-dom-click-events-and-web-apis-4e7d)
-- [Mitigating post-airdrop fud practical guide for Web3 teams](https://dev.to/wevolv3_c2aea5159adf3b85f/mitigating-post-airdrop-fud-practical-guide-for-web3-teams-4f1)
+- [Day 60 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-60-of-100-days-dsa-coding-challenge-22i7)
+- [Thinking Like a Diffusion Model](https://dev.to/eddieajau/thinking-like-a-diffusion-model-5f3b)
+- [LinkedIn&#39;s 2026 Algorithm: The Engagement Bait Era Is Finally Over](https://dev.to/synergistdigitalmedia/linkedins-2026-algorithm-the-engagement-bait-era-is-finally-over-68)
+- [ChatGPT Opens to Erotic Conversations](https://dev.to/ndabene/chatgpt-opens-to-erotic-conversations-2dcj)
+- [🔐 Understanding Governance in Microsoft Fabric](https://dev.to/sajjadrahman56/understanding-governance-in-microsoft-fabric-ggk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
