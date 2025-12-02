@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Built an API That Tracks Viral TikTok, Reels, and YouTube Shorts Content in Real Time](https://dev.to/virlobuilder/i-built-an-api-that-tracks-viral-tiktok-reels-and-youtube-shorts-content-in-real-time-3593)
+- [Modernizando Ecossistemas Maduros: Clean Architecture e Performance em Microsserviços de Leitura](https://dev.to/leonardopolicarpo/modernizando-sistemas-legados-clean-architecture-performance-e-docker-em-um-microsservico-3i95)
+- [Elixir for IoT: Why It Feels Like the Future](https://dev.to/tuliocalil/elixir-for-iot-why-it-feels-like-the-future-5cbd)
 - [🚀 UI/UX Preview from a Recently Delivered Client Mobile App Project](https://dev.to/abdul_wahab_fe886de9acd8a/uiux-preview-from-a-recently-delivered-client-mobile-app-project-5c9b)
 - [Coding Challenge Practice - Question 69](https://dev.to/tomivan/coding-challenge-practice-question-69-311a)
-- [My Project 4: Movie Search App &lpar;with Python + Streamlit&rpar;](https://dev.to/ian_b838138a27a917398d181/my-project-4-movie-search-app-with-python-streamlit-3cjj)
-- [What most devs forget when launching &lpar;and regret later&rpar;](https://dev.to/shayy/what-most-devs-forget-when-launching-and-regret-later-2fbm)
-- [Calculator blox v4](https://dev.to/natalya_gamer_a885a61d69c/calculator-blox-v4-342k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
