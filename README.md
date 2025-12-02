@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Unlocking Easter Creativity with xTool: Projects, FAQs, and Weekly Insights for Digital Marketers](https://dev.to/buysellshop/unlocking-easter-creativity-with-xtool-projects-faqs-and-weekly-insights-for-digital-marketers-2d27)
 - [Overview of Azure Service Groups &lpar;public preview&rpar;](https://dev.to/omiossec/overview-of-azure-service-groups-public-preview-hoa)
+- [I got tired of bot detection in automation testing, so I wrote this 4-line Python fix](https://dev.to/godhirajcode/i-got-tired-of-bot-detection-in-automation-testing-so-i-wrote-this-4-line-python-fix-1i3h)
 - [My Dev Tool List 2025](https://dev.to/ruarfff/my-dev-tool-list-2025-15f6)
 - [9 Launches from re:Invent Season &lpar;so far!&rpar; I&#39;m Excited About](https://dev.to/aspittel/9-launches-from-reinvent-season-so-far-im-excited-about-4g55)
-- [How I Grew a Nationwide Bowling Directory to 178K Impressions in 8 Weeks Using Nothing But Code and Curiosity](https://dev.to/gbae420/how-i-grew-a-nationwide-bowling-directory-to-178k-impressions-in-8-weeks-using-nothing-but-code-and-2eic)
-- [I Thought I Knew npm… Until I Met npx: Intro to npx](https://dev.to/rijultp/i-thought-i-knew-npm-until-i-met-npx-intro-to-npx-354a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
