@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Terraform testing with Open Policy Agent and Conftest: Secure infrastructure through Terraform testing](https://dev.to/florianlenz/terraform-testing-with-open-policy-agent-and-conftest-secure-infrastructure-through-terraform-3fk4)
 - [The Complete Git Command Reference: Mastering Version Control from Basics to Advanced](https://dev.to/thebitforge/the-complete-git-command-reference-mastering-version-control-from-basics-to-advanced-1n21)
 - [Why Do We Need Signals?](https://dev.to/luciano0322/why-do-we-need-signals-716)
-- [Maximize Your SDK Integration: Monetize AI Conversations Effectively](https://dev.to/monetzly/maximize-your-sdk-integration-monetize-ai-conversations-effectively-1eee)
 - [I Built the Best IPTV Player on the Web Because No One Else Did](https://dev.to/amrali73/i-built-the-best-iptv-player-on-the-web-because-no-one-else-did-gc9)
-- [Why Atta Beats Maida Every Time — Experts Reveal the Truth!](https://dev.to/gvaseo_9c8a7a02e0c0f08e8f/why-atta-beats-maida-every-time-experts-reveal-the-truth-i20)
+- [🚀 Introducing Better API Documentation with ProducesResponseType](https://dev.to/elmehditaii/introducing-better-api-documentation-with-producesresponsetype-3h6b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
