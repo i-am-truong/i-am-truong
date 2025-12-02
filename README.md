@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Terraform testing with Open Policy Agent and Conftest: Secure infrastructure through Terraform testing](https://dev.to/florianlenz/terraform-testing-with-open-policy-agent-and-conftest-secure-infrastructure-through-terraform-3fk4)
-- [The Complete Git Command Reference: Mastering Version Control from Basics to Advanced](https://dev.to/thebitforge/the-complete-git-command-reference-mastering-version-control-from-basics-to-advanced-1n21)
-- [Why Do We Need Signals?](https://dev.to/luciano0322/why-do-we-need-signals-716)
-- [I Built the Best IPTV Player on the Web Because No One Else Did](https://dev.to/amrali73/i-built-the-best-iptv-player-on-the-web-because-no-one-else-did-gc9)
-- [🚀 Introducing Better API Documentation with ProducesResponseType](https://dev.to/elmehditaii/introducing-better-api-documentation-with-producesresponsetype-3h6b)
+- [Sector HQ Weekly Digest - December 2, 2025](https://dev.to/sectorhqco/sector-hq-weekly-digest-december-2-2025-29n2)
+- [Revolutionizing Enterprise: How Startups Are Shaping the Future of Corporate Innovation](https://dev.to/vjnvisakh/revolutionizing-enterprise-how-startups-are-shaping-the-future-of-corporate-innovation-47o8)
+- [Handling Cold Starts in Serverless AI: Why Your First Request Fails &lpar;And How to Fix It&rpar;](https://dev.to/david_essien/handling-cold-starts-in-serverless-ai-why-your-first-request-fails-and-how-to-fix-it-527m)
+- [InvoiceQuick helps solopreneurs, freelancers, and small teams create and send invoices anywhere, anytime in seconds.](https://dev.to/iftikhar_sherwani/invoicequick-helps-solopreneurs-freelancers-and-small-teams-create-and-send-invoices-anywhere-37h)
+- [Scaling with Celery and Redis](https://dev.to/randumb/scaling-with-celery-and-redis-5aop)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
