@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a 90-Day Cash Flow Intelligence Engine](https://dev.to/etherlabsdev/how-i-built-a-90-day-cash-flow-intelligence-engine-541l)
-- [HexForge: The Spooky Coding Education Game for the Kiroween](https://dev.to/sachin_gupta_7fa2ec5ba28f/hexforge-the-spooky-coding-education-game-for-the-kiroween-1gb6)
-- [As the Machine Rises – The Human Mind Becomes the Source of Direction](https://dev.to/miller-28/as-the-machine-rises-the-human-mind-becomes-the-source-of-direction-1a62)
-- [How I decided to revive my project that was stale for 5 years...](https://dev.to/igrekov/how-i-decided-to-revive-my-project-that-was-stale-for-5-years-fj0)
-- [The Quiet Digital Shift Reshaping How We Learn and Work](https://dev.to/sonia_bobrik_1939cdddd79d/the-quiet-digital-shift-reshaping-how-we-learn-and-work-nkn)
+- [🔥 Day 2: Understanding Spark Architecture - How Spark Executes Your Code Internally](https://dev.to/sandeepk27/day-2-understanding-spark-architecture-how-spark-executes-your-code-internally-41g4)
+- [Calculator blox fruit](https://dev.to/natalya_gamer_a885a61d69c/calculator-blox-fruit-3kln)
+- [SRD SASSA Status Check for R350 Payment Dates: Complete Guide](https://dev.to/david_wenham/srd-sassa-status-check-for-r350-payment-dates-complete-guide-4m45)
+- [Fibra de vidro para Projetar um Furgão habitável de forma simples](https://dev.to/motohomego2699/fibra-de-vidro-para-projetar-um-furgao-habitavel-de-forma-simples-5225)
+- [**Technical AI Ethics Challenge:**](https://dev.to/drcarlosruizviquez/technical-ai-ethics-challenge-5fmi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
