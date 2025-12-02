@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AWS re:Invent 2025 – Matt Garman’s Keynote: A Builder’s Breakdown](https://dev.to/aditmodi/aws-reinvent-2025-matt-garmans-keynote-a-builders-breakdown-36o3)
-- [compare5](https://dev.to/query_filter_591122b53770/compare5-37h4)
-- [I built a Zero-Code Data Analyst](https://dev.to/prajjawal1707/i-built-a-zero-code-data-analyst-34p3)
-- [compare4](https://dev.to/query_filter_591122b53770/compare4-5blh)
-- [compare3](https://dev.to/query_filter_591122b53770/compare3-gpm)
+- [Setup Expo Build Environment on WSL2 &lpar;Without Android Studio nor Paying Expo Credits&rpar;](https://dev.to/jervi/i-built-a-complete-expo-build-environment-on-wsl2-without-android-studio-nor-paying-expo-credits-4921)
+- [How I Built a Semantic Search Engine with CocoIndex](https://dev.to/cocoindex/how-i-built-a-semantic-search-engine-with-cocoindex-5ak9)
+- [Game development with SpecKit, Rust and Bevy](https://dev.to/ldrscke/game-development-with-speckit-rust-and-bevy-86p)
+- [Football pitch reservation app built with Next.js, Shadcn UI, Prisma, and Better Auth](https://dev.to/saidmounaim/football-pitch-reservation-app-built-with-nextjs-shadcn-ui-prisma-and-better-auth-2k36)
+- [compare8](https://dev.to/query_filter_591122b53770/compare8-m40)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
