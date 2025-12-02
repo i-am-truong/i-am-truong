@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Medium vs DEV vs Hashnode vs Hackernoon vs CoderLegion — Where Should You Publish &amp; Launch? 🚀](https://dev.to/codingpanel/medium-vs-dev-vs-hashnode-vs-hackernoon-vs-coderlegion-where-should-you-publish-launch-3ikj)
 - [Inside the University Cloud: Solving Real-World Networking Challenges](https://dev.to/truenorth/inside-the-university-cloud-solving-real-world-networking-challenges-45j0)
 - [What is due diligence for IDP and why is it important?](https://dev.to/alexlipinskiwrites/what-is-due-diligence-for-idp-and-why-is-it-important-2aab)
 - [CSS Iceberg](https://dev.to/alvaromontoro/css-iceberg-506c)
 - [Introducing: AWS CDK 100 Drill Exercises - Learn by Building](https://dev.to/aws-builders/introducing-aws-cdk-100-drill-exercises-learn-by-building-5949)
-- [Wrote an article for people who wanted to use plain JS to build React Native projects, and showed how to configure with expo to use its advantages](https://dev.to/franklivania/wrote-an-article-for-people-who-wanted-to-use-plain-js-to-build-react-native-projects-and-showed-4910)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
