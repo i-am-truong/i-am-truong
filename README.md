@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Cost-Effective AutoML Platform on AWS: $10-25/month vs $150+ for SageMaker Endpoints](https://dev.to/aws-builders/building-a-cost-effective-automl-platform-on-aws-10-25month-vs-150-for-sagemaker-endpoints-1m99)
+- [From 40% to 100% SQL Generation Accuracy: Why Local AI Needs Self-Correction, Not Perfect Prompts](https://dev.to/hadywalied/from-40-to-100-sql-generation-accuracy-why-local-ai-needs-self-correction-not-perfect-prompts-283j)
 - [Setup Expo Build Environment on WSL2 &lpar;Without Android Studio nor Paying Expo Credits&rpar;](https://dev.to/jervi/i-built-a-complete-expo-build-environment-on-wsl2-without-android-studio-nor-paying-expo-credits-4921)
 - [How I Built a Semantic Search Engine with CocoIndex](https://dev.to/cocoindex/how-i-built-a-semantic-search-engine-with-cocoindex-5ak9)
 - [Game development with SpecKit, Rust and Bevy](https://dev.to/ldrscke/game-development-with-speckit-rust-and-bevy-86p)
-- [Football pitch reservation app built with Next.js, Shadcn UI, Prisma, and Better Auth](https://dev.to/saidmounaim/football-pitch-reservation-app-built-with-nextjs-shadcn-ui-prisma-and-better-auth-2k36)
-- [compare8](https://dev.to/query_filter_591122b53770/compare8-m40)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
