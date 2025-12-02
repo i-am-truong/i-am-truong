@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Ping Engine: Adaptive Focus + MindsEye State Cards](https://dev.to/peacebinflow/the-ping-engine-adaptive-focus-mindseye-state-cards-24fp)
-- [Advent of Code 2025 - December 2nd](https://dev.to/robvanderleek/advent-of-code-2025-december-2nd-2j08)
-- [Practical SQL Observability for Forge Apps with forge-sql-orm](https://dev.to/vzakharchenko/practical-sql-observability-for-forge-apps-with-forge-sql-orm-473d)
-- [BJH OS — Free, Open Source, Browser-Based OS Built with HTML, CSS &amp; JavaScript](https://dev.to/muhammad_haris_7828c7aeda/bjh-os-free-open-source-browser-based-os-built-with-html-css-javascript-10gj)
-- [Goodbye CRA, Hello Vite: A Developer’s 2026 Survival Guide For Migration](https://dev.to/solitrix02/goodbye-cra-hello-vite-a-developers-2026-survival-guide-for-migration-2a9f)
+- [Overview of Azure Service Groups &lpar;public preview&rpar;](https://dev.to/omiossec/overview-of-azure-service-groups-public-preview-hoa)
+- [My Dev Tool List 2025](https://dev.to/ruarfff/my-dev-tool-list-2025-15f6)
+- [9 Launches from re:Invent Season &lpar;so far!&rpar; I&#39;m Excited About](https://dev.to/aspittel/9-launches-from-reinvent-season-so-far-im-excited-about-4g55)
+- [How I Grew a Nationwide Bowling Directory to 178K Impressions in 8 Weeks Using Nothing But Code and Curiosity](https://dev.to/gbae420/how-i-grew-a-nationwide-bowling-directory-to-178k-impressions-in-8-weeks-using-nothing-but-code-and-2eic)
+- [I Thought I Knew npm… Until I Met npx: Intro to npx](https://dev.to/rijultp/i-thought-i-knew-npm-until-i-met-npx-intro-to-npx-354a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
