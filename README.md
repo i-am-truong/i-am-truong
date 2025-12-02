@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Linear Regression](https://dev.to/ndhanvina/linear-regression-k23)
+- [Harry Potter’s Guide to Darlington Transistors: Magic for Heavy Loads ✨](https://dev.to/ersajay/harry-potters-guide-to-darlington-transistors-magic-for-heavy-loads-2cif)
+- [🏁 ASPICE Literacy —  Episode 12: Beyond Compliance: ASPICE as a Tool for Engineering Excellence 🚀](https://dev.to/abdulosman/aspice-literacy-episode-12-beyond-compliance-aspice-as-a-tool-for-engineering-excellence-789)
 - [テストエンジニアが知っておくべきRedis基礎 現場で使えるコマンドと検証方法](https://dev.to/nakamura_takuya/tesutoenziniagazhi-tuteokubekiredisji-chu-xian-chang-deshi-erukomandotojian-zheng-fang-fa-2hea)
 - [When your Next.js Site Reports: Title tag Missing](https://dev.to/mxro/when-your-nextjs-site-reports-title-tag-missing-1oo9)
-- [Run a MySQL container with persistent storage using Docker volumes](https://dev.to/deborahemeni1/run-a-mysql-container-with-persistent-storage-using-docker-volumes-49ma)
-- [Legit Ways to Enjoy Canva Pro Without Paying](https://dev.to/shiva_c74698f901616e10e57/legit-ways-to-enjoy-canva-pro-without-paying-4fa7)
-- [Extending eBPF Beyond Its Limits: Custom kfuncs in Kernel Modules](https://dev.to/yunwei37/extending-ebpf-beyond-its-limits-custom-kfuncs-in-kernel-modules-475m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
