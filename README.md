@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Java decrementExact&lpar;&rpar; Explained: Stop Integer Overflow Bugs](https://dev.to/satyam_gupta_0d1ff2152dcc/java-decrementexact-explained-stop-integer-overflow-bugs-308g)
+- [Building MCP Time-Traveler with Kiro: How I Used Vibe Coding, Specs, Steering, Hooks, and MCP to Build a Full Stack App](https://dev.to/prabhakaranjm/building-mcp-time-traveler-with-kiro-how-i-used-vibe-coding-specs-steering-hooks-and-mcp-to-bhl)
+- [Train a Custom Z‑Image Turbo LoRA with the Ostris AI Toolkit &lpar;RunPod Edition&rpar;](https://dev.to/promptingpixels/train-a-custom-z-image-turbo-lora-with-the-ostris-ai-toolkit-runpod-edition-1n4h)
+- [Design Patterns for Data Engineers: Cleaner ETL with the Builder Pattern.](https://dev.to/cristianbergamo/design-patterns-for-data-engineers-cleaner-etl-with-the-builder-pattern-4bi7)
 - [SAML vs OIDC: Choosing the Right Authentication Protocol for Your App](https://dev.to/iamdevbox/saml-vs-oidc-choosing-the-right-authentication-protocol-for-your-app-1h6o)
-- [What is Low Code Tools?What are the tools?](https://dev.to/aj_arul/what-is-low-code-toolswhat-are-the-tools-2k7p)
-- [Can an AI Predict the Taste of Your Salad? Here’s What I Built. 🥗🤖](https://dev.to/hari_narayanan_c557f6488b/can-an-ai-predict-the-taste-of-your-salad-heres-what-i-built-1ejd)
-- [Understanding Amazon Q Custom Agents: Concepts, Architecture &amp; Inner Workings](https://dev.to/aws-builders/understanding-amazon-q-custom-agents-concepts-architecture-inner-workings-362)
-- [How to Prompt AI for Consistent JSON Responses](https://dev.to/cucoleadan/how-to-prompt-ai-for-consistent-json-responses-1gbm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
