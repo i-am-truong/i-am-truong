@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 2 — The Typed Letter](https://dev.to/aerabi/day-2-the-typed-letter-5clg)
-- [What will enter the public domain in 2026?](https://dev.to/technoblogger14o3/what-will-enter-the-public-domain-in-2026-3g1l)
-- [FULL REDUX INTERNAL](https://dev.to/zeeshanali0704/full-redux-internal-5a03)
-- [Barclays 26NG OA Ultimate Guide | Hard Mode Memory Manager Real Questions + Passing Tips](https://dev.to/net_programhelp_e160eef28/barclays-26ng-oa-ultimate-guide-hard-mode-memory-manager-real-questions-passing-tips-83h)
-- [🔓 Successfully Decrypted MIUI .lsa &amp; .lsav Files Using Python – Full Working Method by TheDevOpsRite](https://dev.to/thedevopsrite/successfully-decrypted-miui-lsa-lsav-files-using-python-full-working-method-by-thedevopsrite-47k5)
+- [Who&#39;s hiring — December 2025](https://dev.to/fmerian/whos-hiring-december-2025-1he2)
+- [Converting Figma Design To Next.js Code In Minutes](https://dev.to/crosspostr/converting-figma-design-to-nextjs-code-in-minutes-5607)
+- [Docker Image Compression: gzip vs zstd](https://dev.to/danielcristho/docker-image-compression-gzip-vs-zstd-4eod)
+- [AI Agents and context-aware permissions](https://dev.to/mathewpregasen/ai-agents-and-context-aware-permissions-1gii)
+- [Why Do Some SaaS Startups Grow Faster on Google While Others Stay Invisible?](https://dev.to/michael_young_e3100131f21/why-do-some-saas-startups-grow-faster-on-google-while-others-stay-invisible-2326)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
