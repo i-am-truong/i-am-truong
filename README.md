@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Unleash Dynamic Content: Mastering the Elementor Flip Box Widget for Engaging WordPress Sites](https://dev.to/artarasaneh2025/unleash-dynamic-content-mastering-the-elementor-flip-box-widget-for-engaging-wordpress-sites-3akh)
-- [Branch development with git](https://dev.to/aaronmccollum/branch-development-with-git-joc)
-- [Data Analytics in Healthcare: Engineering the Future of Intelligent Medicine](https://dev.to/rank_alchemy_5ad282cec75d/data-analytics-in-healthcare-engineering-the-future-of-intelligent-medicine-lmg)
-- [From 1.2GB to 54MB: My Docker Image Went on a Diet](https://dev.to/tusharsharma099/from-12gb-to-54mb-my-docker-image-went-on-a-diet-17nd)
-- [AWS Cloud Resume Challenge - my attempt](https://dev.to/aws-builders/aws-cloud-resume-challenge-my-attempt-544m)
+- [Code Smell 315 - Cloudflare Feature Explosion](https://dev.to/mcsee/code-smell-315-cloudflare-feature-explosion-28p9)
+- [Meet Bumblebee: Agentic AI Flagging Risky Merchants in Under 90 Seconds](https://dev.to/razorpaytech/meet-bumblebee-agentic-ai-flagging-risky-merchants-in-under-90-seconds-2nlf)
+- [Businesses Are Winning with Gen AI: 13 Generative AI Use Cases That Actually Work](https://dev.to/infutrix/businesses-are-winning-with-gen-ai-13-generative-ai-use-cases-that-actually-work-4cb9)
+- [Copy and Paste on Proxmox VM](https://dev.to/woovi/copy-and-paste-on-proxmox-vm-15il)
+- [“EU AI Act: The Code is the Compliance — Why TAUGuard is Already the Architecture We Needed”](https://dev.to/michal_harcej/eu-ai-act-the-code-is-the-compliance-why-tauguard-is-already-the-architecture-we-needed-5e5m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
