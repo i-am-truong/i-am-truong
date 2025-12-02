@@ -120,11 +120,13 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Chip Design Breakthrough: Predicting Performance Before Layout](https://dev.to/arvind_sundararajan/chip-design-breakthrough-predicting-performance-before-layout-4o8p)
-- [WHAT IS A SECRET?](https://dev.to/jumptotech/what-is-a-secret-ikp)
-- [Web App or Mobile App? Choosing Your MVP Platform](https://dev.to/sociilabs/web-app-or-mobile-app-choosing-your-mvp-platform-4n2o)
-- [Achieve Prisma-like Developer Experience in EF Core! Introduction to Linqraft](https://dev.to/arika0093/achieve-prisma-like-developer-experience-in-ef-core-introduction-to-linqraft-110p)
-- [Stop Fixing Code Manually: How NeuroLint Automates What ESLint Can&#39;t](https://dev.to/just_clive_b0f7c2ce633fec/stop-fixing-code-manually-how-neurolint-automates-what-eslint-cant-18ai)
+- [Mastering CSS Shadows and Filters: Adding Depth and Style to Your Designs](https://dev.to/sharique_siddiqui_8242dad/mastering-css-shadows-and-filters-adding-depth-and-style-to-your-designs-4n6p)
+- [We’re living in a rare moment in history, a moment where an individual can build what once required an entire startup team.
+
+In 2025, a one-person AI company isn’t just possible. It’s practical, powerful, and scalable.](https://dev.to/jaideepparashar/were-living-in-a-rare-moment-in-history-a-moment-where-an-individual-can-build-what-once-required-319c)
+- [Highlight Multiple Languages](https://dev.to/alcb1310/highlight-multiple-languages-lim)
+- [How Career Shapes a Person](https://dev.to/mikhail_dorokhovich_bd8d4/how-career-shapes-a-person-4ak4)
+- [[AWS] Modifying Infrastructure Composer policies with IAM Policy Autopilot](https://dev.to/aws-builders/aws-modifying-infrastructure-composer-policies-with-iam-policy-autopilot-hg7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
