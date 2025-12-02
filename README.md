@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [compare2](https://dev.to/query_filter_591122b53770/compare2-lcj)
+- [[Boost]](https://dev.to/dev-araujo/-2hhc)
 - [Why Semantic Search Matters... especially in Barbados!](https://dev.to/hammertoe/why-semantic-search-matters-especially-in-barbados-pc4)
 - [Gadget’s BFCM 2025 &lpar;in numbers&rpar;](https://dev.to/gadget/gadgets-bfcm-2025-in-numbers-p45)
 - [Building &quot;6 Degrees of Kevin Bacon&quot; with a Graph-Native Backend: Why I Created FLXBL](https://dev.to/flxbl/building-6-degrees-of-kevin-bacon-with-a-graph-native-backend-why-i-created-flxbl-jbj)
-- [AnimeSubs an LLM Subtitle Translator](https://dev.to/enrell/animesubs-an-llm-subtitle-translator-4eek)
-- [The Limits of Spec-Driven Development in AI coding](https://dev.to/chrisywz/the-limits-of-spec-driven-development-3b16)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
