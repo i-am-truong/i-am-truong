@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A step-by-step guide to fine-tuning MedGemma for breast tumor classification](https://dev.to/googleai/a-step-by-step-guide-to-fine-tuning-medgemma-for-breast-tumor-classification-35af)
-- [Exploring native Browser/Web APIs](https://dev.to/bridget_amana/exploring-native-browserweb-apis-2mj8)
-- [Agentic Software Engineering &lpar;ASE&rpar;: The Software Development Landscape is Shifting Again](https://dev.to/elbanic/agentic-software-engineering-ase-the-software-development-landscape-is-shifting-again-4bc4)
-- [Crypto Payment Gateway Explained](https://dev.to/rbtex/crypto-payment-gateway-explained-533e)
-- [The SaaS Gold Rush is a Trap.](https://dev.to/whykislay/the-saas-gold-rush-is-a-trap-5bb6)
+- [The Ping Engine: Adaptive Focus + MindsEye State Cards](https://dev.to/peacebinflow/the-ping-engine-adaptive-focus-mindseye-state-cards-24fp)
+- [Advent of Code 2025 - December 2nd](https://dev.to/robvanderleek/advent-of-code-2025-december-2nd-2j08)
+- [Practical SQL Observability for Forge Apps with forge-sql-orm](https://dev.to/vzakharchenko/practical-sql-observability-for-forge-apps-with-forge-sql-orm-473d)
+- [BJH OS — Free, Open Source, Browser-Based OS Built with HTML, CSS &amp; JavaScript](https://dev.to/muhammad_haris_7828c7aeda/bjh-os-free-open-source-browser-based-os-built-with-html-css-javascript-10gj)
+- [Goodbye CRA, Hello Vite: A Developer’s 2026 Survival Guide For Migration](https://dev.to/solitrix02/goodbye-cra-hello-vite-a-developers-2026-survival-guide-for-migration-2a9f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
