@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Advent of AI 2025 - Day 1: Getting Goose to Generate Daily Fortunes in CI](https://dev.to/nickytonline/advent-of-ai-2025-day-1-getting-goose-to-generate-daily-fortunes-in-ci-3alp)
+- [Building a Practical A2A Protocol for Multi-Agent Supply Chain Intelligence](https://dev.to/supplygraphai/building-a-practical-a2a-protocol-for-multi-agent-supply-chain-intelligence-1jlj)
+- [Knowledge base in AI: why Q&amp;A websites are a unique training asset](https://dev.to/answergrowth/knowledge-base-in-ai-why-qa-websites-are-a-unique-training-asset-ap0)
+- [SpaceX to Launch Mission on Falcon 9 Booster 1081](https://dev.to/theentrepreneurinsight/spacex-to-launch-mission-on-falcon-9-booster-1081-45ap)
 - [From Zero to Beautiful UI: How I Built an Instagram-Like Layout Using Uno Platform Hot Design 🔥](https://dev.to/hadil/from-zero-to-beautiful-ui-how-i-built-an-instagram-like-layout-using-uno-platform-hot-design-302h)
-- [Deploy SafeLine WAF with Docker Compose: A Step-by-Step Guide](https://dev.to/arina_cholee/deploy-safeline-waf-with-docker-compose-a-step-by-step-guide-1fk0)
-- [5 Physics Systems You Can Build in Scratch &lpar;With Working Code&rpar;](https://dev.to/itsmybot/5-physics-systems-you-can-build-in-scratch-with-working-code-260k)
-- [Building a Kiroween Avatar Maker with Kiro 👻 + 4S Playbook](https://dev.to/moolmin/building-a-kiroween-avatar-maker-with-kiro-4s-playbook-12jk)
-- [Web development roadmap](https://dev.to/ssekabirarobertsims/web-development-roadmap-7o2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
