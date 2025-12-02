@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Deploy a Web App Using Ansible in 10 Minutes](https://dev.to/krisha_arya_55/how-to-deploy-a-web-app-using-ansible-in-10-minutes-4p1)
-- [Building a Full-Stack App Shouldn’t Feel Like Starting From Zero Every Time](https://dev.to/bearstudio/building-a-full-stack-app-shouldnt-feel-like-starting-from-zero-every-time-2fgn)
-- [How Do You Architect Audit Logging in a Microservices Platform?](https://dev.to/mahendra_kumar_6b3dceb27e/how-do-you-architect-audit-logging-in-a-microservices-platform-2f4p)
-- [I open sourced Introlix - an AI research platform](https://dev.to/introlix/i-open-sourced-introlix-an-ai-research-platform-1kc4)
-- [One Prompt, One App: Hands-On with Google Antigravity](https://dev.to/james_miller_8dc58a89cb9e/one-prompt-one-app-hands-on-with-google-antigravity-2jme)
+- [HexForge: The Spooky Coding Education Game for the Kiroween](https://dev.to/sachin_gupta_7fa2ec5ba28f/hexforge-the-spooky-coding-education-game-for-the-kiroween-1gb6)
+- [As the Machine Rises – The Human Mind Becomes the Source of Direction](https://dev.to/miller-28/as-the-machine-rises-the-human-mind-becomes-the-source-of-direction-1a62)
+- [How I decided to revive my project that was stale for 5 years...](https://dev.to/igrekov/how-i-decided-to-revive-my-project-that-was-stale-for-5-years-fj0)
+- [The Quiet Digital Shift Reshaping How We Learn and Work](https://dev.to/sonia_bobrik_1939cdddd79d/the-quiet-digital-shift-reshaping-how-we-learn-and-work-nkn)
+- [The Changing Expectations of Digital Audiences](https://dev.to/sonia_bobrik_1939cdddd79d/the-changing-expectations-of-digital-audiences-53f9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
