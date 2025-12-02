@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Sector HQ Weekly Digest - December 2, 2025](https://dev.to/sectorhqco/sector-hq-weekly-digest-december-2-2025-29n2)
-- [Revolutionizing Enterprise: How Startups Are Shaping the Future of Corporate Innovation](https://dev.to/vjnvisakh/revolutionizing-enterprise-how-startups-are-shaping-the-future-of-corporate-innovation-47o8)
-- [Handling Cold Starts in Serverless AI: Why Your First Request Fails &lpar;And How to Fix It&rpar;](https://dev.to/david_essien/handling-cold-starts-in-serverless-ai-why-your-first-request-fails-and-how-to-fix-it-527m)
-- [InvoiceQuick helps solopreneurs, freelancers, and small teams create and send invoices anywhere, anytime in seconds.](https://dev.to/iftikhar_sherwani/invoicequick-helps-solopreneurs-freelancers-and-small-teams-create-and-send-invoices-anywhere-37h)
-- [Scaling with Celery and Redis](https://dev.to/randumb/scaling-with-celery-and-redis-5aop)
+- [From 1.2GB to 54MB: My Docker Image Went on a Diet](https://dev.to/tusharsharma099/from-12gb-to-54mb-my-docker-image-went-on-a-diet-17nd)
+- [AWS Cloud Resume Challenge - my attempt](https://dev.to/aws-builders/aws-cloud-resume-challenge-my-attempt-544m)
+- [Building an AI-Native &quot;Operating System&quot; for Revenue Teams](https://dev.to/nobleman-ai/building-an-ai-native-operating-system-for-revenue-teams-49bn)
+- [The World&#39;s First Web Components Library in the Style of shadcn — With Automatic Code Injection](https://dev.to/zizigy/the-worlds-first-web-components-library-in-the-style-of-shadcn-with-automatic-code-injection-33on)
+- [The Future of Crypto: A World Where We Don’t Even Call It “Crypto” Anymore 🚀](https://dev.to/tanelith/the-future-of-crypto-a-world-where-we-dont-even-call-it-crypto-anymore-54ah)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
