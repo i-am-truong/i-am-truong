@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking Easter Creativity with xTool: Projects, FAQs, and Weekly Insights for Digital Marketers](https://dev.to/buysellshop/unlocking-easter-creativity-with-xtool-projects-faqs-and-weekly-insights-for-digital-marketers-2d27)
-- [Overview of Azure Service Groups &lpar;public preview&rpar;](https://dev.to/omiossec/overview-of-azure-service-groups-public-preview-hoa)
-- [I got tired of bot detection in automation testing, so I wrote this 4-line Python fix](https://dev.to/godhirajcode/i-got-tired-of-bot-detection-in-automation-testing-so-i-wrote-this-4-line-python-fix-1i3h)
-- [My Dev Tool List 2025](https://dev.to/ruarfff/my-dev-tool-list-2025-15f6)
-- [9 Launches from re:Invent Season &lpar;so far!&rpar; I&#39;m Excited About](https://dev.to/aspittel/9-launches-from-reinvent-season-so-far-im-excited-about-4g55)
+- [TestRail vs TestLink: A Performance and Cost Analysis](https://dev.to/r3d_cr0wn/testrail-vs-testlink-a-performance-and-cost-analysis-284h)
+- [I built a React Next.js converter that handles 80–90 percent of the migration](https://dev.to/react2next/i-built-a-react-nextjs-converter-that-handles-80-90-percent-of-the-migration-58m7)
+- [[Boost]](https://dev.to/rajesh_vohra_e75f579b7888/-32e2)
+- [Oracle APEX &lpar;Rest Integration Code Snippets&rpar;](https://dev.to/rajesh_vohra_e75f579b7888/oracle-apex-rest-integration-code-snippets-20gi)
+- [AI NECROMANCER](https://dev.to/v_a_ed26d9e7261ee287182/ai-necromancer-1lbp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
