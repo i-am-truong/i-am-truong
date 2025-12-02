@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [TestRail vs TestLink: A Performance and Cost Analysis](https://dev.to/r3d_cr0wn/testrail-vs-testlink-a-performance-and-cost-analysis-284h)
-- [I built a React Next.js converter that handles 80–90 percent of the migration](https://dev.to/react2next/i-built-a-react-nextjs-converter-that-handles-80-90-percent-of-the-migration-58m7)
-- [[Boost]](https://dev.to/rajesh_vohra_e75f579b7888/-32e2)
-- [Oracle APEX &lpar;Rest Integration Code Snippets&rpar;](https://dev.to/rajesh_vohra_e75f579b7888/oracle-apex-rest-integration-code-snippets-20gi)
-- [AI NECROMANCER](https://dev.to/v_a_ed26d9e7261ee287182/ai-necromancer-1lbp)
+- [Gadget’s BFCM 2025 &lpar;in numbers&rpar;](https://dev.to/gadget/gadgets-bfcm-2025-in-numbers-p45)
+- [Boosting SDK Integration: Monetize Your AI Conversations Today!](https://dev.to/monetzly/boosting-sdk-integration-monetize-your-ai-conversations-today-4610)
+- [Building &quot;6 Degrees of Kevin Bacon&quot; with a Graph-Native Backend: Why I Created FLXBL](https://dev.to/flxbl/building-6-degrees-of-kevin-bacon-with-a-graph-native-backend-why-i-created-flxbl-jbj)
+- [AnimeSubs an LLM Subtitle Translator](https://dev.to/enrell/animesubs-an-llm-subtitle-translator-4eek)
+- [The Limits of Spec-Driven Development in AI coding](https://dev.to/chrisywz/the-limits-of-spec-driven-development-3b16)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
