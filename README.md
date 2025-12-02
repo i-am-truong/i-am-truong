@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [compare](https://dev.to/query_filter_591122b53770/compare-c5d)
 - [The SaaS Gold Rush is a Trap.](https://dev.to/whykislay/the-saas-gold-rush-is-a-trap-5bb6)
 - [Как сделать и настроить свой VPN](https://dev.to/ikorut/kak-sdielat-i-nastroit-svoi-vpn-4ind)
 - [Anthropic Just Acquired Bun — And It Signals the Beginning of AI-Native Software Engineering](https://dev.to/axrisi/anthropic-just-acquired-bun-and-it-signals-the-beginning-of-ai-native-software-engineering-3cd9)
 - [Building a Dependency-Aware CRUD API with FastAPI and Topological Sorting with Kiro](https://dev.to/nayana-vinod/building-a-dependency-aware-crud-api-with-fastapi-and-topological-sorting-43lm)
+- [How I Built a Production-Ready SaaS in a Weekend &lpar;and Open-Sourced It&rpar;](https://dev.to/falk_maria_zeitsprung/how-i-built-a-production-ready-saas-in-a-weekend-and-open-sourced-it-2f66)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
