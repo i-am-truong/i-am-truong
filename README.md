@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Built a 90-Day Cash Flow Intelligence Engine](https://dev.to/etherlabsdev/how-i-built-a-90-day-cash-flow-intelligence-engine-541l)
 - [HexForge: The Spooky Coding Education Game for the Kiroween](https://dev.to/sachin_gupta_7fa2ec5ba28f/hexforge-the-spooky-coding-education-game-for-the-kiroween-1gb6)
 - [As the Machine Rises – The Human Mind Becomes the Source of Direction](https://dev.to/miller-28/as-the-machine-rises-the-human-mind-becomes-the-source-of-direction-1a62)
 - [How I decided to revive my project that was stale for 5 years...](https://dev.to/igrekov/how-i-decided-to-revive-my-project-that-was-stale-for-5-years-fj0)
 - [The Quiet Digital Shift Reshaping How We Learn and Work](https://dev.to/sonia_bobrik_1939cdddd79d/the-quiet-digital-shift-reshaping-how-we-learn-and-work-nkn)
-- [The Changing Expectations of Digital Audiences](https://dev.to/sonia_bobrik_1939cdddd79d/the-changing-expectations-of-digital-audiences-53f9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
