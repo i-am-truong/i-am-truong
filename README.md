@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [OpenTelemetry Filelog Receiver: A Guide to Ingesting Log Files](https://dev.to/dash0/opentelemetry-filelog-receiver-a-guide-to-ingesting-log-files-38m6)
-- [Breaking the doom-prompting loop with spec-driven development](https://dev.to/vburckhardt/breaking-the-doom-prompting-loop-with-spec-driven-development-19hj)
-- [Comprehensive Guide to Load and Stress Testing Types with Locust Implementation](https://dev.to/mohsen_akbari_ebe53d7cbc2/comprehensive-guide-to-load-and-stress-testing-types-with-locust-implementation-40o6)
-- [HTTP/1.1 vs HTTP/2 vs HTTP/3 – Which One Are You Still Using in 2025?](https://dev.to/sreekanth_kuruba_91721e5d/http11-vs-http2-vs-http3-which-one-are-you-still-using-in-2025-4aah)
-- [ONLYOFFICE updated: AI agents &amp; custom hotkeys in new releases](https://dev.to/onlyoffice/onlyoffice-updated-ai-agents-custom-hotkeys-in-new-releases-hem)
+- [Seeking Career guidance](https://dev.to/abby21/seeking-career-guidance-45hb)
+- [Behind the Scenes of a “Crazy Pizza Game”: How HTML5 Casual Games Are Built](https://dev.to/gamh5games/behind-the-scenes-of-a-crazy-pizza-game-how-html5-casual-games-are-built-1hjn)
+- [AuroraCanvas — A Cross-Platform Generative Art Experience](https://dev.to/s10olamide/auroracanvas-a-cross-platform-generative-art-experience-5ac4)
+- [9 Essential Developer Tools You Should be Exploring Right Now ⚡️🔎](https://dev.to/madza/9-essential-developer-tools-you-should-be-exploring-right-now-2kdj)
+- [Describe promotions on AI services available now](https://dev.to/wadie_realme_733c52996966/describe-promotions-on-ai-services-available-now-4ml7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
