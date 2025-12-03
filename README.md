@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your 2025 Marketing Budget Probably Lied to You: A Q1 2026 Audit Framework](https://dev.to/synergistdigitalmedia/your-2025-marketing-budget-probably-lied-to-you-a-q1-2026-audit-framework-d9l)
-- [How I Built a Multi-Platform AI Chatbot with n8n and LangBot](https://dev.to/rockchinq/how-i-built-a-multi-platform-ai-chatbot-with-n8n-and-langbot-35nb)
-- [ML Observability &amp; Monitoring — The Missing Layer in ML Systems &lpar;Part 7&rpar;](https://dev.to/ashish_ghadigaonkar_/ml-observability-monitoring-the-missing-layer-in-ml-systems-part-7-1iem)
-- [Welcome Thread - v354](https://dev.to/devteam/welcome-thread-v354-ccj)
-- [Don&#39;t Learn Prompt Engineering. Here&#39;s What Matters More](https://dev.to/canro91/dont-learn-prompt-engineering-heres-what-matters-more-52cd)
+- [From Academic Research to Production-Ready AI Governance: Building the Intelligent Rate Limiting System](https://dev.to/lfariaus/from-academic-research-to-production-ready-ai-governance-building-the-intelligent-rate-limiting-59c9)
+- [AI-Powered Digital Product Ideas: 15 Offers You Can Launch This Month](https://dev.to/prateekshaweb/ai-powered-digital-product-ideas-15-offers-you-can-launch-this-month-52ll)
+- [From QA to Full-Stack: Building a Decoupled Django/React App for the AroAce Community](https://dev.to/itisdouglas/from-qa-to-full-stack-building-a-decoupled-djangoreact-app-for-the-aroace-community-4oec)
+- [Advent of AI 2025 - Day 2: Building a Winter Festival Game](https://dev.to/nickytonline/advent-of-ai-2025-day-2-building-a-winter-festival-game-41eg)
+- [Agile, Scalable APIs &amp; Python](https://dev.to/adrianovieira/agile-scalable-apis-python-2ma)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
