@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/mikeydorje/-1e5b)
-- [How I Finally Forced LLMs to Return Perfect JSON &lpar;2025 Edition&rpar; — No Hacks, No Regex, Just Clean Output](https://dev.to/arfatapp/how-i-finally-forced-llms-to-return-perfect-json-2025-edition-no-hacks-no-regex-just-clean-5c5)
-- [Boost Your Learning with Hidden AI Tools for Students](https://dev.to/jdkhan/boost-your-learning-with-hidden-ai-tools-for-students-346j)
-- [Embedding Serverless Dashboards in React](https://dev.to/mdflaher/embedding-serverless-dashboards-in-react-2fn0)
-- [Day 10: Mastering Terraform Expressions - Conditional Logic, Iteration, and Collection](https://dev.to/andylovecloud/day-10-mastering-terraform-expressions-conditional-logic-iteration-and-collection-4igd)
+- [Quick Start: Eleventy Shortcodes for Responsive Images &amp; Inline SVG](https://dev.to/quesby/quick-start-eleventy-shortcodes-for-responsive-images-inline-svg-2pad)
+- [From Default to Custom: Handling Errors in Django Like a Pro](https://dev.to/guzmanojero/from-default-to-custom-handling-errors-in-django-like-a-pro-3mbb)
+- [B-Trees, Pages, and the Hidden Problems Behind Traditional Indexin](https://dev.to/lovestaco/b-trees-pages-and-the-hidden-problems-behind-traditional-indexin-75p)
+- [WooCommerce Settings Explained](https://dev.to/arsalanmeee/woocommerce-settings-explained-1ai3)
+- [The Pitfall of Increasing Read Capacity by Reading From Secondary Nodes in a MongoDB Replica Set](https://dev.to/arturgc/the-pitfall-of-increasing-read-capacity-by-reading-from-secondary-nodes-in-a-mongodb-replica-set-49cn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
