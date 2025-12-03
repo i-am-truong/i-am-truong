@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [wrote this breakdown of the best proxy and scraper apis for 2025. simple, honest and actually useful. check it out if you want 👇](https://dev.to/arjuncodess/wrote-this-breakdown-of-the-best-proxy-and-scraper-apis-for-2025-simple-honest-and-actually-4b2i)
-- [11 Powerful Proxy &amp; Web Scraper APIs You Should Use in 2025 🤯](https://dev.to/arjuncodess/11-powerful-proxy-web-scraper-apis-you-should-use-in-2025-12no)
-- [From Data Silos to Intelligent Insights: Building a Future-oriented Operation Intelligence System](https://dev.to/observabilityguy/from-data-silos-to-intelligent-insights-building-a-future-oriented-operation-intelligence-system-58hj)
-- [Loading Chrome extensions for development in 2025](https://dev.to/bitcrowd/loading-chrome-extensions-for-development-in-2025-1039)
-- [Optimize Like a Pro: Advanced JavaScript Memory Techniques for Large-Scale Projects](https://dev.to/ahmed_niazy/optimize-like-a-pro-advanced-javascript-memory-techniques-for-large-scale-projects-5cmp)
+- [🚀 Crafting My Developer Workflow: VSCode, Vim, and Zsh](https://dev.to/mahafuz/crafting-my-developer-workflow-vscode-vim-and-zsh-1aln)
+- [Integrating Shopify with Blockchain: NFT-Based Product Ownership Tracking Explained](https://dev.to/lucy1/integrating-shopify-with-blockchain-nft-based-product-ownership-tracking-explained-107j)
+- [How To Deploy Java Microservices on AWS Elastic Beanstalk](https://dev.to/mohamed_el_laithy/how-to-deploy-java-microservices-on-aws-elastic-beanstalk-1nbg)
+- [n8n: How to create credential Gmail Account](https://dev.to/codebangkok/n8n-how-to-create-credential-gmail-account-166e)
+- [MapLibre GL JS - Enabling large number of moveable sprites](https://dev.to/kozy_kekyo/maplibre-gl-js-enabling-large-number-of-moveable-sprites-4bek)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
