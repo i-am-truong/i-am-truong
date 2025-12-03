@@ -120,11 +120,15 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Real-time Communication with WebSockets using deboa-extras](https://dev.to/rogrio_arajo_55dae16f0d/real-time-communication-with-websockets-using-deboa-extras-172o)
-- [Understanding How LCD Screens Work: Components, Light Control, and Display Technologies](https://dev.to/danie_brooks_dc7a891322b3/understanding-how-lcd-screens-work-components-light-control-and-display-technologies-3j1h)
-- [Improving our frontend tracking with Avo](https://dev.to/superpayments/improving-our-frontend-tracking-with-avo-50cc)
-- [Mastering AWS Cross-Account Secrets with Terraform &amp; KMS](https://dev.to/khaldoun488/mastering-aws-cross-account-secrets-with-terraform-kms-c70)
-- [4 Rules to Make MySQL Indexes Blazing Fast](https://dev.to/seenasabti/4-rules-to-make-mysql-indexes-blazing-fast-1jn5)
+- [🕒 Contest Clocker – Never Miss a Coding Contest Again 🚀](https://dev.to/aakash_kumar_208c122ebbba/contest-clocker-never-miss-a-coding-contest-again-54ic)
+- [Stormkit v1.25.0 is out 🚀
+
+New feature: User sign-up management. Admins can now enable/disable new sign-ups or set approval mode to moderate registrations.
+
+Read more: https://www.stormkit.io/docs/self-hosting/managing-users](https://dev.to/svedova/stormkit-v1250-is-out-new-feature-user-sign-up-management-admins-can-now-enabledisable-186j)
+- [I created GoalHappy, the simplest task manager for developers](https://dev.to/rehmatworks/i-created-goalhappy-the-simplest-task-manager-for-developers-3ngj)
+- [Is SQL Injection dead in 2025? Finding Critical Bugs in Item Pagination](https://dev.to/icyyy/is-sql-injection-dead-in-2025-finding-critical-bugs-in-item-pagination-1f6a)
+- [How I Finally Fixed My .gitignore &lpar;and Ended Up Writing an Extension&rpar;](https://dev.to/jasong/how-i-finally-fixed-my-gitignore-and-ended-up-writing-an-extension-34ne)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
