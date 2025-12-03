@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What Are Patterns in JDP?](https://dev.to/mohantammineni/what-are-patterns-in-jdp-2p6m)
-- [Why Writing About Your Failures Helps Others Ship Faster](https://dev.to/leena_malhotra/why-writing-about-your-failures-helps-others-ship-faster-3h8)
-- [Don&#39;t let your bundles go Overweight](https://dev.to/poeticgeek/dont-let-your-bundles-go-overweight-469o)
-- [Task Sequence for Software Development: How To Keep Remote Teams in Sync](https://dev.to/taskford/task-sequence-for-software-development-how-to-keep-remote-teams-in-sync-4p0n)
-- [The AI Tools Nobody Builds &lpar;But Every Developer Secretly Needs&rpar;](https://dev.to/notadevbuthere/the-ai-tools-nobody-builds-but-every-developer-secretly-needs-4bid)
+- [Becoming full stack developer](https://dev.to/ujjawal_patel_9baa51e6bf5/becoming-full-stack-developer-58g9)
+- [Other languages than English in code](https://dev.to/xwero/other-languages-than-english-in-code-5181)
+- [Agentic AI in Development](https://dev.to/pranav_s_5b1ec7cc447dcdcc/agentic-ai-in-development-3oaf)
+- [Product adoption tools suck so me and my homies built Flows](https://dev.to/vojtechvidra/product-adoption-tools-suck-so-me-and-my-homies-built-flows-2ip9)
+- [Is Your App Really Stable? Here’s How to Find Out](https://dev.to/olivia-john/is-your-app-really-stable-heres-how-to-find-out-3g43)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
