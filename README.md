@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [DoodleMates: Building a Multimodal Creature Generator](https://dev.to/3m/doodlemates-building-a-multimodal-creature-generator-500)
+- [The Session Protocol: How I Fixed AI Memory Loss with a TODO.md](https://dev.to/eddieajau/the-session-protocol-how-i-fixed-ai-memory-loss-with-a-todomd-2b4g)
+- [Kubernetes Autoscaling Showdown: HPA vs. VPA vs. Karpenter vs. KEDA](https://dev.to/mechcloud_academy/kubernetes-autoscaling-showdown-hpa-vs-vpa-vs-karpenter-vs-keda-9b1)
 - [File Upload Security Issues](https://dev.to/godofgeeks/file-upload-security-issues-4pho)
 - [Summary of the error &quot;Cannot find module &#39;function qt&lpar;e={}&rpar;...&#39;&quot; that occurs when using Tailwind CSS v4 + Vite](https://dev.to/kazutora_hattori_66972c88/summary-of-the-error-cannot-find-module-function-qte-that-occurs-when-using-tailwind-20ch)
-- [Blazor in .NET 10: The Features That Actually Matter](https://dev.to/mashrulhaque/blazor-in-net-10-the-features-that-actually-matter-nc1)
-- [Understanding GEO — And How It’s Different From SEO](https://dev.to/syed_aslam_8686be65c69ff8/understanding-geo-and-how-its-different-from-seo-2glh)
-- [30 HTML Form Attributes You’re Not Using &lpar;But Should&rpar;](https://dev.to/web_dev-usman/30-html-form-attributes-youre-not-using-but-should-380b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
