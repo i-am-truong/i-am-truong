@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Got Tired of Tab-Switching for Simple Calculations, So I Built This](https://dev.to/techyowls_d6ddaf9b6de327f/i-got-tired-of-tab-switching-for-simple-calculations-so-i-built-this-5984)
-- [Update on my Kiroween project 🎃](https://dev.to/hellocaleb/update-on-my-kiroween-project-c3l)
-- [ChatGPT Search Just Changed SEO &lpar;And Most Guides Are Already Wrong&rpar;](https://dev.to/synergistdigitalmedia/chatgpt-search-just-changed-seo-and-most-guides-are-already-wrong-2dik)
-- [**Technical AI in Advertisement Challenge: &quot;Dynamic Ad Place](https://dev.to/drcarlosruizviquez/technical-ai-in-advertisement-challenge-dynamic-ad-place-le2)
-- [Using Codex &amp; Claude Code in a Real Task: A Practical Coding Example &lpar;2026&rpar;](https://dev.to/clickit_devops/using-codex-claude-code-in-a-real-task-a-practical-coding-example-2026-4l8j)
+- [Top 10 Must-Have Tools for Freelance Content Writers in 2026](https://dev.to/nnash/top-10-must-have-tools-for-freelance-content-writers-in-2026-1lp1)
+- [I Built a Codebase Graph Viewer to Understand My System’s True Shape](https://dev.to/jenilsavani_/i-built-a-codebase-graph-viewer-to-understand-my-systems-true-shape-1laf)
+- [Oxlint x Prettier: The Modern Approach to Starting Your JavaScript Project](https://dev.to/dmnchzl/oxlint-x-prettier-the-modern-approach-to-starting-your-javascript-project-3p1h)
+- [Hunting Coyote: A Full Analysis of the 0LIONW0 AutoIt3 RAT](https://dev.to/malisipi/hunting-coyote-a-full-analysis-of-the-0lionw0-autoit3-rat-13l4)
+- [Setting Up Vitest + React Testing Library](https://dev.to/sheikhlimon/setting-up-vitest-react-testing-library-jj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
