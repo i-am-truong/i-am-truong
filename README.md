@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From Prompts to Autonomous Ecosystems: My Learning Journey in the 5-Day Google x Kaggle AI Agents Intensive](https://dev.to/manoj_mallick_71d0dd7eaa6/from-prompts-to-autonomous-ecosystems-my-learning-journey-in-the-5-day-google-x-kaggle-ai-agents-oh4)
 - [Sharpen Your Coding Skills with 25 Daily JavaScript and Python Challenges 🎅 AdventJS 2025](https://dev.to/midudev/sharpen-your-coding-skills-with-25-daily-javascript-and-python-challenges-adventjs-2025-dhk)
 - [New Relic - CPU usage &lpar;%&rpar; and Load Average](https://dev.to/aws-heroes/new-relic-cpu-usage-and-load-average-3o4)
+- [AI doesn&#39;t make typos, I do &lpar;and I&#39;m learning&rpar;: My raw notes from the Google Agents Challenge](https://dev.to/mauricio_rodrguez_25d0bc/ai-doesnt-make-typos-i-do-and-im-learning-my-raw-notes-from-the-google-agents-challenge-4i8m)
 - [GoLang та Казино Аналітика: Будуємо Прибуткові Звіти в Реальному Часі](https://dev.to/4mars/golang-ta-kazino-analitika-buduiemo-pributkovi-zviti-v-riealnomu-chasi-3gb5)
-- [Instagram Collabs 2.0: What Changed and Why You Should Actually Care](https://dev.to/synergistdigitalmedia/instagram-collabs-20-what-changed-and-why-you-should-actually-care-1e9h)
-- [Concorrência, paralelismo e IA em produção: como reduzir a latência de endpoints de 40s para 8s](https://dev.to/vinidev/concorrencia-paralelismo-e-ia-em-producao-como-reduzir-a-latencia-de-endpoints-de-40s-para-8s-2ge2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
