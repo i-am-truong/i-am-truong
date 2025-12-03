@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Beyond Chatbots: My First Steps into the World of AI Agents](https://dev.to/md_shahariarsiam_c9380d/beyond-chatbots-my-first-steps-into-the-world-of-ai-agents-2i80)
+- [create12](https://dev.to/query_filter_591122b53770/create12-3dko)
+- [What can I build with Notte?](https://dev.to/nottelabs/what-can-i-build-with-notte-2e7b)
+- [create11](https://dev.to/query_filter_591122b53770/create11-4aab)
 - [Why I Built GymDose: A Simple Supplement Tracker for Real Fitness Journeys](https://dev.to/baransel/why-i-built-gymdose-a-simple-supplement-tracker-for-real-fitness-journeys-59i5)
-- [Building Healthcare-Grade Multi-Agent Systems with Gemini](https://dev.to/disleve_kanku_110be436f91/building-healthcare-grade-multi-agent-systems-with-gemini-1ken)
-- [create10](https://dev.to/query_filter_591122b53770/create10-bef)
-- [AWS Lambda Durable Functions: Build Workflows That Last](https://dev.to/aws/aws-lambda-durable-functions-build-workflows-that-last-3ac7)
-- [My AI Agents Intensive Journey: Learning, Building, and Reflecting](https://dev.to/abdulla_al_noman/my-ai-agents-intensive-journey-learning-building-and-reflecting-1nhh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
