@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Academic Research to Production-Ready AI Governance: Building the Intelligent Rate Limiting System](https://dev.to/lfariaus/from-academic-research-to-production-ready-ai-governance-building-the-intelligent-rate-limiting-59c9)
-- [AI-Powered Digital Product Ideas: 15 Offers You Can Launch This Month](https://dev.to/prateekshaweb/ai-powered-digital-product-ideas-15-offers-you-can-launch-this-month-52ll)
-- [From QA to Full-Stack: Building a Decoupled Django/React App for the AroAce Community](https://dev.to/itisdouglas/from-qa-to-full-stack-building-a-decoupled-djangoreact-app-for-the-aroace-community-4oec)
-- [Advent of AI 2025 - Day 2: Building a Winter Festival Game](https://dev.to/nickytonline/advent-of-ai-2025-day-2-building-a-winter-festival-game-41eg)
-- [Agile, Scalable APIs &amp; Python](https://dev.to/adrianovieira/agile-scalable-apis-python-2ma)
+- [Stop Practicing with Random Words: How to Set Up an Offline &quot;Writing Dojo&quot; with TypeMaster](https://dev.to/nitiksh/stop-practicing-with-random-words-how-to-set-up-an-offline-writing-dojo-with-typemaster-250l)
+- [I Built a Mini ChatGPT in Just 10 Lines Using LangChain &lpar;Part 1&rpar;](https://dev.to/ashish_ghadigaonkar_/i-built-a-mini-chatgpt-in-just-10-lines-using-langchain-part-1-4io3)
+- [My Experience with Azure Certification Renewal: Key Topics, Sample Questions, and Tips](https://dev.to/kailashnirmal/my-experience-with-azure-certification-renewal-key-topics-sample-questions-and-tips-5h90)
+- [PrestaShop Validator: Ensure Quality](https://dev.to/ndabene/prestashop-validator-ensure-quality-349g)
+- [Git Alias: Rescue Commits from the Wrong Branch](https://dev.to/ax_sh/git-alias-rescue-commits-from-the-wrong-branch-104o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
