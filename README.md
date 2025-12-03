@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 Must-Have Tools for Freelance Content Writers in 2026](https://dev.to/nnash/top-10-must-have-tools-for-freelance-content-writers-in-2026-1lp1)
-- [I Built a Codebase Graph Viewer to Understand My System’s True Shape](https://dev.to/jenilsavani_/i-built-a-codebase-graph-viewer-to-understand-my-systems-true-shape-1laf)
-- [Oxlint x Prettier: The Modern Approach to Starting Your JavaScript Project](https://dev.to/dmnchzl/oxlint-x-prettier-the-modern-approach-to-starting-your-javascript-project-3p1h)
-- [Hunting Coyote: A Full Analysis of the 0LIONW0 AutoIt3 RAT](https://dev.to/malisipi/hunting-coyote-a-full-analysis-of-the-0lionw0-autoit3-rat-13l4)
-- [Setting Up Vitest + React Testing Library](https://dev.to/sheikhlimon/setting-up-vitest-react-testing-library-jj)
+- [What are the benefits of agile development for early-stage products?](https://dev.to/it-influencer/what-are-the-benefits-of-agile-development-for-early-stage-products-5cde)
+- [How I Turned Simple Prompts Into Scroll-Stopping Brand Videos Using AI](https://dev.to/nnash/how-i-turned-simple-prompts-into-scroll-stopping-brand-videos-using-ai-53oa)
+- [The day I became a Programmer: tales of a DevOps Engineer with Impostor Syndrome](https://dev.to/sbotto/the-day-i-became-a-programmer-tales-of-a-devops-engineer-with-impostor-syndrome-55a0)
+- [How can you make website feel like a native app?](https://dev.to/it-influencer/how-can-you-make-website-feel-like-a-native-app-21hj)
+- [What are the advantages of progressive web apps for mobile commerce?](https://dev.to/it-influencer/what-are-the-advantages-of-progressive-web-apps-for-mobile-commerce-1b0c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
