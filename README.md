@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Simple Forwarding – Practical Content Safety in AI Gateways](https://dev.to/spacewander/beyond-simple-forwarding-practical-content-safety-in-ai-gateways-545a)
-- [OTP email verification and password reset](https://dev.to/prudkohliad/otp-email-verification-and-password-reset-20pi)
-- [Make your AI prompts collaborative with VS Code and Promptitude](https://dev.to/onepoint/make-your-ai-prompts-collaborative-with-vs-code-and-promptitude-1f7)
-- [Build a Chrome Extension with React, TypeScript and Vite](https://dev.to/nefayran/build-a-chrome-extension-with-react-typescript-and-vite-31ho)
-- [The AI Boom Has a $5 Trillion Problem](https://dev.to/icybergenome_34/the-ai-boom-has-a-5-trillion-problem-2fcj)
+- [𝗤𝘂𝗶𝗲𝘁 𝗟𝗲𝗮𝗱𝗲𝗿𝘀𝗵𝗶𝗽 𝗪𝗶𝗻𝘀](https://dev.to/supraja_tangella_b7f0738e/-4m1f)
+- [Top 3 Gifts for That One Friend Who Won’t Shut Up About Crypto 🎁🚀](https://dev.to/tanelith/top-3-gifts-for-that-one-friend-who-wont-shut-up-about-crypto-1jmo)
+- [Julia Kasper – Rewetting peatlands is the biggest climate opportunity to cut CO2](https://dev.to/ogcr/julia-kasper-rewetting-peatlands-is-the-biggest-climate-opportunity-to-cut-co2-47dm)
+- [Principais eventos de TI no Brasil em 2026: South Summit, Web Summit Rio e Gramado Summit](https://dev.to/katarina/principais-eventos-de-ti-no-brasil-em-2026-south-summit-web-summit-rio-e-gramado-summit-1m33)
+- [The Role of Excel in Business Intelligence&lpar;BI&rpar; and Data Driven Decision-Making](https://dev.to/esther_bekeh_c7b219540e7e/the-role-of-excel-in-business-intelligencebi-and-data-driven-decision-making-56o7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
