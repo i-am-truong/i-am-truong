@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Build a Vision AI Agent with Gemini 3 in &lt; 3 Minutes](https://dev.to/getstreamhq/build-a-vision-ai-agent-with-gemini-3-in-3-minutes-4omh)
-- [Generate Dynamic Avatar &amp; Styled QR Code Using Simple URL &lpar;No Libraries Needed&rpar;](https://dev.to/zororaka/generate-dynamic-avatar-styled-qr-codes-using-simple-url-no-libraries-needed-4fij)
-- [How to get Python/Cloud/Java/DevOps/Admin job in this crazy market?](https://dev.to/aws-builders/how-to-get-pythoncloudjavadevopsadmin-job-in-this-crazy-market-1ldj)
-- [The End of &quot;Vibe Coding&quot;: Why Spec-Driven Development is the Future](https://dev.to/gara501/the-end-of-vibe-coding-why-spec-driven-development-is-the-future-3hpa)
-- [My 30 Favorite Tools as a Fractional CTO for 2026](https://dev.to/willbarrett/my-30-favorite-tools-as-a-fractional-cto-for-2026-29pl)
+- [I Got Tired of Tab-Switching for Simple Calculations, So I Built This](https://dev.to/techyowls_d6ddaf9b6de327f/i-got-tired-of-tab-switching-for-simple-calculations-so-i-built-this-5984)
+- [Update on my Kiroween project 🎃](https://dev.to/hellocaleb/update-on-my-kiroween-project-c3l)
+- [ChatGPT Search Just Changed SEO &lpar;And Most Guides Are Already Wrong&rpar;](https://dev.to/synergistdigitalmedia/chatgpt-search-just-changed-seo-and-most-guides-are-already-wrong-2dik)
+- [**Technical AI in Advertisement Challenge: &quot;Dynamic Ad Place](https://dev.to/drcarlosruizviquez/technical-ai-in-advertisement-challenge-dynamic-ad-place-le2)
+- [Using Codex &amp; Claude Code in a Real Task: A Practical Coding Example &lpar;2026&rpar;](https://dev.to/clickit_devops/using-codex-claude-code-in-a-real-task-a-practical-coding-example-2026-4l8j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
