@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Quick Start: Eleventy Shortcodes for Responsive Images &amp; Inline SVG](https://dev.to/quesby/quick-start-eleventy-shortcodes-for-responsive-images-inline-svg-2pad)
-- [From Default to Custom: Handling Errors in Django Like a Pro](https://dev.to/guzmanojero/from-default-to-custom-handling-errors-in-django-like-a-pro-3mbb)
-- [B-Trees, Pages, and the Hidden Problems Behind Traditional Indexin](https://dev.to/lovestaco/b-trees-pages-and-the-hidden-problems-behind-traditional-indexin-75p)
-- [WooCommerce Settings Explained](https://dev.to/arsalanmeee/woocommerce-settings-explained-1ai3)
-- [The Pitfall of Increasing Read Capacity by Reading From Secondary Nodes in a MongoDB Replica Set](https://dev.to/arturgc/the-pitfall-of-increasing-read-capacity-by-reading-from-secondary-nodes-in-a-mongodb-replica-set-49cn)
+- [AI Agents Intensive Course Writing Challenge with Google and Kaggle: Deadline Extended](https://dev.to/devteam/ai-agents-intensive-course-writing-challenge-with-google-and-kaggle-deadline-extended-324d)
+- [Tenis On Cloud: Why These Shoes Are Leading Comfort and Performance in 2025](https://dev.to/oncloud/tenis-on-cloud-why-these-shoes-are-leading-comfort-and-performance-in-2025-4pfl)
+- [Tainting the kernel](https://dev.to/adam_weber_6dc0d5bd752326/tainting-the-kernel-2cgh)
+- [Leadership, Mindset, and the Path to Self-Mastery](https://dev.to/joshua_moll_188939cfe7314/leadership-mindset-and-the-path-to-self-mastery-2ac)
+- [Quantum Feature Sculpting: Carving Hidden Insights from Noisy Data by Arvind Sundararajan](https://dev.to/arvind_sundararajan/quantum-feature-sculpting-carving-hidden-insights-from-noisy-data-by-arvind-sundararajan-4nec)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
