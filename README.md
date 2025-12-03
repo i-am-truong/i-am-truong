@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Add a security.txt File to Your Website in 5 Minutes &lpar;With a Generator&rpar;](https://dev.to/roxroy/how-to-add-a-securitytxt-file-to-your-website-in-5-minutes-with-a-generator-2ik7)
-- [Code, Customers &amp; Conversion: Deconstructing 7 B2B SaaS Video Testimonials](https://dev.to/michaelaiglobal/code-customers-conversion-deconstructing-7-b2b-saas-video-testimonials-2fbg)
-- [SQS Fair Queues with AWS EventBridge](https://dev.to/slootjes/sqs-fair-queues-with-aws-eventbridge-58i2)
-- [How I built a RAG-powered Anime Recommendation Engine with Python &amp; FastAPI &lpar;Open Sourcing the Journey&rpar;](https://dev.to/divyanshusingh96/how-i-built-a-rag-powered-anime-recommendation-engine-with-python-fastapi-open-sourcing-the-11mg)
-- [I Used to Be a Toxic Code Reviewer. Here&#39;s How AI Fixed My Feedback Loop.](https://dev.to/huizhudev/i-used-to-be-a-toxic-code-reviewer-heres-how-ai-fixed-my-feedback-loop-33c4)
+- [The End of &quot;Vibe Coding&quot;: Why Spec-Driven Development is the Future](https://dev.to/gara501/the-end-of-vibe-coding-why-spec-driven-development-is-the-future-3hpa)
+- [My 30 Favorite Tools as a Fractional CTO for 2026](https://dev.to/willbarrett/my-30-favorite-tools-as-a-fractional-cto-for-2026-29pl)
+- [Flexible CRUD and Role-Based Middleware in NestJS](https://dev.to/devops-make-it-run/flexible-crud-and-role-based-middleware-in-nestjs-2ebb)
+- [BUILD YOUR FIRST SPRING BOOT&lpar;KOTLIN&rpar; BACK-END](https://dev.to/prabhuls/build-your-first-spring-bootkotlin-back-end-54jp)
+- [Training Large Reasoning Models](https://dev.to/centaurai/training-large-reasoning-models-1pce)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
