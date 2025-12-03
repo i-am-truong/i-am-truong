@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Sharpen Your Coding Skills with 25 Daily JavaScript and Python Challenges 🎅 AdventJS 2025](https://dev.to/midudev/sharpen-your-coding-skills-with-25-daily-javascript-and-python-challenges-adventjs-2025-dhk)
+- [New Relic - CPU usage &lpar;%&rpar; and Load Average](https://dev.to/aws-heroes/new-relic-cpu-usage-and-load-average-3o4)
+- [GoLang та Казино Аналітика: Будуємо Прибуткові Звіти в Реальному Часі](https://dev.to/4mars/golang-ta-kazino-analitika-buduiemo-pributkovi-zviti-v-riealnomu-chasi-3gb5)
 - [Instagram Collabs 2.0: What Changed and Why You Should Actually Care](https://dev.to/synergistdigitalmedia/instagram-collabs-20-what-changed-and-why-you-should-actually-care-1e9h)
 - [Concorrência, paralelismo e IA em produção: como reduzir a latência de endpoints de 40s para 8s](https://dev.to/vinidev/concorrencia-paralelismo-e-ia-em-producao-como-reduzir-a-latencia-de-endpoints-de-40s-para-8s-2ge2)
-- [Como recuperar autonomia quando a solução chega pronta](https://dev.to/thethinkingengineer/como-recuperar-autonomia-quando-a-solucao-chega-pronta-41mn)
-- [The Lie of the Global Average: Why Taming Complex SLIs Requires Bucketing](https://dev.to/parthibanrajasekaran/the-lie-of-the-global-average-why-taming-complex-slis-requires-bucketing-4mfg)
-- [KCL For Managing Infraestructure as Data](https://dev.to/segoja7/kcl-for-managing-infraestructure-as-data-n7a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
