@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [**Challenge:** &quot;Evaluating the Cognitive Limitations of Larg](https://dev.to/drcarlosruizviquez/challenge-evaluating-the-cognitive-limitations-of-larg-41a0)
+- [Jenkins na AWS + Docker](https://dev.to/scussel/jenkins-na-aws-docker-2fgf)
+- [Anthropic Bought Bun: Here&#39;s What It Really Means for Us](https://dev.to/arjuncodess/anthropic-bought-bun-heres-what-it-really-means-for-us-kj2)
 - [From 30 Minutes to 4 - How EBS Volume Cloning Transformed Our CI Pipeline](https://dev.to/eladh/from-30-minutes-to-4-how-ebs-volume-cloning-transformed-our-ci-pipeline-2b1o)
-- [AdTech Strategy [2025 Guide]: The D2C Blueprint for Scale](https://dev.to/getkoro_app/adtech-strategy-2025-guide-the-d2c-blueprint-for-scale-4o0c)
 - [Making My React Native App Work Offline [MyNextHome]](https://dev.to/cathylai/building-offline-first-sync-in-react-native-a-practical-approach-mynexthome-4im6)
-- [report3](https://dev.to/query_filter_591122b53770/report3-22nd)
+- [Building scalable backends for Swift mobile apps](https://dev.to/gadget/building-scalable-backends-for-swift-mobile-apps-15c4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
