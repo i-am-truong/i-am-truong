@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Finding yourself spending lot of time on X/Twitter? Try my browser extension Xwatch](https://dev.to/subucodes/finding-yourself-spending-lot-of-time-on-xtwitter-try-my-browser-extension-xwatch-ho5)
-- [Why n8n — The Next-Gen Automation Engine](https://dev.to/hasanmonsur/why-n8n-the-next-gen-automation-engine-38hc)
-- [Opinion on weird system design](https://dev.to/megrajchauhan/opinion-on-weird-system-design-18a5)
-- [Data Pipeline Tools Compared: Key Criteria to Pick the Right One](https://dev.to/vladam/data-pipeline-tools-compared-key-criteria-to-pick-the-right-one-2ele)
-- [Service Granularity: When Is a Microservice Really “Micro”?](https://dev.to/knowis/service-granularity-when-is-a-microservice-really-micro-36aa)
+- [The Pipeline Framework is out](https://dev.to/mbarcia/the-pipeline-framework-is-out-70f)
+- [Why I stopped using &quot;Project Folders&quot; for Hardware R&amp;D &lpar;and built a Mesh system instead&rpar;](https://dev.to/elielabs/why-i-stopped-using-project-folders-for-hardware-rd-and-built-a-mesh-system-instead-em7)
+- [Transformers.js e a era da Inteligência Artificial descentralizada](https://dev.to/wgbn/transformersjs-e-a-era-da-inteligencia-artificial-descentralizada-3bab)
+- [IAM - Identity Acess Management &lpar;Part 1&rpar;](https://dev.to/jeyy/iam-identity-acess-management-part-1-54na)
+- [AI Regulation News Today: Key Updates and Global Trends](https://dev.to/techdecodedly/ai-regulation-news-today-key-updates-and-global-trends-3acn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
