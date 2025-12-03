@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SwiftUI Performance Optimization — Smooth UIs, Less Recomputing](https://dev.to/sebastienlato/swiftui-performance-optimization-smooth-uis-less-recomputing-422k)
-- [open-source non-caching web proxy - Privoxy](https://dev.to/kingyou/open-source-non-caching-web-proxy-privoxy-4bin)
-- [Product Market Fit in the Age of Instant Prototypes](https://dev.to/jaideepparashar/product-market-fit-in-the-age-of-instant-prototypes-3iac)
-- [Huge RAM Price Surge in 2025: 163-275% and more...](https://dev.to/rosgluk/huge-ram-price-surge-in-2025-163-275-and-more-55ne)
-- [How to Add Text Watermarks to PowerPoint Presentations using Java](https://dev.to/lu_liu_e3fc806354d9a952b7/how-to-add-text-watermarks-to-powerpoint-presentations-using-java-2bd2)
+- [Stop Wasting Time on Nitpicks: Automating PR Reviews published](https://dev.to/allenz_1011/stop-wasting-time-on-nitpicks-automating-pr-reviews-published-3a7)
+- [A Complete Introduction to C# — The Modern, Powerful, Multi-Paradigm Language for Developers](https://dev.to/farhadrahimiklie/a-complete-introduction-to-c-the-modern-powerful-multi-paradigm-language-for-developers-116j)
+- [AWS Lambda Durable Function: Is the Orchestration Problem Finally Solved?](https://dev.to/vamartinez/aws-lambda-durable-function-is-the-orchestration-problem-finally-solved-1e60)
+- [The Architecture of Implicit Messaging: Implementing Raw CIP I/O in Python](https://dev.to/philyeh/the-architecture-of-implicit-messaging-implementing-raw-cip-io-in-python-1o0c)
+- [Building NecroOS: A Horror-Themed Windows 95 Simulator with Kiro AI](https://dev.to/abinjith_tk_e85889d1609a4/building-necroos-a-horror-themed-windows-95-simulator-with-kiro-ai-3m4d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
