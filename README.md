@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A small friction I finally removed](https://dev.to/dsmurrell/a-small-friction-i-finally-removed-ida)
+- [VulnForge: Probably One of the Hardest Damn Local Web Apps To Fully Crack](https://dev.to/0x57origin/vulnforge-probably-one-of-the-hardest-damn-local-web-apps-to-fully-crack-4544)
+- [Bundling without a bundler with esm.sh](https://dev.to/louwers/bundling-without-a-bundler-with-esmsh-3c2k)
+- [Coding Challenge Practice - Question 70](https://dev.to/tomivan/coding-challenge-practice-question-70-ceb)
 - [Set-and-Forget Git Privacy in 5 Minutes: Auto-Switch No-Reply Emails for GitHub/GitLab](https://dev.to/anydigital/set-and-forget-git-privacy-in-5-minutes-auto-switch-no-reply-emails-for-githubgitlab-2a4a)
-- [cursor2](https://dev.to/query_filter_591122b53770/cursor2-3fag)
-- [7 Free React Challenges You Should Complete Before a Frontend Interview](https://dev.to/duffmancc/7-free-react-challenges-you-should-complete-before-a-frontend-interview-3ege)
-- [How to Build a Voice Bot for Car Dealerships Using VAPI](https://dev.to/callstacktech/how-to-build-a-voice-bot-for-car-dealerships-using-vapi-19l0)
-- [The Night Kubernetes Almost Made Me Quit DevOps Forever](https://dev.to/arbythecoder/the-night-kubernetes-almost-made-me-quit-devops-forever-4248)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
