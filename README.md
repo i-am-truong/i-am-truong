@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Chatbots: My First Steps into the World of AI Agents](https://dev.to/md_shahariarsiam_c9380d/beyond-chatbots-my-first-steps-into-the-world-of-ai-agents-2i80)
-- [create12](https://dev.to/query_filter_591122b53770/create12-3dko)
-- [What can I build with Notte?](https://dev.to/nottelabs/what-can-i-build-with-notte-2e7b)
-- [create11](https://dev.to/query_filter_591122b53770/create11-4aab)
-- [Why I Built GymDose: A Simple Supplement Tracker for Real Fitness Journeys](https://dev.to/baransel/why-i-built-gymdose-a-simple-supplement-tracker-for-real-fitness-journeys-59i5)
+- [Set-and-Forget Git Privacy in 5 Minutes: Auto-Switch No-Reply Emails for GitHub/GitLab](https://dev.to/anydigital/set-and-forget-git-privacy-in-5-minutes-auto-switch-no-reply-emails-for-githubgitlab-2a4a)
+- [cursor2](https://dev.to/query_filter_591122b53770/cursor2-3fag)
+- [7 Free React Challenges You Should Complete Before a Frontend Interview](https://dev.to/duffmancc/7-free-react-challenges-you-should-complete-before-a-frontend-interview-3ege)
+- [How to Build a Voice Bot for Car Dealerships Using VAPI](https://dev.to/callstacktech/how-to-build-a-voice-bot-for-car-dealerships-using-vapi-19l0)
+- [The Night Kubernetes Almost Made Me Quit DevOps Forever](https://dev.to/arbythecoder/the-night-kubernetes-almost-made-me-quit-devops-forever-4248)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
