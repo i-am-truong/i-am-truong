@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Secret Life of Python: super&lpar;&rpar; and the Method Resolution Order](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-super-and-the-method-resolution-order-1jdg)
-- [Stop Practicing with Random Words: How to Set Up an Offline &quot;Writing Dojo&quot; with TypeMaster](https://dev.to/nitiksh/stop-practicing-with-random-words-how-to-set-up-an-offline-writing-dojo-with-typemaster-250l)
-- [I Built a Mini ChatGPT in Just 10 Lines Using LangChain &lpar;Part 1&rpar;](https://dev.to/ashish_ghadigaonkar_/i-built-a-mini-chatgpt-in-just-10-lines-using-langchain-part-1-4io3)
-- [My Experience with Azure Certification Renewal: Key Topics, Sample Questions, and Tips](https://dev.to/kailashnirmal/my-experience-with-azure-certification-renewal-key-topics-sample-questions-and-tips-5h90)
-- [PrestaShop Validator: Ensure Quality](https://dev.to/ndabene/prestashop-validator-ensure-quality-349g)
+- [Next.js + Supabase Project Structure for Indie Development](https://dev.to/pipipi-dev/nextjs-supabase-project-structure-for-indie-development-36od)
+- [The Future of Data Engineering: Automation, AI, and Code-Free Solutions](https://dev.to/riparna_roychowdhury_0d2/the-future-of-data-engineering-automation-ai-and-code-free-solutions-jbd)
+- [Introducing Uatu - An AI-Powered System Troubleshooting](https://dev.to/mfund0/introducing-uatu-an-ai-powered-system-troubleshooting-5a84)
+- [We Open-Sourced Our Marketing Playbook—Feel Free to Steal It, Sell It, or Feed It to Your AI](https://dev.to/alexandru_danieldimitres/we-open-sourced-our-marketing-playbook-feel-free-to-steal-it-sell-it-or-feed-it-to-your-ai-3ff1)
+- [LLM Reasoning: Why Models Hallucinate and how to reduce it?](https://dev.to/zeroshotanu/llm-reasoning-why-models-hallucinate-and-how-to-reduce-it-2joo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
