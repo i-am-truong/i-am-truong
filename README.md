@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Build a Vision AI Agent with Gemini 3 in &lt; 3 Minutes](https://dev.to/getstreamhq/build-a-vision-ai-agent-with-gemini-3-in-3-minutes-4omh)
+- [Generate Dynamic Avatar &amp; Styled QR Code Using Simple URL &lpar;No Libraries Needed&rpar;](https://dev.to/zororaka/generate-dynamic-avatar-styled-qr-codes-using-simple-url-no-libraries-needed-4fij)
+- [How to get Python/Cloud/Java/DevOps/Admin job in this crazy market?](https://dev.to/aws-builders/how-to-get-pythoncloudjavadevopsadmin-job-in-this-crazy-market-1ldj)
 - [The End of &quot;Vibe Coding&quot;: Why Spec-Driven Development is the Future](https://dev.to/gara501/the-end-of-vibe-coding-why-spec-driven-development-is-the-future-3hpa)
 - [My 30 Favorite Tools as a Fractional CTO for 2026](https://dev.to/willbarrett/my-30-favorite-tools-as-a-fractional-cto-for-2026-29pl)
-- [Flexible CRUD and Role-Based Middleware in NestJS](https://dev.to/devops-make-it-run/flexible-crud-and-role-based-middleware-in-nestjs-2ebb)
-- [BUILD YOUR FIRST SPRING BOOT&lpar;KOTLIN&rpar; BACK-END](https://dev.to/prabhuls/build-your-first-spring-bootkotlin-back-end-54jp)
-- [Training Large Reasoning Models](https://dev.to/centaurai/training-large-reasoning-models-1pce)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
