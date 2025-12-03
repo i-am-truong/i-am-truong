@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Importance Of Web Application Performance](https://dev.to/ishikha_rao/the-importance-of-web-application-performance-158e)
-- [Bun is joining Anthropic 🔥](https://dev.to/random_ti/bun-is-joining-anthropic-2k19)
-- [How to Stay Online with High-Speed Internet While Traveling?](https://dev.to/sidra-jefferi/how-to-stay-online-with-high-speed-internet-while-traveling-4mfn)
-- [Mastering Agentic AI Orchestration: Managing Multi-Agent Systems](https://dev.to/ioweb_961ddefd53bd65fce97/mastering-agentic-ai-orchestration-managing-multi-agent-systems-5c1)
-- [Why Most Junior Developers Will Struggle in the AI Era](https://dev.to/roshaan_tahir/why-most-junior-developers-will-struggle-in-the-ai-era-47fp)
+- [File Upload Security Issues](https://dev.to/godofgeeks/file-upload-security-issues-4pho)
+- [Summary of the error &quot;Cannot find module &#39;function qt&lpar;e={}&rpar;...&#39;&quot; that occurs when using Tailwind CSS v4 + Vite](https://dev.to/kazutora_hattori_66972c88/summary-of-the-error-cannot-find-module-function-qte-that-occurs-when-using-tailwind-20ch)
+- [Blazor in .NET 10: The Features That Actually Matter](https://dev.to/mashrulhaque/blazor-in-net-10-the-features-that-actually-matter-nc1)
+- [Understanding GEO — And How It’s Different From SEO](https://dev.to/syed_aslam_8686be65c69ff8/understanding-geo-and-how-its-different-from-seo-2glh)
+- [30 HTML Form Attributes You’re Not Using &lpar;But Should&rpar;](https://dev.to/web_dev-usman/30-html-form-attributes-youre-not-using-but-should-380b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
