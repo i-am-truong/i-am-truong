@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Zero-Downtime Rollbacks in Kubernetes with ArgoCD – A Practical GitOps Lifesaver](https://dev.to/srinivasamcjf/zero-downtime-rollbacks-in-kubernetes-with-argocd-a-practical-gitops-lifesaver-1hbi)
-- [How to use IP2Location.io API in Anaconda Code](https://dev.to/ip2location/how-to-use-ip2locationio-api-in-anaconda-code-bof)
-- [Why abstractions are good](https://dev.to/cartmann68/why-abstractions-are-good-jim)
-- [Taming the Container Beast: A Developer&#39;s Guide to Debugging Django in Docker](https://dev.to/mcheremnov/taming-the-container-beast-a-developers-guide-to-debugging-django-in-docker-2g01)
-- [What DRY actually means](https://dev.to/cartmann68/what-dry-actually-means-3ngj)
+- [What Are Patterns in JDP?](https://dev.to/mohantammineni/what-are-patterns-in-jdp-2p6m)
+- [Why Writing About Your Failures Helps Others Ship Faster](https://dev.to/leena_malhotra/why-writing-about-your-failures-helps-others-ship-faster-3h8)
+- [Don&#39;t let your bundles go Overweight](https://dev.to/poeticgeek/dont-let-your-bundles-go-overweight-469o)
+- [Task Sequence for Software Development: How To Keep Remote Teams in Sync](https://dev.to/taskford/task-sequence-for-software-development-how-to-keep-remote-teams-in-sync-4p0n)
+- [The AI Tools Nobody Builds &lpar;But Every Developer Secretly Needs&rpar;](https://dev.to/notadevbuthere/the-ai-tools-nobody-builds-but-every-developer-secretly-needs-4bid)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
