@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Intelligent, Metadata-Driven Pipelines with Azure Data Factory](https://dev.to/agileactors/building-intelligent-metadata-driven-pipelines-with-azure-data-factory-3n8m)
-- [How to Build an AI WhatsApp Voice Agent with VideoSDK: Step-by-Step Guide](https://dev.to/chaitrali_kakde/how-to-build-an-ai-whatsapp-voice-agent-with-videosdk-step-by-step-guide-2o6l)
-- [Serverless Made Simple: Automating Workflows with AWS Lambda, EventBridge &amp; DynamoDB](https://dev.to/sudoconsultants/serverless-made-simple-automating-workflows-with-aws-lambda-eventbridge-dynamodb-22f0)
-- [Haunted Code &amp; Spec-Driven Dreams: How Kiro Built My Spooky Time Machine!](https://dev.to/likheet/haunted-code-spec-driven-dreams-how-kiro-built-my-spooky-time-machine-48n0)
-- [Your IPv4 Addresses Are Probably Worth More Than You Think](https://dev.to/kohanevich/your-ipv4-addresses-are-probably-worth-more-than-you-think-486o)
+- [Bali Tour Package from Kolkata with Affordable Sightseeing and Adventure Plans](https://dev.to/lily_brown_9a282a38259a17/bali-tour-package-from-kolkata-with-affordable-sightseeing-and-adventure-plans-5c47)
+- [Want to create AI customer-support bots, appointment assistants, and voice-driven automations over a SIP gateway? Follow this beginner-friendly, step-by-step guide to build a production-ready agent.](https://dev.to/chaitrali_kakde/want-to-create-ai-customer-support-bots-appointment-assistants-and-voice-driven-automations-over-2dm6)
+- [A Week, an Idea, and an AI Evaluation System: What I Learned Along the Way](https://dev.to/ganiyuolalekan/a-week-an-idea-and-an-ai-evaluation-system-what-i-learned-along-the-way-4hl1)
+- [Why would you ever use an ORM?](https://dev.to/_555c69ff310ebfa46b/why-would-you-ever-use-an-orm-1079)
+- [Prompt Engineering Best Practices to Turn LLMs into Reliable Pair Programmer](https://dev.to/kodus/prompt-engineering-best-practices-to-turn-llms-into-reliable-pair-programmer-1kb7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
