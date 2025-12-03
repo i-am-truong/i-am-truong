@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day-09: Lifecycle management rules in terraform](https://dev.to/bhaskara_tejabulusu_b4bf/day-09-lifecycle-management-rules-in-terraform-5fai)
-- [Amazon Category Traversal: Achieving 95%+ Coverage of Front-end Visible Products](https://dev.to/loopsthings/amazon-category-traversal-achieving-95-coverage-of-front-end-visible-products-2cbm)
-- [Ethereum’s Fusaka Upgrade: The Most Ambitious Step Since The Merge &lpar;Live on Mainnet – Dec 3, 2025&rpar;](https://dev.to/codebyankita/ethereums-fusaka-upgrade-the-most-ambitious-step-since-the-merge-live-on-mainnet-dec-3-2025-37nl)
-- [Turn Your Labor into Yacht Cost Savings](https://dev.to/maddisyn_marcellus_8a3871/turn-your-labor-into-yacht-cost-savings-17m9)
-- [Is Rust Good for Data Science? A Complete 2025 Guide](https://dev.to/piya__c204c9e90/is-rust-good-for-data-science-a-complete-2025-guide-ppn)
+- [Building a Horror Game in 8 Hours with Kiro AI - My Kiroween Hackathon Journey](https://dev.to/masihmoafi/building-a-horror-game-in-8-hours-with-kiro-ai-my-kiroween-hackathon-journey-5cjp)
+- [A-Modular-Kingdom - The Infrastructure Layer AI Agents Deserve](https://dev.to/masihmoafi/a-modular-kingdom-the-infrastructure-layer-ai-agents-deserve-gd5)
+- [Linux Server Administration – Complete Notes &lpar;CIITM Dhanbad&rpar;](https://dev.to/abhishek-nexgen-dev/linux-server-administration-complete-notes-ciitm-dhanbad-1fk7)
+- [The Model Context Protocol &lpar;MCP&rpar;: A Comprehensive Technical Report](https://dev.to/luzkalidgm/the-model-context-protocol-mcp-a-comprehensive-technical-report-470d)
+- [Advent of Cyber 2025: Day 2 Writeup | TryHackMe](https://dev.to/mahin101/advent-of-cyber-2025-day-2-writeup-tryhackme-4d48)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
