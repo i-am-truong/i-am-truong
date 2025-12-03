@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Resurrecting Teletext: Building Modern Teletext with Kiro for Kiroween Hackathon 🎃](https://dev.to/ouz_kopan_c46a563414120a/resurrecting-teletext-building-modern-teletext-with-kiro-for-kiroween-hackathon-c69)
-- [FestiFlow AI: Building a Global Festival &amp; Cultural Insights API with Xano and AI](https://dev.to/extinctsion/festiflow-ai-building-a-global-festival-cultural-insights-api-with-xano-and-ai-1coa)
-- [Speed up your designs to functional web apps with Kombai](https://dev.to/envitab/-16n1)
-- [A Modern SwiftUI Technique for Detecting Device Orientation](https://dev.to/fabio_floris_155a63b665be/a-modern-swiftui-technique-for-detecting-device-orientation-3hl8)
-- [Why I&#39;m Using React 19 in Production: Compiler Magic &amp; Actions That Just Work](https://dev.to/saswatapal/why-im-using-react-19-in-production-compiler-magic-actions-that-just-work-3ik6)
+- [Enriching Vault OIDC Tokens with SPIFFE Identity Metadata using Terraform](https://dev.to/darkedges/enriching-vault-oidc-tokens-with-spiffe-identity-metadata-using-terraform-314g)
+- [How to Create Portfolios That Work Effortlessly](https://dev.to/imtaslim/how-to-create-portfolios-that-work-effortlessly-28ec)
+- [Seeking Guidance: A 21-Year-Old’s Fight to Build a Future in Tech](https://dev.to/yahy4d/seeking-guidance-a-21-year-olds-fight-to-build-a-future-in-tech-2mi9)
+- [Unlock Faster Progress in Grow Garden With This Mutation Calculator](https://dev.to/ducky_fea0a969d005e9bd305/unlock-faster-progress-in-grow-garden-with-this-mutation-calculator-4j6h)
+- [A Visual HTML Editor to Speed up your Workflow](https://dev.to/wbf22/a-visual-html-editor-to-speed-up-your-workflow-4c90)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
