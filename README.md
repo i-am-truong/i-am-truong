@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Haunted Code &amp; Spec-Driven Dreams: How Kiro Built My Spooky Time Machine!](https://dev.to/likheet/haunted-code-spec-driven-dreams-how-kiro-built-my-spooky-time-machine-48n0)
+- [Building LLM Tools That Don&#39;t Drown in Context: Lazy Traversal for Unknown Structures](https://dev.to/johnonline35/building-llm-tools-that-dont-drown-in-context-lazy-traversal-for-unknown-structures-4kla)
+- [Testing Legacy Systems with AI: Automated QA, Regression &amp; Edge Cases](https://dev.to/himani_0b4c9fc3c2ab3a1700/testing-legacy-systems-with-ai-automated-qa-regression-edge-cases-j1l)
+- [Data Analyst Checklist](https://dev.to/ssekabirarobertsims/data-analyst-checklist-5589)
 - [I built an Open Source Instagram Unfollowers tool &lpar;No Login required&rpar;](https://dev.to/edvincodes/i-built-an-open-source-instagram-unfollowers-tool-no-login-required-4agi)
-- [SeaORM 2.0: A closer look](https://dev.to/seaql/seaorm-20-a-closer-look-34kn)
-- [Browser Automation Protocols: CDP vs WebDriver Deep Dive](https://dev.to/dreygur/browser-automation-protocols-cdp-vs-webdriver-deep-dive-5bmn)
-- [Running Microsoft&#39;s Phi-3 on CPU with Rust &amp; Candle](https://dev.to/hossein-mortazavi/running-microsofts-phi-3-on-cpu-with-rust-candle-md)
-- [Enterprise Interop Made Easy: WASM Compiled Libraries for Java Developers](https://dev.to/wordsdk/enterprise-interop-made-easy-wasm-compiled-libraries-for-java-developers-19k9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
