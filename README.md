@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Next.js + Supabase Project Structure for Indie Development](https://dev.to/pipipi-dev/nextjs-supabase-project-structure-for-indie-development-36od)
-- [The Future of Data Engineering: Automation, AI, and Code-Free Solutions](https://dev.to/riparna_roychowdhury_0d2/the-future-of-data-engineering-automation-ai-and-code-free-solutions-jbd)
-- [Introducing Uatu - An AI-Powered System Troubleshooting](https://dev.to/mfund0/introducing-uatu-an-ai-powered-system-troubleshooting-5a84)
-- [We Open-Sourced Our Marketing Playbook—Feel Free to Steal It, Sell It, or Feed It to Your AI](https://dev.to/alexandru_danieldimitres/we-open-sourced-our-marketing-playbook-feel-free-to-steal-it-sell-it-or-feed-it-to-your-ai-3ff1)
-- [LLM Reasoning: Why Models Hallucinate and how to reduce it?](https://dev.to/zeroshotanu/llm-reasoning-why-models-hallucinate-and-how-to-reduce-it-2joo)
+- [The Importance Of Web Application Performance](https://dev.to/ishikha_rao/the-importance-of-web-application-performance-158e)
+- [Bun is joining Anthropic 🔥](https://dev.to/random_ti/bun-is-joining-anthropic-2k19)
+- [How to Stay Online with High-Speed Internet While Traveling?](https://dev.to/sidra-jefferi/how-to-stay-online-with-high-speed-internet-while-traveling-4mfn)
+- [Mastering Agentic AI Orchestration: Managing Multi-Agent Systems](https://dev.to/ioweb_961ddefd53bd65fce97/mastering-agentic-ai-orchestration-managing-multi-agent-systems-5c1)
+- [Why Most Junior Developers Will Struggle in the AI Era](https://dev.to/roshaan_tahir/why-most-junior-developers-will-struggle-in-the-ai-era-47fp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
