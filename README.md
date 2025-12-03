@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Agents Intensive Course Writing Challenge with Google and Kaggle: Deadline Extended](https://dev.to/devteam/ai-agents-intensive-course-writing-challenge-with-google-and-kaggle-deadline-extended-324d)
-- [Tenis On Cloud: Why These Shoes Are Leading Comfort and Performance in 2025](https://dev.to/oncloud/tenis-on-cloud-why-these-shoes-are-leading-comfort-and-performance-in-2025-4pfl)
-- [Tainting the kernel](https://dev.to/adam_weber_6dc0d5bd752326/tainting-the-kernel-2cgh)
-- [Leadership, Mindset, and the Path to Self-Mastery](https://dev.to/joshua_moll_188939cfe7314/leadership-mindset-and-the-path-to-self-mastery-2ac)
-- [Quantum Feature Sculpting: Carving Hidden Insights from Noisy Data by Arvind Sundararajan](https://dev.to/arvind_sundararajan/quantum-feature-sculpting-carving-hidden-insights-from-noisy-data-by-arvind-sundararajan-4nec)
+- [Resurrecting Teletext: Building Modern Teletext with Kiro for Kiroween Hackathon 🎃](https://dev.to/ouz_kopan_c46a563414120a/resurrecting-teletext-building-modern-teletext-with-kiro-for-kiroween-hackathon-c69)
+- [FestiFlow AI: Building a Global Festival &amp; Cultural Insights API with Xano and AI](https://dev.to/extinctsion/festiflow-ai-building-a-global-festival-cultural-insights-api-with-xano-and-ai-1coa)
+- [Speed up your designs to functional web apps with Kombai](https://dev.to/envitab/-16n1)
+- [A Modern SwiftUI Technique for Detecting Device Orientation](https://dev.to/fabio_floris_155a63b665be/a-modern-swiftui-technique-for-detecting-device-orientation-3hl8)
+- [Why I&#39;m Using React 19 in Production: Compiler Magic &amp; Actions That Just Work](https://dev.to/saswatapal/why-im-using-react-19-in-production-compiler-magic-actions-that-just-work-3ik6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
