@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Asked Claude to Create a Memory Leak in a Task and It Failed](https://dev.to/artozf38bc119d5/i-asked-claude-to-create-a-memory-leak-in-a-task-and-it-failed-4gmg)
+- [DevFest Vienna 2025: How Blind People Navigate the World, On and Offline](https://dev.to/a11ynews/how-blind-people-navigate-the-world-on-and-offline-530j)
+- [DoodleMates: Building a Multimodal Creature Generator](https://dev.to/3m/doodlemates-building-a-multimodal-creature-generator-427)
+- [What capabilities should a good operation and maintenance &lpar;O&amp;M&rpar; system possess?](https://dev.to/lerwee_4bae84e93dcf8c0ab7/what-capabilities-should-a-good-operation-and-maintenance-om-system-possess-14cg)
 - [DoodleMates: Building a Multimodal Creature Generator](https://dev.to/3m/doodlemates-building-a-multimodal-creature-generator-500)
-- [The Session Protocol: How I Fixed AI Memory Loss with a TODO.md](https://dev.to/eddieajau/the-session-protocol-how-i-fixed-ai-memory-loss-with-a-todomd-2b4g)
-- [Kubernetes Autoscaling Showdown: HPA vs. VPA vs. Karpenter vs. KEDA](https://dev.to/mechcloud_academy/kubernetes-autoscaling-showdown-hpa-vs-vpa-vs-karpenter-vs-keda-9b1)
-- [File Upload Security Issues](https://dev.to/godofgeeks/file-upload-security-issues-4pho)
-- [Summary of the error &quot;Cannot find module &#39;function qt&lpar;e={}&rpar;...&#39;&quot; that occurs when using Tailwind CSS v4 + Vite](https://dev.to/kazutora_hattori_66972c88/summary-of-the-error-cannot-find-module-function-qte-that-occurs-when-using-tailwind-20ch)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
