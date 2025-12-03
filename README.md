@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Crafting My Developer Workflow: VSCode, Vim, and Zsh](https://dev.to/mahafuz/crafting-my-developer-workflow-vscode-vim-and-zsh-1aln)
-- [Integrating Shopify with Blockchain: NFT-Based Product Ownership Tracking Explained](https://dev.to/lucy1/integrating-shopify-with-blockchain-nft-based-product-ownership-tracking-explained-107j)
-- [How To Deploy Java Microservices on AWS Elastic Beanstalk](https://dev.to/mohamed_el_laithy/how-to-deploy-java-microservices-on-aws-elastic-beanstalk-1nbg)
-- [n8n: How to create credential Gmail Account](https://dev.to/codebangkok/n8n-how-to-create-credential-gmail-account-166e)
-- [MapLibre GL JS - Enabling large number of moveable sprites](https://dev.to/kozy_kekyo/maplibre-gl-js-enabling-large-number-of-moveable-sprites-4bek)
+- [Why abstractions are good](https://dev.to/cartmann68/why-abstractions-are-good-jim)
+- [Taming the Container Beast: A Developer&#39;s Guide to Debugging Django in Docker](https://dev.to/mcheremnov/taming-the-container-beast-a-developers-guide-to-debugging-django-in-docker-2g01)
+- [What DRY actually means](https://dev.to/cartmann68/what-dry-actually-means-3ngj)
+- [The Best Workflow for Collaborating on a Shared GitHub Repository](https://dev.to/msnmongare/the-best-workflow-for-collaborating-on-a-shared-github-repository-2f5j)
+- [Building an MCP Server on Cloudflare Workers with Semantic Search](https://dev.to/dannwaneri/building-an-mcp-server-on-cloudflare-workers-with-semantic-search-2gb8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
