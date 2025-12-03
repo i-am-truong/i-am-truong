@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A small friction I finally removed](https://dev.to/dsmurrell/a-small-friction-i-finally-removed-ida)
-- [VulnForge: Probably One of the Hardest Damn Local Web Apps To Fully Crack](https://dev.to/0x57origin/vulnforge-probably-one-of-the-hardest-damn-local-web-apps-to-fully-crack-4544)
-- [Bundling without a bundler with esm.sh](https://dev.to/louwers/bundling-without-a-bundler-with-esmsh-3c2k)
-- [Coding Challenge Practice - Question 70](https://dev.to/tomivan/coding-challenge-practice-question-70-ceb)
-- [Set-and-Forget Git Privacy in 5 Minutes: Auto-Switch No-Reply Emails for GitHub/GitLab](https://dev.to/anydigital/set-and-forget-git-privacy-in-5-minutes-auto-switch-no-reply-emails-for-githubgitlab-2a4a)
+- [Custom Domain Emails for free](https://dev.to/evgenii_zinner/custom-domain-emails-for-free-6o5)
+- [Chunking and Segmentation: The Quiet Failure Point in Retrieval Quality](https://dev.to/dowhatmatters/chunking-and-segmentation-the-quiet-failure-point-in-retrieval-quality-o8a)
+- [Founders &amp; Indie Hackers: Stop Putting All Your MVP Content in a Database](https://dev.to/kouliavtsev/founders-indie-hackers-stop-putting-all-your-mvp-content-in-a-database-479e)
+- [Autonomous Agents Visiting Data](https://dev.to/patricia_buendia_720ec3a3/autonomous-agents-visiting-data-5331)
+- [Idempotent Dockerfiles: Desirable Ideal or Misplaced Objective?](https://dev.to/dortort/idempotent-dockerfiles-desirable-ideal-or-misplaced-objective-e7c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
