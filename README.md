@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Query a Railway SQLite Database from GitHub Actions](https://dev.to/blackgirlbytes/how-to-query-a-railway-sqlite-database-from-github-actions-376j)
-- [An example of kindness in tech: the case of “shitty code”](https://dev.to/alvessteve/an-example-of-kindness-in-tech-the-case-of-shitty-code-5f0f)
-- [Jenkins na AWS + Docker](https://dev.to/scussel/jenkins-na-aws-docker-2fgf)
-- [Anthropic Bought Bun: Here&#39;s What It Really Means for Us](https://dev.to/arjuncodess/anthropic-bought-bun-heres-what-it-really-means-for-us-kj2)
-- [From 30 Minutes to 4 - How EBS Volume Cloning Transformed Our CI Pipeline](https://dev.to/eladh/from-30-minutes-to-4-how-ebs-volume-cloning-transformed-our-ci-pipeline-2b1o)
+- [Your First AI Application is Easier Than You Think](https://dev.to/googleai/your-first-ai-application-is-easier-than-you-think-4dbc)
+- [You can now use YouTube videos as your cover video on DEV Posts &lpar;Also Mux and Twitch videos&rpar;](https://dev.to/devteam/you-can-now-use-youtube-videos-as-your-cover-video-on-dev-posts-also-mux-and-twitch-videos-360b)
+- [From Continuous Inspection Back to Continuous Integration: Amplify Your Development Teams](https://dev.to/leonpennings/from-continuous-inspection-back-to-continuous-integration-amplify-your-development-teams-2j6d)
+- [Running on Code &amp; Coffee](https://dev.to/imsuku/running-on-code-coffee-145g)
+- [step2](https://dev.to/query_filter_591122b53770/step2-pa1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
