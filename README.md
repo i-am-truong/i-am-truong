@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop Wasting Time on Nitpicks: Automating PR Reviews published](https://dev.to/allenz_1011/stop-wasting-time-on-nitpicks-automating-pr-reviews-published-3a7)
-- [A Complete Introduction to C# — The Modern, Powerful, Multi-Paradigm Language for Developers](https://dev.to/farhadrahimiklie/a-complete-introduction-to-c-the-modern-powerful-multi-paradigm-language-for-developers-116j)
-- [AWS Lambda Durable Function: Is the Orchestration Problem Finally Solved?](https://dev.to/vamartinez/aws-lambda-durable-function-is-the-orchestration-problem-finally-solved-1e60)
-- [The Architecture of Implicit Messaging: Implementing Raw CIP I/O in Python](https://dev.to/philyeh/the-architecture-of-implicit-messaging-implementing-raw-cip-io-in-python-1o0c)
-- [Building NecroOS: A Horror-Themed Windows 95 Simulator with Kiro AI](https://dev.to/abinjith_tk_e85889d1609a4/building-necroos-a-horror-themed-windows-95-simulator-with-kiro-ai-3m4d)
+- [Turn Your Labor into Yacht Cost Savings](https://dev.to/maddisyn_marcellus_8a3871/turn-your-labor-into-yacht-cost-savings-17m9)
+- [Is Rust Good for Data Science? A Complete 2025 Guide](https://dev.to/piya__c204c9e90/is-rust-good-for-data-science-a-complete-2025-guide-ppn)
+- [Decoding the 10AS016E4F27E3SG: Powerhouse Arria 10 SoC FPGA for Edge AI and Industrial Automation](https://dev.to/xecor_company/decoding-the-10as016e4f27e3sg-powerhouse-arria-10-soc-fpga-for-edge-ai-and-industrial-automation-3o27)
+- [Agents, Not Browsers: You Will be Living in the Post-Visual, Post-Matrix Future](https://dev.to/stonesgate/agents-not-browsers-you-will-be-living-in-the-post-visual-post-matrix-future-4gei)
+- [Why Top AI Apps Convert at 12% While Most Struggle at 2%](https://dev.to/paywallpro/why-top-ai-apps-convert-at-12-while-most-struggle-at-2-7j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
