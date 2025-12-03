@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [𝗤𝘂𝗶𝗲𝘁 𝗟𝗲𝗮𝗱𝗲𝗿𝘀𝗵𝗶𝗽 𝗪𝗶𝗻𝘀](https://dev.to/supraja_tangella_b7f0738e/-4m1f)
-- [Top 3 Gifts for That One Friend Who Won’t Shut Up About Crypto 🎁🚀](https://dev.to/tanelith/top-3-gifts-for-that-one-friend-who-wont-shut-up-about-crypto-1jmo)
-- [Julia Kasper – Rewetting peatlands is the biggest climate opportunity to cut CO2](https://dev.to/ogcr/julia-kasper-rewetting-peatlands-is-the-biggest-climate-opportunity-to-cut-co2-47dm)
-- [Principais eventos de TI no Brasil em 2026: South Summit, Web Summit Rio e Gramado Summit](https://dev.to/katarina/principais-eventos-de-ti-no-brasil-em-2026-south-summit-web-summit-rio-e-gramado-summit-1m33)
-- [The Role of Excel in Business Intelligence&lpar;BI&rpar; and Data Driven Decision-Making](https://dev.to/esther_bekeh_c7b219540e7e/the-role-of-excel-in-business-intelligencebi-and-data-driven-decision-making-56o7)
+- [Best SERP API Comparison 2025: SerpAPI vs Exa vs Tavily vs ScrapingDog vs ScrapingBee](https://dev.to/ritzaco/best-serp-api-comparison-2025-serpapi-vs-exa-vs-tavily-vs-scrapingdog-vs-scrapingbee-2jci)
+- [Data Cataloguing in AWS](https://dev.to/devoteng1/data-cataloguing-in-aws-34ob)
+- [I built a Chatbot GUI with Rust, Dioxus, and SQLite](https://dev.to/kpcofgs/i-built-a-chatbot-gui-with-rust-dioxus-and-sqlite-3abk)
+- [10 Essential Figma Plugins Every Designer Should Know in 2025](https://dev.to/doong_yee/10-essential-figma-plugins-every-designer-should-know-in-2025-2egb)
+- [From 5MB to 500KB: The Hidden Cost of providedIn: &#39;root&#39; in Angular – A Performance Deep Dive](https://dev.to/codewithrajat/from-5mb-to-500kb-the-hidden-cost-of-providedin-root-in-angular-a-performance-deep-dive-301h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
