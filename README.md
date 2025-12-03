@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your First AI Application is Easier Than You Think](https://dev.to/googleai/your-first-ai-application-is-easier-than-you-think-4dbc)
-- [You can now use YouTube videos as your cover video on DEV Posts &lpar;Also Mux and Twitch videos&rpar;](https://dev.to/devteam/you-can-now-use-youtube-videos-as-your-cover-video-on-dev-posts-also-mux-and-twitch-videos-360b)
-- [From Continuous Inspection Back to Continuous Integration: Amplify Your Development Teams](https://dev.to/leonpennings/from-continuous-inspection-back-to-continuous-integration-amplify-your-development-teams-2j6d)
-- [Running on Code &amp; Coffee](https://dev.to/imsuku/running-on-code-coffee-145g)
-- [step2](https://dev.to/query_filter_591122b53770/step2-pa1)
+- [Developing AWS Lambda Durable Functions with AWS SAM](https://dev.to/aws/developing-aws-lambda-durable-functions-with-aws-sam-ga9)
+- [How I Started Learning AI Agents as a Student &lpar;My First Experience&rpar;](https://dev.to/ayesha_alam_afe044eef87d2/how-i-started-learning-ai-agents-as-a-student-my-first-experience-3mh1)
+- [Seeking Expert Advice on Network Quality Metrics for Crowdsourced Mapping Project](https://dev.to/jisoo_kim_b08c2c4cb654c7f/seeking-expert-advice-on-network-quality-metrics-for-crowdsourced-mapping-project-2eem)
+- [looking for a partner to collaborate with me on a WebOS project](https://dev.to/ilyesliima/looking-for-a-partner-to-collaborate-with-me-on-a-webos-project-4nke)
+- [Building Smarter Systems: AI, Blockchain &amp; Modern Web Stacks — Movement Network Edition](https://dev.to/movementlabsxyz/building-smarter-systems-ai-blockchain-modern-web-stacks-movement-network-edition-4e34)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
