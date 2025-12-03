@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Day-09: Lifecycle management rules in terraform](https://dev.to/bhaskara_tejabulusu_b4bf/day-09-lifecycle-management-rules-in-terraform-5fai)
+- [Amazon Category Traversal: Achieving 95%+ Coverage of Front-end Visible Products](https://dev.to/loopsthings/amazon-category-traversal-achieving-95-coverage-of-front-end-visible-products-2cbm)
+- [Ethereum’s Fusaka Upgrade: The Most Ambitious Step Since The Merge &lpar;Live on Mainnet – Dec 3, 2025&rpar;](https://dev.to/codebyankita/ethereums-fusaka-upgrade-the-most-ambitious-step-since-the-merge-live-on-mainnet-dec-3-2025-37nl)
 - [Turn Your Labor into Yacht Cost Savings](https://dev.to/maddisyn_marcellus_8a3871/turn-your-labor-into-yacht-cost-savings-17m9)
 - [Is Rust Good for Data Science? A Complete 2025 Guide](https://dev.to/piya__c204c9e90/is-rust-good-for-data-science-a-complete-2025-guide-ppn)
-- [Decoding the 10AS016E4F27E3SG: Powerhouse Arria 10 SoC FPGA for Edge AI and Industrial Automation](https://dev.to/xecor_company/decoding-the-10as016e4f27e3sg-powerhouse-arria-10-soc-fpga-for-edge-ai-and-industrial-automation-3o27)
-- [Agents, Not Browsers: You Will be Living in the Post-Visual, Post-Matrix Future](https://dev.to/stonesgate/agents-not-browsers-you-will-be-living-in-the-post-visual-post-matrix-future-4gei)
-- [Why Top AI Apps Convert at 12% While Most Struggle at 2%](https://dev.to/paywallpro/why-top-ai-apps-convert-at-12-while-most-struggle-at-2-7j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
