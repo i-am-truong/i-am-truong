@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Frontend Is dead &lpar;For those who didn’t evolve&rpar;: The 2025 survival guide](https://dev.to/neilton_rocha_dev/frontend-is-dead-for-those-who-didnt-evolve-the-2025-survival-guide-4jnb)
-- [Why AI Can&#39;t Write Good Playwright Tests &lpar;And How To Fix It&rpar;](https://dev.to/johnonline35/why-ai-cant-write-good-playwright-tests-and-how-to-fix-it-knn)
-- [I built two high-performance Python libraries for production AI: LLM log analytics and vector similarity search](https://dev.to/yuu1ch13/i-built-two-performance-focused-c-libraries-with-python-bindings-llm-log-analytics-and-vector-eif)
-- [Becoming full stack developer](https://dev.to/ujjawal_patel_9baa51e6bf5/becoming-full-stack-developer-58g9)
-- [Other languages than English in code](https://dev.to/xwero/other-languages-than-english-in-code-5181)
+- [I built an Open Source Instagram Unfollowers tool &lpar;No Login required&rpar;](https://dev.to/edvincodes/i-built-an-open-source-instagram-unfollowers-tool-no-login-required-4agi)
+- [SeaORM 2.0: A closer look](https://dev.to/seaql/seaorm-20-a-closer-look-34kn)
+- [Browser Automation Protocols: CDP vs WebDriver Deep Dive](https://dev.to/dreygur/browser-automation-protocols-cdp-vs-webdriver-deep-dive-5bmn)
+- [Running Microsoft&#39;s Phi-3 on CPU with Rust &amp; Candle](https://dev.to/hossein-mortazavi/running-microsofts-phi-3-on-cpu-with-rust-candle-md)
+- [Enterprise Interop Made Easy: WASM Compiled Libraries for Java Developers](https://dev.to/wordsdk/enterprise-interop-made-easy-wasm-compiled-libraries-for-java-developers-19k9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
