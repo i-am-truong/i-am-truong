@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Terraform Basics – Week 5: Exposing Infrastructure Data with Outputs](https://dev.to/ozanguner/terraform-basics-week-5-exposing-infrastructure-data-with-outputs-5h6n)
-- [🔧 Comparative Analysis of Testing Management Tools with Real CI/CD Pipelines](https://dev.to/christian_dennishinojosa/-comparative-analysis-of-testing-management-tools-with-real-cicd-pipelines-59jc)
-- [Applying API Testing Frameworks with Postman: Real-World Code Examples](https://dev.to/christian_dennishinojosa/applying-api-testing-frameworks-with-postman-real-world-code-examples-hj1)
-- [repo2](https://dev.to/query_filter_591122b53770/repo2-29lo)
-- [Terraform Expressions — Conditional, Dynamic &amp; Splat Expressions](https://dev.to/adarsh_gupta_c5fecf658fd7/terraform-expressions-conditional-dynamic-splat-expressions-5379)
+- [[Boost]](https://dev.to/mikeydorje/-1e5b)
+- [How I Finally Forced LLMs to Return Perfect JSON &lpar;2025 Edition&rpar; — No Hacks, No Regex, Just Clean Output](https://dev.to/arfatapp/how-i-finally-forced-llms-to-return-perfect-json-2025-edition-no-hacks-no-regex-just-clean-5c5)
+- [Boost Your Learning with Hidden AI Tools for Students](https://dev.to/jdkhan/boost-your-learning-with-hidden-ai-tools-for-students-346j)
+- [Embedding Serverless Dashboards in React](https://dev.to/mdflaher/embedding-serverless-dashboards-in-react-2fn0)
+- [Day 10: Mastering Terraform Expressions - Conditional Logic, Iteration, and Collection](https://dev.to/andylovecloud/day-10-mastering-terraform-expressions-conditional-logic-iteration-and-collection-4igd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
