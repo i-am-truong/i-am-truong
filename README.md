@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Pipeline Framework is out](https://dev.to/mbarcia/the-pipeline-framework-is-out-70f)
-- [Why I stopped using &quot;Project Folders&quot; for Hardware R&amp;D &lpar;and built a Mesh system instead&rpar;](https://dev.to/elielabs/why-i-stopped-using-project-folders-for-hardware-rd-and-built-a-mesh-system-instead-em7)
-- [Transformers.js e a era da Inteligência Artificial descentralizada](https://dev.to/wgbn/transformersjs-e-a-era-da-inteligencia-artificial-descentralizada-3bab)
-- [IAM - Identity Acess Management &lpar;Part 1&rpar;](https://dev.to/jeyy/iam-identity-acess-management-part-1-54na)
-- [AI Regulation News Today: Key Updates and Global Trends](https://dev.to/techdecodedly/ai-regulation-news-today-key-updates-and-global-trends-3acn)
+- [How to Add a security.txt File to Your Website in 5 Minutes &lpar;With a Generator&rpar;](https://dev.to/roxroy/how-to-add-a-securitytxt-file-to-your-website-in-5-minutes-with-a-generator-2ik7)
+- [Code, Customers &amp; Conversion: Deconstructing 7 B2B SaaS Video Testimonials](https://dev.to/michaelaiglobal/code-customers-conversion-deconstructing-7-b2b-saas-video-testimonials-2fbg)
+- [SQS Fair Queues with AWS EventBridge](https://dev.to/slootjes/sqs-fair-queues-with-aws-eventbridge-58i2)
+- [How I built a RAG-powered Anime Recommendation Engine with Python &amp; FastAPI &lpar;Open Sourcing the Journey&rpar;](https://dev.to/divyanshusingh96/how-i-built-a-rag-powered-anime-recommendation-engine-with-python-fastapi-open-sourcing-the-11mg)
+- [I Used to Be a Toxic Code Reviewer. Here&#39;s How AI Fixed My Feedback Loop.](https://dev.to/huizhudev/i-used-to-be-a-toxic-code-reviewer-heres-how-ai-fixed-my-feedback-loop-33c4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
