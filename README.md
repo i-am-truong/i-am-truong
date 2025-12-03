@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic Just Bought Bun.js. Here&#39;s Why.](https://dev.to/meteroid/anthropic-just-bought-bunjs-heres-why-6bh)
 - [Best SERP API Comparison 2025: SerpAPI vs Exa vs Tavily vs ScrapingDog vs ScrapingBee](https://dev.to/ritzaco/best-serp-api-comparison-2025-serpapi-vs-exa-vs-tavily-vs-scrapingdog-vs-scrapingbee-2jci)
-- [Data Cataloguing in AWS](https://dev.to/devoteng1/data-cataloguing-in-aws-34ob)
-- [I built a Chatbot GUI with Rust, Dioxus, and SQLite](https://dev.to/kpcofgs/i-built-a-chatbot-gui-with-rust-dioxus-and-sqlite-3abk)
-- [10 Essential Figma Plugins Every Designer Should Know in 2025](https://dev.to/doong_yee/10-essential-figma-plugins-every-designer-should-know-in-2025-2egb)
-- [From 5MB to 500KB: The Hidden Cost of providedIn: &#39;root&#39; in Angular – A Performance Deep Dive](https://dev.to/codewithrajat/from-5mb-to-500kb-the-hidden-cost-of-providedin-root-in-angular-a-performance-deep-dive-301h)
+- [Before You Learn a Framework, Master the Web: HTML, CSS, and Accessibility Essentials](https://dev.to/princekukreja/before-you-learn-a-framework-master-the-web-html-css-and-accessibility-essentials-38ml)
+- [Java&#39;s expm1&lpar;&rpar; Method Explained: Why Math.exp&lpar;x&rpar;-1 Falls Short](https://dev.to/satyam_gupta_0d1ff2152dcc/javas-expm1-method-explained-why-mathexpx-1-falls-short-43j3)
+- [The Architecture of Agentic AI: What Powers the Next Era of Intelligent Automation](https://dev.to/yeahiasarker/the-architecture-of-agentic-ai-what-powers-the-next-era-of-intelligent-automation-1eh1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
