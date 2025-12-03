@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Bali Tour Package from Kolkata with Affordable Sightseeing and Adventure Plans](https://dev.to/lily_brown_9a282a38259a17/bali-tour-package-from-kolkata-with-affordable-sightseeing-and-adventure-plans-5c47)
-- [Want to create AI customer-support bots, appointment assistants, and voice-driven automations over a SIP gateway? Follow this beginner-friendly, step-by-step guide to build a production-ready agent.](https://dev.to/chaitrali_kakde/want-to-create-ai-customer-support-bots-appointment-assistants-and-voice-driven-automations-over-2dm6)
-- [A Week, an Idea, and an AI Evaluation System: What I Learned Along the Way](https://dev.to/ganiyuolalekan/a-week-an-idea-and-an-ai-evaluation-system-what-i-learned-along-the-way-4hl1)
-- [Why would you ever use an ORM?](https://dev.to/_555c69ff310ebfa46b/why-would-you-ever-use-an-orm-1079)
-- [Prompt Engineering Best Practices to Turn LLMs into Reliable Pair Programmer](https://dev.to/kodus/prompt-engineering-best-practices-to-turn-llms-into-reliable-pair-programmer-1kb7)
+- [Beyond Simple Forwarding – Practical Content Safety in AI Gateways](https://dev.to/spacewander/beyond-simple-forwarding-practical-content-safety-in-ai-gateways-545a)
+- [OTP email verification and password reset](https://dev.to/prudkohliad/otp-email-verification-and-password-reset-20pi)
+- [Make your AI prompts collaborative with VS Code and Promptitude](https://dev.to/onepoint/make-your-ai-prompts-collaborative-with-vs-code-and-promptitude-1f7)
+- [Build a Chrome Extension with React, TypeScript and Vite](https://dev.to/nefayran/build-a-chrome-extension-with-react-typescript-and-vite-31ho)
+- [The AI Boom Has a $5 Trillion Problem](https://dev.to/icybergenome_34/the-ai-boom-has-a-5-trillion-problem-2fcj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
