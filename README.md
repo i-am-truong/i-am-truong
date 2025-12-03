@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Asked Claude to Create a Memory Leak in a Task and It Failed](https://dev.to/artozf38bc119d5/i-asked-claude-to-create-a-memory-leak-in-a-task-and-it-failed-4gmg)
-- [DevFest Vienna 2025: How Blind People Navigate the World, On and Offline](https://dev.to/a11ynews/how-blind-people-navigate-the-world-on-and-offline-530j)
-- [DoodleMates: Building a Multimodal Creature Generator](https://dev.to/3m/doodlemates-building-a-multimodal-creature-generator-427)
-- [What capabilities should a good operation and maintenance &lpar;O&amp;M&rpar; system possess?](https://dev.to/lerwee_4bae84e93dcf8c0ab7/what-capabilities-should-a-good-operation-and-maintenance-om-system-possess-14cg)
-- [DoodleMates: Building a Multimodal Creature Generator](https://dev.to/3m/doodlemates-building-a-multimodal-creature-generator-500)
+- [wrote this breakdown of the best proxy and scraper apis for 2025. simple, honest and actually useful. check it out if you want 👇](https://dev.to/arjuncodess/wrote-this-breakdown-of-the-best-proxy-and-scraper-apis-for-2025-simple-honest-and-actually-4b2i)
+- [11 Powerful Proxy &amp; Web Scraper APIs You Should Use in 2025 🤯](https://dev.to/arjuncodess/11-powerful-proxy-web-scraper-apis-you-should-use-in-2025-12no)
+- [From Data Silos to Intelligent Insights: Building a Future-oriented Operation Intelligence System](https://dev.to/observabilityguy/from-data-silos-to-intelligent-insights-building-a-future-oriented-operation-intelligence-system-58hj)
+- [Loading Chrome extensions for development in 2025](https://dev.to/bitcrowd/loading-chrome-extensions-for-development-in-2025-1039)
+- [Optimize Like a Pro: Advanced JavaScript Memory Techniques for Large-Scale Projects](https://dev.to/ahmed_niazy/optimize-like-a-pro-advanced-javascript-memory-techniques-for-large-scale-projects-5cmp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
