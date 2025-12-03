@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Zero-Downtime Rollbacks in Kubernetes with ArgoCD – A Practical GitOps Lifesaver](https://dev.to/srinivasamcjf/zero-downtime-rollbacks-in-kubernetes-with-argocd-a-practical-gitops-lifesaver-1hbi)
 - [How to use IP2Location.io API in Anaconda Code](https://dev.to/ip2location/how-to-use-ip2locationio-api-in-anaconda-code-bof)
 - [Why abstractions are good](https://dev.to/cartmann68/why-abstractions-are-good-jim)
 - [Taming the Container Beast: A Developer&#39;s Guide to Debugging Django in Docker](https://dev.to/mcheremnov/taming-the-container-beast-a-developers-guide-to-debugging-django-in-docker-2g01)
 - [What DRY actually means](https://dev.to/cartmann68/what-dry-actually-means-3ngj)
-- [The Best Workflow for Collaborating on a Shared GitHub Repository](https://dev.to/msnmongare/the-best-workflow-for-collaborating-on-a-shared-github-repository-2f5j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
