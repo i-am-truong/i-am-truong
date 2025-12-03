@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Don’t Limit Yourself: Why Broadening Your Tech Horizons Keeps You Relevant](https://dev.to/andersoncontreira/dont-limit-yourself-why-broadening-your-tech-horizons-keeps-you-relevant-51dn)
-- [🛡️Penetration Testing Services Agreement &lpar;Beginner-Friendly Guide + Open Template&rpar;](https://dev.to/ldwit/penetration-testing-services-agreement-beginner-friendly-guide-open-template-2in)
-- [The Replay Model: How AWS Lambda Durable Functions Actually Work](https://dev.to/edjgeek/the-replay-model-how-aws-lambda-durable-functions-actually-work-2a79)
-- [Automatically Merge Dependabot Patch Updates with GitHub Actions](https://dev.to/hidev1977/automatically-merge-dependabot-patch-updates-with-github-actions-316g)
-- [Extensible Design of Backend Service Functions from the Perspective of Reversible Computation](https://dev.to/canonical/extensible-design-of-backend-service-functions-from-the-perspective-of-reversible-computation-5ffe)
+- [SwiftUI Performance Optimization — Smooth UIs, Less Recomputing](https://dev.to/sebastienlato/swiftui-performance-optimization-smooth-uis-less-recomputing-422k)
+- [open-source non-caching web proxy - Privoxy](https://dev.to/kingyou/open-source-non-caching-web-proxy-privoxy-4bin)
+- [Product Market Fit in the Age of Instant Prototypes](https://dev.to/jaideepparashar/product-market-fit-in-the-age-of-instant-prototypes-3iac)
+- [Huge RAM Price Surge in 2025: 163-275% and more...](https://dev.to/rosgluk/huge-ram-price-surge-in-2025-163-275-and-more-55ne)
+- [How to Add Text Watermarks to PowerPoint Presentations using Java](https://dev.to/lu_liu_e3fc806354d9a952b7/how-to-add-text-watermarks-to-powerpoint-presentations-using-java-2bd2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
