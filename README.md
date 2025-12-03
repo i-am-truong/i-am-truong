@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🎃 Nightmellow – Built a Halloween Game With Kiro](https://dev.to/sairenbhou_bf2ef2e36fe391/nightmellow-built-a-halloween-game-with-kiro-1pn1)
+- [Task Engineering](https://dev.to/stakiran/task-engineering-2l78)
 - [Enriching Vault OIDC Tokens with SPIFFE Identity Metadata using Terraform](https://dev.to/darkedges/enriching-vault-oidc-tokens-with-spiffe-identity-metadata-using-terraform-314g)
 - [How to Create Portfolios That Work Effortlessly](https://dev.to/imtaslim/how-to-create-portfolios-that-work-effortlessly-28ec)
 - [Seeking Guidance: A 21-Year-Old’s Fight to Build a Future in Tech](https://dev.to/yahy4d/seeking-guidance-a-21-year-olds-fight-to-build-a-future-in-tech-2mi9)
-- [Unlock Faster Progress in Grow Garden With This Mutation Calculator](https://dev.to/ducky_fea0a969d005e9bd305/unlock-faster-progress-in-grow-garden-with-this-mutation-calculator-4j6h)
-- [A Visual HTML Editor to Speed up your Workflow](https://dev.to/wbf22/a-visual-html-editor-to-speed-up-your-workflow-4c90)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
