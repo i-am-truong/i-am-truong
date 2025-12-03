@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Logs de Aplicações Java: Motivações e Melhores Práticas de Utilização](https://dev.to/valterlobo/logs-de-aplicacoes-java-motivacoes-e-melhores-praticas-de-utilizacao-47ma)
-- [Custom Domain Emails for free](https://dev.to/evgenii_zinner/custom-domain-emails-for-free-6o5)
-- [Chunking and Segmentation: The Quiet Failure Point in Retrieval Quality](https://dev.to/dowhatmatters/chunking-and-segmentation-the-quiet-failure-point-in-retrieval-quality-o8a)
-- [Founders &amp; Indie Hackers: Stop Putting All Your MVP Content in a Database](https://dev.to/kouliavtsev/founders-indie-hackers-stop-putting-all-your-mvp-content-in-a-database-479e)
-- [Autonomous Agents Visiting Data](https://dev.to/patricia_buendia_720ec3a3/autonomous-agents-visiting-data-5331)
+- [Instagram Collabs 2.0: What Changed and Why You Should Actually Care](https://dev.to/synergistdigitalmedia/instagram-collabs-20-what-changed-and-why-you-should-actually-care-1e9h)
+- [Concorrência, paralelismo e IA em produção: como reduzir a latência de endpoints de 40s para 8s](https://dev.to/vinidev/concorrencia-paralelismo-e-ia-em-producao-como-reduzir-a-latencia-de-endpoints-de-40s-para-8s-2ge2)
+- [Como recuperar autonomia quando a solução chega pronta](https://dev.to/thethinkingengineer/como-recuperar-autonomia-quando-a-solucao-chega-pronta-41mn)
+- [The Lie of the Global Average: Why Taming Complex SLIs Requires Bucketing](https://dev.to/parthibanrajasekaran/the-lie-of-the-global-average-why-taming-complex-slis-requires-bucketing-4mfg)
+- [KCL For Managing Infraestructure as Data](https://dev.to/segoja7/kcl-for-managing-infraestructure-as-data-n7a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
