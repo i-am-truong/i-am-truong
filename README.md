@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Modernizing Mature Ecosystems: Clean Architecture &amp; Performance in Read-Only Microservices](https://dev.to/leonardopolicarpo/modernizing-mature-ecosystems-clean-architecture-performance-in-read-only-microservices-8hb)
-- [Testing AWS Lambda Durable Functions in TypeScript](https://dev.to/edjgeek/testing-aws-lambda-durable-functions-in-typescript-5bj2)
-- [How I Built MCP Time-Traveler with Kiro: A Developer’s Journey Through Vibe Coding, Specs, Steering, Hooks, and MCP](https://dev.to/prabhakaranjm/how-i-built-mcp-time-traveler-with-kiro-a-developers-journey-through-vibe-coding-specs-m7g)
-- [Why TOON Might Be Your Next JSON Replacement &lpar;And How to Get Started&rpar;](https://dev.to/futurevision-labs/why-toon-might-be-your-next-json-replacement-and-how-to-get-started-4ban)
-- [I Built an Enterprise Legacy Modernization Platform in 2 Days with Kiro AI &lpar;and You Can Too&rpar;](https://dev.to/ashwin_630e649e618b09ca82/i-built-an-enterprise-legacy-modernization-platform-in-2-days-with-kiro-ai-and-you-can-too-1io5)
+- [Don’t Limit Yourself: Why Broadening Your Tech Horizons Keeps You Relevant](https://dev.to/andersoncontreira/dont-limit-yourself-why-broadening-your-tech-horizons-keeps-you-relevant-51dn)
+- [🛡️Penetration Testing Services Agreement &lpar;Beginner-Friendly Guide + Open Template&rpar;](https://dev.to/ldwit/penetration-testing-services-agreement-beginner-friendly-guide-open-template-2in)
+- [The Replay Model: How AWS Lambda Durable Functions Actually Work](https://dev.to/edjgeek/the-replay-model-how-aws-lambda-durable-functions-actually-work-2a79)
+- [Automatically Merge Dependabot Patch Updates with GitHub Actions](https://dev.to/hidev1977/automatically-merge-dependabot-patch-updates-with-github-actions-316g)
+- [Extensible Design of Backend Service Functions from the Perspective of Reversible Computation](https://dev.to/canonical/extensible-design-of-backend-service-functions-from-the-perspective-of-reversible-computation-5ffe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
