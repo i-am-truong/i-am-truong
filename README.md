@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AWS Lambda Durable Functions: Build Workflows That Last](https://dev.to/aws/aws-lambda-durable-functions-build-workflows-that-last-3ac7)
+- [My AI Agents Intensive Journey: Learning, Building, and Reflecting](https://dev.to/abdulla_al_noman/my-ai-agents-intensive-journey-learning-building-and-reflecting-1nhh)
+- [My Experience in the 5-Day Agent Series Course 🚀](https://dev.to/yuih8/my-experience-in-the-5-day-agent-series-course-46jc)
 - [Developing AWS Lambda Durable Functions with AWS SAM](https://dev.to/aws/developing-aws-lambda-durable-functions-with-aws-sam-ga9)
 - [How I Started Learning AI Agents as a Student &lpar;My First Experience&rpar;](https://dev.to/ayesha_alam_afe044eef87d2/how-i-started-learning-ai-agents-as-a-student-my-first-experience-3mh1)
-- [Seeking Expert Advice on Network Quality Metrics for Crowdsourced Mapping Project](https://dev.to/jisoo_kim_b08c2c4cb654c7f/seeking-expert-advice-on-network-quality-metrics-for-crowdsourced-mapping-project-2eem)
-- [looking for a partner to collaborate with me on a WebOS project](https://dev.to/ilyesliima/looking-for-a-partner-to-collaborate-with-me-on-a-webos-project-4nke)
-- [Building Smarter Systems: AI, Blockchain &amp; Modern Web Stacks — Movement Network Edition](https://dev.to/movementlabsxyz/building-smarter-systems-ai-blockchain-modern-web-stacks-movement-network-edition-4e34)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
