@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Intelligent, Metadata-Driven Pipelines with Azure Data Factory](https://dev.to/agileactors/building-intelligent-metadata-driven-pipelines-with-azure-data-factory-3n8m)
+- [How to Build an AI WhatsApp Voice Agent with VideoSDK: Step-by-Step Guide](https://dev.to/chaitrali_kakde/how-to-build-an-ai-whatsapp-voice-agent-with-videosdk-step-by-step-guide-2o6l)
+- [Serverless Made Simple: Automating Workflows with AWS Lambda, EventBridge &amp; DynamoDB](https://dev.to/sudoconsultants/serverless-made-simple-automating-workflows-with-aws-lambda-eventbridge-dynamodb-22f0)
 - [Haunted Code &amp; Spec-Driven Dreams: How Kiro Built My Spooky Time Machine!](https://dev.to/likheet/haunted-code-spec-driven-dreams-how-kiro-built-my-spooky-time-machine-48n0)
-- [Building LLM Tools That Don&#39;t Drown in Context: Lazy Traversal for Unknown Structures](https://dev.to/johnonline35/building-llm-tools-that-dont-drown-in-context-lazy-traversal-for-unknown-structures-4kla)
-- [Testing Legacy Systems with AI: Automated QA, Regression &amp; Edge Cases](https://dev.to/himani_0b4c9fc3c2ab3a1700/testing-legacy-systems-with-ai-automated-qa-regression-edge-cases-j1l)
-- [Data Analyst Checklist](https://dev.to/ssekabirarobertsims/data-analyst-checklist-5589)
-- [I built an Open Source Instagram Unfollowers tool &lpar;No Login required&rpar;](https://dev.to/edvincodes/i-built-an-open-source-instagram-unfollowers-tool-no-login-required-4agi)
+- [Your IPv4 Addresses Are Probably Worth More Than You Think](https://dev.to/kohanevich/your-ipv4-addresses-are-probably-worth-more-than-you-think-486o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
