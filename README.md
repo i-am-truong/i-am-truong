@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🎃 Nightmellow – Built a Halloween Game With Kiro](https://dev.to/sairenbhou_bf2ef2e36fe391/nightmellow-built-a-halloween-game-with-kiro-1pn1)
-- [Task Engineering](https://dev.to/stakiran/task-engineering-2l78)
-- [Enriching Vault OIDC Tokens with SPIFFE Identity Metadata using Terraform](https://dev.to/darkedges/enriching-vault-oidc-tokens-with-spiffe-identity-metadata-using-terraform-314g)
-- [How to Create Portfolios That Work Effortlessly](https://dev.to/imtaslim/how-to-create-portfolios-that-work-effortlessly-28ec)
-- [Seeking Guidance: A 21-Year-Old’s Fight to Build a Future in Tech](https://dev.to/yahy4d/seeking-guidance-a-21-year-olds-fight-to-build-a-future-in-tech-2mi9)
+- [**Challenge:** &quot;Evaluating the Cognitive Limitations of Larg](https://dev.to/drcarlosruizviquez/challenge-evaluating-the-cognitive-limitations-of-larg-41a0)
+- [From 30 Minutes to 4 - How EBS Volume Cloning Transformed Our CI Pipeline](https://dev.to/eladh/from-30-minutes-to-4-how-ebs-volume-cloning-transformed-our-ci-pipeline-2b1o)
+- [AdTech Strategy [2025 Guide]: The D2C Blueprint for Scale](https://dev.to/getkoro_app/adtech-strategy-2025-guide-the-d2c-blueprint-for-scale-4o0c)
+- [Making My React Native App Work Offline [MyNextHome]](https://dev.to/cathylai/building-offline-first-sync-in-react-native-a-practical-approach-mynexthome-4im6)
+- [report3](https://dev.to/query_filter_591122b53770/report3-22nd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
