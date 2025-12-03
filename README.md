@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Frontend Is dead &lpar;For those who didn’t evolve&rpar;: The 2025 survival guide](https://dev.to/neilton_rocha_dev/frontend-is-dead-for-those-who-didnt-evolve-the-2025-survival-guide-4jnb)
+- [Why AI Can&#39;t Write Good Playwright Tests &lpar;And How To Fix It&rpar;](https://dev.to/johnonline35/why-ai-cant-write-good-playwright-tests-and-how-to-fix-it-knn)
+- [I built two high-performance Python libraries for production AI: LLM log analytics and vector similarity search](https://dev.to/yuu1ch13/i-built-two-performance-focused-c-libraries-with-python-bindings-llm-log-analytics-and-vector-eif)
 - [Becoming full stack developer](https://dev.to/ujjawal_patel_9baa51e6bf5/becoming-full-stack-developer-58g9)
 - [Other languages than English in code](https://dev.to/xwero/other-languages-than-english-in-code-5181)
-- [Agentic AI in Development](https://dev.to/pranav_s_5b1ec7cc447dcdcc/agentic-ai-in-development-3oaf)
-- [Product adoption tools suck so me and my homies built Flows](https://dev.to/vojtechvidra/product-adoption-tools-suck-so-me-and-my-homies-built-flows-2ip9)
-- [Is Your App Really Stable? Here’s How to Find Out](https://dev.to/olivia-john/is-your-app-really-stable-heres-how-to-find-out-3g43)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
