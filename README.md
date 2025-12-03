@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic Just Bought Bun.js. Here&#39;s Why.](https://dev.to/meteroid/anthropic-just-bought-bunjs-heres-why-6bh)
-- [Best SERP API Comparison 2025: SerpAPI vs Exa vs Tavily vs ScrapingDog vs ScrapingBee](https://dev.to/ritzaco/best-serp-api-comparison-2025-serpapi-vs-exa-vs-tavily-vs-scrapingdog-vs-scrapingbee-2jci)
-- [Before You Learn a Framework, Master the Web: HTML, CSS, and Accessibility Essentials](https://dev.to/princekukreja/before-you-learn-a-framework-master-the-web-html-css-and-accessibility-essentials-38ml)
-- [Java&#39;s expm1&lpar;&rpar; Method Explained: Why Math.exp&lpar;x&rpar;-1 Falls Short](https://dev.to/satyam_gupta_0d1ff2152dcc/javas-expm1-method-explained-why-mathexpx-1-falls-short-43j3)
-- [The Architecture of Agentic AI: What Powers the Next Era of Intelligent Automation](https://dev.to/yeahiasarker/the-architecture-of-agentic-ai-what-powers-the-next-era-of-intelligent-automation-1eh1)
+- [Real-time Communication with WebSockets using deboa-extras](https://dev.to/rogrio_arajo_55dae16f0d/real-time-communication-with-websockets-using-deboa-extras-172o)
+- [Understanding How LCD Screens Work: Components, Light Control, and Display Technologies](https://dev.to/danie_brooks_dc7a891322b3/understanding-how-lcd-screens-work-components-light-control-and-display-technologies-3j1h)
+- [Improving our frontend tracking with Avo](https://dev.to/superpayments/improving-our-frontend-tracking-with-avo-50cc)
+- [Mastering AWS Cross-Account Secrets with Terraform &amp; KMS](https://dev.to/khaldoun488/mastering-aws-cross-account-secrets-with-terraform-kms-c70)
+- [4 Rules to Make MySQL Indexes Blazing Fast](https://dev.to/seenasabti/4-rules-to-make-mysql-indexes-blazing-fast-1jn5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
