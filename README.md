@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Single .NET Codebase, Three Platforms, One Stunning UI - Smart Café](https://dev.to/aditya_kumar_ai00/a-single-net-codebase-three-platforms-one-stunning-ui-smart-cafe-1dhi)
-- [Part 3: Accelerating Calculations using GPU](https://dev.to/palash90/building-a-ml-library-from-scratch-in-rust-part-3-accelerating-calculations-from-cpu-to-gpu-with-270d)
-- [Quarkus 3 application on AWS Lambda- Part 9 Measuring Lambda cold and warm starts with GraalVM Native Image and REST API](https://dev.to/vkazulkin/quarkus-3-application-on-aws-lambda-part-9-measuring-lambda-cold-and-warm-starts-with-graalvm-8d3)
-- [I Built NimPacket, a Raw Packet Crafting Library in Nim, and It Turned Into One of My Best Cyber Projects](https://dev.to/0x57origin/i-built-nimpacket-a-raw-packet-crafting-library-in-nim-and-it-turned-into-one-of-my-best-cyber-1n0g)
-- [From Wrappers to Reasoners: Building an Iterative Research Agent](https://dev.to/kaustav_chowdhury_f3cdc47/from-wrappers-to-reasoners-building-an-iterative-research-agent-3j7l)
+- [Advanced Image Optimization in React/Next.js: Device-Based Responsive Images for Peak Performance &lpar;Part 1&rpar;](https://dev.to/sizan_mahmud0_e7c3fd0cb68/advanced-image-optimization-in-reactnextjs-device-based-responsive-images-for-peak-performance-2fol)
+- [Frontend vs Backend: The Real Difference and What Beginners Should Focus On](https://dev.to/whoisefosa/frontend-vs-backend-the-real-difference-and-what-beginners-should-focus-on-1jlg)
+- [Emulating the Claude Code Backend for Databricks LLM Models&lpar;with MCP, Git Tools, and Prompt Caching&rpar;](https://dev.to/vishal_veerareddy_9cdd17d/emulating-the-claude-code-backend-for-databricks-llm-modelswith-mcp-git-tools-and-prompt-caching-1a60)
+- [When the Spark is Done: The ADHD Energy Cycle No One Talks About ✨](https://dev.to/anchildress1/when-the-spark-is-done-the-adhd-energy-cycle-no-one-talks-about-43fo)
+- [“My Learning Journey in the AI Agents Intensive Capstone Project”](https://dev.to/hanumantha_reddygariank/my-learning-journey-in-the-ai-agents-intensive-capstone-project-2712)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
