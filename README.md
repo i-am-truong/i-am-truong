@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI has collapsed the cost and time of building so dramatically that the real race is no longer about who builds better, it’s about who learns faster.](https://dev.to/jaideepparashar/ai-has-collapsed-the-cost-and-time-of-building-so-dramatically-that-the-real-race-is-no-longer-1e38)
-- [From Idea to MVP in 7 Days: My AI Startup Checklist](https://dev.to/jaideepparashar/from-idea-to-mvp-in-7-days-my-ai-startup-checklist-3kim)
-- [Build a Priority-Aware Background Job Runner](https://dev.to/ukrguru/build-a-priority-aware-background-job-runner-1i8i)
-- [From Prompts to Purpose: Building AI Agents That Actually Heal Cities](https://dev.to/adrija_c9884799936f817224/from-prompts-to-purpose-building-ai-agents-that-actually-heal-cities-48fp)
-- [I Switched Shell History Tools. Here&#39;s Why](https://dev.to/nickytonline/i-switched-shell-history-tools-heres-why-m6h)
+- [Why I Think Most AI Tools Don’t Deserve to Be SaaS](https://dev.to/jaideepparashar/why-i-think-most-ai-tools-dont-deserve-to-be-saas-1c2i)
+- [Why I Unpublished My Qeltrix Journey Article](https://dev.to/hejhdiss/why-i-unpublished-my-qeltrix-journey-article-417k)
+- [Powershell is low-key cool](https://dev.to/hueyemma769/powershell-is-low-key-cool-3g9i)
+- [How to Fix Karpenter Migration Issues During Upgrade &lpar;v0.25.0 v1.5.0&rpar;](https://dev.to/damola12345/how-to-fix-karpenter-migration-issues-during-upgrade-v0250-v150-l8p)
+- [Freeing Up Xcode Garbage with DevCleaner](https://dev.to/markkazakov/freeing-up-xcode-garbage-with-devcleaner-3cl0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
