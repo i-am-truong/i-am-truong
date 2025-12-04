@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Client-Side vs Server-Side CORS: Understanding the Real Difference](https://dev.to/shantih_palani/client-side-vs-server-side-cors-understanding-the-real-difference-52l9)
-- [3 Types of Authorization in TON Smart Contracts](https://dev.to/a08778/3-types-of-authorization-in-ton-smart-contracts-58k1)
-- [Building a Production-Ready Data Marketplace: Architecture, Security, and Lessons Learned](https://dev.to/cybersolo/building-a-production-ready-data-marketplace-architecture-security-and-lessons-learned-1l08)
-- [How to Monitor Cron Jobs in 2026: A Complete Guide](https://dev.to/lmadev/how-to-monitor-cron-jobs-in-2026-a-complete-guide-28g9)
-- [Why Importing Lotties Isn’t What Rive Was Built For](https://dev.to/uianimation/why-importing-lotties-isnt-what-rive-was-built-for-1627)
+- [What Really Happens When You Join Public Wi-Fi &lpar;And How To Stay Safe Anyway&rpar;](https://dev.to/byalexdavid/what-really-happens-when-you-join-public-wi-fi-and-how-to-stay-safe-anyway-43m3)
+- [Say hello to GoREST v0.3](https://dev.to/nicolasbonnici/say-hello-to-gorest-v03-4k8k)
+- [How Kiro Transformed the Way I Build: From Code to Vibes](https://dev.to/thesukhsingh/how-kiro-transformed-the-way-i-build-from-code-to-vibes-1cp4)
+- [Quantum Nets: Unmasking Financial Fraud with Unprecedented Accuracy by Arvind Sundararajan](https://dev.to/arvind_sundararajan/quantum-nets-unmasking-financial-fraud-with-unprecedented-accuracy-by-arvind-sundararajan-5afc)
+- [ChatGPT Projects as a Means of &quot;Indirect Conversation&quot;](https://dev.to/stakiran/chatgpt-projects-as-a-means-of-indirect-conversation-gf9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
