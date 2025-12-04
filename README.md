@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why I’m Scrapping &quot;Genres&quot; &lpar;For Now&rpar; and Betting on AI Instead](https://dev.to/leodvincci89/why-im-scrapping-genres-for-now-and-betting-on-ai-instead-38bo)
-- [My Experience with the 5-Day AI Agents Course on Kaggle](https://dev.to/fardin_pasha_4a64f41400cd/my-experience-with-the-5-day-ai-agents-course-on-kaggle-n2l)
-- [A Practical Breakdown of Darkweb Vendor Shops and How They Operate](https://dev.to/tor_bbb/a-practical-breakdown-of-darkweb-vendor-shops-and-how-they-operate-30a2)
-- [De RAG tradicional a Agentic RAG](https://dev.to/carly_chavez1/de-rag-tradicional-a-agentic-rag-1am5)
-- [Best Practices for Modern Persian Web Development: A Practical Guide](https://dev.to/sarah-navin/best-practices-for-modern-persian-web-development-a-practical-guide-ci6)
+- [Why Importing Lotties Isn’t What Rive Was Built For](https://dev.to/uianimation/why-importing-lotties-isnt-what-rive-was-built-for-1627)
+- [Campus Connect: A Complete Digital Workflow System for Universities Using React, Node.js &amp; MongoDB](https://dev.to/shaurya_rana_7e9f7dbeb50f/campus-connect-a-complete-digital-workflow-system-for-universities-using-react-nodejs-mongodb-1g2k)
+- [✨ Self-Reflection – Year 2025 Back to Basics – Rediscovering the Joy of Hands-On Coding &amp; Delivering Real Impact](https://dev.to/jercichop/self-reflection-year-2025-back-to-basics-rediscovering-the-joy-of-hands-on-coding--11p1)
+- [Top 10 pg_dump Options You Should Know for Reliable PostgreSQL Backups](https://dev.to/me_grigory_pshekovich/top-10-pgdump-options-you-should-know-for-reliable-postgresql-backups-42k7)
+- [My Experience with Google-Kaggle AI agents Intensive Course](https://dev.to/sandeep_nani_af1b167889e9/my-experience-with-google-kaggle-ai-agents-intensive-course-1p0m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
