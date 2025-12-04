@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Daily Tech News Roundup - 2025-12-04](https://dev.to/atharvshinde2004/daily-tech-news-roundup-2025-12-04-3h9i)
-- [Python by Structure: Return Value Transformations with Decorators](https://dev.to/aaron_rose_0787cc8b4775a0/python-by-structure-return-value-transformations-with-decorators-2cg2)
-- [🎉 BJH OS Contributions Are LIVE! 🎉](https://dev.to/muhammad_haris_7828c7aeda/bjh-os-contributions-are-live-h4m)
-- [A Comprehensive Guide to Froala’s Page Break Plugin](https://dev.to/froala_e3824d66439393cbce/a-comprehensive-guide-to-froalas-page-break-plugin-hdc)
-- [Bubble Sort in JavaScript — Step-by-Step Guide](https://dev.to/thecoollearner/bubble-sort-in-javascript-step-by-step-guide-517i)
+- [From Prompts to Pipelines: What I Learned About Building Real AI Agents](https://dev.to/komal_harshita_018ba8ae14/from-prompts-to-pipelines-what-i-learned-about-building-real-ai-agents-2b7i)
+- [My Reflection &amp; Learning Journey – AI Agents Intensive 2025](https://dev.to/adya_rajan_b29469177c2c49/my-reflection-learning-journey-ai-agents-intensive-2025-1f3g)
+- [What is Azure Resource Manager?](https://dev.to/delamywa/what-is-azure-resource-manager-3nll)
+- [C# Performance Optimization: Using Span&lt;T&gt; and stackalloc to Eliminate Allocations](https://dev.to/danqzq/c-performance-optimization-using-span-and-stackalloc-to-eliminate-allocations-ikc)
+- [🚀 How I Got 25,000+ Views in 2 Days on a YouTube Short](https://dev.to/dmsmenula/how-i-got-25000-views-in-2-days-on-a-youtube-short-1lc1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
