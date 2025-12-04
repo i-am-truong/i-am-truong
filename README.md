@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering AI Agents: Lessons from the Google x Kaggle Intensive &amp; My Capstone](https://dev.to/nikhitha_sivakumar_c108e5/mastering-ai-agents-lessons-from-the-google-x-kaggle-intensive-my-capstone-855)
+- [🚀 Customer Success Stories: How InterServer Helped Businesses Grow](https://dev.to/onalephile_molemane_e3e9b/customer-success-stories-how-interserver-helped-businesses-grow-41dj)
+- [Merge Requests Are a Cargo Cult - It’s Time to Stop Pretending They Improve Quality](https://dev.to/leonpennings/merge-requests-are-a-cargo-cult-its-time-to-stop-pretending-they-improve-quality-3dof)
 - [How the 5-Day AI Agents Course Changed My Understanding of AI Agents](https://dev.to/shyam_kumar_d18cf9dee039e/how-the-5-day-ai-agents-course-changed-my-understanding-of-ai-agents-2i23)
 - [Comparing Data Management Tools for Robotics](https://dev.to/reductstore/comparing-data-management-tools-for-robotics-5a61)
-- [Web Development in 2026 The CTOs Blueprint for AI and Edge](https://dev.to/devin-rosario/web-development-in-2026-the-ctos-blueprint-for-ai-and-edge-38m6)
-- [Figma’s New Features: What’s New &amp; Why Designers Are Excited](https://dev.to/aslam_ansari_df1bced58701/figmas-new-features-whats-new-why-designers-are-excited-cpl)
-- [AWS re:Invent 2025 - Modern SFTP: Deploy AWS Transfer Family, Identity, and Automation &lpar;STG419&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-modern-sftp-deploy-aws-transfer-family-identity-and-automation-stg419-15mo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
