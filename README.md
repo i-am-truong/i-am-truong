@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Use AI Coding Assistants &lpar;and How You Can Use Them Better&rpar;](https://dev.to/biostate/how-i-use-ai-coding-assistants-and-how-you-can-use-them-better-40af)
-- [Java&#39;s getExponent&lpar;&rpar; Method: Your Ultimate Guide to Floating-Point Precision](https://dev.to/satyam_gupta_0d1ff2152dcc/javas-getexponent-method-your-ultimate-guide-to-floating-point-precision-3311)
-- [From Sausage to Omelette](https://dev.to/linkbenjamin/from-sausage-to-omelette-o1e)
-- [A &lpar;very&rpar; Short Look at How MySQL Joins Work](https://dev.to/seenasabti/how-do-mysql-joins-work-2de4)
-- [Saving Terraform State in S3](https://dev.to/woovi/saving-terraform-state-in-s3-4ja7)
+- [AI has collapsed the cost and time of building so dramatically that the real race is no longer about who builds better, it’s about who learns faster.](https://dev.to/jaideepparashar/ai-has-collapsed-the-cost-and-time-of-building-so-dramatically-that-the-real-race-is-no-longer-1e38)
+- [From Idea to MVP in 7 Days: My AI Startup Checklist](https://dev.to/jaideepparashar/from-idea-to-mvp-in-7-days-my-ai-startup-checklist-3kim)
+- [Build a Priority-Aware Background Job Runner](https://dev.to/ukrguru/build-a-priority-aware-background-job-runner-1i8i)
+- [From Prompts to Purpose: Building AI Agents That Actually Heal Cities](https://dev.to/adrija_c9884799936f817224/from-prompts-to-purpose-building-ai-agents-that-actually-heal-cities-48fp)
+- [I Switched Shell History Tools. Here&#39;s Why](https://dev.to/nickytonline/i-switched-shell-history-tools-heres-why-m6h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
