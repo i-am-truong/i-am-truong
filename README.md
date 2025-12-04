@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Courage to Disconnect: Why I Chose &quot;Privacy First&quot; in a Data-Hungry World](https://dev.to/elevenapril/the-courage-to-disconnect-why-i-chose-privacy-first-in-a-data-hungry-world-47b6)
-- [From Client to Server: Alova 3&#39;s Full-Stack Request Strategy Practice](https://dev.to/eddieangle/from-client-to-server-alova-3s-full-stack-request-strategy-practice-631)
-- [Build Holiday Card Collages with One Line of Code](https://dev.to/cloudinary/build-holiday-card-collages-with-one-line-of-code-3cp5)
-- [Challenge no. 1 - User Avatar](https://dev.to/preetha_vaishnavi_2b82358/challenge-no-1-user-avatar-1ee9)
-- [It’s time to free JavaScript](https://dev.to/technoblogger14o3/its-time-to-free-javascript-285c)
+- [How Rust Is Quietly Rewriting the AI Compute Stack](https://dev.to/manjushaps/how-rust-is-quietly-rewriting-the-ai-compute-stack-20nf)
+- [Kalman Filter &lpar;Day 1&rpar; - Why?](https://dev.to/chocolatebrownie/kalman-filter-day-1-why-3bcm)
+- [Interop.io &amp; io.Connect Glossary](https://dev.to/tpetrov9/interopio-ioconnect-glossary-43h3)
+- [How I could have avoided a loss if I had just stuck to my rule🤦🏾‍♂️](https://dev.to/dhis_is_jj/how-i-could-have-avoided-a-loss-if-i-had-just-stuck-to-my-rule-585e)
+- [Best Affordable AI Headshot Tools for Professional Photos in 2026](https://dev.to/keane/best-affordable-ai-headshot-tools-for-professional-photos-in-2026-207a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
