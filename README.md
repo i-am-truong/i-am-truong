@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Prompts to Pipelines: What I Learned About Building Real AI Agents](https://dev.to/komal_harshita_018ba8ae14/from-prompts-to-pipelines-what-i-learned-about-building-real-ai-agents-2b7i)
-- [My Reflection &amp; Learning Journey – AI Agents Intensive 2025](https://dev.to/adya_rajan_b29469177c2c49/my-reflection-learning-journey-ai-agents-intensive-2025-1f3g)
-- [What is Azure Resource Manager?](https://dev.to/delamywa/what-is-azure-resource-manager-3nll)
-- [C# Performance Optimization: Using Span&lt;T&gt; and stackalloc to Eliminate Allocations](https://dev.to/danqzq/c-performance-optimization-using-span-and-stackalloc-to-eliminate-allocations-ikc)
-- [🚀 How I Got 25,000+ Views in 2 Days on a YouTube Short](https://dev.to/dmsmenula/how-i-got-25000-views-in-2-days-on-a-youtube-short-1lc1)
+- [Run LLMs Completely Offline on Your Phone: A Practical Guide](https://dev.to/atik/run-llms-completely-offline-on-your-phone-a-practical-guide-d9i)
+- [Context Is Currency: Why MCP Matters for Enterprise AI](https://dev.to/sreeni5018/context-is-currency-why-mcp-matters-for-enterprise-ai-1mdg)
+- [The Essential Skills of an AI Code Supervisor](https://dev.to/mteheran/the-essential-skills-of-an-ai-code-supervisor-3h6k)
+- [A Real-World Comparison of Testing Management Tools: GitHub Actions vs GitLab CI/CDs](https://dev.to/hashiravc/a-real-world-comparison-of-testing-management-tools-github-actions-vs-gitlab-cicds-52g)
+- [Offline Payments &amp; Deferred Transactions in Android Apps &lpar;2025 Guide&rpar;](https://dev.to/vaibhav_shakya_e6b352bfc4/offline-payments-deferred-transactions-in-android-apps-2025-guide-2i91)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
