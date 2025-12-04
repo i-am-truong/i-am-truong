@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Azure Secure Score Guide for Cloud Security](https://dev.to/john_asmith_bdd2c6cdfa0/azure-secure-score-guide-for-cloud-security-519a)
-- [From Raw Claims and Clinical Data to PCORnet CDM: End-to-End ETL on Snowflake](https://dev.to/sciforce/from-raw-claims-and-clinical-data-to-pcornet-cdm-end-to-end-etl-on-snowflake-29n0)
-- [Top 10 Easy Ways to Make Your Shopify Site Faster](https://dev.to/websitespeedy/top-10-easy-ways-to-make-your-shopify-site-faster-18l)
-- [A game that reaches the real world](https://dev.to/alis/a-game-that-reaches-the-real-world-2pn9)
-- [12 Best Remote Collaboration Tools to Supercharge Your Team in 2025](https://dev.to/gambplays/12-best-remote-collaboration-tools-to-supercharge-your-team-in-2025-345c)
+- [How I Use AI Coding Assistants &lpar;and How You Can Use Them Better&rpar;](https://dev.to/biostate/how-i-use-ai-coding-assistants-and-how-you-can-use-them-better-40af)
+- [Java&#39;s getExponent&lpar;&rpar; Method: Your Ultimate Guide to Floating-Point Precision](https://dev.to/satyam_gupta_0d1ff2152dcc/javas-getexponent-method-your-ultimate-guide-to-floating-point-precision-3311)
+- [From Sausage to Omelette](https://dev.to/linkbenjamin/from-sausage-to-omelette-o1e)
+- [A &lpar;very&rpar; Short Look at How MySQL Joins Work](https://dev.to/seenasabti/how-do-mysql-joins-work-2de4)
+- [Saving Terraform State in S3](https://dev.to/woovi/saving-terraform-state-in-s3-4ja7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
