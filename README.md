@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Life Behind the Bubble Tea Counter](https://dev.to/mirabubblebrewnotes/life-behind-the-bubble-tea-counter-30kf)
-- [From Monolithic CLIs to Modular Plugins: Applying the Strangler Fig Pattern](https://dev.to/aman_kumar_bdd40f1b711c15/from-monolithic-clis-to-modular-plugins-applying-the-strangler-fig-pattern-3gok)
-- [iOS Performance Tools Review: Comparison and recommended mixes of six common solutions &lpar;2025&rpar;.](https://dev.to/datastack/ios-performance-tools-review-comparison-and-recommended-mixes-of-six-common-solutions-2025-3nnm)
-- [My Journey Through the Kaggle Google 5-Day Intensive ML Sprint](https://dev.to/sourav_sarangi_dad0e0ae28/my-journey-through-the-kaggle-x-google-5-day-intensive-ml-sprint-2a1n)
-- [My 5-Day Journey with the Kaggle AI Agents Intensive – What I Learned &amp; Built](https://dev.to/busanamoni_sowmya_7df2431/my-5-day-journey-with-the-kaggle-ai-agents-intensive-what-i-learned-built-21hn)
+- [Learning Reflections: Unlocking Digital Memories with &quot;Reflect&quot;](https://dev.to/prasanna_thapa/learning-reflections-unlocking-digital-memories-with-reflect-1951)
+- [How to Choose Soft and Durable Bed Linen?](https://dev.to/dylan_manson_f8a94d84ae59/how-to-choose-soft-and-durable-bed-linen-1o5n)
+- [&quot;From Financial Overload to Causal Agents: Architecting Autonomy for the Market&quot;](https://dev.to/sruthi_kumar_c0c809139982/from-financial-overload-to-causal-agents-architecting-autonomy-for-the-market-3bc5)
+- [Day 62 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-62-of-100-days-dsa-coding-challenge-j6c)
+- [My experience with the 5-Day AI Agents Intensive A Pratice Reflection](https://dev.to/aman_thakur_05a98cf4460f4/my-experience-with-the-5-day-ai-agents-intensive-a-pratice-reflection-37jp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
