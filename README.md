@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Clear Saved Passwords on Windows 11: A Step-by-Step Guide](https://dev.to/mosek/how-to-clear-saved-passwords-on-windows-11-a-step-by-step-guide-51fl)
-- [Building a GPU-Accelerated File Explorer in 48 Hours with Kiro IDE](https://dev.to/pythonxi/building-a-gpu-accelerated-file-explorer-in-48-hours-with-kiro-ide-25j)
-- [Why Personal Branding Matters for Tech Professionals](https://dev.to/careerbytecode/why-personal-branding-matters-for-tech-professionals-2hh7)
-- [Day 4 — Midnight Vigil](https://dev.to/aerabi/day-4-midnight-vigil-3a77)
-- [How to Build AI Workflows Without Code Using Activepieces and Sevalla](https://dev.to/manishmshiva/how-to-build-ai-workflows-without-code-using-activepieces-and-sevalla-4jaa)
+- [Azure Secure Score Guide for Cloud Security](https://dev.to/john_asmith_bdd2c6cdfa0/azure-secure-score-guide-for-cloud-security-519a)
+- [From Raw Claims and Clinical Data to PCORnet CDM: End-to-End ETL on Snowflake](https://dev.to/sciforce/from-raw-claims-and-clinical-data-to-pcornet-cdm-end-to-end-etl-on-snowflake-29n0)
+- [Top 10 Easy Ways to Make Your Shopify Site Faster](https://dev.to/websitespeedy/top-10-easy-ways-to-make-your-shopify-site-faster-18l)
+- [A game that reaches the real world](https://dev.to/alis/a-game-that-reaches-the-real-world-2pn9)
+- [12 Best Remote Collaboration Tools to Supercharge Your Team in 2025](https://dev.to/gambplays/12-best-remote-collaboration-tools-to-supercharge-your-team-in-2025-345c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
