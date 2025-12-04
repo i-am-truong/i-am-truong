@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Insights from Google &amp; Kaggle’s 5-Day AI Program](https://dev.to/suresh_techgrowth/insights-from-google-kaggles-5-day-ai-program-3m4n)
-- [Serve the same route from Next.js App Router and Pages Router](https://dev.to/erfanebrahimnia/serve-the-same-route-from-nextjs-app-router-and-pages-router-3c0b)
-- [On Software Complexity: Why Can&#39;t We Make Simple Software?](https://dev.to/pmbanugo/on-software-complexity-why-cant-we-make-simple-software-5cbh)
-- [SwiftUI #5: Estilo de botón](https://dev.to/david_goyes_a488f58a17a53/swiftui-5-estilo-de-boton-28f4)
-- [Orchestrating Human–AI Collaboration in Microsoft Planner](https://dev.to/alexrodovit/orchestrating-human-ai-collaboration-in-microsoft-planner-33ed)
+- [The best improvement I’ve made to my Cursor workflow](https://dev.to/dsmurrell/the-best-improvement-ive-made-to-my-cursor-workflow-2pf4)
+- [Stop Mocking Everything: How to Test API Resilience in Your Terminal &lpar;Curl + Chaos Proxy&rpar;](https://dev.to/aragossa/stop-mocking-everything-how-to-test-api-resilience-in-your-terminal-curl-chaos-proxy-3k69)
+- [How Kiro’s Global Steering Turned Me Into a Solo Frankenstein Engineer](https://dev.to/topeakintola/how-kiros-global-steering-turned-me-into-a-solo-frankenstein-engineer-5hm8)
+- [45](https://dev.to/tudorcrisan/new-record-2hb8)
+- [Stillwater Validation for Rustaceans: Accumulating Errors Instead of Failing Fast](https://dev.to/entropicdrift/stillwater-validation-for-rustaceans-accumulating-errors-instead-of-failing-fast-259f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
