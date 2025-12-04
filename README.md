@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Seeking Technical Co-Founder - AI/ML Integration + Smart Contract Development &lpar;2 Revenue-Generating Projects&rpar;](https://dev.to/frederick_alonso_8e471d02/seeking-technical-co-founder-aiml-integration-smart-contract-development-2-revenue-generating-1hgk)
-- [A Deep Cybersecurity View of Encryption](https://dev.to/alvinseyidov/a-deep-cybersecurity-view-of-encryption-g4b)
-- [Terraform Project: Simple EC2 + Security Group](https://dev.to/jumptotech/terraform-project-simple-ec2-security-group-2bj0)
-- [Swift Testing #5: Parametrizando pruebas con arguments](https://dev.to/david_goyes_a488f58a17a53/swift-testing-5-parametrizando-pruebas-con-arguments-46p)
-- [Swift Testing #4: Correr pruebas de forma serial](https://dev.to/david_goyes_a488f58a17a53/swift-testing-4-correr-pruebas-de-forma-serial-nef)
+- [I Built a Zero-Knowledge VPN That Can&#39;t Track You &lpar;Even If It Wanted To&rpar;](https://dev.to/chronocoders/i-built-a-zero-knowledge-vpn-that-cant-track-you-even-if-it-wanted-to-29jf)
+- [AI Video Generators: The Reality Behind Scaling Social Content &lpar;Not the Hype&rpar;](https://dev.to/synergistdigitalmedia/ai-video-generators-the-reality-behind-scaling-social-content-not-the-hype-49i4)
+- [Choosing the Right AI Agent Framework: A Simple Decision Flow for Engineers](https://dev.to/nkassetty/choosing-the-right-ai-agent-framework-a-simple-decision-flow-for-engineers-5efl)
+- [How to Deploy a Voice Agent for Medical Office Appointment Setting](https://dev.to/callstacktech/how-to-deploy-a-voice-agent-for-medical-office-appointment-setting-13e)
+- [The difference between for...of and for...in loops in JavaScript](https://dev.to/mkbs_alaa/the-difference-between-forof-and-forin-loops-in-javascript-dh5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
