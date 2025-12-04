@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CVSS 10.0 RCE Rocks the Frontend World: React/Next.js Hit by a Log4Shell‑Level Vulnerability?](https://dev.to/arina_cholee/cvss-100-rce-rocks-the-frontend-world-reactnextjs-hit-by-a-log4shell-level-vulnerability-1nn2)
-- [TinyNN: A Fast, Zero-Dependency Neural Network Library for Node.js](https://dev.to/hodeware/tinynn-a-fast-zero-dependency-neural-network-library-for-nodejs-12la)
-- [Building Smarter AI: Lessons from My Capstone in the Kaggle Intensive](https://dev.to/pperumal_moorthy_8556ade/ai-agents-intensive-capstone-project-kaggle-learning-ai-automation-4mlh)
-- [Finding Better BrowserStack Reporting Alternatives](https://dev.to/pratik01/finding-better-browserstack-reporting-alternatives-2639)
-- [How Low-Code Platforms Are Transforming Startup App Development](https://dev.to/eira-wexford/how-low-code-platforms-are-transforming-startup-app-development-2l3)
+- [Advanced Responsive Design Techniques for 2025: Building Future-Proof Websites](https://dev.to/sharique_siddiqui_8242dad/advanced-responsive-design-techniques-for-2025-building-future-proof-websites-2nmm)
+- [Turn Your PDF Library into a Searchable Research Database &lpar;in ~100 Lines with CocoIndex&rpar;](https://dev.to/badmonster0/turn-your-pdf-library-into-a-searchable-research-database-in-100-lines-with-cocoindex-ke3)
+- [An ERP Built with NocoBase: From a Community User](https://dev.to/nocobase/an-erp-built-with-nocobase-from-a-community-user-1o3d)
+- [Insights from the 5-Day AI Agents Intensive: New Methods and a Clearer Path to Effective Agent Implementation](https://dev.to/vicky_mahendra_fd092c844c/thoughts-on-finishing-the-5-day-ai-agents-intensive-new-approaches-new-perspectives-and-a-49df)
+- [New Feature in Bult.ai: New Terminal for Debugging Running Services](https://dev.to/bult/new-feature-in-bultai-new-terminal-for-debugging-running-services-3i53)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
