@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [!!!!!! Critical React2Shell Vulnerability Exposes Millions of Web Apps to Remote Takeover !!!!!!](https://dev.to/kpcofgs/-critical-react2shell-vulnerability-exposes-millions-of-web-apps-to-remote-takeover--408l)
-- [Why you should always optimize for mobile](https://dev.to/egledigital/why-you-should-always-optimize-for-mobile-1072)
-- [Analyzing News Sentiment with VADER](https://dev.to/hasdata_com/analyzing-news-sentiment-with-vader-2if2)
-- [How to build an engine for AI Code Review - Part 1](https://dev.to/kodus/how-to-build-an-engine-for-ai-code-review-part-1-cfl)
-- [From Curiosity to Confidence: My Learning Journey in the Google AI Agents Intensive](https://dev.to/23501a4212_boyapatinissi/from-curiosity-to-confidence-my-learning-journey-in-the-google-ai-agents-intensive-3o20)
+- [The Courage to Disconnect: Why I Chose &quot;Privacy First&quot; in a Data-Hungry World](https://dev.to/elevenapril/the-courage-to-disconnect-why-i-chose-privacy-first-in-a-data-hungry-world-47b6)
+- [From Client to Server: Alova 3&#39;s Full-Stack Request Strategy Practice](https://dev.to/eddieangle/from-client-to-server-alova-3s-full-stack-request-strategy-practice-631)
+- [Build Holiday Card Collages with One Line of Code](https://dev.to/cloudinary/build-holiday-card-collages-with-one-line-of-code-3cp5)
+- [Challenge no. 1 - User Avatar](https://dev.to/preetha_vaishnavi_2b82358/challenge-no-1-user-avatar-1ee9)
+- [It’s time to free JavaScript](https://dev.to/technoblogger14o3/its-time-to-free-javascript-285c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
