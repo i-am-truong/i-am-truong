@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Color Theory in UI Design for Maximum Impact](https://dev.to/taqwah/color-theory-in-ui-design-for-maximum-impact-1ddo)
+- [Top Ruby on Rails Security Best Practices for Web Applications](https://dev.to/devang1810/top-ruby-on-rails-security-best-practices-for-web-applications-4i17)
+- [Function Calling and Tool Use: Turning LLMs into Action-Taking Agents](https://dev.to/qvfagundes/function-calling-and-tool-use-turning-llms-into-action-taking-agents-30ca)
 - [The 0.33-Second Coherence Framework: A New Timing Architecture for Stable, Safer AI](https://dev.to/anjanasaurabh317lab/the-033-second-coherence-framework-a-new-timing-architecture-for-stable-safer-ai-2moe)
-- [How To Develop A Smart AI Trip Planner App in 2026](https://dev.to/nickpe/how-to-develop-a-smart-ai-trip-planner-app-in-2026-4kfk)
-- [** My Journey Through the 5-Day AI Agents Intensive**](https://dev.to/rakesh_kumar_b60059bfb18e/-my-journey-through-the-5-day-ai-agents-intensive-4ibd)
-- [Updating data status with API Gateway WebSocket API](https://dev.to/aws-builders/updating-data-status-with-api-gateway-websocket-api-2al)
-- [Introduction to AI Agents: A Technical Overview for Beginners](https://dev.to/dumebii/introduction-to-ai-agents-a-technical-overview-for-developers-4ih4)
+- [Top Open-Source Generative AI Frameworks Developers Should Know in 2026](https://dev.to/william_smith/top-open-source-generative-ai-frameworks-developers-should-know-in-2026-5g3m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
