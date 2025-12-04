@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Color Theory in UI Design for Maximum Impact](https://dev.to/taqwah/color-theory-in-ui-design-for-maximum-impact-1ddo)
-- [Top Ruby on Rails Security Best Practices for Web Applications](https://dev.to/devang1810/top-ruby-on-rails-security-best-practices-for-web-applications-4i17)
-- [Function Calling and Tool Use: Turning LLMs into Action-Taking Agents](https://dev.to/qvfagundes/function-calling-and-tool-use-turning-llms-into-action-taking-agents-30ca)
-- [The 0.33-Second Coherence Framework: A New Timing Architecture for Stable, Safer AI](https://dev.to/anjanasaurabh317lab/the-033-second-coherence-framework-a-new-timing-architecture-for-stable-safer-ai-2moe)
-- [Top Open-Source Generative AI Frameworks Developers Should Know in 2026](https://dev.to/william_smith/top-open-source-generative-ai-frameworks-developers-should-know-in-2026-5g3m)
+- [How to Clear Saved Passwords on Windows 11: A Step-by-Step Guide](https://dev.to/mosek/how-to-clear-saved-passwords-on-windows-11-a-step-by-step-guide-51fl)
+- [Building a GPU-Accelerated File Explorer in 48 Hours with Kiro IDE](https://dev.to/pythonxi/building-a-gpu-accelerated-file-explorer-in-48-hours-with-kiro-ide-25j)
+- [Why Personal Branding Matters for Tech Professionals](https://dev.to/careerbytecode/why-personal-branding-matters-for-tech-professionals-2hh7)
+- [Day 4 — Midnight Vigil](https://dev.to/aerabi/day-4-midnight-vigil-3a77)
+- [How to Build AI Workflows Without Code Using Activepieces and Sevalla](https://dev.to/manishmshiva/how-to-build-ai-workflows-without-code-using-activepieces-and-sevalla-4jaa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
