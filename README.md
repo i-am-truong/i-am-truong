@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🔥 Day 4: RDD Internals - Partitions, Shuffles &amp; Repartitioning Demystified](https://dev.to/sandeepk27/day-4-rdd-internals-partitions-shuffles-repartitioning-demystified-mj9)
-- [Latency: What It Really Means, How It’s Measured, and Why Every Field Sees It Differently](https://dev.to/tick-to-trade/latency-what-it-really-means-how-its-measured-and-why-every-field-sees-it-differently-226h)
-- [Learning Reflections from the AI Agents Intensive Course &lpar;Google + Kaggle&rpar;](https://dev.to/jose_cachucho_5e288b4bc2/learning-reflections-from-the-ai-agents-intensive-course-google-kaggle-1g7a)
-- [KToon: Tiny Tables, Big Savings Plug TOON into Your @Serializable Kotlin Classes](https://dev.to/sanjayajoseph/ktoon-tiny-tables-big-savings-plug-toon-into-your-serializable-kotlin-classes-4091)
-- [SmartKNN Regression Benchmarks — How Far Can a Smarter KNN Really Go?](https://dev.to/jashwanth_thatipamula_8ee/smartknn-regression-benchmarks-how-far-can-a-smarter-knn-really-go-4953)
+- [Securing My Stack: Features and Experience Integrating Asgardeo, Ballerina, and Choreo](https://dev.to/maheshadinu/securing-my-stack-features-and-experience-integrating-asgardeo-ballerina-and-choreo-43dm)
+- [The Complete Guide to System Design in 2026](https://dev.to/fahimulhaq/complete-guide-to-system-design-oc7)
+- [Evidence of CVE-2025-55182 Exploitation attempts](https://dev.to/insrt-usrname/evidence-of-cve-2025-55182-exploitation-attempts-1h68)
+- [A five-day sprint from curiosity to creation](https://dev.to/vinaya_sandhiav_e4b93775b/a-five-day-sprint-from-curiosity-to-creation-c0h)
+- [Learning .NET from Beginner to Advanced Level&#39;s](https://dev.to/sapanapal6/learning-net-from-beginner-to-advanced-levels-3nhg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
