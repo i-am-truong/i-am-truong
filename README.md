@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why I Think Most AI Tools Don’t Deserve to Be SaaS](https://dev.to/jaideepparashar/why-i-think-most-ai-tools-dont-deserve-to-be-saas-1c2i)
-- [Why I Unpublished My Qeltrix Journey Article](https://dev.to/hejhdiss/why-i-unpublished-my-qeltrix-journey-article-417k)
-- [Powershell is low-key cool](https://dev.to/hueyemma769/powershell-is-low-key-cool-3g9i)
-- [How to Fix Karpenter Migration Issues During Upgrade &lpar;v0.25.0 v1.5.0&rpar;](https://dev.to/damola12345/how-to-fix-karpenter-migration-issues-during-upgrade-v0250-v150-l8p)
-- [Freeing Up Xcode Garbage with DevCleaner](https://dev.to/markkazakov/freeing-up-xcode-garbage-with-devcleaner-3cl0)
+- [Launch My Product TemplateFame.com !](https://dev.to/hyhor/launch-my-product-templatefamecom--233h)
+- [Physics in the Browser: How I Built a Beam Stress Visualizer with React &amp; Three.js](https://dev.to/yogavigneshengineer/physics-in-the-browser-how-i-built-a-beam-stress-visualizer-with-react-threejs-nem)
+- [All vector DBs claim &quot;long-term memory,&quot; but how long is lon](https://dev.to/nullure_ef11832f4ce3b466a/all-vector-dbs-claim-long-term-memory-but-how-long-is-lon-3nnm)
+- [Memory Leaks in Modern JS: A Deep Dive into Closures and Garbage Collection](https://dev.to/samuel_ochaba_eb9c875fa89/memory-leaks-in-modern-js-a-deep-dive-into-closures-and-garbage-collection-2n72)
+- [Jeff Su: Give Me 9 Minutes, I&#39;ll Make You AI-Native](https://dev.to/future_ai/jeff-su-give-me-9-minutes-ill-make-you-ai-native-28ee)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
