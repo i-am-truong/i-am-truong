@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building optimistic UI in Rails &lpar;and learn custom elements&rpar;](https://dev.to/railsdesigner/building-optimistic-ui-in-rails-and-learn-custom-elements-5ef4)
-- [AI Dev: Plan Mode vs. SDD — A Weekend Experiment](https://dev.to/maximsaplin/ai-dev-plan-mode-vs-sdd-a-weekend-experiment-f8e)
-- [Recipe Reanimator: How Kiro Helped Me Build a Frankenstein App That Fights Food Waste](https://dev.to/kirodotdev/recipe-reanimator-how-kiro-helped-me-build-a-frankenstein-app-that-fights-food-waste-37j0)
-- [Why Pharma Integrations Fail Quietly and What CTOs Need to Watch For](https://dev.to/newpagesolutions/why-pharma-integrations-fail-quietly-and-what-ctos-need-to-watch-for-3kbd)
-- [7 GA4 Custom Reports That Actually Matter &lpar;Plus Templates You Can Steal&rpar;](https://dev.to/synergistdigitalmedia/7-ga4-custom-reports-that-actually-matter-plus-templates-you-can-steal-589m)
+- [Smart Escrows Post #1: What are Smart Escrows?](https://dev.to/ripplexdev/smart-escrows-post-1-what-are-smart-escrows-34le)
+- [Building Effective Healthcheck Endpoints in Modern Backend Systems](https://dev.to/bhavyasethafk/building-effective-healthcheck-endpoints-in-modern-backend-systems-1noi)
+- [Debugging JavaScript Like a Pro: Essential Techniques and Tools](https://dev.to/thebitforge/debugging-javascript-like-a-pro-essential-techniques-and-tools-cfl)
+- [How to Build Reliable Data Pipelines for Analytics](https://dev.to/mdflaher/how-to-build-reliable-data-pipelines-for-analytics-33i5)
+- [So… what is GitHub Copilot’s &quot;Goldeneye&quot; model and why should devs care?](https://dev.to/vevarunsharma/so-what-is-github-copilots-goldeneye-model-and-why-should-devs-care-25ff)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
