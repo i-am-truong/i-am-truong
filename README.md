@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI Fitness App in 10 Days: How Kiro Changed My Development Workflow](https://dev.to/tharun_kumar_ad80f494347f/building-an-ai-fitness-app-in-10-days-how-kiro-changed-my-development-workflow-31oi)
-- [**Cumplimiento Normativo con Responsabilidad: Evalúe con Cui](https://dev.to/drcarlosruizviquez/cumplimiento-normativo-con-responsabilidad-evalue-con-cui-eno)
-- [Day 10 : Conditionals, Dynamic Blocks &amp; Splat Expressions](https://dev.to/alafiz/day-10-conditionals-dynamic-blocks-splat-expressions-41ib)
-- [I Built My First AI Agent in 30 Minutes &lpar;No Code Required&rpar; - Here&#39;s How](https://dev.to/blogai/i-built-my-first-ai-agent-in-30-minutes-no-code-required-heres-how-3lea)
-- [Separating Class Responsibilities with Clprolf](https://dev.to/charles_koffler_bcabc582b/separating-class-responsibilities-with-clprolf-7f)
+- [Why I Chose Vite Over Webpack: 10x Faster Builds &amp; Instant HMR](https://dev.to/saswatapal/why-i-chose-vite-over-webpack-10x-faster-builds-instant-hmr-8fp)
+- [Storybook 10: Why I Chose It Over Ladle and Histoire for Component Documentation](https://dev.to/saswatapal/storybook-10-why-i-chose-it-over-ladle-and-histoire-for-component-documentation-2omn)
+- [Do You Need State Management in 2025? React Context vs Zustand vs Jotai vs Redux](https://dev.to/saswatapal/do-you-need-state-management-in-2025-react-context-vs-zustand-vs-jotai-vs-redux-1ho)
+- [How to Send Emails in Python: Complete Guide with SMTP and API Examples](https://dev.to/davecodes/how-to-send-an-email-in-python-35l1)
+- [AI vs. Machine Learning vs. Deep Learning](https://dev.to/francescoxx/ai-vs-machine-learning-vs-deep-learning-2ph0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
