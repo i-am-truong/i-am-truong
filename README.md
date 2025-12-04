@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Prompts to Autonomous Ecosystems: My Learning Journey in the 5-Day Google x Kaggle AI Agents Intensive](https://dev.to/manoj_mallick_71d0dd7eaa6/from-prompts-to-autonomous-ecosystems-my-learning-journey-in-the-5-day-google-x-kaggle-ai-agents-oh4)
-- [Sharpen Your Coding Skills with 25 Daily JavaScript and Python Challenges 🎅 AdventJS 2025](https://dev.to/midudev/sharpen-your-coding-skills-with-25-daily-javascript-and-python-challenges-adventjs-2025-dhk)
-- [New Relic - CPU usage &lpar;%&rpar; and Load Average](https://dev.to/aws-heroes/new-relic-cpu-usage-and-load-average-3o4)
-- [AI doesn&#39;t make typos, I do &lpar;and I&#39;m learning&rpar;: My raw notes from the Google Agents Challenge](https://dev.to/mauricio_rodrguez_25d0bc/ai-doesnt-make-typos-i-do-and-im-learning-my-raw-notes-from-the-google-agents-challenge-4i8m)
-- [GoLang та Казино Аналітика: Будуємо Прибуткові Звіти в Реальному Часі](https://dev.to/4mars/golang-ta-kazino-analitika-buduiemo-pributkovi-zviti-v-riealnomu-chasi-3gb5)
+- [SwiftUI Async &amp; Concurrency Patterns](https://dev.to/sebastienlato/swiftui-async-concurrency-patterns-5e9j)
+- [Learning Reflection](https://dev.to/doddle_go_cc53307c694d0a6/learning-reflection-5c0)
+- [BaseOrchestrator: A Pattern for Complex Async Pipelines in Node/Fastify](https://dev.to/scotty595/baseorchestrator-a-pattern-for-complex-async-pipelines-in-nodefastify-24p6)
+- [Built a nutrition app with React Native + Expo SDK 54 that actually feels native on iOS 👀](https://dev.to/hakimmohamed/built-a-nutrition-app-with-react-native-expo-sdk-54-that-actually-feels-native-on-ios-g7c)
+- [How to get your next SAAS Idea and make money online](https://dev.to/shreyvijayvargiya/how-to-get-your-next-saas-idea-and-make-money-online-2pp8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
