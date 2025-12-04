@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Announcing pytest-test-categories v1.1.0: Bring Google Testing Philosophy to Python](https://dev.to/mikelane/announcing-pytest-test-categories-v110-bring-google-testing-philosophy-to-python-3bag)
+- [How to Send Email with JavaScript: Complete Guide with SendLayer API](https://dev.to/davecodes/how-to-send-email-with-javascript-complete-guide-with-sendlayer-api-40ia)
 - [Deepening My Roots in the Data Ecosystem - Choosing Depth Over Breadth](https://dev.to/jongwan93/deepening-my-roots-in-the-data-ecosystem-choosing-depth-over-breadth-322)
 - [I Built a Zero-Knowledge VPN That Can&#39;t Track You &lpar;Even If It Wanted To&rpar;](https://dev.to/chronocoders/i-built-a-zero-knowledge-vpn-that-cant-track-you-even-if-it-wanted-to-29jf)
 - [AI Video Generators: The Reality Behind Scaling Social Content &lpar;Not the Hype&rpar;](https://dev.to/synergistdigitalmedia/ai-video-generators-the-reality-behind-scaling-social-content-not-the-hype-49i4)
-- [Choosing the Right AI Agent Framework: A Simple Decision Flow for Engineers](https://dev.to/nkassetty/choosing-the-right-ai-agent-framework-a-simple-decision-flow-for-engineers-5efl)
-- [Beyond Backpropagation: Hyperdimensional Graphs for Lightning-Fast Classification by Arvind Sundararajan](https://dev.to/arvind_sundararajan/beyond-backpropagation-hyperdimensional-graphs-for-lightning-fast-classification-by-arvind-4j6l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
