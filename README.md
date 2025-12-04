@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Smart Escrows Post #1: What are Smart Escrows?](https://dev.to/ripplexdev/smart-escrows-post-1-what-are-smart-escrows-34le)
-- [Building Effective Healthcheck Endpoints in Modern Backend Systems](https://dev.to/bhavyasethafk/building-effective-healthcheck-endpoints-in-modern-backend-systems-1noi)
-- [Debugging JavaScript Like a Pro: Essential Techniques and Tools](https://dev.to/thebitforge/debugging-javascript-like-a-pro-essential-techniques-and-tools-cfl)
-- [How to Build Reliable Data Pipelines for Analytics](https://dev.to/mdflaher/how-to-build-reliable-data-pipelines-for-analytics-33i5)
-- [So… what is GitHub Copilot’s &quot;Goldeneye&quot; model and why should devs care?](https://dev.to/vevarunsharma/so-what-is-github-copilots-goldeneye-model-and-why-should-devs-care-25ff)
+- [How to Use vCards to Land Brand Deals and Collaborations](https://dev.to/imtaslim/how-to-use-vcards-to-land-brand-deals-and-collaborations-5em4)
+- [Day 6 - Terraform Project Structure Best Practices](https://dev.to/ankitgadling/day-6-terraform-project-structure-best-practices-4alc)
+- [Roasting Turkey and Building Reasoning Engines](https://dev.to/innacampo/roasting-turkey-and-building-reasoning-engines-ge8)
+- [⚡ My Experience Rebuilding a Harry Potter–Themed Website &lpar;Version 2.0&rpar;](https://dev.to/arishn/my-experience-rebuilding-a-harry-potter-themed-website-version-20-b8p)
+- [How I Built a Decentralized NFT Gift Protocol &lpar;and why digital gifting is broken&rpar;](https://dev.to/iamjayant/how-i-built-a-decentralized-nft-gift-protocol-and-why-digital-gifting-is-broken-bk9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
