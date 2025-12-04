@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [De RAG tradicional a Agentic RAG](https://dev.to/carly_chavez1/de-rag-tradicional-a-agentic-rag-1am5)
+- [Best Practices for Modern Persian Web Development: A Practical Guide](https://dev.to/sarah-navin/best-practices-for-modern-persian-web-development-a-practical-guide-ci6)
+- [Why Tech Still Feels Like Magic in 2025](https://dev.to/destinytch001/why-tech-still-feels-like-magic-in-2025-4801)
 - [The best improvement I’ve made to my Cursor workflow](https://dev.to/dsmurrell/the-best-improvement-ive-made-to-my-cursor-workflow-2pf4)
 - [Stop Mocking Everything: How to Test API Resilience in Your Terminal &lpar;Curl + Chaos Proxy&rpar;](https://dev.to/aragossa/stop-mocking-everything-how-to-test-api-resilience-in-your-terminal-curl-chaos-proxy-3k69)
-- [How Kiro’s Global Steering Turned Me Into a Solo Frankenstein Engineer](https://dev.to/topeakintola/how-kiros-global-steering-turned-me-into-a-solo-frankenstein-engineer-5hm8)
-- [45](https://dev.to/tudorcrisan/new-record-2hb8)
-- [Stillwater Validation for Rustaceans: Accumulating Errors Instead of Failing Fast](https://dev.to/entropicdrift/stillwater-validation-for-rustaceans-accumulating-errors-instead-of-failing-fast-259f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
