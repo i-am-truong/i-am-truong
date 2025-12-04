@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Seeking Technical Co-Founder - AI/ML Integration + Smart Contract Development &lpar;2 Revenue-Generating Projects&rpar;](https://dev.to/frederick_alonso_8e471d02/seeking-technical-co-founder-aiml-integration-smart-contract-development-2-revenue-generating-1hgk)
 - [A Deep Cybersecurity View of Encryption](https://dev.to/alvinseyidov/a-deep-cybersecurity-view-of-encryption-g4b)
 - [Terraform Project: Simple EC2 + Security Group](https://dev.to/jumptotech/terraform-project-simple-ec2-security-group-2bj0)
 - [Swift Testing #5: Parametrizando pruebas con arguments](https://dev.to/david_goyes_a488f58a17a53/swift-testing-5-parametrizando-pruebas-con-arguments-46p)
 - [Swift Testing #4: Correr pruebas de forma serial](https://dev.to/david_goyes_a488f58a17a53/swift-testing-4-correr-pruebas-de-forma-serial-nef)
-- [Learning Istio the Hard Way: A Real Service Mesh Lab with Canary, mTLS, and Tracing.](https://dev.to/denyme24/learning-istio-the-hard-way-a-real-service-mesh-lab-with-canary-mtls-and-tracing-m82)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
