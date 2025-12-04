@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From glitch to fix: what a real debugging session taught me about find the 😘 emoji in Italian](https://dev.to/tomjohnson3/from-glitch-to-fix-what-a-real-debugging-session-taught-me-about-find-the-emoji-in-italian-4n0f)
-- [Ethereum Gas Limit 60M, EF Details Full EIL Architecture, Arbitrum ARBOS, Soneium &amp; Sony IRC Fan Identity](https://dev.to/etherspot/ethereum-gas-limit-60m-ef-details-full-eil-architecture-arbitrum-arbos-soneium-sony-irc-fan-1p81)
-- [My second Cloudflare Tunnel](https://dev.to/nfrankel/my-second-cloudflare-tunnel-2plb)
-- [Numla: The Notepad That Thinks in Numbers](https://dev.to/daviducolo/numla-the-notepad-that-thinks-in-numbers-3239)
-- [Building a Centralized Action for Large-Scale SaaS with Next.js](https://dev.to/jackfd120/building-a-centralized-action-for-large-scale-saas-with-nextjs-53p7)
+- [How the 5-Day AI Agents Course Changed My Understanding of AI Agents](https://dev.to/shyam_kumar_d18cf9dee039e/how-the-5-day-ai-agents-course-changed-my-understanding-of-ai-agents-2i23)
+- [Comparing Data Management Tools for Robotics](https://dev.to/reductstore/comparing-data-management-tools-for-robotics-5a61)
+- [Web Development in 2026 The CTOs Blueprint for AI and Edge](https://dev.to/devin-rosario/web-development-in-2026-the-ctos-blueprint-for-ai-and-edge-38m6)
+- [Figma’s New Features: What’s New &amp; Why Designers Are Excited](https://dev.to/aslam_ansari_df1bced58701/figmas-new-features-whats-new-why-designers-are-excited-cpl)
+- [AWS re:Invent 2025 - Modern SFTP: Deploy AWS Transfer Family, Identity, and Automation &lpar;STG419&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-modern-sftp-deploy-aws-transfer-family-identity-and-automation-stg419-15mo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
