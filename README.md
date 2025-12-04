@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Launch My Product TemplateFame.com !](https://dev.to/hyhor/launch-my-product-templatefamecom--233h)
-- [Physics in the Browser: How I Built a Beam Stress Visualizer with React &amp; Three.js](https://dev.to/yogavigneshengineer/physics-in-the-browser-how-i-built-a-beam-stress-visualizer-with-react-threejs-nem)
-- [All vector DBs claim &quot;long-term memory,&quot; but how long is lon](https://dev.to/nullure_ef11832f4ce3b466a/all-vector-dbs-claim-long-term-memory-but-how-long-is-lon-3nnm)
-- [Memory Leaks in Modern JS: A Deep Dive into Closures and Garbage Collection](https://dev.to/samuel_ochaba_eb9c875fa89/memory-leaks-in-modern-js-a-deep-dive-into-closures-and-garbage-collection-2n72)
-- [Jeff Su: Give Me 9 Minutes, I&#39;ll Make You AI-Native](https://dev.to/future_ai/jeff-su-give-me-9-minutes-ill-make-you-ai-native-28ee)
+- [!!!!!! Critical React2Shell Vulnerability Exposes Millions of Web Apps to Remote Takeover !!!!!!](https://dev.to/kpcofgs/-critical-react2shell-vulnerability-exposes-millions-of-web-apps-to-remote-takeover--408l)
+- [Why you should always optimize for mobile](https://dev.to/egledigital/why-you-should-always-optimize-for-mobile-1072)
+- [Analyzing News Sentiment with VADER](https://dev.to/hasdata_com/analyzing-news-sentiment-with-vader-2if2)
+- [How to build an engine for AI Code Review - Part 1](https://dev.to/kodus/how-to-build-an-engine-for-ai-code-review-part-1-cfl)
+- [From Curiosity to Confidence: My Learning Journey in the Google AI Agents Intensive](https://dev.to/23501a4212_boyapatinissi/from-curiosity-to-confidence-my-learning-journey-in-the-google-ai-agents-intensive-3o20)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
