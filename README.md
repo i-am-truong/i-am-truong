@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Insights from Google &amp; Kaggle’s 5-Day AI Program](https://dev.to/suresh_techgrowth/insights-from-google-kaggles-5-day-ai-program-3m4n)
+- [Serve the same route from Next.js App Router and Pages Router](https://dev.to/erfanebrahimnia/serve-the-same-route-from-nextjs-app-router-and-pages-router-3c0b)
 - [On Software Complexity: Why Can&#39;t We Make Simple Software?](https://dev.to/pmbanugo/on-software-complexity-why-cant-we-make-simple-software-5cbh)
-- [Workspaces, react and vite. A real-world case study for managing duplicate libraries.](https://dev.to/mattia/workspaces-react-and-vite-a-real-world-case-study-for-managing-duplicate-libraries-4ojb)
-- [Lo que más me sorprendió de re:Invent 2025 &lpar;hasta ahora&rpar;](https://dev.to/ricardoceci/lo-que-mas-me-sorprendio-de-reinvent-2025-hasta-ahora-1afa)
-- [Design System Architectures in Minutes with AI](https://dev.to/matt_frank_1c8b599c4c37bd/design-system-architectures-in-minutes-with-ai-48m8)
-- [Y&#39;all NEED to see this!!!](https://dev.to/ameena/yall-need-to-see-this-3me1)
+- [SwiftUI #5: Estilo de botón](https://dev.to/david_goyes_a488f58a17a53/swiftui-5-estilo-de-boton-28f4)
+- [Orchestrating Human–AI Collaboration in Microsoft Planner](https://dev.to/alexrodovit/orchestrating-human-ai-collaboration-in-microsoft-planner-33ed)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
