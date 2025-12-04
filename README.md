@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Securing My Stack: Features and Experience Integrating Asgardeo, Ballerina, and Choreo](https://dev.to/maheshadinu/securing-my-stack-features-and-experience-integrating-asgardeo-ballerina-and-choreo-43dm)
-- [The Complete Guide to System Design in 2026](https://dev.to/fahimulhaq/complete-guide-to-system-design-oc7)
-- [Evidence of CVE-2025-55182 Exploitation attempts](https://dev.to/insrt-usrname/evidence-of-cve-2025-55182-exploitation-attempts-1h68)
-- [A five-day sprint from curiosity to creation](https://dev.to/vinaya_sandhiav_e4b93775b/a-five-day-sprint-from-curiosity-to-creation-c0h)
-- [Learning .NET from Beginner to Advanced Level&#39;s](https://dev.to/sapanapal6/learning-net-from-beginner-to-advanced-levels-3nhg)
+- [Building optimistic UI in Rails &lpar;and learn custom elements&rpar;](https://dev.to/railsdesigner/building-optimistic-ui-in-rails-and-learn-custom-elements-5ef4)
+- [AI Dev: Plan Mode vs. SDD — A Weekend Experiment](https://dev.to/maximsaplin/ai-dev-plan-mode-vs-sdd-a-weekend-experiment-f8e)
+- [Recipe Reanimator: How Kiro Helped Me Build a Frankenstein App That Fights Food Waste](https://dev.to/kirodotdev/recipe-reanimator-how-kiro-helped-me-build-a-frankenstein-app-that-fights-food-waste-37j0)
+- [Why Pharma Integrations Fail Quietly and What CTOs Need to Watch For](https://dev.to/newpagesolutions/why-pharma-integrations-fail-quietly-and-what-ctos-need-to-watch-for-3kbd)
+- [7 GA4 Custom Reports That Actually Matter &lpar;Plus Templates You Can Steal&rpar;](https://dev.to/synergistdigitalmedia/7-ga4-custom-reports-that-actually-matter-plus-templates-you-can-steal-589m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
