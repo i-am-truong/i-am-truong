@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Deploy an AI Voice Agent for Customer Support Using VAPI](https://dev.to/callstacktech/how-to-deploy-an-ai-voice-agent-for-customer-support-using-vapi-5hmp)
-- [TDD in Action — Building a Simple Todo App](https://dev.to/sheikhlimon/tdd-in-action-building-a-simple-todo-app-40mf)
-- [Apache DolphinScheduler vs. Crontab &amp; Airflow: An Efficiency Benchmark](https://dev.to/chen_debra_3060b21d12b1b0/apache-dolphinscheduler-vs-crontab-airflow-an-efficiency-benchmark-3hl9)
-- [Comparing sync/async PostgreSQL18（Amazon RDS）](https://dev.to/kanahiro/comparing-syncasync-postgresql18amazon-rds-1g31)
-- [The &quot;Separation of Concerns&quot; Lie: Why Your &quot;Clean&quot; Architecture is Actually Spaghetti](https://dev.to/samuel_ochaba_eb9c875fa89/the-separation-of-concerns-lie-why-your-clean-architecture-is-actually-spaghetti-5h07)
+- [From glitch to fix: what a real debugging session taught me about find the 😘 emoji in Italian](https://dev.to/tomjohnson3/from-glitch-to-fix-what-a-real-debugging-session-taught-me-about-find-the-emoji-in-italian-4n0f)
+- [Ethereum Gas Limit 60M, EF Details Full EIL Architecture, Arbitrum ARBOS, Soneium &amp; Sony IRC Fan Identity](https://dev.to/etherspot/ethereum-gas-limit-60m-ef-details-full-eil-architecture-arbitrum-arbos-soneium-sony-irc-fan-1p81)
+- [My second Cloudflare Tunnel](https://dev.to/nfrankel/my-second-cloudflare-tunnel-2plb)
+- [Numla: The Notepad That Thinks in Numbers](https://dev.to/daviducolo/numla-the-notepad-that-thinks-in-numbers-3239)
+- [Building a Centralized Action for Large-Scale SaaS with Next.js](https://dev.to/jackfd120/building-a-centralized-action-for-large-scale-saas-with-nextjs-53p7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
