@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why I Chose Vite Over Webpack: 10x Faster Builds &amp; Instant HMR](https://dev.to/saswatapal/why-i-chose-vite-over-webpack-10x-faster-builds-instant-hmr-8fp)
-- [Storybook 10: Why I Chose It Over Ladle and Histoire for Component Documentation](https://dev.to/saswatapal/storybook-10-why-i-chose-it-over-ladle-and-histoire-for-component-documentation-2omn)
-- [Do You Need State Management in 2025? React Context vs Zustand vs Jotai vs Redux](https://dev.to/saswatapal/do-you-need-state-management-in-2025-react-context-vs-zustand-vs-jotai-vs-redux-1ho)
-- [How to Send Emails in Python: Complete Guide with SMTP and API Examples](https://dev.to/davecodes/how-to-send-an-email-in-python-35l1)
-- [AI vs. Machine Learning vs. Deep Learning](https://dev.to/francescoxx/ai-vs-machine-learning-vs-deep-learning-2ph0)
+- [On Software Complexity: Why Can&#39;t We Make Simple Software?](https://dev.to/pmbanugo/on-software-complexity-why-cant-we-make-simple-software-5cbh)
+- [Workspaces, react and vite. A real-world case study for managing duplicate libraries.](https://dev.to/mattia/workspaces-react-and-vite-a-real-world-case-study-for-managing-duplicate-libraries-4ojb)
+- [Lo que más me sorprendió de re:Invent 2025 &lpar;hasta ahora&rpar;](https://dev.to/ricardoceci/lo-que-mas-me-sorprendio-de-reinvent-2025-hasta-ahora-1afa)
+- [Design System Architectures in Minutes with AI](https://dev.to/matt_frank_1c8b599c4c37bd/design-system-architectures-in-minutes-with-ai-48m8)
+- [Y&#39;all NEED to see this!!!](https://dev.to/ameena/yall-need-to-see-this-3me1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
