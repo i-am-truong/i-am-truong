@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [React Performance Optimization: 12 Tips Every Developer Should Know](https://dev.to/pixel_mosaic/react-performance-optimization-12-tips-every-developer-should-know-3cd7)
-- [How AI Discovers Your MCP Tools?](https://dev.to/ndabene/how-ai-discovers-your-mcp-tools-1iml)
-- [What to Do After a Tech Layoff: A Practical &amp; Motivational Guide to Bounce Back Stronger](https://dev.to/alvisonhunter/what-to-do-after-a-tech-layoff-a-practical-motivational-guide-to-bounce-back-stronger-4npm)
-- [Run LLMs Completely Offline on Your Phone: A Practical Guide](https://dev.to/atik/run-llms-completely-offline-on-your-phone-a-practical-guide-d9i)
-- [Context Is Currency: Why MCP Matters for Enterprise AI](https://dev.to/sreeni5018/context-is-currency-why-mcp-matters-for-enterprise-ai-1mdg)
+- [My First DEV++ Post: Starting My Tech Writing Journey](https://dev.to/aryan_kumar_ed46414e317d9/my-first-dev-post-starting-my-tech-writing-journey-2n68)
+- [From Prompts to Autonomous Systems: My Learning Journey in the AI Agents Intensive](https://dev.to/aditya_kumar_ai00/from-prompts-to-autonomous-systems-my-learning-journey-in-the-ai-agents-intensive-3dj4)
+- [Designing a Secure Digital Receipt Protocol &lpar;DRP&rpar; with Derived Identities, AES-GCM &amp; Ed25519 Signatures](https://dev.to/antonio_socorro_95e3ff086/designing-a-secure-digital-receipt-protocol-drp-with-derived-identities-aes-gcm-ed25519-3e2k)
+- [Behind Every Click: Understanding Client–Server Architecture](https://dev.to/muraliairody/behind-every-click-understanding-client-server-architecture-4hpd)
+- [Hello Everyone](https://dev.to/aditya_kumar_ai00/hello-everyone-27nm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
