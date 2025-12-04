@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [React Performance Optimization: 12 Tips Every Developer Should Know](https://dev.to/pixel_mosaic/react-performance-optimization-12-tips-every-developer-should-know-3cd7)
+- [How AI Discovers Your MCP Tools?](https://dev.to/ndabene/how-ai-discovers-your-mcp-tools-1iml)
+- [What to Do After a Tech Layoff: A Practical &amp; Motivational Guide to Bounce Back Stronger](https://dev.to/alvisonhunter/what-to-do-after-a-tech-layoff-a-practical-motivational-guide-to-bounce-back-stronger-4npm)
 - [Run LLMs Completely Offline on Your Phone: A Practical Guide](https://dev.to/atik/run-llms-completely-offline-on-your-phone-a-practical-guide-d9i)
 - [Context Is Currency: Why MCP Matters for Enterprise AI](https://dev.to/sreeni5018/context-is-currency-why-mcp-matters-for-enterprise-ai-1mdg)
-- [The Essential Skills of an AI Code Supervisor](https://dev.to/mteheran/the-essential-skills-of-an-ai-code-supervisor-3h6k)
-- [A Real-World Comparison of Testing Management Tools: GitHub Actions vs GitLab CI/CDs](https://dev.to/hashiravc/a-real-world-comparison-of-testing-management-tools-github-actions-vs-gitlab-cicds-52g)
-- [Offline Payments &amp; Deferred Transactions in Android Apps &lpar;2025 Guide&rpar;](https://dev.to/vaibhav_shakya_e6b352bfc4/offline-payments-deferred-transactions-in-android-apps-2025-guide-2i91)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
