@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building My Personal Website: From Idea to Automated Deployment &lpar;Part 2&rpar;](https://dev.to/mikula/building-my-personal-website-from-idea-to-automated-deployment-part-2-21g4)
-- [Don&#39;t Feed HTML to Your Agents](https://dev.to/eggp/dont-feed-html-to-your-agents-2cf5)
-- [🏆 Most-Watched Talks in Javascript, Java, Rust, Go, Python, Kotlin &amp; C++ of 2025 &lpar;so far&rpar;](https://dev.to/techtalksweekly/most-watched-talks-in-javascript-java-rust-go-python-kotlin-c-of-2025-so-far-5ghh)
-- [10X Developer and the POC Trap](https://dev.to/igadii/10x-developer-and-the-poc-trap-4cc5)
-- [The Git Mental - Model Snapshots not Diffs](https://dev.to/bolontiku_eb2e9933657c822/the-git-mental-model-snapshots-not-diffs-3450)
+- [🔥 Day 4: RDD Internals - Partitions, Shuffles &amp; Repartitioning Demystified](https://dev.to/sandeepk27/day-4-rdd-internals-partitions-shuffles-repartitioning-demystified-mj9)
+- [Latency: What It Really Means, How It’s Measured, and Why Every Field Sees It Differently](https://dev.to/tick-to-trade/latency-what-it-really-means-how-its-measured-and-why-every-field-sees-it-differently-226h)
+- [Learning Reflections from the AI Agents Intensive Course &lpar;Google + Kaggle&rpar;](https://dev.to/jose_cachucho_5e288b4bc2/learning-reflections-from-the-ai-agents-intensive-course-google-kaggle-1g7a)
+- [KToon: Tiny Tables, Big Savings Plug TOON into Your @Serializable Kotlin Classes](https://dev.to/sanjayajoseph/ktoon-tiny-tables-big-savings-plug-toon-into-your-serializable-kotlin-classes-4091)
+- [SmartKNN Regression Benchmarks — How Far Can a Smarter KNN Really Go?](https://dev.to/jashwanth_thatipamula_8ee/smartknn-regression-benchmarks-how-far-can-a-smarter-knn-really-go-4953)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
