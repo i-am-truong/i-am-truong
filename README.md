@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Boosting My NextJS Blog’s Visibility with RSS](https://dev.to/andymagill/boosting-my-nextjs-blogs-visibility-with-rss-3n95)
-- [Day 03: Creating and Managing an AWS S3 Bucket Using Terraform](https://dev.to/sreya_sharma_711168ec58fc/day-03-creating-and-managing-an-aws-s3-bucket-using-terraform-b5c)
-- [Free forever, privacy-first browser tools — 150+ utilities in one place](https://dev.to/nityam2007/free-forever-privacy-first-browser-tools-150-utilities-in-one-place-1e26)
-- [How Rust Is Quietly Rewriting the AI Compute Stack](https://dev.to/manjushaps/how-rust-is-quietly-rewriting-the-ai-compute-stack-20nf)
-- [Kalman Filter &lpar;Day 1&rpar; - Why?](https://dev.to/chocolatebrownie/kalman-filter-day-1-why-3bcm)
+- [Building My Personal Website: From Idea to Automated Deployment &lpar;Part 2&rpar;](https://dev.to/mikula/building-my-personal-website-from-idea-to-automated-deployment-part-2-21g4)
+- [Don&#39;t Feed HTML to Your Agents](https://dev.to/eggp/dont-feed-html-to-your-agents-2cf5)
+- [🏆 Most-Watched Talks in Javascript, Java, Rust, Go, Python, Kotlin &amp; C++ of 2025 &lpar;so far&rpar;](https://dev.to/techtalksweekly/most-watched-talks-in-javascript-java-rust-go-python-kotlin-c-of-2025-so-far-5ghh)
+- [10X Developer and the POC Trap](https://dev.to/igadii/10x-developer-and-the-poc-trap-4cc5)
+- [The Git Mental - Model Snapshots not Diffs](https://dev.to/bolontiku_eb2e9933657c822/the-git-mental-model-snapshots-not-diffs-3450)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
