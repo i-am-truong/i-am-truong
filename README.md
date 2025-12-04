@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Seeking advice on a Python venv issue blocking my AI productivity tools &lpar;built with &#39;Vibe Coding&#39;!&rpar; S](https://dev.to/ctrlcctrlv/seeking-advice-on-a-python-venv-issue-blocking-my-ai-productivity-tools-built-with-vibe-coding-38k3)
-- [ntomb – an undead connections monitor for Kiroween](https://dev.to/jihun/ntomb-an-undead-connections-monitor-for-kiroween-4ce3)
-- [Advent.js 2025🎅🏼| Reto #2: Fabrica los juguetes](https://dev.to/duxtech/adventjs-2025-reto-2-fabrica-los-juguetes-m78)
-- [My Learning Journey with the AI Agents Intensive](https://dev.to/safa_mariyam_43aeb7d98cae/my-learning-journey-with-the-ai-agents-intensive-5aih)
-- [Advent of AI 2025 - Day 3: Building Data Visualizations with Goose](https://dev.to/nickytonline/advent-of-ai-2025-day-1-building-data-visualizations-with-goose-g7f)
+- [Life Behind the Bubble Tea Counter](https://dev.to/mirabubblebrewnotes/life-behind-the-bubble-tea-counter-30kf)
+- [From Monolithic CLIs to Modular Plugins: Applying the Strangler Fig Pattern](https://dev.to/aman_kumar_bdd40f1b711c15/from-monolithic-clis-to-modular-plugins-applying-the-strangler-fig-pattern-3gok)
+- [iOS Performance Tools Review: Comparison and recommended mixes of six common solutions &lpar;2025&rpar;.](https://dev.to/datastack/ios-performance-tools-review-comparison-and-recommended-mixes-of-six-common-solutions-2025-3nnm)
+- [My Journey Through the Kaggle Google 5-Day Intensive ML Sprint](https://dev.to/sourav_sarangi_dad0e0ae28/my-journey-through-the-kaggle-x-google-5-day-intensive-ml-sprint-2a1n)
+- [My 5-Day Journey with the Kaggle AI Agents Intensive – What I Learned &amp; Built](https://dev.to/busanamoni_sowmya_7df2431/my-5-day-journey-with-the-kaggle-ai-agents-intensive-what-i-learned-built-21hn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
