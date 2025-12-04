@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Advanced Responsive Design Techniques for 2025: Building Future-Proof Websites](https://dev.to/sharique_siddiqui_8242dad/advanced-responsive-design-techniques-for-2025-building-future-proof-websites-2nmm)
-- [Turn Your PDF Library into a Searchable Research Database &lpar;in ~100 Lines with CocoIndex&rpar;](https://dev.to/badmonster0/turn-your-pdf-library-into-a-searchable-research-database-in-100-lines-with-cocoindex-ke3)
-- [An ERP Built with NocoBase: From a Community User](https://dev.to/nocobase/an-erp-built-with-nocobase-from-a-community-user-1o3d)
-- [Insights from the 5-Day AI Agents Intensive: New Methods and a Clearer Path to Effective Agent Implementation](https://dev.to/vicky_mahendra_fd092c844c/thoughts-on-finishing-the-5-day-ai-agents-intensive-new-approaches-new-perspectives-and-a-49df)
-- [New Feature in Bult.ai: New Terminal for Debugging Running Services](https://dev.to/bult/new-feature-in-bultai-new-terminal-for-debugging-running-services-3i53)
+- [Can Small AI Agents Work Like a Finance Team? I Tried It.](https://dev.to/milind_garge_3f68a36224ad/can-small-ai-agents-work-like-a-finance-team-i-tried-it-7if)
+- [AI Agent on Kaggle](https://dev.to/suriya_kumar_032b4d4e13f5/ai-agent-on-kaggle-40a4)
+- [I Built a Travel Booking Platform in India: Here&#39;s What Nobody Tells You About Travel APIs](https://dev.to/dhiraj_kumar_163e7e663e6e/i-built-a-travel-booking-platform-in-india-heres-what-nobody-tells-you-about-travel-apis-1fac)
+- [Terraform Doesn’t Talk to AWS Directly… and That Confused Me a LOT](https://dev.to/sreya_sharma_711168ec58fc/terraform-doesnt-talk-to-aws-directly-and-that-confused-me-a-lot-m08)
+- [Why Candid Conversations Drive Real Innovation in Tech](https://dev.to/yaseen_tech/why-candid-conversations-drive-real-innovation-in-tech-15lk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
