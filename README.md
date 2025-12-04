@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🍅 Building a Pomodoro Timer That Cosplays: My ADHD-Fueled Kiroween Journey](https://dev.to/ratalie/building-a-pomodoro-timer-that-cosplays-my-adhd-fueled-kiroween-journey-4813)
-- [🔫Why You Suck at Structuring Data And How to Finally Get Better 💪](https://dev.to/cedricpierre/why-you-suck-at-structuring-data-and-how-to-finally-get-better-1k1d)
-- [Why I Bet My Engineering Career on .NET 9 &lpar;And Left Legacy PHP Behind&rpar;](https://dev.to/mehdiouassou/why-i-bet-my-engineering-career-on-net-9-and-left-legacy-php-behind-4je6)
-- [What is the typical cost to develop a ride sharing application?](https://dev.to/it-influencer/what-is-the-typical-cost-to-develop-a-ride-sharing-application-2njm)
-- [MindsEye Hunting Engine — AI-Built, Human-Refined, and Production-Ready Submission for the Xano AI-Powered Backend Challenge](https://dev.to/peacebinflow/mindseye-hunting-engine-ai-built-human-refined-and-production-ready-submission-for-the-xano-7i4)
+- [Learning Istio the Hard Way: A Real Service Mesh Lab with Canary, mTLS, and Tracing.](https://dev.to/denyme24/learning-istio-the-hard-way-a-real-service-mesh-lab-with-canary-mtls-and-tracing-m82)
+- [Swift Testing #2: Agrupando pruebas con @Suite](https://dev.to/david_goyes_a488f58a17a53/swift-testing-2-agrupando-pruebas-con-suite-11ao)
+- [Scalable AI Application Development: Combining Python ML Frameworks with TypeScript-Powered Web Systems](https://dev.to/art_light/scalable-ai-application-development-combining-python-ml-frameworks-with-typescript-powered-web-2ji6)
+- [Swift Testing #3: Organizar, Clasificar y Filtrar pruebas con @Tag](https://dev.to/david_goyes_a488f58a17a53/swift-testing-3-organizar-clasificar-y-filtrar-pruebas-con-tag-41kl)
+- [Getting started with Shop Minis &lpar;and other mini apps!&rpar;](https://dev.to/gadget/getting-started-with-shop-minis-and-other-mini-apps-17hb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
