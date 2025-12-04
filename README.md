@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Client-Side vs Server-Side CORS: Understanding the Real Difference](https://dev.to/shantih_palani/client-side-vs-server-side-cors-understanding-the-real-difference-52l9)
+- [3 Types of Authorization in TON Smart Contracts](https://dev.to/a08778/3-types-of-authorization-in-ton-smart-contracts-58k1)
+- [Building a Production-Ready Data Marketplace: Architecture, Security, and Lessons Learned](https://dev.to/cybersolo/building-a-production-ready-data-marketplace-architecture-security-and-lessons-learned-1l08)
+- [How to Monitor Cron Jobs in 2026: A Complete Guide](https://dev.to/lmadev/how-to-monitor-cron-jobs-in-2026-a-complete-guide-28g9)
 - [Why Importing Lotties Isn’t What Rive Was Built For](https://dev.to/uianimation/why-importing-lotties-isnt-what-rive-was-built-for-1627)
-- [Campus Connect: A Complete Digital Workflow System for Universities Using React, Node.js &amp; MongoDB](https://dev.to/shaurya_rana_7e9f7dbeb50f/campus-connect-a-complete-digital-workflow-system-for-universities-using-react-nodejs-mongodb-1g2k)
-- [✨ Self-Reflection – Year 2025 Back to Basics – Rediscovering the Joy of Hands-On Coding &amp; Delivering Real Impact](https://dev.to/jercichop/self-reflection-year-2025-back-to-basics-rediscovering-the-joy-of-hands-on-coding--11p1)
-- [Top 10 pg_dump Options You Should Know for Reliable PostgreSQL Backups](https://dev.to/me_grigory_pshekovich/top-10-pgdump-options-you-should-know-for-reliable-postgresql-backups-42k7)
-- [My Experience with Google-Kaggle AI agents Intensive Course](https://dev.to/sandeep_nani_af1b167889e9/my-experience-with-google-kaggle-ai-agents-intensive-course-1p0m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
