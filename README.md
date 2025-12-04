@@ -120,11 +120,13 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A new example of using the template language:
+
+https://codesandbox.io/p/sandbox/basic-hmpl-example-dxlgfg](https://dev.to/anthonymax/a-new-example-of-using-the-template-language-18kh)
+- [How to develop a new software product quickly and cost-effectively?](https://dev.to/it-influencer/how-to-develop-a-new-software-product-quickly-and-cost-effectively-2l09)
+- [The Invisible Architecture Behind Apps That Never Lag](https://dev.to/khalidhossain/the-invisible-architecture-behind-apps-that-never-lag-56gf)
 - [What Really Happens When You Join Public Wi-Fi &lpar;And How To Stay Safe Anyway&rpar;](https://dev.to/byalexdavid/what-really-happens-when-you-join-public-wi-fi-and-how-to-stay-safe-anyway-43m3)
-- [Say hello to GoREST v0.3](https://dev.to/nicolasbonnici/say-hello-to-gorest-v03-4k8k)
-- [How Kiro Transformed the Way I Build: From Code to Vibes](https://dev.to/thesukhsingh/how-kiro-transformed-the-way-i-build-from-code-to-vibes-1cp4)
-- [Quantum Nets: Unmasking Financial Fraud with Unprecedented Accuracy by Arvind Sundararajan](https://dev.to/arvind_sundararajan/quantum-nets-unmasking-financial-fraud-with-unprecedented-accuracy-by-arvind-sundararajan-5afc)
-- [ChatGPT Projects as a Means of &quot;Indirect Conversation&quot;](https://dev.to/stakiran/chatgpt-projects-as-a-means-of-indirect-conversation-gf9)
+- [Content Has Relationships. Your Database Should Too.](https://dev.to/flxbl/content-has-relationships-your-database-should-too-38l9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
