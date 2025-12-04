@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Learning Reflections: Unlocking Digital Memories with &quot;Reflect&quot;](https://dev.to/prasanna_thapa/learning-reflections-unlocking-digital-memories-with-reflect-1951)
-- [How to Choose Soft and Durable Bed Linen?](https://dev.to/dylan_manson_f8a94d84ae59/how-to-choose-soft-and-durable-bed-linen-1o5n)
-- [&quot;From Financial Overload to Causal Agents: Architecting Autonomy for the Market&quot;](https://dev.to/sruthi_kumar_c0c809139982/from-financial-overload-to-causal-agents-architecting-autonomy-for-the-market-3bc5)
-- [Day 62 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-62-of-100-days-dsa-coding-challenge-j6c)
-- [My experience with the 5-Day AI Agents Intensive A Pratice Reflection](https://dev.to/aman_thakur_05a98cf4460f4/my-experience-with-the-5-day-ai-agents-intensive-a-pratice-reflection-37jp)
+- [Daily Tech News Roundup - 2025-12-04](https://dev.to/atharvshinde2004/daily-tech-news-roundup-2025-12-04-3h9i)
+- [Python by Structure: Return Value Transformations with Decorators](https://dev.to/aaron_rose_0787cc8b4775a0/python-by-structure-return-value-transformations-with-decorators-2cg2)
+- [🎉 BJH OS Contributions Are LIVE! 🎉](https://dev.to/muhammad_haris_7828c7aeda/bjh-os-contributions-are-live-h4m)
+- [A Comprehensive Guide to Froala’s Page Break Plugin](https://dev.to/froala_e3824d66439393cbce/a-comprehensive-guide-to-froalas-page-break-plugin-hdc)
+- [Bubble Sort in JavaScript — Step-by-Step Guide](https://dev.to/thecoollearner/bubble-sort-in-javascript-step-by-step-guide-517i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
