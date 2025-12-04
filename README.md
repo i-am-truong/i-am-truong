@@ -120,13 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🍅 Building a Pomodoro Timer That Cosplays: My ADHD-Fueled Kiroween Journey](https://dev.to/ratalie/building-a-pomodoro-timer-that-cosplays-my-adhd-fueled-kiroween-journey-4813)
+- [🔫Why You Suck at Structuring Data And How to Finally Get Better 💪](https://dev.to/cedricpierre/why-you-suck-at-structuring-data-and-how-to-finally-get-better-1k1d)
 - [Why I Bet My Engineering Career on .NET 9 &lpar;And Left Legacy PHP Behind&rpar;](https://dev.to/mehdiouassou/why-i-bet-my-engineering-career-on-net-9-and-left-legacy-php-behind-4je6)
-- [A new example of using the template language:
-
-https://codesandbox.io/p/sandbox/basic-hmpl-example-dxlgfg](https://dev.to/anthonymax/a-new-example-of-using-the-template-language-18kh)
-- [How to develop a new software product quickly and cost-effectively?](https://dev.to/it-influencer/how-to-develop-a-new-software-product-quickly-and-cost-effectively-2l09)
-- [The Invisible Architecture Behind Apps That Never Lag](https://dev.to/khalidhossain/the-invisible-architecture-behind-apps-that-never-lag-56gf)
-- [What Really Happens When You Join Public Wi-Fi &lpar;And How To Stay Safe Anyway&rpar;](https://dev.to/byalexdavid/what-really-happens-when-you-join-public-wi-fi-and-how-to-stay-safe-anyway-43m3)
+- [What is the typical cost to develop a ride sharing application?](https://dev.to/it-influencer/what-is-the-typical-cost-to-develop-a-ride-sharing-application-2njm)
+- [MindsEye Hunting Engine — AI-Built, Human-Refined, and Production-Ready Submission for the Xano AI-Powered Backend Challenge](https://dev.to/peacebinflow/mindseye-hunting-engine-ai-built-human-refined-and-production-ready-submission-for-the-xano-7i4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
