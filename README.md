@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop Hitting CTRL+C: The way to hot reload Go apps](https://dev.to/asoseil/stop-hitting-ctrlc-the-way-to-hot-reload-go-apps-747)
-- [Got tired of copy-pasting Claude’s responses into other models, so I built an automatic cross-checker for AI agents](https://dev.to/henryquillin/got-tired-of-copy-pasting-claudes-responses-into-other-models-so-i-built-an-automatic-414l)
-- [LangChain vs LangGraph: How to Choose the Right AI Framework!](https://dev.to/pavanbelagatti/langchain-vs-langgraph-how-to-choose-the-right-ai-framework-497h)
-- [FinAura -&gt; Your Financial Glow-up Assistant](https://dev.to/srishti_2870a7693a3c01b49/finaura-your-financial-glow-up-assistant-4cjj)
-- [Choosing the Right Programming Language for Healthcare App Development](https://dev.to/rank_alchemy_5ad282cec75d/choosing-the-right-programming-language-for-healthcare-app-development-660)
+- [How to Deploy an AI Voice Agent for Customer Support Using VAPI](https://dev.to/callstacktech/how-to-deploy-an-ai-voice-agent-for-customer-support-using-vapi-5hmp)
+- [TDD in Action — Building a Simple Todo App](https://dev.to/sheikhlimon/tdd-in-action-building-a-simple-todo-app-40mf)
+- [Apache DolphinScheduler vs. Crontab &amp; Airflow: An Efficiency Benchmark](https://dev.to/chen_debra_3060b21d12b1b0/apache-dolphinscheduler-vs-crontab-airflow-an-efficiency-benchmark-3hl9)
+- [Comparing sync/async PostgreSQL18（Amazon RDS）](https://dev.to/kanahiro/comparing-syncasync-postgresql18amazon-rds-1g31)
+- [The &quot;Separation of Concerns&quot; Lie: Why Your &quot;Clean&quot; Architecture is Actually Spaghetti](https://dev.to/samuel_ochaba_eb9c875fa89/the-separation-of-concerns-lie-why-your-clean-architecture-is-actually-spaghetti-5h07)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
