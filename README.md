@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why I’m Scrapping &quot;Genres&quot; &lpar;For Now&rpar; and Betting on AI Instead](https://dev.to/leodvincci89/why-im-scrapping-genres-for-now-and-betting-on-ai-instead-38bo)
+- [My Experience with the 5-Day AI Agents Course on Kaggle](https://dev.to/fardin_pasha_4a64f41400cd/my-experience-with-the-5-day-ai-agents-course-on-kaggle-n2l)
+- [A Practical Breakdown of Darkweb Vendor Shops and How They Operate](https://dev.to/tor_bbb/a-practical-breakdown-of-darkweb-vendor-shops-and-how-they-operate-30a2)
 - [De RAG tradicional a Agentic RAG](https://dev.to/carly_chavez1/de-rag-tradicional-a-agentic-rag-1am5)
 - [Best Practices for Modern Persian Web Development: A Practical Guide](https://dev.to/sarah-navin/best-practices-for-modern-persian-web-development-a-practical-guide-ci6)
-- [Why Tech Still Feels Like Magic in 2025](https://dev.to/destinytch001/why-tech-still-feels-like-magic-in-2025-4801)
-- [The best improvement I’ve made to my Cursor workflow](https://dev.to/dsmurrell/the-best-improvement-ive-made-to-my-cursor-workflow-2pf4)
-- [Stop Mocking Everything: How to Test API Resilience in Your Terminal &lpar;Curl + Chaos Proxy&rpar;](https://dev.to/aragossa/stop-mocking-everything-how-to-test-api-resilience-in-your-terminal-curl-chaos-proxy-3k69)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
