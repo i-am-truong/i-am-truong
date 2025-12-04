@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Use vCards to Land Brand Deals and Collaborations](https://dev.to/imtaslim/how-to-use-vcards-to-land-brand-deals-and-collaborations-5em4)
-- [Day 6 - Terraform Project Structure Best Practices](https://dev.to/ankitgadling/day-6-terraform-project-structure-best-practices-4alc)
-- [Roasting Turkey and Building Reasoning Engines](https://dev.to/innacampo/roasting-turkey-and-building-reasoning-engines-ge8)
-- [⚡ My Experience Rebuilding a Harry Potter–Themed Website &lpar;Version 2.0&rpar;](https://dev.to/arishn/my-experience-rebuilding-a-harry-potter-themed-website-version-20-b8p)
-- [How I Built a Decentralized NFT Gift Protocol &lpar;and why digital gifting is broken&rpar;](https://dev.to/iamjayant/how-i-built-a-decentralized-nft-gift-protocol-and-why-digital-gifting-is-broken-bk9)
+- [Building an AI Fitness App in 10 Days: How Kiro Changed My Development Workflow](https://dev.to/tharun_kumar_ad80f494347f/building-an-ai-fitness-app-in-10-days-how-kiro-changed-my-development-workflow-31oi)
+- [**Cumplimiento Normativo con Responsabilidad: Evalúe con Cui](https://dev.to/drcarlosruizviquez/cumplimiento-normativo-con-responsabilidad-evalue-con-cui-eno)
+- [Day 10 : Conditionals, Dynamic Blocks &amp; Splat Expressions](https://dev.to/alafiz/day-10-conditionals-dynamic-blocks-splat-expressions-41ib)
+- [I Built My First AI Agent in 30 Minutes &lpar;No Code Required&rpar; - Here&#39;s How](https://dev.to/blogai/i-built-my-first-ai-agent-in-30-minutes-no-code-required-heres-how-3lea)
+- [Separating Class Responsibilities with Clprolf](https://dev.to/charles_koffler_bcabc582b/separating-class-responsibilities-with-clprolf-7f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
