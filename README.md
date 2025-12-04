@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Deep Cybersecurity View of Encryption](https://dev.to/alvinseyidov/a-deep-cybersecurity-view-of-encryption-g4b)
+- [Terraform Project: Simple EC2 + Security Group](https://dev.to/jumptotech/terraform-project-simple-ec2-security-group-2bj0)
+- [Swift Testing #5: Parametrizando pruebas con arguments](https://dev.to/david_goyes_a488f58a17a53/swift-testing-5-parametrizando-pruebas-con-arguments-46p)
 - [Swift Testing #4: Correr pruebas de forma serial](https://dev.to/david_goyes_a488f58a17a53/swift-testing-4-correr-pruebas-de-forma-serial-nef)
 - [Learning Istio the Hard Way: A Real Service Mesh Lab with Canary, mTLS, and Tracing.](https://dev.to/denyme24/learning-istio-the-hard-way-a-real-service-mesh-lab-with-canary-mtls-and-tracing-m82)
-- [Swift Testing #2: Agrupando pruebas con @Suite](https://dev.to/david_goyes_a488f58a17a53/swift-testing-2-agrupando-pruebas-con-suite-11ao)
-- [Scalable AI Application Development: Combining Python ML Frameworks with TypeScript-Powered Web Systems](https://dev.to/art_light/scalable-ai-application-development-combining-python-ml-frameworks-with-typescript-powered-web-2ji6)
-- [Finalizing the Enterprise DAL series! We implement **Automated User Auditing** &lpar;`CreatedByUserId`/`ModifiedByUserId`&rpar; and review the full architecture that automated Soft-Delete, Multi-Tenancy, and RLS. C# &amp; Linq2Db. #dotnet #csharp #architecture #sql](https://dev.to/gigaherz/finalizing-the-enterprise-dal-series-we-implement-automated-user-auditing-55)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
