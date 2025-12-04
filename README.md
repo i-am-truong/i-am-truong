@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Boosting My NextJS Blog’s Visibility with RSS](https://dev.to/andymagill/boosting-my-nextjs-blogs-visibility-with-rss-3n95)
+- [Day 03: Creating and Managing an AWS S3 Bucket Using Terraform](https://dev.to/sreya_sharma_711168ec58fc/day-03-creating-and-managing-an-aws-s3-bucket-using-terraform-b5c)
+- [Free forever, privacy-first browser tools — 150+ utilities in one place](https://dev.to/nityam2007/free-forever-privacy-first-browser-tools-150-utilities-in-one-place-1e26)
 - [How Rust Is Quietly Rewriting the AI Compute Stack](https://dev.to/manjushaps/how-rust-is-quietly-rewriting-the-ai-compute-stack-20nf)
 - [Kalman Filter &lpar;Day 1&rpar; - Why?](https://dev.to/chocolatebrownie/kalman-filter-day-1-why-3bcm)
-- [Interop.io &amp; io.Connect Glossary](https://dev.to/tpetrov9/interopio-ioconnect-glossary-43h3)
-- [How I could have avoided a loss if I had just stuck to my rule🤦🏾‍♂️](https://dev.to/dhis_is_jj/how-i-could-have-avoided-a-loss-if-i-had-just-stuck-to-my-rule-585e)
-- [Best Affordable AI Headshot Tools for Professional Photos in 2026](https://dev.to/keane/best-affordable-ai-headshot-tools-for-professional-photos-in-2026-207a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
