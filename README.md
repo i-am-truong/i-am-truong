@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My First DEV++ Post: Starting My Tech Writing Journey](https://dev.to/aryan_kumar_ed46414e317d9/my-first-dev-post-starting-my-tech-writing-journey-2n68)
-- [From Prompts to Autonomous Systems: My Learning Journey in the AI Agents Intensive](https://dev.to/aditya_kumar_ai00/from-prompts-to-autonomous-systems-my-learning-journey-in-the-ai-agents-intensive-3dj4)
-- [Designing a Secure Digital Receipt Protocol &lpar;DRP&rpar; with Derived Identities, AES-GCM &amp; Ed25519 Signatures](https://dev.to/antonio_socorro_95e3ff086/designing-a-secure-digital-receipt-protocol-drp-with-derived-identities-aes-gcm-ed25519-3e2k)
-- [Behind Every Click: Understanding Client–Server Architecture](https://dev.to/muraliairody/behind-every-click-understanding-client-server-architecture-4hpd)
-- [Hello Everyone](https://dev.to/aditya_kumar_ai00/hello-everyone-27nm)
+- [A Single .NET Codebase, Three Platforms, One Stunning UI - Smart Café](https://dev.to/aditya_kumar_ai00/a-single-net-codebase-three-platforms-one-stunning-ui-smart-cafe-1dhi)
+- [Part 3: Accelerating Calculations using GPU](https://dev.to/palash90/building-a-ml-library-from-scratch-in-rust-part-3-accelerating-calculations-from-cpu-to-gpu-with-270d)
+- [Quarkus 3 application on AWS Lambda- Part 9 Measuring Lambda cold and warm starts with GraalVM Native Image and REST API](https://dev.to/vkazulkin/quarkus-3-application-on-aws-lambda-part-9-measuring-lambda-cold-and-warm-starts-with-graalvm-8d3)
+- [I Built NimPacket, a Raw Packet Crafting Library in Nim, and It Turned Into One of My Best Cyber Projects](https://dev.to/0x57origin/i-built-nimpacket-a-raw-packet-crafting-library-in-nim-and-it-turned-into-one-of-my-best-cyber-1n0g)
+- [From Wrappers to Reasoners: Building an Iterative Research Agent](https://dev.to/kaustav_chowdhury_f3cdc47/from-wrappers-to-reasoners-building-an-iterative-research-agent-3j7l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
