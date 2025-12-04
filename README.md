@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SwiftUI Async &amp; Concurrency Patterns](https://dev.to/sebastienlato/swiftui-async-concurrency-patterns-5e9j)
-- [Learning Reflection](https://dev.to/doddle_go_cc53307c694d0a6/learning-reflection-5c0)
-- [BaseOrchestrator: A Pattern for Complex Async Pipelines in Node/Fastify](https://dev.to/scotty595/baseorchestrator-a-pattern-for-complex-async-pipelines-in-nodefastify-24p6)
-- [Built a nutrition app with React Native + Expo SDK 54 that actually feels native on iOS 👀](https://dev.to/hakimmohamed/built-a-nutrition-app-with-react-native-expo-sdk-54-that-actually-feels-native-on-ios-g7c)
-- [How to get your next SAAS Idea and make money online](https://dev.to/shreyvijayvargiya/how-to-get-your-next-saas-idea-and-make-money-online-2pp8)
+- [Seeking advice on a Python venv issue blocking my AI productivity tools &lpar;built with &#39;Vibe Coding&#39;!&rpar; S](https://dev.to/ctrlcctrlv/seeking-advice-on-a-python-venv-issue-blocking-my-ai-productivity-tools-built-with-vibe-coding-38k3)
+- [ntomb – an undead connections monitor for Kiroween](https://dev.to/jihun/ntomb-an-undead-connections-monitor-for-kiroween-4ce3)
+- [Advent.js 2025🎅🏼| Reto #2: Fabrica los juguetes](https://dev.to/duxtech/adventjs-2025-reto-2-fabrica-los-juguetes-m78)
+- [My Learning Journey with the AI Agents Intensive](https://dev.to/safa_mariyam_43aeb7d98cae/my-learning-journey-with-the-ai-agents-intensive-5aih)
+- [Advent of AI 2025 - Day 3: Building Data Visualizations with Goose](https://dev.to/nickytonline/advent-of-ai-2025-day-1-building-data-visualizations-with-goose-g7f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
