@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Advanced Image Optimization in React/Next.js: Device-Based Responsive Images for Peak Performance &lpar;Part 1&rpar;](https://dev.to/sizan_mahmud0_e7c3fd0cb68/advanced-image-optimization-in-reactnextjs-device-based-responsive-images-for-peak-performance-2fol)
-- [Frontend vs Backend: The Real Difference and What Beginners Should Focus On](https://dev.to/whoisefosa/frontend-vs-backend-the-real-difference-and-what-beginners-should-focus-on-1jlg)
-- [Emulating the Claude Code Backend for Databricks LLM Models&lpar;with MCP, Git Tools, and Prompt Caching&rpar;](https://dev.to/vishal_veerareddy_9cdd17d/emulating-the-claude-code-backend-for-databricks-llm-modelswith-mcp-git-tools-and-prompt-caching-1a60)
-- [When the Spark is Done: The ADHD Energy Cycle No One Talks About ✨](https://dev.to/anchildress1/when-the-spark-is-done-the-adhd-energy-cycle-no-one-talks-about-43fo)
-- [“My Learning Journey in the AI Agents Intensive Capstone Project”](https://dev.to/hanumantha_reddygariank/my-learning-journey-in-the-ai-agents-intensive-capstone-project-2712)
+- [CVSS 10.0 RCE Rocks the Frontend World: React/Next.js Hit by a Log4Shell‑Level Vulnerability?](https://dev.to/arina_cholee/cvss-100-rce-rocks-the-frontend-world-reactnextjs-hit-by-a-log4shell-level-vulnerability-1nn2)
+- [TinyNN: A Fast, Zero-Dependency Neural Network Library for Node.js](https://dev.to/hodeware/tinynn-a-fast-zero-dependency-neural-network-library-for-nodejs-12la)
+- [Building Smarter AI: Lessons from My Capstone in the Kaggle Intensive](https://dev.to/pperumal_moorthy_8556ade/ai-agents-intensive-capstone-project-kaggle-learning-ai-automation-4mlh)
+- [Finding Better BrowserStack Reporting Alternatives](https://dev.to/pratik01/finding-better-browserstack-reporting-alternatives-2639)
+- [How Low-Code Platforms Are Transforming Startup App Development](https://dev.to/eira-wexford/how-low-code-platforms-are-transforming-startup-app-development-2l3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
