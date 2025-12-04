@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Can Small AI Agents Work Like a Finance Team? I Tried It.](https://dev.to/milind_garge_3f68a36224ad/can-small-ai-agents-work-like-a-finance-team-i-tried-it-7if)
-- [AI Agent on Kaggle](https://dev.to/suriya_kumar_032b4d4e13f5/ai-agent-on-kaggle-40a4)
-- [I Built a Travel Booking Platform in India: Here&#39;s What Nobody Tells You About Travel APIs](https://dev.to/dhiraj_kumar_163e7e663e6e/i-built-a-travel-booking-platform-in-india-heres-what-nobody-tells-you-about-travel-apis-1fac)
-- [Terraform Doesn’t Talk to AWS Directly… and That Confused Me a LOT](https://dev.to/sreya_sharma_711168ec58fc/terraform-doesnt-talk-to-aws-directly-and-that-confused-me-a-lot-m08)
-- [Why Candid Conversations Drive Real Innovation in Tech](https://dev.to/yaseen_tech/why-candid-conversations-drive-real-innovation-in-tech-15lk)
+- [Stop Hitting CTRL+C: The way to hot reload Go apps](https://dev.to/asoseil/stop-hitting-ctrlc-the-way-to-hot-reload-go-apps-747)
+- [Got tired of copy-pasting Claude’s responses into other models, so I built an automatic cross-checker for AI agents](https://dev.to/henryquillin/got-tired-of-copy-pasting-claudes-responses-into-other-models-so-i-built-an-automatic-414l)
+- [LangChain vs LangGraph: How to Choose the Right AI Framework!](https://dev.to/pavanbelagatti/langchain-vs-langgraph-how-to-choose-the-right-ai-framework-497h)
+- [FinAura -&gt; Your Financial Glow-up Assistant](https://dev.to/srishti_2870a7693a3c01b49/finaura-your-financial-glow-up-assistant-4cjj)
+- [Choosing the Right Programming Language for Healthcare App Development](https://dev.to/rank_alchemy_5ad282cec75d/choosing-the-right-programming-language-for-healthcare-app-development-660)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
