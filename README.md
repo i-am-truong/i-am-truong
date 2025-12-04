@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mastering AI Agents: Lessons from the Google x Kaggle Intensive &amp; My Capstone](https://dev.to/nikhitha_sivakumar_c108e5/mastering-ai-agents-lessons-from-the-google-x-kaggle-intensive-my-capstone-855)
-- [🚀 Customer Success Stories: How InterServer Helped Businesses Grow](https://dev.to/onalephile_molemane_e3e9b/customer-success-stories-how-interserver-helped-businesses-grow-41dj)
-- [Merge Requests Are a Cargo Cult - It’s Time to Stop Pretending They Improve Quality](https://dev.to/leonpennings/merge-requests-are-a-cargo-cult-its-time-to-stop-pretending-they-improve-quality-3dof)
-- [How the 5-Day AI Agents Course Changed My Understanding of AI Agents](https://dev.to/shyam_kumar_d18cf9dee039e/how-the-5-day-ai-agents-course-changed-my-understanding-of-ai-agents-2i23)
-- [Comparing Data Management Tools for Robotics](https://dev.to/reductstore/comparing-data-management-tools-for-robotics-5a61)
+- [🛠️ Exploring InterServer’s Customer Support: What to Expect as a Developer or Site Owner](https://dev.to/onalephile_molemane_e3e9b/exploring-interservers-customer-support-what-to-expect-as-a-developer-or-site-owner-15k0)
+- [Key Agentic AI Trends for Enterprise and Cybersecurity 2026](https://dev.to/sherry_walker_bba406fb339/key-agentic-ai-trends-for-enterprise-and-cybersecurity-2026-416k)
+- [AWS - Secure, High‑Throughput Ingestion Pipeline for Large Binary Objects](https://dev.to/codegreen/aws-secure-high-throughput-ingestion-pipeline-for-large-binary-objects-4hic)
+- [Cloud Native Engineer is back](https://dev.to/cloudnative_eng/cloud-native-engineer-is-back-4p2f)
+- [Why the Liquid Glass UI Trend Is Getting So Much Attention?](https://dev.to/designmonks/why-the-liquid-glass-ui-trend-is-getting-so-much-attention-374l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
