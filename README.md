@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Liman MYS için Eklenti Geliştirme Ortamı Kurulum Rehberi](https://dev.to/aciklab/liman-mys-icin-eklenti-gelistirme-ortami-kurulum-rehberi-34ch)
+- [🚀 My Key Learnings from the 5-Day AI Agents Intensive &lpar;Google x Kaggle&rpar;](https://dev.to/ramesh_battu_203d7a338734/my-key-learnings-from-the-5-day-ai-agents-intensive-google-x-kaggle-456o)
+- [EXCEL FOR RISK ASSESSMENT AND MITIGATION IN BUSINESS OPERATION](https://dev.to/dimeji_hot/excel-for-risk-assessment-and-mitigation-in-business-operation-4pi2)
 - [Helldivers 2 Storage Crisis Solved](https://dev.to/derexxd/helldivers-2-storage-crisis-solved-g81)
 - [Top PDF Remediation Challenges Developers Face and How to Solve Them](https://dev.to/brianna_collins/top-pdf-remediation-challenges-developers-face-and-how-to-solve-them-3gf5)
-- [How Businesses Are Quietly Becoming Crypto-Native &lpar;And Why It’s Happening Faster Than You Think&rpar;](https://dev.to/tanelith/how-businesses-are-quietly-becoming-crypto-native-and-why-its-happening-faster-than-you-think-2bfa)
-- [GhostFrame — How Kiro Helped Me Build Faster, Learn Faster, and Think Like a Real Engineer](https://dev.to/isaac-ameh/ghostframe-how-kiro-helped-me-build-faster-learn-faster-and-think-like-a-real-engineer-2i8f)
-- [AGENT REVOLUTION](https://dev.to/uttara_shah_eeeb6612ad5df/agent-revolution-2bi7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
