@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Deepening My Roots in the Data Ecosystem - Choosing Depth Over Breadth](https://dev.to/jongwan93/deepening-my-roots-in-the-data-ecosystem-choosing-depth-over-breadth-322)
 - [I Built a Zero-Knowledge VPN That Can&#39;t Track You &lpar;Even If It Wanted To&rpar;](https://dev.to/chronocoders/i-built-a-zero-knowledge-vpn-that-cant-track-you-even-if-it-wanted-to-29jf)
 - [AI Video Generators: The Reality Behind Scaling Social Content &lpar;Not the Hype&rpar;](https://dev.to/synergistdigitalmedia/ai-video-generators-the-reality-behind-scaling-social-content-not-the-hype-49i4)
 - [Choosing the Right AI Agent Framework: A Simple Decision Flow for Engineers](https://dev.to/nkassetty/choosing-the-right-ai-agent-framework-a-simple-decision-flow-for-engineers-5efl)
-- [How to Deploy a Voice Agent for Medical Office Appointment Setting](https://dev.to/callstacktech/how-to-deploy-a-voice-agent-for-medical-office-appointment-setting-13e)
-- [The difference between for...of and for...in loops in JavaScript](https://dev.to/mkbs_alaa/the-difference-between-forof-and-forin-loops-in-javascript-dh5)
+- [Beyond Backpropagation: Hyperdimensional Graphs for Lightning-Fast Classification by Arvind Sundararajan](https://dev.to/arvind_sundararajan/beyond-backpropagation-hyperdimensional-graphs-for-lightning-fast-classification-by-arvind-4j6l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
