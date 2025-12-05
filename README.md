@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 5 — The Fog in the Valley](https://dev.to/aerabi/day-5-the-fog-in-the-valley-11ap)
-- [AWS re:Invent 2025 - Keynote with CEO Matt Garman](https://dev.to/kazuya_dev/aws-reinvent-2025-keynote-with-ceo-matt-garman-367l)
-- [How to Build a Knowledge Engine That Evolves With Every Project You Start](https://dev.to/luketaylor25/how-to-build-a-knowledge-engine-that-evolves-with-every-project-you-start-f99)
-- [Detecting Deep-Tier Geographic Concentration in Supply Chains Using AI](https://dev.to/supplygraphai/detecting-deep-tier-geographic-concentration-in-supply-chains-using-ai-3ib0)
-- [The Hidden Architecture Behind AI’s Ability to Generalize Across Topics](https://dev.to/luketaylor25/the-hidden-architecture-behind-ais-ability-to-generalize-across-topics-2b8j)
+- [IA dans DevSecOps](https://dev.to/arij_belaid/ia-dans-devsecops-3ph5)
+- [[AWS] Power up Kiro with Kiro powers](https://dev.to/aws-builders/aws-power-up-kiro-with-kiro-powers-5620)
+- [My Takeaways from Werner Vogels’ Final AWS re:Invent Keynote](https://dev.to/aditmodi/my-takeaways-from-werner-vogels-final-aws-reinvent-keynote-3oe8)
+- [Connecting the Web - Links, Images, Media and the Power of Attributes in HTML](https://dev.to/theosnyman-dev/connecting-the-web-links-images-media-and-the-power-of-attributes-in-html-4gec)
+- [Mantine BorderAnimate: Light up your UI with elegant, high‑performance animated borders](https://dev.to/undolog/mantine-borderanimate-light-up-your-ui-with-elegant-high-performance-animated-borders-4902)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
