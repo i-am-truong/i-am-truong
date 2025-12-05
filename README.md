@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Day-12: AWS Terraform Functions](https://dev.to/bhaskara_tejabulusu_b4bf/day-12-aws-terraform-functions-mhn)
+- [Zero to SaaS vs ShipFast, Which One Actually Helps You Build a Real SaaS?](https://dev.to/thekarlesi/zero-to-saas-vs-shipfast-which-one-actually-helps-you-build-a-real-saas-3jng)
+- [AWS re:Invent 2025 - Build safe and resilient deployment pipelines for Amazon ECS &lpar;CNS353&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-build-safe-and-resilient-deployment-pipelines-for-amazon-ecs-cns353-h6p)
 - [Kiroween Kinship: Monster Matchmaker](https://dev.to/zeddzoul/kiroween-kinship-monster-matchmaker-pml)
-- [🏰 A Most Illuminating Excursion: The Staff of Westmarch Attend Google&#39;s 5-Day AI Agents Intensive](https://dev.to/groundhog21/a-most-illuminating-excursion-the-staff-of-westmarch-attend-googles-5-day-ai-agents-intensive-ilm)
-- [Cobra CLI in Go](https://dev.to/abdulmuhaimin1219/cobra-cli-in-go-223i)
-- [Why Real-Time Communication Still Breaks — And What a 2014 Idea Got Right](https://dev.to/sagar_joshi_31ac4ef39367a/why-real-time-communication-still-breaks-and-what-a-2014-idea-got-right-1b40)
-- [**Comparing Explainable AI &lpar;XAI&rpar; and Adversarial Training in](https://dev.to/drcarlosruizviquez/comparing-explainable-ai-xai-and-adversarial-training-in-7fe)
+- [“REMI-IA Challenge: Event Log Endpoint Published”](https://dev.to/jramone3/remi-ia-challenge-event-log-endpoint-published-5d95)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
