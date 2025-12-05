@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AWS re:Invent 2025 - 4x faster workload modernization with agentic AI &lpar;MAM349&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-4x-faster-workload-modernization-with-agentic-ai-mam349-1373)
+- [The Graveyard of forgotten tech by kiroween](https://dev.to/manya_gautamrajput_4c19d/the-graveyard-of-forgotten-tech-by-kiroween-52i6)
 - [F1 Wow Dashboard - on Uno](https://dev.to/stegriff/f1-wow-dashboard-on-uno-4090)
 - [📊 AWS S3 + AWS Glue + Athena + Grafana — End-to-End Analytics Project](https://dev.to/abhishek_korde_31/aws-s3-aws-glue-athena-grafana-end-to-end-analytics-project-58cc)
 - [Building a Production-Grade GEO SDK with Kiro: From Spec to Deployment in 2 Weeks](https://dev.to/cryptomanrahul/building-a-production-grade-geo-sdk-with-kiro-from-spec-to-deployment-in-2-weeks-3me6)
-- [AWS re:Invent 2025 - Deep dive: The evolution of AWS load balancing and new capabilities &lpar;NET334&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-deep-dive-the-evolution-of-aws-load-balancing-and-new-capabilities-net334-3cic)
-- [SwiftUI #7: Reconocer gestos con GestureRecognizer](https://dev.to/david_goyes_a488f58a17a53/swiftui-7-reconocer-gestos-con-gesturerecognizer-5gce)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
