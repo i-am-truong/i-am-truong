@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Open Source Email Warmup: A Complete Guide](https://dev.to/tusharsmtpmaster/open-source-email-warmup-a-complete-guide-5d5b)
-- [I Built a Haunted Digital Pet That Feeds on Git Commits &lpar;with Kiro&rpar;](https://dev.to/manishmodak/i-built-a-haunted-digital-pet-that-feeds-on-git-commits-with-kiro-596c)
-- [What Happens When You Run Python Code?](https://dev.to/drani/what-happens-when-you-run-python-code-1b5b)
-- [dremioframe &amp; iceberg: Pythonic interfaces for Dremio and Apache Iceberg](https://dev.to/alexmercedcoder/dremioframe-iceberg-pythonic-interfaces-for-dremio-and-apache-iceberg-33i8)
-- [🚀 Node.js Best Practices](https://dev.to/itagyba/nodejs-best-practices-cursor-rules-1pa5)
+- [Swift Testing #6: Aislando bugs conocidos usando withKnownIssue](https://dev.to/david_goyes_a488f58a17a53/swift-testing-6-aislando-bugs-conocidos-usando-withknownissue-4k6f)
+- [AWS re:Invent 2025 - Agentic AI&#39;s new generation of Industry and Line of Business solutions &lpar;PEX202&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-agentic-ais-new-generation-of-industry-and-line-of-business-solutions-pex202-5b)
+- [Found a Google for DevOps utilities](https://dev.to/imranonline/found-a-google-for-devops-utilities-3ml4)
+- [Pixel Café ☕ - A Retro-Futuristic Coffee Shop with a Virtual Pet&quot;](https://dev.to/sai_dinesh/pixel-cafe-a-retro-futuristic-coffee-shop-with-a-virtual-pet-1h7k)
+- [Building the AI-Native Foundation: How Creating for Kiro Unlocked a New Development Paradigm](https://dev.to/getaw_dejen_f52547be8575e/building-the-ai-native-foundation-how-creating-for-kiro-unlocked-a-new-development-paradigm-aj6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
