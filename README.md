@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [DeepBridge: The Bridge Between Lab Models and Real Production](https://dev.to/gustavo_haase_fc189e16365/deepbridge-the-bridge-between-lab-models-and-real-production-40ha)
-- [How to Rebuild Your Money System Using “Input Output” Thinking](https://dev.to/briandavies/how-to-rebuild-your-money-system-using-input-output-thinking-aep)
-- [Using Excel Dashboards for Real-Time Business Performance Monitoring](https://dev.to/chimdi_ndudim_/using-excel-dashboards-for-real-time-business-performance-monitoring-27la)
-- [Learning to Think in Agents: My Takeaways from Google’s 5-Day Intensive](https://dev.to/santoshreddy1310/learning-to-think-in-agents-my-takeaways-from-googles-5-day-intensive-34o5)
-- [First-Party Data Strategies That Actually Work When Cookies Finally Die](https://dev.to/synergistdigitalmedia/first-party-data-strategies-that-actually-work-when-cookies-finally-die-5ch1)
+- [Transformando WordPress en una Herramienta Sostenible: Plugins y Configuraciones Eco-Amigables](https://dev.to/lontafara/transformando-wordpress-en-una-herramienta-sostenible-plugins-y-configuraciones-eco-amigables-25je)
+- [Efecto copos de nieve para dar a nuestra web un toque navideño](https://dev.to/drodero/efecto-copos-de-nieve-para-dar-a-nuestra-web-un-toque-navideno-3j01)
+- [Master Server-Sent Events &lpar;SSE&rpar; in Symfony 7.4](https://dev.to/mattleads/master-server-sent-events-sse-in-symfony-74-15co)
+- [How AWS Kiro Was Used to Build DreamWeen](https://dev.to/jeanmarc_bah_474aa3fc1b6/how-aws-kiro-was-used-to-build-dreamween-2nmh)
+- [AWS re:Invent 2025 - Using Amazon Nova Act to simplify login workflows &lpar;AIM271&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-using-amazon-nova-act-to-simplify-login-workflows-aim271-59i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
