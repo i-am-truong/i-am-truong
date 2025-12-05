@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Announcing pytest-test-categories v1.1.0: Bring Google Testing Philosophy to Python](https://dev.to/mikelane/announcing-pytest-test-categories-v110-bring-google-testing-philosophy-to-python-3bag)
-- [How to Send Email with JavaScript: Complete Guide with SendLayer API](https://dev.to/davecodes/how-to-send-email-with-javascript-complete-guide-with-sendlayer-api-40ia)
-- [Deepening My Roots in the Data Ecosystem - Choosing Depth Over Breadth](https://dev.to/jongwan93/deepening-my-roots-in-the-data-ecosystem-choosing-depth-over-breadth-322)
-- [I Built a Zero-Knowledge VPN That Can&#39;t Track You &lpar;Even If It Wanted To&rpar;](https://dev.to/chronocoders/i-built-a-zero-knowledge-vpn-that-cant-track-you-even-if-it-wanted-to-29jf)
-- [AI Video Generators: The Reality Behind Scaling Social Content &lpar;Not the Hype&rpar;](https://dev.to/synergistdigitalmedia/ai-video-generators-the-reality-behind-scaling-social-content-not-the-hype-49i4)
+- [Building a Super Bowl Tech Startup in 48 Hours: How a Non-Technical Latina Founder Hired 2 AI Co-Founders &lpar;Kiro &amp; Gemini&rpar;](https://dev.to/marilynalvarado/building-a-super-bowl-tech-startup-in-48-hours-how-a-non-technical-latina-founder-hired-2-ai-5e8m)
+- [LocalTunnel Server Setup Documentation](https://dev.to/durrello/localtunnel-server-setup-documentation-370k)
+- [Apple App Store Keyword Rules: The Hidden Rule of Precise User Touch](https://dev.to/asorankn/apple-app-store-keyword-rules-the-hidden-rule-of-precise-user-touch-14d8)
+- [AWS and Google Cloud officially announced a jointly engineered multicloud](https://dev.to/basel5001/aws-and-google-cloud-officially-announced-a-jointly-engineered-multicloud-167)
+- [Built a tool to fix the &#39;minimum brightness is still too bright&#39; problem on Hyprland](https://dev.to/mrdrbrdr/built-a-tool-to-fix-the-minimum-brightness-is-still-too-bright-problem-on-hyprland-1p1h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
