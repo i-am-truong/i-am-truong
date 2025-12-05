@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The PM&#39;s Antidote: Stop Dreaming of Changing the World. Just Solve &quot;The Grocery Run&quot;.](https://dev.to/elevenapril/the-pms-antidote-stop-dreaming-of-changing-the-world-just-solve-the-grocery-run-1je4)
-- [Our current challenges add up to $9,000 in total prizes! Give one a try this weekend.](https://dev.to/devteam/our-current-challenges-add-up-to-9000-in-total-prizes-give-one-a-try-this-weekend-eel)
-- [A Proof of P = NP](https://dev.to/frank_vega_987689489099bf/a-proof-of-p-np-1he9)
-- [-&gt;&gt; Day-09 AWS Terraform Lifecycle Rules](https://dev.to/amit_kumar_7db8e36a64dd45/-day-09-aws-terraform-lifecycle-rules-57bi)
-- [Introducing QCrawl — A Modern Async Web Crawler Framework for Python](https://dev.to/vasiliy_kiryanov_8d249790/introducing-qcrawl-a-modern-async-web-crawler-framework-for-python-34m5)
+- [The Sliding Window Problem That Taught Me How to Think](https://dev.to/saxenaaman628/the-sliding-window-problem-that-taught-me-how-to-think-44lm)
+- [Why Custom JavaScript Errors Create Messy Stack Traces and How Error.captureStackTrace Fixes Them](https://dev.to/silentwatcher_95/why-custom-javascript-errors-create-messy-stack-traces-and-how-errorcapturestacktrace-fixes-them-3ahb)
+- [n8n: Credential - Microsoft Drive OAuth2 API](https://dev.to/codebangkok/n8n-credential-microsoft-drive-oauth2-api-1h1e)
+- [AWS re:Invent 2025 - Intelligent security: Protection at scale from development to production-INV214](https://dev.to/kazuya_dev/aws-reinvent-2025-intelligent-security-protection-at-scale-from-development-to-production-inv214-3da)
+- [We Spent 6 Months Breaking LinkedIn&#39;s Anti-Bot System &lpar;So You Don&#39;t Have To&rpar;](https://dev.to/romclerix/we-spent-6-months-breaking-linkedins-anti-bot-system-so-you-dont-have-to-4f63)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
