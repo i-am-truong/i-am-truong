@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Production-Grade GEO SDK with Kiro: From Spec to Deployment in 2 Weeks](https://dev.to/cryptomanrahul/building-a-production-grade-geo-sdk-with-kiro-from-spec-to-deployment-in-2-weeks-3me6)
+- [AWS re:Invent 2025 - Deep dive: The evolution of AWS load balancing and new capabilities &lpar;NET334&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-deep-dive-the-evolution-of-aws-load-balancing-and-new-capabilities-net334-3cic)
+- [SwiftUI #7: Reconocer gestos con GestureRecognizer](https://dev.to/david_goyes_a488f58a17a53/swiftui-7-reconocer-gestos-con-gesturerecognizer-5gce)
 - [Typescript wrapper class for browser storage](https://dev.to/muszynov/typescript-wrapper-class-for-browser-storage-55pd)
 - [dotnet run in .NET 10: Single-File C# Is Finally Here](https://dev.to/mashrulhaque/dotnet-run-in-net-10-single-file-c-is-finally-here-1gdi)
-- [MCP Gets Tasks: A Game-Changer for Long-Running AI Operations](https://dev.to/gregory_dickson_6dd6e2b55/mcp-gets-tasks-a-game-changer-for-long-running-ai-operations-2kel)
-- [👻 Kiroweenscare: When Code Review Gets Spooky](https://dev.to/victoria_eloho_91dca25783/kiroweenscare-when-code-review-gets-spooky-1jk4)
-- [AWS re:Invent 2025 - Global Resilient Apps: Guide to Multi-AZ/Region Architecture with ELB &lpar;NET311&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-global-resilient-apps-guide-to-multi-azregion-architecture-with-elb-net311-54oh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
