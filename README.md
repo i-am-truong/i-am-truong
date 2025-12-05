@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Working with Docker Images: From Basics to Best Practices](https://dev.to/techwithhari/working-with-docker-images-from-basics-to-best-practices-i9n)
+- [I built a Transactional NoSQL Database in Go &lpar;and now it has AI Agents!&rpar;](https://dev.to/grecinto/i-built-a-transactional-nosql-database-in-go-and-now-it-has-ai-agents-870)
+- [Using Google Maps Natively in Angular 20 — Modern vs Traditional Approach](https://dev.to/guilhermebodart/using-google-maps-natively-in-angular-20-modern-vs-traditional-approach-23p2)
+- [AWS re:Invent 2025 - Supercharge security investigations with custom detection &amp; analytics &lpar;SEC350&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-supercharge-security-investigations-with-custom-detection-analytics-sec350-2903)
 - [Known Knowns &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/known-knowns-bite-size-article-33pp)
-- [GoGPU: A Pure Go Graphics Library for GPU Programming](https://dev.to/kolkov/gogpu-a-pure-go-graphics-library-for-gpu-programming-2j5d)
-- [What IS i3rbly?](https://dev.to/darealone/i3rbly-building-an-arabic-first-ai-layer-for-search-nlp-and-zero-loss-text-understanding-29i0)
-- [FastAPI Performance: The Hidden Thread Pool Overhead You Might Be Missing](https://dev.to/bkhalifeh/fastapi-performance-the-hidden-thread-pool-overhead-you-might-be-missing-2ok6)
-- [🧟 I Gamified my Task Manager into a Zombie Shooter to Save my RAM &lpar;Built with Kiro&rpar;](https://dev.to/saicharan_lokineni_531e89/i-gamified-my-task-manager-into-a-zombie-shooter-to-save-my-ram-built-with-kiro-4kjb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
