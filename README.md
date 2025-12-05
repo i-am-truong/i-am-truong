@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AWS re:Invent 2025 - Developer Experience Economics: Moving Past Productivity Metrics &lpar;DVT207&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-developer-experience-economics-moving-past-productivity-metrics-dvt207-327i)
-- [AWS re:Invent 2025 - Epic journey: Navigating the AI-powered SDLC from backlog to production&lpar;DVT208&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-epic-journey-navigating-the-ai-powered-sdlc-from-backlog-to-productiondvt208-1129)
-- [AI Agents Intensive Course](https://dev.to/prakhar_shukla_ab132cd2a6/ai-agents-intensive-course-3gbp)
-- [Giving AI a Memory: How I Built Consciousness Continuity for Claude Code](https://dev.to/rodrigo_luglio_f63c6051de/giving-ai-a-memory-how-i-built-consciousness-continuity-for-claude-code-5h33)
-- [A dive into npx: What happens when you run npx?](https://dev.to/rijultp/a-dive-into-npx-what-happens-when-you-run-npx-4od6)
+- [LinkedIn&#39;s Algorithm in 2025: Why Engagement Pods Are Dead and What Works Now](https://dev.to/synergistdigitalmedia/linkedins-algorithm-in-2025-why-engagement-pods-are-dead-and-what-works-now-1f6h)
+- [Google Interview Platforms: A Developer’s Tour](https://dev.to/stack_overflowed/google-interview-platforms-a-developers-tour-269d)
+- [AWS re:Invent 2025 -NFL Fantasy AI: Zero to Production in Weeks w/ Bedrock and Strands Agents-SPF304](https://dev.to/kazuya_dev/aws-reinvent-2025-nfl-fantasy-ai-zero-to-production-in-weeks-w-bedrock-and-strands-agents-spf304-4n9o)
+- [Discovering Drizzle ORM: A TypeScript-Native, SQL-First Solution](https://dev.to/ezmav3ick/discovering-drizzle-orm-a-typescript-native-sql-first-solution-203e)
+- [Next.js 16 vs Remix vs Astro: Choosing the Right React Framework in 2025](https://dev.to/saswatapal/nextjs-16-vs-remix-vs-astro-choosing-the-right-react-framework-in-2025-3lio)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
