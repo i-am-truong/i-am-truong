@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Tire Pressure Sensor Fault: Little Prince’s Guide 🌟 Fix Silent Wheel Whispers](https://dev.to/ersajay/tire-pressure-sensor-fault-little-princes-guide-fix-silent-wheel-whispers-n34)
-- [Anthropic’s 2026 IPO Path: Structure, Governance, and Valuation](https://dev.to/nalyne_lima_977268c938caf/anthropics-2026-ipo-path-structure-governance-and-valuation-2en6)
-- [Intro Blog: “A New Beginning - Learning, Teaching, and Building as Caspian Grey”](https://dev.to/caspiangrey/intro-blog-a-new-beginning-learning-teaching-and-building-as-caspian-grey-1nnl)
-- [AWS re:Invent 2025 - From principles to practice: Scaling AI responsibly with Indeed &lpar;AIM3323&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-from-principles-to-practice-scaling-ai-responsibly-with-indeed-aim3323-6pf)
-- [How Architectural Engineering Boosts ROI in Commercial Construction Projects?](https://dev.to/reetielubana/how-architectural-engineering-boosts-roi-in-commercial-construction-projects-2lfh)
+- [Guide - Audio Modding of &quot;Arena of Valor&quot;](https://dev.to/khang5687/guide-audio-modding-of-arena-of-valor-3c2f)
+- [🔔 Notifycli: A Lightweight Go CLI for Firebase Push Notifications](https://dev.to/john_afariogun_e2351c78af/notifycli-a-lightweight-go-cli-for-firebase-push-notifications-74b)
+- [Simple Real-time in Laravel without WebSockets &lpar;Long Polling&rpar;](https://dev.to/levskiy/simple-real-time-in-laravel-without-websockets-long-polling-86f)
+- [Day 55: Python Calculate Mean &amp; Median Manually – No Statistics Module, Just Pure Python Power](https://dev.to/shahrouzlogs/day-55-python-calculate-mean-median-manually-no-statistics-module-just-pure-python-power-364h)
+- [The Block Structure of Podlite](https://dev.to/zag/the-block-structure-of-podlite-513m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
