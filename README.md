@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Advent of AI 2025 - Day 4: Building a Winter Festival Website with Goose](https://dev.to/nickytonline/advent-of-ai-2025-day-4-building-a-winter-festival-website-with-goose-3oac)
+- [TheBitForge: Digital Solutions for Modern Businesses](https://dev.to/thebitforge/thebitforge-digital-solutions-for-modern-businesses-1845)
 - [LinkedIn&#39;s Algorithm in 2025: Why Engagement Pods Are Dead and What Works Now](https://dev.to/synergistdigitalmedia/linkedins-algorithm-in-2025-why-engagement-pods-are-dead-and-what-works-now-1f6h)
 - [Google Interview Platforms: A Developer’s Tour](https://dev.to/stack_overflowed/google-interview-platforms-a-developers-tour-269d)
 - [AWS re:Invent 2025 -NFL Fantasy AI: Zero to Production in Weeks w/ Bedrock and Strands Agents-SPF304](https://dev.to/kazuya_dev/aws-reinvent-2025-nfl-fantasy-ai-zero-to-production-in-weeks-w-bedrock-and-strands-agents-spf304-4n9o)
-- [Discovering Drizzle ORM: A TypeScript-Native, SQL-First Solution](https://dev.to/ezmav3ick/discovering-drizzle-orm-a-typescript-native-sql-first-solution-203e)
-- [Next.js 16 vs Remix vs Astro: Choosing the Right React Framework in 2025](https://dev.to/saswatapal/nextjs-16-vs-remix-vs-astro-choosing-the-right-react-framework-in-2025-3lio)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
