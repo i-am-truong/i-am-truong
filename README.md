@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing SheetDB](https://dev.to/shunya_ek/introducing-sheetdb-2jme)
 - [AWS re:Invent 2025 - Build resilient SaaS: multi-account resilience testing patterns &lpar;ISV404&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-build-resilient-saas-multi-account-resilience-testing-patterns-isv404-22lj)
 - [AWS re:Invent 2025 - BYOK: The Key to Meeting Enterprise SaaS Security Demands &lpar;ISV405&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-byok-the-key-to-meeting-enterprise-saas-security-demands-isv405-ao5)
 - [👻 Building a Haunted Portfolio with Kiro: A Kiroween 2025 Journey](https://dev.to/ark2044/building-a-haunted-portfolio-with-kiro-a-kiroween-2025-journey-4j0k)
 - [Reimagining Thai Lagoon - Website Redesign](https://dev.to/paaaarv/reimagining-thai-lagoon-website-redesign-2m5g)
-- [Haunt Write using Kiro Ide](https://dev.to/md_kaif_d9b1b87ea04052757/haunt-write-using-kiro-ide-l4l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
