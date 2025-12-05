@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Swift Testing #6: Aislando bugs conocidos usando withKnownIssue](https://dev.to/david_goyes_a488f58a17a53/swift-testing-6-aislando-bugs-conocidos-usando-withknownissue-4k6f)
-- [AWS re:Invent 2025 - Agentic AI&#39;s new generation of Industry and Line of Business solutions &lpar;PEX202&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-agentic-ais-new-generation-of-industry-and-line-of-business-solutions-pex202-5b)
-- [Found a Google for DevOps utilities](https://dev.to/imranonline/found-a-google-for-devops-utilities-3ml4)
-- [Pixel Café ☕ - A Retro-Futuristic Coffee Shop with a Virtual Pet&quot;](https://dev.to/sai_dinesh/pixel-cafe-a-retro-futuristic-coffee-shop-with-a-virtual-pet-1h7k)
-- [Building the AI-Native Foundation: How Creating for Kiro Unlocked a New Development Paradigm](https://dev.to/getaw_dejen_f52547be8575e/building-the-ai-native-foundation-how-creating-for-kiro-unlocked-a-new-development-paradigm-aj6)
+- [Swift Testing #11: Desactivación condicional de pruebas con .enabled&lpar;&rpar; y .disabled&lpar;&rpar;](https://dev.to/david_goyes_a488f58a17a53/swift-testing-11-desactivacion-condicional-de-pruebas-con-enabled-y-disabled-2no)
+- [Cloudconjure](https://dev.to/jayanth_t_2cb79abba47950d/cloudconjure-2c7l)
+- [Boost React TypeScript Test Coverage Without Slowing Down](https://dev.to/fhaponenka/boost-react-typescript-test-coverage-without-slowing-down-201d)
+- [Building a Semantic Storage for Humans and AI Agents](https://dev.to/aws/building-a-semantic-storage-for-humans-and-ai-agents-9h6)
+- [Microsoft 365: Shared Mailbox](https://dev.to/codebangkok/microsoft-365-shared-mailbox-28l2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
