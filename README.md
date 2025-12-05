@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [TechWithSam just gained 300+ new community members](https://dev.to/techwithsam/techwithsam-just-gained-300-new-community-members-enk)
+- [Seaography 2.0: A Powerful and Extensible GraphQL Framework 🧭](https://dev.to/seaql/seaography-20-a-powerful-and-extensible-graphql-framework-2l5g)
+- [[2026 Guide] 7 Best Video Marketing Services for Scale](https://dev.to/getkoro_app/2026-guide-7-best-video-marketing-services-for-scale-oa6)
+- [AWS re:Invent 2025 - Architecting resilient global networks with Amazon Leo &lpar;ARC320&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-architecting-resilient-global-networks-with-amazon-leo-arc320-30l4)
 - [24 Zsh Plugins🔌 Every Developer &amp; DevOps Engineer 🖥 Should Use in 2025](https://dev.to/chandrashekhar/24-zsh-plugins-every-developer-devops-engineer-should-use-in-2025-383k)
-- [My Cousin Became a Pilot – Here’s What I Learned About Commercial Pilot Training in India](https://dev.to/raj_kumar_bad38660705bdd4/my-cousin-became-a-pilot-heres-what-i-learned-about-commercial-pilot-training-in-india-65m)
-- [My Takeaways from Swami’s re:Invent 2025 Keynote — The Era of Agentic AI Is Here](https://dev.to/aditmodi/my-takeaways-from-swamis-reinvent-2025-keynote-the-era-of-agentic-ai-is-here-4ol)
-- [IA dans DevSecOps](https://dev.to/arij_belaid/ia-dans-devsecops-3ph5)
-- [I Tried Building a Lo-Fi Channel from Scratch — What AI Audio Tools Got Right &lpar;and Wrong&rpar;](https://dev.to/nano_a01924c85131687207c2/i-tried-building-a-lo-fi-channel-from-scratch-what-ai-audio-tools-got-right-and-wrong-4f97)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
