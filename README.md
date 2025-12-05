@@ -120,9 +120,9 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Rebuild Your Money System Using “Input Output” Thinking](https://dev.to/briandavies/how-to-rebuild-your-money-system-using-input-output-thinking-aep)
 - [Using Excel Dashboards for Real-Time Business Performance Monitoring](https://dev.to/chimdi_ndudim_/using-excel-dashboards-for-real-time-business-performance-monitoring-27la)
-- [AWS re:Invent 2025 - Intelligent Outage Management Using Automated Reasoning and AI &lpar;AIM275&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-intelligent-outage-management-using-automated-reasoning-and-ai-aim275-2ia4)
-- [Storage and warehousing](https://dev.to/safwan_42b77737d3ff722c3e/storage-and-warehousing-3f2)
+- [Learning to Think in Agents: My Takeaways from Google’s 5-Day Intensive](https://dev.to/santoshreddy1310/learning-to-think-in-agents-my-takeaways-from-googles-5-day-intensive-34o5)
 - [First-Party Data Strategies That Actually Work When Cookies Finally Die](https://dev.to/synergistdigitalmedia/first-party-data-strategies-that-actually-work-when-cookies-finally-die-5ch1)
 - [Building an OCR-Powered Mobile App with Google Gemini + Lovable AI](https://dev.to/vidya_kokkada/building-an-ocr-powered-mobile-app-with-google-gemini-lovable-ai-15a8)
 <!-- BLOG-POST-LIST:END -->
