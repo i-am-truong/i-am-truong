@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built an AI Startup Radar: 1100+ YC Companies on One Screen &lpar;2025 Trends Included&rpar;](https://dev.to/vastargazing/i-built-an-ai-startup-radar-52b4)
-- [Turbocharge Your Optimization: Preconditioning for the Win](https://dev.to/arvind_sundararajan/turbocharge-your-optimization-preconditioning-for-the-win-1bm0)
-- [Building SpecSync: How I Extended Kiro with Custom MCP Tools](https://dev.to/chrysostomos_koumides_bf8/building-specsync-how-i-extended-kiro-with-custom-mcp-tools-2ilg)
-- [⚙️ Membangun Protokol Smart Home: Integrasi API IoT dan Desain Interior](https://dev.to/ideinterior25/membangun-protokol-smart-home-integrasi-api-iot-dan-desain-interior-176l)
-- [Combine #2: Emisores &amp; Suscriptores](https://dev.to/david_goyes_a488f58a17a53/combine-2-emisores-suscriptores-3ad6)
+- [Kiroween Kinship: Monster Matchmaker](https://dev.to/zeddzoul/kiroween-kinship-monster-matchmaker-pml)
+- [🏰 A Most Illuminating Excursion: The Staff of Westmarch Attend Google&#39;s 5-Day AI Agents Intensive](https://dev.to/groundhog21/a-most-illuminating-excursion-the-staff-of-westmarch-attend-googles-5-day-ai-agents-intensive-ilm)
+- [Cobra CLI in Go](https://dev.to/abdulmuhaimin1219/cobra-cli-in-go-223i)
+- [Why Real-Time Communication Still Breaks — And What a 2014 Idea Got Right](https://dev.to/sagar_joshi_31ac4ef39367a/why-real-time-communication-still-breaks-and-what-a-2014-idea-got-right-1b40)
+- [**Comparing Explainable AI &lpar;XAI&rpar; and Adversarial Training in](https://dev.to/drcarlosruizviquez/comparing-explainable-ai-xai-and-adversarial-training-in-7fe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
