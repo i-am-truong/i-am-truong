@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [TechWithSam just gained 300+ new community members](https://dev.to/techwithsam/techwithsam-just-gained-300-new-community-members-enk)
-- [Seaography 2.0: A Powerful and Extensible GraphQL Framework 🧭](https://dev.to/seaql/seaography-20-a-powerful-and-extensible-graphql-framework-2l5g)
-- [[2026 Guide] 7 Best Video Marketing Services for Scale](https://dev.to/getkoro_app/2026-guide-7-best-video-marketing-services-for-scale-oa6)
-- [AWS re:Invent 2025 - Architecting resilient global networks with Amazon Leo &lpar;ARC320&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-architecting-resilient-global-networks-with-amazon-leo-arc320-30l4)
-- [24 Zsh Plugins🔌 Every Developer &amp; DevOps Engineer 🖥 Should Use in 2025](https://dev.to/chandrashekhar/24-zsh-plugins-every-developer-devops-engineer-should-use-in-2025-383k)
+- [🚀 My Learning Journey in the Google AI Agents Intensive — Building a Multi-Agent Concierge System](https://dev.to/rajesh_kumarsingh_803a87/my-learning-journey-in-the-google-ai-agents-intensive-building-a-multi-agent-concierge-system-48gj)
+- [How Negative SEO Farms Like TraderKnows Exploit Google&#39;s Algorithm](https://dev.to/qingshieldcenter/how-negative-seo-farms-like-traderknows-exploit-googles-algorithm-35f7)
+- [Standardizing Express.js Error Handling with One Library](https://dev.to/diana05/standardizing-expressjs-error-handling-with-one-library-1ohn)
+- [Promptless Content Workflow Using Zywrap + NodeJS](https://dev.to/zywrap/promptless-content-workflow-using-zywrap-nodejs-78k)
+- [How to Build a Module Bundler: Complete Guide to 8 Core Techniques with Code Examples](https://dev.to/nithinbharathwaj/how-to-build-a-module-bundler-complete-guide-to-8-core-techniques-with-code-examples-3d9l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
