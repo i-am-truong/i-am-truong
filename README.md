@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AWS re:Invent 2025 - Deep Dive: ECS Managed Instances &amp; Blue/Green for Resilient Services &lpar;CNS416&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-deep-dive-ecs-managed-instances-bluegreen-for-resilient-services-cns416-49g8)
-- [Usar Dev.to como un CMS Headless para tu blog](https://dev.to/joaquin_sez_6de09e190ca1/usar-devto-como-un-cms-headless-para-tu-blog-l87)
-- [Day-12: AWS Terraform Functions](https://dev.to/bhaskara_tejabulusu_b4bf/day-12-aws-terraform-functions-mhn)
-- [The Future of AI in 2025](https://dev.to/sandeepk27/the-future-of-ai-in-2025-2nb4)
-- [**Mejora en PLD gracias a IA/ML: Una historia de éxito**](https://dev.to/drcarlosruizviquez/mejora-en-pld-gracias-a-iaml-una-historia-de-exito-35gg)
+- [Behind the Screens: The Quiet Work That Shapes the Code](https://dev.to/mzghosty/behind-the-screens-the-quiet-work-that-shapes-the-code-jpm)
+- [AWS re:Invent 2025 - What&#39;s new with AWS Lambda &lpar;CNS376&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-whats-new-with-aws-lambda-cns376-3ojp)
+- [Building EduCollab: How Kiro’s Multi-Feature Approach Revolutionized My Development Workflow](https://dev.to/priyadarshini_r_9f9488a19/building-educollab-how-kiros-multi-feature-approach-revolutionized-my-development-workflow-35dp)
+- [How I Built a 3D Product Configurator using Alpine.js &amp; Three.js &lpar;No React required!&rpar;](https://dev.to/espfra95/how-i-built-a-3d-product-configurator-using-alpinejs-threejs-no-react-required-ah6)
+- [🧟‍♂️ Stitching the Spirit: Engineering a &quot;Frankenstein&quot; AI Agent with Kiro &amp; MCP](https://dev.to/vaishnavi_mishra_9a68c0b2/stitching-the-spirit-engineering-a-frankenstein-ai-agent-with-kiro-mcp-4okb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
