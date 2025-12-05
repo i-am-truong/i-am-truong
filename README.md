@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Top 5 Free WebP to PNG Converters in 2025 &lpar;Fast &amp; No Quality Loss&rpar;](https://dev.to/omar_maraoui_8e651c7e4141/top-5-free-webp-to-png-converters-in-2025-fast-no-quality-loss-2blb)
+- [AWS re:Invent 2025 - Enabling government to streamline &amp; ensure healthcare coverage with data-WPS208](https://dev.to/kazuya_dev/aws-reinvent-2025-enabling-government-to-streamline-ensure-healthcare-coverage-with-data-wps208-51b5)
 - [How I Reduced My React Native 0.81 APK Size by 50% &lpar;Without Breaking Anything&rpar;](https://dev.to/ajmal_hasan/how-i-reduced-my-react-native-081-apk-size-by-50-without-breaking-anything-e2a)
-- [Introducing SheetDB](https://dev.to/shunya_ek/introducing-sheetdb-2jme)
-- [AWS re:Invent 2025 - Build resilient SaaS: multi-account resilience testing patterns &lpar;ISV404&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-build-resilient-saas-multi-account-resilience-testing-patterns-isv404-22lj)
-- [AWS re:Invent 2025 - BYOK: The Key to Meeting Enterprise SaaS Security Demands &lpar;ISV405&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-byok-the-key-to-meeting-enterprise-saas-security-demands-isv405-ao5)
-- [👻 Building a Haunted Portfolio with Kiro: A Kiroween 2025 Journey](https://dev.to/ark2044/building-a-haunted-portfolio-with-kiro-a-kiroween-2025-journey-4j0k)
+- [It started with a simple question: &quot;What if I could bring back Teletext?&quot;](https://dev.to/ayomi_ayo/it-started-with-a-simple-question-what-if-i-could-bring-back-teletext-25gm)
+- [AWS re:Invent 2025 - Accelerate mission outcomes w/ recent AWS government regions innovations-WPS204](https://dev.to/kazuya_dev/aws-reinvent-2025-accelerate-mission-outcomes-w-recent-aws-government-regions-innovations-wps204-59l7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
