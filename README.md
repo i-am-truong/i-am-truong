@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Built Yahoo Pipes 2.0 in 7 Days Using Kiro&#39;s Spec-Driven AI Development](https://dev.to/anil_kumarum/i-built-yahoo-pipes-20-in-7-days-using-kiros-spec-driven-ai-development-hkm)
+- [⚡ FSCSS Ultra-Shorthand Animations — Assign Keyframes in One Line](https://dev.to/fscss/fscss-ultra-shorthand-animations-assign-keyframes-in-one-line-4bin)
+- [Building VT100 AI-Powered Typing Tutor with Kiro](https://dev.to/gabiz/building-vt100-ai-powered-typing-tutor-with-kiro-2nlo)
 - [Post-Mortem: Cuando los Backups Automatizados fallan y el SII te respira en la nuca &lpar;Guía de Supervivencia&rpar;](https://dev.to/leover22/post-mortem-cuando-los-backups-automatizados-fallan-y-el-sii-te-respira-en-la-nuca-guia-de-214c)
 - [How you can use Kiro to build awesome Computer-Vision apps](https://dev.to/harpitap/how-you-can-use-kiro-to-build-awesome-computer-vision-apps-1ci1)
-- [My Project 5: Building an Expense Tracker &lpar;with Python + SQLite + Streamlit&rpar;](https://dev.to/ian_b838138a27a917398d181/my-project-5-building-an-expense-tracker-with-python-sqlite-streamlit-fjn)
-- [Working with Docker Images: From Basics to Best Practices](https://dev.to/techwithhari/working-with-docker-images-from-basics-to-best-practices-i9n)
-- [I built a Transactional NoSQL Database in Go &lpar;and now it has AI Agents!&rpar;](https://dev.to/grecinto/i-built-a-transactional-nosql-database-in-go-and-now-it-has-ai-agents-870)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
