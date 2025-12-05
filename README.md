@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Advent of AI 2025 - Day 4: Building a Winter Festival Website with Goose](https://dev.to/nickytonline/advent-of-ai-2025-day-4-building-a-winter-festival-website-with-goose-3oac)
-- [TheBitForge: Digital Solutions for Modern Businesses](https://dev.to/thebitforge/thebitforge-digital-solutions-for-modern-businesses-1845)
-- [LinkedIn&#39;s Algorithm in 2025: Why Engagement Pods Are Dead and What Works Now](https://dev.to/synergistdigitalmedia/linkedins-algorithm-in-2025-why-engagement-pods-are-dead-and-what-works-now-1f6h)
-- [Google Interview Platforms: A Developer’s Tour](https://dev.to/stack_overflowed/google-interview-platforms-a-developers-tour-269d)
-- [AWS re:Invent 2025 -NFL Fantasy AI: Zero to Production in Weeks w/ Bedrock and Strands Agents-SPF304](https://dev.to/kazuya_dev/aws-reinvent-2025-nfl-fantasy-ai-zero-to-production-in-weeks-w-bedrock-and-strands-agents-spf304-4n9o)
+- [Dec 5, 2025 | The Tongyi Weekly: Your weekly dose of cutting-edge AI from Tongyi Lab](https://dev.to/alibaba_tongyi_lab_25ad9f/dec-5-2025-the-tongyi-weekly-your-weekly-dose-of-cutting-edge-ai-from-tongyi-lab-3ja7)
+- [Using Ollama Web Search API in Python](https://dev.to/rosgluk/using-ollama-web-search-api-in-python-30aa)
+- [Using Ollama Web Search API in Go](https://dev.to/rosgluk/using-ollama-web-search-api-in-go-3cah)
+- [Vector Stores for RAG Comparison](https://dev.to/rosgluk/vector-stores-for-rag-comparison-3pjh)
+- [Integrating eSignatures into Your Node.js Application](https://dev.to/boldsign/integrating-esignatures-into-your-nodejs-application-28ei)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
