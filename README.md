@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Context Engineering Is Replacing Prompt Hacks](https://dev.to/aiwithapex/why-context-engineering-is-replacing-prompt-hacks-fm4)
+- [🧱 Lecture 9B : Product Management &lpar;Angular&rpar;](https://dev.to/farrukh_rehman/lecture-9b-product-management-angular-2e2g)
+- [Vibe Coding Kills, Opus Dials, and Git Goes Cinema](https://dev.to/urbanisierung/vibe-coding-kills-opus-dials-and-git-goes-cinema-18a)
 - [Dec 5, 2025 | The Tongyi Weekly: Your weekly dose of cutting-edge AI from Tongyi Lab](https://dev.to/alibaba_tongyi_lab_25ad9f/dec-5-2025-the-tongyi-weekly-your-weekly-dose-of-cutting-edge-ai-from-tongyi-lab-3ja7)
-- [Using Ollama Web Search API in Python](https://dev.to/rosgluk/using-ollama-web-search-api-in-python-30aa)
-- [Using Ollama Web Search API in Go](https://dev.to/rosgluk/using-ollama-web-search-api-in-go-3cah)
-- [Vector Stores for RAG Comparison](https://dev.to/rosgluk/vector-stores-for-rag-comparison-3pjh)
-- [Integrating eSignatures into Your Node.js Application](https://dev.to/boldsign/integrating-esignatures-into-your-nodejs-application-28ei)
+- [New Winamp interface made 100% with AI and Uno Platform tools](https://dev.to/archiecoderdev/new-winamp-interface-made-100-with-ai-and-uno-platform-tools-5c53)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
