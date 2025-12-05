@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built Yahoo Pipes 2.0 in 7 Days Using Kiro&#39;s Spec-Driven AI Development](https://dev.to/anil_kumarum/i-built-yahoo-pipes-20-in-7-days-using-kiros-spec-driven-ai-development-hkm)
-- [⚡ FSCSS Ultra-Shorthand Animations — Assign Keyframes in One Line](https://dev.to/fscss/fscss-ultra-shorthand-animations-assign-keyframes-in-one-line-4bin)
-- [Building VT100 AI-Powered Typing Tutor with Kiro](https://dev.to/gabiz/building-vt100-ai-powered-typing-tutor-with-kiro-2nlo)
-- [Post-Mortem: Cuando los Backups Automatizados fallan y el SII te respira en la nuca &lpar;Guía de Supervivencia&rpar;](https://dev.to/leover22/post-mortem-cuando-los-backups-automatizados-fallan-y-el-sii-te-respira-en-la-nuca-guia-de-214c)
-- [How you can use Kiro to build awesome Computer-Vision apps](https://dev.to/harpitap/how-you-can-use-kiro-to-build-awesome-computer-vision-apps-1ci1)
+- [👻 Kiroweenscare: When Code Review Gets Spooky](https://dev.to/victoria_eloho_91dca25783/kiroweenscare-when-code-review-gets-spooky-1jk4)
+- [AWS re:Invent 2025 - Global Resilient Apps: Guide to Multi-AZ/Region Architecture with ELB &lpar;NET311&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-global-resilient-apps-guide-to-multi-azregion-architecture-with-elb-net311-54oh)
+- [From Zero to Gemini Multi-Agint: How I built a Cognitive Firewall in 5 Days](https://dev.to/sonia_alraini_d90f130c1/from-zero-to-gemini-multi-agint-how-i-built-a-cognitive-firewall-in-5-days-1nmb)
+- [Da VPN tradicional ao Zero Trust com Cloudflare Tunnel: um guia prático](https://dev.to/lkgiovani/da-vpn-tradicional-ao-zero-trust-com-cloudflare-tunnel-um-guia-pratico-kle)
+- [🌑 Into the Dark: Soulbound Codex](https://dev.to/gt12889/into-the-dark-soulbound-codex-jgp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
