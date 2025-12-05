@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AWS re:Invent 2025 - Advanced data modeling for Amazon ElastiCache &lpar;DAT438&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-advanced-data-modeling-for-amazon-elasticache-dat438-46bm)
+- [Building SlimShield: A Production-Ready Docker Security Platform with 18 Advanced Features 🚀](https://dev.to/muthu_kumarmurugaiyan_23/building-slimshield-a-production-ready-docker-security-platform-with-18-advanced-features-31n9)
+- [AWS re:Invent 2025 - Secure Amazon ECS observability with CDK and Grafana &lpar;DEV338&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-secure-amazon-ecs-observability-with-cdk-and-grafana-dev338-14n5)
+- [Fonts personalizadas no Swift e UIkit](https://dev.to/henriquepablo/fonts-personalizadas-no-swift-e-uikit-1j4k)
 - [Cómo crear un Blog de Alto Rendimiento con Astro y Hygraph](https://dev.to/joaquin_sez_6de09e190ca1/como-crear-un-blog-de-alto-rendimiento-con-astro-y-hygraph-1d8d)
-- [SmartStudy: The Cross-Platform Rule-Based AI Coach for Students &lpar;Built with Uno Platform&rpar;](https://dev.to/emirsphere/smartstudy-the-cross-platform-rule-based-ai-coach-for-students-built-with-uno-platform-7pn)
-- [AWS re:Invent 2025 - Build resilient and low-latency hybrid telecom infrastructure at scale &lpar;HMC328&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-build-resilient-and-low-latency-hybrid-telecom-infrastructure-at-scale-hmc328-36pc)
-- [Fitness Copilot - 🎃 Kiroween 2025](https://dev.to/jgorostegui/fitness-copilot-kiroween-2025-4ggb)
-- [AWS re:Invent 2025 - Another Axiom: Migrating the backend for hit game Gorilla Tag to AWS &lpar;IND396&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-another-axiom-migrating-the-backend-for-hit-game-gorilla-tag-to-aws-ind396-lb1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
