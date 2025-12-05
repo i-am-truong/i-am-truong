@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [core.async: Deep Dive — Online Meetup](https://dev.to/vladislav_chikishev_b47ef/coreasync-deep-dive-online-meetup-1kmm)
+- [Compare PDFs Online for Free with Diff Guru - Fast, Secure &amp; Accurate](https://dev.to/diffguru/compare-pdfs-online-for-free-with-diff-guru-fast-secure-accurate-3m9g)
+- [How I Built a Multi-Platform AI Bot with Langflow&#39;s Drag-and-Drop Workflows](https://dev.to/rockchinq/how-i-built-a-multi-platform-ai-bot-with-langflows-drag-and-drop-workflows-4287)
+- [The Modem&#39;s Revenge](https://dev.to/jacky_ma_9a26ad7b3e2013f9/the-modems-revenge-114g)
 - [My First Steps in JavaScript: A Simple Breakdown](https://dev.to/harini_magesh_fa40041cf8d/my-first-steps-in-javascript-a-simple-breakdown-1gmp)
-- [Best Python Projects for 2026 &lpar;Beginner Advanced&rpar;](https://dev.to/keerthana_pulipati_696356/best-python-projects-for-2026-beginner-advanced-257l)
-- [The generative AI revolution promises productivity gains, but is it making us smarter or simply outsourcing our thinking?](https://dev.to/ejb503/the-generative-ai-revolution-promises-productivity-gains-but-is-it-making-us-smarter-or-simply-52nk)
-- [Building My First Project with Kiro: A Student&#39;s Experience](https://dev.to/kingisback01/building-my-first-project-with-kiro-a-students-experience-4oe8)
-- [I Resurrected Microsoft&#39;s Most Hated Mascot - Here&#39;s What Happened](https://dev.to/kevin_soto_2d5c72bb78c86d/i-resurrected-microsofts-most-hated-mascot-heres-what-happened-46nb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
