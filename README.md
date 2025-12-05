@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking AI Reasoning: The Power of Modular Cognition](https://dev.to/arvind_sundararajan/unlocking-ai-reasoning-the-power-of-modular-cognition-393j)
-- [The React Native New Architecture Migration Process for 2026](https://dev.to/sherry_walker_bba406fb339/the-react-native-new-architecture-migration-process-for-2026-27l3)
-- [WTF is Remote Work Infrastructure Automation?](https://dev.to/dailybugle33/wtf-is-remote-work-infrastructure-automation-24p6)
-- [I Built 5 AI GPTs in 2 Weeks — Here&#39;s What I Learned About Niche AI Markets](https://dev.to/rahul_yadav_55c2848711585/i-built-5-ai-gpts-in-2-weeks-heres-what-i-learned-about-niche-ai-markets-4e1k)
-- [Building AI Protégé: A Month of Spec-Driven Development with Kiro](https://dev.to/alim_aa888/building-ai-protege-a-month-of-spec-driven-development-with-kiro-2dl1)
+- [Detecting Deep-Tier Geographic Concentration in Supply Chains Using AI](https://dev.to/supplygraphai/detecting-deep-tier-geographic-concentration-in-supply-chains-using-ai-3ib0)
+- [The Hidden Architecture Behind AI’s Ability to Generalize Across Topics](https://dev.to/luketaylor25/the-hidden-architecture-behind-ais-ability-to-generalize-across-topics-2b8j)
+- [Advent of Code 2025 - December 5th](https://dev.to/robvanderleek/advent-of-code-2025-december-5th-36fk)
+- [How I Accidentally Built a Multi-Tool Web Ecosystem While Making Simple Utilities](https://dev.to/flameaistudio/how-i-accidentally-built-a-multi-tool-web-ecosystem-while-making-simple-utilities-37jj)
+- [Extracting Gold from Conversations: The Hidden Challenges of Transcript Analysis](https://dev.to/ganiyuolalekan/extracting-gold-from-conversations-the-hidden-challenges-of-transcript-analysis-44h7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
