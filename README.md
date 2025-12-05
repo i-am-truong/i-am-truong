@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Open Source Email Warmup: A Complete Guide](https://dev.to/tusharsmtpmaster/open-source-email-warmup-a-complete-guide-5d5b)
+- [I Built a Haunted Digital Pet That Feeds on Git Commits &lpar;with Kiro&rpar;](https://dev.to/manishmodak/i-built-a-haunted-digital-pet-that-feeds-on-git-commits-with-kiro-596c)
+- [What Happens When You Run Python Code?](https://dev.to/drani/what-happens-when-you-run-python-code-1b5b)
 - [dremioframe &amp; iceberg: Pythonic interfaces for Dremio and Apache Iceberg](https://dev.to/alexmercedcoder/dremioframe-iceberg-pythonic-interfaces-for-dremio-and-apache-iceberg-33i8)
 - [🚀 Node.js Best Practices](https://dev.to/itagyba/nodejs-best-practices-cursor-rules-1pa5)
-- [Introducing OpenTransit: A Free, Open-Source Fork of MassTransit v8](https://dev.to/nakib/introducing-opentransit-a-free-open-source-fork-of-masstransit-v8-2eb3)
-- [Become a GDG on Campus Organizer: Your Complete Selection Journey](https://dev.to/gdg-geu/become-a-gdg-on-campus-organizer-your-complete-selection-journey-4plj)
-- [Passkeys and WebAuthn: The Future of Passwordless Authentication](https://dev.to/iamdevbox/passkeys-and-webauthn-the-future-of-passwordless-authentication-4adi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
