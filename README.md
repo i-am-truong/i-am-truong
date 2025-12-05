@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AWS re:Invent 2025 - Deep Dive: ECS Managed Instances &amp; Blue/Green for Resilient Services &lpar;CNS416&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-deep-dive-ecs-managed-instances-bluegreen-for-resilient-services-cns416-49g8)
+- [Usar Dev.to como un CMS Headless para tu blog](https://dev.to/joaquin_sez_6de09e190ca1/usar-devto-como-un-cms-headless-para-tu-blog-l87)
 - [Day-12: AWS Terraform Functions](https://dev.to/bhaskara_tejabulusu_b4bf/day-12-aws-terraform-functions-mhn)
-- [Zero to SaaS vs ShipFast, Which One Actually Helps You Build a Real SaaS?](https://dev.to/thekarlesi/zero-to-saas-vs-shipfast-which-one-actually-helps-you-build-a-real-saas-3jng)
-- [AWS re:Invent 2025 - Build safe and resilient deployment pipelines for Amazon ECS &lpar;CNS353&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-build-safe-and-resilient-deployment-pipelines-for-amazon-ecs-cns353-h6p)
-- [Kiroween Kinship: Monster Matchmaker](https://dev.to/zeddzoul/kiroween-kinship-monster-matchmaker-pml)
-- [“REMI-IA Challenge: Event Log Endpoint Published”](https://dev.to/jramone3/remi-ia-challenge-event-log-endpoint-published-5d95)
+- [The Future of AI in 2025](https://dev.to/sandeepk27/the-future-of-ai-in-2025-2nb4)
+- [**Mejora en PLD gracias a IA/ML: Una historia de éxito**](https://dev.to/drcarlosruizviquez/mejora-en-pld-gracias-a-iaml-una-historia-de-exito-35gg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
