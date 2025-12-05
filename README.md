@@ -120,13 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My Journey Through the AI Agents Intensive, Building an AI Personal Safety &amp; Emergency Assistant](https://dev.to/mukul_tiwari_3007f9267d54/my-journey-through-the-ai-agents-intensive-building-an-ai-personal-safety-emergency-assistant-5gfh)
-- [Most AI tools don’t need subscribers. They need users who pay for value when value is delivered.
-
-If your AI tool is not making money then you should review your business model.](https://dev.to/jaideepparashar/most-ai-tools-dont-need-subscribers-they-need-users-who-pay-for-value-when-value-is-delivered-5blc)
-- [Best Practices for Hardening Enterprise Linux Servers and Enhancing Cloud Security](https://dev.to/balaramakrishna_althi_3fc/best-practices-for-hardening-enterprise-linux-servers-and-enhancing-cloud-security-8lh)
-- [AI Remedy Maker: Why Personalized Natural Medicine Needs Algorithms &lpar;Not Guesswork&rpar;](https://dev.to/amit_gupta/ai-remedy-maker-why-personalized-natural-medicine-needs-algorithms-not-guesswork-edn)
-- [How a Cache Invalidation Bug Nearly Took Down Our System - And What We Changed After](https://dev.to/jayesh_shinde/how-a-cache-invalidation-bug-nearly-took-down-our-system-and-what-we-changed-after-2dd2)
+- [How I Built Professor Doom - A Spooky Resume Roaster Using Kiro](https://dev.to/shuvodip99/how-i-built-professor-doom-a-spooky-resume-roaster-using-kiro-1li)
+- [AWS re:Invent 2025 - Ericsson Innovation: Optimizing Mobile Networks &amp; Unified Development with AWS](https://dev.to/kazuya_dev/aws-reinvent-2025-ericsson-innovation-optimizing-mobile-networks-unified-development-with-aws-23nb)
+- [How to Implement LLM Grounding using Retrieval Augmented Generation Technique&lpar;RAG&rpar;](https://dev.to/eyitayoitalt/how-to-implement-llm-grounding-using-retrieval-augmented-generation-techniquerag-1m2p)
+- [Start with a Gravel Road: Why MVPs Beat 12‑Lane Highways](https://dev.to/wraith/start-with-a-gravel-road-why-mvps-beat-12-lane-highways-2mdk)
+- [Python for Beginners and Intermediate Developers — A Complete Guide](https://dev.to/farhadrahimiklie/python-for-beginners-and-intermediate-developers-a-complete-guide-e66)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
