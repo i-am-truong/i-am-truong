@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Intro Blog: “A New Beginning - Learning, Teaching, and Building as Caspian Grey”](https://dev.to/caspiangrey/intro-blog-a-new-beginning-learning-teaching-and-building-as-caspian-grey-1nnl)
+- [Market Trends and Consumer Behavior Using Excel to Drive Smarter Business Decisions](https://dev.to/tamaraebi_thomasakpi_745/market-trends-and-consumer-behavior-using-excel-to-drive-smarter-business-decisions-4a62)
+- [The Importance of Django Middleware](https://dev.to/devasservice/the-importance-of-django-middleware-4fhb)
 - [The Best Agentic AI Framework Options for Building Multi Agent Systems in 2025](https://dev.to/yeahiasarker/the-best-agentic-ai-framework-options-for-building-multi-agent-systems-in-2025-3l9l)
-- [How I Designed GPU vs CPU Pipelines for a High-Volume ML Classification System](https://dev.to/mateenali66/how-i-designed-gpu-vs-cpu-pipelines-for-a-high-volume-ml-classification-system-40ki)
-- [How We Used DBtune to Cut Our Postgres Query Time by 50% on AWS RDS](https://dev.to/floriansuchan/how-we-used-dbtune-to-cut-our-postgres-query-time-by-50-on-aws-rds-2a5e)
-- [Amazon Bedrock AgentCore Policy - Secure your &quot;MCP Server/Tools&quot; of your Agents using NLP](https://dev.to/nghidanh2005/amazon-bedrock-agentcore-policy-secure-your-mcp-servertools-of-your-agents-using-nlp-19ce)
-- [Don&#39;t Break Your WiFi: How to Simulate 503 Errors in a Single Browser Tab](https://dev.to/aragossa/dont-break-your-wifi-how-to-simulate-503-errors-in-a-single-browser-tab-5fm5)
+- [L’IA Générative dans le DevSecOps](https://dev.to/hanin_hajyoussef_b706ee86/lia-generative-dans-le-devsecops-e7o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
