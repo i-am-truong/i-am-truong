@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Swift Testing #11: Desactivación condicional de pruebas con .enabled&lpar;&rpar; y .disabled&lpar;&rpar;](https://dev.to/david_goyes_a488f58a17a53/swift-testing-11-desactivacion-condicional-de-pruebas-con-enabled-y-disabled-2no)
-- [Cloudconjure](https://dev.to/jayanth_t_2cb79abba47950d/cloudconjure-2c7l)
-- [Boost React TypeScript Test Coverage Without Slowing Down](https://dev.to/fhaponenka/boost-react-typescript-test-coverage-without-slowing-down-201d)
-- [Building a Semantic Storage for Humans and AI Agents](https://dev.to/aws/building-a-semantic-storage-for-humans-and-ai-agents-9h6)
-- [Microsoft 365: Shared Mailbox](https://dev.to/codebangkok/microsoft-365-shared-mailbox-28l2)
+- [The PM&#39;s Antidote: Stop Dreaming of Changing the World. Just Solve &quot;The Grocery Run&quot;.](https://dev.to/elevenapril/the-pms-antidote-stop-dreaming-of-changing-the-world-just-solve-the-grocery-run-1je4)
+- [Our current challenges add up to $9,000 in total prizes! Give one a try this weekend.](https://dev.to/devteam/our-current-challenges-add-up-to-9000-in-total-prizes-give-one-a-try-this-weekend-eel)
+- [A Proof of P = NP](https://dev.to/frank_vega_987689489099bf/a-proof-of-p-np-1he9)
+- [-&gt;&gt; Day-09 AWS Terraform Lifecycle Rules](https://dev.to/amit_kumar_7db8e36a64dd45/-day-09-aws-terraform-lifecycle-rules-57bi)
+- [Introducing QCrawl — A Modern Async Web Crawler Framework for Python](https://dev.to/vasiliy_kiryanov_8d249790/introducing-qcrawl-a-modern-async-web-crawler-framework-for-python-34m5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
