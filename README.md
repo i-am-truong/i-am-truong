@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Post-Mortem: Cuando los Backups Automatizados fallan y el SII te respira en la nuca &lpar;Guía de Supervivencia&rpar;](https://dev.to/leover22/post-mortem-cuando-los-backups-automatizados-fallan-y-el-sii-te-respira-en-la-nuca-guia-de-214c)
+- [How you can use Kiro to build awesome Computer-Vision apps](https://dev.to/harpitap/how-you-can-use-kiro-to-build-awesome-computer-vision-apps-1ci1)
+- [My Project 5: Building an Expense Tracker &lpar;with Python + SQLite + Streamlit&rpar;](https://dev.to/ian_b838138a27a917398d181/my-project-5-building-an-expense-tracker-with-python-sqlite-streamlit-fjn)
 - [Working with Docker Images: From Basics to Best Practices](https://dev.to/techwithhari/working-with-docker-images-from-basics-to-best-practices-i9n)
 - [I built a Transactional NoSQL Database in Go &lpar;and now it has AI Agents!&rpar;](https://dev.to/grecinto/i-built-a-transactional-nosql-database-in-go-and-now-it-has-ai-agents-870)
-- [Using Google Maps Natively in Angular 20 — Modern vs Traditional Approach](https://dev.to/guilhermebodart/using-google-maps-natively-in-angular-20-modern-vs-traditional-approach-23p2)
-- [AWS re:Invent 2025 - Supercharge security investigations with custom detection &amp; analytics &lpar;SEC350&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-supercharge-security-investigations-with-custom-detection-analytics-sec350-2903)
-- [Known Knowns &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/known-knowns-bite-size-article-33pp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
