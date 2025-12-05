@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Message Trace in Microsoft 365](https://dev.to/itcs11/message-trace-in-microsoft-365-kdl)
-- [8 Study Problems You Can Eliminate Entirely With Agent-Based AI Tools](https://dev.to/briandavies/8-study-problems-you-can-eliminate-entirely-with-agent-based-ai-tools-2kof)
-- [Understanding *args and **kwargs in Python, Explained in Plain English](https://dev.to/brentwash35/understanding-args-and-kwargs-in-python-explained-in-plain-english-1cel)
-- [Guide - Audio Modding of &quot;Arena of Valor&quot;](https://dev.to/khang5687/guide-audio-modding-of-arena-of-valor-3c2f)
-- [🔔 Notifycli: A Lightweight Go CLI for Firebase Push Notifications](https://dev.to/john_afariogun_e2351c78af/notifycli-a-lightweight-go-cli-for-firebase-push-notifications-74b)
+- [Unlocking AI Reasoning: The Power of Modular Cognition](https://dev.to/arvind_sundararajan/unlocking-ai-reasoning-the-power-of-modular-cognition-393j)
+- [The React Native New Architecture Migration Process for 2026](https://dev.to/sherry_walker_bba406fb339/the-react-native-new-architecture-migration-process-for-2026-27l3)
+- [WTF is Remote Work Infrastructure Automation?](https://dev.to/dailybugle33/wtf-is-remote-work-infrastructure-automation-24p6)
+- [I Built 5 AI GPTs in 2 Weeks — Here&#39;s What I Learned About Niche AI Markets](https://dev.to/rahul_yadav_55c2848711585/i-built-5-ai-gpts-in-2-weeks-heres-what-i-learned-about-niche-ai-markets-4e1k)
+- [Building AI Protégé: A Month of Spec-Driven Development with Kiro](https://dev.to/alim_aa888/building-ai-protege-a-month-of-spec-driven-development-with-kiro-2dl1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
