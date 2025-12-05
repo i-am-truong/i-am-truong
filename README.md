@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Security news weekly round-up - 5th December 2025](https://dev.to/ziizium/security-news-weekly-round-up-5th-december-2025-3ii)
-- [AWS re:Invent 2025 - Accelerate product development lifecycle with a product digital twin &lpar;IND371&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-accelerate-product-development-lifecycle-with-a-product-digital-twin-ind371-4ca2)
-- [DIY GitHub Issue Bot — Just Your LLM API Key](https://dev.to/fl4tlin3/diy-github-issue-bot-just-your-llm-api-key-3plf)
-- [How to build a ChatGPT App &lpar;MCP Apps&rpar;](https://dev.to/abewheeler/how-to-build-a-chatgpt-app-mcp-apps-27c)
-- [From Chaos to Code: ALPHALABS](https://dev.to/harshit_aggarwal_2e641193/from-chaos-to-code-alphalabs-103e)
+- [5 Game-Changing Chrome DevTools Updates You Need to Try in 2025](https://dev.to/henrylim96/5-game-changing-chrome-devtools-updates-you-need-to-try-in-2025-2mal)
+- [How I Built Game Assessment Prep in 3 Weeks by Focusing on a Tiny Niche &lpar;and Vibecoding the Rest&rpar;](https://dev.to/luca151/how-i-built-game-assessment-prep-in-3-weeks-by-focusing-on-a-tiny-niche-and-vibecoding-the-rest-4bmg)
+- [AWS re:Invent 2025 - Ripple: Building an intelligent, multi-agent system for 24/7 operations-IND3301](https://dev.to/kazuya_dev/aws-reinvent-2025-ripple-building-an-intelligent-multi-agent-system-for-247-operations-ind3301-2cmg)
+- [[2025 Guide] 30 Remarketing Ad Examples: The Strategy That Converts](https://dev.to/getkoro_app/2025-guide-30-remarketing-ad-examples-the-strategy-that-converts-cbh)
+- [Configure CrewAI with Groq: Alternative LLM Setup Guide](https://dev.to/fanioz/configure-crewai-with-groq-alternative-llm-setup-guide-4gc9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
