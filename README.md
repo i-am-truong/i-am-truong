@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Best Agentic AI Framework Options for Building Multi Agent Systems in 2025](https://dev.to/yeahiasarker/the-best-agentic-ai-framework-options-for-building-multi-agent-systems-in-2025-3l9l)
+- [How I Designed GPU vs CPU Pipelines for a High-Volume ML Classification System](https://dev.to/mateenali66/how-i-designed-gpu-vs-cpu-pipelines-for-a-high-volume-ml-classification-system-40ki)
 - [How We Used DBtune to Cut Our Postgres Query Time by 50% on AWS RDS](https://dev.to/floriansuchan/how-we-used-dbtune-to-cut-our-postgres-query-time-by-50-on-aws-rds-2a5e)
+- [Amazon Bedrock AgentCore Policy - Secure your &quot;MCP Server/Tools&quot; of your Agents using NLP](https://dev.to/nghidanh2005/amazon-bedrock-agentcore-policy-secure-your-mcp-servertools-of-your-agents-using-nlp-19ce)
 - [Don&#39;t Break Your WiFi: How to Simulate 503 Errors in a Single Browser Tab](https://dev.to/aragossa/dont-break-your-wifi-how-to-simulate-503-errors-in-a-single-browser-tab-5fm5)
-- [The Modern Agent Builder’s Toolkit: Best Frameworks for Agentic AI](https://dev.to/yeahiasarker/the-modern-agent-builders-toolkit-best-frameworks-for-agentic-ai-3n57)
-- [From Curiosity to Crisis-Tech: Building NexusResponse, an Agentic AI System for Disaster Coordination](https://dev.to/trushna_wanarkar_0e81c73c/from-curiosity-to-crisis-tech-building-nexusresponse-an-agentic-ai-system-for-disaster-18a2)
-- [What Drives StoneZen Capital Consortium’s New AI Shift?](https://dev.to/stonezenca/what-drives-stonezen-capital-consortiums-new-ai-shift-1k4f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
