@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [WinUI 3: Bloquear doble clic en el Title Bar](https://dev.to/williamprogramer/winui-3-bloquear-doble-click-en-el-title-bar-82d)
-- [Burning the Midnight Oil to Bring Back VR from the 90s](https://dev.to/hellocaleb/burning-the-midnight-oil-to-bring-back-vr-from-the-90s-5496)
-- [The $40K Code Review Tax: Why Manual Reviews Are Bleeding Your Engineering Budget](https://dev.to/sociilabs/the-40k-code-review-tax-why-manual-reviews-are-bleeding-your-engineering-budget-3485)
-- [Comparative Analysis of Test Management Tools: Real Integration with CI/CD Pipelines](https://dev.to/royservillanueva2004/comparative-analysis-of-test-management-tools-real-integration-with-cicd-pipelines-1n41)
-- [AWS re:Invent 2025 - Peak Performance: IoT Innovation in Professional Sports &lpar;SPF301&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-peak-performance-iot-innovation-in-professional-sports-spf301-m73)
+- [AI Agents Intensive Course](https://dev.to/prakhar_shukla_ab132cd2a6/ai-agents-intensive-course-3gbp)
+- [Giving AI a Memory: How I Built Consciousness Continuity for Claude Code](https://dev.to/rodrigo_luglio_f63c6051de/giving-ai-a-memory-how-i-built-consciousness-continuity-for-claude-code-5h33)
+- [A dive into npx: What happens when you run npx?](https://dev.to/rijultp/a-dive-into-npx-what-happens-when-you-run-npx-4od6)
+- [Revisiting the old classic Winamp and made it as a cross-platform app using Uno Platform](https://dev.to/archiecoderdev/revisiting-the-old-classic-winamp-and-made-it-as-a-cross-platform-app-using-uno-platform-4amg)
+- [2025년 기대되는 K-드라마 신작 TOP 5](https://dev.to/_c9af00d5bb7c26378eceb/2025nyeon-gidaedoeneun-k-deurama-sinjag-top-5-gdj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
