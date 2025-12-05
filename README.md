@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [24 Zsh Plugins🔌 Every Developer &amp; DevOps Engineer 🖥 Should Use in 2025](https://dev.to/chandrashekhar/24-zsh-plugins-every-developer-devops-engineer-should-use-in-2025-383k)
+- [My Cousin Became a Pilot – Here’s What I Learned About Commercial Pilot Training in India](https://dev.to/raj_kumar_bad38660705bdd4/my-cousin-became-a-pilot-heres-what-i-learned-about-commercial-pilot-training-in-india-65m)
+- [My Takeaways from Swami’s re:Invent 2025 Keynote — The Era of Agentic AI Is Here](https://dev.to/aditmodi/my-takeaways-from-swamis-reinvent-2025-keynote-the-era-of-agentic-ai-is-here-4ol)
 - [IA dans DevSecOps](https://dev.to/arij_belaid/ia-dans-devsecops-3ph5)
-- [[AWS] Power up Kiro with Kiro powers](https://dev.to/aws-builders/aws-power-up-kiro-with-kiro-powers-5620)
-- [My Takeaways from Werner Vogels’ Final AWS re:Invent Keynote](https://dev.to/aditmodi/my-takeaways-from-werner-vogels-final-aws-reinvent-keynote-3oe8)
-- [Connecting the Web - Links, Images, Media and the Power of Attributes in HTML](https://dev.to/theosnyman-dev/connecting-the-web-links-images-media-and-the-power-of-attributes-in-html-4gec)
-- [Mantine BorderAnimate: Light up your UI with elegant, high‑performance animated borders](https://dev.to/undolog/mantine-borderanimate-light-up-your-ui-with-elegant-high-performance-animated-borders-4902)
+- [I Tried Building a Lo-Fi Channel from Scratch — What AI Audio Tools Got Right &lpar;and Wrong&rpar;](https://dev.to/nano_a01924c85131687207c2/i-tried-building-a-lo-fi-channel-from-scratch-what-ai-audio-tools-got-right-and-wrong-4f97)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
