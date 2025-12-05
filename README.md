@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Message Trace in Microsoft 365](https://dev.to/itcs11/message-trace-in-microsoft-365-kdl)
+- [8 Study Problems You Can Eliminate Entirely With Agent-Based AI Tools](https://dev.to/briandavies/8-study-problems-you-can-eliminate-entirely-with-agent-based-ai-tools-2kof)
+- [Understanding *args and **kwargs in Python, Explained in Plain English](https://dev.to/brentwash35/understanding-args-and-kwargs-in-python-explained-in-plain-english-1cel)
 - [Guide - Audio Modding of &quot;Arena of Valor&quot;](https://dev.to/khang5687/guide-audio-modding-of-arena-of-valor-3c2f)
 - [🔔 Notifycli: A Lightweight Go CLI for Firebase Push Notifications](https://dev.to/john_afariogun_e2351c78af/notifycli-a-lightweight-go-cli-for-firebase-push-notifications-74b)
-- [Simple Real-time in Laravel without WebSockets &lpar;Long Polling&rpar;](https://dev.to/levskiy/simple-real-time-in-laravel-without-websockets-long-polling-86f)
-- [Day 55: Python Calculate Mean &amp; Median Manually – No Statistics Module, Just Pure Python Power](https://dev.to/shahrouzlogs/day-55-python-calculate-mean-median-manually-no-statistics-module-just-pure-python-power-364h)
-- [The Block Structure of Podlite](https://dev.to/zag/the-block-structure-of-podlite-513m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
