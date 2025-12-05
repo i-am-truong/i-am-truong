@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Reduced My React Native 0.81 APK Size by 50% &lpar;Without Breaking Anything&rpar;](https://dev.to/ajmal_hasan/how-i-reduced-my-react-native-081-apk-size-by-50-without-breaking-anything-e2a)
 - [Introducing SheetDB](https://dev.to/shunya_ek/introducing-sheetdb-2jme)
 - [AWS re:Invent 2025 - Build resilient SaaS: multi-account resilience testing patterns &lpar;ISV404&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-build-resilient-saas-multi-account-resilience-testing-patterns-isv404-22lj)
 - [AWS re:Invent 2025 - BYOK: The Key to Meeting Enterprise SaaS Security Demands &lpar;ISV405&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-byok-the-key-to-meeting-enterprise-saas-security-demands-isv405-ao5)
 - [👻 Building a Haunted Portfolio with Kiro: A Kiroween 2025 Journey](https://dev.to/ark2044/building-a-haunted-portfolio-with-kiro-a-kiroween-2025-journey-4j0k)
-- [Reimagining Thai Lagoon - Website Redesign](https://dev.to/paaaarv/reimagining-thai-lagoon-website-redesign-2m5g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
