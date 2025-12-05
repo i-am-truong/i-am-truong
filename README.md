@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Tire Pressure Sensor Fault: Little Prince’s Guide 🌟 Fix Silent Wheel Whispers](https://dev.to/ersajay/tire-pressure-sensor-fault-little-princes-guide-fix-silent-wheel-whispers-n34)
+- [Anthropic’s 2026 IPO Path: Structure, Governance, and Valuation](https://dev.to/nalyne_lima_977268c938caf/anthropics-2026-ipo-path-structure-governance-and-valuation-2en6)
 - [Intro Blog: “A New Beginning - Learning, Teaching, and Building as Caspian Grey”](https://dev.to/caspiangrey/intro-blog-a-new-beginning-learning-teaching-and-building-as-caspian-grey-1nnl)
-- [Market Trends and Consumer Behavior Using Excel to Drive Smarter Business Decisions](https://dev.to/tamaraebi_thomasakpi_745/market-trends-and-consumer-behavior-using-excel-to-drive-smarter-business-decisions-4a62)
-- [The Importance of Django Middleware](https://dev.to/devasservice/the-importance-of-django-middleware-4fhb)
-- [The Best Agentic AI Framework Options for Building Multi Agent Systems in 2025](https://dev.to/yeahiasarker/the-best-agentic-ai-framework-options-for-building-multi-agent-systems-in-2025-3l9l)
-- [L’IA Générative dans le DevSecOps](https://dev.to/hanin_hajyoussef_b706ee86/lia-generative-dans-le-devsecops-e7o)
+- [AWS re:Invent 2025 - From principles to practice: Scaling AI responsibly with Indeed &lpar;AIM3323&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-from-principles-to-practice-scaling-ai-responsibly-with-indeed-aim3323-6pf)
+- [How Architectural Engineering Boosts ROI in Commercial Construction Projects?](https://dev.to/reetielubana/how-architectural-engineering-boosts-roi-in-commercial-construction-projects-2lfh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
