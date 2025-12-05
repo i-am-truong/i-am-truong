@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [core.async: Deep Dive — Online Meetup](https://dev.to/vladislav_chikishev_b47ef/coreasync-deep-dive-online-meetup-1kmm)
-- [Compare PDFs Online for Free with Diff Guru - Fast, Secure &amp; Accurate](https://dev.to/diffguru/compare-pdfs-online-for-free-with-diff-guru-fast-secure-accurate-3m9g)
-- [How I Built a Multi-Platform AI Bot with Langflow&#39;s Drag-and-Drop Workflows](https://dev.to/rockchinq/how-i-built-a-multi-platform-ai-bot-with-langflows-drag-and-drop-workflows-4287)
-- [The Modem&#39;s Revenge](https://dev.to/jacky_ma_9a26ad7b3e2013f9/the-modems-revenge-114g)
-- [My First Steps in JavaScript: A Simple Breakdown](https://dev.to/harini_magesh_fa40041cf8d/my-first-steps-in-javascript-a-simple-breakdown-1gmp)
+- [dremioframe &amp; iceberg: Pythonic interfaces for Dremio and Apache Iceberg](https://dev.to/alexmercedcoder/dremioframe-iceberg-pythonic-interfaces-for-dremio-and-apache-iceberg-33i8)
+- [🚀 Node.js Best Practices](https://dev.to/itagyba/nodejs-best-practices-cursor-rules-1pa5)
+- [Introducing OpenTransit: A Free, Open-Source Fork of MassTransit v8](https://dev.to/nakib/introducing-opentransit-a-free-open-source-fork-of-masstransit-v8-2eb3)
+- [Become a GDG on Campus Organizer: Your Complete Selection Journey](https://dev.to/gdg-geu/become-a-gdg-on-campus-organizer-your-complete-selection-journey-4plj)
+- [Passkeys and WebAuthn: The Future of Passwordless Authentication](https://dev.to/iamdevbox/passkeys-and-webauthn-the-future-of-passwordless-authentication-4adi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
