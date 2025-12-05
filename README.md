@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Built Professor Doom - A Spooky Resume Roaster Using Kiro](https://dev.to/shuvodip99/how-i-built-professor-doom-a-spooky-resume-roaster-using-kiro-1li)
-- [AWS re:Invent 2025 - Ericsson Innovation: Optimizing Mobile Networks &amp; Unified Development with AWS](https://dev.to/kazuya_dev/aws-reinvent-2025-ericsson-innovation-optimizing-mobile-networks-unified-development-with-aws-23nb)
-- [How to Implement LLM Grounding using Retrieval Augmented Generation Technique&lpar;RAG&rpar;](https://dev.to/eyitayoitalt/how-to-implement-llm-grounding-using-retrieval-augmented-generation-techniquerag-1m2p)
-- [Start with a Gravel Road: Why MVPs Beat 12‑Lane Highways](https://dev.to/wraith/start-with-a-gravel-road-why-mvps-beat-12-lane-highways-2mdk)
-- [Python for Beginners and Intermediate Developers — A Complete Guide](https://dev.to/farhadrahimiklie/python-for-beginners-and-intermediate-developers-a-complete-guide-e66)
+- [WinUI 3: Bloquear doble clic en el Title Bar](https://dev.to/williamprogramer/winui-3-bloquear-doble-click-en-el-title-bar-82d)
+- [Burning the Midnight Oil to Bring Back VR from the 90s](https://dev.to/hellocaleb/burning-the-midnight-oil-to-bring-back-vr-from-the-90s-5496)
+- [The $40K Code Review Tax: Why Manual Reviews Are Bleeding Your Engineering Budget](https://dev.to/sociilabs/the-40k-code-review-tax-why-manual-reviews-are-bleeding-your-engineering-budget-3485)
+- [Comparative Analysis of Test Management Tools: Real Integration with CI/CD Pipelines](https://dev.to/royservillanueva2004/comparative-analysis-of-test-management-tools-real-integration-with-cicd-pipelines-1n41)
+- [AWS re:Invent 2025 - Peak Performance: IoT Innovation in Professional Sports &lpar;SPF301&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-peak-performance-iot-innovation-in-professional-sports-spf301-m73)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
