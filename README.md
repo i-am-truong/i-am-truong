@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Transformando WordPress en una Herramienta Sostenible: Plugins y Configuraciones Eco-Amigables](https://dev.to/lontafara/transformando-wordpress-en-una-herramienta-sostenible-plugins-y-configuraciones-eco-amigables-25je)
-- [Efecto copos de nieve para dar a nuestra web un toque navideño](https://dev.to/drodero/efecto-copos-de-nieve-para-dar-a-nuestra-web-un-toque-navideno-3j01)
-- [Master Server-Sent Events &lpar;SSE&rpar; in Symfony 7.4](https://dev.to/mattleads/master-server-sent-events-sse-in-symfony-74-15co)
-- [How AWS Kiro Was Used to Build DreamWeen](https://dev.to/jeanmarc_bah_474aa3fc1b6/how-aws-kiro-was-used-to-build-dreamween-2nmh)
-- [AWS re:Invent 2025 - Using Amazon Nova Act to simplify login workflows &lpar;AIM271&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-using-amazon-nova-act-to-simplify-login-workflows-aim271-59i)
+- [From Theory to Practice: Demystifying the Key-Value Cache in Modern LLMs](https://dev.to/aairom/from-theory-to-practice-demystifying-the-key-value-cache-in-modern-llms-32p6)
+- [Yes, Windows 11 on Raspberry Pi ! - Try This Simple Step by Step Guide to Install](https://dev.to/david_thomas/yes-windows-11-on-raspberry-pi-try-this-simple-step-by-step-guide-to-install-3a2k)
+- [Getting a NO from an open source maintainer](https://dev.to/sean_k_3986f74eac06354e59/getting-a-no-from-an-open-source-maintainer-5b5j)
+- [AWS re:Invent 2025 - New Era of Platform Engineering – Agentic AI-Powered Self-Service &lpar;AIM359&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-new-era-of-platform-engineering-agentic-ai-powered-self-service-aim359-hii)
+- [Confessions of a Market Maker Bot: How Liquidity Really Gets Built Behind the Scenes](https://dev.to/tanelith/confessions-of-a-market-maker-bot-how-liquidity-really-gets-built-behind-the-scenes-m1o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
