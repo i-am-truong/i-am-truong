@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [We Built a Tool That Resurrects Dead UIs in 30 Seconds](https://dev.to/cookiefinder/we-built-a-tool-that-resurrects-dead-uis-in-30-seconds-1aj1)
-- [Hands-on with Gemma 3 on Google Cloud](https://dev.to/googleai/hands-on-with-gemma-3-on-google-cloud-6e7)
-- [Google Play Termination: Bad Faith, UCL Violations &amp; Potential Antitrust Issues](https://dev.to/raen_benny/google-play-termination-bad-faith-ucl-violations-potential-antitrust-issues-3165)
-- [MemGuard: Rethinking Secure Storage in Flutter with Zero-Leak Architecture](https://dev.to/cas8398/memguard-rethinking-secure-storage-in-flutter-with-zero-leak-architecture-144m)
-- [Behaviour Coding: BDD + Kiro for the Disruptive Economy](https://dev.to/stefano_294db3a96780f2b0e/behaviour-coding-bdd-ai-for-the-disruptive-economy-2hj1)
+- [I Built an AI Startup Radar: 1100+ YC Companies on One Screen &lpar;2025 Trends Included&rpar;](https://dev.to/vastargazing/i-built-an-ai-startup-radar-52b4)
+- [Turbocharge Your Optimization: Preconditioning for the Win](https://dev.to/arvind_sundararajan/turbocharge-your-optimization-preconditioning-for-the-win-1bm0)
+- [Building SpecSync: How I Extended Kiro with Custom MCP Tools](https://dev.to/chrysostomos_koumides_bf8/building-specsync-how-i-extended-kiro-with-custom-mcp-tools-2ilg)
+- [⚙️ Membangun Protokol Smart Home: Integrasi API IoT dan Desain Interior](https://dev.to/ideinterior25/membangun-protokol-smart-home-integrasi-api-iot-dan-desain-interior-176l)
+- [Combine #2: Emisores &amp; Suscriptores](https://dev.to/david_goyes_a488f58a17a53/combine-2-emisores-suscriptores-3ad6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
