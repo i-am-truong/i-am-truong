@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Stunning Travel Agency Landing Page with Uno Platform — My WOW Factor Challenge Submission 🤩](https://dev.to/hadil/building-a-stunning-travel-agency-landing-page-with-uno-platform-my-wow-factor-challenge-4gio)
-- [Lightweight big data processing technology](https://dev.to/esproc_spl/lightweight-big-data-processing-technology-hhl)
-- [From Fresher to Cloud Architect: How to Start Your AWS Cloud Journey](https://dev.to/aws-builders/from-fresher-to-cloud-architect-how-to-start-your-aws-cloud-journey-1l3i)
-- [Five Days, Endless Possibilities: here is the five day summary and a capstone project](https://dev.to/wanga_peterotienopa106/five-days-endless-possibilities-here-is-the-five-day-summary-and-a-capstone-project-52ia)
-- [Increasing Technical Onboarding Velocity for Your Engineering Team](https://dev.to/joojodontoh/increasing-technical-onboarding-velocity-for-your-engineering-team-1lmo)
+- [How FSSC 22000 Documents Reduce Non-Conformities](https://dev.to/joy1/how-fssc-22000-documents-reduce-non-conformities-2o0f)
+- [Custom Apps for Help Centers: When to Build vs Buy](https://dev.to/freepixel11/custom-apps-for-help-centers-when-to-build-vs-buy-ho6)
+- [Orchestrating AI Agents to create Memes](https://dev.to/mdmathewdc/orchestrating-ai-agents-to-create-memes-j38)
+- [AWS re:Invent 2025 - Troubleshooting database performance issues at scale &lpar;COP331&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-troubleshooting-database-performance-issues-at-scale-cop331-3kf9)
+- [标书智能体（一）——AI解析招标文件代码+提示词](https://dev.to/_6ded95517867c5e157562/biao-shu-zhi-neng-ti-aijie-xi-zhao-biao-wen-jian-dai-ma-ti-shi-ci-1baj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
