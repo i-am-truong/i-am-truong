@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How FSSC 22000 Documents Reduce Non-Conformities](https://dev.to/joy1/how-fssc-22000-documents-reduce-non-conformities-2o0f)
-- [Custom Apps for Help Centers: When to Build vs Buy](https://dev.to/freepixel11/custom-apps-for-help-centers-when-to-build-vs-buy-ho6)
-- [Orchestrating AI Agents to create Memes](https://dev.to/mdmathewdc/orchestrating-ai-agents-to-create-memes-j38)
-- [AWS re:Invent 2025 - Troubleshooting database performance issues at scale &lpar;COP331&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-troubleshooting-database-performance-issues-at-scale-cop331-3kf9)
-- [标书智能体（一）——AI解析招标文件代码+提示词](https://dev.to/_6ded95517867c5e157562/biao-shu-zhi-neng-ti-aijie-xi-zhao-biao-wen-jian-dai-ma-ti-shi-ci-1baj)
+- [How We Used DBtune to Cut Our Postgres Query Time by 50% on AWS RDS](https://dev.to/floriansuchan/how-we-used-dbtune-to-cut-our-postgres-query-time-by-50-on-aws-rds-2a5e)
+- [Don&#39;t Break Your WiFi: How to Simulate 503 Errors in a Single Browser Tab](https://dev.to/aragossa/dont-break-your-wifi-how-to-simulate-503-errors-in-a-single-browser-tab-5fm5)
+- [The Modern Agent Builder’s Toolkit: Best Frameworks for Agentic AI](https://dev.to/yeahiasarker/the-modern-agent-builders-toolkit-best-frameworks-for-agentic-ai-3n57)
+- [From Curiosity to Crisis-Tech: Building NexusResponse, an Agentic AI System for Disaster Coordination](https://dev.to/trushna_wanarkar_0e81c73c/from-curiosity-to-crisis-tech-building-nexusresponse-an-agentic-ai-system-for-disaster-18a2)
+- [What Drives StoneZen Capital Consortium’s New AI Shift?](https://dev.to/stonezenca/what-drives-stonezen-capital-consortiums-new-ai-shift-1k4f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
