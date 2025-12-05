@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Theory to Practice: Demystifying the Key-Value Cache in Modern LLMs](https://dev.to/aairom/from-theory-to-practice-demystifying-the-key-value-cache-in-modern-llms-32p6)
-- [Yes, Windows 11 on Raspberry Pi ! - Try This Simple Step by Step Guide to Install](https://dev.to/david_thomas/yes-windows-11-on-raspberry-pi-try-this-simple-step-by-step-guide-to-install-3a2k)
-- [Getting a NO from an open source maintainer](https://dev.to/sean_k_3986f74eac06354e59/getting-a-no-from-an-open-source-maintainer-5b5j)
-- [AWS re:Invent 2025 - New Era of Platform Engineering – Agentic AI-Powered Self-Service &lpar;AIM359&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-new-era-of-platform-engineering-agentic-ai-powered-self-service-aim359-hii)
-- [Confessions of a Market Maker Bot: How Liquidity Really Gets Built Behind the Scenes](https://dev.to/tanelith/confessions-of-a-market-maker-bot-how-liquidity-really-gets-built-behind-the-scenes-m1o)
+- [Dev Bounties: Get Paid $500+ to Try Openfort &lpar;LATAM &amp; Africa/Asia&rpar;](https://dev.to/estelleatthenook/dev-bounties-get-paid-500-to-try-openfort-latam-africaasia-1lii)
+- [AWS re:Invent 2025-How to build an AI Engine to generate near real time insights for videos at scale](https://dev.to/kazuya_dev/aws-reinvent-2025-how-to-build-an-ai-engine-to-generate-near-real-time-insights-for-videos-at-scale-1kmf)
+- [Why Choosing the Right Game Development Partner is Crucial for Your Game’s Success](https://dev.to/red_apple_technologies/why-choosing-the-right-game-development-partner-is-crucial-for-your-games-success-1ekd)
+- [AWS re:Invent 2025 - Automatic Enterprise ML with Amazon SageMaker and Nextworld &lpar;SMB201&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-automatic-enterprise-ml-with-amazon-sagemaker-and-nextworld-smb201-2nen)
+- [Uncover Social Footprints with Open Source OSINT Tool](https://dev.to/stelixx-insider/uncover-social-footprints-with-open-source-osint-tool-4egi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
