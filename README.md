@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AWS re:Invent 2025 - Developer Experience Economics: Moving Past Productivity Metrics &lpar;DVT207&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-developer-experience-economics-moving-past-productivity-metrics-dvt207-327i)
+- [AWS re:Invent 2025 - Epic journey: Navigating the AI-powered SDLC from backlog to production&lpar;DVT208&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-epic-journey-navigating-the-ai-powered-sdlc-from-backlog-to-productiondvt208-1129)
 - [AI Agents Intensive Course](https://dev.to/prakhar_shukla_ab132cd2a6/ai-agents-intensive-course-3gbp)
 - [Giving AI a Memory: How I Built Consciousness Continuity for Claude Code](https://dev.to/rodrigo_luglio_f63c6051de/giving-ai-a-memory-how-i-built-consciousness-continuity-for-claude-code-5h33)
 - [A dive into npx: What happens when you run npx?](https://dev.to/rijultp/a-dive-into-npx-what-happens-when-you-run-npx-4od6)
-- [Revisiting the old classic Winamp and made it as a cross-platform app using Uno Platform](https://dev.to/archiecoderdev/revisiting-the-old-classic-winamp-and-made-it-as-a-cross-platform-app-using-uno-platform-4amg)
-- [2025년 기대되는 K-드라마 신작 TOP 5](https://dev.to/_c9af00d5bb7c26378eceb/2025nyeon-gidaedoeneun-k-deurama-sinjag-top-5-gdj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
