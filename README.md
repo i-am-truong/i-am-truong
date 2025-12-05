@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Sliding Window Problem That Taught Me How to Think](https://dev.to/saxenaaman628/the-sliding-window-problem-that-taught-me-how-to-think-44lm)
-- [Why Custom JavaScript Errors Create Messy Stack Traces and How Error.captureStackTrace Fixes Them](https://dev.to/silentwatcher_95/why-custom-javascript-errors-create-messy-stack-traces-and-how-errorcapturestacktrace-fixes-them-3ahb)
-- [n8n: Credential - Microsoft Drive OAuth2 API](https://dev.to/codebangkok/n8n-credential-microsoft-drive-oauth2-api-1h1e)
-- [AWS re:Invent 2025 - Intelligent security: Protection at scale from development to production-INV214](https://dev.to/kazuya_dev/aws-reinvent-2025-intelligent-security-protection-at-scale-from-development-to-production-inv214-3da)
-- [We Spent 6 Months Breaking LinkedIn&#39;s Anti-Bot System &lpar;So You Don&#39;t Have To&rpar;](https://dev.to/romclerix/we-spent-6-months-breaking-linkedins-anti-bot-system-so-you-dont-have-to-4f63)
+- [We Built a Tool That Resurrects Dead UIs in 30 Seconds](https://dev.to/cookiefinder/we-built-a-tool-that-resurrects-dead-uis-in-30-seconds-1aj1)
+- [Hands-on with Gemma 3 on Google Cloud](https://dev.to/googleai/hands-on-with-gemma-3-on-google-cloud-6e7)
+- [Google Play Termination: Bad Faith, UCL Violations &amp; Potential Antitrust Issues](https://dev.to/raen_benny/google-play-termination-bad-faith-ucl-violations-potential-antitrust-issues-3165)
+- [MemGuard: Rethinking Secure Storage in Flutter with Zero-Leak Architecture](https://dev.to/cas8398/memguard-rethinking-secure-storage-in-flutter-with-zero-leak-architecture-144m)
+- [Behaviour Coding: BDD + Kiro for the Disruptive Economy](https://dev.to/stefano_294db3a96780f2b0e/behaviour-coding-bdd-ai-for-the-disruptive-economy-2hj1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
