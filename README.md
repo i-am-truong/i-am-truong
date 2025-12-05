@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Dev Bounties: Get Paid $500+ to Try Openfort &lpar;LATAM &amp; Africa/Asia&rpar;](https://dev.to/estelleatthenook/dev-bounties-get-paid-500-to-try-openfort-latam-africaasia-1lii)
-- [AWS re:Invent 2025-How to build an AI Engine to generate near real time insights for videos at scale](https://dev.to/kazuya_dev/aws-reinvent-2025-how-to-build-an-ai-engine-to-generate-near-real-time-insights-for-videos-at-scale-1kmf)
-- [Why Choosing the Right Game Development Partner is Crucial for Your Game’s Success](https://dev.to/red_apple_technologies/why-choosing-the-right-game-development-partner-is-crucial-for-your-games-success-1ekd)
-- [AWS re:Invent 2025 - Automatic Enterprise ML with Amazon SageMaker and Nextworld &lpar;SMB201&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-automatic-enterprise-ml-with-amazon-sagemaker-and-nextworld-smb201-2nen)
-- [Uncover Social Footprints with Open Source OSINT Tool](https://dev.to/stelixx-insider/uncover-social-footprints-with-open-source-osint-tool-4egi)
+- [My First Steps in JavaScript: A Simple Breakdown](https://dev.to/harini_magesh_fa40041cf8d/my-first-steps-in-javascript-a-simple-breakdown-1gmp)
+- [Best Python Projects for 2026 &lpar;Beginner Advanced&rpar;](https://dev.to/keerthana_pulipati_696356/best-python-projects-for-2026-beginner-advanced-257l)
+- [The generative AI revolution promises productivity gains, but is it making us smarter or simply outsourcing our thinking?](https://dev.to/ejb503/the-generative-ai-revolution-promises-productivity-gains-but-is-it-making-us-smarter-or-simply-52nk)
+- [Building My First Project with Kiro: A Student&#39;s Experience](https://dev.to/kingisback01/building-my-first-project-with-kiro-a-students-experience-4oe8)
+- [I Resurrected Microsoft&#39;s Most Hated Mascot - Here&#39;s What Happened](https://dev.to/kevin_soto_2d5c72bb78c86d/i-resurrected-microsofts-most-hated-mascot-heres-what-happened-46nb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
