@@ -120,11 +120,13 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Super Bowl Tech Startup in 48 Hours: How a Non-Technical Latina Founder Hired 2 AI Co-Founders &lpar;Kiro &amp; Gemini&rpar;](https://dev.to/marilynalvarado/building-a-super-bowl-tech-startup-in-48-hours-how-a-non-technical-latina-founder-hired-2-ai-5e8m)
-- [LocalTunnel Server Setup Documentation](https://dev.to/durrello/localtunnel-server-setup-documentation-370k)
-- [Apple App Store Keyword Rules: The Hidden Rule of Precise User Touch](https://dev.to/asorankn/apple-app-store-keyword-rules-the-hidden-rule-of-precise-user-touch-14d8)
-- [AWS and Google Cloud officially announced a jointly engineered multicloud](https://dev.to/basel5001/aws-and-google-cloud-officially-announced-a-jointly-engineered-multicloud-167)
-- [Built a tool to fix the &#39;minimum brightness is still too bright&#39; problem on Hyprland](https://dev.to/mrdrbrdr/built-a-tool-to-fix-the-minimum-brightness-is-still-too-bright-problem-on-hyprland-1p1h)
+- [My Journey Through the AI Agents Intensive, Building an AI Personal Safety &amp; Emergency Assistant](https://dev.to/mukul_tiwari_3007f9267d54/my-journey-through-the-ai-agents-intensive-building-an-ai-personal-safety-emergency-assistant-5gfh)
+- [Most AI tools don’t need subscribers. They need users who pay for value when value is delivered.
+
+If your AI tool is not making money then you should review your business model.](https://dev.to/jaideepparashar/most-ai-tools-dont-need-subscribers-they-need-users-who-pay-for-value-when-value-is-delivered-5blc)
+- [Best Practices for Hardening Enterprise Linux Servers and Enhancing Cloud Security](https://dev.to/balaramakrishna_althi_3fc/best-practices-for-hardening-enterprise-linux-servers-and-enhancing-cloud-security-8lh)
+- [AI Remedy Maker: Why Personalized Natural Medicine Needs Algorithms &lpar;Not Guesswork&rpar;](https://dev.to/amit_gupta/ai-remedy-maker-why-personalized-natural-medicine-needs-algorithms-not-guesswork-edn)
+- [How a Cache Invalidation Bug Nearly Took Down Our System - And What We Changed After](https://dev.to/jayesh_shinde/how-a-cache-invalidation-bug-nearly-took-down-our-system-and-what-we-changed-after-2dd2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
