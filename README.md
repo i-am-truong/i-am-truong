@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Context Engineering Is Replacing Prompt Hacks](https://dev.to/aiwithapex/why-context-engineering-is-replacing-prompt-hacks-fm4)
-- [🧱 Lecture 9B : Product Management &lpar;Angular&rpar;](https://dev.to/farrukh_rehman/lecture-9b-product-management-angular-2e2g)
-- [Vibe Coding Kills, Opus Dials, and Git Goes Cinema](https://dev.to/urbanisierung/vibe-coding-kills-opus-dials-and-git-goes-cinema-18a)
-- [Dec 5, 2025 | The Tongyi Weekly: Your weekly dose of cutting-edge AI from Tongyi Lab](https://dev.to/alibaba_tongyi_lab_25ad9f/dec-5-2025-the-tongyi-weekly-your-weekly-dose-of-cutting-edge-ai-from-tongyi-lab-3ja7)
-- [New Winamp interface made 100% with AI and Uno Platform tools](https://dev.to/archiecoderdev/new-winamp-interface-made-100-with-ai-and-uno-platform-tools-5c53)
+- [Building a Stunning Travel Agency Landing Page with Uno Platform — My WOW Factor Challenge Submission 🤩](https://dev.to/hadil/building-a-stunning-travel-agency-landing-page-with-uno-platform-my-wow-factor-challenge-4gio)
+- [Lightweight big data processing technology](https://dev.to/esproc_spl/lightweight-big-data-processing-technology-hhl)
+- [From Fresher to Cloud Architect: How to Start Your AWS Cloud Journey](https://dev.to/aws-builders/from-fresher-to-cloud-architect-how-to-start-your-aws-cloud-journey-1l3i)
+- [Five Days, Endless Possibilities: here is the five day summary and a capstone project](https://dev.to/wanga_peterotienopa106/five-days-endless-possibilities-here-is-the-five-day-summary-and-a-capstone-project-52ia)
+- [Increasing Technical Onboarding Velocity for Your Engineering Team](https://dev.to/joojodontoh/increasing-technical-onboarding-velocity-for-your-engineering-team-1lmo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
