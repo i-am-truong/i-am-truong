@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 Free WebP to PNG Converters in 2025 &lpar;Fast &amp; No Quality Loss&rpar;](https://dev.to/omar_maraoui_8e651c7e4141/top-5-free-webp-to-png-converters-in-2025-fast-no-quality-loss-2blb)
-- [AWS re:Invent 2025 - Enabling government to streamline &amp; ensure healthcare coverage with data-WPS208](https://dev.to/kazuya_dev/aws-reinvent-2025-enabling-government-to-streamline-ensure-healthcare-coverage-with-data-wps208-51b5)
-- [How I Reduced My React Native 0.81 APK Size by 50% &lpar;Without Breaking Anything&rpar;](https://dev.to/ajmal_hasan/how-i-reduced-my-react-native-081-apk-size-by-50-without-breaking-anything-e2a)
-- [It started with a simple question: &quot;What if I could bring back Teletext?&quot;](https://dev.to/ayomi_ayo/it-started-with-a-simple-question-what-if-i-could-bring-back-teletext-25gm)
-- [AWS re:Invent 2025 - Accelerate mission outcomes w/ recent AWS government regions innovations-WPS204](https://dev.to/kazuya_dev/aws-reinvent-2025-accelerate-mission-outcomes-w-recent-aws-government-regions-innovations-wps204-59l7)
+- [Security news weekly round-up - 5th December 2025](https://dev.to/ziizium/security-news-weekly-round-up-5th-december-2025-3ii)
+- [AWS re:Invent 2025 - Accelerate product development lifecycle with a product digital twin &lpar;IND371&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-accelerate-product-development-lifecycle-with-a-product-digital-twin-ind371-4ca2)
+- [DIY GitHub Issue Bot — Just Your LLM API Key](https://dev.to/fl4tlin3/diy-github-issue-bot-just-your-llm-api-key-3plf)
+- [How to build a ChatGPT App &lpar;MCP Apps&rpar;](https://dev.to/abewheeler/how-to-build-a-chatgpt-app-mcp-apps-27c)
+- [From Chaos to Code: ALPHALABS](https://dev.to/harshit_aggarwal_2e641193/from-chaos-to-code-alphalabs-103e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
