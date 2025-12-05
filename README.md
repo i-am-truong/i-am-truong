@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Behind the Screens: The Quiet Work That Shapes the Code](https://dev.to/mzghosty/behind-the-screens-the-quiet-work-that-shapes-the-code-jpm)
-- [AWS re:Invent 2025 - What&#39;s new with AWS Lambda &lpar;CNS376&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-whats-new-with-aws-lambda-cns376-3ojp)
-- [Building EduCollab: How Kiro’s Multi-Feature Approach Revolutionized My Development Workflow](https://dev.to/priyadarshini_r_9f9488a19/building-educollab-how-kiros-multi-feature-approach-revolutionized-my-development-workflow-35dp)
-- [How I Built a 3D Product Configurator using Alpine.js &amp; Three.js &lpar;No React required!&rpar;](https://dev.to/espfra95/how-i-built-a-3d-product-configurator-using-alpinejs-threejs-no-react-required-ah6)
-- [🧟‍♂️ Stitching the Spirit: Engineering a &quot;Frankenstein&quot; AI Agent with Kiro &amp; MCP](https://dev.to/vaishnavi_mishra_9a68c0b2/stitching-the-spirit-engineering-a-frankenstein-ai-agent-with-kiro-mcp-4okb)
+- [FastAPI Performance: The Hidden Thread Pool Overhead You Might Be Missing](https://dev.to/bkhalifeh/fastapi-performance-the-hidden-thread-pool-overhead-you-might-be-missing-2ok6)
+- [🧟 I Gamified my Task Manager into a Zombie Shooter to Save my RAM &lpar;Built with Kiro&rpar;](https://dev.to/saicharan_lokineni_531e89/i-gamified-my-task-manager-into-a-zombie-shooter-to-save-my-ram-built-with-kiro-4kjb)
+- [Hidden Gems in TypeScript - Short Hands, Aliases, and Underutilized Built-ins That Save You Time](https://dev.to/akashjeedigunta/hidden-gems-in-typescript-short-hands-aliases-and-underutilized-built-ins-that-save-you-time-4jmg)
+- [Building RecallMe: An On-Device AI Companion for Dementia Care Using Flutter &amp; Kiro](https://dev.to/gaurav_pandey_a16499e79dc/building-recallme-an-on-device-ai-companion-for-dementia-care-using-flutter-kiro-1kj3)
+- [How I Built an AI-Powered Website Modernizer in 3 Days with Kiro](https://dev.to/manikant92/how-i-built-an-ai-powered-website-modernizer-in-3-days-with-kiro-1e3h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
