@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AWS re:Invent 2025 - 4x faster workload modernization with agentic AI &lpar;MAM349&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-4x-faster-workload-modernization-with-agentic-ai-mam349-1373)
-- [The Graveyard of forgotten tech by kiroween](https://dev.to/manya_gautamrajput_4c19d/the-graveyard-of-forgotten-tech-by-kiroween-52i6)
-- [F1 Wow Dashboard - on Uno](https://dev.to/stegriff/f1-wow-dashboard-on-uno-4090)
-- [📊 AWS S3 + AWS Glue + Athena + Grafana — End-to-End Analytics Project](https://dev.to/abhishek_korde_31/aws-s3-aws-glue-athena-grafana-end-to-end-analytics-project-58cc)
-- [Building a Production-Grade GEO SDK with Kiro: From Spec to Deployment in 2 Weeks](https://dev.to/cryptomanrahul/building-a-production-grade-geo-sdk-with-kiro-from-spec-to-deployment-in-2-weeks-3me6)
+- [AWS re:Invent 2025 - Build resilient SaaS: multi-account resilience testing patterns &lpar;ISV404&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-build-resilient-saas-multi-account-resilience-testing-patterns-isv404-22lj)
+- [AWS re:Invent 2025 - BYOK: The Key to Meeting Enterprise SaaS Security Demands &lpar;ISV405&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-byok-the-key-to-meeting-enterprise-saas-security-demands-isv405-ao5)
+- [👻 Building a Haunted Portfolio with Kiro: A Kiroween 2025 Journey](https://dev.to/ark2044/building-a-haunted-portfolio-with-kiro-a-kiroween-2025-journey-4j0k)
+- [Reimagining Thai Lagoon - Website Redesign](https://dev.to/paaaarv/reimagining-thai-lagoon-website-redesign-2m5g)
+- [Haunt Write using Kiro Ide](https://dev.to/md_kaif_d9b1b87ea04052757/haunt-write-using-kiro-ide-l4l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
