@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AWS re:Invent 2025 - Formula 1 Extends Fandom with AI, Data, and AWS Media Services &lpar;IND3326&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-formula-1-extends-fandom-with-ai-data-and-aws-media-services-ind3326-3m43)
-- [Artisan System DSL v3.0.0 – La Voluntad Sólida LLMs symbolic](https://dev.to/dennysjmarquez/artisan-system-dsl-v300-la-voluntad-solida-llms-symbolic-12d1)
-- [saas IA news](https://dev.to/wadie_realme_733c52996966/saas-ia-news-2lel)
-- [AWS re:Invent 2025 - Fine-tuning models for accuracy and latency at Robinhood Markets &lpar;IND392&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-fine-tuning-models-for-accuracy-and-latency-at-robinhood-markets-ind392-1d6c)
-- [We used #Kiro to build Poof! An app to transform messy phone photos of your belongings into a museum-quality visual inventory, making it effortless to decide what to keep, sell, or donate. Using latest image gen &lpar;FLUX.2&rpar;, semantic search tech!](https://dev.to/ohong/we-used-kiro-to-build-poof-an-app-to-transform-messy-phone-photos-of-your-belongings-into-a-2nde)
+- [Cómo crear un Blog de Alto Rendimiento con Astro y Hygraph](https://dev.to/joaquin_sez_6de09e190ca1/como-crear-un-blog-de-alto-rendimiento-con-astro-y-hygraph-1d8d)
+- [SmartStudy: The Cross-Platform Rule-Based AI Coach for Students &lpar;Built with Uno Platform&rpar;](https://dev.to/emirsphere/smartstudy-the-cross-platform-rule-based-ai-coach-for-students-built-with-uno-platform-7pn)
+- [AWS re:Invent 2025 - Build resilient and low-latency hybrid telecom infrastructure at scale &lpar;HMC328&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-build-resilient-and-low-latency-hybrid-telecom-infrastructure-at-scale-hmc328-36pc)
+- [Fitness Copilot - 🎃 Kiroween 2025](https://dev.to/jgorostegui/fitness-copilot-kiroween-2025-4ggb)
+- [AWS re:Invent 2025 - Another Axiom: Migrating the backend for hit game Gorilla Tag to AWS &lpar;IND396&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-another-axiom-migrating-the-backend-for-hit-game-gorilla-tag-to-aws-ind396-lb1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
