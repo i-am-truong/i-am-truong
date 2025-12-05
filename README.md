@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Known Knowns &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/known-knowns-bite-size-article-33pp)
+- [GoGPU: A Pure Go Graphics Library for GPU Programming](https://dev.to/kolkov/gogpu-a-pure-go-graphics-library-for-gpu-programming-2j5d)
+- [What IS i3rbly?](https://dev.to/darealone/i3rbly-building-an-arabic-first-ai-layer-for-search-nlp-and-zero-loss-text-understanding-29i0)
 - [FastAPI Performance: The Hidden Thread Pool Overhead You Might Be Missing](https://dev.to/bkhalifeh/fastapi-performance-the-hidden-thread-pool-overhead-you-might-be-missing-2ok6)
 - [🧟 I Gamified my Task Manager into a Zombie Shooter to Save my RAM &lpar;Built with Kiro&rpar;](https://dev.to/saicharan_lokineni_531e89/i-gamified-my-task-manager-into-a-zombie-shooter-to-save-my-ram-built-with-kiro-4kjb)
-- [Hidden Gems in TypeScript - Short Hands, Aliases, and Underutilized Built-ins That Save You Time](https://dev.to/akashjeedigunta/hidden-gems-in-typescript-short-hands-aliases-and-underutilized-built-ins-that-save-you-time-4jmg)
-- [Building RecallMe: An On-Device AI Companion for Dementia Care Using Flutter &amp; Kiro](https://dev.to/gaurav_pandey_a16499e79dc/building-recallme-an-on-device-ai-companion-for-dementia-care-using-flutter-kiro-1kj3)
-- [How I Built an AI-Powered Website Modernizer in 3 Days with Kiro](https://dev.to/manikant92/how-i-built-an-ai-powered-website-modernizer-in-3-days-with-kiro-1e3h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
