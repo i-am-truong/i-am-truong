@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [5 Game-Changing Chrome DevTools Updates You Need to Try in 2025](https://dev.to/henrylim96/5-game-changing-chrome-devtools-updates-you-need-to-try-in-2025-2mal)
-- [How I Built Game Assessment Prep in 3 Weeks by Focusing on a Tiny Niche &lpar;and Vibecoding the Rest&rpar;](https://dev.to/luca151/how-i-built-game-assessment-prep-in-3-weeks-by-focusing-on-a-tiny-niche-and-vibecoding-the-rest-4bmg)
-- [AWS re:Invent 2025 - Ripple: Building an intelligent, multi-agent system for 24/7 operations-IND3301](https://dev.to/kazuya_dev/aws-reinvent-2025-ripple-building-an-intelligent-multi-agent-system-for-247-operations-ind3301-2cmg)
-- [[2025 Guide] 30 Remarketing Ad Examples: The Strategy That Converts](https://dev.to/getkoro_app/2025-guide-30-remarketing-ad-examples-the-strategy-that-converts-cbh)
-- [Configure CrewAI with Groq: Alternative LLM Setup Guide](https://dev.to/fanioz/configure-crewai-with-groq-alternative-llm-setup-guide-4gc9)
+- [AWS re:Invent 2025 - Formula 1 Extends Fandom with AI, Data, and AWS Media Services &lpar;IND3326&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-formula-1-extends-fandom-with-ai-data-and-aws-media-services-ind3326-3m43)
+- [Artisan System DSL v3.0.0 – La Voluntad Sólida LLMs symbolic](https://dev.to/dennysjmarquez/artisan-system-dsl-v300-la-voluntad-solida-llms-symbolic-12d1)
+- [saas IA news](https://dev.to/wadie_realme_733c52996966/saas-ia-news-2lel)
+- [AWS re:Invent 2025 - Fine-tuning models for accuracy and latency at Robinhood Markets &lpar;IND392&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-fine-tuning-models-for-accuracy-and-latency-at-robinhood-markets-ind392-1d6c)
+- [We used #Kiro to build Poof! An app to transform messy phone photos of your belongings into a museum-quality visual inventory, making it effortless to decide what to keep, sell, or donate. Using latest image gen &lpar;FLUX.2&rpar;, semantic search tech!](https://dev.to/ohong/we-used-kiro-to-build-poof-an-app-to-transform-messy-phone-photos-of-your-belongings-into-a-2nde)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
