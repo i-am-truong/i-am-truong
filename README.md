@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 My Learning Journey in the Google AI Agents Intensive — Building a Multi-Agent Concierge System](https://dev.to/rajesh_kumarsingh_803a87/my-learning-journey-in-the-google-ai-agents-intensive-building-a-multi-agent-concierge-system-48gj)
-- [How Negative SEO Farms Like TraderKnows Exploit Google&#39;s Algorithm](https://dev.to/qingshieldcenter/how-negative-seo-farms-like-traderknows-exploit-googles-algorithm-35f7)
-- [Standardizing Express.js Error Handling with One Library](https://dev.to/diana05/standardizing-expressjs-error-handling-with-one-library-1ohn)
-- [Promptless Content Workflow Using Zywrap + NodeJS](https://dev.to/zywrap/promptless-content-workflow-using-zywrap-nodejs-78k)
-- [How to Build a Module Bundler: Complete Guide to 8 Core Techniques with Code Examples](https://dev.to/nithinbharathwaj/how-to-build-a-module-bundler-complete-guide-to-8-core-techniques-with-code-examples-3d9l)
+- [Using Excel Dashboards for Real-Time Business Performance Monitoring](https://dev.to/chimdi_ndudim_/using-excel-dashboards-for-real-time-business-performance-monitoring-27la)
+- [AWS re:Invent 2025 - Intelligent Outage Management Using Automated Reasoning and AI &lpar;AIM275&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-intelligent-outage-management-using-automated-reasoning-and-ai-aim275-2ia4)
+- [Storage and warehousing](https://dev.to/safwan_42b77737d3ff722c3e/storage-and-warehousing-3f2)
+- [First-Party Data Strategies That Actually Work When Cookies Finally Die](https://dev.to/synergistdigitalmedia/first-party-data-strategies-that-actually-work-when-cookies-finally-die-5ch1)
+- [Building an OCR-Powered Mobile App with Google Gemini + Lovable AI](https://dev.to/vidya_kokkada/building-an-ocr-powered-mobile-app-with-google-gemini-lovable-ai-15a8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
