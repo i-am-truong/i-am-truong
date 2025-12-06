@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AWS re:Invent 2025 - Maximize Productivity with the Amazon Q Developer CLI Agent &lpar;DVT223&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-maximize-productivity-with-the-amazon-q-developer-cli-agent-dvt223-4pf8)
-- [AWS re:Invent 2025 - From Documents to Decisions: Unleashing AI-Powered Business Automation &lpar;SMB204&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-from-documents-to-decisions-unleashing-ai-powered-business-automation-smb204-2b25)
-- [I built an open source Rust engine that just hit Trending — here&#39;s why agents can&#39;t live without fresh data](https://dev.to/badmonster0/i-built-an-open-source-rust-engine-that-just-hit-trending-heres-why-agents-cant-live-without-45hl)
-- [Demystifying loss.backward&lpar;&rpar;: How PyTorch Autograd Actually Works](https://dev.to/jiminlee/demystifying-lossbackward-how-pytorch-autograd-actually-works-42g8)
-- [Java&#39;s multiplyExact&lpar;&rpar; Method: A No-Nonsense Guide to Safe Integer Multiplication](https://dev.to/satyam_gupta_0d1ff2152dcc/javas-multiplyexact-method-a-no-nonsense-guide-to-safe-integer-multiplication-16jg)
+- [I Made Claude and Gemini Write Tetris for a 1982 Computer.](https://dev.to/dexmac221/i-made-claude-and-gemini-write-tetris-for-a-1982-computer-54nk)
+- [Security Alert: How to Check for the &quot;Shai-Hulud&quot; Compromise](https://dev.to/0xkoji/security-alert-how-to-check-for-the-shai-hulud-compromise-51ln)
+- [Parallel Table-Driven Tests in Go](https://dev.to/rosgluk/parallel-table-driven-tests-in-go-59ia)
+- [What Are the Common Types of Stock Photo Licenses?](https://dev.to/cheedow/what-are-the-common-types-of-stock-photo-licenses-2gkc)
+- [I got tired of setting up the same .NET architecture every project for 31 times, so I built a clean starter template kit](https://dev.to/safwan_rusli_c07e0e21d057/i-got-tired-of-setting-up-the-same-net-architecture-every-project-for-31-times-so-i-built-a-clean-2c3j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
