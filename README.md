@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🟩How to Route DB Connections to Multiple Database Servers Using HAProxy Port Forwarding](https://dev.to/latchudevops/how-to-route-db-connections-to-multiple-database-servers-using-haproxy-port-forwarding-1332)
+- [From Performance Engineering to Agentic Intelligence — My Journey Through the AI Agents Intensive](https://dev.to/ajin_sudhir_243c86142add9/from-performance-engineering-to-agentic-intelligence-my-journey-through-the-ai-agents-intensive-1fn2)
+- [AWS re:Invent 2025 - Powering your Agentic AI experience with AWS Streaming and Messaging &lpar;ANT310&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-powering-your-agentic-ai-experience-with-aws-streaming-and-messaging-ant310-3e3p)
 - [可选链操作符 ?.、逻辑空赋值运算符 ??=、performance、void 操作符](https://dev.to/nikimunger/ke-xuan-lian-cao-zuo-fu-luo-ji-kong-fu-zhi-yun-suan-fu-performance-void-cao-zuo-fu-3a87)
-- [My DEV.TO Blogs List](https://dev.to/thebitforge/my-devto-blogs-list-12aa)
-- [🤷🏻‍♀️ Freelance Devs Drop Your Realest Truth Here](https://dev.to/vidakhoshpey22/freelance-devs-drop-your-realest-truth-here-2ak9)
-- [Day 6 — The Audit](https://dev.to/aerabi/day-6-the-audit-2ak2)
-- [AWS re:Invent 2025 - Reinvent your career: From developer to cloud leader &lpar;DEV101&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-reinvent-your-career-from-developer-to-cloud-leader-dev101-4ff3)
+- [AWS re:Invent 2025 - Autonomous agents powered by streaming data and Retrieval Augmented Generation](https://dev.to/kazuya_dev/aws-reinvent-2025-autonomous-agents-powered-by-streaming-data-and-retrieval-augmented-generation-2154)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
