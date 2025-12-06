@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Portfolio - Interactive Bento Grid Experience 🎨✨](https://dev.to/varshithvhegde/portfolio-interactive-bento-grid-experience-4nfc)
+- [Complete Guide to Kubernetes Flavors, Their Categories &amp; How to Install Minikube on Linux &lpar;with Docker Driver&rpar;](https://dev.to/isaiah_izibili_7a39b7d627/complete-guide-to-kubernetes-flavors-their-categories-how-to-install-minikube-on-linux-with-4cfj)
+- [AWS re:Invent 2025 - Modernizing Legacy Systems: Boeing&#39;s PLM Cloud Transformation &lpar;IND321&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-modernizing-legacy-systems-boeings-plm-cloud-transformation-ind321-5bde)
 - [Testing Automatio’s New AI Features on Voting Polls](https://dev.to/plavookac/testing-automatios-new-ai-features-on-voting-polls-1926)
 - [The AWS re:Invent 2025 Cheat Sheet: 5 Things You Actually Need to Know](https://dev.to/inboryn_99399f96579fcd705/the-aws-reinvent-2025-cheat-sheet-5-things-you-actually-need-to-know-jbd)
-- [Zero-Click Content Strategy: Building Authority When Google Keeps Your Traffic](https://dev.to/synergistdigitalmedia/zero-click-content-strategy-building-authority-when-google-keeps-your-traffic-nn0)
-- [AWS re:Invent 2025 - LSEG&#39;s migration &amp; modernization journey: blueprint for cloud success &lpar;MAM206&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-lsegs-migration-modernization-journey-blueprint-for-cloud-success-mam206-ipm)
-- [AWS re:Invent 2025 - Pioneering Agentic AI Transformation: CSL VMware &amp; SAP modernization &lpar;MAM346&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-pioneering-agentic-ai-transformation-csl-vmware-sap-modernization-mam346-3n3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
