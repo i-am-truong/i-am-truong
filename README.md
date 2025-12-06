@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Daily AI Report - December 06, 2025](https://dev.to/dan_ledger_ce2886f0037972/daily-ai-report-december-06-2025-3403)
-- [[Boost]](https://dev.to/gustavojofelix/-3dll)
-- [From Tutorials to a Real Banking Platform: Inside Alvor Bank &lpar;.NET 10 + Angular 21 Nx Monorepo&rpar;](https://dev.to/gustavojofelix/from-tutorials-to-a-real-banking-platform-inside-alvor-bank-net-10-angular-21-nx-monorepo-1j8j)
-- [Why I Built an AI Visibility Tool That Doubts Its Own Outputs](https://dev.to/surmado/why-i-built-an-ai-visibility-tool-that-doubts-its-own-outputs-61k)
-- [Network Engineering Remote Jobs 2025: Best Companies &amp; Salary Guide](https://dev.to/biswadeep_dutta_e8eba1c95/network-engineering-remote-jobs-2025-best-companies-salary-guide-ec1)
+- [Most websites are basically offers:](https://dev.to/suign/most-websites-are-basically-offers-3c8o)
+- [How do you transverse into a &quot;Code only&quot; developer to an &quot;All round&quot; founder](https://dev.to/layoolar/how-do-you-transverse-into-a-code-only-developer-to-an-all-round-founder-130p)
+- [From Corporate to Freelance: 5 Passive Income Streams That Actually Work](https://dev.to/biswadeep_dutta_e8eba1c95/from-corporate-to-freelance-5-passive-income-streams-that-actually-work-37hg)
+- [My First Blog Post - A Journey in Programming for Scientists and Engineers](https://dev.to/robjohnston/my-first-blog-post-a-journey-in-programming-for-scientists-and-engineers-228h)
+- [Building EigenAI: Teaching Math Foundations of AI Through Interactive Code](https://dev.to/lfariaus/building-eigenai-teaching-math-foundations-of-ai-through-interactive-code-3ni5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
