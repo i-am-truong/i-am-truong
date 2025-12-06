@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AWS re:Invent 2025 - Code completion to agents: The evolution of development &lpar;DVT405&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-code-completion-to-agents-the-evolution-of-development-dvt405-m2b)
-- [Why Central Banks Should Participate and Not Compete in Tokenized Markets.](https://dev.to/victory_adugbo_28d7c59ec0/why-central-banks-should-participate-and-not-compete-in-tokenized-markets-17hn)
-- [AWS re:Invent 2025 - Accelerate development with Kiro&#39;s new agentic AI capabilities &lpar;DVT228&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-accelerate-development-with-kiros-new-agentic-ai-capabilities-dvt228-3069)
-- [WordPress Headless con Next.js o Astro: El futuro del desarrollo web](https://dev.to/joaquin_sez_6de09e190ca1/wordpress-headless-con-nextjs-o-astro-el-futuro-del-desarrollo-web-5ak9)
-- [Join Trinity Protocol: Build the Future of Multi-Chain Security](https://dev.to/chronosvault/join-trinity-protocol-build-the-future-of-multi-chain-security-1pe4)
+- [ESLint for Markdown: Standardizing Documentation Consistency](https://dev.to/stelixx-insider/eslint-for-markdown-standardizing-documentation-consistency-2p1h)
+- [AWS re:Invent 2025 - Using generative AI to accelerate database modernization with AWS DMS &lpar;DAT420&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-using-generative-ai-to-accelerate-database-modernization-with-aws-dms-dat420-34he)
+- [AWS re:Invent 2025 - Multi-Region strong consistency with Amazon DynamoDB global tables &lpar;DAT440&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-multi-region-strong-consistency-with-amazon-dynamodb-global-tables-dat440-2j1c)
+- [CSS Loader Generator — Make Loaders That Don’t Suck 🔄✨](https://dev.to/akashbijwe/css-loader-generator-make-loaders-that-dont-suck-250m)
+- [Card Validator — Because Bad Card Numbers Are a Pain 💳⚠️](https://dev.to/akashbijwe/card-validator-because-bad-card-numbers-are-a-pain-3a9p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
