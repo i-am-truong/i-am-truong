@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Daily AI Report - December 06, 2025](https://dev.to/dan_ledger_ce2886f0037972/daily-ai-report-december-06-2025-3403)
 - [[Boost]](https://dev.to/gustavojofelix/-3dll)
-- [Aqua-Tech Cities: How AI Will Build Climate-Proof Ocean Worlds](https://dev.to/dawoodtech/aqua-tech-cities-how-ai-will-build-climate-proof-ocean-worlds-3ij6)
-- [Automating Ubuntu VM Creation with libvirt &lpar;KVM/QEMU&rpar; and Cloud-Init](https://dev.to/tjuliu/automating-ubuntu-vm-creation-with-libvirt-kvmqemu-and-cloud-init-2inf)
-- [Why Switching Companies Every 2–3 Years Can Supercharge Your Career](https://dev.to/svdisv/why-switching-companies-every-2-3-years-can-supercharge-your-career-385o)
-- [DevPill #2: How to build and push a docker image to google cloud Artifact Registry](https://dev.to/raulsilva/devpill-2-how-to-build-and-send-a-docker-image-to-google-cloud-container-registry-1mbe)
+- [From Tutorials to a Real Banking Platform: Inside Alvor Bank &lpar;.NET 10 + Angular 21 Nx Monorepo&rpar;](https://dev.to/gustavojofelix/from-tutorials-to-a-real-banking-platform-inside-alvor-bank-net-10-angular-21-nx-monorepo-1j8j)
+- [Why I Built an AI Visibility Tool That Doubts Its Own Outputs](https://dev.to/surmado/why-i-built-an-ai-visibility-tool-that-doubts-its-own-outputs-61k)
+- [Network Engineering Remote Jobs 2025: Best Companies &amp; Salary Guide](https://dev.to/biswadeep_dutta_e8eba1c95/network-engineering-remote-jobs-2025-best-companies-salary-guide-ec1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
