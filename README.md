@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Automating Business Reports with Excel for Increased Efficiency](https://dev.to/efe_freedom25/automating-business-reports-with-excel-for-increased-efficiency-m67)
-- [Order Tracking](https://dev.to/preetha_vaishnavi_2b82358/order-tracking-2lp4)
-- [Daily Tech News Roundup - 2025-12-06](https://dev.to/atharvshinde2004/daily-tech-news-roundup-2025-12-06-51g3)
-- [The Smallest Tools Often Make the Biggest Impact](https://dev.to/knowadvance_c5092984a5b66/the-smallest-tools-often-make-the-biggest-impact-40hd)
-- [AWS re:Invent 2025 - Keynote with CEO Matt Garman](https://dev.to/kazuya_dev/aws-reinvent-2025-keynote-with-ceo-matt-garman-1pni)
+- [AWS re:Invent 2025 - Accelerate Developer Productivity with Amazon&#39;s Generative AI Approach &lpar;AMZ309&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-accelerate-developer-productivity-with-amazons-generative-ai-approach-amz309-2jei)
+- [AWS re:Invent 2025 - Building and managing conversational AI at scale: lessons from Alexa+ &lpar;AMZ305&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-building-and-managing-conversational-ai-at-scale-lessons-from-alexa-amz305-5l3)
+- [AWS re:Invent 2025 - What Anthropic Learned Building AI Agents in 2025 &lpar;AIM277&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-what-anthropic-learned-building-ai-agents-in-2025-aim277-16lc)
+- [How Responsive Design Impacts SEO and Lead Generation](https://dev.to/flowebdesign/how-responsive-design-impacts-seo-and-lead-generation-2fh3)
+- [Crack the Code with Intelligent K: Uncover Pattern Secrets in Your Data](https://dev.to/mabualzait/crack-the-code-with-intelligent-k-uncover-pattern-secrets-in-your-data-4ofm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
