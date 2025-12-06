@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [n8n: Microsoft Teams - Create Channel Message](https://dev.to/codebangkok/n8n-microsoft-teams-create-channel-message-57c5)
-- [888Starz Bet Official Website – Sports &amp; Casino Login](https://dev.to/gambplays/888starz-bet-official-website-sports-casino-login-2i60)
-- [Decoding Kafka Part 2](https://dev.to/jsnomad/decoding-kafka-part-2-38ij)
-- [Building Streaming Iceberg Tables for Real-Time Logistics Analytics](https://dev.to/aws-builders/building-streaming-iceberg-tables-for-real-time-logistics-analytics-kke)
-- [888Starz Official Site – Fast Access &amp; Registration 2025](https://dev.to/gambplays/888starz-official-site-fast-access-registration-2025-2bpm)
+- [How We Built an AI-Powered Invoice Generator for Small Contractors](https://dev.to/5_boilererrorcodes_f615/how-we-built-an-ai-powered-invoice-generator-for-small-contractors-54je)
+- [CloudFront +s3 Tutorial: How I Hosted my Portfolio Securely on AWS](https://dev.to/naomi_ansah_d792faf7a1276/cloudfront-s3-tutorial-how-i-hosted-my-portfolio-securely-on-aws-2lhi)
+- [From 2-Week Security Reviews to 0.7-Second AI Scans: My Journey Building CypherAI](https://dev.to/stealthwhizz/from-2-week-security-reviews-to-07-second-ai-scans-my-journey-building-cypherai-cf2)
+- [Converting RxJS Observables to Async/Await](https://dev.to/lucaspereiradesouzat/converting-rxjs-observables-to-asyncawait-1m0f)
+- [Conversão de filtros RxJS para Async/Await](https://dev.to/lucaspereiradesouzat/conversao-de-filtros-rxjs-para-asyncawait-46cg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
