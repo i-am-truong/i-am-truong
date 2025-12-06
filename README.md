@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Secret Life of Python: Metaclasses - Classes That Make Classes](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-metaclasses-classes-that-make-classes-3lag)
-- [AWS re:Invent 2025-AWS Generative AI Innovation Center driving enterprise success with AWS Partners](https://dev.to/kazuya_dev/aws-reinvent-2025-aws-generative-ai-innovation-center-driving-enterprise-success-with-aws-partners-259f)
-- [AWS re:Invent 2025 - Maximizing customer outcomes: AWS Partner Led Customer Success &lpar;PEX106&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-maximizing-customer-outcomes-aws-partner-led-customer-success-pex106-2jnk)
-- [AWS re:Invent 2025 - Unlocking GenAI potential with automated modernization to AWS &lpar;ANT313&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-unlocking-genai-potential-with-automated-modernization-to-aws-ant313-1gij)
-- [If You Want Serendipity and Transformation, Embrace &quot;Newest Literally&quot;](https://dev.to/stakiran/if-you-want-serendipity-and-transformation-embrace-newest-literally-10b1)
+- [AWS re:Invent 2025 - AWS Support: New Tiers Making Customer Operations Effortless &lpar;SPS325&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-aws-support-new-tiers-making-customer-operations-effortless-sps325-788)
+- [AWS re:Invent 2025 - Next-Generation Data Management — Insights at Scale with Agentic AI in Pharma](https://dev.to/kazuya_dev/aws-reinvent-2025-next-generation-data-management-insights-at-scale-with-agentic-ai-in-pharma-90d)
+- [AWS re:Invent 2025 - From Documents to Decisions: Unleashing AI-Powered Business Automation &lpar;SMB204&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-from-documents-to-decisions-unleashing-ai-powered-business-automation-smb204-54cg)
+- [AWS re:Invent 2025 - Move fast &amp; don&#39;t break things: Maintaining software excellence as you adopt AI](https://dev.to/kazuya_dev/aws-reinvent-2025-move-fast-dont-break-things-maintaining-software-excellence-as-you-adopt-ai-2jkc)
+- [Reflecting on Day 1A of Google&#39;s 5-Day AI Agents Intensive: From Prompt to Action](https://dev.to/nexoperose/reflecting-on-day-1a-of-googles-5-day-ai-agents-intensive-from-prompt-to-action-295e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
