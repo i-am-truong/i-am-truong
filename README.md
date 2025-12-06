@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/jvcaballero1976/-3nb)
-- [Understanding Linux File System: ls -ltr Decoded and Directory Structure Explained](https://dev.to/agentic-jj/understanding-linux-file-system-ls-ltr-decoded-and-directory-structure-explained-5a15)
-- [VulnFeed 2.0: Building a Zero-Server Vulnerability Dashboard &lpar;Level 2 Release&rpar;](https://dev.to/secbyshresth/vulnfeed-20-building-a-zero-server-vulnerability-dashboard-level-2-release-pfp)
-- [How to Create a SaaS Project: A Step-by-Step Guide](https://dev.to/rose7886/how-to-create-a-saas-project-a-step-by-step-guide-n5i)
-- [AI coding agents can run rm -rf / on your machine. Here&#39;s how to stop them](https://dev.to/krishna_newark/ai-coding-agents-can-run-rm-rf-on-your-machine-heres-how-to-stop-them-32m)
+- [Automating Ubuntu VM Creation with libvirt &lpar;KVM/QEMU&rpar; and Cloud-Init](https://dev.to/tjuliu/automating-ubuntu-vm-creation-with-libvirt-kvmqemu-and-cloud-init-2inf)
+- [LogGuard](https://dev.to/cas8398/logguard-29cb)
+- [Building SkyMoment: A 4K Personalized Star Map Generator with Python, Skyfield and Astronomical Data](https://dev.to/balyakin/building-skymoment-a-4k-personalized-star-map-generator-with-python-skyfield-and-astronomical-data-11h9)
+- [How Container Governance Shapes Enterprise Deployment Strategies](https://dev.to/kapusto/how-container-governance-shapes-enterprise-deployment-strategies-eg)
+- [En los próximos 1-2 años, es previsible que la Prevención de](https://dev.to/drcarlosruizviquez/en-los-proximos-1-2-anos-es-previsible-que-la-prevencion-de-4lec)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
