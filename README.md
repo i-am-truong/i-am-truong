@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [WARNING TO DEVELOPERS: A new wave of “technical test scams” is targeting devs](https://dev.to/andersoncontreira/warning-to-developers-a-new-wave-of-technical-test-scams-is-targeting-devs-4ifh)
 - [Desvendando o Vibe Code](https://dev.to/lucaspereiradesouzat/desvendando-o-vibe-code-1lla)
 - [Vibe Coding](https://dev.to/lucaspereiradesouzat/vibe-coding-1c1i)
 - [Zero Tech: 2-Month AI Case to Full-Stack SaaS](https://dev.to/leon_li_eac0efdd57ca194b4/zero-tech-2-month-ai-case-to-full-stack-saas-4kd8)
 - [2026 Marketing Budget Planning: Build Your Framework Before January Chaos Hits](https://dev.to/synergistdigitalmedia/2026-marketing-budget-planning-build-your-framework-before-january-chaos-hits-4gad)
-- [Deploying a React Vite App to Azure App Service Using Docker &amp; GitHub Actions &lpar;with OIDC&rpar; 🚀](https://dev.to/dimuthu7/deploying-a-react-vite-app-to-azure-app-service-using-docker-github-actions-with-oidc-2d90)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
