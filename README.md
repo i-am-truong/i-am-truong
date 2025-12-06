@@ -120,12 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Synchronous vs. Asynchronous JavaScript : A Real-World Explanation](https://dev.to/homayounmmdy/synchronous-vs-asynchronous-javascript-a-real-world-explanation-30g3)
-- [END-TO-END Deployment Of Django App on AWS EKS Cluster](https://dev.to/oncloud7/end-to-end-deployment-of-django-app-on-aws-eks-cluster-l6a)
-- [Discover Monetzly: Your Path to Effective AI Monetization Strategies](https://dev.to/monetzly/discover-monetzly-your-path-to-effective-ai-monetization-strategies-3d2n)
-- [I Built an AI News Agent with LangGraph &lpar;Open Source&rpar;
-GitHub: https://github.com/tejiri-code/pulse-ai](https://dev.to/edjere_evelynoghenetejir/i-built-an-ai-news-agent-with-langgraph-open-source-github-32cn)
-- [**Avoiding Hidden Biases in Transfer Learning: A Practical T](https://dev.to/drcarlosruizviquez/avoiding-hidden-biases-in-transfer-learning-a-practical-t-4b5m)
+- [👋 Hello Dev Community — I’m New Here!](https://dev.to/hkarimi/hello-dev-community-im-new-here-ln2)
+- [Writing a tiny PID 1 for containers in pure assembly &lpar;x86-64 + ARM64&rpar;](https://dev.to/bogdan_75c1dac33c215a1ba6/writing-a-tiny-pid-1-for-containers-in-pure-assembly-x86-64-arm64-2h2i)
+- [How Web Development and AI Are Transforming Local SEO for Businesses in 2025](https://dev.to/zclickagency/how-web-development-and-ai-are-transforming-local-seo-for-businesses-in-2025-3ddm)
+- [[2025 Guide] How to Create Your Own AI Avatar for E-com Ads](https://dev.to/getkoro_app/2025-guide-how-to-create-your-own-ai-avatar-for-e-com-ads-1k6b)
+- [**Challenging the Transparency Conundrum: An AI Ethics Dilem](https://dev.to/drcarlosruizviquez/challenging-the-transparency-conundrum-an-ai-ethics-dilem-5ahc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
