@@ -123,8 +123,8 @@ Python                   1 repo              █░░░░░░░░░░�
 - [Google&#39;s December 2024 Core Update Hit E-Commerce Hard: Here&#39;s What Actually Changed](https://dev.to/synergistdigitalmedia/googles-december-2024-core-update-hit-e-commerce-hard-heres-what-actually-changed-533b)
 - [Advent of Code 2025 - December 6th](https://dev.to/robvanderleek/advent-of-code-2025-december-6th-1d14)
 - [Terrace Shop A headless Shopify store built for modern football terrace culture.](https://dev.to/saidmounaim/terrace-shop-a-headless-shopify-store-built-for-modern-football-terrace-culture-1h74)
-- [🚀 Best Free &amp; Open Source Flutter Admin Dashboard Template for 2026](https://dev.to/teranes_ranjith_10/the-ultimate-open-source-flutter-toolkit-for-data-heavy-admin-dashboards-4h4o)
-- [How I built a Serverless, P2P Parental Control app using WebRTC and Kotlin](https://dev.to/francesco_costantino_5861/how-i-built-a-serverless-p2p-parental-control-app-using-webrtc-and-kotlin-fjj)
+- [Building Trustworthy AI Systems Through Modern Governance](https://dev.to/infocomply/building-trustworthy-ai-systems-through-modern-governance-4eo7)
+- [My Project 6: Swiss Living Cost Calculator PRO&lpar;with Python + Streamlit&rpar;](https://dev.to/ian_b838138a27a917398d181/my-project-6-swiss-living-cost-calculator-prowith-python-streamlit-301i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
