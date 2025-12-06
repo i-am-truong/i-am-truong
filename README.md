@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AWS re:Invent 2025 - AWS Trn3 UltraServers: Power next-generation enterprise AI performance&lpar;AIM3335&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-aws-trn3-ultraservers-power-next-generation-enterprise-ai-performanceaim3335-g41)
-- [Why Python Is Dominating Enterprise Technology in 2025](https://dev.to/ram_charan_49499fc84e29c3/why-python-is-dominating-enterprise-technology-in-2025-4a6f)
-- [Essential Nano &amp; Vim Commands for Total Beginners &lpar;Linux &amp; Server Editing&rpar;](https://dev.to/kevmongare/essential-nano-vim-commands-for-total-beginners-linux-server-editing-3ej7)
-- [AWS re:Invent 2025 - Improve agent quality in production with Bedrock AgentCore Evaluations&lpar;AIM3348&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-improve-agent-quality-in-production-with-bedrock-agentcore-evaluationsaim3348-19fl)
-- [Google Strengthens AI Coding Push — Partners with Replit for Enterprise “Vibe-Coding”](https://dev.to/logicverse_2025/google-strengthens-ai-coding-push-partners-with-replit-for-enterprise-vibe-coding-45f8)
+- [AWS re:Invent 2025 - Maximize Productivity with the Amazon Q Developer CLI Agent &lpar;DVT223&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-maximize-productivity-with-the-amazon-q-developer-cli-agent-dvt223-4pf8)
+- [AWS re:Invent 2025 - From Documents to Decisions: Unleashing AI-Powered Business Automation &lpar;SMB204&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-from-documents-to-decisions-unleashing-ai-powered-business-automation-smb204-2b25)
+- [I built an open source Rust engine that just hit Trending — here&#39;s why agents can&#39;t live without fresh data](https://dev.to/badmonster0/i-built-an-open-source-rust-engine-that-just-hit-trending-heres-why-agents-cant-live-without-45hl)
+- [Demystifying loss.backward&lpar;&rpar;: How PyTorch Autograd Actually Works](https://dev.to/jiminlee/demystifying-lossbackward-how-pytorch-autograd-actually-works-42g8)
+- [Java&#39;s multiplyExact&lpar;&rpar; Method: A No-Nonsense Guide to Safe Integer Multiplication](https://dev.to/satyam_gupta_0d1ff2152dcc/javas-multiplyexact-method-a-no-nonsense-guide-to-safe-integer-multiplication-16jg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
