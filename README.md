@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How You Can Become an AWS Community Builder in 2026](https://dev.to/aman-devops/how-you-can-become-an-aws-community-builder-in-2026-3dg7)
-- [Want a Cloud Desktop to access it from anywhere? Spin it up in 11 Steps from your pc/laptop.](https://dev.to/aungkonmalakar/want-a-cloud-desktop-to-access-it-from-anywhere-spin-it-up-in-11-steps-from-your-pclaptop-4jf1)
-- [Arreglar pinchazos cerca de mi en Quijorna](https://dev.to/isabella_brown_4cf0339814/arreglar-pinchazos-cerca-de-mi-en-quijorna-462l)
-- [Arreglar pinchazos cerca de mi en Brunete](https://dev.to/isabella_brown_4cf0339814/arreglar-pinchazos-cerca-de-mi-en-brunete-4l1h)
-- [AWS re:Invent 2025 - A leader&#39;s guide to accelerating large-scale migration &lpar;SNR301&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-a-leaders-guide-to-accelerating-large-scale-migration-snr301-557g)
+- [AWS re:Invent 2025 - AWS Trn3 UltraServers: Power next-generation enterprise AI performance&lpar;AIM3335&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-aws-trn3-ultraservers-power-next-generation-enterprise-ai-performanceaim3335-g41)
+- [Why Python Is Dominating Enterprise Technology in 2025](https://dev.to/ram_charan_49499fc84e29c3/why-python-is-dominating-enterprise-technology-in-2025-4a6f)
+- [Essential Nano &amp; Vim Commands for Total Beginners &lpar;Linux &amp; Server Editing&rpar;](https://dev.to/kevmongare/essential-nano-vim-commands-for-total-beginners-linux-server-editing-3ej7)
+- [AWS re:Invent 2025 - Improve agent quality in production with Bedrock AgentCore Evaluations&lpar;AIM3348&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-improve-agent-quality-in-production-with-bedrock-agentcore-evaluationsaim3348-19fl)
+- [Google Strengthens AI Coding Push — Partners with Replit for Enterprise “Vibe-Coding”](https://dev.to/logicverse_2025/google-strengthens-ai-coding-push-partners-with-replit-for-enterprise-vibe-coding-45f8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
