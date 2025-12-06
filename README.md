@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Portfolio - Interactive Bento Grid Experience 🎨✨](https://dev.to/varshithvhegde/portfolio-interactive-bento-grid-experience-4nfc)
-- [Complete Guide to Kubernetes Flavors, Their Categories &amp; How to Install Minikube on Linux &lpar;with Docker Driver&rpar;](https://dev.to/isaiah_izibili_7a39b7d627/complete-guide-to-kubernetes-flavors-their-categories-how-to-install-minikube-on-linux-with-4cfj)
-- [AWS re:Invent 2025 - Modernizing Legacy Systems: Boeing&#39;s PLM Cloud Transformation &lpar;IND321&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-modernizing-legacy-systems-boeings-plm-cloud-transformation-ind321-5bde)
-- [World of AI SAAS 2026](https://dev.to/johnrealme81/world-of-ai-saas-2026-2abl)
-- [Best AI Saas](https://dev.to/johnrealme81/best-ai-saas-g08)
+- [First Example Article](https://dev.to/achiranadeeshan/first-example-article-4i8f)
+- [Building a Cost-Effective Autonomous Threat Containment System on AWS](https://dev.to/lshw54/building-a-cost-effective-autonomous-threat-containment-system-on-aws-2mkk)
+- [AWS re:Invent 2025 - Streamlining Telecom Cybersecurity Operations with AWS Generative AI &lpar;IND206&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-streamlining-telecom-cybersecurity-operations-with-aws-generative-ai-ind206-3m4p)
+- [AWS re:Invent 2025 -From Print to AI: The Economist&#39;s Digital Evolution w/ AWS Architecture &lpar;IND399&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-from-print-to-ai-the-economists-digital-evolution-w-aws-architecture-ind399-13oh)
+- [Inventive WordPress Theme Review: How It Stacks Up in 2025](https://dev.to/sofi_morilla_c57a1e216ce6/inventive-wordpress-theme-review-how-it-stacks-up-in-2025-281i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
