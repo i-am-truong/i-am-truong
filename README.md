@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Channels in Kotlin Coroutines: A Complete Q&amp;A Guide for Android Apps](https://dev.to/kamaldeep_kakkar_8a1a740e/channels-in-kotlin-coroutines-a-complete-qa-guide-for-android-apps-4ppc)
-- [AWS re:Invent 2025 - Empowering communities - create fun events on AWS services &lpar;DEV344&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-empowering-communities-create-fun-events-on-aws-services-dev344-2kfj)
-- [AWS re:Invent 2025 - AI, Cloud &amp; Public Sector Transformation: PwC &amp; AWS Driving Change Now &lpar;AIM115&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-ai-cloud-public-sector-transformation-pwc-aws-driving-change-now-aim115-bjk)
-- [Test](https://dev.to/justin_harr_c20841edac0bb/test-292a)
-- [AI&#39;s insatiable energy demands, massive funding rounds, and evolving market dynamics dominate tech news.](https://dev.to/stelixx-insights/ais-insatiable-energy-demands-massive-funding-rounds-and-evolving-market-dynamics-dominate-tech-5d7o)
+- [888Starz Casino Philippines – Is It Available for PH Players?](https://dev.to/gambplays/888starz-casino-philippines-is-it-available-for-ph-players-2h2g)
+- [Monetzly: The Future of AI Monetization for LLM Apps](https://dev.to/monetzly/monetzly-the-future-of-ai-monetization-for-llm-apps-j52)
+- [Chapter 2: End-to-End Machine Learning Project](https://dev.to/arham_jawad_51b88b85913b5/chapter-2-end-to-end-machine-learning-project-1b8a)
+- [Is NeetCode Pro Worth It? A Complete 2025 Review &lpar;Pros, Cons, Alternatives&rpar;](https://dev.to/alex_hunter_44f4c9ed6671e/is-neetcode-pro-worth-it-a-complete-2025-review-pros-cons-alternatives-am7)
+- [How to Use Casino Bonus in 888Starz – Step-by-Step Guide 2025](https://dev.to/gambplays/how-to-use-casino-bonus-in-888starz-step-by-step-guide-2025-45p8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
