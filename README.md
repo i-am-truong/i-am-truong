@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🧠LLMs As Sensors](https://dev.to/marcosomma/llms-as-sensors-49if)
 - [The LLM Shield: How to Build Production-Grade NSFW Guardrails for AI Agents](https://dev.to/aayushgid/the-llm-shield-how-to-build-production-grade-nsfw-guardrails-for-ai-agents-48o6)
-- [How a Wedding Dress Turned Into a Python Project &lpar;And Why Love Compiles Perfectly&rpar;](https://dev.to/mo_moring_7ce2d024ecd887b/how-a-wedding-dress-turned-into-a-python-project-and-why-love-compiles-perfectly-572e)
-- [“ACCA Ethics and Professional Skills: Why They Matter and How to Learn Them”](https://dev.to/abdulrehman_49/acca-ethics-and-professional-skills-why-they-matter-and-how-to-learn-them-2adg)
-- [Gerlandier Areia](https://dev.to/gerlandier_gonalves_6d1c/gerlandier-areia-3bi9)
-- [Getting Started With NextJs and Shadcn on Cloudflare, with Hono and D1](https://dev.to/teaganga/getting-started-with-nextjs-and-shadcn-on-cloudflare-with-hono-and-d1-35dk)
+- [Tired of old, clunky GUI libraries? Try PyUIkit 1.0.0 🚀](https://dev.to/huzaifaatiq/tired-of-old-clunky-gui-libraries-try-pyuikit-100-h6j)
+- [Building a Unified API Response Architecture &lpar;ASP.NET Minimal API + Next.js&rpar;](https://dev.to/treelz/building-a-unified-api-response-architecture-aspnet-minimal-api-nextjs-38l7)
+- [Manual testing.](https://dev.to/resaba/manual-testing-fmm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
