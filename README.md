@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [It&#39;s a Study Date! Reflections on the AI Agents Intensive Course](https://dev.to/chloe_lian_10bb2f45443667/reflections-on-the-ai-agents-intensive-course-a-business-analysts-deep-appreciation-for-the-49eg)
-- [ESLint for Markdown: Standardizing Documentation Consistency](https://dev.to/stelixx-insider/eslint-for-markdown-standardizing-documentation-consistency-2p1h)
-- [AWS re:Invent 2025 - Using generative AI to accelerate database modernization with AWS DMS &lpar;DAT420&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-using-generative-ai-to-accelerate-database-modernization-with-aws-dms-dat420-34he)
-- [AWS re:Invent 2025 - Multi-Region strong consistency with Amazon DynamoDB global tables &lpar;DAT440&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-multi-region-strong-consistency-with-amazon-dynamodb-global-tables-dat440-2j1c)
-- [CSS Loader Generator — Make Loaders That Don’t Suck 🔄✨](https://dev.to/akashbijwe/css-loader-generator-make-loaders-that-dont-suck-250m)
+- [Ringer Movies: A Holiday Surprise for the Unboxing Boy](https://dev.to/popcorn_movies/ringer-movies-a-holiday-surprise-for-the-unboxing-boy-4gma)
+- [Google Antigravity AI Coding: Building My Portfolio Site from Scratch](https://dev.to/techwithsam/google-antigravity-ai-coding-building-my-portfolio-site-from-scratch-1m6l)
+- [🚀 Gemini 3 Is Changing the AI Landscape — And OpenAI Can Feel It](https://dev.to/ailon_tech_29dfe73d5236e2/gemini-3-is-changing-the-ai-landscape-and-openai-can-feel-it-3ma2)
+- [Tenbyte: Powering the Next Generation of Cloud Innovation](https://dev.to/tenbyte9b60325/tenbyte-powering-the-next-generation-of-cloud-innovation-1m2d)
+- [Deep Dive: &quot;Vibe coding&quot;](https://dev.to/amrithesh_dev/deep-dive-vibe-coding-459f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
