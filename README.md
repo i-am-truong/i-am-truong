@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Automating Business Reports with Excel for Increased Efficiency](https://dev.to/efe_freedom25/automating-business-reports-with-excel-for-increased-efficiency-m67)
-- [Switching account](https://dev.to/casperday11/switching-account-39af)
-- [Using Excel for Sales Forecasting and Revenue Projection in Organizations](https://dev.to/ore3/using-excel-for-sales-forecasting-and-revenue-projection-in-organizations-29h6)
-- [Applying Fortify Static Code Analyzer to a Node.js Application: A Practical Guide](https://dev.to/hashiravc/applying-fortify-static-code-analyzer-to-a-nodejs-application-a-practical-guide-2fen)
-- [AWS re:Invent 2025 - Slack Platform: Build with AI-Powered Development &lpar;AIM111&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-slack-platform-build-with-ai-powered-development-aim111-25md)
+- [Order Tracking](https://dev.to/preetha_vaishnavi_2b82358/order-tracking-2lp4)
+- [Daily Tech News Roundup - 2025-12-06](https://dev.to/atharvshinde2004/daily-tech-news-roundup-2025-12-06-51g3)
+- [The Smallest Tools Often Make the Biggest Impact](https://dev.to/knowadvance_c5092984a5b66/the-smallest-tools-often-make-the-biggest-impact-40hd)
+- [AWS re:Invent 2025 - Keynote with CEO Matt Garman](https://dev.to/kazuya_dev/aws-reinvent-2025-keynote-with-ceo-matt-garman-1pni)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
