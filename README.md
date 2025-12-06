@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Don’t Touch Terraform Before Avoiding These 5 Rookie Mistakes](https://dev.to/aws-builders/dont-touch-terraform-before-avoiding-these-5-rookie-mistakes-1pan)
-- [How to Deal with LeetCode Anxiety and Interview Stress: A Mental Health Guide](https://dev.to/alex_hunter_44f4c9ed6671e/how-to-deal-with-leetcode-anxiety-and-interview-stress-a-mental-health-guide-2fc2)
-- [888Starz Casino Mobile – Best Games on Phone &amp; Tablet](https://dev.to/gambplays/888starz-casino-mobile-best-games-on-phone-tablet-5455)
-- [🌿 Universal Companion Protocol &lpar;UCP&rpar; v1 BETA — Public Seed](https://dev.to/anarchyireland/universal-companion-protocol-ucp-v1-beta-public-seed-4ih3)
-- [QRify v1.3: The Privacy-First QR Code Generator Got Even Better! 🔐](https://dev.to/josunlp/qrify-v13-the-privacy-first-qr-code-generator-got-even-better-5e9j)
+- [n8n: Microsoft Teams - Create Channel Message](https://dev.to/codebangkok/n8n-microsoft-teams-create-channel-message-57c5)
+- [888Starz Bet Official Website – Sports &amp; Casino Login](https://dev.to/gambplays/888starz-bet-official-website-sports-casino-login-2i60)
+- [Decoding Kafka Part 2](https://dev.to/jsnomad/decoding-kafka-part-2-38ij)
+- [Building Streaming Iceberg Tables for Real-Time Logistics Analytics](https://dev.to/aws-builders/building-streaming-iceberg-tables-for-real-time-logistics-analytics-kke)
+- [888Starz Official Site – Fast Access &amp; Registration 2025](https://dev.to/gambplays/888starz-official-site-fast-access-registration-2025-2bpm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
