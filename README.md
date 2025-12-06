@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AWS re:Invent 2025 - A leader&#39;s guide to emerging technologies: From insights to rapid action-SNR203](https://dev.to/kazuya_dev/aws-reinvent-2025-a-leaders-guide-to-emerging-technologies-from-insights-to-rapid-action-snr203-12b1)
 - [AWS re:Invent 2025 - Accelerate Developer Productivity with Amazon&#39;s Generative AI Approach &lpar;AMZ309&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-accelerate-developer-productivity-with-amazons-generative-ai-approach-amz309-2jei)
 - [AWS re:Invent 2025 - Building and managing conversational AI at scale: lessons from Alexa+ &lpar;AMZ305&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-building-and-managing-conversational-ai-at-scale-lessons-from-alexa-amz305-5l3)
 - [AWS re:Invent 2025 - What Anthropic Learned Building AI Agents in 2025 &lpar;AIM277&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-what-anthropic-learned-building-ai-agents-in-2025-aim277-16lc)
 - [How Responsive Design Impacts SEO and Lead Generation](https://dev.to/flowebdesign/how-responsive-design-impacts-seo-and-lead-generation-2fh3)
-- [Crack the Code with Intelligent K: Uncover Pattern Secrets in Your Data](https://dev.to/mabualzait/crack-the-code-with-intelligent-k-uncover-pattern-secrets-in-your-data-4ofm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
