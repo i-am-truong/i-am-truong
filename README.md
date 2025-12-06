@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [¿Cómo documentar sistemas empresariales?](https://dev.to/matiasrojas_a/como-documentar-sistemas-empresariales-3mjj)
+- [I Got Tired of Messy Text in Directus, So I Built a Typograf Button](https://dev.to/antonko/i-got-tired-of-messy-text-in-directus-so-i-built-a-typograf-button-4c8g)
+- [How to Secure Your Python Project &lpar;A Practical Guide&rpar;](https://dev.to/jamey_whalen_f3cdc5d7c8d0/how-to-secure-your-python-project-a-practical-guide-1lfk)
 - [How to Build a Production-Ready Invoice Builder in .NET Using IronPDF](https://dev.to/antonmartyniuk/how-to-build-a-production-ready-invoice-builder-in-net-using-ironpdf-lbb)
 - [Daily AI Report - December 06, 2025](https://dev.to/dan_ledger_ce2886f0037972/daily-ai-report-december-06-2025-4dp4)
-- [🚀 Unlock Early Access to Digging Code&#39;s Latest Developer Features](https://dev.to/mmramadan496/unlock-early-access-to-digging-codes-latest-developer-features-28fe)
-- [How Developers Flatline Their Careers — And How to Avoid It](https://dev.to/chrismbah/how-developers-flatline-their-careers-and-how-to-avoid-it-6li)
-- [LSM-Trees, NVMe SSDs, and Modern Storage Realities](https://dev.to/lovestaco/lsm-trees-nvme-ssds-and-modern-storage-realities-5cgd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
