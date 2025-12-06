@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: A Holiday Surprise for the Unboxing Boy](https://dev.to/popcorn_movies/ringer-movies-a-holiday-surprise-for-the-unboxing-boy-4gma)
-- [Google Antigravity AI Coding: Building My Portfolio Site from Scratch](https://dev.to/techwithsam/google-antigravity-ai-coding-building-my-portfolio-site-from-scratch-1m6l)
-- [🚀 Gemini 3 Is Changing the AI Landscape — And OpenAI Can Feel It](https://dev.to/ailon_tech_29dfe73d5236e2/gemini-3-is-changing-the-ai-landscape-and-openai-can-feel-it-3ma2)
-- [Tenbyte: Powering the Next Generation of Cloud Innovation](https://dev.to/tenbyte9b60325/tenbyte-powering-the-next-generation-of-cloud-innovation-1m2d)
-- [Deep Dive: &quot;Vibe coding&quot;](https://dev.to/amrithesh_dev/deep-dive-vibe-coding-459f)
+- [I Fell in Love With Programming Long Before I Learned It](https://dev.to/plc-creates/i-fell-in-love-with-programming-long-before-i-learned-it-5aj5)
+- [Need 12 Testers to Publish My AI Conversational Assistant App “TalkFlow”](https://dev.to/kashiii125/need-12-testers-to-publish-my-ai-conversational-assistant-app-talkflow-cec)
+- [Day 6.Launch EC2 Instance](https://dev.to/thukhakyawe_cloud/day-6launch-ec2-instance-2b9j)
+- [Introducing MYRA stack - modern Java FFM based OSS libraries](https://dev.to/rohanray/introducing-myra-stack-modern-java-ffm-based-oss-libraries-394a)
+- [Passkeys and WebAuthn: Redefining Passwordless Authentication](https://dev.to/iamdevbox/passkeys-and-webauthn-redefining-passwordless-authentication-38d3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
