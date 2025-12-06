@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Practicing programming with sandbox projects](https://dev.to/janux_de/practicing-programming-with-sandbox-projects-3kj)
-- [🧠LLMs As Sensors](https://dev.to/marcosomma/llms-as-sensors-49if)
-- [What will be first .NET language to face End of Support?](https://dev.to/aspxone-official/what-will-be-first-net-language-to-face-end-of-support-44l2)
-- [The LLM Shield: How to Build Production-Grade NSFW Guardrails for AI Agents](https://dev.to/aayushgid/the-llm-shield-how-to-build-production-grade-nsfw-guardrails-for-ai-agents-48o6)
-- [AWS re:Invent 2025 - AWS detection and response innovations that drive security outcomes &lpar;SEC323&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-aws-detection-and-response-innovations-that-drive-security-outcomes-sec323-38a)
+- [Testing Automatio’s New AI Features on Voting Polls](https://dev.to/plavookac/testing-automatios-new-ai-features-on-voting-polls-1926)
+- [The AWS re:Invent 2025 Cheat Sheet: 5 Things You Actually Need to Know](https://dev.to/inboryn_99399f96579fcd705/the-aws-reinvent-2025-cheat-sheet-5-things-you-actually-need-to-know-jbd)
+- [Zero-Click Content Strategy: Building Authority When Google Keeps Your Traffic](https://dev.to/synergistdigitalmedia/zero-click-content-strategy-building-authority-when-google-keeps-your-traffic-nn0)
+- [AWS re:Invent 2025 - LSEG&#39;s migration &amp; modernization journey: blueprint for cloud success &lpar;MAM206&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-lsegs-migration-modernization-journey-blueprint-for-cloud-success-mam206-ipm)
+- [AWS re:Invent 2025 - Pioneering Agentic AI Transformation: CSL VMware &amp; SAP modernization &lpar;MAM346&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-pioneering-agentic-ai-transformation-csl-vmware-sap-modernization-mam346-3n3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
