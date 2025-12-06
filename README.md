@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Channels in Kotlin Coroutines: A Complete Q&amp;A Guide for Android Apps](https://dev.to/kamaldeep_kakkar_8a1a740e/channels-in-kotlin-coroutines-a-complete-qa-guide-for-android-apps-4ppc)
 - [Context-Aware Networking &amp; Runtimes: Agentic End-To-End](https://dev.to/thenjdevopsguy/context-aware-networking-runtimes-agentic-end-to-end-1cen)
 - [🚀 The Hidden DNS Misconfiguration That Was Killing Performance in Our EKS Cluster &lpar;and How We Fixed it&rpar;](https://dev.to/ahmedshendy/the-hidden-dns-misconfiguration-that-was-killing-performance-in-our-eks-cluster-and-how-we-fixed-2onm)
 - [I Fell in Love With Programming Long Before I Learned It](https://dev.to/plc-creates/i-fell-in-love-with-programming-long-before-i-learned-it-5aj5)
 - [Need 12 Testers to Publish My AI Conversational Assistant App “TalkFlow”](https://dev.to/kashiii125/need-12-testers-to-publish-my-ai-conversational-assistant-app-talkflow-cec)
-- [Day 6.Launch EC2 Instance](https://dev.to/thukhakyawe_cloud/day-6launch-ec2-instance-2b9j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
