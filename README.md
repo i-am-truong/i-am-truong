@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Context-Aware Networking &amp; Runtimes: Agentic End-To-End](https://dev.to/thenjdevopsguy/context-aware-networking-runtimes-agentic-end-to-end-1cen)
+- [🚀 The Hidden DNS Misconfiguration That Was Killing Performance in Our EKS Cluster &lpar;and How We Fixed it&rpar;](https://dev.to/ahmedshendy/the-hidden-dns-misconfiguration-that-was-killing-performance-in-our-eks-cluster-and-how-we-fixed-2onm)
 - [I Fell in Love With Programming Long Before I Learned It](https://dev.to/plc-creates/i-fell-in-love-with-programming-long-before-i-learned-it-5aj5)
 - [Need 12 Testers to Publish My AI Conversational Assistant App “TalkFlow”](https://dev.to/kashiii125/need-12-testers-to-publish-my-ai-conversational-assistant-app-talkflow-cec)
 - [Day 6.Launch EC2 Instance](https://dev.to/thukhakyawe_cloud/day-6launch-ec2-instance-2b9j)
-- [Introducing MYRA stack - modern Java FFM based OSS libraries](https://dev.to/rohanray/introducing-myra-stack-modern-java-ffm-based-oss-libraries-394a)
-- [Passkeys and WebAuthn: Redefining Passwordless Authentication](https://dev.to/iamdevbox/passkeys-and-webauthn-redefining-passwordless-authentication-38d3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
