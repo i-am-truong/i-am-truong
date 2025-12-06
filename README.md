@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How You Can Become an AWS Community Builder in 2026](https://dev.to/aman-devops/how-you-can-become-an-aws-community-builder-in-2026-3dg7)
+- [Want a Cloud Desktop to access it from anywhere? Spin it up in 11 Steps from your pc/laptop.](https://dev.to/aungkonmalakar/want-a-cloud-desktop-to-access-it-from-anywhere-spin-it-up-in-11-steps-from-your-pclaptop-4jf1)
 - [Arreglar pinchazos cerca de mi en Quijorna](https://dev.to/isabella_brown_4cf0339814/arreglar-pinchazos-cerca-de-mi-en-quijorna-462l)
 - [Arreglar pinchazos cerca de mi en Brunete](https://dev.to/isabella_brown_4cf0339814/arreglar-pinchazos-cerca-de-mi-en-brunete-4l1h)
 - [AWS re:Invent 2025 - A leader&#39;s guide to accelerating large-scale migration &lpar;SNR301&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-a-leaders-guide-to-accelerating-large-scale-migration-snr301-557g)
-- [From Distributed Ledgers to Autonomous Agents: How AI Agents Are Reshaping Smart Contract Intelligence](https://dev.to/jay_yadav_0cc1b8270e70447/from-distributed-ledgers-to-autonomous-agents-how-ai-agents-are-reshaping-smart-contract-54c4)
-- [Quantum Security&#39;s Blind Spot: When Eavesdroppers Fly Under the Radar by Arvind Sundararajan](https://dev.to/arvind_sundararajan/quantum-securitys-blind-spot-when-eavesdroppers-fly-under-the-radar-by-arvind-sundararajan-4em1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
