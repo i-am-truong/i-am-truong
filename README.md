@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Advent of Code 2025 - Day 6](https://dev.to/yordiverkroost/advent-of-code-2025-day-6-59ko)
-- [How to Design a Notification System: A Complete Guide](https://dev.to/madhur_banger/how-to-design-a-notification-system-a-complete-guide-4509)
-- [How We Built an AI-Powered Invoice Generator for Small Contractors](https://dev.to/5_boilererrorcodes_f615/how-we-built-an-ai-powered-invoice-generator-for-small-contractors-54je)
-- [CloudFront +s3 Tutorial: How I Hosted my Portfolio Securely on AWS](https://dev.to/naomi_ansah_d792faf7a1276/cloudfront-s3-tutorial-how-i-hosted-my-portfolio-securely-on-aws-2lhi)
-- [Docker Basics: Getting Started with Containers](https://dev.to/chandrapenugonda/docker-basics-day-1-getting-started-with-containers-4bf2)
+- [2026 Marketing Budget Planning: Build Your Framework Before January Chaos Hits](https://dev.to/synergistdigitalmedia/2026-marketing-budget-planning-build-your-framework-before-january-chaos-hits-4gad)
+- [Deploying a React Vite App to Azure App Service Using Docker &amp; GitHub Actions &lpar;with OIDC&rpar; 🚀](https://dev.to/dimuthu7/deploying-a-react-vite-app-to-azure-app-service-using-docker-github-actions-with-oidc-2d90)
+- [What Is Google Antigravity? Complete Guide, Features, Limits &amp; Real Examples](https://dev.to/manikandan/what-is-google-antigravity-complete-guide-features-limits-real-examples-k67)
+- [CSS Projects: Grid Pet Showcase, Fan Hover Effects, and Responsive News Homepage Tutorial](https://dev.to/labex/css-projects-grid-pet-showcase-fan-hover-effects-and-responsive-news-homepage-tutorial-4o36)
+- [Orchestrated Thought: Building AI Brains with Modular Reasoning by Arvind Sundararajan](https://dev.to/arvind_sundararajan/orchestrated-thought-building-ai-brains-with-modular-reasoning-by-arvind-sundararajan-1144)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
