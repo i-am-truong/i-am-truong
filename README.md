@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Arreglar pinchazos cerca de mi en Moralzarzal](https://dev.to/isabella_brown_4cf0339814/arreglar-pinchazos-cerca-de-mi-en-moralzarzal-k70)
-- [AWS re:Invent 2025 - Zoox: Building Machine Learning Infrastructure for Autonomous Vehicles &lpar;AMZ304&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-zoox-building-machine-learning-infrastructure-for-autonomous-vehicles-amz304-32o8)
-- [Understanding the React Testing Pipeline &lpar;for Beginners&rpar;](https://dev.to/sheikhlimon/understanding-the-react-testing-pipeline-for-beginners-53fl)
-- [Tailwind CSS v4: Why I Chose CSS-First Config Over Styled Components](https://dev.to/saswatapal/tailwind-css-v4-why-i-chose-css-first-config-over-styled-components-270f)
-- [Windows 11 Lite 2025 Free Download](https://dev.to/james130/windows-11-lite-2025-free-download-3912)
+- [Arreglar pinchazos cerca de mi en Quijorna](https://dev.to/isabella_brown_4cf0339814/arreglar-pinchazos-cerca-de-mi-en-quijorna-462l)
+- [Arreglar pinchazos cerca de mi en Brunete](https://dev.to/isabella_brown_4cf0339814/arreglar-pinchazos-cerca-de-mi-en-brunete-4l1h)
+- [AWS re:Invent 2025 - A leader&#39;s guide to accelerating large-scale migration &lpar;SNR301&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-a-leaders-guide-to-accelerating-large-scale-migration-snr301-557g)
+- [From Distributed Ledgers to Autonomous Agents: How AI Agents Are Reshaping Smart Contract Intelligence](https://dev.to/jay_yadav_0cc1b8270e70447/from-distributed-ledgers-to-autonomous-agents-how-ai-agents-are-reshaping-smart-contract-54c4)
+- [Quantum Security&#39;s Blind Spot: When Eavesdroppers Fly Under the Radar by Arvind Sundararajan](https://dev.to/arvind_sundararajan/quantum-securitys-blind-spot-when-eavesdroppers-fly-under-the-radar-by-arvind-sundararajan-4em1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
