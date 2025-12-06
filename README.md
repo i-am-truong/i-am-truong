@@ -120,12 +120,12 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Synchronous vs. Asynchronous JavaScript : A Real-World Explanation](https://dev.to/homayounmmdy/synchronous-vs-asynchronous-javascript-a-real-world-explanation-30g3)
 - [END-TO-END Deployment Of Django App on AWS EKS Cluster](https://dev.to/oncloud7/end-to-end-deployment-of-django-app-on-aws-eks-cluster-l6a)
 - [Discover Monetzly: Your Path to Effective AI Monetization Strategies](https://dev.to/monetzly/discover-monetzly-your-path-to-effective-ai-monetization-strategies-3d2n)
 - [I Built an AI News Agent with LangGraph &lpar;Open Source&rpar;
 GitHub: https://github.com/tejiri-code/pulse-ai](https://dev.to/edjere_evelynoghenetejir/i-built-an-ai-news-agent-with-langgraph-open-source-github-32cn)
 - [**Avoiding Hidden Biases in Transfer Learning: A Practical T](https://dev.to/drcarlosruizviquez/avoiding-hidden-biases-in-transfer-learning-a-practical-t-4b5m)
-- [Make Liferay upgrades predictable. This guide explains how to fix legacy code, simplify modules, and prep for future releases. Read https://veriday.com/reduce-technical-debt-in-liferay-dxp-upgrades-veriday-guide/](https://dev.to/devndrakushi_6049434ecdb0/make-liferay-upgrades-predictable-this-guide-explains-how-to-fix-legacy-code-simplify-modules-ab9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
