@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The LLM Shield: How to Build Production-Grade NSFW Guardrails for AI Agents](https://dev.to/aayushgid/the-llm-shield-how-to-build-production-grade-nsfw-guardrails-for-ai-agents-48o6)
 - [How a Wedding Dress Turned Into a Python Project &lpar;And Why Love Compiles Perfectly&rpar;](https://dev.to/mo_moring_7ce2d024ecd887b/how-a-wedding-dress-turned-into-a-python-project-and-why-love-compiles-perfectly-572e)
 - [“ACCA Ethics and Professional Skills: Why They Matter and How to Learn Them”](https://dev.to/abdulrehman_49/acca-ethics-and-professional-skills-why-they-matter-and-how-to-learn-them-2adg)
 - [Gerlandier Areia](https://dev.to/gerlandier_gonalves_6d1c/gerlandier-areia-3bi9)
 - [Getting Started With NextJs and Shadcn on Cloudflare, with Hono and D1](https://dev.to/teaganga/getting-started-with-nextjs-and-shadcn-on-cloudflare-with-hono-and-d1-35dk)
-- [Applying Any SAST Tools to Any Application &lpar;Using OWASP Alternatives&rpar;](https://dev.to/royservillanueva2004/applying-any-sast-tools-to-any-application-using-owasp-alternatives-3d02)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
