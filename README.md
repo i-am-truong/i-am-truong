@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [👋 Hello Dev Community — I’m New Here!](https://dev.to/hkarimi/hello-dev-community-im-new-here-ln2)
-- [Writing a tiny PID 1 for containers in pure assembly &lpar;x86-64 + ARM64&rpar;](https://dev.to/bogdan_75c1dac33c215a1ba6/writing-a-tiny-pid-1-for-containers-in-pure-assembly-x86-64-arm64-2h2i)
-- [How Web Development and AI Are Transforming Local SEO for Businesses in 2025](https://dev.to/zclickagency/how-web-development-and-ai-are-transforming-local-seo-for-businesses-in-2025-3ddm)
-- [[2025 Guide] How to Create Your Own AI Avatar for E-com Ads](https://dev.to/getkoro_app/2025-guide-how-to-create-your-own-ai-avatar-for-e-com-ads-1k6b)
-- [**Challenging the Transparency Conundrum: An AI Ethics Dilem](https://dev.to/drcarlosruizviquez/challenging-the-transparency-conundrum-an-ai-ethics-dilem-5ahc)
+- [How to Build a Production-Ready Invoice Builder in .NET Using IronPDF](https://dev.to/antonmartyniuk/how-to-build-a-production-ready-invoice-builder-in-net-using-ironpdf-lbb)
+- [Daily AI Report - December 06, 2025](https://dev.to/dan_ledger_ce2886f0037972/daily-ai-report-december-06-2025-4dp4)
+- [🚀 Unlock Early Access to Digging Code&#39;s Latest Developer Features](https://dev.to/mmramadan496/unlock-early-access-to-digging-codes-latest-developer-features-28fe)
+- [How Developers Flatline Their Careers — And How to Avoid It](https://dev.to/chrismbah/how-developers-flatline-their-careers-and-how-to-avoid-it-6li)
+- [LSM-Trees, NVMe SSDs, and Modern Storage Realities](https://dev.to/lovestaco/lsm-trees-nvme-ssds-and-modern-storage-realities-5cgd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
