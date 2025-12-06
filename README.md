@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AWS DevOps Agent Explained: Architecture, Setup, and Real Root-Cause Demo &lpar;CloudWatch + EKS&rpar;](https://dev.to/aws-builders/aws-devops-agent-explained-architecture-setup-and-real-root-cause-demo-cloudwatch-eks-ng7)
 - [Build a Minute-Based Job Scheduler in .NET 10 with WJb package](https://dev.to/ukrguru/build-a-minute-based-job-scheduler-in-net-10-with-wjb-package-27da)
 - [Reintroducing Snap.svg: A Shape‑First Alternative to D3.js in 2025 &lpar;With Geometry, 3D, and TypeScript&rpar;](https://dev.to/o_vakarelov/reintroducing-snapsvg-a-shape-first-alternative-to-d3js-in-2025-with-geometry-3d-and-27ai)
 - [Build your own tunnel in Rust: Expose local sites to the Web with blazing performance](https://dev.to/explicit-logic/build-your-own-tunnel-in-rust-expose-local-sites-to-the-web-with-blazing-performance-1218)
 - [How can I connect a local MCP server &lpar;Python&rpar; to ChatGPT? - “Unsafe URL” issue](https://dev.to/makki/how-can-i-connect-a-local-mcp-server-python-to-chatgpt-unsafe-url-issue-94p)
-- [2025-12-06 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-06-daily-ai-news-20h1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
