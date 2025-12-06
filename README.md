@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [It&#39;s a Study Date! Reflections on the AI Agents Intensive Course](https://dev.to/chloe_lian_10bb2f45443667/reflections-on-the-ai-agents-intensive-course-a-business-analysts-deep-appreciation-for-the-49eg)
 - [ESLint for Markdown: Standardizing Documentation Consistency](https://dev.to/stelixx-insider/eslint-for-markdown-standardizing-documentation-consistency-2p1h)
 - [AWS re:Invent 2025 - Using generative AI to accelerate database modernization with AWS DMS &lpar;DAT420&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-using-generative-ai-to-accelerate-database-modernization-with-aws-dms-dat420-34he)
 - [AWS re:Invent 2025 - Multi-Region strong consistency with Amazon DynamoDB global tables &lpar;DAT440&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-multi-region-strong-consistency-with-amazon-dynamodb-global-tables-dat440-2j1c)
 - [CSS Loader Generator — Make Loaders That Don’t Suck 🔄✨](https://dev.to/akashbijwe/css-loader-generator-make-loaders-that-dont-suck-250m)
-- [Card Validator — Because Bad Card Numbers Are a Pain 💳⚠️](https://dev.to/akashbijwe/card-validator-because-bad-card-numbers-are-a-pain-3a9p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
