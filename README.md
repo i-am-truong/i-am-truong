@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Chunk Boundary and Metadata Alignment: The Hidden Source of RAG Instability](https://dev.to/dowhatmatters/chunk-boundary-and-metadata-alignment-the-hidden-source-of-rag-instability-78b)
+- [Clean up your NestJS Controller: Remote API Validation inside DTOs 🧼🚀](https://dev.to/gsmatheus/clean-up-your-nestjs-controller-remote-api-validation-inside-dtos-1kdm)
 - [Stop Confusing sites-available and sites-enabled &lpar;Nginx Guide&rpar;](https://dev.to/rijultp/stop-confusing-sites-available-and-sites-enabled-nginx-guide-2ji1)
 - [RAG vs Fine-Tuning vs Prompt Engineering: The Ultimate Guide to Choosing the Right AI Strategy](https://dev.to/naresh_007/rag-vs-fine-tuning-vs-prompt-engineering-the-ultimate-guide-to-choosing-the-right-ai-strategy-3n8p)
 - [Empowering Security Teams: How Digital Scheduling Tools Are Revolutionizing Guard Work-Life Balance](https://dev.to/securitytips/empowering-security-teams-how-digital-scheduling-tools-are-revolutionizing-guard-work-life-balance-18bf)
-- [¿Cómo documentar sistemas empresariales?](https://dev.to/matiasrojas_a/como-documentar-sistemas-empresariales-3mjj)
-- [I Got Tired of Messy Text in Directus, So I Built a Typograf Button](https://dev.to/antonko/i-got-tired-of-messy-text-in-directus-so-i-built-a-typograf-button-4c8g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
