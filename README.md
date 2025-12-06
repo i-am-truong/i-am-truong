@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AWS DevOps Agent Explained: Architecture, Setup, and Real Root-Cause Demo &lpar;CloudWatch + EKS&rpar;](https://dev.to/aws-builders/aws-devops-agent-explained-architecture-setup-and-real-root-cause-demo-cloudwatch-eks-ng7)
-- [Build a Minute-Based Job Scheduler in .NET 10 with WJb package](https://dev.to/ukrguru/build-a-minute-based-job-scheduler-in-net-10-with-wjb-package-27da)
-- [Reintroducing Snap.svg: A Shape‑First Alternative to D3.js in 2025 &lpar;With Geometry, 3D, and TypeScript&rpar;](https://dev.to/o_vakarelov/reintroducing-snapsvg-a-shape-first-alternative-to-d3js-in-2025-with-geometry-3d-and-27ai)
-- [Build your own tunnel in Rust: Expose local sites to the Web with blazing performance](https://dev.to/explicit-logic/build-your-own-tunnel-in-rust-expose-local-sites-to-the-web-with-blazing-performance-1218)
-- [How can I connect a local MCP server &lpar;Python&rpar; to ChatGPT? - “Unsafe URL” issue](https://dev.to/makki/how-can-i-connect-a-local-mcp-server-python-to-chatgpt-unsafe-url-issue-94p)
+- [How I built a Serverless, P2P Parental Control app using WebRTC and Kotlin](https://dev.to/francesco_costantino_5861/how-i-built-a-serverless-p2p-parental-control-app-using-webrtc-and-kotlin-fjj)
+- [The Great Centralisation: History of the internet is a tragedy in Four acts](https://dev.to/rengas/the-great-centralisation-history-of-the-internet-is-a-tragedy-in-four-acts-30k5)
+- [Top 10 Remote Network Engineering Jobs 2025: Companies Hiring Now + Salary Guide](https://dev.to/biswadeep_dutta_e8eba1c95/top-10-remote-network-engineering-jobs-2025-companies-hiring-now-salary-guide-3npn)
+- [Guardrails for AI-Generated IaC: How MyCoCo Made Speed Sustainable](https://dev.to/dc-shimla/guardrails-for-ai-generated-iac-how-mycoco-made-speed-sustainable-2f1k)
+- [Developing a PHP Project Across Windows and Mac on Your Home Network](https://dev.to/tin0312/developing-a-php-project-across-windows-and-mac-on-your-home-network-26nd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
