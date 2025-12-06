@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cloudflare Outage 2025: How One Config File Crashed 20% of the Internet &lpar;Root Cause &amp; Lessons Learned&rpar;](https://dev.to/kanani_nirav/cloudflare-outage-2025-how-one-config-file-crashed-20-of-the-internet-root-cause-lessons-2p7f)
-- [I Made Claude and Gemini Write Tetris for a 1982 Computer.](https://dev.to/dexmac221/i-made-claude-and-gemini-write-tetris-for-a-1982-computer-54nk)
-- [Security Alert: How to Check for the &quot;Shai-Hulud&quot; Compromise](https://dev.to/0xkoji/security-alert-how-to-check-for-the-shai-hulud-compromise-51ln)
-- [AWS re:Invent 2025 - Function calling vs agents: Choose the right AI approach &lpar;DEV204&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-function-calling-vs-agents-choose-the-right-ai-approach-dev204-n0l)
-- [AWS re:Invent 2025 - Reinventing credit origination process through AI &lpar;IND372&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-reinventing-credit-origination-process-through-ai-ind372-404b)
+- [可选链操作符 ?.、逻辑空赋值运算符 ??=、performance、void 操作符](https://dev.to/nikimunger/ke-xuan-lian-cao-zuo-fu-luo-ji-kong-fu-zhi-yun-suan-fu-performance-void-cao-zuo-fu-3a87)
+- [My DEV.TO Blogs List](https://dev.to/thebitforge/my-devto-blogs-list-12aa)
+- [🤷🏻‍♀️ Freelance Devs Drop Your Realest Truth Here](https://dev.to/vidakhoshpey22/freelance-devs-drop-your-realest-truth-here-2ak9)
+- [Day 6 — The Audit](https://dev.to/aerabi/day-6-the-audit-2ak2)
+- [AWS re:Invent 2025 - Reinvent your career: From developer to cloud leader &lpar;DEV101&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-reinvent-your-career-from-developer-to-cloud-leader-dev101-4ff3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
