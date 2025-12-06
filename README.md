@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Channels in Kotlin Coroutines: A Complete Q&amp;A Guide for Android Apps](https://dev.to/kamaldeep_kakkar_8a1a740e/channels-in-kotlin-coroutines-a-complete-qa-guide-for-android-apps-4ppc)
-- [Context-Aware Networking &amp; Runtimes: Agentic End-To-End](https://dev.to/thenjdevopsguy/context-aware-networking-runtimes-agentic-end-to-end-1cen)
-- [🚀 The Hidden DNS Misconfiguration That Was Killing Performance in Our EKS Cluster &lpar;and How We Fixed it&rpar;](https://dev.to/ahmedshendy/the-hidden-dns-misconfiguration-that-was-killing-performance-in-our-eks-cluster-and-how-we-fixed-2onm)
-- [I Fell in Love With Programming Long Before I Learned It](https://dev.to/plc-creates/i-fell-in-love-with-programming-long-before-i-learned-it-5aj5)
-- [Need 12 Testers to Publish My AI Conversational Assistant App “TalkFlow”](https://dev.to/kashiii125/need-12-testers-to-publish-my-ai-conversational-assistant-app-talkflow-cec)
+- [AWS re:Invent 2025 - Empowering communities - create fun events on AWS services &lpar;DEV344&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-empowering-communities-create-fun-events-on-aws-services-dev344-2kfj)
+- [AWS re:Invent 2025 - AI, Cloud &amp; Public Sector Transformation: PwC &amp; AWS Driving Change Now &lpar;AIM115&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-ai-cloud-public-sector-transformation-pwc-aws-driving-change-now-aim115-bjk)
+- [Test](https://dev.to/justin_harr_c20841edac0bb/test-292a)
+- [AI&#39;s insatiable energy demands, massive funding rounds, and evolving market dynamics dominate tech news.](https://dev.to/stelixx-insights/ais-insatiable-energy-demands-massive-funding-rounds-and-evolving-market-dynamics-dominate-tech-5d7o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
