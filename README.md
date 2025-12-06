@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [888Starz Casino Philippines – Is It Available for PH Players?](https://dev.to/gambplays/888starz-casino-philippines-is-it-available-for-ph-players-2h2g)
-- [Monetzly: The Future of AI Monetization for LLM Apps](https://dev.to/monetzly/monetzly-the-future-of-ai-monetization-for-llm-apps-j52)
-- [Chapter 2: End-to-End Machine Learning Project](https://dev.to/arham_jawad_51b88b85913b5/chapter-2-end-to-end-machine-learning-project-1b8a)
-- [Is NeetCode Pro Worth It? A Complete 2025 Review &lpar;Pros, Cons, Alternatives&rpar;](https://dev.to/alex_hunter_44f4c9ed6671e/is-neetcode-pro-worth-it-a-complete-2025-review-pros-cons-alternatives-am7)
-- [How to Use Casino Bonus in 888Starz – Step-by-Step Guide 2025](https://dev.to/gambplays/how-to-use-casino-bonus-in-888starz-step-by-step-guide-2025-45p8)
+- [Swift #1: Variables](https://dev.to/david_goyes_a488f58a17a53/swift-1-variables-7pm)
+- [🌿 Universal Companion Protocol &lpar;UCP&rpar; v1 BETA — Public Seed Document](https://dev.to/anotheranarchist/universal-companion-protocol-ucp-v1-beta-public-seed-document-3c21)
+- [Railway.app - DevOps Friendly Deployment Tool](https://dev.to/kaustubhyerkade/railwayapp-devops-friendly-deployment-tool-5aab)
+- [888Starz Casino No Deposit Bonus 2025 – Claim Free Spins Today](https://dev.to/gambplays/888starz-casino-no-deposit-bonus-2025-claim-free-spins-today-3aif)
+- [Day 7.Change EC2 Instance Type](https://dev.to/thukhakyawe_cloud/day-7change-ec2-instance-type-34gn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
