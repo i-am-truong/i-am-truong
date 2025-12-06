@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Design a Notification System: A Complete Guide](https://dev.to/madhur_banger/how-to-design-a-notification-system-a-complete-guide-4509)
 - [How We Built an AI-Powered Invoice Generator for Small Contractors](https://dev.to/5_boilererrorcodes_f615/how-we-built-an-ai-powered-invoice-generator-for-small-contractors-54je)
 - [CloudFront +s3 Tutorial: How I Hosted my Portfolio Securely on AWS](https://dev.to/naomi_ansah_d792faf7a1276/cloudfront-s3-tutorial-how-i-hosted-my-portfolio-securely-on-aws-2lhi)
-- [From 2-Week Security Reviews to 0.7-Second AI Scans: My Journey Building CypherAI](https://dev.to/stealthwhizz/from-2-week-security-reviews-to-07-second-ai-scans-my-journey-building-cypherai-cf2)
-- [Converting RxJS Observables to Async/Await](https://dev.to/lucaspereiradesouzat/converting-rxjs-observables-to-asyncawait-1m0f)
-- [Conversão de filtros RxJS para Async/Await](https://dev.to/lucaspereiradesouzat/conversao-de-filtros-rxjs-para-asyncawait-46cg)
+- [Docker Basics: Getting Started with Containers](https://dev.to/chandrapenugonda/docker-basics-day-1-getting-started-with-containers-4bf2)
+- [Day 1: Found the map](https://dev.to/blink_c5eb0afe3975/day-1-found-the-map-ljn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
