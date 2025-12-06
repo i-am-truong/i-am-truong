@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [n8n: Send Microsoft Outlook Email](https://dev.to/codebangkok/n8n-send-microsoft-outlook-email-5fo9)
+- [Day 64 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-64-of-100-days-dsa-coding-challenge-3344)
+- [AWS re:Invent 2025 - Solving the Cloud Privilege Problem at Scale: A Fiserv Case Study &lpar;COP213&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-solving-the-cloud-privilege-problem-at-scale-a-fiserv-case-study-cop213-4o0j)
 - [AWS re:Invent 2025 - The Zero Migration Path from Data to Enterprise Agentic AI &lpar;AIM123&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-the-zero-migration-path-from-data-to-enterprise-agentic-ai-aim123-2acl)
 - [AWS re:Invent 2025 - From Alert to Resolution: Supercharge AWS Ops with the Agentic AI SRE &lpar;AIM225&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-from-alert-to-resolution-supercharge-aws-ops-with-the-agentic-ai-sre-aim225-45dm)
-- [AWS re:Invent 2025 - Beyond the Hype: Delivering Measurable ROI with Generative AI on AWS &lpar;AIM231&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-beyond-the-hype-delivering-measurable-roi-with-generative-ai-on-aws-aim231-3p83)
-- [AWS re:Invent 2025 - Customer Story: AI Adoption with Salesforce &amp; Amazon Bedrock &lpar;AIM267&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-customer-story-ai-adoption-with-salesforce-amazon-bedrock-aim267-38dg)
-- [Strands agent + Agent Core AWS](https://dev.to/kevinl/strands-agent-agent-core-aws-nho)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
