@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Swift #1: Variables](https://dev.to/david_goyes_a488f58a17a53/swift-1-variables-7pm)
-- [🌿 Universal Companion Protocol &lpar;UCP&rpar; v1 BETA — Public Seed Document](https://dev.to/anotheranarchist/universal-companion-protocol-ucp-v1-beta-public-seed-document-3c21)
-- [Railway.app - DevOps Friendly Deployment Tool](https://dev.to/kaustubhyerkade/railwayapp-devops-friendly-deployment-tool-5aab)
-- [888Starz Casino No Deposit Bonus 2025 – Claim Free Spins Today](https://dev.to/gambplays/888starz-casino-no-deposit-bonus-2025-claim-free-spins-today-3aif)
-- [Day 7.Change EC2 Instance Type](https://dev.to/thukhakyawe_cloud/day-7change-ec2-instance-type-34gn)
+- [How to Deal with LeetCode Anxiety and Interview Stress: A Mental Health Guide](https://dev.to/alex_hunter_44f4c9ed6671e/how-to-deal-with-leetcode-anxiety-and-interview-stress-a-mental-health-guide-2fc2)
+- [888Starz Casino Mobile – Best Games on Phone &amp; Tablet](https://dev.to/gambplays/888starz-casino-mobile-best-games-on-phone-tablet-5455)
+- [🌿 Universal Companion Protocol &lpar;UCP&rpar; v1 BETA — Public Seed](https://dev.to/anarchyireland/universal-companion-protocol-ucp-v1-beta-public-seed-4ih3)
+- [QRify v1.3: The Privacy-First QR Code Generator Got Even Better! 🔐](https://dev.to/josunlp/qrify-v13-the-privacy-first-qr-code-generator-got-even-better-5e9j)
+- [LeetCode Premium vs NeetCode: Which One Is Better for 2025?](https://dev.to/alex_hunter_44f4c9ed6671e/leetcode-premium-vs-neetcode-which-one-is-better-for-2025-3e0h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
