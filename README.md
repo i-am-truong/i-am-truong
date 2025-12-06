@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[Boost]](https://dev.to/gustavojofelix/-3dll)
+- [Aqua-Tech Cities: How AI Will Build Climate-Proof Ocean Worlds](https://dev.to/dawoodtech/aqua-tech-cities-how-ai-will-build-climate-proof-ocean-worlds-3ij6)
 - [Automating Ubuntu VM Creation with libvirt &lpar;KVM/QEMU&rpar; and Cloud-Init](https://dev.to/tjuliu/automating-ubuntu-vm-creation-with-libvirt-kvmqemu-and-cloud-init-2inf)
-- [LogGuard](https://dev.to/cas8398/logguard-29cb)
-- [Building SkyMoment: A 4K Personalized Star Map Generator with Python, Skyfield and Astronomical Data](https://dev.to/balyakin/building-skymoment-a-4k-personalized-star-map-generator-with-python-skyfield-and-astronomical-data-11h9)
-- [How Container Governance Shapes Enterprise Deployment Strategies](https://dev.to/kapusto/how-container-governance-shapes-enterprise-deployment-strategies-eg)
-- [En los próximos 1-2 años, es previsible que la Prevención de](https://dev.to/drcarlosruizviquez/en-los-proximos-1-2-anos-es-previsible-que-la-prevencion-de-4lec)
+- [Why Switching Companies Every 2–3 Years Can Supercharge Your Career](https://dev.to/svdisv/why-switching-companies-every-2-3-years-can-supercharge-your-career-385o)
+- [DevPill #2: How to build and push a docker image to google cloud Artifact Registry](https://dev.to/raulsilva/devpill-2-how-to-build-and-send-a-docker-image-to-google-cloud-container-registry-1mbe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
