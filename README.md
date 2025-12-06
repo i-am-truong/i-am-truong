@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AWS re:Invent 2025 - A leader&#39;s guide to emerging technologies: From insights to rapid action-SNR203](https://dev.to/kazuya_dev/aws-reinvent-2025-a-leaders-guide-to-emerging-technologies-from-insights-to-rapid-action-snr203-12b1)
-- [AWS re:Invent 2025 - Accelerate Developer Productivity with Amazon&#39;s Generative AI Approach &lpar;AMZ309&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-accelerate-developer-productivity-with-amazons-generative-ai-approach-amz309-2jei)
-- [AWS re:Invent 2025 - Building and managing conversational AI at scale: lessons from Alexa+ &lpar;AMZ305&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-building-and-managing-conversational-ai-at-scale-lessons-from-alexa-amz305-5l3)
-- [AWS re:Invent 2025 - What Anthropic Learned Building AI Agents in 2025 &lpar;AIM277&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-what-anthropic-learned-building-ai-agents-in-2025-aim277-16lc)
-- [How Responsive Design Impacts SEO and Lead Generation](https://dev.to/flowebdesign/how-responsive-design-impacts-seo-and-lead-generation-2fh3)
+- [Smart Contracts and dApps on Ethereum &lpar;for Non‑Technical People&rpar;](https://dev.to/ribhavmodi/day-6-smart-contracts-and-dapps-on-ethereum-for-non-technical-people-2mi3)
+- [🔐Secure AWS Access Using Client VPN Endpoint — A Step-by-Step Guide &lpar;EasyRSA + ACM&rpar;](https://dev.to/latchudevops/secure-aws-access-using-client-vpn-endpoint-a-step-by-step-guide-easyrsa-acm-3mh2)
+- [Quadratic Scaling, Power, Patience, and Mastery](https://dev.to/bibimbop123/quadratic-scaling-power-patience-and-mastery-3h7p)
+- [Arreglar pinchazos cerca de mi en Pozuelo de Alarcón](https://dev.to/isabella_brown_4cf0339814/arreglar-pinchazos-cerca-de-mi-en-pozuelo-de-alarcon-ff)
+- [AWS re:Invent 2025 - From ideas to impact: Architecting with cloud best practices &lpar;ARC204&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-from-ideas-to-impact-architecting-with-cloud-best-practices-arc204-54fk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
