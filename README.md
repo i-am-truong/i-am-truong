@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How a Wedding Dress Turned Into a Python Project &lpar;And Why Love Compiles Perfectly&rpar;](https://dev.to/mo_moring_7ce2d024ecd887b/how-a-wedding-dress-turned-into-a-python-project-and-why-love-compiles-perfectly-572e)
+- [“ACCA Ethics and Professional Skills: Why They Matter and How to Learn Them”](https://dev.to/abdulrehman_49/acca-ethics-and-professional-skills-why-they-matter-and-how-to-learn-them-2adg)
+- [Gerlandier Areia](https://dev.to/gerlandier_gonalves_6d1c/gerlandier-areia-3bi9)
 - [Getting Started With NextJs and Shadcn on Cloudflare, with Hono and D1](https://dev.to/teaganga/getting-started-with-nextjs-and-shadcn-on-cloudflare-with-hono-and-d1-35dk)
-- [Dissecting the Anatomy of a Botnet](https://dev.to/syswraith/dissecting-the-anatomy-of-a-botnet-30oa)
-- [Throttle Smart, Scale Safe — Complete Guide to Rate Limiting — Architecture Series: Part 6](https://dev.to/usman_awan/throttle-smart-scale-safe-complete-guide-to-rate-limiting-architecture-series-part-6-43hl)
-- [How to build a full-screen navigation with Tailwind CSS and JavaScript](https://dev.to/mike_andreuzza/how-to-build-a-full-screen-navigation-with-tailwind-css-and-javascript-1mi1)
-- [Token, Words, and the Architecture of Modern Large Language Models](https://dev.to/anurag_saini_/token-words-and-the-architecture-of-modern-large-language-models-3emj)
+- [Applying Any SAST Tools to Any Application &lpar;Using OWASP Alternatives&rpar;](https://dev.to/royservillanueva2004/applying-any-sast-tools-to-any-application-using-owasp-alternatives-3d02)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
