@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 56: Python Fibonacci nth Term – Blazing Fast O&lpar;n&rpar; Iterative Solution with O&lpar;1&rpar; Space &lpar;No Recursion!&rpar;](https://dev.to/shahrouzlogs/day-56-python-fibonacci-nth-term-blazing-fast-on-iterative-solution-with-o1-space-no-4d02)
+- [Building AI Chatbots and Cloud Solutions: The Tech Journey of Somalpreet Singh](https://dev.to/somalpreet_singh_ff9d8e39/building-ai-chatbots-and-cloud-solutions-the-tech-journey-of-somalpreet-singh-kfk)
+- [AWS re:Invent 2025 - Reinventing software development with AI agents &lpar;INV205&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-reinventing-software-development-with-ai-agents-inv205-1oe3)
 - [Which ICO Marketing Services Deliver the Highest ROI in 2026?](https://dev.to/aliasceasar01/which-ico-marketing-services-deliver-the-highest-roi-in-2026-2m9d)
 - [✨ Govindam Retreat – Dive into the Royal Flavors of Rajasthan ✨](https://dev.to/govindam_retreat_26a7231f/govindam-retreat-dive-into-the-royal-flavors-of-rajasthan-43pe)
-- [AWS re:Invent 2025 - Behind the curtain: How Amazon’s AI innovations are powered by AWS &lpar;INV211&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-behind-the-curtain-how-amazons-ai-innovations-are-powered-by-aws-inv211-fda)
-- [Laptop Power Light On But Won&#39;t Boot? 7 Fixes That Work &lpar;2025&rpar;](https://dev.to/bryan_collins_abcd0214d94/laptop-power-light-on-but-wont-boot-7-fixes-that-work-2025-d2)
-- [My Takeaways from the Peter DeSantis &amp; Dave Brown Keynote — re:Invent 2025](https://dev.to/aditmodi/my-takeaways-from-the-peter-desantis-dave-brown-keynote-reinvent-2025-5bjg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
