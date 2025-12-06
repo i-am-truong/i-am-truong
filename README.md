@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Automating Business Reports with Excel for Increased Efficiency](https://dev.to/efe_freedom25/automating-business-reports-with-excel-for-increased-efficiency-m67)
 - [Switching account](https://dev.to/casperday11/switching-account-39af)
 - [Using Excel for Sales Forecasting and Revenue Projection in Organizations](https://dev.to/ore3/using-excel-for-sales-forecasting-and-revenue-projection-in-organizations-29h6)
 - [Applying Fortify Static Code Analyzer to a Node.js Application: A Practical Guide](https://dev.to/hashiravc/applying-fortify-static-code-analyzer-to-a-nodejs-application-a-practical-guide-2fen)
 - [AWS re:Invent 2025 - Slack Platform: Build with AI-Powered Development &lpar;AIM111&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-slack-platform-build-with-ai-powered-development-aim111-25md)
-- [n8n: Send Microsoft Outlook Email](https://dev.to/codebangkok/n8n-send-microsoft-outlook-email-5fo9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
