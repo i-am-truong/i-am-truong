@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 56: Python Fibonacci nth Term – Blazing Fast O&lpar;n&rpar; Iterative Solution with O&lpar;1&rpar; Space &lpar;No Recursion!&rpar;](https://dev.to/shahrouzlogs/day-56-python-fibonacci-nth-term-blazing-fast-on-iterative-solution-with-o1-space-no-4d02)
-- [Building AI Chatbots and Cloud Solutions: The Tech Journey of Somalpreet Singh](https://dev.to/somalpreet_singh_ff9d8e39/building-ai-chatbots-and-cloud-solutions-the-tech-journey-of-somalpreet-singh-kfk)
-- [AWS re:Invent 2025 - Reinventing software development with AI agents &lpar;INV205&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-reinventing-software-development-with-ai-agents-inv205-1oe3)
-- [Which ICO Marketing Services Deliver the Highest ROI in 2026?](https://dev.to/aliasceasar01/which-ico-marketing-services-deliver-the-highest-roi-in-2026-2m9d)
-- [✨ Govindam Retreat – Dive into the Royal Flavors of Rajasthan ✨](https://dev.to/govindam_retreat_26a7231f/govindam-retreat-dive-into-the-royal-flavors-of-rajasthan-43pe)
+- [Getting Started With NextJs and Shadcn on Cloudflare, with Hono and D1](https://dev.to/teaganga/getting-started-with-nextjs-and-shadcn-on-cloudflare-with-hono-and-d1-35dk)
+- [Dissecting the Anatomy of a Botnet](https://dev.to/syswraith/dissecting-the-anatomy-of-a-botnet-30oa)
+- [Throttle Smart, Scale Safe — Complete Guide to Rate Limiting — Architecture Series: Part 6](https://dev.to/usman_awan/throttle-smart-scale-safe-complete-guide-to-rate-limiting-architecture-series-part-6-43hl)
+- [How to build a full-screen navigation with Tailwind CSS and JavaScript](https://dev.to/mike_andreuzza/how-to-build-a-full-screen-navigation-with-tailwind-css-and-javascript-1mi1)
+- [Token, Words, and the Architecture of Modern Large Language Models](https://dev.to/anurag_saini_/token-words-and-the-architecture-of-modern-large-language-models-3emj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
