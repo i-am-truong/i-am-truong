@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Most websites are basically offers:](https://dev.to/suign/most-websites-are-basically-offers-3c8o)
-- [How do you transverse into a &quot;Code only&quot; developer to an &quot;All round&quot; founder](https://dev.to/layoolar/how-do-you-transverse-into-a-code-only-developer-to-an-all-round-founder-130p)
-- [From Corporate to Freelance: 5 Passive Income Streams That Actually Work](https://dev.to/biswadeep_dutta_e8eba1c95/from-corporate-to-freelance-5-passive-income-streams-that-actually-work-37hg)
-- [My First Blog Post - A Journey in Programming for Scientists and Engineers](https://dev.to/robjohnston/my-first-blog-post-a-journey-in-programming-for-scientists-and-engineers-228h)
-- [Building EigenAI: Teaching Math Foundations of AI Through Interactive Code](https://dev.to/lfariaus/building-eigenai-teaching-math-foundations-of-ai-through-interactive-code-3ni5)
+- [Build a Minute-Based Job Scheduler in .NET 10 with WJb package](https://dev.to/ukrguru/build-a-minute-based-job-scheduler-in-net-10-with-wjb-package-27da)
+- [Reintroducing Snap.svg: A Shape‑First Alternative to D3.js in 2025 &lpar;With Geometry, 3D, and TypeScript&rpar;](https://dev.to/o_vakarelov/reintroducing-snapsvg-a-shape-first-alternative-to-d3js-in-2025-with-geometry-3d-and-27ai)
+- [Build your own tunnel in Rust: Expose local sites to the Web with blazing performance](https://dev.to/explicit-logic/build-your-own-tunnel-in-rust-expose-local-sites-to-the-web-with-blazing-performance-1218)
+- [How can I connect a local MCP server &lpar;Python&rpar; to ChatGPT? - “Unsafe URL” issue](https://dev.to/makki/how-can-i-connect-a-local-mcp-server-python-to-chatgpt-unsafe-url-issue-94p)
+- [2025-12-06 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-06-daily-ai-news-20h1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
