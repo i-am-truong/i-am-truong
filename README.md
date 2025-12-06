@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google&#39;s December 2024 Core Update Hit E-Commerce Hard: Here&#39;s What Actually Changed](https://dev.to/synergistdigitalmedia/googles-december-2024-core-update-hit-e-commerce-hard-heres-what-actually-changed-533b)
+- [Advent of Code 2025 - December 6th](https://dev.to/robvanderleek/advent-of-code-2025-december-6th-1d14)
+- [Terrace Shop A headless Shopify store built for modern football terrace culture.](https://dev.to/saidmounaim/terrace-shop-a-headless-shopify-store-built-for-modern-football-terrace-culture-1h74)
+- [🚀 Best Free &amp; Open Source Flutter Admin Dashboard Template for 2026](https://dev.to/teranes_ranjith_10/the-ultimate-open-source-flutter-toolkit-for-data-heavy-admin-dashboards-4h4o)
 - [How I built a Serverless, P2P Parental Control app using WebRTC and Kotlin](https://dev.to/francesco_costantino_5861/how-i-built-a-serverless-p2p-parental-control-app-using-webrtc-and-kotlin-fjj)
-- [The Great Centralisation: History of the internet is a tragedy in Four acts](https://dev.to/rengas/the-great-centralisation-history-of-the-internet-is-a-tragedy-in-four-acts-30k5)
-- [Top 10 Remote Network Engineering Jobs 2025: Companies Hiring Now + Salary Guide](https://dev.to/biswadeep_dutta_e8eba1c95/top-10-remote-network-engineering-jobs-2025-companies-hiring-now-salary-guide-3npn)
-- [Guardrails for AI-Generated IaC: How MyCoCo Made Speed Sustainable](https://dev.to/dc-shimla/guardrails-for-ai-generated-iac-how-mycoco-made-speed-sustainable-2f1k)
-- [Developing a PHP Project Across Windows and Mac on Your Home Network](https://dev.to/tin0312/developing-a-php-project-across-windows-and-mac-on-your-home-network-26nd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
