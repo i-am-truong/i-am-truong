@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Chunk Boundary and Metadata Alignment: The Hidden Source of RAG Instability](https://dev.to/dowhatmatters/chunk-boundary-and-metadata-alignment-the-hidden-source-of-rag-instability-78b)
-- [Clean up your NestJS Controller: Remote API Validation inside DTOs 🧼🚀](https://dev.to/gsmatheus/clean-up-your-nestjs-controller-remote-api-validation-inside-dtos-1kdm)
-- [Stop Confusing sites-available and sites-enabled &lpar;Nginx Guide&rpar;](https://dev.to/rijultp/stop-confusing-sites-available-and-sites-enabled-nginx-guide-2ji1)
-- [RAG vs Fine-Tuning vs Prompt Engineering: The Ultimate Guide to Choosing the Right AI Strategy](https://dev.to/naresh_007/rag-vs-fine-tuning-vs-prompt-engineering-the-ultimate-guide-to-choosing-the-right-ai-strategy-3n8p)
-- [Empowering Security Teams: How Digital Scheduling Tools Are Revolutionizing Guard Work-Life Balance](https://dev.to/securitytips/empowering-security-teams-how-digital-scheduling-tools-are-revolutionizing-guard-work-life-balance-18bf)
+- [[Boost]](https://dev.to/jvcaballero1976/-3nb)
+- [Understanding Linux File System: ls -ltr Decoded and Directory Structure Explained](https://dev.to/agentic-jj/understanding-linux-file-system-ls-ltr-decoded-and-directory-structure-explained-5a15)
+- [VulnFeed 2.0: Building a Zero-Server Vulnerability Dashboard &lpar;Level 2 Release&rpar;](https://dev.to/secbyshresth/vulnfeed-20-building-a-zero-server-vulnerability-dashboard-level-2-release-pfp)
+- [How to Create a SaaS Project: A Step-by-Step Guide](https://dev.to/rose7886/how-to-create-a-saas-project-a-step-by-step-guide-n5i)
+- [AI coding agents can run rm -rf / on your machine. Here&#39;s how to stop them](https://dev.to/krishna_newark/ai-coding-agents-can-run-rm-rf-on-your-machine-heres-how-to-stop-them-32m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
