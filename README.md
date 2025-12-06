@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Which ICO Marketing Services Deliver the Highest ROI in 2026?](https://dev.to/aliasceasar01/which-ico-marketing-services-deliver-the-highest-roi-in-2026-2m9d)
+- [✨ Govindam Retreat – Dive into the Royal Flavors of Rajasthan ✨](https://dev.to/govindam_retreat_26a7231f/govindam-retreat-dive-into-the-royal-flavors-of-rajasthan-43pe)
+- [AWS re:Invent 2025 - Behind the curtain: How Amazon’s AI innovations are powered by AWS &lpar;INV211&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-behind-the-curtain-how-amazons-ai-innovations-are-powered-by-aws-inv211-fda)
+- [Laptop Power Light On But Won&#39;t Boot? 7 Fixes That Work &lpar;2025&rpar;](https://dev.to/bryan_collins_abcd0214d94/laptop-power-light-on-but-wont-boot-7-fixes-that-work-2025-d2)
 - [My Takeaways from the Peter DeSantis &amp; Dave Brown Keynote — re:Invent 2025](https://dev.to/aditmodi/my-takeaways-from-the-peter-desantis-dave-brown-keynote-reinvent-2025-5bjg)
-- [AI Coding Assistants in 2026: Understanding Claude Code and Google&#39;s Tools](https://dev.to/asad1/ai-coding-assistants-in-2026-understanding-claude-code-and-googles-tools-1a2h)
-- [What Exactly is Docker and Why its necessary](https://dev.to/p_acharya_cb32943b1cb6a0/what-exactly-is-docker-and-why-its-necessary-33p9)
-- [BUBUVERSE Introduces Real-Time PvP Dice &lpar;Beta&rpar; — A Technical Look at the New GameFi Layer](https://dev.to/bubuverse/bubuverse-introduces-real-time-pvp-dice-beta-a-technical-look-at-the-new-gamefi-layer-124o)
-- [🟩How to Route DB Connections to Multiple Database Servers Using HAProxy Port Forwarding](https://dev.to/latchudevops/how-to-route-db-connections-to-multiple-database-servers-using-haproxy-port-forwarding-1332)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
