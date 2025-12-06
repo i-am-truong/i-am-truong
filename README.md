@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Switching account](https://dev.to/casperday11/switching-account-39af)
+- [Using Excel for Sales Forecasting and Revenue Projection in Organizations](https://dev.to/ore3/using-excel-for-sales-forecasting-and-revenue-projection-in-organizations-29h6)
+- [Applying Fortify Static Code Analyzer to a Node.js Application: A Practical Guide](https://dev.to/hashiravc/applying-fortify-static-code-analyzer-to-a-nodejs-application-a-practical-guide-2fen)
+- [AWS re:Invent 2025 - Slack Platform: Build with AI-Powered Development &lpar;AIM111&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-slack-platform-build-with-ai-powered-development-aim111-25md)
 - [n8n: Send Microsoft Outlook Email](https://dev.to/codebangkok/n8n-send-microsoft-outlook-email-5fo9)
-- [Day 64 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-64-of-100-days-dsa-coding-challenge-3344)
-- [AWS re:Invent 2025 - Solving the Cloud Privilege Problem at Scale: A Fiserv Case Study &lpar;COP213&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-solving-the-cloud-privilege-problem-at-scale-a-fiserv-case-study-cop213-4o0j)
-- [AWS re:Invent 2025 - The Zero Migration Path from Data to Enterprise Agentic AI &lpar;AIM123&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-the-zero-migration-path-from-data-to-enterprise-agentic-ai-aim123-2acl)
-- [AWS re:Invent 2025 - From Alert to Resolution: Supercharge AWS Ops with the Agentic AI SRE &lpar;AIM225&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-from-alert-to-resolution-supercharge-aws-ops-with-the-agentic-ai-sre-aim225-45dm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
