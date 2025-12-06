@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Practicing programming with sandbox projects](https://dev.to/janux_de/practicing-programming-with-sandbox-projects-3kj)
 - [🧠LLMs As Sensors](https://dev.to/marcosomma/llms-as-sensors-49if)
+- [What will be first .NET language to face End of Support?](https://dev.to/aspxone-official/what-will-be-first-net-language-to-face-end-of-support-44l2)
 - [The LLM Shield: How to Build Production-Grade NSFW Guardrails for AI Agents](https://dev.to/aayushgid/the-llm-shield-how-to-build-production-grade-nsfw-guardrails-for-ai-agents-48o6)
-- [Tired of old, clunky GUI libraries? Try PyUIkit 1.0.0 🚀](https://dev.to/huzaifaatiq/tired-of-old-clunky-gui-libraries-try-pyuikit-100-h6j)
-- [Building a Unified API Response Architecture &lpar;ASP.NET Minimal API + Next.js&rpar;](https://dev.to/treelz/building-a-unified-api-response-architecture-aspnet-minimal-api-nextjs-38l7)
-- [Manual testing.](https://dev.to/resaba/manual-testing-fmm)
+- [AWS re:Invent 2025 - AWS detection and response innovations that drive security outcomes &lpar;SEC323&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-aws-detection-and-response-innovations-that-drive-security-outcomes-sec323-38a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
