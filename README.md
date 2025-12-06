@@ -120,11 +120,12 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [WARNING TO DEVELOPERS: A new wave of “technical test scams” is targeting devs](https://dev.to/andersoncontreira/warning-to-developers-a-new-wave-of-technical-test-scams-is-targeting-devs-4ifh)
-- [Desvendando o Vibe Code](https://dev.to/lucaspereiradesouzat/desvendando-o-vibe-code-1lla)
-- [Vibe Coding](https://dev.to/lucaspereiradesouzat/vibe-coding-1c1i)
-- [Zero Tech: 2-Month AI Case to Full-Stack SaaS](https://dev.to/leon_li_eac0efdd57ca194b4/zero-tech-2-month-ai-case-to-full-stack-saas-4kd8)
-- [2026 Marketing Budget Planning: Build Your Framework Before January Chaos Hits](https://dev.to/synergistdigitalmedia/2026-marketing-budget-planning-build-your-framework-before-january-chaos-hits-4gad)
+- [END-TO-END Deployment Of Django App on AWS EKS Cluster](https://dev.to/oncloud7/end-to-end-deployment-of-django-app-on-aws-eks-cluster-l6a)
+- [Discover Monetzly: Your Path to Effective AI Monetization Strategies](https://dev.to/monetzly/discover-monetzly-your-path-to-effective-ai-monetization-strategies-3d2n)
+- [I Built an AI News Agent with LangGraph &lpar;Open Source&rpar;
+GitHub: https://github.com/tejiri-code/pulse-ai](https://dev.to/edjere_evelynoghenetejir/i-built-an-ai-news-agent-with-langgraph-open-source-github-32cn)
+- [**Avoiding Hidden Biases in Transfer Learning: A Practical T](https://dev.to/drcarlosruizviquez/avoiding-hidden-biases-in-transfer-learning-a-practical-t-4b5m)
+- [Make Liferay upgrades predictable. This guide explains how to fix legacy code, simplify modules, and prep for future releases. Read https://veriday.com/reduce-technical-debt-in-liferay-dxp-upgrades-veriday-guide/](https://dev.to/devndrakushi_6049434ecdb0/make-liferay-upgrades-predictable-this-guide-explains-how-to-fix-legacy-code-simplify-modules-ab9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
