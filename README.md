@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My Takeaways from the Peter DeSantis &amp; Dave Brown Keynote — re:Invent 2025](https://dev.to/aditmodi/my-takeaways-from-the-peter-desantis-dave-brown-keynote-reinvent-2025-5bjg)
+- [AI Coding Assistants in 2026: Understanding Claude Code and Google&#39;s Tools](https://dev.to/asad1/ai-coding-assistants-in-2026-understanding-claude-code-and-googles-tools-1a2h)
+- [What Exactly is Docker and Why its necessary](https://dev.to/p_acharya_cb32943b1cb6a0/what-exactly-is-docker-and-why-its-necessary-33p9)
+- [BUBUVERSE Introduces Real-Time PvP Dice &lpar;Beta&rpar; — A Technical Look at the New GameFi Layer](https://dev.to/bubuverse/bubuverse-introduces-real-time-pvp-dice-beta-a-technical-look-at-the-new-gamefi-layer-124o)
 - [🟩How to Route DB Connections to Multiple Database Servers Using HAProxy Port Forwarding](https://dev.to/latchudevops/how-to-route-db-connections-to-multiple-database-servers-using-haproxy-port-forwarding-1332)
-- [From Performance Engineering to Agentic Intelligence — My Journey Through the AI Agents Intensive](https://dev.to/ajin_sudhir_243c86142add9/from-performance-engineering-to-agentic-intelligence-my-journey-through-the-ai-agents-intensive-1fn2)
-- [AWS re:Invent 2025 - Powering your Agentic AI experience with AWS Streaming and Messaging &lpar;ANT310&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-powering-your-agentic-ai-experience-with-aws-streaming-and-messaging-ant310-3e3p)
-- [可选链操作符 ?.、逻辑空赋值运算符 ??=、performance、void 操作符](https://dev.to/nikimunger/ke-xuan-lian-cao-zuo-fu-luo-ji-kong-fu-zhi-yun-suan-fu-performance-void-cao-zuo-fu-3a87)
-- [AWS re:Invent 2025 - Autonomous agents powered by streaming data and Retrieval Augmented Generation](https://dev.to/kazuya_dev/aws-reinvent-2025-autonomous-agents-powered-by-streaming-data-and-retrieval-augmented-generation-2154)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
