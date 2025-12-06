@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Migrating from Ingress NGINX to Pomerium Ingress Controller](https://dev.to/pomerium/migrating-from-ingress-nginx-to-pomerium-ingress-controller-47m6)
-- [How I Built an MCP Server in 50 Lines of Python &lpar;Auto-Generated from OpenAPI&rpar;](https://dev.to/durgaprasadbudhwani/how-i-built-an-mcp-server-in-50-lines-of-python-auto-generated-from-openapi-5apb)
-- [AWS re:Invent 2025 - Create hyper-personalized voice interactions with Amazon Nova Sonic &lpar;AIM374&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-create-hyper-personalized-voice-interactions-with-amazon-nova-sonic-aim374-3gdc)
-- [AWS re:Invent 2025 - Building scalable applications with text and multimodal understanding &lpar;AIM375&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-building-scalable-applications-with-text-and-multimodal-understanding-aim375-5fl9)
-- [AWS re:Invent 2025 - Customize models for agentic AI at scale with SageMaker AI and Bedrock &lpar;AIM381&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-customize-models-for-agentic-ai-at-scale-with-sagemaker-ai-and-bedrock-aim381-142m)
+- [The Secret Life of Python: Metaclasses - Classes That Make Classes](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-metaclasses-classes-that-make-classes-3lag)
+- [AWS re:Invent 2025-AWS Generative AI Innovation Center driving enterprise success with AWS Partners](https://dev.to/kazuya_dev/aws-reinvent-2025-aws-generative-ai-innovation-center-driving-enterprise-success-with-aws-partners-259f)
+- [AWS re:Invent 2025 - Maximizing customer outcomes: AWS Partner Led Customer Success &lpar;PEX106&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-maximizing-customer-outcomes-aws-partner-led-customer-success-pex106-2jnk)
+- [AWS re:Invent 2025 - Unlocking GenAI potential with automated modernization to AWS &lpar;ANT313&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-unlocking-genai-potential-with-automated-modernization-to-aws-ant313-1gij)
+- [If You Want Serendipity and Transformation, Embrace &quot;Newest Literally&quot;](https://dev.to/stakiran/if-you-want-serendipity-and-transformation-embrace-newest-literally-10b1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
