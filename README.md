@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Arreglar pinchazos cerca de mi en Moralzarzal](https://dev.to/isabella_brown_4cf0339814/arreglar-pinchazos-cerca-de-mi-en-moralzarzal-k70)
+- [AWS re:Invent 2025 - Zoox: Building Machine Learning Infrastructure for Autonomous Vehicles &lpar;AMZ304&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-zoox-building-machine-learning-infrastructure-for-autonomous-vehicles-amz304-32o8)
+- [Understanding the React Testing Pipeline &lpar;for Beginners&rpar;](https://dev.to/sheikhlimon/understanding-the-react-testing-pipeline-for-beginners-53fl)
+- [Tailwind CSS v4: Why I Chose CSS-First Config Over Styled Components](https://dev.to/saswatapal/tailwind-css-v4-why-i-chose-css-first-config-over-styled-components-270f)
 - [Windows 11 Lite 2025 Free Download](https://dev.to/james130/windows-11-lite-2025-free-download-3912)
-- [Building 404fuzz: A Multi-Core Fuzzer That Never Gets Tired](https://dev.to/toklas495/building-404fuzz-a-multi-core-fuzzer-that-never-gets-tired-hk4)
-- [Clean Images, Clear Stories: Why Background Removal Improves Visual Storytelling](https://dev.to/freepixel11/clean-images-clear-stories-why-background-removal-improves-visual-storytelling-59cn)
-- [AWS re:Invent 2025 - Build AI Agents with Island: Customer Story Featuring Amazon &lpar;AIM125&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-build-ai-agents-with-island-customer-story-featuring-amazon-aim125-4i4c)
-- [Why Unit Tests in React Catch Bugs the UI Never Shows &lpar;Jest Real-World Example&rpar;](https://dev.to/nitinnair89/why-unit-tests-in-react-catch-bugs-the-ui-never-shows-jest-real-world-example-4ak0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
