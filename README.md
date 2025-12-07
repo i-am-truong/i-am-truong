@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [# A Failed Compliance Audit in Azure DevOps: Rebuilding CI/CD with Policy as Code and Security Gates](https://dev.to/careerbytecode/-a-failed-compliance-audit-in-azure-devops-rebuilding-cicd-with-policy-as-code-and-security-gates-1nof)
-- [Waveterm: Streamlining Cloud and Remote Server Workflows](https://dev.to/stelixx-insider/waveterm-streamlining-cloud-and-remote-server-workflows-2poe)
-- [Delta-Oriented Programming from the Perspective of Reversible Computation](https://dev.to/canonical/delta-oriented-programming-from-the-perspective-of-reversible-computation-2oke)
-- [# When Azure Front Door Won&#39;t Fail Over: Lessons from a Real Multi-Region DR Drill](https://dev.to/careerbytecode/-when-azure-front-door-wont-fail-over-lessons-from-a-real-multi-region-dr-drill-4dpa)
-- [Typescript/JavaScript Book Recommendations](https://dev.to/jmcln/typescriptjavascript-book-recommendations-4ig3)
+- [Cover Hero](https://dev.to/preetha_vaishnavi_2b82358/cover-hero-5264)
+- [Manhole Cover](https://dev.to/preetha_vaishnavi_2b82358/manhole-cover-5842)
+- [Course: Design Your Startup Landing Page in 1 Week](https://dev.to/whitefoxx/course-design-your-startup-landing-page-in-1-week-al6)
+- [A Supplementary Analysis of Reversible Computation Theory for Programmers](https://dev.to/canonical/a-supplementary-analysis-of-reversible-computation-theory-for-programmers-2bd3)
+- [Evolving Cellular Automata](https://dev.to/xcontcom/evolving-cellular-automata-6ia)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
