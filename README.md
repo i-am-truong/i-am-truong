@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [# Day 7 — Patch &amp; Tool Maintenance &lpar;Deeper into the Forest&rpar;](https://dev.to/aerabi/-day-7-patch-tool-maintenance-deeper-into-the-forest-501h)
+- [How to Use Google Scholar for Prior Art Discovery](https://dev.to/patentscanai/how-to-use-google-scholar-for-prior-art-discovery-170d)
 - [Cover Hero](https://dev.to/preetha_vaishnavi_2b82358/cover-hero-5264)
 - [Manhole Cover](https://dev.to/preetha_vaishnavi_2b82358/manhole-cover-5842)
 - [Course: Design Your Startup Landing Page in 1 Week](https://dev.to/whitefoxx/course-design-your-startup-landing-page-in-1-week-al6)
-- [A Supplementary Analysis of Reversible Computation Theory for Programmers](https://dev.to/canonical/a-supplementary-analysis-of-reversible-computation-theory-for-programmers-2bd3)
-- [Evolving Cellular Automata](https://dev.to/xcontcom/evolving-cellular-automata-6ia)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
