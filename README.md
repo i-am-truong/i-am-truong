@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Headless Store with Next.js 16 and Shopify API](https://dev.to/saidmounaim/building-a-headless-store-with-nextjs-16-and-shopify-api-4725)
-- [I Tried 30+ AI Image Generators — These Are the Best Ones &lpar;Ranked&rpar;](https://dev.to/nnash/i-tried-30-ai-image-generators-these-are-the-best-ones-ranked-502p)
-- [GBC Scorecard: Figma ➡️ Token-Rewarding Golf App with Uno Hot Design Agent 🏌️‍♂️💰](https://dev.to/datadr1ven/gbc-scorecard-figma-token-rewarding-golf-app-with-uno-hot-design-agent-g9m)
-- [Day 12.Attach Volume to EC2 Instance](https://dev.to/thukhakyawe_cloud/day-12attach-volume-to-ec2-instance-1681)
-- [n8n: Credential - Google Contacts account](https://dev.to/codebangkok/n8n-credential-google-contacts-account-2ldg)
+- [2026 Red Team - Kendi Hacking Araçlarımızı Yazmayı Öğreniyoruz](https://dev.to/mintercoder/2026-red-team-kendi-hacking-araclarimizi-yazmayi-ogreniyoruz-oln)
+- [My 5-Day Journey into AI Agents 🚀](https://dev.to/mahadiosb/my-5-day-journey-into-ai-agents-2al3)
+- [AWS Glue ETL Jobs: Transform Your Data at Scale](https://dev.to/aws-builders/aws-glue-etl-jobs-transform-your-data-at-scale-2l4n)
+- [Advent of Code 2025 Day 2: Gift Shop 🎁](https://dev.to/kryko7/advent-of-code-2025-day-2-gift-shop-1lkn)
+- [Building Modern Backends with Kaapi: Request validation](https://dev.to/shygyver/building-modern-backends-with-kaapi-request-validation-4dal)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
