@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Testing Blog](https://dev.to/inupurnomo/testing-blog-1l99)
+- [RouteHaven Review: A Field-Tested Tour Booking Theme That Actually Ships](https://dev.to/sofi_morilla_c57a1e216ce6/routehaven-review-a-field-tested-tour-booking-theme-that-actually-ships-683)
 - [🤖AI for Everyone: How byLLM &amp; A11yShape Are Redefining Inclusive Coding](https://dev.to/usman_awan/ai-for-everyone-how-byllm-a11yshape-are-redefining-inclusive-coding-2fg9)
-- [Web Developer Travis McCracken on The Most Overused Patterns in Backend Dev](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-most-overused-patterns-in-backend-dev-41ka)
-- [n8n: Credential - Jira SW Cloud API](https://dev.to/codebangkok/n8n-credential-jira-sw-cloud-api-n7f)
-- [How to implement Google OAuth in browser extension without “Tabs” permission](https://dev.to/notearthian/how-to-implement-google-oauth-in-browser-extension-without-tabs-permission-327m)
-- [Adapter Pattern Explained with Real Examples](https://dev.to/adrianbailador/adapter-pattern-explained-with-real-examples-314d)
+- [SafeMapX — A New Universal Pattern to Eliminate Null Checks, Ternaries &amp; String Plumbing in C#](https://dev.to/sandy_bassi_cc2d82d21b407/safemapx-a-new-universal-pattern-to-eliminate-null-checks-ternaries-string-plumbing-in-c-3pp9)
+- [Monetzly: Transforming AI Conversations into Developer Revenue](https://dev.to/monetzly/monetzly-transforming-ai-conversations-into-developer-revenue-3ec0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
