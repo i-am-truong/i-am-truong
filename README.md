@@ -120,13 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Test
-
-https://github.com/forem/forem](https://dev.to/ben/testhttpsgithubcomforemforem-131p)
-- [SmartKNN v2 — Bigger, Faster, Smarter. Coming Soon.](https://dev.to/jashwanth_thatipamula_8ee/smartknn-v2-bigger-faster-smarter-coming-soon-607)
-- [🌟 The Ultimate Memory Hooks for AWS Certified AI Practitioner &lpar;AIF-C01&rpar;](https://dev.to/aws-builders/the-ultimate-memory-hooks-for-aws-certified-ai-practitioner-aif-c01-3jme)
-- [10 ChatGPT Alternatives Developers Should Actually Try in 2025](https://dev.to/blogai/10-chatgpt-alternatives-developers-should-actually-try-in-2025-59cj)
-- [AS-Flow AI – Next-Gen Productivity with Contextual AI](https://dev.to/asamaes/as-flow-ai-next-gen-productivity-with-contextual-ai-32d6)
+- [How I Built My Terraform Portfolio: Projects, Repos, and Lessons Learned](https://dev.to/aws-builders/how-i-built-my-terraform-portfolio-projects-repos-and-lessons-learned-2pa8)
+- [Building a WhatsApp Multi-Instance REST API with Go, Echo, and Whatsmeow 🚀](https://dev.to/suharyadi2112/building-a-whatsapp-multi-instance-rest-api-with-go-echo-and-whatsmeow-5bln)
+- [🚀 Terraform Day 2: Understanding Providers — The Bridge Between Code and Cloud](https://dev.to/jeeva_5c84a254e90842940dd/terraform-day-2-understanding-providers-the-bridge-between-code-and-cloud-2c9i)
+- [React2Shell &lpar;CVE-2025-55182&rpar;: Critical RCE in React Server Components and Next.js](https://dev.to/wilson_kinyua_5c56278131e/react2shell-cve-2025-55182-critical-rce-in-react-server-components-and-nextjs-hml)
+- [CHaOs Part-1 :&lpar;](https://dev.to/sanjay_kandpal_af365b5280/chaos-part-1--5bc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
