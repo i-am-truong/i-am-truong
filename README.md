@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Azure Introduces New Networking Updates for Better Security and Reliability](https://dev.to/arsalanmeee/azure-introduces-new-networking-updates-for-better-security-and-reliability-5682)
-- [Prism](https://dev.to/preetha_vaishnavi_2b82358/prism-4kki)
-- [Prismatic Fractal](https://dev.to/preetha_vaishnavi_2b82358/prismatic-fractal-397i)
-- [Prevent React Context Re-renders with Redux-Style Selectors](https://dev.to/hussnain_hashmi_984f16940/prevent-react-context-re-renders-with-redux-style-selectors-fjl)
-- [In 5 minutes, I&#39;ll show you how to build AI agents from scratch](https://dev.to/proflead/in-5-minutes-ill-show-you-how-to-build-ai-agents-from-scratch-3c9m)
+- [Day 12.Attach Volume to EC2 Instance](https://dev.to/thukhakyawe_cloud/day-12attach-volume-to-ec2-instance-1681)
+- [n8n: Credential - Google Contacts account](https://dev.to/codebangkok/n8n-credential-google-contacts-account-2ldg)
+- [Ein produktives Arbeitsleben braucht Struktur, nicht Apps: Ein Framework für Schlaf, Ergonomie, Fokus und Stress](https://dev.to/jens_r_4ac124fba483a5d950/ein-produktives-arbeitsleben-braucht-struktur-nicht-apps-ein-framework-fur-schlaf-ergonomie-4945)
+- [n8n: Credential - Google Tasks account](https://dev.to/codebangkok/n8n-credential-google-tasks-account-4845)
+- [Transform Conversations into Cash: Monetzly&#39;s SDK Integration](https://dev.to/monetzly/transform-conversations-into-cash-monetzlys-sdk-integration-31a4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
