@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [I can&#39;t render codes as a paragraph in React](https://dev.to/xolmatovsanjarbek/i-cant-render-codes-as-a-paragraph-in-react-438h)
+- [Trinity Protocol: How We Built a Cross-Chain Bridge That Can&#39;t Be Hacked](https://dev.to/chronosvault/trinity-protocol-how-we-built-a-cross-chain-bridge-that-cant-be-hacked-2kgl)
 - [2026 Red Team - Kendi Hacking Araçlarımızı Yazmayı Öğreniyoruz](https://dev.to/mintercoder/2026-red-team-kendi-hacking-araclarimizi-yazmayi-ogreniyoruz-oln)
 - [My 5-Day Journey into AI Agents 🚀](https://dev.to/mahadiosb/my-5-day-journey-into-ai-agents-2al3)
 - [AWS Glue ETL Jobs: Transform Your Data at Scale](https://dev.to/aws-builders/aws-glue-etl-jobs-transform-your-data-at-scale-2l4n)
-- [Advent of Code 2025 Day 2: Gift Shop 🎁](https://dev.to/kryko7/advent-of-code-2025-day-2-gift-shop-1lkn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
