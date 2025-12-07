@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Gold Price Calculator](https://dev.to/calculatordekho/gold-price-calculator-31a0)
-- [AI Jobs Are Not Ending — They Are Shifting: क्यों 2026 में AI आपकी नौकरी ले सकता है &lpar;अगर आप तैयार नहीं हैं&rpar;](https://dev.to/abhinavkumarshandilya/ai-jobs-are-not-ending-they-are-shifting-kyon-2026-men-ai-aapkii-naukrii-le-sktaa-hai-agr-aap-taiyaar-9j9)
-- [How I Published My Rust Bun Version Manager &lpar;bum&rpar; CLI to NPM Package](https://dev.to/owenizedd/how-i-published-my-rust-bun-version-manager-bum-cli-to-npm-package-16kb)
-- [[Update] VAC: A Memory Layer That Makes LLMs Remember You](https://dev.to/vacarchitector/update-vac-a-memory-layer-that-makes-llms-remember-you-3jn3)
-- [Boost Your Workflow: VS Code &amp; Terminal Essentials](https://dev.to/onebucks/boost-your-workflow-vs-code-terminal-essentials-42a5)
+- [I made a Cyberpunk themed calculator app](https://dev.to/spidroid381/i-made-a-cyberpunk-themed-calculator-app-5acb)
+- [AI Chatbots Induce Users to Share Data](https://dev.to/ndabene/ai-chatbots-induce-users-to-share-data-350c)
+- [Busting the AI Hype: What&#39;s Real, What&#39;s a Bubble?](https://dev.to/mabualzait/busting-the-ai-hype-whats-real-whats-a-bubble-58lk)
+- [Using Git version control: commit and push](https://dev.to/onebucks/using-git-version-control-commit-and-push-773)
+- [Manual testing techniques](https://dev.to/gokilavani/manual-testing-techniques-3mjm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
