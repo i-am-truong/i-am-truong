@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Energia Solar + Mercado Livre para MEI: Requisitos Técnicos em 2025](https://dev.to/ava_mendes/energia-solar-mercado-livre-para-mei-requisitos-tecnicos-em-2025-aig)
+- [💔 The Critical Rendering Path: A Love Story &lpar;But Mostly a Horror Story&rpar;](https://dev.to/abhinavshinoy90/the-critical-rendering-path-a-love-story-but-mostly-a-horror-story-55b2)
 - [Common IP Lookup Tools Developers and Users Actually Use](https://dev.to/myipnow/common-ip-lookup-tools-developers-and-users-actually-use-jh7)
-- [AWS CloudOps Engineer - Associate &lpar;SOA-C03&rpar;](https://dev.to/camille_chang/aws-cloudops-engineer-associate-soa-c03-5beh)
-- [Integration Testing with Real Databases Using Testcontainers](https://dev.to/imdj/integration-testing-with-real-databases-using-testcontainers-2k62)
-- [Why Shabe AI is the Top CRM for Solopreneurs in 2025](https://dev.to/shabe_ai/why-shabe-ai-is-the-top-crm-for-solopreneurs-in-2025-5bkc)
-- [The $300 Million Button: A Lesson in UX Engineering](https://dev.to/programevi/the-300-million-button-a-lesson-in-ux-engineering-2826)
+- [Why Your Website Is Slow &lpar;and Why It’s Probably Your Fault&rpar;](https://dev.to/abhinavshinoy90/why-your-website-is-slow-and-why-its-probably-your-fault-2k6)
+- [My First API-Posted Article](https://dev.to/vn_khi_4e5bf0a5a3697b33/my-first-api-posted-article-4m00)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
