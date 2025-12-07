@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Unified Create and Edit Form With NextJS](https://dev.to/butch_imperial_dd21d71158/unified-create-and-edit-form-with-nextjs-1g6p)
-- [When Someone Dismisses Your Work. Why You Should Keep Building Anyway](https://dev.to/olegkoval/when-someone-dismisses-your-work-why-you-should-keep-building-anyway-503o)
-- [Performance Revolution: Why I Re-engineered a Flutter Responsive Engine &lpar;Zero-Allocation &amp; Benchmarks&rpar; 🚀 flutter_scalify: ^2.0.2](https://dev.to/alaa989/performance-revolution-why-i-re-engineered-a-flutter-responsive-engine-zero-allocation--1pf0)
-- [Database Migration Guide: MySQL to PostgreSQL using pgloader and Prisma](https://dev.to/mohamed_ammar/database-migration-guide-mysql-to-postgresql-using-pgloader-and-prisma-4083)
-- [I Built an Open-Source Pipeline to Convert Documents into LLM Training Data](https://dev.to/yevh/i-built-an-open-source-pipeline-to-convert-documents-into-llm-training-data-37pb)
+- [🤖AI for Everyone: How byLLM &amp; A11yShape Are Redefining Inclusive Coding](https://dev.to/usman_awan/ai-for-everyone-how-byllm-a11yshape-are-redefining-inclusive-coding-2fg9)
+- [Web Developer Travis McCracken on The Most Overused Patterns in Backend Dev](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-most-overused-patterns-in-backend-dev-41ka)
+- [n8n: Credential - Jira SW Cloud API](https://dev.to/codebangkok/n8n-credential-jira-sw-cloud-api-n7f)
+- [How to implement Google OAuth in browser extension without “Tabs” permission](https://dev.to/notearthian/how-to-implement-google-oauth-in-browser-extension-without-tabs-permission-327m)
+- [Adapter Pattern Explained with Real Examples](https://dev.to/adrianbailador/adapter-pattern-explained-with-real-examples-314d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
