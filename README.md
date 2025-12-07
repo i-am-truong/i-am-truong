@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [7-Star Review: Switching from Windows to Mac Trackpad Review &lpar;With Real 16-Week Experience&rpar;](https://dev.to/nikithlive/7-star-review-switching-from-windows-to-mac-trackpad-review-with-real-16-week-experience-17n5)
-- [JavaScript From Zero to Hero: A Complete Guide for Beginners &amp; Intermediates](https://dev.to/farhadrahimiklie/javascript-from-zero-to-hero-a-complete-guide-for-beginners-intermediates-6i1)
-- [Advanced Image Optimization in React/Next.js: Device-Based Responsive Images for Peak Performance &lpar;Part 2&rpar;](https://dev.to/sizan_mahmud0_e7c3fd0cb68/advanced-image-optimization-in-reactnextjs-device-based-responsive-images-for-peak-performance-3llf)
-- [Today I learn HTML &amp; CSS fundamentals](https://dev.to/onebucks/today-i-learn-html-css-fundamentals-3jco)
-- [The Day I Watched MySQL Drop 47 Million Rows in 0.8 Seconds &lpar;And Why Your DDL Operations Are Probably Still Stuck in 2015&rpar;](https://dev.to/igornosatov_15/the-day-i-watched-mysql-drop-47-million-rows-in-08-seconds-and-why-your-ddl-operations-are-340h)
+- [Serverless Computing: From Basics to Advanced Concepts](https://dev.to/sameer_khanal_7a66fbe8002/serverless-computing-from-basics-to-advanced-concepts-3dgk)
+- [Maximize SDK Integration: How Monetzly Powers AI Conversation Revenue](https://dev.to/monetzly/maximize-sdk-integration-how-monetzly-powers-ai-conversation-revenue-12e8)
+- [Contributing to Larger Open Source Project - Scrapy](https://dev.to/denisc96/contributing-to-larger-open-source-project-scrapy-g84)
+- [Production AWS Deployment Simplified for everyone!](https://dev.to/aishwarygathe/production-aws-deployment-simplified-for-everyone-2nij)
+- [Winning AI Challenge for Cross-Platform Apps with Aroma_Have](https://dev.to/potheesh_15a42ffee19e/winning-ai-challenge-for-cross-platform-apps-with-aromahave-5cci)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
