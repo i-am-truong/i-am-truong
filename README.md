@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Monkey Market](https://dev.to/rmion/monkey-market-1bda)
-- [The Lovable.dev Migration Guide: Moving from personal GitHub to an organization &lpar;without breaking sync&rpar;](https://dev.to/danielbetterdevelopers/the-lovabledev-migration-guide-moving-from-personal-github-to-an-organization-without-breaking-100n)
-- [RAG Workflow Pack: Diagrams and Checklists](https://dev.to/dowhatmatters/rag-workflow-pack-diagrams-and-checklists-439m)
-- [Debugging Native Code in React Native: A Step-by-Step Guide &lpar;Android &amp; iOS&rpar;](https://dev.to/ajmal_hasan/debugging-native-code-in-react-native-a-step-by-step-guide-android-ios-14o3)
-- [Typical reinforcement learning process](https://dev.to/dipti_moryani_08e62702314/typical-reinforcement-learning-process-4mgp)
+- [The $300 Million Button: A Lesson in UX Engineering](https://dev.to/programevi/the-300-million-button-a-lesson-in-ux-engineering-2826)
+- [🏋️‍♂️ Spartan Racing, Software Development, and the Power of Relentless Grit](https://dev.to/franksmithiii/spartan-racing-software-development-and-the-power-of-relentless-grit-19nn)
+- [UnoDelivery App - AI Acceleration Challenge](https://dev.to/hctor_prez_606770454b73/unodelivery-app-ai-acceleration-challenge-3f83)
+- [HATEOAS – Do we have standard?](https://dev.to/pawe_sikora_5535c45ed2cc/hateoas-do-we-have-standard-je6)
+- [Full Sail University: How Formal Training Shaped My Approach](https://dev.to/bradleymatera/full-sail-university-how-formal-training-shaped-my-approach-66k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
