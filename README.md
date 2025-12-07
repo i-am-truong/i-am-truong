@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Unified Create and Edit Form With NextJS](https://dev.to/butch_imperial_dd21d71158/unified-create-and-edit-form-with-nextjs-1g6p)
+- [When Someone Dismisses Your Work. Why You Should Keep Building Anyway](https://dev.to/olegkoval/when-someone-dismisses-your-work-why-you-should-keep-building-anyway-503o)
 - [Performance Revolution: Why I Re-engineered a Flutter Responsive Engine &lpar;Zero-Allocation &amp; Benchmarks&rpar; 🚀 flutter_scalify: ^2.0.2](https://dev.to/alaa989/performance-revolution-why-i-re-engineered-a-flutter-responsive-engine-zero-allocation--1pf0)
 - [Database Migration Guide: MySQL to PostgreSQL using pgloader and Prisma](https://dev.to/mohamed_ammar/database-migration-guide-mysql-to-postgresql-using-pgloader-and-prisma-4083)
 - [I Built an Open-Source Pipeline to Convert Documents into LLM Training Data](https://dev.to/yevh/i-built-an-open-source-pipeline-to-convert-documents-into-llm-training-data-37pb)
-- [Sync any Linux folder to Google drive using Rclone + systemd.](https://dev.to/arunkrish11/sync-any-linux-folder-to-google-drive-using-rclone-systemd-8d2)
-- [6 Must-Read Spring Boot and Spring Framework Books for Java developers in 2026](https://dev.to/somadevtoo/6-must-read-spring-boot-and-spring-framework-books-for-java-developers-in-2026-3i1m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
