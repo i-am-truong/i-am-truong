@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AWS CloudOps Engineer - Associate &lpar;SOA-C03&rpar;](https://dev.to/camille_chang/aws-cloudops-engineer-associate-soa-c03-5beh)
 - [Why Shabe AI is the Top CRM for Solopreneurs in 2025](https://dev.to/shabe_ai/why-shabe-ai-is-the-top-crm-for-solopreneurs-in-2025-5bkc)
 - [The $300 Million Button: A Lesson in UX Engineering](https://dev.to/programevi/the-300-million-button-a-lesson-in-ux-engineering-2826)
 - [SEO for SaaS Is a System, Not a Tactic](https://dev.to/shalom_guillermo_ecc62079/seo-for-saas-is-a-system-not-a-tactic-2i1k)
 - [The *Real* Initialization Order of Java Classes &lpar;And a Subtle Pitfall&rpar;](https://dev.to/thellu/the-real-initialization-order-of-java-classes-and-a-subtle-pitfall-43ih)
-- [Debugging a Double Free in Crystal with libxml2, GDB, and Valgrind](https://dev.to/miry/debugging-a-double-free-in-crystal-with-libxml2-gdb-and-valgrind-17h7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
