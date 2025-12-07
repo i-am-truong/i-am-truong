@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🎮 **brkrs**: A Brand New Take on Classic Brick-Breaking – Play It, Tweak It, Own It!](https://dev.to/ldrscke/brkrs-a-brand-new-take-on-classic-brick-breaking-play-it-tweak-it-own-it-3254)
 - [AltSchool Of Engineering Tinyuka’24 Month 10 Week 2](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-10-week-2-4d7i)
+- [Testing Azure Functions: Unit Tests with Moq &amp; Integration Tests with Testcontainers](https://dev.to/imdj/testing-azure-functions-unit-tests-with-moq-integration-tests-with-testcontainers-43e6)
+- [🚀 Introducing MemCloud — Pool Unused RAM Across Machines on Your LAN &lpar;Rust, Zero-Config&rpar;](https://dev.to/vibhanshu_garg_01741359bc/introducing-memcloud-pool-unused-ram-across-machines-on-your-lan-rust-zero-config-5epn)
 - [Cognitive Overload vs Automation: When Smart Systems MakeHumans Dumber](https://dev.to/m_alikhan_81737f96944c1e/cognitive-overload-vs-automation-when-smart-systems-makehumans-dumber-4ajo)
-- [A clean collection of free browser tools &lpar;PDF, Image, Text &amp; Dev Utilities&rpar;](https://dev.to/fulltools4you/a-clean-collection-of-free-browser-tools-pdf-image-text-dev-utilities-513c)
-- [🚀 Breakout to Breakthrough: brkrs —The Rust Game Where Specs Become Code &lpar;and AI is Welcome!&rpar;](https://dev.to/ldrscke/breakout-to-breakthrough-brkrs-the-rust-game-where-specs-become-code-and-ai-is-welcome-4o9c)
-- [Protecting Seniors from Financial Fraud in the Face of the Local Scam Epidemic](https://dev.to/kvndlgs/protecting-seniors-from-financial-fraud-in-the-face-of-the-local-scam-epidemic-129f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
