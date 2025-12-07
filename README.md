@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Built DevJSON - Fast JSON Tools for Developers](https://dev.to/mahetapart91272/i-built-devjson-fast-json-tools-for-developers-1d24)
+- [Agentic patterns and architectural approaches in AI](https://dev.to/websilvercraft/agentic-patterns-and-architectural-approaches-in-ai-34b1)
 - [My first python app: TidyBit - a simple file manager](https://dev.to/vedaswaroop/my-first-python-app-tidybit-a-simple-file-manager-5epg)
-- [Discover OfficeForge: Enhance Microsoft Office with Open-Source Automation](https://dev.to/siliconcatalyst/discover-officeforge-enhance-microsoft-office-with-open-source-automation-2cci)
-- [Mastering Istio Canary Deployments: Full CI/CD Pipeline with Jenkins, GitHub Actions &amp; ArgoCD](https://dev.to/srinivasamcjf/mastering-istio-canary-deployments-full-cicd-pipeline-with-jenkins-github-actions-argocd-l1l)
-- [5 Powerful Web Platform Features You Probably Missed in 2025](https://dev.to/netsi1964/5-powerful-web-platform-features-you-probably-missed-in-2025-2pk5)
-- [Building a Modular Serverless ETL Pipeline on AWS with Terraform &amp; Lambda](https://dev.to/copubah/building-a-modular-serverless-etl-pipeline-on-aws-with-terraform-lambda-5hmf)
+- [Trauma-Informed React Hooks](https://dev.to/crisiscoresystems/trauma-informed-react-hooks-483n)
+- [[Personal Development] Developed a tech blog that can integrate Qiita articles with internal blogs](https://dev.to/kazutora_hattori_66972c88/personal-development-developed-a-tech-blog-that-can-integrate-qiita-articles-with-internal-blogs-5aj1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
