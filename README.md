@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Agentic AI: Amazon Nova Act and Strands Agents in Practice](https://dev.to/elianalamhost/building-agentic-ai-amazon-nova-act-and-strands-agents-in-practice-27ec)
+- [The Deterministic Problem with Probabilistic AI Analytics](https://dev.to/gigapress/the-deterministic-problem-with-probabilistic-ai-analytics-1n2)
+- [Link Shopify to Amazon: A Practical Step-by-Step Guide for Developers and Founders](https://dev.to/prateekshaweb/link-shopify-to-amazon-a-practical-step-by-step-guide-for-developers-and-founders-2n8m)
+- [Strategies to Avoid Redrawing Diagrams in Technical Work](https://dev.to/ishmam_jahan_4269b6f13ba5/strategies-to-avoid-redrawing-diagrams-in-technical-work-3i5f)
 - [MCP, Code, or Commands? A Decision Framework for AI Tool Integration](https://dev.to/vuong_ngo/mcp-code-or-commands-a-decision-framework-for-ai-tool-integration-2f30)
-- [7 Future-Proof Skills for 2026–2030 That AI Cannot Replace – Turn the AI Crisis into Your Biggest Opportunity](https://dev.to/abhinavkumarshandilya/7-future-proof-skills-for-2026-2030-that-ai-cannot-replace-turn-the-ai-crisis-into-your-biggest-5h36)
-- [Why AI Analytics Tools Are Solving the Wrong Problem](https://dev.to/gigapress/why-ai-analytics-tools-are-solving-the-wrong-problem-57da)
-- [I made a Cyberpunk themed calculator app](https://dev.to/spidroid381/i-made-a-cyberpunk-themed-calculator-app-5acb)
-- [AI Chatbots Induce Users to Share Data](https://dev.to/ndabene/ai-chatbots-induce-users-to-share-data-350c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
