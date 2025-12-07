@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Blockchain to Database: Synchronizing Soroban with PHP](https://dev.to/icolomina/from-blockchain-to-database-synchronizing-soroban-with-php-454k)
-- [Au-delà du Code Coverage : Guide pratique du Mutation Testing pour des applications robustes](https://dev.to/dgtech/au-dela-du-code-coverage-guide-pratique-du-mutation-testing-pour-des-applications-robustes-3bbo)
-- [Can you sell peptides on Shopify? Rules, risks, and a practical checklist for founders](https://dev.to/prateekshaweb/can-you-sell-peptides-on-shopify-rules-risks-and-a-practical-checklist-for-founders-5fl2)
-- [Update of “Fun project of the week, Mermaid flowcharts generator!” — V2 and more…](https://dev.to/aairom/update-of-fun-project-of-the-week-mermaid-flowcharts-generator-v2-and-more-562l)
-- [Agile Project Management: What It Is and the Main Principles Behind It](https://dev.to/guswoltmann84/agile-project-management-what-it-is-and-the-main-principles-behind-it-4l6d)
+- [CI/CD for Electron Desktop Apps Auto-Update, CDN, Azure Blob, Matrix Build &amp; OS-Level Security](https://dev.to/techwithhari/cicd-for-electron-desktop-apps-auto-update-cdn-azure-blob-matrix-build-os-level-security-2gg9)
+- [I Built a Free Meditation App Because Everyone Should Have Access to Peace](https://dev.to/cenyi/i-built-a-free-meditation-app-because-everyone-should-have-access-to-peace-13n6)
+- [Preciso de 12 testadores para liberar meu jogo na Google Play &lpar;fechamento de requisito obrigatório&rpar;](https://dev.to/lustosakev/preciso-de-12-testadores-para-liberar-meu-jogo-na-google-play-fechamento-de-requisito-obrigatorio-2j66)
+- [Beyond Basic RAG: 3 Advanced Architectures I Built to Fix AI Retrieval](https://dev.to/anthony_lee_63e96408d7573/beyond-basic-rag-3-advanced-architectures-i-built-to-fix-ai-retrieval-4e5b)
+- [SeaORM 2.0: New Entity Format](https://dev.to/seaql/seaorm-20-new-entity-format-5e3g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
