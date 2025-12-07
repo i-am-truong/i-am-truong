@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Humans or Monsters: The Moral Crisis of Our Species](https://dev.to/devamanali/humans-or-monsters-the-moral-crisis-of-our-species-le5)
+- [Top 10 Business Processes That Will Be Fully Automated by 2030 &lpar;Technical Breakdown&rpar;](https://dev.to/mdmamunkabir/top-10-business-processes-that-will-be-fully-automated-by-2030-technical-breakdown-4c92)
 - [AWS CLI: The Developer&#39;s Secret Weapon &lpar;And How to Keep It Secure&rpar;](https://dev.to/solegaonkar/aws-cli-the-developers-secret-weapon-and-how-to-keep-it-secure-5bf6)
-- [Stop Asking AI to Write Your Code. Ask It to Explain Like You’re 5.](https://dev.to/maame-codes/stop-asking-ai-to-write-your-code-ask-it-to-explain-like-youre-5-1ej)
-- [Building SaaS for Nigerian Traders: Technical Decisions Beyond the Stack](https://dev.to/tochukwu_dev/building-saas-for-nigerian-traders-technical-decisions-beyond-the-stack-m22)
-- [The €82,000 Blind Spot That Almost Sank a SaaS Company](https://dev.to/tracksimple/the-eu82000-blind-spot-that-almost-sank-a-saas-company-4na6)
-- [GPUI Component: Because Desktop Apps Shouldn&#39;t Make You Cry](https://dev.to/dev-tngsh/gpui-component-because-desktop-apps-shouldnt-make-you-cry-pkp)
+- [Series Week 11/52 - Predictable Testing: Reducing Surprises in Prod with realistic Non Prod testing](https://dev.to/nabhaas/series-week-1152-predictable-testing-reducing-surprises-in-prod-2n0h)
+- [Beyond “Fuck LeetCode”: A Practical Map from Burnout to Breakthrough](https://dev.to/alex_hunter_44f4c9ed6671e/beyond-fuck-leetcode-a-practical-map-from-burnout-to-breakthrough-34j7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
