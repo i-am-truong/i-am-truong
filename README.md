@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [# Day 7 — Patch &amp; Tool Maintenance &lpar;Deeper into the Forest&rpar;](https://dev.to/aerabi/-day-7-patch-tool-maintenance-deeper-into-the-forest-501h)
-- [How to Use Google Scholar for Prior Art Discovery](https://dev.to/patentscanai/how-to-use-google-scholar-for-prior-art-discovery-170d)
-- [Cover Hero](https://dev.to/preetha_vaishnavi_2b82358/cover-hero-5264)
-- [Manhole Cover](https://dev.to/preetha_vaishnavi_2b82358/manhole-cover-5842)
-- [Course: Design Your Startup Landing Page in 1 Week](https://dev.to/whitefoxx/course-design-your-startup-landing-page-in-1-week-al6)
+- [Building LogantonPA.com: AI, Azure Functions, and self-feeding content](https://dev.to/j4s0nc/building-logantonpacom-ai-azure-functions-and-self-feeding-content-4bm1)
+- [Passkeys and WebAuthn: A New Era in Passwordless Authentication](https://dev.to/iamdevbox/passkeys-and-webauthn-a-new-era-in-passwordless-authentication-2o6l)
+- [I traced a CPU spike to a massive botnet dashboard](https://dev.to/clegginabox/i-traced-a-cpu-spike-to-a-massive-botnet-dashboard-5cda)
+- [🌐✨ Web 4.0 — The Next Internet Revolution: What It Is, How It Works &amp; the Mind-Blowing Use Cases Ahead](https://dev.to/rakshannk/web-40-the-next-internet-revolution-what-it-is-how-it-works-the-mind-blowing-use-cases-37om)
+- [Why I Built a &#39;Three-No&#39; App in the Age of Surveillance](https://dev.to/elevenapril/why-i-built-a-three-no-app-in-the-age-of-surveillance-3pf5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
