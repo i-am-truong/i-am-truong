@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [# A Failed Compliance Audit in Azure DevOps: Rebuilding CI/CD with Policy as Code and Security Gates](https://dev.to/careerbytecode/-a-failed-compliance-audit-in-azure-devops-rebuilding-cicd-with-policy-as-code-and-security-gates-1nof)
+- [Waveterm: Streamlining Cloud and Remote Server Workflows](https://dev.to/stelixx-insider/waveterm-streamlining-cloud-and-remote-server-workflows-2poe)
+- [Delta-Oriented Programming from the Perspective of Reversible Computation](https://dev.to/canonical/delta-oriented-programming-from-the-perspective-of-reversible-computation-2oke)
+- [# When Azure Front Door Won&#39;t Fail Over: Lessons from a Real Multi-Region DR Drill](https://dev.to/careerbytecode/-when-azure-front-door-wont-fail-over-lessons-from-a-real-multi-region-dr-drill-4dpa)
 - [Typescript/JavaScript Book Recommendations](https://dev.to/jmcln/typescriptjavascript-book-recommendations-4ig3)
-- [Top 13 Figma Icon Plugins For Free in 2025](https://dev.to/rojainebnaatik/figma-icon-plugins-45bk)
-- [I built a free crypto arbitrage detector with intelligent scoring - here&#39;s the tech stack](https://dev.to/carlvays/i-built-a-free-crypto-arbitrage-detector-with-intelligent-scoring-heres-the-tech-stack-2aj1)
-- [AI agents are human too](https://dev.to/johanschuijt/ai-agents-are-human-too-3ah2)
-- [Day 10.Attach Elastic IP to EC2 Instance](https://dev.to/thukhakyawe_cloud/day-10attach-elastic-ip-to-ec2-instance-cka)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
