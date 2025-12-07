@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[2025 Strategy] Create AI UGC Ads for Health &amp; Fitness Brands](https://dev.to/getkoro_app/2025-strategy-create-ai-ugc-ads-for-health-fitness-brands-20lh)
+- [How Serverless Shrinks PCI Scope](https://dev.to/dortort/how-serverless-shrinks-pci-scope-2b81)
 - [How S3 Vectors Work: A Friendly Guide to AWS’s New Vector Store](https://dev.to/aws-builders/how-s3-vectors-work-a-friendly-guide-to-awss-new-vector-store-3f1d)
 - [I built a simple desktop media downloader with a clean UI — Flucto &lpar;open-source, cross-platform&rpar;](https://dev.to/declanjeon/i-built-a-simple-desktop-media-downloader-with-a-clean-ui-flucto-open-source-cross-platform-lf6)
 - [J’ai créé un mini-template HTML/CSS simple pour m’entraîner – vos retours ?](https://dev.to/skillnova_5727c8d82bc503c/jai-cree-un-mini-template-htmlcss-simple-pour-mentrainer-vos-retours--4248)
-- [CI/CD for Electron Desktop Apps Auto-Update, CDN, Azure Blob, Matrix Build &amp; OS-Level Security](https://dev.to/techwithhari/cicd-for-electron-desktop-apps-auto-update-cdn-azure-blob-matrix-build-os-level-security-2gg9)
-- [Angular v19+ — Understanding @defer: Blocks, Triggers, and Deferrable Views &lpar;Part 2&rpar; 🔥🚀](https://dev.to/ggalassi/angular-v19-understanding-defer-blocks-triggers-and-deferrable-views-part-2-31kj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
