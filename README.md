@@ -120,11 +120,13 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I can&#39;t render codes as a paragraph in React](https://dev.to/xolmatovsanjarbek/i-cant-render-codes-as-a-paragraph-in-react-438h)
-- [Trinity Protocol: How We Built a Cross-Chain Bridge That Can&#39;t Be Hacked](https://dev.to/chronosvault/trinity-protocol-how-we-built-a-cross-chain-bridge-that-cant-be-hacked-2kgl)
-- [2026 Red Team - Kendi Hacking Araçlarımızı Yazmayı Öğreniyoruz](https://dev.to/mintercoder/2026-red-team-kendi-hacking-araclarimizi-yazmayi-ogreniyoruz-oln)
-- [My 5-Day Journey into AI Agents 🚀](https://dev.to/mahadiosb/my-5-day-journey-into-ai-agents-2al3)
-- [AWS Glue ETL Jobs: Transform Your Data at Scale](https://dev.to/aws-builders/aws-glue-etl-jobs-transform-your-data-at-scale-2l4n)
+- [Test
+
+https://github.com/forem/forem](https://dev.to/ben/testhttpsgithubcomforemforem-131p)
+- [SmartKNN v2 — Bigger, Faster, Smarter. Coming Soon.](https://dev.to/jashwanth_thatipamula_8ee/smartknn-v2-bigger-faster-smarter-coming-soon-607)
+- [🌟 The Ultimate Memory Hooks for AWS Certified AI Practitioner &lpar;AIF-C01&rpar;](https://dev.to/aws-builders/the-ultimate-memory-hooks-for-aws-certified-ai-practitioner-aif-c01-3jme)
+- [10 ChatGPT Alternatives Developers Should Actually Try in 2025](https://dev.to/blogai/10-chatgpt-alternatives-developers-should-actually-try-in-2025-59cj)
+- [AS-Flow AI – Next-Gen Productivity with Contextual AI](https://dev.to/asamaes/as-flow-ai-next-gen-productivity-with-contextual-ai-32d6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
