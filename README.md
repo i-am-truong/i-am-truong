@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What *Exactly* Is a Function in Python? &lpar;And Why Devs Love Them!&rpar;](https://dev.to/halakabir234hub/what-exactly-is-a-function-in-python-and-why-devs-love-them-3dc6)
-- [PostgreSQL Log Viewing](https://dev.to/fazliakca/postgresql-log-viewing-3ok5)
-- [PostgreSQL Merge Into](https://dev.to/fazliakca/postgresql-merge-into-35o0)
-- [Oracle Merge Into](https://dev.to/fazliakca/oracle-merge-into-3gkc)
-- [Dynamic List Data Authority](https://dev.to/fazliakca/dynamic-list-data-authority-15l9)
+- [Architecting an Uber-scale real-time tracking &amp; dispatch system](https://dev.to/madhur_banger/architecting-an-uber-scale-real-time-tracking-dispatch-system-3a72)
+- [**The Rise of Neuro-inspired Autonomous Robots for Search an](https://dev.to/drcarlosruizviquez/the-rise-of-neuro-inspired-autonomous-robots-for-search-an-4d91)
+- [Building an Effect Runtime in TypeScript: My little detour into Fibers and Structured Concurrency](https://dev.to/baldrvivaldelli/building-an-effect-runtime-in-typescript-my-little-detour-into-fibers-and-structured-concurrency-mad)
+- [Best Laptops Under $800 in 2025 – I Bought and Tested 12 Myself](https://dev.to/honest_laptopreview_de83d/best-laptops-under-800-in-2025-i-bought-and-tested-12-myself-3cea)
+- [Ubuntu 24.04 Cheat-Sheet for MC-Server Support &lpar;Everything I Use&rpar;](https://dev.to/navickas/ubuntu-2404-cheat-sheet-for-mc-server-support-everything-i-use-4ied)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
