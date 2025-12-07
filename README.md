@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AltSchool Of Engineering Tinyuka’24 Month 10 Week 2](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-10-week-2-4d7i)
+- [Cognitive Overload vs Automation: When Smart Systems MakeHumans Dumber](https://dev.to/m_alikhan_81737f96944c1e/cognitive-overload-vs-automation-when-smart-systems-makehumans-dumber-4ajo)
+- [A clean collection of free browser tools &lpar;PDF, Image, Text &amp; Dev Utilities&rpar;](https://dev.to/fulltools4you/a-clean-collection-of-free-browser-tools-pdf-image-text-dev-utilities-513c)
 - [🚀 Breakout to Breakthrough: brkrs —The Rust Game Where Specs Become Code &lpar;and AI is Welcome!&rpar;](https://dev.to/ldrscke/breakout-to-breakthrough-brkrs-the-rust-game-where-specs-become-code-and-ai-is-welcome-4o9c)
-- [Energia Solar + Mercado Livre para MEI: Requisitos Técnicos em 2025](https://dev.to/ava_mendes/energia-solar-mercado-livre-para-mei-requisitos-tecnicos-em-2025-aig)
-- [💔 The Critical Rendering Path: A Love Story &lpar;But Mostly a Horror Story&rpar;](https://dev.to/abhinavshinoy90/the-critical-rendering-path-a-love-story-but-mostly-a-horror-story-55b2)
-- [Common IP Lookup Tools Developers and Users Actually Use](https://dev.to/myipnow/common-ip-lookup-tools-developers-and-users-actually-use-jh7)
-- [Why Your Website Is Slow &lpar;and Why It’s Probably Your Fault&rpar;](https://dev.to/abhinavshinoy90/why-your-website-is-slow-and-why-its-probably-your-fault-2k6)
+- [Protecting Seniors from Financial Fraud in the Face of the Local Scam Epidemic](https://dev.to/kvndlgs/protecting-seniors-from-financial-fraud-in-the-face-of-the-local-scam-epidemic-129f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
