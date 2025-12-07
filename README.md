@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Terraform Functions: Where Your Infrastructure Gets Superpowers](https://dev.to/ekefan/terraform-functions-where-your-infrastructure-gets-superpowers-3n2e)
 - [2025-12-07 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-07-daily-ai-news-12a2)
+- [How a Frontline Doctor Entered a 4,800+Participant AI Hackathon in Dubai Alone and Won, Revealing the Future of Healthcare](https://dev.to/fuyuto_miyake_bb066ab4841/how-a-frontline-doctor-entered-a-4000-participant-ai-hackathon-in-dubai-alone-and-won-revealing-oa3)
+- [Будуємо надійні системи Responsible Gaming на Go: Ліміти, самовиключення та архітектурні рішення](https://dev.to/4mars/buduiemo-nadiini-sistiemi-responsible-gaming-na-go-limiti-samovikliuchiennia-ta-arkhitiekturni-rishiennia-2k0g)
 - [ChatGPT Search Just Changed the Game—Here&#39;s How to Actually Rank in AI Answer Engines](https://dev.to/synergistdigitalmedia/chatgpt-search-just-changed-the-game-heres-how-to-actually-rank-in-ai-answer-engines-265p)
-- [Write Once, Deploy Everywhere: Mastering Terraform&#39;s Expression Toolkit](https://dev.to/ekefan/write-once-deploy-everywhere-mastering-terraforms-expression-toolkit-48c8)
-- [Installing Paper Minecraft on Ubuntu 24.04: Issues I Ran Into &amp; How I Fixed Them](https://dev.to/navickas/installing-paper-minecraft-on-ubuntu-2404-issues-i-ran-into-how-i-fixed-them-2ik9)
-- [Why Your MySQL Database Thinks &quot;café&quot; &quot;café&quot;](https://dev.to/igornosatov_15/why-your-mysql-database-thinks-cafe-cafe-4ic7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
