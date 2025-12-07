@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Write Once, Deploy Everywhere: Mastering Terraform&#39;s Expression Toolkit](https://dev.to/ekefan/write-once-deploy-everywhere-mastering-terraforms-expression-toolkit-48c8)
+- [Installing Paper Minecraft on Ubuntu 24.04: Issues I Ran Into &amp; How I Fixed Them](https://dev.to/navickas/installing-paper-minecraft-on-ubuntu-2404-issues-i-ran-into-how-i-fixed-them-2ik9)
+- [Why Your MySQL Database Thinks &quot;café&quot; &quot;café&quot;](https://dev.to/igornosatov_15/why-your-mysql-database-thinks-cafe-cafe-4ic7)
+- [The Narada Attack: Editorial Architecture for Chaos Injection and Adversarial Drift](https://dev.to/narnaiezzsshaa/the-narada-attack-editorial-architecture-for-chaos-injection-and-adversarial-drift-gio)
 - [How APIs Really Work: A Beginner’s Guide to Building and Understanding Backend Endpoints](https://dev.to/whoisefosa/how-apis-really-work-a-beginners-guide-to-building-and-understanding-backend-endpoints-1c30)
-- [**Cybersecurity AI Challenge: &quot;Evasive Evasion&quot;**](https://dev.to/drcarlosruizviquez/cybersecurity-ai-challenge-evasive-evasion-10hc)
-- [Level Up Your Infrastructure: Mastering Terraform&#39;s Lifecycle Meta-arguments](https://dev.to/ekefan/level-up-your-infrastructure-mastering-terraforms-lifecycle-meta-arguments-4d8g)
-- [The VeritasChain Protocol: A Cryptographic Audit Standard for the Algorithmic Trading Era](https://dev.to/veritaschain/the-veritaschain-protocol-a-cryptographic-audit-standard-for-the-algorithmic-trading-era-1cck)
-- [Lessons From &quot;Dependency Injection Principles, Practices, and Patterns&quot;](https://dev.to/g-fuchter/lessons-from-dependency-injection-principles-practices-and-patterns-48li)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
