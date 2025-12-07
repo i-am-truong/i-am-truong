@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [EchoSense Pitch](https://dev.to/milewski/echosense-pitch-1l5o)
-- [Housekeeping My Neovim Configuration](https://dev.to/m15a/housekeeping-my-neovim-configuration-4kim)
-- [Day 12 : Santa Claus 🎅🏻 - CSS Advent Calendar 2024](https://dev.to/preetha_vaishnavi_2b82358/day-12-santa-claus-css-advent-calendar-2024-1eii)
-- [Discover 7 Professional CSS Tools to Boost Your Design &amp; Development Workflow — From Codezelo](https://dev.to/devmahmoudadel/discover-7-professional-css-tools-to-boost-your-design-development-workflow-from-codezelo-45o3)
-- [My First Dev Learning App Is Live on Google Play! &lpar;Made with Jetpack Compose&rpar;](https://dev.to/nikos_nick_2965cf961244a2/my-first-dev-learning-app-is-live-on-google-play-made-with-jetpack-compose-2ol5)
+- [Azure Introduces New Networking Updates for Better Security and Reliability](https://dev.to/arsalanmeee/azure-introduces-new-networking-updates-for-better-security-and-reliability-5682)
+- [Prism](https://dev.to/preetha_vaishnavi_2b82358/prism-4kki)
+- [Prismatic Fractal](https://dev.to/preetha_vaishnavi_2b82358/prismatic-fractal-397i)
+- [Prevent React Context Re-renders with Redux-Style Selectors](https://dev.to/hussnain_hashmi_984f16940/prevent-react-context-re-renders-with-redux-style-selectors-fjl)
+- [In 5 minutes, I&#39;ll show you how to build AI agents from scratch](https://dev.to/proflead/in-5-minutes-ill-show-you-how-to-build-ai-agents-from-scratch-3c9m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
