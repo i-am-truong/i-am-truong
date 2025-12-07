@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AWS CLI: The Developer&#39;s Secret Weapon &lpar;And How to Keep It Secure&rpar;](https://dev.to/solegaonkar/aws-cli-the-developers-secret-weapon-and-how-to-keep-it-secure-5bf6)
+- [Stop Asking AI to Write Your Code. Ask It to Explain Like You’re 5.](https://dev.to/maame-codes/stop-asking-ai-to-write-your-code-ask-it-to-explain-like-youre-5-1ej)
 - [Building SaaS for Nigerian Traders: Technical Decisions Beyond the Stack](https://dev.to/tochukwu_dev/building-saas-for-nigerian-traders-technical-decisions-beyond-the-stack-m22)
 - [The €82,000 Blind Spot That Almost Sank a SaaS Company](https://dev.to/tracksimple/the-eu82000-blind-spot-that-almost-sank-a-saas-company-4na6)
-- [Is Tailwind actually slow?](https://dev.to/yoskutik/is-tailwind-actually-slow-533d)
 - [GPUI Component: Because Desktop Apps Shouldn&#39;t Make You Cry](https://dev.to/dev-tngsh/gpui-component-because-desktop-apps-shouldnt-make-you-cry-pkp)
-- [Why Context Engineering Is Replacing Prompt Engineering](https://dev.to/aiwithapex/why-context-engineering-is-replacing-prompt-engineering-10nh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
