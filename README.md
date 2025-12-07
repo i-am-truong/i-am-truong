@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[2025 Strategy] Create AI UGC Ads for Health &amp; Fitness Brands](https://dev.to/getkoro_app/2025-strategy-create-ai-ugc-ads-for-health-fitness-brands-20lh)
-- [How Serverless Shrinks PCI Scope](https://dev.to/dortort/how-serverless-shrinks-pci-scope-2b81)
-- [How S3 Vectors Work: A Friendly Guide to AWS’s New Vector Store](https://dev.to/aws-builders/how-s3-vectors-work-a-friendly-guide-to-awss-new-vector-store-3f1d)
-- [I built a simple desktop media downloader with a clean UI — Flucto &lpar;open-source, cross-platform&rpar;](https://dev.to/declanjeon/i-built-a-simple-desktop-media-downloader-with-a-clean-ui-flucto-open-source-cross-platform-lf6)
-- [J’ai créé un mini-template HTML/CSS simple pour m’entraîner – vos retours ?](https://dev.to/skillnova_5727c8d82bc503c/jai-cree-un-mini-template-htmlcss-simple-pour-mentrainer-vos-retours--4248)
+- [Performance Revolution: Why I Re-engineered a Flutter Responsive Engine &lpar;Zero-Allocation &amp; Benchmarks&rpar; 🚀 flutter_scalify: ^2.0.2](https://dev.to/alaa989/performance-revolution-why-i-re-engineered-a-flutter-responsive-engine-zero-allocation--1pf0)
+- [Sync any Linux folder to Google drive using Rclone + systemd.](https://dev.to/arunkrish11/sync-any-linux-folder-to-google-drive-using-rclone-systemd-8d2)
+- [6 Must-Read Spring Boot and Spring Framework Books for Java developers in 2026](https://dev.to/somadevtoo/6-must-read-spring-boot-and-spring-framework-books-for-java-developers-in-2026-3i1m)
+- [Post 5/10 — From Ingress to Gateway API: Safer, Smarter Traffic Control](https://dev.to/cloud-sky-ops/post-510-from-ingress-to-gateway-api-safer-smarter-traffic-control-4od4)
+- [VSL Studio Reviews: Uncover Features, Pricing &amp; Bonuses](https://dev.to/nitin_kumar_17cc42ffd493d/vsl-studio-reviews-uncover-features-pricing-bonuses-kbd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
