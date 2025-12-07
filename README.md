@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From Blockchain to Database: Synchronizing Soroban with PHP](https://dev.to/icolomina/from-blockchain-to-database-synchronizing-soroban-with-php-454k)
 - [Au-delà du Code Coverage : Guide pratique du Mutation Testing pour des applications robustes](https://dev.to/dgtech/au-dela-du-code-coverage-guide-pratique-du-mutation-testing-pour-des-applications-robustes-3bbo)
 - [Can you sell peptides on Shopify? Rules, risks, and a practical checklist for founders](https://dev.to/prateekshaweb/can-you-sell-peptides-on-shopify-rules-risks-and-a-practical-checklist-for-founders-5fl2)
 - [Update of “Fun project of the week, Mermaid flowcharts generator!” — V2 and more…](https://dev.to/aairom/update-of-fun-project-of-the-week-mermaid-flowcharts-generator-v2-and-more-562l)
 - [Agile Project Management: What It Is and the Main Principles Behind It](https://dev.to/guswoltmann84/agile-project-management-what-it-is-and-the-main-principles-behind-it-4l6d)
-- [Probabilistic Graph Neural Inference for satellite anomaly response operations during mission-critical recovery windows](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-satellite-anomaly-response-operations-during-2d36)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
