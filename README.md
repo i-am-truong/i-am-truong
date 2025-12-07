@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GBC Scorecard: Figma ➡️ Token-Rewarding Golf App with Uno Hot Design Agent 🏌️‍♂️💰](https://dev.to/datadr1ven/gbc-scorecard-figma-token-rewarding-golf-app-with-uno-hot-design-agent-g9m)
 - [Day 12.Attach Volume to EC2 Instance](https://dev.to/thukhakyawe_cloud/day-12attach-volume-to-ec2-instance-1681)
 - [n8n: Credential - Google Contacts account](https://dev.to/codebangkok/n8n-credential-google-contacts-account-2ldg)
 - [Ein produktives Arbeitsleben braucht Struktur, nicht Apps: Ein Framework für Schlaf, Ergonomie, Fokus und Stress](https://dev.to/jens_r_4ac124fba483a5d950/ein-produktives-arbeitsleben-braucht-struktur-nicht-apps-ein-framework-fur-schlaf-ergonomie-4945)
 - [n8n: Credential - Google Tasks account](https://dev.to/codebangkok/n8n-credential-google-tasks-account-4845)
-- [Transform Conversations into Cash: Monetzly&#39;s SDK Integration](https://dev.to/monetzly/transform-conversations-into-cash-monetzlys-sdk-integration-31a4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
