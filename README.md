@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🎨 The Ultimate CSS Framework Collection: 50+ Frameworks to Transform Your Web Projects](https://dev.to/thebitforge/the-ultimate-css-framework-collection-50-frameworks-to-transform-your-web-projects-3eob)
-- [Python by Structure: Context Managers and the &#39;with&#39; Statement](https://dev.to/aaron_rose_0787cc8b4775a0/python-by-structure-context-managers-and-the-with-statement-20ab)
-- [Humans or Monsters: The Moral Crisis of Our Species](https://dev.to/devamanali/humans-or-monsters-the-moral-crisis-of-our-species-le5)
-- [10 Calendar Tools That Can Instantly Improve Your Productivity in 2025](https://dev.to/bakhat_yar_016451bb6f3b86/10-calendar-tools-that-can-instantly-improve-your-productivity-in-2025-3d60)
-- [Top 10 Business Processes That Will Be Fully Automated by 2030 &lpar;Technical Breakdown&rpar;](https://dev.to/mdmamunkabir/top-10-business-processes-that-will-be-fully-automated-by-2030-technical-breakdown-4c92)
+- [Binary weighted evaluations...how to](https://dev.to/marcosomma/binary-weighted-evaluationshow-to-1a1p)
+- [[Boost]](https://dev.to/anthonymax/-4gbp)
+- [🔍 Multi-Query Retriever RAG: How to Dramatically Improve Your AI&#39;s Document Retrieval Accuracy](https://dev.to/sreeni5018/multi-query-retriever-rag-how-to-dramatically-improve-your-ais-document-retrieval-accuracy-5892)
+- [Title: Exploring the DevOps Mindset: Why It’s More Than Just Tools](https://dev.to/sameer_khanal_7a66fbe8002/title-exploring-the-devops-mindset-why-its-more-than-just-tools-58pi)
+- [How Much Does the Average Shopify Store Make Per Month?](https://dev.to/prateekshaweb/how-much-does-the-average-shopify-store-make-per-month-b4k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
