@@ -122,9 +122,9 @@ Python                   1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [EchoSense Pitch](https://dev.to/milewski/echosense-pitch-1l5o)
 - [Housekeeping My Neovim Configuration](https://dev.to/m15a/housekeeping-my-neovim-configuration-4kim)
-- [Building LogantonPA.com: AI, Azure Functions, and self-feeding content](https://dev.to/j4s0nc/building-logantonpacom-ai-azure-functions-and-self-feeding-content-4bm1)
-- [Passkeys and WebAuthn: A New Era in Passwordless Authentication](https://dev.to/iamdevbox/passkeys-and-webauthn-a-new-era-in-passwordless-authentication-2o6l)
-- [I traced a CPU spike to a massive botnet dashboard](https://dev.to/clegginabox/i-traced-a-cpu-spike-to-a-massive-botnet-dashboard-5cda)
+- [Day 12 : Santa Claus 🎅🏻 - CSS Advent Calendar 2024](https://dev.to/preetha_vaishnavi_2b82358/day-12-santa-claus-css-advent-calendar-2024-1eii)
+- [Discover 7 Professional CSS Tools to Boost Your Design &amp; Development Workflow — From Codezelo](https://dev.to/devmahmoudadel/discover-7-professional-css-tools-to-boost-your-design-development-workflow-from-codezelo-45o3)
+- [My First Dev Learning App Is Live on Google Play! &lpar;Made with Jetpack Compose&rpar;](https://dev.to/nikos_nick_2965cf961244a2/my-first-dev-learning-app-is-live-on-google-play-made-with-jetpack-compose-2ol5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
