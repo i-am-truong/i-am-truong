@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Discover OfficeForge: Enhance Microsoft Office with Open-Source Automation](https://dev.to/siliconcatalyst/discover-officeforge-enhance-microsoft-office-with-open-source-automation-2cci)
 - [Mastering Istio Canary Deployments: Full CI/CD Pipeline with Jenkins, GitHub Actions &amp; ArgoCD](https://dev.to/srinivasamcjf/mastering-istio-canary-deployments-full-cicd-pipeline-with-jenkins-github-actions-argocd-l1l)
+- [5 Powerful Web Platform Features You Probably Missed in 2025](https://dev.to/netsi1964/5-powerful-web-platform-features-you-probably-missed-in-2025-2pk5)
+- [Building a Modular Serverless ETL Pipeline on AWS with Terraform &amp; Lambda](https://dev.to/copubah/building-a-modular-serverless-etl-pipeline-on-aws-with-terraform-lambda-5hmf)
 - [No Backend, No Excuses: Building a Pain Tracker That Doesn&#39;t Sell You Out](https://dev.to/crisiscoresystems/no-backend-no-excuses-building-a-pain-tracker-that-doesnt-sell-you-out-118j)
-- [Building Stable AI Ecosystems With a Shared Meaning Root](https://dev.to/canonicalfunnel/building-stable-ai-ecosystems-with-a-shared-meaning-root-22n8)
-- [🚀 SWAG : Le Reverse Proxy Docker qui va révolutionner votre homelab !](https://dev.to/onepoint/swag-le-reverse-proxy-docker-qui-va-revolutionner-votre-homelab--1ik4)
-- [Urgent Security Update from Next.js](https://dev.to/r_muthukumaran_06172892/urgent-security-update-from-nextjs-11nd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
