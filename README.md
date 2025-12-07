@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Modern CSS Layout Techniques: Flexbox, Grid, and Subgrid &lpar;2025 Guide&rpar;](https://dev.to/frontendtoolstech/modern-css-layout-techniques-flexbox-grid-and-subgrid-2025-guide-112f)
-- [JavaScript Design Patterns Explained &lpar;2025 Guide&rpar;](https://dev.to/frontendtoolstech/javascript-design-patterns-explained-2025-guide-3j4a)
-- [How I Built My Terraform Portfolio: Projects, Repos, and Lessons Learned](https://dev.to/aws-builders/how-i-built-my-terraform-portfolio-projects-repos-and-lessons-learned-2pa8)
-- [Building a WhatsApp Multi-Instance REST API with Go, Echo, and Whatsmeow 🚀](https://dev.to/suharyadi2112/building-a-whatsapp-multi-instance-rest-api-with-go-echo-and-whatsmeow-5bln)
-- [🚀 Terraform Day 2: Understanding Providers — The Bridge Between Code and Cloud](https://dev.to/jeeva_5c84a254e90842940dd/terraform-day-2-understanding-providers-the-bridge-between-code-and-cloud-2c9i)
+- [Monkey Market](https://dev.to/rmion/monkey-market-1bda)
+- [The Lovable.dev Migration Guide: Moving from personal GitHub to an organization &lpar;without breaking sync&rpar;](https://dev.to/danielbetterdevelopers/the-lovabledev-migration-guide-moving-from-personal-github-to-an-organization-without-breaking-100n)
+- [RAG Workflow Pack: Diagrams and Checklists](https://dev.to/dowhatmatters/rag-workflow-pack-diagrams-and-checklists-439m)
+- [Debugging Native Code in React Native: A Step-by-Step Guide &lpar;Android &amp; iOS&rpar;](https://dev.to/ajmal_hasan/debugging-native-code-in-react-native-a-step-by-step-guide-android-ios-14o3)
+- [Typical reinforcement learning process](https://dev.to/dipti_moryani_08e62702314/typical-reinforcement-learning-process-4mgp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
