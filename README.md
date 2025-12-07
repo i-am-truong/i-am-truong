@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🎮 **brkrs**: A Brand New Take on Classic Brick-Breaking – Play It, Tweak It, Own It!](https://dev.to/ldrscke/brkrs-a-brand-new-take-on-classic-brick-breaking-play-it-tweak-it-own-it-3254)
-- [AltSchool Of Engineering Tinyuka’24 Month 10 Week 2](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-10-week-2-4d7i)
-- [Testing Azure Functions: Unit Tests with Moq &amp; Integration Tests with Testcontainers](https://dev.to/imdj/testing-azure-functions-unit-tests-with-moq-integration-tests-with-testcontainers-43e6)
-- [🚀 Introducing MemCloud — Pool Unused RAM Across Machines on Your LAN &lpar;Rust, Zero-Config&rpar;](https://dev.to/vibhanshu_garg_01741359bc/introducing-memcloud-pool-unused-ram-across-machines-on-your-lan-rust-zero-config-5epn)
-- [Cognitive Overload vs Automation: When Smart Systems MakeHumans Dumber](https://dev.to/m_alikhan_81737f96944c1e/cognitive-overload-vs-automation-when-smart-systems-makehumans-dumber-4ajo)
+- [Why I built vLitejs, a fast and flexible native video and audio player](https://dev.to/yoriiis/why-i-built-vlitejs-a-fast-and-flexible-native-video-and-audio-player-2c26)
+- [🎮 *brkrs*: A Brand New Take on Classic Brick-Breaking – Play It, Tweak It, Own It!](https://dev.to/ldrscke/brkrs-a-brand-new-take-on-classic-brick-breaking-play-it-tweak-it-own-it-3254)
+- [Building a Unified Benchmarking Pipeline for Computer Vision — Without Rewriting Code for Every Task](https://dev.to/michalsegal11/building-a-unified-benchmarking-pipeline-for-computer-vision-without-rewriting-code-for-every-task-3978)
+- [I have limited time and many interest :&#39;&rpar;](https://dev.to/abisarwan-go/i-have-limited-time-and-many-interest--35gm)
+- [The Hidden Vulnerabilities in Your Authentication System: A Deep Dive into Timing Attacks, IP Spoofing, and Race Conditions](https://dev.to/edgi/the-hidden-vulnerabilities-in-your-authentication-system-a-deep-dive-into-timing-attacks-ip-5k9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
