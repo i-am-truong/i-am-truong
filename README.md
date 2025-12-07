@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Checkbox Aria TagHelper](https://dev.to/karenpayneoregon/checkbox-aria-taghelper-g6b)
-- [Electrifying AI with Code: A Spark of Innovation](https://dev.to/mabualzait/electrifying-ai-with-code-a-spark-of-innovation-5cd6)
-- [I Built a Fully Local Prompt Enhancer Chrome Extension with Gemini Nano](https://dev.to/harvesh_kumar/i-built-a-fully-local-prompt-enhancer-chrome-extension-with-gemini-nano-1m5m)
-- [How to Read &amp; Understand Config Files.](https://dev.to/kaustubhyerkade/how-to-read-understand-config-files-neg)
-- [Advent of Code 2025 - December 7th](https://dev.to/robvanderleek/advent-of-code-2025-december-7th-3j94)
+- [What *Exactly* Is a Function in Python? &lpar;And Why Devs Love Them!&rpar;](https://dev.to/halakabir234hub/what-exactly-is-a-function-in-python-and-why-devs-love-them-3dc6)
+- [PostgreSQL Log Viewing](https://dev.to/fazliakca/postgresql-log-viewing-3ok5)
+- [PostgreSQL Merge Into](https://dev.to/fazliakca/postgresql-merge-into-35o0)
+- [Oracle Merge Into](https://dev.to/fazliakca/oracle-merge-into-3gkc)
+- [Dynamic List Data Authority](https://dev.to/fazliakca/dynamic-list-data-authority-15l9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
