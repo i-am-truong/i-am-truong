@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Modern CSS Layout Techniques: Flexbox, Grid, and Subgrid &lpar;2025 Guide&rpar;](https://dev.to/frontendtoolstech/modern-css-layout-techniques-flexbox-grid-and-subgrid-2025-guide-112f)
+- [JavaScript Design Patterns Explained &lpar;2025 Guide&rpar;](https://dev.to/frontendtoolstech/javascript-design-patterns-explained-2025-guide-3j4a)
 - [How I Built My Terraform Portfolio: Projects, Repos, and Lessons Learned](https://dev.to/aws-builders/how-i-built-my-terraform-portfolio-projects-repos-and-lessons-learned-2pa8)
 - [Building a WhatsApp Multi-Instance REST API with Go, Echo, and Whatsmeow 🚀](https://dev.to/suharyadi2112/building-a-whatsapp-multi-instance-rest-api-with-go-echo-and-whatsmeow-5bln)
 - [🚀 Terraform Day 2: Understanding Providers — The Bridge Between Code and Cloud](https://dev.to/jeeva_5c84a254e90842940dd/terraform-day-2-understanding-providers-the-bridge-between-code-and-cloud-2c9i)
-- [React2Shell &lpar;CVE-2025-55182&rpar;: Critical RCE in React Server Components and Next.js](https://dev.to/wilson_kinyua_5c56278131e/react2shell-cve-2025-55182-critical-rce-in-react-server-components-and-nextjs-hml)
-- [CHaOs Part-1 :&lpar;](https://dev.to/sanjay_kandpal_af365b5280/chaos-part-1--5bc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
