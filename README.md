@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Testing Blog](https://dev.to/inupurnomo/testing-blog-1l99)
-- [RouteHaven Review: A Field-Tested Tour Booking Theme That Actually Ships](https://dev.to/sofi_morilla_c57a1e216ce6/routehaven-review-a-field-tested-tour-booking-theme-that-actually-ships-683)
-- [🤖AI for Everyone: How byLLM &amp; A11yShape Are Redefining Inclusive Coding](https://dev.to/usman_awan/ai-for-everyone-how-byllm-a11yshape-are-redefining-inclusive-coding-2fg9)
-- [SafeMapX — A New Universal Pattern to Eliminate Null Checks, Ternaries &amp; String Plumbing in C#](https://dev.to/sandy_bassi_cc2d82d21b407/safemapx-a-new-universal-pattern-to-eliminate-null-checks-ternaries-string-plumbing-in-c-3pp9)
-- [Monetzly: Transforming AI Conversations into Developer Revenue](https://dev.to/monetzly/monetzly-transforming-ai-conversations-into-developer-revenue-3ec0)
+- [Typescript/JavaScript Book Recommendations](https://dev.to/jmcln/typescriptjavascript-book-recommendations-4ig3)
+- [Top 13 Figma Icon Plugins For Free in 2025](https://dev.to/rojainebnaatik/figma-icon-plugins-45bk)
+- [I built a free crypto arbitrage detector with intelligent scoring - here&#39;s the tech stack](https://dev.to/carlvays/i-built-a-free-crypto-arbitrage-detector-with-intelligent-scoring-heres-the-tech-stack-2aj1)
+- [AI agents are human too](https://dev.to/johanschuijt/ai-agents-are-human-too-3ah2)
+- [Day 10.Attach Elastic IP to EC2 Instance](https://dev.to/thukhakyawe_cloud/day-10attach-elastic-ip-to-ec2-instance-cka)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
