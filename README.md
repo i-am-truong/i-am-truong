@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Image Generator](https://dev.to/hctor_prez_606770454b73/ai-image-generator-5297)
-- [🚀 Supercharge Your Compose Performance with the Stability Insights Plugin!](https://dev.to/francopaul/supercharge-your-compose-performance-with-the-stability-insights-plugin-77o)
-- [Soft skills can be learned too](https://dev.to/bridget_amana/soft-skills-can-be-learned-too-3n26)
-- [Top Basic Interview Questions for Freshers &lpar;HR + Technical&rpar; — A Complete Beginner Guide](https://dev.to/abhishek-nexgen-dev/top-basic-interview-questions-for-freshers-hr-technical-a-complete-beginner-guide-27bl)
-- [AI Dominates Global Tech Scene with Major Investments, Product Launches, and Ethical Debates](https://dev.to/stelixx-insights/ai-dominates-global-tech-scene-with-major-investments-product-launches-and-ethical-debates-2n61)
+- [7-Star Review: Switching from Windows to Mac Trackpad Review &lpar;With Real 16-Week Experience&rpar;](https://dev.to/nikithlive/7-star-review-switching-from-windows-to-mac-trackpad-review-with-real-16-week-experience-17n5)
+- [JavaScript From Zero to Hero: A Complete Guide for Beginners &amp; Intermediates](https://dev.to/farhadrahimiklie/javascript-from-zero-to-hero-a-complete-guide-for-beginners-intermediates-6i1)
+- [Advanced Image Optimization in React/Next.js: Device-Based Responsive Images for Peak Performance &lpar;Part 2&rpar;](https://dev.to/sizan_mahmud0_e7c3fd0cb68/advanced-image-optimization-in-reactnextjs-device-based-responsive-images-for-peak-performance-3llf)
+- [Today I learn HTML &amp; CSS fundamentals](https://dev.to/onebucks/today-i-learn-html-css-fundamentals-3jco)
+- [The Day I Watched MySQL Drop 47 Million Rows in 0.8 Seconds &lpar;And Why Your DDL Operations Are Probably Still Stuck in 2015&rpar;](https://dev.to/igornosatov_15/the-day-i-watched-mysql-drop-47-million-rows-in-08-seconds-and-why-your-ddl-operations-are-340h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
