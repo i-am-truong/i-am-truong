@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Share your experience](https://dev.to/vidakhoshpey22/share-your-experience-315d)
-- [3 Practical Ways to Build Your Own AI Model &lpar;For Any Skill Level&rpar;](https://dev.to/art_light/3-practical-ways-to-build-your-own-ai-model-for-any-skill-level-223c)
-- [Google&#39;s December 2024 Core Update Hit E-Commerce Hard: Here&#39;s What Actually Changed](https://dev.to/synergistdigitalmedia/googles-december-2024-core-update-hit-e-commerce-hard-heres-what-actually-changed-533b)
-- [Advent of Code 2025 - December 6th](https://dev.to/robvanderleek/advent-of-code-2025-december-6th-1d14)
-- [Terrace Shop A headless Shopify store built for modern football terrace culture.](https://dev.to/saidmounaim/terrace-shop-a-headless-shopify-store-built-for-modern-football-terrace-culture-1h74)
+- [AI Image Generator](https://dev.to/hctor_prez_606770454b73/ai-image-generator-5297)
+- [🚀 Supercharge Your Compose Performance with the Stability Insights Plugin!](https://dev.to/francopaul/supercharge-your-compose-performance-with-the-stability-insights-plugin-77o)
+- [Soft skills can be learned too](https://dev.to/bridget_amana/soft-skills-can-be-learned-too-3n26)
+- [Top Basic Interview Questions for Freshers &lpar;HR + Technical&rpar; — A Complete Beginner Guide](https://dev.to/abhishek-nexgen-dev/top-basic-interview-questions-for-freshers-hr-technical-a-complete-beginner-guide-27bl)
+- [AI Dominates Global Tech Scene with Major Investments, Product Launches, and Ethical Debates](https://dev.to/stelixx-insights/ai-dominates-global-tech-scene-with-major-investments-product-launches-and-ethical-debates-2n61)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
