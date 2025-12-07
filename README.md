@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Binary weighted evaluations...how to](https://dev.to/marcosomma/binary-weighted-evaluationshow-to-1a1p)
-- [[Boost]](https://dev.to/anthonymax/-4gbp)
-- [🔍 Multi-Query Retriever RAG: How to Dramatically Improve Your AI&#39;s Document Retrieval Accuracy](https://dev.to/sreeni5018/multi-query-retriever-rag-how-to-dramatically-improve-your-ais-document-retrieval-accuracy-5892)
-- [Title: Exploring the DevOps Mindset: Why It’s More Than Just Tools](https://dev.to/sameer_khanal_7a66fbe8002/title-exploring-the-devops-mindset-why-its-more-than-just-tools-58pi)
-- [How Much Does the Average Shopify Store Make Per Month?](https://dev.to/prateekshaweb/how-much-does-the-average-shopify-store-make-per-month-b4k)
+- [No Backend, No Excuses: Building a Pain Tracker That Doesn&#39;t Sell You Out](https://dev.to/crisiscoresystems/no-backend-no-excuses-building-a-pain-tracker-that-doesnt-sell-you-out-118j)
+- [Building Stable AI Ecosystems With a Shared Meaning Root](https://dev.to/canonicalfunnel/building-stable-ai-ecosystems-with-a-shared-meaning-root-22n8)
+- [🚀 SWAG : Le Reverse Proxy Docker qui va révolutionner votre homelab !](https://dev.to/onepoint/swag-le-reverse-proxy-docker-qui-va-revolutionner-votre-homelab--1ik4)
+- [Urgent Security Update from Next.js](https://dev.to/r_muthukumaran_06172892/urgent-security-update-from-nextjs-11nd)
+- [Client-Side Encryption for Healthcare Apps](https://dev.to/crisiscoresystems/client-side-encryption-for-healthcare-apps-dhm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
