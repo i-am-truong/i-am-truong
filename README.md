@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SvelteKit Remote Functions Workaround Helpers](https://dev.to/jdgamble555/sveltekit-remote-functions-workaround-helpers-4k8c)
+- [Dual-Use Mythological Frameworks: How Narada Encodes Both Attack and Defense in AI/ML Security](https://dev.to/narnaiezzsshaa/dual-use-mythological-frameworks-how-narada-encodes-both-attack-and-defense-in-aiml-security-516i)
 - [THE ROLE OF EXCEL IN BUSINESS INTELLIGENCE AND DATA DRIVEN DECISION MAKING](https://dev.to/mubarakah_aderinkola/the-role-of-excel-in-business-intelligence-and-data-driven-decision-making-5cap)
 - [Terraform Functions: Where Your Infrastructure Gets Superpowers](https://dev.to/ekefan/terraform-functions-where-your-infrastructure-gets-superpowers-3n2e)
 - [The Architect&#39;s Journey: Building SERP-Scout and the Meta Lessons of AI Development](https://dev.to/aieverything2k/the-architects-journey-building-serp-scout-and-the-meta-lessons-of-ai-development-52ai)
-- [Hello World in Neutralinojs](https://dev.to/csm18/hello-world-in-neutralinojs-4e99)
-- [I built an open-source Windows optimization tool – free to use](https://dev.to/ahmetly_/i-built-an-open-source-windows-optimization-tool-free-to-use-10nc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
