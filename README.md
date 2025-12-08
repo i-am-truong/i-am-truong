@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [UDA-Q Agent: Universal AI Data Quality Evaluator &amp; Auto-Fixer](https://dev.to/b_praveenkumar_32c7d46b0/uda-q-agent-universal-ai-data-quality-evaluator-auto-fixer-o42)
-- [3 Competências essenciais para programar com IA em 2026](https://dev.to/pachicodes/3-competencias-essenciais-para-programar-com-ia-em-2026-2156)
-- [O novo organograma: CAIO, AI Risk Officer e companhia](https://dev.to/angelo_matias/o-novo-organograma-caio-ai-risk-officer-e-companhia-4djg)
-- [Attracting Top Talent: Effective Talent Acquisition in Aviation Manufacturing](https://dev.to/sheba-kumari/attracting-top-talent-effective-talent-acquisition-in-aviation-manufacturing-ld6)
-- [WhatsApp Username Reservation Feature Coming Soon for Android iOS](https://dev.to/allbetainfo/whatsapp-username-reservation-feature-coming-soon-for-android-ios-3bkk)
+- [🔥 Day 7: PySpark Joins, Unions, and GroupBy Guide](https://dev.to/sandeepk27/day-7-pyspark-joins-unions-and-groupby-guide-472l)
+- [AI Won&#39;t Take Your Job &lpar;But Fear Might&rpar;](https://dev.to/crawleyprint_71/ai-wont-take-your-job-but-fear-might-5e3o)
+- [2025-12-08 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-08-daily-ai-news-1pfg)
+- [Why You Need to Manage AI Like a New Hire](https://dev.to/al_goodniss_roguecoderz/why-you-need-to-manage-ai-like-a-new-hire-4boh)
+- [1925. Count Square Sum Triples](https://dev.to/mdarifulhaque/1925-count-square-sum-triples-5fpe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
