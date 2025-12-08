@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Prompting to Planning: My Week with AI Agents](https://dev.to/kuber_jain_511bfeb1233f24/from-prompting-to-planning-my-week-with-ai-agents-15n8)
-- [OWASP Top 10 2025 Quiz: Week 1 &lpar;51 Questions&rpar;](https://dev.to/fosres/owasp-top-10-2025-quiz-test-your-appsec-interview-readiness-51-questions-397n)
-- [AWS re:Invent 2025 - Master AI model development with Amazon SageMaker AI &lpar;AIM272&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-master-ai-model-development-with-amazon-sagemaker-ai-aim272-4p12)
-- [AWS re:Invent 2025 - The Evolution of AWS Skills Validation &lpar;TNC106&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-the-evolution-of-aws-skills-validation-tnc106-5bkj)
-- [AWS re:Invent 2025 - Accelerate development velocity with better code reviews &lpar;DVT344&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-accelerate-development-velocity-with-better-code-reviews-dvt344-1f5n)
+- [We Need To Talk About AI Agent Architectures](https://dev.to/morganwilliscloud/we-need-to-talk-about-ai-agent-architectures-4n49)
+- [Major Update v1.2](https://dev.to/adzhydra/major-update-v12-1dpf)
+- [WordPress Headless: ¿Es el Futuro del CMS?](https://dev.to/joaquin_sez_6de09e190ca1/wordpress-headless-es-el-futuro-del-cms-3flj)
+- [How to Convert JSON to TOON: 4 Methods Compared](https://dev.to/panilya/how-to-convert-json-to-toon-4-methods-compared-c0f)
+- [AWS re:Invent 2025 - The bill shock that taught me cost optimization &lpar;DEV208&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-the-bill-shock-that-taught-me-cost-optimization-dev208-3nm5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
