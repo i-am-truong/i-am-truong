@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Sparse Federated Representation Learning for sustainable aquaculture monitoring systems for low-power autonomous deployments](https://dev.to/rikinptl/sparse-federated-representation-learning-for-sustainable-aquaculture-monitoring-systems-for-34j2)
-- [📌 How Software Engineers Can Stay Relevant in the Age of AI](https://dev.to/trinidad_trinidad_47e4d4f/how-software-engineers-can-stay-relevant-in-the-age-of-ai-44al)
-- [Digital Life Engine: A Tamagotchi-as-a-Service API built with Xano](https://dev.to/the_nortern_dev/digital-life-engine-a-tamagotchi-as-a-service-api-built-with-xano-2df7)
-- [Saga Orchestration in .NET with CQRS, Event Sourcing, Hydration &amp; Event Propagation](https://dev.to/coorayntl/saga-orchestration-in-net-with-cqrs-event-sourcing-hydration-event-propagation-2nof)
-- [Lights, Camera, Publish! Dev.to Now Supports Video Cover Links](https://dev.to/notadevbuthere/lights-camera-publish-devto-now-supports-video-cover-links-1omk)
+- [No More VMs: Run Oracle Database 23ai Natively on Apple Silicon in Seconds](https://dev.to/smyekh/no-more-vms-run-oracle-database-23ai-natively-on-apple-silicon-in-seconds-5dof)
+- [Creating, Running, and Managing Python Projects in Visual Studio](https://dev.to/carl_max007/creating-running-and-managing-python-projects-in-visual-studio-33ea)
+- [Introduction](https://dev.to/esther_okafor_5a68bc4c5c8/introduction-3bil)
+- [Why Automating Product Data Validation Matters &lpar;And How Modern Teams Actually Do It&rpar;](https://dev.to/olivia_20dbd2aa062e456ef8/why-automating-product-data-validation-matters-and-how-modern-teams-actually-do-it-94b)
+- [How are you adapting your design process for AI in 2026? What&#39;s your plan?](https://dev.to/emma_schmidt_/how-are-you-adapting-your-design-process-for-ai-in-2026-whats-your-plan-32lp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
