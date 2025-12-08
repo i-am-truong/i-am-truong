@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Perl 🐪 Weekly #750 - Perl Advent Calendar 2025](https://dev.to/szabgab/perl-weekly-750-perl-advent-calendar-2025-1aga)
-- [Bounds vs. Frame and can frame be less than bounds?](https://dev.to/alekseibarinov/bounds-vs-frame-and-can-frame-be-less-than-bounds-5ga0)
-- [Chatbot vs Agent : Understanding the Architecture, Tools and Memory Layer](https://dev.to/yeahiasarker/chatbot-vs-agent-understanding-the-architecture-tools-and-memory-layer-3gop)
-- [Where Art Meets Identity A Local’s Guide to Getting a Tattoo in Croydon](https://dev.to/nsdtattoo/where-art-meets-identity-a-locals-guide-to-getting-a-tattoo-in-croydon-oon)
-- [How to Build a Real-Time Video Calling App in Flutter Using ZEGOCLOUD &lpar;No WebRTC Needed&rpar;](https://dev.to/hazem_hamdy_9fb/how-to-build-a-real-time-video-calling-app-in-flutter-using-zegocloud-no-webrtc-needed-ml8)
+- [What is AI Agent Evaluation](https://dev.to/kamya_shah_e69d5dd78f831c/what-is-ai-agent-evaluation-1d5l)
+- [Refactoring a Mature Airflow Project: A Practical Guide to Scaling from Solo Development to Team Collaboration](https://dev.to/ajitkumar/refactoring-a-mature-airflow-project-a-practical-guide-to-scaling-from-solo-development-to-team-i4p)
+- [How to Debug LLM Failures: A Practical Guide for AI Engineers](https://dev.to/kuldeep_paul/how-to-debug-llm-failures-a-practical-guide-for-ai-engineers-n27)
+- [Stop Using JS for CSS](https://dev.to/ahmed_niazy/stop-using-js-for-css-3i6i)
+- [Part 2: Securing Salesforce AI Agents: A Comprehensive Security Framework](https://dev.to/nidhi_sharma_d5c7d974d2df/part-2-securing-salesforce-ai-agents-a-comprehensive-security-framework-3a9i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
