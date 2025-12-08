@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AWS Terraform Functions – Part 2](https://dev.to/adarsh_gupta_c5fecf658fd7/aws-terraform-functions-part-2-430e)
-- [n8n AI Automation Workflows: 5 Templates That Save 100+ Hours](https://dev.to/joe_joe/n8n-ai-automation-workflows-5-templates-that-save-100-hours-46fg)
-- [A Practical Guide to Supabase: Setting up a Database, Auth, and Integrating Resend](https://dev.to/yeagoo/a-practical-guide-to-supabase-setting-up-a-database-auth-and-integrating-resend-obe)
-- [How to Fix “Broken Formatting” in Excel &lpar;Quick Repair Guide&rpar;](https://dev.to/vedad_borovac_pxc/how-to-fix-broken-formatting-in-excel-quick-repair-guide-2h0g)
-- [The best developer productivity tools in 2025](https://dev.to/kodus/the-best-developer-productivity-tools-in-2025-pkf)
+- [Calm under Pressure](https://dev.to/meganpropps/calm-under-pressure-2m90)
+- [Improve Site Performance by Auditing Unused Code](https://dev.to/bridget_amana/improve-site-performance-by-auditing-unused-code-20ag)
+- [n8n: Microsoft Excel - Append data to sheet](https://dev.to/codebangkok/n8n-microsoft-excel-365-append-data-to-sheet-2dp4)
+- [A New Architecture Is Emerging: Inside the Agentic AI Shift in Software Engineering](https://dev.to/mehdi_hasan_8f743627459e8/a-new-architecture-is-emerging-inside-the-agentic-ai-shift-in-software-engineering-4a2)
+- [Wrote a javascript booklet!](https://dev.to/bostinj/wrote-a-javascript-booklet-459h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
