@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 13.Create AMI from EC2 Instance](https://dev.to/thukhakyawe_cloud/day-13create-ami-from-ec2-instance-44e6)
-- [Why So Many People Say “Fuck LeetCode” — And What to Do About It](https://dev.to/alex_hunter_44f4c9ed6671e/why-so-many-people-say-fuck-leetcode-and-what-to-do-about-it-50lh)
-- [Why People Say “F*** LeetCode”: Difficulty, Fairness, Real-World Value — and a Better Way](https://dev.to/alex_hunter_44f4c9ed6671e/why-people-say-f-leetcode-difficulty-fairness-real-world-value-and-a-better-way-1p79)
-- [Làm chìa khóa smartkey vision nhanh chóng và chất lượng tại Hồ Chí Minh](https://dev.to/link_back_248d8e2428dabe9/lam-chia-khoa-smartkey-vision-nhanh-chong-va-chat-luong-tai-ho-chi-minh-3cdc)
-- [Building Images: From Manual Commits to the Dockerfile Revolution](https://dev.to/sahillearninglinux/building-images-from-manual-commits-to-the-dockerfile-revolution-548c)
+- [Weekend Rec Builds: 3D Print Estimator](https://dev.to/ksolomon/weekend-rec-builds-3d-print-estimator-3pk9)
+- [The Switzerland of AI Tooling: Inside TanStack AI’s Bold New Approach](https://dev.to/usman_awan/the-switzerland-of-ai-tooling-inside-tanstack-ais-bold-new-approach-1cbb)
+- [A Lightweight Way to Preserve Developer Notes Without Formatting Drift](https://dev.to/knowadvance_c5092984a5b66/a-lightweight-way-to-preserve-developer-notes-without-formatting-drift-kf2)
+- [Building Your First REST API with Spring Boot](https://dev.to/deividas-strole/building-your-first-rest-api-with-spring-boot-1be3)
+- [Introducing Constructivist AI: A New Approach to Machine Learning](https://dev.to/danexcodr/introducing-constructivist-ai-a-new-approach-to-machine-learning-18g4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
