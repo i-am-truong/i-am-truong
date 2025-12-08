@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The One Question That Changed How I Work with LLMs!](https://dev.to/sara_hajbi/how-i-work-with-llms-13ni)
-- [8 Blockchain Networks Developers Prefer for Building Scalable Applications in 2025](https://dev.to/chikieabby/8-blockchain-networks-developers-prefer-for-building-scalable-applications-in-2025-2bce)
-- [The 12-Week AWS workshop challenge: Week 1 - Cloud Fundamentals](https://dev.to/paula_ali/the-12-week-aws-workshop-challenge-week-1-cloud-fundamentals-4j6m)
-- [Estratégias de Crescimento: Como Impulsionar Seu Negócio em 2024](https://dev.to/movin/estrategias-de-crescimento-como-impulsionar-seu-negocio-em-2024-347c)
-- [Building and Growing PS Home Maintenance: Challenges, C++ Implementation, and Future Vision](https://dev.to/trustedhandymanx/building-and-growing-ps-home-maintenance-challenges-c-implementation-and-future-vision-2amd)
+- [Understanding Market Movements: A Deep Look at Today’s Top Losers in NSE and BSE](https://dev.to/toplosers/understanding-market-movements-a-deep-look-at-todays-top-losers-in-nse-and-bse-2hcm)
+- [Data-Driven Commerce with AI &amp; Personalization](https://dev.to/wecodefutures/data-driven-commerce-with-ai-personalization-1pm3)
+- [Why Software Is Not a Technical Choice — It’s a Business Strategy](https://dev.to/drilonhametaj25/why-software-is-not-a-technical-choice-its-a-business-strategy-cn6)
+- [I built a Sankey chart to map document reading paths](https://dev.to/howard_shaw_3c36a3a6cb900/i-built-a-sankey-chart-to-map-document-reading-paths-95o)
+- [Blue Team vs Red Team vs Purple Team](https://dev.to/russell/blue-team-vs-red-team-vs-purple-team-4o8c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
