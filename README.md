@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [React vs Vue vs Svelte — Which One Should You Learn in 2025?](https://dev.to/roshaan_tahir/react-vs-vue-vs-svelte-which-one-should-you-learn-in-2025-4o8l)
-- [Advent of AI 2025 - Day 5: I Built a Touchless Flight Tracker You Control With Hand Gestures](https://dev.to/nickytonline/advent-of-ai-2025-day-5-i-built-a-touchless-flight-tracker-you-control-with-hand-gestures-1jn8)
-- [Day 58: Python Run-Length Encoding &lpar;RLE&rpar; – Compress Strings Like a Pro with This Ultra-Simple O&lpar;n&rpar; Trick](https://dev.to/shahrouzlogs/day-58-python-run-length-encoding-rle-compress-strings-like-a-pro-with-this-ultra-simple-on-2l12)
-- [The Paradigm Shift: Key Differences in Agentic AI vs Traditional AI Development](https://dev.to/ioweb_961ddefd53bd65fce97/the-paradigm-shift-key-differences-in-agentic-ai-vs-traditional-ai-development-2fbl)
-- [digital marketing course](https://dev.to/soni_kumari_802e62836ec2a/digital-marketing-course-310c)
+- [Perl 🐪 Weekly #750 - Perl Advent Calendar 2025](https://dev.to/szabgab/perl-weekly-750-perl-advent-calendar-2025-1aga)
+- [Bounds vs. Frame and can frame be less than bounds?](https://dev.to/alekseibarinov/bounds-vs-frame-and-can-frame-be-less-than-bounds-5ga0)
+- [Chatbot vs Agent : Understanding the Architecture, Tools and Memory Layer](https://dev.to/yeahiasarker/chatbot-vs-agent-understanding-the-architecture-tools-and-memory-layer-3gop)
+- [Where Art Meets Identity A Local’s Guide to Getting a Tattoo in Croydon](https://dev.to/nsdtattoo/where-art-meets-identity-a-locals-guide-to-getting-a-tattoo-in-croydon-oon)
+- [How to Build a Real-Time Video Calling App in Flutter Using ZEGOCLOUD &lpar;No WebRTC Needed&rpar;](https://dev.to/hazem_hamdy_9fb/how-to-build-a-real-time-video-calling-app-in-flutter-using-zegocloud-no-webrtc-needed-ml8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
