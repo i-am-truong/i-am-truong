@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Best SQL Clients for ERD Modeling in 2025](https://dev.to/dbvismarketing/best-sql-clients-for-erd-modeling-in-2025-1aj6)
-- [Roast Café by GranZant](https://dev.to/granzant/roast-cafe-by-granzant-18me)
-- [Modern Cloud Data Strategies for a Scalable and Resilient Future](https://dev.to/kapusto/modern-cloud-data-strategies-for-a-scalable-and-resilient-future-468j)
-- [Understanding Boundary Value Analysis: A Key Technique in Software Testing](https://dev.to/sri_ram_af45956066fca623f/understanding-boundary-value-analysis-a-key-technique-in-software-testing-4561)
-- [Level Up Your Career: Using Copilot for Interview Prep &amp; Self-Assessment](https://dev.to/balagmadhu/level-up-your-career-using-copilot-for-interview-prep-self-assessment-4c9m)
+- [BrandForge Pro - A comprehensive brand identity generator using Gemini Pro for strategy and Imagen for high-fidelity visuals.](https://dev.to/anasmasama/brandforge-pro-a-comprehensive-brand-identity-generator-using-gemini-pro-for-strategy-and-imagen-3ld4)
+- [A Developer’s Guide to Domain Types: What They Mean and How to Choose the Right One](https://dev.to/badass_tech-ae2025/a-developers-guide-to-domain-types-what-they-mean-and-how-to-choose-the-right-one-2g8g)
+- [Mastering Wildcards in Linux: *, ?, and [] for Efficient File Management](https://dev.to/agentic-jj/mastering-wildcards-in-linux-and-for-efficient-file-management-1gg7)
+- [🔥 Day 7: Mastering Joins, Unions, and GroupBy in PySpark - The Core ETL Operations](https://dev.to/sandeepk27/day-7-mastering-joins-unions-and-groupby-in-pyspark-the-core-etl-operations-3ihe)
+- [WhisprGeo – I just built a location-based voice note app &lpar;looking for feedback!&rpar;](https://dev.to/whispr_geo_10c645c36c4432/whisprgeo-i-just-built-a-location-based-voice-note-app-looking-for-feedback-9al)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
