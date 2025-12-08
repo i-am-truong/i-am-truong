@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Calm under Pressure](https://dev.to/meganpropps/calm-under-pressure-2m90)
-- [Improve Site Performance by Auditing Unused Code](https://dev.to/bridget_amana/improve-site-performance-by-auditing-unused-code-20ag)
-- [n8n: Microsoft Excel - Append data to sheet](https://dev.to/codebangkok/n8n-microsoft-excel-365-append-data-to-sheet-2dp4)
-- [A New Architecture Is Emerging: Inside the Agentic AI Shift in Software Engineering](https://dev.to/mehdi_hasan_8f743627459e8/a-new-architecture-is-emerging-inside-the-agentic-ai-shift-in-software-engineering-4a2)
-- [Wrote a javascript booklet!](https://dev.to/bostinj/wrote-a-javascript-booklet-459h)
+- [I Spent $12K Testing Meta&#39;s AI Ad Tools So You Don&#39;t Have To](https://dev.to/synergistdigitalmedia/i-spent-12k-testing-metas-ai-ad-tools-so-you-dont-have-to-3njc)
+- [metaForge: A Multi-Language Build &amp; Automation Compiler](https://dev.to/alsops/metaforge-a-multi-language-build-automation-compiler-251k)
+- [How to Use Lined Printables to Improve Your Study or Coding Workflow](https://dev.to/bakhat_yar_016451bb6f3b86/how-to-use-lined-printables-to-improve-your-study-or-coding-workflow-p82)
+- [Building a Zero-Downtime CI/CD Pipeline: Blue-Green Deployments for 100K+ Daily Requests](https://dev.to/sangwoo_rhie/zero-downtime-blue-green-deployment-with-github-actions-docker-multi-stage-builds-and-nginx-695)
+- [becoming a full stack developer](https://dev.to/ujjawal_patel_9baa51e6bf5/becoming-a-full-stack-developer-2245)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
