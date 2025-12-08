@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Built My Own AI Ecosystem Across Brands](https://dev.to/jaideepparashar/how-i-built-my-own-ai-ecosystem-across-brands-44gp)
-- [Ruby CSV Parsing 5-6x Faster](https://dev.to/sebyx07/ruby-csv-parsing-5-6x-faster-1n45)
-- [Usage Based Billing: A Practical Guide for Engineers](https://dev.to/nkassetty/usage-based-billing-a-practical-guide-for-engineers-1ncc)
-- [I Spent 1.5 Years Trying to Build a Language Model From Scratch — Why I Wrote an 854-Page Book](https://dev.to/lakhera2015/i-spent-15-years-trying-to-build-a-language-model-from-scratch-why-i-wrote-an-854-page-book-48mb)
-- [The Secret Life of JavaScript: Let, Const, and Why Variables Are Complicated](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-let-const-and-why-variables-are-complicated-2gkk)
+- [Day 13.Create AMI from EC2 Instance](https://dev.to/thukhakyawe_cloud/day-13create-ami-from-ec2-instance-44e6)
+- [Why So Many People Say “Fuck LeetCode” — And What to Do About It](https://dev.to/alex_hunter_44f4c9ed6671e/why-so-many-people-say-fuck-leetcode-and-what-to-do-about-it-50lh)
+- [Why People Say “F*** LeetCode”: Difficulty, Fairness, Real-World Value — and a Better Way](https://dev.to/alex_hunter_44f4c9ed6671e/why-people-say-f-leetcode-difficulty-fairness-real-world-value-and-a-better-way-1p79)
+- [Làm chìa khóa smartkey vision nhanh chóng và chất lượng tại Hồ Chí Minh](https://dev.to/link_back_248d8e2428dabe9/lam-chia-khoa-smartkey-vision-nhanh-chong-va-chat-luong-tai-ho-chi-minh-3cdc)
+- [Building Images: From Manual Commits to the Dockerfile Revolution](https://dev.to/sahillearninglinux/building-images-from-manual-commits-to-the-dockerfile-revolution-548c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
