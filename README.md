@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 18: Python programming](https://dev.to/aruna_arun_0cda4eb425bb0f/day-18-python-programming-32k6)
+- [BitsInBinary is building a free tech ecosystem — tools, learning content, and a community designed for students and developers. No paywalls. No barriers. Just value. 🚀](https://dev.to/asadityasonu/bitsinbinary-is-building-a-free-tech-ecosystem-tools-learning-content-and-a-community-designed-4i1b)
+- [APIs de tradução em nuvem estão com os dias contados](https://dev.to/paulinhoprado/apis-de-traducao-em-nuvem-estao-com-os-dias-contados-5fph)
+- [**Technical AI Sports Coach Challenge: &#39;Adaptive Tactical Fo](https://dev.to/drcarlosruizviquez/technical-ai-sports-coach-challenge-adaptive-tactical-fo-6bf)
 - [Your Essential Guide to Smart, Sustainable Cultivation with BioCAZ &amp; CAZAG](https://dev.to/clean_airzon_f525ac253ba/your-essential-guide-to-smart-sustainable-cultivation-with-biocaz-cazag-3i11)
-- [Volevo smettere di fare lo sviluppatore software e iniziare a fare l&#39;imbianchino...](https://dev.to/michele_carino_69b654f06d/volevo-smettere-di-fare-lo-sviluppatore-e-aprire-una-ditta-da-imbianchino-1ade)
-- [What Is Web Design? &lpar;Beginner-Friendly Explanation&rpar;](https://dev.to/supriyajachar/what-is-web-design-beginner-friendly-explanation-18pj)
-- [AWS Security Series: AWS Access Key is Compromised. Now What? An Incident Response Playbook.](https://dev.to/shamimice03/aws-security-series-aws-access-key-is-compromised-now-what-an-incident-response-playbook-448b)
-- [The New Era of Video Editing: Conversational Software Takes Center Stage](https://dev.to/replicasmall_sonia_ea3e59/the-new-era-of-video-editing-conversational-software-takes-center-stage-330b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
