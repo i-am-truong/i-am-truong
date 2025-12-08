@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A beginner&#39;s guide to the Ideogram-V3-Turbo model by Ideogram-Ai on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-ideogram-v3-turbo-model-by-ideogram-ai-on-replicate-j6c)
-- [A beginner&#39;s guide to the Qwen-Image-Edit-Plus model by Qwen on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-qwen-image-edit-plus-model-by-qwen-on-replicate-56o2)
-- [How LSOLINK Tests Optical Transceivers to Ensure Quality and Compatibility?](https://dev.to/lsolink/how-lsolink-tests-optical-transceivers-to-ensure-quality-and-compatibility-3pmf)
-- [Basic Concepts of C# Numeric Types — From Integers to SIMD, for LLM-Ready Thinking](https://dev.to/cristiansifuentes/basic-concepts-of-c-numeric-types-from-integers-to-simd-for-llm-ready-thinking-1a63)
-- [You Don&#39;t Hate Abstractions](https://dev.to/jerrettdavis/you-dont-hate-abstractions-3gl8)
+- [How I Built My Own AI Ecosystem Across Brands](https://dev.to/jaideepparashar/how-i-built-my-own-ai-ecosystem-across-brands-44gp)
+- [Ruby CSV Parsing 5-6x Faster](https://dev.to/sebyx07/ruby-csv-parsing-5-6x-faster-1n45)
+- [Usage Based Billing: A Practical Guide for Engineers](https://dev.to/nkassetty/usage-based-billing-a-practical-guide-for-engineers-1ncc)
+- [I Spent 1.5 Years Trying to Build a Language Model From Scratch — Why I Wrote an 854-Page Book](https://dev.to/lakhera2015/i-spent-15-years-trying-to-build-a-language-model-from-scratch-why-i-wrote-an-854-page-book-48mb)
+- [The Secret Life of JavaScript: Let, Const, and Why Variables Are Complicated](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-let-const-and-why-variables-are-complicated-2gkk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
