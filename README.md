@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [BrandForge Pro - A comprehensive brand identity generator using Gemini Pro for strategy and Imagen for high-fidelity visuals.](https://dev.to/anasmasama/brandforge-pro-a-comprehensive-brand-identity-generator-using-gemini-pro-for-strategy-and-imagen-3ld4)
-- [A Developer’s Guide to Domain Types: What They Mean and How to Choose the Right One](https://dev.to/badass_tech-ae2025/a-developers-guide-to-domain-types-what-they-mean-and-how-to-choose-the-right-one-2g8g)
-- [Mastering Wildcards in Linux: *, ?, and [] for Efficient File Management](https://dev.to/agentic-jj/mastering-wildcards-in-linux-and-for-efficient-file-management-1gg7)
-- [🔥 Day 7: Mastering Joins, Unions, and GroupBy in PySpark - The Core ETL Operations](https://dev.to/sandeepk27/day-7-mastering-joins-unions-and-groupby-in-pyspark-the-core-etl-operations-3ihe)
-- [WhisprGeo – I just built a location-based voice note app &lpar;looking for feedback!&rpar;](https://dev.to/whispr_geo_10c645c36c4432/whisprgeo-i-just-built-a-location-based-voice-note-app-looking-for-feedback-9al)
+- [How can I find the static ip of my Raspberry Pi device?](https://dev.to/carolineee/how-can-i-find-the-static-ip-of-my-raspberry-pi-device-570m)
+- [Como Suportar Busca Não Estruturada em Banco de Dados Relacional Usando LLM](https://dev.to/asouza/como-suportar-busca-nao-estruturada-em-banco-de-dados-relacional-usando-llm-52hf)
+- [Simulation of Natural Convection + Radiative Coupling Heat Dissipation for High-Power LED Arrays using OpenFOAM](https://dev.to/emma-suntech/simulation-of-natural-convection-radiative-coupling-heat-dissipation-for-high-power-led-arrays-3dj)
+- [Ethereum Wallets and Gas &lpar;for Non‑Technical People&rpar;](https://dev.to/ribhavmodi/-day-7-ethereum-wallets-and-gas-for-non-technical-people-3bpb)
+- [Why Browser-Native Tools Are Replacing Traditional File Software &lpar;and What Comes Next&rpar;](https://dev.to/xfilez/why-browser-native-tools-are-replacing-traditional-file-software-and-what-comes-next-13m3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
