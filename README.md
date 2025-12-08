@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI-Friendly README: Stop Claude &amp; ChatGPT Hallucinations](https://dev.to/jedrzejdocs/ai-friendly-readme-stop-claude-chatgpt-hallucinations-4ho)
+- [AWS re:Invent 2025 - Securing agent access with Amazon Bedrock AgentCore Identity &lpar;SEC313&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-securing-agent-access-with-amazon-bedrock-agentcore-identity-sec313-2p4j)
 - [Liella Chat](https://dev.to/john_cortez_b14920c7f3dd9/liella-chat-235m)
 - [L’IA Générative dans le DevSecOps](https://dev.to/nawres_zarouki_d68cbbfab5/lia-generative-dans-le-devsecops-565i)
 - [AWS re:Invent 2025 - Building Intelligent Workflows with Event Driven AI &lpar;MAM327&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-building-intelligent-workflows-with-event-driven-ai-mam327-5adn)
-- [AWS re:Invent 2025 - Launch web applications in seconds with Amazon ECS [Butterfly] &lpar;CNS379&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-launch-web-applications-in-seconds-with-amazon-ecs-butterfly-cns379-35lb)
-- [AWS re:Invent 2025 - Grupo Tress Internacional&#39;s .NET modernization with AWS Transform &lpar;MAM320&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-grupo-tress-internacionals-net-modernization-with-aws-transform-mam320-2co0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
