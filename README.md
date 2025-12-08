@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Monetzly: Transforming AI Monetization for LLM Apps](https://dev.to/monetzly/monetzly-transforming-ai-monetization-for-llm-apps-1cl1)
+- [Asaaju Peter Issues Strong Warning on Phishing Attacks and How to Avoid Them](https://dev.to/phemight_technologies_281/asaaju-peter-issues-strong-warning-on-phishing-attacks-and-how-to-avoid-them-420h)
+- [Hello dev.to! I’m Sergey — developer of Suri Oculus](https://dev.to/sergey_filipovich_5eb9e4c/hello-devto-im-sergey-developer-of-suri-oculus-iah)
 - [How can I find the static ip of my Raspberry Pi device?](https://dev.to/carolineee/how-can-i-find-the-static-ip-of-my-raspberry-pi-device-570m)
-- [Como Suportar Busca Não Estruturada em Banco de Dados Relacional Usando LLM](https://dev.to/asouza/como-suportar-busca-nao-estruturada-em-banco-de-dados-relacional-usando-llm-52hf)
-- [Simulation of Natural Convection + Radiative Coupling Heat Dissipation for High-Power LED Arrays using OpenFOAM](https://dev.to/emma-suntech/simulation-of-natural-convection-radiative-coupling-heat-dissipation-for-high-power-led-arrays-3dj)
-- [Ethereum Wallets and Gas &lpar;for Non‑Technical People&rpar;](https://dev.to/ribhavmodi/-day-7-ethereum-wallets-and-gas-for-non-technical-people-3bpb)
-- [Why Browser-Native Tools Are Replacing Traditional File Software &lpar;and What Comes Next&rpar;](https://dev.to/xfilez/why-browser-native-tools-are-replacing-traditional-file-software-and-what-comes-next-13m3)
+- [Post 1: Implemented Canny Edge Detection, Sobel Operators, and Perspective Transforms from scratch](https://dev.to/techsorter/post-1-implemented-canny-edge-detection-sobel-operators-and-perspective-transforms-from-scratch-4af6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
