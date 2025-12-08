@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mandatory Profile in Oracle Database](https://dev.to/vahidusefzadeh/mandatory-profile-in-oracle-database-36hg)
+- [The AI Collaboration Paradox: Why Being Smart Isn&#39;t Enough Anymore](https://dev.to/ttoss/the-ai-collaboration-paradox-why-being-smart-isnt-enough-anymore-1aha)
 - [10 Cool CodePen Demos &lpar;October 2025&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-october-2025-mce)
 - [AWS vs Azure: Which Cloud Platform Makes More Sense for Your Career?](https://dev.to/technogeekscspuneindia/aws-vs-azure-which-cloud-platform-makes-more-sense-for-your-career-1gfl)
 - [Day 8 — Threat Validation &lpar;The Girl in the Red Cloak&rpar;](https://dev.to/aerabi/day-8-threat-validation-the-girl-in-the-red-cloak-4h9a)
-- [Modern Web Development in 2025: A Practical Guide to Building Fast, Responsive &amp; Scalable Websites](https://dev.to/pixel_punch_1c96306e6efc6/modern-web-development-in-2025-a-practical-guide-to-building-fast-responsive-scalable-websites-1p5l)
-- [Using TensorFlow.js To Run On-Device AI Models in the Browser](https://dev.to/sherry_walker_bba406fb339/using-tensorflowjs-to-run-on-device-ai-models-in-the-browser-3c10)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
