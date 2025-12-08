@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Running Immich on Proxmox With a Synology NAS: A Battle‑Tested Setup](https://dev.to/3zzy/running-immich-on-proxmox-with-a-synology-nas-a-battle-tested-setup-1e42)
 - [Sentence, Word &amp; Subword Tokenisation Explained](https://dev.to/chinmaynataraj/sentence-word-subword-tokenisation-explained-3nmo)
-- [How simultaneously swapping unique IDs in Postgres](https://dev.to/hashcode01/how-simultaneously-swapping-unique-ids-in-postgres-1ki5)
-- [AWS re:Invent 2025 - Lambda Managed Instances: EC2 Power with Serverless Simplicity &lpar;CNS382&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-lambda-managed-instances-ec2-power-with-serverless-simplicity-cns382-3jnm)
-- [AWS re:Invent 2025 - Amazon Leo: Building a Low Earth Orbit Satellite Network on AWS &lpar;AMZ302&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-amazon-leo-building-a-low-earth-orbit-satellite-network-on-aws-amz302-46nb)
-- [Developer Meetup Badges Made Simple with BadgeFlow](https://dev.to/badgeflow/developer-meetup-badges-made-simple-with-badgeflow-1ci5)
+- [AWS re:Invent 2025 - Building the future with AWS Serverless &lpar;CNS211&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-building-the-future-with-aws-serverless-cns211-1h0k)
+- [AWS re:Invent 2025 - Build AI-powered developer experiences with MCP on ECS and EKS &lpar;CNS358&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-build-ai-powered-developer-experiences-with-mcp-on-ecs-and-eks-cns358-1p44)
+- [AWS re:Invent 2025 - Building High-Performance, Secure networks for Hybrid and Multicloud &lpar;HMC209&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-building-high-performance-secure-networks-for-hybrid-and-multicloud-hmc209-4k7a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
