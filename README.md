@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The KC-10 Was My First Codebase — I Just Didn’t Know It Yet](https://dev.to/bhankee/the-kc-10-was-my-first-codebase-i-just-didnt-know-it-yet-11c7)
-- [🚀 How Media Misrepresents Mental Health — And Why It Matters in a Digital World](https://dev.to/nvelup_e92618d5196e8d9f43/how-media-misrepresents-mental-health-and-why-it-matters-in-a-digital-world-2pe2)
-- [How to edit videos via veo 3.1](https://dev.to/anna001/how-to-edit-videos-via-veo-31-3jpj)
-- [State management in Umami codebase - Part 1.0](https://dev.to/ramunarasinga-11/state-management-in-umami-codebase-part-10-3ld8)
-- [Assessing DevOps with Continuous Delivery statements](https://dev.to/_steve_fenton_/assessing-devops-with-continuous-delivery-statements-2lb3)
+- [AWS Terraform Functions – Part 2](https://dev.to/adarsh_gupta_c5fecf658fd7/aws-terraform-functions-part-2-430e)
+- [n8n AI Automation Workflows: 5 Templates That Save 100+ Hours](https://dev.to/joe_joe/n8n-ai-automation-workflows-5-templates-that-save-100-hours-46fg)
+- [A Practical Guide to Supabase: Setting up a Database, Auth, and Integrating Resend](https://dev.to/yeagoo/a-practical-guide-to-supabase-setting-up-a-database-auth-and-integrating-resend-obe)
+- [How to Fix “Broken Formatting” in Excel &lpar;Quick Repair Guide&rpar;](https://dev.to/vedad_borovac_pxc/how-to-fix-broken-formatting-in-excel-quick-repair-guide-2h0g)
+- [The best developer productivity tools in 2025](https://dev.to/kodus/the-best-developer-productivity-tools-in-2025-pkf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
