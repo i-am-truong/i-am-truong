@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Work with LLMs](https://dev.to/sara_hajbi/how-i-work-with-llms-13ni)
+- [8 Blockchain Networks Developers Prefer for Building Scalable Applications in 2025](https://dev.to/chikieabby/8-blockchain-networks-developers-prefer-for-building-scalable-applications-in-2025-2bce)
+- [The 12-Week AWS workshop challenge: Week 1 - Cloud Fundamentals](https://dev.to/paula_ali/the-12-week-aws-workshop-challenge-week-1-cloud-fundamentals-4j6m)
+- [Estratégias de Crescimento: Como Impulsionar Seu Negócio em 2024](https://dev.to/movin/estrategias-de-crescimento-como-impulsionar-seu-negocio-em-2024-347c)
 - [Building and Growing PS Home Maintenance: Challenges, C++ Implementation, and Future Vision](https://dev.to/trustedhandymanx/building-and-growing-ps-home-maintenance-challenges-c-implementation-and-future-vision-2amd)
-- [Optimizing Complex Business Operations with OptaPlanner: A Complete Guide](https://dev.to/richa_singh_11bd098df12c8/optimizing-complex-business-operations-with-optaplanner-a-complete-guide-2a7h)
-- [How to Design Two Practical Orchestration Loops for LLM Agents](https://dev.to/marcosomma/how-to-design-two-practical-orchestration-loops-for-llm-agents-513k)
-- [Advent of Cyber 2025: Day 4 Writeup AI-AI-AI | TryHackMe](https://dev.to/mahin101/advent-of-cyber-2025-day-4-writeup-ai-ai-ai-tryhackme-10dd)
-- [useTransition vs useOptimistic](https://dev.to/shieldstring/usetransition-vs-useoptimistic-1in2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
