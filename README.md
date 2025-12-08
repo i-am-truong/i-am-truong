@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [HTTP vs HTTPS vs SSL/TLS: A Comprehensive Guide to Web Security Protocols &lpar;with HTTPS Deployment Steps&rpar;](https://dev.to/tiger_smith_9f421b9131db5/http-vs-https-vs-ssltls-a-comprehensive-guide-to-web-security-protocols-with-https-deployment-1l42)
-- [Level Up Your E-Commerce: Mastering Headless Architecture with Shopify and Next.js 16](https://dev.to/saidmounaim/level-up-your-e-commerce-mastering-headless-architecture-with-shopify-and-nextjs-16-1bng)
-- [Launching open sign up on Buildstash - the platform for managing software binaries](https://dev.to/buildstash/launching-open-sign-up-on-buildstash-the-platform-for-managing-software-binaries-55gf)
-- [Lyria RealTime: The Developer’s Guide to Infinite Music Streaming](https://dev.to/googleai/lyria-realtime-the-developers-guide-to-infinite-music-streaming-4m1h)
-- [Monetzly: Transforming AI Conversations into Developer Revenue](https://dev.to/monetzly/monetzly-transforming-ai-conversations-into-developer-revenue-4mbm)
+- [From Prompting to Planning: My Week with AI Agents](https://dev.to/kuber_jain_511bfeb1233f24/from-prompting-to-planning-my-week-with-ai-agents-15n8)
+- [OWASP Top 10 2025 Quiz: Week 1 &lpar;51 Questions&rpar;](https://dev.to/fosres/owasp-top-10-2025-quiz-test-your-appsec-interview-readiness-51-questions-397n)
+- [ChatGPT user growth slows to 5% from August to November, lagging behind Gemini&#39;s30% increase](https://dev.to/ytosko/chatgpt-user-growth-slows-to-5-from-august-to-november-lagging-behind-geminis30-increase-1k34)
+- [AWS re:Invent 2025 - Customize &amp; scale foundation models using Amazon SageMaker AI &lpar;AIM363&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-customize-scale-foundation-models-using-amazon-sagemaker-ai-aim363-4717)
+- [AWS re:Invent 2025 - Break through AI performance and cost barriers with AWS Trainium &lpar;AIM201&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-break-through-ai-performance-and-cost-barriers-with-aws-trainium-aim201-1cel)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
