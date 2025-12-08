@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Iceberg Behind My 10,623 DEV Views: What Really Works &lpar;and What Shockingly Doesn’t&rpar;](https://dev.to/axrisi/the-iceberg-behind-my-10623-dev-views-what-really-works-and-what-shockingly-doesnt-2mc)
 - [Asaaju Peter Reports Security Breach Caused by Malicious WordPress Plugin](https://dev.to/phemight_technologies_281/asaaju-peter-reports-security-breach-caused-by-malicious-wordpress-plugin-4d8c)
+- [How to Become a Software Tester Without Coding](https://dev.to/rajesh_s_18525836a352300a/how-to-become-a-software-tester-without-coding-obl)
 - [🔥 21 Days of Building a Small Language Model.🔥](https://dev.to/lakhera2015/21-days-of-building-a-small-language-model-58gn)
 - [TypeScript 7 is Being Rewritten in Go. This is Microsoft&#39;s Biggest Bet on the JavaScript Ecosystem](https://dev.to/riddd/typescript-7-is-being-rewritten-in-go-this-is-microsofts-biggest-bet-on-the-javascript-ecosystem-2ijm)
-- [Unlock GPU Power with CUDA Tiles: A Python Developer&#39;s Guide](https://dev.to/mabualzait/unlock-gpu-power-with-cuda-tiles-a-python-developers-guide-1mf5)
-- [⚡ Stop Letting Your GPU Sleep: Monetize Energy &amp; Compute with 3 Lines of Code](https://dev.to/synapsefounder/stop-letting-your-gpu-sleep-monetize-energy-compute-with-3-lines-of-code-5h10)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
