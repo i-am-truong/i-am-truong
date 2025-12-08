@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What is AI Agent Evaluation](https://dev.to/kamya_shah_e69d5dd78f831c/what-is-ai-agent-evaluation-1d5l)
-- [Refactoring a Mature Airflow Project: A Practical Guide to Scaling from Solo Development to Team Collaboration](https://dev.to/ajitkumar/refactoring-a-mature-airflow-project-a-practical-guide-to-scaling-from-solo-development-to-team-i4p)
-- [How to Debug LLM Failures: A Practical Guide for AI Engineers](https://dev.to/kuldeep_paul/how-to-debug-llm-failures-a-practical-guide-for-ai-engineers-n27)
-- [Stop Using JS for CSS](https://dev.to/ahmed_niazy/stop-using-js-for-css-3i6i)
-- [Part 2: Securing Salesforce AI Agents: A Comprehensive Security Framework](https://dev.to/nidhi_sharma_d5c7d974d2df/part-2-securing-salesforce-ai-agents-a-comprehensive-security-framework-3a9i)
+- [DevFlow: API testing tool made with UNO.](https://dev.to/prime_299792/devflow-api-testing-tool-made-with-uno-dnp)
+- [a](https://dev.to/anurag_sati_5b77a6578f780/a-5fef)
+- [Day 3: Reflecting and pushing.](https://dev.to/blink_c5eb0afe3975/day-3-reflecting-and-pushing-542f)
+- [Anthropic Acquires Bun: Why AI Agents Need a Lightweight Runtime](https://dev.to/inboryn_99399f96579fcd705/anthropic-acquires-bun-why-ai-agents-need-a-lightweight-runtime-228d)
+- [Keeping Your Health Data Out of Court](https://dev.to/crisiscoresystems/keeping-your-health-data-out-of-court-359i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
