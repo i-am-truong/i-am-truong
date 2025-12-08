@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Iceberg Behind My 10,623 DEV Views: What Really Works &lpar;and What Shockingly Doesn’t&rpar;](https://dev.to/axrisi/the-iceberg-behind-my-10623-dev-views-what-really-works-and-what-shockingly-doesnt-2mc)
-- [Asaaju Peter Reports Security Breach Caused by Malicious WordPress Plugin](https://dev.to/phemight_technologies_281/asaaju-peter-reports-security-breach-caused-by-malicious-wordpress-plugin-4d8c)
-- [How to Become a Software Tester Without Coding](https://dev.to/rajesh_s_18525836a352300a/how-to-become-a-software-tester-without-coding-obl)
-- [🔥 21 Days of Building a Small Language Model.🔥](https://dev.to/lakhera2015/21-days-of-building-a-small-language-model-58gn)
-- [TypeScript 7 is Being Rewritten in Go. This is Microsoft&#39;s Biggest Bet on the JavaScript Ecosystem](https://dev.to/riddd/typescript-7-is-being-rewritten-in-go-this-is-microsofts-biggest-bet-on-the-javascript-ecosystem-2ijm)
+- [React vs Vue vs Svelte — Which One Should You Learn in 2025?](https://dev.to/roshaan_tahir/react-vs-vue-vs-svelte-which-one-should-you-learn-in-2025-4o8l)
+- [Advent of AI 2025 - Day 5: I Built a Touchless Flight Tracker You Control With Hand Gestures](https://dev.to/nickytonline/advent-of-ai-2025-day-5-i-built-a-touchless-flight-tracker-you-control-with-hand-gestures-1jn8)
+- [Day 58: Python Run-Length Encoding &lpar;RLE&rpar; – Compress Strings Like a Pro with This Ultra-Simple O&lpar;n&rpar; Trick](https://dev.to/shahrouzlogs/day-58-python-run-length-encoding-rle-compress-strings-like-a-pro-with-this-ultra-simple-on-2l12)
+- [The Paradigm Shift: Key Differences in Agentic AI vs Traditional AI Development](https://dev.to/ioweb_961ddefd53bd65fce97/the-paradigm-shift-key-differences-in-agentic-ai-vs-traditional-ai-development-2fbl)
+- [digital marketing course](https://dev.to/soni_kumari_802e62836ec2a/digital-marketing-course-310c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
