@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The KC-10 Was My First Codebase — I Just Didn’t Know It Yet](https://dev.to/bhankee/the-kc-10-was-my-first-codebase-i-just-didnt-know-it-yet-11c7)
+- [🚀 How Media Misrepresents Mental Health — And Why It Matters in a Digital World](https://dev.to/nvelup_e92618d5196e8d9f43/how-media-misrepresents-mental-health-and-why-it-matters-in-a-digital-world-2pe2)
+- [How to edit videos via veo 3.1](https://dev.to/anna001/how-to-edit-videos-via-veo-31-3jpj)
+- [State management in Umami codebase - Part 1.0](https://dev.to/ramunarasinga-11/state-management-in-umami-codebase-part-10-3ld8)
 - [Assessing DevOps with Continuous Delivery statements](https://dev.to/_steve_fenton_/assessing-devops-with-continuous-delivery-statements-2lb3)
-- [Trình bày đồ án như thế nào?](https://dev.to/longtth/trinh-bay-do-an-nhu-the-nao-269g)
-- [Elevate SDK Integration: Monetizing Conversations with Monetzly’s Platform](https://dev.to/monetzly/elevate-sdk-integration-monetizing-conversations-with-monetzlys-platform-551f)
-- [AWS vs Azure vs Google Cloud in 2026: Which Cloud Should Students Learn First?](https://dev.to/keerthana_696356/aws-vs-azure-vs-google-cloud-in-2026-which-cloud-should-students-learn-first-4g0l)
-- [🔥 Day 7: PySpark Joins, Unions, and GroupBy Guide](https://dev.to/sandeepk27/day-7-pyspark-joins-unions-and-groupby-guide-472l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
