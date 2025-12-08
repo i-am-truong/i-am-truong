@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Running Immich on Proxmox With a Synology NAS: A Battle‑Tested Setup](https://dev.to/3zzy/running-immich-on-proxmox-with-a-synology-nas-a-battle-tested-setup-1e42)
-- [Sentence, Word &amp; Subword Tokenisation Explained](https://dev.to/chinmaynataraj/sentence-word-subword-tokenisation-explained-3nmo)
-- [AWS re:Invent 2025 - Building the future with AWS Serverless &lpar;CNS211&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-building-the-future-with-aws-serverless-cns211-1h0k)
-- [AWS re:Invent 2025 - Build AI-powered developer experiences with MCP on ECS and EKS &lpar;CNS358&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-build-ai-powered-developer-experiences-with-mcp-on-ecs-and-eks-cns358-1p44)
-- [AWS re:Invent 2025 - Building High-Performance, Secure networks for Hybrid and Multicloud &lpar;HMC209&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-building-high-performance-secure-networks-for-hybrid-and-multicloud-hmc209-4k7a)
+- [🚀 Revolutionizing System Design with Diagrammatic: An AI-Powered Architecture Tool for Modern Developers](https://dev.to/satya00089/revolutionizing-system-design-with-diagrammatic-an-ai-powered-architecture-tool-for-modern-iib)
+- [&lpar;8/8&rpar; Testes Finais, Troubleshooting e Encerramento](https://dev.to/levi_the_goat/88-testes-finais-troubleshooting-e-encerramento-5627)
+- [&lpar;7/8&rpar; Firewall: Estrutura, Fluxo e Políticas Reais](https://dev.to/levi_the_goat/78-firewall-estrutura-fluxo-e-politicas-reais-5gm4)
+- [Controlled vs. Uncontrolled Components in React: A Practical Guide](https://dev.to/maximlogunov/controlled-vs-uncontrolled-components-in-react-a-practical-guide-k79)
+- [I Passed the AWS AI Practitioner Exam!](https://dev.to/hellonehha/i-passed-the-aws-ai-practitioner-exam-14ni)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
