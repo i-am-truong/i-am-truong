@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Two People, Same Body: A Developer&#39;s Crisis Architecture](https://dev.to/crisiscoresystems/two-people-same-body-a-developers-crisis-architecture-25ko)
-- [ECT Sensor: The Coolant Diviner of Your Engine’s Magic 🔮](https://dev.to/ersajay/ect-sensor-the-coolant-diviner-of-your-engines-magic-21o5)
-- [ClimateIQ - AI Acceleration](https://dev.to/omkar598/climateiq-ai-acceleration-2330)
-- [🌍 Green Hosting: How Choosing an Eco-Friendly Web Host Can Save the Planet](https://dev.to/okoye_ndidiamaka_5e3b7d30/green-hosting-how-choosing-an-eco-friendly-web-host-can-save-the-planet-16b0)
-- [Setting Up a 24/7 Sales Machine: Payments, Delivery, and Customer Support Automation](https://dev.to/prateekshaweb/setting-up-a-247-sales-machine-payments-delivery-and-customer-support-automation-38n6)
+- [Best SQL Clients for ERD Modeling in 2025](https://dev.to/dbvismarketing/best-sql-clients-for-erd-modeling-in-2025-1aj6)
+- [Roast Café by GranZant](https://dev.to/granzant/roast-cafe-by-granzant-18me)
+- [Modern Cloud Data Strategies for a Scalable and Resilient Future](https://dev.to/kapusto/modern-cloud-data-strategies-for-a-scalable-and-resilient-future-468j)
+- [Understanding Boundary Value Analysis: A Key Technique in Software Testing](https://dev.to/sri_ram_af45956066fca623f/understanding-boundary-value-analysis-a-key-technique-in-software-testing-4561)
+- [Level Up Your Career: Using Copilot for Interview Prep &amp; Self-Assessment](https://dev.to/balagmadhu/level-up-your-career-using-copilot-for-interview-prep-self-assessment-4c9m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
