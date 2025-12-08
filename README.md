@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AWS re:Invent 2025 - What Database Would Your AI Agents Choose - Escape the Frankenstack &lpar;DAT203&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-what-database-would-your-ai-agents-choose-escape-the-frankenstack-dat203-58c4)
-- [AWS re:Invent 2025 - AWS and Oracle: Transforming Healthcare &lpar;HMC211&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-aws-and-oracle-transforming-healthcare-hmc211-ecn)
-- [Myth: AI in healthcare will replace human doctors and nurses](https://dev.to/drcarlosruizviquez/myth-ai-in-healthcare-will-replace-human-doctors-and-nurses-4ee0)
-- [Run Python Code Instantly, Anywhere](https://dev.to/samarthupadhyay/run-python-code-instantly-anywhere-4jdp)
-- [**Efficient Distributed Hyperparameter Tuning with Ray and O](https://dev.to/drcarlosruizviquez/efficient-distributed-hyperparameter-tuning-with-ray-and-o-5c66)
+- [Sentence, Word &amp; Subword Tokenisation Explained](https://dev.to/chinmaynataraj/sentence-word-subword-tokenisation-explained-3nmo)
+- [How simultaneously swapping unique IDs in Postgres](https://dev.to/hashcode01/how-simultaneously-swapping-unique-ids-in-postgres-1ki5)
+- [AWS re:Invent 2025 - Lambda Managed Instances: EC2 Power with Serverless Simplicity &lpar;CNS382&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-lambda-managed-instances-ec2-power-with-serverless-simplicity-cns382-3jnm)
+- [AWS re:Invent 2025 - Amazon Leo: Building a Low Earth Orbit Satellite Network on AWS &lpar;AMZ302&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-amazon-leo-building-a-low-earth-orbit-satellite-network-on-aws-amz302-46nb)
+- [Developer Meetup Badges Made Simple with BadgeFlow](https://dev.to/badgeflow/developer-meetup-badges-made-simple-with-badgeflow-1ci5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
