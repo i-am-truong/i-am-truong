@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Weekend Rec Builds: 3D Print Estimator](https://dev.to/ksolomon/weekend-rec-builds-3d-print-estimator-3pk9)
-- [The Switzerland of AI Tooling: Inside TanStack AI’s Bold New Approach](https://dev.to/usman_awan/the-switzerland-of-ai-tooling-inside-tanstack-ais-bold-new-approach-1cbb)
-- [A Lightweight Way to Preserve Developer Notes Without Formatting Drift](https://dev.to/knowadvance_c5092984a5b66/a-lightweight-way-to-preserve-developer-notes-without-formatting-drift-kf2)
-- [Building Your First REST API with Spring Boot](https://dev.to/deividas-strole/building-your-first-rest-api-with-spring-boot-1be3)
-- [Introducing Constructivist AI: A New Approach to Machine Learning](https://dev.to/danexcodr/introducing-constructivist-ai-a-new-approach-to-machine-learning-18g4)
+- [Interesting read](https://dev.to/best_codes/interesting-read-16ci)
+- [Ace Your Tech Skills With Quipoin’s MCQ Hub - Java, HTML, CSS, Spring &amp; More](https://dev.to/quipoin_a9cb84280f6225b1e/ace-your-tech-skills-with-quipoins-mcq-hub-java-html-css-spring-more-2fop)
+- [The Secret Life of JavaScript: Understanding &#39;this&#39;](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-understanding-this-2i4)
+- [Why Every Developer Needs Digital Marketing Skills in 2026](https://dev.to/digicarrom/why-every-developer-needs-digital-marketing-skills-in-2026-52o8)
+- [Database Migration: Safely Managing Dev and Production Environments](https://dev.to/pipipi-dev/database-migration-safely-managing-dev-and-production-environments-2nfh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
