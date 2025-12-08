@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SvelteKit Remote Functions Workaround Helpers](https://dev.to/jdgamble555/sveltekit-remote-functions-workaround-helpers-4k8c)
-- [Dual-Use Mythological Frameworks: How Narada Encodes Both Attack and Defense in AI/ML Security](https://dev.to/narnaiezzsshaa/dual-use-mythological-frameworks-how-narada-encodes-both-attack-and-defense-in-aiml-security-516i)
-- [THE ROLE OF EXCEL IN BUSINESS INTELLIGENCE AND DATA DRIVEN DECISION MAKING](https://dev.to/mubarakah_aderinkola/the-role-of-excel-in-business-intelligence-and-data-driven-decision-making-5cap)
-- [Terraform Functions: Where Your Infrastructure Gets Superpowers](https://dev.to/ekefan/terraform-functions-where-your-infrastructure-gets-superpowers-3n2e)
-- [The Architect&#39;s Journey: Building SERP-Scout and the Meta Lessons of AI Development](https://dev.to/aieverything2k/the-architects-journey-building-serp-scout-and-the-meta-lessons-of-ai-development-52ai)
+- [A beginner&#39;s guide to the Ideogram-V3-Turbo model by Ideogram-Ai on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-ideogram-v3-turbo-model-by-ideogram-ai-on-replicate-j6c)
+- [A beginner&#39;s guide to the Qwen-Image-Edit-Plus model by Qwen on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-qwen-image-edit-plus-model-by-qwen-on-replicate-56o2)
+- [How LSOLINK Tests Optical Transceivers to Ensure Quality and Compatibility?](https://dev.to/lsolink/how-lsolink-tests-optical-transceivers-to-ensure-quality-and-compatibility-3pmf)
+- [Basic Concepts of C# Numeric Types — From Integers to SIMD, for LLM-Ready Thinking](https://dev.to/cristiansifuentes/basic-concepts-of-c-numeric-types-from-integers-to-simd-for-llm-ready-thinking-1a63)
+- [You Don&#39;t Hate Abstractions](https://dev.to/jerrettdavis/you-dont-hate-abstractions-3gl8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
