@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Spent $12K Testing Meta&#39;s AI Ad Tools So You Don&#39;t Have To](https://dev.to/synergistdigitalmedia/i-spent-12k-testing-metas-ai-ad-tools-so-you-dont-have-to-3njc)
-- [metaForge: A Multi-Language Build &amp; Automation Compiler](https://dev.to/alsops/metaforge-a-multi-language-build-automation-compiler-251k)
-- [How to Use Lined Printables to Improve Your Study or Coding Workflow](https://dev.to/bakhat_yar_016451bb6f3b86/how-to-use-lined-printables-to-improve-your-study-or-coding-workflow-p82)
-- [Building a Zero-Downtime CI/CD Pipeline: Blue-Green Deployments for 100K+ Daily Requests](https://dev.to/sangwoo_rhie/zero-downtime-blue-green-deployment-with-github-actions-docker-multi-stage-builds-and-nginx-695)
-- [becoming a full stack developer](https://dev.to/ujjawal_patel_9baa51e6bf5/becoming-a-full-stack-developer-2245)
+- [Your Essential Guide to Smart, Sustainable Cultivation with BioCAZ &amp; CAZAG](https://dev.to/clean_airzon_f525ac253ba/your-essential-guide-to-smart-sustainable-cultivation-with-biocaz-cazag-3i11)
+- [Volevo smettere di fare lo sviluppatore software e iniziare a fare l&#39;imbianchino...](https://dev.to/michele_carino_69b654f06d/volevo-smettere-di-fare-lo-sviluppatore-e-aprire-una-ditta-da-imbianchino-1ade)
+- [What Is Web Design? &lpar;Beginner-Friendly Explanation&rpar;](https://dev.to/supriyajachar/what-is-web-design-beginner-friendly-explanation-18pj)
+- [AWS Security Series: AWS Access Key is Compromised. Now What? An Incident Response Playbook.](https://dev.to/shamimice03/aws-security-series-aws-access-key-is-compromised-now-what-an-incident-response-playbook-448b)
+- [The New Era of Video Editing: Conversational Software Takes Center Stage](https://dev.to/replicasmall_sonia_ea3e59/the-new-era-of-video-editing-conversational-software-takes-center-stage-330b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
