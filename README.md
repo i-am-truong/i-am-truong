@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Market Movements: A Deep Look at Today’s Top Losers in NSE and BSE](https://dev.to/toplosers/understanding-market-movements-a-deep-look-at-todays-top-losers-in-nse-and-bse-2hcm)
-- [Data-Driven Commerce with AI &amp; Personalization](https://dev.to/wecodefutures/data-driven-commerce-with-ai-personalization-1pm3)
-- [Why Software Is Not a Technical Choice — It’s a Business Strategy](https://dev.to/drilonhametaj25/why-software-is-not-a-technical-choice-its-a-business-strategy-cn6)
-- [I built a Sankey chart to map document reading paths](https://dev.to/howard_shaw_3c36a3a6cb900/i-built-a-sankey-chart-to-map-document-reading-paths-95o)
-- [Blue Team vs Red Team vs Purple Team](https://dev.to/russell/blue-team-vs-red-team-vs-purple-team-4o8c)
+- [Designing a Type-Safe Plugin System for Next.js: Why Zod is Our Secret Weapon](https://dev.to/nextblockcms/designing-a-type-safe-plugin-system-for-nextjs-why-zod-is-our-secret-weapon-1il7)
+- [Day 06: Understanding a Clean Terraform Project Structure](https://dev.to/sreya_sharma_711168ec58fc/day-06-understanding-a-clean-terraform-project-structure-3hcn)
+- [Can CVE-2025-55182 &lpar;React Server Components Vulnerability&rpar; Create Files Like .sh, .gz, or XMRig Miners in Server Root?](https://dev.to/talha_malik_89b5ad30df33d/can-cve-2025-55182-react-server-components-vulnerability-create-files-like-sh-gz-or-xmrig-5a99)
+- [Reatom: State Management That Grows With You](https://dev.to/artalar/reatom-state-management-that-grows-with-you-1i4)
+- [How to Use Google Shopping Ads to Maximize Revenue](https://dev.to/dbhatasana/how-to-use-google-shopping-ads-to-maximize-revenue-4gkm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
