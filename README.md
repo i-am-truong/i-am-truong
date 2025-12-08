@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The cloud lock-in trap and the loss of strategic control](https://dev.to/layerops/the-cloud-lock-in-trap-and-the-loss-of-strategic-control-50dd)
 - [Why React Testing Library is a Game-Changer for React Testing](https://dev.to/sheikhlimon/why-react-testing-library-is-a-game-changer-for-react-testing-2ip3)
 - [Modernizing Scheduled Tasks: Reliability, Scale, and Zero Maintenance](https://dev.to/dortort/modernizing-scheduled-tasks-reliability-scale-and-zero-maintenance-1408)
 - [Building a High-Performance Open-Source LLM Gateway: Bifrost &lpar;54x Faster than LiteLLM&rpar;](https://dev.to/pranay_batta/building-a-high-performance-open-source-llm-gateway-bifrost-54x-faster-than-litellm-571i)
 - [AWS re:Invent 2025 - Reclaiming Clinical Time: How Veradigm Uses AI to Transform Workflows &lpar;IND208&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-reclaiming-clinical-time-how-veradigm-uses-ai-to-transform-workflows-ind208-6pk)
-- [AWS re:Invent 2025 - Rapidly accelerate product development and launches with AI &lpar;IND383&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-rapidly-accelerate-product-development-and-launches-with-ai-ind383-2cp4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
