@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Monetzly: Transforming AI Conversations into Developer Revenue](https://dev.to/monetzly/monetzly-transforming-ai-conversations-into-developer-revenue-4mbm)
-- [The Hidden Cost of Slow Bug Resolution for SaaS Companies](https://dev.to/flexyadmin/the-hidden-cost-of-slow-bug-resolution-for-saas-companies-1ma3)
-- [Collective AI Memory for Engineering Teams &lpar;Open Source&rpar;](https://dev.to/stef_antoniovirgil_5958d/collective-ai-memory-for-engineering-teams-open-source-2jlg)
-- [How to Apply for AWS All Builders Welcome Grant](https://dev.to/xc-christina/how-to-apply-for-aws-all-builders-welcome-grant-1f4o)
-- [How We Replaced GraphQL Subgraphs with gRPC for Safer, Faster Federation](https://dev.to/slickstef11/how-we-replaced-graphql-subgraphs-with-grpc-for-safer-faster-federation-3fgd)
+- [Php quickie: Xdebug 3.5 is out](https://dev.to/xwero/php-quickie-xdebug-35-is-out-1eef)
+- [How to Integrate Google Authentication in ASP.NET Core](https://dev.to/flexyadmin/how-to-integrate-google-authentication-in-aspnet-core-1obl)
+- [AWS re:Invent 2025 - DynamoDB: Resilience &amp; lessons from the Oct 2025 service disruption &lpar;DAT453&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-dynamodb-resilience-lessons-from-the-oct-2025-service-disruption-dat453-oda)
+- [AWS re:Invent 2025 -JPMorganChase &amp; Amazon Advanced Solutions Lab drive quantum R&amp;D on Braket-CMP327](https://dev.to/kazuya_dev/aws-reinvent-2025-jpmorganchase-amazon-advanced-solutions-lab-drive-quantum-rd-on-braket-cmp327-19cj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
