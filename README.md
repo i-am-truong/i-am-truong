@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [HTTP vs HTTPS vs SSL/TLS: A Comprehensive Guide to Web Security Protocols &lpar;with HTTPS Deployment Steps&rpar;](https://dev.to/tiger_smith_9f421b9131db5/http-vs-https-vs-ssltls-a-comprehensive-guide-to-web-security-protocols-with-https-deployment-1l42)
+- [Level Up Your E-Commerce: Mastering Headless Architecture with Shopify and Next.js 16](https://dev.to/saidmounaim/level-up-your-e-commerce-mastering-headless-architecture-with-shopify-and-nextjs-16-1bng)
+- [Launching open sign up on Buildstash - the platform for managing software binaries](https://dev.to/buildstash/launching-open-sign-up-on-buildstash-the-platform-for-managing-software-binaries-55gf)
+- [Lyria RealTime: The Developer’s Guide to Infinite Music Streaming](https://dev.to/googleai/lyria-realtime-the-developers-guide-to-infinite-music-streaming-4m1h)
 - [Monetzly: Transforming AI Conversations into Developer Revenue](https://dev.to/monetzly/monetzly-transforming-ai-conversations-into-developer-revenue-4mbm)
-- [Php quickie: Xdebug 3.5 is out](https://dev.to/xwero/php-quickie-xdebug-35-is-out-1eef)
-- [How to Integrate Google Authentication in ASP.NET Core](https://dev.to/flexyadmin/how-to-integrate-google-authentication-in-aspnet-core-1obl)
-- [AWS re:Invent 2025 - DynamoDB: Resilience &amp; lessons from the Oct 2025 service disruption &lpar;DAT453&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-dynamodb-resilience-lessons-from-the-oct-2025-service-disruption-dat453-oda)
-- [AWS re:Invent 2025 -JPMorganChase &amp; Amazon Advanced Solutions Lab drive quantum R&amp;D on Braket-CMP327](https://dev.to/kazuya_dev/aws-reinvent-2025-jpmorganchase-amazon-advanced-solutions-lab-drive-quantum-rd-on-braket-cmp327-19cj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
