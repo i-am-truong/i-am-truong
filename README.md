@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Easily Build a Frontend for your AWS Strands Agents using AG-UI in 30 minutes](https://dev.to/copilotkit/easily-build-a-frontend-for-your-aws-strands-agents-using-ag-ui-in-30-minutes-42ji)
-- [Only the strongest will survive?](https://dev.to/spo0q/only-the-strongest-will-survive-363k)
-- [Ton app risque d&#39;être rejetée en 2026 si tu ignores les nouveaux requis](https://dev.to/onepoint/ton-app-risque-detre-rejetee-en-2026-si-tu-ignores-les-nouveaux-requis-en)
-- [How Rasha Anayah Emphasizes the Climate Benefits of Shifting to Plant-Based Diets](https://dev.to/rashaanayah2/how-rasha-anayah-emphasizes-the-climate-benefits-of-shifting-to-plant-based-diets-4elp)
-- [Life Update #1](https://dev.to/ctrix/life-update-1-30fg)
+- [3 Competências essenciais para programar com IA em 2026](https://dev.to/pachicodes/3-competencias-essenciais-para-programar-com-ia-em-2026-2156)
+- [Attracting Top Talent: Effective Talent Acquisition in Aviation Manufacturing](https://dev.to/sheba-kumari/attracting-top-talent-effective-talent-acquisition-in-aviation-manufacturing-ld6)
+- [WhatsApp Username Reservation Feature Coming Soon for Android iOS](https://dev.to/allbetainfo/whatsapp-username-reservation-feature-coming-soon-for-android-ios-3bkk)
+- [FinOps for AI](https://dev.to/aws-builders/finops-for-ai-5cne)
+- [Stop Fighting React Native Dependency Hell — Use This Microsoft Tool](https://dev.to/ajmal_hasan/stop-fighting-react-native-dependency-hell-use-this-microsoft-tool-3g5g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
