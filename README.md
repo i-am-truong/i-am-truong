@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Monetzly: Transforming AI Monetization for LLM Apps](https://dev.to/monetzly/monetzly-transforming-ai-monetization-for-llm-apps-1cl1)
-- [Asaaju Peter Issues Strong Warning on Phishing Attacks and How to Avoid Them](https://dev.to/phemight_technologies_281/asaaju-peter-issues-strong-warning-on-phishing-attacks-and-how-to-avoid-them-420h)
-- [Hello dev.to! I’m Sergey — developer of Suri Oculus](https://dev.to/sergey_filipovich_5eb9e4c/hello-devto-im-sergey-developer-of-suri-oculus-iah)
-- [How can I find the static ip of my Raspberry Pi device?](https://dev.to/carolineee/how-can-i-find-the-static-ip-of-my-raspberry-pi-device-570m)
-- [Post 1: Implemented Canny Edge Detection, Sobel Operators, and Perspective Transforms from scratch](https://dev.to/techsorter/post-1-implemented-canny-edge-detection-sobel-operators-and-perspective-transforms-from-scratch-4af6)
+- [Sparse Federated Representation Learning for sustainable aquaculture monitoring systems for low-power autonomous deployments](https://dev.to/rikinptl/sparse-federated-representation-learning-for-sustainable-aquaculture-monitoring-systems-for-34j2)
+- [📌 How Software Engineers Can Stay Relevant in the Age of AI](https://dev.to/trinidad_trinidad_47e4d4f/how-software-engineers-can-stay-relevant-in-the-age-of-ai-44al)
+- [Digital Life Engine: A Tamagotchi-as-a-Service API built with Xano](https://dev.to/the_nortern_dev/digital-life-engine-a-tamagotchi-as-a-service-api-built-with-xano-2df7)
+- [Saga Orchestration in .NET with CQRS, Event Sourcing, Hydration &amp; Event Propagation](https://dev.to/coorayntl/saga-orchestration-in-net-with-cqrs-event-sourcing-hydration-event-propagation-2nof)
+- [Lights, Camera, Publish! Dev.to Now Supports Video Cover Links](https://dev.to/notadevbuthere/lights-camera-publish-devto-now-supports-video-cover-links-1omk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
