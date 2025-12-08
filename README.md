@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Designing a Type-Safe Plugin System for Next.js: Why Zod is Our Secret Weapon](https://dev.to/nextblockcms/designing-a-type-safe-plugin-system-for-nextjs-why-zod-is-our-secret-weapon-1il7)
-- [Day 06: Understanding a Clean Terraform Project Structure](https://dev.to/sreya_sharma_711168ec58fc/day-06-understanding-a-clean-terraform-project-structure-3hcn)
-- [Can CVE-2025-55182 &lpar;React Server Components Vulnerability&rpar; Create Files Like .sh, .gz, or XMRig Miners in Server Root?](https://dev.to/talha_malik_89b5ad30df33d/can-cve-2025-55182-react-server-components-vulnerability-create-files-like-sh-gz-or-xmrig-5a99)
-- [Reatom: State Management That Grows With You](https://dev.to/artalar/reatom-state-management-that-grows-with-you-1i4)
-- [How to Use Google Shopping Ads to Maximize Revenue](https://dev.to/dbhatasana/how-to-use-google-shopping-ads-to-maximize-revenue-4gkm)
+- [10 Cool CodePen Demos &lpar;October 2025&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-october-2025-mce)
+- [AWS vs Azure: Which Cloud Platform Makes More Sense for Your Career?](https://dev.to/technogeekscspuneindia/aws-vs-azure-which-cloud-platform-makes-more-sense-for-your-career-1gfl)
+- [Day 8 — Threat Validation &lpar;The Girl in the Red Cloak&rpar;](https://dev.to/aerabi/day-8-threat-validation-the-girl-in-the-red-cloak-4h9a)
+- [Modern Web Development in 2025: A Practical Guide to Building Fast, Responsive &amp; Scalable Websites](https://dev.to/pixel_punch_1c96306e6efc6/modern-web-development-in-2025-a-practical-guide-to-building-fast-responsive-scalable-websites-1p5l)
+- [Using TensorFlow.js To Run On-Device AI Models in the Browser](https://dev.to/sherry_walker_bba406fb339/using-tensorflowjs-to-run-on-device-ai-models-in-the-browser-3c10)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
