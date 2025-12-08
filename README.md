@@ -122,9 +122,9 @@ Python                   1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [From Prompting to Planning: My Week with AI Agents](https://dev.to/kuber_jain_511bfeb1233f24/from-prompting-to-planning-my-week-with-ai-agents-15n8)
 - [OWASP Top 10 2025 Quiz: Week 1 &lpar;51 Questions&rpar;](https://dev.to/fosres/owasp-top-10-2025-quiz-test-your-appsec-interview-readiness-51-questions-397n)
-- [ChatGPT user growth slows to 5% from August to November, lagging behind Gemini&#39;s30% increase](https://dev.to/ytosko/chatgpt-user-growth-slows-to-5-from-august-to-november-lagging-behind-geminis30-increase-1k34)
-- [AWS re:Invent 2025 - Customize &amp; scale foundation models using Amazon SageMaker AI &lpar;AIM363&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-customize-scale-foundation-models-using-amazon-sagemaker-ai-aim363-4717)
-- [AWS re:Invent 2025 - Break through AI performance and cost barriers with AWS Trainium &lpar;AIM201&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-break-through-ai-performance-and-cost-barriers-with-aws-trainium-aim201-1cel)
+- [AWS re:Invent 2025 - Master AI model development with Amazon SageMaker AI &lpar;AIM272&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-master-ai-model-development-with-amazon-sagemaker-ai-aim272-4p12)
+- [AWS re:Invent 2025 - The Evolution of AWS Skills Validation &lpar;TNC106&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-the-evolution-of-aws-skills-validation-tnc106-5bkj)
+- [AWS re:Invent 2025 - Accelerate development velocity with better code reviews &lpar;DVT344&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-accelerate-development-velocity-with-better-code-reviews-dvt344-1f5n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
