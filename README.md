@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [We Need To Talk About AI Agent Architectures](https://dev.to/morganwilliscloud/we-need-to-talk-about-ai-agent-architectures-4n49)
-- [Major Update v1.2](https://dev.to/adzhydra/major-update-v12-1dpf)
-- [WordPress Headless: ¿Es el Futuro del CMS?](https://dev.to/joaquin_sez_6de09e190ca1/wordpress-headless-es-el-futuro-del-cms-3flj)
-- [How to Convert JSON to TOON: 4 Methods Compared](https://dev.to/panilya/how-to-convert-json-to-toon-4-methods-compared-c0f)
-- [AWS re:Invent 2025 - The bill shock that taught me cost optimization &lpar;DEV208&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-the-bill-shock-that-taught-me-cost-optimization-dev208-3nm5)
+- [2025-12-08 Daily Robotics News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-08-daily-robotics-news-3n8p)
+- [C# Operators Mental Model — From `number % 2 == 0` to LLM‑Ready Code](https://dev.to/cristiansifuentes/c-operators-mental-model-from-number-2-0-to-llm-ready-code-1kn8)
+- [AWS re:Invent 2025 - Build gpu-boosted, auto-optimized, billion-scale VectorDBs in hours &lpar;ANT213&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-build-gpu-boosted-auto-optimized-billion-scale-vectordbs-in-hours-ant213-2dk1)
+- [AWS re:Invent 2025 - Why Usage-Based Billing Must Be Treated as Infrastructure &lpar;AIM109&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-why-usage-based-billing-must-be-treated-as-infrastructure-aim109-4706)
+- [C# Arrays Mental Model — From `numbers[0]` to LLM‑Ready Code](https://dev.to/cristiansifuentes/c-arrays-mental-model-from-numbers0-to-llm-ready-code-2h0c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
