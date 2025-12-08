@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Revolutionizing System Design with Diagrammatic: An AI-Powered Architecture Tool for Modern Developers](https://dev.to/satya00089/revolutionizing-system-design-with-diagrammatic-an-ai-powered-architecture-tool-for-modern-iib)
-- [&lpar;8/8&rpar; Testes Finais, Troubleshooting e Encerramento](https://dev.to/levi_the_goat/88-testes-finais-troubleshooting-e-encerramento-5627)
-- [&lpar;7/8&rpar; Firewall: Estrutura, Fluxo e Políticas Reais](https://dev.to/levi_the_goat/78-firewall-estrutura-fluxo-e-politicas-reais-5gm4)
-- [Controlled vs. Uncontrolled Components in React: A Practical Guide](https://dev.to/maximlogunov/controlled-vs-uncontrolled-components-in-react-a-practical-guide-k79)
-- [I Passed the AWS AI Practitioner Exam!](https://dev.to/hellonehha/i-passed-the-aws-ai-practitioner-exam-14ni)
+- [AWS re:Invent 2025 - Driving modernization using Mphasis’ Agentic AI framework &lpar;MAM219&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-driving-modernization-using-mphasis-agentic-ai-framework-mam219-4b54)
+- [Part 1: What a Backend Really Is &lpar;A Gentle Introduction&rpar;](https://dev.to/samwitadhikary/part-1-what-a-backend-really-is-a-gentle-introduction-2e0d)
+- [AWS re:Invent 2025 - What&#39;s new with AWS File Storage &lpar;STG203&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-whats-new-with-aws-file-storage-stg203-30l5)
+- [AWS re:Invent 2025 - Zero-Touch Secret Rotation, now available for your third-party secrets &lpar;SEC230&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-zero-touch-secret-rotation-now-available-for-your-third-party-secrets-sec230-fne)
+- [AWS re:Invent 2025 - Building resilience against ransomware using AWS Backup &lpar;STG412&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-building-resilience-against-ransomware-using-aws-backup-stg412-2g8m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
