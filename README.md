@@ -120,11 +120,14 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [No More VMs: Run Oracle Database 23ai Natively on Apple Silicon in Seconds](https://dev.to/smyekh/no-more-vms-run-oracle-database-23ai-natively-on-apple-silicon-in-seconds-5dof)
-- [Creating, Running, and Managing Python Projects in Visual Studio](https://dev.to/carl_max007/creating-running-and-managing-python-projects-in-visual-studio-33ea)
-- [Introduction](https://dev.to/esther_okafor_5a68bc4c5c8/introduction-3bil)
-- [Why Automating Product Data Validation Matters &lpar;And How Modern Teams Actually Do It&rpar;](https://dev.to/olivia_20dbd2aa062e456ef8/why-automating-product-data-validation-matters-and-how-modern-teams-actually-do-it-94b)
-- [How are you adapting your design process for AI in 2026? What&#39;s your plan?](https://dev.to/emma_schmidt_/how-are-you-adapting-your-design-process-for-ai-in-2026-whats-your-plan-32lp)
+- [Component Testing vs. Unit Testing: Key Differences](https://dev.to/matt_calder_e620d84cf0c14/component-testing-vs-unit-testing-key-differences-20nj)
+- [The Green Stack: How Developers Can Engineer a Sustainable Future &lpar;and Save Money&rpar;](https://dev.to/energy_solutions_2050/the-green-stack-how-developers-can-engineer-a-sustainable-future-and-save-money-3flo)
+- [Just published a new blog on DEV Community! 🚀
+If you’ve ever struggled with messy URL search params in Next.js, this breakdown of nuqs shows how to make them fully type-safe, reactive, and effortless to manage.
+
+Would love your feedback](https://dev.to/tphilus/just-published-a-new-blog-on-dev-community-if-youve-ever-struggled-with-messy-url-search-14g2)
+- [AI_Assisted_Devops_Day-3_Project-2_Gemini_LLM](https://dev.to/samarth_funde_827f904823b/aiassisteddevopsday-3project-2-e6i)
+- [A Simple Workflow That Makes You a Faster Developer](https://dev.to/leena_malhotra/a-simple-workflow-that-makes-you-a-faster-developer-3b5l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
