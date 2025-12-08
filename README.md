@@ -120,14 +120,13 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Component Testing vs. Unit Testing: Key Differences](https://dev.to/matt_calder_e620d84cf0c14/component-testing-vs-unit-testing-key-differences-20nj)
-- [The Green Stack: How Developers Can Engineer a Sustainable Future &lpar;and Save Money&rpar;](https://dev.to/energy_solutions_2050/the-green-stack-how-developers-can-engineer-a-sustainable-future-and-save-money-3flo)
-- [Just published a new blog on DEV Community! 🚀
-If you’ve ever struggled with messy URL search params in Next.js, this breakdown of nuqs shows how to make them fully type-safe, reactive, and effortless to manage.
+- [PDF Power-Up: Merge, Reorder, and Decrypt PDFs with a Local Python App](https://dev.to/aairom/pdf-power-up-merge-reorder-and-decrypt-pdfs-with-a-local-python-app-jdh)
+- [The Future of AI Process Automation: What to Expect in 2026
 
-Would love your feedback](https://dev.to/tphilus/just-published-a-new-blog-on-dev-community-if-youve-ever-struggled-with-messy-url-search-14g2)
-- [AI_Assisted_Devops_Day-3_Project-2_Gemini_LLM](https://dev.to/samarth_funde_827f904823b/aiassisteddevopsday-3project-2-e6i)
-- [A Simple Workflow That Makes You a Faster Developer](https://dev.to/leena_malhotra/a-simple-workflow-that-makes-you-a-faster-developer-3b5l)
+When most people think of automation, they imagine machines performing repetitive tasks. AI process automation goes much further than that. Instead of just following fixed rules, AI-powered.](https://dev.to/raininfotech/the-future-of-ai-process-automation-what-to-expect-in-2026-when-most-people-think-of-4jeh)
+- [Artificial Intelligence in Everyday Work: Why Local Models Matter &lpar;Introduction&rpar;](https://dev.to/alexlead/artificial-intelligence-in-everyday-work-why-local-models-matter-introduction-2dm7)
+- [How CGFEL Makes Education Loans Easier for Students in India](https://dev.to/gov01/how-cgfel-makes-education-loans-easier-for-students-in-india-1c93)
+- [Voice AI Agents: A New Era in Banking Customer Support](https://dev.to/unleashxai/voice-ai-agents-a-new-era-in-banking-customer-support-36nh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
