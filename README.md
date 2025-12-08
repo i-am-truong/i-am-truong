@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Assessing DevOps with Continuous Delivery statements](https://dev.to/_steve_fenton_/assessing-devops-with-continuous-delivery-statements-2lb3)
+- [Trình bày đồ án như thế nào?](https://dev.to/longtth/trinh-bay-do-an-nhu-the-nao-269g)
+- [Elevate SDK Integration: Monetizing Conversations with Monetzly’s Platform](https://dev.to/monetzly/elevate-sdk-integration-monetizing-conversations-with-monetzlys-platform-551f)
+- [AWS vs Azure vs Google Cloud in 2026: Which Cloud Should Students Learn First?](https://dev.to/keerthana_696356/aws-vs-azure-vs-google-cloud-in-2026-which-cloud-should-students-learn-first-4g0l)
 - [🔥 Day 7: PySpark Joins, Unions, and GroupBy Guide](https://dev.to/sandeepk27/day-7-pyspark-joins-unions-and-groupby-guide-472l)
-- [AI Won&#39;t Take Your Job &lpar;But Fear Might&rpar;](https://dev.to/crawleyprint_71/ai-wont-take-your-job-but-fear-might-5e3o)
-- [2025-12-08 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-08-daily-ai-news-1pfg)
-- [Why You Need to Manage AI Like a New Hire](https://dev.to/al_goodniss_roguecoderz/why-you-need-to-manage-ai-like-a-new-hire-4boh)
-- [1925. Count Square Sum Triples](https://dev.to/mdarifulhaque/1925-count-square-sum-triples-5fpe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
