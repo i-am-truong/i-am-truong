@@ -120,13 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [PDF Power-Up: Merge, Reorder, and Decrypt PDFs with a Local Python App](https://dev.to/aairom/pdf-power-up-merge-reorder-and-decrypt-pdfs-with-a-local-python-app-jdh)
-- [The Future of AI Process Automation: What to Expect in 2026
-
-When most people think of automation, they imagine machines performing repetitive tasks. AI process automation goes much further than that. Instead of just following fixed rules, AI-powered.](https://dev.to/raininfotech/the-future-of-ai-process-automation-what-to-expect-in-2026-when-most-people-think-of-4jeh)
-- [Artificial Intelligence in Everyday Work: Why Local Models Matter &lpar;Introduction&rpar;](https://dev.to/alexlead/artificial-intelligence-in-everyday-work-why-local-models-matter-introduction-2dm7)
-- [How CGFEL Makes Education Loans Easier for Students in India](https://dev.to/gov01/how-cgfel-makes-education-loans-easier-for-students-in-india-1c93)
-- [Voice AI Agents: A New Era in Banking Customer Support](https://dev.to/unleashxai/voice-ai-agents-a-new-era-in-banking-customer-support-36nh)
+- [Building and Growing PS Home Maintenance: Challenges, C++ Implementation, and Future Vision](https://dev.to/trustedhandymanx/building-and-growing-ps-home-maintenance-challenges-c-implementation-and-future-vision-2amd)
+- [Optimizing Complex Business Operations with OptaPlanner: A Complete Guide](https://dev.to/richa_singh_11bd098df12c8/optimizing-complex-business-operations-with-optaplanner-a-complete-guide-2a7h)
+- [How to Design Two Practical Orchestration Loops for LLM Agents](https://dev.to/marcosomma/how-to-design-two-practical-orchestration-loops-for-llm-agents-513k)
+- [Advent of Cyber 2025: Day 4 Writeup AI-AI-AI | TryHackMe](https://dev.to/mahin101/advent-of-cyber-2025-day-4-writeup-ai-ai-ai-tryhackme-10dd)
+- [useTransition vs useOptimistic](https://dev.to/shieldstring/usetransition-vs-useoptimistic-1in2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
