@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Interesting read](https://dev.to/best_codes/interesting-read-16ci)
-- [Ace Your Tech Skills With Quipoin’s MCQ Hub - Java, HTML, CSS, Spring &amp; More](https://dev.to/quipoin_a9cb84280f6225b1e/ace-your-tech-skills-with-quipoins-mcq-hub-java-html-css-spring-more-2fop)
-- [The Secret Life of JavaScript: Understanding &#39;this&#39;](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-understanding-this-2i4)
-- [Why Every Developer Needs Digital Marketing Skills in 2026](https://dev.to/digicarrom/why-every-developer-needs-digital-marketing-skills-in-2026-52o8)
-- [Database Migration: Safely Managing Dev and Production Environments](https://dev.to/pipipi-dev/database-migration-safely-managing-dev-and-production-environments-2nfh)
+- [Asaaju Peter Reports Security Breach Caused by Malicious WordPress Plugin](https://dev.to/phemight_technologies_281/asaaju-peter-reports-security-breach-caused-by-malicious-wordpress-plugin-4d8c)
+- [🔥 21 Days of Building a Small Language Model.🔥](https://dev.to/lakhera2015/21-days-of-building-a-small-language-model-58gn)
+- [TypeScript 7 is Being Rewritten in Go. This is Microsoft&#39;s Biggest Bet on the JavaScript Ecosystem](https://dev.to/riddd/typescript-7-is-being-rewritten-in-go-this-is-microsofts-biggest-bet-on-the-javascript-ecosystem-2ijm)
+- [Unlock GPU Power with CUDA Tiles: A Python Developer&#39;s Guide](https://dev.to/mabualzait/unlock-gpu-power-with-cuda-tiles-a-python-developers-guide-1mf5)
+- [⚡ Stop Letting Your GPU Sleep: Monetize Energy &amp; Compute with 3 Lines of Code](https://dev.to/synapsefounder/stop-letting-your-gpu-sleep-monetize-energy-compute-with-3-lines-of-code-5h10)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
