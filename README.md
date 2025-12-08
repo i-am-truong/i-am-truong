@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Data warehouse without using SQL](https://dev.to/esproc_spl/data-warehouse-without-using-sql-5941)
-- [How to handle Async Rendering in Vue with Suspense?](https://dev.to/jacobandrewsky/how-to-handle-async-rendering-in-vue-with-suspense-34mj)
-- [Twitter based Rich Text telegram-ish group chat engine made with Uno](https://dev.to/ibrahim124185/twitter-based-rich-text-telegram-ish-group-chat-engine-made-with-uno-4f9l)
-- [Advent of Agents - Day 4](https://dev.to/liberifatali/advent-of-agents-day-4-1843)
-- [What Is a Pocket Mattress? Complete Guide for Beginners](https://dev.to/mattressland/what-is-a-pocket-mattress-complete-guide-for-beginners-16bo)
+- [Two People, Same Body: A Developer&#39;s Crisis Architecture](https://dev.to/crisiscoresystems/two-people-same-body-a-developers-crisis-architecture-25ko)
+- [ECT Sensor: The Coolant Diviner of Your Engine’s Magic 🔮](https://dev.to/ersajay/ect-sensor-the-coolant-diviner-of-your-engines-magic-21o5)
+- [ClimateIQ - AI Acceleration](https://dev.to/omkar598/climateiq-ai-acceleration-2330)
+- [🌍 Green Hosting: How Choosing an Eco-Friendly Web Host Can Save the Planet](https://dev.to/okoye_ndidiamaka_5e3b7d30/green-hosting-how-choosing-an-eco-friendly-web-host-can-save-the-planet-16b0)
+- [Setting Up a 24/7 Sales Machine: Payments, Delivery, and Customer Support Automation](https://dev.to/prateekshaweb/setting-up-a-247-sales-machine-payments-delivery-and-customer-support-automation-38n6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
