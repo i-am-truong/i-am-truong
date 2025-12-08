@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 18: Python programming](https://dev.to/aruna_arun_0cda4eb425bb0f/day-18-python-programming-32k6)
-- [BitsInBinary is building a free tech ecosystem — tools, learning content, and a community designed for students and developers. No paywalls. No barriers. Just value. 🚀](https://dev.to/asadityasonu/bitsinbinary-is-building-a-free-tech-ecosystem-tools-learning-content-and-a-community-designed-4i1b)
-- [APIs de tradução em nuvem estão com os dias contados](https://dev.to/paulinhoprado/apis-de-traducao-em-nuvem-estao-com-os-dias-contados-5fph)
-- [**Technical AI Sports Coach Challenge: &#39;Adaptive Tactical Fo](https://dev.to/drcarlosruizviquez/technical-ai-sports-coach-challenge-adaptive-tactical-fo-6bf)
-- [Your Essential Guide to Smart, Sustainable Cultivation with BioCAZ &amp; CAZAG](https://dev.to/clean_airzon_f525ac253ba/your-essential-guide-to-smart-sustainable-cultivation-with-biocaz-cazag-3i11)
+- [AWS re:Invent 2025 - What Database Would Your AI Agents Choose - Escape the Frankenstack &lpar;DAT203&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-what-database-would-your-ai-agents-choose-escape-the-frankenstack-dat203-58c4)
+- [AWS re:Invent 2025 - AWS and Oracle: Transforming Healthcare &lpar;HMC211&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-aws-and-oracle-transforming-healthcare-hmc211-ecn)
+- [Myth: AI in healthcare will replace human doctors and nurses](https://dev.to/drcarlosruizviquez/myth-ai-in-healthcare-will-replace-human-doctors-and-nurses-4ee0)
+- [Run Python Code Instantly, Anywhere](https://dev.to/samarthupadhyay/run-python-code-instantly-anywhere-4jdp)
+- [**Efficient Distributed Hyperparameter Tuning with Ray and O](https://dev.to/drcarlosruizviquez/efficient-distributed-hyperparameter-tuning-with-ray-and-o-5c66)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
