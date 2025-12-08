@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mandatory Profile in Oracle Database](https://dev.to/vahidusefzadeh/mandatory-profile-in-oracle-database-36hg)
-- [The AI Collaboration Paradox: Why Being Smart Isn&#39;t Enough Anymore](https://dev.to/ttoss/the-ai-collaboration-paradox-why-being-smart-isnt-enough-anymore-1aha)
-- [10 Cool CodePen Demos &lpar;October 2025&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-october-2025-mce)
-- [AWS vs Azure: Which Cloud Platform Makes More Sense for Your Career?](https://dev.to/technogeekscspuneindia/aws-vs-azure-which-cloud-platform-makes-more-sense-for-your-career-1gfl)
-- [Day 8 — Threat Validation &lpar;The Girl in the Red Cloak&rpar;](https://dev.to/aerabi/day-8-threat-validation-the-girl-in-the-red-cloak-4h9a)
+- [Easily Build a Frontend for your AWS Strands Agents using AG-UI in 30 minutes](https://dev.to/copilotkit/easily-build-a-frontend-for-your-aws-strands-agents-using-ag-ui-in-30-minutes-42ji)
+- [Only the strongest will survive?](https://dev.to/spo0q/only-the-strongest-will-survive-363k)
+- [Ton app risque d&#39;être rejetée en 2026 si tu ignores les nouveaux requis](https://dev.to/onepoint/ton-app-risque-detre-rejetee-en-2026-si-tu-ignores-les-nouveaux-requis-en)
+- [How Rasha Anayah Emphasizes the Climate Benefits of Shifting to Plant-Based Diets](https://dev.to/rashaanayah2/how-rasha-anayah-emphasizes-the-climate-benefits-of-shifting-to-plant-based-diets-4elp)
+- [Life Update #1](https://dev.to/ctrix/life-update-1-30fg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
