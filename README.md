@@ -40,7 +40,7 @@
 
 > 📦 161.9 kB Used in GitHub's Storage 
  > 
-> 🏆 1,085 Contributions in the Year 2025
+> 🏆 1,086 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -87,14 +87,14 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in TypeScript** 
+**I Mostly Code in JavaScript** 
 
 ```text
-TypeScript               12 repos            █████████░░░░░░░░░░░░░░░░   37.50 % 
-JavaScript               12 repos            █████████░░░░░░░░░░░░░░░░   37.50 % 
-Java                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+JavaScript               13 repos            ██████████░░░░░░░░░░░░░░░   39.39 % 
+TypeScript               12 repos            █████████░░░░░░░░░░░░░░░░   36.36 % 
+Java                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 ```
 
 
@@ -104,7 +104,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/i-am-truong/i-am-truong/master/assets/bar_graph.png)
 
 
- Last Updated on 07/12/2025 17:15:30 UTC
+ Last Updated on 08/12/2025 17:19:38 UTC
 <!--END_SECTION:waka-->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=i-am-truong&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=ambient_gradient&rank_icon=percentile&show_icons=true&include_all_commits=true&hide_border=true&count_private=true)
