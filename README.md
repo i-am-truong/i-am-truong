@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AWS re:Invent 2025 - Driving modernization using Mphasis’ Agentic AI framework &lpar;MAM219&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-driving-modernization-using-mphasis-agentic-ai-framework-mam219-4b54)
-- [Part 1: What a Backend Really Is &lpar;A Gentle Introduction&rpar;](https://dev.to/samwitadhikary/part-1-what-a-backend-really-is-a-gentle-introduction-2e0d)
-- [AWS re:Invent 2025 - What&#39;s new with AWS File Storage &lpar;STG203&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-whats-new-with-aws-file-storage-stg203-30l5)
-- [AWS re:Invent 2025 - Zero-Touch Secret Rotation, now available for your third-party secrets &lpar;SEC230&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-zero-touch-secret-rotation-now-available-for-your-third-party-secrets-sec230-fne)
-- [AWS re:Invent 2025 - Building resilience against ransomware using AWS Backup &lpar;STG412&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-building-resilience-against-ransomware-using-aws-backup-stg412-2g8m)
+- [Liella Chat](https://dev.to/john_cortez_b14920c7f3dd9/liella-chat-235m)
+- [L’IA Générative dans le DevSecOps](https://dev.to/nawres_zarouki_d68cbbfab5/lia-generative-dans-le-devsecops-565i)
+- [AWS re:Invent 2025 - Building Intelligent Workflows with Event Driven AI &lpar;MAM327&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-building-intelligent-workflows-with-event-driven-ai-mam327-5adn)
+- [AWS re:Invent 2025 - Launch web applications in seconds with Amazon ECS [Butterfly] &lpar;CNS379&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-launch-web-applications-in-seconds-with-amazon-ecs-butterfly-cns379-35lb)
+- [AWS re:Invent 2025 - Grupo Tress Internacional&#39;s .NET modernization with AWS Transform &lpar;MAM320&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-grupo-tress-internacionals-net-modernization-with-aws-transform-mam320-2co0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
