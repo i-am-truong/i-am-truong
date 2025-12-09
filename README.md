@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built an MCP Server to Create HubSpot Marketing Emails with Claude](https://dev.to/hdmt/i-built-an-mcp-server-to-create-hubspot-marketing-emails-with-claude-1k04)
-- [When Does the Role of a Software Architect Truly Make a Difference in a Project?](https://dev.to/douglas_mor/when-does-the-role-of-a-software-architect-truly-make-a-difference-in-a-project-35mi)
-- [🚀 My Journey into the Engineering for Change Fellowship: Engineering for People and Planet](https://dev.to/hargunkaur/my-journey-into-the-engineering-for-change-fellowship-engineering-for-people-and-planet-1cp4)
-- [Webhook Warfare: Battling Silent Failures in Payment Integrations](https://dev.to/makai_4c7291bbc35741a3920/webhook-warfare-battling-silent-failures-in-payment-integrations-40d5)
-- [Lessons from React2Shell](https://dev.to/cheetah100/lessons-from-react2shell-1m8b)
+- [MCP Sampling: When Your Tools Need to Think](https://dev.to/blockopensource/mcp-sampling-when-your-tools-need-to-think-2d2c)
+- [Meet Hubble: A Natural-Language Observatory for MongoDB](https://dev.to/davidos366/meet-hubble-a-natural-language-observatory-for-mongodb-2lal)
+- [January&#39;s Gold Mine: Why Your Holiday Window Shoppers Are Worth More Than You Think](https://dev.to/synergistdigitalmedia/januarys-gold-mine-why-your-holiday-window-shoppers-are-worth-more-than-you-think-31mk)
+- [2025-12-09 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-09-daily-ai-news-45om)
+- [Global Error Handling in SwiftUI](https://dev.to/sebastienlato/global-error-handling-in-swiftui-18i0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
