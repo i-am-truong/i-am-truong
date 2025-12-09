@@ -120,10 +120,10 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Framework-Level Look at Angular Views: Why Your Angular UI Falls Apart — and How Routing Fixes It](https://dev.to/ayush_maurya_/a-framework-level-look-at-angular-views-why-your-angular-ui-falls-apart-and-how-routing-fixes-it-2fj0)
 - [AI Automation: How to Build LLM Apps, AI Agents and Automated Workflows](https://dev.to/yeahiasarker/ai-automation-how-to-build-llm-apps-ai-agents-and-automated-workflows-5c1o)
 - [TikTok Shop + Performance Max: What&#39;s Actually Working in Social Commerce Right Now](https://dev.to/synergistdigitalmedia/tiktok-shop-performance-max-whats-actually-working-in-social-commerce-right-now-531k)
 - [Best SQL Courses with Certificates for 2026](https://dev.to/srdan_borovi_584c6b1d773/best-sql-courses-with-certificates-for-2026-2gfj)
-- [Mastering Lightning App Builder in 2025 A Practical Guide for Salesforce Admins &amp; Builders](https://dev.to/selavina_b_de3b87f13c96a6/mastering-lightning-app-builder-in-2025-a-practical-guide-for-salesforce-admins-builders-2h7m)
 - [How I Cut My Debugging Time in Half as a Front-End Developer &lpar;A Practical Guide&rpar;](https://dev.to/eleftheriabatsou/how-i-cut-my-debugging-time-in-half-as-a-front-end-developer-a-practical-guide-3kd0)
 <!-- BLOG-POST-LIST:END -->
 
