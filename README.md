@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Every Conference Needs a Nursing Room](https://dev.to/blackgirlbytes/why-every-conference-needs-a-nursing-room-3g74)
-- [Stop Making Boring UIs: React Native Animations with Reanimated](https://dev.to/saloniagrawal/stop-making-boring-uis-react-native-animations-with-reanimated-5018)
-- [The Silent Disappearance of Moles: Why a Small Creature’s Decline Matters More Than We Think](https://dev.to/indoyamada/the-silent-disappearance-of-moles-why-a-small-creatures-decline-matters-more-than-we-think-30a)
-- [A Framework-Level Look at Angular Views: Why Your Angular UI Falls Apart — and How Routing Fixes It](https://dev.to/ayush_maurya_/a-framework-level-look-at-angular-views-why-your-angular-ui-falls-apart-and-how-routing-fixes-it-2fj0)
-- [Gitleaks Pre-Commit Hook](https://dev.to/amedeov/gitleaks-pre-commit-hook-45m3)
+- [Blue–Green Deployment with Nginx Upstream](https://dev.to/oluchi_oraekwe_b0bf2c5abc/blue-green-deployment-with-nginx-upstreams-99p)
+- [How to swap between React Native Storybook 10 and your app](https://dev.to/dannyhw/how-to-swap-between-react-native-storybook-10-and-your-app-e9e)
+- [The WordPress Interactivity API: Building Dynamic Blocks Without Custom JavaScript](https://dev.to/paulocarvajal/the-wordpress-interactivity-api-building-dynamic-blocks-without-custom-javascript-1ppb)
+- [Compliance Outsourcing: A Smarter Approach to Managing Compliance Projects](https://dev.to/techwithandrew/compliance-outsourcing-a-smarter-approach-to-managing-compliance-projects-3hoa)
+- [tailscaled 保活 shell 脚本](https://dev.to/dragon72463399/tailscaled-bao-huo-shell-jiao-ben-3e5k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
