@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Side Copilot: My Chrome Extension Alternative to Comet Browser](https://dev.to/kingyou/side-copilot-my-chrome-extension-alternative-to-comet-browser-48cm)
-- [From NestJS to malloc: My Nightly Battle with Memory](https://dev.to/fauzanfebrian/from-nestjs-to-malloc-my-nightly-battle-with-memory-460n)
-- [Transform Your SDK Integration with Monetzly&#39;s AI Conversation Tools](https://dev.to/monetzly/transform-your-sdk-integration-with-monetzlys-ai-conversation-tools-127a)
-- [Clients can rate your soft skills on Upwork](https://dev.to/chocomastery/clients-can-rate-your-soft-skills-on-upwork-1aic)
-- [Zero Trust Security Explained: Why &quot;Firewalls&quot; Are Dead in 2026](https://dev.to/srfdeveloper/zero-trust-security-explained-why-firewalls-are-dead-in-2026-4idg)
+- [Inter-Region Connectivity in AWS using CloudWAN](https://dev.to/shajam/inter-region-connectivity-in-aws-using-cloudwan-183f)
+- [Advent of AI 2025 - Day 6: Automating GitHub Issue Triage with Goose](https://dev.to/nickytonline/advent-of-ai-2025-day-6-automating-github-issue-triage-with-goose-1pn5)
+- [Made a Hindi meme-based Resume Roaster 🔥 Upload your resume &amp; get roasted instantly 😂](https://dev.to/omsaidesaii/made-a-hindi-meme-based-resume-roaster-upload-your-resume-get-roasted-instantly-1gli)
+- [Python developer](https://dev.to/pratyush_mohanty_84c1d763/python-developer-eon)
+- [Automating Word Document Text Extraction in Python](https://dev.to/allen_yang_f905170c5a197b/automating-word-document-text-extraction-in-python-2gc5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
