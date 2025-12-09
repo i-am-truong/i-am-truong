@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Introducing BICO v2.0.0 — The Next-Gen Bulk Image Converter &amp; Optimizer &lpar;React + Electron&rpar; - Desktop App](https://dev.to/shehari007/introducing-bico-v200-the-next-gen-bulk-image-converter-optimizer-react-electron--22ee)
+- [Open source is about vendor lock-in](https://dev.to/yawaramin/open-source-is-about-vendor-lock-in-3fhf)
 - [MCP Sampling: When Your Tools Need to Think](https://dev.to/blockopensource/mcp-sampling-when-your-tools-need-to-think-2d2c)
 - [Meet Hubble: A Natural-Language Observatory for MongoDB](https://dev.to/davidos366/meet-hubble-a-natural-language-observatory-for-mongodb-2lal)
 - [January&#39;s Gold Mine: Why Your Holiday Window Shoppers Are Worth More Than You Think](https://dev.to/synergistdigitalmedia/januarys-gold-mine-why-your-holiday-window-shoppers-are-worth-more-than-you-think-31mk)
-- [2025-12-09 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-09-daily-ai-news-45om)
-- [Global Error Handling in SwiftUI](https://dev.to/sebastienlato/global-error-handling-in-swiftui-18i0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
