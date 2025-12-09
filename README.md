@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [EC2 Lab: Launching an Instance in a Private Subnet &lpar;Private Access&rpar;](https://dev.to/figueroaeandres/ec2-lab-launching-an-instance-in-a-private-subnet-private-access-5d1e)
+- [Ringer Movies: The Truth About Netflix Buying Warner Bros.](https://dev.to/popcorn_movies/ringer-movies-the-truth-about-netflix-buying-warner-bros-4l88)
+- [The Invisible Hand You&#39;re Ignoring: Macroeconomics Decoded](https://dev.to/thinkaddict/the-invisible-hand-youre-ignoring-macroeconomics-decoded-23ip)
 - [How do you vet a Lead Backend Engineer when AI makes everyone sound senior?](https://dev.to/delivery/how-do-you-vet-a-lead-backend-engineer-when-ai-makes-everyone-sound-senior-4k6j)
 - [The &quot;Unattainable Key&quot;: Mitigating RCE with Architectural Cryptography](https://dev.to/tidefoundation/the-unattainable-key-mitigating-rce-with-architectural-cryptography-3km3)
-- [AWS re:Invent 2025 - Agentic data engineering with AWS Analytics MCP Servers &lpar;ANT335&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-agentic-data-engineering-with-aws-analytics-mcp-servers-ant335-3kao)
-- [AWS re:Invent 2025 - A leader&#39;s guide to data strategy in the era of agentic AI &lpar;SNR202&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-a-leaders-guide-to-data-strategy-in-the-era-of-agentic-ai-snr202-4pmc)
-- [AWS re:Invent 2025 - Modernize your data warehouse by moving to Amazon Redshift &lpar;ANT317&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-modernize-your-data-warehouse-by-moving-to-amazon-redshift-ant317-jee)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
