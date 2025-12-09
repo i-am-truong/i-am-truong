@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Meet the AI That Shrinks Your Knowledge Base 128x And Still Answers Better](https://dev.to/aiwithapex/meet-the-ai-that-shrinks-your-knowledge-base-128x-and-still-answers-better-1k01)
 - [Digital Transformation: Why 70% Fail; And How 30% Win](https://dev.to/djinn/digital-transformation-why-70-fail-and-how-30-win-3lhc)
 - [Step-by-Step Guide to Upgrading Veeam Backup &amp; Replication](https://dev.to/itcs11/step-by-step-guide-to-upgrading-veeam-backup-replication-4nin)
+- [The Journey of React State Management: From Flux Redux Redux Toolkit](https://dev.to/imsushant12/the-journey-of-react-state-management-from-flux-redux-redux-toolkit-3mjc)
 - [CRM Software Development Services: Build Smarter Customer Experiences with Oodles](https://dev.to/oodlesplatform/crm-software-development-services-build-smarter-customer-experiences-with-oodles-4ci1)
-- [Build Your Own npm create CLI for Both React Frontend &amp; Node.js Backend &lpar;Full-Stack Starter&rpar;](https://dev.to/sajal_sahu/build-your-own-npm-create-cli-for-both-react-frontend-nodejs-backend-full-stack-starter-4f9m)
-- [We built AutoMusic.ai so creators don’t need to worry about music anymore](https://dev.to/lynn123456/we-built-automusicai-so-creators-dont-need-to-worry-about-music-anymore-2kj5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
