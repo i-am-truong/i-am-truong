@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building an Automated Docker Deployment Script: A Complete Beginner&#39;s Guide](https://dev.to/primocrypt/building-an-automated-docker-deployment-script-a-complete-beginners-guide-2b0f)
+- [Fundamentos de Resiliência no Amazon EKS: Como projetar workloads tolerantes a falhas em produção](https://dev.to/aws-builders/fundamentos-de-resiliencia-no-amazon-eks-como-projetar-workloads-tolerantes-a-falhas-em-producao-2e53)
 - [What I See From The Blood Donation Intake Desk](https://dev.to/evelynbrooks/what-i-see-from-the-blood-donation-intake-desk-19gg)
 - [From Monolith to Modular &lpar;A basic simple example&rpar;](https://dev.to/arsalanbardsiri/from-monolith-to-modular-a-basic-simple-example-1bi2)
-- [Containerized Microservices with Full Automation](https://dev.to/herdeybayor/containerized-microservices-with-full-automation-2plf)
-- [Blue/Green Deployment with Nginx Auto-Failover](https://dev.to/herdeybayor/bluegreen-deployment-with-nginx-auto-failover-2abo)
-- [Building a Production-Ready CI/CD Pipeline: Automating Infrastructure with Terraform, GitHub Actions, and Ansible](https://dev.to/primocrypt/building-a-production-ready-cicd-pipeline-automating-infrastructure-with-terraform-github-33gg)
+- [Continuous Journey through Dagster - bugs and testing](https://dev.to/jongwan93/continuous-journey-through-dagster-bugs-and-testing-4d5b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
