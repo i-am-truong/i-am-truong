@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Agentic AI Security: Why Autonomous Systems Require a New Security Framework](https://dev.to/alifar/agentic-ai-security-why-autonomous-systems-require-a-new-security-framework-44n6)
-- [Don&#39;t Make Them Think: Designing Intuitive UIs for Complex Data Engines](https://dev.to/ffteamnames/dont-make-them-think-designing-intuitive-uis-for-complex-data-engines-emf)
-- [Real Estate Tokenization for Retail Investors: Top Benefits You Should Know](https://dev.to/suzie_iris_65ce8070067366/real-estate-tokenization-for-retail-investors-top-benefits-you-should-know-529i)
-- [What Is The Difference Between Single and Double Quotes in PHP?](https://dev.to/vijaythapa/what-is-the-difference-between-single-and-double-quotes-in-php-2b69)
-- [halaldonerkabab: Your Top Choice for Halal Food in Baltimore Maryland and Leading Halal Restaurants Maryland](https://dev.to/robert_james_5745b20bdf64/halaldonerkabab-your-top-choice-for-halal-food-in-baltimore-maryland-and-leading-halal-2d91)
+- [StackConvert: Free Online File Conversion Tools](https://dev.to/rahmat_ullah_646d3e085019/stackconvert-free-online-file-conversion-tools-496l)
+- [Why I Recommend You to Migrate from Cloudflare to SafeLine WAF](https://dev.to/arina_cholee/why-i-recommend-you-to-migrate-from-cloudflare-to-safeline-waf-2j22)
+- [Building a Managed Database Service on €3 Hetzner Servers: The Economics of EU Cloud Sovereignty](https://dev.to/muhiak/building-a-managed-database-service-on-eu3-hetzner-servers-the-economics-of-eu-cloud-sovereignty-237g)
+- [Beyond finding: Remediating CVE-2025-55182 across hundreds of repositories with Ona Automations](https://dev.to/siddhantkcode/beyond-finding-remediating-cve-2025-55182-across-hundreds-of-repositories-with-ona-automations-1p3n)
+- [Angular Addicts #44: Angular 21, Signal Forms, Vitest, Chat assistant integration &amp; more](https://dev.to/this-is-angular/angular-addicts-44-angular-21-signal-forms-vitest-chat-assistant-integration-more-2ee8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
