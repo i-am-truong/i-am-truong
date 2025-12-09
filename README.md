@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Daily Tech News Roundup - 2025-12-09](https://dev.to/atharvshinde2004/daily-tech-news-roundup-2025-12-09-3m1p)
+- [Building Stateful vs. Stateless AI Agents: A Deep Dive with Gaia Nodes and Supermemory](https://dev.to/gaiaai/building-stateful-vs-stateless-ai-agents-a-deep-dive-with-gaia-nodes-and-supermemory-37mh)
 - [Inter-Region Connectivity in AWS using CloudWAN](https://dev.to/shajam/inter-region-connectivity-in-aws-using-cloudwan-183f)
 - [Advent of AI 2025 - Day 6: Automating GitHub Issue Triage with Goose](https://dev.to/nickytonline/advent-of-ai-2025-day-6-automating-github-issue-triage-with-goose-1pn5)
-- [Made a Hindi meme-based Resume Roaster 🔥 Upload your resume &amp; get roasted instantly 😂](https://dev.to/omsaidesaii/made-a-hindi-meme-based-resume-roaster-upload-your-resume-get-roasted-instantly-1gli)
-- [Python developer](https://dev.to/pratyush_mohanty_84c1d763/python-developer-eon)
-- [Automating Word Document Text Extraction in Python](https://dev.to/allen_yang_f905170c5a197b/automating-word-document-text-extraction-in-python-2gc5)
+- [M365 RAHSI-AIZ™ | The Next Evolution of Tenant-Level AI Defense](https://dev.to/aakash_rahsi_8d28156d5f2c/m365-rahsi-aiz-the-next-evolution-of-tenant-level-ai-defense-46fa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
