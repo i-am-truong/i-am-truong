@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [StackConvert: Free Online File Conversion Tools](https://dev.to/rahmat_ullah_646d3e085019/stackconvert-free-online-file-conversion-tools-496l)
-- [Why I Recommend You to Migrate from Cloudflare to SafeLine WAF](https://dev.to/arina_cholee/why-i-recommend-you-to-migrate-from-cloudflare-to-safeline-waf-2j22)
-- [Building a Managed Database Service on €3 Hetzner Servers: The Economics of EU Cloud Sovereignty](https://dev.to/muhiak/building-a-managed-database-service-on-eu3-hetzner-servers-the-economics-of-eu-cloud-sovereignty-237g)
-- [Beyond finding: Remediating CVE-2025-55182 across hundreds of repositories with Ona Automations](https://dev.to/siddhantkcode/beyond-finding-remediating-cve-2025-55182-across-hundreds-of-repositories-with-ona-automations-1p3n)
-- [Angular Addicts #44: Angular 21, Signal Forms, Vitest, Chat assistant integration &amp; more](https://dev.to/this-is-angular/angular-addicts-44-angular-21-signal-forms-vitest-chat-assistant-integration-more-2ee8)
+- [🔥 The Night npm Caught Fire: Inside the 2025 JavaScript Supply-Chain Meltdown 📉](https://dev.to/usman_awan/the-night-npm-caught-fire-inside-the-2025-javascript-supply-chain-meltdown-52o3)
+- [How Switching to SafeLine WAF Improved My E-Commerce Site’s Security](https://dev.to/arina_cholee/how-switching-to-safeline-waf-improved-my-e-commerce-sites-security-1gfc)
+- [Day-14: Project - Deploying a Static website using Terraform](https://dev.to/bhaskara_tejabulusu_b4bf/day-14-project-deploying-a-static-website-using-terraform-pjd)
+- [Java String Tan&lpar;&rpar;? The Truth About Strings &amp; Trigonometry](https://dev.to/satyam_gupta_0d1ff2152dcc/java-string-tan-the-truth-about-strings-trigonometry-43ap)
+- [NES Series &lpar;Part 2&rpar;: Real-Time Context Management in Your Code Editor](https://dev.to/getpochi/nes-series-part-2-real-time-context-management-in-your-code-editor-3jeo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
