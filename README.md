@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Protect Your AI Agent Fleets with MachineID.io — Drop-In Templates for Python, LangChain, Swarm &amp; CrewAI](https://dev.to/machineid/protect-your-ai-agent-fleets-with-machineidio-drop-in-templates-for-python-langchain-swarm--17c9)
-- [Zero-Friction AI Dev: Build and Deploy Chatbots with a Single Docker Compose File](https://dev.to/m_josh/zero-friction-ai-dev-build-and-deploy-chatbots-with-a-single-docker-compose-file-alj)
-- [30 Days of Data Engineering Challenge — Day 2: Data Engineering vs Data Science vs Data Analytics](https://dev.to/pawandeore/30-days-of-data-engineering-challenge-day-2-data-engineering-vs-data-science-vs-data-analytics-4nbf)
-- [whatis htop](https://dev.to/scorcism/whatis-htop-4j8h)
-- [Streaming Agents on AWS](https://dev.to/aws/streaming-agents-on-aws-3610)
+- [IAM Policies vs Resource Policies: Lessons from Production &lpar;and the Gym&rpar;](https://dev.to/tony_uketui_6cca68c7eba02/iam-policies-vs-resource-policies-lessons-from-production-and-the-gym-2ce9)
+- [Will WebAssembly Kill JavaScript? Let’s Find Out &lpar;+ Live Demo&rpar; 🚀](https://dev.to/sylwia-lask/will-webassembly-kill-javascript-lets-find-out-live-demo-43ln)
+- [Scaling Ad Campaigns with Genra&#39;s AI Video Generation](https://dev.to/genra_ai/scaling-ad-campaigns-with-genras-ai-video-generation-5e3k)
+- [Markdown Style Guide: Best Practices for Content Creation](https://dev.to/quesby/markdown-style-guide-best-practices-for-content-creation-15nm)
+- [Installing Apps with Homebrew on macOS 26 Tahoe](https://dev.to/dev_neil_a/installing-apps-with-homebrew-on-macos-26-tahoe-15ea)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
