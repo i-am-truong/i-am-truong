@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [IAM Policies vs Resource Policies: Lessons from Production &lpar;and the Gym&rpar;](https://dev.to/tony_uketui_6cca68c7eba02/iam-policies-vs-resource-policies-lessons-from-production-and-the-gym-2ce9)
-- [Will WebAssembly Kill JavaScript? Let’s Find Out &lpar;+ Live Demo&rpar; 🚀](https://dev.to/sylwia-lask/will-webassembly-kill-javascript-lets-find-out-live-demo-43ln)
-- [Scaling Ad Campaigns with Genra&#39;s AI Video Generation](https://dev.to/genra_ai/scaling-ad-campaigns-with-genras-ai-video-generation-5e3k)
-- [Markdown Style Guide: Best Practices for Content Creation](https://dev.to/quesby/markdown-style-guide-best-practices-for-content-creation-15nm)
-- [Installing Apps with Homebrew on macOS 26 Tahoe](https://dev.to/dev_neil_a/installing-apps-with-homebrew-on-macos-26-tahoe-15ea)
+- [How I Built a Calendly Alternative in 4 Weeks &lpar;and Why&rpar;](https://dev.to/kalman_andrasi_312b8afaaf/how-i-built-a-calendly-alternative-in-4-weeks-and-why-2840)
+- [Automating EL pipeline using Azure Functions&lpar;Python&rpar;](https://dev.to/nafisahbadmos/automating-el-pipeline-using-azure-functionspython-4p8c)
+- [I Started Coding in 2024. Here’s Why My First &quot;Hello World&quot; Came with a Carbon Footprint.](https://dev.to/qubit_abhay/i-started-coding-in-2024-heres-why-my-first-hello-world-came-with-a-carbon-footprint-5e74)
+- [Why &quot;Just Coding&quot; Isn&#39;t Enough Anymore – The Anatomy of a Modern Developer Stack](https://dev.to/toviszsolt/why-just-coding-isnt-enough-anymore-the-anatomy-of-a-modern-developer-stack-e0d)
+- [5-Day AI Agents Intensive Course](https://dev.to/bhagya_govindan_3dfa5fa0f/5-day-ai-agents-intensive-course-h9l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
