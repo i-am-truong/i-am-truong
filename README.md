@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Tesla System Design Interview Lessons I Learned from Cracking Their Coding Challenge](https://dev.to/dev_loops/tesla-system-design-interview-lessons-i-learned-from-cracking-their-coding-challenge-1p8c)
-- [🚀 Modern CI/CD for Microservices: Monorepos, AWS, Jenkins &amp; What Tech Giants Actually Use](https://dev.to/nk_sk_6f24fdd730188b284bf/modern-cicd-for-microservices-monorepos-aws-jenkins-what-tech-giants-actually-use-1bpd)
-- [Here&#39;s my new blog post, I had been working and testing Nextjs 15 for two months and here&#39;s a summary of it.](https://dev.to/sheraz4194/heres-my-new-blog-post-i-had-been-working-and-testing-nextjs-15-for-two-months-and-heres-a-1g80)
-- [Make Games with Flutter in 2025: Flame Engine, Tools, and Free Assets](https://dev.to/krlz/make-games-with-flutter-in-2025-flame-engine-tools-and-free-assets-1n6)
-- [What&#39;s new Nextjs 15?](https://dev.to/sheraz4194/whats-new-nextjs-15-3fia)
+- [AI Automation: How to Build LLM Apps, AI Agents and Automated Workflows](https://dev.to/yeahiasarker/ai-automation-how-to-build-llm-apps-ai-agents-and-automated-workflows-5c1o)
+- [TikTok Shop + Performance Max: What&#39;s Actually Working in Social Commerce Right Now](https://dev.to/synergistdigitalmedia/tiktok-shop-performance-max-whats-actually-working-in-social-commerce-right-now-531k)
+- [Best SQL Courses with Certificates for 2026](https://dev.to/srdan_borovi_584c6b1d773/best-sql-courses-with-certificates-for-2026-2gfj)
+- [Mastering Lightning App Builder in 2025 A Practical Guide for Salesforce Admins &amp; Builders](https://dev.to/selavina_b_de3b87f13c96a6/mastering-lightning-app-builder-in-2025-a-practical-guide-for-salesforce-admins-builders-2h7m)
+- [How I Cut My Debugging Time in Half as a Front-End Developer &lpar;A Practical Guide&rpar;](https://dev.to/eleftheriabatsou/how-i-cut-my-debugging-time-in-half-as-a-front-end-developer-a-practical-guide-3kd0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
