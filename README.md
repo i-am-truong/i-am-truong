@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Your EC2 Server Suddenly Stops Responding — And How to Bulletproof Laravel &amp; Node Apps](https://dev.to/abstractmusa/why-your-ec2-server-suddenly-stops-responding-and-how-to-bulletproof-laravel-node-apps-13l8)
-- [suppa - one command to dive into the Android SDK](https://dev.to/kenkoro/suppa-one-command-to-dive-into-the-android-sdk-ne7)
-- [Migrating from Python 2 to Python 3](https://dev.to/smarttabdev/migrating-from-python-2-to-python-3-2p1a)
-- [6 Vibe Coding Tools That Make Development Actually Feel Smooth](https://dev.to/james_miller_8dc58a89cb9e/6-vibe-coding-tools-that-make-development-actually-feel-smooth-164n)
-- [Building an Android Video Call Application with ZEGOCLOUD CallKit &lpar;Kotlin&rpar;](https://dev.to/sandy_pradana86/building-an-android-video-call-application-with-zegocloud-callkit-kotlin-30ib)
+- [Instagram&#39;s Discovery Feed: What Actually Works &lpar;Beyond the Usual &#39;Post More Reels&#39; Advice&rpar;](https://dev.to/synergistdigitalmedia/instagrams-discovery-feed-what-actually-works-beyond-the-usual-post-more-reels-advice-2cop)
+- [Implementing Semantic Anomaly Detection with OpenTelemetry and Redis](https://dev.to/riferrei/implementing-semantic-anomaly-detection-with-opentelemetry-and-redis-4506)
+- [How I Use Printable Planning Sheets to Improve My Dev Workflow](https://dev.to/bakhat_yar_016451bb6f3b86/how-i-use-printable-planning-sheets-to-improve-my-dev-workflow-2ebn)
+- [Building a Production-Ready Shopify App with Background Jobs: A Complete Architecture Guide](https://dev.to/mehedi_hassanshifat_072e/architecture-524d)
+- [How to Build an AI vs Human Image Detector Using Streamlit &amp; Transformers](https://dev.to/themustaphatijani/how-to-build-an-ai-vs-human-image-detector-using-streamlit-transformers-2a61)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
