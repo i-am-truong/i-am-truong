@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Projector Botnet: How a Simple Home Device Was Exploited for Ads, Data, and Bandwidth](https://dev.to/dayvid_kelly/the-projector-botnet-how-a-simple-home-device-was-exploited-for-ads-data-and-bandwidth-1049)
-- [Swift #7: Tuplas](https://dev.to/david_goyes_a488f58a17a53/swift-7-tuplas-3oja)
-- [The Kubernetes Context Switching Nightmare is Over](https://dev.to/kadirbelkuyu/the-kubernetes-context-switching-nightmare-is-over-1jkg)
-- [🚀 Meet Loopi: The Open-Source Visual Automation Tool I Wish I Had Years Ago](https://dev.to/0018akhil/meet-loopi-the-open-source-visual-automation-tool-i-wish-i-had-years-ago-30fh)
-- [Swift #6: Opcionales](https://dev.to/david_goyes_a488f58a17a53/swift-6-opcionales-165n)
+- [Why GitFlow Fails at Infrastructure](https://dev.to/dortort/why-gitflow-fails-at-infrastructure-90f)
+- [🎨 I Built My Developer Portfolio at 14 — Here’s What I Learned](https://dev.to/similol3/i-built-my-developer-portfolio-at-14-heres-what-i-learned-2791)
+- [I Built an AI-Powered AWS Waste Detector &lpar;and Found $4,200 in My Own Account&rpar;](https://dev.to/cloudwiseteam/i-built-an-ai-powered-aws-waste-detector-and-found-4200-in-my-own-account-2cc4)
+- [MCP Wins, But the War Just Started: Why Standardization Won&#39;t Save Us from Lock-in](https://dev.to/fl4tlin3/mcp-wins-but-the-war-just-started-why-standardization-wont-save-us-from-lock-in-53a4)
+- [AI in Healthcare](https://dev.to/alexdavis123/ai-in-healthcare-583o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
