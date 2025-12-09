@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Every Conference Needs a Nursing Room](https://dev.to/blackgirlbytes/why-every-conference-needs-a-nursing-room-3g74)
+- [Stop Making Boring UIs: React Native Animations with Reanimated](https://dev.to/saloniagrawal/stop-making-boring-uis-react-native-animations-with-reanimated-5018)
+- [The Silent Disappearance of Moles: Why a Small Creature’s Decline Matters More Than We Think](https://dev.to/indoyamada/the-silent-disappearance-of-moles-why-a-small-creatures-decline-matters-more-than-we-think-30a)
 - [A Framework-Level Look at Angular Views: Why Your Angular UI Falls Apart — and How Routing Fixes It](https://dev.to/ayush_maurya_/a-framework-level-look-at-angular-views-why-your-angular-ui-falls-apart-and-how-routing-fixes-it-2fj0)
-- [AI Automation: How to Build LLM Apps, AI Agents and Automated Workflows](https://dev.to/yeahiasarker/ai-automation-how-to-build-llm-apps-ai-agents-and-automated-workflows-5c1o)
-- [TikTok Shop + Performance Max: What&#39;s Actually Working in Social Commerce Right Now](https://dev.to/synergistdigitalmedia/tiktok-shop-performance-max-whats-actually-working-in-social-commerce-right-now-531k)
-- [Best SQL Courses with Certificates for 2026](https://dev.to/srdan_borovi_584c6b1d773/best-sql-courses-with-certificates-for-2026-2gfj)
-- [How I Cut My Debugging Time in Half as a Front-End Developer &lpar;A Practical Guide&rpar;](https://dev.to/eleftheriabatsou/how-i-cut-my-debugging-time-in-half-as-a-front-end-developer-a-practical-guide-3kd0)
+- [Gitleaks Pre-Commit Hook](https://dev.to/amedeov/gitleaks-pre-commit-hook-45m3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
