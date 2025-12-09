@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Code to Context: Building Semantic Search &amp; Live Chat Over Your Codebase with Vezlo](https://dev.to/ashford_ai/from-code-to-context-building-semantic-search-live-chat-over-your-codebase-with-vezlo-4aa1)
-- [Build a Free, Private “Chat with PDF” App in 70 Lines of Python](https://dev.to/fabiothiroki/build-a-free-private-chat-with-pdf-app-in-70-lines-of-python-4dn8)
-- [From Python Script to Docker Container: A Beginner&#39;s Guide &lpar;Windows + WSL2&rpar;](https://dev.to/raafe_asad/from-python-script-to-docker-container-a-beginners-guide-windows-wsl2-c48)
-- [Made a $10 “Mood Lamp” with ESP32, WS2812B, and Ambient Light Sensor](https://dev.to/emma-suntech/made-a-10-mood-lamp-with-esp32-ws2812b-and-ambient-light-sensor-172h)
-- [Critical RSC CVE, Auth CN, Next.js interview malware, fallback rewrites, faster K8s, Bun&#39;s acquisition](https://dev.to/erfanebrahimnia/critical-rsc-cve-auth-cn-nextjs-interview-malware-fallback-rewrites-faster-k8s-buns-3k72)
+- [The Illusions of Quality — Episode 12: The Future of Quality — AI, Automation, and the Human Gatekeeper ✨](https://dev.to/abdulosman/the-illusions-of-quality-episode-12-the-future-of-quality-ai-automation-and-the-human-5a9e)
+- [New in Symfony 7.4: Signing Messages](https://dev.to/mattleads/new-in-symfony-74-signing-messages-37kb)
+- [Stop paying for unnecessary reasoning](https://dev.to/inozem/stop-paying-for-unnecessary-reasoning-g4i)
+- [Integrating ZEGOCLOUD Video Calling in React.js — Complete Guide](https://dev.to/coding_4dev_87893f55d90d/integrating-zegocloud-video-calling-in-reactjs-complete-guide-5839)
+- [eBPF Tutorial by Example: Tracing Intel NPU Kernel Driver Operations](https://dev.to/yunwei37/ebpf-tutorial-by-example-tracing-intel-npu-kernel-driver-operations-82h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
