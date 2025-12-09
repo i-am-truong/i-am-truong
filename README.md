@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Tum | Modo | Postea](https://dev.to/mizouzie/tum-modo-postea-5dlo)
+- [How to safely run cron jobs in Docker &lpar;with monitoring&rpar;](https://dev.to/lmadev/how-to-safely-run-cron-jobs-in-docker-with-monitoring-4nkm)
+- [Coding with Rust for &quot;Rust&quot;: Modeling the 100-Hour Battery Grid](https://dev.to/energy_solutions_2050/coding-with-rust-for-rust-modeling-the-100-hour-battery-grid-1j0i)
+- [Kinzoku Blueprint Forge: AI-Powered Prototyping for Engineers](https://dev.to/anasmasama/kinzoku-blueprint-forge-ai-powered-prototyping-for-engineers-2p5c)
 - [Day 2 | 🎅 He knows if you have been bad or good... But what if he gets it wrong?](https://dev.to/alexiskroberson/day-2-he-knows-if-you-have-been-bad-or-good-but-what-if-he-gets-it-wrong-17k6)
-- [26. Remove Duplicates from Sorted Array | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/26-remove-duplicates-from-sorted-array-leetcode-top-interview-150-coding-questions-453i)
-- [From Chatting with AI to Architecting It](https://dev.to/roi_d95df0bf6e689c571b39a/from-chatting-with-ai-to-architecting-it-5a9k)
-- [MCP won, but the Lock-in War just started. Why &quot;Agent-first&quot; scares vendors more than &quot;Open-source&quot; saves them.](https://dev.to/fl4tlin3/mcp-won-but-the-lock-in-war-just-started-why-agent-first-scares-vendors-more-than-open-source-1odl)
-- [Why GitFlow Fails at Infrastructure](https://dev.to/dortort/why-gitflow-fails-at-infrastructure-90f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
