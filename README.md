@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Taming the 5–10% Instability Rule: Using ASA for Deterministic Regeneration](https://dev.to/vibecodiq/taming-the-5-10-instability-rule-using-asa-for-deterministic-regeneration-3j0b)
-- [How to Secure Your AI App Against Prompt Injection in 5 Minutes](https://dev.to/abhijoy_sarkar_c3f44842fa/how-to-secure-your-ai-app-against-prompt-injection-in-5-minutes-4hpl)
-- [5 Patrones de Orquestación Multi-Agente que Funcionan en Producción &lpar;LangGraph&rpar;](https://dev.to/abdessamad_ammi_202ac2bad/5-patrones-de-orquestacion-multi-agente-que-funcionan-en-produccion-langgraph-1f1)
-- [Interview preparation #1](https://dev.to/arun_kumar_98/interview-preparation-1-37o9)
-- [What is useState?with example?](https://dev.to/aj_arul/what-is-usestatewith-example-1ca9)
+- [Google Workspace Developer News: Granular OAuth rollout, Drive Events, Meet API, and more!](https://dev.to/googleworkspace/google-workspace-developer-news-granular-oauth-rollout-drive-events-meet-api-and-more-5gd5)
+- [Host Your Node.js MCP Server on Azure Functions in 3 Simple Steps](https://dev.to/azure/host-your-nodejs-mcp-server-on-azure-functions-in-3-simple-steps-3ao8)
+- [N8n + Zapier vs Make: The Ultimate Workflow Automation Showdown 2025](https://dev.to/joe_joe/n8n-zapier-vs-make-the-ultimate-workflow-automation-showdown-2025-38do)
+- [Smart Search in PostgreSQL: How to Perform Fast and Accurate Searches with Full-Text Search and GIN Indexing](https://dev.to/rivka_h/smart-search-in-postgresql-how-to-perform-fast-and-accurate-searches-with-full-text-search-and-gin-206b)
+- [Rightsizing Kubernetes Requests with the In-Place Vertical Pod Autoscaler](https://dev.to/klip_klop/rightsizing-kubernetes-requests-with-the-in-place-vertical-pod-autoscaler-299m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
