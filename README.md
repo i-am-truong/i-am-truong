@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Daily Tech News Roundup - 2025-12-09](https://dev.to/atharvshinde2004/daily-tech-news-roundup-2025-12-09-3m1p)
-- [Building Stateful vs. Stateless AI Agents: A Deep Dive with Gaia Nodes and Supermemory](https://dev.to/gaiaai/building-stateful-vs-stateless-ai-agents-a-deep-dive-with-gaia-nodes-and-supermemory-37mh)
-- [Inter-Region Connectivity in AWS using CloudWAN](https://dev.to/shajam/inter-region-connectivity-in-aws-using-cloudwan-183f)
-- [Advent of AI 2025 - Day 6: Automating GitHub Issue Triage with Goose](https://dev.to/nickytonline/advent-of-ai-2025-day-6-automating-github-issue-triage-with-goose-1pn5)
-- [M365 RAHSI-AIZ™ | The Next Evolution of Tenant-Level AI Defense](https://dev.to/aakash_rahsi_8d28156d5f2c/m365-rahsi-aiz-the-next-evolution-of-tenant-level-ai-defense-46fa)
+- [Your First Marketing Dashboard: 7 Metrics That Actually Matter &lpar;And 12 You Can Ignore&rpar;](https://dev.to/synergistdigitalmedia/your-first-marketing-dashboard-7-metrics-that-actually-matter-and-12-you-can-ignore-3al6)
+- [Why Speed Is the New Competitive Advantage for Modern Apps](https://dev.to/misterankit/why-speed-is-the-new-competitive-advantage-for-modern-apps-5chl)
+- [🇺🇸 America’s Demographic Crossroads](https://dev.to/bibimbop123/americas-demographic-crossroads-b0k)
+- [Your AI Agent Config is Technical Debt You Haven&#39;t Acknowledged Yet](https://dev.to/prashamtrivedi/your-ai-agent-config-is-technical-debt-you-havent-acknowledged-yet-520a)
+- [fullcircle • Mindful Dating App](https://dev.to/canberkvarli/fullcircle-where-spiritual-practice-meets-meaningful-connection-52ab)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
