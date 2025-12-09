@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 13 : Understanding Terraform Data Sources Like a Human, Not a Robot](https://dev.to/alafiz/day-13-understanding-terraform-data-sources-like-a-human-not-a-robot-4p04)
-- [True Parallelism in R Using the parallel Package](https://dev.to/dipti_moryani_08e62702314/true-parallelism-in-r-using-the-parallel-package-1m0i)
-- [Day 9: Spark SQL Deep Dive - Temp Views, Query Execution &amp; Optimization Tips for Data Engineers](https://dev.to/sandeepk27/day-9-spark-sql-deep-dive-temp-views-query-execution-optimization-tips-for-data-engineers-35gh)
-- [I built an AI-powered Portfolio Tracker](https://dev.to/julienesn/i-built-an-ai-powered-portfolio-tracker-2oen)
-- [Fixing &quot;Network Error&quot; in React Native When Connecting to QA Servers with HTTPS](https://dev.to/iraycd/fixing-network-error-in-react-native-when-connecting-to-qa-servers-with-https-56d6)
+- [Day 10: Partitioning vs Bucketing - The Spark Optimization Guide Every Data Engineer Needs](https://dev.to/sandeepk27/day-10-partitioning-vs-bucketing-the-spark-optimization-guide-every-data-engineer-needs-mlj)
+- [88. Merge Sorted Array | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/88-merge-sorted-array-leetcode-top-interview-150-coding-questions-24e2)
+- [How to Work on a Team with Git &amp; GitHub Without Breaking Everything](https://dev.to/vincenttommi/how-to-work-on-a-team-with-git-github-without-breaking-everything-17fo)
+- [How to Read Email Inbox in .NET Core | IMAP/POP3 Guide](https://dev.to/flexyadmin/how-to-read-email-inbox-in-net-core-imappop3-guide-198c)
+- [Ownership in Rust](https://dev.to/sumana10/ownership-in-rust-46b5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
