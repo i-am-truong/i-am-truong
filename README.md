@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Code Block Click Copy](https://dev.to/mizouzie/code-block-click-copy-1bke)
-- [The Fragmentation Dilemma and the Unifying Protocol](https://dev.to/onlineproxyio/the-fragmentation-dilemma-and-the-unifying-protocol-5841)
-- [80. Remove Duplicates from Sorted Array II | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/80-remove-duplicates-from-sorted-array-ii-leetcode-top-interview-150-coding-questions-3cci)
-- [Tum | Modo | Postea](https://dev.to/mizouzie/tum-modo-postea-5dlo)
-- [How to safely run cron jobs in Docker &lpar;with monitoring&rpar;](https://dev.to/lmadev/how-to-safely-run-cron-jobs-in-docker-with-monitoring-4nkm)
+- [Containerized Microservices with Full Automation](https://dev.to/herdeybayor/containerized-microservices-with-full-automation-2plf)
+- [Blue/Green Deployment with Nginx Auto-Failover](https://dev.to/herdeybayor/bluegreen-deployment-with-nginx-auto-failover-2abo)
+- [Building a Production-Ready CI/CD Pipeline: Automating Infrastructure with Terraform, GitHub Actions, and Ansible](https://dev.to/primocrypt/building-a-production-ready-cicd-pipeline-automating-infrastructure-with-terraform-github-33gg)
+- [Stop Clicking, Start Shipping: A Minimalist Dashboard for Netlify](https://dev.to/vamshi4001/stop-clicking-start-shipping-a-minimalist-dashboard-for-netlify-2ckn)
+- [Shallow Copy vs Deep Copy in JavaScript — Quick and Clear explanation](https://dev.to/shantih_palani/shallow-copy-vs-deep-copy-in-javascript-quick-clear-slightly-funny-4d98)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
