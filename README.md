@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Add Your Inquiry API Responses into Google Sheets &lpar;Automatic, No Duplicates&rpar;](https://dev.to/thevenice/how-to-add-your-inquiry-api-responses-into-google-sheets-automatic-no-duplicates-3h5m)
-- [鬼影沒在怕！](https://dev.to/_038e4f994b9cc37b8f54f/gui-ying-mei-zai-pa--4a6f)
-- [Technology Best IT Solutions for Businesses Using Cloud Solutions and Emerging Technologies](https://dev.to/itcs11/technologybest-it-solutions-for-businesses-using-cloud-solutions-and-emerging-technologies-250k)
-- [Stop Scrolling: Your Call System Might Be Holding You Back](https://dev.to/ecosmob_technologies/stop-scrolling-your-call-system-might-be-holding-you-back-1f3i)
-- [TODAY TRY ONE STRING PROGRAM IN REVERSE WORD](https://dev.to/ranjith_ranjith_6851c8e0a/today-try-one-string-program-in-reverse-word-443g)
+- [Digital Transformation: Why 70% Fail; And How 30% Win](https://dev.to/djinn/digital-transformation-why-70-fail-and-how-30-win-3lhc)
+- [Step-by-Step Guide to Upgrading Veeam Backup &amp; Replication](https://dev.to/itcs11/step-by-step-guide-to-upgrading-veeam-backup-replication-4nin)
+- [CRM Software Development Services: Build Smarter Customer Experiences with Oodles](https://dev.to/oodlesplatform/crm-software-development-services-build-smarter-customer-experiences-with-oodles-4ci1)
+- [Build Your Own npm create CLI for Both React Frontend &amp; Node.js Backend &lpar;Full-Stack Starter&rpar;](https://dev.to/sajal_sahu/build-your-own-npm-create-cli-for-both-react-frontend-nodejs-backend-full-stack-starter-4f9m)
+- [We built AutoMusic.ai so creators don’t need to worry about music anymore](https://dev.to/lynn123456/we-built-automusicai-so-creators-dont-need-to-worry-about-music-anymore-2kj5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
