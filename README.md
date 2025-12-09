@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🔥 The Night npm Caught Fire: Inside the 2025 JavaScript Supply-Chain Meltdown 📉](https://dev.to/usman_awan/the-night-npm-caught-fire-inside-the-2025-javascript-supply-chain-meltdown-52o3)
-- [How Switching to SafeLine WAF Improved My E-Commerce Site’s Security](https://dev.to/arina_cholee/how-switching-to-safeline-waf-improved-my-e-commerce-sites-security-1gfc)
-- [Day-14: Project - Deploying a Static website using Terraform](https://dev.to/bhaskara_tejabulusu_b4bf/day-14-project-deploying-a-static-website-using-terraform-pjd)
-- [Java String Tan&lpar;&rpar;? The Truth About Strings &amp; Trigonometry](https://dev.to/satyam_gupta_0d1ff2152dcc/java-string-tan-the-truth-about-strings-trigonometry-43ap)
-- [NES Series &lpar;Part 2&rpar;: Real-Time Context Management in Your Code Editor](https://dev.to/getpochi/nes-series-part-2-real-time-context-management-in-your-code-editor-3jeo)
+- [Going beyond autocomplete with AI Agents](https://dev.to/wildgoosedevelopers/going-beyond-autocomplete-with-ai-agents-1cee)
+- [🎮 7 React Game Challenges You Should Try This Month](https://dev.to/duffmancc/7-react-game-challenges-you-should-try-this-month-3f86)
+- [Digital Personal Data Protection Act 2023: What It Is and Why It Matters](https://dev.to/cybersigma/digital-personal-data-protection-act-2023-what-it-is-and-why-it-matters-1145)
+- [n8n: Google Sheets - Append row in sheet](https://dev.to/codebangkok/n8n-google-sheets-append-row-in-sheet-ode)
+- [Linux history](https://dev.to/precious_chisom_429930fe0/linux-history-3g42)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
