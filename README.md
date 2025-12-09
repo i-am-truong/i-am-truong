@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Writing cleaner, scalable JavaScript starts with small habits.](https://dev.to/dharamgfx/writing-cleaner-scalable-javascript-starts-with-small-habits-38fe)
-- [Antivirus on AWS](https://dev.to/cloudxs/antivirus-on-aws-5e67)
-- [Document and Contract Management Solution for SAP SuccessFactors HCM](https://dev.to/kavya_manohara_d73d046c5d/document-and-contract-management-solution-for-sap-successfactors-hcm-6ag)
-- [Quality Over Quantity: Why Solving 500 LeetCode Problems Won&#39;t Get You Hired](https://dev.to/alex_hunter_44f4c9ed6671e/quality-over-quantity-why-solving-500-leetcode-problems-wont-get-you-hired-446n)
-- [What to Do When You Don&#39;t Understand a LeetCode Problem](https://dev.to/alex_hunter_44f4c9ed6671e/what-to-do-when-you-dont-understand-a-leetcode-problem-5786)
+- [Agentic AI Security: Why Autonomous Systems Require a New Security Framework](https://dev.to/alifar/agentic-ai-security-why-autonomous-systems-require-a-new-security-framework-44n6)
+- [Don&#39;t Make Them Think: Designing Intuitive UIs for Complex Data Engines](https://dev.to/ffteamnames/dont-make-them-think-designing-intuitive-uis-for-complex-data-engines-emf)
+- [Real Estate Tokenization for Retail Investors: Top Benefits You Should Know](https://dev.to/suzie_iris_65ce8070067366/real-estate-tokenization-for-retail-investors-top-benefits-you-should-know-529i)
+- [What Is The Difference Between Single and Double Quotes in PHP?](https://dev.to/vijaythapa/what-is-the-difference-between-single-and-double-quotes-in-php-2b69)
+- [halaldonerkabab: Your Top Choice for Halal Food in Baltimore Maryland and Leading Halal Restaurants Maryland](https://dev.to/robert_james_5745b20bdf64/halaldonerkabab-your-top-choice-for-halal-food-in-baltimore-maryland-and-leading-halal-2d91)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
