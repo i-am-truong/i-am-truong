@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why I Chose Monorepo Architecture: From Code Chaos to 2.8s Builds](https://dev.to/saswatapal/why-i-chose-monorepo-architecture-from-code-chaos-to-28s-builds-2p5a)
-- [I Tried Cleaning 5,000+ Rows of Messy Excel Data… and Realized the Problem Is Bigger Than I Thought](https://dev.to/mohammad_ehsanansari_671/i-tried-cleaning-5000-rows-of-messy-excel-data-and-realized-the-problem-is-bigger-than-i-thought-1lml)
-- [21700 vs. 18650 Lithium Batteries: A Data-Driven Comparative Guide](https://dev.to/randle_qiu_be28d083f7caab/21700-vs-18650-lithium-batteries-a-data-driven-comparative-guide-ffn)
-- [Support Content Hubs: Creating Thematic Collections That Drive Value](https://dev.to/freepixel11/support-content-hubs-creating-thematic-collections-that-drive-value-1gdl)
-- [The Ultimate Guide to Automate Outlook for B2B Sales](https://dev.to/itcs11/the-ultimate-guide-to-automate-outlook-for-b2b-sales-3ln9)
+- [From Code to Context: Building Semantic Search &amp; Live Chat Over Your Codebase with Vezlo](https://dev.to/ashford_ai/from-code-to-context-building-semantic-search-live-chat-over-your-codebase-with-vezlo-4aa1)
+- [Build a Free, Private “Chat with PDF” App in 70 Lines of Python](https://dev.to/fabiothiroki/build-a-free-private-chat-with-pdf-app-in-70-lines-of-python-4dn8)
+- [From Python Script to Docker Container: A Beginner&#39;s Guide &lpar;Windows + WSL2&rpar;](https://dev.to/raafe_asad/from-python-script-to-docker-container-a-beginners-guide-windows-wsl2-c48)
+- [Made a $10 “Mood Lamp” with ESP32, WS2812B, and Ambient Light Sensor](https://dev.to/emma-suntech/made-a-10-mood-lamp-with-esp32-ws2812b-and-ambient-light-sensor-172h)
+- [Critical RSC CVE, Auth CN, Next.js interview malware, fallback rewrites, faster K8s, Bun&#39;s acquisition](https://dev.to/erfanebrahimnia/critical-rsc-cve-auth-cn-nextjs-interview-malware-fallback-rewrites-faster-k8s-buns-3k72)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
