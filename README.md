@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Google Workspace Developer News: Granular OAuth rollout, Drive Events, Meet API, and more!](https://dev.to/googleworkspace/google-workspace-developer-news-granular-oauth-rollout-drive-events-meet-api-and-more-5gd5)
-- [Host Your Node.js MCP Server on Azure Functions in 3 Simple Steps](https://dev.to/azure/host-your-nodejs-mcp-server-on-azure-functions-in-3-simple-steps-3ao8)
-- [N8n + Zapier vs Make: The Ultimate Workflow Automation Showdown 2025](https://dev.to/joe_joe/n8n-zapier-vs-make-the-ultimate-workflow-automation-showdown-2025-38do)
-- [Smart Search in PostgreSQL: How to Perform Fast and Accurate Searches with Full-Text Search and GIN Indexing](https://dev.to/rivka_h/smart-search-in-postgresql-how-to-perform-fast-and-accurate-searches-with-full-text-search-and-gin-206b)
-- [Rightsizing Kubernetes Requests with the In-Place Vertical Pod Autoscaler](https://dev.to/klip_klop/rightsizing-kubernetes-requests-with-the-in-place-vertical-pod-autoscaler-299m)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-a98)
+- [Building a Modern 911 Dispatch and Mass Notification System: A Comprehensive System Design Guide](https://dev.to/akashjeedigunta/building-a-modern-911-dispatch-and-mass-notification-system-a-comprehensive-system-design-guide-2gig)
+- [Build a Blue/Green deployment with Nginx Auto-Failover](https://dev.to/mart_young_ce778e4c31eb33/build-a-bluegreen-deployment-with-nginx-auto-failover-4fji)
+- [Journey of kaggle intensive course and competition](https://dev.to/aditya_kharole_b95c9ae15e/journey-of-kaggle-intensive-course-and-competition-1e1n)
+- [C# Data Structures Mental Model — From `User pedro` to LLM‑Ready Types](https://dev.to/cristiansifuentes/c-data-structures-mental-model-from-user-pedro-to-llm-ready-types-58kh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
