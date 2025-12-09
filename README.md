@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Terraform Data Source &lpar;AWS&rpar;](https://dev.to/adarsh_gupta_c5fecf658fd7/terraform-data-source-aws-49hd)
-- [How I Built a Calendly Alternative in 4 Weeks &lpar;and Why&rpar;](https://dev.to/kalman_andrasi_312b8afaaf/how-i-built-a-calendly-alternative-in-4-weeks-and-why-2840)
-- [Automating EL pipeline using Azure Functions&lpar;Python&rpar;](https://dev.to/nafisahbadmos/automating-el-pipeline-using-azure-functionspython-4p8c)
-- [I Started Coding in 2024. Here’s Why My First &quot;Hello World&quot; Came with a Carbon Footprint.](https://dev.to/qubit_abhay/i-started-coding-in-2024-heres-why-my-first-hello-world-came-with-a-carbon-footprint-5e74)
-- [Why &quot;Just Coding&quot; Isn&#39;t Enough Anymore – The Anatomy of a Modern Developer Stack](https://dev.to/toviszsolt/why-just-coding-isnt-enough-anymore-the-anatomy-of-a-modern-developer-stack-e0d)
+- [🚀 Fixing Slow React Native Screens: A Simple Trick That Works](https://dev.to/melby_thomas_d603fcd5f8d9/fixing-slow-react-native-screens-a-simple-trick-that-works-31ok)
+- [GraphQL Tips &amp; Tricks](https://dev.to/naur_io/graphql-tips-tricks-3o1e)
+- [How I Architected a Scalable WhatsApp Job Assistant &lpar;WorqNow&rpar;](https://dev.to/lasisi_ibrahimpelumi_dc0/how-i-architected-a-scalable-whatsapp-job-assistant-worqnow-3c0c)
+- [Building an LLM Gateway in Go: What We Learned](https://dev.to/kuldeep_paul/building-an-llm-gateway-in-go-what-we-learned-22mm)
+- [Winter in Spiti Valley: Complete Travel Guide with Room Charges, Costs &amp; Best Places to Visit](https://dev.to/biswadeep_dutta_e8eba1c95/winter-in-spiti-valley-complete-travel-guide-with-room-charges-costs-best-places-to-visit-2kon)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
