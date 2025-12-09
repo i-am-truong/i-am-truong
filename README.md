@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building an Automated Docker Deployment Script: A Complete Beginner&#39;s Guide](https://dev.to/primocrypt/building-an-automated-docker-deployment-script-a-complete-beginners-guide-2b0f)
-- [Fundamentos de Resiliência no Amazon EKS: Como projetar workloads tolerantes a falhas em produção](https://dev.to/aws-builders/fundamentos-de-resiliencia-no-amazon-eks-como-projetar-workloads-tolerantes-a-falhas-em-producao-2e53)
-- [What I See From The Blood Donation Intake Desk](https://dev.to/evelynbrooks/what-i-see-from-the-blood-donation-intake-desk-19gg)
-- [From Monolith to Modular &lpar;A basic simple example&rpar;](https://dev.to/arsalanbardsiri/from-monolith-to-modular-a-basic-simple-example-1bi2)
-- [Continuous Journey through Dagster - bugs and testing](https://dev.to/jongwan93/continuous-journey-through-dagster-bugs-and-testing-4d5b)
+- [envguard: A Better Way to Validate Environment Variables in Node.js](https://dev.to/satinathnit/envguard-a-better-way-to-validate-environment-variables-in-nodejs-560g)
+- [Chain Advisor - Earn service](https://dev.to/volodymyr_r_297e5d468a8fc/chain-advisor-earn-service-19p0)
+- [AI for Personalizing Services in Mobile Banking for SMEs](https://dev.to/it-influencer/ai-for-personalizing-services-in-mobile-banking-for-smes-3fj5)
+- [Enterprise level Agentic dev workflow with Gemini CLI, ADK, and Antigravity](https://dev.to/jimmyliao/enterprise-level-agentic-dev-workflow-with-gemini-cli-adk-and-antigravity-4p3p)
+- [The Echo Chamber of Content](https://dev.to/gigaelk/the-echo-chamber-of-content-3ojm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
