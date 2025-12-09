@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Built an MCP Server to Create HubSpot Marketing Emails with Claude](https://dev.to/hdmt/i-built-an-mcp-server-to-create-hubspot-marketing-emails-with-claude-1k04)
+- [When Does the Role of a Software Architect Truly Make a Difference in a Project?](https://dev.to/douglas_mor/when-does-the-role-of-a-software-architect-truly-make-a-difference-in-a-project-35mi)
+- [🚀 My Journey into the Engineering for Change Fellowship: Engineering for People and Planet](https://dev.to/hargunkaur/my-journey-into-the-engineering-for-change-fellowship-engineering-for-people-and-planet-1cp4)
 - [Webhook Warfare: Battling Silent Failures in Payment Integrations](https://dev.to/makai_4c7291bbc35741a3920/webhook-warfare-battling-silent-failures-in-payment-integrations-40d5)
 - [Lessons from React2Shell](https://dev.to/cheetah100/lessons-from-react2shell-1m8b)
-- [Software Engineering Principles and Ethics](https://dev.to/talking-about-testing/software-engineering-principles-and-ethics-3pge)
-- [Advent of Code 2025 - December 9th](https://dev.to/robvanderleek/advent-of-code-2025-december-9th-5lc)
-- [My Senior Dev - AI-Powered Code Reviews Built for Power Users](https://dev.to/devdiaries/my-senior-dev-ai-powered-code-reviews-built-for-power-users-mb3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
