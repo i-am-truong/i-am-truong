@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [10 Open-Source Tools That Replaced My Paid SaaS Stack &lpar;And Why They Actually Deserved To&rpar;](https://dev.to/sonu_goswami/10-open-source-tools-that-replaced-my-paid-saas-stack-and-why-they-actually-deserved-to-39e6)
-- [Git Blame and Shame: The Six Worst Commit Messages I Saw This Week](https://dev.to/hotfixhero/git-blame-and-shame-the-six-worst-commit-messages-i-saw-this-week-4hpp)
-- [Going beyond autocomplete with AI Agents](https://dev.to/wildgoosedevelopers/going-beyond-autocomplete-with-ai-agents-1cee)
-- [What Is a Wireless Communication Gateway?](https://dev.to/wideiot/what-is-a-wireless-communication-gateway-3i0p)
-- [PySpark Joins and Unions Guide](https://dev.to/sandeepk27/pyspark-joins-and-unions-guide-3pmi)
+- [context-async-sqlalchemy - The best way to use sqlalchemy in an async python application](https://dev.to/krylosov-aa/context-async-sqlalchemy-the-best-way-to-use-sqlalchemy-in-an-async-python-application-c1b)
+- [How NAT Traversal Really Works: A Practical Guide to Reaching Devices Behind the Scenes](https://dev.to/lightningdev123/how-nat-traversal-really-works-a-practical-guide-to-reaching-devices-behind-the-scenes-28a2)
+- [[Boost]](https://dev.to/tonydev_/-4h0g)
+- [How to Make Viral TikTok Videos with AI](https://dev.to/_fde76ff2d01974642930b/how-to-make-viral-tiktok-videos-with-ai-1jbh)
+- [🛒 Load-Balanced Electro E-Commerce Website on AWS &lpar;Using AWS Load Balancer&rpar;](https://dev.to/laoluafolami/load-balanced-electro-e-commerce-website-on-aws-using-aws-load-balancer-2hde)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
