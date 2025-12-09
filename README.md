@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Fixing Slow React Native Screens: A Simple Trick That Works](https://dev.to/melby_thomas_d603fcd5f8d9/fixing-slow-react-native-screens-a-simple-trick-that-works-31ok)
-- [GraphQL Tips &amp; Tricks](https://dev.to/naur_io/graphql-tips-tricks-3o1e)
-- [How I Architected a Scalable WhatsApp Job Assistant &lpar;WorqNow&rpar;](https://dev.to/lasisi_ibrahimpelumi_dc0/how-i-architected-a-scalable-whatsapp-job-assistant-worqnow-3c0c)
-- [Building an LLM Gateway in Go: What We Learned](https://dev.to/kuldeep_paul/building-an-llm-gateway-in-go-what-we-learned-22mm)
-- [Winter in Spiti Valley: Complete Travel Guide with Room Charges, Costs &amp; Best Places to Visit](https://dev.to/biswadeep_dutta_e8eba1c95/winter-in-spiti-valley-complete-travel-guide-with-room-charges-costs-best-places-to-visit-2kon)
+- [YT video : https://www.youtube.com/watch?v=1mbIf1pEP0Y](https://dev.to/benjamin_leperf_2e526840/yt-video-httpswwwyoutubecomwatchv1mbif1pep0y-1hee)
+- [LLM from scratch, part 28 – training a base model from scratch on an RTX 3090](https://dev.to/technoblogger14o3/llm-from-scratch-part-28-training-a-base-model-from-scratch-on-an-rtx-3090-1274)
+- [Day 4: Four Days of Work, One Strange Dream, and a Late Start](https://dev.to/casperday11/day-4-four-days-of-work-one-strange-dream-and-a-late-start-b13)
+- [Day 3: Reflecting and pushing.](https://dev.to/casperday11/day-3-reflecting-and-pushing-3o3l)
+- [Day 2: Low Energy, Work Done Anyway](https://dev.to/casperday11/day-2-low-energy-work-done-anyway-1npj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
