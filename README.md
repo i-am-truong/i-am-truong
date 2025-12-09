@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [YT video : https://www.youtube.com/watch?v=1mbIf1pEP0Y](https://dev.to/benjamin_leperf_2e526840/yt-video-httpswwwyoutubecomwatchv1mbif1pep0y-1hee)
+- [Complete Beginner&#39;s Guide to Blue-Green Deployment with Nginx and Real-Time Alerting](https://dev.to/cypher682/complete-beginners-guide-to-blue-green-deployment-with-nginx-and-real-time-alerting-268c)
+- [Starting the Thinking in React Section: Building My usePopcorn App](https://dev.to/usama_dev/starting-the-thinking-in-react-section-building-my-usepopcorn-app-4j4i)
 - [LLM from scratch, part 28 – training a base model from scratch on an RTX 3090](https://dev.to/technoblogger14o3/llm-from-scratch-part-28-training-a-base-model-from-scratch-on-an-rtx-3090-1274)
-- [Day 4: Four Days of Work, One Strange Dream, and a Late Start](https://dev.to/casperday11/day-4-four-days-of-work-one-strange-dream-and-a-late-start-b13)
-- [Day 3: Reflecting and pushing.](https://dev.to/casperday11/day-3-reflecting-and-pushing-3o3l)
-- [Day 2: Low Energy, Work Done Anyway](https://dev.to/casperday11/day-2-low-energy-work-done-anyway-1npj)
+- [Testing: 1,2,3..](https://dev.to/eddiechem/testing-123-3ooo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
