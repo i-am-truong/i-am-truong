@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Instagram&#39;s Discovery Feed: What Actually Works &lpar;Beyond the Usual &#39;Post More Reels&#39; Advice&rpar;](https://dev.to/synergistdigitalmedia/instagrams-discovery-feed-what-actually-works-beyond-the-usual-post-more-reels-advice-2cop)
-- [Implementing Semantic Anomaly Detection with OpenTelemetry and Redis](https://dev.to/riferrei/implementing-semantic-anomaly-detection-with-opentelemetry-and-redis-4506)
-- [How I Use Printable Planning Sheets to Improve My Dev Workflow](https://dev.to/bakhat_yar_016451bb6f3b86/how-i-use-printable-planning-sheets-to-improve-my-dev-workflow-2ebn)
-- [Building a Production-Ready Shopify App with Background Jobs: A Complete Architecture Guide](https://dev.to/mehedi_hassanshifat_072e/architecture-524d)
-- [How to Build an AI vs Human Image Detector Using Streamlit &amp; Transformers](https://dev.to/themustaphatijani/how-to-build-an-ai-vs-human-image-detector-using-streamlit-transformers-2a61)
+- [Choosing a Database Isn’t About Hype - It’s About the Stage of Your Product](https://dev.to/ssh_exe/choosing-a-database-isnt-about-hype-its-about-the-stage-of-your-product-2795)
+- [Kiro: My Experience Building a Serverless App with AWS’s New Agentic IDE](https://dev.to/aws-builders/kiro-my-experience-building-a-serverless-app-with-awss-new-agentic-ide-fck)
+- [How AI Documentation Tools Cut Onboarding Time by 80%](https://dev.to/entelligenceai/how-ai-documentation-tools-cut-onboarding-time-by-80-15k5)
+- [What I Learned While Investigating Industrial Security Across Solar and BESS Sites](https://dev.to/hannerlukegif/-what-i-learned-while-investigating-industrial-security-across-solar-and-bess-sites-32li)
+- [Day 07: Getting Comfortable with Terraform Variables](https://dev.to/sreya_sharma_711168ec58fc/day-07-getting-comfortable-with-terraform-variables-4p0p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
