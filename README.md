@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Blue–Green Deployment with Nginx Upstream](https://dev.to/oluchi_oraekwe_b0bf2c5abc/blue-green-deployment-with-nginx-upstreams-99p)
-- [How to swap between React Native Storybook 10 and your app](https://dev.to/dannyhw/how-to-swap-between-react-native-storybook-10-and-your-app-e9e)
-- [The WordPress Interactivity API: Building Dynamic Blocks Without Custom JavaScript](https://dev.to/paulocarvajal/the-wordpress-interactivity-api-building-dynamic-blocks-without-custom-javascript-1ppb)
-- [Compliance Outsourcing: A Smarter Approach to Managing Compliance Projects](https://dev.to/techwithandrew/compliance-outsourcing-a-smarter-approach-to-managing-compliance-projects-3hoa)
-- [tailscaled 保活 shell 脚本](https://dev.to/dragon72463399/tailscaled-bao-huo-shell-jiao-ben-3e5k)
+- [Protect Your AI Agent Fleets with MachineID.io — Drop-In Templates for Python, LangChain, Swarm &amp; CrewAI](https://dev.to/machineid/protect-your-ai-agent-fleets-with-machineidio-drop-in-templates-for-python-langchain-swarm--17c9)
+- [Zero-Friction AI Dev: Build and Deploy Chatbots with a Single Docker Compose File](https://dev.to/m_josh/zero-friction-ai-dev-build-and-deploy-chatbots-with-a-single-docker-compose-file-alj)
+- [30 Days of Data Engineering Challenge — Day 2: Data Engineering vs Data Science vs Data Analytics](https://dev.to/pawandeore/30-days-of-data-engineering-challenge-day-2-data-engineering-vs-data-science-vs-data-analytics-4nbf)
+- [whatis htop](https://dev.to/scorcism/whatis-htop-4j8h)
+- [Streaming Agents on AWS](https://dev.to/aws/streaming-agents-on-aws-3610)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
