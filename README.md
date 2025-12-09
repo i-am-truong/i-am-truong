@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [YT video : https://www.youtube.com/watch?v=1mbIf1pEP0Y](https://dev.to/benjamin_leperf_2e526840/yt-video-httpswwwyoutubecomwatchv1mbif1pep0y-1hee)
-- [Complete Beginner&#39;s Guide to Blue-Green Deployment with Nginx and Real-Time Alerting](https://dev.to/cypher682/complete-beginners-guide-to-blue-green-deployment-with-nginx-and-real-time-alerting-268c)
-- [Starting the Thinking in React Section: Building My usePopcorn App](https://dev.to/usama_dev/starting-the-thinking-in-react-section-building-my-usepopcorn-app-4j4i)
-- [LLM from scratch, part 28 – training a base model from scratch on an RTX 3090](https://dev.to/technoblogger14o3/llm-from-scratch-part-28-training-a-base-model-from-scratch-on-an-rtx-3090-1274)
-- [Testing: 1,2,3..](https://dev.to/eddiechem/testing-123-3ooo)
+- [Taming the 5–10% Instability Rule: Using ASA for Deterministic Regeneration](https://dev.to/vibecodiq/taming-the-5-10-instability-rule-using-asa-for-deterministic-regeneration-3j0b)
+- [How to Secure Your AI App Against Prompt Injection in 5 Minutes](https://dev.to/abhijoy_sarkar_c3f44842fa/how-to-secure-your-ai-app-against-prompt-injection-in-5-minutes-4hpl)
+- [5 Patrones de Orquestación Multi-Agente que Funcionan en Producción &lpar;LangGraph&rpar;](https://dev.to/abdessamad_ammi_202ac2bad/5-patrones-de-orquestacion-multi-agente-que-funcionan-en-produccion-langgraph-1f1)
+- [Interview preparation #1](https://dev.to/arun_kumar_98/interview-preparation-1-37o9)
+- [What is useState?with example?](https://dev.to/aj_arul/what-is-usestatewith-example-1ca9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
