@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Terraform Data Source &lpar;AWS&rpar;](https://dev.to/adarsh_gupta_c5fecf658fd7/terraform-data-source-aws-49hd)
 - [How I Built a Calendly Alternative in 4 Weeks &lpar;and Why&rpar;](https://dev.to/kalman_andrasi_312b8afaaf/how-i-built-a-calendly-alternative-in-4-weeks-and-why-2840)
 - [Automating EL pipeline using Azure Functions&lpar;Python&rpar;](https://dev.to/nafisahbadmos/automating-el-pipeline-using-azure-functionspython-4p8c)
 - [I Started Coding in 2024. Here’s Why My First &quot;Hello World&quot; Came with a Carbon Footprint.](https://dev.to/qubit_abhay/i-started-coding-in-2024-heres-why-my-first-hello-world-came-with-a-carbon-footprint-5e74)
 - [Why &quot;Just Coding&quot; Isn&#39;t Enough Anymore – The Anatomy of a Modern Developer Stack](https://dev.to/toviszsolt/why-just-coding-isnt-enough-anymore-the-anatomy-of-a-modern-developer-stack-e0d)
-- [5-Day AI Agents Intensive Course](https://dev.to/bhagya_govindan_3dfa5fa0f/5-day-ai-agents-intensive-course-h9l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
