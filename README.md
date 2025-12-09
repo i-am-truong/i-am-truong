@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What I See From The Blood Donation Intake Desk](https://dev.to/evelynbrooks/what-i-see-from-the-blood-donation-intake-desk-19gg)
+- [From Monolith to Modular &lpar;A basic simple example&rpar;](https://dev.to/arsalanbardsiri/from-monolith-to-modular-a-basic-simple-example-1bi2)
 - [Containerized Microservices with Full Automation](https://dev.to/herdeybayor/containerized-microservices-with-full-automation-2plf)
 - [Blue/Green Deployment with Nginx Auto-Failover](https://dev.to/herdeybayor/bluegreen-deployment-with-nginx-auto-failover-2abo)
 - [Building a Production-Ready CI/CD Pipeline: Automating Infrastructure with Terraform, GitHub Actions, and Ansible](https://dev.to/primocrypt/building-a-production-ready-cicd-pipeline-automating-infrastructure-with-terraform-github-33gg)
-- [Stop Clicking, Start Shipping: A Minimalist Dashboard for Netlify](https://dev.to/vamshi4001/stop-clicking-start-shipping-a-minimalist-dashboard-for-netlify-2ckn)
-- [Shallow Copy vs Deep Copy in JavaScript — Quick and Clear explanation](https://dev.to/shantih_palani/shallow-copy-vs-deep-copy-in-javascript-quick-clear-slightly-funny-4d98)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
