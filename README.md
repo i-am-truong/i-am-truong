@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Excel for Project Management: Tracking Timelines and Deliverables](https://dev.to/nife_nitola/excel-for-project-management-tracking-timelines-and-deliverables-293n)
-- [Day 8 - Terraform Meta-Arguments](https://dev.to/ankitgadling/day-8-terraform-meta-arguments-16c4)
-- [Database Optimization: When and Why Your App Needs It](https://dev.to/flexyadmin/database-optimization-when-and-why-your-app-needs-it-54jb)
-- [I Got Tired of JavaScript&#39;s Date API So I Fixed It](https://dev.to/thewiz/i-got-tired-of-javascripts-date-api-so-i-fixed-it-95h)
-- [Choosing a Database Isn’t About Hype - It’s About the Stage of Your Product](https://dev.to/ssh_exe/choosing-a-database-isnt-about-hype-its-about-the-stage-of-your-product-2795)
+- [Day 13 : Understanding Terraform Data Sources Like a Human, Not a Robot](https://dev.to/alafiz/day-13-understanding-terraform-data-sources-like-a-human-not-a-robot-4p04)
+- [True Parallelism in R Using the parallel Package](https://dev.to/dipti_moryani_08e62702314/true-parallelism-in-r-using-the-parallel-package-1m0i)
+- [Day 9: Spark SQL Deep Dive - Temp Views, Query Execution &amp; Optimization Tips for Data Engineers](https://dev.to/sandeepk27/day-9-spark-sql-deep-dive-temp-views-query-execution-optimization-tips-for-data-engineers-35gh)
+- [I built an AI-powered Portfolio Tracker](https://dev.to/julienesn/i-built-an-ai-powered-portfolio-tracker-2oen)
+- [Fixing &quot;Network Error&quot; in React Native When Connecting to QA Servers with HTTPS](https://dev.to/iraycd/fixing-network-error-in-react-native-when-connecting-to-qa-servers-with-https-56d6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
