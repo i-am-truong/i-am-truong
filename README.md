@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Tech News Roundup: December 9, 2025 - OpenAI&#39;s &#39;Code Red&#39;, DeepSeek&#39;s Challenge, and the $320B AI Arms Race](https://dev.to/krlz/tech-news-roundup-december-9-2025-openais-code-red-deepseeks-challenge-and-the-320b-ai-590j)
-- [Jopi.js : I&#39;m the new community manager!](https://dev.to/claratc/jopijs-im-the-new-community-manager-1c2k)
-- [5 Business Workflows You Can Automate With n8n](https://dev.to/ciphernutz/5-business-workflows-you-can-automate-with-n8n-1kcc)
-- [The Role of Job Description in Building Organizational Culture](https://dev.to/writegenic/the-role-of-job-description-in-building-organizational-culture-17l4)
-- [Code and Coding is Dead: Function Driven Development or Extinct](https://dev.to/ryo_suwito/code-and-coding-is-dead-function-driven-development-or-extinct-4k4i)
+- [🚀 Modern CI/CD for Microservices: Monorepos, AWS, Jenkins &amp; What Tech Giants Actually Use](https://dev.to/nk_sk_6f24fdd730188b284bf/modern-cicd-for-microservices-monorepos-aws-jenkins-what-tech-giants-actually-use-1bpd)
+- [Here&#39;s my new blog post, I had been working and testing Nextjs 15 for two months and here&#39;s a summary of it.](https://dev.to/sheraz4194/heres-my-new-blog-post-i-had-been-working-and-testing-nextjs-15-for-two-months-and-heres-a-1g80)
+- [Make Games with Flutter in 2025: Flame Engine, Tools, and Free Assets](https://dev.to/krlz/make-games-with-flutter-in-2025-flame-engine-tools-and-free-assets-1n6)
+- [What&#39;s new Nextjs 15?](https://dev.to/sheraz4194/whats-new-nextjs-15-3fia)
+- [Day 14— AWS Terraform Static Website Hosting](https://dev.to/anil_kumar_noolu/day-14-aws-terraform-static-website-hosting-hbk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
