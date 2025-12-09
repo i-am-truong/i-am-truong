@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Webhook Warfare: Battling Silent Failures in Payment Integrations](https://dev.to/makai_4c7291bbc35741a3920/webhook-warfare-battling-silent-failures-in-payment-integrations-40d5)
 - [Lessons from React2Shell](https://dev.to/cheetah100/lessons-from-react2shell-1m8b)
 - [Software Engineering Principles and Ethics](https://dev.to/talking-about-testing/software-engineering-principles-and-ethics-3pge)
 - [Advent of Code 2025 - December 9th](https://dev.to/robvanderleek/advent-of-code-2025-december-9th-5lc)
 - [My Senior Dev - AI-Powered Code Reviews Built for Power Users](https://dev.to/devdiaries/my-senior-dev-ai-powered-code-reviews-built-for-power-users-mb3)
-- [envguard: A Better Way to Validate Environment Variables in Node.js](https://dev.to/satinathnit/envguard-a-better-way-to-validate-environment-variables-in-nodejs-560g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
