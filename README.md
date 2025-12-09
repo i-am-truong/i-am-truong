@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Database Optimization: When and Why Your App Needs It](https://dev.to/flexyadmin/database-optimization-when-and-why-your-app-needs-it-54jb)
+- [I Got Tired of JavaScript&#39;s Date API So I Fixed It](https://dev.to/thewiz/i-got-tired-of-javascripts-date-api-so-i-fixed-it-95h)
 - [Choosing a Database Isn’t About Hype - It’s About the Stage of Your Product](https://dev.to/ssh_exe/choosing-a-database-isnt-about-hype-its-about-the-stage-of-your-product-2795)
 - [Kiro: My Experience Building a Serverless App with AWS’s New Agentic IDE](https://dev.to/aws-builders/kiro-my-experience-building-a-serverless-app-with-awss-new-agentic-ide-fck)
 - [How AI Documentation Tools Cut Onboarding Time by 80%](https://dev.to/entelligenceai/how-ai-documentation-tools-cut-onboarding-time-by-80-15k5)
-- [What I Learned While Investigating Industrial Security Across Solar and BESS Sites](https://dev.to/hannerlukegif/-what-i-learned-while-investigating-industrial-security-across-solar-and-bess-sites-32li)
-- [Day 07: Getting Comfortable with Terraform Variables](https://dev.to/sreya_sharma_711168ec58fc/day-07-getting-comfortable-with-terraform-variables-4p0p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
