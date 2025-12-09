@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [10 Open-Source Tools That Replaced My Paid SaaS Stack &lpar;And Why They Actually Deserved To&rpar;](https://dev.to/sonu_goswami/10-open-source-tools-that-replaced-my-paid-saas-stack-and-why-they-actually-deserved-to-39e6)
+- [Git Blame and Shame: The Six Worst Commit Messages I Saw This Week](https://dev.to/hotfixhero/git-blame-and-shame-the-six-worst-commit-messages-i-saw-this-week-4hpp)
 - [Going beyond autocomplete with AI Agents](https://dev.to/wildgoosedevelopers/going-beyond-autocomplete-with-ai-agents-1cee)
-- [🎮 7 React Game Challenges You Should Try This Month](https://dev.to/duffmancc/7-react-game-challenges-you-should-try-this-month-3f86)
-- [Digital Personal Data Protection Act 2023: What It Is and Why It Matters](https://dev.to/cybersigma/digital-personal-data-protection-act-2023-what-it-is-and-why-it-matters-1145)
-- [n8n: Google Sheets - Append row in sheet](https://dev.to/codebangkok/n8n-google-sheets-append-row-in-sheet-ode)
-- [Linux history](https://dev.to/precious_chisom_429930fe0/linux-history-3g42)
+- [What Is a Wireless Communication Gateway?](https://dev.to/wideiot/what-is-a-wireless-communication-gateway-3i0p)
+- [PySpark Joins and Unions Guide](https://dev.to/sandeepk27/pyspark-joins-and-unions-guide-3pmi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
