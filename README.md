@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Swift #5: Caracteres y Strings](https://dev.to/david_goyes_a488f58a17a53/swift-5-caracteres-y-strings-1c6)
-- [Smarter Software Architecture Builds Smarter Teams](https://dev.to/leonpennings/smarter-software-architecture-builds-smarter-teams-5548)
-- [7 AI Devtools to Watch This December](https://dev.to/fernandezbaptiste/7-ai-devtools-to-watch-this-december-25hl)
-- [From Hobby to Hackathons: My Journey into Web Development - Taha Bichouina](https://dev.to/tahabicho/from-hobby-to-hackathons-my-journey-into-web-development-taha-bichouina-5g8e)
-- [Part 2: Setting Up Your First Django Project](https://dev.to/samwitadhikary/post-2-setting-up-your-first-django-project-2ken)
+- [Enrich Logs with CorrelationID in .NET](https://dev.to/joaooliveiratech/enrich-logs-with-correlationid-in-net-34fm)
+- [Different Ways to Find Even and Odd Numbers](https://dev.to/rahulraj156/different-ways-to-find-even-and-odd-numbers-2a8n)
+- [Day 21 of improving my Data Science skills](https://dev.to/sp_the_data_specialist/day-21-of-improving-my-data-science-skills-51ec)
+- [🚀 Fixing PgBouncer “FATAL: server login failed: wrong password type” When Using PostgreSQL 15–18+](https://dev.to/milindsatpute/fixing-pgbouncer-fatal-server-login-failed-wrong-password-type-when-using-postgresql-15-18-495g)
+- [🔒 Stop Downgrading Postgres: The Secure SCRAM Fix for PgBouncer Authentication](https://dev.to/milindsatpute/stop-downgrading-postgres-the-secure-scram-fix-for-pgbouncer-authentication-38na)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
