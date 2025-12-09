@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [context-async-sqlalchemy - The best way to use sqlalchemy in an async python application](https://dev.to/krylosov-aa/context-async-sqlalchemy-the-best-way-to-use-sqlalchemy-in-an-async-python-application-c1b)
-- [How NAT Traversal Really Works: A Practical Guide to Reaching Devices Behind the Scenes](https://dev.to/lightningdev123/how-nat-traversal-really-works-a-practical-guide-to-reaching-devices-behind-the-scenes-28a2)
-- [[Boost]](https://dev.to/tonydev_/-4h0g)
-- [How to Make Viral TikTok Videos with AI](https://dev.to/_fde76ff2d01974642930b/how-to-make-viral-tiktok-videos-with-ai-1jbh)
-- [🛒 Load-Balanced Electro E-Commerce Website on AWS &lpar;Using AWS Load Balancer&rpar;](https://dev.to/laoluafolami/load-balanced-electro-e-commerce-website-on-aws-using-aws-load-balancer-2hde)
+- [Tech News Roundup: December 9, 2025 - OpenAI&#39;s &#39;Code Red&#39;, DeepSeek&#39;s Challenge, and the $320B AI Arms Race](https://dev.to/krlz/tech-news-roundup-december-9-2025-openais-code-red-deepseeks-challenge-and-the-320b-ai-590j)
+- [Jopi.js : I&#39;m the new community manager!](https://dev.to/claratc/jopijs-im-the-new-community-manager-1c2k)
+- [5 Business Workflows You Can Automate With n8n](https://dev.to/ciphernutz/5-business-workflows-you-can-automate-with-n8n-1kcc)
+- [The Role of Job Description in Building Organizational Culture](https://dev.to/writegenic/the-role-of-job-description-in-building-organizational-culture-17l4)
+- [Code and Coding is Dead: Function Driven Development or Extinct](https://dev.to/ryo_suwito/code-and-coding-is-dead-function-driven-development-or-extinct-4k4i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
