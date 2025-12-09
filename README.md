@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚨 Why Social Media Feels So Harsh: Observations from Facebook](https://dev.to/janithadhananjaya/why-social-media-feels-so-harsh-observations-from-facebook-60c)
-- [Message Trace in Microsoft 365](https://dev.to/itcs11/message-trace-in-microsoft-365-78o)
-- [Can I Mix &amp; Match Different Keycap Sets?](https://dev.to/mysticcoder/can-i-mix-match-different-keycap-sets-31od)
-- [Jupyter Notebook Cheatsheet](https://dev.to/rosgluk/jupyter-notebook-cheatsheet-h8k)
-- [What emerging tech are you most excited or concerned about in 2026?](https://dev.to/lucassanderson/what-emerging-tech-are-you-most-excited-or-concerned-about-in-2026-2891)
+- [Why I Chose Monorepo Architecture: From Code Chaos to 2.8s Builds](https://dev.to/saswatapal/why-i-chose-monorepo-architecture-from-code-chaos-to-28s-builds-2p5a)
+- [I Tried Cleaning 5,000+ Rows of Messy Excel Data… and Realized the Problem Is Bigger Than I Thought](https://dev.to/mohammad_ehsanansari_671/i-tried-cleaning-5000-rows-of-messy-excel-data-and-realized-the-problem-is-bigger-than-i-thought-1lml)
+- [21700 vs. 18650 Lithium Batteries: A Data-Driven Comparative Guide](https://dev.to/randle_qiu_be28d083f7caab/21700-vs-18650-lithium-batteries-a-data-driven-comparative-guide-ffn)
+- [Support Content Hubs: Creating Thematic Collections That Drive Value](https://dev.to/freepixel11/support-content-hubs-creating-thematic-collections-that-drive-value-1gdl)
+- [The Ultimate Guide to Automate Outlook for B2B Sales](https://dev.to/itcs11/the-ultimate-guide-to-automate-outlook-for-b2b-sales-3ln9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
