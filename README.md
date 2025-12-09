@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [7 Hard Truths I Learned Running a Gaming Community for 13 Years](https://dev.to/fullstackhoward/7-hard-truths-i-learned-running-a-gaming-community-for-13-years-k80)
+- [Mobile App Trends 2025: The Complete Developer Guide to UI/UX, AI, and Beyond](https://dev.to/krlz/mobile-app-trends-2025-the-complete-developer-guide-to-uiux-ai-and-beyond-5265)
 - [🚀 Introducing BICO v2.0.0 — The Next-Gen Bulk Image Converter &amp; Optimizer &lpar;React + Electron&rpar; - Desktop App](https://dev.to/shehari007/introducing-bico-v200-the-next-gen-bulk-image-converter-optimizer-react-electron--22ee)
 - [Open source is about vendor lock-in](https://dev.to/yawaramin/open-source-is-about-vendor-lock-in-3fhf)
 - [MCP Sampling: When Your Tools Need to Think](https://dev.to/blockopensource/mcp-sampling-when-your-tools-need-to-think-2d2c)
-- [Meet Hubble: A Natural-Language Observatory for MongoDB](https://dev.to/davidos366/meet-hubble-a-natural-language-observatory-for-mongodb-2lal)
-- [January&#39;s Gold Mine: Why Your Holiday Window Shoppers Are Worth More Than You Think](https://dev.to/synergistdigitalmedia/januarys-gold-mine-why-your-holiday-window-shoppers-are-worth-more-than-you-think-31mk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
