@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Illusions of Quality — Episode 12: The Future of Quality — AI, Automation, and the Human Gatekeeper ✨](https://dev.to/abdulosman/the-illusions-of-quality-episode-12-the-future-of-quality-ai-automation-and-the-human-5a9e)
-- [New in Symfony 7.4: Signing Messages](https://dev.to/mattleads/new-in-symfony-74-signing-messages-37kb)
-- [Stop paying for unnecessary reasoning](https://dev.to/inozem/stop-paying-for-unnecessary-reasoning-g4i)
-- [Integrating ZEGOCLOUD Video Calling in React.js — Complete Guide](https://dev.to/coding_4dev_87893f55d90d/integrating-zegocloud-video-calling-in-reactjs-complete-guide-5839)
-- [eBPF Tutorial by Example: Tracing Intel NPU Kernel Driver Operations](https://dev.to/yunwei37/ebpf-tutorial-by-example-tracing-intel-npu-kernel-driver-operations-82h)
+- [🚀 Writing cleaner, scalable JavaScript starts with small habits.](https://dev.to/dharamgfx/writing-cleaner-scalable-javascript-starts-with-small-habits-38fe)
+- [Antivirus on AWS](https://dev.to/cloudxs/antivirus-on-aws-5e67)
+- [Document and Contract Management Solution for SAP SuccessFactors HCM](https://dev.to/kavya_manohara_d73d046c5d/document-and-contract-management-solution-for-sap-successfactors-hcm-6ag)
+- [Quality Over Quantity: Why Solving 500 LeetCode Problems Won&#39;t Get You Hired](https://dev.to/alex_hunter_44f4c9ed6671e/quality-over-quantity-why-solving-500-leetcode-problems-wont-get-you-hired-446n)
+- [What to Do When You Don&#39;t Understand a LeetCode Problem](https://dev.to/alex_hunter_44f4c9ed6671e/what-to-do-when-you-dont-understand-a-leetcode-problem-5786)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
