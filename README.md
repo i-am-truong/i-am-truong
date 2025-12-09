@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Code Block Click Copy](https://dev.to/mizouzie/code-block-click-copy-1bke)
+- [The Fragmentation Dilemma and the Unifying Protocol](https://dev.to/onlineproxyio/the-fragmentation-dilemma-and-the-unifying-protocol-5841)
 - [80. Remove Duplicates from Sorted Array II | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/80-remove-duplicates-from-sorted-array-ii-leetcode-top-interview-150-coding-questions-3cci)
 - [Tum | Modo | Postea](https://dev.to/mizouzie/tum-modo-postea-5dlo)
 - [How to safely run cron jobs in Docker &lpar;with monitoring&rpar;](https://dev.to/lmadev/how-to-safely-run-cron-jobs-in-docker-with-monitoring-4nkm)
-- [Coding with Rust for &quot;Rust&quot;: Modeling the 100-Hour Battery Grid](https://dev.to/energy_solutions_2050/coding-with-rust-for-rust-modeling-the-100-hour-battery-grid-1j0i)
-- [Kinzoku Blueprint Forge: AI-Powered Prototyping for Engineers](https://dev.to/anasmasama/kinzoku-blueprint-forge-ai-powered-prototyping-for-engineers-2p5c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
