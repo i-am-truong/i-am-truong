@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Projector Botnet: How a Simple Home Device Was Exploited for Ads, Data, and Bandwidth](https://dev.to/dayvid_kelly/the-projector-botnet-how-a-simple-home-device-was-exploited-for-ads-data-and-bandwidth-1049)
+- [Swift #7: Tuplas](https://dev.to/david_goyes_a488f58a17a53/swift-7-tuplas-3oja)
+- [The Kubernetes Context Switching Nightmare is Over](https://dev.to/kadirbelkuyu/the-kubernetes-context-switching-nightmare-is-over-1jkg)
+- [🚀 Meet Loopi: The Open-Source Visual Automation Tool I Wish I Had Years Ago](https://dev.to/0018akhil/meet-loopi-the-open-source-visual-automation-tool-i-wish-i-had-years-ago-30fh)
 - [Swift #6: Opcionales](https://dev.to/david_goyes_a488f58a17a53/swift-6-opcionales-165n)
-- [Enrich Logs with CorrelationID in .NET](https://dev.to/joaooliveiratech/enrich-logs-with-correlationid-in-net-34fm)
-- [Different Ways to Find Even and Odd Numbers](https://dev.to/rahulraj156/different-ways-to-find-even-and-odd-numbers-2a8n)
-- [Day 21 of improving my Data Science skills](https://dev.to/sp_the_data_specialist/day-21-of-improving-my-data-science-skills-51ec)
-- [🚀 Fixing PgBouncer “FATAL: server login failed: wrong password type” When Using PostgreSQL 15–18+](https://dev.to/milindsatpute/fixing-pgbouncer-fatal-server-login-failed-wrong-password-type-when-using-postgresql-15-18-495g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
