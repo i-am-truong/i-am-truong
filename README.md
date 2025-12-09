@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your First Marketing Dashboard: 7 Metrics That Actually Matter &lpar;And 12 You Can Ignore&rpar;](https://dev.to/synergistdigitalmedia/your-first-marketing-dashboard-7-metrics-that-actually-matter-and-12-you-can-ignore-3al6)
-- [Why Speed Is the New Competitive Advantage for Modern Apps](https://dev.to/misterankit/why-speed-is-the-new-competitive-advantage-for-modern-apps-5chl)
-- [🇺🇸 America’s Demographic Crossroads](https://dev.to/bibimbop123/americas-demographic-crossroads-b0k)
-- [Your AI Agent Config is Technical Debt You Haven&#39;t Acknowledged Yet](https://dev.to/prashamtrivedi/your-ai-agent-config-is-technical-debt-you-havent-acknowledged-yet-520a)
-- [fullcircle • Mindful Dating App](https://dev.to/canberkvarli/fullcircle-where-spiritual-practice-meets-meaningful-connection-52ab)
+- [How to Add Your Inquiry API Responses into Google Sheets &lpar;Automatic, No Duplicates&rpar;](https://dev.to/thevenice/how-to-add-your-inquiry-api-responses-into-google-sheets-automatic-no-duplicates-3h5m)
+- [鬼影沒在怕！](https://dev.to/_038e4f994b9cc37b8f54f/gui-ying-mei-zai-pa--4a6f)
+- [Technology Best IT Solutions for Businesses Using Cloud Solutions and Emerging Technologies](https://dev.to/itcs11/technologybest-it-solutions-for-businesses-using-cloud-solutions-and-emerging-technologies-250k)
+- [Stop Scrolling: Your Call System Might Be Holding You Back](https://dev.to/ecosmob_technologies/stop-scrolling-your-call-system-might-be-holding-you-back-1f3i)
+- [TODAY TRY ONE STRING PROGRAM IN REVERSE WORD](https://dev.to/ranjith_ranjith_6851c8e0a/today-try-one-string-program-in-reverse-word-443g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
