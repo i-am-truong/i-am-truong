@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Multi-Tenant AI SaaS Without the Data Privacy Nightmares](https://dev.to/shashikiran_ml/building-multi-tenant-ai-saas-without-the-data-privacy-nightmares-2ig4)
-- [Networking for Cybersecurity &lpar;Part 1&rpar;: OSI, TCP/IP, Ports &amp; Protocols](https://dev.to/alvinseyidov/networking-for-cybersecurity-part-1-osi-tcpip-ports-protocols-3eai)
-- [A RAG-Free Technique That Makes LLM Outputs Stable, Predictable, and Auditable](https://dev.to/yuer/a-rag-free-technique-that-makes-llm-outputs-stable-predictable-and-auditable-54nm)
-- [Anki powered with AI open-source projec](https://dev.to/maltsevmki/anki-powered-with-ai-open-source-projec-2d16)
-- [Why Ethereum Needs Layer 2s &lpar;for Curious Builders and Beginners&rpar;](https://dev.to/ribhavmodi/why-ethereum-needs-layer-2s-for-non-technical-people-hpm)
+- [Why Your EC2 Server Suddenly Stops Responding — And How to Bulletproof Laravel &amp; Node Apps](https://dev.to/abstractmusa/why-your-ec2-server-suddenly-stops-responding-and-how-to-bulletproof-laravel-node-apps-13l8)
+- [suppa - one command to dive into the Android SDK](https://dev.to/kenkoro/suppa-one-command-to-dive-into-the-android-sdk-ne7)
+- [Migrating from Python 2 to Python 3](https://dev.to/smarttabdev/migrating-from-python-2-to-python-3-2p1a)
+- [6 Vibe Coding Tools That Make Development Actually Feel Smooth](https://dev.to/james_miller_8dc58a89cb9e/6-vibe-coding-tools-that-make-development-actually-feel-smooth-164n)
+- [Building an Android Video Call Application with ZEGOCLOUD CallKit &lpar;Kotlin&rpar;](https://dev.to/sandy_pradana86/building-an-android-video-call-application-with-zegocloud-callkit-kotlin-30ib)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
