@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 10: Partitioning vs Bucketing - The Spark Optimization Guide Every Data Engineer Needs](https://dev.to/sandeepk27/day-10-partitioning-vs-bucketing-the-spark-optimization-guide-every-data-engineer-needs-mlj)
-- [88. Merge Sorted Array | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/88-merge-sorted-array-leetcode-top-interview-150-coding-questions-24e2)
-- [How to Work on a Team with Git &amp; GitHub Without Breaking Everything](https://dev.to/vincenttommi/how-to-work-on-a-team-with-git-github-without-breaking-everything-17fo)
-- [How to Read Email Inbox in .NET Core | IMAP/POP3 Guide](https://dev.to/flexyadmin/how-to-read-email-inbox-in-net-core-imappop3-guide-198c)
-- [Ownership in Rust](https://dev.to/sumana10/ownership-in-rust-46b5)
+- [Swift #5: Caracteres y Strings](https://dev.to/david_goyes_a488f58a17a53/swift-5-caracteres-y-strings-1c6)
+- [Smarter Software Architecture Builds Smarter Teams](https://dev.to/leonpennings/smarter-software-architecture-builds-smarter-teams-5548)
+- [7 AI Devtools to Watch This December](https://dev.to/fernandezbaptiste/7-ai-devtools-to-watch-this-december-25hl)
+- [From Hobby to Hackathons: My Journey into Web Development - Taha Bichouina](https://dev.to/tahabicho/from-hobby-to-hackathons-my-journey-into-web-development-taha-bichouina-5g8e)
+- [Part 2: Setting Up Your First Django Project](https://dev.to/samwitadhikary/post-2-setting-up-your-first-django-project-2ken)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
