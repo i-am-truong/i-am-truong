@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 2 | 🎅 He knows if you have been bad or good... But what if he gets it wrong?](https://dev.to/alexiskroberson/day-2-he-knows-if-you-have-been-bad-or-good-but-what-if-he-gets-it-wrong-17k6)
+- [26. Remove Duplicates from Sorted Array | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/26-remove-duplicates-from-sorted-array-leetcode-top-interview-150-coding-questions-453i)
+- [From Chatting with AI to Architecting It](https://dev.to/roi_d95df0bf6e689c571b39a/from-chatting-with-ai-to-architecting-it-5a9k)
+- [MCP won, but the Lock-in War just started. Why &quot;Agent-first&quot; scares vendors more than &quot;Open-source&quot; saves them.](https://dev.to/fl4tlin3/mcp-won-but-the-lock-in-war-just-started-why-agent-first-scares-vendors-more-than-open-source-1odl)
 - [Why GitFlow Fails at Infrastructure](https://dev.to/dortort/why-gitflow-fails-at-infrastructure-90f)
-- [🎨 I Built My Developer Portfolio at 14 — Here’s What I Learned](https://dev.to/similol3/i-built-my-developer-portfolio-at-14-heres-what-i-learned-2791)
-- [I Built an AI-Powered AWS Waste Detector &lpar;and Found $4,200 in My Own Account&rpar;](https://dev.to/cloudwiseteam/i-built-an-ai-powered-aws-waste-detector-and-found-4200-in-my-own-account-2cc4)
-- [MCP Wins, But the War Just Started: Why Standardization Won&#39;t Save Us from Lock-in](https://dev.to/fl4tlin3/mcp-wins-but-the-war-just-started-why-standardization-wont-save-us-from-lock-in-53a4)
-- [AI in Healthcare](https://dev.to/alexdavis123/ai-in-healthcare-583o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
