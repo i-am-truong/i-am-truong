@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Scraping ZoomInfo with One Universal Script Using SeleniumBase](https://dev.to/hasdata_com/scraping-zoominfo-with-one-universal-script-using-seleniumbase-kjl)
+- [What is Time.deltaTime and how does it work?](https://dev.to/rahul_barate_e965377330fe/what-is-timedeltatime-and-how-does-it-work-2mgn)
+- [Migrating a Legacy Monolith to Serverless on AWS &lpar;Free Tier&rpar;](https://dev.to/nash9/migrating-a-legacy-monolith-to-serverless-on-aws-free-tier-864)
 - [When Software Learns to Speak](https://dev.to/mgerzabek/when-software-learns-to-speak-nml)
-- [Secure by Design: Architecture Patterns for Multi-Tenant SaaS at Scale](https://dev.to/niranjan_sharma_579448819/secure-by-design-architecture-patterns-for-multi-tenant-saas-at-scale-4bah)
-- [What Exactly Is Serverless? A Simple Explanation for Beginners](https://dev.to/tuneshman/what-exactly-is-serverless-a-simple-explanation-for-beginners-2j1k)
-- [Building an Event-Driven OCR Service: Challenges and Solutions](https://dev.to/eklavvya/building-an-event-driven-ocr-service-challenges-and-solutions-35c9)
-- [Caught Up in the Cert Chase &lpar;And What I Learnt About Coding&rpar;](https://dev.to/vulcanwm/caught-up-in-the-cert-chase-and-what-i-learnt-about-coding-1gja)
+- [AV1 vs H.265: Codec Comparison Guide [2025 Updated]](https://dev.to/maria-artamonova/av1-vs-h265-codec-comparison-guide-2025-updated-2803)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
