@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [📊 The 2025 Tech Stack Shake-Up: Why Next.js, Python &amp; Postgres Are Taking Over the World 😉](https://dev.to/usman_awan/the-2025-tech-stack-shake-up-why-nextjs-python-postgres-are-taking-over-the-world-4d6p)
-- [React2Shell: Understanding the Critical RCE Vulnerability in React Server Components &lpar;CVE-2025-55182&rpar;](https://dev.to/scofieldidehen/react2shell-understanding-the-critical-rce-vulnerability-in-react-server-components-381p)
-- [Stop Building God Agents](https://dev.to/ejb503/stop-building-god-agents-511e)
-- [在本機安裝 Mattermost：打造自主控制的團隊通訊平台](https://dev.to/letswrite/zai-ben-ji-an-zhuang-mattermostda-zao-zi-zhu-kong-zhi-de-tuan-dui-tong-xun-ping-tai-4hk2)
-- [A Clean &amp; Scalable Spring Boot Project Structure &lpar;Shared-Domain Architecture&rpar;](https://dev.to/karthikeyan_/a-clean-scalable-spring-boot-project-structure-shared-domain-architecture-32d)
+- [🚀 Day 70 of My Data Analytics Journey!](https://dev.to/ramyacse/day-70-of-my-data-analytics-journey-3p2i)
+- [How We Automate Accessibility Testing with Playwright and Axe](https://dev.to/subito/how-we-automate-accessibility-testing-with-playwright-and-axe-3ok5)
+- [Triggering Long Jobs in Cloudflare Workers](https://dev.to/teaganga/triggering-long-jobs-in-cloudflare-workers-8mh)
+- [¿Boletear desde Chile 🇨🇱 al extranjero o crear una PYME 🏦 y facturar?](https://dev.to/devschile/boletear-desde-chile-al-extranjero-o-crear-una-pyme-y-facturar-4f3g)
+- [Gamified Fitness UI: How to Turn Health Data Into Motivation](https://dev.to/wellallytech/gamified-fitness-ui-how-to-turn-health-data-into-motivation-3og9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
