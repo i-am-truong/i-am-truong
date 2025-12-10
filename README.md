@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘Jay Kelly’ and The Adam Sandler Hall of Fame](https://dev.to/popcorn_movies/ringer-movies-jay-kelly-and-the-adam-sandler-hall-of-fame-4j4h)
-- [How to Stop Your AI Agent From Making Unwanted Code Changes](https://dev.to/blackgirlbytes/how-to-stop-your-ai-agent-from-making-unwanted-code-changes-5g85)
-- [USRE: Unifying DevOps, SRE, Security &amp; Compliance for the Next Generation of SaaS](https://dev.to/sangharsh_agarwal_edfe223/usre-unifying-devops-sre-security-compliance-for-the-next-generation-of-saas-25p)
-- [How I’m Building an AI Try-On Tool for Clothing Brands &lpar;Behind the Scenes&rpar;](https://dev.to/nikola_mitrovic_922e2665f/how-im-building-an-ai-try-on-tool-for-clothing-brands-behind-the-scenes-3pmc)
-- [Built a side project in 3 weeks, got 40 users, can&#39;t flip the payment switch](https://dev.to/securityscore/built-a-side-project-in-3-weeks-got-40-users-cant-flip-the-payment-switch-14p9)
+- [TwoScreens: React Native Navigation Study Expo + Tab Navigation + Screen Transitions Learning Project 🚀](https://dev.to/arvik1982/twoscreens-react-native-navigation-study-expo-tab-navigation-screen-transitions-learning-1of1)
+- [Actualización de AWS WAF generado por un template de CloudFormation](https://dev.to/villavih/actualizacion-de-aws-waf-generado-por-un-stack-de-cloudformation-3c89)
+- [ERC-3009: The Protocol Powering x402 Payments](https://dev.to/justqueue/erc-3009-the-protocol-powering-x402-payments-4fk7)
+- [Solana&#39;s Authorization Mechanism: How x402 Works Beyond EVM](https://dev.to/justqueue/solanas-authorization-mechanism-how-x402-works-beyond-evm-1gea)
+- [Your Project Shouldn’t Break When You Switch Branches. So I Fixed It](https://dev.to/levla/your-project-shouldnt-break-when-you-switch-branches-so-i-fixed-it-3l3a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
