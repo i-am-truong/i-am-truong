@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why NumPy and Pandas Are Essential: A Beginner’s Realization in AI/ML](https://dev.to/snackoverflowwithasad/why-numpy-and-pandas-are-essential-a-beginners-realization-in-aiml-959)
+- [Simple Image Gallery - Vanilla JavaScript](https://dev.to/kostassliazas/httpskostassliazasgithubiok7-35k)
+- [Advanced Imputation with R Packages](https://dev.to/dipti_m_2e7ba36c478d1a48a/advanced-imputation-with-r-packages-2m99)
+- [AI Regulations, Standards, and Frameworks for Software Testing](https://dev.to/qa-leaders/ai-regulations-standards-and-frameworks-for-software-testing-248o)
 - [HTTP 402 Explained: Why payment-driven agent authentication is the next leap for autonomous operations](https://dev.to/agnamihira/http-402-explained-why-payment-driven-agent-authentication-is-the-next-leap-for-autonomous-2e5g)
-- [Debugging the Mind&#39;s Legacy Code: A Cognitive Architect&#39;s Log](https://dev.to/aleksei_sergeevich/debugging-the-minds-legacy-code-a-cognitive-architects-log-46m4)
-- [Introducing MHRB: The Next Evolution After MERN](https://dev.to/awais_kaleem_589df3496b64/introducing-mhrb-the-next-evolution-after-mern-493n)
-- [Linux](https://dev.to/whitemamba/linux-4j8b)
-- [How I built a lag-free 10GB Log Viewer for VS Code using Rust &amp; Memory-Mapping](https://dev.to/__1bea7786c7/how-i-built-a-lag-free-10gb-log-viewer-for-vs-code-using-rust-memory-mapping-ih4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
