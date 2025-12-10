@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [AI Automation: Not Magic, Just Smart Engineering](https://dev.to/amirali_alamdar/ai-automation-not-magic-just-smart-engineering-4m1f)
+- [اتوماسیون هوش مصنوعی: جادو نیست، مهندسیِ زمان است](https://dev.to/amirali_alamdar/twmsywn-hwsh-msnwy-jdw-nyst-mhndsyi-zmn-st-1k9a)
 - [AI Engineering: Advent of AI with goose Day 2](https://dev.to/eriperspective/ai-engineering-advent-of-ai-with-goose-day-2-2mc)
 - [When Events Meet Clusters: Building Reactive Micro-services on Kubernetes](https://dev.to/alialp/when-events-meet-clusters-building-reactive-micro-services-on-kubernetes-433e)
 - [Apigee Handbook on GCP: Quick Start Guide for starting](https://dev.to/brngranado/how-to-set-apigee-in-gcp-for-developers-from-scratch-54fl)
-- [How AWS Lightsail Limit Forced Us to Rethink Our Lab Infrastructure](https://dev.to/aws-builders/how-aws-lightsail-limit-forced-us-to-rethink-our-lab-infrastructure-29nh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
