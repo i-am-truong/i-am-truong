@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Arrêtez de demander au LLM si c&#39;est bien. Demandez-lui ce qui cloche.](https://dev.to/onepoint/arretez-de-demander-au-llm-si-cest-bien-demandez-lui-ce-qui-cloche-4p75)
-- [Git-Scope User Guide](https://dev.to/iam_pbk/git-scope-user-guide-2dfj)
-- [25+ Real-World Rails Upgrade Questions &lpar;And the Answers Devs Actually Need&rpar;](https://dev.to/railsfactory_sedin/25-real-world-rails-upgrade-questions-and-the-answers-devs-actually-need-451o)
-- [A Minimal Go Toolkit for Cleaning, Validating, and Querying CSV/TSV/Excel/Parquet Files](https://dev.to/nchika/a-minimal-go-toolkit-for-cleaning-validating-and-querying-csvtsvexcelparquet-files-41ad)
-- [Keyword Era is Over: Build Search Visibility with Fast Linked Data Entities for GEO](https://dev.to/olehnahornyi/keyword-era-is-over-build-search-visibility-with-fast-linked-data-entities-for-geo-1n94)
+- [AdonisJS Tutorial: The Ultimate Guide &lpar;2023&rpar;](https://dev.to/masteringbackend/adonisjs-tutorial-the-ultimate-guide-2023-1nof)
+- [The Great Un-Skip: Reclaiming Depth and Discovery in a Fast-Forward World](https://dev.to/ammar_yousry_9ab5250bec40/the-great-un-skip-reclaiming-depth-and-discovery-in-a-fast-forward-world-3gj7)
+- [Como Economizar no Delivery de Comida: Dicas Práticas para o Dia a Dia](https://dev.to/weng_dingjun_0560e88e2b91/como-economizar-no-delivery-de-comida-dicas-praticas-para-o-dia-a-dia-32j6)
+- [How to launch a green/eco-friendly subscription box using WooCommerce](https://dev.to/vipul_yadav_c95fff0f6b791/how-to-launch-a-greeneco-friendly-subscription-box-using-woocommerce-1jj5)
+- [Checkout this article on ANOVA in R: Origins, Applications, and Real-World Case Studies](https://dev.to/vamshi_e_eebe5a6287a27142/checkout-this-article-on-anova-in-r-origins-applications-and-real-world-case-studies-8ee)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
