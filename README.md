@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [How to Visualize The Things Network Data in Grafana &lpar;Real-Time &amp; Easy&rpar;](https://dev.to/adrelien/how-to-visualize-the-things-network-data-in-grafana-real-time-easy-518a)
-- [Google&#39;s December 2025 Helpful Content Update: What Actually Changed &lpar;And What You Need to Do&rpar;](https://dev.to/synergistdigitalmedia/googles-december-2025-helpful-content-update-what-actually-changed-and-what-you-need-to-do-2577)
-- [2025-12-10 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-10-daily-ai-news-491o)
-- [Docker for Beginners: How I Containerized an Existing Project Node-by-Node](https://dev.to/hormogbolahan20/docker-for-beginners-how-i-containerized-an-existing-project-node-by-node-f97)
-- [Return Facts, Not Interpretations: Why LLM Tools Should Be Dumber Than You Think](https://dev.to/johnonline35/return-facts-not-interpretations-why-llm-tools-should-be-dumber-than-you-think-2g0n)
+- [Build an AI Math &amp; Physics Agent with DeepSeek v3.2](https://dev.to/getstreamhq/build-an-ai-math-physics-agent-with-deepseek-v32-59dm)
+- [5 Secrets to Perfectly Printed Web Pages](https://dev.to/samuel_ruiz_64604c4d0ba22/5-secrets-to-perfectly-printed-web-pages-3h49)
+- [2025-12-10 Weekly Quantum News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-10-weekly-quantum-news-3pe0)
+- [I Built a Self-Updating, Cross-Platform Desktop App in Python &lpar;So You Don&#39;t Have To&rpar; 🐍🚀](https://dev.to/freerave/i-built-a-self-updating-cross-platform-desktop-app-in-python-so-you-dont-have-to-deg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
