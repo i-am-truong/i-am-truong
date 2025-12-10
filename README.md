@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Maravel-Framework 10.55.0 lost ~10.8k rows of overhead, improving speed and security](https://dev.to/marius-ciclistu/maravel-framework-10550-lost-108k-rows-of-overhead-improving-speed-and-security-31fi)
-- [Reimagining Thai Lagoon&#39;s Website](https://dev.to/paaaarv/reimagining-thai-lagoons-website-2495)
-- [I built console.text&lpar;&rpar; - SMS alerts for your production code](https://dev.to/noel44/i-built-consoletext-sms-alerts-for-your-production-code-4082)
-- [I Built Selenium Self-Healing Tests with AI That Fix Themselves &lpar;Here&#39;s How&rpar;](https://dev.to/letsautomate/i-built-selenium-self-healing-tests-with-ai-that-fix-themselves-heres-how-421j)
-- [Functional Composition in JavaScript](https://dev.to/travisfont/functional-composition-in-javascript-3n6j)
+- [Day 22 of improving my Data Science skills](https://dev.to/sp_the_data_specialist/day-22-of-improving-my-data-science-skills-288o)
+- [One bug, nine errors: what templates actually are](https://dev.to/h0tb0x/one-bug-nine-errors-what-templates-actually-are-7nm)
+- [Validating a CLI to sync env vars - would you pay $79?](https://dev.to/rupamjit_ghosh_3466fa0fc7/validating-a-cli-to-sync-env-vars-would-you-pay-79-1662)
+- [Build a Real-Time tldraw Whiteboard with Velt Comments inside ChatGPT🤯🔥](https://dev.to/astrodevil/build-a-real-time-tldraw-whiteboard-with-velt-comments-inside-chatgpt-1dhe)
+- [Perfect Shuffle: The Strange Fractals Hidden in a Simple Algorithm](https://dev.to/xcontcom/perfect-shuffle-the-strange-fractals-hidden-in-a-simple-algorithm-4lfa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
