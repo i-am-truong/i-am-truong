@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to use variables in Google Workspace Studio](https://dev.to/googleworkspace/how-to-use-variables-in-google-workspace-studio-578m)
+- [CORS - Cross Origin Resource Sharing](https://dev.to/utkarshkrsingh1103/cors-cross-origin-resource-sharing-30j4)
+- [Navigating the Future: Key Data Engineering Trends for 2024 and Beyond](https://dev.to/dataformathub/navigating-the-future-key-data-engineering-trends-for-2024-and-beyond-16gj)
 - [Introducing GoCVKit: Zero-Boilerplate Computer Vision in Go](https://dev.to/elliot_silver_9af739ddcb5/introducing-gocvkit-zero-boilerplate-computer-vision-in-go-gbd)
 - [The story behind a tool that helped speed up my workflow](https://dev.to/muhammad_umer_2/the-story-behind-a-tool-that-helped-speed-up-my-workflow-4421)
-- [SeguraPass: A Zero-Knowledge, End-to-End Encrypted Password Manager Built in Java](https://dev.to/bartol00/segurapass-a-zero-knowledge-end-to-end-encrypted-password-manager-built-in-java-4nij)
-- [AI Regulation News Today: Latest US &amp; Global Updates 2026](https://dev.to/techdecodedly/ai-regulation-news-today-latest-us-global-updates-2026-32k5)
-- [Building a Hardware and Tracker App with Tauri - Part 1: The Idea](https://dev.to/cmillion3/building-a-hardware-and-tracker-app-with-tauri-part-1-the-idea-915)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
