@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [External Semantic Memory Architecture for Multi-Agent LLM Systems](https://dev.to/eggp/external-semantic-memory-architecture-for-multi-agent-llm-systems-3bkp)
-- [Fixing Better Auth in TanStack Start: How to Pass Headers in Server Functions](https://dev.to/rogasper/fixing-better-auth-in-tanstack-start-how-to-pass-headers-in-server-functions-eck)
-- [How can I determine the position of a text string on the screen?](https://dev.to/isaac_blackstudent_07e/how-can-i-determine-the-position-of-a-text-string-in-a-screenshot-1oj8)
-- [Verifiable AI in 69 Lines: Signed Inference on Gaia + Irys](https://dev.to/harishkotra/verifiable-ai-in-69-lines-signed-inference-on-gaia-irys-1oac)
-- [Testing Cloudflare Workers Locally: Queues, Cron, and HTTP &lpar;Part 3&rpar;](https://dev.to/teaganga/testing-cloudflare-workers-locally-queues-cron-and-http-part-3-4ilp)
+- [Introduction to MCP Tools](https://dev.to/mcptest/introduction-to-mcp-tools-pfi)
+- [Demystifying Agentic Test Automation for QA Teams](https://dev.to/johnjvester/demystifying-agentic-test-automation-for-qa-teams-53ph)
+- [Key Differences Between setImmediate&lpar;&rpar; and process.nextTick&lpar;&rpar; in Node.js](https://dev.to/jefersoneiji/key-differences-between-setimmediate-and-processnexttick-in-nodejs-2ejj)
+- [Troubleshooting DefaultAzureCredential: Identifying Which Credential Is Used](https://dev.to/stebaker92/troubleshooting-defaultazurecredential-identifying-which-credential-is-used-1lgh)
+- [⚡ Frontend Performance in 2025: The Ultimate Checklist](https://dev.to/tahamjp/frontend-performance-in-2025-the-ultimate-checklist-49f2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
