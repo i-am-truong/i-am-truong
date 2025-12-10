@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [YM2149 in Rust, Part 1: Building a Cycle-Accurate Emulator](https://dev.to/markus_velten_e7807418293/ym2149-in-rust-part-1-building-a-cycle-accurate-emulator-33om)
-- [Cost of developing fintech apps in 2025](https://dev.to/it-influencer/cost-of-developing-fintech-apps-in-2025-kof)
-- [Inside the UK FPGA Landscape: Insights from the DESN Industry Survey 2025](https://dev.to/alpinumblogs/inside-the-uk-fpga-landscape-insights-from-the-desn-industry-survey-2025-52np)
-- [How do you take user inputs in Javascript&lpar;NodeJs&rpar;?](https://dev.to/caspiangrey/how-do-you-take-user-inputs-in-javascriptnodejs-181p)
-- [On-Boarding Devices on Defender for Endpoint](https://dev.to/itcs11/on-boarding-devices-on-defender-for-endpoint-33e2)
+- [I Thought I Knew AI. Then I Met &quot;Agents&quot;](https://dev.to/jinesh_barot_5ed48e8b69f5/i-thought-i-knew-ai-then-i-met-agents-5819)
+- [Music Is Healing: How Sound Therapy Is Tuning Up Mental and Emotional Health](https://dev.to/sia_negi21/music-is-healing-how-sound-therapy-is-tuning-up-mental-and-emotional-health-1pnh)
+- [A CTO&#39;s 5-phase roadmap to AI-native internal tools &lpar;and why most pilots stall&rpar;](https://dev.to/bennykillua/a-ctos-5-phase-roadmap-to-ai-native-internal-tools-and-why-most-pilots-stall-5ea5)
+- [Building an Open-Source Market Signal Bot Using Airtel’s Free Perplexity Pro API Access](https://dev.to/thevenice/building-an-open-source-market-signal-bot-using-airtels-free-perplexity-pro-api-access-4dg4)
+- [Bhupesh Singh Nitwal](https://dev.to/bhupesh_singhnitwal_d34c/bhupesh-singh-nitwal-1oei)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
