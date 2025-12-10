@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Tailscale + Raspberry Pi: HomeLab Gateway](https://dev.to/neelp03/tailscale-raspberry-pi-homelab-gateway-4fin)
-- [The PrestaShop Modules &quot;Jungle&quot;: An Unexpected Opportunity for Your Site?](https://dev.to/ndabene/the-prestashop-modules-jungle-an-unexpected-opportunity-for-your-site-548k)
-- [2.Create Ansible Inventory for App Server Testing](https://dev.to/thukhakyawe_cloud/2create-ansible-inventory-for-app-server-testing-1p13)
-- [System Design for Your Brain: Architecting a Scalable LeetCode Retention Strategy](https://dev.to/alex_hunter_44f4c9ed6671e/system-design-for-your-brain-architecting-a-scalable-leetcode-retention-strategy-3aah)
-- [Wendy’s Menu USA 2025: Prices, Calories and Developer Friendly JSON Dataset](https://dev.to/swig_menu_58f5bbdbd375839/wendys-menu-usa-2025-prices-calories-and-developer-friendly-json-dataset-3inm)
+- [Kaizen OCR &amp; PDF – Your Privacy-First OCR Companion](https://dev.to/sujit_singh_4a6ea64d77af0/kaizen-ocr-pdf-your-privacy-first-ocr-companion-nn5)
+- [From &quot;Why?&quot; to Wow: Building a Multi-Agent Storyteller After 5-Day AI Agents Intensive Course with Google](https://dev.to/silvestre-po/from-why-to-wow-building-a-multi-agent-storyteller-after-5-day-ai-agents-intensive-course-with-1lm7)
+- [Prompt Engineering for Software Developer](https://dev.to/speaklouder/prompt-engineering-for-software-developer-1pd0)
+- [Best Books on Agile Methodology](https://dev.to/noahrhenriksen/best-books-on-agile-methodology-20p8)
+- [How to Automate Your Entire Business: A Developer&#39;s Guide to Systems &amp; Workflows](https://dev.to/ahmed_darwish_9603181a758/how-to-automate-your-entire-business-a-developers-guide-to-systems-workflows-995)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
