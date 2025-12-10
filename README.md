@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Developing OTT Apps for Airline, Train, and In-Transit Entertainment](https://dev.to/regal22/developing-ott-apps-for-airline-train-and-in-transit-entertainment-2n6n)
-- [La Création Web : Du Concept à la Conversion](https://dev.to/metalya/la-creation-web-du-concept-a-la-conversion-4gmb)
-- [Tired of Heavyweight Hadoop/Spark? Meet SPL: The Lightweight Contender.](https://dev.to/esproc_spl/tired-of-heavyweight-hadoopspark-meet-spl-the-lightweight-contender-l0h)
-- [A Practical Guide to How Real-Time Chat &amp; Video Platforms Work](https://dev.to/businmeed/a-practical-guide-to-how-real-time-chat-video-platforms-work-iib)
-- [Code Reviews: Quality Control or Ego Olympics?](https://dev.to/adamthedeveloper/code-reviews-quality-control-or-ego-olympics-426g)
+- [YM2149 in Rust, Part 1: Building a Cycle-Accurate Emulator](https://dev.to/markus_velten_e7807418293/ym2149-in-rust-part-1-building-a-cycle-accurate-emulator-33om)
+- [Cost of developing fintech apps in 2025](https://dev.to/it-influencer/cost-of-developing-fintech-apps-in-2025-kof)
+- [Inside the UK FPGA Landscape: Insights from the DESN Industry Survey 2025](https://dev.to/alpinumblogs/inside-the-uk-fpga-landscape-insights-from-the-desn-industry-survey-2025-52np)
+- [How do you take user inputs in Javascript&lpar;NodeJs&rpar;?](https://dev.to/caspiangrey/how-do-you-take-user-inputs-in-javascriptnodejs-181p)
+- [On-Boarding Devices on Defender for Endpoint](https://dev.to/itcs11/on-boarding-devices-on-defender-for-endpoint-33e2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
