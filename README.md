@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Rethinking API Design for AI Agents: From Data Plumbing to Intelligent Interfaces](https://dev.to/akshaygupta1996/rethinking-api-design-for-ai-agents-from-data-plumbing-to-intelligent-interfaces-37jh)
-- [Tailwind CSS Best Practices &amp; Design System Patterns 🎨](https://dev.to/frontendtoolstech/tailwind-css-best-practices-design-system-patterns-54pi)
-- [**Mito vs](https://dev.to/drcarlosruizviquez/mito-vs-1dfb)
-- [Advent of Code 2025 - Day 5: Cafeteria](https://dev.to/kryko7/advent-of-code-2025-day-5-cafeteria-4m7k)
-- [Practical Tip: Embedding Empathy in AI Decision-Making](https://dev.to/drcarlosruizviquez/practical-tip-embedding-empathy-in-ai-decision-making-1nic)
+- [How to Launch a Website in China 2026](https://dev.to/jackson_white_a85921e93c6/how-to-launch-a-website-in-china-2026-3cf9)
+- [Write Cleaner Python with Guard Clauses](https://dev.to/guzmanojero/write-cleaner-python-with-guard-clauses-n6)
+- [Neuro-Symbolic AI: From Research to Industry](https://dev.to/centaurai/neuro-symbolic-ai-from-research-to-industry-2d91)
+- [n8n: Credential - SerpAPI account &lpar;Google Search API&rpar;](https://dev.to/codebangkok/n8n-credential-serpapi-account-google-search-api-23jb)
+- [More readable integer comparisons in Ruby](https://dev.to/railsdesigner/more-readable-integer-comparisons-in-ruby-4e3c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
