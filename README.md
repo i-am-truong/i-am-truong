@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Hive system design interview courses helped me go from confused to confident](https://dev.to/dev_loops/how-hive-system-design-interview-courses-helped-me-go-from-confused-to-confident-49m1)
-- [AI Model Engineering — Building Intelligent Systems That Scale](https://dev.to/harshada_75eaf5c6bf7a194a/ai-model-engineering-building-intelligent-systems-that-scale-j7a)
-- [Remote Full Stack Team — The Smart Way to Scale Modern Software Development](https://dev.to/harshada_75eaf5c6bf7a194a/remote-full-stack-team-the-smart-way-to-scale-modern-software-development-27pb)
-- [Why Modern Software Licensing Models Depend on Reliable App Performance Testing](https://dev.to/misterankit/why-modern-software-licensing-models-depend-on-reliable-app-performance-testing-26jb)
-- [The Dog Exposed My Stacktrace! 😱 My Bespoke Solution to a Common API Security Issue](https://dev.to/jordanleal12/the-dog-exposed-my-stacktrace-my-bespoke-solution-to-a-common-api-security-issue-3b53)
+- [🚀 Deploying MongoDB on Docker with Secure Host Directory Mounts Using ACLs &lpar;Without Changing Permissions&rpar;](https://dev.to/er_ragul/deploying-mongodb-on-docker-with-secure-host-directory-mounts-using-acls-without-changing-1oo8)
+- [5 GA4 E-commerce Dashboards That&#39;ll Actually Tell You Where Your Money&#39;s Going](https://dev.to/synergistdigitalmedia/5-ga4-e-commerce-dashboards-thatll-actually-tell-you-where-your-moneys-going-12an)
+- [Fetching column data from a column database](https://dev.to/learntechwithsaumya/fetching-column-data-from-a-column-database-3903)
+- [The Real Reason Why Some Dev Companies Are Forcing AI](https://dev.to/canro91/the-real-reason-why-some-dev-companies-are-forcing-ai-42kb)
+- [Welcome Thread - v355](https://dev.to/devteam/welcome-thread-v355-189)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
