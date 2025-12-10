@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Kaizen OCR &amp; PDF – Your Privacy-First OCR Companion](https://dev.to/sujit_singh_4a6ea64d77af0/kaizen-ocr-pdf-your-privacy-first-ocr-companion-nn5)
-- [From &quot;Why?&quot; to Wow: Building a Multi-Agent Storyteller After 5-Day AI Agents Intensive Course with Google](https://dev.to/silvestre-po/from-why-to-wow-building-a-multi-agent-storyteller-after-5-day-ai-agents-intensive-course-with-1lm7)
-- [Prompt Engineering for Software Developer](https://dev.to/speaklouder/prompt-engineering-for-software-developer-1pd0)
-- [Best Books on Agile Methodology](https://dev.to/noahrhenriksen/best-books-on-agile-methodology-20p8)
-- [How to Automate Your Entire Business: A Developer&#39;s Guide to Systems &amp; Workflows](https://dev.to/ahmed_darwish_9603181a758/how-to-automate-your-entire-business-a-developers-guide-to-systems-workflows-995)
+- [Developing OTT Apps for Airline, Train, and In-Transit Entertainment](https://dev.to/regal22/developing-ott-apps-for-airline-train-and-in-transit-entertainment-2n6n)
+- [La Création Web : Du Concept à la Conversion](https://dev.to/metalya/la-creation-web-du-concept-a-la-conversion-4gmb)
+- [Tired of Heavyweight Hadoop/Spark? Meet SPL: The Lightweight Contender.](https://dev.to/esproc_spl/tired-of-heavyweight-hadoopspark-meet-spl-the-lightweight-contender-l0h)
+- [A Practical Guide to How Real-Time Chat &amp; Video Platforms Work](https://dev.to/businmeed/a-practical-guide-to-how-real-time-chat-video-platforms-work-iib)
+- [Code Reviews: Quality Control or Ego Olympics?](https://dev.to/adamthedeveloper/code-reviews-quality-control-or-ego-olympics-426g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
