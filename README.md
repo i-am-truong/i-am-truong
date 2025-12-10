@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How Jobs to Be Done Reveals True Customer Needs: Insights Inspired by John Neuhart](https://dev.to/johnneuhart/how-jobs-to-be-done-reveals-true-customer-needs-insights-inspired-by-john-neuhart-2gk4)
+- [Color Palette Persona](https://dev.to/mrbaodk/color-palette-persona-ok0)
+- [What is MCP: The Infrastructure Powering Agentic AI](https://dev.to/getstreamhq/what-is-mcp-the-infrastructure-powering-agentic-ai-26ob)
 - [I Built a TUI to Visualize RAG Chunking because chunk_size=1000 is a Lie 📉](https://dev.to/rasinmuhammed/i-built-a-tui-to-visualize-rag-chunking-because-chunksize1000-is-a-lie-1dg0)
 - [Stacklok&#39;s MCP Optimizer vs Anthropic&#39;s Tool Search Tool: A Head-to-Head Comparison](https://dev.to/stacklok/stackloks-mcp-optimizer-vs-anthropics-tool-search-tool-a-head-to-head-comparison-2f32)
-- [💬 New Developer Looking to Collaborate, Learn, and Join Real Projects](https://dev.to/alasdair_macdonald_ad279d/new-developer-looking-to-collaborate-learn-and-join-real-projects-ajp)
-- [State management in Umami codebase - Part 1.2](https://dev.to/ramunarasinga-11/state-management-in-umami-codebase-part-12-cg)
-- [I Built 4 Landing Page Templates for AI Founders 🚀](https://dev.to/dev_resources/i-built-4-landing-page-templates-for-ai-founders-2g1k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
