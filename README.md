@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Python Pangolin API Tutorial: 15+ Code Examples + 2 Real Projects [2026]](https://dev.to/loopsthings/python-pangolin-api-tutorial-15-code-examples-2-real-projects-2026-2j4h)
-- [Mathematical Approach by Bhupesh Singh Nitwal Bachelor of science student and Web developer Bhupesh Singh Nitwal](https://dev.to/bhupesh_singhnitwal_d34c/mathematical-approach-by-bhupesh-singh-nitwal-bachelor-of-science-student-and-web-developer-bhupesh-3559)
-- [Data Leakage Between Train and Test Sets](https://dev.to/aaron_jones_d34b57d1b44ba/data-leakage-between-train-and-test-sets-1pc3)
-- [OpenDataLoader: Safe, Open, High-Performance — PDF for AI](https://dev.to/katash/opendataloader-safe-open-high-performance-pdf-for-ai-4o60)
-- [How to give Claude &quot;Long Term Memory&quot; of your local files &lpar;No Docker required&rpar;](https://dev.to/nonatofabio_28/how-to-give-claude-long-term-memory-of-your-local-files-no-docker-required-57o2)
+- [Building an Incremental Evaluation Engine for Computer Vision](https://dev.to/__faf963f9e492a4/building-an-incremental-evaluation-engine-for-computer-vision-266)
+- [A Minimal Go Toolkit for Cleaning, Validating, and Querying CSV/TSV/Excel/Parquet Files](https://dev.to/nchika/a-minimal-go-toolkit-for-cleaning-validating-and-querying-csvtsvexcelparquet-files-41ad)
+- [Keyword Era is Over: Build Search Visibility with Fast Linked Data Entities for GEO](https://dev.to/olehnahornyi/keyword-era-is-over-build-search-visibility-with-fast-linked-data-entities-for-geo-1n94)
+- [Chapter 2: Classification](https://dev.to/arham_jawad_51b88b85913b5/chapter-2-classification-537k)
+- [Top Open-Source Data Engineering Tools- Unravelling the Best in 2026](https://dev.to/falgunibhatt/top-open-source-data-engineering-tools-unravelling-the-best-in-2026-1a09)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
