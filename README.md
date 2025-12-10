@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [TwoScreens: React Native Navigation Study Expo + Tab Navigation + Screen Transitions Learning Project 🚀](https://dev.to/arvik1982/twoscreens-react-native-navigation-study-expo-tab-navigation-screen-transitions-learning-1of1)
-- [Actualización de AWS WAF generado por un template de CloudFormation](https://dev.to/villavih/actualizacion-de-aws-waf-generado-por-un-stack-de-cloudformation-3c89)
-- [ERC-3009: The Protocol Powering x402 Payments](https://dev.to/justqueue/erc-3009-the-protocol-powering-x402-payments-4fk7)
-- [Solana&#39;s Authorization Mechanism: How x402 Works Beyond EVM](https://dev.to/justqueue/solanas-authorization-mechanism-how-x402-works-beyond-evm-1gea)
-- [Your Project Shouldn’t Break When You Switch Branches. So I Fixed It](https://dev.to/levla/your-project-shouldnt-break-when-you-switch-branches-so-i-fixed-it-3l3a)
+- [The Architecture of Agency: Building, Securing, and Scaling Your Own MCP Ecosystem](https://dev.to/onlineproxyio/the-architecture-of-agency-building-securing-and-scaling-your-own-mcp-ecosystem-1pog)
+- [test post](https://dev.to/testorg_breno/test-post-g7g)
+- [Why x402 Doesn&#39;t Support USDT &lpar;But USDT0 Changes Everything&rpar;](https://dev.to/justqueue/why-x402-doesnt-support-usdt-but-usdt0-changes-everything-1kh6)
+- [169. Majority Element | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/169-majority-element-leetcode-top-interview-150-coding-questions-4edb)
+- [DAY1 AWS DevOps -beginner](https://dev.to/sakshi_more_20/day1-aws-devops-beginner-nl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
