@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Scraping ZoomInfo with One Universal Script Using SeleniumBase](https://dev.to/hasdata_com/scraping-zoominfo-with-one-universal-script-using-seleniumbase-kjl)
-- [What is Time.deltaTime and how does it work?](https://dev.to/rahul_barate_e965377330fe/what-is-timedeltatime-and-how-does-it-work-2mgn)
-- [Migrating a Legacy Monolith to Serverless on AWS &lpar;Free Tier&rpar;](https://dev.to/nash9/migrating-a-legacy-monolith-to-serverless-on-aws-free-tier-864)
-- [When Software Learns to Speak](https://dev.to/mgerzabek/when-software-learns-to-speak-nml)
-- [AV1 vs H.265: Codec Comparison Guide [2025 Updated]](https://dev.to/maria-artamonova/av1-vs-h265-codec-comparison-guide-2025-updated-2803)
+- [Launching Gemini CLI extensions for Google Data Cloud](https://dev.to/googleai/launching-gemini-cli-extensions-for-google-data-cloud-3dbk)
+- [Using Resend with Encore](https://dev.to/encore/using-resend-with-encore-1b29)
+- [AI doesn’t take away – it lifts you up!](https://dev.to/sarah_schachter/ai-doesnt-take-away-it-lifts-you-up-48gh)
+- [✨ How to Create SVGs in Figma and Animate Them Using Motion 🚀](https://dev.to/sushilmagare10/how-to-create-svgs-in-figma-and-animate-them-using-motion-32h1)
+- [I Built a Local-First Secret Manager Because I Don&#39;t Trust AI Agents With My .env Files](https://dev.to/jaeone/i-built-a-local-first-secret-manager-because-i-dont-trust-ai-agents-with-my-env-files-58o2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
