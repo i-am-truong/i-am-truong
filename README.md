@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [std::move doesn&#39;t move anything: A deep dive into Value Categorie](https://dev.to/theghost_194/stdmove-doesnt-move-anything-a-deep-dive-into-value-categorie-1h06)
-- [Need Persuasive Presentation Topic Ideas? 100+ Interesting Topics That Would Actually Work.](https://dev.to/dhanusree_v_91cb434a13fdf/need-persuasive-presentation-topic-ideas-100-interesting-topics-that-would-actually-work-686)
-- [Ditch Weak Models; Make Your AI Stronger with Data Quality](https://dev.to/evarayner/ditch-weak-models-make-your-ai-stronger-with-data-quality-46k3)
-- [How to Access Both Company and Personal GitHub Repositories On The Same Machine](https://dev.to/myogeshchavan97/how-to-access-both-company-and-personal-github-repositories-on-the-same-machine-md2)
-- [I CHING](https://dev.to/enochian007/i-ching-22dj)
+- [Your First Ethereum Smart Contract, Step by Step](https://dev.to/ribhavmodi/your-first-ethereum-smart-contract-step-by-step-576m)
+- [How FlutterFlow AI Gen Speeds Up Modern App Prototyping](https://dev.to/devang18/how-flutterflow-ai-gen-speeds-up-modern-app-prototyping-4if0)
+- [Blue/Green Deployment on AWS Using CodeDeploy and CodePipeline](https://dev.to/awais_684/bluegreen-deployment-on-aws-using-codedeploy-and-codepipeline-2m34)
+- [How AI Quietly Boosts Developer Efficiency](https://dev.to/fabinaworkdemo_c1bf633d69/how-ai-quietly-boosts-developer-efficiency-4i37)
+- [A Better Way to Document Your Engineering Thought Process](https://dev.to/leena_malhotra/a-better-way-to-document-your-engineering-thought-process-2c6a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
