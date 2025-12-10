@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your First Ethereum Smart Contract, Step by Step](https://dev.to/ribhavmodi/your-first-ethereum-smart-contract-step-by-step-576m)
-- [How FlutterFlow AI Gen Speeds Up Modern App Prototyping](https://dev.to/devang18/how-flutterflow-ai-gen-speeds-up-modern-app-prototyping-4if0)
-- [Blue/Green Deployment on AWS Using CodeDeploy and CodePipeline](https://dev.to/awais_684/bluegreen-deployment-on-aws-using-codedeploy-and-codepipeline-2m34)
-- [How AI Quietly Boosts Developer Efficiency](https://dev.to/fabinaworkdemo_c1bf633d69/how-ai-quietly-boosts-developer-efficiency-4i37)
-- [A Better Way to Document Your Engineering Thought Process](https://dev.to/leena_malhotra/a-better-way-to-document-your-engineering-thought-process-2c6a)
+- [The State of Auth in AI Apps: 2025](https://dev.to/ravi-scalekit/the-state-of-auth-in-ai-apps-2025-48l3)
+- [Dependency Injection in Go: Patterns &amp; Best Practices](https://dev.to/rosgluk/dependency-injection-in-go-patterns-best-practices-1888)
+- [Securing Your Edge as a Solo Bootstrapping Startup Founder: Lessons from FounderForge AI](https://dev.to/eseosarumen_efesomwan_67/securing-your-edge-as-a-solo-bootstrapping-startup-founder-lessons-from-founderforge-ai-49ag)
+- [HTML Semantics: The Short Descriptions of All 113 Elements](https://dev.to/j9t/html-semantics-the-short-descriptions-of-all-113-elements-2c7i)
+- [How AWS Is Building the Future of AI](https://dev.to/shlok-talepa/how-aws-is-building-the-future-of-ai-1ljb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
