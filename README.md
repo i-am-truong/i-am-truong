@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT App Display Mode Reference](https://dev.to/abewheeler/chatgpt-app-display-mode-reference-49im)
-- [AI Automation: Not Magic, Just Smart Engineering](https://dev.to/amirali_alamdar/ai-automation-not-magic-just-smart-engineering-4m1f)
-- [اتوماسیون هوش مصنوعی: جادو نیست، مهندسیِ زمان است](https://dev.to/amirali_alamdar/twmsywn-hwsh-msnwy-jdw-nyst-mhndsyi-zmn-st-1k9a)
-- [AI Engineering: Advent of AI with goose Day 2](https://dev.to/eriperspective/ai-engineering-advent-of-ai-with-goose-day-2-2mc)
-- [You Need Your Code to Be More Reliable Than People Using It](https://dev.to/aieradev/you-need-your-code-to-be-more-reliable-than-people-using-it-271o)
+- [Career Planning for a Future of Working with AI Agents](https://dev.to/dclnbrght/career-planning-for-a-future-of-working-with-ai-agents-6c4)
+- [How to Accept Stablecoin Payments: A Complete Guide for Businesses in 2025](https://dev.to/justqueue/how-to-accept-stablecoin-payments-a-complete-guide-for-businesses-in-2025-2kaa)
+- [AI Engineering: Advent of AI with goose Day 3](https://dev.to/eriperspective/ai-engineering-advent-of-ai-with-goose-day-3-2384)
+- [Coding Challenge Practice - Question 75](https://dev.to/tomivan/coding-challenge-practice-question-75-mbi)
+- [The Wrong Database Connection: A Go Deadlock Story](https://dev.to/harudev/the-wrong-database-connection-a-go-deadlock-story-286e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
