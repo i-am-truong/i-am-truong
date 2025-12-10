@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The State of Auth in AI Apps: 2025](https://dev.to/ravi-scalekit/the-state-of-auth-in-ai-apps-2025-48l3)
-- [Dependency Injection in Go: Patterns &amp; Best Practices](https://dev.to/rosgluk/dependency-injection-in-go-patterns-best-practices-1888)
-- [Securing Your Edge as a Solo Bootstrapping Startup Founder: Lessons from FounderForge AI](https://dev.to/eseosarumen_efesomwan_67/securing-your-edge-as-a-solo-bootstrapping-startup-founder-lessons-from-founderforge-ai-49ag)
-- [HTML Semantics: The Short Descriptions of All 113 Elements](https://dev.to/j9t/html-semantics-the-short-descriptions-of-all-113-elements-2c7i)
-- [How AWS Is Building the Future of AI](https://dev.to/shlok-talepa/how-aws-is-building-the-future-of-ai-1ljb)
+- [The ₹250 Crore Question: How India’s DPDPA Rewrites the Cost of a Data Breach](https://dev.to/jamesdas/the-250-crore-question-how-indias-dpdpa-rewrites-the-cost-of-a-data-breach-4e55)
+- [The Shocking Discovery That Cost a Business $180,000](https://dev.to/tracksimple/the-shocking-discovery-that-cost-a-business-180000-4k2n)
+- [ChatGPT Search Just Changed SEO Forever &lpar;And Your Content Strategy Needs to Catch Up&rpar;](https://dev.to/synergistdigitalmedia/chatgpt-search-just-changed-seo-forever-and-your-content-strategy-needs-to-catch-up-3l7f)
+- [Generic GET Engine – How We Built a Dynamic Query Architecture](https://dev.to/malki_lapidot_bf2ab753e50/building-a-fully-generic-get-engine-a-scalable-approach-to-dynamic-querying-516o)
+- [B1 vs B2 vs B1/B2 Visa: Which One Should You Choose in 2025?](https://dev.to/the_visamanager/b1-vs-b2-vs-b1b2-visa-which-one-should-you-choose-in-2025-3fn0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
