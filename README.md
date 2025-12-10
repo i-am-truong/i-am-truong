@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How Hive system design interview courses helped me go from confused to confident](https://dev.to/dev_loops/how-hive-system-design-interview-courses-helped-me-go-from-confused-to-confident-49m1)
+- [AI Model Engineering — Building Intelligent Systems That Scale](https://dev.to/harshada_75eaf5c6bf7a194a/ai-model-engineering-building-intelligent-systems-that-scale-j7a)
+- [Remote Full Stack Team — The Smart Way to Scale Modern Software Development](https://dev.to/harshada_75eaf5c6bf7a194a/remote-full-stack-team-the-smart-way-to-scale-modern-software-development-27pb)
+- [Why Modern Software Licensing Models Depend on Reliable App Performance Testing](https://dev.to/misterankit/why-modern-software-licensing-models-depend-on-reliable-app-performance-testing-26jb)
 - [The Dog Exposed My Stacktrace! 😱 My Bespoke Solution to a Common API Security Issue](https://dev.to/jordanleal12/the-dog-exposed-my-stacktrace-my-bespoke-solution-to-a-common-api-security-issue-3b53)
-- [App Router Directory Design: Next.js Project Structure Patterns](https://dev.to/pipipi-dev/app-router-directory-design-nextjs-project-structure-patterns-31eo)
-- [Catching Nested any in typescript-eslint](https://dev.to/oleksandrakordonets/catching-nested-any-in-typescript-eslint-3gc0)
-- [Upwork verification call. What questions to expect?](https://dev.to/chocomastery/upwork-verification-call-what-questions-to-expect-2g8e)
-- [When Your Linux System Hits Emergency Mode: initramfs &amp; fsck](https://dev.to/rijultp/when-your-linux-system-hits-emergency-mode-initramfs-fsck-439)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
