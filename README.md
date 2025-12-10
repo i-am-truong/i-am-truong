@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Launching Gemini CLI extensions for Google Data Cloud](https://dev.to/googleai/launching-gemini-cli-extensions-for-google-data-cloud-3dbk)
-- [Using Resend with Encore](https://dev.to/encore/using-resend-with-encore-1b29)
-- [AI doesn’t take away – it lifts you up!](https://dev.to/sarah_schachter/ai-doesnt-take-away-it-lifts-you-up-48gh)
-- [✨ How to Create SVGs in Figma and Animate Them Using Motion 🚀](https://dev.to/sushilmagare10/how-to-create-svgs-in-figma-and-animate-them-using-motion-32h1)
-- [I Built a Local-First Secret Manager Because I Don&#39;t Trust AI Agents With My .env Files](https://dev.to/jaeone/i-built-a-local-first-secret-manager-because-i-dont-trust-ai-agents-with-my-env-files-58o2)
+- [I Built a TUI to Visualize RAG Chunking because chunk_size=1000 is a Lie 📉](https://dev.to/rasinmuhammed/i-built-a-tui-to-visualize-rag-chunking-because-chunksize1000-is-a-lie-1dg0)
+- [Stacklok&#39;s MCP Optimizer vs Anthropic&#39;s Tool Search Tool: A Head-to-Head Comparison](https://dev.to/stacklok/stackloks-mcp-optimizer-vs-anthropics-tool-search-tool-a-head-to-head-comparison-2f32)
+- [💬 New Developer Looking to Collaborate, Learn, and Join Real Projects](https://dev.to/alasdair_macdonald_ad279d/new-developer-looking-to-collaborate-learn-and-join-real-projects-ajp)
+- [State management in Umami codebase - Part 1.2](https://dev.to/ramunarasinga-11/state-management-in-umami-codebase-part-12-cg)
+- [I Built 4 Landing Page Templates for AI Founders 🚀](https://dev.to/dev_resources/i-built-4-landing-page-templates-for-ai-founders-2g1k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
