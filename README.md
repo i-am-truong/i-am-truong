@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Day 70 of My Data Analytics Journey!](https://dev.to/ramyacse/day-70-of-my-data-analytics-journey-3p2i)
-- [How We Automate Accessibility Testing with Playwright and Axe](https://dev.to/subito/how-we-automate-accessibility-testing-with-playwright-and-axe-3ok5)
-- [Triggering Long Jobs in Cloudflare Workers](https://dev.to/teaganga/triggering-long-jobs-in-cloudflare-workers-8mh)
-- [¿Boletear desde Chile 🇨🇱 al extranjero o crear una PYME 🏦 y facturar?](https://dev.to/devschile/boletear-desde-chile-al-extranjero-o-crear-una-pyme-y-facturar-4f3g)
-- [Gamified Fitness UI: How to Turn Health Data Into Motivation](https://dev.to/wellallytech/gamified-fitness-ui-how-to-turn-health-data-into-motivation-3og9)
+- [External Semantic Memory Architecture for Multi-Agent LLM Systems](https://dev.to/eggp/external-semantic-memory-architecture-for-multi-agent-llm-systems-3bkp)
+- [Fixing Better Auth in TanStack Start: How to Pass Headers in Server Functions](https://dev.to/rogasper/fixing-better-auth-in-tanstack-start-how-to-pass-headers-in-server-functions-eck)
+- [How can I determine the position of a text string on the screen?](https://dev.to/isaac_blackstudent_07e/how-can-i-determine-the-position-of-a-text-string-in-a-screenshot-1oj8)
+- [Verifiable AI in 69 Lines: Signed Inference on Gaia + Irys](https://dev.to/harishkotra/verifiable-ai-in-69-lines-signed-inference-on-gaia-irys-1oac)
+- [Testing Cloudflare Workers Locally: Queues, Cron, and HTTP &lpar;Part 3&rpar;](https://dev.to/teaganga/testing-cloudflare-workers-locally-queues-cron-and-http-part-3-4ilp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
