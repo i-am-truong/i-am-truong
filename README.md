@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Burnout: A 5-Step Action Plan for Stressed-Out Developers](https://dev.to/mikhail_dorokhovich_bd8d4/beyond-burnout-a-5-step-action-plan-for-stressed-out-developers-34m2)
-- [Why Software Developers Are Their Own Worst Enemies](https://dev.to/mashrulhaque/why-software-developers-are-their-own-worst-enemies-bcp)
-- [From Chatbot to Agentic System: Lessons from the AI Agent Bake-off](https://dev.to/goabego/from-chatbot-to-agentic-system-lessons-from-the-ai-agent-bake-off-1o0m)
-- [7 Hard Truths I Learned Running a Gaming Community for 13 Years](https://dev.to/fullstackhoward/7-hard-truths-i-learned-running-a-gaming-community-for-13-years-k80)
-- [Mobile App Trends 2025: The Complete Developer Guide to UI/UX, AI, and Beyond](https://dev.to/krlz/mobile-app-trends-2025-the-complete-developer-guide-to-uiux-ai-and-beyond-5265)
+- [Titles for Upwork account. How to choose?](https://dev.to/chocomastery/titles-for-upwork-account-how-to-choose-549j)
+- [Automatic payouts on Upwork. How does it work?](https://dev.to/chocomastery/automatic-payouts-on-upwork-how-does-it-work-25no)
+- [Working Assesment. Extra 2 skills to your General profile. New Beta feature on Upwork.](https://dev.to/chocomastery/working-assesment-extra-2-skills-to-your-general-profile-new-beta-feature-on-upwork-30bh)
+- [x402 Sounds Perfect. So Why Isn&#39;t Anyone Using It?](https://dev.to/justqueue/x402-sounds-perfect-so-why-isnt-anyone-using-it-mkb)
+- [Running FastAPI in Production on a VPS &lpar;Step-by-Step&rpar;](https://dev.to/lasisi_ibrahimpelumi_dc0/running-fastapi-in-production-on-a-vps-step-by-step-5e4d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
