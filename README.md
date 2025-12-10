@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Built a Visual Docker Compose Editor - Looking for Feedback!](https://dev.to/joaofcmont/built-a-visual-docker-compose-editor-looking-for-feedback-47k9)
+- [parallel](https://dev.to/query_filter_591122b53770/parallel-dc8)
+- [Implementing Real-Time Streaming with VAPI: Build Voice Apps](https://dev.to/callstacktech/implementing-real-time-streaming-with-vapi-build-voice-apps-3ehg)
 - [Career Planning for a Future of Working with AI Agents](https://dev.to/dclnbrght/career-planning-for-a-future-of-working-with-ai-agents-6c4)
 - [AI Engineering: Advent of AI with goose Day 3](https://dev.to/eriperspective/ai-engineering-advent-of-ai-with-goose-day-3-2384)
-- [Coding Challenge Practice - Question 75](https://dev.to/tomivan/coding-challenge-practice-question-75-mbi)
-- [The Wrong Database Connection: A Go Deadlock Story](https://dev.to/harudev/the-wrong-database-connection-a-go-deadlock-story-286e)
-- [Ginseng Extract from China: Quality Standards and Buying Guide](https://dev.to/justqueue/ginseng-extract-from-china-quality-standards-and-buying-guide-3dgj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
