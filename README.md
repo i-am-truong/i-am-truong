@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Open Source Engagement: What&#39;s Working Now?](https://dev.to/adiatiayu/open-source-engagement-whats-working-now-37b9)
-- [Ship Production Apps in Days, Not Months: We Open-Sourced Our Entire Infrastructure Stack](https://dev.to/nfrax/ship-production-apps-in-days-not-months-we-open-sourced-our-entire-infrastructure-stack-3f33)
-- [How I built a privacy-first Chrome Extension to fix performance &lpar;Manifest V3&rpar;](https://dev.to/superchargebrowser/how-i-built-a-privacy-first-chrome-extension-to-fix-performance-manifest-v3-43b4)
-- [The Hell of AI Agent Development](https://dev.to/fl4tlin3/the-hell-of-ai-agent-development-47b4)
-- [The Secret Language of Data: Vectors and Cosine Similarity](https://dev.to/andrewchaa/the-secret-language-of-data-vectors-and-cosine-similarity-4e2a)
+- [Rethinking API Design for AI Agents: From Data Plumbing to Intelligent Interfaces](https://dev.to/akshaygupta1996/rethinking-api-design-for-ai-agents-from-data-plumbing-to-intelligent-interfaces-37jh)
+- [Tailwind CSS Best Practices &amp; Design System Patterns 🎨](https://dev.to/frontendtoolstech/tailwind-css-best-practices-design-system-patterns-54pi)
+- [**Mito vs](https://dev.to/drcarlosruizviquez/mito-vs-1dfb)
+- [Advent of Code 2025 - Day 5: Cafeteria](https://dev.to/kryko7/advent-of-code-2025-day-5-cafeteria-4m7k)
+- [Practical Tip: Embedding Empathy in AI Decision-Making](https://dev.to/drcarlosruizviquez/practical-tip-embedding-empathy-in-ai-decision-making-1nic)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
