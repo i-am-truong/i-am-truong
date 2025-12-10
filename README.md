@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a State Management Library After Fighting React Server Components for 6 Months](https://dev.to/emiliodominguez/i-built-a-state-management-library-after-fighting-react-server-components-for-6-months-52k7)
-- [How Databases Actually Store Data &lpar;And Why You Should Care&rpar;](https://dev.to/bradmcnew/how-databases-actually-store-data-and-why-you-should-care-d70)
-- [user-scanner a cli tool written in python which helps you choose a unique username across all popular sites and games ⚡](https://dev.to/kaifcodec/user-scanner-a-cli-tool-written-in-python-which-helps-you-choose-a-unique-username-across-all-1e8i)
-- [Introducing Qyavix — a 155-byte DOM runtime](https://dev.to/yinhaoc/introducing-qyavix-a-155-byte-dom-runtime-3h01)
-- [3 Ways to Create A Floor in Godot](https://dev.to/harry_tanama_51571ebf90b6/3-ways-to-create-a-floor-in-godot-2120)
+- [How to use System prompts as Ground Truth for Evaluation](https://dev.to/imshashank/how-to-use-system-prompts-as-ground-truth-for-evaluation-ni6)
+- [Easy Work - The simple, easy-used, stupid workflow engine for Java](https://dev.to/hzn6426/easy-work-the-simple-easy-used-stupid-workflow-engine-for-java-bpc)
+- [The Secret Life of Python: The Import System](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-import-system-2e7j)
+- [[AWS] 2. EC2 &lpar;Elastic Compute Cloud&rpar; Instance Fundamentals, SSH](https://dev.to/sangwoo_rhie/aws-2-ec2-elastic-compute-cloud-instance-fundamentals-ssh-pg1)
+- [Advent of AI 2025 - Day 7: Goose Recipes](https://dev.to/nickytonline/advent-of-ai-2025-day-7-goose-recipes-5d1c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
