@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Pangolin API Tutorial: 15+ Code Examples + 2 Real Projects [2026]](https://dev.to/loopsthings/python-pangolin-api-tutorial-15-code-examples-2-real-projects-2026-2j4h)
+- [Mathematical Approach by Bhupesh Singh Nitwal Bachelor of science student and Web developer Bhupesh Singh Nitwal](https://dev.to/bhupesh_singhnitwal_d34c/mathematical-approach-by-bhupesh-singh-nitwal-bachelor-of-science-student-and-web-developer-bhupesh-3559)
 - [Data Leakage Between Train and Test Sets](https://dev.to/aaron_jones_d34b57d1b44ba/data-leakage-between-train-and-test-sets-1pc3)
 - [OpenDataLoader: Safe, Open, High-Performance — PDF for AI](https://dev.to/katash/opendataloader-safe-open-high-performance-pdf-for-ai-4o60)
 - [How to give Claude &quot;Long Term Memory&quot; of your local files &lpar;No Docker required&rpar;](https://dev.to/nonatofabio_28/how-to-give-claude-long-term-memory-of-your-local-files-no-docker-required-57o2)
-- [AI Agents vs Microservices: Where Intelligence Meets Architecture](https://dev.to/art_light/ai-agents-vs-microservices-where-intelligence-meets-architecture-47hg)
-- [I Thought I Knew AI. Then I Met &quot;Agents&quot;](https://dev.to/jinesh_barot_5ed48e8b69f5/i-thought-i-knew-ai-then-i-met-agents-5819)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
