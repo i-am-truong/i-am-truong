@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to use variables in Google Workspace Studio](https://dev.to/googleworkspace/how-to-use-variables-in-google-workspace-studio-578m)
-- [CORS - Cross Origin Resource Sharing](https://dev.to/utkarshkrsingh1103/cors-cross-origin-resource-sharing-30j4)
-- [Navigating the Future: Key Data Engineering Trends for 2024 and Beyond](https://dev.to/dataformathub/navigating-the-future-key-data-engineering-trends-for-2024-and-beyond-16gj)
-- [Introducing GoCVKit: Zero-Boilerplate Computer Vision in Go](https://dev.to/elliot_silver_9af739ddcb5/introducing-gocvkit-zero-boilerplate-computer-vision-in-go-gbd)
-- [The story behind a tool that helped speed up my workflow](https://dev.to/muhammad_umer_2/the-story-behind-a-tool-that-helped-speed-up-my-workflow-4421)
+- [Why Engraved Wooden Gifts Are the Perfect Choice for Thoughtful Giving](https://dev.to/smithwilliam/why-engraved-wooden-gifts-are-the-perfect-choice-for-thoughtful-giving-1doa)
+- [Java vs Swift in 2025: The One Choice That Can Make or Break Your App](https://dev.to/chillicode/java-vs-swift-in-2025-the-one-choice-that-can-make-or-break-your-app-1d90)
+- [Why I Started Letting AI Handle My 3D Modeling Workflow — As a Developer, I Strongly Recommend Trying This AI 3D Model Tool](https://dev.to/dolla_innovations_0748b0c/why-i-started-letting-ai-handle-my-3d-modeling-workflow-as-a-developer-i-strongly-recommend-1h4a)
+- [December 2025 AI Tools: The Updates Quietly Reshaping How We Work, Create &amp; Automate](https://dev.to/jdkhan/december-2025-ai-tools-the-updates-quietly-reshaping-how-we-work-create-automate-12ah)
+- [MCP Isn’t Hard, Here’s the Easiest Beginner-Friendly MCP MASTERCLASS EVER🤗 &lpar;PART 1&rpar;](https://dev.to/fonyuygita/mcp-isnt-hard-heres-the-easiest-beginner-friendly-mcp-masterclass-ever-part-1-4pel)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
