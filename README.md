@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Launch a Website in China 2026](https://dev.to/jackson_white_a85921e93c6/how-to-launch-a-website-in-china-2026-3cf9)
-- [Write Cleaner Python with Guard Clauses](https://dev.to/guzmanojero/write-cleaner-python-with-guard-clauses-n6)
-- [Neuro-Symbolic AI: From Research to Industry](https://dev.to/centaurai/neuro-symbolic-ai-from-research-to-industry-2d91)
-- [n8n: Credential - SerpAPI account &lpar;Google Search API&rpar;](https://dev.to/codebangkok/n8n-credential-serpapi-account-google-search-api-23jb)
-- [More readable integer comparisons in Ruby](https://dev.to/railsdesigner/more-readable-integer-comparisons-in-ruby-4e3c)
+- [Introducing GoCVKit: Zero-Boilerplate Computer Vision in Go](https://dev.to/elliot_silver_9af739ddcb5/introducing-gocvkit-zero-boilerplate-computer-vision-in-go-gbd)
+- [The story behind a tool that helped speed up my workflow](https://dev.to/muhammad_umer_2/the-story-behind-a-tool-that-helped-speed-up-my-workflow-4421)
+- [SeguraPass: A Zero-Knowledge, End-to-End Encrypted Password Manager Built in Java](https://dev.to/bartol00/segurapass-a-zero-knowledge-end-to-end-encrypted-password-manager-built-in-java-4nij)
+- [AI Regulation News Today: Latest US &amp; Global Updates 2026](https://dev.to/techdecodedly/ai-regulation-news-today-latest-us-global-updates-2026-32k5)
+- [Building a Hardware and Tracker App with Tauri - Part 1: The Idea](https://dev.to/cmillion3/building-a-hardware-and-tracker-app-with-tauri-part-1-the-idea-915)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
