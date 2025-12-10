@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Titles for Upwork account. How to choose?](https://dev.to/chocomastery/titles-for-upwork-account-how-to-choose-549j)
-- [Automatic payouts on Upwork. How does it work?](https://dev.to/chocomastery/automatic-payouts-on-upwork-how-does-it-work-25no)
-- [Working Assesment. Extra 2 skills to your General profile. New Beta feature on Upwork.](https://dev.to/chocomastery/working-assesment-extra-2-skills-to-your-general-profile-new-beta-feature-on-upwork-30bh)
-- [x402 Sounds Perfect. So Why Isn&#39;t Anyone Using It?](https://dev.to/justqueue/x402-sounds-perfect-so-why-isnt-anyone-using-it-mkb)
-- [Running FastAPI in Production on a VPS &lpar;Step-by-Step&rpar;](https://dev.to/lasisi_ibrahimpelumi_dc0/running-fastapi-in-production-on-a-vps-step-by-step-5e4d)
+- [I Built a State Management Library After Fighting React Server Components for 6 Months](https://dev.to/emiliodominguez/i-built-a-state-management-library-after-fighting-react-server-components-for-6-months-52k7)
+- [How Databases Actually Store Data &lpar;And Why You Should Care&rpar;](https://dev.to/bradmcnew/how-databases-actually-store-data-and-why-you-should-care-d70)
+- [user-scanner a cli tool written in python which helps you choose a unique username across all popular sites and games ⚡](https://dev.to/kaifcodec/user-scanner-a-cli-tool-written-in-python-which-helps-you-choose-a-unique-username-across-all-1e8i)
+- [Introducing Qyavix — a 155-byte DOM runtime](https://dev.to/yinhaoc/introducing-qyavix-a-155-byte-dom-runtime-3h01)
+- [3 Ways to Create A Floor in Godot](https://dev.to/harry_tanama_51571ebf90b6/3-ways-to-create-a-floor-in-godot-2120)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
