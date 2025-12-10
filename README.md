@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to use System prompts as Ground Truth for Evaluation](https://dev.to/imshashank/how-to-use-system-prompts-as-ground-truth-for-evaluation-ni6)
-- [Easy Work - The simple, easy-used, stupid workflow engine for Java](https://dev.to/hzn6426/easy-work-the-simple-easy-used-stupid-workflow-engine-for-java-bpc)
-- [The Secret Life of Python: The Import System](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-import-system-2e7j)
-- [[AWS] 2. EC2 &lpar;Elastic Compute Cloud&rpar; Instance Fundamentals, SSH](https://dev.to/sangwoo_rhie/aws-2-ec2-elastic-compute-cloud-instance-fundamentals-ssh-pg1)
-- [Advent of AI 2025 - Day 7: Goose Recipes](https://dev.to/nickytonline/advent-of-ai-2025-day-7-goose-recipes-5d1c)
+- [The Dog Exposed My Stacktrace! 😱 My Bespoke Solution to a Common API Security Issue](https://dev.to/jordanleal12/the-dog-exposed-my-stacktrace-my-bespoke-solution-to-a-common-api-security-issue-3b53)
+- [App Router Directory Design: Next.js Project Structure Patterns](https://dev.to/pipipi-dev/app-router-directory-design-nextjs-project-structure-patterns-31eo)
+- [Catching Nested any in typescript-eslint](https://dev.to/oleksandrakordonets/catching-nested-any-in-typescript-eslint-3gc0)
+- [Upwork verification call. What questions to expect?](https://dev.to/chocomastery/upwork-verification-call-what-questions-to-expect-2g8e)
+- [When Your Linux System Hits Emergency Mode: initramfs &amp; fsck](https://dev.to/rijultp/when-your-linux-system-hits-emergency-mode-initramfs-fsck-439)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
