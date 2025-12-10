@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Data Leakage Between Train and Test Sets](https://dev.to/aaron_jones_d34b57d1b44ba/data-leakage-between-train-and-test-sets-1pc3)
+- [OpenDataLoader: Safe, Open, High-Performance — PDF for AI](https://dev.to/katash/opendataloader-safe-open-high-performance-pdf-for-ai-4o60)
+- [How to give Claude &quot;Long Term Memory&quot; of your local files &lpar;No Docker required&rpar;](https://dev.to/nonatofabio_28/how-to-give-claude-long-term-memory-of-your-local-files-no-docker-required-57o2)
+- [AI Agents vs Microservices: Where Intelligence Meets Architecture](https://dev.to/art_light/ai-agents-vs-microservices-where-intelligence-meets-architecture-47hg)
 - [I Thought I Knew AI. Then I Met &quot;Agents&quot;](https://dev.to/jinesh_barot_5ed48e8b69f5/i-thought-i-knew-ai-then-i-met-agents-5819)
-- [Music Is Healing: How Sound Therapy Is Tuning Up Mental and Emotional Health](https://dev.to/sia_negi21/music-is-healing-how-sound-therapy-is-tuning-up-mental-and-emotional-health-1pnh)
-- [A CTO&#39;s 5-phase roadmap to AI-native internal tools &lpar;and why most pilots stall&rpar;](https://dev.to/bennykillua/a-ctos-5-phase-roadmap-to-ai-native-internal-tools-and-why-most-pilots-stall-5ea5)
-- [Building an Open-Source Market Signal Bot Using Airtel’s Free Perplexity Pro API Access](https://dev.to/thevenice/building-an-open-source-market-signal-bot-using-airtels-free-perplexity-pro-api-access-4dg4)
-- [Bhupesh Singh Nitwal](https://dev.to/bhupesh_singhnitwal_d34c/bhupesh-singh-nitwal-1oei)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
