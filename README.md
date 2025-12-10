@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to MCP Tools](https://dev.to/mcptest/introduction-to-mcp-tools-pfi)
-- [Demystifying Agentic Test Automation for QA Teams](https://dev.to/johnjvester/demystifying-agentic-test-automation-for-qa-teams-53ph)
-- [Key Differences Between setImmediate&lpar;&rpar; and process.nextTick&lpar;&rpar; in Node.js](https://dev.to/jefersoneiji/key-differences-between-setimmediate-and-processnexttick-in-nodejs-2ejj)
-- [Troubleshooting DefaultAzureCredential: Identifying Which Credential Is Used](https://dev.to/stebaker92/troubleshooting-defaultazurecredential-identifying-which-credential-is-used-1lgh)
-- [⚡ Frontend Performance in 2025: The Ultimate Checklist](https://dev.to/tahamjp/frontend-performance-in-2025-the-ultimate-checklist-49f2)
+- [When Software Learns to Speak](https://dev.to/mgerzabek/when-software-learns-to-speak-nml)
+- [Secure by Design: Architecture Patterns for Multi-Tenant SaaS at Scale](https://dev.to/niranjan_sharma_579448819/secure-by-design-architecture-patterns-for-multi-tenant-saas-at-scale-4bah)
+- [What Exactly Is Serverless? A Simple Explanation for Beginners](https://dev.to/tuneshman/what-exactly-is-serverless-a-simple-explanation-for-beginners-2j1k)
+- [Building an Event-Driven OCR Service: Challenges and Solutions](https://dev.to/eklavvya/building-an-event-driven-ocr-service-challenges-and-solutions-35c9)
+- [Caught Up in the Cert Chase &lpar;And What I Learnt About Coding&rpar;](https://dev.to/vulcanwm/caught-up-in-the-cert-chase-and-what-i-learnt-about-coding-1gja)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
