@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [eSparkBiz Honored by IPLocation as a Top Software Development Company](https://dev.to/andrewsjoey17/esparkbiz-honored-by-iplocation-as-a-top-software-development-company-378p)
-- [Building My Developer Portfolio — Showcasing My Projects, Skills &amp; Journey](https://dev.to/avi_tech/building-my-developer-portfolio-showcasing-my-projects-skills-journey-1b6j)
-- [Streamlining ML Workflows: Automating Hyperparameter Tuning with CI/CD and DVC](https://dev.to/h_n_agnihotri/streamlining-ml-workflows-automating-hyperparameter-tuning-with-cicd-and-dvc-4li9)
-- [A story on Frontend Architectures - MVVM, the Separation of Concerns](https://dev.to/purnez/a-story-on-frontend-architectures-mvvm-the-separation-of-concerns-imf)
-- [Rust chronicles #2 - ownership, the unprecedented memory safety guarantee without a garbage collector](https://dev.to/siliconcatalyst/rust-chronicles-2-ownership-the-unprecedented-memory-safety-guarantee-without-a-garbage-4d0g)
+- [std::move doesn&#39;t move anything: A deep dive into Value Categorie](https://dev.to/theghost_194/stdmove-doesnt-move-anything-a-deep-dive-into-value-categorie-1h06)
+- [Need Persuasive Presentation Topic Ideas? 100+ Interesting Topics That Would Actually Work.](https://dev.to/dhanusree_v_91cb434a13fdf/need-persuasive-presentation-topic-ideas-100-interesting-topics-that-would-actually-work-686)
+- [Ditch Weak Models; Make Your AI Stronger with Data Quality](https://dev.to/evarayner/ditch-weak-models-make-your-ai-stronger-with-data-quality-46k3)
+- [How to Access Both Company and Personal GitHub Repositories On The Same Machine](https://dev.to/myogeshchavan97/how-to-access-both-company-and-personal-github-repositories-on-the-same-machine-md2)
+- [I CHING](https://dev.to/enochian007/i-ching-22dj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
