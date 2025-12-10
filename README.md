@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What Is Devstral 2? Open-Source Coding AI Explained](https://dev.to/chloedavis/what-is-devstral-2-open-source-coding-ai-explained-47b)
 - [I wanted to know how malware works, so I built an analyser](https://dev.to/andremmfaria/i-wanted-to-know-how-malware-works-so-i-built-an-analyser-483g)
 - [WanderChina.Guide: How I Built a China Travel Hub as an AI-Powered Solo Founder](https://dev.to/lianbo_zhou/wanderchinaguide-how-i-built-a-china-travel-hub-as-an-ai-powered-solo-founder-3oo5)
 - [The Hidden Cost of Moving Fast: When &#39;Vibe Coding&#39; Becomes a Security Nightmare](https://dev.to/shiva_shanker_k/the-hidden-cost-of-moving-fast-when-vibe-coding-becomes-a-security-nightmare-3i03)
 - [Stoicism in the Age of AI](https://dev.to/criticalmynd/stoicism-in-the-age-of-ai-1p57)
-- [Day 15: Decoupling and Connecting - Mastering AWS VPC Peering with Terraform](https://dev.to/andylovecloud/day-15-decoupling-and-connecting-mastering-aws-vpc-peering-with-terraform-3cjk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
