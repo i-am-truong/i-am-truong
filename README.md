@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building an Incremental Evaluation Engine for Computer Vision](https://dev.to/__faf963f9e492a4/building-an-incremental-evaluation-engine-for-computer-vision-266)
+- [Arrêtez de demander au LLM si c&#39;est bien. Demandez-lui ce qui cloche.](https://dev.to/onepoint/arretez-de-demander-au-llm-si-cest-bien-demandez-lui-ce-qui-cloche-4p75)
+- [Git-Scope User Guide](https://dev.to/iam_pbk/git-scope-user-guide-2dfj)
+- [25+ Real-World Rails Upgrade Questions &lpar;And the Answers Devs Actually Need&rpar;](https://dev.to/railsfactory_sedin/25-real-world-rails-upgrade-questions-and-the-answers-devs-actually-need-451o)
 - [A Minimal Go Toolkit for Cleaning, Validating, and Querying CSV/TSV/Excel/Parquet Files](https://dev.to/nchika/a-minimal-go-toolkit-for-cleaning-validating-and-querying-csvtsvexcelparquet-files-41ad)
 - [Keyword Era is Over: Build Search Visibility with Fast Linked Data Entities for GEO](https://dev.to/olehnahornyi/keyword-era-is-over-build-search-visibility-with-fast-linked-data-entities-for-geo-1n94)
-- [Chapter 2: Classification](https://dev.to/arham_jawad_51b88b85913b5/chapter-2-classification-537k)
-- [Top Open-Source Data Engineering Tools- Unravelling the Best in 2026](https://dev.to/falgunibhatt/top-open-source-data-engineering-tools-unravelling-the-best-in-2026-1a09)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
