@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Maravel-Framework 10.55.0 lost ~10.8k rows of overhead, improving speed and security](https://dev.to/marius-ciclistu/maravel-framework-10550-lost-108k-rows-of-overhead-improving-speed-and-security-31fi)
+- [Reimagining Thai Lagoon&#39;s Website](https://dev.to/paaaarv/reimagining-thai-lagoons-website-2495)
+- [I built console.text&lpar;&rpar; - SMS alerts for your production code](https://dev.to/noel44/i-built-consoletext-sms-alerts-for-your-production-code-4082)
+- [I Built Selenium Self-Healing Tests with AI That Fix Themselves &lpar;Here&#39;s How&rpar;](https://dev.to/letsautomate/i-built-selenium-self-healing-tests-with-ai-that-fix-themselves-heres-how-421j)
 - [Functional Composition in JavaScript](https://dev.to/travisfont/functional-composition-in-javascript-3n6j)
-- [re:Invent Special Update from AWS CDK](https://dev.to/aws/reinvent-special-update-from-aws-cdk-2af9)
-- [Beyond Vanilla RAG: The 7 Modern RAG Architectures Every AI Engineer Must Know](https://dev.to/naresh_007/beyond-vanilla-rag-the-7-modern-rag-architectures-every-ai-engineer-must-know-4l0c)
-- [Continuous Integration with GitLab: A Complete Walkthrough Using a Real Node.js Project](https://dev.to/anusha_kuppili/continuous-integration-with-gitlab-a-complete-walkthrough-using-a-real-nodejs-project-59ip)
-- [Java vs Swift in 2025: The One Choice That Can Make or Break Your App](https://dev.to/chillicode/java-vs-swift-in-2025-the-one-choice-that-can-make-or-break-your-app-1d90)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
