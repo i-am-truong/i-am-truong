@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [HTTP 402 Explained: Why payment-driven agent authentication is the next leap for autonomous operations](https://dev.to/agnamihira/http-402-explained-why-payment-driven-agent-authentication-is-the-next-leap-for-autonomous-2e5g)
+- [Debugging the Mind&#39;s Legacy Code: A Cognitive Architect&#39;s Log](https://dev.to/aleksei_sergeevich/debugging-the-minds-legacy-code-a-cognitive-architects-log-46m4)
+- [Introducing MHRB: The Next Evolution After MERN](https://dev.to/awais_kaleem_589df3496b64/introducing-mhrb-the-next-evolution-after-mern-493n)
+- [Linux](https://dev.to/whitemamba/linux-4j8b)
 - [How I built a lag-free 10GB Log Viewer for VS Code using Rust &amp; Memory-Mapping](https://dev.to/__1bea7786c7/how-i-built-a-lag-free-10gb-log-viewer-for-vs-code-using-rust-memory-mapping-ih4)
-- [Day 22 of improving my Data Science skills](https://dev.to/sp_the_data_specialist/day-22-of-improving-my-data-science-skills-288o)
-- [One bug, nine errors: what templates actually are](https://dev.to/h0tb0x/one-bug-nine-errors-what-templates-actually-are-7nm)
-- [Validating a CLI to sync env vars - would you pay $79?](https://dev.to/rupamjit_ghosh_3466fa0fc7/validating-a-cli-to-sync-env-vars-would-you-pay-79-1662)
-- [How do you organize your weekly workflow?](https://dev.to/jeff_a9a1df5323a09ccfd733/how-do-you-organize-your-weekly-workflow-40e0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
