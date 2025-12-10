@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Career Planning for a Future of Working with AI Agents](https://dev.to/dclnbrght/career-planning-for-a-future-of-working-with-ai-agents-6c4)
-- [How to Accept Stablecoin Payments: A Complete Guide for Businesses in 2025](https://dev.to/justqueue/how-to-accept-stablecoin-payments-a-complete-guide-for-businesses-in-2025-2kaa)
 - [AI Engineering: Advent of AI with goose Day 3](https://dev.to/eriperspective/ai-engineering-advent-of-ai-with-goose-day-3-2384)
 - [Coding Challenge Practice - Question 75](https://dev.to/tomivan/coding-challenge-practice-question-75-mbi)
 - [The Wrong Database Connection: A Go Deadlock Story](https://dev.to/harudev/the-wrong-database-connection-a-go-deadlock-story-286e)
+- [Ginseng Extract from China: Quality Standards and Buying Guide](https://dev.to/justqueue/ginseng-extract-from-china-quality-standards-and-buying-guide-3dgj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
