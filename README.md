@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AdonisJS Tutorial: The Ultimate Guide &lpar;2023&rpar;](https://dev.to/masteringbackend/adonisjs-tutorial-the-ultimate-guide-2023-1nof)
-- [The Great Un-Skip: Reclaiming Depth and Discovery in a Fast-Forward World](https://dev.to/ammar_yousry_9ab5250bec40/the-great-un-skip-reclaiming-depth-and-discovery-in-a-fast-forward-world-3gj7)
-- [Como Economizar no Delivery de Comida: Dicas Práticas para o Dia a Dia](https://dev.to/weng_dingjun_0560e88e2b91/como-economizar-no-delivery-de-comida-dicas-praticas-para-o-dia-a-dia-32j6)
-- [How to launch a green/eco-friendly subscription box using WooCommerce](https://dev.to/vipul_yadav_c95fff0f6b791/how-to-launch-a-greeneco-friendly-subscription-box-using-woocommerce-1jj5)
-- [Checkout this article on ANOVA in R: Origins, Applications, and Real-World Case Studies](https://dev.to/vamshi_e_eebe5a6287a27142/checkout-this-article-on-anova-in-r-origins-applications-and-real-world-case-studies-8ee)
+- [Building My Developer Portfolio — Showcasing My Projects, Skills &amp; Journey](https://dev.to/avi_tech/building-my-developer-portfolio-showcasing-my-projects-skills-journey-1b6j)
+- [Streamlining ML Workflows: Automating Hyperparameter Tuning with CI/CD and DVC](https://dev.to/h_n_agnihotri/streamlining-ml-workflows-automating-hyperparameter-tuning-with-cicd-and-dvc-4li9)
+- [A story on Frontend Architectures - MVVM, the Separation of Concerns](https://dev.to/purnez/a-story-on-frontend-architectures-mvvm-the-separation-of-concerns-imf)
+- [Rust chronicles #2 - ownership, the unprecedented memory safety guarantee without a garbage collector](https://dev.to/siliconcatalyst/rust-chronicles-2-ownership-the-unprecedented-memory-safety-guarantee-without-a-garbage-4d0g)
+- [Day 10 — Legacy Systems &lpar;The Old Bridge&rpar;](https://dev.to/aerabi/day-10-legacy-systems-the-old-bridge-35b8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
