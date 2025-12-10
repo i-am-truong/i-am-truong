@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Built a Visual Docker Compose Editor - Looking for Feedback!](https://dev.to/joaofcmont/built-a-visual-docker-compose-editor-looking-for-feedback-47k9)
-- [parallel](https://dev.to/query_filter_591122b53770/parallel-dc8)
-- [Implementing Real-Time Streaming with VAPI: Build Voice Apps](https://dev.to/callstacktech/implementing-real-time-streaming-with-vapi-build-voice-apps-3ehg)
-- [Career Planning for a Future of Working with AI Agents](https://dev.to/dclnbrght/career-planning-for-a-future-of-working-with-ai-agents-6c4)
-- [AI Engineering: Advent of AI with goose Day 3](https://dev.to/eriperspective/ai-engineering-advent-of-ai-with-goose-day-3-2384)
+- [Return Facts, Not Interpretations: Why LLM Tools Should Be Dumber Than You Think](https://dev.to/johnonline35/return-facts-not-interpretations-why-llm-tools-should-be-dumber-than-you-think-2g0n)
+- [Why Verdex Uses CDP Directly](https://dev.to/johnonline35/why-verdex-uses-cdp-directly-36ao)
+- [I built an AI mood tracking app to help me with my anxiety](https://dev.to/room8_space_dev/i-built-an-ai-mood-tracking-app-to-help-me-with-my-anxiety-507d)
+- [Hacking Mongoose: How I Built a Global Plugin to Stop Data Leaks 🛡️](https://dev.to/kemora_13conf/hacking-mongoose-how-i-built-a-global-plugin-to-stop-data-leaks-3gnc)
+- [Modular Feature Architecture in SwiftUI](https://dev.to/sebastienlato/modular-feature-architecture-in-swiftui-55bi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
