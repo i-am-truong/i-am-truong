@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building PsychoAnalyze AI: An AI-Powered Interview Analysis Tool for Therapists](https://dev.to/remontsuri/building-psychoanalyze-ai-an-ai-powered-interview-analysis-tool-for-therapists-3n8d)
-- [Agent Facing Analytics with High Concurrency: Doris vs Clickhouse vs Snowflake](https://dev.to/apachedoris/agent-facing-analytics-with-high-concurrency-doris-vs-clickhouse-vs-snowflake-18ij)
-- [10 Best Feature Flag Tools for 2025 &lpar;Comparison + ConfigBee Ranked #1&rpar;](https://dev.to/srivenkatareddy/10-best-feature-flag-tools-for-2025-comparison-configbee-ranked-1-1n6m)
-- [How AI Helps ShortPixel&#39;s Human Agents Deliver Stellar Support](https://dev.to/biancarus/how-ai-helps-shortpixels-human-agents-deliver-stellar-support-33lo)
-- [[Boost]](https://dev.to/elizabethfuentes12/-4oh6)
+- [AI Automation: Not Magic, Just Smart Engineering](https://dev.to/amirali_alamdar/ai-automation-not-magic-just-smart-engineering-4m1f)
+- [AI Engineering: Advent of AI with goose Day 2](https://dev.to/eriperspective/ai-engineering-advent-of-ai-with-goose-day-2-2mc)
+- [When Events Meet Clusters: Building Reactive Micro-services on Kubernetes](https://dev.to/alialp/when-events-meet-clusters-building-reactive-micro-services-on-kubernetes-433e)
+- [Apigee Handbook on GCP: Quick Start Guide for starting](https://dev.to/brngranado/how-to-set-apigee-in-gcp-for-developers-from-scratch-54fl)
+- [How AWS Lightsail Limit Forced Us to Rethink Our Lab Infrastructure](https://dev.to/aws-builders/how-aws-lightsail-limit-forced-us-to-rethink-our-lab-infrastructure-29nh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
