@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to build an app in 2025.](https://dev.to/davidos366/how-to-build-an-app-in-2025-53o5)
+- [The Wipe &amp; Inject Pattern: Full Context for Implementation After Long Planning Sessions](https://dev.to/stef_antoniovirgil_5958d/the-wipe-inject-pattern-full-context-for-implementation-after-long-planning-sessions-2gji)
+- [如何接受稳定币支付：2025年商家完整指南](https://dev.to/justqueue/ru-he-jie-shou-wen-ding-bi-zhi-fu-2025nian-shang-jia-wan-zheng-zhi-nan-3hai)
+- [MODAC GLOBAL SYSTEM](https://dev.to/gift_trust_44882a016531d7/modac-global-system-1j99)
 - [How to Visualize The Things Network Data in Grafana &lpar;Real-Time &amp; Easy&rpar;](https://dev.to/adrelien/how-to-visualize-the-things-network-data-in-grafana-real-time-easy-518a)
-- [Build an AI Math &amp; Physics Agent with DeepSeek v3.2](https://dev.to/getstreamhq/build-an-ai-math-physics-agent-with-deepseek-v32-59dm)
-- [5 Secrets to Perfectly Printed Web Pages](https://dev.to/samuel_ruiz_64604c4d0ba22/5-secrets-to-perfectly-printed-web-pages-3h49)
-- [2025-12-10 Weekly Quantum News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-10-weekly-quantum-news-3pe0)
-- [I Built a Self-Updating, Cross-Platform Desktop App in Python &lpar;So You Don&#39;t Have To&rpar; 🐍🚀](https://dev.to/freerave/i-built-a-self-updating-cross-platform-desktop-app-in-python-so-you-dont-have-to-deg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
