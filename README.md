@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Prompt‑Powered User Personas: From Messy Logs to Living Profiles](https://dev.to/superorange0707/prompt-powered-user-personas-from-messy-logs-to-living-profiles-3j4l)
+- [Prompt Length vs. Context Window: The Real Limits Behind LLM Performance](https://dev.to/superorange0707/prompt-length-vs-context-window-the-real-limits-behind-llm-performance-3h20)
+- [Beyond the Black Box: Neuro‑Symbolic AI, Metacognition, and the Next Leap in Machine Intelligence](https://dev.to/superorange0707/beyond-the-black-box-neuro-symbolic-ai-metacognition-and-the-next-leap-in-machine-intelligence-jih)
 - [How to build an app in 2025.](https://dev.to/davidos366/how-to-build-an-app-in-2025-53o5)
 - [The Wipe &amp; Inject Pattern: Full Context for Implementation After Long Planning Sessions](https://dev.to/stef_antoniovirgil_5958d/the-wipe-inject-pattern-full-context-for-implementation-after-long-planning-sessions-2gji)
-- [如何接受稳定币支付：2025年商家完整指南](https://dev.to/justqueue/ru-he-jie-shou-wen-ding-bi-zhi-fu-2025nian-shang-jia-wan-zheng-zhi-nan-3hai)
-- [MODAC GLOBAL SYSTEM](https://dev.to/gift_trust_44882a016531d7/modac-global-system-1j99)
-- [How to Visualize The Things Network Data in Grafana &lpar;Real-Time &amp; Easy&rpar;](https://dev.to/adrelien/how-to-visualize-the-things-network-data-in-grafana-real-time-easy-518a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
