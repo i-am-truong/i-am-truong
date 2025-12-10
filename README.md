@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Jobs to Be Done Reveals True Customer Needs: Insights Inspired by John Neuhart](https://dev.to/johnneuhart/how-jobs-to-be-done-reveals-true-customer-needs-insights-inspired-by-john-neuhart-2gk4)
-- [Color Palette Persona](https://dev.to/mrbaodk/color-palette-persona-ok0)
-- [What is MCP: The Infrastructure Powering Agentic AI](https://dev.to/getstreamhq/what-is-mcp-the-infrastructure-powering-agentic-ai-26ob)
-- [I Built a TUI to Visualize RAG Chunking because chunk_size=1000 is a Lie 📉](https://dev.to/rasinmuhammed/i-built-a-tui-to-visualize-rag-chunking-because-chunksize1000-is-a-lie-1dg0)
-- [Stacklok&#39;s MCP Optimizer vs Anthropic&#39;s Tool Search Tool: A Head-to-Head Comparison](https://dev.to/stacklok/stackloks-mcp-optimizer-vs-anthropics-tool-search-tool-a-head-to-head-comparison-2f32)
+- [Open Source Engagement: What&#39;s Working Now?](https://dev.to/adiatiayu/open-source-engagement-whats-working-now-37b9)
+- [Ship Production Apps in Days, Not Months: We Open-Sourced Our Entire Infrastructure Stack](https://dev.to/nfrax/ship-production-apps-in-days-not-months-we-open-sourced-our-entire-infrastructure-stack-3f33)
+- [How I built a privacy-first Chrome Extension to fix performance &lpar;Manifest V3&rpar;](https://dev.to/superchargebrowser/how-i-built-a-privacy-first-chrome-extension-to-fix-performance-manifest-v3-43b4)
+- [The Hell of AI Agent Development](https://dev.to/fl4tlin3/the-hell-of-ai-agent-development-47b4)
+- [The Secret Language of Data: Vectors and Cosine Similarity](https://dev.to/andrewchaa/the-secret-language-of-data-vectors-and-cosine-similarity-4e2a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
