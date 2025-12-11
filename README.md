@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI-Powered Alt Text Generator with Angular, Firebase AI Logic, and Gemini 3](https://dev.to/railsstudent/building-an-ai-powered-alt-text-generator-with-angular-firebase-ai-logic-and-gemini-3-b8k)
-- [AWS Bedrock with LangChain](https://dev.to/nash9/aws-bedrock-with-langchain-4lbe)
-- [The Mechanics of Turning Raw Transaction Data Into Behavioral Signals](https://dev.to/jamespatterson25/the-mechanics-of-turning-raw-transaction-data-into-behavioral-signals-3ek)
-- [Building a Production-Ready Microservices Platform with CI/CD on AWS Free Tier](https://dev.to/cypher682/building-a-production-ready-microservices-platform-with-cicd-on-aws-free-tier-2la0)
-- [Ace Online Assessments Without Burning Out &lpar;Using AI&rpar;](https://dev.to/alex_hunter_44f4c9ed6671e/ace-online-assessments-without-burning-out-using-ai-2h3f)
+- [Viewing AWS Used Resources and Costs for Finance Team: Guide to Exporting PDF Reports](https://dev.to/cloud_man/viewing-aws-used-resources-and-costs-for-finance-team-guide-to-exporting-pdf-reports-jca)
+- [Batch publishing Twitch chatroom messages - with AWS Lambda Durable Multi-Step Executions](https://dev.to/aws-builders/batch-publishing-twitch-chatroom-messages-with-aws-lambda-durable-multi-step-executions-2a30)
+- [ScrumBuddy Beta Is Live! Here’s the Real Story Behind It &lpar;For the Solopreneurs Who’ll Get It Most&rpar;](https://dev.to/guypowell/scrumbuddy-beta-is-live-heres-the-real-story-behind-it-for-the-solopreneurs-wholl-get-it-most-4b79)
+- [My PC melted while making this game...](https://dev.to/shaq_attack/my-pc-melted-while-making-this-game-4b71)
+- [My First game - Comms Under Fire](https://dev.to/shaq_attack/my-first-game-comms-under-fire-2co)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
