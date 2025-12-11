@@ -122,9 +122,9 @@ Python                   1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [How AI Can Help Maintain Design Consistency in Low-Code Platforms](https://dev.to/arbisoftcompany/how-ai-can-help-maintain-design-consistency-in-low-code-platforms-3jgk)
 - [15 Free AI Video Generators You Can Actually Use in 2025](https://dev.to/carol_luo_ea61ea6c4bb07c1/15-free-ai-video-generators-you-can-actually-use-in-2025-3g74)
-- [**7 Essential Infrastructure as Code Patterns That Guarantee Consistent Web Deployments Every Time**](https://dev.to/nithinbharathwaj/7-essential-infrastructure-as-code-patterns-that-guarantee-consistent-web-deployments-every-time-2g64)
-- [IT Compliance Consultant – Ensuring Security &amp; Regulatory Excellence](https://dev.to/techwithandrew/it-compliance-consultant-ensuring-security-regulatory-excellence-2o2p)
-- [Estratégias de Crescimento: Impulsione Seu Negócio em 2024](https://dev.to/movin/estrategias-de-crescimento-impulsione-seu-negocio-em-2024-1n38)
+- [AWS CDK IAM Role Management: Preventing Automatic Policy Updates](https://dev.to/aws-heroes/aws-cdk-iam-role-management-preventing-automatic-policy-updates-ibk)
+- [From AI Enthusiast to Applied AI Agent Builder — My Journey Through the Google Agents Intensive &amp; My Capstone Project](https://dev.to/ajoy_ssaha_24290780ba206/from-ai-enthusiast-to-applied-ai-agent-builder-my-journey-through-the-google-agents-intensive--2941)
+- [Post-Holiday Email Segmentation: What to Do With All Those December Buyers](https://dev.to/synergistdigitalmedia/post-holiday-email-segmentation-what-to-do-with-all-those-december-buyers-566)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
