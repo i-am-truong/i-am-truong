@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Chunking Java Streams the Right Way — A Collector That Feels Like It Should Be in the JDK](https://dev.to/zmad5306/chunking-java-streams-the-right-way-a-collector-that-feels-like-it-should-be-in-the-jdk-4e53)
-- [I Just Launched Summaryr on Product Hunt – The AI Tool That Cut My Reading Time by 70%](https://dev.to/ahmadnk31/i-just-launched-summaryr-on-product-hunt-the-ai-tool-that-cut-my-reading-time-by-70-3bcl)
-- [Moving on from Terraform CDK](https://dev.to/encore/moving-on-from-terraform-cdk-5394)
-- [La guía definitiva de CODEOWNERS... y por qué no es suficiente para equipos de alto rendimiento](https://dev.to/aleixriba/codeowners-4jn3)
-- [Lessons in Testing, Performance, and Legacy Systems from /dev/mtl 2025](https://dev.to/gitguardian/lessons-in-testing-performance-and-legacy-systems-from-devmtl-2025-5dl2)
+- [Blockchain for Non-Technical People: Breaking Down the Basics](https://dev.to/ribhavmodi/blockchain-for-non-technical-people-breaking-down-the-basics-33c)
+- [Understanding Overfitting in Neural Networks &lpar;TensorFlow- CNN&rpar;](https://dev.to/stephen_ogundero_7c2f6842/understanding-overfitting-in-neural-networks-tensorflow-cnn-353b)
+- [Which Telegram Bot Library Should You Use? &lpar;Beginner-Friendly Guide&rpar;](https://dev.to/lasisi_ibrahimpelumi_dc0/which-telegram-bot-library-should-you-use-beginner-friendly-guide-4g90)
+- [I built a visual workflow tool for developers with Tauri](https://dev.to/runkids/i-built-a-visual-workflow-tool-for-developers-with-tauri-45gp)
+- [I built a Multi-Agent Support System in 5 Days &lpar;And Learned Why &quot;God Agents&quot; Don&#39;t Work&rpar;](https://dev.to/kalaiguna/i-built-a-multi-agent-support-system-in-5-days-and-learned-why-god-agents-dont-work-4e06)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
