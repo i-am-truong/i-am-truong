@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Image Generator 2025 — Create High-Quality Images from Text Instantly | Createimg.ai](https://dev.to/oliver_bennett_08f48dbd91/ai-image-generator-2025-create-high-quality-images-from-text-instantly-createimgai-39d4)
-- [Post-Holiday Email Segmentation: What to Do With All Those December Buyers](https://dev.to/synergistdigitalmedia/post-holiday-email-segmentation-what-to-do-with-all-those-december-buyers-566)
-- [Why Modern Dubai Parents Are Choosing The VH Nursery: A Fresh Take on Early Childhood &lpar;Without the Stress&rpar;](https://dev.to/victory_heightsnursery_e/why-modern-dubai-parents-are-choosing-the-vh-nursery-a-fresh-take-on-early-childhood-without-the-41a2)
-- [How to handle large file uploads](https://dev.to/uploadcare_org/how-to-handle-large-file-uploads-bna)
-- [Tsonnet #28 - Debugging gets pretty &lpar;printed&rpar;](https://dev.to/bitmaybewise/tsonnet-28-debugging-gets-pretty-printed-cbf)
+- [How AI Can Help Maintain Design Consistency in Low-Code Platforms](https://dev.to/arbisoftcompany/how-ai-can-help-maintain-design-consistency-in-low-code-platforms-3jgk)
+- [15 Free AI Video Generators You Can Actually Use in 2025](https://dev.to/carol_luo_ea61ea6c4bb07c1/15-free-ai-video-generators-you-can-actually-use-in-2025-3g74)
+- [**7 Essential Infrastructure as Code Patterns That Guarantee Consistent Web Deployments Every Time**](https://dev.to/nithinbharathwaj/7-essential-infrastructure-as-code-patterns-that-guarantee-consistent-web-deployments-every-time-2g64)
+- [IT Compliance Consultant – Ensuring Security &amp; Regulatory Excellence](https://dev.to/techwithandrew/it-compliance-consultant-ensuring-security-regulatory-excellence-2o2p)
+- [Estratégias de Crescimento: Impulsione Seu Negócio em 2024](https://dev.to/movin/estrategias-de-crescimento-impulsione-seu-negocio-em-2024-1n38)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
