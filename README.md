@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ethereum’s 2025 Endgame: 60M Gas Blocks, EIL Cross-L2 Architecture, ARBOS Unification &amp; On-Chain Fan Identity](https://dev.to/codebyankita/ethereums-2025-endgame-60m-gas-blocks-eil-cross-l2-architecture-arbos-unification-on-chain-3bfo)
+- [Raffi: a modern Stremio‑compatible streaming client I built at 16](https://dev.to/artemas/raffi-a-modern-stremio-compatible-streaming-client-i-built-at-16-223p)
+- [AWS re:Invent 2025 - Simplify permissions management across Amazon Redshift warehouses &lpar;ANT350&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-simplify-permissions-management-across-amazon-redshift-warehouses-ant350-1mll)
+- [Why I Migrated from MPA to SPA: App Router Refactoring in Practice](https://dev.to/pipipi-dev/why-i-migrated-from-mpa-to-spa-app-router-refactoring-in-practice-39nn)
 - [Redox OS: Is the Future of Operating Systems Written in Rust?](https://dev.to/francescoxx/redox-os-is-the-future-of-operating-systems-written-in-rust-d2n)
-- [9 Strumenti e Tecnologie Che Stanno Potenziando Lo Sviluppo di Applicazioni Web3 nel 2025](https://dev.to/chickieabby/9-strumenti-e-tecnologie-che-stanno-potenziando-lo-sviluppo-di-applicazioni-web3-nel-2025-1nn)
-- [The Secret Life of JavaScript: Understanding Prototypes](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-understanding-prototypes-13cn)
-- [Kiro Did It! : How Kiro Helped Me Modernize My Portfolio Website!](https://dev.to/bhatiagirish/kiro-did-it-how-kiro-helped-me-modernize-my-portfolio-website-1oj9)
-- [When Simplicity Starves the Soul](https://dev.to/rawveg/when-simplicity-starves-the-soul-465c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
