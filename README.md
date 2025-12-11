@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [DeepChat: Desktop AI Companion for Deep Work](https://dev.to/stelixx-insider/deepchat-desktop-ai-companion-for-deep-work-1866)
-- [How I Mastered Chaos &lpar;Testing&rpar;: My LFX Journey with CloudNativePG](https://dev.to/xploy04/how-i-mastered-chaos-testing-my-lfx-journey-with-cloudnativepg-1ecj)
-- [How I Added Glossary Tooltip Hover to Kgateway Docs &lpar;Using Hugo Shortcodes&rpar;](https://dev.to/uzukwu_michael_91a95b823b/how-i-added-glossary-tooltip-hover-to-kgateway-docs-using-hugo-shortcodes-1e6o)
-- [What are the top benefits of completing a smart contract audit before a token launch?](https://dev.to/zara_fernandes_b02180aa0b/what-are-the-top-benefits-of-completing-a-smart-contract-audit-before-a-token-launch-2cf2)
-- [Building Proof Pocket: An Offline Encrypted Vault for Your Photos and Documents](https://dev.to/fenrirx22/building-proof-pocket-an-offline-encrypted-vault-for-your-photos-and-documents-1apc)
+- [Angular - Standalone Component](https://dev.to/milan_karajovic_45443e6d6/angular-standalone-component-1lmh)
+- [Experimental Hono auth npm package](https://dev.to/zara_qureshi_fdca3ade9d57/experimental-hono-auth-npm-package-432c)
+- [AWS IAM: Policies, Permission Boundaries, and Advanced Access Controls &lpar;Part 2&rpar;](https://dev.to/jeyy/aws-iam-policies-permission-boundaries-and-advanced-access-controls-part-2-47h4)
+- [“From JEE Prep to AI Pioneer: My Copilot-Powered Academy”](https://dev.to/sujith_p_d673ee9f3248eaf5/from-jee-prep-to-ai-pioneer-my-copilot-powered-academy-33be)
+- [Lab Notes: What I Learned Dropping Imdone’s Price for a Week](https://dev.to/imdone/lab-notes-what-i-learned-dropping-imdones-price-for-a-week-543l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
