@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 11 — Authenticity of AI-Generated Content &lpar;The Cowgirl&rpar;](https://dev.to/aerabi/day-11-authenticity-of-ai-generated-content-the-cowgirl-3i3d)
+- [Why AWS Delegated Administrators Are Essential for AWS Multi-Account Architectures](https://dev.to/aws-builders/why-aws-delegated-administrators-are-essential-for-aws-multi-account-architectures-2k0n)
+- [Day 6: Rebuilding Plans](https://dev.to/blink_c5eb0afe3975/day-6-rebuilding-plans-2in6)
 - [DEV Track Spotlight: Building Production Agent Swarms - Mastering Industrial AI &lpar;DEV311&rpar;](https://dev.to/aws/dev-track-spotlight-building-production-agent-swarms-mastering-industrial-ai-dev311-41b0)
 - [Day 6: Rebuilding Plans and Core Revelations](https://dev.to/casperday11/day-6-rebuilding-plans-and-core-revelations-1b5j)
-- [Investigating Error Logs Using LangGraph, LangChain and Watsonx.ai](https://dev.to/frosnerd/investigating-error-logs-using-langgraph-langchain-and-watsonxai-2o6j)
-- [How to Build a Professional Next.js Blog with a Secure CMS](https://dev.to/edgi/how-to-build-a-professional-nextjs-blog-with-a-secure-cms-40o6)
-- [The 5-Minute System Design Question Most Engineers Get Wrong](https://dev.to/social_interviewbee/the-5-minute-system-design-question-most-engineers-get-wrong-49fb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
