@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hashicorp Vault: Token Management via CLI and API](https://dev.to/admantium/hashicorp-vault-token-management-via-cli-and-api-3j02)
-- [I refused to pay subscriptions just to delete an ending, so I &quot;Vibe Coded&quot; a CapCut Watermark Remover &lpar;No Login&rpar;](https://dev.to/renming_wang_99a0c6efbd56/i-refused-to-pay-subscriptions-just-to-delete-an-ending-so-i-vibe-coded-a-capcut-watermark-3onb)
-- [Carific.ai: From AI Slop to Actionable Feedback - Structured Output with Zod and the AI SDK](https://dev.to/abdullahjan/carificai-from-ai-slop-to-actionable-feedback-structured-output-with-zod-and-the-ai-sdk-5d7o)
-- [🌩️From Cyber Cafés to Cloud Computing](https://dev.to/itsmeananyasrivastava/from-cyber-cafes-to-cloud-computing-1ceg)
-- [2026 Front End Roadmap: 100% Free Resources to Get Hired](https://dev.to/codersnote/2026-front-end-roadmap-100-free-resources-to-get-hired-768)
+- [My First Docker Project!](https://dev.to/suyash_gade_28f2c3c78e0a7/my-first-docker-project-518d)
+- [The Post-Migration Era: Optimizing Cloud ROI Through Autonomous Operations](https://dev.to/jyothsna_devi_a41eee1ca3f/the-post-migration-era-optimizing-cloud-roi-through-autonomous-operations-2igc)
+- [🚀 Terraform Day 4: Understanding State Files &amp; Remote Backends — The Heart of Terraform](https://dev.to/jeeva_5c84a254e90842940dd/terraform-day-4-understanding-state-files-remote-backends-the-heart-of-terraform-32il)
+- [Event-Driven Architecture Part 1: Message Queues and Topics](https://dev.to/outdated-dev/event-driven-architecture-part-1-message-queues-and-topics-32pb)
+- [10 Ways to Improve App Performance Across Devices in 2026](https://dev.to/devin-rosario/10-ways-to-improve-app-performance-across-devices-in-2026-558j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
