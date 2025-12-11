@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Accelerating Release Cycles Through Automated Regression Testing](https://dev.to/yeahiasarker/accelerating-release-cycles-through-automated-regression-testing-1b62)
-- [10 Common Drawing Mistakes Beginners Make &amp; How to Avoid](https://dev.to/xprocad/10-common-drawing-mistakes-beginners-make-how-to-avoid-3a31)
-- [iPhone HTTPS Packet Capture: Process from Unable to Capture to Problem Localization &lpar;Charles/tcpdump/Wireshark/Sniffmaster&rpar;](https://dev.to/iphonetechie/iphone-https-packet-capture-process-from-unable-to-capture-to-problem-localization-4047)
-- [I just Launched RareUI - A Clean, Modern Component Library.](https://dev.to/swapnil_kalambe_59b037384/i-just-launched-rareui-a-clean-modern-component-library-53dc)
-- [Modernizing Enterprise IT: The Unified Internal Portal](https://dev.to/edgi/modernizing-enterprise-it-the-unified-internal-portal-37gc)
+- [DEV Track Spotlight: Building Production Agent Swarms - Mastering Industrial AI &lpar;DEV311&rpar;](https://dev.to/aws/dev-track-spotlight-building-production-agent-swarms-mastering-industrial-ai-dev311-41b0)
+- [Day 6: Rebuilding Plans and Core Revelations](https://dev.to/casperday11/day-6-rebuilding-plans-and-core-revelations-1b5j)
+- [Investigating Error Logs Using LangGraph, LangChain and Watsonx.ai](https://dev.to/frosnerd/investigating-error-logs-using-langgraph-langchain-and-watsonxai-2o6j)
+- [How to Build a Professional Next.js Blog with a Secure CMS](https://dev.to/edgi/how-to-build-a-professional-nextjs-blog-with-a-secure-cms-40o6)
+- [The 5-Minute System Design Question Most Engineers Get Wrong](https://dev.to/social_interviewbee/the-5-minute-system-design-question-most-engineers-get-wrong-49fb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
