@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [DB Connection Pools: The Chefs Behind Your App’s Kitchen](https://dev.to/rijultp/db-connection-pools-the-chefs-behind-your-apps-kitchen-218l)
-- [How I Got Caller ID Working in Canada Using RingCentral, Twilio, and ElevenLabs](https://dev.to/colbygarland/using-ringcentral-twilio-and-elevenlabs-in-canada-to-get-caller-id-d89)
-- [DuckDB: how to fine tune parameters?](https://dev.to/sharmaprash/duckdb-how-to-fine-tune-parameters-39h8)
-- [OWASP Top Ten 2025 Quiz 2 Week 1](https://dev.to/fosres/owasp-top-ten-2025-quiz-2-week-1-34lc)
-- [The Unexpected Hard Parts of Building a Portfolio in Next.js 16](https://dev.to/itsugo/the-unexpected-hard-parts-of-building-a-portfolio-in-nextjs-16-12po)
+- [Today I Split My First Huge Component from the Course Into Clean, Reusable Components](https://dev.to/usama_dev/today-i-split-my-first-huge-component-from-the-course-into-clean-reusable-components-2lgf)
+- [Today I Split My First Huge Component from the Course Into Clean, Reusable Components](https://dev.to/usama_dev/today-i-split-my-first-huge-component-from-the-course-into-clean-reusable-components-3161)
+- [My journey in the AI agents intensive program...✨](https://dev.to/vaishali_gupta_45b274e368/my-journey-in-the-ai-agents-intensive-program-36j)
+- [ScreenUI Is Now Live A Modern UI Library + CLI for Next.js, React &amp; Tailwind](https://dev.to/iamnavneet/screenui-is-now-live-a-modern-ui-library-cli-for-nextjs-react-tailwind-19le)
+- [Introduction to Classes in Object-Oriented Programming](https://dev.to/cristopher_njuguna_6381b1/introduction-to-classes-in-object-oriented-programming-36ip)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
