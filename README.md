@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Como corrigir o erro de GPG do repositório do Cursor no Linux Mint](https://dev.to/brayanmonteiroo/como-corrigir-o-erro-de-gpg-do-repositorio-do-cursor-no-linux-mint-4m8h)
-- [How far have we come?](https://dev.to/xtina/how-far-have-we-come-1glo)
-- [Fusaka Goes Live, EIL vs OIF Debate, Rewardy Launches ERC-7702 Wallet, 7702 Unlocks Recovering Assets](https://dev.to/etherspot/fusaka-goes-live-eil-vs-oif-debate-rewardy-launches-erc-7702-wallet-7702-unlocks-recovering-4bd3)
-- [📅 Day 13 | AWS VPC — The Heart of AWS Networking 🌐](https://dev.to/sudarshan_yadav/day-13-aws-vpc-the-heart-of-aws-networking-2bjc)
-- [Escribe código Python modular y extensible con Hooks al estilo WordPress &lpar;Te presento wphooks&rpar;](https://dev.to/manuelcanga/escribe-codigo-python-modular-y-extensible-con-hooks-al-estilo-wordpress-te-presento-wphooks-3ffa)
+- [Why 95% of AI Agent Projects Never Reach Production &lpar;And How We&#39;re Fixing It&rpar;](https://dev.to/swapnil_somal_8abcc39b315/why-95-of-ai-agent-projects-never-reach-production-and-how-were-fixing-it-3p44)
+- [How We Build AR Projects: Full Development Process Explained Step by Step](https://dev.to/zoolatech/how-we-build-ar-projects-full-development-process-explained-step-by-step-2ogm)
+- [Yoyo migrate vs Golang migrate](https://dev.to/kiryl_kazlavets/yoyo-migrate-vs-golang-migrate-ibp)
+- [Gadget Warranty Services: Ensuring Protection for Your Electronic Devices](https://dev.to/rapidcellphone/gadget-warranty-services-ensuring-protection-for-your-electronic-devices-3ic4)
+- [How I Cut My Debugging Time in Half as a Front-End Developer &lpar;A Practical Guide&rpar;](https://dev.to/sharmaprash/weekly-developer-trends-2025-12-11-55c6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
