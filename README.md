@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Tutorial LangGraph: De Cero a Multi-Agent System en 21 Días](https://dev.to/abdessamad_ammi_202ac2bad/tutorial-langgraph-de-cero-a-multi-agent-system-en-21-dias-4i0m)
-- [AI-Native QA: Transforming Quality Assurance with Intelligence-First Strategies](https://dev.to/vishalchincholi1/ai-native-qa-transforming-quality-assurance-with-intelligence-first-strategies-35ke)
-- [AI Comes to Chrome on iPhone &amp; iPad: A New Era of Mobile Browsing](https://dev.to/logicverse_2025/ai-comes-to-chrome-on-iphone-ipad-a-new-era-of-mobile-browsing-31hh)
-- [Getting Started with Mooncake: Installation, Execution &amp; Troubleshooting](https://dev.to/__82e06472cd325ef306e6/getting-started-with-mooncake-installation-execution-troubleshooting-1hh9)
-- [How to Use Bundles, Upsells, and Cross-Sells to Increase AOV in Ecommerce](https://dev.to/prateekshaweb/how-to-use-bundles-upsells-and-cross-sells-to-increase-aov-in-ecommerce-195d)
+- [Due Diligence Report: Operational Anomalies Found on Bittam](https://dev.to/traderknows/due-diligence-report-operational-anomalies-found-on-bittam-3eoh)
+- [Web3 : Le bilan de Google Cloud sur la blockchain en 2025](https://dev.to/zenika/web3-le-bilan-de-google-cloud-sur-la-blockchain-en-2025-431p)
+- [A Rough day with Ruff --fix in Django&#39;s apps](https://dev.to/ajitkumar/a-rough-day-with-ruff-fix-in-djangos-apps-27nn)
+- [Build a 10x Faster Image Upload API in 15 Minutes with Bun](https://dev.to/aissam_irhir_1e776f7ef2ac/build-a-10x-faster-image-upload-api-in-15-minutes-with-bun-16m7)
+- [Why Medium Is Still the #1 Blog Reading Platform in 2025 &lpar;And How to Find Hidden Gems&rpar;](https://dev.to/lemonadeblog/why-medium-is-still-the-1-blog-reading-platform-in-2025-and-how-to-find-hidden-gems-he8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
