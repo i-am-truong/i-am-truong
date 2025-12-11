@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Due Diligence Report: Operational Anomalies Found on Bittam](https://dev.to/traderknows/due-diligence-report-operational-anomalies-found-on-bittam-3eoh)
-- [Web3 : Le bilan de Google Cloud sur la blockchain en 2025](https://dev.to/zenika/web3-le-bilan-de-google-cloud-sur-la-blockchain-en-2025-431p)
-- [A Rough day with Ruff --fix in Django&#39;s apps](https://dev.to/ajitkumar/a-rough-day-with-ruff-fix-in-djangos-apps-27nn)
-- [Build a 10x Faster Image Upload API in 15 Minutes with Bun](https://dev.to/aissam_irhir_1e776f7ef2ac/build-a-10x-faster-image-upload-api-in-15-minutes-with-bun-16m7)
-- [Why Medium Is Still the #1 Blog Reading Platform in 2025 &lpar;And How to Find Hidden Gems&rpar;](https://dev.to/lemonadeblog/why-medium-is-still-the-1-blog-reading-platform-in-2025-and-how-to-find-hidden-gems-he8)
+- [Accelerating Release Cycles Through Automated Regression Testing](https://dev.to/yeahiasarker/accelerating-release-cycles-through-automated-regression-testing-1b62)
+- [10 Common Drawing Mistakes Beginners Make &amp; How to Avoid](https://dev.to/xprocad/10-common-drawing-mistakes-beginners-make-how-to-avoid-3a31)
+- [iPhone HTTPS Packet Capture: Process from Unable to Capture to Problem Localization &lpar;Charles/tcpdump/Wireshark/Sniffmaster&rpar;](https://dev.to/iphonetechie/iphone-https-packet-capture-process-from-unable-to-capture-to-problem-localization-4047)
+- [I just Launched RareUI - A Clean, Modern Component Library.](https://dev.to/swapnil_kalambe_59b037384/i-just-launched-rareui-a-clean-modern-component-library-53dc)
+- [Modernizing Enterprise IT: The Unified Internal Portal](https://dev.to/edgi/modernizing-enterprise-it-the-unified-internal-portal-37gc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
