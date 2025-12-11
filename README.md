@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Chunking Java Streams the Right Way — A Collector That Feels Like It Should Be in the JDK](https://dev.to/zmad5306/chunking-java-streams-the-right-way-a-collector-that-feels-like-it-should-be-in-the-jdk-4e53)
+- [I Just Launched Summaryr on Product Hunt – The AI Tool That Cut My Reading Time by 70%](https://dev.to/ahmadnk31/i-just-launched-summaryr-on-product-hunt-the-ai-tool-that-cut-my-reading-time-by-70-3bcl)
 - [Moving on from Terraform CDK](https://dev.to/encore/moving-on-from-terraform-cdk-5394)
 - [La guía definitiva de CODEOWNERS... y por qué no es suficiente para equipos de alto rendimiento](https://dev.to/aleixriba/codeowners-4jn3)
 - [Lessons in Testing, Performance, and Legacy Systems from /dev/mtl 2025](https://dev.to/gitguardian/lessons-in-testing-performance-and-legacy-systems-from-devmtl-2025-5dl2)
-- [You Probably Understood the Client Server Model Wrong](https://dev.to/jjackbauer/you-probably-understood-the-client-server-model-wrong-3ae1)
-- [I built a unified API toolkit so devs can stop rewriting the same utilities — looking for feedback](https://dev.to/marquismark/i-built-a-unified-api-toolkit-so-devs-can-stop-rewriting-the-same-utilities-looking-for-feedback-1fg0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
