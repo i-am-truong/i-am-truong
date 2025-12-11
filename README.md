@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Boring Tools That Rank: 4 Weeks, 11 Tools, and a Plot Twist with ChatGPT](https://dev.to/eduard_albu/building-boring-tools-that-rank-4-weeks-11-tools-and-a-plot-twist-with-chatgpt-304)
+- [&lpar;Learn with 🖼️Meme images&rpar; How to create 🎨3D animation using 🧠AI &lpar;React Three Fiber vs Three.js vs A-Frame + GSAP&rpar;](https://dev.to/webdeveloperhyper/learn-with-meme-images-how-to-create-3d-animation-using-ai-react-three-fiber-vs-threejs-vs-kho)
+- [How to Automate the Collection of Localized Promotional Data from Major Retailers Like Best Buy and Walmart](https://dev.to/anna_6c67c00f5c3f53660978/how-to-automate-the-collection-of-localized-promotional-data-from-major-retailers-like-best-buy-and-4hoi)
 - [How AI Can Help Maintain Design Consistency in Low-Code Platforms](https://dev.to/arbisoftcompany/how-ai-can-help-maintain-design-consistency-in-low-code-platforms-3jgk)
-- [15 Free AI Video Generators You Can Actually Use in 2025](https://dev.to/carol_luo_ea61ea6c4bb07c1/15-free-ai-video-generators-you-can-actually-use-in-2025-3g74)
-- [AWS CDK IAM Role Management: Preventing Automatic Policy Updates](https://dev.to/aws-heroes/aws-cdk-iam-role-management-preventing-automatic-policy-updates-ibk)
-- [From AI Enthusiast to Applied AI Agent Builder — My Journey Through the Google Agents Intensive &amp; My Capstone Project](https://dev.to/ajoy_ssaha_24290780ba206/from-ai-enthusiast-to-applied-ai-agent-builder-my-journey-through-the-google-agents-intensive--2941)
-- [Post-Holiday Email Segmentation: What to Do With All Those December Buyers](https://dev.to/synergistdigitalmedia/post-holiday-email-segmentation-what-to-do-with-all-those-december-buyers-566)
+- [**7 Essential Monorepo Patterns That Transformed Our Chaotic Multi-Repository Nightmare into Controlled Development Workflow**](https://dev.to/nithinbharathwaj/7-essential-monorepo-patterns-that-transformed-our-chaotic-multi-repository-nightmare-into-93k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
