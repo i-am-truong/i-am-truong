@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Prompt‑Powered User Personas: From Messy Logs to Living Profiles](https://dev.to/superorange0707/prompt-powered-user-personas-from-messy-logs-to-living-profiles-3j4l)
-- [Prompt Length vs. Context Window: The Real Limits Behind LLM Performance](https://dev.to/superorange0707/prompt-length-vs-context-window-the-real-limits-behind-llm-performance-3h20)
-- [Beyond the Black Box: Neuro‑Symbolic AI, Metacognition, and the Next Leap in Machine Intelligence](https://dev.to/superorange0707/beyond-the-black-box-neuro-symbolic-ai-metacognition-and-the-next-leap-in-machine-intelligence-jih)
-- [How to build an app in 2025.](https://dev.to/davidos366/how-to-build-an-app-in-2025-53o5)
-- [The Wipe &amp; Inject Pattern: Full Context for Implementation After Long Planning Sessions](https://dev.to/stef_antoniovirgil_5958d/the-wipe-inject-pattern-full-context-for-implementation-after-long-planning-sessions-2gji)
+- [.slice&lpar;&rpar;、.reverse&lpar;&rpar;](https://dev.to/nikimunger/slice-reverse-3h2k)
+- [5 Database Query Optimization Tips That Actually Work](https://dev.to/mark_redding_fb1c365503df/5-database-query-optimization-tips-that-actually-work-16kh)
+- [Accelerating PHP Development with Cursor AI](https://dev.to/mark_redding_fb1c365503df/accelerating-php-development-with-cursor-ai-ln1)
+- [My Newsletter: Growth, Fun, Slow &amp; Steady](https://dev.to/nickytonline/my-newsletter-growth-fun-slow-steady-4kja)
+- [How to Merge Word Documents in C#](https://dev.to/yahey/how-to-merge-word-documents-in-c-28hj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
