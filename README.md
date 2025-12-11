@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Today I Split My First Huge Component from the Course Into Clean, Reusable Components](https://dev.to/usama_dev/today-i-split-my-first-huge-component-from-the-course-into-clean-reusable-components-2lgf)
-- [Today I Split My First Huge Component from the Course Into Clean, Reusable Components](https://dev.to/usama_dev/today-i-split-my-first-huge-component-from-the-course-into-clean-reusable-components-3161)
-- [My journey in the AI agents intensive program...✨](https://dev.to/vaishali_gupta_45b274e368/my-journey-in-the-ai-agents-intensive-program-36j)
-- [ScreenUI Is Now Live A Modern UI Library + CLI for Next.js, React &amp; Tailwind](https://dev.to/iamnavneet/screenui-is-now-live-a-modern-ui-library-cli-for-nextjs-react-tailwind-19le)
-- [Introduction to Classes in Object-Oriented Programming](https://dev.to/cristopher_njuguna_6381b1/introduction-to-classes-in-object-oriented-programming-36ip)
+- [Must read!](https://dev.to/the_duchess_of_hackers/must-read-3da0)
+- [Modern Identity Governance Strategies for Evolving IT Environments](https://dev.to/kapusto/modern-identity-governance-strategies-for-evolving-it-environments-253f)
+- [Luna API buit with Xano Backend](https://dev.to/kaichat/luna-api-buit-with-xano-backend-3keg)
+- [I Got Tired of Rewriting Payment Code, So I Built a Unified SDK for Africa](https://dev.to/idywilliams/i-got-tired-of-rewriting-payment-code-so-i-built-a-unified-sdk-for-africa-2e33)
+- [Quic-test: an open tool for testing QUIC, BBRv3, and FEC under real-world network conditions](https://dev.to/cloudbridge/quic-test-an-open-tool-for-testing-quic-bbrv3-and-fec-under-real-world-network-conditions-2791)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
