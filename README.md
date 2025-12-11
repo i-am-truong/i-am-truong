@@ -120,12 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Let me tell you about a Tuesday that changed everything.
-.I was three hours into what should have been a 30-minute bug fix. My terminal had 47 tabs open. I&#39;d restarted my local server six times.............. Read More](https://dev.to/thebitforge/let-me-tell-you-about-a-tuesday-that-changed-everything-i-was-three-hours-into-what-should-have-4385)
-- [How AI Is Transforming IVF Success Rates in 2025](https://dev.to/santanivf/how-ai-is-transforming-ivf-success-rates-in-2025-63)
-- [Demystifying Retrieval-Augmented Generation &lpar;RAG&rpar;](https://dev.to/ctrix/demystifying-retrieval-augmented-generation-rag-2bh6)
-- [My 5-Day Learning Journey with Google &amp; Kaggle’s AI Agents Intensive](https://dev.to/yudong_wan_deb09ed5a01b4d/my-5-day-learning-journey-with-google-kaggles-ai-agents-intensive-2p8f)
-- [How Tokenization Consulting Creates Scalable, Efficient, and Investor-Friendly Token Solutions](https://dev.to/suzie_iris_65ce8070067366/how-tokenization-consulting-creates-scalable-efficient-and-investor-friendly-token-solutions-4b1d)
+- [[Boost]](https://dev.to/vimal/-5c5d)
+- [Build a Dogecoin Sentiment-Driven Trading Signal CLI with Remix](https://dev.to/dbatson/build-a-dogecoin-sentiment-driven-trading-signal-cli-with-remix-2je2)
+- [VPN for Kaiber: Why AI Video Creators Need Protection](https://dev.to/dev-vpn/vpn-for-kaiber-why-ai-video-creators-need-protection-4h5g)
+- [How I Consolidate Photo Notes Into a Single PDF](https://dev.to/_7bdcbcaa99fbf1c9ea608c/how-i-consolidate-photo-notes-into-a-single-pdf-3fg7)
+- [Stop Shipping Fast. Build Slow, Mature Products](https://dev.to/doozieakshay/stop-shipping-fast-build-slow-mature-products-54ic)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
