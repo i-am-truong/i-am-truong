@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Real-Time AI-Powered Car Auction Platform &lpar;Xano + React vite&rpar;](https://dev.to/jervi/real-time-ai-powered-car-auction-platform-xano-react-vite-1m3o)
-- [Why a “Workflow Pack” for RAG + Eval?](https://dev.to/dowhatmatters/why-a-workflow-pack-for-rag-eval-4hd)
-- [# From 400 Alerts/Night to 8: The SRE Playbook That Saved My Team’s Sanity](https://dev.to/meena_nukala_1154d49b984d/-from-400-alertsnight-to-8-the-sre-playbook-that-saved-my-teams-sanity-36f1)
-- [122. Best Time to Buy and Sell Stock II | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/122-best-time-to-buy-and-sell-stock-ii-leetcode-top-interview-150-coding-questions-432)
-- [Documentation Should Not Be a Project](https://dev.to/hund/documentation-should-not-be-a-project-24g2)
+- [Designing High-Throughput Go Services for Continuous Database Change Streams](https://dev.to/sharmaprash/golang-optimizations-for-high-volume-services-dij)
+- [1757. Recyclable and Low Fat Products | LeetCode | SQL 50 | Interview Questions | MySQL](https://dev.to/debeshpg90/1757-recyclable-and-low-fat-products-leetcode-sql-50-interview-questions-mysql-53bm)
+- [Filikod : le plugin WP qui prend soin de vos images](https://dev.to/lyodefr/filikod-le-plugin-wp-qui-prend-soin-de-vos-images-4gdk)
+- [Import console created resources into CloudFormation](https://dev.to/aws-builders/import-console-created-resources-into-cloudformation-plj)
+- [Finally: GO channels explained](https://dev.to/ayushg/finally-go-channels-explained-40lf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
