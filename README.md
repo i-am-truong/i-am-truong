@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Pitfalls of Reading User Input in C: a Story About scanf and Stdin](https://dev.to/pomidoroshev/the-pitfalls-of-reading-user-input-in-c-a-story-about-scanf-and-stdin-2mj8)
-- [En el ámbito del combate al lavado de dinero &lpar;PLD&rpar; en México](https://dev.to/drcarlosruizviquez/en-el-ambito-del-combate-al-lavado-de-dinero-pld-en-mexico-3fee)
-- [Edge-to-Cloud Swarm Coordination for heritage language revitalization programs with embodied agent feedback loops](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-heritage-language-revitalization-programs-with-embodied-agent-517i)
-- [Career advice after computer science ? Fluent in c/c++ but not sure what to do next. Local jobs demand c# but I want to go for a masters and learn python. Any advice ?](https://dev.to/slime_slime_d57f140985b82/career-advice-after-computer-science-fluent-in-cc-but-not-sure-what-to-do-next-local-jobs-479l)
-- [Countdown to Glory: World Cup 2026 Predictions &amp; Analysis](https://dev.to/mabualzait/countdown-to-glory-world-cup-2026-predictions-analysis-c8j)
+- [💡 Two Lesser-Known Laravel Tricks: numerify &amp; invisible](https://dev.to/mmramadan496/two-lesser-known-laravel-tricks-numerify-invisible-pna)
+- [Untangling the Rails Monolith - quick look at the code](https://dev.to/rbglod/untangling-the-rails-monolith-quick-look-at-the-code-29e9)
+- [git](https://dev.to/query_filter_591122b53770/git-2enf)
+- [The Evolving Role of Cybersecurity in Product Leadership: Insights from Suzanne Alipourian Frascogna](https://dev.to/fruity_pebbles_9eb2518a6e/the-evolving-role-of-cybersecurity-in-product-leadership-insights-from-suzanne-alipourian-frascogna-4il8)
+- [Day 1 all over again](https://dev.to/abidemit/day-1-all-over-again-2pfc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
