@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Designing High-Throughput Go Services for Continuous Database Change Streams](https://dev.to/sharmaprash/golang-optimizations-for-high-volume-services-dij)
-- [1757. Recyclable and Low Fat Products | LeetCode | SQL 50 | Interview Questions | MySQL](https://dev.to/debeshpg90/1757-recyclable-and-low-fat-products-leetcode-sql-50-interview-questions-mysql-53bm)
-- [Filikod : le plugin WP qui prend soin de vos images](https://dev.to/lyodefr/filikod-le-plugin-wp-qui-prend-soin-de-vos-images-4gdk)
-- [Import console created resources into CloudFormation](https://dev.to/aws-builders/import-console-created-resources-into-cloudformation-plj)
-- [Finally: GO channels explained](https://dev.to/ayushg/finally-go-channels-explained-40lf)
+- [The Pitfalls of Reading User Input in C: a Story About scanf and Stdin](https://dev.to/pomidoroshev/the-pitfalls-of-reading-user-input-in-c-a-story-about-scanf-and-stdin-2mj8)
+- [En el ámbito del combate al lavado de dinero &lpar;PLD&rpar; en México](https://dev.to/drcarlosruizviquez/en-el-ambito-del-combate-al-lavado-de-dinero-pld-en-mexico-3fee)
+- [Edge-to-Cloud Swarm Coordination for heritage language revitalization programs with embodied agent feedback loops](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-heritage-language-revitalization-programs-with-embodied-agent-517i)
+- [Career advice after computer science ? Fluent in c/c++ but not sure what to do next. Local jobs demand c# but I want to go for a masters and learn python. Any advice ?](https://dev.to/slime_slime_d57f140985b82/career-advice-after-computer-science-fluent-in-cc-but-not-sure-what-to-do-next-local-jobs-479l)
+- [Countdown to Glory: World Cup 2026 Predictions &amp; Analysis](https://dev.to/mabualzait/countdown-to-glory-world-cup-2026-predictions-analysis-c8j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
