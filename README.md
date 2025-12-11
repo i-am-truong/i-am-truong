@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Umbraco 17 LTS: Features, Improvements &amp; What Developers Should Know](https://dev.to/addact_technologies_3322b/umbraco-17-lts-features-improvements-what-developers-should-know-234d)
-- [How to optimize your workflow with AI batch video generation](https://dev.to/hicutai/how-to-optimize-your-workflow-with-ai-batch-video-generation-2g91)
-- [Cómo Resolver Captchas ImageToText Usando una Extensión de Chrome](https://dev.to/dustin_base/como-resolver-captchas-imagetotext-usando-una-extension-de-chrome-i6n)
-- [Neue Trends im Arbeitsalltag: Tools zur Zeitmessung im Praxistest](https://dev.to/timespinwriterjames/neue-trends-im-arbeitsalltag-tools-zur-zeitmessung-im-praxistest-25la)
-- [AWS WAF CAPTCHA Solver: Soluciones Prácticas para Scrapers](https://dev.to/dustin_base/aws-waf-captcha-solver-soluciones-practicas-para-scrapers-309o)
+- [Tutorial LangGraph: De Cero a Multi-Agent System en 21 Días](https://dev.to/abdessamad_ammi_202ac2bad/tutorial-langgraph-de-cero-a-multi-agent-system-en-21-dias-4i0m)
+- [AI-Native QA: Transforming Quality Assurance with Intelligence-First Strategies](https://dev.to/vishalchincholi1/ai-native-qa-transforming-quality-assurance-with-intelligence-first-strategies-35ke)
+- [AI Comes to Chrome on iPhone &amp; iPad: A New Era of Mobile Browsing](https://dev.to/logicverse_2025/ai-comes-to-chrome-on-iphone-ipad-a-new-era-of-mobile-browsing-31hh)
+- [Getting Started with Mooncake: Installation, Execution &amp; Troubleshooting](https://dev.to/__82e06472cd325ef306e6/getting-started-with-mooncake-installation-execution-troubleshooting-1hh9)
+- [How to Use Bundles, Upsells, and Cross-Sells to Increase AOV in Ecommerce](https://dev.to/prateekshaweb/how-to-use-bundles-upsells-and-cross-sells-to-increase-aov-in-ecommerce-195d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
