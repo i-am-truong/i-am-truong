@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 1284 : Numb](https://dev.to/dwane/day-1284-numb-242e)
+- [You need tools, lots of tools](https://dev.to/spo0q/you-need-tools-lots-of-tools-24f6)
+- [RAG with MongoDB Vector Search PART 1](https://dev.to/dvorlandi/rag-with-mongodb-vector-search-part-1-297e)
 - [🛠️ &quot;I Updated EAS CLI, But I&#39;m Still Being Warned!&quot; The Secret Life of Your Terminal PATH](https://dev.to/cathylai/i-updated-eas-cli-but-im-still-being-warned-the-secret-life-of-your-terminal-path-44nf)
 - [Beyond Zapier: Architecting a Bulletproof CRM &amp; Marketing Automation Sync](https://dev.to/michaelaiglobal/beyond-zapier-architecting-a-bulletproof-crm-marketing-automation-sync-2bf4)
-- [2025-12-11 Daily Robotics News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-11-daily-robotics-news-5io)
-- [YouTube Shoppable Shorts: What Works Now &lpar;Not What Worked Last Quarter&rpar;](https://dev.to/synergistdigitalmedia/youtube-shoppable-shorts-what-works-now-not-what-worked-last-quarter-270p)
-- [GitHub Actions: From YAML Hell to Pipeline Heaven 🔧](https://dev.to/tavernetech/github-actions-from-yaml-hell-to-pipeline-heaven-4hcm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
