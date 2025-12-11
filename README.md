@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Upgrading Your Legacy Java 8 + Spring Boot 2.1 Project to Java 17 &lpar;Without Breaking Everything&rpar;](https://dev.to/haraf/upgrading-your-legacy-java-8-spring-boot-21-project-to-java-17-without-breaking-everything-n85)
-- [Connector Fixes, Core API Enhancements, and Ecosystem Updates: Apache SeaTunnel’s Progress in November](https://dev.to/seatunnel/connector-fixes-core-api-enhancements-and-ecosystem-updates-apache-seatunnels-progress-in-4o7b)
-- [Why your AI assistant lies to you &lpar;and how to fix it&rpar;](https://dev.to/sandeep_salwan/why-your-ai-assistant-lies-to-you-and-how-to-fix-it-322a)
-- [Why const Doesn’t Freeze Your JavaScript Arrays](https://dev.to/lubbaa/why-const-doesnt-freeze-your-javascript-arrays-3j93)
-- [Building Smarter Wearable App with WeatherKit and CalendarKit Integration](https://dev.to/harmonyos/building-smarter-wearable-app-with-weatherkit-and-calendarkit-integration-4bg2)
+- [Redox OS: Is the Future of Operating Systems Written in Rust?](https://dev.to/francescoxx/redox-os-is-the-future-of-operating-systems-written-in-rust-d2n)
+- [9 Strumenti e Tecnologie Che Stanno Potenziando Lo Sviluppo di Applicazioni Web3 nel 2025](https://dev.to/chickieabby/9-strumenti-e-tecnologie-che-stanno-potenziando-lo-sviluppo-di-applicazioni-web3-nel-2025-1nn)
+- [The Secret Life of JavaScript: Understanding Prototypes](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-understanding-prototypes-13cn)
+- [Kiro Did It! : How Kiro Helped Me Modernize My Portfolio Website!](https://dev.to/bhatiagirish/kiro-did-it-how-kiro-helped-me-modernize-my-portfolio-website-1oj9)
+- [When Simplicity Starves the Soul](https://dev.to/rawveg/when-simplicity-starves-the-soul-465c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
