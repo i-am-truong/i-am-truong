@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [certificate generator html and javascript](https://dev.to/preetha_vaishnavi_2b82358/certificate-generator-html-and-javascript-32n4)
-- [Bringing the Holiday Spirit Alive on Christmas with Fresh Flowers](https://dev.to/1magnolialane/bringing-the-holiday-spirit-alive-on-christmas-with-fresh-flowers-4n4d)
-- [FreeCodeCamp Tribute Page](https://dev.to/preetha_vaishnavi_2b82358/freecodecamp-tribute-page-4eke)
-- [Strengthening Digital Defenses: The Critical Role of Cloud Security](https://dev.to/khushi_jitani_ca127abdedd/strengthening-digital-defenses-the-critical-role-of-cloud-security-1i41)
-- [Py-Parkour](https://dev.to/zinzied/py-parkour-1f5a)
+- [Umbraco 17 LTS: Features, Improvements &amp; What Developers Should Know](https://dev.to/addact_technologies_3322b/umbraco-17-lts-features-improvements-what-developers-should-know-234d)
+- [How to optimize your workflow with AI batch video generation](https://dev.to/hicutai/how-to-optimize-your-workflow-with-ai-batch-video-generation-2g91)
+- [Cómo Resolver Captchas ImageToText Usando una Extensión de Chrome](https://dev.to/dustin_base/como-resolver-captchas-imagetotext-usando-una-extension-de-chrome-i6n)
+- [Neue Trends im Arbeitsalltag: Tools zur Zeitmessung im Praxistest](https://dev.to/timespinwriterjames/neue-trends-im-arbeitsalltag-tools-zur-zeitmessung-im-praxistest-25la)
+- [AWS WAF CAPTCHA Solver: Soluciones Prácticas para Scrapers](https://dev.to/dustin_base/aws-waf-captcha-solver-soluciones-practicas-para-scrapers-309o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
