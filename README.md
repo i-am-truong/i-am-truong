@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [video editing course](https://dev.to/soni_kumari_802e62836ec2a/video-editing-course-3115)
-- [AI Engineering: Advent of AI with goose Day 7](https://dev.to/eriperspective/ai-engineering-advent-of-ai-with-goose-day-7-4gho)
-- [How to Secure MCP Server?](https://dev.to/ndabene/how-to-secure-mcp-server-13ho)
-- [What is class , abstract class &amp; interface .](https://dev.to/rahulraj156/what-is-class-abstract-class-interface--50n3)
-- [Understanding Why X-Forwarded-For and Forwarded Headers Matter in Modern Web Architecture](https://dev.to/lightningdev123/understanding-why-x-forwarded-for-and-forwarded-headers-matter-in-modern-web-architecture-3p7d)
+- [Custom Email Notifications Using AWS SES and the BoldSign API](https://dev.to/boldsign/custom-email-notifications-using-aws-ses-and-the-boldsign-api-39jf)
+- [Navigating the Data Compliance Landscape: A Strategic Guide for Modern Organizations](https://dev.to/zopdev/navigating-the-data-compliance-landscape-a-strategic-guide-for-modern-organizations-4k2l)
+- [[Threat Thinker] Trying LLM-Based Threat Modeling](https://dev.to/melonattacker/threat-thinker-trying-llm-based-threat-modeling-17o3)
+- [React Performance Anti-Patterns: 5 Mistakes That Kill Your App&#39;s Speed!](https://dev.to/myogeshchavan97/react-performance-anti-patterns-5-mistakes-that-kill-your-apps-speed-76j)
+- [This New AI Agent Can Literally Use a Computer for You](https://dev.to/aiwithapex/this-new-ai-agent-can-literally-use-a-computer-for-you-141f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
