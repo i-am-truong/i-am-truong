@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to send email with Django: Complete SMTP guide](https://dev.to/davecodes/how-to-send-email-with-django-complete-smtp-guide-1f19)
+- [121. Best Time to Buy and Sell Stock | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/121-best-time-to-buy-and-sell-stock-leetcode-top-interview-150-coding-questions-16m3)
+- [sql11](https://dev.to/query_filter_591122b53770/sql11-4fpg)
 - [XML / HTML tables / Web scraping &lpar;static HTML&rpar;](https://dev.to/dipti_m_2e7ba36c478d1a48a/xml-html-tables-web-scraping-static-html-13ci)
 - [sql10](https://dev.to/query_filter_591122b53770/sql10-1gb8)
-- [Bifrost: The Fastest Open Source LLM Gateway](https://dev.to/kuldeep_paul/bifrost-the-fastest-open-source-llm-gateway-1k61)
-- [Day 12: UDF vs Pandas UDF](https://dev.to/sandeepk27/day-12-udf-vs-pandas-udf-2490)
-- [Top 5 LLM Gateways in 2025](https://dev.to/kuldeep_paul/top-5-llm-gateways-in-2025-586m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
