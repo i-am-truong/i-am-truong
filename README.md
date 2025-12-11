@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why AI Slows Debugging 20%](https://dev.to/brian_bonet-vox/why-ai-slows-debugging-20-4792)
+- [Firecracker Virtualization Overview](https://dev.to/aws-builders/firecracker-virtualization-overview-1hif)
+- [these new messages from people just joining the community, well rest assured this time its different.](https://dev.to/john_griffin_e3df9b2ac694/these-new-messages-from-people-just-joining-the-community-well-rest-assured-this-time-its-1oo4)
 - [I Got Obsessed With 2-Byte Deltas and Built a Delta Compressor That Actually Hits Them](https://dev.to/imgajeed76/i-got-obsessed-with-2-byte-deltas-and-built-a-delta-compressor-that-actually-hits-them-4332)
 - [Building an AI-Powered Code Editor: A Journey into Structured LLM Integration](https://dev.to/francesco_marconi_282058b/building-an-ai-powered-code-editor-a-journey-into-structured-llm-integration-3mga)
-- [LTSP on LXD: A Fun Dev Trip](https://dev.to/techieshark/ltsp-on-lxd-a-fun-dev-trip-5nj)
-- [💡 Two Lesser-Known Laravel Tricks: numerify &amp; invisible](https://dev.to/mmramadan496/two-lesser-known-laravel-tricks-numerify-invisible-pna)
-- [Untangling the Rails Monolith - quick look at the code](https://dev.to/rbglod/untangling-the-rails-monolith-quick-look-at-the-code-29e9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
