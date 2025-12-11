@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why AI Slows Debugging 20%](https://dev.to/brian_bonet-vox/why-ai-slows-debugging-20-4792)
-- [Firecracker Virtualization Overview](https://dev.to/aws-builders/firecracker-virtualization-overview-1hif)
-- [these new messages from people just joining the community, well rest assured this time its different.](https://dev.to/john_griffin_e3df9b2ac694/these-new-messages-from-people-just-joining-the-community-well-rest-assured-this-time-its-1oo4)
-- [I Got Obsessed With 2-Byte Deltas and Built a Delta Compressor That Actually Hits Them](https://dev.to/imgajeed76/i-got-obsessed-with-2-byte-deltas-and-built-a-delta-compressor-that-actually-hits-them-4332)
-- [Building an AI-Powered Code Editor: A Journey into Structured LLM Integration](https://dev.to/francesco_marconi_282058b/building-an-ai-powered-code-editor-a-journey-into-structured-llm-integration-3mga)
+- [🛠️ &quot;I Updated EAS CLI, But I&#39;m Still Being Warned!&quot; The Secret Life of Your Terminal PATH](https://dev.to/cathylai/i-updated-eas-cli-but-im-still-being-warned-the-secret-life-of-your-terminal-path-44nf)
+- [Beyond Zapier: Architecting a Bulletproof CRM &amp; Marketing Automation Sync](https://dev.to/michaelaiglobal/beyond-zapier-architecting-a-bulletproof-crm-marketing-automation-sync-2bf4)
+- [2025-12-11 Daily Robotics News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-11-daily-robotics-news-5io)
+- [YouTube Shoppable Shorts: What Works Now &lpar;Not What Worked Last Quarter&rpar;](https://dev.to/synergistdigitalmedia/youtube-shoppable-shorts-what-works-now-not-what-worked-last-quarter-270p)
+- [GitHub Actions: From YAML Hell to Pipeline Heaven 🔧](https://dev.to/tavernetech/github-actions-from-yaml-hell-to-pipeline-heaven-4hcm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
