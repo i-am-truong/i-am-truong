@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [DeFi 101: Decentralized Finance](https://dev.to/ribhavmodi/defi-101-decentralized-finance-3h3)
-- [📅 Day 12 | AWS IAM — The Backbone of AWS Security 🔐☁️](https://dev.to/sudarshan_yadav/day-12-aws-iam-the-backbone-of-aws-security-3ib6)
-- [🔒 Inside MemCloud’s Secure Peer Authentication: How Devices Safely Share RAM Over LAN](https://dev.to/vibhanshu_garg_01741359bc/inside-memclouds-secure-peer-authentication-how-devices-safely-share-ram-over-lan-f1a)
-- [The EU AI Act: What It Means for Your Code, Your Models, and Your Users](https://dev.to/ramya_vellanki_e93288ad2f/the-eu-ai-act-what-it-means-for-your-code-your-models-and-your-users-ilm)
-- [Your API is a Product, Not a Dumpster: Architecting Production-Grade REST APIs with AI](https://dev.to/huizhudev/your-api-is-a-product-not-a-dumpster-architecting-production-grade-rest-apis-with-ai-mfd)
+- [Como corrigir o erro de GPG do repositório do Cursor no Linux Mint](https://dev.to/brayanmonteiroo/como-corrigir-o-erro-de-gpg-do-repositorio-do-cursor-no-linux-mint-4m8h)
+- [How far have we come?](https://dev.to/xtina/how-far-have-we-come-1glo)
+- [Fusaka Goes Live, EIL vs OIF Debate, Rewardy Launches ERC-7702 Wallet, 7702 Unlocks Recovering Assets](https://dev.to/etherspot/fusaka-goes-live-eil-vs-oif-debate-rewardy-launches-erc-7702-wallet-7702-unlocks-recovering-4bd3)
+- [📅 Day 13 | AWS VPC — The Heart of AWS Networking 🌐](https://dev.to/sudarshan_yadav/day-13-aws-vpc-the-heart-of-aws-networking-2bjc)
+- [Escribe código Python modular y extensible con Hooks al estilo WordPress &lpar;Te presento wphooks&rpar;](https://dev.to/manuelcanga/escribe-codigo-python-modular-y-extensible-con-hooks-al-estilo-wordpress-te-presento-wphooks-3ffa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
