@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/vimal/-5c5d)
-- [Build a Dogecoin Sentiment-Driven Trading Signal CLI with Remix](https://dev.to/dbatson/build-a-dogecoin-sentiment-driven-trading-signal-cli-with-remix-2je2)
-- [VPN for Kaiber: Why AI Video Creators Need Protection](https://dev.to/dev-vpn/vpn-for-kaiber-why-ai-video-creators-need-protection-4h5g)
-- [How I Consolidate Photo Notes Into a Single PDF](https://dev.to/_7bdcbcaa99fbf1c9ea608c/how-i-consolidate-photo-notes-into-a-single-pdf-3fg7)
-- [Stop Shipping Fast. Build Slow, Mature Products](https://dev.to/doozieakshay/stop-shipping-fast-build-slow-mature-products-54ic)
+- [certificate generator html and javascript](https://dev.to/preetha_vaishnavi_2b82358/certificate-generator-html-and-javascript-32n4)
+- [Bringing the Holiday Spirit Alive on Christmas with Fresh Flowers](https://dev.to/1magnolialane/bringing-the-holiday-spirit-alive-on-christmas-with-fresh-flowers-4n4d)
+- [FreeCodeCamp Tribute Page](https://dev.to/preetha_vaishnavi_2b82358/freecodecamp-tribute-page-4eke)
+- [Strengthening Digital Defenses: The Critical Role of Cloud Security](https://dev.to/khushi_jitani_ca127abdedd/strengthening-digital-defenses-the-critical-role-of-cloud-security-1i41)
+- [Py-Parkour](https://dev.to/zinzied/py-parkour-1f5a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
