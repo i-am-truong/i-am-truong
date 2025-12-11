@@ -120,11 +120,12 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Entendiendo codeowners](https://dev.to/aleixriba/entendiendo-codeowners-3g99)
-- [How I built a Region-Aware Phone Number Generator in TypeScript](https://dev.to/limaodev/how-i-built-a-region-aware-phone-number-generator-in-typescript-k1p)
-- [My First Docker Project!](https://dev.to/suyash_gade_28f2c3c78e0a7/my-first-docker-project-518d)
-- [The Post-Migration Era: Optimizing Cloud ROI Through Autonomous Operations](https://dev.to/jyothsna_devi_a41eee1ca3f/the-post-migration-era-optimizing-cloud-roi-through-autonomous-operations-2igc)
-- [🚀 Terraform Day 4: Understanding State Files &amp; Remote Backends — The Heart of Terraform](https://dev.to/jeeva_5c84a254e90842940dd/terraform-day-4-understanding-state-files-remote-backends-the-heart-of-terraform-32il)
+- [Let me tell you about a Tuesday that changed everything.
+.I was three hours into what should have been a 30-minute bug fix. My terminal had 47 tabs open. I&#39;d restarted my local server six times.............. Read More](https://dev.to/thebitforge/let-me-tell-you-about-a-tuesday-that-changed-everything-i-was-three-hours-into-what-should-have-4385)
+- [How AI Is Transforming IVF Success Rates in 2025](https://dev.to/santanivf/how-ai-is-transforming-ivf-success-rates-in-2025-63)
+- [Demystifying Retrieval-Augmented Generation &lpar;RAG&rpar;](https://dev.to/ctrix/demystifying-retrieval-augmented-generation-rag-2bh6)
+- [My 5-Day Learning Journey with Google &amp; Kaggle’s AI Agents Intensive](https://dev.to/yudong_wan_deb09ed5a01b4d/my-5-day-learning-journey-with-google-kaggles-ai-agents-intensive-2p8f)
+- [How Tokenization Consulting Creates Scalable, Efficient, and Investor-Friendly Token Solutions](https://dev.to/suzie_iris_65ce8070067366/how-tokenization-consulting-creates-scalable-efficient-and-investor-friendly-token-solutions-4b1d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
