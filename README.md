@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [.slice&lpar;&rpar;、.reverse&lpar;&rpar;](https://dev.to/nikimunger/slice-reverse-3h2k)
-- [5 Database Query Optimization Tips That Actually Work](https://dev.to/mark_redding_fb1c365503df/5-database-query-optimization-tips-that-actually-work-16kh)
-- [Accelerating PHP Development with Cursor AI](https://dev.to/mark_redding_fb1c365503df/accelerating-php-development-with-cursor-ai-ln1)
-- [My Newsletter: Growth, Fun, Slow &amp; Steady](https://dev.to/nickytonline/my-newsletter-growth-fun-slow-steady-4kja)
-- [How to Merge Word Documents in C#](https://dev.to/yahey/how-to-merge-word-documents-in-c-28hj)
+- [🚀 Upgrading Your Legacy Java 8 + Spring Boot 2.1 Project to Java 17 &lpar;Without Breaking Everything&rpar;](https://dev.to/haraf/upgrading-your-legacy-java-8-spring-boot-21-project-to-java-17-without-breaking-everything-n85)
+- [Connector Fixes, Core API Enhancements, and Ecosystem Updates: Apache SeaTunnel’s Progress in November](https://dev.to/seatunnel/connector-fixes-core-api-enhancements-and-ecosystem-updates-apache-seatunnels-progress-in-4o7b)
+- [Why your AI assistant lies to you &lpar;and how to fix it&rpar;](https://dev.to/sandeep_salwan/why-your-ai-assistant-lies-to-you-and-how-to-fix-it-322a)
+- [Why const Doesn’t Freeze Your JavaScript Arrays](https://dev.to/lubbaa/why-const-doesnt-freeze-your-javascript-arrays-3j93)
+- [Building Smarter Wearable App with WeatherKit and CalendarKit Integration](https://dev.to/harmonyos/building-smarter-wearable-app-with-weatherkit-and-calendarkit-integration-4bg2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
