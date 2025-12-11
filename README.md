@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [**The Rise of Neuro-Symbolic Reinforcement Learning: A Game-](https://dev.to/drcarlosruizviquez/the-rise-of-neuro-symbolic-reinforcement-learning-a-game--353n)
+- [Why Flowise is the Missing Link in the LangChain Ecosystem](https://dev.to/onlineproxyio/why-flowise-is-the-missing-link-in-the-langchain-ecosystem-167a)
 - [Base LLMs vs Instruction-Tuned LLMs: Understanding the Architecture Behind ChatGPT and Claude](https://dev.to/samuel_ochaba_eb9c875fa89/base-llms-vs-instruction-tuned-llms-understanding-the-architecture-behind-chatgpt-and-claude-3dcf)
-- [**Breaking the Synchrony Barrier: Asynchronous Distributed T](https://dev.to/drcarlosruizviquez/breaking-the-synchrony-barrier-asynchronous-distributed-t-5eig)
 - [FAR SYNC Data Guard](https://dev.to/vahidusefzadeh/far-sync-data-guard-3h4e)
 - [Building a Modern OCR Text Scanner with Python: A Streamlit Success Story](https://dev.to/fabricecoder/building-a-modern-ocr-text-scanner-with-python-a-streamlit-success-story-30g2)
+- [Keeping Flow Steady in a Busy Treatment Plant](https://dev.to/harolddanner/keeping-flow-steady-in-a-busy-treatment-plant-32hl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
