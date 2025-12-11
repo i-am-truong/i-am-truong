@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Why X-Forwarded-For and Forwarded Headers Matter in Modern Web Architecture](https://dev.to/lightningdev123/understanding-why-x-forwarded-for-and-forwarded-headers-matter-in-modern-web-architecture-3p7d)
+- [Day 68 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-68-of-100-days-dsa-coding-challenge-hmh)
+- [Protecting Your Cloud Apps from AI-Driven Threats](https://dev.to/mabualzait/protecting-your-cloud-apps-from-ai-driven-threats-4b52)
+- [Instagram&#39;s AI Shopping Assistant: What E-commerce Brands Actually Need to Know](https://dev.to/synergistdigitalmedia/instagrams-ai-shopping-assistant-what-e-commerce-brands-actually-need-to-know-30l6)
 - [The Mystery of a Missing Greeting](https://dev.to/markmark/the-mystery-of-a-missing-greeting-3ebf)
-- [AWS re:Invent 2025 - TDK SensEI built scalable IoT platform with AWS for sensor insights &lpar;NTA204&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-tdk-sensei-built-scalable-iot-platform-with-aws-for-sensor-insights-nta204-2j04)
-- [AWS re:Invent 2025 - How Baker Hughes is Driving Energy Innovation with AWS AI &lpar;AIM347&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-how-baker-hughes-is-driving-energy-innovation-with-aws-ai-aim347-hn1)
-- [How I Automated My Workflow With GitHub Actions &lpar;A Setup Even Design Agencies Use&rpar;](https://dev.to/pixel_mosaic/how-i-automated-my-workflow-with-github-actions-a-setup-even-design-agencies-use-1i3l)
-- [AWS re:Invent 2025 - Developing AI Solutions: What Every Developer Should Know &lpar;TNC207&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-developing-ai-solutions-what-every-developer-should-know-tnc207-46ok)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
