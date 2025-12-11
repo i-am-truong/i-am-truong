@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Must read!](https://dev.to/the_duchess_of_hackers/must-read-3da0)
-- [Modern Identity Governance Strategies for Evolving IT Environments](https://dev.to/kapusto/modern-identity-governance-strategies-for-evolving-it-environments-253f)
-- [Luna API buit with Xano Backend](https://dev.to/kaichat/luna-api-buit-with-xano-backend-3keg)
-- [I Got Tired of Rewriting Payment Code, So I Built a Unified SDK for Africa](https://dev.to/idywilliams/i-got-tired-of-rewriting-payment-code-so-i-built-a-unified-sdk-for-africa-2e33)
-- [Quic-test: an open tool for testing QUIC, BBRv3, and FEC under real-world network conditions](https://dev.to/cloudbridge/quic-test-an-open-tool-for-testing-quic-bbrv3-and-fec-under-real-world-network-conditions-2791)
+- [ReactAllPlayer: One Player to Rule Them All &lpar;MP4, HLS, Dash, YouTube, Vimeo&rpar;](https://dev.to/asadk/reactallplayer-one-player-to-rule-them-all-mp4-hls-dash-youtube-vimeo-1hoc)
+- [Resume Canvas - Open Source Resume Builder](https://dev.to/kstmostofa/resume-canvas-open-source-resume-builder-3934)
+- [Access Cloudflare Runtime Env in Nested Functions with Astro SSR](https://dev.to/mrtoxas/access-cloudflare-runtime-env-in-nested-functions-with-astro-ssr-3mn5)
+- [Strengthening Enterprise Security Through Privileged Access Management](https://dev.to/kapusto/strengthening-enterprise-security-through-privileged-access-management-3can)
+- [Senior Project Interview Request.](https://dev.to/kaden_trude_4b577b3e2815d/senior-project-interview-request-620)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
