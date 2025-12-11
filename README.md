@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Boring Tools That Rank: 4 Weeks, 11 Tools, and a Plot Twist with ChatGPT](https://dev.to/eduard_albu/building-boring-tools-that-rank-4-weeks-11-tools-and-a-plot-twist-with-chatgpt-304)
-- [&lpar;Learn with 🖼️Meme images&rpar; How to create 🎨3D animation using 🧠AI &lpar;React Three Fiber vs Three.js vs A-Frame + GSAP&rpar;](https://dev.to/webdeveloperhyper/learn-with-meme-images-how-to-create-3d-animation-using-ai-react-three-fiber-vs-threejs-vs-kho)
-- [How to Automate the Collection of Localized Promotional Data from Major Retailers Like Best Buy and Walmart](https://dev.to/anna_6c67c00f5c3f53660978/how-to-automate-the-collection-of-localized-promotional-data-from-major-retailers-like-best-buy-and-4hoi)
-- [How AI Can Help Maintain Design Consistency in Low-Code Platforms](https://dev.to/arbisoftcompany/how-ai-can-help-maintain-design-consistency-in-low-code-platforms-3jgk)
-- [**7 Essential Monorepo Patterns That Transformed Our Chaotic Multi-Repository Nightmare into Controlled Development Workflow**](https://dev.to/nithinbharathwaj/7-essential-monorepo-patterns-that-transformed-our-chaotic-multi-repository-nightmare-into-93k)
+- [Build a LinkedIn Lead Enricher for your CRM with Node.js](https://dev.to/olams/build-a-linkedin-lead-enricher-for-your-crm-with-nodejs-33b4)
+- [🚀 How I Created an AI-Powered Secret Santa Using Cognee as the Memory Layer](https://dev.to/pravesh_sudha_3c2b0c2b5e0/how-i-created-an-ai-powered-secret-santa-using-cognee-as-the-memory-layer-2enl)
+- [I Built a Distributed AI Search Engine That Lets Websites &#39;Talk&#39; Directly to LLMs &lpar;No Indexing Required&rpar;](https://dev.to/oleg_yaruchyk/i-built-a-distributed-ai-search-engine-to-kill-seo-turn-your-website-into-an-agent-1me0)
+- [Building GuessAnswer.com: A Fast, Simple, and Addictive Web Trivia Game](https://dev.to/lynn123456/building-guessanswercom-a-fast-simple-and-addictive-web-trivia-game-5c41)
+- [Yearn yETH: How a Solver Flaw Caused a $9M Loss?](https://dev.to/quillaudits/yearn-yeth-how-a-solver-flaw-caused-a-9m-loss-4m9n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
