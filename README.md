@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I turned my personal Windows setup script into a public tool - and it’s now open source](https://dev.to/kaic/i-turned-my-personal-windows-setup-script-into-a-public-tool-and-its-now-open-source-3a1)
+- [Reactor e Proactor - Segredos do Event Loop do NodeJS](https://dev.to/urielsouza29/reactor-e-proactor-pattern-no-nodejs-segredo-do-event-loop-114b)
 - [ReactAllPlayer: One Player to Rule Them All &lpar;MP4, HLS, Dash, YouTube, Vimeo&rpar;](https://dev.to/asadk/reactallplayer-one-player-to-rule-them-all-mp4-hls-dash-youtube-vimeo-1hoc)
 - [Resume Canvas - Open Source Resume Builder](https://dev.to/kstmostofa/resume-canvas-open-source-resume-builder-3934)
 - [Access Cloudflare Runtime Env in Nested Functions with Astro SSR](https://dev.to/mrtoxas/access-cloudflare-runtime-env-in-nested-functions-with-astro-ssr-3mn5)
-- [Strengthening Enterprise Security Through Privileged Access Management](https://dev.to/kapusto/strengthening-enterprise-security-through-privileged-access-management-3can)
-- [Senior Project Interview Request.](https://dev.to/kaden_trude_4b577b3e2815d/senior-project-interview-request-620)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
