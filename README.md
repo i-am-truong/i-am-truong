@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Ethereum’s 2025 Endgame: 60M Gas Blocks, EIL Cross-L2 Architecture, ARBOS Unification &amp; On-Chain Fan Identity](https://dev.to/codebyankita/ethereums-2025-endgame-60m-gas-blocks-eil-cross-l2-architecture-arbos-unification-on-chain-3bfo)
-- [Raffi: a modern Stremio‑compatible streaming client I built at 16](https://dev.to/artemas/raffi-a-modern-stremio-compatible-streaming-client-i-built-at-16-223p)
-- [AWS re:Invent 2025 - Simplify permissions management across Amazon Redshift warehouses &lpar;ANT350&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-simplify-permissions-management-across-amazon-redshift-warehouses-ant350-1mll)
-- [Why I Migrated from MPA to SPA: App Router Refactoring in Practice](https://dev.to/pipipi-dev/why-i-migrated-from-mpa-to-spa-app-router-refactoring-in-practice-39nn)
-- [Redox OS: Is the Future of Operating Systems Written in Rust?](https://dev.to/francescoxx/redox-os-is-the-future-of-operating-systems-written-in-rust-d2n)
+- [The Mystery of a Missing Greeting](https://dev.to/markmark/the-mystery-of-a-missing-greeting-3ebf)
+- [AWS re:Invent 2025 - TDK SensEI built scalable IoT platform with AWS for sensor insights &lpar;NTA204&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-tdk-sensei-built-scalable-iot-platform-with-aws-for-sensor-insights-nta204-2j04)
+- [AWS re:Invent 2025 - How Baker Hughes is Driving Energy Innovation with AWS AI &lpar;AIM347&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-how-baker-hughes-is-driving-energy-innovation-with-aws-ai-aim347-hn1)
+- [How I Automated My Workflow With GitHub Actions &lpar;A Setup Even Design Agencies Use&rpar;](https://dev.to/pixel_mosaic/how-i-automated-my-workflow-with-github-actions-a-setup-even-design-agencies-use-1i3l)
+- [AWS re:Invent 2025 - Developing AI Solutions: What Every Developer Should Know &lpar;TNC207&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-developing-ai-solutions-what-every-developer-should-know-tnc207-46ok)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
