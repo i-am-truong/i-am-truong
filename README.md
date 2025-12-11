@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [video editing course](https://dev.to/soni_kumari_802e62836ec2a/video-editing-course-3115)
+- [AI Engineering: Advent of AI with goose Day 7](https://dev.to/eriperspective/ai-engineering-advent-of-ai-with-goose-day-7-4gho)
+- [How to Secure MCP Server?](https://dev.to/ndabene/how-to-secure-mcp-server-13ho)
+- [What is class , abstract class &amp; interface .](https://dev.to/rahulraj156/what-is-class-abstract-class-interface--50n3)
 - [Understanding Why X-Forwarded-For and Forwarded Headers Matter in Modern Web Architecture](https://dev.to/lightningdev123/understanding-why-x-forwarded-for-and-forwarded-headers-matter-in-modern-web-architecture-3p7d)
-- [Day 68 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-68-of-100-days-dsa-coding-challenge-hmh)
-- [Protecting Your Cloud Apps from AI-Driven Threats](https://dev.to/mabualzait/protecting-your-cloud-apps-from-ai-driven-threats-4b52)
-- [Instagram&#39;s AI Shopping Assistant: What E-commerce Brands Actually Need to Know](https://dev.to/synergistdigitalmedia/instagrams-ai-shopping-assistant-what-e-commerce-brands-actually-need-to-know-30l6)
-- [The Mystery of a Missing Greeting](https://dev.to/markmark/the-mystery-of-a-missing-greeting-3ebf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
