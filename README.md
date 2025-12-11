@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why 95% of AI Agent Projects Never Reach Production &lpar;And How We&#39;re Fixing It&rpar;](https://dev.to/swapnil_somal_8abcc39b315/why-95-of-ai-agent-projects-never-reach-production-and-how-were-fixing-it-3p44)
-- [How We Build AR Projects: Full Development Process Explained Step by Step](https://dev.to/zoolatech/how-we-build-ar-projects-full-development-process-explained-step-by-step-2ogm)
-- [Yoyo migrate vs Golang migrate](https://dev.to/kiryl_kazlavets/yoyo-migrate-vs-golang-migrate-ibp)
-- [Gadget Warranty Services: Ensuring Protection for Your Electronic Devices](https://dev.to/rapidcellphone/gadget-warranty-services-ensuring-protection-for-your-electronic-devices-3ic4)
-- [How I Cut My Debugging Time in Half as a Front-End Developer &lpar;A Practical Guide&rpar;](https://dev.to/sharmaprash/weekly-developer-trends-2025-12-11-55c6)
+- [DB Connection Pools: The Chefs Behind Your App’s Kitchen](https://dev.to/rijultp/db-connection-pools-the-chefs-behind-your-apps-kitchen-218l)
+- [How I Got Caller ID Working in Canada Using RingCentral, Twilio, and ElevenLabs](https://dev.to/colbygarland/using-ringcentral-twilio-and-elevenlabs-in-canada-to-get-caller-id-d89)
+- [DuckDB: how to fine tune parameters?](https://dev.to/sharmaprash/duckdb-how-to-fine-tune-parameters-39h8)
+- [OWASP Top Ten 2025 Quiz 2 Week 1](https://dev.to/fosres/owasp-top-ten-2025-quiz-2-week-1-34lc)
+- [The Unexpected Hard Parts of Building a Portfolio in Next.js 16](https://dev.to/itsugo/the-unexpected-hard-parts-of-building-a-portfolio-in-nextjs-16-12po)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
