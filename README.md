@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to send email with Django: Complete SMTP guide](https://dev.to/davecodes/how-to-send-email-with-django-complete-smtp-guide-1f19)
-- [121. Best Time to Buy and Sell Stock | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/121-best-time-to-buy-and-sell-stock-leetcode-top-interview-150-coding-questions-16m3)
-- [sql11](https://dev.to/query_filter_591122b53770/sql11-4fpg)
-- [XML / HTML tables / Web scraping &lpar;static HTML&rpar;](https://dev.to/dipti_m_2e7ba36c478d1a48a/xml-html-tables-web-scraping-static-html-13ci)
-- [sql10](https://dev.to/query_filter_591122b53770/sql10-1gb8)
+- [**The Rise of Neuro-Symbolic Reinforcement Learning: A Game-](https://dev.to/drcarlosruizviquez/the-rise-of-neuro-symbolic-reinforcement-learning-a-game--353n)
+- [Base LLMs vs Instruction-Tuned LLMs: Understanding the Architecture Behind ChatGPT and Claude](https://dev.to/samuel_ochaba_eb9c875fa89/base-llms-vs-instruction-tuned-llms-understanding-the-architecture-behind-chatgpt-and-claude-3dcf)
+- [**Breaking the Synchrony Barrier: Asynchronous Distributed T](https://dev.to/drcarlosruizviquez/breaking-the-synchrony-barrier-asynchronous-distributed-t-5eig)
+- [FAR SYNC Data Guard](https://dev.to/vahidusefzadeh/far-sync-data-guard-3h4e)
+- [Building a Modern OCR Text Scanner with Python: A Streamlit Success Story](https://dev.to/fabricecoder/building-a-modern-ocr-text-scanner-with-python-a-streamlit-success-story-30g2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
