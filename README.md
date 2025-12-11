@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Entendiendo codeowners](https://dev.to/aleixriba/entendiendo-codeowners-3g99)
+- [How I built a Region-Aware Phone Number Generator in TypeScript](https://dev.to/limaodev/how-i-built-a-region-aware-phone-number-generator-in-typescript-k1p)
 - [My First Docker Project!](https://dev.to/suyash_gade_28f2c3c78e0a7/my-first-docker-project-518d)
 - [The Post-Migration Era: Optimizing Cloud ROI Through Autonomous Operations](https://dev.to/jyothsna_devi_a41eee1ca3f/the-post-migration-era-optimizing-cloud-roi-through-autonomous-operations-2igc)
 - [🚀 Terraform Day 4: Understanding State Files &amp; Remote Backends — The Heart of Terraform](https://dev.to/jeeva_5c84a254e90842940dd/terraform-day-4-understanding-state-files-remote-backends-the-heart-of-terraform-32il)
-- [Event-Driven Architecture Part 1: Message Queues and Topics](https://dev.to/outdated-dev/event-driven-architecture-part-1-message-queues-and-topics-32pb)
-- [10 Ways to Improve App Performance Across Devices in 2026](https://dev.to/devin-rosario/10-ways-to-improve-app-performance-across-devices-in-2026-558j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
