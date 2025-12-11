@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Viewing AWS Used Resources and Costs for Finance Team: Guide to Exporting PDF Reports](https://dev.to/cloud_man/viewing-aws-used-resources-and-costs-for-finance-team-guide-to-exporting-pdf-reports-jca)
-- [Batch publishing Twitch chatroom messages - with AWS Lambda Durable Multi-Step Executions](https://dev.to/aws-builders/batch-publishing-twitch-chatroom-messages-with-aws-lambda-durable-multi-step-executions-2a30)
-- [ScrumBuddy Beta Is Live! Here’s the Real Story Behind It &lpar;For the Solopreneurs Who’ll Get It Most&rpar;](https://dev.to/guypowell/scrumbuddy-beta-is-live-heres-the-real-story-behind-it-for-the-solopreneurs-wholl-get-it-most-4b79)
-- [My PC melted while making this game...](https://dev.to/shaq_attack/my-pc-melted-while-making-this-game-4b71)
-- [My First game - Comms Under Fire](https://dev.to/shaq_attack/my-first-game-comms-under-fire-2co)
+- [Moving on from Terraform CDK](https://dev.to/encore/moving-on-from-terraform-cdk-5394)
+- [La guía definitiva de CODEOWNERS... y por qué no es suficiente para equipos de alto rendimiento](https://dev.to/aleixriba/codeowners-4jn3)
+- [Lessons in Testing, Performance, and Legacy Systems from /dev/mtl 2025](https://dev.to/gitguardian/lessons-in-testing-performance-and-legacy-systems-from-devmtl-2025-5dl2)
+- [You Probably Understood the Client Server Model Wrong](https://dev.to/jjackbauer/you-probably-understood-the-client-server-model-wrong-3ae1)
+- [I built a unified API toolkit so devs can stop rewriting the same utilities — looking for feedback](https://dev.to/marquismark/i-built-a-unified-api-toolkit-so-devs-can-stop-rewriting-the-same-utilities-looking-for-feedback-1fg0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
