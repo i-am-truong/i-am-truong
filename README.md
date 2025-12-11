@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [# Zero-Downtime Blue-Green Deployments at Scale: What I Learned Migrating 500+ Microservices](https://dev.to/meena_nukala_1154d49b984d/-zero-downtime-blue-green-deployments-at-scale-what-i-learned-migrating-500-microservices-57on)
-- [How to Convert a Bank Statement to Excel &lpar;3 Simple Methods&rpar;](https://dev.to/kleanlykayleigh/how-to-convert-a-bank-statement-to-excel-3-simple-methods-4dbg)
-- [Beautiful Error Handling with Tanstack Query and Axios &lpar;The best combo??&rpar;](https://dev.to/emann/beautiful-error-handling-with-tanstack-query-and-axios-the-best-combo-1ai5)
-- [Why Flowise is the Missing Link in the LangChain Ecosystem](https://dev.to/onlineproxyio/why-flowise-is-the-missing-link-in-the-langchain-ecosystem-167a)
-- [Did you know that AI-assisted color correction in film proce](https://dev.to/drcarlosruizviquez/did-you-know-that-ai-assisted-color-correction-in-film-proce-155o)
+- [Real-Time AI-Powered Car Auction Platform &lpar;Xano + React vite&rpar;](https://dev.to/jervi/real-time-ai-powered-car-auction-platform-xano-react-vite-1m3o)
+- [Why a “Workflow Pack” for RAG + Eval?](https://dev.to/dowhatmatters/why-a-workflow-pack-for-rag-eval-4hd)
+- [# From 400 Alerts/Night to 8: The SRE Playbook That Saved My Team’s Sanity](https://dev.to/meena_nukala_1154d49b984d/-from-400-alertsnight-to-8-the-sre-playbook-that-saved-my-teams-sanity-36f1)
+- [122. Best Time to Buy and Sell Stock II | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/122-best-time-to-buy-and-sell-stock-ii-leetcode-top-interview-150-coding-questions-432)
+- [Documentation Should Not Be a Project](https://dev.to/hund/documentation-should-not-be-a-project-24g2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
