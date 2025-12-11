@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Angular - Standalone Component](https://dev.to/milan_karajovic_45443e6d6/angular-standalone-component-1lmh)
-- [Experimental Hono auth npm package](https://dev.to/zara_qureshi_fdca3ade9d57/experimental-hono-auth-npm-package-432c)
-- [AWS IAM: Policies, Permission Boundaries, and Advanced Access Controls &lpar;Part 2&rpar;](https://dev.to/jeyy/aws-iam-policies-permission-boundaries-and-advanced-access-controls-part-2-47h4)
-- [“From JEE Prep to AI Pioneer: My Copilot-Powered Academy”](https://dev.to/sujith_p_d673ee9f3248eaf5/from-jee-prep-to-ai-pioneer-my-copilot-powered-academy-33be)
-- [Lab Notes: What I Learned Dropping Imdone’s Price for a Week](https://dev.to/imdone/lab-notes-what-i-learned-dropping-imdones-price-for-a-week-543l)
+- [Building MyTaskly: 11 Months of Developing an AI App at 16](https://dev.to/gabry848/building-mytaskly-11-months-of-developing-an-ai-app-at-16-38n6)
+- [How computers actually see time?](https://dev.to/rasheem/how-computers-actually-see-time-58p8)
+- [The Prompting Trick That Fixed My AI Image Generation](https://dev.to/nadinev/the-prompting-trick-that-fixed-my-ai-image-generation-3ge4)
+- [I built an open-source directory website template with Nuxt 4 🚀](https://dev.to/bing_pu_53451a26d911e5d2c/i-built-an-open-source-directory-website-template-with-nuxt-4-2eih)
+- [API Security : Understand in 3 Minutes](https://dev.to/hongster85/api-security-understand-in-3-minutes-3pjg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
