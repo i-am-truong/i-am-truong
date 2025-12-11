@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building an AI-Powered Code Editor: A Journey into Structured LLM Integration](https://dev.to/francesco_marconi_282058b/building-an-ai-powered-code-editor-a-journey-into-structured-llm-integration-3mga)
+- [LTSP on LXD: A Fun Dev Trip](https://dev.to/techieshark/ltsp-on-lxd-a-fun-dev-trip-5nj)
 - [💡 Two Lesser-Known Laravel Tricks: numerify &amp; invisible](https://dev.to/mmramadan496/two-lesser-known-laravel-tricks-numerify-invisible-pna)
 - [Untangling the Rails Monolith - quick look at the code](https://dev.to/rbglod/untangling-the-rails-monolith-quick-look-at-the-code-29e9)
 - [git](https://dev.to/query_filter_591122b53770/git-2enf)
-- [The Evolving Role of Cybersecurity in Product Leadership: Insights from Suzanne Alipourian Frascogna](https://dev.to/fruity_pebbles_9eb2518a6e/the-evolving-role-of-cybersecurity-in-product-leadership-insights-from-suzanne-alipourian-frascogna-4il8)
-- [Day 1 all over again](https://dev.to/abidemit/day-1-all-over-again-2pfc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
