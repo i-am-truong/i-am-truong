@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [# Zero-Downtime Blue-Green Deployments at Scale: What I Learned Migrating 500+ Microservices](https://dev.to/meena_nukala_1154d49b984d/-zero-downtime-blue-green-deployments-at-scale-what-i-learned-migrating-500-microservices-57on)
+- [How to Convert a Bank Statement to Excel &lpar;3 Simple Methods&rpar;](https://dev.to/kleanlykayleigh/how-to-convert-a-bank-statement-to-excel-3-simple-methods-4dbg)
+- [Beautiful Error Handling with Tanstack Query and Axios &lpar;The best combo??&rpar;](https://dev.to/emann/beautiful-error-handling-with-tanstack-query-and-axios-the-best-combo-1ai5)
 - [Why Flowise is the Missing Link in the LangChain Ecosystem](https://dev.to/onlineproxyio/why-flowise-is-the-missing-link-in-the-langchain-ecosystem-167a)
-- [Base LLMs vs Instruction-Tuned LLMs: Understanding the Architecture Behind ChatGPT and Claude](https://dev.to/samuel_ochaba_eb9c875fa89/base-llms-vs-instruction-tuned-llms-understanding-the-architecture-behind-chatgpt-and-claude-3dcf)
-- [FAR SYNC Data Guard](https://dev.to/vahidusefzadeh/far-sync-data-guard-3h4e)
-- [Building a Modern OCR Text Scanner with Python: A Streamlit Success Story](https://dev.to/fabricecoder/building-a-modern-ocr-text-scanner-with-python-a-streamlit-success-story-30g2)
-- [Keeping Flow Steady in a Busy Treatment Plant](https://dev.to/harolddanner/keeping-flow-steady-in-a-busy-treatment-plant-32hl)
+- [Did you know that AI-assisted color correction in film proce](https://dev.to/drcarlosruizviquez/did-you-know-that-ai-assisted-color-correction-in-film-proce-155o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
