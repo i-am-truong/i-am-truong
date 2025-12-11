@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Build a LinkedIn Lead Enricher for your CRM with Node.js](https://dev.to/olams/build-a-linkedin-lead-enricher-for-your-crm-with-nodejs-33b4)
-- [🚀 How I Created an AI-Powered Secret Santa Using Cognee as the Memory Layer](https://dev.to/pravesh_sudha_3c2b0c2b5e0/how-i-created-an-ai-powered-secret-santa-using-cognee-as-the-memory-layer-2enl)
-- [I Built a Distributed AI Search Engine That Lets Websites &#39;Talk&#39; Directly to LLMs &lpar;No Indexing Required&rpar;](https://dev.to/oleg_yaruchyk/i-built-a-distributed-ai-search-engine-to-kill-seo-turn-your-website-into-an-agent-1me0)
-- [Building GuessAnswer.com: A Fast, Simple, and Addictive Web Trivia Game](https://dev.to/lynn123456/building-guessanswercom-a-fast-simple-and-addictive-web-trivia-game-5c41)
-- [Yearn yETH: How a Solver Flaw Caused a $9M Loss?](https://dev.to/quillaudits/yearn-yeth-how-a-solver-flaw-caused-a-9m-loss-4m9n)
+- [DeepChat: Desktop AI Companion for Deep Work](https://dev.to/stelixx-insider/deepchat-desktop-ai-companion-for-deep-work-1866)
+- [How I Mastered Chaos &lpar;Testing&rpar;: My LFX Journey with CloudNativePG](https://dev.to/xploy04/how-i-mastered-chaos-testing-my-lfx-journey-with-cloudnativepg-1ecj)
+- [How I Added Glossary Tooltip Hover to Kgateway Docs &lpar;Using Hugo Shortcodes&rpar;](https://dev.to/uzukwu_michael_91a95b823b/how-i-added-glossary-tooltip-hover-to-kgateway-docs-using-hugo-shortcodes-1e6o)
+- [What are the top benefits of completing a smart contract audit before a token launch?](https://dev.to/zara_fernandes_b02180aa0b/what-are-the-top-benefits-of-completing-a-smart-contract-audit-before-a-token-launch-2cf2)
+- [Building Proof Pocket: An Offline Encrypted Vault for Your Photos and Documents](https://dev.to/fenrirx22/building-proof-pocket-an-offline-encrypted-vault-for-your-photos-and-documents-1apc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
