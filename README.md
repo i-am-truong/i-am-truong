@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 11 — Authenticity of AI-Generated Content &lpar;The Cowgirl&rpar;](https://dev.to/aerabi/day-11-authenticity-of-ai-generated-content-the-cowgirl-3i3d)
-- [Why AWS Delegated Administrators Are Essential for AWS Multi-Account Architectures](https://dev.to/aws-builders/why-aws-delegated-administrators-are-essential-for-aws-multi-account-architectures-2k0n)
-- [Day 6: Rebuilding Plans](https://dev.to/blink_c5eb0afe3975/day-6-rebuilding-plans-2in6)
-- [DEV Track Spotlight: Building Production Agent Swarms - Mastering Industrial AI &lpar;DEV311&rpar;](https://dev.to/aws/dev-track-spotlight-building-production-agent-swarms-mastering-industrial-ai-dev311-41b0)
-- [Day 6: Rebuilding Plans and Core Revelations](https://dev.to/casperday11/day-6-rebuilding-plans-and-core-revelations-1b5j)
+- [AI Image Generator 2025 — Create High-Quality Images from Text Instantly | Createimg.ai](https://dev.to/oliver_bennett_08f48dbd91/ai-image-generator-2025-create-high-quality-images-from-text-instantly-createimgai-39d4)
+- [Post-Holiday Email Segmentation: What to Do With All Those December Buyers](https://dev.to/synergistdigitalmedia/post-holiday-email-segmentation-what-to-do-with-all-those-december-buyers-566)
+- [Why Modern Dubai Parents Are Choosing The VH Nursery: A Fresh Take on Early Childhood &lpar;Without the Stress&rpar;](https://dev.to/victory_heightsnursery_e/why-modern-dubai-parents-are-choosing-the-vh-nursery-a-fresh-take-on-early-childhood-without-the-41a2)
+- [How to handle large file uploads](https://dev.to/uploadcare_org/how-to-handle-large-file-uploads-bna)
+- [Tsonnet #28 - Debugging gets pretty &lpar;printed&rpar;](https://dev.to/bitmaybewise/tsonnet-28-debugging-gets-pretty-printed-cbf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
