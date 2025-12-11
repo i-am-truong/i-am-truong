@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building an AI-Powered Alt Text Generator with Angular, Firebase AI Logic, and Gemini 3](https://dev.to/railsstudent/building-an-ai-powered-alt-text-generator-with-angular-firebase-ai-logic-and-gemini-3-b8k)
+- [AWS Bedrock with LangChain](https://dev.to/nash9/aws-bedrock-with-langchain-4lbe)
+- [The Mechanics of Turning Raw Transaction Data Into Behavioral Signals](https://dev.to/jamespatterson25/the-mechanics-of-turning-raw-transaction-data-into-behavioral-signals-3ek)
+- [Building a Production-Ready Microservices Platform with CI/CD on AWS Free Tier](https://dev.to/cypher682/building-a-production-ready-microservices-platform-with-cicd-on-aws-free-tier-2la0)
 - [Ace Online Assessments Without Burning Out &lpar;Using AI&rpar;](https://dev.to/alex_hunter_44f4c9ed6671e/ace-online-assessments-without-burning-out-using-ai-2h3f)
-- [How I built a TikTok Shadowban Checker, &amp; more, using AI](https://dev.to/grumpygit/how-i-built-a-tiktok-shadowban-checker-more-using-ai-hio)
-- [Companies Demand Elite Engineers, Yet Their Websites Load Like a Dying Dial-Up Modem](https://dev.to/mjlynch123/companies-demand-elite-engineers-yet-their-websites-load-like-a-dying-dial-up-modem-2nij)
-- [Should Beginners Buy LeetCode Premium? Probably Not Yet](https://dev.to/alex_hunter_44f4c9ed6671e/should-beginners-buy-leetcode-premium-probably-not-yet-4707)
-- [Fuck LeetCode? Here&#39;s Why It Feels Impossible — and How to Stay Sane Anyway](https://dev.to/alex_hunter_44f4c9ed6671e/fuck-leetcode-heres-why-it-feels-impossible-and-how-to-stay-sane-anyway-2ln9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
