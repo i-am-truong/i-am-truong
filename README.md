@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building MyTaskly: 11 Months of Developing an AI App at 16](https://dev.to/gabry848/building-mytaskly-11-months-of-developing-an-ai-app-at-16-38n6)
-- [How computers actually see time?](https://dev.to/rasheem/how-computers-actually-see-time-58p8)
-- [The Prompting Trick That Fixed My AI Image Generation](https://dev.to/nadinev/the-prompting-trick-that-fixed-my-ai-image-generation-3ge4)
-- [I built an open-source directory website template with Nuxt 4 🚀](https://dev.to/bing_pu_53451a26d911e5d2c/i-built-an-open-source-directory-website-template-with-nuxt-4-2eih)
-- [API Security : Understand in 3 Minutes](https://dev.to/hongster85/api-security-understand-in-3-minutes-3pjg)
+- [Ace Online Assessments Without Burning Out &lpar;Using AI&rpar;](https://dev.to/alex_hunter_44f4c9ed6671e/ace-online-assessments-without-burning-out-using-ai-2h3f)
+- [How I built a TikTok Shadowban Checker, &amp; more, using AI](https://dev.to/grumpygit/how-i-built-a-tiktok-shadowban-checker-more-using-ai-hio)
+- [Companies Demand Elite Engineers, Yet Their Websites Load Like a Dying Dial-Up Modem](https://dev.to/mjlynch123/companies-demand-elite-engineers-yet-their-websites-load-like-a-dying-dial-up-modem-2nij)
+- [Should Beginners Buy LeetCode Premium? Probably Not Yet](https://dev.to/alex_hunter_44f4c9ed6671e/should-beginners-buy-leetcode-premium-probably-not-yet-4707)
+- [Fuck LeetCode? Here&#39;s Why It Feels Impossible — and How to Stay Sane Anyway](https://dev.to/alex_hunter_44f4c9ed6671e/fuck-leetcode-heres-why-it-feels-impossible-and-how-to-stay-sane-anyway-2ln9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
