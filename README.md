@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Custom Email Notifications Using AWS SES and the BoldSign API](https://dev.to/boldsign/custom-email-notifications-using-aws-ses-and-the-boldsign-api-39jf)
-- [Navigating the Data Compliance Landscape: A Strategic Guide for Modern Organizations](https://dev.to/zopdev/navigating-the-data-compliance-landscape-a-strategic-guide-for-modern-organizations-4k2l)
-- [[Threat Thinker] Trying LLM-Based Threat Modeling](https://dev.to/melonattacker/threat-thinker-trying-llm-based-threat-modeling-17o3)
-- [React Performance Anti-Patterns: 5 Mistakes That Kill Your App&#39;s Speed!](https://dev.to/myogeshchavan97/react-performance-anti-patterns-5-mistakes-that-kill-your-apps-speed-76j)
-- [This New AI Agent Can Literally Use a Computer for You](https://dev.to/aiwithapex/this-new-ai-agent-can-literally-use-a-computer-for-you-141f)
+- [Carific.ai: From AI Slop to Actionable Feedback - Structured Output with Zod and the AI SDK](https://dev.to/abdullahjan/carificai-from-ai-slop-to-actionable-feedback-structured-output-with-zod-and-the-ai-sdk-5d7o)
+- [🌩️From Cyber Cafés to Cloud Computing](https://dev.to/itsmeananyasrivastava/from-cyber-cafes-to-cloud-computing-1ceg)
+- [2026 Front End Roadmap: 100% Free Resources to Get Hired](https://dev.to/codersnote/2026-front-end-roadmap-100-free-resources-to-get-hired-768)
+- [How git clone Really Works: A Deep Dive into Git’s Object Database](https://dev.to/zopdev/how-git-clone-really-works-a-deep-dive-into-gits-object-database-24j7)
+- [Global Server Load Balancing &lpar;GSLB&rpar;: Modern Application Delivery-এর Global Backbone](https://dev.to/abusayem/global-server-load-balancing-gslb-modern-application-delivery-er-global-backbone-10l9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
