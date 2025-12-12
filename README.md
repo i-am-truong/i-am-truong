@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Vibe Coding Paradox](https://dev.to/junothreadborne/the-vibe-coding-paradox-i31)
-- [Building a Sub-Millisecond Vector Database in Rust/WASM](https://dev.to/matteo_panzeri_2c5930e196/building-a-sub-millisecond-vector-database-in-rustwasm-4h3l)
-- [Printable Flashcard Generator](https://dev.to/kougen/printable-flashcard-generator-3df2)
-- [Cursor + MCP&#39;s | Docker | Strapi v5 | Next JS | Render](https://dev.to/tijmen_de_jong/cursor-mcps-docker-strapi-next-js-45g1)
-- [The Environment Includes Soft, Hard, and Body](https://dev.to/stakiran/the-environment-includes-soft-hard-and-body-50kd)
+- [2025-12-12 Daily Robotics News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-12-daily-robotics-news-50o5)
+- [Zero-Click SEO: How to Make Money When Google Hoards Your Traffic](https://dev.to/synergistdigitalmedia/zero-click-seo-how-to-make-money-when-google-hoards-your-traffic-2a9c)
+- [No, MongoDB Does Not Mean Skipping Design](https://dev.to/franckpachot/no-mongodb-does-not-mean-skipping-design-2n6b)
+- [Create Your First MCP App](https://dev.to/bd_perez/create-your-first-mcp-app-2c65)
+- [From Algorithms to Agents: How My Research in Clustering Shapes My Automation Logic](https://dev.to/godhirajcode/from-algorithms-to-agents-how-my-research-in-clustering-shapes-my-automation-logic-5hja)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
