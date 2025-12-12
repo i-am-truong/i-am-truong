@@ -120,6 +120,10 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Quickly Inspect &amp; Decode JWTs in Postman &lpar;The Right Way&rpar;](https://dev.to/mahjadan/how-to-decode-jwt-in-postman-h8n)
+- [Tema-1 AWS Regions y Availability Zones: Guía Completa y Simple](https://dev.to/ecordero/tema-1-aws-regions-y-availability-zones-guia-completa-y-simple-21mh)
+- [Planejamento de TI 2026: 3 Dicas de Ouro para PMEs](https://dev.to/alexhinckel/planejamento-de-ti-2026-3-dicas-de-ouro-para-pmes-3g78)
+- [RAG is more than Vector Search](https://dev.to/neuml/rag-is-more-than-vector-search-41b0)
 - [Founders, what are you building this week?
 
 I&#39;m working on a platform for makers like us. Launch your startup for $0 and build in public with us.
@@ -127,10 +131,6 @@ I&#39;m working on a platform for makers like us. Launch your startup for $0 and
 Submit your startup today: https://pavelaunch.com
 
 #solopreneur #buildinpublic #saas](https://dev.to/thecodeinfluencer/founders-what-are-you-building-this-week-im-working-on-a-platform-for-makers-like-us-launch-39le)
-- [Запобігаємо Шахрайству з Go: Будуємо Потужну Anti-Fraud Систему](https://dev.to/4mars/zapobighaiemo-shakhraistvu-z-go-buduiemo-potuzhnu-anti-fraud-sistiemu-3lgo)
-- [Shipping Meaningful Open Source Work](https://dev.to/aubreyddd/shipping-meaningful-open-source-work-3p3o)
-- [Tired of Vue toast libraries, so I built my own &lpar;headless, Vue 3, TS-first&rpar;](https://dev.to/adrianjanocko/tired-of-vue-toast-libraries-so-i-built-my-own-headless-vue-3-ts-first-1h8h)
-- [AI is either the biggest bubble in history or the biggest opportunity. And honestly? Both might be true.](https://dev.to/whykislay/ai-is-either-the-biggest-bubble-in-history-or-the-biggest-opportunity-and-honestly-both-might-be-3g17)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
