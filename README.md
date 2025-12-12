@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Aufruf an die Hobbyprogrammierer-Community: Machen Sie alte PHP5-Projekte fit für die Zukunft!](https://dev.to/phppower/aufruf-an-die-hobbyprogrammierer-community-machen-sie-alte-php5-projekte-fit-fur-die-zukunft-l7n)
-- [VS Code November 2025 &lpar;version 1.107&rpar; Release Notes](https://dev.to/hamidrazadev/vs-code-november-2025-version-1107-release-notes-50pd)
-- [Optimizing Real-Time Location Tracking: A System-Wide Approach](https://dev.to/fathma/optimizing-real-time-location-tracking-a-system-wide-approach-2oa2)
-- [The Day the Internet Blinked: Why Google Gemini Stood Tall During the Great Cloudflare Outage of 2025](https://dev.to/tech_croc_f32fbb6ea8ed4/the-day-the-internet-blinked-why-google-gemini-stood-tall-during-the-great-cloudflare-outage-of-23lc)
-- [Why Your UI Looks “Off” &lpar;And How to Fix It&rpar;](https://dev.to/pritish_academy/why-your-ui-looks-off-and-how-to-fix-it-1o6l)
+- [A Game-Changer in AI Sustainability: The Emergence of &#39;Green](https://dev.to/drcarlosruizviquez/a-game-changer-in-ai-sustainability-the-emergence-of-green-1hnh)
+- [My Transformative Journey Through the AI Agents Intensive Course](https://dev.to/mvijay799767/my-transformative-journey-through-the-ai-agents-intensive-course-37h9)
+- [Why Design Patterns?](https://dev.to/abiel_tiezazu/why-design-patterns-cf3)
+- [**Fair Comparison of Two Federated Learning Approaches: FedA](https://dev.to/drcarlosruizviquez/fair-comparison-of-two-federated-learning-approaches-feda-3mbg)
+- [Build quickly with npm create @mapbox/web-app](https://dev.to/mapbox/build-quickly-with-npm-create-mapboxweb-app-d98)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
