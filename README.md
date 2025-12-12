@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [NFTs Explained Simply – What’s Actually Happening in 2025?](https://dev.to/ribhavmodi/nfts-explained-simply-whats-actually-happening-in-2025-k8c)
-- [ISO 4217 Currency Reference for .NET — Strongly Typed and Production-Ready](https://dev.to/hawkn113/iso-4217-currency-reference-for-net-strongly-typed-and-production-ready-ck5)
-- [The Science of Hawk Eyes: Anatomy, Color Spectrum &amp; UV Sight](https://dev.to/birdiegeeks/the-science-of-hawk-eyes-anatomy-color-spectrum-uv-sight-1l22)
-- [Go From Zero to Depth — Part 3: Stack vs Heap &amp; How Escape Analysis Actually Works](https://dev.to/devflex-pro/go-from-zero-to-depth-part-3-stack-vs-heap-how-escape-analysis-actually-works-48dc)
-- [AI Insights: Where Do They Come From, Why They Exist, and Why They Matter at Enterprise Scale](https://dev.to/monahidalgo/ai-insights-where-do-they-come-from-why-they-exist-and-why-they-matter-at-enterprise-scale-bhp)
+- [Understanding Salesforce Data 360 Objects: The Core of the Unified Customer Profile](https://dev.to/sunil_1303/understanding-salesforce-data-360-objects-the-core-of-the-unified-customer-profile-3pbl)
+- [Brutal Efficiency: A Tech Breakdown of My Portfolio](https://dev.to/highcenburg/brutal-efficiency-a-tech-breakdown-of-my-portfolio-1o2d)
+- [Fine-tuning For Domain-Customized Retriever Noise Mitigation in RAG Pipelines](https://dev.to/padmanabha_venkatagiri_09/fine-tuning-for-domain-customized-retriever-noise-mitigation-in-rag-pipelines-4l0d)
+- [Building a standard library HTTP Client in C, C++, Rust and Python idiomatically: The Rosetta Stone for Systems Programming](https://dev.to/warren_jitsing_dd1c1d6fc6/building-a-standard-library-http-client-in-c-c-rust-and-python-idiomatically-the-rosetta-stone-5dnc)
+- [AI search is rewriting how online visibility works, and most brands aren’t ready for what’s coming.](https://dev.to/fyjix_d08633eb48a0dde03d7/ai-search-is-rewriting-how-online-visibility-works-and-most-brands-arent-ready-for-whats-coming-1d1c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
