@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Releasing DotScramble v2.0: Windows Installation &amp; Bypassing SmartScreen](https://dev.to/freerave/releasing-dotscramble-v20-windows-installation-bypassing-smartscreen-123f)
+- [Why I am Writing &quot;11 Controls for Zero Trust architecture in multi-agent AI-to-AI Systems&quot;](https://dev.to/helios_techcomm_552ce9239/why-i-am-writing-11-controls-for-zero-trust-architecture-in-multi-agent-ai-to-ai-systems-124)
 - [SwiftUI Data Flow &amp; Unidirectional Architecture](https://dev.to/sebastienlato/swiftui-data-flow-unidirectional-architecture-17ch)
 - [2025-12-12 Daily Robotics News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-12-daily-robotics-news-50o5)
 - [Zero-Click SEO: How to Make Money When Google Hoards Your Traffic](https://dev.to/synergistdigitalmedia/zero-click-seo-how-to-make-money-when-google-hoards-your-traffic-2a9c)
-- [No, MongoDB Does Not Mean Skipping Design](https://dev.to/franckpachot/no-mongodb-does-not-mean-skipping-design-2n6b)
-- [Create Your First MCP App](https://dev.to/bd_perez/create-your-first-mcp-app-2c65)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
