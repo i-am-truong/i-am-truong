@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SwiftUI Data Flow &amp; Unidirectional Architecture](https://dev.to/sebastienlato/swiftui-data-flow-unidirectional-architecture-17ch)
 - [2025-12-12 Daily Robotics News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-12-daily-robotics-news-50o5)
 - [Zero-Click SEO: How to Make Money When Google Hoards Your Traffic](https://dev.to/synergistdigitalmedia/zero-click-seo-how-to-make-money-when-google-hoards-your-traffic-2a9c)
 - [No, MongoDB Does Not Mean Skipping Design](https://dev.to/franckpachot/no-mongodb-does-not-mean-skipping-design-2n6b)
 - [Create Your First MCP App](https://dev.to/bd_perez/create-your-first-mcp-app-2c65)
-- [From Algorithms to Agents: How My Research in Clustering Shapes My Automation Logic](https://dev.to/godhirajcode/from-algorithms-to-agents-how-my-research-in-clustering-shapes-my-automation-logic-5hja)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
