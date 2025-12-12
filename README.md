@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Meta&#39;s 2026 Ad Targeting Overhaul: The Performance Marketer&#39;s Survival Guide](https://dev.to/synergistdigitalmedia/metas-2026-ad-targeting-overhaul-the-performance-marketers-survival-guide-4cei)
+- [🚀Getting Started With Google Cloud Build](https://dev.to/latchudevops/getting-started-with-google-cloud-build-24o0)
+- [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-j2p)
+- [Laravel, Symfony, Doppar in 2026 — Which PHP Framework Should You Pick](https://dev.to/mahedi1501/laravel-symfony-doppar-in-2026-which-php-framework-should-you-pick-26f8)
 - [Why I’m Learning Web3: A 60-Day Journey from Beginner to DevRel/Community](https://dev.to/ribhavmodi/why-im-learning-web3-a-60-day-journey-from-beginner-to-devrelcommunity-2n9c)
-- [Hero&#39;s Journey Security Assessment API—Mythological Framework Meets SMB Cybersecurity](https://dev.to/narnaiezzsshaa/heros-journey-security-assessment-api-mythological-framework-meets-smb-cybersecurity-4ejk)
-- [9 Best Resources to Learn Machine Learning &lpar;from a FAANG Interview Journey&rpar;](https://dev.to/stack_overflowed/9-best-resources-to-learn-machine-learning-from-a-faang-interview-journey-45gc)
-- [ShareContent: Domine o Compartilhamento de Links com Agilidade e Segurança](https://dev.to/microsaas-mkt/sharecontent-domine-o-compartilhamento-de-links-com-agilidade-e-seguranca-3dm2)
-- [Master Java Exception Hierarchy - Quick Notes for MCQs](https://dev.to/quipoin_a9cb84280f6225b1e/master-java-exception-hierarchy-quick-notes-for-mcqs-4e2g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
