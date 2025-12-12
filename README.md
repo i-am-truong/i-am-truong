@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My Google AI Agents Intensive Experience — Day-by-Day Reflections](https://dev.to/vivekmekala03/my-google-ai-agents-intensive-experience-day-by-day-reflections-1lb2)
-- [Solving Real Shop Problems](https://dev.to/vjygour/solving-real-shop-problems-162i)
-- [Building a Language Companion AI Agent](https://dev.to/migsarnavarro/building-a-language-companion-ai-agent-2llo)
-- [Designed a Complete Hiring Platform But Can&#39;t Code - Help Me Build it open source.](https://dev.to/jerry_thomas_10d67fc7f325/designed-a-complete-hiring-platform-but-cant-code-help-me-build-it-open-source-34c)
-- [Is Chatbot App the Same as ChatGPT? Understanding the Key Differences](https://dev.to/chatboqai/is-chatbot-app-the-same-as-chatgpt-understanding-the-key-differences-417m)
+- [Mushroom Revenue](https://dev.to/bibimbop123/mushroom-revenue-kbk)
+- [Mushroom Revenue](https://dev.to/bibimbop123/mushroom-revenue-489j)
+- [How I Built My First App with Kiro](https://dev.to/aws/how-i-built-my-first-app-with-kiro-1569)
+- [🧬 AlphaGenome Research Assistant: Solving the Multi-Function Non-Coding DNA Challenge](https://dev.to/simranshaikh20_50/alphagenome-research-assistant-solving-the-multi-function-non-coding-dna-challenge-4ihf)
+- [Ambiguity Dies, TypeScript Flies, and Browsers Confess](https://dev.to/urbanisierung/ambiguity-dies-typescript-flies-and-browsers-confess-4aic)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
