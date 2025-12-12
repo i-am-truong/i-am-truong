@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Game-Changer in AI Sustainability: The Emergence of &#39;Green](https://dev.to/drcarlosruizviquez/a-game-changer-in-ai-sustainability-the-emergence-of-green-1hnh)
-- [My Transformative Journey Through the AI Agents Intensive Course](https://dev.to/mvijay799767/my-transformative-journey-through-the-ai-agents-intensive-course-37h9)
-- [Why Design Patterns?](https://dev.to/abiel_tiezazu/why-design-patterns-cf3)
-- [**Fair Comparison of Two Federated Learning Approaches: FedA](https://dev.to/drcarlosruizviquez/fair-comparison-of-two-federated-learning-approaches-feda-3mbg)
-- [Build quickly with npm create @mapbox/web-app](https://dev.to/mapbox/build-quickly-with-npm-create-mapboxweb-app-d98)
+- [The Evolution of Angular](https://dev.to/mina_golzari_dalir/the-evolution-of-angular-2o0a)
+- [The 6 Best AI Code Review Tools for Pull Requests in 2025](https://dev.to/heraldofsolace/the-6-best-ai-code-review-tools-for-pull-requests-in-2025-4n43)
+- [The Evolution of Angular: Key Features and Benefits from Version 12 to 21](https://dev.to/mina_golzari_dalir/the-evolution-of-angular-key-features-and-benefits-from-version-12-to-21-12a)
+- [Game Dev Digest — Issue #310 - Level Design, Indie Marketing, Keeping It Simple, and more](https://dev.to/gamedevdigest/game-dev-digest-issue-310-level-design-indie-marketing-keeping-it-simple-and-more-4b1h)
+- [How I Built a Chrome Extension That Juggles Local and Cloud AI](https://dev.to/ialijr/how-i-built-a-chrome-extension-that-juggles-local-and-cloud-ai-100n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
