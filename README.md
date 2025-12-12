@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Vibe Coding Paradox](https://dev.to/junothreadborne/the-vibe-coding-paradox-i31)
+- [Building a Sub-Millisecond Vector Database in Rust/WASM](https://dev.to/matteo_panzeri_2c5930e196/building-a-sub-millisecond-vector-database-in-rustwasm-4h3l)
 - [Printable Flashcard Generator](https://dev.to/kougen/printable-flashcard-generator-3df2)
 - [Cursor + MCP&#39;s | Docker | Strapi v5 | Next JS | Render](https://dev.to/tijmen_de_jong/cursor-mcps-docker-strapi-next-js-45g1)
 - [The Environment Includes Soft, Hard, and Body](https://dev.to/stakiran/the-environment-includes-soft-hard-and-body-50kd)
-- [Yellowbrick Data - Community Edition Blog](https://dev.to/hunter-dev/yellowbrick-data-community-edition-blog-1abb)
-- [Escaping Localhost](https://dev.to/jongwan93/escaping-localhost-3kc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
