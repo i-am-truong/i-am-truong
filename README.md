@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Canonical Meaning Root and a Practical Go-To-Market Stack for AI Systems](https://dev.to/canonicalfunnel/canonical-meaning-root-and-a-practical-go-to-market-stack-for-ai-systems-kcb)
-- [A Better Way to Break Down Technical Problems Without Overthinking](https://dev.to/leena_malhotra/a-better-way-to-break-down-technical-problems-without-overthinking-300e)
-- [I Built a New Portfolio with Next.js and Three.js](https://dev.to/dododev95/i-built-a-new-portfolio-with-nextjs-and-threejs-152g)
-- [Bridging Cookie-Based SSR Authentication in TanStack Start with JWT-Protected NestJS APIs](https://dev.to/rihdusr/bridging-cookie-based-ssr-authentication-in-tanstack-start-with-jwt-protected-nestjs-apis-1ck9)
-- [This made me to learn Node.js :&rpar;](https://dev.to/dhruvjoshi9/this-made-me-to-learn-nodejs--apm)
+- [What are 402, 403, 404, and 429 Errors in Web Scraping?](https://dev.to/sharonbull_ca141b00035fd6/what-are-402-403-404-and-429-errors-in-web-scraping-684)
+- [From SQL Server to SFTP — 5 Practical Options to Automate Secure File Deliveries](https://dev.to/vladam/from-sql-server-to-sftp-5-practical-options-to-automate-secure-file-deliveries-3630)
+- [Outil de Cybersécurité du Jour - Dec 12, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-dec-12-2025-4nob)
+- [Enhance Your Embedded Document Sending Experience with BoldSign](https://dev.to/boldsign/enhance-your-embedded-document-sending-experience-with-boldsign-njg)
+- [Unlocking LLM Secrets: 2025&#39;s Game-Changing Strategies](https://dev.to/hkj13/unlocking-llm-secrets-2025s-game-changing-strategies-5061)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
