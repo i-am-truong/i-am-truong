@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Master Your Mind in the Digital Chaos](https://dev.to/thinkaddict/master-your-mind-in-the-digital-chaos-5gi9)
-- [Amy Kwalwasser Explores the Quantum Edge: How Next-Gen Computing Will Transform Stock Trading](https://dev.to/amykwalwasserbrooklyn/amy-kwalwasser-explores-the-quantum-edge-how-next-gen-computing-will-transform-stock-trading-33fl)
-- [Day 1284 : Numb](https://dev.to/dwane/day-1284-numb-242e)
-- [You need tools, lots of tools](https://dev.to/spo0q/you-need-tools-lots-of-tools-24f6)
-- [RAG with MongoDB Vector Search PART 1](https://dev.to/dvorlandi/rag-with-mongodb-vector-search-part-1-297e)
+- [[Boost]](https://dev.to/torchiachristian/-26fj)
+- [Building a Searchable PowerShell Cmdlet Reference with CSV](https://dev.to/torchiachristian/building-a-searchable-powershell-cmdlet-reference-with-csv-23ac)
+- [Why I Ditched toString&lpar;&rpar; and Moved to a Pre-Bundled Bridge with Event-Driven CDP Injection](https://dev.to/johnonline35/why-i-ditched-tostring-and-moved-to-a-pre-bundled-bridge-with-event-driven-cdp-injection-5280)
+- [How Verdex Sees Inside Iframes: Event-Driven Multi-Frame Support](https://dev.to/johnonline35/how-verdex-sees-inside-iframes-event-driven-multi-frame-support-461k)
+- [Why Your API&#39;s Error Messages Fail When Called by an LLM &lpar;And How to Fix Them&rpar;](https://dev.to/johnonline35/why-your-apis-error-messages-fail-when-called-by-an-llm-and-how-to-fix-them-5a5d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
