@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Redesign Dashboards That Actually Retain Customers](https://dev.to/daisy_jones_21bdcc6b40f9d/how-to-redesign-dashboards-that-actually-retain-customers-237d)
-- [Finally, a free PDF Tool that Resizes pages &lpar;A0-A4&rpar;, Merge, Split and deletes files immediately](https://dev.to/muhammad_haris_7828c7aeda/finally-a-free-pdf-tool-that-resizes-pages-a0-a4-and-deletes-files-immediately-34ld)
-- [K9s Installation Script for Amazon Linux / RHEL-Based Systems-](https://dev.to/cloudgrains/k9s-installation-script-for-amazon-linux-rhel-based-systems--160f)
-- [Day 17: AWS Blue/Green with Terraform and Elastic Beanstalk](https://dev.to/anil_kumar_noolu/day-17-aws-bluegreen-with-terraform-and-elastic-beanstalk-313m)
-- [JavaScript vs. TypeScript⚡️](https://dev.to/safae_beyt/javascript-vs-typescript-19lf)
+- [Renuncio a hacer consultoría de FinOps](https://dev.to/barbara_gaspar/renuncio-a-hacer-consultoria-de-finops-399g)
+- [Building a Quantum-Enhanced API Gateway: MCP Secure Gateway](https://dev.to/soumia_g_9dc322fc4404cecd/building-a-quantum-enhanced-api-gateway-mcp-secure-gateway-bip)
+- [This Week In React #262: React2Shell, Fate | React Native 0.83, Reanimated 4.2, State of RN | CSS, Temporal](https://dev.to/sebastienlorber/this-week-in-react-262-react2shell-fate-react-native-083-reanimated-42-state-of-rn-css-pp2)
+- [Start Hacking Now: What a €XXM API Migration Taught Me About AI in Production](https://dev.to/soumia_g_9dc322fc4404cecd/start-hacking-now-what-a-euxxm-api-migration-taught-me-about-ai-in-production-1310)
+- [Master the Art of Personalization: Build a React &amp; Tailwind Theme Switcher](https://dev.to/bishoy_semsem/master-the-art-of-personalization-build-a-react-tailwind-theme-switcher-2hd7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
