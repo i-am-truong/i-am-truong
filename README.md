@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Controlando cache através do navegador](https://dev.to/matheusdsilva01/controlando-cache-atraves-do-navegador-1h6j)
+- [Getting Started - Build AI Platforms From Scratch #1](https://dev.to/goldsteinnick/getting-started-build-ai-platforms-from-scratch-1-34kf)
+- [Monetzly: Revolutionizing AI Monetization for LLM Apps](https://dev.to/monetzly/monetzly-revolutionizing-ai-monetization-for-llm-apps-4ol0)
+- [rep](https://dev.to/query_filter_591122b53770/rep-452k)
 - [How to use local packages in Composer: a guide for PHP developers](https://dev.to/robertobutti/how-to-use-local-packages-in-composer-a-guide-for-php-developers-h89)
-- [Inside Google Jobs Series &lpar;Part 10&rpar;: Ads &amp; Commerce Engineering](https://dev.to/jackm_345442a09fb53b/inside-google-jobs-series-part-10-ads-commerce-engineering-1aah)
-- [Understanding Database Indexes: How They Work and When They Hurt Performance](https://dev.to/aayushjainx/understanding-database-indexes-how-they-work-and-when-they-hurt-performance-2hph)
-- [PyPulsar: A Python-based Alternative to Electron for Desktop Apps](https://dev.to/dannyxhub/pypulsar-a-python-based-alternative-to-electron-for-desktop-apps-5gkn)
-- [Build Your First ADK Agent Workforce](https://dev.to/googleai/build-your-first-adk-agent-workforce-5b55)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
