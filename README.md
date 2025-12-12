@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What Commitment Devices Can Do for Your Productivity &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/what-commitment-devices-can-do-for-your-productivity-bite-size-article-4dl6)
+- [Basic Linux commands every AI tinkerer should know](https://dev.to/crow/basic-linux-commands-every-ai-tinkerer-should-know-5gpn)
+- [Write Powerful System Prompts | Prompt Engineering - Build AI Platforms From Scratch #3](https://dev.to/goldsteinnick/write-powerful-system-prompts-prompt-engineering-build-ai-platforms-from-scratch-3-42h3)
+- [Setting Up Your Platform Prereqs - Build AI Platforms From Scratch #2](https://dev.to/goldsteinnick/setting-up-your-platform-prereqs-build-ai-platforms-from-scratch-2-59g4)
 - [Controlando cache através do navegador](https://dev.to/matheusdsilva01/controlando-cache-atraves-do-navegador-1h6j)
-- [Getting Started - Build AI Platforms From Scratch #1](https://dev.to/goldsteinnick/getting-started-build-ai-platforms-from-scratch-1-34kf)
-- [How to use local packages in Composer: a guide for PHP developers](https://dev.to/robertobutti/how-to-use-local-packages-in-composer-a-guide-for-php-developers-h89)
-- [Understanding Database Indexes: How They Work and When They Hurt Performance](https://dev.to/aayushjainx/understanding-database-indexes-how-they-work-and-when-they-hurt-performance-2hph)
-- [PyPulsar: A Python-based Alternative to Electron for Desktop Apps](https://dev.to/dannyxhub/pypulsar-a-python-based-alternative-to-electron-for-desktop-apps-5gkn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
