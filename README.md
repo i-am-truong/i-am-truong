@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Schema-First Approach with ThingsDB](https://dev.to/joente/schema-first-approach-with-thingsdb-407p)
-- [EP-01 | How JavaScript Works 🔥&amp; Execution Context](https://dev.to/himanshudevgupta/ep-01-how-javascript-works-execution-context-1pac)
-- [Explained: What is Web3.0 and Why Does it Matter?](https://dev.to/jamesdas/explained-what-is-web30-and-why-does-it-matter-4l60)
-- [Plato’s Republic — Savage Summary &lpar;Part 2&rpar;](https://dev.to/sgtsanjay/platos-republic-savage-summary-part-2-1adb)
-- [Plato’s Republic — Savage Summary &lpar;Part 1&rpar;](https://dev.to/sgtsanjay/platos-republic-savage-summary-part-1-fo7)
+- [Why Context Engineering Matters More Than Model Choice in LLM Systems](https://dev.to/yeahiasarker/why-context-engineering-matters-more-than-model-choice-in-llm-systems-1pfh)
+- [Getting Started with pytest](https://dev.to/devasservice/getting-started-with-pytest-2541)
+- [From Theory to Practice: Digital Twin Core Concepts and Implementation Ideas for Engineers](https://dev.to/philyeh/from-theory-to-practice-digital-twin-core-concepts-and-implementation-ideas-for-engineers-3f0l)
+- [frozen interfaces recover from Windows](https://dev.to/kingyou/frozen-interfaces-recover-from-windows-20m7)
+- [Dissecting ELF for Bare Metal Development: Sections, Segments, VMA, and LMA Explained](https://dev.to/ripan030/dissecting-elf-for-bare-metal-development-sections-segments-vma-and-lma-explained-4390)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
