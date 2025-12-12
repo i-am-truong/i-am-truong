@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How do you test your website after launch?](https://dev.to/kiarashplusplus/how-do-you-test-your-website-after-launch-4dkg)
-- [Agent Factory Recap: Keith Ballinger on AI, The Future of Development, and Vibe Coding](https://dev.to/googleai/agent-factory-recap-keith-ballinger-on-ai-the-future-of-development-and-vibe-coding-4ldf)
-- [New Tool: Does Your Site Work for AI Agents?](https://dev.to/kiarashplusplus/new-tool-does-your-site-work-for-ai-agents-3kmc)
-- [MOQ vs WebRTC: Why Both Protocols Can And Should Exist In Live Streaming Space In 2025](https://dev.to/red5/moq-vs-webrtc-why-both-protocols-can-and-should-exist-in-live-streaming-space-in-2025-2lgg)
-- [Según la Superintendencia Financiera de México &lpar;SFE&rpar;, en el](https://dev.to/drcarlosruizviquez/segun-la-superintendencia-financiera-de-mexico-sfe-en-el-25da)
+- [Choosing the Right Data Structure in Python for Automation Projects](https://dev.to/godhirajcode/choosing-the-right-data-structure-in-python-for-automation-projects-hj5)
+- [Optimizing Complex Business Operations with OptaPlanner: A Complete Guide](https://dev.to/richa_singh_11bd098df12c8/optimizing-complex-business-operations-with-optaplanner-a-complete-guide-123h)
+- [Vous cherchez un métier dans le digital](https://dev.to/maximeguinard/vous-cherchez-un-metier-dans-le-digital-2gll)
+- [CSS Basics](https://dev.to/sasirekaarumugam/css-igf)
+- [The :has&lpar;&rpar; Selector: Bringing Real Logic to CSS](https://dev.to/smrpdl1991/the-has-selector-bringing-real-logic-to-css-1ej5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
