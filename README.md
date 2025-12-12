@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Antigravity&#39;s Accidental Apocalypse: Why AI Coding Agents Need Real Guardrails](https://dev.to/naresh_007/antigravitys-accidental-apocalypse-why-ai-coding-agents-need-real-guardrails-3p32)
+- [Terraform Day-3](https://dev.to/jayanth_kumardasari_d34c/terraform-day-3-118a)
+- [🚀 Terraform Day 7: Mastering Type Constraints — The Foundation of Reliable IaC](https://dev.to/jeeva_5c84a254e90842940dd/terraform-day-7-mastering-type-constraints-the-foundation-of-reliable-iac-2im3)
 - [Choosing the Right Data Structure in Python for Automation Projects](https://dev.to/godhirajcode/choosing-the-right-data-structure-in-python-for-automation-projects-hj5)
-- [Optimizing Complex Business Operations with OptaPlanner: A Complete Guide](https://dev.to/richa_singh_11bd098df12c8/optimizing-complex-business-operations-with-optaplanner-a-complete-guide-123h)
-- [Vous cherchez un métier dans le digital](https://dev.to/maximeguinard/vous-cherchez-un-metier-dans-le-digital-2gll)
-- [CSS Basics](https://dev.to/sasirekaarumugam/css-igf)
-- [The :has&lpar;&rpar; Selector: Bringing Real Logic to CSS](https://dev.to/smrpdl1991/the-has-selector-bringing-real-logic-to-css-1ej5)
+- [Q1 2026 Marketing Planning: A Framework That Survives Contact With Reality](https://dev.to/synergistdigitalmedia/q1-2026-marketing-planning-a-framework-that-survives-contact-with-reality-4nja)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
