@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Renuncio a hacer consultoría de FinOps](https://dev.to/barbara_gaspar/renuncio-a-hacer-consultoria-de-finops-399g)
-- [Building a Quantum-Enhanced API Gateway: MCP Secure Gateway](https://dev.to/soumia_g_9dc322fc4404cecd/building-a-quantum-enhanced-api-gateway-mcp-secure-gateway-bip)
-- [This Week In React #262: React2Shell, Fate | React Native 0.83, Reanimated 4.2, State of RN | CSS, Temporal](https://dev.to/sebastienlorber/this-week-in-react-262-react2shell-fate-react-native-083-reanimated-42-state-of-rn-css-pp2)
-- [Start Hacking Now: What a €XXM API Migration Taught Me About AI in Production](https://dev.to/soumia_g_9dc322fc4404cecd/start-hacking-now-what-a-euxxm-api-migration-taught-me-about-ai-in-production-1310)
-- [Master the Art of Personalization: Build a React &amp; Tailwind Theme Switcher](https://dev.to/bishoy_semsem/master-the-art-of-personalization-build-a-react-tailwind-theme-switcher-2hd7)
+- [Under the hood: React](https://dev.to/hmcodes/under-the-hood-react-3gbd)
+- [Glimmu](https://dev.to/lana_blink_8a114f3b5d9da1/glimmu-4op0)
+- [Festive Face Swap Ideas for Christmas, New Year &amp; Winter Holidays](https://dev.to/arzoo/festive-face-swap-ideas-for-christmas-new-year-winter-holidays-7ad)
+- [How to Fix the Annoying RDP Screen Freeze &lpar;TCP vs UDP&rpar;](https://dev.to/erkmenhost/how-to-fix-the-annoying-rdp-screen-freeze-tcp-vs-udp-3i7k)
+- [WPPConnect: The JavaScript Toolkit That Turns WhatsApp into a Powerful API](https://dev.to/githubopensource/wppconnect-the-javascript-toolkit-that-turns-whatsapp-into-a-powerful-api-4089)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
