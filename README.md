@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Url Shortener Vs Regular Links: Pros and Cons](https://dev.to/cristianalex_17/url-shortener-vs-regular-links-pros-and-cons-43jc)
-- [Best Url Shorteners: Ultimate Guide in 2025](https://dev.to/puratabla/best-url-shorteners-ultimate-guide-in-2025-25g5)
-- [Pause, Inspect, Edit: Debugging LLM Requests in vLLora](https://dev.to/mrunmaylangdb/pause-inspect-edit-debugging-llm-requests-in-vllora-26bg)
-- [Maximize seu fluxo de trabalho com o ShareContent: Compartilhamento eficiente de links e arquivos](https://dev.to/microsaas-mkt/maximize-seu-fluxo-de-trabalho-com-o-sharecontent-compartilhamento-eficiente-de-links-e-arquivos-j0m)
-- [The Life Insurance Needs Of A Software Developer](https://dev.to/hafsa_backlinker_5334a623/the-life-insurance-needs-of-a-software-developer-3627)
+- [Why I’m Learning Web3: A 60-Day Journey from Beginner to DevRel/Community](https://dev.to/ribhavmodi/why-im-learning-web3-a-60-day-journey-from-beginner-to-devrelcommunity-2n9c)
+- [Hero&#39;s Journey Security Assessment API—Mythological Framework Meets SMB Cybersecurity](https://dev.to/narnaiezzsshaa/heros-journey-security-assessment-api-mythological-framework-meets-smb-cybersecurity-4ejk)
+- [9 Best Resources to Learn Machine Learning &lpar;from a FAANG Interview Journey&rpar;](https://dev.to/stack_overflowed/9-best-resources-to-learn-machine-learning-from-a-faang-interview-journey-45gc)
+- [ShareContent: Domine o Compartilhamento de Links com Agilidade e Segurança](https://dev.to/microsaas-mkt/sharecontent-domine-o-compartilhamento-de-links-com-agilidade-e-seguranca-3dm2)
+- [Master Java Exception Hierarchy - Quick Notes for MCQs](https://dev.to/quipoin_a9cb84280f6225b1e/master-java-exception-hierarchy-quick-notes-for-mcqs-4e2g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
