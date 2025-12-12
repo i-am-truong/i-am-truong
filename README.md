@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Blockchain for Non-Technical People: Breaking Down the Basics](https://dev.to/ribhavmodi/blockchain-for-non-technical-people-breaking-down-the-basics-585d)
-- [Mocklantis: Modern API Mocking Made Simple](https://dev.to/mstykt/mocklantis-modern-api-mocking-made-simple-5do2)
-- [MindScript: The Language Layer for MindsEye &lpar;Ledger-First Automation, Domain Dialects, and Searchable Memory&rpar;&quot; published: true](https://dev.to/peacebinflow/mindscript-the-language-layer-for-mindseye-ledger-first-automation-domain-dialects-and-41gk)
-- [Beyond Black Friday: A Checklist to Keep Your Checkout Stable Through Christmas](https://dev.to/flutterwaveeng/beyond-black-friday-a-checklist-to-keep-your-checkout-stable-through-christmas-115l)
-- [Ng-News 25/49: Signal Forms &amp; @angular/aria](https://dev.to/this-is-angular/ng-news-2548-signal-forms-angulararia-je)
+- [Optimizing Real-Time Location Tracking: A System-Wide Approach](https://dev.to/fathma/optimizing-real-time-location-tracking-a-system-wide-approach-2oa2)
+- [The Day the Internet Blinked: Why Google Gemini Stood Tall During the Great Cloudflare Outage of 2025](https://dev.to/tech_croc_f32fbb6ea8ed4/the-day-the-internet-blinked-why-google-gemini-stood-tall-during-the-great-cloudflare-outage-of-23lc)
+- [Why Your UI Looks “Off” &lpar;And How to Fix It&rpar;](https://dev.to/pritish_academy/why-your-ui-looks-off-and-how-to-fix-it-1o6l)
+- [I Just Published My New Book: Blazor 10 Coding Standards &amp; Best Practices](https://dev.to/chandradev819/i-just-published-my-new-book-blazor-10-coding-standards-best-practices-4e7d)
+- [Why Some Developers Stay Junior Forever](https://dev.to/mdhesari/why-some-developers-stay-junior-forever-26b5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
