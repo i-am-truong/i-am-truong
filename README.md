@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Blockchain for Non-Technical People: Breaking Down the Basics](https://dev.to/ribhavmodi/blockchain-for-non-technical-people-breaking-down-the-basics-585d)
+- [Mocklantis: Modern API Mocking Made Simple](https://dev.to/mstykt/mocklantis-modern-api-mocking-made-simple-5do2)
+- [MindScript: The Language Layer for MindsEye &lpar;Ledger-First Automation, Domain Dialects, and Searchable Memory&rpar;&quot; published: true](https://dev.to/peacebinflow/mindscript-the-language-layer-for-mindseye-ledger-first-automation-domain-dialects-and-41gk)
 - [Beyond Black Friday: A Checklist to Keep Your Checkout Stable Through Christmas](https://dev.to/flutterwaveeng/beyond-black-friday-a-checklist-to-keep-your-checkout-stable-through-christmas-115l)
 - [Ng-News 25/49: Signal Forms &amp; @angular/aria](https://dev.to/this-is-angular/ng-news-2548-signal-forms-angulararia-je)
-- [Announcing Dioxide v1.0.0: Delightful Dependency Injection for Python](https://dev.to/mikelane/announcing-dioxide-v100-delightful-dependency-injection-for-python-mb0)
-- [📅 Mark Your Calendar: The Startup Article Every Developer Needs is Coming](https://dev.to/thebitforge/mark-your-calendar-the-startup-article-every-developer-needs-is-coming-2oj)
-- [Computer vision for code: What PVS-Studio saw in OpenCV](https://dev.to/pvsdev/computer-vision-for-code-what-pvs-studio-saw-in-opencv-404c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
