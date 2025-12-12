@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Migrating to the Next.js App Router &lpar;or: how I learned to stop worrying and love Server Actions&rpar;](https://dev.to/alexwilson/migrating-to-the-nextjs-app-router-or-how-i-learned-to-stop-worrying-and-love-server-actions-m2e)
-- [Mastering Gen AI Videos: Preventing Identity Shift &amp; Fabrications with a Robu...](https://dev.to/mabualzait/mastering-gen-ai-videos-preventing-identity-shift-fabrications-with-a-robu-5735)
-- [🔑 AWS 101: The First Step to the Cloud - Creating Your Essential SSH Key Pair!](https://dev.to/hritikraj8804/aws-101-the-first-step-to-the-cloud-creating-your-essential-ssh-key-pair-5f1h)
-- [Should I Do Grind 75 or Blind 75 in 2024? A Complete Comparison Guide](https://dev.to/alex_hunter_44f4c9ed6671e/should-i-do-grind-75-or-blind-75-in-2024-a-complete-comparison-guide-10h9)
-- [Meta&#39;s 2026 Ad Targeting Overhaul: The Performance Marketer&#39;s Survival Guide](https://dev.to/synergistdigitalmedia/metas-2026-ad-targeting-overhaul-the-performance-marketers-survival-guide-4cei)
+- [My Google AI Agents Intensive Experience — Day-by-Day Reflections](https://dev.to/vivekmekala03/my-google-ai-agents-intensive-experience-day-by-day-reflections-1lb2)
+- [Solving Real Shop Problems](https://dev.to/vjygour/solving-real-shop-problems-162i)
+- [Building a Language Companion AI Agent](https://dev.to/migsarnavarro/building-a-language-companion-ai-agent-2llo)
+- [Designed a Complete Hiring Platform But Can&#39;t Code - Help Me Build it open source.](https://dev.to/jerry_thomas_10d67fc7f325/designed-a-complete-hiring-platform-but-cant-code-help-me-build-it-open-source-34c)
+- [Is Chatbot App the Same as ChatGPT? Understanding the Key Differences](https://dev.to/chatboqai/is-chatbot-app-the-same-as-chatgpt-understanding-the-key-differences-417m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
