@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Salesforce Data 360 Objects: The Core of the Unified Customer Profile](https://dev.to/sunil_1303/understanding-salesforce-data-360-objects-the-core-of-the-unified-customer-profile-3pbl)
-- [Brutal Efficiency: A Tech Breakdown of My Portfolio](https://dev.to/highcenburg/brutal-efficiency-a-tech-breakdown-of-my-portfolio-1o2d)
-- [Fine-tuning For Domain-Customized Retriever Noise Mitigation in RAG Pipelines](https://dev.to/padmanabha_venkatagiri_09/fine-tuning-for-domain-customized-retriever-noise-mitigation-in-rag-pipelines-4l0d)
-- [Building a standard library HTTP Client in C, C++, Rust and Python idiomatically: The Rosetta Stone for Systems Programming](https://dev.to/warren_jitsing_dd1c1d6fc6/building-a-standard-library-http-client-in-c-c-rust-and-python-idiomatically-the-rosetta-stone-5dnc)
-- [AI search is rewriting how online visibility works, and most brands aren’t ready for what’s coming.](https://dev.to/fyjix_d08633eb48a0dde03d7/ai-search-is-rewriting-how-online-visibility-works-and-most-brands-arent-ready-for-whats-coming-1d1c)
+- [Advent of AI 2025 - Day 9: Building a Gift Tag Generator with Goose Recipes](https://dev.to/nickytonline/advent-of-ai-2025-day-9-building-a-gift-tag-generator-with-goose-recipes-3i73)
+- [⚠️ Critical RCE Vulnerability in React Server Components &lpar;CVSS 10.0&rpar;](https://dev.to/bishoy_semsem/critical-rce-vulnerability-in-react-server-components-cvss-100-3po6)
+- [Crypto Exchange Architecture Design: A Practical Guide for Developers](https://dev.to/riley_quinn_8e58a0a96d107/crypto-exchange-architecture-design-a-practical-guide-for-developers-183f)
+- [AWS DevOps Agent Demo: Investigating ALB Health Check Failures](https://dev.to/hung____/aws-devops-agent-demo-investigating-alb-health-check-failures-2be6)
+- [Eclipse WTP: JaCoCo Coverage Not Recognized When Running Tomcat in Debug Mode](https://dev.to/toydev/eclipse-wtp-jacoco-coverage-not-recognized-when-running-tomcat-in-debug-mode-4d00)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
