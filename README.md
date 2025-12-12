@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Just Launched Summaryr on Product Hunt – The AI Tool That Cut My Reading Time by 70%](https://dev.to/ahmadnk31/i-just-launched-summaryr-on-product-hunt-the-ai-tool-that-cut-my-reading-time-by-70-2m26)
+- [The Complete Full Stack Roadmap 2026 &lpar;100% Free Resources&rpar;](https://dev.to/codersnote/the-complete-full-stack-roadmap-2026-100-free-resources-l3e)
+- [Build an Instagram Reels Analytics Dashboard with Next.js](https://dev.to/olams/build-an-instagram-reels-analytics-dashboard-with-nextjs-m3h)
 - [Advent of AI 2025 - Day 9: Building a Gift Tag Generator with Goose Recipes](https://dev.to/nickytonline/advent-of-ai-2025-day-9-building-a-gift-tag-generator-with-goose-recipes-3i73)
 - [⚠️ Critical RCE Vulnerability in React Server Components &lpar;CVSS 10.0&rpar;](https://dev.to/bishoy_semsem/critical-rce-vulnerability-in-react-server-components-cvss-100-3po6)
-- [Crypto Exchange Architecture Design: A Practical Guide for Developers](https://dev.to/riley_quinn_8e58a0a96d107/crypto-exchange-architecture-design-a-practical-guide-for-developers-183f)
-- [AWS DevOps Agent Demo: Investigating ALB Health Check Failures](https://dev.to/hung____/aws-devops-agent-demo-investigating-alb-health-check-failures-2be6)
-- [Eclipse WTP: JaCoCo Coverage Not Recognized When Running Tomcat in Debug Mode](https://dev.to/toydev/eclipse-wtp-jacoco-coverage-not-recognized-when-running-tomcat-in-debug-mode-4d00)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
