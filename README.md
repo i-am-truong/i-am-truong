@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Printable Flashcard Generator](https://dev.to/kougen/printable-flashcard-generator-3df2)
+- [Cursor + MCP&#39;s | Docker | Strapi v5 | Next JS | Render](https://dev.to/tijmen_de_jong/cursor-mcps-docker-strapi-next-js-45g1)
 - [The Environment Includes Soft, Hard, and Body](https://dev.to/stakiran/the-environment-includes-soft-hard-and-body-50kd)
 - [Yellowbrick Data - Community Edition Blog](https://dev.to/hunter-dev/yellowbrick-data-community-edition-blog-1abb)
 - [Escaping Localhost](https://dev.to/jongwan93/escaping-localhost-3kc)
-- [Reflections on My Learning Journey in the 5-Day AI Agents Intensive](https://dev.to/silali_banerjee_e845914ff/reflections-on-my-learning-journey-in-the-5-day-ai-agents-intensive-253e)
-- [Smart Escrow Post #2: What is WebAssembly?](https://dev.to/ripplexdev/smart-escrow-post-2-what-is-webassembly-4of3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
