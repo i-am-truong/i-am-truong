@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mushroom Revenue](https://dev.to/bibimbop123/mushroom-revenue-kbk)
-- [Mushroom Revenue](https://dev.to/bibimbop123/mushroom-revenue-489j)
-- [How I Built My First App with Kiro](https://dev.to/aws/how-i-built-my-first-app-with-kiro-1569)
-- [🧬 AlphaGenome Research Assistant: Solving the Multi-Function Non-Coding DNA Challenge](https://dev.to/simranshaikh20_50/alphagenome-research-assistant-solving-the-multi-function-non-coding-dna-challenge-4ihf)
-- [Ambiguity Dies, TypeScript Flies, and Browsers Confess](https://dev.to/urbanisierung/ambiguity-dies-typescript-flies-and-browsers-confess-4aic)
+- [How to Prioritize Naturalness in Voice AI: Implement VAD](https://dev.to/callstacktech/how-to-prioritize-naturalness-in-voice-ai-implement-vad-ibo)
+- [Unleashing Self-Hosted AI: I Helped Build a Native Mobile App for Open WebUI &lpar;and it&#39;s Open Source!&rpar;](https://dev.to/nikita_baksheev_748b81bf3/unleashing-self-hosted-ai-i-helped-build-a-native-mobile-app-for-open-webui-and-its-open-source-j26)
+- [`Vibe` System Design](https://dev.to/clouda_ai_d147e088fad041f/vibe-system-design-68n)
+- [EP-01 | How JavaScript Works 🔥&amp; Execution Context](https://dev.to/himanshudevgupta/ep-01-how-javascript-works-execution-context-1674)
+- [The Observability Tax: What You&#39;re Actually Paying for AI Agents &lpar;2026 Cost Reality&rpar;](https://dev.to/inboryn_99399f96579fcd705/the-observability-tax-what-youre-actually-paying-for-ai-agents-2026-cost-reality-5f90)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
