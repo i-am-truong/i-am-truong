@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🧱Understanding Artifacts and Artifact Repositories in Google Cloud CI/CD](https://dev.to/latchudevops/understanding-artifacts-and-artifact-repositories-in-google-cloud-cicd-2lbh)
+- [How AI Boosts HubSpot Automation and Cuts Manual Tasks](https://dev.to/anthony-rodgers/how-ai-boosts-hubspot-automation-and-cuts-manual-tasks-4218)
+- [Transforming Engineering Knowledge Access with Data Version](https://dev.to/data_version_98a64bde303d/transforming-engineering-knowledge-access-with-data-version-42d1)
 - [Why Big Data Platforms Return to SQL？](https://dev.to/esproc_spl/why-big-data-platforms-return-to-sql-4677)
 - [🏠 Self-Hosted AI Code Generation: The Complete Guide to Building Your Private AI Coding Assistant](https://dev.to/techstuff/self-hosted-ai-code-generation-the-complete-guide-to-building-your-private-ai-coding-assistant-4ncj)
-- [Why Context Engineering Matters More Than Model Choice in LLM Systems](https://dev.to/yeahiasarker/why-context-engineering-matters-more-than-model-choice-in-llm-systems-1pfh)
-- [Getting Started with pytest](https://dev.to/devasservice/getting-started-with-pytest-2541)
-- [Episode 2: How JavaScript Code is executed?](https://dev.to/himanshudevgupta/episode-2-how-javascript-code-is-executed-4ll8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
