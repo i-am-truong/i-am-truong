@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Prioritize Naturalness in Voice AI: Implement VAD](https://dev.to/callstacktech/how-to-prioritize-naturalness-in-voice-ai-implement-vad-ibo)
-- [Unleashing Self-Hosted AI: I Helped Build a Native Mobile App for Open WebUI &lpar;and it&#39;s Open Source!&rpar;](https://dev.to/nikita_baksheev_748b81bf3/unleashing-self-hosted-ai-i-helped-build-a-native-mobile-app-for-open-webui-and-its-open-source-j26)
-- [`Vibe` System Design](https://dev.to/clouda_ai_d147e088fad041f/vibe-system-design-68n)
-- [EP-01 | How JavaScript Works 🔥&amp; Execution Context](https://dev.to/himanshudevgupta/ep-01-how-javascript-works-execution-context-1674)
-- [The Observability Tax: What You&#39;re Actually Paying for AI Agents &lpar;2026 Cost Reality&rpar;](https://dev.to/inboryn_99399f96579fcd705/the-observability-tax-what-youre-actually-paying-for-ai-agents-2026-cost-reality-5f90)
+- [Schema-First Approach with ThingsDB](https://dev.to/joente/schema-first-approach-with-thingsdb-407p)
+- [EP-01 | How JavaScript Works 🔥&amp; Execution Context](https://dev.to/himanshudevgupta/ep-01-how-javascript-works-execution-context-1pac)
+- [Explained: What is Web3.0 and Why Does it Matter?](https://dev.to/jamesdas/explained-what-is-web30-and-why-does-it-matter-4l60)
+- [Plato’s Republic — Savage Summary &lpar;Part 2&rpar;](https://dev.to/sgtsanjay/platos-republic-savage-summary-part-2-1adb)
+- [Plato’s Republic — Savage Summary &lpar;Part 1&rpar;](https://dev.to/sgtsanjay/platos-republic-savage-summary-part-1-fo7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
