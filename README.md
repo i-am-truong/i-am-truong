@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🧪 Selling Digital Privacy - My GDRP Toolkit Journey](https://dev.to/mart_young_ce778e4c31eb33/selling-digital-privacy-my-gdrp-toolkit-journey-k25)
-- [CloudFront Function vs Lambda@Edge - which one to use](https://dev.to/shajam/cloudfront-function-vs-lambdaedge-which-one-to-use-2dko)
-- [Backend, Frontend &amp; Product Walk Into a Meeting… And AI Docs Finally Make It Less Painful](https://dev.to/notadevbuthere/backend-frontend-product-walk-into-a-meeting-and-ai-docs-finally-make-it-less-painful-ibn)
-- [I Built ClipFlow: The Clipboard History macOS Should Have](https://dev.to/kotyada_saipraneeth_7be9/i-built-clipflow-the-clipboard-history-macos-should-have-11fn)
-- [Monetzly: Your Guide to AI Monetization for LLM Apps](https://dev.to/monetzly/monetzly-your-guide-to-ai-monetization-for-llm-apps-5fpc)
+- [How to Merge Cells in Excel in C#](https://dev.to/leondavis1991/how-to-merge-cells-in-excel-in-c-46l1)
+- [How I Tackled Voltage Drop in Long-Run LED Strips for My DIY Projects](https://dev.to/emma-suntech/how-i-tackled-voltage-drop-in-long-run-led-strips-for-my-diy-projects-1dp3)
+- [How to Use H100 Under 2 Dollars](https://dev.to/aquanode/how-to-use-h100-under-2-dollars-580)
+- [How to Analyze CSV Files with Python and Pandas](https://dev.to/tilda_udufo/how-to-analyze-csv-files-with-python-and-pandas-4mn1)
+- [The API Contract: Why an API-First Architecture is Non-Negotiable for Modern Software](https://dev.to/shubhojeet2001/the-api-contract-why-an-api-first-architecture-is-non-negotiable-for-modern-software-17i4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
