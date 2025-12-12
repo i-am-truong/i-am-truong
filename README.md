@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [LogWard 0.3.0: Full SIEM Dashboard, C# SDK, and Our Roadmap](https://dev.to/polliog/logward-030-full-siem-dashboard-c-sdk-and-our-roadmap-1k1f)
+- [Building a Browser-Based Voice-to-Text App with the Web Speech API](https://dev.to/digitalwareshub/building-a-browser-based-voice-to-text-app-with-the-web-speech-api-2ni4)
+- [Never Commit Secrets Again: Generate .env Files from AWS Secrets Manager](https://dev.to/mateenali66/never-commit-secrets-again-generate-env-files-from-aws-secrets-manager-46f4)
 - [The Covenant Guardian](https://dev.to/paulo_abbcba03b4df70572fc/the-covenant-guardian-4547)
 - [2025-12-12 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-12-daily-ai-news-1j74)
-- [1683. Invalid Tweets | LeetCode | SQL 50 | Interview Questions | MySQL](https://dev.to/debeshpg90/1683-invalid-tweets-leetcode-sql-50-interview-questions-mysql-18gg)
-- [Packaging for Fedora: General purpose cookiecutter template](https://dev.to/r0x0d/packaging-for-fedora-general-purpose-cookiecutter-template-4kgi)
-- [1148. Article Views I | LeetCode | SQL 50 | Interview Questions | MySQL](https://dev.to/debeshpg90/1148-article-views-i-leetcode-sql-50-interview-questions-mysql-3l1m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
