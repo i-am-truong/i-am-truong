@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Z-Image GGUF Practical Guide: Unlock Top-Tier AI Art with Consumer GPUs &lpar;Beginner Version&rpar;](https://dev.to/ryan_n_a9ec3d0a1a357a89/z-image-gguf-practical-guide-unlock-top-tier-ai-art-with-consumer-gpus-beginner-version-45lc)
-- [Day 2: Data Engineering vs Data Science vs Data Analytics](https://dev.to/pawandeore/30-days-of-data-engineering-challenge-day-2-data-engineering-vs-data-science-vs-data-analytics-29l4)
-- [Rust Weekly Log: Crypto Foundations &amp; Clean Architecture](https://dev.to/vinecksie_rust/rust-weekly-log-crypto-foundations-clean-architecture-2hnn)
-- [Logic App Standard: Cannot Turn Off Trigger Concurrency After It Was Enabled](https://dev.to/imdj/logic-app-standard-cannot-turn-off-trigger-concurrency-after-it-was-enabled-3859)
-- [Code Generation for Ablation Technique — Documentation](https://dev.to/hadija_dautova_23943b0b2e/code-generation-for-ablation-technique-documentation-421k)
+- [How to Redesign Dashboards That Actually Retain Customers](https://dev.to/daisy_jones_21bdcc6b40f9d/how-to-redesign-dashboards-that-actually-retain-customers-237d)
+- [Finally, a free PDF Tool that Resizes pages &lpar;A0-A4&rpar;, Merge, Split and deletes files immediately](https://dev.to/muhammad_haris_7828c7aeda/finally-a-free-pdf-tool-that-resizes-pages-a0-a4-and-deletes-files-immediately-34ld)
+- [K9s Installation Script for Amazon Linux / RHEL-Based Systems-](https://dev.to/cloudgrains/k9s-installation-script-for-amazon-linux-rhel-based-systems--160f)
+- [Day 17: AWS Blue/Green with Terraform and Elastic Beanstalk](https://dev.to/anil_kumar_noolu/day-17-aws-bluegreen-with-terraform-and-elastic-beanstalk-313m)
+- [JavaScript vs. TypeScript⚡️](https://dev.to/safae_beyt/javascript-vs-typescript-19lf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
