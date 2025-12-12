@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Career Signals API — An AI-Powered Resume &amp; Role-Fit Analysis Engine](https://dev.to/tawe/career-signals-api-an-ai-powered-resume-role-fit-analysis-engine-42m1)
+- [🚀 Creando una API REST completa con AWS CDK y LocalStack: De cero a producción local](https://dev.to/ecordero/creando-una-api-rest-completa-con-aws-cdk-y-localstack-de-cero-a-produccion-local-1e4b)
+- [US AI Policy News Today: Key Updates &amp; Government Actions](https://dev.to/techdecodedly/us-ai-policy-news-today-key-updates-government-actions-1kjp)
+- [Mastering Agent Flows V2 and the Model Context Protocol](https://dev.to/onlineproxyio/mastering-agent-flows-v2-and-the-model-context-protocol-54g6)
 - [RAG is more than Vector Search](https://dev.to/neuml/rag-is-more-than-vector-search-2ece)
-- [Building a Multi-Lingual Marketplace from North Macedonia to the Balkans](https://dev.to/cengiz_zaylan_baf3ecdfb/building-a-multi-lingual-marketplace-from-north-macedonia-to-the-balkans-2d71)
-- [Planning My Final Open Source Contribution](https://dev.to/aubreyddd/planning-my-final-open-source-contribution-2j85)
-- [[Boost]](https://dev.to/tedashikode/-1b6d)
-- [I Built an EPSS-Integrated CVE Risk Scoring Tool &lpar;Day0Predictor v0.1&rpar;](https://dev.to/ethicals7s/i-built-an-epss-integrated-cve-risk-scoring-tool-day0predictor-v01-4jd6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
