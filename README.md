@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [RAG is more than Vector Search](https://dev.to/neuml/rag-is-more-than-vector-search-2ece)
 - [Building a Multi-Lingual Marketplace from North Macedonia to the Balkans](https://dev.to/cengiz_zaylan_baf3ecdfb/building-a-multi-lingual-marketplace-from-north-macedonia-to-the-balkans-2d71)
 - [Planning My Final Open Source Contribution](https://dev.to/aubreyddd/planning-my-final-open-source-contribution-2j85)
 - [[Boost]](https://dev.to/tedashikode/-1b6d)
-- [Key Elements of an Effective Leadership and Motivation Plan](https://dev.to/writegenic/key-elements-of-an-effective-leadership-and-motivation-plan-14de)
-- [Day 7: Trading Leetcode for ML](https://dev.to/casperday11/day-7-trading-leetcode-for-ml-2k7m)
+- [I Built an EPSS-Integrated CVE Risk Scoring Tool &lpar;Day0Predictor v0.1&rpar;](https://dev.to/ethicals7s/i-built-an-epss-integrated-cve-risk-scoring-tool-day0predictor-v01-4jd6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
