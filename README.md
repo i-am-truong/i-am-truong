@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Beyond Black Friday: A Checklist to Keep Your Checkout Stable Through Christmas](https://dev.to/flutterwaveeng/beyond-black-friday-a-checklist-to-keep-your-checkout-stable-through-christmas-115l)
+- [Ng-News 25/49: Signal Forms &amp; @angular/aria](https://dev.to/this-is-angular/ng-news-2548-signal-forms-angulararia-je)
 - [Announcing Dioxide v1.0.0: Delightful Dependency Injection for Python](https://dev.to/mikelane/announcing-dioxide-v100-delightful-dependency-injection-for-python-mb0)
 - [📅 Mark Your Calendar: The Startup Article Every Developer Needs is Coming](https://dev.to/thebitforge/mark-your-calendar-the-startup-article-every-developer-needs-is-coming-2oj)
 - [Computer vision for code: What PVS-Studio saw in OpenCV](https://dev.to/pvsdev/computer-vision-for-code-what-pvs-studio-saw-in-opencv-404c)
-- [Initializing ForgeRock DS from LDIF Files: A Step-by-Step Guide](https://dev.to/iamdevbox/initializing-forgerock-ds-from-ldif-files-a-step-by-step-guide-54jp)
-- [Deploy the Application and Version Control Using Amazon Elastic Beanstalk](https://dev.to/aws-builders/deploy-the-application-and-version-control-using-amazon-elastic-beanstalk-50dm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
