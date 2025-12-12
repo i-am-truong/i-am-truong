@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Planning My Final Open Source Contribution](https://dev.to/aubreyddd/planning-my-final-open-source-contribution-2j85)
+- [[Boost]](https://dev.to/tedashikode/-1b6d)
+- [Key Elements of an Effective Leadership and Motivation Plan](https://dev.to/writegenic/key-elements-of-an-effective-leadership-and-motivation-plan-14de)
 - [Day 7: Trading Leetcode for ML](https://dev.to/casperday11/day-7-trading-leetcode-for-ml-2k7m)
 - [Day 7: Trading Leetcode for ML &lpar;Temporarily&rpar;](https://dev.to/blink_c5eb0afe3975/day-7-trading-leetcode-for-ml-temporarily-304m)
-- [Azure Tag Governance Reality - Why 247 Variations of &quot;Environment&quot; Collapse Your Cost Reports](https://dev.to/azurenoob/azure-tag-governance-reality-why-247-variations-of-environment-collapse-your-cost-reports-3408)
-- [50 Windows Commands Every Azure VM Admin Needs &lpar;PowerShell + Active Directory&rpar;](https://dev.to/azurenoob/50-windows-commands-every-azure-vm-admin-needs-powershell-active-directory-29a1)
-- [Como construímos o MyResume: o currículo que nunca fica desatualizado &lpar;e tudo o que aprendemos criando um SaaS do zero&rpar;](https://dev.to/gabriellsg/como-construimos-o-myresume-o-curriculo-que-nunca-fica-desatualizado-e-tudo-o-que-aprendemos-49g0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
