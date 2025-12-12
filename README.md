@@ -120,17 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Quickly Inspect &amp; Decode JWTs in Postman &lpar;The Right Way&rpar;](https://dev.to/mahjadan/how-to-decode-jwt-in-postman-h8n)
-- [Tema-1 AWS Regions y Availability Zones: Guía Completa y Simple](https://dev.to/ecordero/tema-1-aws-regions-y-availability-zones-guia-completa-y-simple-21mh)
-- [Planejamento de TI 2026: 3 Dicas de Ouro para PMEs](https://dev.to/alexhinckel/planejamento-de-ti-2026-3-dicas-de-ouro-para-pmes-3g78)
-- [RAG is more than Vector Search](https://dev.to/neuml/rag-is-more-than-vector-search-41b0)
-- [Founders, what are you building this week?
-
-I&#39;m working on a platform for makers like us. Launch your startup for $0 and build in public with us.
-
-Submit your startup today: https://pavelaunch.com
-
-#solopreneur #buildinpublic #saas](https://dev.to/thecodeinfluencer/founders-what-are-you-building-this-week-im-working-on-a-platform-for-makers-like-us-launch-39le)
+- [How to use local packages in Composer: a guide for PHP developers](https://dev.to/robertobutti/how-to-use-local-packages-in-composer-a-guide-for-php-developers-h89)
+- [Inside Google Jobs Series &lpar;Part 10&rpar;: Ads &amp; Commerce Engineering](https://dev.to/jackm_345442a09fb53b/inside-google-jobs-series-part-10-ads-commerce-engineering-1aah)
+- [Understanding Database Indexes: How They Work and When They Hurt Performance](https://dev.to/aayushjainx/understanding-database-indexes-how-they-work-and-when-they-hurt-performance-2hph)
+- [PyPulsar: A Python-based Alternative to Electron for Desktop Apps](https://dev.to/dannyxhub/pypulsar-a-python-based-alternative-to-electron-for-desktop-apps-5gkn)
+- [Build Your First ADK Agent Workforce](https://dev.to/googleai/build-your-first-adk-agent-workforce-5b55)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
