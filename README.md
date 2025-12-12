@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Merge Cells in Excel in C#](https://dev.to/leondavis1991/how-to-merge-cells-in-excel-in-c-46l1)
-- [How I Tackled Voltage Drop in Long-Run LED Strips for My DIY Projects](https://dev.to/emma-suntech/how-i-tackled-voltage-drop-in-long-run-led-strips-for-my-diy-projects-1dp3)
-- [How to Use H100 Under 2 Dollars](https://dev.to/aquanode/how-to-use-h100-under-2-dollars-580)
-- [How to Analyze CSV Files with Python and Pandas](https://dev.to/tilda_udufo/how-to-analyze-csv-files-with-python-and-pandas-4mn1)
-- [The API Contract: Why an API-First Architecture is Non-Negotiable for Modern Software](https://dev.to/shubhojeet2001/the-api-contract-why-an-api-first-architecture-is-non-negotiable-for-modern-software-17i4)
+- [bc_crunch : Compression Algorithm Documentation](https://dev.to/geolm/bccrunch-compression-algorithm-documentation-4fpo)
+- [From A100 to H200: How to Choose the Right GPU for Training &amp; Inference in 2025](https://dev.to/aquanode/how-to-reduce-gpu-cost-by-more-than-40-for-ml-workloads-473p)
+- [How I Built ReadMenuAI: Solving the &quot;Poetic&quot; Chinese Menu Problem with GenAI](https://dev.to/lianbo_zhou/how-i-built-readmenuai-solving-the-poetic-chinese-menu-problem-with-genai-23f6)
+- [Embed HTML into Word Documents with docx.js the Easy Way](https://dev.to/jsstampede/embed-html-into-word-documents-with-docxjs-the-easy-way-2n6a)
+- [Building Your First Agentic AI: Complete Guide to MCP + Ollama Tool Calling](https://dev.to/ajitkumar/building-your-first-agentic-ai-complete-guide-to-mcp-ollama-tool-calling-2o8g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
