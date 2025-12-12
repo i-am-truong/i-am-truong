@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [NFTs Explained Simply – What’s Actually Happening in 2025?](https://dev.to/ribhavmodi/nfts-explained-simply-whats-actually-happening-in-2025-k8c)
+- [ISO 4217 Currency Reference for .NET — Strongly Typed and Production-Ready](https://dev.to/hawkn113/iso-4217-currency-reference-for-net-strongly-typed-and-production-ready-ck5)
 - [The Science of Hawk Eyes: Anatomy, Color Spectrum &amp; UV Sight](https://dev.to/birdiegeeks/the-science-of-hawk-eyes-anatomy-color-spectrum-uv-sight-1l22)
 - [Go From Zero to Depth — Part 3: Stack vs Heap &amp; How Escape Analysis Actually Works](https://dev.to/devflex-pro/go-from-zero-to-depth-part-3-stack-vs-heap-how-escape-analysis-actually-works-48dc)
 - [AI Insights: Where Do They Come From, Why They Exist, and Why They Matter at Enterprise Scale](https://dev.to/monahidalgo/ai-insights-where-do-they-come-from-why-they-exist-and-why-they-matter-at-enterprise-scale-bhp)
-- [How I Finally Set Up n8n Successfully After Months of Challenges &lpar;A Journey Worth Sharing!&rpar;](https://dev.to/prabhakar_jonnapally/how-i-finally-set-up-n8n-successfully-after-months-of-challenges-a-journey-worth-sharing-5fop)
-- [Importance of Power BI and how DAX functions make it powerful.](https://dev.to/wangare_/importance-of-power-bi-and-how-dax-functions-make-it-powerful-21g4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
