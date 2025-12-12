@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Planning to solve a new larger project](https://dev.to/slyang08/planning-to-solve-a-new-larger-project-1m0g)
-- [Full-Stack Developer | React | Next.js | Node.js | AI Integrations](https://dev.to/master-rj/full-stack-developer-react-nextjs-nodejs-ai-integrations-3bhb)
-- [How to add AI to the JPedal Viewer &lpar;Tutorial&rpar;](https://dev.to/idrsolutions/how-to-add-ai-to-the-jpedal-viewer-tutorial-27dh)
-- [Chìa khoá xe ô tô VinFast](https://dev.to/link_back_248d8e2428dabe9/chia-khoa-xe-o-to-vinfast-34g7)
-- [Chìa khoá xe điện VinFast](https://dev.to/link_back_248d8e2428dabe9/chia-khoa-xe-dien-vinfast-38b1)
+- [Announcing Dioxide v1.0.0: Delightful Dependency Injection for Python](https://dev.to/mikelane/announcing-dioxide-v100-delightful-dependency-injection-for-python-mb0)
+- [📅 Mark Your Calendar: The Startup Article Every Developer Needs is Coming](https://dev.to/thebitforge/mark-your-calendar-the-startup-article-every-developer-needs-is-coming-2oj)
+- [Computer vision for code: What PVS-Studio saw in OpenCV](https://dev.to/pvsdev/computer-vision-for-code-what-pvs-studio-saw-in-opencv-404c)
+- [Initializing ForgeRock DS from LDIF Files: A Step-by-Step Guide](https://dev.to/iamdevbox/initializing-forgerock-ds-from-ldif-files-a-step-by-step-guide-54jp)
+- [Deploy the Application and Version Control Using Amazon Elastic Beanstalk](https://dev.to/aws-builders/deploy-the-application-and-version-control-using-amazon-elastic-beanstalk-50dm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
