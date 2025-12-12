@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a FinTech Approval System with Symfony 7.4](https://dev.to/mattleads/building-a-fintech-approval-system-with-symfony-74-1hl1)
-- [Sigsync Review: A Reliable Email Signature Manager for Microsoft 365](https://dev.to/office365sign/sigsync-review-a-reliable-email-signature-manager-for-microsoft-365-4c45)
-- [Optimizing Fleet Routes in Cold Weather: Smart Use of Asset Tracker Data](https://dev.to/meghana_chauhan_cf8ea9a0d/optimizing-fleet-routes-in-cold-weather-smart-use-of-asset-tracker-data-4fjn)
-- [How We Balanced Camera Quality and Bandwidth in Our Video Meetings](https://dev.to/iason_paraskevopoulos_77d/how-we-balanced-camera-quality-and-bandwidth-in-our-video-meetings-49bk)
-- [Cloud Desktop Explained: My Journey Into the Future of Flexible Workspaces](https://dev.to/fionacampbell/cloud-desktop-explained-my-journey-into-the-future-of-flexible-workspaces-2jbb)
+- [Canonical Meaning Root and a Practical Go-To-Market Stack for AI Systems](https://dev.to/canonicalfunnel/canonical-meaning-root-and-a-practical-go-to-market-stack-for-ai-systems-kcb)
+- [A Better Way to Break Down Technical Problems Without Overthinking](https://dev.to/leena_malhotra/a-better-way-to-break-down-technical-problems-without-overthinking-300e)
+- [I Built a New Portfolio with Next.js and Three.js](https://dev.to/dododev95/i-built-a-new-portfolio-with-nextjs-and-threejs-152g)
+- [Bridging Cookie-Based SSR Authentication in TanStack Start with JWT-Protected NestJS APIs](https://dev.to/rihdusr/bridging-cookie-based-ssr-authentication-in-tanstack-start-with-jwt-protected-nestjs-apis-1ck9)
+- [This made me to learn Node.js :&rpar;](https://dev.to/dhruvjoshi9/this-made-me-to-learn-nodejs--apm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
