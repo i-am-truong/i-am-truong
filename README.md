@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What are 402, 403, 404, and 429 Errors in Web Scraping?](https://dev.to/sharonbull_ca141b00035fd6/what-are-402-403-404-and-429-errors-in-web-scraping-684)
-- [From SQL Server to SFTP — 5 Practical Options to Automate Secure File Deliveries](https://dev.to/vladam/from-sql-server-to-sftp-5-practical-options-to-automate-secure-file-deliveries-3630)
-- [Outil de Cybersécurité du Jour - Dec 12, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-dec-12-2025-4nob)
-- [Enhance Your Embedded Document Sending Experience with BoldSign](https://dev.to/boldsign/enhance-your-embedded-document-sending-experience-with-boldsign-njg)
-- [Unlocking LLM Secrets: 2025&#39;s Game-Changing Strategies](https://dev.to/hkj13/unlocking-llm-secrets-2025s-game-changing-strategies-5061)
+- [🧪 Selling Digital Privacy - My GDRP Toolkit Journey](https://dev.to/mart_young_ce778e4c31eb33/selling-digital-privacy-my-gdrp-toolkit-journey-k25)
+- [CloudFront Function vs Lambda@Edge - which one to use](https://dev.to/shajam/cloudfront-function-vs-lambdaedge-which-one-to-use-2dko)
+- [Backend, Frontend &amp; Product Walk Into a Meeting… And AI Docs Finally Make It Less Painful](https://dev.to/notadevbuthere/backend-frontend-product-walk-into-a-meeting-and-ai-docs-finally-make-it-less-painful-ibn)
+- [I Built ClipFlow: The Clipboard History macOS Should Have](https://dev.to/kotyada_saipraneeth_7be9/i-built-clipflow-the-clipboard-history-macos-should-have-11fn)
+- [Monetzly: Your Guide to AI Monetization for LLM Apps](https://dev.to/monetzly/monetzly-your-guide-to-ai-monetization-for-llm-apps-5fpc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
