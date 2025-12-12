@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Deep Dive: High-Level Architecture for Large-Scale API Migration](https://dev.to/soumia_g_9dc322fc4404cecd/deep-dive-high-level-architecture-for-large-scale-api-migration-13a5)
-- [Just Keep Coding](https://dev.to/brendon_oneill__/just-keep-coding-2pcp)
-- [Under the hood: React](https://dev.to/hmcodes/under-the-hood-react-3gbd)
-- [Glimmu](https://dev.to/lana_blink_8a114f3b5d9da1/glimmu-4op0)
-- [Festive Face Swap Ideas for Christmas, New Year &amp; Winter Holidays](https://dev.to/arzoo/festive-face-swap-ideas-for-christmas-new-year-winter-holidays-7ad)
+- [Planning to solve a new larger project](https://dev.to/slyang08/planning-to-solve-a-new-larger-project-1m0g)
+- [Full-Stack Developer | React | Next.js | Node.js | AI Integrations](https://dev.to/master-rj/full-stack-developer-react-nextjs-nodejs-ai-integrations-3bhb)
+- [How to add AI to the JPedal Viewer &lpar;Tutorial&rpar;](https://dev.to/idrsolutions/how-to-add-ai-to-the-jpedal-viewer-tutorial-27dh)
+- [Chìa khoá xe ô tô VinFast](https://dev.to/link_back_248d8e2428dabe9/chia-khoa-xe-o-to-vinfast-34g7)
+- [Chìa khoá xe điện VinFast](https://dev.to/link_back_248d8e2428dabe9/chia-khoa-xe-dien-vinfast-38b1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
