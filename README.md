@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Deep Dive: High-Level Architecture for Large-Scale API Migration](https://dev.to/soumia_g_9dc322fc4404cecd/deep-dive-high-level-architecture-for-large-scale-api-migration-13a5)
+- [Just Keep Coding](https://dev.to/brendon_oneill__/just-keep-coding-2pcp)
 - [Under the hood: React](https://dev.to/hmcodes/under-the-hood-react-3gbd)
 - [Glimmu](https://dev.to/lana_blink_8a114f3b5d9da1/glimmu-4op0)
 - [Festive Face Swap Ideas for Christmas, New Year &amp; Winter Holidays](https://dev.to/arzoo/festive-face-swap-ideas-for-christmas-new-year-winter-holidays-7ad)
-- [How to Fix the Annoying RDP Screen Freeze &lpar;TCP vs UDP&rpar;](https://dev.to/erkmenhost/how-to-fix-the-annoying-rdp-screen-freeze-tcp-vs-udp-3i7k)
-- [WPPConnect: The JavaScript Toolkit That Turns WhatsApp into a Powerful API](https://dev.to/githubopensource/wppconnect-the-javascript-toolkit-that-turns-whatsapp-into-a-powerful-api-4089)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
