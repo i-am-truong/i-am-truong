@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Evolution of Angular](https://dev.to/mina_golzari_dalir/the-evolution-of-angular-2o0a)
-- [The 6 Best AI Code Review Tools for Pull Requests in 2025](https://dev.to/heraldofsolace/the-6-best-ai-code-review-tools-for-pull-requests-in-2025-4n43)
-- [The Evolution of Angular: Key Features and Benefits from Version 12 to 21](https://dev.to/mina_golzari_dalir/the-evolution-of-angular-key-features-and-benefits-from-version-12-to-21-12a)
-- [Game Dev Digest — Issue #310 - Level Design, Indie Marketing, Keeping It Simple, and more](https://dev.to/gamedevdigest/game-dev-digest-issue-310-level-design-indie-marketing-keeping-it-simple-and-more-4b1h)
-- [How I Built a Chrome Extension That Juggles Local and Cloud AI](https://dev.to/ialijr/how-i-built-a-chrome-extension-that-juggles-local-and-cloud-ai-100n)
+- [Agent Factory Recap: Keith Ballinger on AI, The Future of Development, and Vibe Coding](https://dev.to/googleai/agent-factory-recap-keith-ballinger-on-ai-the-future-of-development-and-vibe-coding-4ldf)
+- [New Tool: Does Your Site Work for AI Agents?](https://dev.to/kiarashplusplus/new-tool-does-your-site-work-for-ai-agents-3kmc)
+- [MOQ vs WebRTC: Why Both Protocols Can And Should Exist In Live Streaming Space In 2025](https://dev.to/red5/moq-vs-webrtc-why-both-protocols-can-and-should-exist-in-live-streaming-space-in-2025-2lgg)
+- [Según la Superintendencia Financiera de México &lpar;SFE&rpar;, en el](https://dev.to/drcarlosruizviquez/segun-la-superintendencia-financiera-de-mexico-sfe-en-el-25da)
+- [A Technical Look at Verified Onion Links &amp; Trust-Scoring for Tor Hidden Services](https://dev.to/tor_bbb/a-technical-look-at-verified-onion-links-trust-scoring-for-tor-hidden-services-4ab2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
