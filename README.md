@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/torchiachristian/-26fj)
-- [Building a Searchable PowerShell Cmdlet Reference with CSV](https://dev.to/torchiachristian/building-a-searchable-powershell-cmdlet-reference-with-csv-23ac)
-- [Why I Ditched toString&lpar;&rpar; and Moved to a Pre-Bundled Bridge with Event-Driven CDP Injection](https://dev.to/johnonline35/why-i-ditched-tostring-and-moved-to-a-pre-bundled-bridge-with-event-driven-cdp-injection-5280)
-- [How Verdex Sees Inside Iframes: Event-Driven Multi-Frame Support](https://dev.to/johnonline35/how-verdex-sees-inside-iframes-event-driven-multi-frame-support-461k)
-- [Why Your API&#39;s Error Messages Fail When Called by an LLM &lpar;And How to Fix Them&rpar;](https://dev.to/johnonline35/why-your-apis-error-messages-fail-when-called-by-an-llm-and-how-to-fix-them-5a5d)
+- [Courts Split on AI Training Rights](https://dev.to/rawveg/courts-split-on-ai-training-rights-4g71)
+- [How to Export HEIC to PDF Without Losing Quality](https://dev.to/_7bdcbcaa99fbf1c9ea608c/how-to-export-heic-to-pdf-without-losing-quality-352b)
+- [The Cleanest Way to Turn HEIC Photos Into a Printable PDF](https://dev.to/_7bdcbcaa99fbf1c9ea608c/the-cleanest-way-to-turn-heic-photos-into-a-printable-pdf-e34)
+- [How to Practice Graph Problems on LeetCode for Beginners: A Structured Roadmap](https://dev.to/alex_hunter_44f4c9ed6671e/how-to-practice-graph-problems-on-leetcode-for-beginners-a-structured-roadmap-kk4)
+- [Handling HEIC Uploads in Web Apps — Real-World Solutions](https://dev.to/_7bdcbcaa99fbf1c9ea608c/handling-heic-uploads-in-web-apps-real-world-solutions-1gdp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
