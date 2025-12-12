@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [LogWard 0.3.0: Full SIEM Dashboard, C# SDK, and Our Roadmap](https://dev.to/polliog/logward-030-full-siem-dashboard-c-sdk-and-our-roadmap-1k1f)
-- [Building a Browser-Based Voice-to-Text App with the Web Speech API](https://dev.to/digitalwareshub/building-a-browser-based-voice-to-text-app-with-the-web-speech-api-2ni4)
-- [Never Commit Secrets Again: Generate .env Files from AWS Secrets Manager](https://dev.to/mateenali66/never-commit-secrets-again-generate-env-files-from-aws-secrets-manager-46f4)
-- [The Covenant Guardian](https://dev.to/paulo_abbcba03b4df70572fc/the-covenant-guardian-4547)
-- [2025-12-12 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-12-daily-ai-news-1j74)
+- [LiteLLM Broke at 300 RPS in Production. Here&#39;s How We Fixed It](https://dev.to/debmckinney/litellm-broke-at-300-rps-in-production-heres-how-we-fixed-it-5ej)
+- [I got tired of Audit tools that just list problems, so I built one that writes the fixes &lpar;and roasts you&rpar;](https://dev.to/mariuscg/i-got-tired-of-audit-tools-that-just-list-problems-so-i-built-one-that-writes-the-fixes-and-25bh)
+- [Build a YouTube Live Clone with Next.js, Clerk, and TailwindCSS - Part Two](https://dev.to/tropicolx/build-a-youtube-live-clone-with-nextjs-clerk-and-tailwindcss-part-two-5cfo)
+- [Why I Built My Personal Developer Portfolio &lpar;and What You Can Learn From It&rpar;](https://dev.to/badhonai/why-i-built-my-personal-developer-portfolio-and-what-you-can-learn-from-it-2oib)
+- [An Analysis of Arbitrage Markets Across Ethereum, Solana, Optimism, and Starknet &lpar;2024-2025&rpar;](https://dev.to/extropy/an-analysis-of-arbitrage-markets-across-ethereum-solana-optimism-and-starknet-2024-2025-269i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
