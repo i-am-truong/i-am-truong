@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [bc_crunch : Compression Algorithm Documentation](https://dev.to/geolm/bccrunch-compression-algorithm-documentation-4fpo)
-- [From A100 to H200: How to Choose the Right GPU for Training &amp; Inference in 2025](https://dev.to/aquanode/how-to-reduce-gpu-cost-by-more-than-40-for-ml-workloads-473p)
-- [How I Built ReadMenuAI: Solving the &quot;Poetic&quot; Chinese Menu Problem with GenAI](https://dev.to/lianbo_zhou/how-i-built-readmenuai-solving-the-poetic-chinese-menu-problem-with-genai-23f6)
-- [Embed HTML into Word Documents with docx.js the Easy Way](https://dev.to/jsstampede/embed-html-into-word-documents-with-docxjs-the-easy-way-2n6a)
-- [Building Your First Agentic AI: Complete Guide to MCP + Ollama Tool Calling](https://dev.to/ajitkumar/building-your-first-agentic-ai-complete-guide-to-mcp-ollama-tool-calling-2o8g)
+- [The Science of Hawk Eyes: Anatomy, Color Spectrum &amp; UV Sight](https://dev.to/birdiegeeks/the-science-of-hawk-eyes-anatomy-color-spectrum-uv-sight-1l22)
+- [Go From Zero to Depth — Part 3: Stack vs Heap &amp; How Escape Analysis Actually Works](https://dev.to/devflex-pro/go-from-zero-to-depth-part-3-stack-vs-heap-how-escape-analysis-actually-works-48dc)
+- [AI Insights: Where Do They Come From, Why They Exist, and Why They Matter at Enterprise Scale](https://dev.to/monahidalgo/ai-insights-where-do-they-come-from-why-they-exist-and-why-they-matter-at-enterprise-scale-bhp)
+- [How I Finally Set Up n8n Successfully After Months of Challenges &lpar;A Journey Worth Sharing!&rpar;](https://dev.to/prabhakar_jonnapally/how-i-finally-set-up-n8n-successfully-after-months-of-challenges-a-journey-worth-sharing-5fop)
+- [Importance of Power BI and how DAX functions make it powerful.](https://dev.to/wangare_/importance-of-power-bi-and-how-dax-functions-make-it-powerful-21g4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
