@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Migrating to the Next.js App Router &lpar;or: how I learned to stop worrying and love Server Actions&rpar;](https://dev.to/alexwilson/migrating-to-the-nextjs-app-router-or-how-i-learned-to-stop-worrying-and-love-server-actions-m2e)
+- [Mastering Gen AI Videos: Preventing Identity Shift &amp; Fabrications with a Robu...](https://dev.to/mabualzait/mastering-gen-ai-videos-preventing-identity-shift-fabrications-with-a-robu-5735)
+- [🔑 AWS 101: The First Step to the Cloud - Creating Your Essential SSH Key Pair!](https://dev.to/hritikraj8804/aws-101-the-first-step-to-the-cloud-creating-your-essential-ssh-key-pair-5f1h)
+- [Should I Do Grind 75 or Blind 75 in 2024? A Complete Comparison Guide](https://dev.to/alex_hunter_44f4c9ed6671e/should-i-do-grind-75-or-blind-75-in-2024-a-complete-comparison-guide-10h9)
 - [Meta&#39;s 2026 Ad Targeting Overhaul: The Performance Marketer&#39;s Survival Guide](https://dev.to/synergistdigitalmedia/metas-2026-ad-targeting-overhaul-the-performance-marketers-survival-guide-4cei)
-- [🚀Getting Started With Google Cloud Build](https://dev.to/latchudevops/getting-started-with-google-cloud-build-24o0)
-- [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-j2p)
-- [Laravel, Symfony, Doppar in 2026 — Which PHP Framework Should You Pick](https://dev.to/mahedi1501/laravel-symfony-doppar-in-2026-which-php-framework-should-you-pick-26f8)
-- [Why I’m Learning Web3: A 60-Day Journey from Beginner to DevRel/Community](https://dev.to/ribhavmodi/why-im-learning-web3-a-60-day-journey-from-beginner-to-devrelcommunity-2n9c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
