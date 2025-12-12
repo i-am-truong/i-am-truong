@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Courts Split on AI Training Rights](https://dev.to/rawveg/courts-split-on-ai-training-rights-4g71)
-- [How to Export HEIC to PDF Without Losing Quality](https://dev.to/_7bdcbcaa99fbf1c9ea608c/how-to-export-heic-to-pdf-without-losing-quality-352b)
-- [The Cleanest Way to Turn HEIC Photos Into a Printable PDF](https://dev.to/_7bdcbcaa99fbf1c9ea608c/the-cleanest-way-to-turn-heic-photos-into-a-printable-pdf-e34)
-- [How to Practice Graph Problems on LeetCode for Beginners: A Structured Roadmap](https://dev.to/alex_hunter_44f4c9ed6671e/how-to-practice-graph-problems-on-leetcode-for-beginners-a-structured-roadmap-kk4)
-- [Handling HEIC Uploads in Web Apps — Real-World Solutions](https://dev.to/_7bdcbcaa99fbf1c9ea608c/handling-heic-uploads-in-web-apps-real-world-solutions-1gdp)
+- [Complete Onboarding Breakdown: 9 Steps from First Screen to Paywall](https://dev.to/paywallpro/complete-onboarding-breakdown-9-steps-from-first-screen-to-paywall-2j7)
+- [Looking for a Tax File Number?](https://dev.to/fast_rabbit_9d94d696ee6b3/looking-for-a-tax-file-number-52no)
+- [🔥Java Spring Framework &amp; Spring Boot : A simple, no-nonsense guide that actually makes sense](https://dev.to/kaustubhyerkade/java-spring-framework-spring-boot-a-simple-no-nonsense-guide-that-actually-makes-sense-ed)
+- [🚀 Panduan Hosting Website di Raspberry Pi + Subdomain](https://dev.to/1amkaizen/panduan-hosting-website-di-raspberry-pi-subdomain-2pe)
+- [🚀 Terraform Day 5: Mastering Variables — The Key to Clean, Reusable Infrastructure Code](https://dev.to/jeeva_5c84a254e90842940dd/terraform-day-5-mastering-variables-the-key-to-clean-reusable-infrastructure-code-3m10)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
