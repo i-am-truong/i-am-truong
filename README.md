@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🧱Understanding Artifacts and Artifact Repositories in Google Cloud CI/CD](https://dev.to/latchudevops/understanding-artifacts-and-artifact-repositories-in-google-cloud-cicd-2lbh)
-- [How AI Boosts HubSpot Automation and Cuts Manual Tasks](https://dev.to/anthony-rodgers/how-ai-boosts-hubspot-automation-and-cuts-manual-tasks-4218)
-- [Transforming Engineering Knowledge Access with Data Version](https://dev.to/data_version_98a64bde303d/transforming-engineering-knowledge-access-with-data-version-42d1)
-- [Why Big Data Platforms Return to SQL？](https://dev.to/esproc_spl/why-big-data-platforms-return-to-sql-4677)
-- [🏠 Self-Hosted AI Code Generation: The Complete Guide to Building Your Private AI Coding Assistant](https://dev.to/techstuff/self-hosted-ai-code-generation-the-complete-guide-to-building-your-private-ai-coding-assistant-4ncj)
+- [Building a FinTech Approval System with Symfony 7.4](https://dev.to/mattleads/building-a-fintech-approval-system-with-symfony-74-1hl1)
+- [Sigsync Review: A Reliable Email Signature Manager for Microsoft 365](https://dev.to/office365sign/sigsync-review-a-reliable-email-signature-manager-for-microsoft-365-4c45)
+- [Optimizing Fleet Routes in Cold Weather: Smart Use of Asset Tracker Data](https://dev.to/meghana_chauhan_cf8ea9a0d/optimizing-fleet-routes-in-cold-weather-smart-use-of-asset-tracker-data-4fjn)
+- [How We Balanced Camera Quality and Bandwidth in Our Video Meetings](https://dev.to/iason_paraskevopoulos_77d/how-we-balanced-camera-quality-and-bandwidth-in-our-video-meetings-49bk)
+- [Cloud Desktop Explained: My Journey Into the Future of Flexible Workspaces](https://dev.to/fionacampbell/cloud-desktop-explained-my-journey-into-the-future-of-flexible-workspaces-2jbb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
