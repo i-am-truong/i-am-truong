@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Environment Includes Soft, Hard, and Body](https://dev.to/stakiran/the-environment-includes-soft-hard-and-body-50kd)
+- [Yellowbrick Data - Community Edition Blog](https://dev.to/hunter-dev/yellowbrick-data-community-edition-blog-1abb)
+- [Escaping Localhost](https://dev.to/jongwan93/escaping-localhost-3kc)
+- [Reflections on My Learning Journey in the 5-Day AI Agents Intensive](https://dev.to/silali_banerjee_e845914ff/reflections-on-my-learning-journey-in-the-5-day-ai-agents-intensive-253e)
 - [Smart Escrow Post #2: What is WebAssembly?](https://dev.to/ripplexdev/smart-escrow-post-2-what-is-webassembly-4of3)
-- [What Commitment Devices Can Do for Your Productivity &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/what-commitment-devices-can-do-for-your-productivity-bite-size-article-4dl6)
-- [Basic Linux commands every AI tinkerer should know](https://dev.to/crow/basic-linux-commands-every-ai-tinkerer-should-know-5gpn)
-- [Write Powerful System Prompts | Prompt Engineering - Build AI Platforms From Scratch #3](https://dev.to/goldsteinnick/write-powerful-system-prompts-prompt-engineering-build-ai-platforms-from-scratch-3-42h3)
-- [Setting Up Your Platform Prereqs - Build AI Platforms From Scratch #2](https://dev.to/goldsteinnick/setting-up-your-platform-prereqs-build-ai-platforms-from-scratch-2-59g4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
