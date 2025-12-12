@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Shipping Meaningful Open Source Work](https://dev.to/aubreyddd/shipping-meaningful-open-source-work-3p3o)
 - [Career Signals API — An AI-Powered Resume &amp; Role-Fit Analysis Engine](https://dev.to/tawe/career-signals-api-an-ai-powered-resume-role-fit-analysis-engine-42m1)
 - [🚀 Creando una API REST completa con AWS CDK y LocalStack: De cero a producción local](https://dev.to/ecordero/creando-una-api-rest-completa-con-aws-cdk-y-localstack-de-cero-a-produccion-local-1e4b)
 - [US AI Policy News Today: Key Updates &amp; Government Actions](https://dev.to/techdecodedly/us-ai-policy-news-today-key-updates-government-actions-1kjp)
 - [Mastering Agent Flows V2 and the Model Context Protocol](https://dev.to/onlineproxyio/mastering-agent-flows-v2-and-the-model-context-protocol-54g6)
-- [RAG is more than Vector Search](https://dev.to/neuml/rag-is-more-than-vector-search-2ece)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
