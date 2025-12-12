@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Antigravity&#39;s Accidental Apocalypse: Why AI Coding Agents Need Real Guardrails](https://dev.to/naresh_007/antigravitys-accidental-apocalypse-why-ai-coding-agents-need-real-guardrails-3p32)
-- [Terraform Day-3](https://dev.to/jayanth_kumardasari_d34c/terraform-day-3-118a)
-- [🚀 Terraform Day 7: Mastering Type Constraints — The Foundation of Reliable IaC](https://dev.to/jeeva_5c84a254e90842940dd/terraform-day-7-mastering-type-constraints-the-foundation-of-reliable-iac-2im3)
-- [Choosing the Right Data Structure in Python for Automation Projects](https://dev.to/godhirajcode/choosing-the-right-data-structure-in-python-for-automation-projects-hj5)
-- [Q1 2026 Marketing Planning: A Framework That Survives Contact With Reality](https://dev.to/synergistdigitalmedia/q1-2026-marketing-planning-a-framework-that-survives-contact-with-reality-4nja)
+- [The Covenant Guardian](https://dev.to/paulo_abbcba03b4df70572fc/the-covenant-guardian-4547)
+- [2025-12-12 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-12-daily-ai-news-1j74)
+- [1683. Invalid Tweets | LeetCode | SQL 50 | Interview Questions | MySQL](https://dev.to/debeshpg90/1683-invalid-tweets-leetcode-sql-50-interview-questions-mysql-18gg)
+- [Packaging for Fedora: General purpose cookiecutter template](https://dev.to/r0x0d/packaging-for-fedora-general-purpose-cookiecutter-template-4kgi)
+- [1148. Article Views I | LeetCode | SQL 50 | Interview Questions | MySQL](https://dev.to/debeshpg90/1148-article-views-i-leetcode-sql-50-interview-questions-mysql-3l1m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
