@@ -120,11 +120,17 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Founders, what are you building this week?
+
+I&#39;m working on a platform for makers like us. Launch your startup for $0 and build in public with us.
+
+Submit your startup today: https://pavelaunch.com
+
+#solopreneur #buildinpublic #saas](https://dev.to/thecodeinfluencer/founders-what-are-you-building-this-week-im-working-on-a-platform-for-makers-like-us-launch-39le)
+- [Запобігаємо Шахрайству з Go: Будуємо Потужну Anti-Fraud Систему](https://dev.to/4mars/zapobighaiemo-shakhraistvu-z-go-buduiemo-potuzhnu-anti-fraud-sistiemu-3lgo)
 - [Shipping Meaningful Open Source Work](https://dev.to/aubreyddd/shipping-meaningful-open-source-work-3p3o)
-- [Career Signals API — An AI-Powered Resume &amp; Role-Fit Analysis Engine](https://dev.to/tawe/career-signals-api-an-ai-powered-resume-role-fit-analysis-engine-42m1)
-- [🚀 Creando una API REST completa con AWS CDK y LocalStack: De cero a producción local](https://dev.to/ecordero/creando-una-api-rest-completa-con-aws-cdk-y-localstack-de-cero-a-produccion-local-1e4b)
-- [US AI Policy News Today: Key Updates &amp; Government Actions](https://dev.to/techdecodedly/us-ai-policy-news-today-key-updates-government-actions-1kjp)
-- [Mastering Agent Flows V2 and the Model Context Protocol](https://dev.to/onlineproxyio/mastering-agent-flows-v2-and-the-model-context-protocol-54g6)
+- [Tired of Vue toast libraries, so I built my own &lpar;headless, Vue 3, TS-first&rpar;](https://dev.to/adrianjanocko/tired-of-vue-toast-libraries-so-i-built-my-own-headless-vue-3-ts-first-1h8h)
+- [AI is either the biggest bubble in history or the biggest opportunity. And honestly? Both might be true.](https://dev.to/whykislay/ai-is-either-the-biggest-bubble-in-history-or-the-biggest-opportunity-and-honestly-both-might-be-3g17)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
