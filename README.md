@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Your UEBA Isn’t Working &lpar;and how to fix it&rpar;](https://dev.to/alvinslee/why-your-ueba-isnt-working-and-how-to-fix-it-5b59)
-- [How to Connect VAPI to Google Calendar for Appointment Scheduling](https://dev.to/callstacktech/how-to-connect-vapi-to-google-calendar-for-appointment-scheduling-kpj)
-- [The Anti-Framework Idea that turned into FUBARos - Clippy’s Revenge](https://dev.to/j4s0nc/the-anti-framework-idea-that-turned-into-fubaros-clippys-revenge-5g59)
-- [Improving navigation in long Google AI Studio chats with a userscript](https://dev.to/axl_43df979e16ffa14c/improving-navigation-in-long-google-ai-studio-chats-with-a-userscript-3pbl)
-- [𝗚𝗿𝗮𝘁𝗲𝗳𝘂𝗹 𝘁𝗼 𝗯𝗲 𝗥𝗮𝗻𝗸𝗲𝗱 𝗔𝗺𝗼𝗻𝗴 𝘁𝗵𝗲 𝗠𝗼𝘀𝘁 𝗔𝗰𝘁𝗶𝘃𝗲 𝗚𝗶𝘁𝗛𝘂𝗯 𝗨𝘀𝗲𝗿𝘀 𝗶𝗻 𝗡𝗶𝗴𝗲𝗿𝗶𝗮 🇳🇬💻](https://dev.to/engripaye/-35da)
+- [Building vs. Orchestrating: The New Founder’s Dilemma in the AI Era](https://dev.to/jaideepparashar/building-vs-orchestrating-the-new-founders-dilemma-in-the-ai-era-i2l)
+- [How a 3-Tier Architecture Achieves High Availability on AWS](https://dev.to/irfansatrio/how-a-3-tier-architecture-achieves-high-availability-on-aws-2901)
+- [When Deep Learning Meets the Devil&#39;s Wheel: RL for European Roulette &lpar;Part 1&rpar;&quot;](https://dev.to/mauriciog87/when-deep-learning-meets-the-devils-wheel-rl-for-european-roulette-part-1-8c8)
+- [This Week in Rust Trending: Storage, AI Agents, and Real‑World Infra](https://dev.to/badmonster0/this-week-in-rust-trending-storage-ai-agents-and-real-world-infra-2af0)
+- [QuickCart A Next.js, Prisma, and Better Auth platform for side-hustlers selling on WhatsApp.](https://dev.to/saidmounaim/quickcart-a-nextjs-prisma-and-better-auth-platform-for-side-hustlers-selling-on-whatsapp-4i8g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
