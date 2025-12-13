@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [⚛ MCP Explained: A Simple Guide 📜 to AI 🤖 Agents](https://dev.to/hemant_007/mcp-explained-a-simple-guide-to-ai-agents-3b2l)
+- [Architecting Large-Scale Migrations with Fannie Mae and the NRO &lpar;AWS re:Invent 2025 – WPS201&rpar;](https://dev.to/ahmedadel/architecting-large-scale-migrations-with-fannie-mae-and-the-nro-aws-reinvent-2025-wps201-5582)
 - [Getting Started with ReactNextPlayer: A Modern React Video Player Component](https://dev.to/rakibur_rahaman_06e134d54/getting-started-with-reactnextplayer-a-modern-react-video-player-component-2ndk)
+- [Shopee Keyword Scraping: Search Trends You Can Actually Use](https://dev.to/easydata123/shopee-keyword-scraping-search-trends-you-can-actually-use-4fhc)
 - [Women’s Wardrobe Essentials: Building a Stylish and Functional Closet](https://dev.to/houseofsiyaab/womens-wardrobe-essentials-building-a-stylish-and-functional-closet-p0b)
-- [Reclaim Your Digital Life: Timelinize Unifies All Your Memories Into One Self-Hosted Story](https://dev.to/githubopensource/reclaim-your-digital-life-timelinize-unifies-all-your-memories-into-one-self-hosted-story-4el5)
-- [Slow programming - why I don&#39;t let AI generate production code for me](https://dev.to/andreas_mller_2fd27cf578/slow-programming-why-i-dont-let-ai-generate-production-code-for-me-588j)
-- [Building a Production-Ready Webhook Delivery System in 5 Minutes](https://dev.to/restdbjones/building-a-production-ready-webhook-delivery-system-in-5-minutes-5bhe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
