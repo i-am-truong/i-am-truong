@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [패키지 매니저 파묘🪦](https://dev.to/algoorgoal/paekiji-maenijeo-pamyo-gf5)
 - [PS5 Exclusive Saros Delayed, But Pre-Orders Are Live Right Now](https://dev.to/aibuddyinc/ps5-exclusive-saros-delayed-but-pre-orders-are-live-right-now-5glg)
 - [Redefining My Understanding of AI Agents: A Five-Day Learning Experience](https://dev.to/md_kaisar_122cb42ab77b8d5/redefining-my-understanding-of-ai-agents-a-five-day-learning-experience-2g2h)
-- [🌌 How I Built a GROK-Inspired Starfield &amp; Shooting Stars Using HTML Canvas ✨](https://dev.to/usman_awan/how-i-built-a-grok-inspired-starfield-shooting-stars-using-html-canvas-3872)
-- [Case Study: How I Reduced React Bundle Size by 68%](https://dev.to/fhaponenka/case-study-how-i-reduce-react-bundle-size-by-68-84m)
-- [Master Macro: Your Personal Economic Playbook](https://dev.to/thinkaddict/master-macro-your-personal-economic-playbook-4cbg)
+- [Production Timing and Counting PLC Data Acquisition IoT System Solution](https://dev.to/wideiot/production-timing-and-counting-plc-data-acquisition-iot-system-solution-18m1)
+- [Help Center Structure Explained for Better Self-Service](https://dev.to/freepixel11/help-center-structure-explained-for-better-self-service-3mfd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
