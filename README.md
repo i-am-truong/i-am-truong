@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Excited to Join the Community!](https://dev.to/godid1996/excited-to-join-the-community-1kgi)
-- [Contributing to streamplace](https://dev.to/elsad_humbetli_0971c995ce/contributing-to-streamplace-4o86)
-- [RAG for Developers — Built for Code, Not Just Text &lpar;Review Requested&rpar;](https://dev.to/demon_slayer_3e2c6835f1b2/rag-for-developers-built-for-code-not-just-text-review-requested-10d)
-- [Easy Ledger CLI: a management tool for ledger-cli ledgers](https://dev.to/mikgross/easy-ledger-cli-a-management-tool-for-ledger-cli-ledgers-fd4)
-- [BMW EVs Gain Access to Tesla Superchargers:](https://dev.to/deeppressanalysis/bmw-evs-gain-access-to-tesla-superchargers-m61)
+- [Contribute to Any GitHub Repository Anonymously — No Account, No Trace 👻](https://dev.to/livrasand/contribute-to-any-github-repository-anonymously-no-account-no-trace-385h)
+- [Play lichess from your terminal](https://dev.to/thomasmauran/play-lichess-from-your-terminal-4p47)
+- [Why is backend coding have a bit close similarities to Java....](https://dev.to/ezeudu_chibuike_4d75833bd/why-is-backend-coding-have-a-bit-close-similarities-to-java-f56)
+- [From Repo to Movement: Building an Open Source Project and Its Community](https://dev.to/badmonster0/from-repo-to-movement-building-an-open-source-project-and-its-community-215i)
+- [Cyoda is a Developer-First, Cloud-Native Application Platform](https://dev.to/sotir_kostadinov_d78ea470/cyoda-is-a-developer-first-cloud-native-application-platform-325j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
