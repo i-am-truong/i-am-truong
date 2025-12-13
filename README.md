@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your Office Chair Is Ruining Your Focus &lpar;Fix It in 5 Minutes&rpar;](https://dev.to/jens_r_4ac124fba483a5d950/your-office-chair-is-ruining-your-focus-fix-it-in-5-minutes-4m5)
-- [Stop Screenshotting PDFs: A Dev&#39;s Guide to Extracting High-Res Images](https://dev.to/pdfconverlabs/stop-screenshotting-pdfs-a-devs-guide-to-extracting-high-res-images-41b3)
-- [3606. Coupon Code Validator](https://dev.to/mdarifulhaque/3606-coupon-code-validator-56b0)
-- [Pips Game – A Minimalist Logic Puzzle That Actually Makes You Think](https://dev.to/sgamer_560ef5490592e4dc9/pips-game-a-minimalist-logic-puzzle-that-actually-makes-you-think-4kio)
-- [Building A Payment Processor Backend](https://dev.to/chisimdi_ejoh_af371a63d43/building-a-payment-processor-backend-5488)
+- [Mastering Geospatial Algorithms: A Deep Dive into Maps, Polygons, and Distance Calculations](https://dev.to/krlz/mastering-geospatial-algorithms-a-deep-dive-into-maps-polygons-and-distance-calculations-43la)
+- [I Built a Cozy Pixel Art Bouquet Maker Using HTML Canvas](https://dev.to/ycnkc/i-built-a-cozy-pixel-art-bouquet-maker-using-html-canvas-2k8a)
+- [GitHub Explained for Students: What It Is, Why to Use It, and How It Helps Your Future](https://dev.to/keerthana_696356/github-explained-for-students-what-it-is-why-to-use-it-and-how-it-helps-your-future-2ma5)
+- [It’s been a week since I shared my chat app — and I’m trying to understand why it didn’t click](https://dev.to/bug-free-dev/its-been-a-week-since-i-shared-my-chat-app-and-im-trying-to-understand-why-it-didnt-click-19k0)
+- [How I Built an AI That Finds Profitable Niches Before They Trend](https://dev.to/silver_pengroup_a1f5d44d/how-i-built-an-ai-that-finds-profitable-niches-before-they-trend-hma)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
