@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing the Three AWS Governance Pillars with Terraform](https://dev.to/lucasdecamargo/introducing-the-three-aws-governance-pillars-with-terraform-mkk)
+- [Git Golden Rules](https://dev.to/harry_tanama_51571ebf90b6/git-golden-rules-32m5)
+- [RAG Chunking Strategies Deep Dive](https://dev.to/vishalmysore/rag-chunking-strategies-deep-dive-2l72)
 - [Trying to understand SOLID Principles with C#](https://dev.to/prasadg/trying-to-understand-solid-principles-with-c-693)
 - [🚀 Simplify Your C# Collections with the Spread Operator &lpar;..&rpar;](https://dev.to/elmehditaii/simplify-your-c-collections-with-the-spread-operator--3d8m)
-- [How Does Amex Process Millions of Transactions in Milliseconds](https://dev.to/evan-lausier/how-does-amex-process-millions-of-transactions-in-milliseconds-89i)
-- [KV Caching in LLMs: How It Speeds Up Text Generation](https://dev.to/rijultp/kv-caching-in-llms-how-it-speeds-up-text-generation-459j)
-- [Where to Find Elixir Jobs in 2025](https://dev.to/tspenov/where-to-find-elixir-jobs-in-2025-4hd3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
