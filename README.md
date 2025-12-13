@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Tokenomics – Why Token Design Matters](https://dev.to/ribhavmodi/understanding-tokenomics-why-token-design-matters-3m5k)
-- [IA agentique appliquée aux ressources humaines : où est mon RH ?](https://dev.to/thibaut_blaizot_ed17b77fd/ia-agentique-appliquee-aux-ressources-humaines-ou-est-mon-rh--4oel)
-- [Basic CRUD using Java Spring Boot](https://dev.to/akash_vadakkeveetil/basic-crud-using-java-spring-boot-2l07)
-- [Decompiling B2B Marketing: 5 Data-Driven Trends Devs Should Watch](https://dev.to/michaelaiglobal/decompiling-b2b-marketing-5-data-driven-trends-devs-should-watch-5bgb)
-- [Quick Start: Build a Ready-to-Use AWS VPC in Minutes](https://dev.to/irfansatrio/quick-start-launch-a-ready-to-use-vpc-setup-in-minutes-1449)
+- [From Algorithms to Adventures](https://dev.to/dchakarov/from-algorithms-to-adventures-1ffk)
+- [Configuring HTTP Proxy for gRPC in C# Without Environment Variables](https://dev.to/akashp1712/configuring-http-proxy-for-grpc-in-c-without-environment-variables-4a9n)
+- [December countdown calendar](https://dev.to/preetha_vaishnavi_2b82358/december-countdown-calendar-5h12)
+- [Modern web development tools 2025 - Mastering Modern Web Coding Tools...](https://dev.to/ash_dubai/modern-web-development-tools-2025-mastering-modern-web-coding-tools-k8b)
+- [Master Java ArrayList Methods: A Complete Guide with Examples &amp; Real Use Cases](https://dev.to/satyam_gupta_0d1ff2152dcc/master-java-arraylist-methods-a-complete-guide-with-examples-real-use-cases-3i0g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
