@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Advent of Code 2025: Waking Up With Puzzles](https://dev.to/yordiverkroost/advent-of-code-2025-waking-up-with-puzzles-flm)
+- [Why most financial apps fail before the code ever does](https://dev.to/nexa_operationfinancial/why-most-financial-apps-fail-before-the-code-ever-does-3951)
+- [Building a Security Scanner for MCP Servers](https://dev.to/teycir/building-a-security-scanner-for-mcp-servers-41am)
 - [Love for Go and Rust rant!](https://dev.to/bvdeenen/love-for-go-and-rust-rant-46ha)
-- [What is the Model Context Protocol &lpar;MCP&rpar; Server? The Key to Connecting AI to the Real World](https://dev.to/bamacharan/what-is-the-model-context-protocol-mcp-server-the-key-to-connecting-ai-to-the-real-world-21nf)
-- [📅 Day 15 | AWS SNS &amp; SQS — Messaging Services in AWS 🚀](https://dev.to/sudarshan_yadav/day-15-aws-sns-sqs-messaging-services-in-aws-29ec)
-- [Contributing to Tableau-MCP](https://dev.to/elsad_humbetli_0971c995ce/contributing-to-tableau-mcp-1732)
-- [Mastering Geospatial Algorithms: A Deep Dive into Maps, Polygons, and Distance Calculations](https://dev.to/krlz/mastering-geospatial-algorithms-a-deep-dive-into-maps-polygons-and-distance-calculations-43la)
+- [iPhone 17 Rumors: Everything We Know About Apples Next-Gen Flagship](https://dev.to/bamacharan/iphone-17-rumors-everything-we-know-about-apples-next-gen-flagship-375m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
