@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [BMW EVs Gain Access to Tesla Superchargers:](https://dev.to/deeppressanalysis/bmw-evs-gain-access-to-tesla-superchargers-m61)
+- [Why Your Selenium Tests Fail on AI Chatbots &lpar;And How to Fix It&rpar;](https://dev.to/godhirajcode/why-your-selenium-tests-fail-on-ai-chatbots-and-how-to-fix-it-24nh)
 - [PayFlow —First Payment Management System Submission for the Xano AI-Powered Backend Challenge](https://dev.to/volde/payflow-first-payment-management-systemsubmission-for-the-xano-ai-powered-backend-challenge-1276)
 - [How I implemented recurring features in Trevidia](https://dev.to/uchenna_trevidia/how-i-implemented-recurring-features-in-trevidia-3lop)
 - [Write a JWT Login Test Using Cypress](https://dev.to/xb16/write-a-jwt-login-test-using-cypress-43pp)
-- [AltSchool Of Engineering Tinyuka’24 Month 10 Week 3](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-10-week-3-1ifn)
-- [From PyTorch to Shipping local AI on Android](https://dev.to/embedl-hub/from-pytorch-to-shipping-local-ai-on-android-6g9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
