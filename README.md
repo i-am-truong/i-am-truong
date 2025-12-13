@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Your Office Chair Is Ruining Your Focus &lpar;Fix It in 5 Minutes&rpar;](https://dev.to/jens_r_4ac124fba483a5d950/your-office-chair-is-ruining-your-focus-fix-it-in-5-minutes-4m5)
+- [3606. Coupon Code Validator](https://dev.to/mdarifulhaque/3606-coupon-code-validator-56b0)
+- [Pips Game – A Minimalist Logic Puzzle That Actually Makes You Think](https://dev.to/sgamer_560ef5490592e4dc9/pips-game-a-minimalist-logic-puzzle-that-actually-makes-you-think-4kio)
 - [Building A Payment Processor Backend](https://dev.to/chisimdi_ejoh_af371a63d43/building-a-payment-processor-backend-5488)
-- [Inside Memcortex: A Lightweight Semantic Memory Layer for LLMs](https://dev.to/sobowalebukola/inside-memcortex-a-lightweight-semantic-memory-layer-for-llms-1eki)
-- [How I Built Self‑Healing Kubernetes Platforms &lpar;and Cut On‑Call by 35%&rpar;](https://dev.to/gaurav03/how-i-built-self-healing-kubernetes-platforms-and-cut-on-call-by-35-3mj6)
-- [Hands-On Lab 1: Building Custom Docker Image with Dockerfile](https://dev.to/shakol/hands-on-lab-1-building-custom-docker-image-with-dockerfile-4nbi)
-- [Closing the Loop: How Reinforcement Learning is Changing AI Coding](https://dev.to/getpochi/closing-the-loop-how-reinforcement-learning-is-changing-ai-coding-4en6)
+- [Dockerfile: CMD vs ENTRYPOINT](https://dev.to/akshaygore/dockerfile-cmd-vs-entrypoint-4gf4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
