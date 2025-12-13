@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What Actually Determines a File&#39;s Type](https://dev.to/amoabakelvin/what-actually-determines-a-files-type-48d0)
-- [Java Keywords](https://dev.to/lakshmi_g_74c225d5ca0b272/java-keywords-2n22)
-- [Safeguarding Your React Native App: Protecting Screens for Unauthorized Users](https://dev.to/rogasper/safeguarding-your-react-native-app-protecting-screens-for-unauthorized-users-2npb)
-- [Automating Dockerized App Deployment with a Bash Script](https://dev.to/ifeanyi_nworji/automating-dockerized-app-deployment-with-a-bash-script-41im)
-- [Vibe Coding Is Empty: Why The Future Belongs To Devs Who Think, Not Just Type](https://dev.to/aiwithapex/vibe-coding-is-empty-why-the-future-belongs-to-devs-who-think-not-just-type-2pkh)
+- [Meet parallelHTTP — A Simple Tool to Stress-Test Your APIs](https://dev.to/nicumicle/meet-parallelhttp-a-simple-tool-to-stress-test-your-apis-45ph)
+- [Simply Learn - An AI-First LMS with Next.js 16 &amp; Xano](https://dev.to/aryprogrammer/simply-learn-an-ai-first-lms-with-nextjs-16-xano-2i9h)
+- [Boost CSAT with VAD, Backchanneling, and Sentiment Routing](https://dev.to/callstacktech/boost-csat-with-vad-backchanneling-and-sentiment-routing-4nhj)
+- [Auto-stop EC2 on low CPU, then auto-start on HTTPS request — how to keep a “front door” while the instance is off?](https://dev.to/jawherkassas/auto-stop-ec2-on-low-cpu-then-auto-start-on-https-request-how-to-keep-a-front-door-while-the-58f)
+- [Stuck for Hours? The &#39;Productive Struggle&#39; Rule for LeetCode](https://dev.to/alex_hunter_44f4c9ed6671e/stuck-for-hours-the-productive-struggle-rule-for-leetcode-2ab6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
