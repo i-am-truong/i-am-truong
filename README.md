@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Replaced a Docker-based Microservice with WebAssembly and It&#39;s 100x+ Faster](https://dev.to/nabindebnath/i-replaced-a-docker-based-microservice-with-webassembly-and-its-100x-faster-4f6d)
-- [How I Built a Pure Client-Side Image Compressor &lpar;No Server, No API&rpar;](https://dev.to/entry_bypass_fbfe8178543c/how-i-built-a-pure-client-side-image-compressor-no-server-no-api-26c8)
-- [1M+ Req/s Heavy-Read API in Go. Production Lessons Learned](https://dev.to/huykn/1m-reqs-heavy-read-api-in-go-production-lessons-learned-3j5g)
-- [Testing HTTP/1.1, HTTP/2, and HTTP/3 Performance with a React App](https://dev.to/tomasdevs/testing-http11-http2-and-http3-performance-with-a-react-app-67o)
-- [Why Has GraphQL Struggled to Become Popular? Under-Design or Over-Design?](https://dev.to/canonical/why-has-graphql-struggled-to-become-popular-under-design-or-over-design-47gb)
+- [Navigating Database Trends: NoSQL, PostgreSQL, &amp; Beyond for Modern Data](https://dev.to/dataformathub/navigating-database-trends-nosql-postgresql-beyond-for-modern-data-i4a)
+- [JavaScript performance optimization - Boosting Web Speed: Essential...](https://dev.to/ash_dubai/javascript-performance-optimization-boosting-web-speed-essential-302l)
+- [Orchestration Patterns for Building AI Agents at the Edge](https://dev.to/roerohan/orchestration-patterns-for-building-ai-agents-at-the-edge-2am6)
+- [Azure Cosmos DB vNext Emulator: Query and Observability Enhancements](https://dev.to/abhirockzz/azure-cosmos-db-vnext-emulator-query-and-observability-enhancements-5b9a)
+- [Understanding Common Spring Boot, Spring Security, and JPA Annotations](https://dev.to/xhozey/understanding-common-spring-boot-spring-security-and-jpa-annotations-5h0c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
