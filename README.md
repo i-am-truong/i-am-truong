@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Release 0.4: My Plan for Contributions to Open Source](https://dev.to/elsad_humbetli_0971c995ce/release-04-my-plan-for-contributions-to-open-source-127i)
-- [Hibernate ORM Explained: A Practical Guide for Java Developers](https://dev.to/prashant_dev/hibernate-orm-explained-a-practical-guide-for-java-developers-3kf0)
-- [Bitwave: Is This the Future-Proof Audio Format Developers Need?](https://dev.to/makalin/bitwave-is-this-the-future-proof-audio-format-developers-need-4nd4)
-- [AI Developer Digest: Gemini Deep Research, GPT-5.2, and Agent Tools](https://dev.to/proflead/ai-developer-digest-gemini-deep-research-gpt-52-and-agent-tools-231f)
-- [System Design: How Random Video Chat Apps Work](https://dev.to/flavius_belisarius_295876/system-design-how-random-video-chat-apps-work-54cn)
+- [What Actually Determines a File&#39;s Type](https://dev.to/amoabakelvin/what-actually-determines-a-files-type-48d0)
+- [Java Keywords](https://dev.to/lakshmi_g_74c225d5ca0b272/java-keywords-2n22)
+- [Safeguarding Your React Native App: Protecting Screens for Unauthorized Users](https://dev.to/rogasper/safeguarding-your-react-native-app-protecting-screens-for-unauthorized-users-2npb)
+- [Automating Dockerized App Deployment with a Bash Script](https://dev.to/ifeanyi_nworji/automating-dockerized-app-deployment-with-a-bash-script-41im)
+- [Vibe Coding Is Empty: Why The Future Belongs To Devs Who Think, Not Just Type](https://dev.to/aiwithapex/vibe-coding-is-empty-why-the-future-belongs-to-devs-who-think-not-just-type-2pkh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
