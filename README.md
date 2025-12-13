@@ -120,12 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Custom auth in Payload](https://dev.to/rubixvi/custom-auth-in-payload-29ck)
-- [The better way to shorten Linux commands &lpar;it&#39;s not alias&rpar;](https://dev.to/svhl/the-better-way-to-shorten-linux-commands-its-not-alias-17f6)
-- [Building My First AI Cyber Guardian Agent: Reflections from the Google x Kaggle Intensive](https://dev.to/arul_mozhi_95db9e19ae530e/building-my-first-ai-cyber-guardian-agent-reflections-from-the-google-x-kaggle-intensive-2f2m)
-- [Anyone here just obsessed with Linux like me 
-??](https://dev.to/barefootmikeofhorme/anyone-here-just-obsessed-with-linux-like-me--7el)
-- [MindMesh AI - 7 AI Agents Debate Your Decisions in Real-Time](https://dev.to/simranshaikh20_50/mindmesh-ai-7-ai-agents-debate-your-decisions-in-real-time-2nb2)
+- [Vercel Optimization: Reducing Build Time and Improving Response](https://dev.to/pipipi-dev/vercel-optimization-reducing-build-time-and-improving-response-2eji)
+- [OptimaWave AgentAI Travel Planner](https://dev.to/bharat_bika/optimawave-agentai-travel-planner-aj1)
+- [The Linux Kernel Embraces Rust: The Dawn of a Golden Age for the Language, or Just Hype?](https://dev.to/betoalien/the-linux-kernel-embraces-rust-the-dawn-of-a-golden-age-for-the-language-or-just-hype-1pk3)
+- [Personal Identity Agent for your Agent](https://dev.to/record_that_6fdfb31458324/personal-identity-agent-for-your-agent-5dbi)
+- [How 129KB of Whitespace &lpar;and a Recursive Loop&rpar; Broke the Web](https://dev.to/michaelsolati/how-129kb-of-whitespace-and-a-recursive-loop-broke-the-web-lf7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
