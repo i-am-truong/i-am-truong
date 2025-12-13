@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Future of Business Management in 2026: AI, Automation, and Clarity](https://dev.to/sapeagle_erp_7e0cacb93388/the-future-of-business-management-in-2026-ai-automation-and-clarity-2hm8)
+- [AI Background Remover: Image Quality and Edge Accuracy](https://dev.to/freepixel11/ai-background-remover-image-quality-and-edge-accuracy-5122)
+- [JS Variables.](https://dev.to/mohamed_ajmal_222/js-variables-13h9)
+- [CoreIdent 0.4: A Ground-Up Rewrite for .NET 10+](https://dev.to/solutionsjon/coreident-04-a-ground-up-rewrite-for-net-10-36p0)
 - [Ship a &quot;Nano Banana&quot; Image Generator in 3 Minutes &lpar;No AWS S3 Required&rpar;](https://dev.to/jim_jenkins_df443b5101eed/ship-a-nano-banana-image-generator-in-3-minutes-no-aws-s3-required-2b1c)
-- [I Just Shipped a Major Update to My Python GUI Library &lpar;PyUIkit&rpar;](https://dev.to/programminggreen/i-just-shipped-a-major-update-to-my-python-gui-library-pyuikit-3fmg)
-- [Meet parallelHTTP — A Simple Tool to Stress-Test Your APIs](https://dev.to/nicumicle/meet-parallelhttp-a-simple-tool-to-stress-test-your-apis-45ph)
-- [Simply Learn - An AI-First LMS with Next.js 16 &amp; Xano](https://dev.to/aryprogrammer/simply-learn-an-ai-first-lms-with-nextjs-16-xano-2i9h)
-- [Boost CSAT with VAD, Backchanneling, and Sentiment Routing](https://dev.to/callstacktech/boost-csat-with-vad-backchanneling-and-sentiment-routing-4nhj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
