@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why I Can&#39;t Use Java Records as JPA Entities](https://dev.to/linda_lindo_ba3fe9cd7db16/why-i-cant-use-java-records-as-jpa-entities-e9f)
 - [&quot;How I built a &#39;Forever&#39; File Uploader with Vanilla JS and No Backend&quot;](https://dev.to/szilrd_plnagy_643c42ee2/how-i-built-a-forever-file-uploader-with-vanilla-js-and-no-backend-3g61)
 - [Local AI Tools: Exploring LM Studio &lpar;Tool 2&rpar;](https://dev.to/alexlead/local-ai-tools-exploring-lm-studio-tool-2-3801)
 - [Building Reliable Web Platforms for Live Events: My Experience with Matt Rife Tour](https://dev.to/topmer/building-reliable-web-platforms-for-live-events-my-experience-with-matt-rife-tour-1ojp)
-- [How I Built a Real-Time CGPA Calculator using JavaScript and Firebase](https://dev.to/christianfx/how-i-built-a-real-time-cgpa-calculator-using-javascript-and-firebase-3bkp)
-- [Advent of Code 2025 - December 11th](https://dev.to/robvanderleek/advent-of-code-2025-december-11th-32ki)
+- [Structuring SVG Icons for Scalable Frontend Projects](https://dev.to/bakrodeh/structuring-svg-icons-for-scalable-frontend-projects-1f59)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
