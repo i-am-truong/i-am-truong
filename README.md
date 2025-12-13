@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Spec-driven Development Using Kiro](https://dev.to/aws-heroes/getting-started-with-spec-driven-development-using-kiro-400l)
-- [Docker Explained from Real Project Pain &lpar;Not Theory&rpar;](https://dev.to/anusha_kuppili/docker-explained-from-real-project-pain-not-theory-4al)
-- [Day 24 of improving my Data Science skills](https://dev.to/sp_the_data_specialist/day-24-of-improving-my-data-science-skills-2fg2)
-- [Lessons Learned from the React2Shell Vulnerability &lpar;December 3, 2025&rpar;](https://dev.to/jojo_kunsang/lessons-learned-from-the-react2shell-vulnerability-december-3-2025-2ieo)
-- [DB-Toolkit - Database Management Made Simple](https://dev.to/adelodunpeter/db-toolkit-database-management-made-simple-3bdp)
+- [☁️ How to Host Your Side Projects for $0: The Ultimate GCP Free Tier Guide](https://dev.to/jeaniscoding/how-to-host-your-side-projects-for-0-the-ultimate-gcp-free-tier-guide-3p07)
+- [JexLang: Write Once, Validate Everywhere — A Platform-Agnostic Expression Language](https://dev.to/vinaykumar0339/jexlang-write-once-validate-everywhere-a-platform-agnostic-expression-language-23m)
+- [What Is AI and How Beginners Can Use It](https://dev.to/syed_suhailbasha_344c046/what-is-ai-and-how-beginners-can-use-it-1hii)
+- [Building a Full-Stack Pokédex Search Engine with React and Spring Boot](https://dev.to/msrajput08/building-a-full-stack-pokedex-search-engine-with-react-and-spring-boot-5ajg)
+- [LLM Prompts I Run to Continuously Improve My Codebase](https://dev.to/icodeforbananas/llm-prompts-i-run-to-continuously-improve-my-codebase-gik)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
