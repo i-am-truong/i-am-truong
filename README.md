@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [An Agentic Journal: From Assumption to Revelation](https://dev.to/beoncloud/an-agentic-journal-from-assumption-to-revelation-2ogg)
-- [Zeit ist Geld, Vertrauen ist Währung: Wie TimeSpin Ihre Kanzlei revolutioniert](https://dev.to/timespinwriterjames/zeit-ist-geld-vertrauen-ist-wahrung-wie-timespin-ihre-kanzlei-revolutioniert-5g)
-- [5-Day AI Agents Intensive Course Google X Kaggle](https://dev.to/rutuja_yadav/5-day-ai-agents-intensive-course-google-x-kaggle-1fhj)
-- [Motivation &amp; Teamgeist: Wie moderne Systeme die Produktivität von Teams steigern](https://dev.to/timespinwriterjames/motivation-teamgeist-wie-moderne-systeme-die-produktivitat-von-teams-steigern-ak)
-- [🧠 From Prompts&lpar;where almost everyone starts with LLMs&rpar; to Autonomous Teams&lpar;where agentic systems live&rpar;](https://dev.to/umadevi_rajkumar_012/from-promptswhere-almost-everyone-starts-with-llms-to-autonomous-teamswhere-agentic-systems-63g)
+- [AWS Lambda Is Dead for Production AI Agents &lpar;Why 2026 Demands Kubernetes&rpar;](https://dev.to/inboryn_99399f96579fcd705/aws-lambda-is-dead-for-production-ai-agents-why-2026-demands-kubernetes-4fjm)
+- [Gamification &amp; Gesundheit: Wie der TimeSpin-Ansatz Überlastung und Burnout vorbeugt](https://dev.to/timespinwriterjames/gamification-gesundheit-wie-der-timespin-ansatz-uberlastung-und-burnout-vorbeugt-2b9k)
+- [Data analysis industry landscape](https://dev.to/leon_lin_s/data-analysis-industry-landscape-kc0)
+- [Why AI Agents Will Soon Handle Your Toughest Workloads](https://dev.to/vikramlingam/why-ai-agents-will-soon-handle-your-toughest-workloads-4cj6)
+- [Introduction to System Design: A Beginner’s Guide](https://dev.to/alikhan-devs/introduction-to-system-design-a-beginners-guide-4a3l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
