@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Navigating Database Trends: NoSQL, PostgreSQL, &amp; Beyond for Modern Data](https://dev.to/dataformathub/navigating-database-trends-nosql-postgresql-beyond-for-modern-data-i4a)
-- [JavaScript performance optimization - Boosting Web Speed: Essential...](https://dev.to/ash_dubai/javascript-performance-optimization-boosting-web-speed-essential-302l)
-- [Orchestration Patterns for Building AI Agents at the Edge](https://dev.to/roerohan/orchestration-patterns-for-building-ai-agents-at-the-edge-2am6)
-- [PM2 process management for Node.js - Mastering PM2 Process Management...](https://dev.to/ash_dubai/pm2-process-management-for-nodejs-mastering-pm2-process-management-4993)
-- [Boost Your Content: AI Content Generation with Readability Scoring](https://dev.to/ash_dubai/boost-your-content-ai-content-generation-with-readability-scoring-4lbj)
+- [How to create live validation form in JavaScript](https://dev.to/jahongir2007/how-to-create-live-validation-form-in-javascript-48b6)
+- [Mr Sunday Movies: Tomorrowland - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-tomorrowland-caravan-of-garbage-31h3)
+- [Prefix Sums Keep Breaking? This Visual Guide Fixes That](https://dev.to/alex_hunter_44f4c9ed6671e/prefix-sums-keep-breaking-this-visual-guide-fixes-that-56f2)
+- [The right tool for the job](https://dev.to/luc4587/the-right-tool-for-the-job-4m32)
+- [Swift #11: Cláusula de guarda](https://dev.to/david_goyes_a488f58a17a53/swift-11-clausula-de-guarda-396p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
