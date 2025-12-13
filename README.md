@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Your Office Chair Is Ruining Your Focus &lpar;Fix It in 5 Minutes&rpar;](https://dev.to/jens_r_4ac124fba483a5d950/your-office-chair-is-ruining-your-focus-fix-it-in-5-minutes-4m5)
+- [Stop Screenshotting PDFs: A Dev&#39;s Guide to Extracting High-Res Images](https://dev.to/pdfconverlabs/stop-screenshotting-pdfs-a-devs-guide-to-extracting-high-res-images-41b3)
 - [3606. Coupon Code Validator](https://dev.to/mdarifulhaque/3606-coupon-code-validator-56b0)
 - [Pips Game – A Minimalist Logic Puzzle That Actually Makes You Think](https://dev.to/sgamer_560ef5490592e4dc9/pips-game-a-minimalist-logic-puzzle-that-actually-makes-you-think-4kio)
 - [Building A Payment Processor Backend](https://dev.to/chisimdi_ejoh_af371a63d43/building-a-payment-processor-backend-5488)
-- [Dockerfile: CMD vs ENTRYPOINT](https://dev.to/akshaygore/dockerfile-cmd-vs-entrypoint-4gf4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
