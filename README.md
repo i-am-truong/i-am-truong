@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to build Modern Web Apps: Laravel 12 + InertiaJS + ReactJS](https://dev.to/dineshstack/how-to-build-modern-web-apps-laravel-12-inertiajs-reactjs-1c5m)
-- [Angular 20 to 21 Upgrade: The Practical Survival Guide](https://dev.to/turingsoracle/angular-20-to-21-upgrade-the-practical-survival-guide-1km9)
-- [Angular 21 &amp; MCP: The End of &quot;Manual&quot; Migrations?](https://dev.to/turingsoracle/angular-21-mcp-the-end-of-manual-migrations-4hdh)
-- [Guía de Angular 21 usando MCP](https://dev.to/angularfirebase/angular-21-y-mcp-el-fin-de-las-migraciones-manuales-4ocn)
-- [Migrando Angular 20 a 21: Guía.](https://dev.to/angularfirebase/migrando-angular-20-a-21-guia-4ac2)
+- [⚛️ From React 19.0 to 19.2: What’s New, What Improved, and Why It Matters ⁉️](https://dev.to/usman_awan/from-react-190-to-192-whats-new-what-improved-and-why-it-matters--1ip4)
+- [Building a Linux OS with Yocto](https://dev.to/k_y_98d85b6e1a0c5ccd80b34/building-a-linux-os-with-yocto-3op8)
+- [AI for 10x: The Leverage You&#39;re Missing](https://dev.to/thinkaddict/ai-for-10x-the-leverage-youre-missing-j02)
+- [Give Your AI Superpowers: Managing Python Environments with uv-mcp](https://dev.to/saadmanrafat/give-your-ai-superpowers-managing-python-environments-with-uv-mcp-cn8)
+- [Ed25519 + Merkle Tree + UUIDv7 = Building Tamper-Proof Decision Logs](https://dev.to/veritaschain/ed25519-merkle-tree-uuidv7-building-tamper-proof-decision-logs-o1e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
