@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [2025-12-13 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-13-daily-ai-news-49lh)
+- [Cómo escribir smart contracts en Midnight](https://dev.to/cardumen_c23712b080b2a053/como-escribir-smart-contracts-en-midnight-h1j)
+- [Managing Multiple Shopify Stores in 2025: Technical Solutions for Account Isolation and Security](https://dev.to/digitalgrowthpro/managing-multiple-shopify-stores-in-2025-technical-solutions-for-account-isolation-and-security-dd2)
+- [Coding Challenge Practice - Question 77](https://dev.to/tomivan/coding-challenge-practice-question-77-4a6m)
 - [Why I Can&#39;t Use Java Records as JPA Entities](https://dev.to/linda_lindo_ba3fe9cd7db16/why-i-cant-use-java-records-as-jpa-entities-e9f)
-- [&quot;How I built a &#39;Forever&#39; File Uploader with Vanilla JS and No Backend&quot;](https://dev.to/szilrd_plnagy_643c42ee2/how-i-built-a-forever-file-uploader-with-vanilla-js-and-no-backend-3g61)
-- [Local AI Tools: Exploring LM Studio &lpar;Tool 2&rpar;](https://dev.to/alexlead/local-ai-tools-exploring-lm-studio-tool-2-3801)
-- [Building Reliable Web Platforms for Live Events: My Experience with Matt Rife Tour](https://dev.to/topmer/building-reliable-web-platforms-for-live-events-my-experience-with-matt-rife-tour-1ojp)
-- [Structuring SVG Icons for Scalable Frontend Projects](https://dev.to/bakrodeh/structuring-svg-icons-for-scalable-frontend-projects-1f59)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
