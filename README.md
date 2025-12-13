@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [PayFlow —First Payment Management System Submission for the Xano AI-Powered Backend Challenge](https://dev.to/volde/payflow-first-payment-management-systemsubmission-for-the-xano-ai-powered-backend-challenge-1276)
+- [How I implemented recurring features in Trevidia](https://dev.to/uchenna_trevidia/how-i-implemented-recurring-features-in-trevidia-3lop)
+- [Write a JWT Login Test Using Cypress](https://dev.to/xb16/write-a-jwt-login-test-using-cypress-43pp)
 - [AltSchool Of Engineering Tinyuka’24 Month 10 Week 3](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-10-week-3-1ifn)
-- [I Knew Web Dev, But I Couldn’t Build Anything — Here’s What I Changed](https://dev.to/now_raj/i-knew-web-dev-but-i-couldnt-build-anything-heres-what-i-changed-3e6l)
-- [Introducing the Three AWS Governance Pillars with Terraform](https://dev.to/lucasdecamargo/introducing-the-three-aws-governance-pillars-with-terraform-mkk)
-- [Grid DP Nightmares: How to Nail Base Cases Every Single Time](https://dev.to/alex_hunter_44f4c9ed6671e/grid-dp-nightmares-how-to-nail-base-cases-every-single-time-37dc)
-- [10,000 eBPF Events to 1 Alert: Don’t burn the CPU](https://dev.to/parth21shah/10000-ebpf-events-to-1-alert-dont-burn-the-cpu-2g41)
+- [From PyTorch to Shipping local AI on Android](https://dev.to/embedl-hub/from-pytorch-to-shipping-local-ai-on-android-6g9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
