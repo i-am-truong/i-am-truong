@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Atom Homepage: Your Self-Hosted Dashboard for Everything](https://dev.to/sudheerbhuvana/introducing-atom-homepage-your-self-hosted-dashboard-for-everything-p1i)
+- [I Didn’t Realize Stress Was Draining My Body Until It Started Showing Everywhere](https://dev.to/jamesmiller25/i-didnt-realize-stress-was-draining-my-body-until-it-started-showing-everywhere-fm4)
+- [C&#39;de malloc ve struct Kullanarak Dinamik Bir Öğrenci Not Sistemi Nasıl Yazılır?](https://dev.to/berkaydmr/cde-malloc-ve-struct-kullanarak-dinamik-bir-ogrenci-not-sistemi-nasil-yazilir-48bl)
+- [Mastering Enums in TypeScript: A Comprehensive Guide](https://dev.to/vjnvisakh/mastering-enums-in-typescript-a-comprehensive-guide-4945)
 - [Chaos Engineering: Breaking Production on Purpose &lpar;So It Never Breaks Again&rpar;](https://dev.to/kaustubhyerkade/chaos-engineering-breaking-production-on-purpose-so-it-never-breaks-again-401j)
-- [The Mysterious Case of the Query That Never Ran](https://dev.to/aloisseckar/the-mysterious-case-of-the-query-that-never-ran-1gd9)
-- [5 Must-Read Books for Backend Engineers in 20226](https://dev.to/somadevtoo/5-must-read-books-for-backend-engineers-in-20226-2nl6)
-- [The Clean Coder: Opinion](https://dev.to/francisco_susana/the-clean-coder-opinion-214d)
-- [Claude Skills + MCP Server: Create Consistent AWS Cost Reports in Minutes](https://dev.to/peter_dyakov_06f3c69a46b7/claude-skills-mcp-server-create-consistent-aws-cost-reports-in-minutes-322f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
