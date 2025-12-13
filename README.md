@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ASP.NET CORE - How to using IAuthorizationRequirementData](https://dev.to/victormai/aspnet-core-how-to-using-iauthorizationrequirementdata-16dh)
+- [Google Cloud Options for Storing Data](https://dev.to/sachindra149/google-cloud-options-for-storing-data-1bh0)
 - [Security Incident Report: Cryptominer Attack on Next.js Application](https://dev.to/lfariaus/security-incident-report-cryptominer-attack-on-nextjs-application-1df4)
-- [Day 70 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-70-of-100-days-dsa-coding-challenge-1pl8)
-- [Shallow Copy vs Deep Copy in JavaScript &lpar;Explained Like You’re Five&rpar; — By Ankit Mehta](https://dev.to/mehta0007/shallow-copy-vs-deep-copy-in-javascript-explained-like-youre-five-by-ankit-mehta-3n57)
-- [AWS Modulo 1: Terraform &amp; Remote Backend](https://dev.to/emp_devcybsec/aws-modulo-1-terraform-remote-backend-40hj)
-- [A Simple Frontend for Downloading TikTok Videos &lpar;No Watermark&rpar;](https://dev.to/syco_lol_d7a0496a62776465/a-simple-frontend-for-downloading-tiktok-videos-no-watermark-5dhe)
+- [Vite + Antd App works on Windows but Single Page crashes on Linux Production &lpar;Minified React Error #130&rpar;](https://dev.to/prashant_vaghela_91c78686/vite-antd-app-works-on-windows-but-single-page-crashes-on-linux-production-minified-react-error-3l11)
+- [How I Learn Programming Languages So Fast &lpar;A Practical, No-Nonsense Approach&rpar;](https://dev.to/farhadrahimiklie/how-i-learn-programming-languages-so-fast-a-practical-no-nonsense-approach-1eg4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
