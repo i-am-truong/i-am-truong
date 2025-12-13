@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Two Overlooked Laravel Features: `fresh&lpar;&rpar;` and Attribute Visibility](https://dev.to/mmramadan496/two-overlooked-laravel-features-fresh-and-attribute-visibility-2kp3)
+- [From Student to AI Architect: How Multi-Agent Systems Rewired My Understanding of Intelligent Applications](https://dev.to/prasadt1/from-student-to-ai-architect-how-multi-agent-systems-rewired-my-understanding-of-intelligent-5ehj)
 - [Why is PDF so hard to edit?](https://dev.to/michael_lahr/why-is-pdf-so-hard-to-edit-3h3l)
 - [DEV Track Spotlight: Designing Local Generative AI Inference with AWS IoT Greengrass &lpar;DEV316&rpar;](https://dev.to/gunnargrosch/dev-track-spotlight-designing-local-generative-ai-inference-with-aws-iot-greengrass-dev316-3kgk)
 - [Docfx-Plus: A template and a tool to enhance DocFx and migrate from SHFB &lpar;Sandcastle&rpar;](https://dev.to/dotmake/docfx-plus-a-template-and-a-tool-to-enhance-docfx-and-migrate-from-shfb-sandcastle-1kp0)
-- [How to Fix Problems with WiFi Connection: Complete Troubleshooting Guide](https://dev.to/bryan_collins_abcd0214d94/how-to-fix-problems-with-wifi-connection-complete-troubleshooting-guide-3jhn)
-- [Build a TikTok Trend Tracker with Node.js &lpar;No Login Required&rpar;](https://dev.to/olams/build-a-tiktok-trend-tracker-with-nodejs-no-login-required-3nli)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
