@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to create live validation form in JavaScript](https://dev.to/jahongir2007/how-to-create-live-validation-form-in-javascript-48b6)
-- [Mr Sunday Movies: Tomorrowland - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-tomorrowland-caravan-of-garbage-31h3)
-- [Prefix Sums Keep Breaking? This Visual Guide Fixes That](https://dev.to/alex_hunter_44f4c9ed6671e/prefix-sums-keep-breaking-this-visual-guide-fixes-that-56f2)
-- [The right tool for the job](https://dev.to/luc4587/the-right-tool-for-the-job-4m32)
-- [Swift #11: Cláusula de guarda](https://dev.to/david_goyes_a488f58a17a53/swift-11-clausula-de-guarda-396p)
+- [Building A Payment Processor Backend](https://dev.to/chisimdi_ejoh_af371a63d43/building-a-payment-processor-backend-5488)
+- [Inside Memcortex: A Lightweight Semantic Memory Layer for LLMs](https://dev.to/sobowalebukola/inside-memcortex-a-lightweight-semantic-memory-layer-for-llms-1eki)
+- [How I Built Self‑Healing Kubernetes Platforms &lpar;and Cut On‑Call by 35%&rpar;](https://dev.to/gaurav03/how-i-built-self-healing-kubernetes-platforms-and-cut-on-call-by-35-3mj6)
+- [Hands-On Lab 1: Building Custom Docker Image with Dockerfile](https://dev.to/shakol/hands-on-lab-1-building-custom-docker-image-with-dockerfile-4nbi)
+- [Closing the Loop: How Reinforcement Learning is Changing AI Coding](https://dev.to/getpochi/closing-the-loop-how-reinforcement-learning-is-changing-ai-coding-4en6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
