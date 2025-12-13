@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Algorithms to Adventures](https://dev.to/dchakarov/from-algorithms-to-adventures-1ffk)
-- [Configuring HTTP Proxy for gRPC in C# Without Environment Variables](https://dev.to/akashp1712/configuring-http-proxy-for-grpc-in-c-without-environment-variables-4a9n)
-- [December countdown calendar](https://dev.to/preetha_vaishnavi_2b82358/december-countdown-calendar-5h12)
-- [Modern web development tools 2025 - Mastering Modern Web Coding Tools...](https://dev.to/ash_dubai/modern-web-development-tools-2025-mastering-modern-web-coding-tools-k8b)
-- [Master Java ArrayList Methods: A Complete Guide with Examples &amp; Real Use Cases](https://dev.to/satyam_gupta_0d1ff2152dcc/master-java-arraylist-methods-a-complete-guide-with-examples-real-use-cases-3i0g)
+- [Hydro: A Distributed Programming Framework for Rust](https://dev.to/stelixx-insider/hydro-a-distributed-programming-framework-for-rust-1bg9)
+- [Slow programming - why I don&#39;t let AI generate production code for me](https://dev.to/andreas_mller_2fd27cf578/slow-programming-why-i-dont-let-ai-generate-production-code-for-me-588j)
+- [Why Every Business Needs a Responsible AI Framework Advisor in 2026](https://dev.to/erinredd/why-every-business-needs-a-responsible-ai-framework-advisor-in-2026-2kmm)
+- [[Boost]](https://dev.to/mukuldev21/-1004)
+- [React Native REST API Integration with Axios and Context API](https://dev.to/djamware_tutorial_eba1a61/react-native-rest-api-integration-with-axios-and-context-api-4o10)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
