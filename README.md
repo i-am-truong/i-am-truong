@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Step-by-Step Guide: Installing wrk &lpar;HTTP Benchmarking Tool&rpar; on Amazon Linux](https://dev.to/cloudgrains/step-by-step-guide-installing-wrk-http-benchmarking-tool-on-amazon-linux-4e9d)
+- [Building an &quot;Unstoppable&quot; Serverless Payment System on AWS &lpar;Circuit Breaker Pattern&rpar;](https://dev.to/nash9/building-an-unstoppable-serverless-payment-system-on-aws-circuit-breaker-pattern-4iba)
+- [Deploying a secure and scalable static website on AWS using Terraform](https://dev.to/nandan_007/deploying-a-secure-and-scalable-static-website-on-aws-using-terraform-2n0f)
 - [Introducing Atom Homepage: Your Self-Hosted Dashboard for Everything](https://dev.to/sudheerbhuvana/introducing-atom-homepage-your-self-hosted-dashboard-for-everything-p1i)
-- [I Didn’t Realize Stress Was Draining My Body Until It Started Showing Everywhere](https://dev.to/jamesmiller25/i-didnt-realize-stress-was-draining-my-body-until-it-started-showing-everywhere-fm4)
-- [C&#39;de malloc ve struct Kullanarak Dinamik Bir Öğrenci Not Sistemi Nasıl Yazılır?](https://dev.to/berkaydmr/cde-malloc-ve-struct-kullanarak-dinamik-bir-ogrenci-not-sistemi-nasil-yazilir-48bl)
-- [Mastering Enums in TypeScript: A Comprehensive Guide](https://dev.to/vjnvisakh/mastering-enums-in-typescript-a-comprehensive-guide-4945)
-- [Chaos Engineering: Breaking Production on Purpose &lpar;So It Never Breaks Again&rpar;](https://dev.to/kaustubhyerkade/chaos-engineering-breaking-production-on-purpose-so-it-never-breaks-again-401j)
+- [Tsonnet #29 - Making inner references work](https://dev.to/bitmaybewise/tsonnet-29-making-inner-references-work-502o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
