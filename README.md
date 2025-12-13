@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AltSchool Of Engineering Tinyuka’24 Month 10 Week 3](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-10-week-3-1ifn)
+- [I Knew Web Dev, But I Couldn’t Build Anything — Here’s What I Changed](https://dev.to/now_raj/i-knew-web-dev-but-i-couldnt-build-anything-heres-what-i-changed-3e6l)
 - [Introducing the Three AWS Governance Pillars with Terraform](https://dev.to/lucasdecamargo/introducing-the-three-aws-governance-pillars-with-terraform-mkk)
-- [Git Golden Rules](https://dev.to/harry_tanama_51571ebf90b6/git-golden-rules-32m5)
-- [RAG Chunking Strategies Deep Dive](https://dev.to/vishalmysore/rag-chunking-strategies-deep-dive-2l72)
-- [Trying to understand SOLID Principles with C#](https://dev.to/prasadg/trying-to-understand-solid-principles-with-c-693)
-- [🚀 Simplify Your C# Collections with the Spread Operator &lpar;..&rpar;](https://dev.to/elmehditaii/simplify-your-c-collections-with-the-spread-operator--3d8m)
+- [Grid DP Nightmares: How to Nail Base Cases Every Single Time](https://dev.to/alex_hunter_44f4c9ed6671e/grid-dp-nightmares-how-to-nail-base-cases-every-single-time-37dc)
+- [10,000 eBPF Events to 1 Alert: Don’t burn the CPU](https://dev.to/parth21shah/10000-ebpf-events-to-1-alert-dont-burn-the-cpu-2g41)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
