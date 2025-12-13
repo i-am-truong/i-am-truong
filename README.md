@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My hands-on experience with Qdrant and Docling &lpar;and Ollama&rpar;](https://dev.to/aairom/my-hands-on-experience-with-qdrant-and-docling-and-ollama-a09)
+- [Building a Client-Side QR Code Generator: Privacy-First with Blazor WebAssembly](https://dev.to/prismioqr/building-a-client-side-qr-code-generator-privacy-first-with-blazor-webassembly-2786)
+- [55. Jump Game | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/55-jump-game-leetcode-top-interview-150-coding-questions-479b)
 - [Org Charts for AI Agents: Mapping Your Human and AI Workforce](https://dev.to/pinishv/org-charts-for-ai-agents-mapping-your-human-and-ai-workforce-4me3)
 - [Why GPT-5.2 is Coming Soon: The Race to Lead the AI Revolution](https://dev.to/srijan-xi/why-gpt-52-is-coming-soon-the-race-to-lead-the-ai-revolution-3aed)
-- [Swift #12: Funciones](https://dev.to/david_goyes_a488f58a17a53/swift-12-funciones-43c7)
-- [Learn Dart Programming Language: A Beginner&#39;s Guide](https://dev.to/techwithsam/learn-dart-programming-language-a-beginners-guide-3a1c)
-- [Go Slices: The Pointer Paradox Why Your Appends Disappear &lpar;Understanding when slice modifications persist and when they vanish&rpar;](https://dev.to/mx_tech/go-slices-the-pointer-paradox-why-your-appends-disappear-understanding-when-slice-modifications-303j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
