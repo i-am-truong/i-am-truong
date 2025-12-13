@@ -122,9 +122,9 @@ Python                   1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [🌌 How I Built a GROK-Inspired Starfield &amp; Shooting Stars Using HTML Canvas ✨](https://dev.to/usman_awan/how-i-built-a-grok-inspired-starfield-shooting-stars-using-html-canvas-3872)
 - [Case Study: How I Reduced React Bundle Size by 68%](https://dev.to/fhaponenka/case-study-how-i-reduce-react-bundle-size-by-68-84m)
+- [Master Macro: Your Personal Economic Playbook](https://dev.to/thinkaddict/master-macro-your-personal-economic-playbook-4cbg)
 - [MINDS EYE FABRIC](https://dev.to/peacebinflow/minds-eye-fabric-p1p)
 - [AWS for Developers: The Guide](https://dev.to/kaustubhyerkade/aws-for-developers-the-only-guide-you-actually-need-in-2026-901)
-- [Linker Scripts Explained: Controlling Memory Layout on Bare Metal](https://dev.to/ripan030/linker-scripts-explained-controlling-memory-layout-on-bare-metal-3ocb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
