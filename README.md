@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [⚛ MCP Explained: A Simple Guide 📜 to AI 🤖 Agents](https://dev.to/hemant_007/mcp-explained-a-simple-guide-to-ai-agents-3b2l)
-- [Architecting Large-Scale Migrations with Fannie Mae and the NRO &lpar;AWS re:Invent 2025 – WPS201&rpar;](https://dev.to/ahmedadel/architecting-large-scale-migrations-with-fannie-mae-and-the-nro-aws-reinvent-2025-wps201-5582)
-- [Getting Started with ReactNextPlayer: A Modern React Video Player Component](https://dev.to/rakibur_rahaman_06e134d54/getting-started-with-reactnextplayer-a-modern-react-video-player-component-2ndk)
-- [Shopee Keyword Scraping: Search Trends You Can Actually Use](https://dev.to/easydata123/shopee-keyword-scraping-search-trends-you-can-actually-use-4fhc)
-- [Women’s Wardrobe Essentials: Building a Stylish and Functional Closet](https://dev.to/houseofsiyaab/womens-wardrobe-essentials-building-a-stylish-and-functional-closet-p0b)
+- [Streit um den Acht-Stunden-Tag: Bauarbeiter schlagen Alarm](https://dev.to/timespinwriterjames/streit-um-den-acht-stunden-tag-bauarbeiter-schlagen-alarm-32l3)
+- [Day 13: Window Functions in PySpark](https://dev.to/sandeepk27/day-13-window-functions-in-pyspark-597i)
+- [What are AI Evals?](https://dev.to/nickytonline/what-are-ai-evals-1kk9)
+- [Visual Regression for Adaptive Interfaces: Testing That Crisis Mode Actually Looks Different](https://dev.to/crisiscoresystems/visual-regression-for-adaptive-interfaces-testing-that-crisis-mode-actually-looks-different-380b)
+- [Mahmoud Allam: Digital Product Leader in FinTech and Technology-Driven Innovation](https://dev.to/ahmed_mostafa_5130fbef919/mahmoud-allam-digital-product-leader-in-fintech-and-technology-driven-innovation-4kh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
