@@ -123,8 +123,8 @@ Python                   1 repo              █░░░░░░░░░░�
 - [Navigating Database Trends: NoSQL, PostgreSQL, &amp; Beyond for Modern Data](https://dev.to/dataformathub/navigating-database-trends-nosql-postgresql-beyond-for-modern-data-i4a)
 - [JavaScript performance optimization - Boosting Web Speed: Essential...](https://dev.to/ash_dubai/javascript-performance-optimization-boosting-web-speed-essential-302l)
 - [Orchestration Patterns for Building AI Agents at the Edge](https://dev.to/roerohan/orchestration-patterns-for-building-ai-agents-at-the-edge-2am6)
-- [Azure Cosmos DB vNext Emulator: Query and Observability Enhancements](https://dev.to/abhirockzz/azure-cosmos-db-vnext-emulator-query-and-observability-enhancements-5b9a)
-- [Understanding Common Spring Boot, Spring Security, and JPA Annotations](https://dev.to/xhozey/understanding-common-spring-boot-spring-security-and-jpa-annotations-5h0c)
+- [PM2 process management for Node.js - Mastering PM2 Process Management...](https://dev.to/ash_dubai/pm2-process-management-for-nodejs-mastering-pm2-process-management-4993)
+- [Boost Your Content: AI Content Generation with Readability Scoring](https://dev.to/ash_dubai/boost-your-content-ai-content-generation-with-readability-scoring-4lbj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
