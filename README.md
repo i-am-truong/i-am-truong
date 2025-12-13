@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [TPU: Why Google Doesn&#39;t Wait in Line for NVIDIA GPUs &lpar;1/2&rpar;](https://dev.to/jiminlee/tpu-why-google-doesnt-wait-in-line-for-nvidia-gpus-12-2a2n)
-- [Blue/Green Deployment with Nginx Upstreams Using Docker Compose](https://dev.to/ifeanyi_nworji/bluegreen-deployment-with-nginx-upstreams-using-docker-compose-5cn1)
-- [Hello World: An Embedded Engineer&#39;s Journey into Modern C++ and OSS](https://dev.to/taka1559/hello-world-an-embedded-engineers-journey-into-modern-c-and-oss-152i)
-- [I Tried Making a Portfolio. It Took Over My Free Time.](https://dev.to/trojanmocx/i-tried-making-a-portfolio-it-took-over-my-free-time-441f)
-- [Shine in Your Next Data Engineering Interview with Pandas](https://dev.to/betoalien/shine-in-your-next-data-engineering-interview-with-pandas-51i)
+- [How to build Modern Web Apps: Laravel 12 + InertiaJS + ReactJS](https://dev.to/dineshstack/how-to-build-modern-web-apps-laravel-12-inertiajs-reactjs-1c5m)
+- [Angular 20 to 21 Upgrade: The Practical Survival Guide](https://dev.to/turingsoracle/angular-20-to-21-upgrade-the-practical-survival-guide-1km9)
+- [Angular 21 &amp; MCP: The End of &quot;Manual&quot; Migrations?](https://dev.to/turingsoracle/angular-21-mcp-the-end-of-manual-migrations-4hdh)
+- [Guía de Angular 21 usando MCP](https://dev.to/angularfirebase/angular-21-y-mcp-el-fin-de-las-migraciones-manuales-4ocn)
+- [Migrando Angular 20 a 21: Guía.](https://dev.to/angularfirebase/migrando-angular-20-a-21-guia-4ac2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
