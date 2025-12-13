@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hydro: A Distributed Programming Framework for Rust](https://dev.to/stelixx-insider/hydro-a-distributed-programming-framework-for-rust-1bg9)
+- [Getting Started with ReactNextPlayer: A Modern React Video Player Component](https://dev.to/rakibur_rahaman_06e134d54/getting-started-with-reactnextplayer-a-modern-react-video-player-component-2ndk)
+- [Women’s Wardrobe Essentials: Building a Stylish and Functional Closet](https://dev.to/houseofsiyaab/womens-wardrobe-essentials-building-a-stylish-and-functional-closet-p0b)
+- [Reclaim Your Digital Life: Timelinize Unifies All Your Memories Into One Self-Hosted Story](https://dev.to/githubopensource/reclaim-your-digital-life-timelinize-unifies-all-your-memories-into-one-self-hosted-story-4el5)
 - [Slow programming - why I don&#39;t let AI generate production code for me](https://dev.to/andreas_mller_2fd27cf578/slow-programming-why-i-dont-let-ai-generate-production-code-for-me-588j)
-- [Why Every Business Needs a Responsible AI Framework Advisor in 2026](https://dev.to/erinredd/why-every-business-needs-a-responsible-ai-framework-advisor-in-2026-2kmm)
-- [[Boost]](https://dev.to/mukuldev21/-1004)
-- [React Native REST API Integration with Axios and Context API](https://dev.to/djamware_tutorial_eba1a61/react-native-rest-api-integration-with-axios-and-context-api-4o10)
+- [Building a Production-Ready Webhook Delivery System in 5 Minutes](https://dev.to/restdbjones/building-a-production-ready-webhook-delivery-system-in-5-minutes-5bhe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
