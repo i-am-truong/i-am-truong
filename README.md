@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [theORQL — Debug Like a Space Wizard 🚀](https://dev.to/romil_code/theorql-debug-like-a-space-wizard-4m48)
+- [I Stopped Chasing Features and Started Designing Systems](https://dev.to/trojanmocx/i-stopped-chasing-features-and-started-designing-systems-3m9a)
 - [The Future of Business Management in 2026: AI, Automation, and Clarity](https://dev.to/sapeagle_erp_7e0cacb93388/the-future-of-business-management-in-2026-ai-automation-and-clarity-2hm8)
 - [AI Background Remover: Image Quality and Edge Accuracy](https://dev.to/freepixel11/ai-background-remover-image-quality-and-edge-accuracy-5122)
 - [JS Variables.](https://dev.to/mohamed_ajmal_222/js-variables-13h9)
-- [CoreIdent 0.4: A Ground-Up Rewrite for .NET 10+](https://dev.to/solutionsjon/coreident-04-a-ground-up-rewrite-for-net-10-36p0)
-- [Ship a &quot;Nano Banana&quot; Image Generator in 3 Minutes &lpar;No AWS S3 Required&rpar;](https://dev.to/jim_jenkins_df443b5101eed/ship-a-nano-banana-image-generator-in-3-minutes-no-aws-s3-required-2b1c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
