@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Vercel Optimization: Reducing Build Time and Improving Response](https://dev.to/pipipi-dev/vercel-optimization-reducing-build-time-and-improving-response-2eji)
-- [OptimaWave AgentAI Travel Planner](https://dev.to/bharat_bika/optimawave-agentai-travel-planner-aj1)
-- [The Linux Kernel Embraces Rust: The Dawn of a Golden Age for the Language, or Just Hype?](https://dev.to/betoalien/the-linux-kernel-embraces-rust-the-dawn-of-a-golden-age-for-the-language-or-just-hype-1pk3)
-- [Personal Identity Agent for your Agent](https://dev.to/record_that_6fdfb31458324/personal-identity-agent-for-your-agent-5dbi)
-- [How 129KB of Whitespace &lpar;and a Recursive Loop&rpar; Broke the Web](https://dev.to/michaelsolati/how-129kb-of-whitespace-and-a-recursive-loop-broke-the-web-lf7)
+- [Security Incident Report: Cryptominer Attack on Next.js Application](https://dev.to/lfariaus/security-incident-report-cryptominer-attack-on-nextjs-application-1df4)
+- [Day 70 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-70-of-100-days-dsa-coding-challenge-1pl8)
+- [Shallow Copy vs Deep Copy in JavaScript &lpar;Explained Like You’re Five&rpar; — By Ankit Mehta](https://dev.to/mehta0007/shallow-copy-vs-deep-copy-in-javascript-explained-like-youre-five-by-ankit-mehta-3n57)
+- [AWS Modulo 1: Terraform &amp; Remote Backend](https://dev.to/emp_devcybsec/aws-modulo-1-terraform-remote-backend-40hj)
+- [A Simple Frontend for Downloading TikTok Videos &lpar;No Watermark&rpar;](https://dev.to/syco_lol_d7a0496a62776465/a-simple-frontend-for-downloading-tiktok-videos-no-watermark-5dhe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
