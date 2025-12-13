@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Difference of Deno and Node Handle Signals in Watch Mode](https://dev.to/whyang9701/the-difference-of-deno-and-node-handle-signals-in-watch-mode-kcm)
+- [Analyzing and Optimizing a Parquet ClickHouse Ingestion Pipeline](https://dev.to/mohhddhassan/analyzing-and-optimizing-a-parquet-clickhouse-ingestion-pipeline-547i)
+- [2026 Marketing Budget Planning: A Framework That Actually Survives Contact With Reality](https://dev.to/synergistdigitalmedia/2026-marketing-budget-planning-a-framework-that-actually-survives-contact-with-reality-fle)
+- [Claude Code Online: Agentic AI on the Web](https://dev.to/ndabene/claude-code-online-agentic-ai-on-the-web-3j2d)
 - [ASP.NET CORE - How to using IAuthorizationRequirementData](https://dev.to/victormai/aspnet-core-how-to-using-iauthorizationrequirementdata-16dh)
-- [Google Cloud Options for Storing Data](https://dev.to/sachindra149/google-cloud-options-for-storing-data-1bh0)
-- [Security Incident Report: Cryptominer Attack on Next.js Application](https://dev.to/lfariaus/security-incident-report-cryptominer-attack-on-nextjs-application-1df4)
-- [Vite + Antd App works on Windows but Single Page crashes on Linux Production &lpar;Minified React Error #130&rpar;](https://dev.to/prashant_vaghela_91c78686/vite-antd-app-works-on-windows-but-single-page-crashes-on-linux-production-minified-react-error-3l11)
-- [How I Learn Programming Languages So Fast &lpar;A Practical, No-Nonsense Approach&rpar;](https://dev.to/farhadrahimiklie/how-i-learn-programming-languages-so-fast-a-practical-no-nonsense-approach-1eg4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
