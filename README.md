@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Chaos Engineering: Breaking Production on Purpose &lpar;So It Never Breaks Again&rpar;](https://dev.to/kaustubhyerkade/chaos-engineering-breaking-production-on-purpose-so-it-never-breaks-again-401j)
+- [The Mysterious Case of the Query That Never Ran](https://dev.to/aloisseckar/the-mysterious-case-of-the-query-that-never-ran-1gd9)
+- [5 Must-Read Books for Backend Engineers in 20226](https://dev.to/somadevtoo/5-must-read-books-for-backend-engineers-in-20226-2nl6)
 - [The Clean Coder: Opinion](https://dev.to/francisco_susana/the-clean-coder-opinion-214d)
 - [Claude Skills + MCP Server: Create Consistent AWS Cost Reports in Minutes](https://dev.to/peter_dyakov_06f3c69a46b7/claude-skills-mcp-server-create-consistent-aws-cost-reports-in-minutes-322f)
-- [Quality Assurance Strategy untuk Modul Reply](https://dev.to/maulana_seto_2280dfc88c71/quality-assurance-strategy-untuk-modul-reply-3nc1)
-- [Meta-Optimized Continual Adaptation for bio-inspired soft robotics maintenance in hybrid quantum-classical pipelines](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-bio-inspired-soft-robotics-maintenance-in-hybrid-2cpn)
-- [패키지 매니저 파묘🪦](https://dev.to/algoorgoal/paekiji-maenijeo-pamyo-gf5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
