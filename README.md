@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Replaced a Docker-based Microservice with WebAssembly and It&#39;s 100x+ Faster](https://dev.to/nabindebnath/i-replaced-a-docker-based-microservice-with-webassembly-and-its-100x-faster-4f6d)
+- [How I Built a Pure Client-Side Image Compressor &lpar;No Server, No API&rpar;](https://dev.to/entry_bypass_fbfe8178543c/how-i-built-a-pure-client-side-image-compressor-no-server-no-api-26c8)
+- [1M+ Req/s Heavy-Read API in Go. Production Lessons Learned](https://dev.to/huykn/1m-reqs-heavy-read-api-in-go-production-lessons-learned-3j5g)
+- [Testing HTTP/1.1, HTTP/2, and HTTP/3 Performance with a React App](https://dev.to/tomasdevs/testing-http11-http2-and-http3-performance-with-a-react-app-67o)
 - [Why Has GraphQL Struggled to Become Popular? Under-Design or Over-Design?](https://dev.to/canonical/why-has-graphql-struggled-to-become-popular-under-design-or-over-design-47gb)
-- [AWS Lambda Is Dead for Production AI Agents &lpar;Why 2026 Demands Kubernetes&rpar;](https://dev.to/inboryn_99399f96579fcd705/aws-lambda-is-dead-for-production-ai-agents-why-2026-demands-kubernetes-4fjm)
-- [Der New Work-Superzyklus: Warum haptische Tools wie Timespin die Zukunft der Arbeit gestalten](https://dev.to/timespinwriterjames/der-new-work-superzyklus-warum-haptische-tools-wie-timespin-die-zukunft-der-arbeit-gestalten-4k78)
-- [Learn Docker with a Complete Hands-On Project | Dockerize App, Build Image, Push to Docker Hub](https://dev.to/thedevopsrite/learn-docker-with-a-complete-hands-on-project-dockerize-app-build-image-push-to-docker-hub-376g)
-- [Vertrauensarbeitszeit war gestern: Wie TimeSpin® klare Grenzen und bessere Leistung schafft](https://dev.to/timespinwriterjames/vertrauensarbeitszeit-war-gestern-wie-timespinr-klare-grenzen-und-bessere-leistung-schafft-1ebo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
