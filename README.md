@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [PrestaShop Joins cyber_Folks &amp; Sylius: The European Open Source Big Bang &lpar;and What It Means for You&rpar;](https://dev.to/ndabene/prestashop-joins-cyberfolks-sylius-the-european-open-source-big-bang-and-what-it-means-for-you-1a54)
-- [React&#39;s/Next.js Worst Week Ever! Just Got Worse](https://dev.to/myogeshchavan97/reactsnextjs-worst-week-ever-just-got-worse-6bp)
-- [A Comprehensive Guide to Transforming Your Relationship with Negative Emotions](https://dev.to/nirajkvinit1/a-comprehensive-guide-to-transforming-your-relationship-with-negative-emotions-1pio)
-- [Leveraging Artificial Intelligence in Financial Reporting: Opportunities, Challenges, and Future Directions](https://dev.to/nikhilkapoor0919/leveraging-artificial-intelligence-in-financial-reporting-opportunities-challenges-and-future-484i)
-- [The Difference of Deno and Node Handle Signals in Watch Mode](https://dev.to/whyang9701/the-difference-of-deno-and-node-handle-signals-in-watch-mode-kcm)
+- [Release 0.4: My Plan for Contributions to Open Source](https://dev.to/elsad_humbetli_0971c995ce/release-04-my-plan-for-contributions-to-open-source-127i)
+- [Hibernate ORM Explained: A Practical Guide for Java Developers](https://dev.to/prashant_dev/hibernate-orm-explained-a-practical-guide-for-java-developers-3kf0)
+- [Bitwave: Is This the Future-Proof Audio Format Developers Need?](https://dev.to/makalin/bitwave-is-this-the-future-proof-audio-format-developers-need-4nd4)
+- [AI Developer Digest: Gemini Deep Research, GPT-5.2, and Agent Tools](https://dev.to/proflead/ai-developer-digest-gemini-deep-research-gpt-52-and-agent-tools-231f)
+- [System Design: How Random Video Chat Apps Work](https://dev.to/flavius_belisarius_295876/system-design-how-random-video-chat-apps-work-54cn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
