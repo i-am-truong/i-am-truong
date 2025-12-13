@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [⚛️ From React 19.0 to 19.2: What’s New, What Improved, and Why It Matters ⁉️](https://dev.to/usman_awan/from-react-190-to-192-whats-new-what-improved-and-why-it-matters--1ip4)
-- [Building a Linux OS with Yocto](https://dev.to/k_y_98d85b6e1a0c5ccd80b34/building-a-linux-os-with-yocto-3op8)
-- [AI for 10x: The Leverage You&#39;re Missing](https://dev.to/thinkaddict/ai-for-10x-the-leverage-youre-missing-j02)
-- [Give Your AI Superpowers: Managing Python Environments with uv-mcp](https://dev.to/saadmanrafat/give-your-ai-superpowers-managing-python-environments-with-uv-mcp-cn8)
-- [Ed25519 + Merkle Tree + UUIDv7 = Building Tamper-Proof Decision Logs](https://dev.to/veritaschain/ed25519-merkle-tree-uuidv7-building-tamper-proof-decision-logs-o1e)
+- [🌌 How I Built a GROK-Inspired Starfield &amp; Shooting Stars Using HTML Canvas ✨](https://dev.to/usman_awan/how-i-built-a-grok-inspired-starfield-shooting-stars-using-html-canvas-3872)
+- [Case Study: How I Reduced React Bundle Size by 68%](https://dev.to/fhaponenka/case-study-how-i-reduce-react-bundle-size-by-68-84m)
+- [MINDS EYE FABRIC](https://dev.to/peacebinflow/minds-eye-fabric-p1p)
+- [AWS for Developers: The Guide](https://dev.to/kaustubhyerkade/aws-for-developers-the-only-guide-you-actually-need-in-2026-901)
+- [Linker Scripts Explained: Controlling Memory Layout on Bare Metal](https://dev.to/ripan030/linker-scripts-explained-controlling-memory-layout-on-bare-metal-3ocb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
