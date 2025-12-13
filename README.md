@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [PrestaShop Joins cyber_Folks &amp; Sylius: The European Open Source Big Bang &lpar;and What It Means for You&rpar;](https://dev.to/ndabene/prestashop-joins-cyberfolks-sylius-the-european-open-source-big-bang-and-what-it-means-for-you-1a54)
+- [React&#39;s/Next.js Worst Week Ever! Just Got Worse](https://dev.to/myogeshchavan97/reactsnextjs-worst-week-ever-just-got-worse-6bp)
+- [A Comprehensive Guide to Transforming Your Relationship with Negative Emotions](https://dev.to/nirajkvinit1/a-comprehensive-guide-to-transforming-your-relationship-with-negative-emotions-1pio)
+- [Leveraging Artificial Intelligence in Financial Reporting: Opportunities, Challenges, and Future Directions](https://dev.to/nikhilkapoor0919/leveraging-artificial-intelligence-in-financial-reporting-opportunities-challenges-and-future-484i)
 - [The Difference of Deno and Node Handle Signals in Watch Mode](https://dev.to/whyang9701/the-difference-of-deno-and-node-handle-signals-in-watch-mode-kcm)
-- [Analyzing and Optimizing a Parquet ClickHouse Ingestion Pipeline](https://dev.to/mohhddhassan/analyzing-and-optimizing-a-parquet-clickhouse-ingestion-pipeline-547i)
-- [2026 Marketing Budget Planning: A Framework That Actually Survives Contact With Reality](https://dev.to/synergistdigitalmedia/2026-marketing-budget-planning-a-framework-that-actually-survives-contact-with-reality-fle)
-- [Claude Code Online: Agentic AI on the Web](https://dev.to/ndabene/claude-code-online-agentic-ai-on-the-web-3j2d)
-- [ASP.NET CORE - How to using IAuthorizationRequirementData](https://dev.to/victormai/aspnet-core-how-to-using-iauthorizationrequirementdata-16dh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
