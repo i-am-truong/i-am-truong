@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [An Agentic Journal: From Assumption to Revelation](https://dev.to/beoncloud/an-agentic-journal-from-assumption-to-revelation-2ogg)
+- [Zeit ist Geld, Vertrauen ist Währung: Wie TimeSpin Ihre Kanzlei revolutioniert](https://dev.to/timespinwriterjames/zeit-ist-geld-vertrauen-ist-wahrung-wie-timespin-ihre-kanzlei-revolutioniert-5g)
+- [5-Day AI Agents Intensive Course Google X Kaggle](https://dev.to/rutuja_yadav/5-day-ai-agents-intensive-course-google-x-kaggle-1fhj)
+- [Motivation &amp; Teamgeist: Wie moderne Systeme die Produktivität von Teams steigern](https://dev.to/timespinwriterjames/motivation-teamgeist-wie-moderne-systeme-die-produktivitat-von-teams-steigern-ak)
 - [🧠 From Prompts&lpar;where almost everyone starts with LLMs&rpar; to Autonomous Teams&lpar;where agentic systems live&rpar;](https://dev.to/umadevi_rajkumar_012/from-promptswhere-almost-everyone-starts-with-llms-to-autonomous-teamswhere-agentic-systems-63g)
-- [👋 Hello DEV Community — Excited to Start My Journey Here](https://dev.to/saleh_ahmad_f464f968965dc/hello-dev-community-excited-to-start-my-journey-here-3aed)
-- [5 Things You Need to Know to Make Money with AI &lpar;Without the BS&rpar;](https://dev.to/rajeshroyal/5-things-you-need-to-know-to-make-money-with-ai-without-the-bs-1o9m)
-- [TimeSpin: Wie ein haptischer Zeiterfassungswürfel Schule und Unternehmen verändern könnte](https://dev.to/timespinwriterjames/timespin-wie-ein-haptischer-zeiterfassungswurfel-schule-und-unternehmen-verandern-konnte-38p4)
-- [Initializing ForgeRock DS from LDIF Files: A Step-by-Step Guide](https://dev.to/iamdevbox/initializing-forgerock-ds-from-ldif-files-a-step-by-step-guide-5d5l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
