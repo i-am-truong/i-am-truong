@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [theORQL — Debug Like a Space Wizard 🚀](https://dev.to/romil_code/theorql-debug-like-a-space-wizard-4m48)
-- [I Stopped Chasing Features and Started Designing Systems](https://dev.to/trojanmocx/i-stopped-chasing-features-and-started-designing-systems-3m9a)
-- [The Future of Business Management in 2026: AI, Automation, and Clarity](https://dev.to/sapeagle_erp_7e0cacb93388/the-future-of-business-management-in-2026-ai-automation-and-clarity-2hm8)
-- [AI Background Remover: Image Quality and Edge Accuracy](https://dev.to/freepixel11/ai-background-remover-image-quality-and-edge-accuracy-5122)
-- [JS Variables.](https://dev.to/mohamed_ajmal_222/js-variables-13h9)
+- [TPU: Why Google Doesn&#39;t Wait in Line for NVIDIA GPUs &lpar;1/2&rpar;](https://dev.to/jiminlee/tpu-why-google-doesnt-wait-in-line-for-nvidia-gpus-12-2a2n)
+- [Blue/Green Deployment with Nginx Upstreams Using Docker Compose](https://dev.to/ifeanyi_nworji/bluegreen-deployment-with-nginx-upstreams-using-docker-compose-5cn1)
+- [Hello World: An Embedded Engineer&#39;s Journey into Modern C++ and OSS](https://dev.to/taka1559/hello-world-an-embedded-engineers-journey-into-modern-c-and-oss-152i)
+- [I Tried Making a Portfolio. It Took Over My Free Time.](https://dev.to/trojanmocx/i-tried-making-a-portfolio-it-took-over-my-free-time-441f)
+- [Shine in Your Next Data Engineering Interview with Pandas](https://dev.to/betoalien/shine-in-your-next-data-engineering-interview-with-pandas-51i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
