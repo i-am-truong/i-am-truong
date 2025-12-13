@@ -124,7 +124,7 @@ Python                   1 repo              █░░░░░░░░░░�
 - [Two Overlooked Laravel Features: `fresh&lpar;&rpar;` and Attribute Visibility](https://dev.to/mmramadan496/two-overlooked-laravel-features-fresh-and-attribute-visibility-2kp3)
 - [Crafting Effective Prompts for GenAI in Software Testing](https://dev.to/qa-leaders/crafting-effective-prompts-for-genai-in-software-testing-43e1)
 - [When “It Runs” Is No Longer Enough](https://dev.to/sonia_alraini/when-it-runs-is-no-longer-enough-2e70)
-- [From Student to AI Architect: How Multi-Agent Systems Rewired My Understanding of Intelligent Applications](https://dev.to/prasadt1/from-student-to-ai-architect-how-multi-agent-systems-rewired-my-understanding-of-intelligent-5ehj)
+- [Agentic AI: How Can You Start?](https://dev.to/hasanmonsur/agentic-ai-how-can-you-start-5590)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
