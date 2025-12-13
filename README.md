@@ -120,11 +120,12 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Custom auth in Payload](https://dev.to/rubixvi/custom-auth-in-payload-29ck)
 - [The better way to shorten Linux commands &lpar;it&#39;s not alias&rpar;](https://dev.to/svhl/the-better-way-to-shorten-linux-commands-its-not-alias-17f6)
+- [Building My First AI Cyber Guardian Agent: Reflections from the Google x Kaggle Intensive](https://dev.to/arul_mozhi_95db9e19ae530e/building-my-first-ai-cyber-guardian-agent-reflections-from-the-google-x-kaggle-intensive-2f2m)
+- [Anyone here just obsessed with Linux like me 
+??](https://dev.to/barefootmikeofhorme/anyone-here-just-obsessed-with-linux-like-me--7el)
 - [MindMesh AI - 7 AI Agents Debate Your Decisions in Real-Time](https://dev.to/simranshaikh20_50/mindmesh-ai-7-ai-agents-debate-your-decisions-in-real-time-2nb2)
-- [Building a Virtualized Cybersecurity Lab: Splunk SIEM Setup and Log Forwarding](https://dev.to/gnarlylasagna/building-a-virtualized-cybersecurity-lab-splunk-siem-setup-and-log-forwarding-4k14)
-- [Stealth Inline Hook Detection via LR Return Address](https://dev.to/jack_sparrow_2386c07e8b94/stealth-inline-hook-detection-via-lr-return-address-52c5)
-- [I tried scraping Reddit in 2025... here&#39;s what happens when you fight the API](https://dev.to/short_playskits_ab152535/i-tried-scraping-reddit-in-2025-heres-what-happens-when-you-fight-the-api-57o5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
