@@ -122,9 +122,9 @@ Python                   1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [Running Any AI Agent on Kubernetes: Step-by-Step](https://dev.to/thenjdevopsguy/running-any-ai-agent-on-kubernetes-step-by-step-10n5)
 - [Kaggle Capstone: Resumay_I – Engineering a Multi-LLM Agent for Job Application Mastery](https://dev.to/g_ness_6f85db0060354f3ec7/kaggle-capstone-resumayi-engineering-a-multi-llm-agent-for-job-application-mastery-3b20)
-- [Cómo escribir smart contracts en Midnight](https://dev.to/cardumen_c23712b080b2a053/como-escribir-smart-contracts-en-midnight-h1j)
-- [Managing Multiple Shopify Stores in 2025: Technical Solutions for Account Isolation and Security](https://dev.to/digitalgrowthpro/managing-multiple-shopify-stores-in-2025-technical-solutions-for-account-isolation-and-security-dd2)
-- [Coding Challenge Practice - Question 77](https://dev.to/tomivan/coding-challenge-practice-question-77-4a6m)
+- [Identity Governance and Administration Explained: Lifecycle Management, RBAC, and Continuous Access Control](https://dev.to/kapusto/identity-governance-and-administration-explained-lifecycle-management-rbac-and-continuous-access-29kb)
+- [SwiftUI Layout System Masterclass](https://dev.to/sebastienlato/swiftui-layout-system-masterclass-2pfc)
+- [Access Governance in Hybrid Microsoft Environments: Centralized Control, Least Privilege, and Lifecycle Automation](https://dev.to/kapusto/access-governance-in-hybrid-microsoft-environments-centralized-control-least-privilege-and-5f3p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
