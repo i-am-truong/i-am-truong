@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My hands-on experience with Qdrant and Docling &lpar;and Ollama&rpar;](https://dev.to/aairom/my-hands-on-experience-with-qdrant-and-docling-and-ollama-a09)
-- [Building a Client-Side QR Code Generator: Privacy-First with Blazor WebAssembly](https://dev.to/prismioqr/building-a-client-side-qr-code-generator-privacy-first-with-blazor-webassembly-2786)
-- [55. Jump Game | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/55-jump-game-leetcode-top-interview-150-coding-questions-479b)
-- [Org Charts for AI Agents: Mapping Your Human and AI Workforce](https://dev.to/pinishv/org-charts-for-ai-agents-mapping-your-human-and-ai-workforce-4me3)
-- [Why GPT-5.2 is Coming Soon: The Race to Lead the AI Revolution](https://dev.to/srijan-xi/why-gpt-52-is-coming-soon-the-race-to-lead-the-ai-revolution-3aed)
+- [Trying to understand SOLID Principles with C#](https://dev.to/prasadg/trying-to-understand-solid-principles-with-c-693)
+- [🚀 Simplify Your C# Collections with the Spread Operator &lpar;..&rpar;](https://dev.to/elmehditaii/simplify-your-c-collections-with-the-spread-operator--3d8m)
+- [How Does Amex Process Millions of Transactions in Milliseconds](https://dev.to/evan-lausier/how-does-amex-process-millions-of-transactions-in-milliseconds-89i)
+- [KV Caching in LLMs: How It Speeds Up Text Generation](https://dev.to/rijultp/kv-caching-in-llms-how-it-speeds-up-text-generation-459j)
+- [Where to Find Elixir Jobs in 2025](https://dev.to/tspenov/where-to-find-elixir-jobs-in-2025-4hd3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
