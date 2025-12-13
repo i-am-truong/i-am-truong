@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What is the Model Context Protocol &lpar;MCP&rpar; Server? The Key to Connecting AI to the Real World](https://dev.to/bamacharan/what-is-the-model-context-protocol-mcp-server-the-key-to-connecting-ai-to-the-real-world-21nf)
 - [Mastering Geospatial Algorithms: A Deep Dive into Maps, Polygons, and Distance Calculations](https://dev.to/krlz/mastering-geospatial-algorithms-a-deep-dive-into-maps-polygons-and-distance-calculations-43la)
 - [I Built a Cozy Pixel Art Bouquet Maker Using HTML Canvas](https://dev.to/ycnkc/i-built-a-cozy-pixel-art-bouquet-maker-using-html-canvas-2k8a)
 - [GitHub Explained for Students: What It Is, Why to Use It, and How It Helps Your Future](https://dev.to/keerthana_696356/github-explained-for-students-what-it-is-why-to-use-it-and-how-it-helps-your-future-2ma5)
 - [It’s been a week since I shared my chat app — and I’m trying to understand why it didn’t click](https://dev.to/bug-free-dev/its-been-a-week-since-i-shared-my-chat-app-and-im-trying-to-understand-why-it-didnt-click-19k0)
-- [How I Built an AI That Finds Profitable Niches Before They Trend](https://dev.to/silver_pengroup_a1f5d44d/how-i-built-an-ai-that-finds-profitable-niches-before-they-trend-hma)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
