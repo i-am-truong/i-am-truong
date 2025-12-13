@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Build a TikTok Trend Tracker with Node.js &lpar;No Login Required&rpar;](https://dev.to/olams/build-a-tiktok-trend-tracker-with-nodejs-no-login-required-3nli)
 - [Step-by-Step Guide: Installing wrk &lpar;HTTP Benchmarking Tool&rpar; on Amazon Linux](https://dev.to/cloudgrains/step-by-step-guide-installing-wrk-http-benchmarking-tool-on-amazon-linux-4e9d)
 - [Building an &quot;Unstoppable&quot; Serverless Payment System on AWS &lpar;Circuit Breaker Pattern&rpar;](https://dev.to/nash9/building-an-unstoppable-serverless-payment-system-on-aws-circuit-breaker-pattern-4iba)
 - [Deploying a secure and scalable static website on AWS using Terraform](https://dev.to/nandan_007/deploying-a-secure-and-scalable-static-website-on-aws-using-terraform-2n0f)
 - [Introducing Atom Homepage: Your Self-Hosted Dashboard for Everything](https://dev.to/sudheerbhuvana/introducing-atom-homepage-your-self-hosted-dashboard-for-everything-p1i)
-- [Tsonnet #29 - Making inner references work](https://dev.to/bitmaybewise/tsonnet-29-making-inner-references-work-502o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
