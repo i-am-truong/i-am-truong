@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why is PDF so hard to edit?](https://dev.to/michael_lahr/why-is-pdf-so-hard-to-edit-3h3l)
+- [DEV Track Spotlight: Designing Local Generative AI Inference with AWS IoT Greengrass &lpar;DEV316&rpar;](https://dev.to/gunnargrosch/dev-track-spotlight-designing-local-generative-ai-inference-with-aws-iot-greengrass-dev316-3kgk)
+- [Docfx-Plus: A template and a tool to enhance DocFx and migrate from SHFB &lpar;Sandcastle&rpar;](https://dev.to/dotmake/docfx-plus-a-template-and-a-tool-to-enhance-docfx-and-migrate-from-shfb-sandcastle-1kp0)
 - [How to Fix Problems with WiFi Connection: Complete Troubleshooting Guide](https://dev.to/bryan_collins_abcd0214d94/how-to-fix-problems-with-wifi-connection-complete-troubleshooting-guide-3jhn)
 - [Build a TikTok Trend Tracker with Node.js &lpar;No Login Required&rpar;](https://dev.to/olams/build-a-tiktok-trend-tracker-with-nodejs-no-login-required-3nli)
-- [[Boost]](https://dev.to/randy_lambert_f42deeee25a/-2oi9)
-- [Save Smart on Premium Research Products with Ameano Peptides Coupon Code](https://dev.to/supercosts/save-smart-on-premium-research-products-with-ameano-peptides-coupon-code-4f16)
-- [Step-by-Step Guide: Installing wrk &lpar;HTTP Benchmarking Tool&rpar; on Amazon Linux](https://dev.to/cloudgrains/step-by-step-guide-installing-wrk-http-benchmarking-tool-on-amazon-linux-4e9d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
