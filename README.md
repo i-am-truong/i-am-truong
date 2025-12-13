@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Releasing DotScramble v2.0: Windows Installation &amp; Bypassing SmartScreen](https://dev.to/freerave/releasing-dotscramble-v20-windows-installation-bypassing-smartscreen-123f)
-- [Why I am Writing &quot;11 Controls for Zero Trust architecture in multi-agent AI-to-AI Systems&quot;](https://dev.to/helios_techcomm_552ce9239/why-i-am-writing-11-controls-for-zero-trust-architecture-in-multi-agent-ai-to-ai-systems-124)
-- [SwiftUI Data Flow &amp; Unidirectional Architecture](https://dev.to/sebastienlato/swiftui-data-flow-unidirectional-architecture-17ch)
-- [2025-12-12 Daily Robotics News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-12-daily-robotics-news-50o5)
-- [Zero-Click SEO: How to Make Money When Google Hoards Your Traffic](https://dev.to/synergistdigitalmedia/zero-click-seo-how-to-make-money-when-google-hoards-your-traffic-2a9c)
+- [Why Your UEBA Isn’t Working &lpar;and how to fix it&rpar;](https://dev.to/alvinslee/why-your-ueba-isnt-working-and-how-to-fix-it-5b59)
+- [How to Connect VAPI to Google Calendar for Appointment Scheduling](https://dev.to/callstacktech/how-to-connect-vapi-to-google-calendar-for-appointment-scheduling-kpj)
+- [The Anti-Framework Idea that turned into FUBARos - Clippy’s Revenge](https://dev.to/j4s0nc/the-anti-framework-idea-that-turned-into-fubaros-clippys-revenge-5g59)
+- [Improving navigation in long Google AI Studio chats with a userscript](https://dev.to/axl_43df979e16ffa14c/improving-navigation-in-long-google-ai-studio-chats-with-a-userscript-3pbl)
+- [𝗚𝗿𝗮𝘁𝗲𝗳𝘂𝗹 𝘁𝗼 𝗯𝗲 𝗥𝗮𝗻𝗸𝗲𝗱 𝗔𝗺𝗼𝗻𝗴 𝘁𝗵𝗲 𝗠𝗼𝘀𝘁 𝗔𝗰𝘁𝗶𝘃𝗲 𝗚𝗶𝘁𝗛𝘂𝗯 𝗨𝘀𝗲𝗿𝘀 𝗶𝗻 𝗡𝗶𝗴𝗲𝗿𝗶𝗮 🇳🇬💻](https://dev.to/engripaye/-35da)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
