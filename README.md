@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Contribute to Any GitHub Repository Anonymously — No Account, No Trace 👻](https://dev.to/livrasand/contribute-to-any-github-repository-anonymously-no-account-no-trace-385h)
-- [Play lichess from your terminal](https://dev.to/thomasmauran/play-lichess-from-your-terminal-4p47)
-- [Why is backend coding have a bit close similarities to Java....](https://dev.to/ezeudu_chibuike_4d75833bd/why-is-backend-coding-have-a-bit-close-similarities-to-java-f56)
-- [From Repo to Movement: Building an Open Source Project and Its Community](https://dev.to/badmonster0/from-repo-to-movement-building-an-open-source-project-and-its-community-215i)
-- [Cyoda is a Developer-First, Cloud-Native Application Platform](https://dev.to/sotir_kostadinov_d78ea470/cyoda-is-a-developer-first-cloud-native-application-platform-325j)
+- [&quot;How I built a &#39;Forever&#39; File Uploader with Vanilla JS and No Backend&quot;](https://dev.to/szilrd_plnagy_643c42ee2/how-i-built-a-forever-file-uploader-with-vanilla-js-and-no-backend-3g61)
+- [Local AI Tools: Exploring LM Studio &lpar;Tool 2&rpar;](https://dev.to/alexlead/local-ai-tools-exploring-lm-studio-tool-2-3801)
+- [Building Reliable Web Platforms for Live Events: My Experience with Matt Rife Tour](https://dev.to/topmer/building-reliable-web-platforms-for-live-events-my-experience-with-matt-rife-tour-1ojp)
+- [How I Built a Real-Time CGPA Calculator using JavaScript and Firebase](https://dev.to/christianfx/how-i-built-a-real-time-cgpa-calculator-using-javascript-and-firebase-3bkp)
+- [Advent of Code 2025 - December 11th](https://dev.to/robvanderleek/advent-of-code-2025-december-11th-32ki)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
