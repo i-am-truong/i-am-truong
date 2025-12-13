@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with Spec-driven Development Using Kiro](https://dev.to/aws-heroes/getting-started-with-spec-driven-development-using-kiro-400l)
 - [Docker Explained from Real Project Pain &lpar;Not Theory&rpar;](https://dev.to/anusha_kuppili/docker-explained-from-real-project-pain-not-theory-4al)
 - [Day 24 of improving my Data Science skills](https://dev.to/sp_the_data_specialist/day-24-of-improving-my-data-science-skills-2fg2)
 - [Lessons Learned from the React2Shell Vulnerability &lpar;December 3, 2025&rpar;](https://dev.to/jojo_kunsang/lessons-learned-from-the-react2shell-vulnerability-december-3-2025-2ieo)
 - [DB-Toolkit - Database Management Made Simple](https://dev.to/adelodunpeter/db-toolkit-database-management-made-simple-3bdp)
-- [Boost Developer Revenue with Monetzly&#39;s API Monetization](https://dev.to/monetzly/boost-developer-revenue-with-monetzlys-api-monetization-3jh3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
