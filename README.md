@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Streit um den Acht-Stunden-Tag: Bauarbeiter schlagen Alarm](https://dev.to/timespinwriterjames/streit-um-den-acht-stunden-tag-bauarbeiter-schlagen-alarm-32l3)
-- [Day 13: Window Functions in PySpark](https://dev.to/sandeepk27/day-13-window-functions-in-pyspark-597i)
-- [What are AI Evals?](https://dev.to/nickytonline/what-are-ai-evals-1kk9)
-- [Visual Regression for Adaptive Interfaces: Testing That Crisis Mode Actually Looks Different](https://dev.to/crisiscoresystems/visual-regression-for-adaptive-interfaces-testing-that-crisis-mode-actually-looks-different-380b)
-- [Mahmoud Allam: Digital Product Leader in FinTech and Technology-Driven Innovation](https://dev.to/ahmed_mostafa_5130fbef919/mahmoud-allam-digital-product-leader-in-fintech-and-technology-driven-innovation-4kh)
+- [🧠 From Prompts&lpar;where almost everyone starts with LLMs&rpar; to Autonomous Teams&lpar;where agentic systems live&rpar;](https://dev.to/umadevi_rajkumar_012/from-promptswhere-almost-everyone-starts-with-llms-to-autonomous-teamswhere-agentic-systems-63g)
+- [👋 Hello DEV Community — Excited to Start My Journey Here](https://dev.to/saleh_ahmad_f464f968965dc/hello-dev-community-excited-to-start-my-journey-here-3aed)
+- [5 Things You Need to Know to Make Money with AI &lpar;Without the BS&rpar;](https://dev.to/rajeshroyal/5-things-you-need-to-know-to-make-money-with-ai-without-the-bs-1o9m)
+- [TimeSpin: Wie ein haptischer Zeiterfassungswürfel Schule und Unternehmen verändern könnte](https://dev.to/timespinwriterjames/timespin-wie-ein-haptischer-zeiterfassungswurfel-schule-und-unternehmen-verandern-konnte-38p4)
+- [Initializing ForgeRock DS from LDIF Files: A Step-by-Step Guide](https://dev.to/iamdevbox/initializing-forgerock-ds-from-ldif-files-a-step-by-step-guide-5d5l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
