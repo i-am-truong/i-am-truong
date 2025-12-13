@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Clean Coder: Opinion](https://dev.to/francisco_susana/the-clean-coder-opinion-214d)
+- [Claude Skills + MCP Server: Create Consistent AWS Cost Reports in Minutes](https://dev.to/peter_dyakov_06f3c69a46b7/claude-skills-mcp-server-create-consistent-aws-cost-reports-in-minutes-322f)
+- [Quality Assurance Strategy untuk Modul Reply](https://dev.to/maulana_seto_2280dfc88c71/quality-assurance-strategy-untuk-modul-reply-3nc1)
+- [Meta-Optimized Continual Adaptation for bio-inspired soft robotics maintenance in hybrid quantum-classical pipelines](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-bio-inspired-soft-robotics-maintenance-in-hybrid-2cpn)
 - [패키지 매니저 파묘🪦](https://dev.to/algoorgoal/paekiji-maenijeo-pamyo-gf5)
-- [Redefining My Understanding of AI Agents: A Five-Day Learning Experience](https://dev.to/md_kaisar_122cb42ab77b8d5/redefining-my-understanding-of-ai-agents-a-five-day-learning-experience-2g2h)
-- [Help Center Structure Explained for Better Self-Service](https://dev.to/freepixel11/help-center-structure-explained-for-better-self-service-3mfd)
-- [🌌 How I Built a GROK-Inspired Starfield &amp; Shooting Stars Using HTML Canvas ✨](https://dev.to/usman_awan/how-i-built-a-grok-inspired-starfield-shooting-stars-using-html-canvas-3872)
-- [Case Study: How I Reduced React Bundle Size by 68%](https://dev.to/fhaponenka/case-study-how-i-reduce-react-bundle-size-by-68-84m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
