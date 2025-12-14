@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [PromptShield AI – An AI Cost &amp; Risk Firewall Built with Xano](https://dev.to/manikant92/promptshield-ai-an-ai-cost-risk-firewall-built-with-xano-346e)
+- [Blazor SaaS Starter Kits Compared: When to Choose Brick Starter for Full‑Stack C#](https://dev.to/brickstarter/blazor-saas-starter-kits-compared-when-to-choose-brick-starter-for-full-stack-c-f2o)
+- [Dev tools Hub API](https://dev.to/shashank_y/dev-tools-hub-api-d3l)
+- [Token Validation](https://dev.to/shjung-dev/token-validation-57id)
 - [How to Build a Real-Time SEC Filing Monitor in Python &lpar;Under 50 Lines&rpar;](https://dev.to/nbrempel/how-to-build-a-real-time-sec-filing-monitor-in-python-under-50-lines-1c25)
-- [Mike’s 36th Birthday Cake – CSS Candle Wick Edition](https://dev.to/preetha_vaishnavi_2b82358/mikes-36th-birthday-cake-css-candle-wick-edition-4ci)
-- [Improving UI Consistency for SG Websites](https://dev.to/techcontributors/improving-ui-consistency-for-sg-websites-1e63)
-- [What Is Soft Delete?](https://dev.to/sampseiol1/what-is-soft-delete-e3p)
-- [Stop wasting time configuring MERN: I built a production-ready TypeScript boilerplate](https://dev.to/jaseelthalikulam/stop-wasting-time-configuring-mern-i-built-a-production-ready-typescript-boilerplate-1n3b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
