@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate &quot;It Works on My Machine&quot; Fix: Building a Polyglot &lpar;C++, Rust, Python&rpar;, Remote IDE &amp; Jupyter-Ready Container](https://dev.to/warren_jitsing_dd1c1d6fc6/the-ultimate-it-works-on-my-machine-fix-building-a-polyglot-c-rust-python-remote-ide--128d)
-- [A Minimal Note-Taking System with Vim, fzf, and Git](https://dev.to/dunkbing/a-minimal-note-taking-system-with-vim-fzf-and-git-4deo)
-- [Tell me something a fluent Pythonista doesn’t know 🐍](https://dev.to/bug-free-dev/tell-me-something-a-fluent-pythonista-doesnt-know-455a)
-- [Not Z-Image-Base!but Z-Image-Omni-Base?](https://dev.to/ryan_n_a9ec3d0a1a357a89/not-z-image-basebut-z-image-omni-base-9m0)
-- [Is CsvPath an easy or hard language?](https://dev.to/david_kershaw_b6916404da6/is-csvpath-an-easy-or-hard-language-1g8l)
+- [State Management Patterns for Long-Running AI Agents: Redis vs StatefulSets vs External Databases](https://dev.to/inboryn_99399f96579fcd705/state-management-patterns-for-long-running-ai-agents-redis-vs-statefulsets-vs-external-databases-39c5)
+- [My Solution to Deno Watch Mode Signal Handling](https://dev.to/whyang9701/my-solution-of-deno-watch-mode-signal-handling-4ejp)
+- [Scaling Kubernetes Load with KEDA](https://dev.to/victorpinzon1988eng/scaling-kubernetes-load-with-keda-j7f)
+- [Stop Hardcoding Translations in Laravel - Use Translatable](https://dev.to/laravel_mastery_ffd9d10ec/stop-hardcoding-translations-in-laravel-use-translatable-16h3)
+- [I Tried Reading React&#39;s Source Code and Flow Beat Me Up. So Let&#39;s Learn 🚀](https://dev.to/nyaomaru/i-tried-reading-reacts-source-code-and-flow-beat-me-up-so-lets-learn-4jf0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
