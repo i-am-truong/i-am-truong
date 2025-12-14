@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Combining Python and Surveying Engineering](https://dev.to/arrebol/combining-python-and-surveying-engineering-lji)
-- [TimeSpin: How a Haptic Time-Tracking Cube Could Transform Schools and Businesses](https://dev.to/thomasdelfing_de/timespin-how-a-haptic-time-tracking-cube-could-transform-schools-and-businesses-4egb)
-- [Form content disappears after page refresh](https://dev.to/shangyunyao/form-content-disappears-after-page-refresh-4hk3)
-- [15 Small Business Marketing Ideas for Founders, Devs, and Indie Hackers](https://dev.to/prateekshaweb/15-small-business-marketing-ideas-for-founders-devs-and-indie-hackers-5fjo)
-- [System shows &quot;File too large&quot; error when uploading &lt;1MB image](https://dev.to/shangyunyao/system-shows-file-too-large-error-when-uploading-1mb-image-e76)
+- [Production-Ready E-commerce Price Tracker API: A Xano AI Challenge Submission](https://dev.to/suriya_kumar_032b4d4e13f5/production-ready-e-commerce-price-tracker-api-a-xano-ai-challenge-submission-435i)
+- [Runtime environment variables in Next.js - build reusable Docker images](https://dev.to/nemanjam/runtime-environment-variables-in-nextjs-build-reusable-docker-images-ho)
+- [Creating an AI Discord Bot with Ollama](https://dev.to/ethand91/creating-an-ai-discord-bot-with-ollama-133e)
+- [How to integrate Stripe Payments into a chrome extension &lpar;step by step&rpar;](https://dev.to/notearthian/how-to-integrate-stripe-payments-into-a-chrome-extension-step-by-step-2gf3)
+- [Time Tracking in Germany – How a Legal Requirement Becomes an Opportunity for a Better Work Culture](https://dev.to/thomasdelfing_de/time-tracking-in-germany-how-a-legal-requirement-becomes-an-opportunity-for-a-better-work-culture-b4k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
