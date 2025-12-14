@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Redis Nuxt Blog: The Admin Panel Awakens ⚔️](https://dev.to/melasistema/redis-nuxt-blog-the-admin-panel-awakens-4mdk)
-- [Getting Started With Linux](https://dev.to/dvorlandi/getting-started-with-linux-4n7f)
-- [[Boost]](https://dev.to/silletr/-23k3)
-- [Rython - New Programming language!](https://dev.to/silletr/rython-new-programming-language-4c1c)
-- [Build Your First Privacy-Preserving App on Midnight Network](https://dev.to/martinrivero15/build-your-first-privacy-preserving-app-on-midnight-network-1l4c)
+- [48 Hours to Learn AI Agents: How It Changed My View](https://dev.to/yukaty/48-hours-to-learn-ai-agents-how-it-changed-my-view-42le)
+- [2025-12-14 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-14-daily-ai-news-1h2j)
+- [Neuroevolution of Augmenting Topologies in JavaScript](https://dev.to/joshuadam/neuroevolution-of-augmenting-topologies-in-javascript-2i08)
+- [SwiftUI Performance Deep Dive: Rendering, Identity &amp; Invalidations](https://dev.to/sebastienlato/swiftui-performance-deep-dive-rendering-identity-invalidations-elm)
+- [Coding Challenge Practice - Question 78](https://dev.to/tomivan/coding-challenge-practice-question-78-43k0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
