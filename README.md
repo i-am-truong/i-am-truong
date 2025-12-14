@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Manage Multiple GitHub Accounts on One Machine Using SSH Keys](https://dev.to/munirahmad6224/how-to-manage-multiple-github-accounts-on-one-machine-using-ssh-keys-1kio)
+- [Building an Enterprise AI Calendar Agent: Our Journey with Google&#39;s &lpar;ADK&rpar; &amp; Gemini 2.5](https://dev.to/ellacharmed/building-an-enterprise-ai-calendar-agent-our-journey-with-googles-adk-gemini-25-4pe6)
+- [Reflection of Co-Learning Mantle week 1](https://dev.to/bagashyt/reflection-of-co-learning-mantle-week-1-348c)
+- [Open Source Licenses Explained: The Good, The Bad, and The &quot;Wait, Can I Actually Use This?&quot;](https://dev.to/polliog/open-source-licenses-explained-the-good-the-bad-and-the-wait-can-i-actually-use-this-2nih)
 - [Diwali Chakra](https://dev.to/preetha_vaishnavi_2b82358/diwali-chakra-3jlb)
-- [Aura cleaning](https://dev.to/preetha_vaishnavi_2b82358/aura-cleaning-567e)
-- [Day 64: Python Depth-First Search &lpar;DFS&rpar; on Tree, Stack-Based Iterative Traversal for Deep Exploration Without Recursion](https://dev.to/shahrouzlogs/day-64-python-depth-first-search-dfs-on-tree-stack-based-iterative-traversal-for-deep-4gej)
-- [Ashoka chakra](https://dev.to/preetha_vaishnavi_2b82358/ashoka-chakra-3bi4)
-- [What is Aggregation Pipeline in MongoDB?](https://dev.to/tbs96/what-is-aggregation-pipeline-in-mongodb-5gfb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
