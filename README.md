@@ -120,10 +120,10 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Use a Public GitHub Repository as a Maven Dependency](https://dev.to/udara_dananjaya/how-to-use-a-public-github-repository-as-a-maven-dependency-5248)
 - [AI Email Personalization: Why Your Predictive Content Blocks Are Probably Creeping People Out](https://dev.to/synergistdigitalmedia/ai-email-personalization-why-your-predictive-content-blocks-are-probably-creeping-people-out-286m)
 - [Day 2:Python Programming](https://dev.to/aruna_arun_0cda4eb425bb0f/day-2python-programming-5ddf)
 - [I Built an AI Movie Recommendation App to End Endless Scrolling](https://dev.to/ramiz_mehdiyev_8d57b736c5/i-built-an-ai-movie-recommendation-app-to-end-endless-scrolling-55o)
-- [Hardware Protection Engineering: Analyzing the SIXBOX iPhone 17 Case Design](https://dev.to/odvex_admin/hardware-protection-engineering-analyzing-the-sixbox-iphone-17-case-design-1pmg)
 - [From Beginner to Builder: How the AI Agents Intensive Course Changed My Understanding of AI](https://dev.to/sarah090/from-beginner-to-builder-how-the-ai-agents-intensive-course-changed-my-understanding-of-ai-2e7f)
 <!-- BLOG-POST-LIST:END -->
 
