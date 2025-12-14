@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Build a Slack Bot with This Webhook Template](https://dev.to/restdbjones/build-a-slack-bot-with-this-webhook-template-17io)
-- [New human language for AI.](https://dev.to/spaceotter/new-human-language-for-ai-3gd0)
-- [How I replaced my staging environment with MCP](https://dev.to/mikesol/how-i-replaced-my-staging-environment-with-mcp-jk2)
-- [Probabilistic Graph Neural Inference for satellite anomaly response operations for low-power autonomous deployments](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-satellite-anomaly-response-operations-for-low-power-2g7e)
-- [AI agents are everywhere, but what actually is an AI Agent?](https://dev.to/jefreesujit/ai-agents-are-everywhere-but-what-actually-is-an-ai-agent-55c0)
+- [Best Data Governance Software by Pilog Group](https://dev.to/hanouf_alrasheid_b7e9dd9d/best-data-governance-software-by-pilog-group-26nl)
+- [Untitled](https://dev.to/hyme_08_68da5ff31f9cb3580/untitled-eml)
+- [DEV Track Spotlight: Unleash Rust&#39;s Potential on AWS &lpar;DEV307&rpar;](https://dev.to/aws/dev-track-spotlight-unleash-rusts-potential-on-aws-dev307-4e31)
+- [Clean Up Your Quartz.NET Jobs with Dynamic Registration 🧹](https://dev.to/andresjcorrea/clean-up-your-quartznet-jobs-with-dynamic-registration-4p42)
+- [Building a Simple RAG System Using FAISS](https://dev.to/yoganawithai/building-a-simple-rag-system-using-faiss-17le)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
