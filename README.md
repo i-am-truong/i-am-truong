@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Start Here: PainTracker + CrisisCore Build Log &lpar;Privacy-First, Offline-First, No Surveillance&rpar;](https://dev.to/crisiscoresystems/start-here-paintracker-crisiscore-build-log-privacy-first-offline-first-no-surveillance-3h0k)
+- [I built a comprehensive open-source learning repository with 100+ guides covering everything from AI fundamentals to production LLM systems. Here&#39;s what&#39;s inside and how to use it.](https://dev.to/satinathnit/i-built-a-comprehensive-open-source-learning-repository-with-100-guides-covering-everything-from-50p0)
+- [Update on Deno Watch Mode Signal Issue.](https://dev.to/whyang9701/progress-update-of-deno-watch-mode-issue-464e)
 - [AI Compass: Your Complete Guide to Navigating the AI Landscape as an Engineer](https://dev.to/satinathnit/ai-compass-your-complete-guide-to-navigating-the-ai-landscape-as-an-engineer-1n0c)
-- [AI as a Pair Programmer: How I Built depx in One Day](https://dev.to/ruidosujeira/ai-as-a-pair-programmer-how-i-built-depx-in-one-day-2m0i)
-- [Python by Structure: List Comprehensions and Their Hidden Complexity](https://dev.to/aaron_rose_0787cc8b4775a0/python-by-structure-list-comprehensions-and-their-hidden-complexity-1h5c)
-- [Mastering Sui DeepBook: A Hands-On DeFi DEX Series &lpar;1&rpar;](https://dev.to/rajeshroyal/mastering-sui-deepbook-a-hands-on-defi-dex-series-1-282n)
-- [Image Pixel RGBA Extractor v2.0.0 - Professional Tool for Precise Color Data Extraction](https://dev.to/wtsolutions/image-pixel-rgba-extractor-v200-professional-tool-for-precise-color-data-extraction-3ohd)
+- [I Crashed My Server with Promise.all&lpar;&rpar; - Here&#39;s How I Built a 121 RPS Fuzzer Instead](https://dev.to/toklas495/i-crashed-my-server-with-promiseall-heres-how-i-built-a-121-rps-fuzzer-instead-32ob)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
