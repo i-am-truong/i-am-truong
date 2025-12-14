@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Build a Slack Bot with This Webhook Template](https://dev.to/restdbjones/build-a-slack-bot-with-this-webhook-template-17io)
 - [New human language for AI.](https://dev.to/spaceotter/new-human-language-for-ai-3gd0)
 - [How I replaced my staging environment with MCP](https://dev.to/mikesol/how-i-replaced-my-staging-environment-with-mcp-jk2)
 - [Probabilistic Graph Neural Inference for satellite anomaly response operations for low-power autonomous deployments](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-satellite-anomaly-response-operations-for-low-power-2g7e)
 - [AI agents are everywhere, but what actually is an AI Agent?](https://dev.to/jefreesujit/ai-agents-are-everywhere-but-what-actually-is-an-ai-agent-55c0)
-- [GitHug: Finding Your Code Soulmate in the Octoverse](https://dev.to/daviducolo/githug-finding-your-code-soulmate-in-the-octoverse-3lji)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
