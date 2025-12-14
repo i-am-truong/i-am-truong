@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Fun With Filters&lpar;css/js&rpar;](https://dev.to/preetha_vaishnavi_2b82358/fun-with-filterscssjs-ljk)
+- [In Defense of Rudolph &lpar;and Against State-Sanctioned Reindeer Bullying&rpar;](https://dev.to/jjn1056/in-defense-of-rudolph-and-against-state-sanctioned-reindeer-bullying-32gp)
 - [Am I still a real developer if AI writes half my code?](https://dev.to/dev_tips/am-i-still-a-real-developer-if-ai-writes-half-my-code-16e)
 - [DeArrow: Crowdsourcing Better YouTube Titles and Thumbnails](https://dev.to/stelixx-insider/dearrow-crowdsourcing-better-youtube-titles-and-thumbnails-chk)
 - [Git &amp; GitHub for DevOps - The Complete Hands-On Guide &lpar;Week 4&rpar;](https://dev.to/ashish0360/git-github-for-devops-the-complete-hands-on-guide-week-4-bf1)
-- [How Microsoft Agent Framework Can Boost Employee Training in 2026 and Beyond](https://dev.to/nayeem79/how-microsoft-agent-framework-can-boost-employee-training-in-2026-and-beyond-751)
+- [The BIONZ XR Leap: A Technical Analysis of the Sony Alpha 7 IV Architecture](https://dev.to/odvex_admin/the-bionz-xr-leap-a-technical-analysis-of-the-sony-alpha-7-iv-architecture-ofh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
