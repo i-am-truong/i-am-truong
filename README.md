@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Seeing the SERP as Users Do: A Practical Guide to Multi-Region SEO Monitoring at Scale](https://dev.to/anna_6c67c00f5c3f53660978/seeing-the-serp-as-users-do-a-practical-guide-to-multi-region-seo-monitoring-at-scale-3i4m)
-- [MiniDisc Walkman - Audio Player - Audio Visualizer](https://dev.to/preetha_vaishnavi_2b82358/minidisc-walkman-audio-player-audio-visualizer-39af)
-- [3D Walkman - Pure CSS](https://dev.to/preetha_vaishnavi_2b82358/3d-walkman-pure-css-3i8o)
-- [The End of Prompt Engineering: Entering the Era of Agent Control](https://dev.to/learn_deco/the-end-of-prompt-engineering-entering-the-era-of-agent-control-2ild)
-- [Multi‑Tenant SaaS on .NET: Why a Starter Kit Beats Building from Scratch](https://dev.to/brickstarter/multi-tenant-saas-on-net-why-a-starter-kit-beats-building-from-scratch-3ib6)
+- [Java Arrays clone&lpar;&rpar; Explained: Deep Dive with Examples &amp; Best Practices](https://dev.to/satyam_gupta_0d1ff2152dcc/java-arrays-clone-explained-deep-dive-with-examples-best-practices-252d)
+- [.NET 10: The Performance Beast That&#39;s Redefining Modern Application Development](https://dev.to/georgekobaidze/net-10-the-performance-beast-thats-redefining-modern-application-development-35jn)
+- [Java Arrays.clear&lpar;&rpar;? Let&#39;s Get Real: Clearing Arrays The Right Way](https://dev.to/satyam_gupta_0d1ff2152dcc/java-arraysclear-lets-get-real-clearing-arrays-the-right-way-1a07)
+- [Master Java&#39;s addAll&lpar;&rpar; Method: Complete Guide with Examples &amp; Best Practices](https://dev.to/satyam_gupta_0d1ff2152dcc/master-javas-addall-method-complete-guide-with-examples-best-practices-3kof)
+- [Distributed Tracing in Go: Build Observability Into Your Microservices From Scratch](https://dev.to/nithinbharathwaj/distributed-tracing-in-go-build-observability-into-your-microservices-from-scratch-542m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
