@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Combining Python and Surveying Engineering](https://dev.to/arrebol/combining-python-and-surveying-engineering-lji)
+- [TimeSpin: How a Haptic Time-Tracking Cube Could Transform Schools and Businesses](https://dev.to/thomasdelfing_de/timespin-how-a-haptic-time-tracking-cube-could-transform-schools-and-businesses-4egb)
 - [An Intro to Large Language Models and the Transformer Architecture: Talking to a calculator](https://dev.to/jacob_d/an-intro-to-large-language-models-and-the-transformer-architecture-talking-to-a-calculator-483j)
 - [Okay, maybe, vibe coding is not bad at all](https://dev.to/rahmatalhakam/okay-maybe-vibe-coding-is-not-bad-at-all-1ego)
 - [Day 10: Making Terraform Smarter with Conditions, Dynamic Blocks, and Splat Expressions](https://dev.to/sreya_sharma_711168ec58fc/day-10-making-terraform-smarter-with-conditions-dynamic-blocks-and-splat-expressions-5c0o)
-- [Why does this situation occur?](https://dev.to/kettle/why-does-this-situation-occur-3cno)
-- [Hi tech gurus - I’m building devars, a developer-focused platform for AI-assisted tooling.](https://dev.to/mintlord3ttah/hi-tech-gurus-im-building-devars-a-developer-focused-platform-for-ai-assisted-tooling-3bg8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
