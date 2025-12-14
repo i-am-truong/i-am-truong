@@ -122,9 +122,9 @@ Python                   1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [A Good Engineer Never Blames the Domain](https://dev.to/devalgupta4/a-good-engineer-never-blames-the-domain-35ng)
 - [Building Better AI Prompts from Images: A Step-by-Step with Image2Prompts](https://dev.to/bin_liu_02f54a4e18048d11f/building-better-ai-prompts-from-images-a-step-by-step-with-image2prompts-1gil)
-- [Houdini Prison Escape](https://dev.to/preetha_vaishnavi_2b82358/houdini-prison-escape-e7h)
 - [From Beginner to Builder : How The AI Agent Intensive Course Changed My Understanding Of AI](https://dev.to/sarah090/from-beginner-to-builder-how-the-ai-agent-intensive-course-changed-my-understanding-of-ai-6el)
-- [Pure CSS Coffee Cup - Single Div Magic ☕](https://dev.to/preetha_vaishnavi_2b82358/pure-css-coffee-cup-single-div-magic-3hm7)
+- [The Broke Student’s Guide to the Cloud: How I Host Projects for $0](https://dev.to/maame-codes/the-broke-students-guide-to-the-cloud-how-i-host-projects-for-0-2iok)
+- [The Dual-Processor Paradigm: Dissecting the Canon EOS R1 Architecture](https://dev.to/odvex_admin/the-dual-processor-paradigm-dissecting-the-canon-eos-r1-architecture-1o73)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
