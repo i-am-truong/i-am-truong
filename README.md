@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why I Prefer Simple Code Over &quot;Smart&quot; Code](https://dev.to/sareena_rahim/why-i-prefer-simple-code-over-smart-code-4je4)
 - [AI‑Assisted Writing as Search &lpar;Not Draft Generation&rpar;](https://dev.to/arthurbiensur/ai-assisted-writing-as-search-not-draft-generation-4io8)
 - [Why CAPTCHAs today are so bad &lpar;and what we should be building instead&rpar;](https://dev.to/tentari/why-captchas-today-are-so-bad-and-what-we-should-be-building-instead-3dm2)
 - [Android Security for Devs: Nocturne VPN Technical Guide](https://dev.to/mitul_chovatiya_e568824a5/android-security-for-devs-nocturne-vpn-technical-guide-4h7)
 - [A Better Way to Run MeshCommander in Your Homelab &lpar;Intel vPro + Docker&rpar;](https://dev.to/spaceterran/a-better-way-to-run-meshcommander-in-your-homelab-intel-vpro-docker-5h44)
-- [Testing Unit](https://dev.to/hexzonetwork/testing-unit-2i9d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
