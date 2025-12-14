@@ -120,7 +120,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Best Data Governance Software by Pilog Group](https://dev.to/hanouf_alrasheid_b7e9dd9d/best-data-governance-software-by-pilog-group-26nl)
+- [Implementing a RESTful Web API with Spring Boot](https://dev.to/arshadpatel/implementing-a-restful-web-api-with-spring-boot-2241)
 - [Untitled](https://dev.to/hyme_08_68da5ff31f9cb3580/untitled-eml)
 - [DEV Track Spotlight: Unleash Rust&#39;s Potential on AWS &lpar;DEV307&rpar;](https://dev.to/aws/dev-track-spotlight-unleash-rusts-potential-on-aws-dev307-4e31)
 - [Clean Up Your Quartz.NET Jobs with Dynamic Registration 🧹](https://dev.to/andresjcorrea/clean-up-your-quartznet-jobs-with-dynamic-registration-4p42)
