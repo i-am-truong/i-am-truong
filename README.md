@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why AI Won’t Replace Developers &lpar;After I Used It in Production&rpar;](https://dev.to/rohit_singh_ee84e64941db7/why-ai-wont-replace-developers-after-i-used-it-in-production-j3g)
-- [BISO Glossary](https://dev.to/d3one/biso-glossary-dep)
-- [My First Two Projects as a 17-Year-Old Developer](https://dev.to/esteban_mo_3af943dd5d7939/my-first-two-projects-as-a-17-year-old-developer-370i)
-- [Building Stoqyy: Simplifying Retail Management Without Building Another Heavy ERP](https://dev.to/vjygour/building-stoqyy-simplifying-retail-management-without-building-another-heavy-erp-f2l)
-- [From Film to Code: What Fujifilm Teaches Developers About the AI Age](https://dev.to/cathylai/from-film-to-code-what-fujifilm-teaches-developers-about-the-ai-age-5bc)
+- [AI Compass: Your Complete Guide to Navigating the AI Landscape as an Engineer](https://dev.to/satinathnit/ai-compass-your-complete-guide-to-navigating-the-ai-landscape-as-an-engineer-1n0c)
+- [AI as a Pair Programmer: How I Built depx in One Day](https://dev.to/ruidosujeira/ai-as-a-pair-programmer-how-i-built-depx-in-one-day-2m0i)
+- [Python by Structure: List Comprehensions and Their Hidden Complexity](https://dev.to/aaron_rose_0787cc8b4775a0/python-by-structure-list-comprehensions-and-their-hidden-complexity-1h5c)
+- [Mastering Sui DeepBook: A Hands-On DeFi DEX Series &lpar;1&rpar;](https://dev.to/rajeshroyal/mastering-sui-deepbook-a-hands-on-defi-dex-series-1-282n)
+- [Image Pixel RGBA Extractor v2.0.0 - Professional Tool for Precise Color Data Extraction](https://dev.to/wtsolutions/image-pixel-rgba-extractor-v200-professional-tool-for-precise-color-data-extraction-3ohd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
