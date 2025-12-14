@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Ultimate &quot;It Works on My Machine&quot; Fix: Building a Polyglot &lpar;C++, Rust, Python&rpar;, Remote IDE &amp; Jupyter-Ready Container](https://dev.to/warren_jitsing_dd1c1d6fc6/the-ultimate-it-works-on-my-machine-fix-building-a-polyglot-c-rust-python-remote-ide--128d)
+- [A Minimal Note-Taking System with Vim, fzf, and Git](https://dev.to/dunkbing/a-minimal-note-taking-system-with-vim-fzf-and-git-4deo)
+- [Tell me something a fluent Pythonista doesn’t know 🐍](https://dev.to/bug-free-dev/tell-me-something-a-fluent-pythonista-doesnt-know-455a)
 - [Not Z-Image-Base!but Z-Image-Omni-Base?](https://dev.to/ryan_n_a9ec3d0a1a357a89/not-z-image-basebut-z-image-omni-base-9m0)
 - [Is CsvPath an easy or hard language?](https://dev.to/david_kershaw_b6916404da6/is-csvpath-an-easy-or-hard-language-1g8l)
-- [🚀 The Timeout Tamer: When Patience Met Progress](https://dev.to/ani_k_43243167a645bab1b57/the-timeout-tamer-when-patience-met-progress-4ec2)
-- [Understanding Client-Server Architecture: A Beginner’s Guide](https://dev.to/alikhan-devs/understanding-client-server-architecture-a-beginners-guide-4djn)
-- [Typelo vs Monkeytype vs TypeRacer — Why Competitive Typing Needed a New Kind of Platform](https://dev.to/christopher_joshy_575b0e1/typelo-vs-monkeytype-vs-typeracer-why-competitive-typing-needed-a-new-kind-of-platform-224l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
