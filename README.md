@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Python Guide: How to Detect If a Domain Is a Scam](https://dev.to/markpy/python-guide-how-to-detect-if-a-domain-is-a-scam-2c84)
-- [Gleam - a view from non-functional perspective](https://dev.to/arthrp/gleam-a-view-from-non-functional-perspective-21af)
-- [Inside Google Jobs Series &lpar;Part 11&rpar;: Cross-Domain &amp; Payment Roles](https://dev.to/jackm_345442a09fb53b/inside-google-jobs-series-part-11-cross-domain-payment-roles-1mef)
-- [Docify: Building a Production RAG System for Knowledge Management](https://dev.to/keshavashiya/docify-building-a-production-rag-system-for-knowledge-management-8b9)
-- [How to Build a Scalable RAG-Based Chatbot on AWS?](https://dev.to/girishmukim/how-to-build-a-scalable-rag-based-chatbot-on-aws-56n1)
+- [Spring WebClient vs. RestTemplate: Which One Should You Use in 2025?](https://dev.to/sam_th/spring-webclient-vs-resttemplate-which-one-should-you-use-in-2025-4mcp)
+- [Boost Your Bottom Line: Integrate Monetzly for AI Monetization Success](https://dev.to/monetzly/boost-your-bottom-line-integrate-monetzly-for-ai-monetization-success-5do1)
+- [Designing a Symbol-Based Portal System for a Web Browser MMO Strategy Game](https://dev.to/interstellarempires/designing-a-symbol-based-portal-system-for-a-web-browser-mmo-strategy-game-3poj)
+- [Best Cursor Editor Themes 2024: Boost Focus &amp; Reduce Eye Strain | Review](https://dev.to/dondon32/best-cursor-editor-themes-2024-boost-focus-reduce-eye-strain-review-1c11)
+- [A story on Frontend Architectures - Everyone deserves a BFF!](https://dev.to/purnez/a-story-on-frontend-architectures-everyone-deserves-a-bff-k27)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
