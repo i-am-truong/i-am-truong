@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Refatorar Ifs Não Significa Eliminar Decisões](https://dev.to/bruno_fernando_59a2cd7feb/refatorar-ifs-nao-significa-eliminar-decisoes-lh3)
+- [What NestJS Actually Is — A Simple, No-Fluff Explanation](https://dev.to/ramkashyap2050/what-nestjs-actually-is-a-simple-no-fluff-explanation-3m9e)
 - [Why Mathematics Is Essential in Machine Learning](https://dev.to/lezeta/why-mathematics-is-essential-in-machine-learning-3cjb)
 - [Creating an EC2 Instance](https://dev.to/baris86/creating-an-ec2-instance-1kd8)
-- [Philippine Corruption From Wikipedia Data](https://dev.to/ctrlvee/philippine-corruption-from-wikipedia-data-3m7g)
-- [2025-12-14 Daily Robotics News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-14-daily-robotics-news-1040)
-- [48 Hours to Learn AI Agents: How It Changed My View](https://dev.to/yukaty/48-hours-to-learn-ai-agents-how-it-changed-my-view-42le)
+- [Codewars: the challenge platform that transforms practice into mastery for developers](https://dev.to/deleanmafra/codewars-the-challenge-platform-that-transforms-practice-into-mastery-for-developers-51gi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
