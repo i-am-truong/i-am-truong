@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [In Defense of Rudolph &lpar;and Against State-Sanctioned Reindeer Bullying&rpar;](https://dev.to/jjn1056/in-defense-of-rudolph-and-against-state-sanctioned-reindeer-bullying-32gp)
-- [Am I still a real developer if AI writes half my code?](https://dev.to/dev_tips/am-i-still-a-real-developer-if-ai-writes-half-my-code-16e)
-- [DeArrow: Crowdsourcing Better YouTube Titles and Thumbnails](https://dev.to/stelixx-insider/dearrow-crowdsourcing-better-youtube-titles-and-thumbnails-chk)
-- [Git &amp; GitHub for DevOps - The Complete Hands-On Guide &lpar;Week 4&rpar;](https://dev.to/ashish0360/git-github-for-devops-the-complete-hands-on-guide-week-4-bf1)
-- [The BIONZ XR Leap: A Technical Analysis of the Sony Alpha 7 IV Architecture](https://dev.to/odvex_admin/the-bionz-xr-leap-a-technical-analysis-of-the-sony-alpha-7-iv-architecture-ofh)
+- [Seeing the SERP as Users Do: A Practical Guide to Multi-Region SEO Monitoring at Scale](https://dev.to/anna_6c67c00f5c3f53660978/seeing-the-serp-as-users-do-a-practical-guide-to-multi-region-seo-monitoring-at-scale-3i4m)
+- [MiniDisc Walkman - Audio Player - Audio Visualizer](https://dev.to/preetha_vaishnavi_2b82358/minidisc-walkman-audio-player-audio-visualizer-39af)
+- [3D Walkman - Pure CSS](https://dev.to/preetha_vaishnavi_2b82358/3d-walkman-pure-css-3i8o)
+- [The End of Prompt Engineering: Entering the Era of Agent Control](https://dev.to/learn_deco/the-end-of-prompt-engineering-entering-the-era-of-agent-control-2ild)
+- [Multi‑Tenant SaaS on .NET: Why a Starter Kit Beats Building from Scratch](https://dev.to/brickstarter/multi-tenant-saas-on-net-why-a-starter-kit-beats-building-from-scratch-3ib6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
