@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [STOPSIGNAL is now available on Amazon ECS Fargate](https://dev.to/nid/stopsignal-is-now-available-on-amazon-ecs-fargate-45fa)
+- [Introducing shadcn-glass-ui: A Glassmorphism Component Library for React 🎨](https://dev.to/yhooi2/introducing-shadcn-glass-ui-a-glassmorphism-component-library-for-react-4cpl)
+- [f](https://dev.to/anurag_sati_5b77a6578f780/f-2n2n)
 - [Production-Ready E-commerce Price Tracker API: A Xano AI Challenge Submission](https://dev.to/suriya_kumar_032b4d4e13f5/production-ready-e-commerce-price-tracker-api-a-xano-ai-challenge-submission-435i)
 - [Runtime environment variables in Next.js - build reusable Docker images](https://dev.to/nemanjam/runtime-environment-variables-in-nextjs-build-reusable-docker-images-ho)
-- [Creating an AI Discord Bot with Ollama](https://dev.to/ethand91/creating-an-ai-discord-bot-with-ollama-133e)
-- [How to integrate Stripe Payments into a chrome extension &lpar;step by step&rpar;](https://dev.to/notearthian/how-to-integrate-stripe-payments-into-a-chrome-extension-step-by-step-2gf3)
-- [Time Tracking in Germany – How a Legal Requirement Becomes an Opportunity for a Better Work Culture](https://dev.to/thomasdelfing_de/time-tracking-in-germany-how-a-legal-requirement-becomes-an-opportunity-for-a-better-work-culture-b4k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
