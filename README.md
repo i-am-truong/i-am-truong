@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What Developers Can Learn From Exchange Security Models](https://dev.to/dan_keller/what-developers-can-learn-from-exchange-security-models-1ale)
+- [What the AWS us-east-1 Outage Taught Me About Building Resilient Systems](https://dev.to/ajithmanmu/what-the-aws-us-east-1-outage-taught-me-about-building-resilient-systems-4k59)
+- [I built a SaaS for $0 in one weekend &lpar;LAMP Stack + Free Hosting&rpar;. Here is what happened.](https://dev.to/nizarhelius/i-built-a-saas-for-0-in-one-weekend-lamp-stack-free-hosting-here-is-what-happened-4kdf)
 - [I Needed a Simple Link Preview API for a Chat App, So I Built One](https://dev.to/abdelaziz18003/i-needed-a-simple-link-preview-api-for-a-chat-app-so-i-built-one-554l)
 - [What Is Agentforce Vibes? An Introduction to Salesforce Vibe Coding](https://dev.to/sathishvk/what-is-agentforce-vibes-an-introduction-to-salesforce-vibe-coding-2mbf)
-- [Bayesian Neural Networks Under Covariate Shift: When Theory Fails Practice](https://dev.to/kasiukvadim/bayesian-neural-networks-under-covariate-shift-when-theory-fails-practice-2hif)
-- [The right tool for the job](https://dev.to/luc4587/the-right-tool-for-the-job-cba)
-- [How the hash was won](https://dev.to/luc4587/how-the-hash-was-won-2im8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
