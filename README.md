@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What Is Agentforce Vibes? An Introduction to Salesforce Vibe Coding](https://dev.to/sathishvk/what-is-agentforce-vibes-an-introduction-to-salesforce-vibe-coding-2mbf)
 - [Bayesian Neural Networks Under Covariate Shift: When Theory Fails Practice](https://dev.to/kasiukvadim/bayesian-neural-networks-under-covariate-shift-when-theory-fails-practice-2hif)
+- [The right tool for the job](https://dev.to/luc4587/the-right-tool-for-the-job-cba)
+- [How the hash was won](https://dev.to/luc4587/how-the-hash-was-won-2im8)
 - [Getting Started with Envoy Proxy: What It Is, How It Works, and a Hands-On Implementation](https://dev.to/girma35/getting-started-with-envoy-proxy-what-it-is-how-it-works-and-a-hands-on-implementation-1p3a)
-- [.cursorrules: Stop AI From Breaking Your Codebase](https://dev.to/jedrzejdocs/cursorrules-stop-ai-from-breaking-your-codebase-2ahj)
-- [My Learning Journey – Google 5-Day AI Agents Intensive &amp; Travel Multi-Agent System](https://dev.to/hosnaakter/my-learning-journey-google-5-day-ai-agents-intensive-travel-multi-agent-system-4d4h)
-- [DITS: Rebuilding “Git” for Video, Game Assets, and the Stuff That Breaks Git](https://dev.to/byronwade/dits-rebuilding-git-for-video-game-assets-and-the-stuff-that-breaks-git-329o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
