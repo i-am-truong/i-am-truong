@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Good Engineer Never Blames the Domain](https://dev.to/devalgupta4/a-good-engineer-never-blames-the-domain-35ng)
-- [Building Better AI Prompts from Images: A Step-by-Step with Image2Prompts](https://dev.to/bin_liu_02f54a4e18048d11f/building-better-ai-prompts-from-images-a-step-by-step-with-image2prompts-1gil)
-- [From Beginner to Builder : How The AI Agent Intensive Course Changed My Understanding Of AI](https://dev.to/sarah090/from-beginner-to-builder-how-the-ai-agent-intensive-course-changed-my-understanding-of-ai-6el)
-- [The Broke Student’s Guide to the Cloud: How I Host Projects for $0](https://dev.to/maame-codes/the-broke-students-guide-to-the-cloud-how-i-host-projects-for-0-2iok)
-- [The Dual-Processor Paradigm: Dissecting the Canon EOS R1 Architecture](https://dev.to/odvex_admin/the-dual-processor-paradigm-dissecting-the-canon-eos-r1-architecture-1o73)
+- [Cares &amp; Laughs: The Ultimate Hub of Loving Pranks, Creative Experiments, and Joyful Surprises V3 &lpar;updated with more fun&rpar;](https://dev.to/kavyant_kumar_aca4746d16f/cares-laughs-the-ultimate-hub-of-loving-pranks-creative-experiments-and-joyful-surprises-v3-20na)
+- [DAT ONE RECAP: 2025](https://dev.to/kartik_patel/dat-one-recap-2025-3g42)
+- [SecureScript-AI System](https://dev.to/likhithanagasri/securescript-ai-system-56fk)
+- [Best Web Frameworks for Indian Developers](https://dev.to/techcontributors/best-web-frameworks-for-indian-developers-1ejl)
+- [Navigating the Future: Top Data Engineering Trends Shaping 2024 and Beyond](https://dev.to/dataformathub/navigating-the-future-top-data-engineering-trends-shaping-2024-and-beyond-eap)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
