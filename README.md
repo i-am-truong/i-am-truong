@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Lunar Lake Shift: Analyzing the ThinkPad X1 Carbon Gen 13 Architecture](https://dev.to/odvex_admin/the-lunar-lake-shift-analyzing-the-thinkpad-x1-carbon-gen-13-architecture-227j)
-- [Implementing a RESTful Web API with Spring Boot](https://dev.to/arshadpatel/implementing-a-restful-web-api-with-spring-boot-2241)
-- [Untitled](https://dev.to/hyme_08_68da5ff31f9cb3580/untitled-eml)
-- [DEV Track Spotlight: Unleash Rust&#39;s Potential on AWS &lpar;DEV307&rpar;](https://dev.to/aws/dev-track-spotlight-unleash-rusts-potential-on-aws-dev307-4e31)
-- [Clean Up Your Quartz.NET Jobs with Dynamic Registration 🧹](https://dev.to/andresjcorrea/clean-up-your-quartznet-jobs-with-dynamic-registration-4p42)
+- [Day 14 — Network Boundary Monitoring &lpar;Watched from the Woods&rpar;](https://dev.to/aerabi/day-14-network-boundary-monitoring-watched-from-the-woods-35d6)
+- [HTML Tags That&#39;ll Make Your Life Easier &lpar;No, Really&rpar;](https://dev.to/varshithvhegde/html-tags-thatll-make-your-life-easier-no-really-570i)
+- [&quot;Teaching AI to Teach: My 5-Day Journey Building an AI Literacy Agent&quot;](https://dev.to/l_t_629313b57b6eddc0fbc57/teaching-ai-to-teach-my-5-day-journey-building-an-ai-literacy-agent-2ge1)
+- [The Undeniable Benefits of Python: Why It’s the Go-To Language for Developers](https://dev.to/__446a6ebfeabd5fb903ae/the-undeniable-benefits-of-python-why-its-the-go-to-language-for-developers-373h)
+- [My Love for Python: A Language That Feels Like Home](https://dev.to/__446a6ebfeabd5fb903ae/my-love-for-python-a-language-that-feels-like-home-1ime)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
