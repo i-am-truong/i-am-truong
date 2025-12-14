@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What Developers Can Learn From Exchange Security Models](https://dev.to/dan_keller/what-developers-can-learn-from-exchange-security-models-1ale)
-- [What the AWS us-east-1 Outage Taught Me About Building Resilient Systems](https://dev.to/ajithmanmu/what-the-aws-us-east-1-outage-taught-me-about-building-resilient-systems-4k59)
-- [I built a SaaS for $0 in one weekend &lpar;LAMP Stack + Free Hosting&rpar;. Here is what happened.](https://dev.to/nizarhelius/i-built-a-saas-for-0-in-one-weekend-lamp-stack-free-hosting-here-is-what-happened-4kdf)
-- [I Needed a Simple Link Preview API for a Chat App, So I Built One](https://dev.to/abdelaziz18003/i-needed-a-simple-link-preview-api-for-a-chat-app-so-i-built-one-554l)
-- [What Is Agentforce Vibes? An Introduction to Salesforce Vibe Coding](https://dev.to/sathishvk/what-is-agentforce-vibes-an-introduction-to-salesforce-vibe-coding-2mbf)
+- [The Common Roadblocks for AI Storytelling](https://dev.to/goldsteinnick/the-common-roadblocks-for-ai-storytelling-1m69)
+- [All About React2Shell: A Technical Analysis of the Critical Next.js RCE Vulnerability](https://dev.to/trixsec/all-about-react2shell-a-technical-analysis-of-the-critical-nextjs-rce-vulnerability-2oj6)
+- [Terraform Basics](https://dev.to/saurabhahuja/terraform-basics-1j16)
+- [Authentication with node:http and better-auth](https://dev.to/danimydev/authentication-with-nodehttp-and-better-auth-2l2g)
+- [The Most Underrated Tool in Your Dev Toolbox: Pre-Commit Hooks &lpar;Yes, That 20-Year-Old Git Feature&rpar;](https://dev.to/copyleftdev/the-most-underrated-tool-in-your-dev-toolbox-pre-commit-hooks-yes-that-20-year-old-git-feature-19oi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
