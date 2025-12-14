@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 14 — Network Boundary Monitoring &lpar;Watched from the Woods&rpar;](https://dev.to/aerabi/day-14-network-boundary-monitoring-watched-from-the-woods-35d6)
-- [HTML Tags That&#39;ll Make Your Life Easier &lpar;No, Really&rpar;](https://dev.to/varshithvhegde/html-tags-thatll-make-your-life-easier-no-really-570i)
-- [&quot;Teaching AI to Teach: My 5-Day Journey Building an AI Literacy Agent&quot;](https://dev.to/l_t_629313b57b6eddc0fbc57/teaching-ai-to-teach-my-5-day-journey-building-an-ai-literacy-agent-2ge1)
-- [The Undeniable Benefits of Python: Why It’s the Go-To Language for Developers](https://dev.to/__446a6ebfeabd5fb903ae/the-undeniable-benefits-of-python-why-its-the-go-to-language-for-developers-373h)
-- [My Love for Python: A Language That Feels Like Home](https://dev.to/__446a6ebfeabd5fb903ae/my-love-for-python-a-language-that-feels-like-home-1ime)
+- [AI Email Personalization: Why Your Predictive Content Blocks Are Probably Creeping People Out](https://dev.to/synergistdigitalmedia/ai-email-personalization-why-your-predictive-content-blocks-are-probably-creeping-people-out-286m)
+- [Day 2:Python Programming](https://dev.to/aruna_arun_0cda4eb425bb0f/day-2python-programming-5ddf)
+- [I Built an AI Movie Recommendation App to End Endless Scrolling](https://dev.to/ramiz_mehdiyev_8d57b736c5/i-built-an-ai-movie-recommendation-app-to-end-endless-scrolling-55o)
+- [Hardware Protection Engineering: Analyzing the SIXBOX iPhone 17 Case Design](https://dev.to/odvex_admin/hardware-protection-engineering-analyzing-the-sixbox-iphone-17-case-design-1pmg)
+- [From Beginner to Builder: How the AI Agents Intensive Course Changed My Understanding of AI](https://dev.to/sarah090/from-beginner-to-builder-how-the-ai-agents-intensive-course-changed-my-understanding-of-ai-2e7f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
