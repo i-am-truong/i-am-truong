@@ -122,9 +122,9 @@ Python                   1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [Combining Python and Surveying Engineering](https://dev.to/arrebol/combining-python-and-surveying-engineering-lji)
 - [TimeSpin: How a Haptic Time-Tracking Cube Could Transform Schools and Businesses](https://dev.to/thomasdelfing_de/timespin-how-a-haptic-time-tracking-cube-could-transform-schools-and-businesses-4egb)
-- [An Intro to Large Language Models and the Transformer Architecture: Talking to a calculator](https://dev.to/jacob_d/an-intro-to-large-language-models-and-the-transformer-architecture-talking-to-a-calculator-483j)
-- [Okay, maybe, vibe coding is not bad at all](https://dev.to/rahmatalhakam/okay-maybe-vibe-coding-is-not-bad-at-all-1ego)
-- [Day 10: Making Terraform Smarter with Conditions, Dynamic Blocks, and Splat Expressions](https://dev.to/sreya_sharma_711168ec58fc/day-10-making-terraform-smarter-with-conditions-dynamic-blocks-and-splat-expressions-5c0o)
+- [Form content disappears after page refresh](https://dev.to/shangyunyao/form-content-disappears-after-page-refresh-4hk3)
+- [15 Small Business Marketing Ideas for Founders, Devs, and Indie Hackers](https://dev.to/prateekshaweb/15-small-business-marketing-ideas-for-founders-devs-and-indie-hackers-5fjo)
+- [System shows &quot;File too large&quot; error when uploading &lt;1MB image](https://dev.to/shangyunyao/system-shows-file-too-large-error-when-uploading-1mb-image-e76)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
