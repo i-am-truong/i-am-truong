@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Probabilistic Graph Neural Inference for satellite anomaly response operations for low-power autonomous deployments](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-satellite-anomaly-response-operations-for-low-power-2g7e)
+- [AI agents are everywhere, but what actually is an AI Agent?](https://dev.to/jefreesujit/ai-agents-are-everywhere-but-what-actually-is-an-ai-agent-55c0)
 - [GitHug: Finding Your Code Soulmate in the Octoverse](https://dev.to/daviducolo/githug-finding-your-code-soulmate-in-the-octoverse-3lji)
 - [One-Line Inverted Border Radius &lpar;Pure CSS&rpar;](https://dev.to/polyuretanio/one-line-inverted-border-radius-pure-css-1dhi)
 - [How can I optimize the performance of a Python script that processes large CSV files with millions of rows, and which libraries &lpar;such as Pandas, Dask&rpar; are most suitable for this task?](https://dev.to/hjchshdudh283n/how-can-i-optimize-the-performance-of-a-python-script-that-processes-large-csv-files-with-millions-3ja3)
-- [Updating Node Dependencies: The 2025 Survival Guide](https://dev.to/sarveshh/updating-node-dependencies-the-2025-survival-guide-1ge4)
-- [Revolutionize API Monetization for Your LLM Applications](https://dev.to/monetzly/revolutionize-api-monetization-for-your-llm-applications-3m0e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
