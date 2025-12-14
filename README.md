@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Title: I built a 13-app &quot;Zoo&quot; using Gemini Pro 3. The constraint: I wasn&#39;t allowed to inspect the code.](https://dev.to/natnnatn/title-i-built-a-13-app-zoo-using-gemini-pro-3-the-constraint-i-wasnt-allowed-to-inspect-the-442a)
+- [Becoming the Prediction Machine](https://dev.to/junothreadborne/becoming-the-prediction-machine-48ii)
+- [Why Am I Not Making Progress Despite Solving LeetCode Daily? The Plateau Problem](https://dev.to/alex_hunter_44f4c9ed6671e/why-am-i-not-making-progress-despite-solving-leetcode-daily-the-plateau-problem-28hk)
+- [Official Emstrata Tutorial](https://dev.to/goldsteinnick/official-emstrata-tutorial-1628)
 - [The Common Roadblocks for AI Storytelling](https://dev.to/goldsteinnick/the-common-roadblocks-for-ai-storytelling-1m69)
-- [All About React2Shell: A Technical Analysis of the Critical Next.js RCE Vulnerability](https://dev.to/trixsec/all-about-react2shell-a-technical-analysis-of-the-critical-nextjs-rce-vulnerability-2oj6)
-- [Terraform Basics](https://dev.to/saurabhahuja/terraform-basics-1j16)
-- [Authentication with node:http and better-auth](https://dev.to/danimydev/authentication-with-nodehttp-and-better-auth-2l2g)
-- [The Most Underrated Tool in Your Dev Toolbox: Pre-Commit Hooks &lpar;Yes, That 20-Year-Old Git Feature&rpar;](https://dev.to/copyleftdev/the-most-underrated-tool-in-your-dev-toolbox-pre-commit-hooks-yes-that-20-year-old-git-feature-19oi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
