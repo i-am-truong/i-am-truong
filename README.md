@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [**Understanding Client-Server Architecture: A Beginner’s Guide**](https://dev.to/alikhan-devs/understanding-client-server-architecture-a-beginners-guide-4djn)
-- [Temporal Topology: Why Monday Morning Feels Different from Saturday Morning](https://dev.to/aureus_c_b3ba7f87cc34d74d49/temporal-topology-why-monday-morning-feels-different-from-saturday-morning-38dd)
-- [PrestaShop 8/9 Compatibility: Transition](https://dev.to/ndabene/prestashop-89-compatibility-transition-50c8)
-- [Développer pour le déploiement distribué](https://dev.to/onepoint/developper-pour-le-deploiement-distribue-4m64)
-- [Kling 2.6 UNLIMITED: The First TRUE Audio-Video AI Is Finally Here &lpar;Higgsfield Exclusive!&rpar;](https://dev.to/aniruddhaadak/kling-26-unlimited-the-first-true-audio-video-ai-is-finally-here-higgsfield-exclusive-17a)
+- [Not Z-Image-Base!but Z-Image-Omni-Base?](https://dev.to/ryan_n_a9ec3d0a1a357a89/not-z-image-basebut-z-image-omni-base-9m0)
+- [Is CsvPath an easy or hard language?](https://dev.to/david_kershaw_b6916404da6/is-csvpath-an-easy-or-hard-language-1g8l)
+- [🚀 The Timeout Tamer: When Patience Met Progress](https://dev.to/ani_k_43243167a645bab1b57/the-timeout-tamer-when-patience-met-progress-4ec2)
+- [Understanding Client-Server Architecture: A Beginner’s Guide](https://dev.to/alikhan-devs/understanding-client-server-architecture-a-beginners-guide-4djn)
+- [Typelo vs Monkeytype vs TypeRacer — Why Competitive Typing Needed a New Kind of Platform](https://dev.to/christopher_joshy_575b0e1/typelo-vs-monkeytype-vs-typeracer-why-competitive-typing-needed-a-new-kind-of-platform-224l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
