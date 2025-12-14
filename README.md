@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [State Management Patterns for Long-Running AI Agents: Redis vs StatefulSets vs External Databases](https://dev.to/inboryn_99399f96579fcd705/state-management-patterns-for-long-running-ai-agents-redis-vs-statefulsets-vs-external-databases-39c5)
-- [My Solution to Deno Watch Mode Signal Handling](https://dev.to/whyang9701/my-solution-of-deno-watch-mode-signal-handling-4ejp)
-- [Scaling Kubernetes Load with KEDA](https://dev.to/victorpinzon1988eng/scaling-kubernetes-load-with-keda-j7f)
-- [Stop Hardcoding Translations in Laravel - Use Translatable](https://dev.to/laravel_mastery_ffd9d10ec/stop-hardcoding-translations-in-laravel-use-translatable-16h3)
-- [I Tried Reading React&#39;s Source Code and Flow Beat Me Up. So Let&#39;s Learn 🚀](https://dev.to/nyaomaru/i-tried-reading-reacts-source-code-and-flow-beat-me-up-so-lets-learn-4jf0)
+- [AI‑Assisted Writing as Search &lpar;Not Draft Generation&rpar;](https://dev.to/arthurbiensur/ai-assisted-writing-as-search-not-draft-generation-4io8)
+- [Why CAPTCHAs today are so bad &lpar;and what we should be building instead&rpar;](https://dev.to/tentari/why-captchas-today-are-so-bad-and-what-we-should-be-building-instead-3dm2)
+- [Android Security for Devs: Nocturne VPN Technical Guide](https://dev.to/mitul_chovatiya_e568824a5/android-security-for-devs-nocturne-vpn-technical-guide-4h7)
+- [A Better Way to Run MeshCommander in Your Homelab &lpar;Intel vPro + Docker&rpar;](https://dev.to/spaceterran/a-better-way-to-run-meshcommander-in-your-homelab-intel-vpro-docker-5h44)
+- [Testing Unit](https://dev.to/hexzonetwork/testing-unit-2i9d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
