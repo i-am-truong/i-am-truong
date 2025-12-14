@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why VM-based obfuscation raises the cost of reversing JavaScript](https://dev.to/primeveil/why-vm-based-obfuscation-raises-the-cost-of-reversing-javascript-1h7)
-- [Don&#39;t chase GSoC, Chase open source](https://dev.to/warrioraashuu/dont-chase-gsoc-chase-open-source-2nah)
-- [Adafruit: Arduino&#39;s Rules are &#39;Incompatible with Open Source&#39;](https://dev.to/davidcassel/adafruit-arduinos-rules-are-incompatible-with-open-source-3n7m)
-- [Monetize Voice AI Solutions for eCommerce Using VAPI Effectively](https://dev.to/callstacktech/monetize-voice-ai-solutions-for-ecommerce-using-vapi-effectively-3nm7)
-- [Meet TOON: A Token-First Data Format Built for AI](https://dev.to/kiran_ravi_092a2cfcf60389/meet-toon-a-token-first-data-format-built-for-ai-8l6)
+- [Bayesian Neural Networks Under Covariate Shift: When Theory Fails Practice](https://dev.to/kasiukvadim/bayesian-neural-networks-under-covariate-shift-when-theory-fails-practice-2hif)
+- [Getting Started with Envoy Proxy: What It Is, How It Works, and a Hands-On Implementation](https://dev.to/girma35/getting-started-with-envoy-proxy-what-it-is-how-it-works-and-a-hands-on-implementation-1p3a)
+- [.cursorrules: Stop AI From Breaking Your Codebase](https://dev.to/jedrzejdocs/cursorrules-stop-ai-from-breaking-your-codebase-2ahj)
+- [My Learning Journey – Google 5-Day AI Agents Intensive &amp; Travel Multi-Agent System](https://dev.to/hosnaakter/my-learning-journey-google-5-day-ai-agents-intensive-travel-multi-agent-system-4d4h)
+- [DITS: Rebuilding “Git” for Video, Game Assets, and the Stuff That Breaks Git](https://dev.to/byronwade/dits-rebuilding-git-for-video-game-assets-and-the-stuff-that-breaks-git-329o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
