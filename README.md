@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Modular Starter Kit for M5StickC-Plus2: From Messy Code to Clean Architecture](https://dev.to/christopherdebray/building-a-modular-starter-kit-for-m5stickc-plus2-from-messy-code-to-clean-architecture-1mb0)
+- [Deploy TanStack Start with SQLite to Your Own Server](https://dev.to/ameistad/deploy-tanstack-start-with-sqlite-to-your-own-server-31o1)
+- [I Built an ML Platform to Monitor Africa&#39;s $700B Debt Crisis - Here&#39;s What I Learned](https://dev.to/cyusa_loic_9264210b981eaf/i-built-an-ml-platform-to-monitor-africas-700b-debt-crisis-heres-what-i-learned-154a)
 - [Rethinking Software Engineering: Why It Has Failed at Maintainability](https://dev.to/antunesleo/rethinking-software-engineering-why-it-has-failed-at-maintainability-39ek)
-- [Boost Developer Revenue: How Monetzly Powers LLM Apps](https://dev.to/monetzly/boost-developer-revenue-how-monetzly-powers-llm-apps-d6p)
-- [El salvavidas de mis cenas: Cómo hacer que el pollo no sea aburrido](https://dev.to/sosaflow1799/el-salvavidas-de-mis-cenas-como-hacer-que-el-pollo-no-sea-aburrido-2eo3)
-- [El salto de una &quot;Landing Page&quot; a un sitio web real: El reto de la multipágina](https://dev.to/sosaflow1799/el-salto-de-una-landing-page-a-un-sitio-web-real-el-reto-de-la-multipagina-2d84)
-- [Introducing Kepler.Core — Smart Field Selection for EF Core APIs](https://dev.to/mohammad_aliebrahimzadeh/introducing-keplercore-smart-field-selection-for-ef-core-apis-4da2)
+- [El dilema del Sombrero Seleccionador: ¿Realmente somos quienes creemos ser?](https://dev.to/franamaayoongo/el-dilema-del-sombrero-seleccionador-realmente-somos-quienes-creemos-ser-2bm2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
