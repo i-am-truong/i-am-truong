@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Access the Request Object in Mitsuki Controllers](https://dev.to/david_landup/how-to-access-the-request-object-in-mitsuki-controllers-34o8)
-- [Dancing Class - Javascript](https://dev.to/preetha_vaishnavi_2b82358/dancing-class-javascript-c72)
-- [Initialize ForgeRock DS from LDIF Files: A Step-by-Step Guide](https://dev.to/iamdevbox/initialize-forgerock-ds-from-ldif-files-a-step-by-step-guide-24gi)
-- [MLOps: Data Science Lifecycle with DataSets examples, Workflows and Pipelines.](https://dev.to/giridharan_devops/mlops-data-science-lifecycle-with-datasets-examples-workflows-and-pipelines-164e)
-- [Carlton Dance :: Choose Range](https://dev.to/preetha_vaishnavi_2b82358/carlton-dance-choose-range-2l60)
+- [Lessons Learned: Choosing a Flink Distribution for Kubernetes &lpar;Bitnami vs Official&rpar;](https://dev.to/anatoliy_samsonov23/lessons-learned-choosing-a-flink-distribution-for-kubernetes-bitnami-vs-official-2k36)
+- [Chakra-Button-Interaktion](https://dev.to/preetha_vaishnavi_2b82358/chakra-button-interaktion-4en5)
+- [Making a WhatsApp Bot that Doesn&#39;t Suck &lpar;Node.js + GPT-5.2&rpar;](https://dev.to/letz_countitdown_df885d/making-a-whatsapp-bot-that-doesnt-suck-nodejs-gpt-52-2cee)
+- [Some indexing data structures](https://dev.to/zakigoumri/some-indexing-data-structures-2hkg)
+- [Day 3: SQL](https://dev.to/aruna_arun_0cda4eb425bb0f/day-3-sql-480)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
