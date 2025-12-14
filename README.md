@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [JVM: A Máquina Virtual Java - Fundamentos e Funcionamento](https://dev.to/ikauedev/jvm-a-maquina-virtual-java-fundamentos-e-funcionamento-2mjj)
-- [Components of Soft Skills: The 6Ts](https://dev.to/stakiran/components-of-soft-skills-the-6ts-173d)
-- [SleepSync - FullStack App made with Xano and Bubble](https://dev.to/julsr_mx/sleepsync-fullstack-app-made-with-xano-and-bubble-cjh)
-- [Title: I built a 13-app &quot;Zoo&quot; using Gemini Pro 3. The constraint: I wasn&#39;t allowed to inspect the code.](https://dev.to/natnnatn/title-i-built-a-13-app-zoo-using-gemini-pro-3-the-constraint-i-wasnt-allowed-to-inspect-the-442a)
-- [Becoming the Prediction Machine](https://dev.to/junothreadborne/becoming-the-prediction-machine-48ii)
+- [Rethinking Software Engineering: Why It Has Failed at Maintainability](https://dev.to/antunesleo/rethinking-software-engineering-why-it-has-failed-at-maintainability-39ek)
+- [Boost Developer Revenue: How Monetzly Powers LLM Apps](https://dev.to/monetzly/boost-developer-revenue-how-monetzly-powers-llm-apps-d6p)
+- [El salvavidas de mis cenas: Cómo hacer que el pollo no sea aburrido](https://dev.to/sosaflow1799/el-salvavidas-de-mis-cenas-como-hacer-que-el-pollo-no-sea-aburrido-2eo3)
+- [El salto de una &quot;Landing Page&quot; a un sitio web real: El reto de la multipágina](https://dev.to/sosaflow1799/el-salto-de-una-landing-page-a-un-sitio-web-real-el-reto-de-la-multipagina-2d84)
+- [Introducing Kepler.Core — Smart Field Selection for EF Core APIs](https://dev.to/mohammad_aliebrahimzadeh/introducing-keplercore-smart-field-selection-for-ef-core-apis-4da2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
