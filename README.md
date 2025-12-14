@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cares &amp; Laughs: The Ultimate Hub of Loving Pranks, Creative Experiments, and Joyful Surprises V3 &lpar;updated with more fun&rpar;](https://dev.to/kavyant_kumar_aca4746d16f/cares-laughs-the-ultimate-hub-of-loving-pranks-creative-experiments-and-joyful-surprises-v3-20na)
-- [DAT ONE RECAP: 2025](https://dev.to/kartik_patel/dat-one-recap-2025-3g42)
-- [SecureScript-AI System](https://dev.to/likhithanagasri/securescript-ai-system-56fk)
-- [Best Web Frameworks for Indian Developers](https://dev.to/techcontributors/best-web-frameworks-for-indian-developers-1ejl)
-- [Navigating the Future: Top Data Engineering Trends Shaping 2024 and Beyond](https://dev.to/dataformathub/navigating-the-future-top-data-engineering-trends-shaping-2024-and-beyond-eap)
+- [New AWS Lambda Durable Functions – Do they replace Step Functions?](https://dev.to/ian_carlson_0c77f977f7790/new-aws-lambda-durable-functions-do-they-replace-step-functions-2c5i)
+- [Use your debugger less and learn more from debugging instead](https://dev.to/andreas_mller_2fd27cf578/use-your-debugger-less-and-learn-more-from-debugging-instead-46ac)
+- [Orchestrating Creativity with Agentic AI: How I Built a Real Business Using Autonomous Agents](https://dev.to/vishwajeet_singh_be18eefb/orchestrating-creativity-with-agentic-ai-how-i-built-a-real-business-using-autonomous-agents-545c)
+- [Stop Uploading Files: I Built a Privacy-First Converter with WebAssembly 🛡️](https://dev.to/ahmet_sayar_258baaf54792e/stop-uploading-files-i-built-a-privacy-first-converter-with-webassembly-10il)
+- [21 | National Waffle Day](https://dev.to/preetha_vaishnavi_2b82358/21-national-waffle-day-3hmk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
