@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Lessons Learned: Choosing a Flink Distribution for Kubernetes &lpar;Bitnami vs Official&rpar;](https://dev.to/anatoliy_samsonov23/lessons-learned-choosing-a-flink-distribution-for-kubernetes-bitnami-vs-official-2k36)
-- [Chakra-Button-Interaktion](https://dev.to/preetha_vaishnavi_2b82358/chakra-button-interaktion-4en5)
-- [Making a WhatsApp Bot that Doesn&#39;t Suck &lpar;Node.js + GPT-5.2&rpar;](https://dev.to/letz_countitdown_df885d/making-a-whatsapp-bot-that-doesnt-suck-nodejs-gpt-52-2cee)
-- [Some indexing data structures](https://dev.to/zakigoumri/some-indexing-data-structures-2hkg)
-- [Day 3: SQL](https://dev.to/aruna_arun_0cda4eb425bb0f/day-3-sql-480)
+- [Diwali Chakra](https://dev.to/preetha_vaishnavi_2b82358/diwali-chakra-3jlb)
+- [Aura cleaning](https://dev.to/preetha_vaishnavi_2b82358/aura-cleaning-567e)
+- [Day 64: Python Depth-First Search &lpar;DFS&rpar; on Tree, Stack-Based Iterative Traversal for Deep Exploration Without Recursion](https://dev.to/shahrouzlogs/day-64-python-depth-first-search-dfs-on-tree-stack-based-iterative-traversal-for-deep-4gej)
+- [Ashoka chakra](https://dev.to/preetha_vaishnavi_2b82358/ashoka-chakra-3bi4)
+- [What is Aggregation Pipeline in MongoDB?](https://dev.to/tbs96/what-is-aggregation-pipeline-in-mongodb-5gfb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
