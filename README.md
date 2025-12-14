@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Bolt.new to Production: How I built a React Native app using Copilot and MCP.](https://dev.to/petrashka/from-boltnew-to-production-how-i-built-a-react-native-app-using-copilot-and-mcp-ebg)
-- [Expose Local n8n with a Custom HTTPS Domain Using Cloudflare Tunnel](https://dev.to/muhammad_mohsin_68eb06405/expose-local-n8n-with-a-custom-https-domain-using-cloudflare-tunnel-2kc6)
-- [How We Cut SaaS Churn by 35% with a Simple, Event-Driven Engine](https://dev.to/michaelaiglobal/how-we-cut-saas-churn-by-35-with-a-simple-event-driven-engine-65c)
-- [Photovoltaic Geometry: Engineering Analysis of the Anker SOLIX PS200](https://dev.to/odvex_admin/photovoltaic-geometry-engineering-analysis-of-the-anker-solix-ps200-404)
-- [The Evolution of AI Surveillance](https://dev.to/rawveg/the-evolution-of-ai-surveillance-54ja)
+- [Distributed task queue system](https://dev.to/haechan_oh_eab474cc8979e2/distributed-task-queue-system-1lka)
+- [Roadmap for the Adoption of Generative AI in Software Testing](https://dev.to/qa-leaders/roadmap-for-the-adoption-of-generative-ai-in-software-testing-4em4)
+- [https://www.linkedin.com/pulse/live-upcoming-tech-hackathon-opportunities-202526-students-kousar-ahy9c](https://dev.to/farhakousar16/-52e2)
+- [🚀 LIVE &amp; UPCOMING TECH &amp; HACKATHON OPPORTUNITIES &lpar;2025–26&rpar;](https://dev.to/farhakousar16/live-upcoming-tech-hackathon-opportunities-2025-26-5am6)
+- [How I Built an AI-Powered Weather Web App &lpar;SkyCast&rpar;](https://dev.to/arnab0986/how-i-built-an-ai-powered-weather-web-app-skycast-40ka)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
