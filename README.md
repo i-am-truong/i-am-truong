@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [PromptShield AI – An AI Cost &amp; Risk Firewall Built with Xano](https://dev.to/manikant92/promptshield-ai-an-ai-cost-risk-firewall-built-with-xano-346e)
-- [Blazor SaaS Starter Kits Compared: When to Choose Brick Starter for Full‑Stack C#](https://dev.to/brickstarter/blazor-saas-starter-kits-compared-when-to-choose-brick-starter-for-full-stack-c-f2o)
-- [Dev tools Hub API](https://dev.to/shashank_y/dev-tools-hub-api-d3l)
-- [Token Validation](https://dev.to/shjung-dev/token-validation-57id)
-- [How to Build a Real-Time SEC Filing Monitor in Python &lpar;Under 50 Lines&rpar;](https://dev.to/nbrempel/how-to-build-a-real-time-sec-filing-monitor-in-python-under-50-lines-1c25)
+- [From DNS to Containers: How AWS Routes Traffic Using Route 53 and Application Load Balancer](https://dev.to/p_acharya_cb32943b1cb6a0/from-dns-to-containers-how-aws-routes-traffic-using-route-53-and-application-load-balancer-3eo)
+- [From Watching Live Sessions to Thinking Like an AI Agent: My 5-Day Journey with Google Kaggle](https://dev.to/astha_sukhadiya_92f8e19b4/from-watching-live-sessions-to-thinking-like-an-ai-agent-my-5-day-journey-with-google-x-kaggle-3c0g)
+- [Stop Coding Video Players: Why I Switched to AI Video Generation for My Docs](https://dev.to/blogai/stop-coding-video-players-why-i-switched-to-ai-video-generation-for-my-docs-22ga)
+- [📅 Day 16 | AWS RDS — Managed Database Service in AWS 🗄️☁️](https://dev.to/sudarshan_yadav/day-16-aws-rds-managed-database-service-in-aws-3j2)
+- [From RFQ Emails to Winning Proposals: Building Tendr](https://dev.to/agastya_khati_f72c89077c8/from-rfq-emails-to-winning-proposals-building-tendr-3pg4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
