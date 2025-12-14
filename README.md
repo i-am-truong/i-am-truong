@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Weekly #50-2025: Anthropic&#39;s Bun Bet, the PM Drought &amp; Seattle&#39;s AI Backlash](https://dev.to/massud1994/weekly-50-2025-anthropics-bun-bet-the-pm-drought-seattles-ai-backlash-1okk)
-- [WTF is Geo-Replication?](https://dev.to/dailybugle33/wtf-is-geo-replication-1n98)
-- [STOPSIGNAL is now available on Amazon ECS Fargate](https://dev.to/nid/stopsignal-is-now-available-on-amazon-ecs-fargate-45fa)
-- [Introducing shadcn-glass-ui: A Glassmorphism Component Library for React 🎨](https://dev.to/yhooi2/introducing-shadcn-glass-ui-a-glassmorphism-component-library-for-react-4cpl)
-- [f](https://dev.to/anurag_sati_5b77a6578f780/f-2n2n)
+- [GitHug: Finding Your Code Soulmate in the Octoverse](https://dev.to/daviducolo/githug-finding-your-code-soulmate-in-the-octoverse-3lji)
+- [One-Line Inverted Border Radius &lpar;Pure CSS&rpar;](https://dev.to/polyuretanio/one-line-inverted-border-radius-pure-css-1dhi)
+- [How can I optimize the performance of a Python script that processes large CSV files with millions of rows, and which libraries &lpar;such as Pandas, Dask&rpar; are most suitable for this task?](https://dev.to/hjchshdudh283n/how-can-i-optimize-the-performance-of-a-python-script-that-processes-large-csv-files-with-millions-3ja3)
+- [Updating Node Dependencies: The 2025 Survival Guide](https://dev.to/sarveshh/updating-node-dependencies-the-2025-survival-guide-1ge4)
+- [Revolutionize API Monetization for Your LLM Applications](https://dev.to/monetzly/revolutionize-api-monetization-for-your-llm-applications-3m0e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
