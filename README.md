@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly #50-2025: Anthropic&#39;s Bun Bet, the PM Drought &amp; Seattle&#39;s AI Backlash](https://dev.to/massud1994/weekly-50-2025-anthropics-bun-bet-the-pm-drought-seattles-ai-backlash-1okk)
+- [WTF is Geo-Replication?](https://dev.to/dailybugle33/wtf-is-geo-replication-1n98)
 - [STOPSIGNAL is now available on Amazon ECS Fargate](https://dev.to/nid/stopsignal-is-now-available-on-amazon-ecs-fargate-45fa)
 - [Introducing shadcn-glass-ui: A Glassmorphism Component Library for React 🎨](https://dev.to/yhooi2/introducing-shadcn-glass-ui-a-glassmorphism-component-library-for-react-4cpl)
 - [f](https://dev.to/anurag_sati_5b77a6578f780/f-2n2n)
-- [Production-Ready E-commerce Price Tracker API: A Xano AI Challenge Submission](https://dev.to/suriya_kumar_032b4d4e13f5/production-ready-e-commerce-price-tracker-api-a-xano-ai-challenge-submission-435i)
-- [Runtime environment variables in Next.js - build reusable Docker images](https://dev.to/nemanjam/runtime-environment-variables-in-nextjs-build-reusable-docker-images-ho)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
