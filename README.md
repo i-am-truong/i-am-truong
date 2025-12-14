@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Adafruit: Arduino&#39;s Rules are &#39;Incompatible with Open Source&#39;](https://dev.to/davidcassel/adafruit-arduinos-rules-are-incompatible-with-open-source-3n7m)
+- [Monetize Voice AI Solutions for eCommerce Using VAPI Effectively](https://dev.to/callstacktech/monetize-voice-ai-solutions-for-ecommerce-using-vapi-effectively-3nm7)
+- [Meet TOON: A Token-First Data Format Built for AI](https://dev.to/kiran_ravi_092a2cfcf60389/meet-toon-a-token-first-data-format-built-for-ai-8l6)
+- [We Evaluated 13 LLM Gateways for Production. Here&#39;s What We Found](https://dev.to/debmckinney/we-evaluated-13-llm-gateways-for-production-heres-what-we-found-2dkm)
 - [Spring WebClient vs. RestTemplate: Which One Should You Use in 2025?](https://dev.to/sam_th/spring-webclient-vs-resttemplate-which-one-should-you-use-in-2025-4mcp)
-- [Boost Your Bottom Line: Integrate Monetzly for AI Monetization Success](https://dev.to/monetzly/boost-your-bottom-line-integrate-monetzly-for-ai-monetization-success-5do1)
-- [Designing a Symbol-Based Portal System for a Web Browser MMO Strategy Game](https://dev.to/interstellarempires/designing-a-symbol-based-portal-system-for-a-web-browser-mmo-strategy-game-3poj)
-- [Best Cursor Editor Themes 2024: Boost Focus &amp; Reduce Eye Strain | Review](https://dev.to/dondon32/best-cursor-editor-themes-2024-boost-focus-reduce-eye-strain-review-1c11)
-- [A story on Frontend Architectures - Everyone deserves a BFF!](https://dev.to/purnez/a-story-on-frontend-architectures-everyone-deserves-a-bff-k27)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
