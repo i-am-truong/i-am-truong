@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Manage Multiple GitHub Accounts on One Machine Using SSH Keys](https://dev.to/munirahmad6224/how-to-manage-multiple-github-accounts-on-one-machine-using-ssh-keys-1kio)
-- [Building an Enterprise AI Calendar Agent: Our Journey with Google&#39;s &lpar;ADK&rpar; &amp; Gemini 2.5](https://dev.to/ellacharmed/building-an-enterprise-ai-calendar-agent-our-journey-with-googles-adk-gemini-25-4pe6)
-- [Reflection of Co-Learning Mantle week 1](https://dev.to/bagashyt/reflection-of-co-learning-mantle-week-1-348c)
-- [Open Source Licenses Explained: The Good, The Bad, and The &quot;Wait, Can I Actually Use This?&quot;](https://dev.to/polliog/open-source-licenses-explained-the-good-the-bad-and-the-wait-can-i-actually-use-this-2nih)
-- [Diwali Chakra](https://dev.to/preetha_vaishnavi_2b82358/diwali-chakra-3jlb)
+- [A Good Engineer Never Blames the Domain](https://dev.to/devalgupta4/a-good-engineer-never-blames-the-domain-35ng)
+- [Building Better AI Prompts from Images: A Step-by-Step with Image2Prompts](https://dev.to/bin_liu_02f54a4e18048d11f/building-better-ai-prompts-from-images-a-step-by-step-with-image2prompts-1gil)
+- [Houdini Prison Escape](https://dev.to/preetha_vaishnavi_2b82358/houdini-prison-escape-e7h)
+- [From Beginner to Builder : How The AI Agent Intensive Course Changed My Understanding Of AI](https://dev.to/sarah090/from-beginner-to-builder-how-the-ai-agent-intensive-course-changed-my-understanding-of-ai-6el)
+- [Pure CSS Coffee Cup - Single Div Magic ☕](https://dev.to/preetha_vaishnavi_2b82358/pure-css-coffee-cup-single-div-magic-3hm7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
