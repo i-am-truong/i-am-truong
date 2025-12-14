@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Build a Real-Time SEC Filing Monitor in Python &lpar;Under 50 Lines&rpar;](https://dev.to/nbrempel/how-to-build-a-real-time-sec-filing-monitor-in-python-under-50-lines-1c25)
+- [Mike’s 36th Birthday Cake – CSS Candle Wick Edition](https://dev.to/preetha_vaishnavi_2b82358/mikes-36th-birthday-cake-css-candle-wick-edition-4ci)
+- [Improving UI Consistency for SG Websites](https://dev.to/techcontributors/improving-ui-consistency-for-sg-websites-1e63)
+- [What Is Soft Delete?](https://dev.to/sampseiol1/what-is-soft-delete-e3p)
 - [Stop wasting time configuring MERN: I built a production-ready TypeScript boilerplate](https://dev.to/jaseelthalikulam/stop-wasting-time-configuring-mern-i-built-a-production-ready-typescript-boilerplate-1n3b)
-- [LLM’in Düşüncesini İzlemek](https://dev.to/hakkiergin/llmin-dusuncesini-izlemek-14f)
-- [🚀 Day 1 of Learning C — Laying the First Brick Toward My Own Operating System](https://dev.to/brucelee03/day-1-of-learning-c-laying-the-first-brick-toward-my-own-operating-system-2o40)
-- [From Confusion to Clarity: Building My First Research Agent in Google&#39;s AI Intensive](https://dev.to/wilson_bmiles_d0902d06d/from-confusion-to-clarity-building-my-first-research-agent-in-googles-ai-intensive-jn8)
-- [The Complete Guide to Meta-Prompting: The Technique of Having AI Write Your Prompts](https://dev.to/seiwan-maikuma/the-complete-guide-to-meta-prompting-the-technique-of-having-ai-write-your-prompts-12ai)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
