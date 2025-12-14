@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Java Arrays clone&lpar;&rpar; Explained: Deep Dive with Examples &amp; Best Practices](https://dev.to/satyam_gupta_0d1ff2152dcc/java-arrays-clone-explained-deep-dive-with-examples-best-practices-252d)
-- [.NET 10: The Performance Beast That&#39;s Redefining Modern Application Development](https://dev.to/georgekobaidze/net-10-the-performance-beast-thats-redefining-modern-application-development-35jn)
-- [Java Arrays.clear&lpar;&rpar;? Let&#39;s Get Real: Clearing Arrays The Right Way](https://dev.to/satyam_gupta_0d1ff2152dcc/java-arraysclear-lets-get-real-clearing-arrays-the-right-way-1a07)
-- [Master Java&#39;s addAll&lpar;&rpar; Method: Complete Guide with Examples &amp; Best Practices](https://dev.to/satyam_gupta_0d1ff2152dcc/master-javas-addall-method-complete-guide-with-examples-best-practices-3kof)
-- [Distributed Tracing in Go: Build Observability Into Your Microservices From Scratch](https://dev.to/nithinbharathwaj/distributed-tracing-in-go-build-observability-into-your-microservices-from-scratch-542m)
+- [How to Access the Request Object in Mitsuki Controllers](https://dev.to/david_landup/how-to-access-the-request-object-in-mitsuki-controllers-34o8)
+- [Dancing Class - Javascript](https://dev.to/preetha_vaishnavi_2b82358/dancing-class-javascript-c72)
+- [Initialize ForgeRock DS from LDIF Files: A Step-by-Step Guide](https://dev.to/iamdevbox/initialize-forgerock-ds-from-ldif-files-a-step-by-step-guide-24gi)
+- [MLOps: Data Science Lifecycle with DataSets examples, Workflows and Pipelines.](https://dev.to/giridharan_devops/mlops-data-science-lifecycle-with-datasets-examples-workflows-and-pipelines-164e)
+- [Carlton Dance :: Choose Range](https://dev.to/preetha_vaishnavi_2b82358/carlton-dance-choose-range-2l60)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
