@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🖥️ SSH Manager - VS Code Extension](https://dev.to/exalandapp/ssh-manager-vs-code-extension-48p6)
-- [Eleva tu app Android: patrones de arquitectura con Jetpack Compose](https://dev.to/marlonlom/eleva-tu-app-android-patrones-de-arquitectura-con-jetpack-compose-5gh)
-- [DEVLOG – How to Move Straight in a Line?](https://dev.to/somespi/devlog-how-to-move-straight-in-a-line-3dc0)
-- [The Architecture of Agent Memory: How LangGraph Really Works](https://dev.to/sreeni5018/the-architecture-of-agent-memory-how-langgraph-really-works-59ne)
-- [Building the Ultimate Reddit Scraper: A Full-Featured, API-Free Data Collection Suite](https://dev.to/ksanjeev284/building-the-ultimate-reddit-scraper-a-full-featured-api-free-data-collection-suite-4al3)
+- [Building a Secure Multi-User CRM SaaS with Supabase &amp; Retool &lpar;for UK SMEs&rpar;](https://dev.to/munawerali_syed/building-a-secure-multi-user-crm-saas-with-supabase-retool-for-uk-smes-ik1)
+- [Most WordPress Speed Issues Are Not Plugin Problems — They’re Configuration Problems](https://dev.to/wpsyed/most-wordpress-speed-issues-are-not-plugin-problems-theyre-configuration-problems-4bfm)
+- [Meet X-AnyLabeling: The Python-native, AI-powered Annotation Tool for Modern CV 🚀](https://dev.to/jack_wang_d47b1f7f781c64f/meet-x-anylabeling-the-python-native-ai-powered-annotation-tool-for-modern-cv-507b)
+- [🎤 The Mic Drop Architect: Why a Rapper Entered the AI Agent Cypher](https://dev.to/sasha_ivey_49988a0f57c5a0/the-mic-drop-architect-why-a-rapper-entered-the-ai-agent-cypher-1ne5)
+- [Building an Interactive Algorithm Visualizer for Interview Prep &lpar;Open Source&rpar;](https://dev.to/nesimtunc/building-an-interactive-algorithm-visualizer-for-interview-prep-open-source-33go)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
