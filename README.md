@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why VM-based obfuscation raises the cost of reversing JavaScript](https://dev.to/primeveil/why-vm-based-obfuscation-raises-the-cost-of-reversing-javascript-1h7)
+- [Don&#39;t chase GSoC, Chase open source](https://dev.to/warrioraashuu/dont-chase-gsoc-chase-open-source-2nah)
 - [Adafruit: Arduino&#39;s Rules are &#39;Incompatible with Open Source&#39;](https://dev.to/davidcassel/adafruit-arduinos-rules-are-incompatible-with-open-source-3n7m)
 - [Monetize Voice AI Solutions for eCommerce Using VAPI Effectively](https://dev.to/callstacktech/monetize-voice-ai-solutions-for-ecommerce-using-vapi-effectively-3nm7)
 - [Meet TOON: A Token-First Data Format Built for AI](https://dev.to/kiran_ravi_092a2cfcf60389/meet-toon-a-token-first-data-format-built-for-ai-8l6)
-- [We Evaluated 13 LLM Gateways for Production. Here&#39;s What We Found](https://dev.to/debmckinney/we-evaluated-13-llm-gateways-for-production-heres-what-we-found-2dkm)
-- [Spring WebClient vs. RestTemplate: Which One Should You Use in 2025?](https://dev.to/sam_th/spring-webclient-vs-resttemplate-which-one-should-you-use-in-2025-4mcp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
