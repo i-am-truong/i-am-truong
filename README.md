@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Lunar Lake Shift: Analyzing the ThinkPad X1 Carbon Gen 13 Architecture](https://dev.to/odvex_admin/the-lunar-lake-shift-analyzing-the-thinkpad-x1-carbon-gen-13-architecture-227j)
 - [Implementing a RESTful Web API with Spring Boot](https://dev.to/arshadpatel/implementing-a-restful-web-api-with-spring-boot-2241)
 - [Untitled](https://dev.to/hyme_08_68da5ff31f9cb3580/untitled-eml)
 - [DEV Track Spotlight: Unleash Rust&#39;s Potential on AWS &lpar;DEV307&rpar;](https://dev.to/aws/dev-track-spotlight-unleash-rusts-potential-on-aws-dev307-4e31)
 - [Clean Up Your Quartz.NET Jobs with Dynamic Registration 🧹](https://dev.to/andresjcorrea/clean-up-your-quartznet-jobs-with-dynamic-registration-4p42)
-- [Building a Simple RAG System Using FAISS](https://dev.to/yoganawithai/building-a-simple-rag-system-using-faiss-17le)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
