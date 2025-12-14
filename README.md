@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Type-Safe APIs with itty-spec: A Contract-First Approach](https://dev.to/robertpitt/building-type-safe-apis-with-itty-spec-a-contract-first-approach-4fi9)
-- [Spotify Connect, Raspberry Pi, AirPlay &amp; HomePod - because simple audio setups are boring](https://dev.to/voodu/spotify-connect-raspberry-pi-airplay-homepod-because-simple-audio-setups-are-boring-19lf)
-- [Building a Modular Starter Kit for M5StickC-Plus2: From Messy Code to Clean Architecture](https://dev.to/christopherdebray/building-a-modular-starter-kit-for-m5stickc-plus2-from-messy-code-to-clean-architecture-1mb0)
-- [Deploy TanStack Start with SQLite to Your Own Server](https://dev.to/ameistad/deploy-tanstack-start-with-sqlite-to-your-own-server-31o1)
-- [I Built an ML Platform to Monitor Africa&#39;s $700B Debt Crisis - Here&#39;s What I Learned](https://dev.to/cyusa_loic_9264210b981eaf/i-built-an-ml-platform-to-monitor-africas-700b-debt-crisis-heres-what-i-learned-154a)
+- [AWS Modulo 3: Lambda con Go](https://dev.to/emp_devcybsec/modulo-3-lambda-con-go-1aec)
+- [Beyond Next.js: TanStack Start and the Future of Full-Stack React Development](https://dev.to/hugaidas/beyond-nextjs-tanstack-start-and-the-future-of-full-stack-react-development-2m5h)
+- [Managing Local and Remote Podman instances over LazyDocker](https://dev.to/alfonsosanchez12/managing-local-and-remote-podman-instances-over-lazydocker-31e6)
+- [HFT-Lite: Prediction market arbitrage engine](https://dev.to/h0tb0x/hft-lite-prediction-market-arbitrage-engine-51lc)
+- [Understanding Agentic AI: How Modern Systems Make Autonomous Decisions](https://dev.to/careerbytecode/understanding-agentic-ai-how-modern-systems-make-autonomous-decisions-3amj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
