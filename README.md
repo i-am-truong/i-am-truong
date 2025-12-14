@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Running Any AI Agent on Kubernetes: Step-by-Step](https://dev.to/thenjdevopsguy/running-any-ai-agent-on-kubernetes-step-by-step-10n5)
-- [Kaggle Capstone: Resumay_I – Engineering a Multi-LLM Agent for Job Application Mastery](https://dev.to/g_ness_6f85db0060354f3ec7/kaggle-capstone-resumayi-engineering-a-multi-llm-agent-for-job-application-mastery-3b20)
-- [Identity Governance and Administration Explained: Lifecycle Management, RBAC, and Continuous Access Control](https://dev.to/kapusto/identity-governance-and-administration-explained-lifecycle-management-rbac-and-continuous-access-29kb)
-- [SwiftUI Layout System Masterclass](https://dev.to/sebastienlato/swiftui-layout-system-masterclass-2pfc)
-- [Access Governance in Hybrid Microsoft Environments: Centralized Control, Least Privilege, and Lifecycle Automation](https://dev.to/kapusto/access-governance-in-hybrid-microsoft-environments-centralized-control-least-privilege-and-5f3p)
+- [🖥️ SSH Manager - VS Code Extension](https://dev.to/exalandapp/ssh-manager-vs-code-extension-48p6)
+- [Eleva tu app Android: patrones de arquitectura con Jetpack Compose](https://dev.to/marlonlom/eleva-tu-app-android-patrones-de-arquitectura-con-jetpack-compose-5gh)
+- [DEVLOG – How to Move Straight in a Line?](https://dev.to/somespi/devlog-how-to-move-straight-in-a-line-3dc0)
+- [The Architecture of Agent Memory: How LangGraph Really Works](https://dev.to/sreeni5018/the-architecture-of-agent-memory-how-langgraph-really-works-59ne)
+- [Building the Ultimate Reddit Scraper: A Full-Featured, API-Free Data Collection Suite](https://dev.to/ksanjeev284/building-the-ultimate-reddit-scraper-a-full-featured-api-free-data-collection-suite-4al3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
