@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Guide: How to Detect If a Domain Is a Scam](https://dev.to/markpy/python-guide-how-to-detect-if-a-domain-is-a-scam-2c84)
+- [Gleam - a view from non-functional perspective](https://dev.to/arthrp/gleam-a-view-from-non-functional-perspective-21af)
+- [Inside Google Jobs Series &lpar;Part 11&rpar;: Cross-Domain &amp; Payment Roles](https://dev.to/jackm_345442a09fb53b/inside-google-jobs-series-part-11-cross-domain-payment-roles-1mef)
 - [Docify: Building a Production RAG System for Knowledge Management](https://dev.to/keshavashiya/docify-building-a-production-rag-system-for-knowledge-management-8b9)
 - [How to Build a Scalable RAG-Based Chatbot on AWS?](https://dev.to/girishmukim/how-to-build-a-scalable-rag-based-chatbot-on-aws-56n1)
-- [From DNS to Containers: How AWS Routes Traffic Using Route 53 and Application Load Balancer](https://dev.to/p_acharya_cb32943b1cb6a0/from-dns-to-containers-how-aws-routes-traffic-using-route-53-and-application-load-balancer-3eo)
-- [From Watching Live Sessions to Thinking Like an AI Agent: My 5-Day Journey with Google Kaggle](https://dev.to/astha_sukhadiya_92f8e19b4/from-watching-live-sessions-to-thinking-like-an-ai-agent-my-5-day-journey-with-google-x-kaggle-3c0g)
-- [📅 Day 16 | AWS RDS — Managed Database Service in AWS 🗄️☁️](https://dev.to/sudarshan_yadav/day-16-aws-rds-managed-database-service-in-aws-3j2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
