@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AWS Modulo 3: Lambda con Go](https://dev.to/emp_devcybsec/modulo-3-lambda-con-go-1aec)
-- [Beyond Next.js: TanStack Start and the Future of Full-Stack React Development](https://dev.to/hugaidas/beyond-nextjs-tanstack-start-and-the-future-of-full-stack-react-development-2m5h)
-- [Managing Local and Remote Podman instances over LazyDocker](https://dev.to/alfonsosanchez12/managing-local-and-remote-podman-instances-over-lazydocker-31e6)
-- [HFT-Lite: Prediction market arbitrage engine](https://dev.to/h0tb0x/hft-lite-prediction-market-arbitrage-engine-51lc)
-- [Understanding Agentic AI: How Modern Systems Make Autonomous Decisions](https://dev.to/careerbytecode/understanding-agentic-ai-how-modern-systems-make-autonomous-decisions-3amj)
+- [Redis Nuxt Blog: The Admin Panel Awakens ⚔️](https://dev.to/melasistema/redis-nuxt-blog-the-admin-panel-awakens-4mdk)
+- [Getting Started With Linux](https://dev.to/dvorlandi/getting-started-with-linux-4n7f)
+- [[Boost]](https://dev.to/silletr/-23k3)
+- [Rython - New Programming language!](https://dev.to/silletr/rython-new-programming-language-4c1c)
+- [Build Your First Privacy-Preserving App on Midnight Network](https://dev.to/martinrivero15/build-your-first-privacy-preserving-app-on-midnight-network-1l4c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
