@@ -120,9 +120,9 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Philippine Corruption From Wikipedia Data](https://dev.to/ctrlvee/philippine-corruption-from-wikipedia-data-3m7g)
 - [2025-12-14 Daily Robotics News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-14-daily-robotics-news-1040)
 - [48 Hours to Learn AI Agents: How It Changed My View](https://dev.to/yukaty/48-hours-to-learn-ai-agents-how-it-changed-my-view-42le)
-- [2025-12-14 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-14-daily-ai-news-1h2j)
 - [Neuroevolution of Augmenting Topologies in JavaScript](https://dev.to/joshuadam/neuroevolution-of-augmenting-topologies-in-javascript-2i08)
 - [SwiftUI Performance Deep Dive: Rendering, Identity &amp; Invalidations](https://dev.to/sebastienlato/swiftui-performance-deep-dive-rendering-identity-invalidations-elm)
 <!-- BLOG-POST-LIST:END -->
