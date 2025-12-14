@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [JVM: A Máquina Virtual Java - Fundamentos e Funcionamento](https://dev.to/ikauedev/jvm-a-maquina-virtual-java-fundamentos-e-funcionamento-2mjj)
+- [Components of Soft Skills: The 6Ts](https://dev.to/stakiran/components-of-soft-skills-the-6ts-173d)
 - [SleepSync - FullStack App made with Xano and Bubble](https://dev.to/julsr_mx/sleepsync-fullstack-app-made-with-xano-and-bubble-cjh)
 - [Title: I built a 13-app &quot;Zoo&quot; using Gemini Pro 3. The constraint: I wasn&#39;t allowed to inspect the code.](https://dev.to/natnnatn/title-i-built-a-13-app-zoo-using-gemini-pro-3-the-constraint-i-wasnt-allowed-to-inspect-the-442a)
 - [Becoming the Prediction Machine](https://dev.to/junothreadborne/becoming-the-prediction-machine-48ii)
-- [How Developers Consume Market Data in Real-Time](https://dev.to/dan_keller/how-developers-consume-market-data-in-real-time-4524)
-- [Reinforcement Learning Environments: How AI Agents Learn Through Experience](https://dev.to/kapusto/reinforcement-learning-environments-how-ai-agents-learn-through-experience-j20)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
