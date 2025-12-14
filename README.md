@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Needed a Simple Link Preview API for a Chat App, So I Built One](https://dev.to/abdelaziz18003/i-needed-a-simple-link-preview-api-for-a-chat-app-so-i-built-one-554l)
 - [What Is Agentforce Vibes? An Introduction to Salesforce Vibe Coding](https://dev.to/sathishvk/what-is-agentforce-vibes-an-introduction-to-salesforce-vibe-coding-2mbf)
 - [Bayesian Neural Networks Under Covariate Shift: When Theory Fails Practice](https://dev.to/kasiukvadim/bayesian-neural-networks-under-covariate-shift-when-theory-fails-practice-2hif)
 - [The right tool for the job](https://dev.to/luc4587/the-right-tool-for-the-job-cba)
 - [How the hash was won](https://dev.to/luc4587/how-the-hash-was-won-2im8)
-- [Getting Started with Envoy Proxy: What It Is, How It Works, and a Hands-On Implementation](https://dev.to/girma35/getting-started-with-envoy-proxy-what-it-is-how-it-works-and-a-hands-on-implementation-1p3a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
