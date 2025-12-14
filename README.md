@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Type-Safe APIs with itty-spec: A Contract-First Approach](https://dev.to/robertpitt/building-type-safe-apis-with-itty-spec-a-contract-first-approach-4fi9)
+- [Spotify Connect, Raspberry Pi, AirPlay &amp; HomePod - because simple audio setups are boring](https://dev.to/voodu/spotify-connect-raspberry-pi-airplay-homepod-because-simple-audio-setups-are-boring-19lf)
 - [Building a Modular Starter Kit for M5StickC-Plus2: From Messy Code to Clean Architecture](https://dev.to/christopherdebray/building-a-modular-starter-kit-for-m5stickc-plus2-from-messy-code-to-clean-architecture-1mb0)
 - [Deploy TanStack Start with SQLite to Your Own Server](https://dev.to/ameistad/deploy-tanstack-start-with-sqlite-to-your-own-server-31o1)
 - [I Built an ML Platform to Monitor Africa&#39;s $700B Debt Crisis - Here&#39;s What I Learned](https://dev.to/cyusa_loic_9264210b981eaf/i-built-an-ml-platform-to-monitor-africas-700b-debt-crisis-heres-what-i-learned-154a)
-- [Rethinking Software Engineering: Why It Has Failed at Maintainability](https://dev.to/antunesleo/rethinking-software-engineering-why-it-has-failed-at-maintainability-39ek)
-- [El dilema del Sombrero Seleccionador: ¿Realmente somos quienes creemos ser?](https://dev.to/franamaayoongo/el-dilema-del-sombrero-seleccionador-realmente-somos-quienes-creemos-ser-2bm2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
