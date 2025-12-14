@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [New AWS Lambda Durable Functions – Do they replace Step Functions?](https://dev.to/ian_carlson_0c77f977f7790/new-aws-lambda-durable-functions-do-they-replace-step-functions-2c5i)
-- [Use your debugger less and learn more from debugging instead](https://dev.to/andreas_mller_2fd27cf578/use-your-debugger-less-and-learn-more-from-debugging-instead-46ac)
-- [Orchestrating Creativity with Agentic AI: How I Built a Real Business Using Autonomous Agents](https://dev.to/vishwajeet_singh_be18eefb/orchestrating-creativity-with-agentic-ai-how-i-built-a-real-business-using-autonomous-agents-545c)
-- [Stop Uploading Files: I Built a Privacy-First Converter with WebAssembly 🛡️](https://dev.to/ahmet_sayar_258baaf54792e/stop-uploading-files-i-built-a-privacy-first-converter-with-webassembly-10il)
-- [21 | National Waffle Day](https://dev.to/preetha_vaishnavi_2b82358/21-national-waffle-day-3hmk)
+- [Stop wasting time configuring MERN: I built a production-ready TypeScript boilerplate](https://dev.to/jaseelthalikulam/stop-wasting-time-configuring-mern-i-built-a-production-ready-typescript-boilerplate-1n3b)
+- [LLM’in Düşüncesini İzlemek](https://dev.to/hakkiergin/llmin-dusuncesini-izlemek-14f)
+- [🚀 Day 1 of Learning C — Laying the First Brick Toward My Own Operating System](https://dev.to/brucelee03/day-1-of-learning-c-laying-the-first-brick-toward-my-own-operating-system-2o40)
+- [From Confusion to Clarity: Building My First Research Agent in Google&#39;s AI Intensive](https://dev.to/wilson_bmiles_d0902d06d/from-confusion-to-clarity-building-my-first-research-agent-in-googles-ai-intensive-jn8)
+- [The Complete Guide to Meta-Prompting: The Technique of Having AI Write Your Prompts](https://dev.to/seiwan-maikuma/the-complete-guide-to-meta-prompting-the-technique-of-having-ai-write-your-prompts-12ai)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
