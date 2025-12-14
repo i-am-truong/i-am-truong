@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SleepSync - FullStack App made with Xano and Bubble](https://dev.to/julsr_mx/sleepsync-fullstack-app-made-with-xano-and-bubble-cjh)
 - [Title: I built a 13-app &quot;Zoo&quot; using Gemini Pro 3. The constraint: I wasn&#39;t allowed to inspect the code.](https://dev.to/natnnatn/title-i-built-a-13-app-zoo-using-gemini-pro-3-the-constraint-i-wasnt-allowed-to-inspect-the-442a)
 - [Becoming the Prediction Machine](https://dev.to/junothreadborne/becoming-the-prediction-machine-48ii)
-- [Why Am I Not Making Progress Despite Solving LeetCode Daily? The Plateau Problem](https://dev.to/alex_hunter_44f4c9ed6671e/why-am-i-not-making-progress-despite-solving-leetcode-daily-the-plateau-problem-28hk)
-- [Official Emstrata Tutorial](https://dev.to/goldsteinnick/official-emstrata-tutorial-1628)
-- [The Common Roadblocks for AI Storytelling](https://dev.to/goldsteinnick/the-common-roadblocks-for-ai-storytelling-1m69)
+- [How Developers Consume Market Data in Real-Time](https://dev.to/dan_keller/how-developers-consume-market-data-in-real-time-4524)
+- [Reinforcement Learning Environments: How AI Agents Learn Through Experience](https://dev.to/kapusto/reinforcement-learning-environments-how-ai-agents-learn-through-experience-j20)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
