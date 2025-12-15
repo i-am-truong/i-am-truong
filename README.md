@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Identity Is Mission-Critical in AI-to-AI Systems](https://dev.to/helios_techcomm_552ce9239/why-identity-is-mission-critical-in-ai-to-ai-systems-70i)
-- [Chasing 240 FPS in LLM Chat UIs](https://dev.to/gokhan_koc_88338a026508b3/chasing-240-fps-on-llm-chats-4gde)
-- [How I Use ChatGPT to Fix Technical SEO Issues Faster](https://dev.to/learnwithmohit/how-i-use-chatgpt-to-fix-technical-seo-issues-faster-3p1)
-- [API-First Automation: Building Aginewsle Enterprise Systems](https://dev.to/joe_joe/api-first-automation-building-aginewsle-enterprise-systems-5a88)
-- [How to Write a Clear Development Task Brief &lpar;Template Included&rpar;](https://dev.to/flexyadmin/how-to-write-a-clear-development-task-brief-template-included-48o8)
+- [How to write a talk proposal that actually gets accepted](https://dev.to/soumayaerradi/how-to-write-a-talk-proposal-that-actually-gets-accepted-4nje)
+- [Unpacking the Google File System Paper: A Simple Breakdown](https://dev.to/rajeevrajeshuni/google-file-system-gfs-keep-it-simple-scale-big-3277)
+- [Building a Terminal UI Broke My Brain](https://dev.to/manasmudbari/building-a-terminal-ui-broke-my-brain-hpc)
+- [From Detection to Defense: How Push-to-Vault Supercharges Secrets Management for DevSecOps](https://dev.to/gitguardian/from-detection-to-defense-how-push-to-vault-supercharges-secrets-management-for-devsecops-174d)
+- [Don&#39;t kill the bearer of bad news](https://dev.to/marianvarga/dont-kill-the-bearer-of-bad-news-45p9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
