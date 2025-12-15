@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [PAGI::Server Performance and Hardening](https://dev.to/jjn1056/pagiserver-performance-and-hardening-l8d)
-- [Using AI Alongside Your UI Tests, Not Instead of Them](https://dev.to/engroso/using-ai-alongside-your-ui-tests-not-instead-of-them-58pf)
-- [Build Your Own AI QA Assistant — Automate Test Understanding with LangChain &amp; OpenAI](https://dev.to/qa-leaders/build-your-own-ai-qa-assistant-automate-test-understanding-with-langchain-openai-9fm)
-- [**Measuring AI in Media Success: A Novel Metric - Return on](https://dev.to/drcarlosruizviquez/measuring-ai-in-media-success-a-novel-metric-return-on-26mo)
-- [My First Experiences With Test-Driven Development](https://dev.to/g-fuchter/my-first-experiences-with-test-driven-development-1pk9)
+- [Cybersecurity tools: SIEM or are companies really spying on us](https://dev.to/dharbachou/cybersecurity-tools-siem-or-are-companies-really-spying-on-us-med)
+- [Prompt -&gt; RAG -&gt; Eval: System Overview for LLM Engineers](https://dev.to/dowhatmatters/prompt-rag-eval-system-overview-for-llm-engineers-5bef)
+- [PyTorch Tensor Internals: Storage, Shape, and Stride Explained](https://dev.to/jiminlee/pytorch-tensor-internals-storage-shape-and-stride-explained-e4g)
+- [Goodbye to Static Credentials: Embrace Modern Identity Practices](https://dev.to/aws-builders/goodbye-to-static-credentials-embrace-modern-identity-practices-163m)
+- [Which AI Can Create the Coolest Web Page? GPT 5.2 vs Gemini 3.0 Pro vs Opus 4.5 vs bolt.new vs v0 vs Lovable](https://dev.to/yukapero/which-ai-can-create-the-coolest-web-page-gpt-52-vs-gemini-30-pro-vs-opus-45-vs-boltnew-vs-v0-1f32)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
