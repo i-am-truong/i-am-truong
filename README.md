@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Agent Workflows Fail Before They Even Begin](https://dev.to/dowhatmatters/why-agent-workflows-fail-before-they-even-begin-1ll6)
-- [Robotic Process Automation &lpar;RPA&rpar;: The Future of Business Efficiency](https://dev.to/joe_joe/robotic-process-automation-rpa-the-future-of-business-efficiency-4gcp)
-- [Microsoft Ignite 2025: How AI Agents Are Redefining the Enterprise](https://dev.to/alexrodovit/microsoft-ignite-2025-how-ai-agents-are-redefining-the-enterprise-4oic)
-- [Workflow Automation Best Practices: A Comprehensive Guide for 2024](https://dev.to/joe_joe/workflow-automation-best-practices-a-comprehensive-guide-for-2024-55ok)
-- [Terraform Day-6](https://dev.to/jayanth_kumardasari_d34c/terraform-day-6-38oa)
+- [Why Identity Is Mission-Critical in AI-to-AI Systems](https://dev.to/helios_techcomm_552ce9239/why-identity-is-mission-critical-in-ai-to-ai-systems-70i)
+- [Chasing 240 FPS in LLM Chat UIs](https://dev.to/gokhan_koc_88338a026508b3/chasing-240-fps-on-llm-chats-4gde)
+- [How I Use ChatGPT to Fix Technical SEO Issues Faster](https://dev.to/learnwithmohit/how-i-use-chatgpt-to-fix-technical-seo-issues-faster-3p1)
+- [API-First Automation: Building Aginewsle Enterprise Systems](https://dev.to/joe_joe/api-first-automation-building-aginewsle-enterprise-systems-5a88)
+- [How to Write a Clear Development Task Brief &lpar;Template Included&rpar;](https://dev.to/flexyadmin/how-to-write-a-clear-development-task-brief-template-included-48o8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
