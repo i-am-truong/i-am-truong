@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building PolyScan: Free CC0 PBR Textures &amp; 3D Models for Real Projects](https://dev.to/polyscan/building-polyscan-free-cc0-pbr-textures-3d-models-for-real-projects-3jhm)
+- [Async by Default](https://dev.to/rnikolaev/async-by-default-3f9)
+- [Zero-to-Scale ML: Deploying ONNX Models on Kubernetes with FastAPI and HPA](https://dev.to/austin_deyan_6c9b2445aed6/zero-to-scale-ml-deploying-onnx-models-on-kubernetes-with-fastapi-and-hpa-l78)
 - [How to write a talk proposal that actually gets accepted](https://dev.to/soumayaerradi/how-to-write-a-talk-proposal-that-actually-gets-accepted-4nje)
 - [Unpacking the Google File System Paper: A Simple Breakdown](https://dev.to/rajeevrajeshuni/google-file-system-gfs-keep-it-simple-scale-big-3277)
-- [Building a Terminal UI Broke My Brain](https://dev.to/manasmudbari/building-a-terminal-ui-broke-my-brain-hpc)
-- [From Detection to Defense: How Push-to-Vault Supercharges Secrets Management for DevSecOps](https://dev.to/gitguardian/from-detection-to-defense-how-push-to-vault-supercharges-secrets-management-for-devsecops-174d)
-- [Don&#39;t kill the bearer of bad news](https://dev.to/marianvarga/dont-kill-the-bearer-of-bad-news-45p9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
