@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Complete Next.js Performance &amp; SEO Optimization Guide](https://dev.to/devang_banta_7378dd7fad61/complete-nextjs-performance-seo-optimization-guide-4jm1)
+- [Geolocate any IP using latency](https://dev.to/globalping/geolocate-any-ip-using-latency-28b9)
+- [Media Downloader: A Simple Web Tool for Image &amp; Video Processing !!!](https://dev.to/sutejpal/media-downloader-a-simple-web-tool-for-image-video-processing--j48)
+- [Sha1-Hulud 2.0 - The Second Coming: A Technical Breakdown](https://dev.to/minimus/sha1-hulud-20-the-second-coming-a-technical-breakdown-2d0n)
 - [I was tired of copy-pasting to ChatGPT, so I built a Chrome extension](https://dev.to/ialijr/i-was-tired-of-copy-pasting-to-chatgpt-so-i-built-a-chrome-extension-m3f)
-- [Application Development with LLMs on Google Cloud: Building the Next Generation of Apps](https://dev.to/rohan_jee_085655230/application-development-with-llms-on-google-cloud-building-the-next-generation-of-apps-3lh5)
-- [Day 14 of #30DaysOfAWSTerraform: Hosting a Static Website with S3 and CloudFront](https://dev.to/alafiz/day-14-of-30daysofawsterraform-hosting-a-static-website-with-s3-and-cloudfront-4i7a)
-- [The European DPP’s Technical Blind Spot: Why Simple Schema.org Guarantees Chaos by 2027](https://dev.to/kevinbouti/the-european-dpps-technical-blind-spot-why-simple-schemaorg-guarantees-chaos-by-2027-2ogg)
-- [The Ultimate Guide to the Google Cloud Professional Cloud Security Engineer Certification &lpar;2026&rpar;](https://dev.to/rohan_jee_085655230/the-ultimate-guide-to-the-google-cloud-professional-cloud-security-engineer-certification-2026-5gfk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
