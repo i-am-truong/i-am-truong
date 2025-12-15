@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop Using One AI for Everything: 5 Emerging AIs and What Each One Is Actually Good At](https://dev.to/christechnocom/stop-using-one-ai-for-everything-5-emerging-ais-and-what-each-one-is-actually-good-at-10d3)
-- [How to Send Emails in Express.js: SMTP and API Guide](https://dev.to/davecodes/how-to-send-emails-in-expressjs-smtp-and-api-guide-2b5n)
-- [Patient Success Stories: How Cardiac and Thoracic Care Are Transforming Lives](https://dev.to/jascia_dev/patient-success-stories-how-cardiac-and-thoracic-care-are-transforming-lives-2ne5)
-- [Astryx Documents API: Production-Ready Document Ingestion &amp; Vector Backend with Xano](https://dev.to/asamaes/astryx-documents-api-production-ready-document-ingestion-vector-backend-with-xano-1i3l)
-- [Meaning Comes From People](https://dev.to/nenyasoftwaredevelopment/meaning-comes-from-people-2e4f)
+- [Taming Windows Terminal&#39;s win32-input-mode in Go ConPTY Applications](https://dev.to/andylbrummer/taming-windows-terminals-win32-input-mode-in-go-conpty-applications-7gg)
+- [Bot Protection Explained: Dynamic Defense, Human Verification, and Anti-Replay in SafeLine WAF](https://dev.to/arina_cholee/bot-protection-explained-dynamic-defense-human-verification-and-anti-replay-in-safeline-waf-428a)
+- [Architecting ‍ ‌‍ ‍‌ Global Commerce: A Developer’s Guide to Multi-Language, Multi-Currency, and Tax Compliance](https://dev.to/indianwebsiteco/architecting-global-commerce-a-developers-guide-to-multi-language-multi-currency-and-1oj8)
+- [What is .NET Architecture? A Comprehensive Guide](https://dev.to/kevinwalker/what-is-net-architecture-a-comprehensive-guide-29d5)
+- [AWS Bedrock vs Azure OpenAI vs Gemini API: A Practical Comparison](https://dev.to/jubinsoni/aws-bedrock-vs-azure-openai-vs-gemini-api-a-practical-comparison-f05)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
