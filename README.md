@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Next.js Weekly #111: New Critical Next.js CVEs, ElevenLabs UI, TS 7 Roadmap, Async React, Vercel for Platforms, CSS Wrapped](https://dev.to/erfanebrahimnia/new-critical-nextjs-cves-elevenlabs-ui-ts-7-roadmap-async-react-vercel-for-platforms-css-102e)
-- [What this course taught me About Agentic AI](https://dev.to/vivy_flora_ac9549c79884ae/what-this-course-taught-me-about-agentic-ai-2km1)
-- [From Nagging to Holding People Accountable](https://dev.to/dvddpl/from-nagging-to-holding-people-accountable-3dfj)
-- [Why PR Standards Always Decay &lpar;Even on Good Teams&rpar;](https://dev.to/carlo_luisitoadap_61903d/why-pr-standards-always-decay-even-on-good-teams-2ld1)
-- [🛠️ I Got Tired of Using 10 Different Websites — So I Built One](https://dev.to/axevora_0414a92c2b8f10a94/i-got-tired-of-using-10-different-websites-so-i-built-one-1epj)
+- [Stop Using One AI for Everything: 5 Emerging AIs and What Each One Is Actually Good At](https://dev.to/christechnocom/stop-using-one-ai-for-everything-5-emerging-ais-and-what-each-one-is-actually-good-at-10d3)
+- [How to Send Emails in Express.js: SMTP and API Guide](https://dev.to/davecodes/how-to-send-emails-in-expressjs-smtp-and-api-guide-2b5n)
+- [Patient Success Stories: How Cardiac and Thoracic Care Are Transforming Lives](https://dev.to/jascia_dev/patient-success-stories-how-cardiac-and-thoracic-care-are-transforming-lives-2ne5)
+- [Astryx Documents API: Production-Ready Document Ingestion &amp; Vector Backend with Xano](https://dev.to/asamaes/astryx-documents-api-production-ready-document-ingestion-vector-backend-with-xano-1i3l)
+- [Meaning Comes From People](https://dev.to/nenyasoftwaredevelopment/meaning-comes-from-people-2e4f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
