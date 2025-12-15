@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Slire: A Minimal Repository Layer for Node.js + MongoDB/Firestore](https://dev.to/dchowitz/slire-a-minimal-repository-layer-for-nodejs-mongodbfirestore-4ipn)
-- [The Rise of AI-Powered Marketing: What’s Next in 2026](https://dev.to/digital_terrene_b369a1c21/the-rise-of-ai-powered-marketing-whats-next-in-2026-4b0g)
-- [Top Benefits of Real Time Analytics for Faster and Smarter Decisions](https://dev.to/ravi_teja_4/top-benefits-of-real-time-analytics-for-faster-and-smarter-decisions-3i1i)
-- [Drive API Monetization: How Monetzly Enhances Your AI Conversations](https://dev.to/monetzly/drive-api-monetization-how-monetzly-enhances-your-ai-conversations-509h)
-- [Understanding Doppar Queue: A Deep Dive into Job Lifecycle and Why It Matters](https://dev.to/mahedi1501/understanding-doppar-queue-a-deep-dive-into-job-lifecycle-and-why-it-matters-5hjk)
+- [g](https://dev.to/anurag_sati_5b77a6578f780/g-1g89)
+- [Coderive v0.3.0: The Language Design Leap - A Realized Vision](https://dev.to/danexcodr/coderive-v030-the-language-design-leap-a-realized-vision-24ap)
+- [Café con IA: Tu Resumen Rápido de Noticias Tecnológicas &lpar;Diciembre 2025&rpar;](https://dev.to/ethan_zhang_e501fea89c25b/cafe-con-ia-tu-resumen-rapido-de-noticias-tecnologicas-diciembre-2025-lmm)
+- [How to Debug “Target Endpoint Not Reachable” | Networking &amp; Server Troubleshooting](https://dev.to/ved_sharma_e776421e694cdc/how-to-debug-target-endpoint-not-reachable-networking-server-troubleshooting-4ca5)
+- [AWS Terraform IAM User Management](https://dev.to/adarsh_gupta_c5fecf658fd7/aws-terraform-iam-user-management-5g09)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
