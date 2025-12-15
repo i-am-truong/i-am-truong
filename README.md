@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GO profiling using pprof](https://dev.to/dvorlandi/go-profilling-using-pprof-93i)
-- [From Prompts to Action: My Journey Through the Google &amp; Kaggle AI Agents Bootcamp](https://dev.to/joshyfruit/from-prompts-to-action-my-journey-through-the-google-kaggle-ai-agents-bootcamp-2489)
-- [Functions in javascript](https://dev.to/keerthigap/functions-in-javascript-2iag)
-- [Koka.py: Type-Checked Dependency Injection and Error Handling in Python](https://dev.to/herrington_darkholme/kokapy-type-checked-dependency-injection-and-error-handling-in-python-1beg)
-- [My Newsletter: Growth, Fun, Slow &amp; Steady](https://dev.to/nickytonline/my-newsletter-growth-fun-slow-steady-4fpd)
+- [Happy Hour API: An API for Local Happy Hour Deals](https://dev.to/nick_calhoun_0046fedbaeac/happy-hour-api-an-api-for-local-happy-hour-deals-3c2h)
+- [I made a programming language](https://dev.to/eric_phillips_1e9cb624bf5/i-made-a-programming-language-1df5)
+- [Why Excel Worked for My Budget — Until It Didn’t](https://dev.to/tech_motka_fc3c90932fd0c0/why-excel-worked-for-my-budget-until-it-didnt-4314)
+- [🚀 FlowPilot: One assistant on the outside. A full AI team on the inside.](https://dev.to/rajasekhar_nimmala/flowpilot-one-assistant-on-the-outside-a-full-ai-team-on-the-inside-2dll)
+- [JuiceFS+MinIO: Ariste AI Achieved 3x Faster I/O and Cut Storage Costs by 40%+](https://dev.to/daswu/juicefsminio-ariste-ai-achieved-3x-faster-io-and-cut-storage-costs-by-40-1016)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
