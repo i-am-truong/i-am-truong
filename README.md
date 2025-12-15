@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Jordium GanttChart Vue3 v1.6.0: Declarative Task Table, Slots, and Better Interactions](https://dev.to/nelson_li_c5265341756c7ab/jordium-ganttchart-vue3-v160-declarative-task-table-slots-and-better-interactions-2216)
+- [🚀 EKS Auto Mode na prática](https://dev.to/aws-builders/eks-auto-mode-na-pratica-2c6f)
 - [The Tech Stack Behind data-peek: Modern Desktop Development in 2025](https://dev.to/gillarohith/the-tech-stack-behind-data-peek-modern-desktop-development-in-2025-515o)
 - [The State of Open Source 2025 - Key Takeaways](https://dev.to/fmerian/the-state-of-open-source-2025-key-takeaways-253c)
 - [How I ship power-options to all major Linux distros with 0 hassle](https://dev.to/thealexdev23/how-i-ship-power-options-to-all-major-linux-distros-with-0-hassle-2ho9)
-- [I Built an AI Tool to Help Creators Generate Reels in Minutes](https://dev.to/aixnouman/i-built-an-ai-tool-to-help-creators-generate-reels-in-minutes-2bpm)
-- [How Shadow IT Turns Employees Into Unintentional Insider Threats](https://dev.to/guardingpearsoftware/how-shadow-it-turns-employees-into-unintentional-insider-threats-197c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
