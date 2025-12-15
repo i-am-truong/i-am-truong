@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Refatorar Ifs Não Significa Eliminar Decisões](https://dev.to/bruno_fernando_59a2cd7feb/refatorar-ifs-nao-significa-eliminar-decisoes-lh3)
-- [What NestJS Actually Is — A Simple, No-Fluff Explanation](https://dev.to/ramkashyap2050/what-nestjs-actually-is-a-simple-no-fluff-explanation-3m9e)
-- [Why Mathematics Is Essential in Machine Learning](https://dev.to/lezeta/why-mathematics-is-essential-in-machine-learning-3cjb)
-- [Creating an EC2 Instance](https://dev.to/baris86/creating-an-ec2-instance-1kd8)
-- [Codewars: the challenge platform that transforms practice into mastery for developers](https://dev.to/deleanmafra/codewars-the-challenge-platform-that-transforms-practice-into-mastery-for-developers-51gi)
+- [GO profiling using pprof](https://dev.to/dvorlandi/go-profilling-using-pprof-93i)
+- [From Prompts to Action: My Journey Through the Google &amp; Kaggle AI Agents Bootcamp](https://dev.to/joshyfruit/from-prompts-to-action-my-journey-through-the-google-kaggle-ai-agents-bootcamp-2489)
+- [Functions in javascript](https://dev.to/keerthigap/functions-in-javascript-2iag)
+- [Koka.py: Type-Checked Dependency Injection and Error Handling in Python](https://dev.to/herrington_darkholme/kokapy-type-checked-dependency-injection-and-error-handling-in-python-1beg)
+- [My Newsletter: Growth, Fun, Slow &amp; Steady](https://dev.to/nickytonline/my-newsletter-growth-fun-slow-steady-4fpd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
