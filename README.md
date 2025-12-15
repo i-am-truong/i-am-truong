@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [JSON Parsing for Large Payloads: Balancing Speed, Memory, and Scalability](https://dev.to/subha_ganapathi_6766a247c/json-parsing-for-large-payloads-balancing-speed-memory-and-scalability-i1f)
-- [The Magic of Linux Text Editors](https://dev.to/agentic-jj/the-magic-of-linux-text-editors-4ic6)
-- [Why Tiny Daily Tasks Are Killing Your Productivity — And One Hub Solves It](https://dev.to/muhammad_haris_7828c7aeda/why-tiny-daily-tasks-are-killing-your-productivity-and-one-hub-solves-it-5od)
-- [Text Processing in Linux: grep, awk, and Pipes That Actually Get Work Done](https://dev.to/agentic-jj/text-processing-in-linux-grep-awk-and-pipes-that-actually-get-work-done-1c10)
-- [Coding Challenge Practice - Question 79](https://dev.to/tomivan/coding-challenge-practice-question-79-24dd)
+- [Why TypeScript is No Longer Optional for Serious JavaScript Projects?](https://dev.to/alvisonhunter/why-typescript-is-no-longer-optional-for-serious-javascript-projects-2gbk)
+- [Very well done!](https://dev.to/ben/very-well-done-3dkl)
+- [2025-12-15 Daily Robotics News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-15-daily-robotics-news-5g5m)
+- [2025-12-15 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-15-daily-ai-news-55o0)
+- [MongoDB Document Model and CRUD in Practice](https://dev.to/james_miller_8dc58a89cb9e/mongodb-document-model-and-crud-in-practice-55pn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
