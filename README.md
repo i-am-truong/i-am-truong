@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Framework Battle: Symfony vs. Laravel — Which One Should You Use for Your Enterprise System?](https://dev.to/jeandevbr/framework-battle-symfony-vs-laravel-which-one-should-you-use-for-your-enterprise-system-350k)
-- [Combine #3: Operadores de Transformación](https://dev.to/david_goyes_a488f58a17a53/combine-3-operadores-de-transformacion-4g2m)
-- [Hacking the Internal Combustion Engine: Why H2-ICE is the Real Solution for Heavy-Duty Ops](https://dev.to/energy_solutions_2050/hacking-the-internal-combustion-engine-why-h2-ice-is-the-real-solution-for-heavy-duty-ops-5031)
-- [I’m experimenting with purchase history as a signal for product recommendations. Curious what I’m missing.](https://dev.to/chad_musselman_f3bbf4cc78/im-experimenting-with-purchase-history-as-a-signal-for-product-recommendations-curious-what-im-4l99)
-- [Shopify Headless Architecture Guide for Developers](https://dev.to/elsie-rainee/shopify-headless-architecture-guide-for-developers-157c)
+- [Entering the Upside Down of Pivot Grid: A Stranger Things Data-Viz Tutorial](https://dev.to/daria_filozop_bfe6aa68940/entering-the-upside-down-of-pivot-grid-a-stranger-things-data-viz-tutorial-4db7)
+- [I Wasted 6 Weeks Building SaaS Boilerplate &lpar;Again&rpar;. Here&#39;s What Finally Made Me Stop.](https://dev.to/seergiue/i-wasted-6-weeks-building-saas-boilerplate-again-heres-what-finally-made-me-stop-3cmg)
+- [Designing Difficulty Curves That Work in Browser Platformer Games](https://dev.to/gamh5games/designing-difficulty-curves-that-work-in-browser-platformer-games-id8)
+- [CNN vs Transformer – A Visual Comparison](https://dev.to/richard_abishai/cnn-vs-transformer-a-visual-comparison-4o2h)
+- [How to create AI assistant for your business](https://dev.to/mavibot/how-to-create-ai-assistant-for-your-business-dji)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
