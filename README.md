@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Story CLI: From 30-Minute IP Registration to Under 5](https://dev.to/ola-zoll/building-story-cli-from-30-minute-ip-registration-to-under-5-22nk)
+- [Energia Solar + Mercado Livre para MEI: Requisitos Técnicos em 2025](https://dev.to/ava_mendes/energia-solar-mercado-livre-para-mei-requisitos-tecnicos-em-2025-33gk)
 - [The Async Core: Understanding Eventlet and Gevent in Flask-SocketIO](https://dev.to/deepak_mishra_35863517037/the-async-core-understanding-eventlet-and-gevent-in-flask-socketio-2b2f)
-- [First-Class Functions in JavaScript](https://dev.to/travisfont/first-class-functions-in-javascript-4dia)
-- [Speck.js: AI Agents with Persistent Memory in One Line of Code](https://dev.to/peter_paganospeckos_b6ad/speckjs-ai-agents-with-persistent-memory-in-one-line-of-code-4a1p)
-- [Managing the Energy of Regional Food Truck Events](https://dev.to/marcusdelgado/managing-the-energy-of-regional-food-truck-events-3o3g)
-- [Understanding Agentic AI: How Modern Systems Make Autonomous Decisions](https://dev.to/learnwithshruthi/understanding-agentic-ai-how-modern-systems-make-autonomous-decisions-42fa)
+- [Kicking Off 2026: World Cup Predictions and Expert Analysis](https://dev.to/mabualzait/kicking-off-2026-world-cup-predictions-and-expert-analysis-5482)
+- [Cross-Modal Knowledge Distillation for circular manufacturing supply chains for low-power autonomous deployments](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-circular-manufacturing-supply-chains-for-low-power-235l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
