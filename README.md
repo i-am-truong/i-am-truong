@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Happy Hour API: An API for Local Happy Hour Deals](https://dev.to/nick_calhoun_0046fedbaeac/happy-hour-api-an-api-for-local-happy-hour-deals-3c2h)
-- [I made a programming language](https://dev.to/eric_phillips_1e9cb624bf5/i-made-a-programming-language-1df5)
-- [Why Excel Worked for My Budget — Until It Didn’t](https://dev.to/tech_motka_fc3c90932fd0c0/why-excel-worked-for-my-budget-until-it-didnt-4314)
-- [🚀 FlowPilot: One assistant on the outside. A full AI team on the inside.](https://dev.to/rajasekhar_nimmala/flowpilot-one-assistant-on-the-outside-a-full-ai-team-on-the-inside-2dll)
-- [JuiceFS+MinIO: Ariste AI Achieved 3x Faster I/O and Cut Storage Costs by 40%+](https://dev.to/daswu/juicefsminio-ariste-ai-achieved-3x-faster-io-and-cut-storage-costs-by-40-1016)
+- [celery-plus 🥬 — Modern Celery for Node.js](https://dev.to/member_ae0cde60/celery-plus-modern-celery-for-nodejs-6c7)
+- [The Secret Life of JavaScript: Currying vs. Partial Application](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-currying-vs-partial-application-f8c)
+- [Infinite Scroll with Zustand and React 19: Async Pitfalls](https://dev.to/pipipi-dev/infinite-scroll-with-zustand-and-react-19-async-pitfalls-57c)
+- [Revolutionize AI Monetization: A Deep Dive into Monetzly&#39;s Platform](https://dev.to/monetzly/revolutionize-ai-monetization-a-deep-dive-into-monetzlys-platform-1437)
+- [How to Quickly Build a Real System to Replace Excel: A Complete Guide](https://dev.to/nocobase/how-to-quickly-build-a-real-system-to-replace-excel-a-complete-guide-g30)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
