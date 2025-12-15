@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cybersecurity tools: SIEM or are companies really spying on us](https://dev.to/dharbachou/cybersecurity-tools-siem-or-are-companies-really-spying-on-us-med)
-- [Prompt -&gt; RAG -&gt; Eval: System Overview for LLM Engineers](https://dev.to/dowhatmatters/prompt-rag-eval-system-overview-for-llm-engineers-5bef)
-- [PyTorch Tensor Internals: Storage, Shape, and Stride Explained](https://dev.to/jiminlee/pytorch-tensor-internals-storage-shape-and-stride-explained-e4g)
-- [Goodbye to Static Credentials: Embrace Modern Identity Practices](https://dev.to/aws-builders/goodbye-to-static-credentials-embrace-modern-identity-practices-163m)
-- [Which AI Can Create the Coolest Web Page? GPT 5.2 vs Gemini 3.0 Pro vs Opus 4.5 vs bolt.new vs v0 vs Lovable](https://dev.to/yukapero/which-ai-can-create-the-coolest-web-page-gpt-52-vs-gemini-30-pro-vs-opus-45-vs-boltnew-vs-v0-1f32)
+- [Why Agent Workflows Fail Before They Even Begin](https://dev.to/dowhatmatters/why-agent-workflows-fail-before-they-even-begin-1ll6)
+- [Robotic Process Automation &lpar;RPA&rpar;: The Future of Business Efficiency](https://dev.to/joe_joe/robotic-process-automation-rpa-the-future-of-business-efficiency-4gcp)
+- [Microsoft Ignite 2025: How AI Agents Are Redefining the Enterprise](https://dev.to/alexrodovit/microsoft-ignite-2025-how-ai-agents-are-redefining-the-enterprise-4oic)
+- [Workflow Automation Best Practices: A Comprehensive Guide for 2024](https://dev.to/joe_joe/workflow-automation-best-practices-a-comprehensive-guide-for-2024-55ok)
+- [Terraform Day-6](https://dev.to/jayanth_kumardasari_d34c/terraform-day-6-38oa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
