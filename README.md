@@ -120,11 +120,13 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Nexa: An AI-First Financial Operating System &lpar;Early Build, Real Lessons&rpar;](https://dev.to/nexa_operationfinancial/building-nexa-an-ai-first-financial-operating-system-early-build-real-lessons-bgo)
-- [Angular Signals, But Better Now for .NET](https://dev.to/federico_alterio_5ff46735/angular-signals-but-better-now-for-net-2jib)
-- [The Coffee Bean](https://dev.to/yoditdevn8n/the-coffee-bean-1452)
-- [Why I Fell in Love With Implementation Work](https://dev.to/angelamchoi/why-i-fell-in-love-with-implementation-work-i0f)
-- [Day 9: Met someone ambitious](https://dev.to/casperday11/day-9-met-someone-ambitious-1ah7)
+- [High-Performance SQLite Reads in a Go Server](https://dev.to/lovestaco/high-performance-sqlite-reads-in-a-go-server-4on3)
+- [The Real Cost of Swapping Infrastructure](https://dev.to/allenheltondev/the-real-cost-of-swapping-infrastructure-3a73)
+- [Technical Deep Dive: How React Server Components Work and Where the Vulnerabilities Appear](https://dev.to/mohammad_rostami_/technical-deep-dive-how-react-server-components-work-and-where-the-vulnerabilities-appear-po6)
+- [RAIS &lpar;Regular Asynchronous Information Sharing&rpar;](https://dev.to/stakiran/rais-regular-asynchronous-information-sharing-9gk)
+- [Testing
+
+https://experimental.forem.com/ben/testing-morehttpsopenaicomindexthe-state-of-enterprise-ai-2025-report-4fm9](https://dev.to/ben/testing-48g0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
