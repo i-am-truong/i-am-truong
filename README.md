@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Jordium GanttChart Vue3 v1.6.0: Declarative Task Table, Slots, and Better Interactions](https://dev.to/nelson_li_c5265341756c7ab/jordium-ganttchart-vue3-v160-declarative-task-table-slots-and-better-interactions-2216)
-- [🚀 EKS Auto Mode na prática](https://dev.to/aws-builders/eks-auto-mode-na-pratica-2c6f)
-- [The Tech Stack Behind data-peek: Modern Desktop Development in 2025](https://dev.to/gillarohith/the-tech-stack-behind-data-peek-modern-desktop-development-in-2025-515o)
-- [The State of Open Source 2025 - Key Takeaways](https://dev.to/fmerian/the-state-of-open-source-2025-key-takeaways-253c)
-- [How I ship power-options to all major Linux distros with 0 hassle](https://dev.to/thealexdev23/how-i-ship-power-options-to-all-major-linux-distros-with-0-hassle-2ho9)
+- [Shopify Headless Architecture Guide for Developers](https://dev.to/elsie-rainee/shopify-headless-architecture-guide-for-developers-157c)
+- [Building Wordly: A Complete Language Learning App in 3 Months with AI Assistance](https://dev.to/dahmen_mohamedamine_15fe/building-wordly-a-complete-language-learning-app-in-3-months-with-ai-assistance-5a0l)
+- [🚀 Terraform Day 8: Meta Arguments — Controlling Dependencies &amp; Resource Replication](https://dev.to/jeeva_5c84a254e90842940dd/terraform-day-9-meta-arguments-controlling-dependencies-resource-replication-1na4)
+- [Stop Waiting for Backend APIs: Build a Free Mock API Generator](https://dev.to/asif_66accef6cc37/stop-waiting-for-backend-apis-build-a-free-mock-api-generator-29lb)
+- [Session Volume Profile Sniffer, HVN &amp; Rejection Zones &lpar;v6&rpar;](https://dev.to/ranga_tech/session-volume-profile-sniffer-hvn-rejection-zones-v6-4cef)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
