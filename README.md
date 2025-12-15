@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Framework Battle: Symfony vs. Laravel — Which One Should You Use for Your Enterprise System?](https://dev.to/jeandevbr/framework-battle-symfony-vs-laravel-which-one-should-you-use-for-your-enterprise-system-350k)
+- [Combine #3: Operadores de Transformación](https://dev.to/david_goyes_a488f58a17a53/combine-3-operadores-de-transformacion-4g2m)
+- [Hacking the Internal Combustion Engine: Why H2-ICE is the Real Solution for Heavy-Duty Ops](https://dev.to/energy_solutions_2050/hacking-the-internal-combustion-engine-why-h2-ice-is-the-real-solution-for-heavy-duty-ops-5031)
+- [I’m experimenting with purchase history as a signal for product recommendations. Curious what I’m missing.](https://dev.to/chad_musselman_f3bbf4cc78/im-experimenting-with-purchase-history-as-a-signal-for-product-recommendations-curious-what-im-4l99)
 - [Shopify Headless Architecture Guide for Developers](https://dev.to/elsie-rainee/shopify-headless-architecture-guide-for-developers-157c)
-- [Building Wordly: A Complete Language Learning App in 3 Months with AI Assistance](https://dev.to/dahmen_mohamedamine_15fe/building-wordly-a-complete-language-learning-app-in-3-months-with-ai-assistance-5a0l)
-- [🚀 Terraform Day 8: Meta Arguments — Controlling Dependencies &amp; Resource Replication](https://dev.to/jeeva_5c84a254e90842940dd/terraform-day-9-meta-arguments-controlling-dependencies-resource-replication-1na4)
-- [Stop Waiting for Backend APIs: Build a Free Mock API Generator](https://dev.to/asif_66accef6cc37/stop-waiting-for-backend-apis-build-a-free-mock-api-generator-29lb)
-- [Session Volume Profile Sniffer, HVN &amp; Rejection Zones &lpar;v6&rpar;](https://dev.to/ranga_tech/session-volume-profile-sniffer-hvn-rejection-zones-v6-4cef)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
