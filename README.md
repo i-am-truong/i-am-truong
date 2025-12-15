@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Top 7 Terraform Scanning Tools You Should Know](https://dev.to/spacelift/top-7-terraform-scanning-tools-you-should-know-4c70)
-- [History of Java](https://dev.to/vidya_varshini/history-of-java-2l7b)
-- [How to Secure a Linux Server for Node.js &lpar;Beginner-Friendly, Step by Step&rpar;](https://dev.to/yousufbasir/how-to-secure-a-linux-server-for-nodejs-beginner-friendly-step-by-step-30c3)
-- [How to Install Docker and PostgreSQL Securely on a Linux Server &lpar;Production-Friendly Guide&rpar;](https://dev.to/yousufbasir/how-to-install-docker-and-postgresql-securely-on-a-linux-server-production-friendly-guide-3mgc)
-- [How HTTP Knows When a Response Is Complete](https://dev.to/lightningdev123/how-http-knows-when-a-response-is-complete-3cm8)
+- [How I Built a Multilingual Developer News Hub in a Weekend](https://dev.to/shipi18n/how-i-built-a-multilingual-developer-news-hub-in-a-weekend-j0m)
+- [ES or TS: How to Identify Where the Error Occurs — and Why It Matters](https://dev.to/video_compression_guru/es-or-ts-how-to-identify-where-the-error-occurs-and-why-it-matters-40bm)
+- [Python Type Hints for Beginners: Why They Matter and How to Use Them](https://dev.to/mariecolvinn/python-type-hints-for-beginners-why-they-matter-and-how-to-use-them-1lbm)
+- [5 Browser DevTools Tricks That Cut My Debug Time in Half](https://dev.to/daisy_jones_21bdcc6b40f9d/5-browser-devtools-tricks-that-cut-my-debug-time-in-half-212c)
+- [DEV Track Spotlight: Build real-time full-stack Generative AI applications &lpar;DEV310&rpar;](https://dev.to/aws/dev-track-spotlight-build-real-time-full-stack-generative-ai-applications-dev310-fcd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
