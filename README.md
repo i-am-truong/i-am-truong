@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Deploy Applications Securely on a Linux Server &lpar;A Production-Grade, Framework-Agnostic Guide&rpar;](https://dev.to/yousufbasir/how-to-deploy-applications-securely-on-a-linux-server-a-production-grade-framework-agnostic-guide-1m9j)
-- [Test Environment](https://dev.to/longtth/test-environment-jh3)
-- [Forge: Lightweight, Fast, and Reliable Local CI/CD](https://dev.to/0xrelogic/forge-lightweight-fast-and-reliable-local-cicd-4kj8)
-- [Concurrency vs Parallelism](https://dev.to/evan-lausier/a-picture-is-worth-1000-words-31ld)
-- [Share your projects in our end of year Show &amp; Tell event!](https://dev.to/jess/share-your-projects-in-our-end-of-year-show-tell-event-5cdc)
+- [PAGI::Server Performance and Hardening](https://dev.to/jjn1056/pagiserver-performance-and-hardening-l8d)
+- [Using AI Alongside Your UI Tests, Not Instead of Them](https://dev.to/engroso/using-ai-alongside-your-ui-tests-not-instead-of-them-58pf)
+- [Build Your Own AI QA Assistant — Automate Test Understanding with LangChain &amp; OpenAI](https://dev.to/qa-leaders/build-your-own-ai-qa-assistant-automate-test-understanding-with-langchain-openai-9fm)
+- [**Measuring AI in Media Success: A Novel Metric - Return on](https://dev.to/drcarlosruizviquez/measuring-ai-in-media-success-a-novel-metric-return-on-26mo)
+- [My First Experiences With Test-Driven Development](https://dev.to/g-fuchter/my-first-experiences-with-test-driven-development-1pk9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
