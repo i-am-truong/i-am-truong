@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building an AI Video Generator with Proper Audio Sync: What I Learned](https://dev.to/lee_315dd1e13420e63e2b813/building-an-ai-video-generator-with-proper-audio-sync-what-i-learned-575a)
+- [Kolaborasi Tim dan Pemanfaatan Tools: Strategi Penyelesaian Isu dan Integrasi Layanan dari Requirements hingga Deployment](https://dev.to/maulana_seto_2280dfc88c71/kolaborasi-tim-dan-pemanfaatan-tools-strategi-penyelesaian-isu-dan-integrasi-layanan-dari-lop)
+- [Day 65: Python Breadth-First Search &lpar;BFS&rpar; on Tree, Queue-Based Level-Order Traversal for Shortest Path and Layer Exploration](https://dev.to/shahrouzlogs/day-65-python-breadth-first-search-bfs-on-tree-queue-based-level-order-traversal-for-shortest-3059)
 - [How to create a clear architecture diagram? A must for product and developer](https://dev.to/processon/how-to-create-a-clear-architecture-diagram-a-must-for-product-and-developer-jpn)
 - [A Small Milestone While Building SmartKNN](https://dev.to/jashwanth_thatipamula_8ee/a-small-milestone-while-building-smartknn-5760)
-- [Perl 🐪 Weekly #751 - Open Source contributions](https://dev.to/szabgab/perl-weekly-751-open-source-contributions-4mc7)
-- [I Fixed Blender&#39;s Render Output Paths &lpar; Because it SUCKS! &rpar;](https://dev.to/codeideal/i-fixed-blenders-render-output-paths-because-it-sucks--djm)
-- [Why PrestaShop Wins Precisely Because It Is NOT a SaaS](https://dev.to/ndabene/why-prestashop-wins-precisely-because-it-is-not-a-saas-5a0l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
