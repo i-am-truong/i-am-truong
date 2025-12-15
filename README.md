@@ -120,13 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Visualise and Control a ROS 2 Robot Remotely](https://dev.to/kaitungyu/how-to-visualise-and-control-a-ros-2-robot-remotely-8ek)
+- [How JOIN FETCH Reduced Database Load by 94%: A Real-World Case Study](https://dev.to/taras_antoniuk_ea6a2fe7ee/how-join-fetch-reduced-database-load-by-94-a-real-world-case-study-40c)
 - [High-Performance SQLite Reads in a Go Server](https://dev.to/lovestaco/high-performance-sqlite-reads-in-a-go-server-4on3)
 - [The Real Cost of Swapping Infrastructure](https://dev.to/allenheltondev/the-real-cost-of-swapping-infrastructure-3a73)
 - [Technical Deep Dive: How React Server Components Work and Where the Vulnerabilities Appear](https://dev.to/mohammad_rostami_/technical-deep-dive-how-react-server-components-work-and-where-the-vulnerabilities-appear-po6)
-- [RAIS &lpar;Regular Asynchronous Information Sharing&rpar;](https://dev.to/stakiran/rais-regular-asynchronous-information-sharing-9gk)
-- [Testing
-
-https://experimental.forem.com/ben/testing-morehttpsopenaicomindexthe-state-of-enterprise-ai-2025-report-4fm9](https://dev.to/ben/testing-48g0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
