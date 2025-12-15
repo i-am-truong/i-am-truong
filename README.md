@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [g](https://dev.to/anurag_sati_5b77a6578f780/g-1g89)
-- [Coderive v0.3.0: The Language Design Leap - A Realized Vision](https://dev.to/danexcodr/coderive-v030-the-language-design-leap-a-realized-vision-24ap)
-- [Café con IA: Tu Resumen Rápido de Noticias Tecnológicas &lpar;Diciembre 2025&rpar;](https://dev.to/ethan_zhang_e501fea89c25b/cafe-con-ia-tu-resumen-rapido-de-noticias-tecnologicas-diciembre-2025-lmm)
-- [How to Debug “Target Endpoint Not Reachable” | Networking &amp; Server Troubleshooting](https://dev.to/ved_sharma_e776421e694cdc/how-to-debug-target-endpoint-not-reachable-networking-server-troubleshooting-4ca5)
-- [AWS Terraform IAM User Management](https://dev.to/adarsh_gupta_c5fecf658fd7/aws-terraform-iam-user-management-5g09)
+- [I Tested Reddit&#39;s Free Traffic Thing for 3 Weeks &lpar;Here&#39;s What Actually Happened&rpar;](https://dev.to/short_playskits_ab152535/i-tested-reddits-free-traffic-thing-for-3-weeks-heres-what-actually-happened-5853)
+- [Interview Questions and Answers: How to Prepare and Succeed](https://dev.to/john_0816eabdee7f6ee66418/interview-questions-and-answers-how-to-prepare-and-succeed-4mgh)
+- [What Most Teams Get Wrong When Modernizing Legacy Systems](https://dev.to/james_caron_3da04b2ed359a/what-most-teams-get-wrong-when-modernizing-legacy-systems-477g)
+- [From &quot;Black Box&quot; to Self-Healing: My Journey Building an Autonomous AI Mechanic](https://dev.to/kavyatrivedi/from-black-box-to-self-healing-my-journey-building-an-autonomous-ai-mechanic-2e5l)
+- [The Future of the Power Platform](https://dev.to/wyattdave/the-future-of-the-power-platform-4ocj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
