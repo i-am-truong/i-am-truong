@@ -120,9 +120,9 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Relica: A Zero-Dependency Query Builder for Go That Won&#39;t Break Your Code](https://dev.to/kolkov/relica-a-zero-dependency-query-builder-for-go-that-wont-break-your-code-1f63)
 - [Why TypeScript is No Longer Optional for Serious JavaScript Projects?](https://dev.to/alvisonhunter/why-typescript-is-no-longer-optional-for-serious-javascript-projects-2gbk)
 - [Very well done!](https://dev.to/ben/very-well-done-3dkl)
-- [2025-12-15 Daily Robotics News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-15-daily-robotics-news-5g5m)
 - [2025-12-15 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-15-daily-ai-news-55o0)
 - [MongoDB Document Model and CRUD in Practice](https://dev.to/james_miller_8dc58a89cb9e/mongodb-document-model-and-crud-in-practice-55pn)
 <!-- BLOG-POST-LIST:END -->
