@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Styling and Attributes with the new Snap.svg &lpar;Basics - part 2&rpar;](https://dev.to/o_vakarelov/styling-and-attributes-with-the-new-snapsvg-basics-part-2-2gda)
-- [HarisLab.tech: Solve Digital Challenges Before They Slow You Down](https://dev.to/muhammad_haris_7828c7aeda/harislabtech-solve-digital-challenges-before-they-slow-you-down-l3o)
-- [AlphaFlow: Understanding and Improving MeanFlow Models](https://dev.to/paperium/alphaflow-understanding-and-improving-meanflow-models-pmb)
-- [Building Secure Rust Applications with Ring: Memory-Safe Cryptography for Modern Developers](https://dev.to/nithinbharathwaj/building-secure-rust-applications-with-ring-memory-safe-cryptography-for-modern-developers-3796)
-- [Complete Next.js Performance &amp; SEO Optimization Guide](https://dev.to/devang_banta_7378dd7fad61/complete-nextjs-performance-seo-optimization-guide-4jm1)
+- [Building Nexa: An AI-First Financial Operating System &lpar;Early Build, Real Lessons&rpar;](https://dev.to/nexa_operationfinancial/building-nexa-an-ai-first-financial-operating-system-early-build-real-lessons-bgo)
+- [Angular Signals, But Better Now for .NET](https://dev.to/federico_alterio_5ff46735/angular-signals-but-better-now-for-net-2jib)
+- [The Coffee Bean](https://dev.to/yoditdevn8n/the-coffee-bean-1452)
+- [Why I Fell in Love With Implementation Work](https://dev.to/angelamchoi/why-i-fell-in-love-with-implementation-work-i0f)
+- [Day 9: Met someone ambitious](https://dev.to/casperday11/day-9-met-someone-ambitious-1ah7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
