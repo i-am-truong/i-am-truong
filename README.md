@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AWS Elastic Compute Cloud &lpar;EC2&rpar; | Amazon Web Services &lpar;AWS&rpar;](https://dev.to/olymahmud/aws-elastic-compute-cloud-ec2-amazon-web-service-aws-41h8)
-- [Todo lo que necesitas saber para publicar NuGets](https://dev.to/maadcode/todo-lo-que-necesitas-saber-para-publicar-nugets-17j)
-- [How I Turn Markdown Notes into Clean Word Docs &lpar;Without Fighting Formatting&rpar;](https://dev.to/thomas_wilson_fa9b5d39f4c/how-i-turn-markdown-notes-into-clean-word-docs-without-fighting-formatting-2fh6)
-- [Unlock Your Data: The Power of No-Code Data Tools for Automation](https://dev.to/dataformathub/unlock-your-data-the-power-of-no-code-data-tools-for-automation-lnl)
-- [Gateway API no EKS: O que muda com o fim do NGINX Ingress Controller](https://dev.to/santosedu/gateway-api-no-eks-o-que-muda-com-o-fim-do-nginx-ingress-controller-597a)
+- [How to Deploy Applications Securely on a Linux Server &lpar;A Production-Grade, Framework-Agnostic Guide&rpar;](https://dev.to/yousufbasir/how-to-deploy-applications-securely-on-a-linux-server-a-production-grade-framework-agnostic-guide-1m9j)
+- [Test Environment](https://dev.to/longtth/test-environment-jh3)
+- [Forge: Lightweight, Fast, and Reliable Local CI/CD](https://dev.to/0xrelogic/forge-lightweight-fast-and-reliable-local-cicd-4kj8)
+- [Concurrency vs Parallelism](https://dev.to/evan-lausier/a-picture-is-worth-1000-words-31ld)
+- [Share your projects in our end of year Show &amp; Tell event!](https://dev.to/jess/share-your-projects-in-our-end-of-year-show-tell-event-5cdc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
