@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Best Practices to Improve Mobile Futures Trading App Speed During High‑Volatility Sessions](https://dev.to/misterankit/best-practices-to-improve-mobile-futures-trading-app-speed-during-high-volatility-sessions-2gd8)
-- [Deploy Buttons Generator Beautiful Deployment Badges for Your GitHub Repos](https://dev.to/sudo-self/deploy-buttons-generator-beautiful-deployment-badges-for-your-github-repos-573f)
-- [Android Performance &amp; Security: A Dev&#39;s Guide to Nocturne VPN](https://dev.to/mitul_chovatiya_e568824a5/android-performance-security-a-devs-guide-to-nocturne-vpn-3poj)
-- [celery-plus 🥬 — Modern Celery for Node.js](https://dev.to/member_ae0cde60/celery-plus-modern-celery-for-nodejs-6c7)
-- [AI Agents Intensive Course Writing Challenge](https://dev.to/nadia_allahbakhsh_881ea1a/ai-agents-intensive-course-writing-challenge-12ji)
+- [The &quot;Rescue Mission&quot;: How to Lead a Team of Git Beginners Without Losing Your Mind](https://dev.to/whoisprince/the-rescue-mission-how-to-lead-a-team-of-git-beginners-without-losing-your-mind-1joj)
+- [How Paid Advertising Helps Businesses Reach the Right Audience](https://dev.to/theclickwise/how-paid-advertising-helps-businesses-reach-the-right-audience-1ojd)
+- [Synthetic Data in Marketing Analytics: How to Track Conversions Without Creeping Everyone Out](https://dev.to/synergistdigitalmedia/synthetic-data-in-marketing-analytics-how-to-track-conversions-without-creeping-everyone-out-51e8)
+- [Cracking Open Logistic Regression with Excel: ML Advent Calendar Day 12](https://dev.to/mabualzait/cracking-open-logistic-regression-with-excel-ml-advent-calendar-day-12-2em4)
+- [The Subtle Sign You&#39;re Growing as a Coder](https://dev.to/canro91/the-subtle-sign-youre-growing-as-a-coder-1bbl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
