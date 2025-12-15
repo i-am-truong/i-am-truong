@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 4: SQL](https://dev.to/aruna_arun_0cda4eb425bb0f/day-4-sql-15f3)
-- [La sécurité simplement : une approche haut-niveau](https://dev.to/onepoint/la-securite-simplement-une-approche-haut-niveau-2flo)
-- [An AI Almost Deleted My Code](https://dev.to/alan_tsai_00dbd905e668f74/an-ai-almost-deleted-my-code-3cc)
-- [Share an efficient tool for quickly identifying the largest or most numerous directories when disk space is running low.](https://dev.to/pyoy/share-an-efficient-tool-for-quickly-identifying-the-largest-or-most-numerous-directories-when-disk-5351)
-- [Open-o3 Video: Grounded Video Reasoning with Explicit Spatio-Temporal Evidence](https://dev.to/paperium/open-o3-video-grounded-video-reasoning-with-explicit-spatio-temporal-evidence-36m)
+- [JSON vs TOON: Which Output Format Is Best for Generative AI Applications?](https://dev.to/brayanarrieta/json-vs-toon-which-output-format-is-best-for-generative-ai-applications-1flj)
+- [Debugging My Zsh Config With Goose &lpar;and Why Agentic AI Actually Helped&rpar;](https://dev.to/debs_obrien/debugging-my-zsh-config-with-goose-and-why-agentic-ai-actually-helped-1noh)
+- [Implementing Retrieval-Augmented Generation &lpar;RAG&rpar; with Real-World Constraints](https://dev.to/dextralabs/implementing-retrieval-augmented-generation-rag-with-real-world-constraints-3ajm)
+- [Applying OOP Principles to AI Prompts: Inside the CRAFT Framework Architecture](https://dev.to/craftframework/applying-oop-principles-to-ai-prompts-inside-the-craft-framework-architecture-2bfc)
+- [Python for Weather GIS: Unlocking the Power of Satellite and Ground Station Data with Key Libraries](https://dev.to/kvishal1012/python-for-weather-gis-unlocking-the-power-of-satellite-and-ground-station-data-with-key-libraries-37l7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
