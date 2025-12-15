@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Build a Verified Address Input Form with Autocomplete Suggestions and UX-Friendly Confirmation](https://dev.to/geoapify-maps-api/build-a-verified-address-input-form-with-autocomplete-suggestions-and-ux-friendly-confirmation-11na)
-- [The Building Blocks of AI Governance: Policies, Principles &amp; People](https://dev.to/audaciatechnology/the-building-blocks-of-ai-governance-policies-principles-people-1ej8)
-- [Batch Background Remover: Common Use Cases Across E-Commerce and Media](https://dev.to/freepixel11/batch-background-remover-common-use-cases-across-e-commerce-and-media-38k2)
-- [[Boost]](https://dev.to/sarima_obunezi_eeb571a6aa/-2ca8)
-- [Cognitive Agents Explained Through Code](https://dev.to/yeahiasarker/cognitive-agents-explained-through-code-2d2h)
+- [Top 7 Terraform Scanning Tools You Should Know](https://dev.to/spacelift/top-7-terraform-scanning-tools-you-should-know-4c70)
+- [History of Java](https://dev.to/vidya_varshini/history-of-java-2l7b)
+- [How to Secure a Linux Server for Node.js &lpar;Beginner-Friendly, Step by Step&rpar;](https://dev.to/yousufbasir/how-to-secure-a-linux-server-for-nodejs-beginner-friendly-step-by-step-30c3)
+- [How to Install Docker and PostgreSQL Securely on a Linux Server &lpar;Production-Friendly Guide&rpar;](https://dev.to/yousufbasir/how-to-install-docker-and-postgresql-securely-on-a-linux-server-production-friendly-guide-3mgc)
+- [How HTTP Knows When a Response Is Complete](https://dev.to/lightningdev123/how-http-knows-when-a-response-is-complete-3cm8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
