@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Tested a Text to Video Tool in a Real Workflow](https://dev.to/josephdillon/how-i-tested-a-text-to-video-tool-in-a-real-workflow-3c2p)
-- [From “I should check the reviews” to a SaaS](https://dev.to/quentin23soleil/from-i-should-check-the-reviews-to-a-saas-5bmn)
-- [I Made a Habit Tracker Because the Free Ones Were… Not Free 😅](https://dev.to/saamiabbaskhan/i-made-a-habit-tracker-because-the-free-ones-were-not-free-225f)
-- [Hello World! 2nd Year Software Engineering Student from Morocco](https://dev.to/sugar_genius_4659224a2fa2/hello-world-2nd-year-software-engineering-student-from-morocco-3b3o)
-- [Technical Overview of Data Centre Testing and Power System Validation](https://dev.to/ridhe_sharma_c0f34010da2a/technical-overview-of-data-centre-testing-and-power-system-validation-5g7k)
+- [The Tech Stack Behind data-peek: Modern Desktop Development in 2025](https://dev.to/gillarohith/the-tech-stack-behind-data-peek-modern-desktop-development-in-2025-515o)
+- [The State of Open Source 2025 - Key Takeaways](https://dev.to/fmerian/the-state-of-open-source-2025-key-takeaways-253c)
+- [How I ship power-options to all major Linux distros with 0 hassle](https://dev.to/thealexdev23/how-i-ship-power-options-to-all-major-linux-distros-with-0-hassle-2ho9)
+- [I Built an AI Tool to Help Creators Generate Reels in Minutes](https://dev.to/aixnouman/i-built-an-ai-tool-to-help-creators-generate-reels-in-minutes-2bpm)
+- [How Shadow IT Turns Employees Into Unintentional Insider Threats](https://dev.to/guardingpearsoftware/how-shadow-it-turns-employees-into-unintentional-insider-threats-197c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
