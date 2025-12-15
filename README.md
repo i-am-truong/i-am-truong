@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Visualise and Control a ROS 2 Robot Remotely](https://dev.to/kaitungyu/how-to-visualise-and-control-a-ros-2-robot-remotely-8ek)
-- [How JOIN FETCH Reduced Database Load by 94%: A Real-World Case Study](https://dev.to/taras_antoniuk_ea6a2fe7ee/how-join-fetch-reduced-database-load-by-94-a-real-world-case-study-40c)
-- [High-Performance SQLite Reads in a Go Server](https://dev.to/lovestaco/high-performance-sqlite-reads-in-a-go-server-4on3)
-- [The Real Cost of Swapping Infrastructure](https://dev.to/allenheltondev/the-real-cost-of-swapping-infrastructure-3a73)
-- [Technical Deep Dive: How React Server Components Work and Where the Vulnerabilities Appear](https://dev.to/mohammad_rostami_/technical-deep-dive-how-react-server-components-work-and-where-the-vulnerabilities-appear-po6)
+- [Managing the Energy of Regional Food Truck Events](https://dev.to/marcusdelgado/managing-the-energy-of-regional-food-truck-events-3o3g)
+- [Understanding Agentic AI: How Modern Systems Make Autonomous Decisions](https://dev.to/learnwithshruthi/understanding-agentic-ai-how-modern-systems-make-autonomous-decisions-42fa)
+- [Top AI Tools for Documentation | Guide for 2026](https://dev.to/infrasity-learning/top-ai-tools-for-documentation-guide-for-2026-2hhb)
+- [Single State Model Architecture](https://dev.to/adamcerny/single-state-model-architecture-1269)
+- [Bad Documentation Examples: Why Developers Drop Off | Fixes](https://dev.to/infrasity-learning/bad-documentation-examples-why-developers-drop-off-fixes-5dc9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
