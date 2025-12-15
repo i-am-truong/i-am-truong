@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Palindrome Checker](https://dev.to/highcenburg/palindrome-checker-koe)
-- [Meme Monday](https://dev.to/ben/meme-monday-2n5c)
-- [I Built a Video-to-Image Converter That Never Uploads Your Files &lpar;Here&#39;s How&rpar;](https://dev.to/charlesding/i-built-a-video-to-image-converter-that-never-uploads-your-files-heres-how-2ib6)
-- [Introducing WorkOS: Add SSO, Magic Auth, or Social Auth in Minutes ⚡️🔐](https://dev.to/madza/introducing-workos-add-sso-magic-auth-or-social-auth-in-minutes-4bl3)
-- [Small Changes That Boost Documentation Team Efficiency](https://dev.to/therealmrmumba/small-changes-that-boost-documentation-team-efficiency-1p64)
+- [Day 4: SQL](https://dev.to/aruna_arun_0cda4eb425bb0f/day-4-sql-15f3)
+- [La sécurité simplement : une approche haut-niveau](https://dev.to/onepoint/la-securite-simplement-une-approche-haut-niveau-2flo)
+- [An AI Almost Deleted My Code](https://dev.to/alan_tsai_00dbd905e668f74/an-ai-almost-deleted-my-code-3cc)
+- [Share an efficient tool for quickly identifying the largest or most numerous directories when disk space is running low.](https://dev.to/pyoy/share-an-efficient-tool-for-quickly-identifying-the-largest-or-most-numerous-directories-when-disk-5351)
+- [Open-o3 Video: Grounded Video Reasoning with Explicit Spatio-Temporal Evidence](https://dev.to/paperium/open-o3-video-grounded-video-reasoning-with-explicit-spatio-temporal-evidence-36m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
