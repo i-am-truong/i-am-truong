@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A UTF-8 Trap I Hit While Building a Customer Support Chat System](https://dev.to/iccb1013/a-utf-8-trap-i-hit-while-building-a-customer-support-chat-system-g5h)
-- [Day 11: Understanding Terraform Functions Through Real Use Cases](https://dev.to/sreya_sharma_711168ec58fc/day-11-understanding-terraform-functions-through-real-use-cases-397a)
-- [Laravel Livewire CRUD Tutorial: Step-by-Step Guide for Beginners](https://dev.to/prateekshaweb/laravel-livewire-crud-tutorial-step-by-step-guide-for-beginners-478i)
-- [What 30 Years of Python Reveal About Programming Language Design?](https://dev.to/rakshath/what-30-years-of-python-reveal-about-programming-language-design-ea5)
-- [How to Explain Your Thought Process During Coding Interviews &lpar;Without Sounding Robotic&rpar;](https://dev.to/alex_hunter_44f4c9ed6671e/how-to-explain-your-thought-process-during-coding-interviews-without-sounding-robotic-25f5)
+- [Palindrome Checker](https://dev.to/highcenburg/palindrome-checker-koe)
+- [Meme Monday](https://dev.to/ben/meme-monday-2n5c)
+- [I Built a Video-to-Image Converter That Never Uploads Your Files &lpar;Here&#39;s How&rpar;](https://dev.to/charlesding/i-built-a-video-to-image-converter-that-never-uploads-your-files-heres-how-2ib6)
+- [Introducing WorkOS: Add SSO, Magic Auth, or Social Auth in Minutes ⚡️🔐](https://dev.to/madza/introducing-workos-add-sso-magic-auth-or-social-auth-in-minutes-4bl3)
+- [Small Changes That Boost Documentation Team Efficiency](https://dev.to/therealmrmumba/small-changes-that-boost-documentation-team-efficiency-1p64)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
