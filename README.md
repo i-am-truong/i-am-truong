@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Taming Windows Terminal&#39;s win32-input-mode in Go ConPTY Applications](https://dev.to/andylbrummer/taming-windows-terminals-win32-input-mode-in-go-conpty-applications-7gg)
-- [Bot Protection Explained: Dynamic Defense, Human Verification, and Anti-Replay in SafeLine WAF](https://dev.to/arina_cholee/bot-protection-explained-dynamic-defense-human-verification-and-anti-replay-in-safeline-waf-428a)
-- [Architecting ‍ ‌‍ ‍‌ Global Commerce: A Developer’s Guide to Multi-Language, Multi-Currency, and Tax Compliance](https://dev.to/indianwebsiteco/architecting-global-commerce-a-developers-guide-to-multi-language-multi-currency-and-1oj8)
-- [What is .NET Architecture? A Comprehensive Guide](https://dev.to/kevinwalker/what-is-net-architecture-a-comprehensive-guide-29d5)
-- [AWS Bedrock vs Azure OpenAI vs Gemini API: A Practical Comparison](https://dev.to/jubinsoni/aws-bedrock-vs-azure-openai-vs-gemini-api-a-practical-comparison-f05)
+- [Anthropic Skills. The Landscape for New Models and Architecture](https://dev.to/dbolotov/anthropic-skills-the-landscape-for-new-models-and-architectures-2ld3)
+- [How We Built Seamless ERP Integration for Medusa: Base.com Case Study](https://dev.to/u11d/how-we-built-seamless-erp-integration-for-medusa-basecom-case-study-1kh6)
+- [DAT as Code : automatiser la documentation technique avec l&#39;IA](https://dev.to/onepoint/dat-as-code-automatiser-la-documentation-technique-avec-lia-36d0)
+- [java 8 &lpar;Stream API&rpar;](https://dev.to/sona_08/java-8-stream-api-1k73)
+- [ADK, Gemini &amp; Javelit = 😍](https://dev.to/zenika/adk-gemini-javelit--i05)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
