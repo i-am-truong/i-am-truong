@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hosting a Godot Server on Oracle Cloud](https://dev.to/jtorbett23/hosting-a-godot-server-on-oracle-cloud-2p4g)
-- [Build a YouTube Video Summarizer in 15 Minutes &lpar;Next.js + OpenAI&rpar;](https://dev.to/olams/build-a-youtube-video-summarizer-in-15-minutes-nextjs-openai-16md)
-- [DevOps Rex 2025 : Retour sur deux jours de conférences](https://dev.to/onepoint/devops-rex-2025-retour-sur-deux-jours-de-conferences-3908)
-- [Package in Java](https://dev.to/vidya_varshini/package-in-java-585b)
-- [A Complete Guide to Cryptocurrency Wallet Development for Web3 Platforms](https://dev.to/joinwithken/a-complete-guide-to-cryptocurrency-wallet-development-for-web3-platforms-5h04)
+- [How I Tested a Text to Video Tool in a Real Workflow](https://dev.to/josephdillon/how-i-tested-a-text-to-video-tool-in-a-real-workflow-3c2p)
+- [From “I should check the reviews” to a SaaS](https://dev.to/quentin23soleil/from-i-should-check-the-reviews-to-a-saas-5bmn)
+- [I Made a Habit Tracker Because the Free Ones Were… Not Free 😅](https://dev.to/saamiabbaskhan/i-made-a-habit-tracker-because-the-free-ones-were-not-free-225f)
+- [Hello World! 2nd Year Software Engineering Student from Morocco](https://dev.to/sugar_genius_4659224a2fa2/hello-world-2nd-year-software-engineering-student-from-morocco-3b3o)
+- [Technical Overview of Data Centre Testing and Power System Validation](https://dev.to/ridhe_sharma_c0f34010da2a/technical-overview-of-data-centre-testing-and-power-system-validation-5g7k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
