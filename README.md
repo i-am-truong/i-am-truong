@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Async Core: Understanding Eventlet and Gevent in Flask-SocketIO](https://dev.to/deepak_mishra_35863517037/the-async-core-understanding-eventlet-and-gevent-in-flask-socketio-2b2f)
+- [First-Class Functions in JavaScript](https://dev.to/travisfont/first-class-functions-in-javascript-4dia)
+- [Speck.js: AI Agents with Persistent Memory in One Line of Code](https://dev.to/peter_paganospeckos_b6ad/speckjs-ai-agents-with-persistent-memory-in-one-line-of-code-4a1p)
 - [Managing the Energy of Regional Food Truck Events](https://dev.to/marcusdelgado/managing-the-energy-of-regional-food-truck-events-3o3g)
 - [Understanding Agentic AI: How Modern Systems Make Autonomous Decisions](https://dev.to/learnwithshruthi/understanding-agentic-ai-how-modern-systems-make-autonomous-decisions-42fa)
-- [Top AI Tools for Documentation | Guide for 2026](https://dev.to/infrasity-learning/top-ai-tools-for-documentation-guide-for-2026-2hhb)
-- [Single State Model Architecture](https://dev.to/adamcerny/single-state-model-architecture-1269)
-- [Bad Documentation Examples: Why Developers Drop Off | Fixes](https://dev.to/infrasity-learning/bad-documentation-examples-why-developers-drop-off-fixes-5dc9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
