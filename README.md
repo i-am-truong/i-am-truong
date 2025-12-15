@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [JSON vs TOON: Which Output Format Is Best for Generative AI Applications?](https://dev.to/brayanarrieta/json-vs-toon-which-output-format-is-best-for-generative-ai-applications-1flj)
-- [Debugging My Zsh Config With Goose &lpar;and Why Agentic AI Actually Helped&rpar;](https://dev.to/debs_obrien/debugging-my-zsh-config-with-goose-and-why-agentic-ai-actually-helped-1noh)
-- [Implementing Retrieval-Augmented Generation &lpar;RAG&rpar; with Real-World Constraints](https://dev.to/dextralabs/implementing-retrieval-augmented-generation-rag-with-real-world-constraints-3ajm)
-- [Applying OOP Principles to AI Prompts: Inside the CRAFT Framework Architecture](https://dev.to/craftframework/applying-oop-principles-to-ai-prompts-inside-the-craft-framework-architecture-2bfc)
-- [Python for Weather GIS: Unlocking the Power of Satellite and Ground Station Data with Key Libraries](https://dev.to/kvishal1012/python-for-weather-gis-unlocking-the-power-of-satellite-and-ground-station-data-with-key-libraries-37l7)
+- [AWS Elastic Compute Cloud &lpar;EC2&rpar; | Amazon Web Services &lpar;AWS&rpar;](https://dev.to/olymahmud/aws-elastic-compute-cloud-ec2-amazon-web-service-aws-41h8)
+- [Todo lo que necesitas saber para publicar NuGets](https://dev.to/maadcode/todo-lo-que-necesitas-saber-para-publicar-nugets-17j)
+- [How I Turn Markdown Notes into Clean Word Docs &lpar;Without Fighting Formatting&rpar;](https://dev.to/thomas_wilson_fa9b5d39f4c/how-i-turn-markdown-notes-into-clean-word-docs-without-fighting-formatting-2fh6)
+- [Unlock Your Data: The Power of No-Code Data Tools for Automation](https://dev.to/dataformathub/unlock-your-data-the-power-of-no-code-data-tools-for-automation-lnl)
+- [Gateway API no EKS: O que muda com o fim do NGINX Ingress Controller](https://dev.to/santosedu/gateway-api-no-eks-o-que-muda-com-o-fim-do-nginx-ingress-controller-597a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
