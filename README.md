@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Tested Reddit&#39;s Free Traffic Thing for 3 Weeks &lpar;Here&#39;s What Actually Happened&rpar;](https://dev.to/short_playskits_ab152535/i-tested-reddits-free-traffic-thing-for-3-weeks-heres-what-actually-happened-5853)
-- [Interview Questions and Answers: How to Prepare and Succeed](https://dev.to/john_0816eabdee7f6ee66418/interview-questions-and-answers-how-to-prepare-and-succeed-4mgh)
-- [What Most Teams Get Wrong When Modernizing Legacy Systems](https://dev.to/james_caron_3da04b2ed359a/what-most-teams-get-wrong-when-modernizing-legacy-systems-477g)
-- [From &quot;Black Box&quot; to Self-Healing: My Journey Building an Autonomous AI Mechanic](https://dev.to/kavyatrivedi/from-black-box-to-self-healing-my-journey-building-an-autonomous-ai-mechanic-2e5l)
-- [The Future of the Power Platform](https://dev.to/wyattdave/the-future-of-the-power-platform-4ocj)
+- [Next.js Weekly #111: New Critical Next.js CVEs, ElevenLabs UI, TS 7 Roadmap, Async React, Vercel for Platforms, CSS Wrapped](https://dev.to/erfanebrahimnia/new-critical-nextjs-cves-elevenlabs-ui-ts-7-roadmap-async-react-vercel-for-platforms-css-102e)
+- [What this course taught me About Agentic AI](https://dev.to/vivy_flora_ac9549c79884ae/what-this-course-taught-me-about-agentic-ai-2km1)
+- [From Nagging to Holding People Accountable](https://dev.to/dvddpl/from-nagging-to-holding-people-accountable-3dfj)
+- [Why PR Standards Always Decay &lpar;Even on Good Teams&rpar;](https://dev.to/carlo_luisitoadap_61903d/why-pr-standards-always-decay-even-on-good-teams-2ld1)
+- [🛠️ I Got Tired of Using 10 Different Websites — So I Built One](https://dev.to/axevora_0414a92c2b8f10a94/i-got-tired-of-using-10-different-websites-so-i-built-one-1epj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
