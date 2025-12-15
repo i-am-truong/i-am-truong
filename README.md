@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Vibe Coding Delusion](https://dev.to/ejb503/the-vibe-coding-delusion-3897)
+- [Composition over inheritance, and Go&#39;s approach](https://dev.to/pietergroenendijk/composition-over-inheritance-and-gos-approach-427m)
 - [How to Create Offscreen Documents in Chrome Extensions: A Complete Guide](https://dev.to/notearthian/how-to-create-offscreen-documents-in-chrome-extensions-a-complete-guide-3ke2)
 - [Using Mockaroo and Entity framework to Seed Sample Data for .NET Applications](https://dev.to/bigboybamo/using-mockaroo-and-entity-framework-to-seed-sample-data-for-net-applications-2pdg)
 - [AWS IAM at Scale: Governance, Multi-Account Security, and Organizational Control &lpar;Part 3&rpar;](https://dev.to/jeyy/aws-iam-at-scale-governance-multi-account-security-and-organizational-control-part-3-1if7)
-- [Stop Writing Boilerplate SQL: QueryWeaver Uses Graph Power to Turn English into Database Queries](https://dev.to/githubopensource/stop-writing-boilerplate-sql-queryweaver-uses-graph-power-to-turn-english-into-database-queries-3di2)
-- [Creative Web Developer: Updating my Profile/Portfolio as a Senior Web Developer](https://dev.to/ingosteinke/creative-web-developer-updating-my-profileportfolio-as-a-senior-web-developer-44kn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
