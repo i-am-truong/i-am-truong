@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Why Tiny Daily Tasks Are Killing Your Productivity — And One Hub Solves It](https://dev.to/muhammad_haris_7828c7aeda/why-tiny-daily-tasks-are-killing-your-productivity-and-one-hub-solves-it-5od)
+- [Text Processing in Linux: grep, awk, and Pipes That Actually Get Work Done](https://dev.to/agentic-jj/text-processing-in-linux-grep-awk-and-pipes-that-actually-get-work-done-1c10)
+- [Coding Challenge Practice - Question 79](https://dev.to/tomivan/coding-challenge-practice-question-79-24dd)
+- [How I Built a Digital Business Card App with Flutter, HCE, and Claude Code](https://dev.to/jcpastorlaborcontrol/how-i-built-a-digital-business-card-app-with-flutter-hce-and-claude-code-3cah)
 - [AI Doesn’t Think — and That’s a Problem for Beginners](https://dev.to/john_haworth_a503e7ff8249/ai-doesnt-think-and-thats-a-problem-for-beginners-1nan)
-- [Next.js Performance: What the Defaults Don’t Solve for You](https://dev.to/danywalls/nextjs-performance-what-the-defaults-dont-solve-for-you-3a0l)
-- [I Built Production AI Agents That Handle 50K Messages/Month - Here&#39;s What the Tutorials Won&#39;t Tell You](https://dev.to/richard_sakaguchi_5809b6b/i-built-production-ai-agents-that-handle-50k-messagesmonth-heres-what-the-tutorials-wont-tell-4866)
-- [🎉 DEV Wrapped 2025 – See Your Year in Code!](https://dev.to/dev_kiran/dev-wrapped-2025-see-your-year-in-code-2aie)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
