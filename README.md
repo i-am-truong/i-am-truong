@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI Video Generator with Proper Audio Sync: What I Learned](https://dev.to/lee_315dd1e13420e63e2b813/building-an-ai-video-generator-with-proper-audio-sync-what-i-learned-575a)
-- [Kolaborasi Tim dan Pemanfaatan Tools: Strategi Penyelesaian Isu dan Integrasi Layanan dari Requirements hingga Deployment](https://dev.to/maulana_seto_2280dfc88c71/kolaborasi-tim-dan-pemanfaatan-tools-strategi-penyelesaian-isu-dan-integrasi-layanan-dari-lop)
-- [Day 65: Python Breadth-First Search &lpar;BFS&rpar; on Tree, Queue-Based Level-Order Traversal for Shortest Path and Layer Exploration](https://dev.to/shahrouzlogs/day-65-python-breadth-first-search-bfs-on-tree-queue-based-level-order-traversal-for-shortest-3059)
-- [How to create a clear architecture diagram? A must for product and developer](https://dev.to/processon/how-to-create-a-clear-architecture-diagram-a-must-for-product-and-developer-jpn)
-- [A Small Milestone While Building SmartKNN](https://dev.to/jashwanth_thatipamula_8ee/a-small-milestone-while-building-smartknn-5760)
+- [Slire: A Minimal Repository Layer for Node.js + MongoDB/Firestore](https://dev.to/dchowitz/slire-a-minimal-repository-layer-for-nodejs-mongodbfirestore-4ipn)
+- [The Rise of AI-Powered Marketing: What’s Next in 2026](https://dev.to/digital_terrene_b369a1c21/the-rise-of-ai-powered-marketing-whats-next-in-2026-4b0g)
+- [Top Benefits of Real Time Analytics for Faster and Smarter Decisions](https://dev.to/ravi_teja_4/top-benefits-of-real-time-analytics-for-faster-and-smarter-decisions-3i1i)
+- [Drive API Monetization: How Monetzly Enhances Your AI Conversations](https://dev.to/monetzly/drive-api-monetization-how-monetzly-enhances-your-ai-conversations-509h)
+- [Understanding Doppar Queue: A Deep Dive into Job Lifecycle and Why It Matters](https://dev.to/mahedi1501/understanding-doppar-queue-a-deep-dive-into-job-lifecycle-and-why-it-matters-5hjk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
