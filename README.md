@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [JSON Parsing for Large Payloads: Balancing Speed, Memory, and Scalability](https://dev.to/subha_ganapathi_6766a247c/json-parsing-for-large-payloads-balancing-speed-memory-and-scalability-i1f)
+- [The Magic of Linux Text Editors](https://dev.to/agentic-jj/the-magic-of-linux-text-editors-4ic6)
 - [Why Tiny Daily Tasks Are Killing Your Productivity — And One Hub Solves It](https://dev.to/muhammad_haris_7828c7aeda/why-tiny-daily-tasks-are-killing-your-productivity-and-one-hub-solves-it-5od)
 - [Text Processing in Linux: grep, awk, and Pipes That Actually Get Work Done](https://dev.to/agentic-jj/text-processing-in-linux-grep-awk-and-pipes-that-actually-get-work-done-1c10)
 - [Coding Challenge Practice - Question 79](https://dev.to/tomivan/coding-challenge-practice-question-79-24dd)
-- [How I Built a Digital Business Card App with Flutter, HCE, and Claude Code](https://dev.to/jcpastorlaborcontrol/how-i-built-a-digital-business-card-app-with-flutter-hce-and-claude-code-3cah)
-- [AI Doesn’t Think — and That’s a Problem for Beginners](https://dev.to/john_haworth_a503e7ff8249/ai-doesnt-think-and-thats-a-problem-for-beginners-1nan)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
