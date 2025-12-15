@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AlphaFlow: Understanding and Improving MeanFlow Models](https://dev.to/paperium/alphaflow-understanding-and-improving-meanflow-models-pmb)
+- [Building Secure Rust Applications with Ring: Memory-Safe Cryptography for Modern Developers](https://dev.to/nithinbharathwaj/building-secure-rust-applications-with-ring-memory-safe-cryptography-for-modern-developers-3796)
 - [Complete Next.js Performance &amp; SEO Optimization Guide](https://dev.to/devang_banta_7378dd7fad61/complete-nextjs-performance-seo-optimization-guide-4jm1)
 - [Geolocate any IP using latency](https://dev.to/globalping/geolocate-any-ip-using-latency-28b9)
 - [Media Downloader: A Simple Web Tool for Image &amp; Video Processing !!!](https://dev.to/sutejpal/media-downloader-a-simple-web-tool-for-image-video-processing--j48)
-- [Sha1-Hulud 2.0 - The Second Coming: A Technical Breakdown](https://dev.to/minimus/sha1-hulud-20-the-second-coming-a-technical-breakdown-2d0n)
-- [I was tired of copy-pasting to ChatGPT, so I built a Chrome extension](https://dev.to/ialijr/i-was-tired-of-copy-pasting-to-chatgpt-so-i-built-a-chrome-extension-m3f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
