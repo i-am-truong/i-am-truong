@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Multilingual Developer News Hub in a Weekend](https://dev.to/shipi18n/how-i-built-a-multilingual-developer-news-hub-in-a-weekend-j0m)
-- [ES or TS: How to Identify Where the Error Occurs — and Why It Matters](https://dev.to/video_compression_guru/es-or-ts-how-to-identify-where-the-error-occurs-and-why-it-matters-40bm)
-- [Python Type Hints for Beginners: Why They Matter and How to Use Them](https://dev.to/mariecolvinn/python-type-hints-for-beginners-why-they-matter-and-how-to-use-them-1lbm)
-- [5 Browser DevTools Tricks That Cut My Debug Time in Half](https://dev.to/daisy_jones_21bdcc6b40f9d/5-browser-devtools-tricks-that-cut-my-debug-time-in-half-212c)
-- [DEV Track Spotlight: Build real-time full-stack Generative AI applications &lpar;DEV310&rpar;](https://dev.to/aws/dev-track-spotlight-build-real-time-full-stack-generative-ai-applications-dev310-fcd)
+- [Hosting a Godot Server on Oracle Cloud](https://dev.to/jtorbett23/hosting-a-godot-server-on-oracle-cloud-2p4g)
+- [Build a YouTube Video Summarizer in 15 Minutes &lpar;Next.js + OpenAI&rpar;](https://dev.to/olams/build-a-youtube-video-summarizer-in-15-minutes-nextjs-openai-16md)
+- [DevOps Rex 2025 : Retour sur deux jours de conférences](https://dev.to/onepoint/devops-rex-2025-retour-sur-deux-jours-de-conferences-3908)
+- [Package in Java](https://dev.to/vidya_varshini/package-in-java-585b)
+- [A Complete Guide to Cryptocurrency Wallet Development for Web3 Platforms](https://dev.to/joinwithken/a-complete-guide-to-cryptocurrency-wallet-development-for-web3-platforms-5h04)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
