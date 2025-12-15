@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic Skills. The Landscape for New Models and Architecture](https://dev.to/dbolotov/anthropic-skills-the-landscape-for-new-models-and-architectures-2ld3)
-- [How We Built Seamless ERP Integration for Medusa: Base.com Case Study](https://dev.to/u11d/how-we-built-seamless-erp-integration-for-medusa-basecom-case-study-1kh6)
-- [DAT as Code : automatiser la documentation technique avec l&#39;IA](https://dev.to/onepoint/dat-as-code-automatiser-la-documentation-technique-avec-lia-36d0)
-- [java 8 &lpar;Stream API&rpar;](https://dev.to/sona_08/java-8-stream-api-1k73)
-- [ADK, Gemini &amp; Javelit = 😍](https://dev.to/zenika/adk-gemini-javelit--i05)
+- [Build a Verified Address Input Form with Autocomplete Suggestions and UX-Friendly Confirmation](https://dev.to/geoapify-maps-api/build-a-verified-address-input-form-with-autocomplete-suggestions-and-ux-friendly-confirmation-11na)
+- [The Building Blocks of AI Governance: Policies, Principles &amp; People](https://dev.to/audaciatechnology/the-building-blocks-of-ai-governance-policies-principles-people-1ej8)
+- [Batch Background Remover: Common Use Cases Across E-Commerce and Media](https://dev.to/freepixel11/batch-background-remover-common-use-cases-across-e-commerce-and-media-38k2)
+- [[Boost]](https://dev.to/sarima_obunezi_eeb571a6aa/-2ca8)
+- [Cognitive Agents Explained Through Code](https://dev.to/yeahiasarker/cognitive-agents-explained-through-code-2d2h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
