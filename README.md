@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The &quot;Rescue Mission&quot;: How to Lead a Team of Git Beginners Without Losing Your Mind](https://dev.to/whoisprince/the-rescue-mission-how-to-lead-a-team-of-git-beginners-without-losing-your-mind-1joj)
-- [How Paid Advertising Helps Businesses Reach the Right Audience](https://dev.to/theclickwise/how-paid-advertising-helps-businesses-reach-the-right-audience-1ojd)
-- [Synthetic Data in Marketing Analytics: How to Track Conversions Without Creeping Everyone Out](https://dev.to/synergistdigitalmedia/synthetic-data-in-marketing-analytics-how-to-track-conversions-without-creeping-everyone-out-51e8)
-- [Cracking Open Logistic Regression with Excel: ML Advent Calendar Day 12](https://dev.to/mabualzait/cracking-open-logistic-regression-with-excel-ml-advent-calendar-day-12-2em4)
-- [The Subtle Sign You&#39;re Growing as a Coder](https://dev.to/canro91/the-subtle-sign-youre-growing-as-a-coder-1bbl)
+- [How to create a clear architecture diagram? A must for product and developer](https://dev.to/processon/how-to-create-a-clear-architecture-diagram-a-must-for-product-and-developer-jpn)
+- [A Small Milestone While Building SmartKNN](https://dev.to/jashwanth_thatipamula_8ee/a-small-milestone-while-building-smartknn-5760)
+- [Perl 🐪 Weekly #751 - Open Source contributions](https://dev.to/szabgab/perl-weekly-751-open-source-contributions-4mc7)
+- [I Fixed Blender&#39;s Render Output Paths &lpar; Because it SUCKS! &rpar;](https://dev.to/codeideal/i-fixed-blenders-render-output-paths-because-it-sucks--djm)
+- [Why PrestaShop Wins Precisely Because It Is NOT a SaaS](https://dev.to/ndabene/why-prestashop-wins-precisely-because-it-is-not-a-saas-5a0l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
