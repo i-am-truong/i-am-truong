@@ -120,10 +120,10 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [**WebAssembly JavaScript Integration: Boost Browser Performance with Native-Speed Code Execution**](https://dev.to/nithinbharathwaj/webassembly-javascript-integration-boost-browser-performance-with-native-speed-code-execution-b4m)
+- [Why Tiny Daily Tasks Are Killing Your Productivity — And One Hub Solves It](https://dev.to/muhammad_haris_7828c7aeda/why-tiny-daily-tasks-are-killing-your-productivity-and-one-hub-solves-it-5od)
+- [AI Doesn’t Think — and That’s a Problem for Beginners](https://dev.to/john_haworth_a503e7ff8249/ai-doesnt-think-and-thats-a-problem-for-beginners-1nan)
 - [Next.js Performance: What the Defaults Don’t Solve for You](https://dev.to/danywalls/nextjs-performance-what-the-defaults-dont-solve-for-you-3a0l)
 - [I Built Production AI Agents That Handle 50K Messages/Month - Here&#39;s What the Tutorials Won&#39;t Tell You](https://dev.to/richard_sakaguchi_5809b6b/i-built-production-ai-agents-that-handle-50k-messagesmonth-heres-what-the-tutorials-wont-tell-4866)
-- [Conan: Progressive Learning to Reason Like a Detective over Multi-Scale VisualEvidence](https://dev.to/paperium/conan-progressive-learning-to-reason-like-a-detective-over-multi-scale-visualevidence-ka)
 - [🎉 DEV Wrapped 2025 – See Your Year in Code!](https://dev.to/dev_kiran/dev-wrapped-2025-see-your-year-in-code-2aie)
 <!-- BLOG-POST-LIST:END -->
 
