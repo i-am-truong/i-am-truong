@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Vibe Coding Delusion](https://dev.to/ejb503/the-vibe-coding-delusion-3897)
-- [Composition over inheritance, and Go&#39;s approach](https://dev.to/pietergroenendijk/composition-over-inheritance-and-gos-approach-427m)
-- [How to Create Offscreen Documents in Chrome Extensions: A Complete Guide](https://dev.to/notearthian/how-to-create-offscreen-documents-in-chrome-extensions-a-complete-guide-3ke2)
-- [Using Mockaroo and Entity framework to Seed Sample Data for .NET Applications](https://dev.to/bigboybamo/using-mockaroo-and-entity-framework-to-seed-sample-data-for-net-applications-2pdg)
-- [AWS IAM at Scale: Governance, Multi-Account Security, and Organizational Control &lpar;Part 3&rpar;](https://dev.to/jeyy/aws-iam-at-scale-governance-multi-account-security-and-organizational-control-part-3-1if7)
+- [A UTF-8 Trap I Hit While Building a Customer Support Chat System](https://dev.to/iccb1013/a-utf-8-trap-i-hit-while-building-a-customer-support-chat-system-g5h)
+- [Day 11: Understanding Terraform Functions Through Real Use Cases](https://dev.to/sreya_sharma_711168ec58fc/day-11-understanding-terraform-functions-through-real-use-cases-397a)
+- [Laravel Livewire CRUD Tutorial: Step-by-Step Guide for Beginners](https://dev.to/prateekshaweb/laravel-livewire-crud-tutorial-step-by-step-guide-for-beginners-478i)
+- [What 30 Years of Python Reveal About Programming Language Design?](https://dev.to/rakshath/what-30-years-of-python-reveal-about-programming-language-design-ea5)
+- [How to Explain Your Thought Process During Coding Interviews &lpar;Without Sounding Robotic&rpar;](https://dev.to/alex_hunter_44f4c9ed6671e/how-to-explain-your-thought-process-during-coding-interviews-without-sounding-robotic-25f5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
