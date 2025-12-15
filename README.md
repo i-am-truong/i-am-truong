@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building PolyScan: Free CC0 PBR Textures &amp; 3D Models for Real Projects](https://dev.to/polyscan/building-polyscan-free-cc0-pbr-textures-3d-models-for-real-projects-3jhm)
-- [Async by Default](https://dev.to/rnikolaev/async-by-default-3f9)
-- [Zero-to-Scale ML: Deploying ONNX Models on Kubernetes with FastAPI and HPA](https://dev.to/austin_deyan_6c9b2445aed6/zero-to-scale-ml-deploying-onnx-models-on-kubernetes-with-fastapi-and-hpa-l78)
-- [How to write a talk proposal that actually gets accepted](https://dev.to/soumayaerradi/how-to-write-a-talk-proposal-that-actually-gets-accepted-4nje)
-- [Unpacking the Google File System Paper: A Simple Breakdown](https://dev.to/rajeevrajeshuni/google-file-system-gfs-keep-it-simple-scale-big-3277)
+- [I was tired of copy-pasting to ChatGPT, so I built a Chrome extension](https://dev.to/ialijr/i-was-tired-of-copy-pasting-to-chatgpt-so-i-built-a-chrome-extension-m3f)
+- [Application Development with LLMs on Google Cloud: Building the Next Generation of Apps](https://dev.to/rohan_jee_085655230/application-development-with-llms-on-google-cloud-building-the-next-generation-of-apps-3lh5)
+- [Day 14 of #30DaysOfAWSTerraform: Hosting a Static Website with S3 and CloudFront](https://dev.to/alafiz/day-14-of-30daysofawsterraform-hosting-a-static-website-with-s3-and-cloudfront-4i7a)
+- [The European DPP’s Technical Blind Spot: Why Simple Schema.org Guarantees Chaos by 2027](https://dev.to/kevinbouti/the-european-dpps-technical-blind-spot-why-simple-schemaorg-guarantees-chaos-by-2027-2ogg)
+- [The Ultimate Guide to the Google Cloud Professional Cloud Security Engineer Certification &lpar;2026&rpar;](https://dev.to/rohan_jee_085655230/the-ultimate-guide-to-the-google-cloud-professional-cloud-security-engineer-certification-2026-5gfk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
