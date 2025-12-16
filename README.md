@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Advent of Cyber 2025: Day 6 Writeup - War with Malware | TryHackMe](https://dev.to/mahin101/advent-of-cyber-2025-day-6-writeup-war-with-malware-tryhackme-30h8)
-- [How to Stop AI From Ruining Your Architecture](https://dev.to/ttoss/how-to-stop-ai-from-ruining-your-architecture-403h)
-- [Bastillion: A Web-Based SSH Console and Key Management Tool](https://dev.to/stelixx-insider/bastillion-a-web-based-ssh-console-and-key-management-tool-4jdb)
-- [Get , Post, Put, Delete in Axios](https://dev.to/arun_kumar_98/get-post-put-delete-in-axios-24jj)
-- [Java is Back on Lambda: Building a Sub-Second GenAI API with Spring Boot 3, SnapStart, and Bedrock](https://dev.to/jmontagne/java-is-back-on-lambda-building-a-sub-second-genai-api-with-spring-boot-3-snapstart-and-bedrock-ebo)
+- [Subquery to GROUP JOIN — A Method for Merging Multiple Subqueries](https://dev.to/dev-jack/subquery-to-group-join-a-method-for-merging-multiple-subqueries-1kpe)
+- [Why I Built Yet Another Mediator &lpar;And Why You Might Care&rpar;](https://dev.to/1pouria/why-i-built-yet-another-mediator-and-why-you-might-care-4m1b)
+- [easy-query ORM: EF Core for Java](https://dev.to/dev-jack/easy-query-orm-ef-core-for-java-iha)
+- [A Better Way to Run Git Worktrees Finally!](https://dev.to/nemesiscodex/a-better-way-to-run-git-worktrees-finally-1lh9)
+- [Building a Gasless Crypto Payment Flow: How ERC-3009 Eliminates User Gas Fees](https://dev.to/jimquote/building-a-gasless-crypto-payment-flow-how-erc-3009-eliminates-user-gas-fees-29mk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
