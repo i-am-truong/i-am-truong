@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Renderizando la cámara con Metal en iOS &lpar;AVFoundation + MetalKit&rpar;](https://dev.to/david_goyes_a488f58a17a53/renderizando-la-camara-con-metal-en-ios-avfoundation-metalkit-mnl)
+- [The AI Tsunami: How VS Code Extensions in 2024-2025 Are Redefining Developer Productivity](https://dev.to/dataformathub/the-ai-tsunami-how-vs-code-extensions-in-2024-2025-are-redefining-developer-productivity-3p8c)
+- [Production Deployment: Nginx, uWSGI, and Gunicorn for WebSockets](https://dev.to/deepak_mishra_35863517037/production-deployment-nginx-uwsgi-and-gunicorn-for-websockets-1i9g)
+- [Blind 75: Why It Matters and How to Actually Master It](https://dev.to/alex_hunter_44f4c9ed6671e/blind-75-why-it-matters-and-how-to-actually-master-it-2i61)
 - [What You Want is Knowledge](https://dev.to/stakiran/what-you-want-is-knowledge-2fbb)
-- [Just published my first proposal on AGI Architecture. I&#39;m looking for honest feedback on the &#39;Mediator Agent&#39; concept. Does this structure make sense to you?](https://dev.to/wesley_torresdeoliveira/just-published-my-first-proposal-on-agi-architecture-im-looking-for-honest-feedback-on-the-1l3d)
-- [You Are Using TailwindCSS Wrong](https://dev.to/ismail9k/you-are-using-tailwindcss-wrong-25gb)
-- [Building an IQ Test Website and What It Taught Me About SEO, Content, and User Intent](https://dev.to/whats_youriq_e1c071d8262/building-an-iq-test-website-and-what-it-taught-me-about-seo-content-and-user-intent-368k)
-- [The &quot;Triad Protocol&quot;: A Proposed Neuro-Symbolic Architecture for AGI Alignment](https://dev.to/wesley_torresdeoliveira/the-triad-protocol-a-proposed-neuro-symbolic-architecture-for-agi-alignment-kff)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
