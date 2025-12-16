@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [# Regra de segurança no Android nativo com SharedPreferences](https://dev.to/victorzarzar/-regra-de-seguranca-no-android-nativo-com-sharedpreferences-15m7)
-- [Why accessible video is still not possible on Instagram](https://dev.to/chris_devto/why-accessible-video-is-still-not-possible-on-instagram-8p)
-- [12 Patterns That Reveal Whether Your Money System Can Handle Shocks](https://dev.to/briandavies/12-patterns-that-reveal-whether-your-money-system-can-handle-shocks-31nf)
-- [8 Financial Blind Spots That Don’t Show Up in Budgets](https://dev.to/briandavies/8-financial-blind-spots-that-dont-show-up-in-budgets-5b01)
-- [11 Signals Your Money Decisions Are Running on Autopilot](https://dev.to/briandavies/11-signals-your-money-decisions-are-running-on-autopilot-2mo2)
+- [Engineering DebtDrone: Building a High-Performance AST-Based Static Analyzer in Go](https://dev.to/endrilickollari/engineering-debtdrone-building-a-high-performance-ast-based-static-analyzer-in-go-ifd)
+- [Checkout this article on Unlocking Advanced Analytics: The Power of Integrating Tableau and R](https://dev.to/dipti26810/checkout-this-article-on-unlocking-advanced-analytics-the-power-of-integrating-tableau-and-r-2ce6)
+- [Unlocking Advanced Analytics: The Power of Integrating Tableau and R](https://dev.to/dipti26810/unlocking-advanced-analytics-the-power-of-integrating-tableau-and-r-4oeb)
+- [I Built a Fun Functional ATM in Python &lpar;And It Taught Me More Than I Expected 💳🐍&rpar;](https://dev.to/halakabir234hub/i-built-a-fun-functional-atm-in-python-and-it-taught-me-more-than-i-expected--4922)
+- [Discover Marudhamalai: Coimbatore&#39;s Premier Lifestyle Destination](https://dev.to/66centscbe/discover-marudhamalai-coimbatores-premier-lifestyle-destination-49j5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
