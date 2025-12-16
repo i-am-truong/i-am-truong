@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Canonical JSON Model](https://dev.to/rokoss21/canonical-json-model-2p8o)
+- [**Essential Docker Patterns for Modern Web Development: Multi-Stage, Compose, and Production-Ready Containers**](https://dev.to/nithinbharathwaj/essential-docker-patterns-for-modern-web-development-multi-stage-compose-and-production-ready-poe)
+- [Day 1287 : Could Be Wrong](https://dev.to/dwane/day-1287-could-be-wrong-3pep)
+- [Computer Networking for Security Engineers](https://dev.to/fosres/computer-networking-for-security-engineers-4397)
 - [Build a Realtime Video Restyling Agent with Gemini 3 + Decart AI](https://dev.to/getstreamhq/build-a-realtime-video-restyling-agent-with-gemini-3-decart-ai-39df)
-- [MindsEye &amp; MindScript: A Ledger-First Cognitive Architecture Technical Whitepaper v1.0](https://dev.to/peacebinflow/mindseye-mindscript-a-ledger-first-cognitive-architecturetechnical-whitepaper-v10-4nd9)
-- [The Contract Layer](https://dev.to/rokoss21/the-contract-layer-2444)
-- [Unpacking Sterling Digital Consulting&#39;s AI Analytics Tool](https://dev.to/marcussterling/unpacking-sterling-digital-consultings-ai-analytics-tool-1lnn)
-- [Beyond Basic MCP: Why Enterprise AI Needs Composable Architecture](https://dev.to/zaynelt/beyond-basic-mcp-why-enterprise-ai-needs-composable-architecture-273k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
