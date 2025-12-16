@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Chat and Embedding Models in OCI Generative AI](https://dev.to/derrickryangiggs/chat-and-embedding-models-in-oci-generative-ai-54oc)
-- [Why PDFs Are Harder to Work With Than They Look](https://dev.to/dfg_1b56ef1df981f96a61c/why-pdfs-are-harder-to-work-with-than-they-look-1n48)
-- [When JavaScript Proxies Actually Save the Day](https://dev.to/fhaponenka/when-javascript-proxies-actually-save-the-day-2ml)
-- [Quick CRM Integrations with Retell AI&#39;s No-Code Tools: My Experience](https://dev.to/callstacktech/quick-crm-integrations-with-retell-ais-no-code-tools-my-experience-58ik)
-- [Automating Container Security on AWS with CI/CD and Fargate using GitHub Actions](https://dev.to/shawmeer22/automating-container-security-on-aws-with-cicd-and-fargate-using-github-actions-1fml)
+- [Antigravity for Developers: Lifting the Burden with Gemini 3 Agents](https://dev.to/gioboa/antigravity-for-developers-lifting-the-burden-with-gemini-3-agents-3o9c)
+- [Proxy market forecast 2026: How regulation &lpar;GDPR, CCPA&rpar; is reshaping the landscape](https://dev.to/astro-official/proxy-market-forecast-2026-how-regulation-gdpr-ccpa-is-reshaping-the-landscape-3mbc)
+- [Some SaaS Products Are Bigger Than They Look](https://dev.to/sonu_goswami/some-saas-products-are-bigger-than-they-look-ke)
+- [Workflow Deep Dive](https://dev.to/neeraja_khanapure_4a33a5f/workflow-deep-dive-3cf2)
+- [Mini project to demonstrate VPC peering in AWS using Terraform](https://dev.to/nandan_007/demonstrate-vpc-peering-in-aws-using-terraform-3nde)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
