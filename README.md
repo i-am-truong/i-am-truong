@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [QuickCart A Next.js, Prisma, and Better Auth platform for side-hustlers selling on WhatsApp.](https://dev.to/saidmounaim/quickcart-a-nextjs-prisma-and-better-auth-platform-for-side-hustlers-selling-on-whatsapp-5gff)
-- [How to Import SVG Files in a Next.js Project &lpar;2025&rpar;](https://dev.to/marina_eremina/how-to-import-svg-files-in-a-nextjs-project-2025-3m80)
-- [Testing in Umami codebase - Part 1.1](https://dev.to/ramunarasinga-11/testing-in-umami-codebase-part-11-1f9h)
-- [A2UI in Practice: Build Agent-to-User Interfaces Using A2A + AG-UI](https://dev.to/copilotkit/a2ui-in-practice-build-agent-to-user-interfaces-using-a2a-ag-ui-3ng5)
-- [API Test Data Management: Creating Realistic and Maintainable Test Data](https://dev.to/adnan_arif_14ae4bc014267f/api-test-data-management-creating-realistic-and-maintainable-test-data-51no)
+- [Granular OAuth consent for web apps and Workspace add-ons](https://dev.to/googleworkspace/granular-oauth-consent-for-web-apps-and-workspace-add-ons-2h2f)
+- [Android Performance: Những thứ thật sự làm app chậm &lpar;và cách xử lý thực tế&rpar;](https://dev.to/vio_di_code/android-performance-nhung-thu-that-su-lam-app-cham-va-cach-xu-ly-thuc-te-219k)
+- [Encore Cloud 2.0 - Development Platform for the AI Era](https://dev.to/encore/encore-cloud-20-development-platform-for-the-ai-era-552j)
+- [Multilayered Architectures - Build AI Platforms From Scratch #4](https://dev.to/goldsteinnick/multilayered-architectures-build-ai-platforms-from-scratch-4-2neo)
+- [The Age of Agentic: Why 2026 is the Year AI Stopped Talking and Started Doing](https://dev.to/tech_croc_f32fbb6ea8ed4/the-age-of-agentic-why-2026-is-the-year-ai-stopped-talking-and-started-doing-3le3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
