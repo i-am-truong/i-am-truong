@@ -120,13 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Portfolio Insights: Lessons from an Event‑Driven .NET Microservices Dashboard](https://dev.to/josemariairiarte/building-portfolio-insights-lessons-from-an-event-driven-net-microservices-dashboard-4m53)
-- [PyTorch Models Are Executables: Why I Built a Scanner to Stop &quot;Pickle Bombs&quot;](https://dev.to/labdev_c81554ba3d4ae28317/pytorch-models-are-executables-why-i-built-a-scanner-to-stop-pickle-bombs-92i)
-- [I Picked Up the JavaScript &amp; TypeScript Mastery Bundle - https://www.humblebundle.com/books/javascript-and-typescript-mastery-packt-books?view=JaezH0rPzMOk.
-
-Still deciding when to start, but it feels like a good end-of-year read.](https://dev.to/priya_sharma/i-picked-up-the-javascript-typescript-mastery-bundle--15lc)
-- [Granular OAuth consent for web apps and Workspace add-ons](https://dev.to/googleworkspace/granular-oauth-consent-for-web-apps-and-workspace-add-ons-2h2f)
-- [Android Performance: Những thứ thật sự làm app chậm &lpar;và cách xử lý thực tế&rpar;](https://dev.to/vio_di_code/android-performance-nhung-thu-that-su-lam-app-cham-va-cach-xu-ly-thuc-te-219k)
+- [n8n: Credential - GitLab OAuth2 Account](https://dev.to/codebangkok/n8n-credential-gitlab-oauth2-account-33no)
+- [🔍 Why Are API Requests So Hard to Debug Without the Right Tool?](https://dev.to/muhammad_haris_7828c7aeda/why-are-api-requests-so-hard-to-debug-without-the-right-tool-j2k)
+- [Performance Testing for APIs: Common Mistakes and Lessons Learned from Different Industries &lpar;Part 1&rpar;](https://dev.to/adnan_arif_14ae4bc014267f/performance-testing-for-apis-common-mistakes-and-lessons-learned-from-different-industries-part-1-2op0)
+- [I built a Free Invoice Generator with Next.js because I hate subscriptions](https://dev.to/mutashim99/i-built-a-free-invoice-generator-with-nextjs-because-i-hate-subscriptions-14o4)
+- [Fine-Tuning Large Language Models with LoRA and QLoRA](https://dev.to/nagoorkani2393/fine-tuning-large-language-models-with-lora-and-qlora-268h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
