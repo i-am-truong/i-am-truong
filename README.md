@@ -120,15 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Determinism Is Not the Opposite of Intelligence](https://dev.to/rokoss21/determinism-is-not-the-opposite-of-intelligence-4744)
-- [Testing 
-
-https://nfl.com](https://dev.to/ben/testing-httpsnflcom-5fdd)
-- [Testing!
-
-https://google.com](https://dev.to/ben/testinghttpsgooglecom-1nkl)
-- [Relica: A Zero-Dependency Query Builder for Go That Won&#39;t Break Your Code](https://dev.to/kolkov/relica-a-zero-dependency-query-builder-for-go-that-wont-break-your-code-1f63)
-- [Un Bug en la Física: Cómo las Clases Abstractas me Ayudaron a Resolver una Paradoja Temporal](https://dev.to/zenx5/un-bug-en-la-fisica-como-las-clases-abstractas-me-ayudaron-a-resolver-una-paradoja-temporal-491n)
+- [I Built 24 Free Developer Tools - No Signup, No Ads, No BS](https://dev.to/ghdj/i-built-24-free-developer-tools-no-signup-no-ads-no-bs-556m)
+- [AWS S3 Vectors: Finally, Cloud Scalable Vector Storage 🚀](https://dev.to/omarmfathy219/aws-s3-vectors-finally-cloud-scalable-vector-storage-1kmb)
+- [Beyond the Wire: Encrypting Messages Where the Message Never Exists](https://dev.to/suign/beyond-the-wire-encrypting-messages-where-the-message-never-exists-4fcb)
+- [Edge ML Has a Size Obsession](https://dev.to/aronchick/edge-ml-has-a-size-obsession-34fb)
+- [Vibe Coding: From Hell to Heaven in One Insight](https://dev.to/rex_zhen_a9a8400ee9f22e98/vibe-coding-from-hell-to-heaven-in-one-insight-4fjk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
