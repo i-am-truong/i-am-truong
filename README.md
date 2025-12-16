@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Engineering DebtDrone: Building a High-Performance AST-Based Static Analyzer in Go](https://dev.to/endrilickollari/engineering-debtdrone-building-a-high-performance-ast-based-static-analyzer-in-go-ifd)
-- [Checkout this article on Unlocking Advanced Analytics: The Power of Integrating Tableau and R](https://dev.to/dipti26810/checkout-this-article-on-unlocking-advanced-analytics-the-power-of-integrating-tableau-and-r-2ce6)
-- [Unlocking Advanced Analytics: The Power of Integrating Tableau and R](https://dev.to/dipti26810/unlocking-advanced-analytics-the-power-of-integrating-tableau-and-r-4oeb)
-- [I Built a Fun Functional ATM in Python &lpar;And It Taught Me More Than I Expected 💳🐍&rpar;](https://dev.to/halakabir234hub/i-built-a-fun-functional-atm-in-python-and-it-taught-me-more-than-i-expected--4922)
-- [Discover Marudhamalai: Coimbatore&#39;s Premier Lifestyle Destination](https://dev.to/66centscbe/discover-marudhamalai-coimbatores-premier-lifestyle-destination-49j5)
+- [Building AppReviews: the stack, the choices, and the compromises](https://dev.to/quentin23soleil/building-appreviews-the-stack-the-choices-and-the-compromises-37jb)
+- [From Feature Creep to Focus: Deciding What AppReviews Would Never Be](https://dev.to/quentin23soleil/from-feature-creep-to-focus-deciding-what-appreviews-would-never-be-9nh)
+- [# From Monolith to the Edge: Migrating Tenders SA&#39;s Blog to Cloudflare Workers](https://dev.to/freelancingsolutions/-from-monolith-to-the-edge-migrating-tenders-sas-blog-to-cloudflare-workers-172c)
+- [Understanding Off-Page SEO: How It Works and Why It Matters](https://dev.to/umang_sh/understanding-off-page-seo-how-it-works-and-why-it-matters-211l)
+- [Node.js Production Flags: Which Runtime Flags Are Safe &lpar;and Which Will Break Your App&rpar;](https://dev.to/adarshasnah/nodejs-production-flags-which-runtime-flags-are-safe-and-which-will-break-your-app-1ocp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
