@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Mobile App Gamification Improves User Retention](https://dev.to/devang1810/how-mobile-app-gamification-improves-user-retention-414a)
-- [Day 16 — Authentication Between Services &lpar;The Dragon-Archer&#39;s Question&rpar;](https://dev.to/aerabi/day-16-authentication-between-services-the-dragon-archers-question-37kp)
-- [Why Use Atlassian Forge? Benefits, Pricing &amp; Use Cases](https://dev.to/viktoriiagolovtseva/why-use-atlassian-forge-benefits-pricing-use-cases-pd2)
-- [The OptiPFair Series #1: Forging the Future with Small Models — An Architectural Analysis with Pere Martra](https://dev.to/fmquaglia/the-optipfair-series-1-forging-the-future-with-small-models-an-architectural-analysis-with-pere-4lge)
-- [How to Improve Native Magento 2 Community Edition Features?](https://dev.to/webmarts/how-to-improve-native-magento-2-community-edition-features-ana)
+- [Estratégias de Crescimento: Como Impulsionar Seu Negócio em 2024](https://dev.to/movin/estrategias-de-crescimento-como-impulsionar-seu-negocio-em-2024-1b6f)
+- [Self-Host Your LLM Gateway or Try the Managed Version &lpar;Bifrost OSS &amp; Enterprise&rpar;](https://dev.to/debmckinney/self-host-your-llm-gateway-or-try-the-managed-version-bifrost-oss-enterprise-1b3h)
+- [About the author: This blog was written by a Python enthusiast who started their coding journey just like you. Connect w…](https://dev.to/kavikr543/about-the-author-this-blog-was-written-by-a-python-enthusiast-who-started-their-coding-journey-57ia)
+- [Azure Data Fabric Solutions for Unified Cloud Data Management](https://dev.to/jackryan365/azure-data-fabric-solutions-for-unified-cloud-data-management-4bp)
+- [Day - 5/6? Building Raw Code Of Ai Models](https://dev.to/hexzonetwork/day-56-building-raw-code-of-ai-models-4lf4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
