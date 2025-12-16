@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What is a tfvars file in Terraform and how do you use it?](https://dev.to/techielass/what-is-a-tfvars-file-in-terraform-and-how-do-you-use-it-3l7o)
-- [A Practical Guide to Building AI Agents with Java and Spring AI - Part 5 - Add MCP](https://dev.to/yuriybezsonov/a-practical-guide-to-building-ai-agents-with-java-and-spring-ai-part-5-add-mcp-4h2o)
-- [How AI Learns: Gradient Descent Explained Through a Midnight Smoky Jollof Adventure](https://dev.to/fawole_joshua_c92c794ea50/how-ai-learns-gradient-descent-explained-through-a-midnight-smoky-jollof-adventure-3ggh)
-- [Why CSS Classes Don’t Work with dangerouslySetInnerHTML in Next.js &lpar;and How to Fix It&rpar;](https://dev.to/zainmuhammad/why-css-classes-dont-work-with-dangerouslysetinnerhtml-in-nextjs-and-how-to-fix-it-53c9)
-- [Launching your personal assistant](https://dev.to/sergioestebance/launching-your-personal-assistant-2blp)
+- [Chat and Embedding Models in OCI Generative AI](https://dev.to/derrickryangiggs/chat-and-embedding-models-in-oci-generative-ai-54oc)
+- [Why PDFs Are Harder to Work With Than They Look](https://dev.to/dfg_1b56ef1df981f96a61c/why-pdfs-are-harder-to-work-with-than-they-look-1n48)
+- [When JavaScript Proxies Actually Save the Day](https://dev.to/fhaponenka/when-javascript-proxies-actually-save-the-day-2ml)
+- [Quick CRM Integrations with Retell AI&#39;s No-Code Tools: My Experience](https://dev.to/callstacktech/quick-crm-integrations-with-retell-ais-no-code-tools-my-experience-58ik)
+- [Automating Container Security on AWS with CI/CD and Fargate using GitHub Actions](https://dev.to/shawmeer22/automating-container-security-on-aws-with-cicd-and-fargate-using-github-actions-1fml)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
