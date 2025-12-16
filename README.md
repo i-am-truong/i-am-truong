@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ArgoCD vs FluxCD in 2025: The Weaveworks Shutdown Changed Everything &lpar;Which GitOps Tool to Choose&rpar;](https://dev.to/inboryn_99399f96579fcd705/argocd-vs-fluxcd-in-2025-the-weaveworks-shutdown-changed-everything-which-gitops-tool-to-choose-872)
-- [2024-2025 Project Showcase: Empowering Developers with Tools &amp; Utilities](https://dev.to/dev_michael/2024-2025-project-showcase-empowering-developers-with-tools-utilities-1koj)
-- [Bug Reports Should Fix Themselves: Dogfooding Our Slack Cloud Agent with GitHub and Linear](https://dev.to/bekahhw/bug-reports-should-fix-themselves-dogfooding-our-slack-cloud-agent-with-github-and-linear-icj)
-- [[Boost]](https://dev.to/anthonymax/-ajo)
-- [How I built a privacy-first ChatGPT migrator &lpar;and why JSON parsing is a nightmare&rpar;](https://dev.to/tom_fcab25a02ad9d53/how-i-built-a-privacy-first-chatgpt-migrator-and-why-json-parsing-is-a-nightmare-50ii)
+- [Ai Didn’t Kill Frontend. It Turned It Into A Perspective.](https://dev.to/wizsebastian/ai-didnt-kill-frontend-it-turned-it-into-a-perspective-e23)
+- [Building A Metro Route Planner Website For Indian Cities](https://dev.to/codebyprakash/building-a-metro-route-planner-website-for-indian-cities-5bpp)
+- [Day 16: Delta Lake Explained - How Spark Finally Became Reliable for Production ETL](https://dev.to/sandeepk27/day-16-delta-lake-explained-how-spark-finally-became-reliable-for-production-etl-da)
+- [EF Core Bulk Data Operations: Insert and Update Best Practices](https://dev.to/dbdeveloper/ef-core-bulk-data-operations-insert-and-update-best-practices-2ed7)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3pab)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
