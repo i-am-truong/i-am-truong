@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Top AI Tools for Documentation | Guide for 2026](https://dev.to/infrasity-learning/top-ai-tools-for-documentation-guide-for-2026-19fn)
-- [How Social Media Platforms Really Decide What You See](https://dev.to/devarshi_2211/how-social-media-platforms-really-decide-what-you-see-3hh7)
-- [Part 02: Building a Sovereign Software Factory: The Local Root CA &amp; Trust Chains](https://dev.to/warren_jitsing_dd1c1d6fc6/building-a-sovereign-software-factory-the-local-root-ca-trust-chains-1igf)
-- [Data Intelligence Tokyo #21: Fighting Misinformation in the Age of AI](https://dev.to/esdk/data-intelligence-tokyo-21-fighting-misinformation-in-the-age-of-ai-3n3l)
-- [Most Nutrition APIs Hide 80% of the Data Behind Paywalls. Mine Doesn&#39;t.](https://dev.to/ra_vi_51d9667e07aa0984631/most-nutrition-apis-hide-80-of-the-data-behind-paywalls-mine-doesnt-49pl)
+- [✨How many hours do developers actually stare at a monitor every day?✨](https://dev.to/benq_devid/how-many-hours-do-developers-actually-stare-at-a-monitor-every-day-d6)
+- [Nixopus on LetsCloud: One-Click Deployments with Optimized Cloud Infrastructure](https://dev.to/letscloud/nixopus-on-letscloud-one-click-deployments-with-optimized-cloud-infrastructure-1887)
+- [Building Market Prediction Models with AlphaPy — Python Library for Algorithmic Trading](https://dev.to/rcids/building-market-prediction-models-with-alphapy-python-library-for-algorithmic-trading-1g6g)
+- [Learning AI on AWS by Building Real Things](https://dev.to/jitender_jain_64b97f80500/learning-ai-on-aws-by-building-real-things-2nlj)
+- [runners y cuantificacion de modelos](https://dev.to/carlos_mruiz_e1fbb61ca7/runners-y-cuantificacion-de-modelos-1m20)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
