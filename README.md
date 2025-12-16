@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Market Making Programs: The Invisible Infrastructure Behind Successful Token Launches](https://dev.to/dan_keller/market-making-programs-the-invisible-infrastructure-behind-successful-token-launches-2adm)
-- [Stop Building Express Apps Manually: Introducing exp-mvc](https://dev.to/zaheer_ahmed_afa544c30811/stop-building-express-apps-manually-introducing-exp-mvc-4951)
-- [Hello World! Engineering, Code, and Problem Solving](https://dev.to/mohamed_infas_2c00bd274a1/hello-world-engineering-code-and-problem-solving-3o9j)
-- [Getting into AI Agent](https://dev.to/sunday_victor_0c3b4c71c69/getting-into-ai-agent-29ed)
-- [Understanding Errors in Machine Learning: Accuracy, Precision, Recall &amp; F1 Score](https://dev.to/zeroshotanu/understanding-errors-in-machine-learning-accuracy-precision-recall-f1-score-4cc0)
+- [Why We Measure Everything in Software Except the One Thing That Matters Most](https://dev.to/leonpennings/why-we-measure-everything-in-software-except-the-one-thing-that-matters-most-294i)
+- [Build Flawless Backends: Master Node.js Data Models &lpar;SQL &amp; NoSQL&rpar;](https://dev.to/alvisonhunter/build-flawless-backends-master-nodejs-data-models-sql-nosql-124a)
+- [AI Fixed 160 WordPress Images in 5 Minutes: Here’s How](https://dev.to/proga100/ai-fixed-160-wordpress-images-in-5-minutes-436l)
+- [Stop Scraping HTML - There&#39;s a better way.](https://dev.to/zyte/stop-scraping-html-theres-a-better-way-34nl)
+- [Django E-commerce site](https://dev.to/abdisalam_sheek_6e6fb5131/django-e-commerce-site-ahl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
