@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Popular Chrome Extension Flagged for Security Risks &lpar;2M+ Users Affected&rpar;](https://dev.to/techbyte360/popular-chrome-extension-flagged-for-security-risks-2m-users-affected-54j6)
-- [How Quantum AI Will Redefine Data Analytics, Forecasting, and Risk Modeling](https://dev.to/clarient/how-quantum-ai-will-redefine-data-analytics-forecasting-and-risk-modeling-56c1)
-- [✨How many hours do developers actually stare at a monitor every day?✨](https://dev.to/benq_devid/how-many-hours-do-developers-actually-stare-at-a-monitor-every-day-d6)
-- [Nixopus on LetsCloud: One-Click Deployments with Optimized Cloud Infrastructure](https://dev.to/letscloud/nixopus-on-letscloud-one-click-deployments-with-optimized-cloud-infrastructure-1887)
-- [Building Market Prediction Models with AlphaPy — Python Library for Algorithmic Trading](https://dev.to/rcids/building-market-prediction-models-with-alphapy-python-library-for-algorithmic-trading-1g6g)
+- [How I Built 14 Interactive Visualizations Using Google AI Studio](https://dev.to/ritampal26/how-i-built-14-interactive-visualizations-using-google-ai-studio-3il4)
+- [Tuncxys DatePicker: Vanilla JS Date &amp; Time Picker](https://dev.to/jqueryscript/tuncxys-datepicker-vanilla-js-date-time-picker-3eic)
+- [Using AI to Fight Ransomware Attacks](https://dev.to/techbyte360/using-ai-to-fight-ransomware-attacks-4hl2)
+- [Azure CLI internals and how it works](https://dev.to/ssan79/azure-cli-internals-and-how-it-works-330o)
+- [New Release 🚀 Insights Template for Angular 20 &amp; Tailwind 4](https://dev.to/ngmaterialdev/new-release-insights-template-for-angular-20-tailwind-4-c6a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
