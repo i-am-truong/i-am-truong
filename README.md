@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [PWAs are underrated. I skipped the $99 Apple fee and the $25 Google fee by adding two files to my vanilla JS game. Now it works offline and installs like a native app. Here&#39;s the code 👇](https://dev.to/yosolita1978/pwas-are-underrated-i-skipped-the-99-apple-fee-and-the-25-google-fee-by-adding-two-files-to-my-2923)
+- [Did you know that AI can help reduce the carbon footprint of](https://dev.to/drcarlosruizviquez/did-you-know-that-ai-can-help-reduce-the-carbon-footprint-of-lli)
 - [PDK 3.6.0 is out with security patches and more!](https://dev.to/jasonstcyr/pdk-360-is-out-with-security-patches-and-more-j8a)
 - [How to Detect Browser-as-a-Service Scrapers in 2025](https://dev.to/cport1/how-to-detect-browser-as-a-service-scrapers-in-2025-mmk)
 - [How I Automated News Discovery with n8n &lpar;439K Views, €0 Spent&rpar;](https://dev.to/muhiak/how-i-automated-news-discovery-with-n8n-439k-views-eu0-spent-354e)
-- [Why We Measure Everything in Software Except the One Thing That Matters Most](https://dev.to/leonpennings/why-we-measure-everything-in-software-except-the-one-thing-that-matters-most-294i)
-- [Build Flawless Backends: Master Node.js Data Models &lpar;SQL &amp; NoSQL&rpar;](https://dev.to/alvisonhunter/build-flawless-backends-master-nodejs-data-models-sql-nosql-124a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
