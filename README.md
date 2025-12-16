@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Canonical JSON Model](https://dev.to/rokoss21/canonical-json-model-2p8o)
-- [**Essential Docker Patterns for Modern Web Development: Multi-Stage, Compose, and Production-Ready Containers**](https://dev.to/nithinbharathwaj/essential-docker-patterns-for-modern-web-development-multi-stage-compose-and-production-ready-poe)
-- [Day 1287 : Could Be Wrong](https://dev.to/dwane/day-1287-could-be-wrong-3pep)
-- [Computer Networking for Security Engineers](https://dev.to/fosres/computer-networking-for-security-engineers-4397)
-- [Build a Realtime Video Restyling Agent with Gemini 3 + Decart AI](https://dev.to/getstreamhq/build-a-realtime-video-restyling-agent-with-gemini-3-decart-ai-39df)
+- [MindsEye &amp; MindScript: A Ledger-First Cognitive Architecture Technical Whitepaper v2.0](https://dev.to/peacebinflow/mindseye-mindscript-a-ledger-first-cognitive-architecture-technical-whitepaper-v20-46p1)
+- [Adapter Philosophy](https://dev.to/rokoss21/adapter-philosophy-65h)
+- [Streamlining Maintenance with Machine Learning](https://dev.to/marcussterling/streamlining-maintenance-with-machine-learning-bkp)
+- [SwiftUI Accessibility &lpar;Production-Grade, Real World Patterns&rpar;](https://dev.to/sebastienlato/swiftui-accessibility-production-grade-real-world-patterns-i21)
+- [2025-12-16 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-16-daily-ai-news-4khi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
