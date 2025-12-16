@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to CSS Preprocessors: Unlocking the Power of SASS and LESS](https://dev.to/sharique_siddiqui_8242dad/introduction-to-css-preprocessors-unlocking-the-power-of-sass-and-less-gco)
-- [Mastering Advanced CSS Grid and Flexbox Techniques for Responsive Layouts](https://dev.to/sharique_siddiqui_8242dad/mastering-advanced-css-grid-and-flexbox-techniques-for-responsive-layouts-5fa8)
-- [How I built a local-first Reddit tool without cloud infrastructure](https://dev.to/short_playskits_ab152535/how-i-built-a-local-first-reddit-tool-without-cloud-infrastructure-ndd)
-- [Building a Digital Menu System for Restaurants – Personal Project](https://dev.to/josefilipe_dev/building-a-digital-menu-system-for-restaurants-personal-project-2n9h)
-- [Battling Winter Darkness: How Better Lighting Saved My Productivity &lpar;No Ceiling Lights Allowed&rpar;](https://dev.to/emma-suntech/battling-winter-darkness-how-better-lighting-saved-my-productivity-no-ceiling-lights-allowed-6al)
+- [STOP GUESSING: The Observability Stack I Built to Debug My Failing AI Agents](https://dev.to/the_nortern_dev/stop-guessing-the-observability-stack-i-built-to-debug-my-failing-ai-agents-4b4o)
+- [JavaScript 101: Getting Started with Control Flow](https://dev.to/joorch/javascript-101-getting-started-with-control-flow-16pk)
+- [From FP16 to Q4: Understanding Quantization in Ollama](https://dev.to/rijultp/from-fp16-to-q4-understanding-quantization-in-ollama-1j1e)
+- [Nginx Log Analytics with GoAccess: Local Logs, S3 Backups, and Beyond](https://dev.to/ajitkumar/nginx-log-analytics-with-goaccess-local-logs-s3-backups-and-beyond-181e)
+- [Building Production-Ready Vector Search for the Browser with Rust and WebAssembly](https://dev.to/matteo_panzeri_2c5930e196/building-production-ready-vector-search-for-the-browser-with-rust-and-webassembly-2mhi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
