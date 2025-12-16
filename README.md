@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to integrate Lemon Squeezy Payments into a chrome extension with webhooks](https://dev.to/notearthian/how-to-integrate-lemon-squeezy-payments-into-a-chrome-extension-with-webhooks-3ib9)
 - [Escaping Dependency Hell: How I Migrated a Legacy CRA App to React 19 &amp; Vite](https://dev.to/imamifti056/escaping-dependency-hell-how-i-migrated-a-legacy-cra-app-to-react-19-vite-2pnf)
 - [You can now embed Cloud Run deployments directly in your DEV posts!](https://dev.to/devteam/you-can-now-embed-cloud-run-deployments-directly-in-your-dev-posts-1jk8)
 - [Full Guide on Selecting Salesforce Implementation Partners in Australia](https://dev.to/mykhailoradchenko/full-guide-on-selecting-salesforce-implementation-partners-in-australia-402n)
 - [Visual Translation Management with vite-plugin-lingo](https://dev.to/dev_michael/visual-translation-management-with-vite-plugin-lingo-3ll8)
-- [Ai Didn’t Kill Frontend. It Turned It Into A Perspective.](https://dev.to/wizsebastian/ai-didnt-kill-frontend-it-turned-it-into-a-perspective-e23)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
