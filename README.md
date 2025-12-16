@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Spiegato Semplice: 3 Concetti Chiave](https://dev.to/scape/kubernetes-spiegato-semplice-3-concetti-chiave-2ifb)
-- [The West&#39;s Moral High Ground Is Paving China&#39;s Digital Highway](https://dev.to/zeroblind25/the-wests-moral-high-ground-is-paving-chinas-digital-highway-g01)
-- [Why Tools Break Agents &lpar;And How to Fix Them&rpar;](https://dev.to/dowhatmatters/why-tools-break-agents-and-how-to-fix-them-e28)
-- [Stop Paying OpenAI: Free Local AI in .NET with Ollama](https://dev.to/mashrulhaque/stop-paying-openai-free-local-ai-in-net-with-ollama-50k8)
-- [I Wasted 6 Months Building Products Nobody Wanted. Then I Discovered the Real Problem.](https://dev.to/lukehanner/i-wasted-6-months-building-products-nobody-wanted-then-i-discovered-the-real-problem-4704)
+- [The Modern Scrapy Developer&#39;s Guide &lpar;Part 3&rpar;: Auto-Generating Page Objects with Web Scraping Co-pilot](https://dev.to/zyte/the-modern-scrapy-developers-guide-part-3-auto-generating-page-objects-with-web-scraping-59fj)
+- [iOS Bridging Header Setup for React Native](https://dev.to/ajmal_hasan/ios-bridging-header-setup-for-react-native-2gln)
+- [The Modern Scrapy Developer&#39;s Guide &lpar;Part 2&rpar;: Page Objects with scrapy-poet](https://dev.to/zyte/the-modern-scrapy-developers-guide-part-2-page-objects-with-scrapy-poet-5b6l)
+- [What I’m trying to understand](https://dev.to/babilonczyk/what-im-trying-to-understand-150i)
+- [Building an Infinite Generative Music Engine with Pure HTML &amp; JavaScript &lpar;Markov-Based&rpar;](https://dev.to/okan_kaplan_livehtml/building-an-infinite-generative-music-engine-with-pure-html-javascript-markov-based-3a00)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
