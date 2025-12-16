@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CSS Max-Width Explained: Stop Breaking Your Layout](https://dev.to/satyam_gupta_0d1ff2152dcc/css-max-width-explained-stop-breaking-your-layout-58ej)
-- [Master CSS Display Property: Complete Guide to Block, Inline, Flex &amp; Grid Layouts](https://dev.to/satyam_gupta_0d1ff2152dcc/master-css-display-property-complete-guide-to-block-inline-flex-grid-layouts-230j)
-- [The Open-Source Problem Nobody Talks About &lpar;And How AI Docs Can Actually Fix It&rpar;](https://dev.to/notadevbuthere/the-open-source-problem-nobody-talks-about-and-how-ai-docs-can-actually-fix-it-329e)
-- [How to Learn SQL? A Complete 2026 Guide for Beginners](https://dev.to/tech_space/sql-guide-for-beginners-1dfk)
-- [VueJS Vs Angular: Choose The Right Framework](https://dev.to/kevinwalker/vuejs-vs-angular-choose-the-right-framework-fb5)
+- [eBPF Tutorial by Example 32: Wall Clock Profiling with Combined On-CPU and Off-CPU Analysis](https://dev.to/yunwei37/ebpf-tutorial-by-example-32-wall-clock-profiling-with-combined-on-cpu-and-off-cpu-analysis-2jcm)
+- [10 Proven SEO Hacks to Skyrocket 🚀 Your Website Traffic in 2026 👑](https://dev.to/thebitforge/10-proven-seo-hacks-to-skyrocket-your-website-traffic-in-2026-597j)
+- [How Does Medical App Development Solve Real-World Challenges in Healthcare Systems?](https://dev.to/rank_alchemy_5ad282cec75d/how-does-medical-app-development-solve-real-world-challenges-in-healthcare-systems-894)
+- [Life with Generalized Anxiety Disorder &lpar;GAD&rpar; #1](https://dev.to/codesoup/life-with-generalized-anxiety-disorder-gad-1-3i53)
+- [16 Performance Boost and 98% Cost Reduction: A Dive into the Upgraded SLS Vector Indexing Architecture](https://dev.to/observabilityguy/16x-performance-boost-and-98-cost-reduction-a-dive-into-the-upgraded-sls-vector-indexing-1hlh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
