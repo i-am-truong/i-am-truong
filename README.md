@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [MEP Estimation Services in Texas - Your Budget Controller](https://dev.to/constructioncostesti/mep-estimation-services-in-texas-your-budget-controller-59me)
+- [Como provisionar um cluster PostgreSQL no DBaaS da Magalu Cloud com failover automático](https://dev.to/magalucloud/como-provisionar-um-cluster-postgresql-no-dbaas-da-magalu-cloud-com-failover-automatico-2n53)
 - [Knowledge Sharing: Strong Teams Share What They Know](https://dev.to/reenanms/knowledge-sharing-strong-teams-share-what-they-know-49n1)
 - [Communication As A Task: A Mindset for Successful Asynchronous Work](https://dev.to/stakiran/communication-as-a-task-a-mindset-for-successful-asynchronous-work-fj3)
 - [Federated State Done Right: Zustand, TanStack Query, and the Patterns That Actually Work](https://dev.to/martinrojas/federated-state-done-right-zustand-tanstack-query-and-the-patterns-that-actually-work-27c0)
-- [INFOFISCUS Conversa – Agentic AI Conversational Analytics for Real-Time Enterprise Intelligence](https://dev.to/sachin_yadav_663e59160b3f/infofiscus-conversa-agentic-ai-conversational-analytics-for-real-time-enterprise-intelligence-2587)
+- [Building Your First MCP Server in Python](https://dev.to/onlineproxyio/building-your-first-mcp-server-in-python-23hc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
