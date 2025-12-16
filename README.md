@@ -120,9 +120,9 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a DevSecOps Terraform Review Loop with Checkov, Infracost, and AI](https://dev.to/jackyho/building-a-devsecops-terraform-review-loop-with-checkov-infracost-and-ai-35h2)
+- [Why I built Stoqyy](https://dev.to/vjygour/why-i-built-stoqyy-3402)
 - [eBPF Tutorial by Example 32: Wall Clock Profiling with Combined On-CPU and Off-CPU Analysis](https://dev.to/yunwei37/ebpf-tutorial-by-example-32-wall-clock-profiling-with-combined-on-cpu-and-off-cpu-analysis-2jcm)
-- [10 Proven SEO Hacks to Skyrocket 🚀 Your Website Traffic in 2026 👑](https://dev.to/thebitforge/10-proven-seo-hacks-to-skyrocket-your-website-traffic-in-2026-597j)
-- [How Does Medical App Development Solve Real-World Challenges in Healthcare Systems?](https://dev.to/rank_alchemy_5ad282cec75d/how-does-medical-app-development-solve-real-world-challenges-in-healthcare-systems-894)
 - [Life with Generalized Anxiety Disorder &lpar;GAD&rpar; #1](https://dev.to/codesoup/life-with-generalized-anxiety-disorder-gad-1-3i53)
 - [16 Performance Boost and 98% Cost Reduction: A Dive into the Upgraded SLS Vector Indexing Architecture](https://dev.to/observabilityguy/16x-performance-boost-and-98-cost-reduction-a-dive-into-the-upgraded-sls-vector-indexing-1hlh)
 <!-- BLOG-POST-LIST:END -->
