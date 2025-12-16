@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Estratégias de Crescimento: Como Impulsionar Seu Negócio em 2024](https://dev.to/movin/estrategias-de-crescimento-como-impulsionar-seu-negocio-em-2024-1b6f)
-- [Self-Host Your LLM Gateway or Try the Managed Version &lpar;Bifrost OSS &amp; Enterprise&rpar;](https://dev.to/debmckinney/self-host-your-llm-gateway-or-try-the-managed-version-bifrost-oss-enterprise-1b3h)
-- [About the author: This blog was written by a Python enthusiast who started their coding journey just like you. Connect w…](https://dev.to/kavikr543/about-the-author-this-blog-was-written-by-a-python-enthusiast-who-started-their-coding-journey-57ia)
-- [Azure Data Fabric Solutions for Unified Cloud Data Management](https://dev.to/jackryan365/azure-data-fabric-solutions-for-unified-cloud-data-management-4bp)
-- [Day - 5/6? Building Raw Code Of Ai Models](https://dev.to/hexzonetwork/day-56-building-raw-code-of-ai-models-4lf4)
+- [Splunk Basics](https://dev.to/manoj_kumarvemula_31e045/splunk-basics-5fp2)
+- [How I Built a Graphics Renderer in Node.js](https://dev.to/sfundomhlungu/how-i-built-a-graphics-renderer-in-nodejs-406i)
+- [Project Loom &amp; Virtual Threads in Java: Complete 2026 Guide](https://dev.to/elsie-rainee/project-loom-virtual-threads-in-java-complete-2026-guide-d35)
+- [Exporting Data from HubSpot to CSV: What Actually Works &lpar;and What Breaks&rpar;](https://dev.to/vladam/exporting-data-from-hubspot-to-csv-what-actually-works-and-what-breaks-4cf6)
+- [I hate WebP files. So I built a Chrome extension to kill them.](https://dev.to/opzozi/i-hate-webp-files-so-i-built-a-chrome-extension-to-kill-them-3cld)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
