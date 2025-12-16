@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why AI Contracts Failed &lpar;Before FACET&rpar;](https://dev.to/rokoss21/why-ai-contracts-failed-before-facet-1fbp)
+- [Stop Digging Logs: How to Turn Airflow Failures into Contextual Learning &lpar;with Bedrock &amp; S3 Vectors&rpar;](https://dev.to/aws-builders/stop-digging-logs-how-to-turn-airflow-failures-into-contextual-learning-with-bedrock-s3-vectors-485k)
 - [When you ship fast, there are chances that you might ship bugs in production, Here&#39;s how I deal with that](https://dev.to/mark_kaave/when-you-ship-fast-there-are-chances-that-you-might-ship-bugs-in-production-heres-how-i-deal-bcj)
 - [How I Built a Python Library That Lets You Join MySQL, PostgreSQL, MongoDB, REST APIs, and Files in a Single SQL Query](https://dev.to/theodore_p_9749548f7dd03/how-i-built-a-python-library-that-lets-you-join-mysql-postgresql-mongodb-rest-apis-and-files-in-h5d)
 - [Un banco mexicano decidió implementar un sistema de prevenci](https://dev.to/drcarlosruizviquez/un-banco-mexicano-decidio-implementar-un-sistema-de-prevenci-2dl2)
-- [Como provisionar um cluster PostgreSQL no DBaaS da Magalu Cloud com failover automático](https://dev.to/magalucloud/como-provisionar-um-cluster-postgresql-no-dbaas-da-magalu-cloud-com-failover-automatico-2n53)
-- [Did you know that AI-powered systems can be &quot;trained&quot; to ide](https://dev.to/drcarlosruizviquez/did-you-know-that-ai-powered-systems-can-be-trained-to-ide-2i5c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
