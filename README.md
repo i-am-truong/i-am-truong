@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Subquery to GROUP JOIN — A Method for Merging Multiple Subqueries](https://dev.to/dev-jack/subquery-to-group-join-a-method-for-merging-multiple-subqueries-1kpe)
-- [Why I Built Yet Another Mediator &lpar;And Why You Might Care&rpar;](https://dev.to/1pouria/why-i-built-yet-another-mediator-and-why-you-might-care-4m1b)
-- [easy-query ORM: EF Core for Java](https://dev.to/dev-jack/easy-query-orm-ef-core-for-java-iha)
-- [A Better Way to Run Git Worktrees Finally!](https://dev.to/nemesiscodex/a-better-way-to-run-git-worktrees-finally-1lh9)
-- [Building a Gasless Crypto Payment Flow: How ERC-3009 Eliminates User Gas Fees](https://dev.to/jimquote/building-a-gasless-crypto-payment-flow-how-erc-3009-eliminates-user-gas-fees-29mk)
+- [Creating a simplified LinkedIn-style social architecture](https://dev.to/greatjosh/creating-a-simplified-linkedin-style-social-architecture-3gf6)
+- [Off-By-One Errors on LeetCode: Why They Happen and How to Stop Them](https://dev.to/alex_hunter_44f4c9ed6671e/off-by-one-errors-on-leetcode-why-they-happen-and-how-to-stop-them-pai)
+- [A Technical Guide to Darkweb Research Tools](https://dev.to/tor_bbb/a-technical-guide-to-darkweb-research-tools-28jf)
+- [Variables](https://dev.to/sasirekaarumugam/variables-35lj)
+- [What is out of memory exception in java](https://dev.to/codegreen/what-is-out-of-memory-exception-in-java-4j1d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
