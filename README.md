@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;ve FINALLY launched my Product!!](https://dev.to/nombrekeff/ive-finally-launched-my-product-4am7)
-- [GraphQL vs. REST: Why Your Next API Might Prefer GraphQL](https://dev.to/sakib_muntaheen_c5a91b997/graphql-vs-rest-why-your-next-api-might-prefer-graphql-3jcn)
-- [Designer Maxi Dresses: The Perfect Blend of Style and Comfort](https://dev.to/houseofsiyaab/designer-maxi-dresses-the-perfect-blend-of-style-and-comfort-29ko)
-- [Build an RF Test Bench on a Limited Budget &lpar;Starter / Growth / Advanced&rpar;](https://dev.to/maronlabs/build-an-rf-test-bench-on-a-limited-budget-starter-growth-advanced-hin)
-- [Introducing the Mapbox MCP Server: Location Intelligence for AI Agents](https://dev.to/mapbox/introducing-the-mapbox-mcp-server-location-intelligence-for-ai-agents-4bia)
+- [QuickCart A Next.js, Prisma, and Better Auth platform for side-hustlers selling on WhatsApp.](https://dev.to/saidmounaim/quickcart-a-nextjs-prisma-and-better-auth-platform-for-side-hustlers-selling-on-whatsapp-5gff)
+- [How to Import SVG Files in a Next.js Project &lpar;2025&rpar;](https://dev.to/marina_eremina/how-to-import-svg-files-in-a-nextjs-project-2025-3m80)
+- [Testing in Umami codebase - Part 1.1](https://dev.to/ramunarasinga-11/testing-in-umami-codebase-part-11-1f9h)
+- [A2UI in Practice: Build Agent-to-User Interfaces Using A2A + AG-UI](https://dev.to/copilotkit/a2ui-in-practice-build-agent-to-user-interfaces-using-a2a-ag-ui-3ng5)
+- [API Test Data Management: Creating Realistic and Maintainable Test Data](https://dev.to/adnan_arif_14ae4bc014267f/api-test-data-management-creating-realistic-and-maintainable-test-data-51no)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
