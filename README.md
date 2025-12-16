@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building AppReviews: the stack, the choices, and the compromises](https://dev.to/quentin23soleil/building-appreviews-the-stack-the-choices-and-the-compromises-37jb)
-- [From Feature Creep to Focus: Deciding What AppReviews Would Never Be](https://dev.to/quentin23soleil/from-feature-creep-to-focus-deciding-what-appreviews-would-never-be-9nh)
-- [# From Monolith to the Edge: Migrating Tenders SA&#39;s Blog to Cloudflare Workers](https://dev.to/freelancingsolutions/-from-monolith-to-the-edge-migrating-tenders-sas-blog-to-cloudflare-workers-172c)
-- [Understanding Off-Page SEO: How It Works and Why It Matters](https://dev.to/umang_sh/understanding-off-page-seo-how-it-works-and-why-it-matters-211l)
-- [Node.js Production Flags: Which Runtime Flags Are Safe &lpar;and Which Will Break Your App&rpar;](https://dev.to/adarshasnah/nodejs-production-flags-which-runtime-flags-are-safe-and-which-will-break-your-app-1ocp)
+- [How Mobile App Gamification Improves User Retention](https://dev.to/devang1810/how-mobile-app-gamification-improves-user-retention-414a)
+- [Day 16 — Authentication Between Services &lpar;The Dragon-Archer&#39;s Question&rpar;](https://dev.to/aerabi/day-16-authentication-between-services-the-dragon-archers-question-37kp)
+- [Why Use Atlassian Forge? Benefits, Pricing &amp; Use Cases](https://dev.to/viktoriiagolovtseva/why-use-atlassian-forge-benefits-pricing-use-cases-pd2)
+- [The OptiPFair Series #1: Forging the Future with Small Models — An Architectural Analysis with Pere Martra](https://dev.to/fmquaglia/the-optipfair-series-1-forging-the-future-with-small-models-an-architectural-analysis-with-pere-4lge)
+- [How to Improve Native Magento 2 Community Edition Features?](https://dev.to/webmarts/how-to-improve-native-magento-2-community-edition-features-ana)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
