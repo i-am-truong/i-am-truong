@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Popular Chrome Extension Flagged for Security Risks &lpar;2M+ Users Affected&rpar;](https://dev.to/techbyte360/popular-chrome-extension-flagged-for-security-risks-2m-users-affected-54j6)
+- [How Quantum AI Will Redefine Data Analytics, Forecasting, and Risk Modeling](https://dev.to/clarient/how-quantum-ai-will-redefine-data-analytics-forecasting-and-risk-modeling-56c1)
 - [✨How many hours do developers actually stare at a monitor every day?✨](https://dev.to/benq_devid/how-many-hours-do-developers-actually-stare-at-a-monitor-every-day-d6)
 - [Nixopus on LetsCloud: One-Click Deployments with Optimized Cloud Infrastructure](https://dev.to/letscloud/nixopus-on-letscloud-one-click-deployments-with-optimized-cloud-infrastructure-1887)
 - [Building Market Prediction Models with AlphaPy — Python Library for Algorithmic Trading](https://dev.to/rcids/building-market-prediction-models-with-alphapy-python-library-for-algorithmic-trading-1g6g)
-- [Learning AI on AWS by Building Real Things](https://dev.to/jitender_jain_64b97f80500/learning-ai-on-aws-by-building-real-things-2nlj)
-- [runners y cuantificacion de modelos](https://dev.to/carlos_mruiz_e1fbb61ca7/runners-y-cuantificacion-de-modelos-1m20)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
