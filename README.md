@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Antigravity for Developers: Lifting the Burden with Gemini 3 Agents](https://dev.to/gioboa/antigravity-for-developers-lifting-the-burden-with-gemini-3-agents-3o9c)
-- [Proxy market forecast 2026: How regulation &lpar;GDPR, CCPA&rpar; is reshaping the landscape](https://dev.to/astro-official/proxy-market-forecast-2026-how-regulation-gdpr-ccpa-is-reshaping-the-landscape-3mbc)
-- [Some SaaS Products Are Bigger Than They Look](https://dev.to/sonu_goswami/some-saas-products-are-bigger-than-they-look-ke)
-- [Workflow Deep Dive](https://dev.to/neeraja_khanapure_4a33a5f/workflow-deep-dive-3cf2)
-- [Mini project to demonstrate VPC peering in AWS using Terraform](https://dev.to/nandan_007/demonstrate-vpc-peering-in-aws-using-terraform-3nde)
+- [Google Antigravity: I Tested the AI IDE, and Here&#39;s the Unfiltered Truth](https://dev.to/tashfia_a8008e6a542/google-antigravity-i-tested-the-ai-ide-and-heres-the-unfiltered-truth-1fj4)
+- [Production-Ready Terraform - Part 3: The Finale — Automating Terraform with CI/CD](https://dev.to/aws-builders/production-ready-terraform-part-3-the-finale-automating-terraform-with-cicd-1mf7)
+- [OpenSTF is Dead: The Best Alternative for Mobile Device Labs in 2025](https://dev.to/omnarayan/openstf-is-dead-the-best-alternative-for-mobile-device-labs-in-2025-2j5o)
+- [How to Build a Task Management App Using Next.js 16 and Prisma 7](https://dev.to/myogeshchavan97/how-to-build-a-task-management-app-using-nextjs-16-and-prisma-7-4mcf)
+- [Nano Banana: Flash vs. Pro – Clearing Up the Confusion on Google&#39;s Viral Image Editor](https://dev.to/tashfia_a8008e6a542/nano-banana-flash-vs-pro-clearing-up-the-confusion-on-googles-viral-image-editor-h9n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
