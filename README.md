@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [5 Impactful AI Use Cases to Improve Your Ecommerce](https://dev.to/joywinter90/5-impactful-ai-use-cases-to-improve-your-ecommerce-2on0)
-- [Global AI Stock Trends: European and Asian Companies](https://dev.to/glaxitofficial/global-ai-stock-trends-european-and-asian-companies-33if)
-- [Day 73 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-73-of-100-days-dsa-coding-challenge-2nki)
-- [¿Qué sigue para los roles FinOps en LATAM?](https://dev.to/barbara_gaspar/que-sigue-para-los-roles-finops-en-latam-13hf)
-- [Mobile App Performance Optimization Checklist for Educational Apps and Student Portals](https://dev.to/misterankit/mobile-app-performance-optimization-checklist-for-educational-apps-and-student-portals-2lom)
+- [Top AI Tools for Documentation | Guide for 2026](https://dev.to/infrasity-learning/top-ai-tools-for-documentation-guide-for-2026-19fn)
+- [How Social Media Platforms Really Decide What You See](https://dev.to/devarshi_2211/how-social-media-platforms-really-decide-what-you-see-3hh7)
+- [Part 02: Building a Sovereign Software Factory: The Local Root CA &amp; Trust Chains](https://dev.to/warren_jitsing_dd1c1d6fc6/building-a-sovereign-software-factory-the-local-root-ca-trust-chains-1igf)
+- [Data Intelligence Tokyo #21: Fighting Misinformation in the Age of AI](https://dev.to/esdk/data-intelligence-tokyo-21-fighting-misinformation-in-the-age-of-ai-3n3l)
+- [Most Nutrition APIs Hide 80% of the Data Behind Paywalls. Mine Doesn&#39;t.](https://dev.to/ra_vi_51d9667e07aa0984631/most-nutrition-apis-hide-80-of-the-data-behind-paywalls-mine-doesnt-49pl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
