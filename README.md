@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [n8n: Credential - GitLab OAuth2 Account](https://dev.to/codebangkok/n8n-credential-gitlab-oauth2-account-33no)
-- [🔍 Why Are API Requests So Hard to Debug Without the Right Tool?](https://dev.to/muhammad_haris_7828c7aeda/why-are-api-requests-so-hard-to-debug-without-the-right-tool-j2k)
-- [Performance Testing for APIs: Common Mistakes and Lessons Learned from Different Industries &lpar;Part 1&rpar;](https://dev.to/adnan_arif_14ae4bc014267f/performance-testing-for-apis-common-mistakes-and-lessons-learned-from-different-industries-part-1-2op0)
-- [I built a Free Invoice Generator with Next.js because I hate subscriptions](https://dev.to/mutashim99/i-built-a-free-invoice-generator-with-nextjs-because-i-hate-subscriptions-14o4)
-- [Fine-Tuning Large Language Models with LoRA and QLoRA](https://dev.to/nagoorkani2393/fine-tuning-large-language-models-with-lora-and-qlora-268h)
+- [ArgoCD vs FluxCD in 2025: The Weaveworks Shutdown Changed Everything &lpar;Which GitOps Tool to Choose&rpar;](https://dev.to/inboryn_99399f96579fcd705/argocd-vs-fluxcd-in-2025-the-weaveworks-shutdown-changed-everything-which-gitops-tool-to-choose-872)
+- [2024-2025 Project Showcase: Empowering Developers with Tools &amp; Utilities](https://dev.to/dev_michael/2024-2025-project-showcase-empowering-developers-with-tools-utilities-1koj)
+- [Bug Reports Should Fix Themselves: Dogfooding Our Slack Cloud Agent with GitHub and Linear](https://dev.to/bekahhw/bug-reports-should-fix-themselves-dogfooding-our-slack-cloud-agent-with-github-and-linear-icj)
+- [[Boost]](https://dev.to/anthonymax/-ajo)
+- [How I built a privacy-first ChatGPT migrator &lpar;and why JSON parsing is a nightmare&rpar;](https://dev.to/tom_fcab25a02ad9d53/how-i-built-a-privacy-first-chatgpt-migrator-and-why-json-parsing-is-a-nightmare-50ii)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
