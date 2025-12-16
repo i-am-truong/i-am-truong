@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Impactful AI Use Cases to Improve Your Ecommerce](https://dev.to/joywinter90/5-impactful-ai-use-cases-to-improve-your-ecommerce-2on0)
+- [Global AI Stock Trends: European and Asian Companies](https://dev.to/glaxitofficial/global-ai-stock-trends-european-and-asian-companies-33if)
+- [Day 73 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-73-of-100-days-dsa-coding-challenge-2nki)
 - [¿Qué sigue para los roles FinOps en LATAM?](https://dev.to/barbara_gaspar/que-sigue-para-los-roles-finops-en-latam-13hf)
-- [The Secret Life of Python: The Myth of the Box](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-myth-of-the-box-11hl)
-- [Coroutines &amp; Concurrent HTTP and a Templating Engine in C++ &lpar;Part 2&rpar;](https://dev.to/armaancpro/coroutines-concurrent-http-and-a-templating-engine-in-c-part-2-337n)
-- [I built a Resume Killer using Next.js, Neo4j, and Gemini](https://dev.to/harsha_vardhanreddy_15a5/i-built-a-resume-killer-using-nextjs-neo4j-and-gemini-2abf)
-- [I built a free JSON Viewer, Formatter &amp; Converter for developers](https://dev.to/avinash_verma_dc226a5d270/i-built-a-free-json-viewer-formatter-converter-for-developers-20gf)
+- [Mobile App Performance Optimization Checklist for Educational Apps and Student Portals](https://dev.to/misterankit/mobile-app-performance-optimization-checklist-for-educational-apps-and-student-portals-2lom)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
