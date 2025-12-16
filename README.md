@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Built 14 Interactive Visualizations Using Google AI Studio](https://dev.to/ritampal26/how-i-built-14-interactive-visualizations-using-google-ai-studio-3il4)
-- [Tuncxys DatePicker: Vanilla JS Date &amp; Time Picker](https://dev.to/jqueryscript/tuncxys-datepicker-vanilla-js-date-time-picker-3eic)
-- [Using AI to Fight Ransomware Attacks](https://dev.to/techbyte360/using-ai-to-fight-ransomware-attacks-4hl2)
-- [Azure CLI internals and how it works](https://dev.to/ssan79/azure-cli-internals-and-how-it-works-330o)
-- [New Release 🚀 Insights Template for Angular 20 &amp; Tailwind 4](https://dev.to/ngmaterialdev/new-release-insights-template-for-angular-20-tailwind-4-c6a)
+- [CSS Max-Width Explained: Stop Breaking Your Layout](https://dev.to/satyam_gupta_0d1ff2152dcc/css-max-width-explained-stop-breaking-your-layout-58ej)
+- [Master CSS Display Property: Complete Guide to Block, Inline, Flex &amp; Grid Layouts](https://dev.to/satyam_gupta_0d1ff2152dcc/master-css-display-property-complete-guide-to-block-inline-flex-grid-layouts-230j)
+- [The Open-Source Problem Nobody Talks About &lpar;And How AI Docs Can Actually Fix It&rpar;](https://dev.to/notadevbuthere/the-open-source-problem-nobody-talks-about-and-how-ai-docs-can-actually-fix-it-329e)
+- [How to Learn SQL? A Complete 2026 Guide for Beginners](https://dev.to/tech_space/sql-guide-for-beginners-1dfk)
+- [VueJS Vs Angular: Choose The Right Framework](https://dev.to/kevinwalker/vuejs-vs-angular-choose-the-right-framework-fb5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
