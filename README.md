@@ -124,7 +124,7 @@ Python                   1 repo              █░░░░░░░░░░�
 - [Knowledge Sharing: Strong Teams Share What They Know](https://dev.to/reenanms/knowledge-sharing-strong-teams-share-what-they-know-49n1)
 - [Communication As A Task: A Mindset for Successful Asynchronous Work](https://dev.to/stakiran/communication-as-a-task-a-mindset-for-successful-asynchronous-work-fj3)
 - [Federated State Done Right: Zustand, TanStack Query, and the Patterns That Actually Work](https://dev.to/martinrojas/federated-state-done-right-zustand-tanstack-query-and-the-patterns-that-actually-work-27c0)
-- [Renderizando la cámara con Metal en iOS &lpar;AVFoundation + MetalKit&rpar;](https://dev.to/david_goyes_a488f58a17a53/renderizando-la-camara-con-metal-en-ios-avfoundation-metalkit-mnl)
+- [INFOFISCUS Conversa – Agentic AI Conversational Analytics for Real-Time Enterprise Intelligence](https://dev.to/sachin_yadav_663e59160b3f/infofiscus-conversa-agentic-ai-conversational-analytics-for-real-time-enterprise-intelligence-2587)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
