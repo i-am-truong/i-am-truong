@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [PDK 3.6.0 is out with security patches and more!](https://dev.to/jasonstcyr/pdk-360-is-out-with-security-patches-and-more-j8a)
+- [How to Detect Browser-as-a-Service Scrapers in 2025](https://dev.to/cport1/how-to-detect-browser-as-a-service-scrapers-in-2025-mmk)
+- [How I Automated News Discovery with n8n &lpar;439K Views, €0 Spent&rpar;](https://dev.to/muhiak/how-i-automated-news-discovery-with-n8n-439k-views-eu0-spent-354e)
 - [Why We Measure Everything in Software Except the One Thing That Matters Most](https://dev.to/leonpennings/why-we-measure-everything-in-software-except-the-one-thing-that-matters-most-294i)
 - [Build Flawless Backends: Master Node.js Data Models &lpar;SQL &amp; NoSQL&rpar;](https://dev.to/alvisonhunter/build-flawless-backends-master-nodejs-data-models-sql-nosql-124a)
-- [AI Fixed 160 WordPress Images in 5 Minutes: Here’s How](https://dev.to/proga100/ai-fixed-160-wordpress-images-in-5-minutes-436l)
-- [Stop Scraping HTML - There&#39;s a better way.](https://dev.to/zyte/stop-scraping-html-theres-a-better-way-34nl)
-- [Django E-commerce site](https://dev.to/abdisalam_sheek_6e6fb5131/django-e-commerce-site-ahl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
