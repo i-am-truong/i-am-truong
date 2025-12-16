@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Google Antigravity: I Tested the AI IDE, and Here&#39;s the Unfiltered Truth](https://dev.to/tashfia_a8008e6a542/google-antigravity-i-tested-the-ai-ide-and-heres-the-unfiltered-truth-1fj4)
-- [Production-Ready Terraform - Part 3: The Finale — Automating Terraform with CI/CD](https://dev.to/aws-builders/production-ready-terraform-part-3-the-finale-automating-terraform-with-cicd-1mf7)
-- [OpenSTF is Dead: The Best Alternative for Mobile Device Labs in 2025](https://dev.to/omnarayan/openstf-is-dead-the-best-alternative-for-mobile-device-labs-in-2025-2j5o)
-- [How to Build a Task Management App Using Next.js 16 and Prisma 7](https://dev.to/myogeshchavan97/how-to-build-a-task-management-app-using-nextjs-16-and-prisma-7-4mcf)
-- [Nano Banana: Flash vs. Pro – Clearing Up the Confusion on Google&#39;s Viral Image Editor](https://dev.to/tashfia_a8008e6a542/nano-banana-flash-vs-pro-clearing-up-the-confusion-on-googles-viral-image-editor-h9n)
+- [# Regra de segurança no Android nativo com SharedPreferences](https://dev.to/victorzarzar/-regra-de-seguranca-no-android-nativo-com-sharedpreferences-15m7)
+- [Why accessible video is still not possible on Instagram](https://dev.to/chris_devto/why-accessible-video-is-still-not-possible-on-instagram-8p)
+- [12 Patterns That Reveal Whether Your Money System Can Handle Shocks](https://dev.to/briandavies/12-patterns-that-reveal-whether-your-money-system-can-handle-shocks-31nf)
+- [8 Financial Blind Spots That Don’t Show Up in Budgets](https://dev.to/briandavies/8-financial-blind-spots-that-dont-show-up-in-budgets-5b01)
+- [11 Signals Your Money Decisions Are Running on Autopilot](https://dev.to/briandavies/11-signals-your-money-decisions-are-running-on-autopilot-2mo2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
