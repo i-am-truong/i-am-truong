@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built 24 Free Developer Tools - No Signup, No Ads, No BS](https://dev.to/ghdj/i-built-24-free-developer-tools-no-signup-no-ads-no-bs-556m)
-- [AWS S3 Vectors: Finally, Cloud Scalable Vector Storage 🚀](https://dev.to/omarmfathy219/aws-s3-vectors-finally-cloud-scalable-vector-storage-1kmb)
-- [Beyond the Wire: Encrypting Messages Where the Message Never Exists](https://dev.to/suign/beyond-the-wire-encrypting-messages-where-the-message-never-exists-4fcb)
-- [Edge ML Has a Size Obsession](https://dev.to/aronchick/edge-ml-has-a-size-obsession-34fb)
-- [Vibe Coding: From Hell to Heaven in One Insight](https://dev.to/rex_zhen_a9a8400ee9f22e98/vibe-coding-from-hell-to-heaven-in-one-insight-4fjk)
+- [Introduction to CSS Preprocessors: Unlocking the Power of SASS and LESS](https://dev.to/sharique_siddiqui_8242dad/introduction-to-css-preprocessors-unlocking-the-power-of-sass-and-less-gco)
+- [Mastering Advanced CSS Grid and Flexbox Techniques for Responsive Layouts](https://dev.to/sharique_siddiqui_8242dad/mastering-advanced-css-grid-and-flexbox-techniques-for-responsive-layouts-5fa8)
+- [How I built a local-first Reddit tool without cloud infrastructure](https://dev.to/short_playskits_ab152535/how-i-built-a-local-first-reddit-tool-without-cloud-infrastructure-ndd)
+- [Building a Digital Menu System for Restaurants – Personal Project](https://dev.to/josefilipe_dev/building-a-digital-menu-system-for-restaurants-personal-project-2n9h)
+- [Battling Winter Darkness: How Better Lighting Saved My Productivity &lpar;No Ceiling Lights Allowed&rpar;](https://dev.to/emma-suntech/battling-winter-darkness-how-better-lighting-saved-my-productivity-no-ceiling-lights-allowed-6al)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
