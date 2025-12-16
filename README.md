@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [STOP GUESSING: The Observability Stack I Built to Debug My Failing AI Agents](https://dev.to/the_nortern_dev/stop-guessing-the-observability-stack-i-built-to-debug-my-failing-ai-agents-4b4o)
-- [JavaScript 101: Getting Started with Control Flow](https://dev.to/joorch/javascript-101-getting-started-with-control-flow-16pk)
-- [From FP16 to Q4: Understanding Quantization in Ollama](https://dev.to/rijultp/from-fp16-to-q4-understanding-quantization-in-ollama-1j1e)
-- [Nginx Log Analytics with GoAccess: Local Logs, S3 Backups, and Beyond](https://dev.to/ajitkumar/nginx-log-analytics-with-goaccess-local-logs-s3-backups-and-beyond-181e)
-- [Building Production-Ready Vector Search for the Browser with Rust and WebAssembly](https://dev.to/matteo_panzeri_2c5930e196/building-production-ready-vector-search-for-the-browser-with-rust-and-webassembly-2mhi)
+- [¿Qué sigue para los roles FinOps en LATAM?](https://dev.to/barbara_gaspar/que-sigue-para-los-roles-finops-en-latam-13hf)
+- [The Secret Life of Python: The Myth of the Box](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-myth-of-the-box-11hl)
+- [Coroutines &amp; Concurrent HTTP and a Templating Engine in C++ &lpar;Part 2&rpar;](https://dev.to/armaancpro/coroutines-concurrent-http-and-a-templating-engine-in-c-part-2-337n)
+- [I built a Resume Killer using Next.js, Neo4j, and Gemini](https://dev.to/harsha_vardhanreddy_15a5/i-built-a-resume-killer-using-nextjs-neo4j-and-gemini-2abf)
+- [I built a free JSON Viewer, Formatter &amp; Converter for developers](https://dev.to/avinash_verma_dc226a5d270/i-built-a-free-json-viewer-formatter-converter-for-developers-20gf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
