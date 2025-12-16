@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Implementing the Bulkhead Pattern in Node.js](https://dev.to/silentwatcher_95/implementing-the-bulkhead-pattern-in-nodejs-14ao)
+- [TOON vs JSON: When 60% Token Savings Becomes 1.8% - A Reality Check](https://dev.to/tejas_page/toon-vs-json-when-60-token-savings-becomes-18-a-reality-check-3e60)
+- [End Of The Year For Denshya Libraries](https://dev.to/denshya/end-of-the-year-for-denshya-libraries-2mom)
 - [Splunk Basics](https://dev.to/manoj_kumarvemula_31e045/splunk-basics-5fp2)
 - [How I Built a Graphics Renderer in Node.js](https://dev.to/sfundomhlungu/how-i-built-a-graphics-renderer-in-nodejs-406i)
-- [Project Loom &amp; Virtual Threads in Java: Complete 2026 Guide](https://dev.to/elsie-rainee/project-loom-virtual-threads-in-java-complete-2026-guide-d35)
-- [Exporting Data from HubSpot to CSV: What Actually Works &lpar;and What Breaks&rpar;](https://dev.to/vladam/exporting-data-from-hubspot-to-csv-what-actually-works-and-what-breaks-4cf6)
-- [I hate WebP files. So I built a Chrome extension to kill them.](https://dev.to/opzozi/i-hate-webp-files-so-i-built-a-chrome-extension-to-kill-them-3cld)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
