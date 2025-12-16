@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Essential Shell Scripting Basics You Should Know First](https://dev.to/a-k-0047/essential-shell-scripting-basics-you-should-know-first-3in6)
-- [I Tested 8 Nutrition APIs With the Same Query. Only 2 Returned Correct Data.](https://dev.to/ra_vi_51d9667e07aa0984631/i-tested-8-nutrition-apis-with-the-same-query-only-2-returned-correct-data-4kfg)
-- [Implementing the Bulkhead Pattern in Node.js](https://dev.to/silentwatcher_95/implementing-the-bulkhead-pattern-in-nodejs-14ao)
-- [TOON vs JSON: When 60% Token Savings Becomes 1.8% - A Reality Check](https://dev.to/tejas_page/toon-vs-json-when-60-token-savings-becomes-18-a-reality-check-3e60)
-- [End Of The Year For Denshya Libraries](https://dev.to/denshya/end-of-the-year-for-denshya-libraries-2mom)
+- [Day 1: Building a Holiday Budget Tracker with Svelte 5 💸](https://dev.to/dev_michael/day-1-building-a-holiday-budget-tracker-with-svelte-5-29m0)
+- [Not only hourly and fixed price. Weekly retainers on Upwork.](https://dev.to/chocomastery/not-only-hourly-and-fixed-price-weekly-retainers-on-upwork-3ccn)
+- [Boat Registration Renewal: Understanding the Process Over Time](https://dev.to/kari_van_f8915069655d062e/boat-registration-renewal-understanding-the-process-over-time-4cnj)
+- [Introducing azurecost: Azure Cost Management Made Simple](https://dev.to/toyama0919/introducing-azurecost-azure-cost-management-made-simple-1o3k)
+- [Why Learning Culture Actually Matters &lpar;And It&#39;s Not What You Think&rpar;](https://dev.to/iteyonikservices/why-learning-culture-actually-matters-and-its-not-what-you-think-503h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
