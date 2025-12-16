@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Creating a simplified LinkedIn-style social architecture](https://dev.to/greatjosh/creating-a-simplified-linkedin-style-social-architecture-3gf6)
-- [Off-By-One Errors on LeetCode: Why They Happen and How to Stop Them](https://dev.to/alex_hunter_44f4c9ed6671e/off-by-one-errors-on-leetcode-why-they-happen-and-how-to-stop-them-pai)
-- [A Technical Guide to Darkweb Research Tools](https://dev.to/tor_bbb/a-technical-guide-to-darkweb-research-tools-28jf)
-- [Variables](https://dev.to/sasirekaarumugam/variables-35lj)
-- [What is out of memory exception in java](https://dev.to/codegreen/what-is-out-of-memory-exception-in-java-4j1d)
+- [Introducing the Mapbox MCP Server: Location Intelligence for AI Agents](https://dev.to/mapbox/introducing-the-mapbox-mcp-server-location-intelligence-for-ai-agents-4bia)
+- [Mastering CSS Grid for Responsive Layouts: A Comprehensive Guide](https://dev.to/shahibur_rahman_6670cd024/mastering-css-grid-for-responsive-layouts-a-comprehensive-guide-5gdj)
+- [Why Time Estimates Are Always Wrong: The Hidden Work Problem](https://dev.to/_jeongyuhyeon_03de1/why-time-estimates-are-always-wrong-the-hidden-work-problem-bce)
+- [Deploying a Secure, Intelligent LLM Gateway](https://dev.to/qrkourier/deploying-a-secure-intelligent-llm-gateway-3h5n)
+- [🌌 Quantum Is Moving Faster Than We Think — Web3 Must Build for Tomorrow, Today](https://dev.to/auli_takala_d379835856f1f/quantum-is-moving-faster-than-we-think-web3-must-build-for-tomorrow-today-38i6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
