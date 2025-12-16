@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a DevSecOps Terraform Review Loop with Checkov, Infracost, and AI](https://dev.to/jackyho/building-a-devsecops-terraform-review-loop-with-checkov-infracost-and-ai-35h2)
-- [Why I built Stoqyy](https://dev.to/vjygour/why-i-built-stoqyy-3402)
-- [eBPF Tutorial by Example 32: Wall Clock Profiling with Combined On-CPU and Off-CPU Analysis](https://dev.to/yunwei37/ebpf-tutorial-by-example-32-wall-clock-profiling-with-combined-on-cpu-and-off-cpu-analysis-2jcm)
-- [Life with Generalized Anxiety Disorder &lpar;GAD&rpar; #1](https://dev.to/codesoup/life-with-generalized-anxiety-disorder-gad-1-3i53)
-- [16 Performance Boost and 98% Cost Reduction: A Dive into the Upgraded SLS Vector Indexing Architecture](https://dev.to/observabilityguy/16x-performance-boost-and-98-cost-reduction-a-dive-into-the-upgraded-sls-vector-indexing-1hlh)
+- [💾 AWS 105: Persistent Storage Power-Up - Creating an EBS Volume](https://dev.to/hritikraj8804/aws-105-persistent-storage-power-up-creating-an-ebs-volume-2n0g)
+- [Used this to figure out basic setup of rust/wasm, and ported it to Angular to figured out how to move on with other projects.](https://dev.to/jeffrey_drake_f43cb51bd56/used-this-to-figure-out-basic-setup-of-rustwasm-and-ported-it-to-angular-to-figured-out-how-to-fp5)
+- [How Managed WordPress Hosting Improves Your Website Speed &amp; Security](https://dev.to/cheeku_kumar_09a3a05e4b11/how-managed-wordpress-hosting-improves-your-website-speed-security-475d)
+- [Episode 2](https://dev.to/itsmeananyasrivastava/episode-2-4jl0)
+- [Episode 2: How Did AWS Build AWS Without AWS?](https://dev.to/itsmeananyasrivastava/episode-2-how-did-aws-build-aws-without-aws-1p6c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
