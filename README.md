@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Modern Scrapy Developer&#39;s Guide &lpar;Part 3&rpar;: Auto-Generating Page Objects with Web Scraping Co-pilot](https://dev.to/zyte/the-modern-scrapy-developers-guide-part-3-auto-generating-page-objects-with-web-scraping-59fj)
-- [iOS Bridging Header Setup for React Native](https://dev.to/ajmal_hasan/ios-bridging-header-setup-for-react-native-2gln)
-- [The Modern Scrapy Developer&#39;s Guide &lpar;Part 2&rpar;: Page Objects with scrapy-poet](https://dev.to/zyte/the-modern-scrapy-developers-guide-part-2-page-objects-with-scrapy-poet-5b6l)
-- [What I’m trying to understand](https://dev.to/babilonczyk/what-im-trying-to-understand-150i)
-- [Building an Infinite Generative Music Engine with Pure HTML &amp; JavaScript &lpar;Markov-Based&rpar;](https://dev.to/okan_kaplan_livehtml/building-an-infinite-generative-music-engine-with-pure-html-javascript-markov-based-3a00)
+- [Market Making Programs: The Invisible Infrastructure Behind Successful Token Launches](https://dev.to/dan_keller/market-making-programs-the-invisible-infrastructure-behind-successful-token-launches-2adm)
+- [Stop Building Express Apps Manually: Introducing exp-mvc](https://dev.to/zaheer_ahmed_afa544c30811/stop-building-express-apps-manually-introducing-exp-mvc-4951)
+- [Hello World! Engineering, Code, and Problem Solving](https://dev.to/mohamed_infas_2c00bd274a1/hello-world-engineering-code-and-problem-solving-3o9j)
+- [Getting into AI Agent](https://dev.to/sunday_victor_0c3b4c71c69/getting-into-ai-agent-29ed)
+- [Understanding Errors in Machine Learning: Accuracy, Precision, Recall &amp; F1 Score](https://dev.to/zeroshotanu/understanding-errors-in-machine-learning-accuracy-precision-recall-f1-score-4cc0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
