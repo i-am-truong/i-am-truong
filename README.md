@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [MEP Estimation Services in Texas - Your Budget Controller](https://dev.to/constructioncostesti/mep-estimation-services-in-texas-your-budget-controller-59me)
+- [Knowledge Sharing: Strong Teams Share What They Know](https://dev.to/reenanms/knowledge-sharing-strong-teams-share-what-they-know-49n1)
+- [Communication As A Task: A Mindset for Successful Asynchronous Work](https://dev.to/stakiran/communication-as-a-task-a-mindset-for-successful-asynchronous-work-fj3)
+- [Federated State Done Right: Zustand, TanStack Query, and the Patterns That Actually Work](https://dev.to/martinrojas/federated-state-done-right-zustand-tanstack-query-and-the-patterns-that-actually-work-27c0)
 - [Renderizando la cámara con Metal en iOS &lpar;AVFoundation + MetalKit&rpar;](https://dev.to/david_goyes_a488f58a17a53/renderizando-la-camara-con-metal-en-ios-avfoundation-metalkit-mnl)
-- [The AI Tsunami: How VS Code Extensions in 2024-2025 Are Redefining Developer Productivity](https://dev.to/dataformathub/the-ai-tsunami-how-vs-code-extensions-in-2024-2025-are-redefining-developer-productivity-3p8c)
-- [Production Deployment: Nginx, uWSGI, and Gunicorn for WebSockets](https://dev.to/deepak_mishra_35863517037/production-deployment-nginx-uwsgi-and-gunicorn-for-websockets-1i9g)
-- [Blind 75: Why It Matters and How to Actually Master It](https://dev.to/alex_hunter_44f4c9ed6671e/blind-75-why-it-matters-and-how-to-actually-master-it-2i61)
-- [What You Want is Knowledge](https://dev.to/stakiran/what-you-want-is-knowledge-2fbb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
