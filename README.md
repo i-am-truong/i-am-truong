@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to integrate Lemon Squeezy Payments into a chrome extension with webhooks](https://dev.to/notearthian/how-to-integrate-lemon-squeezy-payments-into-a-chrome-extension-with-webhooks-3ib9)
-- [Escaping Dependency Hell: How I Migrated a Legacy CRA App to React 19 &amp; Vite](https://dev.to/imamifti056/escaping-dependency-hell-how-i-migrated-a-legacy-cra-app-to-react-19-vite-2pnf)
-- [You can now embed Cloud Run deployments directly in your DEV posts!](https://dev.to/devteam/you-can-now-embed-cloud-run-deployments-directly-in-your-dev-posts-1jk8)
-- [Full Guide on Selecting Salesforce Implementation Partners in Australia](https://dev.to/mykhailoradchenko/full-guide-on-selecting-salesforce-implementation-partners-in-australia-402n)
-- [Visual Translation Management with vite-plugin-lingo](https://dev.to/dev_michael/visual-translation-management-with-vite-plugin-lingo-3ll8)
+- [Kubernetes Spiegato Semplice: 3 Concetti Chiave](https://dev.to/scape/kubernetes-spiegato-semplice-3-concetti-chiave-2ifb)
+- [The West&#39;s Moral High Ground Is Paving China&#39;s Digital Highway](https://dev.to/zeroblind25/the-wests-moral-high-ground-is-paving-chinas-digital-highway-g01)
+- [Why Tools Break Agents &lpar;And How to Fix Them&rpar;](https://dev.to/dowhatmatters/why-tools-break-agents-and-how-to-fix-them-e28)
+- [Stop Paying OpenAI: Free Local AI in .NET with Ollama](https://dev.to/mashrulhaque/stop-paying-openai-free-local-ai-in-net-with-ollama-50k8)
+- [I Wasted 6 Months Building Products Nobody Wanted. Then I Discovered the Real Problem.](https://dev.to/lukehanner/i-wasted-6-months-building-products-nobody-wanted-then-i-discovered-the-real-problem-4704)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
