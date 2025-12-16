@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 1: Building a Holiday Budget Tracker with Svelte 5 💸](https://dev.to/dev_michael/day-1-building-a-holiday-budget-tracker-with-svelte-5-29m0)
-- [Not only hourly and fixed price. Weekly retainers on Upwork.](https://dev.to/chocomastery/not-only-hourly-and-fixed-price-weekly-retainers-on-upwork-3ccn)
-- [Boat Registration Renewal: Understanding the Process Over Time](https://dev.to/kari_van_f8915069655d062e/boat-registration-renewal-understanding-the-process-over-time-4cnj)
-- [Introducing azurecost: Azure Cost Management Made Simple](https://dev.to/toyama0919/introducing-azurecost-azure-cost-management-made-simple-1o3k)
-- [Why Learning Culture Actually Matters &lpar;And It&#39;s Not What You Think&rpar;](https://dev.to/iteyonikservices/why-learning-culture-actually-matters-and-its-not-what-you-think-503h)
+- [Advent of Cyber 2025: Day 6 Writeup - War with Malware | TryHackMe](https://dev.to/mahin101/advent-of-cyber-2025-day-6-writeup-war-with-malware-tryhackme-30h8)
+- [How to Stop AI From Ruining Your Architecture](https://dev.to/ttoss/how-to-stop-ai-from-ruining-your-architecture-403h)
+- [Bastillion: A Web-Based SSH Console and Key Management Tool](https://dev.to/stelixx-insider/bastillion-a-web-based-ssh-console-and-key-management-tool-4jdb)
+- [Get , Post, Put, Delete in Axios](https://dev.to/arun_kumar_98/get-post-put-delete-in-axios-24jj)
+- [Java is Back on Lambda: Building a Sub-Second GenAI API with Spring Boot 3, SnapStart, and Bedrock](https://dev.to/jmontagne/java-is-back-on-lambda-building-a-sub-second-genai-api-with-spring-boot-3-snapstart-and-bedrock-ebo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
