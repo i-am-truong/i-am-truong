@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [PWAs are underrated. I skipped the $99 Apple fee and the $25 Google fee by adding two files to my vanilla JS game. Now it works offline and installs like a native app. Here&#39;s the code 👇](https://dev.to/yosolita1978/pwas-are-underrated-i-skipped-the-99-apple-fee-and-the-25-google-fee-by-adding-two-files-to-my-2923)
-- [Did you know that AI can help reduce the carbon footprint of](https://dev.to/drcarlosruizviquez/did-you-know-that-ai-can-help-reduce-the-carbon-footprint-of-lli)
-- [PDK 3.6.0 is out with security patches and more!](https://dev.to/jasonstcyr/pdk-360-is-out-with-security-patches-and-more-j8a)
-- [How to Detect Browser-as-a-Service Scrapers in 2025](https://dev.to/cport1/how-to-detect-browser-as-a-service-scrapers-in-2025-mmk)
-- [How I Automated News Discovery with n8n &lpar;439K Views, €0 Spent&rpar;](https://dev.to/muhiak/how-i-automated-news-discovery-with-n8n-439k-views-eu0-spent-354e)
+- [What You Want is Knowledge](https://dev.to/stakiran/what-you-want-is-knowledge-2fbb)
+- [Just published my first proposal on AGI Architecture. I&#39;m looking for honest feedback on the &#39;Mediator Agent&#39; concept. Does this structure make sense to you?](https://dev.to/wesley_torresdeoliveira/just-published-my-first-proposal-on-agi-architecture-im-looking-for-honest-feedback-on-the-1l3d)
+- [You Are Using TailwindCSS Wrong](https://dev.to/ismail9k/you-are-using-tailwindcss-wrong-25gb)
+- [Building an IQ Test Website and What It Taught Me About SEO, Content, and User Intent](https://dev.to/whats_youriq_e1c071d8262/building-an-iq-test-website-and-what-it-taught-me-about-seo-content-and-user-intent-368k)
+- [The &quot;Triad Protocol&quot;: A Proposed Neuro-Symbolic Architecture for AGI Alignment](https://dev.to/wesley_torresdeoliveira/the-triad-protocol-a-proposed-neuro-symbolic-architecture-for-agi-alignment-kff)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
