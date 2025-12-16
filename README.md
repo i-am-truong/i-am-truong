@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [💾 AWS 105: Persistent Storage Power-Up - Creating an EBS Volume](https://dev.to/hritikraj8804/aws-105-persistent-storage-power-up-creating-an-ebs-volume-2n0g)
-- [Used this to figure out basic setup of rust/wasm, and ported it to Angular to figured out how to move on with other projects.](https://dev.to/jeffrey_drake_f43cb51bd56/used-this-to-figure-out-basic-setup-of-rustwasm-and-ported-it-to-angular-to-figured-out-how-to-fp5)
-- [How Managed WordPress Hosting Improves Your Website Speed &amp; Security](https://dev.to/cheeku_kumar_09a3a05e4b11/how-managed-wordpress-hosting-improves-your-website-speed-security-475d)
-- [Episode 2](https://dev.to/itsmeananyasrivastava/episode-2-4jl0)
-- [Episode 2: How Did AWS Build AWS Without AWS?](https://dev.to/itsmeananyasrivastava/episode-2-how-did-aws-build-aws-without-aws-1p6c)
+- [What is a tfvars file in Terraform and how do you use it?](https://dev.to/techielass/what-is-a-tfvars-file-in-terraform-and-how-do-you-use-it-3l7o)
+- [A Practical Guide to Building AI Agents with Java and Spring AI - Part 5 - Add MCP](https://dev.to/yuriybezsonov/a-practical-guide-to-building-ai-agents-with-java-and-spring-ai-part-5-add-mcp-4h2o)
+- [How AI Learns: Gradient Descent Explained Through a Midnight Smoky Jollof Adventure](https://dev.to/fawole_joshua_c92c794ea50/how-ai-learns-gradient-descent-explained-through-a-midnight-smoky-jollof-adventure-3ggh)
+- [Why CSS Classes Don’t Work with dangerouslySetInnerHTML in Next.js &lpar;and How to Fix It&rpar;](https://dev.to/zainmuhammad/why-css-classes-dont-work-with-dangerouslysetinnerhtml-in-nextjs-and-how-to-fix-it-53c9)
+- [Launching your personal assistant](https://dev.to/sergioestebance/launching-your-personal-assistant-2blp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
