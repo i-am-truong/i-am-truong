@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Compliance Levels](https://dev.to/rokoss21/compliance-levels-4phl)
+- [Token Box Model](https://dev.to/rokoss21/token-box-model-1kkb)
 - [MindsEye &amp; MindScript: A Ledger-First Cognitive Architecture Technical Whitepaper v2.0](https://dev.to/peacebinflow/mindseye-mindscript-a-ledger-first-cognitive-architecture-technical-whitepaper-v20-46p1)
+- [2025-12-16 Daily Robotics News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-16-daily-robotics-news-45od)
 - [Adapter Philosophy](https://dev.to/rokoss21/adapter-philosophy-65h)
-- [Streamlining Maintenance with Machine Learning](https://dev.to/marcussterling/streamlining-maintenance-with-machine-learning-bkp)
-- [SwiftUI Accessibility &lpar;Production-Grade, Real World Patterns&rpar;](https://dev.to/sebastienlato/swiftui-accessibility-production-grade-real-world-patterns-i21)
-- [2025-12-16 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-16-daily-ai-news-4khi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
