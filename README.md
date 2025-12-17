@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Webpack vs Vite in Angular — Which One Really Wins?](https://dev.to/mridudixit15/webpack-vs-vite-in-angular-which-one-really-wins-2apc)
-- [7 Best Resources I Used to Learn Frontend Development](https://dev.to/stack_overflowed/7-best-resources-i-used-to-learn-frontend-development-fo7)
-- [Mastering Rive Animation: A Complete Guide for React Developers](https://dev.to/hoainhoblogdev/mastering-rive-animation-a-complete-guide-for-react-developers-5hn1)
-- [Mastering Cloud Security: A Strategic Guide to Securing Your AWS Environment](https://dev.to/kaths3cdev/mastering-cloud-security-a-strategic-guide-to-securing-your-aws-environment-51bo)
-- [💻 AWS 106: The Moment of Truth! Launching Your First EC2 Instance](https://dev.to/hritikraj8804/aws-106-the-moment-of-truth-launching-your-first-ec2-instance-2m3p)
+- [Using Guardrails in Amazon Bedrock: Building Safer and Governed Generative AI Applications](https://dev.to/dipayan_das/using-guardrails-in-amazon-bedrock-building-safer-and-governed-generative-ai-applications-106a)
+- [Transistors in Computers: The Tiny Switches That Power the Digital World](https://dev.to/farhadrahimiklie/transistors-in-computers-the-tiny-switches-that-power-the-digital-world-4lp8)
+- [Welcome Thread - v356](https://dev.to/devteam/welcome-thread-v356-137j)
+- [Solving Advent of Code Day 7: Splitting Tachyon Beams](https://dev.to/canro91/solving-advent-of-code-day-7-splitting-tachyon-beams-3j7c)
+- [TypeScript SDK for Building MCP Servers with type-safe decorators and streamable HTTP support](https://dev.to/_4b254f4408ef55656a22e4/typescript-sdk-for-building-mcp-servers-with-type-safe-decorators-and-streamable-http-support-1ob2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
