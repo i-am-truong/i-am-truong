@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The AI Bubble 2025: How the Boom Occurred and Transformed Industries Globally](https://dev.to/vanshsaxena/the-ai-bubble-2025-how-the-boom-occurred-and-transformed-industries-globally-af)
-- [My Engineering Workflow in CursorAI](https://dev.to/codeaholicguy/my-engineering-workflow-in-cursorai-2hed)
-- [AI Powerhouses: How to Leverage Joint Neural Networks in Multimodal Apps](https://dev.to/mabualzait/ai-powerhouses-how-to-leverage-joint-neural-networks-in-multimodal-apps-fdg)
-- [Advent of AI - Day 11: Goose Subagents](https://dev.to/nickytonline/advent-of-ai-day-11-goose-subagents-2n2)
-- [Using Guardrails in Amazon Bedrock: Building Safer and Governed Generative AI Applications](https://dev.to/dipayan_das/using-guardrails-in-amazon-bedrock-building-safer-and-governed-generative-ai-applications-106a)
+- [Old-School Multi-App Workflows Are Dying: Adobe Just Moved Into Your Chat Window](https://dev.to/aiwithapex/old-school-multi-app-workflows-are-dying-adobe-just-moved-into-your-chat-window-593a)
+- [Firehose and Iceberg Tables](https://dev.to/dmevanct/kinesis-and-iceberg-tables-p6f)
+- [Stop Reinventing the Wheel: 5 Hidden Gems in PrestaShop&#39;s Tools.php File](https://dev.to/ndabene/stop-reinventing-the-wheel-5-hidden-gems-in-prestashops-toolsphp-file-279f)
+- [Gamifying AI with the Octalysis Framework: Designing Motivation Into Intelligent Systems](https://dev.to/yujofficial/gamifying-ai-with-the-octalysis-framework-designing-motivation-into-intelligent-systems-ilc)
+- [The AI Bubble 2025: How the Boom Occurred and Transformed Industries Globally](https://dev.to/vanshsaxena/the-ai-bubble-2025-how-the-boom-occurred-and-transformed-industries-globally-5hcd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
