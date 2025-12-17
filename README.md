@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Regex Matching to Understanding Intent: How SafeLine WAF Uses Semantic Analysis](https://dev.to/arina_cholee/from-regex-matching-to-understanding-intent-how-safeline-waf-uses-semantic-analysis-2nmp)
-- [Oracle 23ai&#39;s Phantom Vector Memory: A Troubleshooting Guide](https://dev.to/smyekh/oracle-23ais-phantom-vector-memory-a-troubleshooting-guide-5a1j)
-- [Peas, Bacteria, and DNA: A Century-Long Pursuit of Genetic Truth](https://dev.to/editgene/peas-bacteria-and-dna-a-century-long-pursuit-of-genetic-truth-2ikh)
-- [SQL Access for AI Agents — Flexibility with Guardrails](https://dev.to/sanchar10/sql-access-for-ai-agents-flexibility-with-guardrails-e50)
-- [Node-gyp Errors? A Complete Guide to Fixing npm Install Failures](https://dev.to/bhuvanraj/node-gyp-errors-a-complete-guide-to-fixing-npm-install-failures-3lmk)
+- [5 unsexy data things to get right to make AI work](https://dev.to/hoshang_mehta/5-unsexy-data-things-to-get-right-to-make-ai-work-kok)
+- [How an Online Education Platform Survived Traffic Surges and CC Attacks During Peak Enrollment](https://dev.to/arina_cholee/how-an-online-education-platform-survived-traffic-surges-and-cc-attacks-during-peak-enrollment-18gl)
+- [Why File Units Still Matter in a Pixel‑Based World](https://dev.to/_7bdcbcaa99fbf1c9ea608c/why-file-units-still-matter-in-a-pixel-based-world-4hbd)
+- [Kashmir Trek: Balance Safety and Excitement While Camping](https://dev.to/ikhlascommunity/kashmir-trek-balance-safety-and-excitement-while-camping-1gmp)
+- [TMetric vs actiTIME for Jira Time Tracking Integration](https://dev.to/tmetric_timer_2b3a575fc8b/tmetric-vs-actitime-for-jira-time-tracking-integration-3l79)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
