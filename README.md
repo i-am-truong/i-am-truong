@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Software Development in the AI era](https://dev.to/xpromx/software-development-in-the-ai-era-3n3k)
-- [Mastering Cloud Security: A Strategic Guide to Securing Your AWS Environment](https://dev.to/kaths3cdev/mastering-cloud-security-a-strategic-guide-to-securing-your-aws-environment-17lg)
-- [Managing your Azure environment using natural language with Azure Copilot](https://dev.to/tidjani/managing-your-azure-environment-using-natural-language-with-azure-copilot-1f5o)
-- [Kiro Did It: Using Powers to Test Your APIs in Postman!](https://dev.to/bhatiagirish/kiro-did-it-using-powers-to-test-your-apis-in-postman-2mef)
-- [The Secret Life of Python: The Statue in the Memory](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-statue-in-the-memory-22d9)
+- [RAG-Augmented Agile Story Generation: An Architectural Framework for LLM-Powered Backlog Automation](https://dev.to/manasa_nandelli_707b6d6f2/rag-augmented-agile-story-generation-an-architectural-framework-for-llm-powered-backlog-automation-2md0)
+- [Amazon Kiro](https://dev.to/dmevanct/amazon-kiro-1ej9)
+- [Shout out to Reza Rosli! From hanging out with friends making a GenAI adventure game to exploring Zettelkasten for handwritten notes, he shows how these ideas can come together to build a shared product roadmap. Check out his latest Advent of Tech article.](https://dev.to/zainshafiq/shout-out-to-reza-rosli-from-hanging-out-with-friends-making-a-genai-adventure-game-to-exploring-5306)
+- [Blocking Web Scrapers with Fail2Ban + Nginx &lpar;Production Guide&rpar;](https://dev.to/ajitkumar/blocking-web-scrapers-with-fail2ban-nginx-production-guide-e67)
+- [IVFFlat Indexing in pgvector](https://dev.to/azayshrestha/ivfflat-indexing-in-pgvector-2cj0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
