@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Project Structure Checker](https://dev.to/m__mdy__m/project-structure-checker-4a7m)
-- [Title: Global Music Web Radio – Interactive Online Player | LiveHTML.net](https://dev.to/okan_kaplan_livehtml/title-global-music-web-radio-interactive-online-player-livehtmlnet-1nom)
-- [I built preview environments for Helm charts - here&#39;s Grafana deployed from a PR](https://dev.to/chartpreview/i-built-preview-environments-for-helm-charts-heres-grafana-deployed-from-a-pr-4eg3)
-- [C# Conditionals Mental Model — From `if &lpar;x &gt; 0&rpar;` to LLM‑Ready Decisions](https://dev.to/cristiansifuentes/c-conditionals-mental-model-from-if-x-0-to-llm-ready-decisions-1kn1)
-- [The 30-Second Hack That Will Speed Up Your Coding More Than Any Framework](https://dev.to/ackshaey/the-30-second-hack-that-will-speed-up-your-coding-more-than-any-framework-2men)
+- [238. Product of Array Except Self | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/238-product-of-array-except-self-leetcode-top-interview-150-coding-questions-2kja)
+- [Telnet: A Foundational Protocol in the History of Remote Access](https://dev.to/srijan-xi/telnet-a-foundational-protocol-in-the-history-of-remote-access-30cd)
+- [Predicting Glory: World Cup 2026 Matchup Breakdowns &amp; Trends](https://dev.to/mabualzait/predicting-glory-world-cup-2026-matchup-breakdowns-trends-535)
+- [Privacy-Preserving Active Learning for deep-sea exploration habitat design under real-time policy constraints](https://dev.to/rikinptl/privacy-preserving-active-learning-for-deep-sea-exploration-habitat-design-under-real-time-policy-14l0)
+- [Global AppState Architecture in SwiftUI](https://dev.to/sebastienlato/global-appstate-architecture-in-swiftui-pfe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
