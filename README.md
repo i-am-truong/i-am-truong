@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Automating code security in CI/CD: SonarCloud SAST guide &lpar;Part 3&rpar;](https://dev.to/vardan_matevosian_tech/automating-code-security-in-cicd-sonarcloud-sast-guide-part-3-37ln)
-- [How I Built In-App Workspace Switching for Multi-Repo Git Workflows](https://dev.to/iam_pbk/how-i-built-in-app-workspace-switching-for-multi-repo-git-workflows-4cbh)
-- [🛡️ Building a Mini Cloud Security Posture Management &lpar;CSPM&rpar; Lab Using AWS Security Hub + AWS Config](https://dev.to/ldwit/building-a-mini-cloud-security-posture-management-cspm-lab-using-aws-security-hub-aws-config-3c8o)
-- [[Boost]](https://dev.to/david_bussell14/-3o35)
-- [How to Manage Side Projects When You Have ADHD](https://dev.to/fedtti/how-to-manage-side-projects-when-you-have-adhd-imb)
+- [Port Numbers Quiz -- Ports Every Security Engineer Should Know](https://dev.to/fosres/port-numbers-quiz-ports-every-security-engineer-should-know-5784)
+- [Project Structure Checker](https://dev.to/m__mdy__m/project-structure-checker-2iof)
+- [Build with Gemini 3 Flash, frontier intelligence that scales with you](https://dev.to/googleai/build-with-gemini-3-flash-frontier-intelligence-that-scales-with-you-h87)
+- [I Read OpenAI’s GPT-5.2 Prompting Guide So You Don’t Have To](https://dev.to/tashfia_a8008e6a542/i-read-openais-gpt-52-prompting-guide-so-you-dont-have-to-1fb6)
+- [Why Most SaaS MVPs Fail in the First 90 Days &lpar;and How to Fix It&rpar;](https://dev.to/tashfia_a8008e6a542/why-most-saas-mvps-fail-in-the-first-90-days-and-how-to-fix-it-epm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
