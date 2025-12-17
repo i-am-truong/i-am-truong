@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [n8n + AI Agents: Automate Your Entire Lead Funnel](https://dev.to/ciphernutz/n8n-ai-agents-automate-your-entire-lead-funnel-5gk3)
-- [Cómo elegir una solución de reparación de pavimentos: 7 Criterios Técnicos published](https://dev.to/roiting_hacking_4d8d76800/como-elegir-una-solucion-de-reparacion-de-pavimentos-7-criterios-tecnicospublished-19e7)
-- [Cómo optimizar una web para SEO Local con datos estructurados](https://dev.to/roiting_hacking_4d8d76800/como-optimizar-una-web-para-seo-local-con-datos-estructurados-5go0)
-- [7 productivity app trends in 2026](https://dev.to/matt_iscanner/7-productivity-app-trends-in-2026-4epo)
-- [Outil de Cybersécurité du Jour - Dec 17, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-dec-17-2025-1e5b)
+- [Rise of Bharat: India’s Journey Toward a New Era of Growth and Global Leadership](https://dev.to/kavikr543/rise-of-bharat-indias-journey-toward-a-new-era-of-growth-and-global-leadership-4po1)
+- [ONLYOFFICE API updates: What’s new in December 2025](https://dev.to/onlyoffice/onlyoffice-api-updates-whats-new-in-december-2025-2i7)
+- [The Hidden Cost of Poor API Design in Growing Products](https://dev.to/shikharlodhi/the-hidden-cost-of-poor-api-design-in-growing-products-4akl)
+- [How we made email authentication actually usable inside editors and AI agents](https://dev.to/annika_grunewaldt_dd31030/how-we-made-email-authentication-actually-usable-inside-editors-and-ai-agents-i08)
+- [Implementing Passkeys Beyond the Demo](https://dev.to/adityapradhan10/implementing-passkeys-beyond-the-demo-124k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
