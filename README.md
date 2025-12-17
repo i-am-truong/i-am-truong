@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [5 unsexy data things to get right to make AI work](https://dev.to/hoshang_mehta/5-unsexy-data-things-to-get-right-to-make-ai-work-kok)
-- [How an Online Education Platform Survived Traffic Surges and CC Attacks During Peak Enrollment](https://dev.to/arina_cholee/how-an-online-education-platform-survived-traffic-surges-and-cc-attacks-during-peak-enrollment-18gl)
-- [Why File Units Still Matter in a Pixel‑Based World](https://dev.to/_7bdcbcaa99fbf1c9ea608c/why-file-units-still-matter-in-a-pixel-based-world-4hbd)
-- [Kashmir Trek: Balance Safety and Excitement While Camping](https://dev.to/ikhlascommunity/kashmir-trek-balance-safety-and-excitement-while-camping-1gmp)
-- [TMetric vs actiTIME for Jira Time Tracking Integration](https://dev.to/tmetric_timer_2b3a575fc8b/tmetric-vs-actitime-for-jira-time-tracking-integration-3l79)
+- [[Boost]](https://dev.to/anthonymax/-2g00)
+- [I Built &quot;GitJin&quot; - A Web App to Escape GitHub&#39;s Unusable Home Screen](https://dev.to/kabosutravel/i-built-gitjin-a-web-app-to-escape-githubs-unusable-home-screen-one)
+- [Deep Contribution and Wide Contribution](https://dev.to/stakiran/deep-contribution-and-wide-contribution-6di)
+- [WiRL e WebBroker](https://dev.to/lminuti/wirl-e-webbroker-60p)
+- [Java-8 &lpar;The Biggest Transformation&rpar;](https://dev.to/s_mathavi_2fa1e3ea8514f34/java-8-the-biggest-transformation-2i31)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
