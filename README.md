@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [¿Vuelve dBASE?](https://dev.to/baltasarq/vuelve-dbase-2975)
-- [Postgresus is live on Product Hunt — the open source PostgreSQL backup tool](https://dev.to/dmetrovich/postgresus-is-live-on-product-hunt-the-open-source-postgresql-backup-tool-5dc3)
-- [How to Improve Your Website’s UX Without a Full Redesign](https://dev.to/pixel_mosaic/how-to-improve-your-websites-ux-without-a-full-redesign-5d6b)
-- [Initial project of a website generator linked to GitHub](https://dev.to/ijacko_noodon_8da65e404e7/initial-project-of-a-website-linked-to-github-540d)
-- [How to scrape Google AI Mode: Detailed Guide in 2025](https://dev.to/oxylabs-io/how-to-scrape-google-ai-mode-detailed-guide-in-2025-1ig7)
+- [TorqueLogic: An AI-Driven Management Information System for High-Performance Fleet Management and Decision Support](https://dev.to/shakti_8ebe4de3f7031e2521/torquelogic-an-ai-driven-management-information-system-for-high-performance-fleet-management-and-dk9)
+- [How Early Success in Tech Almost Stalled My Growth](https://dev.to/meetrakib/how-early-success-in-tech-almost-stalled-my-growth-1bi8)
+- [❄️A Five-Minute UI Feature That Became an XSS Time Bomb](https://dev.to/sylwia-lask/a-five-minute-ui-feature-that-became-an-xss-time-bomb-f5i)
+- [Evolutionary Algorithms, Rendered Live in Node.js](https://dev.to/sfundomhlungu/evolutionary-algorithms-rendered-live-in-nodejs-282a)
+- [Building A Distributed Video Transcoding System with Node.js.](https://dev.to/sfundomhlungu/building-a-distributed-video-transcoding-system-with-nodejs-3ko2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
