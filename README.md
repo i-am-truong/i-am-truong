@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop treating your AI like a goldfish. Here is how to give it long-term memory.](https://dev.to/the_nortern_dev/stop-treating-your-ai-like-a-goldfish-here-is-how-to-give-it-long-term-memory-56la)
-- [AWS re:Invent 2025: Serverless and Storage Get an AI-Powered Overhaul!](https://dev.to/dataformathub/aws-reinvent-2025-serverless-and-storage-get-an-ai-powered-overhaul-4fi4)
-- [Why Enterprises Are Adopting Low-Code and No-Code Platforms](https://dev.to/parthspan/why-enterprises-are-adopting-low-code-and-no-code-platforms-2doc)
-- [Turning a Shopify Store Into a Mobile App: MageNative’s Technical Deep Dive](https://dev.to/anusha_ansari_2bb821c1b4e/turning-a-shopify-store-into-a-mobile-app-magenatives-technical-deep-dive-11b0)
-- [Developer Spotlight: The State of AI in Workspace Development](https://dev.to/googleworkspace/developer-spotlight-the-state-of-ai-in-workspace-development-5f30)
+- [¿Vuelve dBASE?](https://dev.to/baltasarq/vuelve-dbase-2975)
+- [Postgresus is live on Product Hunt — the open source PostgreSQL backup tool](https://dev.to/dmetrovich/postgresus-is-live-on-product-hunt-the-open-source-postgresql-backup-tool-5dc3)
+- [How to Improve Your Website’s UX Without a Full Redesign](https://dev.to/pixel_mosaic/how-to-improve-your-websites-ux-without-a-full-redesign-5d6b)
+- [Initial project of a website generator linked to GitHub](https://dev.to/ijacko_noodon_8da65e404e7/initial-project-of-a-website-linked-to-github-540d)
+- [How to scrape Google AI Mode: Detailed Guide in 2025](https://dev.to/oxylabs-io/how-to-scrape-google-ai-mode-detailed-guide-in-2025-1ig7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
