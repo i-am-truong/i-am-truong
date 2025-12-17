@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [New Vulnerabilities in runC Allow Container Escape](https://dev.to/minimus/new-vulnerabilities-in-runc-allow-container-escape-3nmk)
-- [How are some users receiving OTPs before the website enables “Send OTP” and before captcha completion?](https://dev.to/anurag_bansal_6316253b07e/how-are-some-users-receiving-otps-before-the-website-enables-send-otp-and-before-captcha-2fc6)
-- [Why Machine Learning Basics Are Critical in 2025](https://dev.to/seo_seo26master_29e8b33e6/why-machine-learning-basics-are-critical-in-2025-2jm7)
-- [Day 10 of My Web Dev Journey — Mastering CSS Positions: Absolute, Relative, Fixed &amp; Sticky](https://dev.to/bblackwind/day-10-of-my-web-dev-journey-mastering-css-positions-absolute-relative-fixed-sticky-5bl3)
-- [How to Reduce LLM Costs by 40% in 24 Hours &lpar;2025&rpar;](https://dev.to/scalemind/how-to-reduce-llm-costs-by-40-in-24-hours-2025-40k0)
+- [iOS 26.2 Released: What Devs Need to Know](https://dev.to/arshtechpro/ios-262-released-what-devs-need-to-know-481l)
+- [From Beginner to Pro: Setting Up a TypeScript NestJS Backend with Prisma](https://dev.to/rajat128/from-beginner-to-pro-setting-up-a-typescript-nestjs-backend-with-prisma-bn5)
+- [Preparing for the Google Cloud Professional Data Engineer Exam: Your 2026 Roadmap](https://dev.to/tech_croc_f32fbb6ea8ed4/preparing-for-the-google-cloud-professional-data-engineer-exam-your-2026-roadmap-imj)
+- [I Was Building “Good Websites” That Didn’t Convert — So I Switched to Funnels](https://dev.to/bennie_tay_5048df221b2086/i-was-building-good-websites-that-didnt-convert-so-i-switched-to-funnels-be9)
+- [Plain Text to HTML without Losing Formatting](https://dev.to/froala_e3824d66439393cbce/plain-text-to-html-without-losing-formatting-4o7e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
