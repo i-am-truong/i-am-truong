@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Old-School Multi-App Workflows Are Dying: Adobe Just Moved Into Your Chat Window](https://dev.to/aiwithapex/old-school-multi-app-workflows-are-dying-adobe-just-moved-into-your-chat-window-593a)
-- [Firehose and Iceberg Tables](https://dev.to/dmevanct/kinesis-and-iceberg-tables-p6f)
-- [Stop Reinventing the Wheel: 5 Hidden Gems in PrestaShop&#39;s Tools.php File](https://dev.to/ndabene/stop-reinventing-the-wheel-5-hidden-gems-in-prestashops-toolsphp-file-279f)
-- [Gamifying AI with the Octalysis Framework: Designing Motivation Into Intelligent Systems](https://dev.to/yujofficial/gamifying-ai-with-the-octalysis-framework-designing-motivation-into-intelligent-systems-ilc)
-- [The AI Bubble 2025: How the Boom Occurred and Transformed Industries Globally](https://dev.to/vanshsaxena/the-ai-bubble-2025-how-the-boom-occurred-and-transformed-industries-globally-5hcd)
+- [Advent of AI - Day 12: MCP Sampling](https://dev.to/nickytonline/advent-of-ai-day-12-mcp-sampling-29b4)
+- [I Completed 45 Lambda Function Exercises &lpar;And I&#39;m Still a Beginner!&rpar;](https://dev.to/hejhdiss/i-completed-45-lambda-function-exercises-and-im-still-a-beginner-2m40)
+- [🚀Node.js Microservices: Zero to Cloud &lpar;Complete Hands-on Series&rpar;](https://dev.to/shafqat_awan_79b9dbd88cda/nodejs-microservices-zero-to-cloud-complete-hands-on-series-15oh)
+- [**Llamado a la Acción: Fortaleciendo el Cumplimiento Normati](https://dev.to/drcarlosruizviquez/llamado-a-la-accion-fortaleciendo-el-cumplimiento-normati-35j9)
+- [Why Desktop Text-to-Speech Is Beating Cloud Tools in 2025](https://dev.to/sujit_singh_4a6ea64d77af0/why-desktop-text-to-speech-is-beating-cloud-tools-in-2025-3f6l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
