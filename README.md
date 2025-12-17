@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [LUMOS vs Codama: Understanding Solana&#39;s Schema Generation Tools](https://dev.to/getlumos/lumos-vs-codama-understanding-solanas-schema-generation-tools-15i7)
-- [7 Essential Libraries for Modern Node.js Backend Development](https://dev.to/james_miller_8dc58a89cb9e/7-essential-libraries-for-modern-nodejs-backend-development-1l22)
-- [Memory Game – LiveHTML | Okan Kaplan](https://dev.to/okan_kaplan_livehtml/memory-game-livehtml-okan-kaplan-24pa)
-- [How to Build a Full-Stack App With TanStack Start and MongoDB](https://dev.to/mongodb/how-to-build-a-full-stack-app-with-tanstack-start-and-mongodb-21do)
-- [MindsEye &amp; MindScript: A Ledger-First Cognitive Architecture Technical Whitepaper v4.0](https://dev.to/peacebinflow/mindseye-mindscript-a-ledger-first-cognitive-architecture-technical-whitepaper-v40-48kd)
+- [Migrating from Manual Borsh to LUMOS: A Step-by-Step Guide](https://dev.to/getlumos/migrating-from-manual-borsh-to-lumos-a-step-by-step-guide-444g)
+- [LUMOS + Anchor: The Perfect Combo for Solana Development](https://dev.to/getlumos/lumos-anchor-the-perfect-combo-for-solana-development-472d)
+- [Type-Safe Rust ↔ TypeScript Communication for Solana](https://dev.to/getlumos/type-safe-rust-typescript-communication-for-solana-3nd0)
+- [135. Candy | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/135-candy-leetcode-top-interview-150-coding-questions-1hck)
+- [Use LUMOS Without Installing Rust - npm Package Guide](https://dev.to/getlumos/use-lumos-without-installing-rust-npm-package-guide-4d11)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
