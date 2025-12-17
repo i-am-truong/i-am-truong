@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AWS Knowledge Bases: Building Intelligent, Context-Aware Applications at Scale](https://dev.to/brayanarrieta/aws-knowledge-bases-building-intelligent-context-aware-applications-at-scale-1me1)
-- [Multi-tenant Loki on Kubernetes](https://dev.to/siddarth2810/multi-tenant-loki-on-kubernetes-o17)
-- [How Sync SaaS Metrics Improve Revenue Visibility and Operational Clarity](https://dev.to/fiona_blackwood_07/how-sync-saas-metrics-improve-revenue-visibility-and-operational-clarity-4k8)
-- [Leetcode 39 Combination Sum](https://dev.to/wincyysh/leetcode-39-combination-sum-4o4k)
-- [Data vs Behavior in Rust](https://dev.to/sumana10/data-vs-behavior-in-rust-4mk4)
+- [NumPy: An Engineer-Level Guide to Arrays, Math, Randomness, and Linear Algebra](https://dev.to/bodhitiwari/numpy-an-engineer-level-guide-to-arrays-math-randomness-and-linear-algebra-22o6)
+- [Day 67: Python Shortest Path in Unweighted Graph - BFS Queue Magic for O&lpar;V+E&rpar; Routing Mastery &lpar;LeetCode Vibes&rpar;](https://dev.to/shahrouzlogs/day-67-python-shortest-path-in-unweighted-graph-bfs-queue-magic-for-ove-routing-mastery-mie)
+- [AI-assisted development in 2025: the problem is no longer the code](https://dev.to/jasen_dev/ai-assisted-development-in-2025-the-problem-is-no-longer-the-code-452e)
+- [Stop letting bloated web tools slow down your workflow &lpar;and RAM&rpar; 🛑](https://dev.to/sehgalspandan/stop-letting-bloated-web-tools-slow-down-your-workflow-and-ram-1d58)
+- [New to a Large Project? This Is How I Decode Complex Databases](https://dev.to/br-lovanshi/new-to-a-large-project-this-is-how-i-decode-complex-databases-422j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
