@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Advent of AI - Day 12: MCP Sampling](https://dev.to/nickytonline/advent-of-ai-day-12-mcp-sampling-29b4)
-- [I Completed 45 Lambda Function Exercises &lpar;And I&#39;m Still a Beginner!&rpar;](https://dev.to/hejhdiss/i-completed-45-lambda-function-exercises-and-im-still-a-beginner-2m40)
-- [🚀Node.js Microservices: Zero to Cloud &lpar;Complete Hands-on Series&rpar;](https://dev.to/shafqat_awan_79b9dbd88cda/nodejs-microservices-zero-to-cloud-complete-hands-on-series-15oh)
-- [**Llamado a la Acción: Fortaleciendo el Cumplimiento Normati](https://dev.to/drcarlosruizviquez/llamado-a-la-accion-fortaleciendo-el-cumplimiento-normati-35j9)
-- [Why Desktop Text-to-Speech Is Beating Cloud Tools in 2025](https://dev.to/sujit_singh_4a6ea64d77af0/why-desktop-text-to-speech-is-beating-cloud-tools-in-2025-3f6l)
+- [Solving Access Denied Issues After SSE Implementation in Spring Security](https://dev.to/junyoungmoon/solving-access-denied-issues-after-sse-implementation-in-spring-security-3nd4)
+- [Linux distros](https://dev.to/erlan_akbar/linux-distros-5cbe)
+- [CSS Combinators Explained: A Practical Guide for Web Developers](https://dev.to/satyam_gupta_0d1ff2152dcc/css-combinators-explained-a-practical-guide-for-web-developers-30fe)
+- [MEXQuick Legit Analysis: What Corporate Documents Confirm](https://dev.to/mexquickorg/mexquick-legit-analysis-what-corporate-documents-confirm-1c6a)
+- [System Design in a Hurry: How to Recover When You Realize Your Design Is Wrong](https://dev.to/dev_loops/system-design-in-a-hurry-how-to-recover-when-you-realize-your-design-is-wrong-51a1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
