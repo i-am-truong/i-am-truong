@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: The 2022 Movie Draft](https://dev.to/popcorn_movies/ringer-movies-the-2022-movie-draft-1lme)
-- [Ringer Movies: And the Oscars Go to … YouTube?!](https://dev.to/popcorn_movies/ringer-movies-and-the-oscars-go-to-youtube-3lo2)
-- [Why Bf-Tree Pins Inner Nodes and What That Unlocks](https://dev.to/lovestaco/why-bf-tree-pins-inner-nodes-and-what-that-unlocks-566k)
-- [Artificial Intelligence as a Source of Competitive Advantage](https://dev.to/martin1988lisa/artificial-intelligence-as-a-source-of-competitive-advantage-4gp7)
-- [238. Product of Array Except Self | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/238-product-of-array-except-self-leetcode-top-interview-150-coding-questions-2kja)
+- [How to Build a Full-Stack App With TanStack Start and MongoDB](https://dev.to/mongodb/how-to-build-a-full-stack-app-with-tanstack-start-and-mongodb-21do)
+- [MindsEye &amp; MindScript: A Ledger-First Cognitive Architecture Technical Whitepaper v4.0](https://dev.to/peacebinflow/mindseye-mindscript-a-ledger-first-cognitive-architecture-technical-whitepaper-v40-48kd)
+- [Keep Cursor IDE Updated Automatically on Linux with cursor-updater](https://dev.to/takiuddinahmed/keep-cursor-ide-updated-automatically-on-linux-with-cursor-updater-2dm0)
+- [7x7 Snake Game – LiveHTML | Okan Kaplan](https://dev.to/okan_kaplan_livehtml/7x7-snake-game-livehtml-okan-kaplan-48mi)
+- [Coding Challenge Practice - Question 81](https://dev.to/tomivan/coding-challenge-practice-question-81-4750)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
