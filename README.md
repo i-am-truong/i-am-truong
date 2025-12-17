@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [TorqueLogic: An AI-Driven Management Information System for High-Performance Fleet Management and Decision Support](https://dev.to/shakti_8ebe4de3f7031e2521/torquelogic-an-ai-driven-management-information-system-for-high-performance-fleet-management-and-dk9)
-- [How Early Success in Tech Almost Stalled My Growth](https://dev.to/meetrakib/how-early-success-in-tech-almost-stalled-my-growth-1bi8)
-- [❄️A Five-Minute UI Feature That Became an XSS Time Bomb](https://dev.to/sylwia-lask/a-five-minute-ui-feature-that-became-an-xss-time-bomb-f5i)
-- [Evolutionary Algorithms, Rendered Live in Node.js](https://dev.to/sfundomhlungu/evolutionary-algorithms-rendered-live-in-nodejs-282a)
-- [Building A Distributed Video Transcoding System with Node.js.](https://dev.to/sfundomhlungu/building-a-distributed-video-transcoding-system-with-nodejs-3ko2)
+- [Amazon EKS Series - Part 2: EKS Architecture and Core Components](https://dev.to/bansikah/amazon-eks-series-part-2-eks-architecture-and-core-components-36gk)
+- [[Boost]](https://dev.to/anthonymax/-3gh3)
+- [Gateway Integration Agent: How We Cut Payment Gateway Integration Time from Weeks to Days](https://dev.to/razorpaytech/gateway-integration-agent-how-we-cut-payment-gateway-integration-time-from-weeks-to-days-4cfk)
+- [🚀 Launching Vyoma Labs: A Research-First Space for Building the Future of the Web](https://dev.to/pjdeveloper896/launching-vyoma-labs-a-research-first-space-for-building-the-future-of-the-web-4973)
+- [13 Open Source Gems To Become The Ultimate Developer 🔥](https://dev.to/anthonymax/12-open-source-gems-to-become-the-ultimate-developer-553j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
