@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Load Balancer vs API Gateway &lpar;can one replace other&rpar;](https://dev.to/rahulvijayvergiya/load-balancer-vs-api-gateway-can-one-replace-other-3271)
-- [How Website Bans Really Work: Role of Governments and ISPs](https://dev.to/zopdev/how-website-bans-really-work-role-of-governments-and-isps-oaj)
-- [Wrangler “write EOF” on Windows: The Actual Fix](https://dev.to/mrtoxas/wrangler-write-eof-on-windows-the-actual-fix-31aj)
-- [Teaching AI Modern Go: Solving the &quot;Stuck-in-the-Past&quot; Problem with Antigravity](https://dev.to/sekimori_roma/teaching-ai-modern-go-solving-the-stuck-in-the-past-problem-with-antigravity-37l0)
-- [Data Annotation: Powering Accurate and Scalable AI Systems](https://dev.to/ai_personic2025_012c32722/data-annotation-powering-accurate-and-scalable-ai-systems-737)
+- [AI Tools for Developer Productivity: Hype vs. Reality in 2025](https://dev.to/luciench/ai-tools-for-developer-productivity-hype-vs-reality-in-2025-480d)
+- [Beyond Automation: How CI/CD Pipelines Power Faster, Safer Software Delivery](https://dev.to/khushi_jitani_ca127abdedd/beyond-automation-how-cicd-pipelines-power-faster-safer-software-delivery-2co4)
+- [How to Bulk Delete Emails on Gmail for a Faster, Cleaner Inbox](https://dev.to/averygriffin1/how-to-bulk-delete-emails-on-gmail-for-a-faster-cleaner-inbox-50en)
+- [Ethereum vs Solana: Consensus in Action](https://dev.to/ribhavmodi/ethereum-vs-solana-consensus-in-action-1p4p)
+- [AWS CodeDeploy: A Beginner-Friendly Guide to Automated Deployments](https://dev.to/egepakten/aws-codedeploy-a-beginner-friendly-guide-to-automated-deployments-2ncn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
