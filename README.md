@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Notes from Building My Second AI Video Site](https://dev.to/lynn123456/notes-from-building-my-second-ai-video-site-44nl)
-- [From a Pyodide Wrapper to an Edge AI Engine](https://dev.to/s_b_yrrah/from-a-pyodide-wrapper-to-an-edge-ai-engine-1ejl)
-- [GoGPU: From Idea to 100K Lines in Two Weeks — Building Go&#39;s GPU Ecosystem](https://dev.to/kolkov/gogpu-from-idea-to-100k-lines-in-two-weeks-building-gos-gpu-ecosystem-3b2)
-- [Building a Style-Aware AI Image Generator with Nano Bana, React, and Hono.](https://dev.to/magicnull/building-a-style-aware-ai-image-generator-with-nano-bana-react-and-hono-1a8d)
-- [Kavia v1.0.9: Interactive agents, SCM onboarding, and persistent code context](https://dev.to/kavita_kavia/kavia-v109-interactive-agents-scm-onboarding-and-persistent-code-context-3g92)
+- [Software Development in the AI era](https://dev.to/xpromx/software-development-in-the-ai-era-3n3k)
+- [Mastering Cloud Security: A Strategic Guide to Securing Your AWS Environment](https://dev.to/kaths3cdev/mastering-cloud-security-a-strategic-guide-to-securing-your-aws-environment-17lg)
+- [Managing your Azure environment using natural language with Azure Copilot](https://dev.to/tidjani/managing-your-azure-environment-using-natural-language-with-azure-copilot-1f5o)
+- [Kiro Did It: Using Powers to Test Your APIs in Postman!](https://dev.to/bhatiagirish/kiro-did-it-using-powers-to-test-your-apis-in-postman-2mef)
+- [The Secret Life of Python: The Statue in the Memory](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-statue-in-the-memory-22d9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
