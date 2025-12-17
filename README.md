@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Solving Access Denied Issues After SSE Implementation in Spring Security](https://dev.to/junyoungmoon/solving-access-denied-issues-after-sse-implementation-in-spring-security-3nd4)
-- [Linux distros](https://dev.to/erlan_akbar/linux-distros-5cbe)
-- [CSS Combinators Explained: A Practical Guide for Web Developers](https://dev.to/satyam_gupta_0d1ff2152dcc/css-combinators-explained-a-practical-guide-for-web-developers-30fe)
-- [MEXQuick Legit Analysis: What Corporate Documents Confirm](https://dev.to/mexquickorg/mexquick-legit-analysis-what-corporate-documents-confirm-1c6a)
-- [System Design in a Hurry: How to Recover When You Realize Your Design Is Wrong](https://dev.to/dev_loops/system-design-in-a-hurry-how-to-recover-when-you-realize-your-design-is-wrong-51a1)
+- [10 Must-Know VS Code Extensions for Supercharged ⚡ Development in 2026 🚀](https://dev.to/thebitforge/10-must-know-vs-code-extensions-for-supercharged-development-in-2026-5c8a)
+- [Image Upload Attack: Security Analysis &amp; Prevention Guide](https://dev.to/keat_porhong/image-upload-attack-security-analysis-prevention-guide-333e)
+- [What are the main functions of a Grandmaster Clock in a network?](https://dev.to/khushi_communication/what-are-the-main-functions-of-a-grandmaster-clock-in-a-network-591k)
+- [Sheet-to-Doc: Automate Document Generation with Excel Data and Word Templates](https://dev.to/wtsolutions/sheet-to-doc-automate-document-generation-with-excel-data-and-word-templates-4dk5)
+- [Stone Coated Metal Roofing: The Ultimate Guide to Strength, Style &amp; Long-Term Value](https://dev.to/technonicol_india_56f2d0c/stone-coated-metal-roofing-the-ultimate-guide-to-strength-style-long-term-value-17p6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
