@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 1288 : Lake](https://dev.to/dwane/day-1288-lake-1gi5)
+- [Rate limiters with node:http and redis](https://dev.to/danimydev/rate-limiters-with-nodehttp-and-redis-2330)
 - [Migrating from Manual Borsh to LUMOS: A Step-by-Step Guide](https://dev.to/getlumos/migrating-from-manual-borsh-to-lumos-a-step-by-step-guide-444g)
 - [LUMOS + Anchor: The Perfect Combo for Solana Development](https://dev.to/getlumos/lumos-anchor-the-perfect-combo-for-solana-development-472d)
 - [Type-Safe Rust ↔ TypeScript Communication for Solana](https://dev.to/getlumos/type-safe-rust-typescript-communication-for-solana-3nd0)
-- [LUMOS in 5 Minutes: Your First Solana Schema](https://dev.to/getlumos/lumos-in-5-minutes-your-first-solana-schema-3k7p)
-- [Use LUMOS Without Installing Rust - npm Package Guide](https://dev.to/getlumos/use-lumos-without-installing-rust-npm-package-guide-4d11)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
