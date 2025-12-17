@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Incident Communication That Actually Works During Outages and Security Breaches](https://dev.to/sonia_bobrik_1939cdddd79d/incident-communication-that-actually-works-during-outages-and-security-breaches-3g2h)
-- [Do Caos ao Fluxo Perfeito: Minha Experiência Automatizando uma Migração Real Gigantesca no GitLab &lpar;4.000 Repos&rpar;](https://dev.to/claudiodevops/do-caos-ao-fluxo-perfeito-minha-experiencia-automatizando-uma-migracao-real-gigantesca-no-gitlab-47a8)
-- [LIVEHTML.net Sudoku Generator](https://dev.to/okan_kaplan_livehtml/livehtmlnet-sudoku-generator-32nk)
-- [Verification Nodes: The Difference Between Playable and Production Agents](https://dev.to/dowhatmatters/verification-nodes-the-difference-between-playable-and-production-agents-4mjd)
-- [What I learned building my website](https://dev.to/studexaidevelpoer/what-i-learned-building-my-website-47n6)
+- [What I Learned Building and Maintaining a Free Tools Website as a Developer](https://dev.to/mohit_kumar_singla/what-i-learned-building-and-maintaining-a-free-tools-website-as-a-developer-3hi3)
+- [Cobra in Go: How to Create Easy-to-Use Command-Line Tools](https://dev.to/rijultp/cobra-in-go-how-to-create-easy-to-use-command-line-tools-4dhb)
+- [Testing AI Systems: Handling the Test Oracle Problem](https://dev.to/qa-leaders/testing-ai-systems-handling-the-test-oracle-problem-3038)
+- [Turning Small Python Scripts into Real, Usable Tools](https://dev.to/silent_f76b5c97a44c15a4d1/turning-small-python-scripts-into-real-usable-tools-2cob)
+- [From Chaos to Perfect Flow: My Experience Automating a Massive Real GitLab Migration &lpar;4,000 Repos&rpar;](https://dev.to/claudiodevops/from-chaos-to-perfect-flow-my-experience-automating-a-massive-real-gitlab-migration-4000-repos-2p2f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
