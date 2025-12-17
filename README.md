@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I built preview environments for Helm charts - here&#39;s Grafana deployed from a PR](https://dev.to/chartpreview/i-built-preview-environments-for-helm-charts-heres-grafana-deployed-from-a-pr-4eg3)
+- [C# Conditionals Mental Model — From `if &lpar;x &gt; 0&rpar;` to LLM‑Ready Decisions](https://dev.to/cristiansifuentes/c-conditionals-mental-model-from-if-x-0-to-llm-ready-decisions-1kn1)
+- [The 30-Second Hack That Will Speed Up Your Coding More Than Any Framework](https://dev.to/ackshaey/the-30-second-hack-that-will-speed-up-your-coding-more-than-any-framework-2men)
 - [Productionizing Model Context Protocol Servers](https://dev.to/onlineproxyio/productionizing-model-context-protocol-servers-o7g)
 - [How to Debug LeetCode Solutions When Test Cases Fail: A Systematic Approach](https://dev.to/alex_hunter_44f4c9ed6671e/how-to-debug-leetcode-solutions-when-test-cases-fail-a-systematic-approach-2ei4)
-- [luz head](https://dev.to/badbuilders/luz-head-552f)
-- [How to Prepare for Q1 Performance Reviews Right Now](https://dev.to/nataliaherself/how-to-prepare-for-q1-performance-reviews-right-now-b2m)
-- [Fixing Prometheus namespace monitoring](https://dev.to/santispavajeau/fixing-prometheus-namespace-monitoring-31bh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
