@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What I Learned Building and Maintaining a Free Tools Website as a Developer](https://dev.to/mohit_kumar_singla/what-i-learned-building-and-maintaining-a-free-tools-website-as-a-developer-3hi3)
-- [Cobra in Go: How to Create Easy-to-Use Command-Line Tools](https://dev.to/rijultp/cobra-in-go-how-to-create-easy-to-use-command-line-tools-4dhb)
-- [Testing AI Systems: Handling the Test Oracle Problem](https://dev.to/qa-leaders/testing-ai-systems-handling-the-test-oracle-problem-3038)
-- [Turning Small Python Scripts into Real, Usable Tools](https://dev.to/silent_f76b5c97a44c15a4d1/turning-small-python-scripts-into-real-usable-tools-2cob)
-- [From Chaos to Perfect Flow: My Experience Automating a Massive Real GitLab Migration &lpar;4,000 Repos&rpar;](https://dev.to/claudiodevops/from-chaos-to-perfect-flow-my-experience-automating-a-massive-real-gitlab-migration-4000-repos-2p2f)
+- [How to Prepare for Q1 Performance Reviews Right Now](https://dev.to/nataliaherself/how-to-prepare-for-q1-performance-reviews-right-now-b2m)
+- [Fixing Prometheus namespace monitoring](https://dev.to/santispavajeau/fixing-prometheus-namespace-monitoring-31bh)
+- [I built a QR Code API and here&#39;s what I learned](https://dev.to/malachi_stark_/i-built-a-qr-code-api-and-heres-what-i-learned-3l5g)
+- [How We Built Mathematically Provable Smart Contract Security with Lean4](https://dev.to/chronosvault/how-we-built-mathematically-provable-smart-contract-security-with-lean4-596b)
+- [Chess Game Simulation– Interactive Chessboard with Move History &lpar;Vanilla JS&rpar;](https://dev.to/okan_kaplan_livehtml/chess-game-simulation-interactive-chessboard-with-move-history-vanilla-js-38ng)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
