@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Polymarket-Style Prediction Engine with RisingWave](https://dev.to/__354f265b41dafa0d901b/building-a-polymarket-style-prediction-engine-with-risingwave-3672)
-- [Day 20: Terraform Custom Modules for EKS](https://dev.to/anil_kumar_noolu/day-20-terraform-custom-modules-for-eks-31lh)
-- [PHP Killed Dynamic Properties. Here&#39;s Why &lpar;And What to Do&rpar;](https://dev.to/laravel_mastery_ffd9d10ec/php-killed-dynamic-properties-heres-why-and-what-to-do-3knh)
-- [LLM evaluation guide: When to add online evals to your AI application](https://dev.to/launchdarkly/llm-evaluation-guide-when-to-add-online-evals-to-your-ai-application-mo5)
-- [Change Intelligence: Using Insights to Accelerate Improvement Adoption](https://dev.to/adam_6c643bf042cc5aa6ca6f/change-intelligence-using-insights-to-accelerate-improvement-adoption-7f)
+- [Automating code security in CI/CD: SonarCloud SAST guide &lpar;Part 3&rpar;](https://dev.to/vardan_matevosian_tech/automating-code-security-in-cicd-sonarcloud-sast-guide-part-3-37ln)
+- [How I Built In-App Workspace Switching for Multi-Repo Git Workflows](https://dev.to/iam_pbk/how-i-built-in-app-workspace-switching-for-multi-repo-git-workflows-4cbh)
+- [🛡️ Building a Mini Cloud Security Posture Management &lpar;CSPM&rpar; Lab Using AWS Security Hub + AWS Config](https://dev.to/ldwit/building-a-mini-cloud-security-posture-management-cspm-lab-using-aws-security-hub-aws-config-3c8o)
+- [[Boost]](https://dev.to/david_bussell14/-3o35)
+- [How to Manage Side Projects When You Have ADHD](https://dev.to/fedtti/how-to-manage-side-projects-when-you-have-adhd-imb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
