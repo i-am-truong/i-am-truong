@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I spent years mastering Git, then Lazygit made me faster in a week.](https://dev.to/dev_tips/i-spent-years-mastering-git-then-lazygit-made-me-faster-in-a-week-79b)
+- [Why I Spent Two Years Sending Hundreds of Applications—And Got Nothing](https://dev.to/codev206/why-i-spent-two-years-sending-hundreds-of-applications-and-got-nothing-6j4)
+- [PostgREST vs RESTHeart](https://dev.to/mkjsix/postgrest-vs-restheart-3n0j)
 - [Choosing AI Code Review Tools for Enterprises and Startups](https://dev.to/yeahiasarker/choosing-ai-code-review-tools-for-enterprises-and-startups-180j)
-- [Legacy Code Got You Crying? Batch Docs Can Help](https://dev.to/notadevbuthere/legacy-code-got-you-crying-batch-docs-can-help-3khl)
-- [Build Production-Ready Go APIs 10x Faster in 2026: The AI-First Developer’s Guide](https://dev.to/vahiiiid/build-production-ready-go-apis-10x-faster-in-2026-the-ai-first-developers-guide-51io)
-- [How IPv6 Solves the NAT Problem and Why It Matters for the Modern Internet](https://dev.to/lightningdev123/how-ipv6-solves-the-nat-problem-and-why-it-matters-for-the-modern-internet-2job)
-- [Why I Built the Most Complete Nutrition API &lpar;With 25+ Nutrients in the Free Tier&rpar;](https://dev.to/ra_vi_51d9667e07aa0984631/why-i-built-the-most-complete-nutrition-api-with-25-nutrients-in-the-free-tier-hco)
+- [Stop Writing &#39;Happy Path&#39; Tests: How to Generate Bulletproof Unit Tests with AI](https://dev.to/huizhudev/stop-writing-happy-path-tests-how-to-generate-bulletproof-unit-tests-with-ai-4ec7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
