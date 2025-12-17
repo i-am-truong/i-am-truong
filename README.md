@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Oracle 23ai&#39;s Phantom Vector Memory: A Troubleshooting Guide](https://dev.to/smyekh/oracle-23ais-phantom-vector-memory-a-troubleshooting-guide-5a1j)
+- [Peas, Bacteria, and DNA: A Century-Long Pursuit of Genetic Truth](https://dev.to/editgene/peas-bacteria-and-dna-a-century-long-pursuit-of-genetic-truth-2ikh)
+- [SQL Access for AI Agents — Flexibility with Guardrails](https://dev.to/sanchar10/sql-access-for-ai-agents-flexibility-with-guardrails-e50)
+- [Node-gyp Errors? A Complete Guide to Fixing npm Install Failures](https://dev.to/bhuvanraj/node-gyp-errors-a-complete-guide-to-fixing-npm-install-failures-3lmk)
 - [Top Security Frameworks Supporting RWA Tokenization Platform Development](https://dev.to/brucewayne12/top-security-frameworks-supporting-rwa-tokenization-platform-development-3991)
-- [Event-Driven Architecture Part 2: Event Streaming and Pub/Sub Patterns](https://dev.to/outdated-dev/event-driven-architecture-part-2-event-streaming-and-pubsub-patterns-5b1k)
-- [Why is my hotel’s website barely showing up in local search results even after investing in SEO?](https://dev.to/__eb2f56b93/why-is-my-hotels-website-barely-showing-up-in-local-search-results-even-after-investing-in-seo-35la)
-- [AI Background Remover: How AI Detects Objects and Separates Backgrounds](https://dev.to/freepixel11/ai-background-remover-how-ai-detects-objects-and-separates-backgrounds-1pkn)
-- [Blind Source Separation for automatic speech recognition: How Machines Learn to Untangle Mixed Signals](https://dev.to/awesomeaudioai/blind-source-separation-for-automatic-speech-recognition-how-machines-learn-to-untangle-mixed-42d9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
