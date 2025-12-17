@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [UI Patterns Frontend Developers Must Know &lpar;That Most Devs Ignore&rpar;](https://dev.to/homayounmmdy/ui-patterns-frontend-developers-must-know-that-most-devs-ignore-26md)
+- [🚀 Técnicas Avançadas em PHP: Além do Convencional](https://dev.to/cristianbernardes/tecnicas-avancadas-em-php-alem-do-convencional-p64)
+- [WBS Resource Allocation: Why Larger Teams Aren&#39;t Always Faster](https://dev.to/_jeongyuhyeon_03de1/wbs-resource-allocation-why-larger-teams-arent-always-faster-31oi)
 - [iOS 26.2 Released: What Devs Need to Know](https://dev.to/arshtechpro/ios-262-released-what-devs-need-to-know-481l)
 - [From Beginner to Pro: Setting Up a TypeScript NestJS Backend with Prisma](https://dev.to/rajat128/from-beginner-to-pro-setting-up-a-typescript-nestjs-backend-with-prisma-bn5)
-- [Preparing for the Google Cloud Professional Data Engineer Exam: Your 2026 Roadmap](https://dev.to/tech_croc_f32fbb6ea8ed4/preparing-for-the-google-cloud-professional-data-engineer-exam-your-2026-roadmap-imj)
-- [I Was Building “Good Websites” That Didn’t Convert — So I Switched to Funnels](https://dev.to/bennie_tay_5048df221b2086/i-was-building-good-websites-that-didnt-convert-so-i-switched-to-funnels-be9)
-- [Plain Text to HTML without Losing Formatting](https://dev.to/froala_e3824d66439393cbce/plain-text-to-html-without-losing-formatting-4o7e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
