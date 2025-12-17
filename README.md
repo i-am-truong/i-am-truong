@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [UI Patterns Frontend Developers Must Know &lpar;That Most Devs Ignore&rpar;](https://dev.to/homayounmmdy/ui-patterns-frontend-developers-must-know-that-most-devs-ignore-26md)
-- [🚀 Técnicas Avançadas em PHP: Além do Convencional](https://dev.to/cristianbernardes/tecnicas-avancadas-em-php-alem-do-convencional-p64)
-- [WBS Resource Allocation: Why Larger Teams Aren&#39;t Always Faster](https://dev.to/_jeongyuhyeon_03de1/wbs-resource-allocation-why-larger-teams-arent-always-faster-31oi)
-- [iOS 26.2 Released: What Devs Need to Know](https://dev.to/arshtechpro/ios-262-released-what-devs-need-to-know-481l)
-- [From Beginner to Pro: Setting Up a TypeScript NestJS Backend with Prisma](https://dev.to/rajat128/from-beginner-to-pro-setting-up-a-typescript-nestjs-backend-with-prisma-bn5)
+- [Building Daily Stand-Up Generator using Pieces API - Part 1: The SDK overview](https://dev.to/get_pieces/building-daily-stand-up-generator-using-pieces-api-part-1-the-sdk-overview-83k)
+- [My Dev Multirepo Setup for JS projects with dependencies](https://dev.to/jeremies/my-dev-multirepo-setup-for-js-projects-with-dependencies-2a4f)
+- [Simple BOT blocker with Caddy and Django](https://dev.to/climentea/simple-bot-blocker-with-caddy-and-django-3j40)
+- [Prompt Engineering na Prática: Um Guia para Devs](https://dev.to/heltonss/prompt-engineering-na-pratica-um-guia-para-devs-3oh2)
+- [Built an AI Terminal Assistant Because I Got Tired of Googling &quot;Tar&quot; Flags](https://dev.to/pedro_dias_cd600b928787a6/built-an-ai-terminal-assistant-because-i-got-tired-of-googling-tar-flags-dk8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
