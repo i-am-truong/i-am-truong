@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Bf-Tree Pins Inner Nodes and What That Unlocks](https://dev.to/lovestaco/why-bf-tree-pins-inner-nodes-and-what-that-unlocks-566k)
+- [Artificial Intelligence as a Source of Competitive Advantage](https://dev.to/martin1988lisa/artificial-intelligence-as-a-source-of-competitive-advantage-4gp7)
 - [238. Product of Array Except Self | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/238-product-of-array-except-self-leetcode-top-interview-150-coding-questions-2kja)
 - [Telnet: A Foundational Protocol in the History of Remote Access](https://dev.to/srijan-xi/telnet-a-foundational-protocol-in-the-history-of-remote-access-30cd)
 - [Predicting Glory: World Cup 2026 Matchup Breakdowns &amp; Trends](https://dev.to/mabualzait/predicting-glory-world-cup-2026-matchup-breakdowns-trends-535)
-- [Privacy-Preserving Active Learning for deep-sea exploration habitat design under real-time policy constraints](https://dev.to/rikinptl/privacy-preserving-active-learning-for-deep-sea-exploration-habitat-design-under-real-time-policy-14l0)
-- [Global AppState Architecture in SwiftUI](https://dev.to/sebastienlato/global-appstate-architecture-in-swiftui-pfe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
