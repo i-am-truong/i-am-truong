@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Common Lisp needs more documentation, tools and ideas &lpar;where are we on this?&rpar;](https://dev.to/vindarel/common-lisp-needs-more-documentation-tools-and-ideas-where-are-we-on-this-io)
-- [Stop paying $20/month for AI videos. Generate Sora 2 quality clips for just $0.15 each with Kie.ai API](https://dev.to/fracabu/stop-paying-20month-for-ai-videos-generate-sora-2-quality-clips-for-just-015-each-with-kieai-31g1)
-- [I built a privacy-first IP API and it&#39;s free.](https://dev.to/arshvir/i-built-a-privacy-first-ip-api-and-its-free-4f77)
-- [Day 3: Understanding Data Types in Java](https://dev.to/karthick_narayanan/day-3-understanding-data-types-in-java-4lch)
-- [My project 4 : Building a REST API &lpar;with Flask + SQLite&rpar;](https://dev.to/sabin_sim/my-project-4-building-a-rest-api-with-flask-sqlite-3l6p)
+- [AWS Knowledge Bases: Building Intelligent, Context-Aware Applications at Scale](https://dev.to/brayanarrieta/aws-knowledge-bases-building-intelligent-context-aware-applications-at-scale-1me1)
+- [Multi-tenant Loki on Kubernetes](https://dev.to/siddarth2810/multi-tenant-loki-on-kubernetes-o17)
+- [How Sync SaaS Metrics Improve Revenue Visibility and Operational Clarity](https://dev.to/fiona_blackwood_07/how-sync-saas-metrics-improve-revenue-visibility-and-operational-clarity-4k8)
+- [Leetcode 39 Combination Sum](https://dev.to/wincyysh/leetcode-39-combination-sum-4o4k)
+- [Data vs Behavior in Rust](https://dev.to/sumana10/data-vs-behavior-in-rust-4mk4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
