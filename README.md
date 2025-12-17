@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [RAG-Augmented Agile Story Generation: An Architectural Framework for LLM-Powered Backlog Automation](https://dev.to/manasa_nandelli_707b6d6f2/rag-augmented-agile-story-generation-an-architectural-framework-for-llm-powered-backlog-automation-2md0)
-- [Amazon Kiro](https://dev.to/dmevanct/amazon-kiro-1ej9)
-- [Shout out to Reza Rosli! From hanging out with friends making a GenAI adventure game to exploring Zettelkasten for handwritten notes, he shows how these ideas can come together to build a shared product roadmap. Check out his latest Advent of Tech article.](https://dev.to/zainshafiq/shout-out-to-reza-rosli-from-hanging-out-with-friends-making-a-genai-adventure-game-to-exploring-5306)
-- [Blocking Web Scrapers with Fail2Ban + Nginx &lpar;Production Guide&rpar;](https://dev.to/ajitkumar/blocking-web-scrapers-with-fail2ban-nginx-production-guide-e67)
-- [IVFFlat Indexing in pgvector](https://dev.to/azayshrestha/ivfflat-indexing-in-pgvector-2cj0)
+- [Mastering Rive Animation: A Complete Guide for React Developers](https://dev.to/hoainhoblogdev/mastering-rive-animation-a-complete-guide-for-react-developers-5hn1)
+- [Mastering Cloud Security: A Strategic Guide to Securing Your AWS Environment](https://dev.to/kaths3cdev/mastering-cloud-security-a-strategic-guide-to-securing-your-aws-environment-51bo)
+- [💻 AWS 106: The Moment of Truth! Launching Your First EC2 Instance](https://dev.to/hritikraj8804/aws-106-the-moment-of-truth-launching-your-first-ec2-instance-2m3p)
+- [The Long Echo Toolkit: Preserving Your Digital Life](https://dev.to/queelius/the-long-echo-toolkit-preserving-your-digital-life-1eh8)
+- [10 UI UX Principles That Will Transform Your Design Process](https://dev.to/taqwah/10-ui-ux-principles-that-will-transform-your-design-process-4pa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
