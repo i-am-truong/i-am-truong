@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Project Structure Checker](https://dev.to/m__mdy__m/project-structure-checker-4a7m)
+- [Title: Global Music Web Radio – Interactive Online Player | LiveHTML.net](https://dev.to/okan_kaplan_livehtml/title-global-music-web-radio-interactive-online-player-livehtmlnet-1nom)
 - [I built preview environments for Helm charts - here&#39;s Grafana deployed from a PR](https://dev.to/chartpreview/i-built-preview-environments-for-helm-charts-heres-grafana-deployed-from-a-pr-4eg3)
 - [C# Conditionals Mental Model — From `if &lpar;x &gt; 0&rpar;` to LLM‑Ready Decisions](https://dev.to/cristiansifuentes/c-conditionals-mental-model-from-if-x-0-to-llm-ready-decisions-1kn1)
 - [The 30-Second Hack That Will Speed Up Your Coding More Than Any Framework](https://dev.to/ackshaey/the-30-second-hack-that-will-speed-up-your-coding-more-than-any-framework-2men)
-- [Productionizing Model Context Protocol Servers](https://dev.to/onlineproxyio/productionizing-model-context-protocol-servers-o7g)
-- [How to Debug LeetCode Solutions When Test Cases Fail: A Systematic Approach](https://dev.to/alex_hunter_44f4c9ed6671e/how-to-debug-leetcode-solutions-when-test-cases-fail-a-systematic-approach-2ei4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
