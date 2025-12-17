@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Webpack vs Vite in Angular — Which One Really Wins?](https://dev.to/mridudixit15/webpack-vs-vite-in-angular-which-one-really-wins-2apc)
+- [7 Best Resources I Used to Learn Frontend Development](https://dev.to/stack_overflowed/7-best-resources-i-used-to-learn-frontend-development-fo7)
 - [Mastering Rive Animation: A Complete Guide for React Developers](https://dev.to/hoainhoblogdev/mastering-rive-animation-a-complete-guide-for-react-developers-5hn1)
 - [Mastering Cloud Security: A Strategic Guide to Securing Your AWS Environment](https://dev.to/kaths3cdev/mastering-cloud-security-a-strategic-guide-to-securing-your-aws-environment-51bo)
 - [💻 AWS 106: The Moment of Truth! Launching Your First EC2 Instance](https://dev.to/hritikraj8804/aws-106-the-moment-of-truth-launching-your-first-ec2-instance-2m3p)
-- [The Long Echo Toolkit: Preserving Your Digital Life](https://dev.to/queelius/the-long-echo-toolkit-preserving-your-digital-life-1eh8)
-- [10 UI UX Principles That Will Transform Your Design Process](https://dev.to/taqwah/10-ui-ux-principles-that-will-transform-your-design-process-4pa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
