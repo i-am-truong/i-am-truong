@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built an AI Studying Website as a Student — Meet Studex AI](https://dev.to/studexaidevelpoer/i-built-an-ai-studying-website-as-a-student-meet-studex-ai-2o07)
-- [Preparing for a Presentation at Work](https://dev.to/carlosrambles/preparing-for-a-presentation-at-work-4168)
-- [**Llamado a la Acción: Evaluación de Plataformas de PLD con](https://dev.to/drcarlosruizviquez/llamado-a-la-accion-evaluacion-de-plataformas-de-pld-con-384j)
-- [3D SDF editor Prototype in Python and GLSL](https://dev.to/embernoglow/3d-sdf-editor-prototype-in-python-and-glsl-3aj0)
-- [**The Rise of Autonomous Cybersecurity Hubs**](https://dev.to/drcarlosruizviquez/the-rise-of-autonomous-cybersecurity-hubs-b8c)
+- [Incident Communication That Actually Works During Outages and Security Breaches](https://dev.to/sonia_bobrik_1939cdddd79d/incident-communication-that-actually-works-during-outages-and-security-breaches-3g2h)
+- [Do Caos ao Fluxo Perfeito: Minha Experiência Automatizando uma Migração Real Gigantesca no GitLab &lpar;4.000 Repos&rpar;](https://dev.to/claudiodevops/do-caos-ao-fluxo-perfeito-minha-experiencia-automatizando-uma-migracao-real-gigantesca-no-gitlab-47a8)
+- [LIVEHTML.net Sudoku Generator](https://dev.to/okan_kaplan_livehtml/livehtmlnet-sudoku-generator-32nk)
+- [Verification Nodes: The Difference Between Playable and Production Agents](https://dev.to/dowhatmatters/verification-nodes-the-difference-between-playable-and-production-agents-4mjd)
+- [What I learned building my website](https://dev.to/studexaidevelpoer/what-i-learned-building-my-website-47n6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
