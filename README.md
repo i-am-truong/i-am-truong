@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The AI Bubble 2025: How the Boom Occurred and Transformed Industries Globally](https://dev.to/vanshsaxena/the-ai-bubble-2025-how-the-boom-occurred-and-transformed-industries-globally-af)
+- [My Engineering Workflow in CursorAI](https://dev.to/codeaholicguy/my-engineering-workflow-in-cursorai-2hed)
+- [AI Powerhouses: How to Leverage Joint Neural Networks in Multimodal Apps](https://dev.to/mabualzait/ai-powerhouses-how-to-leverage-joint-neural-networks-in-multimodal-apps-fdg)
+- [Advent of AI - Day 11: Goose Subagents](https://dev.to/nickytonline/advent-of-ai-day-11-goose-subagents-2n2)
 - [Using Guardrails in Amazon Bedrock: Building Safer and Governed Generative AI Applications](https://dev.to/dipayan_das/using-guardrails-in-amazon-bedrock-building-safer-and-governed-generative-ai-applications-106a)
-- [Transistors in Computers: The Tiny Switches That Power the Digital World](https://dev.to/farhadrahimiklie/transistors-in-computers-the-tiny-switches-that-power-the-digital-world-4lp8)
-- [Welcome Thread - v356](https://dev.to/devteam/welcome-thread-v356-137j)
-- [Solving Advent of Code Day 7: Splitting Tachyon Beams](https://dev.to/canro91/solving-advent-of-code-day-7-splitting-tachyon-beams-3j7c)
-- [TypeScript SDK for Building MCP Servers with type-safe decorators and streamable HTTP support](https://dev.to/_4b254f4408ef55656a22e4/typescript-sdk-for-building-mcp-servers-with-type-safe-decorators-and-streamable-http-support-1ob2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
