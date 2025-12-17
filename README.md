@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Stop treating your AI like a goldfish. Here is how to give it long-term memory.](https://dev.to/the_nortern_dev/stop-treating-your-ai-like-a-goldfish-here-is-how-to-give-it-long-term-memory-56la)
+- [AWS re:Invent 2025: Serverless and Storage Get an AI-Powered Overhaul!](https://dev.to/dataformathub/aws-reinvent-2025-serverless-and-storage-get-an-ai-powered-overhaul-4fi4)
+- [Why Enterprises Are Adopting Low-Code and No-Code Platforms](https://dev.to/parthspan/why-enterprises-are-adopting-low-code-and-no-code-platforms-2doc)
+- [Turning a Shopify Store Into a Mobile App: MageNative’s Technical Deep Dive](https://dev.to/anusha_ansari_2bb821c1b4e/turning-a-shopify-store-into-a-mobile-app-magenatives-technical-deep-dive-11b0)
 - [Developer Spotlight: The State of AI in Workspace Development](https://dev.to/googleworkspace/developer-spotlight-the-state-of-ai-in-workspace-development-5f30)
-- [Stop Drawing, Start Coding: Modern AWS Architecture with LikeC4](https://dev.to/aws-builders/stop-drawing-start-coding-modern-aws-architecture-with-likec4-31fc)
-- [The Business Case for Moving AI Workloads to GPU Cloud Services](https://dev.to/cyfutureai/the-business-case-for-moving-ai-workloads-to-gpu-cloud-services-1jp4)
-- [BrilliantAfrica2G: Building 2G AI Education for Low‑Connectivity Africa](https://dev.to/arseytech/brilliantafrica2g-building-2g-ai-education-for-low-connectivity-africa-3hp2)
-- [Top Ways to Stream Radio on Your Browser: The Easiest Methods to Listen Anywhere](https://dev.to/gaurav_web3task_1ad49e029/top-ways-to-stream-radio-on-your-browser-the-easiest-methods-to-listen-anywhere-4mi5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
