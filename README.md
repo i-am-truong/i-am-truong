@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Productionizing Model Context Protocol Servers](https://dev.to/onlineproxyio/productionizing-model-context-protocol-servers-o7g)
+- [How to Debug LeetCode Solutions When Test Cases Fail: A Systematic Approach](https://dev.to/alex_hunter_44f4c9ed6671e/how-to-debug-leetcode-solutions-when-test-cases-fail-a-systematic-approach-2ei4)
+- [luz head](https://dev.to/badbuilders/luz-head-552f)
 - [How to Prepare for Q1 Performance Reviews Right Now](https://dev.to/nataliaherself/how-to-prepare-for-q1-performance-reviews-right-now-b2m)
 - [Fixing Prometheus namespace monitoring](https://dev.to/santispavajeau/fixing-prometheus-namespace-monitoring-31bh)
-- [I built a QR Code API and here&#39;s what I learned](https://dev.to/malachi_stark_/i-built-a-qr-code-api-and-heres-what-i-learned-3l5g)
-- [How We Built Mathematically Provable Smart Contract Security with Lean4](https://dev.to/chronosvault/how-we-built-mathematically-provable-smart-contract-security-with-lean4-596b)
-- [Chess Game Simulation– Interactive Chessboard with Move History &lpar;Vanilla JS&rpar;](https://dev.to/okan_kaplan_livehtml/chess-game-simulation-interactive-chessboard-with-move-history-vanilla-js-38ng)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
