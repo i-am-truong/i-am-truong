@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Polymarket-Style Prediction Engine with RisingWave](https://dev.to/__354f265b41dafa0d901b/building-a-polymarket-style-prediction-engine-with-risingwave-3672)
+- [Day 20: Terraform Custom Modules for EKS](https://dev.to/anil_kumar_noolu/day-20-terraform-custom-modules-for-eks-31lh)
+- [PHP Killed Dynamic Properties. Here&#39;s Why &lpar;And What to Do&rpar;](https://dev.to/laravel_mastery_ffd9d10ec/php-killed-dynamic-properties-heres-why-and-what-to-do-3knh)
 - [LLM evaluation guide: When to add online evals to your AI application](https://dev.to/launchdarkly/llm-evaluation-guide-when-to-add-online-evals-to-your-ai-application-mo5)
-- [Superintelligence Infrastructure: Managing AI Workloads with General-Purpose Programming Languages](https://dev.to/pulumi/superintelligence-infrastructure-managing-ai-workloads-with-general-purpose-programming-languages-37cd)
-- [Stars html](https://dev.to/badbuilders/stars-html-25fp)
-- [When to Use Prompt-Based vs Agent Mode in LaunchDarkly for AI Applications](https://dev.to/launchdarkly/when-to-use-prompt-based-vs-agent-mode-in-launchdarkly-for-ai-applications-5f3g)
-- [Resolving Kubernetes Production Pod Failure Due to EFS Mount &amp; Memory Exhaustion](https://dev.to/alok_shankar/resolving-kubernetes-production-pod-failure-due-to-efs-mount-memory-exhaustion-4ma)
+- [Change Intelligence: Using Insights to Accelerate Improvement Adoption](https://dev.to/adam_6c643bf042cc5aa6ca6f/change-intelligence-using-insights-to-accelerate-improvement-adoption-7f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
