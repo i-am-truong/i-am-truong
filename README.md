@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why I Built the Most Complete Nutrition API &lpar;With 25+ Nutrients in the Free Tier&rpar;](https://dev.to/ra_vi_51d9667e07aa0984631/why-i-built-the-most-complete-nutrition-api-with-25-nutrients-in-the-free-tier-hco)
+- [Chemical Engineering: A Beginner’s Guide to First-Year Subjects, Skills &amp; Study Strategies](https://dev.to/textshala/chemical-engineering-a-beginners-guide-to-first-year-subjects-skills-study-strategies-3n7c)
+- [Amazon EKS Series - Part 1: Introduction to EKS](https://dev.to/bansikah/amazon-eks-series-part-1-introduction-to-eks-4m3p)
+- [Make Bookmark Dashboard sharable online](https://dev.to/sheep_/make-bookmark-dashboard-sharable-online-188d)
 - [CBR vs VBR: Choosing the Right Bitrate for Your Stream](https://dev.to/mohammad_owaisk_e95f45c/cbr-vs-vbr-choosing-the-right-bitrate-for-your-stream-46bl)
-- [I built a tool to generate relationship-aware test data for Database &lpar;no seed scripts&rpar;](https://dev.to/dhanmoni/i-built-a-tool-to-generate-relationship-aware-test-data-for-database-no-seed-scripts-1odi)
-- [AI Developer Tools for Productivity: The 2026 Guide](https://dev.to/devin-rosario/ai-developer-tools-for-productivity-the-2026-guide-2j78)
-- [XDef: An Evolution-Oriented Metamodel and Its Construction Philosophy](https://dev.to/canonical/xdef-an-evolution-oriented-metamodel-and-its-construction-philosophy-l6)
-- [AI Tools for Developer Productivity: Hype vs. Reality in 2025](https://dev.to/luciench/ai-tools-for-developer-productivity-hype-vs-reality-in-2025-480d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
