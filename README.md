@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [React useContext for Beginners: Passing Data Without Props](https://dev.to/michi0808/react-usecontext-for-beginners-passing-data-without-props-42lg)
+- [Android Profiler – Memory, GC, and Leaks That Slowly Kill Performance](https://dev.to/vio_di_code/android-profiler-memory-gc-and-leaks-that-slowly-kill-performance-5966)
+- [Apertre 3.0: A 30-Day Open-Source Journey for Developers 🚀](https://dev.to/apertre/apertre-30-a-30-day-open-source-journey-for-developers-gna)
 - [Building a Link-in-Bio platform from scratch &lpar;thugg.lol&rpar;. Looking for feedback and contributors](https://dev.to/m6jo9/building-a-link-in-bio-platform-from-scratch-thugglol-looking-for-feedback-and-contributors-e00)
 - [Basics &lpar;Getting Started&rpar; with WJb](https://dev.to/ukrguru/basics-getting-started-with-wjb-3i3o)
-- [TokenEscrowV1: Fixing MPT Escrow Accounting](https://dev.to/ripplexdev/tokenescrowv1-fixing-mpt-escrow-accounting-5adb)
-- [Recognized: Credibility, Controversy &amp; Craft](https://dev.to/recognized/recognized-credibility-controversy-craft-3gpa)
-- [Port Numbers Quiz -- Ports Every Security Engineer Should Know](https://dev.to/fosres/port-numbers-quiz-ports-every-security-engineer-should-know-5784)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
