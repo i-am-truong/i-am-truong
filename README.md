@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CBR vs VBR: Choosing the Right Bitrate for Your Stream](https://dev.to/mohammad_owaisk_e95f45c/cbr-vs-vbr-choosing-the-right-bitrate-for-your-stream-46bl)
+- [I built a tool to generate relationship-aware test data for Database &lpar;no seed scripts&rpar;](https://dev.to/dhanmoni/i-built-a-tool-to-generate-relationship-aware-test-data-for-database-no-seed-scripts-1odi)
+- [AI Developer Tools for Productivity: The 2026 Guide](https://dev.to/devin-rosario/ai-developer-tools-for-productivity-the-2026-guide-2j78)
+- [XDef: An Evolution-Oriented Metamodel and Its Construction Philosophy](https://dev.to/canonical/xdef-an-evolution-oriented-metamodel-and-its-construction-philosophy-l6)
 - [AI Tools for Developer Productivity: Hype vs. Reality in 2025](https://dev.to/luciench/ai-tools-for-developer-productivity-hype-vs-reality-in-2025-480d)
-- [Beyond Automation: How CI/CD Pipelines Power Faster, Safer Software Delivery](https://dev.to/khushi_jitani_ca127abdedd/beyond-automation-how-cicd-pipelines-power-faster-safer-software-delivery-2co4)
-- [How to Bulk Delete Emails on Gmail for a Faster, Cleaner Inbox](https://dev.to/averygriffin1/how-to-bulk-delete-emails-on-gmail-for-a-faster-cleaner-inbox-50en)
-- [Ethereum vs Solana: Consensus in Action](https://dev.to/ribhavmodi/ethereum-vs-solana-consensus-in-action-1p4p)
-- [AWS CodeDeploy: A Beginner-Friendly Guide to Automated Deployments](https://dev.to/egepakten/aws-codedeploy-a-beginner-friendly-guide-to-automated-deployments-2ncn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
