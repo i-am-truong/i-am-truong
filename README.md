@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Compliance Levels](https://dev.to/rokoss21/compliance-levels-4phl)
-- [Token Box Model](https://dev.to/rokoss21/token-box-model-1kkb)
-- [MindsEye &amp; MindScript: A Ledger-First Cognitive Architecture Technical Whitepaper v2.0](https://dev.to/peacebinflow/mindseye-mindscript-a-ledger-first-cognitive-architecture-technical-whitepaper-v20-46p1)
-- [2025-12-16 Daily Robotics News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-16-daily-robotics-news-45od)
-- [Adapter Philosophy](https://dev.to/rokoss21/adapter-philosophy-65h)
+- [Notes from Building My Second AI Video Site](https://dev.to/lynn123456/notes-from-building-my-second-ai-video-site-44nl)
+- [From a Pyodide Wrapper to an Edge AI Engine](https://dev.to/s_b_yrrah/from-a-pyodide-wrapper-to-an-edge-ai-engine-1ejl)
+- [GoGPU: From Idea to 100K Lines in Two Weeks — Building Go&#39;s GPU Ecosystem](https://dev.to/kolkov/gogpu-from-idea-to-100k-lines-in-two-weeks-building-gos-gpu-ecosystem-3b2)
+- [Building a Style-Aware AI Image Generator with Nano Bana, React, and Hono.](https://dev.to/magicnull/building-a-style-aware-ai-image-generator-with-nano-bana-react-and-hono-1a8d)
+- [Kavia v1.0.9: Interactive agents, SCM onboarding, and persistent code context](https://dev.to/kavita_kavia/kavia-v109-interactive-agents-scm-onboarding-and-persistent-code-context-3g92)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
