@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [React useContext for Beginners: Passing Data Without Props](https://dev.to/michi0808/react-usecontext-for-beginners-passing-data-without-props-42lg)
-- [Android Profiler – Memory, GC, and Leaks That Slowly Kill Performance](https://dev.to/vio_di_code/android-profiler-memory-gc-and-leaks-that-slowly-kill-performance-5966)
-- [Apertre 3.0: A 30-Day Open-Source Journey for Developers 🚀](https://dev.to/apertre/apertre-30-a-30-day-open-source-journey-for-developers-gna)
-- [Building a Link-in-Bio platform from scratch &lpar;thugg.lol&rpar;. Looking for feedback and contributors](https://dev.to/m6jo9/building-a-link-in-bio-platform-from-scratch-thugglol-looking-for-feedback-and-contributors-e00)
-- [Basics &lpar;Getting Started&rpar; with WJb](https://dev.to/ukrguru/basics-getting-started-with-wjb-3i3o)
+- [I Built an AI Studying Website as a Student — Meet Studex AI](https://dev.to/studexaidevelpoer/i-built-an-ai-studying-website-as-a-student-meet-studex-ai-2o07)
+- [Preparing for a Presentation at Work](https://dev.to/carlosrambles/preparing-for-a-presentation-at-work-4168)
+- [**Llamado a la Acción: Evaluación de Plataformas de PLD con](https://dev.to/drcarlosruizviquez/llamado-a-la-accion-evaluacion-de-plataformas-de-pld-con-384j)
+- [3D SDF editor Prototype in Python and GLSL](https://dev.to/embernoglow/3d-sdf-editor-prototype-in-python-and-glsl-3aj0)
+- [**The Rise of Autonomous Cybersecurity Hubs**](https://dev.to/drcarlosruizviquez/the-rise-of-autonomous-cybersecurity-hubs-b8c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
