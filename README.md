@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I spent years mastering Git, then Lazygit made me faster in a week.](https://dev.to/dev_tips/i-spent-years-mastering-git-then-lazygit-made-me-faster-in-a-week-79b)
-- [Why I Spent Two Years Sending Hundreds of Applications—And Got Nothing](https://dev.to/codev206/why-i-spent-two-years-sending-hundreds-of-applications-and-got-nothing-6j4)
-- [PostgREST vs RESTHeart](https://dev.to/mkjsix/postgrest-vs-restheart-3n0j)
-- [Choosing AI Code Review Tools for Enterprises and Startups](https://dev.to/yeahiasarker/choosing-ai-code-review-tools-for-enterprises-and-startups-180j)
-- [Stop Writing &#39;Happy Path&#39; Tests: How to Generate Bulletproof Unit Tests with AI](https://dev.to/huizhudev/stop-writing-happy-path-tests-how-to-generate-bulletproof-unit-tests-with-ai-4ec7)
+- [Developer Spotlight: The State of AI in Workspace Development](https://dev.to/googleworkspace/developer-spotlight-the-state-of-ai-in-workspace-development-5f30)
+- [Stop Drawing, Start Coding: Modern AWS Architecture with LikeC4](https://dev.to/aws-builders/stop-drawing-start-coding-modern-aws-architecture-with-likec4-31fc)
+- [The Business Case for Moving AI Workloads to GPU Cloud Services](https://dev.to/cyfutureai/the-business-case-for-moving-ai-workloads-to-gpu-cloud-services-1jp4)
+- [BrilliantAfrica2G: Building 2G AI Education for Low‑Connectivity Africa](https://dev.to/arseytech/brilliantafrica2g-building-2g-ai-education-for-low-connectivity-africa-3hp2)
+- [Top Ways to Stream Radio on Your Browser: The Easiest Methods to Listen Anywhere](https://dev.to/gaurav_web3task_1ad49e029/top-ways-to-stream-radio-on-your-browser-the-easiest-methods-to-listen-anywhere-4mi5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
