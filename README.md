@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [NumPy: An Engineer-Level Guide to Arrays, Math, Randomness, and Linear Algebra](https://dev.to/bodhitiwari/numpy-an-engineer-level-guide-to-arrays-math-randomness-and-linear-algebra-22o6)
-- [Day 67: Python Shortest Path in Unweighted Graph - BFS Queue Magic for O&lpar;V+E&rpar; Routing Mastery &lpar;LeetCode Vibes&rpar;](https://dev.to/shahrouzlogs/day-67-python-shortest-path-in-unweighted-graph-bfs-queue-magic-for-ove-routing-mastery-mie)
-- [AI-assisted development in 2025: the problem is no longer the code](https://dev.to/jasen_dev/ai-assisted-development-in-2025-the-problem-is-no-longer-the-code-452e)
-- [Stop letting bloated web tools slow down your workflow &lpar;and RAM&rpar; 🛑](https://dev.to/sehgalspandan/stop-letting-bloated-web-tools-slow-down-your-workflow-and-ram-1d58)
-- [New to a Large Project? This Is How I Decode Complex Databases](https://dev.to/br-lovanshi/new-to-a-large-project-this-is-how-i-decode-complex-databases-422j)
+- [LLM evaluation guide: When to add online evals to your AI application](https://dev.to/launchdarkly/llm-evaluation-guide-when-to-add-online-evals-to-your-ai-application-mo5)
+- [Superintelligence Infrastructure: Managing AI Workloads with General-Purpose Programming Languages](https://dev.to/pulumi/superintelligence-infrastructure-managing-ai-workloads-with-general-purpose-programming-languages-37cd)
+- [Stars html](https://dev.to/badbuilders/stars-html-25fp)
+- [When to Use Prompt-Based vs Agent Mode in LaunchDarkly for AI Applications](https://dev.to/launchdarkly/when-to-use-prompt-based-vs-agent-mode-in-launchdarkly-for-ai-applications-5f3g)
+- [Resolving Kubernetes Production Pod Failure Due to EFS Mount &amp; Memory Exhaustion](https://dev.to/alok_shankar/resolving-kubernetes-production-pod-failure-due-to-efs-mount-memory-exhaustion-4ma)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
