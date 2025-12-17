@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Daily Stand-Up Generator using Pieces API - Part 1: The SDK overview](https://dev.to/get_pieces/building-daily-stand-up-generator-using-pieces-api-part-1-the-sdk-overview-83k)
-- [My Dev Multirepo Setup for JS projects with dependencies](https://dev.to/jeremies/my-dev-multirepo-setup-for-js-projects-with-dependencies-2a4f)
-- [Simple BOT blocker with Caddy and Django](https://dev.to/climentea/simple-bot-blocker-with-caddy-and-django-3j40)
-- [Prompt Engineering na Prática: Um Guia para Devs](https://dev.to/heltonss/prompt-engineering-na-pratica-um-guia-para-devs-3oh2)
-- [Built an AI Terminal Assistant Because I Got Tired of Googling &quot;Tar&quot; Flags](https://dev.to/pedro_dias_cd600b928787a6/built-an-ai-terminal-assistant-because-i-got-tired-of-googling-tar-flags-dk8)
+- [Beyond Simple Prompts: Architecting an AI Agent](https://dev.to/pyalwin/beyond-simple-prompts-architecting-an-ai-agent-1i8c)
+- [Building a Daily Productivity App with Pieces - Part 2: Adding AI Intelligence with Gemini](https://dev.to/get_pieces/building-a-daily-productivity-app-with-pieces-part-2-adding-ai-intelligence-with-gemini-2nc4)
+- [Building a Midnight App with ViteJS](https://dev.to/giovanni_c7781d55fcf2362c/building-a-private-split-app-1bna)
+- [🌐 CORS Policies Every Backend Developer Must Know](https://dev.to/abusayem/cors-policies-every-backend-developer-must-know-2epc)
+- [Peta GeoJSON &amp; TopoJSON Indonesia &lpar;38 Provinsi&rpar;](https://dev.to/denyherianto/peta-geojson-topojson-indonesia-38-provinsi-3dic)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
