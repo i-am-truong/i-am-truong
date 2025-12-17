@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Link-in-Bio platform from scratch &lpar;thugg.lol&rpar;. Looking for feedback and contributors](https://dev.to/m6jo9/building-a-link-in-bio-platform-from-scratch-thugglol-looking-for-feedback-and-contributors-e00)
+- [Basics &lpar;Getting Started&rpar; with WJb](https://dev.to/ukrguru/basics-getting-started-with-wjb-3i3o)
+- [TokenEscrowV1: Fixing MPT Escrow Accounting](https://dev.to/ripplexdev/tokenescrowv1-fixing-mpt-escrow-accounting-5adb)
+- [Recognized: Credibility, Controversy &amp; Craft](https://dev.to/recognized/recognized-credibility-controversy-craft-3gpa)
 - [Port Numbers Quiz -- Ports Every Security Engineer Should Know](https://dev.to/fosres/port-numbers-quiz-ports-every-security-engineer-should-know-5784)
-- [Project Structure Checker](https://dev.to/m__mdy__m/project-structure-checker-2iof)
-- [Build with Gemini 3 Flash, frontier intelligence that scales with you](https://dev.to/googleai/build-with-gemini-3-flash-frontier-intelligence-that-scales-with-you-h87)
-- [I Read OpenAI’s GPT-5.2 Prompting Guide So You Don’t Have To](https://dev.to/tashfia_a8008e6a542/i-read-openais-gpt-52-prompting-guide-so-you-dont-have-to-1fb6)
-- [Why Most SaaS MVPs Fail in the First 90 Days &lpar;and How to Fix It&rpar;](https://dev.to/tashfia_a8008e6a542/why-most-saas-mvps-fail-in-the-first-90-days-and-how-to-fix-it-epm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
