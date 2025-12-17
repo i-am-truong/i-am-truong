@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Choosing AI Code Review Tools for Enterprises and Startups](https://dev.to/yeahiasarker/choosing-ai-code-review-tools-for-enterprises-and-startups-180j)
+- [Legacy Code Got You Crying? Batch Docs Can Help](https://dev.to/notadevbuthere/legacy-code-got-you-crying-batch-docs-can-help-3khl)
+- [Build Production-Ready Go APIs 10x Faster in 2026: The AI-First Developer’s Guide](https://dev.to/vahiiiid/build-production-ready-go-apis-10x-faster-in-2026-the-ai-first-developers-guide-51io)
+- [How IPv6 Solves the NAT Problem and Why It Matters for the Modern Internet](https://dev.to/lightningdev123/how-ipv6-solves-the-nat-problem-and-why-it-matters-for-the-modern-internet-2job)
 - [Why I Built the Most Complete Nutrition API &lpar;With 25+ Nutrients in the Free Tier&rpar;](https://dev.to/ra_vi_51d9667e07aa0984631/why-i-built-the-most-complete-nutrition-api-with-25-nutrients-in-the-free-tier-hco)
-- [Chemical Engineering: A Beginner’s Guide to First-Year Subjects, Skills &amp; Study Strategies](https://dev.to/textshala/chemical-engineering-a-beginners-guide-to-first-year-subjects-skills-study-strategies-3n7c)
-- [Amazon EKS Series - Part 1: Introduction to EKS](https://dev.to/bansikah/amazon-eks-series-part-1-introduction-to-eks-4m3p)
-- [Make Bookmark Dashboard sharable online](https://dev.to/sheep_/make-bookmark-dashboard-sharable-online-188d)
-- [CBR vs VBR: Choosing the Right Bitrate for Your Stream](https://dev.to/mohammad_owaisk_e95f45c/cbr-vs-vbr-choosing-the-right-bitrate-for-your-stream-46bl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
