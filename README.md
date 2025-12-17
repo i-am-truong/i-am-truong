@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From Regex Matching to Understanding Intent: How SafeLine WAF Uses Semantic Analysis](https://dev.to/arina_cholee/from-regex-matching-to-understanding-intent-how-safeline-waf-uses-semantic-analysis-2nmp)
 - [Oracle 23ai&#39;s Phantom Vector Memory: A Troubleshooting Guide](https://dev.to/smyekh/oracle-23ais-phantom-vector-memory-a-troubleshooting-guide-5a1j)
 - [Peas, Bacteria, and DNA: A Century-Long Pursuit of Genetic Truth](https://dev.to/editgene/peas-bacteria-and-dna-a-century-long-pursuit-of-genetic-truth-2ikh)
 - [SQL Access for AI Agents — Flexibility with Guardrails](https://dev.to/sanchar10/sql-access-for-ai-agents-flexibility-with-guardrails-e50)
 - [Node-gyp Errors? A Complete Guide to Fixing npm Install Failures](https://dev.to/bhuvanraj/node-gyp-errors-a-complete-guide-to-fixing-npm-install-failures-3lmk)
-- [Top Security Frameworks Supporting RWA Tokenization Platform Development](https://dev.to/brucewayne12/top-security-frameworks-supporting-rwa-tokenization-platform-development-3991)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
