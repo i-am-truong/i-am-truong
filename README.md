@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Amazon EKS Series - Part 2: EKS Architecture and Core Components](https://dev.to/bansikah/amazon-eks-series-part-2-eks-architecture-and-core-components-36gk)
-- [[Boost]](https://dev.to/anthonymax/-3gh3)
-- [Gateway Integration Agent: How We Cut Payment Gateway Integration Time from Weeks to Days](https://dev.to/razorpaytech/gateway-integration-agent-how-we-cut-payment-gateway-integration-time-from-weeks-to-days-4cfk)
-- [🚀 Launching Vyoma Labs: A Research-First Space for Building the Future of the Web](https://dev.to/pjdeveloper896/launching-vyoma-labs-a-research-first-space-for-building-the-future-of-the-web-4973)
-- [13 Open Source Gems To Become The Ultimate Developer 🔥](https://dev.to/anthonymax/12-open-source-gems-to-become-the-ultimate-developer-553j)
+- [New Vulnerabilities in runC Allow Container Escape](https://dev.to/minimus/new-vulnerabilities-in-runc-allow-container-escape-3nmk)
+- [How are some users receiving OTPs before the website enables “Send OTP” and before captcha completion?](https://dev.to/anurag_bansal_6316253b07e/how-are-some-users-receiving-otps-before-the-website-enables-send-otp-and-before-captcha-2fc6)
+- [Why Machine Learning Basics Are Critical in 2025](https://dev.to/seo_seo26master_29e8b33e6/why-machine-learning-basics-are-critical-in-2025-2jm7)
+- [Day 10 of My Web Dev Journey — Mastering CSS Positions: Absolute, Relative, Fixed &amp; Sticky](https://dev.to/bblackwind/day-10-of-my-web-dev-journey-mastering-css-positions-absolute-relative-fixed-sticky-5bl3)
+- [How to Reduce LLM Costs by 40% in 24 Hours &lpar;2025&rpar;](https://dev.to/scalemind/how-to-reduce-llm-costs-by-40-in-24-hours-2025-40k0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
