@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Simple Prompts: Architecting an AI Agent](https://dev.to/pyalwin/beyond-simple-prompts-architecting-an-ai-agent-1i8c)
-- [Building a Daily Productivity App with Pieces - Part 2: Adding AI Intelligence with Gemini](https://dev.to/get_pieces/building-a-daily-productivity-app-with-pieces-part-2-adding-ai-intelligence-with-gemini-2nc4)
-- [Building a Midnight App with ViteJS](https://dev.to/giovanni_c7781d55fcf2362c/building-a-private-split-app-1bna)
-- [🌐 CORS Policies Every Backend Developer Must Know](https://dev.to/abusayem/cors-policies-every-backend-developer-must-know-2epc)
-- [Peta GeoJSON &amp; TopoJSON Indonesia &lpar;38 Provinsi&rpar;](https://dev.to/denyherianto/peta-geojson-topojson-indonesia-38-provinsi-3dic)
+- [Common Lisp needs more documentation, tools and ideas &lpar;where are we on this?&rpar;](https://dev.to/vindarel/common-lisp-needs-more-documentation-tools-and-ideas-where-are-we-on-this-io)
+- [Stop paying $20/month for AI videos. Generate Sora 2 quality clips for just $0.15 each with Kie.ai API](https://dev.to/fracabu/stop-paying-20month-for-ai-videos-generate-sora-2-quality-clips-for-just-015-each-with-kieai-31g1)
+- [I built a privacy-first IP API and it&#39;s free.](https://dev.to/arshvir/i-built-a-privacy-first-ip-api-and-its-free-4f77)
+- [Day 3: Understanding Data Types in Java](https://dev.to/karthick_narayanan/day-3-understanding-data-types-in-java-4lch)
+- [My project 4 : Building a REST API &lpar;with Flask + SQLite&rpar;](https://dev.to/sabin_sim/my-project-4-building-a-rest-api-with-flask-sqlite-3l6p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
