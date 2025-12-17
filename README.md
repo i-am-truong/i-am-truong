@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [10 Must-Know VS Code Extensions for Supercharged ⚡ Development in 2026 🚀](https://dev.to/thebitforge/10-must-know-vs-code-extensions-for-supercharged-development-in-2026-5c8a)
-- [Image Upload Attack: Security Analysis &amp; Prevention Guide](https://dev.to/keat_porhong/image-upload-attack-security-analysis-prevention-guide-333e)
-- [What are the main functions of a Grandmaster Clock in a network?](https://dev.to/khushi_communication/what-are-the-main-functions-of-a-grandmaster-clock-in-a-network-591k)
-- [Sheet-to-Doc: Automate Document Generation with Excel Data and Word Templates](https://dev.to/wtsolutions/sheet-to-doc-automate-document-generation-with-excel-data-and-word-templates-4dk5)
-- [Stone Coated Metal Roofing: The Ultimate Guide to Strength, Style &amp; Long-Term Value](https://dev.to/technonicol_india_56f2d0c/stone-coated-metal-roofing-the-ultimate-guide-to-strength-style-long-term-value-17p6)
+- [Top Security Frameworks Supporting RWA Tokenization Platform Development](https://dev.to/brucewayne12/top-security-frameworks-supporting-rwa-tokenization-platform-development-3991)
+- [Event-Driven Architecture Part 2: Event Streaming and Pub/Sub Patterns](https://dev.to/outdated-dev/event-driven-architecture-part-2-event-streaming-and-pubsub-patterns-5b1k)
+- [Why is my hotel’s website barely showing up in local search results even after investing in SEO?](https://dev.to/__eb2f56b93/why-is-my-hotels-website-barely-showing-up-in-local-search-results-even-after-investing-in-seo-35la)
+- [AI Background Remover: How AI Detects Objects and Separates Backgrounds](https://dev.to/freepixel11/ai-background-remover-how-ai-detects-objects-and-separates-backgrounds-1pkn)
+- [Blind Source Separation for automatic speech recognition: How Machines Learn to Untangle Mixed Signals](https://dev.to/awesomeaudioai/blind-source-separation-for-automatic-speech-recognition-how-machines-learn-to-untangle-mixed-42d9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
