@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Rise of Bharat: India’s Journey Toward a New Era of Growth and Global Leadership](https://dev.to/kavikr543/rise-of-bharat-indias-journey-toward-a-new-era-of-growth-and-global-leadership-4po1)
-- [ONLYOFFICE API updates: What’s new in December 2025](https://dev.to/onlyoffice/onlyoffice-api-updates-whats-new-in-december-2025-2i7)
-- [The Hidden Cost of Poor API Design in Growing Products](https://dev.to/shikharlodhi/the-hidden-cost-of-poor-api-design-in-growing-products-4akl)
-- [How we made email authentication actually usable inside editors and AI agents](https://dev.to/annika_grunewaldt_dd31030/how-we-made-email-authentication-actually-usable-inside-editors-and-ai-agents-i08)
-- [Implementing Passkeys Beyond the Demo](https://dev.to/adityapradhan10/implementing-passkeys-beyond-the-demo-124k)
+- [Load Balancer vs API Gateway &lpar;can one replace other&rpar;](https://dev.to/rahulvijayvergiya/load-balancer-vs-api-gateway-can-one-replace-other-3271)
+- [How Website Bans Really Work: Role of Governments and ISPs](https://dev.to/zopdev/how-website-bans-really-work-role-of-governments-and-isps-oaj)
+- [Wrangler “write EOF” on Windows: The Actual Fix](https://dev.to/mrtoxas/wrangler-write-eof-on-windows-the-actual-fix-31aj)
+- [Teaching AI Modern Go: Solving the &quot;Stuck-in-the-Past&quot; Problem with Antigravity](https://dev.to/sekimori_roma/teaching-ai-modern-go-solving-the-stuck-in-the-past-problem-with-antigravity-37l0)
+- [Data Annotation: Powering Accurate and Scalable AI Systems](https://dev.to/ai_personic2025_012c32722/data-annotation-powering-accurate-and-scalable-ai-systems-737)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
