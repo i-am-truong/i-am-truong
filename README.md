@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/anthonymax/-2g00)
-- [I Built &quot;GitJin&quot; - A Web App to Escape GitHub&#39;s Unusable Home Screen](https://dev.to/kabosutravel/i-built-gitjin-a-web-app-to-escape-githubs-unusable-home-screen-one)
-- [Deep Contribution and Wide Contribution](https://dev.to/stakiran/deep-contribution-and-wide-contribution-6di)
-- [WiRL e WebBroker](https://dev.to/lminuti/wirl-e-webbroker-60p)
-- [Java-8 &lpar;The Biggest Transformation&rpar;](https://dev.to/s_mathavi_2fa1e3ea8514f34/java-8-the-biggest-transformation-2i31)
+- [n8n + AI Agents: Automate Your Entire Lead Funnel](https://dev.to/ciphernutz/n8n-ai-agents-automate-your-entire-lead-funnel-5gk3)
+- [Cómo elegir una solución de reparación de pavimentos: 7 Criterios Técnicos published](https://dev.to/roiting_hacking_4d8d76800/como-elegir-una-solucion-de-reparacion-de-pavimentos-7-criterios-tecnicospublished-19e7)
+- [Cómo optimizar una web para SEO Local con datos estructurados](https://dev.to/roiting_hacking_4d8d76800/como-optimizar-una-web-para-seo-local-con-datos-estructurados-5go0)
+- [7 productivity app trends in 2026](https://dev.to/matt_iscanner/7-productivity-app-trends-in-2026-4epo)
+- [Outil de Cybersécurité du Jour - Dec 17, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-dec-17-2025-1e5b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
