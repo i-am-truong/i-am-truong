@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Best Practices: React Logging and Error Handling](https://dev.to/ghalex/best-practices-react-logging-and-error-handling-23hd)
-- [Polly – Amazon Polly Convert Text into Natural Speech Using AWS](https://dev.to/sai_cf536f1c0eefb673310c5/amazon-polly-convert-text-into-natural-speech-using-aws-ndf)
-- [HashiCorp Vault: A Core Security Tool in DevSecOps](https://dev.to/haresh_511/hashicorp-vault-a-core-security-tool-in-devsecops-133m)
-- [🚀 Production-Ready FastAPI Template &lpar;Python&rpar;](https://dev.to/ortizdavid/production-ready-fastapi-template-python-44k9)
-- [#0 Intro](https://dev.to/luc1a_no/0-intro-57b4)
+- [Performance Under Pressure: Crisis Detection Without UI Lag](https://dev.to/crisiscoresystems/performance-under-pressure-ensuring-crisis-detection-doesnt-degrade-user-experience-h4m)
+- [AWS Service: Amazon DynamoDB](https://dev.to/divya__sundarasekaran_459/aws-service-amazon-dynamodb-3kpe)
+- [Words and Letters: Take your side](https://dev.to/obrutus/words-and-letters-take-your-side-2lfk)
+- [AWS Service – Amazon S3 Glacier](https://dev.to/ganges07/aws-service-amazon-s3-glacier-8e5)
+- [Microsoft Purview no Ignite 2025: segurança de dados integrada para a era de IA e agentes](https://dev.to/angelo_matias/microsoft-purview-no-ignite-2025-seguranca-de-dados-integrada-para-a-era-de-ia-e-agentes-1c49)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
