@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [YOW! 2025](https://dev.to/nfrankel/yow-2025-pic)
-- [Running TeamCity with a Docker-Capable Agent Using Docker Compose](https://dev.to/giveitatry/running-teamcity-with-a-docker-capable-agent-using-docker-compose-1g76)
-- [Do You Make These 10 Angular Performance Mistakes That Keep Your App Slow?](https://dev.to/karol_modelski/do-you-make-these-10-angular-performance-mistakes-that-keep-your-app-slow-35j8)
-- [How We Actually Ship Complex Systems with AI Agents](https://dev.to/alibaqbani/how-we-actually-ship-complex-systems-with-ai-agents-3i2a)
-- [How Data Tokenization Platforms Enable Privacy, Security, and Tradable Data Assets](https://dev.to/suzie_iris_65ce8070067366/how-data-tokenization-platforms-enable-privacy-security-and-tradable-data-assets-3l40)
+- [WhatsApp Messaging Service Provider - Smart Communication for Modern Businesses.](https://dev.to/digitalmarke792/whatsapp-messaging-service-provider-smart-communication-for-modern-businesses-28de)
+- [The Gap Between Figma and Production: Why Handoff Fails and How Design Systems Fix It](https://dev.to/lewisnewman24/the-gap-between-figma-and-production-why-handoff-fails-and-how-design-systems-fix-it-4ma9)
+- [📉 AWS 107: Save Money by Rightsizing - How to Change an EC2 Instance Type](https://dev.to/hritikraj8804/aws-107-save-money-by-rightsizing-how-to-change-an-ec2-instance-type-349o)
+- [The Uneven Rise of AI: From Silicon Valley Illusions to Global Divisions and Human-AI Struggles](https://dev.to/_4b254f4408ef55656a22e4/the-uneven-rise-of-ai-from-silicon-valley-illusions-to-global-divisions-and-human-ai-struggles-5559)
+- [Comparison of AI Tools for Startups](https://dev.to/_fde76ff2d01974642930b/comparison-of-ai-tools-for-startups-2nb6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
