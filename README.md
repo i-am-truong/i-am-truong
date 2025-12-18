@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Se você se sente perdido como dev leia esse texto](https://dev.to/realgalego/se-voce-se-sente-perdido-como-dev-leia-esse-texto-55mm)
+- [The Intersection of web2 backend and web3](https://dev.to/tech_girlll/the-intersection-of-web2-backend-and-web3-3cb6)
 - [C# Minimal API: Response Caching](https://dev.to/gramli/c-minimal-api-response-caching-nmk)
 - [Why I Wrote AI Coding Guidelines and You Should Too](https://dev.to/alexandergekov/why-i-wrote-ai-coding-guidelines-and-you-should-too-4156)
 - [Why Your Model is Failing &lpar;Hint: It’s Not the Architecture&rpar;](https://dev.to/nastaranai/why-your-model-is-failing-hint-its-not-the-architecture-27cl)
-- [Errors encountered with one-shot AI](https://dev.to/nullvoxpopuli/errors-encountered-with-one-shot-ai-g3l)
-- [A História de como eu ajudei a aprimorar* uma das linguagens de programação mais famosas do mundo: a linguagem Go.](https://dev.to/nyyakko/a-historia-de-como-eu-ajudei-a-aprimorar-uma-das-linguagens-de-programacao-mais-famosas-do-mundo-3bb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
