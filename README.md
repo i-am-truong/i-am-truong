@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [First Look Nomad 1.11.x - Client Node Introduction and Identity](https://dev.to/lykins/first-look-nomad-111x-client-node-introduction-and-identity-32je)
-- [Liquibase in DevOps: Managing Databases the Right Way](https://dev.to/lohita_blue_d6409977eec4c/liquibase-in-devops-managing-databases-the-right-way-cg2)
-- [The Most Expensive Free Product on the Internet](https://dev.to/web_dev-usman/the-most-expensive-free-product-on-the-internet-3m78)
-- [From instructions to binaries to programs](https://dev.to/babilonczyk/from-instructions-to-binaries-to-programs-n2g)
-- [Introducing Vector Buckets](https://dev.to/supabase/introducing-vector-buckets-3134)
+- [Agent Development in Hours, Not Weeks: Accelerating with Gemini 3 and Google ADK](https://dev.to/gioboa/agent-development-in-hours-not-weeks-accelerating-with-gemini-3-and-google-adk-4h0l)
+- [What’s New in WordPress 6.8: Performance, Style Updates &amp; Site Enhancements](https://dev.to/averly_tech_quinn/whats-new-in-wordpress-68-performance-style-updates-site-enhancements-3ole)
+- [Harmonizing Chemical Identity Data for Environmental Monitoring &lpar;Python Solution&rpar;](https://dev.to/phenixzain/harmonizing-chemical-identity-data-for-environmental-monitoringa-python-solution-402a)
+- [Otimizando imagens Docker com multi-stage builds](https://dev.to/laporeon/otimizando-imagens-docker-com-multi-stage-builds-2hol)
+- [Guide to Creating Side Hustles Using Fiverr](https://dev.to/rachanasamarth/guide-to-creating-side-hustles-using-fiverr-58gg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
