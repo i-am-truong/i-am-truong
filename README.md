@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Effectively Managing AI Agents for Testing](https://dev.to/johnjvester/effectively-managing-ai-agents-for-testing-iie)
-- [Use AI to help people think better, work smarter, and move forward with confidence, without fear, without dependency, and without losing judgment.](https://dev.to/jaideepparashar/use-ai-to-help-people-think-better-work-smarter-and-move-forward-with-confidence-without-fear-3ion)
-- [My North Star as an AI Founder &lpar;And Why I’m Not Changing It&rpar;](https://dev.to/jaideepparashar/my-north-star-as-an-ai-founder-and-why-im-not-changing-it-16jp)
-- [How to add a live star history chart to your github readme](https://dev.to/xuanhun/how-to-add-a-live-star-history-chart-to-your-github-readme-15hk)
-- [Testability vs. Automatability: Why Most Automation Efforts Fail Before They Begin](https://dev.to/qa-leaders/testability-vs-automatability-why-most-automation-efforts-fail-before-they-begin-3f6o)
+- [Scripting Challenge Week 1: Port Scanning](https://dev.to/fosres/scripting-challenge-week-1-port-scanning-2464)
+- [Introducing the NORVI M12-B: 5+ Years of Maintenance-Free Utility Telemetry](https://dev.to/norvi_controllers/introducing-the-norvi-m12-b-5-years-of-maintenance-free-utility-telemetry-5g88)
+- [Introduction to Creative Thinking](https://dev.to/stakiran/introduction-to-creative-thinking-5em0)
+- [How a $200 Receiver Led Me Down a Bluetooth Protocol Reverse Engineering Rabbit Hole](https://dev.to/malgana/how-a-200-receiver-led-me-down-a-bluetooth-protocol-reverse-engineering-rabbit-hole-kd2)
+- [I Stacked 3 Small ML Models and Got Video Search That Feels Like Magic](https://dev.to/jason_peterson_607e54abf5/i-stacked-3-small-ml-models-and-got-video-search-that-feels-like-magic-2i63)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
