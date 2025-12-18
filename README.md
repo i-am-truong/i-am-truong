@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AWS open source newsletter, #217](https://dev.to/aws/aws-open-source-newsletter-217-o44)
-- [Secure Linux Server Setup &amp; Application Deployment](https://dev.to/yousufbasir/secure-linux-server-setup-application-deployment-i91)
-- [Beyond AI Why Data Center Stability Is the Competitive Advantage of 2026](https://dev.to/medone_israel_f84a80ed12e/beyond-ai-why-data-center-stability-is-the-competitive-advantage-of-2026-36a1)
-- [Mastering Prompt Engineering Patterns for Production Apps | Ash](https://dev.to/ash_dubai/mastering-prompt-engineering-patterns-for-production-apps-ash-43i9)
-- [Unlock Better Code: Simple Code Review Practices That Actually Work](https://dev.to/ash_dubai/unlock-better-code-simple-code-review-practices-that-actually-work-360p)
+- [How to monitor your app&#39;s health](https://dev.to/rbglod/how-to-monitor-your-apps-health-3cbn)
+- [Visual Scripting with JS&amp;NodeJS](https://dev.to/zlatnaspirala/visual-scripting-with-jsnodejs-50p)
+- [Why Do Networks Even Work Correctly?](https://dev.to/azrecon_/why-do-networks-even-work-correctly-2jce)
+- [DEVOPS PERIODIC TABLE AND RULES HT: HASHICORP TERRAFORM](https://dev.to/hari_saravanan_7ddd3f0bbf/devops-periodic-table-and-rules-nkd)
+- [Atlassian Bamboo in the DevSecOps Periodic Table](https://dev.to/abitha_n24cb001_9847d321/atlassian-bamboo-in-the-devsecops-periodic-table-3c2l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
