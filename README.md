@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [IAP-FIN: Building AI Audit Trails That Actually Satisfy Financial Regulators](https://dev.to/veritaschain/iap-fin-building-ai-audit-trails-that-actually-satisfy-financial-regulators-3il0)
-- [Taiwan’s Stablecoin Dilemma: The Geopolitical and Technological Strategy Behind Currency Peg Choice](https://dev.to/apnews/taiwans-stablecoin-dilemma-the-geopolitical-and-technological-strategy-behind-currency-peg-choice-1nof)
-- [Mentorship vs. Micromanagement in Engineering](https://dev.to/aartijangid23/mentorship-vs-micromanagement-in-engineering-92k)
-- [DNS Failures in EKS? The Real Bottleneck Was AWS Network Limits](https://dev.to/ahmedshendy/dns-failures-in-eks-the-real-bottleneck-was-aws-network-limits-fi)
-- [Smart Contract Development Services: From Concept to Secure Blockchain Deployment](https://dev.to/oodlesplatform/smart-contract-development-services-from-concept-to-secure-blockchain-deployment-3jhj)
+- [Blazor Localization in .NET 8: English–Arabic Multilingual Setup &lpar;Practical Guide&rpar;](https://dev.to/mafzal88_dev_net/blazor-localization-in-net-8-english-arabic-multilingual-setup-practical-guide-5ad9)
+- [New release: LightningChart Python 2.1](https://dev.to/omar_lightningchart/new-release-lightningchart-python-21-2134)
+- [Part 04: Building a Sovereign Software Factory: Jenkins Configuration as Code &lpar;JCasC&rpar;](https://dev.to/warren_jitsing_dd1c1d6fc6/part-04-building-a-sovereign-software-factory-jenkins-configuration-as-code-jcasc-30o5)
+- [AWS Q Developer Agent vs. OpenRewrite: An Architect’s Guide to Realistic Migration Strategies](https://dev.to/jmontagne/aws-q-developer-agent-vs-openrewrite-an-architects-guide-to-realistic-migration-strategies-25f5)
+- [[Boost]](https://dev.to/anthonymax/-54mk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
