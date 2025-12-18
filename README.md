@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Meta-Logger: Tracking My Work Across GitHub, Codeberg, and Bitbucket Using Go](https://dev.to/nimxch/building-a-meta-logger-tracking-my-work-across-github-codeberg-and-bitbucket-using-go-4kp6)
 - [The Overwhelmed Dementia Mind: How Silence Can Bring Relief, Calm, and Connection](https://dev.to/miriamfein-rst/the-overwhelmed-dementia-mind-how-silence-can-bring-relief-calm-and-connection-4ii8)
-- [ULID 1.3.2 is here: .NET 10 support, C# 14 field keyword for zero-overhead validation, and intelligent overflow prevention. Essential reading for .NET architects &amp; senior engineers. #dotnet #csharp #ulid #performance](https://dev.to/gigaherz/ulid-132-is-here-net-10-support-c-14-field-keyword-for-zero-overhead-validation-and-1ip3)
 - [Azure DevOps Pipelines](https://dev.to/atheeba_parveenja24cb0/azure-devops-pipelines-190d)
-- [Evaluating Large Language Models Trained on Code](https://dev.to/paperium/evaluating-large-language-models-trained-on-code-27am)
 - [DEV Track Spotlight: Spec-driven development with Kiro &lpar;DEV314&rpar;](https://dev.to/aws/dev-track-spotlight-spec-driven-development-with-kiro-dev314-45e8)
+- [I built a website security scanner &lpar;because I kept shipping insecure projects&rpar;](https://dev.to/bennidev/i-built-a-website-security-scanner-because-i-kept-shipping-insecure-projects-1d67)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
