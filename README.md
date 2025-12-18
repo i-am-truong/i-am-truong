@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Printed Circuit Board &lpar;PCB&rpar;: Engineering the Foundation of Modern Electronics](https://dev.to/qlhv_wwno_87da67d24608ea9/the-printed-circuit-board-pcb-engineering-the-foundation-of-modern-electronics-20p8)
-- [Building Micro Frontends with React, Vite, and Module Federation: A Complete Guide](https://dev.to/dimuthu7/building-micro-frontends-with-react-vite-and-module-federation-a-complete-guide-4k)
-- [Building a Smart Refrigerator with a $15 IoT Camera and SAM 3: Solving the &quot;Warm Water&quot; Problem](https://dev.to/sns_ar/building-a-smart-refrigerator-with-a-15-iot-camera-and-sam-3-solving-the-warm-water-problem-1pa3)
-- [Running SAM 3 on AMD Ryzen AI Max+ 395: A Complete Guide to Fixing the rocBLAS Error](https://dev.to/sns_ar/running-sam-3-on-amd-ryzen-ai-max-395-a-complete-guide-to-fixing-the-rocblas-error-25io)
-- [SAM 3 Is Here: Meta&#39;s Latest Vision AI Can Now Understand Your Words](https://dev.to/sns_ar/sam-3-is-here-metas-latest-vision-ai-can-now-understand-your-words-12ll)
+- [Top 5 Emerging Developer Tools to Watch in 2026](https://dev.to/thebitforge/top-5-emerging-developer-tools-to-watch-in-2026-12pl)
+- [Alors, ça prompte ?](https://dev.to/onepoint/alors-ca-prompte--3e4l)
+- [A Simple Project That Turned Into Something Much More!](https://dev.to/techgeniuskaran/a-simple-project-that-turned-into-something-much-more-59mp)
+- [Understanding Amazon EC2: The Foundation of Compute on AWS](https://dev.to/jeyy/understanding-amazon-ec2-the-foundation-of-compute-on-aws-22lp)
+- [Praktikum Keamanan Web: Mass Assignment Vulnerability 😱🔓](https://dev.to/ahmadasroni38/praktikum-keamanan-web-mass-assignment-vulnerability-fmh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
