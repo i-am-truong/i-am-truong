@@ -122,9 +122,9 @@ Python                   1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [Having Issues Installing Visual Studio Extensions on ARM Devices? Do this](https://dev.to/rasheedmozaffar/having-issues-installing-visual-studio-extensions-on-arm-devices-do-this-1ad2)
 - [The Complete Guide to Testing Types: Traditional vs AI Era](https://dev.to/qa-leaders/the-complete-guide-to-testing-types-traditional-vs-ai-era-1b92)
+- [How to Scrape LinkedIn Job Postings with Python: A Step-by-Step Guide](https://dev.to/eunit/how-to-scrape-linkedin-job-postings-with-python-a-step-by-step-guide-5bi3)
 - [AWS Prompt Engineering Techniques: A Comprehensive Guide](https://dev.to/brayanarrieta/aws-prompt-engineering-techniques-a-comprehensive-guide-3i3f)
 - [Hyprland 0.52.2+ for Fedora — Clean COPR Build](https://dev.to/ashbuk/hyprland-0522-for-fedora-clean-copr-build-24hm)
-- [Automating Environmental Reporting with Python](https://dev.to/phenixzain/automating-environmental-reporting-with-python-5ali)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
