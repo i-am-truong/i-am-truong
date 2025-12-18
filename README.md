@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Praktikum Keamanan Web: Cross-Site Scripting &lpar;XSS&rpar; 😱💉](https://dev.to/ahmadasroni38/praktikum-keamanan-web-cross-site-scripting-xss-4h9c)
-- [Python Automation: Add or Delete Images in Excel](https://dev.to/codingco/python-automation-add-or-delete-images-in-excel-18o0)
-- [Bulletproof Power Query &lpar;Part 2&rpar;: A Smart, Fuzzy-Match Rename Function](https://dev.to/essam404/bulletproof-power-query-part-2-a-smart-fuzzy-match-rename-function-4n6c)
-- [AI Mock Interviews: Helps You Turn Interviews into Job Offers](https://dev.to/jackm_345442a09fb53b/ai-mock-interviews-helps-you-turn-interviews-into-job-offers-76m)
-- [Blazor Localization in .NET 8: English–Arabic Multilingual Setup &lpar;Practical Guide&rpar;](https://dev.to/mafzal88_dev_net/blazor-localization-in-net-8-english-arabic-multilingual-setup-practical-guide-5ad9)
+- [The Printed Circuit Board &lpar;PCB&rpar;: Engineering the Foundation of Modern Electronics](https://dev.to/qlhv_wwno_87da67d24608ea9/the-printed-circuit-board-pcb-engineering-the-foundation-of-modern-electronics-20p8)
+- [Building Micro Frontends with React, Vite, and Module Federation: A Complete Guide](https://dev.to/dimuthu7/building-micro-frontends-with-react-vite-and-module-federation-a-complete-guide-4k)
+- [Building a Smart Refrigerator with a $15 IoT Camera and SAM 3: Solving the &quot;Warm Water&quot; Problem](https://dev.to/sns_ar/building-a-smart-refrigerator-with-a-15-iot-camera-and-sam-3-solving-the-warm-water-problem-1pa3)
+- [Running SAM 3 on AMD Ryzen AI Max+ 395: A Complete Guide to Fixing the rocBLAS Error](https://dev.to/sns_ar/running-sam-3-on-amd-ryzen-ai-max-395-a-complete-guide-to-fixing-the-rocblas-error-25io)
+- [SAM 3 Is Here: Meta&#39;s Latest Vision AI Can Now Understand Your Words](https://dev.to/sns_ar/sam-3-is-here-metas-latest-vision-ai-can-now-understand-your-words-12ll)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
