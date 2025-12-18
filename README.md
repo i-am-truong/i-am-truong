@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🧠How to make Codex boost your mood like good old Claude Code &lpar;Getting back You&#39;re absolutely right!&rpar;🤖](https://dev.to/webdeveloperhyper/how-to-make-codex-boost-your-mood-like-good-old-claude-code-getting-back-youre-absolutely-1l23)
-- [Collecting Localized Retail Promotions from Best Buy and Walmart: A Developer-First Approach](https://dev.to/anna_6c67c00f5c3f53660978/collecting-localized-retail-promotions-from-best-buy-and-walmart-a-developer-first-approach-14n8)
-- [Vitalik’s Gas Futures, EIL X Space, Polygon Upgrade, USDT Gas Fees, ERC-8092](https://dev.to/etherspot/vitaliks-gas-futures-eil-x-space-polygon-upgrade-usdt-gas-fees-erc-8092-7pe)
-- [Apache Request Header Size Limit – RHEL 9 / Magento 2.4.7](https://dev.to/sgtsanjay/apache-request-header-size-limit-rhel-9-magento-247-dbd)
-- [AI in Development: It’s Not Artificial Intelligence, It’s Collective Intelligence](https://dev.to/thesun2003/ai-in-development-its-not-artificial-intelligence-its-collective-intelligence-4cla)
+- [Top 5 Free Open Source SaaS Starters in 2025 &lpar;Stop Paying for Code&rpar;](https://dev.to/foundmod/top-5-free-open-source-saas-starters-in-2025-stop-paying-for-code-42el)
+- [Build an Attendance Tracker for Virtual Classrooms with Stream](https://dev.to/emmanuelthecoder/build-an-attendance-tracker-for-virtual-classrooms-with-stream-71h)
+- [How to Get Feedback on Your SaaS](https://dev.to/valentin_tya_327693/how-to-get-feedback-on-your-saas-4803)
+- [DAOs Explained: How Decentralized Organizations Actually Work](https://dev.to/ribhavmodi/daos-explained-how-decentralized-organizations-actually-work-33mn)
+- [Building a Production-Ready DevOps CI/CD Pipeline with Docker, Kubernetes &amp; GitHub Actions](https://dev.to/simran05209891/building-a-production-ready-devops-cicd-pipeline-with-docker-kubernetes-github-actions-djc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
