@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 1288 : Lake](https://dev.to/dwane/day-1288-lake-1gi5)
-- [Rate limiters with node:http and redis](https://dev.to/danimydev/rate-limiters-with-nodehttp-and-redis-2330)
-- [Migrating from Manual Borsh to LUMOS: A Step-by-Step Guide](https://dev.to/getlumos/migrating-from-manual-borsh-to-lumos-a-step-by-step-guide-444g)
-- [LUMOS + Anchor: The Perfect Combo for Solana Development](https://dev.to/getlumos/lumos-anchor-the-perfect-combo-for-solana-development-472d)
-- [Type-Safe Rust ↔ TypeScript Communication for Solana](https://dev.to/getlumos/type-safe-rust-typescript-communication-for-solana-3nd0)
+- [Building a Thinking Photo Editor: Migrate to Gemini 3 Pro Image with Angular and Firebase](https://dev.to/railsstudent/building-a-thinking-photo-editor-migrate-to-gemini-3-pro-image-with-angular-and-firebase-1pdk)
+- [Funções de Conversão e Expressões Condicionais em SQL Oracle](https://dev.to/ikauedev/funcoes-de-conversao-e-expressoes-condicionais-em-sql-oracle-5fpj)
+- [SQL Interview Prep: Last-Minute Brushup for Experienced Professionals](https://dev.to/datatechbridge/sql-interview-prep-last-minute-brushup-for-experienced-professionals-1d55)
+- [C# Loops — From `for` and `foreach` to CPU Pipelines and LLM‑Ready Code](https://dev.to/cristiansifuentes/c-loops-from-for-and-foreach-to-cpu-pipelines-and-llm-ready-code-4g31)
+- [The Liskov Substitution Principle, A Model for Parenting](https://dev.to/camiloederson/the-liskov-substitution-principle-explained-through-parenting-4ime)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
