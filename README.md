@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[Boost]](https://dev.to/diempi/-547e)
 - [React Wrapper for Google Drive Picker](https://dev.to/googleworkspace/react-wrapper-for-google-drive-picker-1api)
 - [Introducing Marlin](https://dev.to/tobyink/introducing-marlin-4d4n)
 - [I Stopped Writing Code. Here&#39;s What I Do Instead &lpar;Vibe Coding in 2025&rpar;](https://dev.to/pinky057/i-stopped-writing-code-heres-what-i-do-instead-vibe-coding-in-2025-5661)
 - [We Hit 6 Billion MongoDB Documents &lpar;And Lived to Tell the Tale&rpar;](https://dev.to/milinda_biswas_fb9eeb2a8a/we-hit-6-billion-mongodb-documents-and-lived-to-tell-the-tale-26pj)
-- [Optimal Chunking for Ontology RAG: Empirical Analysis &amp; Orphan Axiom Problem](https://dev.to/vishalmysore/optimal-chunking-for-ontology-rag-empirical-analysis-orphan-axiom-problem-1d1n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
