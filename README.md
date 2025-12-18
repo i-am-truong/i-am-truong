@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Key Azure Backup Solutions You Should Know &lpar;Azure-Native Only&rpar;](https://dev.to/piya__c204c9e90/key-azure-backup-solutions-you-should-know-azure-native-only-1k5p)
-- [Format Indonesian Rupiah Like a Pro with formatRupiah&lpar;&rpar;](https://dev.to/choiruladamm/format-indonesian-rupiah-like-a-pro-with-formatrupiah-3ak0)
-- [What Are MCP Servers? &lpar;And Why They’re So Powerful&rpar;](https://dev.to/saloniagrawal/what-are-mcp-servers-and-why-theyre-so-powerful-10if)
-- [Robotic Welding Cells: Building Reliable, Scalable, and Future-Ready Welding Operations](https://dev.to/carverroboweld_d636790105/robotic-welding-cells-building-reliable-scalable-and-future-ready-welding-operations-2378)
-- [Anti-Detect.com: Your Browser Fingerprint Scanner &amp; Privacy Toolkit](https://dev.to/ago_91ee878ac36f5b3e6e157/anti-detectcom-your-browser-fingerprint-scanner-privacy-toolkit-3ole)
+- [What I learned while putting together my IDP &lpar;Individual Development Plan&rpar;](https://dev.to/allmightenglishtech/what-i-learned-while-putting-together-my-idp-individual-development-plan-3i2o)
+- [The End of Agile: When the Assumptions Beneath Your Methodology Collapse](https://dev.to/cleberdelima/the-end-of-agile-when-the-assumptions-beneath-your-methodology-collapse-3g12)
+- [CSS Opacity Masterclass 2025: Guide with Code Examples &amp; Best Practices](https://dev.to/satyam_gupta_0d1ff2152dcc/css-opacity-masterclass-2025-guide-with-code-examples-best-practices-3e7e)
+- [Setting Up a Frontend Build for HTML Email Templating with MJML](https://dev.to/byteminds/setting-up-a-frontend-build-for-html-email-templating-with-mjml-4eh1)
+- [Dependency Injection: a Python Way](https://dev.to/rosgluk/dependency-injection-a-python-way-2ahi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
