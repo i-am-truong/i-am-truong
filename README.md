@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Rare Finch Sightings in Colorado: Stories from Birders You’ll Love](https://dev.to/birdiegeeks/rare-finch-sightings-in-colorado-stories-from-birders-youll-love-46hp)
-- [Conditional Generative Adversarial Nets](https://dev.to/paperium/conditional-generative-adversarial-nets-479g)
-- [Aliaser – elegant aliases for models, Livewire and DTO in Laravel](https://dev.to/sindyko/aliaser-elegant-aliases-for-models-livewire-and-dto-in-laravel-4987)
-- [Understanding AI Talking Photos: How AI Turns Images into Speaking Videos](https://dev.to/herman99630/understanding-ai-talking-photos-how-ai-turns-images-into-speaking-videos-ghh)
-- [Alternatives to GitHub Actions for self-hosted runners](https://dev.to/r0bbie/alternatives-to-github-actions-for-self-hosted-runners-5eaj)
+- [VAP: A Universal Framework for AI Flight Recorders](https://dev.to/veritaschain/vap-a-universal-framework-for-ai-flight-recorders-23e0)
+- [Praktikum Algoritma: Linear Search dengan Python 😎](https://dev.to/ahmadasroni38/praktikum-algoritma-linear-search-dengan-python-467h)
+- [10 Best AI Interview Helpers for 2026](https://dev.to/finalroundai/10-best-ai-interview-helpers-for-2026-4lg6)
+- [Integrating Native On-Device Models into Flutter Without JNI Hell](https://dev.to/raulsmithus/integrating-native-on-device-models-into-flutter-without-jni-hell-3i3a)
+- [AI Music Videos: How Independent Artists Are Competing With Major Label Production Quality](https://dev.to/_fde76ff2d01974642930b/ai-music-videos-how-independent-artists-are-competing-with-major-label-production-quality-5435)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
