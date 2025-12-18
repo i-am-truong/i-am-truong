@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 Emerging Developer Tools to Watch in 2026](https://dev.to/thebitforge/top-5-emerging-developer-tools-to-watch-in-2026-12pl)
-- [Alors, ça prompte ?](https://dev.to/onepoint/alors-ca-prompte--3e4l)
-- [A Simple Project That Turned Into Something Much More!](https://dev.to/techgeniuskaran/a-simple-project-that-turned-into-something-much-more-59mp)
-- [Understanding Amazon EC2: The Foundation of Compute on AWS](https://dev.to/jeyy/understanding-amazon-ec2-the-foundation-of-compute-on-aws-22lp)
-- [Praktikum Keamanan Web: Mass Assignment Vulnerability 😱🔓](https://dev.to/ahmadasroni38/praktikum-keamanan-web-mass-assignment-vulnerability-fmh)
+- [5 YouTube Channels Every Programmer Should Follow in 2025!](https://dev.to/respect17/5-youtube-channels-every-programmer-should-follow-in-2025-1dba)
+- [Role of 3D Modeling in Modern Structural Drafting Services](https://dev.to/reetielubana/role-of-3d-modeling-in-modern-structural-drafting-services-4k5m)
+- [How to Design a Darbuka Drum using 3D CAD Software](https://dev.to/julia970/how-to-design-a-darbuka-drum-using-3d-cad-software-5h9k)
+- [Anatomy of a Trust Scam: How TraderKnows Manipulates Forum Traffic](https://dev.to/qingshieldcenter/anatomy-of-a-trust-scam-how-traderknows-manipulates-forum-traffic-51bp)
+- [How I Protected My Apache-Based E-commerce Store with SafeLine WAF &lpar;Beginner-Friendly Guide&rpar;](https://dev.to/arina_cholee/how-i-protected-my-apache-based-e-commerce-store-with-safeline-waf-beginner-friendly-guide-4bhe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
