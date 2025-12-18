@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [TailAdmin Laravel: Laravel Admin Dashboard Built with Tailwind and Blade](https://dev.to/tailadmin/tailadmin-laravel-laravel-admin-dashboard-built-with-tailwind-and-blade-a84)
-- [Dynamic Invoice PDF Generator Using IronPDF HTML Templates](https://dev.to/surinder_singh_21841dc459/dynamic-invoice-pdf-generator-using-ironpdf-html-templates-10of)
-- [Trump Family’s Bitcoin Holdings: When a Crypto Mining Giant Catches Up to GameStop’s Digital Assets](https://dev.to/apnews/trump-familys-bitcoin-holdings-when-a-crypto-mining-giant-catches-up-to-gamestops-digital-assets-4jo8)
-- [Day 75 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-75-of-100-days-dsa-coding-challenge-4h)
-- [The Circuit Breaker Pattern: Building Resilient Applications](https://dev.to/fernanda_nadhiftya/the-circuit-breaker-pattern-building-resilient-applications-4pj7)
+- [Mastering Sui DeepBook: A Hands-On DeFi DEX Series &lpar;3&rpar;](https://dev.to/rajeshroyal/mastering-sui-deepbook-a-hands-on-defi-dex-series-3-1lk1)
+- [智力题——高空抛鸡蛋](https://dev.to/liuxiaoguan/zhi-li-ti-gao-kong-pao-ji-dan-kk1)
+- [How to Deliver Smooth Android App Performance Across All Devices](https://dev.to/misterankit/how-to-deliver-smooth-android-app-performance-across-all-devices-1co6)
+- [Regular Expressions Fast – JavaScript Regex &lpar;Beginner to Pro&rpar;](https://dev.to/mahmud-r-farhan/regular-expressions-fast-javascript-regex-beginner-to-pro-4egb)
+- [Scaling Horizontally: Kubernetes, Sticky Sessions, and Redis](https://dev.to/deepak_mishra_35863517037/scaling-horizontally-kubernetes-sticky-sessions-and-redis-578o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
