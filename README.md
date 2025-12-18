@@ -120,8 +120,8 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The &quot;Spinner of Death&quot;: Why Localhost Latency is Lying to You](https://dev.to/aragossa/the-spinner-of-death-why-localhost-latency-is-lying-to-you-3326)
 - [SQL SIDE QUEST - An Immersive story telling SQL Game](https://dev.to/sqlsidequest/sql-side-quest-an-immersive-story-telling-sql-game-4jin)
-- [I Ran Vibe Coding on My Eating Habits. The Results Were Disturbing.](https://dev.to/manoj6543/i-ran-vibe-coding-on-my-eating-habits-the-results-were-disturbing-4lmj)
 - [Day 4: Plan the Holidays in Markdown &lpar;Markdown Editor&rpar; 📝](https://dev.to/dev_michael/day-4-plan-the-holidays-in-markdown-markdown-editor-4app)
 - [Day 3: Holiday Notes That Don’t Get Lost &lpar;Note Taker&rpar; 🗒️](https://dev.to/dev_michael/day-3-holiday-notes-that-dont-get-lost-note-taker-1cee)
 - [terraform certificate #6](https://dev.to/jumptotech/terraform-certificate-6-1hh2)
