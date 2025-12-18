@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Have you seen your DEV Wrapped 2025 yet? 🎁](https://dev.to/dev_kiran/have-you-seen-your-dev-wrapped-2025-yet-embed-ljk)
+- [You&#39;re Not Bad at Side Projects. You&#39;re Just Building the Wrong Thing.](https://dev.to/lewisnewman24/youre-not-bad-at-side-projects-youre-just-building-the-wrong-thing-2h58)
+- [7 Best Resources to Learn Flutter: My Way to Confident Developer](https://dev.to/stack_overflowed/7-best-resources-to-learn-flutter-my-way-to-confident-developer-1c49)
 - [Mastering Sui DeepBook: A Hands-On DeFi DEX Series &lpar;3&rpar;](https://dev.to/rajeshroyal/mastering-sui-deepbook-a-hands-on-defi-dex-series-3-1lk1)
 - [智力题——高空抛鸡蛋](https://dev.to/liuxiaoguan/zhi-li-ti-gao-kong-pao-ji-dan-kk1)
-- [How to Deliver Smooth Android App Performance Across All Devices](https://dev.to/misterankit/how-to-deliver-smooth-android-app-performance-across-all-devices-1co6)
-- [Regular Expressions Fast – JavaScript Regex &lpar;Beginner to Pro&rpar;](https://dev.to/mahmud-r-farhan/regular-expressions-fast-javascript-regex-beginner-to-pro-4egb)
-- [Scaling Horizontally: Kubernetes, Sticky Sessions, and Redis](https://dev.to/deepak_mishra_35863517037/scaling-horizontally-kubernetes-sticky-sessions-and-redis-578o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
