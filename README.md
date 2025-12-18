@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🧠How to make Codex boost your mood like good old Claude Code &lpar;Getting back You&#39;re absolutely right!&rpar;🤖](https://dev.to/webdeveloperhyper/how-to-make-codex-boost-your-mood-like-good-old-claude-code-getting-back-youre-absolutely-1l23)
 - [Collecting Localized Retail Promotions from Best Buy and Walmart: A Developer-First Approach](https://dev.to/anna_6c67c00f5c3f53660978/collecting-localized-retail-promotions-from-best-buy-and-walmart-a-developer-first-approach-14n8)
 - [Vitalik’s Gas Futures, EIL X Space, Polygon Upgrade, USDT Gas Fees, ERC-8092](https://dev.to/etherspot/vitaliks-gas-futures-eil-x-space-polygon-upgrade-usdt-gas-fees-erc-8092-7pe)
 - [Apache Request Header Size Limit – RHEL 9 / Magento 2.4.7](https://dev.to/sgtsanjay/apache-request-header-size-limit-rhel-9-magento-247-dbd)
-- [How I Built a Security-First SaaS Boilerplate with 100% Test Coverage](https://dev.to/hasan_kemaldemirci_7e7b7/how-i-built-a-security-first-saas-boilerplate-with-100-test-coverage-30dl)
-- [How to use competency &amp; skills matrix in 1on1 and performance reviews](https://dev.to/ridd0/how-to-use-competency-skills-matrix-in-1on1-and-performance-reviews-ji4)
+- [AI in Development: It’s Not Artificial Intelligence, It’s Collective Intelligence](https://dev.to/thesun2003/ai-in-development-its-not-artificial-intelligence-its-collective-intelligence-4cla)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
