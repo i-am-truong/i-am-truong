@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Thinking Photo Editor: Migrate to Gemini 3 Pro Image with Angular and Firebase](https://dev.to/railsstudent/building-a-thinking-photo-editor-migrate-to-gemini-3-pro-image-with-angular-and-firebase-1pdk)
-- [Funções de Conversão e Expressões Condicionais em SQL Oracle](https://dev.to/ikauedev/funcoes-de-conversao-e-expressoes-condicionais-em-sql-oracle-5fpj)
-- [SQL Interview Prep: Last-Minute Brushup for Experienced Professionals](https://dev.to/datatechbridge/sql-interview-prep-last-minute-brushup-for-experienced-professionals-1d55)
-- [C# Loops — From `for` and `foreach` to CPU Pipelines and LLM‑Ready Code](https://dev.to/cristiansifuentes/c-loops-from-for-and-foreach-to-cpu-pipelines-and-llm-ready-code-4g31)
-- [The Liskov Substitution Principle, A Model for Parenting](https://dev.to/camiloederson/the-liskov-substitution-principle-explained-through-parenting-4ime)
+- [Effectively Managing AI Agents for Testing](https://dev.to/johnjvester/effectively-managing-ai-agents-for-testing-iie)
+- [Use AI to help people think better, work smarter, and move forward with confidence, without fear, without dependency, and without losing judgment.](https://dev.to/jaideepparashar/use-ai-to-help-people-think-better-work-smarter-and-move-forward-with-confidence-without-fear-3ion)
+- [My North Star as an AI Founder &lpar;And Why I’m Not Changing It&rpar;](https://dev.to/jaideepparashar/my-north-star-as-an-ai-founder-and-why-im-not-changing-it-16jp)
+- [How to add a live star history chart to your github readme](https://dev.to/xuanhun/how-to-add-a-live-star-history-chart-to-your-github-readme-15hk)
+- [Testability vs. Automatability: Why Most Automation Efforts Fail Before They Begin](https://dev.to/qa-leaders/testability-vs-automatability-why-most-automation-efforts-fail-before-they-begin-3f6o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
