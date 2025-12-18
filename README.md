@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 Free Open Source SaaS Starters in 2025 &lpar;Stop Paying for Code&rpar;](https://dev.to/foundmod/top-5-free-open-source-saas-starters-in-2025-stop-paying-for-code-42el)
-- [Build an Attendance Tracker for Virtual Classrooms with Stream](https://dev.to/emmanuelthecoder/build-an-attendance-tracker-for-virtual-classrooms-with-stream-71h)
-- [How to Get Feedback on Your SaaS](https://dev.to/valentin_tya_327693/how-to-get-feedback-on-your-saas-4803)
-- [DAOs Explained: How Decentralized Organizations Actually Work](https://dev.to/ribhavmodi/daos-explained-how-decentralized-organizations-actually-work-33mn)
-- [Building a Production-Ready DevOps CI/CD Pipeline with Docker, Kubernetes &amp; GitHub Actions](https://dev.to/simran05209891/building-a-production-ready-devops-cicd-pipeline-with-docker-kubernetes-github-actions-djc)
+- [Day 18 — Misconfiguration &lpar;YAML Voorhees&rpar;](https://dev.to/aerabi/day-18-misconfiguration-yaml-voorhees-1bm8)
+- [Beyond Sharper Images: How LLM-Guided Super-Resolution Transforms Geo-Spatial Analysis](https://dev.to/capestart/beyond-sharper-images-how-llm-guided-super-resolution-transforms-geo-spatial-analysis-59a9)
+- [Level Up Your AI Projects: 12 Frontend UI Kits That Actually Work ⚡](https://dev.to/ananiket/level-up-your-ai-projects-12-frontend-ui-kits-that-actually-work-5bjb)
+- [AWS Governance with a Terragrunt Live Environment](https://dev.to/lucasdecamargo/aws-governance-with-a-terragrunt-live-environment-3lgi)
+- [I Built a Framework-Agnostic Backend Boilerplate &lpar;Node, Bun, Express, Hono...&rpar;](https://dev.to/adamgolan/i-built-a-framework-agnostic-backend-boilerplate-node-bun-express-hono-22e3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
