@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Have you seen your DEV Wrapped 2025 yet? 🎁](https://dev.to/dev_kiran/have-you-seen-your-dev-wrapped-2025-yet-embed-ljk)
-- [You&#39;re Not Bad at Side Projects. You&#39;re Just Building the Wrong Thing.](https://dev.to/lewisnewman24/youre-not-bad-at-side-projects-youre-just-building-the-wrong-thing-2h58)
-- [7 Best Resources to Learn Flutter: My Way to Confident Developer](https://dev.to/stack_overflowed/7-best-resources-to-learn-flutter-my-way-to-confident-developer-1c49)
-- [Mastering Sui DeepBook: A Hands-On DeFi DEX Series &lpar;3&rpar;](https://dev.to/rajeshroyal/mastering-sui-deepbook-a-hands-on-defi-dex-series-3-1lk1)
-- [智力题——高空抛鸡蛋](https://dev.to/liuxiaoguan/zhi-li-ti-gao-kong-pao-ji-dan-kk1)
+- [Stop Memorizing Kubernetes: Pods, Deployments, and Services Explained](https://dev.to/sharonkynu/stop-memorizing-kubernetes-pods-deployments-and-services-explained-3e64)
+- [Quantifying the Intangible: A Strategic Framework for Measuring the Impact of Business Simulations](https://dev.to/leadership28/quantifying-the-intangible-a-strategic-framework-for-measuring-the-impact-of-business-simulations-39dd)
+- [Are We in an AI Bubble? A Tech Professional&#39;s Perspective](https://dev.to/junyoungmoon/are-we-in-an-ai-bubble-a-tech-professionals-perspective-3m3b)
+- [Linux Filesystem and Navigation for DevOps &lpar;With Practical Demo&rpar;](https://dev.to/chetan_tekam_3500/linux-filesystem-and-navigation-for-devops-with-practical-demo-5g36)
+- [The Secret Life of Python: The Infinite Copy](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-infinite-copy-16b4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
