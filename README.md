@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 18 — Misconfiguration &lpar;YAML Voorhees&rpar;](https://dev.to/aerabi/day-18-misconfiguration-yaml-voorhees-1bm8)
-- [Beyond Sharper Images: How LLM-Guided Super-Resolution Transforms Geo-Spatial Analysis](https://dev.to/capestart/beyond-sharper-images-how-llm-guided-super-resolution-transforms-geo-spatial-analysis-59a9)
-- [Level Up Your AI Projects: 12 Frontend UI Kits That Actually Work ⚡](https://dev.to/ananiket/level-up-your-ai-projects-12-frontend-ui-kits-that-actually-work-5bjb)
-- [AWS Governance with a Terragrunt Live Environment](https://dev.to/lucasdecamargo/aws-governance-with-a-terragrunt-live-environment-3lgi)
-- [I Built a Framework-Agnostic Backend Boilerplate &lpar;Node, Bun, Express, Hono...&rpar;](https://dev.to/adamgolan/i-built-a-framework-agnostic-backend-boilerplate-node-bun-express-hono-22e3)
+- [Why We’re Building PostureX, and How It Works](https://dev.to/lorcan_firstblox/why-were-building-posturex-and-how-it-works-1ha4)
+- [Architecting Large-Scale SharePoint Online Automation Without Melting the Tenant](https://dev.to/aakash_rahsi_8d28156d5f2c/architecting-large-scale-sharepoint-online-automation-without-melting-the-tenant-2d6c)
+- [Apertre 3.0: A 30-Day Open-Source Journey for Developers 🚀](https://dev.to/soumyajit2825/apertre-30-a-30-day-open-source-journey-for-developers-3e7d)
+- [Gitlogue: Turning Your Commit History into a Cinematic Terminal Experience](https://dev.to/githubopensource/gitlogue-turning-your-commit-history-into-a-cinematic-terminal-experience-3592)
+- [Antigravity feels heavy and Claude Skills are light](https://dev.to/teamquesma/antigravity-feels-heavy-and-claude-skills-are-light-9b0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
