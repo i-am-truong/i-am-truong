@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Agent Development in Hours, Not Weeks: Accelerating with Gemini 3 and Google ADK](https://dev.to/gioboa/agent-development-in-hours-not-weeks-accelerating-with-gemini-3-and-google-adk-4h0l)
-- [What’s New in WordPress 6.8: Performance, Style Updates &amp; Site Enhancements](https://dev.to/averly_tech_quinn/whats-new-in-wordpress-68-performance-style-updates-site-enhancements-3ole)
-- [Harmonizing Chemical Identity Data for Environmental Monitoring &lpar;Python Solution&rpar;](https://dev.to/phenixzain/harmonizing-chemical-identity-data-for-environmental-monitoringa-python-solution-402a)
-- [Otimizando imagens Docker com multi-stage builds](https://dev.to/laporeon/otimizando-imagens-docker-com-multi-stage-builds-2hol)
-- [Guide to Creating Side Hustles Using Fiverr](https://dev.to/rachanasamarth/guide-to-creating-side-hustles-using-fiverr-58gg)
+- [Proxy, Reverse Proxy e Load Balancer: Spiegati come in un Ristorante](https://dev.to/scape/proxy-reverse-proxy-e-load-balancer-spiegati-come-in-un-ristorante-2ih2)
+- [Smart Escrow Series #3: Security](https://dev.to/ripplexdev/smart-escrow-series-3-security-3e0p)
+- [Monitoring Environmental Quality Standards with Power BI](https://dev.to/phenixzain/monitoring-environmental-quality-standards-with-power-bi-426f)
+- [Hackathones, cansancio y razones del por qué Buen Día Builders existe](https://dev.to/ar3lisa/hackathones-cansancio-y-razones-del-por-que-buen-dia-builders-existe-1nob)
+- [Terraform certificate #3](https://dev.to/jumptotech/terraform-certificate-3-2dga)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
