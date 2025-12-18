@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Luxury Layer](https://dev.to/justcatdev/the-luxury-layer-205b)
-- [Idempotency](https://dev.to/igor_grieder/idempotency-29ed)
-- [Guardium - Password Protector &lpar;Day -1&rpar;](https://dev.to/debmalyadas007/guardium-password-protector-day-1-1p4g)
-- [A Complete Architecture Guide for RAG + Agent Systems](https://dev.to/dowhatmatters/a-complete-architecture-guide-for-rag-agent-systems-454i)
-- [The Empty Box Problem in Laravel Migrations &lpar;And why I stopped using default strings&rpar;](https://dev.to/tahsin000/the-empty-box-problem-in-laravel-migrations-and-why-i-stopped-using-default-strings-4hc6)
+- [Swift #18: Estructuras genéricas](https://dev.to/david_goyes_a488f58a17a53/swift-18-estructuras-genericas-49kp)
+- [terraform certification #4](https://dev.to/jumptotech/terraform-certification-4-ejk)
+- [Build Voice AI Agents in Minutes with JustCopy.ai](https://dev.to/anupsingh_ai/build-voice-ai-agents-in-minutes-with-justcopyai-194n)
+- [Webpack Fast Refresh vs Vite](https://dev.to/alikim/webpack-fast-refresh-vs-vite-4ffk)
+- [Rapid Prototyping with Retell AI: A No-Code Builder Guide to Voice Apps](https://dev.to/callstacktech/rapid-prototyping-with-retell-ai-a-no-code-builder-guide-to-voice-apps-2d92)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
