@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ASTER&#39;s Crystal Airdrop: Phase 5 Token Distribution and the Road to Its Dedicated Blockchain](https://dev.to/nftsaz2025/asters-crystal-airdrop-phase-5-token-distribution-and-the-road-to-its-dedicated-blockchain-1pia)
-- [DoorDash System Design Interview Courses You Didn&#39;t Think You&#39;d Need](https://dev.to/dev_loops/doordash-system-design-interview-courses-you-didnt-think-youd-need-271f)
-- [Creating SLAs for Website Tech Support: Response Times, Priorities, and Boundaries](https://dev.to/prateekshaweb/creating-slas-for-website-tech-support-response-times-priorities-and-boundaries-gge)
-- [How to Connect MCP Server to Claude?](https://dev.to/ndabene/how-to-connect-mcp-server-to-claude-1l6d)
-- [Hello, dev.to! I&#39;m Chintan Shah 👋](https://dev.to/chintanshah35/hello-devto-im-chintan-shah-2hka)
+- [Rare Finch Sightings in Colorado: Stories from Birders You’ll Love](https://dev.to/birdiegeeks/rare-finch-sightings-in-colorado-stories-from-birders-youll-love-46hp)
+- [Conditional Generative Adversarial Nets](https://dev.to/paperium/conditional-generative-adversarial-nets-479g)
+- [Aliaser – elegant aliases for models, Livewire and DTO in Laravel](https://dev.to/sindyko/aliaser-elegant-aliases-for-models-livewire-and-dto-in-laravel-4987)
+- [Understanding AI Talking Photos: How AI Turns Images into Speaking Videos](https://dev.to/herman99630/understanding-ai-talking-photos-how-ai-turns-images-into-speaking-videos-ghh)
+- [Alternatives to GitHub Actions for self-hosted runners](https://dev.to/r0bbie/alternatives-to-github-actions-for-self-hosted-runners-5eaj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
