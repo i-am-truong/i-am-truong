@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AWS Neptune: Where Data Relationships Actually Make Sense](https://dev.to/naveens_k_403279738dbcab6/aws-neptune-where-data-relationships-actually-make-sense-311n)
-- [Why Excel WBS Fails: The Limits of File-Based Collaboration](https://dev.to/_jeongyuhyeon_03de1/why-excel-wbs-fails-the-limits-of-file-based-collaboration-npd)
-- [How to monitor your app&#39;s health](https://dev.to/rbglod/how-to-monitor-your-apps-health-3cbn)
-- [Visual Scripting with JS&amp;NodeJS](https://dev.to/zlatnaspirala/visual-scripting-with-jsnodejs-50p)
-- [Why Do Networks Even Work Correctly?](https://dev.to/azrecon_/why-do-networks-even-work-correctly-2jce)
+- [The Overwhelmed Dementia Mind: How Silence Can Bring Relief, Calm, and Connection](https://dev.to/miriamfein-rst/the-overwhelmed-dementia-mind-how-silence-can-bring-relief-calm-and-connection-4ii8)
+- [ULID 1.3.2 is here: .NET 10 support, C# 14 field keyword for zero-overhead validation, and intelligent overflow prevention. Essential reading for .NET architects &amp; senior engineers. #dotnet #csharp #ulid #performance](https://dev.to/gigaherz/ulid-132-is-here-net-10-support-c-14-field-keyword-for-zero-overhead-validation-and-1ip3)
+- [Azure DevOps Pipelines](https://dev.to/atheeba_parveenja24cb0/azure-devops-pipelines-190d)
+- [Evaluating Large Language Models Trained on Code](https://dev.to/paperium/evaluating-large-language-models-trained-on-code-27am)
+- [DEV Track Spotlight: Spec-driven development with Kiro &lpar;DEV314&rpar;](https://dev.to/aws/dev-track-spotlight-spec-driven-development-with-kiro-dev314-45e8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
