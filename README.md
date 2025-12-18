@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [IAM Roles, Temporary Credentials &amp; Alerting - AWS Well-Architected Framework &lpar;Security Pillar&rpar;](https://dev.to/morekiranp/iam-roles-temporary-credentials-alerting-aws-well-architected-framework-security-pillar-3afo)
-- [Se você se sente perdido como dev leia esse texto](https://dev.to/realgalego/se-voce-se-sente-perdido-como-dev-leia-esse-texto-55mm)
-- [The Intersection of web2 backend and web3](https://dev.to/tech_girlll/the-intersection-of-web2-backend-and-web3-3cb6)
-- [Rebuilding My Career: Life, Remote Work, and Software Development in Austria](https://dev.to/nahid_salehibavani_7270e/rebuilding-my-career-life-remote-work-and-software-development-in-austria-1emi)
-- [HMP v5.0: новый контейнерный протокол для децентрализованного мышления](https://dev.to/kagvi13/hmp-v50-novyi-kontieiniernyi-protokol-dlia-dietsientralizovannogho-myshlieniia-27dh)
+- [React Wrapper for Google Drive Picker](https://dev.to/googleworkspace/react-wrapper-for-google-drive-picker-1api)
+- [Introducing Marlin](https://dev.to/tobyink/introducing-marlin-4d4n)
+- [I Stopped Writing Code. Here&#39;s What I Do Instead &lpar;Vibe Coding in 2025&rpar;](https://dev.to/pinky057/i-stopped-writing-code-heres-what-i-do-instead-vibe-coding-in-2025-5661)
+- [We Hit 6 Billion MongoDB Documents &lpar;And Lived to Tell the Tale&rpar;](https://dev.to/milinda_biswas_fb9eeb2a8a/we-hit-6-billion-mongodb-documents-and-lived-to-tell-the-tale-26pj)
+- [Optimal Chunking for Ontology RAG: Empirical Analysis &amp; Orphan Axiom Problem](https://dev.to/vishalmysore/optimal-chunking-for-ontology-rag-empirical-analysis-orphan-axiom-problem-1d1n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
