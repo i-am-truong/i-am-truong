@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [First Look Nomad 1.11.x - Client Node Introduction and Identity](https://dev.to/lykins/first-look-nomad-111x-client-node-introduction-and-identity-32je)
 - [Liquibase in DevOps: Managing Databases the Right Way](https://dev.to/lohita_blue_d6409977eec4c/liquibase-in-devops-managing-databases-the-right-way-cg2)
 - [The Most Expensive Free Product on the Internet](https://dev.to/web_dev-usman/the-most-expensive-free-product-on-the-internet-3m78)
 - [From instructions to binaries to programs](https://dev.to/babilonczyk/from-instructions-to-binaries-to-programs-n2g)
 - [Introducing Vector Buckets](https://dev.to/supabase/introducing-vector-buckets-3134)
-- [AWS Braket- AWS SERVICE](https://dev.to/baviya_varshiniv_5840bee/aws-braket-aws-service-4h2g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
