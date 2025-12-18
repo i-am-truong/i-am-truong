@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Basics to Improve Your Reasoning](https://dev.to/lovestaco/why-slowing-down-makes-you-smarter-564m)
-- [Swift #18: Estructuras genéricas](https://dev.to/david_goyes_a488f58a17a53/swift-18-estructuras-genericas-49kp)
-- [terraform certification #4](https://dev.to/jumptotech/terraform-certification-4-ejk)
-- [Build Voice AI Agents in Minutes with JustCopy.ai](https://dev.to/anupsingh_ai/build-voice-ai-agents-in-minutes-with-justcopyai-194n)
-- [Webpack Fast Refresh vs Vite](https://dev.to/alikim/webpack-fast-refresh-vs-vite-4ffk)
+- [A Decentralized AI Platform That Democratizes AI Infrastructure](https://dev.to/iamkyr0/a-decentralized-ai-platform-that-democratizes-ai-infrastructure-34da)
+- [Build Voice AI Applications with No-Code: Retell AI Guide to Success](https://dev.to/callstacktech/build-voice-ai-applications-with-no-code-retell-ai-guide-to-success-1ldd)
+- [When Git Push Protection Saves You: Remove Secrets the Right Way &lpar;Azure AD/Entra + .NET&rpar;](https://dev.to/cristiansifuentes/when-git-push-protection-saves-you-remove-secrets-the-right-way-azure-adentra-net-2g6)
+- [It&#39;s Time to DisCo: The Case for Distributed Cognition in AI Agents.](https://dev.to/amit_bhadoria_9d67cd7ea32/its-time-to-disco-the-case-for-distributed-cognition-in-ai-agents-1999)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
