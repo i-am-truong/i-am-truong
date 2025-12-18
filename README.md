@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Basics to Improve Your Reasoning](https://dev.to/lovestaco/why-slowing-down-makes-you-smarter-564m)
 - [Swift #18: Estructuras genéricas](https://dev.to/david_goyes_a488f58a17a53/swift-18-estructuras-genericas-49kp)
 - [terraform certification #4](https://dev.to/jumptotech/terraform-certification-4-ejk)
 - [Build Voice AI Agents in Minutes with JustCopy.ai](https://dev.to/anupsingh_ai/build-voice-ai-agents-in-minutes-with-justcopyai-194n)
 - [Webpack Fast Refresh vs Vite](https://dev.to/alikim/webpack-fast-refresh-vs-vite-4ffk)
-- [Rapid Prototyping with Retell AI: A No-Code Builder Guide to Voice Apps](https://dev.to/callstacktech/rapid-prototyping-with-retell-ai-a-no-code-builder-guide-to-voice-apps-2d92)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
