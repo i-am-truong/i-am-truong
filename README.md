@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Meta-Logger: Tracking My Work Across GitHub, Codeberg, and Bitbucket Using Go](https://dev.to/nimxch/building-a-meta-logger-tracking-my-work-across-github-codeberg-and-bitbucket-using-go-4kp6)
-- [The Overwhelmed Dementia Mind: How Silence Can Bring Relief, Calm, and Connection](https://dev.to/miriamfein-rst/the-overwhelmed-dementia-mind-how-silence-can-bring-relief-calm-and-connection-4ii8)
-- [Azure DevOps Pipelines](https://dev.to/atheeba_parveenja24cb0/azure-devops-pipelines-190d)
-- [DEV Track Spotlight: Spec-driven development with Kiro &lpar;DEV314&rpar;](https://dev.to/aws/dev-track-spotlight-spec-driven-development-with-kiro-dev314-45e8)
-- [I built a website security scanner &lpar;because I kept shipping insecure projects&rpar;](https://dev.to/bennidev/i-built-a-website-security-scanner-because-i-kept-shipping-insecure-projects-1d67)
+- [Jenkins in DevSecOps Periodic Table](https://dev.to/jai_surya_m/jenkins-in-devsecops-periodic-table-5c21)
+- [Infra Proverbs](https://dev.to/rosesecurity/infra-proverbs-1ljm)
+- [Tips to Grow Your E-Commerce Customer Base Organically](https://dev.to/maryhelenhart/tips-to-grow-your-e-commerce-customer-base-organically-273f)
+- [Testing Azure Logic Apps: Complete Guide to LogicAppUnit Framework](https://dev.to/imdj/testing-azure-logic-apps-complete-guide-to-logicappunit-framework-3l29)
+- [OpenAI&#39;s Latest API Evolution: GPT-5.2, Realtime Function Calling, and Sharper Embeddings Reshape the Developer Landscape](https://dev.to/dataformathub/openais-latest-api-evolution-gpt-52-realtime-function-calling-and-sharper-embeddings-reshape-3ip3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
