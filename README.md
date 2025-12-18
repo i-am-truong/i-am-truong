@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Performance Under Pressure: Crisis Detection Without UI Lag](https://dev.to/crisiscoresystems/performance-under-pressure-ensuring-crisis-detection-doesnt-degrade-user-experience-h4m)
-- [AWS Service: Amazon DynamoDB](https://dev.to/divya__sundarasekaran_459/aws-service-amazon-dynamodb-3kpe)
-- [Words and Letters: Take your side](https://dev.to/obrutus/words-and-letters-take-your-side-2lfk)
-- [AWS Service – Amazon S3 Glacier](https://dev.to/ganges07/aws-service-amazon-s3-glacier-8e5)
-- [Microsoft Purview no Ignite 2025: segurança de dados integrada para a era de IA e agentes](https://dev.to/angelo_matias/microsoft-purview-no-ignite-2025-seguranca-de-dados-integrada-para-a-era-de-ia-e-agentes-1c49)
+- [Liquibase in DevOps: Managing Databases the Right Way](https://dev.to/lohita_blue_d6409977eec4c/liquibase-in-devops-managing-databases-the-right-way-cg2)
+- [The Most Expensive Free Product on the Internet](https://dev.to/web_dev-usman/the-most-expensive-free-product-on-the-internet-3m78)
+- [From instructions to binaries to programs](https://dev.to/babilonczyk/from-instructions-to-binaries-to-programs-n2g)
+- [Introducing Vector Buckets](https://dev.to/supabase/introducing-vector-buckets-3134)
+- [AWS Braket- AWS SERVICE](https://dev.to/baviya_varshiniv_5840bee/aws-braket-aws-service-4h2g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
