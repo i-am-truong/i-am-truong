@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Jenkins in DevSecOps Periodic Table](https://dev.to/jai_surya_m/jenkins-in-devsecops-periodic-table-5c21)
-- [Infra Proverbs](https://dev.to/rosesecurity/infra-proverbs-1ljm)
-- [Tips to Grow Your E-Commerce Customer Base Organically](https://dev.to/maryhelenhart/tips-to-grow-your-e-commerce-customer-base-organically-273f)
-- [Testing Azure Logic Apps: Complete Guide to LogicAppUnit Framework](https://dev.to/imdj/testing-azure-logic-apps-complete-guide-to-logicappunit-framework-3l29)
-- [OpenAI&#39;s Latest API Evolution: GPT-5.2, Realtime Function Calling, and Sharper Embeddings Reshape the Developer Landscape](https://dev.to/dataformathub/openais-latest-api-evolution-gpt-52-realtime-function-calling-and-sharper-embeddings-reshape-3ip3)
+- [Kibana – DevSecOps Tool Overview](https://dev.to/kani-l/kibana-devsecops-tool-overview-hj8)
+- [Amazon Athena in the AWS Periodic Table](https://dev.to/jai_surya_m/amazon-athena-in-the-aws-periodic-table-5g4m)
+- [Thinking, Planning, Executing: Gemini 3&#39;s Agentic Core in the Antigravity Sandbox](https://dev.to/gioboa/thinking-planning-executing-gemini-3s-agentic-core-in-the-antigravity-sandbox-1g9p)
+- [FINTECH 101 — HOW TRANSACTIONS REALLY WORK](https://dev.to/hexstories/fintech-101-how-transactions-really-work-lj4)
+- [Self-Hosted N8N on AWS ECS with AWS CDK Typescript](https://dev.to/aws-builders/self-hosted-n8n-on-aws-ecs-with-aws-cdk-typescript-l6d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
