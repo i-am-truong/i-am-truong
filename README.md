@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Kiro&#39;s Agentic IDE: Hype, Hope and Hard Truths](https://dev.to/aws-builders/kiros-agentic-ide-hype-hope-and-hard-truths-1dpi)
+- [Beafing up Your server For Production🐄](https://dev.to/david_dut_3abb1db64876b4a/beafing-up-your-server-for-production-1j0g)
+- [Has Ai Become Too Easy What MiMo-V2 Flash Reveals About the New Reality of AI Progress](https://dev.to/michael-officiel/has-ai-become-too-easy-what-mimo-v2-flash-reveals-about-the-new-reality-of-ai-progress-289p)
 - [The &quot;Spinner of Death&quot;: Why Localhost Latency is Lying to You](https://dev.to/aragossa/the-spinner-of-death-why-localhost-latency-is-lying-to-you-3326)
-- [SQL SIDE QUEST - An Immersive story telling SQL Game](https://dev.to/sqlsidequest/sql-side-quest-an-immersive-story-telling-sql-game-4jin)
-- [Day 4: Plan the Holidays in Markdown &lpar;Markdown Editor&rpar; 📝](https://dev.to/dev_michael/day-4-plan-the-holidays-in-markdown-markdown-editor-4app)
-- [Day 3: Holiday Notes That Don’t Get Lost &lpar;Note Taker&rpar; 🗒️](https://dev.to/dev_michael/day-3-holiday-notes-that-dont-get-lost-note-taker-1cee)
-- [terraform certificate #6](https://dev.to/jumptotech/terraform-certificate-6-1hh2)
+- [Building a Creator Marketplace with Next.js and Supabase: Lessons from the Trenches](https://dev.to/footly/building-a-creator-marketplace-with-nextjs-and-supabase-lessons-from-the-trenches-3h59)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
