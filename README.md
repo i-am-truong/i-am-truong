@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [5 YouTube Channels Every Programmer Should Follow in 2025!](https://dev.to/respect17/5-youtube-channels-every-programmer-should-follow-in-2025-1dba)
-- [Role of 3D Modeling in Modern Structural Drafting Services](https://dev.to/reetielubana/role-of-3d-modeling-in-modern-structural-drafting-services-4k5m)
-- [How to Design a Darbuka Drum using 3D CAD Software](https://dev.to/julia970/how-to-design-a-darbuka-drum-using-3d-cad-software-5h9k)
-- [Anatomy of a Trust Scam: How TraderKnows Manipulates Forum Traffic](https://dev.to/qingshieldcenter/anatomy-of-a-trust-scam-how-traderknows-manipulates-forum-traffic-51bp)
-- [How I Protected My Apache-Based E-commerce Store with SafeLine WAF &lpar;Beginner-Friendly Guide&rpar;](https://dev.to/arina_cholee/how-i-protected-my-apache-based-e-commerce-store-with-safeline-waf-beginner-friendly-guide-4bhe)
+- [YOW! 2025](https://dev.to/nfrankel/yow-2025-pic)
+- [Running TeamCity with a Docker-Capable Agent Using Docker Compose](https://dev.to/giveitatry/running-teamcity-with-a-docker-capable-agent-using-docker-compose-1g76)
+- [Do You Make These 10 Angular Performance Mistakes That Keep Your App Slow?](https://dev.to/karol_modelski/do-you-make-these-10-angular-performance-mistakes-that-keep-your-app-slow-35j8)
+- [How We Actually Ship Complex Systems with AI Agents](https://dev.to/alibaqbani/how-we-actually-ship-complex-systems-with-ai-agents-3i2a)
+- [How Data Tokenization Platforms Enable Privacy, Security, and Tradable Data Assets](https://dev.to/suzie_iris_65ce8070067366/how-data-tokenization-platforms-enable-privacy-security-and-tradable-data-assets-3l40)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
