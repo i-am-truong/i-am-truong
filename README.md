@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Scripting Challenge Week 1: Port Scanning](https://dev.to/fosres/scripting-challenge-week-1-port-scanning-2464)
-- [Introducing the NORVI M12-B: 5+ Years of Maintenance-Free Utility Telemetry](https://dev.to/norvi_controllers/introducing-the-norvi-m12-b-5-years-of-maintenance-free-utility-telemetry-5g88)
-- [Introduction to Creative Thinking](https://dev.to/stakiran/introduction-to-creative-thinking-5em0)
-- [How a $200 Receiver Led Me Down a Bluetooth Protocol Reverse Engineering Rabbit Hole](https://dev.to/malgana/how-a-200-receiver-led-me-down-a-bluetooth-protocol-reverse-engineering-rabbit-hole-kd2)
-- [I Stacked 3 Small ML Models and Got Video Search That Feels Like Magic](https://dev.to/jason_peterson_607e54abf5/i-stacked-3-small-ml-models-and-got-video-search-that-feels-like-magic-2i63)
+- [TailAdmin Laravel: Laravel Admin Dashboard Built with Tailwind and Blade](https://dev.to/tailadmin/tailadmin-laravel-laravel-admin-dashboard-built-with-tailwind-and-blade-a84)
+- [Dynamic Invoice PDF Generator Using IronPDF HTML Templates](https://dev.to/surinder_singh_21841dc459/dynamic-invoice-pdf-generator-using-ironpdf-html-templates-10of)
+- [Trump Family’s Bitcoin Holdings: When a Crypto Mining Giant Catches Up to GameStop’s Digital Assets](https://dev.to/apnews/trump-familys-bitcoin-holdings-when-a-crypto-mining-giant-catches-up-to-gamestops-digital-assets-4jo8)
+- [Day 75 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-75-of-100-days-dsa-coding-challenge-4h)
+- [The Circuit Breaker Pattern: Building Resilient Applications](https://dev.to/fernanda_nadhiftya/the-circuit-breaker-pattern-building-resilient-applications-4pj7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
