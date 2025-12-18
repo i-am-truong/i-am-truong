@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Basics to Improve Your Reasoning](https://dev.to/lovestaco/why-slowing-down-makes-you-smarter-564m)
-- [A Decentralized AI Platform That Democratizes AI Infrastructure](https://dev.to/iamkyr0/a-decentralized-ai-platform-that-democratizes-ai-infrastructure-34da)
-- [Build Voice AI Applications with No-Code: Retell AI Guide to Success](https://dev.to/callstacktech/build-voice-ai-applications-with-no-code-retell-ai-guide-to-success-1ldd)
-- [When Git Push Protection Saves You: Remove Secrets the Right Way &lpar;Azure AD/Entra + .NET&rpar;](https://dev.to/cristiansifuentes/when-git-push-protection-saves-you-remove-secrets-the-right-way-azure-adentra-net-2g6)
-- [It&#39;s Time to DisCo: The Case for Distributed Cognition in AI Agents.](https://dev.to/amit_bhadoria_9d67cd7ea32/its-time-to-disco-the-case-for-distributed-cognition-in-ai-agents-1999)
+- [A História de como eu ajudei a aprimorar* uma das linguagens de programação mais famosas do mundo: a linguagem Go.](https://dev.to/nyyakko/a-historia-de-como-eu-ajudei-a-aprimorar-uma-das-linguagens-de-programacao-mais-famosas-do-mundo-3bb)
+- [Congrats to the Frontend Challenge: Halloween Edition Winners!](https://dev.to/devteam/congrats-to-the-frontend-challenge-halloween-edition-winners-13pg)
+- [CDKTF is deprecated: What&#39;s next for your team?](https://dev.to/pulumi/cdktf-is-deprecated-whats-next-for-your-team-4joa)
+- [Greedy vs. DP: The 30-Second Test for Coin Change Problems](https://dev.to/alex_hunter_44f4c9ed6671e/greedy-vs-dp-the-30-second-test-for-coin-change-problems-39je)
+- [Transport Nuances, Tool Poisoning, and the Compliance Trap](https://dev.to/onlineproxyio/transport-nuances-tool-poisoning-and-the-compliance-trap-28m2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
