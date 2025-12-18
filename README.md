@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Collecting Localized Retail Promotions from Best Buy and Walmart: A Developer-First Approach](https://dev.to/anna_6c67c00f5c3f53660978/collecting-localized-retail-promotions-from-best-buy-and-walmart-a-developer-first-approach-14n8)
+- [Vitalik’s Gas Futures, EIL X Space, Polygon Upgrade, USDT Gas Fees, ERC-8092](https://dev.to/etherspot/vitaliks-gas-futures-eil-x-space-polygon-upgrade-usdt-gas-fees-erc-8092-7pe)
+- [Apache Request Header Size Limit – RHEL 9 / Magento 2.4.7](https://dev.to/sgtsanjay/apache-request-header-size-limit-rhel-9-magento-247-dbd)
 - [How I Built a Security-First SaaS Boilerplate with 100% Test Coverage](https://dev.to/hasan_kemaldemirci_7e7b7/how-i-built-a-security-first-saas-boilerplate-with-100-test-coverage-30dl)
 - [How to use competency &amp; skills matrix in 1on1 and performance reviews](https://dev.to/ridd0/how-to-use-competency-skills-matrix-in-1on1-and-performance-reviews-ji4)
-- [The &quot;GitHub Graveyard&quot; Ends Here: Why Your Next Side Project Should Be a Chrome Extension](https://dev.to/lewisnewman24/the-github-graveyard-ends-here-why-your-next-side-project-should-be-a-chrome-extension-3061)
-- [Shift in the Software Development Paradigm: From Imperative Coding to Solution Architecture and the Economics of AI](https://dev.to/fedor_s_44305e5b02c47b773/shift-in-the-software-development-paradigm-from-imperative-coding-to-solution-architecture-and-the-5g8g)
-- [Is this the End of Agile as we know it ??](https://dev.to/cleberdelima/is-this-the-end-of-agile-as-we-know-it--kmp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
