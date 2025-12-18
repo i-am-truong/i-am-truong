@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why We’re Building PostureX, and How It Works](https://dev.to/lorcan_firstblox/why-were-building-posturex-and-how-it-works-1ha4)
-- [Architecting Large-Scale SharePoint Online Automation Without Melting the Tenant](https://dev.to/aakash_rahsi_8d28156d5f2c/architecting-large-scale-sharepoint-online-automation-without-melting-the-tenant-2d6c)
-- [Apertre 3.0: A 30-Day Open-Source Journey for Developers 🚀](https://dev.to/soumyajit2825/apertre-30-a-30-day-open-source-journey-for-developers-3e7d)
-- [Gitlogue: Turning Your Commit History into a Cinematic Terminal Experience](https://dev.to/githubopensource/gitlogue-turning-your-commit-history-into-a-cinematic-terminal-experience-3592)
-- [Antigravity feels heavy and Claude Skills are light](https://dev.to/teamquesma/antigravity-feels-heavy-and-claude-skills-are-light-9b0)
+- [AWS open source newsletter, #217](https://dev.to/aws/aws-open-source-newsletter-217-o44)
+- [Secure Linux Server Setup &amp; Application Deployment](https://dev.to/yousufbasir/secure-linux-server-setup-application-deployment-i91)
+- [Beyond AI Why Data Center Stability Is the Competitive Advantage of 2026](https://dev.to/medone_israel_f84a80ed12e/beyond-ai-why-data-center-stability-is-the-competitive-advantage-of-2026-36a1)
+- [Mastering Prompt Engineering Patterns for Production Apps | Ash](https://dev.to/ash_dubai/mastering-prompt-engineering-patterns-for-production-apps-ash-43i9)
+- [Unlock Better Code: Simple Code Review Practices That Actually Work](https://dev.to/ash_dubai/unlock-better-code-simple-code-review-practices-that-actually-work-360p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
