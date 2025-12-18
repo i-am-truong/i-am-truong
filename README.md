@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Go vs Python on AWS Lambda: a practical Terraform shootout &lpar;with Function URLs&rpar;](https://dev.to/aws-builders/go-vs-python-on-aws-lambda-a-practical-terraform-shootout-with-function-urls-4hf0)
+- [Fix: Device Limit Reached Error after IP Change in ZappySys ODBC](https://dev.to/zappysys/fix-device-limit-reached-error-after-ip-change-in-zappysys-odbc-2731)
+- [How to Read Parquet Files in SSIS using ZappySys ODBC &lpar;DuckDB&rpar;](https://dev.to/zappysys/how-to-read-parquet-files-in-ssis-using-zappysys-odbc-duckdb-mb6)
 - [Kiro&#39;s Agentic IDE: Hype, Hope and Hard Truths](https://dev.to/aws-builders/kiros-agentic-ide-hype-hope-and-hard-truths-1dpi)
 - [Beafing up Your server For Production🐄](https://dev.to/david_dut_3abb1db64876b4a/beafing-up-your-server-for-production-1j0g)
-- [Has Ai Become Too Easy What MiMo-V2 Flash Reveals About the New Reality of AI Progress](https://dev.to/michael-officiel/has-ai-become-too-easy-what-mimo-v2-flash-reveals-about-the-new-reality-of-ai-progress-289p)
-- [The &quot;Spinner of Death&quot;: Why Localhost Latency is Lying to You](https://dev.to/aragossa/the-spinner-of-death-why-localhost-latency-is-lying-to-you-3326)
-- [Building a Creator Marketplace with Next.js and Supabase: Lessons from the Trenches](https://dev.to/footly/building-a-creator-marketplace-with-nextjs-and-supabase-lessons-from-the-trenches-3h59)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
