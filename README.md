@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AWS Neptune: Where Data Relationships Actually Make Sense](https://dev.to/naveens_k_403279738dbcab6/aws-neptune-where-data-relationships-actually-make-sense-311n)
+- [Why Excel WBS Fails: The Limits of File-Based Collaboration](https://dev.to/_jeongyuhyeon_03de1/why-excel-wbs-fails-the-limits-of-file-based-collaboration-npd)
 - [How to monitor your app&#39;s health](https://dev.to/rbglod/how-to-monitor-your-apps-health-3cbn)
 - [Visual Scripting with JS&amp;NodeJS](https://dev.to/zlatnaspirala/visual-scripting-with-jsnodejs-50p)
 - [Why Do Networks Even Work Correctly?](https://dev.to/azrecon_/why-do-networks-even-work-correctly-2jce)
-- [DEVOPS PERIODIC TABLE AND RULES HT: HASHICORP TERRAFORM](https://dev.to/hari_saravanan_7ddd3f0bbf/devops-periodic-table-and-rules-nkd)
-- [Atlassian Bamboo in the DevSecOps Periodic Table](https://dev.to/abitha_n24cb001_9847d321/atlassian-bamboo-in-the-devsecops-periodic-table-3c2l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
