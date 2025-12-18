@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Kibana – DevSecOps Tool Overview](https://dev.to/kani-l/kibana-devsecops-tool-overview-hj8)
-- [Amazon Athena in the AWS Periodic Table](https://dev.to/jai_surya_m/amazon-athena-in-the-aws-periodic-table-5g4m)
-- [Thinking, Planning, Executing: Gemini 3&#39;s Agentic Core in the Antigravity Sandbox](https://dev.to/gioboa/thinking-planning-executing-gemini-3s-agentic-core-in-the-antigravity-sandbox-1g9p)
-- [FINTECH 101 — HOW TRANSACTIONS REALLY WORK](https://dev.to/hexstories/fintech-101-how-transactions-really-work-lj4)
-- [Self-Hosted N8N on AWS ECS with AWS CDK Typescript](https://dev.to/aws-builders/self-hosted-n8n-on-aws-ecs-with-aws-cdk-typescript-l6d)
+- [Best Practices: React Logging and Error Handling](https://dev.to/ghalex/best-practices-react-logging-and-error-handling-23hd)
+- [Polly – Amazon Polly Convert Text into Natural Speech Using AWS](https://dev.to/sai_cf536f1c0eefb673310c5/amazon-polly-convert-text-into-natural-speech-using-aws-ndf)
+- [HashiCorp Vault: A Core Security Tool in DevSecOps](https://dev.to/haresh_511/hashicorp-vault-a-core-security-tool-in-devsecops-133m)
+- [🚀 Production-Ready FastAPI Template &lpar;Python&rpar;](https://dev.to/ortizdavid/production-ready-fastapi-template-python-44k9)
+- [#0 Intro](https://dev.to/luc1a_no/0-intro-57b4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
