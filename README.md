@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [VAP: A Universal Framework for AI Flight Recorders](https://dev.to/veritaschain/vap-a-universal-framework-for-ai-flight-recorders-23e0)
-- [Praktikum Algoritma: Linear Search dengan Python 😎](https://dev.to/ahmadasroni38/praktikum-algoritma-linear-search-dengan-python-467h)
-- [10 Best AI Interview Helpers for 2026](https://dev.to/finalroundai/10-best-ai-interview-helpers-for-2026-4lg6)
-- [Integrating Native On-Device Models into Flutter Without JNI Hell](https://dev.to/raulsmithus/integrating-native-on-device-models-into-flutter-without-jni-hell-3i3a)
-- [AI Music Videos: How Independent Artists Are Competing With Major Label Production Quality](https://dev.to/_fde76ff2d01974642930b/ai-music-videos-how-independent-artists-are-competing-with-major-label-production-quality-5435)
+- [IAP-FIN: Building AI Audit Trails That Actually Satisfy Financial Regulators](https://dev.to/veritaschain/iap-fin-building-ai-audit-trails-that-actually-satisfy-financial-regulators-3il0)
+- [Taiwan’s Stablecoin Dilemma: The Geopolitical and Technological Strategy Behind Currency Peg Choice](https://dev.to/apnews/taiwans-stablecoin-dilemma-the-geopolitical-and-technological-strategy-behind-currency-peg-choice-1nof)
+- [Mentorship vs. Micromanagement in Engineering](https://dev.to/aartijangid23/mentorship-vs-micromanagement-in-engineering-92k)
+- [DNS Failures in EKS? The Real Bottleneck Was AWS Network Limits](https://dev.to/ahmedshendy/dns-failures-in-eks-the-real-bottleneck-was-aws-network-limits-fi)
+- [Smart Contract Development Services: From Concept to Secure Blockchain Deployment](https://dev.to/oodlesplatform/smart-contract-development-services-from-concept-to-secure-blockchain-deployment-3jhj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
