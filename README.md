@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [C# Minimal API: Response Caching](https://dev.to/gramli/c-minimal-api-response-caching-nmk)
+- [Why I Wrote AI Coding Guidelines and You Should Too](https://dev.to/alexandergekov/why-i-wrote-ai-coding-guidelines-and-you-should-too-4156)
+- [Why Your Model is Failing &lpar;Hint: It’s Not the Architecture&rpar;](https://dev.to/nastaranai/why-your-model-is-failing-hint-its-not-the-architecture-27cl)
+- [Errors encountered with one-shot AI](https://dev.to/nullvoxpopuli/errors-encountered-with-one-shot-ai-g3l)
 - [A História de como eu ajudei a aprimorar* uma das linguagens de programação mais famosas do mundo: a linguagem Go.](https://dev.to/nyyakko/a-historia-de-como-eu-ajudei-a-aprimorar-uma-das-linguagens-de-programacao-mais-famosas-do-mundo-3bb)
-- [Congrats to the Frontend Challenge: Halloween Edition Winners!](https://dev.to/devteam/congrats-to-the-frontend-challenge-halloween-edition-winners-13pg)
-- [CDKTF is deprecated: What&#39;s next for your team?](https://dev.to/pulumi/cdktf-is-deprecated-whats-next-for-your-team-4joa)
-- [Greedy vs. DP: The 30-Second Test for Coin Change Problems](https://dev.to/alex_hunter_44f4c9ed6671e/greedy-vs-dp-the-30-second-test-for-coin-change-problems-39je)
-- [Transport Nuances, Tool Poisoning, and the Compliance Trap](https://dev.to/onlineproxyio/transport-nuances-tool-poisoning-and-the-compliance-trap-28m2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
