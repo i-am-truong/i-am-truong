@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Deploying a Machine Learning Model to AWS SageMaker Complete Guide - PART 01](https://dev.to/techwithdilan/deploying-a-machine-learning-model-to-aws-sagemaker-complete-guide-part-01-3kh7)
-- [ASR &lpar;Automatic Speech Recognition&rpar;](https://dev.to/wanjohichristopher/asr-automatic-speech-recognition-nab)
-- [Async Task Integration: Connecting Celery with Flask-SocketIO](https://dev.to/deepak_mishra_35863517037/async-task-integration-connecting-celery-with-flask-socketio-4ia6)
-- [terraform certificate #5](https://dev.to/jumptotech/terraform-certificate-5-5ed8)
-- [Stop Juggling .env Files: Meet Fana-Envy, a Go-based TTY with Env Manager](https://dev.to/adrian_fathan/stop-juggling-env-files-meet-fana-envy-a-go-based-tty-with-env-manager-15np)
+- [SQL SIDE QUEST - An Immersive story telling SQL Game](https://dev.to/sqlsidequest/sql-side-quest-an-immersive-story-telling-sql-game-4jin)
+- [I Ran Vibe Coding on My Eating Habits. The Results Were Disturbing.](https://dev.to/manoj6543/i-ran-vibe-coding-on-my-eating-habits-the-results-were-disturbing-4lmj)
+- [Day 4: Plan the Holidays in Markdown &lpar;Markdown Editor&rpar; 📝](https://dev.to/dev_michael/day-4-plan-the-holidays-in-markdown-markdown-editor-4app)
+- [Day 3: Holiday Notes That Don’t Get Lost &lpar;Note Taker&rpar; 🗒️](https://dev.to/dev_michael/day-3-holiday-notes-that-dont-get-lost-note-taker-1cee)
+- [terraform certificate #6](https://dev.to/jumptotech/terraform-certificate-6-1hh2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
