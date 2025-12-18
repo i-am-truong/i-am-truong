@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Is this thing on?](https://dev.to/missamarakay/is-this-thing-on-5796)
-- [Your console.log deserves better](https://dev.to/chintanshah35/your-consolelog-deserves-better-4ack)
-- [My Service is Slow! Where Do I Start? &lpar;Performance Tuning Basics&rpar;](https://dev.to/jonghwayoo03_dev/my-service-is-slow-where-do-i-start-performance-tuning-basics-1h1m)
-- [Turn Any REST API into an MCP Server in 25 Minutes](https://dev.to/dbatson/turn-any-rest-api-into-an-mcp-server-in-25-minutes-4e47)
-- [Agentic RAG: Letting LLMs Choose What to Retrieve](https://dev.to/tech0104_0f76c6daa4ffd6d6/agentic-rag-letting-llms-choose-what-to-retrieve-1079)
+- [Deploying a Machine Learning Model to AWS SageMaker Complete Guide - PART 01](https://dev.to/techwithdilan/deploying-a-machine-learning-model-to-aws-sagemaker-complete-guide-part-01-3kh7)
+- [ASR &lpar;Automatic Speech Recognition&rpar;](https://dev.to/wanjohichristopher/asr-automatic-speech-recognition-nab)
+- [Async Task Integration: Connecting Celery with Flask-SocketIO](https://dev.to/deepak_mishra_35863517037/async-task-integration-connecting-celery-with-flask-socketio-4ia6)
+- [terraform certificate #5](https://dev.to/jumptotech/terraform-certificate-5-5ed8)
+- [Stop Juggling .env Files: Meet Fana-Envy, a Go-based TTY with Env Manager](https://dev.to/adrian_fathan/stop-juggling-env-files-meet-fana-envy-a-go-based-tty-with-env-manager-15np)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
