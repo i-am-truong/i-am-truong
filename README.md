@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop Memorizing Kubernetes: Pods, Deployments, and Services Explained](https://dev.to/sharonkynu/stop-memorizing-kubernetes-pods-deployments-and-services-explained-3e64)
-- [Quantifying the Intangible: A Strategic Framework for Measuring the Impact of Business Simulations](https://dev.to/leadership28/quantifying-the-intangible-a-strategic-framework-for-measuring-the-impact-of-business-simulations-39dd)
-- [Are We in an AI Bubble? A Tech Professional&#39;s Perspective](https://dev.to/junyoungmoon/are-we-in-an-ai-bubble-a-tech-professionals-perspective-3m3b)
-- [Linux Filesystem and Navigation for DevOps &lpar;With Practical Demo&rpar;](https://dev.to/chetan_tekam_3500/linux-filesystem-and-navigation-for-devops-with-practical-demo-5g36)
-- [The Secret Life of Python: The Infinite Copy](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-infinite-copy-16b4)
+- [ASTER&#39;s Crystal Airdrop: Phase 5 Token Distribution and the Road to Its Dedicated Blockchain](https://dev.to/nftsaz2025/asters-crystal-airdrop-phase-5-token-distribution-and-the-road-to-its-dedicated-blockchain-1pia)
+- [DoorDash System Design Interview Courses You Didn&#39;t Think You&#39;d Need](https://dev.to/dev_loops/doordash-system-design-interview-courses-you-didnt-think-youd-need-271f)
+- [Creating SLAs for Website Tech Support: Response Times, Priorities, and Boundaries](https://dev.to/prateekshaweb/creating-slas-for-website-tech-support-response-times-priorities-and-boundaries-gge)
+- [How to Connect MCP Server to Claude?](https://dev.to/ndabene/how-to-connect-mcp-server-to-claude-1l6d)
+- [Hello, dev.to! I&#39;m Chintan Shah 👋](https://dev.to/chintanshah35/hello-devto-im-chintan-shah-2hka)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
