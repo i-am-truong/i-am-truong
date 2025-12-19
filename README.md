@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Refused to Throw It Away](https://dev.to/probis/i-refused-to-throw-it-away-1np0)
-- [The Next Leap in AI Isn’t Bigger Models: It’s Better Interfaces](https://dev.to/jaideepparashar/the-next-leap-in-ai-isnt-bigger-models-its-better-interfaces-44bm)
-- [Constructor function in JavaScript](https://dev.to/harini_magesh_fa40041cf8d/constructor-function-in-javascript-461p)
-- [LLMs Are Not the Final Form of AI — Self-Learning Models Are the Real Path](https://dev.to/winola_zoe/llms-are-not-the-final-form-of-ai-self-learning-models-are-the-real-path-2551)
-- [Convert HEIC Photos to PNG Online – No Install, No Watermark](https://dev.to/_7bdcbcaa99fbf1c9ea608c/convert-heic-photos-to-png-online-no-install-no-watermark-4n3g)
+- [OpenAI Gym](https://dev.to/paperium/openai-gym-4o3b)
+- [The Right Way to Copy to Clipboard in React &lpar;2024&rpar;](https://dev.to/samhansaka/the-right-way-to-copy-to-clipboard-in-react-2024-2m7i)
+- [Understanding Threads in Computing: A Practical Guide for Developers](https://dev.to/farhadrahimiklie/understanding-threads-in-computing-a-practical-guide-for-developers-20c2)
+- [Systemd Explained: Units, Targets, and Why systemctl Is More Than Start and Stop](https://dev.to/rijultp/systemd-explained-units-targets-and-why-systemctl-is-more-than-start-and-stop-3l75)
+- [[Sports Watch] [API 6] Methods for Exporting Logs from Sports Watches](https://dev.to/harmonyos/sports-watch-api-6-methods-for-exporting-logs-from-sports-watches-327e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
