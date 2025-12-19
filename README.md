@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Big 2025 AI Lesson: Stop Bolting Chatbots Onto Broken Workflows](https://dev.to/aiwithapex/the-big-2025-ai-lesson-stop-bolting-chatbots-onto-broken-workflows-2cd3)
-- [Your Vercel AI SDK App Has a Prompt Injection Vulnerability](https://dev.to/ofri-peretz/your-vercel-ai-sdk-app-has-a-prompt-injection-vulnerability-4g7p)
-- [Zero Trust Architecture: Why “Trust No One” Is the Future of Security 🔐](https://dev.to/devarshi_2211/zero-trust-architecture-why-trust-no-one-is-the-future-of-security-4e78)
-- [Day 76 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-76-of-100-days-dsa-coding-challenge-3odi)
-- [BoldSign Webhooks: App vs Account—How to Choose](https://dev.to/boldsign/boldsign-webhooks-app-vs-account-how-to-choose-1np2)
+- [Mastering Role-Based Access Control &lpar;RBAC&rpar; in Laravel with a Next.js Frontend](https://dev.to/prateekshaweb/mastering-role-based-access-control-rbac-in-laravel-with-a-nextjs-frontend-4i4g)
+- [Top Cloud FinOps Tools for AWS, Azure, and Google Cloud](https://dev.to/oli_john_087e42c8f84/top-cloud-finops-tools-for-aws-azure-and-google-cloud-35p8)
+- [Use Angular HostDirective for all of your component facades](https://dev.to/romain_geffrault_10d88369/use-angular-hostdirective-for-all-of-your-component-facades-1bo6)
+- [Docker](https://dev.to/syed_irfan_f0a0a796454b26/docker-bme)
+- [Building ScrapeForge in public starting tomorrow 🚀](https://dev.to/vishwas-batra/building-scrapeforge-in-public-starting-tomorrow-29ki)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
