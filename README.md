@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Dependency Injection Dilemma: Why I’m Finally Ghosting @Autowired on Fields](https://dev.to/rajatarora/the-dependency-injection-dilemma-why-im-finally-ghosting-autowired-on-fields-5fba)
-- [AI-Native GUI SDK for NeuroShellOS: A Semantic Interface Framework for Language Model Control](https://dev.to/hejhdiss/ai-native-gui-sdk-for-neuroshellos-a-semantic-interface-framework-for-language-model-control-62e)
-- [AWS Backup and Logically Air Gapped Vault](https://dev.to/nataliam/aws-backup-and-logically-air-gapped-vault-3mio)
-- [Build a High-Performance Database Connection Pool in Go with Smart Caching and Health Monitoring](https://dev.to/nithinbharathwaj/build-a-high-performance-database-connection-pool-in-go-with-smart-caching-and-health-monitoring-1j8n)
-- [A Practical Guide to Building Your First Automation Workflow](https://dev.to/coderoflagos/a-practical-guide-to-building-your-first-automation-workflow-4k7l)
+- [The Great Terminal Prompt Revolution: Why I Replaced Years of Config With a Single Character](https://dev.to/eto303/the-great-terminal-prompt-revolution-why-i-replaced-years-of-config-with-a-single-character-2kbp)
+- [The Struggle Paradox](https://dev.to/rawveg/the-struggle-paradox-5968)
+- [How to Add Extended Fields to Entities Without Modifying Tables](https://dev.to/canonical/how-to-add-extended-fields-to-entities-without-modifying-tables-5k)
+- [Collecting Real Tourism Listings and Prices at Scale: A Developer’s Guide to Geo-Accurate Data Aggregation](https://dev.to/anna_6c67c00f5c3f53660978/collecting-real-tourism-listings-and-prices-at-scale-a-developers-guide-to-geo-accurate-data-1icl)
+- [Simple Steps to Deploy Smart Contract](https://dev.to/janithdisanayake/simple-steps-to-deploy-smart-contract-30dd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
