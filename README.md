@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Flutter: Armazenamento de dados](https://dev.to/wps13/flutter-armazenamento-de-dados-a91)
+- [NAT Gateways Killing Your Container Costs? Amazon ECR VPC endpoints to the Rescue](https://dev.to/hstiwana/nat-gateways-killing-your-container-costs-amazon-ecr-vpc-endpoints-to-the-rescue-21k5)
 - [A Simple Overview of Passwords, 2FA, and Passkeys &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/a-simple-overview-of-passwords-2fa-and-passkeys-bite-size-article-1nhf)
-- [How I Built a Fast, Client-Side JSON Viewer for Developers](https://dev.to/jsonviewertool/how-i-built-a-fast-client-side-json-viewer-for-developers-32md)
-- [Why “99.9% uptime” doesn’t mean your users are fine](https://dev.to/lideroocom/why-999-uptime-doesnt-mean-your-users-are-fine-3bf7)
-- [I Built a $29/mo Alternative to $800 Enterprise Social Listening Tools](https://dev.to/constantquadruped/i-built-a-29mo-alternative-to-800-enterprise-social-listening-tools-19e4)
-- [Skip the Boilerplate: Build Vue 3 SaaS Apps with Ready-Made Clerk Authentication](https://dev.to/ayoub_fedil/skip-the-boilerplate-build-vue-3-saas-apps-with-ready-made-clerk-authentication-3ll6)
+- [Kicking Off 2026: Expert Analysis &amp; World Cup Predictions](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-world-cup-predictions-1e0h)
+- [Human-Aligned Decision Transformers for deep-sea exploration habitat design for extreme data sparsity scenarios](https://dev.to/rikinptl/human-aligned-decision-transformers-for-deep-sea-exploration-habitat-design-for-extreme-data-4fln)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
