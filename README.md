@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Expo Framework Essentials: My Modern Guide for Building Universal React Native Apps](https://dev.to/luisabecker/expo-framework-essentials-my-modern-guide-for-building-universal-react-native-apps-200n)
+- [Dec 19, 2025 | The Tongyi Weekly: Your weekly dose of cutting-edge AI from Tongyi Lab](https://dev.to/alibaba_tongyi_lab_25ad9f/dec-19-2025-the-tongyi-weekly-your-weekly-dose-of-cutting-edge-ai-from-tongyi-lab-51o3)
+- [Small Business Inventory App](https://dev.to/vjygour/small-business-inventory-app-3a9p)
+- [I Didn’t Build a Chatbot — I Built an AI That Runs the System](https://dev.to/ashish_ghadigaonkar_/i-didnt-build-a-chatbot-i-built-an-ai-that-runs-the-system-1a1g)
 - [AI Data Storage: Challenges, Capabilities, and Comparative Analysis](https://dev.to/daswu/ai-data-storage-challenges-capabilities-and-comparative-analysis-46n3)
-- [Best Free Cloud Diagram Generators for Effortless Visual Planning in 2026](https://dev.to/lisaellington/best-free-cloud-diagram-generators-for-effortless-visual-planning-in-2026-3d26)
-- [AWS Service Integration Strategy at eDgeWrapper - A Technical Deep Dive](https://dev.to/member_810218ad/aws-service-integration-strategy-at-edgewrapper-a-technical-deep-dive-337n)
-- [Top 7 B2B Data Providers in 2026: A Practical Comparison Guide](https://dev.to/luisgustvo/top-7-b2b-data-providers-in-2026-a-practical-comparison-guide-1o29)
-- [Stop Writing Comments: Why Senior Devs Hate &quot;Stale Lies&quot;](https://dev.to/doogal/stop-writing-comments-why-senior-devs-hate-stale-lies-dpi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
