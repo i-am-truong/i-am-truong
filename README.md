@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Capability-Based Architecture: A Practical Guide to Portability, Isolation, and AI-Readiness](https://dev.to/gdblogger/capability-based-architecture-a-practical-guide-to-portability-isolation-and-ai-readiness-2g4h)
-- [🚀 Elevating Your Python Workflow: A Deep Dive into PackageMaker &lpar;IPM&rpar; v3.2.5](https://dev.to/jesusquijada34/elevating-your-python-workflow-a-deep-dive-into-packagemaker-ipm-v325-4nhf)
-- [The Ping Engine Part 2: Advanced Patterns &amp; Real-World Examples](https://dev.to/peacebinflow/the-ping-engine-part-2-advanced-patterns-real-world-examples-4f53)
-- [Securing Real-Time Pipelines: Auth, CORS, and DoS Protection](https://dev.to/deepak_mishra_35863517037/securing-real-time-pipelines-auth-cors-and-dos-protection-2b2i)
-- [Atlas Search score details &lpar;the BM25 calculation&rpar;](https://dev.to/franckpachot/atlas-search-score-details-the-bm25-calculation-2g55)
+- [Clarifying Zero Knowledge Proof Concepts](https://dev.to/marycynthia_ihemebiwo_1c4/clarifying-zero-knowledge-proof-concepts-lpj)
+- [Common DevOps Roles and Responsibilities Today: Who’s on a DevOps Team &amp; How These Roles Work Together](https://dev.to/jumptotech/common-devops-roles-and-responsibilities-today-whos-on-a-devops-team-how-these-roles-work-3clj)
+- [Day 1290 : Order](https://dev.to/dwane/day-1290-order-4mad)
+- [Building a Modular IDS/IPS Tool with Python: A Practical Guide to Network Security](https://dev.to/bangkah/building-a-modular-idsips-tool-with-python-a-practical-guide-to-network-security-4fgb)
+- [PyMOL 画小分子的静电势 &lpar;ESP&rpar;](https://dev.to/jian_wang_71470b9158918d8/pymol-hua-xiao-fen-zi-de-jing-dian-shi-esp-15ec)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
