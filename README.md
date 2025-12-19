@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Excel Migration Strategy: A Practical Tool Selection and Transition Guide](https://dev.to/_jeongyuhyeon_03de1/excel-migration-strategy-a-practical-tool-selection-and-transition-guide-3m9o)
-- [Introducing Analytics Buckets](https://dev.to/supabase/introducing-analytics-buckets-ikp)
-- [Puppet Enterprise 2025.7 Delivers Code Assist and RHEL 10 Primary Support &lpar;and new SCM!&rpar;](https://dev.to/puppet/puppet-enterprise-20257-delivers-code-assist-and-rhel-10-primary-support-and-new-scm-3f31)
-- [Unix signals list &lpar;most common to rare&rpar;](https://dev.to/imasystemengineer/unix-signals-list-most-common-to-rare-1632)
-- [Implementing Tap Payments in a SaaS Subscription System &lpar;Node.js + Express + Sequelize&rpar;](https://dev.to/afaq_shahid/implementing-tap-payments-in-a-saas-subscription-system-nodejs-express-sequelize-2k2l)
+- [7 Best AI Testing Agent Tools for Intelligent Test Automation](https://dev.to/jamescantor38/7-best-ai-testing-agent-tools-for-intelligent-test-automation-pf6)
+- [Use AWS Bedrock &amp; AI Services &lpar;Claude, Nova, Polly, Transcribe&rpar; with Your Existing OpenAI Code](https://dev.to/jgoutin/use-aws-bedrock-ai-services-claude-nova-polly-transcribe-with-your-existing-openai-code-1ci6)
+- [The Scale Trap: How AI&#39;s Biggest Win Became Its Biggest Problem](https://dev.to/get_pieces/the-scale-trap-how-ais-biggest-win-became-its-biggest-problem-4jp5)
+- [Choosing an ETL Tool for Salesforce: The Practical Options](https://dev.to/vladam/choosing-an-etl-tool-for-salesforce-the-practical-options-1mb3)
+- [How I Stopped Spending 40 Minutes a Day on Email: The Story Behind One Extension](https://dev.to/__14cfda6b3a5ec/how-i-stopped-spending-40-minutes-a-day-on-email-the-story-behind-one-extension-1a40)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
