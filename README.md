@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Key Breakthroughs in AI Engineering that Every AI Engineer Must Know](https://dev.to/chen115y/key-breakthroughs-in-ai-engineering-that-every-ai-engineer-must-know-3ibh)
-- [Agent Factory Recap: Can you do my shopping?](https://dev.to/googleai/agent-factory-recap-can-you-do-my-shopping-5f8k)
-- [Day 27 Of Documenting My Learning Journey](https://dev.to/james_kabuga/day-27-of-documenting-my-learning-journey-4mda)
-- [𝐒𝐭𝐚𝐤𝐞𝐋𝐢𝐆𝐚𝐦𝐞𝐬](https://dev.to/soumilgit/-4ko0)
-- [Autogen vs Strands: Why I Stopped Forcing Agents Everywhere](https://dev.to/mahakfaheem/autogen-vs-strands-why-i-stopped-forcing-agents-everywhere-2982)
+- [Introducing GameSpendGuard - Parental Gaming Spend Monitor - GameSpendGuard - Parental Gaming Spend Monitor for everyone](https://dev.to/ben_stone_5608b8e2d9f8973/introducing-gamespendguard-parental-gaming-spend-monitor-gamespendguard-parental-gaming-spend-9bi)
+- [TABLE Jen Royle: A Communal Dining Experience Rooted in Presence and Connection](https://dev.to/tablejenroyle/table-jen-royle-a-communal-dining-experience-rooted-in-presence-and-connection-3be6)
+- [Hacktoberfest as a First-Time Maintainer](https://dev.to/cloudinary/hacktoberfest-as-a-first-time-maintainer-2pkn)
+- [Our attempt to reduce the boring 40–60% of AI engineering](https://dev.to/dowhatmatters/our-attempt-to-reduce-the-boring-40-60-of-ai-engineering-4a38)
+- [Testing Mobile-First Platforms in Bangladesh: A UX Case Study of Joya 9 &lpar;2025&rpar;](https://dev.to/gertha_renker_7d74e5342e4/testing-mobile-first-platforms-in-bangladesh-a-ux-case-study-of-joya-9-2025-50d7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
