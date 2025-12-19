@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Michael Selig&#39;s CFTC Confirmation: A New Horizon for Crypto Regulation and Blockchain Innovation](https://dev.to/nftsaz2025/michael-seligs-cftc-confirmation-a-new-horizon-for-crypto-regulation-and-blockchain-innovation-5d37)
+- [I Tested AI on a Long Workflow and Context Collapse Killed It](https://dev.to/leena_malhotra/i-tested-ai-on-a-long-workflow-and-context-collapse-killed-it-4p8p)
+- [Actualización de Influent Package Maker a la v3.2.6-25.12-17.44](https://dev.to/jesusquijada34/actualizacion-de-influent-package-maker-a-la-v326-2512--1fh0)
+- [Enterprise Migration to Microsoft Fabric Roadmap](https://dev.to/anujrawat/enterprise-migration-to-microsoft-fabric-roadmap-3k00)
 - [Regression Testing Metrics That Actually Indicate Release Readiness](https://dev.to/sophielane/regression-testing-metrics-that-actually-indicate-release-readiness-5dbk)
-- [Humoropedia GPT launches on Product Hunt Dec 27 — an AI that writes jokes, stories, and social scripts](https://dev.to/romanmarshanski/humoropedia-gpt-launches-on-product-hunt-dec-27-an-ai-that-writes-jokes-stories-and-social-4m9n)
-- [Part 05: Building a Sovereign Software Factory: Artifactory &amp; The &quot;Strict TLS&quot; Trap](https://dev.to/warren_jitsing_dd1c1d6fc6/part-05-building-a-sovereign-software-factory-artifactory-the-strict-tls-trap-184a)
-- [My notes on AWS IPAM](https://dev.to/aws-builders/my-notes-on-aws-ipam-4m7a)
-- [Not Everything You See Is an AI](https://dev.to/thevenice/not-everything-you-see-is-an-ai-3m0k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
