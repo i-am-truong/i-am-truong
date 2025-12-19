@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Wasserstein GAN](https://dev.to/paperium/wasserstein-gan-2lc6)
+- [Game Development Tools for 2026](https://dev.to/del_rosario/game-development-tools-for-2026-13of)
+- [What is hardware kernel in FPGA?](https://dev.to/carolineee/what-is-hardware-kernel-in-fpga-4l3c)
 - [Need advice on how to unban my Patreon page.](https://dev.to/teobaldo_a65e36b7db29087a/need-advice-on-how-to-unban-my-patreon-page-ha1)
-- [Building a CDC Skyscraper: How SeaTunnel Leverages Debezium Under the Hood](https://dev.to/seatunnel/building-a-cdc-skyscraper-how-seatunnel-leverages-debezium-under-the-hood-23ic)
-- [Unlocking the Power of Connected Data: A Deep Dive into Amazon Neptune](https://dev.to/nidheesh_/unlocking-the-power-of-connected-data-a-deep-dive-into-amazon-neptune-151d)
-- [Building Chrome Extensions with Plasmo](https://dev.to/alexandergekov/building-chrome-extensions-with-plasmo-4g0c)
-- [Understanding Kubernetes: part 60 – Kubernetes 1.35 Changelog](https://dev.to/aurelievache/understanding-kubernetes-part-60-kubernetes-135-changelog-1poh)
+- [eDgeWrapper Technology: Analyzing the Competitive Positioning of Their AI Integration Framework](https://dev.to/rimpa_basak_059b178a009c0/edgewrapper-technology-analyzing-the-competitive-positioning-of-their-ai-integration-framework-1o2l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
