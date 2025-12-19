@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Secret Life of Go: Atomic Operations](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-atomic-operations-387a)
-- [Professional Pet Grooming Services in Aliso Viejo: Complete Care for Happy, Healthy Pets](https://dev.to/katies_cutiesllc_2d7e89c/professional-pet-grooming-services-in-aliso-viejo-complete-care-for-happy-healthy-pets-4d75)
-- [Start, Stop, and Continue for 2026](https://dev.to/aaronmccollum/start-stop-and-continue-for-2026-3gmj)
-- [Tutorial sobre como crear objetos en javascript con programación orientada a objetos](https://dev.to/oscarolg/tutorial-sobre-como-crear-objetos-en-javascript-con-programacion-orientada-a-objetos-icg)
-- [Fumadocs for Products with Rapidly Evolving SPIs &amp; SDKs](https://dev.to/infrasity-learning/fumadocs-for-products-with-rapidly-evolving-spis-sdks-1bah)
+- [Regression Testing Metrics That Actually Indicate Release Readiness](https://dev.to/sophielane/regression-testing-metrics-that-actually-indicate-release-readiness-5dbk)
+- [Humoropedia GPT launches on Product Hunt Dec 27 — an AI that writes jokes, stories, and social scripts](https://dev.to/romanmarshanski/humoropedia-gpt-launches-on-product-hunt-dec-27-an-ai-that-writes-jokes-stories-and-social-4m9n)
+- [Part 05: Building a Sovereign Software Factory: Artifactory &amp; The &quot;Strict TLS&quot; Trap](https://dev.to/warren_jitsing_dd1c1d6fc6/part-05-building-a-sovereign-software-factory-artifactory-the-strict-tls-trap-184a)
+- [My notes on AWS IPAM](https://dev.to/aws-builders/my-notes-on-aws-ipam-4m7a)
+- [Not Everything You See Is an AI](https://dev.to/thevenice/not-everything-you-see-is-an-ai-3m0k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
