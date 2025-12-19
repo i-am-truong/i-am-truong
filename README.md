@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GXD: Rethinking File Compression for Modern Computing](https://dev.to/hejhdiss/gxd-rethinking-file-compression-for-modern-computing-51ig)
-- [Automated AWS Receipt Processing System using Textract, Lambda &amp; MySQL](https://dev.to/akashabish/automated-aws-receipt-processing-system-using-textract-lambda-mysql-idg)
-- [DEV Track Spotlight: Building .NET AI Applications with Semantic Kernel and Amazon Bedrock &lpar;DEV302&rpar;](https://dev.to/aws/dev-track-spotlight-building-net-ai-applications-with-semantic-kernel-and-amazon-bedrock-dev302-dj2)
-- [How to convert PDF to SVG in C# &lpar;Tutorial&rpar;](https://dev.to/idrsolutions/how-to-convert-pdf-to-svg-in-c-tutorial-1o5b)
-- [Building Grahiq AI: Turning Raw Data into Infographics with AI](https://dev.to/dharunsiva333/building-grahiq-ai-turning-raw-data-into-infographics-with-ai-5al1)
+- [Retaining Rural Talent: Paper Industry Workforce Strategies](https://dev.to/kalvin-moss/retaining-rural-talent-paper-industry-workforce-strategies-2k2e)
+- [CodexPad — a Notion-like workspace for Vim users &lpar;early feedback welcome&rpar;](https://dev.to/animesh_singh_01a3e57fa48/codexpad-a-notion-like-workspace-for-vim-users-early-feedback-welcome-3m0n)
+- [# The Complete Guide to Digital Marketing Mastery: Transform Your Business in the Digital Age](https://dev.to/abdulla_a_0ae0233ce47ec5c/-the-complete-guide-to-digital-marketing-mastery-transform-your-business-in-the-digital-age-g9g)
+- [Engineering Is Communication &lpar;And We&#39;re All Terrible At It&rpar;](https://dev.to/aris_georgatos/engineering-is-communication-and-were-all-terrible-at-it-1cfm)
+- [Service Workers Deep Dive: What Actually Happens in the Browser](https://dev.to/mvahedii/service-workers-deep-dive-what-actually-happens-in-the-browser-e1l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
