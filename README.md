@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Testing in Umami codebase - Part 1.4](https://dev.to/ramunarasinga-11/testing-in-umami-codebase-part-14-4j4h)
-- [The four pillars of OOP using a WW2 Sherman Tank](https://dev.to/robc79/the-four-pillars-of-oop-using-a-ww2-sherman-tank-169p)
-- [Alternatives to LeetCode Wizard: Ethical Tools for Interview Preparation](https://dev.to/alex_hunter_44f4c9ed6671e/alternatives-to-leetcode-wizard-ethical-tools-for-interview-preparation-a84)
-- [Congrats to the Winners of the AI Challenge for Cross-Platform Apps!](https://dev.to/devteam/congrats-to-the-winners-of-the-ai-challenge-for-cross-platform-apps-3f7f)
-- [Solving the &quot;MFA Wall&quot; and Other Roadblocks: Setting Up a Cloud-Ready Linux Environment](https://dev.to/bmeinert8/solving-the-mfa-wall-and-other-roadblocks-setting-up-a-cloud-ready-linux-environment-3o66)
+- [A story on Frontend Architectures - SPA meets the enterprise &lpar;Part-2&rpar;](https://dev.to/purnez/a-story-on-frontend-architectures-spa-meets-the-enterprise-part-2-1kj6)
+- [Swift #18: Rangos](https://dev.to/david_goyes_a488f58a17a53/swift-18-rangos-5g8a)
+- [Getting Started with PixiJS v8: Quick Start Guide](https://dev.to/itxtoledo/getting-started-with-pixijs-v8-quick-start-guide-26fm)
+- [A story on Frontend Architectures - SPA meets the enterprise &lpar;Part-1&rpar;](https://dev.to/purnez/a-story-on-frontend-architectures-spa-meets-the-enterprise-part-1-2e6n)
+- [Can Go Really Replace Rust? A Look at Their Deeper “Physical” Divide](https://dev.to/james_miller_8dc58a89cb9e/can-go-really-replace-rust-a-look-at-their-deeper-physical-divide-4g80)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
