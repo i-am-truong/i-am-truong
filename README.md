@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Week 1 of KodeKloud’s 100 Days Challenge: Days 1-4 &lpar;Or: How I Learned to Stop Worrying and Love the Slow Labs](https://dev.to/elijahu/week-1-of-kodeklouds-100-days-challenge-days-1-4-or-how-i-learned-to-stop-worrying-and-love-the-25o6)
 - [🧰 I Built LLMKit: A Complete Toolkit for Testing LLM APIs](https://dev.to/chieund/i-built-llmkit-a-complete-toolkit-for-testing-llm-apis-50eb)
 - [When Announcements Replace Innovation: OpenAI’s Code Red 🚨](https://dev.to/razoorka/when-announcements-replace-innovation-openais-code-red-3ak9)
 - [Buy More Ramen, Devs! Because for Years Ahead, AI Slop ATS Will Kick Our Godly Resumes Hard in the Pants](https://dev.to/ryo_suwito/buy-more-ramen-devs-because-for-years-ahead-ai-slop-ats-will-kick-our-godly-resumes-hard-in-the-575i)
 - [Top 10 Frameworks for Hybrid Mobile Apps in 2026](https://dev.to/ronika_kashyap/top-10-frameworks-for-hybrid-mobile-apps-in-2026-4dna)
-- [Day 2/30](https://dev.to/smolmin_/day-230-9p8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
