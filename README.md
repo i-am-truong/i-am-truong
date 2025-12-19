@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Security news weekly round-up - 19th December 2025](https://dev.to/ziizium/security-news-weekly-round-up-19th-december-2025-31hd)
-- [Day 28 of improving my Data Science skills](https://dev.to/sp_the_data_specialist/day-28-of-improving-my-data-science-skills-15dg)
-- [Generating Sequences With Recurrent Neural Networks](https://dev.to/paperium/generating-sequences-with-recurrent-neural-networks-4j0d)
-- [Building Bulletproof AI Apps: Multi-Provider Failover with Bifrost](https://dev.to/debmckinney/building-bulletproof-ai-apps-multi-provider-failover-with-bifrost-3p6j)
-- [Lessons from 500+ GitHub Migrations](https://dev.to/htekdev/lessons-from-500-github-migrations-4fjd)
+- [How I Built a Fast, Client-Side JSON Viewer for Developers](https://dev.to/jsonviewertool/how-i-built-a-fast-client-side-json-viewer-for-developers-32md)
+- [Transform SDK Integration: Monetize Your AI Conversations with Monetzly](https://dev.to/monetzly/transform-sdk-integration-monetize-your-ai-conversations-with-monetzly-io1)
+- [Why “99.9% uptime” doesn’t mean your users are fine](https://dev.to/lideroocom/why-999-uptime-doesnt-mean-your-users-are-fine-3bf7)
+- [I Built a $29/mo Alternative to $800 Enterprise Social Listening Tools](https://dev.to/constantquadruped/i-built-a-29mo-alternative-to-800-enterprise-social-listening-tools-19e4)
+- [Streamlining Payroll Management for Federal Contractors](https://dev.to/kapusto/streamlining-payroll-management-for-federal-contractors-3gan)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
