@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Retaining Rural Talent: Paper Industry Workforce Strategies](https://dev.to/kalvin-moss/retaining-rural-talent-paper-industry-workforce-strategies-2k2e)
-- [CodexPad — a Notion-like workspace for Vim users &lpar;early feedback welcome&rpar;](https://dev.to/animesh_singh_01a3e57fa48/codexpad-a-notion-like-workspace-for-vim-users-early-feedback-welcome-3m0n)
-- [# The Complete Guide to Digital Marketing Mastery: Transform Your Business in the Digital Age](https://dev.to/abdulla_a_0ae0233ce47ec5c/-the-complete-guide-to-digital-marketing-mastery-transform-your-business-in-the-digital-age-g9g)
-- [Engineering Is Communication &lpar;And We&#39;re All Terrible At It&rpar;](https://dev.to/aris_georgatos/engineering-is-communication-and-were-all-terrible-at-it-1cfm)
-- [Service Workers Deep Dive: What Actually Happens in the Browser](https://dev.to/mvahedii/service-workers-deep-dive-what-actually-happens-in-the-browser-e1l)
+- [Your Morning AI News: ChatGPT&#39;s $3B Milestone, GPT-5.2 Launch, and the Rise of AI Scams in December 2025](https://dev.to/ethan_zhang_e501fea89c25b/your-morning-ai-news-chatgpts-3b-milestone-gpt-52-launch-and-the-rise-of-ai-scams-in-december-iog)
+- [Vue + XChainJS Example](https://dev.to/bockesstudio/vue-xchainjs-example-221j)
+- [Silk Embroidered Suits: A Celebration of Craft and Elegance](https://dev.to/houseofsiyaab/silk-embroidered-suits-a-celebration-of-craft-and-elegance-4545)
+- [Zoho Inventory Bigcommerce Integration](https://dev.to/skuplugs077/zoho-inventory-bigcommerce-integration-fm3)
+- [Self-Hosting a Text-to-Speech App on Google Colab](https://dev.to/lightningdev123/self-hosting-a-text-to-speech-app-on-google-colab-1f2a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
