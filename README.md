@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CSS vs Tailwind CSS - I built the same home page with both](https://dev.to/fabianfrankwerner/css-vs-tailwind-css-i-built-the-same-home-page-with-both-23mi)
-- [I built a simple open-source macOS app to run Whisper locally to transcribe audio/video files](https://dev.to/pedro_siqueira_7c1caff40a/i-built-a-simple-macos-app-to-run-whisper-locally-to-transcribe-audiovideo-files-4o5n)
-- [From Network Segmentation to Micro-segmentation on AWS](https://dev.to/irfansatrio/from-network-segmentation-to-micro-segmentation-on-aws-1jc8)
-- [10 UI/UX Improvements That Instantly Boost User Engagement &lpar;Even for Developers&rpar;](https://dev.to/pixel_mosaic/10-uiux-improvements-that-instantly-boost-user-engagement-even-for-developers-640)
-- [I Intentionally Built a Bad Decision System &lpar;So You Don’t Have To&rpar;](https://dev.to/ertugrulmutlu/i-intentionally-built-a-bad-decision-system-so-you-dont-have-to-417j)
+- [The Dependency Injection Dilemma: Why I’m Finally Ghosting @Autowired on Fields](https://dev.to/rajatarora/the-dependency-injection-dilemma-why-im-finally-ghosting-autowired-on-fields-5fba)
+- [AI-Native GUI SDK for NeuroShellOS: A Semantic Interface Framework for Language Model Control](https://dev.to/hejhdiss/ai-native-gui-sdk-for-neuroshellos-a-semantic-interface-framework-for-language-model-control-62e)
+- [AWS Backup and Logically Air Gapped Vault](https://dev.to/nataliam/aws-backup-and-logically-air-gapped-vault-3mio)
+- [Build a High-Performance Database Connection Pool in Go with Smart Caching and Health Monitoring](https://dev.to/nithinbharathwaj/build-a-high-performance-database-connection-pool-in-go-with-smart-caching-and-health-monitoring-1j8n)
+- [A Practical Guide to Building Your First Automation Workflow](https://dev.to/coderoflagos/a-practical-guide-to-building-your-first-automation-workflow-4k7l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
