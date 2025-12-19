@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Release everything with JReleaser](https://dev.to/onepoint/release-everything-with-jreleaser-5a97)
-- [Full-Time Degree vs Short-Term Certification Courses](https://dev.to/tech_space/degree-vs-certification-courses-o2)
-- [**8 Python Database Optimization Techniques to 10x Your Application Performance**](https://dev.to/nithinbharathwaj/8-python-database-optimization-techniques-to-10x-your-application-performance-8bf)
-- [Building Elbow Arrows in Excalidraw &lpar;Part 2&rpar;](https://dev.to/marktolmacs/building-elbow-arrows-in-excalidraw-part-2-4190)
-- [Day 12: Pipelines and Lost Connections](https://dev.to/casperday11/day-12-pipelines-and-lost-connections-1a7)
+- [Day 19 — Secret Management &lpar;The Okterakt&rpar;](https://dev.to/aerabi/day-19-secret-management-the-okterakt-98p)
+- [2. Add Two Numbers](https://dev.to/gomdoricake/2-add-two-numbers-1n87)
+- [What Generative AI Means for Business Leaders Right Now?](https://dev.to/hritvikcitrusbug/what-generative-ai-means-for-business-leaders-right-now-2b1a)
+- [𝗩𝗼𝗶𝗰𝗲 𝗔𝗜: 𝗡𝗟𝗨 &lpar;𝗡𝗮𝘁𝘂𝗿𝗮𝗹 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗨𝗻𝗱𝗲𝗿𝘀𝘁𝗮𝗻𝗱𝗶𝗻𝗴&rpar; - 𝗨𝗻𝗱𝗲𝗿𝘀𝘁𝗮𝗻𝗱𝗶𝗻𝗴 𝗪𝗵𝗮𝘁 𝗬𝗼𝘂 𝗔𝗰𝘁𝘂𝗮𝗹𝗹𝘆 𝗠𝗲𝗮𝗻𝘁](https://dev.to/wanjohichristopher/--1dp0)
+- [The FM30 hackathon returns: Build a typing speed test!](https://dev.to/frontendmentor/the-fm30-hackathon-returns-build-a-typing-speed-test-22bl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
