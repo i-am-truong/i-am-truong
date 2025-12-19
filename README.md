@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Key Breakthroughs in AI Engineering that Every AI Engineer Must Know](https://dev.to/chen115y/key-breakthroughs-in-ai-engineering-that-every-ai-engineer-must-know-3ibh)
+- [Agent Factory Recap: Can you do my shopping?](https://dev.to/googleai/agent-factory-recap-can-you-do-my-shopping-5f8k)
+- [Day 27 Of Documenting My Learning Journey](https://dev.to/james_kabuga/day-27-of-documenting-my-learning-journey-4mda)
 - [𝐒𝐭𝐚𝐤𝐞𝐋𝐢𝐆𝐚𝐦𝐞𝐬](https://dev.to/soumilgit/-4ko0)
 - [Autogen vs Strands: Why I Stopped Forcing Agents Everywhere](https://dev.to/mahakfaheem/autogen-vs-strands-why-i-stopped-forcing-agents-everywhere-2982)
-- [Declarative JSON Dispatch in Modern C++](https://dev.to/byebyyanogawa/declarative-json-dispatch-in-modern-c-91n)
-- [SAP on AWS: The $200K Skill Gap While Everyone&#39;s Learning AI](https://dev.to/aws-builders/sap-on-aws-the-200k-skill-gap-while-everyones-learning-ai-200k)
-- [The Edge Security Paradox: How Zero Trust Architecture Created the Problems It Was Meant to Solve](https://dev.to/zeroblind25/the-edge-security-paradox-how-zero-trust-architecture-created-the-problems-it-was-meant-to-solve-27c2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
