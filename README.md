@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started With Virtual Machine Scale Set: A practical Guide](https://dev.to/akintoye_gbenga/getting-started-with-virtual-machine-scale-set-a-practical-guide-46pb)
-- [How to Send Email in PHP: Complete SMTP and API Guide](https://dev.to/davecodes/how-to-send-email-in-php-complete-smtp-and-api-guide-16l9)
-- [2025 Review 👀](https://dev.to/jphi_baconnais/2025-review-3c2d)
-- [Drupal Service Decorators : L&#39;art de modifier l&#39;existant sans tout casser](https://dev.to/dgtech/drupal-service-decorators-lart-de-modifier-lexistant-sans-tout-casser-28jp)
-- [Read How AI Doc Tools Cut Onboarding TIme By 80%](https://dev.to/jaysaadana/read-how-ai-doc-tools-cut-onboarding-time-by-80-280)
+- [Need advice on how to unban my Patreon page.](https://dev.to/teobaldo_a65e36b7db29087a/need-advice-on-how-to-unban-my-patreon-page-ha1)
+- [Building a CDC Skyscraper: How SeaTunnel Leverages Debezium Under the Hood](https://dev.to/seatunnel/building-a-cdc-skyscraper-how-seatunnel-leverages-debezium-under-the-hood-23ic)
+- [Unlocking the Power of Connected Data: A Deep Dive into Amazon Neptune](https://dev.to/nidheesh_/unlocking-the-power-of-connected-data-a-deep-dive-into-amazon-neptune-151d)
+- [Building Chrome Extensions with Plasmo](https://dev.to/alexandergekov/building-chrome-extensions-with-plasmo-4g0c)
+- [Understanding Kubernetes: part 60 – Kubernetes 1.35 Changelog](https://dev.to/aurelievache/understanding-kubernetes-part-60-kubernetes-135-changelog-1poh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
