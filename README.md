@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Run local LLMs in under 5 minutes using Nanocl](https://dev.to/0xle0ne/run-local-llms-in-under-5-minutes-using-nanocl-4pf2)
+- [First Look Nomad 1.11.x - Secret Block](https://dev.to/lykins/first-look-nomad-111x-secret-block-4pdd)
 - [Java + Rust with FFM](https://dev.to/fb64/java-rust-with-ffm-c6k)
 - [🔐 Building an IAM Security Dashboard with Power BI &lpar;Beginner-Friendly Walkthrough&rpar;](https://dev.to/ldwit/building-an-iam-security-dashboard-with-power-bi-beginner-friendly-walkthrough-45hd)
 - [Why Learning React Hooks is Exactly Like Running a Desi Household](https://dev.to/smrpdl1991/why-learning-react-hooks-is-exactly-like-running-a-desi-household-20cj)
-- [Implementing WebSockets in Go using Gorilla WebSocket](https://dev.to/washiulalam/implementing-websockets-in-go-using-gorilla-websocket-43p7)
-- [I was tired of wiring the same AI SaaS stack over and over — so I broke the cycle](https://dev.to/smh_trn_284011f14b3758356/i-was-tired-of-wiring-the-same-ai-saas-stack-over-and-over-so-i-broke-the-cycle-4o7p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
