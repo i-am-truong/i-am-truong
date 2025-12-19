@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Role-Based Access Control &lpar;RBAC&rpar; in Laravel with a Next.js Frontend](https://dev.to/prateekshaweb/mastering-role-based-access-control-rbac-in-laravel-with-a-nextjs-frontend-4i4g)
-- [Top Cloud FinOps Tools for AWS, Azure, and Google Cloud](https://dev.to/oli_john_087e42c8f84/top-cloud-finops-tools-for-aws-azure-and-google-cloud-35p8)
-- [Use Angular HostDirective for all of your component facades](https://dev.to/romain_geffrault_10d88369/use-angular-hostdirective-for-all-of-your-component-facades-1bo6)
-- [Docker](https://dev.to/syed_irfan_f0a0a796454b26/docker-bme)
-- [Building ScrapeForge in public starting tomorrow 🚀](https://dev.to/vishwas-batra/building-scrapeforge-in-public-starting-tomorrow-29ki)
+- [AWS Secrets Manager: How to Set Up Secrets and Fetch Them in a Python Lambda](https://dev.to/aman_kumar_6d5d23b9b1ed02/aws-secrets-manager-how-to-set-up-secrets-and-fetch-them-in-a-python-lambda-3jp8)
+- [Building a Safe AI Database Assistant with Azure OpenAI, LangChain &amp; Function Calling](https://dev.to/khushi_singla/building-a-safe-ai-database-assistant-with-azure-openai-langchain-function-calling-2fag)
+- [How Investors Can Benefit From Real Estate Asset Fractionalization](https://dev.to/suzie_iris_65ce8070067366/how-investors-can-benefit-from-real-estate-asset-fractionalization-4pbd)
+- [Why AI Certs™ Prompt Engineer Level 1 Is Becoming the Most In-Demand Skill of 2025](https://dev.to/kunal_vashishth_6599ab059/why-ai-certs-prompt-engineer-level-1-is-becoming-the-most-in-demand-skill-of-2025-4g7f)
+- [Horizontal Navigation Bar Guide 2025: Design, Code &amp; Best Practices](https://dev.to/satyam_gupta_0d1ff2152dcc/horizontal-navigation-bar-guide-2025-design-code-best-practices-592p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
