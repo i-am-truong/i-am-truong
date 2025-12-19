@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s your AI-assisted developer workflow?](https://dev.to/googleworkspace/whats-your-ai-assisted-developer-workflow-1mph)
-- [React Native ile Endüstriyel Barkod Okuma: Ters Renk Data Matrix Kodları ve Zebra DataWedge Entegrasyonu](https://dev.to/alkanyuce93/react-native-ile-endustriyel-barkod-okuma-ters-renk-data-matrix-kodlari-ve-zebra-datawedge-37fk)
-- [Kotlin vs Java for Android App Development in Modern Codebases](https://dev.to/raulsmithus/kotlin-vs-java-for-android-app-development-in-modern-codebases-3i5j)
-- [📊 Data Collection and Analysis: How to Turn Web Traffic into Actionable Insights](https://dev.to/okoye_ndidiamaka_5e3b7d30/data-collection-and-analysis-how-to-turn-web-traffic-into-actionable-insights-325o)
-- [Getting Started With Amazon Neptune – A Graph Database for Modern Apps](https://dev.to/natpuenean_va_27a0f631f48/getting-started-with-amazon-neptune-a-graph-database-for-modern-apps-5f3a)
+- [Getting Started With Virtual Machine Scale Set: A practical Guide](https://dev.to/akintoye_gbenga/getting-started-with-virtual-machine-scale-set-a-practical-guide-46pb)
+- [How to Send Email in PHP: Complete SMTP and API Guide](https://dev.to/davecodes/how-to-send-email-in-php-complete-smtp-and-api-guide-16l9)
+- [2025 Review 👀](https://dev.to/jphi_baconnais/2025-review-3c2d)
+- [Drupal Service Decorators : L&#39;art de modifier l&#39;existant sans tout casser](https://dev.to/dgtech/drupal-service-decorators-lart-de-modifier-lexistant-sans-tout-casser-28jp)
+- [Read How AI Doc Tools Cut Onboarding TIme By 80%](https://dev.to/jaysaadana/read-how-ai-doc-tools-cut-onboarding-time-by-80-280)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
