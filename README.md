@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI Gym](https://dev.to/paperium/openai-gym-4o3b)
+- [How Do You Measure API Performance in Apigee X?](https://dev.to/realnamehidden1_61/how-do-you-measure-api-performance-in-apigee-x-3ldo)
+- [Configs. Touchpad-like scroll with mouse](https://dev.to/axkira/configs-touchpad-like-scroll-with-mouse-33o4)
+- [Reverse Engineering the &quot;Trust&quot; Algorithm: A Look at TraderKnows](https://dev.to/nezahualpillitlapalco/reverse-engineering-the-trust-algorithm-a-look-at-traderknows-351k)
+- [How AI Translation Helps Search Foreign Language Prior Art in English](https://dev.to/patentscanai/how-ai-translation-helps-search-foreign-language-prior-art-in-english-8ph)
 - [The Right Way to Copy to Clipboard in React &lpar;2024&rpar;](https://dev.to/samhansaka/the-right-way-to-copy-to-clipboard-in-react-2024-2m7i)
-- [Understanding Threads in Computing: A Practical Guide for Developers](https://dev.to/farhadrahimiklie/understanding-threads-in-computing-a-practical-guide-for-developers-20c2)
-- [Systemd Explained: Units, Targets, and Why systemctl Is More Than Start and Stop](https://dev.to/rijultp/systemd-explained-units-targets-and-why-systemctl-is-more-than-start-and-stop-3l75)
-- [[Sports Watch] [API 6] Methods for Exporting Logs from Sports Watches](https://dev.to/harmonyos/sports-watch-api-6-methods-for-exporting-logs-from-sports-watches-327e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
