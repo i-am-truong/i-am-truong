@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I put a Game Boy inside ChatGPT &lpar;ChatGPT Apps&rpar;](https://dev.to/bd_perez/i-put-a-game-boy-inside-chatgpt-chatgpt-apps-3a75)
-- [Stop Asking for Data! Master the &quot;Tell, Don&#39;t Ask&quot; Principle](https://dev.to/jonghwayoo03_dev/stop-asking-for-data-master-the-tell-dont-ask-principle-373g)
-- [Advent of AI - Day 13: Goose Terminal Integration](https://dev.to/nickytonline/advent-of-ai-day-13-goose-terminal-integration-145p)
-- [A Day in the Life of a Marketing Manager Using Microsoft Planner](https://dev.to/alexrodovit/a-day-in-the-life-of-a-marketing-manager-using-microsoft-planner-1cka)
-- [The Arbitrage Bot Arms Race: What We Learned Running FlashArb in Production](https://dev.to/chronocoders/the-arbitrage-bot-arms-race-what-we-learned-running-flasharb-in-production-10ij)
+- [I Refused to Throw It Away](https://dev.to/probis/i-refused-to-throw-it-away-1np0)
+- [The Next Leap in AI Isn’t Bigger Models: It’s Better Interfaces](https://dev.to/jaideepparashar/the-next-leap-in-ai-isnt-bigger-models-its-better-interfaces-44bm)
+- [Constructor function in JavaScript](https://dev.to/harini_magesh_fa40041cf8d/constructor-function-in-javascript-461p)
+- [LLMs Are Not the Final Form of AI — Self-Learning Models Are the Real Path](https://dev.to/winola_zoe/llms-are-not-the-final-form-of-ai-self-learning-models-are-the-real-path-2551)
+- [Convert HEIC Photos to PNG Online – No Install, No Watermark](https://dev.to/_7bdcbcaa99fbf1c9ea608c/convert-heic-photos-to-png-online-no-install-no-watermark-4n3g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
