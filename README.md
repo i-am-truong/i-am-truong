@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GitHub&#39;s Secret 10-Token Limit Was Killing My MCP Server](https://dev.to/scott_raisbeck_24ea5fbc1e/githubs-secret-10-token-limit-was-killing-my-mcp-server-3e3f)
-- [# XChainJS Cross-Chain Swap Example &lpar;THORChain&rpar;](https://dev.to/xchainviskor/-xchainjs-cross-chain-swap-example-thorchain-1nc5)
-- [Beyond the Hype: How AI Will Actually Transform Our World by 2030](https://dev.to/shiva_shanker_k/beyond-the-hype-how-ai-will-actually-transform-our-world-by-2030-2lng)
-- [Your Docker Images Are Bigger Than They Need to Be](https://dev.to/polliog/your-docker-images-are-bigger-than-they-need-to-be-2ca)
-- [CodeSensei — Learning to Design and Review Code in the Age of AI](https://dev.to/yuu1ch13/codesensei-learning-to-design-and-review-code-in-the-age-of-ai-18mg)
+- [I Built a Feature in 1 Hour, Not a Day](https://dev.to/careerbytecode/i-built-a-feature-in-1-hour-not-a-day-51n)
+- [Entity Framework Core Raw SQL — From FromSql&lpar;&rpar; to Production‑Grade Safety](https://dev.to/cristiansifuentes/entity-framework-core-raw-sql-from-fromsql-to-production-grade-safety-3168)
+- [# `@xchainjs/xchain-ethereum`](https://dev.to/xchainviskor/-xchainjsxchain-ethereum-2b12)
+- [2026’da Frontend Gelişiminin Yeni Yönü: Framework’lerin Ötesinde](https://dev.to/erhanaky/2026da-frontend-gelisiminin-yeni-yonu-frameworklerin-otesinde-1ncd)
+- [Guardium- Password Protector &lpar;Day-2&rpar;](https://dev.to/debmalyadas007/guardium-password-protector-day-2-46k4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
