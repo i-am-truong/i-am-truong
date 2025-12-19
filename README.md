@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [c4cats.org](https://dev.to/kim_goings_12ff9d95b5b98c/c4catsorg-46fi)
 - [Developers vs AI: A Holiday Reflection — What Kind of Developer Do You Want to Be?](https://dev.to/marxon/developers-vs-ai-a-holiday-reflection-what-kind-of-developer-do-you-want-to-be-j1)
 - [Using AWS Outbound Identity Federation for Azure Resources](https://dev.to/aws-builders/using-aws-outbound-identity-federation-for-azure-resources-2d7c)
-- [# 🔐 Login DynamoDB](https://dev.to/puffer_dev_0fea768fa0b4f6/-login-dynamodb-59fe)
+- [# 🔐 Login Backend with Express, AWS Lambda and Dynamo DB](https://dev.to/puffer_dev_0fea768fa0b4f6/-login-dynamodb-59fe)
 - [Run local LLMs in under 5 minutes using Nanocl](https://dev.to/0xle0ne/run-local-llms-in-under-5-minutes-using-nanocl-4pf2)
-- [First Look Nomad 1.11.x - Secret Block](https://dev.to/lykins/first-look-nomad-111x-secret-block-4pdd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
