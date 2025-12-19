@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Caching in WebFlux - GraphQL context, using Caffeine](https://dev.to/bacongubbe/caching-in-webflux-graphql-context-using-caffeine-3dja)
+- [Day 25 Of Documenting My Learning Journey](https://dev.to/james_kabuga/day-25-of-documenting-my-learning-journey-1oan)
 - [Week 1 of KodeKloud’s 100 Days Challenge: Days 1-4 &lpar;Or: How I Learned to Stop Worrying and Love the Slow Labs](https://dev.to/elijahu/week-1-of-kodeklouds-100-days-challenge-days-1-4-or-how-i-learned-to-stop-worrying-and-love-the-25o6)
+- [Day 24 Of Documenting my Learning Journey](https://dev.to/james_kabuga/day-24-of-documenting-my-learning-journey-1h5m)
 - [🧰 I Built LLMKit: A Complete Toolkit for Testing LLM APIs](https://dev.to/chieund/i-built-llmkit-a-complete-toolkit-for-testing-llm-apis-50eb)
-- [When Announcements Replace Innovation: OpenAI’s Code Red 🚨](https://dev.to/razoorka/when-announcements-replace-innovation-openais-code-red-3ak9)
-- [Buy More Ramen, Devs! Because for Years Ahead, AI Slop ATS Will Kick Our Godly Resumes Hard in the Pants](https://dev.to/ryo_suwito/buy-more-ramen-devs-because-for-years-ahead-ai-slop-ats-will-kick-our-godly-resumes-hard-in-the-575i)
-- [Top 10 Frameworks for Hybrid Mobile Apps in 2026](https://dev.to/ronika_kashyap/top-10-frameworks-for-hybrid-mobile-apps-in-2026-4dna)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
