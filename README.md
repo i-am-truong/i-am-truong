@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Top AI Tools for Productivity in 2025](https://dev.to/_fde76ff2d01974642930b/top-ai-tools-for-productivity-in-2025-356e)
-- [A Simple Tool for Video Conversion and Compression](https://dev.to/curry_lau_9674447236abfc0/a-simple-tool-for-video-conversion-and-compression-4gij)
-- [How to Build a White Label Travel Portal: A Developer&#39;s Guide](https://dev.to/dhiraj_kumar_163e7e663e6e/how-to-build-a-white-label-travel-portal-a-developers-guide-48ig)
-- [What It Takes to Build FinTech Apps That Survive Real User Growth](https://dev.to/mary_andree/what-it-takes-to-build-fintech-apps-that-survive-real-user-growth-2o3)
-- [5 Terminal Commands That Saved Me Hours of Clicking](https://dev.to/maame-codes/5-terminal-commands-that-saved-me-hours-of-clicking-4mfn)
+- [What&#39;s your AI-assisted developer workflow?](https://dev.to/googleworkspace/whats-your-ai-assisted-developer-workflow-1mph)
+- [React Native ile Endüstriyel Barkod Okuma: Ters Renk Data Matrix Kodları ve Zebra DataWedge Entegrasyonu](https://dev.to/alkanyuce93/react-native-ile-endustriyel-barkod-okuma-ters-renk-data-matrix-kodlari-ve-zebra-datawedge-37fk)
+- [Kotlin vs Java for Android App Development in Modern Codebases](https://dev.to/raulsmithus/kotlin-vs-java-for-android-app-development-in-modern-codebases-3i5j)
+- [📊 Data Collection and Analysis: How to Turn Web Traffic into Actionable Insights](https://dev.to/okoye_ndidiamaka_5e3b7d30/data-collection-and-analysis-how-to-turn-web-traffic-into-actionable-insights-325o)
+- [Getting Started With Amazon Neptune – A Graph Database for Modern Apps](https://dev.to/natpuenean_va_27a0f631f48/getting-started-with-amazon-neptune-a-graph-database-for-modern-apps-5f3a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
