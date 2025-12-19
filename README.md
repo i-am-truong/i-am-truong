@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Shipping JSON over the wire is professional negligence](https://dev.to/peteralexbizjak/shipping-json-over-the-wire-is-professional-negligence-4ehj)
-- [How Does a Fingerprint Turn Into a Secure Digital Identity?](https://dev.to/pratha_maniar/how-does-a-fingerprint-turn-into-a-secure-digital-identity-3p3i)
-- [Mastering HTTP Clients in Go: Your Guide to the `net/http` Package](https://dev.to/jones_charles_ad50858dbc0/mastering-http-clients-in-go-your-guide-to-the-nethttp-package-2d8b)
-- [AWS Secrets Manager: How to Set Up Secrets and Fetch Them in a Python Lambda](https://dev.to/aman_kumar_6d5d23b9b1ed02/aws-secrets-manager-how-to-set-up-secrets-and-fetch-them-in-a-python-lambda-3jp8)
-- [Building a Safe AI Database Assistant with Azure OpenAI, LangChain &amp; Function Calling](https://dev.to/khushi_singla/building-a-safe-ai-database-assistant-with-azure-openai-langchain-function-calling-2fag)
+- [Why Batch Jobs Suck — And How SPL Cuts Runtime from Hours to Seconds](https://dev.to/esproc_spl/why-batch-jobs-suck-and-how-spl-cuts-runtime-from-hours-to-seconds-m82)
+- [We built a runtime for background AI agents](https://dev.to/makhlevich/we-built-a-runtime-for-background-ai-agents-55d3)
+- [Next.js at the Speed of Bun: Why the Runtime is Your New Performance Bottleneck](https://dev.to/chaudharidevam/nextjs-at-the-speed-of-bun-why-the-runtime-is-your-new-performance-bottleneck-24a3)
+- [Supabase preview environments with Autodock](https://dev.to/mikesol/supabase-preview-environments-with-autodock-1f0l)
+- [Getting Started with Ansible: A Beginner’s Guide](https://dev.to/anushree_gm/getting-started-with-ansible-a-beginners-guide-3deh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
