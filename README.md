@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Diario de una builder: Preparándonos para AWS Machine Learning desde cero](https://dev.to/aws-builders/diario-de-una-builder-preparandonos-para-aws-machine-learning-desde-cero-2990)
-- [Brevity](https://dev.to/bagelbomb/brevity-1g4)
-- [Difficult Choices: Angular, React or Vue?](https://dev.to/cheetah100/difficult-choices-angular-react-or-vue-2443)
-- [On Facing Extinction &lpar;Again&rpar;](https://dev.to/annaspies/on-facing-extinction-again-23o5)
-- [Clarifying Zero Knowledge Proof Concepts](https://dev.to/marycynthia_ihemebiwo_1c4/clarifying-zero-knowledge-proof-concepts-lpj)
+- [Experiencia profesional de testing en Golang](https://dev.to/vickodev/experiencia-profesional-de-testing-en-golang-9en)
+- [KubeVirt to run VMs in your K8s cluster](https://dev.to/sergioarmgpl/kubevirt-to-run-vms-in-your-k8s-cluster-4jh4)
+- [How to Recover AI Coding Mistakes](https://dev.to/ivandotcodes/how-to-recover-ai-coding-mistakes-26lf)
+- [PROJECT : Module Reuse + Outputs Consumption](https://dev.to/jumptotech/project-module-reuse-outputs-consumption-1c4f)
+- [2025-12-19 Daily Robotics News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-19-daily-robotics-news-1m46)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
