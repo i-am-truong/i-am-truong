@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your Morning AI News: ChatGPT&#39;s $3B Milestone, GPT-5.2 Launch, and the Rise of AI Scams in December 2025](https://dev.to/ethan_zhang_e501fea89c25b/your-morning-ai-news-chatgpts-3b-milestone-gpt-52-launch-and-the-rise-of-ai-scams-in-december-iog)
-- [Vue + XChainJS Example](https://dev.to/bockesstudio/vue-xchainjs-example-221j)
-- [Silk Embroidered Suits: A Celebration of Craft and Elegance](https://dev.to/houseofsiyaab/silk-embroidered-suits-a-celebration-of-craft-and-elegance-4545)
-- [Zoho Inventory Bigcommerce Integration](https://dev.to/skuplugs077/zoho-inventory-bigcommerce-integration-fm3)
-- [Self-Hosting a Text-to-Speech App on Google Colab](https://dev.to/lightningdev123/self-hosting-a-text-to-speech-app-on-google-colab-1f2a)
+- [From Network Segmentation to Micro-segmentation on AWS](https://dev.to/irfansatrio/from-network-segmentation-to-micro-segmentation-on-aws-1jc8)
+- [Choosing the Right EC2 Instance: Types, Pricing Models, and Workload Fit](https://dev.to/jeyy/choosing-the-right-ec2-instance-types-pricing-models-and-workload-fit-5bk8)
+- [I Intentionally Built a Bad Decision System &lpar;So You Don’t Have To&rpar;](https://dev.to/ertugrulmutlu/i-intentionally-built-a-bad-decision-system-so-you-dont-have-to-417j)
+- [AI content generation with readability scoring - Write Better...](https://dev.to/ash_dubai/ai-content-generation-with-readability-scoring-write-better-34l6)
+- [Finding the Best Time to Develop for Engineers: My Insights | My Site](https://dev.to/ash_dubai/finding-the-best-time-to-develop-for-engineers-my-insights-my-site-9o3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
