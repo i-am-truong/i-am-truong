@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Implement Observability for AI Agents with LangGraph, OpenAI Agents, and Crew AI](https://dev.to/kuldeep_paul/how-to-implement-observability-for-ai-agents-with-langgraph-openai-agents-and-crew-ai-5e7k)
+- [I built a CLI that keeps README.md in sync with code &lpar;GitHub doesn’t&rpar;](https://dev.to/manish112233/i-built-a-cli-that-keeps-readmemd-in-sync-with-code-github-doesnt-1epp)
+- [React Components Explained: A Beginner-Friendly Guide with Examples](https://dev.to/ahmad_mahboob/react-components-explained-a-beginner-friendly-guide-with-examples-1l9p)
 - [Day 19 — Secret Management &lpar;The Okterakt&rpar;](https://dev.to/aerabi/day-19-secret-management-the-okterakt-98p)
 - [2. Add Two Numbers](https://dev.to/gomdoricake/2-add-two-numbers-1n87)
-- [What Generative AI Means for Business Leaders Right Now?](https://dev.to/hritvikcitrusbug/what-generative-ai-means-for-business-leaders-right-now-2b1a)
-- [𝗩𝗼𝗶𝗰𝗲 𝗔𝗜: 𝗡𝗟𝗨 &lpar;𝗡𝗮𝘁𝘂𝗿𝗮𝗹 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗨𝗻𝗱𝗲𝗿𝘀𝘁𝗮𝗻𝗱𝗶𝗻𝗴&rpar; - 𝗨𝗻𝗱𝗲𝗿𝘀𝘁𝗮𝗻𝗱𝗶𝗻𝗴 𝗪𝗵𝗮𝘁 𝗬𝗼𝘂 𝗔𝗰𝘁𝘂𝗮𝗹𝗹𝘆 𝗠𝗲𝗮𝗻𝘁](https://dev.to/wanjohichristopher/--1dp0)
-- [The FM30 hackathon returns: Build a typing speed test!](https://dev.to/frontendmentor/the-fm30-hackathon-returns-build-a-typing-speed-test-22bl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
