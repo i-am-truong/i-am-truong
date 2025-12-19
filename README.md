@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Implement Observability for AI Agents with LangGraph, OpenAI Agents, and Crew AI](https://dev.to/kuldeep_paul/how-to-implement-observability-for-ai-agents-with-langgraph-openai-agents-and-crew-ai-5e7k)
-- [I built a CLI that keeps README.md in sync with code &lpar;GitHub doesn’t&rpar;](https://dev.to/manish112233/i-built-a-cli-that-keeps-readmemd-in-sync-with-code-github-doesnt-1epp)
-- [React Components Explained: A Beginner-Friendly Guide with Examples](https://dev.to/ahmad_mahboob/react-components-explained-a-beginner-friendly-guide-with-examples-1l9p)
-- [Day 19 — Secret Management &lpar;The Okterakt&rpar;](https://dev.to/aerabi/day-19-secret-management-the-okterakt-98p)
-- [2. Add Two Numbers](https://dev.to/gomdoricake/2-add-two-numbers-1n87)
+- [The Secret of Minimum Coverage](https://dev.to/epigene/the-secret-of-minimum-coverage-29dm)
+- [Why Edge Computing Forced Me to Write Better Code &lpar;And Why That&#39;s the Future&rpar;](https://dev.to/dannwaneri/why-edge-computing-forced-me-to-write-better-code-and-why-thats-the-future-4a4g)
+- [The Vibe Coding Shift: Are We Becoming Architects or Tourists in Our Own Code?](https://dev.to/infas/the-vibe-coding-shift-are-we-becoming-architects-or-tourists-in-our-own-code-3ha0)
+- [How to Design Your First API with RAML &lpar;Without Losing Your Mind!&rpar;](https://dev.to/kamranxdev/how-to-design-your-first-api-with-raml-without-losing-your-mind-4293)
+- [How I Built an AI Agent for my Portfolio &lpar;Yabasha.dev&rpar; using Laravel &amp; Next.js](https://dev.to/bayyash/how-i-built-an-ai-agent-for-my-portfolio-yabashadev-using-laravel-nextjs-52a9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
