@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [7 Best AI Testing Agent Tools for Intelligent Test Automation](https://dev.to/jamescantor38/7-best-ai-testing-agent-tools-for-intelligent-test-automation-pf6)
-- [Use AWS Bedrock &amp; AI Services &lpar;Claude, Nova, Polly, Transcribe&rpar; with Your Existing OpenAI Code](https://dev.to/jgoutin/use-aws-bedrock-ai-services-claude-nova-polly-transcribe-with-your-existing-openai-code-1ci6)
-- [The Scale Trap: How AI&#39;s Biggest Win Became Its Biggest Problem](https://dev.to/get_pieces/the-scale-trap-how-ais-biggest-win-became-its-biggest-problem-4jp5)
-- [Choosing an ETL Tool for Salesforce: The Practical Options](https://dev.to/vladam/choosing-an-etl-tool-for-salesforce-the-practical-options-1mb3)
-- [How I Stopped Spending 40 Minutes a Day on Email: The Story Behind One Extension](https://dev.to/__14cfda6b3a5ec/how-i-stopped-spending-40-minutes-a-day-on-email-the-story-behind-one-extension-1a40)
+- [Testing in Umami codebase - Part 1.4](https://dev.to/ramunarasinga-11/testing-in-umami-codebase-part-14-4j4h)
+- [The four pillars of OOP using a WW2 Sherman Tank](https://dev.to/robc79/the-four-pillars-of-oop-using-a-ww2-sherman-tank-169p)
+- [Alternatives to LeetCode Wizard: Ethical Tools for Interview Preparation](https://dev.to/alex_hunter_44f4c9ed6671e/alternatives-to-leetcode-wizard-ethical-tools-for-interview-preparation-a84)
+- [Congrats to the Winners of the AI Challenge for Cross-Platform Apps!](https://dev.to/devteam/congrats-to-the-winners-of-the-ai-challenge-for-cross-platform-apps-3f7f)
+- [Solving the &quot;MFA Wall&quot; and Other Roadblocks: Setting Up a Cloud-Ready Linux Environment](https://dev.to/bmeinert8/solving-the-mfa-wall-and-other-roadblocks-setting-up-a-cloud-ready-linux-environment-3o66)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
