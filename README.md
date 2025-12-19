@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Go vs Python on AWS Lambda: a practical Terraform shootout &lpar;with Function URLs&rpar;](https://dev.to/aws-builders/go-vs-python-on-aws-lambda-a-practical-terraform-shootout-with-function-urls-4hf0)
-- [Fix: Device Limit Reached Error after IP Change in ZappySys ODBC](https://dev.to/zappysys/fix-device-limit-reached-error-after-ip-change-in-zappysys-odbc-2731)
-- [How to Read Parquet Files in SSIS using ZappySys ODBC &lpar;DuckDB&rpar;](https://dev.to/zappysys/how-to-read-parquet-files-in-ssis-using-zappysys-odbc-duckdb-mb6)
-- [Kiro&#39;s Agentic IDE: Hype, Hope and Hard Truths](https://dev.to/aws-builders/kiros-agentic-ide-hype-hope-and-hard-truths-1dpi)
-- [Beafing up Your server For Production🐄](https://dev.to/david_dut_3abb1db64876b4a/beafing-up-your-server-for-production-1j0g)
+- [I put a Game Boy inside ChatGPT &lpar;ChatGPT Apps&rpar;](https://dev.to/bd_perez/i-put-a-game-boy-inside-chatgpt-chatgpt-apps-3a75)
+- [Stop Asking for Data! Master the &quot;Tell, Don&#39;t Ask&quot; Principle](https://dev.to/jonghwayoo03_dev/stop-asking-for-data-master-the-tell-dont-ask-principle-373g)
+- [Advent of AI - Day 13: Goose Terminal Integration](https://dev.to/nickytonline/advent-of-ai-day-13-goose-terminal-integration-145p)
+- [A Day in the Life of a Marketing Manager Using Microsoft Planner](https://dev.to/alexrodovit/a-day-in-the-life-of-a-marketing-manager-using-microsoft-planner-1cka)
+- [The Arbitrage Bot Arms Race: What We Learned Running FlashArb in Production](https://dev.to/chronocoders/the-arbitrage-bot-arms-race-what-we-learned-running-flasharb-in-production-10ij)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
