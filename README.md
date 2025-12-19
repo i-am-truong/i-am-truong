@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Introducing GameSpendGuard - Parental Gaming Spend Monitor - GameSpendGuard - Parental Gaming Spend Monitor for everyone](https://dev.to/ben_stone_5608b8e2d9f8973/introducing-gamespendguard-parental-gaming-spend-monitor-gamespendguard-parental-gaming-spend-9bi)
-- [TABLE Jen Royle: A Communal Dining Experience Rooted in Presence and Connection](https://dev.to/tablejenroyle/table-jen-royle-a-communal-dining-experience-rooted-in-presence-and-connection-3be6)
-- [Hacktoberfest as a First-Time Maintainer](https://dev.to/cloudinary/hacktoberfest-as-a-first-time-maintainer-2pkn)
-- [Our attempt to reduce the boring 40–60% of AI engineering](https://dev.to/dowhatmatters/our-attempt-to-reduce-the-boring-40-60-of-ai-engineering-4a38)
-- [Testing Mobile-First Platforms in Bangladesh: A UX Case Study of Joya 9 &lpar;2025&rpar;](https://dev.to/gertha_renker_7d74e5342e4/testing-mobile-first-platforms-in-bangladesh-a-ux-case-study-of-joya-9-2025-50d7)
+- [Lessons from 500+ GitHub Migrations](https://dev.to/htekdev/lessons-from-500-github-migrations-4fjd)
+- [How to Practice LeetCode Without Memorizing Solutions](https://dev.to/alex_hunter_44f4c9ed6671e/how-to-practice-leetcode-without-memorizing-solutions-39mi)
+- [Cutting LLM Expenses and Response Times by 70% Through Bifrost&#39;s Semantic Caching](https://dev.to/debmckinney/cutting-llm-expenses-and-response-times-by-70-through-bifrosts-semantic-caching-d02)
+- [The HotfixHero code Manifesto: Seven Rules to Live By](https://dev.to/hotfixhero/the-hotfixhero-code-manifesto-seven-rules-to-live-by-38a)
+- [The Agent Config Wars: Why Your AI Agent Documentation Is Already Obsolete 🤯](https://dev.to/satinathnit/the-agent-config-wars-why-your-ai-agent-documentation-is-already-obsolete-4d6i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
