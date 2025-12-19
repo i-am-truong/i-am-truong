@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Feature in 1 Hour, Not a Day](https://dev.to/careerbytecode/i-built-a-feature-in-1-hour-not-a-day-51n)
-- [Entity Framework Core Raw SQL — From FromSql&lpar;&rpar; to Production‑Grade Safety](https://dev.to/cristiansifuentes/entity-framework-core-raw-sql-from-fromsql-to-production-grade-safety-3168)
-- [# `@xchainjs/xchain-ethereum`](https://dev.to/xchainviskor/-xchainjsxchain-ethereum-2b12)
-- [2026’da Frontend Gelişiminin Yeni Yönü: Framework’lerin Ötesinde](https://dev.to/erhanaky/2026da-frontend-gelisiminin-yeni-yonu-frameworklerin-otesinde-1ncd)
-- [Guardium- Password Protector &lpar;Day-2&rpar;](https://dev.to/debmalyadas007/guardium-password-protector-day-2-46k4)
+- [Java + Rust with FFM](https://dev.to/fb64/java-rust-with-ffm-c6k)
+- [🔐 Building an IAM Security Dashboard with Power BI &lpar;Beginner-Friendly Walkthrough&rpar;](https://dev.to/ldwit/building-an-iam-security-dashboard-with-power-bi-beginner-friendly-walkthrough-45hd)
+- [Why Learning React Hooks is Exactly Like Running a Desi Household](https://dev.to/smrpdl1991/why-learning-react-hooks-is-exactly-like-running-a-desi-household-20cj)
+- [Implementing WebSockets in Go using Gorilla WebSocket](https://dev.to/washiulalam/implementing-websockets-in-go-using-gorilla-websocket-43p7)
+- [I was tired of wiring the same AI SaaS stack over and over — so I broke the cycle](https://dev.to/smh_trn_284011f14b3758356/i-was-tired-of-wiring-the-same-ai-saas-stack-over-and-over-so-i-broke-the-cycle-4o7p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
