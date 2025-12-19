@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Developers vs AI: A Holiday Reflection — What Kind of Developer Do You Want to Be?](https://dev.to/marxon/developers-vs-ai-a-holiday-reflection-what-kind-of-developer-do-you-want-to-be-j1)
+- [Using AWS Outbound Identity Federation for Azure Resources](https://dev.to/aws-builders/using-aws-outbound-identity-federation-for-azure-resources-2d7c)
+- [# 🔐 Login DynamoDB](https://dev.to/puffer_dev_0fea768fa0b4f6/-login-dynamodb-59fe)
 - [Run local LLMs in under 5 minutes using Nanocl](https://dev.to/0xle0ne/run-local-llms-in-under-5-minutes-using-nanocl-4pf2)
 - [First Look Nomad 1.11.x - Secret Block](https://dev.to/lykins/first-look-nomad-111x-secret-block-4pdd)
-- [Java + Rust with FFM](https://dev.to/fb64/java-rust-with-ffm-c6k)
-- [🔐 Building an IAM Security Dashboard with Power BI &lpar;Beginner-Friendly Walkthrough&rpar;](https://dev.to/ldwit/building-an-iam-security-dashboard-with-power-bi-beginner-friendly-walkthrough-45hd)
-- [Why Learning React Hooks is Exactly Like Running a Desi Household](https://dev.to/smrpdl1991/why-learning-react-hooks-is-exactly-like-running-a-desi-household-20cj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
