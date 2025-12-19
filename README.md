@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Diario de una builder: Preparándonos para AWS Machine Learning desde cero](https://dev.to/aws-builders/diario-de-una-builder-preparandonos-para-aws-machine-learning-desde-cero-2990)
+- [Brevity](https://dev.to/bagelbomb/brevity-1g4)
+- [Difficult Choices: Angular, React or Vue?](https://dev.to/cheetah100/difficult-choices-angular-react-or-vue-2443)
+- [On Facing Extinction &lpar;Again&rpar;](https://dev.to/annaspies/on-facing-extinction-again-23o5)
 - [Clarifying Zero Knowledge Proof Concepts](https://dev.to/marycynthia_ihemebiwo_1c4/clarifying-zero-knowledge-proof-concepts-lpj)
-- [Common DevOps Roles and Responsibilities Today: Who’s on a DevOps Team &amp; How These Roles Work Together](https://dev.to/jumptotech/common-devops-roles-and-responsibilities-today-whos-on-a-devops-team-how-these-roles-work-3clj)
-- [Day 1290 : Order](https://dev.to/dwane/day-1290-order-4mad)
-- [Building a Modular IDS/IPS Tool with Python: A Practical Guide to Network Security](https://dev.to/bangkah/building-a-modular-idsips-tool-with-python-a-practical-guide-to-network-security-4fgb)
-- [PyMOL 画小分子的静电势 &lpar;ESP&rpar;](https://dev.to/jian_wang_71470b9158918d8/pymol-hua-xiao-fen-zi-de-jing-dian-shi-esp-15ec)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
