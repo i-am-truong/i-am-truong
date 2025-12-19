@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Professional Testing Experience in Golang](https://dev.to/vickodev/professional-testing-experience-in-golang-4en0)
 - [Experiencia profesional de testing en Golang](https://dev.to/vickodev/experiencia-profesional-de-testing-en-golang-9en)
 - [KubeVirt to run VMs in your K8s cluster](https://dev.to/sergioarmgpl/kubevirt-to-run-vms-in-your-k8s-cluster-4jh4)
-- [How to Recover AI Coding Mistakes](https://dev.to/ivandotcodes/how-to-recover-ai-coding-mistakes-26lf)
-- [PROJECT : Module Reuse + Outputs Consumption](https://dev.to/jumptotech/project-module-reuse-outputs-consumption-1c4f)
-- [2025-12-19 Daily Robotics News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-19-daily-robotics-news-1m46)
+- [How to stop OpenAI API credit draining using Client-Side Proof of Work &lpar;Node + React&rpar;](https://dev.to/ronald_oloo_d67211d1e6e60/how-to-stop-openai-api-credit-draining-using-client-side-proof-of-work-node-react-5e6g)
+- [zeP - Zigs missing Package Manager](https://dev.to/xerrs_/zep-zigs-missing-package-manager-2b3j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
