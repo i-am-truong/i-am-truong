@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [𝐒𝐭𝐚𝐤𝐞𝐋𝐢𝐆𝐚𝐦𝐞𝐬](https://dev.to/soumilgit/-4ko0)
+- [Autogen vs Strands: Why I Stopped Forcing Agents Everywhere](https://dev.to/mahakfaheem/autogen-vs-strands-why-i-stopped-forcing-agents-everywhere-2982)
 - [Declarative JSON Dispatch in Modern C++](https://dev.to/byebyyanogawa/declarative-json-dispatch-in-modern-c-91n)
 - [SAP on AWS: The $200K Skill Gap While Everyone&#39;s Learning AI](https://dev.to/aws-builders/sap-on-aws-the-200k-skill-gap-while-everyones-learning-ai-200k)
-- [Triggering Cypress End-to-End Tests Manually on Different Browsers with GitHub Actions](https://dev.to/talking-about-testing/triggering-cypress-end-to-end-tests-manually-on-different-browsers-with-github-actions-223i)
-- [Building a Production-Ready Portfolio: Phase 0 - Infra, Git Flow, and Project Foundations](https://dev.to/imsushant12/building-a-production-ready-portfolio-phase-0-infra-git-flow-and-project-foundations-i73)
-- [“How I Built an End-to-End ETL Pipeline Using Databricks &amp; Delta Lake”](https://dev.to/khandare_shubham_4d9ec230/how-i-built-an-end-to-end-etl-pipeline-using-databricks-delta-lake-45nc)
+- [The Edge Security Paradox: How Zero Trust Architecture Created the Problems It Was Meant to Solve](https://dev.to/zeroblind25/the-edge-security-paradox-how-zero-trust-architecture-created-the-problems-it-was-meant-to-solve-27c2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
