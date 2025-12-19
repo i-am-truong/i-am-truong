@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Secret of Minimum Coverage](https://dev.to/epigene/the-secret-of-minimum-coverage-29dm)
-- [Why Edge Computing Forced Me to Write Better Code &lpar;And Why That&#39;s the Future&rpar;](https://dev.to/dannwaneri/why-edge-computing-forced-me-to-write-better-code-and-why-thats-the-future-4a4g)
-- [The Vibe Coding Shift: Are We Becoming Architects or Tourists in Our Own Code?](https://dev.to/infas/the-vibe-coding-shift-are-we-becoming-architects-or-tourists-in-our-own-code-3ha0)
-- [How to Design Your First API with RAML &lpar;Without Losing Your Mind!&rpar;](https://dev.to/kamranxdev/how-to-design-your-first-api-with-raml-without-losing-your-mind-4293)
-- [How I Built an AI Agent for my Portfolio &lpar;Yabasha.dev&rpar; using Laravel &amp; Next.js](https://dev.to/bayyash/how-i-built-an-ai-agent-for-my-portfolio-yabashadev-using-laravel-nextjs-52a9)
+- [Puppet Enterprise 2025.7 Delivers Code Assist and RHEL 10 Primary Support &lpar;and new SCM!&rpar;](https://dev.to/puppet/puppet-enterprise-20257-delivers-code-assist-and-rhel-10-primary-support-and-new-scm-3f31)
+- [Unix signals list &lpar;most common to rare&rpar;](https://dev.to/imasystemengineer/unix-signals-list-most-common-to-rare-1632)
+- [Implementing Tap Payments in a SaaS Subscription System &lpar;Node.js + Express + Sequelize&rpar;](https://dev.to/afaq_shahid/implementing-tap-payments-in-a-saas-subscription-system-nodejs-express-sequelize-2k2l)
+- [🚀 YAMLpp: An DevOps Project is Making a Big Leap Forward](https://dev.to/fralau/yamlpp-an-devops-project-is-making-a-big-leap-forward-54b7)
+- [Deployment Strategies Visualized](https://dev.to/jp_fontenele4321/deployment-strategies-visualized-k4a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
