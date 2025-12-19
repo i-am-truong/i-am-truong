@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Copilot just crushed every AI review startup &lpar;40.3M PR analysis&rpar;](https://dev.to/zak_mandhro/github-copilot-crushed-every-code-review-startup-40m-pr-analysis-2no6)
-- [Your Ego Is The Real AI Bottleneck](https://dev.to/ejb503/your-ego-is-the-real-ai-bottleneck-2eb8)
-- [Using Custom Timestamp Columns in Laravel Eloquent](https://dev.to/mmramadan496/using-custom-timestamp-columns-in-laravel-eloquent-2b26)
-- [The Duck That Talks Back](https://dev.to/junothreadborne/the-duck-that-talks-back-3c4d)
-- [🍋 LemonLoader — Real-World Android Mod Loader for Unity Games](https://dev.to/millerdean/lemonloader-real-world-android-mod-loader-for-unity-games-3n16)
+- [GitHub&#39;s Secret 10-Token Limit Was Killing My MCP Server](https://dev.to/scott_raisbeck_24ea5fbc1e/githubs-secret-10-token-limit-was-killing-my-mcp-server-3e3f)
+- [# XChainJS Cross-Chain Swap Example &lpar;THORChain&rpar;](https://dev.to/xchainviskor/-xchainjs-cross-chain-swap-example-thorchain-1nc5)
+- [Beyond the Hype: How AI Will Actually Transform Our World by 2030](https://dev.to/shiva_shanker_k/beyond-the-hype-how-ai-will-actually-transform-our-world-by-2030-2lng)
+- [Your Docker Images Are Bigger Than They Need to Be](https://dev.to/polliog/your-docker-images-are-bigger-than-they-need-to-be-2ca)
+- [CodeSensei — Learning to Design and Review Code in the Age of AI](https://dev.to/yuu1ch13/codesensei-learning-to-design-and-review-code-in-the-age-of-ai-18mg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
