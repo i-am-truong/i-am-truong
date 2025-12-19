@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Excel Migration Strategy: A Practical Tool Selection and Transition Guide](https://dev.to/_jeongyuhyeon_03de1/excel-migration-strategy-a-practical-tool-selection-and-transition-guide-3m9o)
+- [Introducing Analytics Buckets](https://dev.to/supabase/introducing-analytics-buckets-ikp)
 - [Puppet Enterprise 2025.7 Delivers Code Assist and RHEL 10 Primary Support &lpar;and new SCM!&rpar;](https://dev.to/puppet/puppet-enterprise-20257-delivers-code-assist-and-rhel-10-primary-support-and-new-scm-3f31)
 - [Unix signals list &lpar;most common to rare&rpar;](https://dev.to/imasystemengineer/unix-signals-list-most-common-to-rare-1632)
 - [Implementing Tap Payments in a SaaS Subscription System &lpar;Node.js + Express + Sequelize&rpar;](https://dev.to/afaq_shahid/implementing-tap-payments-in-a-saas-subscription-system-nodejs-express-sequelize-2k2l)
-- [🚀 YAMLpp: An DevOps Project is Making a Big Leap Forward](https://dev.to/fralau/yamlpp-an-devops-project-is-making-a-big-leap-forward-54b7)
-- [Deployment Strategies Visualized](https://dev.to/jp_fontenele4321/deployment-strategies-visualized-k4a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
