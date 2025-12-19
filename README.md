@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Michael Selig&#39;s CFTC Confirmation: A New Horizon for Crypto Regulation and Blockchain Innovation](https://dev.to/nftsaz2025/michael-seligs-cftc-confirmation-a-new-horizon-for-crypto-regulation-and-blockchain-innovation-5d37)
-- [I Tested AI on a Long Workflow and Context Collapse Killed It](https://dev.to/leena_malhotra/i-tested-ai-on-a-long-workflow-and-context-collapse-killed-it-4p8p)
-- [Actualización de Influent Package Maker a la v3.2.6-25.12-17.44](https://dev.to/jesusquijada34/actualizacion-de-influent-package-maker-a-la-v326-2512--1fh0)
-- [Enterprise Migration to Microsoft Fabric Roadmap](https://dev.to/anujrawat/enterprise-migration-to-microsoft-fabric-roadmap-3k00)
-- [Regression Testing Metrics That Actually Indicate Release Readiness](https://dev.to/sophielane/regression-testing-metrics-that-actually-indicate-release-readiness-5dbk)
+- [The Big 2025 AI Lesson: Stop Bolting Chatbots Onto Broken Workflows](https://dev.to/aiwithapex/the-big-2025-ai-lesson-stop-bolting-chatbots-onto-broken-workflows-2cd3)
+- [Your Vercel AI SDK App Has a Prompt Injection Vulnerability](https://dev.to/ofri-peretz/your-vercel-ai-sdk-app-has-a-prompt-injection-vulnerability-4g7p)
+- [Zero Trust Architecture: Why “Trust No One” Is the Future of Security 🔐](https://dev.to/devarshi_2211/zero-trust-architecture-why-trust-no-one-is-the-future-of-security-4e78)
+- [Day 76 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-76-of-100-days-dsa-coding-challenge-3odi)
+- [BoldSign Webhooks: App vs Account—How to Choose](https://dev.to/boldsign/boldsign-webhooks-app-vs-account-how-to-choose-1np2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
