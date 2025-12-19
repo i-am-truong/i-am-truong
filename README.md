@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Wasserstein GAN](https://dev.to/paperium/wasserstein-gan-2lc6)
-- [Game Development Tools for 2026](https://dev.to/del_rosario/game-development-tools-for-2026-13of)
-- [What is hardware kernel in FPGA?](https://dev.to/carolineee/what-is-hardware-kernel-in-fpga-4l3c)
-- [Need advice on how to unban my Patreon page.](https://dev.to/teobaldo_a65e36b7db29087a/need-advice-on-how-to-unban-my-patreon-page-ha1)
-- [eDgeWrapper Technology: Analyzing the Competitive Positioning of Their AI Integration Framework](https://dev.to/rimpa_basak_059b178a009c0/edgewrapper-technology-analyzing-the-competitive-positioning-of-their-ai-integration-framework-1o2l)
+- [GXD: Rethinking File Compression for Modern Computing](https://dev.to/hejhdiss/gxd-rethinking-file-compression-for-modern-computing-51ig)
+- [Automated AWS Receipt Processing System using Textract, Lambda &amp; MySQL](https://dev.to/akashabish/automated-aws-receipt-processing-system-using-textract-lambda-mysql-idg)
+- [DEV Track Spotlight: Building .NET AI Applications with Semantic Kernel and Amazon Bedrock &lpar;DEV302&rpar;](https://dev.to/aws/dev-track-spotlight-building-net-ai-applications-with-semantic-kernel-and-amazon-bedrock-dev302-dj2)
+- [How to convert PDF to SVG in C# &lpar;Tutorial&rpar;](https://dev.to/idrsolutions/how-to-convert-pdf-to-svg-in-c-tutorial-1o5b)
+- [Building Grahiq AI: Turning Raw Data into Infographics with AI](https://dev.to/dharunsiva333/building-grahiq-ai-turning-raw-data-into-infographics-with-ai-5al1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
