@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A story on Frontend Architectures - SPA meets the enterprise &lpar;Part-2&rpar;](https://dev.to/purnez/a-story-on-frontend-architectures-spa-meets-the-enterprise-part-2-1kj6)
-- [Swift #18: Rangos](https://dev.to/david_goyes_a488f58a17a53/swift-18-rangos-5g8a)
-- [Getting Started with PixiJS v8: Quick Start Guide](https://dev.to/itxtoledo/getting-started-with-pixijs-v8-quick-start-guide-26fm)
-- [A story on Frontend Architectures - SPA meets the enterprise &lpar;Part-1&rpar;](https://dev.to/purnez/a-story-on-frontend-architectures-spa-meets-the-enterprise-part-1-2e6n)
-- [Can Go Really Replace Rust? A Look at Their Deeper “Physical” Divide](https://dev.to/james_miller_8dc58a89cb9e/can-go-really-replace-rust-a-look-at-their-deeper-physical-divide-4g80)
+- [GitHub Copilot just crushed every AI review startup &lpar;40.3M PR analysis&rpar;](https://dev.to/zak_mandhro/github-copilot-crushed-every-code-review-startup-40m-pr-analysis-2no6)
+- [Your Ego Is The Real AI Bottleneck](https://dev.to/ejb503/your-ego-is-the-real-ai-bottleneck-2eb8)
+- [Using Custom Timestamp Columns in Laravel Eloquent](https://dev.to/mmramadan496/using-custom-timestamp-columns-in-laravel-eloquent-2b26)
+- [The Duck That Talks Back](https://dev.to/junothreadborne/the-duck-that-talks-back-3c4d)
+- [🍋 LemonLoader — Real-World Android Mod Loader for Unity Games](https://dev.to/millerdean/lemonloader-real-world-android-mod-loader-for-unity-games-3n16)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
