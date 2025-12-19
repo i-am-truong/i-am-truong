@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Atlas Search score details &lpar;the BM25 calculation&rpar;](https://dev.to/franckpachot/atlas-search-score-details-the-bm25-calculation-2g55)
+- [AI Made Me 10x Faster—Here&#39;s What I Had to Change](https://dev.to/imaginex/ai-made-me-10x-faster-heres-what-i-had-to-change-3j91)
+- [Zombie State in Pinia: A Silent Bug You Might Already Have](https://dev.to/hichembenchaabene/zombie-state-in-pinia-a-silent-bug-you-might-already-have-2acm)
+- [Understanding Dart Class Modifiers by Using Lattices](https://dev.to/modulovalue/understanding-dart-class-modifiers-by-using-lattices-3cl3)
 - [Flutter: Armazenamento de dados](https://dev.to/wps13/flutter-armazenamento-de-dados-a91)
-- [NAT Gateways Killing Your Container Costs? Amazon ECR VPC endpoints to the Rescue](https://dev.to/hstiwana/nat-gateways-killing-your-container-costs-amazon-ecr-vpc-endpoints-to-the-rescue-21k5)
-- [A Simple Overview of Passwords, 2FA, and Passkeys &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/a-simple-overview-of-passwords-2fa-and-passkeys-bite-size-article-1nhf)
-- [Kicking Off 2026: Expert Analysis &amp; World Cup Predictions](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-world-cup-predictions-1e0h)
-- [Human-Aligned Decision Transformers for deep-sea exploration habitat design for extreme data sparsity scenarios](https://dev.to/rikinptl/human-aligned-decision-transformers-for-deep-sea-exploration-habitat-design-for-extreme-data-4fln)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
