@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Great Terminal Prompt Revolution: Why I Replaced Years of Config With a Single Character](https://dev.to/eto303/the-great-terminal-prompt-revolution-why-i-replaced-years-of-config-with-a-single-character-2kbp)
-- [The Struggle Paradox](https://dev.to/rawveg/the-struggle-paradox-5968)
-- [How to Add Extended Fields to Entities Without Modifying Tables](https://dev.to/canonical/how-to-add-extended-fields-to-entities-without-modifying-tables-5k)
-- [Collecting Real Tourism Listings and Prices at Scale: A Developer’s Guide to Geo-Accurate Data Aggregation](https://dev.to/anna_6c67c00f5c3f53660978/collecting-real-tourism-listings-and-prices-at-scale-a-developers-guide-to-geo-accurate-data-1icl)
-- [Simple Steps to Deploy Smart Contract](https://dev.to/janithdisanayake/simple-steps-to-deploy-smart-contract-30dd)
+- [Release everything with JReleaser](https://dev.to/onepoint/release-everything-with-jreleaser-5a97)
+- [Full-Time Degree vs Short-Term Certification Courses](https://dev.to/tech_space/degree-vs-certification-courses-o2)
+- [**8 Python Database Optimization Techniques to 10x Your Application Performance**](https://dev.to/nithinbharathwaj/8-python-database-optimization-techniques-to-10x-your-application-performance-8bf)
+- [Building Elbow Arrows in Excalidraw &lpar;Part 2&rpar;](https://dev.to/marktolmacs/building-elbow-arrows-in-excalidraw-part-2-4190)
+- [Day 12: Pipelines and Lost Connections](https://dev.to/casperday11/day-12-pipelines-and-lost-connections-1a7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
