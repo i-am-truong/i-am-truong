@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Security news weekly round-up - 19th December 2025](https://dev.to/ziizium/security-news-weekly-round-up-19th-december-2025-31hd)
+- [Day 28 of improving my Data Science skills](https://dev.to/sp_the_data_specialist/day-28-of-improving-my-data-science-skills-15dg)
+- [Generating Sequences With Recurrent Neural Networks](https://dev.to/paperium/generating-sequences-with-recurrent-neural-networks-4j0d)
+- [Building Bulletproof AI Apps: Multi-Provider Failover with Bifrost](https://dev.to/debmckinney/building-bulletproof-ai-apps-multi-provider-failover-with-bifrost-3p6j)
 - [Lessons from 500+ GitHub Migrations](https://dev.to/htekdev/lessons-from-500-github-migrations-4fjd)
-- [How to Practice LeetCode Without Memorizing Solutions](https://dev.to/alex_hunter_44f4c9ed6671e/how-to-practice-leetcode-without-memorizing-solutions-39mi)
-- [Cutting LLM Expenses and Response Times by 70% Through Bifrost&#39;s Semantic Caching](https://dev.to/debmckinney/cutting-llm-expenses-and-response-times-by-70-through-bifrosts-semantic-caching-d02)
-- [The HotfixHero code Manifesto: Seven Rules to Live By](https://dev.to/hotfixhero/the-hotfixhero-code-manifesto-seven-rules-to-live-by-38a)
-- [The Agent Config Wars: Why Your AI Agent Documentation Is Already Obsolete 🤯](https://dev.to/satinathnit/the-agent-config-wars-why-your-ai-agent-documentation-is-already-obsolete-4d6i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
