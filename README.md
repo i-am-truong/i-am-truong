@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Expo Framework Essentials: My Modern Guide for Building Universal React Native Apps](https://dev.to/luisabecker/expo-framework-essentials-my-modern-guide-for-building-universal-react-native-apps-200n)
-- [Dec 19, 2025 | The Tongyi Weekly: Your weekly dose of cutting-edge AI from Tongyi Lab](https://dev.to/alibaba_tongyi_lab_25ad9f/dec-19-2025-the-tongyi-weekly-your-weekly-dose-of-cutting-edge-ai-from-tongyi-lab-51o3)
-- [Small Business Inventory App](https://dev.to/vjygour/small-business-inventory-app-3a9p)
-- [I Didn’t Build a Chatbot — I Built an AI That Runs the System](https://dev.to/ashish_ghadigaonkar_/i-didnt-build-a-chatbot-i-built-an-ai-that-runs-the-system-1a1g)
-- [AI Data Storage: Challenges, Capabilities, and Comparative Analysis](https://dev.to/daswu/ai-data-storage-challenges-capabilities-and-comparative-analysis-46n3)
+- [Top AI Tools for Productivity in 2025](https://dev.to/_fde76ff2d01974642930b/top-ai-tools-for-productivity-in-2025-356e)
+- [A Simple Tool for Video Conversion and Compression](https://dev.to/curry_lau_9674447236abfc0/a-simple-tool-for-video-conversion-and-compression-4gij)
+- [How to Build a White Label Travel Portal: A Developer&#39;s Guide](https://dev.to/dhiraj_kumar_163e7e663e6e/how-to-build-a-white-label-travel-portal-a-developers-guide-48ig)
+- [What It Takes to Build FinTech Apps That Survive Real User Growth](https://dev.to/mary_andree/what-it-takes-to-build-fintech-apps-that-survive-real-user-growth-2o3)
+- [5 Terminal Commands That Saved Me Hours of Clicking](https://dev.to/maame-codes/5-terminal-commands-that-saved-me-hours-of-clicking-4mfn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
