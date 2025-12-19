@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Shipping JSON over the wire is professional negligence](https://dev.to/peteralexbizjak/shipping-json-over-the-wire-is-professional-negligence-4ehj)
+- [How Does a Fingerprint Turn Into a Secure Digital Identity?](https://dev.to/pratha_maniar/how-does-a-fingerprint-turn-into-a-secure-digital-identity-3p3i)
+- [Mastering HTTP Clients in Go: Your Guide to the `net/http` Package](https://dev.to/jones_charles_ad50858dbc0/mastering-http-clients-in-go-your-guide-to-the-nethttp-package-2d8b)
 - [AWS Secrets Manager: How to Set Up Secrets and Fetch Them in a Python Lambda](https://dev.to/aman_kumar_6d5d23b9b1ed02/aws-secrets-manager-how-to-set-up-secrets-and-fetch-them-in-a-python-lambda-3jp8)
 - [Building a Safe AI Database Assistant with Azure OpenAI, LangChain &amp; Function Calling](https://dev.to/khushi_singla/building-a-safe-ai-database-assistant-with-azure-openai-langchain-function-calling-2fag)
-- [How Investors Can Benefit From Real Estate Asset Fractionalization](https://dev.to/suzie_iris_65ce8070067366/how-investors-can-benefit-from-real-estate-asset-fractionalization-4pbd)
-- [Why AI Certs™ Prompt Engineer Level 1 Is Becoming the Most In-Demand Skill of 2025](https://dev.to/kunal_vashishth_6599ab059/why-ai-certs-prompt-engineer-level-1-is-becoming-the-most-in-demand-skill-of-2025-4g7f)
-- [Horizontal Navigation Bar Guide 2025: Design, Code &amp; Best Practices](https://dev.to/satyam_gupta_0d1ff2152dcc/horizontal-navigation-bar-guide-2025-design-code-best-practices-592p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
