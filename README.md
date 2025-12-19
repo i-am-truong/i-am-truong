@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Batch Jobs Suck — And How SPL Cuts Runtime from Hours to Seconds](https://dev.to/esproc_spl/why-batch-jobs-suck-and-how-spl-cuts-runtime-from-hours-to-seconds-m82)
-- [We built a runtime for background AI agents](https://dev.to/makhlevich/we-built-a-runtime-for-background-ai-agents-55d3)
-- [Next.js at the Speed of Bun: Why the Runtime is Your New Performance Bottleneck](https://dev.to/chaudharidevam/nextjs-at-the-speed-of-bun-why-the-runtime-is-your-new-performance-bottleneck-24a3)
-- [Supabase preview environments with Autodock](https://dev.to/mikesol/supabase-preview-environments-with-autodock-1f0l)
-- [Getting Started with Ansible: A Beginner’s Guide](https://dev.to/anushree_gm/getting-started-with-ansible-a-beginners-guide-3deh)
+- [AI Data Storage: Challenges, Capabilities, and Comparative Analysis](https://dev.to/daswu/ai-data-storage-challenges-capabilities-and-comparative-analysis-46n3)
+- [Best Free Cloud Diagram Generators for Effortless Visual Planning in 2026](https://dev.to/lisaellington/best-free-cloud-diagram-generators-for-effortless-visual-planning-in-2026-3d26)
+- [AWS Service Integration Strategy at eDgeWrapper - A Technical Deep Dive](https://dev.to/member_810218ad/aws-service-integration-strategy-at-edgewrapper-a-technical-deep-dive-337n)
+- [Top 7 B2B Data Providers in 2026: A Practical Comparison Guide](https://dev.to/luisgustvo/top-7-b2b-data-providers-in-2026-a-practical-comparison-guide-1o29)
+- [Stop Writing Comments: Why Senior Devs Hate &quot;Stale Lies&quot;](https://dev.to/doogal/stop-writing-comments-why-senior-devs-hate-stale-lies-dpi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
