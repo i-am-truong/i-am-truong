@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Capability-Based Architecture: A Practical Guide to Portability, Isolation, and AI-Readiness](https://dev.to/gdblogger/capability-based-architecture-a-practical-guide-to-portability-isolation-and-ai-readiness-2g4h)
+- [🚀 Elevating Your Python Workflow: A Deep Dive into PackageMaker &lpar;IPM&rpar; v3.2.5](https://dev.to/jesusquijada34/elevating-your-python-workflow-a-deep-dive-into-packagemaker-ipm-v325-4nhf)
+- [The Ping Engine Part 2: Advanced Patterns &amp; Real-World Examples](https://dev.to/peacebinflow/the-ping-engine-part-2-advanced-patterns-real-world-examples-4f53)
+- [Securing Real-Time Pipelines: Auth, CORS, and DoS Protection](https://dev.to/deepak_mishra_35863517037/securing-real-time-pipelines-auth-cors-and-dos-protection-2b2i)
 - [Atlas Search score details &lpar;the BM25 calculation&rpar;](https://dev.to/franckpachot/atlas-search-score-details-the-bm25-calculation-2g55)
-- [AI Made Me 10x Faster—Here&#39;s What I Had to Change](https://dev.to/imaginex/ai-made-me-10x-faster-heres-what-i-had-to-change-3j91)
-- [Zombie State in Pinia: A Silent Bug You Might Already Have](https://dev.to/hichembenchaabene/zombie-state-in-pinia-a-silent-bug-you-might-already-have-2acm)
-- [Understanding Dart Class Modifiers by Using Lattices](https://dev.to/modulovalue/understanding-dart-class-modifiers-by-using-lattices-3cl3)
-- [Flutter: Armazenamento de dados](https://dev.to/wps13/flutter-armazenamento-de-dados-a91)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
