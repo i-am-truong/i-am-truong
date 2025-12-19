@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Fabric no Ignite 2025: dados como vantagem competitiva, arquitetura como acelerador](https://dev.to/angelo_matias/microsoft-fabric-no-ignite-2025-dados-como-vantagem-competitiva-arquitetura-como-acelerador-55on)
-- [What is OCR Pre-fill?](https://dev.to/viktorle1294/what-is-ocr-pre-fill-4h0f)
-- [Managing Mini-Page Memory: The Buffer Pool Behind Bf-Tree](https://dev.to/lovestaco/managing-mini-page-memory-the-buffer-pool-behind-bf-tree-12g6)
-- [Ringer Movies: ‘Avatar: Fire and Ash’ Burns Bright Before Flaming Out. Plus: Best Picture Power Rankings](https://dev.to/popcorn_movies/ringer-movies-avatar-fire-and-ash-burns-bright-before-flaming-out-plus-best-picture-power-18ch)
-- [AI-Driven SPFx 1.22 Upgrade: A Reproducible Process Flow](https://dev.to/stfbauer/ai-driven-spfx-122-upgrade-a-reproducible-process-flow-4m7)
+- [🧰 I Built LLMKit: A Complete Toolkit for Testing LLM APIs](https://dev.to/chieund/i-built-llmkit-a-complete-toolkit-for-testing-llm-apis-50eb)
+- [When Announcements Replace Innovation: OpenAI’s Code Red 🚨](https://dev.to/razoorka/when-announcements-replace-innovation-openais-code-red-3ak9)
+- [Buy More Ramen, Devs! Because for Years Ahead, AI Slop ATS Will Kick Our Godly Resumes Hard in the Pants](https://dev.to/ryo_suwito/buy-more-ramen-devs-because-for-years-ahead-ai-slop-ats-will-kick-our-godly-resumes-hard-in-the-575i)
+- [Top 10 Frameworks for Hybrid Mobile Apps in 2026](https://dev.to/ronika_kashyap/top-10-frameworks-for-hybrid-mobile-apps-in-2026-4dna)
+- [Day 2/30](https://dev.to/smolmin_/day-230-9p8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
