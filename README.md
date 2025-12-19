@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [c4cats.org](https://dev.to/kim_goings_12ff9d95b5b98c/c4catsorg-46fi)
-- [Developers vs AI: A Holiday Reflection — What Kind of Developer Do You Want to Be?](https://dev.to/marxon/developers-vs-ai-a-holiday-reflection-what-kind-of-developer-do-you-want-to-be-j1)
-- [Using AWS Outbound Identity Federation for Azure Resources](https://dev.to/aws-builders/using-aws-outbound-identity-federation-for-azure-resources-2d7c)
-- [# 🔐 Login Backend with Express, AWS Lambda and Dynamo DB](https://dev.to/puffer_dev_0fea768fa0b4f6/-login-dynamodb-59fe)
-- [Run local LLMs in under 5 minutes using Nanocl](https://dev.to/0xle0ne/run-local-llms-in-under-5-minutes-using-nanocl-4pf2)
+- [Microsoft Fabric no Ignite 2025: dados como vantagem competitiva, arquitetura como acelerador](https://dev.to/angelo_matias/microsoft-fabric-no-ignite-2025-dados-como-vantagem-competitiva-arquitetura-como-acelerador-55on)
+- [What is OCR Pre-fill?](https://dev.to/viktorle1294/what-is-ocr-pre-fill-4h0f)
+- [Managing Mini-Page Memory: The Buffer Pool Behind Bf-Tree](https://dev.to/lovestaco/managing-mini-page-memory-the-buffer-pool-behind-bf-tree-12g6)
+- [Ringer Movies: ‘Avatar: Fire and Ash’ Burns Bright Before Flaming Out. Plus: Best Picture Power Rankings](https://dev.to/popcorn_movies/ringer-movies-avatar-fire-and-ash-burns-bright-before-flaming-out-plus-best-picture-power-18ch)
+- [AI-Driven SPFx 1.22 Upgrade: A Reproducible Process Flow](https://dev.to/stfbauer/ai-driven-spfx-122-upgrade-a-reproducible-process-flow-4m7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
