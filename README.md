@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Write in Markdown but Deliver in Word. A Senior Architect&#39;s Workflow.](https://dev.to/jmontagne/how-to-write-in-markdown-but-deliver-in-word-a-senior-architects-workflow-59ep)
-- [Professional Testing Experience in Golang](https://dev.to/vickodev/professional-testing-experience-in-golang-4en0)
-- [Experiencia profesional de testing en Golang](https://dev.to/vickodev/experiencia-profesional-de-testing-en-golang-9en)
-- [KubeVirt to run VMs in your K8s cluster](https://dev.to/sergioarmgpl/kubevirt-to-run-vms-in-your-k8s-cluster-4jh4)
-- [How to stop OpenAI API credit draining using Client-Side Proof of Work &lpar;Node + React&rpar;](https://dev.to/ronald_oloo_d67211d1e6e60/how-to-stop-openai-api-credit-draining-using-client-side-proof-of-work-node-react-5e6g)
+- [Synthetic Data Is Not About Replacing Reality. It Is About Questioning It.](https://dev.to/intelgreatnez/synthetic-data-is-not-about-replacing-reality-it-is-about-questioning-it-4m2p)
+- [The Object⏩to⏩Stream mindset shift](https://dev.to/dariomannu/the-objecttostream-mindset-shift-3eao)
+- [Automated Cloud Migrations with Kiro and the Arm MCP Server](https://dev.to/aws-builders/automated-cloud-migrations-with-kiro-and-the-arm-mcp-server-m72)
+- [Institutional Linkages Between Government Institutions and Traditional Leadership in Maroodi Jeex Region, Somaliland](https://dev.to/mft_journal_553c27e287583/institutional-linkages-between-government-institutions-and-traditional-leadership-in-maroodi-jeex-p4m)
+- [Securing AI Agents in the Vercel AI SDK](https://dev.to/ofri-peretz/securing-ai-agents-in-the-vercel-ai-sdk-485n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
