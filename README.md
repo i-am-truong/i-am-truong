@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Experimenting with Javelit - The Streamlit for Java](https://dev.to/bsorrentino/experimenting-with-javelit-the-streamlit-for-java-bll)
+- [coloring pages 2025](https://dev.to/munteha_seo_03079e11968a1/coloring-pages-2025-3gpb)
 - [How I built a Serverless PDF Editor with Vanilla JS &lpar;and $0 cloud bills&rpar;](https://dev.to/remolinator/how-i-built-a-serverless-pdf-editor-with-vanilla-js-and-0-cloud-bills-554b)
-- [Dados Abertos de Cidades Brasileiras em JSON - DDDs, Bairros, Estados](https://dev.to/andrey_andrade_7a534cfc95/dados-abertos-de-cidades-brasileiras-em-json-ddds-bairros-estados-37im)
-- [Le pouvoir de Babylon js](https://dev.to/florentin_lurot_1a228aa53/le-pouvoir-de-babylon-js-1a4a)
-- [I built LoveToRead.ai – Create personalized children&#39;s books with AI](https://dev.to/maxwell_ai/i-built-lovetoreadai-create-personalized-childrens-books-with-ai-5a5h)
-- [Building My Own Tools &amp; Systems – Feedback Welcome](https://dev.to/rijan_koirala_7771fdb37aa/building-my-own-tools-systems-feedback-welcome-4k4n)
+- [Building a Cloud-Native SaaS Backend on GCP](https://dev.to/malkomich/building-a-cloud-native-saas-backend-on-gcp-4m16)
+- [Building the Foundation: A Comprehensive Guide to Recursion &lpar;The Function That Calls Itself&rpar;](https://dev.to/dositadi/building-the-foundation-a-comprehensive-guide-to-recursion-the-function-that-calls-itself-2jm8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
