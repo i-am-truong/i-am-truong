@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Practical Windows Terminal Setup with Git Bash and Automatic Pane Layout](https://dev.to/tuner9696_len/a-practical-windows-terminal-setup-with-git-bash-and-automatic-pane-layout-3oii)
-- [AI-Native GUI SDK: Designed for AI Control, Not Manual Restrictions](https://dev.to/hejhdiss/ai-native-gui-sdk-designed-for-ai-control-not-manual-restrictions-461n)
-- [PrestaShop Enterprise vs Shopify Plus](https://dev.to/ndabene/prestashop-enterprise-vs-shopify-plus-157k)
-- [Built a tool to generate beautiful Prompt Cards over the weekend, no login required](https://dev.to/zley_34b5414ca5e486c1c333/built-a-tool-to-generate-beautiful-prompt-cards-over-the-weekend-no-login-required-4ope)
-- [Node.js Is Slow? Only If You Don’t Know This 🚀](https://dev.to/rohit_singh_ee84e64941db7/nodejs-is-slow-only-if-you-dont-know-this-dnf)
+- [I built a SaaS to solve my own problem — now I’m unsure whether to scale it or move on](https://dev.to/rushikesh_bodakhe_db28644/i-built-a-saas-to-solve-my-own-problem-now-im-unsure-whether-to-scale-it-or-move-on-391j)
+- [How I Built an MCP App to Roast My GitHub Year in Review](https://dev.to/blackgirlbytes/how-i-built-an-mcp-app-to-roast-my-github-year-in-review-28gh)
+- [Tiramisu 3.0: From Response Generation to Decision Governance](https://dev.to/tiramisuframework/tiramisu-30-from-response-generation-to-decision-governance-2goo)
+- [Google Cloud Platform &lpar;GCP&rpar; Explained | The Engineer’s Cloud ☁️](https://dev.to/kaustubhyerkade/google-cloud-platform-gcp-explained-the-engineers-cloud-1j6)
+- [Unleash Your Code: The Magic of AgenticAI](https://dev.to/hkj13/unleash-your-code-the-magic-of-agenticai-4300)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
