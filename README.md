@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [LynkBin: AI-Powered Bookmark Manager](https://dev.to/yash007_95/lynkbin-ai-powered-bookmark-manager-blc)
-- [Lo viejo funciona, Juan! A monolithic is enough, almost ever.](https://dev.to/cocodelacueva/lo-viejo-funciona-juan-a-monolithic-is-enough-almost-ever-4hl0)
-- [testagram](https://dev.to/nahashonnyaga23_87c0cd73e/testagram-432p)
-- [Performance Tuning: Linux Kernel Optimizations for 10k+ Connections](https://dev.to/deepak_mishra_35863517037/performance-tuning-linux-kernel-optimizations-for-10k-connections-lnj)
-- [Dominando JOINs, Subqueries e Técnicas de Consulta](https://dev.to/ikauedev/dominando-joins-subqueries-e-tecnicas-de-consulta-2pco)
+- [Agent Flows At Scale with Google’s ADK for TypeScript](https://dev.to/gioboa/agent-flows-at-scale-with-googles-adk-for-typescript-b8k)
+- [Building Your First Marketing Attribution Model Without Breaking Your Budget &lpar;Or Your Brain&rpar;](https://dev.to/synergistdigitalmedia/building-your-first-marketing-attribution-model-without-breaking-your-budget-or-your-brain-19lb)
+- [Building a Fully Interactive LEGO® Website Concept with Image-Based HTML Elements](https://dev.to/laszlobarath/building-a-fully-interactive-legor-website-concept-with-image-based-html-elements-10fc)
+- [Why Women Should Learn Digital Skills: A Developer’s Perspective Introduction](https://dev.to/careerbytecode/why-women-should-learn-digital-skills-a-developers-perspectiveintroduction-45o5)
+- [When AI Productivity Breaks Down in Real Systems](https://dev.to/kavita_kavia/when-ai-productivity-breaks-down-in-real-systems-7bp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
