@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Backend-Driven Localization in Flutter: A Production-Ready Implementation Guide](https://dev.to/anurag_dev/backend-driven-localization-in-flutter-a-production-ready-implementation-guide-2oh2)
+- [Designing a Zero-Trust Personal Information Manager with Client-Side Encryption](https://dev.to/pranav_kishan_f81e2fc8327/designing-a-zero-trust-personal-information-manager-with-client-side-encryption-4pb5)
+- [-&gt;&gt; Day-11 AWS Terraform Functions - Part 1](https://dev.to/amit_kumar_7db8e36a64dd45/-day-11-aws-terraform-functions-part-1-kih)
+- [Observability-Driven Kubernetes: A Practical EKS Demo](https://dev.to/aws-builders/observability-driven-kubernetes-a-practical-eks-demo-5gjp)
 - [The Missing Step in RAG: Why Your Vector DB is Bloated &lpar;and how to fix it locally&rpar;](https://dev.to/damiansiuta/the-missing-step-in-rag-why-your-vector-db-is-bloated-and-how-to-fix-it-locally-2fjg)
-- [𝗩𝗼𝗶𝗰𝗲 𝗔𝗜: 𝗗𝗶𝗮𝗹𝗼𝗴 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 - 𝗧𝗵𝗲 𝗢𝗿𝗰𝗵𝗲𝘀𝘁𝗿𝗮𝘁𝗼𝗿](https://dev.to/wanjohichristopher/--5bjc)
-- [Day 77 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-77-of-100-days-dsa-coding-challenge-1g3b)
-- [Dave - Debt Tracking CLI](https://dev.to/tryonlinux/dave-debt-tracking-cli-1i74)
-- [Introducing amqp-contract - Type-Safe RabbitMQ/AMQP Messaging for TypeScript](https://dev.to/btravers/introducing-amqp-contract-type-safe-rabbitmqamqp-messaging-for-typescript-48bh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
