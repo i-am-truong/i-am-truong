@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Synthetic Data Is Not About Replacing Reality. It Is About Questioning It.](https://dev.to/intelgreatnez/synthetic-data-is-not-about-replacing-reality-it-is-about-questioning-it-4m2p)
-- [The Object⏩to⏩Stream mindset shift](https://dev.to/dariomannu/the-objecttostream-mindset-shift-3eao)
-- [Automated Cloud Migrations with Kiro and the Arm MCP Server](https://dev.to/aws-builders/automated-cloud-migrations-with-kiro-and-the-arm-mcp-server-m72)
-- [Institutional Linkages Between Government Institutions and Traditional Leadership in Maroodi Jeex Region, Somaliland](https://dev.to/mft_journal_553c27e287583/institutional-linkages-between-government-institutions-and-traditional-leadership-in-maroodi-jeex-p4m)
-- [Securing AI Agents in the Vercel AI SDK](https://dev.to/ofri-peretz/securing-ai-agents-in-the-vercel-ai-sdk-485n)
+- [Preparing for GCP Security Certification? Here&#39;s What Actually Worked for Me](https://dev.to/ankurlibra/preparing-for-gcp-security-certification-heres-what-actually-worked-for-me-2pmc)
+- [Day 1 of building ScrapeForge in public](https://dev.to/vishwas-batra/day-1-of-building-scrapeforge-in-public-3bf2)
+- [AWS Bedrock AgentCore Hands-On Workshop: A Recap](https://dev.to/soniv/aws-bedrock-agentcore-hands-on-workshop-a-recap-3pap)
+- [Artificial Intelligence &lpar;AI&rpar;: From Data to Decision-Making Systems](https://dev.to/ravirscott/artificial-intelligence-ai-from-data-to-decision-making-systems-3ji8)
+- [[Boost]](https://dev.to/safwa1_dev/-1hd8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
