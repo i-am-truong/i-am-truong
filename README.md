@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Managing GitHub Copilot CLI MCP Server Configuration in Your Repository](https://dev.to/mikoshiba-kyu/managing-github-copilot-cli-mcp-server-configuration-in-your-repository-58i6)
-- [How I Built DisasterWatch: A Real-Time Earthquake Monitoring System](https://dev.to/dinraeus/how-i-built-disasterwatch-a-real-time-earthquake-monitoring-system-5eg5)
-- [UI UX for Developers: A Practical Guide](https://dev.to/pixel_mosaic/ui-ux-for-developers-a-practical-guide-2cfl)
-- [Automate Company Intelligence: Scrape Tech Stacks &amp; Hiring Signals in Seconds &lpar;A tutorial&rpar;](https://dev.to/kain/automate-company-intelligence-scrape-tech-stacks-hiring-signals-in-seconds-a-tutorial-kcl)
-- [Antiquora](https://dev.to/aditya_rajsingh_53f8ceca/antiquora-1mpc)
+- [DEV Track Spotlight: Building Agentic AI - Amazon Nova Act and Strands Agents in Practice &lpar;DEV327&rpar;](https://dev.to/aws/dev-track-spotlight-building-agentic-ai-amazon-nova-act-and-strands-agents-in-practice-dev327-3hbj)
+- [What Is the Impact of Quota and Spike Arrest on Latency in Apigee X?](https://dev.to/realnamehidden1_61/what-is-the-impact-of-quota-and-spike-arrest-on-latency-in-apigee-x-d08)
+- [Observability in Local Development with OpenTelemetry, OTLP, and Aspire Dashboard](https://dev.to/victormai/observability-in-local-development-with-opentelemetry-otlp-and-aspire-dashboard-2p5l)
+- [Go From Zero to Depth — Part 6: The Goroutine Scheduler &lpar;The Part Nobody Tells Beginners&rpar;](https://dev.to/devflex-pro/go-from-zero-to-depth-part-6-the-goroutine-scheduler-the-part-nobody-tells-beginners-5f7i)
+- [Day 20 — Incident Response &lpar;The Ambush&rpar;](https://dev.to/aerabi/day-20-incident-response-the-ambush-6a5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
