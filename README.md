@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Premium New Year 2026 Celebration Site 🎉](https://dev.to/srijan-xi/building-a-premium-new-year-2026-celebration-site-1bpj)
+- [What Exactly Is the “Bazel Ecosystem”?](https://dev.to/sushilbaligar/what-exactly-is-the-bazel-ecosystem-5g79)
 - [I Think I Just Built the Perfect Landing Page &lpar;for my Software Studio&rpar;](https://dev.to/tejasbaid/i-think-i-just-built-the-perfect-landing-page-for-my-software-studio-48hn)
 - [Zero-Click SEO: How to Win When Google Keeps Your Traffic](https://dev.to/synergistdigitalmedia/zero-click-seo-how-to-win-when-google-keeps-your-traffic-14lm)
 - [game.html](https://dev.to/gghggjgg_bhjhi_1e6ffbb2e0/gamehtml-28gh)
-- [Top 4 AI Document Generators for Developer Docs &lpar;2026&rpar;](https://dev.to/infrasity-learning/top-4-ai-document-generators-for-developer-docs-2026-26mi)
-- [The mental checklist I use when troubleshooting Linux servers](https://dev.to/navickas/the-mental-checklist-i-use-when-troubleshooting-linux-servers-2g5d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
