@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Feature Comparison : Nop Platform vs. SpringCloud](https://dev.to/canonical/feature-comparison-nop-platform-vs-springcloud-3a8f)
-- [Windows Registry Internals — A Beginner-Friendly Deep Dive](https://dev.to/itsmegsg/windows-registry-internals-a-beginner-friendly-deep-dive-36pk)
-- [Automating DevRel: How I Use Gemini CLI and Gemini 3 to Catch Bugs in My Blog Posts](https://dev.to/railsstudent/automating-devrel-how-i-use-gemini-cli-and-gemini-3-to-catch-bugs-in-my-blog-posts-3koo)
-- [The Robot Revolution](https://dev.to/rawveg/the-robot-revolution-39lf)
-- [Bayan Flow 0.2.0: finishing the foundations &lpar;i18n, RTL, tests, and small UX wins&rpar;](https://dev.to/ayoub3bidi/bayan-flow-020-finishing-the-foundations-i18n-rtl-tests-and-small-ux-wins-4lb7)
+- [Linux Foundations for DevOps – Epic](https://dev.to/chetan_tekam_3500/linux-foundations-for-devops-epic-45gk)
+- [Going Beyond Static Hosting: Deploying a Node.js Contact Form API on AWS EC2](https://dev.to/naomi_ansah_d792faf7a1276/going-beyond-static-hosting-deploying-a-nodejs-contact-form-api-on-aws-ec2-2ofd)
+- [External Sharing Is Not a Feature | It’s a Risk Decision™ | RAHSI™ Collaboration Risk Posture &lpar;RCRP™&rpar;](https://dev.to/aakash_rahsi_8d28156d5f2c/external-sharing-is-not-a-feature-its-a-risk-decision-rahsi-collaboration-risk-posture-ab1)
+- [In Defense of the Triplet Loss for Person Re-Identification](https://dev.to/paperium/in-defense-of-the-triplet-loss-for-person-re-identification-19l)
+- [Lego City: How to Build Anything Without It Falling Over](https://dev.to/yashvikothari/lego-city-how-to-build-anything-without-it-falling-over-4c01)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
