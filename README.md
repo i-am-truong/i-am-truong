@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Logistic Regression, But Make It Tea: ML Basics Served Hot](https://dev.to/codeneuron/logistic-regression-but-make-it-tea-ml-basics-served-hot-13h)
+- [“Just an MVP” Wasn’t Enough: Why I Built Waitle](https://dev.to/aykutonen/just-an-mvp-wasnt-enough-why-i-built-waitle-5a7)
 - [Predicting Tea Sales With ML: Linear Regression, Gradient Descent &amp; Regularization &lpar;Beginner Friendly + Code&rpar;](https://dev.to/codeneuron/predicting-tea-sales-with-ml-linear-regression-gradient-descent-regularization-beginner-433j)
 - [Is it me or is GPT 5.2 a little rude?](https://dev.to/mileswk/is-it-me-or-is-gpt-52-a-little-rude-p3f)
 - [[Boost]](https://dev.to/klip_klop/-49n1)
-- [Sleep Tight, Cluster Right: Stop Burning Cash at 3 AM](https://dev.to/klip_klop/sleep-tight-cluster-right-stop-burning-cash-at-3-am-3jpm)
-- [🍵 Linear Regression for Absolute Beginners With Tea — A Zero‑Knowledge Analogy](https://dev.to/codeneuron/linear-regression-for-absolute-beginners-with-tea-a-zero-knowledge-analogy-3jfn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
