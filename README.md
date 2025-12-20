@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built an experimental open-source tool to run Node.js and Python without Docker](https://dev.to/frosty_79b41a081559ee9eb2/i-built-an-experimental-open-source-tool-to-run-nodejs-and-python-without-docker-3i21)
-- [AgentCore Explained: AWS’s Serverless Runtime for Production-Grade AI Agents](https://dev.to/kishore_karumanchi_acbc18/agentcore-explained-awss-serverless-runtime-for-production-grade-ai-agents-4e04)
-- [2025 Complete Guide: Qwen-Image-Layered - Revolutionary AI Image Layer Decomposition Technology](https://dev.to/czmilo/2025-complete-guide-qwen-image-layered-revolutionary-ai-image-layer-decomposition-technology-4mm7)
-- [Permutations &amp; Next Permutation](https://dev.to/zeeshanali0704/permutations-next-permutation-25hg)
-- [Beyond the Stats: How I Built Textideo.com in 6 Months of Silence](https://dev.to/duke897/beyond-the-stats-how-i-built-textideocom-in-6-months-of-silence-1c52)
+- [Rockchip Update News: Latest Developments in Rockchip SoCs](https://dev.to/dongpei_liao_8092a14d7c50/rockchip-update-news-latest-developments-in-rockchip-socs-c24)
+- [I Built a Tool That Generates 160 Different Code Combinations from a Single Drag &amp; Drop — Here&#39;s How](https://dev.to/dgseo/i-built-a-tool-that-generates-160-different-code-combinations-from-a-single-drag-drop-heres-how-3kp0)
+- [Boost Developer Revenue with Monetzly&#39;s Conversational Ads](https://dev.to/monetzly/boost-developer-revenue-with-monetzlys-conversational-ads-1m85)
+- [I Built an MCP Server That Gives AI Agents Real-Time AWS Pricing Data](https://dev.to/constantquadruped/i-built-an-mcp-server-that-gives-ai-agents-real-time-aws-pricing-data-115d)
+- [AI News Roundup December 2025: OpenAI, Sam Altman, and What&#39;s Coming in 2026](https://dev.to/ethan_zhang_e501fea89c25b/ai-news-roundup-december-2025-openai-sam-altman-and-whats-coming-in-2026-54pf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
