@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Shallow Agents vs Deep Agents: How Deep Research Actually Works Inside GPT-Like Systems](https://dev.to/naresh_007/shallow-agents-vs-deep-agents-how-deep-research-actually-works-inside-gpt-like-systems-4n73)
+- [**Garantiza un cumplimiento normativo sostenible con la plat](https://dev.to/drcarlosruizviquez/garantiza-un-cumplimiento-normativo-sostenible-con-la-plat-2f62)
+- [Day 36 Of Documenting My Learning Journey](https://dev.to/james_kabuga/day-36-of-documenting-my-learning-journey-54ac)
+- [Exploring AWS Generative AI &amp; AI Services: A Practical Guide for Builders](https://dev.to/shubhamkcloud/exploring-aws-generative-ai-ai-services-a-practical-guide-for-builders-1mfm)
 - [Christmas thoughts: Why Senior Engineers hate &quot;cool&quot; new frameworks &lpar;and why you should too&rpar;.](https://dev.to/the_nortern_dev/christmas-thoughts-why-senior-engineers-hate-cool-new-frameworks-and-why-you-should-too-1a28)
-- [Ultimate React Hooks Guide](https://dev.to/tenelabs/ultimate-react-hooks-guide-15e1)
-- [**Beyond Red-Yellow-Green: The Rise of RAG Systems 2](https://dev.to/drcarlosruizviquez/beyond-red-yellow-green-the-rise-of-rag-systems-2-4non)
-- [I Completely Moved from AWS Lambda to Azure Functions Because of This One Feature](https://dev.to/pratikpathak/i-completely-moved-from-aws-lambda-to-azure-functions-because-of-this-one-feature-262b)
-- [Multi-Container Web Application with Nginx Reverse Proxy and Docker Compose](https://dev.to/bala_audu_musa/multi-container-web-application-with-nginx-reverse-proxy-and-docker-compose-db4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
