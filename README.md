@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Linux Foundations for DevOps – Epic](https://dev.to/chetan_tekam_3500/linux-foundations-for-devops-epic-45gk)
-- [Going Beyond Static Hosting: Deploying a Node.js Contact Form API on AWS EC2](https://dev.to/naomi_ansah_d792faf7a1276/going-beyond-static-hosting-deploying-a-nodejs-contact-form-api-on-aws-ec2-2ofd)
-- [External Sharing Is Not a Feature | It’s a Risk Decision™ | RAHSI™ Collaboration Risk Posture &lpar;RCRP™&rpar;](https://dev.to/aakash_rahsi_8d28156d5f2c/external-sharing-is-not-a-feature-its-a-risk-decision-rahsi-collaboration-risk-posture-ab1)
-- [In Defense of the Triplet Loss for Person Re-Identification](https://dev.to/paperium/in-defense-of-the-triplet-loss-for-person-re-identification-19l)
-- [Lego City: How to Build Anything Without It Falling Over](https://dev.to/yashvikothari/lego-city-how-to-build-anything-without-it-falling-over-4c01)
+- [Bulk Crap Uninstaller: Essential Tool for Clean Windows Environments](https://dev.to/stelixx-insider/bulk-crap-uninstaller-essential-tool-for-clean-windows-environments-3add)
+- [Firefox Not Responding: Complete Fix Guide &lpar;2025&rpar;](https://dev.to/bryan_collins_abcd0214d94/firefox-not-responding-complete-fix-guide-2025-2ao3)
+- [Crea tu propia Agencia de Marketing AI Local: Local, Privada y Open Source](https://dev.to/matias_palomino_3633381b8/crea-tu-propia-agencia-de-marketing-ai-local-local-privada-y-open-source-32an)
+- [How to get Location from Text in Apple Shortcuts](https://dev.to/leafchage/how-to-get-location-from-text-in-apple-shortcuts-2nbm)
+- [Vector AI Agent: The Desktop Automation Tool That Controls Real Browsers](https://dev.to/pay_perreel_ed6ea36719f4/vector-ai-agent-the-desktop-automation-tool-that-controls-real-browsers-58p1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
