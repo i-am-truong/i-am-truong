@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Bf-Tree Executes Reads and Writes Using Mini-Pages](https://dev.to/lovestaco/how-bf-tree-executes-reads-and-writes-using-mini-pages-22eg)
-- [I built a tool that converts plain text song lists &lpar;like from ChatGPT&rpar; into playable music links instantly.](https://dev.to/coder_smit/i-built-a-tool-that-converts-plain-text-song-lists-like-from-chatgpt-into-playable-music-links-222b)
-- [Reddit Ads in 2026: The Post-Algorithm Guide to Actually Making Money](https://dev.to/synergistdigitalmedia/reddit-ads-in-2026-the-post-algorithm-guide-to-actually-making-money-4178)
-- [Terraform Providers: Day2 — Explained Super Simply](https://dev.to/amitsinghs98/terraform-providers-day2-explained-super-simply-1nog)
-- [The Reality of GenAI in Software Teams](https://dev.to/bolt04/the-reality-of-genai-in-software-teams-59i8)
+- [Getting Started with Modern Web Development in 2026: A Practical Guide for Beginners](https://dev.to/panchalmukundak/getting-started-with-modern-web-development-in-2026-a-practical-guide-for-beginners-58c9)
+- [How to Set Up 4K IPTV](https://dev.to/4kiptvus/how-to-set-up-4k-iptv-h35)
+- [Day-11 Crontab Syntax, jq Magic, and the AWS DevOps](https://dev.to/jayanth_kumardasari_d34c/day-11-crontab-syntax-jq-magic-and-the-aws-devops-roadmap-tags-devops-aws-linux-beginners-2k5i)
+- [Tiiny.host vs Static.app: A Fair, Fact-Checked Comparison - And Why We Believe Tiiny.host Wins](https://dev.to/rfoot8/tiinyhost-vs-staticapp-a-fair-fact-checked-comparison-and-why-we-believe-tiinyhost-wins-4fci)
+- [I Built a Smart Accounting App Called AccountInn &lpar;And It Taught Me How Real Apps Are Built 📊🚀&rpar;](https://dev.to/halakabir234hub/i-built-a-smart-accounting-app-called-accountinn-and-it-taught-me-how-real-apps-are-built--484g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
