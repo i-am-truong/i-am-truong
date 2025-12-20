@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Discord community engagement for thriving Web3 communities](https://dev.to/wevolv3_c2aea5159adf3b85f/discord-community-engagement-for-thriving-web3-communities-3ljo)
+- [The Open Source Myth: Why &quot;Free&quot; Doesn&#39;t Always Mean Free](https://dev.to/clifford_otieno/the-open-source-myth-why-free-doesnt-always-mean-free-g8m)
 - [Agent Flows At Scale with Google’s ADK for TypeScript](https://dev.to/gioboa/agent-flows-at-scale-with-googles-adk-for-typescript-b8k)
 - [Building Your First Marketing Attribution Model Without Breaking Your Budget &lpar;Or Your Brain&rpar;](https://dev.to/synergistdigitalmedia/building-your-first-marketing-attribution-model-without-breaking-your-budget-or-your-brain-19lb)
 - [Building a Fully Interactive LEGO® Website Concept with Image-Based HTML Elements](https://dev.to/laszlobarath/building-a-fully-interactive-legor-website-concept-with-image-based-html-elements-10fc)
-- [Why Women Should Learn Digital Skills: A Developer’s Perspective Introduction](https://dev.to/careerbytecode/why-women-should-learn-digital-skills-a-developers-perspectiveintroduction-45o5)
-- [When AI Productivity Breaks Down in Real Systems](https://dev.to/kavita_kavia/when-ai-productivity-breaks-down-in-real-systems-7bp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
