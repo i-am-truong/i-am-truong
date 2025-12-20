@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building RedirectWise: A Practical Chrome Extension for Redirect Analysis](https://dev.to/gauravvyadav/building-redirectwise-a-practical-chrome-extension-for-redirect-analysis-4c38)
+- [Composition in React: Building like a Senior React Dev](https://dev.to/emann/compound-components-in-react-building-like-a-senior-react-dev-56dm)
 - [Effective Liquidity Management Strategies for Crypto Exchanges](https://dev.to/riley_quinn_8e58a0a96d107/effective-liquidity-management-strategies-for-crypto-exchanges-1phk)
 - [How to Use the Rules Feature in HttpTracer](https://dev.to/httptrace/how-to-use-the-rules-feature-in-httptracer-58f7)
 - [CVE-2025-9086 | Out of bounds read for cookie path](https://dev.to/aakash_rahsi_8d28156d5f2c/cve-2025-9086-out-of-bounds-read-for-cookie-path-3gbo)
-- [Docker for HPC &amp; GPU Workloads](https://dev.to/godofgeeks/docker-for-hpc-gpu-workloads-2c02)
-- [MV-VI Pattern: Domain-Centric Design for Frontend Applications](https://dev.to/psy082/mv-vi-pattern-domain-centric-design-for-frontend-applications-1j6a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
