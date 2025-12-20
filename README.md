@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Risk Assessment in Fake-News Detection Using Advanced NLP and Deep Learning](https://dev.to/martins_adegbaju/risk-assessment-in-fake-news-detection-using-advanced-nlp-and-deep-learning-2okn)
-- [Return of “One Tool, Many Brains: Building a Multi-Model DevOps Architect”](https://dev.to/aairom/return-of-one-tool-many-brains-building-a-multi-model-devops-architect-57pd)
-- [Why Backend Developers Love Go: 5 New Features Explained Simply](https://dev.to/alvisonhunter/why-backend-developers-love-go-5-new-features-explained-simply-3e5g)
-- [React Fragments Explained: How to Group Elements Without Extra DOM Nodes](https://dev.to/ahmad_mahboob/react-fragments-explained-how-to-group-elements-without-extra-dom-nodes-378a)
-- [How to Integrate Google Play In-App Purchases Using RevenueCat](https://dev.to/devmastermind/how-to-integrate-google-play-in-app-purchases-using-revenuecat-2jab)
+- [🍵 Machine Learning Explained with Tea — A Zero‑Knowledge Analogy](https://dev.to/codeneuron/machine-learning-explained-with-tea-a-zero-knowledge-analogy-3ikg)
+- [Why AI Code Generation Fails: The Communication Problem](https://dev.to/_jeongyuhyeon_03de1/why-ai-code-generation-fails-the-communication-problem-1ni1)
+- [Engineering Context for Local and Cloud AI: Personas, Content Intelligence, and Zero-Prompt UX](https://dev.to/ialijr/engineering-context-for-local-and-cloud-ai-personas-content-intelligence-and-zero-prompt-ux-10dn)
+- [Automate Spotify to YouTube Music Playlist Transfer with TypeScript](https://dev.to/krlz/automate-spotify-to-youtube-music-playlist-transfer-with-typescript-14c0)
+- [ILUGC December 2025 Meetup](https://dev.to/sasirekaarumugam/ilugc-december-2025-meetup-2fcc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
