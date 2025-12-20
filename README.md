@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Enterprise AI Agent Management: Governance, Security &amp; Control Guide &lpar;2026&rpar;](https://dev.to/composiodev/enterprise-ai-agent-management-governance-security-control-guide-2026-3f60)
+- [My Very First Blog Post](https://dev.to/leo_codes07/my-very-first-blog-post-d8n)
+- [Modern C# Development: Custom Exceptions Made Simple](https://dev.to/lovelacecoding/modern-c-development-custom-exceptions-made-simple-1ln8)
+- [SpecMD — What if Your Documentation Was Your Code?](https://dev.to/glauber_portella/specmd-what-if-your-documentation-was-your-code-oed)
 - [Experimenting with Javelit - The Streamlit for Java](https://dev.to/bsorrentino/experimenting-with-javelit-the-streamlit-for-java-bll)
-- [coloring pages 2025](https://dev.to/munteha_seo_03079e11968a1/coloring-pages-2025-3gpb)
-- [How I built a Serverless PDF Editor with Vanilla JS &lpar;and $0 cloud bills&rpar;](https://dev.to/remolinator/how-i-built-a-serverless-pdf-editor-with-vanilla-js-and-0-cloud-bills-554b)
-- [Building a Cloud-Native SaaS Backend on GCP](https://dev.to/malkomich/building-a-cloud-native-saas-backend-on-gcp-4m16)
-- [Building the Foundation: A Comprehensive Guide to Recursion &lpar;The Function That Calls Itself&rpar;](https://dev.to/dositadi/building-the-foundation-a-comprehensive-guide-to-recursion-the-function-that-calls-itself-2jm8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
