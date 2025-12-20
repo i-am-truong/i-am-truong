@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My Writeup &lpar;0day in Zsh &lpar;RCE&rpar;&rpar;](https://dev.to/pwn/my-writeup-0day-in-zsh-rce-2245)
 - [PDF Merger: Combine Multiple PDFs Instantly in Your Browser](https://dev.to/frontendtoolstech/pdf-merger-combine-multiple-pdfs-instantly-in-your-browser-4dn3)
 - [How a Single Client Request Turned Into My New Monetized WordPress Plugin](https://dev.to/affectionate_code/how-a-single-client-request-turned-into-my-new-monetized-wordpress-plugin-1eje)
 - [Improved Baselines with Momentum Contrastive Learning](https://dev.to/paperium/improved-baselines-with-momentum-contrastive-learning-4hk6)
 - [Dockerizing a React Task: A Hands-On DevOps Implementation](https://dev.to/hormogbolahan20/dockerizing-a-react-task-a-hands-on-devops-implementation-3kp7)
-- [[Boost]](https://dev.to/elizabethfuentes12/-3667)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
