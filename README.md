@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Production-Ready E-Commerce Platform with React: A Complete Walkthrough](https://dev.to/robsonmuniz16/building-a-production-ready-e-commerce-platform-with-react-a-complete-walkthrough-5d3b)
+- [Why I Built Stoqyy](https://dev.to/vjygour/why-i-built-stoqyy-516k)
+- [🛡️ AWS 109: The Ultimate Safety Net - Enabling EC2 Termination Protection](https://dev.to/hritikraj8804/aws-109-the-ultimate-safety-net-enabling-ec2-termination-protection-3op7)
 - [DEV Track Spotlight: Building Agentic AI - Amazon Nova Act and Strands Agents in Practice &lpar;DEV327&rpar;](https://dev.to/aws/dev-track-spotlight-building-agentic-ai-amazon-nova-act-and-strands-agents-in-practice-dev327-3hbj)
 - [What Is the Impact of Quota and Spike Arrest on Latency in Apigee X?](https://dev.to/realnamehidden1_61/what-is-the-impact-of-quota-and-spike-arrest-on-latency-in-apigee-x-d08)
-- [Observability in Local Development with OpenTelemetry, OTLP, and Aspire Dashboard](https://dev.to/victormai/observability-in-local-development-with-opentelemetry-otlp-and-aspire-dashboard-2p5l)
-- [Go From Zero to Depth — Part 6: The Goroutine Scheduler &lpar;The Part Nobody Tells Beginners&rpar;](https://dev.to/devflex-pro/go-from-zero-to-depth-part-6-the-goroutine-scheduler-the-part-nobody-tells-beginners-5f7i)
-- [Day 20 — Incident Response &lpar;The Ambush&rpar;](https://dev.to/aerabi/day-20-incident-response-the-ambush-6a5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
