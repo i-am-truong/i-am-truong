@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [You&#39;re Fixing the Wrong Bugs](https://dev.to/chrisquinnr/youre-fixing-the-wrong-bugs-2mnh)
-- [Automate Content Quality with VectorLint GitHub Action](https://dev.to/ayomideonibokun/automate-content-quality-with-vectorlint-github-action-5d4g)
-- [CPU Limits in Kubernetes: Mostly Harmful, Occasionally Essential](https://dev.to/peter_dyakov_06f3c69a46b7/cpu-limits-in-kubernetes-mostly-harmful-occasionally-essential-3i56)
-- [Why Localization Accuracy Matters More Than Ever](https://dev.to/gerry_criner/why-localization-accuracy-matters-more-than-ever-ch6)
-- [AltSchool Of Engineering Tinyuka’24 Month 10 Week 4](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-10-week-4-2pij)
+- [How to Know When to Use a Hash Map in Coding Interviews: A Pattern Recognition Guide](https://dev.to/alex_hunter_44f4c9ed6671e/how-to-know-when-to-use-a-hash-map-in-coding-interviews-a-pattern-recognition-guide-3437)
+- [Your Tech Stack Is Limiting Your Creativity](https://dev.to/dbzero/your-tech-stack-is-limiting-your-creativity-p2l)
+- [Your Restaurant Is a Distributed System With an Unbounded Queue](https://dev.to/rohit_rajak_71c5ba74e4ec3/your-restaurant-is-a-distributed-system-with-an-unbounded-queue-160h)
+- [I Built SoftLA: A Software-Only Logic Analyzer for UART &amp; I2C Debugging &lpar;No Hardware Required&rpar;](https://dev.to/manish112233/i-built-softla-a-software-only-logic-analyzer-for-uart-i2c-debugging-no-hardware-required-1n5c)
+- [You&#39;re Fixing the Wrong Bugs](https://dev.to/cazon/youre-fixing-the-wrong-bugs-2mnh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
