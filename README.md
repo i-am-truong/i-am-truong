@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Do Caos à Clareza Reduzindo Dependências em Rails](https://dev.to/brandaoplaster/do-caos-a-clareza-reduzindo-dependencias-em-rails-9hl)
-- [CI/CD for Dummies](https://dev.to/copubah/cicd-for-dummies-29n0)
-- [Building a Real-time VPN Monitoring System from Tokyo with Google Apps Script](https://dev.to/blstweb/building-a-real-time-vpn-monitoring-system-from-tokyo-with-google-apps-script-2mo0)
-- [Backend-Driven Localization in Flutter: A Production-Ready Implementation Guide](https://dev.to/anurag_dev/backend-driven-localization-in-flutter-a-production-ready-implementation-guide-2oh2)
-- [Your ESLint Security Plugin is Missing 80% of Vulnerabilities &lpar;I Have Proof&rpar;](https://dev.to/ofri-peretz/your-eslint-security-plugin-is-missing-80-of-vulnerabilities-i-have-proof-2lpm)
+- [Reddit Ads in 2026: The Post-Algorithm Guide to Actually Making Money](https://dev.to/synergistdigitalmedia/reddit-ads-in-2026-the-post-algorithm-guide-to-actually-making-money-4178)
+- [Terraform Providers: Day2 — Explained Super Simply](https://dev.to/amitsinghs98/terraform-providers-day2-explained-super-simply-1nog)
+- [The Reality of GenAI in Software Teams](https://dev.to/bolt04/the-reality-of-genai-in-software-teams-59i8)
+- [Mastering Matplotlib: Building Dynamic Bar Charts, Histograms, and Multi-Panel Subplots](https://dev.to/labex/mastering-matplotlib-building-dynamic-bar-charts-histograms-and-multi-panel-subplots-309p)
+- [Goodgame Empire: Medieval Castle Building and Strategy Master.](https://dev.to/faisal_shah_4ac65abb4ae6b/goodgame-empire-medieval-castle-building-and-strategy-master-2l7l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
