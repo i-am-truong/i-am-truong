@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Shallow Agents vs Deep Agents: How Deep Research Actually Works Inside GPT-Like Systems](https://dev.to/naresh_007/shallow-agents-vs-deep-agents-how-deep-research-actually-works-inside-gpt-like-systems-4n73)
-- [**Garantiza un cumplimiento normativo sostenible con la plat](https://dev.to/drcarlosruizviquez/garantiza-un-cumplimiento-normativo-sostenible-con-la-plat-2f62)
-- [Day 36 Of Documenting My Learning Journey](https://dev.to/james_kabuga/day-36-of-documenting-my-learning-journey-54ac)
-- [Exploring AWS Generative AI &amp; AI Services: A Practical Guide for Builders](https://dev.to/shubhamkcloud/exploring-aws-generative-ai-ai-services-a-practical-guide-for-builders-1mfm)
-- [Christmas thoughts: Why Senior Engineers hate &quot;cool&quot; new frameworks &lpar;and why you should too&rpar;.](https://dev.to/the_nortern_dev/christmas-thoughts-why-senior-engineers-hate-cool-new-frameworks-and-why-you-should-too-1a28)
+- [The mental checklist I use when troubleshooting Linux servers](https://dev.to/navickas/the-mental-checklist-i-use-when-troubleshooting-linux-servers-2g5d)
+- [Instalando Arch Linux em 2026](https://dev.to/vittor/instalando-arch-linux-em-2026-29mp)
+- [Why We Built a Lightweight Uptime Monitor for Shared Hosting](https://dev.to/weborbiton/why-we-built-a-lightweight-uptime-monitor-for-shared-hosting-215c)
+- [From Lab Notebook to Dashboard: The Scientific Data Lifecycle](https://dev.to/phenixzain/from-lab-notebook-to-dashboard-the-scientific-data-lifecycle-314p)
+- [**Llamado a la Acción: Cumplimiento Sostenible con Tarantula](https://dev.to/drcarlosruizviquez/llamado-a-la-accion-cumplimiento-sostenible-con-tarantula-4cg4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
