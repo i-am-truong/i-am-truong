@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Code is Open: How Free &amp; Open Source Software Became the Backbone of Modern Business and the Internet](https://dev.to/gandolfslayer/the-code-is-open-how-free-open-source-software-became-the-backbone-of-modern-business-and-the-5122)
-- [Cinematic ANSI Banners for Rust](https://dev.to/zhang_lei_d5d577e6d0b5421/cinematic-ansi-banners-for-rust-1ceo)
-- [EIOC for Engineers, PMs, and AI Safety Practitioners](https://dev.to/narnaiezzsshaa/eioc-for-engineers-pms-and-ai-safety-practitioners-23a2)
-- [Building a Hugo + Tailwind technical blog from scratch: Taking INFINI Labs Blog as an example](https://dev.to/rain9/building-a-hugo-tailwind-technical-blog-from-scratch-taking-infini-labs-blog-as-an-example-nd7)
-- [AI-Native GUI SDK: Performance &amp; Models Are NOT Defined Here](https://dev.to/hejhdiss/ai-native-gui-sdk-performance-models-are-not-defined-here-38og)
+- [CVE-2025-9086 | Out of bounds read for cookie path](https://dev.to/aakash_rahsi_8d28156d5f2c/cve-2025-9086-out-of-bounds-read-for-cookie-path-3gbo)
+- [Docker for HPC &amp; GPU Workloads](https://dev.to/godofgeeks/docker-for-hpc-gpu-workloads-2c02)
+- [MV-VI Pattern: Domain-Centric Design for Frontend Applications](https://dev.to/psy082/mv-vi-pattern-domain-centric-design-for-frontend-applications-1j6a)
+- [Service Levels in Angular](https://dev.to/vspatil87/service-levels-in-angular-5f1g)
+- [Help Center Navigation Logic Explained Using Real User Behavior](https://dev.to/freepixel11/help-center-navigation-logic-explained-using-real-user-behavior-89o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
