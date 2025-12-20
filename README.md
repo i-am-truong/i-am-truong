@@ -120,9 +120,9 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Risk Assessment in Fake-News Detection Using Advanced NLP and Deep Learning](https://dev.to/martins_adegbaju/risk-assessment-in-fake-news-detection-using-advanced-nlp-and-deep-learning-2okn)
 - [Return of “One Tool, Many Brains: Building a Multi-Model DevOps Architect”](https://dev.to/aairom/return-of-one-tool-many-brains-building-a-multi-model-devops-architect-57pd)
 - [Why Backend Developers Love Go: 5 New Features Explained Simply](https://dev.to/alvisonhunter/why-backend-developers-love-go-5-new-features-explained-simply-3e5g)
-- [Decode JWT Tokens from the Command Line Like a Pro](https://dev.to/iamdevbox/decode-jwt-tokens-from-the-command-line-like-a-pro-2c59)
 - [React Fragments Explained: How to Group Elements Without Extra DOM Nodes](https://dev.to/ahmad_mahboob/react-fragments-explained-how-to-group-elements-without-extra-dom-nodes-378a)
 - [How to Integrate Google Play In-App Purchases Using RevenueCat](https://dev.to/devmastermind/how-to-integrate-google-play-in-app-purchases-using-revenuecat-2jab)
 <!-- BLOG-POST-LIST:END -->
