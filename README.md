@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀 I built supabase-markdown — A tool to generate a full Supabase ERD across all schemas &lpar;because Visualizer can’t&rpar;](https://dev.to/idevbrandon/i-built-supabase-markdown-a-tool-to-generate-a-full-supabase-erd-across-all-schemas-because-21li)
 - [Building RedirectWise: A Practical Chrome Extension for Redirect Analysis](https://dev.to/gauravvyadav/building-redirectwise-a-practical-chrome-extension-for-redirect-analysis-4c38)
-- [Composition in React: Building like a Senior React Dev](https://dev.to/emann/compound-components-in-react-building-like-a-senior-react-dev-56dm)
-- [Effective Liquidity Management Strategies for Crypto Exchanges](https://dev.to/riley_quinn_8e58a0a96d107/effective-liquidity-management-strategies-for-crypto-exchanges-1phk)
-- [How to Use the Rules Feature in HttpTracer](https://dev.to/httptrace/how-to-use-the-rules-feature-in-httptracer-58f7)
-- [CVE-2025-9086 | Out of bounds read for cookie path](https://dev.to/aakash_rahsi_8d28156d5f2c/cve-2025-9086-out-of-bounds-read-for-cookie-path-3gbo)
+- [How Blockchain is Enabling New Business Models](https://dev.to/coinography_team_8c4a620f/how-blockchain-is-enabling-new-business-models-1c)
+- [React Router Basics: Multi-Page Navigation for a Brochure Website](https://dev.to/prateekshaweb/react-router-basics-multi-page-navigation-for-a-brochure-website-287f)
+- [Building Own Blockchain Using Python](https://dev.to/dpgeniusmedia/building-own-blockchain-using-python-13j7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
