@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Know When to Use a Hash Map in Coding Interviews: A Pattern Recognition Guide](https://dev.to/alex_hunter_44f4c9ed6671e/how-to-know-when-to-use-a-hash-map-in-coding-interviews-a-pattern-recognition-guide-3437)
-- [Your Tech Stack Is Limiting Your Creativity](https://dev.to/dbzero/your-tech-stack-is-limiting-your-creativity-p2l)
-- [Your Restaurant Is a Distributed System With an Unbounded Queue](https://dev.to/rohit_rajak_71c5ba74e4ec3/your-restaurant-is-a-distributed-system-with-an-unbounded-queue-160h)
-- [I Built SoftLA: A Software-Only Logic Analyzer for UART &amp; I2C Debugging &lpar;No Hardware Required&rpar;](https://dev.to/manish112233/i-built-softla-a-software-only-logic-analyzer-for-uart-i2c-debugging-no-hardware-required-1n5c)
-- [You&#39;re Fixing the Wrong Bugs](https://dev.to/cazon/youre-fixing-the-wrong-bugs-2mnh)
+- [Stablecoins – The Bridges Between Volatility and Value](https://dev.to/ribhavmodi/stablecoins-the-bridges-between-volatility-and-value-5f1m)
+- [Am I Crazy to Build a Social Network with a 2-Person Team in 2025/26?](https://dev.to/future_you/am-i-crazy-to-build-a-social-network-with-a-2-person-team-in-202526-297i)
+- [CVE-2025-64671 | GitHub Copilot for Jetbrains Remote Code Execution Vulnerability](https://dev.to/aakash_rahsi_8d28156d5f2c/cve-2025-64671-github-copilot-for-jetbrains-remote-code-execution-vulnerability-pbb)
+- [Made this for fellow programmers who want to get free feedback on their MVP](https://dev.to/memers_d3cc2fe1588770904e/made-this-for-fellow-programmers-who-want-to-get-free-feedback-on-their-mvp-1cfn)
+- [🚀 Karpenter Setup on AWS EKS – Practical Notes from Real Setup](https://dev.to/jayakrishnayadav24/karpenter-setup-on-aws-eks-practical-notes-from-real-setup-heh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
