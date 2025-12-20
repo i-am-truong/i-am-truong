@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 00 - Prelude](https://dev.to/pillin/day-00-prelude-1n29)
+- [Effective Facilitation Techniques: Speaker Queue and Speaker Stack](https://dev.to/stakiran/effective-facilitation-techniques-speaker-queue-and-speaker-stack-1ao4)
+- [2025-12-20 Daily Robotics News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-20-daily-robotics-news-48h6)
 - [2025-12-20 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-20-daily-ai-news-4556)
 - [How to build Azure App service step by step.](https://dev.to/freddie_barron/how-to-build-azure-app-service-step-by-step-f2k)
-- [Cover Letter – Front-End Oriented Full-Stack Laravel Developer](https://dev.to/alexanie_/cover-letter-front-end-oriented-full-stack-laravel-developer-373k)
-- [🔧 yini-cli v1.1.1-beta released](https://dev.to/marko_kseppnen_6250a7f/yini-cli-v111-beta-released-488f)
-- [Compile-Time Resource Tracking in Rust: From Runtime Brackets to Type-Level Safety](https://dev.to/entropicdrift/compile-time-resource-tracking-in-rust-from-runtime-brackets-to-type-level-safety-1mho)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
