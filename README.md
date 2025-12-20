@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Bulk Crap Uninstaller: Essential Tool for Clean Windows Environments](https://dev.to/stelixx-insider/bulk-crap-uninstaller-essential-tool-for-clean-windows-environments-3add)
-- [Firefox Not Responding: Complete Fix Guide &lpar;2025&rpar;](https://dev.to/bryan_collins_abcd0214d94/firefox-not-responding-complete-fix-guide-2025-2ao3)
+- [From Beginner to Pro: Mastering State Management with TanStack Query v5](https://dev.to/rajat128/from-beginner-to-pro-mastering-state-management-with-tanstack-query-v5-3hp6)
 - [Crea tu propia Agencia de Marketing AI Local: Local, Privada y Open Source](https://dev.to/matias_palomino_3633381b8/crea-tu-propia-agencia-de-marketing-ai-local-local-privada-y-open-source-32an)
 - [How to get Location from Text in Apple Shortcuts](https://dev.to/leafchage/how-to-get-location-from-text-in-apple-shortcuts-2nbm)
-- [Vector AI Agent: The Desktop Automation Tool That Controls Real Browsers](https://dev.to/pay_perreel_ed6ea36719f4/vector-ai-agent-the-desktop-automation-tool-that-controls-real-browsers-58p1)
+- [Using CuCollections Nvidia Data Structures Library](https://dev.to/murage_kibicho_b1d9cc21/using-cucollections-nvidia-data-structures-library-44mn)
+- [What could be the best Micro Achievement at the beginning of a Micro Business??](https://dev.to/johnnysturat/what-could-be-the-best-micro-achievement-at-the-beginning-of-a-micro-business-3431)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
