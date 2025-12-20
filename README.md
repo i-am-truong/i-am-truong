@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I made my Vitest suite in Nuxt run ten times faster](https://dev.to/aloisseckar/i-made-my-vitest-suite-in-nuxt-run-ten-times-faster-6j7)
+- [I built two open-source tools faster by letting AI write most of the code](https://dev.to/benjy33000/i-built-two-open-source-tools-faster-by-letting-ai-write-most-of-the-code-688)
+- [Proving people actually read internal documents is still a mess](https://dev.to/benjy33000/proving-people-actually-read-internal-documents-is-still-a-mess-2ng7)
 - [We Can&#39;t Write the Perfect Prompt on the First Try — And That&#39;s the Point](https://dev.to/synthaicode_commander/we-cant-write-the-perfect-prompt-on-the-first-try-and-thats-the-point-148b)
-- [Why I refuse to ship Google Analytics in open-source projects](https://dev.to/benjy33000/why-i-refuse-to-ship-google-analytics-in-open-source-projects-47dp)
-- [The lost logos of code](https://dev.to/anavalo/the-lost-logos-of-code-28eg)
-- [The lost logos of code](https://dev.to/anavalo_/the-lost-logos-of-code-2445)
-- [Browser Extensions - Native Messaging](https://dev.to/programador51/browser-extensions-native-messaging-21am)
+- [No, Clojure: your REPL is not new – or best](https://dev.to/dimension-zero/no-clojure-your-repl-is-not-new-or-best-556)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
