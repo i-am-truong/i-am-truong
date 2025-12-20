@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stablecoins – The Bridges Between Volatility and Value](https://dev.to/ribhavmodi/stablecoins-the-bridges-between-volatility-and-value-5f1m)
-- [Am I Crazy to Build a Social Network with a 2-Person Team in 2025/26?](https://dev.to/future_you/am-i-crazy-to-build-a-social-network-with-a-2-person-team-in-202526-297i)
-- [CVE-2025-64671 | GitHub Copilot for Jetbrains Remote Code Execution Vulnerability](https://dev.to/aakash_rahsi_8d28156d5f2c/cve-2025-64671-github-copilot-for-jetbrains-remote-code-execution-vulnerability-pbb)
-- [Made this for fellow programmers who want to get free feedback on their MVP](https://dev.to/memers_d3cc2fe1588770904e/made-this-for-fellow-programmers-who-want-to-get-free-feedback-on-their-mvp-1cfn)
-- [🚀 Karpenter Setup on AWS EKS – Practical Notes from Real Setup](https://dev.to/jayakrishnayadav24/karpenter-setup-on-aws-eks-practical-notes-from-real-setup-heh)
+- [Managing GitHub Copilot CLI MCP Server Configuration in Your Repository](https://dev.to/mikoshiba-kyu/managing-github-copilot-cli-mcp-server-configuration-in-your-repository-58i6)
+- [How I Built DisasterWatch: A Real-Time Earthquake Monitoring System](https://dev.to/dinraeus/how-i-built-disasterwatch-a-real-time-earthquake-monitoring-system-5eg5)
+- [UI UX for Developers: A Practical Guide](https://dev.to/pixel_mosaic/ui-ux-for-developers-a-practical-guide-2cfl)
+- [Automate Company Intelligence: Scrape Tech Stacks &amp; Hiring Signals in Seconds &lpar;A tutorial&rpar;](https://dev.to/kain/automate-company-intelligence-scrape-tech-stacks-hiring-signals-in-seconds-a-tutorial-kcl)
+- [Antiquora](https://dev.to/aditya_rajsingh_53f8ceca/antiquora-1mpc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
