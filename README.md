@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Practical Windows Terminal Setup with Git Bash and Automatic Pane Layout](https://dev.to/tuner9696_len/a-practical-windows-terminal-setup-with-git-bash-and-automatic-pane-layout-3oii)
+- [AI-Native GUI SDK: Designed for AI Control, Not Manual Restrictions](https://dev.to/hejhdiss/ai-native-gui-sdk-designed-for-ai-control-not-manual-restrictions-461n)
+- [PrestaShop Enterprise vs Shopify Plus](https://dev.to/ndabene/prestashop-enterprise-vs-shopify-plus-157k)
 - [Built a tool to generate beautiful Prompt Cards over the weekend, no login required](https://dev.to/zley_34b5414ca5e486c1c333/built-a-tool-to-generate-beautiful-prompt-cards-over-the-weekend-no-login-required-4ope)
 - [Node.js Is Slow? Only If You Don’t Know This 🚀](https://dev.to/rohit_singh_ee84e64941db7/nodejs-is-slow-only-if-you-dont-know-this-dnf)
-- [Angular Signals vs RxJS — Do We Still Need Observables?](https://dev.to/rohit_singh_ee84e64941db7/angular-signals-vs-rxjs-do-we-still-need-observables-3of3)
-- [b0nes: The Framework That Actually Fits in Your Head &lpar;Yes, Really&rpar; Or: How I Learned to Stop Worrying and Love Zero Dependencies](https://dev.to/iggydotdev/b0nes-the-framework-that-actually-fits-in-your-head-yes-really-or-how-i-learned-to-stop-4mai)
-- [Boosting Cloud Security with AI: A New Layer of Protection](https://dev.to/mabualzait/boosting-cloud-security-with-ai-a-new-layer-of-protection-jak)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
