@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Effective Liquidity Management Strategies for Crypto Exchanges](https://dev.to/riley_quinn_8e58a0a96d107/effective-liquidity-management-strategies-for-crypto-exchanges-1phk)
+- [How to Use the Rules Feature in HttpTracer](https://dev.to/httptrace/how-to-use-the-rules-feature-in-httptracer-58f7)
 - [CVE-2025-9086 | Out of bounds read for cookie path](https://dev.to/aakash_rahsi_8d28156d5f2c/cve-2025-9086-out-of-bounds-read-for-cookie-path-3gbo)
 - [Docker for HPC &amp; GPU Workloads](https://dev.to/godofgeeks/docker-for-hpc-gpu-workloads-2c02)
 - [MV-VI Pattern: Domain-Centric Design for Frontend Applications](https://dev.to/psy082/mv-vi-pattern-domain-centric-design-for-frontend-applications-1j6a)
-- [Service Levels in Angular](https://dev.to/vspatil87/service-levels-in-angular-5f1g)
-- [Help Center Navigation Logic Explained Using Real User Behavior](https://dev.to/freepixel11/help-center-navigation-logic-explained-using-real-user-behavior-89o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
