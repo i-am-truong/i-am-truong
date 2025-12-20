@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Marshall Islands Launches the World’s First Cryptocurrency-Based Universal Basic Income Program](https://dev.to/thebitcoiner/marshall-islands-launches-the-worlds-first-cryptocurrency-based-universal-basic-income-program-52df)
+- [KissanConnect : AgriTech Platform](https://dev.to/samarth28/kissanconnect-agritech-platform-566g)
+- [How to verify your contracts like a mastermind](https://dev.to/ssghost/how-to-verify-your-contracts-like-a-mastermind-50i7)
 - [Why if Is Not Enough: Understanding try/except in Python](https://dev.to/parthi_rp/why-if-is-not-enough-understanding-tryexcept-in-python-212d)
 - [I made my Vitest suite in Nuxt run ten times faster](https://dev.to/aloisseckar/i-made-my-vitest-suite-in-nuxt-run-ten-times-faster-6j7)
-- [I built two open-source tools faster by letting AI write most of the code](https://dev.to/benjy33000/i-built-two-open-source-tools-faster-by-letting-ai-write-most-of-the-code-688)
-- [Day 30 Of Documenting My Learning Journey](https://dev.to/james_kabuga/day-30-of-documenting-my-learning-journey-14d0)
-- [Proving people actually read internal documents is still a mess](https://dev.to/benjy33000/proving-people-actually-read-internal-documents-is-still-a-mess-2ng7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
