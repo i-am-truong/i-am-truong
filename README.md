@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Revolutionize Developer Revenue with Monetzly&#39;s AI Conversation API](https://dev.to/monetzly/revolutionize-developer-revenue-with-monetzlys-ai-conversation-api-4a9i)
+- [[Boost]](https://dev.to/zenithai/-3k18)
 - [Enterprise AI Agent Management: Governance, Security &amp; Control Guide &lpar;2026&rpar;](https://dev.to/composiodev/enterprise-ai-agent-management-governance-security-control-guide-2026-3f60)
 - [My Very First Blog Post](https://dev.to/leo_codes07/my-very-first-blog-post-d8n)
 - [Modern C# Development: Custom Exceptions Made Simple](https://dev.to/lovelacecoding/modern-c-development-custom-exceptions-made-simple-1ln8)
-- [SpecMD — What if Your Documentation Was Your Code?](https://dev.to/glauber_portella/specmd-what-if-your-documentation-was-your-code-oed)
-- [Experimenting with Javelit - The Streamlit for Java](https://dev.to/bsorrentino/experimenting-with-javelit-the-streamlit-for-java-bll)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
