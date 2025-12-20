@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Code is Open: How Free &amp; Open Source Software Became the Backbone of Modern Business and the Internet](https://dev.to/gandolfslayer/the-code-is-open-how-free-open-source-software-became-the-backbone-of-modern-business-and-the-5122)
+- [Cinematic ANSI Banners for Rust](https://dev.to/zhang_lei_d5d577e6d0b5421/cinematic-ansi-banners-for-rust-1ceo)
+- [EIOC for Engineers, PMs, and AI Safety Practitioners](https://dev.to/narnaiezzsshaa/eioc-for-engineers-pms-and-ai-safety-practitioners-23a2)
+- [Building a Hugo + Tailwind technical blog from scratch: Taking INFINI Labs Blog as an example](https://dev.to/rain9/building-a-hugo-tailwind-technical-blog-from-scratch-taking-infini-labs-blog-as-an-example-nd7)
 - [AI-Native GUI SDK: Performance &amp; Models Are NOT Defined Here](https://dev.to/hejhdiss/ai-native-gui-sdk-performance-models-are-not-defined-here-38og)
-- [Python Optimization Fails When You Skip This One Step](https://dev.to/emmimal_alexander_3be8cc7/python-optimization-fails-when-you-skip-this-one-step-3pgb)
-- [The Ghost in the Machine: Is Your Software Secretly Sabotaging Your SEO?](https://dev.to/gandolfslayer/the-ghost-in-the-machine-is-your-software-secretly-sabotaging-your-seo-4kl7)
-- [Does Your AI Agent Need a Plan?](https://dev.to/blackgirlbytes/does-your-ai-agent-need-a-plan-4ic7)
-- [From Mobile UX Expectations to Better Tabs on the Web](https://dev.to/maicongilton/from-mobile-ux-expectations-to-better-tabs-on-the-web-3h7k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
