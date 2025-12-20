@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Discovered Why &quot;Stripping Metadata&quot; From Images is Security Theater 🎭](https://dev.to/ra_vi_51d9667e07aa0984631/i-discovered-why-stripping-metadata-from-images-is-security-theater-4i41)
-- [50+ Remote Developer Jobs Hiring Right Now &lpar;December 2025&rpar; - Your Ticket to Location Freedom](https://dev.to/krlz/50-remote-developer-jobs-hiring-right-now-december-2025-your-ticket-to-location-freedom-1i71)
-- [Hands-On: See Image Metadata Removal in Action](https://dev.to/ra_vi_51d9667e07aa0984631/hands-on-see-image-metadata-removal-in-action-1c5o)
-- [Build. Calculate. Scale. &lpar;Update v1.3.0 is live!&rpar; 🚀](https://dev.to/reklamof/build-calculate-scale-update-v130-is-live-18o0)
-- [The Expand and Contract Pattern for Zero-Downtime Migrations](https://dev.to/jp_fontenele4321/the-expand-and-contract-pattern-for-zero-downtime-migrations-445m)
+- [🍵 Linear Regression for Absolute Beginners With Tea — A Zero‑Knowledge Analogy](https://dev.to/codeneuron/linear-regression-for-absolute-beginners-with-tea-a-zero-knowledge-analogy-3jfn)
+- [Monetzly: Transform AI Conversations into Developer Revenue Streams](https://dev.to/monetzly/monetzly-transform-ai-conversations-into-developer-revenue-streams-1b53)
+- [AWS&#39;s Mind-Blowing New AI Agent &#39;Kiro&#39; Can Code Autonomously for Days](https://dev.to/muhammad_zeeshan_6499a22a/awss-mind-blowing-new-ai-agent-kiro-can-code-autonomously-for-days-1koo)
+- [🎵 Build a Real-Time Spotify Dashboard with Next.js &lpar;Part 1: The Auth&rpar;](https://dev.to/adityathakekar/build-a-real-time-spotify-dashboard-with-nextjs-part-1-the-auth-297e)
+- [Training a Helpful and Harmless Assistant with Reinforcement Learning from HumanFeedback](https://dev.to/paperium/training-a-helpful-and-harmless-assistant-with-reinforcement-learning-from-humanfeedback-2nm5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
