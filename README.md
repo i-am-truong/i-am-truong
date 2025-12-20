@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Le pouvoir de Babylon js](https://dev.to/florentin_lurot_1a228aa53/le-pouvoir-de-babylon-js-1a4a)
+- [I built LoveToRead.ai – Create personalized children&#39;s books with AI](https://dev.to/maxwell_ai/i-built-lovetoreadai-create-personalized-childrens-books-with-ai-5a5h)
+- [Building My Own Tools &amp; Systems – Feedback Welcome](https://dev.to/rijan_koirala_7771fdb37aa/building-my-own-tools-systems-feedback-welcome-4k4n)
 - [Clean Architecture Design Flow: A Practical Guide to Diagrams That Actually Help](https://dev.to/sherwinwater/clean-architecture-design-flow-a-practical-guide-to-diagrams-that-actually-help-12ke)
 - [Zeros of Polynomial Equations in the Complex Plane](https://dev.to/prinewgirl/zeros-of-polynomial-equations-in-the-complex-plane-22co)
-- [Building a Premium New Year 2026 Celebration Site 🎉](https://dev.to/srijan-xi/building-a-premium-new-year-2026-celebration-site-1bpj)
-- [What Exactly Is the “Bazel Ecosystem”?](https://dev.to/sushilbaligar/what-exactly-is-the-bazel-ecosystem-5g79)
-- [I Think I Just Built the Perfect Landing Page &lpar;for my Software Studio&rpar;](https://dev.to/tejasbaid/i-think-i-just-built-the-perfect-landing-page-for-my-software-studio-48hn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
