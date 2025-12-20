@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Do Caos à Clareza Reduzindo Dependências em Rails](https://dev.to/brandaoplaster/do-caos-a-clareza-reduzindo-dependencias-em-rails-9hl)
+- [CI/CD for Dummies](https://dev.to/copubah/cicd-for-dummies-29n0)
+- [Building a Real-time VPN Monitoring System from Tokyo with Google Apps Script](https://dev.to/blstweb/building-a-real-time-vpn-monitoring-system-from-tokyo-with-google-apps-script-2mo0)
 - [Backend-Driven Localization in Flutter: A Production-Ready Implementation Guide](https://dev.to/anurag_dev/backend-driven-localization-in-flutter-a-production-ready-implementation-guide-2oh2)
 - [Your ESLint Security Plugin is Missing 80% of Vulnerabilities &lpar;I Have Proof&rpar;](https://dev.to/ofri-peretz/your-eslint-security-plugin-is-missing-80-of-vulnerabilities-i-have-proof-2lpm)
-- [Designing a Zero-Trust Personal Information Manager with Client-Side Encryption](https://dev.to/pranav_kishan_f81e2fc8327/designing-a-zero-trust-personal-information-manager-with-client-side-encryption-4pb5)
-- [-&gt;&gt; Day-11 AWS Terraform Functions - Part 1](https://dev.to/amit_kumar_7db8e36a64dd45/-day-11-aws-terraform-functions-part-1-kih)
-- [Observability-Driven Kubernetes: A Practical EKS Demo](https://dev.to/aws-builders/observability-driven-kubernetes-a-practical-eks-demo-5gjp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
