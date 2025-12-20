@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Modern Web Development in 2026: A Practical Guide for Beginners](https://dev.to/panchalmukundak/getting-started-with-modern-web-development-in-2026-a-practical-guide-for-beginners-58c9)
-- [Day 3/30](https://dev.to/smolmin_/day-330-1kgb)
-- [How to Set Up 4K IPTV](https://dev.to/4kiptvus/how-to-set-up-4k-iptv-h35)
-- [Day-11 Crontab Syntax, jq Magic, and the AWS DevOps](https://dev.to/jayanth_kumardasari_d34c/day-11-crontab-syntax-jq-magic-and-the-aws-devops-roadmap-tags-devops-aws-linux-beginners-2k5i)
-- [Tiiny.host vs Static.app: A Fair, Fact-Checked Comparison - And Why We Believe Tiiny.host Wins](https://dev.to/rfoot8/tiinyhost-vs-staticapp-a-fair-fact-checked-comparison-and-why-we-believe-tiinyhost-wins-4fci)
+- [GitHub Copilot Agent Skills: Teaching AI Your Repository Patterns](https://dev.to/qa-leaders/github-copilot-agent-skills-teaching-ai-your-repository-patterns-1oa8)
+- [Building a Page-Level PDF Processing Pipeline for Smarter RAG Systems](https://dev.to/steravy/building-a-page-level-pdf-processing-pipeline-for-smarter-rag-systems-3bgm)
+- [Phishing-Resistant Sign-In: What Developers Can Do Now &lpar;Without Turning UX Into a Nightmare&rpar;](https://dev.to/sonia_bobrik_1939cdddd79d/phishing-resistant-sign-in-what-developers-can-do-now-without-turning-ux-into-a-nightmare-3di6)
+- [SaaS Trends That Are Reshaping Cloud Software and Modern Development](https://dev.to/techgenius/saas-trends-that-are-reshaping-cloud-software-and-modern-development-2fgk)
+- [I Built an AI Tool That Redesigns Any Website in Seconds &lpar;Here’s Why&rpar;](https://dev.to/web5lab_938e9096be8dc3e78/i-built-an-ai-tool-that-redesigns-any-website-in-seconds-heres-why-4e8p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
