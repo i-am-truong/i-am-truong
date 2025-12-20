@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Revolutionize Developer Revenue with Monetzly&#39;s AI Conversation API](https://dev.to/monetzly/revolutionize-developer-revenue-with-monetzlys-ai-conversation-api-4a9i)
-- [[Boost]](https://dev.to/zenithai/-3k18)
-- [Enterprise AI Agent Management: Governance, Security &amp; Control Guide &lpar;2026&rpar;](https://dev.to/composiodev/enterprise-ai-agent-management-governance-security-control-guide-2026-3f60)
-- [My Very First Blog Post](https://dev.to/leo_codes07/my-very-first-blog-post-d8n)
-- [Modern C# Development: Custom Exceptions Made Simple](https://dev.to/lovelacecoding/modern-c-development-custom-exceptions-made-simple-1ln8)
+- [Performance Tuning: Linux Kernel Optimizations for 10k+ Connections](https://dev.to/deepak_mishra_35863517037/performance-tuning-linux-kernel-optimizations-for-10k-connections-lnj)
+- [Dominando JOINs, Subqueries e Técnicas de Consulta](https://dev.to/ikauedev/dominando-joins-subqueries-e-tecnicas-de-consulta-2pco)
+- [Why I Ditched Terminal UIs for Recruiters](https://dev.to/zenoguy/why-i-ditched-terminal-uis-for-recruiters-57p7)
+- [Simplifying Technical Jargon in the Docs](https://dev.to/marycynthia_ihemebiwo_1c4/simplifying-technical-jargon-in-the-docs-dl3)
+- [Essential Plugins for WooCommerce Store Owners](https://dev.to/biancarus/essential-plugins-for-woocommerce-store-owners-2ha9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
