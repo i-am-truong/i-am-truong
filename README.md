@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How Bf-Tree Executes Reads and Writes Using Mini-Pages](https://dev.to/lovestaco/how-bf-tree-executes-reads-and-writes-using-mini-pages-22eg)
+- [I built a tool that converts plain text song lists &lpar;like from ChatGPT&rpar; into playable music links instantly.](https://dev.to/coder_smit/i-built-a-tool-that-converts-plain-text-song-lists-like-from-chatgpt-into-playable-music-links-222b)
 - [Reddit Ads in 2026: The Post-Algorithm Guide to Actually Making Money](https://dev.to/synergistdigitalmedia/reddit-ads-in-2026-the-post-algorithm-guide-to-actually-making-money-4178)
 - [Terraform Providers: Day2 — Explained Super Simply](https://dev.to/amitsinghs98/terraform-providers-day2-explained-super-simply-1nog)
 - [The Reality of GenAI in Software Teams](https://dev.to/bolt04/the-reality-of-genai-in-software-teams-59i8)
-- [Mastering Matplotlib: Building Dynamic Bar Charts, Histograms, and Multi-Panel Subplots](https://dev.to/labex/mastering-matplotlib-building-dynamic-bar-charts-histograms-and-multi-panel-subplots-309p)
-- [Goodgame Empire: Medieval Castle Building and Strategy Master.](https://dev.to/faisal_shah_4ac65abb4ae6b/goodgame-empire-medieval-castle-building-and-strategy-master-2l7l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
