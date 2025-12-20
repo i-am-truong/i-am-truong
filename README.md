@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 I built supabase-markdown — A tool to generate a full Supabase ERD across all schemas &lpar;because Visualizer can’t&rpar;](https://dev.to/idevbrandon/i-built-supabase-markdown-a-tool-to-generate-a-full-supabase-erd-across-all-schemas-because-21li)
-- [Building RedirectWise: A Practical Chrome Extension for Redirect Analysis](https://dev.to/gauravvyadav/building-redirectwise-a-practical-chrome-extension-for-redirect-analysis-4c38)
-- [How Blockchain is Enabling New Business Models](https://dev.to/coinography_team_8c4a620f/how-blockchain-is-enabling-new-business-models-1c)
-- [React Router Basics: Multi-Page Navigation for a Brochure Website](https://dev.to/prateekshaweb/react-router-basics-multi-page-navigation-for-a-brochure-website-287f)
-- [Building Own Blockchain Using Python](https://dev.to/dpgeniusmedia/building-own-blockchain-using-python-13j7)
+- [Day 13: When Login Fails and Isolation Stays](https://dev.to/casperday11/day-13-when-login-fails-and-isolation-stays-1l5m)
+- [Accroche philosophique dans le monde informatique.](https://dev.to/onepoint/accroche-philosophique-dans-le-monde-informatique-52c8)
+- [PSX: The Project Structure Checker](https://dev.to/m__mdy__m/psx-the-project-structure-checker-263j)
+- [Anthropic Unveils ‘Agent Skills,’ Raising the Stakes in Enterprise AI](https://dev.to/logicverse_2025/anthropic-unveils-agent-skills-raising-the-stakes-in-enterprise-ai-30m9)
+- [Key Skills You Must Master to Succeed in LLM Interviews](https://dev.to/jackm_345442a09fb53b/key-skills-you-must-master-to-succeed-in-llm-interviews-3c78)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
