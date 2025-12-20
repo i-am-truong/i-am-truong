@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [PDF Merger: Combine Multiple PDFs Instantly in Your Browser](https://dev.to/frontendtoolstech/pdf-merger-combine-multiple-pdfs-instantly-in-your-browser-4dn3)
+- [How a Single Client Request Turned Into My New Monetized WordPress Plugin](https://dev.to/affectionate_code/how-a-single-client-request-turned-into-my-new-monetized-wordpress-plugin-1eje)
+- [Improved Baselines with Momentum Contrastive Learning](https://dev.to/paperium/improved-baselines-with-momentum-contrastive-learning-4hk6)
+- [Dockerizing a React Task: A Hands-On DevOps Implementation](https://dev.to/hormogbolahan20/dockerizing-a-react-task-a-hands-on-devops-implementation-3kp7)
 - [[Boost]](https://dev.to/elizabethfuentes12/-3667)
-- [The Ultimate Guide to Capturing Leads in Zoho CRM from WordPress &lpar;2025 Edition&rpar;](https://dev.to/affectionate_code/the-ultimate-guide-to-capturing-leads-in-zoho-crm-from-wordpress-2025-edition-37ae)
-- [Understanding the Request–Response Model](https://dev.to/code_with_drew/understanding-the-request-response-model-3c9o)
-- [[Boost]](https://dev.to/fernandosilvot/-30k4)
-- [Build Agentic Video Analysis with TwelveLabs Pegasus in minutes](https://dev.to/aws/build-agentic-video-analysis-with-twelvelabs-pegasus-and-strands-agents-sdk-5a0m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
