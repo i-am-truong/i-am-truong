@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Built this because most uptime monitors are too heavy for shared hosting.](https://dev.to/weborbiton/built-this-because-most-uptime-monitors-are-too-heavy-for-shared-hosting-l36)
+- [I Think I Just Built the Perfect Landing Page &lpar;for my Software Studio&rpar;](https://dev.to/tejasbaid/i-think-i-just-built-the-perfect-landing-page-for-my-software-studio-48hn)
+- [Zero-Click SEO: How to Win When Google Keeps Your Traffic](https://dev.to/synergistdigitalmedia/zero-click-seo-how-to-win-when-google-keeps-your-traffic-14lm)
+- [game.html](https://dev.to/gghggjgg_bhjhi_1e6ffbb2e0/gamehtml-28gh)
 - [Top 4 AI Document Generators for Developer Docs &lpar;2026&rpar;](https://dev.to/infrasity-learning/top-4-ai-document-generators-for-developer-docs-2026-26mi)
 - [The mental checklist I use when troubleshooting Linux servers](https://dev.to/navickas/the-mental-checklist-i-use-when-troubleshooting-linux-servers-2g5d)
-- [Instalando Arch Linux em 2026](https://dev.to/vittor/instalando-arch-linux-em-2026-29mp)
-- [Why We Built a Lightweight Uptime Monitor for Shared Hosting](https://dev.to/weborbiton/why-we-built-a-lightweight-uptime-monitor-for-shared-hosting-215c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
