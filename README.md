@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🍵 Machine Learning Explained with Tea — A Zero‑Knowledge Analogy](https://dev.to/codeneuron/machine-learning-explained-with-tea-a-zero-knowledge-analogy-3ikg)
-- [Why AI Code Generation Fails: The Communication Problem](https://dev.to/_jeongyuhyeon_03de1/why-ai-code-generation-fails-the-communication-problem-1ni1)
-- [Engineering Context for Local and Cloud AI: Personas, Content Intelligence, and Zero-Prompt UX](https://dev.to/ialijr/engineering-context-for-local-and-cloud-ai-personas-content-intelligence-and-zero-prompt-ux-10dn)
-- [Automate Spotify to YouTube Music Playlist Transfer with TypeScript](https://dev.to/krlz/automate-spotify-to-youtube-music-playlist-transfer-with-typescript-14c0)
-- [ILUGC December 2025 Meetup](https://dev.to/sasirekaarumugam/ilugc-december-2025-meetup-2fcc)
+- [I Discovered Why &quot;Stripping Metadata&quot; From Images is Security Theater 🎭](https://dev.to/ra_vi_51d9667e07aa0984631/i-discovered-why-stripping-metadata-from-images-is-security-theater-4i41)
+- [50+ Remote Developer Jobs Hiring Right Now &lpar;December 2025&rpar; - Your Ticket to Location Freedom](https://dev.to/krlz/50-remote-developer-jobs-hiring-right-now-december-2025-your-ticket-to-location-freedom-1i71)
+- [Hands-On: See Image Metadata Removal in Action](https://dev.to/ra_vi_51d9667e07aa0984631/hands-on-see-image-metadata-removal-in-action-1c5o)
+- [Build. Calculate. Scale. &lpar;Update v1.3.0 is live!&rpar; 🚀](https://dev.to/reklamof/build-calculate-scale-update-v130-is-live-18o0)
+- [The Expand and Contract Pattern for Zero-Downtime Migrations](https://dev.to/jp_fontenele4321/the-expand-and-contract-pattern-for-zero-downtime-migrations-445m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
