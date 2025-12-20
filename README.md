@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Marshall Islands Launches the World’s First Cryptocurrency-Based Universal Basic Income Program](https://dev.to/thebitcoiner/marshall-islands-launches-the-worlds-first-cryptocurrency-based-universal-basic-income-program-52df)
-- [KissanConnect : AgriTech Platform](https://dev.to/samarth28/kissanconnect-agritech-platform-566g)
-- [How to verify your contracts like a mastermind](https://dev.to/ssghost/how-to-verify-your-contracts-like-a-mastermind-50i7)
-- [Why if Is Not Enough: Understanding try/except in Python](https://dev.to/parthi_rp/why-if-is-not-enough-understanding-tryexcept-in-python-212d)
-- [I made my Vitest suite in Nuxt run ten times faster](https://dev.to/aloisseckar/i-made-my-vitest-suite-in-nuxt-run-ten-times-faster-6j7)
+- [Feature Comparison : Nop Platform vs. SpringCloud](https://dev.to/canonical/feature-comparison-nop-platform-vs-springcloud-3a8f)
+- [Windows Registry Internals — A Beginner-Friendly Deep Dive](https://dev.to/itsmegsg/windows-registry-internals-a-beginner-friendly-deep-dive-36pk)
+- [Automating DevRel: How I Use Gemini CLI and Gemini 3 to Catch Bugs in My Blog Posts](https://dev.to/railsstudent/automating-devrel-how-i-use-gemini-cli-and-gemini-3-to-catch-bugs-in-my-blog-posts-3koo)
+- [The Robot Revolution](https://dev.to/rawveg/the-robot-revolution-39lf)
+- [Bayan Flow 0.2.0: finishing the foundations &lpar;i18n, RTL, tests, and small UX wins&rpar;](https://dev.to/ayoub3bidi/bayan-flow-020-finishing-the-foundations-i18n-rtl-tests-and-small-ux-wins-4lb7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
