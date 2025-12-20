@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🛡️ AWS Config Drift Detection Lab - Beginner-Friendly Guide](https://dev.to/ldwit/aws-config-drift-detection-lab-beginner-friendly-guide-39c8)
-- [Mastering Custom Validation Annotations in Spring Boot 3: Beyond @NotNull](https://dev.to/aquib_javed_e55c5b2494560/mastering-custom-validation-annotations-in-spring-boot-3-beyond-notnull-27i3)
-- [My second day with Antigravity](https://dev.to/tomokat/my-second-day-with-antigravity-3hpd)
-- [Best AI Models for Agentic Vibe Coding in VS Code &lpar;December 2025&rpar;](https://dev.to/danishashko/best-ai-models-for-agentic-vibe-coding-in-vs-code-december-2025-3bkd)
-- [From Beginner to Pro: Mastering State Management with TanStack Query v5](https://dev.to/rajat128/from-beginner-to-pro-mastering-state-management-with-tanstack-query-v5-3hp6)
+- [Best Practices for VFX Pipeline Automation with Python](https://dev.to/teevirta/best-practices-for-vfx-pipeline-automation-with-python-39m2)
+- [Langjam Gamejam](https://dev.to/__masashi__/langjam-gamejam-489d)
+- [Building a Real-World Kubernetes Disaster Recovery &amp; Backup Automation System](https://dev.to/psjcoder0717/building-a-real-world-kubernetes-disaster-recovery-backup-automation-system-en)
+- [Deploy Node.js on Linux with Nginx and PM2 — a practical beginner’s guide](https://dev.to/prateekshaweb/deploy-nodejs-on-linux-with-nginx-and-pm2-a-practical-beginners-guide-3gdm)
+- [Next.js + TailwindCSS v4: How to Add Dark/Light Theme with Next-Themes](https://dev.to/khanrabiul/nextjs-tailwindcss-v4-how-to-add-darklight-theme-with-next-themes-3c6l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
