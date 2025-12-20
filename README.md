@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Predicting Tea Sales With ML: Linear Regression, Gradient Descent &amp; Regularization &lpar;Beginner Friendly + Code&rpar;](https://dev.to/codeneuron/predicting-tea-sales-with-ml-linear-regression-gradient-descent-regularization-beginner-433j)
+- [Is it me or is GPT 5.2 a little rude?](https://dev.to/mileswk/is-it-me-or-is-gpt-52-a-little-rude-p3f)
+- [[Boost]](https://dev.to/klip_klop/-49n1)
+- [Sleep Tight, Cluster Right: Stop Burning Cash at 3 AM](https://dev.to/klip_klop/sleep-tight-cluster-right-stop-burning-cash-at-3-am-3jpm)
 - [🍵 Linear Regression for Absolute Beginners With Tea — A Zero‑Knowledge Analogy](https://dev.to/codeneuron/linear-regression-for-absolute-beginners-with-tea-a-zero-knowledge-analogy-3jfn)
-- [Monetzly: Transform AI Conversations into Developer Revenue Streams](https://dev.to/monetzly/monetzly-transform-ai-conversations-into-developer-revenue-streams-1b53)
-- [AWS&#39;s Mind-Blowing New AI Agent &#39;Kiro&#39; Can Code Autonomously for Days](https://dev.to/muhammad_zeeshan_6499a22a/awss-mind-blowing-new-ai-agent-kiro-can-code-autonomously-for-days-1koo)
-- [🎵 Build a Real-Time Spotify Dashboard with Next.js &lpar;Part 1: The Auth&rpar;](https://dev.to/adityathakekar/build-a-real-time-spotify-dashboard-with-nextjs-part-1-the-auth-297e)
-- [Training a Helpful and Harmless Assistant with Reinforcement Learning from HumanFeedback](https://dev.to/paperium/training-a-helpful-and-harmless-assistant-with-reinforcement-learning-from-humanfeedback-2nm5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
