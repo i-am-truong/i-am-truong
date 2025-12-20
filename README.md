@@ -123,8 +123,8 @@ Python                   1 repo              █░░░░░░░░░░�
 - [Day 00 - Prelude](https://dev.to/pillin/day-00-prelude-1n29)
 - [Effective Facilitation Techniques: Speaker Queue and Speaker Stack](https://dev.to/stakiran/effective-facilitation-techniques-speaker-queue-and-speaker-stack-1ao4)
 - [2025-12-20 Daily Robotics News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-20-daily-robotics-news-48h6)
-- [2025-12-20 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-20-daily-ai-news-4556)
 - [How to build Azure App service step by step.](https://dev.to/freddie_barron/how-to-build-azure-app-service-step-by-step-f2k)
+- [Why We Should Stop Saying “MVC” and Start Saying “RCMV” Instead](https://dev.to/alexanie_/cover-letter-front-end-oriented-full-stack-laravel-developer-373k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
