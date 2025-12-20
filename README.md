@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My Writeup &lpar;0day in Zsh &lpar;RCE&rpar;&rpar;](https://dev.to/pwn/my-writeup-0day-in-zsh-rce-2245)
-- [PDF Merger: Combine Multiple PDFs Instantly in Your Browser](https://dev.to/frontendtoolstech/pdf-merger-combine-multiple-pdfs-instantly-in-your-browser-4dn3)
-- [How a Single Client Request Turned Into My New Monetized WordPress Plugin](https://dev.to/affectionate_code/how-a-single-client-request-turned-into-my-new-monetized-wordpress-plugin-1eje)
-- [Improved Baselines with Momentum Contrastive Learning](https://dev.to/paperium/improved-baselines-with-momentum-contrastive-learning-4hk6)
-- [Dockerizing a React Task: A Hands-On DevOps Implementation](https://dev.to/hormogbolahan20/dockerizing-a-react-task-a-hands-on-devops-implementation-3kp7)
+- [Angular Signals vs RxJS — Do We Still Need Observables?](https://dev.to/rohit_singh_ee84e64941db7/angular-signals-vs-rxjs-do-we-still-need-observables-3of3)
+- [b0nes: The Framework That Actually Fits in Your Head &lpar;Yes, Really&rpar; Or: How I Learned to Stop Worrying and Love Zero Dependencies](https://dev.to/iggydotdev/b0nes-the-framework-that-actually-fits-in-your-head-yes-really-or-how-i-learned-to-stop-4mai)
+- [PowerPoint Borders: A complete step by step Guide to Make Your Slides Look Professional](https://dev.to/dhanusree_v_91cb434a13fdf/powerpoint-borders-a-complete-step-by-step-guide-to-make-your-slides-look-professional-9ip)
+- [Boosting Cloud Security with AI: A New Layer of Protection](https://dev.to/mabualzait/boosting-cloud-security-with-ai-a-new-layer-of-protection-jak)
+- [Plyr-react V6](https://dev.to/chintan121/plyr-react-v6-3o33)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
