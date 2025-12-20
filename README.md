@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Rockchip Update News: Latest Developments in Rockchip SoCs](https://dev.to/dongpei_liao_8092a14d7c50/rockchip-update-news-latest-developments-in-rockchip-socs-c24)
-- [I Built a Tool That Generates 160 Different Code Combinations from a Single Drag &amp; Drop — Here&#39;s How](https://dev.to/dgseo/i-built-a-tool-that-generates-160-different-code-combinations-from-a-single-drag-drop-heres-how-3kp0)
-- [Boost Developer Revenue with Monetzly&#39;s Conversational Ads](https://dev.to/monetzly/boost-developer-revenue-with-monetzlys-conversational-ads-1m85)
-- [I Built an MCP Server That Gives AI Agents Real-Time AWS Pricing Data](https://dev.to/constantquadruped/i-built-an-mcp-server-that-gives-ai-agents-real-time-aws-pricing-data-115d)
-- [AI News Roundup December 2025: OpenAI, Sam Altman, and What&#39;s Coming in 2026](https://dev.to/ethan_zhang_e501fea89c25b/ai-news-roundup-december-2025-openai-sam-altman-and-whats-coming-in-2026-54pf)
+- [[Boost]](https://dev.to/elizabethfuentes12/-3667)
+- [The Ultimate Guide to Capturing Leads in Zoho CRM from WordPress &lpar;2025 Edition&rpar;](https://dev.to/affectionate_code/the-ultimate-guide-to-capturing-leads-in-zoho-crm-from-wordpress-2025-edition-37ae)
+- [Understanding the Request–Response Model](https://dev.to/code_with_drew/understanding-the-request-response-model-3c9o)
+- [[Boost]](https://dev.to/fernandosilvot/-30k4)
+- [Build Agentic Video Analysis with TwelveLabs Pegasus in minutes](https://dev.to/aws/build-agentic-video-analysis-with-twelvelabs-pegasus-and-strands-agents-sdk-5a0m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
