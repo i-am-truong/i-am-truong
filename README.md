@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Copilot Agent Skills: Teaching AI Your Repository Patterns](https://dev.to/qa-leaders/github-copilot-agent-skills-teaching-ai-your-repository-patterns-1oa8)
-- [Building a Page-Level PDF Processing Pipeline for Smarter RAG Systems](https://dev.to/steravy/building-a-page-level-pdf-processing-pipeline-for-smarter-rag-systems-3bgm)
-- [Phishing-Resistant Sign-In: What Developers Can Do Now &lpar;Without Turning UX Into a Nightmare&rpar;](https://dev.to/sonia_bobrik_1939cdddd79d/phishing-resistant-sign-in-what-developers-can-do-now-without-turning-ux-into-a-nightmare-3di6)
-- [SaaS Trends That Are Reshaping Cloud Software and Modern Development](https://dev.to/techgenius/saas-trends-that-are-reshaping-cloud-software-and-modern-development-2fgk)
-- [I Built an AI Tool That Redesigns Any Website in Seconds &lpar;Here’s Why&rpar;](https://dev.to/web5lab_938e9096be8dc3e78/i-built-an-ai-tool-that-redesigns-any-website-in-seconds-heres-why-4e8p)
+- [Christmas thoughts: Why Senior Engineers hate &quot;cool&quot; new frameworks &lpar;and why you should too&rpar;.](https://dev.to/the_nortern_dev/christmas-thoughts-why-senior-engineers-hate-cool-new-frameworks-and-why-you-should-too-1a28)
+- [Ultimate React Hooks Guide](https://dev.to/tenelabs/ultimate-react-hooks-guide-15e1)
+- [**Beyond Red-Yellow-Green: The Rise of RAG Systems 2](https://dev.to/drcarlosruizviquez/beyond-red-yellow-green-the-rise-of-rag-systems-2-4non)
+- [I Completely Moved from AWS Lambda to Azure Functions Because of This One Feature](https://dev.to/pratikpathak/i-completely-moved-from-aws-lambda-to-azure-functions-because-of-this-one-feature-262b)
+- [Multi-Container Web Application with Nginx Reverse Proxy and Docker Compose](https://dev.to/bala_audu_musa/multi-container-web-application-with-nginx-reverse-proxy-and-docker-compose-db4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
