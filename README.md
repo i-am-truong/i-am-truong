@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why I Still Build Things No One Will Ever Use](https://dev.to/zerotrustzeroenergy/why-i-still-build-things-no-one-will-ever-use-4pgd)
 - [I built svg4.ru — a high-performance SVG icons platform on Laravel 12](https://dev.to/bau_59/i-built-svg4ru-a-high-performance-svg-icons-platform-on-laravel-12-1h32)
 - [How to Deploy a Voice AI Agent Using Railway for eCommerce Success](https://dev.to/callstacktech/how-to-deploy-a-voice-ai-agent-using-railway-for-ecommerce-success-3bkl)
 - [AI Coding Assistants in 2025: Why They Still Fail at Complex Tasks](https://dev.to/dataformathub/ai-coding-assistants-in-2025-why-they-still-fail-at-complex-tasks-ke)
 - [Part 06: Building a Sovereign Software Factory: SonarQube Quality Gates](https://dev.to/warren_jitsing_dd1c1d6fc6/part-06-building-a-sovereign-software-factory-sonarqube-quality-gates-5499)
-- [Requests vs Selenium vs Scrapy: Which Web Scraping Tool Should You Actually Use?](https://dev.to/ikram_khan/requests-vs-selenium-vs-scrapy-which-web-scraping-tool-should-you-actually-use-1ipi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
