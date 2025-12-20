@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🛡️ AWS Config Drift Detection Lab - Beginner-Friendly Guide](https://dev.to/ldwit/aws-config-drift-detection-lab-beginner-friendly-guide-39c8)
+- [Mastering Custom Validation Annotations in Spring Boot 3: Beyond @NotNull](https://dev.to/aquib_javed_e55c5b2494560/mastering-custom-validation-annotations-in-spring-boot-3-beyond-notnull-27i3)
+- [My second day with Antigravity](https://dev.to/tomokat/my-second-day-with-antigravity-3hpd)
+- [Best AI Models for Agentic Vibe Coding in VS Code &lpar;December 2025&rpar;](https://dev.to/danishashko/best-ai-models-for-agentic-vibe-coding-in-vs-code-december-2025-3bkd)
 - [From Beginner to Pro: Mastering State Management with TanStack Query v5](https://dev.to/rajat128/from-beginner-to-pro-mastering-state-management-with-tanstack-query-v5-3hp6)
-- [Crea tu propia Agencia de Marketing AI Local: Local, Privada y Open Source](https://dev.to/matias_palomino_3633381b8/crea-tu-propia-agencia-de-marketing-ai-local-local-privada-y-open-source-32an)
-- [How to get Location from Text in Apple Shortcuts](https://dev.to/leafchage/how-to-get-location-from-text-in-apple-shortcuts-2nbm)
-- [Using CuCollections Nvidia Data Structures Library](https://dev.to/murage_kibicho_b1d9cc21/using-cucollections-nvidia-data-structures-library-44mn)
-- [What could be the best Micro Achievement at the beginning of a Micro Business??](https://dev.to/johnnysturat/what-could-be-the-best-micro-achievement-at-the-beginning-of-a-micro-business-3431)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
