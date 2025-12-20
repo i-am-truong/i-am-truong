@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a SaaS to solve my own problem — now I’m unsure whether to scale it or move on](https://dev.to/rushikesh_bodakhe_db28644/i-built-a-saas-to-solve-my-own-problem-now-im-unsure-whether-to-scale-it-or-move-on-391j)
-- [How I Built an MCP App to Roast My GitHub Year in Review](https://dev.to/blackgirlbytes/how-i-built-an-mcp-app-to-roast-my-github-year-in-review-28gh)
-- [Tiramisu 3.0: From Response Generation to Decision Governance](https://dev.to/tiramisuframework/tiramisu-30-from-response-generation-to-decision-governance-2goo)
-- [Google Cloud Platform &lpar;GCP&rpar; Explained | The Engineer’s Cloud ☁️](https://dev.to/kaustubhyerkade/google-cloud-platform-gcp-explained-the-engineers-cloud-1j6)
-- [Unleash Your Code: The Magic of AgenticAI](https://dev.to/hkj13/unleash-your-code-the-magic-of-agenticai-4300)
+- [AI-Native GUI SDK: Performance &amp; Models Are NOT Defined Here](https://dev.to/hejhdiss/ai-native-gui-sdk-performance-models-are-not-defined-here-38og)
+- [Python Optimization Fails When You Skip This One Step](https://dev.to/emmimal_alexander_3be8cc7/python-optimization-fails-when-you-skip-this-one-step-3pgb)
+- [The Ghost in the Machine: Is Your Software Secretly Sabotaging Your SEO?](https://dev.to/gandolfslayer/the-ghost-in-the-machine-is-your-software-secretly-sabotaging-your-seo-4kl7)
+- [Does Your AI Agent Need a Plan?](https://dev.to/blackgirlbytes/does-your-ai-agent-need-a-plan-4ic7)
+- [From Mobile UX Expectations to Better Tabs on the Web](https://dev.to/maicongilton/from-mobile-ux-expectations-to-better-tabs-on-the-web-3h7k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
