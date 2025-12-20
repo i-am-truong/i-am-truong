@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Best Practices for VFX Pipeline Automation with Python](https://dev.to/teevirta/best-practices-for-vfx-pipeline-automation-with-python-39m2)
-- [Langjam Gamejam](https://dev.to/__masashi__/langjam-gamejam-489d)
-- [Building a Real-World Kubernetes Disaster Recovery &amp; Backup Automation System](https://dev.to/psjcoder0717/building-a-real-world-kubernetes-disaster-recovery-backup-automation-system-en)
-- [Deploy Node.js on Linux with Nginx and PM2 — a practical beginner’s guide](https://dev.to/prateekshaweb/deploy-nodejs-on-linux-with-nginx-and-pm2-a-practical-beginners-guide-3gdm)
-- [Next.js + TailwindCSS v4: How to Add Dark/Light Theme with Next-Themes](https://dev.to/khanrabiul/nextjs-tailwindcss-v4-how-to-add-darklight-theme-with-next-themes-3c6l)
+- [Return of “One Tool, Many Brains: Building a Multi-Model DevOps Architect”](https://dev.to/aairom/return-of-one-tool-many-brains-building-a-multi-model-devops-architect-57pd)
+- [Why Backend Developers Love Go: 5 New Features Explained Simply](https://dev.to/alvisonhunter/why-backend-developers-love-go-5-new-features-explained-simply-3e5g)
+- [Decode JWT Tokens from the Command Line Like a Pro](https://dev.to/iamdevbox/decode-jwt-tokens-from-the-command-line-like-a-pro-2c59)
+- [React Fragments Explained: How to Group Elements Without Extra DOM Nodes](https://dev.to/ahmad_mahboob/react-fragments-explained-how-to-group-elements-without-extra-dom-nodes-378a)
+- [How to Integrate Google Play In-App Purchases Using RevenueCat](https://dev.to/devmastermind/how-to-integrate-google-play-in-app-purchases-using-revenuecat-2jab)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
