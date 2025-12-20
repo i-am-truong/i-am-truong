@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Preparing for GCP Security Certification? Here&#39;s What Actually Worked for Me](https://dev.to/ankurlibra/preparing-for-gcp-security-certification-heres-what-actually-worked-for-me-2pmc)
-- [Day 1 of building ScrapeForge in public](https://dev.to/vishwas-batra/day-1-of-building-scrapeforge-in-public-3bf2)
-- [AWS Bedrock AgentCore Hands-On Workshop: A Recap](https://dev.to/soniv/aws-bedrock-agentcore-hands-on-workshop-a-recap-3pap)
-- [Artificial Intelligence &lpar;AI&rpar;: From Data to Decision-Making Systems](https://dev.to/ravirscott/artificial-intelligence-ai-from-data-to-decision-making-systems-3ji8)
-- [[Boost]](https://dev.to/safwa1_dev/-1hd8)
+- [I built an experimental open-source tool to run Node.js and Python without Docker](https://dev.to/frosty_79b41a081559ee9eb2/i-built-an-experimental-open-source-tool-to-run-nodejs-and-python-without-docker-3i21)
+- [AgentCore Explained: AWS’s Serverless Runtime for Production-Grade AI Agents](https://dev.to/kishore_karumanchi_acbc18/agentcore-explained-awss-serverless-runtime-for-production-grade-ai-agents-4e04)
+- [2025 Complete Guide: Qwen-Image-Layered - Revolutionary AI Image Layer Decomposition Technology](https://dev.to/czmilo/2025-complete-guide-qwen-image-layered-revolutionary-ai-image-layer-decomposition-technology-4mm7)
+- [Permutations &amp; Next Permutation](https://dev.to/zeeshanali0704/permutations-next-permutation-25hg)
+- [Beyond the Stats: How I Built Textideo.com in 6 Months of Silence](https://dev.to/duke897/beyond-the-stats-how-i-built-textideocom-in-6-months-of-silence-1c52)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
