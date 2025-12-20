@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Browser Extensions - Native Messaging](https://dev.to/programador51/browser-extensions-native-messaging-21am)
+- [LiveShell — Interactive Reverse Shell Generator](https://dev.to/pwn/liveshell-interactive-reverse-shell-generator-42j6)
 - [Building a Production-Ready E-Commerce Platform with React: A Complete Walkthrough](https://dev.to/robsonmuniz16/building-a-production-ready-e-commerce-platform-with-react-a-complete-walkthrough-5d3b)
 - [Why I Built Stoqyy](https://dev.to/vjygour/why-i-built-stoqyy-516k)
 - [🛡️ AWS 109: The Ultimate Safety Net - Enabling EC2 Termination Protection](https://dev.to/hritikraj8804/aws-109-the-ultimate-safety-net-enabling-ec2-termination-protection-3op7)
-- [DEV Track Spotlight: Building Agentic AI - Amazon Nova Act and Strands Agents in Practice &lpar;DEV327&rpar;](https://dev.to/aws/dev-track-spotlight-building-agentic-ai-amazon-nova-act-and-strands-agents-in-practice-dev327-3hbj)
-- [What Is the Impact of Quota and Spike Arrest on Latency in Apigee X?](https://dev.to/realnamehidden1_61/what-is-the-impact-of-quota-and-spike-arrest-on-latency-in-apigee-x-d08)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
