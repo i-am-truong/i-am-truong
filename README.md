@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [#1 Cloud &amp; Coffee - AWS UG Medan](https://dev.to/aws-builders/1-cloud-coffee-aws-ug-medan-on3)
-- [Coding a startup - Defining OMX nodes](https://dev.to/idevbrandon/coding-a-startup-defining-omx-nodes-4li2)
-- [Fanout at Scale: Push vs. Pull Strategies in Distributed Systems](https://dev.to/ahsanfarooq210/fanout-at-scale-push-vs-pull-strategies-in-distributed-systems-228l)
-- [Deep dive Tainted Grail [4] - MipMaps streaming](https://dev.to/kamilvdono/deep-dive-tainted-grail-4-mipmaps-streaming-1aj3)
-- [Launcher3 Modularization-Componentization](https://dev.to/chuck9091/launcher3-modularization-componentization-2pf7)
+- [I built a lightweight Changelog Widget because I hate heavy scripts](https://dev.to/fliqz/i-built-a-lightweight-changelog-widget-because-i-hate-heavy-scripts-292l)
+- [Meet Xenoglaux-AI: The Next-Gen Text Generator AI 🦉✨](https://dev.to/puneetkumar2010/meet-xenoglaux-ai-the-next-gen-text-generator-ai-4b3)
+- [Openinary: The Self-Hosted Cloudinary Alternative Nobody Built Before](https://dev.to/florianheysen/openinary-the-self-hosted-cloudinary-alternative-nobody-built-before-25po)
+- [Building my first Claude Code Plugin](https://dev.to/scott_raisbeck_24ea5fbc1e/building-my-first-claude-code-plugin-26ka)
+- [The Algorithm, The New Year&#39;s Resolution: Your 2026 Coding Interview Manifesto](https://dev.to/nirajkvinit1/the-algorithm-the-new-years-resolution-your-2026-coding-interview-manifesto-2mbi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
