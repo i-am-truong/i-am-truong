@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Choosing the Right Online Document Translator in 2025 &lpar;A Practical Guide&rpar;](https://dev.to/shruti_saraswat_c258d5934/choosing-the-right-online-document-translator-in-2025-a-practical-guide-1lj3)
+- [🛠 Local LLM Ops 2025: A Developer&#39;s Guide to Running Pocket-Sized Neural Networks](https://dev.to/lag_lagendary/local-llm-ops-2025-a-developers-guide-to-running-pocket-sized-neural-networks-4djo)
+- [Coderive - A New Programming Language of 2025](https://dev.to/danexcodr/coderive-a-new-programming-language-of-2025-3047)
+- [Playwright: Test Structure &lpar;Tiny part that bring a huge impact&rpar;](https://dev.to/mochammmad_alie/playwright-test-structure-tiny-part-that-bring-a-huge-impact-43mj)
 - [The Interview Question That Made Me Rethink My Architecture: Understanding Domain‑Driven Design](https://dev.to/timleunghk/the-interview-question-that-made-me-rethink-my-architecture-understanding-domain-driven-design-3ajh)
-- [Stop Shipping &quot;Zombie Tests&quot;: Introducing Project Vandal v0.2.0](https://dev.to/godhirajcode/stop-shipping-zombie-tests-introducing-project-vandal-v020-5fg2)
-- [Big Project I&#39;m making](https://dev.to/ryan_bae_5bd7d40241e52c14/big-project-im-making-2b81)
-- [5 Programming Patterns Every Developer Should Know](https://dev.to/farhadrahimiklie/5-programming-patterns-every-developer-should-know-d4p)
-- [The Secret Life of JavaScript: Asynchrony](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-asynchrony-2o5f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
