@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Strapi v4 v5 Overview: What Changed and Why It Matters](https://dev.to/tuner9696_len/strapi-v4-v5-overview-what-changed-and-why-it-matters-58k1)
-- [Custom Claude Code Skill: Auto-Generating / Updating Architecture Diagrams with Excalidraw](https://dev.to/yooi/custom-claude-code-skill-auto-generating-updating-architecture-diagrams-with-excalidraw-227k)
-- [A Low code web development platform](https://dev.to/giuseppesaponaro/a-low-code-web-development-platform-4l4n)
-- [Link Prediction in Complex Networks: A Survey](https://dev.to/paperium/link-prediction-in-complex-networks-a-survey-2lmc)
-- [Blink HTML Tag: How to Make Text Blink in HTML](https://dev.to/web_dev-usman/blink-html-tag-how-to-make-text-blink-in-html-5bjc)
+- [Understanding AIOps: A Simple Guide for DevOps &amp; Cloud Engineers](https://dev.to/ibne_sabidsaikat_1443282/understanding-aiops-a-simple-guide-for-devops-cloud-engineers-40k8)
+- [Ready to Move from Easy to Medium LeetCode? Check These Signs](https://dev.to/alex_hunter_44f4c9ed6671e/ready-to-move-from-easy-to-medium-leetcode-check-these-signs-48an)
+- [Enterprise Incident Management for Large-Scale IT Operations](https://dev.to/taskcall/enterprise-incident-management-for-large-scale-it-operations-337i)
+- [WhatsApp-Based AI Shopping Assistant with n8n](https://dev.to/sabbschow/whatsapp-based-ai-shopping-assistant-with-n8n-95k)
+- [Monetzly: The Future of AI Monetization for LLM Apps](https://dev.to/monetzly/monetzly-the-future-of-ai-monetization-for-llm-apps-4l5o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
