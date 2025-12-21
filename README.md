@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a lightweight Changelog Widget because I hate heavy scripts](https://dev.to/fliqz/i-built-a-lightweight-changelog-widget-because-i-hate-heavy-scripts-292l)
-- [Meet Xenoglaux-AI: The Next-Gen Text Generator AI 🦉✨](https://dev.to/puneetkumar2010/meet-xenoglaux-ai-the-next-gen-text-generator-ai-4b3)
-- [Openinary: The Self-Hosted Cloudinary Alternative Nobody Built Before](https://dev.to/florianheysen/openinary-the-self-hosted-cloudinary-alternative-nobody-built-before-25po)
-- [Building my first Claude Code Plugin](https://dev.to/scott_raisbeck_24ea5fbc1e/building-my-first-claude-code-plugin-26ka)
-- [The Algorithm, The New Year&#39;s Resolution: Your 2026 Coding Interview Manifesto](https://dev.to/nirajkvinit1/the-algorithm-the-new-years-resolution-your-2026-coding-interview-manifesto-2mbi)
+- [How to Build Production-Grade Agentic AI](https://dev.to/sachinchaurasiya/how-to-build-production-grade-agentic-ai-lj3)
+- [How the New US Tax Framework Could Shape the Market in 2026](https://dev.to/dan_keller/how-the-new-us-tax-framework-could-shape-the-market-in-2026-1h11)
+- [🕹️ Retro Revival: Pitting Human vs. A* Search Intelligence](https://dev.to/shyamli_khadse_c2671d46cb/retro-revival-pitting-human-vs-a-search-intelligence-3294)
+- [How My Medicine Student Girlfriend Completed Simple Development Tasks for Me](https://dev.to/biostate/how-my-medicine-student-girlfriend-completed-simple-development-tasks-for-me-1e94)
+- [Node.js Security Basics: Rate Limiting, Input Sanitization, and Helmet Setup](https://dev.to/prateekshaweb/nodejs-security-basics-rate-limiting-input-sanitization-and-helmet-setup-2hf2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
