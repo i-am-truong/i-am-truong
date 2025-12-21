@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Learn as a Software Engineer: Lessons from The Pragmatic Programmer](https://dev.to/sherwinwater/reading-notesthe-pragmatic-programmer-2gm5)
-- [Learning as a Software Engineer Is Not About Reading — It’s About Applying](https://dev.to/sherwinwater/learning-as-a-software-engineer-is-not-about-reading-its-about-applying-2i9)
-- [Introducing temporal-contract: Type-Safe Temporal. io Workflows for TypeScript](https://dev.to/btravers/introducing-temporal-contract-type-safe-temporal-io-workflows-for-typescript-29f3)
-- [State machines as business logic engines](https://dev.to/takueg/state-machines-as-business-logic-engines-1i0e)
-- [Como experto en PLD, me gustaría abordar algunos de los desa](https://dev.to/drcarlosruizviquez/como-experto-en-pld-me-gustaria-abordar-algunos-de-los-desa-48d8)
+- [How I Made a Transparent Tor Proxy with Dead Man&#39;s Switch](https://dev.to/0xjerry__/how-i-made-a-transparent-tor-proxy-with-dead-mans-switch-3ic7)
+- [Kubernetes in Late 2025: Adoption Stats, Challenges, and Why It&#39;s Still the King of Cloud-Native](https://dev.to/meena_nukala_1154d49b984d/kubernetes-in-late-2025-adoption-stats-challenges-and-why-its-still-the-king-of-cloud-native-p7j)
+- [Minimum Main Member Principle](https://dev.to/stakiran/minimum-main-member-principle-3330)
+- [Platform Engineering in 2026: The Numbers Behind the Boom and Why It&#39;s Transforming DevOps](https://dev.to/meena_nukala_1154d49b984d/platform-engineering-in-2026-the-numbers-behind-the-boom-and-why-its-transforming-devops-381l)
+- [Kindling Cognitive Complexity with AI](https://dev.to/mabualzait/kindling-cognitive-complexity-with-ai-458l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
