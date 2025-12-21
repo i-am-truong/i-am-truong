@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Control centralizado de S3 Block Public Access a nivel organizacional &lpar;en español sencillo&rpar;](https://dev.to/pangoro24/control-centralizado-de-s3-block-public-access-a-nivel-organizacional-en-espanol-sencillo-4n2j)
+- [How We Solved Western Consulting Firm’s Phone Number Nightmare](https://dev.to/faraz_farhan_83ed23a154a2/01670-309-328-vs-8801670309328-how-we-solved-western-consulting-firms-phone-number-nightmare-3d33)
+- [Code Chronicle](https://dev.to/rmion/code-chronicle-3e2l)
 - [💥 Break your API before your users do. Automated Network Chaos for CI/CD.](https://dev.to/aragossa/chaos-network-proxy-3cbf)
 - [Nuxt Tutorial 7 - Adopting CSS](https://dev.to/aloisseckar/nuxt-tutorial-7-adopting-css-1m2a)
-- [Advent of AI 2025 - Day 15: Goose Sub-Recipes](https://dev.to/nickytonline/advent-of-ai-2025-day-15-goose-sub-recipes-3mnd)
-- [Franken breakfast](https://dev.to/preetha_vaishnavi_2b82358/franken-breakfast-fp7)
-- [Brewing Cappuccino: Writing a compiler without LLVM&#39;s IR](https://dev.to/anirudh_mathur_3d39255a4b/brewing-cappuccino-writing-a-compiler-without-llvms-ir-5gi4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
