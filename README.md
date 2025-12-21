@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Lost a Week to a Physics Bug in a Multiplayer Golf Game](https://dev.to/asaleg/i-lost-a-week-to-a-physics-bug-in-a-multiplayer-golf-game-2f4d)
-- [RGB text](https://dev.to/preetha_vaishnavi_2b82358/rgb-text-50k8)
-- [Understanding AWS Costs in Practice: Billing Behavior, Pricing Models, and Optimization Patterns](https://dev.to/manishpcp/understanding-aws-costs-in-practice-billing-behavior-pricing-models-and-optimization-patterns-16ed)
-- [Carific.ai: Building a Flicker-Free PDF Viewer with React - The Dual-Document Pattern](https://dev.to/abdullahjan/carificai-building-a-flicker-free-pdf-viewer-with-react-the-dual-document-pattern-3p5a)
-- [Just launched my portfolio! 🚀](https://dev.to/karan_bhalodiya/just-launched-my-portfolio-1jfe)
+- [React Google Places Autocomplete – Modern, TypeScript-Friendly Component](https://dev.to/iresh96/react-google-places-autocomplete-modern-typescript-friendly-component-2f4d)
+- [Unleash Global Streaming with Nocturne VPN: A Developer&#39;s Guide](https://dev.to/mitul_chovatiya_e568824a5/unleash-global-streaming-with-nocturne-vpn-a-developers-guide-32e7)
+- [How to make software?? - The Right Tool](https://dev.to/kartik_patel/how-to-make-software-the-right-tool-g0h)
+- [Amazon ECR - Architecture &amp; Security](https://dev.to/oncloud7/amazon-ecr-architecture-security-384h)
+- [CVE-2025-3248: Kerentanan Kritis pada Platform AI Langflow dan Cara Melindungi Jaringan Anda](https://dev.to/altashfirs/cve-2025-3248-kerentanan-kritis-pada-platform-ai-langflow-dan-cara-melindungi-jaringan-anda-31ko)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
