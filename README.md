@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Managing multiple Playwright projects?](https://dev.to/js_js/managing-multiple-playwright-projects-3ole)
-- [Vibe Coding: How Far Should We Use It? Best Practices, Limits, and Risks](https://dev.to/speaklouder/vibe-coding-how-far-should-we-use-it-best-practices-limits-and-risks-4cj4)
-- [Withdraw When Redundant: Why Building a Product is Like Watching My Daughter Ride Away](https://dev.to/elevenapril/withdraw-when-redundant-why-building-a-product-is-like-watching-my-daughter-ride-away-dgp)
-- [Cloud-Based vs. Cloud-Native: Understanding the DNA of Modern Infrastructure](https://dev.to/tech_croc_f32fbb6ea8ed4/cloud-based-vs-cloud-native-understanding-the-dna-of-modern-infrastructure-1jc1)
-- [Stop The Relay Race: A Field Guide to &quot;Tiger Teams&quot; in Legacy Systems](https://dev.to/jmontagne/stop-the-relay-race-a-field-guide-to-tiger-teams-in-legacy-systems-3jk0)
+- [PearPass Desktop — Open-Source Peer-to-Peer Password Manager Built on Pear Runtime](https://dev.to/bitwiserokos/pearpass-desktop-open-source-peer-to-peer-password-manager-built-on-pear-runtime-1kop)
+- [From Zero to RWA: My 14-Day Journey Building on Mantle](https://dev.to/azharpratama/from-zero-to-rwa-my-14-day-journey-building-on-mantle-1043)
+- [Access AWS RDS without Password - use IAM](https://dev.to/ashraf-minhaj/access-aws-rds-without-password-use-iam-1baf)
+- [DiscovAI Search — Open‑Source AI Search Engine for Tools, Docs, and Custom Data](https://dev.to/bitwiserokos/discovai-search-open-source-ai-search-engine-for-tools-docs-and-custom-data-4ko0)
+- [The Power of Gemini inside Trello: Building an LLM Assistant with Firebase Genkit](https://dev.to/denisvalasek/the-power-of-gemini-inside-trello-building-an-llm-assistant-with-firebase-genkit-3dh2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
