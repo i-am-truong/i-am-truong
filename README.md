@@ -120,11 +120,13 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [https://hmpl-lang.dev - new website](https://dev.to/anthonymax/httpshmpl-langdev-new-website-1gib)
-- [ASP .NET Core IDisplayMetadataProvider](https://dev.to/karenpayneoregon/asp-net-core-idisplaymetadataprovider-46al)
-- [Switching APM providers without the headache](https://dev.to/rodrigonbarreto/switching-apm-providers-without-the-headache-4gh2)
-- [How I built AI model that plays Whot! card game](https://dev.to/matho/how-i-built-ai-model-that-plays-whot-card-game-k1k)
-- [The fear](https://dev.to/pedro9928/the-fear-58kj)
+- [This year, commuting again brought back something I had missed: time to listen. 🎧
+
+I wrote a short reflection on how audiobooks accompanied a year of professional growth, shifting perspectives, and becoming a first-time father.](https://dev.to/joachimzeelmaekers/this-year-commuting-again-brought-back-something-i-had-missed-time-to-listen-i-wrote-a-2a4f)
+- [Listening Through a Year of Change](https://dev.to/joachimzeelmaekers/listening-through-a-year-of-change-25jf)
+- [I Built a Random Picker Tool in 1 Day - Here&#39;s How](https://dev.to/vamsi_thatikonda_a67b1141/i-built-a-random-picker-tool-in-1-day-heres-how-40hc)
+- [Build the CMS we always wanted: MonkeysCMS &lpar;contributors wanted&rpar;](https://dev.to/yorchperaza/build-the-cms-we-always-wanted-monkeyscms-contributors-wanted-4oed)
+- [Part 3: AMQP Setup and Calls - Ktor Native Worker Tutorial](https://dev.to/nathanfallet/part-3-amqp-setup-and-calls-ktor-native-worker-tutorial-2o6d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
