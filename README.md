@@ -123,8 +123,8 @@ Python                   1 repo              █░░░░░░░░░░�
 - [https://hmpl-lang.dev - new website](https://dev.to/anthonymax/httpshmpl-langdev-new-website-1gib)
 - [ASP .NET Core IDisplayMetadataProvider](https://dev.to/karenpayneoregon/asp-net-core-idisplaymetadataprovider-46al)
 - [Switching APM providers without the headache](https://dev.to/rodrigonbarreto/switching-apm-providers-without-the-headache-4gh2)
-- [Trocando de APM sem dor de cabeça](https://dev.to/rodrigonbarreto/trocando-de-apm-sem-dor-de-cabeca-ld7)
-- [Mean Time to Understanding 🤔: The Irreducible Human Element in the Age of Infinite Code 🤖.](https://dev.to/grahamthedev/mean-time-to-understanding-the-irreducible-human-element-in-the-age-of-infinite-code--i2o)
+- [How I built AI model that plays Whot! card game](https://dev.to/matho/how-i-built-ai-model-that-plays-whot-card-game-k1k)
+- [The fear](https://dev.to/pedro9928/the-fear-58kj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
