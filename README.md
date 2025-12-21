@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Launching Online Tools X: 100+ Privacy-First Browser Tools &lpar;Your Digital Swiss Army Knife&rpar;](https://dev.to/techno_kraft_in/launching-online-tools-x-100-privacy-first-browser-tools-your-digital-swiss-army-knife-37o7)
+- [Writing AI-Friendly Specs: A Developer&#39;s Practical Guide](https://dev.to/_jeongyuhyeon_03de1/writing-ai-friendly-specs-a-developers-practical-guide-3334)
+- [Launch: Interactive 3D Product Configurator](https://dev.to/rajatdatta099/launch-interactive-3d-product-configurator-n3d)
+- [Leafwiki v0.5.2 - is out - dark mode and Markdown improvements](https://dev.to/perber/leafwiki-v052-is-out-dark-mode-and-markdown-improvements-2l87)
 - [From Idea to Launch: How Developers Can Build Successful Startups](https://dev.to/thebitforge/from-idea-to-launch-how-developers-can-build-successful-startups-50dk)
-- [Building an A/B Testing System with CloudFront Functions using AWS CDK](https://dev.to/aws-builders/building-an-ab-testing-system-with-cloudfront-functions-using-aws-cdk-omo)
-- [Announcing Chaos Proxy API: Automate Network Chaos in CI/CD 🚀](https://dev.to/aragossa/announcing-chaos-proxy-api-automate-network-chaos-in-cicd-1lac)
-- [🦚 When Krishna Codes: A Question for Developers](https://dev.to/rajguru_yadav_56d13a7b8fc/when-krishna-codes-a-question-for-developers-3jbo)
-- [𝗩𝗼𝗶𝗰𝗲 𝗔𝗜: 𝗖𝗼𝗻𝘁𝗲𝘅𝘁 &amp; 𝗠𝗲𝗺𝗼𝗿𝘆 - 𝗪𝗵𝘆 𝗖𝗼𝗻𝘃𝗲𝗿𝘀𝗮𝘁𝗶𝗼𝗻𝘀 𝗗𝗼𝗻&#39;𝘁 𝗥𝗲𝘀𝗲𝘁](https://dev.to/wanjohichristopher/--4c64)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
