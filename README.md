@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Strapi v4 v5 Overview: What Changed and Why It Matters](https://dev.to/tuner9696_len/strapi-v4-v5-overview-what-changed-and-why-it-matters-58k1)
 - [Custom Claude Code Skill: Auto-Generating / Updating Architecture Diagrams with Excalidraw](https://dev.to/yooi/custom-claude-code-skill-auto-generating-updating-architecture-diagrams-with-excalidraw-227k)
 - [A Low code web development platform](https://dev.to/giuseppesaponaro/a-low-code-web-development-platform-4l4n)
 - [Link Prediction in Complex Networks: A Survey](https://dev.to/paperium/link-prediction-in-complex-networks-a-survey-2lmc)
 - [Blink HTML Tag: How to Make Text Blink in HTML](https://dev.to/web_dev-usman/blink-html-tag-how-to-make-text-blink-in-html-5bjc)
-- [I Built a VS Code Extension That Turns GitHub Copilot Into a Full OpenAI-Compatible API](https://dev.to/suhaibbinyounis/i-built-a-vs-code-extension-that-turns-github-copilot-into-a-full-openai-compatible-api-21bn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
