@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [⚡ RDMA: The Networking Tech That Quietly Runs the Modern Internet](https://dev.to/kaustubhyerkade/rdma-the-networking-tech-that-quietly-runs-the-modern-internet-1f2e)
 - [Gradient Descent: The Algorithm That Taught Machines to Learn](https://dev.to/aasikkkk/gradient-descent-the-algorithm-that-taught-machines-to-learn-29cj)
 - [Building a Scalable RAG System for Repository Intelligence](https://dev.to/nash9/building-a-scalable-rag-system-for-repository-intelligence-jn7)
 - [Vue + any js library &lpar;like D3.js, Chart.js etc&rpar;](https://dev.to/vlt/vue-any-js-library-like-d3js-chartjs-etc-4m57)
 - [Is Traditional Software Engineering Dead?](https://dev.to/standupify/is-traditional-software-engineering-dead-1pcp)
-- [Complete Guide to JWT Authentication in Next.js 15: From Setup to Production](https://dev.to/sizan_mahmud0_e7c3fd0cb68/complete-guide-to-jwt-authentication-in-nextjs-15-from-setup-to-production-3cf4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
