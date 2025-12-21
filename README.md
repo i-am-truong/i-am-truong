@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Custom Claude Code Skill: Auto-Generating / Updating Architecture Diagrams with Excalidraw](https://dev.to/yooi/custom-claude-code-skill-auto-generating-updating-architecture-diagrams-with-excalidraw-227k)
+- [A Low code web development platform](https://dev.to/giuseppesaponaro/a-low-code-web-development-platform-4l4n)
+- [Link Prediction in Complex Networks: A Survey](https://dev.to/paperium/link-prediction-in-complex-networks-a-survey-2lmc)
 - [Blink HTML Tag: How to Make Text Blink in HTML](https://dev.to/web_dev-usman/blink-html-tag-how-to-make-text-blink-in-html-5bjc)
 - [I Built a VS Code Extension That Turns GitHub Copilot Into a Full OpenAI-Compatible API](https://dev.to/suhaibbinyounis/i-built-a-vs-code-extension-that-turns-github-copilot-into-a-full-openai-compatible-api-21bn)
-- [Data Races in Go: Detecting, Debugging, and Fixing Concurrency Bugs in Production](https://dev.to/serifcolakel/data-races-in-go-detecting-debugging-and-fixing-concurrency-bugs-in-production-29pm)
-- [My Java Spring Boot Journey Starts](https://dev.to/tejas_agravat_1a781f196b0/my-java-spring-boot-journey-starts-12o0)
-- [From a Reel Comment to Open Source: Introducing ClipMotion](https://dev.to/nerdboi008/from-a-reel-comment-to-open-source-introducing-clipmotion-3i0h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
