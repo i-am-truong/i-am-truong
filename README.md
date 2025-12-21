@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [EKS Disaster Recovery, Simplified: Native Backups with AWS Backup](https://dev.to/sadebare/eks-disaster-recovery-simplified-native-backups-with-aws-backup-15g4)
+- [ECR can create automaticaly when image pushed](https://dev.to/shiruta/ecr-can-create-automaticaly-when-image-pushed-38f)
 - [Functional testing: the boring basics that catch real bugs](https://dev.to/kelina_cowell_qa/functional-testing-the-boring-basics-that-catch-real-bugs-1ion)
 - [Integrating Zapier MCP into a Chat System](https://dev.to/thisisharsh7/integrating-zapier-mcp-into-a-chat-system-41lf)
 - [# File Transfer Over TCP: A Practical Guide for Developers](https://dev.to/sudiip__17/-file-transfer-over-tcp-a-practical-guide-for-developers-130n)
-- [The Death of Boredom: How We Killed Quiet and What It Cost the Human Soul](https://dev.to/gandolfslayer/the-death-of-boredom-how-we-killed-quiet-and-what-it-cost-the-human-soul-8oi)
-- [Modern Alternatives: Flask-SocketIO vs. FastAPI and Quart](https://dev.to/deepak_mishra_35863517037/modern-alternatives-flask-socketio-vs-fastapi-and-quart-5gh6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
