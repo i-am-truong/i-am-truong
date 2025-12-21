@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [💥 Break your API before your users do. Automated Network Chaos for CI/CD.](https://dev.to/aragossa/chaos-network-proxy-3cbf)
+- [Nuxt Tutorial 7 - Adopting CSS](https://dev.to/aloisseckar/nuxt-tutorial-7-adopting-css-1m2a)
+- [Advent of AI 2025 - Day 15: Goose Sub-Recipes](https://dev.to/nickytonline/advent-of-ai-2025-day-15-goose-sub-recipes-3mnd)
 - [Franken breakfast](https://dev.to/preetha_vaishnavi_2b82358/franken-breakfast-fp7)
 - [Brewing Cappuccino: Writing a compiler without LLVM&#39;s IR](https://dev.to/anirudh_mathur_3d39255a4b/brewing-cappuccino-writing-a-compiler-without-llvms-ir-5gi4)
-- [Single div CSS breakfast](https://dev.to/preetha_vaishnavi_2b82358/single-div-css-breakfast-59nl)
-- [Getting Started with Ansible: From Zero to Installing Apache on AWS](https://dev.to/jayanth_dasari_7/getting-started-with-ansible-from-zero-to-installing-apache-on-aws-4ikp)
-- [I Saw an Instagram Reel Last Night. Now I Built a Bionic Reading Extension.](https://dev.to/zenoguy/i-saw-an-instagram-reel-last-night-now-i-built-a-bionic-reading-extension-1gpe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
