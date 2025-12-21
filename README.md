@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to keep your OSX awake after closing screen](https://dev.to/jimquote/how-to-keep-your-osx-awake-after-closing-screen-551k)
+- [From Idea to MVP: Building a SaaS in 30 Days as a Solo Developer](https://dev.to/rushikesh_bodakhe_db28644/from-idea-to-mvp-building-a-saas-in-30-days-as-a-solo-developer-44pp)
+- [Understanding Kafka Producer: From Basics to Sticky Partitioner](https://dev.to/hantedyou_0106/understanding-kafka-producer-from-basics-to-sticky-partitioner-48ap)
 - [Bringing Rockbox&#39;s Legendary Audio Engine to the Modern Desktop: A Native Port for Linux and macOS](https://dev.to/tsirysndr/bringing-rockboxs-legendary-audio-engine-to-the-modern-desktop-a-native-port-for-linux-and-macos-4hih)
 - [Unveiling the Power of Support Vector Machines in Machine Learning](https://dev.to/vjnvisakh/unveiling-the-power-of-support-vector-machines-in-machine-learning-2p32)
-- [Why Static Credit Scoring Fails in Modern FinTech Platforms](https://dev.to/turalmu95150474/why-static-credit-scoring-fails-in-modern-fintech-platforms-57ni)
-- [Soft Actor-Critic Algorithms and Applications](https://dev.to/paperium/soft-actor-critic-algorithms-and-applications-49)
-- [Vector AI Agent: The Future of Browser Automation](https://dev.to/pay_perreel_ed6ea36719f4/vector-ai-agent-the-future-of-browser-automation-dfd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
