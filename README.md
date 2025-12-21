@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Learn as a Software Engineer: Lessons from The Pragmatic Programmer](https://dev.to/sherwinwater/reading-notesthe-pragmatic-programmer-2gm5)
+- [Learning as a Software Engineer Is Not About Reading — It’s About Applying](https://dev.to/sherwinwater/learning-as-a-software-engineer-is-not-about-reading-its-about-applying-2i9)
+- [Introducing temporal-contract: Type-Safe Temporal. io Workflows for TypeScript](https://dev.to/btravers/introducing-temporal-contract-type-safe-temporal-io-workflows-for-typescript-29f3)
 - [State machines as business logic engines](https://dev.to/takueg/state-machines-as-business-logic-engines-1i0e)
 - [Como experto en PLD, me gustaría abordar algunos de los desa](https://dev.to/drcarlosruizviquez/como-experto-en-pld-me-gustaria-abordar-algunos-de-los-desa-48d8)
-- [I Built a Squad of AI Agents to Chase Invoices for Me](https://dev.to/fracabu/i-built-a-squad-of-ai-agents-to-chase-invoices-for-me-ojm)
-- [Testing de SPAs con Vitest Browser Mode: Velocidad de Unit Tests con Confianza E2E](https://dev.to/iagolast/testing-de-spas-con-vitest-browser-mode-velocidad-de-unit-tests-con-confianza-e2e-1be8)
-- [**Myth: Computer Vision is only effective for images and not](https://dev.to/drcarlosruizviquez/myth-computer-vision-is-only-effective-for-images-and-not-1a38)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
