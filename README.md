@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to SolidStart Hooks](https://dev.to/mayu2008/introduction-to-solidstart-hooks-2akg)
+- [Why Your Productivity Tools Are Actually Stealing Your Time](https://dev.to/flowweaver/why-your-productivity-tools-are-actually-stealing-your-time-1o83)
+- [Transform Conversations into Cash: Explore Monetzly&#39;s SDK Integration](https://dev.to/monetzly/transform-conversations-into-cash-explore-monetzlys-sdk-integration-1f88)
 - [How I Made a Transparent Tor Proxy with Dead Man&#39;s Switch](https://dev.to/0xjerry__/how-i-made-a-transparent-tor-proxy-with-dead-mans-switch-3ic7)
 - [Kubernetes in Late 2025: Adoption Stats, Challenges, and Why It&#39;s Still the King of Cloud-Native](https://dev.to/meena_nukala_1154d49b984d/kubernetes-in-late-2025-adoption-stats-challenges-and-why-its-still-the-king-of-cloud-native-p7j)
-- [Minimum Main Member Principle](https://dev.to/stakiran/minimum-main-member-principle-3330)
-- [Platform Engineering in 2026: The Numbers Behind the Boom and Why It&#39;s Transforming DevOps](https://dev.to/meena_nukala_1154d49b984d/platform-engineering-in-2026-the-numbers-behind-the-boom-and-why-its-transforming-devops-381l)
-- [Kindling Cognitive Complexity with AI](https://dev.to/mabualzait/kindling-cognitive-complexity-with-ai-458l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
