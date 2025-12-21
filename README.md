@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Transformers Really Think: Inside the Brain of an AI Language Model](https://dev.to/aiwithapex/how-transformers-really-think-inside-the-brain-of-an-ai-language-model-4e99)
-- [Echarts in Angular](https://dev.to/vspatil87/echarts-in-angular-427h)
-- [2026](https://dev.to/dillik/2026-5fk)
-- [Beyond input&lpar;&rpar;: Building Production-Ready Human-in-the-Loop AI Agents with LangGraph](https://dev.to/sreeni5018/beyond-input-building-production-ready-human-in-the-loop-ai-with-langgraph-2en9)
-- [Choosing the Right Online Document Translator in 2025 &lpar;A Practical Guide&rpar;](https://dev.to/shruti_saraswat_c258d5934/choosing-the-right-online-document-translator-in-2025-a-practical-guide-1lj3)
+- [Here are some things I discovered trying to find the a decent AI tool](https://dev.to/bdubs/here-are-some-things-i-discovered-trying-to-find-the-a-decent-ai-tool-24bh)
+- [The Missing Dot and the Birth of My First Search Engine](https://dev.to/fayzakseo/the-missing-dot-and-the-birth-of-my-first-search-engine-4fie)
+- [Fixing WebView2 Issues in Linux Bottles: How I Got It Working](https://dev.to/lionthehoon/fixing-webview2-issues-in-linux-bottles-how-i-got-it-working-1ab6)
+- [I Got Shadowbanned 12 Times Launching My Developer Tool](https://dev.to/mobin_poursalami_f30352a2/i-got-shadowbanned-12-times-launching-my-developer-tool-4jj)
+- [My Project-Based Learning Journey – Building Real Projects to Learn](https://dev.to/lone_wolf_22/my-project-based-learning-journey-building-real-projects-to-learn-55hc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
