@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [⚡ RDMA: The Networking Tech That Quietly Runs the Modern Internet](https://dev.to/kaustubhyerkade/rdma-the-networking-tech-that-quietly-runs-the-modern-internet-1f2e)
-- [Gradient Descent: The Algorithm That Taught Machines to Learn](https://dev.to/aasikkkk/gradient-descent-the-algorithm-that-taught-machines-to-learn-29cj)
-- [Building a Scalable RAG System for Repository Intelligence](https://dev.to/nash9/building-a-scalable-rag-system-for-repository-intelligence-jn7)
-- [Vue + any js library &lpar;like D3.js, Chart.js etc&rpar;](https://dev.to/vlt/vue-any-js-library-like-d3js-chartjs-etc-4m57)
-- [Is Traditional Software Engineering Dead?](https://dev.to/standupify/is-traditional-software-engineering-dead-1pcp)
+- [#1 Cloud &amp; Coffee - AWS UG Medan](https://dev.to/aws-builders/1-cloud-coffee-aws-ug-medan-on3)
+- [Coding a startup - Defining OMX nodes](https://dev.to/idevbrandon/coding-a-startup-defining-omx-nodes-4li2)
+- [Fanout at Scale: Push vs. Pull Strategies in Distributed Systems](https://dev.to/ahsanfarooq210/fanout-at-scale-push-vs-pull-strategies-in-distributed-systems-228l)
+- [Deep dive Tainted Grail [4] - MipMaps streaming](https://dev.to/kamilvdono/deep-dive-tainted-grail-4-mipmaps-streaming-1aj3)
+- [Launcher3 Modularization-Componentization](https://dev.to/chuck9091/launcher3-modularization-componentization-2pf7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
