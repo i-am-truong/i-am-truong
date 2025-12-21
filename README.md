@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hands-On with AWS Lambda Durable Functions &amp; Callback ⚡⏳🚀 - &lpar;Let&#39;s Build 🏗️ Series&rpar;](https://dev.to/aws-heroes/hands-on-with-aws-lambda-durable-functions-callback-lets-build-series-4agd)
-- [Database Modeling Course: Design Efficient and Scalable Databases](https://dev.to/vasantha_keshaveni_6c6d87/database-modeling-course-design-efficient-and-scalable-databases-49k4)
-- [[2025 Guide] AI-Driven Advertising: The Predictive Targeting Strategy](https://dev.to/getkoro_app/2025-guide-ai-driven-advertising-the-predictive-targeting-strategy-4mbh)
-- [How to keep your OSX awake after closing screen](https://dev.to/jimquote/how-to-keep-your-osx-awake-after-closing-screen-551k)
-- [From Idea to MVP: Building a SaaS in 30 Days as a Solo Developer](https://dev.to/rushikesh_bodakhe_db28644/from-idea-to-mvp-building-a-saas-in-30-days-as-a-solo-developer-44pp)
+- [The &quot;Gemini-Vega&quot; Validation](https://dev.to/frank_vega_987689489099bf/the-gemini-vega-validation-27i2)
+- [How to Rank on ChatGPT: LLM Visibility Strategies for B2B SaaS](https://dev.to/infrasity-learning/how-to-rank-on-chatgpt-llm-visibility-strategies-for-b2b-saas-3blj)
+- [☁️ -AWS Storage File Gateway-](https://dev.to/mohamed_benali_70972ddcc/-aws-storage-file-gateway--1115)
+- [The 31-Hour Discovery That Changed Everything](https://dev.to/tracksimple/the-31-hour-discovery-that-changed-everything-ae6)
+- [How to Get Your First 100 Users as a Solo Founder &lpar;No Ads&rpar;](https://dev.to/sharanjit_singh_4282ed028/how-to-get-your-first-100-users-as-a-solo-founder-no-ads-55hm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
