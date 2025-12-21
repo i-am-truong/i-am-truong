@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [JSONB vs. BSON: Tracing PostgreSQL and MongoDB Wire Protocols](https://dev.to/franckpachot/jsonb-vs-bson-tracing-postgresql-and-mongodb-wire-protocols-1m51)
+- [ScholarBridge](https://dev.to/soumilgit/scholarbridge-91h)
 - [Counterfactual Explanations without Opening the Black Box: Automated Decisionsand the GDPR](https://dev.to/paperium/counterfactual-explanations-without-opening-the-black-box-automated-decisionsand-the-gdpr-1ngb)
 - [Built a 32D Emotional State Tracking system for transparent ethical AI - Now open source &lpar;GPLv3&rpar;](https://dev.to/palman22hue/built-a-32d-emotional-state-tracking-system-for-transparent-ethical-ai-now-open-source-gplv3-1doa)
 - [RTO, Return To On-premise](https://dev.to/gurghet/rto-return-to-on-premise-25f9)
-- [Kubernetes operator AWS ECR ecr-creds-refresher](https://dev.to/dejanualex/kubernetes-operator-aws-ecr-ecr-creds-refresher-43f8)
-- [A Day in My Life as a Backend Developer](https://dev.to/nitttyn05/a-day-in-my-life-as-a-backend-developer-2lf9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
