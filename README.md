@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Salary Calculator -In line JavaScript](https://dev.to/preetha_vaishnavi_2b82358/weekly-salary-calculator-in-line-javascript-fjl)
+- [For my love](https://dev.to/ariel_sanchez_86fa0ce586b/for-my-love-15l3)
+- [“Vibe Coding — The Future of AI-Driven Development”](https://dev.to/isocyanideisgood/vibe-coding-the-future-of-ai-driven-development-502f)
+- [Your Career, Onchain: Building a Resume Protocol with Purpose and Trust](https://dev.to/binnadev/your-career-onchain-building-a-resume-protocol-with-purpose-and-trust-3p67)
 - [Launching Online Tools X: 100+ Privacy-First Browser Tools &lpar;Your Digital Swiss Army Knife&rpar;](https://dev.to/techno_kraft_in/launching-online-tools-x-100-privacy-first-browser-tools-your-digital-swiss-army-knife-37o7)
-- [Writing AI-Friendly Specs: A Developer&#39;s Practical Guide](https://dev.to/_jeongyuhyeon_03de1/writing-ai-friendly-specs-a-developers-practical-guide-3334)
-- [Launch: Interactive 3D Product Configurator](https://dev.to/rajatdatta099/launch-interactive-3d-product-configurator-n3d)
-- [Leafwiki v0.5.2 - is out - dark mode and Markdown improvements](https://dev.to/perber/leafwiki-v052-is-out-dark-mode-and-markdown-improvements-2l87)
-- [From Idea to Launch: How Developers Can Build Successful Startups](https://dev.to/thebitforge/from-idea-to-launch-how-developers-can-build-successful-startups-50dk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
