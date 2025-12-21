@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Bringing Rockbox&#39;s Legendary Audio Engine to the Modern Desktop: A Native Port for Linux and macOS](https://dev.to/tsirysndr/bringing-rockboxs-legendary-audio-engine-to-the-modern-desktop-a-native-port-for-linux-and-macos-4hih)
+- [Unveiling the Power of Support Vector Machines in Machine Learning](https://dev.to/vjnvisakh/unveiling-the-power-of-support-vector-machines-in-machine-learning-2p32)
+- [Why Static Credit Scoring Fails in Modern FinTech Platforms](https://dev.to/turalmu95150474/why-static-credit-scoring-fails-in-modern-fintech-platforms-57ni)
 - [Soft Actor-Critic Algorithms and Applications](https://dev.to/paperium/soft-actor-critic-algorithms-and-applications-49)
 - [Vector AI Agent: The Future of Browser Automation](https://dev.to/pay_perreel_ed6ea36719f4/vector-ai-agent-the-future-of-browser-automation-dfd)
-- [Launching a Simple SVG JPG Converter](https://dev.to/lynn123456/launching-a-simple-svg-jpg-converter-1egd)
-- [Cause and solution for &quot;Module &#39;markdown-it&#39; not found&quot; in TypeScript &lpar;@types/markdown-it&rpar;](https://dev.to/kazutora_hattori_66972c88/cause-and-solution-for-module-markdown-it-not-found-in-typescript-typesmarkdown-it-2ap3)
-- [Affordable Web Design: Comparing Pay-Monthly Websites With Traditional Design Models](https://dev.to/prateekshaweb/affordable-web-design-comparing-pay-monthly-websites-with-traditional-design-models-1j0h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
