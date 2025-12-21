@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Thought My AWS EC2 Was Secure — Until I Checked My Security Groups](https://dev.to/nirmal7030/i-thought-my-aws-ec2-was-secure-until-i-checked-my-security-groups-3183)
+- [Ever Wondered Why So Many ML Algorithms Exist - Even When Big Names Dominate?](https://dev.to/jashwanth_thatipamula_8ee/ever-wondered-why-so-many-ml-algorithms-exist-even-when-big-names-dominate-ok)
+- [content locker,html/css counter](https://dev.to/preetha_vaishnavi_2b82358/content-lockerhtmlcss-counter-4e9d)
+- [Vanilla JS Pattern Locker](https://dev.to/preetha_vaishnavi_2b82358/vanilla-js-pattern-locker-5b19)
 - [How to Build Production-Grade Agentic AI](https://dev.to/sachinchaurasiya/how-to-build-production-grade-agentic-ai-lj3)
-- [How the New US Tax Framework Could Shape the Market in 2026](https://dev.to/dan_keller/how-the-new-us-tax-framework-could-shape-the-market-in-2026-1h11)
-- [🕹️ Retro Revival: Pitting Human vs. A* Search Intelligence](https://dev.to/shyamli_khadse_c2671d46cb/retro-revival-pitting-human-vs-a-search-intelligence-3294)
-- [How My Medicine Student Girlfriend Completed Simple Development Tasks for Me](https://dev.to/biostate/how-my-medicine-student-girlfriend-completed-simple-development-tasks-for-me-1e94)
-- [Node.js Security Basics: Rate Limiting, Input Sanitization, and Helmet Setup](https://dev.to/prateekshaweb/nodejs-security-basics-rate-limiting-input-sanitization-and-helmet-setup-2hf2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
