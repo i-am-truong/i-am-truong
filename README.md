@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [EKS Disaster Recovery, Simplified: Native Backups with AWS Backup](https://dev.to/sadebare/eks-disaster-recovery-simplified-native-backups-with-aws-backup-15g4)
-- [ECR can create automaticaly when image pushed](https://dev.to/shiruta/ecr-can-create-automaticaly-when-image-pushed-38f)
-- [Functional testing: the boring basics that catch real bugs](https://dev.to/kelina_cowell_qa/functional-testing-the-boring-basics-that-catch-real-bugs-1ion)
-- [Integrating Zapier MCP into a Chat System](https://dev.to/thisisharsh7/integrating-zapier-mcp-into-a-chat-system-41lf)
-- [# File Transfer Over TCP: A Practical Guide for Developers](https://dev.to/sudiip__17/-file-transfer-over-tcp-a-practical-guide-for-developers-130n)
+- [https://hmpl-lang.dev - new website](https://dev.to/anthonymax/httpshmpl-langdev-new-website-1gib)
+- [ASP .NET Core IDisplayMetadataProvider](https://dev.to/karenpayneoregon/asp-net-core-idisplaymetadataprovider-46al)
+- [Switching APM providers without the headache](https://dev.to/rodrigonbarreto/switching-apm-providers-without-the-headache-4gh2)
+- [Trocando de APM sem dor de cabeça](https://dev.to/rodrigonbarreto/trocando-de-apm-sem-dor-de-cabeca-ld7)
+- [Mean Time to Understanding 🤔: The Irreducible Human Element in the Age of Infinite Code 🤖.](https://dev.to/grahamthedev/mean-time-to-understanding-the-irreducible-human-element-in-the-age-of-infinite-code--i2o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
