@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Thought My AWS EC2 Was Secure — Until I Checked My Security Groups](https://dev.to/nirmal7030/i-thought-my-aws-ec2-was-secure-until-i-checked-my-security-groups-3183)
-- [Ever Wondered Why So Many ML Algorithms Exist - Even When Big Names Dominate?](https://dev.to/jashwanth_thatipamula_8ee/ever-wondered-why-so-many-ml-algorithms-exist-even-when-big-names-dominate-ok)
-- [content locker,html/css counter](https://dev.to/preetha_vaishnavi_2b82358/content-lockerhtmlcss-counter-4e9d)
-- [Vanilla JS Pattern Locker](https://dev.to/preetha_vaishnavi_2b82358/vanilla-js-pattern-locker-5b19)
-- [How to Build Production-Grade Agentic AI](https://dev.to/sachinchaurasiya/how-to-build-production-grade-agentic-ai-lj3)
+- [I Lost a Week to a Physics Bug in a Multiplayer Golf Game](https://dev.to/asaleg/i-lost-a-week-to-a-physics-bug-in-a-multiplayer-golf-game-2f4d)
+- [RGB text](https://dev.to/preetha_vaishnavi_2b82358/rgb-text-50k8)
+- [Understanding AWS Costs in Practice: Billing Behavior, Pricing Models, and Optimization Patterns](https://dev.to/manishpcp/understanding-aws-costs-in-practice-billing-behavior-pricing-models-and-optimization-patterns-16ed)
+- [Carific.ai: Building a Flicker-Free PDF Viewer with React - The Dual-Document Pattern](https://dev.to/abdullahjan/carificai-building-a-flicker-free-pdf-viewer-with-react-the-dual-document-pattern-3p5a)
+- [Just launched my portfolio! 🚀](https://dev.to/karan_bhalodiya/just-launched-my-portfolio-1jfe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
