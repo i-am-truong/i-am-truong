@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Here are some things I discovered trying to find the a decent AI tool](https://dev.to/bdubs/here-are-some-things-i-discovered-trying-to-find-the-a-decent-ai-tool-24bh)
-- [The Missing Dot and the Birth of My First Search Engine](https://dev.to/fayzakseo/the-missing-dot-and-the-birth-of-my-first-search-engine-4fie)
-- [Fixing WebView2 Issues in Linux Bottles: How I Got It Working](https://dev.to/lionthehoon/fixing-webview2-issues-in-linux-bottles-how-i-got-it-working-1ab6)
-- [I Got Shadowbanned 12 Times Launching My Developer Tool](https://dev.to/mobin_poursalami_f30352a2/i-got-shadowbanned-12-times-launching-my-developer-tool-4jj)
-- [My Project-Based Learning Journey – Building Real Projects to Learn](https://dev.to/lone_wolf_22/my-project-based-learning-journey-building-real-projects-to-learn-55hc)
+- [How Do You Handle Exceptions Globally in Spring Boot?](https://dev.to/realnamehidden1_61/how-do-you-handle-exceptions-globally-in-spring-boot-40k3)
+- [Git Stash Made Simple: Save Your Work Without Committing](https://dev.to/thecodeliner/git-stash-made-simple-save-your-work-without-committing-3bbb)
+- [Uniface 10.4 and Informix: Simple Guide to Transaction Control 💾](https://dev.to/f345345dfg/uniface-104-and-informix-simple-guide-to-transaction-control-4gf2)
+- [AWS Tool Starting With J: Amazon Java Corretto](https://dev.to/jerlin_vanessavincentpa/aws-tool-starting-with-j-amazon-java-corretto-1h0c)
+- [Toronto Wedding Photography](https://dev.to/preetha_vaishnavi_2b82358/toronto-wedding-photography-107b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
