@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Reflection Portal — Interactive Mirror Challenge](https://dev.to/preetha_vaishnavi_2b82358/reflection-portal-interactive-mirror-challenge-718)
-- [A Tutorial on Principal Component Analysis](https://dev.to/paperium/a-tutorial-on-principal-component-analysis-12m5)
-- [Analytics](https://dev.to/preetha_vaishnavi_2b82358/analytics-4nf6)
-- [Art center](https://dev.to/preetha_vaishnavi_2b82358/art-center-ilk)
-- [Instagram&#39;s AI Shopping Assistant Is Here: 7 Ways to Actually Get Your Products Found](https://dev.to/synergistdigitalmedia/instagrams-ai-shopping-assistant-is-here-7-ways-to-actually-get-your-products-found-9l9)
+- [Zoom world Map](https://dev.to/preetha_vaishnavi_2b82358/zoom-world-map-1nl5)
+- [the world.simplified](https://dev.to/preetha_vaishnavi_2b82358/the-worldsimplified-257f)
+- [How to Build India&#39;s Cheapest &lpar;Yet Most Effective&rpar; Penetration Testing Tool 🔥](https://dev.to/nitinkumar30/how-to-build-indias-cheapest-yet-most-effective-penetration-testing-tool-4m5h)
+- [Happy New Year](https://dev.to/preetha_vaishnavi_2b82358/happy-new-year-31p6)
+- [Mirror effect](https://dev.to/preetha_vaishnavi_2b82358/mirror-effect-13ah)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
