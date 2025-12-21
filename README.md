@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Interview Question That Made Me Rethink My Architecture: Understanding Domain‑Driven Design](https://dev.to/timleunghk/the-interview-question-that-made-me-rethink-my-architecture-understanding-domain-driven-design-3ajh)
+- [Big Project I&#39;m making](https://dev.to/ryan_bae_5bd7d40241e52c14/big-project-im-making-2b81)
+- [The Secret Life of JavaScript: Asynchrony](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-asynchrony-2o5f)
 - [I built an iOS app that turns Mandalart &lpar;9x9&rpar; into GTD Actions &lpar;v1.0&rpar;](https://dev.to/marcus_jh/i-built-an-ios-app-that-turns-mandalart-9x9-into-gtd-actions-v10-1586)
 - [Exploring the Concept of &#39;The Ghost in the Machine&#39;](https://dev.to/gandolfslayer/exploring-the-concept-of-the-ghost-in-the-machine-35h6)
-- [Why AI Startups Need to Focus on Distribution Before Disruption](https://dev.to/jaideepparashar/why-ai-startups-need-to-focus-on-distribution-before-disruption-569a)
-- [RAG Evaluation Metrics: Measuring What Actually Matters](https://dev.to/qvfagundes/rag-evaluation-metrics-measuring-what-actually-matters-gnk)
-- [Your Coffee Break AI News Roundup: ChatGPT Customization, GPT-5.2, and What&#39;s Next in 2025](https://dev.to/ethan_zhang_e501fea89c25b/your-coffee-break-ai-news-roundup-chatgpt-customization-gpt-52-and-whats-next-in-2025-cf3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
