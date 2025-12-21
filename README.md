@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Beyond input&lpar;&rpar;: Building Production-Ready Human-in-the-Loop AI with LangGraph](https://dev.to/sreeni5018/beyond-input-building-production-ready-human-in-the-loop-ai-with-langgraph-2en9)
 - [Choosing the Right Online Document Translator in 2025 &lpar;A Practical Guide&rpar;](https://dev.to/shruti_saraswat_c258d5934/choosing-the-right-online-document-translator-in-2025-a-practical-guide-1lj3)
+- [Newly join 😁](https://dev.to/codexvedant/newly-join-1bk0)
 - [🛠 Local LLM Ops 2025: A Developer&#39;s Guide to Running Pocket-Sized Neural Networks](https://dev.to/lag_lagendary/local-llm-ops-2025-a-developers-guide-to-running-pocket-sized-neural-networks-4djo)
-- [Coderive - A New Programming Language of 2025](https://dev.to/danexcodr/coderive-a-new-programming-language-of-2025-3047)
-- [Playwright: Test Structure &lpar;Tiny part that bring a huge impact&rpar;](https://dev.to/mochammmad_alie/playwright-test-structure-tiny-part-that-bring-a-huge-impact-43mj)
-- [The Interview Question That Made Me Rethink My Architecture: Understanding Domain‑Driven Design](https://dev.to/timleunghk/the-interview-question-that-made-me-rethink-my-architecture-understanding-domain-driven-design-3ajh)
+- [Julia High Performance Crash Course](https://dev.to/warren_jitsing_dd1c1d6fc6/julia-high-performance-crash-course-4i7p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
