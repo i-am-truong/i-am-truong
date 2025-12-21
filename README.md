@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Managing multiple Playwright projects?](https://dev.to/js_js/managing-multiple-playwright-projects-3ole)
+- [Vibe Coding: How Far Should We Use It? Best Practices, Limits, and Risks](https://dev.to/speaklouder/vibe-coding-how-far-should-we-use-it-best-practices-limits-and-risks-4cj4)
+- [Withdraw When Redundant: Why Building a Product is Like Watching My Daughter Ride Away](https://dev.to/elevenapril/withdraw-when-redundant-why-building-a-product-is-like-watching-my-daughter-ride-away-dgp)
 - [Cloud-Based vs. Cloud-Native: Understanding the DNA of Modern Infrastructure](https://dev.to/tech_croc_f32fbb6ea8ed4/cloud-based-vs-cloud-native-understanding-the-dna-of-modern-infrastructure-1jc1)
-- [Optimizing Integer-Constrained Circle Packing using Differential Evolution in Python.](https://dev.to/astrophelverse/optimizing-integer-constrained-circle-packing-using-differential-evolution-in-python-1ad9)
-- [NitroGen — Vision-to-Action Game AI](https://dev.to/xchainviskor/nitrogen-vision-to-action-game-ai-5aea)
-- [Explain the Relationship Between API Proxy API Product App Developer in Apigee X](https://dev.to/realnamehidden1_61/explain-the-relationship-between-api-proxy-api-product-app-developer-in-apigee-x-27a4)
-- [How to Fit 2x More Data into the Claude 3.5 Context Window | TOON vs JSON Meta](https://dev.to/sam_th/how-to-fit-2x-more-data-into-the-claude-35-context-window-toon-vs-json-meta-42bm)
+- [Stop The Relay Race: A Field Guide to &quot;Tiger Teams&quot; in Legacy Systems](https://dev.to/jmontagne/stop-the-relay-race-a-field-guide-to-tiger-teams-in-legacy-systems-3jk0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
