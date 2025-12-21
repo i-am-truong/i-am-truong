@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How Transformers Really Think: Inside the Brain of an AI Language Model](https://dev.to/aiwithapex/how-transformers-really-think-inside-the-brain-of-an-ai-language-model-4e99)
 - [Echarts in Angular](https://dev.to/vspatil87/echarts-in-angular-427h)
 - [2026](https://dev.to/dillik/2026-5fk)
-- [Beyond input&lpar;&rpar;: Building Production-Ready Human-in-the-Loop AI with LangGraph](https://dev.to/sreeni5018/beyond-input-building-production-ready-human-in-the-loop-ai-with-langgraph-2en9)
+- [Beyond input&lpar;&rpar;: Building Production-Ready Human-in-the-Loop AI Agents with LangGraph](https://dev.to/sreeni5018/beyond-input-building-production-ready-human-in-the-loop-ai-with-langgraph-2en9)
 - [Choosing the Right Online Document Translator in 2025 &lpar;A Practical Guide&rpar;](https://dev.to/shruti_saraswat_c258d5934/choosing-the-right-online-document-translator-in-2025-a-practical-guide-1lj3)
-- [Newly join 😁](https://dev.to/codexvedant/newly-join-1bk0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
