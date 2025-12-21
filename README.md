@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [PearPass Desktop — Open-Source Peer-to-Peer Password Manager Built on Pear Runtime](https://dev.to/bitwiserokos/pearpass-desktop-open-source-peer-to-peer-password-manager-built-on-pear-runtime-1kop)
-- [From Zero to RWA: My 14-Day Journey Building on Mantle](https://dev.to/azharpratama/from-zero-to-rwa-my-14-day-journey-building-on-mantle-1043)
-- [Access AWS RDS without Password - use IAM](https://dev.to/ashraf-minhaj/access-aws-rds-without-password-use-iam-1baf)
-- [DiscovAI Search — Open‑Source AI Search Engine for Tools, Docs, and Custom Data](https://dev.to/bitwiserokos/discovai-search-open-source-ai-search-engine-for-tools-docs-and-custom-data-4ko0)
-- [The Power of Gemini inside Trello: Building an LLM Assistant with Firebase Genkit](https://dev.to/denisvalasek/the-power-of-gemini-inside-trello-building-an-llm-assistant-with-firebase-genkit-3dh2)
+- [Brewing Cappuccino: Writing a compiler without LLVM&#39;s IR](https://dev.to/anirudh_mathur_3d39255a4b/brewing-cappuccino-writing-a-compiler-without-llvms-ir-5gi4)
+- [I Saw an Instagram Reel Last Night. Now I Built a Bionic Reading Extension.](https://dev.to/zenoguy/i-saw-an-instagram-reel-last-night-now-i-built-a-bionic-reading-extension-1gpe)
+- [Oasis &amp; TEE Vulnerabilities and Why Oasis Survived the Storm](https://dev.to/rollingindo/oasis-tee-vulnerabilities-and-why-oasis-survived-the-storm-193o)
+- [CSS Animations Test](https://dev.to/preetha_vaishnavi_2b82358/css-animations-test-479o)
+- [🚀 Terraform Day 13: Data Sources — Stop Hardcoding, Start Automating](https://dev.to/jeeva_5c84a254e90842940dd/terraform-day-13-data-sources-stop-hardcoding-start-automating-1ja5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
