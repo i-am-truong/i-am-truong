@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [DEV Track Spotlight: The Builder&#39;s Job Is Not to Build: A Mindset for Better Outcomes &lpar;DEV347&rpar;](https://dev.to/aws/dev-track-spotlight-the-builders-job-is-not-to-build-a-mindset-for-better-outcomes-dev347-50b9)
+- [Weekly #50-2025: Anthropic&#39;s Bun Bet, the PM Drought &amp; Seattle&#39;s AI Backlash](https://dev.to/weekly/weekly-50-2025-anthropics-bun-bet-the-pm-drought-seattles-ai-backlash-4l8p)
 - [Weekly Salary Calculator -In line JavaScript](https://dev.to/preetha_vaishnavi_2b82358/weekly-salary-calculator-in-line-javascript-fjl)
 - [For my love](https://dev.to/ariel_sanchez_86fa0ce586b/for-my-love-15l3)
 - [“Vibe Coding — The Future of AI-Driven Development”](https://dev.to/isocyanideisgood/vibe-coding-the-future-of-ai-driven-development-502f)
-- [Your Career, Onchain: Building a Resume Protocol with Purpose and Trust](https://dev.to/binnadev/your-career-onchain-building-a-resume-protocol-with-purpose-and-trust-3p67)
-- [Launching Online Tools X: 100+ Privacy-First Browser Tools &lpar;Your Digital Swiss Army Knife&rpar;](https://dev.to/techno_kraft_in/launching-online-tools-x-100-privacy-first-browser-tools-your-digital-swiss-army-knife-37o7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
