@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [DEV Track Spotlight: The Builder&#39;s Job Is Not to Build: A Mindset for Better Outcomes &lpar;DEV347&rpar;](https://dev.to/aws/dev-track-spotlight-the-builders-job-is-not-to-build-a-mindset-for-better-outcomes-dev347-50b9)
-- [Weekly #50-2025: Anthropic&#39;s Bun Bet, the PM Drought &amp; Seattle&#39;s AI Backlash](https://dev.to/weekly/weekly-50-2025-anthropics-bun-bet-the-pm-drought-seattles-ai-backlash-4l8p)
-- [Weekly Salary Calculator -In line JavaScript](https://dev.to/preetha_vaishnavi_2b82358/weekly-salary-calculator-in-line-javascript-fjl)
-- [For my love](https://dev.to/ariel_sanchez_86fa0ce586b/for-my-love-15l3)
-- [“Vibe Coding — The Future of AI-Driven Development”](https://dev.to/isocyanideisgood/vibe-coding-the-future-of-ai-driven-development-502f)
+- [Introducing Verba: Create AI Characters That Feel Alive](https://dev.to/ouadie_laachkar_fb480fae3/introducing-verba-create-ai-characters-that-feel-alive-30gm)
+- [AI Agents: More Than Chatbots, Less Than Sci-Fi](https://dev.to/tech_with_nessah/ai-agents-more-than-chatbots-less-than-sci-fi-5a0d)
+- [Is Gemini 3 Pro Good for Coding? A 2026 Reality-Check and Practical Guide](https://dev.to/anna001/is-gemini-3-pro-good-for-coding-a-2026-reality-check-and-practical-guide-3lm9)
+- [Cake Menu with Ring using Checkboxes](https://dev.to/preetha_vaishnavi_2b82358/cake-menu-with-ring-using-checkboxes-507p)
+- [GPT Image 1.5: Feature, Comparison and Access](https://dev.to/anna001/gpt-image-15-feature-comparison-and-access-2idd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
