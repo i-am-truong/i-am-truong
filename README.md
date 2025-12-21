@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Connect Your SMS Gateway or Turn Your Phone into One with SMSMobileAPI](https://dev.to/smsmobileapi/connect-your-sms-gateway-or-turn-your-phone-into-one-with-smsmobileapi-mnf)
-- [I Built CodeCrush: Making LeetCode Practice Feel Like an RPG](https://dev.to/sansita_malhotra_1b6a2201/i-built-codecrush-making-leetcode-practice-feel-like-an-rpg-42m1)
-- [Generate sitemap.xml and robots.txt in Next.js for Better Google Indexing](https://dev.to/prateekshaweb/generate-sitemapxml-and-robotstxt-in-nextjs-for-better-google-indexing-5c1l)
-- [Gemini 1.5: Unlocking multimodal understanding across millions of tokens ofcontext](https://dev.to/paperium/gemini-15-unlocking-multimodal-understanding-across-millions-of-tokens-ofcontext-3a8i)
-- [Why &quot;Not Deciding&quot; Breaks Agile Teams - Decision-less Agility](https://dev.to/kurab/why-not-deciding-breaks-agile-teams-decision-less-agility-679)
+- [Se faire du pied… Sans se marcher sur les pieds : convergence entre test et accessibilité](https://dev.to/onepoint/se-faire-du-pied-sans-se-marcher-sur-les-pieds-convergence-entre-test-et-accessibilite-4fah)
+- [Branch Protection Rules vs Rulesets: The Right Way to Protect Your Git Repos](https://dev.to/piyush_gaikwad_2fadecf5f4/branch-protection-rules-vs-rulesets-the-right-way-to-protect-your-git-repos-305m)
+- [Why Quiet Days Can Feel More Draining Than Busy Ones](https://dev.to/jamesmiller25/why-quiet-days-can-feel-more-draining-than-busy-ones-1a7c)
+- [How I Used Codex with ChatGPT 5.1 to Smash a Major Migration in 2 Days](https://dev.to/khurram_alikhan_716deca7/how-i-used-codex-with-chatgpt-51-to-smash-a-major-migration-in-2-days-45i4)
+- [AWS Lambda &amp; S3 Express One Zone: A 2025 Deep Dive into re:Invent 2023&#39;s Impact](https://dev.to/dataformathub/aws-lambda-s3-express-one-zone-a-2025-deep-dive-into-reinvent-2023s-impact-29b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
