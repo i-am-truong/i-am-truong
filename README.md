@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Kreuzberg v4.0.0-rc14 released: optimization phase and stable v4 ahead](https://dev.to/kreuzberg-dev/kreuzberg-v400-rc14-released-optimization-phase-and-stable-v4-ahead-1nji)
+- [Building Incremental Markdown Compiler by Moonbit](https://dev.to/mizchi/building-markdown-incremental-compiler-by-moonbit-216o)
 - [The &quot;Gemini-Vega&quot; Validation](https://dev.to/frank_vega_987689489099bf/the-gemini-vega-validation-27i2)
 - [How to Rank on ChatGPT: LLM Visibility Strategies for B2B SaaS](https://dev.to/infrasity-learning/how-to-rank-on-chatgpt-llm-visibility-strategies-for-b2b-saas-3blj)
 - [☁️ -AWS Storage File Gateway-](https://dev.to/mohamed_benali_70972ddcc/-aws-storage-file-gateway--1115)
-- [The 31-Hour Discovery That Changed Everything](https://dev.to/tracksimple/the-31-hour-discovery-that-changed-everything-ae6)
-- [How to Get Your First 100 Users as a Solo Founder &lpar;No Ads&rpar;](https://dev.to/sharanjit_singh_4282ed028/how-to-get-your-first-100-users-as-a-solo-founder-no-ads-55hm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
