@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [React Google Places Autocomplete – Modern, TypeScript-Friendly Component](https://dev.to/iresh96/react-google-places-autocomplete-modern-typescript-friendly-component-2f4d)
-- [Unleash Global Streaming with Nocturne VPN: A Developer&#39;s Guide](https://dev.to/mitul_chovatiya_e568824a5/unleash-global-streaming-with-nocturne-vpn-a-developers-guide-32e7)
-- [How to make software?? - The Right Tool](https://dev.to/kartik_patel/how-to-make-software-the-right-tool-g0h)
-- [Amazon ECR - Architecture &amp; Security](https://dev.to/oncloud7/amazon-ecr-architecture-security-384h)
-- [CVE-2025-3248: Kerentanan Kritis pada Platform AI Langflow dan Cara Melindungi Jaringan Anda](https://dev.to/altashfirs/cve-2025-3248-kerentanan-kritis-pada-platform-ai-langflow-dan-cara-melindungi-jaringan-anda-31ko)
+- [From Idea to Launch: How Developers Can Build Successful Startups](https://dev.to/thebitforge/from-idea-to-launch-how-developers-can-build-successful-startups-50dk)
+- [Building an A/B Testing System with CloudFront Functions using AWS CDK](https://dev.to/aws-builders/building-an-ab-testing-system-with-cloudfront-functions-using-aws-cdk-omo)
+- [Announcing Chaos Proxy API: Automate Network Chaos in CI/CD 🚀](https://dev.to/aragossa/announcing-chaos-proxy-api-automate-network-chaos-in-cicd-1lac)
+- [🦚 When Krishna Codes: A Question for Developers](https://dev.to/rajguru_yadav_56d13a7b8fc/when-krishna-codes-a-question-for-developers-3jbo)
+- [𝗩𝗼𝗶𝗰𝗲 𝗔𝗜: 𝗖𝗼𝗻𝘁𝗲𝘅𝘁 &amp; 𝗠𝗲𝗺𝗼𝗿𝘆 - 𝗪𝗵𝘆 𝗖𝗼𝗻𝘃𝗲𝗿𝘀𝗮𝘁𝗶𝗼𝗻𝘀 𝗗𝗼𝗻&#39;𝘁 𝗥𝗲𝘀𝗲𝘁](https://dev.to/wanjohichristopher/--4c64)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
