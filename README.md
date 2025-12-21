@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Verba: Create AI Characters That Feel Alive](https://dev.to/ouadie_laachkar_fb480fae3/introducing-verba-create-ai-characters-that-feel-alive-30gm)
-- [AI Agents: More Than Chatbots, Less Than Sci-Fi](https://dev.to/tech_with_nessah/ai-agents-more-than-chatbots-less-than-sci-fi-5a0d)
-- [Is Gemini 3 Pro Good for Coding? A 2026 Reality-Check and Practical Guide](https://dev.to/anna001/is-gemini-3-pro-good-for-coding-a-2026-reality-check-and-practical-guide-3lm9)
-- [Cake Menu with Ring using Checkboxes](https://dev.to/preetha_vaishnavi_2b82358/cake-menu-with-ring-using-checkboxes-507p)
-- [GPT Image 1.5: Feature, Comparison and Access](https://dev.to/anna001/gpt-image-15-feature-comparison-and-access-2idd)
+- [AI Upskilling &amp; Workforce Transformation in the UK](https://dev.to/salfi_studio_fe0cbe33e0e8/ai-upskilling-workforce-transformation-in-the-uk-chl)
+- [Things Junior QA Engineers Don’t Expect in Their First QA Role](https://dev.to/mochammmad_alie/things-junior-qa-engineers-dont-expect-in-their-first-qa-role-527k)
+- [The Influencer’s Secret: Track Engagement with Analytics](https://dev.to/imtaslim/the-influencers-secret-track-engagement-with-analytics-5g06)
+- [How I Automated YouTube Metadata Generation Using Google’s New TypeScript ADK](https://dev.to/railsstudent/how-i-automated-youtube-metadata-generation-using-googles-new-typescript-adk-2ab4)
+- [Shipping a Professional Blog with One Line of Java](https://dev.to/tomerbendavid/shipping-a-professional-blog-with-one-line-of-java-2f5g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
