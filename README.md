@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Kreuzberg v4.0.0-rc14 released: optimization phase and stable v4 ahead](https://dev.to/kreuzberg-dev/kreuzberg-v400-rc14-released-optimization-phase-and-stable-v4-ahead-1nji)
-- [Building Incremental Markdown Compiler by Moonbit](https://dev.to/mizchi/building-markdown-incremental-compiler-by-moonbit-216o)
-- [The &quot;Gemini-Vega&quot; Validation](https://dev.to/frank_vega_987689489099bf/the-gemini-vega-validation-27i2)
-- [How to Rank on ChatGPT: LLM Visibility Strategies for B2B SaaS](https://dev.to/infrasity-learning/how-to-rank-on-chatgpt-llm-visibility-strategies-for-b2b-saas-3blj)
-- [☁️ -AWS Storage File Gateway-](https://dev.to/mohamed_benali_70972ddcc/-aws-storage-file-gateway--1115)
+- [Gradient Descent: The Algorithm That Taught Machines to Learn](https://dev.to/aasikkkk/gradient-descent-the-algorithm-that-taught-machines-to-learn-29cj)
+- [Building a Scalable RAG System for Repository Intelligence](https://dev.to/nash9/building-a-scalable-rag-system-for-repository-intelligence-jn7)
+- [Vue + any js library &lpar;like D3.js, Chart.js etc&rpar;](https://dev.to/vlt/vue-any-js-library-like-d3js-chartjs-etc-4m57)
+- [Is Traditional Software Engineering Dead?](https://dev.to/standupify/is-traditional-software-engineering-dead-1pcp)
+- [Complete Guide to JWT Authentication in Next.js 15: From Setup to Production](https://dev.to/sizan_mahmud0_e7c3fd0cb68/complete-guide-to-jwt-authentication-in-nextjs-15-from-setup-to-production-3cf4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
