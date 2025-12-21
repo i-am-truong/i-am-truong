@@ -120,13 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [13. Roman to Integer | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/13-roman-to-integer-leetcode-top-interview-150-coding-questions-33m9)
+- [Adding a Missing Example for Privacy Controls](https://dev.to/kalu_jennifer_9bba9145120/adding-a-missing-example-for-privacy-controls-3aph)
 - [F*CK AI : Never going back](https://dev.to/devrx/fck-ai-never-going-back-5ao)
-- [This year, commuting again brought back something I had missed: time to listen. 🎧
-
-I wrote a short reflection on how audiobooks accompanied a year of professional growth, shifting perspectives, and becoming a first-time father.](https://dev.to/joachimzeelmaekers/this-year-commuting-again-brought-back-something-i-had-missed-time-to-listen-i-wrote-a-2a4f)
-- [Listening Through a Year of Change](https://dev.to/joachimzeelmaekers/listening-through-a-year-of-change-25jf)
-- [I Built a Random Picker Tool in 1 Day - Here&#39;s How](https://dev.to/vamsi_thatikonda_a67b1141/i-built-a-random-picker-tool-in-1-day-heres-how-40hc)
-- [Build the CMS we always wanted: MonkeysCMS &lpar;contributors wanted&rpar;](https://dev.to/yorchperaza/build-the-cms-we-always-wanted-monkeyscms-contributors-wanted-4oed)
+- [First Post](https://dev.to/aalcantara1/first-post-31mk)
+- [2025-12-21 Daily Robotics News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-21-daily-robotics-news-1fb3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
