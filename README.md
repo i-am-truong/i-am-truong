@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Upskilling &amp; Workforce Transformation in the UK](https://dev.to/salfi_studio_fe0cbe33e0e8/ai-upskilling-workforce-transformation-in-the-uk-chl)
-- [Things Junior QA Engineers Don’t Expect in Their First QA Role](https://dev.to/mochammmad_alie/things-junior-qa-engineers-dont-expect-in-their-first-qa-role-527k)
-- [The Influencer’s Secret: Track Engagement with Analytics](https://dev.to/imtaslim/the-influencers-secret-track-engagement-with-analytics-5g06)
-- [How I Automated YouTube Metadata Generation Using Google’s New TypeScript ADK](https://dev.to/railsstudent/how-i-automated-youtube-metadata-generation-using-googles-new-typescript-adk-2ab4)
-- [Shipping a Professional Blog with One Line of Java](https://dev.to/tomerbendavid/shipping-a-professional-blog-with-one-line-of-java-2f5g)
+- [Cloud-Based vs. Cloud-Native: Understanding the DNA of Modern Infrastructure](https://dev.to/tech_croc_f32fbb6ea8ed4/cloud-based-vs-cloud-native-understanding-the-dna-of-modern-infrastructure-1jc1)
+- [Optimizing Integer-Constrained Circle Packing using Differential Evolution in Python.](https://dev.to/astrophelverse/optimizing-integer-constrained-circle-packing-using-differential-evolution-in-python-1ad9)
+- [NitroGen — Vision-to-Action Game AI](https://dev.to/xchainviskor/nitrogen-vision-to-action-game-ai-5aea)
+- [Explain the Relationship Between API Proxy API Product App Developer in Apigee X](https://dev.to/realnamehidden1_61/explain-the-relationship-between-api-proxy-api-product-app-developer-in-apigee-x-27a4)
+- [How to Fit 2x More Data into the Claude 3.5 Context Window | TOON vs JSON Meta](https://dev.to/sam_th/how-to-fit-2x-more-data-into-the-claude-35-context-window-toon-vs-json-meta-42bm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
