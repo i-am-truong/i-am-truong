@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Se faire du pied… Sans se marcher sur les pieds : convergence entre test et accessibilité](https://dev.to/onepoint/se-faire-du-pied-sans-se-marcher-sur-les-pieds-convergence-entre-test-et-accessibilite-4fah)
-- [Branch Protection Rules vs Rulesets: The Right Way to Protect Your Git Repos](https://dev.to/piyush_gaikwad_2fadecf5f4/branch-protection-rules-vs-rulesets-the-right-way-to-protect-your-git-repos-305m)
-- [Why Quiet Days Can Feel More Draining Than Busy Ones](https://dev.to/jamesmiller25/why-quiet-days-can-feel-more-draining-than-busy-ones-1a7c)
-- [How I Used Codex with ChatGPT 5.1 to Smash a Major Migration in 2 Days](https://dev.to/khurram_alikhan_716deca7/how-i-used-codex-with-chatgpt-51-to-smash-a-major-migration-in-2-days-45i4)
-- [AWS Lambda &amp; S3 Express One Zone: A 2025 Deep Dive into re:Invent 2023&#39;s Impact](https://dev.to/dataformathub/aws-lambda-s3-express-one-zone-a-2025-deep-dive-into-reinvent-2023s-impact-29b)
+- [Blink HTML Tag: How to Make Text Blink in HTML](https://dev.to/web_dev-usman/blink-html-tag-how-to-make-text-blink-in-html-5bjc)
+- [I Built a VS Code Extension That Turns GitHub Copilot Into a Full OpenAI-Compatible API](https://dev.to/suhaibbinyounis/i-built-a-vs-code-extension-that-turns-github-copilot-into-a-full-openai-compatible-api-21bn)
+- [Data Races in Go: Detecting, Debugging, and Fixing Concurrency Bugs in Production](https://dev.to/serifcolakel/data-races-in-go-detecting-debugging-and-fixing-concurrency-bugs-in-production-29pm)
+- [My Java Spring Boot Journey Starts](https://dev.to/tejas_agravat_1a781f196b0/my-java-spring-boot-journey-starts-12o0)
+- [From a Reel Comment to Open Source: Introducing ClipMotion](https://dev.to/nerdboi008/from-a-reel-comment-to-open-source-introducing-clipmotion-3i0h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
