@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Connect Your SMS Gateway or Turn Your Phone into One with SMSMobileAPI](https://dev.to/smsmobileapi/connect-your-sms-gateway-or-turn-your-phone-into-one-with-smsmobileapi-mnf)
+- [I Built CodeCrush: Making LeetCode Practice Feel Like an RPG](https://dev.to/sansita_malhotra_1b6a2201/i-built-codecrush-making-leetcode-practice-feel-like-an-rpg-42m1)
 - [Generate sitemap.xml and robots.txt in Next.js for Better Google Indexing](https://dev.to/prateekshaweb/generate-sitemapxml-and-robotstxt-in-nextjs-for-better-google-indexing-5c1l)
 - [Gemini 1.5: Unlocking multimodal understanding across millions of tokens ofcontext](https://dev.to/paperium/gemini-15-unlocking-multimodal-understanding-across-millions-of-tokens-ofcontext-3a8i)
 - [Why &quot;Not Deciding&quot; Breaks Agile Teams - Decision-less Agility](https://dev.to/kurab/why-not-deciding-breaks-agile-teams-decision-less-agility-679)
-- [Logmojo — High-Performance Log Management Made Simple](https://dev.to/saiarlen/logmojo-high-performance-log-management-made-simple-46ak)
-- [Day 4: Structured Outputs with LangChain Output Parsers](https://dev.to/awslearnerdaily/day-4-structured-outputs-with-langchain-output-parsers-1j7a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
