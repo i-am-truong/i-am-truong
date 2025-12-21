@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [JSONB vs. BSON: Tracing PostgreSQL and MongoDB Wire Protocols](https://dev.to/franckpachot/jsonb-vs-bson-tracing-postgresql-and-mongodb-wire-protocols-1m51)
-- [ScholarBridge](https://dev.to/soumilgit/scholarbridge-91h)
-- [Counterfactual Explanations without Opening the Black Box: Automated Decisionsand the GDPR](https://dev.to/paperium/counterfactual-explanations-without-opening-the-black-box-automated-decisionsand-the-gdpr-1ngb)
-- [Built a 32D Emotional State Tracking system for transparent ethical AI - Now open source &lpar;GPLv3&rpar;](https://dev.to/palman22hue/built-a-32d-emotional-state-tracking-system-for-transparent-ethical-ai-now-open-source-gplv3-1doa)
-- [RTO, Return To On-premise](https://dev.to/gurghet/rto-return-to-on-premise-25f9)
+- [State machines as business logic engines](https://dev.to/takueg/state-machines-as-business-logic-engines-1i0e)
+- [Como experto en PLD, me gustaría abordar algunos de los desa](https://dev.to/drcarlosruizviquez/como-experto-en-pld-me-gustaria-abordar-algunos-de-los-desa-48d8)
+- [I Built a Squad of AI Agents to Chase Invoices for Me](https://dev.to/fracabu/i-built-a-squad-of-ai-agents-to-chase-invoices-for-me-ojm)
+- [Testing de SPAs con Vitest Browser Mode: Velocidad de Unit Tests con Confianza E2E](https://dev.to/iagolast/testing-de-spas-con-vitest-browser-mode-velocidad-de-unit-tests-con-confianza-e2e-1be8)
+- [**Myth: Computer Vision is only effective for images and not](https://dev.to/drcarlosruizviquez/myth-computer-vision-is-only-effective-for-images-and-not-1a38)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
