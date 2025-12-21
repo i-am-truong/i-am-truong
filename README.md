@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Bug That Was Not a Bug](https://dev.to/mzghosty/the-bug-that-was-not-a-bug-14lb)
-- [Kubernetes Monitoring Best Practices: Ensuring the Health and Performance of Your Clusters](https://dev.to/techblogs/kubernetes-monitoring-best-practices-ensuring-the-health-and-performance-of-your-clusters-1o4i)
-- [5 LLM Gateways Compared: Choosing the Right Infrastructure &lpar;2025&rpar;](https://dev.to/debmckinney/5-llm-gateways-compared-choosing-the-right-infrastructure-2025-3h1p)
-- [Avoid Duplicate Outreach with Google Sheets &amp; n8n Automation](https://dev.to/omer_dahan_6305e5f4900a75/avoid-duplicate-outreach-with-google-sheets-n8n-automation-9bg)
-- [Cloud Engineer vs DevOps Engineer](https://dev.to/karthikkorrayi/cloud-engineer-vs-devops-engineer-244m)
+- [Built a 32D Emotional State Tracking system for transparent ethical AI - Now open source &lpar;GPLv3&rpar;](https://dev.to/palman22hue/built-a-32d-emotional-state-tracking-system-for-transparent-ethical-ai-now-open-source-gplv3-1doa)
+- [RTO, Return To On-premise](https://dev.to/gurghet/rto-return-to-on-premise-25f9)
+- [A Day in My Life as a Backend Developer](https://dev.to/nitttyn05/a-day-in-my-life-as-a-backend-developer-2lf9)
+- [ECR-creds-refresher](https://dev.to/aws-builders/ecr-creds-refresher-43g3)
+- [Beyond the Block: Why our L2 uses a Hybrid DAG + PQ-Keys](https://dev.to/auli_takala_d379835856f1f/beyond-the-block-why-our-l2-uses-a-hybrid-dag-pq-keys-2ng6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
