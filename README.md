@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Control centralizado de S3 Block Public Access a nivel organizacional &lpar;en español sencillo&rpar;](https://dev.to/pangoro24/control-centralizado-de-s3-block-public-access-a-nivel-organizacional-en-espanol-sencillo-4n2j)
-- [How We Solved Western Consulting Firm’s Phone Number Nightmare](https://dev.to/faraz_farhan_83ed23a154a2/01670-309-328-vs-8801670309328-how-we-solved-western-consulting-firms-phone-number-nightmare-3d33)
-- [Code Chronicle](https://dev.to/rmion/code-chronicle-3e2l)
-- [💥 Break your API before your users do. Automated Network Chaos for CI/CD.](https://dev.to/aragossa/chaos-network-proxy-3cbf)
-- [Nuxt Tutorial 7 - Adopting CSS](https://dev.to/aloisseckar/nuxt-tutorial-7-adopting-css-1m2a)
+- [Reflection Portal — Interactive Mirror Challenge](https://dev.to/preetha_vaishnavi_2b82358/reflection-portal-interactive-mirror-challenge-718)
+- [A Tutorial on Principal Component Analysis](https://dev.to/paperium/a-tutorial-on-principal-component-analysis-12m5)
+- [Analytics](https://dev.to/preetha_vaishnavi_2b82358/analytics-4nf6)
+- [Art center](https://dev.to/preetha_vaishnavi_2b82358/art-center-ilk)
+- [Instagram&#39;s AI Shopping Assistant Is Here: 7 Ways to Actually Get Your Products Found](https://dev.to/synergistdigitalmedia/instagrams-ai-shopping-assistant-is-here-7-ways-to-actually-get-your-products-found-9l9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
