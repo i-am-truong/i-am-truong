@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Zoom world Map](https://dev.to/preetha_vaishnavi_2b82358/zoom-world-map-1nl5)
-- [the world.simplified](https://dev.to/preetha_vaishnavi_2b82358/the-worldsimplified-257f)
-- [How to Build India&#39;s Cheapest &lpar;Yet Most Effective&rpar; Penetration Testing Tool 🔥](https://dev.to/nitinkumar30/how-to-build-indias-cheapest-yet-most-effective-penetration-testing-tool-4m5h)
-- [Happy New Year](https://dev.to/preetha_vaishnavi_2b82358/happy-new-year-31p6)
-- [Mirror effect](https://dev.to/preetha_vaishnavi_2b82358/mirror-effect-13ah)
+- [The Bug That Was Not a Bug](https://dev.to/mzghosty/the-bug-that-was-not-a-bug-14lb)
+- [Kubernetes Monitoring Best Practices: Ensuring the Health and Performance of Your Clusters](https://dev.to/techblogs/kubernetes-monitoring-best-practices-ensuring-the-health-and-performance-of-your-clusters-1o4i)
+- [5 LLM Gateways Compared: Choosing the Right Infrastructure &lpar;2025&rpar;](https://dev.to/debmckinney/5-llm-gateways-compared-choosing-the-right-infrastructure-2025-3h1p)
+- [Avoid Duplicate Outreach with Google Sheets &amp; n8n Automation](https://dev.to/omer_dahan_6305e5f4900a75/avoid-duplicate-outreach-with-google-sheets-n8n-automation-9bg)
+- [Cloud Engineer vs DevOps Engineer](https://dev.to/karthikkorrayi/cloud-engineer-vs-devops-engineer-244m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
