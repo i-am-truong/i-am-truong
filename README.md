@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Public Speaking at Tech Events 101: From Acceptance to the Stage](https://dev.to/lovelacecoding/public-speaking-at-tech-events-101-from-acceptance-to-the-stage-487l)
+- [How to Control Font Size in Froala Editor: Complete Guide to Pixel-Precise Typography](https://dev.to/froala_e3824d66439393cbce/how-to-control-font-size-in-froala-editor-complete-guide-to-pixel-precise-typography-bpf)
+- [How We Built a 100% Free AI Resume Builder &lpar;No Paywalls, No BS&rpar;](https://dev.to/abhay_prajapati/how-we-built-a-100-free-ai-resume-builder-no-paywalls-no-bs-55j2)
 - [AI Engineering: Advent of AI with goose Day 10](https://dev.to/eriperspective/ai-engineering-advent-of-ai-with-goose-day-10-351k)
 - [A Self-Healing System That Stays Alive When Everything Fails — Pure Python, No Dependencies](https://dev.to/system_research_c050d8c419e1d4/a-self-healing-system-that-stays-alive-when-everything-fails-pure-python-no-dependencies-2b42)
-- [Build a RAG Pipeline with n8n: Visual Workflows vs. Code-First](https://dev.to/omer_dahan_6305e5f4900a75/build-a-rag-pipeline-with-n8n-visual-workflows-vs-code-first-2a32)
-- [10 - Architecture and Organizations — Conway’s Law Revisited](https://dev.to/cristiansifuentes/10-architecture-and-organizations-conways-law-revisited-1l3g)
-- [The University of Phoenix Breach Reveals Higher Education&#39;s Rotten Security Bargain](https://dev.to/zeroblind25/the-university-of-phoenix-breach-reveals-higher-educations-rotten-security-bargain-ndh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
