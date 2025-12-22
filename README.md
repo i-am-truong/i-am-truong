@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [POJO-actor v1.0: A Lightweight Actor Model Library for Java](https://dev.to/devteam2512/pojo-actor-v10-a-lightweight-actor-model-library-for-java-2ccd)
-- [The DoD Experiment: A Diagnostic Tool in Disguise](https://dev.to/dexluce/the-dod-experiment-a-diagnostic-tool-in-disguise-5ee0)
-- [Kubernetes GitOps with Flux](https://dev.to/nikithlive/kubernetes-gitops-with-flux-916)
-- [Setting up AWS Bedrock with Claude](https://dev.to/yitaek/setting-up-aws-bedrock-with-claude-5f67)
-- [AI Survival Kit 2026 Academy Arms Real Workers](https://dev.to/skye_wright_1443d44f7b6d1/ai-survival-kit-2026-academy-arms-real-workers-475)
+- [Identifying Systemic Flaws in Delaware&#39;s Divorce Process: A Legal Critique](https://dev.to/paulafoxauthor/identifying-systemic-flaws-in-delawares-divorce-process-a-legal-critique-2gic)
+- [WebGPU Engine from Scratch Part 12: Ambient Lighting](https://dev.to/ndesmic/webgpu-engine-from-scratch-part-12-ambient-lighting-49hk)
+- [Art of a Good Question](https://dev.to/karant_dev/art-of-a-good-question-3kkl)
+- [AI Engineering: Advent of AI with goose Day 11](https://dev.to/eriperspective/ai-engineering-advent-of-ai-with-goose-day-11-ngm)
+- [End up building a decent ADV game engine with Antigravity and Chat GPT](https://dev.to/tomokat/end-up-building-a-decent-adv-game-engine-with-antigravity-and-chat-gpt-5cle)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
