@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Responsive Web Design: Breakpoints, Layouts &amp; Real Testing Guide](https://dev.to/prateekshaweb/responsive-web-design-breakpoints-layouts-real-testing-guide-5ee5)
-- [Improving Container Security with Docker Hardened Images](https://dev.to/pradumnasaraf/improving-container-security-with-docker-hardened-images-3bia)
-- [TinyLFU: Why Your JWT Auth Cache Needs Better Eviction 🔐](https://dev.to/akarshan/tinylfu-why-your-jwt-auth-cache-needs-better-eviction-3j71)
-- [Code Rigor vs AI Chaos: Should We Reinvent PHP Standards for PrestaShop Merchants?](https://dev.to/ndabene/code-rigor-vs-ai-chaos-should-we-reinvent-php-standards-for-prestashop-merchants-52f1)
-- [Joshua-Paul Meme Generator](https://dev.to/alvaromontoro/joshua-paul-meme-generator-4i3f)
+- [KMP 밋업 202512 후기](https://dev.to/kingori/kmp-miseob-202512-hugi-1fmj)
+- [What If Humanity Had Large Language Models in the Age of Flat Earth?](https://dev.to/pardnchiu/what-if-humanity-had-large-language-models-in-the-age-of-flat-earth-30jc)
+- [5 Revolutionary WhatsApp Automation Tips for Dental Clinics in 2025](https://dev.to/ravin_v_0db4c38bad4e7ef37/5-revolutionary-whatsapp-automation-tips-for-dental-clinics-in-2025-58o6)
+- [How to Implement Dependency Injection with POM in Playwright for Scalable Test Automation](https://dev.to/jignect-technologies/how-to-implement-dependency-injection-with-pom-in-playwright-for-scalable-test-automation-58n9)
+- [Part 07: Building a Sovereign Software Factory: ChatOps with Mattermost](https://dev.to/warren_jitsing_dd1c1d6fc6/part-07-building-a-sovereign-software-factory-chatops-with-mattermost-bf2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
