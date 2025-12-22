@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [現役エンジニアが選ぶ2025年必須開発ツール&lpar;IDEからAIまで&rpar;](https://dev.to/nakamura_takuya/xian-yi-enziniagaxuan-bu2025nian-bi-xu-kai-fa-turuidekaraaimade-66d)
-- [Adding Cryptographic Audit Trails to FIX Without Touching Your Trading Engine](https://dev.to/veritaschain/adding-cryptographic-audit-trails-to-fix-without-touching-your-trading-engine-551p)
-- [How to Send Emails in Ruby - Complete Guide with Code Examples](https://dev.to/sendlayer/how-to-send-emails-in-ruby-complete-guide-with-code-examples-24f7)
-- [I build things because silence is suspicious.](https://dev.to/trojanmocx/i-build-things-because-silence-is-suspicious-1852)
-- [Etika dan Tantangan Evaluasi Sistem](https://dev.to/ahmadasroni38/etika-dan-tantangan-evaluasi-sistem-1l71)
+- [Creating a Sustainable Software Maintenance Plan](https://dev.to/alona_instandart/creating-a-sustainable-software-maintenance-plan-3pe6)
+- [# Spoken English: The Journey from Silence to Confidence](https://dev.to/abdulla_a_0ae0233ce47ec5c/-spoken-english-the-journey-from-silence-to-confidence-3b92)
+- [Aerospace Inspection as Risk Management in Aviation](https://dev.to/amrepinspect/aerospace-inspection-as-risk-management-in-aviation-1fd5)
+- [How to Dynamically Position Form Fields in eSignature Requests Using API](https://dev.to/boldsign/how-to-dynamically-position-form-fields-in-esignature-requests-using-api-4f5k)
+- [How to integrate Brakeman Security Scanner with GitHub Code Scanning](https://dev.to/sampart/how-to-integrate-brakeman-security-scanner-with-github-code-scanning-44an)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
