@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Most developers use generative AI as a faster Google. Developers are applying AI where they&#39;re comfortable, now where it&#39;s powerful.](https://dev.to/jaideepparashar/most-developers-use-generative-ai-as-a-faster-google-developers-are-applying-ai-where-theyre-57lh)
-- [The Real Reason Most Developers Are Misusing Generative AI](https://dev.to/jaideepparashar/the-real-reason-most-developers-are-misusing-generative-ai-2cd7)
-- [Designing a Dynamic Loan Decision Engine in a Regulated FinTech Environment](https://dev.to/turalmu95150474/designing-a-dynamic-loan-decision-engine-in-a-regulated-fintech-environment-1f42)
-- [Payment Gateway vs Payment Processor: What&#39;s the Difference?](https://dev.to/jimquote/payment-gateway-vs-payment-processor-whats-the-difference-5h6d)
-- [Radxa ROCK 5 vs Raspberry Pi 5 vs Kiwi Pi 5: A Detailed Comparison of Modern Single-Board Computers](https://dev.to/dongpei_liao_8092a14d7c50/radxa-rock-5-vs-raspberry-pi-5-vs-kiwi-pi-5-a-detailed-comparison-of-modern-single-board-computers-l49)
+- [Payment Gateway vs. Payment Processor: Was ist der Unterschied?](https://dev.to/jimquote/payment-gateway-vs-payment-processor-was-ist-der-unterschied-5gad)
+- [Amazon RDS vs Amazon DYNAMODB](https://dev.to/mukesh_b_9758c3ceb936cdf1/amazon-rds-vs-amazon-dynamodb-2fdf)
+- [Why Feeling Busy All Day Can Still Leave You Feeling Unaccomplished](https://dev.to/jamesmiller25/why-feeling-busy-all-day-can-still-leave-you-feeling-unaccomplished-3m9a)
+- [How I built a reliable webhook queue in Rust &lpar;retries, idempotency, DLQ, schedules, workflows, real-time&rpar;](https://dev.to/ysalitrynskyi/how-i-built-a-reliable-webhook-queue-in-rust-retries-idempotency-dlq-schedules-workflows-2o7n)
+- [Why Productivity Feels Harder When You’re Not Actually Overworked](https://dev.to/jamesmiller25/why-productivity-feels-harder-when-youre-not-actually-overworked-1o23)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
