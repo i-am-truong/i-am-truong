@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My Journey Contributing to Django: From Intimidation to a Merged Ticket 🚀](https://dev.to/kihuni/my-journey-contributing-to-django-from-intimidation-to-a-merged-ticket-bg7)
-- [Future of AI](https://dev.to/akash_kirodiwal/future-of-ai-2ebd)
-- [Containerization 2025: Why containerd 2.0 and eBPF are Changing Everything](https://dev.to/dataformathub/containerization-2025-why-containerd-20-and-ebpf-are-changing-everything-ph5)
-- [IT Should Stop Cork-Sniffing Tools and Get Back to Engineering Basics](https://dev.to/leonpennings/it-should-stop-cork-sniffing-tools-and-get-back-to-engineering-basics-lcd)
-- [OmniHuman-1.5: Empowering Developers to Build Next-Gen Digital Human Experiences](https://dev.to/_c666a64d205f538b47c345/omnihuman-15-empowering-developers-to-build-next-gen-digital-human-experiences-55ol)
+- [Show Git Branch &amp; Status in Bash Prompt](https://dev.to/rosgluk/show-git-branch-status-in-bash-prompt-59h0)
+- [Animated Dark/Light Mode in React Native: The iPhone Way](https://dev.to/noman_akram_6c329a67f88ca/animated-darklight-mode-in-react-native-the-iphone-way-1j17)
+- [Umbraco vs WordPress: Which CMS Should You Use in 2026?](https://dev.to/addact_technologies_3322b/umbraco-vs-wordpress-which-cms-should-you-use-in-2026-23i5)
+- [Building an AI-Powered Resume Analyzer: My Journey with Resume Analiser](https://dev.to/mahmud-r-farhan/building-an-ai-powered-resume-analyzer-my-journey-with-resume-analiser-3lbf)
+- [Day 12: When Motivation Shifts](https://dev.to/casperday11/day-12-when-motivation-shifts-381f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
