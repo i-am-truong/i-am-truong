@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why NestJS Hot Reload Does Not Work in Docker and How to Fix It Properly](https://dev.to/osalumense/why-nestjs-hot-reload-does-not-work-in-docker-and-how-to-fix-it-properly-4de4)
-- [Building a Serverless PDF Merger &amp; Editor using React and pdf-lib &lpar;No Backend!&rpar;](https://dev.to/opzozi/building-a-serverless-pdf-merger-editor-using-react-and-pdf-lib-no-backend-1f1l)
-- [&lpar;2&rpar;Creating the Pinnacle of Niche Software: The devcontainer](https://dev.to/sukkergris/2creating-the-pinnacle-of-niche-software-the-devcontainer-305l)
-- [How I Built a Stroke Capture System for an AI Drawing Game](https://dev.to/adzhydra/how-i-built-a-stroke-capture-system-for-an-ai-drawing-game-g44)
-- [El error de seguridad más común es “Dale Admin y Ya”](https://dev.to/aws-espanol/el-error-de-seguridad-mas-comun-es-dale-admin-y-ya-o82)
+- [Stop Using AWS Access Keys in GitHub Actions: The OIDC Guide You Need](https://dev.to/alizgheib/stop-using-aws-access-keys-in-github-actions-the-oidc-guide-you-need-4c8l)
+- [Software engineering culture: mindset, teams, and action](https://dev.to/vburckhardt/software-engineering-culture-mindset-teams-and-action-33e3)
+- [From IT Trenches to Generative AI: My Journey Begins](https://dev.to/raymond_kaduma_4bec4e4e68/from-it-trenches-to-generative-ai-my-journey-begins-j8d)
+- [What the Independent Variation Principle Reveals About Type Safety](https://dev.to/yannick555/what-the-independent-variation-principle-reveals-about-type-safety-14ng)
+- [My Journey: Technology, Knowledge, and Building Meaningful Platforms](https://dev.to/arvindgupta/my-journey-technology-knowledge-and-building-meaningful-platforms-1hbn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
