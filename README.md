@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My Progress: Why I Wrote Down Everything I Learned About Mobile App Deployment](https://dev.to/cathylai/my-progress-why-i-wrote-down-everything-i-learned-about-mobile-app-deployment-49p0)
+- [What is the best free WordPress security plugin?](https://dev.to/cifi/what-is-the-best-free-wordpress-security-plugin-4jan)
+- [DevOps in Hybrid/Multicloud Environments](https://dev.to/godofgeeks/devops-in-hybridmulticloud-environments-50g5)
+- [Never Use Git Pull - The Beauty Of Rebase](https://dev.to/neyaznafiz/never-use-git-pull-the-beauty-of-rebase-10hf)
 - [DAOs in Practice – From Multi-Sig to Voting &lpar;And Why Ownership Tokens exist&rpar;](https://dev.to/ribhavmodi/daos-in-practice-from-multi-sig-to-voting-and-why-ownership-tokens-exist-e7i)
-- [Hashicorp Vault: Authentication Provider Almanac](https://dev.to/admantium/hashicorp-vault-authentication-provider-almanac-47g9)
-- [A Clean WordPress Website Checklist &lpar;What We Fix Before We Touch Design&rpar;](https://dev.to/digillexsols/a-clean-wordpress-website-checklist-what-we-fix-before-we-touch-design-56j2)
-- [Cracking the Code of GEO: How a 5-Year-Old Clinic Battles to the Top with 25 Reviews](https://dev.to/serral_9d642e22a7c4a0f87b/cracking-the-code-of-geo-how-a-5-year-old-clinic-battles-to-the-top-with-25-reviews-7k2)
-- [Release Apache APISIX Ingress Controller 2.0](https://dev.to/apisix/release-apache-apisix-ingress-controller-20-346n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
