@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The .NET Cross-Platform Showdown: MAUI vs Uno vs Avalonia &lpar;And Why Avalonia Won&rpar;](https://dev.to/biozal/the-net-cross-platform-showdown-maui-vs-uno-vs-avalonia-and-why-avalonia-won-ian)
-- [Diario de una builder: Preparándonos para AWS Machine Learning desde cero – Preparando Datos](https://dev.to/dcastrocordero22/diario-de-una-builder-preparandonos-para-aws-machine-learning-desde-cero-preparando-datos-3j4)
-- [Redis Pub/Sub vs Redis Streams](https://dev.to/amirtaherkhani/redis-pubsub-vs-redis-streams-115k)
-- [Random Module In Python](https://dev.to/nipundinuranga/random-module-in-python-44o0)
-- [I Got Tired of Searching for Simple Online Tools—So I Built One Place for Them](https://dev.to/humayun_nasir_04b087812ce/i-got-tired-of-searching-for-simple-online-tools-so-i-built-one-place-for-them-36ik)
+- [Commit Signing - GnuPG](https://dev.to/kuwv/commit-signing-gnupg-1pl4)
+- [Why I built ElysianDB](https://dev.to/taymour/why-i-built-elysiandb-2f5i)
+- [Configuring RapidAPI MCP Servers in VS Code Copilot](https://dev.to/0apocalypse0/configuring-rapidapi-mcp-servers-in-vs-code-copilot-3hoa)
+- [npm Security 2025: Why Provenance and Sigstore Change Everything](https://dev.to/dataformathub/npm-security-2025-why-provenance-and-sigstore-change-everything-2m7j)
+- [Understanding the core mechanics of ThingsDB](https://dev.to/joente/understanding-the-core-mechanics-of-thingsdb-1edg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
