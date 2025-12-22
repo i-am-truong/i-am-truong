@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a High-Performance Real-Time Camera Capture System in C++](https://dev.to/techsorter/building-a-high-performance-real-time-camera-capture-system-in-c-3kad)
-- [Why AI Code Suggestions Fail in Multi-File Projects](https://dev.to/leena_malhotra/why-ai-code-suggestions-fail-in-multi-file-projects-49j9)
-- [How to Use AI Software Development: Practical Enterprise Use Cases](https://dev.to/emmawilson01/how-to-use-ai-software-development-practical-enterprise-use-cases-5dp5)
-- [Código Limpio: 5 principios para dejar de escribir &quot;código espagueti&quot;](https://dev.to/oscarolg/codigo-limpio-5-principios-para-dejar-de-escribir-codigo-espagueti-4k4b)
-- [Top 10 Web Development Companies in Noida](https://dev.to/shruti_brijpuriya_2b88562/top-10-web-development-companies-in-noida-3o7b)
+- [5 Proven Strategies to Supercharge Team Performance in 2026](https://dev.to/standupify/5-proven-strategies-to-supercharge-team-performance-in-2026-3h41)
+- [From Failure to FAANG: My Guide to Slack System Design Interview Courses and Tactics](https://dev.to/dev_loops/from-failure-to-faang-my-guide-to-slack-system-design-interview-courses-and-tactics-1665)
+- [How to Monitor Essential Linux Logs for System Health](https://dev.to/serveravatar/how-to-monitor-essential-linux-logs-for-system-health-m6l)
+- [I Built a Medium Article Scraper for Content Analysis &amp; Research.](https://dev.to/sunday_victor_0c3b4c71c69/i-built-a-medium-article-scraper-for-content-analysis-research-344n)
+- [What is one unspoken rule your team follows in chat that keeps things running smoothly?](https://dev.to/clariti_22_6e89b280ccd102/what-is-one-unspoken-rule-your-team-follows-in-chat-that-keeps-things-running-smoothly-242b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
