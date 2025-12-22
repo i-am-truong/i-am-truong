@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/dcastrocordero22/-2e00)
-- [Eliminating SSH Dependencies: Migrating to Self-Hosted GitHub Actions Runners for Secure Blue-Green Deployments](https://dev.to/sangwoo_rhie/eliminating-ssh-dependencies-migrating-to-self-hosted-github-actions-runners-for-secure-blue-green-m02)
-- [Clean Architecture as a Consequence, Not a Pattern](https://dev.to/cristiansifuentes/clean-architecture-as-a-consequence-not-a-pattern-why-good-architecture-emer-778)
-- [Encapsulation &amp; Information Hiding — Designing for Ignorance](https://dev.to/cristiansifuentes/encapsulation-information-hiding-designing-for-ignorance-why-great-software-survives-by-3937)
-- [Composition vs Inheritance — The Physics of Change](https://dev.to/cristiansifuentes/composition-vs-inheritance-the-physics-of-change-why-software-systems-break-bend-or-survive-1p28)
+- [Como Implementar um Sistema RAG do Zero em Python](https://dev.to/asouza/como-implementar-um-sistema-rag-do-zero-em-python-1ej7)
+- [How I Built an MCP Server to Create My Own AI Writing Style Guide Expert](https://dev.to/siddhartha_mani_03/how-i-built-an-mcp-server-to-create-my-own-ai-writing-style-guide-expert-297m)
+- [What Publishing an Mobile App Involves: Time, Cost, and Equipments](https://dev.to/cathylai/what-publishing-an-mobile-app-involves-time-cost-and-equipments-1923)
+- [Revamping Supply Chain: A Blockchain Web3 Case Study](https://dev.to/hkj13/revamping-supply-chain-a-blockchain-web3-case-study-3p2p)
+- [Micro Frontends: Decomposing Your Frontend for Scalability and Agility](https://dev.to/techblogs/micro-frontends-decomposing-your-frontend-for-scalability-and-agility-fn9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
