@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Managing Multiple Brands in Rails: Multi-Tenant Patterns from RobinReach](https://dev.to/shahershamroukh/managing-multiple-brands-in-rails-multi-tenant-patterns-from-robinreach-10ln)
-- [If You Want to Embrace Asynchronous Work, Shift from Meeting-Driven to Task-Driven](https://dev.to/stakiran/if-you-want-to-embrace-asynchronous-work-shift-from-meeting-driven-to-task-driven-5fpp)
-- [I Thought I Was Slacking Off](https://dev.to/leo_codes07/i-thought-i-was-slacking-off-l5)
-- [Construcción de Agentes con Microsoft Foundry](https://dev.to/esdanielgomez/construccion-de-agentes-con-microsoft-foundry-54h5)
-- [AI Agents Architecture](https://dev.to/ayas_tech_2b0560ee159e661/ai-agents-architecture-4284)
+- [Next.js 16 Type Safety: Async PageProps &amp; Typed Routes](https://dev.to/bharathkumar28/nextjs-16-type-safety-async-pageprops-typed-routes-3ilc)
+- [Vibe Coding: Does Coding Feel Different to You Now?](https://dev.to/ai_miracle_ai/vibe-coding-does-coding-feel-different-to-you-now-3l3g)
+- [The &quot;Cache Handshake&quot;: How Laravel Events Control Next.js 16 ISR](https://dev.to/yabasha/the-cache-handshake-how-laravel-events-control-nextjs-16-isr-3n6b)
+- [AI Engineering: Advent of AI with goose Day 12](https://dev.to/eriperspective/ai-engineering-advent-of-ai-with-goose-day-12-25cf)
+- [Designing a YouTube Digest for Signal Over Noise](https://dev.to/ssilambarasan/designing-a-youtube-digest-for-signal-over-noise-9c6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
