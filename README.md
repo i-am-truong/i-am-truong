@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [現役エンジニアが選ぶ2025年必須開発ツール&lpar;IDEからAIまで&rpar;](https://dev.to/nakamura_takuya/xian-yi-enziniagaxuan-bu2025nian-bi-xu-kai-fa-turuidekaraaimade-66d)
+- [Adding Cryptographic Audit Trails to FIX Without Touching Your Trading Engine](https://dev.to/veritaschain/adding-cryptographic-audit-trails-to-fix-without-touching-your-trading-engine-551p)
 - [How to Send Emails in Ruby - Complete Guide with Code Examples](https://dev.to/sendlayer/how-to-send-emails-in-ruby-complete-guide-with-code-examples-24f7)
 - [I build things because silence is suspicious.](https://dev.to/trojanmocx/i-build-things-because-silence-is-suspicious-1852)
 - [Etika dan Tantangan Evaluasi Sistem](https://dev.to/ahmadasroni38/etika-dan-tantangan-evaluasi-sistem-1l71)
-- [Are You a Luddite](https://dev.to/ejb503/are-you-a-luddite-2pj0)
-- [Go Workspace Structure: From GOPATH to go.work](https://dev.to/rosgluk/go-workspace-structure-from-gopath-to-gowork-35ig)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
