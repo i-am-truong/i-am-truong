@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Built a Full POS SaaS Entirely Using AI &lpar;Desktop, Mobile, Landing Page &amp; Blog&rpar;](https://dev.to/adan_2001/how-i-built-a-full-pos-saas-entirely-using-ai-desktop-mobile-landing-page-blog-1j1g)
+- [Add authentication to your Nuxt 3 and Vue 3 applications &lpar;Logto&rpar;](https://dev.to/bitwiserokos/add-authentication-to-your-nuxt-3-and-vue-3-applications-logto-4oeh)
 - [North Carolina Startup App Costs 2026](https://dev.to/del_rosario/north-carolina-startup-app-costs-2026-4bnn)
 - [A Practical Guide to Classifying Non-Linear Datasets with Pytorch](https://dev.to/olabamipetaiwo/a-practical-guide-to-classifying-non-linear-datasets-with-pytorch-4he1)
 - [How I Stopped Guessing App Growth and Started Tracking Market Signals Over Time](https://dev.to/ty_y_1d5410f6fd32364ad8c2/how-i-stopped-guessing-app-growth-and-started-tracking-market-signals-over-time-3fcb)
-- [WebAssembly is Ready &lpar;And You Should Use It&rpar;](https://dev.to/polliog/webassembly-is-ready-and-you-should-use-it-3n9a)
-- [The Engineering History of AI: Why Your LLM Hallucinations Are as Old as the 13th Century](https://dev.to/emmimal_alexander_3be8cc7/the-engineering-history-of-ai-why-your-llm-hallucinations-are-as-old-as-the-13th-century-2kp9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
