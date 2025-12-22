@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Creating a Sustainable Software Maintenance Plan](https://dev.to/alona_instandart/creating-a-sustainable-software-maintenance-plan-3pe6)
-- [# Spoken English: The Journey from Silence to Confidence](https://dev.to/abdulla_a_0ae0233ce47ec5c/-spoken-english-the-journey-from-silence-to-confidence-3b92)
-- [Aerospace Inspection as Risk Management in Aviation](https://dev.to/amrepinspect/aerospace-inspection-as-risk-management-in-aviation-1fd5)
-- [How to Dynamically Position Form Fields in eSignature Requests Using API](https://dev.to/boldsign/how-to-dynamically-position-form-fields-in-esignature-requests-using-api-4f5k)
-- [How to integrate Brakeman Security Scanner with GitHub Code Scanning](https://dev.to/sampart/how-to-integrate-brakeman-security-scanner-with-github-code-scanning-44an)
+- [Modern Swift Architecture and the Patterns Behind QuiKey](https://dev.to/tomerbendavid/modern-swift-architecture-and-the-patterns-behind-quikey-59eh)
+- [ANNOUNCING Telegem V1.0.0 - The modern Telegram Bot Framework for ruby](https://dev.to/slick_phantom/announcing-telegem-v100-the-modern-telegram-bot-framework-for-ruby-5a65)
+- [AI Prompt Optimization Made Simple: How BrimAI Eliminates Prompt Engineering Complexity for Better ChatGPT and LLM Results](https://dev.to/talibackend/ai-prompt-optimization-made-simple-how-brimai-eliminates-prompt-engineering-complexity-for-better-dp0)
+- [Agentic CMS: Redefining Content Management for the Future](https://dev.to/nickpe/agentic-cms-redefining-content-management-for-the-future-3nde)
+- [PHP 8.5 Pipe Operator &lpar;|&gt;&rpar; – Is It Worth Using?](https://dev.to/tegos/php-85-pipe-operator-is-it-worth-using-4gig)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
