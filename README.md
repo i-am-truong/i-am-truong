@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Music Monday &lpar;Seed the playlist!&rpar;](https://dev.to/musicforem/music-monday-seed-the-playlist-2alc)
-- [A Quick Lesson After A Long Debugging Session &lpar;And Almost Pulling My Hair Off&rpar;](https://dev.to/canro91/a-quick-lesson-after-a-long-debugging-session-and-almost-pulling-my-hair-off-3jfh)
-- [Mastering Real-Time Communication with Socket.IO Rooms](https://dev.to/ctrix/mastering-real-time-communication-with-socketio-rooms-4bom)
-- [Daily Tech News Roundup - 2025-12-22](https://dev.to/atharvshinde2004/daily-tech-news-roundup-2025-12-22-2ea9)
-- [DevSecOps Periodic Table — Tool “Fe”](https://dev.to/iniko/devsecops-periodic-table-tool-fe-p0k)
+- [Responsive Web Design: Breakpoints, Layouts &amp; Real Testing Guide](https://dev.to/prateekshaweb/responsive-web-design-breakpoints-layouts-real-testing-guide-5ee5)
+- [Improving Container Security with Docker Hardened Images](https://dev.to/pradumnasaraf/improving-container-security-with-docker-hardened-images-3bia)
+- [TinyLFU: Why Your JWT Auth Cache Needs Better Eviction 🔐](https://dev.to/akarshan/tinylfu-why-your-jwt-auth-cache-needs-better-eviction-3j71)
+- [Code Rigor vs AI Chaos: Should We Reinvent PHP Standards for PrestaShop Merchants?](https://dev.to/ndabene/code-rigor-vs-ai-chaos-should-we-reinvent-php-standards-for-prestashop-merchants-52f1)
+- [Joshua-Paul Meme Generator](https://dev.to/alvaromontoro/joshua-paul-meme-generator-4i3f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
