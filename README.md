@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cuando mi LLM aprendió a tener prisa, diagnóstico y contención del sesgo agéntico](https://dev.to/jjdelcerro/cuando-mi-llm-aprendio-a-tener-prisa-diagnostico-y-contencion-del-sesgo-agentico-i07)
-- [Why I’m building a Windows-first emotional AI assistant &lpar;lessons so far&rpar;](https://dev.to/anna2612/why-im-building-a-windows-first-emotional-ai-assistant-lessons-so-far-1iii)
-- [Building a scalable multi-bucket load balancer for Cloudflare R2](https://dev.to/image2url/building-a-scalable-multi-bucket-load-balancer-for-cloudflare-r2-920)
-- [TypeScript Errors Are Not Annoying They’re Helpful](https://dev.to/talal_qasim_a28641c40c9a6/typescript-errors-are-not-annoying-theyre-helpful-5coo)
-- [Indirect Prompt Injection: The Complete Guide](https://dev.to/alessandro_pignati/indirect-prompt-injection-the-complete-guide-1m9h)
+- [Kali Linux XFCE Panel Missing in VirtualBox — Complete Fix &lpar;2025&rpar;](https://dev.to/amankumarhappy/kali-linux-xfce-panel-missing-in-virtualbox-complete-fix-2025-526f)
+- [How to Tell If Your WhatsApp Account Is Hacked — and How to Protect Yourself](https://dev.to/ciberconscientes/how-to-tell-if-your-whatsapp-account-is-hacked-and-how-to-protect-yourself-2d2l)
+- [Meme Monday](https://dev.to/ben/meme-monday-2a0o)
+- [Mistakes Beginners Make When Recording Income and Expenses Digitally](https://dev.to/lucianopatrick/mistakes-beginners-make-when-recording-income-and-expenses-digitally-518a)
+- [Beyond ASP.NET: Lightweight Alternatives for C# Web Development](https://dev.to/kaliumhexacyanoferrat/beyond-aspnet-lightweight-alternatives-for-c-web-development-2ohi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
