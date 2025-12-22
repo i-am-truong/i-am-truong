@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Show Git Branch &amp; Status in Bash Prompt](https://dev.to/rosgluk/show-git-branch-status-in-bash-prompt-59h0)
-- [Animated Dark/Light Mode in React Native: The iPhone Way](https://dev.to/noman_akram_6c329a67f88ca/animated-darklight-mode-in-react-native-the-iphone-way-1j17)
-- [Umbraco vs WordPress: Which CMS Should You Use in 2026?](https://dev.to/addact_technologies_3322b/umbraco-vs-wordpress-which-cms-should-you-use-in-2026-23i5)
-- [Building an AI-Powered Resume Analyzer: My Journey with Resume Analiser](https://dev.to/mahmud-r-farhan/building-an-ai-powered-resume-analyzer-my-journey-with-resume-analiser-3lbf)
-- [Day 12: When Motivation Shifts](https://dev.to/casperday11/day-12-when-motivation-shifts-381f)
+- [How to Send Emails in Ruby - Complete Guide with Code Examples](https://dev.to/sendlayer/how-to-send-emails-in-ruby-complete-guide-with-code-examples-24f7)
+- [I build things because silence is suspicious.](https://dev.to/trojanmocx/i-build-things-because-silence-is-suspicious-1852)
+- [Etika dan Tantangan Evaluasi Sistem](https://dev.to/ahmadasroni38/etika-dan-tantangan-evaluasi-sistem-1l71)
+- [Are You a Luddite](https://dev.to/ejb503/are-you-a-luddite-2pj0)
+- [Go Workspace Structure: From GOPATH to go.work](https://dev.to/rosgluk/go-workspace-structure-from-gopath-to-gowork-35ig)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
