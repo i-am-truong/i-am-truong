@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Actions + AWS Role Chaining: A Security Upgrade Worth Making](https://dev.to/aws-builders/github-actions-aws-role-chaining-a-security-upgrade-worth-making-3ibb)
+- [Part 7: Terraform - Making Infrastructure Repeatable](https://dev.to/daviesbrown/part-7-terraform-making-infrastructure-repeatable-3f8p)
+- [Part 6: Kubernetes from First Principles &lpar;No Magic&rpar;](https://dev.to/daviesbrown/part-6-kubernetes-from-first-principles-no-magic-522c)
 - [Part 5: From One Server to Many - The Need for Orchestration](https://dev.to/daviesbrown/part-5-from-one-server-to-many-the-need-for-orchestration-i3h)
 - [Part 4: Running Multiple Services Locally with Docker Compose](https://dev.to/daviesbrown/part-4-running-multiple-services-locally-with-docker-compose-2n97)
-- [Part 3: Dependency Hell - Why Docker Exists](https://dev.to/daviesbrown/part-3-dependency-hell-why-docker-exists-27b5)
-- [Part 2: Process Managers - Keeping Your App Alive with PM2](https://dev.to/daviesbrown/part-2-process-managers-keeping-your-app-alive-with-pm2-4knl)
-- [Part 1: The Default Way - Putting an App on a Server &lpar;And Why It Breaks&rpar;](https://dev.to/daviesbrown/part-1-the-default-way-putting-an-app-on-a-server-and-why-it-breaks-2a5j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
