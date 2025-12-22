@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[Boost]](https://dev.to/dcastrocordero22/-2e00)
 - [Eliminating SSH Dependencies: Migrating to Self-Hosted GitHub Actions Runners for Secure Blue-Green Deployments](https://dev.to/sangwoo_rhie/eliminating-ssh-dependencies-migrating-to-self-hosted-github-actions-runners-for-secure-blue-green-m02)
 - [Clean Architecture as a Consequence, Not a Pattern](https://dev.to/cristiansifuentes/clean-architecture-as-a-consequence-not-a-pattern-why-good-architecture-emer-778)
-- [Abstract Classes vs Interfaces in C# — A Deep, Real‑World Comparison](https://dev.to/cristiansifuentes/abstract-classes-vs-interfaces-in-c-a-deep-real-world-comparison-2593)
-- [Classes in C#: From First Principles to Architectural Mastery](https://dev.to/cristiansifuentes/classes-in-c-from-first-principles-to-architectural-mastery-an-artist-scientist-guide-to-odj)
-- [Day 1 with Docker](https://dev.to/chandraa007b/day-1-with-docker-2enm)
+- [Encapsulation &amp; Information Hiding — Designing for Ignorance](https://dev.to/cristiansifuentes/encapsulation-information-hiding-designing-for-ignorance-why-great-software-survives-by-3937)
+- [Composition vs Inheritance — The Physics of Change](https://dev.to/cristiansifuentes/composition-vs-inheritance-the-physics-of-change-why-software-systems-break-bend-or-survive-1p28)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
