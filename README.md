@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Commit Signing - GnuPG](https://dev.to/kuwv/commit-signing-gnupg-1pl4)
-- [Why I built ElysianDB](https://dev.to/taymour/why-i-built-elysiandb-2f5i)
-- [Configuring RapidAPI MCP Servers in VS Code Copilot](https://dev.to/0apocalypse0/configuring-rapidapi-mcp-servers-in-vs-code-copilot-3hoa)
-- [npm Security 2025: Why Provenance and Sigstore Change Everything](https://dev.to/dataformathub/npm-security-2025-why-provenance-and-sigstore-change-everything-2m7j)
-- [Understanding the core mechanics of ThingsDB](https://dev.to/joente/understanding-the-core-mechanics-of-thingsdb-1edg)
+- [Windows paths with spaces in Python&#39;s `os`](https://dev.to/nazanin_ashrafi/windows-paths-with-spaces-in-pythons-os-2kl4)
+- [How to keep up with technology and advance your career](https://dev.to/aws-builders/how-to-keep-up-with-technology-and-advance-your-career-3oa5)
+- [Upwork new categories structure 2025. Full structure](https://dev.to/chocomastery/upwork-new-categories-structure-2025-full-structure-31lm)
+- [VSCode Extensions](https://dev.to/lucaspereiradesouzat/vscode-extensions-oll)
+- [Extensões para VSCode](https://dev.to/lucaspereiradesouzat/extensoes-para-vscode-3mkc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
