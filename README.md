@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Technical Breakdown of a Darknet Market Takedown](https://dev.to/tor_bbb/technical-breakdown-of-a-darknet-market-takedown-28n1)
-- [Build a Reddit Ad Spy Tool to Find Winning Ad Angles](https://dev.to/olams/build-a-reddit-ad-spy-tool-to-find-winning-ad-angles-5dmf)
-- [Fascinating reading, very thought-provoking content...](https://dev.to/miketalbot/fascinating-reading-very-thought-provoking-content-h7)
-- [How to Programmatically Fill a PDF Form with Raw JavaScript &lpar;The Easy Way&rpar;](https://dev.to/joyfill/how-to-programmatically-fill-a-pdf-form-with-raw-javascript-the-easy-way-1lj5)
-- [Day 72: Python Sliding Window Maximum - Deque O&lpar;n&rpar; Solution for Efficient Max Tracking &lpar;LeetCode #239 Guide&rpar;](https://dev.to/shahrouzlogs/day-72-python-sliding-window-maximum-deque-on-solution-for-efficient-max-tracking-leetcode-1f2i)
+- [The .NET Cross-Platform Showdown: MAUI vs Uno vs Avalonia &lpar;And Why Avalonia Won&rpar;](https://dev.to/biozal/the-net-cross-platform-showdown-maui-vs-uno-vs-avalonia-and-why-avalonia-won-ian)
+- [Diario de una builder: Preparándonos para AWS Machine Learning desde cero – Preparando Datos](https://dev.to/dcastrocordero22/diario-de-una-builder-preparandonos-para-aws-machine-learning-desde-cero-preparando-datos-3j4)
+- [Redis Pub/Sub vs Redis Streams](https://dev.to/amirtaherkhani/redis-pubsub-vs-redis-streams-115k)
+- [Random Module In Python](https://dev.to/nipundinuranga/random-module-in-python-44o0)
+- [I Got Tired of Searching for Simple Online Tools—So I Built One Place for Them](https://dev.to/humayun_nasir_04b087812ce/i-got-tired-of-searching-for-simple-online-tools-so-i-built-one-place-for-them-36ik)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
