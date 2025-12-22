@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My Progress: Why I Wrote Down Everything I Learned About Mobile App Deployment](https://dev.to/cathylai/my-progress-why-i-wrote-down-everything-i-learned-about-mobile-app-deployment-49p0)
-- [What is the best free WordPress security plugin?](https://dev.to/cifi/what-is-the-best-free-wordpress-security-plugin-4jan)
-- [DevOps in Hybrid/Multicloud Environments](https://dev.to/godofgeeks/devops-in-hybridmulticloud-environments-50g5)
-- [Never Use Git Pull - The Beauty Of Rebase](https://dev.to/neyaznafiz/never-use-git-pull-the-beauty-of-rebase-10hf)
-- [DAOs in Practice – From Multi-Sig to Voting &lpar;And Why Ownership Tokens exist&rpar;](https://dev.to/ribhavmodi/daos-in-practice-from-multi-sig-to-voting-and-why-ownership-tokens-exist-e7i)
+- [A Practical Guide to Building AI Agents with Java and Spring AI - Part 6 - Multi-Modal Multi-Model](https://dev.to/yuriybezsonov/a-practical-guide-to-building-ai-agents-with-java-and-spring-ai-part-6-multi-modal-multi-model-3664)
+- [⚡️Effortless API Calls in TypeScript with Strands Agent SDK&#39;s HTTP Request Tool](https://dev.to/buildandcodewithraman/effortless-api-calls-in-typescript-with-strands-agent-sdks-http-request-tool-k0e)
+- [DevOps From Scratch: A Student’s Diary &lpar;Entry #00&rpar;](https://dev.to/maame-codes/devops-from-scratch-a-students-diary-entry-00-5b71)
+- [SafeLine WAF Log Analysis in Action: 3 Key Techniques to Uncover Business Issues](https://dev.to/arina_cholee/safeline-waf-log-analysis-in-action-3-key-techniques-to-uncover-business-issues-ol3)
+- [Not to be missed!](https://dev.to/dc600/not-to-be-missed-1pn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
