@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Advent of Code: Perform a yestruC](https://dev.to/rkeeves/advent-of-code-perform-a-yestruc-2201)
-- [Real-World System Design: Authentication, RBAC, and Multi-Tenant Architecture &lpar;Part 1&rpar;](https://dev.to/shailesh_singh_d23390342e/real-world-system-design-authentication-rbac-and-multi-tenant-architecture-part-1-3n8p)
-- [🪄 Underwind — The Starter Theme That Let the Wind Change Direction](https://dev.to/melasistema/underwind-the-starter-theme-that-let-the-wind-change-direction-24ei)
-- [Localhost is a Lie: The Happy Path Fallacy](https://dev.to/doogal/localhost-is-a-lie-the-happy-path-fallacy-16gn)
-- [Mobile Supply Chain Security: SBOM and Dependency Risk for App Teams](https://dev.to/m_sikandar/mobile-supply-chain-security-sbom-and-dependency-risk-for-app-teams-3285)
+- [How I Stopped Guessing App Growth and Started Tracking Market Signals Over Time](https://dev.to/ty_y_1d5410f6fd32364ad8c2/how-i-stopped-guessing-app-growth-and-started-tracking-market-signals-over-time-3fcb)
+- [WebAssembly is Ready &lpar;And You Should Use It&rpar;](https://dev.to/polliog/webassembly-is-ready-and-you-should-use-it-3n9a)
+- [The Engineering History of AI: Why Your LLM Hallucinations Are as Old as the 13th Century](https://dev.to/emmimal_alexander_3be8cc7/the-engineering-history-of-ai-why-your-llm-hallucinations-are-as-old-as-the-13th-century-2kp9)
+- [Why Most Dashboards Lie &lpar;And It’s Not a BI Problem&rpar;](https://dev.to/kaaioh013/why-most-dashboards-lie-and-its-not-a-bi-problem-29fj)
+- [Shopify + HubSpot / Salesforce Integration Using Webhooks &amp; APIs](https://dev.to/lucy1/shopify-hubspot-salesforce-integration-using-webhooks-apis-2lpb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
