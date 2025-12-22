@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Introducing ProXPL: A Modern Programming Language Built from Scratch](https://dev.to/programmerkr/introducing-proxpl-a-modern-programming-language-built-from-scratch-81n)
-- [Day-13 Refactoring Ansible Playbooks into Roles 🚀](https://dev.to/jayanth_dasari_7/day-13-refactoring-ansible-playbooks-into-roles-5bcn)
-- [The Cost of Stopping When We Hit the Wall](https://dev.to/yoditdevn8n/the-cost-of-stopping-when-we-hit-the-wall-33le)
-- [Platform for Reporting Scams: Cyber Alerts🛡️](https://dev.to/r9n/platform-for-reporting-scams-cyber-alerts-49hl)
-- [Home Automation in 3MB: Building a Rust System for Raspberry Pi Zero](https://dev.to/scaraude/home-automation-in-3mb-building-a-rust-system-for-raspberry-pi-zero-56d6)
+- [Eliminating SSH Dependencies: Migrating to Self-Hosted GitHub Actions Runners for Secure Blue-Green Deployments](https://dev.to/sangwoo_rhie/eliminating-ssh-dependencies-migrating-to-self-hosted-github-actions-runners-for-secure-blue-green-m02)
+- [Clean Architecture as a Consequence, Not a Pattern](https://dev.to/cristiansifuentes/clean-architecture-as-a-consequence-not-a-pattern-why-good-architecture-emer-778)
+- [Abstract Classes vs Interfaces in C# — A Deep, Real‑World Comparison](https://dev.to/cristiansifuentes/abstract-classes-vs-interfaces-in-c-a-deep-real-world-comparison-2593)
+- [Classes in C#: From First Principles to Architectural Mastery](https://dev.to/cristiansifuentes/classes-in-c-from-first-principles-to-architectural-mastery-an-artist-scientist-guide-to-odj)
+- [Day 1 with Docker](https://dev.to/chandraa007b/day-1-with-docker-2enm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
