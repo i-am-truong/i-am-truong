@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How We Prevent Ads from Interrupting Critical User Workflows](https://dev.to/pradeep_kumar_fc55a4d876b/how-we-prevent-ads-from-interrupting-critical-user-workflows-30d7)
+- [CI/CD Is Not Only for the Cloud: Building a CI/CD Pipeline for Shared Hosting Using GitHub Actions](https://dev.to/snnajieze/cicd-is-not-only-for-the-cloud-building-a-cicd-pipeline-for-shared-hosting-using-github-actions-4c4h)
+- [Creating EC2 Instance](https://dev.to/daniel_shaibu/creating-ec2-instance-10g1)
+- [What I Learned Building with GitHub Copilot as a Java Developer](https://dev.to/eddybenchek/what-i-learned-building-with-github-copilot-as-a-java-developer-9bk)
 - [Stop Using AWS Access Keys in GitHub Actions: The OIDC Guide You Need](https://dev.to/alizgheib/stop-using-aws-access-keys-in-github-actions-the-oidc-guide-you-need-4c8l)
-- [Software engineering culture: mindset, teams, and action](https://dev.to/vburckhardt/software-engineering-culture-mindset-teams-and-action-33e3)
-- [From IT Trenches to Generative AI: My Journey Begins](https://dev.to/raymond_kaduma_4bec4e4e68/from-it-trenches-to-generative-ai-my-journey-begins-j8d)
-- [What the Independent Variation Principle Reveals About Type Safety](https://dev.to/yannick555/what-the-independent-variation-principle-reveals-about-type-safety-14ng)
-- [My Journey: Technology, Knowledge, and Building Meaningful Platforms](https://dev.to/arvindgupta/my-journey-technology-knowledge-and-building-meaningful-platforms-1hbn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
