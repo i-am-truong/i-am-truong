@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How We Prevent Ads from Interrupting Critical User Workflows](https://dev.to/pradeep_kumar_fc55a4d876b/how-we-prevent-ads-from-interrupting-critical-user-workflows-30d7)
-- [CI/CD Is Not Only for the Cloud: Building a CI/CD Pipeline for Shared Hosting Using GitHub Actions](https://dev.to/snnajieze/cicd-is-not-only-for-the-cloud-building-a-cicd-pipeline-for-shared-hosting-using-github-actions-4c4h)
-- [Creating EC2 Instance](https://dev.to/daniel_shaibu/creating-ec2-instance-10g1)
-- [What I Learned Building with GitHub Copilot as a Java Developer](https://dev.to/eddybenchek/what-i-learned-building-with-github-copilot-as-a-java-developer-9bk)
-- [Software engineering culture: mindset, teams, and action](https://dev.to/vburckhardt/software-engineering-culture-mindset-teams-and-action-33e3)
+- [Part 4: Running Multiple Services Locally with Docker Compose](https://dev.to/daviesbrown/part-4-running-multiple-services-locally-with-docker-compose-2n97)
+- [Part 3: Dependency Hell - Why Docker Exists](https://dev.to/daviesbrown/part-3-dependency-hell-why-docker-exists-27b5)
+- [Part 2: Process Managers - Keeping Your App Alive with PM2](https://dev.to/daviesbrown/part-2-process-managers-keeping-your-app-alive-with-pm2-4knl)
+- [Part 1: The Default Way - Putting an App on a Server &lpar;And Why It Breaks&rpar;](https://dev.to/daviesbrown/part-1-the-default-way-putting-an-app-on-a-server-and-why-it-breaks-2a5j)
+- [If You Learn to Code, Who Will You Teach?](https://dev.to/the_duchess_of_hackers/if-you-learn-to-code-who-will-you-teach-3in2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
