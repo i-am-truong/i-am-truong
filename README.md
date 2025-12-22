@@ -122,9 +122,9 @@ Python                   1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [Introducing ProXPL: A Modern Programming Language Built from Scratch](https://dev.to/programmerkr/introducing-proxpl-a-modern-programming-language-built-from-scratch-81n)
 - [Day-13 Refactoring Ansible Playbooks into Roles 🚀](https://dev.to/jayanth_dasari_7/day-13-refactoring-ansible-playbooks-into-roles-5bcn)
+- [The Cost of Stopping When We Hit the Wall](https://dev.to/yoditdevn8n/the-cost-of-stopping-when-we-hit-the-wall-33le)
 - [Platform for Reporting Scams: Cyber Alerts🛡️](https://dev.to/r9n/platform-for-reporting-scams-cyber-alerts-49hl)
 - [Home Automation in 3MB: Building a Rust System for Raspberry Pi Zero](https://dev.to/scaraude/home-automation-in-3mb-building-a-rust-system-for-raspberry-pi-zero-56d6)
-- [Windows paths with spaces in Python&#39;s `os`](https://dev.to/nazanin_ashrafi/windows-paths-with-spaces-in-pythons-os-2kl4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
