@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The “Traffic Jam” That Kills Your Database &lpar;And How to Fix It&rpar;](https://dev.to/fabiothiroki/the-traffic-jam-that-kills-your-database-and-how-to-fix-it-5gdd)
-- [Why Open Source](https://dev.to/lollisoft/why-open-source-1mbh)
-- [Planning Solutions: Driving Smarter Decisions and Business Growth](https://dev.to/oodlesplatform/planning-solutions-driving-smarter-decisions-and-business-growth-l7i)
-- [A Practical Guide to Building AI Agents with Java and Spring AI - Part 6 - Multi-Modal Multi-Model](https://dev.to/yuriybezsonov/a-practical-guide-to-building-ai-agents-with-java-and-spring-ai-part-6-multi-modal-multi-model-3664)
-- [Why Developers Start Their Day with Wendy’s Breakfast](https://dev.to/checkers_menu_8a2f7ed43e2/why-developers-start-their-day-with-wendys-breakfast-2kp6)
+- [Perl 🐪 Weekly #752 - Marlin - OOP Framework](https://dev.to/szabgab/perl-weekly-752-marlin-oop-framework-49k4)
+- [Understanding Serverless Containers on AWS](https://dev.to/shawmeer22/understanding-serverless-containers-on-aws-41il)
+- [Exploring Mobile Performance Monitoring: iOS RUM SDK Architecture and Practices](https://dev.to/observabilityguy/exploring-mobile-performance-monitoring-ios-rum-sdk-architecture-and-practices-3m0b)
+- [Amazon Bedrock AgentCore Gateway - Part 5 Add API Gateway REST API as a target for Amazon Bedrock AgentCore Gateway](https://dev.to/aws-heroes/amazon-bedrock-agentcore-gateway-part-5-add-api-gateway-rest-api-as-a-target-for-amazon-bedrock-5fic)
+- [The two most important tools for HTML developers](https://dev.to/cfried/the-two-most-important-tools-for-html-developers-24nb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
