@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Full POS SaaS Entirely Using AI &lpar;Desktop, Mobile, Landing Page &amp; Blog&rpar;](https://dev.to/adan_2001/how-i-built-a-full-pos-saas-entirely-using-ai-desktop-mobile-landing-page-blog-1j1g)
+- [Mr Sunday Movies: Are you over it? - Avatar: Fire &amp; Ash Review](https://dev.to/popcorn_movies/mr-sunday-movies-are-you-over-it-avatar-fire-ash-review-373d)
+- [Building for Everyone](https://dev.to/rawveg/building-for-everyone-55b8)
+- [Run Rancher Desktop on Fedora Atomic Desktops &lpar;Toolbox Container Method&rpar;](https://dev.to/noorlatif/run-rancher-desktop-on-fedora-atomic-desktops-toolbox-container-method-9oi)
+- [Building an Offline-First POS SaaS Entirely with AI Including Desktop, Mobile Apps, and Landing Page](https://dev.to/adan_2001/how-i-built-a-full-pos-saas-entirely-using-ai-desktop-mobile-landing-page-blog-1j1g)
 - [Add authentication to your Nuxt 3 and Vue 3 applications &lpar;Logto&rpar;](https://dev.to/bitwiserokos/add-authentication-to-your-nuxt-3-and-vue-3-applications-logto-4oeh)
-- [North Carolina Startup App Costs 2026](https://dev.to/del_rosario/north-carolina-startup-app-costs-2026-4bnn)
-- [A Practical Guide to Classifying Non-Linear Datasets with Pytorch](https://dev.to/olabamipetaiwo/a-practical-guide-to-classifying-non-linear-datasets-with-pytorch-4he1)
-- [How I Stopped Guessing App Growth and Started Tracking Market Signals Over Time](https://dev.to/ty_y_1d5410f6fd32364ad8c2/how-i-stopped-guessing-app-growth-and-started-tracking-market-signals-over-time-3fcb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
