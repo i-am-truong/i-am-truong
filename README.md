@@ -124,7 +124,7 @@ Python                   1 repo              █░░░░░░░░░░�
 - [CI/CD Is Not Only for the Cloud: Building a CI/CD Pipeline for Shared Hosting Using GitHub Actions](https://dev.to/snnajieze/cicd-is-not-only-for-the-cloud-building-a-cicd-pipeline-for-shared-hosting-using-github-actions-4c4h)
 - [Creating EC2 Instance](https://dev.to/daniel_shaibu/creating-ec2-instance-10g1)
 - [What I Learned Building with GitHub Copilot as a Java Developer](https://dev.to/eddybenchek/what-i-learned-building-with-github-copilot-as-a-java-developer-9bk)
-- [Stop Using AWS Access Keys in GitHub Actions: The OIDC Guide You Need](https://dev.to/alizgheib/stop-using-aws-access-keys-in-github-actions-the-oidc-guide-you-need-4c8l)
+- [Software engineering culture: mindset, teams, and action](https://dev.to/vburckhardt/software-engineering-culture-mindset-teams-and-action-33e3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
