@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Payment Gateway vs. Payment Processor: Was ist der Unterschied?](https://dev.to/jimquote/payment-gateway-vs-payment-processor-was-ist-der-unterschied-5gad)
-- [Amazon RDS vs Amazon DYNAMODB](https://dev.to/mukesh_b_9758c3ceb936cdf1/amazon-rds-vs-amazon-dynamodb-2fdf)
-- [Why Feeling Busy All Day Can Still Leave You Feeling Unaccomplished](https://dev.to/jamesmiller25/why-feeling-busy-all-day-can-still-leave-you-feeling-unaccomplished-3m9a)
-- [How I built a reliable webhook queue in Rust &lpar;retries, idempotency, DLQ, schedules, workflows, real-time&rpar;](https://dev.to/ysalitrynskyi/how-i-built-a-reliable-webhook-queue-in-rust-retries-idempotency-dlq-schedules-workflows-2o7n)
-- [Why Productivity Feels Harder When You’re Not Actually Overworked](https://dev.to/jamesmiller25/why-productivity-feels-harder-when-youre-not-actually-overworked-1o23)
+- [Music Monday &lpar;Seed the playlist!&rpar;](https://dev.to/musicforem/music-monday-seed-the-playlist-2alc)
+- [A Quick Lesson After A Long Debugging Session &lpar;And Almost Pulling My Hair Off&rpar;](https://dev.to/canro91/a-quick-lesson-after-a-long-debugging-session-and-almost-pulling-my-hair-off-3jfh)
+- [Mastering Real-Time Communication with Socket.IO Rooms](https://dev.to/ctrix/mastering-real-time-communication-with-socketio-rooms-4bom)
+- [Daily Tech News Roundup - 2025-12-22](https://dev.to/atharvshinde2004/daily-tech-news-roundup-2025-12-22-2ea9)
+- [DevSecOps Periodic Table — Tool “Fe”](https://dev.to/iniko/devsecops-periodic-table-tool-fe-p0k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
