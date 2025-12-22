@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [13. Roman to Integer | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/13-roman-to-integer-leetcode-top-interview-150-coding-questions-33m9)
-- [Adding a Missing Example for Privacy Controls](https://dev.to/kalu_jennifer_9bba9145120/adding-a-missing-example-for-privacy-controls-3aph)
-- [F*CK AI : Never going back](https://dev.to/devrx/fck-ai-never-going-back-5ao)
-- [First Post](https://dev.to/aalcantara1/first-post-31mk)
-- [2025-12-21 Daily Robotics News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-21-daily-robotics-news-1fb3)
+- [Cómo usar la API de Hashnode con Astro y desplegarlo en Vercel](https://dev.to/joaquin_sez_6de09e190ca1/como-usar-la-api-de-hashnode-con-astro-y-desplegarlo-en-vercel-1d56)
+- [Building Modern Java Pipelines: From Code to Production Using Automated CI/CD](https://dev.to/nithinbharathwaj/building-modern-java-pipelines-from-code-to-production-using-automated-cicd-4ed2)
+- [Signals vs Proxy vs Virtual DOM — What Actually Makes Them Different?](https://dev.to/luciano0322/signals-vs-proxy-vs-virtual-dom-what-actually-makes-them-different-4b1o)
+- [I Built &#39;firex&#39; - A CLI Tool for Firestore Operations with AI Agent Integration](https://dev.to/yamamoto_yuji_c3064a0e502/i-built-firex-a-cli-tool-for-firestore-operations-with-ai-agent-integration-2cfm)
+- [Simulating the Siglo Game in Python](https://dev.to/juan_bello_004fc5c7445625/simulating-the-siglo-game-in-python-mo1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
