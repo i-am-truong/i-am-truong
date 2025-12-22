@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Sending EIP-4844 Blob Transactions with ethers.js and kzg-wasm](https://dev.to/kurt0x/sending-eip-4844-blob-transactions-with-ethersjs-and-kzg-wasm-306a)
+- [Data-Architect-Master-Professional-Workbook](https://dev.to/muhammad_usmanzafar_0a45/data-architect-master-professional-workbook-54ph)
+- [What Engineering Leaders Ask That Others Don&#39;t](https://dev.to/stevenstuartm/what-engineering-leaders-ask-that-others-dont-35jo)
 - [Next.js 16 Type Safety: Async PageProps &amp; Typed Routes](https://dev.to/bharathkumar28/nextjs-16-type-safety-async-pageprops-typed-routes-3ilc)
 - [Vibe Coding: Does Coding Feel Different to You Now?](https://dev.to/ai_miracle_ai/vibe-coding-does-coding-feel-different-to-you-now-3l3g)
-- [The &quot;Cache Handshake&quot;: How Laravel Events Control Next.js 16 ISR](https://dev.to/yabasha/the-cache-handshake-how-laravel-events-control-nextjs-16-isr-3n6b)
-- [AI Engineering: Advent of AI with goose Day 12](https://dev.to/eriperspective/ai-engineering-advent-of-ai-with-goose-day-12-25cf)
-- [Designing a YouTube Digest for Signal Over Noise](https://dev.to/ssilambarasan/designing-a-youtube-digest-for-signal-over-noise-9c6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
