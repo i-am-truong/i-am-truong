@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Another ETL: Night Lift Tickets](https://dev.to/garciadiazjaime/another-etl-night-lift-tickets-m31)
+- [Context Rot: Why AI Forgets Your Perfect Prompts](https://dev.to/knmeiss/context-rot-why-ai-forgets-your-perfect-prompts-41hn)
+- [Gonzo: An Open-Source Terminal UI That&#39;s Changing How I Analyze Logs](https://dev.to/discoposse/gonzo-an-open-source-terminal-ui-thats-changing-how-i-analyze-logs-3h40)
+- [Ethereum-Solidity Quiz Q1: What is fuzzing?](https://dev.to/mihaihng/e-s-quiz-q1-what-is-fuzzing-in-web3-4114)
 - [CVE-2021-26084: Atlassian Confluence Server and Data Center Object-Graph Navigation Language &lpar;OGNL&rpar; Injection Vulnerability](https://dev.to/freedom-coder/cve-2021-26084-atlassian-confluence-server-and-data-center-object-graph-navigation-language-ognl-42fp)
-- [MCP server for Style Guide](https://dev.to/siddhartha_mani_03/-1iio)
-- [CVE-2022-26318: WatchGuard Firebox and XTM Appliances Arbitrary Code Execution](https://dev.to/freedom-coder/cve-2022-26318-watchguard-firebox-and-xtm-appliances-arbitrary-code-execution-46jk)
-- [CVE-2023-22518: Atlassian Confluence Data Center and Server Improper Authorization Vulnerability](https://dev.to/freedom-coder/cve-2023-22518-atlassian-confluence-data-center-and-server-improper-authorization-vulnerability-1dbo)
-- [Securing High-Risk Zones: An Integrated RFID and Autonomous Drone Surveillance System](https://dev.to/ashreya_bhutani_4cfa52cfb/securing-high-risk-zones-an-integrated-rfid-and-autonomous-drone-surveillance-system-46ml)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
