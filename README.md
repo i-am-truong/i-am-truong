@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Help me, and other developers, discover how to create more efficient automated testing environments](https://dev.to/mobtone/help-me-and-other-developers-discover-how-to-create-more-efficient-automated-testing-environments-kjm)
-- [The Multiprocessor Mindset: Safety vs. Liveness &lpar;A Beginner’s Guide&rpar;](https://dev.to/jadeoti/the-multiprocessor-mindset-safety-vs-liveness-a-beginners-guide-1l9i)
-- [Hello DEV! My first step here 🚀](https://dev.to/mukitaro/hello-dev-my-first-step-here-55nd)
-- [From Arrival to Delivery: A Connected Future for Tank Farm Operations](https://dev.to/kunal_jethithor_3e05ad92e/from-arrival-to-delivery-a-connected-future-for-tank-farmoperations-3o1)
-- [What Should I Practice Before Attempting Dynamic Programming Problems?](https://dev.to/alex_hunter_44f4c9ed6671e/what-should-i-practice-before-attempting-dynamic-programming-problems-5ba9)
+- [AI Generated Article](https://dev.to/techblogs/ai-generated-article-ab)
+- [[DEV BLOG #001] INTRODUCING LEGACY FOOTBALL, THE BEAUTIFUL GAME, FOR EVERYONE.](https://dev.to/sahil_rasin_976162eef7008/dev-blog-001-introducing-legacy-football-the-beautiful-game-for-everyone-1144)
+- [Gemini 3.0 vs GPT 5.2: The 2025 AI Model War from a DevOps Perspective &lpar;Production Reality Check&rpar;](https://dev.to/inboryn_99399f96579fcd705/gemini-30-vs-gpt-52-the-2025-ai-model-war-from-a-devops-perspective-production-reality-check-37da)
+- [Day 22 — Chained Attack &lpar;The Final Confrontation&rpar;](https://dev.to/aerabi/day-22-chained-attack-the-final-confrontation-1oof)
+- [Your Digital Prison: Stoicism&#39;s Escape Route](https://dev.to/thinkaddict/your-digital-prison-stoicisms-escape-route-ec3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
