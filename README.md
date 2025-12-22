@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [5 Proven Strategies to Supercharge Team Performance in 2026](https://dev.to/standupify/5-proven-strategies-to-supercharge-team-performance-in-2026-3h41)
-- [From Failure to FAANG: My Guide to Slack System Design Interview Courses and Tactics](https://dev.to/dev_loops/from-failure-to-faang-my-guide-to-slack-system-design-interview-courses-and-tactics-1665)
-- [How to Monitor Essential Linux Logs for System Health](https://dev.to/serveravatar/how-to-monitor-essential-linux-logs-for-system-health-m6l)
-- [I Built a Medium Article Scraper for Content Analysis &amp; Research.](https://dev.to/sunday_victor_0c3b4c71c69/i-built-a-medium-article-scraper-for-content-analysis-research-344n)
-- [What is one unspoken rule your team follows in chat that keeps things running smoothly?](https://dev.to/clariti_22_6e89b280ccd102/what-is-one-unspoken-rule-your-team-follows-in-chat-that-keeps-things-running-smoothly-242b)
+- [DAOs in Practice – From Multi-Sig to Voting &lpar;And Why Ownership Tokens exist&rpar;](https://dev.to/ribhavmodi/daos-in-practice-from-multi-sig-to-voting-and-why-ownership-tokens-exist-e7i)
+- [Hashicorp Vault: Authentication Provider Almanac](https://dev.to/admantium/hashicorp-vault-authentication-provider-almanac-47g9)
+- [A Clean WordPress Website Checklist &lpar;What We Fix Before We Touch Design&rpar;](https://dev.to/digillexsols/a-clean-wordpress-website-checklist-what-we-fix-before-we-touch-design-56j2)
+- [Cracking the Code of GEO: How a 5-Year-Old Clinic Battles to the Top with 25 Reviews](https://dev.to/serral_9d642e22a7c4a0f87b/cracking-the-code-of-geo-how-a-5-year-old-clinic-battles-to-the-top-with-25-reviews-7k2)
+- [Release Apache APISIX Ingress Controller 2.0](https://dev.to/apisix/release-apache-apisix-ingress-controller-20-346n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
