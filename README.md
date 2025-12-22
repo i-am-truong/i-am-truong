@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Modern Swift Architecture and the Patterns Behind QuiKey](https://dev.to/tomerbendavid/modern-swift-architecture-and-the-patterns-behind-quikey-59eh)
-- [ANNOUNCING Telegem V1.0.0 - The modern Telegram Bot Framework for ruby](https://dev.to/slick_phantom/announcing-telegem-v100-the-modern-telegram-bot-framework-for-ruby-5a65)
-- [AI Prompt Optimization Made Simple: How BrimAI Eliminates Prompt Engineering Complexity for Better ChatGPT and LLM Results](https://dev.to/talibackend/ai-prompt-optimization-made-simple-how-brimai-eliminates-prompt-engineering-complexity-for-better-dp0)
-- [Agentic CMS: Redefining Content Management for the Future](https://dev.to/nickpe/agentic-cms-redefining-content-management-for-the-future-3nde)
-- [PHP 8.5 Pipe Operator &lpar;|&gt;&rpar; – Is It Worth Using?](https://dev.to/tegos/php-85-pipe-operator-is-it-worth-using-4gig)
+- [Advent of Code: Perform a yestruC](https://dev.to/rkeeves/advent-of-code-perform-a-yestruc-2201)
+- [Real-World System Design: Authentication, RBAC, and Multi-Tenant Architecture &lpar;Part 1&rpar;](https://dev.to/shailesh_singh_d23390342e/real-world-system-design-authentication-rbac-and-multi-tenant-architecture-part-1-3n8p)
+- [🪄 Underwind — The Starter Theme That Let the Wind Change Direction](https://dev.to/melasistema/underwind-the-starter-theme-that-let-the-wind-change-direction-24ei)
+- [Localhost is a Lie: The Happy Path Fallacy](https://dev.to/doogal/localhost-is-a-lie-the-happy-path-fallacy-16gn)
+- [Mobile Supply Chain Security: SBOM and Dependency Risk for App Teams](https://dev.to/m_sikandar/mobile-supply-chain-security-sbom-and-dependency-risk-for-app-teams-3285)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
