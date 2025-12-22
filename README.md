@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Designing a Lightweight Data Pipeline for Analysis Without Stressing Production Databases](https://dev.to/nimxch/designing-a-lightweight-data-pipeline-for-analysis-without-stressing-production-databases-53bh)
-- [We Replaced Message Buses with Telemetry for AI Agent Coordination](https://dev.to/fubumaki/we-replaced-message-buses-with-telemetry-for-ai-agent-coordination-39e8)
-- [Linked Lists Joins the Fray! &lpar;JavaScript&rpar;](https://dev.to/brendon_oneill__/linked-lists-joins-the-fray-javascript-3e9d)
-- [WBS + AI: How to Cut Development Time by 6x](https://dev.to/_jeongyuhyeon_03de1/wbs-ai-how-to-cut-development-time-by-6x-n1p)
-- [Building a Scalable Rate Limiting System: Token Bucket vs Leaky Bucket](https://dev.to/benyusouf/building-a-scalable-rate-limiting-system-token-bucket-vs-leaky-bucket-4nnp)
+- [Technical Breakdown of a Darknet Market Takedown](https://dev.to/tor_bbb/technical-breakdown-of-a-darknet-market-takedown-28n1)
+- [Build a Reddit Ad Spy Tool to Find Winning Ad Angles](https://dev.to/olams/build-a-reddit-ad-spy-tool-to-find-winning-ad-angles-5dmf)
+- [Fascinating reading, very thought-provoking content...](https://dev.to/miketalbot/fascinating-reading-very-thought-provoking-content-h7)
+- [How to Programmatically Fill a PDF Form with Raw JavaScript &lpar;The Easy Way&rpar;](https://dev.to/joyfill/how-to-programmatically-fill-a-pdf-form-with-raw-javascript-the-easy-way-1lj5)
+- [Day 72: Python Sliding Window Maximum - Deque O&lpar;n&rpar; Solution for Efficient Max Tracking &lpar;LeetCode #239 Guide&rpar;](https://dev.to/shahrouzlogs/day-72-python-sliding-window-maximum-deque-on-solution-for-efficient-max-tracking-leetcode-1f2i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
