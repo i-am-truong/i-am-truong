@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Best AI Image Detectors I’ve Tried &lpar;And Which One Actually Works&rpar;](https://dev.to/arnie_parks_159b7eefac931/best-ai-image-detectors-ive-tried-and-which-one-actually-works-4788)
-- [Devstral 2 vs Devstral Small 2: A 30-Minute Playground Test for Multi-File Coding Tasks](https://dev.to/_b3ac7984a6857e9b62757/devstral-2-vs-devstral-small-2-a-30-minute-playground-test-for-multi-file-coding-tasks-1ak)
-- [Scalable Location-Based Content Platform Using Modern Web Tools](https://dev.to/australiacityguide/scalable-location-based-content-platform-using-modern-web-tools-12e)
-- [KOUNDAMPALAYAM: A WELL-CONNECTED RESIDENTIAL AND COMMERCIAL HUB OF NORTH COIMBATORE](https://dev.to/66centscbe/koundampalayam-a-well-connected-residential-and-commercial-hub-of-north-coimbatore-3456)
-- [CVE-2022-23176: WatchGuard Firebox and XTM Privilege Escalation Vulnerability](https://dev.to/freedom-coder/cve-2022-23176-watchguard-firebox-and-xtm-privilege-escalation-vulnerability-362n)
+- [Cuando mi LLM aprendió a tener prisa, diagnóstico y contención del sesgo agéntico](https://dev.to/jjdelcerro/cuando-mi-llm-aprendio-a-tener-prisa-diagnostico-y-contencion-del-sesgo-agentico-i07)
+- [Why I’m building a Windows-first emotional AI assistant &lpar;lessons so far&rpar;](https://dev.to/anna2612/why-im-building-a-windows-first-emotional-ai-assistant-lessons-so-far-1iii)
+- [Building a scalable multi-bucket load balancer for Cloudflare R2](https://dev.to/image2url/building-a-scalable-multi-bucket-load-balancer-for-cloudflare-r2-920)
+- [TypeScript Errors Are Not Annoying They’re Helpful](https://dev.to/talal_qasim_a28641c40c9a6/typescript-errors-are-not-annoying-theyre-helpful-5coo)
+- [Indirect Prompt Injection: The Complete Guide](https://dev.to/alessandro_pignati/indirect-prompt-injection-the-complete-guide-1m9h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
