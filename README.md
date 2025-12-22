@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Identifying Systemic Flaws in Delaware&#39;s Divorce Process: A Legal Critique](https://dev.to/paulafoxauthor/identifying-systemic-flaws-in-delawares-divorce-process-a-legal-critique-2gic)
-- [WebGPU Engine from Scratch Part 12: Ambient Lighting](https://dev.to/ndesmic/webgpu-engine-from-scratch-part-12-ambient-lighting-49hk)
-- [Art of a Good Question](https://dev.to/karant_dev/art-of-a-good-question-3kkl)
-- [AI Engineering: Advent of AI with goose Day 11](https://dev.to/eriperspective/ai-engineering-advent-of-ai-with-goose-day-11-ngm)
-- [End up building a decent ADV game engine with Antigravity and Chat GPT](https://dev.to/tomokat/end-up-building-a-decent-adv-game-engine-with-antigravity-and-chat-gpt-5cle)
+- [Construcción de Agentes con Microsoft Foundry](https://dev.to/esdanielgomez/construccion-de-agentes-con-microsoft-foundry-54h5)
+- [AI Agents Architecture](https://dev.to/ayas_tech_2b0560ee159e661/ai-agents-architecture-4284)
+- [The Narrative Engine: Why Humans Are Wired for Story and Bored by Data](https://dev.to/gandolfslayer/the-narrative-engine-why-humans-are-wired-for-story-and-bored-by-data-4j0a)
+- [How I built an Automated Portfolio Manager using Python and React tags:](https://dev.to/market_insights_center/how-i-built-an-automated-portfolio-manager-using-python-and-react-tags-5e6m)
+- [A Senior Engineer’s Guide to Securing and Scaling Model Context Protocol &lpar;MCP&rpar;](https://dev.to/onlineproxyio/a-senior-engineers-guide-to-securing-and-scaling-model-context-protocol-mcp-f36)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
