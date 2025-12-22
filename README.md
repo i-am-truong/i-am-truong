@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [KMP 밋업 202512 후기](https://dev.to/kingori/kmp-miseob-202512-hugi-1fmj)
-- [What If Humanity Had Large Language Models in the Age of Flat Earth?](https://dev.to/pardnchiu/what-if-humanity-had-large-language-models-in-the-age-of-flat-earth-30jc)
-- [5 Revolutionary WhatsApp Automation Tips for Dental Clinics in 2025](https://dev.to/ravin_v_0db4c38bad4e7ef37/5-revolutionary-whatsapp-automation-tips-for-dental-clinics-in-2025-58o6)
-- [How to Implement Dependency Injection with POM in Playwright for Scalable Test Automation](https://dev.to/jignect-technologies/how-to-implement-dependency-injection-with-pom-in-playwright-for-scalable-test-automation-58n9)
-- [Part 07: Building a Sovereign Software Factory: ChatOps with Mattermost](https://dev.to/warren_jitsing_dd1c1d6fc6/part-07-building-a-sovereign-software-factory-chatops-with-mattermost-bf2)
+- [Building a High-Performance Real-Time Camera Capture System in C++](https://dev.to/techsorter/building-a-high-performance-real-time-camera-capture-system-in-c-3kad)
+- [Why AI Code Suggestions Fail in Multi-File Projects](https://dev.to/leena_malhotra/why-ai-code-suggestions-fail-in-multi-file-projects-49j9)
+- [How to Use AI Software Development: Practical Enterprise Use Cases](https://dev.to/emmawilson01/how-to-use-ai-software-development-practical-enterprise-use-cases-5dp5)
+- [Código Limpio: 5 principios para dejar de escribir &quot;código espagueti&quot;](https://dev.to/oscarolg/codigo-limpio-5-principios-para-dejar-de-escribir-codigo-espagueti-4k4b)
+- [Top 10 Web Development Companies in Noida](https://dev.to/shruti_brijpuriya_2b88562/top-10-web-development-companies-in-noida-3o7b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
