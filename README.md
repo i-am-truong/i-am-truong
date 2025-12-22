@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Generated Article](https://dev.to/techblogs/ai-generated-article-ab)
-- [[DEV BLOG #001] INTRODUCING LEGACY FOOTBALL, THE BEAUTIFUL GAME, FOR EVERYONE.](https://dev.to/sahil_rasin_976162eef7008/dev-blog-001-introducing-legacy-football-the-beautiful-game-for-everyone-1144)
-- [Gemini 3.0 vs GPT 5.2: The 2025 AI Model War from a DevOps Perspective &lpar;Production Reality Check&rpar;](https://dev.to/inboryn_99399f96579fcd705/gemini-30-vs-gpt-52-the-2025-ai-model-war-from-a-devops-perspective-production-reality-check-37da)
-- [Day 22 — Chained Attack &lpar;The Final Confrontation&rpar;](https://dev.to/aerabi/day-22-chained-attack-the-final-confrontation-1oof)
-- [Your Digital Prison: Stoicism&#39;s Escape Route](https://dev.to/thinkaddict/your-digital-prison-stoicisms-escape-route-ec3)
+- [Designing a Lightweight Data Pipeline for Analysis Without Stressing Production Databases](https://dev.to/nimxch/designing-a-lightweight-data-pipeline-for-analysis-without-stressing-production-databases-53bh)
+- [We Replaced Message Buses with Telemetry for AI Agent Coordination](https://dev.to/fubumaki/we-replaced-message-buses-with-telemetry-for-ai-agent-coordination-39e8)
+- [Linked Lists Joins the Fray! &lpar;JavaScript&rpar;](https://dev.to/brendon_oneill__/linked-lists-joins-the-fray-javascript-3e9d)
+- [WBS + AI: How to Cut Development Time by 6x](https://dev.to/_jeongyuhyeon_03de1/wbs-ai-how-to-cut-development-time-by-6x-n1p)
+- [Building a Scalable Rate Limiting System: Token Bucket vs Leaky Bucket](https://dev.to/benyusouf/building-a-scalable-rate-limiting-system-token-bucket-vs-leaky-bucket-4nnp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
