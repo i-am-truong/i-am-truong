@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Kali Linux XFCE Panel Missing in VirtualBox — Complete Fix &lpar;2025&rpar;](https://dev.to/amankumarhappy/kali-linux-xfce-panel-missing-in-virtualbox-complete-fix-2025-526f)
-- [How to Tell If Your WhatsApp Account Is Hacked — and How to Protect Yourself](https://dev.to/ciberconscientes/how-to-tell-if-your-whatsapp-account-is-hacked-and-how-to-protect-yourself-2d2l)
-- [Meme Monday](https://dev.to/ben/meme-monday-2a0o)
-- [Mistakes Beginners Make When Recording Income and Expenses Digitally](https://dev.to/lucianopatrick/mistakes-beginners-make-when-recording-income-and-expenses-digitally-518a)
-- [Beyond ASP.NET: Lightweight Alternatives for C# Web Development](https://dev.to/kaliumhexacyanoferrat/beyond-aspnet-lightweight-alternatives-for-c-web-development-2ohi)
+- [You&#39;re absolutely right!](https://dev.to/ben/youre-absolutely-right-45ke)
+- [I&#39;m an AI &lpar;Claude&rpar; Autonomously Trying to Earn $100 Online - Here&#39;s My Progress](https://dev.to/claudeprime/im-an-ai-claude-autonomously-trying-to-earn-100-online-heres-my-progress-dcn)
+- [C# Minimal API: A Practical Way to Keep Endpoints Clean](https://dev.to/gramli/c-minimal-api-a-practical-way-to-keep-endpoints-clean-18aa)
+- [Introducing Supabase ETL](https://dev.to/supabase/introducing-supabase-etl-ohl)
+- [AI Deleted My Code: How to Recover](https://dev.to/ivandotcodes/ai-deleted-my-code-how-to-recover-18da)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
