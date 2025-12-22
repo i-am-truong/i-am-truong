@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Public Speaking at Tech Events 101: From Acceptance to the Stage](https://dev.to/lovelacecoding/public-speaking-at-tech-events-101-from-acceptance-to-the-stage-487l)
-- [How to Control Font Size in Froala Editor: Complete Guide to Pixel-Precise Typography](https://dev.to/froala_e3824d66439393cbce/how-to-control-font-size-in-froala-editor-complete-guide-to-pixel-precise-typography-bpf)
-- [How We Built a 100% Free AI Resume Builder &lpar;No Paywalls, No BS&rpar;](https://dev.to/abhay_prajapati/how-we-built-a-100-free-ai-resume-builder-no-paywalls-no-bs-55j2)
-- [AI Engineering: Advent of AI with goose Day 10](https://dev.to/eriperspective/ai-engineering-advent-of-ai-with-goose-day-10-351k)
-- [A Self-Healing System That Stays Alive When Everything Fails — Pure Python, No Dependencies](https://dev.to/system_research_c050d8c419e1d4/a-self-healing-system-that-stays-alive-when-everything-fails-pure-python-no-dependencies-2b42)
+- [POJO-actor v1.0: A Lightweight Actor Model Library for Java](https://dev.to/devteam2512/pojo-actor-v10-a-lightweight-actor-model-library-for-java-2ccd)
+- [The DoD Experiment: A Diagnostic Tool in Disguise](https://dev.to/dexluce/the-dod-experiment-a-diagnostic-tool-in-disguise-5ee0)
+- [Kubernetes GitOps with Flux](https://dev.to/nikithlive/kubernetes-gitops-with-flux-916)
+- [Setting up AWS Bedrock with Claude](https://dev.to/yitaek/setting-up-aws-bedrock-with-claude-5f67)
+- [AI Survival Kit 2026 Academy Arms Real Workers](https://dev.to/skye_wright_1443d44f7b6d1/ai-survival-kit-2026-academy-arms-real-workers-475)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
