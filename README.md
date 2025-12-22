@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Como Implementar um Sistema RAG do Zero em Python](https://dev.to/asouza/como-implementar-um-sistema-rag-do-zero-em-python-1ej7)
-- [How I Built an MCP Server to Create My Own AI Writing Style Guide Expert](https://dev.to/siddhartha_mani_03/how-i-built-an-mcp-server-to-create-my-own-ai-writing-style-guide-expert-297m)
-- [What Publishing an Mobile App Involves: Time, Cost, and Equipments](https://dev.to/cathylai/what-publishing-an-mobile-app-involves-time-cost-and-equipments-1923)
-- [Revamping Supply Chain: A Blockchain Web3 Case Study](https://dev.to/hkj13/revamping-supply-chain-a-blockchain-web3-case-study-3p2p)
-- [Micro Frontends: Decomposing Your Frontend for Scalability and Agility](https://dev.to/techblogs/micro-frontends-decomposing-your-frontend-for-scalability-and-agility-fn9)
+- [CVE-2021-26084: Atlassian Confluence Server and Data Center Object-Graph Navigation Language &lpar;OGNL&rpar; Injection Vulnerability](https://dev.to/freedom-coder/cve-2021-26084-atlassian-confluence-server-and-data-center-object-graph-navigation-language-ognl-42fp)
+- [MCP server for Style Guide](https://dev.to/siddhartha_mani_03/-1iio)
+- [CVE-2022-26318: WatchGuard Firebox and XTM Appliances Arbitrary Code Execution](https://dev.to/freedom-coder/cve-2022-26318-watchguard-firebox-and-xtm-appliances-arbitrary-code-execution-46jk)
+- [CVE-2023-22518: Atlassian Confluence Data Center and Server Improper Authorization Vulnerability](https://dev.to/freedom-coder/cve-2023-22518-atlassian-confluence-data-center-and-server-improper-authorization-vulnerability-1dbo)
+- [Securing High-Risk Zones: An Integrated RFID and Autonomous Drone Surveillance System](https://dev.to/ashreya_bhutani_4cfa52cfb/securing-high-risk-zones-an-integrated-rfid-and-autonomous-drone-surveillance-system-46ml)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
