@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Serverless PDF Merger &amp; Editor using React and pdf-lib &lpar;No Backend!&rpar;](https://dev.to/opzozi/building-a-serverless-pdf-merger-editor-using-react-and-pdf-lib-no-backend-1f1l)
+- [&lpar;2&rpar;Creating the Pinnacle of Niche Software: The devcontainer](https://dev.to/sukkergris/2creating-the-pinnacle-of-niche-software-the-devcontainer-305l)
+- [How I Built a Stroke Capture System for an AI Drawing Game](https://dev.to/adzhydra/how-i-built-a-stroke-capture-system-for-an-ai-drawing-game-g44)
+- [El error de seguridad más común es “Dale Admin y Ya”](https://dev.to/aws-espanol/el-error-de-seguridad-mas-comun-es-dale-admin-y-ya-o82)
 - [Sending EIP-4844 Blob Transactions with ethers.js and kzg-wasm](https://dev.to/kurt0x/sending-eip-4844-blob-transactions-with-ethersjs-and-kzg-wasm-306a)
-- [Data-Architect-Master-Professional-Workbook](https://dev.to/muhammad_usmanzafar_0a45/data-architect-master-professional-workbook-54ph)
-- [What Engineering Leaders Ask That Others Don&#39;t](https://dev.to/stevenstuartm/what-engineering-leaders-ask-that-others-dont-35jo)
-- [Next.js 16 Type Safety: Async PageProps &amp; Typed Routes](https://dev.to/bharathkumar28/nextjs-16-type-safety-async-pageprops-typed-routes-3ilc)
-- [Vibe Coding: Does Coding Feel Different to You Now?](https://dev.to/ai_miracle_ai/vibe-coding-does-coding-feel-different-to-you-now-3l3g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
