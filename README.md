@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Perl 🐪 Weekly #752 - Marlin - OOP Framework](https://dev.to/szabgab/perl-weekly-752-marlin-oop-framework-49k4)
-- [Understanding Serverless Containers on AWS](https://dev.to/shawmeer22/understanding-serverless-containers-on-aws-41il)
-- [Exploring Mobile Performance Monitoring: iOS RUM SDK Architecture and Practices](https://dev.to/observabilityguy/exploring-mobile-performance-monitoring-ios-rum-sdk-architecture-and-practices-3m0b)
-- [Amazon Bedrock AgentCore Gateway - Part 5 Add API Gateway REST API as a target for Amazon Bedrock AgentCore Gateway](https://dev.to/aws-heroes/amazon-bedrock-agentcore-gateway-part-5-add-api-gateway-rest-api-as-a-target-for-amazon-bedrock-5fic)
-- [The two most important tools for HTML developers](https://dev.to/cfried/the-two-most-important-tools-for-html-developers-24nb)
+- [My Journey Contributing to Django: From Intimidation to a Merged Ticket 🚀](https://dev.to/kihuni/my-journey-contributing-to-django-from-intimidation-to-a-merged-ticket-bg7)
+- [Future of AI](https://dev.to/akash_kirodiwal/future-of-ai-2ebd)
+- [Containerization 2025: Why containerd 2.0 and eBPF are Changing Everything](https://dev.to/dataformathub/containerization-2025-why-containerd-20-and-ebpf-are-changing-everything-ph5)
+- [IT Should Stop Cork-Sniffing Tools and Get Back to Engineering Basics](https://dev.to/leonpennings/it-should-stop-cork-sniffing-tools-and-get-back-to-engineering-basics-lcd)
+- [OmniHuman-1.5: Empowering Developers to Build Next-Gen Digital Human Experiences](https://dev.to/_c666a64d205f538b47c345/omnihuman-15-empowering-developers-to-build-next-gen-digital-human-experiences-55ol)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
