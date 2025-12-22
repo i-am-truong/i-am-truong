@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [North Carolina Startup App Costs 2026](https://dev.to/del_rosario/north-carolina-startup-app-costs-2026-4bnn)
+- [A Practical Guide to Classifying Non-Linear Datasets with Pytorch](https://dev.to/olabamipetaiwo/a-practical-guide-to-classifying-non-linear-datasets-with-pytorch-4he1)
 - [How I Stopped Guessing App Growth and Started Tracking Market Signals Over Time](https://dev.to/ty_y_1d5410f6fd32364ad8c2/how-i-stopped-guessing-app-growth-and-started-tracking-market-signals-over-time-3fcb)
 - [WebAssembly is Ready &lpar;And You Should Use It&rpar;](https://dev.to/polliog/webassembly-is-ready-and-you-should-use-it-3n9a)
 - [The Engineering History of AI: Why Your LLM Hallucinations Are as Old as the 13th Century](https://dev.to/emmimal_alexander_3be8cc7/the-engineering-history-of-ai-why-your-llm-hallucinations-are-as-old-as-the-13th-century-2kp9)
-- [Why Most Dashboards Lie &lpar;And It’s Not a BI Problem&rpar;](https://dev.to/kaaioh013/why-most-dashboards-lie-and-its-not-a-bi-problem-29fj)
-- [Shopify + HubSpot / Salesforce Integration Using Webhooks &amp; APIs](https://dev.to/lucy1/shopify-hubspot-salesforce-integration-using-webhooks-apis-2lpb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
