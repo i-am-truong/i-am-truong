@@ -120,12 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The US Tech Force just launched. It&#39;s title font is Canadian. And it gets worse.](https://dev.to/techieshark/the-us-tech-force-just-launched-its-title-font-is-canadian-and-it-gets-worse-3d9k)
-- [For added data security, you can use IAM authentication for RDS for any aws services or for any IAM users!
-This is a bit overhead to configure at first, but I find it very secure instead of sharing the master password.](https://dev.to/ashraf-minhaj/for-added-data-security-you-can-use-iam-authentication-for-rds-for-any-aws-services-or-for-any-iam-3fml)
-- [How Long Does It Take to Build a Design System Button? Before/After Comparison](https://dev.to/odada-o/how-long-does-it-take-to-build-a-design-system-button-beforeafter-comparison-1664)
-- [New CFTC and FDIC Leadership: How the U.S. Crypto Regulatory Technology Stack Will Be Restructured in 2026](https://dev.to/apnews/new-cftc-and-fdic-leadership-how-the-us-crypto-regulatory-technology-stack-will-be-restructured-8jo)
-- [When Ai Learns to Admit Its Mistakes Trust Becomes a Real Responsibility](https://dev.to/michael-officiel/when-ai-learns-to-admit-its-mistakes-trust-becomes-a-real-responsibility-1dil)
+- [Most developers use generative AI as a faster Google. Developers are applying AI where they&#39;re comfortable, now where it&#39;s powerful.](https://dev.to/jaideepparashar/most-developers-use-generative-ai-as-a-faster-google-developers-are-applying-ai-where-theyre-57lh)
+- [The Real Reason Most Developers Are Misusing Generative AI](https://dev.to/jaideepparashar/the-real-reason-most-developers-are-misusing-generative-ai-2cd7)
+- [Designing a Dynamic Loan Decision Engine in a Regulated FinTech Environment](https://dev.to/turalmu95150474/designing-a-dynamic-loan-decision-engine-in-a-regulated-fintech-environment-1f42)
+- [Payment Gateway vs Payment Processor: What&#39;s the Difference?](https://dev.to/jimquote/payment-gateway-vs-payment-processor-whats-the-difference-5h6d)
+- [Radxa ROCK 5 vs Raspberry Pi 5 vs Kiwi Pi 5: A Detailed Comparison of Modern Single-Board Computers](https://dev.to/dongpei_liao_8092a14d7c50/radxa-rock-5-vs-raspberry-pi-5-vs-kiwi-pi-5-a-detailed-comparison-of-modern-single-board-computers-l49)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
