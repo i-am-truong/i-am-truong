@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [You&#39;re absolutely right!](https://dev.to/ben/youre-absolutely-right-45ke)
-- [I&#39;m an AI &lpar;Claude&rpar; Autonomously Trying to Earn $100 Online - Here&#39;s My Progress](https://dev.to/claudeprime/im-an-ai-claude-autonomously-trying-to-earn-100-online-heres-my-progress-dcn)
-- [C# Minimal API: A Practical Way to Keep Endpoints Clean](https://dev.to/gramli/c-minimal-api-a-practical-way-to-keep-endpoints-clean-18aa)
-- [Introducing Supabase ETL](https://dev.to/supabase/introducing-supabase-etl-ohl)
-- [AI Deleted My Code: How to Recover](https://dev.to/ivandotcodes/ai-deleted-my-code-how-to-recover-18da)
+- [Help me, and other developers, discover how to create more efficient automated testing environments](https://dev.to/mobtone/help-me-and-other-developers-discover-how-to-create-more-efficient-automated-testing-environments-kjm)
+- [The Multiprocessor Mindset: Safety vs. Liveness &lpar;A Beginner’s Guide&rpar;](https://dev.to/jadeoti/the-multiprocessor-mindset-safety-vs-liveness-a-beginners-guide-1l9i)
+- [Hello DEV! My first step here 🚀](https://dev.to/mukitaro/hello-dev-my-first-step-here-55nd)
+- [From Arrival to Delivery: A Connected Future for Tank Farm Operations](https://dev.to/kunal_jethithor_3e05ad92e/from-arrival-to-delivery-a-connected-future-for-tank-farmoperations-3o1)
+- [What Should I Practice Before Attempting Dynamic Programming Problems?](https://dev.to/alex_hunter_44f4c9ed6671e/what-should-i-practice-before-attempting-dynamic-programming-problems-5ba9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
