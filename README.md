@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mr Sunday Movies: Are you over it? - Avatar: Fire &amp; Ash Review](https://dev.to/popcorn_movies/mr-sunday-movies-are-you-over-it-avatar-fire-ash-review-373d)
-- [Building for Everyone](https://dev.to/rawveg/building-for-everyone-55b8)
-- [Run Rancher Desktop on Fedora Atomic Desktops &lpar;Toolbox Container Method&rpar;](https://dev.to/noorlatif/run-rancher-desktop-on-fedora-atomic-desktops-toolbox-container-method-9oi)
-- [Building an Offline-First POS SaaS Entirely with AI Including Desktop, Mobile Apps, and Landing Page](https://dev.to/adan_2001/how-i-built-a-full-pos-saas-entirely-using-ai-desktop-mobile-landing-page-blog-1j1g)
-- [Add authentication to your Nuxt 3 and Vue 3 applications &lpar;Logto&rpar;](https://dev.to/bitwiserokos/add-authentication-to-your-nuxt-3-and-vue-3-applications-logto-4oeh)
+- [Best AI Image Detectors I’ve Tried &lpar;And Which One Actually Works&rpar;](https://dev.to/arnie_parks_159b7eefac931/best-ai-image-detectors-ive-tried-and-which-one-actually-works-4788)
+- [Devstral 2 vs Devstral Small 2: A 30-Minute Playground Test for Multi-File Coding Tasks](https://dev.to/_b3ac7984a6857e9b62757/devstral-2-vs-devstral-small-2-a-30-minute-playground-test-for-multi-file-coding-tasks-1ak)
+- [Scalable Location-Based Content Platform Using Modern Web Tools](https://dev.to/australiacityguide/scalable-location-based-content-platform-using-modern-web-tools-12e)
+- [KOUNDAMPALAYAM: A WELL-CONNECTED RESIDENTIAL AND COMMERCIAL HUB OF NORTH COIMBATORE](https://dev.to/66centscbe/koundampalayam-a-well-connected-residential-and-commercial-hub-of-north-coimbatore-3456)
+- [CVE-2022-23176: WatchGuard Firebox and XTM Privilege Escalation Vulnerability](https://dev.to/freedom-coder/cve-2022-23176-watchguard-firebox-and-xtm-privilege-escalation-vulnerability-362n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
