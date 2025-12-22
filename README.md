@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Another ETL: Night Lift Tickets](https://dev.to/garciadiazjaime/another-etl-night-lift-tickets-m31)
-- [Context Rot: Why AI Forgets Your Perfect Prompts](https://dev.to/knmeiss/context-rot-why-ai-forgets-your-perfect-prompts-41hn)
-- [Gonzo: An Open-Source Terminal UI That&#39;s Changing How I Analyze Logs](https://dev.to/discoposse/gonzo-an-open-source-terminal-ui-thats-changing-how-i-analyze-logs-3h40)
-- [Ethereum-Solidity Quiz Q1: What is fuzzing?](https://dev.to/mihaihng/e-s-quiz-q1-what-is-fuzzing-in-web3-4114)
-- [CVE-2021-26084: Atlassian Confluence Server and Data Center Object-Graph Navigation Language &lpar;OGNL&rpar; Injection Vulnerability](https://dev.to/freedom-coder/cve-2021-26084-atlassian-confluence-server-and-data-center-object-graph-navigation-language-ognl-42fp)
+- [AI Engineering: Advent of AI with goose Day 10](https://dev.to/eriperspective/ai-engineering-advent-of-ai-with-goose-day-10-351k)
+- [A Self-Healing System That Stays Alive When Everything Fails — Pure Python, No Dependencies](https://dev.to/system_research_c050d8c419e1d4/a-self-healing-system-that-stays-alive-when-everything-fails-pure-python-no-dependencies-2b42)
+- [Build a RAG Pipeline with n8n: Visual Workflows vs. Code-First](https://dev.to/omer_dahan_6305e5f4900a75/build-a-rag-pipeline-with-n8n-visual-workflows-vs-code-first-2a32)
+- [10 - Architecture and Organizations — Conway’s Law Revisited](https://dev.to/cristiansifuentes/10-architecture-and-organizations-conways-law-revisited-1l3g)
+- [The University of Phoenix Breach Reveals Higher Education&#39;s Rotten Security Bargain](https://dev.to/zeroblind25/the-university-of-phoenix-breach-reveals-higher-educations-rotten-security-bargain-ndh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
