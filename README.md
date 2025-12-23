@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Awesome A2A libraries: A curated list of Agent-to-Agent Libraries and SDKs](https://dev.to/nmaroulis21/awesome-a2a-libraries-a-curated-list-of-agent-to-agent-libraries-and-sdks-4obe)
 - [How to Start an RDP Session From macOS With Windows App](https://dev.to/fedtti/how-to-start-an-rdp-session-from-macos-with-windows-app-15io)
 - [Complete CI/CD Pipeline with Node.js, Docker, and Kubernetes](https://dev.to/subair09/complete-cicd-pipeline-with-nodejs-docker-and-kubernetes-2604)
-- [Parallel programming](https://dev.to/thijs_bressers_c37db43eab/parallel-programming-hpk)
-- [Topic: HTML](https://dev.to/thijs_bressers_c37db43eab/topic-html-p91)
 - [Technical debt vs. new features: how to set priorities](https://dev.to/kodus/technical-debt-vs-new-features-how-to-set-priorities-38pc)
+- [Building AI-Ready Applications with Model Context Protocol in C#](https://dev.to/adrianbailador/building-ai-ready-applications-with-model-context-protocol-in-c-1cga)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
