@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From Genin to Kage - Understanding the Test Pyramid with Naruto](https://dev.to/m4rri4nne/from-genin-to-kage-understanding-the-test-pyramid-with-naruto-jbk)
+- [🚀 Saving a $1M Integration: Why We Pivoted to AWS Transit Gateway](https://dev.to/linktechlabs/saving-a-1m-integration-why-we-pivoted-to-aws-transit-gateway-34ob)
+- [How to Automate 2FA and Account Creation for AI Agents](https://dev.to/nottelabs/how-to-automate-2fa-and-account-creation-for-ai-agents-5c6p)
 - [Muslim Prayer Reminder for Slack](https://dev.to/ikhaledabdelfattah/muslim-prayer-reminder-for-slack-5573)
 - [Out-of-Office BUG](https://dev.to/sonandrew/out-of-office-bug-en0)
-- [Who Is Ayush Kumar Rai? A Full Stack Developer’s Journey into Tech](https://dev.to/ayushkumarrai/who-is-ayush-kumar-rai-a-full-stack-developers-journey-into-tech-3jj8)
-- [Day 27.Configuring a Public VPC with an EC2 Instance for Internet Access](https://dev.to/thukhakyawe_cloud/day-27configuring-a-public-vpc-with-an-ec2-instance-for-internet-access-4n4l)
-- [From Steam Machines to Home Robots: Where Consumer Tech Is Actually Heading](https://dev.to/deeppressanalysis/from-steam-machines-to-home-robots-where-consumer-tech-is-actually-heading-7af)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
