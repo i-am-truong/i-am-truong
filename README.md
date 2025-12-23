@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Unnesting Scalar Subqueries into Left Outer Joins in SQL](https://dev.to/aws-heroes/unnesting-scalar-subqueries-into-left-outer-joins-in-sql-556k)
-- [Title: Understanding Memory Management in Programming: A Comprehensive Guide](https://dev.to/thijs_bressers_c37db43eab/title-understanding-memory-management-in-programming-a-comprehensive-guide-4o0n)
-- [Pattern Matching in C#: The Starters Guide](https://dev.to/rasheedmozaffar/pattern-matching-in-c-the-starters-guide-2mmd)
-- [🚀 Terraform Day 15: Modules — Writing Reusable, Scalable Infrastructure Code](https://dev.to/jeeva_5c84a254e90842940dd/terraform-day-15-modules-writing-reusable-scalable-infrastructure-code-jgc)
-- [Rsbuild in Refly codebase.](https://dev.to/ramunarasinga-11/rsbuild-in-refly-codebase-5bn9)
+- [WhatsApp Ghost Pairing: A Silent Abuse of Linked Devices](https://dev.to/ciberconscientes/whatsapp-ghost-pairing-a-silent-abuse-of-linked-devices-4jb7)
+- [After failing 37 interviews, I built the interview prep tool I wish I had](https://dev.to/ilyasseisov/after-failing-37-interviews-i-built-the-interview-prep-tool-i-wish-i-had-12n5)
+- [Good morning everyone, now I have WASM.](https://dev.to/zayoka/good-morning-everyone-now-i-have-wasm-2nk5)
+- [Advent of AI 2025 - Day 16: Planning With .goosehints](https://dev.to/nickytonline/advent-of-ai-2025-day-16-planning-with-goosehints-875)
+- [REFramework: The Ultimate Power Tool for Capcom’s RE Engine](https://dev.to/millerdean/reframework-the-ultimate-power-tool-for-capcoms-re-engine-104o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
