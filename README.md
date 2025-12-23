@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Actions + AWS Role Chaining: A Security Upgrade Worth Making](https://dev.to/aws-builders/github-actions-aws-role-chaining-a-security-upgrade-worth-making-3ibb)
-- [Part 7: Terraform - Making Infrastructure Repeatable](https://dev.to/daviesbrown/part-7-terraform-making-infrastructure-repeatable-3f8p)
-- [Part 6: Kubernetes from First Principles &lpar;No Magic&rpar;](https://dev.to/daviesbrown/part-6-kubernetes-from-first-principles-no-magic-522c)
-- [Part 5: From One Server to Many - The Need for Orchestration](https://dev.to/daviesbrown/part-5-from-one-server-to-many-the-need-for-orchestration-i3h)
-- [Part 4: Running Multiple Services Locally with Docker Compose](https://dev.to/daviesbrown/part-4-running-multiple-services-locally-with-docker-compose-2n97)
+- [Cursor — My Year in Code 2025](https://dev.to/behindthedev/cursor-my-year-in-code-2025-9o4)
+- [Singapore vibes together at the new Google DeepMind office](https://dev.to/googleai/singapore-vibes-together-at-the-new-google-deepmind-office-28ea)
+- [From the Musk Compensation Case to DAO Governance — An Audit Report of a Traditional World “Off-Chain Smart Contract”](https://dev.to/apnews/from-the-musk-compensation-case-to-dao-governance-an-audit-report-of-a-traditional-world-13do)
+- [Designing Parts That Actually Print on Cheap Hardware](https://dev.to/numbpill3d/designing-parts-that-actually-print-on-cheap-hardware-2ik2)
+- [Understanding System Reliability: The Foundation of Modern Infrastructure](https://dev.to/priteshkiri/understanding-system-reliability-the-foundation-of-modern-infrastructure-2b26)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
