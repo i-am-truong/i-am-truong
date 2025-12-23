@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [It Worked on My Laptop: Why Scrapers Collapse in Production &lpar;and What Actually Breaks&rpar;](https://dev.to/anna_6c67c00f5c3f53660978/it-worked-on-my-laptop-why-scrapers-collapse-in-production-and-what-actually-breaks-387h)
+- [In the Age of AI-Generated Code, I Built a Typing Game to Record Humanity&#39;s Peak Typing Speed](https://dev.to/mukitaro/in-the-age-of-ai-generated-code-i-built-a-typing-game-to-record-humanitys-peak-typing-speed-3n2l)
+- [Responsive Web Design: Understanding the Viewport &lpar;The Small Tag That Decides Everything&rpar;](https://dev.to/er-raj-aryan/responsive-web-design-understanding-the-viewport-the-small-tag-that-decides-everything-569a)
+- [Testing Radio Buttons with Webship-js](https://dev.to/webshipco/testing-radio-buttons-with-webship-js-31ho)
 - [Deduce, Don&#39;t Store](https://dev.to/tomerbendavid/deduce-dont-store-5adn)
-- [Developer Spotlight: Recap of Workspace Developer Summit](https://dev.to/googleworkspace/developer-spotlight-recap-of-workspace-developer-summit-33ja)
-- [Building KaggleIngest: How I Bridged Kaggle Data with AI Coding Assistants](https://dev.to/anand_vashishtha_32b629dd/building-kaggleingest-how-i-bridged-kaggle-data-with-ai-coding-assistants-1j8b)
-- [GitPulse: GitHub Trending Tool](https://dev.to/trishan_fernando/gitpulse-github-trending-tool-2183)
-- [Deep Learning for Medical Image Analysis](https://dev.to/paperium/deep-learning-for-medical-image-analysis-113i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
