@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Introducing InfraForgeLabs — Free · Local · Open · Forever](https://dev.to/infraforgelabs/introducing-infraforgelabs-free-local-open-forever-3inj)
-- [Developers made the SaaS approachable. Now, operators will make AI transformative. Now is the best time for developers to transform their careers into operators](https://dev.to/jaideepparashar/developers-made-the-saas-approachable-now-operators-will-make-ai-transformative-now-is-the-best-3mlm)
-- [From Assistants to Operators: The AI Role No One’s Preparing For](https://dev.to/jaideepparashar/from-assistants-to-operators-the-ai-role-no-ones-preparing-for-ca1)
-- [I’m working on an open-source backend built with Django, ASGI &lpar;WebSockets&rpar;, PostgreSQL, and a small containerized setup.](https://dev.to/georgetoloraia/im-working-on-an-open-source-backend-built-with-django-asgi-websockets-postgresql-and-a-small-23pp)
-- [The Secret Life of Python: The Truth About Nothing](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-truth-about-nothing-4of5)
+- [What “Enough” Means in a Stable Money System](https://dev.to/luketaylor25/what-enough-means-in-a-stable-money-system-5676)
+- [7 Best Resources to Learn Mobile App Development](https://dev.to/stack_overflowed/7-best-resources-to-learn-mobile-app-development-4ai6)
+- [Why Money Stress Is a Lagging Indicator](https://dev.to/luketaylor25/why-money-stress-is-a-lagging-indicator-55ij)
+- [How Financial Systems Absorb Shocks Over Time](https://dev.to/luketaylor25/how-financial-systems-absorb-shocks-over-time-478i)
+- [Daily Tech News Roundup - 2025-12-23](https://dev.to/atharvshinde2004/daily-tech-news-roundup-2025-12-23-2fkm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
