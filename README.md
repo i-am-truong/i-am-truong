@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Azure Synapse vs Fabric—9 Things You Should Know &lpar;2025&rpar;](https://dev.to/chaos-genius/azure-synapse-vs-fabric-9-things-you-should-know-2025-47ch)
-- [Building an AI Humanizer: why we stopped trying to fix prompts](https://dev.to/peggggykang/building-an-ai-humanizer-why-we-stopped-trying-to-fix-prompts-bi9)
-- [Building an AI‑Powered Web Scraper in n8n &lpar;HTTP, HTML, JS, OpenAI&rpar;](https://dev.to/startup_guy/building-an-ai-powered-web-scraper-in-n8n-http-html-js-openai-1ipk)
-- [AI Background Remover: Why Studio Photos Perform Better](https://dev.to/freepixel11/ai-background-remover-why-studio-photos-perform-better-2pe9)
-- [Building a YouTube Automation System with Claude AI: From News to Shorts in Minutes](https://dev.to/trollz1004/building-a-youtube-automation-system-with-claude-ai-from-news-to-shorts-in-minutes-2mel)
+- [The Precision Paradigm: Why Radical Personalization is the Future of Business Simulation Design](https://dev.to/leadership28/the-precision-paradigm-why-radical-personalization-is-the-future-of-business-simulation-design-27c7)
+- [Scrapy Requests and Responses: The Complete Beginner&#39;s Guide &lpar;With Secrets the Docs Don&#39;t Tell You&rpar;](https://dev.to/ikram_khan/scrapy-requests-and-responses-the-complete-beginners-guide-with-secrets-the-docs-dont-tell-you-1f3i)
+- [AI in DevOps and SRE: The Force Multiplier We&#39;ve Been Waiting For in 2025](https://dev.to/meena_nukala/ai-in-devops-and-sre-the-force-multiplier-weve-been-waiting-for-in-2025-57c1)
+- [Technical Analysis: Ethereum’s Security Pivot and the SQHWYD Infrastructure Standard](https://dev.to/sqhwyd/technical-analysis-ethereums-security-pivot-and-the-sqhwyd-infrastructure-standard-17hp)
+- [I think we’re all over-complicating personal websites in 2026](https://dev.to/dev_resources/i-think-were-all-over-complicating-personal-websites-in-2026-3iik)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
