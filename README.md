@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Unnesting Scalar Subqueries into Left Outer Joins in SQL](https://dev.to/aws-heroes/unnesting-scalar-subqueries-into-left-outer-joins-in-sql-556k)
+- [Title: Understanding Memory Management in Programming: A Comprehensive Guide](https://dev.to/thijs_bressers_c37db43eab/title-understanding-memory-management-in-programming-a-comprehensive-guide-4o0n)
+- [Pattern Matching in C#: The Starters Guide](https://dev.to/rasheedmozaffar/pattern-matching-in-c-the-starters-guide-2mmd)
 - [🚀 Terraform Day 15: Modules — Writing Reusable, Scalable Infrastructure Code](https://dev.to/jeeva_5c84a254e90842940dd/terraform-day-15-modules-writing-reusable-scalable-infrastructure-code-jgc)
 - [Rsbuild in Refly codebase.](https://dev.to/ramunarasinga-11/rsbuild-in-refly-codebase-5bn9)
-- [process-polyfill.ts in Refly codebase.](https://dev.to/ramunarasinga-11/process-polyfillts-in-refly-codebase-2imj)
-- [I Vibe‑Coded a Booking API—Then Made It Production‑Grade &lpar;Part 1&rpar;](https://dev.to/dbzero/i-vibe-coded-a-booking-api-then-made-it-production-grade-part-1-44h5)
-- [I built an open research framework for studying alignment, entropy, and stability in multi‑agent systems](https://dev.to/palman22hue/i-built-an-open-research-framework-for-studying-alignment-entropy-and-stability-in-multi-agent-bbi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
