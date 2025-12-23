@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [UTCP: um protocolo alternativo ao MCP para chamada de ferramentas](https://dev.to/wandealves/utcp-um-protocolo-alternativo-ao-mcp-para-chamada-de-ferramentas-5dnn)
+- [Say Hello to uMux: Sync videos from Umbraco to Mux effortlessly](https://dev.to/skttl/say-hello-to-umux-sync-videos-from-umbraco-to-mux-effortlessly-1kng)
+- [KodeKloud Days 5-8: SELinux and Cron Jobs](https://dev.to/elijahu/kodekloud-days-5-8-selinux-and-cron-jobs-1p2l)
 - [Apps Script CacheService Eviction and Other Limits](https://dev.to/googleworkspace/apps-script-cacheservice-eviction-and-other-limits-1p6d)
 - [Jan Klein | Understandable AI](https://dev.to/janklein/jan-klein-understandable-ai-9ol)
-- [Resolving Google Chat User IDs to Emails: The Least Privilege Way](https://dev.to/googleworkspace/resolving-google-chat-user-ids-to-emails-the-least-privilege-way-4lga)
-- [Every aspiring developer founder needs to read this.](https://dev.to/oceeaham/every-aspiring-developer-founder-needs-to-read-this-41b4)
-- [Irish Techie Table Quiz 2025 - Update](https://dev.to/whykay/irish-techie-table-quiz-2025-update-1mh0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
