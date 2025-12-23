@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [WhatsApp Ghost Pairing: A Silent Abuse of Linked Devices](https://dev.to/ciberconscientes/whatsapp-ghost-pairing-a-silent-abuse-of-linked-devices-4jb7)
-- [After failing 37 interviews, I built the interview prep tool I wish I had](https://dev.to/ilyasseisov/after-failing-37-interviews-i-built-the-interview-prep-tool-i-wish-i-had-12n5)
-- [Good morning everyone, now I have WASM.](https://dev.to/zayoka/good-morning-everyone-now-i-have-wasm-2nk5)
-- [Advent of AI 2025 - Day 16: Planning With .goosehints](https://dev.to/nickytonline/advent-of-ai-2025-day-16-planning-with-goosehints-875)
-- [REFramework: The Ultimate Power Tool for Capcom’s RE Engine](https://dev.to/millerdean/reframework-the-ultimate-power-tool-for-capcoms-re-engine-104o)
+- [How to Start an RDP Session From macOS With Windows App](https://dev.to/fedtti/how-to-start-an-rdp-session-from-macos-with-windows-app-15io)
+- [Complete CI/CD Pipeline with Node.js, Docker, and Kubernetes](https://dev.to/subair09/complete-cicd-pipeline-with-nodejs-docker-and-kubernetes-2604)
+- [Parallel programming](https://dev.to/thijs_bressers_c37db43eab/parallel-programming-hpk)
+- [Topic: HTML](https://dev.to/thijs_bressers_c37db43eab/topic-html-p91)
+- [Technical debt vs. new features: how to set priorities](https://dev.to/kodus/technical-debt-vs-new-features-how-to-set-priorities-38pc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
