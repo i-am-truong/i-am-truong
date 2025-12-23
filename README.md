@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Muslim Prayer Reminder for Slack](https://dev.to/ikhaledabdelfattah/muslim-prayer-reminder-for-slack-5573)
+- [Out-of-Office BUG](https://dev.to/sonandrew/out-of-office-bug-en0)
+- [Who Is Ayush Kumar Rai? A Full Stack Developer’s Journey into Tech](https://dev.to/ayushkumarrai/who-is-ayush-kumar-rai-a-full-stack-developers-journey-into-tech-3jj8)
+- [Day 27.Configuring a Public VPC with an EC2 Instance for Internet Access](https://dev.to/thukhakyawe_cloud/day-27configuring-a-public-vpc-with-an-ec2-instance-for-internet-access-4n4l)
 - [From Steam Machines to Home Robots: Where Consumer Tech Is Actually Heading](https://dev.to/deeppressanalysis/from-steam-machines-to-home-robots-where-consumer-tech-is-actually-heading-7af)
-- [2025-12-23 Daily Robotics News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-23-daily-robotics-news-58pf)
-- [I built FAF using Zig on Bun for Claude](https://dev.to/wolfejam/i-built-faf-using-zig-on-bun-for-claude-190i)
-- [🌱 I Built an Open‑Source Adaptive Learning Framework &lpar;ALF&rpar; — Modular, Bilingual, and JSON‑Driven](https://dev.to/palman22hue/i-built-an-open-source-adaptive-learning-framework-alf-modular-bilingual-and-json-driven-8of)
-- [I Built a Free Lightweight Ad Blocker Chrome Extension &lpar;Looking for Feedback&rpar;](https://dev.to/sahil_kalia_d35a3aa341b31/i-built-a-free-lightweight-ad-blocker-chrome-extension-looking-for-feedback-463e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
