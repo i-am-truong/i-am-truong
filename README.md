@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Azure Synapse vs Fabric—9 Things You Should Know &lpar;2025&rpar;](https://dev.to/chaos-genius/azure-synapse-vs-fabric-9-things-you-should-know-2025-47ch)
+- [Building an AI Humanizer: why we stopped trying to fix prompts](https://dev.to/peggggykang/building-an-ai-humanizer-why-we-stopped-trying-to-fix-prompts-bi9)
 - [Building an AI‑Powered Web Scraper in n8n &lpar;HTTP, HTML, JS, OpenAI&rpar;](https://dev.to/startup_guy/building-an-ai-powered-web-scraper-in-n8n-http-html-js-openai-1ipk)
-- [strapd: CLI/webapp for everyday micro tasks](https://dev.to/dhwaneetbhatt/strapd-cliwebapp-for-everyday-micro-tasks-386m)
-- [Clinical Project Associate: Understanding the Key Roles and Responsibilities](https://dev.to/clinilaunch_bangalore_b0b/clinical-project-associate-understanding-the-key-roles-and-responsibilities-26pi)
-- [`allOf` vs `oneOf` vs `anyOf` in OpenAPI &lpar;with examples&rpar;](https://dev.to/umartahir93/oneof-vs-anyof-vs-allof-in-openapi-with-real-examples-93h)
-- [CSS Optimization Guide 2025: Speed Up Your Website | Best Practices &amp; Code Examples](https://dev.to/satyam_gupta_0d1ff2152dcc/css-optimization-guide-2025-speed-up-your-website-best-practices-code-examples-31ib)
+- [AI Background Remover: Why Studio Photos Perform Better](https://dev.to/freepixel11/ai-background-remover-why-studio-photos-perform-better-2pe9)
+- [Building a YouTube Automation System with Claude AI: From News to Shorts in Minutes](https://dev.to/trollz1004/building-a-youtube-automation-system-with-claude-ai-from-news-to-shorts-in-minutes-2mel)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
