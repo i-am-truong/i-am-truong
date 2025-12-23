@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [MCP Isn&#39;t Hard, Here&#39;s the Easiest Beginner-Friendly MCP MASTERCLASS EVER 🤗 &lpar;PART 2&rpar;](https://dev.to/fonyuygita/mcp-isnt-hard-heres-the-easiest-beginner-friendly-mcp-masterclass-ever-part-2-172n)
+- [Knip: The Ultimate Dead Code Detector for JavaScript &amp; TypeScript Projects](https://dev.to/ajmal_hasan/knip-the-ultimate-dead-code-detector-for-javascript-typescript-projects-3463)
 - [How switching to SQS Batch operations improves Performance an Billing](https://dev.to/aws-builders/optimizing-sqs-operations-using-batch-api-14fn)
 - [Activation Functions: How Simple Curves Power Neural Networks](https://dev.to/rijultp/activation-functions-how-simple-curves-power-neural-networks-2b8e)
 - [Introducing the Sunpeak Resource Repository](https://dev.to/abewheeler/introducing-the-sunpeak-resource-repository-1bbg)
-- [Using the Reinforcement Learning GitHub Package](https://dev.to/dipti_m_2e7ba36c478d1a48a/using-the-reinforcement-learning-github-package-4128)
-- [UTCP: um protocolo alternativo ao MCP para chamada de ferramentas](https://dev.to/wandealves/utcp-um-protocolo-alternativo-ao-mcp-para-chamada-de-ferramentas-5dnn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
