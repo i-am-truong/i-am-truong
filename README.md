@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From feature engineering to deployment: a local-first MLOps workflow with Skyulf](https://dev.to/flyingriverhorse/from-feature-engineering-to-deployment-a-local-first-mlops-workflow-with-skyulf-140g)
-- [How Do You Get Karma on Reddit : A Comprehensive Guide](https://dev.to/infrasity-learning/how-do-you-get-karma-on-reddit-a-comprehensive-guide-4nd)
-- [Java Full Stack Developer Course: Build End-to-End Web Applications](https://dev.to/vasantha_keshaveni_6c6d87/java-full-stack-developer-course-build-end-to-end-web-applications-49bd)
-- [Google Core Update December 2025 – a report from the eye of the storm](https://dev.to/pawel_nosko/google-core-update-december-2025-a-report-from-the-eye-of-the-storm-c19)
-- [Medical Coding Staffing Shortages Are Reshaping Revenue Cycle Operations](https://dev.to/info_chirokhealth/medical-coding-staffing-shortages-are-reshaping-revenue-cycle-operations-p16)
+- [AI-Powered Low-Code Platforms for Apps and Agents](https://dev.to/nickpe/ai-powered-low-code-platforms-for-apps-and-agents-1e5c)
+- [Agentic AI: Building Autonomous AI Systems That Plan and Act](https://dev.to/sonammg/agentic-ai-building-autonomous-ai-systems-that-plan-and-act-1h6l)
+- [React Performance Optimization: 15 Best Practices for 2025](https://dev.to/alex_bobes/react-performance-optimization-15-best-practices-for-2025-17l9)
+- [How to turn your handwriting into a font in 60 seconds &lpar;Open Source&rpar;](https://dev.to/progressiveprogrammer/how-to-turn-your-handwriting-into-a-font-in-60-seconds-open-source-129j)
+- [What Broke When I Let One AI Handle an End-to-End Workflow](https://dev.to/leena_malhotra/what-broke-when-i-let-one-ai-handle-an-end-to-end-workflow-3h4o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
