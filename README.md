@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [It Worked on My Laptop: Why Scrapers Collapse in Production &lpar;and What Actually Breaks&rpar;](https://dev.to/anna_6c67c00f5c3f53660978/it-worked-on-my-laptop-why-scrapers-collapse-in-production-and-what-actually-breaks-387h)
-- [In the Age of AI-Generated Code, I Built a Typing Game to Record Humanity&#39;s Peak Typing Speed](https://dev.to/mukitaro/in-the-age-of-ai-generated-code-i-built-a-typing-game-to-record-humanitys-peak-typing-speed-3n2l)
-- [Responsive Web Design: Understanding the Viewport &lpar;The Small Tag That Decides Everything&rpar;](https://dev.to/er-raj-aryan/responsive-web-design-understanding-the-viewport-the-small-tag-that-decides-everything-569a)
-- [Testing Radio Buttons with Webship-js](https://dev.to/webshipco/testing-radio-buttons-with-webship-js-31ho)
-- [Deduce, Don&#39;t Store](https://dev.to/tomerbendavid/deduce-dont-store-5adn)
+- [All about security and traffic in Amazon VPC](https://dev.to/jeyy/all-about-security-and-traffic-in-amazon-vpc-496a)
+- [Why Large Tasks Fail: The 2-Hour Rule Secret](https://dev.to/_jeongyuhyeon_03de1/why-large-tasks-fail-the-2-hour-rule-secret-1nf4)
+- [When Does a Component Re-render in React?](https://dev.to/edriso/when-does-a-component-re-render-in-react-2h4c)
+- [Maximize Developer Revenue with Monetzly&#39;s API for AI Conversations](https://dev.to/monetzly/maximize-developer-revenue-with-monetzlys-api-for-ai-conversations-4bmj)
+- [DevOps Portfolio Project: Jenkins CI/CD Pipeline with Docker Dynamic Agents](https://dev.to/hamzasakr/devops-portfolio-project-jenkins-cicd-pipeline-with-docker-dynamic-agents-hmn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
