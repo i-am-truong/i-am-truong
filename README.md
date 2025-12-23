@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Chaos to Order in the Frontend](https://dev.to/iagrekhovfronted/from-chaos-to-order-in-the-frontend-31np)
-- [January 26: MSCI May Drop MicroStrategy — What It Reveals About Investor Mindsets in Crypto](https://dev.to/bitnet4ever/january-26-msci-may-drop-microstrategy-what-it-reveals-about-investor-mindsets-in-crypto-2bmm)
-- [Cracking the Code to Developer Satisfaction](https://dev.to/chepe_kun_75cd5bb6c79ddb3/cracking-the-code-to-developer-satisfaction-1e8m)
-- [I scaled from 1K to 100M tasks with zero memory growth — here&#39;s the cryptographic proof](https://dev.to/seasonedash_17/i-scaled-from-1k-to-100m-tasks-with-zero-memory-growth-heres-the-cryptographic-proof-1o8)
-- [ESMate: An Anti-Fatigue Toolkit for JavaScript/TypeScript Development](https://dev.to/maxvien/esmate-an-anti-fatigue-toolkit-for-javascripttypescript-development-5c7c)
+- [Creative Design Agency Portfolio React, GSAP Animation](https://dev.to/hashirkhan/creative-design-agency-portfolio-react-gsap-animation-17mm)
+- [Medical Service API - v1.0](https://dev.to/alexander-attoh/medical-service-api-v10-44b0)
+- [Flutter Just Changed UI Forever — Most Developers Haven’t Noticed Yet](https://dev.to/kiddo4lyf/flutter-just-changed-ui-forever-most-developers-havent-noticed-yet-1pkd)
+- [Predicting Wine Quality with Data Science: My Vivino Project](https://dev.to/youssef_bellouz_ce1d9c1b4/predicting-wine-quality-with-data-science-my-vivino-project-1m88)
+- [Taming the State Monster: Reactive UI vs. Finite State Machines in Game Dev](https://dev.to/ffteamnames/taming-the-state-monster-reactive-ui-vs-finite-state-machines-in-game-dev-372g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
