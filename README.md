@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Junior vs. Lead: The 8 High-Stakes Mistakes I’m Leaving in 2025](https://dev.to/franciscolunadev82/junior-vs-lead-the-8-high-stakes-mistakes-im-leaving-in-2025-2klf)
+- [Build a Voice-Controlled GitHub Agent in Python &lpar;MCP + Vision Agents&rpar;](https://dev.to/getstreamhq/build-a-voice-controlled-github-agent-in-python-mcp-vision-agents-l5p)
+- [Vibe Coding Explained: How AI Is Changing the Way We Build Software](https://dev.to/jessica_patel_472897dd43c/vibe-coding-explained-how-ai-is-changing-the-way-we-build-software-563g)
+- [ChatGPT Search vs Traditional SEO: The Reality Check Nobody&#39;s Talking About](https://dev.to/synergistdigitalmedia/chatgpt-search-vs-traditional-seo-the-reality-check-nobodys-talking-about-k60)
 - [Stop Writing API Docs Manually: Automate OpenAPI in Next.js 🚀](https://dev.to/mariusz_w_81d65d9ea209825/stop-writing-api-docs-manually-automate-openapi-in-nextjs-1bl9)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2p6l)
-- [Beyond CRUD: Designing a Multi-Tenant Data Isolation Architecture in Java](https://dev.to/nifski/beyond-crud-designing-a-multi-tenant-data-isolation-architecture-in-java-4k0a)
-- [C# Architecture Mastery — Clean Architecture in ASP.NET Core: Minimal APIs vs MVC &lpar;Part 4&rpar;](https://dev.to/cristiansifuentes/c-architecture-mastery-clean-architecture-in-aspnet-core-minimal-apis-vs-mvc-part-4-1i12)
-- [C# Architecture Mastery — Dependency Injection, Lifetimes &amp; Composition Roots &lpar;Part 3&rpar;](https://dev.to/cristiansifuentes/c-architecture-mastery-dependency-injection-lifetimes-composition-roots-part-3-1fdb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
