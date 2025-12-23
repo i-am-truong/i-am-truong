@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Making AI Code Consistent with Linters](https://dev.to/fhaponenka/making-ai-code-consistent-with-linters-27pl)
-- [Understanding oneOf in OpenAPI &lpar;Without the Confusion&rpar;](https://dev.to/umartahir93/understanding-oneof-in-openapi-without-the-confusion-3cp6)
-- [Take control of your job with GitLens Launchpad](https://dev.to/this-is-learning/take-control-of-your-job-with-gitlens-launchpad-4oo2)
-- [Generative AI: Transforming the Future of Technology](https://dev.to/khushi_jitani_ca127abdedd/generative-ai-transforming-the-future-of-technology-oh6)
-- [Top 10 Web Development Companies in Indore](https://dev.to/shruti_brijpuriya_2b88562/top-10-web-development-companies-in-indore-1n5c)
+- [Building an AI‑Powered Web Scraper in n8n &lpar;HTTP, HTML, JS, OpenAI&rpar;](https://dev.to/startup_guy/building-an-ai-powered-web-scraper-in-n8n-http-html-js-openai-1ipk)
+- [strapd: CLI/webapp for everyday micro tasks](https://dev.to/dhwaneetbhatt/strapd-cliwebapp-for-everyday-micro-tasks-386m)
+- [Clinical Project Associate: Understanding the Key Roles and Responsibilities](https://dev.to/clinilaunch_bangalore_b0b/clinical-project-associate-understanding-the-key-roles-and-responsibilities-26pi)
+- [`allOf` vs `oneOf` vs `anyOf` in OpenAPI &lpar;with examples&rpar;](https://dev.to/umartahir93/oneof-vs-anyof-vs-allof-in-openapi-with-real-examples-93h)
+- [CSS Optimization Guide 2025: Speed Up Your Website | Best Practices &amp; Code Examples](https://dev.to/satyam_gupta_0d1ff2152dcc/css-optimization-guide-2025-speed-up-your-website-best-practices-code-examples-31ib)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
