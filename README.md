@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Using the Reinforcement Learning GitHub Package](https://dev.to/dipti_m_2e7ba36c478d1a48a/using-the-reinforcement-learning-github-package-4128)
 - [UTCP: um protocolo alternativo ao MCP para chamada de ferramentas](https://dev.to/wandealves/utcp-um-protocolo-alternativo-ao-mcp-para-chamada-de-ferramentas-5dnn)
+- [Why I built a 100% Client-Side Web Toolkit &lpar;and why your privacy matters&rpar;](https://dev.to/quickwebtools/why-i-built-a-100-client-side-web-toolkit-and-why-your-privacy-matters-4b99)
+- [My ChatGPT Year 2025](https://dev.to/minoosh/my-chatgpt-year-2025-5ej9)
 - [Say Hello to uMux: Sync videos from Umbraco to Mux effortlessly](https://dev.to/skttl/say-hello-to-umux-sync-videos-from-umbraco-to-mux-effortlessly-1kng)
-- [KodeKloud Days 5-8: SELinux and Cron Jobs](https://dev.to/elijahu/kodekloud-days-5-8-selinux-and-cron-jobs-1p2l)
-- [Apps Script CacheService Eviction and Other Limits](https://dev.to/googleworkspace/apps-script-cacheservice-eviction-and-other-limits-1p6d)
-- [Jan Klein | Understandable AI](https://dev.to/janklein/jan-klein-understandable-ai-9ol)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
