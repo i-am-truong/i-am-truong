@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The new Supabase power for Kiro](https://dev.to/supabase/the-new-supabase-power-for-kiro-51df)
-- [Activity Rings: Build Your Own Health Dashboard with React and SVG](https://dev.to/wellallytech/activity-rings-build-your-own-health-dashboard-with-react-and-svg-49og)
-- [From Serial Ports to WebSockets: Debugging Across Two Worlds](https://dev.to/mda2av/from-serial-ports-to-websockets-debugging-across-two-worlds-2l7o)
-- [YouTube launches AI-powered Playables Builder beta to let creators design andshare their own games](https://dev.to/ytosko/youtube-launches-ai-powered-playables-builder-beta-to-let-creators-design-andshare-their-own-games-4fn4)
-- [Cybersecurity - Secure API Development - Complete Tutorial](https://dev.to/hkj13/cybersecurity-secure-api-development-complete-tutorial-beb)
+- [From Chaos to Order in the Frontend](https://dev.to/iagrekhovfronted/from-chaos-to-order-in-the-frontend-31np)
+- [January 26: MSCI May Drop MicroStrategy — What It Reveals About Investor Mindsets in Crypto](https://dev.to/bitnet4ever/january-26-msci-may-drop-microstrategy-what-it-reveals-about-investor-mindsets-in-crypto-2bmm)
+- [Cracking the Code to Developer Satisfaction](https://dev.to/chepe_kun_75cd5bb6c79ddb3/cracking-the-code-to-developer-satisfaction-1e8m)
+- [I scaled from 1K to 100M tasks with zero memory growth — here&#39;s the cryptographic proof](https://dev.to/seasonedash_17/i-scaled-from-1k-to-100m-tasks-with-zero-memory-growth-heres-the-cryptographic-proof-1o8)
+- [ESMate: An Anti-Fatigue Toolkit for JavaScript/TypeScript Development](https://dev.to/maxvien/esmate-an-anti-fatigue-toolkit-for-javascripttypescript-development-5c7c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
