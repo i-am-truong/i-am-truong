@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s the Difference Between Manifest V2 and V3 in browser extensions?](https://dev.to/notearthian/whats-the-difference-between-manifest-v2-and-v3-in-browser-extensions-3b10)
-- [Why I Built a Frontend Template That Makes Swapping Libraries Boring](https://dev.to/nitinnair89/why-i-built-a-frontend-template-that-makes-swapping-libraries-boring-52l9)
-- [Cursor vs GitHub Copilot vs Claude Code](https://dev.to/ciphernutz/cursor-vs-github-copilot-vs-claude-code-55k5)
-- [My Journey into Framer Motion: Building a Typewriter](https://dev.to/himj266/my-journey-into-framer-motion-building-a-typewriter-5dgf)
-- [Self-Supervised Temporal Pattern Mining for heritage language revitalization programs with ethical auditability baked in](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-heritage-language-revitalization-programs-with-ethical-3c6m)
+- [From feature engineering to deployment: a local-first MLOps workflow with Skyulf](https://dev.to/flyingriverhorse/from-feature-engineering-to-deployment-a-local-first-mlops-workflow-with-skyulf-140g)
+- [How Do You Get Karma on Reddit : A Comprehensive Guide](https://dev.to/infrasity-learning/how-do-you-get-karma-on-reddit-a-comprehensive-guide-4nd)
+- [Java Full Stack Developer Course: Build End-to-End Web Applications](https://dev.to/vasantha_keshaveni_6c6d87/java-full-stack-developer-course-build-end-to-end-web-applications-49bd)
+- [Google Core Update December 2025 – a report from the eye of the storm](https://dev.to/pawel_nosko/google-core-update-december-2025-a-report-from-the-eye-of-the-storm-c19)
+- [Medical Coding Staffing Shortages Are Reshaping Revenue Cycle Operations](https://dev.to/info_chirokhealth/medical-coding-staffing-shortages-are-reshaping-revenue-cycle-operations-p16)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
