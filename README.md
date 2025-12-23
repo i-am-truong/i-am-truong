@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Avoiding Hallucinations When Building Angular Apps with Gemini CLI](https://dev.to/marianocodes/reduce-hallucinations-when-working-on-a-angular-and-gemini-cli-42da)
+- [CSS Combinators: How to Write Half the CSS With Twice the Clarity](https://dev.to/web_dev-usman/css-combinators-how-to-write-half-the-css-with-twice-the-clarity-4oge)
 - [What “Enough” Means in a Stable Money System](https://dev.to/luketaylor25/what-enough-means-in-a-stable-money-system-5676)
 - [7 Best Resources to Learn Mobile App Development](https://dev.to/stack_overflowed/7-best-resources-to-learn-mobile-app-development-4ai6)
 - [Why Money Stress Is a Lagging Indicator](https://dev.to/luketaylor25/why-money-stress-is-a-lagging-indicator-55ij)
-- [How Financial Systems Absorb Shocks Over Time](https://dev.to/luketaylor25/how-financial-systems-absorb-shocks-over-time-478i)
-- [Daily Tech News Roundup - 2025-12-23](https://dev.to/atharvshinde2004/daily-tech-news-roundup-2025-12-23-2fkm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
