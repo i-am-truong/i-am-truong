@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Pointers Store Addresses — So Why Do They Have Types?](https://dev.to/amanprasad/pointers-store-addresses-so-why-do-they-have-types-3me1)
+- [Language Agent Tree Search Unifies Reasoning, Acting, and Planning in Language Models](https://dev.to/tutti/language-agent-tree-search-unifies-reasoning-acting-and-planning-in-language-models-3b97)
+- [Understanding Git in Simple way - Part 2](https://dev.to/ganesh-kumar/understanding-git-in-simple-way-part-2-25k6)
 - [Avoiding Hallucinations When Building Angular Apps with Gemini CLI](https://dev.to/marianocodes/reduce-hallucinations-when-working-on-a-angular-and-gemini-cli-42da)
 - [CSS Combinators: How to Write Half the CSS With Twice the Clarity](https://dev.to/web_dev-usman/css-combinators-how-to-write-half-the-css-with-twice-the-clarity-4oge)
-- [What “Enough” Means in a Stable Money System](https://dev.to/luketaylor25/what-enough-means-in-a-stable-money-system-5676)
-- [7 Best Resources to Learn Mobile App Development](https://dev.to/stack_overflowed/7-best-resources-to-learn-mobile-app-development-4ai6)
-- [Why Money Stress Is a Lagging Indicator](https://dev.to/luketaylor25/why-money-stress-is-a-lagging-indicator-55ij)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
