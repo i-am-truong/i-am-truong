@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Custom Software Development Creating Digital Products That Adapt to Market Change](https://dev.to/amelia_reed_215be2a070573/custom-software-development-creating-digital-products-that-adapt-to-market-change-3k36)
-- [Membongkar Sihir di Balik Video Call: WebRTC](https://dev.to/driannaird/membongkar-sihir-di-balik-video-call-webrtc-50e7)
-- [I built a small tool to turn &quot;I want to learn X&quot; into a clear learning roadmap](https://dev.to/r_m_bf155c41738b35af01589/i-built-a-small-tool-to-turn-i-want-to-learn-x-into-a-clear-learning-roadmap-k0b)
-- [[2025 Guide] UGC Ads Strategy: Scale Creative Velocity &amp; ROAS](https://dev.to/getkoro_app/2025-guide-ugc-ads-strategy-scale-creative-velocity-roas-3knk)
-- [Membongkar Sihir di Balik Video Call: WebRTC](https://dev.to/driannaird/membongkar-sihir-di-balik-video-call-panduan-webrtc-yang-mudah-dipahami-1d5k)
+- [Security isn’t just about code](https://dev.to/vardan_matevosian_tech/security-isnt-just-about-code-30ae)
+- [How to Apply Expiration Date for eSignature Requests Through API](https://dev.to/boldsign/how-to-apply-expiration-date-for-esignature-requests-through-api-h5c)
+- [How Intelligent Planning Transforms ERP Systems With OptaPlanner](https://dev.to/richa_singh_11bd098df12c8/how-intelligent-planning-transforms-erp-systems-with-optaplanner-5dnm)
+- [Cloud Security with AWS and Azure – Cybersecurity Course in Telugu](https://dev.to/sireesha_ramisetti_58f898/cloud-security-with-aws-and-azure-cybersecurity-course-in-telugu-3jmh)
+- [AI and Foundational Learning: Why the Future of Education Is Human-Led and Intelligence-Supported](https://dev.to/llf_2025/ai-and-foundational-learning-why-the-future-of-education-is-human-led-and-intelligence-supported-3dm5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
