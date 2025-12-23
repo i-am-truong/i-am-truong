@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Precision Paradigm: Why Radical Personalization is the Future of Business Simulation Design](https://dev.to/leadership28/the-precision-paradigm-why-radical-personalization-is-the-future-of-business-simulation-design-27c7)
-- [Scrapy Requests and Responses: The Complete Beginner&#39;s Guide &lpar;With Secrets the Docs Don&#39;t Tell You&rpar;](https://dev.to/ikram_khan/scrapy-requests-and-responses-the-complete-beginners-guide-with-secrets-the-docs-dont-tell-you-1f3i)
-- [AI in DevOps and SRE: The Force Multiplier We&#39;ve Been Waiting For in 2025](https://dev.to/meena_nukala/ai-in-devops-and-sre-the-force-multiplier-weve-been-waiting-for-in-2025-57c1)
-- [Technical Analysis: Ethereum’s Security Pivot and the SQHWYD Infrastructure Standard](https://dev.to/sqhwyd/technical-analysis-ethereums-security-pivot-and-the-sqhwyd-infrastructure-standard-17hp)
-- [I think we’re all over-complicating personal websites in 2026](https://dev.to/dev_resources/i-think-were-all-over-complicating-personal-websites-in-2026-3iik)
+- [🔐 Mastering LDAP Integration in Uniface 10.4: The Native Way](https://dev.to/f345345dfg/mastering-ldap-integration-in-uniface-104-the-native-way-1ala)
+- [Grounded AI Systems: Building Trustworthy Intelligence for Modern Enterprises](https://dev.to/jack_danial_4604eaf24946a/grounded-ai-systems-building-trustworthy-intelligence-for-modern-enterprises-3cdc)
+- [The Engineering guide to Context window efficiency](https://dev.to/siddhantkcode/the-engineering-guide-to-context-window-efficiency-202b)
+- [Ship Secure Code Faster: How Context-Driven Development and AI Agents Supercharge Your CI/CD Pipeline](https://dev.to/barecheck/ship-secure-code-faster-how-context-driven-development-and-ai-agents-supercharge-your-cicd-2cef)
+- [Connecting Uniface 10.4 to LDAP Servers: A Complete Guide 🔐](https://dev.to/f345345dfg/connecting-uniface-104-to-ldap-servers-a-complete-guide-2f3f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
