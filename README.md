@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [MCP Isn&#39;t Hard, Here&#39;s the Easiest Beginner-Friendly MCP MASTERCLASS EVER 🤗 &lpar;PART 2&rpar;](https://dev.to/fonyuygita/mcp-isnt-hard-heres-the-easiest-beginner-friendly-mcp-masterclass-ever-part-2-172n)
-- [Knip: The Ultimate Dead Code Detector for JavaScript &amp; TypeScript Projects](https://dev.to/ajmal_hasan/knip-the-ultimate-dead-code-detector-for-javascript-typescript-projects-3463)
-- [How switching to SQS Batch operations improves Performance an Billing](https://dev.to/aws-builders/optimizing-sqs-operations-using-batch-api-14fn)
-- [Activation Functions: How Simple Curves Power Neural Networks](https://dev.to/rijultp/activation-functions-how-simple-curves-power-neural-networks-2b8e)
-- [Introducing the Sunpeak Resource Repository](https://dev.to/abewheeler/introducing-the-sunpeak-resource-repository-1bbg)
+- [C# Architecture Mastery — From OOP to SOLID to Clean Architecture &lpar;Part 2&rpar;](https://dev.to/cristiansifuentes/c-architecture-mastery-from-oop-to-solid-to-clean-architecture-559)
+- [Ship Faster: The Complete Asset Optimization Reference](https://dev.to/arghya_majumder_54190fb59/ship-faster-the-complete-asset-optimization-reference-26b0)
+- [AI Made Me More Productive — and Less Sure Why I Code](https://dev.to/downtherabbithole/ai-made-me-more-productive-and-less-sure-why-i-code-2l8e)
+- [C# Fundamentals Mastery — From Quiz Answers to Production-Grade .NET Mental Models](https://dev.to/cristiansifuentes/c-fundamentals-mastery-from-quiz-answers-to-production-grade-net-mental-models-4pg1)
+- [React Cheatsheet - Fastest way to become web developer in 2026](https://dev.to/koderkashif/react-cheatsheet-fastest-way-to-become-web-developer-in-2026-1om6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
