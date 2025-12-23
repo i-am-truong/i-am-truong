@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Adding RISC-V Support to Armbian Imager: A Tale of QEMU, Tauri, and Deja Vu](https://dev.to/gounthar/adding-risc-v-support-to-armbian-imager-a-tale-of-qemu-tauri-and-deja-vu-18nl)
-- [Ethereum-Solidity Quiz Q2: What is a proxy in Solidity?](https://dev.to/mihaihng/ethereum-solidity-quiz-q2-what-is-a-proxy-in-solidity-4cg6)
-- [Testing shadcn/ui components with TWD](https://dev.to/kevinccbsg/testing-shadcnui-components-with-twd-259a)
-- [Day 24.Setting Up an Application Load Balancer for an EC2 Instance](https://dev.to/thukhakyawe_cloud/day-24setting-up-an-application-load-balancer-for-an-ec2-instance-1n2f)
-- [Building Synapse: A Full-Featured Social Media App with React Native &amp; Supabase &lpar;Launching Soon!&rpar;](https://dev.to/alexrosrgz/building-synapse-a-full-featured-social-media-app-with-react-native-supabase-launching-soon-1f4f)
+- [WebFormsJS Version Size - Even with a dial-up modem!](https://dev.to/elanatframework/webformsjs-version-size-even-with-a-dial-up-modem-5f30)
+- [Docker Remote Context via SSH over Proxy](https://dev.to/cod3mason/docker-remote-context-via-ssh-over-proxy-268l)
+- [Day 25.Setting Up an EC2 Instance and CloudWatch Alarm](https://dev.to/thukhakyawe_cloud/day-25setting-up-an-ec2-instance-and-cloudwatch-alarm-5gp)
+- [From Blocks to Meaning: Data Items and Databases](https://dev.to/lovestaco/from-blocks-to-meaning-data-items-and-databases-187i)
+- [AI Trading Daily Report: December 23, 2025 | $+161.84](https://dev.to/igorganapolsky/ai-trading-daily-report-december-23-2025-16184-1215)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
