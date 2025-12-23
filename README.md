@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Awesome A2A libraries: A curated list of Agent-to-Agent Libraries and SDKs](https://dev.to/nmaroulis21/awesome-a2a-libraries-a-curated-list-of-agent-to-agent-libraries-and-sdks-4obe)
-- [How to Start an RDP Session From macOS With Windows App](https://dev.to/fedtti/how-to-start-an-rdp-session-from-macos-with-windows-app-15io)
-- [Complete CI/CD Pipeline with Node.js, Docker, and Kubernetes](https://dev.to/subair09/complete-cicd-pipeline-with-nodejs-docker-and-kubernetes-2604)
-- [Technical debt vs. new features: how to set priorities](https://dev.to/kodus/technical-debt-vs-new-features-how-to-set-priorities-38pc)
-- [Building AI-Ready Applications with Model Context Protocol in C#](https://dev.to/adrianbailador/building-ai-ready-applications-with-model-context-protocol-in-c-1cga)
+- [Intentando implementar guardrails en mi red neuronal: enseñando a Prize a no dar consejos médicos](https://dev.to/galp76/intentando-implementar-guardrails-en-mi-red-neuronal-ensenando-a-prize-a-no-dar-consejos-medicos-4lj2)
+- [Why WordPress Websites Feel Slow in India &lpar;And the Fix Most Devs Ignore&rpar;](https://dev.to/krishna_singh_16a22fbb50e/why-wordpress-websites-feel-slow-in-india-and-the-fix-most-devs-ignore-3flc)
+- [How I Learned to Customize My Resume for Every Job &lpar;and Built an AI Tool to Do It&rpar;](https://dev.to/artur_loss/how-i-learned-to-customize-my-resume-for-every-job-and-built-an-ai-tool-to-do-it-51k4)
+- [Java Core Mastery Part 1: From Zero to FAANG Ready 🚀](https://dev.to/rajat128/java-core-mastery-part-1-from-zero-to-faang-ready-3imi)
+- [🚢 Docker, Explained from docker run to Docker Compose &lpar;With Real Examples&rpar;](https://dev.to/anusha_kuppili/docker-explained-from-docker-run-to-docker-compose-with-real-examples-1aln)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
