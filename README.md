@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From Steam Machines to Home Robots: Where Consumer Tech Is Actually Heading](https://dev.to/deeppressanalysis/from-steam-machines-to-home-robots-where-consumer-tech-is-actually-heading-7af)
+- [2025-12-23 Daily Robotics News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-23-daily-robotics-news-58pf)
+- [I built FAF using Zig on Bun for Claude](https://dev.to/wolfejam/i-built-faf-using-zig-on-bun-for-claude-190i)
 - [🌱 I Built an Open‑Source Adaptive Learning Framework &lpar;ALF&rpar; — Modular, Bilingual, and JSON‑Driven](https://dev.to/palman22hue/i-built-an-open-source-adaptive-learning-framework-alf-modular-bilingual-and-json-driven-8of)
 - [I Built a Free Lightweight Ad Blocker Chrome Extension &lpar;Looking for Feedback&rpar;](https://dev.to/sahil_kalia_d35a3aa341b31/i-built-a-free-lightweight-ad-blocker-chrome-extension-looking-for-feedback-463e)
-- [The Future of AI in Software Development: 2026 and Beyond](https://dev.to/mahdi_benrhouma_fe1c6005/the-future-of-ai-in-software-development-2026-and-beyond-5018)
-- [Day 26.Configuring an EC2 Instance as a Web Server with Nginx](https://dev.to/thukhakyawe_cloud/day-26configuring-an-ec2-instance-as-a-web-server-with-nginx-3j0j)
-- [WebFormsJS Version Size - Even with a dial-up modem!](https://dev.to/elanatframework/webformsjs-version-size-even-with-a-dial-up-modem-5f30)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
