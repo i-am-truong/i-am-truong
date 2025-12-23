@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [When Tokyo Moves Bitcoin: Building Your Macro Volatility Early-Warning System with Open-Source AI](https://dev.to/apnews/when-tokyo-moves-bitcoin-building-your-macro-volatility-early-warning-system-with-open-source-ai-2ib1)
-- [Docker Volumes and Data Persistence: Managing State in Containers 💾](https://dev.to/techwithhari/docker-volumes-and-data-persistence-managing-state-in-containers-21ge)
-- [AWS ML / GenAI Trifecta: Part 1 – AWS Certified AI Practitioner &lpar;AIF-C01&rpar;](https://dev.to/mgonzalezo/aws-ml-genai-trifecta-part-1-aws-certified-ai-practitioner-aif-c01-463n)
-- [Building the Control Plane for Cognition: Scaling Google’s MCP Support with a Universal Registry](https://dev.to/mcpmessenger/building-the-control-plane-for-cognition-scaling-googles-mcp-support-with-a-universal-registry-17lb)
-- [Quelle est la taille idéale d&#39;une classe ?](https://dev.to/onepoint/quelle-est-la-taille-ideale-dune-classe--2jhg)
+- [What&#39;s the Difference Between Manifest V2 and V3 in browser extensions?](https://dev.to/notearthian/whats-the-difference-between-manifest-v2-and-v3-in-browser-extensions-3b10)
+- [Why I Built a Frontend Template That Makes Swapping Libraries Boring](https://dev.to/nitinnair89/why-i-built-a-frontend-template-that-makes-swapping-libraries-boring-52l9)
+- [Cursor vs GitHub Copilot vs Claude Code](https://dev.to/ciphernutz/cursor-vs-github-copilot-vs-claude-code-55k5)
+- [My Journey into Framer Motion: Building a Typewriter](https://dev.to/himj266/my-journey-into-framer-motion-building-a-typewriter-5dgf)
+- [Self-Supervised Temporal Pattern Mining for heritage language revitalization programs with ethical auditability baked in](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-heritage-language-revitalization-programs-with-ethical-3c6m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
