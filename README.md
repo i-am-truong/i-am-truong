@@ -120,11 +120,13 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [2025-12-23 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-23-daily-ai-news-3k97)
+- [Building a Production WebGPU Engine... for a psychotherapy practice?](https://dev.to/x0101010011/building-a-production-webgpu-engine-for-a-psychotherapy-practice-43i9)
+- [Some of tech’s biggest moments happen during the holidays, when everything is supposed to be quiet.
+
+This was a great reminder that Q4 is often where history &lpar;or chaos&rpar; gets written. 🎄💻](https://dev.to/ekdoestech/some-of-techs-biggest-moments-happen-during-the-holidays-when-everything-is-supposed-to-be-2e74)
 - [C# Architecture Mastery — Event-Driven Architecture in .NET &lpar;Clean Boundaries with Messaging&rpar; &lpar;Part 12&rpar;](https://dev.to/cristiansifuentes/c-architecture-mastery-event-driven-architecture-in-net-clean-boundaries-with-messaging-part-12dl)
 - [C# Architecture Mastery — Scaling Teams with Architecture &lpar;Conway’s Law &amp; .NET&rpar; &lpar;Part 11&rpar;](https://dev.to/cristiansifuentes/c-architecture-mastery-scaling-teams-with-architecture-conways-law-net-part-11-24el)
-- [Build something vs. add new features and maintaining it](https://dev.to/tomokat/build-something-vs-add-new-features-and-maintaining-it-1app)
-- [C# Architecture Mastery — Refactoring Legacy ASP.NET Core Apps Toward Clean Architecture &lpar;Part 10&rpar;](https://dev.to/cristiansifuentes/c-architecture-mastery-refactoring-legacy-aspnet-core-apps-toward-clean-architecture-part-10-570g)
-- [C# Architecture Mastery — CQRS in ASP.NET Core &lpar;When It Helps, When It Hurts&rpar; &lpar;Part 9&rpar;](https://dev.to/cristiansifuentes/c-architecture-mastery-cqrs-in-aspnet-core-when-it-helps-when-it-hurts-part-9-2inj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
