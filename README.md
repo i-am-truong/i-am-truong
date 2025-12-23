@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Improving Storage Performance in Enterprise IT Environments](https://dev.to/amelia_hebrew/improving-storage-performance-in-enterprise-it-environments-42b5)
+- [Securing PII in Data Lakes: AWS Lake Formation Access Control](https://dev.to/aws-builders/securing-pii-in-data-lakes-aws-lake-formation-access-control-18ef)
+- [Ethereum Slips as DeFi Narrative Returns with a New Token Stealing the Spotlight](https://dev.to/ecryptograph/ethereum-slips-as-defi-narrative-returns-with-a-new-token-stealing-the-spotlight-56nf)
 - [𝗩𝗼𝗶𝗰𝗲 𝗔𝗜: 𝗧𝗧𝗦 - 𝗚𝗶𝘃𝗶𝗻𝗴 𝗬𝗼𝘂𝗿 𝗔𝗜 𝗮 𝗩𝗼𝗶𝗰𝗲](https://dev.to/wanjohichristopher/--5a)
 - [Shallow Copy vs Deep Copy in Python: An Interview-Oriented Explanation](https://dev.to/jackm_345442a09fb53b/shallow-copy-vs-deep-copy-in-python-an-interview-oriented-explanation-1k8g)
 - [A Short Follow-Up: What Actually Breaks First in URL Shorteners at Scale](https://dev.to/marquismark/a-short-follow-up-what-actually-breaks-first-in-url-shorteners-at-scale-2lb2)
-- [The Great AI Convergence: PyTorch vs. TensorFlow in 2026](https://dev.to/tech_croc_f32fbb6ea8ed4/the-great-ai-convergence-pytorch-vs-tensorflow-in-2026-845)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
