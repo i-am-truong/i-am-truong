@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [All about security and traffic in Amazon VPC](https://dev.to/jeyy/all-about-security-and-traffic-in-amazon-vpc-496a)
-- [Why Large Tasks Fail: The 2-Hour Rule Secret](https://dev.to/_jeongyuhyeon_03de1/why-large-tasks-fail-the-2-hour-rule-secret-1nf4)
-- [When Does a Component Re-render in React?](https://dev.to/edriso/when-does-a-component-re-render-in-react-2h4c)
-- [Maximize Developer Revenue with Monetzly&#39;s API for AI Conversations](https://dev.to/monetzly/maximize-developer-revenue-with-monetzlys-api-for-ai-conversations-4bmj)
-- [DevOps Portfolio Project: Jenkins CI/CD Pipeline with Docker Dynamic Agents](https://dev.to/hamzasakr/devops-portfolio-project-jenkins-cicd-pipeline-with-docker-dynamic-agents-hmn)
+- [Cómo solucionarlo con Terraform?](https://dev.to/valaug/como-solucionarlo-con-terraform-dcb)
+- [Getting Started with Python &lpar;Part 10&rpar;: Using Functions](https://dev.to/sdkfz181tiger/getting-started-with-python-part-10-using-functions-5091)
+- [How to Change a Column Datatype Without Affecting Existing Users Postgresql](https://dev.to/israelojiefoh/how-to-change-a-column-datatype-without-affecting-existing-users-postgresql-4k15)
+- [Monoliths for Discovery, Microservices for Optimization](https://dev.to/stevenstuartm/monoliths-for-discovery-microservices-for-optimization-5d9k)
+- [🚀 I Built a WhatsApp Web Automation Chrome Extension &lpar;Manifest V3&rpar;](https://dev.to/emmanuel_saleem_46200ad37/i-built-a-whatsapp-web-automation-chrome-extension-manifest-v3-5hl1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
