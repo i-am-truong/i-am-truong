@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [C# Architecture Mastery — From OOP to SOLID to Clean Architecture &lpar;Part 2&rpar;](https://dev.to/cristiansifuentes/c-architecture-mastery-from-oop-to-solid-to-clean-architecture-559)
-- [Ship Faster: The Complete Asset Optimization Reference](https://dev.to/arghya_majumder_54190fb59/ship-faster-the-complete-asset-optimization-reference-26b0)
-- [AI Made Me More Productive — and Less Sure Why I Code](https://dev.to/downtherabbithole/ai-made-me-more-productive-and-less-sure-why-i-code-2l8e)
-- [C# Fundamentals Mastery — From Quiz Answers to Production-Grade .NET Mental Models](https://dev.to/cristiansifuentes/c-fundamentals-mastery-from-quiz-answers-to-production-grade-net-mental-models-4pg1)
-- [React Cheatsheet - Fastest way to become web developer in 2026](https://dev.to/koderkashif/react-cheatsheet-fastest-way-to-become-web-developer-in-2026-1om6)
+- [Stop Writing API Docs Manually: Automate OpenAPI in Next.js 🚀](https://dev.to/mariusz_w_81d65d9ea209825/stop-writing-api-docs-manually-automate-openapi-in-nextjs-1bl9)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2p6l)
+- [Beyond CRUD: Designing a Multi-Tenant Data Isolation Architecture in Java](https://dev.to/nifski/beyond-crud-designing-a-multi-tenant-data-isolation-architecture-in-java-4k0a)
+- [C# Architecture Mastery — Clean Architecture in ASP.NET Core: Minimal APIs vs MVC &lpar;Part 4&rpar;](https://dev.to/cristiansifuentes/c-architecture-mastery-clean-architecture-in-aspnet-core-minimal-apis-vs-mvc-part-4-1i12)
+- [C# Architecture Mastery — Dependency Injection, Lifetimes &amp; Composition Roots &lpar;Part 3&rpar;](https://dev.to/cristiansifuentes/c-architecture-mastery-dependency-injection-lifetimes-composition-roots-part-3-1fdb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
