@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GXD v0.0.0a2: Major Updates and New Features](https://dev.to/hejhdiss/gxd-v000a2-major-updates-and-new-features-4gk9)
-- [Technical Debt Is a Myth Created By Bad Managers](https://dev.to/adamthedeveloper/technical-debt-is-a-myth-created-by-bad-managers-2l3k)
-- [Jots - The Reflection Engine Developers need](https://dev.to/javz/jots-the-reflection-engine-developers-need-4k9a)
-- [Tech Pulse: December 23, 2025 - AI, Cybersecurity &amp; Development News Roundup](https://dev.to/krlz/tech-pulse-december-23-2025-ai-cybersecurity-development-news-roundup-1jeh)
-- [Automating Image Extraction from DOCX Files with Python](https://dev.to/allen_yang_f905170c5a197b/automating-image-extraction-from-docx-files-with-python-533f)
+- [How to use Python&#39;s request library to retrieve data from API&#39;s](https://dev.to/robotwizard/how-to-use-pythons-request-library-to-retrieve-data-from-apis-2c6)
+- [Automatic staging environments for your GitHub PRs](https://dev.to/mikesol/automatic-staging-environments-for-your-github-prs-4e78)
+- [Why iPhone HEIC Photos Are Hard to Share &lpar;And What I Actually Do&rpar;](https://dev.to/_7bdcbcaa99fbf1c9ea608c/why-iphone-heic-photos-are-hard-to-share-and-what-i-actually-do-1a3h)
+- [Cutting React Bundle Size by 72%: A Deep Dive into main.chunk.js &amp; vendor.chunk.js](https://dev.to/saijamii/cutting-react-bundle-size-by-72-a-deep-dive-into-mainchunkjs-vendorchunkjs-5alj)
+- [🚀 Google Auth Website — A Production-Ready Boilerplate with Google SSO &amp; Email Auth](https://dev.to/nithya_gujiluvaravindran/google-auth-website-a-production-ready-boilerplate-with-google-sso-email-auth-338l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
