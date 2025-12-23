@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Securing PII in Data Lakes: AWS Lake Formation Access Control](https://dev.to/aws-builders/securing-pii-in-data-lakes-aws-lake-formation-access-control-18ef)
-- [Ethereum Slips as DeFi Narrative Returns with a New Token Stealing the Spotlight](https://dev.to/ecryptograph/ethereum-slips-as-defi-narrative-returns-with-a-new-token-stealing-the-spotlight-56nf)
-- [𝗩𝗼𝗶𝗰𝗲 𝗔𝗜: 𝗧𝗧𝗦 - 𝗚𝗶𝘃𝗶𝗻𝗴 𝗬𝗼𝘂𝗿 𝗔𝗜 𝗮 𝗩𝗼𝗶𝗰𝗲](https://dev.to/wanjohichristopher/--5a)
-- [Shallow Copy vs Deep Copy in Python: An Interview-Oriented Explanation](https://dev.to/jackm_345442a09fb53b/shallow-copy-vs-deep-copy-in-python-an-interview-oriented-explanation-1k8g)
-- [A Short Follow-Up: What Actually Breaks First in URL Shorteners at Scale](https://dev.to/marquismark/a-short-follow-up-what-actually-breaks-first-in-url-shorteners-at-scale-2lb2)
+- [The new Supabase power for Kiro](https://dev.to/supabase/the-new-supabase-power-for-kiro-51df)
+- [Activity Rings: Build Your Own Health Dashboard with React and SVG](https://dev.to/wellallytech/activity-rings-build-your-own-health-dashboard-with-react-and-svg-49og)
+- [From Serial Ports to WebSockets: Debugging Across Two Worlds](https://dev.to/mda2av/from-serial-ports-to-websockets-debugging-across-two-worlds-2l7o)
+- [YouTube launches AI-powered Playables Builder beta to let creators design andshare their own games](https://dev.to/ytosko/youtube-launches-ai-powered-playables-builder-beta-to-let-creators-design-andshare-their-own-games-4fn4)
+- [Cybersecurity - Secure API Development - Complete Tutorial](https://dev.to/hkj13/cybersecurity-secure-api-development-complete-tutorial-beb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
