@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cursor — My Year in Code 2025](https://dev.to/behindthedev/cursor-my-year-in-code-2025-9o4)
-- [Singapore vibes together at the new Google DeepMind office](https://dev.to/googleai/singapore-vibes-together-at-the-new-google-deepmind-office-28ea)
-- [From the Musk Compensation Case to DAO Governance — An Audit Report of a Traditional World “Off-Chain Smart Contract”](https://dev.to/apnews/from-the-musk-compensation-case-to-dao-governance-an-audit-report-of-a-traditional-world-13do)
-- [Designing Parts That Actually Print on Cheap Hardware](https://dev.to/numbpill3d/designing-parts-that-actually-print-on-cheap-hardware-2ik2)
-- [Understanding System Reliability: The Foundation of Modern Infrastructure](https://dev.to/priteshkiri/understanding-system-reliability-the-foundation-of-modern-infrastructure-2b26)
+- [GXD v0.0.0a2: Major Updates and New Features](https://dev.to/hejhdiss/gxd-v000a2-major-updates-and-new-features-4gk9)
+- [Technical Debt Is a Myth Created By Bad Managers](https://dev.to/adamthedeveloper/technical-debt-is-a-myth-created-by-bad-managers-2l3k)
+- [Jots - The Reflection Engine Developers need](https://dev.to/javz/jots-the-reflection-engine-developers-need-4k9a)
+- [Tech Pulse: December 23, 2025 - AI, Cybersecurity &amp; Development News Roundup](https://dev.to/krlz/tech-pulse-december-23-2025-ai-cybersecurity-development-news-roundup-1jeh)
+- [Automating Image Extraction from DOCX Files with Python](https://dev.to/allen_yang_f905170c5a197b/automating-image-extraction-from-docx-files-with-python-533f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
