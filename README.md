@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Independent Vendor Shops Operate on the Dark Web](https://dev.to/tor_bbb/how-independent-vendor-shops-operate-on-the-dark-web-12aj)
-- [Deploying Your AI/ML Models: A Practical Guide from Training to Production](https://dev.to/ajor-saha/deploying-your-aiml-models-a-practical-guide-from-training-to-production-2fg3)
-- [✨ Starting 2026 with a builder’s mindset ✨](https://dev.to/lakhera2015/starting-2026-with-a-builders-mindset-1j31)
-- [Azure Static Web Apps: login_hint now works](https://dev.to/andrewelans/azure-static-web-apps-add-loginhint-with-functions-37jb)
-- [Useful Features of MoonBit&#39;s moon CLI - Built-in lint, bench, snapshot, coverage, doc](https://dev.to/mizchi/useful-features-of-moonbits-moon-cli-built-in-lint-bench-snapshot-coverage-doc-5h63)
+- [[Boost]](https://dev.to/esin87/-44kh)
+- [I Built a Privacy-First CSV Explorer That Works Entirely in Your Browser](https://dev.to/dinesh_kumar_ef63ffef1c64/i-built-a-privacy-first-csv-explorer-that-works-entirely-in-your-browser-3lk3)
+- [AWS Control Tower 4.0: A New Look at Landing Zones](https://dev.to/aws-builders/aws-control-tower-40-a-new-look-at-landing-zones-1ap6)
+- [Thwarting Data Breaches: A Cybersecurity Solution Case Study](https://dev.to/hkj13/thwarting-data-breaches-a-cybersecurity-solution-case-study-1j1a)
+- [Caching with Redis: Boosting Application Performance](https://dev.to/techblogs/caching-with-redis-boosting-application-performance-4l54)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
