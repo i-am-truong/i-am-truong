@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 26.Configuring an EC2 Instance as a Web Server with Nginx](https://dev.to/thukhakyawe_cloud/day-26configuring-an-ec2-instance-as-a-web-server-with-nginx-3j0j)
 - [WebFormsJS Version Size - Even with a dial-up modem!](https://dev.to/elanatframework/webformsjs-version-size-even-with-a-dial-up-modem-5f30)
 - [Docker Remote Context via SSH over Proxy](https://dev.to/cod3mason/docker-remote-context-via-ssh-over-proxy-268l)
 - [Day 25.Setting Up an EC2 Instance and CloudWatch Alarm](https://dev.to/thukhakyawe_cloud/day-25setting-up-an-ec2-instance-and-cloudwatch-alarm-5gp)
 - [From Blocks to Meaning: Data Items and Databases](https://dev.to/lovestaco/from-blocks-to-meaning-data-items-and-databases-187i)
-- [AI Trading Daily Report: December 23, 2025 | $+161.84](https://dev.to/igorganapolsky/ai-trading-daily-report-december-23-2025-16184-1215)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
