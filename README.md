@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Data-Driven Project Analysis: Analyzing Trello Kanban Projects with AI on AWS Bedrock](https://dev.to/aws-builders/data-driven-project-analysis-analyzing-trello-kanban-projects-with-ai-on-aws-bedrock-15f4)
-- [How Machine Learning Personalizes User Experiences in Meditation Apps](https://dev.to/avaisley/how-machine-learning-personalizes-user-experiences-in-meditation-apps-2kji)
-- [The Future of AI Agents Isn’t What You Think — Here’s What Actually Matters](https://dev.to/jefreesujit/the-future-of-ai-agents-isnt-what-you-think-heres-what-actually-matters-2162)
-- [Conductor: Free AI Project Manager Extension for Gemini CLI](https://dev.to/jqueryscript/conductor-free-ai-project-manager-extension-for-gemini-cli-5f6j)
-- [🚀 Supercharge Your Database Skills with PostgreSQL Advanced + AI + DevOps 🎓](https://dev.to/tanishka_02d7daad6fabcd99/supercharge-your-database-skills-with-postgresql-advanced-ai-devops-2ak4)
+- [Deduce, Don&#39;t Store](https://dev.to/tomerbendavid/deduce-dont-store-5adn)
+- [Developer Spotlight: Recap of Workspace Developer Summit](https://dev.to/googleworkspace/developer-spotlight-recap-of-workspace-developer-summit-33ja)
+- [Building KaggleIngest: How I Bridged Kaggle Data with AI Coding Assistants](https://dev.to/anand_vashishtha_32b629dd/building-kaggleingest-how-i-bridged-kaggle-data-with-ai-coding-assistants-1j8b)
+- [GitPulse: GitHub Trending Tool](https://dev.to/trishan_fernando/gitpulse-github-trending-tool-2183)
+- [Deep Learning for Medical Image Analysis](https://dev.to/paperium/deep-learning-for-medical-image-analysis-113i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
