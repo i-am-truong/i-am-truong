@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Apps Script CacheService Eviction and Other Limits](https://dev.to/googleworkspace/apps-script-cacheservice-eviction-and-other-limits-1p6d)
+- [Jan Klein | Understandable AI](https://dev.to/janklein/jan-klein-understandable-ai-9ol)
 - [Resolving Google Chat User IDs to Emails: The Least Privilege Way](https://dev.to/googleworkspace/resolving-google-chat-user-ids-to-emails-the-least-privilege-way-4lga)
 - [Every aspiring developer founder needs to read this.](https://dev.to/oceeaham/every-aspiring-developer-founder-needs-to-read-this-41b4)
 - [Irish Techie Table Quiz 2025 - Update](https://dev.to/whykay/irish-techie-table-quiz-2025-update-1mh0)
-- [[Boost]](https://dev.to/esin87/-1b7f)
-- [When Team Chat Becomes the Problem, Not the Solution](https://dev.to/mdflaher/when-team-chat-becomes-the-problem-not-the-solution-bcb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
