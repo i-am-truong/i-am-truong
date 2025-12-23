@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Making AI Code Consistent with Linters](https://dev.to/fhaponenka/making-ai-code-consistent-with-linters-27pl)
+- [Understanding oneOf in OpenAPI &lpar;Without the Confusion&rpar;](https://dev.to/umartahir93/understanding-oneof-in-openapi-without-the-confusion-3cp6)
+- [Take control of your job with GitLens Launchpad](https://dev.to/this-is-learning/take-control-of-your-job-with-gitlens-launchpad-4oo2)
+- [Generative AI: Transforming the Future of Technology](https://dev.to/khushi_jitani_ca127abdedd/generative-ai-transforming-the-future-of-technology-oh6)
 - [Top 10 Web Development Companies in Indore](https://dev.to/shruti_brijpuriya_2b88562/top-10-web-development-companies-in-indore-1n5c)
-- [How Does a Tokenized Real Estate Platform Redefine Ownership in 2026?](https://dev.to/brucewayne12/how-does-a-tokenized-real-estate-platform-redefine-ownership-in-2026-fd4)
-- [Application Modernization: A Practical Guide to Building Future-Ready Software](https://dev.to/khushi_jitani_ca127abdedd/application-modernization-a-practical-guide-to-building-future-ready-software-2n65)
-- [React Coding Challenge : TIC-TAC-TOE](https://dev.to/zeeshanali0704/react-coding-challenge-tic-tac-toe-3bf9)
-- [Succession Certificate in India: Meaning, Process, and Importance](https://dev.to/kirti74/succession-certificate-in-india-meaning-process-and-importance-3ld4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
