@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Add Address Autocomplete to a MapLibre GL Map &lpar;with Click-to-Address Reverse Geocoding&rpar;](https://dev.to/geoapify-maps-api/add-address-autocomplete-to-a-maplibre-gl-map-with-click-to-address-reverse-geocoding-3c14)
-- [The 12 Days of Christmas - Programmed vs. Compressed](https://dev.to/jberesford94/the-12-days-of-christmas-programmed-vs-compressed-cfd)
-- [Code Smell 317 - Email Handling Vulnerabilities](https://dev.to/mcsee/code-smell-317-email-handling-vulnerabilities-241f)
-- [Create your own VPC, subnet and Internet Gateway](https://dev.to/jeyy/create-your-own-vpc-subnet-and-internet-gateway-2lbm)
-- [I stopped using Excel: How I built an Enterprise-Grade Job Tracker with Spring Boot 3 &amp; Angular 17](https://dev.to/thughari/i-stopped-using-excel-how-i-built-an-enterprise-grade-job-tracker-with-spring-boot-3-angular-17-2085)
+- [Data-Driven Project Analysis: Analyzing Trello Kanban Projects with AI on AWS Bedrock](https://dev.to/aws-builders/data-driven-project-analysis-analyzing-trello-kanban-projects-with-ai-on-aws-bedrock-15f4)
+- [How Machine Learning Personalizes User Experiences in Meditation Apps](https://dev.to/avaisley/how-machine-learning-personalizes-user-experiences-in-meditation-apps-2kji)
+- [The Future of AI Agents Isn’t What You Think — Here’s What Actually Matters](https://dev.to/jefreesujit/the-future-of-ai-agents-isnt-what-you-think-heres-what-actually-matters-2162)
+- [Conductor: Free AI Project Manager Extension for Gemini CLI](https://dev.to/jqueryscript/conductor-free-ai-project-manager-extension-for-gemini-cli-5f6j)
+- [🚀 Supercharge Your Database Skills with PostgreSQL Advanced + AI + DevOps 🎓](https://dev.to/tanishka_02d7daad6fabcd99/supercharge-your-database-skills-with-postgresql-advanced-ai-devops-2ak4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
