@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI-Powered Low-Code Platforms for Apps and Agents](https://dev.to/nickpe/ai-powered-low-code-platforms-for-apps-and-agents-1e5c)
-- [Agentic AI: Building Autonomous AI Systems That Plan and Act](https://dev.to/sonammg/agentic-ai-building-autonomous-ai-systems-that-plan-and-act-1h6l)
-- [React Performance Optimization: 15 Best Practices for 2025](https://dev.to/alex_bobes/react-performance-optimization-15-best-practices-for-2025-17l9)
-- [How to turn your handwriting into a font in 60 seconds &lpar;Open Source&rpar;](https://dev.to/progressiveprogrammer/how-to-turn-your-handwriting-into-a-font-in-60-seconds-open-source-129j)
-- [What Broke When I Let One AI Handle an End-to-End Workflow](https://dev.to/leena_malhotra/what-broke-when-i-let-one-ai-handle-an-end-to-end-workflow-3h4o)
+- [Custom Software Development Creating Digital Products That Adapt to Market Change](https://dev.to/amelia_reed_215be2a070573/custom-software-development-creating-digital-products-that-adapt-to-market-change-3k36)
+- [Membongkar Sihir di Balik Video Call: WebRTC](https://dev.to/driannaird/membongkar-sihir-di-balik-video-call-webrtc-50e7)
+- [I built a small tool to turn &quot;I want to learn X&quot; into a clear learning roadmap](https://dev.to/r_m_bf155c41738b35af01589/i-built-a-small-tool-to-turn-i-want-to-learn-x-into-a-clear-learning-roadmap-k0b)
+- [[2025 Guide] UGC Ads Strategy: Scale Creative Velocity &amp; ROAS](https://dev.to/getkoro_app/2025-guide-ugc-ads-strategy-scale-creative-velocity-roas-3knk)
+- [Membongkar Sihir di Balik Video Call: WebRTC](https://dev.to/driannaird/membongkar-sihir-di-balik-video-call-panduan-webrtc-yang-mudah-dipahami-1d5k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
