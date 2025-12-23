@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to use Python&#39;s request library to retrieve data from API&#39;s](https://dev.to/robotwizard/how-to-use-pythons-request-library-to-retrieve-data-from-apis-2c6)
-- [Automatic staging environments for your GitHub PRs](https://dev.to/mikesol/automatic-staging-environments-for-your-github-prs-4e78)
-- [Why iPhone HEIC Photos Are Hard to Share &lpar;And What I Actually Do&rpar;](https://dev.to/_7bdcbcaa99fbf1c9ea608c/why-iphone-heic-photos-are-hard-to-share-and-what-i-actually-do-1a3h)
-- [Cutting React Bundle Size by 72%: A Deep Dive into main.chunk.js &amp; vendor.chunk.js](https://dev.to/saijamii/cutting-react-bundle-size-by-72-a-deep-dive-into-mainchunkjs-vendorchunkjs-5alj)
-- [🚀 Google Auth Website — A Production-Ready Boilerplate with Google SSO &amp; Email Auth](https://dev.to/nithya_gujiluvaravindran/google-auth-website-a-production-ready-boilerplate-with-google-sso-email-auth-338l)
+- [Introducing InfraForgeLabs — Free · Local · Open · Forever](https://dev.to/infraforgelabs/introducing-infraforgelabs-free-local-open-forever-3inj)
+- [Developers made the SaaS approachable. Now, operators will make AI transformative. Now is the best time for developers to transform their careers into operators](https://dev.to/jaideepparashar/developers-made-the-saas-approachable-now-operators-will-make-ai-transformative-now-is-the-best-3mlm)
+- [From Assistants to Operators: The AI Role No One’s Preparing For](https://dev.to/jaideepparashar/from-assistants-to-operators-the-ai-role-no-ones-preparing-for-ca1)
+- [I’m working on an open-source backend built with Django, ASGI &lpar;WebSockets&rpar;, PostgreSQL, and a small containerized setup.](https://dev.to/georgetoloraia/im-working-on-an-open-source-backend-built-with-django-asgi-websockets-postgresql-and-a-small-23pp)
+- [The Secret Life of Python: The Truth About Nothing](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-truth-about-nothing-4of5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
