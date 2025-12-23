@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How switching to SQS Batch operations improves Performance an Billing](https://dev.to/aws-builders/optimizing-sqs-operations-using-batch-api-14fn)
+- [Activation Functions: How Simple Curves Power Neural Networks](https://dev.to/rijultp/activation-functions-how-simple-curves-power-neural-networks-2b8e)
+- [Introducing the Sunpeak Resource Repository](https://dev.to/abewheeler/introducing-the-sunpeak-resource-repository-1bbg)
 - [Using the Reinforcement Learning GitHub Package](https://dev.to/dipti_m_2e7ba36c478d1a48a/using-the-reinforcement-learning-github-package-4128)
 - [UTCP: um protocolo alternativo ao MCP para chamada de ferramentas](https://dev.to/wandealves/utcp-um-protocolo-alternativo-ao-mcp-para-chamada-de-ferramentas-5dnn)
-- [Why I built a 100% Client-Side Web Toolkit &lpar;and why your privacy matters&rpar;](https://dev.to/quickwebtools/why-i-built-a-100-client-side-web-toolkit-and-why-your-privacy-matters-4b99)
-- [My ChatGPT Year 2025](https://dev.to/minoosh/my-chatgpt-year-2025-5ej9)
-- [Say Hello to uMux: Sync videos from Umbraco to Mux effortlessly](https://dev.to/skttl/say-hello-to-umux-sync-videos-from-umbraco-to-mux-effortlessly-1kng)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
