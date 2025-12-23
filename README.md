@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/esin87/-44kh)
-- [I Built a Privacy-First CSV Explorer That Works Entirely in Your Browser](https://dev.to/dinesh_kumar_ef63ffef1c64/i-built-a-privacy-first-csv-explorer-that-works-entirely-in-your-browser-3lk3)
-- [AWS Control Tower 4.0: A New Look at Landing Zones](https://dev.to/aws-builders/aws-control-tower-40-a-new-look-at-landing-zones-1ap6)
-- [Thwarting Data Breaches: A Cybersecurity Solution Case Study](https://dev.to/hkj13/thwarting-data-breaches-a-cybersecurity-solution-case-study-1j1a)
-- [Caching with Redis: Boosting Application Performance](https://dev.to/techblogs/caching-with-redis-boosting-application-performance-4l54)
+- [Resolving Google Chat User IDs to Emails: The Least Privilege Way](https://dev.to/googleworkspace/resolving-google-chat-user-ids-to-emails-the-least-privilege-way-4lga)
+- [Every aspiring developer founder needs to read this.](https://dev.to/oceeaham/every-aspiring-developer-founder-needs-to-read-this-41b4)
+- [Irish Techie Table Quiz 2025 - Update](https://dev.to/whykay/irish-techie-table-quiz-2025-update-1mh0)
+- [[Boost]](https://dev.to/esin87/-1b7f)
+- [When Team Chat Becomes the Problem, Not the Solution](https://dev.to/mdflaher/when-team-chat-becomes-the-problem-not-the-solution-bcb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
