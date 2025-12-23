@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cómo solucionarlo con Terraform?](https://dev.to/valaug/como-solucionarlo-con-terraform-dcb)
-- [Getting Started with Python &lpar;Part 10&rpar;: Using Functions](https://dev.to/sdkfz181tiger/getting-started-with-python-part-10-using-functions-5091)
-- [How to Change a Column Datatype Without Affecting Existing Users Postgresql](https://dev.to/israelojiefoh/how-to-change-a-column-datatype-without-affecting-existing-users-postgresql-4k15)
-- [Monoliths for Discovery, Microservices for Optimization](https://dev.to/stevenstuartm/monoliths-for-discovery-microservices-for-optimization-5d9k)
-- [🚀 I Built a WhatsApp Web Automation Chrome Extension &lpar;Manifest V3&rpar;](https://dev.to/emmanuel_saleem_46200ad37/i-built-a-whatsapp-web-automation-chrome-extension-manifest-v3-5hl1)
+- [Improving Storage Performance in Enterprise IT Environments](https://dev.to/amelia_hebrew/improving-storage-performance-in-enterprise-it-environments-42b5)
+- [𝗩𝗼𝗶𝗰𝗲 𝗔𝗜: 𝗧𝗧𝗦 - 𝗚𝗶𝘃𝗶𝗻𝗴 𝗬𝗼𝘂𝗿 𝗔𝗜 𝗮 𝗩𝗼𝗶𝗰𝗲](https://dev.to/wanjohichristopher/--5a)
+- [Shallow Copy vs Deep Copy in Python: An Interview-Oriented Explanation](https://dev.to/jackm_345442a09fb53b/shallow-copy-vs-deep-copy-in-python-an-interview-oriented-explanation-1k8g)
+- [A Short Follow-Up: What Actually Breaks First in URL Shorteners at Scale](https://dev.to/marquismark/a-short-follow-up-what-actually-breaks-first-in-url-shorteners-at-scale-2lb2)
+- [The Great AI Convergence: PyTorch vs. TensorFlow in 2026](https://dev.to/tech_croc_f32fbb6ea8ed4/the-great-ai-convergence-pytorch-vs-tensorflow-in-2026-845)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
