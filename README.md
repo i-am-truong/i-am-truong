@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Creative Design Agency Portfolio React, GSAP Animation](https://dev.to/hashirkhan/creative-design-agency-portfolio-react-gsap-animation-17mm)
-- [Medical Service API - v1.0](https://dev.to/alexander-attoh/medical-service-api-v10-44b0)
-- [Flutter Just Changed UI Forever — Most Developers Haven’t Noticed Yet](https://dev.to/kiddo4lyf/flutter-just-changed-ui-forever-most-developers-havent-noticed-yet-1pkd)
-- [Predicting Wine Quality with Data Science: My Vivino Project](https://dev.to/youssef_bellouz_ce1d9c1b4/predicting-wine-quality-with-data-science-my-vivino-project-1m88)
-- [Taming the State Monster: Reactive UI vs. Finite State Machines in Game Dev](https://dev.to/ffteamnames/taming-the-state-monster-reactive-ui-vs-finite-state-machines-in-game-dev-372g)
+- [🚀 Terraform Day 15: Modules — Writing Reusable, Scalable Infrastructure Code](https://dev.to/jeeva_5c84a254e90842940dd/terraform-day-15-modules-writing-reusable-scalable-infrastructure-code-jgc)
+- [Rsbuild in Refly codebase.](https://dev.to/ramunarasinga-11/rsbuild-in-refly-codebase-5bn9)
+- [process-polyfill.ts in Refly codebase.](https://dev.to/ramunarasinga-11/process-polyfillts-in-refly-codebase-2imj)
+- [I Vibe‑Coded a Booking API—Then Made It Production‑Grade &lpar;Part 1&rpar;](https://dev.to/dbzero/i-vibe-coded-a-booking-api-then-made-it-production-grade-part-1-44h5)
+- [I built an open research framework for studying alignment, entropy, and stability in multi‑agent systems](https://dev.to/palman22hue/i-built-an-open-research-framework-for-studying-alignment-entropy-and-stability-in-multi-agent-bbi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
