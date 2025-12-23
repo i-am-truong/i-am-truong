@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How Independent Vendor Shops Operate on the Dark Web](https://dev.to/tor_bbb/how-independent-vendor-shops-operate-on-the-dark-web-12aj)
+- [Deploying Your AI/ML Models: A Practical Guide from Training to Production](https://dev.to/ajor-saha/deploying-your-aiml-models-a-practical-guide-from-training-to-production-2fg3)
 - [✨ Starting 2026 with a builder’s mindset ✨](https://dev.to/lakhera2015/starting-2026-with-a-builders-mindset-1j31)
-- [Azure Static Web Apps: add login_hint with functions](https://dev.to/andrewelans/azure-static-web-apps-add-loginhint-with-functions-37jb)
+- [Azure Static Web Apps: login_hint now works](https://dev.to/andrewelans/azure-static-web-apps-add-loginhint-with-functions-37jb)
 - [Useful Features of MoonBit&#39;s moon CLI - Built-in lint, bench, snapshot, coverage, doc](https://dev.to/mizchi/useful-features-of-moonbits-moon-cli-built-in-lint-bench-snapshot-coverage-doc-5h63)
-- [Designing Composable Tools for Enterprise MCP: From Theory to Practice](https://dev.to/zaynelt/designing-composable-tools-for-enterprise-mcp-from-theory-to-practice-3df)
-- [Backlinks for Developers: Why They Matter &lpar;Even for Minimal Sites Like gengers.de&rpar;](https://dev.to/gengers/backlinks-for-developers-why-they-matter-even-for-minimal-sites-like-gengersde-gf7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
