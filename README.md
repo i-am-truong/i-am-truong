@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Pointers Store Addresses — So Why Do They Have Types?](https://dev.to/amanprasad/pointers-store-addresses-so-why-do-they-have-types-3me1)
-- [Language Agent Tree Search Unifies Reasoning, Acting, and Planning in Language Models](https://dev.to/tutti/language-agent-tree-search-unifies-reasoning-acting-and-planning-in-language-models-3b97)
-- [Understanding Git in Simple way - Part 2](https://dev.to/ganesh-kumar/understanding-git-in-simple-way-part-2-25k6)
-- [Avoiding Hallucinations When Building Angular Apps with Gemini CLI](https://dev.to/marianocodes/reduce-hallucinations-when-working-on-a-angular-and-gemini-cli-42da)
-- [CSS Combinators: How to Write Half the CSS With Twice the Clarity](https://dev.to/web_dev-usman/css-combinators-how-to-write-half-the-css-with-twice-the-clarity-4oge)
+- [Building the Future: A Native GUI SDK Prototype](https://dev.to/hejhdiss/building-the-future-a-native-gui-sdk-prototype-2b0i)
+- [The Definitive Guide to Building a Cross-Browser Testing Matrix for 2026](https://dev.to/matt_calder_e620d84cf0c14/the-definitive-guide-to-building-a-cross-browser-testing-matrix-for-2026-246i)
+- [Shadow Signals: How Counterfactual Learning Recovers Missed Alpha](https://dev.to/ronny_nyabuto_bba33987098/shadow-signals-how-counterfactual-learning-recovers-missed-alpha-14gb)
+- [Ringer Movies: ‘F1’ With Bill Simmons, Chris Ryan, and Van Lathan | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-f1-with-bill-simmons-chris-ryan-and-van-lathan-the-rewatchables-52o0)
+- [AI Category Recommendation System for Drupal 11 Using PHP and OpenAI](https://dev.to/albert_andrew_24878d43267/ai-category-recommendation-system-for-drupal-11-using-php-and-openai-57fm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
