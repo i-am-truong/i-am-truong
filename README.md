@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Junior vs. Lead: The 8 High-Stakes Mistakes I’m Leaving in 2025](https://dev.to/franciscolunadev82/junior-vs-lead-the-8-high-stakes-mistakes-im-leaving-in-2025-2klf)
-- [Build a Voice-Controlled GitHub Agent in Python &lpar;MCP + Vision Agents&rpar;](https://dev.to/getstreamhq/build-a-voice-controlled-github-agent-in-python-mcp-vision-agents-l5p)
-- [Vibe Coding Explained: How AI Is Changing the Way We Build Software](https://dev.to/jessica_patel_472897dd43c/vibe-coding-explained-how-ai-is-changing-the-way-we-build-software-563g)
-- [ChatGPT Search vs Traditional SEO: The Reality Check Nobody&#39;s Talking About](https://dev.to/synergistdigitalmedia/chatgpt-search-vs-traditional-seo-the-reality-check-nobodys-talking-about-k60)
-- [Stop Writing API Docs Manually: Automate OpenAPI in Next.js 🚀](https://dev.to/mariusz_w_81d65d9ea209825/stop-writing-api-docs-manually-automate-openapi-in-nextjs-1bl9)
+- [Build something vs. add new features and maintaining it](https://dev.to/tomokat/build-something-vs-add-new-features-and-maintaining-it-1app)
+- [C# Architecture Mastery — Refactoring Legacy ASP.NET Core Apps Toward Clean Architecture &lpar;Part 10&rpar;](https://dev.to/cristiansifuentes/c-architecture-mastery-refactoring-legacy-aspnet-core-apps-toward-clean-architecture-part-10-570g)
+- [C# Architecture Mastery — CQRS in ASP.NET Core &lpar;When It Helps, When It Hurts&rpar; &lpar;Part 9&rpar;](https://dev.to/cristiansifuentes/c-architecture-mastery-cqrs-in-aspnet-core-when-it-helps-when-it-hurts-part-9-2inj)
+- [C# Architecture Mastery — EF Core in Clean Architecture &lpar;Part 8&rpar;](https://dev.to/cristiansifuentes/c-architecture-mastery-ef-core-in-clean-architecture-part-8-4pkh)
+- [C# Architecture Mastery — Testing Strategies in Clean Architecture &lpar;.NET&rpar; &lpar;Part 7&rpar;](https://dev.to/cristiansifuentes/c-architecture-mastery-testing-strategies-in-clean-architecture-net-part-7-46oi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
