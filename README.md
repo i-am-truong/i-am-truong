@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Intentando implementar guardrails en mi red neuronal: enseñando a Prize a no dar consejos médicos](https://dev.to/galp76/intentando-implementar-guardrails-en-mi-red-neuronal-ensenando-a-prize-a-no-dar-consejos-medicos-4lj2)
-- [Why WordPress Websites Feel Slow in India &lpar;And the Fix Most Devs Ignore&rpar;](https://dev.to/krishna_singh_16a22fbb50e/why-wordpress-websites-feel-slow-in-india-and-the-fix-most-devs-ignore-3flc)
-- [How I Learned to Customize My Resume for Every Job &lpar;and Built an AI Tool to Do It&rpar;](https://dev.to/artur_loss/how-i-learned-to-customize-my-resume-for-every-job-and-built-an-ai-tool-to-do-it-51k4)
-- [Java Core Mastery Part 1: From Zero to FAANG Ready 🚀](https://dev.to/rajat128/java-core-mastery-part-1-from-zero-to-faang-ready-3imi)
-- [🚢 Docker, Explained from docker run to Docker Compose &lpar;With Real Examples&rpar;](https://dev.to/anusha_kuppili/docker-explained-from-docker-run-to-docker-compose-with-real-examples-1aln)
+- [✨ Starting 2026 with a builder’s mindset ✨](https://dev.to/lakhera2015/starting-2026-with-a-builders-mindset-1j31)
+- [Azure Static Web Apps: add login_hint with functions](https://dev.to/andrewelans/azure-static-web-apps-add-loginhint-with-functions-37jb)
+- [Useful Features of MoonBit&#39;s moon CLI - Built-in lint, bench, snapshot, coverage, doc](https://dev.to/mizchi/useful-features-of-moonbits-moon-cli-built-in-lint-bench-snapshot-coverage-doc-5h63)
+- [Designing Composable Tools for Enterprise MCP: From Theory to Practice](https://dev.to/zaynelt/designing-composable-tools-for-enterprise-mcp-from-theory-to-practice-3df)
+- [Backlinks for Developers: Why They Matter &lpar;Even for Minimal Sites Like gengers.de&rpar;](https://dev.to/gengers/backlinks-for-developers-why-they-matter-even-for-minimal-sites-like-gengersde-gf7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
