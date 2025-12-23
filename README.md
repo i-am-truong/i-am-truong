@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Context Mesh Lite: Hybrid Vector Search + SQL Search + Graph Search Fused &lpar;for Super Accurate RAG&rpar;](https://dev.to/anthony_lee_63e96408d7573/context-mesh-lite-hybrid-vector-search-sql-search-graph-search-fused-for-super-accurate-rag-25kn)
 - [From Genin to Kage - Understanding the Test Pyramid with Naruto](https://dev.to/m4rri4nne/from-genin-to-kage-understanding-the-test-pyramid-with-naruto-jbk)
 - [🚀 Saving a $1M Integration: Why We Pivoted to AWS Transit Gateway](https://dev.to/linktechlabs/saving-a-1m-integration-why-we-pivoted-to-aws-transit-gateway-34ob)
 - [How to Automate 2FA and Account Creation for AI Agents](https://dev.to/nottelabs/how-to-automate-2fa-and-account-creation-for-ai-agents-5c6p)
 - [Muslim Prayer Reminder for Slack](https://dev.to/ikhaledabdelfattah/muslim-prayer-reminder-for-slack-5573)
-- [Out-of-Office BUG](https://dev.to/sonandrew/out-of-office-bug-en0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
