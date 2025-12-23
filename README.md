@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI in Web Development: Real Changes, Use Cases, and Limits](https://dev.to/rukmini_santoshi_eaaa4274/ai-in-web-development-real-changes-use-cases-and-limits-1he6)
-- [Solving React Form Performance: Why Your Forms Are Slow and How to Fix Them](https://dev.to/opensite/solving-react-form-performance-why-your-forms-are-slow-and-how-to-fix-them-1g9i)
-- [🔐 Mastering LDAP Integration in Uniface 10.4: The Native Way](https://dev.to/f345345dfg/mastering-ldap-integration-in-uniface-104-the-native-way-1ala)
-- [Grounded AI Systems: Building Trustworthy Intelligence for Modern Enterprises](https://dev.to/jack_danial_4604eaf24946a/grounded-ai-systems-building-trustworthy-intelligence-for-modern-enterprises-3cdc)
-- [The Engineering guide to Context window efficiency](https://dev.to/siddhantkcode/the-engineering-guide-to-context-window-efficiency-202b)
+- [When Tokyo Moves Bitcoin: Building Your Macro Volatility Early-Warning System with Open-Source AI](https://dev.to/apnews/when-tokyo-moves-bitcoin-building-your-macro-volatility-early-warning-system-with-open-source-ai-2ib1)
+- [Docker Volumes and Data Persistence: Managing State in Containers 💾](https://dev.to/techwithhari/docker-volumes-and-data-persistence-managing-state-in-containers-21ge)
+- [AWS ML / GenAI Trifecta: Part 1 – AWS Certified AI Practitioner &lpar;AIF-C01&rpar;](https://dev.to/mgonzalezo/aws-ml-genai-trifecta-part-1-aws-certified-ai-practitioner-aif-c01-463n)
+- [Building the Control Plane for Cognition: Scaling Google’s MCP Support with a Universal Registry](https://dev.to/mcpmessenger/building-the-control-plane-for-cognition-scaling-googles-mcp-support-with-a-universal-registry-17lb)
+- [Quelle est la taille idéale d&#39;une classe ?](https://dev.to/onepoint/quelle-est-la-taille-ideale-dune-classe--2jhg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
