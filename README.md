@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Security isn’t just about code](https://dev.to/vardan_matevosian_tech/security-isnt-just-about-code-30ae)
-- [How to Apply Expiration Date for eSignature Requests Through API](https://dev.to/boldsign/how-to-apply-expiration-date-for-esignature-requests-through-api-h5c)
-- [How Intelligent Planning Transforms ERP Systems With OptaPlanner](https://dev.to/richa_singh_11bd098df12c8/how-intelligent-planning-transforms-erp-systems-with-optaplanner-5dnm)
-- [Cloud Security with AWS and Azure – Cybersecurity Course in Telugu](https://dev.to/sireesha_ramisetti_58f898/cloud-security-with-aws-and-azure-cybersecurity-course-in-telugu-3jmh)
-- [AI and Foundational Learning: Why the Future of Education Is Human-Led and Intelligence-Supported](https://dev.to/llf_2025/ai-and-foundational-learning-why-the-future-of-education-is-human-led-and-intelligence-supported-3dm5)
+- [Add Address Autocomplete to a MapLibre GL Map &lpar;with Click-to-Address Reverse Geocoding&rpar;](https://dev.to/geoapify-maps-api/add-address-autocomplete-to-a-maplibre-gl-map-with-click-to-address-reverse-geocoding-3c14)
+- [The 12 Days of Christmas - Programmed vs. Compressed](https://dev.to/jberesford94/the-12-days-of-christmas-programmed-vs-compressed-cfd)
+- [Code Smell 317 - Email Handling Vulnerabilities](https://dev.to/mcsee/code-smell-317-email-handling-vulnerabilities-241f)
+- [Create your own VPC, subnet and Internet Gateway](https://dev.to/jeyy/create-your-own-vpc-subnet-and-internet-gateway-2lbm)
+- [I stopped using Excel: How I built an Enterprise-Grade Job Tracker with Spring Boot 3 &amp; Angular 17](https://dev.to/thughari/i-stopped-using-excel-how-i-built-an-enterprise-grade-job-tracker-with-spring-boot-3-angular-17-2085)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
