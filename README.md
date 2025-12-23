@@ -120,13 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [2025-12-23 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-23-daily-ai-news-3k97)
-- [Building a Production WebGPU Engine... for a psychotherapy practice?](https://dev.to/x0101010011/building-a-production-webgpu-engine-for-a-psychotherapy-practice-43i9)
-- [Some of tech’s biggest moments happen during the holidays, when everything is supposed to be quiet.
-
-This was a great reminder that Q4 is often where history &lpar;or chaos&rpar; gets written. 🎄💻](https://dev.to/ekdoestech/some-of-techs-biggest-moments-happen-during-the-holidays-when-everything-is-supposed-to-be-2e74)
-- [C# Architecture Mastery — Event-Driven Architecture in .NET &lpar;Clean Boundaries with Messaging&rpar; &lpar;Part 12&rpar;](https://dev.to/cristiansifuentes/c-architecture-mastery-event-driven-architecture-in-net-clean-boundaries-with-messaging-part-12dl)
-- [C# Architecture Mastery — Scaling Teams with Architecture &lpar;Conway’s Law &amp; .NET&rpar; &lpar;Part 11&rpar;](https://dev.to/cristiansifuentes/c-architecture-mastery-scaling-teams-with-architecture-conways-law-net-part-11-24el)
+- [Adding RISC-V Support to Armbian Imager: A Tale of QEMU, Tauri, and Deja Vu](https://dev.to/gounthar/adding-risc-v-support-to-armbian-imager-a-tale-of-qemu-tauri-and-deja-vu-18nl)
+- [Ethereum-Solidity Quiz Q2: What is a proxy in Solidity?](https://dev.to/mihaihng/ethereum-solidity-quiz-q2-what-is-a-proxy-in-solidity-4cg6)
+- [Testing shadcn/ui components with TWD](https://dev.to/kevinccbsg/testing-shadcnui-components-with-twd-259a)
+- [Day 24.Setting Up an Application Load Balancer for an EC2 Instance](https://dev.to/thukhakyawe_cloud/day-24setting-up-an-application-load-balancer-for-an-ec2-instance-1n2f)
+- [Building Synapse: A Full-Featured Social Media App with React Native &amp; Supabase &lpar;Launching Soon!&rpar;](https://dev.to/alexrosrgz/building-synapse-a-full-featured-social-media-app-with-react-native-supabase-launching-soon-1f4f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
