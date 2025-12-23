@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI in Web Development: Real Changes, Use Cases, and Limits](https://dev.to/rukmini_santoshi_eaaa4274/ai-in-web-development-real-changes-use-cases-and-limits-1he6)
+- [Solving React Form Performance: Why Your Forms Are Slow and How to Fix Them](https://dev.to/opensite/solving-react-form-performance-why-your-forms-are-slow-and-how-to-fix-them-1g9i)
 - [🔐 Mastering LDAP Integration in Uniface 10.4: The Native Way](https://dev.to/f345345dfg/mastering-ldap-integration-in-uniface-104-the-native-way-1ala)
 - [Grounded AI Systems: Building Trustworthy Intelligence for Modern Enterprises](https://dev.to/jack_danial_4604eaf24946a/grounded-ai-systems-building-trustworthy-intelligence-for-modern-enterprises-3cdc)
 - [The Engineering guide to Context window efficiency](https://dev.to/siddhantkcode/the-engineering-guide-to-context-window-efficiency-202b)
-- [Ship Secure Code Faster: How Context-Driven Development and AI Agents Supercharge Your CI/CD Pipeline](https://dev.to/barecheck/ship-secure-code-faster-how-context-driven-development-and-ai-agents-supercharge-your-cicd-2cef)
-- [Connecting Uniface 10.4 to LDAP Servers: A Complete Guide 🔐](https://dev.to/f345345dfg/connecting-uniface-104-to-ldap-servers-a-complete-guide-2f3f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
