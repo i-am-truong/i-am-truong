@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Context Mesh Lite: Hybrid Vector Search + SQL Search + Graph Search Fused &lpar;for Super Accurate RAG&rpar;](https://dev.to/anthony_lee_63e96408d7573/context-mesh-lite-hybrid-vector-search-sql-search-graph-search-fused-for-super-accurate-rag-25kn)
-- [From Genin to Kage - Understanding the Test Pyramid with Naruto](https://dev.to/m4rri4nne/from-genin-to-kage-understanding-the-test-pyramid-with-naruto-jbk)
-- [🚀 Saving a $1M Integration: Why We Pivoted to AWS Transit Gateway](https://dev.to/linktechlabs/saving-a-1m-integration-why-we-pivoted-to-aws-transit-gateway-34ob)
-- [How to Automate 2FA and Account Creation for AI Agents](https://dev.to/nottelabs/how-to-automate-2fa-and-account-creation-for-ai-agents-5c6p)
-- [Muslim Prayer Reminder for Slack](https://dev.to/ikhaledabdelfattah/muslim-prayer-reminder-for-slack-5573)
+- [Mastering interrupt handling in your kernel](https://dev.to/vhajsman/mastering-interrupt-handling-in-your-kernel-b5)
+- [Why do Article 120 defendants feel disadvantaged by unequal resources?](https://dev.to/ali_hamza_79a3d9fdbe20917/why-do-article-120-defendants-feel-disadvantaged-by-unequal-resources-dj4)
+- [What 4 Years on the Fast Track Taught Me About My Career: From Dropping Out to Leading a Production Application](https://dev.to/kgthedev/what-4-years-on-the-fast-track-taught-me-about-my-career-from-dropping-out-to-leading-a-production-58fi)
+- [Hello World; You Don’t Qualify for the AWS Community Builders Program](https://dev.to/aws-builders/hello-world-you-dont-qualify-for-the-aws-community-builders-program-2i3m)
+- [Ugly Sweater CSS: Jawa&#39;s Back the Return of the Droids.](https://dev.to/jarvisscript/ugly-sweater-css-jawas-back-the-return-of-the-droids-42cg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
