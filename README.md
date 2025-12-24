@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [VOPR: The Multiverse Machine That Kills Production Bugs](https://dev.to/copyleftdev/vopr-the-multiverse-machine-that-kills-production-bugs-3nie)
+- [Building Stronger Manufacturing Systems Through Strategic Leadership by Kenneth Kremsky](https://dev.to/kenneth_kremsky_78c5b7cb9/building-stronger-manufacturing-systems-through-strategic-leadership-by-kenneth-kremsky-1145)
+- [Best AlgoExpert Alternatives in 2025: Free &amp; Paid Options Compared](https://dev.to/alex_hunter_44f4c9ed6671e/best-algoexpert-alternatives-in-2025-free-paid-options-compared-ben)
 - [How to Prioritize Naturalness in Voice Cloning for Brand-Aligned Tones](https://dev.to/callstacktech/how-to-prioritize-naturalness-in-voice-cloning-for-brand-aligned-tones-2858)
 - [How to prepare for a Coding/Technical Interview](https://dev.to/swarnaliroy94/how-to-prepare-for-a-codingtechnical-interview-2ihk)
-- [Optimize Your Prompts by Using Shorter Synonyms With Google AI Studio](https://dev.to/fedtti/optimize-your-prompts-by-using-shorter-synonyms-with-google-ai-studio-30lk)
-- [Beyond Simple RAG: Building an Agentic Workflow with Next.js, Python, and Supabase](https://dev.to/abhinav_sriharsha_73dbc55/beyond-simple-rag-building-an-agentic-workflow-with-nextjs-python-and-supabase-1dm6)
-- [Why We Built FlowSynx — The Story Behind the FlowSynx](https://dev.to/flowsynx/why-we-built-flowsynx-the-story-behind-the-flowsynx-5769)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
