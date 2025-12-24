@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CSS Gradient Generator](https://dev.to/arsalanmeee/css-gradient-generator-n7p)
-- [Why you should always check licenses in your PHP project](https://dev.to/robertobutti/why-you-should-always-check-licenses-in-your-php-project-3kon)
-- [Contextual Code Review](https://dev.to/synthaicode_commander/contextual-code-review-2k8b)
-- [Why AI Governance Must Live in IT, Not Just Legal](https://dev.to/rushikesh_langale_42ac365/why-ai-governance-must-live-in-it-not-just-legal-1cjk)
-- [How to Integrate Zomato MCP in a Next.js Application](https://dev.to/sunny7899/how-to-integrate-zomato-mcp-in-a-nextjs-application-4chc)
+- [Why I Changed My Mind About Exceptions](https://dev.to/stevenstuartm/why-i-changed-my-mind-about-exceptions-1gi0)
+- [Automate Your CI/CD with Frodo CLI for GitHub Actions](https://dev.to/iamdevbox/automate-your-cicd-with-frodo-cli-for-github-actions-3d4k)
+- [Why Data Annotation Platforms Are the Unsung Heroes of AI Success](https://dev.to/rushikesh_langale_42ac365/why-data-annotation-platforms-are-the-unsung-heroes-of-ai-success-11pl)
+- [Next.js Caching Evolution: From v14 to v15 and the Cache Components Era](https://dev.to/ahr_dev/nextjs-caching-evolution-from-v14-to-v15-and-the-cache-components-era-5goo)
+- [JSON has no comments. IO does—because humans read APIs too](https://dev.to/internetobject/json-has-no-comments-io-does-because-humans-read-apis-too-49b2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
