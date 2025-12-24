@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Use Bootstrap in a React Project &lpar;Beginner Guide&rpar;](https://dev.to/ahmad_mahboob/how-to-use-bootstrap-in-a-react-project-beginner-guide-15hi)
+- [Does ChatGPT now allow](https://dev.to/anna001/does-chatgpt-now-allow-5fd5)
+- [Running Regression Analysis with KDiff &lpar;Step-by-Step Demo&rpar;](https://dev.to/kavita_kavia/running-regression-analysis-with-kdiff-step-by-step-demo-2nkp)
+- [Tried my first article with for the current situation I faced 😊](https://dev.to/reubenwedson/tried-my-first-article-with-for-the-current-situation-i-faced-26k2)
 - [Announcing AgentHelm v0.3.0: Production-Ready AI Agent Orchestration](https://dev.to/hadywalied/announcing-agenthelm-v030-production-ready-ai-agent-orchestration-5alg)
-- [C# OOP Mastery — From Quiz Answers to Production‑Grade Mental Models](https://dev.to/cristiansifuentes/c-oop-mastery-from-quiz-answers-to-production-grade-mental-models-105o)
-- [My Journey with Amazon EKS: Simplifying Kubernetes on AWS](https://dev.to/shawmeer22/my-journey-with-amazon-eks-simplifying-kubernetes-on-aws-4g0b)
-- [How to Convert JSON to YAML &lpar;and Why You Should&rpar;](https://dev.to/hamdisaidanix/how-to-convert-json-to-yaml-and-why-you-should-3l67)
-- [Build &quot;Sign in with Your App&quot; using Supabase Auth](https://dev.to/supabase/build-sign-in-with-your-app-using-supabase-auth-cc6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
