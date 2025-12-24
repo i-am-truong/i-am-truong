@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Supply Chain Security in PHP Projects](https://dev.to/dobrenteiistvan/supply-chain-security-in-php-projects-10p4)
+- [The Evolving Role of Data Scientists: Insights From the Work of Nathan Haslick](https://dev.to/nathanhaslick/the-evolving-role-of-data-scientists-insights-from-the-work-of-nathan-haslick-3mlp)
+- [Optimizing Costs for Container Workloads on AWS EKS and ECS](https://dev.to/shawmeer22/optimizing-costs-for-container-workloads-on-aws-eks-and-ecs-37dd)
 - [SSL/TLS Explained: From the Handshake to the Cloud ☁️](https://dev.to/rohanan07/ssltls-explained-from-the-handshake-to-the-cloud-2e5g)
-- [Monorepo vs. multiple repositories: what’s the best strategy for a growing codebase?](https://dev.to/kodus/monorepo-vs-multiple-repositories-whats-the-best-strategy-for-a-growing-codebase-ini)
-- [O&amp;M Manual Best Practices for Engineers and Facility Managers](https://dev.to/writegenic/om-manual-best-practices-for-engineers-and-facility-managers-31ni)
-- [How to Use Character.AI: A Step-by-Step Guide for Beginners](https://dev.to/seo_seo26master_29e8b33e6/how-to-use-characterai-a-step-by-step-guide-for-beginners-54o7)
-- [Brow‌ser Fingerpr‌int: An Exam‌inati‌on of Onli‌ne User Identif‌icati‌on Technol‌ogy](https://dev.to/vietnam/browser-fingerprint-an-examination-of-online-user-identification-technology-5hdk)
+- [Ai](https://dev.to/marrmorgan/ai-keg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
