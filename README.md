@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Supply Chain Security in PHP Projects](https://dev.to/dobrenteiistvan/supply-chain-security-in-php-projects-10p4)
-- [The Evolving Role of Data Scientists: Insights From the Work of Nathan Haslick](https://dev.to/nathanhaslick/the-evolving-role-of-data-scientists-insights-from-the-work-of-nathan-haslick-3mlp)
-- [Optimizing Costs for Container Workloads on AWS EKS and ECS](https://dev.to/shawmeer22/optimizing-costs-for-container-workloads-on-aws-eks-and-ecs-37dd)
-- [SSL/TLS Explained: From the Handshake to the Cloud ☁️](https://dev.to/rohanan07/ssltls-explained-from-the-handshake-to-the-cloud-2e5g)
-- [Ai](https://dev.to/marrmorgan/ai-keg)
+- [Manage Message Queues Using Amazon SQS](https://dev.to/aws-builders/manage-message-queues-using-amazon-sqs-1dcd)
+- [Vibe Coding vs. Engenharia Assistida por IA: Onde você está no espectro?](https://dev.to/edu_betim/vibe-coding-vs-engenharia-assistida-por-ia-onde-voce-esta-no-espectro-476f)
+- [Mastering Pandas: From Handling NaN and Duplicates to Advanced Sales Data Grouping](https://dev.to/labex/mastering-pandas-from-handling-nan-and-duplicates-to-advanced-sales-data-grouping-4pni)
+- [Why Software Engineers Are Wasting 40% of Their Dev Time on SEO &lpar;And How Mangools Fixes This&rpar;](https://dev.to/alan_luu/why-software-engineers-are-wasting-40-of-their-dev-time-on-seo-and-how-mangools-fixes-this-3a3i)
+- [Day-15 From &quot;It Works on My Machine&quot; to Automation: Learning Jenkins and Docker](https://dev.to/jayanth_dasari_7/day-15-from-it-works-on-my-machine-to-automation-learning-jenkins-and-docker-1kij)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
