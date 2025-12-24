@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀Los 7 Métodos para proteger tus APIs que debes conocer](https://dev.to/julio_santacruz/los-7-metodos-para-proteger-tus-apis-que-debes-conocer-ljm)
+- [Blade Components vs Laravel Partials: When to Use Which in Modern Laravel Apps](https://dev.to/prateekshaweb/blade-components-vs-laravel-partials-when-to-use-which-in-modern-laravel-apps-4b90)
+- [Building AI Video Generation Pipelines with AWS Lambda Durable Functions](https://dev.to/aws-builders/building-ai-video-generation-pipelines-with-aws-lambda-durable-functions-4kp0)
 - [AWS Elastic Beanstalk: A Beginner&#39;s Guide To Effortless Scaling](https://dev.to/akintoye_gbenga/aws-elastic-beanstalk-a-beginners-guide-to-effortless-scaling-18en)
-- [AI Isn’t Failing at Thinking. It’s Failing at Remembering.](https://dev.to/doozieakshay/ai-isnt-failing-at-thinking-its-failing-at-remembering-2pmo)
-- [How I Autoban Hackers Who Touch My Secret URLs](https://dev.to/aws-builders/how-i-autoban-hackers-who-touch-my-secret-urls-4pgc)
-- [Best Practices for Using Bug Tracking Tools Effectively](https://dev.to/carl_max007/best-practices-for-using-bug-tracking-tools-effectively-431)
-- [What AWS Certifications Don’t Teach You — Lessons from Real Cloud Projects](https://dev.to/imash24/what-aws-certifications-dont-teach-you-lessons-from-real-cloud-projects-2pl4)
+- [programming coding beginners onlinelearning webdev](https://dev.to/krishna_basnet_65fc483f68/programmingcodingbeginnersonlinelearningwebdev-1do0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
