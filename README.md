@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [QuickCart A Next.js, Prisma, and Better Auth platform for side-hustlers selling on WhatsApp.](https://dev.to/saidmounaim/quickcart-a-nextjs-prisma-and-better-auth-platform-for-side-hustlers-selling-on-whatsapp-3l4l)
-- [Why We Left Vercel and Switched to Self-Hosting](https://dev.to/kvetoslavnovak/why-we-left-vercel-and-switched-to-self-hosting-1k65)
-- [Ditch the Skip Button: The Browser Extension That Perfects Your Binge-Watching Flow](https://dev.to/githubopensource/ditch-the-skip-button-the-browser-extension-that-perfects-your-binge-watching-flow-1n6a)
-- [What Developers Should Know About AI Overview APIs](https://dev.to/kervi_11_/what-developers-should-know-about-ai-overview-apis-1a93)
-- [Why Data Annotation Is the Unsung Hero of AI Success](https://dev.to/karan_joshi_9b6a0db3baa0c/why-data-annotation-is-the-unsung-hero-of-ai-success-3m51)
+- [🧠 Lazy Loading: Fixing Performance or Hiding It?](https://dev.to/s_shabeh/lazy-loading-fixing-performance-or-hiding-it-3716)
+- [Securing Serverless APIs with Amazon Cognito and API Gateway JWT Authorizers](https://dev.to/geovane_oliveira/securing-serverless-apis-with-amazon-cognito-and-api-gateway-jwt-authorizers-5819)
+- [The Evolution of On/Off-Ramp Infrastructure in 2025: What’s New for Crypto Traders?](https://dev.to/tanelith/the-evolution-of-onoff-ramp-infrastructure-in-2025-whats-new-for-crypto-traders-3kbe)
+- [Camera Design Engineering Basics for Modern Products](https://dev.to/siliconsignals_ind/camera-design-engineering-basics-for-modern-products-nb8)
+- [7 Rust Idioms for Clean, High-Performance Code](https://dev.to/james_miller_8dc58a89cb9e/7-rust-idioms-for-clean-high-performance-code-4a3o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
