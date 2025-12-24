@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Day I Realized My Brain Was Tired, Not My Body](https://dev.to/jamesmiller25/the-day-i-realized-my-brain-was-tired-not-my-body-36ko)
-- [Understanding AGI vs ANI: A Beginner’s Guide to Artificial Intelligence](https://dev.to/codeneuron/understanding-agi-vs-ani-a-beginners-guide-to-artificial-intelligence-2624)
-- [The Future of Angular Reactive Forms](https://dev.to/devang18/the-future-of-angular-reactive-forms-4cl7)
-- [A coding challenge a week - can you complete all 52?](https://dev.to/program52/a-challenge-a-week-can-you-complete-all-52-cdo)
-- [🚀 Terraform Day 16: Bulk IAM User Management Using Terraform &lpar;CSV AWS&rpar;](https://dev.to/jeeva_5c84a254e90842940dd/terraform-day-16-bulk-iam-user-management-using-terraform-csv-aws-4b92)
+- [Louisiana Startup App Costs in 2026](https://dev.to/del_rosario/louisiana-startup-app-costs-in-2026-5all)
+- [Louisiana Startup App Costs in 2026: What Founders Actually Pay](https://dev.to/devin-rosario/louisiana-startup-app-costs-in-2026-what-founders-actually-pay-29l8)
+- [Blockchain Oracles: How Smart Contracts See the Real World &lpar;Featuring Chainlink&rpar;](https://dev.to/ribhavmodi/blockchain-oracles-how-smart-contracts-see-the-real-world-featuring-chainlink-293j)
+- [What Is Embedded Analytics? Benefits, Examples, and Uses](https://dev.to/boldbi/what-is-embedded-analytics-benefits-examples-and-uses-5gka)
+- [SendNow is a document-sharing and tracking platform built as a powerful alternative to DocSend.](https://dev.to/mohamed_siraj_3ef98d28390/sendnow-is-a-document-sharing-and-tracking-platform-built-as-a-powerful-alternative-to-docsend-4c0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
