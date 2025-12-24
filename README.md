@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From Zero to Deployed: Your Personal Heroku Alternative &lpar;Without the Bill&rpar;](https://dev.to/leoisadev/from-zero-to-deployed-your-personal-heroku-alternative-without-the-bill-10f4)
+- [tinypdf - A tiny PDF library in Dart &lpar;&lt;600 LOC, zero deps, real PDFs!&rpar;](https://dev.to/rizmyabdulla/tinypdf-a-tiny-pdf-library-in-dart-600-loc-zero-deps-real-pdfs-1do9)
+- [Building a Production-Grade Serverless API on AWS](https://dev.to/nick_gojaman_aab54d514a33/building-a-production-grade-serverless-api-on-aws-foa)
 - [Advent of Code: ?sexob evom ot woH](https://dev.to/rkeeves/advent-of-code-sexob-evom-ot-woh-4336)
-- [WhatsApp: The Future of Customer Communication &lpar;A Developer&#39;s Perspective&rpar;](https://dev.to/lasisi_ibrahimpelumi_dc0/whatsapp-the-future-of-customer-communication-a-developers-perspective-184a)
-- [Healthcare Data Breaches Are America&#39;s Unaddressed National Security Crisis](https://dev.to/zeroblind25/healthcare-data-breaches-are-americas-unaddressed-national-security-crisis-1mk0)
-- [Designing STC Mining with NFTs: Inside BUBUVERSE’s STC Staking Labubu](https://dev.to/bubuverse/designing-stc-mining-with-nfts-inside-bubuverses-stc-staking-labubu-fin)
-- [Building AI Products, Automation Bots, and Scalable SaaS — Why We Started xZade Group](https://dev.to/xzade/building-ai-products-automation-bots-and-scalable-saas-why-we-started-xzade-group-k5o)
+- [Day 32 of improving my Data Science skills](https://dev.to/sp_the_data_specialist/day-32-of-improving-my-data-science-skills-4b16)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
