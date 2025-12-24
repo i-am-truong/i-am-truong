@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [FinOps 101: What It Is and Why Cloud Teams Can’t Ignore It](https://dev.to/rushikesh_langale_42ac365/finops-101-what-it-is-and-why-cloud-teams-cant-ignore-it-1h3g)
-- [[Boost]](https://dev.to/muhamadsyafii/-1124)
-- [MLOps Use Cases: 12 Practical Examples Teams Run in Production](https://dev.to/apprecode/mlops-use-cases-12-practical-examples-teams-run-in-production-556d)
-- [How JP Vasta Helps Small Business Owners Overcome Marketing Overwhelm with AI](https://dev.to/jp_vasta_9f7f7da0ddb3c8e5/how-jp-vasta-helps-small-business-owners-overcome-marketing-overwhelm-with-ai-5159)
-- [Building an Intelligent Document Processing Pipeline with AWS: A Journey from Idea to Production](https://dev.to/aws-builders/building-an-intelligent-document-processing-pipeline-with-aws-a-journey-from-idea-to-production-c6n)
+- [AWS App Runner vs ECS Express Mode: Git, ECR, Scaling, and Security Explained](https://dev.to/aws-builders/aws-app-runner-vs-ecs-express-mode-git-ecr-scaling-and-security-explained-5673)
+- [How to Test Healthcare APIs End-to-End Without Manual Test Scripts](https://dev.to/engroso/how-to-test-healthcare-apis-end-to-end-without-manual-test-scripts-5bp)
+- [Revolutionizing Language Learning for Kids: The Dex Camera](https://dev.to/ayodele_jolayemi_a4bcec81/revolutionizing-language-learning-for-kids-the-dex-camera-4k5k)
+- [Day 74: Python Validate IPv4 Address – String Parsing Mastery for Perfect IP Check &lpar;No Libraries Needed&rpar;](https://dev.to/shahrouzlogs/day-74-python-validate-ipv4-address-string-parsing-mastery-for-perfect-ip-check-no-libraries-4opb)
+- [Choosing the Right C++ Containers for Performance](https://dev.to/vivekbhadra/choosing-the-right-c-containers-for-performance-3a20)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
