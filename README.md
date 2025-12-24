@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Software Programming as a Skill](https://dev.to/qurioskill/software-programming-as-a-skill-4dn2)
+- [Master Rust Parallelism: Write Safe, Fast Concurrent Code with Rayon and Zero Race Conditions](https://dev.to/nithinbharathwaj/master-rust-parallelism-write-safe-fast-concurrent-code-with-rayon-and-zero-race-conditions-4ghi)
+- [When Time Became a Variable — Notes From My Journey With Numba ⚡](https://dev.to/zenoguy/when-time-became-a-variable-notes-from-my-journey-with-numba-57oj)
+- [We Killed the Monster: WebForms Core 2.0 Released and the End of the Front-end Era of Terror](https://dev.to/elanatframework/we-killed-the-monster-webforms-core-20-released-and-the-end-of-the-front-end-era-of-terror-c0)
 - [ReAct vs Tool Calling: Why Your LLM Should Decide — But Never Execute](https://dev.to/parth_sarthisharma_105e7/react-vs-tool-calling-why-your-llm-should-decide-but-never-execute-cp3)
-- [What&#39;s New At Releem - November 2025](https://dev.to/drupaladmin/whats-new-at-releem-november-2025-2lk2)
-- [Master Python System Programming: From Subprocess Commands to Advanced Process Control Techniques](https://dev.to/nithinbharathwaj/master-python-system-programming-from-subprocess-commands-to-advanced-process-control-techniques-31l7)
-- [AI Trading Daily Report: December 24, 2025 | $+133.74](https://dev.to/igorganapolsky/ai-trading-daily-report-december-24-2025-13374-4d64)
-- [The Christmas Clarity Calendar – Finding Focus, Calm, and Momentum Before the New Year](https://dev.to/per-starke-642/the-christmas-clarity-calendar-finding-focus-calm-and-momentum-before-the-new-year-3edm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
