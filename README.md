@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SOLID: Understanding the Principles That Make Code Cleaner and More Maintainable](https://dev.to/jeandevbr/solid-understanding-the-principles-that-make-code-cleaner-and-more-maintainable-481p)
-- [Build a Knowledge-Based Q&amp;A Bot using Bedrock + S3 + DynamoDB/OpenSearch via AWS CDK](https://dev.to/katevu/build-a-knowledge-based-qa-bot-using-bedrock-s3-dynamodbopensearch-via-aws-cdk-2he9)
-- [Beyond the Autocomplete: Mastering Agentic Workflows in 2025](https://dev.to/sameer_saleem/beyond-the-autocomplete-mastering-agentic-workflows-in-2025-3ked)
-- [I launched a Prayer Times web app. What would make you use this daily? 🚀&lpar;Built with React &amp; Tailwind&rpar;](https://dev.to/ibrahimsezer/i-launched-a-prayer-times-web-app-what-would-make-you-use-this-daily-2ojm)
-- [Untitled](https://dev.to/evely_nunes_eddffe4d5d487/untitled-251n)
+- [Integrating Resend with React Email in a Better T Stack Monorepo &lpar;Next JS &amp; Hono backend with Better Auth&rpar;](https://dev.to/reubenwedson/integrating-resend-with-react-email-in-a-better-t-stack-monorepo-next-js-hono-backend-with-3n69)
+- [Getting Started with 2D Games Using Arcade Library &lpar;Part 4&rpar;: Preparing the Player](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-arcade-library-part-4-preparing-the-player-4ja8)
+- [Shopify Conversion Psychology: How to Influence Customers and Increase Revenue](https://dev.to/websitespeedy/shopify-conversion-psychology-how-to-influence-customers-and-increase-revenue-44n7)
+- [Stock API Integration Practice: Python Access to Frankfurt Stock Exchange &lpar;FWB/Xetra&rpar; for Quantitative Analysis](https://dev.to/san_siwu_f08e7c406830469/stock-api-integration-practice-python-access-to-frankfurt-stock-exchange-fwbxetra-for-28hg)
+- [Getting Started with 2D Games Using Arcade Library &lpar;Part 3&rpar;: Displaying a Background](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-arcade-library-part-3-displaying-a-background-1hfp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
