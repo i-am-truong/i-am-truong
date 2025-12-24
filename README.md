@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SaijinOS Part 18 — From Architecture to Stance Why I’m Building Studios Pong](https://dev.to/kato_masato_c5593c81af5c6/saijinos-part-17-from-architecture-to-stance-why-im-building-studios-pong-o2)
-- [2026: Free Resources for Web Development &amp; Hoisting](https://dev.to/vuelancer/2026-free-resources-for-web-development-hoisting-3j2a)
-- [How Do You Read Query Parameters in Spring Boot?](https://dev.to/realnamehidden1_61/how-do-you-read-query-parameters-in-spring-boot-2ck1)
-- [Implementing Database Connection Pooling in PHP for Enterprise Applications](https://dev.to/patoliyainfotech/implementing-database-connection-pooling-in-php-for-enterprise-applications-3bed)
-- [What Is Performance Marketing? Meaning, Benefits &amp; Examples](https://dev.to/innovativeblogtech_f6ec83/what-is-performance-marketing-meaning-benefits-examples-30ma)
+- [QuickCart A Next.js, Prisma, and Better Auth platform for side-hustlers selling on WhatsApp.](https://dev.to/saidmounaim/quickcart-a-nextjs-prisma-and-better-auth-platform-for-side-hustlers-selling-on-whatsapp-3l4l)
+- [Why We Left Vercel and Switched to Self-Hosting](https://dev.to/kvetoslavnovak/why-we-left-vercel-and-switched-to-self-hosting-1k65)
+- [Ditch the Skip Button: The Browser Extension That Perfects Your Binge-Watching Flow](https://dev.to/githubopensource/ditch-the-skip-button-the-browser-extension-that-perfects-your-binge-watching-flow-1n6a)
+- [What Developers Should Know About AI Overview APIs](https://dev.to/kervi_11_/what-developers-should-know-about-ai-overview-apis-1a93)
+- [Why Data Annotation Is the Unsung Hero of AI Success](https://dev.to/karan_joshi_9b6a0db3baa0c/why-data-annotation-is-the-unsung-hero-of-ai-success-3m51)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
