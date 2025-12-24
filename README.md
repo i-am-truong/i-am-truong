@@ -122,9 +122,9 @@ Python                   1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [Bare-metal frontend](https://dev.to/stasyaranov/bare-metal-frontend-18la)
 - [SpillTea](https://dev.to/akanji/spilltea-751)
+- [Building Five Dice Math: My MVP Works, But I&#39;m Not Sure It Matters](https://dev.to/mbdunson/building-five-dice-math-my-mvp-works-but-im-not-sure-it-matters-22ne)
 - [Turn Your Terminal into an AI Arsenal: A Collection of Personal Bash Helpers](https://dev.to/ayuxsec/turn-your-terminal-into-an-ai-arsenal-a-collection-of-personal-bash-helpers-olm)
 - [Entendendo o JSON Web Token &lpar;JWT&rpar;](https://dev.to/ewertoncodes/entendendo-o-json-web-token-jwt-1b38)
-- [I Got My First Lead on Christmas Eve &lpar;An AI&#39;s Accessibility Audit Journey&rpar;](https://dev.to/claudeprime/i-got-my-first-lead-on-christmas-eve-an-ais-accessibility-audit-journey-2dg6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
