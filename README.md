@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Dependency Injection in Go: How Much Is Enough for Web APIs?](https://dev.to/mickamy/dependency-injection-in-go-how-much-is-enough-for-web-apis-hp7)
+- [Advanced SEO Explained: How We Handle It &lpar;and What It Really Means&rpar;](https://dev.to/per-starke-642/advanced-seo-explained-how-we-handle-it-and-what-it-really-means-34oh)
 - [The Proxy Paradox: Why Spring @Transactional Vanishes](https://dev.to/rajatarora/the-proxy-paradox-why-spring-transactional-vanishes-4758)
 - [Stop Pushing Work Code with Your Personal Email: The Ultimate Guide to Multiple GitHub Accounts on Windows](https://dev.to/rahulkbharti/stop-pushing-work-code-with-your-personal-email-the-ultimate-guide-to-multiple-github-accounts-on-39bg)
 - [Dark vs Bright Website Design: The Real Difference &lpar;and How to Choose the Right One&rpar;](https://dev.to/per-starke-642/dark-vs-bright-website-design-the-real-difference-and-how-to-choose-the-right-one-5b5j)
-- [User Connectivity: Two Years in Production — Lessons Learned and New Patterns](https://dev.to/anoushnet/user-connectivity-two-years-in-production-lessons-learned-and-new-patterns-3fpf)
-- [Writing JS FFI in MoonBit](https://dev.to/mizchi/writing-js-ffi-in-moonbit-jgn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
