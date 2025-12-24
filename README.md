@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Processors : babies to beast](https://dev.to/aadityansha06/understanding-processors-babies-to-beast-457j)
 - [🚀Los 7 Métodos para proteger tus APIs que debes conocer](https://dev.to/julio_santacruz/los-7-metodos-para-proteger-tus-apis-que-debes-conocer-ljm)
+- [The Fearless Future](https://dev.to/edmundsparrow/the-fearless-future-ffi)
+- [Revolutionizing Content Creation: The Power of Image to Video AI Software](https://dev.to/eukn_tsms_a19620043febaba/revolutionizing-content-creation-the-power-of-image-to-video-ai-software-73g)
 - [Blade Components vs Laravel Partials: When to Use Which in Modern Laravel Apps](https://dev.to/prateekshaweb/blade-components-vs-laravel-partials-when-to-use-which-in-modern-laravel-apps-4b90)
-- [Building AI Video Generation Pipelines with AWS Lambda Durable Functions](https://dev.to/aws-builders/building-ai-video-generation-pipelines-with-aws-lambda-durable-functions-4kp0)
-- [AWS Elastic Beanstalk: A Beginner&#39;s Guide To Effortless Scaling](https://dev.to/akintoye_gbenga/aws-elastic-beanstalk-a-beginners-guide-to-effortless-scaling-18en)
-- [programming coding beginners onlinelearning webdev](https://dev.to/krishna_basnet_65fc483f68/programmingcodingbeginnersonlinelearningwebdev-1do0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
