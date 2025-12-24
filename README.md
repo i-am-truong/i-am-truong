@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/anthonymax/-3001)
-- [SwiftUI Gesture System Internals](https://dev.to/sebastienlato/swiftui-gesture-system-internals-1j6b)
-- [Day 82 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-82-of-100-days-dsa-coding-challenge-1n0l)
-- [Interfacing an SD Card with Raspberry Pi Pico](https://dev.to/david_thomas/interfacing-an-sd-card-with-raspberry-pi-pico-33kp)
-- [Best React Native App Development Companies for 2026](https://dev.to/sherry_walker_bba406fb339/best-react-native-app-development-companies-for-2026-1gni)
+- [Advent of Code: ?sexob evom ot woH](https://dev.to/rkeeves/advent-of-code-sexob-evom-ot-woh-4336)
+- [WhatsApp: The Future of Customer Communication &lpar;A Developer&#39;s Perspective&rpar;](https://dev.to/lasisi_ibrahimpelumi_dc0/whatsapp-the-future-of-customer-communication-a-developers-perspective-184a)
+- [Healthcare Data Breaches Are America&#39;s Unaddressed National Security Crisis](https://dev.to/zeroblind25/healthcare-data-breaches-are-americas-unaddressed-national-security-crisis-1mk0)
+- [Designing STC Mining with NFTs: Inside BUBUVERSE’s STC Staking Labubu](https://dev.to/bubuverse/designing-stc-mining-with-nfts-inside-bubuverses-stc-staking-labubu-fin)
+- [Building AI Products, Automation Bots, and Scalable SaaS — Why We Started xZade Group](https://dev.to/xzade/building-ai-products-automation-bots-and-scalable-saas-why-we-started-xzade-group-k5o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
