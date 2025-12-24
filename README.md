@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Elm Architecture with React](https://dev.to/atmorojo/the-elm-architecture-with-react-2p1m)
-- [Digital Wellness: Building a Proactive Chatbot for Stress Support](https://dev.to/wellallytech/digital-wellness-building-a-proactive-chatbot-for-stress-support-11pi)
-- [All things Kiro &amp; Road to reinvent Hackathon Experience 2025](https://dev.to/aws-builders/all-things-kiro-road-to-reinvent-hackathon-experience-2025-21da)
-- [IMake: Reinventing Build Systems with Clarity and Efficiency for Native Linux Development](https://dev.to/lengjingzju/imake-reinventing-build-systems-with-clarity-and-efficiency-for-native-linux-development-gm0)
-- [Linux for Cybersecurity: The Commands That Actually Matter &lpar;Reality Check&rpar;](https://dev.to/arashad_dodhiya_0e4bdba5a/linux-for-cybersecurity-the-commands-that-actually-matter-reality-check-3bkc)
+- [Swapping Redux and Jotai Without Touching UI: A Production-Grade Frontend Pattern](https://dev.to/nitinnair89/swapping-redux-and-jotai-without-touching-ui-a-production-grade-frontend-pattern-1o7m)
+- [The future of development belongs to teams that understand this distinction: Code is no longer the product. Behaviour is.](https://dev.to/jaideepparashar/the-future-of-development-belongs-to-teams-that-understand-this-distinction-code-is-no-longer-the-45pg)
+- [7 Best Resources to Learn Angular: My Personal Journey &amp; Picks](https://dev.to/stack_overflowed/7-best-resources-to-learn-angular-my-personal-journey-picks-5g15)
+- [The Quiet Revolution in Developer Workflows: Why Static Code Is Dying](https://dev.to/jaideepparashar/the-quiet-revolution-in-developer-workflows-why-static-code-is-dying-2o1k)
+- [Python-based vs Go-based: What Changes When an LLM Gateway Becomes Infrastructure](https://dev.to/debmckinney/python-based-vs-go-based-what-changes-when-an-llm-gateway-becomes-infrastructure-4bko)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
