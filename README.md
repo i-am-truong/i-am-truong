@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Updated AI Tools List with User Reviews](https://dev.to/_fde76ff2d01974642930b/updated-ai-tools-list-with-user-reviews-1pmi)
-- [Why I Built VonCMS: A WordPrxxx Alternative for the Rest of Us](https://dev.to/vondereich/why-i-built-voncms-a-wordpress-alternative-for-the-rest-of-us-9pp)
-- [The Real Problem with Complex Configuration Isn’t Complexity](https://dev.to/aom-displays/the-real-problem-with-complex-configuration-isnt-complexity-331m)
-- [[Sports Watch] [API 6] Error when installing an app on GT4: The file is too large.](https://dev.to/harmonyos/sports-watch-api-6-error-when-installing-an-app-on-gt4-the-file-is-too-large-1nl2)
-- [Redis Is Not Free Performance](https://dev.to/yousufamre/redis-is-not-free-performance-1cie)
+- [Stock up on quality games—for free!](https://dev.to/aibuddyinc/stock-up-on-quality-games-for-free-2p9k)
+- [LinkMedic-Finds broken image and file links in HTML, PHP as well as in MERN stack.](https://dev.to/jawaan_santh_5fff7e7f2382/linkmedic-finds-broken-image-and-file-links-in-html-php-as-well-as-in-mern-stack-10km)
+- [Build a TikTok Creator Analyzer to Find Your Next Brand Deal](https://dev.to/olams/build-a-tiktok-creator-analyzer-to-find-your-next-brand-deal-433n)
+- [Micro Frontends: Decomposing the Monolithic Frontend for Scalability and Agility](https://dev.to/techblogs/micro-frontends-decomposing-the-monolithic-frontend-for-scalability-and-agility-1jm4)
+- [WTF is MLOps?](https://dev.to/dailybugle33/wtf-is-mlops-4oj3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
