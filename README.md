@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Redis Threading Model: Debunking the Single-Threaded Myth](https://dev.to/ricky512227/understanding-redis-threading-what-i-learned-the-hard-way-paf)
+- [Practical MCP-Style Authorization: An Experimental PoC and Guide](https://dev.to/exploredataaiml/practical-mcp-style-authorization-an-experimental-poc-and-guide-3em8)
+- [Improving a Step That Assumed Prior Knowledge](https://dev.to/kalu_jennifer_9bba9145120/improving-a-step-that-assumed-prior-knowledge-17k6)
 - [Coding Challenge Practice - Question 85](https://dev.to/tomivan/coding-challenge-practice-question-85-25a5)
-- [i spent 2 weeks comparing deep research APIs so you don’t have to](https://dev.to/vaniagrwall/i-spent-2-weeks-comparing-deep-research-apis-so-you-dont-have-to-4kcf)
-- [Nourish Link — A Transparency-Focused Platform Supporting Food Relief Charities](https://dev.to/jason_greenwood_de292793f/nourish-link-a-transparency-focused-platform-supporting-food-relief-charities-2225)
-- [2025-12-24 Daily Robotics News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-24-daily-robotics-news-47jj)
-- [Building Cryptographic Audit Trails for SEC Rule 17a-4: A Technical Deep Dive](https://dev.to/veritaschain/building-cryptographic-audit-trails-for-sec-rule-17a-4-a-technical-deep-dive-4hbp)
+- [Top AI Tools to Transform Your Workflow: From Note-Taking to Video Editing](https://dev.to/ayodele_jolayemi_a4bcec81/top-ai-tools-to-transform-your-workflow-from-note-taking-to-video-editing-34gc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
