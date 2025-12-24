@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I don&#39;t care about the algo](https://dev.to/joacod/i-dont-care-about-the-algo-1idi)
-- [Brain Anatomy Motion Graphics with CSS @keyframes](https://dev.to/kaoria/brain-anatomy-motion-graphics-with-css-keyframes-3id8)
-- [Every Website Has Dark Mode. I Added Christmas Mode.](https://dev.to/codypearce/every-website-has-dark-mode-i-added-christmas-mode-12ff)
-- [Role of NLP Testing in Test Automation and AI-Driven QA](https://dev.to/morrismoses149/role-of-nlp-testing-in-test-automation-and-ai-driven-qa-3960)
-- [4 Ways to Convert Scientific Images to Editable SVG &lpar;2026 Guide&rpar;](https://dev.to/localfaceswap/4-ways-to-convert-scientific-images-to-editable-svg-2026-guide-2ili)
+- [FinOps 101: What It Is and Why Cloud Teams Can’t Ignore It](https://dev.to/rushikesh_langale_42ac365/finops-101-what-it-is-and-why-cloud-teams-cant-ignore-it-1h3g)
+- [[Boost]](https://dev.to/muhamadsyafii/-1124)
+- [MLOps Use Cases: 12 Practical Examples Teams Run in Production](https://dev.to/apprecode/mlops-use-cases-12-practical-examples-teams-run-in-production-556d)
+- [How JP Vasta Helps Small Business Owners Overcome Marketing Overwhelm with AI](https://dev.to/jp_vasta_9f7f7da0ddb3c8e5/how-jp-vasta-helps-small-business-owners-overcome-marketing-overwhelm-with-ai-5159)
+- [Building an Intelligent Document Processing Pipeline with AWS: A Journey from Idea to Production](https://dev.to/aws-builders/building-an-intelligent-document-processing-pipeline-with-aws-a-journey-from-idea-to-production-c6n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
