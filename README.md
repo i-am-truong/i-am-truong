@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with 2D Games Using Arcade Library &lpar;Part 11&rpar;: Switching Between Screens](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-arcade-library-part-11-switching-between-screens-2i34)
-- [Don&#39;t Build Just Another Chatbot: Architecting a &quot;Duolingo-Style&quot; AI Companion with Rive](https://dev.to/uianimation/dont-build-just-another-chatbot-architecting-a-duolingo-style-ai-companion-with-rive-49g5)
-- [Top 10 WordPress Security Mistakes You&#39;re Probably Making in 2025](https://dev.to/mhaque88cs/top-10-wordpress-security-mistakes-youre-probably-making-in-2025-1g8g)
-- [Getting Started with 2D Games Using Arcade Library &lpar;Part 10&rpar;: Playing Sound Effects](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-arcade-library-part-10-playing-sound-effects-500d)
-- [Gesture-Controlled Gadgets Shaping the Future of Interaction](https://dev.to/rapidcellphone/gesture-controlled-gadgets-shaping-the-future-of-interaction-o2l)
+- [SaijinOS Part 18 — From Architecture to Stance Why I’m Building Studios Pong](https://dev.to/kato_masato_c5593c81af5c6/saijinos-part-17-from-architecture-to-stance-why-im-building-studios-pong-o2)
+- [2026: Free Resources for Web Development &amp; Hoisting](https://dev.to/vuelancer/2026-free-resources-for-web-development-hoisting-3j2a)
+- [How Do You Read Query Parameters in Spring Boot?](https://dev.to/realnamehidden1_61/how-do-you-read-query-parameters-in-spring-boot-2ck1)
+- [Implementing Database Connection Pooling in PHP for Enterprise Applications](https://dev.to/patoliyainfotech/implementing-database-connection-pooling-in-php-for-enterprise-applications-3bed)
+- [What Is Performance Marketing? Meaning, Benefits &amp; Examples](https://dev.to/innovativeblogtech_f6ec83/what-is-performance-marketing-meaning-benefits-examples-30ma)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
