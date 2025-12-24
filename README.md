@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Complete LinkedIn Automation Agent with ConnectSafely.AI MCP](https://dev.to/amaan_sarfaraz_15f8675671/building-a-complete-linkedin-automation-agent-with-connectsafelyai-mcp-18pn)
-- [A Beginner-Friendly Guide to Structured Query Language](https://dev.to/spiderstech/a-beginner-friendly-guide-to-structured-query-language-1b53)
-- [Integrating Resend with React Email in a Better T Stack Monorepo &lpar;Next JS &amp; Hono backend with Better Auth&rpar;](https://dev.to/reubenwedson/integrating-resend-with-react-email-in-a-better-t-stack-monorepo-next-js-hono-backend-with-3n69)
-- [Getting Started with 2D Games Using Arcade Library &lpar;Part 4&rpar;: Preparing the Player](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-arcade-library-part-4-preparing-the-player-4ja8)
-- [Shopify Conversion Psychology: How to Influence Customers and Increase Revenue](https://dev.to/websitespeedy/shopify-conversion-psychology-how-to-influence-customers-and-increase-revenue-44n7)
+- [Getting Started with 2D Games Using Arcade Library &lpar;Part 11&rpar;: Switching Between Screens](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-arcade-library-part-11-switching-between-screens-2i34)
+- [Don&#39;t Build Just Another Chatbot: Architecting a &quot;Duolingo-Style&quot; AI Companion with Rive](https://dev.to/uianimation/dont-build-just-another-chatbot-architecting-a-duolingo-style-ai-companion-with-rive-49g5)
+- [Top 10 WordPress Security Mistakes You&#39;re Probably Making in 2025](https://dev.to/mhaque88cs/top-10-wordpress-security-mistakes-youre-probably-making-in-2025-1g8g)
+- [Getting Started with 2D Games Using Arcade Library &lpar;Part 10&rpar;: Playing Sound Effects](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-arcade-library-part-10-playing-sound-effects-500d)
+- [Gesture-Controlled Gadgets Shaping the Future of Interaction](https://dev.to/rapidcellphone/gesture-controlled-gadgets-shaping-the-future-of-interaction-o2l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
