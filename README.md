@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I scraped 6,000+ n8n workflows and built a search engine with interactive previews](https://dev.to/zo_aoo_a1c156254fcefb2e61/i-scraped-6000-n8n-workflows-and-built-a-search-engine-with-interactive-previews-4jfk)
-- [Building a Dummy Service Centre Website Taught Me More Than Any Assignment](https://dev.to/abu_zafar_0007/building-a-dummy-service-centre-website-taught-me-more-than-any-assignment-32h8)
-- [What Happens When You Type a URL and Press Enter](https://dev.to/dev-alamin/what-happens-when-you-type-a-url-and-press-enter-13kh)
-- [10 Things Every Programmer Must Do Before Launching a Website 🚀](https://dev.to/yurie_scanner_1337/10-things-every-programmer-must-do-before-launching-a-website-1b0a)
-- [How AI Agents Integrate with Enterprise Systems and APIs to Perform Actions](https://dev.to/alex_sebastian/how-ai-agents-integrate-with-enterprise-systems-and-apis-to-perform-actions-2boi)
+- [The Reality of Health Medical Centers: What Actually Happens Behind Those Sliding Doors](https://dev.to/yasin_mukthar_e569d2e11af/the-reality-of-health-medical-centers-what-actually-happens-behind-those-sliding-doors-301)
+- [VectorDatabase Showdown 2025: Pinecone vs Qdrant vs Weaviate con Benchmarks Reales](https://dev.to/abdessamad_ammi_202ac2bad/vectordatabase-showdown-2025-pinecone-vs-qdrant-vs-weaviate-con-benchmarks-reales-14de)
+- [Building Offline-First Mobile Apps with Local Storage](https://dev.to/lacey_glenn_e95da24922778/building-offline-first-mobile-apps-with-local-storage-3m8n)
+- [How to Enable Contrast Themes on Windows 11?](https://dev.to/vigneshwaran_vijayakumar/how-to-enable-contrast-themes-on-windows-11-2ab)
+- [checkout this article on Optimizing Conversion Rates Using a Maturity Model](https://dev.to/perceptive_analytics_f780/checkout-this-article-on-optimizing-conversion-rates-using-a-maturity-model-4ifk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
