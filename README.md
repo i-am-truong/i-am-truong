@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [State Management in WebForms Core 2 &lpar;Razor Pages Example&rpar;](https://dev.to/elanatframework/state-management-in-webforms-core-2-razor-pages-example-204f)
+- [Context Engineering: La Nueva Disciplina que Reduce Alucinaciones un 85%](https://dev.to/abdessamad_ammi_202ac2bad/context-engineering-la-nueva-disciplina-que-reduce-alucinaciones-un-85-819)
 - [The Reality of Health Medical Centers: What Actually Happens Behind Those Sliding Doors](https://dev.to/yasin_mukthar_e569d2e11af/the-reality-of-health-medical-centers-what-actually-happens-behind-those-sliding-doors-301)
 - [VectorDatabase Showdown 2025: Pinecone vs Qdrant vs Weaviate con Benchmarks Reales](https://dev.to/abdessamad_ammi_202ac2bad/vectordatabase-showdown-2025-pinecone-vs-qdrant-vs-weaviate-con-benchmarks-reales-14de)
-- [Building Offline-First Mobile Apps with Local Storage](https://dev.to/lacey_glenn_e95da24922778/building-offline-first-mobile-apps-with-local-storage-3m8n)
-- [How to Enable Contrast Themes on Windows 11?](https://dev.to/vigneshwaran_vijayakumar/how-to-enable-contrast-themes-on-windows-11-2ab)
-- [checkout this article on Optimizing Conversion Rates Using a Maturity Model](https://dev.to/perceptive_analytics_f780/checkout-this-article-on-optimizing-conversion-rates-using-a-maturity-model-4ifk)
+- [Why My Trading Algorithms Sleep on Christmas Eve &lpar;And Yours Should Too&rpar;](https://dev.to/williamlimsemfin/why-my-trading-algorithms-sleep-on-christmas-eve-and-yours-should-too-1251)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
