@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The 12 Bugs of Christmas: How One Dev&#39;s &quot;Festive&quot; Deploy Turned Santa&#39;s Workshop into a Kubernetes Catastrophe](https://dev.to/om_shree_0709/the-12-bugs-of-christmas-how-one-devs-festive-deploy-turned-santas-workshop-into-a-kubernetes-563n)
 - [DevsTools.app: 25+ Free Dev Tools, 100% Client-Side &lpar;No Data Leaves Your Browser&rpar;](https://dev.to/hasan_zcan_6cb354f0d0fb9/devstoolsapp-25-free-dev-tools-100-client-side-no-data-leaves-your-browser-1662)
 - [Paradigm Shift in Context: Beyond MCP to Conversation-Native Development](https://dev.to/om_shree_0709/paradigm-shift-in-context-beyond-mcp-to-conversation-native-development-28mh)
 - [Adaptive Neuro-Symbolic Planning for bio-inspired soft robotics maintenance with zero-trust governance guarantees](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-bio-inspired-soft-robotics-maintenance-with-zero-trust-2837)
 - [Why I Built My Own Code Snippet Manager](https://dev.to/m_fadhilpratama_aed4f92/why-i-built-my-own-code-snippet-manager-23fc)
-- [Bare-metal frontend](https://dev.to/stasyaranov/bare-metal-frontend-18la)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
