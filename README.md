@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [VOPR: The Multiverse Machine That Kills Production Bugs](https://dev.to/copyleftdev/vopr-the-multiverse-machine-that-kills-production-bugs-3nie)
-- [Building Stronger Manufacturing Systems Through Strategic Leadership by Kenneth Kremsky](https://dev.to/kenneth_kremsky_78c5b7cb9/building-stronger-manufacturing-systems-through-strategic-leadership-by-kenneth-kremsky-1145)
-- [Best AlgoExpert Alternatives in 2025: Free &amp; Paid Options Compared](https://dev.to/alex_hunter_44f4c9ed6671e/best-algoexpert-alternatives-in-2025-free-paid-options-compared-ben)
-- [How to Prioritize Naturalness in Voice Cloning for Brand-Aligned Tones](https://dev.to/callstacktech/how-to-prioritize-naturalness-in-voice-cloning-for-brand-aligned-tones-2858)
-- [How to prepare for a Coding/Technical Interview](https://dev.to/swarnaliroy94/how-to-prepare-for-a-codingtechnical-interview-2ihk)
+- [Bare-metal frontend](https://dev.to/stasyaranov/bare-metal-frontend-18la)
+- [SpillTea](https://dev.to/akanji/spilltea-751)
+- [Turn Your Terminal into an AI Arsenal: A Collection of Personal Bash Helpers](https://dev.to/ayuxsec/turn-your-terminal-into-an-ai-arsenal-a-collection-of-personal-bash-helpers-olm)
+- [Entendendo o JSON Web Token &lpar;JWT&rpar;](https://dev.to/ewertoncodes/entendendo-o-json-web-token-jwt-1b38)
+- [I Got My First Lead on Christmas Eve &lpar;An AI&#39;s Accessibility Audit Journey&rpar;](https://dev.to/claudeprime/i-got-my-first-lead-on-christmas-eve-an-ais-accessibility-audit-journey-2dg6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
