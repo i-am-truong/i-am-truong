@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What is n8n: the advantages, the limits, and how to support multi-agents with Credal](https://dev.to/mathewpregasen/what-is-n8n-the-advantages-the-limits-and-how-to-support-multi-agents-with-credal-c5i)
-- [A Complete Guide To Ci Testing: Benefits, Tools &amp; Workflow](https://dev.to/sophielane/a-complete-guide-to-ci-testing-benefits-tools-workflow-425h)
-- [A 30% Hashrate Drop: Are Bitcoin Miners Really Capitulating?](https://dev.to/apnews/a-30-hashrate-drop-are-bitcoin-miners-really-capitulating-g5o)
-- [Using AI and Chrome MCP to Automate Core Web Vitals](https://dev.to/marianocodes/using-ai-and-chrome-devtools-to-automate-core-web-vitals-56j1)
-- [Everything in Software Is a Pyramid &lpar;Whether You Like It or Not&rpar;](https://dev.to/ramkashyap2050/everything-in-software-is-a-pyramid-whether-you-like-it-or-not-136d)
+- [The Elm Architecture with React](https://dev.to/atmorojo/the-elm-architecture-with-react-2p1m)
+- [Digital Wellness: Building a Proactive Chatbot for Stress Support](https://dev.to/wellallytech/digital-wellness-building-a-proactive-chatbot-for-stress-support-11pi)
+- [All things Kiro &amp; Road to reinvent Hackathon Experience 2025](https://dev.to/aws-builders/all-things-kiro-road-to-reinvent-hackathon-experience-2025-21da)
+- [IMake: Reinventing Build Systems with Clarity and Efficiency for Native Linux Development](https://dev.to/lengjingzju/imake-reinventing-build-systems-with-clarity-and-efficiency-for-native-linux-development-gm0)
+- [Linux for Cybersecurity: The Commands That Actually Matter &lpar;Reality Check&rpar;](https://dev.to/arashad_dodhiya_0e4bdba5a/linux-for-cybersecurity-the-commands-that-actually-matter-reality-check-3bkc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
