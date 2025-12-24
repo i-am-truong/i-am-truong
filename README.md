@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[Boost]](https://dev.to/anthonymax/-3001)
+- [SwiftUI Gesture System Internals](https://dev.to/sebastienlato/swiftui-gesture-system-internals-1j6b)
 - [Day 82 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-82-of-100-days-dsa-coding-challenge-1n0l)
 - [Interfacing an SD Card with Raspberry Pi Pico](https://dev.to/david_thomas/interfacing-an-sd-card-with-raspberry-pi-pico-33kp)
 - [Best React Native App Development Companies for 2026](https://dev.to/sherry_walker_bba406fb339/best-react-native-app-development-companies-for-2026-1gni)
-- [RCU &lpar;Read, Copy, Update&rpar; in the Linux Kernel](https://dev.to/sauravshah31/rcu-read-copy-update-in-the-linux-kernel-18di)
-- [Can eval setup be automatically scaffolded?](https://dev.to/dowhatmatters/can-eval-setup-be-automatically-scaffolded-18f6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
