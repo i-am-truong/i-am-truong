@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Quantum Error Correction Zootopia](https://dev.to/doraking/quantum-error-correction-zootopia-2l0k)
-- [AWS CDK 100 Drill Exercises #004: NAT Instance V2 — Cost-Effective NAT with Automated Scheduling and Patch Management](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-004-nat-instance-v2-cost-effective-nat-with-automated-scheduling-49li)
-- [Observability for Resilience on Amazon EKS with OpenTelemetry + Datadog &lpar;Free Tier&rpar;](https://dev.to/aws-builders/observability-for-resilience-on-amazon-eks-with-opentelemetry-datadog-free-tier-4a6c)
-- [AI Agents 2025: Why AutoGPT and CrewAI Still Struggle with Autonomy](https://dev.to/dataformathub/ai-agents-2025-why-autogpt-and-crewai-still-struggle-with-autonomy-48l0)
-- [AWS App Runner vs ECS Express Mode: Git, ECR, Scaling, and Security Explained](https://dev.to/aws-builders/aws-app-runner-vs-ecs-express-mode-git-ecr-scaling-and-security-explained-5673)
+- [Announcing AgentHelm v0.3.0: Production-Ready AI Agent Orchestration](https://dev.to/hadywalied/announcing-agenthelm-v030-production-ready-ai-agent-orchestration-5alg)
+- [C# OOP Mastery — From Quiz Answers to Production‑Grade Mental Models](https://dev.to/cristiansifuentes/c-oop-mastery-from-quiz-answers-to-production-grade-mental-models-105o)
+- [My Journey with Amazon EKS: Simplifying Kubernetes on AWS](https://dev.to/shawmeer22/my-journey-with-amazon-eks-simplifying-kubernetes-on-aws-4g0b)
+- [How to Convert JSON to YAML &lpar;and Why You Should&rpar;](https://dev.to/hamdisaidanix/how-to-convert-json-to-yaml-and-why-you-should-3l67)
+- [Build &quot;Sign in with Your App&quot; using Supabase Auth](https://dev.to/supabase/build-sign-in-with-your-app-using-supabase-auth-cc6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
