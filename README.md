@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Are You Planning to Get Into DevOps in 2026? A Practical Guide for the Real World](https://dev.to/rufilboss/are-you-planning-to-get-into-devops-in-2026-a-practical-guide-for-the-real-world-3blb)
-- [The 12 Bugs of Christmas: How One Dev&#39;s &quot;Festive&quot; Deploy Turned Santa&#39;s Workshop into a Kubernetes Catastrophe](https://dev.to/om_shree_0709/the-12-bugs-of-christmas-how-one-devs-festive-deploy-turned-santas-workshop-into-a-kubernetes-563n)
-- [DevsTools.app: 25+ Free Dev Tools, 100% Client-Side &lpar;No Data Leaves Your Browser&rpar;](https://dev.to/hasan_zcan_6cb354f0d0fb9/devstoolsapp-25-free-dev-tools-100-client-side-no-data-leaves-your-browser-1662)
-- [Paradigm Shift in Context: Beyond MCP to Conversation-Native Development](https://dev.to/om_shree_0709/paradigm-shift-in-context-beyond-mcp-to-conversation-native-development-28mh)
-- [Adaptive Neuro-Symbolic Planning for bio-inspired soft robotics maintenance with zero-trust governance guarantees](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-bio-inspired-soft-robotics-maintenance-with-zero-trust-2837)
+- [ReAct vs Tool Calling: Why Your LLM Should Decide — But Never Execute](https://dev.to/parth_sarthisharma_105e7/react-vs-tool-calling-why-your-llm-should-decide-but-never-execute-cp3)
+- [What&#39;s New At Releem - November 2025](https://dev.to/drupaladmin/whats-new-at-releem-november-2025-2lk2)
+- [Master Python System Programming: From Subprocess Commands to Advanced Process Control Techniques](https://dev.to/nithinbharathwaj/master-python-system-programming-from-subprocess-commands-to-advanced-process-control-techniques-31l7)
+- [AI Trading Daily Report: December 24, 2025 | $+133.74](https://dev.to/igorganapolsky/ai-trading-daily-report-december-24-2025-13374-4d64)
+- [The Christmas Clarity Calendar – Finding Focus, Calm, and Momentum Before the New Year](https://dev.to/per-starke-642/the-christmas-clarity-calendar-finding-focus-calm-and-momentum-before-the-new-year-3edm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
