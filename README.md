@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AWS VPC Lattice: Simplifying Application Networking 🚀](https://dev.to/omarmfathy219/aws-vpc-lattice-simplifying-application-networking-2oen)
-- [From Alerts to Answers: AWS Security Hub &amp; Amazon Detective](https://dev.to/aws-builders/from-alerts-to-answers-aws-security-hub-amazon-detective-mel)
-- [Apache Spark: The Engine Powering the Modern Data Revolution](https://dev.to/tech_croc_f32fbb6ea8ed4/apache-spark-the-engine-powering-the-modern-data-revolution-30eh)
-- [Day 0: Launching OneTimeShare30 - My 30-Day Public Build Challenge](https://dev.to/aayushbankar/day-0-launching-onetimeshare30-my-30-day-public-build-challenge-4cb2)
-- [2025 ~ Year of Enlightenment](https://dev.to/annavi11arrea1/2025-year-of-enlightenment-ifb)
+- [Rahsi Defense Security Mesh™ | Copilot &amp; Teams Enable Productivity | CMMC Compliance Demands Architecture, Policy and Governance](https://dev.to/aakash_rahsi_8d28156d5f2c/rahsi-defense-security-mesh-copilot-teams-enable-productivity-cmmc-compliance-demands-5hjg)
+- [Headless Raspberry Pi Homelab – Part 1: OS Configuration &amp; Remote Access](https://dev.to/astromodem/headless-raspberry-pi-homelab-part-1-os-configuration-remote-access-4ibb)
+- [A Guide to HITL, HOTL, and HOOTL Workflows](https://dev.to/exson_joseph/a-guide-to-hitl-hotl-and-hootl-workflows-4p4n)
+- [hjvvvyjhv](https://dev.to/agency07/hjvvvyjhv-23d4)
+- [Swift On Server&#39;s](https://dev.to/amritesh240304/swift-on-servers-m46)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
