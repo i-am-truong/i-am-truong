@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why I Changed My Mind About Exceptions](https://dev.to/stevenstuartm/why-i-changed-my-mind-about-exceptions-1gi0)
-- [Automate Your CI/CD with Frodo CLI for GitHub Actions](https://dev.to/iamdevbox/automate-your-cicd-with-frodo-cli-for-github-actions-3d4k)
-- [Why Data Annotation Platforms Are the Unsung Heroes of AI Success](https://dev.to/rushikesh_langale_42ac365/why-data-annotation-platforms-are-the-unsung-heroes-of-ai-success-11pl)
-- [Next.js Caching Evolution: From v14 to v15 and the Cache Components Era](https://dev.to/ahr_dev/nextjs-caching-evolution-from-v14-to-v15-and-the-cache-components-era-5goo)
-- [JSON has no comments. IO does—because humans read APIs too](https://dev.to/internetobject/json-has-no-comments-io-does-because-humans-read-apis-too-49b2)
+- [I don&#39;t care about the algo](https://dev.to/joacod/i-dont-care-about-the-algo-1idi)
+- [Brain Anatomy Motion Graphics with CSS @keyframes](https://dev.to/kaoria/brain-anatomy-motion-graphics-with-css-keyframes-3id8)
+- [Every Website Has Dark Mode. I Added Christmas Mode.](https://dev.to/codypearce/every-website-has-dark-mode-i-added-christmas-mode-12ff)
+- [Role of NLP Testing in Test Automation and AI-Driven QA](https://dev.to/morrismoses149/role-of-nlp-testing-in-test-automation-and-ai-driven-qa-3960)
+- [4 Ways to Convert Scientific Images to Editable SVG &lpar;2026 Guide&rpar;](https://dev.to/localfaceswap/4-ways-to-convert-scientific-images-to-editable-svg-2026-guide-2ili)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
