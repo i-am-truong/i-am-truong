@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Asynchronous backend on modern C++ 23.](https://dev.to/__c6aaeb3444a3/asynchronous-backend-on-modern-c-23-233d)
+- [股票 API 对接, 接入德国法兰克福交易所&lpar;FWB/Xetra&rpar;实现量化分析](https://dev.to/stockfx/gu-piao-api-dui-jie-jie-ru-de-guo-fa-lan-ke-fu-jiao-yi-suo-fwbxetrashi-xian-liang-hua-fen-xi-4f9p)
+- [Prompt Engineering Is Fragile — Human–AI Collaboration Is the Real Interface](https://dev.to/yuer/prompt-engineering-is-fragile-human-ai-collaboration-is-the-real-interface-5dfl)
+- [Why I Hard-Code &quot;Sleep Mode&quot; into My Trading Logic on Christmas Eve](https://dev.to/sutantoongsemfin/why-i-hard-code-sleep-mode-into-my-trading-logic-on-christmas-eve-1h6f)
 - [Integrating Notion, Search, and Code Docs: Building a Unified Knowledge Hub with Vezlo](https://dev.to/ashford_ai/integrating-notion-search-and-code-docs-building-a-unified-knowledge-hub-with-vezlo-3a52)
-- [Adaptive Join in Amazon Aurora PostgreSQL](https://dev.to/aws-heroes/adaptive-join-in-amazon-aurora-5ha0)
-- [What is a Guidewire Developer?](https://dev.to/e77/what-is-a-guidewire-developer-4344)
-- [Building a Scalable Edge AI System for Perpetual Inventory in Retail](https://dev.to/danielak/building-a-scalable-edge-ai-system-for-perpetual-inventory-in-retail-1d3j)
-- [How I built a CI/CD pipeline with E2E tests via TestPyPI](https://dev.to/inozem/how-i-built-a-cicd-pipeline-with-e2e-tests-via-testpypi-107k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
