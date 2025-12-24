@@ -120,10 +120,10 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [2025 ~ Year of Enlightenment](https://dev.to/annavi11arrea1/2025-year-of-enlightenment-ifb)
+- [Getting Started with Amazon ECS Express Mode](https://dev.to/aws-builders/getting-started-with-amazon-ecs-express-mode-37kp)
 - [Manage Message Queues Using Amazon SQS](https://dev.to/aws-builders/manage-message-queues-using-amazon-sqs-1dcd)
 - [Vibe Coding vs. Engenharia Assistida por IA: Onde você está no espectro?](https://dev.to/edu_betim/vibe-coding-vs-engenharia-assistida-por-ia-onde-voce-esta-no-espectro-476f)
-- [Mastering Pandas: From Handling NaN and Duplicates to Advanced Sales Data Grouping](https://dev.to/labex/mastering-pandas-from-handling-nan-and-duplicates-to-advanced-sales-data-grouping-4pni)
-- [Why Software Engineers Are Wasting 40% of Their Dev Time on SEO &lpar;And How Mangools Fixes This&rpar;](https://dev.to/alan_luu/why-software-engineers-are-wasting-40-of-their-dev-time-on-seo-and-how-mangools-fixes-this-3a3i)
 - [Day-15 From &quot;It Works on My Machine&quot; to Automation: Learning Jenkins and Docker](https://dev.to/jayanth_dasari_7/day-15-from-it-works-on-my-machine-to-automation-learning-jenkins-and-docker-1kij)
 <!-- BLOG-POST-LIST:END -->
 
