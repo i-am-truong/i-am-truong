@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Beyond Simple RAG: Building an Agentic Workflow with Next.js, Python, and Supabase](https://dev.to/abhinav_sriharsha_73dbc55/beyond-simple-rag-building-an-agentic-workflow-with-nextjs-python-and-supabase-1dm6)
+- [I built a Discord Bot Platform using Google Antigravity &amp; Gemini 3 &lpar;Solo Dev Journey&rpar;](https://dev.to/lordkruk/i-built-a-discord-bot-platform-using-google-antigravity-gemini-3-solo-dev-journey-iaj)
+- [Commit Signing - GnuPG Agent Forwarding](https://dev.to/kuwv/commit-signing-gnupg-agent-forwarding-27co)
 - [AI-Powered Dynamic Conversations With NPCs in Godot](https://dev.to/eo-uk/ai-powered-dynamic-conversations-with-npcs-in-godot-2imi)
-- [From Zero to Deployed: Your Personal Heroku Alternative &lpar;Without the Bill&rpar;](https://dev.to/leoisadev/from-zero-to-deployed-your-personal-heroku-alternative-without-the-bill-10f4)
-- [Untitled](https://dev.to/aina_dietolog_a2bf19af680/untitled-2443)
-- [I Got Tired of Writing FFmpeg Commands, So I Built a Small Go Helper](https://dev.to/farshid_rezaei_9ab0a01897/i-got-tired-of-writing-ffmpeg-commands-so-i-built-a-small-go-helper-ccm)
-- [tinypdf - A tiny PDF library in Dart &lpar;&lt;600 LOC, zero deps, real PDFs!&rpar;](https://dev.to/rizmyabdulla/tinypdf-a-tiny-pdf-library-in-dart-600-loc-zero-deps-real-pdfs-1do9)
+- [Unlocking the Web in 3D: An Introduction to Three.js](https://dev.to/derrickrichard/unlocking-the-web-in-3d-an-introduction-to-threejs-3f3j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
