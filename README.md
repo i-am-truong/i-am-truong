@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI-Powered Dynamic Conversations With NPCs in Godot](https://dev.to/eo-uk/ai-powered-dynamic-conversations-with-npcs-in-godot-2imi)
 - [From Zero to Deployed: Your Personal Heroku Alternative &lpar;Without the Bill&rpar;](https://dev.to/leoisadev/from-zero-to-deployed-your-personal-heroku-alternative-without-the-bill-10f4)
+- [Untitled](https://dev.to/aina_dietolog_a2bf19af680/untitled-2443)
+- [I Got Tired of Writing FFmpeg Commands, So I Built a Small Go Helper](https://dev.to/farshid_rezaei_9ab0a01897/i-got-tired-of-writing-ffmpeg-commands-so-i-built-a-small-go-helper-ccm)
 - [tinypdf - A tiny PDF library in Dart &lpar;&lt;600 LOC, zero deps, real PDFs!&rpar;](https://dev.to/rizmyabdulla/tinypdf-a-tiny-pdf-library-in-dart-600-loc-zero-deps-real-pdfs-1do9)
-- [Building a Production-Grade Serverless API on AWS](https://dev.to/nick_gojaman_aab54d514a33/building-a-production-grade-serverless-api-on-aws-foa)
-- [Advent of Code: ?sexob evom ot woH](https://dev.to/rkeeves/advent-of-code-sexob-evom-ot-woh-4336)
-- [Day 32 of improving my Data Science skills](https://dev.to/sp_the_data_specialist/day-32-of-improving-my-data-science-skills-4b16)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
