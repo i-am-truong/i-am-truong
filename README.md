@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🧠 Lazy Loading: Fixing Performance or Hiding It?](https://dev.to/s_shabeh/lazy-loading-fixing-performance-or-hiding-it-3716)
-- [Securing Serverless APIs with Amazon Cognito and API Gateway JWT Authorizers](https://dev.to/geovane_oliveira/securing-serverless-apis-with-amazon-cognito-and-api-gateway-jwt-authorizers-5819)
-- [The Evolution of On/Off-Ramp Infrastructure in 2025: What’s New for Crypto Traders?](https://dev.to/tanelith/the-evolution-of-onoff-ramp-infrastructure-in-2025-whats-new-for-crypto-traders-3kbe)
-- [Camera Design Engineering Basics for Modern Products](https://dev.to/siliconsignals_ind/camera-design-engineering-basics-for-modern-products-nb8)
-- [7 Rust Idioms for Clean, High-Performance Code](https://dev.to/james_miller_8dc58a89cb9e/7-rust-idioms-for-clean-high-performance-code-4a3o)
+- [CSS Gradient Generator](https://dev.to/arsalanmeee/css-gradient-generator-n7p)
+- [Why you should always check licenses in your PHP project](https://dev.to/robertobutti/why-you-should-always-check-licenses-in-your-php-project-3kon)
+- [Contextual Code Review](https://dev.to/synthaicode_commander/contextual-code-review-2k8b)
+- [Why AI Governance Must Live in IT, Not Just Legal](https://dev.to/rushikesh_langale_42ac365/why-ai-governance-must-live-in-it-not-just-legal-1cjk)
+- [How to Integrate Zomato MCP in a Next.js Application](https://dev.to/sunny7899/how-to-integrate-zomato-mcp-in-a-nextjs-application-4chc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
