@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [2025-12-24 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-24-daily-ai-news-4cao)
+- [linux day #1](https://dev.to/jumptotech/linux-day-1-2745)
+- [I Built a Privacy-First Currency Converter in 2 Weeks](https://dev.to/demetria_darjean_c3f29c59/i-built-a-privacy-first-currency-converter-in-2-weeks-42cm)
 - [Software Programming as a Skill](https://dev.to/qurioskill/software-programming-as-a-skill-4dn2)
 - [Master Rust Parallelism: Write Safe, Fast Concurrent Code with Rayon and Zero Race Conditions](https://dev.to/nithinbharathwaj/master-rust-parallelism-write-safe-fast-concurrent-code-with-rayon-and-zero-race-conditions-4ghi)
-- [When Time Became a Variable — Notes From My Journey With Numba ⚡](https://dev.to/zenoguy/when-time-became-a-variable-notes-from-my-journey-with-numba-57oj)
-- [We Killed the Monster: WebForms Core 2.0 Released and the End of the Front-end Era of Terror](https://dev.to/elanatframework/we-killed-the-monster-webforms-core-20-released-and-the-end-of-the-front-end-era-of-terror-c0)
-- [ReAct vs Tool Calling: Why Your LLM Should Decide — But Never Execute](https://dev.to/parth_sarthisharma_105e7/react-vs-tool-calling-why-your-llm-should-decide-but-never-execute-cp3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
