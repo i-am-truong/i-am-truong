@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stock up on quality games—for free!](https://dev.to/aibuddyinc/stock-up-on-quality-games-for-free-2p9k)
-- [LinkMedic-Finds broken image and file links in HTML, PHP as well as in MERN stack.](https://dev.to/jawaan_santh_5fff7e7f2382/linkmedic-finds-broken-image-and-file-links-in-html-php-as-well-as-in-mern-stack-10km)
-- [Build a TikTok Creator Analyzer to Find Your Next Brand Deal](https://dev.to/olams/build-a-tiktok-creator-analyzer-to-find-your-next-brand-deal-433n)
-- [Micro Frontends: Decomposing the Monolithic Frontend for Scalability and Agility](https://dev.to/techblogs/micro-frontends-decomposing-the-monolithic-frontend-for-scalability-and-agility-1jm4)
-- [WTF is MLOps?](https://dev.to/dailybugle33/wtf-is-mlops-4oj3)
+- [Integrating Notion, Search, and Code Docs: Building a Unified Knowledge Hub with Vezlo](https://dev.to/ashford_ai/integrating-notion-search-and-code-docs-building-a-unified-knowledge-hub-with-vezlo-3a52)
+- [Adaptive Join in Amazon Aurora PostgreSQL](https://dev.to/aws-heroes/adaptive-join-in-amazon-aurora-5ha0)
+- [What is a Guidewire Developer?](https://dev.to/e77/what-is-a-guidewire-developer-4344)
+- [Building a Scalable Edge AI System for Perpetual Inventory in Retail](https://dev.to/danielak/building-a-scalable-edge-ai-system-for-perpetual-inventory-in-retail-1d3j)
+- [How I built a CI/CD pipeline with E2E tests via TestPyPI](https://dev.to/inozem/how-i-built-a-cicd-pipeline-with-e2e-tests-via-testpypi-107k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
