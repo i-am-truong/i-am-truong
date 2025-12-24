@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Louisiana Startup App Costs in 2026](https://dev.to/del_rosario/louisiana-startup-app-costs-in-2026-5all)
-- [Louisiana Startup App Costs in 2026: What Founders Actually Pay](https://dev.to/devin-rosario/louisiana-startup-app-costs-in-2026-what-founders-actually-pay-29l8)
-- [Blockchain Oracles: How Smart Contracts See the Real World &lpar;Featuring Chainlink&rpar;](https://dev.to/ribhavmodi/blockchain-oracles-how-smart-contracts-see-the-real-world-featuring-chainlink-293j)
-- [What Is Embedded Analytics? Benefits, Examples, and Uses](https://dev.to/boldbi/what-is-embedded-analytics-benefits-examples-and-uses-5gka)
-- [SendNow is a document-sharing and tracking platform built as a powerful alternative to DocSend.](https://dev.to/mohamed_siraj_3ef98d28390/sendnow-is-a-document-sharing-and-tracking-platform-built-as-a-powerful-alternative-to-docsend-4c0)
+- [The Proxy Paradox: Why Spring @Transactional Vanishes](https://dev.to/rajatarora/the-proxy-paradox-why-spring-transactional-vanishes-4758)
+- [Stop Pushing Work Code with Your Personal Email: The Ultimate Guide to Multiple GitHub Accounts on Windows](https://dev.to/rahulkbharti/stop-pushing-work-code-with-your-personal-email-the-ultimate-guide-to-multiple-github-accounts-on-39bg)
+- [Dark vs Bright Website Design: The Real Difference &lpar;and How to Choose the Right One&rpar;](https://dev.to/per-starke-642/dark-vs-bright-website-design-the-real-difference-and-how-to-choose-the-right-one-5b5j)
+- [User Connectivity: Two Years in Production — Lessons Learned and New Patterns](https://dev.to/anoushnet/user-connectivity-two-years-in-production-lessons-learned-and-new-patterns-3fpf)
+- [Writing JS FFI in MoonBit](https://dev.to/mizchi/writing-js-ffi-in-moonbit-jgn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
