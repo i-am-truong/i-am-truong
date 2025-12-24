@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Dependency Injection in Go: How Much Is Enough for Web APIs?](https://dev.to/mickamy/dependency-injection-in-go-how-much-is-enough-for-web-apis-hp7)
-- [Advanced SEO Explained: How We Handle It &lpar;and What It Really Means&rpar;](https://dev.to/per-starke-642/advanced-seo-explained-how-we-handle-it-and-what-it-really-means-34oh)
-- [The Proxy Paradox: Why Spring @Transactional Vanishes](https://dev.to/rajatarora/the-proxy-paradox-why-spring-transactional-vanishes-4758)
-- [Stop Pushing Work Code with Your Personal Email: The Ultimate Guide to Multiple GitHub Accounts on Windows](https://dev.to/rahulkbharti/stop-pushing-work-code-with-your-personal-email-the-ultimate-guide-to-multiple-github-accounts-on-39bg)
-- [Dark vs Bright Website Design: The Real Difference &lpar;and How to Choose the Right One&rpar;](https://dev.to/per-starke-642/dark-vs-bright-website-design-the-real-difference-and-how-to-choose-the-right-one-5b5j)
+- [AWS Elastic Beanstalk: A Beginner&#39;s Guide To Effortless Scaling](https://dev.to/akintoye_gbenga/aws-elastic-beanstalk-a-beginners-guide-to-effortless-scaling-18en)
+- [AI Isn’t Failing at Thinking. It’s Failing at Remembering.](https://dev.to/doozieakshay/ai-isnt-failing-at-thinking-its-failing-at-remembering-2pmo)
+- [How I Autoban Hackers Who Touch My Secret URLs](https://dev.to/aws-builders/how-i-autoban-hackers-who-touch-my-secret-urls-4pgc)
+- [Best Practices for Using Bug Tracking Tools Effectively](https://dev.to/carl_max007/best-practices-for-using-bug-tracking-tools-effectively-431)
+- [What AWS Certifications Don’t Teach You — Lessons from Real Cloud Projects](https://dev.to/imash24/what-aws-certifications-dont-teach-you-lessons-from-real-cloud-projects-2pl4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
