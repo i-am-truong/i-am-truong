@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [DevsTools.app: 25+ Free Dev Tools, 100% Client-Side &lpar;No Data Leaves Your Browser&rpar;](https://dev.to/hasan_zcan_6cb354f0d0fb9/devstoolsapp-25-free-dev-tools-100-client-side-no-data-leaves-your-browser-1662)
+- [Paradigm Shift in Context: Beyond MCP to Conversation-Native Development](https://dev.to/om_shree_0709/paradigm-shift-in-context-beyond-mcp-to-conversation-native-development-28mh)
+- [Adaptive Neuro-Symbolic Planning for bio-inspired soft robotics maintenance with zero-trust governance guarantees](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-bio-inspired-soft-robotics-maintenance-with-zero-trust-2837)
+- [Why I Built My Own Code Snippet Manager](https://dev.to/m_fadhilpratama_aed4f92/why-i-built-my-own-code-snippet-manager-23fc)
 - [Bare-metal frontend](https://dev.to/stasyaranov/bare-metal-frontend-18la)
-- [SpillTea](https://dev.to/akanji/spilltea-751)
-- [Building Five Dice Math: My MVP Works, But I&#39;m Not Sure It Matters](https://dev.to/mbdunson/building-five-dice-math-my-mvp-works-but-im-not-sure-it-matters-22ne)
-- [Turn Your Terminal into an AI Arsenal: A Collection of Personal Bash Helpers](https://dev.to/ayuxsec/turn-your-terminal-into-an-ai-arsenal-a-collection-of-personal-bash-helpers-olm)
-- [Entendendo o JSON Web Token &lpar;JWT&rpar;](https://dev.to/ewertoncodes/entendendo-o-json-web-token-jwt-1b38)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
