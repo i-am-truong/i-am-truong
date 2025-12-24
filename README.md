@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Use Bootstrap in a React Project &lpar;Beginner Guide&rpar;](https://dev.to/ahmad_mahboob/how-to-use-bootstrap-in-a-react-project-beginner-guide-15hi)
-- [Does ChatGPT now allow](https://dev.to/anna001/does-chatgpt-now-allow-5fd5)
-- [Running Regression Analysis with KDiff &lpar;Step-by-Step Demo&rpar;](https://dev.to/kavita_kavia/running-regression-analysis-with-kdiff-step-by-step-demo-2nkp)
-- [Tried my first article with for the current situation I faced 😊](https://dev.to/reubenwedson/tried-my-first-article-with-for-the-current-situation-i-faced-26k2)
-- [Announcing AgentHelm v0.3.0: Production-Ready AI Agent Orchestration](https://dev.to/hadywalied/announcing-agenthelm-v030-production-ready-ai-agent-orchestration-5alg)
+- [SSL/TLS Explained: From the Handshake to the Cloud ☁️](https://dev.to/rohanan07/ssltls-explained-from-the-handshake-to-the-cloud-2e5g)
+- [Monorepo vs. multiple repositories: what’s the best strategy for a growing codebase?](https://dev.to/kodus/monorepo-vs-multiple-repositories-whats-the-best-strategy-for-a-growing-codebase-ini)
+- [O&amp;M Manual Best Practices for Engineers and Facility Managers](https://dev.to/writegenic/om-manual-best-practices-for-engineers-and-facility-managers-31ni)
+- [How to Use Character.AI: A Step-by-Step Guide for Beginners](https://dev.to/seo_seo26master_29e8b33e6/how-to-use-characterai-a-step-by-step-guide-for-beginners-54o7)
+- [Brow‌ser Fingerpr‌int: An Exam‌inati‌on of Onli‌ne User Identif‌icati‌on Technol‌ogy](https://dev.to/vietnam/browser-fingerprint-an-examination-of-online-user-identification-technology-5hdk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
