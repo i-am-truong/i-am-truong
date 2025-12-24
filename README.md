@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [RaspberryPi 3 Homelab &amp; Vibe &quot;IaC&quot;](https://dev.to/massimobiagioli/raspberrypi-3-homelab-vibe-iac-g6p)
-- [Generate cloud-init files for Raspberry Pi OS without re-downloading images](https://dev.to/ktauchathuranga/generate-cloud-init-files-for-raspberry-pi-os-without-re-downloading-images-51go)
-- [[2025 Guide] AI-Driven Instagram Advertising Strategy for E-commerce](https://dev.to/getkoro_app/2025-guide-ai-driven-instagram-advertising-strategy-for-e-commerce-32m4)
-- [What is Nginx?](https://dev.to/moeinkiani/what-is-nginx-gof)
-- [State Management in WebForms Core 2 &lpar;Razor Pages Example&rpar;](https://dev.to/elanatframework/state-management-in-webforms-core-2-razor-pages-example-204f)
+- [Untitled](https://dev.to/evely_nunes_eddffe4d5d487/untitled-251n)
+- [The &quot;Prompt-to-Playable&quot; Shift: Why Gemini 3 Marks the End of Passive Media](https://dev.to/juddiy/the-prompt-to-playable-shift-why-gemini-3-marks-the-end-of-passive-media-22g9)
+- [BuildTab Construction Theme — My Site Rebuild Field Notes](https://dev.to/bashar_forrestad_27f084aa/buildtab-construction-theme-my-site-rebuild-field-notes-4il5)
+- [Apple&#39;s Guideline 5.1.2&lpar;i&rpar;: The AI Data Sharing Rule That Will Impact Every iOS Developer](https://dev.to/arshtechpro/apples-guideline-512i-the-ai-data-sharing-rule-that-will-impact-every-ios-developer-1b0p)
+- [What Is Web Design and Why Will It Be Important in 2025?](https://dev.to/omkar_fe52b1705b60f6747f4/what-is-web-design-and-why-will-it-be-important-in-2025-25ja)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
