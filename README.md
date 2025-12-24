@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Complete LinkedIn Automation Agent with ConnectSafely.AI MCP](https://dev.to/amaan_sarfaraz_15f8675671/building-a-complete-linkedin-automation-agent-with-connectsafelyai-mcp-18pn)
+- [A Beginner-Friendly Guide to Structured Query Language](https://dev.to/spiderstech/a-beginner-friendly-guide-to-structured-query-language-1b53)
 - [Integrating Resend with React Email in a Better T Stack Monorepo &lpar;Next JS &amp; Hono backend with Better Auth&rpar;](https://dev.to/reubenwedson/integrating-resend-with-react-email-in-a-better-t-stack-monorepo-next-js-hono-backend-with-3n69)
 - [Getting Started with 2D Games Using Arcade Library &lpar;Part 4&rpar;: Preparing the Player](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-arcade-library-part-4-preparing-the-player-4ja8)
 - [Shopify Conversion Psychology: How to Influence Customers and Increase Revenue](https://dev.to/websitespeedy/shopify-conversion-psychology-how-to-influence-customers-and-increase-revenue-44n7)
-- [Stock API Integration Practice: Python Access to Frankfurt Stock Exchange &lpar;FWB/Xetra&rpar; for Quantitative Analysis](https://dev.to/san_siwu_f08e7c406830469/stock-api-integration-practice-python-access-to-frankfurt-stock-exchange-fwbxetra-for-28hg)
-- [Getting Started with 2D Games Using Arcade Library &lpar;Part 3&rpar;: Displaying a Background](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-arcade-library-part-3-displaying-a-background-1hfp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
