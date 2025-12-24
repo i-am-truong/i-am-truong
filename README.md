@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SOLID: Understanding the Principles That Make Code Cleaner and More Maintainable](https://dev.to/jeandevbr/solid-understanding-the-principles-that-make-code-cleaner-and-more-maintainable-481p)
+- [Build a Knowledge-Based Q&amp;A Bot using Bedrock + S3 + DynamoDB/OpenSearch via AWS CDK](https://dev.to/katevu/build-a-knowledge-based-qa-bot-using-bedrock-s3-dynamodbopensearch-via-aws-cdk-2he9)
+- [Beyond the Autocomplete: Mastering Agentic Workflows in 2025](https://dev.to/sameer_saleem/beyond-the-autocomplete-mastering-agentic-workflows-in-2025-3ked)
+- [I launched a Prayer Times web app. What would make you use this daily? 🚀&lpar;Built with React &amp; Tailwind&rpar;](https://dev.to/ibrahimsezer/i-launched-a-prayer-times-web-app-what-would-make-you-use-this-daily-2ojm)
 - [Untitled](https://dev.to/evely_nunes_eddffe4d5d487/untitled-251n)
-- [The &quot;Prompt-to-Playable&quot; Shift: Why Gemini 3 Marks the End of Passive Media](https://dev.to/juddiy/the-prompt-to-playable-shift-why-gemini-3-marks-the-end-of-passive-media-22g9)
-- [BuildTab Construction Theme — My Site Rebuild Field Notes](https://dev.to/bashar_forrestad_27f084aa/buildtab-construction-theme-my-site-rebuild-field-notes-4il5)
-- [Apple&#39;s Guideline 5.1.2&lpar;i&rpar;: The AI Data Sharing Rule That Will Impact Every iOS Developer](https://dev.to/arshtechpro/apples-guideline-512i-the-ai-data-sharing-rule-that-will-impact-every-ios-developer-1b0p)
-- [What Is Web Design and Why Will It Be Important in 2025?](https://dev.to/omkar_fe52b1705b60f6747f4/what-is-web-design-and-why-will-it-be-important-in-2025-25ja)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
