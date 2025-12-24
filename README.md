@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Quantum Error Correction Zootopia](https://dev.to/doraking/quantum-error-correction-zootopia-2l0k)
+- [AWS CDK 100 Drill Exercises #004: NAT Instance V2 — Cost-Effective NAT with Automated Scheduling and Patch Management](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-004-nat-instance-v2-cost-effective-nat-with-automated-scheduling-49li)
+- [Observability for Resilience on Amazon EKS with OpenTelemetry + Datadog &lpar;Free Tier&rpar;](https://dev.to/aws-builders/observability-for-resilience-on-amazon-eks-with-opentelemetry-datadog-free-tier-4a6c)
+- [AI Agents 2025: Why AutoGPT and CrewAI Still Struggle with Autonomy](https://dev.to/dataformathub/ai-agents-2025-why-autogpt-and-crewai-still-struggle-with-autonomy-48l0)
 - [AWS App Runner vs ECS Express Mode: Git, ECR, Scaling, and Security Explained](https://dev.to/aws-builders/aws-app-runner-vs-ecs-express-mode-git-ecr-scaling-and-security-explained-5673)
-- [How to Test Healthcare APIs End-to-End Without Manual Test Scripts](https://dev.to/engroso/how-to-test-healthcare-apis-end-to-end-without-manual-test-scripts-5bp)
-- [Revolutionizing Language Learning for Kids: The Dex Camera](https://dev.to/ayodele_jolayemi_a4bcec81/revolutionizing-language-learning-for-kids-the-dex-camera-4k5k)
-- [Day 74: Python Validate IPv4 Address – String Parsing Mastery for Perfect IP Check &lpar;No Libraries Needed&rpar;](https://dev.to/shahrouzlogs/day-74-python-validate-ipv4-address-string-parsing-mastery-for-perfect-ip-check-no-libraries-4opb)
-- [Choosing the Right C++ Containers for Performance](https://dev.to/vivekbhadra/choosing-the-right-c-containers-for-performance-3a20)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
