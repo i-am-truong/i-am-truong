@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AWS VPC Lattice: Simplifying Application Networking 🚀](https://dev.to/omarmfathy219/aws-vpc-lattice-simplifying-application-networking-2oen)
+- [From Alerts to Answers: AWS Security Hub &amp; Amazon Detective](https://dev.to/aws-builders/from-alerts-to-answers-aws-security-hub-amazon-detective-mel)
+- [Apache Spark: The Engine Powering the Modern Data Revolution](https://dev.to/tech_croc_f32fbb6ea8ed4/apache-spark-the-engine-powering-the-modern-data-revolution-30eh)
+- [Day 0: Launching OneTimeShare30 - My 30-Day Public Build Challenge](https://dev.to/aayushbankar/day-0-launching-onetimeshare30-my-30-day-public-build-challenge-4cb2)
 - [2025 ~ Year of Enlightenment](https://dev.to/annavi11arrea1/2025-year-of-enlightenment-ifb)
-- [Getting Started with Amazon ECS Express Mode](https://dev.to/aws-builders/getting-started-with-amazon-ecs-express-mode-37kp)
-- [Manage Message Queues Using Amazon SQS](https://dev.to/aws-builders/manage-message-queues-using-amazon-sqs-1dcd)
-- [Vibe Coding vs. Engenharia Assistida por IA: Onde você está no espectro?](https://dev.to/edu_betim/vibe-coding-vs-engenharia-assistida-por-ia-onde-voce-esta-no-espectro-476f)
-- [Day-15 From &quot;It Works on My Machine&quot; to Automation: Learning Jenkins and Docker](https://dev.to/jayanth_dasari_7/day-15-from-it-works-on-my-machine-to-automation-learning-jenkins-and-docker-1kij)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
