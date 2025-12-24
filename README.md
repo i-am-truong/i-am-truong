@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Asynchronous backend on modern C++ 23.](https://dev.to/__c6aaeb3444a3/asynchronous-backend-on-modern-c-23-233d)
-- [股票 API 对接, 接入德国法兰克福交易所&lpar;FWB/Xetra&rpar;实现量化分析](https://dev.to/stockfx/gu-piao-api-dui-jie-jie-ru-de-guo-fa-lan-ke-fu-jiao-yi-suo-fwbxetrashi-xian-liang-hua-fen-xi-4f9p)
-- [Prompt Engineering Is Fragile — Human–AI Collaboration Is the Real Interface](https://dev.to/yuer/prompt-engineering-is-fragile-human-ai-collaboration-is-the-real-interface-5dfl)
-- [Why I Hard-Code &quot;Sleep Mode&quot; into My Trading Logic on Christmas Eve](https://dev.to/sutantoongsemfin/why-i-hard-code-sleep-mode-into-my-trading-logic-on-christmas-eve-1h6f)
-- [Integrating Notion, Search, and Code Docs: Building a Unified Knowledge Hub with Vezlo](https://dev.to/ashford_ai/integrating-notion-search-and-code-docs-building-a-unified-knowledge-hub-with-vezlo-3a52)
+- [I scraped 6,000+ n8n workflows and built a search engine with interactive previews](https://dev.to/zo_aoo_a1c156254fcefb2e61/i-scraped-6000-n8n-workflows-and-built-a-search-engine-with-interactive-previews-4jfk)
+- [Building a Dummy Service Centre Website Taught Me More Than Any Assignment](https://dev.to/abu_zafar_0007/building-a-dummy-service-centre-website-taught-me-more-than-any-assignment-32h8)
+- [What Happens When You Type a URL and Press Enter](https://dev.to/dev-alamin/what-happens-when-you-type-a-url-and-press-enter-13kh)
+- [10 Things Every Programmer Must Do Before Launching a Website 🚀](https://dev.to/yurie_scanner_1337/10-things-every-programmer-must-do-before-launching-a-website-1b0a)
+- [How AI Agents Integrate with Enterprise Systems and APIs to Perform Actions](https://dev.to/alex_sebastian/how-ai-agents-integrate-with-enterprise-systems-and-apis-to-perform-actions-2boi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
