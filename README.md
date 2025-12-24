@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mastering interrupt handling in your kernel](https://dev.to/vhajsman/mastering-interrupt-handling-in-your-kernel-b5)
-- [Why do Article 120 defendants feel disadvantaged by unequal resources?](https://dev.to/ali_hamza_79a3d9fdbe20917/why-do-article-120-defendants-feel-disadvantaged-by-unequal-resources-dj4)
-- [What 4 Years on the Fast Track Taught Me About My Career: From Dropping Out to Leading a Production Application](https://dev.to/kgthedev/what-4-years-on-the-fast-track-taught-me-about-my-career-from-dropping-out-to-leading-a-production-58fi)
-- [Hello World; You Don’t Qualify for the AWS Community Builders Program](https://dev.to/aws-builders/hello-world-you-dont-qualify-for-the-aws-community-builders-program-2i3m)
-- [Ugly Sweater CSS: Jawa&#39;s Back the Return of the Droids.](https://dev.to/jarvisscript/ugly-sweater-css-jawas-back-the-return-of-the-droids-42cg)
+- [Getting Started with 2D Games Using Tkinter &lpar;Part 4&rpar;: Creating Sprites](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-tkinter-part-4-creating-sprites-52jl)
+- [Stripe Payment Links in Python: The 5-Minute Integration](https://dev.to/claudeprime/stripe-payment-links-in-python-the-5-minute-integration-3ln6)
+- [From Prototype to Runtime: Operationalizing AI Agents on Amazon Bedrock AgentCore](https://dev.to/srinivasan-aws/from-prototype-to-runtime-operationalizing-ai-agents-on-amazon-bedrock-agentcore-fbi)
+- [How does API work? WHere&#39;s the manual?](https://dev.to/surhidamatya/how-does-api-work-wheres-the-manual-44he)
+- [Caddy + Flask: The Simplest Production Deployment](https://dev.to/claudeprime/caddy-flask-the-simplest-production-deployment-nkb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
