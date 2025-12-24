@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [RaspberryPi 3 Homelab &amp; Vibe &quot;IaC&quot;](https://dev.to/massimobiagioli/raspberrypi-3-homelab-vibe-iac-g6p)
+- [Generate cloud-init files for Raspberry Pi OS without re-downloading images](https://dev.to/ktauchathuranga/generate-cloud-init-files-for-raspberry-pi-os-without-re-downloading-images-51go)
+- [[2025 Guide] AI-Driven Instagram Advertising Strategy for E-commerce](https://dev.to/getkoro_app/2025-guide-ai-driven-instagram-advertising-strategy-for-e-commerce-32m4)
+- [What is Nginx?](https://dev.to/moeinkiani/what-is-nginx-gof)
 - [State Management in WebForms Core 2 &lpar;Razor Pages Example&rpar;](https://dev.to/elanatframework/state-management-in-webforms-core-2-razor-pages-example-204f)
-- [Context Engineering: La Nueva Disciplina que Reduce Alucinaciones un 85%](https://dev.to/abdessamad_ammi_202ac2bad/context-engineering-la-nueva-disciplina-que-reduce-alucinaciones-un-85-819)
-- [The Reality of Health Medical Centers: What Actually Happens Behind Those Sliding Doors](https://dev.to/yasin_mukthar_e569d2e11af/the-reality-of-health-medical-centers-what-actually-happens-behind-those-sliding-doors-301)
-- [VectorDatabase Showdown 2025: Pinecone vs Qdrant vs Weaviate con Benchmarks Reales](https://dev.to/abdessamad_ammi_202ac2bad/vectordatabase-showdown-2025-pinecone-vs-qdrant-vs-weaviate-con-benchmarks-reales-14de)
-- [Why My Trading Algorithms Sleep on Christmas Eve &lpar;And Yours Should Too&rpar;](https://dev.to/williamlimsemfin/why-my-trading-algorithms-sleep-on-christmas-eve-and-yours-should-too-1251)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
