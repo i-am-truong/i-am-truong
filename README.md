@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Swapping Redux and Jotai Without Touching UI: A Production-Grade Frontend Pattern](https://dev.to/nitinnair89/swapping-redux-and-jotai-without-touching-ui-a-production-grade-frontend-pattern-1o7m)
-- [The future of development belongs to teams that understand this distinction: Code is no longer the product. Behaviour is.](https://dev.to/jaideepparashar/the-future-of-development-belongs-to-teams-that-understand-this-distinction-code-is-no-longer-the-45pg)
-- [7 Best Resources to Learn Angular: My Personal Journey &amp; Picks](https://dev.to/stack_overflowed/7-best-resources-to-learn-angular-my-personal-journey-picks-5g15)
-- [The Quiet Revolution in Developer Workflows: Why Static Code Is Dying](https://dev.to/jaideepparashar/the-quiet-revolution-in-developer-workflows-why-static-code-is-dying-2o1k)
-- [Python-based vs Go-based: What Changes When an LLM Gateway Becomes Infrastructure](https://dev.to/debmckinney/python-based-vs-go-based-what-changes-when-an-llm-gateway-becomes-infrastructure-4bko)
+- [The Day I Realized My Brain Was Tired, Not My Body](https://dev.to/jamesmiller25/the-day-i-realized-my-brain-was-tired-not-my-body-36ko)
+- [Understanding AGI vs ANI: A Beginner’s Guide to Artificial Intelligence](https://dev.to/codeneuron/understanding-agi-vs-ani-a-beginners-guide-to-artificial-intelligence-2624)
+- [The Future of Angular Reactive Forms](https://dev.to/devang18/the-future-of-angular-reactive-forms-4cl7)
+- [A coding challenge a week - can you complete all 52?](https://dev.to/program52/a-challenge-a-week-can-you-complete-all-52-cdo)
+- [🚀 Terraform Day 16: Bulk IAM User Management Using Terraform &lpar;CSV AWS&rpar;](https://dev.to/jeeva_5c84a254e90842940dd/terraform-day-16-bulk-iam-user-management-using-terraform-csv-aws-4b92)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
