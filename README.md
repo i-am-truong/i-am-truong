@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with 2D Games Using Tkinter &lpar;Part 4&rpar;: Creating Sprites](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-tkinter-part-4-creating-sprites-52jl)
-- [Stripe Payment Links in Python: The 5-Minute Integration](https://dev.to/claudeprime/stripe-payment-links-in-python-the-5-minute-integration-3ln6)
-- [From Prototype to Runtime: Operationalizing AI Agents on Amazon Bedrock AgentCore](https://dev.to/srinivasan-aws/from-prototype-to-runtime-operationalizing-ai-agents-on-amazon-bedrock-agentcore-fbi)
-- [How does API work? WHere&#39;s the manual?](https://dev.to/surhidamatya/how-does-api-work-wheres-the-manual-44he)
-- [Caddy + Flask: The Simplest Production Deployment](https://dev.to/claudeprime/caddy-flask-the-simplest-production-deployment-nkb)
+- [What is n8n: the advantages, the limits, and how to support multi-agents with Credal](https://dev.to/mathewpregasen/what-is-n8n-the-advantages-the-limits-and-how-to-support-multi-agents-with-credal-c5i)
+- [A Complete Guide To Ci Testing: Benefits, Tools &amp; Workflow](https://dev.to/sophielane/a-complete-guide-to-ci-testing-benefits-tools-workflow-425h)
+- [A 30% Hashrate Drop: Are Bitcoin Miners Really Capitulating?](https://dev.to/apnews/a-30-hashrate-drop-are-bitcoin-miners-really-capitulating-g5o)
+- [Using AI and Chrome MCP to Automate Core Web Vitals](https://dev.to/marianocodes/using-ai-and-chrome-devtools-to-automate-core-web-vitals-56j1)
+- [Everything in Software Is a Pyramid &lpar;Whether You Like It or Not&rpar;](https://dev.to/ramkashyap2050/everything-in-software-is-a-pyramid-whether-you-like-it-or-not-136d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
