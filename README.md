@@ -120,13 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Protocolli di Rete Essenziali da Capire](https://dev.to/scape/i-protocolli-di-rete-essenziali-da-capire-fmm)
-- [Some people are becoming exceptional tool users. Others are becoming system builders.
-
-Over time, the second group will quietly replace the first, and that’s not a threat. It’s a natural evolution.](https://dev.to/jaideepparashar/some-people-are-becoming-exceptional-tool-users-others-are-becoming-system-builders-over-time-49cp)
-- [System Builders Will Replace Tool Users: And That’s a Good Thing](https://dev.to/jaideepparashar/system-builders-will-replace-tool-users-and-thats-a-good-thing-4dj6)
-- [GitHub Actions: From Zero to Production&lpar;EP1&rpar;🚀](https://dev.to/vishwark/github-actions-from-zero-to-production-kmb)
-- [Cross Platform Application](https://dev.to/hardyweb/cross-platform-application-493n)
+- [You Probably Don&#39;t Need Redis for Distributed Locking](https://dev.to/vibhanshu909/you-probably-dont-need-redis-for-distributed-locking-155k)
+- [🚀 GLM 4.7 : Is the era of &quot;expensive-only&quot; SOTA models ending?](https://dev.to/_aparna_pradhan_/glm-47-is-the-era-of-expensive-only-sota-models-ending-1eol)
+- [DreamFace 2025: The Best Avatar Video Generator for Global Creators](https://dev.to/herman99630/dreamface-2025-the-best-avatar-video-generator-for-global-creators-4jm6)
+- [The Perfect Extraction: Unlocking Unstructured Data with Docling + LangExtract 🚀](https://dev.to/_aparna_pradhan_/the-perfect-extraction-unlocking-unstructured-data-with-docling-langextract-1j3b)
+- [From Panelist &amp; Mentor to Speaker to AWS Certified – A Defining Week in My AWS Journey](https://dev.to/aws-builders/from-panelist-mentor-to-speaker-to-aws-certified-a-defining-week-in-my-aws-journey-2pkm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
