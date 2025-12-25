@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SmartKNN v2 Is Here - Low-Latency, Scalable, and Built for Real-World ML](https://dev.to/jashwanth_thatipamula_8ee/smartknn-v2-is-here-low-latency-scalable-and-built-for-real-world-ml-5gcb)
+- [AlgoExpert vs Educative: Which Platform Is Better for 2025?](https://dev.to/alex_hunter_44f4c9ed6671e/algoexpert-vs-educative-which-platform-is-better-for-2025-cfn)
 - [Make Vim Useful Again with VEX](https://dev.to/m__mdy__m/make-vim-useful-again-with-vex-mah)
 - [The 20-Minute Miracle: How PowerShell Ends the &quot;Manual Grind&quot; in Azure](https://dev.to/rajatjangra2653/the-20-minute-miracle-how-powershell-ends-the-manual-grind-in-azure-1p73)
-- [Reliable Data with AWS Glue Data Quality](https://dev.to/aws-builders/reliable-data-with-aws-glue-data-quality-5cj2)
-- [Best SaaS Dashboard Templates](https://dev.to/tailwindadmin/best-saas-dashboard-templates-22m6)
-- [GLM-4.7 Now on SiliconFlow: Advanced Coding, Reasoning &amp; Tool Use Capabilities](https://dev.to/siliconflow/glm-47-now-on-siliconflow-advanced-coding-reasoning-tool-use-capabilities-41o8)
+- [Secure Identity and Access Management with AWS IAM](https://dev.to/aws-builders/secure-identity-and-access-management-with-aws-iam-2c8g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
