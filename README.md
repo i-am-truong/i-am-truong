@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [HTML &lt;abbr&gt; Tag 📝](https://dev.to/ale3oula/html-tag-57l4)
+- [Something big is coming… Say goodbye to manual data entry](https://dev.to/scannyai/something-big-is-coming-say-goodbye-to-manual-data-entry-417l)
+- [Balancing delivery speed and code quality in scaling startups](https://dev.to/ed_dfreitas/balancing-delivery-speed-and-code-quality-in-scaling-startups-29nf)
 - [Build in Public: Week 7. Shipping While Tired &lpar;or: Still Alive, Surprisingly&rpar;](https://dev.to/olgabraginskaya/build-in-public-week-7-shipping-while-tired-or-still-alive-surprisingly-2k80)
 - [Week 2 Scripting Challenge: Log Parser](https://dev.to/fosres/week-2-scripting-challenge-log-parser-4fad)
-- [Getting Started with Docker](https://dev.to/ethan_zhang_e501fea89c25b/getting-started-with-docker-el1)
-- [My Article Title From File](https://dev.to/ethan_zhang_e501fea89c25b/my-article-title-from-file-jkb)
-- [Accelerating Cures: How IQVIA Scales AI with NVIDIA and AWS 🧬🚀](https://dev.to/karen_tam_3e10b93a14f058a/accelerating-cures-how-iqvia-scales-ai-with-nvidia-and-aws-1i7n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
