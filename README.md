@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I finally stopped writing try-catch in every Express controller &lpar;and you should too&rpar;](https://dev.to/nse569h/i-finally-stopped-writing-try-catch-in-every-express-controller-and-you-should-too-40p2)
-- [NOAA::Aurora for Space Weather Forecasts](https://dev.to/dkechag/noaaaurora-for-space-weather-forecasts-793)
-- [I Built a Risk-Driven Stock Portfolio Optimizer &lpar;And What I Learned&rpar;](https://dev.to/dany_trakhtenberg/i-built-a-risk-driven-stock-portfolio-optimizer-and-what-i-learned-49ai)
-- [I Stopped Automating ecisions with AI — and Designed a Better Collaboration Instead](https://dev.to/yuer/i-stopped-automating-ecisions-with-ai-and-designed-a-better-collaboration-instead-9b1)
-- [I Built a VS Code Extension to Visualize JSON as Tree Diagrams](https://dev.to/hugohbrt/i-built-a-vs-code-extension-to-visualize-json-as-tree-diagrams-5g7b)
+- [`Ractor::Port` - Revamping the Ractor API](https://dev.to/ko1/ractorport-revamping-the-ractor-api-98)
+- [Coffee Break AI Update: 5 Game-Changing AI Developments You Need to Know About Today](https://dev.to/ethan_zhang_e501fea89c25b/coffee-break-ai-update-5-game-changing-ai-developments-you-need-to-know-about-today-27a4)
+- [AI Photo Enhancer for Developers: APIs, Automation, and Modern Workflows](https://dev.to/aienhancer/ai-photo-enhancer-for-developers-apis-automation-and-modern-workflows-1cg9)
+- [TOP 20 BEST Wedding Dance Songs of All Time ❤️‍🔥 First Dance ONLINE](https://dev.to/placecard/top-20-best-wedding-dance-songs-of-all-time-first-dance-online-1ggh)
+- [Exporting DataTable to Excel from Database in .NET: A Practical Guide](https://dev.to/yahey/exporting-datatable-to-excel-from-database-in-net-a-practical-guide-3m7h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
