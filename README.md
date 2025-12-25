@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [You Probably Don&#39;t Need Redis for Distributed Locking](https://dev.to/vibhanshu909/you-probably-dont-need-redis-for-distributed-locking-155k)
-- [🚀 GLM 4.7 : Is the era of &quot;expensive-only&quot; SOTA models ending?](https://dev.to/_aparna_pradhan_/glm-47-is-the-era-of-expensive-only-sota-models-ending-1eol)
-- [DreamFace 2025: The Best Avatar Video Generator for Global Creators](https://dev.to/herman99630/dreamface-2025-the-best-avatar-video-generator-for-global-creators-4jm6)
-- [The Perfect Extraction: Unlocking Unstructured Data with Docling + LangExtract 🚀](https://dev.to/_aparna_pradhan_/the-perfect-extraction-unlocking-unstructured-data-with-docling-langextract-1j3b)
-- [From Panelist &amp; Mentor to Speaker to AWS Certified – A Defining Week in My AWS Journey](https://dev.to/aws-builders/from-panelist-mentor-to-speaker-to-aws-certified-a-defining-week-in-my-aws-journey-2pkm)
+- [How many Exercises do you have to know?](https://dev.to/bibimbop123/how-many-exercises-do-i-have-to-know-9n9)
+- [Why Good API Documentation Feels Invisible &lpar;Until It’s Missing&rpar;](https://dev.to/surhidamatya/why-good-api-documentation-feels-invisible-until-its-missing-28h8)
+- [What breaks trust in authentication UX](https://dev.to/antonmb/what-breaks-trust-in-authentication-ux-4kfo)
+- [c# interview questions](https://dev.to/shahzad111111/c-interview-questions-562o)
+- [Node.js Version Management with nvm](https://dev.to/godofgeeks/nodejs-version-management-with-nvm-ee7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
