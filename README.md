@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Own Block Cipher: Part 3 - AES](https://dev.to/dmytro_huz/building-own-block-cipher-part-3-aes-5fd8)
 - [Why Every Developer Should Deploy on a VPS at Least Once](https://dev.to/drdrunkenstien/why-every-developer-should-deploy-on-a-vps-at-least-once-lcg)
 - [[2025 Guide] AI-Driven Advertising Solutions for Marketing Automation](https://dev.to/getkoro_app/2025-guide-ai-driven-advertising-solutions-for-marketing-automation-4cb0)
 - [How I built my first AI Uptime Tracker as a &quot;coding newbie&quot;](https://dev.to/vicky_tsin_4aa76206a36899/how-i-built-my-first-ai-uptime-tracker-as-a-coding-newbie-2phc)
 - [Fast-track your tech career vs a traditional degree](https://dev.to/ajia_ali_fb5a7b00f0318020/fast-track-your-tech-career-vs-a-traditional-degree-4aan)
-- [Amazon EKS From The Ground Up - Part 1: Control Plane &amp; Infrastructure](https://dev.to/posibble/amazon-eks-from-the-ground-up-part-1-control-plane-infrastructure-47pf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
