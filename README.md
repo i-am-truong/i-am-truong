@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Every PropTech Startup Needs a Feasibility Engine](https://dev.to/abdul_shamim/why-every-proptech-startup-needs-a-feasibility-engine-35do)
-- [Getting Started with AI on AWS: A Practical Guide](https://dev.to/vasil_shaikh_f2c13100cab1/getting-started-with-ai-on-aws-a-practical-guide-3koa)
-- [Goodbye Hidden Fields: Modern CSRF Protection Without Tokens](https://dev.to/jsgurujobs/goodbye-hidden-fields-modern-csrf-protection-without-tokens-4pam)
-- [iPhone storage full? Check your System Data.](https://dev.to/aibuddyinc/iphone-storage-full-check-your-system-data-ikl)
-- [CinemaSins: Everything Wrong With Red One In 18 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-red-one-in-18-minutes-or-less-3229)
+- [A Definitive Guide to Warehouse Utilisation](https://dev.to/devopsking/a-definitive-guide-to-warehouse-utilisation-3b33)
+- [Why Most Telecom Network APIs Fail Like Bad SaaS Products](https://dev.to/abdul_shamim/why-most-telecom-network-apis-fail-like-bad-saas-products-6id)
+- [Understanding AWS Network Firewall: Traffic Flow, Rules, and Logging](https://dev.to/soumi_c875ca4/understanding-aws-network-firewall-traffic-flow-rules-and-logging-4ko5)
+- [Google Login with Supabase : What Each Provider is Really Doing](https://dev.to/cathylai/google-login-with-supabase-what-each-provider-is-really-doing-18b6)
+- [Consultas geoespaciais com PostGIS](https://dev.to/lucaspereiradesouzat/consultas-geoespaciais-com-postgis-1o1m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
