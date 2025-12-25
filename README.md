@@ -120,11 +120,13 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Tiny Local AI: The Pocket Superpower Hiding in Plain Sight](https://dev.to/aiwithapex/tiny-local-ai-the-pocket-superpower-hiding-in-plain-sight-3hnk)
-- [Reading Ruby 4.0 NEWS with Pros](https://dev.to/ko1/reading-ruby-40-news-with-pros-3mln)
-- [14 Design Mistakes Developers Make &lpar;and How to Fix Them With Examples&rpar;](https://dev.to/manukumar07/14-design-mistakes-developers-make-and-how-to-fix-them-with-examples-2mh4)
-- [Scrapy Items: The Complete Beginner&#39;s Guide &lpar;Why You Should Stop Using Dictionaries&rpar;](https://dev.to/ikram_khan/scrapy-items-the-complete-beginners-guide-why-you-should-stop-using-dictionaries-4hfi)
-- [Exploratory Data Analysis &lpar;EDA&rpar;](https://dev.to/ram_vnet_f71e560ae27f2cae/exploratory-data-analysis-eda-4dpi)
+- [I Protocolli di Rete Essenziali da Capire](https://dev.to/scape/i-protocolli-di-rete-essenziali-da-capire-fmm)
+- [Some people are becoming exceptional tool users. Others are becoming system builders.
+
+Over time, the second group will quietly replace the first, and that’s not a threat. It’s a natural evolution.](https://dev.to/jaideepparashar/some-people-are-becoming-exceptional-tool-users-others-are-becoming-system-builders-over-time-49cp)
+- [System Builders Will Replace Tool Users: And That’s a Good Thing](https://dev.to/jaideepparashar/system-builders-will-replace-tool-users-and-thats-a-good-thing-4dj6)
+- [GitHub Actions: From Zero to Production&lpar;EP1&rpar;🚀](https://dev.to/vishwark/github-actions-from-zero-to-production-kmb)
+- [Cross Platform Application](https://dev.to/hardyweb/cross-platform-application-493n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
