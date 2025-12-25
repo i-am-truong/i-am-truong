@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to fix the problem of the right side being completely black when creating a function to convert a web page to PDF](https://dev.to/kazutora_hattori_66972c88/how-to-fix-the-problem-of-the-right-side-being-completely-black-when-creating-a-function-to-convert-56d8)
-- [RDP vs VPS: Which is Best for AI Model Training?](https://dev.to/john_rdpextra/rdp-vs-vps-which-is-best-for-ai-model-training-4dkk)
-- [Do you remember what a Function is?](https://dev.to/andrew1931/do-you-remember-what-a-function-is-12ln)
-- [Monetzly: Transforming AI Conversations into Developer Revenue](https://dev.to/monetzly/monetzly-transforming-ai-conversations-into-developer-revenue-b55)
-- [Synchronized, Interactive, Realtime or Animated Data Visualizations on Video Walls](https://dev.to/bkavuncu/synchronized-interactive-realtime-or-animated-data-visualizations-on-video-walls-4anh)
+- [Rahsi™ SharePoint Online Throttling | Internals, Limits and Survival Patterns &lpar;Copilot Era Edition&rpar;](https://dev.to/aakash_rahsi_8d28156d5f2c/rahsi-sharepoint-online-throttling-internals-limits-and-survival-patterns-copilot-era-edition-p9n)
+- [When Sleep Became a Problem](https://dev.to/toklas495/when-sleep-became-a-problem-17j1)
+- [Cross-Modal Knowledge Distillation for smart agriculture microgrid orchestration with embodied agent feedback loops](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-smart-agriculture-microgrid-orchestration-with-embodied-3pak)
+- [Your Code is a Liability: Why Documentation is the Only Asset That Matters](https://dev.to/huizhudev/your-code-is-a-liability-why-documentation-is-the-only-asset-that-matters-2e93)
+- [Establishing the zero-trust standard for AI agents. We want to move the industry from just &quot;monitoring&quot; AI to actually &quot;controlling&quot; it—where every autonomous action is replay-verifiable, CI-enforced, and cryptographically proven.](https://dev.to/lola0786/establishing-the-zero-trust-standard-for-ai-agents-we-want-to-move-the-industry-from-just-5f0a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
