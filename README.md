@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Only Safe Way to Import Legacy Docs: Question-Driven Context Integration](https://dev.to/synthaicode_commander/the-only-safe-way-to-import-legacy-docs-question-driven-context-integration-408b)
-- [I plan to develop a wired Android Auto to wireless Android Auto device using the ESP32-S3.](https://dev.to/_af0262ac803558bfa0ca9d/i-plan-to-develop-a-wired-android-auto-to-wireless-android-auto-device-using-the-esp32-s3-48j9)
-- [Native HTML Dialogs with HTMX](https://dev.to/robodobdob/native-html-dialogs-with-htmx-50i2)
-- [Building a Privacy-First Cryptocurrency from Scratch with Substrate](https://dev.to/missed2009/building-a-privacy-first-cryptocurrency-from-scratch-with-substrate-3ki6)
-- [Day 33 of improving my Data Science skills🎄](https://dev.to/sp_the_data_specialist/day-33-of-improving-my-data-science-skills-mkl)
+- [Aurora Serverless v2: When &quot;I/O Optimized&quot; Actually Costs You More](https://dev.to/aws-builders/aurora-serverless-v2-when-io-optimized-actually-costs-you-more-4bb2)
+- [Indexes and the Rise of the DBMS](https://dev.to/lovestaco/indexes-and-the-rise-of-the-dbms-1n0p)
+- [Core Premise of Function in JavaScript](https://dev.to/sinhasagar01/functions-5bab)
+- [I built a local-first VS Code extension to track my development work](https://dev.to/genomorph_pvtltd_6dcfc/i-built-a-local-first-vs-code-extension-to-track-my-development-work-3pa8)
+- [I Monkey-Patched Python to Stop AI Agents from Accessing Private Networks](https://dev.to/ziling-failcore/i-monkey-patched-python-to-stop-ai-agents-from-accessing-private-networks-24h2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
