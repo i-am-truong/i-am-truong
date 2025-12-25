@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [iMessage Enrichment in Clay: Boost Your Outreach with Real-Time Contact Detection](https://dev.to/blooio/imessage-enrichment-in-clay-boost-your-outreach-with-real-time-contact-detection-1ick)
+- [Why Your ChatGPT Images Fail?](https://dev.to/flatratemechanic1glitch/why-your-chatgpt-images-fail-3nbl)
+- [LAION-400M: Open Dataset of CLIP-Filtered 400 Million Image-Text Pairs](https://dev.to/paperium/laion-400m-open-dataset-of-clip-filtered-400-million-image-text-pairs-kgk)
 - [No Foreign Keys in MongoDB: Rethinking Referential Integrity](https://dev.to/franckpachot/no-foreign-keys-in-mongodb-rethinking-referential-integrity-1b9b)
-- [Technologies Behind Ubuntu: A Deep Dive into the Linux Powerhouse](https://dev.to/nube_colectiva_nc/technologies-behind-ubuntu-a-deep-dive-into-the-linux-powerhouse-586d)
-- [GitHub Copilot vs Cursor vs Windsurf vs AntiGravity](https://dev.to/joaquin_sez_6de09e190ca1/github-copilot-vs-cursor-vs-windsurf-vs-antigravity-152d)
-- [12. Integer to Roman | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/12-integer-to-roman-leetcode-top-interview-150-coding-questions-20c4)
-- [The Future of DevOps: Key Trends Shaping 2025 and Beyond](https://dev.to/meena_nukala/the-future-of-devops-key-trends-shaping-2025-and-beyond-56eo)
+- [Ruby GUIs Are Dead… Or Are They?](https://dev.to/urshayan/ruby-guis-are-dead-or-are-they-500n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
