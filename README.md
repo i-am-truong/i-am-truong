@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Set Up Your First IAM User in 5 Minutes on AWS](https://dev.to/cyberhack08/how-to-set-up-your-first-iam-user-in-5-minutes-on-aws-2np2)
+- [2025-12-25 Daily Robotics News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-25-daily-robotics-news-pf2)
+- [2025-12-25 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-25-daily-ai-news-283k)
 - [New PostgreSQL Features I Developed in 2025](https://dev.to/shinyakato_/new-postgresql-features-i-developed-in-2025-3lca)
 - [iMessage Enrichment in Clay: Boost Your Outreach with Real-Time Contact Detection](https://dev.to/blooio/imessage-enrichment-in-clay-boost-your-outreach-with-real-time-contact-detection-1ick)
-- [Why Your ChatGPT Images Fail?](https://dev.to/flatratemechanic1glitch/why-your-chatgpt-images-fail-3nbl)
-- [LAION-400M: Open Dataset of CLIP-Filtered 400 Million Image-Text Pairs](https://dev.to/paperium/laion-400m-open-dataset-of-clip-filtered-400-million-image-text-pairs-kgk)
-- [No Foreign Keys in MongoDB: Rethinking Referential Integrity](https://dev.to/franckpachot/no-foreign-keys-in-mongodb-rethinking-referential-integrity-1b9b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
