@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [x402: Turning HTTP 402 into a Real Payment Primitive](https://dev.to/caerlower/x402-turning-http-402-into-a-real-payment-primitive-5077)
-- [Using AI is not cheating!](https://dev.to/googleworkspace/using-ai-is-not-cheating-365j)
-- [Holonomic Systems: What Arthur Koestler Can Teach Us About Software Architecture](https://dev.to/felipeness/holonomic-systems-what-arthur-koestler-can-teach-us-about-software-architecture-29hf)
-- [Day 17 of #30DaysofAWSTerraform: Blue-Green Deployment with Elastic Beanstalk &lpar;The Hard Way&rpar;](https://dev.to/alafiz/day-17-of-30daysofawsterraform-blue-green-deployment-with-elastic-beanstalk-the-hard-way-5cag)
-- [Sistemas Holonômicos: O Que Arthur Koestler Pode Ensinar Sobre Arquitetura de Software](https://dev.to/felipeness/sistemas-holonomicos-o-que-arthur-koestler-pode-ensinar-sobre-arquitetura-de-software-3hfl)
+- [Recreate Physical Calendar Notes Digitally — With Absolute Privacy](https://dev.to/techno_kraft_in/recreate-physical-calendar-notes-digitally-with-absolute-privacy-32la)
+- [The Electron Framework and modern apps](https://dev.to/gabrieljemail/the-electron-framework-and-modern-apps-286h)
+- [How to sharing TypeScript codes Across Frontend and Backend in a Monorepo](https://dev.to/aoda-zhang/making-a-typescript-shared-package-work-across-frontend-and-backend-in-a-monorepo-1k23)
+- [Machine Learning Ecosystem in PHP](https://dev.to/samuel_akopyan_e902195a96/the-ml-ecosystem-in-php-3200)
+- [Using a Raspberry Pi as a Home Router](https://dev.to/faaizz/using-a-raspberry-pi-as-a-home-router-51l2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
