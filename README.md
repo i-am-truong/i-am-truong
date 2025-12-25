@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Maximize Profit Potential in AI with Monetzly&#39;s Ad Model](https://dev.to/monetzly/maximize-profit-potential-in-ai-with-monetzlys-ad-model-c1d)
+- [Apple&#39;s New Mini App Rules: Comply or Face App Store Removal](https://dev.to/arshtechpro/apples-guideline-47-update-what-every-developer-hosting-html5-mini-apps-must-know-90)
+- [Finally the demo login is Ready!!](https://dev.to/vigneshwaralingam/finally-the-demo-login-is-ready-3cin)
 - [I Built a Maze Runner Simulation Where Teenage Sam Altman Survives the Glade December 25, 2025](https://dev.to/ilyarah/i-built-a-maze-runner-simulation-where-teenage-sam-altman-survives-the-glade-december-25-2025-1ikk)
 - [I&#39;ve been working on a personal finance app called FinVantage, and I recently hit a roadblock](https://dev.to/zeta_byte/ive-been-working-on-a-personal-finance-app-called-finvantage-and-i-recently-hit-a-roadblock-4mjh)
 - [How I Became an AWS Community Builder &lpar;Security&rpar; – My Real Journey + Application Guide](https://dev.to/aws-builders/how-i-became-an-aws-community-builder-security-my-real-journey-application-guide-22kp)
-- [Rethinking Absence: A Gentle Introduction to the Option Type in TypeScript](https://dev.to/vlad_rasenko/rethinking-absence-a-gentle-introduction-to-the-option-type-in-typescript-4p1e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
