@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [HTML &lt;abbr&gt; Tag 📝](https://dev.to/ale3oula/html-tag-57l4)
-- [Something big is coming… Say goodbye to manual data entry](https://dev.to/scannyai/something-big-is-coming-say-goodbye-to-manual-data-entry-417l)
-- [Balancing delivery speed and code quality in scaling startups](https://dev.to/ed_dfreitas/balancing-delivery-speed-and-code-quality-in-scaling-startups-29nf)
-- [Build in Public: Week 7. Shipping While Tired &lpar;or: Still Alive, Surprisingly&rpar;](https://dev.to/olgabraginskaya/build-in-public-week-7-shipping-while-tired-or-still-alive-surprisingly-2k80)
-- [Week 2 Scripting Challenge: Log Parser](https://dev.to/fosres/week-2-scripting-challenge-log-parser-4fad)
+- [Maximize Profit Potential in AI with Monetzly&#39;s Ad Model](https://dev.to/monetzly/maximize-profit-potential-in-ai-with-monetzlys-ad-model-c1d)
+- [I Built a Maze Runner Simulation Where Teenage Sam Altman Survives the Glade December 25, 2025](https://dev.to/ilyarah/i-built-a-maze-runner-simulation-where-teenage-sam-altman-survives-the-glade-december-25-2025-1ikk)
+- [I&#39;ve been working on a personal finance app called FinVantage, and I recently hit a roadblock](https://dev.to/zeta_byte/ive-been-working-on-a-personal-finance-app-called-finvantage-and-i-recently-hit-a-roadblock-4mjh)
+- [How I Became an AWS Community Builder &lpar;Security&rpar; – My Real Journey + Application Guide](https://dev.to/aws-builders/how-i-became-an-aws-community-builder-security-my-real-journey-application-guide-22kp)
+- [Rethinking Absence: A Gentle Introduction to the Option Type in TypeScript](https://dev.to/vlad_rasenko/rethinking-absence-a-gentle-introduction-to-the-option-type-in-typescript-4p1e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
