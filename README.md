@@ -120,11 +120,13 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Do anyone know about any tool which can help me cross post between few tech platforms like dev.to, medium, hashnode etc without distorting the formatting?
+
+maybe from google docs to medium/hashnode/dev.to? or is anyone creating one?](https://dev.to/waqartabish/do-anyone-know-about-any-tool-which-can-help-me-cross-post-between-few-tech-platforms-like-devto-n0c)
 - [Build a Twitter-Style Microblog with Feeds &lpar;React Native&rpar;](https://dev.to/waqartabish/build-a-twitter-style-microblog-with-feeds-react-native-3dnc)
+- [AI Look-Alike Search for OF Creators — Need Advice on Better Face Models](https://dev.to/__678da4d0/ai-look-alike-search-for-of-creators-need-advice-on-better-face-models-58dc)
+- [Understandable AI](https://dev.to/janklein/understandable-ai-4kgo)
 - [The Most Expensive Sentence In The World?](https://dev.to/john_helms_a5ad2d42f50838/the-most-expensive-sentence-in-the-world-5chb)
-- [How Does a Senior Program Manager Use Microsoft Planner to Stay on Track?](https://dev.to/alexrodovit/how-does-a-senior-program-manager-use-microsoft-planner-to-stay-on-track-86f)
-- [Permission and Ownership – Linux Foundation for DevOps](https://dev.to/chetan_tekam_3500/permission-and-ownership-linux-foundation-for-devops-16l)
-- [The LastPass Crypto Nightmare Proves We&#39;ve Been Wrong About Password Managers](https://dev.to/zeroblind25/the-lastpass-crypto-nightmare-proves-weve-been-wrong-about-password-managers-2e87)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
