@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [WTF is Remote Browser Isolation?](https://dev.to/dailybugle33/wtf-is-remote-browser-isolation-5c6l)
+- [🔐 Digital Privacy and Ethics: Why Trust Is the New Currency of the Internet](https://dev.to/okoye_ndidiamaka_5e3b7d30/digital-privacy-and-ethics-why-trust-is-the-new-currency-of-the-internet-ddd)
 - [Support is the weakest link in authentication &lpar;unless you design it not to be&rpar;](https://dev.to/antonmb/support-is-the-weakest-link-in-authentication-unless-you-design-it-not-to-be-58md)
 - [HTTP payments without logins, subscriptions, or checkout pages &lpar;x402 idea&rpar;](https://dev.to/adityasingh2824/http-payments-without-logins-subscriptions-or-checkout-pages-x402-idea-55jg)
 - [HTTP payments without logins, subscriptions, or checkout pages &lpar;x402 idea&rpar;](https://dev.to/adityasingh2824/http-payments-without-logins-subscriptions-or-checkout-pages-x402-idea-4nfb)
-- [OLWSX &lpar;OverLab Web ServerX&rpar; - The first AI-Driven, Actor-Based, and 3LS &lpar;3-Layered-Security&rpar; web server by OverLab Group](https://dev.to/javadinteger/olwsx-overlab-web-serverx-the-first-ai-driven-actor-based-and-3ls-3-layered-security-web-5c60)
-- [Transferability in Machine Learning: from Phenomena to Black-Box Attacks usingAdversarial Samples](https://dev.to/paperium/transferability-in-machine-learning-from-phenomena-to-black-box-attacks-usingadversarial-samples-d4m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
