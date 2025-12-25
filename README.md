@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Create Christmas Videos with AI: Complete Holiday Content Guide](https://dev.to/_fde76ff2d01974642930b/how-to-create-christmas-videos-with-ai-complete-holiday-content-guide-48hl)
-- [How to Use Node-RED as a Modbus TCP Server &lpar;Without Writing Custom Code&rpar;](https://dev.to/zediot/how-to-use-node-red-as-a-modbus-tcp-server-without-writing-custom-code-37hg)
-- [Why Q&amp;A platforms decay &lpar;and the simplest fix&rpar;](https://dev.to/mobin_poursalami_f30352a2/why-qa-platforms-decay-and-the-simplest-fix-527h)
-- [Blockchain Development Services: Building Trustless Systems for Real-World Business](https://dev.to/oodlesplatform/blockchain-development-services-building-trustless-systems-for-real-world-business-39ca)
-- [Walmart Connect vs Amazon Ads: Where to Start and How to Scale](https://dev.to/akash_yadav_74a8282d80e25/walmart-connect-vs-amazon-ads-where-to-start-and-how-to-scale-jpg)
+- [Support is the weakest link in authentication &lpar;unless you design it not to be&rpar;](https://dev.to/antonmb/support-is-the-weakest-link-in-authentication-unless-you-design-it-not-to-be-58md)
+- [HTTP payments without logins, subscriptions, or checkout pages &lpar;x402 idea&rpar;](https://dev.to/adityasingh2824/http-payments-without-logins-subscriptions-or-checkout-pages-x402-idea-55jg)
+- [HTTP payments without logins, subscriptions, or checkout pages &lpar;x402 idea&rpar;](https://dev.to/adityasingh2824/http-payments-without-logins-subscriptions-or-checkout-pages-x402-idea-4nfb)
+- [OLWSX &lpar;OverLab Web ServerX&rpar; - The first AI-Driven, Actor-Based, and 3LS &lpar;3-Layered-Security&rpar; web server by OverLab Group](https://dev.to/javadinteger/olwsx-overlab-web-serverx-the-first-ai-driven-actor-based-and-3ls-3-layered-security-web-5c60)
+- [Transferability in Machine Learning: from Phenomena to Black-Box Attacks usingAdversarial Samples](https://dev.to/paperium/transferability-in-machine-learning-from-phenomena-to-black-box-attacks-usingadversarial-samples-d4m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
