@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Build a Twitter-Style Microblog with Feeds &lpar;React Native&rpar;](https://dev.to/waqartabish/build-a-twitter-style-microblog-with-feeds-react-native-3dnc)
+- [The Most Expensive Sentence In The World?](https://dev.to/john_helms_a5ad2d42f50838/the-most-expensive-sentence-in-the-world-5chb)
 - [How Does a Senior Program Manager Use Microsoft Planner to Stay on Track?](https://dev.to/alexrodovit/how-does-a-senior-program-manager-use-microsoft-planner-to-stay-on-track-86f)
 - [Permission and Ownership – Linux Foundation for DevOps](https://dev.to/chetan_tekam_3500/permission-and-ownership-linux-foundation-for-devops-16l)
 - [The LastPass Crypto Nightmare Proves We&#39;ve Been Wrong About Password Managers](https://dev.to/zeroblind25/the-lastpass-crypto-nightmare-proves-weve-been-wrong-about-password-managers-2e87)
-- [Deep learning in remote sensing: a review](https://dev.to/paperium/deep-learning-in-remote-sensing-a-review-10cn)
-- [Automating FinTech API Documentation with CI/CD and CLI Tooling](https://dev.to/abdulrahman_/automating-fintech-api-documentation-with-cicd-and-cli-tooling-2i3a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
