@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How many Exercises do you have to know?](https://dev.to/bibimbop123/how-many-exercises-do-i-have-to-know-9n9)
-- [Why Good API Documentation Feels Invisible &lpar;Until It’s Missing&rpar;](https://dev.to/surhidamatya/why-good-api-documentation-feels-invisible-until-its-missing-28h8)
-- [What breaks trust in authentication UX](https://dev.to/antonmb/what-breaks-trust-in-authentication-ux-4kfo)
-- [c# interview questions](https://dev.to/shahzad111111/c-interview-questions-562o)
-- [Node.js Version Management with nvm](https://dev.to/godofgeeks/nodejs-version-management-with-nvm-ee7)
+- [Maestro Flakiness: Source Code Analysis](https://dev.to/omnarayan/maestro-flakiness-source-code-analysis-13ng)
+- [[Boost]](https://dev.to/anthonymax/-5446)
+- [SafeLine v9.3.0: Evolving a Semantic Analysis WAF for Modern Web Security](https://dev.to/arina_cholee/safeline-v930-evolving-a-semantic-analysis-waf-for-modern-web-security-3p73)
+- [New Year with AI: How AI Is Transforming Workflows](https://dev.to/freepixel11/new-year-with-ai-how-ai-is-transforming-workflows-12i0)
+- [Understanding WordPress Architecture for Pentesters](https://dev.to/yogsec/understanding-wordpress-architecture-for-pentesters-1d26)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
