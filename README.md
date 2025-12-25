@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Redis Threading Model: Debunking the Single-Threaded Myth](https://dev.to/ricky512227/understanding-redis-threading-what-i-learned-the-hard-way-paf)
-- [Practical MCP-Style Authorization: An Experimental PoC and Guide](https://dev.to/exploredataaiml/practical-mcp-style-authorization-an-experimental-poc-and-guide-3em8)
-- [Improving a Step That Assumed Prior Knowledge](https://dev.to/kalu_jennifer_9bba9145120/improving-a-step-that-assumed-prior-knowledge-17k6)
-- [Coding Challenge Practice - Question 85](https://dev.to/tomivan/coding-challenge-practice-question-85-25a5)
-- [Top AI Tools to Transform Your Workflow: From Note-Taking to Video Editing](https://dev.to/ayodele_jolayemi_a4bcec81/top-ai-tools-to-transform-your-workflow-from-note-taking-to-video-editing-34gc)
+- [I finally stopped writing try-catch in every Express controller &lpar;and you should too&rpar;](https://dev.to/nse569h/i-finally-stopped-writing-try-catch-in-every-express-controller-and-you-should-too-40p2)
+- [NOAA::Aurora for Space Weather Forecasts](https://dev.to/dkechag/noaaaurora-for-space-weather-forecasts-793)
+- [I Built a Risk-Driven Stock Portfolio Optimizer &lpar;And What I Learned&rpar;](https://dev.to/dany_trakhtenberg/i-built-a-risk-driven-stock-portfolio-optimizer-and-what-i-learned-49ai)
+- [I Stopped Automating ecisions with AI — and Designed a Better Collaboration Instead](https://dev.to/yuer/i-stopped-automating-ecisions-with-ai-and-designed-a-better-collaboration-instead-9b1)
+- [I Built a VS Code Extension to Visualize JSON as Tree Diagrams](https://dev.to/hugohbrt/i-built-a-vs-code-extension-to-visualize-json-as-tree-diagrams-5g7b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
