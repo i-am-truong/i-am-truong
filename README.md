@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What is None network driver](https://dev.to/meghasharmaaaa/what-is-none-network-driver-3pmi)
+- [AI SLOP v/s polished content](https://dev.to/sehgalspandan/ai-slop-vs-polished-content-2435)
 - [Aurora Serverless v2: When &quot;I/O Optimized&quot; Actually Costs You More](https://dev.to/aws-builders/aurora-serverless-v2-when-io-optimized-actually-costs-you-more-4bb2)
 - [Indexes and the Rise of the DBMS](https://dev.to/lovestaco/indexes-and-the-rise-of-the-dbms-1n0p)
 - [Core Premise of Function in JavaScript](https://dev.to/sinhasagar01/functions-5bab)
-- [I built a local-first VS Code extension to track my development work](https://dev.to/genomorph_pvtltd_6dcfc/i-built-a-local-first-vs-code-extension-to-track-my-development-work-3pa8)
-- [I Monkey-Patched Python to Stop AI Agents from Accessing Private Networks](https://dev.to/ziling-failcore/i-monkey-patched-python-to-stop-ai-agents-from-accessing-private-networks-24h2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
