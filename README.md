@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Best of 2025 from Rails Designer](https://dev.to/railsdesigner/the-best-of-2025-from-rails-designer-58ga)
+- [Rethinking How we write JSX in React - Part 1](https://dev.to/ashishsimplecoder/rethinking-how-we-write-jsx-in-react-part-1-4nl)
+- [Day-16 of DevOps: Mastering Dockerfiles, Volumes, and Docker Compose 🐳](https://dev.to/jayanth_dasari_7/day-16-of-devops-mastering-dockerfiles-volumes-and-docker-compose-5hm4)
+- [Stop Waiting: Why I’m Going All-In on AWS in 2026 &lpar;And How I Plan to Survive&rpar;](https://dev.to/eric_rodrguez_db5074ca74/stop-waiting-why-im-going-all-in-on-aws-in-2026-and-how-i-plan-to-survive-2ma7)
 - [Java Core Mastery Part 2: Advanced Concepts &amp; Question: Prep 🚀](https://dev.to/rajat128/java-core-mastery-part-2-advanced-concepts-question-prep-3oh0)
-- [How to Add Tailwind CSS to a React App &lpar;Step-by-Step Guide&rpar;](https://dev.to/ahmad_mahboob/how-to-add-tailwind-css-to-a-react-app-step-by-step-guide-48a6)
-- [Replacing Phone Addiction with Building a Real Project](https://dev.to/vigneshwaralingam/replacing-phone-addiction-with-building-a-real-project-3m12)
-- [Stable Video Diffusion: Scaling Latent Video Diffusion Models to Large Datasets](https://dev.to/paperium/stable-video-diffusion-scaling-latent-video-diffusion-models-to-large-datasets-44ch)
-- [Dreams Don’t Work Unless You Do: Lessons I Learned the Hard Way as a Developer](https://dev.to/careerbytecode/dreams-dont-work-unless-you-do-lessons-i-learned-the-hard-way-as-a-developer-4cpb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
