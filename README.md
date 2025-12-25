@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Make Vim Useful Again with VEX](https://dev.to/m__mdy__m/make-vim-useful-again-with-vex-mah)
+- [The 20-Minute Miracle: How PowerShell Ends the &quot;Manual Grind&quot; in Azure](https://dev.to/rajatjangra2653/the-20-minute-miracle-how-powershell-ends-the-manual-grind-in-azure-1p73)
 - [Reliable Data with AWS Glue Data Quality](https://dev.to/aws-builders/reliable-data-with-aws-glue-data-quality-5cj2)
 - [Best SaaS Dashboard Templates](https://dev.to/tailwindadmin/best-saas-dashboard-templates-22m6)
 - [GLM-4.7 Now on SiliconFlow: Advanced Coding, Reasoning &amp; Tool Use Capabilities](https://dev.to/siliconflow/glm-47-now-on-siliconflow-advanced-coding-reasoning-tool-use-capabilities-41o8)
-- [Modern Networking in iOS with URLSession and async/await – Part 2](https://dev.to/markkazakov/modern-networking-in-ios-with-urlsession-and-asyncawait-part-2-1d3i)
-- [Stop Building Drawing Tools From Scratch: Meet js-draw, The Library That Handles Infinite Zoom and Stylus Input](https://dev.to/githubopensource/stop-building-drawing-tools-from-scratch-meet-js-draw-the-library-that-handles-infinite-zoom-and-52eo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
