@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New PostgreSQL Features I Developed in 2025](https://dev.to/shinyakato_/new-postgresql-features-i-developed-in-2025-3lca)
 - [iMessage Enrichment in Clay: Boost Your Outreach with Real-Time Contact Detection](https://dev.to/blooio/imessage-enrichment-in-clay-boost-your-outreach-with-real-time-contact-detection-1ick)
 - [Why Your ChatGPT Images Fail?](https://dev.to/flatratemechanic1glitch/why-your-chatgpt-images-fail-3nbl)
 - [LAION-400M: Open Dataset of CLIP-Filtered 400 Million Image-Text Pairs](https://dev.to/paperium/laion-400m-open-dataset-of-clip-filtered-400-million-image-text-pairs-kgk)
 - [No Foreign Keys in MongoDB: Rethinking Referential Integrity](https://dev.to/franckpachot/no-foreign-keys-in-mongodb-rethinking-referential-integrity-1b9b)
-- [Ruby GUIs Are Dead… Or Are They?](https://dev.to/urshayan/ruby-guis-are-dead-or-are-they-500n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
