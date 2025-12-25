@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Important Steps to Becoming a Successful Reseller on Creosca](https://dev.to/gift1210/important-steps-to-becoming-a-successful-reseller-on-creosca-2lca)
+- [Improving Developer Productivity Without Burning Out Your Team Practical engineering habits that actually scale](https://dev.to/syfox_pr_17e3f352864295d7/improving-developer-productivity-without-burning-out-your-team-practical-engineering-habits-that-1hoc)
+- [How to Deploy a Voice AI Agent for HVAC Customer Inquiries: My Journey](https://dev.to/callstacktech/how-to-deploy-a-voice-ai-agent-for-hvac-customer-inquiries-my-journey-3pco)
 - [🚀🔥 Train a 4B Model to Beat Claude Sonnet 4.5 🤖 and Gemini Pro 2.5 ✨ at Tool Calling 🛠️ - and for all Free! 💸🎉](https://dev.to/lukehinds/train-a-4b-model-to-beat-claude-sonnet-45-and-gemini-pro-25-at-tool-calling-and-for-4c5o)
 - [🚀🔥 Train a 4B Model to Beat Claude Sonnet 4.5 🤖 and Gemini Pro 2.5 ✨ at Tool Calling 🛠️ - and for all Free! 💸🎉](https://dev.to/lukehinds/train-a-4b-model-to-beat-claude-sonnet-45-and-gemini-pro-25-at-tool-calling-and-for-3a7m)
 - [CI/CD Pipeline for a Dockerized App on AWS &lpar;From zero to production&rpar;.](https://dev.to/bala_audu_musa/cicd-pipeline-for-a-dockerized-app-on-aws-from-zero-to-production-2gdg)
-- [High-Throughput IoT Log Aggregator](https://dev.to/ibrahimsezer/high-throughput-iot-log-aggregator-3gjg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
