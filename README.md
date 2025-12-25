@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Maximize Developer Revenue with Monetzly&#39;s AI Monetization Strategies](https://dev.to/monetzly/maximize-developer-revenue-with-monetzlys-ai-monetization-strategies-3jb1)
-- [Screen Sharing for Hyprland on Fedora 43](https://dev.to/ashbuk/screen-sharing-for-hyprland-on-fedora-43-1di)
-- [8 Tools Developers Reach For After Their SaaS Stops Being Fun](https://dev.to/dev_resources/8-tools-developers-reach-for-after-their-saas-stops-being-fun-424a)
-- [🎄 Christmas is the perfect excuse to explain real Agent design 😉😁](https://dev.to/dowhatmatters/christmas-is-the-perfect-excuse-to-explain-real-agent-design-l7g)
-- [The Lawyer&#39;s SEO Paradox: Why Mangools Is the Only Tool That Solves Your Real Problem &lpar;It&#39;s Not Keywords&rpar;](https://dev.to/alan_luu/the-lawyers-seo-paradox-why-mangools-is-the-only-tool-that-solves-your-real-problem-its-not-5e85)
+- [Starting my journey here](https://dev.to/treebird/starting-my-journey-here-188o)
+- [Why I Built a Pure Python Library for Legacy Office Files &lpar;And Why RAG Pipelines Need One&rpar;](https://dev.to/tobias_horsmann_dcbbacec3/why-i-built-a-pure-python-library-for-legacy-office-files-and-why-rag-pipelines-need-one-4c37)
+- [AI Interview Copilot is a tool that helps you prepare, structure, and improve your interview answers. Think of it as a coach that focuses on how you respond, not just what questions you get.](https://dev.to/jeenifer_beezer/ai-interview-copilot-is-a-tool-that-helps-you-prepare-structure-and-improve-your-interview-20m3)
+- [Kicking Off 2026: Expert Analysis &amp; Predictions for the World Cup](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-predictions-for-the-world-cup-4mhp)
+- [Privacy-Preserving Active Learning for autonomous urban air mobility routing under multi-jurisdictional compliance](https://dev.to/rikinptl/privacy-preserving-active-learning-for-autonomous-urban-air-mobility-routing-under-1031)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
