@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Copilot vs Cursor vs Windsurf vs AntiGravity](https://dev.to/joaquin_sez_6de09e190ca1/github-copilot-vs-cursor-vs-windsurf-vs-antigravity-152d)
+- [New image sensor breaks optical limits](https://dev.to/aibuddyinc/new-image-sensor-breaks-optical-limits-3a65)
 - [12. Integer to Roman | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/12-integer-to-roman-leetcode-top-interview-150-coding-questions-20c4)
-- [Starting my journey here](https://dev.to/treebird/starting-my-journey-here-188o)
-- [Why I Built a Pure Python Library for Legacy Office Files &lpar;And Why RAG Pipelines Need One&rpar;](https://dev.to/tobias_horsmann_dcbbacec3/why-i-built-a-pure-python-library-for-legacy-office-files-and-why-rag-pipelines-need-one-4c37)
-- [AI Interview Copilot is a tool that helps you prepare, structure, and improve your interview answers. Think of it as a coach that focuses on how you respond, not just what questions you get.](https://dev.to/jeenifer_beezer/ai-interview-copilot-is-a-tool-that-helps-you-prepare-structure-and-improve-your-interview-20m3)
-- [Kicking Off 2026: Expert Analysis &amp; Predictions for the World Cup](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-predictions-for-the-world-cup-4mhp)
+- [The Future of DevOps: Key Trends Shaping 2025 and Beyond](https://dev.to/meena_nukala/the-future-of-devops-key-trends-shaping-2025-and-beyond-56eo)
+- [Coding Challenge Practice - Question 86](https://dev.to/tomivan/coding-challenge-practice-question-86-3alg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
