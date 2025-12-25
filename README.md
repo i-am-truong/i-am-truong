@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SmartKNN v2 Is Here - Low-Latency, Scalable, and Built for Real-World ML](https://dev.to/jashwanth_thatipamula_8ee/smartknn-v2-is-here-low-latency-scalable-and-built-for-real-world-ml-5gcb)
-- [AlgoExpert vs Educative: Which Platform Is Better for 2025?](https://dev.to/alex_hunter_44f4c9ed6671e/algoexpert-vs-educative-which-platform-is-better-for-2025-cfn)
-- [Make Vim Useful Again with VEX](https://dev.to/m__mdy__m/make-vim-useful-again-with-vex-mah)
-- [The 20-Minute Miracle: How PowerShell Ends the &quot;Manual Grind&quot; in Azure](https://dev.to/rajatjangra2653/the-20-minute-miracle-how-powershell-ends-the-manual-grind-in-azure-1p73)
-- [Secure Identity and Access Management with AWS IAM](https://dev.to/aws-builders/secure-identity-and-access-management-with-aws-iam-2c8g)
+- [x402: Turning HTTP 402 into a Real Payment Primitive](https://dev.to/caerlower/x402-turning-http-402-into-a-real-payment-primitive-5077)
+- [Using AI is not cheating!](https://dev.to/googleworkspace/using-ai-is-not-cheating-365j)
+- [Holonomic Systems: What Arthur Koestler Can Teach Us About Software Architecture](https://dev.to/felipeness/holonomic-systems-what-arthur-koestler-can-teach-us-about-software-architecture-29hf)
+- [Day 17 of #30DaysofAWSTerraform: Blue-Green Deployment with Elastic Beanstalk &lpar;The Hard Way&rpar;](https://dev.to/alafiz/day-17-of-30daysofawsterraform-blue-green-deployment-with-elastic-beanstalk-the-hard-way-5cag)
+- [Sistemas Holonômicos: O Que Arthur Koestler Pode Ensinar Sobre Arquitetura de Software](https://dev.to/felipeness/sistemas-holonomicos-o-que-arthur-koestler-pode-ensinar-sobre-arquitetura-de-software-3hfl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
