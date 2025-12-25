@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Writes Code — But It Couldn&#39;t Have Invented Expo Router](https://dev.to/cathylai/ai-writes-code-but-it-couldnt-have-invented-expo-router-hpb)
+- [Verifiable Compute for Onchain Prop Trading: How Carrotfunding Uses ROFL](https://dev.to/caerlower/verifiable-compute-for-onchain-prop-trading-how-carrotfunding-uses-rofl-38j2)
+- [Beyond Mobile Actions: Exploring FunctionGemma for Intelligent Multi-Agent Orchestration](https://dev.to/saikumaryava/beyond-mobile-actions-exploring-functiongemma-for-intelligent-multi-agent-orchestration-4jlf)
 - [How to Debug Webhook Integrations in Minutes &lpar;Step-by-Step Guide&rpar;](https://dev.to/ar27111994/how-to-debug-webhook-integrations-in-minutes-step-by-step-guide-3ccf)
 - [Recreate Physical Calendar Notes Digitally — With Absolute Privacy](https://dev.to/techno_kraft_in/recreate-physical-calendar-notes-digitally-with-absolute-privacy-32la)
-- [The Electron Framework and modern apps](https://dev.to/gabrieljemail/the-electron-framework-and-modern-apps-286h)
-- [How to sharing TypeScript codes Across Frontend and Backend in a Monorepo](https://dev.to/aoda-zhang/making-a-typescript-shared-package-work-across-frontend-and-backend-in-a-monorepo-1k23)
-- [Machine Learning Ecosystem in PHP](https://dev.to/samuel_akopyan_e902195a96/the-ml-ecosystem-in-php-3200)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
