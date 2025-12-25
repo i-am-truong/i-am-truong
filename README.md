@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Definitive Guide to Warehouse Utilisation](https://dev.to/devopsking/a-definitive-guide-to-warehouse-utilisation-3b33)
-- [Why Most Telecom Network APIs Fail Like Bad SaaS Products](https://dev.to/abdul_shamim/why-most-telecom-network-apis-fail-like-bad-saas-products-6id)
-- [Understanding AWS Network Firewall: Traffic Flow, Rules, and Logging](https://dev.to/soumi_c875ca4/understanding-aws-network-firewall-traffic-flow-rules-and-logging-4ko5)
-- [Google Login with Supabase : What Each Provider is Really Doing](https://dev.to/cathylai/google-login-with-supabase-what-each-provider-is-really-doing-18b6)
-- [Consultas geoespaciais com PostGIS](https://dev.to/lucaspereiradesouzat/consultas-geoespaciais-com-postgis-1o1m)
+- [Java Core Mastery Part 2: Advanced Concepts &amp; Question: Prep 🚀](https://dev.to/rajat128/java-core-mastery-part-2-advanced-concepts-question-prep-3oh0)
+- [How to Add Tailwind CSS to a React App &lpar;Step-by-Step Guide&rpar;](https://dev.to/ahmad_mahboob/how-to-add-tailwind-css-to-a-react-app-step-by-step-guide-48a6)
+- [Replacing Phone Addiction with Building a Real Project](https://dev.to/vigneshwaralingam/replacing-phone-addiction-with-building-a-real-project-3m12)
+- [Stable Video Diffusion: Scaling Latent Video Diffusion Models to Large Datasets](https://dev.to/paperium/stable-video-diffusion-scaling-latent-video-diffusion-models-to-large-datasets-44ch)
+- [Dreams Don’t Work Unless You Do: Lessons I Learned the Hard Way as a Developer](https://dev.to/careerbytecode/dreams-dont-work-unless-you-do-lessons-i-learned-the-hard-way-as-a-developer-4cpb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
