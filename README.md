@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Own Block Cipher: Part 3 - AES](https://dev.to/dmytro_huz/building-own-block-cipher-part-3-aes-5fd8)
-- [Why Every Developer Should Deploy on a VPS at Least Once](https://dev.to/drdrunkenstien/why-every-developer-should-deploy-on-a-vps-at-least-once-lcg)
-- [[2025 Guide] AI-Driven Advertising Solutions for Marketing Automation](https://dev.to/getkoro_app/2025-guide-ai-driven-advertising-solutions-for-marketing-automation-4cb0)
-- [How I built my first AI Uptime Tracker as a &quot;coding newbie&quot;](https://dev.to/vicky_tsin_4aa76206a36899/how-i-built-my-first-ai-uptime-tracker-as-a-coding-newbie-2phc)
-- [Fast-track your tech career vs a traditional degree](https://dev.to/ajia_ali_fb5a7b00f0318020/fast-track-your-tech-career-vs-a-traditional-degree-4aan)
+- [The Only Safe Way to Import Legacy Docs: Question-Driven Context Integration](https://dev.to/synthaicode_commander/the-only-safe-way-to-import-legacy-docs-question-driven-context-integration-408b)
+- [I plan to develop a wired Android Auto to wireless Android Auto device using the ESP32-S3.](https://dev.to/_af0262ac803558bfa0ca9d/i-plan-to-develop-a-wired-android-auto-to-wireless-android-auto-device-using-the-esp32-s3-48j9)
+- [Native HTML Dialogs with HTMX](https://dev.to/robodobdob/native-html-dialogs-with-htmx-50i2)
+- [Securing IoT: Best Practices for Developers in a Smart-Device World 🔐🌍](https://dev.to/heintingla/securing-iot-best-practices-for-developers-in-a-smart-device-world-1lfd)
+- [How Microsoft Access and WordPress Secretly Taught Me Programming](https://dev.to/mohamedisaac/how-microsoft-access-and-wordpress-secretly-taught-me-programming-h5o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
