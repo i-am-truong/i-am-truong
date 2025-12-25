@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [2025 in Review: The Adventures of Blink](https://dev.to/linkbenjamin/2025-in-review-the-adventures-of-blink-37jp)
-- [Homelabing - Local to online setup suppressing CGNAT](https://dev.to/priyanshuverma/homelabing-local-to-online-setup-suppressing-cgnat-mpd)
-- [Web Bluetooth Guide: How to Build a Real-Time Heart Rate Dashboard](https://dev.to/wellallytech/web-bluetooth-guide-how-to-build-a-real-time-heart-rate-dashboard-nj7)
-- [Runtime Environment Variables for React Apps with Nginx and Docker](https://dev.to/imzihad21/runtime-environment-variables-for-react-apps-with-nginx-and-docker-3p62)
-- [Cafes](https://dev.to/jan_martinezteixido_a818/cafes-29jk)
+- [GLM-4.7 Now on SiliconFlow: Advanced Coding, Reasoning &amp; Tool Use Capabilities](https://dev.to/siliconflow/glm-47-now-on-siliconflow-advanced-coding-reasoning-tool-use-capabilities-41o8)
+- [Too much code, too many PRs. AI, please send help!](https://dev.to/sekimori_roma/too-much-code-too-many-prs-ai-please-send-help-13i9)
+- [Understanding Browser Automation Detection: A Technical Deep Dive for Developers](https://dev.to/digitalgrowthpro/understanding-browser-automation-detection-a-technical-deep-dive-for-developers-l4a)
+- [LangGraph HITL: The @task Caching Gotcha That Cost Me 3 Days](https://dev.to/rigby_/langgraph-hitl-the-task-caching-gotcha-that-cost-me-3-days-1g0j)
+- [**Build Secure JWT Authentication and Session Management System in Go with Redis**](https://dev.to/nithinbharathwaj/build-secure-jwt-authentication-and-session-management-system-in-go-with-redis-4200)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
