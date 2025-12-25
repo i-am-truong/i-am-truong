@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Rahsi™ SharePoint Online Throttling | Internals, Limits and Survival Patterns &lpar;Copilot Era Edition&rpar;](https://dev.to/aakash_rahsi_8d28156d5f2c/rahsi-sharepoint-online-throttling-internals-limits-and-survival-patterns-copilot-era-edition-p9n)
 - [When Sleep Became a Problem](https://dev.to/toklas495/when-sleep-became-a-problem-17j1)
 - [Cross-Modal Knowledge Distillation for smart agriculture microgrid orchestration with embodied agent feedback loops](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-smart-agriculture-microgrid-orchestration-with-embodied-3pak)
 - [Your Code is a Liability: Why Documentation is the Only Asset That Matters](https://dev.to/huizhudev/your-code-is-a-liability-why-documentation-is-the-only-asset-that-matters-2e93)
 - [Establishing the zero-trust standard for AI agents. We want to move the industry from just &quot;monitoring&quot; AI to actually &quot;controlling&quot; it—where every autonomous action is replay-verifiable, CI-enforced, and cryptographically proven.](https://dev.to/lola0786/establishing-the-zero-trust-standard-for-ai-agents-we-want-to-move-the-industry-from-just-5f0a)
+- [Pitfalls of Ultra Cheap Ecommerce SEO Packages and How to Avoid Them](https://dev.to/prateekshaweb/pitfalls-of-ultra-cheap-ecommerce-seo-packages-and-how-to-avoid-them-39c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
