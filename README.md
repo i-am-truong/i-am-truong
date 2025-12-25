@@ -123,8 +123,8 @@ Python                   1 repo              █░░░░░░░░░░�
 - [The Only Safe Way to Import Legacy Docs: Question-Driven Context Integration](https://dev.to/synthaicode_commander/the-only-safe-way-to-import-legacy-docs-question-driven-context-integration-408b)
 - [I plan to develop a wired Android Auto to wireless Android Auto device using the ESP32-S3.](https://dev.to/_af0262ac803558bfa0ca9d/i-plan-to-develop-a-wired-android-auto-to-wireless-android-auto-device-using-the-esp32-s3-48j9)
 - [Native HTML Dialogs with HTMX](https://dev.to/robodobdob/native-html-dialogs-with-htmx-50i2)
-- [Securing IoT: Best Practices for Developers in a Smart-Device World 🔐🌍](https://dev.to/heintingla/securing-iot-best-practices-for-developers-in-a-smart-device-world-1lfd)
-- [How Microsoft Access and WordPress Secretly Taught Me Programming](https://dev.to/mohamedisaac/how-microsoft-access-and-wordpress-secretly-taught-me-programming-h5o)
+- [Building a Privacy-First Cryptocurrency from Scratch with Substrate](https://dev.to/missed2009/building-a-privacy-first-cryptocurrency-from-scratch-with-substrate-3ki6)
+- [Day 33 of improving my Data Science skills🎄](https://dev.to/sp_the_data_specialist/day-33-of-improving-my-data-science-skills-mkl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
