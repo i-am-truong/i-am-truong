@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to build dynamic forms in React using SurveyJS, Node.js &amp; MongoDB Backend](https://dev.to/mir_raashid_js/how-to-build-dynamic-forms-in-react-using-surveyjs-nodejs-mongodb-backend-1pa4)
-- [Getting Started with Go &lpar;Golang&rpar;: A Practical Guide for Developers](https://dev.to/yash_sonawane25/getting-started-with-go-golang-a-practical-guide-for-developers-78l)
-- [Building Production-Grade AI Agents with MCP &amp; A2A: A Guide from the Trenches](https://dev.to/exploredataaiml/building-production-grade-ai-agents-with-mcp-a2a-a-guide-from-the-trenches-1man)
-- [Mastering Network Interception in Cypress: A Detailed Guide](https://dev.to/jignect-technologies/mastering-network-interception-in-cypress-a-detailed-guide-3gpf)
-- [NocoBase Weekly Updates: Optimization and Bug Fixes](https://dev.to/nocobase/nocobase-weekly-updates-optimization-and-bug-fixes-59k)
+- [Unstructured Text is the Final Boss: Parsing Doctor&#39;s Notes with LLMs 🏥](https://dev.to/beck_moulton/unstructured-text-is-the-final-boss-parsing-doctors-notes-with-llms-4l8e)
+- [Architecture of Shadows – The Hidden Monopoly and the Battle for Information Control](https://dev.to/fayzakseo/architecture-of-shadows-the-hidden-monopoly-and-the-battle-for-information-control-34eb)
+- [My Blog Post](https://dev.to/ethan_zhang_e501fea89c25b/my-blog-post-3m9h)
+- [Getting Started with Docker](https://dev.to/ethan_zhang_e501fea89c25b/getting-started-with-docker-3a)
+- [🚀 Terraform Day 18: Serverless Automation with AWS Lambda Using Terraform](https://dev.to/jeeva_5c84a254e90842940dd/terraform-day-18-serverless-automation-with-aws-lambda-using-terraform-20ga)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
