@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [When Sleep Became a Problem](https://dev.to/toklas495/when-sleep-became-a-problem-17j1)
-- [Cross-Modal Knowledge Distillation for smart agriculture microgrid orchestration with embodied agent feedback loops](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-smart-agriculture-microgrid-orchestration-with-embodied-3pak)
-- [Your Code is a Liability: Why Documentation is the Only Asset That Matters](https://dev.to/huizhudev/your-code-is-a-liability-why-documentation-is-the-only-asset-that-matters-2e93)
-- [Establishing the zero-trust standard for AI agents. We want to move the industry from just &quot;monitoring&quot; AI to actually &quot;controlling&quot; it—where every autonomous action is replay-verifiable, CI-enforced, and cryptographically proven.](https://dev.to/lola0786/establishing-the-zero-trust-standard-for-ai-agents-we-want-to-move-the-industry-from-just-5f0a)
-- [Pitfalls of Ultra Cheap Ecommerce SEO Packages and How to Avoid Them](https://dev.to/prateekshaweb/pitfalls-of-ultra-cheap-ecommerce-seo-packages-and-how-to-avoid-them-39c)
+- [The Importance of a Healthy Lifestyle in Today’s Fast-Paced World](https://dev.to/dharmikk_baria_51b371d8c5/the-importance-of-a-healthy-lifestyle-in-todays-fast-paced-world-4pio)
+- [Angular vs React](https://dev.to/digitalcrafting/angular-vs-react-2hdm)
+- [Stop Containerizing Your 50-Line Scripts](https://dev.to/levskiy/stop-containerizing-your-50-line-scripts-ak2)
+- [Unleashing the Power of DOM Manipulation in Frontend Development](https://dev.to/vjnvisakh/unleashing-the-power-of-dom-manipulation-in-frontend-development-243p)
+- [Integrating Japanese Stock APIs: Accessing Tokyo Stock Exchange &lpar;TSE&rpar; Data for K-Line and MACD Analysis](https://dev.to/san_siwu_f08e7c406830469/integrating-japanese-stock-apis-accessing-tokyo-stock-exchange-tse-data-for-k-line-and-macd-37na)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
