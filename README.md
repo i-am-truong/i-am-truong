@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to build dynamic forms in React using SurveyJS, Node.js &amp; MongoDB Backend](https://dev.to/mir_raashid_js/how-to-build-dynamic-forms-in-react-using-surveyjs-nodejs-mongodb-backend-1pa4)
+- [Getting Started with Go &lpar;Golang&rpar;: A Practical Guide for Developers](https://dev.to/yash_sonawane25/getting-started-with-go-golang-a-practical-guide-for-developers-78l)
+- [Building Production-Grade AI Agents with MCP &amp; A2A: A Guide from the Trenches](https://dev.to/exploredataaiml/building-production-grade-ai-agents-with-mcp-a2a-a-guide-from-the-trenches-1man)
 - [Mastering Network Interception in Cypress: A Detailed Guide](https://dev.to/jignect-technologies/mastering-network-interception-in-cypress-a-detailed-guide-3gpf)
 - [NocoBase Weekly Updates: Optimization and Bug Fixes](https://dev.to/nocobase/nocobase-weekly-updates-optimization-and-bug-fixes-59k)
-- [Deploying Scalable LLM Tools via Remote MCP on Kubernetes](https://dev.to/pratik_12b3f8bf3b50e48bae/deploying-scalable-llm-tools-via-remote-mcp-on-kubernetes-23h6)
-- [Don&#39;t build AI Agents from scratch. Steal the logic visually.](https://dev.to/iloven8n/dont-build-ai-agents-from-scratch-steal-the-logic-visually-368p)
-- [Introducing the @knighted/jsx + @knighted/css Stack: Standards-Based Flexibility for Modern Web Development](https://dev.to/morganney/introducing-the-knightedjsx-knightedcss-stack-standards-based-flexibility-for-modern-web-ffd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
