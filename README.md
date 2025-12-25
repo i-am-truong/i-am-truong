@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [`Ractor::Port` - Revamping the Ractor API](https://dev.to/ko1/ractorport-revamping-the-ractor-api-98)
-- [Coffee Break AI Update: 5 Game-Changing AI Developments You Need to Know About Today](https://dev.to/ethan_zhang_e501fea89c25b/coffee-break-ai-update-5-game-changing-ai-developments-you-need-to-know-about-today-27a4)
-- [AI Photo Enhancer for Developers: APIs, Automation, and Modern Workflows](https://dev.to/aienhancer/ai-photo-enhancer-for-developers-apis-automation-and-modern-workflows-1cg9)
-- [TOP 20 BEST Wedding Dance Songs of All Time ❤️‍🔥 First Dance ONLINE](https://dev.to/placecard/top-20-best-wedding-dance-songs-of-all-time-first-dance-online-1ggh)
-- [Exporting DataTable to Excel from Database in .NET: A Practical Guide](https://dev.to/yahey/exporting-datatable-to-excel-from-database-in-net-a-practical-guide-3m7h)
+- [How Our AI Hiring Platform Gets Smarter Without Code Changes](https://dev.to/dhyan_raj_98e6a5999c8d5ef/how-our-ai-hiring-platform-gets-smarter-without-code-changes-1kg3)
+- [Render Alternatives: What to Use When Render Starts to Limit You](https://dev.to/kuberns_cloud/render-alternatives-what-to-use-when-render-starts-to-limit-you-17em)
+- [What I Learned in My First Week of Linux &lpar;DevOps Journey&rpar;](https://dev.to/sneha_tomar_23/what-i-learned-in-my-first-week-of-linux-devops-journey-3fhb)
+- [Zylix — a Zig‑based UI framework for 7 platforms](https://dev.to/kotsutsumi_50/zylix-a-zig-based-ui-framework-for-7-platforms-4a)
+- [My Takeaways from AWS re:Invent 2025: Bringing the Vegas Energy Home to Hong Kong 🇭🇰✨](https://dev.to/karen_tam_3e10b93a14f058a/my-takeaways-from-aws-reinvent-2025-bringing-the-vegas-energy-home-to-hong-kong-5egp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
