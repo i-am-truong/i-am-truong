@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [No Foreign Keys in MongoDB: Rethinking Referential Integrity](https://dev.to/franckpachot/no-foreign-keys-in-mongodb-rethinking-referential-integrity-1b9b)
+- [Technologies Behind Ubuntu: A Deep Dive into the Linux Powerhouse](https://dev.to/nube_colectiva_nc/technologies-behind-ubuntu-a-deep-dive-into-the-linux-powerhouse-586d)
 - [GitHub Copilot vs Cursor vs Windsurf vs AntiGravity](https://dev.to/joaquin_sez_6de09e190ca1/github-copilot-vs-cursor-vs-windsurf-vs-antigravity-152d)
-- [New image sensor breaks optical limits](https://dev.to/aibuddyinc/new-image-sensor-breaks-optical-limits-3a65)
 - [12. Integer to Roman | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/12-integer-to-roman-leetcode-top-interview-150-coding-questions-20c4)
 - [The Future of DevOps: Key Trends Shaping 2025 and Beyond](https://dev.to/meena_nukala/the-future-of-devops-key-trends-shaping-2025-and-beyond-56eo)
-- [Coding Challenge Practice - Question 86](https://dev.to/tomivan/coding-challenge-practice-question-86-3alg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
