@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Our AI Hiring Platform Gets Smarter Without Code Changes](https://dev.to/dhyan_raj_98e6a5999c8d5ef/how-our-ai-hiring-platform-gets-smarter-without-code-changes-1kg3)
-- [Render Alternatives: What to Use When Render Starts to Limit You](https://dev.to/kuberns_cloud/render-alternatives-what-to-use-when-render-starts-to-limit-you-17em)
-- [What I Learned in My First Week of Linux &lpar;DevOps Journey&rpar;](https://dev.to/sneha_tomar_23/what-i-learned-in-my-first-week-of-linux-devops-journey-3fhb)
-- [Zylix — a Zig‑based UI framework for 7 platforms](https://dev.to/kotsutsumi_50/zylix-a-zig-based-ui-framework-for-7-platforms-4a)
-- [My Takeaways from AWS re:Invent 2025: Bringing the Vegas Energy Home to Hong Kong 🇭🇰✨](https://dev.to/karen_tam_3e10b93a14f058a/my-takeaways-from-aws-reinvent-2025-bringing-the-vegas-energy-home-to-hong-kong-5egp)
+- [Mastering Network Interception in Cypress: A Detailed Guide](https://dev.to/jignect-technologies/mastering-network-interception-in-cypress-a-detailed-guide-3gpf)
+- [NocoBase Weekly Updates: Optimization and Bug Fixes](https://dev.to/nocobase/nocobase-weekly-updates-optimization-and-bug-fixes-59k)
+- [Deploying Scalable LLM Tools via Remote MCP on Kubernetes](https://dev.to/pratik_12b3f8bf3b50e48bae/deploying-scalable-llm-tools-via-remote-mcp-on-kubernetes-23h6)
+- [Don&#39;t build AI Agents from scratch. Steal the logic visually.](https://dev.to/iloven8n/dont-build-ai-agents-from-scratch-steal-the-logic-visually-368p)
+- [Introducing the @knighted/jsx + @knighted/css Stack: Standards-Based Flexibility for Modern Web Development](https://dev.to/morganney/introducing-the-knightedjsx-knightedcss-stack-standards-based-flexibility-for-modern-web-ffd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
