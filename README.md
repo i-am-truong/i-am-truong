@@ -120,11 +120,16 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Improving Developer Productivity Without Burning Out Your Team Practical engineering habits that actually scale](https://dev.to/syfox_pr_17e3f352864295d7/improving-developer-productivity-without-burning-out-your-team-practical-engineering-habits-that-1hoc)
-- [How to Deploy a Voice AI Agent for HVAC Customer Inquiries: My Journey](https://dev.to/callstacktech/how-to-deploy-a-voice-ai-agent-for-hvac-customer-inquiries-my-journey-3pco)
-- [🚀🔥 Train a 4B Model to Beat Claude Sonnet 4.5 🤖 and Gemini Pro 2.5 ✨ at Tool Calling 🛠️ - and for all Free! 💸🎉](https://dev.to/lukehinds/train-a-4b-model-to-beat-claude-sonnet-45-and-gemini-pro-25-at-tool-calling-and-for-4c5o)
-- [🚀🔥 Train a 4B Model to Beat Claude Sonnet 4.5 🤖 and Gemini Pro 2.5 ✨ at Tool Calling 🛠️ - and for all Free! 💸🎉](https://dev.to/lukehinds/train-a-4b-model-to-beat-claude-sonnet-45-and-gemini-pro-25-at-tool-calling-and-for-3a7m)
-- [CI/CD Pipeline for a Dockerized App on AWS &lpar;From zero to production&rpar;.](https://dev.to/bala_audu_musa/cicd-pipeline-for-a-dockerized-app-on-aws-from-zero-to-production-2gdg)
+- [Oracle AI Database 26ai— Automatic Transaction Rollback &lpar;Priority Transactions with high, medium and low priority&rpar;](https://dev.to/vahidusefzadeh/oracle-ai-database-26ai-automatic-transaction-rollback-priority-transactions-with-high-medium-dm1)
+- [Oracle AI Database 26ai — Dictionary Protection](https://dev.to/vahidusefzadeh/oracle-ai-database-26ai-dictionary-protection-3m91)
+- [Quarkus e Spring Boot: Qual Framework Escolher para Sua Aplicação Java?](https://dev.to/ikauedev/quarkus-e-spring-boot-qual-framework-escolher-para-sua-aplicacao-java-5g4o)
+- [The Architecture of Trust: Securing the Model Context Protocol](https://dev.to/onlineproxyio/the-architecture-of-trust-securing-the-model-context-protocol-2o7m)
+- [WormGPT v4.2: Technical Deep-Dive &amp; AI Security Research 🛡️
+In the evolving landscape of AI-driven cybersecurity, tools like WormGPT v4.2 github&lpar;.&rpar;com/mohamedezi/Wonderly-AI
+
+
+#AI
+#cybersecurity](https://dev.to/mohamed_ezitouni_47688b48/wormgpt-v42-technical-deep-dive-ai-security-research-in-the-evolving-landscape-of-ai-driven-2i6m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
