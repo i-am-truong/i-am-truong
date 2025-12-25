@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Importance of a Healthy Lifestyle in Today’s Fast-Paced World](https://dev.to/dharmikk_baria_51b371d8c5/the-importance-of-a-healthy-lifestyle-in-todays-fast-paced-world-4pio)
-- [Angular vs React](https://dev.to/digitalcrafting/angular-vs-react-2hdm)
-- [Stop Containerizing Your 50-Line Scripts](https://dev.to/levskiy/stop-containerizing-your-50-line-scripts-ak2)
-- [Unleashing the Power of DOM Manipulation in Frontend Development](https://dev.to/vjnvisakh/unleashing-the-power-of-dom-manipulation-in-frontend-development-243p)
-- [Integrating Japanese Stock APIs: Accessing Tokyo Stock Exchange &lpar;TSE&rpar; Data for K-Line and MACD Analysis](https://dev.to/san_siwu_f08e7c406830469/integrating-japanese-stock-apis-accessing-tokyo-stock-exchange-tse-data-for-k-line-and-macd-37na)
+- [Fast-track your tech career vs a traditional degree](https://dev.to/ajia_ali_fb5a7b00f0318020/fast-track-your-tech-career-vs-a-traditional-degree-4aan)
+- [Amazon EKS From The Ground Up - Part 1: Control Plane &amp; Infrastructure](https://dev.to/posibble/amazon-eks-from-the-ground-up-part-1-control-plane-infrastructure-47pf)
+- [This Week in AI: Key Insights from the Latest Podcast Conversations](https://dev.to/ethan_zhang_e501fea89c25b/this-week-in-ai-key-insights-from-the-latest-podcast-conversations-e7)
+- [I built a free tool that runs 15+ website diagnostic checks at once](https://dev.to/antoner-me/i-built-a-free-tool-that-runs-15-website-diagnostic-checks-at-once-3dnp)
+- [7 Urgent Fixes: WatchGuard Firebox Zero-Day CVE-2025-14733](https://dev.to/pentest_testing_corp/7-urgent-fixes-watchguard-firebox-zero-day-cve-2025-14733-ej7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
