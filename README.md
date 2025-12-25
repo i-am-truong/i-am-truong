@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Maestro Flakiness: Source Code Analysis](https://dev.to/omnarayan/maestro-flakiness-source-code-analysis-13ng)
-- [[Boost]](https://dev.to/anthonymax/-5446)
-- [SafeLine v9.3.0: Evolving a Semantic Analysis WAF for Modern Web Security](https://dev.to/arina_cholee/safeline-v930-evolving-a-semantic-analysis-waf-for-modern-web-security-3p73)
-- [New Year with AI: How AI Is Transforming Workflows](https://dev.to/freepixel11/new-year-with-ai-how-ai-is-transforming-workflows-12i0)
-- [Understanding WordPress Architecture for Pentesters](https://dev.to/yogsec/understanding-wordpress-architecture-for-pentesters-1d26)
+- [Cross-Chain Bridges: How Assets Travel Between Blockchains &lpar;Without Getting Robbed&rpar;](https://dev.to/ribhavmodi/cross-chain-bridges-how-assets-travel-between-blockchains-without-getting-robbed-g6m)
+- [Building Practical AI Agents with Amazon Bedrock AgentCore](https://dev.to/aws-builders/building-practical-ai-agents-with-amazon-bedrock-agentcore-j8d)
+- [How I Built a Documentation-Driven Development Workflow with Claude Code](https://dev.to/quochuydev/how-i-built-a-documentation-driven-development-workflow-with-claude-code-1cbb)
+- [MiFID II/III and VeritasChain Protocol: The Future of Cryptographic Audit Trails in Algorithmic Trading](https://dev.to/veritaschain/mifid-iiiii-and-veritaschain-protocol-the-future-of-cryptographic-audit-trails-in-algorithmic-1fik)
+- [AI Video Generator Alternatives in 2025: How to Choose the Right Tool](https://dev.to/herman99630/ai-video-generator-alternatives-in-2025-how-to-choose-the-right-tool-5db9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
