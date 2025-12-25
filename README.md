@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cross-Chain Bridges: How Assets Travel Between Blockchains &lpar;Without Getting Robbed&rpar;](https://dev.to/ribhavmodi/cross-chain-bridges-how-assets-travel-between-blockchains-without-getting-robbed-g6m)
-- [Building Practical AI Agents with Amazon Bedrock AgentCore](https://dev.to/aws-builders/building-practical-ai-agents-with-amazon-bedrock-agentcore-j8d)
-- [How I Built a Documentation-Driven Development Workflow with Claude Code](https://dev.to/quochuydev/how-i-built-a-documentation-driven-development-workflow-with-claude-code-1cbb)
-- [MiFID II/III and VeritasChain Protocol: The Future of Cryptographic Audit Trails in Algorithmic Trading](https://dev.to/veritaschain/mifid-iiiii-and-veritaschain-protocol-the-future-of-cryptographic-audit-trails-in-algorithmic-1fik)
-- [AI Video Generator Alternatives in 2025: How to Choose the Right Tool](https://dev.to/herman99630/ai-video-generator-alternatives-in-2025-how-to-choose-the-right-tool-5db9)
+- [How to Create Christmas Videos with AI: Complete Holiday Content Guide](https://dev.to/_fde76ff2d01974642930b/how-to-create-christmas-videos-with-ai-complete-holiday-content-guide-48hl)
+- [How to Use Node-RED as a Modbus TCP Server &lpar;Without Writing Custom Code&rpar;](https://dev.to/zediot/how-to-use-node-red-as-a-modbus-tcp-server-without-writing-custom-code-37hg)
+- [Why Q&amp;A platforms decay &lpar;and the simplest fix&rpar;](https://dev.to/mobin_poursalami_f30352a2/why-qa-platforms-decay-and-the-simplest-fix-527h)
+- [Blockchain Development Services: Building Trustless Systems for Real-World Business](https://dev.to/oodlesplatform/blockchain-development-services-building-trustless-systems-for-real-world-business-39ca)
+- [Walmart Connect vs Amazon Ads: Where to Start and How to Scale](https://dev.to/akash_yadav_74a8282d80e25/walmart-connect-vs-amazon-ads-where-to-start-and-how-to-scale-jpg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
