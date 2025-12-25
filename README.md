@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What is None network driver](https://dev.to/meghasharmaaaa/what-is-none-network-driver-3pmi)
-- [AI SLOP v/s polished content](https://dev.to/sehgalspandan/ai-slop-vs-polished-content-2435)
-- [Aurora Serverless v2: When &quot;I/O Optimized&quot; Actually Costs You More](https://dev.to/aws-builders/aurora-serverless-v2-when-io-optimized-actually-costs-you-more-4bb2)
-- [Indexes and the Rise of the DBMS](https://dev.to/lovestaco/indexes-and-the-rise-of-the-dbms-1n0p)
-- [Core Premise of Function in JavaScript](https://dev.to/sinhasagar01/functions-5bab)
+- [2025 in Review: The Adventures of Blink](https://dev.to/linkbenjamin/2025-in-review-the-adventures-of-blink-37jp)
+- [Homelabing - Local to online setup suppressing CGNAT](https://dev.to/priyanshuverma/homelabing-local-to-online-setup-suppressing-cgnat-mpd)
+- [Web Bluetooth Guide: How to Build a Real-Time Heart Rate Dashboard](https://dev.to/wellallytech/web-bluetooth-guide-how-to-build-a-real-time-heart-rate-dashboard-nj7)
+- [Runtime Environment Variables for React Apps with Nginx and Docker](https://dev.to/imzihad21/runtime-environment-variables-for-react-apps-with-nginx-and-docker-3p62)
+- [Cafes](https://dev.to/jan_martinezteixido_a818/cafes-29jk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
