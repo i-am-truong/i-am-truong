@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Reliable Data with AWS Glue Data Quality](https://dev.to/aws-builders/reliable-data-with-aws-glue-data-quality-5cj2)
+- [Best SaaS Dashboard Templates](https://dev.to/tailwindadmin/best-saas-dashboard-templates-22m6)
 - [GLM-4.7 Now on SiliconFlow: Advanced Coding, Reasoning &amp; Tool Use Capabilities](https://dev.to/siliconflow/glm-47-now-on-siliconflow-advanced-coding-reasoning-tool-use-capabilities-41o8)
-- [Too much code, too many PRs. AI, please send help!](https://dev.to/sekimori_roma/too-much-code-too-many-prs-ai-please-send-help-13i9)
-- [Understanding Browser Automation Detection: A Technical Deep Dive for Developers](https://dev.to/digitalgrowthpro/understanding-browser-automation-detection-a-technical-deep-dive-for-developers-l4a)
-- [LangGraph HITL: The @task Caching Gotcha That Cost Me 3 Days](https://dev.to/rigby_/langgraph-hitl-the-task-caching-gotcha-that-cost-me-3-days-1g0j)
-- [**Build Secure JWT Authentication and Session Management System in Go with Redis**](https://dev.to/nithinbharathwaj/build-secure-jwt-authentication-and-session-management-system-in-go-with-redis-4200)
+- [Modern Networking in iOS with URLSession and async/await – Part 2](https://dev.to/markkazakov/modern-networking-in-ios-with-urlsession-and-asyncawait-part-2-1d3i)
+- [Stop Building Drawing Tools From Scratch: Meet js-draw, The Library That Handles Infinite Zoom and Stylus Input](https://dev.to/githubopensource/stop-building-drawing-tools-from-scratch-meet-js-draw-the-library-that-handles-infinite-zoom-and-52eo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
