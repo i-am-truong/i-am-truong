@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Best of 2025 from Rails Designer](https://dev.to/railsdesigner/the-best-of-2025-from-rails-designer-58ga)
-- [Rethinking How we write JSX in React - Part 1](https://dev.to/ashishsimplecoder/rethinking-how-we-write-jsx-in-react-part-1-4nl)
-- [Day-16 of DevOps: Mastering Dockerfiles, Volumes, and Docker Compose 🐳](https://dev.to/jayanth_dasari_7/day-16-of-devops-mastering-dockerfiles-volumes-and-docker-compose-5hm4)
-- [Stop Waiting: Why I’m Going All-In on AWS in 2026 &lpar;And How I Plan to Survive&rpar;](https://dev.to/eric_rodrguez_db5074ca74/stop-waiting-why-im-going-all-in-on-aws-in-2026-and-how-i-plan-to-survive-2ma7)
-- [Java Core Mastery Part 2: Advanced Concepts &amp; Question: Prep 🚀](https://dev.to/rajat128/java-core-mastery-part-2-advanced-concepts-question-prep-3oh0)
+- [Week 2 Scripting Challenge: Log Parser](https://dev.to/fosres/week-2-scripting-challenge-log-parser-4fad)
+- [Getting Started with Docker](https://dev.to/ethan_zhang_e501fea89c25b/getting-started-with-docker-el1)
+- [My Article Title From File](https://dev.to/ethan_zhang_e501fea89c25b/my-article-title-from-file-jkb)
+- [Accelerating Cures: How IQVIA Scales AI with NVIDIA and AWS 🧬🚀](https://dev.to/karen_tam_3e10b93a14f058a/accelerating-cures-how-iqvia-scales-ai-with-nvidia-and-aws-1i7n)
+- [Tokenomics&#39; Hidden Flaw: Why Economic Models Need Privacy to Prevent Manipulation](https://dev.to/savvysid/tokenomics-hidden-flaw-why-economic-models-need-privacy-to-prevent-manipulation-56ng)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
