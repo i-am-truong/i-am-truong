@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How Does a Senior Program Manager Use Microsoft Planner to Stay on Track?](https://dev.to/alexrodovit/how-does-a-senior-program-manager-use-microsoft-planner-to-stay-on-track-86f)
+- [Permission and Ownership – Linux Foundation for DevOps](https://dev.to/chetan_tekam_3500/permission-and-ownership-linux-foundation-for-devops-16l)
+- [The LastPass Crypto Nightmare Proves We&#39;ve Been Wrong About Password Managers](https://dev.to/zeroblind25/the-lastpass-crypto-nightmare-proves-weve-been-wrong-about-password-managers-2e87)
+- [Deep learning in remote sensing: a review](https://dev.to/paperium/deep-learning-in-remote-sensing-a-review-10cn)
 - [Automating FinTech API Documentation with CI/CD and CLI Tooling](https://dev.to/abdulrahman_/automating-fintech-api-documentation-with-cicd-and-cli-tooling-2i3a)
-- [Event-Driven Architecture Explained: A Deep Dive](https://dev.to/techblogs/event-driven-architecture-explained-a-deep-dive-35ja)
-- [Navigating the Labyrinth: Effective Database Indexing Strategies](https://dev.to/techblogs/navigating-the-labyrinth-effective-database-indexing-strategies-2oam)
-- [Improving a Section That Caused Repeated Questions](https://dev.to/wang_wei_7bca82af800c6f68/improving-a-section-that-caused-repeated-questions-589a)
-- [Apple&#39;s New Mini App Rules: Comply or Face App Store Removal](https://dev.to/arshtechpro/apples-guideline-47-update-what-every-developer-hosting-html5-mini-apps-must-know-90)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
