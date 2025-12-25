@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Unstructured Text is the Final Boss: Parsing Doctor&#39;s Notes with LLMs 🏥](https://dev.to/beck_moulton/unstructured-text-is-the-final-boss-parsing-doctors-notes-with-llms-4l8e)
-- [Architecture of Shadows – The Hidden Monopoly and the Battle for Information Control](https://dev.to/fayzakseo/architecture-of-shadows-the-hidden-monopoly-and-the-battle-for-information-control-34eb)
-- [My Blog Post](https://dev.to/ethan_zhang_e501fea89c25b/my-blog-post-3m9h)
-- [Getting Started with Docker](https://dev.to/ethan_zhang_e501fea89c25b/getting-started-with-docker-3a)
-- [🚀 Terraform Day 18: Serverless Automation with AWS Lambda Using Terraform](https://dev.to/jeeva_5c84a254e90842940dd/terraform-day-18-serverless-automation-with-aws-lambda-using-terraform-20ga)
+- [Tiny Local AI: The Pocket Superpower Hiding in Plain Sight](https://dev.to/aiwithapex/tiny-local-ai-the-pocket-superpower-hiding-in-plain-sight-3hnk)
+- [Reading Ruby 4.0 NEWS with Pros](https://dev.to/ko1/reading-ruby-40-news-with-pros-3mln)
+- [14 Design Mistakes Developers Make &lpar;and How to Fix Them With Examples&rpar;](https://dev.to/manukumar07/14-design-mistakes-developers-make-and-how-to-fix-them-with-examples-2mh4)
+- [Scrapy Items: The Complete Beginner&#39;s Guide &lpar;Why You Should Stop Using Dictionaries&rpar;](https://dev.to/ikram_khan/scrapy-items-the-complete-beginners-guide-why-you-should-stop-using-dictionaries-4hfi)
+- [Exploratory Data Analysis &lpar;EDA&rpar;](https://dev.to/ram_vnet_f71e560ae27f2cae/exploratory-data-analysis-eda-4dpi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
