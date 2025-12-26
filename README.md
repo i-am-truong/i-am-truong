@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ReCode: The AI-Powered Workspace for Web Development](https://dev.to/georgel3d17288/recode-the-ai-powered-workspace-for-web-development-1dac)
+- [Don&#39;t Let Your Node.js App Die Ugly: A Guide to Perfect Graceful Shutdowns](https://dev.to/nse569h/dont-let-your-nodejs-app-die-ugly-a-guide-to-perfect-graceful-shutdowns-ing)
 - [Built a simple Slack notification](https://dev.to/chevv_automation_79298a9/built-a-simple-slack-notification-352)
 - [AWS CDK 100 Drill Exercises #005: CDK Parameters —— Managing Parameters with TypeScript vs cdk.json](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-005-cdk-parameters-managing-parameters-with-typescript-vs-cdkjson-12b9)
 - [Why Your B2B Tool Stack Probably Has Too Many Overlapping Solutions](https://dev.to/aiexpertreviewer/why-your-b2b-tool-stack-probably-has-too-many-overlapping-solutions-4bkj)
-- [Why Your Brain Dumps LeetCode Solutions &lpar;And How to Fix It&rpar;](https://dev.to/alex_hunter_44f4c9ed6671e/why-your-brain-dumps-leetcode-solutions-and-how-to-fix-it-42p8)
-- [Automatically Refresh Forms After Status Changes in Model Driven Apps](https://dev.to/_neronotte/automatically-refresh-forms-after-status-changes-in-model-driven-apps-ig)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
