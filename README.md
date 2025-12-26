@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SwiftUI Accessibility Internals](https://dev.to/sebastienlato/swiftui-accessibility-internals-2kl2)
-- [CodeIgniter vs Laravel: A Human-Centric Comparison](https://dev.to/gustavowoltmann18/codeigniter-vs-laravel-a-human-centric-comparison-3le0)
-- [Solved: I analyzed 10k+ WordPress plugins for security issues, errors, and warnings.](https://dev.to/techresolve/solved-i-analyzed-10k-wordpress-plugins-for-security-issues-errors-and-warnings-202h)
-- [Building an SPA, Real-Time Trading Platform with Vanilla PHP &amp; JavaScript](https://dev.to/devikenna/building-an-spa-real-time-trading-platform-with-vanilla-php-javascript-6ik)
-- [Solved: How to look for a good MSP](https://dev.to/techresolve/solved-how-to-look-for-a-good-msp-3iap)
+- [How I Built a Real-Time Physics Engine for Electrical Engineering with Flutter](https://dev.to/rubenortz_/how-i-built-a-real-time-physics-engine-for-electrical-engineering-with-flutter-2jfh)
+- [Scale by Subtraction: An Engineering Leader’s View on Practical AI](https://dev.to/mosiddi/scale-by-subtraction-an-engineering-leaders-view-on-practical-ai-4iba)
+- [Adding a Simple Summary at the Top of a Complex Page](https://dev.to/wang_wei_7bca82af800c6f68/adding-a-simple-summary-at-the-top-of-a-complex-page-23d4)
+- [Building Reusable UI in React: Compound Components, Render Props, and API Design](https://dev.to/ward_khaddour/building-reusable-ui-in-react-compound-components-render-props-and-api-design-38lg)
+- [AI Trading Daily Report: December 26, 2025 | $+189.98](https://dev.to/igorganapolsky/ai-trading-daily-report-december-26-2025-18998-2838)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
