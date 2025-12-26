@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How do you handle optional fields in request body?](https://dev.to/realnamehidden1_61/how-do-you-handle-optional-fields-in-request-body-1lc0)
+- [How do you handle optional fields in request body in Spring Boot?](https://dev.to/realnamehidden1_61/how-do-you-handle-optional-fields-in-request-body-1lc0)
+- [From Interview Failure to &quot;Aha!&quot; Moment: How a Screaming Terminal Taught Me Debouncing](https://dev.to/fcimendere/from-interview-failure-to-aha-moment-how-a-screaming-terminal-taught-me-debouncing-49b6)
+- [Stop Uploading Your Thoughts: A 100% Private, Local-First Sticky Notes Browser Tool](https://dev.to/techno_kraft_in/stop-uploading-your-thoughts-a-100-private-local-first-sticky-notes-browser-tool-5c77)
 - [How Do You Read Enum Values from Query Parameters in Spring Boot?](https://dev.to/realnamehidden1_61/how-do-you-read-enum-values-from-query-parameters-in-spring-boot-3p6p)
 - [🧠 Going Full Stack: Building the Backend &amp; REST API](https://dev.to/techgeniuskaran/going-full-stack-building-the-backend-rest-api-2c51)
-- [Building Agent Skills from Scratch](https://dev.to/onlyoneaman/building-agent-skills-from-scratch-lbl)
-- [Building a Game Website With Zero Coding Experience &lpar;Thanks to Codex](https://dev.to/defoy/building-a-game-website-with-zero-coding-experience-thanks-to-codex-4dgg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
