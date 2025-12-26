@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Using CodeIgniter in 2025: Pros and Cons](https://dev.to/guswoltmann84/using-codeigniter-in-2025-pros-and-cons-hk5)
+- [Docling + Go + Bob: The Modern Document Stack](https://dev.to/aairom/docling-go-bob-the-modern-document-stack-37b)
+- [Transform Your SDK Integration with Monetzly&#39;s AI Monetization](https://dev.to/monetzly/transform-your-sdk-integration-with-monetzlys-ai-monetization-24j1)
+- [Beyond the Shell: A Developer’s Guide to Rescuing Linux from Initramfs Corruption ✴️](https://dev.to/kiran_ravi_092a2cfcf60389/beyond-the-shell-a-developers-guide-to-rescuing-linux-from-initramfs-corruption-32l9)
 - [Understanding Gradients: The Engine Behind Neural Network Learning](https://dev.to/rijultp/understanding-gradients-the-engine-behind-neural-network-learning-3om0)
-- [🚀 Build a Todo App API with FastAPI + uv &lpar;The Cleanest Way!&rpar;](https://dev.to/cmanish049/build-a-todo-app-api-with-fastapi-uv-the-cleanest-way-3g6p)
-- [The Multiplier Is the Job Now: Why Agentic AI Changes Everything](https://dev.to/mikelane/the-multiplier-is-the-job-now-why-agentic-ai-changes-everything-4n3c)
-- [Week 4 of 40 – First Full-Stack App with React, TypeScript, and Python](https://dev.to/digeratis/week-4-of-40-first-full-stack-app-with-react-typescript-and-python-bpp)
-- [Im creating new app that will help to new DevOps developers better understand concepts of DevOps and how it works](https://dev.to/monokkai/im-creating-new-app-that-will-help-to-new-devops-developers-better-understand-concepts-of-devops-5bn9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
