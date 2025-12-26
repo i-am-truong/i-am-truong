@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Rust Weekly Log: Tracing, Observability &amp; Cryptographic Hashes](https://dev.to/vinecksie_rust/rust-weekly-log-tracing-observability-cryptographic-hashes-27kh)
-- [Federated Machine Learning and the Future of Data Privacy](https://dev.to/codecraft154/federated-machine-learning-and-the-future-of-data-privacy-39c9)
-- [I Built a Privacy-First, Syntax-Aware Diff Tool because &quot;Text Compare&quot; Wasn&#39;t Enough](https://dev.to/diffguru/i-built-a-privacy-first-syntax-aware-diff-tool-because-text-compare-wasnt-enough-1bf1)
-- [Women’s Premium Kurti: Elegance Refined for the Modern Woman](https://dev.to/houseofsiyaab/womens-premium-kurti-elegance-refined-for-the-modern-woman-all)
-- [Which casing do you prefer?](https://dev.to/avcat/which-casing-do-you-prefer-4kc6)
+- [Why Your AI Needs the Right to Say &quot;I Don&#39;t Know&quot;](https://dev.to/synthaicode_commander/why-your-ai-needs-the-right-to-say-i-dont-know-4nmc)
+- [WINDOWS HOOKS ARE WEIRD](https://dev.to/mirrai/windows-hooks-are-weird-3cld)
+- [MemoryGraph vs Graphiti: Choosing the Right Memory for Your AI Agent](https://dev.to/gregory_dickson_6dd6e2b55/memorygraph-vs-graphiti-choosing-the-right-memory-for-your-ai-agent-526k)
+- [Clone Your CTO: The Architecture of an &#39;AI Twin&#39; &lpar;DSPy + Unsloth&rpar;](https://dev.to/_aparna_pradhan_/clone-your-cto-the-architecture-of-an-ai-twin-dspy-unsloth-5gei)
+- [The DNA of Data: Objects &amp; Arrays Masterclass](https://dev.to/vila_segura_34b9bdb2c9cd6/the-dna-of-data-objects-arrays-masterclass-jdp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
