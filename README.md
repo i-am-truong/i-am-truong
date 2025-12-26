@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SwiftUI Accessibility Internals](https://dev.to/sebastienlato/swiftui-accessibility-internals-2kl2)
 - [CodeIgniter vs Laravel: A Human-Centric Comparison](https://dev.to/gustavowoltmann18/codeigniter-vs-laravel-a-human-centric-comparison-3le0)
-- [14. Longest Common Prefix | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/14-longest-common-prefix-leetcode-top-interview-150-coding-questions-48np)
-- [Using CodeIgniter in 2025: Pros and Cons](https://dev.to/guswoltmann84/using-codeigniter-in-2025-pros-and-cons-hk5)
-- [Docling + Go + Bob: The Modern Document Stack](https://dev.to/aairom/docling-go-bob-the-modern-document-stack-37b)
-- [Beyond the Shell: A Developer’s Guide to Rescuing Linux from Initramfs Corruption ✴️](https://dev.to/kiran_ravi_092a2cfcf60389/beyond-the-shell-a-developers-guide-to-rescuing-linux-from-initramfs-corruption-32l9)
+- [Solved: I analyzed 10k+ WordPress plugins for security issues, errors, and warnings.](https://dev.to/techresolve/solved-i-analyzed-10k-wordpress-plugins-for-security-issues-errors-and-warnings-202h)
+- [Building an SPA, Real-Time Trading Platform with Vanilla PHP &amp; JavaScript](https://dev.to/devikenna/building-an-spa-real-time-trading-platform-with-vanilla-php-javascript-6ik)
+- [Solved: How to look for a good MSP](https://dev.to/techresolve/solved-how-to-look-for-a-good-msp-3iap)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
