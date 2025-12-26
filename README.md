@@ -120,13 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Guide to Integrate AWS Strands Agent with AgentCore Runtime using SDK Integration](https://dev.to/vimal_venugopal_70b861503/guide-to-integrate-aws-strands-agent-with-agentcore-runtime-using-sdk-integration-40dk)
+- [Dec 26, 2025 | The Tongyi Weekly: Your weekly dose of cutting-edge AI from Tongyi Lab](https://dev.to/alibaba_tongyi_lab_25ad9f/dec-26-2025-the-tongyi-weekly-your-weekly-dose-of-cutting-edge-ai-from-tongyi-lab-910)
 - [Update FhyServe 1.0.10: Web Server &amp; Runtime Local](https://dev.to/fitri-hy/update-fhyserve-1010-web-server-runtime-local-3jbi)
-- [Skip the 4-year wait: build a DevOps career faster
-Thinking about Santosh University or another traditional path, but worried about time, cost? With AlNafi&#39;s UK-accredited Diploma in DevOps. 
-#AlNafi #OnlineEducation](https://dev.to/bint7_7/skip-the-4-year-wait-build-a-devops-career-faster-thinking-about-santosh-university-or-another-2n1a)
-- [Coase&#39;s Penguin, or Linux and the Nature of the Firm](https://dev.to/paperium/coases-penguin-or-linux-and-the-nature-of-the-firm-e4m)
-- [[Boost]](https://dev.to/nitinnair89/-17fj)
-- [When long chats drift: hidden errors in AI-assisted coding](https://dev.to/himanshu_jetani_0a4817c3f/when-long-chats-drift-hidden-errors-in-ai-assisted-coding-4g7f)
+- [Mastering Claude Code: 34 Efficiency Hacks for AI-Era API Development](https://dev.to/nakamura_takuya/mastering-claude-code-34-efficiency-hacks-for-ai-era-api-development-3c0c)
+- [When long chats quietly break builds](https://dev.to/himanshu_jetani_0a4817c3f/when-long-chats-quietly-break-builds-2cbc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
