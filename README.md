@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SwiftUI vs. React Native](https://dev.to/akinbola_orisajobi_025e31/swiftui-vs-react-native-3j7)
-- [Why Your Python Logs Vanish in Docker &lpar;and How PYTHONUNBUFFERED=1 Saves the Day&rpar;](https://dev.to/wewake-dev/why-your-python-logs-vanish-in-docker-and-how-pythonunbuffered1-saves-the-day-65i)
-- [ReCode: The AI-Powered Workspace for Web Development](https://dev.to/georgel3d17288/recode-the-ai-powered-workspace-for-web-development-1dac)
-- [Don&#39;t Let Your Node.js App Die Ugly: A Guide to Perfect Graceful Shutdowns](https://dev.to/nse569h/dont-let-your-nodejs-app-die-ugly-a-guide-to-perfect-graceful-shutdowns-ing)
-- [Built a simple Slack notification](https://dev.to/chevv_automation_79298a9/built-a-simple-slack-notification-352)
+- [VPC Part 2 : AWS Site-to-Site VPN &lpar;On-Prem Simulation&rpar;](https://dev.to/nash9/vpc-part-2-aws-site-to-site-vpn-on-prem-simulation-4eia)
+- [VPC Part 1 : AWS VPC Peering](https://dev.to/nash9/vpc-part-1-aws-vpc-peering-je4)
+- [Day 2 BookMyShow Progress](https://dev.to/vishwapratapsingh90/day-2-bookmyshow-progress-5c30)
+- [I Built a News App Because Indian Media Made Me Angry](https://dev.to/iojas/i-built-a-news-app-because-indian-media-made-me-angry-54dc)
+- [Revolutionize LLM Apps with Monetzly&#39;s AI Monetization Strategies](https://dev.to/monetzly/revolutionize-llm-apps-with-monetzlys-ai-monetization-strategies-52ki)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
