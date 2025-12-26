@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🔐Automated Security Incident Response System ⚠](https://dev.to/neo_rival67/automated-security-incident-response-system-1io1)
-- [Parrot Security OS Made Easy: A Beginner’s Installation Walkthrough](https://dev.to/rootxblogs/parrot-security-os-made-easy-a-beginners-installation-walkthrough-3g9)
-- [Enterprise-Grade RAG Platform: Orchestrating Amazon Bedrock Agents via Red Hat OpenShift AI](https://dev.to/mgonzalezo/enterprise-grade-rag-platform-orchestrating-amazon-bedrock-agents-via-red-hat-openshift-ai-5ak1)
-- [How to Improve Checkout Experiences for More Sales](https://dev.to/priya_dharshini_b30d11c20/how-to-improve-checkout-experiences-for-more-sales-1jei)
-- [Stop Writing Singleton Classes: Use ES6 Modules &lpar;The TypeScript Way&rpar;](https://dev.to/saiful__bashar/stop-writing-singleton-classes-use-es6-modules-the-typescript-way-29kj)
+- [Enterprise-Ready AI Workflows: Formatted Reports + 80% Cost Savings](https://dev.to/silversurfer562/enterprise-ready-ai-workflows-formatted-reports-80-cost-savings-5hc2)
+- [Maestro: A Single Framework for Mobile and Web E2E Testing](https://dev.to/leading-edje/maestro-a-single-framework-for-mobile-and-web-e2e-testing-b98)
+- [Neovim for Blog Writing: Plugins, Keymaps, and a Cheatsheet](https://dev.to/prasincs/neovim-for-blog-writing-plugins-keymaps-and-a-cheatsheet-38fn)
+- [It&#39;s Not Rocket Science, It&#39;s a Flywheel: Engineering Open Source Communities with DevEx](https://dev.to/jerdog/its-not-rocket-science-its-a-flywheel-engineering-open-source-communities-with-devex-4id2)
+- [How to Move Vital Records from the Filing Cabinet to a Secure Digital Vault](https://dev.to/insureyouknow_79344b896cd/how-to-move-vital-records-from-the-filing-cabinet-to-a-secure-digital-vault-opd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
