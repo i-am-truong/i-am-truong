@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Your AI Needs the Right to Say &quot;I Don&#39;t Know&quot;](https://dev.to/synthaicode_commander/why-your-ai-needs-the-right-to-say-i-dont-know-4nmc)
-- [WINDOWS HOOKS ARE WEIRD](https://dev.to/mirrai/windows-hooks-are-weird-3cld)
-- [MemoryGraph vs Graphiti: Choosing the Right Memory for Your AI Agent](https://dev.to/gregory_dickson_6dd6e2b55/memorygraph-vs-graphiti-choosing-the-right-memory-for-your-ai-agent-526k)
-- [Clone Your CTO: The Architecture of an &#39;AI Twin&#39; &lpar;DSPy + Unsloth&rpar;](https://dev.to/_aparna_pradhan_/clone-your-cto-the-architecture-of-an-ai-twin-dspy-unsloth-5gei)
-- [The DNA of Data: Objects &amp; Arrays Masterclass](https://dev.to/vila_segura_34b9bdb2c9cd6/the-dna-of-data-objects-arrays-masterclass-jdp)
+- [Built a simple Slack notification](https://dev.to/chevv_automation_79298a9/built-a-simple-slack-notification-352)
+- [AWS CDK 100 Drill Exercises #005: CDK Parameters —— Managing Parameters with TypeScript vs cdk.json](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-005-cdk-parameters-managing-parameters-with-typescript-vs-cdkjson-12b9)
+- [Why Your B2B Tool Stack Probably Has Too Many Overlapping Solutions](https://dev.to/aiexpertreviewer/why-your-b2b-tool-stack-probably-has-too-many-overlapping-solutions-4bkj)
+- [Why Your Brain Dumps LeetCode Solutions &lpar;And How to Fix It&rpar;](https://dev.to/alex_hunter_44f4c9ed6671e/why-your-brain-dumps-leetcode-solutions-and-how-to-fix-it-42p8)
+- [Automatically Refresh Forms After Status Changes in Model Driven Apps](https://dev.to/_neronotte/automatically-refresh-forms-after-status-changes-in-model-driven-apps-ig)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
