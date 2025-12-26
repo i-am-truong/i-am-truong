@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What F# Knows About Functors and What Comes Next](https://dev.to/pstadnicki/what-f-knows-about-functors-and-what-comes-next-2i59)
-- [🟢Nginx Demystified: A Practical Guide from Beginner 🌱 to Production 👨‍💻](https://dev.to/hemant_007/nginx-demystified-a-practical-guide-from-beginner-to-production-2jpj)
-- [Implementing Real-Time Emotion Detection in Voice AI: A Developer&#39;s Journey](https://dev.to/callstacktech/implementing-real-time-emotion-detection-in-voice-ai-a-developers-journey-1i09)
-- [My Year Review &lpar;2025&rpar; - by Chat GPT](https://dev.to/carlosorioli/my-year-review-2025-by-chat-gpt-15ig)
-- [How I Built a Social Media API Platform for Developers](https://dev.to/imbuedata/how-i-built-a-social-media-api-platform-for-developers-2p85)
+- [We’re Vibe Coding in 2026. Why Are We Still Deploying Like It’s 2018?](https://dev.to/vamsi_0fe326ce8584827fca5/were-vibe-coding-in-2026-why-are-we-still-deploying-like-its-2018-248f)
+- [How I Built an Automation Tool That Auto-Generates Payroll Data](https://dev.to/sachin_s_ceebaa551ca01f44/how-i-built-an-automation-tool-that-auto-generates-payroll-data-300b)
+- [Fix Time Jumps Between Linux and Windows &lpar;Dual-Boot&rpar;](https://dev.to/hopsayer/fix-time-jumps-between-linux-and-windows-dual-boot-3omc)
+- [🧾 Console.Write&lpar;&rpar;: Explorando todas as possibilidades!](https://dev.to/daniloopinheiro/consolewrite-explorando-todas-as-possibilidades-8im)
+- [How Machines See: Inside Vision Models and Visual Understanding APIs](https://dev.to/getstreamhq/how-machines-see-inside-vision-models-and-visual-understanding-apis-1onl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
