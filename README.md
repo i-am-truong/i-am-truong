@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Level Up Your Code: Why Object-Oriented Programming &lpar;OOP&rpar; is the Backbone of Game Dev](https://dev.to/oscarolg/level-up-your-code-why-object-oriented-programming-oop-is-the-backbone-of-game-dev-2434)
 - [Introducing a new Front-End Framework](https://dev.to/elanatframework/introducing-a-new-front-end-framework-22fm)
-- [API monitoring that’s fast to set up, clear to read, and free of fluff. Self-host with Docker, get email alerts that explain what’s failing and why. Try it: https://apimonitoring.h2msolutions.de/ and tell me what’s missing.](https://dev.to/h2msolutions/api-monitoring-thats-fast-to-set-up-clear-to-read-and-free-of-fluff-self-host-with-docker-get-3igc)
+- [Java ATM CLI Dev Log #3: VTU Features](https://dev.to/chivicks_hazard/java-atm-cli-dev-log-3-vtu-features-1a2c)
+- [🐻 Introducing Zustand Copilot: The Ultimate VS Code Extension for Zustand State Management](https://dev.to/mahmud-r-farhan/introducing-zustand-copilot-the-ultimate-vs-code-extension-for-zustand-state-management-1ede)
 - [Publishing Pipeline v1.2.0 – backlinks and X support](https://dev.to/12ww1160/publishing-pipeline-v120-backlinks-and-x-support-mbm)
-- [Tracing the Meaning of a Word: Rendering &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/tracing-the-meaning-of-a-word-rendering-bite-size-article-115c)
-- [Scrapy HTTP Cache: The Complete Beginner&#39;s Guide &lpar;Stop Hammering Websites&rpar;](https://dev.to/ikram_khan/scrapy-http-cache-the-complete-beginners-guide-stop-hammering-websites-4maf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
