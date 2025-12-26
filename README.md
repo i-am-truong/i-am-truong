@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Security news weekly round-up - 26th December 2025](https://dev.to/ziizium/security-news-weekly-round-up-26th-december-2025-3phh)
-- [Alephium and the Case for Thoughtful Layer-1 Design](https://dev.to/abdulmalik20881/alephium-and-the-case-for-thoughtful-layer-1-design-3fj1)
-- [Adding a Simple Summary at the Top of a Complex Page](https://dev.to/favoured_anuanatata_d1cd1/adding-a-simple-summary-at-the-top-of-a-complex-page-2ae)
-- [Why Most Mortgage Calculators Suck &lpar;And Why I Built a &quot;Geek-Mode&quot; Version&rpar;](https://dev.to/sbarbat/why-most-mortgage-calculators-suck-and-why-i-built-a-geek-mode-version-4e8l)
-- [STEP 2: Automating Docker Build &amp; Push with GitHub Actions](https://dev.to/shakol/step-2-automating-docker-build-push-with-github-actions-4gba)
+- [Why &quot;Single Key&quot; Wallets are Obsolete](https://dev.to/auli_takala_d379835856f1f/why-single-key-wallets-are-obsolete-540h)
+- [Fixing the &quot;Ghost Folder&quot; in GitHub: Converting a Broken Submodule to a Normal Folder](https://dev.to/raziq_din_bd0274cc2ac748b/fixing-the-ghost-folder-in-github-converting-a-broken-submodule-to-a-normal-folder-44c5)
+- [Building a Home SOC Lab](https://dev.to/shynsec/building-a-home-soc-lab-2p7c)
+- [I Almost Let an LLM Delete My Database. Here&#39;s What I Built to Prevent It.](https://dev.to/zeredbaron/i-almost-let-an-llm-delete-my-database-heres-what-i-built-to-prevent-it-p7k)
+- [PEM vs. PKCS#12 &lpar;P12/PFX&rpar;: Understanding the Difference Between Certificate Formats](https://dev.to/pascalre/pem-vs-pkcs12-p12pfx-understanding-the-difference-between-certificate-formats-1b9d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
