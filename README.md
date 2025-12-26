@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing a new Front-End Framework](https://dev.to/elanatframework/introducing-a-new-front-end-framework-22fm)
 - [API monitoring that’s fast to set up, clear to read, and free of fluff. Self-host with Docker, get email alerts that explain what’s failing and why. Try it: https://apimonitoring.h2msolutions.de/ and tell me what’s missing.](https://dev.to/h2msolutions/api-monitoring-thats-fast-to-set-up-clear-to-read-and-free-of-fluff-self-host-with-docker-get-3igc)
 - [Publishing Pipeline v1.2.0 – backlinks and X support](https://dev.to/12ww1160/publishing-pipeline-v120-backlinks-and-x-support-mbm)
 - [Tracing the Meaning of a Word: Rendering &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/tracing-the-meaning-of-a-word-rendering-bite-size-article-115c)
 - [Scrapy HTTP Cache: The Complete Beginner&#39;s Guide &lpar;Stop Hammering Websites&rpar;](https://dev.to/ikram_khan/scrapy-http-cache-the-complete-beginners-guide-stop-hammering-websites-4maf)
-- [Invoicing Tool To Get Paid In Bitcoin &lpar;No Fees, No KYC&rpar;](https://dev.to/satshacker/invoicing-tool-to-get-paid-in-bitcoin-no-fees-no-kyc-3f90)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
