@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How do you handle optional fields in request body?](https://dev.to/realnamehidden1_61/how-do-you-handle-optional-fields-in-request-body-1lc0)
 - [How Do You Read Enum Values from Query Parameters in Spring Boot?](https://dev.to/realnamehidden1_61/how-do-you-read-enum-values-from-query-parameters-in-spring-boot-3p6p)
 - [🧠 Going Full Stack: Building the Backend &amp; REST API](https://dev.to/techgeniuskaran/going-full-stack-building-the-backend-rest-api-2c51)
 - [Building Agent Skills from Scratch](https://dev.to/onlyoneaman/building-agent-skills-from-scratch-lbl)
 - [Building a Game Website With Zero Coding Experience &lpar;Thanks to Codex](https://dev.to/defoy/building-a-game-website-with-zero-coding-experience-thanks-to-codex-4dgg)
-- [Scale Ethically: Implement Multilingual AI Voice Models with Data Privacy](https://dev.to/callstacktech/scale-ethically-implement-multilingual-ai-voice-models-with-data-privacy-2h5h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
