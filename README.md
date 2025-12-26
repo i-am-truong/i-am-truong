@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The $1 Takeover: How the U.S. Government &quot;Nationalized&quot; Anthropic](https://dev.to/om_shree_0709/the-1-takeover-how-the-us-government-nationalized-anthropic-3pp6)
-- [Why Your Health Data Belongs on Your Device &lpar;Not the Cloud&rpar;: A Local-First Manifesto](https://dev.to/beck_moulton/why-your-health-data-belongs-on-your-device-not-the-cloud-a-local-first-manifesto-3nj)
-- [🌐 SEO &amp; Community Update - Kiksi Discord Bot](https://dev.to/dev_lenchen/seo-community-update-kiksi-discord-bot-1d8c)
-- [The EKS 1.32 1.33 Upgrade That Broke Everything &lpar;And How I Fixed It&rpar;](https://dev.to/damola12345/the-eks-132-133-upgrade-that-broke-everything-and-how-i-fixed-it-5fe9)
-- [Stop Tutorial Hell: I Built the Ultimate Free DevOps Learning Path &lpar;Zero to Production&rpar; 🚀](https://dev.to/yatharth_sanghavi/stop-tutorial-hell-i-built-the-ultimate-free-devops-learning-path-zero-to-production-4nk4)
+- [Modern SharePoint Consulting Services Are Redefining Intranet and Knowledge Management for 2026](https://dev.to/justinsaran/modern-sharepoint-consulting-services-are-redefining-intranet-and-knowledge-management-for-2026-fl6)
+- [WebClient ColdStart 문제](https://dev.to/headf1rst/webclient-coldstart-munje-44ln)
+- [IA DLC Con Kiro - Parte 1](https://dev.to/derocoxcloud/ia-dlc-con-kiro-parte-1-25b6)
+- [I built a free AI summarizer that turns any article into 5 key insights](https://dev.to/dehua_song_b54c6a9a611ce9/i-built-a-free-ai-summarizer-that-turns-any-article-into-5-key-insights-1ln2)
+- [node-cron for scheduled jobs](https://dev.to/lucaspereiradesouzat/node-cron-for-scheduled-jobs-7p9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
