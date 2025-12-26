@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [JWT vs PASETO: A Comprehensive Comparison](https://dev.to/codefalconx/jwt-vs-paseto-a-comprehensive-comparison-4l9c)
+- [I built a better search engine for n8n workflows &lpar;with tutorials &amp; verified templates&rpar;](https://dev.to/iloven8n/i-built-a-better-search-engine-for-n8n-workflows-with-tutorials-verified-templates-47h7)
 - [Guide to Integrate AWS Strands Agent with AgentCore Runtime using SDK Integration](https://dev.to/vimal_venugopal_70b861503/guide-to-integrate-aws-strands-agent-with-agentcore-runtime-using-sdk-integration-40dk)
 - [Dec 26, 2025 | The Tongyi Weekly: Your weekly dose of cutting-edge AI from Tongyi Lab](https://dev.to/alibaba_tongyi_lab_25ad9f/dec-26-2025-the-tongyi-weekly-your-weekly-dose-of-cutting-edge-ai-from-tongyi-lab-910)
 - [Update FhyServe 1.0.10: Web Server &amp; Runtime Local](https://dev.to/fitri-hy/update-fhyserve-1010-web-server-runtime-local-3jbi)
-- [Mastering Claude Code: 34 Efficiency Hacks for AI-Era API Development](https://dev.to/nakamura_takuya/mastering-claude-code-34-efficiency-hacks-for-ai-era-api-development-3c0c)
-- [When long chats quietly break builds](https://dev.to/himanshu_jetani_0a4817c3f/when-long-chats-quietly-break-builds-2cbc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
