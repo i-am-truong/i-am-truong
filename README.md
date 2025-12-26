@@ -120,14 +120,13 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Today, GitHub is no longer just a code repository.
-It’s becoming the coordination layer for AI-driven work.
+- [Scalable Wellness Data: Use the CQRS Pattern to Build Faster Health Dashboards](https://dev.to/wellallytech/scalable-wellness-data-use-the-cqrs-pattern-to-build-faster-health-dashboards-2j8p)
+- [Stop Screenshotting! The Fastest Way to Create Moodboards in Miro &lpar;2025 Guide&rpar;](https://dev.to/ethannoww/stop-screenshotting-the-fastest-way-to-create-moodboards-in-miro-2025-guide-231l)
+- [Futuristic Login Form HTML CSS: Building the ‘Infinity Portal’ &lpar;Free Source Code&rpar;
 
-And many teams are still not using it that way without fully realising the shift.](https://dev.to/jaideepparashar/today-github-is-no-longer-just-a-code-repository-its-becoming-the-coordination-layer-for-1oj5)
-- [GitHub Isn’t Just for Code Anymore: It’s the Backbone of AI Workflows](https://dev.to/jaideepparashar/github-isnt-just-for-code-anymore-its-the-backbone-of-ai-workflows-30cg)
-- [Building an on-premise friendly video review tool for game teams](https://dev.to/kirisamemarisa/building-an-on-premise-friendly-video-review-tool-for-game-teams-1907)
-- [Kubernetes Ingress Explained — Routing, TLS, and Real Examples](https://dev.to/sharonkynu/kubernetes-ingress-explained-routing-tls-and-real-examples-32kb)
-- [I built a quiz game to tell Pokémon from prescription drugs](https://dev.to/favstats/i-built-a-quiz-game-to-tell-pokemon-from-prescription-drugs-5gj6)
+https://ahmodmusa.com/futuristic-login-form-html-css/](https://dev.to/ahmod_musa_bd1b2536d20e0e/futuristic-login-form-html-css-building-the-infinity-portal-free-source-code-4l6e)
+- [Advent of Agents - Day 8](https://dev.to/liberifatali/advent-of-agents-day-8-4h88)
+- [eSparkBiz Named Among the Top 10 AI Development Companies for 2026](https://dev.to/anthony_simms/esparkbiz-named-among-the-top-10-ai-development-companies-for-2026-2c6i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
