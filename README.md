@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Zero Trust in 2025 Is Less About Vision, More About Friction](https://dev.to/technology-radius/zero-trust-in-2025-is-less-about-vision-more-about-friction-52mj)
-- [Your &quot;Passive Income&quot; Dream Is a Lie &lpar;And the People Selling It Know It&rpar;](https://dev.to/yasin_mukthar_e569d2e11af/your-passive-income-dream-is-a-lie-and-the-people-selling-it-know-it-69e)
-- [MinIO Alternatives &lpar;Open Source, On-Prem, Real-World Credible&rpar;: SeaweedFS, Garage, RustFS, and Ceph RGW &lpar;Rook&rpar;](https://dev.to/arash_ezazy_f69fb13acdd37/minio-alternatives-open-source-on-prem-real-world-credible-seaweedfs-garage-rustfs-and-ceph-36om)
-- [From Emissions to Earnings: Understanding the Economics of Carbon Markets](https://dev.to/phd_chamber/from-emissions-to-earnings-understanding-the-economics-of-carbon-markets-3pn1)
-- [What Is LAMP Server? Components, Working &amp; Installation Guide](https://dev.to/rootxblogs/what-is-lamp-server-components-working-installation-guide-59hd)
+- [How a Letter of Authorization Can Save Your Project &lpar;and Your Time&rpar;](https://dev.to/priyanshi_m_d195792bc9ee1/how-a-letter-of-authorization-can-save-your-project-and-your-time-2n6)
+- [I Built a 3D AI Avatar That Actually Sees and Talks Back 🎭](https://dev.to/kiranbaby14/i-built-a-3d-ai-avatar-that-actually-sees-and-talks-back-4j1a)
+- [Understanding LLM vs AI: What You Need to Know](https://dev.to/ash_dubai/understanding-llm-vs-ai-what-you-need-to-know-4h2l)
+- [Real-World LLM AI Examples I&#39;ve Used in My Projects](https://dev.to/ash_dubai/real-world-llm-ai-examples-ive-used-in-my-projects-4phk)
+- [Implementing Dynamic Demand Response to Optimize ASIC Mining Costs and ROI](https://dev.to/dan1miner/implementing-dynamic-demand-response-to-optimize-asic-mining-costs-and-roi-10gg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
