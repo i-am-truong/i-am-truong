@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Set Up Your First IAM User in 5 Minutes on AWS](https://dev.to/cyberhack08/how-to-set-up-your-first-iam-user-in-5-minutes-on-aws-2np2)
-- [New PostgreSQL Features I Developed in 2025](https://dev.to/shinyakato_/new-postgresql-features-i-developed-in-2025-3lca)
-- [Enterprise AI Agents: Traceability, Atomicity, and Memory Persistence with AgentHelm](https://dev.to/hadywalied/enterprise-ai-agents-traceability-atomicity-and-memory-persistence-with-agenthelm-417i)
-- [Social Media Safety In A Permanent Online World](https://dev.to/gw-jeni-systems/social-media-safety-in-a-permanent-online-world-4a37)
-- [No Foreign Keys in MongoDB: Rethinking Referential Integrity](https://dev.to/franckpachot/no-foreign-keys-in-mongodb-rethinking-referential-integrity-1b9b)
+- [[Smart Watch] [Stage] Single shelf compilation error: hvigor ERROR: Unexpected string in JSON at position 1877](https://dev.to/harmonyos/smart-watch-stage-single-shelf-compilation-error-hvigor-error-unexpected-string-in-json-at-2h06)
+- [PPanel 完整安装指南：从零开始部署代理面板](https://dev.to/jimquote/ppanel-122-wan-zheng-an-zhuang-zhi-nan-cong-ling-kai-shi-bu-shu-dai-li-mian-ban-ip6)
+- [Day 25 / 365 - Full Stack journey](https://dev.to/munin_borah/day-25-365-full-stack-journey-95i)
+- [How Amazon Sponsored Ad Placement Scraper Achieves 96% Success Rate](https://dev.to/loopsthings/how-amazon-sponsored-ad-placement-scraper-achieves-96-success-rate-ghf)
+- [AI integration, semiconductor advancements, and strategic tech shifts dominate year-end tech news.](https://dev.to/stelixx-insights/ai-integration-semiconductor-advancements-and-strategic-tech-shifts-dominate-year-end-tech-news-53kg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
