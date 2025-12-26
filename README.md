@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SwiftUI vs. React Native](https://dev.to/akinbola_orisajobi_025e31/swiftui-vs-react-native-3j7)
+- [Why Your Python Logs Vanish in Docker &lpar;and How PYTHONUNBUFFERED=1 Saves the Day&rpar;](https://dev.to/wewake-dev/why-your-python-logs-vanish-in-docker-and-how-pythonunbuffered1-saves-the-day-65i)
 - [ReCode: The AI-Powered Workspace for Web Development](https://dev.to/georgel3d17288/recode-the-ai-powered-workspace-for-web-development-1dac)
 - [Don&#39;t Let Your Node.js App Die Ugly: A Guide to Perfect Graceful Shutdowns](https://dev.to/nse569h/dont-let-your-nodejs-app-die-ugly-a-guide-to-perfect-graceful-shutdowns-ing)
 - [Built a simple Slack notification](https://dev.to/chevv_automation_79298a9/built-a-simple-slack-notification-352)
-- [AWS CDK 100 Drill Exercises #005: CDK Parameters —— Managing Parameters with TypeScript vs cdk.json](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-005-cdk-parameters-managing-parameters-with-typescript-vs-cdkjson-12b9)
-- [Why Your B2B Tool Stack Probably Has Too Many Overlapping Solutions](https://dev.to/aiexpertreviewer/why-your-b2b-tool-stack-probably-has-too-many-overlapping-solutions-4bkj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
