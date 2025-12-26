@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Benchmark: easy-query vs jOOQ](https://dev.to/dev-jack/benchmark-easy-query-vs-jooq-2j6l)
+- [CODIMAP - Fantasy map tool](https://dev.to/codify/codimap-fantasy-map-tool-3mpc)
 - [Modern SharePoint Consulting Services Are Redefining Intranet and Knowledge Management for 2026](https://dev.to/justinsaran/modern-sharepoint-consulting-services-are-redefining-intranet-and-knowledge-management-for-2026-fl6)
 - [WebClient ColdStart 문제](https://dev.to/headf1rst/webclient-coldstart-munje-44ln)
 - [IA DLC Con Kiro - Parte 1](https://dev.to/derocoxcloud/ia-dlc-con-kiro-parte-1-25b6)
-- [I built a free AI summarizer that turns any article into 5 key insights](https://dev.to/dehua_song_b54c6a9a611ce9/i-built-a-free-ai-summarizer-that-turns-any-article-into-5-key-insights-1ln2)
-- [node-cron for scheduled jobs](https://dev.to/lucaspereiradesouzat/node-cron-for-scheduled-jobs-7p9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
