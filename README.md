@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Smart Watch] [Stage] Single shelf compilation error: hvigor ERROR: Unexpected string in JSON at position 1877](https://dev.to/harmonyos/smart-watch-stage-single-shelf-compilation-error-hvigor-error-unexpected-string-in-json-at-2h06)
-- [PPanel 完整安装指南：从零开始部署代理面板](https://dev.to/jimquote/ppanel-122-wan-zheng-an-zhuang-zhi-nan-cong-ling-kai-shi-bu-shu-dai-li-mian-ban-ip6)
-- [Day 25 / 365 - Full Stack journey](https://dev.to/munin_borah/day-25-365-full-stack-journey-95i)
-- [How Amazon Sponsored Ad Placement Scraper Achieves 96% Success Rate](https://dev.to/loopsthings/how-amazon-sponsored-ad-placement-scraper-achieves-96-success-rate-ghf)
-- [AI integration, semiconductor advancements, and strategic tech shifts dominate year-end tech news.](https://dev.to/stelixx-insights/ai-integration-semiconductor-advancements-and-strategic-tech-shifts-dominate-year-end-tech-news-53kg)
+- [I built a quiz game to tell Pokémon from prescription drugs](https://dev.to/favstats/i-built-a-quiz-game-to-tell-pokemon-from-prescription-drugs-5gj6)
+- [How ADHD Adult Coach Methods Address Everyday Challenges](https://dev.to/coaching_withbrooke_1a5e/how-adhd-adult-coach-methods-address-everyday-challenges-4977)
+- [Keywords are not enough: Why Your Next.js App Needs Vector Search](https://dev.to/ubcodes/keywords-are-not-enough-why-your-nextjs-app-needs-vector-search-3p5h)
+- [Why Coding Agents Fail After Multiple Debugging Attempts](https://dev.to/morethananai/why-coding-agents-fail-after-multiple-debugging-attempts-6e4)
+- [Solving Latency and Pagination in Image and Keyword Based Property Search](https://dev.to/creativesuraj/reducing-latency-and-pagination-in-image-and-keyword-based-property-search-3ed7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
