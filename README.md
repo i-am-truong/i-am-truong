@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Concurrency, Christmas, and the Ultimate Programmer](https://dev.to/ajayi_emmanuel_d5221dc068/concurrency-christmas-and-the-ultimate-programmer-2hpi)
-- [Level Up Your Code: Why Object-Oriented Programming &lpar;OOP&rpar; is the Backbone of Game Dev](https://dev.to/oscarolg/level-up-your-code-why-object-oriented-programming-oop-is-the-backbone-of-game-dev-2434)
-- [JSON vs YAML vs TOML: Which Configuration Format Should You Use in 2026?](https://dev.to/jsontoall_tools/json-vs-yaml-vs-toml-which-configuration-format-should-you-use-in-2026-1hlb)
-- [The 5GB &quot;Sudo Access&quot; for Global Internet: My Review of eSIMFree.org](https://dev.to/esimfree/the-5gb-sudo-access-for-global-internet-my-review-of-esimfreeorg-5a3n)
-- [Introducing a new Front-End Framework](https://dev.to/elanatframework/introducing-a-new-front-end-framework-22fm)
+- [What F# Knows About Functors and What Comes Next](https://dev.to/pstadnicki/what-f-knows-about-functors-and-what-comes-next-2i59)
+- [🟢Nginx Demystified: A Practical Guide from Beginner 🌱 to Production 👨‍💻](https://dev.to/hemant_007/nginx-demystified-a-practical-guide-from-beginner-to-production-2jpj)
+- [Implementing Real-Time Emotion Detection in Voice AI: A Developer&#39;s Journey](https://dev.to/callstacktech/implementing-real-time-emotion-detection-in-voice-ai-a-developers-journey-1i09)
+- [My Year Review &lpar;2025&rpar; - by Chat GPT](https://dev.to/carlosorioli/my-year-review-2025-by-chat-gpt-15ig)
+- [How I Built a Social Media API Platform for Developers](https://dev.to/imbuedata/how-i-built-a-social-media-api-platform-for-developers-2p85)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
