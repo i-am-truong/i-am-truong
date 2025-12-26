@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop &quot;Saving Keystrokes&quot;. I Spend 3 Seconds to Save 3 Hours](https://dev.to/doogal/stop-saving-keystrokes-i-spend-3-seconds-to-save-3-hours-46gn)
-- [AI Coding in 2026: 10 Predictions](https://dev.to/intelligenttools_tomic_85/ai-coding-in-2026-10-predictions-2ijb)
-- [AI Code Review for Solution Architects: How to Enforce Architectural Patterns Across 100+ Microservices](https://dev.to/uss/ai-code-review-for-solution-architects-how-to-enforce-architectural-patterns-across-100-3fa4)
-- [The Best AI Code Review Tools for Bitbucket in 2026 &lpar;and Why I Use Qodo&rpar;](https://dev.to/uss/the-best-ai-code-review-tools-for-bitbucket-in-2026-and-why-i-use-qodo-3995)
-- [Asynchronous Warfare: How to Deliver When The Org Won&#39;t Cooperate &lpar;Part 4&rpar;](https://dev.to/jmontagne/remote-mobbing-that-doesnt-suck-the-2025-operational-guide-part-3-3n43)
+- [Ethereum-Solidity Quiz Q5: What is the Private Mempool?](https://dev.to/mihaihng/ethereum-solidity-quiz-q5-what-is-the-private-mempool-3g4e)
+- [HOW TO CREATE AN ELASTIC BEANSTALK ON AWS](https://dev.to/ajayid10/how-to-create-an-elastic-beanstalk-on-aws-1ad1)
+- [Scaling the Data Layer in Distributed Systems](https://dev.to/gauravsingh9356/scaling-the-data-layer-in-distributed-systems-49k3)
+- [12 Must-Have WordPress Plugins for Developers in 2026 🚀](https://dev.to/thebitforge/12-must-have-wordpress-plugins-for-developers-in-2026-3kof)
+- [How Does CompletableFuture Simplify Asynchronous Programming in Java?](https://dev.to/realnamehidden1_61/how-does-completablefuture-simplify-asynchronous-programming-in-java-2ejg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
