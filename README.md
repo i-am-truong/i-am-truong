@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How PMS and POS Software Work Together to Simplify Hotel and Restaurant Operations](https://dev.to/harikrishnan_ortezinfote/how-pms-and-pos-software-work-together-to-simplify-hotel-and-restaurant-operations-3iff)
-- [Understanding NRI Related Services and the New Tax Rules](https://dev.to/pkp_consult_e0c2117744a4b/understanding-nri-related-services-and-the-new-tax-rules-4d2h)
-- [Decoding LLMs: What is LLM in Generative AI?](https://dev.to/ash_dubai/decoding-llms-what-is-llm-in-generative-ai-3k5h)
-- [Firebase authentication for multi-tenant apps - Mastering Firebase...](https://dev.to/ash_dubai/firebase-authentication-for-multi-tenant-apps-mastering-firebase-45gp)
-- [How to Build a Global Refresh System in React Native](https://dev.to/skmohammadi/how-to-build-a-global-refresh-system-in-react-native-3j4h)
+- [AI Code Review for Solution Architects: How to Enforce Architectural Patterns Across 100+ Microservices](https://dev.to/uss/ai-code-review-for-solution-architects-how-to-enforce-architectural-patterns-across-100-3fa4)
+- [The Best AI Code Review Tools for Bitbucket in 2026 &lpar;and Why I Use Qodo&rpar;](https://dev.to/uss/the-best-ai-code-review-tools-for-bitbucket-in-2026-and-why-i-use-qodo-3995)
+- [Asynchronous Warfare: How to Deliver When The Org Won&#39;t Cooperate &lpar;Part 4&rpar;](https://dev.to/jmontagne/remote-mobbing-that-doesnt-suck-the-2025-operational-guide-part-3-3n43)
+- [Unexpected token ‘&rpar;’ nearly broke my Laravel app 😅](https://dev.to/faizan_mughal_640e05ac43f/unexpected-token-nearly-broke-my-laravel-app-1ll7)
+- [Where can I find AI training programs that include hands-on project experience?](https://dev.to/ailearning/where-can-i-find-ai-training-programs-that-include-hands-on-project-experience-31pi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
