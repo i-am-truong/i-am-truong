@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[FREE TOOL] 🐻 Digibear Icons — a manifest-based, cross-platform icon system](https://dev.to/digibear/free-tool-digibear-icons-a-manifest-based-cross-platform-icon-system-3ab3)
-- [Forecasting Appointment No-Shows and Improving Healthcare Access: A Machine Learning Framework](https://dev.to/randeep-singh/forecasting-appointment-no-shows-and-improving-healthcare-access-a-machine-learning-framework-2l3i)
-- [Day-17 Multi-Stage Dockerfiles are a Game Changer for Django 🐳](https://dev.to/jayanth_dasari_7/day-17-multi-stage-dockerfiles-are-a-game-changer-for-django-179e)
-- [React Hooks - Part 2: useEffect Test](https://dev.to/ethan_zhang_e501fea89c25b/react-hooks-part-2-useeffect-test-2o8g)
-- [React Hooks - Part 1: useState - Skills Test](https://dev.to/ethan_zhang_e501fea89c25b/react-hooks-part-1-usestate-skills-test-5f73)
+- [I think most teams are lying to themselves about usernames](https://dev.to/choraria/i-think-most-teams-are-lying-to-themselves-about-usernames-1nd7)
+- [final webhook integration test - Mastering Your Final Webhook...](https://dev.to/ash_dubai/final-webhook-integration-test-mastering-your-final-webhook-2epa)
+- [Automating Hazard Detection: An AI-Powered Robotics Case Study](https://dev.to/hkj13/automating-hazard-detection-an-ai-powered-robotics-case-study-1hj9)
+- [webhook delivery test final - Making sure Reliable Webhook Delivery:...](https://dev.to/ash_dubai/webhook-delivery-test-final-making-sure-reliable-webhook-delivery-19ml)
+- [OSI Layer 5—Session Layer Security](https://dev.to/narnaiezzsshaa/osi-layer-5-session-layer-security-16i9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
