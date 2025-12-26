@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How a Letter of Authorization Can Save Your Project &lpar;and Your Time&rpar;](https://dev.to/priyanshi_m_d195792bc9ee1/how-a-letter-of-authorization-can-save-your-project-and-your-time-2n6)
-- [I Built a 3D AI Avatar That Actually Sees and Talks Back 🎭](https://dev.to/kiranbaby14/i-built-a-3d-ai-avatar-that-actually-sees-and-talks-back-4j1a)
-- [Understanding LLM vs AI: What You Need to Know](https://dev.to/ash_dubai/understanding-llm-vs-ai-what-you-need-to-know-4h2l)
-- [Real-World LLM AI Examples I&#39;ve Used in My Projects](https://dev.to/ash_dubai/real-world-llm-ai-examples-ive-used-in-my-projects-4phk)
-- [Implementing Dynamic Demand Response to Optimize ASIC Mining Costs and ROI](https://dev.to/dan1miner/implementing-dynamic-demand-response-to-optimize-asic-mining-costs-and-roi-10gg)
+- [How PMS and POS Software Work Together to Simplify Hotel and Restaurant Operations](https://dev.to/harikrishnan_ortezinfote/how-pms-and-pos-software-work-together-to-simplify-hotel-and-restaurant-operations-3iff)
+- [Understanding NRI Related Services and the New Tax Rules](https://dev.to/pkp_consult_e0c2117744a4b/understanding-nri-related-services-and-the-new-tax-rules-4d2h)
+- [Decoding LLMs: What is LLM in Generative AI?](https://dev.to/ash_dubai/decoding-llms-what-is-llm-in-generative-ai-3k5h)
+- [Firebase authentication for multi-tenant apps - Mastering Firebase...](https://dev.to/ash_dubai/firebase-authentication-for-multi-tenant-apps-mastering-firebase-45gp)
+- [How to Build a Global Refresh System in React Native](https://dev.to/skmohammadi/how-to-build-a-global-refresh-system-in-react-native-3j4h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
