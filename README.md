@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Zero Trust in 2025 Is Less About Vision, More About Friction](https://dev.to/technology-radius/zero-trust-in-2025-is-less-about-vision-more-about-friction-52mj)
+- [Your &quot;Passive Income&quot; Dream Is a Lie &lpar;And the People Selling It Know It&rpar;](https://dev.to/yasin_mukthar_e569d2e11af/your-passive-income-dream-is-a-lie-and-the-people-selling-it-know-it-69e)
 - [MinIO Alternatives &lpar;Open Source, On-Prem, Real-World Credible&rpar;: SeaweedFS, Garage, RustFS, and Ceph RGW &lpar;Rook&rpar;](https://dev.to/arash_ezazy_f69fb13acdd37/minio-alternatives-open-source-on-prem-real-world-credible-seaweedfs-garage-rustfs-and-ceph-36om)
 - [From Emissions to Earnings: Understanding the Economics of Carbon Markets](https://dev.to/phd_chamber/from-emissions-to-earnings-understanding-the-economics-of-carbon-markets-3pn1)
 - [What Is LAMP Server? Components, Working &amp; Installation Guide](https://dev.to/rootxblogs/what-is-lamp-server-components-working-installation-guide-59hd)
-- [How Code Review Tools Reduce Review Bottlenecks](https://dev.to/yeahiasarker/how-code-review-tools-reduce-review-bottlenecks-1ljd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
