@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [📘 Convert EPUB to PDF in Node.js Using Calibre &lpar;CLI + API&rpar;](https://dev.to/suraj_sutar_925fe601ea366/convert-epub-to-pdf-in-nodejs-using-calibre-cli-api-5c4h)
-- [Production-Grade Generative AI in 2026: Patterns Dextralabs Use in Enterprise Deployments](https://dev.to/dextralabs/production-grade-generative-ai-in-2026-patterns-dextralabs-use-in-enterprise-deployments-25go)
-- [Data Analytics Course in Telugu: A Complete Guide for Students and Working Professionals](https://dev.to/adas_madasu_d145b19b61e81/data-analytics-course-in-telugu-a-complete-guide-for-students-and-working-professionals-4n47)
-- [The $7,500 Mistake Dentists Make With SEO &lpar;And How Mangools Fixes It&rpar;](https://dev.to/alan_luu/the-7500-mistake-dentists-make-with-seo-and-how-mangools-fixes-it-2gln)
-- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-2ih5)
+- [VPN for Threads: Securing Your Meta Social Experience](https://dev.to/dev-vpn/vpn-for-threads-securing-your-meta-social-experience-3lpo)
+- [Why ILogger File Logging Fails in Production &lpar;and How to Fix It&rpar;](https://dev.to/morteza-jangjoo/why-ilogger-file-logging-fails-in-production-and-how-to-fix-it-25o3)
+- [What Is Responsive Web Design? Importance &amp; Best Practices](https://dev.to/digicrowdsolution/what-is-responsive-web-design-importance-best-practices-4d3m)
+- [ConfigShip: A Zero-Dependency, Secure Configuration Manager for Node.js &lpar;with Raw Env Support!&rpar;](https://dev.to/dibakarmitra/configship-a-zero-dependency-secure-configuration-manager-for-nodejs-with-raw-env-support-1j6m)
+- [How we use checklists and QA to launch websites without surprises](https://dev.to/prateekshaweb/how-we-use-checklists-and-qa-to-launch-websites-without-surprises-3eem)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
