@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Most Mortgage Calculators Suck &lpar;And Why I Built a &quot;Geek-Mode&quot; Version&rpar;](https://dev.to/sbarbat/why-most-mortgage-calculators-suck-and-why-i-built-a-geek-mode-version-4e8l)
 - [How I Built a Real-Time Physics Engine for Electrical Engineering with Flutter](https://dev.to/rubenortz_/how-i-built-a-real-time-physics-engine-for-electrical-engineering-with-flutter-2jfh)
 - [Scale by Subtraction: An Engineering Leader’s View on Practical AI](https://dev.to/mosiddi/scale-by-subtraction-an-engineering-leaders-view-on-practical-ai-4iba)
 - [Adding a Simple Summary at the Top of a Complex Page](https://dev.to/wang_wei_7bca82af800c6f68/adding-a-simple-summary-at-the-top-of-a-complex-page-23d4)
 - [Building Reusable UI in React: Compound Components, Render Props, and API Design](https://dev.to/ward_khaddour/building-reusable-ui-in-react-compound-components-render-props-and-api-design-38lg)
-- [AI Trading Daily Report: December 26, 2025 | $+189.98](https://dev.to/igorganapolsky/ai-trading-daily-report-december-26-2025-18998-2838)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
