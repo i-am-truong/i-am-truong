@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Editorial Workflows in the Age of AI: A Practical Guide for Developers](https://dev.to/nihal_ac/editorial-workflows-in-the-age-of-ai-a-practical-guide-for-developers-1b2o)
-- [Day 76: Python Binary Exponentiation – O&lpar;log n&rpar; Fast Power Calculation Without Built-Ins](https://dev.to/shahrouzlogs/day-76-python-binary-exponentiation-olog-n-fast-power-calculation-without-built-ins-56i)
-- [Why You Need an AI Prose Linter in Your Documentation Workflow](https://dev.to/osho_klinsmann_3121f39187/why-you-need-an-ai-prose-linter-in-your-documentation-workflow-4omn)
-- [Ruby: Pass-by-Reference-Value](https://dev.to/kunashir/ruby-pass-by-reference-value-2h38)
-- [MEXQuick Review: Exploring Transparency in Public Corporate Listings](https://dev.to/mexquickorg/mexquick-review-exploring-transparency-in-public-corporate-listings-jd3)
+- [MinIO Alternatives &lpar;Open Source, On-Prem, Real-World Credible&rpar;: SeaweedFS, Garage, RustFS, and Ceph RGW &lpar;Rook&rpar;](https://dev.to/arash_ezazy_f69fb13acdd37/minio-alternatives-open-source-on-prem-real-world-credible-seaweedfs-garage-rustfs-and-ceph-36om)
+- [From Emissions to Earnings: Understanding the Economics of Carbon Markets](https://dev.to/phd_chamber/from-emissions-to-earnings-understanding-the-economics-of-carbon-markets-3pn1)
+- [Unoptimized Images: The Silent Performance Killer on Your Site](https://dev.to/imageoptimizerpro/unoptimized-images-the-silent-performance-killer-on-your-site-3ij8)
+- [What Is LAMP Server? Components, Working &amp; Installation Guide](https://dev.to/rootxblogs/what-is-lamp-server-components-working-installation-guide-59hd)
+- [How Code Review Tools Reduce Review Bottlenecks](https://dev.to/yeahiasarker/how-code-review-tools-reduce-review-bottlenecks-1ljd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
