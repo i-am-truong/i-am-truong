@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [When long AI threads drift and small errors snowball](https://dev.to/himanshu_jetani_0a4817c3f/when-long-ai-threads-drift-and-small-errors-snowball-25mg)
+- [The Role of Enterprise Apps in Supply Chain Management and Optimization](https://dev.to/appvin_technologies/the-role-of-enterprise-apps-in-supply-chain-management-and-optimization-5790)
 - [VPN for Threads: Securing Your Meta Social Experience](https://dev.to/dev-vpn/vpn-for-threads-securing-your-meta-social-experience-3lpo)
 - [Why ILogger File Logging Fails in Production &lpar;and How to Fix It&rpar;](https://dev.to/morteza-jangjoo/why-ilogger-file-logging-fails-in-production-and-how-to-fix-it-25o3)
 - [What Is Responsive Web Design? Importance &amp; Best Practices](https://dev.to/digicrowdsolution/what-is-responsive-web-design-importance-best-practices-4d3m)
-- [ConfigShip: A Zero-Dependency, Secure Configuration Manager for Node.js &lpar;with Raw Env Support!&rpar;](https://dev.to/dibakarmitra/configship-a-zero-dependency-secure-configuration-manager-for-nodejs-with-raw-env-support-1j6m)
-- [How we use checklists and QA to launch websites without surprises](https://dev.to/prateekshaweb/how-we-use-checklists-and-qa-to-launch-websites-without-surprises-3eem)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
