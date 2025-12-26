@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Linux Package Management &amp; Job Control – Practice Exercises](https://dev.to/jumptotech/linux-package-management-job-control-practice-exercises-18fa)
+- [Sketch‑Programming &lpar;LLM Transpiler&rpar; — what is it?](https://dev.to/dmitryolkhovoi/sketch-programming-llm-transpiler-what-is-it-12df)
+- [🧠 Building a Conversational Chatbot with AWS Bedrock &lpar;Amazon Titan&rpar;](https://dev.to/aws-builders/building-a-conversational-chatbot-with-aws-bedrock-amazon-titan-4kll)
 - [Why &quot;Single Key&quot; Wallets are Obsolete](https://dev.to/auli_takala_d379835856f1f/why-single-key-wallets-are-obsolete-540h)
 - [Fixing the &quot;Ghost Folder&quot; in GitHub: Converting a Broken Submodule to a Normal Folder](https://dev.to/raziq_din_bd0274cc2ac748b/fixing-the-ghost-folder-in-github-converting-a-broken-submodule-to-a-normal-folder-44c5)
-- [Building a Home SOC Lab](https://dev.to/shynsec/building-a-home-soc-lab-2p7c)
-- [I Almost Let an LLM Delete My Database. Here&#39;s What I Built to Prevent It.](https://dev.to/zeredbaron/i-almost-let-an-llm-delete-my-database-heres-what-i-built-to-prevent-it-p7k)
-- [PEM vs. PKCS#12 &lpar;P12/PFX&rpar;: Understanding the Difference Between Certificate Formats](https://dev.to/pascalre/pem-vs-pkcs12-p12pfx-understanding-the-difference-between-certificate-formats-1b9d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
