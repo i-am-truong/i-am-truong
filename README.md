@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AltSchool Of Engineering Tinyuka’24 Month 11 Week 1](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-11-week-1-nle)
+- [Más allá del prompt perfecto. Formando desarrolladores, no operadores de IA](https://dev.to/jjdelcerro/mas-alla-del-prompt-perfecto-formando-desarrolladores-no-operadores-de-ia-3741)
+- [Making DB Changes Predictable with Transactions](https://dev.to/lovestaco/transactions-making-database-changes-safe-and-predictable-26oh)
+- [Deploy Django on a VPS with Docker: Step-by-Step Guide](https://dev.to/wimadev/deploy-django-on-a-vps-with-docker-step-by-step-guide-21e2)
 - [Benchmark: easy-query vs jOOQ](https://dev.to/dev-jack/benchmark-easy-query-vs-jooq-2j6l)
-- [CODIMAP - Fantasy map tool](https://dev.to/codify/codimap-fantasy-map-tool-3mpc)
-- [Modern SharePoint Consulting Services Are Redefining Intranet and Knowledge Management for 2026](https://dev.to/justinsaran/modern-sharepoint-consulting-services-are-redefining-intranet-and-knowledge-management-for-2026-fl6)
-- [WebClient ColdStart 문제](https://dev.to/headf1rst/webclient-coldstart-munje-44ln)
-- [IA DLC Con Kiro - Parte 1](https://dev.to/derocoxcloud/ia-dlc-con-kiro-parte-1-25b6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
