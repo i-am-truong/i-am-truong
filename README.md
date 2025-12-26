@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [One Year of Model Context Protocol: From Experiment to Industry Standard](https://dev.to/ajeetraina/one-year-of-model-context-protocol-from-experiment-to-industry-standard-5hj8)
-- [Top Digital Branding Publications: How Level Up Magazine Helps Brands Grow](https://dev.to/levelup_magzine_abd2554b8/top-digital-branding-publications-how-level-up-magazine-helps-brands-grow-1la9)
-- [A to Z Snapshot of the 2025 Tech Landscape](https://dev.to/logicverse_2025/a-to-z-snapshot-of-the-2025-tech-landscape-4b4e)
-- [Rethinking Expense Splitting: A Graph-Based Approach with LLM Integration](https://dev.to/naveen_v_5562871ba6455b7e/rethinking-expense-splitting-a-graph-based-approach-with-llm-integration-mbo)
-- [What Are the Key Challenges in Hardware Design Projects?](https://dev.to/siliconsignals_ind/what-are-the-key-challenges-in-hardware-design-projects-5659)
+- [Coase&#39;s Penguin, or Linux and the Nature of the Firm](https://dev.to/paperium/coases-penguin-or-linux-and-the-nature-of-the-firm-e4m)
+- [[Boost]](https://dev.to/nitinnair89/-17fj)
+- [When long chats drift: hidden errors in AI-assisted coding](https://dev.to/himanshu_jetani_0a4817c3f/when-long-chats-drift-hidden-errors-in-ai-assisted-coding-4g7f)
+- [EasyLaunchpad is your SaaS Starter Kit &amp; Foundation](https://dev.to/haroon_mumtaz/easylaunchpad-is-your-saas-starter-kit-foundation-c28)
+- [Snowflake + Postgres: A Small Feature That Signals a Big Shift](https://dev.to/shrinivasv73/snowflake-postgres-a-small-feature-that-signals-a-big-shift-43f6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
