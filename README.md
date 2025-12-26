@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[FREE TOOL] 🐻 Digibear Icons — a manifest-based, cross-platform icon system](https://dev.to/digibear/free-tool-digibear-icons-a-manifest-based-cross-platform-icon-system-3ab3)
+- [Forecasting Appointment No-Shows and Improving Healthcare Access: A Machine Learning Framework](https://dev.to/randeep-singh/forecasting-appointment-no-shows-and-improving-healthcare-access-a-machine-learning-framework-2l3i)
 - [Day-17 Multi-Stage Dockerfiles are a Game Changer for Django 🐳](https://dev.to/jayanth_dasari_7/day-17-multi-stage-dockerfiles-are-a-game-changer-for-django-179e)
-- [🧠 Beyond Chatbots: Building &#39;Echo-Learn&#39;, an Agentic AI Tutor with Biological Memory](https://dev.to/jacksonkasi/beyond-chatbots-building-echo-learn-an-agentic-ai-tutor-with-biological-memory-f38)
-- [Starting a Distributed Query Engine with a Minimal Rust Execution POC](https://dev.to/yuer/starting-a-distributed-query-engine-with-a-minimal-rust-execution-poc-3044)
-- [50+ Dev Tools in One Place: URL Shortener, QR Codes, Plagiarism Check &amp; More &lpar;All Free&rpar;](https://dev.to/satendra_kaushik_74304936/toolswallet-an-all-in-one-free-toolkit-built-by-indians-for-global-developers-2h5e)
-- [How I Built an Autonomous AI Startup System with 37 Agents Using Claude Code](https://dev.to/asklokesh/how-i-built-an-autonomous-ai-startup-system-with-37-agents-using-claude-code-2p79)
+- [React Hooks - Part 2: useEffect Test](https://dev.to/ethan_zhang_e501fea89c25b/react-hooks-part-2-useeffect-test-2o8g)
+- [React Hooks - Part 1: useState - Skills Test](https://dev.to/ethan_zhang_e501fea89c25b/react-hooks-part-1-usestate-skills-test-5f73)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
