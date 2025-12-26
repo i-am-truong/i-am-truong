@@ -120,13 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Scalable Wellness Data: Use the CQRS Pattern to Build Faster Health Dashboards](https://dev.to/wellallytech/scalable-wellness-data-use-the-cqrs-pattern-to-build-faster-health-dashboards-2j8p)
-- [Stop Screenshotting! The Fastest Way to Create Moodboards in Miro &lpar;2025 Guide&rpar;](https://dev.to/ethannoww/stop-screenshotting-the-fastest-way-to-create-moodboards-in-miro-2025-guide-231l)
-- [Futuristic Login Form HTML CSS: Building the ‘Infinity Portal’ &lpar;Free Source Code&rpar;
-
-https://ahmodmusa.com/futuristic-login-form-html-css/](https://dev.to/ahmod_musa_bd1b2536d20e0e/futuristic-login-form-html-css-building-the-infinity-portal-free-source-code-4l6e)
-- [Advent of Agents - Day 8](https://dev.to/liberifatali/advent-of-agents-day-8-4h88)
-- [eSparkBiz Named Among the Top 10 AI Development Companies for 2026](https://dev.to/anthony_simms/esparkbiz-named-among-the-top-10-ai-development-companies-for-2026-2c6i)
+- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-2ih5)
+- [SVG vs PNG vs WebP: Choosing the Right Image Format for Performance &amp; SEO](https://dev.to/frontendtoolstech/svg-vs-png-vs-webp-choosing-the-right-image-format-for-performance-seo-15b4)
+- [🦉 From Broken Models to Living Systems: My Journey Building AI Without a GPU](https://dev.to/puneetkumar2010/from-broken-models-to-living-systems-my-journey-building-ai-without-a-gpu-2kik)
+- [STATISTICS - Uni-variate Non-Graphical Exploratory Data Analysis &lpar;EDA&rpar;](https://dev.to/ram_vnet_f71e560ae27f2cae/statistics-uni-variate-non-graphical-exploratory-data-analysis-eda-3c6c)
+- [Confuse About how to start OS](https://dev.to/sangharsh_more_50994ab1ac/confuse-about-how-to-start-os-5e9f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
