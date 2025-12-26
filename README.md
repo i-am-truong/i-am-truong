@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AltSchool Of Engineering Tinyuka’24 Month 11 Week 1](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-11-week-1-nle)
-- [Más allá del prompt perfecto. Formando desarrolladores, no operadores de IA](https://dev.to/jjdelcerro/mas-alla-del-prompt-perfecto-formando-desarrolladores-no-operadores-de-ia-3741)
-- [Making DB Changes Predictable with Transactions](https://dev.to/lovestaco/transactions-making-database-changes-safe-and-predictable-26oh)
-- [Deploy Django on a VPS with Docker: Step-by-Step Guide](https://dev.to/wimadev/deploy-django-on-a-vps-with-docker-step-by-step-guide-21e2)
-- [Benchmark: easy-query vs jOOQ](https://dev.to/dev-jack/benchmark-easy-query-vs-jooq-2j6l)
+- [🧠 Beyond Chatbots: Building &#39;Echo-Learn&#39;, an Agentic AI Tutor with Biological Memory](https://dev.to/jacksonkasi/beyond-chatbots-building-echo-learn-an-agentic-ai-tutor-with-biological-memory-f38)
+- [Starting a Distributed Query Engine with a Minimal Rust Execution POC](https://dev.to/yuer/starting-a-distributed-query-engine-with-a-minimal-rust-execution-poc-3044)
+- [Top 10 Tricentis Alternatives for Enterprise Testing in 2026](https://dev.to/jamescantor38/top-10-tricentis-alternatives-for-enterprise-testing-in-2026-4b12)
+- [One Tool to Rule Them All: ToolsWallet - The 50+ Feature Free Toolkit That&#39;ll Change How You Develop](https://dev.to/satendra_kaushik_74304936/toolswallet-an-all-in-one-free-toolkit-built-by-indians-for-global-developers-2h5e)
+- [Martino D’abruzzo and the Practice of Purposeful Outdoorsmanship](https://dev.to/tinodabruzzo/martino-dabruzzo-and-the-practice-of-purposeful-outdoorsmanship-5d79)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
