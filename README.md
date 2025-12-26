@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How Faulty Sensors Quietly Break Smart Heating Systems](https://dev.to/elena_bennett_5e746b5e3ef/how-faulty-sensors-quietly-break-smart-heating-systems-3kc2)
+- [What hampers IT Project executions](https://dev.to/sambathwins/what-hampers-it-project-executions-5dc7)
+- [Lazy vs. Eager Loading &amp; JPA Relationships](https://dev.to/vigneshwaralingam/lazy-vs-eager-loading-jpa-relationships-4f22)
+- [Stop Using IOptions Wrong in .NET!](https://dev.to/carbonfin7/stop-using-ioptions-wrong-in-net-3kfj)
 - [My Thesis Accidentally Made Me a Data Scientist](https://dev.to/ykbmck/my-thesis-accidentally-made-me-a-data-scientist-ol0)
-- [The Ephemeral Signal Ethics Manifesto](https://dev.to/obinexusofficial/the-ephemeral-signal-ethics-manifesto-3gkb)
-- [Mastering Webhook E2E Test: A Dev&#39;s Guide](https://dev.to/ash_dubai/mastering-webhook-e2e-test-a-devs-guide-3d96)
-- [Announcing the Launch of My Personal Website](https://dev.to/jordantylerburchett/announcing-the-launch-of-my-personal-website-291k)
-- [Building Digital Resilience: Analyzing the BISP 8171 API &amp; Portal Infrastructure](https://dev.to/bisp_8171_c962d0b979002b8/building-digital-resilience-analyzing-the-bisp-8171-api-portal-infrastructure-2311)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
