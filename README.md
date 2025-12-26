@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [VPC Part 2 : AWS Site-to-Site VPN &lpar;On-Prem Simulation&rpar;](https://dev.to/nash9/vpc-part-2-aws-site-to-site-vpn-on-prem-simulation-4eia)
-- [VPC Part 1 : AWS VPC Peering](https://dev.to/nash9/vpc-part-1-aws-vpc-peering-je4)
-- [Day 2 BookMyShow Progress](https://dev.to/vishwapratapsingh90/day-2-bookmyshow-progress-5c30)
-- [I Built a News App Because Indian Media Made Me Angry](https://dev.to/iojas/i-built-a-news-app-because-indian-media-made-me-angry-54dc)
-- [Revolutionize LLM Apps with Monetzly&#39;s AI Monetization Strategies](https://dev.to/monetzly/revolutionize-llm-apps-with-monetzlys-ai-monetization-strategies-52ki)
+- [Do Anti-Vibecoding ao Caos: A Saga do &quot;Ficha Monstra&quot;](https://dev.to/guilhermeloyola/do-anti-vibecoding-ao-caos-a-saga-do-ficha-monstra-2p3j)
+- [How to Learn Coding in 2026: A Practical Guide That Actually Works](https://dev.to/farhadrahimiklie/how-to-learn-coding-in-2026-a-practical-guide-that-actually-works-3f2l)
+- [How I Made a Voice-First Todo List That&#39;s Actually Fast &lpar;And Why I Rewrote Half of It&rpar;](https://dev.to/isidore_mikoreynilsson/how-i-made-a-voice-first-todo-list-thats-actually-fast-and-why-i-rewrote-half-of-it-4k7b)
+- [AWS VPC](https://dev.to/fabia/aws-vpc-468p)
+- [Extracting Flow-Level Network Features from PCAPs with Tranalyzer2](https://dev.to/ritwick_mondal_553e0d0ceb/extracting-flow-level-network-features-from-pcaps-with-tranalyzer2-5ahk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
