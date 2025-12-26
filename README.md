@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Concurrency, Christmas, and the Ultimate Programmer](https://dev.to/ajayi_emmanuel_d5221dc068/concurrency-christmas-and-the-ultimate-programmer-2hpi)
 - [Level Up Your Code: Why Object-Oriented Programming &lpar;OOP&rpar; is the Backbone of Game Dev](https://dev.to/oscarolg/level-up-your-code-why-object-oriented-programming-oop-is-the-backbone-of-game-dev-2434)
+- [JSON vs YAML vs TOML: Which Configuration Format Should You Use in 2026?](https://dev.to/jsontoall_tools/json-vs-yaml-vs-toml-which-configuration-format-should-you-use-in-2026-1hlb)
+- [The 5GB &quot;Sudo Access&quot; for Global Internet: My Review of eSIMFree.org](https://dev.to/esimfree/the-5gb-sudo-access-for-global-internet-my-review-of-esimfreeorg-5a3n)
 - [Introducing a new Front-End Framework](https://dev.to/elanatframework/introducing-a-new-front-end-framework-22fm)
-- [Java ATM CLI Dev Log #3: VTU Features](https://dev.to/chivicks_hazard/java-atm-cli-dev-log-3-vtu-features-1a2c)
-- [🐻 Introducing Zustand Copilot: The Ultimate VS Code Extension for Zustand State Management](https://dev.to/mahmud-r-farhan/introducing-zustand-copilot-the-ultimate-vs-code-extension-for-zustand-state-management-1ede)
-- [Publishing Pipeline v1.2.0 – backlinks and X support](https://dev.to/12ww1160/publishing-pipeline-v120-backlinks-and-x-support-mbm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
