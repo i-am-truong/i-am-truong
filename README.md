@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [When long AI threads drift and small errors snowball](https://dev.to/himanshu_jetani_0a4817c3f/when-long-ai-threads-drift-and-small-errors-snowball-25mg)
-- [The Role of Enterprise Apps in Supply Chain Management and Optimization](https://dev.to/appvin_technologies/the-role-of-enterprise-apps-in-supply-chain-management-and-optimization-5790)
-- [VPN for Threads: Securing Your Meta Social Experience](https://dev.to/dev-vpn/vpn-for-threads-securing-your-meta-social-experience-3lpo)
-- [Why ILogger File Logging Fails in Production &lpar;and How to Fix It&rpar;](https://dev.to/morteza-jangjoo/why-ilogger-file-logging-fails-in-production-and-how-to-fix-it-25o3)
-- [What Is Responsive Web Design? Importance &amp; Best Practices](https://dev.to/digicrowdsolution/what-is-responsive-web-design-importance-best-practices-4d3m)
+- [One Year of Model Context Protocol: From Experiment to Industry Standard](https://dev.to/ajeetraina/one-year-of-model-context-protocol-from-experiment-to-industry-standard-5hj8)
+- [Top Digital Branding Publications: How Level Up Magazine Helps Brands Grow](https://dev.to/levelup_magzine_abd2554b8/top-digital-branding-publications-how-level-up-magazine-helps-brands-grow-1la9)
+- [A to Z Snapshot of the 2025 Tech Landscape](https://dev.to/logicverse_2025/a-to-z-snapshot-of-the-2025-tech-landscape-4b4e)
+- [Rethinking Expense Splitting: A Graph-Based Approach with LLM Integration](https://dev.to/naveen_v_5562871ba6455b7e/rethinking-expense-splitting-a-graph-based-approach-with-llm-integration-mbo)
+- [What Are the Key Challenges in Hardware Design Projects?](https://dev.to/siliconsignals_ind/what-are-the-key-challenges-in-hardware-design-projects-5659)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
