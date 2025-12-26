@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Enterprise-Ready AI Workflows: Formatted Reports + 80% Cost Savings](https://dev.to/silversurfer562/enterprise-ready-ai-workflows-formatted-reports-80-cost-savings-5hc2)
-- [Maestro: A Single Framework for Mobile and Web E2E Testing](https://dev.to/leading-edje/maestro-a-single-framework-for-mobile-and-web-e2e-testing-b98)
-- [Neovim for Blog Writing: Plugins, Keymaps, and a Cheatsheet](https://dev.to/prasincs/neovim-for-blog-writing-plugins-keymaps-and-a-cheatsheet-38fn)
-- [It&#39;s Not Rocket Science, It&#39;s a Flywheel: Engineering Open Source Communities with DevEx](https://dev.to/jerdog/its-not-rocket-science-its-a-flywheel-engineering-open-source-communities-with-devex-4id2)
-- [How to Move Vital Records from the Filing Cabinet to a Secure Digital Vault](https://dev.to/insureyouknow_79344b896cd/how-to-move-vital-records-from-the-filing-cabinet-to-a-secure-digital-vault-opd)
+- [Rust Weekly Log: Tracing, Observability &amp; Cryptographic Hashes](https://dev.to/vinecksie_rust/rust-weekly-log-tracing-observability-cryptographic-hashes-27kh)
+- [Federated Machine Learning and the Future of Data Privacy](https://dev.to/codecraft154/federated-machine-learning-and-the-future-of-data-privacy-39c9)
+- [I Built a Privacy-First, Syntax-Aware Diff Tool because &quot;Text Compare&quot; Wasn&#39;t Enough](https://dev.to/diffguru/i-built-a-privacy-first-syntax-aware-diff-tool-because-text-compare-wasnt-enough-1bf1)
+- [Women’s Premium Kurti: Elegance Refined for the Modern Woman](https://dev.to/houseofsiyaab/womens-premium-kurti-elegance-refined-for-the-modern-woman-all)
+- [Which casing do you prefer?](https://dev.to/avcat/which-casing-do-you-prefer-4kc6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
