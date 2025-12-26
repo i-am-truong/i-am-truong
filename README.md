@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [We’re Vibe Coding in 2026. Why Are We Still Deploying Like It’s 2018?](https://dev.to/vamsi_0fe326ce8584827fca5/were-vibe-coding-in-2026-why-are-we-still-deploying-like-its-2018-248f)
-- [How I Built an Automation Tool That Auto-Generates Payroll Data](https://dev.to/sachin_s_ceebaa551ca01f44/how-i-built-an-automation-tool-that-auto-generates-payroll-data-300b)
-- [Fix Time Jumps Between Linux and Windows &lpar;Dual-Boot&rpar;](https://dev.to/hopsayer/fix-time-jumps-between-linux-and-windows-dual-boot-3omc)
-- [🧾 Console.Write&lpar;&rpar;: Explorando todas as possibilidades!](https://dev.to/daniloopinheiro/consolewrite-explorando-todas-as-possibilidades-8im)
-- [How Machines See: Inside Vision Models and Visual Understanding APIs](https://dev.to/getstreamhq/how-machines-see-inside-vision-models-and-visual-understanding-apis-1onl)
+- [Understanding Gradients: The Engine Behind Neural Network Learning](https://dev.to/rijultp/understanding-gradients-the-engine-behind-neural-network-learning-3om0)
+- [🚀 Build a Todo App API with FastAPI + uv &lpar;The Cleanest Way!&rpar;](https://dev.to/cmanish049/build-a-todo-app-api-with-fastapi-uv-the-cleanest-way-3g6p)
+- [The Multiplier Is the Job Now: Why Agentic AI Changes Everything](https://dev.to/mikelane/the-multiplier-is-the-job-now-why-agentic-ai-changes-everything-4n3c)
+- [Week 4 of 40 – First Full-Stack App with React, TypeScript, and Python](https://dev.to/digeratis/week-4-of-40-first-full-stack-app-with-react-typescript-and-python-bpp)
+- [Im creating new app that will help to new DevOps developers better understand concepts of DevOps and how it works](https://dev.to/monokkai/im-creating-new-app-that-will-help-to-new-devops-developers-better-understand-concepts-of-devops-5bn9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
