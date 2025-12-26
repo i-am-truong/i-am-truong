@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How do you handle optional fields in request body in Spring Boot?](https://dev.to/realnamehidden1_61/how-do-you-handle-optional-fields-in-request-body-1lc0)
-- [From Interview Failure to &quot;Aha!&quot; Moment: How a Screaming Terminal Taught Me Debouncing](https://dev.to/fcimendere/from-interview-failure-to-aha-moment-how-a-screaming-terminal-taught-me-debouncing-49b6)
-- [Stop Uploading Your Thoughts: A 100% Private, Local-First Sticky Notes Browser Tool](https://dev.to/techno_kraft_in/stop-uploading-your-thoughts-a-100-private-local-first-sticky-notes-browser-tool-5c77)
-- [How Do You Read Enum Values from Query Parameters in Spring Boot?](https://dev.to/realnamehidden1_61/how-do-you-read-enum-values-from-query-parameters-in-spring-boot-3p6p)
-- [🧠 Going Full Stack: Building the Backend &amp; REST API](https://dev.to/techgeniuskaran/going-full-stack-building-the-backend-rest-api-2c51)
+- [Ruby: Pass-by-Reference-Value](https://dev.to/kunashir/ruby-pass-by-reference-value-2h38)
+- [Why Rich Domain Models Are Key to Sustainable Enterprise Architecture](https://dev.to/leonpennings/why-rich-domain-models-are-key-to-sustainable-enterprise-architecture-44dn)
+- [🚀 Where `npx` Exists &amp; What You Can Change &lpar;Deep Practical Guide&rpar;](https://dev.to/luckychauhan/where-npx-exists-what-you-can-change-deep-practical-guide-3df4)
+- [I Built a Meme Generator in React and It&#39;s Actually Fun! 🎭✨](https://dev.to/thavoncoding/i-built-a-meme-generator-in-react-and-its-actually-fun-1kof)
+- [How Do You Validate Query Parameters in Spring Boot?](https://dev.to/realnamehidden1_61/how-do-you-validate-query-parameters-in-spring-boot-4jgh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
