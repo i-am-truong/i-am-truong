@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The $1 Takeover: How the U.S. Government &quot;Nationalized&quot; Anthropic](https://dev.to/om_shree_0709/the-1-takeover-how-the-us-government-nationalized-anthropic-3pp6)
+- [Why Your Health Data Belongs on Your Device &lpar;Not the Cloud&rpar;: A Local-First Manifesto](https://dev.to/beck_moulton/why-your-health-data-belongs-on-your-device-not-the-cloud-a-local-first-manifesto-3nj)
 - [🌐 SEO &amp; Community Update - Kiksi Discord Bot](https://dev.to/dev_lenchen/seo-community-update-kiksi-discord-bot-1d8c)
 - [The EKS 1.32 1.33 Upgrade That Broke Everything &lpar;And How I Fixed It&rpar;](https://dev.to/damola12345/the-eks-132-133-upgrade-that-broke-everything-and-how-i-fixed-it-5fe9)
 - [Stop Tutorial Hell: I Built the Ultimate Free DevOps Learning Path &lpar;Zero to Production&rpar; 🚀](https://dev.to/yatharth_sanghavi/stop-tutorial-hell-i-built-the-ultimate-free-devops-learning-path-zero-to-production-4nk4)
-- [Do Anti-Vibecoding ao Caos: A Saga do &quot;Ficha Monstra&quot;](https://dev.to/guilhermeloyola/do-anti-vibecoding-ao-caos-a-saga-do-ficha-monstra-2p3j)
-- [How to Learn Coding in 2026: A Practical Guide That Actually Works](https://dev.to/farhadrahimiklie/how-to-learn-coding-in-2026-a-practical-guide-that-actually-works-3f2l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
