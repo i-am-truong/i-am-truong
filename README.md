@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I think most teams are lying to themselves about usernames](https://dev.to/choraria/i-think-most-teams-are-lying-to-themselves-about-usernames-1nd7)
-- [final webhook integration test - Mastering Your Final Webhook...](https://dev.to/ash_dubai/final-webhook-integration-test-mastering-your-final-webhook-2epa)
-- [Automating Hazard Detection: An AI-Powered Robotics Case Study](https://dev.to/hkj13/automating-hazard-detection-an-ai-powered-robotics-case-study-1hj9)
-- [webhook delivery test final - Making sure Reliable Webhook Delivery:...](https://dev.to/ash_dubai/webhook-delivery-test-final-making-sure-reliable-webhook-delivery-19ml)
-- [OSI Layer 5—Session Layer Security](https://dev.to/narnaiezzsshaa/osi-layer-5-session-layer-security-16i9)
+- [My Thesis Accidentally Made Me a Data Scientist](https://dev.to/ykbmck/my-thesis-accidentally-made-me-a-data-scientist-ol0)
+- [The Ephemeral Signal Ethics Manifesto](https://dev.to/obinexusofficial/the-ephemeral-signal-ethics-manifesto-3gkb)
+- [Mastering Webhook E2E Test: A Dev&#39;s Guide](https://dev.to/ash_dubai/mastering-webhook-e2e-test-a-devs-guide-3d96)
+- [Announcing the Launch of My Personal Website](https://dev.to/jordantylerburchett/announcing-the-launch-of-my-personal-website-291k)
+- [Building Digital Resilience: Analyzing the BISP 8171 API &amp; Portal Infrastructure](https://dev.to/bisp_8171_c962d0b979002b8/building-digital-resilience-analyzing-the-bisp-8171-api-portal-infrastructure-2311)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
