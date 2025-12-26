@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Editorial Workflows in the Age of AI: A Practical Guide for Developers](https://dev.to/nihal_ac/editorial-workflows-in-the-age-of-ai-a-practical-guide-for-developers-1b2o)
+- [Day 76: Python Binary Exponentiation – O&lpar;log n&rpar; Fast Power Calculation Without Built-Ins](https://dev.to/shahrouzlogs/day-76-python-binary-exponentiation-olog-n-fast-power-calculation-without-built-ins-56i)
+- [Why You Need an AI Prose Linter in Your Documentation Workflow](https://dev.to/osho_klinsmann_3121f39187/why-you-need-an-ai-prose-linter-in-your-documentation-workflow-4omn)
 - [Ruby: Pass-by-Reference-Value](https://dev.to/kunashir/ruby-pass-by-reference-value-2h38)
-- [Why Rich Domain Models Are Key to Sustainable Enterprise Architecture](https://dev.to/leonpennings/why-rich-domain-models-are-key-to-sustainable-enterprise-architecture-44dn)
-- [🚀 Where `npx` Exists &amp; What You Can Change &lpar;Deep Practical Guide&rpar;](https://dev.to/luckychauhan/where-npx-exists-what-you-can-change-deep-practical-guide-3df4)
-- [I Built a Meme Generator in React and It&#39;s Actually Fun! 🎭✨](https://dev.to/thavoncoding/i-built-a-meme-generator-in-react-and-its-actually-fun-1kof)
-- [How Do You Validate Query Parameters in Spring Boot?](https://dev.to/realnamehidden1_61/how-do-you-validate-query-parameters-in-spring-boot-4jgh)
+- [MEXQuick Review: Exploring Transparency in Public Corporate Listings](https://dev.to/mexquickorg/mexquick-review-exploring-transparency-in-public-corporate-listings-jd3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
