@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [📘 Convert EPUB to PDF in Node.js Using Calibre &lpar;CLI + API&rpar;](https://dev.to/suraj_sutar_925fe601ea366/convert-epub-to-pdf-in-nodejs-using-calibre-cli-api-5c4h)
+- [Production-Grade Generative AI in 2026: Patterns Dextralabs Use in Enterprise Deployments](https://dev.to/dextralabs/production-grade-generative-ai-in-2026-patterns-dextralabs-use-in-enterprise-deployments-25go)
+- [Data Analytics Course in Telugu: A Complete Guide for Students and Working Professionals](https://dev.to/adas_madasu_d145b19b61e81/data-analytics-course-in-telugu-a-complete-guide-for-students-and-working-professionals-4n47)
+- [The $7,500 Mistake Dentists Make With SEO &lpar;And How Mangools Fixes It&rpar;](https://dev.to/alan_luu/the-7500-mistake-dentists-make-with-seo-and-how-mangools-fixes-it-2gln)
 - [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-2ih5)
-- [SVG vs PNG vs WebP: Choosing the Right Image Format for Performance &amp; SEO](https://dev.to/frontendtoolstech/svg-vs-png-vs-webp-choosing-the-right-image-format-for-performance-seo-15b4)
-- [🦉 From Broken Models to Living Systems: My Journey Building AI Without a GPU](https://dev.to/puneetkumar2010/from-broken-models-to-living-systems-my-journey-building-ai-without-a-gpu-2kik)
-- [STATISTICS - Uni-variate Non-Graphical Exploratory Data Analysis &lpar;EDA&rpar;](https://dev.to/ram_vnet_f71e560ae27f2cae/statistics-uni-variate-non-graphical-exploratory-data-analysis-eda-3c6c)
-- [Confuse About how to start OS](https://dev.to/sangharsh_more_50994ab1ac/confuse-about-how-to-start-os-5e9f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
