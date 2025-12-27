@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [10 Warp Terminal Features That Will Change How You Code](https://dev.to/thelazyindiantechie/10-warp-terminal-features-that-will-change-how-you-code-5a1l)
 - [This CORS Mistake Exposes Your API &lpar;I See It Everywhere&rpar;](https://dev.to/aserrano/this-cors-mistake-exposes-your-api-i-see-it-everywhere-58cb)
 - [Offline-First Android: Build Apps That Keep Working When the Network Doesn’t](https://dev.to/mohan_sankaran/offline-first-android-build-apps-that-keep-working-when-the-network-doesnt-3m39)
 - [How to Optimize Content for ChatGPT Results &lpar;and AI Search Engines&rpar;](https://dev.to/natepatel/how-to-optimize-content-for-chatgpt-results-and-ai-search-engines-1jpm)
 - [Schema Validation Passed - So Why Did My Pipeline Fail?](https://dev.to/sumit_agarwal_9af86ae465b/schema-validation-passed-so-why-did-my-pipeline-fail-2coj)
-- [Day in the Life: A Mumbai Web Designer Working with Global Clients &lpar;and How to Ship Faster, Cleaner, and Faster&rpar;](https://dev.to/prateekshaweb/day-in-the-life-a-mumbai-web-designer-working-with-global-clients-and-how-to-ship-faster-2d7g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
