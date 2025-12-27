@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Backtracking Strings: Draw the Tree, Fix the Bugs](https://dev.to/alex_hunter_44f4c9ed6671e/backtracking-strings-draw-the-tree-fix-the-bugs-lng)
-- [A Deep Dive into GitHub Copilot Agent Mode’s Prompt Structure](https://dev.to/seiwan-maikuma/a-deep-dive-into-github-copilot-agent-modes-prompt-structure-2i4g)
-- [Why this piece lives on Medium](https://dev.to/plc-creates/why-this-piece-lives-on-medium-33dn)
-- [CES 2026: ZDNet Highlights Key Trends in Foldables, AI, and TVs at Upcoming TechShow](https://dev.to/ytosko/ces-2026-zdnet-highlights-key-trends-in-foldables-ai-and-tvs-at-upcoming-techshow-4fh7)
-- [Governance of Power Platform – as enabler, not as gatekeeper](https://dev.to/swatantra/governance-of-power-platform-as-enabler-not-as-gatekeeper-53gk)
+- [🤍](https://dev.to/eso_kurt_7512eb41ec/-9eh)
+- [What is React?](https://dev.to/ashfin-ahmed-kp/what-is-react-7ef)
+- [Why does my first HTTP request lag due to WebSocket behavior, and how is this handled in production environments?](https://dev.to/affinity_c3dc021a7d61a6a6/why-does-my-first-http-request-lag-due-to-websocket-behavior-and-how-is-this-handled-in-production-30mo)
+- [Stream Anywhere: Unlocking Geo-Blocked Content with Nocturne VPN](https://dev.to/mitul_chovatiya_e568824a5/stream-anywhere-unlocking-geo-blocked-content-with-nocturne-vpn-po8)
+- [Building a Local-First RAG Engine for AI Coding Assistants](https://dev.to/nirajkvinit1/building-a-local-first-rag-engine-for-ai-coding-assistants-okp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
