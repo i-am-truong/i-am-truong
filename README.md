@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI for Software Engineering, not &lpar;only&rpar; Code Generation](https://dev.to/javatarz/ai-for-software-engineering-not-only-code-generation-4d1n)
-- [Transaction Management: Making ACID Real](https://dev.to/lovestaco/transaction-management-making-acid-real-4dmm)
-- [Amazon Quicksight - Best practices Part 2](https://dev.to/neeraj_iyer_980804515a5da/amazon-quicksight-best-practices-part-2-295c)
-- [Build A CRUD REST API With Litestar SQLAlchemy Models &amp; Repositories | Build APIs with Litestar #4](https://dev.to/jod35/build-a-crud-rest-api-with-litestar-sqlalchemy-models-repositories-build-apis-with-litestar-4-3i6c)
-- [Architecting a Local Ansible Lab - A Professional Guide using WSL 2 and Docker](https://dev.to/prasadg/architecting-a-local-ansible-lab-a-professional-guide-using-wsl-2-and-docker-4gbe)
+- [Sam Altman — from Loopt kid to OpenAI’s lightning rod](https://dev.to/tashfia_a8008e6a542/sam-altman-from-loopt-kid-to-openais-lightning-rod-4oll)
+- [Step-by-step Guide: Creating a PASETO &lpar;Platform-Agnostic Security Token&rpar; in Express.js](https://dev.to/codefalconx/step-by-step-guide-creating-a-paseto-platform-agnostic-security-token-in-expressjs-37pn)
+- [Modern Web Development Build Tools: Transform Your Workflow From Slow to Lightning Fast](https://dev.to/nithinbharathwaj/modern-web-development-build-tools-transform-your-workflow-from-slow-to-lightning-fast-j32)
+- [Building a Student Portfolio That Stands Out in Scholarship Applications](https://dev.to/imtaslim/building-a-student-portfolio-that-stands-out-in-scholarship-applications-1k85)
+- [OllamaFX the Native &amp; Hardware-Smart Client for Local LLMs](https://dev.to/fredericksalazar/ollamafx-the-native-hardware-smart-client-for-local-llms-4802)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
