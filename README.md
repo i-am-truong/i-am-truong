@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Separa números largo en Java con guiones bajos](https://dev.to/jordy_4sd/separa-numeros-largo-en-java-con-guiones-bajos-5aip)
+- [How OCR Impacts the Accuracy of Document Translation](https://dev.to/shruti_saraswat_c258d5934/how-ocr-impacts-the-accuracy-of-document-translation-5gm3)
+- [Want To Be a Hacker? Getting Started with Ethical Hacking &lpar;TryHackMe Journey&rpar;](https://dev.to/payamhn/want-to-be-a-hacker-getting-started-with-ethical-hacking-tryhackme-journey-5eg9)
+- [Building a High-Ticket Coaching Business Without Products, Funnels, or Coaching Calls](https://dev.to/dahoda/building-a-high-ticket-coaching-business-without-products-funnels-or-coaching-calls-105d)
 - [Define the Benefits of the AWS Cloud](https://dev.to/aws-builders/define-the-benefits-of-the-aws-cloud-1c8b)
-- [How to Automate API Testing in CI/CD Without Writing Scripts](https://dev.to/engroso/how-to-automate-api-testing-in-cicd-without-writing-scripts-3iig)
-- [Why Interruptible Voice AI Is a Systems Problem &lpar;Not an AI Problem&rpar;](https://dev.to/yuer/why-interruptible-voice-ai-is-a-systems-problem-not-an-ai-problem-2n84)
-- [Autosave works. Until it doesn’t.](https://dev.to/plc-creates/autosave-works-until-it-doesnt-2l3i)
-- [I Built a Wrapper to Fix the Two Biggest Problems with LocalStorage](https://dev.to/kushalst/i-built-a-wrapper-to-fix-the-two-biggest-problems-with-localstorage-keh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
