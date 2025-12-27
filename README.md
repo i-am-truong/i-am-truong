@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Swoole: an asynchronous framework for PHP](https://dev.to/__31337ac53cb/swoole-an-asynchronous-framework-for-php-21cc)
+- [From Software Engineer to GenAI Engineer: A Practical Series for 2026](https://dev.to/muzammiltalha/from-software-engineer-to-genai-engineer-a-practical-series-for-2026-19nm)
+- [Swoole: an asynchronous framework for PHP](https://dev.to/panov-eo/swoole-an-asynchronous-framework-for-php-21cc)
 - [Swift #19: Arreglos](https://dev.to/david_goyes_a488f58a17a53/swift-19-arreglos-20kk)
 - [Why I Built a Calm, Structured AI Learning Platform for Beginners](https://dev.to/john_haworth_a503e7ff8249/why-i-built-a-calm-structured-ai-learning-platform-for-beginners-4m83)
 - [##🖥️ Ubuntu Laptop Home Server + Personal VPN &lpar;Tailscale Exit Node&rpar;](https://dev.to/reggiejohnson86/-ubuntu-laptop-home-server-personal-vpn-tailscale-exit-node-18b)
-- [Solved: The Ultimate WordPress Pagespeed Guide](https://dev.to/techresolve/solved-the-ultimate-wordpress-pagespeed-guide-2hmf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
