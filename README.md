@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Separa números largo en Java con guiones bajos](https://dev.to/jordy_4sd/separa-numeros-largo-en-java-con-guiones-bajos-5aip)
-- [How OCR Impacts the Accuracy of Document Translation](https://dev.to/shruti_saraswat_c258d5934/how-ocr-impacts-the-accuracy-of-document-translation-5gm3)
-- [Want To Be a Hacker? Getting Started with Ethical Hacking &lpar;TryHackMe Journey&rpar;](https://dev.to/payamhn/want-to-be-a-hacker-getting-started-with-ethical-hacking-tryhackme-journey-5eg9)
-- [Building a High-Ticket Coaching Business Without Products, Funnels, or Coaching Calls](https://dev.to/dahoda/building-a-high-ticket-coaching-business-without-products-funnels-or-coaching-calls-105d)
-- [Define the Benefits of the AWS Cloud](https://dev.to/aws-builders/define-the-benefits-of-the-aws-cloud-1c8b)
+- [BigQuery Salesforce Integration: Getting Your Data Where It Needs to Be](https://dev.to/emma_trump_d4da0bc0a3528b/bigquery-salesforce-integration-getting-your-data-where-it-needs-to-be-34ja)
+- [Cybersecurity ProxyChains: A Mask of Anonymity](https://dev.to/thmnagpur/cybersecurity-proxychains-a-mask-of-anonymity-45pn)
+- [Solved: TryHackMe Co-founder AMA: Get Hired in Cyber Security &amp; Build Elite Teams.](https://dev.to/techresolve/solved-tryhackme-co-founder-ama-get-hired-in-cyber-security-build-elite-teams-i13)
+- [Feature and Maintenance Release 0.56.0 of the GitHub Action for Checking Spelling](https://dev.to/jonasbn/feature-and-maintenance-release-0560-of-the-github-action-for-checking-spelling-224)
+- [++ antes y ++ después en Java: Operador de incremento](https://dev.to/jordy_4sd/-antes-y-despues-en-java-operador-de-incremento-19h7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
