@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Great Frontend Shift: React to Angular by 2026](https://dev.to/satnam_singh_7e9044f30dd2/the-great-frontend-shift-react-to-angular-by-2026-hka)
+- [The Hidden Power of connect&lpar;&rpar; and autoconnect&lpar;&rpar; in Combine Swift](https://dev.to/arshtechpro/the-hidden-power-of-connect-and-autoconnect-in-combine-swift-6l9)
+- [I Built an On‑Demand Minecraft Host on AWS Fargate to Stop Paying Monthly Fees](https://dev.to/eresende/i-built-an-on-demand-minecraft-host-on-aws-fargate-to-stop-paying-monthly-fees-4cl7)
 - [Why Your AI Agent Is Slow &lpar;And How Graph Algorithms Fix It&rpar;](https://dev.to/shoaibalimir/why-your-ai-agent-is-slow-and-how-graph-algorithms-fix-it-2c6n)
-- [Chrome DevTools is missing these features, so I built them myself](https://dev.to/nhrdev/chrome-devtools-is-missing-these-features-so-i-built-them-myself-2ea4)
-- [Sam Altman — from Loopt kid to OpenAI’s lightning rod](https://dev.to/tashfia_a8008e6a542/sam-altman-from-loopt-kid-to-openais-lightning-rod-4oll)
-- [I Built an Email API — Here&#39;s What I Learned About DKIM, SPF, and DMARC](https://dev.to/johan_s_/i-built-an-email-api-heres-what-i-learned-about-dkim-spf-and-dmarc-2ann)
-- [Java &amp; Spring Boot — 90-Day Deep-Dive Learning Journey](https://dev.to/sheshi_13/java-spring-boot-90-day-deep-dive-learning-journey-26e6)
+- [Relearning How to Learn: Preparing for AWS Certifications with ADHD](https://dev.to/geekusa33/relearning-how-to-learn-preparing-for-aws-certifications-with-adhd-4ikp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
