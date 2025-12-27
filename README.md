@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Extract Data from Excel using Power BI](https://dev.to/rahimah_dev/how-to-extract-data-from-excel-using-power-bi-53k8)
-- [Experts explore new mushroom which causes fairytale-like hallucinations](https://dev.to/technoblogger14o3/experts-explore-new-mushroom-which-causes-fairytale-like-hallucinations-2hkg)
-- [🤍](https://dev.to/eso_kurt_7512eb41ec/-9eh)
-- [What is React?](https://dev.to/ashfin-ahmed-kp/what-is-react-7ef)
-- [Why does my first HTTP request lag due to WebSocket behavior, and how is this handled in production environments?](https://dev.to/affinity_c3dc021a7d61a6a6/why-does-my-first-http-request-lag-due-to-websocket-behavior-and-how-is-this-handled-in-production-30mo)
+- [Overcoming VBA Obsolescence: Modernizing Office Automation with a runtime scripting framework](https://dev.to/wsgarcia/overcoming-vba-obsolescence-modernizing-office-automation-with-a-runtime-scripting-framework-kb8)
+- [Building Markdown Scribe](https://dev.to/dhanushnehru/building-markdown-scribe-1gh4)
+- [High-Performance Data Orchestration in Roku OS 15.0](https://dev.to/vanyaxk/beyond-the-copy-mastering-roku-os-150s-new-data-handling-apis-42h0)
+- [Celestine: AI Navigator for the Universe](https://dev.to/vero-code/celestine-ai-navigator-for-the-universe-2acc)
+- [Decoding Exception Entry &amp; Exit on ARM Cortex-Mx](https://dev.to/amanprasad/decoding-exception-entry-exit-on-arm-cortex-mx-5fmc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
