@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🎮 Retro Hangman &#39;95 Using KIRO](https://dev.to/friesforlife/retro-hangman-95-398g)
+- [How to Write Clear and Effective User Manuals](https://dev.to/larecole/how-to-write-clear-and-effective-user-manuals-nin)
+- [From Project Manager to AI-Orchestrator: Leading in a world where decisions are made by machine](https://dev.to/swatantra/from-project-manager-to-ai-orchestrator-leading-in-a-world-where-decisions-are-made-by-machine-h3h)
 - [Why I swapped a Relational Database for Neo4j to build a Skill-Gap Identifier 🚀](https://dev.to/harsha_vardhanreddy_15a5/why-i-swapped-a-relational-database-for-neo4j-to-build-a-skill-gap-identifier-2hnj)
 - [Project Corsa: The Untold Story of TypeScript 7 &lpar;A Git Forensic Thriller&rpar;](https://dev.to/copyleftdev/project-corsa-the-untold-story-of-typescript-7-a-git-forensic-thriller-40jg)
-- [https://iwcindianwebsitecompany.blogspot.com/2025/12/duplicate-content-in-ecommerce.html](https://dev.to/indianwebsiteco/httpsiwcindianwebsitecompanyblogspotcom202512duplicate-content-in-ecommercehtml-ji3)
-- [Building a Full-Stack E-Commerce Platform with AWS](https://dev.to/randiakm/building-a-full-stack-e-commerce-platform-with-aws-3hki)
-- [I analyzed 1,000+ deals. Here is why Engineers fail at fundraising &lpar;and how I fixed it&rpar;.](https://dev.to/jennifer_grace_109e4104a5/i-analyzed-1000-deals-here-is-why-engineers-fail-at-fundraising-and-how-i-fixed-it-40d3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
