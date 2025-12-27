@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why I swapped a Relational Database for Neo4j to build a Skill-Gap Identifier 🚀](https://dev.to/harsha_vardhanreddy_15a5/why-i-swapped-a-relational-database-for-neo4j-to-build-a-skill-gap-identifier-2hnj)
+- [Project Corsa: The Untold Story of TypeScript 7 &lpar;A Git Forensic Thriller&rpar;](https://dev.to/copyleftdev/project-corsa-the-untold-story-of-typescript-7-a-git-forensic-thriller-40jg)
+- [https://iwcindianwebsitecompany.blogspot.com/2025/12/duplicate-content-in-ecommerce.html](https://dev.to/indianwebsiteco/httpsiwcindianwebsitecompanyblogspotcom202512duplicate-content-in-ecommercehtml-ji3)
+- [Building a Full-Stack E-Commerce Platform with AWS](https://dev.to/randiakm/building-a-full-stack-e-commerce-platform-with-aws-3hki)
 - [I analyzed 1,000+ deals. Here is why Engineers fail at fundraising &lpar;and how I fixed it&rpar;.](https://dev.to/jennifer_grace_109e4104a5/i-analyzed-1000-deals-here-is-why-engineers-fail-at-fundraising-and-how-i-fixed-it-40d3)
-- [The Future of n8n Hosting for AI-Driven Business Automation in 2026](https://dev.to/nikita_heroxhost_932ba998/the-future-of-n8n-hosting-for-ai-driven-business-automation-in-2026-1fd5)
-- [System Design 0-to-1: Why the World&#39;s Biggest Apps Scale Horizontally](https://dev.to/hrishikesh_dalal_ced8f95e/system-design-0-to-1-why-the-worlds-biggest-apps-scale-horizontally-4623)
-- [I Thought I Needed Better Habits. What I Actually Needed Was Fewer Expectations](https://dev.to/jamesmiller25/i-thought-i-needed-better-habits-what-i-actually-needed-was-fewer-expectations-27kh)
-- [The Quiet Stress of Always Being “Available”](https://dev.to/jamesmiller25/the-quiet-stress-of-always-being-available-o0k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
