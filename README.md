@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [End-to-End Microservices Deployment on AWS EKS: CI/CD with Jenkins, Docker, Kubernetes &amp; Argo CD](https://dev.to/srinivasamcjf/end-to-end-microservices-deployment-on-aws-eks-cicd-with-jenkins-docker-kubernetes-argo-cd-35pp)
-- [STEP 3: SETTING UP AKS STEP-BY-STEP](https://dev.to/shakol/step-3-setting-up-aks-step-by-step-pk1)
-- [Vulnerabilities and its implications](https://dev.to/vishthakkar/vulnerabilities-and-its-implications-445k)
-- [Building a Security Test Lab with QEMU: From Zero to Network Monitoring](https://dev.to/zrouga/building-a-security-test-lab-with-qemu-from-zero-to-network-monitoring-4onm)
-- [Linux Globbing — FULL Exercise Set](https://dev.to/jumptotech/linux-globbing-full-exercise-set-38ap)
+- [I built a Collaborative Data Canvas to end &quot; Multiple spreadsheet sharing issue&quot;](https://dev.to/sambathwins/i-built-a-collaborative-data-canvas-to-end-multiple-spreadsheet-sharing-issue-193j)
+- [A Deep Dive into JavaScript&#39;s Temporal API: Finally Escaping Date Hell in 2025](https://dev.to/hobbada/a-deep-dive-into-javascripts-temporal-api-finally-escaping-date-hell-in-2025-16hg)
+- [What Actually Works for Local SEO in 2025 &lpar;From Running Real Campaigns&rpar;](https://dev.to/joseph_brikeer_ddaad1d14e/what-actually-works-for-local-seo-in-2025-from-running-real-campaigns-55ja)
+- [Revisiting codebase organization practices from 2004](https://dev.to/veer66/revisiting-codebase-organization-practices-from-2004-5ej0)
+- [Why Distributed Query Engines Always Accumulate Complexity in the Execution Layer](https://dev.to/yuer/why-distributed-query-engines-always-accumulate-complexity-in-the-execution-layer-44n7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
