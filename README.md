@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Decoding Life One Cell at a Time: A Journey Through Single-Cell RNA Sequencing](https://dev.to/jhhornn/decoding-life-one-cell-at-a-time-a-journey-through-single-cell-rna-sequencing-f5a)
-- [Stop Fragmenting Information](https://dev.to/synthaicode_commander/stop-fragmenting-information-3h8f)
-- [Chat With Your Database for Free: Build a Private AI Agent in Python](https://dev.to/fabiothiroki/chat-with-your-database-for-free-build-a-private-ai-agent-in-python-j80)
-- [Open Source: A Friendly Guide for New Developers](https://dev.to/prakashm88/open-source-a-friendly-guide-for-new-developers-4mn5)
-- [Coding is Now a Commodity](https://dev.to/ttoss/coding-is-now-a-commodity-19j6)
+- [Backtracking Strings: Draw the Tree, Fix the Bugs](https://dev.to/alex_hunter_44f4c9ed6671e/backtracking-strings-draw-the-tree-fix-the-bugs-lng)
+- [A Deep Dive into GitHub Copilot Agent Mode’s Prompt Structure](https://dev.to/seiwan-maikuma/a-deep-dive-into-github-copilot-agent-modes-prompt-structure-2i4g)
+- [Why this piece lives on Medium](https://dev.to/plc-creates/why-this-piece-lives-on-medium-33dn)
+- [CES 2026: ZDNet Highlights Key Trends in Foldables, AI, and TVs at Upcoming TechShow](https://dev.to/ytosko/ces-2026-zdnet-highlights-key-trends-in-foldables-ai-and-tvs-at-upcoming-techshow-4fh7)
+- [Governance of Power Platform – as enabler, not as gatekeeper](https://dev.to/swatantra/governance-of-power-platform-as-enabler-not-as-gatekeeper-53gk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
