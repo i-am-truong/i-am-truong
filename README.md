@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Block-Reign: A Player vs AI Grid Game That Learns From You](https://dev.to/puneetkumar2010/block-reign-a-player-vs-ai-grid-game-that-learns-from-you-44cj)
-- [Your Onboarding Is Losing 40% of Users — Here’s a Practical Fix That Actually Works](https://dev.to/uianimation/your-onboarding-is-losing-40-of-users-heres-a-practical-fix-that-actually-works-ihl)
-- [Building the World&#39;s First Cryptographic Audit Trail for MetaTrader: A Deep Technical Dive](https://dev.to/veritaschain/building-the-worlds-first-cryptographic-audit-trail-for-metatrader-a-deep-technical-dive-1m9i)
-- [Claude and Turing Tests](https://dev.to/goatpug/claude-and-turing-tests-4dgi)
-- [Pythonic Best Practices &amp; Idioms](https://dev.to/godofgeeks/pythonic-best-practices-idioms-54ol)
+- [Neon Postgres Deep Dive: Why the 2025 Updates Change Serverless SQL](https://dev.to/dataformathub/neon-postgres-deep-dive-why-the-2025-updates-change-serverless-sql-5o0)
+- [Is This the Most Private Way to Track Your Life? Dashboard of Life.](https://dev.to/techno_kraft_in/is-this-the-most-private-way-to-track-your-life-dashboard-of-life-170b)
+- [Stop Using Lottie for Characters: Why Rive Is the Future of App Animation](https://dev.to/uianimation/stop-using-lottie-for-characters-why-rive-is-the-future-of-app-animation-1hjf)
+- [Why Some Smart HVAC Systems Stumble in Extreme Conditions](https://dev.to/elena_bennett_5e746b5e3ef/why-some-smart-hvac-systems-stumble-in-extreme-conditions-l13)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
