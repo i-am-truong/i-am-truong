@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Coderive Language Feature Proposal - Broadcasting main&lpar;&rpar; as Package Executable Main](https://dev.to/danexcodr/coderive-language-feature-proposal-broadcasting-main-as-package-executable-main-4edg)
+- [Java Interface Evolution: Best Practices and Strategies](https://dev.to/vardan_matevosian_tech/java-interface-evolution-best-practices-and-strategies-44e1)
 - [🎮 Retro Hangman &#39;95 Using KIRO](https://dev.to/friesforlife/retro-hangman-95-398g)
 - [How to Write Clear and Effective User Manuals](https://dev.to/larecole/how-to-write-clear-and-effective-user-manuals-nin)
 - [From Project Manager to AI-Orchestrator: Leading in a world where decisions are made by machine](https://dev.to/swatantra/from-project-manager-to-ai-orchestrator-leading-in-a-world-where-decisions-are-made-by-machine-h3h)
-- [Why I swapped a Relational Database for Neo4j to build a Skill-Gap Identifier 🚀](https://dev.to/harsha_vardhanreddy_15a5/why-i-swapped-a-relational-database-for-neo4j-to-build-a-skill-gap-identifier-2hnj)
-- [Project Corsa: The Untold Story of TypeScript 7 &lpar;A Git Forensic Thriller&rpar;](https://dev.to/copyleftdev/project-corsa-the-untold-story-of-typescript-7-a-git-forensic-thriller-40jg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
