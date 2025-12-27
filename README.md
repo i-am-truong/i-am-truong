@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with Docker - VM0 Skills Test](https://dev.to/ethan_zhang_e501fea89c25b/getting-started-with-docker-vm0-skills-test-1h2k)
+- [Article with Cover - Skills Test](https://dev.to/ethan_zhang_e501fea89c25b/article-with-cover-skills-test-14o0)
 - [Rust Macros: Declarative vs Procedural](https://dev.to/sumana10l/rust-macros-declarative-vs-procedural-4kme)
 - [El método repeat&lpar;&rpar; en Java: Repite cadenas fácilmente](https://dev.to/jordy_4sd/el-metodo-repeat-en-java-repite-cadenas-facilmente-3afk)
-- [Excel upload in custom script D365FO](https://dev.to/ni_klaus_4eb1581f851becee/excel-upload-in-custom-script-5ec5)
-- [El nuevo instanceof en Java: Pattern Matching](https://dev.to/jordy_4sd/el-nuevo-instanceof-en-java-pattern-matching-3i0o)
-- [BigQuery Salesforce Integration: Getting Your Data Where It Needs to Be](https://dev.to/emma_trump_d4da0bc0a3528b/bigquery-salesforce-integration-getting-your-data-where-it-needs-to-be-34ja)
+- [Fixing Unbalanced TTS Error in D365FO Excel Upload](https://dev.to/ni_klaus_4eb1581f851becee/excel-upload-in-custom-script-5ec5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
