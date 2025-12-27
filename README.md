@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Great Frontend Shift: React to Angular by 2026](https://dev.to/satnam_singh_7e9044f30dd2/the-great-frontend-shift-react-to-angular-by-2026-hka)
-- [The Hidden Power of connect&lpar;&rpar; and autoconnect&lpar;&rpar; in Combine Swift](https://dev.to/arshtechpro/the-hidden-power-of-connect-and-autoconnect-in-combine-swift-6l9)
-- [I Built an On‑Demand Minecraft Host on AWS Fargate to Stop Paying Monthly Fees](https://dev.to/eresende/i-built-an-on-demand-minecraft-host-on-aws-fargate-to-stop-paying-monthly-fees-4cl7)
-- [Why Your AI Agent Is Slow &lpar;And How Graph Algorithms Fix It&rpar;](https://dev.to/shoaibalimir/why-your-ai-agent-is-slow-and-how-graph-algorithms-fix-it-2c6n)
-- [Relearning How to Learn: Preparing for AWS Certifications with ADHD](https://dev.to/geekusa33/relearning-how-to-learn-preparing-for-aws-certifications-with-adhd-4ikp)
+- [Swoole: an asynchronous framework for PHP](https://dev.to/__31337ac53cb/swoole-an-asynchronous-framework-for-php-21cc)
+- [Swift #19: Arreglos](https://dev.to/david_goyes_a488f58a17a53/swift-19-arreglos-20kk)
+- [Why I Built a Calm, Structured AI Learning Platform for Beginners](https://dev.to/john_haworth_a503e7ff8249/why-i-built-a-calm-structured-ai-learning-platform-for-beginners-4m83)
+- [##🖥️ Ubuntu Laptop Home Server + Personal VPN &lpar;Tailscale Exit Node&rpar;](https://dev.to/reggiejohnson86/-ubuntu-laptop-home-server-personal-vpn-tailscale-exit-node-18b)
+- [Solved: The Ultimate WordPress Pagespeed Guide](https://dev.to/techresolve/solved-the-ultimate-wordpress-pagespeed-guide-2hmf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
