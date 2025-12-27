@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Linux Package Management &amp; Job Control – Practice Exercises](https://dev.to/jumptotech/linux-package-management-job-control-practice-exercises-18fa)
-- [linux day #4](https://dev.to/jumptotech/linux-day-4-3jh0)
-- [Sketch‑Programming &lpar;LLM Transpiler&rpar; — what is it?](https://dev.to/dmitryolkhovoi/sketch-programming-llm-transpiler-what-is-it-12df)
-- [6. Zigzag Conversion | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/6-zigzag-conversion-leetcode-top-interview-150-coding-questions-5a53)
-- [🧠 Building a Conversational Chatbot with AWS Bedrock &lpar;Amazon Titan&rpar;](https://dev.to/aws-builders/building-a-conversational-chatbot-with-aws-bedrock-amazon-titan-4kll)
+- [End-to-End Microservices Deployment on AWS EKS: CI/CD with Jenkins, Docker, Kubernetes &amp; Argo CD](https://dev.to/srinivasamcjf/end-to-end-microservices-deployment-on-aws-eks-cicd-with-jenkins-docker-kubernetes-argo-cd-35pp)
+- [STEP 3: SETTING UP AKS STEP-BY-STEP](https://dev.to/shakol/step-3-setting-up-aks-step-by-step-pk1)
+- [Vulnerabilities and its implications](https://dev.to/vishthakkar/vulnerabilities-and-its-implications-445k)
+- [Building a Security Test Lab with QEMU: From Zero to Network Monitoring](https://dev.to/zrouga/building-a-security-test-lab-with-qemu-from-zero-to-network-monitoring-4onm)
+- [Linux Globbing — FULL Exercise Set](https://dev.to/jumptotech/linux-globbing-full-exercise-set-38ap)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
