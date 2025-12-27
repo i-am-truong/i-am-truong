@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Prompts are becoming Code, but we still treat them like Strings](https://dev.to/codeaholicguy/prompts-are-becoming-code-but-we-still-treat-them-like-strings-4o1j)
-- [Block-Reign: A Player vs AI Grid Game That Learns From You](https://dev.to/puneetkumar2010/block-reign-a-player-vs-ai-grid-game-that-learns-from-you-44cj)
-- [Neon Postgres Deep Dive: Why the 2025 Updates Change Serverless SQL](https://dev.to/dataformathub/neon-postgres-deep-dive-why-the-2025-updates-change-serverless-sql-5o0)
-- [Is This the Most Private Way to Track Your Life? Dashboard of Life.](https://dev.to/techno_kraft_in/is-this-the-most-private-way-to-track-your-life-dashboard-of-life-170b)
-- [Stop Using Lottie for Characters: Why Rive Is the Future of App Animation](https://dev.to/uianimation/stop-using-lottie-for-characters-why-rive-is-the-future-of-app-animation-1hjf)
+- [Nvidia–Groq Talks Signal New Shift in the AI Chip Race](https://dev.to/logicverse_2025/nvidia-groq-talks-signal-new-shift-in-the-ai-chip-race-18o3)
+- [8 Places Where Flutter / React Native Save You Weeks](https://dev.to/dev_resources/8-places-where-flutter-react-native-save-you-weeks-64m)
+- [🕹️ Game Designer or Game Developer? Don’t Decide Too Early](https://dev.to/dinesh_04/game-designer-or-game-developer-dont-decide-too-early-35n7)
+- [Improved Simulation of Stabilizer Circuits](https://dev.to/paperium/improved-simulation-of-stabilizer-circuits-4hnc)
+- [XDocReport cần plugin để tạo placeholder](https://dev.to/trithai/xdocreport-can-plugin-de-tao-placeholder-5f2k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
