@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Block-Reign: A Player vs AI Grid Game That Learns From You](https://dev.to/puneetkumar2010/block-reign-a-player-vs-ai-grid-game-that-learns-from-you-44cj)
 - [Your Onboarding Is Losing 40% of Users — Here’s a Practical Fix That Actually Works](https://dev.to/uianimation/your-onboarding-is-losing-40-of-users-heres-a-practical-fix-that-actually-works-ihl)
 - [Building the World&#39;s First Cryptographic Audit Trail for MetaTrader: A Deep Technical Dive](https://dev.to/veritaschain/building-the-worlds-first-cryptographic-audit-trail-for-metatrader-a-deep-technical-dive-1m9i)
+- [Claude and Turing Tests](https://dev.to/goatpug/claude-and-turing-tests-4dgi)
 - [Pythonic Best Practices &amp; Idioms](https://dev.to/godofgeeks/pythonic-best-practices-idioms-54ol)
-- [How to Test Your Microphone Online – A Simple Guide](https://dev.to/sohail_akhter_f208daae65a/how-to-test-your-microphone-online-a-simple-guide-1jb2)
-- [Skip 1st-year theory, start building AI projects now](https://dev.to/faraz_khan_349be22e161b48/skip-1st-year-theory-start-building-ai-projects-now-2040)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
