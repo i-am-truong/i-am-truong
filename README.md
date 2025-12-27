@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Quiet Stress of Always Being “Available”](https://dev.to/jamesmiller25/the-quiet-stress-of-always-being-available-o0k)
+- [AI-Driven Advertising for E-Commerce [2025 Strategy Guide]](https://dev.to/getkoro_app/ai-driven-advertising-for-e-commerce-2025-strategy-guide-544)
+- [I’m tired of calling glued-together scripts “workflow automation”](https://dev.to/felix-schultz/im-tired-of-calling-glued-together-scripts-workflow-automation-1l1j)
 - [Why Debugging Skills Matter More Than Writing New Code](https://dev.to/speaklouder/why-debugging-skills-matter-more-than-writing-new-code-2lc7)
 - [MEV &lpar;Maximal Extractable Value&rpar;: The Invisible Tax on Every Blockchain Transaction](https://dev.to/ribhavmodi/mev-maximal-extractable-value-the-invisible-tax-on-every-blockchain-transaction-4aaj)
-- [The Web2 Mental Model Doesn’t Work in Web3](https://dev.to/92srdjan/the-web2-mental-model-doesnt-work-in-web3-18on)
-- [How to Create Video Ads That Actually Convert [2025 Strategy Guide]](https://dev.to/getkoro_app/how-to-create-video-ads-that-actually-convert-2025-strategy-guide-31f7)
-- [Solved: Stop blaming “plugins” when your WordPress site is slow](https://dev.to/techresolve/solved-stop-blaming-plugins-when-your-wordpress-site-is-slow-3bl3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
