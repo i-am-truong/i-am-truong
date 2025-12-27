@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Rust Macros: Declarative vs Procedural](https://dev.to/sumana10l/rust-macros-declarative-vs-procedural-4kme)
+- [El método repeat&lpar;&rpar; en Java: Repite cadenas fácilmente](https://dev.to/jordy_4sd/el-metodo-repeat-en-java-repite-cadenas-facilmente-3afk)
+- [Excel upload in custom script D365FO](https://dev.to/ni_klaus_4eb1581f851becee/excel-upload-in-custom-script-5ec5)
+- [El nuevo instanceof en Java: Pattern Matching](https://dev.to/jordy_4sd/el-nuevo-instanceof-en-java-pattern-matching-3i0o)
 - [BigQuery Salesforce Integration: Getting Your Data Where It Needs to Be](https://dev.to/emma_trump_d4da0bc0a3528b/bigquery-salesforce-integration-getting-your-data-where-it-needs-to-be-34ja)
-- [Cybersecurity ProxyChains: A Mask of Anonymity](https://dev.to/thmnagpur/cybersecurity-proxychains-a-mask-of-anonymity-45pn)
-- [Solved: TryHackMe Co-founder AMA: Get Hired in Cyber Security &amp; Build Elite Teams.](https://dev.to/techresolve/solved-tryhackme-co-founder-ama-get-hired-in-cyber-security-build-elite-teams-i13)
-- [Feature and Maintenance Release 0.56.0 of the GitHub Action for Checking Spelling](https://dev.to/jonasbn/feature-and-maintenance-release-0560-of-the-github-action-for-checking-spelling-224)
-- [++ antes y ++ después en Java: Operador de incremento](https://dev.to/jordy_4sd/-antes-y-despues-en-java-operador-de-incremento-19h7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
