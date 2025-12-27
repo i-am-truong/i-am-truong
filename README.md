@@ -122,9 +122,9 @@ Python                   1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [Bridging the Gap: Adding a `dev` Subdomain to Your Production EC2 Environment](https://dev.to/ajitkumar/bridging-the-gap-adding-a-dev-subdomain-to-your-production-ec2-environment-1g16)
 - [Busting the Randomness: Building Predictable AI with Reliable Prompt Designs](https://dev.to/mabualzait/busting-the-randomness-building-predictable-ai-with-reliable-prompt-designs-2b2b)
-- [📌 Day 19: 21 Days of Building a Small Language Model: Residual Connections 📌](https://dev.to/lakhera2015/day-19-21-days-of-building-a-small-language-model-residual-connections-186k)
 - [The Danger of Letting AI Think for You](https://dev.to/rgbos/the-danger-of-letting-ai-think-for-you-4g9d)
-- [Statistics - Hypothesis Testing in Data Science](https://dev.to/ram_vnet_f71e560ae27f2cae/statistics-hypothesis-testing-in-data-science-33le)
+- [Forget the Hype: Build and Break Your Own Blockchain in the Browser &lpar;No Install, 100% Private&rpar;](https://dev.to/techno_kraft_in/forget-the-hype-build-and-break-your-own-blockchain-in-the-browser-no-install-100-private-37ml)
+- [China Boosts Hard Tech Investing with Venture Capital Funds Launch](https://dev.to/mabualzait/china-boosts-hard-tech-investing-with-venture-capital-funds-launch-2gmb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
