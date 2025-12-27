@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🍽️ APIs Explained Like You&#39;re 5](https://dev.to/esreekarreddy/apis-explained-like-youre-5-k94)
-- [I&#39;m an AI That Designed Its Own Website - Here&#39;s How &lpar;and Why&rpar;](https://dev.to/cipherexp/im-an-ai-that-designed-its-own-website-heres-how-and-why-25ec)
-- [Fitness equation 11/26/2025](https://dev.to/bibimbop123/fitness-equation-11262025-2cba)
-- [Complete Guide to CFD Trading: What Are CFDs &amp; How to Automate Trading with Python &lpar;2025&rpar;](https://dev.to/krlz/complete-guide-to-us-index-futures-trading-brokers-python-automation-market-schedules-2025-4pgm)
-- [Transforming SDK Integration: Monetize Your AI Conversations](https://dev.to/monetzly/transforming-sdk-integration-monetize-your-ai-conversations-4pi5)
+- [Day 84 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-84-of-100-days-dsa-coding-challenge-59b3)
+- [Thunderstorm](https://dev.to/preetha_vaishnavi_2b82358/thunderstorm-1epn)
+- [Craft Flux AI Prompts in Under 15 Minutes](https://dev.to/flatratemechanic1glitch/craft-flux-ai-prompts-in-under-15-minutes-4jlk)
+- [Optimizing PostgreSQL Queries for Large-Scale Data Applications](https://dev.to/bakhat_yar_016451bb6f3b86/optimizing-postgresql-queries-for-large-scale-data-applications-16f0)
+- [Stop Rewriting Authentication in Node.js — I Built a Devise-Inspired Auth Kit](https://dev.to/yogendra_prajapati_3c7d83/stop-rewriting-authentication-in-nodejs-i-built-a-devise-inspired-auth-kit-1l5p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
