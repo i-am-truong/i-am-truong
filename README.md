@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Coderive Language Feature Proposal - Broadcasting main&lpar;&rpar; as Package Executable Main](https://dev.to/danexcodr/coderive-language-feature-proposal-broadcasting-main-as-package-executable-main-4edg)
-- [Java Interface Evolution: Best Practices and Strategies](https://dev.to/vardan_matevosian_tech/java-interface-evolution-best-practices-and-strategies-44e1)
-- [🎮 Retro Hangman &#39;95 Using KIRO](https://dev.to/friesforlife/retro-hangman-95-398g)
-- [How to Write Clear and Effective User Manuals](https://dev.to/larecole/how-to-write-clear-and-effective-user-manuals-nin)
-- [From Project Manager to AI-Orchestrator: Leading in a world where decisions are made by machine](https://dev.to/swatantra/from-project-manager-to-ai-orchestrator-leading-in-a-world-where-decisions-are-made-by-machine-h3h)
+- [How APIs Actually Travel Between Systems](https://dev.to/surhidamatya/how-apis-actually-travel-between-systems-5adj)
+- [From ClickOps to DevOps: My First Infrastructure as Code Project with Terraform](https://dev.to/rohanan07/from-clickops-to-devops-my-first-infrastructure-as-code-project-with-terraform-3fcn)
+- [When Teams Go Quiet, It&#39;s Dangerous: Reading Project Crisis Signals](https://dev.to/_jeongyuhyeon_03de1/when-teams-go-quiet-its-dangerous-reading-project-crisis-signals-5ca2)
+- [Quark&#39;s Outlines: Emulating Sequence and Mapping Types in Python](https://dev.to/mike-vincent/quarks-outlines-emulating-sequence-and-mapping-types-in-python-498m)
+- [📊 Visualize Your Coding Journey: Check Your GitHub Stats](https://dev.to/ibrahimsezer/visualize-your-coding-journey-check-your-github-stats-2cdo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
