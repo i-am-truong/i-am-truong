@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a Collaborative Data Canvas to end &quot; Multiple spreadsheet sharing issue&quot;](https://dev.to/sambathwins/i-built-a-collaborative-data-canvas-to-end-multiple-spreadsheet-sharing-issue-193j)
-- [A Deep Dive into JavaScript&#39;s Temporal API: Finally Escaping Date Hell in 2025](https://dev.to/hobbada/a-deep-dive-into-javascripts-temporal-api-finally-escaping-date-hell-in-2025-16hg)
-- [What Actually Works for Local SEO in 2025 &lpar;From Running Real Campaigns&rpar;](https://dev.to/joseph_brikeer_ddaad1d14e/what-actually-works-for-local-seo-in-2025-from-running-real-campaigns-55ja)
-- [Revisiting codebase organization practices from 2004](https://dev.to/veer66/revisiting-codebase-organization-practices-from-2004-5ej0)
-- [Why Distributed Query Engines Always Accumulate Complexity in the Execution Layer](https://dev.to/yuer/why-distributed-query-engines-always-accumulate-complexity-in-the-execution-layer-44n7)
+- [Content Delivery Patterns on AWS: CloudFront, ALB, and S3](https://dev.to/irfansatrio/content-delivery-patterns-on-aws-cloudfront-alb-and-s3-23i7)
+- [Convincing Myself to &quot;Vibe Code&quot;](https://dev.to/zeling_chen_73840b4951f53/convincing-myself-to-vibe-code-2dh9)
+- [Automatic LetsEncrypt certificates with Tailscale and Traefik in Docker](https://dev.to/thes1lv3r/automatic-letsencrypt-certificates-with-tailscale-and-traefik-in-docker-333i)
+- [From IP to Identity: The Complete Guide to Deploying Django with SSL, Nginx, and Docker](https://dev.to/ajitkumar/from-ip-to-identity-the-complete-guide-to-deploying-django-with-ssl-nginx-and-docker-a90)
+- [Infrastructure Workforce Development in India: A Roadmap to 2030](https://dev.to/incobaninsights/infrastructure-workforce-development-in-india-a-roadmap-to-2030-18p8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
