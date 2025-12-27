@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🔑 O que é useId no React?](https://dev.to/nathdev/o-que-e-useid-no-react-26p0)
+- [🚀 O Poder da Teoria dos Conjuntos na Programação: Lodash como Aliado na União e Diferença de Dados](https://dev.to/nathdev/o-poder-da-teoria-dos-conjuntos-na-programacao-lodash-como-aliado-na-uniao-e-diferenca-de-dados-3cie)
+- [🚀 Maximizando a Performance de Tabelas: 4 Estratégias Essenciais no Frontend!](https://dev.to/nathdev/maximizando-a-performance-de-tabelas-4-estrategias-essenciais-no-frontend-4lf9)
 - [🌞 Dominando padrões de composição em React para código mais limpo e reuso de lógica!](https://dev.to/nathdev/dominando-padroes-de-composicao-em-react-para-codigo-mais-limpo-e-reuso-de-logica-3enm)
-- [🚀 Zod vs. Yup: O Fim da Duplicação de Tipos em TypeScript](https://dev.to/nathdev/zod-vs-yup-o-fim-da-duplicacao-de-tipos-em-typescript-el6)
-- [The Confusing World of Array Deletion in JavaScript](https://dev.to/travisfont/the-confusing-world-of-array-deletion-in-javascript-2gn2)
-- [✨ Simplificando o Reuso de Lógica com Render Props no React](https://dev.to/nathdev/simplificando-o-reuso-de-logica-com-render-props-no-react-25hf)
-- [Why Agent Guardrails Aren&#39;t Enough](https://dev.to/daretechie/why-agent-guardrails-arent-enough-29kk)
+- [🧠 Otimização no React: O Que, Quando e Por Quê](https://dev.to/nathdev/otimizacao-no-react-o-que-quando-e-por-que-2804)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
