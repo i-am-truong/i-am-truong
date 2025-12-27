@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Bridging the Gap: Adding a `dev` Subdomain to Your Production EC2 Environment](https://dev.to/ajitkumar/bridging-the-gap-adding-a-dev-subdomain-to-your-production-ec2-environment-1g16)
-- [Busting the Randomness: Building Predictable AI with Reliable Prompt Designs](https://dev.to/mabualzait/busting-the-randomness-building-predictable-ai-with-reliable-prompt-designs-2b2b)
-- [The Danger of Letting AI Think for You](https://dev.to/rgbos/the-danger-of-letting-ai-think-for-you-4g9d)
-- [Forget the Hype: Build and Break Your Own Blockchain in the Browser &lpar;No Install, 100% Private&rpar;](https://dev.to/techno_kraft_in/forget-the-hype-build-and-break-your-own-blockchain-in-the-browser-no-install-100-private-37ml)
-- [China Boosts Hard Tech Investing with Venture Capital Funds Launch](https://dev.to/mabualzait/china-boosts-hard-tech-investing-with-venture-capital-funds-launch-2gmb)
+- [Python by Structure: Precise Error Scoping with Try/Except/Else](https://dev.to/aaron_rose_0787cc8b4775a0/python-by-structure-precise-error-scoping-with-tryexceptelse-2o4j)
+- [Creating my own minecraft launcher &amp; minecraft.](https://dev.to/nonameguyverse/creating-my-own-minecraft-launcher-minecraft-3emc)
+- [VEO 2025: Voice Optimization Transforms SEO](https://dev.to/ndabene/veo-2025-voice-optimization-transforms-seo-4ddd)
+- [That CORS Error Isn’t a Bug — It’s Actually Protecting Your Web App](https://dev.to/yuktisays/that-cors-error-isnt-a-bug-its-actually-protecting-your-web-app-378)
+- [Unlocking Sustainable Revenue: A Deep Dive into NFT Royalties for Digital Creators](https://dev.to/nftsaz2025/unlocking-sustainable-revenue-a-deep-dive-into-nft-royalties-for-digital-creators-2k87)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
