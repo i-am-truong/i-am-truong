@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🔑 O que é useId no React?](https://dev.to/nathdev/o-que-e-useid-no-react-26p0)
-- [🚀 O Poder da Teoria dos Conjuntos na Programação: Lodash como Aliado na União e Diferença de Dados](https://dev.to/nathdev/o-poder-da-teoria-dos-conjuntos-na-programacao-lodash-como-aliado-na-uniao-e-diferenca-de-dados-3cie)
-- [🚀 Maximizando a Performance de Tabelas: 4 Estratégias Essenciais no Frontend!](https://dev.to/nathdev/maximizando-a-performance-de-tabelas-4-estrategias-essenciais-no-frontend-4lf9)
-- [🌞 Dominando padrões de composição em React para código mais limpo e reuso de lógica!](https://dev.to/nathdev/dominando-padroes-de-composicao-em-react-para-codigo-mais-limpo-e-reuso-de-logica-3enm)
-- [🧠 Otimização no React: O Que, Quando e Por Quê](https://dev.to/nathdev/otimizacao-no-react-o-que-quando-e-por-que-2804)
+- [Coding Challenge Practice - Question 88](https://dev.to/tomivan/coding-challenge-practice-question-88-57nd)
+- [eDiff-I: Text-to-Image Diffusion Models with an Ensemble of Expert Denoisers](https://dev.to/paperium/ediff-i-text-to-image-diffusion-models-with-an-ensemble-of-expert-denoisers-d0a)
+- [2025-12-27 Daily Robotics News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-27-daily-robotics-news-19k5)
+- [Solved: Pacemaker/DRBD: Auto-failback kills active DRBD Sync Primary to Secondary. How to prevent this?](https://dev.to/techresolve/solved-pacemakerdrbd-auto-failback-kills-active-drbd-sync-primary-to-secondary-how-to-prevent-48ee)
+- [From Managed Threads to Independent Tasks: Rethinking Concurrency from Java to Go &lpar;Part 1&rpar;](https://dev.to/_akajuthi_/from-managed-threads-to-independent-tasks-rethinking-concurrency-from-java-to-go-part-1-2p75)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
