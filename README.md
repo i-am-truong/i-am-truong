@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Serverless Invoice Generator with React, Zustand, and Tailwind](https://dev.to/sudarshan_s_hosalli/building-a-serverless-invoice-generator-with-react-zustand-and-tailwind-4jm2)
-- [I Built a SaaS in 9 Days for $200, Launched on HN to Zero Signups - Here&#39;s What I Learned](https://dev.to/jackb_builds/i-built-a-saas-in-9-days-for-200-launched-on-hn-to-zero-signups-heres-what-i-learned-16m2)
-- [Building a Production-Ready Headless eCommerce API with Laravel](https://dev.to/mahmoudeldegwey/building-a-production-ready-headless-ecommerce-api-with-laravel-26dd)
-- [The Transformer Architecture: A Deep Dive into How LLMs Actually Work](https://dev.to/pranaybathini/the-transformer-architecture-a-deep-dive-into-how-llms-actually-work-4c46)
-- [Google A2UI: The Future of Agentic AI for DevOps &amp; SRE &lpar;Goodbye Text-Only ChatOps&rpar;](https://dev.to/deneesh_narayanasamy/google-a2ui-the-future-of-agentic-ai-for-devops-sre-goodbye-text-only-chatops-2i4g)
+- [Chaos Proxy: JavaScript Shenanigans](https://dev.to/oculus42/chaos-proxy-javascript-shenanigans-4e5e)
+- [[Boost]](https://dev.to/barbara_gaspar/-588k)
+- [Todo lo nuevo de FinOps en AWS re:Invent 2025](https://dev.to/barbara_gaspar/todo-lo-nuevo-de-finops-en-aws-reinvent-2025-4pn8)
+- [AI Didn’t Make Me Faster. It Made Me Brave Enough to Learn More.](https://dev.to/ozgurbaserdem/ai-didnt-make-me-faster-it-made-me-brave-enough-to-learn-more-1kad)
+- [Why Does Greedy Work for Interval Scheduling? Here&#39;s the Proof](https://dev.to/alex_hunter_44f4c9ed6671e/why-does-greedy-work-for-interval-scheduling-heres-the-proof-4964)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
