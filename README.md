@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Tamper-Proof Audit Trails for AI Content Pipelines: A Practical Guide to CAP](https://dev.to/veritaschain/building-tamper-proof-audit-trails-for-ai-content-pipelines-a-practical-guide-to-cap-1cc6)
+- [How I Built a Dynamic Admin Panel for My MERN Stack Portfolio](https://dev.to/adithyan_g_6f3e606905eed7/how-i-built-a-dynamic-admin-panel-for-my-mern-stack-portfolio-2jac)
+- [Best Productivity Tools I Discovered &lpar;And Actually Use&rpar;](https://dev.to/sharmamanish/best-productivity-tools-i-discovered-and-actually-use-355a)
 - [TrafficLLM: Why LLMs Are Becoming Essential for Encrypted Network Traffic Analysis](https://dev.to/ritwick_mondal_553e0d0ceb/trafficllm-why-llms-are-becoming-essential-for-encrypted-network-traffic-analysis-dec)
 - [Retell AI Twilio Integration Tutorial: Build AI Voice Calls Step-by-Step](https://dev.to/callstacktech/retell-ai-twilio-integration-tutorial-build-ai-voice-calls-step-by-step-4fek)
-- [8 Places Where Flutter / React Native Save You Weeks](https://dev.to/dev_resources/8-places-where-flutter-react-native-save-you-weeks-64m)
-- [🕹️ Game Designer or Game Developer? Don’t Decide Too Early](https://dev.to/dinesh_04/game-designer-or-game-developer-dont-decide-too-early-35n7)
-- [XDocReport cần plugin để tạo placeholder](https://dev.to/trithai/xdocreport-can-plugin-de-tao-placeholder-5f2k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
