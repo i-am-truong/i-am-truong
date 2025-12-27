@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Docker - VM0 Skills Test](https://dev.to/ethan_zhang_e501fea89c25b/getting-started-with-docker-vm0-skills-test-1h2k)
-- [Article with Cover - Skills Test](https://dev.to/ethan_zhang_e501fea89c25b/article-with-cover-skills-test-14o0)
-- [Rust Macros: Declarative vs Procedural](https://dev.to/sumana10l/rust-macros-declarative-vs-procedural-4kme)
-- [El método repeat&lpar;&rpar; en Java: Repite cadenas fácilmente](https://dev.to/jordy_4sd/el-metodo-repeat-en-java-repite-cadenas-facilmente-3afk)
-- [Fixing Unbalanced TTS Error in D365FO Excel Upload](https://dev.to/ni_klaus_4eb1581f851becee/excel-upload-in-custom-script-5ec5)
+- [AI for Software Engineering, not &lpar;only&rpar; Code Generation](https://dev.to/javatarz/ai-for-software-engineering-not-only-code-generation-4d1n)
+- [Transaction Management: Making ACID Real](https://dev.to/lovestaco/transaction-management-making-acid-real-4dmm)
+- [Amazon Quicksight - Best practices Part 2](https://dev.to/neeraj_iyer_980804515a5da/amazon-quicksight-best-practices-part-2-295c)
+- [Build A CRUD REST API With Litestar SQLAlchemy Models &amp; Repositories | Build APIs with Litestar #4](https://dev.to/jod35/build-a-crud-rest-api-with-litestar-sqlalchemy-models-repositories-build-apis-with-litestar-4-3i6c)
+- [Architecting a Local Ansible Lab - A Professional Guide using WSL 2 and Docker](https://dev.to/prasadg/architecting-a-local-ansible-lab-a-professional-guide-using-wsl-2-and-docker-4gbe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
