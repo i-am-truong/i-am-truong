@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Prompts are becoming Code, but we still treat them like Strings](https://dev.to/codeaholicguy/prompts-are-becoming-code-but-we-still-treat-them-like-strings-4o1j)
 - [Block-Reign: A Player vs AI Grid Game That Learns From You](https://dev.to/puneetkumar2010/block-reign-a-player-vs-ai-grid-game-that-learns-from-you-44cj)
 - [Neon Postgres Deep Dive: Why the 2025 Updates Change Serverless SQL](https://dev.to/dataformathub/neon-postgres-deep-dive-why-the-2025-updates-change-serverless-sql-5o0)
 - [Is This the Most Private Way to Track Your Life? Dashboard of Life.](https://dev.to/techno_kraft_in/is-this-the-most-private-way-to-track-your-life-dashboard-of-life-170b)
 - [Stop Using Lottie for Characters: Why Rive Is the Future of App Animation](https://dev.to/uianimation/stop-using-lottie-for-characters-why-rive-is-the-future-of-app-animation-1hjf)
-- [Why Some Smart HVAC Systems Stumble in Extreme Conditions](https://dev.to/elena_bennett_5e746b5e3ef/why-some-smart-hvac-systems-stumble-in-extreme-conditions-l13)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
