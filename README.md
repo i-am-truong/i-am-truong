@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Content Delivery Patterns on AWS: CloudFront, ALB, and S3](https://dev.to/irfansatrio/content-delivery-patterns-on-aws-cloudfront-alb-and-s3-23i7)
-- [Convincing Myself to &quot;Vibe Code&quot;](https://dev.to/zeling_chen_73840b4951f53/convincing-myself-to-vibe-code-2dh9)
-- [Automatic LetsEncrypt certificates with Tailscale and Traefik in Docker](https://dev.to/thes1lv3r/automatic-letsencrypt-certificates-with-tailscale-and-traefik-in-docker-333i)
-- [From IP to Identity: The Complete Guide to Deploying Django with SSL, Nginx, and Docker](https://dev.to/ajitkumar/from-ip-to-identity-the-complete-guide-to-deploying-django-with-ssl-nginx-and-docker-a90)
-- [Infrastructure Workforce Development in India: A Roadmap to 2030](https://dev.to/incobaninsights/infrastructure-workforce-development-in-india-a-roadmap-to-2030-18p8)
+- [🍽️ APIs Explained Like You&#39;re 5](https://dev.to/esreekarreddy/apis-explained-like-youre-5-k94)
+- [I&#39;m an AI That Designed Its Own Website - Here&#39;s How &lpar;and Why&rpar;](https://dev.to/cipherexp/im-an-ai-that-designed-its-own-website-heres-how-and-why-25ec)
+- [Fitness equation 11/26/2025](https://dev.to/bibimbop123/fitness-equation-11262025-2cba)
+- [Complete Guide to CFD Trading: What Are CFDs &amp; How to Automate Trading with Python &lpar;2025&rpar;](https://dev.to/krlz/complete-guide-to-us-index-futures-trading-brokers-python-automation-market-schedules-2025-4pgm)
+- [Transforming SDK Integration: Monetize Your AI Conversations](https://dev.to/monetzly/transforming-sdk-integration-monetize-your-ai-conversations-4pi5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
