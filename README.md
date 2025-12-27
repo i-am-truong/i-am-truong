@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I analyzed 1,000+ deals. Here is why Engineers fail at fundraising &lpar;and how I fixed it&rpar;.](https://dev.to/jennifer_grace_109e4104a5/i-analyzed-1000-deals-here-is-why-engineers-fail-at-fundraising-and-how-i-fixed-it-40d3)
+- [The Future of n8n Hosting for AI-Driven Business Automation in 2026](https://dev.to/nikita_heroxhost_932ba998/the-future-of-n8n-hosting-for-ai-driven-business-automation-in-2026-1fd5)
+- [System Design 0-to-1: Why the World&#39;s Biggest Apps Scale Horizontally](https://dev.to/hrishikesh_dalal_ced8f95e/system-design-0-to-1-why-the-worlds-biggest-apps-scale-horizontally-4623)
+- [I Thought I Needed Better Habits. What I Actually Needed Was Fewer Expectations](https://dev.to/jamesmiller25/i-thought-i-needed-better-habits-what-i-actually-needed-was-fewer-expectations-27kh)
 - [The Quiet Stress of Always Being “Available”](https://dev.to/jamesmiller25/the-quiet-stress-of-always-being-available-o0k)
-- [AI-Driven Advertising for E-Commerce [2025 Strategy Guide]](https://dev.to/getkoro_app/ai-driven-advertising-for-e-commerce-2025-strategy-guide-544)
-- [I’m tired of calling glued-together scripts “workflow automation”](https://dev.to/felix-schultz/im-tired-of-calling-glued-together-scripts-workflow-automation-1l1j)
-- [Why Debugging Skills Matter More Than Writing New Code](https://dev.to/speaklouder/why-debugging-skills-matter-more-than-writing-new-code-2lc7)
-- [MEV &lpar;Maximal Extractable Value&rpar;: The Invisible Tax on Every Blockchain Transaction](https://dev.to/ribhavmodi/mev-maximal-extractable-value-the-invisible-tax-on-every-blockchain-transaction-4aaj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
