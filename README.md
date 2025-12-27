@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Empty Promise of Agile Simplicity](https://dev.to/ghostinit0x/the-empty-promise-of-agile-simplicity-1oei)
 - [I Built an Open Source Health AI Agent Without a Vector DB &lpar;Laravel 12, React, Typescript + InteriaJS + Gemini&rpar;](https://dev.to/tuvshaw/i-built-an-open-source-health-ai-agent-without-a-vector-db-laravel-12-react-typescript--4kh4)
 - [Why I&#39;m Building Yet Another URL Shortener in 2025 &lpar;And Why It&#39;s Not Crazy&rpar;](https://dev.to/anand_rathnas_d5b608cc3de/why-im-building-yet-another-url-shortener-in-2025-and-why-its-not-crazy-4eg5)
-- [From Software Engineer to GenAI Engineer: A Practical Series for 2026](https://dev.to/muzammiltalha/from-software-engineer-to-genai-engineer-a-practical-series-for-2026-19nm)
-- [Swoole: an asynchronous framework for PHP](https://dev.to/panov-eo/swoole-an-asynchronous-framework-for-php-21cc)
-- [Swift #19: Arreglos](https://dev.to/david_goyes_a488f58a17a53/swift-19-arreglos-20kk)
+- [Announcing TinyBDD: Fluent, Executable Scenarios for .NET](https://dev.to/jerrettdavis/announcing-tinybdd-fluent-executable-scenarios-for-net-21k4)
+- [Future Me AI](https://dev.to/priyanshi_pankhaniya_fd26/future-me-ai-p4h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
