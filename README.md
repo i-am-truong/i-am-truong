@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [10 Warp Terminal Features That Will Change How You Code](https://dev.to/thelazyindiantechie/10-warp-terminal-features-that-will-change-how-you-code-5a1l)
-- [This CORS Mistake Exposes Your API &lpar;I See It Everywhere&rpar;](https://dev.to/aserrano/this-cors-mistake-exposes-your-api-i-see-it-everywhere-58cb)
-- [Offline-First Android: Build Apps That Keep Working When the Network Doesn’t](https://dev.to/mohan_sankaran/offline-first-android-build-apps-that-keep-working-when-the-network-doesnt-3m39)
-- [How to Optimize Content for ChatGPT Results &lpar;and AI Search Engines&rpar;](https://dev.to/natepatel/how-to-optimize-content-for-chatgpt-results-and-ai-search-engines-1jpm)
-- [Schema Validation Passed - So Why Did My Pipeline Fail?](https://dev.to/sumit_agarwal_9af86ae465b/schema-validation-passed-so-why-did-my-pipeline-fail-2coj)
+- [Why Debugging Skills Matter More Than Writing New Code](https://dev.to/speaklouder/why-debugging-skills-matter-more-than-writing-new-code-2lc7)
+- [MEV &lpar;Maximal Extractable Value&rpar;: The Invisible Tax on Every Blockchain Transaction](https://dev.to/ribhavmodi/mev-maximal-extractable-value-the-invisible-tax-on-every-blockchain-transaction-4aaj)
+- [The Web2 Mental Model Doesn’t Work in Web3](https://dev.to/92srdjan/the-web2-mental-model-doesnt-work-in-web3-18on)
+- [How to Create Video Ads That Actually Convert [2025 Strategy Guide]](https://dev.to/getkoro_app/how-to-create-video-ads-that-actually-convert-2025-strategy-guide-31f7)
+- [Solved: Stop blaming “plugins” when your WordPress site is slow](https://dev.to/techresolve/solved-stop-blaming-plugins-when-your-wordpress-site-is-slow-3bl3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
