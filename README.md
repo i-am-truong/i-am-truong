@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Closures Took Me a While to Understand and That Is Okay](https://dev.to/intelgreatnez/javascript-closures-took-me-a-while-to-understand-and-that-is-okay-fna)
+- [How I forced Windsurf AI to stop yapping &lpar;Senior Architect Mode&rpar;](https://dev.to/artems_0bdf65f07ec6092ac8/how-i-forced-windsurf-ai-to-stop-yapping-senior-architect-mode-53m2)
 - [How to fix problem: Can&#39;t extend partition C:?](https://dev.to/justplegend/how-to-fix-problem-cant-extend-partition-c-4n9c)
 - [Chaos Proxy: JavaScript Shenanigans](https://dev.to/oculus42/chaos-proxy-javascript-shenanigans-4e5e)
 - [How a Solo Dev at a Dealership Runs the Entire IT Department with Claude Code](https://dev.to/aj3/how-a-solo-dev-at-a-dealership-runs-the-entire-it-department-with-claude-code-2nn6)
-- [[Boost]](https://dev.to/barbara_gaspar/-588k)
-- [Todo lo nuevo de FinOps en AWS re:Invent 2025](https://dev.to/barbara_gaspar/todo-lo-nuevo-de-finops-en-aws-reinvent-2025-4pn8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
