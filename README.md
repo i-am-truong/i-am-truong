@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [⚛️ Simplificando o Código com o Padrão Composite &lpar;Composição&rpar; no React](https://dev.to/nathita/simplificando-o-codigo-com-o-padrao-composite-composicao-no-react-2k3p)
+- [Solved: The engineering problem, or what to do if you don’t know how to talk to people?](https://dev.to/techresolve/solved-the-engineering-problem-or-what-to-do-if-you-dont-know-how-to-talk-to-people-23ai)
+- [Fixing Android Emulator Lag on Windows &lpar;AVD Config Tweaks That Actually Work&rpar;](https://dev.to/zain_mhesn/fixing-android-emulator-lag-on-windows-avd-config-tweaks-that-actually-work-2bl1)
 - [AI আপনাকে কোড বানিয়ে দেবে।](https://dev.to/mehedidevops/ai-aapnaake-kodd-baaniyye-debe--54p6)
 - [SwiftUI Focus System &amp; Keyboard Internals](https://dev.to/sebastienlato/swiftui-focus-system-keyboard-internals-25i5)
-- [I Built a Free Alternative to Kahoot for Live Quizzes &lpar;No Signups Required&rpar;](https://dev.to/kouroshmohajeri/i-built-a-free-alternative-to-kahoot-for-live-quizzes-no-signups-required-3o9o)
-- [Solved: The CEO keeps asking me why our IT costs are so high and I don’t know how to explain that software costs money](https://dev.to/techresolve/solved-the-ceo-keeps-asking-me-why-our-it-costs-are-so-high-and-i-dont-know-how-to-explain-that-j47)
-- [Kicking Off &#39;26: World Cup Predictions &amp; Analysis](https://dev.to/mabualzait/kicking-off-26-world-cup-predictions-analysis-464m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
