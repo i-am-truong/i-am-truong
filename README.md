@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Modern Frontend Frameworks Are Failing at Testing](https://dev.to/kevinccbsg/modern-frontend-frameworks-are-failing-at-testing-4jn4)
-- [The Empty Promise of Agile Simplicity](https://dev.to/ghostinit0x/the-empty-promise-of-agile-simplicity-1oei)
-- [I Built an Open Source Health AI Agent Without a Vector DB &lpar;Laravel 12, React, Typescript + InteriaJS + Gemini&rpar;](https://dev.to/tuvshaw/i-built-an-open-source-health-ai-agent-without-a-vector-db-laravel-12-react-typescript--4kh4)
-- [Why I&#39;m Building Yet Another URL Shortener in 2025 &lpar;And Why It&#39;s Not Crazy&rpar;](https://dev.to/anand_rathnas_d5b608cc3de/why-im-building-yet-another-url-shortener-in-2025-and-why-its-not-crazy-4eg5)
-- [Announcing TinyBDD: Fluent, Executable Scenarios for .NET](https://dev.to/jerrettdavis/announcing-tinybdd-fluent-executable-scenarios-for-net-21k4)
+- [Building a Serverless Invoice Generator with React, Zustand, and Tailwind](https://dev.to/sudarshan_s_hosalli/building-a-serverless-invoice-generator-with-react-zustand-and-tailwind-4jm2)
+- [I Built a SaaS in 9 Days for $200, Launched on HN to Zero Signups - Here&#39;s What I Learned](https://dev.to/jackb_builds/i-built-a-saas-in-9-days-for-200-launched-on-hn-to-zero-signups-heres-what-i-learned-16m2)
+- [Building a Production-Ready Headless eCommerce API with Laravel](https://dev.to/mahmoudeldegwey/building-a-production-ready-headless-ecommerce-api-with-laravel-26dd)
+- [The Transformer Architecture: A Deep Dive into How LLMs Actually Work](https://dev.to/pranaybathini/the-transformer-architecture-a-deep-dive-into-how-llms-actually-work-4c46)
+- [Google A2UI: The Future of Agentic AI for DevOps &amp; SRE &lpar;Goodbye Text-Only ChatOps&rpar;](https://dev.to/deneesh_narayanasamy/google-a2ui-the-future-of-agentic-ai-for-devops-sre-goodbye-text-only-chatops-2i4g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
