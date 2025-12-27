@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Overcoming VBA Obsolescence: Modernizing Office Automation with a runtime scripting framework](https://dev.to/wsgarcia/overcoming-vba-obsolescence-modernizing-office-automation-with-a-runtime-scripting-framework-kb8)
-- [Building Markdown Scribe](https://dev.to/dhanushnehru/building-markdown-scribe-1gh4)
-- [High-Performance Data Orchestration in Roku OS 15.0](https://dev.to/vanyaxk/beyond-the-copy-mastering-roku-os-150s-new-data-handling-apis-42h0)
-- [Celestine: AI Navigator for the Universe](https://dev.to/vero-code/celestine-ai-navigator-for-the-universe-2acc)
-- [Decoding Exception Entry &amp; Exit on ARM Cortex-Mx](https://dev.to/amanprasad/decoding-exception-entry-exit-on-arm-cortex-mx-5fmc)
+- [A Ready-to-Go Dev System for Laravel and More](https://dev.to/shawn_welch_06833a4288aa4/a-ready-to-go-dev-system-for-laravel-and-more-515p)
+- [Benchmarking Node Efficiency: 16 Nodes for the Price of a Toaster](https://dev.to/auli_takala_d379835856f1f/benchmarking-node-efficiency-16-nodes-for-the-price-of-a-toaster-19g2)
+- [Solved: I built a VSCode extension to see your code on an infinite canvas.](https://dev.to/techresolve/solved-i-built-a-vscode-extension-to-see-your-code-on-an-infinite-canvas-nij)
+- [How to Quickly Diagnose Network Issues Using Browser-Based Tools](https://dev.to/myip_casa_6da283ec3f32667/how-to-quickly-diagnose-network-issues-using-browser-based-tools-2p35)
+- [Pandas vs Polars: Why the 2025 Evolution Changes Everything](https://dev.to/dataformathub/pandas-vs-polars-why-the-2025-evolution-changes-everything-5ad1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
