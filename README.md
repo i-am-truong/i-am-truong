@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Implementing Adaptive Backpressure in Rust with FlowGuard](https://dev.to/cleiton_augusto_/implementing-adaptive-backpressure-in-rust-with-flowguard-1iof)
 - [TOON for LLMs: A Comparative Performance Analysis against JSON](https://dev.to/shudiptotrafder/toon-for-llms-a-comparative-performance-analysis-against-json-52am)
 - [Simplifying Service Selection in Laravel Using Resolvers](https://dev.to/naveen_dev/simplifying-service-selection-in-laravel-using-resolvers-39jf)
 - [Advent of AI 2025 - Day 17: Building a Wishlist App with Goose and MCP-UI](https://dev.to/nickytonline/advent-of-ai-2025-day-17-building-a-wishlist-app-with-goose-and-mcp-ui-330l)
 - [Building Cryptographically Enforced Time-Locked Vaults on Cloudflare&#39;s Edge](https://dev.to/teycir/building-cryptographically-enforced-time-locked-vaults-on-cloudflares-edge-404e)
-- [History Leading to the TCP/IP Model](https://dev.to/azrecon_/history-leading-to-the-tcpip-model-33o2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
