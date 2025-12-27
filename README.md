@@ -120,10 +120,10 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Nvidia–Groq Talks Signal New Shift in the AI Chip Race](https://dev.to/logicverse_2025/nvidia-groq-talks-signal-new-shift-in-the-ai-chip-race-18o3)
+- [TrafficLLM: Why LLMs Are Becoming Essential for Encrypted Network Traffic Analysis](https://dev.to/ritwick_mondal_553e0d0ceb/trafficllm-why-llms-are-becoming-essential-for-encrypted-network-traffic-analysis-dec)
+- [Retell AI Twilio Integration Tutorial: Build AI Voice Calls Step-by-Step](https://dev.to/callstacktech/retell-ai-twilio-integration-tutorial-build-ai-voice-calls-step-by-step-4fek)
 - [8 Places Where Flutter / React Native Save You Weeks](https://dev.to/dev_resources/8-places-where-flutter-react-native-save-you-weeks-64m)
 - [🕹️ Game Designer or Game Developer? Don’t Decide Too Early](https://dev.to/dinesh_04/game-designer-or-game-developer-dont-decide-too-early-35n7)
-- [Improved Simulation of Stabilizer Circuits](https://dev.to/paperium/improved-simulation-of-stabilizer-circuits-4hnc)
 - [XDocReport cần plugin để tạo placeholder](https://dev.to/trithai/xdocreport-can-plugin-de-tao-placeholder-5f2k)
 <!-- BLOG-POST-LIST:END -->
 
