@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Extract Data from Excel using Power BI](https://dev.to/rahimah_dev/how-to-extract-data-from-excel-using-power-bi-53k8)
+- [Experts explore new mushroom which causes fairytale-like hallucinations](https://dev.to/technoblogger14o3/experts-explore-new-mushroom-which-causes-fairytale-like-hallucinations-2hkg)
 - [🤍](https://dev.to/eso_kurt_7512eb41ec/-9eh)
 - [What is React?](https://dev.to/ashfin-ahmed-kp/what-is-react-7ef)
 - [Why does my first HTTP request lag due to WebSocket behavior, and how is this handled in production environments?](https://dev.to/affinity_c3dc021a7d61a6a6/why-does-my-first-http-request-lag-due-to-websocket-behavior-and-how-is-this-handled-in-production-30mo)
-- [Stream Anywhere: Unlocking Geo-Blocked Content with Nocturne VPN](https://dev.to/mitul_chovatiya_e568824a5/stream-anywhere-unlocking-geo-blocked-content-with-nocturne-vpn-po8)
-- [Building a Local-First RAG Engine for AI Coding Assistants](https://dev.to/nirajkvinit1/building-a-local-first-rag-engine-for-ai-coding-assistants-okp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
