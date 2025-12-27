@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [This CORS Mistake Exposes Your API &lpar;I See It Everywhere&rpar;](https://dev.to/aserrano/this-cors-mistake-exposes-your-api-i-see-it-everywhere-58cb)
 - [Offline-First Android: Build Apps That Keep Working When the Network Doesn’t](https://dev.to/mohan_sankaran/offline-first-android-build-apps-that-keep-working-when-the-network-doesnt-3m39)
-- [&quot;The 40-Year Mystery: Why TRON Stays Stable While My Dev Tools Change Every Month&quot;](https://dev.to/dao_bb6aaa2091a3d41/the-40-year-mystery-why-tron-stays-stable-while-my-dev-tools-change-every-month-38bc)
-- [Securing IoT Devices Without Agents Using Network-Based Machine Learning](https://dev.to/asma_eman/securing-iot-devices-without-agents-using-network-based-machine-learning-2emf)
-- [System Design 0-to-1: How WhatsApp Scales to 2 Billion Users &lpar;Ep. 1&rpar;](https://dev.to/hrishikesh_dalal_ced8f95e/system-design-0-to-1-how-whatsapp-scales-to-2-billion-users-ep-1-5d1j)
-- [Build a YouTube Comment Sentiment Dashboard with Node.js](https://dev.to/olams/build-a-youtube-comment-sentiment-dashboard-with-nodejs-3g1j)
+- [How to Optimize Content for ChatGPT Results &lpar;and AI Search Engines&rpar;](https://dev.to/natepatel/how-to-optimize-content-for-chatgpt-results-and-ai-search-engines-1jpm)
+- [Schema Validation Passed - So Why Did My Pipeline Fail?](https://dev.to/sumit_agarwal_9af86ae465b/schema-validation-passed-so-why-did-my-pipeline-fail-2coj)
+- [Day in the Life: A Mumbai Web Designer Working with Global Clients &lpar;and How to Ship Faster, Cleaner, and Faster&rpar;](https://dev.to/prateekshaweb/day-in-the-life-a-mumbai-web-designer-working-with-global-clients-and-how-to-ship-faster-2d7g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
