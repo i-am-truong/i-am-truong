@@ -120,8 +120,8 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Offline-First Android: Build Apps That Keep Working When the Network Doesn’t](https://dev.to/mohan_sankaran/offline-first-android-build-apps-that-keep-working-when-the-network-doesnt-3m39)
 - [&quot;The 40-Year Mystery: Why TRON Stays Stable While My Dev Tools Change Every Month&quot;](https://dev.to/dao_bb6aaa2091a3d41/the-40-year-mystery-why-tron-stays-stable-while-my-dev-tools-change-every-month-38bc)
-- [How AI Image Generators Support Marketing and Branding Creators](https://dev.to/elara1/how-ai-image-generators-support-marketing-and-branding-creators-3358)
 - [Securing IoT Devices Without Agents Using Network-Based Machine Learning](https://dev.to/asma_eman/securing-iot-devices-without-agents-using-network-based-machine-learning-2emf)
 - [System Design 0-to-1: How WhatsApp Scales to 2 Billion Users &lpar;Ep. 1&rpar;](https://dev.to/hrishikesh_dalal_ced8f95e/system-design-0-to-1-how-whatsapp-scales-to-2-billion-users-ep-1-5d1j)
 - [Build a YouTube Comment Sentiment Dashboard with Node.js](https://dev.to/olams/build-a-youtube-comment-sentiment-dashboard-with-nodejs-3g1j)
