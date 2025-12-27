@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Chaos Proxy: JavaScript Shenanigans](https://dev.to/oculus42/chaos-proxy-javascript-shenanigans-4e5e)
+- [How a Solo Dev at a Dealership Runs the Entire IT Department with Claude Code](https://dev.to/aj3/how-a-solo-dev-at-a-dealership-runs-the-entire-it-department-with-claude-code-2nn6)
 - [[Boost]](https://dev.to/barbara_gaspar/-588k)
 - [Todo lo nuevo de FinOps en AWS re:Invent 2025](https://dev.to/barbara_gaspar/todo-lo-nuevo-de-finops-en-aws-reinvent-2025-4pn8)
 - [AI Didn’t Make Me Faster. It Made Me Brave Enough to Learn More.](https://dev.to/ozgurbaserdem/ai-didnt-make-me-faster-it-made-me-brave-enough-to-learn-more-1kad)
-- [Why Does Greedy Work for Interval Scheduling? Here&#39;s the Proof](https://dev.to/alex_hunter_44f4c9ed6671e/why-does-greedy-work-for-interval-scheduling-heres-the-proof-4964)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
