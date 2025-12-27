@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Your AI Agent Is Slow &lpar;And How Graph Algorithms Fix It&rpar;](https://dev.to/shoaibalimir/why-your-ai-agent-is-slow-and-how-graph-algorithms-fix-it-2c6n)
+- [Chrome DevTools is missing these features, so I built them myself](https://dev.to/nhrdev/chrome-devtools-is-missing-these-features-so-i-built-them-myself-2ea4)
 - [Sam Altman — from Loopt kid to OpenAI’s lightning rod](https://dev.to/tashfia_a8008e6a542/sam-altman-from-loopt-kid-to-openais-lightning-rod-4oll)
-- [Step-by-step Guide: Creating a PASETO &lpar;Platform-Agnostic Security Token&rpar; in Express.js](https://dev.to/codefalconx/step-by-step-guide-creating-a-paseto-platform-agnostic-security-token-in-expressjs-37pn)
-- [Modern Web Development Build Tools: Transform Your Workflow From Slow to Lightning Fast](https://dev.to/nithinbharathwaj/modern-web-development-build-tools-transform-your-workflow-from-slow-to-lightning-fast-j32)
-- [Building a Student Portfolio That Stands Out in Scholarship Applications](https://dev.to/imtaslim/building-a-student-portfolio-that-stands-out-in-scholarship-applications-1k85)
-- [OllamaFX the Native &amp; Hardware-Smart Client for Local LLMs](https://dev.to/fredericksalazar/ollamafx-the-native-hardware-smart-client-for-local-llms-4802)
+- [I Built an Email API — Here&#39;s What I Learned About DKIM, SPF, and DMARC](https://dev.to/johan_s_/i-built-an-email-api-heres-what-i-learned-about-dkim-spf-and-dmarc-2ann)
+- [Java &amp; Spring Boot — 90-Day Deep-Dive Learning Journey](https://dev.to/sheshi_13/java-spring-boot-90-day-deep-dive-learning-journey-26e6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
