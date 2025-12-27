@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [PippaQuiz: Building the First Step Toward Smarter Education](https://dev.to/shaidozzaman_araf_42d0c98/pippaquiz-building-the-first-step-toward-smarter-education-3bn0)
+- [What is CI/CD? Continuous Integration &amp; Delivery Explained](https://dev.to/serveravatar/what-is-cicd-continuous-integration-delivery-explained-2kgg)
+- [Fiberglass Pickleball Paddles offer a softer feel, better touch, and reliable spin for outdoor play. Players who value control and comfort during long matches often choose them. Pickleball NVZ offers quality options suited for hard courts.](https://dev.to/jeenifer_beezer/fiberglass-pickleball-paddles-offer-a-softer-feel-better-touch-and-reliable-spin-for-outdoor-54hh)
+- [How Automated Cycles Can Misfire: Lessons from HVAC Control Systems](https://dev.to/elena_bennett_5e746b5e3ef/how-automated-cycles-can-misfire-lessons-from-hvac-control-systems-4a49)
 - [ISO 27001 Manual for Handling Confidential Information](https://dev.to/joy1/iso-27001-manual-for-handling-confidential-information-5fc3)
-- [How Winstrike Platform Architecture Improves Stability?](https://dev.to/winstrikeofficial/how-winstrike-platform-architecture-improves-stability-38od)
-- [Developer&#39;s Guide to Geo-Unblocking with Nocturne VPN](https://dev.to/mitul_chovatiya_e568824a5/developers-guide-to-geo-unblocking-with-nocturne-vpn-1a5b)
-- [Why Turning Complexity into Smart Simplicity Is the New Competitive Advantage](https://dev.to/fdsg435/why-turning-complexity-into-smart-simplicity-is-the-new-competitive-advantage-1j6n)
-- [Turning Complexity into Smart Simplicity: A Modern Survival Skill](https://dev.to/fdsg435/turning-complexity-into-smart-simplicity-a-modern-survival-skill-3hg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
