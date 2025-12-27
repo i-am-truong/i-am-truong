@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🌞 Dominando padrões de composição em React para código mais limpo e reuso de lógica!](https://dev.to/nathdev/dominando-padroes-de-composicao-em-react-para-codigo-mais-limpo-e-reuso-de-logica-3enm)
+- [🚀 Zod vs. Yup: O Fim da Duplicação de Tipos em TypeScript](https://dev.to/nathdev/zod-vs-yup-o-fim-da-duplicacao-de-tipos-em-typescript-el6)
+- [The Confusing World of Array Deletion in JavaScript](https://dev.to/travisfont/the-confusing-world-of-array-deletion-in-javascript-2gn2)
 - [✨ Simplificando o Reuso de Lógica com Render Props no React](https://dev.to/nathdev/simplificando-o-reuso-de-logica-com-render-props-no-react-25hf)
 - [Why Agent Guardrails Aren&#39;t Enough](https://dev.to/daretechie/why-agent-guardrails-arent-enough-29kk)
-- [Solved: Frontend engineers were the biggest declining software job in 2025](https://dev.to/techresolve/solved-frontend-engineers-were-the-biggest-declining-software-job-in-2025-51ia)
-- [⚛️ Simplificando o Código com o Padrão Composite &lpar;Composição&rpar; no React](https://dev.to/nathdev/simplificando-o-codigo-com-o-padrao-composite-composicao-no-react-2k3p)
-- [🚀 Otimize a Performance da Sua Aplicação com Lazy Loading!](https://dev.to/nathdev/otimize-a-performance-da-sua-aplicacao-com-lazy-loading-2oj7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
