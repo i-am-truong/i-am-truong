@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Bushido: Designing Tension with Only Two Buttons &lpar;7 Games in 7 Weeks - Week 3&rpar;](https://dev.to/asaleg/building-bushido-designing-tension-with-only-two-buttons-7-games-in-7-weeks-week-3-1727)
-- [Kibana: Visualizing Your Data Story](https://dev.to/stelixx-insider/kibana-visualizing-your-data-story-ie3)
-- [When 200 OK Doesn&#39;t Mean Everything Is OK](https://dev.to/p12se/when-200-ok-doesnt-mean-everything-is-ok-4g4o)
-- [Ethereum-Solidity Quiz Q6: What is the max bytecode size for smart contract deployment on Ethereum?](https://dev.to/mihaihng/ethereum-solidity-quiz-q6-what-is-the-max-bytecode-size-for-smart-contract-deployment-on-4h3o)
-- [9 Mobile App Features Built Entirely with APIs](https://dev.to/dev_resources/9-mobile-app-features-built-entirely-with-apis-4hfi)
+- [You Do NOT need augmentations to train your Classifiers!!](https://dev.to/aniket_kuyate_15acc4e6587/you-do-not-need-augmentations-to-train-your-classifiers-59d0)
+- [Private Image Converter: Your Complete Guide to Secure Format Conversion](https://dev.to/cismic/private-image-converter-your-complete-guide-to-secure-format-conversion-34lp)
+- [Intuitive.ai &lpar;Intuitive.Cloud&rpar;-Oncampus Interview Experience | 10LPA](https://dev.to/vraj_5173/oncampus-interview-experience-intuitiveai-intuitivecloud-10lpa-4a7c)
+- [Beyond the Visuals: Why Audio UX is Critical in Android XR](https://dev.to/funkyidol/beyond-the-visuals-why-audio-ux-is-critical-in-android-xr-2pj2)
+- [⚡ The AWS Outage: A Reminder That Resilience Is an Architecture, Not an Assumption ⚡](https://dev.to/morekiranp/the-aws-outage-a-reminder-that-resilience-is-an-architecture-not-an-assumption-42ef)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
