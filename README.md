@@ -120,9 +120,9 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Solved: Looking for a PowerShell game or practice exercise to prepare for my exam](https://dev.to/techresolve/solved-looking-for-a-powershell-game-or-practice-exercise-to-prepare-for-my-exam-412j)
+- [From Domain Events to Webhooks](https://dev.to/faizan/from-domain-events-to-webhooks-3i1)
 - [Coding Challenge Practice - Question 88](https://dev.to/tomivan/coding-challenge-practice-question-88-57nd)
-- [eDiff-I: Text-to-Image Diffusion Models with an Ensemble of Expert Denoisers](https://dev.to/paperium/ediff-i-text-to-image-diffusion-models-with-an-ensemble-of-expert-denoisers-d0a)
-- [2025-12-27 Daily Robotics News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-27-daily-robotics-news-19k5)
 - [Solved: Pacemaker/DRBD: Auto-failback kills active DRBD Sync Primary to Secondary. How to prevent this?](https://dev.to/techresolve/solved-pacemakerdrbd-auto-failback-kills-active-drbd-sync-primary-to-secondary-how-to-prevent-48ee)
 - [From Managed Threads to Independent Tasks: Rethinking Concurrency from Java to Go &lpar;Part 1&rpar;](https://dev.to/_akajuthi_/from-managed-threads-to-independent-tasks-rethinking-concurrency-from-java-to-go-part-1-2p75)
 <!-- BLOG-POST-LIST:END -->
