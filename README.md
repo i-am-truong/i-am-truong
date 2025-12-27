@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Tamper-Proof Audit Trails for AI Content Pipelines: A Practical Guide to CAP](https://dev.to/veritaschain/building-tamper-proof-audit-trails-for-ai-content-pipelines-a-practical-guide-to-cap-1cc6)
-- [How I Built a Dynamic Admin Panel for My MERN Stack Portfolio](https://dev.to/adithyan_g_6f3e606905eed7/how-i-built-a-dynamic-admin-panel-for-my-mern-stack-portfolio-2jac)
-- [Best Productivity Tools I Discovered &lpar;And Actually Use&rpar;](https://dev.to/sharmamanish/best-productivity-tools-i-discovered-and-actually-use-355a)
-- [TrafficLLM: Why LLMs Are Becoming Essential for Encrypted Network Traffic Analysis](https://dev.to/ritwick_mondal_553e0d0ceb/trafficllm-why-llms-are-becoming-essential-for-encrypted-network-traffic-analysis-dec)
-- [Retell AI Twilio Integration Tutorial: Build AI Voice Calls Step-by-Step](https://dev.to/callstacktech/retell-ai-twilio-integration-tutorial-build-ai-voice-calls-step-by-step-4fek)
+- [&quot;The 40-Year Mystery: Why TRON Stays Stable While My Dev Tools Change Every Month&quot;](https://dev.to/dao_bb6aaa2091a3d41/the-40-year-mystery-why-tron-stays-stable-while-my-dev-tools-change-every-month-38bc)
+- [How AI Image Generators Support Marketing and Branding Creators](https://dev.to/elara1/how-ai-image-generators-support-marketing-and-branding-creators-3358)
+- [Securing IoT Devices Without Agents Using Network-Based Machine Learning](https://dev.to/asma_eman/securing-iot-devices-without-agents-using-network-based-machine-learning-2emf)
+- [System Design 0-to-1: How WhatsApp Scales to 2 Billion Users &lpar;Ep. 1&rpar;](https://dev.to/hrishikesh_dalal_ced8f95e/system-design-0-to-1-how-whatsapp-scales-to-2-billion-users-ep-1-5d1j)
+- [Build a YouTube Comment Sentiment Dashboard with Node.js](https://dev.to/olams/build-a-youtube-comment-sentiment-dashboard-with-nodejs-3g1j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
