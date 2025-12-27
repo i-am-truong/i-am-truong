@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [OmNi: The Self-Hosted File Sharer for Simplicity and Privacy](https://dev.to/lagging/omni-the-self-hosted-file-sharer-for-simplicity-and-privacy-3lda)
-- [Surviving the HL7 Nightmare: Strategies for Decoupling Modern SaaS from Legacy Hospital Systems](https://dev.to/beck_moulton/surviving-the-hl7-nightmare-strategies-for-decoupling-modern-saas-from-legacy-hospital-systems-5bn0)
-- [Implementing Adaptive Backpressure in Rust with FlowGuard](https://dev.to/cleiton_augusto_/implementing-adaptive-backpressure-in-rust-with-flowguard-1iof)
-- [TOON for LLMs: A Benchmark Performance Analysis](https://dev.to/shudiptotrafder/toon-for-llms-a-comparative-performance-analysis-against-json-52am)
-- [Simplifying Service Selection in Laravel Using Resolvers](https://dev.to/naveen_dev/simplifying-service-selection-in-laravel-using-resolvers-39jf)
+- [Define the Benefits of the AWS Cloud](https://dev.to/aws-builders/define-the-benefits-of-the-aws-cloud-1c8b)
+- [How to Automate API Testing in CI/CD Without Writing Scripts](https://dev.to/engroso/how-to-automate-api-testing-in-cicd-without-writing-scripts-3iig)
+- [Why Interruptible Voice AI Is a Systems Problem &lpar;Not an AI Problem&rpar;](https://dev.to/yuer/why-interruptible-voice-ai-is-a-systems-problem-not-an-ai-problem-2n84)
+- [Autosave works. Until it doesn’t.](https://dev.to/plc-creates/autosave-works-until-it-doesnt-2l3i)
+- [I Built a Wrapper to Fix the Two Biggest Problems with LocalStorage](https://dev.to/kushalst/i-built-a-wrapper-to-fix-the-two-biggest-problems-with-localstorage-keh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
