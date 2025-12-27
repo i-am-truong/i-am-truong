@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [PippaQuiz: Building the First Step Toward Smarter Education](https://dev.to/shaidozzaman_araf_42d0c98/pippaquiz-building-the-first-step-toward-smarter-education-3bn0)
-- [What is CI/CD? Continuous Integration &amp; Delivery Explained](https://dev.to/serveravatar/what-is-cicd-continuous-integration-delivery-explained-2kgg)
-- [Fiberglass Pickleball Paddles offer a softer feel, better touch, and reliable spin for outdoor play. Players who value control and comfort during long matches often choose them. Pickleball NVZ offers quality options suited for hard courts.](https://dev.to/jeenifer_beezer/fiberglass-pickleball-paddles-offer-a-softer-feel-better-touch-and-reliable-spin-for-outdoor-54hh)
-- [How Automated Cycles Can Misfire: Lessons from HVAC Control Systems](https://dev.to/elena_bennett_5e746b5e3ef/how-automated-cycles-can-misfire-lessons-from-hvac-control-systems-4a49)
-- [ISO 27001 Manual for Handling Confidential Information](https://dev.to/joy1/iso-27001-manual-for-handling-confidential-information-5fc3)
+- [Your Onboarding Is Losing 40% of Users — Here’s a Practical Fix That Actually Works](https://dev.to/uianimation/your-onboarding-is-losing-40-of-users-heres-a-practical-fix-that-actually-works-ihl)
+- [Building the World&#39;s First Cryptographic Audit Trail for MetaTrader: A Deep Technical Dive](https://dev.to/veritaschain/building-the-worlds-first-cryptographic-audit-trail-for-metatrader-a-deep-technical-dive-1m9i)
+- [Pythonic Best Practices &amp; Idioms](https://dev.to/godofgeeks/pythonic-best-practices-idioms-54ol)
+- [How to Test Your Microphone Online – A Simple Guide](https://dev.to/sohail_akhter_f208daae65a/how-to-test-your-microphone-online-a-simple-guide-1jb2)
+- [Skip 1st-year theory, start building AI projects now](https://dev.to/faraz_khan_349be22e161b48/skip-1st-year-theory-start-building-ai-projects-now-2040)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
