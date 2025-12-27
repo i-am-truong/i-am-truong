@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Python by Structure: Precise Error Scoping with Try/Except/Else](https://dev.to/aaron_rose_0787cc8b4775a0/python-by-structure-precise-error-scoping-with-tryexceptelse-2o4j)
-- [Creating my own minecraft launcher &amp; minecraft.](https://dev.to/nonameguyverse/creating-my-own-minecraft-launcher-minecraft-3emc)
-- [VEO 2025: Voice Optimization Transforms SEO](https://dev.to/ndabene/veo-2025-voice-optimization-transforms-seo-4ddd)
-- [That CORS Error Isn’t a Bug — It’s Actually Protecting Your Web App](https://dev.to/yuktisays/that-cors-error-isnt-a-bug-its-actually-protecting-your-web-app-378)
-- [Unlocking Sustainable Revenue: A Deep Dive into NFT Royalties for Digital Creators](https://dev.to/nftsaz2025/unlocking-sustainable-revenue-a-deep-dive-into-nft-royalties-for-digital-creators-2k87)
+- [Getting to know Claude better](https://dev.to/goatpug/getting-to-know-claude-better-572p)
+- [I Used My AI Nutrition Agent Every Day for a Month. Here&#39;s What I Actually Had to Fix](https://dev.to/juandastic/i-used-my-ai-nutrition-coach-every-day-for-a-month-heres-what-i-actually-had-to-fix-1ej8)
+- [10 MCP Servers to Improve DevOps Workflows](https://dev.to/chaterm-ai/10-mcp-servers-to-improve-devops-workflows-5f30)
+- [When Competitors Strike: Your Emergency Playbook for Sudden Market Disruption](https://dev.to/tracksimple/when-competitors-strike-your-emergency-playbook-for-sudden-market-disruption-1p72)
+- [[Boost]](https://dev.to/falconmx1/-5aid)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
