@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Getting to know Claude better](https://dev.to/goatpug/getting-to-know-claude-better-572p)
-- [I Used My AI Nutrition Agent Every Day for a Month. Here&#39;s What I Actually Had to Fix](https://dev.to/juandastic/i-used-my-ai-nutrition-coach-every-day-for-a-month-heres-what-i-actually-had-to-fix-1ej8)
-- [10 MCP Servers to Improve DevOps Workflows](https://dev.to/chaterm-ai/10-mcp-servers-to-improve-devops-workflows-5f30)
-- [When Competitors Strike: Your Emergency Playbook for Sudden Market Disruption](https://dev.to/tracksimple/when-competitors-strike-your-emergency-playbook-for-sudden-market-disruption-1p72)
-- [[Boost]](https://dev.to/falconmx1/-5aid)
+- [ISO 27001 Manual for Handling Confidential Information](https://dev.to/joy1/iso-27001-manual-for-handling-confidential-information-5fc3)
+- [How Winstrike Platform Architecture Improves Stability?](https://dev.to/winstrikeofficial/how-winstrike-platform-architecture-improves-stability-38od)
+- [Developer&#39;s Guide to Geo-Unblocking with Nocturne VPN](https://dev.to/mitul_chovatiya_e568824a5/developers-guide-to-geo-unblocking-with-nocturne-vpn-1a5b)
+- [Why Turning Complexity into Smart Simplicity Is the New Competitive Advantage](https://dev.to/fdsg435/why-turning-complexity-into-smart-simplicity-is-the-new-competitive-advantage-1j6n)
+- [Turning Complexity into Smart Simplicity: A Modern Survival Skill](https://dev.to/fdsg435/turning-complexity-into-smart-simplicity-a-modern-survival-skill-3hg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
