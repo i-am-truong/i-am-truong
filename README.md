@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Schedule](https://dev.to/preetha_vaishnavi_2b82358/schedule-2m7)
-- [Day 84 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-84-of-100-days-dsa-coding-challenge-59b3)
-- [Thunderstorm](https://dev.to/preetha_vaishnavi_2b82358/thunderstorm-1epn)
-- [Craft Flux AI Prompts in Under 15 Minutes](https://dev.to/flatratemechanic1glitch/craft-flux-ai-prompts-in-under-15-minutes-4jlk)
-- [Optimizing PostgreSQL Queries for Large-Scale Data Applications](https://dev.to/bakhat_yar_016451bb6f3b86/optimizing-postgresql-queries-for-large-scale-data-applications-16f0)
+- [Bridging the Gap: Adding a `dev` Subdomain to Your Production EC2 Environment](https://dev.to/ajitkumar/bridging-the-gap-adding-a-dev-subdomain-to-your-production-ec2-environment-1g16)
+- [Busting the Randomness: Building Predictable AI with Reliable Prompt Designs](https://dev.to/mabualzait/busting-the-randomness-building-predictable-ai-with-reliable-prompt-designs-2b2b)
+- [📌 Day 19: 21 Days of Building a Small Language Model: Residual Connections 📌](https://dev.to/lakhera2015/day-19-21-days-of-building-a-small-language-model-residual-connections-186k)
+- [The Danger of Letting AI Think for You](https://dev.to/rgbos/the-danger-of-letting-ai-think-for-you-4g9d)
+- [Statistics - Hypothesis Testing in Data Science](https://dev.to/ram_vnet_f71e560ae27f2cae/statistics-hypothesis-testing-in-data-science-33le)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
