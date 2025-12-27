@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [⚛️ Simplificando o Código com o Padrão Composite &lpar;Composição&rpar; no React](https://dev.to/nathita/simplificando-o-codigo-com-o-padrao-composite-composicao-no-react-2k3p)
-- [Solved: The engineering problem, or what to do if you don’t know how to talk to people?](https://dev.to/techresolve/solved-the-engineering-problem-or-what-to-do-if-you-dont-know-how-to-talk-to-people-23ai)
-- [Fixing Android Emulator Lag on Windows &lpar;AVD Config Tweaks That Actually Work&rpar;](https://dev.to/zain_mhesn/fixing-android-emulator-lag-on-windows-avd-config-tweaks-that-actually-work-2bl1)
-- [AI আপনাকে কোড বানিয়ে দেবে।](https://dev.to/mehedidevops/ai-aapnaake-kodd-baaniyye-debe--54p6)
-- [SwiftUI Focus System &amp; Keyboard Internals](https://dev.to/sebastienlato/swiftui-focus-system-keyboard-internals-25i5)
+- [✨ Simplificando o Reuso de Lógica com Render Props no React](https://dev.to/nathdev/simplificando-o-reuso-de-logica-com-render-props-no-react-25hf)
+- [Why Agent Guardrails Aren&#39;t Enough](https://dev.to/daretechie/why-agent-guardrails-arent-enough-29kk)
+- [Solved: Frontend engineers were the biggest declining software job in 2025](https://dev.to/techresolve/solved-frontend-engineers-were-the-biggest-declining-software-job-in-2025-51ia)
+- [⚛️ Simplificando o Código com o Padrão Composite &lpar;Composição&rpar; no React](https://dev.to/nathdev/simplificando-o-codigo-com-o-padrao-composite-composicao-no-react-2k3p)
+- [🚀 Otimize a Performance da Sua Aplicação com Lazy Loading!](https://dev.to/nathdev/otimize-a-performance-da-sua-aplicacao-com-lazy-loading-2oj7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
