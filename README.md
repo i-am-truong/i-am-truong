@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Stop Writing APIs Like It&#39;s 2015](https://dev.to/mrpythonist/stop-writing-apis-like-its-2015-4ebc)
+- [LanManVan: My Journey Building a Modular Security Framework in Go](https://dev.to/0root/lanmanvan-my-journey-building-a-modular-security-framework-in-go-2e38)
+- [Zero-Downtime Deployment &amp; Canary Release](https://dev.to/pierre/zero-downtime-deployment-canary-release-539m)
+- [fastMRI: An Open Dataset and Benchmarks for Accelerated MRI](https://dev.to/paperium/fastmri-an-open-dataset-and-benchmarks-for-accelerated-mri-3g3m)
 - [500 developers DMed me for help](https://dev.to/thetechpreneur/500-developers-dmed-me-for-help-27fn)
-- [I Used GitHub Copilot for 6 Months Straight: Here&#39;s How It 10X&#39;d My Coding Speed &lpar;And Why 90% of Developers Are Using It Wrong&rpar;](https://dev.to/aamirtech/i-used-github-copilot-for-6-months-straight-heres-how-it-10xd-my-coding-speed-and-why-90-of-50a9)
-- [How to Get to Facebook Ads Manager: [2025 Guide] &amp; Shortcuts](https://dev.to/getkoro_app/how-to-get-to-facebook-ads-manager-2025-guide-shortcuts-45d3)
-- [Why Country Flags Improve the UX of Phone Number Inputs](https://dev.to/randa_lakab/why-country-flags-improve-the-ux-of-phone-number-inputs-2kdh)
-- [Building Reliable Content Scripts: Why XPath Beats querySelector in Chrome Extensions](https://dev.to/jaymalli_programmer/building-reliable-content-scripts-why-xpath-beats-queryselector-in-chrome-extensions-14ol)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
