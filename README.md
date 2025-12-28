@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Async/Await di .NET Bisa Boros Resource Kalau Tanpa Limit 🚀🛑](https://dev.to/insight105/asyncawait-di-net-bisa-boros-resource-kalau-tanpa-limit-2cmn)
+- [Building a Tamper-Evident Audit Log with SHA-256 Hash Chains &lpar;Zero Dependencies&rpar;](https://dev.to/veritaschain/building-a-tamper-evident-audit-log-with-sha-256-hash-chains-zero-dependencies-h0b)
+- [Understanding Automata Theory Through Route Maps](https://dev.to/yo-shi/lets-stick-to-gmailapp-over-mailapp-in-google-apps-script-f63)
 - [Modular development is the future of developers and software making.](https://dev.to/jaideepparashar/modular-development-is-the-future-of-developers-and-software-making-ekg)
 - [The Rise of Modular Development: Building Tech That Builds Itself](https://dev.to/jaideepparashar/the-rise-of-modular-development-building-tech-that-builds-itself-30p8)
-- [Priority-based queue with automatic timeout promotion](https://dev.to/pardnchiu/priority-based-queue-with-automatic-timeout-promotion-133f)
-- [JWT Is Not Secure — Until You Understand JWS and JWE](https://dev.to/toklas495/jwt-is-not-secure-until-you-understand-jws-and-jwe-124)
-- [Hello, World!](https://dev.to/captainfulminyx/hello-world-cjd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
