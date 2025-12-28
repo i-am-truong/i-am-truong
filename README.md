@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Exposing Persistence Entities in APIs Is a Dangerous Shortcut](https://dev.to/krishna-nayak/why-exposing-persistence-entities-in-apis-is-a-dangerous-shortcut-3oim)
-- [Serving a deep learning model with Django](https://dev.to/oncs21/serving-a-deep-learning-model-with-django-5ff8)
-- [If you are building a developer tool, Let&#39;s Connect!!!](https://dev.to/codeatoms/if-you-are-building-a-developer-tool-lets-connect-3dod)
-- [Laravel FAQs &lpar;Beginner to Advanced&rpar;](https://dev.to/prateekshaweb/laravel-faqs-beginner-to-advanced-2ojh)
-- [What Is Vibe Coding? A Practical Guide to AI-Assisted Development](https://dev.to/firebird/what-is-vibe-coding-a-practical-guide-to-ai-assisted-development-3e9e)
+- [linux day #6](https://dev.to/jumptotech/linux-day-6-35ol)
+- [My Data Science Journey: Restaurant Tips Analysis](https://dev.to/niranjannlc/-my-data-science-journey-restaurant-tips-analysis-30ek)
+- [Understanding Cookies from the Ground Up: Part 1 - Fundamentals and the Critical Difference between 1st and 3rd Party Cookies](https://dev.to/bysontech_8dd1313811a8895/understanding-cookies-from-the-ground-up-part-1-fundamentals-and-the-critical-difference-between-2ofg)
+- [Why I Chose Voice Over Chat for AI Interviews &lpar;And Why It Almost Backfired&rpar;](https://dev.to/ambalogun/why-i-chose-voice-over-chat-for-ai-interviews-and-why-it-almost-backfired-2fab)
+- [What Is JavaScript and How It Works in the Browser? &lpar;A Simple Guide&rpar;](https://dev.to/vamsi_krishna_budati/what-is-javascript-and-how-it-works-in-the-browser-a-simple-guide-2fni)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
