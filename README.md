@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Lightweight FaaS: go-faas &lpar;v0.4.0&rpar;](https://dev.to/pardnchiu/lightweight-faas-go-faas-v040-35e5)
-- [Rethinking EKS Management: Kiro Meets AWS MCP Server](https://dev.to/vivekpophale/rethinking-eks-management-kiro-meets-aws-mcp-server-2bi3)
-- [Implementazione di un Parser EPG XMLTV: Guida Tecnica Completa con Python e TypeScript](https://dev.to/david_fabrizio/implementazione-di-un-parser-epg-xmltv-guida-tecnica-completa-con-python-e-typescript-3d5b)
-- [DEV Track Spotlight: AI Agents for Databases: Discover, Recommend, Optimize &lpar;DEV315&rpar;](https://dev.to/aws/dev-track-spotlight-ai-agents-for-databases-discover-recommend-optimize-dev315-n0f)
-- [Costruire un Parser EPG: Implementazione XMLTV con Python e TypeScript](https://dev.to/david_fabrizio/costruire-un-parser-epg-implementazione-xmltv-con-python-e-typescript-j2n)
+- [How We Use goose to Maintain goose](https://dev.to/blockopensource/how-we-use-goose-to-maintain-goose-3j2h)
+- [i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions](https://dev.to/member_6331818c/i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions-5ep5)
+- [Claude Code in Terminal: A Beginner&#39;s Guide to 10x Faster Development](https://dev.to/egepakten/claude-code-in-terminal-a-beginners-guide-to-10x-faster-development-3196)
+- [The Complete Guide to Modern API Development in Laravel 12](https://dev.to/minmitha/the-complete-guide-to-modern-api-development-in-laravel-12-320f)
+- [Reemplacé Docker por Podman para ejecutar LLMs locales &lpar;Ollama + DeepSeek&rpar;](https://dev.to/chainiz/reemplace-docker-por-podman-para-ejecutar-llms-locales-ollama-deepseek-49ac)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
