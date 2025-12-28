@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Comparing API Architecture Choices: A Technical Evaluation of Six Setups Tested in Personal Development](https://dev.to/bysontech_8dd1313811a8895/comparing-api-architecture-choices-a-technical-evaluation-of-six-setups-tested-in-personal-4o63)
-- [AI Models Research Survey](https://dev.to/hemanth_kumarreddymalle/ai-models-research-survey-2ond)
-- [FormCN: Generate React Forms in Seconds](https://dev.to/f-47/formcn-generate-react-forms-in-seconds-1nfc)
-- [125. Valid Palindrome | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/125-valid-palindrome-leetcode-top-interview-150-coding-questions-1li7)
-- [Stop Tuning Embeddings: Package Your Knowledge for Retrieval](https://dev.to/dowhatmatters/stop-tuning-embeddings-package-your-knowledge-for-retrieval-5hn1)
+- [Did Skills Kill MCP?](https://dev.to/goose_oss/did-skills-kill-mcp-3lk1)
+- [Binary Sovereignty: Stop Uploading Your Unreleased App to Strangers](https://dev.to/omnarayan/binary-sovereignty-stop-uploading-your-unreleased-app-to-strangers-4lfp)
+- [Optimizing AWS Lambda Performance: Balancing Power and Cost](https://dev.to/morekiranp/optimizing-aws-lambda-performance-balancing-power-and-cost-57k2)
+- [Compounding Engineering: Turn Your Repo into a Self-Improving DSPy Agent](https://dev.to/dan-startegicauto/compounding-engineering-turn-your-repo-into-a-self-improving-dspy-agent-1e99)
+- [2025 Tech news in nutshell](https://dev.to/vishthakkar/2025-tech-news-in-nutshell-3gp9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
