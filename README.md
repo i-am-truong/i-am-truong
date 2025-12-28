@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Know My Code Is Bad Because I Start Defending It](https://dev.to/trojanmocx/i-know-my-code-is-bad-because-i-start-defending-it-2gga)
-- [Why We Didn’t Move to EKS &lpar;Yet&rpar;: Choosing ECS Over Kubernetes in Production](https://dev.to/amaan-igs/why-we-didnt-move-to-eks-yet-choosing-ecs-over-kubernetes-in-production-1hbo)
-- [I Used AI to Do My Job for 6 Months. Here&#39;s What Actually Happened.](https://dev.to/respect17/i-used-ai-to-do-my-job-for-6-months-heres-what-actually-happened-3ljk)
-- [I Follow Web Dev Trends So Recruiters Don’t Have To](https://dev.to/trojanmocx/i-follow-web-dev-trends-so-recruiters-dont-have-to-576e)
-- [Layer 0 &amp; Layer 3 — How Blockchains Become an Internet, Not Islands](https://dev.to/ribhavmodi/layer-0-layer-3-how-blockchains-become-an-internet-not-islands-7ok)
+- [Why Country Flags Improve the UX of Phone Number Inputs](https://dev.to/randa_lakab/why-country-flags-improve-the-ux-of-phone-number-inputs-2kdh)
+- [Building Reliable Content Scripts: Why XPath Beats querySelector in Chrome Extensions](https://dev.to/jaymalli_programmer/building-reliable-content-scripts-why-xpath-beats-queryselector-in-chrome-extensions-14ol)
+- [MongoDB Read/Write vs. PostgreSQL Synchronous Replication](https://dev.to/franckpachot/mongodb-readwrite-vs-postgresql-synchronous-replication-2ni8)
+- [Forensic Analysis: The Unverified Backend of DIVEXA](https://dev.to/nezahualpillitlapalco/forensic-analysis-the-unverified-backend-of-divexa-2mdh)
+- [Google Cloud SQL: The Ultimate Guide to Managed Relational Databases](https://dev.to/tech_croc_f32fbb6ea8ed4/google-cloud-sql-the-ultimate-guide-to-managed-relational-databases-6g6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
