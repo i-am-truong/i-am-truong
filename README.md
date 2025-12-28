@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Auto-Orphan-Volume-Cleanup-Automation](https://dev.to/susseta/auto-orphan-volume-cleanup-automation-33ej)
-- [lowkey: Building a Distributed Lock Service That Actually Works](https://dev.to/pixperk/lowkey-building-a-distributed-lock-service-that-actually-works-38gc)
-- [System Design - EP 4.2 - CA vs. AP vs. CP - What to Choose and When](https://dev.to/hrishikesh_dalal_ced8f95e/system-design-ep-42-ca-vs-ap-vs-cp-what-to-choose-and-when-3nim)
-- [For the upcoming year...](https://dev.to/aniket_kuyate_15acc4e6587/for-the-upcoming-year-4600)
-- [Files-are-Not-Just-Data-A-Guide-to-Robust-File-Handling](https://dev.to/member_6331818c/files-are-not-just-data-a-guide-to-robust-file-handling-3icm)
+- [Remember Micro-Soft?](https://dev.to/johnnyallen/remember-micro-soft-1ih3)
+- [That Dreaded Alembic NotNullViolation Error &lpar;and How to Survive It&rpar;](https://dev.to/cuddi/that-dreaded-alembic-notnullviolation-error-and-how-to-survive-it-33a1)
+- [A Practical Guide to the Dashboard User Journey: From Discovery to Decision-Making](https://dev.to/jemmalinesanalytics/a-practical-guide-to-the-dashboard-user-journey-from-discovery-to-decision-making-2dok)
+- [Avoiding Dashboard Dead Ends: Why Tableau Calculated Fields Must Be Clearly Defined](https://dev.to/jemmalinesanalytics/avoiding-dashboard-dead-ends-why-tableau-calculated-fields-must-be-clearly-defined-mel)
+- [Security-is-Not-a-Feature-Its-a-Foundation](https://dev.to/member_8659c28a/security-is-not-a-feature-its-a-foundation-43fj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
