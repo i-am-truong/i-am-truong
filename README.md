@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Async/Await di .NET Bisa Boros Resource Kalau Tanpa Limit 🚀🛑](https://dev.to/insight105/asyncawait-di-net-bisa-boros-resource-kalau-tanpa-limit-2cmn)
-- [Building a Tamper-Evident Audit Log with SHA-256 Hash Chains &lpar;Zero Dependencies&rpar;](https://dev.to/veritaschain/building-a-tamper-evident-audit-log-with-sha-256-hash-chains-zero-dependencies-h0b)
-- [Understanding Automata Theory Through Route Maps](https://dev.to/yo-shi/lets-stick-to-gmailapp-over-mailapp-in-google-apps-script-f63)
-- [Modular development is the future of developers and software making.](https://dev.to/jaideepparashar/modular-development-is-the-future-of-developers-and-software-making-ekg)
-- [The Rise of Modular Development: Building Tech That Builds Itself](https://dev.to/jaideepparashar/the-rise-of-modular-development-building-tech-that-builds-itself-30p8)
+- [JavaScript Closures: The Quiet Mechanism Running Your Code](https://dev.to/intelgreatnez/javascript-closures-the-quiet-mechanism-running-your-code-556i)
+- [Build a Privacy-First AI Text Classifier: No Servers, No APIs. Master the AI Lifecycle: Initialize, Train, and Deploy.](https://dev.to/techno_kraft_in/build-a-privacy-first-ai-text-classifier-no-servers-no-apis-master-the-ai-lifecycle-initialize-a49)
+- [Your Website is Pretty. That&#39;s Why It&#39;s Useless](https://dev.to/ads_ofstupid_f3a5c4657c9/your-website-is-pretty-thats-why-its-useless-5dj6)
+- [SmartKNN - Large Scale Classification Benchmarks &lpar;CPU&rpar;](https://dev.to/jashwanth_thatipamula_8ee/smartknn-large-scale-classification-benchmarks-cpu-3lni)
+- [AI-slop has flooded the template market](https://dev.to/union_forever/ai-slop-has-flooded-the-template-market-f20)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
