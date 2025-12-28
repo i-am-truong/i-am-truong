@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Reduce Bundle Size in Next js](https://dev.to/gouranga-das-khulna/how-to-reduce-bundle-size-in-next-js-5fdl)
+- [Giving AI Roles and Names](https://dev.to/synthaicode_commander/giving-ai-roles-and-names-51dh)
+- [Testing MCP Servers Made Easy with agent-benchmark](https://dev.to/dmytro_mykhalievioioio/testing-mcp-servers-made-easy-with-agent-benchmark-41dg)
+- [Skills They Don&#39;t Teach You in Tutorials but Companies Actually Pay For](https://dev.to/thebitforge/skills-they-dont-teach-you-in-tutorials-but-companies-actually-pay-for-11om)
 - [Data Leakage pada Machine Learning](https://dev.to/hafidnrzs/data-leakage-pada-machine-learning-3c2p)
-- [Black‑Box Web Vulnerability Testing &lpar;Nikto, SQL Injection, XSS&rpar;](https://dev.to/ldwit/black-box-web-vulnerability-testing-nikto-sql-injection-xss-1b34)
-- [🖼️ ExtractMate — A Full Python OCR Desktop App &lpar;Tkinter + Tesseract&rpar;](https://dev.to/matetechnologie/extractmate-a-full-python-ocr-desktop-app-tkinter-tesseract-4pfd)
-- [Ditch the Bloat: Komari is the Featherlight, Self-Hosted Server Monitor You Need](https://dev.to/githubopensource/ditch-the-bloat-komari-is-the-featherlight-self-hosted-server-monitor-you-need-3g05)
-- [I Built DevTrace — A Community for Developers Who Build in Public](https://dev.to/rushikesh_bodakhe_db28644/i-built-devtrace-a-community-for-developers-who-build-in-public-3j79)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
