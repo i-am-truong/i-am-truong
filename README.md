@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How We Use goose to Maintain goose](https://dev.to/blockopensource/how-we-use-goose-to-maintain-goose-3j2h)
-- [i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions](https://dev.to/member_6331818c/i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions-5ep5)
-- [Claude Code in Terminal: A Beginner&#39;s Guide to 10x Faster Development](https://dev.to/egepakten/claude-code-in-terminal-a-beginners-guide-to-10x-faster-development-3196)
-- [The Complete Guide to Modern API Development in Laravel 12](https://dev.to/minmitha/the-complete-guide-to-modern-api-development-in-laravel-12-320f)
-- [Reemplacé Docker por Podman para ejecutar LLMs locales &lpar;Ollama + DeepSeek&rpar;](https://dev.to/chainiz/reemplace-docker-por-podman-para-ejecutar-llms-locales-ollama-deepseek-49ac)
+- [Building Secure Session-Based Authentication in NestJS - Part 1](https://dev.to/juanpeyrot/building-secure-session-based-authentication-in-nestjs-3o1p)
+- [🧰 I Built a Free Online Toolbox with 80+ Tools &lpar;TXToolbox&rpar; webdev productivity tools sideproject](https://dev.to/txtoolbox/i-built-a-free-online-toolbox-with-80-tools-txtoolboxwebdevproductivitytoolssideproject-42eg)
+- [Why &quot;Just Coding&quot; Won&#39;t Save You in 2026 &lpar;My Take on Akshay Saini&#39;s Advice&rpar;](https://dev.to/ashwinhegde19/why-just-coding-wont-save-you-in-2026-my-take-on-akshay-sainis-advice-5bp7)
+- [Why Universities Should Encourage Students to Build Digital Portfolios](https://dev.to/imtaslim/why-universities-should-encourage-students-to-build-digital-portfolios-4khd)
+- [Ethereum-Solidity Quiz Q7: What is the &quot;solc optimizer&quot; in Solidity?](https://dev.to/mihaihng/ethereum-solidity-quiz-q7-what-is-the-solc-optimizer-in-solidity-11ja)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
