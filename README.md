@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[Boost]](https://dev.to/jsmanifest/-1g1o)
+- [Introducing PdfParse: Transform Documents into Structured Databases](https://dev.to/pablog6/introducing-pdfparse-transform-documents-into-structured-databases-g8g)
 - [How I built a browser-based &quot;Binaural Strobe&quot; using the Web Audio API &lpar;React + Next.js&rpar;](https://dev.to/phantas_ea0b1015fd6ebeb52/how-i-built-a-browser-based-binaural-strobe-using-the-web-audio-api-react-nextjs-8kg)
 - [How Does a Web Server Work in Spring Boot? &lpar;Request–Response Flow Explained&rpar;](https://dev.to/abhishek_shahi_9d131e426d/how-does-a-web-server-work-in-spring-boot-request-response-flow-explained-1fmf)
 - [28. Find the Index of the First Occurrence in a String | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/28-find-the-index-of-the-first-occurrence-in-a-string-leetcode-top-interview-150-coding-6c6)
-- [Monetzly: A Game Changer for AI Monetization in LLM Apps](https://dev.to/monetzly/monetzly-a-game-changer-for-ai-monetization-in-llm-apps-1h91)
-- [Design Patterns for Reliable IoT Device Orchestration in Mission-Critical Healthcare Systems](https://dev.to/prakharsrivastava45/design-patterns-for-reliable-iot-device-orchestration-in-mission-critical-healthcare-systems-1n4e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
