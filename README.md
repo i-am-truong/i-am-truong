@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How We Use goose to Maintain goose](https://dev.to/blackgirlbytes/how-we-use-goose-to-maintain-goose-5g0n)
 - [Lightweight FaaS: go-faas &lpar;v0.4.0&rpar;](https://dev.to/pardnchiu/lightweight-faas-go-faas-v040-35e5)
 - [Rethinking EKS Management: Kiro Meets AWS MCP Server](https://dev.to/vivekpophale/rethinking-eks-management-kiro-meets-aws-mcp-server-2bi3)
 - [Implementazione di un Parser EPG XMLTV: Guida Tecnica Completa con Python e TypeScript](https://dev.to/david_fabrizio/implementazione-di-un-parser-epg-xmltv-guida-tecnica-completa-con-python-e-typescript-3d5b)
 - [DEV Track Spotlight: AI Agents for Databases: Discover, Recommend, Optimize &lpar;DEV315&rpar;](https://dev.to/aws/dev-track-spotlight-ai-agents-for-databases-discover-recommend-optimize-dev315-n0f)
+- [Costruire un Parser EPG: Implementazione XMLTV con Python e TypeScript](https://dev.to/david_fabrizio/costruire-un-parser-epg-implementazione-xmltv-con-python-e-typescript-j2n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
