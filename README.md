@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Dario Amodei - resigns from openai &amp; built AI safety](https://dev.to/tashfia_a8008e6a542/dario-amodei-resigns-from-openai-built-ai-safety-52cf)
-- [A Complete Guide to i18n in Next.js 15 App Router with next-intl &lpar;Supporting 8 Languages&rpar;](https://dev.to/mukitaro/a-complete-guide-to-i18n-in-nextjs-15-app-router-with-next-intl-supporting-8-languages-1lgj)
-- [On Evaluating Adversarial Robustness](https://dev.to/paperium/on-evaluating-adversarial-robustness-1bgj)
-- [easy-query: The Most Powerful ORM Subquery for Java](https://dev.to/dev-jack/easy-query-the-most-powerful-orm-subquery-for-java-id9)
-- [Building a Retro CRT Terminal Website with WebGL and GitHub Copilot &lpar;Claude Opus 4.5&rpar;](https://dev.to/remojansen/building-a-retro-crt-terminal-website-with-webgl-and-github-copilot-claude-opus-35-3jfd)
+- [Modular development is the future of developers and software making.](https://dev.to/jaideepparashar/modular-development-is-the-future-of-developers-and-software-making-ekg)
+- [The Rise of Modular Development: Building Tech That Builds Itself](https://dev.to/jaideepparashar/the-rise-of-modular-development-building-tech-that-builds-itself-30p8)
+- [Priority-based queue with automatic timeout promotion](https://dev.to/pardnchiu/priority-based-queue-with-automatic-timeout-promotion-133f)
+- [JWT Is Not Secure — Until You Understand JWS and JWE](https://dev.to/toklas495/jwt-is-not-secure-until-you-understand-jws-and-jwe-124)
+- [Hello, World!](https://dev.to/captainfulminyx/hello-world-cjd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
