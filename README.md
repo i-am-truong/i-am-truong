@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [We&#39;re launching on ProductHunt](https://dev.to/anthonymax/were-launching-on-producthunt-3i43)
-- [Building a Self Hostable Installer, Lessons from Nixopus](https://dev.to/raghavyuva/building-a-self-hostable-installer-lessons-from-nixopus-jpb)
-- [How to Calculate Lead Generation ROI: Budget Planning Tools and Strategies That Work](https://dev.to/digicarrom/how-to-calculate-lead-generation-roi-budget-planning-tools-and-strategies-that-work-4hgg)
-- [Mastering Low Light Photography: From Blurry Mess to Stunning Shots](https://dev.to/techgenius/mastering-low-light-photography-from-blurry-mess-to-stunning-shots-apo)
-- [Top 12 Open-source AI Workflows Projects with the Most GitHub Stars](https://dev.to/nocobase/top-12-open-source-ai-workflows-projects-with-the-most-github-stars-2243)
+- [[Boost]](https://dev.to/anthonymax/-46ia)
+- [Finding where users get stuck or loop using only session logs](https://dev.to/erkan_alaca_0934c578871d0/finding-where-users-get-stuck-or-loop-using-only-session-logs-57k4)
+- [Let&#39;s talk about service discovery, service registry, and service mesh.](https://dev.to/gokul_gk/lets-talk-about-service-discovery-service-registry-and-service-mesh-1ebi)
+- [Dense vs Sparse Vector Stores: Which One Should You Use — and When?](https://dev.to/parth_sarthisharma_105e7/dense-vs-sparse-vector-stores-which-one-should-you-use-and-when-15hd)
+- [2025 결산](https://dev.to/algoorgoal/2025-gyeolsan-16gp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
