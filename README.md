@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Exposing Persistence Entities in APIs Is a Dangerous Shortcut](https://dev.to/krishna-nayak/why-exposing-persistence-entities-in-apis-is-a-dangerous-shortcut-3oim)
 - [Serving a deep learning model with Django](https://dev.to/oncs21/serving-a-deep-learning-model-with-django-5ff8)
 - [If you are building a developer tool, Let&#39;s Connect!!!](https://dev.to/codeatoms/if-you-are-building-a-developer-tool-lets-connect-3dod)
 - [Laravel FAQs &lpar;Beginner to Advanced&rpar;](https://dev.to/prateekshaweb/laravel-faqs-beginner-to-advanced-2ojh)
 - [What Is Vibe Coding? A Practical Guide to AI-Assisted Development](https://dev.to/firebird/what-is-vibe-coding-a-practical-guide-to-ai-assisted-development-3e9e)
-- [Addressing the Limitations of Local Path Provisioner in Kubernetes](https://dev.to/frosnerd/addressing-the-limitations-of-local-path-provisioner-in-kubernetes-3g12)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
