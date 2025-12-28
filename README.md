@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [When to use getattr in Python](https://dev.to/guzmanojero/how-and-when-to-use-getattr-in-python-jpc)
+- [A reading first GH-300 cert prep: what to study, what to skip, and what actually matters](https://dev.to/majdizlitni/a-reading-first-gh-300-cert-prep-what-to-study-what-to-skip-and-what-actually-matters-3n6)
+- [Why I Built a 100% Private File Converter Using WebAssembly &lpar;No Server Uploads&rpar;](https://dev.to/azeem_mustafa1252_83a304/why-i-built-a-100-private-file-converter-using-webassembly-no-server-uploads-b48)
 - [CSS-in-TS - a way to improve Development Experience](https://dev.to/effnd/css-in-ts-a-way-to-improve-development-experience-43n8)
 - [KASDVSO – KAS Language &lpar;Experimental Runtime in Rust&rpar;](https://dev.to/bluezly/kasdvso-kas-language-experimental-runtime-in-rust-1nlh)
-- [When Neural Networks Stop Learning: Understanding Vanishing Gradients](https://dev.to/rijultp/when-neural-networks-stop-learning-understanding-vanishing-gradients-4fnn)
-- [Absurd First, Inevitable Later: Building in the AI Era](https://dev.to/doozieakshay/absurd-first-inevitable-later-building-in-the-ai-era-5hic)
-- [How to use Amazon ECR Public over IPv6](https://dev.to/aws-builders/how-to-use-amazon-ecr-public-over-ipv6-ki9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
