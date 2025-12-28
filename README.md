@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Supercharge Your React Page Speed: How @opensite/hooks Reduces Bundle Size and API Calls by 95%](https://dev.to/opensite/supercharge-your-react-page-speed-how-opensitehooks-reduces-bundle-size-and-api-calls-by-95-4n41)
-- [Solved: Error when updating PowerShell](https://dev.to/techresolve/solved-error-when-updating-powershell-dk6)
-- [Solved: PoE+++?! WHEN WILL THE MADNESS END?](https://dev.to/techresolve/solved-poe-when-will-the-madness-end-3ki)
-- [How to Turn Cloud &quot;Trash&quot; into a Golden 100GB Encrypted Vault &lpar;LVM + rclone&rpar;](https://dev.to/lag_lagendary/how-to-turn-cloud-trash-into-a-golden-100gb-encrypted-vault-lvm-rclone-1lc5)
-- [Outil de Cybersécurité du Jour - Dec 28, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-dec-28-2025-5ec8)
+- [The &#39;Hidden&#39; Behavioral Questions That Fail 40% of Candidates &lpar;And How to Answer Them&rpar;](https://dev.to/alex_hunter_44f4c9ed6671e/the-hidden-behavioral-questions-that-fail-40-of-candidates-and-how-to-answer-them-1njb)
+- [Databasus — open source backup tool for PostgreSQL, MySQL and MongoDB](https://dev.to/dmetrovich/databasus-open-source-backup-tool-for-postgresql-mysql-and-mongodb-58ip)
+- [Why I Built My Own Web Application Monitoring System](https://dev.to/afroz_sheikh_815e8c20c2c7/why-i-built-my-own-web-application-monitoring-system-4644)
+- [How to build TinyURL yourself](https://dev.to/trithai/how-to-build-tinyurl-yourself-1lkl)
+- [Bridging the Gap: Integrating Orbital AI with In-Situ Ground Observations for Global Efficiency](https://dev.to/nicmsn2/bridging-the-gap-integrating-orbital-ai-with-in-situ-ground-observations-for-global-efficiency-l6p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
