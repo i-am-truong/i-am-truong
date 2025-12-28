@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The $20 Domain Trap: Why Your “Launch” Is Actually Procrastination](https://dev.to/alexcloudstar/the-20-domain-trap-why-your-launch-is-actually-procrastination-1dkg)
-- [I Built a Free URL Shortener in 4 Hours Using Ruby on Rails - Here&#39;s Why Rails Still Rocks in 2025](https://dev.to/maliano63717738/i-built-a-free-url-shortener-in-4-hours-using-ruby-on-rails-heres-why-rails-still-rocks-in-2025-p78)
-- [Building Enterprise Security for Small Business with Linux and Open Source](https://dev.to/sebos/building-enterprise-security-for-small-business-with-linux-and-open-source-2aoe)
-- [How VS Code Understands Your Code: Inside the Language Server Protocol](https://dev.to/archycode/how-vs-code-understands-your-code-inside-the-language-server-protocol-2gop)
-- [The Missing Middle in Linux Desktop Design](https://dev.to/siddhartha_bose_e7f7ac087/the-missing-middle-in-linux-desktop-design-57me)
+- [Bulletproof Your Node.js Applications with Resilia: A Lightweight Resilience Stack](https://dev.to/silentwatcher_95/bulletproof-your-nodejs-applications-with-resilia-a-lightweight-resilience-stack-191d)
+- [How I Built a Stable 24/7 YouTube Livestream on a VPS Using FFmpeg &lpar;No SaaS Required&rpar;](https://dev.to/devlobb/how-i-built-a-stable-247-youtube-livestream-on-a-vps-using-ffmpeg-no-saas-required-1bid)
+- [ESP32 AI Voice Assistant with MCP — DIY Smart Assistant](https://dev.to/messin_tom/esp32-ai-voice-assistant-with-mcp-diy-smart-assistant-7j8)
+- [I Trained Probes to Catch AI Models Sandbagging](https://dev.to/bassrehab/i-trained-probes-to-catch-ai-models-sandbagging-2677)
+- [Not Everything Is Late.](https://dev.to/ummuleds/not-everything-is-late-3ocg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
