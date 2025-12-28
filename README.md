@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Full-Stack App with Turborepo, React, and Hono &lpar;Part 3: Developing the UI&rpar;](https://dev.to/parthiv_saikia_/building-a-full-stack-app-with-turborepo-react-and-hono-part-3-developing-the-ui-e5k)
-- [Building a Secure Bastion Host Architecture in AWS: A Complete Step-by-Step Guide](https://dev.to/nik26_/building-a-secure-bastion-host-architecture-in-aws-a-complete-step-by-step-guide-22p0)
-- [When Illegality Accelerates Democratization](https://dev.to/yuji_marutani/when-illegality-accelerates-democratization-39fi)
-- [I Built a Security Tool at 2 AM Because Copy-Pasting Commands 50 Times Isn&#39;t Learning](https://dev.to/phillip_pauljames_007df6/i-built-a-security-tool-at-2-am-because-copy-pasting-commands-50-times-isnt-learning-1m2c)
-- [No Red Pills, Just Hygiene – A Dating Guide for Single Male Engineers](https://dev.to/ian_carlson_0c77f977f7790/no-red-pills-just-hygiene-a-dating-guide-for-single-male-engineers-4e3p)
+- [🎉 WhatsApp Message Automation for New Year Greetings with Node.js🎉](https://dev.to/deepak_padliya_72bbc2219d/whatsapp-message-automation-for-new-year-greetings-with-nodejs-4hbj)
+- [Improving Plesk File Manager UX: Real-World Experience](https://dev.to/tahael/improving-plesk-file-manager-ux-real-world-experience-3c3o)
+- [The Hidden Gold in My GitHub](https://dev.to/cathylai/the-hidden-gold-in-my-github-7fk)
+- [I launched a free “Career Navigator” web tool for IT &amp; Cyber careers. What would make you use it weekly? 🚀](https://dev.to/charles_dennis_a82bc16d92/i-launched-a-free-career-navigator-web-tool-for-it-cyber-careers-what-would-make-you-use-it-3mh8)
+- [Phishing Attacks in 2026: How Deception Evolves in the Age of AI, Trust Automation, and Digital Fatigue](https://dev.to/pmpr/phishing-attacks-in-2026-how-deception-evolves-in-the-age-of-ai-trust-automation-and-digital-33ad)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
