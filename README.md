@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [linux day #6](https://dev.to/jumptotech/linux-day-6-35ol)
-- [My Data Science Journey: Restaurant Tips Analysis](https://dev.to/niranjannlc/-my-data-science-journey-restaurant-tips-analysis-30ek)
-- [Understanding Cookies from the Ground Up: Part 1 - Fundamentals and the Critical Difference between 1st and 3rd Party Cookies](https://dev.to/bysontech_8dd1313811a8895/understanding-cookies-from-the-ground-up-part-1-fundamentals-and-the-critical-difference-between-2ofg)
-- [Why I Chose Voice Over Chat for AI Interviews &lpar;And Why It Almost Backfired&rpar;](https://dev.to/ambalogun/why-i-chose-voice-over-chat-for-ai-interviews-and-why-it-almost-backfired-2fab)
-- [What Is JavaScript and How It Works in the Browser? &lpar;A Simple Guide&rpar;](https://dev.to/vamsi_krishna_budati/what-is-javascript-and-how-it-works-in-the-browser-a-simple-guide-2fni)
+- [Prompt Engineering From First Principles: The Mechanics They Don&#39;t Teach You part-1](https://dev.to/programmerraja/prompt-engineering-from-first-principles-the-mechanics-they-dont-teach-you-part-1-12nb)
+- [Why Wazuh Missed React2Shell](https://dev.to/0xdolan/why-wazuh-missed-react2shell-59jm)
+- [I Built an AI Image Upscaler SaaS &lpar;4K / 16K&rpar; — What I Learned Shipping It](https://dev.to/yifeng_jiang_6391a61fd8ff/i-built-an-ai-image-upscaler-saas-4k-16k-what-i-learned-shipping-it-36j9)
+- [Backend Latency and Transaction Broadcasting Failures at IntBlt](https://dev.to/bittam/backend-latency-and-transaction-broadcasting-failures-at-intblt-1gp4)
+- [Angular Is Opinionated — Here’s Why That Made Me a Better Developer](https://dev.to/rigole/angular-is-opinionated-heres-why-that-made-me-a-better-developer-2lp3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
