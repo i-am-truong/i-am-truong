@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Supercharge Your Web Dev game with Chrome MCP - Part 1](https://dev.to/susanna_wong_4e4478740bdf/supercharge-your-web-devgame-with-chrome-mcp-part-1-9gg)
-- [Deploying a Serverless AI Agent with AWS Bedrock, Lambda, and API Gateway](https://dev.to/swat_24/deploying-a-serverless-ai-agent-with-aws-bedrock-lambda-and-api-gateway-2123)
-- [How to configure unattended-upgrades on openSUSE Leap](https://dev.to/jdrch/how-to-configure-unattended-upgrades-on-opensuse-leap-5hb7)
-- [Comparing Cloud AI Platforms in 2025: Bedrock, Azure OpenAI, and Gemini](https://dev.to/swat_24/comparing-cloud-ai-platforms-in-2025-bedrock-azure-openai-and-gemini-4ij2)
-- [Hello dev.to! I’m a Python &amp; Django Web Developer Looking for Opportunities](https://dev.to/dkonti/hello-devto-im-a-python-django-web-developer-looking-for-opportunities-1449)
+- [Dario Amodei - resigns from openai &amp; built AI safety](https://dev.to/tashfia_a8008e6a542/dario-amodei-resigns-from-openai-built-ai-safety-52cf)
+- [A Complete Guide to i18n in Next.js 15 App Router with next-intl &lpar;Supporting 8 Languages&rpar;](https://dev.to/mukitaro/a-complete-guide-to-i18n-in-nextjs-15-app-router-with-next-intl-supporting-8-languages-1lgj)
+- [On Evaluating Adversarial Robustness](https://dev.to/paperium/on-evaluating-adversarial-robustness-1bgj)
+- [easy-query: The Most Powerful ORM Subquery for Java](https://dev.to/dev-jack/easy-query-the-most-powerful-orm-subquery-for-java-id9)
+- [Building a Retro CRT Terminal Website with WebGL and GitHub Copilot &lpar;Claude Opus 4.5&rpar;](https://dev.to/remojansen/building-a-retro-crt-terminal-website-with-webgl-and-github-copilot-claude-opus-35-3jfd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
