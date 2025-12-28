@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My Experience Using the BMAD Framework on a Personal Project &lpar;Patience Required&rpar;](https://dev.to/arch4g/my-experience-using-the-bmad-framework-on-a-personal-project-patience-required-10cd)
+- [Build an Arduino Automated Toll Gate System &lpar;RFID + IR&rpar;](https://dev.to/messin_tom/build-an-arduino-automated-toll-gate-system-rfid-ir-2e75)
 - [Bulletproof Your Node.js Applications with Resilia: A Lightweight Resilience Stack](https://dev.to/silentwatcher_95/bulletproof-your-nodejs-applications-with-resilia-a-lightweight-resilience-stack-191d)
 - [How I Built a Stable 24/7 YouTube Livestream on a VPS Using FFmpeg &lpar;No SaaS Required&rpar;](https://dev.to/devlobb/how-i-built-a-stable-247-youtube-livestream-on-a-vps-using-ffmpeg-no-saas-required-1bid)
 - [ESP32 AI Voice Assistant with MCP — DIY Smart Assistant](https://dev.to/messin_tom/esp32-ai-voice-assistant-with-mcp-diy-smart-assistant-7j8)
-- [I Trained Probes to Catch AI Models Sandbagging](https://dev.to/bassrehab/i-trained-probes-to-catch-ai-models-sandbagging-2677)
-- [Not Everything Is Late.](https://dev.to/ummuleds/not-everything-is-late-3ocg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
