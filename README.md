@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Serving a deep learning model with Django](https://dev.to/oncs21/serving-a-deep-learning-model-with-django-5ff8)
+- [If you are building a developer tool, Let&#39;s Connect!!!](https://dev.to/codeatoms/if-you-are-building-a-developer-tool-lets-connect-3dod)
+- [Laravel FAQs &lpar;Beginner to Advanced&rpar;](https://dev.to/prateekshaweb/laravel-faqs-beginner-to-advanced-2ojh)
+- [What Is Vibe Coding? A Practical Guide to AI-Assisted Development](https://dev.to/firebird/what-is-vibe-coding-a-practical-guide-to-ai-assisted-development-3e9e)
 - [Addressing the Limitations of Local Path Provisioner in Kubernetes](https://dev.to/frosnerd/addressing-the-limitations-of-local-path-provisioner-in-kubernetes-3g12)
-- [🚀 Novu | Open-Source Notification Infrastructure](https://dev.to/reactjsguru/novu-open-source-notification-infrastructure-478a)
-- [Q-V as a Practical Checklist: Durability, Depth, Maturity](https://dev.to/aequiassets/q-v-as-a-practical-checklist-durability-depth-maturity-38kf)
-- [My Week of Self-Hosting Adventures](https://dev.to/piyush-linux/my-week-of-self-hosting-adventures-2o18)
-- [Automating Police Report Writing Using NLP and Machine Learning](https://dev.to/asma_eman/automating-police-report-writing-using-nlp-and-machine-learning-89n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
