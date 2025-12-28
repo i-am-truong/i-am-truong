@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Enterprise Security for Small Business with Linux and Open Source](https://dev.to/sebos/building-enterprise-security-for-small-business-with-linux-and-open-source-2aoe)
+- [Practical GPS Tracker with XIAO ESP32-S3 &amp; Geofencing](https://dev.to/messin_tom/practical-gps-tracker-with-xiao-esp32-s3-geofencing-enk)
 - [When to use getattr in Python](https://dev.to/guzmanojero/how-and-when-to-use-getattr-in-python-jpc)
 - [A reading first GH-300 cert prep: what to study, what to skip, and what actually matters](https://dev.to/majdizlitni/a-reading-first-gh-300-cert-prep-what-to-study-what-to-skip-and-what-actually-matters-3n6)
 - [Why I Built a 100% Private File Converter Using WebAssembly &lpar;No Server Uploads&rpar;](https://dev.to/azeem_mustafa1252_83a304/why-i-built-a-100-private-file-converter-using-webassembly-no-server-uploads-b48)
-- [CSS-in-TS - a way to improve Development Experience](https://dev.to/effnd/css-in-ts-a-way-to-improve-development-experience-43n8)
-- [KASDVSO – KAS Language &lpar;Experimental Runtime in Rust&rpar;](https://dev.to/bluezly/kasdvso-kas-language-experimental-runtime-in-rust-1nlh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
