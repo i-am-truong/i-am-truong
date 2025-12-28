@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Let’s fight the bugs!](https://dev.to/art_light/lets-fight-the-bugs-1h61)
-- [DevRealityOps Manifesto](https://dev.to/yuji_marutani/devrealityops-manifesto-30lk)
-- [68. Text Justification | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/68-text-justification-leetcode-top-interview-150-coding-questions-aad)
-- [Headless Raspberry Pi Homelab – Part 2: Network Setup &amp; Device Verification w/ Xfinity &amp; Netgear](https://dev.to/astromodem/headless-raspberry-pi-homelab-part-2-network-setup-device-verification-w-xfinity-netgear-2a1)
-- [I built my own Shader Language](https://dev.to/jbrozy/i-built-my-own-shader-language-53n2)
+- [Comparing API Architecture Choices: A Technical Evaluation of Six Setups Tested in Personal Development](https://dev.to/bysontech_8dd1313811a8895/comparing-api-architecture-choices-a-technical-evaluation-of-six-setups-tested-in-personal-4o63)
+- [AI Models Research Survey](https://dev.to/hemanth_kumarreddymalle/ai-models-research-survey-2ond)
+- [FormCN: Generate React Forms in Seconds](https://dev.to/f-47/formcn-generate-react-forms-in-seconds-1nfc)
+- [125. Valid Palindrome | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/125-valid-palindrome-leetcode-top-interview-150-coding-questions-1li7)
+- [Stop Tuning Embeddings: Package Your Knowledge for Retrieval](https://dev.to/dowhatmatters/stop-tuning-embeddings-package-your-knowledge-for-retrieval-5hn1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
