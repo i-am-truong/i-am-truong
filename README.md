@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding TLS Fingerprinting and Building Browser-Identical HTTP Clients in Go](https://dev.to/sardanios/understanding-tls-fingerprinting-and-building-browser-identical-http-clients-in-go-2nh1)
+- [DEVOPS SSH &amp; NETWORKING PRACTICAL LAB](https://dev.to/jumptotech/devops-ssh-networking-practical-lab-51ap)
 - [Did Skills Kill MCP?](https://dev.to/goose_oss/did-skills-kill-mcp-3lk1)
 - [Binary Sovereignty: Stop Uploading Your Unreleased App to Strangers](https://dev.to/omnarayan/binary-sovereignty-stop-uploading-your-unreleased-app-to-strangers-4lfp)
 - [Optimizing AWS Lambda Performance: Balancing Power and Cost](https://dev.to/morekiranp/optimizing-aws-lambda-performance-balancing-power-and-cost-57k2)
-- [Compounding Engineering: Turn Your Repo into a Self-Improving DSPy Agent](https://dev.to/dan-startegicauto/compounding-engineering-turn-your-repo-into-a-self-improving-dspy-agent-1e99)
-- [2025 Tech news in nutshell](https://dev.to/vishthakkar/2025-tech-news-in-nutshell-3gp9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
