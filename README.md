@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Secure Session-Based Authentication in NestJS - Part 1](https://dev.to/juanpeyrot/building-secure-session-based-authentication-in-nestjs-3o1p)
-- [🧰 I Built a Free Online Toolbox with 80+ Tools &lpar;TXToolbox&rpar; webdev productivity tools sideproject](https://dev.to/txtoolbox/i-built-a-free-online-toolbox-with-80-tools-txtoolboxwebdevproductivitytoolssideproject-42eg)
-- [Why &quot;Just Coding&quot; Won&#39;t Save You in 2026 &lpar;My Take on Akshay Saini&#39;s Advice&rpar;](https://dev.to/ashwinhegde19/why-just-coding-wont-save-you-in-2026-my-take-on-akshay-sainis-advice-5bp7)
-- [Why Universities Should Encourage Students to Build Digital Portfolios](https://dev.to/imtaslim/why-universities-should-encourage-students-to-build-digital-portfolios-4khd)
-- [Ethereum-Solidity Quiz Q7: What is the &quot;solc optimizer&quot; in Solidity?](https://dev.to/mihaihng/ethereum-solidity-quiz-q7-what-is-the-solc-optimizer-in-solidity-11ja)
+- [CSS-in-TS - a way to improve Development Experience](https://dev.to/effnd/css-in-ts-a-way-to-improve-development-experience-43n8)
+- [KASDVSO – KAS Language &lpar;Experimental Runtime in Rust&rpar;](https://dev.to/bluezly/kasdvso-kas-language-experimental-runtime-in-rust-1nlh)
+- [When Neural Networks Stop Learning: Understanding Vanishing Gradients](https://dev.to/rijultp/when-neural-networks-stop-learning-understanding-vanishing-gradients-4fnn)
+- [Absurd First, Inevitable Later: Building in the AI Era](https://dev.to/doozieakshay/absurd-first-inevitable-later-building-in-the-ai-era-5hic)
+- [How to use Amazon ECR Public over IPv6](https://dev.to/aws-builders/how-to-use-amazon-ecr-public-over-ipv6-ki9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
