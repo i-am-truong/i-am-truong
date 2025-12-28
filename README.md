@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Frontend for Stable Diffusion CPP](https://dev.to/fabricio3g/a-frontend-for-stable-diffusion-cpp-2bnm)
+- [Automatically Post Incoming Emails with attachments to Facebook Using n8n](https://dev.to/prajwolshrestha/automatically-post-incoming-emails-with-attachments-to-facebook-using-n8n-5hgd)
+- [The Secret Life of Go: Packages and Structure](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-packages-and-structure-d30)
 - [JavaScript Closures: The Quiet Mechanism Running Your Code](https://dev.to/intelgreatnez/javascript-closures-the-quiet-mechanism-running-your-code-556i)
-- [Build a Privacy-First AI Text Classifier: No Servers, No APIs. Master the AI Lifecycle: Initialize, Train, and Deploy.](https://dev.to/techno_kraft_in/build-a-privacy-first-ai-text-classifier-no-servers-no-apis-master-the-ai-lifecycle-initialize-a49)
-- [Your Website is Pretty. That&#39;s Why It&#39;s Useless](https://dev.to/ads_ofstupid_f3a5c4657c9/your-website-is-pretty-thats-why-its-useless-5dj6)
-- [SmartKNN - Large Scale Classification Benchmarks &lpar;CPU&rpar;](https://dev.to/jashwanth_thatipamula_8ee/smartknn-large-scale-classification-benchmarks-cpu-3lni)
-- [AI-slop has flooded the template market](https://dev.to/union_forever/ai-slop-has-flooded-the-template-market-f20)
+- [A short talk at CloudNexus made me rethink how students are using AI](https://dev.to/abdullah_haroon_092cf10d3/a-short-talk-at-cloudnexus-made-me-rethink-how-students-are-using-ai-4o01)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
