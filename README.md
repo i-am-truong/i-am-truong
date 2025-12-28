@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The &#39;Hidden&#39; Behavioral Questions That Fail 40% of Candidates &lpar;And How to Answer Them&rpar;](https://dev.to/alex_hunter_44f4c9ed6671e/the-hidden-behavioral-questions-that-fail-40-of-candidates-and-how-to-answer-them-1njb)
-- [Databasus — open source backup tool for PostgreSQL, MySQL and MongoDB](https://dev.to/dmetrovich/databasus-open-source-backup-tool-for-postgresql-mysql-and-mongodb-58ip)
-- [Why I Built My Own Web Application Monitoring System](https://dev.to/afroz_sheikh_815e8c20c2c7/why-i-built-my-own-web-application-monitoring-system-4644)
-- [How to build TinyURL yourself](https://dev.to/trithai/how-to-build-tinyurl-yourself-1lkl)
-- [Bridging the Gap: Integrating Orbital AI with In-Situ Ground Observations for Global Efficiency](https://dev.to/nicmsn2/bridging-the-gap-integrating-orbital-ai-with-in-situ-ground-observations-for-global-efficiency-l6p)
+- [I Follow Web Dev Trends So Recruiters Don’t Have To](https://dev.to/trojanmocx/i-follow-web-dev-trends-so-recruiters-dont-have-to-576e)
+- [Layer 0 &amp; Layer 3 — How Blockchains Become an Internet, Not Islands](https://dev.to/ribhavmodi/layer-0-layer-3-how-blockchains-become-an-internet-not-islands-7ok)
+- [Use Student Assistance: Live Preview for your HTML Code, Tools, Fork and Tabs features and more! Perfect for designers!](https://dev.to/lack_studio_95d8a2bd05489/use-student-assistance-live-preview-for-your-html-code-tools-fork-and-tabs-features-and-more-427g)
+- [Technical Audit of DIVEXA Security and Encryption](https://dev.to/intbitinc/technical-audit-of-divexa-security-and-encryption-4nko)
+- [My Code Worked. The System Didn’t](https://dev.to/trojanmocx/my-code-worked-the-system-didnt-4hnl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
