@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Oh My Posh ❤️ Claude Code](https://dev.to/jandedobbeleer/oh-my-posh-claude-code-66f)
-- [Academic Suite &lpar;Go + React&rpar;](https://dev.to/insight105/academic-suite-go-react-42dj)
-- [&quot;가시성은 중앙에서, 제어는 서비스에서&quot; : Azure 환경의 실전 LLM 토큰 거버넌스 설계](https://dev.to/shingyeongseon/gasiseongeun-jungangeseo-jeeoneun-seobiseueseo-azure-hwangyeongyi-siljeon-llm-tokeun-geobeoneonseu-seolgye-2c9n)
-- [How to Reduce Bundle Size in Next js](https://dev.to/gouranga-das-khulna/how-to-reduce-bundle-size-in-next-js-5fdl)
-- [Documentation is a Feature: Why I’m Obsessing Over &quot;Time-to-Hello-World&quot;](https://dev.to/nextblockcms/documentation-is-a-feature-why-im-obsessing-over-time-to-hello-world-26h8)
+- [The Future of Hyper-Local AI](https://dev.to/shyamli_khadse_c2671d46cb/the-future-of-hyper-local-ai-197k)
+- [Spectrum Analyzer Noise Floor Suddenly Up by 10 dB? Don’t Blame the Front-End Yet](https://dev.to/maronlabs/spectrum-analyzer-noise-floor-suddenly-up-by-10-db-dont-blame-the-front-end-yet-4hd)
+- [Your-Dev-Server-is-Lying-to-You-The-Critical-Difference-Between-Hot-Reload-and-Hot-Restart](https://dev.to/member_6331818c/your-dev-server-is-lying-to-you-the-critical-difference-between-hot-reload-and-hot-restart-n22)
+- [Security-is-Not-a-Feature-Its-a-Foundation](https://dev.to/member_8659c28a/security-is-not-a-feature-its-a-foundation-4d7f)
+- [AWS ECS Service Monitoring](https://dev.to/prashantgupta123/aws-ecs-service-monitoring-4phd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
