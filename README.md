@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What I Learned Testing MCPs Across Claude, Cursor, and Replit](https://dev.to/deepika_n_417a1b69443e2bd/what-i-learned-testing-mcps-across-claude-cursor-and-replit-10mf)
 - [A Frontend for Stable Diffusion CPP](https://dev.to/fabricio3g/a-frontend-for-stable-diffusion-cpp-2bnm)
 - [Automatically Post Incoming Emails with attachments to Facebook Using n8n](https://dev.to/prajwolshrestha/automatically-post-incoming-emails-with-attachments-to-facebook-using-n8n-5hgd)
 - [The Secret Life of Go: Packages and Structure](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-packages-and-structure-d30)
 - [JavaScript Closures: The Quiet Mechanism Running Your Code](https://dev.to/intelgreatnez/javascript-closures-the-quiet-mechanism-running-your-code-556i)
-- [A short talk at CloudNexus made me rethink how students are using AI](https://dev.to/abdullah_haroon_092cf10d3/a-short-talk-at-cloudnexus-made-me-rethink-how-students-are-using-ai-4o01)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
