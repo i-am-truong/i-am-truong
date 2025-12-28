@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Headless Raspberry Pi Homelab – Part 2: Network Setup &amp; Device Verification w/ Xfinity &amp; Netgear](https://dev.to/astromodem/headless-raspberry-pi-homelab-part-2-network-setup-device-verification-w-xfinity-netgear-2a1)
+- [I built my own Shader Language](https://dev.to/jbrozy/i-built-my-own-shader-language-53n2)
+- [The Standup Tax: Why Your Daily Meeting Is a Hidden Financial Liability](https://dev.to/ghostinit0x/the-standup-tax-why-your-daily-meeting-is-a-hidden-financial-liability-252g)
+- [RAID-AI: A Multi-Language Stress Test for Autonomous Agents](https://dev.to/nathaniel_tomas_73f60504a/raid-ai-a-multi-language-stress-test-for-autonomous-agents-pe3)
 - [Manual version bumps using semantic release with Azure DevOps](https://dev.to/dmo2000/manual-version-bumps-using-semantic-release-with-azure-devops-2pj1)
-- [[Boost]](https://dev.to/jsmanifest/-1g1o)
-- [Introducing PdfParse: Transform Documents into Structured Databases](https://dev.to/pablog6/introducing-pdfparse-transform-documents-into-structured-databases-g8g)
-- [How I built a browser-based &quot;Binaural Strobe&quot; using the Web Audio API &lpar;React + Next.js&rpar;](https://dev.to/phantas_ea0b1015fd6ebeb52/how-i-built-a-browser-based-binaural-strobe-using-the-web-audio-api-react-nextjs-8kg)
-- [How Does a Web Server Work in Spring Boot? &lpar;Request–Response Flow Explained&rpar;](https://dev.to/abhishek_shahi_9d131e426d/how-does-a-web-server-work-in-spring-boot-request-response-flow-explained-1fmf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
