@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [500 developers DMed me for help](https://dev.to/thetechpreneur/500-developers-dmed-me-for-help-27fn)
+- [I Used GitHub Copilot for 6 Months Straight: Here&#39;s How It 10X&#39;d My Coding Speed &lpar;And Why 90% of Developers Are Using It Wrong&rpar;](https://dev.to/aamirtech/i-used-github-copilot-for-6-months-straight-heres-how-it-10xd-my-coding-speed-and-why-90-of-50a9)
+- [How to Get to Facebook Ads Manager: [2025 Guide] &amp; Shortcuts](https://dev.to/getkoro_app/how-to-get-to-facebook-ads-manager-2025-guide-shortcuts-45d3)
 - [Why Country Flags Improve the UX of Phone Number Inputs](https://dev.to/randa_lakab/why-country-flags-improve-the-ux-of-phone-number-inputs-2kdh)
 - [Building Reliable Content Scripts: Why XPath Beats querySelector in Chrome Extensions](https://dev.to/jaymalli_programmer/building-reliable-content-scripts-why-xpath-beats-queryselector-in-chrome-extensions-14ol)
-- [MongoDB Read/Write vs. PostgreSQL Synchronous Replication](https://dev.to/franckpachot/mongodb-readwrite-vs-postgresql-synchronous-replication-2ni8)
-- [Forensic Analysis: The Unverified Backend of DIVEXA](https://dev.to/nezahualpillitlapalco/forensic-analysis-the-unverified-backend-of-divexa-2mdh)
-- [Google Cloud SQL: The Ultimate Guide to Managed Relational Databases](https://dev.to/tech_croc_f32fbb6ea8ed4/google-cloud-sql-the-ultimate-guide-to-managed-relational-databases-6g6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
