@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Peanut Butter and the Jif That Keeps on Giving](https://dev.to/alvaromontoro/peanut-butter-and-the-jif-that-keeps-on-giving-2k1i)
+- [AI, Open Source, Pay Gaps, and the Future of Software Power](https://dev.to/weekly/ai-open-source-pay-gaps-and-the-future-of-software-power-39e0)
+- [Federated Learning or Bust: Architecting Privacy-First Health AI](https://dev.to/beck_moulton/federated-learning-or-bust-architecting-privacy-first-health-ai-23kg)
+- [My YT Recap 2025](https://dev.to/captainfulminyx/my-yt-recap-2025-15n8)
 - [How MLOps as a Service Can Help You Deploy Models Faster and More Efficiently](https://dev.to/nayeem79/how-mlops-as-a-service-can-help-you-deploy-models-faster-and-more-efficiently-4733)
-- [[Boost]](https://dev.to/lee_rodgers_05/-1k96)
-- [Java Multithreading: From Basics to Production-Ready Code 🧵](https://dev.to/rajat128/java-multithreading-from-basics-to-production-ready-code-31f7)
-- [Identify Design Principles of the AWS Cloud](https://dev.to/aws-builders/identify-design-principles-of-the-aws-cloud-jo)
-- [Design System with CSS](https://dev.to/gzamann/design-system-with-css-5bbh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
