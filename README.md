@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How MLOps as a Service Can Help You Deploy Models Faster and More Efficiently](https://dev.to/nayeem79/how-mlops-as-a-service-can-help-you-deploy-models-faster-and-more-efficiently-4733)
+- [[Boost]](https://dev.to/lee_rodgers_05/-1k96)
 - [Java Multithreading: From Basics to Production-Ready Code 🧵](https://dev.to/rajat128/java-multithreading-from-basics-to-production-ready-code-31f7)
 - [Identify Design Principles of the AWS Cloud](https://dev.to/aws-builders/identify-design-principles-of-the-aws-cloud-jo)
 - [Design System with CSS](https://dev.to/gzamann/design-system-with-css-5bbh)
-- [Overview of the TCP/IP Networking Model](https://dev.to/azrecon_/overview-of-the-tcpip-networking-model-4bj9)
-- [Zod vs. TypeScript Interfaces: Why You Need Runtime Validation](https://dev.to/sam_th/zod-vs-typescript-interfaces-why-you-need-runtime-validation-n2i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
