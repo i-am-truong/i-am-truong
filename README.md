@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Most &quot;Free&quot; Background Removers Aren&#39;t Actually Free and the Best Alternative for 2025](https://dev.to/vyshnav_tr_5efa111383bbd1/why-most-free-background-removers-arent-actually-free-and-the-best-alternative-for-2025-599l)
-- [Renewable Energy Projects and India’s Climate Goals](https://dev.to/surbhi_survase_89d4e35b2e/renewable-energy-projects-and-indias-climate-goals-4o1g)
-- [DevOps Future Task Reminders](https://dev.to/prashantgupta123/devops-future-task-reminders-3m47)
-- [How We Reduced Payment API Latency by 60% Using ExecutorService in Spring Boot](https://dev.to/realnamehidden1_61/spring-boot-executorservice-parallel-payment-validation-using-executorservice-1ie2)
-- [Building Telegram Bots in Ruby Just Got Easier with Telegem v2](https://dev.to/slick_phantom/building-telegram-bots-in-ruby-just-got-easier-with-telegem-v2-2m78)
+- [Overview of the TCP/IP Networking Model](https://dev.to/azrecon_/overview-of-the-tcpip-networking-model-4bj9)
+- [Zod vs. TypeScript Interfaces: Why You Need Runtime Validation](https://dev.to/sam_th/zod-vs-typescript-interfaces-why-you-need-runtime-validation-n2i)
+- [El &quot;Efecto Palanca&quot; en Machine Learning: ¿Por Qué Tus Datos Deberían Empezar con un K-Means?](https://dev.to/python_baires/el-efecto-palanca-en-machine-learning-por-que-tus-datos-deberian-empezar-con-un-k-means-gb9)
+- [My Opinions on AI](https://dev.to/srhenals/my-opinions-on-ai-3h4e)
+- [Building Claritools with Next.js: A Fast, No-Friction Tools Platform](https://dev.to/harsh_yaduvanshi_74957b8b/building-claritools-with-nextjs-a-fast-no-friction-tools-platform-2cpa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
