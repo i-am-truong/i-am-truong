@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop Writing APIs Like It&#39;s 2015](https://dev.to/mrpythonist/stop-writing-apis-like-its-2015-4ebc)
-- [LanManVan: My Journey Building a Modular Security Framework in Go](https://dev.to/0root/lanmanvan-my-journey-building-a-modular-security-framework-in-go-2e38)
-- [Zero-Downtime Deployment &amp; Canary Release](https://dev.to/pierre/zero-downtime-deployment-canary-release-539m)
-- [fastMRI: An Open Dataset and Benchmarks for Accelerated MRI](https://dev.to/paperium/fastmri-an-open-dataset-and-benchmarks-for-accelerated-mri-3g3m)
-- [500 developers DMed me for help](https://dev.to/thetechpreneur/500-developers-dmed-me-for-help-27fn)
+- [[Boost]](https://dev.to/techno_kraft_in/-2dim)
+- [[Boost]](https://dev.to/shammadahmed/-5eei)
+- [Solved: Do you pay for migration from one server/hosting to another? How much charge have you paid?](https://dev.to/techresolve/solved-do-you-pay-for-migration-from-one-serverhosting-to-another-how-much-charge-have-you-paid-27gh)
+- [Estratégias de Crescimento: Impulsione o Sucesso do Seu Negócio](https://dev.to/movin/estrategias-de-crescimento-impulsione-o-sucesso-do-seu-negocio-kih)
+- [Estratégias de Crescimento: Impulsione Seu Negócio com Resultados](https://dev.to/movin/estrategias-de-crescimento-impulsione-seu-negocio-com-resultados-4ilc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
