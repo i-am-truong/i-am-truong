@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Video Generation Pipeline with Angular, Veo 3.1, and Firebase Cloud Functions](https://dev.to/railsstudent/building-a-video-generation-pipeline-with-angular-veo-31-and-firebase-cloud-functions-4l7f)
-- [Add a Vertical Player to Your Website](https://dev.to/damandeep_singh_7c4698e97/add-a-vertical-player-to-your-website-59b3)
-- [Variables in Terraform: My learnings.](https://dev.to/rohanan07/variables-in-terraform-my-learnings-5a1a)
-- [Why I stopped using online JSON formatters &lpar;and built my own&rpar;](https://dev.to/bhaskar_nathpandey_1a8de/why-i-stopped-using-online-json-formatters-and-built-my-own-2g2b)
-- [🚀 Terraform Day 22: Secure Two-Tier Architecture on AWS &lpar;EC2 + RDS&rpar;](https://dev.to/jeeva_5c84a254e90842940dd/terraform-day-22-secure-two-tier-architecture-on-aws-ec2-rds-105l)
+- [We&#39;re launching on ProductHunt](https://dev.to/anthonymax/were-launching-on-producthunt-3i43)
+- [Building a Self Hostable Installer, Lessons from Nixopus](https://dev.to/raghavyuva/building-a-self-hostable-installer-lessons-from-nixopus-jpb)
+- [How to Calculate Lead Generation ROI: Budget Planning Tools and Strategies That Work](https://dev.to/digicarrom/how-to-calculate-lead-generation-roi-budget-planning-tools-and-strategies-that-work-4hgg)
+- [Mastering Low Light Photography: From Blurry Mess to Stunning Shots](https://dev.to/techgenius/mastering-low-light-photography-from-blurry-mess-to-stunning-shots-apo)
+- [Top 12 Open-source AI Workflows Projects with the Most GitHub Stars](https://dev.to/nocobase/top-12-open-source-ai-workflows-projects-with-the-most-github-stars-2243)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
