@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Perl PAGI Project Update](https://dev.to/jjn1056/perl-pagi-project-update-2n2p)
-- [Tecnologie e Protocolli dello Streaming Video: Una Guida Tecnica Avanzata](https://dev.to/david_fabrizio/tecnologie-e-protocolli-dello-streaming-video-una-guida-tecnica-avanzata-pci)
-- [What Is AI Shopping Visibility? How AI Assistants Discover Products](https://dev.to/david_mishra_750e7e447a2c/what-is-ai-shopping-visibility-how-ai-assistants-discover-products-40nd)
-- [Engineering in the WILD - EP 7 - Why &#39;Frontend Validation&#39; is a Myth](https://dev.to/hrishikesh_dalal_ced8f95e/engineering-in-the-wild-ep-7-why-frontend-validation-is-a-myth-52a7)
-- [Top 3 Agent-to-Agent Testing Platforms for 2026](https://dev.to/shant_ebenezerjena_637bc/top-3-agent-to-agent-testing-platforms-for-2026-55p)
+- [How We Use goose to Maintain goose](https://dev.to/blackgirlbytes/how-we-use-goose-to-maintain-goose-5g0n)
+- [Lightweight FaaS: go-faas &lpar;v0.4.0&rpar;](https://dev.to/pardnchiu/lightweight-faas-go-faas-v040-35e5)
+- [Rethinking EKS Management: Kiro Meets AWS MCP Server](https://dev.to/vivekpophale/rethinking-eks-management-kiro-meets-aws-mcp-server-2bi3)
+- [Implementazione di un Parser EPG XMLTV: Guida Tecnica Completa con Python e TypeScript](https://dev.to/david_fabrizio/implementazione-di-un-parser-epg-xmltv-guida-tecnica-completa-con-python-e-typescript-3d5b)
+- [DEV Track Spotlight: AI Agents for Databases: Discover, Recommend, Optimize &lpar;DEV315&rpar;](https://dev.to/aws/dev-track-spotlight-ai-agents-for-databases-discover-recommend-optimize-dev315-n0f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
