@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Java Multithreading: From Basics to Production-Ready Code 🧵](https://dev.to/rajat128/java-multithreading-from-basics-to-production-ready-code-31f7)
+- [Identify Design Principles of the AWS Cloud](https://dev.to/aws-builders/identify-design-principles-of-the-aws-cloud-jo)
+- [Design System with CSS](https://dev.to/gzamann/design-system-with-css-5bbh)
 - [Overview of the TCP/IP Networking Model](https://dev.to/azrecon_/overview-of-the-tcpip-networking-model-4bj9)
 - [Zod vs. TypeScript Interfaces: Why You Need Runtime Validation](https://dev.to/sam_th/zod-vs-typescript-interfaces-why-you-need-runtime-validation-n2i)
-- [El &quot;Efecto Palanca&quot; en Machine Learning: ¿Por Qué Tus Datos Deberían Empezar con un K-Means?](https://dev.to/python_baires/el-efecto-palanca-en-machine-learning-por-que-tus-datos-deberian-empezar-con-un-k-means-gb9)
-- [My Opinions on AI](https://dev.to/srhenals/my-opinions-on-ai-3h4e)
-- [Building Claritools with Next.js: A Fast, No-Friction Tools Platform](https://dev.to/harsh_yaduvanshi_74957b8b/building-claritools-with-nextjs-a-fast-no-friction-tools-platform-2cpa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
