@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The $20 Domain Trap: Why Your “Launch” Is Actually Procrastination](https://dev.to/alexcloudstar/the-20-domain-trap-why-your-launch-is-actually-procrastination-1dkg)
+- [I Built a Free URL Shortener in 4 Hours Using Ruby on Rails - Here&#39;s Why Rails Still Rocks in 2025](https://dev.to/maliano63717738/i-built-a-free-url-shortener-in-4-hours-using-ruby-on-rails-heres-why-rails-still-rocks-in-2025-p78)
 - [Building Enterprise Security for Small Business with Linux and Open Source](https://dev.to/sebos/building-enterprise-security-for-small-business-with-linux-and-open-source-2aoe)
-- [Practical GPS Tracker with XIAO ESP32-S3 &amp; Geofencing](https://dev.to/messin_tom/practical-gps-tracker-with-xiao-esp32-s3-geofencing-enk)
-- [When to use getattr in Python](https://dev.to/guzmanojero/how-and-when-to-use-getattr-in-python-jpc)
-- [A reading first GH-300 cert prep: what to study, what to skip, and what actually matters](https://dev.to/majdizlitni/a-reading-first-gh-300-cert-prep-what-to-study-what-to-skip-and-what-actually-matters-3n6)
-- [Why I Built a 100% Private File Converter Using WebAssembly &lpar;No Server Uploads&rpar;](https://dev.to/azeem_mustafa1252_83a304/why-i-built-a-100-private-file-converter-using-webassembly-no-server-uploads-b48)
+- [How VS Code Understands Your Code: Inside the Language Server Protocol](https://dev.to/archycode/how-vs-code-understands-your-code-inside-the-language-server-protocol-2gop)
+- [The Missing Middle in Linux Desktop Design](https://dev.to/siddhartha_bose_e7f7ac087/the-missing-middle-in-linux-desktop-design-57me)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
