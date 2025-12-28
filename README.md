@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Add a Vertical Player to your website.](https://dev.to/damandeep_singh_7c4698e97/add-a-vertical-player-to-your-website-59b3)
+- [Why I stopped using online JSON formatters &lpar;and built my own&rpar;](https://dev.to/bhaskar_nathpandey_1a8de/why-i-stopped-using-online-json-formatters-and-built-my-own-2g2b)
+- [Understanding MCP: The Universal Protocol Connecting AI to Your World](https://dev.to/diskcleankit/understanding-mcp-the-universal-protocol-connecting-ai-to-your-world-4j03)
 - [My Go Server was so fast it self-DDoS&#39;d my laptop](https://dev.to/prachi_awesome_jha/my-go-server-was-so-fast-it-self-ddosd-my-laptop-48i2)
 - [LLM-Driven Intelligent Memory Optimization Engine: Making AI Memories Continuously Evolve](https://dev.to/sopaco/llm-driven-intelligent-memory-optimization-engine-making-ai-memories-continuously-evolve-4gdo)
-- [Solved: Do you pay for migration from one server/hosting to another? How much charge have you paid?](https://dev.to/techresolve/solved-do-you-pay-for-migration-from-one-serverhosting-to-another-how-much-charge-have-you-paid-27gh)
-- [Estratégias de Crescimento: Impulsione o Sucesso do Seu Negócio](https://dev.to/movin/estrategias-de-crescimento-impulsione-o-sucesso-do-seu-negocio-kih)
-- [Why I Built ngx-smart-cropper &lpar;and What Most Angular Image Croppers Get Wrong&rpar;](https://dev.to/kurt_vandenbranden_1da8/why-i-built-ngx-smart-cropper-and-what-most-angular-image-croppers-get-wrong-45e3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
