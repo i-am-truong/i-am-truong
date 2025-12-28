@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Oh My Posh ❤️ Claude Code](https://dev.to/jandedobbeleer/oh-my-posh-claude-code-66f)
+- [Academic Suite &lpar;Go + React&rpar;](https://dev.to/insight105/academic-suite-go-react-42dj)
+- [&quot;가시성은 중앙에서, 제어는 서비스에서&quot; : Azure 환경의 실전 LLM 토큰 거버넌스 설계](https://dev.to/shingyeongseon/gasiseongeun-jungangeseo-jeeoneun-seobiseueseo-azure-hwangyeongyi-siljeon-llm-tokeun-geobeoneonseu-seolgye-2c9n)
 - [How to Reduce Bundle Size in Next js](https://dev.to/gouranga-das-khulna/how-to-reduce-bundle-size-in-next-js-5fdl)
-- [Giving AI Roles and Names](https://dev.to/synthaicode_commander/giving-ai-roles-and-names-51dh)
-- [Testing MCP Servers Made Easy with agent-benchmark](https://dev.to/dmytro_mykhalievioioio/testing-mcp-servers-made-easy-with-agent-benchmark-41dg)
-- [Skills They Don&#39;t Teach You in Tutorials but Companies Actually Pay For](https://dev.to/thebitforge/skills-they-dont-teach-you-in-tutorials-but-companies-actually-pay-for-11om)
-- [Data Leakage pada Machine Learning](https://dev.to/hafidnrzs/data-leakage-pada-machine-learning-3c2p)
+- [Documentation is a Feature: Why I’m Obsessing Over &quot;Time-to-Hello-World&quot;](https://dev.to/nextblockcms/documentation-is-a-feature-why-im-obsessing-over-time-to-hello-world-26h8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
