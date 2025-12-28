@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My Experience Using the BMAD Framework on a Personal Project &lpar;Patience Required&rpar;](https://dev.to/arch4g/my-experience-using-the-bmad-framework-on-a-personal-project-patience-required-10cd)
-- [Build an Arduino Automated Toll Gate System &lpar;RFID + IR&rpar;](https://dev.to/messin_tom/build-an-arduino-automated-toll-gate-system-rfid-ir-2e75)
-- [Bulletproof Your Node.js Applications with Resilia: A Lightweight Resilience Stack](https://dev.to/silentwatcher_95/bulletproof-your-nodejs-applications-with-resilia-a-lightweight-resilience-stack-191d)
-- [How I Built a Stable 24/7 YouTube Livestream on a VPS Using FFmpeg &lpar;No SaaS Required&rpar;](https://dev.to/devlobb/how-i-built-a-stable-247-youtube-livestream-on-a-vps-using-ffmpeg-no-saas-required-1bid)
-- [ESP32 AI Voice Assistant with MCP — DIY Smart Assistant](https://dev.to/messin_tom/esp32-ai-voice-assistant-with-mcp-diy-smart-assistant-7j8)
+- [Building a Full-Stack App with Turborepo, React, and Hono &lpar;Part 3: Developing the UI&rpar;](https://dev.to/parthiv_saikia_/building-a-full-stack-app-with-turborepo-react-and-hono-part-3-developing-the-ui-e5k)
+- [Building a Secure Bastion Host Architecture in AWS: A Complete Step-by-Step Guide](https://dev.to/nik26_/building-a-secure-bastion-host-architecture-in-aws-a-complete-step-by-step-guide-22p0)
+- [When Illegality Accelerates Democratization](https://dev.to/yuji_marutani/when-illegality-accelerates-democratization-39fi)
+- [I Built a Security Tool at 2 AM Because Copy-Pasting Commands 50 Times Isn&#39;t Learning](https://dev.to/phillip_pauljames_007df6/i-built-a-security-tool-at-2-am-because-copy-pasting-commands-50-times-isnt-learning-1m2c)
+- [No Red Pills, Just Hygiene – A Dating Guide for Single Male Engineers](https://dev.to/ian_carlson_0c77f977f7790/no-red-pills-just-hygiene-a-dating-guide-for-single-male-engineers-4e3p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
