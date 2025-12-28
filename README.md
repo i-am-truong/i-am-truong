@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My Week of Self-Hosting Adventures](https://dev.to/piyush-linux/my-week-of-self-hosting-adventures-2o18)
+- [Automating Police Report Writing Using NLP and Machine Learning](https://dev.to/asma_eman/automating-police-report-writing-using-nlp-and-machine-learning-89n)
 - [Zellij — A Modern Terminal Multiplexer Built for Developers](https://dev.to/y4shcodes/zellij-a-modern-terminal-multiplexer-built-for-developers-2fhf)
 - [Ctrl+C/Ctrl+V não funciona – Ubuntu no VirtualBox](https://dev.to/ruanaragao/ctrlcctrlv-nao-funciona-ubuntu-no-virtualbox-mj7)
 - [Redis Caching in RAG: Normalized Queries, Semantic Traps &amp; What Actually Worked](https://dev.to/mahakfaheem/redis-caching-in-rag-normalized-queries-semantic-traps-what-actually-worked-59nn)
-- [I Thought Compilers Were Scary. So I Built Sauce.](https://dev.to/kayleecodez/i-thought-compilers-were-scary-so-i-built-sauce-5j)
-- [Geo-Blocking &amp; VPNs: How Nocturne VPN Bypasses Restrictions](https://dev.to/mitul_chovatiya_e568824a5/geo-blocking-vpns-how-nocturne-vpn-bypasses-restrictions-14ec)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
