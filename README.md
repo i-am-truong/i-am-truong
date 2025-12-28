@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Know My Code Is Bad Because I Start Defending It](https://dev.to/trojanmocx/i-know-my-code-is-bad-because-i-start-defending-it-2gga)
+- [Why We Didn’t Move to EKS &lpar;Yet&rpar;: Choosing ECS Over Kubernetes in Production](https://dev.to/amaan-igs/why-we-didnt-move-to-eks-yet-choosing-ecs-over-kubernetes-in-production-1hbo)
+- [I Used AI to Do My Job for 6 Months. Here&#39;s What Actually Happened.](https://dev.to/respect17/i-used-ai-to-do-my-job-for-6-months-heres-what-actually-happened-3ljk)
 - [I Follow Web Dev Trends So Recruiters Don’t Have To](https://dev.to/trojanmocx/i-follow-web-dev-trends-so-recruiters-dont-have-to-576e)
 - [Layer 0 &amp; Layer 3 — How Blockchains Become an Internet, Not Islands](https://dev.to/ribhavmodi/layer-0-layer-3-how-blockchains-become-an-internet-not-islands-7ok)
-- [Use Student Assistance: Live Preview for your HTML Code, Tools, Fork and Tabs features and more! Perfect for designers!](https://dev.to/lack_studio_95d8a2bd05489/use-student-assistance-live-preview-for-your-html-code-tools-fork-and-tabs-features-and-more-427g)
-- [Technical Audit of DIVEXA Security and Encryption](https://dev.to/intbitinc/technical-audit-of-divexa-security-and-encryption-4nko)
-- [My Code Worked. The System Didn’t](https://dev.to/trojanmocx/my-code-worked-the-system-didnt-4hnl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
