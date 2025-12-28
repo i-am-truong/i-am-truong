@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What I Learned Testing MCPs Across Claude, Cursor, and Replit](https://dev.to/deepika_n_417a1b69443e2bd/what-i-learned-testing-mcps-across-claude-cursor-and-replit-10mf)
-- [A Frontend for Stable Diffusion CPP](https://dev.to/fabricio3g/a-frontend-for-stable-diffusion-cpp-2bnm)
-- [Automatically Post Incoming Emails with attachments to Facebook Using n8n](https://dev.to/prajwolshrestha/automatically-post-incoming-emails-with-attachments-to-facebook-using-n8n-5hgd)
-- [The Secret Life of Go: Packages and Structure](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-packages-and-structure-d30)
-- [JavaScript Closures: The Quiet Mechanism Running Your Code](https://dev.to/intelgreatnez/javascript-closures-the-quiet-mechanism-running-your-code-556i)
+- [I Thought Compilers Were Scary. So I Built Sauce.](https://dev.to/kayleecodez/i-thought-compilers-were-scary-so-i-built-sauce-5j)
+- [Production AI: Monitoring, Cost Optimization, and Operations](https://dev.to/qvfagundes/production-ai-monitoring-cost-optimization-and-operations-5059)
+- [Scalable ML Training on AWS: SageMaker, Spot Instances and Experiment Tracking](https://dev.to/shoaibalimir/scalable-ml-training-on-aws-sagemaker-spot-instances-and-experiment-tracking-i9)
+- [Getting started in synthetic data generation with AWS Clean Rooms - Analytics](https://dev.to/aws-heroes/getting-started-in-synthetic-data-generation-with-aws-clean-rooms-analytics-35gd)
+- [Advanced Context Engineering for Coding Agents](https://dev.to/ametel01/advanced-context-engineering-for-coding-agents-11p7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
