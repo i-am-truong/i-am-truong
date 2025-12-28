@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Addressing the Limitations of Local Path Provisioner in Kubernetes](https://dev.to/frosnerd/addressing-the-limitations-of-local-path-provisioner-in-kubernetes-3g12)
+- [🚀 Novu | Open-Source Notification Infrastructure](https://dev.to/reactjsguru/novu-open-source-notification-infrastructure-478a)
+- [Q-V as a Practical Checklist: Durability, Depth, Maturity](https://dev.to/aequiassets/q-v-as-a-practical-checklist-durability-depth-maturity-38kf)
 - [My Week of Self-Hosting Adventures](https://dev.to/piyush-linux/my-week-of-self-hosting-adventures-2o18)
 - [Automating Police Report Writing Using NLP and Machine Learning](https://dev.to/asma_eman/automating-police-report-writing-using-nlp-and-machine-learning-89n)
-- [Zellij — A Modern Terminal Multiplexer Built for Developers](https://dev.to/y4shcodes/zellij-a-modern-terminal-multiplexer-built-for-developers-2fhf)
-- [Ctrl+C/Ctrl+V não funciona – Ubuntu no VirtualBox](https://dev.to/ruanaragao/ctrlcctrlv-nao-funciona-ubuntu-no-virtualbox-mj7)
-- [Redis Caching in RAG: Normalized Queries, Semantic Traps &amp; What Actually Worked](https://dev.to/mahakfaheem/redis-caching-in-rag-normalized-queries-semantic-traps-what-actually-worked-59nn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
