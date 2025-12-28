@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [OpenTofu ORAS Backend: Store State in GitHub Container Registry &lpar;GHCR&rpar;](https://dev.to/victor_mvarela_0e25679d/opentofu-oras-backend-store-state-in-ghcrdocker-hub-77f)
 - [Prompt Engineering From First Principles: The Mechanics They Don&#39;t Teach You part-1](https://dev.to/programmerraja/prompt-engineering-from-first-principles-the-mechanics-they-dont-teach-you-part-1-12nb)
 - [Why Wazuh Missed React2Shell](https://dev.to/0xdolan/why-wazuh-missed-react2shell-59jm)
 - [I Built an AI Image Upscaler SaaS &lpar;4K / 16K&rpar; — What I Learned Shipping It](https://dev.to/yifeng_jiang_6391a61fd8ff/i-built-an-ai-image-upscaler-saas-4k-16k-what-i-learned-shipping-it-36j9)
 - [Backend Latency and Transaction Broadcasting Failures at IntBlt](https://dev.to/bittam/backend-latency-and-transaction-broadcasting-failures-at-intblt-1gp4)
-- [Angular Is Opinionated — Here’s Why That Made Me a Better Developer](https://dev.to/rigole/angular-is-opinionated-heres-why-that-made-me-a-better-developer-2lp3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
