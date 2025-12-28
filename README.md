@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Peanut Butter and the Jif That Keeps on Giving](https://dev.to/alvaromontoro/peanut-butter-and-the-jif-that-keeps-on-giving-2k1i)
-- [AI, Open Source, Pay Gaps, and the Future of Software Power](https://dev.to/weekly/ai-open-source-pay-gaps-and-the-future-of-software-power-39e0)
-- [Federated Learning or Bust: Architecting Privacy-First Health AI](https://dev.to/beck_moulton/federated-learning-or-bust-architecting-privacy-first-health-ai-23kg)
-- [My YT Recap 2025](https://dev.to/captainfulminyx/my-yt-recap-2025-15n8)
-- [How MLOps as a Service Can Help You Deploy Models Faster and More Efficiently](https://dev.to/nayeem79/how-mlops-as-a-service-can-help-you-deploy-models-faster-and-more-efficiently-4733)
+- [Auto-Orphan-Volume-Cleanup-Automation](https://dev.to/susseta/auto-orphan-volume-cleanup-automation-33ej)
+- [lowkey: Building a Distributed Lock Service That Actually Works](https://dev.to/pixperk/lowkey-building-a-distributed-lock-service-that-actually-works-38gc)
+- [System Design - EP 4.2 - CA vs. AP vs. CP - What to Choose and When](https://dev.to/hrishikesh_dalal_ced8f95e/system-design-ep-42-ca-vs-ap-vs-cp-what-to-choose-and-when-3nim)
+- [For the upcoming year...](https://dev.to/aniket_kuyate_15acc4e6587/for-the-upcoming-year-4600)
+- [Files-are-Not-Just-Data-A-Guide-to-Robust-File-Handling](https://dev.to/member_6331818c/files-are-not-just-data-a-guide-to-robust-file-handling-3icm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
