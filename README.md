@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Future of Hyper-Local AI](https://dev.to/shyamli_khadse_c2671d46cb/the-future-of-hyper-local-ai-197k)
-- [Spectrum Analyzer Noise Floor Suddenly Up by 10 dB? Don’t Blame the Front-End Yet](https://dev.to/maronlabs/spectrum-analyzer-noise-floor-suddenly-up-by-10-db-dont-blame-the-front-end-yet-4hd)
-- [Your-Dev-Server-is-Lying-to-You-The-Critical-Difference-Between-Hot-Reload-and-Hot-Restart](https://dev.to/member_6331818c/your-dev-server-is-lying-to-you-the-critical-difference-between-hot-reload-and-hot-restart-n22)
-- [Security-is-Not-a-Feature-Its-a-Foundation](https://dev.to/member_8659c28a/security-is-not-a-feature-its-a-foundation-4d7f)
-- [AWS ECS Service Monitoring](https://dev.to/prashantgupta123/aws-ecs-service-monitoring-4phd)
+- [AWS Orphan Alarms Report Generation](https://dev.to/prashantgupta123/aws-orphan-alarms-report-generation-1pnf)
+- [Your Resume Is Failing an Algorithm Before a Human Ever Sees It](https://dev.to/frankvienna/your-resume-is-failing-an-algorithm-before-a-human-ever-sees-it-5767)
+- [How we lost communication to entertainment](https://dev.to/technoblogger14o3/how-we-lost-communication-to-entertainment-37c0)
+- [AWS Backup Failed Monitoring](https://dev.to/prashantgupta123/aws-backup-failed-monitoring-1kem)
+- [AWS CloudWatch Alarm Failed Monitoring](https://dev.to/prashantgupta123/aws-cloudwatch-alarm-failed-monitoring-4kco)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
