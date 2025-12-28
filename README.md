@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AWS Orphan Alarms Report Generation](https://dev.to/prashantgupta123/aws-orphan-alarms-report-generation-1pnf)
-- [Your Resume Is Failing an Algorithm Before a Human Ever Sees It](https://dev.to/frankvienna/your-resume-is-failing-an-algorithm-before-a-human-ever-sees-it-5767)
-- [How we lost communication to entertainment](https://dev.to/technoblogger14o3/how-we-lost-communication-to-entertainment-37c0)
-- [AWS Backup Failed Monitoring](https://dev.to/prashantgupta123/aws-backup-failed-monitoring-1kem)
-- [AWS CloudWatch Alarm Failed Monitoring](https://dev.to/prashantgupta123/aws-cloudwatch-alarm-failed-monitoring-4kco)
+- [Why Most &quot;Free&quot; Background Removers Aren&#39;t Actually Free and the Best Alternative for 2025](https://dev.to/vyshnav_tr_5efa111383bbd1/why-most-free-background-removers-arent-actually-free-and-the-best-alternative-for-2025-599l)
+- [Renewable Energy Projects and India’s Climate Goals](https://dev.to/surbhi_survase_89d4e35b2e/renewable-energy-projects-and-indias-climate-goals-4o1g)
+- [DevOps Future Task Reminders](https://dev.to/prashantgupta123/devops-future-task-reminders-3m47)
+- [How We Reduced Payment API Latency by 60% Using ExecutorService in Spring Boot](https://dev.to/realnamehidden1_61/spring-boot-executorservice-parallel-payment-validation-using-executorservice-1ie2)
+- [Building Telegram Bots in Ruby Just Got Easier with Telegem v2](https://dev.to/slick_phantom/building-telegram-bots-in-ruby-just-got-easier-with-telegem-v2-2m78)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
