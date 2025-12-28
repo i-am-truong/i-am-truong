@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/techno_kraft_in/-2dim)
-- [[Boost]](https://dev.to/shammadahmed/-5eei)
+- [My Go Server was so fast it self-DDoS&#39;d my laptop](https://dev.to/prachi_awesome_jha/my-go-server-was-so-fast-it-self-ddosd-my-laptop-48i2)
+- [LLM-Driven Intelligent Memory Optimization Engine: Making AI Memories Continuously Evolve](https://dev.to/sopaco/llm-driven-intelligent-memory-optimization-engine-making-ai-memories-continuously-evolve-4gdo)
 - [Solved: Do you pay for migration from one server/hosting to another? How much charge have you paid?](https://dev.to/techresolve/solved-do-you-pay-for-migration-from-one-serverhosting-to-another-how-much-charge-have-you-paid-27gh)
 - [Estratégias de Crescimento: Impulsione o Sucesso do Seu Negócio](https://dev.to/movin/estrategias-de-crescimento-impulsione-o-sucesso-do-seu-negocio-kih)
-- [Estratégias de Crescimento: Impulsione Seu Negócio com Resultados](https://dev.to/movin/estrategias-de-crescimento-impulsione-seu-negocio-com-resultados-4ilc)
+- [Why I Built ngx-smart-cropper &lpar;and What Most Angular Image Croppers Get Wrong&rpar;](https://dev.to/kurt_vandenbranden_1da8/why-i-built-ngx-smart-cropper-and-what-most-angular-image-croppers-get-wrong-45e3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
