@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Let’s fight the bugs!](https://dev.to/art_light/lets-fight-the-bugs-1h61)
+- [DevRealityOps Manifesto](https://dev.to/yuji_marutani/devrealityops-manifesto-30lk)
+- [68. Text Justification | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/68-text-justification-leetcode-top-interview-150-coding-questions-aad)
 - [Headless Raspberry Pi Homelab – Part 2: Network Setup &amp; Device Verification w/ Xfinity &amp; Netgear](https://dev.to/astromodem/headless-raspberry-pi-homelab-part-2-network-setup-device-verification-w-xfinity-netgear-2a1)
 - [I built my own Shader Language](https://dev.to/jbrozy/i-built-my-own-shader-language-53n2)
-- [The Standup Tax: Why Your Daily Meeting Is a Hidden Financial Liability](https://dev.to/ghostinit0x/the-standup-tax-why-your-daily-meeting-is-a-hidden-financial-liability-252g)
-- [RAID-AI: A Multi-Language Stress Test for Autonomous Agents](https://dev.to/nathaniel_tomas_73f60504a/raid-ai-a-multi-language-stress-test-for-autonomous-agents-pe3)
-- [Manual version bumps using semantic release with Azure DevOps](https://dev.to/dmo2000/manual-version-bumps-using-semantic-release-with-azure-devops-2pj1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
