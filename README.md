@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🎉 WhatsApp Message Automation for New Year Greetings with Node.js🎉](https://dev.to/deepak_padliya_72bbc2219d/whatsapp-message-automation-for-new-year-greetings-with-nodejs-4hbj)
-- [Improving Plesk File Manager UX: Real-World Experience](https://dev.to/tahael/improving-plesk-file-manager-ux-real-world-experience-3c3o)
-- [The Hidden Gold in My GitHub](https://dev.to/cathylai/the-hidden-gold-in-my-github-7fk)
-- [I launched a free “Career Navigator” web tool for IT &amp; Cyber careers. What would make you use it weekly? 🚀](https://dev.to/charles_dennis_a82bc16d92/i-launched-a-free-career-navigator-web-tool-for-it-cyber-careers-what-would-make-you-use-it-3mh8)
-- [Phishing Attacks in 2026: How Deception Evolves in the Age of AI, Trust Automation, and Digital Fatigue](https://dev.to/pmpr/phishing-attacks-in-2026-how-deception-evolves-in-the-age-of-ai-trust-automation-and-digital-33ad)
+- [Monetzly: A Game Changer for AI Monetization in LLM Apps](https://dev.to/monetzly/monetzly-a-game-changer-for-ai-monetization-in-llm-apps-1h91)
+- [Design Patterns for Reliable IoT Device Orchestration in Mission-Critical Healthcare Systems](https://dev.to/prakharsrivastava45/design-patterns-for-reliable-iot-device-orchestration-in-mission-critical-healthcare-systems-1n4e)
+- [Learning Cookie Creation and Access Through Implementation &lpar;Part 3&rpar;](https://dev.to/bysontech_8dd1313811a8895/learning-cookie-creation-and-access-through-implementation-part-3-52on)
+- [Part 2: Why Transformers Still Forget](https://dev.to/harvesh_kumar/part-2-why-transformers-still-forget-17od)
+- [Funky: 806,893 Lines in 24 Days: What Happens When a Hackathon Swerves Into Madness](https://dev.to/lnation/funky-806893-lines-in-24-days-what-happens-when-a-hackathon-swerves-into-madness-2adh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
