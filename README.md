@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Data Leakage pada Machine Learning](https://dev.to/hafidnrzs/data-leakage-pada-machine-learning-3c2p)
+- [Black‑Box Web Vulnerability Testing &lpar;Nikto, SQL Injection, XSS&rpar;](https://dev.to/ldwit/black-box-web-vulnerability-testing-nikto-sql-injection-xss-1b34)
 - [🖼️ ExtractMate — A Full Python OCR Desktop App &lpar;Tkinter + Tesseract&rpar;](https://dev.to/matetechnologie/extractmate-a-full-python-ocr-desktop-app-tkinter-tesseract-4pfd)
 - [Ditch the Bloat: Komari is the Featherlight, Self-Hosted Server Monitor You Need](https://dev.to/githubopensource/ditch-the-bloat-komari-is-the-featherlight-self-hosted-server-monitor-you-need-3g05)
 - [I Built DevTrace — A Community for Developers Who Build in Public](https://dev.to/rushikesh_bodakhe_db28644/i-built-devtrace-a-community-for-developers-who-build-in-public-3j79)
-- [The Discovery and Development of Electricity: Powering the Modern World](https://dev.to/gustavowoltmann18/the-discovery-and-development-of-electricity-powering-the-modern-world-4ih1)
-- [watermelon encryption/decryption v1.2](https://dev.to/salu_pinho_015b91a01060bd/watermelon-encryptiondecryption-v12-4d74)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
