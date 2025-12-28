@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [OpenTofu ORAS Backend: Store State in GitHub Container Registry &lpar;GHCR&rpar;](https://dev.to/victor_mvarela_0e25679d/opentofu-oras-backend-store-state-in-ghcrdocker-hub-77f)
-- [Prompt Engineering From First Principles: The Mechanics They Don&#39;t Teach You part-1](https://dev.to/programmerraja/prompt-engineering-from-first-principles-the-mechanics-they-dont-teach-you-part-1-12nb)
-- [Why Wazuh Missed React2Shell](https://dev.to/0xdolan/why-wazuh-missed-react2shell-59jm)
-- [I Built an AI Image Upscaler SaaS &lpar;4K / 16K&rpar; — What I Learned Shipping It](https://dev.to/yifeng_jiang_6391a61fd8ff/i-built-an-ai-image-upscaler-saas-4k-16k-what-i-learned-shipping-it-36j9)
-- [Backend Latency and Transaction Broadcasting Failures at IntBlt](https://dev.to/bittam/backend-latency-and-transaction-broadcasting-failures-at-intblt-1gp4)
+- [Supercharge Your React Page Speed: How @opensite/hooks Reduces Bundle Size and API Calls by 95%](https://dev.to/opensite/supercharge-your-react-page-speed-how-opensitehooks-reduces-bundle-size-and-api-calls-by-95-4n41)
+- [Solved: Error when updating PowerShell](https://dev.to/techresolve/solved-error-when-updating-powershell-dk6)
+- [Solved: PoE+++?! WHEN WILL THE MADNESS END?](https://dev.to/techresolve/solved-poe-when-will-the-madness-end-3ki)
+- [How to Turn Cloud &quot;Trash&quot; into a Golden 100GB Encrypted Vault &lpar;LVM + rclone&rpar;](https://dev.to/lag_lagendary/how-to-turn-cloud-trash-into-a-golden-100gb-encrypted-vault-lvm-rclone-1lc5)
+- [Outil de Cybersécurité du Jour - Dec 28, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-dec-28-2025-5ec8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
