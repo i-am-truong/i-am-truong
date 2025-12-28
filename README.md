@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Solved: Looking for a PowerShell game or practice exercise to prepare for my exam](https://dev.to/techresolve/solved-looking-for-a-powershell-game-or-practice-exercise-to-prepare-for-my-exam-412j)
-- [From Domain Events to Webhooks](https://dev.to/faizan/from-domain-events-to-webhooks-3i1)
-- [Coding Challenge Practice - Question 88](https://dev.to/tomivan/coding-challenge-practice-question-88-57nd)
-- [Solved: Pacemaker/DRBD: Auto-failback kills active DRBD Sync Primary to Secondary. How to prevent this?](https://dev.to/techresolve/solved-pacemakerdrbd-auto-failback-kills-active-drbd-sync-primary-to-secondary-how-to-prevent-48ee)
-- [From Managed Threads to Independent Tasks: Rethinking Concurrency from Java to Go &lpar;Part 1&rpar;](https://dev.to/_akajuthi_/from-managed-threads-to-independent-tasks-rethinking-concurrency-from-java-to-go-part-1-2p75)
+- [Supercharge Your Web Dev game with Chrome MCP - Part 1](https://dev.to/susanna_wong_4e4478740bdf/supercharge-your-web-devgame-with-chrome-mcp-part-1-9gg)
+- [Deploying a Serverless AI Agent with AWS Bedrock, Lambda, and API Gateway](https://dev.to/swat_24/deploying-a-serverless-ai-agent-with-aws-bedrock-lambda-and-api-gateway-2123)
+- [How to configure unattended-upgrades on openSUSE Leap](https://dev.to/jdrch/how-to-configure-unattended-upgrades-on-opensuse-leap-5hb7)
+- [Comparing Cloud AI Platforms in 2025: Bedrock, Azure OpenAI, and Gemini](https://dev.to/swat_24/comparing-cloud-ai-platforms-in-2025-bedrock-azure-openai-and-gemini-4ij2)
+- [Hello dev.to! I’m a Python &amp; Django Web Developer Looking for Opportunities](https://dev.to/dkonti/hello-devto-im-a-python-django-web-developer-looking-for-opportunities-1449)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
