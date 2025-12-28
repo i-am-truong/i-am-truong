@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Add a Vertical Player to your website.](https://dev.to/damandeep_singh_7c4698e97/add-a-vertical-player-to-your-website-59b3)
+- [Building a Video Generation Pipeline with Angular, Veo 3.1, and Firebase Cloud Functions](https://dev.to/railsstudent/building-a-video-generation-pipeline-with-angular-veo-31-and-firebase-cloud-functions-4l7f)
+- [Add a Vertical Player to Your Website](https://dev.to/damandeep_singh_7c4698e97/add-a-vertical-player-to-your-website-59b3)
+- [Variables in Terraform: My learnings.](https://dev.to/rohanan07/variables-in-terraform-my-learnings-5a1a)
 - [Why I stopped using online JSON formatters &lpar;and built my own&rpar;](https://dev.to/bhaskar_nathpandey_1a8de/why-i-stopped-using-online-json-formatters-and-built-my-own-2g2b)
-- [Understanding MCP: The Universal Protocol Connecting AI to Your World](https://dev.to/diskcleankit/understanding-mcp-the-universal-protocol-connecting-ai-to-your-world-4j03)
-- [My Go Server was so fast it self-DDoS&#39;d my laptop](https://dev.to/prachi_awesome_jha/my-go-server-was-so-fast-it-self-ddosd-my-laptop-48i2)
-- [LLM-Driven Intelligent Memory Optimization Engine: Making AI Memories Continuously Evolve](https://dev.to/sopaco/llm-driven-intelligent-memory-optimization-engine-making-ai-memories-continuously-evolve-4gdo)
+- [🚀 Terraform Day 22: Secure Two-Tier Architecture on AWS &lpar;EC2 + RDS&rpar;](https://dev.to/jeeva_5c84a254e90842940dd/terraform-day-22-secure-two-tier-architecture-on-aws-ec2-rds-105l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
