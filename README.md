@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [💀 RIP Copy-Paste: Google NotebookLM Just Killed Manual Data Entry](https://dev.to/siddhesh_surve/rip-copy-paste-google-notebooklm-just-killed-manual-data-entry-2co8)
-- [Multi-Provider STT/TTS strategies: When and Why to Abstract Your Speech Stack](https://dev.to/tigranbs/multi-provider-stttts-strategies-when-and-why-to-abstract-your-speech-stack-2aio)
-- [React Native HealthKit: How to Build a Seamless Health Dashboard](https://dev.to/wellallytech/react-native-healthkit-how-to-build-a-seamless-health-dashboard-4ac1)
-- [CSS :has&lpar;&rpar; Selector Deep Dive: The Parent Selector That Changes Everything](https://dev.to/pockit_tools/css-has-selector-deep-dive-the-parent-selector-that-changes-everything-p77)
-- [WebP in 2025: reduce image size by 60–80% &lpar;client-side&rpar;](https://dev.to/allisson_faiad_e49f3d51b9/webp-in-2025-reduce-image-size-by-60-80-client-side-23ek)
+- [Introduction to AWS AI Concepts: A Beginner&#39;s Guide](https://dev.to/aws-builders/introduction-to-aws-ai-concepts-a-beginners-guide-16i8)
+- [EP 14: The Rate Limit War - Stopping Brute Force and Bot](https://dev.to/hrishikesh_dalal_ced8f95e/ep-14-the-rate-limit-war-stopping-brute-force-and-bot-4mbo)
+- [👥 AWS 117: Managing the Crowd - Creating Your First IAM Group](https://dev.to/hritikraj8804/aws-117-managing-the-crowd-creating-your-first-iam-group-2pf4)
+- [Scrapy Signals: The Complete Beginner&#39;s Guide &lpar;Make Your Spider Talk to You&rpar;](https://dev.to/ikram_khan/scrapy-signals-the-complete-beginners-guide-make-your-spider-talk-to-you-29lf)
+- [EP 13: SQL Injection Isn&#39;t Dead - It Just Evolved](https://dev.to/hrishikesh_dalal_ced8f95e/ep-13-sql-injection-isnt-dead-it-just-evolved-2fb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
