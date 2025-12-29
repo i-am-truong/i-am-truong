@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [avro-phonetic-go: Avro-style Banglish to বাংলা transliteration in Go](https://dev.to/mhsajib/avro-phonetic-go-avro-style-banglish-to-baanlaa-transliteration-in-go-4f6d)
-- [When Your Database Goes Down for 25 Minutes: Building a Survival Cache](https://dev.to/sivagurunathanv/-when-your-database-goes-down-for-25-minutes-building-a-survival-cache-7bc)
-- [Building Your Career in AI: Real Talk from the Trenches](https://dev.to/giolaq/building-your-career-in-ai-real-talk-from-the-trenches-40p)
-- [Open, vendor-neutral authoritative domain data consumed by AI systems, search, and other automated agents](https://dev.to/ai-domain-data/open-vendor-neutral-authoritative-domain-data-consumed-by-ai-systems-search-and-other-automated-3a2a)
-- [The standup isn’t 15 minutes. Here’s the math.](https://dev.to/ghostinit0x/the-standup-isnt-15-minutes-heres-the-math-h1e)
+- [Building My Own Automated Budget Tracker Using Notion](https://dev.to/cjoy/building-my-own-automated-budget-tracker-using-notion-3b03)
+- [Turning Complexity into Smart Simplicity in Learning Design](https://dev.to/pinedpidned3456/turning-complexity-into-smart-simplicity-in-learning-design-23jn)
+- [New Year&#39;s Resolution: Start a Brag Doc](https://dev.to/nataliaherself/new-years-resolution-start-a-brag-doc-4bif)
+- [Building Dreim Paper: A YouTube Shorts Pipeline for Reddit Poetry](https://dev.to/dreim/building-dreim-paper-a-youtube-shorts-pipeline-for-reddit-poetry-21p3)
+- [Turning Complexity into Smart Simplicity for Long-Term Thinking](https://dev.to/tantantan346/turning-complexity-into-smart-simplicity-for-long-term-thinking-l35)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
