@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [DNS Automation for Multi-Tenant SaaS on CloudFlare](https://dev.to/alexisfranorge/dns-automation-for-multi-tenant-saas-on-cloudflare-2ag7)
-- [the developer’s &quot;writer&#39;s block&quot;: the &quot;already done&quot; trap and why you should build it anyway](https://dev.to/siliconcatalyst/the-developers-writers-block-the-already-done-trap-and-why-you-should-build-it-anyway-374b)
-- [Create your own ChatGPT using SageMaker Python SDK V3](https://dev.to/rgurung_sr/create-your-own-chatgpt-using-sagemaker-python-sdk-v3-3fnd)
-- [Java Find and Replace Values in Excel Files](https://dev.to/lu_liu_e3fc806354d9a952b7/java-find-and-replace-values-in-excel-files-4j42)
-- [10 Most Beautiful Places to Visit in Switzerland in 2026 – Top Attractions](https://dev.to/lily_brown_9a282a38259a17/10-most-beautiful-places-to-visit-in-switzerland-in-2026-top-attractions-51l)
+- [Migrate Droplet from DO to AWS using AWS Migration Application Service &lpar;MGN&rpar;](https://dev.to/namlahai9/migrate-droplet-from-do-to-aws-using-aws-migration-application-service-mgn-o93)
+- [Playwright: Web Scraping &amp; Testing](https://dev.to/rosgluk/playwright-web-scraping-testing-3fc1)
+- [Steady Queue: a Redis-less task backend for Django](https://dev.to/knifecake/steady-queue-a-redis-less-task-backend-for-django-4l6g)
+- [Looking for Short-term Web Dev &amp; Writing Gigs &lpar;2 months&rpar;](https://dev.to/casperday11/looking-for-short-term-web-dev-writing-gigs-2-months-ajm)
+- [The Security Gap in AI Agent Ecosystems: A Deep Dive into Static Analysis for Claude Skills](https://dev.to/beck_moulton/the-security-gap-in-ai-agent-ecosystems-a-deep-dive-into-static-analysis-for-claude-skills-5cbk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
