@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Everest Base Camp Trek: A Decade of Dust, Peaks, and Perspective](https://dev.to/khusbuddin_dhuniya_efb122/everest-base-camp-trek-a-decade-of-dust-peaks-and-perspective-48d2)
-- [Secure Password Managers: Your Key to Safer Online Security](https://dev.to/rapidcellphone/secure-password-managers-your-key-to-safer-online-security-2e51)
-- [Winstrike and the Engineering Mindset Behind Stable Digital Platforms!](https://dev.to/winstrikeofficial/winstrike-and-the-engineering-mindset-behind-stable-digital-platforms-49oc)
-- [My First AWS re:Invent Experience](https://dev.to/aws-builders/my-first-aws-reinvent-experience-50ih)
-- [How to enable DTMF Events in Telephony AI Agent](https://dev.to/chaitrali_kakde/how-to-enable-dtmf-events-in-telephony-ai-agent-h5n)
+- [How to Create Never-Ending Fun &lpar;🎢RollerCoaster.js + React Three Fiber + AI&rpar;](https://dev.to/webdeveloperhyper/how-to-create-never-ending-fun-rollercoasterjs-react-three-fiber-ai-57c5)
+- [Unified Data Fabric: Serverless Spark on ROSA Integrating with AWS Glue Catalog](https://dev.to/mgonzalezo/unified-data-fabric-serverless-spark-on-rosa-integrating-with-aws-glue-catalog-9bb)
+- [The &quot;And&quot; Test: How I Spot a Monster Function Before it Bites Me](https://dev.to/doogal/the-and-test-how-i-spot-a-monster-function-before-it-bites-me-2o18)
+- [Estratégias de Crescimento: Como Expandir Seu Negócio em 2024](https://dev.to/movin/estrategias-de-crescimento-como-expandir-seu-negocio-em-2024-41f)
+- [Estratégias de Crescimento: Como Impulsionar Seu Negócio em 2024](https://dev.to/movin/estrategias-de-crescimento-como-impulsionar-seu-negocio-em-2024-43hh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
