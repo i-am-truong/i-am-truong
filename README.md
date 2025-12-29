@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Rapido Drivers Earn 80,000 Per Month in India](https://dev.to/vandna_yadav_e81f937bbf9d/how-rapido-drivers-earn-80000-per-month-in-india-18o8)
-- [🎮 Day 3 – Understanding GDD &lpar;Game Design Document&rpar;](https://dev.to/dinesh_04/day-3-understanding-gdd-game-design-document-ddm)
-- [The Ultimate LLM Inference Battle: vLLM vs. Ollama vs. ZML](https://dev.to/worldlinetech/the-ultimate-llm-inference-battle-vllm-vs-ollama-vs-zml-m97)
-- [Kubernetes In-Place Pod Resize](https://dev.to/alikhil/kubernetes-in-place-pod-resize-454i)
-- [Regression testing workflow: the risk first checks that keep releases stable](https://dev.to/kelina_cowell_qa/regression-testing-workflow-the-risk-first-checks-that-keep-releases-stable-3ed1)
+- [Vibe coding - does it actually work?](https://dev.to/ninadmhatre/vibe-coding-does-it-actually-work-56k4)
+- [Edge-to-Cloud Swarm Coordination for sustainable aquaculture monitoring systems with zero-trust governance guarantees](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-sustainable-aquaculture-monitoring-systems-with-zero-trust-35fh)
+- [Unlimited AI Video Enhancement for Reusing Video Content](https://dev.to/herman99630/unlimited-ai-video-enhancement-for-reusing-video-content-2j3d)
+- [Hydrafacial Treatment at The Medispa – The Modern Skincare Experience](https://dev.to/the_medispa_526f33bf62d09/hydrafacial-treatment-at-the-medispa-the-modern-skincare-experience-51ke)
+- [Key Benefits of RAG as a Service for Enterprise AI Applications](https://dev.to/nithya_iyer/key-benefits-of-rag-as-a-service-for-enterprise-ai-applications-2eo4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
