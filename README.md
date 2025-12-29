@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building an AI-Powered Code Editor: &lpar;part 2&rpar; LLM like interpreter](https://dev.to/francesco_marconi_282058b/building-an-ai-powered-code-editor-part-2-llm-like-interpreter-4oi)
+- [Coding Challenge Practice - Question 90](https://dev.to/tomivan/coding-challenge-practice-question-90-5dgd)
+- [Networking for DevOps &lpar;Senior-Level, Production-Focused&rpar;](https://dev.to/jumptotech/networking-for-devops-senior-level-production-focused-4k5f)
+- [🚀 Criar Endpoint POST /invoices](https://dev.to/thiagoematos/criar-endpoint-post-invoices-27ai)
 - [I Built a Sales Visualizer for a Real Business Problem &lpar;Quantium Software Engineering Simulation&rpar;](https://dev.to/lfariaus/i-built-a-sales-visualizer-for-a-real-business-problem-quantium-software-engineering-simulation-4gfi)
-- [167. Two Sum II - Input Array Is Sorted | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/167-two-sum-ii-input-array-is-sorted-leetcode-top-interview-150-coding-questions-4lol)
-- [[Project Breakdown] Syncord: Encrypted File Storage via Discord](https://dev.to/krishsharma0413/project-breakdown-syncord-using-discord-as-file-storage-system-2l0c)
-- [AI Trading Daily Report: December 29, 2025 | $+240.36](https://dev.to/igorganapolsky/ai-trading-daily-report-december-29-2025-24036-5fib)
-- [CVE-2025-14847: MongoDB and MongoDB Server Improper Handling of Length Parameter Inconsistency Vulnerability](https://dev.to/freedom-coder/cve-2025-14847-mongodb-and-mongodb-server-improper-handling-of-length-parameter-inconsistency-3f8n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
