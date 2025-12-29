@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Glamsterdam, Bitcoin in MetaMask, EIL &amp; 7702 Alignment, PillarX Universal Gas Tank](https://dev.to/etherspot/glamsterdam-bitcoin-in-metamask-eil-7702-alignment-pillarx-universal-gas-tank-5869)
-- [Hybrid MLOps Pipeline: Implementation Guide](https://dev.to/mgonzalezo/hybrid-mlops-pipeline-implementation-guide-4odc)
-- [Speed Up Your Worker with Cache API &lpar;5 Lines of Code&rpar;](https://dev.to/aserrano/speed-up-your-worker-with-cache-api-5-lines-of-code-3d96)
-- [Perl 🐪 Weekly #753 - Happy New Year!](https://dev.to/szabgab/perl-weekly-753-happy-new-year-1mpd)
-- [Function Calling With Google Gemini 3 - Google ADK &amp; Google Genai](https://dev.to/composiodev/function-calling-with-google-gemini-3-google-adk-google-genai-55l5)
+- [Sequential promise chain and promise chunking in javascript](https://dev.to/thekhairul/sequential-promise-chain-and-promise-chunking-in-javascript-4dc0)
+- [Integrating .NET Aspire with WinampToSpotify Project - 1](https://dev.to/atahanceylan/integrating-net-aspire-with-winamptospotify-project-1-3c3m)
+- [Stop Forcing Local Shops to Build Apps - WhatsApp Is Already Enough](https://dev.to/chotu_693eaa99c4cdc1f570a/stop-forcing-local-shops-to-build-apps-whatsapp-is-already-enough-17k3)
+- [Turn your text into an immersive audio-visual experience.](https://dev.to/techno_kraft_in/turn-your-text-into-an-immersive-audio-visual-experience-3p64)
+- [BigCommerce Plugin Development: Everything You Need to Know](https://dev.to/henrydavid/bigcommerce-plugin-development-everything-you-need-to-know-1188)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
