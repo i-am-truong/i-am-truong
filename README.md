@@ -120,13 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Shared a short post on CI/CD feeling heavy even when it works.
-Moved from GitHub Actions Ansible + Jenkins
-Curious how others here navigated this phase.](https://dev.to/nightwalker28/shared-a-short-post-on-cicd-feeling-heavy-even-when-it-works-moved-from-github-actions-ansible-1off)
-- [Understanding Proxy Patterns: The Why and How of Static and Dynamic Proxies in Java](https://dev.to/rajatarora/understanding-proxy-patterns-the-why-and-how-of-static-and-dynamic-proxies-in-java-h1g)
-- [Help, My Laravel API Call is Ghosting Me: A 503 Horror Story](https://dev.to/timadey/help-my-laravel-api-call-is-ghosting-me-a-503-horror-story-40m4)
-- [Why Choosing the Right _Martial Arts Classes Near Me_ Matters](https://dev.to/karate_academy/why-choosing-the-right-martial-arts-classes-near-me-matters-aap)
-- [Git for Beginners: Basics and Essential Commands](https://dev.to/bhupeshchandrajoshi/git-for-beginners-basics-and-essential-commands-38o9)
+- [Everest Base Camp Trek: A Decade of Dust, Peaks, and Perspective](https://dev.to/khusbuddin_dhuniya_efb122/everest-base-camp-trek-a-decade-of-dust-peaks-and-perspective-48d2)
+- [Secure Password Managers: Your Key to Safer Online Security](https://dev.to/rapidcellphone/secure-password-managers-your-key-to-safer-online-security-2e51)
+- [Winstrike and the Engineering Mindset Behind Stable Digital Platforms!](https://dev.to/winstrikeofficial/winstrike-and-the-engineering-mindset-behind-stable-digital-platforms-49oc)
+- [My First AWS re:Invent Experience](https://dev.to/aws-builders/my-first-aws-reinvent-experience-50ih)
+- [How to enable DTMF Events in Telephony AI Agent](https://dev.to/chaitrali_kakde/how-to-enable-dtmf-events-in-telephony-ai-agent-h5n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
