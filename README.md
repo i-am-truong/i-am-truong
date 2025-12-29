@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How SafeLine WAF Protected a Growing Business from Advanced Cybersecurity Threats](https://dev.to/arina_cholee/how-safeline-waf-protected-a-growing-business-from-advanced-cybersecurity-threats-4a10)
-- [Tesla is smarter than ever now](https://dev.to/vishthakkar/tesla-is-smarter-than-ever-now-1580)
-- [My Experiment with AI Ad Video Generators: Moving from Editor to Curator](https://dev.to/lee_stuart_2b43a7d7d520ce/my-experiment-with-ai-ad-video-generators-moving-from-editor-to-curator-hi6)
-- [React Explained for Developers: How It Fits Into Full-Stack Apps](https://dev.to/callmebro/react-explained-for-developers-how-it-fits-into-full-stack-apps-34m4)
-- [How we solved cache invalidation in Kubernetes with a headless service](https://dev.to/apoorvtyagi/how-we-solved-cache-invalidation-in-kubernetes-with-a-headless-service-34dg)
+- [Factorial](https://dev.to/highcenburg/factorial-13am)
+- [Why Your Vue App Is Reactive Too Much &lpar;and How to Fix It&rpar;](https://dev.to/jacobandrewsky/why-your-vue-app-is-reactive-too-much-and-how-to-fix-it-4n7m)
+- [Building CodeAnswr: How I combined Stack Overflow with AI using SvelteKit + Cloudflare](https://dev.to/mobin_poursalami_f30352a2/building-codeanswr-how-i-combined-stack-overflow-with-ai-using-sveltekit-cloudflare-11m0)
+- [I want people to document their entire lives from childhood to adulthood.](https://dev.to/hushuai_wang_29fb41896f72/i-want-people-to-document-their-entire-lives-from-childhood-to-adulthood-37j8)
+- [COMPLETE PYTHON CHEATSHEET](https://dev.to/code_2/complete-python-cheatsheet-3jke)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
