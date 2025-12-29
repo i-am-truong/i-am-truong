@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [MAF Agents with Azure AI Foundry Project](https://dev.to/gonzasosa/maf-agents-with-azure-ai-foundry-project-eam)
-- [AWS DevOps Agent: 10 best practices to get the most out of It](https://dev.to/aws-builders/aws-devops-agent-10-best-practices-to-get-the-most-out-of-it-do7)
-- [Don’t Worship the Toaster &lpar;and Other Rules for Using AI Without Losing Agency&rpar;](https://dev.to/duplessisvanaswegen/dont-worship-the-toaster-and-other-rules-for-using-ai-without-losing-agency-42al)
-- [184 Theorems, Zero Sorry How We Formally Verified a Multi-Chain Protocol](https://dev.to/chronosvault/184-theorems-zero-sorry-how-we-formally-verified-a-multi-chain-protocol-57g9)
-- [Mastering Claude’s Research Tool: A Practical Guide](https://dev.to/criticalmynd/mastering-claudes-research-tool-a-practical-guide-465d)
+- [Track Spotify Metrics: Use Docker with Prometheus and Grafana](https://dev.to/atahanceylan/track-spotify-metrics-use-docker-with-prometheus-and-grafana-6g1)
+- [You Pay 6x More When Your EKS Cluster Goes Out of Support](https://dev.to/sadebare/you-pay-6x-more-when-your-eks-cluster-goes-out-of-support-289d)
+- [Keep extending ADV game engine with Antigravity](https://dev.to/tomokat/keep-extending-adv-game-engine-with-antigravity-2idn)
+- [DEV Track Spotlight: Supercharge DevOps with AI-driven observability &lpar;DEV304&rpar;](https://dev.to/aws/dev-track-spotlight-supercharge-devops-with-ai-driven-observability-dev304-4em3)
+- [Consistently deploying Lambda functions and layers using Terraform](https://dev.to/aws-builders/consistently-deploying-lambda-functions-and-layers-using-terraform-379b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
