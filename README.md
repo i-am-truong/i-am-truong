@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [How was your 2025?](https://dev.to/devteam/how-was-your-2025-5gdn)
-- [Kubernetes Interview Questions &amp; Answers &lpar;Professional – 6 Years Experience&rpar;](https://dev.to/jumptotech/kubernetes-interview-questions-answersprofessional-6-years-experience-14h5)
-- [Day 36 of improving my Data Science skills](https://dev.to/sp_the_data_specialist/day-36-of-improving-my-data-science-skills-2pa4)
-- [🚀 O melhor dos dois mundos: Entenda o Partial Pre-Rendering &lpar;PPR&rpar;](https://dev.to/nathdev/o-melhor-dos-dois-mundos-entenda-o-partial-pre-rendering-ppr-295f)
-- [Carbon Emissions and Large Neural Network Training](https://dev.to/paperium/carbon-emissions-and-large-neural-network-training-57e5)
+- [How Rate Limiting Saved Me $500 in One Day &lpar;Real Story&rpar;](https://dev.to/aserrano/how-rate-limiting-saved-me-500-in-one-day-real-story-ajp)
+- [Sub-Second Voice Agent Latency: A Practical Architecture Guide](https://dev.to/tigranbs/sub-second-voice-agent-latency-a-practical-architecture-guide-4cg1)
+- [How to create a virtual environment in Visual Studio Code with Python](https://dev.to/robotwizard/how-to-create-a-virtual-environment-in-visual-studio-code-with-python-486p)
+- [I built a Python tool to hunt down Remote Access Trojans on Windows](https://dev.to/mentalistops/i-built-a-python-tool-to-hunt-down-remote-access-trojans-on-windows-3ian)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
