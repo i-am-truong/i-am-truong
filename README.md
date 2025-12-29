@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [WBS vs Agile? There&#39;s No Such Opposition](https://dev.to/_jeongyuhyeon_03de1/wbs-vs-agile-theres-no-such-opposition-51b9)
-- [🌐 Strengthening the Security Pillar of the AWS Well-Architected Framework: Introducing EC2 Instance Attestation](https://dev.to/morekiranp/strengthening-the-security-pillar-of-the-aws-well-architected-framework-introducing-ec2-instance-4mcb)
-- [How To Automatically Submit Sitemap To Google Programmatically](https://dev.to/eunit/how-to-automatically-submit-sitemap-to-google-programmatically-1gbn)
-- [Salesforce integration failures with external systems](https://dev.to/selavina_b_de3b87f13c96a6/salesforce-integration-failures-with-external-systems-4n5a)
-- [Tech Horror Codex: Substrate Sovereignty](https://dev.to/narnaiezzsshaa/tech-horror-codex-substrate-sovereignty-5fhn)
+- [Why Edge Cases Matter in Distributed Systems](https://dev.to/yoditdevn8n/why-edge-cases-matter-in-distributed-systems-5h8h)
+- [10 AI terms that will help you look like you&#39;re not completely lost](https://dev.to/develaper/10-ai-terms-that-will-help-you-look-like-youre-not-completely-lost-2648)
+- [Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, LongContext, and Next Generation Agentic Capabilities](https://dev.to/paperium/gemini-25-pushing-the-frontier-with-advanced-reasoning-multimodality-longcontext-and-next-ncm)
+- [Symfony AI 1.0: PHP’s Native AI Era Begins](https://dev.to/james_miller_8dc58a89cb9e/symfony-ai-10-phps-native-ai-era-begins-6n2)
+- [Terminal commands that actually save time ⏱️](https://dev.to/naseemkhandev/terminal-commands-that-actually-save-time-1a7c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
