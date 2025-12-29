@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Vibe coding - does it actually work?](https://dev.to/ninadmhatre/vibe-coding-does-it-actually-work-56k4)
-- [Edge-to-Cloud Swarm Coordination for sustainable aquaculture monitoring systems with zero-trust governance guarantees](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-sustainable-aquaculture-monitoring-systems-with-zero-trust-35fh)
-- [Unlimited AI Video Enhancement for Reusing Video Content](https://dev.to/herman99630/unlimited-ai-video-enhancement-for-reusing-video-content-2j3d)
-- [Hydrafacial Treatment at The Medispa – The Modern Skincare Experience](https://dev.to/the_medispa_526f33bf62d09/hydrafacial-treatment-at-the-medispa-the-modern-skincare-experience-51ke)
-- [Key Benefits of RAG as a Service for Enterprise AI Applications](https://dev.to/nithya_iyer/key-benefits-of-rag-as-a-service-for-enterprise-ai-applications-2eo4)
+- [Glamsterdam, Bitcoin in MetaMask, EIL &amp; 7702 Alignment, PillarX Universal Gas Tank](https://dev.to/etherspot/glamsterdam-bitcoin-in-metamask-eil-7702-alignment-pillarx-universal-gas-tank-5869)
+- [Hybrid MLOps Pipeline: Implementation Guide](https://dev.to/mgonzalezo/hybrid-mlops-pipeline-implementation-guide-4odc)
+- [Speed Up Your Worker with Cache API &lpar;5 Lines of Code&rpar;](https://dev.to/aserrano/speed-up-your-worker-with-cache-api-5-lines-of-code-3d96)
+- [Perl 🐪 Weekly #753 - Happy New Year!](https://dev.to/szabgab/perl-weekly-753-happy-new-year-1mpd)
+- [Function Calling With Google Gemini 3 - Google ADK &amp; Google Genai](https://dev.to/composiodev/function-calling-with-google-gemini-3-google-adk-google-genai-55l5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
