@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Impossible Normalization: Why Your Database Hates Biology 🧬](https://dev.to/beck_moulton/the-impossible-normalization-why-your-database-hates-biology-4249)
-- [Text analysis detector tool](https://dev.to/ruturaj04/text-analysis-detector-tool-2bii)
-- [Solved: RESULTS of What Ingress Controller are you using TODAY?](https://dev.to/techresolve/solved-results-of-what-ingress-controller-are-you-using-today-4lfj)
-- [Why Incident Response Breaks Down in Containerized Environments](https://dev.to/kapusto/why-incident-response-breaks-down-in-containerized-environments-8gn)
-- [Solved: Introducing TypeDriver: A High Performance Driver for Runtime Type System Integration](https://dev.to/techresolve/solved-introducing-typedriver-a-high-performance-driver-for-runtime-type-system-integration-2dcg)
+- [Oracle AI Database 26ai — Wide Tables](https://dev.to/vahidusefzadeh/oracle-ai-database-26ai-wide-tables-31oj)
+- [Turning License Changes into Opportunity](https://dev.to/aws-builders/turning-license-changes-into-opportunity-1n35)
+- [&lpar;4&rpar;Creating the Pinnacle of Niche Software: Abandoning localhost:1234 - locally!](https://dev.to/sukkergris/4creating-the-pinnacle-of-niche-software-abandoning-localhost1234-locally-g2g)
+- [Production Parity: Routing Local Traffic with a Reverse Proxy](https://dev.to/sukkergris/production-parity-routing-local-traffic-with-a-reverse-proxy-2ndh)
+- [How We Solve the “Empty Nights” Problem in Booking Systems](https://dev.to/unbooked/how-we-solve-the-empty-nights-problem-in-booking-systems-5186)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
