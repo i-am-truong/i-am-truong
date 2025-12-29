@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The &#39;Concrete Bias&#39; in AI: Why LLMs Prefer Feature Bloat Over Minimalism](https://dev.to/arunkumars08/the-concrete-bias-in-ai-why-llms-prefer-feature-bloat-over-minimalism-9bm)
-- [Unlocking Go’s sync.Cond: The Dinner Bell Pattern](https://dev.to/thepeyman/unlocking-gos-synccond-the-dinner-bell-pattern-lci)
-- [I Built a Claude Code Plugin That Unifies 10 AI Image Providers](https://dev.to/merlin_rabens_932227317eb/i-built-a-claude-code-plugin-that-unifies-10-ai-image-providers-5gpd)
-- [🚀 Como criar um novo projeto Spring Boot](https://dev.to/thiagoematos/como-criar-um-novo-projeto-spring-boot-36pj)
-- [Automad 2.0 Beta, the Next-Level CMS](https://dev.to/marcantondahmen/automad-20-beta-the-next-level-cms-1n39)
+- [Building Vroom AI: A Multi-Agent Architecture for Intelligent Driving Education](https://dev.to/steravy/building-vroom-ai-a-multi-agent-architecture-for-intelligent-driving-education-4h79)
+- [🎯_Microservices_Performance_Tuning_Practical[20251229190647]](https://dev.to/member_6331818c/microservicesperformancetuningpractical20251229190647-dg9)
+- [When Data Breaches Become Loyalty Programs: How $1.17 Billion in Vouchers Broke the Security Incentive Model](https://dev.to/zeroblind25/when-data-breaches-become-loyalty-programs-how-117-billion-in-vouchers-broke-the-security-533g)
+- [Advanced Project Planning with Microsoft Planner: How Dependencies and Critical Path Keep Projects on Track?](https://dev.to/alexrodovit/advanced-project-planning-with-microsoft-planner-how-dependencies-and-critical-path-keep-projects-22m5)
+- [BEVDet: High-performance Multi-camera 3D Object Detection in Bird-Eye-View](https://dev.to/paperium/bevdet-high-performance-multi-camera-3d-object-detection-in-bird-eye-view-4f2e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
