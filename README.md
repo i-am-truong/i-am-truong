@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [MAF Agents with Azure AI Foundry Project](https://dev.to/gonzasosa/maf-agents-with-azure-ai-foundry-project-eam)
 - [AWS DevOps Agent: 10 best practices to get the most out of It](https://dev.to/aws-builders/aws-devops-agent-10-best-practices-to-get-the-most-out-of-it-do7)
 - [Don’t Worship the Toaster &lpar;and Other Rules for Using AI Without Losing Agency&rpar;](https://dev.to/duplessisvanaswegen/dont-worship-the-toaster-and-other-rules-for-using-ai-without-losing-agency-42al)
 - [184 Theorems, Zero Sorry How We Formally Verified a Multi-Chain Protocol](https://dev.to/chronosvault/184-theorems-zero-sorry-how-we-formally-verified-a-multi-chain-protocol-57g9)
 - [Mastering Claude’s Research Tool: A Practical Guide](https://dev.to/criticalmynd/mastering-claudes-research-tool-a-practical-guide-465d)
-- [Open Source is Not Just for Hacktoberfest](https://dev.to/sachinchaurasiya/open-source-is-not-just-for-hacktoberfest-2i38)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
