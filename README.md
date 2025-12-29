@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How Ola &amp; Uber Drivers Earn ₹1.2 Lakh Monthly in India](https://dev.to/nandini_878fbd65bbcf3c96e/how-ola-uber-drivers-earn-12-lakh-monthly-in-india-481m)
+- [Stop Writing User Stories for AI. Start Writing Specs.](https://dev.to/jmontagne/stop-writing-user-stories-for-ai-start-writing-specs-ea5)
+- [Community Pharmacies vs Big Chains in Manhattan: What Locals Need to Know](https://dev.to/stanthonyrx/community-pharmacies-vs-big-chains-in-manhattan-what-locals-need-to-know-4fm9)
+- [NVM Install Guide - Node Version Manager](https://dev.to/ayuday/nvm-install-guide-node-version-manager-18d8)
 - [AZ-700: Shaping the Future of Azure Networking – Industry Trends &amp; Strategic Outlook](https://dev.to/toont1967/az-700-shaping-the-future-of-azure-networking-industry-trends-strategic-outlook-174f)
-- [Factorial](https://dev.to/highcenburg/factorial-13am)
-- [Why Your Vue App Is Reactive Too Much &lpar;and How to Fix It&rpar;](https://dev.to/jacobandrewsky/why-your-vue-app-is-reactive-too-much-and-how-to-fix-it-4n7m)
-- [Building CodeAnswr: How I combined Stack Overflow with AI using SvelteKit + Cloudflare](https://dev.to/mobin_poursalami_f30352a2/building-codeanswr-how-i-combined-stack-overflow-with-ai-using-sveltekit-cloudflare-11m0)
-- [I want people to document their entire lives from childhood to adulthood.](https://dev.to/hushuai_wang_29fb41896f72/i-want-people-to-document-their-entire-lives-from-childhood-to-adulthood-37j8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
