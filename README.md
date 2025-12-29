@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT vs Claude vs Gemini: Which AI Tool Actually Works Best for Developers?](https://dev.to/a9kit_kumar/chatgpt-vs-claude-vs-gemini-which-ai-tool-actually-works-best-for-developers-1pid)
-- [Stop Waiting for Backend APIs: Introducing Fakelab, a TypeScript-First Mock Server](https://dev.to/alirezahematidev/stop-waiting-for-backend-apis-introducing-fakelab-a-typescript-first-mock-server-1ie6)
-- [Bundle a Gleam project into an AppImage with Nix](https://dev.to/comamoca/bundle-a-gleam-project-into-an-appimage-with-nix-66a)
-- [🔥_High_Concurrency_Framework_Choice_Tech_Decisions[20251229165950]](https://dev.to/member_8659c28a/highconcurrencyframeworkchoicetechdecisions20251229165950-3lal)
-- [30 Core Algorithm Ep:04- Two Pointers Technique](https://dev.to/aditya_singh_172b37651201/30-core-algorithm-ep04-two-pointers-technique-2nao)
+- [AWS DevOps Agent: 10 best practices to get the most out of It](https://dev.to/aws-builders/aws-devops-agent-10-best-practices-to-get-the-most-out-of-it-do7)
+- [Don’t Worship the Toaster &lpar;and Other Rules for Using AI Without Losing Agency&rpar;](https://dev.to/duplessisvanaswegen/dont-worship-the-toaster-and-other-rules-for-using-ai-without-losing-agency-42al)
+- [184 Theorems, Zero Sorry How We Formally Verified a Multi-Chain Protocol](https://dev.to/chronosvault/184-theorems-zero-sorry-how-we-formally-verified-a-multi-chain-protocol-57g9)
+- [Mastering Claude’s Research Tool: A Practical Guide](https://dev.to/criticalmynd/mastering-claudes-research-tool-a-practical-guide-465d)
+- [Open Source is Not Just for Hacktoberfest](https://dev.to/sachinchaurasiya/open-source-is-not-just-for-hacktoberfest-2i38)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
