@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Idle Consciousness: A Hegelian Reading of Human Servitude in the Age of AI](https://dev.to/bdovenbird/the-idle-consciousness-a-hegelian-reading-of-human-servitude-in-the-age-of-ai-1if8)
-- [Azure - Managed Identities - Complete Tutorial](https://dev.to/hkj13/azure-managed-identities-complete-tutorial-3i84)
-- [Introduce Parameter Object: A Refactoring Pattern That Scales](https://dev.to/codecraft_diary_3d13677fb/introduce-parameter-object-a-refactoring-pattern-that-scales-4981)
-- [From Plan-Perfectly to Try-and-Improve](https://dev.to/synthaicode_commander/from-plan-perfectly-to-try-and-improve-3f2c)
-- [SOLID Principles for Scientists and Engineers: Making Research Code Maintainable](https://dev.to/robjohnston/solid-principles-for-scientists-and-engineers-making-research-code-maintainable-10ei)
+- [Offline Geospatial Maps: Building a No-Internet Tile Server](https://dev.to/ben_var_551c679bfe4787c4f/offline-geospatial-maps-building-a-no-internet-tile-server-10gh)
+- [Making an Unconventional Move 5 Months Into Backend Development](https://dev.to/precixphantom/making-an-unconventional-move-5-months-into-backend-development-55bn)
+- [Understanding Beans in Spring: The Backbone of a Spring Application](https://dev.to/shashwathsh/understanding-beans-in-spring-the-backbone-of-a-spring-application-7ge)
+- [The Top 10 Most Critical Mobile Phone Security Threats in 2025](https://dev.to/pmpr/the-top-10-most-critical-mobile-phone-security-threats-in-2025-30j8)
+- [🚀AWS Community Builder 2026: Your Golden Ticket to Cloud Stardom!](https://dev.to/harshalpagar/aws-community-builder-2026-your-golden-ticket-to-cloud-stardom-3npe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
