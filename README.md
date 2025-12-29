@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Bga Buses &lpar;MUX Challenge&rpar;](https://dev.to/umi_84/bga-buses-mux-challenge-53c4)
-- [BProtector: Post-Quantum Steganography dApp on Solana – Hide Files Undetectably &lpar;Devnet Live&rpar;](https://dev.to/bobz_aa792a56ec14e9464370/bprotector-post-quantum-steganography-dapp-on-solana-hide-files-undetectably-devnet-live-10k3)
-- [Building My Own Automated Budget Tracker Using Notion](https://dev.to/cjoy/building-my-own-automated-budget-tracker-using-notion-3b03)
-- [Turning Complexity into Smart Simplicity in Learning Design](https://dev.to/pinedpidned3456/turning-complexity-into-smart-simplicity-in-learning-design-23jn)
-- [New Year&#39;s Resolution: Start a Brag Doc](https://dev.to/nataliaherself/new-years-resolution-start-a-brag-doc-4bif)
+- [I Built a Sales Visualizer for a Real Business Problem &lpar;Quantium Software Engineering Simulation&rpar;](https://dev.to/lfariaus/i-built-a-sales-visualizer-for-a-real-business-problem-quantium-software-engineering-simulation-4gfi)
+- [167. Two Sum II - Input Array Is Sorted | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/167-two-sum-ii-input-array-is-sorted-leetcode-top-interview-150-coding-questions-4lol)
+- [[Project Breakdown] Syncord: Encrypted File Storage via Discord](https://dev.to/krishsharma0413/project-breakdown-syncord-using-discord-as-file-storage-system-2l0c)
+- [AI Trading Daily Report: December 29, 2025 | $+240.36](https://dev.to/igorganapolsky/ai-trading-daily-report-december-29-2025-24036-5fib)
+- [CVE-2025-14847: MongoDB and MongoDB Server Improper Handling of Length Parameter Inconsistency Vulnerability](https://dev.to/freedom-coder/cve-2025-14847-mongodb-and-mongodb-server-improper-handling-of-length-parameter-inconsistency-3f8n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
