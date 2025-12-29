@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Control Your Space or You Lose Your Mind Working Remote](https://dev.to/colesilverstone/control-your-space-or-you-lose-your-mind-working-remote-1h12)
-- [React Native 0.83 for Production Teams: Better DevTools, Better Tracing, Less Risk](https://dev.to/alissongoulartt/react-native-083-for-production-teams-better-devtools-better-tracing-less-risk-5ggk)
-- [Org-Level Email Campaigns are Somehow an Unsolved Problem](https://dev.to/skeptrune/org-level-email-campaigns-are-somehow-an-unsolved-problem-58ga)
-- [Go WebSocket Programming: Build Real-Time Apps with Ease](https://dev.to/jones_charles_ad50858dbc0/go-websocket-programming-build-real-time-apps-with-ease-1o57)
-- [Systems, Stories, and Skills: A 2025 Year in Review](https://dev.to/prince_of_pasta/systems-stories-and-skills-a-2025-year-in-review-3jln)
+- [Habit Tracking Without Accounts, Cloud Sync, or Data Collection](https://dev.to/techno_kraft_in/habit-tracking-without-accounts-cloud-sync-or-data-collection-3h0a)
+- [SafeLine: The Open-Source WAF That Holds the Line Until Your Code is Ready](https://dev.to/arina_cholee/safeline-the-open-source-waf-that-holds-the-line-until-your-code-is-ready-l26)
+- [Academic Suite Authentication &amp; Authorization](https://dev.to/insight105/academic-suite-authentication-authorization-49dl)
+- [Academic Suite Database Design](https://dev.to/insight105/academic-suite-database-design-51jn)
+- [Selecting Electrical Components for Double Girder Gantry Cranes in Harsh Environments](https://dev.to/aicraneblog/selecting-electrical-components-for-double-girder-gantry-cranes-in-harsh-environments-2k5g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
