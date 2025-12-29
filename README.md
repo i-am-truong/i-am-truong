@@ -120,13 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Optimiza tus recursos con un monitoreo efectivo de costos en AWS Lambdas usando Terraform
-
-¡Descubre cómo puedes maximizar la eficiencia de tus aplicaciones serverless!](https://dev.to/valaug/optimiza-tus-recursos-con-un-monitoreo-efectivo-de-costos-en-aws-lambdas-usando-terraform-2n1j)
-- [How I built 300+ backlinks for my SaaS without outreach](https://dev.to/hansplg953/how-i-built-300-backlinks-for-my-saas-without-outreach-44e)
-- [Building Centralized Documentation Across Microservices with Docusaurus, GitLab CI, and TypeDoc](https://dev.to/piotr_pomierski/building-centralized-documentation-across-microservices-with-docusaurus-gitlab-ci-and-typedoc-5a7d)
-- [I revived an abandoned Spotify terminal client and added native streaming](https://dev.to/largemodgames/i-revived-an-abandoned-spotify-terminal-client-and-added-native-streaming-2joh)
-- [Reason Your Python Code is Hard to Test with Single Responsibility Principle, And How to Fix It! &lpar;Portuguese version&rpar;](https://dev.to/sertaoseracloud/reason-your-python-code-is-hard-to-test-with-single-responsibility-principle-and-how-to-fix-it-3no1)
+- [How was your 2025?](https://dev.to/devteam/how-was-your-2025-5gdn)
+- [Kubernetes Interview Questions &amp; Answers &lpar;Professional – 6 Years Experience&rpar;](https://dev.to/jumptotech/kubernetes-interview-questions-answersprofessional-6-years-experience-14h5)
+- [Day 36 of improving my Data Science skills](https://dev.to/sp_the_data_specialist/day-36-of-improving-my-data-science-skills-2pa4)
+- [🚀 O melhor dos dois mundos: Entenda o Partial Pre-Rendering &lpar;PPR&rpar;](https://dev.to/nathdev/o-melhor-dos-dois-mundos-entenda-o-partial-pre-rendering-ppr-295f)
+- [Carbon Emissions and Large Neural Network Training](https://dev.to/paperium/carbon-emissions-and-large-neural-network-training-57e5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
