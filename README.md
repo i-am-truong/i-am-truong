@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Notes from a Developer Who Learned to Slow Down](https://dev.to/sergueyasaelshinder/notes-from-a-developer-who-learned-to-slow-down-95j)
-- [Remote backend and State locking using S3 in terraform.](https://dev.to/rohanan07/remote-backend-and-state-locking-using-s3-in-terraform-41bk)
-- [How to enable preemptive response in AI Voice Agents](https://dev.to/chaitrali_kakde/how-to-enable-preemptive-response-in-ai-voice-agents-4j75)
-- [How to Create Never-Ending Fun &lpar;🎢RollerCoaster.js + React Three Fiber + AI&rpar;](https://dev.to/webdeveloperhyper/how-to-create-never-ending-fun-rollercoasterjs-react-three-fiber-ai-57c5)
-- [Unified Data Fabric: Serverless Spark on ROSA Integrating with AWS Glue Catalog](https://dev.to/mgonzalezo/unified-data-fabric-serverless-spark-on-rosa-integrating-with-aws-glue-catalog-9bb)
+- [WBS vs Agile? There&#39;s No Such Opposition](https://dev.to/_jeongyuhyeon_03de1/wbs-vs-agile-theres-no-such-opposition-51b9)
+- [🌐 Strengthening the Security Pillar of the AWS Well-Architected Framework: Introducing EC2 Instance Attestation](https://dev.to/morekiranp/strengthening-the-security-pillar-of-the-aws-well-architected-framework-introducing-ec2-instance-4mcb)
+- [How To Automatically Submit Sitemap To Google Programmatically](https://dev.to/eunit/how-to-automatically-submit-sitemap-to-google-programmatically-1gbn)
+- [Salesforce integration failures with external systems](https://dev.to/selavina_b_de3b87f13c96a6/salesforce-integration-failures-with-external-systems-4n5a)
+- [Tech Horror Codex: Substrate Sovereignty](https://dev.to/narnaiezzsshaa/tech-horror-codex-substrate-sovereignty-5fhn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
