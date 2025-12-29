@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Notes from a Developer Who Learned to Slow Down](https://dev.to/sergueyasaelshinder/notes-from-a-developer-who-learned-to-slow-down-95j)
+- [Remote backend and State locking using S3 in terraform.](https://dev.to/rohanan07/remote-backend-and-state-locking-using-s3-in-terraform-41bk)
 - [How to enable preemptive response in AI Voice Agents](https://dev.to/chaitrali_kakde/how-to-enable-preemptive-response-in-ai-voice-agents-4j75)
 - [How to Create Never-Ending Fun &lpar;🎢RollerCoaster.js + React Three Fiber + AI&rpar;](https://dev.to/webdeveloperhyper/how-to-create-never-ending-fun-rollercoasterjs-react-three-fiber-ai-57c5)
 - [Unified Data Fabric: Serverless Spark on ROSA Integrating with AWS Glue Catalog](https://dev.to/mgonzalezo/unified-data-fabric-serverless-spark-on-rosa-integrating-with-aws-glue-catalog-9bb)
-- [The &quot;And&quot; Test: How I Spot a Monster Function Before it Bites Me](https://dev.to/doogal/the-and-test-how-i-spot-a-monster-function-before-it-bites-me-2o18)
-- [Failures we don&#39;t model correctly](https://dev.to/y9vad9/failures-we-dont-model-correctly-2hbo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
