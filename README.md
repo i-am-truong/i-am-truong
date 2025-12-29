@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [New in Vue - December 2025](https://dev.to/aloisseckar/new-in-vue-december-2025-1hk0)
-- [Why RAG is the Future of Search &lpar;And How Elastic Search Makes it Possible &rpar;](https://dev.to/ubcodes/why-rag-is-the-future-of-search-and-how-elastic-search-makes-it-possible--47nb)
-- [CSRF in the Modern Era: Do you actually need tokens in a decoupled React/Node app?](https://dev.to/rishi-hustler/csrf-in-the-modern-era-do-you-actually-need-tokens-in-a-decoupled-reactnode-app-e5p)
-- [The Silent Leak: Why Sensitive Data Masking is Your Most Critical Log Strategy](https://dev.to/rishi-hustler/the-silent-leak-why-sensitive-data-masking-is-your-most-critical-log-strategy-36gb)
-- [Thoughts on Building a GUI Workflow Around scrcpy &lpar;ADB Device Manager Experiment&rpar;](https://dev.to/adb_devicemanager_20c75c/thoughts-on-building-a-gui-workflow-around-scrcpy-adb-device-manager-experiment-2nog)
+- [IA na Engenharia de Software: Revolução Inevitável ou Hype Bem Embalado?](https://dev.to/vinicius3w/ia-na-engenharia-de-software-revolucao-inevitavel-ou-hype-bem-embalado-25ni)
+- [MediaPipe Hands: On-device Real-time Hand Tracking](https://dev.to/paperium/mediapipe-hands-on-device-real-time-hand-tracking-3nd1)
+- [mise.toml in Immich codebase.](https://dev.to/ramunarasinga-11/misetoml-in-immich-codebase-2o95)
+- [🔒_Security_Performance_Balance](https://dev.to/member_8659c28a/securityperformancebalance-1cia)
+- [I built a romantic app to surprise my wife. See what I learned from it.](https://dev.to/jxnata/i-built-a-romantic-app-to-surprise-my-wife-see-what-i-learned-from-it-16b2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
