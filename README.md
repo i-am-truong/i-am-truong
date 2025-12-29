@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Habit Tracking Without Accounts, Cloud Sync, or Data Collection](https://dev.to/techno_kraft_in/habit-tracking-without-accounts-cloud-sync-or-data-collection-3h0a)
-- [SafeLine: The Open-Source WAF That Holds the Line Until Your Code is Ready](https://dev.to/arina_cholee/safeline-the-open-source-waf-that-holds-the-line-until-your-code-is-ready-l26)
-- [Academic Suite Authentication &amp; Authorization](https://dev.to/insight105/academic-suite-authentication-authorization-49dl)
-- [Academic Suite Database Design](https://dev.to/insight105/academic-suite-database-design-51jn)
-- [Selecting Electrical Components for Double Girder Gantry Cranes in Harsh Environments](https://dev.to/aicraneblog/selecting-electrical-components-for-double-girder-gantry-cranes-in-harsh-environments-2k5g)
+- [Compliance 4.0: Integrating Finance, Data and Cyber in U.S. Firms](https://dev.to/md_tauhidhossainrubel_f/compliance-40-integrating-finance-data-and-cyber-in-us-firms-2bi)
+- [How Monetzly Turns AI Conversations into Profitable Developer Revenue Streams](https://dev.to/monetzly/how-monetzly-turns-ai-conversations-into-profitable-developer-revenue-streams-2neh)
+- [Coding Rust with Claude Code and Codex](https://dev.to/tigranbs/coding-rust-with-claude-code-and-codex-2c4j)
+- [What is Technical Writing For B2B SaaS Companies?](https://dev.to/infrasity-learning/what-is-technical-writing-for-b2b-saas-companies-kkn)
+- [Old Tree, New Blossoms: Equipping Moving Average Strategies with an AI Brain](https://dev.to/chronosquant/old-tree-new-blossoms-equipping-moving-average-strategies-with-an-ai-brain-4a63)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
