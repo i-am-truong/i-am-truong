@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [InfraForge v1.0.0 Launch](https://dev.to/infraforgelabs/infraforge-v100-launch-jgh)
+- [How Do I Track My Employee Time and Attendance?](https://dev.to/tracko/how-do-i-track-my-employee-time-and-attendance-1783)
+- [SwiftUI Hit-Testing &amp; Event Propagation Internals](https://dev.to/sebastienlato/swiftui-hit-testing-event-propagation-internals-2106)
 - [Building Vroom AI: A Multi-Agent Architecture for Intelligent Driving Education](https://dev.to/steravy/building-vroom-ai-a-multi-agent-architecture-for-intelligent-driving-education-4h79)
 - [When Data Breaches Become Loyalty Programs: How $1.17 Billion in Vouchers Broke the Security Incentive Model](https://dev.to/zeroblind25/when-data-breaches-become-loyalty-programs-how-117-billion-in-vouchers-broke-the-security-533g)
-- [Advanced Project Planning with Microsoft Planner: How Dependencies and Critical Path Keep Projects on Track?](https://dev.to/alexrodovit/advanced-project-planning-with-microsoft-planner-how-dependencies-and-critical-path-keep-projects-22m5)
-- [The &#39;Concrete Bias&#39; in AI: Why LLMs Prefer Feature Bloat Over Minimalism](https://dev.to/arunkumars08/the-concrete-bias-in-ai-why-llms-prefer-feature-bloat-over-minimalism-9bm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
