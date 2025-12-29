@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building an Offline-First React Native App with Appwrite: A Practical Architecture Guide](https://dev.to/ubcodes/building-an-offline-first-react-native-app-with-appwrite-a-practical-architecture-guide-16p)
-- [Developer Spotlight: Granular OAuth consent and publishing to the Workspace Marketplace](https://dev.to/googleworkspace/developer-spotlight-granular-oauth-consent-and-publishing-to-the-workspace-marketplace-12cf)
-- [Meme Monday](https://dev.to/ben/meme-monday-4djh)
-- [What System Migration Really Is &lpar;And Why It’s Not Database Migration&rpar;](https://dev.to/muhammadalhrake/what-system-migration-really-is-and-why-its-not-database-migration-3bdh)
-- [PR reviews are dead](https://dev.to/mikesol/pr-reviews-are-dead-k2k)
+- [The Idle Consciousness: A Hegelian Reading of Human Servitude in the Age of AI](https://dev.to/bdovenbird/the-idle-consciousness-a-hegelian-reading-of-human-servitude-in-the-age-of-ai-1if8)
+- [Azure - Managed Identities - Complete Tutorial](https://dev.to/hkj13/azure-managed-identities-complete-tutorial-3i84)
+- [Introduce Parameter Object: A Refactoring Pattern That Scales](https://dev.to/codecraft_diary_3d13677fb/introduce-parameter-object-a-refactoring-pattern-that-scales-4981)
+- [From Plan-Perfectly to Try-and-Improve](https://dev.to/synthaicode_commander/from-plan-perfectly-to-try-and-improve-3f2c)
+- [SOLID Principles for Scientists and Engineers: Making Research Code Maintainable](https://dev.to/robjohnston/solid-principles-for-scientists-and-engineers-making-research-code-maintainable-10ei)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
