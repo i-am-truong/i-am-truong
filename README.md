@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Offline Geospatial Maps: Building a No-Internet Tile Server](https://dev.to/ben_var_551c679bfe4787c4f/offline-geospatial-maps-building-a-no-internet-tile-server-10gh)
-- [Making an Unconventional Move 5 Months Into Backend Development](https://dev.to/precixphantom/making-an-unconventional-move-5-months-into-backend-development-55bn)
-- [Understanding Beans in Spring: The Backbone of a Spring Application](https://dev.to/shashwathsh/understanding-beans-in-spring-the-backbone-of-a-spring-application-7ge)
-- [The Top 10 Most Critical Mobile Phone Security Threats in 2025](https://dev.to/pmpr/the-top-10-most-critical-mobile-phone-security-threats-in-2025-30j8)
-- [🚀AWS Community Builder 2026: Your Golden Ticket to Cloud Stardom!](https://dev.to/harshalpagar/aws-community-builder-2026-your-golden-ticket-to-cloud-stardom-3npe)
+- [New in Vue - December 2025](https://dev.to/aloisseckar/new-in-vue-december-2025-1hk0)
+- [Why RAG is the Future of Search &lpar;And How Elastic Search Makes it Possible &rpar;](https://dev.to/ubcodes/why-rag-is-the-future-of-search-and-how-elastic-search-makes-it-possible--47nb)
+- [CSRF in the Modern Era: Do you actually need tokens in a decoupled React/Node app?](https://dev.to/rishi-hustler/csrf-in-the-modern-era-do-you-actually-need-tokens-in-a-decoupled-reactnode-app-e5p)
+- [The Silent Leak: Why Sensitive Data Masking is Your Most Critical Log Strategy](https://dev.to/rishi-hustler/the-silent-leak-why-sensitive-data-masking-is-your-most-critical-log-strategy-36gb)
+- [Thoughts on Building a GUI Workflow Around scrcpy &lpar;ADB Device Manager Experiment&rpar;](https://dev.to/adb_devicemanager_20c75c/thoughts-on-building-a-gui-workflow-around-scrcpy-adb-device-manager-experiment-2nog)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
