@@ -120,11 +120,13 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [InfraForge v1.0.0 Launch](https://dev.to/infraforgelabs/infraforge-v100-launch-jgh)
-- [How Do I Track My Employee Time and Attendance?](https://dev.to/tracko/how-do-i-track-my-employee-time-and-attendance-1783)
-- [SwiftUI Hit-Testing &amp; Event Propagation Internals](https://dev.to/sebastienlato/swiftui-hit-testing-event-propagation-internals-2106)
-- [Building Vroom AI: A Multi-Agent Architecture for Intelligent Driving Education](https://dev.to/steravy/building-vroom-ai-a-multi-agent-architecture-for-intelligent-driving-education-4h79)
-- [When Data Breaches Become Loyalty Programs: How $1.17 Billion in Vouchers Broke the Security Incentive Model](https://dev.to/zeroblind25/when-data-breaches-become-loyalty-programs-how-117-billion-in-vouchers-broke-the-security-533g)
+- [Optimiza tus recursos con un monitoreo efectivo de costos en AWS Lambdas usando Terraform
+
+¡Descubre cómo puedes maximizar la eficiencia de tus aplicaciones serverless!](https://dev.to/valaug/optimiza-tus-recursos-con-un-monitoreo-efectivo-de-costos-en-aws-lambdas-usando-terraform-2n1j)
+- [How I built 300+ backlinks for my SaaS without outreach](https://dev.to/hansplg953/how-i-built-300-backlinks-for-my-saas-without-outreach-44e)
+- [Building Centralized Documentation Across Microservices with Docusaurus, GitLab CI, and TypeDoc](https://dev.to/piotr_pomierski/building-centralized-documentation-across-microservices-with-docusaurus-gitlab-ci-and-typedoc-5a7d)
+- [I revived an abandoned Spotify terminal client and added native streaming](https://dev.to/largemodgames/i-revived-an-abandoned-spotify-terminal-client-and-added-native-streaming-2joh)
+- [Reason Your Python Code is Hard to Test with Single Responsibility Principle, And How to Fix It! &lpar;Portuguese version&rpar;](https://dev.to/sertaoseracloud/reason-your-python-code-is-hard-to-test-with-single-responsibility-principle-and-how-to-fix-it-3no1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
