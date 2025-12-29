@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why ‘Agentic AI’ Wows in Demos but Breaks in Real Life](https://dev.to/aiwithapex/why-agentic-ai-wows-in-demos-but-breaks-in-real-life-46ek)
-- [Java Full Stack Course in Telugu Reloaded: A Complete Learning Guide for Modern Developers](https://dev.to/adas_madasu_d145b19b61e81/java-full-stack-course-in-telugu-reloaded-a-complete-learning-guide-for-modern-developers-5amd)
-- [The Hardest Part of Learning to Code Isn’t Coding &lpar;What 2025 Taught Me&rpar;](https://dev.to/devolabode/the-hardest-part-of-learning-to-code-isnt-coding-what-2025-taught-me-46fd)
-- [What Makes Goose Different From Other AI Coding Agents](https://dev.to/nickytonline/what-makes-goose-different-from-other-ai-coding-agents-2edc)
-- [How to Choose Cheap Residential Proxies That Still Meet Rotation Needs and Trial-Value Expectations](https://dev.to/miller_proxy/how-to-choose-cheap-residential-proxies-that-still-meet-rotation-needs-and-trial-value-expectations-4ojk)
+- [Building a Mobile Tool After Facing Media Quality Issues as a Content Creator](https://dev.to/abdul_wahab_fe886de9acd8a/building-a-mobile-tool-after-facing-media-quality-issues-as-a-content-creator-3bo3)
+- [Why level up mag articles Are a Must-Read for Innovators and Creators](https://dev.to/levelup_magzine_abd2554b8/why-level-up-mag-articles-are-a-must-read-for-innovators-and-creators-3p7)
+- [My Substack Automation Journey](https://dev.to/dharmikk_baria_51b371d8c5/my-substack-automation-journey-fd0)
+- [How to Use Regex for Data Validation in the BoldSign API](https://dev.to/boldsign/how-to-use-regex-for-data-validation-in-the-boldsign-api-2j35)
+- [Accidental Research Before 20s: How It Started](https://dev.to/devamanali/accidental-research-at-15-how-it-started-2iii)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
