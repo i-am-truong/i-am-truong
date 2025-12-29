@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The &#39;Concrete Bias&#39; in AI: Why LLMs Prefer Feature Bloat Over Minimalism](https://dev.to/arunkumars08/the-concrete-bias-in-ai-why-llms-prefer-feature-bloat-over-minimalism-9bm)
 - [Unlocking Go’s sync.Cond: The Dinner Bell Pattern](https://dev.to/thepeyman/unlocking-gos-synccond-the-dinner-bell-pattern-lci)
+- [I Built a Claude Code Plugin That Unifies 10 AI Image Providers](https://dev.to/merlin_rabens_932227317eb/i-built-a-claude-code-plugin-that-unifies-10-ai-image-providers-5gpd)
 - [🚀 Como criar um novo projeto Spring Boot](https://dev.to/thiagoematos/como-criar-um-novo-projeto-spring-boot-36pj)
 - [Automad 2.0 Beta, the Next-Level CMS](https://dev.to/marcantondahmen/automad-20-beta-the-next-level-cms-1n39)
-- [Storage for Kata Containers - 9pfs vs virtio-blk](https://dev.to/gansvv/storage-for-kata-containers-9pfs-vs-virtio-blk-f6n)
-- [How Strategic Technical Due Diligence Accelerates Digital Growth](https://dev.to/shubhamthakoredev/how-strategic-technical-due-diligence-accelerates-digital-growth-486n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
