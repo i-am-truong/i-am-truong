@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to AWS AI Concepts: A Beginner&#39;s Guide](https://dev.to/aws-builders/introduction-to-aws-ai-concepts-a-beginners-guide-16i8)
-- [EP 14: The Rate Limit War - Stopping Brute Force and Bot](https://dev.to/hrishikesh_dalal_ced8f95e/ep-14-the-rate-limit-war-stopping-brute-force-and-bot-4mbo)
-- [👥 AWS 117: Managing the Crowd - Creating Your First IAM Group](https://dev.to/hritikraj8804/aws-117-managing-the-crowd-creating-your-first-iam-group-2pf4)
-- [Scrapy Signals: The Complete Beginner&#39;s Guide &lpar;Make Your Spider Talk to You&rpar;](https://dev.to/ikram_khan/scrapy-signals-the-complete-beginners-guide-make-your-spider-talk-to-you-29lf)
-- [EP 13: SQL Injection Isn&#39;t Dead - It Just Evolved](https://dev.to/hrishikesh_dalal_ced8f95e/ep-13-sql-injection-isnt-dead-it-just-evolved-2fb)
+- [Why ‘Agentic AI’ Wows in Demos but Breaks in Real Life](https://dev.to/aiwithapex/why-agentic-ai-wows-in-demos-but-breaks-in-real-life-46ek)
+- [Java Full Stack Course in Telugu Reloaded: A Complete Learning Guide for Modern Developers](https://dev.to/adas_madasu_d145b19b61e81/java-full-stack-course-in-telugu-reloaded-a-complete-learning-guide-for-modern-developers-5amd)
+- [The Hardest Part of Learning to Code Isn’t Coding &lpar;What 2025 Taught Me&rpar;](https://dev.to/devolabode/the-hardest-part-of-learning-to-code-isnt-coding-what-2025-taught-me-46fd)
+- [What Makes Goose Different From Other AI Coding Agents](https://dev.to/nickytonline/what-makes-goose-different-from-other-ai-coding-agents-2edc)
+- [How to Choose Cheap Residential Proxies That Still Meet Rotation Needs and Trial-Value Expectations](https://dev.to/miller_proxy/how-to-choose-cheap-residential-proxies-that-still-meet-rotation-needs-and-trial-value-expectations-4ojk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
