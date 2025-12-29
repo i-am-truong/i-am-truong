@@ -120,11 +120,13 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Sequential promise chain and promise chunking in javascript](https://dev.to/thekhairul/sequential-promise-chain-and-promise-chunking-in-javascript-4dc0)
-- [Integrating .NET Aspire with WinampToSpotify Project - 1](https://dev.to/atahanceylan/integrating-net-aspire-with-winamptospotify-project-1-3c3m)
-- [Stop Forcing Local Shops to Build Apps - WhatsApp Is Already Enough](https://dev.to/chotu_693eaa99c4cdc1f570a/stop-forcing-local-shops-to-build-apps-whatsapp-is-already-enough-17k3)
-- [Turn your text into an immersive audio-visual experience.](https://dev.to/techno_kraft_in/turn-your-text-into-an-immersive-audio-visual-experience-3p64)
-- [BigCommerce Plugin Development: Everything You Need to Know](https://dev.to/henrydavid/bigcommerce-plugin-development-everything-you-need-to-know-1188)
+- [Shared a short post on CI/CD feeling heavy even when it works.
+Moved from GitHub Actions Ansible + Jenkins
+Curious how others here navigated this phase.](https://dev.to/nightwalker28/shared-a-short-post-on-cicd-feeling-heavy-even-when-it-works-moved-from-github-actions-ansible-1off)
+- [Understanding Proxy Patterns: The Why and How of Static and Dynamic Proxies in Java](https://dev.to/rajatarora/understanding-proxy-patterns-the-why-and-how-of-static-and-dynamic-proxies-in-java-h1g)
+- [Help, My Laravel API Call is Ghosting Me: A 503 Horror Story](https://dev.to/timadey/help-my-laravel-api-call-is-ghosting-me-a-503-horror-story-40m4)
+- [Why Choosing the Right _Martial Arts Classes Near Me_ Matters](https://dev.to/karate_academy/why-choosing-the-right-martial-arts-classes-near-me-matters-aap)
+- [Git for Beginners: Basics and Essential Commands](https://dev.to/bhupeshchandrajoshi/git-for-beginners-basics-and-essential-commands-38o9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
