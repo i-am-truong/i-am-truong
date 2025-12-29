@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Ola &amp; Uber Drivers Earn ₹1.2 Lakh Monthly in India](https://dev.to/nandini_878fbd65bbcf3c96e/how-ola-uber-drivers-earn-12-lakh-monthly-in-india-481m)
-- [Stop Writing User Stories for AI. Start Writing Specs.](https://dev.to/jmontagne/stop-writing-user-stories-for-ai-start-writing-specs-ea5)
-- [Community Pharmacies vs Big Chains in Manhattan: What Locals Need to Know](https://dev.to/stanthonyrx/community-pharmacies-vs-big-chains-in-manhattan-what-locals-need-to-know-4fm9)
-- [NVM Install Guide - Node Version Manager](https://dev.to/ayuday/nvm-install-guide-node-version-manager-18d8)
-- [AZ-700: Shaping the Future of Azure Networking – Industry Trends &amp; Strategic Outlook](https://dev.to/toont1967/az-700-shaping-the-future-of-azure-networking-industry-trends-strategic-outlook-174f)
+- [DNS Automation for Multi-Tenant SaaS on CloudFlare](https://dev.to/alexisfranorge/dns-automation-for-multi-tenant-saas-on-cloudflare-2ag7)
+- [the developer’s &quot;writer&#39;s block&quot;: the &quot;already done&quot; trap and why you should build it anyway](https://dev.to/siliconcatalyst/the-developers-writers-block-the-already-done-trap-and-why-you-should-build-it-anyway-374b)
+- [Create your own ChatGPT using SageMaker Python SDK V3](https://dev.to/rgurung_sr/create-your-own-chatgpt-using-sagemaker-python-sdk-v3-3fnd)
+- [Java Find and Replace Values in Excel Files](https://dev.to/lu_liu_e3fc806354d9a952b7/java-find-and-replace-values-in-excel-files-4j42)
+- [10 Most Beautiful Places to Visit in Switzerland in 2026 – Top Attractions](https://dev.to/lily_brown_9a282a38259a17/10-most-beautiful-places-to-visit-in-switzerland-in-2026-top-attractions-51l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
