@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Migrate Droplet from DO to AWS using AWS Migration Application Service &lpar;MGN&rpar;](https://dev.to/namlahai9/migrate-droplet-from-do-to-aws-using-aws-migration-application-service-mgn-o93)
-- [Playwright: Web Scraping &amp; Testing](https://dev.to/rosgluk/playwright-web-scraping-testing-3fc1)
-- [Steady Queue: a Redis-less task backend for Django](https://dev.to/knifecake/steady-queue-a-redis-less-task-backend-for-django-4l6g)
-- [Looking for Short-term Web Dev &amp; Writing Gigs &lpar;2 months&rpar;](https://dev.to/casperday11/looking-for-short-term-web-dev-writing-gigs-2-months-ajm)
-- [The Security Gap in AI Agent Ecosystems: A Deep Dive into Static Analysis for Claude Skills](https://dev.to/beck_moulton/the-security-gap-in-ai-agent-ecosystems-a-deep-dive-into-static-analysis-for-claude-skills-5cbk)
+- [How Rapido Drivers Earn 80,000 Per Month in India](https://dev.to/vandna_yadav_e81f937bbf9d/how-rapido-drivers-earn-80000-per-month-in-india-18o8)
+- [🎮 Day 3 – Understanding GDD &lpar;Game Design Document&rpar;](https://dev.to/dinesh_04/day-3-understanding-gdd-game-design-document-ddm)
+- [The Ultimate LLM Inference Battle: vLLM vs. Ollama vs. ZML](https://dev.to/worldlinetech/the-ultimate-llm-inference-battle-vllm-vs-ollama-vs-zml-m97)
+- [Kubernetes In-Place Pod Resize](https://dev.to/alikhil/kubernetes-in-place-pod-resize-454i)
+- [Regression testing workflow: the risk first checks that keep releases stable](https://dev.to/kelina_cowell_qa/regression-testing-workflow-the-risk-first-checks-that-keep-releases-stable-3ed1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
