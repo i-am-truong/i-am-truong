@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI-Powered Code Editor: &lpar;part 2&rpar; LLM like interpreter](https://dev.to/francesco_marconi_282058b/building-an-ai-powered-code-editor-part-2-llm-like-interpreter-4oi)
-- [Translating internal domain events into HTTP webhooks using Symfony. Noticed there were no docs, posts about sending webhooks with Symfony, so I wrote this. The pattern otherwise is language/framework agnostic.](https://dev.to/faizan/translating-internal-domain-events-into-http-webhooks-using-symfony-noticed-there-were-no-docs-3i7b)
-- [Coding Challenge Practice - Question 90](https://dev.to/tomivan/coding-challenge-practice-question-90-5dgd)
-- [Networking for DevOps &lpar;Senior-Level, Production-Focused&rpar;](https://dev.to/jumptotech/networking-for-devops-senior-level-production-focused-4k5f)
-- [🚀 Criar Endpoint POST /invoices](https://dev.to/thiagoematos/criar-endpoint-post-invoices-27ai)
+- [11. Container With Most Water | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/11-container-with-most-water-leetcode-top-interview-150-coding-questions-3ngi)
+- [🔄_Containerized_Deployment_Performance_Optimization[20251229230729]](https://dev.to/member_6331818c/containerizeddeploymentperformanceoptimization20251229230729-hmi)
+- [MariaDB &amp; MindsDB Turns WooCommerce Data to Insights with Real-Time AI Analytics for eCommerce Teams](https://dev.to/mindsdb/mariadb-mindsdb-turns-woocommerce-data-to-insights-with-real-time-ai-analytics-for-ecommerce-teams-3a9j)
+- [zustand-mmkv-storage: Blazing Fast Persistence for Zustand in React Native](https://dev.to/mehdifaraji/zustand-mmkv-storage-blazing-fast-persistence-for-zustand-in-react-native-3ef1)
+- [Turning Complexity into Smart Simplicity in Agile Environments](https://dev.to/onaabuen3455/turning-complexity-into-smart-simplicity-in-agile-environments-4jeb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
