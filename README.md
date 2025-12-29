@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Frontend Dünyasında Yeni Dönem: Tasarımdan Koda Otomasyon](https://dev.to/erhanaky/frontend-dunyasinda-yeni-donem-tasarimdan-koda-otomasyon-2bhb)
-- [Adding voice to your AI agent: A framework-agnostic integration pattern](https://dev.to/tigranbs/adding-voice-to-your-ai-agent-a-framework-agnostic-integration-pattern-1f02)
-- [Making MySQL Data Analysis and Reporting Easier](https://dev.to/__0bf10cd6f/making-mysql-data-analysis-and-reporting-easier-6fl)
-- [How ME ID Becomes the Identity Foundation of the Meta Earth World](https://dev.to/metaearth/how-me-id-becomes-the-identity-foundation-of-the-meta-earth-world-3p1j)
-- [Inside a Global Ransomware Raid — Technical Breakdown](https://dev.to/tor_bbb/inside-a-global-ransomware-raid-technical-breakdown-426a)
+- [Building Your Career in AI: Real Talk from the Trenches](https://dev.to/giolaq/building-your-career-in-ai-real-talk-from-the-trenches-40p)
+- [Open, vendor-neutral authoritative domain data consumed by AI systems, search, and other automated agents](https://dev.to/ai-domain-data/open-vendor-neutral-authoritative-domain-data-consumed-by-ai-systems-search-and-other-automated-3a2a)
+- [AWS Organizations: The Easy Way](https://dev.to/adehorizon/aws-organizations-the-easy-way-54pd)
+- [MindsDB Supercharges Google&#39;s MCP Toolbox with Unstructured Data Support](https://dev.to/mindsdb/mindsdb-supercharges-googles-mcp-toolbox-with-unstructured-data-support-4cch)
+- [Next.js 16 Yayınlandı: Yenilikler, Değişiklikler ve Geliştiriciler İçin Derinlemesine İnceleme](https://dev.to/erhanaky/nextjs-16-yayinlandi-yenilikler-degisiklikler-ve-gelistiriciler-icin-derinlemesine-inceleme-30la)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
