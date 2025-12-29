@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How was your 2025?](https://dev.to/devteam/how-was-your-2025-5gdn)
-- [How Rate Limiting Saved Me $500 in One Day &lpar;Real Story&rpar;](https://dev.to/aserrano/how-rate-limiting-saved-me-500-in-one-day-real-story-ajp)
-- [Sub-Second Voice Agent Latency: A Practical Architecture Guide](https://dev.to/tigranbs/sub-second-voice-agent-latency-a-practical-architecture-guide-4cg1)
-- [How to create a virtual environment in Visual Studio Code with Python](https://dev.to/robotwizard/how-to-create-a-virtual-environment-in-visual-studio-code-with-python-486p)
-- [I built a Python tool to hunt down Remote Access Trojans on Windows](https://dev.to/mentalistops/i-built-a-python-tool-to-hunt-down-remote-access-trojans-on-windows-3ian)
+- [Frontend Dünyasında Yeni Dönem: Tasarımdan Koda Otomasyon](https://dev.to/erhanaky/frontend-dunyasinda-yeni-donem-tasarimdan-koda-otomasyon-2bhb)
+- [Adding voice to your AI agent: A framework-agnostic integration pattern](https://dev.to/tigranbs/adding-voice-to-your-ai-agent-a-framework-agnostic-integration-pattern-1f02)
+- [Making MySQL Data Analysis and Reporting Easier](https://dev.to/__0bf10cd6f/making-mysql-data-analysis-and-reporting-easier-6fl)
+- [How ME ID Becomes the Identity Foundation of the Meta Earth World](https://dev.to/metaearth/how-me-id-becomes-the-identity-foundation-of-the-meta-earth-world-3p1j)
+- [Inside a Global Ransomware Raid — Technical Breakdown](https://dev.to/tor_bbb/inside-a-global-ransomware-raid-technical-breakdown-426a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
