@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Building an AI-Powered Code Editor: &lpar;part 2&rpar; LLM like interpreter](https://dev.to/francesco_marconi_282058b/building-an-ai-powered-code-editor-part-2-llm-like-interpreter-4oi)
+- [Translating internal domain events into HTTP webhooks using Symfony. Noticed there were no docs, posts about sending webhooks with Symfony, so I wrote this. The pattern otherwise is language/framework agnostic.](https://dev.to/faizan/translating-internal-domain-events-into-http-webhooks-using-symfony-noticed-there-were-no-docs-3i7b)
 - [Coding Challenge Practice - Question 90](https://dev.to/tomivan/coding-challenge-practice-question-90-5dgd)
 - [Networking for DevOps &lpar;Senior-Level, Production-Focused&rpar;](https://dev.to/jumptotech/networking-for-devops-senior-level-production-focused-4k5f)
 - [🚀 Criar Endpoint POST /invoices](https://dev.to/thiagoematos/criar-endpoint-post-invoices-27ai)
-- [I Built a Sales Visualizer for a Real Business Problem &lpar;Quantium Software Engineering Simulation&rpar;](https://dev.to/lfariaus/i-built-a-sales-visualizer-for-a-real-business-problem-quantium-software-engineering-simulation-4gfi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
