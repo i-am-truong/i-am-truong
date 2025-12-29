@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [5 React UI Component Libraries for your next Project](https://dev.to/riteshkokam/5-react-ui-component-libraries-for-your-next-project-2hn2)
-- [5 React UI Component Libraries for your next Project](https://dev.to/riteshkokam/5-react-ui-component-libraries-for-your-next-project-4le7)
-- [How to Fix Ubuntu Repository Mirror Errors](https://dev.to/mbjallow6/how-to-fix-ubuntu-repository-mirror-errors-6dn)
-- [Oracle AI Database 26ai — Wide Tables](https://dev.to/vahidusefzadeh/oracle-ai-database-26ai-wide-tables-31oj)
-- [Turning License Changes into Opportunity](https://dev.to/aws-builders/turning-license-changes-into-opportunity-1n35)
+- [ChatGPT vs Claude vs Gemini: Which AI Tool Actually Works Best for Developers?](https://dev.to/a9kit_kumar/chatgpt-vs-claude-vs-gemini-which-ai-tool-actually-works-best-for-developers-1pid)
+- [Stop Waiting for Backend APIs: Introducing Fakelab, a TypeScript-First Mock Server](https://dev.to/alirezahematidev/stop-waiting-for-backend-apis-introducing-fakelab-a-typescript-first-mock-server-1ie6)
+- [Bundle a Gleam project into an AppImage with Nix](https://dev.to/comamoca/bundle-a-gleam-project-into-an-appimage-with-nix-66a)
+- [🔥_High_Concurrency_Framework_Choice_Tech_Decisions[20251229165950]](https://dev.to/member_8659c28a/highconcurrencyframeworkchoicetechdecisions20251229165950-3lal)
+- [30 Core Algorithm Ep:04- Two Pointers Technique](https://dev.to/aditya_singh_172b37651201/30-core-algorithm-ep04-two-pointers-technique-2nao)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
