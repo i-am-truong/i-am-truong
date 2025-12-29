@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding TLS Fingerprinting and Building Browser-Identical HTTP Clients in Go](https://dev.to/sardanios/understanding-tls-fingerprinting-and-building-browser-identical-http-clients-in-go-2nh1)
-- [DEVOPS SSH &amp; NETWORKING PRACTICAL LAB](https://dev.to/jumptotech/devops-ssh-networking-practical-lab-51ap)
-- [Did Skills Kill MCP?](https://dev.to/goose_oss/did-skills-kill-mcp-3lk1)
-- [Binary Sovereignty: Stop Uploading Your Unreleased App to Strangers](https://dev.to/omnarayan/binary-sovereignty-stop-uploading-your-unreleased-app-to-strangers-4lfp)
-- [Optimizing AWS Lambda Performance: Balancing Power and Cost](https://dev.to/morekiranp/optimizing-aws-lambda-performance-balancing-power-and-cost-57k2)
+- [Control Your Space or You Lose Your Mind Working Remote](https://dev.to/colesilverstone/control-your-space-or-you-lose-your-mind-working-remote-1h12)
+- [React Native 0.83 for Production Teams: Better DevTools, Better Tracing, Less Risk](https://dev.to/alissongoulartt/react-native-083-for-production-teams-better-devtools-better-tracing-less-risk-5ggk)
+- [Org-Level Email Campaigns are Somehow an Unsolved Problem](https://dev.to/skeptrune/org-level-email-campaigns-are-somehow-an-unsolved-problem-58ga)
+- [Go WebSocket Programming: Build Real-Time Apps with Ease](https://dev.to/jones_charles_ad50858dbc0/go-websocket-programming-build-real-time-apps-with-ease-1o57)
+- [Systems, Stories, and Skills: A 2025 Year in Review](https://dev.to/prince_of_pasta/systems-stories-and-skills-a-2025-year-in-review-3jln)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
