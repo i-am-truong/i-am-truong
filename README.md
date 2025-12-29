@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Bga Buses &lpar;MUX Challenge&rpar;](https://dev.to/umi_84/bga-buses-mux-challenge-53c4)
+- [BProtector: Post-Quantum Steganography dApp on Solana – Hide Files Undetectably &lpar;Devnet Live&rpar;](https://dev.to/bobz_aa792a56ec14e9464370/bprotector-post-quantum-steganography-dapp-on-solana-hide-files-undetectably-devnet-live-10k3)
 - [Building My Own Automated Budget Tracker Using Notion](https://dev.to/cjoy/building-my-own-automated-budget-tracker-using-notion-3b03)
 - [Turning Complexity into Smart Simplicity in Learning Design](https://dev.to/pinedpidned3456/turning-complexity-into-smart-simplicity-in-learning-design-23jn)
 - [New Year&#39;s Resolution: Start a Brag Doc](https://dev.to/nataliaherself/new-years-resolution-start-a-brag-doc-4bif)
-- [Building Dreim Paper: A YouTube Shorts Pipeline for Reddit Poetry](https://dev.to/dreim/building-dreim-paper-a-youtube-shorts-pipeline-for-reddit-poetry-21p3)
-- [Turning Complexity into Smart Simplicity for Long-Term Thinking](https://dev.to/tantantan346/turning-complexity-into-smart-simplicity-for-long-term-thinking-l35)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
