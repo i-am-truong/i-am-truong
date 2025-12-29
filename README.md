@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Edge Cases Matter in Distributed Systems](https://dev.to/yoditdevn8n/why-edge-cases-matter-in-distributed-systems-5h8h)
-- [10 AI terms that will help you look like you&#39;re not completely lost](https://dev.to/develaper/10-ai-terms-that-will-help-you-look-like-youre-not-completely-lost-2648)
-- [Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, LongContext, and Next Generation Agentic Capabilities](https://dev.to/paperium/gemini-25-pushing-the-frontier-with-advanced-reasoning-multimodality-longcontext-and-next-ncm)
-- [Symfony AI 1.0: PHP’s Native AI Era Begins](https://dev.to/james_miller_8dc58a89cb9e/symfony-ai-10-phps-native-ai-era-begins-6n2)
-- [Terminal commands that actually save time ⏱️](https://dev.to/naseemkhandev/terminal-commands-that-actually-save-time-1a7c)
+- [Building an Offline-First React Native App with Appwrite: A Practical Architecture Guide](https://dev.to/ubcodes/building-an-offline-first-react-native-app-with-appwrite-a-practical-architecture-guide-16p)
+- [Developer Spotlight: Granular OAuth consent and publishing to the Workspace Marketplace](https://dev.to/googleworkspace/developer-spotlight-granular-oauth-consent-and-publishing-to-the-workspace-marketplace-12cf)
+- [Meme Monday](https://dev.to/ben/meme-monday-4djh)
+- [What System Migration Really Is &lpar;And Why It’s Not Database Migration&rpar;](https://dev.to/muhammadalhrake/what-system-migration-really-is-and-why-its-not-database-migration-3bdh)
+- [PR reviews are dead](https://dev.to/mikesol/pr-reviews-are-dead-k2k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
