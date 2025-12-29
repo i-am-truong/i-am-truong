@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [avro-phonetic-go: Avro-style Banglish to বাংলা transliteration in Go](https://dev.to/mhsajib/avro-phonetic-go-avro-style-banglish-to-baanlaa-transliteration-in-go-4f6d)
+- [When Your Database Goes Down for 25 Minutes: Building a Survival Cache](https://dev.to/sivagurunathanv/-when-your-database-goes-down-for-25-minutes-building-a-survival-cache-7bc)
 - [Building Your Career in AI: Real Talk from the Trenches](https://dev.to/giolaq/building-your-career-in-ai-real-talk-from-the-trenches-40p)
 - [Open, vendor-neutral authoritative domain data consumed by AI systems, search, and other automated agents](https://dev.to/ai-domain-data/open-vendor-neutral-authoritative-domain-data-consumed-by-ai-systems-search-and-other-automated-3a2a)
-- [AWS Organizations: The Easy Way](https://dev.to/adehorizon/aws-organizations-the-easy-way-54pd)
-- [MindsDB Supercharges Google&#39;s MCP Toolbox with Unstructured Data Support](https://dev.to/mindsdb/mindsdb-supercharges-googles-mcp-toolbox-with-unstructured-data-support-4cch)
-- [Next.js 16 Yayınlandı: Yenilikler, Değişiklikler ve Geliştiriciler İçin Derinlemesine İnceleme](https://dev.to/erhanaky/nextjs-16-yayinlandi-yenilikler-degisiklikler-ve-gelistiriciler-icin-derinlemesine-inceleme-30la)
+- [The standup isn’t 15 minutes. Here’s the math.](https://dev.to/ghostinit0x/the-standup-isnt-15-minutes-heres-the-math-h1e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
