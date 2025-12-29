@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Compliance 4.0: Integrating Finance, Data and Cyber in U.S. Firms](https://dev.to/md_tauhidhossainrubel_f/compliance-40-integrating-finance-data-and-cyber-in-us-firms-2bi)
-- [How Monetzly Turns AI Conversations into Profitable Developer Revenue Streams](https://dev.to/monetzly/how-monetzly-turns-ai-conversations-into-profitable-developer-revenue-streams-2neh)
-- [Coding Rust with Claude Code and Codex](https://dev.to/tigranbs/coding-rust-with-claude-code-and-codex-2c4j)
-- [What is Technical Writing For B2B SaaS Companies?](https://dev.to/infrasity-learning/what-is-technical-writing-for-b2b-saas-companies-kkn)
-- [Old Tree, New Blossoms: Equipping Moving Average Strategies with an AI Brain](https://dev.to/chronosquant/old-tree-new-blossoms-equipping-moving-average-strategies-with-an-ai-brain-4a63)
+- [💀 RIP Copy-Paste: Google NotebookLM Just Killed Manual Data Entry](https://dev.to/siddhesh_surve/rip-copy-paste-google-notebooklm-just-killed-manual-data-entry-2co8)
+- [Multi-Provider STT/TTS strategies: When and Why to Abstract Your Speech Stack](https://dev.to/tigranbs/multi-provider-stttts-strategies-when-and-why-to-abstract-your-speech-stack-2aio)
+- [React Native HealthKit: How to Build a Seamless Health Dashboard](https://dev.to/wellallytech/react-native-healthkit-how-to-build-a-seamless-health-dashboard-4ac1)
+- [CSS :has&lpar;&rpar; Selector Deep Dive: The Parent Selector That Changes Everything](https://dev.to/pockit_tools/css-has-selector-deep-dive-the-parent-selector-that-changes-everything-p77)
+- [WebP in 2025: reduce image size by 60–80% &lpar;client-side&rpar;](https://dev.to/allisson_faiad_e49f3d51b9/webp-in-2025-reduce-image-size-by-60-80-client-side-23ek)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
