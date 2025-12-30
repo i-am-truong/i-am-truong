@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Elements: PromptInput Component Design and Testing Framework](https://dev.to/rockfire/ai-elements-promptinput-component-design-and-testing-framework-gma)
+- [Building Production-Ready AI Backends with FastAPI](https://dev.to/hamluk/building-production-ready-ai-backends-with-fastapi-4352)
 - [Ansible Fundamentals Beyond the First Playbook](https://dev.to/anushree_gm/ansible-fundamentals-beyond-the-first-playbook-2gb4)
 - [Comunidad LATAM de la FinOps Foundation](https://dev.to/barbara_gaspar/comunidad-latam-de-la-finops-foundation-3h7g)
 - [Beyond Simple Rate Limiting: Behavioral Throttling for AI Agent Security](https://dev.to/helios_techcomm_552ce9239/beyond-simple-rate-limiting-behavioral-throttling-for-ai-agent-security-44lk)
-- [🔗 AWS 119: Making the Connection - Attaching an IAM Policy to a User](https://dev.to/hritikraj8804/aws-119-making-the-connection-attaching-an-iam-policy-to-a-user-3o3e)
-- [Azure AI Engineer Explained: Skills, Tools, and Responsibilities](https://dev.to/adil_sajid_7de3944a653229/azure-ai-engineer-explained-skills-tools-and-responsibilities-22je)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
