@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Built TrackInterview — A Simple Way to Track Job Applications](https://dev.to/surajdev/i-built-trackinterview-a-simple-way-to-track-job-applications-46h9)
 - [Solved: Is there a Zap trigger that can recognize when a new Google Worksheet tab has been added?](https://dev.to/techresolve/solved-is-there-a-zap-trigger-that-can-recognize-when-a-new-google-worksheet-tab-has-been-added-5dlp)
 - [Solved: Anyone using newer SEO tools worth switching to from Ahrefs/SEMrush?](https://dev.to/techresolve/solved-anyone-using-newer-seo-tools-worth-switching-to-from-ahrefssemrush-25p3)
 - [Stop the Hijack: A Developer&#39;s Guide to AI Agent Security and Tool Guardrails](https://dev.to/alessandro_pignati/stop-the-hijack-a-developers-guide-to-ai-agent-security-and-tool-guardrails-5g9m)
 - [2025: The Year I Built Foundations, Not Perfection](https://dev.to/congomusah/2025-the-year-i-built-foundations-not-perfection-1j3f)
-- [Kicking Off 2026: Expert Analysis &amp; Predictions for the World Cup](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-predictions-for-the-world-cup-5gl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
