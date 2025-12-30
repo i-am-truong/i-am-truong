@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Terraform: creating an AWS OpenSearch Service cluster and users](https://dev.to/aws-heroes/terraform-creating-an-aws-opensearch-service-cluster-and-users-4786)
-- [After the Victory of Transparency: The DeFi Transformation of Financial Crime and the Next Regulatory Battlefield](https://dev.to/apnews/after-the-victory-of-transparency-the-defi-transformation-of-financial-crime-and-the-next-2iio)
-- [Powerful and High-Performance: VTable Practice Sharing — The Ultimate Tool for Table Data Visualization](https://dev.to/xuanhun/powerful-and-high-performance-vtable-practice-sharing-the-ultimate-tool-for-table-data-2ikc)
-- [When long chats change the code: context drift and hidden errors](https://dev.to/jamesdev4123/when-long-chats-change-the-code-context-drift-and-hidden-errors-1l7a)
-- [Stop Using Magic: Building a Kubernetes Operator from Scratch](https://dev.to/mlajkim/stop-using-magic-building-a-kubernetes-operator-from-scratch-mo2)
+- [2026 GOAL PLANNING GUIDE](https://dev.to/msnmongare/2026-goal-planning-guide-lk0)
+- [How We Migrated an AWS Amplify GraphQL Backend to CDK &lpar;Without a Rewrite&rpar;](https://dev.to/stackops_ai_b57b69edea711/how-we-migrated-an-aws-amplify-graphql-backend-to-cdk-without-a-rewrite-2888)
+- [Ensure Manufacturing Compliance with Odoo ERP Software Development](https://dev.to/aspire-softserv/ensure-manufacturing-compliance-with-odoo-erp-software-development-42oh)
+- [Building Tamper-Evident Audit Trails for Algorithmic Trading: A Developer&#39;s Guide](https://dev.to/veritaschain/building-tamper-evident-audit-trails-for-algorithmic-trading-a-developers-guide-4ie2)
+- [When long conversations cause context drift and hidden errors](https://dev.to/jamesdev4123/when-long-conversations-cause-context-drift-and-hidden-errors-1ld)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
