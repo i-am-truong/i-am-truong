@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Remove CapCut Watermark with AI — How We Built a Flicker-Free Video Inpainting System](https://dev.to/renming_wang_99a0c6efbd56/remove-capcut-watermark-with-ai-how-we-built-a-flicker-free-video-inpainting-system-3n8h)
-- [Graceful Shutdown in Kafka: Understanding Shutdown Hooks and Thread Management](https://dev.to/hantedyou_0106/graceful-shutdown-in-kafka-understanding-shutdown-hooks-and-thread-management-4g5l)
-- [Why Your AI Needs Both Intuition and Rules](https://dev.to/daretechie/why-your-ai-needs-both-intuition-and-rules-207e)
-- [Build Your Own Spaceport: Local RAG Evaluation with Meta CRAG](https://dev.to/astronaut27/build-your-own-spaceport-local-rag-evaluation-with-meta-crag-4b2k)
-- [🚀 LearnStream | AI-Powered Educational Platform](https://dev.to/reactjsguru/learnstream-ai-powered-educational-platform-118h)
+- [New Version of Financial Calculator Released 🎉](https://dev.to/bdshahab/new-version-of-financial-calculator-released-1ec8)
+- [Fortifying the Pipeline: A Comprehensive Guide to CI/CD Security](https://dev.to/techblogs/fortifying-the-pipeline-a-comprehensive-guide-to-cicd-security-3a0d)
+- [From 1 Hour to 90 Seconds: High-Performance Data Migration with Appwrite &amp; Go](https://dev.to/ubcodes/from-1-hour-to-90-seconds-high-performance-data-migration-with-appwrite-go-4k8h)
+- [Turn Any REST API into an MCP Server with Azure API Management](https://dev.to/florianlenz/turn-any-rest-api-into-an-mcp-server-with-azure-api-management-1in5)
+- [How I Improved RAG Accuracy from 73% to 100% - A Chunking Strategy Comparison](https://dev.to/oharu121/how-i-improved-rag-accuracy-from-73-to-100-a-chunking-strategy-comparison-3nao)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
