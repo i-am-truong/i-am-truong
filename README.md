@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [New Version of Financial Calculator Released 🎉](https://dev.to/bdshahab/new-version-of-financial-calculator-released-1ec8)
-- [Fortifying the Pipeline: A Comprehensive Guide to CI/CD Security](https://dev.to/techblogs/fortifying-the-pipeline-a-comprehensive-guide-to-cicd-security-3a0d)
-- [From 1 Hour to 90 Seconds: High-Performance Data Migration with Appwrite &amp; Go](https://dev.to/ubcodes/from-1-hour-to-90-seconds-high-performance-data-migration-with-appwrite-go-4k8h)
-- [Turn Any REST API into an MCP Server with Azure API Management](https://dev.to/florianlenz/turn-any-rest-api-into-an-mcp-server-with-azure-api-management-1in5)
-- [How I Improved RAG Accuracy from 73% to 100% - A Chunking Strategy Comparison](https://dev.to/oharu121/how-i-improved-rag-accuracy-from-73-to-100-a-chunking-strategy-comparison-3nao)
+- [How to Develop an Obsidian Plugin - Getting Started Guide](https://dev.to/dss99911/how-to-develop-an-obsidian-plugin-getting-started-guide-3gn2)
+- [How AWS Supports Enterprise Grade Generative AI Workloads](https://dev.to/shubhamthakoredev/how-aws-supports-enterprise-grade-generative-ai-workloads-1258)
+- [FileMate v2: A Modern Tkinter File Manager in Python](https://dev.to/matetechnologie/filemate-v2-a-modern-tkinter-file-manager-in-python-1ob5)
+- [The useCallback react hook](https://dev.to/edriso/the-usecallback-react-hook-2cco)
+- [Day-21 GitHub Actions, CI Triggers, and Understanding Runners 🚀](https://dev.to/jayanth_dasari_7/day-21-github-actions-ci-triggers-and-understanding-runners-8h2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
