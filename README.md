@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I’m Building a Podcast-to-Clips Micro SaaS &lpar;Manually First&rpar;](https://dev.to/feya_shah_d38339cad4bf2ff/im-building-a-podcast-to-clips-micro-saas-manually-first-39o6)
-- [Why README Automation Needs More Than Just “AI Text Generation”](https://dev.to/abhas_kumar_sinha/why-readme-automation-needs-more-than-just-ai-text-generation-1ma7)
-- [Top 10 Programming Languages I’ve Used in Real Projects &amp; Why](https://dev.to/elsie-rainee/top-10-programming-languages-ive-used-in-real-projects-why-218k)
-- [The Role of Machine Learning at the Edge: TinyML &amp; Embedded AI](https://dev.to/eknath_shinde_758b45829e2/the-role-of-machine-learning-at-the-edge-tinyml-embedded-ai-29b0)
-- [Secrets AI Review Breakdown: What Users Should Know](https://dev.to/secretsai/secrets-ai-review-breakdown-what-users-should-know-5ma)
+- [What is cppsp?](https://dev.to/user19870/what-is-cppsp-1af7)
+- [Junior Developer&#39;s Full-Stack AI Journey: Completing the KYC System and Growing - Part 7](https://dev.to/wintrover/junior-developers-full-stack-ai-journey-completing-the-kyc-system-and-growing-part-7-hh2)
+- [Transparency in Web Development: How Open Design Builds Trust and Loyalty](https://dev.to/okoye_ndidiamaka_5e3b7d30/transparency-in-web-development-how-open-design-builds-trust-and-loyalty-33e7)
+- [Full-Stack Observability 101: What It Is and Why It Matters](https://dev.to/rushikesh_langale_94ce517/full-stack-observability-101-what-it-is-and-why-it-matters-3ddl)
+- [Understanding AWS Lambda Layers: Simplifying Serverless Development](https://dev.to/khushi_jitani_ca127abdedd/understanding-aws-lambda-layers-simplifying-serverless-development-588g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
