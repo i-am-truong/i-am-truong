@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Exposing Homelab through Cloudflare Tunnel](https://dev.to/ebourgess/exposing-homelab-through-cloudflare-tunnel-38nb)
 - [Do Socket ao Spring Boot: entendendo a comunicação via rede em Java](https://dev.to/jeronimafloriano/do-socket-ao-spring-boot-entendendo-a-comunicacao-via-rede-em-java-11gd)
 - [Ensuring AI Reliability: Correctness, Consistency, and Availability](https://dev.to/kapusto/ensuring-ai-reliability-correctness-consistency-and-availability-349p)
 - [Operability First: Policy, Not Hope](https://dev.to/aponysus/operability-first-policy-not-hope-3bo)
 - [Backtick - A Concise Programming Language](https://dev.to/splotdev/backtick-a-concise-programming-language-4ip6)
-- [Using Python To Merge Array of Ranges](https://dev.to/grantdotdev/using-python-to-merge-array-of-ranges-2hic)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
