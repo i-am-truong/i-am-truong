@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Used ClaudeCode to Rescue an npm Package with 760K Downloads &lpar;And Now I Have a Mission from my regular day job&rpar;](https://dev.to/greenstevester/i-used-claudecode-to-rescue-an-npm-package-with-760k-downloads-and-now-i-have-a-mission-from-my-3kdj)
 - [How to Design Backward Compatible APIs in .NET, Real Lessons and Tips from Production](https://dev.to/saber-amani/how-to-design-backward-compatible-apis-in-net-real-lessons-and-tips-from-production-1mjk)
-- [SpyHunt](https://dev.to/mr1mmdrza/spyhunt-3ll8)
-- [Building a CMS-Level Firewall: Why Application Context Matters](https://dev.to/maximalex/building-a-cms-level-firewall-why-application-context-matters-52kp)
-- [🎯_Microservices_Performance_Tuning_Practical[20251230231030]](https://dev.to/member_6331818c/microservicesperformancetuningpractical20251230231030-16k1)
-- [2025-12-30 Daily Robotics News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-30-daily-robotics-news-l8m)
+- [Fundamentos de Probabilidad para Calculo Estocastico: Una Guia Rigurosa](https://dev.to/ctj01/fundamentos-de-probabilidad-para-calculo-estocastico-una-guia-rigurosa-580p)
+- [Prompt Injection Attacks: The Hidden Security Threat in AI Applications](https://dev.to/satinathnit/prompt-injection-attacks-the-hidden-security-threat-in-ai-applications-4g9h)
+- [Tokens, Context Windows, and Why They Matter: The Complete Guide](https://dev.to/satinathnit/tokens-context-windows-and-why-they-matter-the-complete-guide-2ko7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
