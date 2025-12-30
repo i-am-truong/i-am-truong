@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Do Socket ao Spring Boot: entendendo a comunicação via rede em Java](https://dev.to/jeronimafloriano/do-socket-ao-spring-boot-entendendo-a-comunicacao-via-rede-em-java-11gd)
+- [Ensuring AI Reliability: Correctness, Consistency, and Availability](https://dev.to/kapusto/ensuring-ai-reliability-correctness-consistency-and-availability-349p)
 - [Operability First: Policy, Not Hope](https://dev.to/aponysus/operability-first-policy-not-hope-3bo)
 - [Backtick - A Concise Programming Language](https://dev.to/splotdev/backtick-a-concise-programming-language-4ip6)
 - [Using Python To Merge Array of Ranges](https://dev.to/grantdotdev/using-python-to-merge-array-of-ranges-2hic)
-- [WHY DEVTOOLS USERS DON&#39;T CONVERT &lpar;AND IT&#39;S NOT YOUR FEATURES&rpar;](https://dev.to/arbythecoder/why-devtools-users-dont-convert-and-its-not-your-features-1h9m)
-- [Securing LLMs with Secret Knowledge Defenses](https://dev.to/alessandro_pignati/securing-llms-with-secret-knowledge-defenses-369i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
