@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mandatory Procedures in AS 9100 Documentation](https://dev.to/joy1/mandatory-procedures-in-as-9100-documentation-1pj2)
+- [Angular 21 — What’s New, What’s Changed](https://dev.to/mridudixit15/angular-21-whats-new-whats-changed-3fl3)
+- [The Economic Impact of Disperse Dyes in the Textile Industry](https://dev.to/s_dinternational_65ea6f0/the-economic-impact-of-disperse-dyes-in-the-textile-industry-5517)
+- [The End of GPU Monarchy? Why Specialized Accelerators Are the Future of AI Compute](https://dev.to/igor_a_voronin/the-end-of-gpu-monarchy-why-specialized-accelerators-are-the-future-of-ai-compute-5fd2)
 - [IaaS, PaaS, SaaS: Scegli il Cloud Giusto](https://dev.to/scape/iaas-paas-saas-scegli-il-cloud-giusto-21ej)
-- [Build AI agents and automate UI workflows from your web browser - Amazon Nova Act](https://dev.to/aws-heroes/build-ai-agents-and-automate-ui-workflows-from-your-web-browser-amazon-nova-act-32km)
-- [My Agent System Looks Powerful but Is Just Industrial Trash](https://dev.to/qtalen/my-agent-system-looks-powerful-but-is-just-industrial-trash-d10)
-- [Key Components of Microsoft Fabric Explained in Simple Terms](https://dev.to/the_chief_a9ee9e5bcf8c93a/key-components-of-microsoft-fabric-explained-in-simple-terms-46h0)
-- [Stop Burning Ad Money — Fix Your UX First &lpar;Especially if You’re a Startup Founder&rpar;](https://dev.to/pixel_mosaic/stop-burning-ad-money-fix-your-ux-first-especially-if-youre-a-startup-founder-4dl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
