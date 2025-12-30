@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built an AI-powered organizational structure: 42 agents, 10 playbooks, one company](https://dev.to/fom-dev/i-built-an-ai-powered-organizational-structure-42-agents-10-playbooks-one-company-3bpj)
-- [Oberon OS: A system built by people who hated unnecessary things](https://dev.to/viz-x/oberon-os-a-system-built-by-people-who-hated-unnecessary-things-2378)
-- [Step‑by‑Step Ubuntu Linux Installation Guide](https://dev.to/reggiejohnson86/step-by-step-ubuntu-linux-installation-guide-25di)
-- [RISC OS: A Non-POSIX Operating System That Grew With ARM](https://dev.to/viz-x/risc-os-a-non-posix-operating-system-that-grew-with-arm-5ah3)
-- [From Consumer to Builder: My 2025](https://dev.to/ankit_rattan/from-consumer-to-builder-my-2025-3eel)
+- [Docker for Beginners: Everything I Learned about Images](https://dev.to/egepakten/docker-for-beginners-everything-i-learned-about-images-2hpm)
+- [Intel Itanium: the CPU architecture that tried to replace x86 &lpar;and didn’t&rpar;](https://dev.to/viz-x/intel-itanium-the-cpu-architecture-that-tried-to-replace-x86-and-didnt-oo3)
+- [Why We Do Indexing: Not Just for Speed, but for Cost and Hardware Reality](https://dev.to/sherwinwater/why-we-do-indexing-not-just-for-speed-but-for-cost-and-hardware-reality-3pg5)
+- [Accessibility: Building Inclusive Experiences | A Lens on How UX, UI, and Accessibility Work Together](https://dev.to/niharikapujari/accessibility-building-inclusive-experiences-a-lens-on-how-ux-ui-and-accessibility-work-1m29)
+- [The Real Software Architecture Lives in the Mind](https://dev.to/sherwinwater/the-real-software-architecture-lives-in-the-mind-8fe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
