@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your AI Agent is Bleeding Money &lpar;And You&#39;re Making It Worse&rpar;](https://dev.to/franklinmayoyo/your-ai-agent-is-bleeding-money-and-youre-making-it-worse-4c4n)
-- [The AI Hallucination Paradox: Why Expert Developers Suffer Most](https://dev.to/talmogendorff/the-ai-hallucination-paradox-why-expert-developers-suffer-most-2gpf)
-- [Nouveaux outils IA découverts sur eXtragone](https://dev.to/nazario/nouveaux-outils-ia-decouverts-sur-extragone-mc7)
-- [Asaaju Peter Highlights Key Lessons Learned in 2025 as a Website Developer](https://dev.to/phemight_technologies_281/asaaju-peter-highlights-key-lessons-learned-in-2025-as-a-website-developer-940)
-- [AWS Account Best Practices: Secure Your AWS Account Before It&#39;s Too Late](https://dev.to/aws-builders/aws-account-best-practices-secure-your-aws-account-before-its-too-late-2306)
+- [Solved: Is there a Zap trigger that can recognize when a new Google Worksheet tab has been added?](https://dev.to/techresolve/solved-is-there-a-zap-trigger-that-can-recognize-when-a-new-google-worksheet-tab-has-been-added-5dlp)
+- [Solved: Anyone using newer SEO tools worth switching to from Ahrefs/SEMrush?](https://dev.to/techresolve/solved-anyone-using-newer-seo-tools-worth-switching-to-from-ahrefssemrush-25p3)
+- [Stop the Hijack: A Developer&#39;s Guide to AI Agent Security and Tool Guardrails](https://dev.to/alessandro_pignati/stop-the-hijack-a-developers-guide-to-ai-agent-security-and-tool-guardrails-5g9m)
+- [2025: The Year I Built Foundations, Not Perfection](https://dev.to/congomusah/2025-the-year-i-built-foundations-not-perfection-1j3f)
+- [Kicking Off 2026: Expert Analysis &amp; Predictions for the World Cup](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-predictions-for-the-world-cup-5gl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
