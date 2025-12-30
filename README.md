@@ -124,7 +124,7 @@ Python                   1 repo              █░░░░░░░░░░�
 - [Graceful Shutdown in Kafka: Understanding Shutdown Hooks and Thread Management](https://dev.to/hantedyou_0106/graceful-shutdown-in-kafka-understanding-shutdown-hooks-and-thread-management-4g5l)
 - [Why Your AI Needs Both Intuition and Rules](https://dev.to/daretechie/why-your-ai-needs-both-intuition-and-rules-207e)
 - [Build Your Own Spaceport: Local RAG Evaluation with Meta CRAG](https://dev.to/astronaut27/build-your-own-spaceport-local-rag-evaluation-with-meta-crag-4b2k)
-- [How does file upload work in Immich codebase - Part 1.](https://dev.to/ramunarasinga-11/how-does-file-upload-work-in-immich-codebase-part-1-15cb)
+- [🚀 LearnStream | AI-Powered Educational Platform](https://dev.to/reactjsguru/learnstream-ai-powered-educational-platform-118h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
