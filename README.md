@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Empathy: HumanSense Achieves Context-Aware Responses via Reasoning MLLMs](https://dev.to/aimodels-fyi/ai-empathy-humansense-achieves-context-aware-responses-via-reasoning-mllms-3bdh)
-- [A beginner&#39;s guide to the Mmaudio model by Zsxkib on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-mmaudio-model-by-zsxkib-on-replicate-385n)
-- [Acessibilidade na Prática](https://dev.to/gabrielluizs1996/acessibilidade-na-pratica-i54)
-- [Wearable Data Security: Protect User Privacy by Building a Secure Health Data Pipeline](https://dev.to/wellallytech/wearable-data-security-protect-user-privacy-by-building-a-secure-health-data-pipeline-m2k)
-- [Understanding the CPU: Your Computer&#39;s Brain](https://dev.to/marlostrydom/understanding-the-cpu-your-computers-brain-61h)
+- [Your Morning AI Briefing: Latest Developments in ChatGPT, Enterprise Adoption, and Image Generation](https://dev.to/ethan_zhang_e501fea89c25b/your-morning-ai-briefing-latest-developments-in-chatgpt-enterprise-adoption-and-image-generation-40c9)
+- [Computing Power as Strategy: Analyzing the AI Infrastructure Architecture Challenges Behind Ten-Thousand-GPU Clusters](https://dev.to/apnews/computing-power-as-strategy-analyzing-the-ai-infrastructure-architecture-challenges-behind-45p8)
+- [Do you need a free-tier to learn Kubernetes?](https://dev.to/sergelogvinov/do-you-need-a-free-tier-to-learn-kubernetes-54pg)
+- [Why Version Control Matters: Overcoming the Pendrive Dilemma and Learning Git Mechanics](https://dev.to/mohammad1105/why-version-control-matters-overcoming-the-pendrive-dilemma-and-learning-git-mechanics-m9d)
+- [What Software Engineers Can Learn from Industrial Inkjet Printing Systems](https://dev.to/cecelia_qiu_8506172e9d84f/what-software-engineers-can-learn-from-industrial-inkjet-printing-systems-4i00)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
