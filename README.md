@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cost-Effective Disaster Recovery: Managing ZFS Snapshots on Proxmox VE](https://dev.to/patrickbloemit/cost-effective-disaster-recovery-managing-zfs-snapshots-on-proxmox-ve-4pbf)
-- [eBPF Tutorial: Tracing CUDA GPU Operations](https://dev.to/yunwei37/ebpf-tutorial-tracing-cuda-gpu-operations-45eb)
-- [Logging at Scale &amp; Log Aggregation](https://dev.to/godofgeeks/logging-at-scale-log-aggregation-3kjf)
-- [30 Core Algorithm:Ep-08:Round Robin Scheduling](https://dev.to/aditya_singh_172b37651201/30-core-algorithmep-08round-robin-scheduling-5ei6)
-- [CLAUDE.md: Building Persistent Memory for AI Coding Agents](https://dev.to/evoleinik/claudemd-building-persistent-memory-for-ai-coding-agents-5322)
+- [Why version control system exists in the first place](https://dev.to/ppc/why-version-control-system-exists-in-the-first-place-4kg9)
+- [Top 17 Claude Code OSS Tools! Complete Guide to GitHub Open Source Dev Environments](https://dev.to/nakamura_takuya/top-17-claude-code-oss-tools-complete-guide-to-github-open-source-dev-environments-1n0e)
+- [How to Bypass Captcha when Using Helium by CapSolver](https://dev.to/luisgustvo/how-to-bypass-captcha-when-using-helium-by-capsolver-23a6)
+- [How to implement GHASH](https://dev.to/moritzhoeppner/how-to-implement-ghash-3c0h)
+- [Top 7 Pest Control Services in Brisbane](https://dev.to/samdavidddd/top-7-pest-control-services-in-brisbane-a6p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
