@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Best AI Tools for 2026](https://dev.to/asad1/the-best-ai-tools-for-2026-dcd)
-- [How to Escape Tutorial Hell &lpar;As a Beginner Game Dev&rpar; Without Becoming a “Framework Collector&quot;](https://dev.to/kevinbjorv/how-to-escape-tutorial-hell-as-a-beginner-game-dev-without-becoming-a-framework-collector-42jk)
-- [My 2025 Year in Review](https://dev.to/nickytonline/my-2025-year-in-review-3nom)
-- [Strict Comparison in PHP Explained at the Zend Engine Level](https://dev.to/dobrenteiistvan/strict-comparison-in-php-explained-at-the-zend-engine-level-15e2)
-- [An interesting read!!](https://dev.to/manel_belhaj_add79e3003b9/an-interesting-read-4moe)
+- [punycode Release v0.15.0](https://dev.to/jonasbn/punycode-release-v0150-4oo6)
+- [Stop Rewriting the Same Dev Helpers: Build a Browser Toolbelt Instead](https://dev.to/roxroy/stop-rewriting-the-same-dev-helpers-build-a-browser-toolbelt-instead-g48)
+- [Reducing Assets Import times in Unity](https://dev.to/attiliohimeki/reducing-assets-import-times-in-unity-2kn2)
+- [JSBooks: A Curated List of the Best JavaScript Books](https://dev.to/minouou/jsbooks-a-curated-list-of-the-best-javascript-books-2foc)
+- [TempleOS: A Non-POSIX Operating System That Removed Protection on Purpose](https://dev.to/viz-x/templeos-a-desktop-operating-system-that-removed-protection-on-purpose-meb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
