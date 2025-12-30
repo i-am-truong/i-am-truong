@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [30 Core Algorithm :Ep-07:Kadane’s Algorithm](https://dev.to/aditya_singh_172b37651201/30-core-algorithm-ep-07kadanes-algorithm-jgd)
-- [Why Scanned PDFs Break Most Translation Workflows](https://dev.to/shruti_saraswat_c258d5934/why-scanned-pdfs-break-most-translation-workflows-2jjb)
-- [Clear overview of spring bean](https://dev.to/shashwathsh/clear-overview-of-spring-bean-28i2)
-- [🚀 Cracking a DevOps Interview in 2026? Start here 🚀](https://dev.to/lakhera2015/cracking-a-devops-interview-in-2026-start-here-22cl)
-- [Building a Robust Document Parsing System with Cloudflare Queues and Workflows](https://dev.to/pablog6/building-a-robust-document-parsing-system-with-cloudflare-queues-and-workflows-1g7f)
+- [Building a Real-Time Couples Quiz Without an App](https://dev.to/sync_withlove_473b98892d/building-a-real-time-couples-quiz-without-an-app-49lo)
+- [Daily Tech News Roundup - 2025-12-30](https://dev.to/atharvshinde2004/daily-tech-news-roundup-2025-12-30-3koi)
+- [7 Best Resources to Learn Node.js: A Developer’s Personal Guide](https://dev.to/stack_overflowed/7-best-resources-to-learn-nodejs-a-developers-personal-guide-4oec)
+- [The Great ORM Pivot: Why Teams are Moving to Drizzle in 2025](https://dev.to/sameer_saleem/the-great-orm-pivot-why-teams-are-moving-to-drizzle-in-2025-46jc)
+- [Data Pipelines 101 for CTOs: Architecture, Ingestion, Storage, and Processing](https://dev.to/logiciel_774b16436ffd48e6/data-pipelines-101-for-ctos-architecture-ingestion-storage-and-processing-pig)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
