@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Modern Android UI Stack with Jetpack Compose &lpar;Senior Guide](https://dev.to/vio_di_code/building-a-modern-android-ui-stack-with-jetpack-compose-senior-guide-cfc)
-- [KEXP: Pixel Grip - Split &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pixel-grip-split-live-on-kexp-84k)
-- [How to Export Real Excel Workbooks in JavaScript Using Connected Workbooks](https://dev.to/meni_kroizer_16e2b4506a7e/how-to-export-real-excel-workbooks-in-javascript-using-connected-workbooks-2fkg)
-- [Getting started with GPU Programming on an EC2!](https://dev.to/aws-builders/getting-started-with-gpu-programming-on-an-ec2-42ke)
-- [Building Shared Memory with AI](https://dev.to/synthaicode_commander/building-shared-memory-with-ai-1e5e)
+- [Analysing Drivers of Digital Transformation in Corporate Innovation Capacity Using Amazon SageMaker Studio and Kaggle API](https://dev.to/aws-builders/analysing-drivers-of-digital-transformation-in-corporate-innovation-capacity-using-amazon-sagemaker-2md9)
+- [How to deploy Next.js App to VPS &lpar;Ubuntu server&rpar; with GitHub-Actions](https://dev.to/shelner/how-to-deploy-nextjs-app-to-vps-ubuntu-server-with-github-actions-1gjk)
+- [From Idea to MVP: Building a Classified Platform in Serbia](https://dev.to/rsale/from-idea-to-mvp-building-a-classified-platform-in-serbia-5gg6)
+- [The Call Stack: What Really Happens When a Function Is Called](https://dev.to/sheshi_13/the-call-stack-what-really-happens-when-a-function-is-called-4459)
+- [What if your API sent values… not repeated keys?](https://dev.to/internetobject/what-if-your-api-sent-values-not-repeated-keys-k89)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
