@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Your AI Agent is Bleeding Money &lpar;And You&#39;re Making It Worse&rpar;](https://dev.to/franklinmayoyo/your-ai-agent-is-bleeding-money-and-youre-making-it-worse-4c4n)
+- [The AI Hallucination Paradox: Why Expert Developers Suffer Most](https://dev.to/talmogendorff/the-ai-hallucination-paradox-why-expert-developers-suffer-most-2gpf)
+- [Nouveaux outils IA découverts sur eXtragone](https://dev.to/nazario/nouveaux-outils-ia-decouverts-sur-extragone-mc7)
+- [Asaaju Peter Highlights Key Lessons Learned in 2025 as a Website Developer](https://dev.to/phemight_technologies_281/asaaju-peter-highlights-key-lessons-learned-in-2025-as-a-website-developer-940)
 - [AWS Account Best Practices: Secure Your AWS Account Before It&#39;s Too Late](https://dev.to/aws-builders/aws-account-best-practices-secure-your-aws-account-before-its-too-late-2306)
-- [AWS Control Tower Alternatives: From Console to Code](https://dev.to/aws-builders/aws-control-tower-alternatives-from-console-to-code-2iho)
-- [I Built an AI-Powered Contract Analyzer to Detect Risks in Seconds](https://dev.to/hasan_zcan_6cb354f0d0fb9/i-built-an-ai-powered-contract-analyzer-to-detect-risks-in-seconds-1237)
-- [AWS Control Tower vs AWS Organizations: One Builds on the Other](https://dev.to/aws-builders/aws-control-tower-vs-aws-organizations-one-builds-on-the-other-4d00)
-- [AWS Multi-Account Best Practices: Build a Scalable, Secure Foundation](https://dev.to/aws-builders/aws-multi-account-best-practices-build-a-scalable-secure-foundation-k97)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
