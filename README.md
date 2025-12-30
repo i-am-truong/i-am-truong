@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🧩 Atmhtml5games: Action, Puzzle &amp; Arcade Games Online](https://dev.to/usatrendingtodays/atmhtml5games-action-puzzle-arcade-games-online-ga4)
+- [Cost-Effective Disaster Recovery: Managing ZFS Snapshots on Proxmox VE](https://dev.to/patrickbloemit/cost-effective-disaster-recovery-managing-zfs-snapshots-on-proxmox-ve-4pbf)
+- [eBPF Tutorial: Tracing CUDA GPU Operations](https://dev.to/yunwei37/ebpf-tutorial-tracing-cuda-gpu-operations-45eb)
+- [Logging at Scale &amp; Log Aggregation](https://dev.to/godofgeeks/logging-at-scale-log-aggregation-3kjf)
 - [30 Core Algorithm:Ep-08:Round Robin Scheduling](https://dev.to/aditya_singh_172b37651201/30-core-algorithmep-08round-robin-scheduling-5ei6)
-- [Mandatory Procedures in AS 9100 Documentation](https://dev.to/joy1/mandatory-procedures-in-as-9100-documentation-1pj2)
-- [Angular 21 — What’s New, What’s Changed](https://dev.to/mridudixit15/angular-21-whats-new-whats-changed-3fl3)
-- [Nuxt &amp; Cloudflare Queues: Building a Data Sync Pipeline using Vectorize](https://dev.to/keithmifsud/nuxt-cloudflare-queues-building-a-data-sync-pipeline-using-vectorize-4ocg)
+- [CLAUDE.md: Building Persistent Memory for AI Coding Agents](https://dev.to/evoleinik/claudemd-building-persistent-memory-for-ai-coding-agents-5322)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
