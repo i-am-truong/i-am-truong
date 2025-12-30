@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [VictoriaMetrics playgrounds any dev should try in 2026](https://dev.to/didiviking/victoriametrics-playgrounds-any-dev-should-try-in-2026-44fm)
-- [I remember the exact moment I realized that being a great developer and building a successful startup were two completely different skill sets. It was 2 AM on a Tuesday, I was three months into my first serious venture...........Read More 👇](https://dev.to/thebitforge/i-remember-the-exact-moment-i-realized-that-being-a-great-developer-and-building-a-successful-4a63)
-- [NVMe vs SATA VPS: Real-World Performance Explained](https://dev.to/tahael/nvme-vs-sata-vps-real-world-performance-explained-50j9)
-- [Meta-Optimized Continual Adaptation for sustainable aquaculture monitoring systems under multi-jurisdictional compliance](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-sustainable-aquaculture-monitoring-systems-under-3aid)
-- [How I Build Scalable Web and Mobile Apps with React &amp; Next.js](https://dev.to/didi168/how-i-build-scalable-web-and-mobile-apps-with-react-nextjs-28ml)
+- [Terraform: creating an AWS OpenSearch Service cluster and users](https://dev.to/aws-heroes/terraform-creating-an-aws-opensearch-service-cluster-and-users-4786)
+- [After the Victory of Transparency: The DeFi Transformation of Financial Crime and the Next Regulatory Battlefield](https://dev.to/apnews/after-the-victory-of-transparency-the-defi-transformation-of-financial-crime-and-the-next-2iio)
+- [Powerful and High-Performance: VTable Practice Sharing — The Ultimate Tool for Table Data Visualization](https://dev.to/xuanhun/powerful-and-high-performance-vtable-practice-sharing-the-ultimate-tool-for-table-data-2ikc)
+- [When long chats change the code: context drift and hidden errors](https://dev.to/jamesdev4123/when-long-chats-change-the-code-context-drift-and-hidden-errors-1l7a)
+- [Stop Using Magic: Building a Kubernetes Operator from Scratch](https://dev.to/mlajkim/stop-using-magic-building-a-kubernetes-operator-from-scratch-mo2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
