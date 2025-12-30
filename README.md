@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Zilog Z80: the small CPU that powered an entire generation](https://dev.to/viz-x/zilog-z80-the-small-cpu-that-powered-an-entire-generation-4inc)
-- [IBM Z: the computer that never learned how to die](https://dev.to/viz-x/ibm-z-the-computer-that-never-learned-how-to-die-590j)
-- [Keep your Ubuntu‑based VPN Server Updated](https://dev.to/reggiejohnson86/keep-your-ubuntu-based-vpn-server-updated-11al)
-- [WebHook x WebSocket : O que são?](https://dev.to/matheuspatriciodev/webhook-x-websocket-o-que-sao-32oj)
-- [The Technology Stack Behind Asset Tokenization Platforms](https://dev.to/tantrijaenterprisess/the-technology-stack-behind-asset-tokenization-platforms-mho)
+- [LoongArch: China’s homegrown CPU architecture that is now in real laptops](https://dev.to/viz-x/loongarch-chinas-homegrown-cpu-architecture-that-is-now-in-real-laptops-347a)
+- [Il Bug della Dignità: Cronaca di un’illusione ereditaria](https://dev.to/zio-mitch/il-bug-della-dignita-cronaca-di-unillusione-ereditaria-54fd)
+- [OpenAI Agent Builder Tutorial: Create Intelligent Travel Workflows That Actually Work&quot;](https://dev.to/criticalmynd/openai-agent-builder-tutorial-create-intelligent-travel-workflows-that-actually-work-11f9)
+- [WIR - What Is Running: A CLI Tool in C to Inspect Processes and Ports](https://dev.to/albz/wir-what-is-running-a-cli-tool-in-c-to-inspect-processes-and-ports-5hdi)
+- [Securing AI coding agents: What IDEsaster vulnerabilities should you know](https://dev.to/tigranbs/securing-ai-coding-agents-what-idesaster-vulnerabilities-should-you-know-4m81)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
