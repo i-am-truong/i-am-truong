@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your Morning AI Briefing: Latest Developments in ChatGPT, Enterprise Adoption, and Image Generation](https://dev.to/ethan_zhang_e501fea89c25b/your-morning-ai-briefing-latest-developments-in-chatgpt-enterprise-adoption-and-image-generation-40c9)
-- [Computing Power as Strategy: Analyzing the AI Infrastructure Architecture Challenges Behind Ten-Thousand-GPU Clusters](https://dev.to/apnews/computing-power-as-strategy-analyzing-the-ai-infrastructure-architecture-challenges-behind-45p8)
-- [Do you need a free-tier to learn Kubernetes?](https://dev.to/sergelogvinov/do-you-need-a-free-tier-to-learn-kubernetes-54pg)
-- [Why Version Control Matters: Overcoming the Pendrive Dilemma and Learning Git Mechanics](https://dev.to/mohammad1105/why-version-control-matters-overcoming-the-pendrive-dilemma-and-learning-git-mechanics-m9d)
-- [What Software Engineers Can Learn from Industrial Inkjet Printing Systems](https://dev.to/cecelia_qiu_8506172e9d84f/what-software-engineers-can-learn-from-industrial-inkjet-printing-systems-4i00)
+- [Gemini, Local and Free with Chrome and Angular](https://dev.to/marianocodes/gemini-locally-and-free-with-chrome-and-angular-474l)
+- [How to Build a Random Content List in Momen &lpar;Step by Step&rpar;](https://dev.to/momen_hq/how-to-build-a-random-content-list-in-momen-step-by-step-10ka)
+- [How to Monetize Voice AI Agents for SaaS Startups with VAPI: My Journey](https://dev.to/callstacktech/how-to-monetize-voice-ai-agents-for-saas-startups-with-vapi-my-journey-3p16)
+- [⚡_Latency_Optimization_Practical_Guide[20251230033436]](https://dev.to/member_6331818c/latencyoptimizationpracticalguide20251230033436-5ele)
+- [Crypto Spot-Futures Arbitrage in Practice: Lessons Learned from Theory to Reality](https://dev.to/chronosquant/crypto-spot-futures-arbitrage-in-practice-lessons-learned-from-theory-to-reality-h82)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
