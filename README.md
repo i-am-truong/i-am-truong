@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Web Development Is Meant to Be Built, Not Watched](https://dev.to/web_dev-usman/web-development-is-meant-to-be-built-not-watched-2em7)
-- [What Happens When You Kill the Kotlin Daemon Before R8?](https://dev.to/cdsap/what-happens-when-you-kill-the-kotlin-daemon-before-r8-el7)
-- [Descriptive Analysis](https://dev.to/datalaria/descriptive-analysis-39a)
-- [Android Session Tracking — A Senior Engineer’s Perspective: When the OS Promises You Nothing](https://dev.to/vio_di_code/android-session-tracking-a-senior-engineers-perspective-when-the-os-promises-you-nothing-43g8)
-- [Top 7 HubSpot Alternatives for 2025 &lpar;Including AI-Powered Options&rpar;](https://dev.to/shabe_ai/top-7-hubspot-alternatives-for-2025-including-ai-powered-options-2bh3)
+- [Remove CapCut Watermark with AI — How We Built a Flicker-Free Video Inpainting System](https://dev.to/renming_wang_99a0c6efbd56/remove-capcut-watermark-with-ai-how-we-built-a-flicker-free-video-inpainting-system-3n8h)
+- [Graceful Shutdown in Kafka: Understanding Shutdown Hooks and Thread Management](https://dev.to/hantedyou_0106/graceful-shutdown-in-kafka-understanding-shutdown-hooks-and-thread-management-4g5l)
+- [Why Your AI Needs Both Intuition and Rules](https://dev.to/daretechie/why-your-ai-needs-both-intuition-and-rules-207e)
+- [Build Your Own Spaceport: Local RAG Evaluation with Meta CRAG](https://dev.to/astronaut27/build-your-own-spaceport-local-rag-evaluation-with-meta-crag-4b2k)
+- [How does file upload work in Immich codebase - Part 1.](https://dev.to/ramunarasinga-11/how-does-file-upload-work-in-immich-codebase-part-1-15cb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
