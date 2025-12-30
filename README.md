@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Helm Nedir](https://dev.to/suleymanakturk/helm-nedir-4m34)
-- [How I cleared my AWS Certified Solutions Architect Associate exam in 30 Days?](https://dev.to/niharikapujari/how-i-cleared-my-aws-certified-solutions-architect-associate-exam-in-30-days-389k)
-- [Feature Flag é Besteira? Por que o seu &quot;IF&quot; está matando a performance &lpar;e o planeta&rpar;](https://dev.to/matheuscamarques/feature-flag-e-besteira-por-que-o-seu-if-esta-matando-a-performance-e-o-planeta-2m66)
-- [Isle Lab: a relaxing 3D terrain builder in the browser](https://dev.to/bartek_/isle-lab-a-relaxing-3d-island-builder-in-the-browser-55f3)
-- [RISC-V Architecture: how a clean instruction set became a serious threat](https://dev.to/viz-x/risc-v-architecture-how-a-clean-instruction-set-became-a-serious-threat-3eoa)
+- [Zilog Z80: the small CPU that powered an entire generation](https://dev.to/viz-x/zilog-z80-the-small-cpu-that-powered-an-entire-generation-4inc)
+- [IBM Z: the computer that never learned how to die](https://dev.to/viz-x/ibm-z-the-computer-that-never-learned-how-to-die-590j)
+- [Keep your Ubuntu‑based VPN Server Updated](https://dev.to/reggiejohnson86/keep-your-ubuntu-based-vpn-server-updated-11al)
+- [WebHook x WebSocket : O que são?](https://dev.to/matheuspatriciodev/webhook-x-websocket-o-que-sao-32oj)
+- [The Technology Stack Behind Asset Tokenization Platforms](https://dev.to/tantrijaenterprisess/the-technology-stack-behind-asset-tokenization-platforms-mho)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
