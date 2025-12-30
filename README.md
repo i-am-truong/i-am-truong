@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [VictoriaMetrics playgrounds any dev should try in 2026](https://dev.to/didiviking/victoriametrics-playgrounds-any-dev-should-try-in-2026-44fm)
 - [I remember the exact moment I realized that being a great developer and building a successful startup were two completely different skill sets. It was 2 AM on a Tuesday, I was three months into my first serious venture...........Read More 👇](https://dev.to/thebitforge/i-remember-the-exact-moment-i-realized-that-being-a-great-developer-and-building-a-successful-4a63)
 - [NVMe vs SATA VPS: Real-World Performance Explained](https://dev.to/tahael/nvme-vs-sata-vps-real-world-performance-explained-50j9)
-- [Bugs in the Wild West: Top 10 C and C++ errors of 2025](https://dev.to/pvsdev/bugs-in-the-wild-west-top-10-c-and-c-errors-of-2025-o2d)
-- [[Smart Watch] [API 6] When installing a watch app, it prompts with &#39;code:9568257 error: fail to verify pkcs7 file.&#39;](https://dev.to/harmonyos/smart-watch-api-6-when-installing-a-watch-app-it-prompts-with-code9568257-error-fail-to-4mbj)
-- [The Shift from AI Reviewers to Code Review Agents](https://dev.to/yeahiasarker/the-shift-from-ai-reviewers-to-code-review-agents-4hho)
+- [Meta-Optimized Continual Adaptation for sustainable aquaculture monitoring systems under multi-jurisdictional compliance](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-sustainable-aquaculture-monitoring-systems-under-3aid)
+- [How I Build Scalable Web and Mobile Apps with React &amp; Next.js](https://dev.to/didi168/how-i-build-scalable-web-and-mobile-apps-with-react-nextjs-28ml)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
