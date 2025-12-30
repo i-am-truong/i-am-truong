@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [RDBMS: Where Relations Meet Files](https://dev.to/lovestaco/rdbms-where-relations-meet-files-4ej9)
 - [punycode Release v0.15.0](https://dev.to/jonasbn/punycode-release-v0150-4oo6)
 - [Stop Rewriting the Same Dev Helpers: Build a Browser Toolbelt Instead](https://dev.to/roxroy/stop-rewriting-the-same-dev-helpers-build-a-browser-toolbelt-instead-g48)
 - [Reducing Assets Import times in Unity](https://dev.to/attiliohimeki/reducing-assets-import-times-in-unity-2kn2)
 - [JSBooks: A Curated List of the Best JavaScript Books](https://dev.to/minouou/jsbooks-a-curated-list-of-the-best-javascript-books-2foc)
-- [TempleOS: A Non-POSIX Operating System That Removed Protection on Purpose](https://dev.to/viz-x/templeos-a-desktop-operating-system-that-removed-protection-on-purpose-meb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
