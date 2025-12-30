@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why AI Fails at OAuth and How I Got Unstuck](https://dev.to/cathylai/why-ai-fails-at-oauth-and-how-i-got-unstuck-87m)
-- [Blend Hybrid Retrieval with Structured Data using MindsDB Knowledge Bases](https://dev.to/mindsdb/blend-hybrid-retrieval-with-structured-data-using-mindsdb-knowledge-bases-4267)
-- [11. Container With Most Water | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/11-container-with-most-water-leetcode-top-interview-150-coding-questions-3ngi)
-- [I built a tool to master PROMQL](https://dev.to/rohitpotato/i-built-a-tool-to-master-promql-2p3l)
-- [MariaDB &amp; MindsDB Turns WooCommerce Data to Insights with Real-Time AI Analytics for eCommerce Teams](https://dev.to/mindsdb/mariadb-mindsdb-turns-woocommerce-data-to-insights-with-real-time-ai-analytics-for-ecommerce-teams-3a9j)
+- [AI Empathy: HumanSense Achieves Context-Aware Responses via Reasoning MLLMs](https://dev.to/aimodels-fyi/ai-empathy-humansense-achieves-context-aware-responses-via-reasoning-mllms-3bdh)
+- [A beginner&#39;s guide to the Mmaudio model by Zsxkib on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-mmaudio-model-by-zsxkib-on-replicate-385n)
+- [Acessibilidade na Prática](https://dev.to/gabrielluizs1996/acessibilidade-na-pratica-i54)
+- [Wearable Data Security: Protect User Privacy by Building a Secure Health Data Pipeline](https://dev.to/wellallytech/wearable-data-security-protect-user-privacy-by-building-a-secure-health-data-pipeline-m2k)
+- [Understanding the CPU: Your Computer&#39;s Brain](https://dev.to/marlostrydom/understanding-the-cpu-your-computers-brain-61h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
