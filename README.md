@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building an IntelliSense-style Shell History Tool in C++20](https://dev.to/karthikeyjoshi/building-an-intellisense-style-shell-history-tool-in-c20-4i4o)
-- [Building an Adaptive Learning Agent Using Kiro IDE- agentic-ai-edtech](https://dev.to/asim_shaikh_02599ff124bea/building-an-adaptive-learning-agent-using-kiro-ide-agentic-ai-edtech-2c16)
-- [Dependency Injection in Spring Boot: How Spring Wires Everything for You](https://dev.to/shashwathsh/dependency-injection-in-spring-boot-how-spring-wires-everything-for-you-4h3j)
-- [Raymarching Mountains for Godot - addon that solves the problem of open worlds](https://dev.to/embernoglow/raymarching-mountains-for-godot-addon-that-solves-the-problem-of-open-worlds-4doa)
-- [8 Professional Python Web Scraping Methods That Actually Work in 2024](https://dev.to/nithinbharathwaj/8-professional-python-web-scraping-methods-that-actually-work-in-2024-lc8)
+- [Jekyll Theme Usage - How to Find and Change Themes](https://dev.to/dss99911/jekyll-theme-usage-how-to-find-and-change-themes-bdk)
+- [QA Test Automation Tools and Process](https://dev.to/dss99911/qa-test-automation-tools-and-process-10ip)
+- [Android Coroutine API Call and Error Handling in Retrofit2](https://dev.to/dss99911/android-coroutine-api-call-and-error-handling-in-retrofit2-3ooi)
+- [Android YouTube Auto Skip - Automatically Skip Ads using Accessibility Service](https://dev.to/dss99911/android-youtube-auto-skip-automatically-skip-ads-using-accessibility-service-3nk4)
+- [Bootstrap Complete Guide - Responsive Web Design](https://dev.to/dss99911/bootstrap-complete-guide-responsive-web-design-3893)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
