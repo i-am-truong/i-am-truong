@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Helm Nedir](https://dev.to/suleymanakturk/helm-nedir-4m34)
 - [How I cleared my AWS Certified Solutions Architect Associate exam in 30 Days?](https://dev.to/niharikapujari/how-i-cleared-my-aws-certified-solutions-architect-associate-exam-in-30-days-389k)
 - [Feature Flag é Besteira? Por que o seu &quot;IF&quot; está matando a performance &lpar;e o planeta&rpar;](https://dev.to/matheuscamarques/feature-flag-e-besteira-por-que-o-seu-if-esta-matando-a-performance-e-o-planeta-2m66)
 - [Isle Lab: a relaxing 3D terrain builder in the browser](https://dev.to/bartek_/isle-lab-a-relaxing-3d-island-builder-in-the-browser-55f3)
 - [RISC-V Architecture: how a clean instruction set became a serious threat](https://dev.to/viz-x/risc-v-architecture-how-a-clean-instruction-set-became-a-serious-threat-3eoa)
-- [I Built an MCP Server to Trade Robinhood Through Claude Code](https://dev.to/teamtrayd_d74d7eeeed4003/i-built-an-mcp-server-to-trade-robinhood-through-claude-code-34ld)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
