@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [RDBMS: Where Relations Meet Files](https://dev.to/lovestaco/rdbms-where-relations-meet-files-4ej9)
-- [punycode Release v0.15.0](https://dev.to/jonasbn/punycode-release-v0150-4oo6)
-- [Stop Rewriting the Same Dev Helpers: Build a Browser Toolbelt Instead](https://dev.to/roxroy/stop-rewriting-the-same-dev-helpers-build-a-browser-toolbelt-instead-g48)
-- [Reducing Assets Import times in Unity](https://dev.to/attiliohimeki/reducing-assets-import-times-in-unity-2kn2)
-- [JSBooks: A Curated List of the Best JavaScript Books](https://dev.to/minouou/jsbooks-a-curated-list-of-the-best-javascript-books-2foc)
+- [I built an AI-powered organizational structure: 42 agents, 10 playbooks, one company](https://dev.to/fom-dev/i-built-an-ai-powered-organizational-structure-42-agents-10-playbooks-one-company-3bpj)
+- [Oberon OS: A system built by people who hated unnecessary things](https://dev.to/viz-x/oberon-os-a-system-built-by-people-who-hated-unnecessary-things-2378)
+- [Step‑by‑Step Ubuntu Linux Installation Guide](https://dev.to/reggiejohnson86/step-by-step-ubuntu-linux-installation-guide-25di)
+- [RISC OS: A Non-POSIX Operating System That Grew With ARM](https://dev.to/viz-x/risc-os-a-non-posix-operating-system-that-grew-with-arm-5ah3)
+- [From Consumer to Builder: My 2025](https://dev.to/ankit_rattan/from-consumer-to-builder-my-2025-3eel)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
