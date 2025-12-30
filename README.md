@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Regressão Linear para Inferência Causal: Indo Além da Predição](https://dev.to/_richardson_/regressao-linear-para-inferencia-causal-indo-alem-da-predicao-81b)
-- [Why Simple Online Tools Still Matter in Everyday Work](https://dev.to/ben_stokes_221e9ad9b34d91/why-simple-online-tools-still-matter-in-everyday-work-b8)
-- [Why Consultants Need a Personal Branding Hub Online](https://dev.to/imtaslim/why-consultants-need-a-personal-branding-hub-online-3bl3)
-- [I Built a URL Shortener Because Bitly Made Me Angry &lpar;And Other Bad Reasons to Start a SaaS&rpar;](https://dev.to/anand_rathnas_d5b608cc3de/i-built-a-url-shortener-because-bitly-made-me-angry-and-other-bad-reasons-to-start-a-saas-279n)
-- [[Boost]](https://dev.to/tomas_2cbc42/-3308)
+- [The Best AI Tools for 2026](https://dev.to/asad1/the-best-ai-tools-for-2026-dcd)
+- [How to Escape Tutorial Hell &lpar;As a Beginner Game Dev&rpar; Without Becoming a “Framework Collector&quot;](https://dev.to/kevinbjorv/how-to-escape-tutorial-hell-as-a-beginner-game-dev-without-becoming-a-framework-collector-42jk)
+- [My 2025 Year in Review](https://dev.to/nickytonline/my-2025-year-in-review-3nom)
+- [Strict Comparison in PHP Explained at the Zend Engine Level](https://dev.to/dobrenteiistvan/strict-comparison-in-php-explained-at-the-zend-engine-level-15e2)
+- [An interesting read!!](https://dev.to/manel_belhaj_add79e3003b9/an-interesting-read-4moe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
