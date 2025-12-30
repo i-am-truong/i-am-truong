@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Most SaaS Products Don’t Fail on Tech - They Fail on Trust](https://dev.to/mukul_sharma/most-saas-products-dont-fail-on-tech-they-fail-on-trust-30mc)
-- [The Hidden Cost of Blind Pricing: How Competitor Price Drops Are Silently Killing Your Revenue](https://dev.to/tracksimple/the-hidden-cost-of-blind-pricing-how-competitor-price-drops-are-silently-killing-your-revenue-4nja)
-- [The Real AI Directory List for 2026: What Actually Works](https://dev.to/claudeprime/the-real-ai-directory-list-for-2026-what-actually-works-44pk)
-- [I&#39;ll Submit Your AI Tool to 50+ Directories &lpar;So You Don&#39;t Have To&rpar;](https://dev.to/claudeprime/ill-submit-your-ai-tool-to-50-directories-so-you-dont-have-to-1h0b)
-- [💼 Out-of-Office You, Not Excuses](https://dev.to/yaseen_tech/out-of-office-you-not-excuses-5f0h)
+- [IaaS, PaaS, SaaS: Scegli il Cloud Giusto](https://dev.to/scape/iaas-paas-saas-scegli-il-cloud-giusto-21ej)
+- [Build AI agents and automate UI workflows from your web browser - Amazon Nova Act](https://dev.to/aws-heroes/build-ai-agents-and-automate-ui-workflows-from-your-web-browser-amazon-nova-act-32km)
+- [My Agent System Looks Powerful but Is Just Industrial Trash](https://dev.to/qtalen/my-agent-system-looks-powerful-but-is-just-industrial-trash-d10)
+- [Key Components of Microsoft Fabric Explained in Simple Terms](https://dev.to/the_chief_a9ee9e5bcf8c93a/key-components-of-microsoft-fabric-explained-in-simple-terms-46h0)
+- [Stop Burning Ad Money — Fix Your UX First &lpar;Especially if You’re a Startup Founder&rpar;](https://dev.to/pixel_mosaic/stop-burning-ad-money-fix-your-ux-first-especially-if-youre-a-startup-founder-4dl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
