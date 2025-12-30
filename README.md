@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Real-Time Couples Quiz Without an App](https://dev.to/sync_withlove_473b98892d/building-a-real-time-couples-quiz-without-an-app-49lo)
-- [Daily Tech News Roundup - 2025-12-30](https://dev.to/atharvshinde2004/daily-tech-news-roundup-2025-12-30-3koi)
-- [7 Best Resources to Learn Node.js: A Developer’s Personal Guide](https://dev.to/stack_overflowed/7-best-resources-to-learn-nodejs-a-developers-personal-guide-4oec)
-- [The Great ORM Pivot: Why Teams are Moving to Drizzle in 2025](https://dev.to/sameer_saleem/the-great-orm-pivot-why-teams-are-moving-to-drizzle-in-2025-46jc)
-- [Data Pipelines 101 for CTOs: Architecture, Ingestion, Storage, and Processing](https://dev.to/logiciel_774b16436ffd48e6/data-pipelines-101-for-ctos-architecture-ingestion-storage-and-processing-pig)
+- [Ansible Fundamentals Beyond the First Playbook](https://dev.to/anushree_gm/ansible-fundamentals-beyond-the-first-playbook-2gb4)
+- [Comunidad LATAM de la FinOps Foundation](https://dev.to/barbara_gaspar/comunidad-latam-de-la-finops-foundation-3h7g)
+- [Beyond Simple Rate Limiting: Behavioral Throttling for AI Agent Security](https://dev.to/helios_techcomm_552ce9239/beyond-simple-rate-limiting-behavioral-throttling-for-ai-agent-security-44lk)
+- [🔗 AWS 119: Making the Connection - Attaching an IAM Policy to a User](https://dev.to/hritikraj8804/aws-119-making-the-connection-attaching-an-iam-policy-to-a-user-3o3e)
+- [Azure AI Engineer Explained: Skills, Tools, and Responsibilities](https://dev.to/adil_sajid_7de3944a653229/azure-ai-engineer-explained-skills-tools-and-responsibilities-22je)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
