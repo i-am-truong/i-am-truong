@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Code now. Think later. Suck it up.](https://dev.to/cedricpierre/code-now-think-later-suck-it-up-dhf)
-- [Microsoft Defender for Endpoint: Attack Surface Reduction Rules](https://dev.to/kapusto/microsoft-defender-for-endpoint-attack-surface-reduction-rules-47ab)
-- [I Applied for AdSense and Got Rejected for &quot;Low Value Content&quot;](https://dev.to/bdubs/i-applied-for-adsense-and-got-rejected-for-low-value-content-hog)
-- [The OWASP Top 10 for AI Agents: Your 2026 Security Checklist &lpar;ASI Top 10&rpar;](https://dev.to/alessandro_pignati/the-owasp-top-10-for-ai-agents-your-2026-security-checklist-asi-top-10-cck)
-- [I Built TrackInterview — A Simple Way to Track Job Applications](https://dev.to/surajdev/i-built-trackinterview-a-simple-way-to-track-job-applications-46h9)
+- [Operability First: Policy, Not Hope](https://dev.to/aponysus/operability-first-policy-not-hope-3bo)
+- [Backtick - A Concise Programming Language](https://dev.to/splotdev/backtick-a-concise-programming-language-4ip6)
+- [Using Python To Merge Array of Ranges](https://dev.to/grantdotdev/using-python-to-merge-array-of-ranges-2hic)
+- [WHY DEVTOOLS USERS DON&#39;T CONVERT &lpar;AND IT&#39;S NOT YOUR FEATURES&rpar;](https://dev.to/arbythecoder/why-devtools-users-dont-convert-and-its-not-your-features-1h9m)
+- [Securing LLMs with Secret Knowledge Defenses](https://dev.to/alessandro_pignati/securing-llms-with-secret-knowledge-defenses-369i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
