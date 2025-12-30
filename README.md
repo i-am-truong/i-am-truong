@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Gemini, Local and Free with Chrome and Angular](https://dev.to/marianocodes/gemini-locally-and-free-with-chrome-and-angular-474l)
-- [How to Build a Random Content List in Momen &lpar;Step by Step&rpar;](https://dev.to/momen_hq/how-to-build-a-random-content-list-in-momen-step-by-step-10ka)
-- [How to Monetize Voice AI Agents for SaaS Startups with VAPI: My Journey](https://dev.to/callstacktech/how-to-monetize-voice-ai-agents-for-saas-startups-with-vapi-my-journey-3p16)
-- [⚡_Latency_Optimization_Practical_Guide[20251230033436]](https://dev.to/member_6331818c/latencyoptimizationpracticalguide20251230033436-5ele)
-- [Crypto Spot-Futures Arbitrage in Practice: Lessons Learned from Theory to Reality](https://dev.to/chronosquant/crypto-spot-futures-arbitrage-in-practice-lessons-learned-from-theory-to-reality-h82)
+- [30 Core Algorithm :Ep-07:Kadane’s Algorithm](https://dev.to/aditya_singh_172b37651201/30-core-algorithm-ep-07kadanes-algorithm-jgd)
+- [Why Scanned PDFs Break Most Translation Workflows](https://dev.to/shruti_saraswat_c258d5934/why-scanned-pdfs-break-most-translation-workflows-2jjb)
+- [Clear overview of spring bean](https://dev.to/shashwathsh/clear-overview-of-spring-bean-28i2)
+- [🚀 Cracking a DevOps Interview in 2026? Start here 🚀](https://dev.to/lakhera2015/cracking-a-devops-interview-in-2026-start-here-22cl)
+- [Building a Robust Document Parsing System with Cloudflare Queues and Workflows](https://dev.to/pablog6/building-a-robust-document-parsing-system-with-cloudflare-queues-and-workflows-1g7f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
