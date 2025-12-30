@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My Experience Using the BMAD Framework on a Personal Project &lpar;Patience Required&rpar;](https://dev.to/arch4g/my-experience-using-the-bmad-framework-on-a-personal-project-patience-required-28aa)
+- [Human dignity bug: chronicles of an inherited delusion](https://dev.to/zio-mitch/human-dignity-bug-chronicles-of-an-inherited-delusion-5dao)
+- [Xtensa: the CPU architecture you already use &lpar;without knowing it&rpar;](https://dev.to/viz-x/xtensa-the-cpu-architecture-you-already-use-without-knowing-it-38j4)
 - [LoongArch: China’s homegrown CPU architecture that is now in real laptops](https://dev.to/viz-x/loongarch-chinas-homegrown-cpu-architecture-that-is-now-in-real-laptops-347a)
 - [Il Bug della Dignità: Cronaca di un’illusione ereditaria](https://dev.to/zio-mitch/il-bug-della-dignita-cronaca-di-unillusione-ereditaria-54fd)
-- [OpenAI Agent Builder Tutorial: Create Intelligent Travel Workflows That Actually Work&quot;](https://dev.to/criticalmynd/openai-agent-builder-tutorial-create-intelligent-travel-workflows-that-actually-work-11f9)
-- [WIR - What Is Running: A CLI Tool in C to Inspect Processes and Ports](https://dev.to/albz/wir-what-is-running-a-cli-tool-in-c-to-inspect-processes-and-ports-5hdi)
-- [Securing AI coding agents: What IDEsaster vulnerabilities should you know](https://dev.to/tigranbs/securing-ai-coding-agents-what-idesaster-vulnerabilities-should-you-know-4m81)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
