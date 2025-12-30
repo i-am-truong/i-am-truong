@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Docker for Beginners: Everything I Learned about Images](https://dev.to/egepakten/docker-for-beginners-everything-i-learned-about-images-2hpm)
-- [Intel Itanium: the CPU architecture that tried to replace x86 &lpar;and didn’t&rpar;](https://dev.to/viz-x/intel-itanium-the-cpu-architecture-that-tried-to-replace-x86-and-didnt-oo3)
-- [Why We Do Indexing: Not Just for Speed, but for Cost and Hardware Reality](https://dev.to/sherwinwater/why-we-do-indexing-not-just-for-speed-but-for-cost-and-hardware-reality-3pg5)
-- [Accessibility: Building Inclusive Experiences | A Lens on How UX, UI, and Accessibility Work Together](https://dev.to/niharikapujari/accessibility-building-inclusive-experiences-a-lens-on-how-ux-ui-and-accessibility-work-1m29)
-- [The Real Software Architecture Lives in the Mind](https://dev.to/sherwinwater/the-real-software-architecture-lives-in-the-mind-8fe)
+- [How I cleared my AWS Certified Solutions Architect Associate exam in 30 Days?](https://dev.to/niharikapujari/how-i-cleared-my-aws-certified-solutions-architect-associate-exam-in-30-days-389k)
+- [Feature Flag é Besteira? Por que o seu &quot;IF&quot; está matando a performance &lpar;e o planeta&rpar;](https://dev.to/matheuscamarques/feature-flag-e-besteira-por-que-o-seu-if-esta-matando-a-performance-e-o-planeta-2m66)
+- [Isle Lab: a relaxing 3D terrain builder in the browser](https://dev.to/bartek_/isle-lab-a-relaxing-3d-island-builder-in-the-browser-55f3)
+- [RISC-V Architecture: how a clean instruction set became a serious threat](https://dev.to/viz-x/risc-v-architecture-how-a-clean-instruction-set-became-a-serious-threat-3eoa)
+- [I Built an MCP Server to Trade Robinhood Through Claude Code](https://dev.to/teamtrayd_d74d7eeeed4003/i-built-an-mcp-server-to-trade-robinhood-through-claude-code-34ld)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
