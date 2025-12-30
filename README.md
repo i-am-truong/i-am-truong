@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Odoo Cron Jobs Failing Silently: How I Debugged and Fixed Background Tasks in Production](https://dev.to/aaron_jones_d34b57d1b44ba/odoo-cron-jobs-failing-silently-how-i-debugged-and-fixed-background-tasks-in-production-31na)
-- [Artificial Intelligence in Mobile App Development Today](https://dev.to/devang1810/artificial-intelligence-in-mobile-app-development-today-2i3e)
-- [Beyond Selectors: The Starlight Protocol v2.5 and the Era of Sovereign Automation](https://dev.to/godhirajcode/beyond-selectors-the-starlight-protocol-v25-and-the-era-of-sovereign-automation-552l)
-- [My Research Journey in Green Software and Urban Mobility — Fady Desoky Saeed Abdelaziz](https://dev.to/fadydesokysaeedabdelaziz/my-research-journey-in-green-software-and-urban-mobility-fady-desoky-saeed-abdelaziz-2img)
-- [Best Cloud Training Platforms for Software Engineering Students in 2026: Top Tools to Fast-Track Your Cloud Skills](https://dev.to/lisaellington/best-cloud-training-platforms-for-software-engineering-students-in-2026-top-tools-to-fast-track-39d6)
+- [Frontend System Design: A Complete Guide to Building Scalable Client-Side Architectures](https://dev.to/daisy_jones_21bdcc6b40f9d/frontend-system-design-a-complete-guide-to-building-scalable-client-side-architectures-1f2c)
+- [Building a DIY ESP32 AI Voice Assistant with Xiaozhi MCP](https://dev.to/david_thomas/building-a-diy-esp32-s3-ai-voice-assistant-with-xiaozhi-mcp-2jjp)
+- [Salesforce Apex Code Failing Due to Lack of Bulkification](https://dev.to/selavina_b_de3b87f13c96a6/salesforce-apex-code-failing-due-to-lack-of-bulkification-p32)
+- [Day 28: Creating a Private ECR Repository](https://dev.to/thukhakyawe_cloud/day-28-creating-a-private-ecr-repository-448f)
+- [simple-auth-jwt my SDK in python](https://dev.to/omariscode/simple-auth-jwt-my-sdk-in-python-3ml0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
