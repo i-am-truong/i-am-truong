@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Analysing Drivers of Digital Transformation in Corporate Innovation Capacity Using Amazon SageMaker Studio and Kaggle API](https://dev.to/aws-builders/analysing-drivers-of-digital-transformation-in-corporate-innovation-capacity-using-amazon-sagemaker-2md9)
-- [How to deploy Next.js App to VPS &lpar;Ubuntu server&rpar; with GitHub-Actions](https://dev.to/shelner/how-to-deploy-nextjs-app-to-vps-ubuntu-server-with-github-actions-1gjk)
-- [From Idea to MVP: Building a Classified Platform in Serbia](https://dev.to/rsale/from-idea-to-mvp-building-a-classified-platform-in-serbia-5gg6)
-- [The Call Stack: What Really Happens When a Function Is Called](https://dev.to/sheshi_13/the-call-stack-what-really-happens-when-a-function-is-called-4459)
-- [What if your API sent values… not repeated keys?](https://dev.to/internetobject/what-if-your-api-sent-values-not-repeated-keys-k89)
+- [Web Development Is Meant to Be Built, Not Watched](https://dev.to/web_dev-usman/web-development-is-meant-to-be-built-not-watched-2em7)
+- [What Happens When You Kill the Kotlin Daemon Before R8?](https://dev.to/cdsap/what-happens-when-you-kill-the-kotlin-daemon-before-r8-el7)
+- [Descriptive Analysis](https://dev.to/datalaria/descriptive-analysis-39a)
+- [Android Session Tracking — A Senior Engineer’s Perspective: When the OS Promises You Nothing](https://dev.to/vio_di_code/android-session-tracking-a-senior-engineers-perspective-when-the-os-promises-you-nothing-43g8)
+- [Top 7 HubSpot Alternatives for 2025 &lpar;Including AI-Powered Options&rpar;](https://dev.to/shabe_ai/top-7-hubspot-alternatives-for-2025-including-ai-powered-options-2bh3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
