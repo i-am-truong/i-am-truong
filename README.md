@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Code Smell 318 - Refactoring Dirty Code](https://dev.to/mcsee/code-smell-318-refactoring-dirty-code-437)
-- [2026 GOAL PLANNING GUIDE](https://dev.to/msnmongare/2026-goal-planning-guide-lk0)
-- [How We Migrated an AWS Amplify GraphQL Backend to CDK &lpar;Without a Rewrite&rpar;](https://dev.to/stackops_ai_b57b69edea711/how-we-migrated-an-aws-amplify-graphql-backend-to-cdk-without-a-rewrite-2888)
-- [Ensure Manufacturing Compliance with Odoo ERP Software Development](https://dev.to/aspire-softserv/ensure-manufacturing-compliance-with-odoo-erp-software-development-42oh)
-- [Building Tamper-Evident Audit Trails for Algorithmic Trading: A Developer&#39;s Guide](https://dev.to/veritaschain/building-tamper-evident-audit-trails-for-algorithmic-trading-a-developers-guide-4ie2)
+- [How IoT and AI Work Together in Healthcare](https://dev.to/evelina_wright_43bf32170a/how-iot-and-ai-work-together-in-healthcare-2n7)
+- [Introducing Canvas Change Tracking in Bult.ai](https://dev.to/bult/introducing-canvas-change-tracking-in-bultai-1cpk)
+- [[Boost]](https://dev.to/hassan_rezaali_b64d94d40a/-58ol)
+- [How to Activate AI Assistant in Your Analytics Embedded App](https://dev.to/boldbi/how-to-activate-ai-assistant-in-your-analytics-embedded-app-4jfh)
+- [I Quit My Job to Build the Game Dev Platform I Wish Existed](https://dev.to/jonas_olofsson_cdf7608bde/i-quit-my-job-to-build-the-game-dev-platform-i-wish-existed-6jg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
