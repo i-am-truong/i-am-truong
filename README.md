@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Jekyll Theme Usage - How to Find and Change Themes](https://dev.to/dss99911/jekyll-theme-usage-how-to-find-and-change-themes-bdk)
-- [QA Test Automation Tools and Process](https://dev.to/dss99911/qa-test-automation-tools-and-process-10ip)
-- [Android Coroutine API Call and Error Handling in Retrofit2](https://dev.to/dss99911/android-coroutine-api-call-and-error-handling-in-retrofit2-3ooi)
-- [Android YouTube Auto Skip - Automatically Skip Ads using Accessibility Service](https://dev.to/dss99911/android-youtube-auto-skip-automatically-skip-ads-using-accessibility-service-3nk4)
-- [Bootstrap Complete Guide - Responsive Web Design](https://dev.to/dss99911/bootstrap-complete-guide-responsive-web-design-3893)
+- [JavaScript Closures Explained in Simple Terms](https://dev.to/homayounmmdy/javascript-closures-explained-in-simple-terms-109h)
+- [How to Configure Eureka Server](https://dev.to/eduesqui/how-to-configure-eureka-server-3om4)
+- [Node.js Fundamentals - Server-Side JavaScript](https://dev.to/dss99911/nodejs-fundamentals-server-side-javascript-3cf5)
+- [Node.js Database Integration - MySQL and MongoDB](https://dev.to/dss99911/nodejs-database-integration-mysql-and-mongodb-527d)
+- [jQuery Complete Guide - From Basics to Advanced](https://dev.to/dss99911/jquery-complete-guide-from-basics-to-advanced-1l0g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
