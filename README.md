@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why version control system exists in the first place](https://dev.to/ppc/why-version-control-system-exists-in-the-first-place-4kg9)
-- [Top 17 Claude Code OSS Tools! Complete Guide to GitHub Open Source Dev Environments](https://dev.to/nakamura_takuya/top-17-claude-code-oss-tools-complete-guide-to-github-open-source-dev-environments-1n0e)
-- [How to Bypass Captcha when Using Helium by CapSolver](https://dev.to/luisgustvo/how-to-bypass-captcha-when-using-helium-by-capsolver-23a6)
-- [How to implement GHASH](https://dev.to/moritzhoeppner/how-to-implement-ghash-3c0h)
-- [Top 7 Pest Control Services in Brisbane](https://dev.to/samdavidddd/top-7-pest-control-services-in-brisbane-a6p)
+- [I’m Building a Podcast-to-Clips Micro SaaS &lpar;Manually First&rpar;](https://dev.to/feya_shah_d38339cad4bf2ff/im-building-a-podcast-to-clips-micro-saas-manually-first-39o6)
+- [Why README Automation Needs More Than Just “AI Text Generation”](https://dev.to/abhas_kumar_sinha/why-readme-automation-needs-more-than-just-ai-text-generation-1ma7)
+- [Top 10 Programming Languages I’ve Used in Real Projects &amp; Why](https://dev.to/elsie-rainee/top-10-programming-languages-ive-used-in-real-projects-why-218k)
+- [The Role of Machine Learning at the Edge: TinyML &amp; Embedded AI](https://dev.to/eknath_shinde_758b45829e2/the-role-of-machine-learning-at-the-edge-tinyml-embedded-ai-29b0)
+- [Secrets AI Review Breakdown: What Users Should Know](https://dev.to/secretsai/secrets-ai-review-breakdown-what-users-should-know-5ma)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
