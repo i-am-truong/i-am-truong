@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Develop an Obsidian Plugin - Getting Started Guide](https://dev.to/dss99911/how-to-develop-an-obsidian-plugin-getting-started-guide-3gn2)
-- [How AWS Supports Enterprise Grade Generative AI Workloads](https://dev.to/shubhamthakoredev/how-aws-supports-enterprise-grade-generative-ai-workloads-1258)
-- [FileMate v2: A Modern Tkinter File Manager in Python](https://dev.to/matetechnologie/filemate-v2-a-modern-tkinter-file-manager-in-python-1ob5)
-- [The useCallback react hook](https://dev.to/edriso/the-usecallback-react-hook-2cco)
-- [Day-21 GitHub Actions, CI Triggers, and Understanding Runners 🚀](https://dev.to/jayanth_dasari_7/day-21-github-actions-ci-triggers-and-understanding-runners-8h2)
+- [Building an IntelliSense-style Shell History Tool in C++20](https://dev.to/karthikeyjoshi/building-an-intellisense-style-shell-history-tool-in-c20-4i4o)
+- [Building an Adaptive Learning Agent Using Kiro IDE- agentic-ai-edtech](https://dev.to/asim_shaikh_02599ff124bea/building-an-adaptive-learning-agent-using-kiro-ide-agentic-ai-edtech-2c16)
+- [Dependency Injection in Spring Boot: How Spring Wires Everything for You](https://dev.to/shashwathsh/dependency-injection-in-spring-boot-how-spring-wires-everything-for-you-4h3j)
+- [Raymarching Mountains for Godot - addon that solves the problem of open worlds](https://dev.to/embernoglow/raymarching-mountains-for-godot-addon-that-solves-the-problem-of-open-worlds-4doa)
+- [8 Professional Python Web Scraping Methods That Actually Work in 2024](https://dev.to/nithinbharathwaj/8-professional-python-web-scraping-methods-that-actually-work-in-2024-lc8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
