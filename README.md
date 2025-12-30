@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What is cppsp?](https://dev.to/user19870/what-is-cppsp-1af7)
-- [Junior Developer&#39;s Full-Stack AI Journey: Completing the KYC System and Growing - Part 7](https://dev.to/wintrover/junior-developers-full-stack-ai-journey-completing-the-kyc-system-and-growing-part-7-hh2)
-- [Transparency in Web Development: How Open Design Builds Trust and Loyalty](https://dev.to/okoye_ndidiamaka_5e3b7d30/transparency-in-web-development-how-open-design-builds-trust-and-loyalty-33e7)
-- [Full-Stack Observability 101: What It Is and Why It Matters](https://dev.to/rushikesh_langale_94ce517/full-stack-observability-101-what-it-is-and-why-it-matters-3ddl)
-- [Understanding AWS Lambda Layers: Simplifying Serverless Development](https://dev.to/khushi_jitani_ca127abdedd/understanding-aws-lambda-layers-simplifying-serverless-development-588g)
+- [OpenAI Sora vs Other AI Video Tools: Which One Fits Your Needs?](https://dev.to/engagecoders/openai-sora-vs-other-ai-video-tools-which-one-fits-your-needs-52hf)
+- [WTF is Synthetic Data Generation?](https://dev.to/dailybugle33/wtf-is-synthetic-data-generation-3cd1)
+- [Right-Sized Microservices: Balancing Agility and Manageability](https://dev.to/eknath_shinde_758b45829e2/right-sized-microservices-balancing-agility-and-manageability-1ol2)
+- [Why Traditional Bookmark Managers Are Dead &lpar;And What&#39;s Replacing Them&rpar;](https://dev.to/cheng_yong_1479d26621a894/why-traditional-bookmark-managers-are-dead-and-whats-replacing-them-49f7)
+- [Top IT Staff Augmentation Companies: Got the opportunity to interview a veteran CTO](https://dev.to/maame-codes/top-it-staff-augmentation-companies-got-the-opportunity-to-interview-a-veteran-cto-bp6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
