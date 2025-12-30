@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Glin Profanity: A Practical Toolkit for Content Moderation](https://dev.to/thegdsks/glin-profanity-a-practical-toolkit-for-content-moderation-l7n)
+- [The Reset Button That Wasn&#39;t: Why 2026 Demands a New Kind of Resolution](https://dev.to/_boweii/the-reset-button-that-wasnt-why-2026-demands-a-new-kind-of-resolution-14j2)
+- [Gratitude...](https://dev.to/cathylai/gratitude-3153)
 - [I Used ClaudeCode to Rescue an npm Package with 760K Downloads &lpar;And Now I Have a Mission from my regular day job&rpar;](https://dev.to/greenstevester/i-used-claudecode-to-rescue-an-npm-package-with-760k-downloads-and-now-i-have-a-mission-from-my-3kdj)
 - [How to Design Backward Compatible APIs in .NET, Real Lessons and Tips from Production](https://dev.to/saber-amani/how-to-design-backward-compatible-apis-in-net-real-lessons-and-tips-from-production-1mjk)
-- [Fundamentos de Probabilidad para Calculo Estocastico: Una Guia Rigurosa](https://dev.to/ctj01/fundamentos-de-probabilidad-para-calculo-estocastico-una-guia-rigurosa-580p)
-- [Prompt Injection Attacks: The Hidden Security Threat in AI Applications](https://dev.to/satinathnit/prompt-injection-attacks-the-hidden-security-threat-in-ai-applications-4g9h)
-- [Tokens, Context Windows, and Why They Matter: The Complete Guide](https://dev.to/satinathnit/tokens-context-windows-and-why-they-matter-the-complete-guide-2ko7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
