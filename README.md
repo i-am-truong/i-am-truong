@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Elements: PromptInput Component Design and Testing Framework](https://dev.to/rockfire/ai-elements-promptinput-component-design-and-testing-framework-gma)
-- [Building Production-Ready AI Backends with FastAPI](https://dev.to/hamluk/building-production-ready-ai-backends-with-fastapi-4352)
-- [Ansible Fundamentals Beyond the First Playbook](https://dev.to/anushree_gm/ansible-fundamentals-beyond-the-first-playbook-2gb4)
-- [Comunidad LATAM de la FinOps Foundation](https://dev.to/barbara_gaspar/comunidad-latam-de-la-finops-foundation-3h7g)
-- [Beyond Simple Rate Limiting: Behavioral Throttling for AI Agent Security](https://dev.to/helios_techcomm_552ce9239/beyond-simple-rate-limiting-behavioral-throttling-for-ai-agent-security-44lk)
+- [Most SaaS Products Don’t Fail on Tech - They Fail on Trust](https://dev.to/mukul_sharma/most-saas-products-dont-fail-on-tech-they-fail-on-trust-30mc)
+- [The Hidden Cost of Blind Pricing: How Competitor Price Drops Are Silently Killing Your Revenue](https://dev.to/tracksimple/the-hidden-cost-of-blind-pricing-how-competitor-price-drops-are-silently-killing-your-revenue-4nja)
+- [The Real AI Directory List for 2026: What Actually Works](https://dev.to/claudeprime/the-real-ai-directory-list-for-2026-what-actually-works-44pk)
+- [I&#39;ll Submit Your AI Tool to 50+ Directories &lpar;So You Don&#39;t Have To&rpar;](https://dev.to/claudeprime/ill-submit-your-ai-tool-to-50-directories-so-you-dont-have-to-1h0b)
+- [💼 Out-of-Office You, Not Excuses](https://dev.to/yaseen_tech/out-of-office-you-not-excuses-5f0h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
