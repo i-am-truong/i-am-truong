@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Exposing Homelab through Cloudflare Tunnel](https://dev.to/ebourgess/exposing-homelab-through-cloudflare-tunnel-38nb)
-- [Do Socket ao Spring Boot: entendendo a comunicação via rede em Java](https://dev.to/jeronimafloriano/do-socket-ao-spring-boot-entendendo-a-comunicacao-via-rede-em-java-11gd)
-- [Ensuring AI Reliability: Correctness, Consistency, and Availability](https://dev.to/kapusto/ensuring-ai-reliability-correctness-consistency-and-availability-349p)
-- [Operability First: Policy, Not Hope](https://dev.to/aponysus/operability-first-policy-not-hope-3bo)
-- [Backtick - A Concise Programming Language](https://dev.to/splotdev/backtick-a-concise-programming-language-4ip6)
+- [SpyHunt](https://dev.to/mr1mmdrza/spyhunt-3ll8)
+- [Building a CMS-Level Firewall: Why Application Context Matters](https://dev.to/maximalex/building-a-cms-level-firewall-why-application-context-matters-52kp)
+- [🎯_Microservices_Performance_Tuning_Practical[20251230231030]](https://dev.to/member_6331818c/microservicesperformancetuningpractical20251230231030-16k1)
+- [2025-12-30 Daily Robotics News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-30-daily-robotics-news-l8m)
+- [Announcing Bootstrapr.io](https://dev.to/randal_sean/announcing-bootstraprio-29gl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
