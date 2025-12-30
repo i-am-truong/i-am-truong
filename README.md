@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My Experience Using the BMAD Framework on a Personal Project &lpar;Patience Required&rpar;](https://dev.to/arch4g/my-experience-using-the-bmad-framework-on-a-personal-project-patience-required-28aa)
-- [Human dignity bug: chronicles of an inherited delusion](https://dev.to/zio-mitch/human-dignity-bug-chronicles-of-an-inherited-delusion-5dao)
-- [Xtensa: the CPU architecture you already use &lpar;without knowing it&rpar;](https://dev.to/viz-x/xtensa-the-cpu-architecture-you-already-use-without-knowing-it-38j4)
-- [LoongArch: China’s homegrown CPU architecture that is now in real laptops](https://dev.to/viz-x/loongarch-chinas-homegrown-cpu-architecture-that-is-now-in-real-laptops-347a)
-- [Il Bug della Dignità: Cronaca di un’illusione ereditaria](https://dev.to/zio-mitch/il-bug-della-dignita-cronaca-di-unillusione-ereditaria-54fd)
+- [AWS Account Best Practices: Secure Your AWS Account Before It&#39;s Too Late](https://dev.to/aws-builders/aws-account-best-practices-secure-your-aws-account-before-its-too-late-2306)
+- [AWS Control Tower Alternatives: From Console to Code](https://dev.to/aws-builders/aws-control-tower-alternatives-from-console-to-code-2iho)
+- [I Built an AI-Powered Contract Analyzer to Detect Risks in Seconds](https://dev.to/hasan_zcan_6cb354f0d0fb9/i-built-an-ai-powered-contract-analyzer-to-detect-risks-in-seconds-1237)
+- [AWS Control Tower vs AWS Organizations: One Builds on the Other](https://dev.to/aws-builders/aws-control-tower-vs-aws-organizations-one-builds-on-the-other-4d00)
+- [AWS Multi-Account Best Practices: Build a Scalable, Secure Foundation](https://dev.to/aws-builders/aws-multi-account-best-practices-build-a-scalable-secure-foundation-k97)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
