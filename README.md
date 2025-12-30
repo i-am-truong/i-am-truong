@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [PlatformIO on GitHub Actions with cache accelerate](https://dev.to/akuad/platformio-on-github-actions-with-cache-accelerate-4cm9)
-- [Python Is Overrated? The REAL Best Language for Web Scraping](https://dev.to/sardanios/python-is-overrated-the-real-best-language-for-web-scraping-o5a)
-- [GoldSilver.ai](https://dev.to/goldsilverai/goldsilverai-1p2)
-- [Moving VMware to AWS Just Got a Whole Lot Easier](https://dev.to/william_obiana_57252364b4/moving-vmware-to-aws-just-got-a-whole-lot-easier-2edd)
-- [Protecting Sensitive Data Using Envelope Encryption](https://dev.to/ibrahimgunduz34/protecting-sensitive-data-using-envelope-encryption-4o3c)
+- [Building a Modern Android UI Stack with Jetpack Compose &lpar;Senior Guide](https://dev.to/vio_di_code/building-a-modern-android-ui-stack-with-jetpack-compose-senior-guide-cfc)
+- [KEXP: Pixel Grip - Split &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pixel-grip-split-live-on-kexp-84k)
+- [How to Export Real Excel Workbooks in JavaScript Using Connected Workbooks](https://dev.to/meni_kroizer_16e2b4506a7e/how-to-export-real-excel-workbooks-in-javascript-using-connected-workbooks-2fkg)
+- [Getting started with GPU Programming on an EC2!](https://dev.to/aws-builders/getting-started-with-gpu-programming-on-an-ec2-42ke)
+- [Building Shared Memory with AI](https://dev.to/synthaicode_commander/building-shared-memory-with-ai-1e5e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
