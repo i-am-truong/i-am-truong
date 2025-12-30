@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Offline-First App Architecture with Firestore and Local Caching](https://dev.to/sherry_walker_bba406fb339/offline-first-app-architecture-with-firestore-and-local-caching-3f3f)
-- [I Hunted for n8n&#39;s Security Flaws. The Truth Was Far More Disturbing Than Any Exploit.](https://dev.to/amrithesh_dev/i-hunted-for-n8ns-security-flaws-the-truth-was-far-more-disturbing-than-any-exploit-40p7)
-- [Java EE / Enterprise Java Technologies – Practical Guide](https://dev.to/sunny7899/java-ee-enterprise-java-technologies-practical-guide-121b)
-- [Version Your Cache Keys or Your Rolling Deployments Will Break](https://dev.to/orr_benyamini_3946b4089a4/version-your-cache-keys-or-your-rolling-deployments-will-break-3m75)
-- [Advent of Cyber 2025 Day 11 Writeup: Cross-Site Scripting &lpar;XSS&rpar; | TryHackMe](https://dev.to/mahin101/advent-of-cyber-2025-day-10-writeup-cross-site-scripting-xss-tryhackme-30i6)
+- [GoldSilver.ai](https://dev.to/goldsilverai/goldsilverai-1p2)
+- [Moving VMware to AWS Just Got a Whole Lot Easier](https://dev.to/william_obiana_57252364b4/moving-vmware-to-aws-just-got-a-whole-lot-easier-2edd)
+- [Protecting Sensitive Data Using Envelope Encryption](https://dev.to/ibrahimgunduz34/protecting-sensitive-data-using-envelope-encryption-4o3c)
+- [AIX: IBM’s Unix That Was Never Trying to Be Cool](https://dev.to/viz-x/aix-ibms-unix-that-was-never-trying-to-be-cool-1l5i)
+- [What Are AWS Regions, Availability Zones, and Edge Locations? A Simple Guide for Beginners](https://dev.to/deeppatel0311/what-are-aws-regions-availability-zones-and-edge-locations-a-simple-guide-for-beginners-2kbj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
