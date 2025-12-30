@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [PlatformIO on GitHub Actions with cache accelerate](https://dev.to/akuad/platformio-on-github-actions-with-cache-accelerate-4cm9)
+- [Python Is Overrated? The REAL Best Language for Web Scraping](https://dev.to/sardanios/python-is-overrated-the-real-best-language-for-web-scraping-o5a)
 - [GoldSilver.ai](https://dev.to/goldsilverai/goldsilverai-1p2)
 - [Moving VMware to AWS Just Got a Whole Lot Easier](https://dev.to/william_obiana_57252364b4/moving-vmware-to-aws-just-got-a-whole-lot-easier-2edd)
 - [Protecting Sensitive Data Using Envelope Encryption](https://dev.to/ibrahimgunduz34/protecting-sensitive-data-using-envelope-encryption-4o3c)
-- [AIX: IBM’s Unix That Was Never Trying to Be Cool](https://dev.to/viz-x/aix-ibms-unix-that-was-never-trying-to-be-cool-1l5i)
-- [What Are AWS Regions, Availability Zones, and Edge Locations? A Simple Guide for Beginners](https://dev.to/deeppatel0311/what-are-aws-regions-availability-zones-and-edge-locations-a-simple-guide-for-beginners-2kbj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
