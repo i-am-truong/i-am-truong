@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Code now. Think later. Suck it up.](https://dev.to/cedricpierre/code-now-think-later-suck-it-up-dhf)
+- [Microsoft Defender for Endpoint: Attack Surface Reduction Rules](https://dev.to/kapusto/microsoft-defender-for-endpoint-attack-surface-reduction-rules-47ab)
+- [I Applied for AdSense and Got Rejected for &quot;Low Value Content&quot;](https://dev.to/bdubs/i-applied-for-adsense-and-got-rejected-for-low-value-content-hog)
+- [The OWASP Top 10 for AI Agents: Your 2026 Security Checklist &lpar;ASI Top 10&rpar;](https://dev.to/alessandro_pignati/the-owasp-top-10-for-ai-agents-your-2026-security-checklist-asi-top-10-cck)
 - [I Built TrackInterview — A Simple Way to Track Job Applications](https://dev.to/surajdev/i-built-trackinterview-a-simple-way-to-track-job-applications-46h9)
-- [Solved: Is there a Zap trigger that can recognize when a new Google Worksheet tab has been added?](https://dev.to/techresolve/solved-is-there-a-zap-trigger-that-can-recognize-when-a-new-google-worksheet-tab-has-been-added-5dlp)
-- [Solved: Anyone using newer SEO tools worth switching to from Ahrefs/SEMrush?](https://dev.to/techresolve/solved-anyone-using-newer-seo-tools-worth-switching-to-from-ahrefssemrush-25p3)
-- [Stop the Hijack: A Developer&#39;s Guide to AI Agent Security and Tool Guardrails](https://dev.to/alessandro_pignati/stop-the-hijack-a-developers-guide-to-ai-agent-security-and-tool-guardrails-5g9m)
-- [2025: The Year I Built Foundations, Not Perfection](https://dev.to/congomusah/2025-the-year-i-built-foundations-not-perfection-1j3f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
