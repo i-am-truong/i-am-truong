@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Closures Explained in Simple Terms](https://dev.to/homayounmmdy/javascript-closures-explained-in-simple-terms-109h)
-- [How to Configure Eureka Server](https://dev.to/eduesqui/how-to-configure-eureka-server-3om4)
-- [Node.js Fundamentals - Server-Side JavaScript](https://dev.to/dss99911/nodejs-fundamentals-server-side-javascript-3cf5)
-- [Node.js Database Integration - MySQL and MongoDB](https://dev.to/dss99911/nodejs-database-integration-mysql-and-mongodb-527d)
-- [jQuery Complete Guide - From Basics to Advanced](https://dev.to/dss99911/jquery-complete-guide-from-basics-to-advanced-1l0g)
+- [Regressão Linear para Inferência Causal: Indo Além da Predição](https://dev.to/_richardson_/regressao-linear-para-inferencia-causal-indo-alem-da-predicao-81b)
+- [Why Simple Online Tools Still Matter in Everyday Work](https://dev.to/ben_stokes_221e9ad9b34d91/why-simple-online-tools-still-matter-in-everyday-work-b8)
+- [Why Consultants Need a Personal Branding Hub Online](https://dev.to/imtaslim/why-consultants-need-a-personal-branding-hub-online-3bl3)
+- [I Built a URL Shortener Because Bitly Made Me Angry &lpar;And Other Bad Reasons to Start a SaaS&rpar;](https://dev.to/anand_rathnas_d5b608cc3de/i-built-a-url-shortener-because-bitly-made-me-angry-and-other-bad-reasons-to-start-a-saas-279n)
+- [[Boost]](https://dev.to/tomas_2cbc42/-3308)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
