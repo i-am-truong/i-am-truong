@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How IoT and AI Work Together in Healthcare](https://dev.to/evelina_wright_43bf32170a/how-iot-and-ai-work-together-in-healthcare-2n7)
-- [Introducing Canvas Change Tracking in Bult.ai](https://dev.to/bult/introducing-canvas-change-tracking-in-bultai-1cpk)
-- [[Boost]](https://dev.to/hassan_rezaali_b64d94d40a/-58ol)
-- [How to Activate AI Assistant in Your Analytics Embedded App](https://dev.to/boldbi/how-to-activate-ai-assistant-in-your-analytics-embedded-app-4jfh)
-- [I Quit My Job to Build the Game Dev Platform I Wish Existed](https://dev.to/jonas_olofsson_cdf7608bde/i-quit-my-job-to-build-the-game-dev-platform-i-wish-existed-6jg)
+- [Odoo Cron Jobs Failing Silently: How I Debugged and Fixed Background Tasks in Production](https://dev.to/aaron_jones_d34b57d1b44ba/odoo-cron-jobs-failing-silently-how-i-debugged-and-fixed-background-tasks-in-production-31na)
+- [Artificial Intelligence in Mobile App Development Today](https://dev.to/devang1810/artificial-intelligence-in-mobile-app-development-today-2i3e)
+- [Beyond Selectors: The Starlight Protocol v2.5 and the Era of Sovereign Automation](https://dev.to/godhirajcode/beyond-selectors-the-starlight-protocol-v25-and-the-era-of-sovereign-automation-552l)
+- [My Research Journey in Green Software and Urban Mobility — Fady Desoky Saeed Abdelaziz](https://dev.to/fadydesokysaeedabdelaziz/my-research-journey-in-green-software-and-urban-mobility-fady-desoky-saeed-abdelaziz-2img)
+- [Best Cloud Training Platforms for Software Engineering Students in 2026: Top Tools to Fast-Track Your Cloud Skills](https://dev.to/lisaellington/best-cloud-training-platforms-for-software-engineering-students-in-2026-top-tools-to-fast-track-39d6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
