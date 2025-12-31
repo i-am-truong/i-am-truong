@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Scaling Django on Railway + S3 + Cloudflare for 1k+ concurrent users](https://dev.to/divuzki/scaling-django-on-railway-s3-cloudflare-for-1k-concurrent-users-2kjf)
 - [Today I Understood useEffect Cleanup &amp; Race Conditions &lpar;Real Lessons from usePopcorn&rpar;](https://dev.to/usama_dev/today-i-understood-useeffect-cleanup-race-conditions-real-lessons-from-usepopcorn-1fl7)
-- [Learning Programming as Debt, Not Investment](https://dev.to/alamasyarie/learning-programming-as-debt-not-investment-21gb)
+- [Learning Programming as Paying Debt, Not Investment](https://dev.to/alamasyarie/learning-programming-as-debt-not-investment-21gb)
 - [🚀 FileMate Pro: A Python GUI File Manager with Tkinter](https://dev.to/matetechnologie/filemate-pro-a-python-gui-file-manager-with-tkinter-13gh)
 - [CVE-2022-47986: IBM Aspera Faspex Code Execution Vulnerability](https://dev.to/freedom-coder/cve-2022-47986-ibm-aspera-faspex-code-execution-vulnerability-32c0)
-- [AWS Serverless Guide: Securing IoT Data Ingestion with API Gateway, Lambda, and DynamoDB](https://dev.to/aws-builders/aws-serverless-guide-securing-iot-data-ingestion-with-api-gateway-lambda-and-dynamodb-2hl5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
