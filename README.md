@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SQL*Plus: Guia Completo para Gerenciamento de Banco de Dados Oracle](https://dev.to/ikauedev/sqlplus-guia-completo-para-gerenciamento-de-banco-de-dados-oracle-4l3h)
-- [Beyond Server‑Side Rendering: Rediscovering PHP and the Joy of Experimenting](https://dev.to/jaboarnoldlandry/beyond-server-side-rendering-rediscovering-php-and-the-joy-of-experimenting-2oo6)
-- [Refatoração e Otimização com IA: Entre a Automação e o Julgamento Arquitetural](https://dev.to/vinicius3w/refatoracao-e-otimizacao-com-ia-entre-a-automacao-e-o-julgamento-arquitetural-38im)
-- [Regular Expressions in Python: The Complete Guide to Finally Understanding Regex](https://dev.to/codewithmpia/regular-expressions-in-python-the-complete-guide-to-finally-understanding-regex-53p9)
-- [🚀_Ultimate_Web_Framework_Speed_Showdown[20251231195712]](https://dev.to/member_6331818c/ultimatewebframeworkspeedshowdown20251231195712-50f0)
+- [Build Robust, Maintainable APIs in C# - Real Production Systems](https://dev.to/saber-amani/build-robust-maintainable-apis-in-c-real-production-systems-2pa7)
+- [MAX7219 Example &lpar;8 digit segment driver&rpar;](https://dev.to/danielmx/max7219-example-8-digit-segment-driver-52m8)
+- [MAX7219 Example &lpar;8 digit segment driver&rpar;](https://dev.to/danielmx/max7219-example-8-digit-segment-driver-1dfa)
+- [What a Software Engineer Should Learn Next Year to Become a Powerhouse](https://dev.to/divuzki/what-a-software-engineer-should-learn-next-year-to-become-a-powerhouse-2iol)
+- [How to Allow Your JavaScript Web App to Be Accessed by Other Devices on Windows](https://dev.to/flyingduck92/how-to-allow-your-javascript-web-app-to-be-accessed-by-other-devices-on-windows-5706)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
