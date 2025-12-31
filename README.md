@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [KitOps Wrap 2025🔥](https://dev.to/astrodevil/kitops-wrap-2025-1n0l)
-- [CloudSweeper: Cutting Cloud Waste with an AI FinOps Agent](https://dev.to/qlooptech/cloudsweeper-cutting-cloud-waste-with-an-ai-finops-agent-580l)
-- [Stop Parsing Nightmares: Prompting LLMs to Return Clean, Parseable JSON](https://dev.to/superorange0707/stop-parsing-nightmares-prompting-llms-to-return-clean-parseable-json-290o)
-- [Interested in the AWS Community Builders program?](https://dev.to/aws-builders/interested-in-the-aws-community-builders-program-5a1g)
-- [The History of Cron: From Unix Daemon to Modern Monitoring Tools](https://dev.to/cronmonitor/the-history-of-cron-from-unix-daemon-to-modern-monitoring-tools-9io)
+- [Deploying Scalable Web Apps With Azure App Services](https://dev.to/akintoye_gbenga/deploying-scalable-web-apps-with-azure-app-services-3o83)
+- [Stop Fine-Tuning Everything: Inject Knowledge with Few‑Shot In‑Context Learning](https://dev.to/superorange0707/stop-fine-tuning-everything-inject-knowledge-with-few-shot-in-context-learning-40gb)
+- [Cloudflare + MongoDB: How to fix &#39;Error: Dynamic require of &quot;punycode/&quot; is not supported&#39;](https://dev.to/alexbevi/cloudflare-mongodb-how-to-fix-error-dynamic-require-of-punycode-is-not-supported-1hmh)
+- [Stop Fighting with Pandas: Let Prompt Drive Your DataFrames](https://dev.to/superorange0707/stop-fighting-with-pandas-let-prompt-drive-your-dataframes-3g60)
+- [Privacy-Focused Browsers: Protecting Your Digital Footprint](https://dev.to/rapidcellphone/privacy-focused-browsers-protecting-your-digital-footprint-2k0e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
