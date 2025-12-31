@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [TCEval: Using Thermal Comfort to Assess Cognitive and Perceptual Abilities of AI](https://dev.to/daily_ai_trends/tceval-using-thermal-comfort-to-assess-cognitive-and-perceptual-abilities-of-ai-54po)
+- [ReGAIN: Retrieval-Grounded AI Framework for Network Traffic Analysis](https://dev.to/daily_ai_trends/regain-retrieval-grounded-ai-framework-for-network-traffic-analysis-5bd9)
 - [How Angular Signal Forms Handle Validation CSS Classes](https://dev.to/_kafeel_ahmad/how-angular-signal-forms-handle-validation-css-classes-jf1)
 - [No Code For You &lpar;AI&rpar;](https://dev.to/aaronblondeau/no-code-for-you-ai-5emb)
 - [Environment Variables Without the Chaos: A Vault-First Approach](https://dev.to/gd-tech-guru/environment-variables-without-the-chaos-a-vault-first-approach-3dgc)
-- [11 Things I Wish Someone Told Me Before Learning Angular](https://dev.to/_kafeel_ahmad/11-things-i-wish-someone-told-me-before-learning-angular-49kl)
-- [JSON Might Be Limiting Your Prompts](https://dev.to/sardanios/json-might-be-limiting-your-prompts-318f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
