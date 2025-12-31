@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[Boost]](https://dev.to/lee_rodgers_05/-45ag)
+- [Engage, Convert, Succeed: Master JavaScript for Next-Level User Experiences](https://dev.to/patoliyainfotech/engage-convert-succeed-master-javascript-for-next-level-user-experiences-4pe4)
+- [Weeks 7-8: Browser-Based AI, Holiday Dips, and Why Third-Party SEO Tools Are Nearly Useless](https://dev.to/eduard_albu/weeks-7-8-browser-based-ai-holiday-dips-and-why-third-party-seo-tools-are-nearly-useless-5dan)
+- [Why Gamification Actually Works for Developer Productivity &lpar;And Why I Was Wrong to Dismiss It&rpar;](https://dev.to/lux_seminare/why-gamification-actually-works-for-developer-productivity-and-why-i-was-wrong-to-dismiss-it-3n4g)
 - [Open Source Is People: A Python &amp; Django Year](https://dev.to/maaddae/open-source-is-people-a-python-django-year-com)
-- [AI Prevents Organized Human-Led Cyber Attacks](https://dev.to/farzandev13/ai-prevents-organized-human-led-cyber-attacks-1oc5)
-- [Does the Shopify theme really affect store performance?](https://dev.to/amara_okafor_2dc94ad7699a/does-the-shopify-theme-really-affect-store-performance-3812)
-- [When Would You Group Multiple API Proxies Into a Single Product in Apigee X?](https://dev.to/realnamehidden1_61/when-would-you-group-multiple-api-proxies-into-a-single-product-in-apigee-x-2djb)
-- [🖥️ The DEC-VAX: The Machine That Changed Computing History](https://dev.to/f345345dfg/the-dec-vax-the-machine-that-changed-computing-history-50kf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
