@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Splunk Investigator Agent with Strands Agents and Amazon Bedrock AgentCore](https://dev.to/aws-builders/building-a-splunk-investigator-agent-with-strands-agents-and-amazon-bedrock-agentcore-53dc)
-- [MCP Security 101: Protecting Your AI Agents from &quot;God-Mode&quot; Risks](https://dev.to/alessandro_pignati/mcp-security-101-protecting-your-ai-agents-from-god-mode-risks-h0b)
-- [Entre o Backlog Caótico e o Algoritmo: Priorização e Cenários com IA](https://dev.to/vinicius3w/entre-o-backlog-caotico-e-o-algoritmo-priorizacao-e-cenarios-com-ia-27be)
-- [A solid explanation to SOLID Principle](https://dev.to/_a_m_a_n_pandey/a-solid-explanation-to-solid-principle-42j8)
-- [When AI Remembers Everything](https://dev.to/rawveg/when-ai-remembers-everything-4pkl)
+- [[Boost]](https://dev.to/hadi_mirza/-nhc)
+- [Simplifying Cloud Messaging with StackVerify](https://dev.to/morgan_miller_1/simplifying-cloud-messaging-with-stackverify-go0)
+- [Stop Writing Validation Twice: How I Built a &quot;Shared Brain&quot; Sync Engine with Go &amp; WASM](https://dev.to/harshal_patel_e3124fa33c6/stop-writing-validation-twice-how-i-built-a-shared-brain-sync-engine-with-go-wasm-2hdc)
+- [Google is dead. Where do we go now?](https://dev.to/himanshu_7740280bb692b874/google-is-dead-where-do-we-go-now-5d6e)
+- [Building a Robust End of Service &lpar;EOS&rpar; Valuation System: Lessons from a Real-World Actuarial Project](https://dev.to/sajjadali/building-a-robust-end-of-service-eos-valuation-system-lessons-from-a-real-world-actuarial-project-43o9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
