@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hardcoded Secrets: The #1 Vulnerability AI Agents Can Auto-Fix](https://dev.to/ofri-peretz/hardcoded-secrets-the-1-vulnerability-ai-agents-can-auto-fix-47cg)
+- [Unfortunately, I have to close my daily.dev account because of my own mistake](https://dev.to/web_dev-usman/unfortunately-i-have-to-close-my-dailydev-account-1h2m)
 - [Why eslint-plugin-import Takes 45 Seconds &lpar;And How We Fixed It&rpar;](https://dev.to/ofri-peretz/why-eslint-plugin-import-takes-45-seconds-and-how-we-fixed-it-2nmh)
 - [Speed Is Overrated: Clarity Is the Real Competitive Advantage](https://dev.to/jaideepparashar/speed-is-overrated-clarity-is-the-real-competitive-advantage-5bp0)
 - [I Was Overpaying for AWS EC2 &lpar;Here’s What I Learned&rpar;](https://dev.to/subhashbohra/i-was-overpaying-for-aws-ec2-heres-what-i-learned-31pm)
-- [Chingu.io: Build, Collaborate, Learn: Remote Projects V58 Showcase](https://dev.to/chingu/chinguio-build-collaborate-learn-remote-projects-v58-showcase-5fcb)
-- [Facebook System Design Interview Resources That Helped Me Land the Role](https://dev.to/dev_loops/facebook-system-design-interview-resources-that-helped-me-land-the-role-49np)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
