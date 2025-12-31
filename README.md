@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [⚡_Latency_Optimization_Practical_Guide[20251231224938]](https://dev.to/member_8659c28a/latencyoptimizationpracticalguide20251231224938-1pfc)
 - [is there to use types in different screens](https://dev.to/pierrot10/is-there-to-use-types-in-different-screens-47aj)
 - [Teaching Machines the Art of Nuance with Google Cloud Natural Language API](https://dev.to/taiwofamaks/teaching-machines-the-art-of-nuance-with-google-cloud-natural-language-api-5cmn)
 - [Stop Trading Like It&#39;s 1999: I Built an Autonomous, Vision-Capable Crypto Bot with Python 3.13 🚀](https://dev.to/qrak/stop-trading-like-its-1999-i-built-an-autonomous-vision-capable-crypto-bot-with-python-313-3110)
 - [Elevating Crypto Communities: How I Combined Discord and AI for Real-Time Market Intelligence 📊🤖](https://dev.to/qrak/elevating-crypto-communities-how-i-combined-discord-and-ai-for-real-time-market-intelligence-5h36)
+- [Solved: Do you separate template browsing from deployment in your internal IaC tooling?](https://dev.to/techresolve/solved-do-you-separate-template-browsing-from-deployment-in-your-internal-iac-tooling-58pn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
