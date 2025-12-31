@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your AI Agent Isn’t Unsafe — It’s Unstoppable &lpar;And That’s the Problem&rpar;](https://dev.to/yuer/your-ai-agent-isnt-unsafe-its-unstoppable-and-thats-the-problem-1e82)
-- [5 Flutter Decisions I’d Make Differently If I Started Today](https://dev.to/abdul_wahab_fe886de9acd8a/5-flutter-decisions-id-make-differently-if-i-started-today-3m5p)
-- [Navigating AI Trading Legally: My Compliance Journey](https://dev.to/tanvir_khan_18c27d836a78f/navigating-ai-trading-legally-my-compliance-journey-446)
-- [Welcome Thread - v358](https://dev.to/devteam/welcome-thread-v358-4m6k)
-- [DSA Doesn’t Make You a Better Engineer &lpar;Alone&rpar;](https://dev.to/3m/dsa-doesnt-make-you-a-better-engineer-alone-2fb4)
+- [Why eslint-plugin-import Takes 45 Seconds &lpar;And How We Fixed It&rpar;](https://dev.to/ofri-peretz/why-eslint-plugin-import-takes-45-seconds-and-how-we-fixed-it-2nmh)
+- [Speed Is Overrated: Clarity Is the Real Competitive Advantage](https://dev.to/jaideepparashar/speed-is-overrated-clarity-is-the-real-competitive-advantage-5bp0)
+- [I Was Overpaying for AWS EC2 &lpar;Here’s What I Learned&rpar;](https://dev.to/subhashbohra/i-was-overpaying-for-aws-ec2-heres-what-i-learned-31pm)
+- [Chingu.io: Build, Collaborate, Learn: Remote Projects V58 Showcase](https://dev.to/chingu/chinguio-build-collaborate-learn-remote-projects-v58-showcase-5fcb)
+- [Facebook System Design Interview Resources That Helped Me Land the Role](https://dev.to/dev_loops/facebook-system-design-interview-resources-that-helped-me-land-the-role-49np)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
