@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The 5 Best Automatic Time Trackers for Mac: Balancing AI, Billing, and Privacy](https://dev.to/criticalmynd/the-5-best-automatic-time-trackers-for-mac-balancing-ai-billing-and-privacy-4k9p)
+- [🚀 Terraform Day 27: Automating Infrastructure with GitHub Actions &lpar;CI/CD&rpar;](https://dev.to/jeeva_5c84a254e90842940dd/terraform-day-27-automating-infrastructure-with-github-actions-cicd-4o44)
 - [structuredClone&lpar;&rpar; — The Deep Copy Hero JavaScript Deserved 🦸‍♀️](https://dev.to/shantih_palani/structuredclone-the-deep-copy-hero-javascript-deserved-2add)
 - [I built a client-side Image to PDF converter &lpar;No Server Uploads&rpar;](https://dev.to/dasbd/i-built-a-client-side-image-to-pdf-converter-no-server-uploads-bo6)
-- [What I Learned From Scraping 100,000 Tech Signals](https://dev.to/jose_marquez_alberti/what-i-learned-from-scraping-100000-tech-signals-4fgp)
-- [Building Production-Ready MERN Stack Applications: Lessons from 50M+ Users](https://dev.to/muhammad_zulqarnainakram/building-production-ready-mern-stack-applications-lessons-from-50m-users-1pjd)
-- [CSS @property Explained: The Secret Weapon for Dynamic &amp; Smooth Animations](https://dev.to/satyam_gupta_0d1ff2152dcc/css-property-explained-the-secret-weapon-for-dynamic-smooth-animations-2ip5)
+- [🎉 Happy New Year, Neva Community! 🎉](https://dev.to/emil_valeev/happy-new-year-neva-community-c26)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
