@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Part 7: CUDA Integration with Python](https://dev.to/palash90/cuda-integration-with-python-5mf)
+- [How does file upload work in Immich codebase - Part 2.](https://dev.to/ramunarasinga-11/how-does-file-upload-work-in-immich-codebase-part-2-ncl)
+- [I Built an AI Tarot Reading Tool That Goes Deeper Than Just Card Meanings](https://dev.to/newsapling/i-built-an-ai-tarot-reading-tool-that-goes-deeper-than-just-card-meanings-4eb3)
+- [When Architecture Inverts Complexity - How CQRS and Event-Driven Architectures Undermine Scalable Domain Models](https://dev.to/leonpennings/when-architecture-inverts-complexity-how-cqrs-and-event-driven-architectures-undermine-scalable-5ol)
 - [🚀 Introducing Trace Dev — A New Platform Built for Developers](https://dev.to/rushikesh_bodakhe_db28644/introducing-trace-dev-a-new-platform-built-for-developers-19eg)
-- [2025: The Year AI Became My Coding Partner](https://dev.to/mikulg/2025-the-year-ai-became-my-coding-partner-30ek)
-- [My 2025 wrap](https://dev.to/varshithvhegde/my-2025-wrap-ek0)
-- [Skyflo: AI agent for Cloud &amp; DevOps](https://dev.to/karanjagtiani/skyflo-ai-agent-for-cloud-devops-3a7f)
-- [The useMemo react hook: Optimizing Expensive Calculations with useMemo](https://dev.to/edriso/the-usememo-react-hook-optimizing-expensive-calculations-with-usememo-2j84)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
