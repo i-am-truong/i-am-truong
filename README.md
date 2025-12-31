@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Android 권한 &lpar;Permission&rpar; 완벽 가이드](https://dev.to/dss99911/android-gweonhan-permission-wanbyeog-gaideu-280k)
-- [Spring Security 시작하기 - 기본 설정과 인증](https://dev.to/dss99911/spring-security-sijaghagi-gibon-seoljeonggwa-injeung-4751)
-- [Hibernate 쿼리 완벽 가이드 - HQL과 Criteria API](https://dev.to/dss99911/hibernate-kweori-wanbyeog-gaideu-hqlgwa-criteria-api-h5m)
-- [Spring Boot 로깅 설정 가이드 - Logback 설정과 활용](https://dev.to/dss99911/spring-boot-roging-seoljeong-gaideu-logback-seoljeonggwa-hwalyong-5ana)
-- [Hibernate XML 설정 가이드 - 매핑, 캐시, 트랜잭션](https://dev.to/dss99911/hibernate-xml-seoljeong-gaideu-maeping-kaesi-teuraenjaegsyeon-48pe)
+- [DSA Doesn’t Make You a Better Engineer &lpar;Alone&rpar;](https://dev.to/3m/dsa-doesnt-make-you-a-better-engineer-alone-2fb4)
+- [Ruby 기초 - 문법과 기본 개념](https://dev.to/dss99911/ruby-gico-munbeobgwa-gibon-gaenyeom-2pl5)
+- [Ruby 예외 처리와 정규 표현식](https://dev.to/dss99911/ruby-yeoe-ceoriwa-jeonggyu-pyohyeonsig-3ggj)
+- [Ruby 블록과 Lambda](https://dev.to/dss99911/ruby-beulroggwa-lambda-1bcc)
+- [Ruby 클래스와 객체지향 프로그래밍](https://dev.to/dss99911/ruby-keulraeseuwa-gaegcejihyang-peurogeuraeming-4pf9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
