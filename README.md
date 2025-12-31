@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Deploying Scalable Web Apps With Azure App Services](https://dev.to/akintoye_gbenga/deploying-scalable-web-apps-with-azure-app-services-3o83)
-- [Stop Fine-Tuning Everything: Inject Knowledge with Few‑Shot In‑Context Learning](https://dev.to/superorange0707/stop-fine-tuning-everything-inject-knowledge-with-few-shot-in-context-learning-40gb)
-- [Cloudflare + MongoDB: How to fix &#39;Error: Dynamic require of &quot;punycode/&quot; is not supported&#39;](https://dev.to/alexbevi/cloudflare-mongodb-how-to-fix-error-dynamic-require-of-punycode-is-not-supported-1hmh)
-- [Stop Fighting with Pandas: Let Prompt Drive Your DataFrames](https://dev.to/superorange0707/stop-fighting-with-pandas-let-prompt-drive-your-dataframes-3g60)
-- [Privacy-Focused Browsers: Protecting Your Digital Footprint](https://dev.to/rapidcellphone/privacy-focused-browsers-protecting-your-digital-footprint-2k0e)
+- [ROCm](https://dev.to/elferrer/rocm-not-cuda-3c7d)
+- [Rust for JavaScript Developers: A Practical Guide to Your First 1000 Lines &lpar;2026&rpar;](https://dev.to/pockit_tools/rust-for-javascript-developers-a-practical-guide-to-your-first-1000-lines-2026-1npd)
+- [Implementing Glob Imports in Node.js](https://dev.to/jiyingzhi/implementing-glob-imports-in-nodejs-3004)
+- [Building Single-Executable Node.js Apps &lpar;Without the Pain&rpar;](https://dev.to/sfundomhlungu/building-single-executable-nodejs-apps-without-the-pain-1m3d)
+- [Refactor Anytime](https://dev.to/synthaicode_commander/refactor-anytime-34k2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
