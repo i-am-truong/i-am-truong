@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🌐_Network_IO_Performance_Optimization[20251231210816]](https://dev.to/member_6331818c/networkioperformanceoptimization20251231210816-4old)
+- [🛠 Fixing a Real UI Bug in PrimeReact: My Open Source Contribution Journey](https://dev.to/coderxrohan/fixing-a-real-ui-bug-in-primereact-my-open-source-contribution-journey-428b)
+- [Interpretable classifiers using rules and Bayesian analysis: Building a betterstroke prediction model](https://dev.to/paperium/interpretable-classifiers-using-rules-and-bayesian-analysis-building-a-betterstroke-prediction-2c40)
 - [Monitoring Third-Party Webhook Delays with AWS Durable Functions](https://dev.to/aws-builders/monitoring-third-party-webhook-delays-with-aws-durable-functions-1800)
 - [I Just Deleted 3 Months of Work Here&#39;s Why..](https://dev.to/yakhilesh/i-just-deleted-3-months-of-work-heres-why-4ncd)
-- [Deepfake &amp; Mobile Identity Fraud - Securing AI Models with Docker](https://dev.to/swap11/deepfake-mobile-identity-fraud-securing-ai-models-with-docker-9g9)
-- [Build Robust, Maintainable APIs in C# - Real Production Systems](https://dev.to/saber-amani/build-robust-maintainable-apis-in-c-real-production-systems-2pa7)
-- [MAX7219 Example &lpar;8 digit segment driver&rpar;](https://dev.to/danielmx/max7219-example-8-digit-segment-driver-52m8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
