@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Scaling Django on Railway + S3 + Cloudflare for 1k+ concurrent users](https://dev.to/divuzki/scaling-django-on-railway-s3-cloudflare-for-1k-concurrent-users-2kjf)
-- [Today I Understood useEffect Cleanup &amp; Race Conditions &lpar;Real Lessons from usePopcorn&rpar;](https://dev.to/usama_dev/today-i-understood-useeffect-cleanup-race-conditions-real-lessons-from-usepopcorn-1fl7)
-- [Learning Programming as Paying Debt, Not Investment](https://dev.to/alamasyarie/learning-programming-as-debt-not-investment-21gb)
-- [🚀 FileMate Pro: A Python GUI File Manager with Tkinter](https://dev.to/matetechnologie/filemate-pro-a-python-gui-file-manager-with-tkinter-13gh)
-- [CVE-2022-47986: IBM Aspera Faspex Code Execution Vulnerability](https://dev.to/freedom-coder/cve-2022-47986-ibm-aspera-faspex-code-execution-vulnerability-32c0)
+- [Building an Angular Compiler with Google Gemini](https://dev.to/brandontroberts/building-an-angular-compiler-with-google-gemini-ie0)
+- [SVG vs Canvas vs WebGL for Diagram Viewers: Tradeoffs, Bottlenecks, and How to Measure](https://dev.to/vitalf/svg-vs-canvas-vs-webgl-for-diagram-viewers-tradeoffs-bottlenecks-and-how-to-measure-34n7)
+- [A local-first, reversible PII scrubber for AI workflows using ONNX and Regex](https://dev.to/tjruesch/a-local-first-reversible-pii-scrubber-for-ai-workflows-using-onnx-and-regex-53fb)
+- [Scaling Autonomy: Architecting Cost-Efficient Agentic AI for the Enterprise](https://dev.to/dev_gupta_6707a7dccdfd729/scaling-autonomy-architecting-cost-efficient-agentic-ai-for-the-enterprise-4140)
+- [Structure Padding Isn’t Wastage of Memory — It’s a Hardware Requirement](https://dev.to/amanprasad/structure-padding-isnt-wastage-of-memory-its-a-hardware-requirement-2gk3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
