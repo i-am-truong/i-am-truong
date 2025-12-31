@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Dopamine Loop - stuck in the couch](https://dev.to/vrajparikh/dopamine-loop-2m87)
+- [When code suggestions suggest the past: deprecated Pandas APIs and silent drift](https://dev.to/sofiabennett84/when-code-suggestions-suggest-the-past-deprecated-pandas-apis-and-silent-drift-8mg)
+- [I&#39;m 15 and I built a self-healing AI terminal that controls computers via Natural Language](https://dev.to/omer_efe_86d7187975030b45/im-15-and-i-built-a-self-healing-ai-terminal-that-controls-computers-via-natural-language-ohp)
+- [When an AI refactor renames things wrong across files](https://dev.to/jamesdev4123/when-an-ai-refactor-renames-things-wrong-across-files-1kka)
 - [My parting gift to 2025 - my Claude Code context workflow turned into a plugin](https://dev.to/scott_raisbeck_24ea5fbc1e/my-parting-gift-to-2025-my-claude-code-context-workflow-turned-into-a-plugin-28ii)
-- [Day 12: The Grand Finale &amp; New App Launch! &lpar;Countdown Timer&rpar;](https://dev.to/dev_michael/day-12-the-grand-finale-new-app-launch-countdown-timer-4lfg)
-- [How to Create a Gradient from Any Photo &lpar;Step-by-Step&rpar;](https://dev.to/not_varunkv/how-to-create-a-gradient-from-any-photo-step-by-step-4379)
-- [Why I Trade the Terminal for a GUI: A Dev’s Take on GitKraken](https://dev.to/von_cunningham/why-i-trade-the-terminal-for-a-gui-a-devs-take-on-gitkraken-3cfe)
-- [AutoGluon-Tabular: Robust and Accurate AutoML for Structured Data](https://dev.to/paperium/autogluon-tabular-robust-and-accurate-automl-for-structured-data-2415)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
