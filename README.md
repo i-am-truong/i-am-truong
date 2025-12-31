@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Coffee Products to AI Search: Building a Serverless Semantic Search Architecture with Amazon S3 Vectors and Bedrock](https://dev.to/aws-builders/from-coffee-products-to-ai-search-building-a-serverless-semantic-search-architecture-with-amazon-5g5b)
-- [Laravel Prompts: Interactive CLI Made Simple](https://dev.to/addwebsolutionpvtltd/laravel-prompts-interactive-cli-made-simple-2n6)
-- [AWS: Monitoring AWS OpenSearch Service Cluster with CloudWatch](https://dev.to/setevoy/aws-monitoring-aws-opensearch-service-cluster-with-cloudwatch-385o)
-- [The Impact of Ceiling Height on Luxury: An Architecture and Interior Design Study](https://dev.to/muhammadsaad98/the-impact-of-ceiling-height-on-luxury-an-architecture-and-interior-design-study-59bl)
-- [My Perspective on AWS Security Hub for DevSecOps](https://dev.to/aws-builders/my-perspective-on-aws-security-hub-for-devsecops-1bd)
+- [Open Source Is People: A Python &amp; Django Year](https://dev.to/maaddae/open-source-is-people-a-python-django-year-com)
+- [AI Prevents Organized Human-Led Cyber Attacks](https://dev.to/farzandev13/ai-prevents-organized-human-led-cyber-attacks-1oc5)
+- [Does the Shopify theme really affect store performance?](https://dev.to/amara_okafor_2dc94ad7699a/does-the-shopify-theme-really-affect-store-performance-3812)
+- [When Would You Group Multiple API Proxies Into a Single Product in Apigee X?](https://dev.to/realnamehidden1_61/when-would-you-group-multiple-api-proxies-into-a-single-product-in-apigee-x-2djb)
+- [🖥️ The DEC-VAX: The Machine That Changed Computing History](https://dev.to/f345345dfg/the-dec-vax-the-machine-that-changed-computing-history-50kf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
