@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [TCEval: Using Thermal Comfort to Assess Cognitive and Perceptual Abilities of AI](https://dev.to/daily_ai_trends/tceval-using-thermal-comfort-to-assess-cognitive-and-perceptual-abilities-of-ai-54po)
-- [ReGAIN: Retrieval-Grounded AI Framework for Network Traffic Analysis](https://dev.to/daily_ai_trends/regain-retrieval-grounded-ai-framework-for-network-traffic-analysis-5bd9)
-- [How Angular Signal Forms Handle Validation CSS Classes](https://dev.to/_kafeel_ahmad/how-angular-signal-forms-handle-validation-css-classes-jf1)
-- [No Code For You &lpar;AI&rpar;](https://dev.to/aaronblondeau/no-code-for-you-ai-5emb)
-- [Environment Variables Without the Chaos: A Vault-First Approach](https://dev.to/gd-tech-guru/environment-variables-without-the-chaos-a-vault-first-approach-3dgc)
+- [My parting gift to 2025 - my Claude Code context workflow turned into a plugin](https://dev.to/scott_raisbeck_24ea5fbc1e/my-parting-gift-to-2025-my-claude-code-context-workflow-turned-into-a-plugin-28ii)
+- [Day 12: The Grand Finale &amp; New App Launch! &lpar;Countdown Timer&rpar;](https://dev.to/dev_michael/day-12-the-grand-finale-new-app-launch-countdown-timer-4lfg)
+- [How to Create a Gradient from Any Photo &lpar;Step-by-Step&rpar;](https://dev.to/not_varunkv/how-to-create-a-gradient-from-any-photo-step-by-step-4379)
+- [Why I Trade the Terminal for a GUI: A Dev’s Take on GitKraken](https://dev.to/von_cunningham/why-i-trade-the-terminal-for-a-gui-a-devs-take-on-gitkraken-3cfe)
+- [AutoGluon-Tabular: Robust and Accurate AutoML for Structured Data](https://dev.to/paperium/autogluon-tabular-robust-and-accurate-automl-for-structured-data-2415)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
