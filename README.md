@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Angular vs React vs Vue: Which Should You Learn in 2026?](https://dev.to/_kafeel_ahmad/angular-vs-react-vs-vue-which-should-you-learn-in-2026-1ocg)
-- [🔥_High_Concurrency_Framework_Choice_Tech_Decisions[20251231184608]](https://dev.to/member_6331818c/highconcurrencyframeworkchoicetechdecisions20251231184608-5hfk)
-- [Getting Started with eslint-plugin-pg](https://dev.to/ofri-peretz/getting-started-with-eslint-plugin-pg-43pj)
-- [I Built a Website Tracker This Weekend — Here&#39;s What I Learned](https://dev.to/inkfusion_labs_2a078ca0cc/i-built-a-website-tracker-this-weekend-heres-what-i-learned-pkk)
-- [AWS 2025 Recap: A Year Where Cloud Became Smarter, Simpler, and More Human](https://dev.to/nishath_jp/aws-2025-recap-a-year-where-cloud-became-smarter-simpler-and-more-human-3mm)
+- [Happy New Year! 🎉 | Your Code from Last Year Still Doesn&#39;t Work 😂](https://dev.to/thebitforge/happy-new-year-your-code-from-last-year-still-doesnt-work-50k8)
+- [🌍 I Built MapMeet: A 3D Globe Event Platform for the Mux + DEV Challenge](https://dev.to/kiranbaby14/i-built-mapmeet-a-3d-globe-event-platform-for-the-mux-dev-challenge-5ai7)
+- [Mastering RabbitMQ in Microservices: A JavaScript Guide to Async Magic](https://dev.to/harshm03/mastering-rabbitmq-in-microservices-a-javascript-guide-to-async-magic-1a7c)
+- [Deploying Angular in 2026: An Architect&#39;s Guide to &#39;Build Once, Run Everywhere&#39;](https://dev.to/_kafeel_ahmad/deploying-angular-in-2026-an-architects-guide-to-build-once-run-everywhere-34eh)
+- [Supercharge Your Web Dev Game with MCP - Part 3: From Isolated Tools to End-to-End MCP Workflows](https://dev.to/susanna_wong_4e4478740bdf/supercharge-your-web-dev-game-with-mcp-part-3-from-isolated-tools-to-end-to-end-mcp-workflows-179c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
