@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [.NET Full Stack Course in Telugu: A Complete Career-Oriented Guide](https://dev.to/adas_madasu_d145b19b61e81/net-full-stack-course-in-telugu-a-complete-career-oriented-guide-708)
-- [🔒_Security_Performance_Balance[20251231061808]](https://dev.to/member_8659c28a/securityperformancebalance20251231061808-7af)
-- [Kubernetes and scalability](https://dev.to/vishthakkar/kubernetes-and-scalability-dg4)
-- [How to Implement Onboarding Mascots in Flutter with Rive](https://dev.to/uianimation/how-to-implement-onboarding-mascots-in-flutter-with-rive-53mi)
-- [StableJSON: A Practical Workspace for Serious JSON Work](https://dev.to/debjit450/stablejson-a-practical-workspace-for-serious-json-work-2cal)
+- [From Prompt to UI: Building Your First Component with Agentforce Vibes](https://dev.to/sathishvk/from-prompt-to-ui-building-your-first-component-with-agentforce-vibes-10gf)
+- [How Modern AI Tools Are Really Built](https://dev.to/tanvir_azad_007/how-modern-ai-tools-are-really-built-26o8)
+- [The 30-Minute Security Audit: Onboarding a New Codebase](https://dev.to/ofri-peretz/the-30-minute-security-audit-onboarding-a-new-codebase-4f91)
+- [Why Conversational AI Is Not Just a Chatbot — It’s a Service Redesign](https://dev.to/kokni_manus_4ba34ad6eddbc/why-conversational-ai-is-not-just-a-chatbot-its-a-service-redesign-40ck)
+- [AI Layer Split: Extract 5+ Game-Ready Assets Fast](https://dev.to/aivideotool/ai-layer-split-extract-5-game-ready-assets-fast-h4l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
