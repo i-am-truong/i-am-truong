@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Monitoring Third-Party Webhook Delays with AWS Durable Functions](https://dev.to/aws-builders/monitoring-third-party-webhook-delays-with-aws-durable-functions-1800)
+- [I Just Deleted 3 Months of Work Here&#39;s Why..](https://dev.to/yakhilesh/i-just-deleted-3-months-of-work-heres-why-4ncd)
+- [Deepfake &amp; Mobile Identity Fraud - Securing AI Models with Docker](https://dev.to/swap11/deepfake-mobile-identity-fraud-securing-ai-models-with-docker-9g9)
 - [Build Robust, Maintainable APIs in C# - Real Production Systems](https://dev.to/saber-amani/build-robust-maintainable-apis-in-c-real-production-systems-2pa7)
 - [MAX7219 Example &lpar;8 digit segment driver&rpar;](https://dev.to/danielmx/max7219-example-8-digit-segment-driver-52m8)
-- [MAX7219 Example &lpar;8 digit segment driver&rpar;](https://dev.to/danielmx/max7219-example-8-digit-segment-driver-1dfa)
-- [What a Software Engineer Should Learn Next Year to Become a Powerhouse](https://dev.to/divuzki/what-a-software-engineer-should-learn-next-year-to-become-a-powerhouse-2iol)
-- [How to Allow Your JavaScript Web App to Be Accessed by Other Devices on Windows](https://dev.to/flyingduck92/how-to-allow-your-javascript-web-app-to-be-accessed-by-other-devices-on-windows-5706)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
