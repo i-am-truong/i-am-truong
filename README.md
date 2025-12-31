@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Dopamine Loop - stuck in the couch](https://dev.to/vrajparikh/dopamine-loop-2m87)
-- [When code suggestions suggest the past: deprecated Pandas APIs and silent drift](https://dev.to/sofiabennett84/when-code-suggestions-suggest-the-past-deprecated-pandas-apis-and-silent-drift-8mg)
-- [I&#39;m 15 and I built a self-healing AI terminal that controls computers via Natural Language](https://dev.to/omer_efe_86d7187975030b45/im-15-and-i-built-a-self-healing-ai-terminal-that-controls-computers-via-natural-language-ohp)
-- [When an AI refactor renames things wrong across files](https://dev.to/jamesdev4123/when-an-ai-refactor-renames-things-wrong-across-files-1kka)
-- [My parting gift to 2025 - my Claude Code context workflow turned into a plugin](https://dev.to/scott_raisbeck_24ea5fbc1e/my-parting-gift-to-2025-my-claude-code-context-workflow-turned-into-a-plugin-28ii)
+- [SQL*Plus: Guia Completo para Gerenciamento de Banco de Dados Oracle](https://dev.to/ikauedev/sqlplus-guia-completo-para-gerenciamento-de-banco-de-dados-oracle-4l3h)
+- [Beyond Server‑Side Rendering: Rediscovering PHP and the Joy of Experimenting](https://dev.to/jaboarnoldlandry/beyond-server-side-rendering-rediscovering-php-and-the-joy-of-experimenting-2oo6)
+- [Refatoração e Otimização com IA: Entre a Automação e o Julgamento Arquitetural](https://dev.to/vinicius3w/refatoracao-e-otimizacao-com-ia-entre-a-automacao-e-o-julgamento-arquitetural-38im)
+- [Regular Expressions in Python: The Complete Guide to Finally Understanding Regex](https://dev.to/codewithmpia/regular-expressions-in-python-the-complete-guide-to-finally-understanding-regex-53p9)
+- [🚀_Ultimate_Web_Framework_Speed_Showdown[20251231195712]](https://dev.to/member_6331818c/ultimatewebframeworkspeedshowdown20251231195712-50f0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
