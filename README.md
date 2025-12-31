@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Your AI Agent Isn’t Unsafe — It’s Unstoppable &lpar;And That’s the Problem&rpar;](https://dev.to/yuer/your-ai-agent-isnt-unsafe-its-unstoppable-and-thats-the-problem-1e82)
+- [5 Flutter Decisions I’d Make Differently If I Started Today](https://dev.to/abdul_wahab_fe886de9acd8a/5-flutter-decisions-id-make-differently-if-i-started-today-3m5p)
+- [Navigating AI Trading Legally: My Compliance Journey](https://dev.to/tanvir_khan_18c27d836a78f/navigating-ai-trading-legally-my-compliance-journey-446)
+- [Welcome Thread - v358](https://dev.to/devteam/welcome-thread-v358-4m6k)
 - [DSA Doesn’t Make You a Better Engineer &lpar;Alone&rpar;](https://dev.to/3m/dsa-doesnt-make-you-a-better-engineer-alone-2fb4)
-- [Ruby 기초 - 문법과 기본 개념](https://dev.to/dss99911/ruby-gico-munbeobgwa-gibon-gaenyeom-2pl5)
-- [Ruby 예외 처리와 정규 표현식](https://dev.to/dss99911/ruby-yeoe-ceoriwa-jeonggyu-pyohyeonsig-3ggj)
-- [Ruby 블록과 Lambda](https://dev.to/dss99911/ruby-beulroggwa-lambda-1bcc)
-- [Ruby 클래스와 객체지향 프로그래밍](https://dev.to/dss99911/ruby-keulraeseuwa-gaegcejihyang-peurogeuraeming-4pf9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
