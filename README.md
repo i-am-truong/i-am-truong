@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AWS CDK 100 Drill Exercises #006: VPC Peering - Cross-Account Network Integration and DNS Resolution Automation](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-006-vpc-peering-cross-account-network-integration-and-dns-546)
-- [Deploying a Node.js Application to AWS Elastic Beanstalk](https://dev.to/subair09/deploying-a-nodejs-application-to-aws-elastic-beanstalk-3455)
-- [When an AI Suggests DataFrame.append: Missing Pandas Deprecations in Generated Code](https://dev.to/gabrieal845/when-an-ai-suggests-dataframeappend-missing-pandas-deprecations-in-generated-code-416)
-- [The TL;DR Rule: How I Structure Files to Not Annoy My Team](https://dev.to/doogal/the-tldr-rule-how-i-structure-files-to-not-annoy-my-team-5f61)
-- [How Event Platforms Manage Regional Demand](https://dev.to/kunal_das_f99b9304444a708/how-event-platforms-manage-regional-demand-5c0h)
+- [Play Ultra Panda Sweepstakes and Enjoy Exciting Fish Games](https://dev.to/ultrapandagame/play-ultra-panda-sweepstakes-and-enjoy-exciting-fish-games-3cck)
+- [Stop Building Side Projects Like Tutorials](https://dev.to/amanchitransh/stop-building-side-projects-like-tutorials-33fo)
+- [My Year in Review: 2025](https://dev.to/bascodes/my-year-in-review-2025-18i6)
+- [Why GPU Marketplaces Fail Production Workloads-And What Infrastructure-First Actually Means](https://dev.to/roan911/why-gpu-marketplaces-fail-production-workloads-and-what-infrastructure-first-actually-means-5hle)
+- [Year in Review - 2025 Edition](https://dev.to/eevajonnapanula/year-in-review-2025-edition-4g7k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
