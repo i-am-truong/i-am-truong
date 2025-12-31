@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Streaming AI Speech with Gemini 2.5 Flash TTS, Angular v21, and Firebase](https://dev.to/railsstudent/streaming-ai-speech-with-gemini-25-flash-tts-angular-v21-and-firebase-1odm)
+- [10 Proven Techniques to Master Documentation Quickly for Any Framework or Library](https://dev.to/abuhorairatarif/10-proven-techniques-to-master-documentation-quickly-for-any-framework-or-library-2j78)
+- [Why Cloud Skills Matter in 2025 and Beyond](https://dev.to/abdullateef/why-cloud-skills-matter-in-2025-and-beyond-35ak)
+- [The authentic John Snow, a precursor of Geolocation](https://dev.to/datalaria/the-authentic-john-snow-a-precursor-of-geolocation-cbn)
 - [Part 7: CUDA Integration with Python](https://dev.to/palash90/cuda-integration-with-python-5mf)
-- [How does file upload work in Immich codebase - Part 2.](https://dev.to/ramunarasinga-11/how-does-file-upload-work-in-immich-codebase-part-2-ncl)
-- [I Built an AI Tarot Reading Tool That Goes Deeper Than Just Card Meanings](https://dev.to/newsapling/i-built-an-ai-tarot-reading-tool-that-goes-deeper-than-just-card-meanings-4eb3)
-- [When Architecture Inverts Complexity - How CQRS and Event-Driven Architectures Undermine Scalable Domain Models](https://dev.to/leonpennings/when-architecture-inverts-complexity-how-cqrs-and-event-driven-architectures-undermine-scalable-5ol)
-- [🚀 Introducing Trace Dev — A New Platform Built for Developers](https://dev.to/rushikesh_bodakhe_db28644/introducing-trace-dev-a-new-platform-built-for-developers-19eg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
