@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Happy New Year! 🎉 | Your Code from Last Year Still Doesn&#39;t Work 😂](https://dev.to/thebitforge/happy-new-year-your-code-from-last-year-still-doesnt-work-50k8)
-- [🌍 I Built MapMeet: A 3D Globe Event Platform for the Mux + DEV Challenge](https://dev.to/kiranbaby14/i-built-mapmeet-a-3d-globe-event-platform-for-the-mux-dev-challenge-5ai7)
-- [Mastering RabbitMQ in Microservices: A JavaScript Guide to Async Magic](https://dev.to/harshm03/mastering-rabbitmq-in-microservices-a-javascript-guide-to-async-magic-1a7c)
-- [Deploying Angular in 2026: An Architect&#39;s Guide to &#39;Build Once, Run Everywhere&#39;](https://dev.to/_kafeel_ahmad/deploying-angular-in-2026-an-architects-guide-to-build-once-run-everywhere-34eh)
-- [Supercharge Your Web Dev Game with MCP - Part 3: From Isolated Tools to End-to-End MCP Workflows](https://dev.to/susanna_wong_4e4478740bdf/supercharge-your-web-dev-game-with-mcp-part-3-from-isolated-tools-to-end-to-end-mcp-workflows-179c)
+- [How Angular Signal Forms Handle Validation CSS Classes](https://dev.to/_kafeel_ahmad/how-angular-signal-forms-handle-validation-css-classes-jf1)
+- [No Code For You &lpar;AI&rpar;](https://dev.to/aaronblondeau/no-code-for-you-ai-5emb)
+- [Environment Variables Without the Chaos: A Vault-First Approach](https://dev.to/gd-tech-guru/environment-variables-without-the-chaos-a-vault-first-approach-3dgc)
+- [11 Things I Wish Someone Told Me Before Learning Angular](https://dev.to/_kafeel_ahmad/11-things-i-wish-someone-told-me-before-learning-angular-49kl)
+- [JSON Might Be Limiting Your Prompts](https://dev.to/sardanios/json-might-be-limiting-your-prompts-318f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
