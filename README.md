@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🐳 From Chaos to Orchestration: Mastering Docker Containerization &amp; Production Deployments [Week-10] 🚀](https://dev.to/suvrajeet/from-chaos-to-orchestration-mastering-docker-containerization-production-deployments-2k8j)
+- [The Zero-Trust Homelab Manual: MacVLAN, Private PKI, and Tailscale](https://dev.to/chaithuchowdhary/the-zero-trust-homelab-manual-macvlan-private-pki-and-tailscale-46gj)
+- [Delete a Node in a Binary Search Tree &lpar;BST&rpar;](https://dev.to/we_are_broken_compilers/delete-a-node-in-a-binary-search-tree-bst-3d96)
+- [Day 6: Christmas Emoji Challenge &lpar;Advanced Emoji Tools&rpar;](https://dev.to/dev_michael/day-6-christmas-emoji-challenge-advanced-emoji-tools-1cgj)
 - [Day 5: Festive QR Gift Tags &lpar;QR Code Generator&rpar;](https://dev.to/dev_michael/day-5-festive-qr-gift-tags-qr-code-generator-26n9)
-- [2026 Developer Predictions: Why Coding Gets Better](https://dev.to/mashrulhaque/2026-developer-predictions-why-coding-gets-better-4hpl)
-- [Building an Angular Compiler with Google Gemini](https://dev.to/brandontroberts/building-an-angular-compiler-with-google-gemini-ie0)
-- [SVG vs Canvas vs WebGL for Diagram Viewers: Tradeoffs, Bottlenecks, and How to Measure](https://dev.to/vitalf/svg-vs-canvas-vs-webgl-for-diagram-viewers-tradeoffs-bottlenecks-and-how-to-measure-34n7)
-- [A local-first, reversible PII scrubber for AI workflows using ONNX and Regex](https://dev.to/tjruesch/a-local-first-reversible-pii-scrubber-for-ai-workflows-using-onnx-and-regex-53fb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
