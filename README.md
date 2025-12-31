@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/hadi_mirza/-nhc)
-- [Simplifying Cloud Messaging with StackVerify](https://dev.to/morgan_miller_1/simplifying-cloud-messaging-with-stackverify-go0)
-- [Stop Writing Validation Twice: How I Built a &quot;Shared Brain&quot; Sync Engine with Go &amp; WASM](https://dev.to/harshal_patel_e3124fa33c6/stop-writing-validation-twice-how-i-built-a-shared-brain-sync-engine-with-go-wasm-2hdc)
-- [Google is dead. Where do we go now?](https://dev.to/himanshu_7740280bb692b874/google-is-dead-where-do-we-go-now-5d6e)
-- [Building a Robust End of Service &lpar;EOS&rpar; Valuation System: Lessons from a Real-World Actuarial Project](https://dev.to/sajjadali/building-a-robust-end-of-service-eos-valuation-system-lessons-from-a-real-world-actuarial-project-43o9)
+- [KitOps Wrap 2025🔥](https://dev.to/astrodevil/kitops-wrap-2025-1n0l)
+- [CloudSweeper: Cutting Cloud Waste with an AI FinOps Agent](https://dev.to/qlooptech/cloudsweeper-cutting-cloud-waste-with-an-ai-finops-agent-580l)
+- [Stop Parsing Nightmares: Prompting LLMs to Return Clean, Parseable JSON](https://dev.to/superorange0707/stop-parsing-nightmares-prompting-llms-to-return-clean-parseable-json-290o)
+- [Interested in the AWS Community Builders program?](https://dev.to/aws-builders/interested-in-the-aws-community-builders-program-5a1g)
+- [The History of Cron: From Unix Daemon to Modern Monitoring Tools](https://dev.to/cronmonitor/the-history-of-cron-from-unix-daemon-to-modern-monitoring-tools-9io)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
