@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Top 8 API Management Tools That Support On-Premises Deployment &lpar;2025&rpar;](https://dev.to/therealmrmumba/top-8-api-management-tools-that-support-on-premises-deployment-2025-4j0o)
+- [[Boost]](https://dev.to/anmshpndy/-1k43)
 - [How Closed-Loop Automation Transforms Enterprise IT Operations](https://dev.to/sangram_sawant_d3a8f0911c/how-closed-loop-automation-transforms-enterprise-it-operations-a8e)
 - [Building a Modern POS System That Doesn&#39;t Feel Like It&#39;s From 2005](https://dev.to/attaelahi/building-a-modern-pos-system-that-doesnt-feel-like-its-from-2005-4kc7)
 - [From Prompts to Production: How Developers Are Building Smarter AI Apps with Function Calling in 2026](https://dev.to/author_shivani_9c765c8db9/from-prompts-to-production-how-developers-are-building-smarter-ai-apps-with-function-calling-in-8md)
-- [Conversational AI for Complex Industries: Healthcare, IT, and Enterprise Software](https://dev.to/kokni_manus_4ba34ad6eddbc/conversational-ai-for-complex-industries-healthcare-it-and-enterprise-software-26hf)
-- [The Future of 3D City Modeling: How GISBox Automates Building Generation from Map Data](https://dev.to/kketria/the-future-of-3d-city-modeling-how-gisbox-automates-building-generation-from-map-data-58i7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
