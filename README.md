@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Shamim Patel MD: Transforming Compassion Into Action for Underserved Communities](https://dev.to/shamimpatelmd/shamim-patel-md-transforming-compassion-into-action-for-underserved-communities-3g26)
-- [The Art of Appreciation: What Makes Your Partner Truly Shine? ✨ A Deep Dive into `RelationshipGoals`](https://dev.to/rohith200589/the-art-of-appreciation-what-makes-your-partner-truly-shine-a-deep-dive-into-relationshipgoals-2474)
-- [Animated AI](https://dev.to/technoblogger14o3/animated-ai-mja)
-- [**How AI-Powered Development Environments Are Transforming the Way We Code Forever**](https://dev.to/nithinbharathwaj/how-ai-powered-development-environments-are-transforming-the-way-we-code-forever-3d2o)
-- [Briefly introduce the history of openworld.js](https://dev.to/openworldzone/briefly-introduce-the-history-of-openworldjs-ddh)
+- [🚀 Introducing Trace Dev — A New Platform Built for Developers](https://dev.to/rushikesh_bodakhe_db28644/introducing-trace-dev-a-new-platform-built-for-developers-19eg)
+- [2025: The Year AI Became My Coding Partner](https://dev.to/mikulg/2025-the-year-ai-became-my-coding-partner-30ek)
+- [My 2025 wrap](https://dev.to/varshithvhegde/my-2025-wrap-ek0)
+- [Skyflo: AI agent for Cloud &amp; DevOps](https://dev.to/karanjagtiani/skyflo-ai-agent-for-cloud-devops-3a7f)
+- [The useMemo react hook: Optimizing Expensive Calculations with useMemo](https://dev.to/edriso/the-usememo-react-hook-optimizing-expensive-calculations-with-usememo-2j84)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
