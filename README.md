@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [An Algebraic View of Databases](https://dev.to/lovestaco/an-algebraic-view-of-databases-36p8)
-- [The four principles of object-oriented programming](https://dev.to/obrutus/the-four-principles-of-object-oriented-programming-mcc)
-- [Timefold Planning Optimization in Modern ERP Systems](https://dev.to/richa_singh_11bd098df12c8/timefold-planning-optimization-in-modern-erp-systems-g8f)
-- [Protecting a document is not the same as proving it exists](https://dev.to/jeason/protecting-a-document-is-not-the-same-as-proving-it-exists-549k)
-- [ManageMyHealth investigates breach of New Zealand patient portal](https://dev.to/beyondmachines/managemyhealth-investigates-breach-of-new-zealand-patient-portal-5f5d)
+- [Angular vs React vs Vue: Which Should You Learn in 2026?](https://dev.to/_kafeel_ahmad/angular-vs-react-vs-vue-which-should-you-learn-in-2026-1ocg)
+- [🔥_High_Concurrency_Framework_Choice_Tech_Decisions[20251231184608]](https://dev.to/member_6331818c/highconcurrencyframeworkchoicetechdecisions20251231184608-5hfk)
+- [Getting Started with eslint-plugin-pg](https://dev.to/ofri-peretz/getting-started-with-eslint-plugin-pg-43pj)
+- [I Built a Website Tracker This Weekend — Here&#39;s What I Learned](https://dev.to/inkfusion_labs_2a078ca0cc/i-built-a-website-tracker-this-weekend-heres-what-i-learned-pkk)
+- [AWS 2025 Recap: A Year Where Cloud Became Smarter, Simpler, and More Human](https://dev.to/nishath_jp/aws-2025-recap-a-year-where-cloud-became-smarter-simpler-and-more-human-3mm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
