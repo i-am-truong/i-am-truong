@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Beyond FFI: Zero-Copy IPC with Rust and Lock-Free Ring-Buffers](https://dev.to/bdovenbird/beyond-ffi-zero-copy-ipc-with-rust-and-lock-free-ring-buffers-3kcp)
+- [Risk-Based Vulnerability Prioritization for Security Service Providers](https://dev.to/kapusto/risk-based-vulnerability-prioritization-for-security-service-providers-44ab)
+- [Day 7: Holiday Word of the Day &lpar;English Dictionary App&rpar;](https://dev.to/dev_michael/day-7-holiday-word-of-the-day-english-dictionary-app-51jm)
 - [🐳 From Chaos to Orchestration: Mastering Docker Containerization &amp; Production Deployments [Week-10] 🚀](https://dev.to/suvrajeet/from-chaos-to-orchestration-mastering-docker-containerization-production-deployments-2k8j)
 - [The Zero-Trust Homelab Manual: MacVLAN, Private PKI, and Tailscale](https://dev.to/chaithuchowdhary/the-zero-trust-homelab-manual-macvlan-private-pki-and-tailscale-46gj)
-- [Delete a Node in a Binary Search Tree &lpar;BST&rpar;](https://dev.to/we_are_broken_compilers/delete-a-node-in-a-binary-search-tree-bst-3d96)
-- [Day 6: Christmas Emoji Challenge &lpar;Advanced Emoji Tools&rpar;](https://dev.to/dev_michael/day-6-christmas-emoji-challenge-advanced-emoji-tools-1cgj)
-- [Day 5: Festive QR Gift Tags &lpar;QR Code Generator&rpar;](https://dev.to/dev_michael/day-5-festive-qr-gift-tags-qr-code-generator-26n9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
