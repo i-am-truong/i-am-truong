@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding How Signals Work](https://dev.to/luciano0322/understanding-how-signals-work-e7e)
-- [Building Self-Referential Agents with .NET 10 &amp; Aspire &lpar;Part 1&rpar;](https://dev.to/shawn_bellazan_843158cdd4/building-self-referential-agents-with-net-10-aspire-part-1-5dam)
-- [Alpha Arena AI Trading System 2.0: The Optimization Journey from Ideal to Reality](https://dev.to/chronosquant/alpha-arena-ai-trading-system-20-the-optimization-journey-from-ideal-to-reality-5c85)
-- [My Predictions for MCP and AI-Assisted Coding in 2026](https://dev.to/blackgirlbytes/my-predictions-for-mcp-and-ai-assisted-coding-in-2026-16bm)
-- [Part 10: Scaling, Failure &amp; Operating Like a Real Company](https://dev.to/daviesbrown/part-10-scaling-failure-operating-like-a-real-company-2h3e)
+- [Vector-Database: Qdrant-cluster on ECS-Fargate](https://dev.to/seetamraju/vector-database-qdrant-cluster-on-ecs-fargate-2jak)
+- [Building Cultural Intelligence into Database Processing: A Pattern Recognition Challenge](https://dev.to/faraz_farhan_83ed23a154a2/building-cultural-intelligence-into-database-processing-a-pattern-recognition-challenge-353e)
+- [Vector-Database: Qdrant-cluster - Dockerfile](https://dev.to/seetamraju/vector-database-qdrant-cluster-dockerfile-4lal)
+- [Snapshots &amp; Data-RESTORE: Vector-Database: Qdrant-Cluster](https://dev.to/seetamraju/snapshots-data-restore-vector-database-qdrant-cluster-33gj)
+- [Blocking Is a Spectrum, Not an Error Code](https://dev.to/anna_6c67c00f5c3f53660978/blocking-is-a-spectrum-not-an-error-code-4a1h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
