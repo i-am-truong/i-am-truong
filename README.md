@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Monetzly: The Future of AI Monetization for LLM Apps](https://dev.to/monetzly/monetzly-the-future-of-ai-monetization-for-llm-apps-34i9)
-- [When the AI Misreads the Stack: How Models Misinterpret Error Traces](https://dev.to/jamesdev4123/when-the-ai-misreads-the-stack-how-models-misinterpret-error-traces-99j)
-- [Moving From Strategy to Design: 2025 Review and 2026 Roadmap](https://dev.to/devin-rosario/moving-from-strategy-to-design-2025-review-and-2026-roadmap-3cge)
-- [7 Steps of Problem Solving and Decision Making](https://dev.to/writegenic/7-steps-of-problem-solving-and-decision-making-3h00)
-- [Unlimited Free Multilingual Voice Clone: How AI Voice Replication Scales Audio Content](https://dev.to/herman99630/unlimited-free-multilingual-voice-clone-how-ai-voice-replication-scales-audio-content-4djn)
+- [On-Chain Identity — ENS, Soulbound Tokens &amp; Your Web3 Resume](https://dev.to/ribhavmodi/on-chain-identity-ens-soulbound-tokens-your-web3-resume-4f2h)
+- [🎮 Learning Game Development – Day 5 Basics of Color Theory](https://dev.to/dinesh_04/learning-game-development-day-5-basics-of-color-theory-1aa2)
+- [Data Engineering Isn’t About Tools — It’s About Thinking Like This](https://dev.to/browsejobs/data-engineering-isnt-about-tools-its-about-thinking-like-this-59k8)
+- [A beginner&#39;s guide to the Wan-2.2-I2v-Fast model by Wan-Video on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-wan-22-i2v-fast-model-by-wan-video-on-replicate-44ef)
+- [Split and assemble an image using CSS mask](https://dev.to/parthik_rajput_19028ea13d/split-and-assemble-an-image-using-css-mask-4751)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
