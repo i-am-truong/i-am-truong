@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Top 8 API Management Tools That Support On-Premises Deployment &lpar;2025&rpar;](https://dev.to/therealmrmumba/top-8-api-management-tools-that-support-on-premises-deployment-2025-4j0o)
-- [[Boost]](https://dev.to/anmshpndy/-1k43)
-- [How Closed-Loop Automation Transforms Enterprise IT Operations](https://dev.to/sangram_sawant_d3a8f0911c/how-closed-loop-automation-transforms-enterprise-it-operations-a8e)
-- [Building a Modern POS System That Doesn&#39;t Feel Like It&#39;s From 2005](https://dev.to/attaelahi/building-a-modern-pos-system-that-doesnt-feel-like-its-from-2005-4kc7)
-- [From Prompts to Production: How Developers Are Building Smarter AI Apps with Function Calling in 2026](https://dev.to/author_shivani_9c765c8db9/from-prompts-to-production-how-developers-are-building-smarter-ai-apps-with-function-calling-in-8md)
+- [Integration Depth vs Quantity: What Matters More for Customer Retention?](https://dev.to/kokni_manus_4ba34ad6eddbc/integration-depth-vs-quantity-what-matters-more-for-customer-retention-3j1n)
+- [Rust JS Tooling 2025: Why Biome, Oxc, and Rolldown Change Everything](https://dev.to/dataformathub/rust-js-tooling-2025-why-biome-oxc-and-rolldown-change-everything-20i3)
+- [What Is an ISO 55001 Asset Management Manual?](https://dev.to/joy1/what-is-an-iso-55001-asset-management-manual-1m9m)
+- [How to Build a Successful Home Service App](https://dev.to/aartijangid23/how-to-build-a-successful-home-service-app-1d3m)
+- [How Remote Workers Access Global Job Opportunities Without Location Barriers](https://dev.to/vietnam/how-remote-workers-access-global-job-opportunities-without-location-barriers-ma8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
