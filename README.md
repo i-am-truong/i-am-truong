@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [First steps towards Codeberg](https://dev.to/tkuenneth/first-steps-towards-codeberg-48hl)
-- [GemDesk: Reason across all your data.](https://dev.to/openconstruct/gemdesk-reason-across-all-your-data-de6)
-- [Play Ultra Panda Sweepstakes and Enjoy Exciting Fish Games](https://dev.to/ultrapandagame/play-ultra-panda-sweepstakes-and-enjoy-exciting-fish-games-3cck)
-- [Stop Building Side Projects Like Tutorials](https://dev.to/amanchitransh/stop-building-side-projects-like-tutorials-33fo)
-- [Review of Lightning Web Chart.js Component](https://dev.to/antoninakharchenko/review-of-lightning-web-chartjs-component-3h5f)
+- [Building a Splunk Investigator Agent with Strands Agents and Amazon Bedrock AgentCore](https://dev.to/aws-builders/building-a-splunk-investigator-agent-with-strands-agents-and-amazon-bedrock-agentcore-53dc)
+- [MCP Security 101: Protecting Your AI Agents from &quot;God-Mode&quot; Risks](https://dev.to/alessandro_pignati/mcp-security-101-protecting-your-ai-agents-from-god-mode-risks-h0b)
+- [Entre o Backlog Caótico e o Algoritmo: Priorização e Cenários com IA](https://dev.to/vinicius3w/entre-o-backlog-caotico-e-o-algoritmo-priorizacao-e-cenarios-com-ia-27be)
+- [A solid explanation to SOLID Principle](https://dev.to/_a_m_a_n_pandey/a-solid-explanation-to-solid-principle-42j8)
+- [When AI Remembers Everything](https://dev.to/rawveg/when-ai-remembers-everything-4pkl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
