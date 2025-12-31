@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ruby 4.0: The Structural Maturation of a Thirty-Year-Old Language](https://dev.to/daviducolo/ruby-40-the-structural-maturation-of-a-thirty-year-old-language-2c83)
 - [The Worst Thing to Happen to React and Next.js: React2Shell](https://dev.to/blackgirlbytes/the-worst-thing-to-happen-to-react-and-nextjs-react2shell-5fdf)
 - [Analyzing Docker Images Without Downloading Them](https://dev.to/jtodic/analyzing-docker-images-without-downloading-them-5d3f)
 - [JSON Rules: Change Logic, Skip the Rebuild](https://dev.to/crafts69guy/json-rules-change-logic-skip-the-rebuild-779)
 - [Building an AI-Powered Portfolio Assistant with Model Context Protocol](https://dev.to/nishikantaray/building-an-ai-powered-portfolio-assistant-with-model-context-protocol-4knj)
-- [Football pitch reservation app built with Next.js, Shadcn UI, Prisma, and Better Auth](https://dev.to/saidmounaim/football-pitch-reservation-app-built-with-nextjs-shadcn-ui-prisma-and-better-auth-5d1i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
