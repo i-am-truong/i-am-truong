@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hardcoded Secrets: The #1 Vulnerability AI Agents Can Auto-Fix](https://dev.to/ofri-peretz/hardcoded-secrets-the-1-vulnerability-ai-agents-can-auto-fix-47cg)
-- [Unfortunately, I have to close my daily.dev account because of my own mistake](https://dev.to/web_dev-usman/unfortunately-i-have-to-close-my-dailydev-account-1h2m)
-- [Why eslint-plugin-import Takes 45 Seconds &lpar;And How We Fixed It&rpar;](https://dev.to/ofri-peretz/why-eslint-plugin-import-takes-45-seconds-and-how-we-fixed-it-2nmh)
-- [Speed Is Overrated: Clarity Is the Real Competitive Advantage](https://dev.to/jaideepparashar/speed-is-overrated-clarity-is-the-real-competitive-advantage-5bp0)
-- [I Was Overpaying for AWS EC2 &lpar;Here’s What I Learned&rpar;](https://dev.to/subhashbohra/i-was-overpaying-for-aws-ec2-heres-what-i-learned-31pm)
+- [.NET Full Stack Course in Telugu: A Complete Career-Oriented Guide](https://dev.to/adas_madasu_d145b19b61e81/net-full-stack-course-in-telugu-a-complete-career-oriented-guide-708)
+- [🔒_Security_Performance_Balance[20251231061808]](https://dev.to/member_8659c28a/securityperformancebalance20251231061808-7af)
+- [Kubernetes and scalability](https://dev.to/vishthakkar/kubernetes-and-scalability-dg4)
+- [How to Implement Onboarding Mascots in Flutter with Rive](https://dev.to/uianimation/how-to-implement-onboarding-mascots-in-flutter-with-rive-53mi)
+- [StableJSON: A Practical Workspace for Serious JSON Work](https://dev.to/debjit450/stablejson-a-practical-workspace-for-serious-json-work-2cal)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
