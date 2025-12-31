@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ROCm](https://dev.to/elferrer/rocm-not-cuda-3c7d)
-- [Rust for JavaScript Developers: A Practical Guide to Your First 1000 Lines &lpar;2026&rpar;](https://dev.to/pockit_tools/rust-for-javascript-developers-a-practical-guide-to-your-first-1000-lines-2026-1npd)
-- [Implementing Glob Imports in Node.js](https://dev.to/jiyingzhi/implementing-glob-imports-in-nodejs-3004)
-- [Building Single-Executable Node.js Apps &lpar;Without the Pain&rpar;](https://dev.to/sfundomhlungu/building-single-executable-nodejs-apps-without-the-pain-1m3d)
-- [Refactor Anytime](https://dev.to/synthaicode_commander/refactor-anytime-34k2)
+- [structuredClone&lpar;&rpar; — The Deep Copy Hero JavaScript Deserved 🦸‍♀️](https://dev.to/shantih_palani/structuredclone-the-deep-copy-hero-javascript-deserved-2add)
+- [I built a client-side Image to PDF converter &lpar;No Server Uploads&rpar;](https://dev.to/dasbd/i-built-a-client-side-image-to-pdf-converter-no-server-uploads-bo6)
+- [What I Learned From Scraping 100,000 Tech Signals](https://dev.to/jose_marquez_alberti/what-i-learned-from-scraping-100000-tech-signals-4fgp)
+- [Building Production-Ready MERN Stack Applications: Lessons from 50M+ Users](https://dev.to/muhammad_zulqarnainakram/building-production-ready-mern-stack-applications-lessons-from-50m-users-1pjd)
+- [CSS @property Explained: The Secret Weapon for Dynamic &amp; Smooth Animations](https://dev.to/satyam_gupta_0d1ff2152dcc/css-property-explained-the-secret-weapon-for-dynamic-smooth-animations-2ip5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
