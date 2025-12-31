@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Context Graph Manifesto](https://dev.to/jackcolquitt/the-context-graph-manifesto-2a8m)
 - [FitnessEquation](https://dev.to/bibimbop123/fitnessequation-28cg)
 - [Transaction Race Conditions: Why BEGIN on Pool Breaks Everything](https://dev.to/ofri-peretz/transaction-race-conditions-why-begin-on-pool-breaks-everything-117h)
-- [A Token-Efficient Way to Send Time-Series Data into LLMs](https://dev.to/manasmudbari/a-token-efficient-way-to-send-time-series-data-into-llms-2h80)
-- [🛠 Fixing a Real UI Bug in PrimeReact: My Open Source Contribution Journey](https://dev.to/coderxrohan/fixing-a-real-ui-bug-in-primereact-my-open-source-contribution-journey-428b)
-- [Monitoring Third-Party Webhook Delays with AWS Durable Functions](https://dev.to/aws-builders/monitoring-third-party-webhook-delays-with-aws-durable-functions-1800)
+- [The Connection Leak That Took Down Our Production Database](https://dev.to/ofri-peretz/the-connection-leak-that-took-down-our-production-database-3bal)
+- [Why Your &quot;Perfect&quot; Architecture is Killing Your Velocity](https://dev.to/meena_nukala/why-your-perfect-architecture-is-killing-your-velocity-3e8m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
