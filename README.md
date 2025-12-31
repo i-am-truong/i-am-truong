@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Beyond FFI: Zero-Copy IPC with Rust and Lock-Free Ring-Buffers](https://dev.to/bdovenbird/beyond-ffi-zero-copy-ipc-with-rust-and-lock-free-ring-buffers-3kcp)
-- [Risk-Based Vulnerability Prioritization for Security Service Providers](https://dev.to/kapusto/risk-based-vulnerability-prioritization-for-security-service-providers-44ab)
-- [Day 7: Holiday Word of the Day &lpar;English Dictionary App&rpar;](https://dev.to/dev_michael/day-7-holiday-word-of-the-day-english-dictionary-app-51jm)
-- [🐳 From Chaos to Orchestration: Mastering Docker Containerization &amp; Production Deployments [Week-10] 🚀](https://dev.to/suvrajeet/from-chaos-to-orchestration-mastering-docker-containerization-production-deployments-2k8j)
-- [The Zero-Trust Homelab Manual: MacVLAN, Private PKI, and Tailscale](https://dev.to/chaithuchowdhary/the-zero-trust-homelab-manual-macvlan-private-pki-and-tailscale-46gj)
+- [An Algebraic View of Databases](https://dev.to/lovestaco/an-algebraic-view-of-databases-36p8)
+- [The four principles of object-oriented programming](https://dev.to/obrutus/the-four-principles-of-object-oriented-programming-mcc)
+- [Timefold Planning Optimization in Modern ERP Systems](https://dev.to/richa_singh_11bd098df12c8/timefold-planning-optimization-in-modern-erp-systems-g8f)
+- [Protecting a document is not the same as proving it exists](https://dev.to/jeason/protecting-a-document-is-not-the-same-as-proving-it-exists-549k)
+- [ManageMyHealth investigates breach of New Zealand patient portal](https://dev.to/beyondmachines/managemyhealth-investigates-breach-of-new-zealand-patient-portal-5f5d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
