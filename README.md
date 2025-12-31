@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [⚡_Real_Time_System_Performance_Optimization[20251231160939]](https://dev.to/member_8659c28a/realtimesystemperformanceoptimization20251231160939-lc2)
-- [The state of AI code reviews: An 18-month retrospective](https://dev.to/yanev/the-state-of-ai-code-reviews-an-18-month-retrospective-1j1c)
-- [My 2026 resolution: stop picking Jira resolutions](https://dev.to/saxmanjes/my-2026-resolution-stop-picking-jira-resolutions-26ak)
-- [Vectors vs. Keywords: Why &quot;Close Enough&quot; is Dangerous in MedTech RAG](https://dev.to/beck_moulton/vectors-vs-keywords-why-close-enough-is-dangerous-in-medtech-rag-4o9o)
-- [Automated Reporting System](https://dev.to/adeelabbas/automated-reporting-system-47ob)
+- [Today I Understood useEffect Cleanup &amp; Race Conditions &lpar;Real Lessons from usePopcorn&rpar;](https://dev.to/usama_dev/today-i-understood-useeffect-cleanup-race-conditions-real-lessons-from-usepopcorn-1fl7)
+- [Learning Programming as Debt, Not Investment](https://dev.to/alamasyarie/learning-programming-as-debt-not-investment-21gb)
+- [🚀 FileMate Pro: A Python GUI File Manager with Tkinter](https://dev.to/matetechnologie/filemate-pro-a-python-gui-file-manager-with-tkinter-13gh)
+- [CVE-2022-47986: IBM Aspera Faspex Code Execution Vulnerability](https://dev.to/freedom-coder/cve-2022-47986-ibm-aspera-faspex-code-execution-vulnerability-32c0)
+- [AWS Serverless Guide: Securing IoT Data Ingestion with API Gateway, Lambda, and DynamoDB](https://dev.to/aws-builders/aws-serverless-guide-securing-iot-data-ingestion-with-api-gateway-lambda-and-dynamodb-2hl5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
