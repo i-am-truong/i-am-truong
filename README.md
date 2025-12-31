@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Glin Profanity: A Practical Toolkit for Content Moderation](https://dev.to/thegdsks/glin-profanity-a-practical-toolkit-for-content-moderation-l7n)
-- [The Reset Button That Wasn&#39;t: Why 2026 Demands a New Kind of Resolution](https://dev.to/_boweii/the-reset-button-that-wasnt-why-2026-demands-a-new-kind-of-resolution-14j2)
-- [Gratitude...](https://dev.to/cathylai/gratitude-3153)
-- [I Used ClaudeCode to Rescue an npm Package with 760K Downloads &lpar;And Now I Have a Mission from my regular day job&rpar;](https://dev.to/greenstevester/i-used-claudecode-to-rescue-an-npm-package-with-760k-downloads-and-now-i-have-a-mission-from-my-3kdj)
-- [How to Design Backward Compatible APIs in .NET, Real Lessons and Tips from Production](https://dev.to/saber-amani/how-to-design-backward-compatible-apis-in-net-real-lessons-and-tips-from-production-1mjk)
+- [Understanding How Signals Work](https://dev.to/luciano0322/understanding-how-signals-work-e7e)
+- [Building Self-Referential Agents with .NET 10 &amp; Aspire &lpar;Part 1&rpar;](https://dev.to/shawn_bellazan_843158cdd4/building-self-referential-agents-with-net-10-aspire-part-1-5dam)
+- [Alpha Arena AI Trading System 2.0: The Optimization Journey from Ideal to Reality](https://dev.to/chronosquant/alpha-arena-ai-trading-system-20-the-optimization-journey-from-ideal-to-reality-5c85)
+- [My Predictions for MCP and AI-Assisted Coding in 2026](https://dev.to/blackgirlbytes/my-predictions-for-mcp-and-ai-assisted-coding-in-2026-16bm)
+- [Part 10: Scaling, Failure &amp; Operating Like a Real Company](https://dev.to/daviesbrown/part-10-scaling-failure-operating-like-a-real-company-2h3e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
