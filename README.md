@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[Boost]](https://dev.to/anthonymax/-3cae)
 - [On-Chain Identity — ENS, Soulbound Tokens &amp; Your Web3 Resume](https://dev.to/ribhavmodi/on-chain-identity-ens-soulbound-tokens-your-web3-resume-4f2h)
 - [🎮 Learning Game Development – Day 5 Basics of Color Theory](https://dev.to/dinesh_04/learning-game-development-day-5-basics-of-color-theory-1aa2)
 - [Data Engineering Isn’t About Tools — It’s About Thinking Like This](https://dev.to/browsejobs/data-engineering-isnt-about-tools-its-about-thinking-like-this-59k8)
 - [A beginner&#39;s guide to the Wan-2.2-I2v-Fast model by Wan-Video on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-wan-22-i2v-fast-model-by-wan-video-on-replicate-44ef)
-- [Split and assemble an image using CSS mask](https://dev.to/parthik_rajput_19028ea13d/split-and-assemble-an-image-using-css-mask-4751)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
