@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/lee_rodgers_05/-45ag)
-- [Engage, Convert, Succeed: Master JavaScript for Next-Level User Experiences](https://dev.to/patoliyainfotech/engage-convert-succeed-master-javascript-for-next-level-user-experiences-4pe4)
-- [Weeks 7-8: Browser-Based AI, Holiday Dips, and Why Third-Party SEO Tools Are Nearly Useless](https://dev.to/eduard_albu/weeks-7-8-browser-based-ai-holiday-dips-and-why-third-party-seo-tools-are-nearly-useless-5dan)
-- [Why Gamification Actually Works for Developer Productivity &lpar;And Why I Was Wrong to Dismiss It&rpar;](https://dev.to/lux_seminare/why-gamification-actually-works-for-developer-productivity-and-why-i-was-wrong-to-dismiss-it-3n4g)
-- [Open Source Is People: A Python &amp; Django Year](https://dev.to/maaddae/open-source-is-people-a-python-django-year-com)
+- [Customer Self-Service Experience Best Practices for Support Teams](https://dev.to/freepixel11/customer-self-service-experience-best-practices-for-support-teams-1998)
+- [The Zero-Rent Architecture: Designing for the Swartland Farmer](https://dev.to/paulallies/the-zero-rent-architecture-designing-for-the-swartland-farmer-1e5)
+- [Generative AI Development Services: Build Intelligent AI Solutions with Oodles](https://dev.to/oodlesplatform/generative-ai-development-services-build-intelligent-ai-solutions-with-oodles-4n3n)
+- [# Finding the Best Health Clinic in Trivandrum: Your Complete Guide to Quality Healthcare in Kerala&#39;s Capital](https://dev.to/abdu_gk_e6f4376f6dff8e138/-finding-the-best-health-clinic-in-trivandrum-your-complete-guide-to-quality-healthcare-in-3m7g)
+- [How Equillar Implements AEAD Encryption](https://dev.to/icolomina/how-equillar-implements-aead-encryption-48l4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
