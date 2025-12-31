@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Customer Self-Service Experience Best Practices for Support Teams](https://dev.to/freepixel11/customer-self-service-experience-best-practices-for-support-teams-1998)
-- [The Zero-Rent Architecture: Designing for the Swartland Farmer](https://dev.to/paulallies/the-zero-rent-architecture-designing-for-the-swartland-farmer-1e5)
-- [Generative AI Development Services: Build Intelligent AI Solutions with Oodles](https://dev.to/oodlesplatform/generative-ai-development-services-build-intelligent-ai-solutions-with-oodles-4n3n)
-- [# Finding the Best Health Clinic in Trivandrum: Your Complete Guide to Quality Healthcare in Kerala&#39;s Capital](https://dev.to/abdu_gk_e6f4376f6dff8e138/-finding-the-best-health-clinic-in-trivandrum-your-complete-guide-to-quality-healthcare-in-3m7g)
-- [How Equillar Implements AEAD Encryption](https://dev.to/icolomina/how-equillar-implements-aead-encryption-48l4)
+- [AWS CDK 100 Drill Exercises #006: VPC Peering - Cross-Account Network Integration and DNS Resolution Automation](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-006-vpc-peering-cross-account-network-integration-and-dns-546)
+- [Deploying a Node.js Application to AWS Elastic Beanstalk](https://dev.to/subair09/deploying-a-nodejs-application-to-aws-elastic-beanstalk-3455)
+- [When an AI Suggests DataFrame.append: Missing Pandas Deprecations in Generated Code](https://dev.to/gabrieal845/when-an-ai-suggests-dataframeappend-missing-pandas-deprecations-in-generated-code-416)
+- [The TL;DR Rule: How I Structure Files to Not Annoy My Team](https://dev.to/doogal/the-tldr-rule-how-i-structure-files-to-not-annoy-my-team-5f61)
+- [How Event Platforms Manage Regional Demand](https://dev.to/kunal_das_f99b9304444a708/how-event-platforms-manage-regional-demand-5c0h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
