@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Streaming AI Speech with Gemini 2.5 Flash TTS, Angular v21, and Firebase](https://dev.to/railsstudent/streaming-ai-speech-with-gemini-25-flash-tts-angular-v21-and-firebase-1odm)
-- [10 Proven Techniques to Master Documentation Quickly for Any Framework or Library](https://dev.to/abuhorairatarif/10-proven-techniques-to-master-documentation-quickly-for-any-framework-or-library-2j78)
-- [Why Cloud Skills Matter in 2025 and Beyond](https://dev.to/abdullateef/why-cloud-skills-matter-in-2025-and-beyond-35ak)
-- [The authentic John Snow, a precursor of Geolocation](https://dev.to/datalaria/the-authentic-john-snow-a-precursor-of-geolocation-cbn)
-- [Part 7: CUDA Integration with Python](https://dev.to/palash90/cuda-integration-with-python-5mf)
+- [⚡_Real_Time_System_Performance_Optimization[20251231160939]](https://dev.to/member_8659c28a/realtimesystemperformanceoptimization20251231160939-lc2)
+- [The state of AI code reviews: An 18-month retrospective](https://dev.to/yanev/the-state-of-ai-code-reviews-an-18-month-retrospective-1j1c)
+- [My 2026 resolution: stop picking Jira resolutions](https://dev.to/saxmanjes/my-2026-resolution-stop-picking-jira-resolutions-26ak)
+- [Vectors vs. Keywords: Why &quot;Close Enough&quot; is Dangerous in MedTech RAG](https://dev.to/beck_moulton/vectors-vs-keywords-why-close-enough-is-dangerous-in-medtech-rag-4o9o)
+- [Automated Reporting System](https://dev.to/adeelabbas/automated-reporting-system-47ob)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
