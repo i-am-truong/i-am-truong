@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🔄_Containerized_Deployment_Performance_Optimization[20251231211647]](https://dev.to/member_8659c28a/containerizeddeploymentperformanceoptimization20251231211647-gob)
 - [A Token-Efficient Way to Send Time-Series Data into LLMs](https://dev.to/manasmudbari/a-token-efficient-way-to-send-time-series-data-into-llms-2h80)
-- [Boost Developer Revenue with Monetzly&#39;s AI Conversation Tools](https://dev.to/monetzly/boost-developer-revenue-with-monetzlys-ai-conversation-tools-ld8)
-- [🌐_Network_IO_Performance_Optimization[20251231210816]](https://dev.to/member_6331818c/networkioperformanceoptimization20251231210816-4old)
 - [🛠 Fixing a Real UI Bug in PrimeReact: My Open Source Contribution Journey](https://dev.to/coderxrohan/fixing-a-real-ui-bug-in-primereact-my-open-source-contribution-journey-428b)
+- [Monitoring Third-Party Webhook Delays with AWS Durable Functions](https://dev.to/aws-builders/monitoring-third-party-webhook-delays-with-aws-durable-functions-1800)
+- [I Just Deleted 3 Months of Work Here&#39;s Why..](https://dev.to/yakhilesh/i-just-deleted-3-months-of-work-heres-why-4ncd)
+- [Deepfake &amp; Mobile Identity Fraud - Securing AI Models with Docker](https://dev.to/swap11/deepfake-mobile-identity-fraud-securing-ai-models-with-docker-9g9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
