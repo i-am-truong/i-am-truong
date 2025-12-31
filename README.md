@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [First steps towards Codeberg](https://dev.to/tkuenneth/first-steps-towards-codeberg-48hl)
+- [GemDesk: Reason across all your data.](https://dev.to/openconstruct/gemdesk-reason-across-all-your-data-de6)
 - [Play Ultra Panda Sweepstakes and Enjoy Exciting Fish Games](https://dev.to/ultrapandagame/play-ultra-panda-sweepstakes-and-enjoy-exciting-fish-games-3cck)
 - [Stop Building Side Projects Like Tutorials](https://dev.to/amanchitransh/stop-building-side-projects-like-tutorials-33fo)
-- [My Year in Review: 2025](https://dev.to/bascodes/my-year-in-review-2025-18i6)
-- [Why GPU Marketplaces Fail Production Workloads-And What Infrastructure-First Actually Means](https://dev.to/roan911/why-gpu-marketplaces-fail-production-workloads-and-what-infrastructure-first-actually-means-5hle)
-- [Year in Review - 2025 Edition](https://dev.to/eevajonnapanula/year-in-review-2025-edition-4g7k)
+- [Review of Lightning Web Chart.js Component](https://dev.to/antoninakharchenko/review-of-lightning-web-chartjs-component-3h5f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
