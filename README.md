@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Vector-Database: Qdrant-cluster on ECS-Fargate](https://dev.to/seetamraju/vector-database-qdrant-cluster-on-ecs-fargate-2jak)
-- [Building Cultural Intelligence into Database Processing: A Pattern Recognition Challenge](https://dev.to/faraz_farhan_83ed23a154a2/building-cultural-intelligence-into-database-processing-a-pattern-recognition-challenge-353e)
-- [Vector-Database: Qdrant-cluster - Dockerfile](https://dev.to/seetamraju/vector-database-qdrant-cluster-dockerfile-4lal)
-- [Snapshots &amp; Data-RESTORE: Vector-Database: Qdrant-Cluster](https://dev.to/seetamraju/snapshots-data-restore-vector-database-qdrant-cluster-33gj)
-- [Blocking Is a Spectrum, Not an Error Code](https://dev.to/anna_6c67c00f5c3f53660978/blocking-is-a-spectrum-not-an-error-code-4a1h)
+- [Android 권한 &lpar;Permission&rpar; 완벽 가이드](https://dev.to/dss99911/android-gweonhan-permission-wanbyeog-gaideu-280k)
+- [Spring Security 시작하기 - 기본 설정과 인증](https://dev.to/dss99911/spring-security-sijaghagi-gibon-seoljeonggwa-injeung-4751)
+- [Hibernate 쿼리 완벽 가이드 - HQL과 Criteria API](https://dev.to/dss99911/hibernate-kweori-wanbyeog-gaideu-hqlgwa-criteria-api-h5m)
+- [Spring Boot 로깅 설정 가이드 - Logback 설정과 활용](https://dev.to/dss99911/spring-boot-roging-seoljeong-gaideu-logback-seoljeonggwa-hwalyong-5ana)
+- [Hibernate XML 설정 가이드 - 매핑, 캐시, 트랜잭션](https://dev.to/dss99911/hibernate-xml-seoljeong-gaideu-maeping-kaesi-teuraenjaegsyeon-48pe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
