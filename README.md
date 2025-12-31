@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Integration Depth vs Quantity: What Matters More for Customer Retention?](https://dev.to/kokni_manus_4ba34ad6eddbc/integration-depth-vs-quantity-what-matters-more-for-customer-retention-3j1n)
-- [Rust JS Tooling 2025: Why Biome, Oxc, and Rolldown Change Everything](https://dev.to/dataformathub/rust-js-tooling-2025-why-biome-oxc-and-rolldown-change-everything-20i3)
-- [What Is an ISO 55001 Asset Management Manual?](https://dev.to/joy1/what-is-an-iso-55001-asset-management-manual-1m9m)
-- [How to Build a Successful Home Service App](https://dev.to/aartijangid23/how-to-build-a-successful-home-service-app-1d3m)
-- [How Remote Workers Access Global Job Opportunities Without Location Barriers](https://dev.to/vietnam/how-remote-workers-access-global-job-opportunities-without-location-barriers-ma8)
+- [The Worst Thing to Happen to React and Next.js: React2Shell](https://dev.to/blackgirlbytes/the-worst-thing-to-happen-to-react-and-nextjs-react2shell-5fdf)
+- [Analyzing Docker Images Without Downloading Them](https://dev.to/jtodic/analyzing-docker-images-without-downloading-them-5d3f)
+- [JSON Rules: Change Logic, Skip the Rebuild](https://dev.to/crafts69guy/json-rules-change-logic-skip-the-rebuild-779)
+- [Building an AI-Powered Portfolio Assistant with Model Context Protocol](https://dev.to/nishikantaray/building-an-ai-powered-portfolio-assistant-with-model-context-protocol-4knj)
+- [Football pitch reservation app built with Next.js, Shadcn UI, Prisma, and Better Auth](https://dev.to/saidmounaim/football-pitch-reservation-app-built-with-nextjs-shadcn-ui-prisma-and-better-auth-5d1i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
