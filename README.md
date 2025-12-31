@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/anthonymax/-3cae)
-- [On-Chain Identity — ENS, Soulbound Tokens &amp; Your Web3 Resume](https://dev.to/ribhavmodi/on-chain-identity-ens-soulbound-tokens-your-web3-resume-4f2h)
-- [🎮 Learning Game Development – Day 5 Basics of Color Theory](https://dev.to/dinesh_04/learning-game-development-day-5-basics-of-color-theory-1aa2)
-- [Data Engineering Isn’t About Tools — It’s About Thinking Like This](https://dev.to/browsejobs/data-engineering-isnt-about-tools-its-about-thinking-like-this-59k8)
-- [A beginner&#39;s guide to the Wan-2.2-I2v-Fast model by Wan-Video on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-wan-22-i2v-fast-model-by-wan-video-on-replicate-44ef)
+- [From Coffee Products to AI Search: Building a Serverless Semantic Search Architecture with Amazon S3 Vectors and Bedrock](https://dev.to/aws-builders/from-coffee-products-to-ai-search-building-a-serverless-semantic-search-architecture-with-amazon-5g5b)
+- [Laravel Prompts: Interactive CLI Made Simple](https://dev.to/addwebsolutionpvtltd/laravel-prompts-interactive-cli-made-simple-2n6)
+- [AWS: Monitoring AWS OpenSearch Service Cluster with CloudWatch](https://dev.to/setevoy/aws-monitoring-aws-opensearch-service-cluster-with-cloudwatch-385o)
+- [The Impact of Ceiling Height on Luxury: An Architecture and Interior Design Study](https://dev.to/muhammadsaad98/the-impact-of-ceiling-height-on-luxury-an-architecture-and-interior-design-study-59bl)
+- [My Perspective on AWS Security Hub for DevSecOps](https://dev.to/aws-builders/my-perspective-on-aws-security-hub-for-devsecops-1bd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
