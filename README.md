@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 5: Festive QR Gift Tags &lpar;QR Code Generator&rpar;](https://dev.to/dev_michael/day-5-festive-qr-gift-tags-qr-code-generator-26n9)
+- [2026 Developer Predictions: Why Coding Gets Better](https://dev.to/mashrulhaque/2026-developer-predictions-why-coding-gets-better-4hpl)
 - [Building an Angular Compiler with Google Gemini](https://dev.to/brandontroberts/building-an-angular-compiler-with-google-gemini-ie0)
 - [SVG vs Canvas vs WebGL for Diagram Viewers: Tradeoffs, Bottlenecks, and How to Measure](https://dev.to/vitalf/svg-vs-canvas-vs-webgl-for-diagram-viewers-tradeoffs-bottlenecks-and-how-to-measure-34n7)
 - [A local-first, reversible PII scrubber for AI workflows using ONNX and Regex](https://dev.to/tjruesch/a-local-first-reversible-pii-scrubber-for-ai-workflows-using-onnx-and-regex-53fb)
-- [Scaling Autonomy: Architecting Cost-Efficient Agentic AI for the Enterprise](https://dev.to/dev_gupta_6707a7dccdfd729/scaling-autonomy-architecting-cost-efficient-agentic-ai-for-the-enterprise-4140)
-- [Structure Padding Isn’t Wastage of Memory — It’s a Hardware Requirement](https://dev.to/amanprasad/structure-padding-isnt-wastage-of-memory-its-a-hardware-requirement-2gk3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
