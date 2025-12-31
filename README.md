@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Ruby 4.0: The Structural Maturation of a Thirty-Year-Old Language](https://dev.to/daviducolo/ruby-40-the-structural-maturation-of-a-thirty-year-old-language-2c83)
-- [The Worst Thing to Happen to React and Next.js: React2Shell](https://dev.to/blackgirlbytes/the-worst-thing-to-happen-to-react-and-nextjs-react2shell-5fdf)
-- [Analyzing Docker Images Without Downloading Them](https://dev.to/jtodic/analyzing-docker-images-without-downloading-them-5d3f)
-- [JSON Rules: Change Logic, Skip the Rebuild](https://dev.to/crafts69guy/json-rules-change-logic-skip-the-rebuild-779)
-- [Building an AI-Powered Portfolio Assistant with Model Context Protocol](https://dev.to/nishikantaray/building-an-ai-powered-portfolio-assistant-with-model-context-protocol-4knj)
+- [Monetzly: The Future of AI Monetization for LLM Apps](https://dev.to/monetzly/monetzly-the-future-of-ai-monetization-for-llm-apps-34i9)
+- [When the AI Misreads the Stack: How Models Misinterpret Error Traces](https://dev.to/jamesdev4123/when-the-ai-misreads-the-stack-how-models-misinterpret-error-traces-99j)
+- [Moving From Strategy to Design: 2025 Review and 2026 Roadmap](https://dev.to/devin-rosario/moving-from-strategy-to-design-2025-review-and-2026-roadmap-3cge)
+- [7 Steps of Problem Solving and Decision Making](https://dev.to/writegenic/7-steps-of-problem-solving-and-decision-making-3h00)
+- [Unlimited Free Multilingual Voice Clone: How AI Voice Replication Scales Audio Content](https://dev.to/herman99630/unlimited-free-multilingual-voice-clone-how-ai-voice-replication-scales-audio-content-4djn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
