@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Discover Realtime Location Tracker: An Open-Source PWA for Real-Time Device Monitoring and Communication](https://dev.to/mahmud-r-farhan/discover-realtime-location-tracker-an-open-source-pwa-for-real-time-device-monitoring-and-4nll)
-- [Finally, an Object-Oriented Framework for Bun That Isn&#39;t a Monster](https://dev.to/crispr/finally-an-object-oriented-framework-for-bun-that-isnt-a-monster-6ff)
-- [𝗚𝗼𝗼𝗴𝗹𝗲&#39;𝘀 𝟮𝟱 𝗬𝗲𝗮𝗿 𝗦𝗲𝗮𝗿𝗰𝗵 𝗠𝗼𝗻𝗼𝗽𝗼𝗹𝘆 𝗝𝘂𝘀𝘁 𝗖𝗿𝗮𝗰𝗸𝗲𝗱](https://dev.to/yakhilesh/-605)
-- [Week 3 Firewall Challenge](https://dev.to/fosres/week-3-firewall-challenge-1399)
-- [Your AI SRE needs better observability, not bigger models.](https://dev.to/manveer_chawla_64a7283d5a/your-ai-sre-needs-better-observability-not-bigger-models-23e4)
+- [Essential PHP conferences to attend in 2026](https://dev.to/robertobutti/essential-php-conferences-to-attend-in-2026-d11)
+- [How to Merge Vitest Unit, Component, and E2E Test Coverage](https://dev.to/stevez/how-to-merge-vitest-unit-component-and-e2e-test-coverage-438f)
+- [The shift from &quot;Infrastructure as Code&quot; to &quot;Infrastructure as Software.&quot;](https://dev.to/meena_nukala/the-shift-from-infrastructure-as-code-to-infrastructure-as-software-4kf2)
+- [Build AI Agents with Microsoft Agent Framework in C#](https://dev.to/mashrulhaque/build-ai-agents-with-microsoft-agent-framework-in-c-46h0)
+- [The Geometry of Stability: Why Manifold-Constrained Hyper-Connections Are the Future of Large-Scale AI](https://dev.to/azterix101/the-geometry-of-stability-why-manifold-constrained-hyper-connections-are-the-future-of-large-scale-1810)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
