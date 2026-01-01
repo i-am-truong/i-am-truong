@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Spring Data JPA Relationships](https://dev.to/vigneshwaralingam/spring-data-jpa-relationships-3ll7)
-- [Build a Simple File Explorer in Python with Tkinter – FileMate Explorer](https://dev.to/matetechnologie/build-a-simple-file-explorer-in-python-with-tkinter-filemate-explorer-2ld8)
-- [⚡_Latency_Optimization_Practical_Guide[20260101163734]](https://dev.to/member_6331818c/latencyoptimizationpracticalguide20260101163734-1gdb)
-- [Wish list 2026 - Versión FinOps](https://dev.to/barbara_gaspar/wish-list-2026-version-finops-2d9n)
-- [Heee check this out..](https://dev.to/niroshan_dh/heee-check-this-out-4fkb)
+- [How We Measure HTTP Timing: DNS, TCP, TLS, TTFB Breakdown](https://dev.to/p12se/how-we-measure-http-timing-dns-tcp-tls-ttfb-breakdown-4oa2)
+- [Building a Cyberpunk Glitch UI with CSS &amp; JS &lpar;Source Code&rpar;](https://dev.to/ahmod_musa_bd1b2536d20e0e/building-a-cyberpunk-glitch-ui-with-css-js-source-code-4lo6)
+- [8 Major Ways AI Is Changing the World in 2026](https://dev.to/artificialintelligenceee/8-major-ways-ai-is-changing-the-world-in-2026-2jnp)
+- [Getting Started with Modern Web Development](https://dev.to/bamacharan/getting-started-with-modern-web-development-26a6)
+- [I published my first npm package: `short-id-lite` 🎉](https://dev.to/basharvi/i-published-my-first-npm-package-short-id-lite-53en)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
