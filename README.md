@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Running AI on premises with Postgres](https://dev.to/neurondb_support_d73fa7ba/running-ai-on-premises-with-postgres-50g6)
 - [Congrats to the Xano AI-Powered Backend Challenge Winners!](https://dev.to/devteam/congrats-to-the-xano-ai-powered-backend-challenge-winners-2llg)
 - [How I Built AirQuiz an Offline-First Exam Server &lpar;Python/React&rpar; to Beat Bad Wi-Fi](https://dev.to/salah_eddine_medkour/how-i-built-airquiz-an-offline-first-exam-server-pythonreact-to-beat-bad-wi-fi-5d67)
 - [A História Completa do Eclipse IDE e Sua Evolução](https://dev.to/ikauedev/a-historia-completa-do-eclipse-ide-e-sua-evolucao-5784)
 - [🧠 The End of the KV Cache? Meet &quot;Test-Time Training&quot; &lpar;TTT&rpar;](https://dev.to/siddhesh_surve/the-end-of-the-kv-cache-meet-test-time-training-ttt-2j9b)
-- [Building &lpar;and Sharing&rpar; an HTML5 Component Library — No Frameworks Required](https://dev.to/lukedunsmoto/building-and-sharing-an-html5-component-library-no-frameworks-required-497o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
