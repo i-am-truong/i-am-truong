@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Happy birthday Tiffany!](https://dev.to/frnk_kstl_023971127c81dcf/happy-birthday-tiffany-560)
-- [Gemini Prompts Thumbnails: Best Ideas Guide](https://dev.to/flatratemechanic1glitch/gemini-prompts-thumbnails-best-ideas-guide-1m4m)
-- [Understanding Smart Contract working in etherium](https://dev.to/harshbansal47/understanding-smart-contract-in-etherium-and-solidity-1o01)
-- [⚡_Latency_Optimization_Practical_Guide[20260101223109]](https://dev.to/member_8659c28a/latencyoptimizationpracticalguide20260101223109-2i6i)
-- [The Proxy Economy: Residential, Datacenter, and ISP Rotation](https://dev.to/deepak_mishra_35863517037/the-proxy-economy-residential-datacenter-and-isp-rotation-59o8)
+- [Event-Driven Architecture: Why Your App Should Stop Talking to Itself &lpar;And Start Listening&rpar;](https://dev.to/ftwoli/event-driven-architecture-why-your-app-should-stop-talking-to-itself-and-start-listening-4mp1)
+- [Why AI Governance Cannot Be Treated as Compliance](https://dev.to/antonio_socorro_95e3ff086/why-ai-governance-cannot-be-treated-as-compliance-1dep)
+- [StyleX + ESLint: When Best Practices Fight Each Other](https://dev.to/sal_lancaster/stylex-eslint-when-best-practices-fight-each-other-4o17)
+- [Starting My Journey into C# .NET](https://dev.to/sabin_sim/starting-my-journey-into-c-net-2ob7)
+- [📞 DNS Explained Like You&#39;re 5](https://dev.to/esreekarreddy/dns-explained-like-youre-5-4ki)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
