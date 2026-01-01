@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [V8 Coverage vs Istanbul: Performance and Accuracy](https://dev.to/stevez/v8-coverage-vs-istanbul-performance-and-accuracy-3ei8)
-- [Docify v2: Moving Beyond Standard RAG to Multi-Document Agents](https://dev.to/keshavashiya/docify-v2-moving-beyond-standard-rag-to-multi-document-agents-37ph)
-- [“I’ve never felt this much behind as a programmer” — why Andrej Karpathy’s post hits so close to home.](https://dev.to/paweljanda/ive-never-felt-this-much-behind-as-a-programmer-why-andrej-karpathys-post-hits-so-close-to-45hk)
-- [How I Built a Full-Stack ML App &lpar;and Fixed a 3GB Docker Image&rpar; 🐳](https://dev.to/austin_deyan_6c9b2445aed6/how-i-built-a-full-stack-ml-app-and-fixed-a-3gb-docker-image-44ck)
-- [Python Variables and Basic Data Types Explained Simply](https://dev.to/shahrouzlogs/python-variables-and-basic-data-types-explained-simply-2cdc)
+- [Building Andrej Karpathy&#39;s LLM Council but with Gaia Nodes: A Privacy-First Alternative to Traditional LLM APIs](https://dev.to/harishkotra/building-andrej-karpathys-llm-council-but-with-gaia-nodes-a-privacy-first-alternative-to-10ce)
+- [Package Bridging BPJS &lpar;VClaim, Aplicare, PCare, i-Care&rpar; for PHP Laravel](https://dev.to/indravscode/package-bridging-bpjs-vclaim-aplicare-pcare-i-care-for-php-laravel-28hd)
+- [Ethereum-Solidity Quiz Q10: What is the Free Memory Pointer?](https://dev.to/mihaihng/ethereum-solidity-quiz-q10-what-is-the-free-memory-pointer-51cd)
+- [Day 1: Untill I Get Google Internship](https://dev.to/sugunadithya/day-1-untill-i-get-google-internship-2c1n)
+- [Real-time Server Logs in a Flask Dashboard](https://dev.to/constanta/real-time-server-logs-in-a-flask-dashboard-21ad)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
