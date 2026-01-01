@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🧠 The React Bug That Only Appears When Your Code Is Too Fast](https://dev.to/coderxrohan/the-react-bug-that-only-appears-when-your-code-is-too-fast-371g)
-- [My 2025](https://dev.to/divyanshulohani/my-2025-ljj)
-- [🚀 How I Built an AI Agent to Automate High-Converting Upwork Proposals &lpar;n8n + OpenAI&rpar;](https://dev.to/iloven8n/how-i-built-an-ai-agent-to-automate-high-converting-upwork-proposals-n8n-openai-397k)
-- [Generative AI - Fine-Tuning Diffusion Models - Complete Tutorial](https://dev.to/hkj13/generative-ai-fine-tuning-diffusion-models-complete-tutorial-i68)
-- [CinemaSins: Everything Wrong With Ne Zha In 23 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-ne-zha-in-23-minutes-or-less-dk8)
+- [The AWS AI/ML Landscape in 2026 — Simplified](https://dev.to/aws-builders/the-aws-aiml-landscape-in-2026-simplified-17i3)
+- [Fixing Claude Code&#39;s SIGINT Problem: How I Built MCP Session Manager](https://dev.to/daichikudo/fixing-claude-codes-sigint-problem-how-i-built-mcp-session-manager-3nke)
+- [Multi-Tenant Design for Bedrock Knowledge Base: Solving the Account Limit with Metadata Filtering](https://dev.to/ryo_ariyama_b521d7133c493/multi-tenant-design-for-bedrock-knowledge-base-solving-the-account-limit-with-metadata-filtering-e6b)
+- [15. 3Sum | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/15-3sum-leetcode-top-interview-150-coding-questions-5eik)
+- [Radiant AI: Building an AI-Powered Image Editor with Python](https://dev.to/arshvir/radiant-ai-building-an-ai-powered-image-editor-with-python-51lp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
