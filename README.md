@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How Employee Dashboards Build Ownership and Accountability in Construction Teams](https://dev.to/commander_erp_cf7c5a13333/how-employee-dashboards-build-ownership-and-accountability-in-construction-teams-2ap0)
+- [Understanding afterNextRender&lpar;&rpar;, afterEveryRender&lpar;&rpar;, and afterRenderEffect&lpar;&rpar; in Angular 18+](https://dev.to/_kafeel_ahmad/understanding-afternextrender-aftereveryrender-and-afterrendereffect-in-angular-18-3bjj)
 - [Mastering the NFT Reveal: Building Hype, Value, and Community with WordPress &amp; Elementor](https://dev.to/nftsaz2025/mastering-the-nft-reveal-building-hype-value-and-community-with-wordpress-elementor-4jp1)
 - [https://docs.google.com/document/d/e/2PACX-1vR1elQHwiR1LmmdFPqdiTJJfTe2m3I1VUuFMVAEctz-yOc45Af9yVIndEfQIcTxjnm-HTpSnwcne-Z1/pub](https://dev.to/devid_lee_8bbc341756027c2/-3fcl)
 - [How Prospect Tracking Brings Predictability to Construction Sales](https://dev.to/commander_erp_cf7c5a13333/how-prospect-tracking-brings-predictability-to-construction-sales-12ba)
-- [The 5-Second Boot: Building a Minimalist &quot;Browser OS&quot; for 1GB RAM Machines](https://dev.to/techno_kraft_in/the-5-second-boot-building-a-minimalist-browser-os-for-1gb-ram-machines-1mh1)
-- [Building a Multi-Layer Caching Strategy in Next.js App Router: From Static to Real-Time](https://dev.to/maurya-sachin/building-a-multi-layer-caching-strategy-in-nextjs-app-router-from-static-to-real-time-4che)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
