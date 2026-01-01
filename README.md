@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🔄_Containerized_Deployment_Performance_Optimization[20260101093935]](https://dev.to/member_8659c28a/containerizeddeploymentperformanceoptimization20260101093935-39ki)
-- [You Can Use Our Coding Language](https://dev.to/universe_coding_services/you-can-use-our-coding-language-13g4)
-- [The Thinking Game: De cómo DeepMind convirtió los videojuegos en la mayor herramienta científica de la historia](https://dev.to/datalaria/the-thinking-game-de-como-deepmind-convirtio-los-videojuegos-en-la-mayor-herramienta-cientifica-de-1a6m)
-- [A Small VS Code Extension to Shorten the Pytest Fix Loop](https://dev.to/michle/a-small-vs-code-extension-to-shorten-the-pytest-fix-loop-52gp)
-- [Cross-Modal Knowledge Distillation for circular manufacturing supply chains in hybrid quantum-classical pipelines](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-circular-manufacturing-supply-chains-in-hybrid-432c)
+- [The Thinking Game: How DeepMind Turned Video Games into History&#39;s Greatest Scientific Tool](https://dev.to/datalaria/the-thinking-game-how-deepmind-turned-video-games-into-historys-greatest-scientific-tool-1iep)
+- [I Made AI Code for Me from My Phone &lpar;Slack Codex CLI&rpar;](https://dev.to/m_sea_bass/i-made-ai-code-for-me-from-my-phone-slack-codex-cli-1h8i)
+- [Fix Hydration Errors in Next.js](https://dev.to/tahir_rafique/fix-hydration-errors-in-nextjs-3976)
+- [LanManVan: How to Create Your Own Modules](https://dev.to/0root/lanmanvan-how-to-create-your-own-modules-1ilp)
+- [Handling Duplicate Items in Scrapy: Stop Scraping the Same Thing Twice](https://dev.to/ikram_khan/handling-duplicate-items-in-scrapy-stop-scraping-the-same-thing-twice-1bjo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
