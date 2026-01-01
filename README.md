@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Learn Git Easily: A Beginner&#39;s Guide to Version Control](https://dev.to/satpalsinhrana/learn-git-easily-a-beginners-guide-to-version-control-47e2)
-- [Why Cloud and Cybersecurity Skills Will Be in High Demand by 2026](https://dev.to/pateludayyy2003/why-cloud-and-cybersecurity-skills-will-be-in-high-demand-by-2026-3j0p)
-- [Join the New Year, New You Portfolio Challenge: $3,000 in Prizes + Feedback from Google AI Team &lpar;For Winners and Runner Ups!&rpar;](https://dev.to/devteam/join-the-new-year-new-you-portfolio-challenge-3000-in-prizes-feedback-from-google-ai-team-4e7g)
-- [Seven Companies, One Pattern: Why Every Scaled ClickHouse Deployment Looks the Same](https://dev.to/lureilly1/seven-companies-one-pattern-why-every-scaled-clickhouse-deployment-looks-the-same-gdm)
-- [Why Cloud and Cybersecurity Skills Will Be in High Demand by 2026](https://dev.to/eren_yeager_f8c9f19d520e6/why-cloud-and-cybersecurity-skills-will-be-in-high-demand-by-2026-55b)
+- [🧠 The React Bug That Only Appears When Your Code Is Too Fast](https://dev.to/coderxrohan/the-react-bug-that-only-appears-when-your-code-is-too-fast-371g)
+- [My 2025](https://dev.to/divyanshulohani/my-2025-ljj)
+- [🚀 How I Built an AI Agent to Automate High-Converting Upwork Proposals &lpar;n8n + OpenAI&rpar;](https://dev.to/iloven8n/how-i-built-an-ai-agent-to-automate-high-converting-upwork-proposals-n8n-openai-397k)
+- [Generative AI - Fine-Tuning Diffusion Models - Complete Tutorial](https://dev.to/hkj13/generative-ai-fine-tuning-diffusion-models-complete-tutorial-i68)
+- [CinemaSins: Everything Wrong With Ne Zha In 23 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-ne-zha-in-23-minutes-or-less-dk8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
