@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Cyberpunk Portfolio with Tailwind &amp; GSAP &lpar;From Scratch&rpar;🚀](https://dev.to/sarshijkarn/how-i-built-a-cyberpunk-portfolio-with-tailwind-gsap-from-scratch-pk4)
-- [Contoh Isi Catatan Pelaksanaan Ujian Sekolah yang Benar dan Jelas](https://dev.to/backlink_blog_a0bee06f492/contoh-isi-catatan-pelaksanaan-ujian-sekolah-yang-benar-dan-jelas-1j1k)
-- [I Built a Free Sleep Cycle Calculator](https://dev.to/sunil_chaudhary_3985d071c/i-built-a-free-sleep-cycle-calculator-5ef7)
-- [How Modern Websites Work: A Beginner’s Guide to Frontend, Backend, and Browsers](https://dev.to/mzaheerofficial/how-modern-websites-work-a-beginners-guide-to-frontend-backend-and-browsers-2c6m)
-- [CI/CD Deep Dive: Why Jenkins, GitLab, and CircleCI Still Rule in 2026](https://dev.to/dataformathub/cicd-deep-dive-why-jenkins-gitlab-and-circleci-still-rule-in-2026-268c)
+- [Java Core Mastery Part 4: Advanced Topics &amp; Interview Mastery 🎯](https://dev.to/rajat128/java-core-mastery-part-4-advanced-topics-interview-mastery-51je)
+- [Building Modern Backends with Kaapi: Authorization](https://dev.to/shygyver/building-modern-backends-with-kaapi-authorization-1cg0)
+- [Signature Generator](https://dev.to/preetha_vaishnavi_2b82358/signature-generator-2c5m)
+- [Generate UUID in PostgreSQL](https://dev.to/ahmadtheswe/generate-uuid-in-postgresql-5g)
+- [⚡_Latency_Optimization_Practical_Guide[20260101153511]](https://dev.to/member_8659c28a/latencyoptimizationpracticalguide20260101153511-2co8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
