@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Finite Fields - The Hidden Math Powering Blockchains](https://dev.to/caleb_olusola/finite-fields-the-hidden-math-powering-blockchains-31dm)
+- [Day 38 of improving my Data Science skills](https://dev.to/sp_the_data_specialist/day-38-of-improving-my-data-science-skills-4l0e)
+- [Idea&#39;s Come From Silence](https://dev.to/webdevamin/ideas-come-from-silence-3244)
 - [How to Fix the Annoying WSL &quot;Press any key to install&quot; Popup on Windows 11 &lpar;After Uninstalling WSL&rpar;](https://dev.to/3dfoster/how-to-fix-the-annoying-wsl-press-any-key-to-install-popup-on-windows-11-after-uninstalling-wsl-294a)
 - [Coding Challenge Practice - Question 91](https://dev.to/tomivan/coding-challenge-practice-question-91-56pl)
-- [End-to-End Deployment of a Two-Tier Application Using Docker, Kubernetes, Helm, and AWS](https://dev.to/safi-ullah/end-to-end-deployment-of-a-two-tier-application-using-docker-kubernetes-helm-and-aws-3gma)
-- [Event-Driven Architecture: Why Your App Should Stop Talking to Itself &lpar;And Start Listening&rpar;](https://dev.to/ftwoli/event-driven-architecture-why-your-app-should-stop-talking-to-itself-and-start-listening-4mp1)
-- [Why AI Governance Cannot Be Treated as Compliance](https://dev.to/antonio_socorro_95e3ff086/why-ai-governance-cannot-be-treated-as-compliance-1dep)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
