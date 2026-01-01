@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hashicorp Vault: Fine-Grained Access Control with Policies](https://dev.to/admantium/hashicorp-vault-fine-grained-access-control-with-policies-53h2)
+- [🚀 Multi-Application CI/CD on AWS &lpar;Production-Style&rpar;](https://dev.to/mubeen780/devops-project-multi-application-cicd-on-aws-production-style-2924)
+- [Why Modern Websites feel Faster than Old Ones](https://dev.to/coding_dev_/why-modern-websites-feel-faster-than-old-ones-36om)
+- [How to Win Clients Online with Trust and Clarity - a Practical Guide](https://dev.to/per-starke-642/how-to-win-clients-online-with-trust-and-clarity-a-practical-guide-35a4)
 - [Google Cloud: la Gerarchia delle Risorse](https://dev.to/scape/google-cloud-la-gerarchia-delle-risorse-3l77)
-- [Computer Vision Services: Building Intelligent Visual Systems with Oodles](https://dev.to/oodlesplatform/computer-vision-services-building-intelligent-visual-systems-with-oodles-3pi0)
-- [Practical Next.js Caching: Routes, Data, Revalidation, and Tags](https://dev.to/sumeet_shrofffreelancer_/practical-nextjs-caching-routes-data-revalidation-and-tags-24d1)
-- [Shopify Scripts Functions: A Practical Migration Playbook](https://dev.to/sumeet_shrofffreelancer_/shopify-scripts-functions-a-practical-migration-playbook-2pih)
-- [GO-QUEUE@v1.1.1: 基于優先級的並發排程，自動提升優先權](https://dev.to/pardnchiu/go-queuev111-ji-yu-you-xian-ji-pai-xu-de-bing-fa-dui-lie-3ebe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
