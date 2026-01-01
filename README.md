@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a WhatsApp Gateway in Rust Because Node.js Wasn&#39;t Cutting It](https://dev.to/abdulm/i-built-a-whatsapp-gateway-in-rust-because-nodejs-wasnt-cutting-it-3910)
-- [I Built a Free Google Drive Cloner &lpar;King Drive Cloner&rpar; – Here’s Why &amp; How 🚀](https://dev.to/abdull_hanan/i-built-a-free-google-drive-cloner-king-drive-cloner-heres-why-how-4nng)
-- [Ethical Monetization: How to Grow Revenue Without Sacrificing User Trust](https://dev.to/okoye_ndidiamaka_5e3b7d30/ethical-monetization-how-to-grow-revenue-without-sacrificing-user-trust-1f7a)
-- [Why Version Control Exists: The Pendrive Problem](https://dev.to/abhimanyu_kumar_b94e042e9/why-version-control-exists-the-pendrive-problem-2779)
-- [How I Used Google’s site: Operator to Audit My SaaS SEO &lpar;Without Any Tools&rpar;](https://dev.to/muhammed_mufinuddinafraz/how-i-used-googles-site-operator-to-audit-my-saas-seo-without-any-tools-2hck)
+- [I Built a Self-Hosted Content Moderation API &lpar;Open Source&rpar;](https://dev.to/kokosde/i-built-a-self-hosted-content-moderation-api-open-source-2gba)
+- [Why Sentiment Analysis Needs an Upgrade: Welcome Sentimetric](https://dev.to/peterabel/why-sentiment-analysis-needs-an-upgrade-welcome-sentimetric-1pj4)
+- [WTF is Open-Source Digital Forensics?](https://dev.to/dailybugle33/wtf-is-open-source-digital-forensics-1dig)
+- [Quick Prototyping](https://dev.to/kennydop/quick-prototyping-2pl3)
+- [CapsuleRSC: Safe Server/Client Boundary Enforcement for React Server Components](https://dev.to/yuu1ch13/capsulersc-safe-serverclient-boundary-enforcement-for-react-server-components-1i0j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
