@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Big to Small: Multi-Scale Local Planar Guidance for Monocular DepthEstimation](https://dev.to/paperium/from-big-to-small-multi-scale-local-planar-guidance-for-monocular-depthestimation-1m3c)
-- [UniFace: a production-ready, ONNX-first face analysis toolkit in Python](https://dev.to/yakhyo/uniface-a-production-ready-onnx-first-face-analysis-toolkit-in-python-1563)
-- [JavaScript vs TypeScript: advantages and differences](https://dev.to/lucaspereiradesouzat/javascript-vs-typescript-advantages-and-differences-k2g)
-- [JavaScript vs TypeScript: vantagens e diferenças](https://dev.to/lucaspereiradesouzat/javascript-vs-typescript-vantagens-e-diferencas-2i2l)
-- [Ever wondered how Cheat Engine works?](https://dev.to/guardingpearsoftware/ever-wondered-how-cheat-engine-works-l95)
+- [Spring Data JPA Relationships](https://dev.to/vigneshwaralingam/spring-data-jpa-relationships-3ll7)
+- [Build a Simple File Explorer in Python with Tkinter – FileMate Explorer](https://dev.to/matetechnologie/build-a-simple-file-explorer-in-python-with-tkinter-filemate-explorer-2ld8)
+- [⚡_Latency_Optimization_Practical_Guide[20260101163734]](https://dev.to/member_6331818c/latencyoptimizationpracticalguide20260101163734-1gdb)
+- [Wish list 2026 - Versión FinOps](https://dev.to/barbara_gaspar/wish-list-2026-version-finops-2d9n)
+- [Heee check this out..](https://dev.to/niroshan_dh/heee-check-this-out-4fkb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
