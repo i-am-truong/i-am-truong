@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Docker Fundamentals on Amazon EC2: A Practical Introduction](https://dev.to/aws-builders/docker-fundamentals-on-amazon-ec2-a-practical-introduction-2l60)
-- [The Automated Time Tracking Showdown: Which Tool Actually Works in 2025?](https://dev.to/theairabbit/the-automated-time-tracking-showdown-which-tool-actually-works-in-2025-3pln)
-- [Breaking Bad Logo](https://dev.to/preetha_vaishnavi_2b82358/breaking-bad-logo-3j4m)
-- [Bitcoin 101: From Barter to Blockchain](https://dev.to/inushathathsara/bitcoin-101-from-barter-to-blockchain-1kp7)
-- [Poison Frogs](https://dev.to/preetha_vaishnavi_2b82358/poison-frogs-2a3o)
+- [Solved: Which is the most popular CI/CD tool used nowadays?](https://dev.to/techresolve/solved-which-is-the-most-popular-cicd-tool-used-nowadays-4bjk)
+- [Solved: Does everyone uses hacks to bypass Airtable’s crazy pricing?](https://dev.to/techresolve/solved-does-everyone-uses-hacks-to-bypass-airtables-crazy-pricing-bh2)
+- [# HTTP Client–Server Communication in Node.js: How It Works](https://dev.to/sudiip__17/-http-client-server-communication-in-nodejs-how-it-works-4klh)
+- [# HTTP Client–Server Communication in Node.js: How It Works](https://dev.to/sudiip__17/-http-client-server-communication-in-nodejs-how-it-works-1mfh)
+- [An Epidemic of Learned Helplessness](https://dev.to/the_tea_drinker/an-epidemic-of-learned-helplessness-14cc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
