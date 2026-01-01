@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Essential PHP conferences to attend in 2026](https://dev.to/robertobutti/essential-php-conferences-to-attend-in-2026-d11)
-- [How to Merge Vitest Unit, Component, and E2E Test Coverage](https://dev.to/stevez/how-to-merge-vitest-unit-component-and-e2e-test-coverage-438f)
-- [The shift from &quot;Infrastructure as Code&quot; to &quot;Infrastructure as Software.&quot;](https://dev.to/meena_nukala/the-shift-from-infrastructure-as-code-to-infrastructure-as-software-4kf2)
-- [Build AI Agents with Microsoft Agent Framework in C#](https://dev.to/mashrulhaque/build-ai-agents-with-microsoft-agent-framework-in-c-46h0)
-- [The Geometry of Stability: Why Manifold-Constrained Hyper-Connections Are the Future of Large-Scale AI](https://dev.to/azterix101/the-geometry-of-stability-why-manifold-constrained-hyper-connections-are-the-future-of-large-scale-1810)
+- [Meet Orion-Belt, Go ZeroTrust Bastion](https://dev.to/zrouga/meet-orion-belt-go-zerotrust-bastion-clp)
+- [I built a macOS Teleprompter with Electron &lpar;Don&#39;t kill me 😅&rpar;](https://dev.to/dnyantra_bfc24bcb3d259ee0/i-built-a-macos-teleprompter-with-electron-dont-kill-me--302f)
+- [Automating Git Workflow in VS Code: AI Commit &amp; Sync with One Shortcut](https://dev.to/jankoweb/automating-git-workflow-in-vs-code-ai-commit-sync-with-one-shortcut-5d3b)
+- [Master VPN Security: A Complete Quiz on Protocols, Attack Vectors &amp; Defense Strategies](https://dev.to/fosres/master-vpn-security-a-complete-quiz-on-protocols-attack-vectors-defense-strategies-fm2)
+- [Terraform Guardrail MCP](https://dev.to/huzefaaa2/terraform-guardrail-mcp-2kfn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
