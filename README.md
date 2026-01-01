@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [2025: The Year in LLMs](https://dev.to/technoblogger14o3/2025-the-year-in-llms-2d0c)
-- [Amazon S3 Tables Just Got Smarter: Intelligent-Tiering &amp; Native Replication Explained](https://dev.to/aws-builders/amazon-s3-tables-just-got-smarter-intelligent-tiering-native-replication-explained-3e28)
-- [Happy New Year, community!](https://dev.to/_fd14d0815f593007cb7/happy-new-year-community-3io5)
-- [Part 8: Proving the Universal Approximation Theorem with Rust](https://dev.to/palash90/part-8-proving-the-universal-approximation-theorem-with-rust-2cch)
-- [Securing Android: A Dev&#39;s Guide to No-Logs VPNs &amp; Protocols](https://dev.to/mitul_chovatiya_e568824a5/securing-android-a-devs-guide-to-no-logs-vpns-protocols-4b6b)
+- [[Boost]](https://dev.to/drazenbebic/-1fjg)
+- [What Is Customer Identity and Access Management &lpar;CIAM&rpar;? Why It Matters in 2026](https://dev.to/blaise-liu/what-is-customer-identity-and-access-management-ciam-why-it-matters-in-2026-17l6)
+- [Magic in the Wild: How Java Giants like Spring, Hibernate, and Mockito use Dynamic Proxies](https://dev.to/rajatarora/magic-in-the-wild-how-java-giants-like-spring-hibernate-and-mockito-use-dynamic-proxies-3khc)
+- [Logging in Node.js &lpar;or Deno or Bun or edge functions&rpar; in 2026](https://dev.to/hongminhee/logging-in-nodejs-or-deno-or-bun-or-edge-functions-in-2026-36l2)
+- [PostgreSQL vs MySQL vs MongoDB in 2026: The Honest Comparison Nobody Asked For](https://dev.to/pockit_tools/postgresql-vs-mysql-vs-mongodb-in-2026-the-honest-comparison-nobody-asked-for-5fkc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
