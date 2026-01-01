@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How We Measure HTTP Timing: DNS, TCP, TLS, TTFB Breakdown](https://dev.to/p12se/how-we-measure-http-timing-dns-tcp-tls-ttfb-breakdown-4oa2)
-- [Building a Cyberpunk Glitch UI with CSS &amp; JS &lpar;Source Code&rpar;](https://dev.to/ahmod_musa_bd1b2536d20e0e/building-a-cyberpunk-glitch-ui-with-css-js-source-code-4lo6)
-- [8 Major Ways AI Is Changing the World in 2026](https://dev.to/artificialintelligenceee/8-major-ways-ai-is-changing-the-world-in-2026-2jnp)
-- [Getting Started with Modern Web Development](https://dev.to/bamacharan/getting-started-with-modern-web-development-26a6)
-- [I published my first npm package: `short-id-lite` 🎉](https://dev.to/basharvi/i-published-my-first-npm-package-short-id-lite-53en)
+- [V8 Coverage vs Istanbul: Performance and Accuracy](https://dev.to/stevez/v8-coverage-vs-istanbul-performance-and-accuracy-3ei8)
+- [Docify v2: Moving Beyond Standard RAG to Multi-Document Agents](https://dev.to/keshavashiya/docify-v2-moving-beyond-standard-rag-to-multi-document-agents-37ph)
+- [“I’ve never felt this much behind as a programmer” — why Andrej Karpathy’s post hits so close to home.](https://dev.to/paweljanda/ive-never-felt-this-much-behind-as-a-programmer-why-andrej-karpathys-post-hits-so-close-to-45hk)
+- [How I Built a Full-Stack ML App &lpar;and Fixed a 3GB Docker Image&rpar; 🐳](https://dev.to/austin_deyan_6c9b2445aed6/how-i-built-a-full-stack-ml-app-and-fixed-a-3gb-docker-image-44ck)
+- [Python Variables and Basic Data Types Explained Simply](https://dev.to/shahrouzlogs/python-variables-and-basic-data-types-explained-simply-2cdc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
