@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Deep Dive: Why Podman and containerd 2.0 are Replacing Docker in 2026](https://dev.to/dataformathub/deep-dive-why-podman-and-containerd-20-are-replacing-docker-in-2026-32ak)
+- [Stop Chatting with AI: How I Built an Autonomous RFP Response System for Business](https://dev.to/exploredataaiml/stop-chatting-with-ai-how-i-built-an-autonomous-rfp-response-system-for-business-4ag8)
 - [Follow-up: Cloudflare Bot Fight Mode Breaks Zapier OAuth &lpar;And How to Fix It&rpar;](https://dev.to/anand_rathnas_d5b608cc3de/follow-up-cloudflare-bot-fight-mode-breaks-zapier-oauth-and-how-to-fix-it-3p6m)
 - [Controllable AI: A Runtime Legitimacy Layer for AI Governance](https://dev.to/yuer/controllable-ai-a-runtime-legitimacy-layer-for-ai-governance-bp)
-- [Building a desktop-first Vision AI IDE — early thoughts &amp; feedback welcome](https://dev.to/senthil_kumar_7f3fa2e12a8/building-a-desktop-first-vision-ai-ide-early-thoughts-feedback-welcome-1807)
-- [What’s New in .NET 10 &lpar;LTS&rpar; — Why It Matters for Developers &amp; Businesses](https://dev.to/kellythomas/whats-new-in-net-10-lts-why-it-matters-for-developers-businesses-1c50)
-- [Energia Solar + Mercado Livre para MEI: Requisitos Técnicos em 2025](https://dev.to/ava_mendes/energia-solar-mercado-livre-para-mei-requisitos-tecnicos-em-2025-2co)
+- [QEMU AARCH64 RUN](https://dev.to/sahrulgunawanid/qemu-aarch64-run-1i96)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
