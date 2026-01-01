@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Java Core Mastery Part 4: Advanced Topics &amp; Interview Mastery 🎯](https://dev.to/rajat128/java-core-mastery-part-4-advanced-topics-interview-mastery-51je)
-- [Building Modern Backends with Kaapi: Authorization](https://dev.to/shygyver/building-modern-backends-with-kaapi-authorization-1cg0)
-- [Signature Generator](https://dev.to/preetha_vaishnavi_2b82358/signature-generator-2c5m)
-- [Generate UUID in PostgreSQL](https://dev.to/ahmadtheswe/generate-uuid-in-postgresql-5g)
-- [⚡_Latency_Optimization_Practical_Guide[20260101153511]](https://dev.to/member_8659c28a/latencyoptimizationpracticalguide20260101153511-2co8)
+- [From Big to Small: Multi-Scale Local Planar Guidance for Monocular DepthEstimation](https://dev.to/paperium/from-big-to-small-multi-scale-local-planar-guidance-for-monocular-depthestimation-1m3c)
+- [UniFace: a production-ready, ONNX-first face analysis toolkit in Python](https://dev.to/yakhyo/uniface-a-production-ready-onnx-first-face-analysis-toolkit-in-python-1563)
+- [JavaScript vs TypeScript: advantages and differences](https://dev.to/lucaspereiradesouzat/javascript-vs-typescript-advantages-and-differences-k2g)
+- [JavaScript vs TypeScript: vantagens e diferenças](https://dev.to/lucaspereiradesouzat/javascript-vs-typescript-vantagens-e-diferencas-2i2l)
+- [Ever wondered how Cheat Engine works?](https://dev.to/guardingpearsoftware/ever-wondered-how-cheat-engine-works-l95)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
