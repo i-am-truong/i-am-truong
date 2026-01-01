@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Global SaaS with Next.js 14 and Achieved a 100% Lighthouse Score](https://dev.to/trinc4/how-i-built-a-global-saas-with-nextjs-14-and-achieved-a-100-lighthouse-score-2nm6)
-- [How to Learn a Programming Language Without Crying](https://dev.to/javadinteger/how-to-learn-a-programming-language-without-crying-3jkb)
-- [Boats to Save People: Coding Problem Explained](https://dev.to/stack_overflowed/boats-to-save-people-coding-problem-explained-3j3h)
-- [Web Design Trends for 2026: What Developers Actually Need to Care About](https://dev.to/webmix_studio_3a626e2219e/web-design-trends-for-2026-what-developers-actually-need-to-care-about-298c)
-- [Fast-Growing Business Opportunities in Bangladesh 2026](https://dev.to/isha_mohammad_034308fdad7/fast-growing-business-opportunities-in-bangladesh-2026-2mbh)
+- [When code-gen suggests deprecated Pandas APIs — a subtle drift that broke a pipeline](https://dev.to/gabrieal845/when-code-gen-suggests-deprecated-pandas-apis-a-subtle-drift-that-broke-a-pipeline-1kmf)
+- [Designing a Scalable Content Architecture in Sitecore XM Cloud](https://dev.to/rutvi_kumbhani/designing-a-scalable-content-architecture-in-sitecore-xm-cloud-5fck)
+- [The Web Ecosystem Civil War](https://dev.to/javadinteger/the-web-ecosystem-civil-war-oda)
+- [Why Settlement Layers Will Outlast Smart Contract Platforms: The Case for Stellar](https://dev.to/roan911/why-settlement-layers-will-outlast-smart-contract-platforms-the-case-for-stellar-16l3)
+- [Beyond the Black Box: Visualizing Autonomous Intelligence with Starlight Mission Control](https://dev.to/godhirajcode/beyond-the-black-box-visualizing-autonomous-intelligence-with-starlight-mission-control-2kbo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
