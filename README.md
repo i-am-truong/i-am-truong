@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Game Engines Explained Like You’re Choosing a Pokémon](https://dev.to/javadinteger/game-engines-explained-like-youre-choosing-a-pokemon-542b)
 - [When code-gen suggests deprecated Pandas APIs — a subtle drift that broke a pipeline](https://dev.to/gabrieal845/when-code-gen-suggests-deprecated-pandas-apis-a-subtle-drift-that-broke-a-pipeline-1kmf)
 - [Designing a Scalable Content Architecture in Sitecore XM Cloud](https://dev.to/rutvi_kumbhani/designing-a-scalable-content-architecture-in-sitecore-xm-cloud-5fck)
 - [The Web Ecosystem Civil War](https://dev.to/javadinteger/the-web-ecosystem-civil-war-oda)
 - [Why Settlement Layers Will Outlast Smart Contract Platforms: The Case for Stellar](https://dev.to/roan911/why-settlement-layers-will-outlast-smart-contract-platforms-the-case-for-stellar-16l3)
-- [Beyond the Black Box: Visualizing Autonomous Intelligence with Starlight Mission Control](https://dev.to/godhirajcode/beyond-the-black-box-visualizing-autonomous-intelligence-with-starlight-mission-control-2kbo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
