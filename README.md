@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Your Personal Data Economy And How To Shrink It](https://dev.to/gw-jeni-systems/your-personal-data-economy-and-how-to-shrink-it-2fb5)
+- [Solved: I built an automated Talos + Proxmox + GitOps homelab starter &lpar;ArgoCD + Workflows + DR&rpar;](https://dev.to/techresolve/solved-i-built-an-automated-talos-proxmox-gitops-homelab-starter-argocd-workflows-dr-1ekb)
 - [Finite Fields - The Hidden Math Powering Blockchains](https://dev.to/caleb_olusola/finite-fields-the-hidden-math-powering-blockchains-31dm)
 - [Day 38 of improving my Data Science skills](https://dev.to/sp_the_data_specialist/day-38-of-improving-my-data-science-skills-4l0e)
-- [Idea&#39;s Come From Silence](https://dev.to/webdevamin/ideas-come-from-silence-3244)
-- [How to Fix the Annoying WSL &quot;Press any key to install&quot; Popup on Windows 11 &lpar;After Uninstalling WSL&rpar;](https://dev.to/3dfoster/how-to-fix-the-annoying-wsl-press-any-key-to-install-popup-on-windows-11-after-uninstalling-wsl-294a)
-- [Coding Challenge Practice - Question 91](https://dev.to/tomivan/coding-challenge-practice-question-91-56pl)
+- [Solved: Fixing Netflix&#39;s Annoying Auto-Play with React&#39;s new &lt;Activity /&gt;](https://dev.to/techresolve/solved-fixing-netflixs-annoying-auto-play-with-reacts-new-bdm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
