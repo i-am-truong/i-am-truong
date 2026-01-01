@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Employee Dashboards Build Ownership and Accountability in Construction Teams](https://dev.to/commander_erp_cf7c5a13333/how-employee-dashboards-build-ownership-and-accountability-in-construction-teams-2ap0)
-- [Understanding afterNextRender&lpar;&rpar;, afterEveryRender&lpar;&rpar;, and afterRenderEffect&lpar;&rpar; in Angular 18+](https://dev.to/_kafeel_ahmad/understanding-afternextrender-aftereveryrender-and-afterrendereffect-in-angular-18-3bjj)
-- [Mastering the NFT Reveal: Building Hype, Value, and Community with WordPress &amp; Elementor](https://dev.to/nftsaz2025/mastering-the-nft-reveal-building-hype-value-and-community-with-wordpress-elementor-4jp1)
-- [https://docs.google.com/document/d/e/2PACX-1vR1elQHwiR1LmmdFPqdiTJJfTe2m3I1VUuFMVAEctz-yOc45Af9yVIndEfQIcTxjnm-HTpSnwcne-Z1/pub](https://dev.to/devid_lee_8bbc341756027c2/-3fcl)
-- [How Prospect Tracking Brings Predictability to Construction Sales](https://dev.to/commander_erp_cf7c5a13333/how-prospect-tracking-brings-predictability-to-construction-sales-12ba)
+- [Google Cloud: la Gerarchia delle Risorse](https://dev.to/scape/google-cloud-la-gerarchia-delle-risorse-3l77)
+- [Computer Vision Services: Building Intelligent Visual Systems with Oodles](https://dev.to/oodlesplatform/computer-vision-services-building-intelligent-visual-systems-with-oodles-3pi0)
+- [Practical Next.js Caching: Routes, Data, Revalidation, and Tags](https://dev.to/sumeet_shrofffreelancer_/practical-nextjs-caching-routes-data-revalidation-and-tags-24d1)
+- [Shopify Scripts Functions: A Practical Migration Playbook](https://dev.to/sumeet_shrofffreelancer_/shopify-scripts-functions-a-practical-migration-playbook-2pih)
+- [GO-QUEUE@v1.1.1: 基于優先級的並發排程，自動提升優先權](https://dev.to/pardnchiu/go-queuev111-ji-yu-you-xian-ji-pai-xu-de-bing-fa-dui-lie-3ebe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
