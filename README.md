@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [System Design Quick Guide](https://dev.to/walidchahmi/system-design-quick-guide-5410)
-- [Git for Beginners: Basics and Essential Commands 🚀](https://dev.to/dark-lord-harsh/git-for-beginners-basics-and-essential-commands-4b49)
-- [How to Make Any CSS Element Resizable 🔧 &lpar;Without JavaScript&rpar;:](https://dev.to/walidchahmi/how-to-make-any-css-element-resizable-without-javascript-2fn1)
-- [SwiftUI Design Tokens &amp; Theming System &lpar;Production-Scale&rpar;](https://dev.to/sebastienlato/swiftui-design-tokens-theming-system-production-scale-b16)
-- [The AWS AI/ML Landscape in 2026 — Simplified](https://dev.to/aws-builders/the-aws-aiml-landscape-in-2026-simplified-17i3)
+- [Congrats to the Xano AI-Powered Backend Challenge Winners!](https://dev.to/devteam/congrats-to-the-xano-ai-powered-backend-challenge-winners-2llg)
+- [How I Built AirQuiz an Offline-First Exam Server &lpar;Python/React&rpar; to Beat Bad Wi-Fi](https://dev.to/salah_eddine_medkour/how-i-built-airquiz-an-offline-first-exam-server-pythonreact-to-beat-bad-wi-fi-5d67)
+- [A História Completa do Eclipse IDE e Sua Evolução](https://dev.to/ikauedev/a-historia-completa-do-eclipse-ide-e-sua-evolucao-5784)
+- [🧠 The End of the KV Cache? Meet &quot;Test-Time Training&quot; &lpar;TTT&rpar;](https://dev.to/siddhesh_surve/the-end-of-the-kv-cache-meet-test-time-training-ttt-2j9b)
+- [Building &lpar;and Sharing&rpar; an HTML5 Component Library — No Frameworks Required](https://dev.to/lukedunsmoto/building-and-sharing-an-html5-component-library-no-frameworks-required-497o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
