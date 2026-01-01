@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Self-Hosted Content Moderation API &lpar;Open Source&rpar;](https://dev.to/kokosde/i-built-a-self-hosted-content-moderation-api-open-source-2gba)
-- [Why Sentiment Analysis Needs an Upgrade: Welcome Sentimetric](https://dev.to/peterabel/why-sentiment-analysis-needs-an-upgrade-welcome-sentimetric-1pj4)
-- [WTF is Open-Source Digital Forensics?](https://dev.to/dailybugle33/wtf-is-open-source-digital-forensics-1dig)
-- [Quick Prototyping](https://dev.to/kennydop/quick-prototyping-2pl3)
-- [CapsuleRSC: Safe Server/Client Boundary Enforcement for React Server Components](https://dev.to/yuu1ch13/capsulersc-safe-serverclient-boundary-enforcement-for-react-server-components-1i0j)
+- [🎯 Starting 2026 Strong: A Job Hunter&#39;s Resource Guide](https://dev.to/cypriantinasheaarons/starting-2026-strong-a-job-hunters-resource-guide-3dbb)
+- [Solved: Found a new reason why a company denied all of its applicants](https://dev.to/techresolve/solved-found-a-new-reason-why-a-company-denied-all-of-its-applicants-1be9)
+- [My Journey Through Advanced Python OOP: A Beginner&#39;s Perspective](https://dev.to/hejhdiss/my-journey-through-advanced-python-oop-a-beginners-perspective-312b)
+- [Monetzly: Boost Developer Revenue with AI Conversation Monetization](https://dev.to/monetzly/monetzly-boost-developer-revenue-with-ai-conversation-monetization-43i3)
+- [Unboxing CSS: Four Surprising Truths About How Web Layouts Really Work](https://dev.to/afiya/unboxing-css-four-surprising-truths-about-how-web-layouts-really-work-300p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
