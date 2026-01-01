@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Is English the New Programming Language?](https://dev.to/mariem_khedhiri/is-english-the-new-programming-language-a-look-at-ai-assisted-development-11nm)
-- [&lt;/2025&gt;](https://dev.to/fmerian/-fp3)
-- [ThreeJS TPS animated player / camera / input controller.](https://dev.to/preetha_vaishnavi_2b82358/threejs-tps-animated-player-camera-input-controller-2h9c)
-- [WILSON NET](https://dev.to/preetha_vaishnavi_2b82358/wilson-net-5gbg)
-- [Full Frame to APS-C lens Calculator](https://dev.to/preetha_vaishnavi_2b82358/full-frame-to-aps-c-lens-calculator-4n4h)
+- [[Boost]](https://dev.to/yektaroustaei/-c79)
+- [Modern React template for 2026](https://dev.to/asudbury/modern-react-template-for-2026-4clc)
+- [Pills](https://dev.to/preetha_vaishnavi_2b82358/pills-3b90)
+- [Fly over planet using only rotations &lpar;use mouse to turn&rpar;](https://dev.to/preetha_vaishnavi_2b82358/fly-over-planet-using-only-rotations-use-mouse-to-turn-1ng7)
+- [How to Handle Validation Errors in Symfony the Right Way](https://dev.to/mohammad_oveisi_9625d74d1/how-to-handle-validation-errors-in-symfony-the-right-way-3a4f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
