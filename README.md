@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The strange comfort of vibe coding &lpar;and when it backfires&rpar;](https://dev.to/dominik_niewiadomski/the-strange-comfort-of-vibe-coding-and-when-it-backfires-c38)
-- [Class Diagram](https://dev.to/obrutus/class-diagram-cmg)
-- [Meet Orion-Belt, Go ZeroTrust Bastion](https://dev.to/zrouga/meet-orion-belt-go-zerotrust-bastion-clp)
-- [I built a macOS Teleprompter with Electron &lpar;Don&#39;t kill me 😅&rpar;](https://dev.to/dnyantra_bfc24bcb3d259ee0/i-built-a-macos-teleprompter-with-electron-dont-kill-me--302f)
-- [Automating Git Workflow in VS Code: AI Commit &amp; Sync with One Shortcut](https://dev.to/jankoweb/automating-git-workflow-in-vs-code-ai-commit-sync-with-one-shortcut-5d3b)
+- [Stealth Architecture: How to Design an Invisible Real-Time AI Interview Copilot for Chrome](https://dev.to/aijob/stealth-architecture-how-to-design-an-invisible-real-time-ai-interview-copilot-for-chrome-5gjp)
+- [LeetCode DSA Series #1](https://dev.to/daveson217/leetcode-dsa-series-1-53l)
+- [Agricultural drones and AI as a tool for preventing crop diseases and epidemics in EU](https://dev.to/kirill_filippov_flyscope/agricultural-drones-and-artificial-intelligence-as-a-tool-for-preventing-crop-diseases-and-epidemics-2nfn)
+- [Building a YouTube Automation System with Claude AI: From News to Shorts in Minutes](https://dev.to/trollz1004/building-a-youtube-automation-system-with-claude-ai-from-news-to-shorts-in-minutes-2f96)
+- [[Boost]](https://dev.to/spexdw/-29p1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
