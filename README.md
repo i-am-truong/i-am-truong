@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/yektaroustaei/-c79)
-- [Modern React template for 2026](https://dev.to/asudbury/modern-react-template-for-2026-4clc)
-- [Pills](https://dev.to/preetha_vaishnavi_2b82358/pills-3b90)
-- [Fly over planet using only rotations &lpar;use mouse to turn&rpar;](https://dev.to/preetha_vaishnavi_2b82358/fly-over-planet-using-only-rotations-use-mouse-to-turn-1ng7)
-- [How to Handle Validation Errors in Symfony the Right Way](https://dev.to/mohammad_oveisi_9625d74d1/how-to-handle-validation-errors-in-symfony-the-right-way-3a4f)
+- [Docker Fundamentals on Amazon EC2: A Practical Introduction](https://dev.to/aws-builders/docker-fundamentals-on-amazon-ec2-a-practical-introduction-2l60)
+- [The Automated Time Tracking Showdown: Which Tool Actually Works in 2025?](https://dev.to/theairabbit/the-automated-time-tracking-showdown-which-tool-actually-works-in-2025-3pln)
+- [Breaking Bad Logo](https://dev.to/preetha_vaishnavi_2b82358/breaking-bad-logo-3j4m)
+- [Bitcoin 101: From Barter to Blockchain](https://dev.to/inushathathsara/bitcoin-101-from-barter-to-blockchain-1kp7)
+- [Poison Frogs](https://dev.to/preetha_vaishnavi_2b82358/poison-frogs-2a3o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
