@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Thinking Game: How DeepMind Turned Video Games into History&#39;s Greatest Scientific Tool](https://dev.to/datalaria/the-thinking-game-how-deepmind-turned-video-games-into-historys-greatest-scientific-tool-1iep)
-- [I Made AI Code for Me from My Phone &lpar;Slack Codex CLI&rpar;](https://dev.to/m_sea_bass/i-made-ai-code-for-me-from-my-phone-slack-codex-cli-1h8i)
-- [Fix Hydration Errors in Next.js](https://dev.to/tahir_rafique/fix-hydration-errors-in-nextjs-3976)
-- [LanManVan: How to Create Your Own Modules](https://dev.to/0root/lanmanvan-how-to-create-your-own-modules-1ilp)
-- [Handling Duplicate Items in Scrapy: Stop Scraping the Same Thing Twice](https://dev.to/ikram_khan/handling-duplicate-items-in-scrapy-stop-scraping-the-same-thing-twice-1bjo)
+- [The Paradox of Slow Coding: Why Rushing Kills Your Progress &lpar;And What to Do Instead&rpar;](https://dev.to/rajeshroyal/the-paradox-of-slow-coding-why-rushing-kills-your-progress-and-what-to-do-instead-2pde)
+- [AI-powered drone-based computer vision systems for inspection and maintenance of urban infrastructure](https://dev.to/kirill_filippov_be027e777/ai-powered-drone-based-computer-vision-systems-for-inspection-and-maintenance-of-urban-b8k)
+- [Components of a RDBMS: From SQL to Disk](https://dev.to/lovestaco/components-of-a-rdbms-from-sql-to-disk-1824)
+- [Announcing NocoBase 2.0-beta](https://dev.to/nocobase/announcing-nocobase-20-beta-2cfn)
+- [Char is not a social network](https://dev.to/choom/char-is-not-a-social-network-1eip)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
