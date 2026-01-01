@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The strange comfort of vibe coding &lpar;and when it backfires&rpar;](https://dev.to/dominik_niewiadomski/the-strange-comfort-of-vibe-coding-and-when-it-backfires-c38)
+- [Class Diagram](https://dev.to/obrutus/class-diagram-cmg)
 - [Meet Orion-Belt, Go ZeroTrust Bastion](https://dev.to/zrouga/meet-orion-belt-go-zerotrust-bastion-clp)
 - [I built a macOS Teleprompter with Electron &lpar;Don&#39;t kill me 😅&rpar;](https://dev.to/dnyantra_bfc24bcb3d259ee0/i-built-a-macos-teleprompter-with-electron-dont-kill-me--302f)
 - [Automating Git Workflow in VS Code: AI Commit &amp; Sync with One Shortcut](https://dev.to/jankoweb/automating-git-workflow-in-vs-code-ai-commit-sync-with-one-shortcut-5d3b)
-- [Master VPN Security: A Complete Quiz on Protocols, Attack Vectors &amp; Defense Strategies](https://dev.to/fosres/master-vpn-security-a-complete-quiz-on-protocols-attack-vectors-defense-strategies-fm2)
-- [Terraform Guardrail MCP](https://dev.to/huzefaaa2/terraform-guardrail-mcp-2kfn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
