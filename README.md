@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Paradox of Slow Coding: Why Rushing Kills Your Progress &lpar;And What to Do Instead&rpar;](https://dev.to/rajeshroyal/the-paradox-of-slow-coding-why-rushing-kills-your-progress-and-what-to-do-instead-2pde)
-- [AI-powered drone-based computer vision systems for inspection and maintenance of urban infrastructure](https://dev.to/kirill_filippov_be027e777/ai-powered-drone-based-computer-vision-systems-for-inspection-and-maintenance-of-urban-b8k)
-- [Components of a RDBMS: From SQL to Disk](https://dev.to/lovestaco/components-of-a-rdbms-from-sql-to-disk-1824)
-- [Announcing NocoBase 2.0-beta](https://dev.to/nocobase/announcing-nocobase-20-beta-2cfn)
-- [Char is not a social network](https://dev.to/choom/char-is-not-a-social-network-1eip)
+- [The Simple Validation System That Saved Our AI Project](https://dev.to/leena_malhotra/the-simple-validation-system-that-saved-our-ai-project-52gj)
+- [Beyond Connectivity: Why Google Cloud Anthos is the OS for the Sovereign AI Era](https://dev.to/tech_croc_f32fbb6ea8ed4/beyond-connectivity-why-google-cloud-anthos-is-the-os-for-the-sovereign-ai-era-pdf)
+- [The Rise of the Transformer](https://dev.to/rod_schneider/the-rise-of-the-transformer-3cnm)
+- [Stop Creating 50 Users When You Only Need 5: Solving Django&#39;s Relationship Inflation Problem](https://dev.to/mathiasag7/stop-creating-50-users-when-you-only-need-5-solving-djangos-relationship-inflation-problem-14hi)
+- [If you were a junior in 2026, what would you build first to get hired?](https://dev.to/yusuf_yonturk/if-you-were-a-junior-in-2026-what-would-you-build-first-to-get-hired-23jp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
