@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 AI Interactive Quiz Generator | Engaging Browser-Based Quiz App](https://dev.to/reactjsguru/ai-interactive-quiz-generator-engaging-browser-based-quiz-app-o3l)
-- [🔥_High_Concurrency_Framework_Choice_Tech_Decisions[20260101032811]](https://dev.to/member_8659c28a/highconcurrencyframeworkchoicetechdecisions20260101032811-27j6)
-- [Vue vs Svelte: Top Differences](https://dev.to/kevinwalker/vue-vs-svelte-top-differences-400a)
-- [Following my passion #2: position vector and learning more Zig](https://dev.to/brharrelldev/following-my-passion-2-position-vector-and-learning-more-zig-58fg)
-- [My Simple Tic-Tac-Toe Game](https://dev.to/shea31j/my-simple-tic-tac-toe-game-p83)
+- [Building a Clean Rich Text Editor with Tiptap in Next.js &lpar;Real Project Setup&rpar;](https://dev.to/rohitashsingh89/building-a-clean-rich-text-editor-with-tiptap-in-nextjs-real-project-setup-3m3e)
+- [Tech Horror Codex: Vendor Lock‑In](https://dev.to/narnaiezzsshaa/tech-horror-codex-vendor-lock-in-2b5g)
+- [Experience-First Portfolio: A New Approach to Showcasing Engineering Skills](https://dev.to/mohsinalipro/experience-first-portfolio-a-new-approach-to-showcasing-engineering-skills-22dd)
+- [Day 89 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-89-of-100-days-dsa-coding-challenge-2nda)
+- [Happy New Year 2026: An Algorithmic Guide to ML Models](https://dev.to/jashwanth_thatipamula_8ee/happy-new-year-2026-an-algorithmic-guide-to-ml-models-one)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
