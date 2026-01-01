@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [测试文章1DEV.to专属](https://dev.to/contextspace_/ce-shi-wen-zhang-1devtozhuan-shu-36e3)
-- [[Boost]](https://dev.to/robertlj_8/-18em)
-- [The AI Engineer Roadmap for 2026: Why Steps 1-2 Determine Everything](https://dev.to/samuel_ochaba_eb9c875fa89/the-ai-engineer-roadmap-for-2026-why-steps-1-2-determine-everything-n4c)
-- [The &quot;Thundering Herd&quot; of 2026: Preparing SRE for Agent-Native Infrastructure](https://dev.to/meena_nukala/the-thundering-herd-of-2026-preparing-sre-for-agent-native-infrastructure-mno)
-- [How to Find and Use Resume Keywords from Tech Job Descriptions to Beat ATS and Get More Interviews](https://dev.to/saber-amani/how-to-find-and-use-resume-keywords-from-tech-job-descriptions-to-beat-ats-and-get-more-interviews-13p9)
+- [Happy birthday Tiffany!](https://dev.to/frnk_kstl_023971127c81dcf/happy-birthday-tiffany-560)
+- [Gemini Prompts Thumbnails: Best Ideas Guide](https://dev.to/flatratemechanic1glitch/gemini-prompts-thumbnails-best-ideas-guide-1m4m)
+- [Understanding Smart Contract working in etherium](https://dev.to/harshbansal47/understanding-smart-contract-in-etherium-and-solidity-1o01)
+- [⚡_Latency_Optimization_Practical_Guide[20260101223109]](https://dev.to/member_8659c28a/latencyoptimizationpracticalguide20260101223109-2i6i)
+- [The Proxy Economy: Residential, Datacenter, and ISP Rotation](https://dev.to/deepak_mishra_35863517037/the-proxy-economy-residential-datacenter-and-isp-rotation-59o8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
