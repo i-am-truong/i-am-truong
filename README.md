@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stealth Architecture: How to Design an Invisible Real-Time AI Interview Copilot for Chrome](https://dev.to/aijob/stealth-architecture-how-to-design-an-invisible-real-time-ai-interview-copilot-for-chrome-5gjp)
-- [LeetCode DSA Series #1](https://dev.to/daveson217/leetcode-dsa-series-1-53l)
-- [Agricultural drones and AI as a tool for preventing crop diseases and epidemics in EU](https://dev.to/kirill_filippov_flyscope/agricultural-drones-and-artificial-intelligence-as-a-tool-for-preventing-crop-diseases-and-epidemics-2nfn)
-- [Building a YouTube Automation System with Claude AI: From News to Shorts in Minutes](https://dev.to/trollz1004/building-a-youtube-automation-system-with-claude-ai-from-news-to-shorts-in-minutes-2f96)
-- [[Boost]](https://dev.to/spexdw/-29p1)
+- [Solved: Any Connectwise MSP’s out there that recently &lpar;in the past year&rpar; implemented REWST?](https://dev.to/techresolve/solved-any-connectwise-msps-out-there-that-recently-in-the-past-year-implemented-rewst-2g99)
+- [Debugging StyleX + Vite: The Mystery of &quot;Invalid Empty Selector&quot;](https://dev.to/sal_lancaster/debugging-stylex-vite-the-mystery-of-invalid-empty-selector-158k)
+- [Building a Data-Driven Astrology Platform: Inside Love Horoscope Daily](https://dev.to/romulusjustinianus/building-a-data-driven-astrology-platform-inside-love-horoscope-daily-379c)
+- [Building a Football Formation Component for React Native ⚽](https://dev.to/arbab-io/building-a-football-formation-component-for-react-native-4jib)
+- [Networking in a Hurry: From ARP to Geneve&lpar;Q&amp;A Format&rpar;](https://dev.to/ypeavler/networking-in-a-hurry-from-arp-to-geneveqa-format-59l4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
