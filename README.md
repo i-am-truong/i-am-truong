@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [System Design Quick Guide](https://dev.to/walidchahmi/system-design-quick-guide-5410)
+- [Git for Beginners: Basics and Essential Commands 🚀](https://dev.to/dark-lord-harsh/git-for-beginners-basics-and-essential-commands-4b49)
+- [How to Make Any CSS Element Resizable 🔧 &lpar;Without JavaScript&rpar;:](https://dev.to/walidchahmi/how-to-make-any-css-element-resizable-without-javascript-2fn1)
+- [SwiftUI Design Tokens &amp; Theming System &lpar;Production-Scale&rpar;](https://dev.to/sebastienlato/swiftui-design-tokens-theming-system-production-scale-b16)
 - [The AWS AI/ML Landscape in 2026 — Simplified](https://dev.to/aws-builders/the-aws-aiml-landscape-in-2026-simplified-17i3)
-- [Fixing Claude Code&#39;s SIGINT Problem: How I Built MCP Session Manager](https://dev.to/daichikudo/fixing-claude-codes-sigint-problem-how-i-built-mcp-session-manager-3nke)
-- [Multi-Tenant Design for Bedrock Knowledge Base: Solving the Account Limit with Metadata Filtering](https://dev.to/ryo_ariyama_b521d7133c493/multi-tenant-design-for-bedrock-knowledge-base-solving-the-account-limit-with-metadata-filtering-e6b)
-- [15. 3Sum | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/15-3sum-leetcode-top-interview-150-coding-questions-5eik)
-- [Radiant AI: Building an AI-Powered Image Editor with Python](https://dev.to/arshvir/radiant-ai-building-an-ai-powered-image-editor-with-python-51lp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
