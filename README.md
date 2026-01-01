@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [V8 Coverage Limitations and How to Work Around Them](https://dev.to/stevez/v8-coverage-limitations-and-how-to-work-around-them-2eh2)
+- [How to Deploy and Configure Azure Monitor](https://dev.to/daniel_shaibu/how-to-deploy-and-configure-azure-monitor-4ion)
+- [⚡_Real_Time_System_Performance_Optimization[20260101193049]](https://dev.to/member_8659c28a/realtimesystemperformanceoptimization20260101193049-gfg)
 - [Running AI on premises with Postgres](https://dev.to/neurondb_support_d73fa7ba/running-ai-on-premises-with-postgres-50g6)
-- [Congrats to the Xano AI-Powered Backend Challenge Winners!](https://dev.to/devteam/congrats-to-the-xano-ai-powered-backend-challenge-winners-2llg)
-- [How I Built AirQuiz an Offline-First Exam Server &lpar;Python/React&rpar; to Beat Bad Wi-Fi](https://dev.to/salah_eddine_medkour/how-i-built-airquiz-an-offline-first-exam-server-pythonreact-to-beat-bad-wi-fi-5d67)
-- [A História Completa do Eclipse IDE e Sua Evolução](https://dev.to/ikauedev/a-historia-completa-do-eclipse-ide-e-sua-evolucao-5784)
-- [🧠 The End of the KV Cache? Meet &quot;Test-Time Training&quot; &lpar;TTT&rpar;](https://dev.to/siddhesh_surve/the-end-of-the-kv-cache-meet-test-time-training-ttt-2j9b)
+- [Stop Flying Blind: DevOps Monitoring 101 🚨](https://dev.to/tavernetech/stop-flying-blind-devops-monitoring-101-181h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
