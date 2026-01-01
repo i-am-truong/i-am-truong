@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Deep Dive: Why Podman and containerd 2.0 are Replacing Docker in 2026](https://dev.to/dataformathub/deep-dive-why-podman-and-containerd-20-are-replacing-docker-in-2026-32ak)
-- [Stop Chatting with AI: How I Built an Autonomous RFP Response System for Business](https://dev.to/exploredataaiml/stop-chatting-with-ai-how-i-built-an-autonomous-rfp-response-system-for-business-4ag8)
-- [Follow-up: Cloudflare Bot Fight Mode Breaks Zapier OAuth &lpar;And How to Fix It&rpar;](https://dev.to/anand_rathnas_d5b608cc3de/follow-up-cloudflare-bot-fight-mode-breaks-zapier-oauth-and-how-to-fix-it-3p6m)
-- [Controllable AI: A Runtime Legitimacy Layer for AI Governance](https://dev.to/yuer/controllable-ai-a-runtime-legitimacy-layer-for-ai-governance-bp)
-- [QEMU AARCH64 RUN](https://dev.to/sahrulgunawanid/qemu-aarch64-run-1i96)
+- [Thundering Herds: The Scalability Killer](https://dev.to/aonnis/thundering-herds-the-scalability-killer-41mh)
+- [SEO Basics for Small Businesses: How to Build Visibility That Actually Converts](https://dev.to/seo-growth-guide/seo-basics-for-small-businesses-how-to-build-visibility-that-actually-converts-1p0b)
+- [Sending emails in Node.js, Deno, and Bun in 2026: a practical guide](https://dev.to/hongminhee/sending-emails-in-nodejs-deno-and-bun-in-2026-a-practical-guide-og9)
+- [[BOJ/C, C++] 단계별로 풀어보기 / 입출력과 사칙연산 ~ 1차원 배열](https://dev.to/dbsans11/bojc-c-dangyebyeolro-puleobogi-ibculryeoggwa-sacigyeonsan-1caweon-baeyeol-4c8)
+- [Skip the 4-year campus grind - get job-ready faster Thinking about Elizade University but worried about 4 years of fees, hostel costs, and time away from work? AlNafi&#39;s EduQual Level 3 Diploma in Cloud Cyber Security gives you an A-level equivalent, UK-rec](https://dev.to/fishan_asif_aa75a59dca6f0/skip-the-4-year-campus-grind-get-job-ready-faster-thinking-about-elizade-university-but-worried-1mhh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
