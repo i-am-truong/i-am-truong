@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Built a Global SaaS with Next.js 14 and Achieved a 100% Lighthouse Score](https://dev.to/trinc4/how-i-built-a-global-saas-with-nextjs-14-and-achieved-a-100-lighthouse-score-2nm6)
+- [How to Learn a Programming Language Without Crying](https://dev.to/javadinteger/how-to-learn-a-programming-language-without-crying-3jkb)
+- [Boats to Save People: Coding Problem Explained](https://dev.to/stack_overflowed/boats-to-save-people-coding-problem-explained-3j3h)
+- [Web Design Trends for 2026: What Developers Actually Need to Care About](https://dev.to/webmix_studio_3a626e2219e/web-design-trends-for-2026-what-developers-actually-need-to-care-about-298c)
 - [Fast-Growing Business Opportunities in Bangladesh 2026](https://dev.to/isha_mohammad_034308fdad7/fast-growing-business-opportunities-in-bangladesh-2026-2mbh)
-- [PyTorch vs. TensorFlow: Choosing Your AI Framework for 2026](https://dev.to/tech_croc_f32fbb6ea8ed4/pytorch-vs-tensorflow-choosing-your-ai-framework-for-2026-4ik6)
-- [What Is a Digital NFC Card? A Simple Guide for Modern Businesses](https://dev.to/promaxcard_fdf0758c0b2cd5/what-is-a-digital-nfc-card-a-simple-guide-for-modern-businesses-g4b)
-- [Why Your Website Loads Fast Everywhere — Thanks to Anycast](https://dev.to/ibbus/why-your-website-loads-fast-everywhere-thanks-to-anycast-21d3)
-- [🎆 Celebrate New Year 2026 with a Simple Universe Script](https://dev.to/universe_coding_services/celebrate-new-year-2026-with-a-simple-universe-script-1p23)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
