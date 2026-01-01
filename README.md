@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Clean Rich Text Editor with Tiptap in Next.js &lpar;Real Project Setup&rpar;](https://dev.to/rohitashsingh89/building-a-clean-rich-text-editor-with-tiptap-in-nextjs-real-project-setup-3m3e)
-- [Tech Horror Codex: Vendor Lock‑In](https://dev.to/narnaiezzsshaa/tech-horror-codex-vendor-lock-in-2b5g)
-- [Experience-First Portfolio: A New Approach to Showcasing Engineering Skills](https://dev.to/mohsinalipro/experience-first-portfolio-a-new-approach-to-showcasing-engineering-skills-22dd)
-- [Day 89 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-89-of-100-days-dsa-coding-challenge-2nda)
-- [Happy New Year 2026: An Algorithmic Guide to ML Models](https://dev.to/jashwanth_thatipamula_8ee/happy-new-year-2026-an-algorithmic-guide-to-ml-models-one)
+- [Learning Shell Scripting Through Real Automation Projects](https://dev.to/sneha_tomar_23/learning-shell-scripting-through-real-automation-projects-4hh0)
+- [Securing the Future: A Practical Guide to AWS Agentic AI Security](https://dev.to/morpheusme/securing-the-future-a-practical-guide-to-aws-agentic-ai-security-1jie)
+- [Day 1 of 100](https://dev.to/palakhirave/day-1-of-100-1po1)
+- [[Boost]](https://dev.to/techno_kraft_in/-ol5)
+- [Software Engineering in 2026: A View From the Server Room](https://dev.to/tyu1996/software-engineering-in-2026-a-view-from-the-server-room-3kag)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
