@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Solved: Which is the most popular CI/CD tool used nowadays?](https://dev.to/techresolve/solved-which-is-the-most-popular-cicd-tool-used-nowadays-4bjk)
-- [Solved: Does everyone uses hacks to bypass Airtable’s crazy pricing?](https://dev.to/techresolve/solved-does-everyone-uses-hacks-to-bypass-airtables-crazy-pricing-bh2)
-- [# HTTP Client–Server Communication in Node.js: How It Works](https://dev.to/sudiip__17/-http-client-server-communication-in-nodejs-how-it-works-4klh)
-- [# HTTP Client–Server Communication in Node.js: How It Works](https://dev.to/sudiip__17/-http-client-server-communication-in-nodejs-how-it-works-1mfh)
-- [An Epidemic of Learned Helplessness](https://dev.to/the_tea_drinker/an-epidemic-of-learned-helplessness-14cc)
+- [Happy New Year, community!](https://dev.to/_fd14d0815f593007cb7/happy-new-year-community-3io5)
+- [Part 8: Proving the Universal Approximation Theorem with Rust](https://dev.to/palash90/part-8-proving-the-universal-approximation-theorem-with-rust-2cch)
+- [🚀 Modern Blogging Platform | Built with Next.js 13](https://dev.to/reactjsguru/modern-blogging-platform-built-with-nextjs-13-20lp)
+- [Power: A Multidimensional Category of Social Analysis](https://dev.to/fundacjadobrepanstwo/power-a-multidimensional-category-of-social-analysis-5hij)
+- [Why Developers Always Miss Deadlines](https://dev.to/_jeongyuhyeon_03de1/why-developers-always-miss-deadlines-59f8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
