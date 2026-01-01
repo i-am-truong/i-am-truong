@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Game Engines Explained Like You’re Choosing a Pokémon](https://dev.to/javadinteger/game-engines-explained-like-youre-choosing-a-pokemon-542b)
-- [When code-gen suggests deprecated Pandas APIs — a subtle drift that broke a pipeline](https://dev.to/gabrieal845/when-code-gen-suggests-deprecated-pandas-apis-a-subtle-drift-that-broke-a-pipeline-1kmf)
-- [Designing a Scalable Content Architecture in Sitecore XM Cloud](https://dev.to/rutvi_kumbhani/designing-a-scalable-content-architecture-in-sitecore-xm-cloud-5fck)
-- [The Web Ecosystem Civil War](https://dev.to/javadinteger/the-web-ecosystem-civil-war-oda)
-- [Why Settlement Layers Will Outlast Smart Contract Platforms: The Case for Stellar](https://dev.to/roan911/why-settlement-layers-will-outlast-smart-contract-platforms-the-case-for-stellar-16l3)
+- [How AI Can Cut Your Design-Development Handoff Time by 50%](https://dev.to/daisy_jones_21bdcc6b40f9d/how-ai-can-cut-your-design-development-handoff-time-by-50-14ob)
+- [How Governance and Compliance Saves The World... lolwut?](https://dev.to/linkbenjamin/how-governance-and-compliance-saves-the-world-lolwut-5him)
+- [New update for CodeCoffeeTools! I include P2P Transfer Tool + more..](https://dev.to/niroshan_dh/new-update-for-codecoffeetools-i-include-p2p-transfer-tool-more-3anp)
+- [Mr Sunday Movies: The Caesar Planet of the Apes Trilogy - Caravan Of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-caesar-planet-of-the-apes-trilogy-caravan-of-garbage-dka)
+- [The New Reality](https://dev.to/rawveg/the-new-reality-4icn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
