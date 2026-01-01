@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/drazenbebic/-1fjg)
-- [What Is Customer Identity and Access Management &lpar;CIAM&rpar;? Why It Matters in 2026](https://dev.to/blaise-liu/what-is-customer-identity-and-access-management-ciam-why-it-matters-in-2026-17l6)
-- [Magic in the Wild: How Java Giants like Spring, Hibernate, and Mockito use Dynamic Proxies](https://dev.to/rajatarora/magic-in-the-wild-how-java-giants-like-spring-hibernate-and-mockito-use-dynamic-proxies-3khc)
-- [Logging in Node.js &lpar;or Deno or Bun or edge functions&rpar; in 2026](https://dev.to/hongminhee/logging-in-nodejs-or-deno-or-bun-or-edge-functions-in-2026-36l2)
-- [PostgreSQL vs MySQL vs MongoDB in 2026: The Honest Comparison Nobody Asked For](https://dev.to/pockit_tools/postgresql-vs-mysql-vs-mongodb-in-2026-the-honest-comparison-nobody-asked-for-5fkc)
+- [How I Built a Cyberpunk Portfolio with Tailwind &amp; GSAP &lpar;From Scratch&rpar;🚀](https://dev.to/sarshijkarn/how-i-built-a-cyberpunk-portfolio-with-tailwind-gsap-from-scratch-pk4)
+- [Contoh Isi Catatan Pelaksanaan Ujian Sekolah yang Benar dan Jelas](https://dev.to/backlink_blog_a0bee06f492/contoh-isi-catatan-pelaksanaan-ujian-sekolah-yang-benar-dan-jelas-1j1k)
+- [I Built a Free Sleep Cycle Calculator](https://dev.to/sunil_chaudhary_3985d071c/i-built-a-free-sleep-cycle-calculator-5ef7)
+- [How Modern Websites Work: A Beginner’s Guide to Frontend, Backend, and Browsers](https://dev.to/mzaheerofficial/how-modern-websites-work-a-beginners-guide-to-frontend-backend-and-browsers-2c6m)
+- [CI/CD Deep Dive: Why Jenkins, GitLab, and CircleCI Still Rule in 2026](https://dev.to/dataformathub/cicd-deep-dive-why-jenkins-gitlab-and-circleci-still-rule-in-2026-268c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
