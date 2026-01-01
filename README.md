@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🎯 Starting 2026 Strong: A Job Hunter&#39;s Resource Guide](https://dev.to/cypriantinasheaarons/starting-2026-strong-a-job-hunters-resource-guide-3dbb)
-- [Solved: Found a new reason why a company denied all of its applicants](https://dev.to/techresolve/solved-found-a-new-reason-why-a-company-denied-all-of-its-applicants-1be9)
-- [My Journey Through Advanced Python OOP: A Beginner&#39;s Perspective](https://dev.to/hejhdiss/my-journey-through-advanced-python-oop-a-beginners-perspective-312b)
-- [Monetzly: Boost Developer Revenue with AI Conversation Monetization](https://dev.to/monetzly/monetzly-boost-developer-revenue-with-ai-conversation-monetization-43i3)
-- [Unboxing CSS: Four Surprising Truths About How Web Layouts Really Work](https://dev.to/afiya/unboxing-css-four-surprising-truths-about-how-web-layouts-really-work-300p)
+- [🔄_Containerized_Deployment_Performance_Optimization[20260101093935]](https://dev.to/member_8659c28a/containerizeddeploymentperformanceoptimization20260101093935-39ki)
+- [You Can Use Our Coding Language](https://dev.to/universe_coding_services/you-can-use-our-coding-language-13g4)
+- [The Thinking Game: De cómo DeepMind convirtió los videojuegos en la mayor herramienta científica de la historia](https://dev.to/datalaria/the-thinking-game-de-como-deepmind-convirtio-los-videojuegos-en-la-mayor-herramienta-cientifica-de-1a6m)
+- [A Small VS Code Extension to Shorten the Pytest Fix Loop](https://dev.to/michle/a-small-vs-code-extension-to-shorten-the-pytest-fix-loop-52gp)
+- [Cross-Modal Knowledge Distillation for circular manufacturing supply chains in hybrid quantum-classical pipelines](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-circular-manufacturing-supply-chains-in-hybrid-432c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
