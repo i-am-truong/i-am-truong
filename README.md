@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Learning Shell Scripting Through Real Automation Projects](https://dev.to/sneha_tomar_23/learning-shell-scripting-through-real-automation-projects-4hh0)
-- [Securing the Future: A Practical Guide to AWS Agentic AI Security](https://dev.to/morpheusme/securing-the-future-a-practical-guide-to-aws-agentic-ai-security-1jie)
-- [Day 1 of 100](https://dev.to/palakhirave/day-1-of-100-1po1)
-- [[Boost]](https://dev.to/techno_kraft_in/-ol5)
-- [Software Engineering in 2026: A View From the Server Room](https://dev.to/tyu1996/software-engineering-in-2026-a-view-from-the-server-room-3kag)
+- [Mastering the NFT Reveal: Building Hype, Value, and Community with WordPress &amp; Elementor](https://dev.to/nftsaz2025/mastering-the-nft-reveal-building-hype-value-and-community-with-wordpress-elementor-4jp1)
+- [https://docs.google.com/document/d/e/2PACX-1vR1elQHwiR1LmmdFPqdiTJJfTe2m3I1VUuFMVAEctz-yOc45Af9yVIndEfQIcTxjnm-HTpSnwcne-Z1/pub](https://dev.to/devid_lee_8bbc341756027c2/-3fcl)
+- [How Prospect Tracking Brings Predictability to Construction Sales](https://dev.to/commander_erp_cf7c5a13333/how-prospect-tracking-brings-predictability-to-construction-sales-12ba)
+- [The 5-Second Boot: Building a Minimalist &quot;Browser OS&quot; for 1GB RAM Machines](https://dev.to/techno_kraft_in/the-5-second-boot-building-a-minimalist-browser-os-for-1gb-ram-machines-1mh1)
+- [Building a Multi-Layer Caching Strategy in Next.js App Router: From Static to Real-Time](https://dev.to/maurya-sachin/building-a-multi-layer-caching-strategy-in-nextjs-app-router-from-static-to-real-time-4che)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
