@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Part 4 — Retrieval Is the System](https://dev.to/muzammiltalha/retrieval-is-the-system-4fem)
+- [The Death of TDD: Why &quot;Evaluation Engineering&quot; is the New Source Code](https://dev.to/mosiddi/the-death-of-tdd-why-evaluation-engineering-is-the-new-source-code-3jci)
 - [V8 Coverage Limitations and How to Work Around Them](https://dev.to/stevez/v8-coverage-limitations-and-how-to-work-around-them-2eh2)
 - [How to Deploy and Configure Azure Monitor](https://dev.to/daniel_shaibu/how-to-deploy-and-configure-azure-monitor-4ion)
 - [⚡_Real_Time_System_Performance_Optimization[20260101193049]](https://dev.to/member_8659c28a/realtimesystemperformanceoptimization20260101193049-gfg)
-- [Running AI on premises with Postgres](https://dev.to/neurondb_support_d73fa7ba/running-ai-on-premises-with-postgres-50g6)
-- [Stop Flying Blind: DevOps Monitoring 101 🚨](https://dev.to/tavernetech/stop-flying-blind-devops-monitoring-101-181h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
