@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🧠_Deep_Dive_Memory_Management_Performance[20260101015520]](https://dev.to/member_8659c28a/deepdivememorymanagementperformance20260101015520-2cd7)
-- [Community Market Price Logger &lpar;Day 1 of 30 Days of Python&rpar;](https://dev.to/kinspirecyber/community-market-price-logger-day-1-of-30-days-of-python-10k3)
-- [🔒_Security_Performance_Balance[20260101015232]](https://dev.to/member_6331818c/securityperformancebalance20260101015232-51no)
-- [nextcov - Collecting Test Coverage for Next.js Server Components](https://dev.to/stevez/nextcov-collecting-test-coverage-for-nextjs-server-components-6gc)
-- [Building Tamper-Evident Audit Trails for Trading Systems: A VCP v1.1 Implementation Guide](https://dev.to/veritaschain/building-tamper-evident-audit-trails-for-trading-systems-a-vcp-v11-implementation-guide-3b2d)
+- [🚀 AI Interactive Quiz Generator | Engaging Browser-Based Quiz App](https://dev.to/reactjsguru/ai-interactive-quiz-generator-engaging-browser-based-quiz-app-o3l)
+- [🔥_High_Concurrency_Framework_Choice_Tech_Decisions[20260101032811]](https://dev.to/member_8659c28a/highconcurrencyframeworkchoicetechdecisions20260101032811-27j6)
+- [Vue vs Svelte: Top Differences](https://dev.to/kevinwalker/vue-vs-svelte-top-differences-400a)
+- [Following my passion #2: position vector and learning more Zig](https://dev.to/brharrelldev/following-my-passion-2-position-vector-and-learning-more-zig-58fg)
+- [My Simple Tic-Tac-Toe Game](https://dev.to/shea31j/my-simple-tic-tac-toe-game-p83)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
