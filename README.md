@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How AI Can Cut Your Design-Development Handoff Time by 50%](https://dev.to/daisy_jones_21bdcc6b40f9d/how-ai-can-cut-your-design-development-handoff-time-by-50-14ob)
-- [How Governance and Compliance Saves The World... lolwut?](https://dev.to/linkbenjamin/how-governance-and-compliance-saves-the-world-lolwut-5him)
-- [New update for CodeCoffeeTools! I include P2P Transfer Tool + more..](https://dev.to/niroshan_dh/new-update-for-codecoffeetools-i-include-p2p-transfer-tool-more-3anp)
-- [Mr Sunday Movies: The Caesar Planet of the Apes Trilogy - Caravan Of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-caesar-planet-of-the-apes-trilogy-caravan-of-garbage-dka)
-- [The New Reality](https://dev.to/rawveg/the-new-reality-4icn)
+- [Is English the New Programming Language?](https://dev.to/mariem_khedhiri/is-english-the-new-programming-language-a-look-at-ai-assisted-development-11nm)
+- [&lt;/2025&gt;](https://dev.to/fmerian/-fp3)
+- [ThreeJS TPS animated player / camera / input controller.](https://dev.to/preetha_vaishnavi_2b82358/threejs-tps-animated-player-camera-input-controller-2h9c)
+- [WILSON NET](https://dev.to/preetha_vaishnavi_2b82358/wilson-net-5gbg)
+- [Full Frame to APS-C lens Calculator](https://dev.to/preetha_vaishnavi_2b82358/full-frame-to-aps-c-lens-calculator-4n4h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
