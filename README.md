@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Find and Use Resume Keywords from Tech Job Descriptions to Beat ATS and Get More Interviews](https://dev.to/saber-amani/how-to-find-and-use-resume-keywords-from-tech-job-descriptions-to-beat-ats-and-get-more-interviews-13p9)
 - [Solved: Any Connectwise MSP’s out there that recently &lpar;in the past year&rpar; implemented REWST?](https://dev.to/techresolve/solved-any-connectwise-msps-out-there-that-recently-in-the-past-year-implemented-rewst-2g99)
 - [Debugging StyleX + Vite: The Mystery of &quot;Invalid Empty Selector&quot;](https://dev.to/sal_lancaster/debugging-stylex-vite-the-mystery-of-invalid-empty-selector-158k)
 - [Building a Data-Driven Astrology Platform: Inside Love Horoscope Daily](https://dev.to/romulusjustinianus/building-a-data-driven-astrology-platform-inside-love-horoscope-daily-379c)
 - [Building a Football Formation Component for React Native ⚽](https://dev.to/arbab-io/building-a-football-formation-component-for-react-native-4jib)
-- [Networking in a Hurry: From ARP to Geneve&lpar;Q&amp;A Format&rpar;](https://dev.to/ypeavler/networking-in-a-hurry-from-arp-to-geneveqa-format-59l4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
