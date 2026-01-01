@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Andrej Karpathy&#39;s LLM Council but with Gaia Nodes: A Privacy-First Alternative to Traditional LLM APIs](https://dev.to/harishkotra/building-andrej-karpathys-llm-council-but-with-gaia-nodes-a-privacy-first-alternative-to-10ce)
-- [Package Bridging BPJS &lpar;VClaim, Aplicare, PCare, i-Care&rpar; for PHP Laravel](https://dev.to/indravscode/package-bridging-bpjs-vclaim-aplicare-pcare-i-care-for-php-laravel-28hd)
-- [Ethereum-Solidity Quiz Q10: What is the Free Memory Pointer?](https://dev.to/mihaihng/ethereum-solidity-quiz-q10-what-is-the-free-memory-pointer-51cd)
-- [Day 1: Untill I Get Google Internship](https://dev.to/sugunadithya/day-1-untill-i-get-google-internship-2c1n)
-- [Real-time Server Logs in a Flask Dashboard](https://dev.to/constanta/real-time-server-logs-in-a-flask-dashboard-21ad)
+- [Learn Git Easily: A Beginner&#39;s Guide to Version Control](https://dev.to/satpalsinhrana/learn-git-easily-a-beginners-guide-to-version-control-47e2)
+- [Why Cloud and Cybersecurity Skills Will Be in High Demand by 2026](https://dev.to/pateludayyy2003/why-cloud-and-cybersecurity-skills-will-be-in-high-demand-by-2026-3j0p)
+- [Join the New Year, New You Portfolio Challenge: $3,000 in Prizes + Feedback from Google AI Team &lpar;For Winners and Runner Ups!&rpar;](https://dev.to/devteam/join-the-new-year-new-you-portfolio-challenge-3000-in-prizes-feedback-from-google-ai-team-4e7g)
+- [Seven Companies, One Pattern: Why Every Scaled ClickHouse Deployment Looks the Same](https://dev.to/lureilly1/seven-companies-one-pattern-why-every-scaled-clickhouse-deployment-looks-the-same-gdm)
+- [Why Cloud and Cybersecurity Skills Will Be in High Demand by 2026](https://dev.to/eren_yeager_f8c9f19d520e6/why-cloud-and-cybersecurity-skills-will-be-in-high-demand-by-2026-55b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
