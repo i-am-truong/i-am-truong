@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Scientific Schedule Estimation: From PERT to Monte Carlo](https://dev.to/_jeongyuhyeon_03de1/scientific-schedule-estimation-from-pert-to-monte-carlo-4pcd)
+- [Brute Force to Two Pointers: Stop Getting Lost in the Transition](https://dev.to/alex_hunter_44f4c9ed6671e/brute-force-to-two-pointers-stop-getting-lost-in-the-transition-39)
+- [Migrando desde VMware: Una comparación de las principales alternativas de hipervisores](https://dev.to/adini/migrando-desde-vmware-una-comparacion-de-las-principales-alternativas-de-hipervisores-47jd)
 - [Ship AI in your engineering stack without the chaos](https://dev.to/javz/ship-ai-in-your-engineering-stack-without-the-chaos-bed)
-- [Nardwuar the Human Serviette: Nardwuar vs. The Alchemist](https://dev.to/music_youtube/nardwuar-the-human-serviette-nardwuar-vs-the-alchemist-1bi3)
 - [Sustainable AI Benchmarks Developers Will Be Asked About In 2026](https://dev.to/arbisoftcompany/sustainable-ai-benchmarks-developers-will-be-asked-about-in-2026-3a29)
-- [Scope Management Is Not Micromanagement](https://dev.to/synthaicode_commander/scope-management-is-not-micromanagement-2kd5)
-- [🚀 From One Server to Millions of Users: A Practical Guide to Load Balancing ⚖️](https://dev.to/usman_awan/from-one-server-to-millions-of-users-a-practical-guide-to-load-balancing-2mgd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
