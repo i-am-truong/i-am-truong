@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SQLite: A Simple Database with Serious Engineering Inside](https://dev.to/lovestaco/sqlite-a-simple-database-with-serious-engineering-inside-31dp)
-- [Deploying a Node.js Application on AWS EC2 with Apache](https://dev.to/techlab/deploying-a-nodejs-application-on-aws-ec2-with-apache-3djj)
-- [Docker Network Commands](https://dev.to/meghasharmaaaa/docker-network-commands-3878)
-- [Ringer Movies: The 25 for ’25 Selection Show Special](https://dev.to/popcorn_movies/ringer-movies-the-25-for-25-selection-show-special-1ofk)
-- [Interval Neutrosophic Sets and Logic: Theory and Applications in Computing](https://dev.to/paperium/interval-neutrosophic-sets-and-logic-theory-and-applications-in-computing-4d0f)
+- [Arkansas Transfer Deed: A Simple Guide for Property Owners](https://dev.to/waqas_khan_6332a2962d5312/arkansas-transfer-deed-a-simple-guide-for-property-owners-k4f)
+- [Getting Restarted With Software Testing: Part 3](https://dev.to/software_testing_blog/getting-restarted-with-software-testing-part-3-1d49)
+- [Difference Between UI and UX — Simple Explanation](https://dev.to/pixel_mosaic/difference-between-ui-and-ux-simple-explanation-4169)
+- [I built wordle for desktop but using my own GUI library!](https://dev.to/scriptor/i-built-wordle-for-desktop-but-using-my-own-gui-library-17e7)
+- [10,000 Lines of C, Real x86-64 Assembly for Critical Paths: Building Kernel-Level AI Security](https://dev.to/dmitry_labintcev_9e611e04/10000-lines-of-c-real-x86-64-assembly-for-critical-paths-building-kernel-level-ai-security-4fnk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
