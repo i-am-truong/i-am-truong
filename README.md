@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [We’re Opening Our Google Cloud Infrastructure to Researchers, Healthcare Teams &amp; Builders](https://dev.to/davidos366/were-opening-our-google-cloud-infrastructure-to-researchers-healthcare-teams-builders-ab4)
-- [🚀_Ultimate_Web_Framework_Speed_Showdown[20260102032534]](https://dev.to/member_6331818c/ultimatewebframeworkspeedshowdown20260102032534-477c)
-- [Where Predictive Analytics, Demand Forecasting &amp; AI Inventory Transform Supply Chain Success](https://dev.to/softwarerbm/where-predictive-analytics-demand-forecasting-ai-inventory-transform-supply-chain-success-1oa2)
-- [Why I’m Betting on React Native in 2026 After 13 Years of Mobile Development](https://dev.to/kazutoyo/why-im-betting-on-react-native-in-2026-after-13-years-of-mobile-development-1l87)
-- [CVE-2025-64500: Incorrect parsing of PATH_INFO can lead to limited authorization bypass - Laravel 11.47.0](https://dev.to/aspsptyd/cve-2025-64500-incorrect-parsing-of-pathinfo-can-lead-to-limited-authorization-bypass-laravel-287c)
+- [Proteus: The AI-native editor for multimodal creation](https://dev.to/gezilinll/proteus-the-ai-native-editor-for-multimodal-creation-29h3)
+- [Coding Practice Roadmap for College Students: Learn Programming](https://dev.to/codepractice/coding-practice-roadmap-for-college-students-learn-programming-1ic4)
+- [🚀 From Software &amp; DevOps Engineer to Generative AI Engineer — A 4-Month Hands-On Journey 🚀](https://dev.to/lakhera2015/from-software-devops-engineer-to-generative-ai-engineer-a-4-month-hands-on-journey-3i21)
+- [webhooks end to end testing for NextJS applications - Mastering...](https://dev.to/ash_dubai/webhooks-end-to-end-testing-for-nextjs-applications-mastering-5a2k)
+- [Boost Developer Revenue with Monetzly’s API for AI Conversations](https://dev.to/monetzly/boost-developer-revenue-with-monetzlys-api-for-ai-conversations-1612)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
