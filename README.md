@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🔥_High_Concurrency_Framework_Choice_Tech_Decisions[20260102150917]](https://dev.to/member_6331818c/highconcurrencyframeworkchoicetechdecisions20260102150917-31mb)
-- [HubSpot vs Competitors: Which CRM to Choose in 2025?](https://dev.to/shabe_ai/hubspot-vs-competitors-which-crm-to-choose-in-2025-59mc)
-- [🪝Finally Started the Most Awaited Section: Custom Hooks, Refs &amp; More State](https://dev.to/usama_dev/finally-started-the-most-awaited-section-custom-hooks-refs-more-state-49bc)
-- [Stop Hacking Your .htaccess: A Better Way to Switch Laravel Versions](https://dev.to/tahsin000/stop-hacking-your-htaccess-a-better-way-to-switch-laravel-versions-57p2)
-- [I made Codedraft proactive!](https://dev.to/timadey/i-made-codedraft-proactive-54h6)
+- [Stop Debugging by Hand: I Built a Real-Time Linked List Visualizer](https://dev.to/rushedcomet/stop-debugging-by-hand-i-built-a-real-time-linked-list-visualizer-2hjm)
+- [🚀 VanillaJS Sushi Animated Website | Built with Vite &amp; JavaScript](https://dev.to/reactjsguru/vanillajs-sushi-animated-website-built-with-vite-javascript-41k)
+- [Announcing IshvaraX — A Deep-Tech Startup at the Intersection of Neuroscience and AI](https://dev.to/vivek09thakur/announcing-ishvarax-a-deep-tech-startup-at-the-intersection-of-neuroscience-and-ai-1i02)
+- [ByteSize Bios , Big Stories in Small Bytes](https://dev.to/homayounmmdy/bytesize-bios-big-stories-in-small-bytes-2amf)
+- [Partnership- How to make collab on Upwork?](https://dev.to/chocomastery/partnership-how-to-make-collab-on-upwork-50c9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
