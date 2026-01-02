@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Shipping a Scalable AI SaaS: How DeepSeek + Node.js Changed My Workflow](https://dev.to/sergeisolod/shipping-a-scalable-ai-saas-how-deepseek-nodejs-changed-my-workflow-2i59)
-- [Building Resilient AI Agent Workflows That Handle Real-World Data Messiness](https://dev.to/robort-gabriel/building-resilient-ai-agent-workflows-that-handle-real-world-data-messiness-40nn)
-- [Brass-TS Building an Effect Runtime in TypeScript — Part 3: A ZIO‑style HTTP Client with Real DX](https://dev.to/baldrvivaldelli/brass-ts-building-an-effect-runtime-in-typescript-part-3-a-zio-style-http-client-with-real-dx-3mhe)
-- [Why Your AI Agent Needs a Passport](https://dev.to/rampy/why-your-ai-agent-needs-a-passport-517e)
-- [Моя первая веб-страница за 2 дня](https://dev.to/_1d80a32ebf084b895/moia-piervaia-vieb-stranitsa-za-2-dnia-4mo5)
+- [I Built an Anonymous Chat App Without Login — Here’s What I Learned](https://dev.to/vibetalk_51a1a0b171d67095/i-built-an-anonymous-chat-app-without-login-heres-what-i-learned-39bj)
+- [How Files Are Organized — Understanding File Systems and Paths published](https://dev.to/cristiansifuentes/how-files-are-organized-understanding-file-systems-and-paths-published-5b1k)
+- [Security news weekly round-up - 2nd January 2026](https://dev.to/ziizium/security-news-weekly-round-up-2nd-january-2026-2035)
+- [Building a Resilient Edge Architecture for Remote Farms with Starlink + LoRa](https://dev.to/danielnovaistech/building-a-resilient-edge-architecture-for-remote-farms-with-starlink-lora-24ae)
+- [Turning the Page &lpar;Without Resetting the System&rpar;](https://dev.to/mzghosty/turning-the-page-without-resetting-the-system-4i2l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
