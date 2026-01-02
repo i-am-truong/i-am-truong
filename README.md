@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Tips Membuat Website Modern dengan Nextjs](https://dev.to/muhammad_indrawan_33e0f0d/tips-membuat-website-modern-dengan-nextjs-47ga)
+- [Nobody Knows What&#39;s Happening Anymore](https://dev.to/gnaneswar_815de7ed8391e3c/nobody-knows-whats-happening-anymore-5db2)
 - [Scientific Schedule Estimation: From PERT to Monte Carlo](https://dev.to/_jeongyuhyeon_03de1/scientific-schedule-estimation-from-pert-to-monte-carlo-4pcd)
 - [Brute Force to Two Pointers: Stop Getting Lost in the Transition](https://dev.to/alex_hunter_44f4c9ed6671e/brute-force-to-two-pointers-stop-getting-lost-in-the-transition-39)
 - [Migrando desde VMware: Una comparación de las principales alternativas de hipervisores](https://dev.to/adini/migrando-desde-vmware-una-comparacion-de-las-principales-alternativas-de-hipervisores-47jd)
-- [Ship AI in your engineering stack without the chaos](https://dev.to/javz/ship-ai-in-your-engineering-stack-without-the-chaos-bed)
-- [Sustainable AI Benchmarks Developers Will Be Asked About In 2026](https://dev.to/arbisoftcompany/sustainable-ai-benchmarks-developers-will-be-asked-about-in-2026-3a29)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
