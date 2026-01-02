@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [a](https://dev.to/anurag_sati_5b77a6578f780/a-904)
-- [🌐_Network_IO_Performance_Optimization[20260102074107]](https://dev.to/member_6331818c/networkioperformanceoptimization20260102074107-2kmm)
-- [Vitest vs Jest 30: Why 2026 is the Year of Browser-Native Testing](https://dev.to/dataformathub/vitest-vs-jest-30-why-2026-is-the-year-of-browser-native-testing-2fgb)
-- [Why Most Side Projects Fail &lpar;And How to Avoid It&rpar;](https://dev.to/rushikesh_bodakhe_db28644/why-most-side-projects-fail-and-how-to-avoid-it-1hcf)
-- [I Built a URLSearchParams-Compliant Search Param Serializer for TanStack Router](https://dev.to/usapopopooon/i-built-a-urlsearchparams-compliant-search-param-serializer-for-tanstack-router-27le)
+- [Best Budget Sex Machines Under 1000 Dollars for Maximum Pleasure in 2026](https://dev.to/hannahblackwell/best-budget-sex-machines-under-1000-dollars-for-maximum-pleasure-in-2026-2a3f)
+- [Learning with freeCodeCamp](https://dev.to/richardpascoe/learning-with-freecodecamp-8f1)
+- [End-to-End Automation: Why IDP Is the Backbone of Intelligent Workflows](https://dev.to/mansa_solapur_7d35e28c840/end-to-end-automation-why-idp-is-the-backbone-of-intelligent-workflows-5fgb)
+- [Automating CloudWatch Orphan Alarm Detection: A Production-Ready Solution](https://dev.to/prashantgupta123/automating-cloudwatch-orphan-alarm-detection-a-production-ready-solution-5egn)
+- [Critical privilege escalation flaw in Apache StreamPipes allows admin takeover](https://dev.to/beyondmachines/critical-privilege-escalation-flaw-in-apache-streampipes-allows-admin-takeover-40ke)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
