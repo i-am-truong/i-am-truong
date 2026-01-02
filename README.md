@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why uv is Replacing pip in My Python Workflow &lpar;And Why You Should Try It&rpar;](https://dev.to/sripadh_sujith_1487e8db18/why-uv-is-replacing-pip-in-my-python-workflow-and-why-you-should-try-it-9jc)
-- [How I Built a Zero-Config CLI That Generates READMEs in 60 Seconds](https://dev.to/afrodev_/how-i-built-a-zero-config-cli-that-generates-readmes-in-60-seconds-1fca)
-- [The Architect&#39;s Journey: Navigating Next.js Security as a Living System](https://dev.to/alex_aslam/the-architects-journey-navigating-nextjs-security-as-a-living-system-4bk6)
-- [Building an Autonomous Supply Chain Watchdog: My Experiment with AI Reasoning Agents](https://dev.to/exploredataaiml/building-an-autonomous-supply-chain-watchdog-my-experiment-with-ai-reasoning-agents-24ip)
-- [Managing Cloud Costs the Right Way | FinOps](https://dev.to/ibbus/managing-cloud-costs-the-right-way-finops-598m)
+- [Part 7: Gold Layer – Metrics, Watermarks, and Aggregations](https://dev.to/ktnl/part-7-gold-layer-metrics-watermarks-and-aggregations-1jcm)
+- [Part 6: Silver Layer – Cleansing, Enrichment, and Dimensions](https://dev.to/ktnl/part-6-silver-layer-cleansing-enrichment-and-dimensions-ff3)
+- [Part 5: Building a ZIP Code Dimension Table](https://dev.to/ktnl/part-5-building-a-zip-code-dimension-table-1him)
+- [EHR Integration Solutions That Use Blockchain to Prevent Data Breaches](https://dev.to/kunal_chouhan_c6cf43d4af1/ehr-integration-solutions-that-use-blockchain-to-prevent-data-breaches-45if)
+- [Part 4: Building the Bronze Layer with Auto Loader and Delta Lake](https://dev.to/ktnl/part-4-building-the-bronze-layer-with-auto-loader-and-delta-lake-31ih)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
