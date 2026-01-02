@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From DevOps to DataOps: Lessons from Software Engineering](https://dev.to/sangram_6c566d62b3944d2b9/from-devops-to-dataops-lessons-from-software-engineering-1p1m)
-- [Scale Standup Efficiency Without Sacrificing Team Cohesion](https://dev.to/standupify/scale-standup-efficiency-without-sacrificing-team-cohesion-4d5)
-- [Crypto.com Referral Code : &lpar;7t7zjawvje&rpar; Save 20% On Trading Fees](https://dev.to/referralcode/cryptocom-referral-code-7t7zjawvje-save-20-on-trading-fees-ga0)
-- [China Just Released the First Coding AI of 2026 and Its Crushing Everything We Know](https://dev.to/yakhilesh/china-just-released-the-first-coding-ai-of-2026-and-its-crushing-everything-we-know-3bbj)
-- [Deconstructing Geo-Restrictions: Unblocking Streaming with Nocturne VPN](https://dev.to/mitul_chovatiya_e568824a5/deconstructing-geo-restrictions-unblocking-streaming-with-nocturne-vpn-2cg)
+- [Web Accessibility: Designing Digital Experiences Everyone Can Use](https://dev.to/pranav_bharti/web-accessibility-designing-digital-experiences-everyone-can-use-5148)
+- [IT’s New Role in the Low-Code/No-Code Era](https://dev.to/mansa_solapur_7d35e28c840/its-new-role-in-the-low-codeno-code-era-3akp)
+- [How Can RWA Tokenization Services Integrate With Traditional Finance and Banking Systems?](https://dev.to/suzie_iris_65ce8070067366/how-can-rwa-tokenization-services-integrate-with-traditional-finance-and-banking-systems-3k6g)
+- [My 2026 Tech Stack is Boring as Hell &lpar;And That is the Point&rpar;](https://dev.to/the_nortern_dev/my-2026-tech-stack-is-boring-as-hell-and-that-is-the-point-20c1)
+- [AIOps and Cloud Cost Optimization: How AI Reduces Your Cloud Bill](https://dev.to/rushikesh_langale_42ac365/aiops-and-cloud-cost-optimization-how-ai-reduces-your-cloud-bill-5f0i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
