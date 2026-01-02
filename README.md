@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Great Decoupling: The End of Frozen Interactions](https://dev.to/gd-tech-guru/the-great-decoupling-the-end-of-frozen-interactions-48f2)
-- [How we built an AI to beat the &quot;Resume Bots&quot; &lpar;ATS&rpar;](https://dev.to/irtiqa_hub/how-we-built-an-ai-to-beat-the-resume-bots-ats-3e44)
-- [Day 2: Untill I Get Google Internship](https://dev.to/sugunadithya/day-2-untill-i-get-google-internship-23ok)
-- [Identify AWS Access Management Capabilities](https://dev.to/aws-builders/identify-aws-access-management-capabilities-1nk7)
-- [Day 4: What I Learned Letting AI Run My Website Autonomously](https://dev.to/emptychairdev/day-4-what-i-learned-letting-ai-run-my-website-autonomously-199g)
+- [Mastering Burp Suite Bambdas: Unlocking Advanced Automation for the Web](https://dev.to/cyberpath/mastering-burp-suite-bambdas-unlocking-advanced-automation-for-the-web-54d8)
+- [Just finished version 1.0 of jellytool!](https://dev.to/chloe_stratton_4965babc4c/just-finished-version-10-of-jellytool-18e3)
+- [FileMate Explorer Pro: A Modern Python File Explorer with Tkinter](https://dev.to/matetechnologie/filemate-explorer-pro-a-modern-python-file-explorer-with-tkinter-4o04)
+- [Orbis: Building a Modern Plugin-Driven Desktop Platform](https://dev.to/cyberpath/orbis-building-a-modern-plugin-driven-desktop-platform-3dfa)
+- [1.Describe the Python Selenium architecture in detail 2.What is the significance of the Python Virtual Environment ?.....](https://dev.to/ritik_kumarsingh_3632c2d/1describe-the-python-selenium-architecture-in-detail-2what-is-the-significance-of-the-python-3jap)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
