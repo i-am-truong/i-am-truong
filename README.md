@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🎬 ProducerAI: The Real-Time Generative Video Studio](https://dev.to/deeksha_mahara/producerai-the-real-time-generative-video-studio-2139)
-- [2025 Was for Playing. 2026 Is for Paying. 📉📈](https://dev.to/naved_shaikh/2025-was-for-playing-2026-is-for-paying-13fl)
-- [Your Next Browser Won’t Open Tabs, It Will Execute Goals](https://dev.to/aiwithapex/your-next-browser-wont-open-tabs-it-will-execute-goals-2gfc)
-- [Weekly Challenge: New Year, New Challenges](https://dev.to/simongreennet/weekly-challenge-new-year-new-challenges-2eab)
-- [Revolutionizing Data Flow with LLMs: Where AI Meets ETL](https://dev.to/mabualzait/revolutionizing-data-flow-with-llms-where-ai-meets-etl-47nc)
+- [From DevOps to DataOps: Lessons from Software Engineering](https://dev.to/sangram_6c566d62b3944d2b9/from-devops-to-dataops-lessons-from-software-engineering-1p1m)
+- [Scale Standup Efficiency Without Sacrificing Team Cohesion](https://dev.to/standupify/scale-standup-efficiency-without-sacrificing-team-cohesion-4d5)
+- [Crypto.com Referral Code : &lpar;7t7zjawvje&rpar; Save 20% On Trading Fees](https://dev.to/referralcode/cryptocom-referral-code-7t7zjawvje-save-20-on-trading-fees-ga0)
+- [China Just Released the First Coding AI of 2026 and Its Crushing Everything We Know](https://dev.to/yakhilesh/china-just-released-the-first-coding-ai-of-2026-and-its-crushing-everything-we-know-3bbj)
+- [Deconstructing Geo-Restrictions: Unblocking Streaming with Nocturne VPN](https://dev.to/mitul_chovatiya_e568824a5/deconstructing-geo-restrictions-unblocking-streaming-with-nocturne-vpn-2cg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
