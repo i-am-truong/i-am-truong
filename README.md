@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Training GitHub Repository Embeddings using Stars](https://dev.to/dmitry_nikitko_ea8cddb8ce/training-github-repository-embeddings-using-stars-177l)
-- [⏳ Managing EOLs w. geol: the impossible 1&#39; Mux demo](https://dev.to/adriens/managing-eols-w-geol-the-impossible-1-mux-demo-cnl)
-- [DVP: Why Autonomous Vehicles Need an AI Flight Recorder](https://dev.to/veritaschain/dvp-why-autonomous-vehicles-need-an-ai-flight-recorder-15b5)
-- [The Email I Almost Ignored That Saved My GitHub Repo](https://dev.to/jrud25/the-email-i-almost-ignored-that-saved-my-github-repo-5e2a)
-- [Who&#39;s hiring — January 2026](https://dev.to/fmerian/whos-hiring-january-2026-5h1n)
+- [Testability vs. Automatability: Why Most Automation Efforts Fail Before They Begin — Part3](https://dev.to/qa-leaders/testability-vs-automatability-why-most-automation-efforts-fail-before-they-begin-part3-2nm0)
+- [Open source erp system](https://dev.to/henry_5ad39e49b27320656fc/open-source-erp-system-mkp)
+- [Ejecuta Qwen3 + Ollama + Open WebUI en Docker: Tu propio AI Chat local 🧠](https://dev.to/chainiz/ejecuta-qwen3-ollama-open-webui-en-docker-tu-propio-ai-chat-local-405m)
+- [I’m Building an AI Resume ATS Tool Because the System Is Broken](https://dev.to/iamutkarshyadav/im-building-an-ai-resume-ats-tool-because-the-system-is-broken-2f6a)
+- [From Curious to Committed](https://dev.to/richardpascoe/from-curious-to-committed-f7g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
