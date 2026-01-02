@@ -122,9 +122,9 @@ Python                   1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [GPUs: Graphics and AI Processors — From Pixels to Intelligence](https://dev.to/cristiansifuentes/gpus-graphics-and-ai-processors-from-pixels-to-intelligence-4kl4)
 - [Phones and Their System on a Chip &lpar;SoC&rpar; — The Hidden Engine of Modern Devices](https://dev.to/cristiansifuentes/phones-and-their-system-on-a-chip-soc-the-hidden-engine-of-modern-devices-27oh)
-- [O Paradigma Prototipal no JavaScript: Uma Análise da Herança ES5 e a Abstração das Classes ES6](https://dev.to/mrpunkdasilva/o-paradigma-prototipal-no-javascript-uma-analise-tecnica-exaustiva-da-heranca-es5-e-a-abstracao-3791)
-- [I Built an Anonymous Chat App Without Login — Here’s What I Learned](https://dev.to/vibetalk_51a1a0b171d67095/i-built-an-anonymous-chat-app-without-login-heres-what-i-learned-39bj)
-- [How Files Are Organized — Understanding File Systems and Paths published](https://dev.to/cristiansifuentes/how-files-are-organized-understanding-file-systems-and-paths-published-5b1k)
+- [Building Cryptographic Audit Trails for cTrader cBots - A Sidecar Approach](https://dev.to/veritaschain/building-cryptographic-audit-trails-for-ctrader-cbots-a-sidecar-approach-3785)
+- [2026-01-02 Daily Robotics News](https://dev.to/dan_ledger_ce2886f0037972/2026-01-02-daily-robotics-news-4547)
+- [How We Designed Abuse Prevention Without User Accounts in an Anonymous Chat App](https://dev.to/vibetalk_51a1a0b171d67095/how-we-designed-abuse-prevention-without-user-accounts-in-an-anonymous-chat-app-5gp5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
