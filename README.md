@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [EP 7: The &quot;Join&quot; Tax vs. The &quot;Storage&quot; Tax](https://dev.to/hrishikesh_dalal_ced8f95e/ep-7-the-join-tax-vs-the-storage-tax-1jna)
+- [The Anthology of a Creative Developer: A 2026 Portfolio](https://dev.to/nk2552003/the-anthology-of-a-creative-developer-a-2026-portfolio-56jp)
+- [🎯 Beginner-Friendly Guide &#39;N-Repeated Element in Size 2N Array&#39; – LeetCode 961 &lpar;C++ | Python | JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-n-repeated-element-in-size-2n-array-leetcode-961-c-python--2h0e)
 - [Proteus: The AI-native editor for multimodal creation](https://dev.to/gezilinll/proteus-the-ai-native-editor-for-multimodal-creation-29h3)
 - [Coding Practice Roadmap for College Students: Learn Programming](https://dev.to/codepractice/coding-practice-roadmap-for-college-students-learn-programming-1ic4)
-- [🚀 From Software &amp; DevOps Engineer to Generative AI Engineer — A 4-Month Hands-On Journey 🚀](https://dev.to/lakhera2015/from-software-devops-engineer-to-generative-ai-engineer-a-4-month-hands-on-journey-3i21)
-- [webhooks end to end testing for NextJS applications - Mastering...](https://dev.to/ash_dubai/webhooks-end-to-end-testing-for-nextjs-applications-mastering-5a2k)
-- [Boost Developer Revenue with Monetzly’s API for AI Conversations](https://dev.to/monetzly/boost-developer-revenue-with-monetzlys-api-for-ai-conversations-1612)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
