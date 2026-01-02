@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Game Dev Digest — Issue #312 - New Year, New Ways, and more](https://dev.to/gamedevdigest/game-dev-digest-issue-312-new-year-new-ways-and-more-3nhh)
 - [Secure Integration of Twilio, Zapier, and Railway for Compliance and Data Unification](https://dev.to/callstacktech/secure-integration-of-twilio-zapier-and-railway-for-compliance-and-data-unification-334d)
-- [🚀 VanillaJS Sushi Animated Website | Built with Vite &amp; JavaScript](https://dev.to/reactjsguru/vanillajs-sushi-animated-website-built-with-vite-javascript-41k)
+- [Deep Neuroevolution: Genetic Algorithms Are a Competitive Alternative forTraining Deep Neural Networks for Reinforcement Learnin](https://dev.to/paperium/deep-neuroevolution-genetic-algorithms-are-a-competitive-alternative-fortraining-deep-neural-275c)
 - [Stop Debugging by Hand: I Built a Real-Time Linked List Visualizer](https://dev.to/rushedcomet/stop-debugging-by-hand-i-built-a-real-time-linked-list-visualizer-2hjm)
-- [Announcing IshvaraX — A Deep-Tech Startup at the Intersection of Neuroscience and AI](https://dev.to/vivek09thakur/announcing-ishvarax-a-deep-tech-startup-at-the-intersection-of-neuroscience-and-ai-1i02)
-- [ByteSize Bios , Big Stories in Small Bytes](https://dev.to/homayounmmdy/bytesize-bios-big-stories-in-small-bytes-2amf)
+- [🚀 VanillaJS Sushi Animated Website | Built with Vite &amp; JavaScript](https://dev.to/reactjsguru/vanillajs-sushi-animated-website-built-with-vite-javascript-41k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
