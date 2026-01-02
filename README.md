@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [PIC shellcode: The Rust Way](https://dev.to/cyberpath/pic-shellcode-the-rust-way-4cl7)
-- [DevOps Tooling Masterclass — Complete Practical Guide for Engineers](https://dev.to/javadinteger/devops-tooling-masterclass-complete-practical-guide-for-engineers-ak7)
-- [Understanding Red Team Operations: A Technical Deep Dive](https://dev.to/cyberpath/understanding-red-team-operations-a-technical-deep-dive-2ggb)
-- [Building a Chrome Extension to Make LeetCode Prep More Practical](https://dev.to/vikrantkadam13/building-a-chrome-extension-to-make-leetcode-prep-more-practical-48h4)
-- [Remove Background From Multiple Images for E-commerce Teams](https://dev.to/freepixel11/remove-background-from-multiple-images-for-e-commerce-teams-519a)
+- [How I Built a Zero-Config CLI That Generates READMEs in 60 Seconds](https://dev.to/josiah_mbao_cdb9dcef0aaf7/how-i-built-a-zero-config-cli-that-generates-readmes-in-60-seconds-1fca)
+- [How to Install Fedora OS in VMware Workstation &lpar;Easy Guide&rpar;](https://dev.to/rootxblogs/how-to-install-fedora-os-in-vmware-workstation-easy-guide-2kc5)
+- [The Architect&#39;s Journey: Navigating Next.js Security as a Living System](https://dev.to/alex_aslam/the-architects-journey-navigating-nextjs-security-as-a-living-system-4bk6)
+- [Building an Autonomous Supply Chain Watchdog: My Experiment with AI Reasoning Agents](https://dev.to/exploredataaiml/building-an-autonomous-supply-chain-watchdog-my-experiment-with-ai-reasoning-agents-24ip)
+- [Avalanche +11%: ETF and Staking Narrative Drives Repricing](https://dev.to/alexnav/avalanche-11-etf-and-staking-narrative-drives-repricing-5bpf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
