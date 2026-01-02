@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🎬 ProducerAI: The Real-Time Generative Video Studio](https://dev.to/deeksha_mahara/producerai-the-real-time-generative-video-studio-2139)
+- [2025 Was for Playing. 2026 Is for Paying. 📉📈](https://dev.to/naved_shaikh/2025-was-for-playing-2026-is-for-paying-13fl)
 - [Your Next Browser Won’t Open Tabs, It Will Execute Goals](https://dev.to/aiwithapex/your-next-browser-wont-open-tabs-it-will-execute-goals-2gfc)
 - [Weekly Challenge: New Year, New Challenges](https://dev.to/simongreennet/weekly-challenge-new-year-new-challenges-2eab)
 - [Revolutionizing Data Flow with LLMs: Where AI Meets ETL](https://dev.to/mabualzait/revolutionizing-data-flow-with-llms-where-ai-meets-etl-47nc)
-- [2025 Tested Me and Prepared Me for a Stronger in 2026](https://dev.to/viperthapa/2025-tested-me-and-prepared-me-for-a-stronger-in-2026-4ea4)
-- [I Built a Resume ATS Tool After Applying to 15–20 Jobs a Day](https://dev.to/iamutkarshyadav/i-built-a-resume-ats-tool-after-applying-to-15-20-jobs-a-day-5606)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
