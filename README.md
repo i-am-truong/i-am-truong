@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Calm, Terminal-inspired Portfolio Focused on Shipped Products](https://dev.to/thecodingpantsula/a-calm-terminal-inspired-portfolio-focused-on-shipped-products-ga8)
-- [Stop Losing 86% of Mobile Users: Lazy Auth with Firebase &lpar;Tutorial&rpar;](https://dev.to/al_rl_262bf3e3f877e3574f3/stop-losing-86-of-mobile-users-lazy-auth-with-firebase-tutorial-3k16)
-- [AdForge AI - Enterprise Visual Production Platform](https://dev.to/omkar598/adforge-ai-enterprise-visual-production-platform-3mfd)
-- [How SEO Can Make or Break Your Online Store &lpar;2026 Edition&rpar;](https://dev.to/priya_dharshini_b30d11c20/how-seo-can-make-or-break-your-online-store-2026-edition-1j55)
-- [Advent of Cyber 2025 Day 13-20 Writeup Sprint! | TryHackMe](https://dev.to/mahin101/advent-of-cyber-2025-day-13-20-writeup-sprint-tryhackme-379a)
+- [SQLite: A Simple Database with Serious Engineering Inside](https://dev.to/lovestaco/sqlite-a-simple-database-with-serious-engineering-inside-31dp)
+- [Deploying a Node.js Application on AWS EC2 with Apache](https://dev.to/techlab/deploying-a-nodejs-application-on-aws-ec2-with-apache-3djj)
+- [Docker Network Commands](https://dev.to/meghasharmaaaa/docker-network-commands-3878)
+- [Ringer Movies: The 25 for ’25 Selection Show Special](https://dev.to/popcorn_movies/ringer-movies-the-25-for-25-selection-show-special-1ofk)
+- [Interval Neutrosophic Sets and Logic: Theory and Applications in Computing](https://dev.to/paperium/interval-neutrosophic-sets-and-logic-theory-and-applications-in-computing-4d0f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
