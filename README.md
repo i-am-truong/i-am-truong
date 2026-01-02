@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Arkansas Transfer Deed: A Simple Guide for Property Owners](https://dev.to/waqas_khan_6332a2962d5312/arkansas-transfer-deed-a-simple-guide-for-property-owners-k4f)
-- [Getting Restarted With Software Testing: Part 3](https://dev.to/software_testing_blog/getting-restarted-with-software-testing-part-3-1d49)
-- [Difference Between UI and UX — Simple Explanation](https://dev.to/pixel_mosaic/difference-between-ui-and-ux-simple-explanation-4169)
-- [I built wordle for desktop but using my own GUI library!](https://dev.to/scriptor/i-built-wordle-for-desktop-but-using-my-own-gui-library-17e7)
-- [10,000 Lines of C, Real x86-64 Assembly for Critical Paths: Building Kernel-Level AI Security](https://dev.to/dmitry_labintcev_9e611e04/10000-lines-of-c-real-x86-64-assembly-for-critical-paths-building-kernel-level-ai-security-4fnk)
+- [Knotlog: Wide Logging for PHP](https://dev.to/woodygilk/knotlog-wide-logging-for-php-je1)
+- [Uma jornada completa em tecnologia: suporte, desenvolvimento e liderança técnica](https://dev.to/pedro_victorfernandesde/minha-trajetoria-profissional-em-tecnologia-1j23)
+- [🤯 What Actually Happens Inside a DBMS When You Run a SQL Query?](https://dev.to/aditya_bhawar_dc332d1d5c7/what-actually-happens-inside-a-dbms-when-you-run-a-sql-query-3eee)
+- [Building Structured AI Videos with Soar2AI: From Prompts to Visual Storytelling](https://dev.to/lynn123456/building-structured-ai-videos-with-soar2ai-from-prompts-to-visual-storytelling-3jo2)
+- [Why I Built a jq-Compatible Tool in Pure Perl &lpar;and Why It Still Matters&rpar;](https://dev.to/pannakoota/why-i-built-a-jq-compatible-tool-in-pure-perl-and-why-it-still-matters-45a6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
