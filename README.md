@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GPUs: Graphics and AI Processors — From Pixels to Intelligence](https://dev.to/cristiansifuentes/gpus-graphics-and-ai-processors-from-pixels-to-intelligence-4kl4)
+- [Phones and Their System on a Chip &lpar;SoC&rpar; — The Hidden Engine of Modern Devices](https://dev.to/cristiansifuentes/phones-and-their-system-on-a-chip-soc-the-hidden-engine-of-modern-devices-27oh)
+- [O Paradigma Prototipal no JavaScript: Uma Análise da Herança ES5 e a Abstração das Classes ES6](https://dev.to/mrpunkdasilva/o-paradigma-prototipal-no-javascript-uma-analise-tecnica-exaustiva-da-heranca-es5-e-a-abstracao-3791)
 - [I Built an Anonymous Chat App Without Login — Here’s What I Learned](https://dev.to/vibetalk_51a1a0b171d67095/i-built-an-anonymous-chat-app-without-login-heres-what-i-learned-39bj)
 - [How Files Are Organized — Understanding File Systems and Paths published](https://dev.to/cristiansifuentes/how-files-are-organized-understanding-file-systems-and-paths-published-5b1k)
-- [Security news weekly round-up - 2nd January 2026](https://dev.to/ziizium/security-news-weekly-round-up-2nd-january-2026-2035)
-- [Building a Resilient Edge Architecture for Remote Farms with Starlink + LoRa](https://dev.to/danielnovaistech/building-a-resilient-edge-architecture-for-remote-farms-with-starlink-lora-24ae)
-- [Turning the Page &lpar;Without Resetting the System&rpar;](https://dev.to/mzghosty/turning-the-page-without-resetting-the-system-4i2l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
