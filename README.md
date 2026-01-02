@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Web Accessibility: Designing Digital Experiences Everyone Can Use](https://dev.to/pranav_bharti/web-accessibility-designing-digital-experiences-everyone-can-use-5148)
-- [IT’s New Role in the Low-Code/No-Code Era](https://dev.to/mansa_solapur_7d35e28c840/its-new-role-in-the-low-codeno-code-era-3akp)
-- [How Can RWA Tokenization Services Integrate With Traditional Finance and Banking Systems?](https://dev.to/suzie_iris_65ce8070067366/how-can-rwa-tokenization-services-integrate-with-traditional-finance-and-banking-systems-3k6g)
-- [My 2026 Tech Stack is Boring as Hell &lpar;And That is the Point&rpar;](https://dev.to/the_nortern_dev/my-2026-tech-stack-is-boring-as-hell-and-that-is-the-point-20c1)
-- [AIOps and Cloud Cost Optimization: How AI Reduces Your Cloud Bill](https://dev.to/rushikesh_langale_42ac365/aiops-and-cloud-cost-optimization-how-ai-reduces-your-cloud-bill-5f0i)
+- [Get Hit By Performance Bottleneck In Canvas](https://dev.to/ikhwanal/get-hit-by-performance-bottleneck-in-canvas-5che)
+- [🚀 Building the Best SQL-Backed Job Queue with WJb and UkrGuru.Sql in .NET](https://dev.to/ukrguru/building-the-best-sql-backed-job-queue-with-wjb-and-ukrgurusql-in-net-3nnm)
+- [How Netflix Streams to Millions Globally: A Technical Masterclass in Resilience, Scale, and Systematic Failure](https://dev.to/siddharthbhalsod/how-netflix-streams-to-millions-globally-a-technical-masterclass-in-resilience-scale-and-31n5)
+- [Why Refactoring AWS Infrastructure Taught Me More Than Building It](https://dev.to/adil_khan_dc8aaf5632c369b/why-refactoring-aws-infrastructure-taught-me-more-than-building-it-3iml)
+- [I Built an i18n Library That Works with Rails/Laravel and React/Vue](https://dev.to/usapopopooon/i-built-an-i18n-library-that-works-with-railslaravel-and-reactvue-3db8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
