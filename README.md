@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Full stack DevOps Lab](https://dev.to/onyemuche/full-stack-devops-lab-4hpf)
-- [¡Respaldo seguro y eficiente: Usando Azure Blob Storage para proteger tus datos!](https://dev.to/danieljsaldana/respaldo-seguro-y-eficiente-usando-azure-blob-storage-para-proteger-tus-datos-1ip5)
-- [Built a Modern, Mobile Friendly React Playground](https://dev.to/bralekfn/built-a-modern-mobile-friendly-react-playground-3g1k)
-- [Kicking Off &#39;26: The Ultimate World Cup Preview](https://dev.to/mabualzait/kicking-off-26-the-ultimate-world-cup-preview-2b8j)
-- [How the Internet Works — From a Single Message to the Global Network](https://dev.to/cristiansifuentes/how-the-internet-works-from-a-single-message-to-the-global-network-1g6f)
+- [Training GitHub Repository Embeddings using Stars](https://dev.to/dmitry_nikitko_ea8cddb8ce/training-github-repository-embeddings-using-stars-177l)
+- [⏳ Managing EOLs w. geol: the impossible 1&#39; Mux demo](https://dev.to/adriens/managing-eols-w-geol-the-impossible-1-mux-demo-cnl)
+- [DVP: Why Autonomous Vehicles Need an AI Flight Recorder](https://dev.to/veritaschain/dvp-why-autonomous-vehicles-need-an-ai-flight-recorder-15b5)
+- [The Email I Almost Ignored That Saved My GitHub Repo](https://dev.to/jrud25/the-email-i-almost-ignored-that-saved-my-github-repo-5e2a)
+- [Who&#39;s hiring — January 2026](https://dev.to/fmerian/whos-hiring-january-2026-5h1n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
