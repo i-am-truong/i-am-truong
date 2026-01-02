@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Resilient AI Agent Workflows That Handle Real-World Data Messiness](https://dev.to/robort-gabriel/building-resilient-ai-agent-workflows-that-handle-real-world-data-messiness-40nn)
+- [Brass-TS Building an Effect Runtime in TypeScript — Part 3: A ZIO‑style HTTP Client with Real DX](https://dev.to/baldrvivaldelli/brass-ts-building-an-effect-runtime-in-typescript-part-3-a-zio-style-http-client-with-real-dx-3mhe)
+- [Why Your AI Agent Needs a Passport](https://dev.to/rampy/why-your-ai-agent-needs-a-passport-517e)
+- [Моя первая веб-страница за 2 дня](https://dev.to/_1d80a32ebf084b895/moia-piervaia-vieb-stranitsa-za-2-dnia-4mo5)
 - [Testability vs. Automatability: Why Most Automation Efforts Fail Before They Begin — Part3](https://dev.to/qa-leaders/testability-vs-automatability-why-most-automation-efforts-fail-before-they-begin-part3-2nm0)
-- [Open source erp system](https://dev.to/henry_5ad39e49b27320656fc/open-source-erp-system-mkp)
-- [Ejecuta Qwen3 + Ollama + Open WebUI en Docker: Tu propio AI Chat local 🧠](https://dev.to/chainiz/ejecuta-qwen3-ollama-open-webui-en-docker-tu-propio-ai-chat-local-405m)
-- [I’m Building an AI Resume ATS Tool Because the System Is Broken](https://dev.to/iamutkarshyadav/im-building-an-ai-resume-ats-tool-because-the-system-is-broken-2f6a)
-- [From Curious to Committed](https://dev.to/richardpascoe/from-curious-to-committed-f7g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
