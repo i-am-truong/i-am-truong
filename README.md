@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Scrape Twitter &lpar;X&rpar; Trends Without Breaking the Bank](https://dev.to/eunit/how-to-scrape-twitter-x-trends-without-breaking-the-bank-bli)
-- [Compiler Design 101: Falcon - A Minimal Production‑Oriented Language and Compiler](https://dev.to/javadinteger/compiler-design-101-falcon-a-minimal-production-oriented-language-and-compiler-90b)
-- [Learning Apache Kafka with Python - Part 1: Producers](https://dev.to/hantedyou_0106/learning-apache-kafka-with-python-part-1-producers-356b)
-- [Stop Restarting Your Node App! Debug Like a Pro with an Interactive REPL 🛑](https://dev.to/yogendra_prajapati_3c7d83/stop-restarting-your-node-app-debug-like-a-pro-with-an-interactive-repl-1o9k)
-- [Quantum Ready: How Trinity Protocol Survives the Post Quantum Era](https://dev.to/chronosvault/quantum-ready-how-trinity-protocol-survives-the-post-quantum-era-2h8)
+- [Understanding Red Team Operations: A Technical Deep Dive](https://dev.to/cyberpath/understanding-red-team-operations-a-technical-deep-dive-2ggb)
+- [Remove Background From Multiple Images for E-commerce Teams](https://dev.to/freepixel11/remove-background-from-multiple-images-for-e-commerce-teams-519a)
+- [SENTINEL IMMUNE — Biological Immunity for IT Security](https://dev.to/dmitry_labintcev_9e611e04/sentinel-immune-biological-immunity-for-it-security-279f)
+- [What Broke When I Let AI Handle My Code Reviews &lpar;And How I Fixed It&rpar;](https://dev.to/leena_malhotra/what-broke-when-i-let-ai-handle-my-code-reviews-and-how-i-fixed-it-25c0)
+- [Vectoragent.io vs SEO Agencies: Why AI-Powered Content Automation Beats Traditional SEO Services in 2026](https://dev.to/pay_perreel_ed6ea36719f4/vectoragentio-vs-seo-agencies-why-ai-powered-content-automation-beats-traditional-seo-services-in-24pk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
