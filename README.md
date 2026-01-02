@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Pendulum Swings Back: Intentional Software Design in the Age of AI](https://dev.to/devunionx/the-pendulum-swings-back-intentional-software-design-in-the-age-of-ai-351)
-- [DEV Track Spotlight: Build multi-modal AI agents with Strands Agents and Amazon S3 Vectors &lpar;DEV332&rpar;](https://dev.to/aws/dev-track-spotlight-build-multi-modal-ai-agents-with-strands-agents-and-amazon-s3-vectors-dev332-4jp5)
-- [Your Website Is Your Digital First Impression](https://dev.to/nafizmahmud_94/your-website-is-your-digital-first-impression-3p6h)
-- [Alles über Stripe and Paddle payment integration für dein Business](https://dev.to/ash_dubai/alles-uber-stripe-and-paddle-payment-integration-fur-dein-business-24b6)
-- [seofaster, programmatic seo platform development - seofaster,...](https://dev.to/ash_dubai/seofaster-programmatic-seo-platform-development-seofaster-2lh9)
+- [chatfaster, building ai chat saas, multi-llm chat app development -...](https://dev.to/ash_dubai/chatfaster-building-ai-chat-saas-multi-llm-chat-app-development--4ipd)
+- [🔒_Security_Performance_Balance[20260102183741]](https://dev.to/member_6331818c/securityperformancebalance20260102183741-4ai4)
+- [Most AI No-Code Tools Build Demos. I Built FoundersKit to Build Startups](https://dev.to/ritesh_hiremath_eb6abb681/most-ai-no-code-tools-build-demos-i-built-founderskit-to-build-startups-2nkh)
+- [1Password Breaks Syntax Highlighting On The Internet](https://dev.to/hacksore/1password-breaks-syntax-highlighting-on-the-internet-18j6)
+- [How I built Upple: A modern uptime monitor with Go and React](https://dev.to/khiman/how-i-built-upple-a-modern-uptime-monitor-with-go-and-react-iac)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
