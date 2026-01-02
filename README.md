@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Technically Approved, Still Rejected: The Feedback Gap in Hiring](https://dev.to/mekobgs/technically-approved-still-rejected-the-feedback-gap-in-hiring-hbb)
+- [COPY FROM Exploits: When PostgreSQL Reads Your Filesystem](https://dev.to/ofri-peretz/copy-from-exploits-when-postgresql-reads-your-filesystem-127a)
+- [What Is an Operating System? — The Silent Architect Behind Every Device](https://dev.to/cristiansifuentes/what-is-an-operating-system-the-silent-architect-behind-every-device-4486)
 - [Building Pangolin: My Holiday Break, an AI IDE, and a Lakehouse Catalog for the Curious](https://dev.to/alexmercedcoder/building-pangolin-my-holiday-break-an-ai-ide-and-a-lakehouse-catalog-for-the-curious-1fbm)
 - [Why “Small Environments” Help You Keep Writing &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/why-small-environments-help-you-keep-writing-bite-size-article-35ka)
-- [Lightweight ETL with AWS Lambda, chDB, and PyIceberg &lpar;Compared with DuckDB&rpar;](https://dev.to/aws-builders/lightweight-etl-with-aws-lambda-chdb-and-pyiceberg-compared-with-duckdb-2coo)
-- [Ng-News: Angular in 2025](https://dev.to/this-is-angular/ng-news-angular-in-2025-307a)
-- [Heapify Down: How to Trace Each Swap Without Getting Lost](https://dev.to/alex_hunter_44f4c9ed6671e/heapify-down-how-to-trace-each-swap-without-getting-lost-gpm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
