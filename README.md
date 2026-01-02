@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [PIC shellcode: The Rust Way](https://dev.to/cyberpath/pic-shellcode-the-rust-way-4cl7)
+- [DevOps Tooling Masterclass — Complete Practical Guide for Engineers](https://dev.to/javadinteger/devops-tooling-masterclass-complete-practical-guide-for-engineers-ak7)
 - [Understanding Red Team Operations: A Technical Deep Dive](https://dev.to/cyberpath/understanding-red-team-operations-a-technical-deep-dive-2ggb)
+- [Building a Chrome Extension to Make LeetCode Prep More Practical](https://dev.to/vikrantkadam13/building-a-chrome-extension-to-make-leetcode-prep-more-practical-48h4)
 - [Remove Background From Multiple Images for E-commerce Teams](https://dev.to/freepixel11/remove-background-from-multiple-images-for-e-commerce-teams-519a)
-- [SENTINEL IMMUNE — Biological Immunity for IT Security](https://dev.to/dmitry_labintcev_9e611e04/sentinel-immune-biological-immunity-for-it-security-279f)
-- [What Broke When I Let AI Handle My Code Reviews &lpar;And How I Fixed It&rpar;](https://dev.to/leena_malhotra/what-broke-when-i-let-ai-handle-my-code-reviews-and-how-i-fixed-it-25c0)
-- [Vectoragent.io vs SEO Agencies: Why AI-Powered Content Automation Beats Traditional SEO Services in 2026](https://dev.to/pay_perreel_ed6ea36719f4/vectoragentio-vs-seo-agencies-why-ai-powered-content-automation-beats-traditional-seo-services-in-24pk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
