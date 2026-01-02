@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Tips Membuat Website Modern dengan Nextjs](https://dev.to/muhammad_indrawan_33e0f0d/tips-membuat-website-modern-dengan-nextjs-47ga)
-- [Nobody Knows What&#39;s Happening Anymore](https://dev.to/gnaneswar_815de7ed8391e3c/nobody-knows-whats-happening-anymore-5db2)
-- [Scientific Schedule Estimation: From PERT to Monte Carlo](https://dev.to/_jeongyuhyeon_03de1/scientific-schedule-estimation-from-pert-to-monte-carlo-4pcd)
-- [Brute Force to Two Pointers: Stop Getting Lost in the Transition](https://dev.to/alex_hunter_44f4c9ed6671e/brute-force-to-two-pointers-stop-getting-lost-in-the-transition-39)
-- [Migrando desde VMware: Una comparación de las principales alternativas de hipervisores](https://dev.to/adini/migrando-desde-vmware-una-comparacion-de-las-principales-alternativas-de-hipervisores-47jd)
+- [🔥_High_Concurrency_Framework_Choice_Tech_Decisions[20260102150917]](https://dev.to/member_6331818c/highconcurrencyframeworkchoicetechdecisions20260102150917-31mb)
+- [HubSpot vs Competitors: Which CRM to Choose in 2025?](https://dev.to/shabe_ai/hubspot-vs-competitors-which-crm-to-choose-in-2025-59mc)
+- [🪝Finally Started the Most Awaited Section: Custom Hooks, Refs &amp; More State](https://dev.to/usama_dev/finally-started-the-most-awaited-section-custom-hooks-refs-more-state-49bc)
+- [Stop Hacking Your .htaccess: A Better Way to Switch Laravel Versions](https://dev.to/tahsin000/stop-hacking-your-htaccess-a-better-way-to-switch-laravel-versions-57p2)
+- [I made Codedraft proactive!](https://dev.to/timadey/i-made-codedraft-proactive-54h6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
