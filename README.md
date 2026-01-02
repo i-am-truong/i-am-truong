@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Threat Intelligence Automation with AI/ML](https://dev.to/cyberpath/threat-intelligence-automation-with-aiml-1i81)
-- [Building an MCP Server: How We Connected DiskCleanKit to AI Assistants](https://dev.to/diskcleankit/building-an-mcp-server-how-we-connected-diskcleankit-to-ai-assistants-222e)
-- [What Every Programmer Should Know About Memory Part 3](https://dev.to/hamzahassanain0/what-every-programmer-should-know-about-memory-part-3-2i6k)
-- [I Built a Free EMI Calculator Focused on Clarity &lpar;Not Ads&rpar;](https://dev.to/roman_singh_a88e2bb48696a/i-built-a-free-emi-calculator-focused-on-clarity-not-ads-4dei)
-- [Solved: Real world testimonies on Palo Alto/Check Point/Fortinet?](https://dev.to/techresolve/solved-real-world-testimonies-on-palo-altocheck-pointfortinet-21en)
+- [How to Scrape Twitter &lpar;X&rpar; Trends Without Breaking the Bank](https://dev.to/eunit/how-to-scrape-twitter-x-trends-without-breaking-the-bank-bli)
+- [Compiler Design 101: Falcon - A Minimal Production‑Oriented Language and Compiler](https://dev.to/javadinteger/compiler-design-101-falcon-a-minimal-production-oriented-language-and-compiler-90b)
+- [Learning Apache Kafka with Python - Part 1: Producers](https://dev.to/hantedyou_0106/learning-apache-kafka-with-python-part-1-producers-356b)
+- [Stop Restarting Your Node App! Debug Like a Pro with an Interactive REPL 🛑](https://dev.to/yogendra_prajapati_3c7d83/stop-restarting-your-node-app-debug-like-a-pro-with-an-interactive-repl-1o9k)
+- [Quantum Ready: How Trinity Protocol Survives the Post Quantum Era](https://dev.to/chronosvault/quantum-ready-how-trinity-protocol-survives-the-post-quantum-era-2h8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
