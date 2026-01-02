@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Zero-Config CLI That Generates READMEs in 60 Seconds](https://dev.to/josiah_mbao_cdb9dcef0aaf7/how-i-built-a-zero-config-cli-that-generates-readmes-in-60-seconds-1fca)
-- [How to Install Fedora OS in VMware Workstation &lpar;Easy Guide&rpar;](https://dev.to/rootxblogs/how-to-install-fedora-os-in-vmware-workstation-easy-guide-2kc5)
+- [Why uv is Replacing pip in My Python Workflow &lpar;And Why You Should Try It&rpar;](https://dev.to/sripadh_sujith_1487e8db18/why-uv-is-replacing-pip-in-my-python-workflow-and-why-you-should-try-it-9jc)
+- [How I Built a Zero-Config CLI That Generates READMEs in 60 Seconds](https://dev.to/afrodev_/how-i-built-a-zero-config-cli-that-generates-readmes-in-60-seconds-1fca)
 - [The Architect&#39;s Journey: Navigating Next.js Security as a Living System](https://dev.to/alex_aslam/the-architects-journey-navigating-nextjs-security-as-a-living-system-4bk6)
 - [Building an Autonomous Supply Chain Watchdog: My Experiment with AI Reasoning Agents](https://dev.to/exploredataaiml/building-an-autonomous-supply-chain-watchdog-my-experiment-with-ai-reasoning-agents-24ip)
-- [Avalanche +11%: ETF and Staking Narrative Drives Repricing](https://dev.to/alexnav/avalanche-11-etf-and-staking-narrative-drives-repricing-5bpf)
+- [Managing Cloud Costs the Right Way | FinOps](https://dev.to/ibbus/managing-cloud-costs-the-right-way-finops-598m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
