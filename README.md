@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🔥_High_Concurrency_Framework_Choice_Tech_Decisions[20260102134534]](https://dev.to/member_8659c28a/highconcurrencyframeworkchoicetechdecisions20260102134534-41p9)
-- [Kiroを使ってリバースエンジニアリングを行ってみた](https://dev.to/aws-builders/kirowoshi-tuteribasuenziniaringuwoxing-tutemita-48cg)
-- [Knotlog: Wide Logging for PHP](https://dev.to/woodygilk/knotlog-wide-logging-for-php-je1)
-- [Uma jornada completa em tecnologia: suporte, desenvolvimento e liderança técnica](https://dev.to/pedro_victorfernandesde/minha-trajetoria-profissional-em-tecnologia-1j23)
-- [🤯 What Actually Happens Inside a DBMS When You Run a SQL Query?](https://dev.to/aditya_bhawar_dc332d1d5c7/what-actually-happens-inside-a-dbms-when-you-run-a-sql-query-3eee)
+- [Ship AI in your engineering stack without the chaos](https://dev.to/javz/ship-ai-in-your-engineering-stack-without-the-chaos-bed)
+- [Nardwuar the Human Serviette: Nardwuar vs. The Alchemist](https://dev.to/music_youtube/nardwuar-the-human-serviette-nardwuar-vs-the-alchemist-1bi3)
+- [Sustainable AI Benchmarks Developers Will Be Asked About In 2026](https://dev.to/arbisoftcompany/sustainable-ai-benchmarks-developers-will-be-asked-about-in-2026-3a29)
+- [Scope Management Is Not Micromanagement](https://dev.to/synthaicode_commander/scope-management-is-not-micromanagement-2kd5)
+- [🚀 From One Server to Millions of Users: A Practical Guide to Load Balancing ⚖️](https://dev.to/usman_awan/from-one-server-to-millions-of-users-a-practical-guide-to-load-balancing-2mgd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
