@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Create Reliable Unit Tests with Claude Code](https://dev.to/alfredoperez/create-reliable-unit-tests-with-claude-code-4e8p)
-- [2025 Retrospective](https://dev.to/j3ffjessie/2025-retrospective-4i84)
-- [Generating Your First Rules with Cursor for Your Angular Project](https://dev.to/alfredoperez/generating-your-first-rules-with-cursor-for-your-angular-project-490k)
-- [Create Cursor Rules for Angular](https://dev.to/alfredoperez/create-cursor-rules-for-angular-3832)
-- [How to Expose Your Local Server to the Internet &lpar;Without Port Forwarding&rpar;](https://dev.to/mrviduus/how-to-expose-your-local-server-to-the-internet-without-port-forwarding-3f3h)
+- [The Pendulum Swings Back: Intentional Software Design in the Age of AI](https://dev.to/devunionx/the-pendulum-swings-back-intentional-software-design-in-the-age-of-ai-351)
+- [DEV Track Spotlight: Build multi-modal AI agents with Strands Agents and Amazon S3 Vectors &lpar;DEV332&rpar;](https://dev.to/aws/dev-track-spotlight-build-multi-modal-ai-agents-with-strands-agents-and-amazon-s3-vectors-dev332-4jp5)
+- [Your Website Is Your Digital First Impression](https://dev.to/nafizmahmud_94/your-website-is-your-digital-first-impression-3p6h)
+- [Alles über Stripe and Paddle payment integration für dein Business](https://dev.to/ash_dubai/alles-uber-stripe-and-paddle-payment-integration-fur-dein-business-24b6)
+- [seofaster, programmatic seo platform development - seofaster,...](https://dev.to/ash_dubai/seofaster-programmatic-seo-platform-development-seofaster-2lh9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
