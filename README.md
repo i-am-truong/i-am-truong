@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Create Reliable Unit Tests with Claude Code](https://dev.to/alfredoperez/create-reliable-unit-tests-with-claude-code-4e8p)
+- [2025 Retrospective](https://dev.to/j3ffjessie/2025-retrospective-4i84)
+- [Generating Your First Rules with Cursor for Your Angular Project](https://dev.to/alfredoperez/generating-your-first-rules-with-cursor-for-your-angular-project-490k)
+- [Create Cursor Rules for Angular](https://dev.to/alfredoperez/create-cursor-rules-for-angular-3832)
 - [How to Expose Your Local Server to the Internet &lpar;Without Port Forwarding&rpar;](https://dev.to/mrviduus/how-to-expose-your-local-server-to-the-internet-without-port-forwarding-3f3h)
-- [HRT Journey Tracker — Dev Suite](https://dev.to/codebunny20/hrt-journey-tracker-dev-suite-4gn9)
-- [Building Serverless Microservices on AWS with ECS Fargate, ECR, and Terraform](https://dev.to/aws-builders/building-serverless-microservices-on-aws-with-ecs-fargate-ecr-and-terraform-4ocm)
-- [Secure Serverless with HashiCorp Vault and Lambda: Dynamic Database Credentials](https://dev.to/aws-builders/secure-serverless-with-hashicorp-vault-and-lambda-dynamic-database-credentials-1dhj)
-- [Best Practices for Securing Cloud Infrastructure in Enterprise Environments](https://dev.to/shubhamthakoredev/best-practices-for-securing-cloud-infrastructure-in-enterprise-environments-2d2e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
