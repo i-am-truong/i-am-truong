@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🔥_High_Concurrency_Framework_Choice_Tech_Decisions[20260102134534]](https://dev.to/member_8659c28a/highconcurrencyframeworkchoicetechdecisions20260102134534-41p9)
+- [Kiroを使ってリバースエンジニアリングを行ってみた](https://dev.to/aws-builders/kirowoshi-tuteribasuenziniaringuwoxing-tutemita-48cg)
 - [Knotlog: Wide Logging for PHP](https://dev.to/woodygilk/knotlog-wide-logging-for-php-je1)
 - [Uma jornada completa em tecnologia: suporte, desenvolvimento e liderança técnica](https://dev.to/pedro_victorfernandesde/minha-trajetoria-profissional-em-tecnologia-1j23)
 - [🤯 What Actually Happens Inside a DBMS When You Run a SQL Query?](https://dev.to/aditya_bhawar_dc332d1d5c7/what-actually-happens-inside-a-dbms-when-you-run-a-sql-query-3eee)
-- [Building Structured AI Videos with Soar2AI: From Prompts to Visual Storytelling](https://dev.to/lynn123456/building-structured-ai-videos-with-soar2ai-from-prompts-to-visual-storytelling-3jo2)
-- [Why I Built a jq-Compatible Tool in Pure Perl &lpar;and Why It Still Matters&rpar;](https://dev.to/pannakoota/why-i-built-a-jq-compatible-tool-in-pure-perl-and-why-it-still-matters-45a6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
