@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [209. Minimum Size Subarray Sum | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/209-minimum-size-subarray-sum-leetcode-top-interview-150-coding-questions-471l)
-- [Surviving Breaking Changes in Evolving C# APIs, Hard Lessons and Practical Strategies for .NET Devs](https://dev.to/saber-amani/surviving-breaking-changes-in-evolving-c-apis-hard-lessons-and-practical-strategies-for-net-devs-2g5p)
-- [Side Projects and AI](https://dev.to/shubhambattoo/side-projects-and-ai-3njg)
-- [building ai chat saas, multi-llm chat app development, chatfaster -...](https://dev.to/ash_dubai/building-ai-chat-saas-multi-llm-chat-app-development-chatfaster--e9g)
-- [Understanding LLM vs generative AI for Your 2026 Tech Stack](https://dev.to/ash_dubai/understanding-llm-vs-generative-ai-for-your-2026-tech-stack-1agh)
+- [My First Flow with Kestra.io](https://dev.to/missamarakay/my-first-flow-with-kestraio-31g9)
+- [Compute Containers](https://dev.to/gansvv/compute-containers-4ika)
+- [YuMe - Miles apart, moments together](https://dev.to/ktr00/yume-miles-apart-moments-together-13j2)
+- [USB-C, Power Delivery &lpar;PD&rpar; &amp; GaN — Explained Simply](https://dev.to/bijalparekh/usb-c-power-delivery-pd-gan-explained-simply-25m3)
+- [Web3&#39;s Original Sin: Why &quot;Trustless&quot; Systems Can&#39;t Escape Centralized Access Points](https://dev.to/zeroblind25/web3s-original-sin-why-trustless-systems-cant-escape-centralized-access-points-20en)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
