@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Your Next Browser Won’t Open Tabs, It Will Execute Goals](https://dev.to/aiwithapex/your-next-browser-wont-open-tabs-it-will-execute-goals-2gfc)
+- [Weekly Challenge: New Year, New Challenges](https://dev.to/simongreennet/weekly-challenge-new-year-new-challenges-2eab)
+- [Revolutionizing Data Flow with LLMs: Where AI Meets ETL](https://dev.to/mabualzait/revolutionizing-data-flow-with-llms-where-ai-meets-etl-47nc)
 - [2025 Tested Me and Prepared Me for a Stronger in 2026](https://dev.to/viperthapa/2025-tested-me-and-prepared-me-for-a-stronger-in-2026-4ea4)
-- [Statistics - Correlation in Data Science :](https://dev.to/ram_vnet_f71e560ae27f2cae/statistics-correlation-in-data-science--56o5)
 - [I Built a Resume ATS Tool After Applying to 15–20 Jobs a Day](https://dev.to/iamutkarshyadav/i-built-a-resume-ats-tool-after-applying-to-15-20-jobs-a-day-5606)
-- [Do You Need to Understand AI-Generated Code?](https://dev.to/sathishvk/do-you-need-to-understand-ai-generated-code-1man)
-- [Accelerating DX in Dubai: Top 10 App Dev Firms to Watch](https://dev.to/mabualzait/accelerating-dx-in-dubai-top-10-app-dev-firms-to-watch-33c2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
