@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My First Flow with Kestra.io](https://dev.to/missamarakay/my-first-flow-with-kestraio-31g9)
-- [Compute Containers](https://dev.to/gansvv/compute-containers-4ika)
-- [YuMe - Miles apart, moments together](https://dev.to/ktr00/yume-miles-apart-moments-together-13j2)
-- [USB-C, Power Delivery &lpar;PD&rpar; &amp; GaN — Explained Simply](https://dev.to/bijalparekh/usb-c-power-delivery-pd-gan-explained-simply-25m3)
-- [Web3&#39;s Original Sin: Why &quot;Trustless&quot; Systems Can&#39;t Escape Centralized Access Points](https://dev.to/zeroblind25/web3s-original-sin-why-trustless-systems-cant-escape-centralized-access-points-20en)
+- [Server headers that talk too much](https://dev.to/liudasjan/server-headers-that-talk-too-much-10kp)
+- [How Electronic Circuits Actually Work — From Electrons to Modern Computing](https://dev.to/cristiansifuentes/how-electronic-circuits-actually-work-from-electrons-to-modern-computing-3e0p)
+- [Day 3 of 100](https://dev.to/palakhirave/day-3-of-100-453i)
+- [How Computers and Phones Actually Boot — From Power Button to Operating System](https://dev.to/cristiansifuentes/how-computers-and-phones-actually-boot-from-power-button-to-operating-system-5576)
+- [Accessibility: Building Inclusive Experiences | A Lens on Basic A11y Testing](https://dev.to/niharikapujari/accessibility-building-inclusive-experiences-a-lens-on-basic-a11y-testing-30g6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
