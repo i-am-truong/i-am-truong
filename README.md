@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your Personal Data Economy And How To Shrink It](https://dev.to/gw-jeni-systems/your-personal-data-economy-and-how-to-shrink-it-2fb5)
-- [Solved: I built an automated Talos + Proxmox + GitOps homelab starter &lpar;ArgoCD + Workflows + DR&rpar;](https://dev.to/techresolve/solved-i-built-an-automated-talos-proxmox-gitops-homelab-starter-argocd-workflows-dr-1ekb)
-- [Finite Fields - The Hidden Math Powering Blockchains](https://dev.to/caleb_olusola/finite-fields-the-hidden-math-powering-blockchains-31dm)
-- [Day 38 of improving my Data Science skills](https://dev.to/sp_the_data_specialist/day-38-of-improving-my-data-science-skills-4l0e)
-- [Solved: Fixing Netflix&#39;s Annoying Auto-Play with React&#39;s new &lt;Activity /&gt;](https://dev.to/techresolve/solved-fixing-netflixs-annoying-auto-play-with-reacts-new-bdm)
+- [The Power of Compliance: How Kalshi Turned Prediction Markets into a $11 Billion Legitimate Business](https://dev.to/apnews/the-power-of-compliance-how-kalshi-turned-prediction-markets-into-a-11-billion-legitimate-business-3l48)
+- [Tech Horror Codex: Technical Debt](https://dev.to/narnaiezzsshaa/tech-horror-codex-technical-debt-o16)
+- [Roulette-wheel selection via stochastic acceptance](https://dev.to/paperium/roulette-wheel-selection-via-stochastic-acceptance-3kci)
+- [🚀 NestJS + RedisOM: Taking State Management to the Next Level](https://dev.to/alpha018/nestjs-redisom-taking-state-management-to-the-next-level-5gli)
+- [I Went From $47 to Paying Rent - Here&#39;s What Actually Works for Student Income](https://dev.to/short_playskits_ab152535/i-went-from-47-to-paying-rent-heres-what-actually-works-for-student-income-594b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
