@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop Debugging by Hand: I Built a Real-Time Linked List Visualizer](https://dev.to/rushedcomet/stop-debugging-by-hand-i-built-a-real-time-linked-list-visualizer-2hjm)
+- [Secure Integration of Twilio, Zapier, and Railway for Compliance and Data Unification](https://dev.to/callstacktech/secure-integration-of-twilio-zapier-and-railway-for-compliance-and-data-unification-334d)
 - [🚀 VanillaJS Sushi Animated Website | Built with Vite &amp; JavaScript](https://dev.to/reactjsguru/vanillajs-sushi-animated-website-built-with-vite-javascript-41k)
+- [Stop Debugging by Hand: I Built a Real-Time Linked List Visualizer](https://dev.to/rushedcomet/stop-debugging-by-hand-i-built-a-real-time-linked-list-visualizer-2hjm)
 - [Announcing IshvaraX — A Deep-Tech Startup at the Intersection of Neuroscience and AI](https://dev.to/vivek09thakur/announcing-ishvarax-a-deep-tech-startup-at-the-intersection-of-neuroscience-and-ai-1i02)
 - [ByteSize Bios , Big Stories in Small Bytes](https://dev.to/homayounmmdy/bytesize-bios-big-stories-in-small-bytes-2amf)
-- [Partnership- How to make collab on Upwork?](https://dev.to/chocomastery/partnership-how-to-make-collab-on-upwork-50c9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
