@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Game Dev Digest — Issue #312 - New Year, New Ways, and more](https://dev.to/gamedevdigest/game-dev-digest-issue-312-new-year-new-ways-and-more-3nhh)
-- [Secure Integration of Twilio, Zapier, and Railway for Compliance and Data Unification](https://dev.to/callstacktech/secure-integration-of-twilio-zapier-and-railway-for-compliance-and-data-unification-334d)
-- [Deep Neuroevolution: Genetic Algorithms Are a Competitive Alternative forTraining Deep Neural Networks for Reinforcement Learnin](https://dev.to/paperium/deep-neuroevolution-genetic-algorithms-are-a-competitive-alternative-fortraining-deep-neural-275c)
-- [Stop Debugging by Hand: I Built a Real-Time Linked List Visualizer](https://dev.to/rushedcomet/stop-debugging-by-hand-i-built-a-real-time-linked-list-visualizer-2hjm)
-- [🚀 VanillaJS Sushi Animated Website | Built with Vite &amp; JavaScript](https://dev.to/reactjsguru/vanillajs-sushi-animated-website-built-with-vite-javascript-41k)
+- [The Great Decoupling: The End of Frozen Interactions](https://dev.to/gd-tech-guru/the-great-decoupling-the-end-of-frozen-interactions-48f2)
+- [How we built an AI to beat the &quot;Resume Bots&quot; &lpar;ATS&rpar;](https://dev.to/irtiqa_hub/how-we-built-an-ai-to-beat-the-resume-bots-ats-3e44)
+- [Day 2: Untill I Get Google Internship](https://dev.to/sugunadithya/day-2-untill-i-get-google-internship-23ok)
+- [Identify AWS Access Management Capabilities](https://dev.to/aws-builders/identify-aws-access-management-capabilities-1nk7)
+- [Day 4: What I Learned Letting AI Run My Website Autonomously](https://dev.to/emptychairdev/day-4-what-i-learned-letting-ai-run-my-website-autonomously-199g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
