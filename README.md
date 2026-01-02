@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Technically Approved, Still Rejected: The Feedback Gap in Hiring](https://dev.to/mekobgs/technically-approved-still-rejected-the-feedback-gap-in-hiring-hbb)
-- [COPY FROM Exploits: When PostgreSQL Reads Your Filesystem](https://dev.to/ofri-peretz/copy-from-exploits-when-postgresql-reads-your-filesystem-127a)
-- [What Is an Operating System? — The Silent Architect Behind Every Device](https://dev.to/cristiansifuentes/what-is-an-operating-system-the-silent-architect-behind-every-device-4486)
-- [Building Pangolin: My Holiday Break, an AI IDE, and a Lakehouse Catalog for the Curious](https://dev.to/alexmercedcoder/building-pangolin-my-holiday-break-an-ai-ide-and-a-lakehouse-catalog-for-the-curious-1fbm)
-- [Why “Small Environments” Help You Keep Writing &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/why-small-environments-help-you-keep-writing-bite-size-article-35ka)
+- [I built a tiny invoice generator because I didn’t want a SaaS for one invoice](https://dev.to/block_hacks/i-built-a-tiny-invoice-generator-because-i-didnt-want-a-saas-for-one-invoice-153a)
+- [3. Longest Substring Without Repeating Characters | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/3-longest-substring-without-repeating-characters-leetcode-top-interview-150-coding-questions-1jp4)
+- [Week 7 from 40 – Making AI Features Feel Real](https://dev.to/digeratis/-week-7-from-40-making-ai-features-feel-real-4a2k)
+- [How do I become a admin on steal a brain rot can everyone help me out](https://dev.to/brettjunior_andrews_435e/how-do-i-become-a-admin-on-steal-a-brain-rot-can-everyone-help-me-out-1ogn)
+- [How do I become a admin on steal a brain rot](https://dev.to/brettjunior_andrews_435e/how-do-i-become-a-admin-on-steal-a-brain-rot-j88)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
