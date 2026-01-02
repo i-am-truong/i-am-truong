@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Full stack DevOps Lab](https://dev.to/onyemuche/full-stack-devops-lab-4hpf)
+- [¡Respaldo seguro y eficiente: Usando Azure Blob Storage para proteger tus datos!](https://dev.to/danieljsaldana/respaldo-seguro-y-eficiente-usando-azure-blob-storage-para-proteger-tus-datos-1ip5)
+- [Built a Modern, Mobile Friendly React Playground](https://dev.to/bralekfn/built-a-modern-mobile-friendly-react-playground-3g1k)
+- [Kicking Off &#39;26: The Ultimate World Cup Preview](https://dev.to/mabualzait/kicking-off-26-the-ultimate-world-cup-preview-2b8j)
 - [How the Internet Works — From a Single Message to the Global Network](https://dev.to/cristiansifuentes/how-the-internet-works-from-a-single-message-to-the-global-network-1g6f)
-- [2025 Was the Year of Fast AI, 2026 Will Be the Year of AI Quality](https://dev.to/msnmongare/2025-was-the-year-of-fast-ai-2026-will-be-the-year-of-ai-quality-2197)
-- [I built a tiny invoice generator because I didn’t want a SaaS for one invoice](https://dev.to/block_hacks/i-built-a-tiny-invoice-generator-because-i-didnt-want-a-saas-for-one-invoice-153a)
-- [Week 7 from 40 – Making AI Features Feel Real](https://dev.to/digeratis/-week-7-from-40-making-ai-features-feel-real-4a2k)
-- [How do I become a admin on steal a brain rot can everyone help me out](https://dev.to/brettjunior_andrews_435e/how-do-i-become-a-admin-on-steal-a-brain-rot-can-everyone-help-me-out-1ogn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
