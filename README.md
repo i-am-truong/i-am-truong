@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Burp Suite Bambdas: Unlocking Advanced Automation for the Web](https://dev.to/cyberpath/mastering-burp-suite-bambdas-unlocking-advanced-automation-for-the-web-54d8)
-- [Just finished version 1.0 of jellytool!](https://dev.to/chloe_stratton_4965babc4c/just-finished-version-10-of-jellytool-18e3)
-- [FileMate Explorer Pro: A Modern Python File Explorer with Tkinter](https://dev.to/matetechnologie/filemate-explorer-pro-a-modern-python-file-explorer-with-tkinter-4o04)
-- [Orbis: Building a Modern Plugin-Driven Desktop Platform](https://dev.to/cyberpath/orbis-building-a-modern-plugin-driven-desktop-platform-3dfa)
-- [1.Describe the Python Selenium architecture in detail 2.What is the significance of the Python Virtual Environment ?.....](https://dev.to/ritik_kumarsingh_3632c2d/1describe-the-python-selenium-architecture-in-detail-2what-is-the-significance-of-the-python-3jap)
+- [Advanced Threat Hunting Techniques: Part 1](https://dev.to/cyberpath/advanced-threat-hunting-techniques-part-1-14b4)
+- [Advanced Threat Hunting Techniques: Part 2](https://dev.to/cyberpath/advanced-threat-hunting-techniques-part-2-3eil)
+- [APTs: Defense Strategies and Mitigation Techniques](https://dev.to/cyberpath/apts-defense-strategies-and-mitigation-techniques-1ega)
+- [Building a Secure Home Lab: A Complete Guide](https://dev.to/cyberpath/building-a-secure-home-lab-a-complete-guide-3jfn)
+- [How to Reduce AI Dependency While Still Using It Daily](https://dev.to/jamespatterson25/how-to-reduce-ai-dependency-while-still-using-it-daily-29e2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
