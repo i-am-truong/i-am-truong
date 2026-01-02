@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [2025 Was About Chatbots. 2026 Is About Agents. Here&#39;s the Difference.](https://dev.to/inboryn_99399f96579fcd705/2025-was-about-chatbots-2026-is-about-agents-heres-the-difference-426f)
 - [kheAI: Reclaiming Health Sovereignty with AI-Powered Urban Bio-Factories](https://dev.to/kheai/kheai-reclaiming-health-sovereignty-with-ai-powered-urban-bio-factories-3l29)
 - [Beyond Prompts: How Hybrid LLM-Graph Planning Builds Truly Autonomous AI Agents](https://dev.to/shoaibalimir/beyond-prompts-how-hybrid-llm-graph-planning-builds-truly-autonomous-ai-agents-7gd)
 - [-&gt;&gt; Day-13 Terraform Data Source AWS](https://dev.to/amit_kumar_7db8e36a64dd45/-day-13-terraform-data-source-aws-4ekg)
 - [How I built an AI Video Clipper with Next.js, N8N, and Python &lpar;Microservices Architecture&rpar;](https://dev.to/suryaelz/how-i-built-an-ai-video-clipper-with-nextjs-n8n-and-python-microservices-architecture-2e0g)
-- [Effection Scope: Resource Lifetimes and Cleanup](https://dev.to/joshuaamaju/effection-scope-resource-lifetimes-and-cleanup-3134)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
