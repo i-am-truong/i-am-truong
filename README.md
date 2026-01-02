@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Best Budget Sex Machines Under 1000 Dollars for Maximum Pleasure in 2026](https://dev.to/hannahblackwell/best-budget-sex-machines-under-1000-dollars-for-maximum-pleasure-in-2026-2a3f)
-- [Learning with freeCodeCamp](https://dev.to/richardpascoe/learning-with-freecodecamp-8f1)
-- [End-to-End Automation: Why IDP Is the Backbone of Intelligent Workflows](https://dev.to/mansa_solapur_7d35e28c840/end-to-end-automation-why-idp-is-the-backbone-of-intelligent-workflows-5fgb)
-- [Automating CloudWatch Orphan Alarm Detection: A Production-Ready Solution](https://dev.to/prashantgupta123/automating-cloudwatch-orphan-alarm-detection-a-production-ready-solution-5egn)
-- [Critical privilege escalation flaw in Apache StreamPipes allows admin takeover](https://dev.to/beyondmachines/critical-privilege-escalation-flaw-in-apache-streampipes-allows-admin-takeover-40ke)
+- [What Every Programmer Should Know About Memory Part 3](https://dev.to/hamzahassanain0/what-every-programmer-should-know-about-memory-part-3-2i6k)
+- [I Built a Free EMI Calculator Focused on Clarity &lpar;Not Ads&rpar;](https://dev.to/roman_singh_a88e2bb48696a/i-built-a-free-emi-calculator-focused-on-clarity-not-ads-4dei)
+- [Solved: Real world testimonies on Palo Alto/Check Point/Fortinet?](https://dev.to/techresolve/solved-real-world-testimonies-on-palo-altocheck-pointfortinet-21en)
+- [Solved: Anyone here specialized in Meta ads?](https://dev.to/techresolve/solved-anyone-here-specialized-in-meta-ads-1fp2)
+- [Documentation is a productivity problem &lpar;and AI made it visible&rpar;](https://dev.to/synthaicode_commander/documentation-is-a-productivity-problem-and-ai-made-it-visible-53g3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
