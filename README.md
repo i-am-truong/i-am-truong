@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Power of Compliance: How Kalshi Turned Prediction Markets into a $11 Billion Legitimate Business](https://dev.to/apnews/the-power-of-compliance-how-kalshi-turned-prediction-markets-into-a-11-billion-legitimate-business-3l48)
-- [Tech Horror Codex: Technical Debt](https://dev.to/narnaiezzsshaa/tech-horror-codex-technical-debt-o16)
-- [Roulette-wheel selection via stochastic acceptance](https://dev.to/paperium/roulette-wheel-selection-via-stochastic-acceptance-3kci)
-- [🚀 NestJS + RedisOM: Taking State Management to the Next Level](https://dev.to/alpha018/nestjs-redisom-taking-state-management-to-the-next-level-5gli)
-- [I Went From $47 to Paying Rent - Here&#39;s What Actually Works for Student Income](https://dev.to/short_playskits_ab152535/i-went-from-47-to-paying-rent-heres-what-actually-works-for-student-income-594b)
+- [We’re Opening Our Google Cloud Infrastructure to Researchers, Healthcare Teams &amp; Builders](https://dev.to/davidos366/were-opening-our-google-cloud-infrastructure-to-researchers-healthcare-teams-builders-ab4)
+- [🚀_Ultimate_Web_Framework_Speed_Showdown[20260102032534]](https://dev.to/member_6331818c/ultimatewebframeworkspeedshowdown20260102032534-477c)
+- [Where Predictive Analytics, Demand Forecasting &amp; AI Inventory Transform Supply Chain Success](https://dev.to/softwarerbm/where-predictive-analytics-demand-forecasting-ai-inventory-transform-supply-chain-success-1oa2)
+- [Why I’m Betting on React Native in 2026 After 13 Years of Mobile Development](https://dev.to/kazutoyo/why-im-betting-on-react-native-in-2026-after-13-years-of-mobile-development-1l87)
+- [CVE-2025-64500: Incorrect parsing of PATH_INFO can lead to limited authorization bypass - Laravel 11.47.0](https://dev.to/aspsptyd/cve-2025-64500-incorrect-parsing-of-pathinfo-can-lead-to-limited-authorization-bypass-laravel-287c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
