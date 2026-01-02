@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Advent of Code: What&#39;s the difference between a strip club and a ballet studio?](https://dev.to/rkeeves/advent-of-code-whats-the-difference-between-a-strip-club-and-a-ballet-studio-135m)
-- [AI in Guyana: What Is It, Where We Already Use It, and Why It Matters](https://dev.to/xbze3/ai-in-guyana-what-is-it-where-we-already-use-it-and-why-it-matters-2820)
-- [I Analyzed 4.78M HN Items to Create an Interactive 2025 Infographic](https://dev.to/andrey_andrade_7a534cfc95/i-analyzed-478m-hn-items-to-create-an-interactive-2025-infographic-nm6)
-- [chatfaster, building ai chat saas, multi-llm chat app development -...](https://dev.to/ash_dubai/chatfaster-building-ai-chat-saas-multi-llm-chat-app-development--4ipd)
-- [🔒_Security_Performance_Balance[20260102183741]](https://dev.to/member_6331818c/securityperformancebalance20260102183741-4ai4)
+- [209. Minimum Size Subarray Sum | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/209-minimum-size-subarray-sum-leetcode-top-interview-150-coding-questions-471l)
+- [Surviving Breaking Changes in Evolving C# APIs, Hard Lessons and Practical Strategies for .NET Devs](https://dev.to/saber-amani/surviving-breaking-changes-in-evolving-c-apis-hard-lessons-and-practical-strategies-for-net-devs-2g5p)
+- [Side Projects and AI](https://dev.to/shubhambattoo/side-projects-and-ai-3njg)
+- [building ai chat saas, multi-llm chat app development, chatfaster -...](https://dev.to/ash_dubai/building-ai-chat-saas-multi-llm-chat-app-development-chatfaster--e9g)
+- [Understanding LLM vs generative AI for Your 2026 Tech Stack](https://dev.to/ash_dubai/understanding-llm-vs-generative-ai-for-your-2026-tech-stack-1agh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
