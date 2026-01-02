@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Parallax: A Trust &amp; Transparency Utility for Ubuntu Touch](https://dev.to/prasanthj/building-parallax-a-trust-transparency-utility-for-ubuntu-touch-2h44)
-- [7 Signs You’re Learning AI “Wide” but Not “Deep”](https://dev.to/luketaylor25/7-signs-youre-learning-ai-wide-but-not-deep-53e5)
-- [Google Cloud Training in 2026: The Ultimate Certification Roadmap](https://dev.to/tech_croc_f32fbb6ea8ed4/google-cloud-training-in-2026-the-ultimate-certification-roadmap-2a0n)
-- [Reflecting on 2025: Author Debut, New Horizons, and Milestones](https://dev.to/aerabi/reflecting-on-2025-author-debut-new-horizons-and-milestones-2md9)
-- [What Caring for an Aging Parent Taught Me](https://dev.to/laurabennettcaring/what-caring-for-an-aging-parent-taught-me-544n)
+- [How to Expose Your Local Server to the Internet &lpar;Without Port Forwarding&rpar;](https://dev.to/mrviduus/how-to-expose-your-local-server-to-the-internet-without-port-forwarding-3f3h)
+- [HRT Journey Tracker — Dev Suite](https://dev.to/codebunny20/hrt-journey-tracker-dev-suite-4gn9)
+- [Building Serverless Microservices on AWS with ECS Fargate, ECR, and Terraform](https://dev.to/aws-builders/building-serverless-microservices-on-aws-with-ecs-fargate-ecr-and-terraform-4ocm)
+- [Secure Serverless with HashiCorp Vault and Lambda: Dynamic Database Credentials](https://dev.to/aws-builders/secure-serverless-with-hashicorp-vault-and-lambda-dynamic-database-credentials-1dhj)
+- [Best Practices for Securing Cloud Infrastructure in Enterprise Environments](https://dev.to/shubhamthakoredev/best-practices-for-securing-cloud-infrastructure-in-enterprise-environments-2d2e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
