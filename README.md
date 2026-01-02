@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Advent of Code: What&#39;s the difference between a strip club and a ballet studio?](https://dev.to/rkeeves/advent-of-code-whats-the-difference-between-a-strip-club-and-a-ballet-studio-135m)
+- [AI in Guyana: What Is It, Where We Already Use It, and Why It Matters](https://dev.to/xbze3/ai-in-guyana-what-is-it-where-we-already-use-it-and-why-it-matters-2820)
+- [I Analyzed 4.78M HN Items to Create an Interactive 2025 Infographic](https://dev.to/andrey_andrade_7a534cfc95/i-analyzed-478m-hn-items-to-create-an-interactive-2025-infographic-nm6)
 - [chatfaster, building ai chat saas, multi-llm chat app development -...](https://dev.to/ash_dubai/chatfaster-building-ai-chat-saas-multi-llm-chat-app-development--4ipd)
 - [🔒_Security_Performance_Balance[20260102183741]](https://dev.to/member_6331818c/securityperformancebalance20260102183741-4ai4)
-- [Most AI No-Code Tools Build Demos. I Built FoundersKit to Build Startups](https://dev.to/ritesh_hiremath_eb6abb681/most-ai-no-code-tools-build-demos-i-built-founderskit-to-build-startups-2nkh)
-- [1Password Breaks Syntax Highlighting On The Internet](https://dev.to/hacksore/1password-breaks-syntax-highlighting-on-the-internet-18j6)
-- [How I built Upple: A modern uptime monitor with Go and React](https://dev.to/khiman/how-i-built-upple-a-modern-uptime-monitor-with-go-and-react-iac)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
