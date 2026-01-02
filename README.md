@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Server headers that talk too much](https://dev.to/liudasjan/server-headers-that-talk-too-much-10kp)
-- [How Electronic Circuits Actually Work — From Electrons to Modern Computing](https://dev.to/cristiansifuentes/how-electronic-circuits-actually-work-from-electrons-to-modern-computing-3e0p)
-- [Day 3 of 100](https://dev.to/palakhirave/day-3-of-100-453i)
-- [How Computers and Phones Actually Boot — From Power Button to Operating System](https://dev.to/cristiansifuentes/how-computers-and-phones-actually-boot-from-power-button-to-operating-system-5576)
-- [Accessibility: Building Inclusive Experiences | A Lens on Basic A11y Testing](https://dev.to/niharikapujari/accessibility-building-inclusive-experiences-a-lens-on-basic-a11y-testing-30g6)
+- [SMM Panel Security Basics: 10 Must‑Follow Practices &lpar;with PHP Examples&rpar;](https://dev.to/techdude/smm-panel-security-basics-10-must-follow-practices-with-php-examples-cpi)
+- [Stop Begging for Feedback: Why &quot;Silent Signals&quot; Are the Future of AI Learning](https://dev.to/mosiddi/stop-begging-for-feedback-why-silent-signals-are-the-future-of-ai-learning-40jp)
+- [Postbear: The Postman alternative in your terminal](https://dev.to/carban/postbear-the-postman-alternative-in-your-terminal-ia2)
+- [Package a django app](https://dev.to/erlan_akbar/package-a-django-app-of5)
+- [Leveraging Demonstrations for Deep Reinforcement Learning on Robotics Problemswith Sparse Rewards](https://dev.to/paperium/leveraging-demonstrations-for-deep-reinforcement-learning-on-robotics-problemswith-sparse-rewards-22fi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
