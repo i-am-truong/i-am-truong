@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Threat Intelligence Automation with AI/ML](https://dev.to/cyberpath/threat-intelligence-automation-with-aiml-1i81)
+- [Building an MCP Server: How We Connected DiskCleanKit to AI Assistants](https://dev.to/diskcleankit/building-an-mcp-server-how-we-connected-diskcleankit-to-ai-assistants-222e)
 - [What Every Programmer Should Know About Memory Part 3](https://dev.to/hamzahassanain0/what-every-programmer-should-know-about-memory-part-3-2i6k)
 - [I Built a Free EMI Calculator Focused on Clarity &lpar;Not Ads&rpar;](https://dev.to/roman_singh_a88e2bb48696a/i-built-a-free-emi-calculator-focused-on-clarity-not-ads-4dei)
 - [Solved: Real world testimonies on Palo Alto/Check Point/Fortinet?](https://dev.to/techresolve/solved-real-world-testimonies-on-palo-altocheck-pointfortinet-21en)
-- [Solved: Anyone here specialized in Meta ads?](https://dev.to/techresolve/solved-anyone-here-specialized-in-meta-ads-1fp2)
-- [Documentation is a productivity problem &lpar;and AI made it visible&rpar;](https://dev.to/synthaicode_commander/documentation-is-a-productivity-problem-and-ai-made-it-visible-53g3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
