@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AdForge AI - Enterprise Visual Production Platform](https://dev.to/omkar598/adforge-ai-enterprise-visual-production-platform-3mfd)
+- [How SEO Can Make or Break Your Online Store &lpar;2026 Edition&rpar;](https://dev.to/priya_dharshini_b30d11c20/how-seo-can-make-or-break-your-online-store-2026-edition-1j55)
+- [Advent of Cyber 2025 Day 13-20 Writeup Sprint! | TryHackMe](https://dev.to/mahin101/advent-of-cyber-2025-day-13-20-writeup-sprint-tryhackme-379a)
+- [Architecting Real World Assets &lpar;RWA&rpar;: The Tech Stack Behind Dubai&#39;s Tokenization Boom](https://dev.to/emirates_crypto_bank/architecting-real-world-assets-rwa-the-tech-stack-behind-dubais-tokenization-boom-21ak)
 - [2025 Was About Chatbots. 2026 Is About Agents. Here&#39;s the Difference.](https://dev.to/inboryn_99399f96579fcd705/2025-was-about-chatbots-2026-is-about-agents-heres-the-difference-426f)
-- [kheAI: Reclaiming Health Sovereignty with AI-Powered Urban Bio-Factories](https://dev.to/kheai/kheai-reclaiming-health-sovereignty-with-ai-powered-urban-bio-factories-3l29)
-- [Beyond Prompts: How Hybrid LLM-Graph Planning Builds Truly Autonomous AI Agents](https://dev.to/shoaibalimir/beyond-prompts-how-hybrid-llm-graph-planning-builds-truly-autonomous-ai-agents-7gd)
-- [-&gt;&gt; Day-13 Terraform Data Source AWS](https://dev.to/amit_kumar_7db8e36a64dd45/-day-13-terraform-data-source-aws-4ekg)
-- [How I built an AI Video Clipper with Next.js, N8N, and Python &lpar;Microservices Architecture&rpar;](https://dev.to/suryaelz/how-i-built-an-ai-video-clipper-with-nextjs-n8n-and-python-microservices-architecture-2e0g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
