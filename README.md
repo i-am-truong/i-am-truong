@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Part 7: Gold Layer – Metrics, Watermarks, and Aggregations](https://dev.to/ktnl/part-7-gold-layer-metrics-watermarks-and-aggregations-1jcm)
-- [Part 6: Silver Layer – Cleansing, Enrichment, and Dimensions](https://dev.to/ktnl/part-6-silver-layer-cleansing-enrichment-and-dimensions-ff3)
-- [Part 5: Building a ZIP Code Dimension Table](https://dev.to/ktnl/part-5-building-a-zip-code-dimension-table-1him)
-- [EHR Integration Solutions That Use Blockchain to Prevent Data Breaches](https://dev.to/kunal_chouhan_c6cf43d4af1/ehr-integration-solutions-that-use-blockchain-to-prevent-data-breaches-45if)
-- [Part 4: Building the Bronze Layer with Auto Loader and Delta Lake](https://dev.to/ktnl/part-4-building-the-bronze-layer-with-auto-loader-and-delta-lake-31ih)
+- [kheAI: Reclaiming Health Sovereignty with AI-Powered Urban Bio-Factories](https://dev.to/kheai/kheai-reclaiming-health-sovereignty-with-ai-powered-urban-bio-factories-3l29)
+- [Beyond Prompts: How Hybrid LLM-Graph Planning Builds Truly Autonomous AI Agents](https://dev.to/shoaibalimir/beyond-prompts-how-hybrid-llm-graph-planning-builds-truly-autonomous-ai-agents-7gd)
+- [-&gt;&gt; Day-13 Terraform Data Source AWS](https://dev.to/amit_kumar_7db8e36a64dd45/-day-13-terraform-data-source-aws-4ekg)
+- [How I built an AI Video Clipper with Next.js, N8N, and Python &lpar;Microservices Architecture&rpar;](https://dev.to/suryaelz/how-i-built-an-ai-video-clipper-with-nextjs-n8n-and-python-microservices-architecture-2e0g)
+- [Effection Scope: Resource Lifetimes and Cleanup](https://dev.to/joshuaamaju/effection-scope-resource-lifetimes-and-cleanup-3134)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
