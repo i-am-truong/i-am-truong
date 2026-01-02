@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Advanced Threat Hunting Techniques: Part 1](https://dev.to/cyberpath/advanced-threat-hunting-techniques-part-1-14b4)
-- [Advanced Threat Hunting Techniques: Part 2](https://dev.to/cyberpath/advanced-threat-hunting-techniques-part-2-3eil)
-- [APTs: Defense Strategies and Mitigation Techniques](https://dev.to/cyberpath/apts-defense-strategies-and-mitigation-techniques-1ega)
-- [Building a Secure Home Lab: A Complete Guide](https://dev.to/cyberpath/building-a-secure-home-lab-a-complete-guide-3jfn)
-- [How to Reduce AI Dependency While Still Using It Daily](https://dev.to/jamespatterson25/how-to-reduce-ai-dependency-while-still-using-it-daily-29e2)
+- [Building Parallax: A Trust &amp; Transparency Utility for Ubuntu Touch](https://dev.to/prasanthj/building-parallax-a-trust-transparency-utility-for-ubuntu-touch-2h44)
+- [7 Signs You’re Learning AI “Wide” but Not “Deep”](https://dev.to/luketaylor25/7-signs-youre-learning-ai-wide-but-not-deep-53e5)
+- [Google Cloud Training in 2026: The Ultimate Certification Roadmap](https://dev.to/tech_croc_f32fbb6ea8ed4/google-cloud-training-in-2026-the-ultimate-certification-roadmap-2a0n)
+- [Reflecting on 2025: Author Debut, New Horizons, and Milestones](https://dev.to/aerabi/reflecting-on-2025-author-debut-new-horizons-and-milestones-2md9)
+- [What Caring for an Aging Parent Taught Me](https://dev.to/laurabennettcaring/what-caring-for-an-aging-parent-taught-me-544n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
