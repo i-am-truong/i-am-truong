@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Stop Manually Tracing Azure Synapse Dependencies](https://dev.to/chrhiswagat/stop-manually-tracing-azure-synapse-dependencies-p2e)
 - [GPUs: Graphics and AI Processors — From Pixels to Intelligence](https://dev.to/cristiansifuentes/gpus-graphics-and-ai-processors-from-pixels-to-intelligence-4kl4)
 - [Phones and Their System on a Chip &lpar;SoC&rpar; — The Hidden Engine of Modern Devices](https://dev.to/cristiansifuentes/phones-and-their-system-on-a-chip-soc-the-hidden-engine-of-modern-devices-27oh)
 - [Building Cryptographic Audit Trails for cTrader cBots - A Sidecar Approach](https://dev.to/veritaschain/building-cryptographic-audit-trails-for-ctrader-cbots-a-sidecar-approach-3785)
 - [2026-01-02 Daily Robotics News](https://dev.to/dan_ledger_ce2886f0037972/2026-01-02-daily-robotics-news-4547)
-- [How We Designed Abuse Prevention Without User Accounts in an Anonymous Chat App](https://dev.to/vibetalk_51a1a0b171d67095/how-we-designed-abuse-prevention-without-user-accounts-in-an-anonymous-chat-app-5gp5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
