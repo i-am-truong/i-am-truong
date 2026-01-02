@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SMM Panel Security Basics: 10 Must‑Follow Practices &lpar;with PHP Examples&rpar;](https://dev.to/techdude/smm-panel-security-basics-10-must-follow-practices-with-php-examples-cpi)
-- [Stop Begging for Feedback: Why &quot;Silent Signals&quot; Are the Future of AI Learning](https://dev.to/mosiddi/stop-begging-for-feedback-why-silent-signals-are-the-future-of-ai-learning-40jp)
-- [Postbear: The Postman alternative in your terminal](https://dev.to/carban/postbear-the-postman-alternative-in-your-terminal-ia2)
-- [Package a django app](https://dev.to/erlan_akbar/package-a-django-app-of5)
-- [Leveraging Demonstrations for Deep Reinforcement Learning on Robotics Problemswith Sparse Rewards](https://dev.to/paperium/leveraging-demonstrations-for-deep-reinforcement-learning-on-robotics-problemswith-sparse-rewards-22fi)
+- [Building Pangolin: My Holiday Break, an AI IDE, and a Lakehouse Catalog for the Curious](https://dev.to/alexmercedcoder/building-pangolin-my-holiday-break-an-ai-ide-and-a-lakehouse-catalog-for-the-curious-1fbm)
+- [Why “Small Environments” Help You Keep Writing &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/why-small-environments-help-you-keep-writing-bite-size-article-35ka)
+- [Lightweight ETL with AWS Lambda, chDB, and PyIceberg &lpar;Compared with DuckDB&rpar;](https://dev.to/aws-builders/lightweight-etl-with-aws-lambda-chdb-and-pyiceberg-compared-with-duckdb-2coo)
+- [Ng-News: Angular in 2025](https://dev.to/this-is-angular/ng-news-angular-in-2025-307a)
+- [Heapify Down: How to Trace Each Swap Without Getting Lost](https://dev.to/alex_hunter_44f4c9ed6671e/heapify-down-how-to-trace-each-swap-without-getting-lost-gpm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
