@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Get Hit By Performance Bottleneck In Canvas](https://dev.to/ikhwanal/get-hit-by-performance-bottleneck-in-canvas-5che)
-- [🚀 Building the Best SQL-Backed Job Queue with WJb and UkrGuru.Sql in .NET](https://dev.to/ukrguru/building-the-best-sql-backed-job-queue-with-wjb-and-ukrgurusql-in-net-3nnm)
-- [How Netflix Streams to Millions Globally: A Technical Masterclass in Resilience, Scale, and Systematic Failure](https://dev.to/siddharthbhalsod/how-netflix-streams-to-millions-globally-a-technical-masterclass-in-resilience-scale-and-31n5)
-- [Why Refactoring AWS Infrastructure Taught Me More Than Building It](https://dev.to/adil_khan_dc8aaf5632c369b/why-refactoring-aws-infrastructure-taught-me-more-than-building-it-3iml)
-- [I Built an i18n Library That Works with Rails/Laravel and React/Vue](https://dev.to/usapopopooon/i-built-an-i18n-library-that-works-with-railslaravel-and-reactvue-3db8)
+- [Vitest vs Jest 30: Why 2026 is the Year of Browser-Native Testing](https://dev.to/dataformathub/vitest-vs-jest-30-why-2026-is-the-year-of-browser-native-testing-2fgb)
+- [Why Most Side Projects Fail &lpar;And How to Avoid It&rpar;](https://dev.to/rushikesh_bodakhe_db28644/why-most-side-projects-fail-and-how-to-avoid-it-1hcf)
+- [I Built a URLSearchParams-Compliant Search Param Serializer for TanStack Router](https://dev.to/usapopopooon/i-built-a-urlsearchparams-compliant-search-param-serializer-for-tanstack-router-27le)
+- [Memo for type hints related posts in Python &lpar;1&rpar;](https://dev.to/hyperkai/memo-for-type-hints-related-posts-in-python-1-4902)
+- [Running a local LLM on my Laptop PC](https://dev.to/ben-santora/running-a-local-llm-on-my-laptop-pc-3fpf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
