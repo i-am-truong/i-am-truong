@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [itertools Workbook Added to Standard Library Learning Path](https://dev.to/hejhdiss/itertools-workbook-added-to-standard-library-learning-path-257h)
-- [Understanding YAML](https://dev.to/aniket_kuyate_15acc4e6587/understanding-yaml-45ck)
-- [Dua for Love Between Husband and Wife: Building Mercy, Peace, and Lasting Affection](https://dev.to/maulana_hafizurrahman_b3/dua-for-love-between-husband-and-wife-building-mercy-peace-and-lasting-affection-1jkb)
-- [Deploying PHP Web Applications with Amazon EC2 and Aurora MySQL 📦](https://dev.to/khushi_nandwani07/deploying-php-web-applications-with-amazon-ec2-and-aurora-mysql-40ck)
-- [Kubernetes Essentials](https://dev.to/copubah/kubernetes-essentials-4j74)
+- [I Built My Kids an AI Tutor in a Weekend. Then One Got 2 Extra Marks in French.](https://dev.to/darwesh_88/i-built-my-kids-an-ai-tutor-in-a-weekend-then-one-got-2-extra-marks-in-french-3759)
+- [I Built a Scalable Financial Transaction System That Stays Correct Under Load](https://dev.to/praval_parikh/i-built-a-scalable-financial-transaction-system-that-stays-correct-under-load-3b03)
+- [The .sort&lpar;&rpar; in React improved my understanding of State, Mutation, and Data Flow](https://dev.to/victorugs_dev/the-sort-in-react-improved-my-understanding-of-state-mutation-and-data-flow-4b8b)
+- [Open Source Programs You Can Join &lpar;and How They Help You Grow&rpar;](https://dev.to/coding_dev_/open-source-programs-you-can-join-and-how-they-help-you-grow-42jj)
+- [Vibe coding is great! But we don&#39;t need to build anything from scratch.](https://dev.to/gaupoit/vibe-coding-is-great-but-we-dont-need-to-build-anything-from-scratch-2adb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
