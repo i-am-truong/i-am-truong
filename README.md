@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [We don&#39;t do that here: How to Go the Go way - Part 1](https://dev.to/medunes/we-dont-do-that-here-how-to-go-the-go-way-part-1-25p7)
-- [Artificial Intelligence in Product Decision Making](https://dev.to/winslow/artificial-intelligence-in-product-decision-making-28e1)
-- [Why I Believe Real Learning Happens While Building Real Projects](https://dev.to/ansari_sultan/why-i-believe-real-learning-happens-while-building-real-projects-2b2p)
-- [My Cybersecurity Homelab: A Hands-On Journey into Defensive and Offensive Operations](https://dev.to/shynsec/my-cybersecurity-homelab-a-hands-on-journey-into-defensive-and-offensive-operations-2fa9)
-- [From Swagger to Tests: Building an AI-Powered API Test Generator with Python](https://dev.to/m4rri4nne/from-swagger-to-tests-building-an-ai-powered-api-test-generator-with-python-3mf8)
+- [Embedded Systems Programming &amp; IoT: How can I build my own Ryzen AI Max? 🤔](https://dev.to/javadinteger/embedded-systems-programming-iot-how-can-i-make-my-own-ryzen-ai-max-53m3)
+- [I built a Docker vulnerability scanner - Beta testers wanted!!!](https://dev.to/jake_e115018d1995da2050f6/i-built-a-docker-vulnerability-scanner-beta-testers-wanted-1lm0)
+- [Why setTimeout Returns an Object in Node.js &lpar;and Why setInterval Can Break Your App&rpar;](https://dev.to/silentwatcher_95/why-settimeout-returns-an-object-in-nodejs-and-why-setinterval-can-break-your-app-4jlj)
+- [Why I Built a Marketplace for Vibe-Coded Apps](https://dev.to/imran_hassan_df9c98d874de/why-i-built-a-marketplace-for-vibe-coded-apps-3gho)
+- [New Year, New You Portfolio Challenge - Samarth Shendre](https://dev.to/samarth28/new-year-new-you-portfolio-challenge-samarth-shendre-a30)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
