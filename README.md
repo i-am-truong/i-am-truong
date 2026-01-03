@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [سواعد احترافية](https://dev.to/adham_awad_3cbeaa747f9e21/swd-htrfy-5aao)
-- [Pixelcut Promo Code : &lpar;ARCH30&rpar; Get 10% Discount On Subscription Plan](https://dev.to/referral_code_ee61ef9548a/pixelcut-promo-code-arch30-get-10-discount-on-subscription-plan-27kk)
-- [Top MySQL and MariaDB backup tools in 2026](https://dev.to/dmetrovich/top-mysql-and-mariadb-backup-tools-in-2026-32ak)
-- [Ideamap AI Promo Code &lpar;ARCHA20&rpar; Unlock 15% Discount On All Plans](https://dev.to/referral_code_ee61ef9548a/ideamap-ai-promo-code-archa20-unlock-15-discount-on-all-plans-1ell)
-- [Lets Enhance Promo Code : &lpar;ARCH10&rpar; Get 10% Off On Subscription Plans](https://dev.to/referral_code_ee61ef9548a/lets-enhance-promo-code-arch10-get-10-off-on-subscription-plans-61a)
+- [Implementing Shell Sort: From Theory to Practical Code](https://dev.to/yumyum116/implementing-shell-sort-from-theory-to-practical-code-5bce)
+- [I built a &quot;VSCode-Exclusive&quot; BBS for Software Engineers using PocketBase](https://dev.to/y_s_k_n_s_n_/i-built-a-vscode-exclusive-bbs-for-software-engineers-using-pocketbase-5a5a)
+- [CARF Is Changing Crypto Forever: Why Traders Can No Longer Hide Behind Foreign Exchanges](https://dev.to/kpm_global/carf-is-changing-crypto-forever-why-traders-can-no-longer-hide-behind-foreign-exchanges-1egk)
+- [Terraform Stacks](https://dev.to/huzefaaa2/terraform-stacks-2ebg)
+- [NewType in Python](https://dev.to/hyperkai/newtype-in-python-p5f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
