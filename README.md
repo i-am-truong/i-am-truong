@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Brave Search MCP looks great on paper , how reliable is it in real workflows?](https://dev.to/deepika_n_417a1b69443e2bd/brave-search-mcp-looks-great-on-paper-how-reliable-is-it-in-real-workflows-1i1)
+- [DevOpsMind Deep-Dive](https://dev.to/infraforgelabs/devopsmind-deep-dive-3p4l)
+- [DevOpsMind v1.0.0: A CLI-First, Offline-First Way to Learn Real DevOps](https://dev.to/infraforgelabs/devopsmind-v100-a-cli-first-offline-first-way-to-learn-real-devops-3eog)
+- [Fitness App Architecture: How Asynchronous Processing Creates a Smoother User Experience](https://dev.to/wellallytech/fitness-app-architecture-how-asynchronous-processing-creates-a-smoother-user-experience-2pih)
 - [LeetCode DSA Series #2: 125. Valid Palindrome](https://dev.to/daveson217/leetcode-dsa-series-2-125-valid-palindrome-286b)
-- [🌐_Network_IO_Performance_Optimization[20260103040732]](https://dev.to/member_8659c28a/networkioperformanceoptimization20260103040732-o0n)
-- [I stopped writing separate maintenance scripts for each Linux distro. You can too.](https://dev.to/harery/i-stopped-writing-separate-maintenance-scripts-for-each-linux-distro-you-can-too-5gfk)
-- [Stop Writing Tests Manually](https://dev.to/satinathnit/stop-writing-tests-manually-47d)
-- [⚡_Real_Time_System_Performance_Optimization[20260103035335]](https://dev.to/member_6331818c/realtimesystemperformanceoptimization20260103035335-gc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
