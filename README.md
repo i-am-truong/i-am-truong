@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I stopped fighting AI and started shipping features 10x faster with Claude Code and Codex](https://dev.to/tigranbs/how-i-stopped-fighting-ai-and-started-shipping-features-10x-faster-with-claude-code-and-codex-218)
+- [Terminal setup for speed &amp; ease](https://dev.to/anisharaz/terminal-setup-for-speed-ease-4nd2)
 - [Why Auth0 email_verified Was Missing from My Access Token &lpar;And How to Fix It&rpar;](https://dev.to/anand_rathnas_d5b608cc3de/why-auth0-emailverified-was-missing-from-my-access-token-and-how-to-fix-it-e94)
 - [Terraform Guardrail MCP](https://dev.to/huzefaaa2/terraform-guardrail-mcp-2mjg)
 - [Rust Lifetimes Explained](https://dev.to/godofgeeks/rust-lifetimes-explained-1f9m)
-- [Jenkins CI/CD Project](https://dev.to/sushilbaligar/jenkins-cicd-project-4of3)
-- [Why are Unary Operators so Hard?](https://dev.to/ryan_bae_5bd7d40241e52c14/why-are-unary-operators-so-hard-48k8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
