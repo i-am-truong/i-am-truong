@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built My Kids an AI Tutor in a Weekend. Then One Got 2 Extra Marks in French.](https://dev.to/darwesh_88/i-built-my-kids-an-ai-tutor-in-a-weekend-then-one-got-2-extra-marks-in-french-3759)
-- [I Built a Scalable Financial Transaction System That Stays Correct Under Load](https://dev.to/praval_parikh/i-built-a-scalable-financial-transaction-system-that-stays-correct-under-load-3b03)
-- [The .sort&lpar;&rpar; in React improved my understanding of State, Mutation, and Data Flow](https://dev.to/victorugs_dev/the-sort-in-react-improved-my-understanding-of-state-mutation-and-data-flow-4b8b)
-- [Open Source Programs You Can Join &lpar;and How They Help You Grow&rpar;](https://dev.to/coding_dev_/open-source-programs-you-can-join-and-how-they-help-you-grow-42jj)
-- [Vibe coding is great! But we don&#39;t need to build anything from scratch.](https://dev.to/gaupoit/vibe-coding-is-great-but-we-dont-need-to-build-anything-from-scratch-2adb)
+- [Prime number](https://dev.to/seenu_seenu_1e97a9dd35e0c/prime-number-1lfl)
+- [Building a YouTube Automation System with Claude AI: From News to Shorts in Minutes](https://dev.to/trollz1004/building-a-youtube-automation-system-with-claude-ai-from-news-to-shorts-in-minutes-53a0)
+- [Building a &quot;Private Google&quot; with Local AI: A Beginner&#39;s Guide to Weaviate &amp; Ollama](https://dev.to/harishkotra/building-a-private-google-with-local-ai-a-beginners-guide-to-weaviate-ollama-3ck)
+- [Building a Modern Real Estate Website Demo with Next.js, TypeScript &amp; GSAP](https://dev.to/hashirkhan/building-a-modern-real-estate-website-demo-with-nextjs-typescript-gsap-8di)
+- [Zero-Knowledge Security: Protecting Patient Privacy Through Client-Side Encryption](https://dev.to/wellallytech/zero-knowledge-security-protecting-patient-privacy-through-client-side-encryption-2onm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
