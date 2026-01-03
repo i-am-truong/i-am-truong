@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I stopped fighting AI and started shipping features 10x faster with Claude Code and Codex](https://dev.to/tigranbs/how-i-stopped-fighting-ai-and-started-shipping-features-10x-faster-with-claude-code-and-codex-218)
-- [Terminal setup for speed &amp; ease](https://dev.to/anisharaz/terminal-setup-for-speed-ease-4nd2)
-- [Why Auth0 email_verified Was Missing from My Access Token &lpar;And How to Fix It&rpar;](https://dev.to/anand_rathnas_d5b608cc3de/why-auth0-emailverified-was-missing-from-my-access-token-and-how-to-fix-it-e94)
-- [Terraform Guardrail MCP](https://dev.to/huzefaaa2/terraform-guardrail-mcp-2mjg)
-- [Rust Lifetimes Explained](https://dev.to/godofgeeks/rust-lifetimes-explained-1f9m)
+- [سواعد احترافية](https://dev.to/adham_awad_3cbeaa747f9e21/swd-htrfy-5aao)
+- [Pixelcut Promo Code : &lpar;ARCH30&rpar; Get 10% Discount On Subscription Plan](https://dev.to/referral_code_ee61ef9548a/pixelcut-promo-code-arch30-get-10-discount-on-subscription-plan-27kk)
+- [Top MySQL and MariaDB backup tools in 2026](https://dev.to/dmetrovich/top-mysql-and-mariadb-backup-tools-in-2026-32ak)
+- [Ideamap AI Promo Code &lpar;ARCHA20&rpar; Unlock 15% Discount On All Plans](https://dev.to/referral_code_ee61ef9548a/ideamap-ai-promo-code-archa20-unlock-15-discount-on-all-plans-1ell)
+- [Lets Enhance Promo Code : &lpar;ARCH10&rpar; Get 10% Off On Subscription Plans](https://dev.to/referral_code_ee61ef9548a/lets-enhance-promo-code-arch10-get-10-off-on-subscription-plans-61a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
