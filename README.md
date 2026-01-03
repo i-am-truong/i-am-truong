@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Added Unlayer’s Drag-and-Drop Email Editor to Next.js in Under 15 Minutes](https://dev.to/ubcodes/how-i-added-unlayers-drag-and-drop-email-editor-to-nextjs-in-under-15-minutes-499a)
-- [From JavaScript Creator to Privacy Pioneer: Brendan Eich’s Comeback Story](https://dev.to/homayounmmdy/from-javascript-creator-to-privacy-pioneer-brendan-eichs-comeback-story-1gkl)
-- [Top 10 DevOps Tools Dominating 2026: The Must-Have Toolkit 🚀](https://dev.to/meena_nukala/top-10-devops-tools-dominating-2026-the-must-have-toolkit-1kel)
-- [Finding API Endpoints: Scrape the Data Source, Not the Website](https://dev.to/ikram_khan/finding-api-endpoints-scrape-the-data-source-not-the-website-2a49)
-- [🎮 Learning Game Development – Day 8](https://dev.to/dinesh_04/learning-game-development-day-8-1gph)
+- [How to become an iOS developer in 2026](https://dev.to/gamya_m/how-to-become-an-ios-developer-in-2026-3mhl)
+- [🚀_Ultimate_Web_Framework_Speed_Showdown[20260103113810]](https://dev.to/member_6331818c/ultimatewebframeworkspeedshowdown20260103113810-1bid)
+- [AI Search Optimization &lpar;AISO&rpar;: The Knowledge-Layer Approach to Being Correctly Represented by AI](https://dev.to/seng_weelim_c87d55e12cec/ai-search-optimization-aiso-the-knowledge-layer-approach-to-being-correctly-represented-by-ai-41ib)
+- [Boost Your Website’s Security: NGINX and SSL Setup with Certbot Made Easy](https://dev.to/bemals_dvanitha_5b14b68f9/boost-your-websites-security-nginx-and-ssl-setup-with-certbot-made-easy-3iki)
+- [[Boost]](https://dev.to/techno_kraft_in/-25c1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
