@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Make One Million Dollars in 2026: A Realistic and Practical Guide](https://dev.to/damad1988/how-to-make-one-million-dollars-in-2026-a-realistic-and-practical-guide-2h80)
-- [La gobernanza de la IA no es binaria: evoluciona por niveles de madurez](https://dev.to/antonio_socorro_95e3ff086/la-gobernanza-de-la-ia-no-es-binaria-evoluciona-por-niveles-de-madurez-2i55)
-- [AI Governance Is an Operational Discipline, Not a Compliance Artifact](https://dev.to/antonio_socorro_95e3ff086/ai-governance-is-an-operational-discipline-not-a-compliance-artifact-24gg)
-- [La gobernanza de la IA es una disciplina operativa, no un artefacto de cumplimiento](https://dev.to/antonio_socorro_95e3ff086/la-gobernanza-de-la-ia-es-una-disciplina-operativa-no-un-artefacto-de-cumplimiento-1id4)
-- [The AI Slop Invasion on YouTube: How Algorithm-Driven Content Is Reshaping User Experience](https://dev.to/damad1988/the-ai-slop-invasion-on-youtube-how-algorithm-driven-content-is-reshaping-user-experience-i70)
+- [From $47 to $1200/Month: What I Learned Starting Businesses in My Dorm](https://dev.to/short_playskits_ab152535/from-47-to-1200month-what-i-learned-starting-businesses-in-my-dorm-5cg4)
+- [Systems, Leadership, and the Power of &#39;We&#39;](https://dev.to/sigje/systems-leadership-and-the-power-of-we-11pm)
+- [The Ultimate Claude Code Tips Collection &lpar;Advent of Claude 2025&rpar;](https://dev.to/damogallagher/the-ultimate-claude-code-tips-collection-advent-of-claude-2025-5b73)
+- [From Brutalism to High-Voltage Luxury⚡️](https://dev.to/reklamof/from-brutalism-to-high-voltage-luxury-3b46)
+- [How to Generate SEO Articles with an Automated Content Generation Tool That Actually Ranks](https://dev.to/softroi25/how-to-generate-seo-articles-with-an-automated-content-generation-tool-that-actually-ranks-2dh8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
