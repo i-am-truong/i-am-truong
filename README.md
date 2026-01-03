@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Define Methods of Deploying and Operating in the AWS Cloud](https://dev.to/aws-builders/define-methods-of-deploying-and-operating-in-the-awscloud-56dh)
-- [C#.NET - day 01](https://dev.to/sabin_sim/cnet-day-01-43m1)
-- [Day 3: Architecture Sketch on a Napkin](https://dev.to/allscreenshots/day-3-architecture-sketch-on-a-napkin-50f)
-- [Daily Echo - Your Life in Motion 🎥](https://dev.to/varshithvhegde/daily-echo-your-life-in-motion-2938)
-- [From Fresh Mac to Productive in 30 Minutes](https://dev.to/nickytonline/from-fresh-mac-to-productive-in-30-minutes-21db)
+- [FileMate Pro – Next-Gen File Explorer in Python 🗂️✨](https://dev.to/matetechnologie/filemate-pro-next-gen-file-explorer-in-python-3l5a)
+- [The AI Filmmaking Pipeline: Directing Without a Camera](https://dev.to/inushathathsara/the-ai-filmmaking-pipeline-directing-without-a-camera-lop)
+- [Inside Git: How It Works and the Role of the .git Folder](https://dev.to/kunal__35bd2a194c4e65840/inside-git-how-it-works-and-the-role-of-the-git-folder-1ki1)
+- [The 5 DevOps Skills That Actually Matter in 2026](https://dev.to/inboryn_99399f96579fcd705/the-5-devops-skills-that-actually-matter-in-2026-5415)
+- [How to Extract Text From Screenshots: The AI Method That Changes Everything &lpar;2025&rpar;](https://dev.to/theairabbit/how-to-extract-text-from-screenshots-the-ai-method-that-changes-everything-2025-4eb5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
