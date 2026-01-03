@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Reviewed 120 Websites: These Security Mistakes Kept Showing Up](https://dev.to/max_b5afc5f59153983d2db18/i-reviewed-120-websites-these-security-mistakes-kept-showing-up-103o)
-- [PrestaShop: From Student Project to Leader](https://dev.to/ndabene/prestashop-from-student-project-to-leader-ip7)
-- [[Boost]](https://dev.to/techno_kraft_in/-35m7)
-- [Wise-IoU: Bounding Box Regression Loss with Dynamic Focusing Mechanism](https://dev.to/paperium/wise-iou-bounding-box-regression-loss-with-dynamic-focusing-mechanism-16cn)
-- [Privacy-First Screen Recording: No Installation, No Cloud, No Compromise](https://dev.to/techno_kraft_in/privacy-first-screen-recording-no-installation-no-cloud-no-compromise-2jon)
+- [Quick business lesson:](https://dev.to/codedarmab101/quick-business-lesson-4bo4)
+- [Part 6 — Observability and Evaluation in GenAI Systems](https://dev.to/muzammiltalha/part-6-observability-and-evaluation-in-genai-systems-76g)
+- [The Shocking Audit That Changed Everything](https://dev.to/tracksimple/the-shocking-audit-that-changed-everything-3hpo)
+- [Why Figma SVGs Break Your React App &lpar;and How to Fix It Locally&rpar;](https://dev.to/hypertools/why-figma-svgs-break-your-react-app-and-how-to-fix-it-locally-3c63)
+- [Growth Strategy &amp; Scaling: Key Trends &amp; Insights](https://dev.to/hkj13/growth-strategy-scaling-key-trends-insights-lfm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
