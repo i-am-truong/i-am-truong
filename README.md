@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Rescuing the Signal: How PCA Salvages Accuracy from Catastrophic Data Poisoning](https://dev.to/aksh_aggarwal_15910237767/rescuing-the-signal-how-pca-salvages-accuracy-from-catastrophic-data-poisoning-54m7)
 - [Agentes de IA: Dominando 3 Patrones Esenciales &lpar;Tool Using&rpar;. Parte 1 de 3](https://dev.to/gabrielmrojas/agentes-de-ia-dominando-3-patrones-esenciales-tool-using-parte-1-de-3-244l)
 - [Creating a Reliable VS Code Task for New DEV.to Posts &lpar;Windows + PowerShell&rpar;](https://dev.to/jankoweb/creating-a-reliable-vs-code-task-for-new-devto-posts-windows-powershell-dh9)
+- [Birthday-Cake Loading: Serve the Cake First, Add the Icing Only When Safe – Progressive Enhancement for React &amp; Next.js](https://dev.to/fabianzimber/birthday-cake-loading-serve-the-cake-first-add-the-icing-only-when-safe-progressive-enhancement-m6e)
 - [AI Agents: Mastering 3 Essential Patterns &lpar;Tool Using&rpar;. Part 1 of 3](https://dev.to/gabrielmrojas/ai-agents-mastering-3-essential-patterns-tool-using-part-1-of-3-5d92)
-- [How I Run LLM Agents in a Secure Nix Sandbox](https://dev.to/andersonjoseph/how-i-run-llm-agents-in-a-secure-nix-sandbox-1899)
-- [Building a Modern Digital Garden with Google AI: My New Year, New You Portfolio](https://dev.to/eunit/building-a-modern-digital-garden-with-google-ai-my-new-year-new-you-portfolio-18l0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
