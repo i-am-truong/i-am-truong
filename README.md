@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🎯_Microservices_Performance_Tuning_Practical[20260103114946]](https://dev.to/member_8659c28a/microservicesperformancetuningpractical20260103114946-dd9)
-- [A Guide to AWS CloudFront Invalidations](https://dev.to/nithish_rodrigo/a-guide-to-aws-cloudfront-invalidations-503e)
-- [How to become an iOS developer in 2026](https://dev.to/gamya_m/how-to-become-an-ios-developer-in-2026-3mhl)
-- [🚀_Ultimate_Web_Framework_Speed_Showdown[20260103113810]](https://dev.to/member_6331818c/ultimatewebframeworkspeedshowdown20260103113810-1bid)
-- [AI Search Optimization &lpar;AISO&rpar;: The Knowledge-Layer Approach to Being Correctly Represented by AI](https://dev.to/seng_weelim_c87d55e12cec/ai-search-optimization-aiso-the-knowledge-layer-approach-to-being-correctly-represented-by-ai-41ib)
+- [Demystifying ReAct: Why Reasoning and Acting is the Standard for LLM Agents](https://dev.to/4484ho/demystifying-react-why-reasoning-and-acting-is-the-standard-for-llm-agents-1ii6)
+- [Stop Writing Shell Scripts for Container Health Checks](https://dev.to/v3rtti/stop-writing-shell-scripts-for-container-health-checks-4pif)
+- [Stop Building Backends for Simple Data Handoffs: Meet React State Warp](https://dev.to/rezakh80/stop-building-backends-for-simple-data-handoffs-meet-react-state-warp-4724)
+- [Quark&#39;s Outlines: Python Files](https://dev.to/mike-vincent/quarks-outlines-python-files-2nlm)
+- [How to Prevent AI Agents from Draining Crypto Wallets](https://dev.to/l_x_1/how-to-prevent-ai-agents-from-draining-crypto-wallets-3cci)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
