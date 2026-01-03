@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Demystifying ReAct: Why Reasoning and Acting is the Standard for LLM Agents](https://dev.to/4484ho/demystifying-react-why-reasoning-and-acting-is-the-standard-for-llm-agents-1ii6)
-- [Stop Writing Shell Scripts for Container Health Checks](https://dev.to/v3rtti/stop-writing-shell-scripts-for-container-health-checks-4pif)
-- [Stop Building Backends for Simple Data Handoffs: Meet React State Warp](https://dev.to/rezakh80/stop-building-backends-for-simple-data-handoffs-meet-react-state-warp-4724)
-- [Quark&#39;s Outlines: Python Files](https://dev.to/mike-vincent/quarks-outlines-python-files-2nlm)
-- [How to Prevent AI Agents from Draining Crypto Wallets](https://dev.to/l_x_1/how-to-prevent-ai-agents-from-draining-crypto-wallets-3cci)
+- [itertools Workbook Added to Standard Library Learning Path](https://dev.to/hejhdiss/itertools-workbook-added-to-standard-library-learning-path-257h)
+- [Understanding YAML](https://dev.to/aniket_kuyate_15acc4e6587/understanding-yaml-45ck)
+- [Dua for Love Between Husband and Wife: Building Mercy, Peace, and Lasting Affection](https://dev.to/maulana_hafizurrahman_b3/dua-for-love-between-husband-and-wife-building-mercy-peace-and-lasting-affection-1jkb)
+- [Deploying PHP Web Applications with Amazon EC2 and Aurora MySQL 📦](https://dev.to/khushi_nandwani07/deploying-php-web-applications-with-amazon-ec2-and-aurora-mysql-40ck)
+- [Kubernetes Essentials](https://dev.to/copubah/kubernetes-essentials-4j74)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
