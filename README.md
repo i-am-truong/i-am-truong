@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop Manually Tracing Azure Synapse Dependencies](https://dev.to/chrhiswagat/stop-manually-tracing-azure-synapse-dependencies-p2e)
-- [GPUs: Graphics and AI Processors — From Pixels to Intelligence](https://dev.to/cristiansifuentes/gpus-graphics-and-ai-processors-from-pixels-to-intelligence-4kl4)
-- [Phones and Their System on a Chip &lpar;SoC&rpar; — The Hidden Engine of Modern Devices](https://dev.to/cristiansifuentes/phones-and-their-system-on-a-chip-soc-the-hidden-engine-of-modern-devices-27oh)
-- [Building Cryptographic Audit Trails for cTrader cBots - A Sidecar Approach](https://dev.to/veritaschain/building-cryptographic-audit-trails-for-ctrader-cbots-a-sidecar-approach-3785)
-- [2026-01-02 Daily Robotics News](https://dev.to/dan_ledger_ce2886f0037972/2026-01-02-daily-robotics-news-4547)
+- [How to Make One Million Dollars in 2026: A Realistic and Practical Guide](https://dev.to/damad1988/how-to-make-one-million-dollars-in-2026-a-realistic-and-practical-guide-2h80)
+- [La gobernanza de la IA no es binaria: evoluciona por niveles de madurez](https://dev.to/antonio_socorro_95e3ff086/la-gobernanza-de-la-ia-no-es-binaria-evoluciona-por-niveles-de-madurez-2i55)
+- [AI Governance Is an Operational Discipline, Not a Compliance Artifact](https://dev.to/antonio_socorro_95e3ff086/ai-governance-is-an-operational-discipline-not-a-compliance-artifact-24gg)
+- [La gobernanza de la IA es una disciplina operativa, no un artefacto de cumplimiento](https://dev.to/antonio_socorro_95e3ff086/la-gobernanza-de-la-ia-es-una-disciplina-operativa-no-un-artefacto-de-cumplimiento-1id4)
+- [The AI Slop Invasion on YouTube: How Algorithm-Driven Content Is Reshaping User Experience](https://dev.to/damad1988/the-ai-slop-invasion-on-youtube-how-algorithm-driven-content-is-reshaping-user-experience-i70)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
