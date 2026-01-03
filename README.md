@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Accelerating Microservices Development and Testing in Kubernetes: Shared Clusters, Smart Isolation, and Cost Savings](https://dev.to/ravidasari/accelerating-microservices-development-and-testing-in-kubernetes-shared-clusters-smart-isolation-k7o)
-- [Linear Regression Explained: From Equation to Prediction + Python Examples](https://dev.to/rijultp/linear-regression-explained-from-equation-to-prediction-python-examples-320n)
-- [The silent revolution in Linux? Historical maintainer analysis shows Nix +264%, AUR +100%, while Debian barely grows &lpar;+2.3%&rpar;](https://dev.to/metehanyurtseven/the-silent-revolution-in-linux-historical-maintainer-analysis-shows-nix-264-aur-100-while-2def)
-- [How to Read SQL Server Execution Plans: 7 Things That Matter](https://dev.to/mashrulhaque/how-to-read-sql-server-execution-plans-7-things-that-matter-3pnm)
-- [Why Linux Isn’t Secure Because It’s Open Source: Why Windows Isn’t Insecure Because It Isn’t](https://dev.to/thmnagpur/why-linux-isnt-secure-because-its-open-source-why-windows-isnt-insecure-because-it-isnt-47ll)
+- [Getting started with gitlab](https://dev.to/bala_murugan_/getting-started-with-gitlab-g8e)
+- [The Blazor Closure Bug That Made All My Time Slots 24:00 🕛 🕛](https://dev.to/taherm18/the-blazor-closure-bug-that-made-all-my-time-slots-2400--g7m)
+- [The Complete Guide to Facebook Scraper - How to Scrape Facebook Posts, Pages, Groups &amp; Public Data in 2026 published](https://dev.to/anadil_khalil_b75a8464d97/the-complete-guide-to-facebook-scraper-how-to-scrape-facebook-posts-pages-groups-public-data-3np)
+- [DEV Worldwide Show and Tell Challenge · Best Use of Mux 🎥 Projura](https://dev.to/halakabir234hub/dev-worldwide-show-and-tell-challenge-best-use-of-mux-projura-382c)
+- [Prisma + StackRender: Design Your Database and Start Building Your Backend](https://dev.to/karim_tamani/prisma-stackrender-design-your-database-and-start-building-your-backend-1b2h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
