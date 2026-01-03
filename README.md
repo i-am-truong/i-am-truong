@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How IronPDF Turns Untrustworthy CSV Data into Auditable Truth in C#](https://dev.to/simran0807/how-ironpdf-turns-untrustworthy-csv-data-into-auditable-truth-in-c-1ck0)
 - [Five Projects, Carefully Unhinged and Fully Deployed](https://dev.to/trojanmocx/five-projects-carefully-unhinged-and-fully-deployed-2430)
 - [How the Creator of Claude Code Uses Claude Code: A Complete Breakdown](https://dev.to/sivarampg/how-the-creator-of-claude-code-uses-claude-code-a-complete-breakdown-4f07)
 - [How RAG Works...](https://dev.to/ankit_rattan/how-rag-works-2pj5)
 - [How To Install Kimai on Debian 13](https://dev.to/ramankumar/how-to-install-kimai-on-debian-13-5bl3)
-- [AI Search Optimization Needs a Knowledge Layer — Not Just Answer Monitoring](https://dev.to/seng_weelim_c87d55e12cec/ai-search-optimization-needs-a-knowledge-layer-not-just-answer-monitoring-283n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
