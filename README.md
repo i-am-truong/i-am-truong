@@ -120,12 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Spec-Driven Development: Stop Vibe Coding](https://dev.to/alfredoperez/spec-driven-development-stop-vibe-coding-af2)
-- [Universal Knowledge Base for AI](https://dev.to/alfredoperez/universal-knowledge-base-for-ai-432g)
-- [Uploaded a 120-page PDF instant AI chat. 
-If you want the same setup, FastRAG is live - https://www.fastrag.live/](https://dev.to/atultrp/uploaded-a-120-page-pdf-instant-ai-chat-if-you-want-the-same-setup-fastrag-is-live--27lk)
-- [Hey. Writing Here Feels Harder Than It Should](https://dev.to/denysshchur/hey-writing-here-feels-harder-than-it-should-598o)
-- [Daily Tech News Roundup - 2026-01-03](https://dev.to/atharvshinde2004/daily-tech-news-roundup-2026-01-03-316m)
+- [I Reviewed 120 Websites: These Security Mistakes Kept Showing Up](https://dev.to/max_b5afc5f59153983d2db18/i-reviewed-120-websites-these-security-mistakes-kept-showing-up-103o)
+- [PrestaShop: From Student Project to Leader](https://dev.to/ndabene/prestashop-from-student-project-to-leader-ip7)
+- [[Boost]](https://dev.to/techno_kraft_in/-35m7)
+- [Wise-IoU: Bounding Box Regression Loss with Dynamic Focusing Mechanism](https://dev.to/paperium/wise-iou-bounding-box-regression-loss-with-dynamic-focusing-mechanism-16cn)
+- [Privacy-First Screen Recording: No Installation, No Cloud, No Compromise](https://dev.to/techno_kraft_in/privacy-first-screen-recording-no-installation-no-cloud-no-compromise-2jon)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
