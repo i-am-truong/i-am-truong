@@ -122,9 +122,9 @@ Python                   1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [Accelerating Microservices Development and Testing in Kubernetes: Shared Clusters, Smart Isolation, and Cost Savings](https://dev.to/ravidasari/accelerating-microservices-development-and-testing-in-kubernetes-shared-clusters-smart-isolation-k7o)
 - [Linear Regression Explained: From Equation to Prediction + Python Examples](https://dev.to/rijultp/linear-regression-explained-from-equation-to-prediction-python-examples-320n)
+- [The silent revolution in Linux? Historical maintainer analysis shows Nix +264%, AUR +100%, while Debian barely grows &lpar;+2.3%&rpar;](https://dev.to/metehanyurtseven/the-silent-revolution-in-linux-historical-maintainer-analysis-shows-nix-264-aur-100-while-2def)
 - [How to Read SQL Server Execution Plans: 7 Things That Matter](https://dev.to/mashrulhaque/how-to-read-sql-server-execution-plans-7-things-that-matter-3pnm)
-- [Automated Currency &amp; Gold Data Scraper with Python and GitHub Actions](https://dev.to/hossein_1ff200a1a15acef5b/automated-currency-gold-data-scraper-with-python-and-github-actions-27ha)
-- [Caching Patterns and Strategies for High-Traffic Applications](https://dev.to/aman_kumar_6d5d23b9b1ed02/caching-patterns-and-strategies-for-high-traffic-applications-3hc6)
+- [Why Linux Isn’t Secure Because It’s Open Source: Why Windows Isn’t Insecure Because It Isn’t](https://dev.to/thmnagpur/why-linux-isnt-secure-because-its-open-source-why-windows-isnt-insecure-because-it-isnt-47ll)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
