@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why I Built DDL to Data](https://dev.to/ddltodata/why-i-built-ddl-to-data-320f)
+- [Day-25 Breaking Down Kubernetes Architecture ☸️](https://dev.to/jayanth_dasari_7/day-25-breaking-down-kubernetes-architecture-117l)
 - [How to scrape YouTube trends and popular channels](https://dev.to/eunit/how-to-scrape-youtube-trends-and-popular-channels-4m07)
 - [Just added SAM3 video object tracking to X-AnyLabeling!](https://dev.to/jack_wang_d47b1f7f781c64f/just-added-sam3-video-object-tracking-to-x-anylabeling-33md)
 - [Day 3: Untill I Get Google Internship](https://dev.to/sugunadithya/day-3-untill-i-get-google-internship-3jcn)
-- [testing blog](https://dev.to/ankush_diwakar_b128ff3fcf/testing-blog-12c)
-- [Privacy vs. Convenience: The Hidden Cost of Always-On Tracking 🔍📱](https://dev.to/heintingla/privacy-vs-convenience-the-hidden-cost-of-always-on-tracking-3geb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
