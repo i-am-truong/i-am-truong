@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Quick business lesson:](https://dev.to/codedarmab101/quick-business-lesson-4bo4)
-- [Part 6 — Observability and Evaluation in GenAI Systems](https://dev.to/muzammiltalha/part-6-observability-and-evaluation-in-genai-systems-76g)
-- [The Shocking Audit That Changed Everything](https://dev.to/tracksimple/the-shocking-audit-that-changed-everything-3hpo)
-- [Why Figma SVGs Break Your React App &lpar;and How to Fix It Locally&rpar;](https://dev.to/hypertools/why-figma-svgs-break-your-react-app-and-how-to-fix-it-locally-3c63)
-- [Growth Strategy &amp; Scaling: Key Trends &amp; Insights](https://dev.to/hkj13/growth-strategy-scaling-key-trends-insights-lfm)
+- [Semi-Supervised Learning with Generative Adversarial Networks](https://dev.to/paperium/semi-supervised-learning-with-generative-adversarial-networks-1fj0)
+- [Identify Components and Resources for Security](https://dev.to/aws-builders/identify-components-and-resources-for-security-49pn)
+- [How to Kill a Running Process in Linux](https://dev.to/serveravatar/how-to-kill-a-running-process-in-linux-5582)
+- [Starting Collecting Initial Inspiration for Portfolio](https://dev.to/iamankeshsharma/starting-collecting-initial-inspiration-for-portfolio-14mk)
+- [Building a Meta AI Video Downloader: A Technical Guide](https://dev.to/peter_dave_efcb42843c84c8/building-a-meta-ai-video-downloader-a-technical-guide-g66)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
