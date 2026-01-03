@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Solved: Applying for Jobs is Indeed still good or is there better?](https://dev.to/techresolve/solved-applying-for-jobs-is-indeed-still-good-or-is-there-better-ih0)
-- [Integrate Voice AI with No-Code Tools and CRM for Automation: My Journey](https://dev.to/callstacktech/integrate-voice-ai-with-no-code-tools-and-crm-for-automation-my-journey-kh9)
-- [Every Developer Should Review Code — Not Just Seniors](https://dev.to/zenika/every-developer-should-review-code-not-just-seniors-2abc)
-- [Solved: Who says Ubiquiti devices are underpowered?](https://dev.to/techresolve/solved-who-says-ubiquiti-devices-are-underpowered-4jdn)
-- [⚡_Real_Time_System_Performance_Optimization[20260103153513]](https://dev.to/member_6331818c/realtimesystemperformanceoptimization20260103153513-3ka5)
+- [JDP Floorplans Explained: The Layout Decision That Saves You Hours](https://dev.to/mohantammineni/jdp-floorplans-explained-the-layout-decision-that-saves-you-hours-51ah)
+- [How to Fix Common JSON Errors: A Developer’s Survival Guide](https://dev.to/codeitbro/how-to-fix-common-json-errors-a-developers-survival-guide-3nmm)
+- [Displaying Images in lf with Kitty and Tmux](https://dev.to/barim/displaying-images-in-lf-with-kitty-and-tmux-2971)
+- [Your skills the anchor: Staying relevant in the Vibe Era](https://dev.to/alex_cybercoder/your-skills-the-anchor-staying-relevant-in-the-vibe-era-2h32)
+- [I Built an AI Tool to Practise GMing — Because “Prep” Isn’t the Same as “Practice”](https://dev.to/anthonyhumphreys/i-built-an-ai-tool-to-practise-gming-because-prep-isnt-the-same-as-practice-1amm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
