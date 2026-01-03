@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Netrw to FTX: Building a Git-Aware File Tree for Vim](https://dev.to/m__mdy__m/from-netrw-to-ftx-building-a-git-aware-file-tree-for-vim-56g9)
-- [I Built a Social Network Where You Have to Write SQL to Post. I Regret Nothing](https://dev.to/levla/i-built-a-social-network-where-you-have-to-write-sql-to-post-i-regret-nothing-23n0)
-- [AWS CDK vs Terraform: The Complete 2026 Comparison](https://dev.to/aws-builders/aws-cdk-vs-terraform-the-complete-2026-comparison-3b4p)
-- [Case Study: Reducing Complexity By Migrating from K8S to ECS Fargate for NetworkLessons](https://dev.to/aws-builders/case-study-reducing-complexity-by-migrating-from-k8s-to-ecs-fargate-for-networklessons-3271)
-- [What is ClickOps? The Complete AWS Guide to Eliminating Manual Operations](https://dev.to/aws-builders/what-is-clickops-the-complete-aws-guide-to-eliminating-manual-operations-8i8)
+- [Solved: Applying for Jobs is Indeed still good or is there better?](https://dev.to/techresolve/solved-applying-for-jobs-is-indeed-still-good-or-is-there-better-ih0)
+- [Integrate Voice AI with No-Code Tools and CRM for Automation: My Journey](https://dev.to/callstacktech/integrate-voice-ai-with-no-code-tools-and-crm-for-automation-my-journey-kh9)
+- [Every Developer Should Review Code — Not Just Seniors](https://dev.to/zenika/every-developer-should-review-code-not-just-seniors-2abc)
+- [Solved: Who says Ubiquiti devices are underpowered?](https://dev.to/techresolve/solved-who-says-ubiquiti-devices-are-underpowered-4jdn)
+- [⚡_Real_Time_System_Performance_Optimization[20260103153513]](https://dev.to/member_6331818c/realtimesystemperformanceoptimization20260103153513-3ka5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
