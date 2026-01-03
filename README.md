@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Self-hosting SvelteKit app - the easy way](https://dev.to/kvetoslavnovak/self-hosting-sveltekit-app-the-easy-way-2g1d)
-- [Why Modern Browsers Eat So Much RAM](https://dev.to/ravish2403/why-modern-browsers-eat-so-much-ram-3968)
-- [Marching Cubes algorithm written in Rust](https://dev.to/embernoglow/marching-cubes-algorithm-written-in-rust-473d)
-- [I Found an LLM Weakness. Fixing It Cut My Token Usage 50%.](https://dev.to/warnerbell/i-found-an-llm-weakness-fixing-it-cut-my-token-usage-50-58i6)
-- [Blind Indexing — A Arte de Buscar o que Você Não Pode Ler](https://dev.to/petrusnoleto/blind-indexing-a-arte-de-buscar-o-que-voce-nao-pode-ler-3cc4)
+- [I Re-implemented Java Streams to Understand Lazy Evaluation](https://dev.to/ssj256x/i-re-implemented-java-streams-to-understand-lazy-evaluation-1if0)
+- [I built a &#39;Peter Lynch&#39; Stock Analyzer in Python &lpar;using yfinance&rpar;](https://dev.to/ccwukong/i-built-a-peter-lynch-stock-analyzer-in-python-using-yfinance-3l1g)
+- [[Boost]](https://dev.to/cypriantinasheaarons/-3ild)
+- [TabbySpaces - visual workspace editor for Tabby terminal](https://dev.to/igor_halilovic_3fa0baa977/tabbyspaces-visual-workspace-editor-for-tabby-terminal-2ig6)
+- [How to Make AI Consolidate Code—Without Micromanagement](https://dev.to/synthaicode_commander/dry-first-refactoring-protocol-23k2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
