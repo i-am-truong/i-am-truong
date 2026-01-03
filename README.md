@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why I Built DDL to Data](https://dev.to/ddltodata/why-i-built-ddl-to-data-320f)
-- [Day-25 Breaking Down Kubernetes Architecture ☸️](https://dev.to/jayanth_dasari_7/day-25-breaking-down-kubernetes-architecture-117l)
-- [How to scrape YouTube trends and popular channels](https://dev.to/eunit/how-to-scrape-youtube-trends-and-popular-channels-4m07)
-- [Just added SAM3 video object tracking to X-AnyLabeling!](https://dev.to/jack_wang_d47b1f7f781c64f/just-added-sam3-video-object-tracking-to-x-anylabeling-33md)
-- [Day 3: Untill I Get Google Internship](https://dev.to/sugunadithya/day-3-untill-i-get-google-internship-3jcn)
+- [Enums no Rails 8: anatomia e uma aplicação prática](https://dev.to/dominique_morem/enums-no-rails-8-anatomia-e-aplicacao-4joo)
+- [[Concept] And I thought I knew DNS](https://dev.to/deadlock/concept-and-i-thought-i-knew-dns-2kbe)
+- [WSL2 &amp; Ubuntu: Professional Tricks for Daily Productivity](https://dev.to/itpraktika/wsl2-ubuntu-professional-tricks-for-daily-productivity-2hh5)
+- [Why Ethiopian Businesses Need Custom Software &lpar;Not Off-the-Shelf Tools&rpar;](https://dev.to/ataos_technology_b2e96fb4/why-ethiopian-businesses-need-custom-software-not-off-the-shelf-tools-fi5)
+- [React Hooks - Part 1: useState](https://dev.to/ethan_zhang_e501fea89c25b/react-hooks-part-1-usestate-3ijg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
