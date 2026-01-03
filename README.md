@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🌐_Network_IO_Performance_Optimization[20260103090007]](https://dev.to/member_6331818c/networkioperformanceoptimization20260103090007-401l)
-- [Alphafutures Coupon Code : &lpar;Archana000353&rpar; Flat 10% Off On Your Plan](https://dev.to/referral_code_ee61ef9548a/alphafutures-coupon-code-archana000353-flat-10-off-on-your-plan-31f2)
-- [Alphacapital Coupon Code : &lpar;save5&rpar; Enjoy 15% Discount On Trading Fees |](https://dev.to/referral_code_ee61ef9548a/alphacapital-coupon-code-save5-enjoy-15-discount-on-trading-fees--49ng)
-- [Installing Docker and Docker Compose on Debian 12](https://dev.to/itpraktika/installing-docker-and-docker-compose-on-debian-12-15p3)
-- [Froentend HTML Day 1](https://dev.to/bala_murugan_/froentend-html-day-1-13me)
+- [functools Workbook Added to Standard Library Learning Path](https://dev.to/hejhdiss/functools-workbook-added-to-standard-library-learning-path-1efb)
+- [Make.com Is Down! A Perfect Moment to Rethink Your Automation Strategy](https://dev.to/alifar/makecom-is-down-a-perfect-moment-to-rethink-your-automation-strategy-3a3)
+- [Physics-Augmented Diffusion Modeling for heritage language revitalization programs in hybrid quantum-classical pipelines](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-heritage-language-revitalization-programs-in-hybrid-1lk)
+- [[Kubernetes] Understanding K8s Through the Lens of League of Legends](https://dev.to/thisisclark/kubernetes-understanding-k8s-through-the-lens-of-league-of-legends-n2a)
+- [I Solved 50+ Palindrome Problems on LeetCode and These 5 Methods Actually Changed How I Code](https://dev.to/emmimal_alexander_3be8cc7/i-solved-50-palindrome-problems-on-leetcode-and-these-5-methods-actually-changed-how-i-code-3b5b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
