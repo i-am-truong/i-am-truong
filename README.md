@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From Swagger to Tests: Building an AI-Powered API Test Generator with Python](https://dev.to/m4rri4nne/from-swagger-to-tests-building-an-ai-powered-api-test-generator-with-python-3mf8)
+- [🚀 NestJS + RedisOM: Elevando el manejo de Estado a otro nivel](https://dev.to/alpha018/nestjs-redisom-elevando-el-manejo-de-estado-a-otro-nivel-46bo)
+- [PromptLedger: Local-first prompt version control](https://dev.to/ertugrulmutlu/promptledger-local-first-prompt-version-control-2pk0)
 - [Drive Developer Revenue with Monetzly&#39;s API Monetization](https://dev.to/monetzly/drive-developer-revenue-with-monetzlys-api-monetization-5alh)
 - [I got tired of guessing why my server crashed: Building a &quot;Smart&quot; Monitor with Global Checks &amp; JSON Validation](https://dev.to/aragossa/i-got-tired-of-guessing-why-my-server-crashed-building-a-smart-monitor-with-global-checks-json-f42)
-- [30. Substring with Concatenation of All Words | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/30-substring-with-concatenation-of-all-words-leetcode-top-interview-150-coding-questions-55di)
-- [The Death of &quot;Vibe-Coding&quot; &amp; the Return of the Senior SRE](https://dev.to/meena_nukala/the-death-of-vibe-coding-the-return-of-the-senior-sre-1ih)
-- [Integrating AI into ABP.IO Applications: The Complete Guide to Volo.Abp.AI and AI Management Module](https://dev.to/adnanaldaim/integrating-ai-into-abpio-applications-the-complete-guide-to-voloabpai-and-ai-management-module-3o0k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
