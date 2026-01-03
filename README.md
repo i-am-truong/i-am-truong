@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🔥 PHPS WORST DEBUG NIGHTMARE… DETHRONED! 🔥](https://dev.to/jeffsynister/phps-worst-debug-nightmare-dethroned-2pd9)
-- [We kept breaking cache invalidation in TanStack Query — so we stopped managing it manually](https://dev.to/ignasave/we-kept-breaking-cache-invalidation-in-tanstack-query-so-we-stopped-managing-it-manually-47k2)
-- [From Azure AI to AIOps—Without Knowing DevOps First](https://dev.to/ibne_sabidsaikat_1443282/from-azure-ai-to-aiops-without-knowing-devops-first-1of3)
-- [🎨 Beginner-Friendly Guide &#39;Number of Ways to Paint N 3 Grid&#39; – LeetCode 1411 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-number-of-ways-to-paint-n-x-3-grid-leetcode-1411-c-python-2879)
-- [BTOP++: The Resource Monitor I Didn’t Know I Needed](https://dev.to/igorgbr/btop-the-resource-monitor-i-didnt-know-i-needed-389d)
+- [LeetCode DSA Series #2: 125. Valid Palindrome](https://dev.to/daveson217/leetcode-dsa-series-2-125-valid-palindrome-286b)
+- [🌐_Network_IO_Performance_Optimization[20260103040732]](https://dev.to/member_8659c28a/networkioperformanceoptimization20260103040732-o0n)
+- [I stopped writing separate maintenance scripts for each Linux distro. You can too.](https://dev.to/harery/i-stopped-writing-separate-maintenance-scripts-for-each-linux-distro-you-can-too-5gfk)
+- [Stop Writing Tests Manually](https://dev.to/satinathnit/stop-writing-tests-manually-47d)
+- [⚡_Real_Time_System_Performance_Optimization[20260103035335]](https://dev.to/member_6331818c/realtimesystemperformanceoptimization20260103035335-gc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
