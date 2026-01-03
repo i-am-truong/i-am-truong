@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Laravel + Vue &lpar;Inertia&rpar; + gRPC: building a simple BFF that talks to a gRPC User service](https://dev.to/blamsa0mine/laravel-vue-inertia-grpc-building-a-simple-bff-that-talks-to-a-grpc-user-service-3b21)
+- [Memento: Give Claude Code Persistent Memory So You Stop Repeating Yourself](https://dev.to/sean8/memento-give-claude-code-persistent-memory-so-you-stop-repeating-yourself-22je)
+- [Public](https://dev.to/muhammad_wasif_94b8fd8a18/public-1apn)
+- [WebSocket VS Polling VS SSE](https://dev.to/abirk/websocket-vs-polling-vs-sse-17ii)
 - [From idea to shipping in 14 days: My journey building a Markdown tool](https://dev.to/markdown/from-idea-to-shipping-in-14-days-my-journey-building-a-markdown-tool-543h)
-- [Agile Software Development Methods: Review and Analysis](https://dev.to/paperium/agile-software-development-methods-review-and-analysis-3ckj)
-- [The Project Nursery](https://dev.to/dsmurrell/the-project-nursery-10a5)
-- [How to Use Claude Code with Qwen models for Free &lpar;Linux&rpar;](https://dev.to/mohsinsheikhani/how-to-use-claude-code-with-qwen-models-for-free-linux-1fc4)
-- [I Accidentally Made Claude Ask Itself the Same Question 1,966 Times](https://dev.to/sean8/i-accidentally-made-claude-ask-itself-the-same-question-1966-times-1c5h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
