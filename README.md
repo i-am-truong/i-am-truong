@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [functools Workbook Added to Standard Library Learning Path](https://dev.to/hejhdiss/functools-workbook-added-to-standard-library-learning-path-1efb)
-- [Make.com Is Down! A Perfect Moment to Rethink Your Automation Strategy](https://dev.to/alifar/makecom-is-down-a-perfect-moment-to-rethink-your-automation-strategy-3a3)
-- [Physics-Augmented Diffusion Modeling for heritage language revitalization programs in hybrid quantum-classical pipelines](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-heritage-language-revitalization-programs-in-hybrid-1lk)
-- [[Kubernetes] Understanding K8s Through the Lens of League of Legends](https://dev.to/thisisclark/kubernetes-understanding-k8s-through-the-lens-of-league-of-legends-n2a)
-- [I Solved 50+ Palindrome Problems on LeetCode and These 5 Methods Actually Changed How I Code](https://dev.to/emmimal_alexander_3be8cc7/i-solved-50-palindrome-problems-on-leetcode-and-these-5-methods-actually-changed-how-i-code-3b5b)
+- [Remove Background From Multiple Images: Common Errors and How to Avoid](https://dev.to/freepixel11/remove-background-from-multiple-images-common-errors-and-how-to-avoid-593p)
+- [Proxyseller Promo Code : &lpar;XHJDRX_699293&rpar; Unlock 10% Discount On Purchase](https://dev.to/referral_code_ee61ef9548a/proxyseller-promo-code-xhjdrx699293-unlock-10-discount-on-purchase-57g3)
+- [How To Install Rocket.Chat on Rocky Linux 10](https://dev.to/ramankumar/how-to-install-rocketchat-on-rocky-linux-10-394f)
+- [Advent of Cyber 2025 Day 21-24 Final Writeup | TryHackMe](https://dev.to/mahin101/advent-of-cyber-2025-day-21-24-final-writeup-tryhackme-4omn)
+- [Brat Generator – Share Ideas, Styles &amp; Creative Uses](https://dev.to/farhan_ali_b5ba4edf788890/brat-generator-share-ideas-styles-creative-uses-i4m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
