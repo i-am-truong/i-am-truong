@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Added Unlayer’s Drag-and-Drop Email Editor to Next.js in Under 15 Minutes](https://dev.to/ubcodes/how-i-added-unlayers-drag-and-drop-email-editor-to-nextjs-in-under-15-minutes-499a)
+- [From JavaScript Creator to Privacy Pioneer: Brendan Eich’s Comeback Story](https://dev.to/homayounmmdy/from-javascript-creator-to-privacy-pioneer-brendan-eichs-comeback-story-1gkl)
 - [Top 10 DevOps Tools Dominating 2026: The Must-Have Toolkit 🚀](https://dev.to/meena_nukala/top-10-devops-tools-dominating-2026-the-must-have-toolkit-1kel)
 - [Finding API Endpoints: Scrape the Data Source, Not the Website](https://dev.to/ikram_khan/finding-api-endpoints-scrape-the-data-source-not-the-website-2a49)
 - [🎮 Learning Game Development – Day 8](https://dev.to/dinesh_04/learning-game-development-day-8-1gph)
-- [Top 7 AI Tools Every DevOps and SRE Engineer Needs in 2026 🚀](https://dev.to/meena_nukala/top-7-ai-tools-every-devops-and-sre-engineer-needs-in-2026-242c)
-- [Introducing Embex: The Universal Vector Database ORM](https://dev.to/josias1997/introducing-embex-the-universal-vector-database-orm-4mpc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
