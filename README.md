@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Define Methods of Deploying and Operating in the AWS Cloud](https://dev.to/aws-builders/define-methods-of-deploying-and-operating-in-the-awscloud-56dh)
+- [C#.NET - day 01](https://dev.to/sabin_sim/cnet-day-01-43m1)
+- [Day 3: Architecture Sketch on a Napkin](https://dev.to/allscreenshots/day-3-architecture-sketch-on-a-napkin-50f)
 - [Daily Echo - Your Life in Motion 🎥](https://dev.to/varshithvhegde/daily-echo-your-life-in-motion-2938)
 - [From Fresh Mac to Productive in 30 Minutes](https://dev.to/nickytonline/from-fresh-mac-to-productive-in-30-minutes-21db)
-- [A Local-First Way to Debug Kubernetes Incidents: KubeGraf](https://dev.to/kubegraf_io/a-local-first-way-to-debug-kubernetes-incidents-kubegraf-3ihd)
-- [Guide to Parsing Financial Protocols and the FEBRABAN Standard with Elixir Binaries](https://dev.to/matheuscamarques/the-definitive-guide-to-parsing-financial-protocols-and-the-febraban-standard-5fkj)
-- [Migrating from Big Tech](https://dev.to/richardpascoe/migrating-from-big-tech-33ed)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
