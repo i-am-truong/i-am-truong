@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Laravel + Vue &lpar;Inertia&rpar; + gRPC: building a simple BFF that talks to a gRPC User service](https://dev.to/blamsa0mine/laravel-vue-inertia-grpc-building-a-simple-bff-that-talks-to-a-grpc-user-service-3b21)
-- [Memento: Give Claude Code Persistent Memory So You Stop Repeating Yourself](https://dev.to/sean8/memento-give-claude-code-persistent-memory-so-you-stop-repeating-yourself-22je)
-- [Public](https://dev.to/muhammad_wasif_94b8fd8a18/public-1apn)
-- [WebSocket VS Polling VS SSE](https://dev.to/abirk/websocket-vs-polling-vs-sse-17ii)
-- [From idea to shipping in 14 days: My journey building a Markdown tool](https://dev.to/markdown/from-idea-to-shipping-in-14-days-my-journey-building-a-markdown-tool-543h)
+- [Drive Developer Revenue with Monetzly&#39;s API Monetization](https://dev.to/monetzly/drive-developer-revenue-with-monetzlys-api-monetization-5alh)
+- [I got tired of guessing why my server crashed: Building a &quot;Smart&quot; Monitor with Global Checks &amp; JSON Validation](https://dev.to/aragossa/i-got-tired-of-guessing-why-my-server-crashed-building-a-smart-monitor-with-global-checks-json-f42)
+- [30. Substring with Concatenation of All Words | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/30-substring-with-concatenation-of-all-words-leetcode-top-interview-150-coding-questions-55di)
+- [The Death of &quot;Vibe-Coding&quot; &amp; the Return of the Senior SRE](https://dev.to/meena_nukala/the-death-of-vibe-coding-the-return-of-the-senior-sre-1ih)
+- [Integrating AI into ABP.IO Applications: The Complete Guide to Volo.Abp.AI and AI Management Module](https://dev.to/adnanaldaim/integrating-ai-into-abpio-applications-the-complete-guide-to-voloabpai-and-ai-management-module-3o0k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
