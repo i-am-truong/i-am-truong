@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Remove Background From Multiple Images: Common Errors and How to Avoid](https://dev.to/freepixel11/remove-background-from-multiple-images-common-errors-and-how-to-avoid-593p)
-- [Proxyseller Promo Code : &lpar;XHJDRX_699293&rpar; Unlock 10% Discount On Purchase](https://dev.to/referral_code_ee61ef9548a/proxyseller-promo-code-xhjdrx699293-unlock-10-discount-on-purchase-57g3)
-- [How To Install Rocket.Chat on Rocky Linux 10](https://dev.to/ramankumar/how-to-install-rocketchat-on-rocky-linux-10-394f)
-- [Advent of Cyber 2025 Day 21-24 Final Writeup | TryHackMe](https://dev.to/mahin101/advent-of-cyber-2025-day-21-24-final-writeup-tryhackme-4omn)
-- [Brat Generator – Share Ideas, Styles &amp; Creative Uses](https://dev.to/farhan_ali_b5ba4edf788890/brat-generator-share-ideas-styles-creative-uses-i4m)
+- [Five Projects, Carefully Unhinged and Fully Deployed](https://dev.to/trojanmocx/five-projects-carefully-unhinged-and-fully-deployed-2430)
+- [How the Creator of Claude Code Uses Claude Code: A Complete Breakdown](https://dev.to/sivarampg/how-the-creator-of-claude-code-uses-claude-code-a-complete-breakdown-4f07)
+- [How RAG Works...](https://dev.to/ankit_rattan/how-rag-works-2pj5)
+- [How To Install Kimai on Debian 13](https://dev.to/ramankumar/how-to-install-kimai-on-debian-13-5bl3)
+- [AI Search Optimization Needs a Knowledge Layer — Not Just Answer Monitoring](https://dev.to/seng_weelim_c87d55e12cec/ai-search-optimization-needs-a-knowledge-layer-not-just-answer-monitoring-283n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
