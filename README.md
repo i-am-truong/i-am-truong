@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Semi-Supervised Learning with Generative Adversarial Networks](https://dev.to/paperium/semi-supervised-learning-with-generative-adversarial-networks-1fj0)
-- [Identify Components and Resources for Security](https://dev.to/aws-builders/identify-components-and-resources-for-security-49pn)
-- [How to Kill a Running Process in Linux](https://dev.to/serveravatar/how-to-kill-a-running-process-in-linux-5582)
-- [Starting Collecting Initial Inspiration for Portfolio](https://dev.to/iamankeshsharma/starting-collecting-initial-inspiration-for-portfolio-14mk)
-- [Building a Meta AI Video Downloader: A Technical Guide](https://dev.to/peter_dave_efcb42843c84c8/building-a-meta-ai-video-downloader-a-technical-guide-g66)
+- [From Reading to Writing: My Dev.to Journey Through 2025](https://dev.to/konark_13/from-reading-to-writing-my-devto-journey-through-2025-1f97)
+- [Digital Invitations &amp; AI: A Small Effort to Make Wedding Planning a Bit Easier](https://dev.to/titasmallick/digital-invitations-ai-a-small-effort-to-make-wedding-planning-a-bit-easier-5d28)
+- [ISO 45001 Documents: Purpose, Outcomes, and Core Components](https://dev.to/joy1/iso-45001-documents-purpose-outcomes-and-core-components-4gd)
+- [Amazon Bedrock: The AI Foundation That’s Powering NatWest Bank’s Digital Transformation](https://dev.to/suyogkumawat/amazon-bedrock-the-ai-foundation-thats-powering-natwest-banks-digital-transformation-54k)
+- [Shipping AI-Generated Code: What Happens After &quot;It Works&quot;](https://dev.to/sathishvk/shipping-ai-generated-code-what-happens-after-it-works-3625)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
