@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [FileMate Pro – Next-Gen File Explorer in Python 🗂️✨](https://dev.to/matetechnologie/filemate-pro-next-gen-file-explorer-in-python-3l5a)
-- [The AI Filmmaking Pipeline: Directing Without a Camera](https://dev.to/inushathathsara/the-ai-filmmaking-pipeline-directing-without-a-camera-lop)
-- [Inside Git: How It Works and the Role of the .git Folder](https://dev.to/kunal__35bd2a194c4e65840/inside-git-how-it-works-and-the-role-of-the-git-folder-1ki1)
-- [The 5 DevOps Skills That Actually Matter in 2026](https://dev.to/inboryn_99399f96579fcd705/the-5-devops-skills-that-actually-matter-in-2026-5415)
-- [How to Extract Text From Screenshots: The AI Method That Changes Everything &lpar;2025&rpar;](https://dev.to/theairabbit/how-to-extract-text-from-screenshots-the-ai-method-that-changes-everything-2025-4eb5)
+- [How to scrape YouTube trends and popular channels](https://dev.to/eunit/how-to-scrape-youtube-trends-and-popular-channels-4m07)
+- [Just added SAM3 video object tracking to X-AnyLabeling!](https://dev.to/jack_wang_d47b1f7f781c64f/just-added-sam3-video-object-tracking-to-x-anylabeling-33md)
+- [Day 3: Untill I Get Google Internship](https://dev.to/sugunadithya/day-3-untill-i-get-google-internship-3jcn)
+- [testing blog](https://dev.to/ankush_diwakar_b128ff3fcf/testing-blog-12c)
+- [Privacy vs. Convenience: The Hidden Cost of Always-On Tracking 🔍📱](https://dev.to/heintingla/privacy-vs-convenience-the-hidden-cost-of-always-on-tracking-3geb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
