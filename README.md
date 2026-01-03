@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Shell Sort: From Theory to Practical Code](https://dev.to/yumyum116/implementing-shell-sort-from-theory-to-practical-code-5bce)
-- [I built a &quot;VSCode-Exclusive&quot; BBS for Software Engineers using PocketBase](https://dev.to/y_s_k_n_s_n_/i-built-a-vscode-exclusive-bbs-for-software-engineers-using-pocketbase-5a5a)
-- [CARF Is Changing Crypto Forever: Why Traders Can No Longer Hide Behind Foreign Exchanges](https://dev.to/kpm_global/carf-is-changing-crypto-forever-why-traders-can-no-longer-hide-behind-foreign-exchanges-1egk)
-- [Terraform Stacks](https://dev.to/huzefaaa2/terraform-stacks-2ebg)
-- [NewType in Python](https://dev.to/hyperkai/newtype-in-python-p5f)
+- [Streamlit desde cero: cómo crear una app para explorar y visualizar datos desde un CSV](https://dev.to/mirinagonzales/streamlit-desde-cero-como-crear-una-app-para-explorar-y-visualizar-datos-desde-un-csv-5642)
+- [Top Open Source Projects That Will Dominate 2026](https://dev.to/jaysaadana/top-open-source-projects-that-will-dominate-2026-2moa)
+- [Ai Artshop Discount Code : &lpar;ARCH30&rpar; Unlock 10% Discount On Purchase](https://dev.to/referral_code_ee61ef9548a/ai-artshop-discount-code-arch30-unlock-10-discount-on-purchase-4ihj)
+- [Chatfeul Ai Promo Code : &lpar;arch30&rpar; Enjoy 15% Off On Subscription Plan](https://dev.to/referral_code_ee61ef9548a/chatfeul-ai-promo-code-arch30-enjoy-15-off-on-subscription-plan-log)
+- [Chative Ai Promo Code : &lpar;ARCH30&rpar; Exclusive 15% Off On Subscription Plan](https://dev.to/referral_code_ee61ef9548a/chative-ai-promo-code-arch30-exclusive-15-off-on-subscription-plan-47ll)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
