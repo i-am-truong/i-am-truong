@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to automatically add bookmarks to a PDF?](https://dev.to/anig1scur/how-to-automatically-add-bookmarks-to-a-pdf-49d2)
-- [🔄_Containerized_Deployment_Performance_Optimization[20260103223209]](https://dev.to/member_8659c28a/containerizeddeploymentperformanceoptimization20260103223209-cc3)
-- [Amoxtli Vue](https://dev.to/ackzell/amoxtli-vue-3p9j)
-- [How to Set Up Website Monitoring That Actually Works: A Developer&#39;s Guide](https://dev.to/shreefentsar/how-to-set-up-website-monitoring-that-actually-works-a-developers-guide-kj0)
-- [⚓ Kubernetes Explained Like You&#39;re 5](https://dev.to/esreekarreddy/kubernetes-explained-like-youre-5-1e7d)
+- [Agentes de IA: Dominando 3 Patrones Esenciales &lpar;Tool Using&rpar;. Parte 1 de 3](https://dev.to/gabrielmrojas/agentes-de-ia-dominando-3-patrones-esenciales-tool-using-parte-1-de-3-244l)
+- [AI Agents: Mastering 3 Essential Patterns &lpar;Tool Using&rpar;. Part 1 of 3](https://dev.to/gabrielmrojas/ai-agents-mastering-3-essential-patterns-tool-using-part-1-of-3-5d92)
+- [How I Run LLM Agents in a Secure Nix Sandbox](https://dev.to/andersonjoseph/how-i-run-llm-agents-in-a-secure-nix-sandbox-1899)
+- [Building a Modern Digital Garden with Google AI: My New Year, New You Portfolio](https://dev.to/eunit/building-a-modern-digital-garden-with-google-ai-my-new-year-new-you-portfolio-18l0)
+- [BinaryNet: Training Deep Neural Networks with Weights and ActivationsConstrained to +1 or -1](https://dev.to/paperium/binarynet-training-deep-neural-networks-with-weights-and-activationsconstrained-to-1-or-1-1d03)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
