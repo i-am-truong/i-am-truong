@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Pushing Snake and Ladder Docker Image to Container Registry](https://dev.to/aws-builders/pushing-snake-and-ladder-docker-image-to-container-registry-305m)
-- [Do Dev ao Arquiteto: O Papel da Liderança Técnica em Ambientes Ágeis](https://dev.to/danielcamucatto/do-dev-ao-arquiteto-o-papel-da-lideranca-tecnica-em-ambientes-ageis-2bdl)
-- [React Hooks and the Rules of Hooks – The Understanding That Finally Clicked for Me](https://dev.to/usama_dev/react-hooks-and-the-rules-of-hooks-the-understanding-that-finally-clicked-for-me-hm4)
-- [Building a Trustworthy Online IQ Test as a Developer](https://dev.to/whats-your-iq-free-test-result/building-a-trustworthy-online-iq-test-as-a-developer-4b89)
-- [Building a Secure Password Manager](https://dev.to/vibhav_chennamadhava_a887/building-a-secure-password-manager-20o5)
+- [CoordConversions Demo](https://dev.to/smatthew/coordconversions-demo-2pl7)
+- [Introducing Tagnovate: Link-in-Bio with AI, Bookings &amp; NFC](https://dev.to/mayu2008/introducing-tagnovate-link-in-bio-with-ai-bookings-nfc-3l40)
+- [Kube-Proxy and CNI: The Backbone of Kubernetes Networking](https://dev.to/bharadwajshivam/kube-proxy-and-cni-the-backbone-of-kubernetes-networking-1pbk)
+- [I’ve systematized the Big Tech interview process into 4 phases and a single-page scorecard](https://dev.to/dmitrevnik/ive-systematized-the-big-tech-interview-process-into-4-phases-and-a-single-page-scorecard-1g0e)
+- [Rork vs Lovable: where beginners actually get stuck](https://dev.to/gonenccelik/rork-vs-lovable-where-beginners-actually-get-stuck-2i62)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
