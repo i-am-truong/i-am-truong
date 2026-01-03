@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Embedded Systems Programming &amp; IoT: How can I build my own Ryzen AI Max? 🤔](https://dev.to/javadinteger/embedded-systems-programming-iot-how-can-i-make-my-own-ryzen-ai-max-53m3)
-- [I built a Docker vulnerability scanner - Beta testers wanted!!!](https://dev.to/jake_e115018d1995da2050f6/i-built-a-docker-vulnerability-scanner-beta-testers-wanted-1lm0)
-- [Why setTimeout Returns an Object in Node.js &lpar;and Why setInterval Can Break Your App&rpar;](https://dev.to/silentwatcher_95/why-settimeout-returns-an-object-in-nodejs-and-why-setinterval-can-break-your-app-4jlj)
-- [Why I Built a Marketplace for Vibe-Coded Apps](https://dev.to/imran_hassan_df9c98d874de/why-i-built-a-marketplace-for-vibe-coded-apps-3gho)
-- [New Year, New You Portfolio Challenge - Samarth Shendre](https://dev.to/samarth28/new-year-new-you-portfolio-challenge-samarth-shendre-a30)
+- [Amoxtli Vue](https://dev.to/ackzell/amoxtli-vue-3p9j)
+- [How to Set Up Website Monitoring That Actually Works: A Developer&#39;s Guide](https://dev.to/shreefentsar/how-to-set-up-website-monitoring-that-actually-works-a-developers-guide-kj0)
+- [Business Logic Is the Real Product &lpar;So I Built logicrepo&rpar;](https://dev.to/alexdrimbe/business-logic-is-the-real-product-so-i-built-logicrepo-23bj)
+- [[Boost]](https://dev.to/justgeek/-2hfe)
+- [Building a Catalog GraphQL API with InversifyJS - Part 4: Subscriptions &amp; Redis](https://dev.to/notaphplover/building-a-catalog-graphql-api-with-inversifyjs-part-4-subscriptions-redis-4kgn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
