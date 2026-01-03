@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [JDP Floorplans Explained: The Layout Decision That Saves You Hours](https://dev.to/mohantammineni/jdp-floorplans-explained-the-layout-decision-that-saves-you-hours-51ah)
-- [How to Fix Common JSON Errors: A Developer’s Survival Guide](https://dev.to/codeitbro/how-to-fix-common-json-errors-a-developers-survival-guide-3nmm)
-- [Displaying Images in lf with Kitty and Tmux](https://dev.to/barim/displaying-images-in-lf-with-kitty-and-tmux-2971)
-- [Your skills the anchor: Staying relevant in the Vibe Era](https://dev.to/alex_cybercoder/your-skills-the-anchor-staying-relevant-in-the-vibe-era-2h32)
-- [I Built an AI Tool to Practise GMing — Because “Prep” Isn’t the Same as “Practice”](https://dev.to/anthonyhumphreys/i-built-an-ai-tool-to-practise-gming-because-prep-isnt-the-same-as-practice-1amm)
+- [Daily Echo - Your Life in Motion 🎥](https://dev.to/varshithvhegde/daily-echo-your-life-in-motion-2938)
+- [From Fresh Mac to Productive in 30 Minutes](https://dev.to/nickytonline/from-fresh-mac-to-productive-in-30-minutes-21db)
+- [A Local-First Way to Debug Kubernetes Incidents: KubeGraf](https://dev.to/kubegraf_io/a-local-first-way-to-debug-kubernetes-incidents-kubegraf-3ihd)
+- [Guide to Parsing Financial Protocols and the FEBRABAN Standard with Elixir Binaries](https://dev.to/matheuscamarques/the-definitive-guide-to-parsing-financial-protocols-and-the-febraban-standard-5fkj)
+- [Migrating from Big Tech](https://dev.to/richardpascoe/migrating-from-big-tech-33ed)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
