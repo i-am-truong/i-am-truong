@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [-&gt;&gt; Day-14 Host A Static Website in AWS S3 And CloudFront &lpar;using terraform&rpar;](https://dev.to/amit_kumar_7db8e36a64dd45/-day-14-host-a-static-website-in-aws-s3-and-cloudfront-using-terraform-5ffj)
-- [Install Typesense on AlmaLinux 10](https://dev.to/ramankumar/install-typesense-on-almalinux-10-5bab)
-- [Deep Dive into QuantMesh Core Implementation: Technical Architecture of a High-Performance Grid Trading System](https://dev.to/ghostsworm/deep-dive-into-quantmesh-core-implementation-technical-architecture-of-a-high-performance-grid-248g)
-- [ZoeDepth: Zero-shot Transfer by Combining Relative and Metric Depth](https://dev.to/paperium/zoedepth-zero-shot-transfer-by-combining-relative-and-metric-depth-5e32)
-- [How to Install Umami Analytics on AlmaLinux 10](https://dev.to/ramankumar/how-to-install-umami-analytics-on-almalinux-10-1hn9)
+- [From Netrw to FTX: Building a Git-Aware File Tree for Vim](https://dev.to/m__mdy__m/from-netrw-to-ftx-building-a-git-aware-file-tree-for-vim-56g9)
+- [I Built a Social Network Where You Have to Write SQL to Post. I Regret Nothing](https://dev.to/levla/i-built-a-social-network-where-you-have-to-write-sql-to-post-i-regret-nothing-23n0)
+- [AWS CDK vs Terraform: The Complete 2026 Comparison](https://dev.to/aws-builders/aws-cdk-vs-terraform-the-complete-2026-comparison-3b4p)
+- [Case Study: Reducing Complexity By Migrating from K8S to ECS Fargate for NetworkLessons](https://dev.to/aws-builders/case-study-reducing-complexity-by-migrating-from-k8s-to-ecs-fargate-for-networklessons-3271)
+- [What is ClickOps? The Complete AWS Guide to Eliminating Manual Operations](https://dev.to/aws-builders/what-is-clickops-the-complete-aws-guide-to-eliminating-manual-operations-8i8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
