@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [We don&#39;t do that here: How to Go the Go way - Part 1](https://dev.to/medunes/we-dont-do-that-here-how-to-go-the-go-way-part-1-25p7)
+- [Artificial Intelligence in Product Decision Making](https://dev.to/winslow/artificial-intelligence-in-product-decision-making-28e1)
+- [Why I Believe Real Learning Happens While Building Real Projects](https://dev.to/ansari_sultan/why-i-believe-real-learning-happens-while-building-real-projects-2b2p)
 - [My Cybersecurity Homelab: A Hands-On Journey into Defensive and Offensive Operations](https://dev.to/shynsec/my-cybersecurity-homelab-a-hands-on-journey-into-defensive-and-offensive-operations-2fa9)
 - [From Swagger to Tests: Building an AI-Powered API Test Generator with Python](https://dev.to/m4rri4nne/from-swagger-to-tests-building-an-ai-powered-api-test-generator-with-python-3mf8)
-- [🚀 NestJS + RedisOM: Elevando el manejo de Estado a otro nivel](https://dev.to/alpha018/nestjs-redisom-elevando-el-manejo-de-estado-a-otro-nivel-46bo)
-- [PromptLedger: Local-first prompt version control](https://dev.to/ertugrulmutlu/promptledger-local-first-prompt-version-control-2pk0)
-- [OLSRT now is fully documented!](https://dev.to/javadinteger/olsrt-now-is-fully-documented-5249)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
