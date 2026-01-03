@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Prime number](https://dev.to/seenu_seenu_1e97a9dd35e0c/prime-number-1lfl)
-- [Building a YouTube Automation System with Claude AI: From News to Shorts in Minutes](https://dev.to/trollz1004/building-a-youtube-automation-system-with-claude-ai-from-news-to-shorts-in-minutes-53a0)
-- [Building a &quot;Private Google&quot; with Local AI: A Beginner&#39;s Guide to Weaviate &amp; Ollama](https://dev.to/harishkotra/building-a-private-google-with-local-ai-a-beginners-guide-to-weaviate-ollama-3ck)
-- [Building a Modern Real Estate Website Demo with Next.js, TypeScript &amp; GSAP](https://dev.to/hashirkhan/building-a-modern-real-estate-website-demo-with-nextjs-typescript-gsap-8di)
-- [Zero-Knowledge Security: Protecting Patient Privacy Through Client-Side Encryption](https://dev.to/wellallytech/zero-knowledge-security-protecting-patient-privacy-through-client-side-encryption-2onm)
+- [Self-hosting SvelteKit app - the easy way](https://dev.to/kvetoslavnovak/self-hosting-sveltekit-app-the-easy-way-2g1d)
+- [Why Modern Browsers Eat So Much RAM](https://dev.to/ravish2403/why-modern-browsers-eat-so-much-ram-3968)
+- [Marching Cubes algorithm written in Rust](https://dev.to/embernoglow/marching-cubes-algorithm-written-in-rust-473d)
+- [I Found an LLM Weakness. Fixing It Cut My Token Usage 50%.](https://dev.to/warnerbell/i-found-an-llm-weakness-fixing-it-cut-my-token-usage-50-58i6)
+- [Blind Indexing — A Arte de Buscar o que Você Não Pode Ler](https://dev.to/petrusnoleto/blind-indexing-a-arte-de-buscar-o-que-voce-nao-pode-ler-3cc4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
