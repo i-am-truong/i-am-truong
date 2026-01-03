@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From idea to shipping in 14 days: My journey building a Markdown tool](https://dev.to/markdown/from-idea-to-shipping-in-14-days-my-journey-building-a-markdown-tool-543h)
+- [Agile Software Development Methods: Review and Analysis](https://dev.to/paperium/agile-software-development-methods-review-and-analysis-3ckj)
+- [The Project Nursery](https://dev.to/dsmurrell/the-project-nursery-10a5)
 - [How to Use Claude Code with Qwen models for Free &lpar;Linux&rpar;](https://dev.to/mohsinsheikhani/how-to-use-claude-code-with-qwen-models-for-free-linux-1fc4)
-- [Sharing my thoughts on experience/learning from Freelancing journey](https://dev.to/zhravan/sharing-my-thoughts-on-experiencelearning-from-freelancing-journey-1dgh)
-- [OAuth Simplified: A Hands-On Breakdown](https://dev.to/sanl0wkey/oauth-simplified-a-hands-on-breakdown-20pb)
-- [My Page Loaded in 2 Seconds… According to Me](https://dev.to/javascriptwizzard/my-page-loaded-in-2-seconds-according-to-me-26pl)
-- [Why Goroutines Scale: Stack Growth, Compiler Tricks, and Context Switching](https://dev.to/ayush-k-anand/why-goroutines-scale-stack-growth-compiler-tricks-and-context-switching-k54)
+- [I Accidentally Made Claude Ask Itself the Same Question 1,966 Times](https://dev.to/sean8/i-accidentally-made-claude-ask-itself-the-same-question-1966-times-1c5h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
