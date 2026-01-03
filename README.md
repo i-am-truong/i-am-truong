@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Meta-DAG: Building AI Governance with AI](https://dev.to/alan_tsai_00dbd905e668f74/meta-dag-building-ai-governance-with-ai-3k0a)
-- [🧠Impostor Syndrome Workflow.](https://dev.to/marcosomma/impostor-syndrome-workflow-3n2f)
-- [I Built a Color Wheel for React published](https://dev.to/usapopopooon/i-built-a-color-wheel-for-react-published-141)
-- [🎯 My Spring Boot Controllers Looked Fine… Until I Understood the Presentation Layer](https://dev.to/shashwathsh/my-spring-boot-controllers-looked-fine-until-i-understood-the-presentation-layer-59m2)
-- [The 2 minute Inner Loop: Revolutionizing Local Development in 2026](https://dev.to/meena_nukala/the-2-minute-inner-loop-revolutionizing-local-development-in-2026-570f)
+- [Top 10 DevOps Tools Dominating 2026: The Must-Have Toolkit 🚀](https://dev.to/meena_nukala/top-10-devops-tools-dominating-2026-the-must-have-toolkit-1kel)
+- [Finding API Endpoints: Scrape the Data Source, Not the Website](https://dev.to/ikram_khan/finding-api-endpoints-scrape-the-data-source-not-the-website-2a49)
+- [🎮 Learning Game Development – Day 8](https://dev.to/dinesh_04/learning-game-development-day-8-1gph)
+- [Top 7 AI Tools Every DevOps and SRE Engineer Needs in 2026 🚀](https://dev.to/meena_nukala/top-7-ai-tools-every-devops-and-sre-engineer-needs-in-2026-242c)
+- [Introducing Embex: The Universal Vector Database ORM](https://dev.to/josias1997/introducing-embex-the-universal-vector-database-orm-4mpc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
