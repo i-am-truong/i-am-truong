@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Goroutines Scale: Stack Growth, Compiler Tricks, and Context Switching](https://dev.to/ayush-k-anand/why-goroutines-scale-stack-growth-compiler-tricks-and-context-switching-k54)
+- [REST vs GraphQL in Practice, Trade-offs for Backend and Frontend Teams](https://dev.to/saber-amani/rest-vs-graphql-in-practice-trade-offs-for-backend-and-frontend-teams-2no9)
+- [Did you know?](https://dev.to/cloudraptor/did-you-know-4h0k)
+- [Working Hours, Overtime, and Severance Calculations in Brazil: A Practical, Developer-Friendly Guide](https://dev.to/fawad_khan_58ef17f70efbe6/working-hours-overtime-and-severance-calculations-in-brazil-a-practical-developer-friendly-guide-n26)
 - [Getting started with gitlab](https://dev.to/bala_murugan_/getting-started-with-gitlab-g8e)
-- [The Blazor Closure Bug That Made All My Time Slots 24:00 🕛 🕛](https://dev.to/taherm18/the-blazor-closure-bug-that-made-all-my-time-slots-2400--g7m)
-- [The Complete Guide to Facebook Scraper - How to Scrape Facebook Posts, Pages, Groups &amp; Public Data in 2026 published](https://dev.to/anadil_khalil_b75a8464d97/the-complete-guide-to-facebook-scraper-how-to-scrape-facebook-posts-pages-groups-public-data-3np)
-- [DEV Worldwide Show and Tell Challenge · Best Use of Mux 🎥 Projura](https://dev.to/halakabir234hub/dev-worldwide-show-and-tell-challenge-best-use-of-mux-projura-382c)
-- [Prisma + StackRender: Design Your Database and Start Building Your Backend](https://dev.to/karim_tamani/prisma-stackrender-design-your-database-and-start-building-your-backend-1b2h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
