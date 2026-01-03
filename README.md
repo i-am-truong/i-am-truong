@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to automatically add bookmarks to a PDF?](https://dev.to/anig1scur/how-to-automatically-add-bookmarks-to-a-pdf-49d2)
+- [🔄_Containerized_Deployment_Performance_Optimization[20260103223209]](https://dev.to/member_8659c28a/containerizeddeploymentperformanceoptimization20260103223209-cc3)
 - [Amoxtli Vue](https://dev.to/ackzell/amoxtli-vue-3p9j)
 - [How to Set Up Website Monitoring That Actually Works: A Developer&#39;s Guide](https://dev.to/shreefentsar/how-to-set-up-website-monitoring-that-actually-works-a-developers-guide-kj0)
-- [Business Logic Is the Real Product &lpar;So I Built logicrepo&rpar;](https://dev.to/alexdrimbe/business-logic-is-the-real-product-so-i-built-logicrepo-23bj)
-- [[Boost]](https://dev.to/justgeek/-2hfe)
-- [Building a Catalog GraphQL API with InversifyJS - Part 4: Subscriptions &amp; Redis](https://dev.to/notaphplover/building-a-catalog-graphql-api-with-inversifyjs-part-4-subscriptions-redis-4kgn)
+- [⚓ Kubernetes Explained Like You&#39;re 5](https://dev.to/esreekarreddy/kubernetes-explained-like-youre-5-1e7d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
