@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Local AI Tools: Introducing LocalAI &lpar;Tool 3&rpar;](https://dev.to/alexlead/local-ai-tools-introducing-localai-tool-3-3h67)
-- [Shopee Data Collection with API: What Data You Can and Cannot Access](https://dev.to/easydata123/shopee-data-collection-with-api-what-data-you-can-and-cannot-access-4b1b)
-- [Building a 3D Interactive Portfolio with React 19, Three.js, and a Gemini AI Agent](https://dev.to/brieu/building-a-3d-interactive-portfolio-with-react-19-threejs-and-a-gemini-ai-agent-5efj)
-- [Ethereum-Solidity Quiz Q12: What does this sequence of opcodes do? PUSH1 0x80 / PUSH1 0x40 / MSTORE](https://dev.to/mihaihng/ethereum-solidity-quiz-q12-what-does-this-sequence-of-opcodes-dopush1-0x80push1-0x40mstore-1m26)
-- [RAG &amp; Vector Databases - Efficient Retrieval Explained](https://dev.to/hkj13/rag-vector-databases-efficient-retrieval-explained-2ik9)
+- [Pushing Snake and Ladder Docker Image to Container Registry](https://dev.to/aws-builders/pushing-snake-and-ladder-docker-image-to-container-registry-305m)
+- [Do Dev ao Arquiteto: O Papel da Liderança Técnica em Ambientes Ágeis](https://dev.to/danielcamucatto/do-dev-ao-arquiteto-o-papel-da-lideranca-tecnica-em-ambientes-ageis-2bdl)
+- [React Hooks and the Rules of Hooks – The Understanding That Finally Clicked for Me](https://dev.to/usama_dev/react-hooks-and-the-rules-of-hooks-the-understanding-that-finally-clicked-for-me-hm4)
+- [Building a Trustworthy Online IQ Test as a Developer](https://dev.to/whats-your-iq-free-test-result/building-a-trustworthy-online-iq-test-as-a-developer-4b89)
+- [Building a Secure Password Manager](https://dev.to/vibhav_chennamadhava_a887/building-a-secure-password-manager-20o5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
