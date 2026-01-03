@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [-&gt;&gt; Day-14 Host A Static Website in AWS S3 And CloudFront &lpar;using terraform&rpar;](https://dev.to/amit_kumar_7db8e36a64dd45/-day-14-host-a-static-website-in-aws-s3-and-cloudfront-using-terraform-5ffj)
 - [Install Typesense on AlmaLinux 10](https://dev.to/ramankumar/install-typesense-on-almalinux-10-5bab)
 - [Deep Dive into QuantMesh Core Implementation: Technical Architecture of a High-Performance Grid Trading System](https://dev.to/ghostsworm/deep-dive-into-quantmesh-core-implementation-technical-architecture-of-a-high-performance-grid-248g)
 - [ZoeDepth: Zero-shot Transfer by Combining Relative and Metric Depth](https://dev.to/paperium/zoedepth-zero-shot-transfer-by-combining-relative-and-metric-depth-5e32)
 - [How to Install Umami Analytics on AlmaLinux 10](https://dev.to/ramankumar/how-to-install-umami-analytics-on-almalinux-10-1hn9)
-- [Install and Secure MongoDB on Rocky Linux 10](https://dev.to/ramankumar/install-and-secure-mongodb-on-rocky-linux-10-50bb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
