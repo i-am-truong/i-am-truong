@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Why Auth0 email_verified Was Missing from My Access Token &lpar;And How to Fix It&rpar;](https://dev.to/anand_rathnas_d5b608cc3de/why-auth0-emailverified-was-missing-from-my-access-token-and-how-to-fix-it-e94)
-- [test](https://dev.to/prime_299792/test-14n6)
-- [From Reading to Writing: My Dev.to Journey Through 2025](https://dev.to/konark_13/from-reading-to-writing-my-devto-journey-through-2025-1f97)
-- [Digital Invitations &amp; AI: A Small Effort to Make Wedding Planning a Bit Easier](https://dev.to/titasmallick/digital-invitations-ai-a-small-effort-to-make-wedding-planning-a-bit-easier-5d28)
-- [ISO 45001 Documents: Purpose, Outcomes, and Core Components](https://dev.to/joy1/iso-45001-documents-purpose-outcomes-and-core-components-4gd)
+- [Terraform Guardrail MCP](https://dev.to/huzefaaa2/terraform-guardrail-mcp-2mjg)
+- [Rust Lifetimes Explained](https://dev.to/godofgeeks/rust-lifetimes-explained-1f9m)
+- [Jenkins CI/CD Project](https://dev.to/sushilbaligar/jenkins-cicd-project-4of3)
+- [Why are Unary Operators so Hard?](https://dev.to/ryan_bae_5bd7d40241e52c14/why-are-unary-operators-so-hard-48k8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
