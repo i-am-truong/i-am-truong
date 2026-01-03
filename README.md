@@ -120,13 +120,12 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Config Management](https://dev.to/ashwani_arya_291e758bf74d/config-management-8d9)
-- [Indo Western Outfits for Women for Weddings, Parties, and Casual Wear](https://dev.to/ananyaraowrites/indo-western-outfits-for-women-for-weddings-parties-and-casual-wear-3d5o)
-- [Rust Lifetimes Explained](https://dev.to/godofgeeks/rust-lifetimes-explained-1l43)
-- [Fixing my sleep schedule fixed my year](https://dev.to/manuchehr/fixing-my-sleep-schedule-fixed-my-year-kad)
-- [In the next 30 days, I’m talking about the democratisation of AI with one mission:
-
-AI should feel practical, affordable, and safe, especially for small businesses and founders.](https://dev.to/jaideepparashar/in-the-next-30-days-im-talking-about-the-democratisation-of-ai-with-one-mission-ai-should-c2l)
+- [Spec-Driven Development: Stop Vibe Coding](https://dev.to/alfredoperez/spec-driven-development-stop-vibe-coding-af2)
+- [Universal Knowledge Base for AI](https://dev.to/alfredoperez/universal-knowledge-base-for-ai-432g)
+- [Uploaded a 120-page PDF instant AI chat. 
+If you want the same setup, FastRAG is live - https://www.fastrag.live/](https://dev.to/atultrp/uploaded-a-120-page-pdf-instant-ai-chat-if-you-want-the-same-setup-fastrag-is-live--27lk)
+- [Hey. Writing Here Feels Harder Than It Should](https://dev.to/denysshchur/hey-writing-here-feels-harder-than-it-should-598o)
+- [Daily Tech News Roundup - 2026-01-03](https://dev.to/atharvshinde2004/daily-tech-news-roundup-2026-01-03-316m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
