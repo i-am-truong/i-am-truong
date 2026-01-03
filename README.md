@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From Netrw to FTX: Building a Git-Aware File Tree for Vim](https://dev.to/m__mdy__m/from-netrw-to-ftx-building-a-git-aware-file-tree-for-vim-378p)
 - [I Re-implemented Java Streams to Understand Lazy Evaluation](https://dev.to/ssj256x/i-re-implemented-java-streams-to-understand-lazy-evaluation-1if0)
 - [I built a &#39;Peter Lynch&#39; Stock Analyzer in Python &lpar;using yfinance&rpar;](https://dev.to/ccwukong/i-built-a-peter-lynch-stock-analyzer-in-python-using-yfinance-3l1g)
 - [[Boost]](https://dev.to/cypriantinasheaarons/-3ild)
 - [TabbySpaces - visual workspace editor for Tabby terminal](https://dev.to/igor_halilovic_3fa0baa977/tabbyspaces-visual-workspace-editor-for-tabby-terminal-2ig6)
-- [How to Make AI Consolidate Code—Without Micromanagement](https://dev.to/synthaicode_commander/dry-first-refactoring-protocol-23k2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
