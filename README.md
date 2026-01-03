@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Netrw to FTX: Building a Git-Aware File Tree for Vim](https://dev.to/m__mdy__m/from-netrw-to-ftx-building-a-git-aware-file-tree-for-vim-378p)
-- [I Re-implemented Java Streams to Understand Lazy Evaluation](https://dev.to/ssj256x/i-re-implemented-java-streams-to-understand-lazy-evaluation-1if0)
-- [I built a &#39;Peter Lynch&#39; Stock Analyzer in Python &lpar;using yfinance&rpar;](https://dev.to/ccwukong/i-built-a-peter-lynch-stock-analyzer-in-python-using-yfinance-3l1g)
-- [[Boost]](https://dev.to/cypriantinasheaarons/-3ild)
-- [TabbySpaces - visual workspace editor for Tabby terminal](https://dev.to/igor_halilovic_3fa0baa977/tabbyspaces-visual-workspace-editor-for-tabby-terminal-2ig6)
+- [ai-sdd: Transform AI Agents into Spec-Driven Developers](https://dev.to/leonardo_sampaio_9036e421/ai-sdd-transform-ai-agents-into-spec-driven-developers-gmf)
+- [La gobernanza de la inteligencia artificial suele abordarse como si fuera un framework estático](https://dev.to/antonio_socorro_95e3ff086/la-gobernanza-de-la-inteligencia-artificial-suele-abordarse-como-si-fuera-un-framework-estatico-13jf)
+- [AI Governance Is Not a Static Framework — It Is a Capability That Must Be Sustained](https://dev.to/antonio_socorro_95e3ff086/ai-governance-is-not-a-static-framework-it-is-a-capability-that-must-be-sustained-9mg)
+- [Beyond Sorting: A mathematical O&lpar;n&rpar; Solution to Arithmetic Progression](https://dev.to/slumhee/beyond-sorting-a-mathematical-on-solution-to-arithmetic-progression-2g5g)
+- [Web Application Using Python Singapore | Exiga Software](https://dev.to/lavanya990/web-application-using-python-singapore-exiga-software-105c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
