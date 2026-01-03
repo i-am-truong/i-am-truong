@@ -120,11 +120,13 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Brave Search MCP looks great on paper , how reliable is it in real workflows?](https://dev.to/deepika_n_417a1b69443e2bd/brave-search-mcp-looks-great-on-paper-how-reliable-is-it-in-real-workflows-1i1)
-- [DevOpsMind Deep-Dive](https://dev.to/infraforgelabs/devopsmind-deep-dive-3p4l)
-- [DevOpsMind v1.0.0: A CLI-First, Offline-First Way to Learn Real DevOps](https://dev.to/infraforgelabs/devopsmind-v100-a-cli-first-offline-first-way-to-learn-real-devops-3eog)
-- [Fitness App Architecture: How Asynchronous Processing Creates a Smoother User Experience](https://dev.to/wellallytech/fitness-app-architecture-how-asynchronous-processing-creates-a-smoother-user-experience-2pih)
-- [LeetCode DSA Series #2: 125. Valid Palindrome](https://dev.to/daveson217/leetcode-dsa-series-2-125-valid-palindrome-286b)
+- [Config Management](https://dev.to/ashwani_arya_291e758bf74d/config-management-8d9)
+- [Indo Western Outfits for Women for Weddings, Parties, and Casual Wear](https://dev.to/ananyaraowrites/indo-western-outfits-for-women-for-weddings-parties-and-casual-wear-3d5o)
+- [Rust Lifetimes Explained](https://dev.to/godofgeeks/rust-lifetimes-explained-1l43)
+- [Fixing my sleep schedule fixed my year](https://dev.to/manuchehr/fixing-my-sleep-schedule-fixed-my-year-kad)
+- [In the next 30 days, I’m talking about the democratisation of AI with one mission:
+
+AI should feel practical, affordable, and safe, especially for small businesses and founders.](https://dev.to/jaideepparashar/in-the-next-30-days-im-talking-about-the-democratisation-of-ai-with-one-mission-ai-should-c2l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
