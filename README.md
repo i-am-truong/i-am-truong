@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Enums no Rails 8: anatomia e uma aplicação prática](https://dev.to/dominique_morem/enums-no-rails-8-anatomia-e-aplicacao-4joo)
-- [[Concept] And I thought I knew DNS](https://dev.to/deadlock/concept-and-i-thought-i-knew-dns-2kbe)
-- [WSL2 &amp; Ubuntu: Professional Tricks for Daily Productivity](https://dev.to/itpraktika/wsl2-ubuntu-professional-tricks-for-daily-productivity-2hh5)
-- [Why Ethiopian Businesses Need Custom Software &lpar;Not Off-the-Shelf Tools&rpar;](https://dev.to/ataos_technology_b2e96fb4/why-ethiopian-businesses-need-custom-software-not-off-the-shelf-tools-fi5)
-- [React Hooks - Part 1: useState](https://dev.to/ethan_zhang_e501fea89c25b/react-hooks-part-1-usestate-3ijg)
+- [Local AI Tools: Introducing LocalAI &lpar;Tool 3&rpar;](https://dev.to/alexlead/local-ai-tools-introducing-localai-tool-3-3h67)
+- [Shopee Data Collection with API: What Data You Can and Cannot Access](https://dev.to/easydata123/shopee-data-collection-with-api-what-data-you-can-and-cannot-access-4b1b)
+- [Building a 3D Interactive Portfolio with React 19, Three.js, and a Gemini AI Agent](https://dev.to/brieu/building-a-3d-interactive-portfolio-with-react-19-threejs-and-a-gemini-ai-agent-5efj)
+- [Ethereum-Solidity Quiz Q12: What does this sequence of opcodes do? PUSH1 0x80 / PUSH1 0x40 / MSTORE](https://dev.to/mihaihng/ethereum-solidity-quiz-q12-what-does-this-sequence-of-opcodes-dopush1-0x80push1-0x40mstore-1m26)
+- [RAG &amp; Vector Databases - Efficient Retrieval Explained](https://dev.to/hkj13/rag-vector-databases-efficient-retrieval-explained-2ik9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
