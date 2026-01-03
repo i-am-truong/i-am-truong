@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Accessibility: 2026 predictions](https://dev.to/micaavigliano/accessibility-2026-predictions-3g9)
-- [Why I Replaced My Go Gateway with 600 Lines of C](https://dev.to/dmitry_labintcev_9e611e04/why-i-replaced-my-go-gateway-with-600-lines-of-c-4chb)
-- [I am building a screen recorder for creating studio-quality product demos](https://dev.to/shawnhacks/i-am-building-a-screen-recorder-for-creating-studio-quality-product-demos-305d)
-- [India vs UK: The Silent AI War Nobody&#39;s Talking About - How Two Nations Are Racing to Define AI&#39;s Future](https://dev.to/shiva_shanker_k/india-vs-uk-the-silent-ai-war-nobodys-talking-about-how-two-nations-are-racing-to-define-ais-23ic)
-- [What We Lose By Using Instead of Creating - as devs and agencies](https://dev.to/tomj/what-we-lose-by-using-instead-of-creating-as-devs-and-agencies-5h53)
+- [Meta-DAG: Building AI Governance with AI](https://dev.to/alan_tsai_00dbd905e668f74/meta-dag-building-ai-governance-with-ai-3k0a)
+- [🧠Impostor Syndrome Workflow.](https://dev.to/marcosomma/impostor-syndrome-workflow-3n2f)
+- [I Built a Color Wheel for React published](https://dev.to/usapopopooon/i-built-a-color-wheel-for-react-published-141)
+- [🎯 My Spring Boot Controllers Looked Fine… Until I Understood the Presentation Layer](https://dev.to/shashwathsh/my-spring-boot-controllers-looked-fine-until-i-understood-the-presentation-layer-59m2)
+- [The 2 minute Inner Loop: Revolutionizing Local Development in 2026](https://dev.to/meena_nukala/the-2-minute-inner-loop-revolutionizing-local-development-in-2026-570f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
