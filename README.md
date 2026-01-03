@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How IronPDF Turns Untrustworthy CSV Data into Auditable Truth in C#](https://dev.to/simran0807/how-ironpdf-turns-untrustworthy-csv-data-into-auditable-truth-in-c-1ck0)
-- [Five Projects, Carefully Unhinged and Fully Deployed](https://dev.to/trojanmocx/five-projects-carefully-unhinged-and-fully-deployed-2430)
-- [How the Creator of Claude Code Uses Claude Code: A Complete Breakdown](https://dev.to/sivarampg/how-the-creator-of-claude-code-uses-claude-code-a-complete-breakdown-4f07)
-- [How RAG Works...](https://dev.to/ankit_rattan/how-rag-works-2pj5)
-- [How To Install Kimai on Debian 13](https://dev.to/ramankumar/how-to-install-kimai-on-debian-13-5bl3)
+- [Why I Replaced My Go Gateway with 600 Lines of C](https://dev.to/dmitry_labintcev_9e611e04/why-i-replaced-my-go-gateway-with-600-lines-of-c-4chb)
+- [I am building a screen recorder for creating studio-quality product demos](https://dev.to/shawnhacks/i-am-building-a-screen-recorder-for-creating-studio-quality-product-demos-305d)
+- [India vs UK: The Silent AI War Nobody&#39;s Talking About - How Two Nations Are Racing to Define AI&#39;s Future](https://dev.to/shiva_shanker_k/india-vs-uk-the-silent-ai-war-nobodys-talking-about-how-two-nations-are-racing-to-define-ais-23ic)
+- [개발 조직에서 시니어의 진짜 역할: 성장 시스템 설계](https://dev.to/wes5510/gaebal-jojigeseo-sinieoyi-jinjja-yeoghal-seongjang-siseutem-seolgye-3f7b)
+- [Dockerizing a Node.js To-Do List and Deploying to AWS ECS](https://dev.to/chandrapenugonda/dockerizing-a-nodejs-to-do-list-and-deploying-to-aws-ecs-3cgf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
