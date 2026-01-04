@@ -120,13 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Look, I&#39;m going to be honest with you from the start.
-
-Becoming a full-stack developer in 2026 is both easier and harder than it&#39;s ever been. Easier because the tools are better, the](https://dev.to/thebitforge/look-im-going-to-be-honest-with-you-from-the-start-becoming-a-full-stack-developer-in-2026-is-2pjf)
-- [Filter CouchDB query results with arbitrary JavaScript - like SQL WHERE...](https://dev.to/jesperhoy/filter-couchdb-query-results-with-arbitrary-javascript-like-sql-where-3lf5)
-- [Vibe Coding Challenge: The Art and The Skill](https://dev.to/mckabue/vibe-coding-challenge-the-art-and-the-skill-3h1)
-- [Building a Battery-Powered Pomodoro Timer with Deep Sleep](https://dev.to/rogiervandenberg/building-a-battery-powered-pomodoro-timer-with-deep-sleep-1h64)
-- [Secure Authentication in Next.js: Building a Production-Ready Login System](https://dev.to/thekarlesi/secure-authentication-in-nextjs-building-a-production-ready-login-system-4m7)
+- [Master Gemini 3.0 Pro in 9 Minutes and Stop Wasting Time](https://dev.to/artificialintelligenceee/master-gemini-30-pro-in-9-minutes-and-stop-wasting-time-l1n)
+- [Git and Git Lab](https://dev.to/chandra_ramu_6ec0a1c1eb59/git-and-git-lab-54d8)
+- [The Death of the Syntax Coder: How AI Will Transform Your Career in 2026 &lpar;and How to Survive&rpar;](https://dev.to/mobeenulhassanhashmi/the-death-of-the-syntax-coder-how-ai-will-transform-your-career-in-2026-and-how-to-survive-gbf)
+- [Day 4: Setting Up CI/CD](https://dev.to/allscreenshots/day-4-setting-up-cicd-19jk)
+- [Türkçe Yolunda](https://dev.to/pnar_uzunova_5606d28ebb4/turkce-yolunda-405p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
