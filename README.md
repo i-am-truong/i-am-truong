@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Debug your process, Not your team](https://dev.to/bjornbrynjarjonsson/debug-your-process-not-your-team-4op8)
-- [How to Break Up God Objects, Strategies for Clean Backend Architecture](https://dev.to/saber-amani/how-to-break-up-god-objects-strategies-for-clean-backend-architecture-5ala)
-- [The Event Loop, Part II: The Wand Is Not Yours 🪄 &lpar;Or Why the UI Ignores You&rpar;](https://dev.to/elina_web_magic/the-event-loop-part-ii-the-wand-is-not-yours-or-why-the-ui-ignores-you-3kgg)
-- [Open Source, Open Heart: My Next Big Step](https://dev.to/santoshyadavdev/open-source-open-heart-my-next-big-step-3klf)
-- [What 100+ Production Incidents Taught Me About System Design](https://dev.to/muhammad_yawar_malik/what-100-production-incidents-taught-me-about-system-design-17h1)
+- [raProMo: The Free Promotion Hub in Madagascar](https://dev.to/aina_j/rapromo-the-free-promotion-hub-in-madagascar-375p)
+- [🚀 Extension Project III: from spreadsheet chaos to a web app](https://dev.to/deleanmafra/extension-project-iii-from-spreadsheet-chaos-to-a-web-app-3a1e)
+- [How to Use Google Patents for Prior Art &amp; Invalidity Searches](https://dev.to/patentscanai/how-to-use-google-patents-for-prior-art-invalidity-searches-43pd)
+- [Llama Guard: LLM-based Input-Output Safeguard for Human-AI Conversations](https://dev.to/paperium/llama-guard-llm-based-input-output-safeguard-for-human-ai-conversations-m1b)
+- [Zero-Downtime AKS Node Patching](https://dev.to/careerbytecode/zero-downtime-aks-node-patching-3j45)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
