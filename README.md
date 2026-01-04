@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Master Gemini 3.0 Pro in 9 Minutes and Stop Wasting Time](https://dev.to/artificialintelligenceee/master-gemini-30-pro-in-9-minutes-and-stop-wasting-time-l1n)
-- [Git and Git Lab](https://dev.to/chandra_ramu_6ec0a1c1eb59/git-and-git-lab-54d8)
-- [The Death of the Syntax Coder: How AI Will Transform Your Career in 2026 &lpar;and How to Survive&rpar;](https://dev.to/mobeenulhassanhashmi/the-death-of-the-syntax-coder-how-ai-will-transform-your-career-in-2026-and-how-to-survive-gbf)
-- [Day 4: Setting Up CI/CD](https://dev.to/allscreenshots/day-4-setting-up-cicd-19jk)
-- [Türkçe Yolunda](https://dev.to/pnar_uzunova_5606d28ebb4/turkce-yolunda-405p)
+- [BEST PRACTICES FOR CREATING A CONCURRENT API IN GOLANG](https://dev.to/nayy/best-practices-for-creating-a-concurrent-api-in-golang-c3k)
+- [The Myth of ‘Just Connect Lambda to RDS’](https://dev.to/aws-builders/the-myth-of-just-connect-lambda-to-rds-493n)
+- [Basic Logging in Fastapi using Logger module](https://dev.to/chengetanai_mukanhairi_5e/basic-logging-in-fastapi-using-logger-module-212h)
+- [The Myth of ‘Just Connect Lambda to RDS’](https://dev.to/stevenwleung/the-myth-of-just-connect-lambda-to-rds-4n82)
+- [🌐_Network_IO_Performance_Optimization[20260104120412]](https://dev.to/member_8659c28a/networkioperformanceoptimization20260104120412-1nn8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
