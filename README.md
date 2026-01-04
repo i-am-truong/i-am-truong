@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [BEST PRACTICES FOR CREATING A CONCURRENT API IN GOLANG](https://dev.to/nayy/best-practices-for-creating-a-concurrent-api-in-golang-c3k)
-- [The Myth of ‘Just Connect Lambda to RDS’](https://dev.to/aws-builders/the-myth-of-just-connect-lambda-to-rds-493n)
-- [Basic Logging in Fastapi using Logger module](https://dev.to/chengetanai_mukanhairi_5e/basic-logging-in-fastapi-using-logger-module-212h)
-- [The Myth of ‘Just Connect Lambda to RDS’](https://dev.to/stevenwleung/the-myth-of-just-connect-lambda-to-rds-4n82)
-- [🌐_Network_IO_Performance_Optimization[20260104120412]](https://dev.to/member_8659c28a/networkioperformanceoptimization20260104120412-1nn8)
+- [The basics of managing the database schema changes](https://dev.to/tanin47/managing-the-database-schema-changes-for-your-app-14dn)
+- [Will MCP become a standard? A look at what&#39;s coming](https://dev.to/gantz/will-mcp-become-a-standard-a-look-at-whats-coming-2di1)
+- [Understanding How Applications Talk to SQLite Internally](https://dev.to/lovestaco/understanding-how-applications-talk-to-sqlite-internally-4b9h)
+- [ALL ABOUT REST API](https://dev.to/bhu_kalki/all-about-rest-api-1924)
+- [Top 8 DevOps Tools Revolutionizing Development in 2026](https://dev.to/meena_nukala/top-8-devops-tools-revolutionizing-development-in-2026-4m6d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
