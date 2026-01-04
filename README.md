@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic: From Pandemic-Era Safety Concerns to a $350B AI Company](https://dev.to/thevenice/anthropic-from-pandemic-era-safety-concerns-to-a-350b-ai-company-5be1)
-- [I built a passwordless access system for cases where identity is unnecessary](https://dev.to/antonmb/i-built-a-passwordless-access-system-for-cases-where-identity-is-unnecessary-1kk3)
-- [🧠_Deep_Dive_Memory_Management_Performance[20260104043812]](https://dev.to/member_8659c28a/deepdivememorymanagementperformance20260104043812-1oeg)
-- [Why Edge AI Research Needs Field Validation: Lessons from Replicating MIT CSAIL](https://dev.to/shalinibhavi525sudo/why-edge-ai-research-needs-field-validation-lessons-from-replicating-mit-csail-2d4d)
-- [Complete Ollama Tutorial &lpar;2026&rpar;](https://dev.to/proflead/complete-ollama-tutorial-2026-14gj)
+- [Chain Rule &lpar;Aturan Rantai&rpar; dalam Kalkulus dan Relevansinya dalam Machine Learning](https://dev.to/ezzeddinp/chain-rule-aturan-rantai-dalam-kalkulus-dan-relevansinya-dalam-machine-learning-ml2)
+- [YouTube Video Thumbnail Downloader Tool](https://dev.to/ahmadfreetools/youtube-video-thumbnail-downloader-tool-2fgo)
+- [I just Starting to learn Rust](https://dev.to/bosnaufal/i-just-starting-to-learn-rust-4698)
+- [Stop Print Debugging Your AI Agents: A Deep Dive into Agent Observability](https://dev.to/angu10/stop-print-debugging-your-ai-agents-a-deep-dive-into-agent-observability-29eo)
+- [How Attention Shapes Knowledge Retention](https://dev.to/memory_rush_5bb9305e1ab6d/how-attention-shapes-knowledge-retention-1e9d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
