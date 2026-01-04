@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🔒_Security_Performance_Balance[20260104223626]](https://dev.to/member_8659c28a/securityperformancebalance20260104223626-6ne)
-- [GitPeek: Turning GitHub Data into Stories with Mux🔥🔥🎬](https://dev.to/onlyfave/gitpeek-turning-github-data-into-stories-with-mux-1ij2)
-- [Playwright vs. Selenium: A 2026 Architecture Review](https://dev.to/deepak_mishra_35863517037/playwright-vs-selenium-a-2026-architecture-review-347d)
-- [Coding Challenge Practice - Question 94](https://dev.to/tomivan/coding-challenge-practice-question-94-1bhf)
-- [📱 WebSockets Explained Like You&#39;re 5](https://dev.to/esreekarreddy/websockets-explained-like-youre-5-152a)
+- [🚀 AutoReadme: Revolutionizing Developer Documentation with AI](https://dev.to/divyasinghdev/autoreadme-revolutionizing-developer-documentation-with-ai-3ein)
+- [54. Spiral Matrix | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/54-spiral-matrix-leetcode-top-interview-150-coding-questions-2a1j)
+- [2026-01-04 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2026-01-04-daily-ai-news-g06)
+- [Progress on STAR &lpar;EOM&rpar;](https://dev.to/ryan_bae_5bd7d40241e52c14/progress-on-star-eom-4p8h)
+- [Kubernetes Project #2](https://dev.to/jumptotech/kubernetes-project-2-4805)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
