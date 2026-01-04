@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Agents: Mastering 3 Essential Patterns &lpar;ReAct&rpar;. Part 2 of 3](https://dev.to/gabrielmrojas/ai-agents-mastering-3-essential-patterns-react-part-2-of-3-1b1d)
+- [Agentes de IA: Dominando 3 Patrones Esenciales &lpar;ReAct&rpar;. Parte 2 de 3](https://dev.to/gabrielmrojas/agentes-de-ia-dominando-3-patrones-esenciales-react-parte-2-de-3-1mdb)
 - [📈_Scalability_Architecture_Design[20260104212955]](https://dev.to/member_8659c28a/scalabilityarchitecturedesign20260104212955-2e7e)
 - [Building a Kafka Event-Driven Spring Boot Application with Avro, Schema Registry and PostgreSQL](https://dev.to/mathias82/building-a-kafka-event-driven-spring-boot-application-with-avro-schema-registry-and-postgresql-3i0)
 - [Crunching Numbers: World Cup 2026 Predictions and Trends](https://dev.to/mabualzait/crunching-numbers-world-cup-2026-predictions-and-trends-4kap)
-- [Did you know?](https://dev.to/cloudraptor/did-you-know-4de3)
-- [Estacionariedade: Por que a Média Histórica é Perigosa para suas Projeções](https://dev.to/_richardson_/estacionariedade-por-que-a-media-historica-e-perigosa-para-suas-projecoes-1ko7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
