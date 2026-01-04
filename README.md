@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Best Atomic UI Component Frameworks for Lightning-Fast Web Development in 2026](https://dev.to/ninarao/best-atomic-ui-component-frameworks-for-lightning-fast-web-development-in-2026-3894)
-- [What 6+ Years of Backend Development Taught Me &lpar;So Far&rpar;](https://dev.to/rishali_kalnad/what-6-years-of-backend-development-taught-me-so-far-2164)
-- [Responsive Design Full Guide: Crafting Seamless Experiences Across Every Device](https://dev.to/ninarao/responsive-design-full-guide-crafting-seamless-experiences-across-every-device-1mpc)
-- [Unlocking Atomic Design: Building Modern UIs with Confidence](https://dev.to/ninarao/unlocking-atomic-design-building-modern-uis-with-confidence-3bdm)
-- [Cheaper Alternatives to HeyGen or Synthesia: A Practical Way to Think About AI Avatar Tooling](https://dev.to/herman99630/cheaper-alternatives-to-heygen-or-synthesia-a-practical-way-to-think-about-ai-avatar-tooling-50ec)
+- [Trouble with Test After Introducing django-axes](https://dev.to/harumq/trouble-with-test-after-introducing-django-axes-233i)
+- [Building Volcano Monitoring Applications with Satellite-Based Degassing Data](https://dev.to/climintell_1c2dc8f2eec311/building-volcano-monitoring-applications-with-satellite-based-degassing-data-1ook)
+- [The Prompt-Origin Paradox: Why the Future of Art is Curation, Not Creation — By Adel Abdel-Dayem](https://dev.to/adel_dayem/the-prompt-origin-paradox-why-the-future-of-art-is-curation-not-creation-by-adel-abdel-dayem-1gf3)
+- [Wait, what? PK is not needed for HABTM?](https://dev.to/tom_donarski_dev/wait-what-pk-is-not-needed-for-habtm-25lb)
+- [Why Your @Async Method Ignores @Transactional &lpar;And Leaks Internal Errors&rpar;](https://dev.to/anand_rathnas_d5b608cc3de/why-your-async-method-ignores-transactional-and-leaks-internal-errors-hnc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
