@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [We Built an Open Source Alternative to Laravel Forge - Here&#39;s Why](https://dev.to/nikhilj/we-built-an-open-source-alternative-to-laravel-forge-heres-why-3gn2)
-- [From 2010 Dust to Droid Dreams: Relearning the Arduino](https://dev.to/sigje/from-2010-dust-to-droid-dreams-relearning-the-arduino-4f5g)
-- [I Built a Small Free Tool to Make SOQL Queries Less Painful](https://dev.to/brendan_lester_b724f7075b/i-built-a-small-free-tool-to-make-soql-queries-less-painful-4hc0)
-- [Static portfolios are dead!](https://dev.to/reklamof/static-portfolios-are-dead-hdd)
-- [How I Found 47 B2B Customers on Reddit Using Python and Zero Ad Spend](https://dev.to/short_playskits_ab152535/how-i-found-47-b2b-customers-on-reddit-using-python-and-zero-ad-spend-232c)
+- [Opinião do GPT sobre meu projeto PHP para VOIP.](https://dev.to/spech_shop_75aca635a7edb1/opiniao-do-gpt-sobre-meu-projeto-php-para-voip-15eh)
+- [MAWA - Un lenguaje tan simple como Python pero tan potente como Assembler, el ASM moderno pero mucho más sencillo.](https://dev.to/samuel_leonardo_37aff38b4/mawa-un-lenguaje-tan-simple-como-python-pero-tan-potente-como-assembler-el-asm-moderno-pero-1ng5)
+- [Weekly #53-2025: LLM Workflows, Code Bottlenecks &amp; AI Adoption in 2026](https://dev.to/weekly/weekly-53-2025-llm-workflows-code-bottlenecks-ai-adoption-in-2026-c26)
+- [What Keycaps Do You Use to Make Your Keyboard Look Unique?](https://dev.to/mysticcoder/what-keycaps-do-you-use-to-make-your-keyboard-look-unique-i2p)
+- [Kubernetes in a Hurry: From kube-proxy to ServiceMesh&lpar;Q&amp;A Format&rpar;](https://dev.to/ypeavler/kubernetes-in-a-hurry-from-kube-proxy-to-servicemeshqa-format-4ji6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
