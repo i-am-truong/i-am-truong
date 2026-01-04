@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From 3+ Days to 3.8 Hours: Scaling a .NET CSV Importer for SQL Server](https://dev.to/__2131e9e/from-3-days-to-38-hours-scaling-a-net-csv-importer-for-sql-server-ge1)
-- [**5 Advanced Java IDE Techniques That Will Transform Your Development Productivity and Workflow**](https://dev.to/nithinbharathwaj/5-advanced-java-ide-techniques-that-will-transform-your-development-productivity-and-workflow-16p5)
-- [Building a Secure, Serverless Multi-Tenant RAG Chatbot with Amazon Bedrock and Lambda](https://dev.to/aws-builders/building-a-secure-serverless-multi-tenant-rag-chatbot-with-amazon-bedrock-and-lambda-3ip1)
-- [From Zero to Programming Language: A Complete Implementation Guide](https://dev.to/uthman_dev/from-zero-to-programming-language-a-complete-implementation-guide-1mn8)
-- [# 🏚️ Behind the Doors of *Houses: Hidden Spirits* – The Sanity Mechanic 😱](https://dev.to/lizzx9/-behind-the-doors-of-houses-hidden-spirits-the-sanity-mechanic-3m2c)
+- [The Beginner’s Guide to Cryptogram and ECI in Card Payments](https://dev.to/realnamehidden1_61/the-beginners-guide-to-cryptogram-and-eci-in-card-payments-274j)
+- [Why You Shouldn’t Manually Define a Vue Component’s name](https://dev.to/jiyingzhi/why-you-shouldnt-manually-define-a-vue-components-name-43a5)
+- [The Art Of People Management: A Lesson I Learned the Hard Way](https://dev.to/kolawale/the-art-of-people-management-a-lesson-i-learned-the-hard-way-4ckh)
+- [Opportunities and Challenges in Explainable Artificial Intelligence &lpar;XAI&rpar;: ASurvey](https://dev.to/paperium/opportunities-and-challenges-in-explainable-artificial-intelligence-xai-asurvey-195a)
+- [Interpreter vs Compiler: What’s the Difference?](https://dev.to/himanshudevgupta/interpreter-vs-compiler-whats-the-difference-5180)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
