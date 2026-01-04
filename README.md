@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Chapter 1: Container Security Threat Model](https://dev.to/0xalphasecurity/chapter-1-container-security-threat-model-3knd)
-- [Identify AWS Compute Services](https://dev.to/aws-builders/identify-aws-compute-services-2onp)
-- [Removing Duplicates in C++](https://dev.to/nithya_dharshiniofficial/removing-duplicates-in-c-2gk3)
-- [XML External Entity &lpar;XXE&rpar; Injection: A Complete Guide for Developers](https://dev.to/irorochad/xml-external-entity-xxe-injection-a-complete-guide-for-developers-17cg)
-- [Environment variables not working with CRON?](https://dev.to/cronmonitor/environment-variables-not-working-with-cron-443f)
+- [Handling Nested PHP Arrays Using DataBlock](https://dev.to/robertobutti/handling-nested-php-arrays-using-datablock-26d7)
+- [Healthcare analytics brief summary.](https://dev.to/wangare_/healthcare-analytics-brief-summary-2ji7)
+- [Kiro: Instant Finance &amp; Expense Tracking](https://dev.to/shreya111111/kiro-instant-finance-expense-tracking-1ldf)
+- [Create Natural Voiceovers &amp; Audiobooks in Minutes: AI Text-to-Speech Made Easy, No Setup Needed](https://dev.to/satendra_kaushik_74304936/convert-text-to-speech-instantly-free-ai-text-to-audio-converter-tool-5c85)
+- [A Practical Guide to AWS CloudWatch That Most Engineers Skip](https://dev.to/muhammad_yawar_malik/a-practical-guide-to-aws-cloudwatch-that-most-engineers-skip-cc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
