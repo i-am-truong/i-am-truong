@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [9 SaaS pricing traps in India that quietly inflate your bill](https://dev.to/toolstack_digest/9-saas-pricing-traps-in-india-that-quietly-inflate-your-bill-46pg)
-- [Downloading Docker images where DockerHub won&#39;t work](https://dev.to/jadolg/downloading-docker-images-where-dockerhub-wont-work-35k8)
-- [raProMo: The Free Promotion Hub in Madagascar](https://dev.to/aina_j/rapromo-the-free-promotion-hub-in-madagascar-375p)
-- [🚀 Extension Project III: from spreadsheet chaos to a web app](https://dev.to/deleanmafra/extension-project-iii-from-spreadsheet-chaos-to-a-web-app-3a1e)
-- [How to Use Google Patents for Prior Art &amp; Invalidity Searches](https://dev.to/patentscanai/how-to-use-google-patents-for-prior-art-invalidity-searches-43pd)
+- [Inspecting SSL Traffic Using FortiGate](https://dev.to/andreyscott/inspecting-ssl-traffic-using-fortigate-22jn)
+- [CloudWatch Investigations: Your AI-Powered Troubleshooting Sidekick](https://dev.to/aws-builders/cloudwatch-investigations-your-ai-powered-troubleshooting-sidekick-1p8j)
+- [SnapFrame: Transform Text Into Stunning Visual Content in &lt; 30s](https://dev.to/divyasinghdev/snapframe-transform-text-into-stunning-visual-content-in-30s-55k2)
+- [The Zero-Touch CRM: How to Automate Your Pipeline with Google Drive.](https://dev.to/scannyai/the-zero-touch-crm-how-to-automate-your-pipeline-with-google-drive-202o)
+- [Writing Docs in a World Where LLMs Are the Readers](https://dev.to/ikhaledabdelfattah/writing-docs-in-a-world-where-llms-are-the-readers-506a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
