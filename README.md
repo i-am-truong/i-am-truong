@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Real AI Divide Inside Companies is Clarity, Not Tools](https://dev.to/jaideepparashar/the-real-ai-divide-inside-companies-is-clarity-not-tools-2bga)
-- [Is Your Digital Life Actually Secure? Test Your Safety IQ in 60 Seconds](https://dev.to/techno_kraft_in/is-your-digital-life-actually-secure-test-your-safety-iq-in-60-seconds-153a)
-- [types Module Workbook Added to Standard Library Learning Path](https://dev.to/hejhdiss/types-module-workbook-added-to-standard-library-learning-path-pd0)
-- [VOIP Calls + Resample + PHP](https://dev.to/spech_shop_75aca635a7edb1/voip-calls-resample-php-ifg)
-- [Chronotype Discovery: Using Python to Unlock Your Natural Sleep Patterns](https://dev.to/wellallytech/chronotype-discovery-using-python-to-unlock-your-natural-sleep-patterns-3l9c)
+- [Anthropic: From Pandemic-Era Safety Concerns to a $350B AI Company](https://dev.to/thevenice/anthropic-from-pandemic-era-safety-concerns-to-a-350b-ai-company-5be1)
+- [I built a passwordless access system for cases where identity is unnecessary](https://dev.to/antonmb/i-built-a-passwordless-access-system-for-cases-where-identity-is-unnecessary-1kk3)
+- [🧠_Deep_Dive_Memory_Management_Performance[20260104043812]](https://dev.to/member_8659c28a/deepdivememorymanagementperformance20260104043812-1oeg)
+- [Why Edge AI Research Needs Field Validation: Lessons from Replicating MIT CSAIL](https://dev.to/shalinibhavi525sudo/why-edge-ai-research-needs-field-validation-lessons-from-replicating-mit-csail-2d4d)
+- [Complete Ollama Tutorial &lpar;2026&rpar;](https://dev.to/proflead/complete-ollama-tutorial-2026-14gj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
