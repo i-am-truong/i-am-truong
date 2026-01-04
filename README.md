@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Entity Framework Core is slow or Blind Engineers](https://dev.to/vyavorskyi/entity-framework-core-is-slow-or-blind-engineers-338b)
-- [The Operator&#39;s Manual: Navigating Angular Signals from v17.3 to v21](https://dev.to/leolanese/the-operators-manual-navigating-angular-signals-from-v173-to-v21-25hj)
-- [Ben Webb - Sydney - project Management](https://dev.to/ben_webb_projectmanager/ben-webb-sydney-project-management-1061)
-- [DevOps Unleashed: Your Thrilling Journey from Code Chaos to Deployment Nirvana](https://dev.to/meena_nukala/devops-unleashed-your-thrilling-journey-from-code-chaos-to-deployment-nirvana-144h)
-- [Mastering Text Manipulation: A Developer&#39;s Guide to Regex, Grep, Sed, and Awk](https://dev.to/kurdistan_linux_lab/mastering-text-manipulation-a-developers-guide-to-regex-grep-sed-and-awk-135g)
+- [Did you know?](https://dev.to/cloudraptor/did-you-know-4de3)
+- [Estacionariedade: Por que a Média Histórica é Perigosa para suas Projeções](https://dev.to/_richardson_/estacionariedade-por-que-a-media-historica-e-perigosa-para-suas-projecoes-1ko7)
+- [After 47 Failed Systems, I Built One That Works: The Purpose Stack](https://dev.to/czechue/after-47-failed-systems-i-built-one-that-works-the-purpose-stack-4j8n)
+- [Monetzly: Monetize Your LLM Apps with Google Ads for AI Conversations](https://dev.to/monetzly/monetzly-monetize-your-llm-apps-with-google-ads-for-ai-conversations-83m)
+- [Week 1 - JavaScript Fundamentals &amp; My First Mini Project](https://dev.to/precixphantom/week-1-javascript-fundamentals-my-first-mini-project-c6g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
