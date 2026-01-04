@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Supercarga la Autenticación en NestJS con Firebase](https://dev.to/alpha018/supercarga-la-autenticacion-en-nestjs-con-firebase-1kc0)
+- [MCP vs Function Calling — What&#39;s the difference?](https://dev.to/gantz/mcp-vs-function-calling-whats-the-difference-22gn)
+- [Day 31: Configuring a Private RDS Instance for Application Development](https://dev.to/thukhakyawe_cloud/day-31-configuring-a-private-rds-instance-for-application-development-2c8k)
+- [Kubernetes Security Fundamentals: Building a Robust Defense](https://dev.to/techblogs/kubernetes-security-fundamentals-building-a-robust-defense-58b0)
 - [🚧 nextjs and strapi CI/CD, Docker, and the Mystery of the Failing API: A Real-World Debugging Story](https://dev.to/robiulman/nextjs-and-strapi-cicd-docker-and-the-mystery-of-the-failing-api-a-real-world-debugging-story-59jp)
-- [Embedded Systems Programming &amp; IoT: Your Winning Card of System Development... Flip-Flop! 🃏🎭](https://dev.to/javadinteger/embedded-systems-programming-iot-your-winning-card-of-system-development-flip-flop-4dic)
-- [WTF is Relational Databases as a Service?](https://dev.to/dailybugle33/wtf-is-relational-databases-as-a-service-1jmj)
-- [🧠_Deep_Dive_Memory_Management_Performance[20260104084429]](https://dev.to/member_8659c28a/deepdivememorymanagementperformance20260104084429-49bi)
-- [Azure Logic Apps Explained for Beginners](https://dev.to/pamarthi_lakshmisravani_/azure-logic-apps-explained-for-beginners-30d6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
