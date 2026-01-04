@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Deploy a SvelteKit App to Cloudflare Containers](https://dev.to/qaynam/how-to-deploy-sveltekit-app-with-cloudflare-containers-32kb)
+- [Advanced Python Tricks: Language Features Every Senior Developer Should Know](https://dev.to/sepehr/advanced-python-tricks-language-features-every-senior-developer-should-know-m4a)
+- [App::HTTPThis: the tiny web server I keep reaching for](https://dev.to/davorg/apphttpthis-the-tiny-web-server-i-keep-reaching-for-2mf0)
 - [Docker for Production: Complete Guide to Containerizing Web Applications](https://dev.to/sepehr/docker-for-production-complete-guide-to-containerizing-web-applications-dkf)
 - [Kubernetes Deployment Guide: From Development to Production](https://dev.to/sepehr/kubernetes-deployment-guide-from-development-to-production-19i6)
-- [⚡_Real_Time_System_Performance_Optimization[20260104134403]](https://dev.to/member_8659c28a/realtimesystemperformanceoptimization20260104134403-13pi)
-- [Cuando las decisiones de la IA se alejan de la responsabilidad humana, la gobernanza falla](https://dev.to/antonio_socorro_95e3ff086/cuando-las-decisiones-de-la-ia-se-alejan-de-la-responsabilidad-humana-la-gobernanza-falla-55e6)
-- [RESTful API Design: Best Practices for Building Scalable APIs](https://dev.to/sepehr/restful-api-design-best-practices-for-building-scalable-apis-5hn1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
