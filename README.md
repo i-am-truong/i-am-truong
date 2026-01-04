@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Use AI to Solve OAuth &lpar;Without Losing My Mind&rpar;](https://dev.to/cathylai/how-i-use-ai-to-solve-oauth-without-losing-my-mind-3aj7)
+- [What Should You Learn First: Web Development, DevOps, or Web3?](https://dev.to/aryancode27/what-should-you-learn-first-web-development-devops-or-web3-12o7)
 - [AWS Compute Optimizer](https://dev.to/barbara_gaspar/aws-compute-optimizer-1e6l)
 - [Jucie - Stop Mocking, Start Making](https://dev.to/adrianjonmiller/jucie-stop-mocking-start-making-3o4o)
 - [Resilient Backend Architecture: From Implementation to Chaos Testing](https://dev.to/dmytro_kostenko/resilient-backend-architecture-from-implementation-to-chaos-testing-5bmd)
-- [ECS vs EKS: When You DON&#39;T Need Kubernetes - A Practical Guide to Choosing AWS Container Services](https://dev.to/aws-builders/ecs-vs-eks-when-you-dont-need-kubernetes-a-practical-guide-to-choosing-aws-container-services-4dif)
-- [Closures and Scopes in JavaScript](https://dev.to/lucaspereiradesouzat/closures-and-scopes-in-javascript-154h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
