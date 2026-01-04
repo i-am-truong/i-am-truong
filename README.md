@@ -122,9 +122,9 @@ Python                   1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [Scrapy AutoThrottle &amp; Rate Limiting: Stop Getting Blocked](https://dev.to/ikram_khan/scrapy-autothrottle-rate-limiting-stop-getting-blocked-4kje)
 - [Rust Structs and Enums](https://dev.to/godofgeeks/rust-structs-and-enums-3clg)
-- [Talking Heads vs Full-Body Motion: How to Choose the Right AI Avatar Tool](https://dev.to/herman99630/talking-heads-vs-full-body-motion-how-to-choose-the-right-ai-avatar-tool-2766)
-- [RAG Techniques That Actually Work](https://dev.to/ravi_kumarverma_afd09786/rag-techniques-that-actually-work-nad)
 - [Why Does SOCKS5 Proxy Login Trigger Account Warnings or Failures When Switching Between Cloud and Local Access?](https://dev.to/miller_proxy/why-does-socks5-proxy-login-trigger-account-warnings-or-failures-when-switching-between-cloud-and-29c)
+- [Noah&#39;s Ark for Algorithmic Trading: Why VCP v1.1 Requires a Three-Layer Architecture](https://dev.to/veritaschain/noahs-ark-for-algorithmic-trading-why-vcp-v11-requires-a-three-layer-architecture-2dhk)
+- [🧠Perceptron vs XOR: Why One Math Problem Changed AI Forever](https://dev.to/satyajitmishra/perceptron-vs-xor-why-one-math-problem-changed-ai-forever-53o3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
