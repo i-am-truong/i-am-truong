@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Vibe Coding Challenge: The Art and The Skill](https://dev.to/mckabue/vibe-coding-challenge-the-art-and-the-skill-3h1)
+- [Building a Battery-Powered Pomodoro Timer with Deep Sleep](https://dev.to/rogiervandenberg/building-a-battery-powered-pomodoro-timer-with-deep-sleep-1h64)
 - [Secure Authentication in Next.js: Building a Production-Ready Login System](https://dev.to/thekarlesi/secure-authentication-in-nextjs-building-a-production-ready-login-system-4m7)
 - [Hypervisors Explained: How Virtual Machines Really Work in the Cloud](https://dev.to/micheal_angelo_41cea4e81a/hypervisors-explained-how-virtual-machines-really-work-in-the-cloud-bbp)
 - [Passing the AWS Machine Learning Engineer – Associate Exam &lpar;My Experience &amp; Tips&rpar;](https://dev.to/thukhakyawe_cloud/passing-the-aws-machine-learning-engineer-associate-exam-my-experience-tips-410l)
-- [The SaaS Billing Nightmare: Why Integration Is More Than Just a &#39;Pay&#39; Button](https://dev.to/thekarlesi/the-saas-billing-nightmare-why-integration-is-more-than-just-a-pay-button-1mjp)
-- [Designing a Secure AWS Landing Zone with Control Tower &lpar;What Most Blogs Don’t Tell You&rpar;](https://dev.to/amaan-igs/designing-a-secure-aws-landing-zone-with-control-tower-what-most-blogs-dont-tell-you-20oh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
