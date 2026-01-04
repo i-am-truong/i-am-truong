@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Chapter 1: Container Security Threat Model](https://dev.to/0xalphasecurity/chapter-1-container-security-threat-model-3knd)
 - [Identify AWS Compute Services](https://dev.to/aws-builders/identify-aws-compute-services-2onp)
 - [Removing Duplicates in C++](https://dev.to/nithya_dharshiniofficial/removing-duplicates-in-c-2gk3)
 - [XML External Entity &lpar;XXE&rpar; Injection: A Complete Guide for Developers](https://dev.to/irorochad/xml-external-entity-xxe-injection-a-complete-guide-for-developers-17cg)
 - [Environment variables not working with CRON?](https://dev.to/cronmonitor/environment-variables-not-working-with-cron-443f)
-- [Ultimate Container Security Series](https://dev.to/0xalphasecurity/ultimate-container-security-series-2628)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
