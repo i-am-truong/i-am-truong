@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Trouble with Test After Introducing django-axes](https://dev.to/harumq/trouble-with-test-after-introducing-django-axes-233i)
-- [Building Volcano Monitoring Applications with Satellite-Based Degassing Data](https://dev.to/climintell_1c2dc8f2eec311/building-volcano-monitoring-applications-with-satellite-based-degassing-data-1ook)
-- [The Prompt-Origin Paradox: Why the Future of Art is Curation, Not Creation — By Adel Abdel-Dayem](https://dev.to/adel_dayem/the-prompt-origin-paradox-why-the-future-of-art-is-curation-not-creation-by-adel-abdel-dayem-1gf3)
-- [Wait, what? PK is not needed for HABTM?](https://dev.to/tom_donarski_dev/wait-what-pk-is-not-needed-for-habtm-25lb)
-- [Why Your @Async Method Ignores @Transactional &lpar;And Leaks Internal Errors&rpar;](https://dev.to/anand_rathnas_d5b608cc3de/why-your-async-method-ignores-transactional-and-leaks-internal-errors-hnc)
+- [🚧 nextjs and strapi CI/CD, Docker, and the Mystery of the Failing API: A Real-World Debugging Story](https://dev.to/robiulman/nextjs-and-strapi-cicd-docker-and-the-mystery-of-the-failing-api-a-real-world-debugging-story-59jp)
+- [Embedded Systems Programming &amp; IoT: Your Winning Card of System Development... Flip-Flop! 🃏🎭](https://dev.to/javadinteger/embedded-systems-programming-iot-your-winning-card-of-system-development-flip-flop-4dic)
+- [WTF is Relational Databases as a Service?](https://dev.to/dailybugle33/wtf-is-relational-databases-as-a-service-1jmj)
+- [🧠_Deep_Dive_Memory_Management_Performance[20260104084429]](https://dev.to/member_8659c28a/deepdivememorymanagementperformance20260104084429-49bi)
+- [Azure Logic Apps Explained for Beginners](https://dev.to/pamarthi_lakshmisravani_/azure-logic-apps-explained-for-beginners-30d6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
