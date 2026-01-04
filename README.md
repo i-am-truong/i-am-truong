@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Debug your process, Not your team](https://dev.to/bjornbrynjarjonsson/debug-your-process-not-your-team-4op8)
+- [How to Break Up God Objects, Strategies for Clean Backend Architecture](https://dev.to/saber-amani/how-to-break-up-god-objects-strategies-for-clean-backend-architecture-5ala)
+- [The Event Loop, Part II: The Wand Is Not Yours 🪄 &lpar;Or Why the UI Ignores You&rpar;](https://dev.to/elina_web_magic/the-event-loop-part-ii-the-wand-is-not-yours-or-why-the-ui-ignores-you-3kgg)
 - [Open Source, Open Heart: My Next Big Step](https://dev.to/santoshyadavdev/open-source-open-heart-my-next-big-step-3klf)
 - [What 100+ Production Incidents Taught Me About System Design](https://dev.to/muhammad_yawar_malik/what-100-production-incidents-taught-me-about-system-design-17h1)
-- [A Solo Game Developer who uses only Free &amp; Open Source Tools](https://dev.to/wagenrace/a-solo-game-developer-who-uses-only-free-open-source-tools-1d6g)
-- [For most of the web’s history, websites were treated like finished products.](https://dev.to/kylatheindb/for-most-of-the-webs-history-websites-were-treated-like-finished-products-1ffk)
-- [Turning a Research Paper into a Runnable System](https://dev.to/flamehaven01/turning-a-research-paper-into-a-runnable-system-eld)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
