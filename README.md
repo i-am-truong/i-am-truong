@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a platform to validate that non-technical users actually want AI agents](https://dev.to/ucmind_39e5584942f7802b7/i-built-a-platform-to-validate-that-non-technical-users-actually-want-ai-agents-56m9)
-- [📈_Scalability_Architecture_Design[20260104171435]](https://dev.to/member_6331818c/scalabilityarchitecturedesign20260104171435-1ckn)
-- [html symentric tags and use of &lt;span&gt;](https://dev.to/silambarasan_a_bd1d4d0a29/html-symentric-tags-and-use-of-25l)
-- [🧰 Free Online Tools Box — All Tools You Can Use &lpar;100% Free &amp; No Login&rpar;](https://dev.to/charlie_charles_5322cf544/free-online-tools-box-all-tools-you-can-use-100-free-no-login-9hm)
-- [Objects and Data types in Java](https://dev.to/divya_bharathig_6635328d/objects-and-data-types-in-java-43ip)
+- [Identify AWS Compute Services](https://dev.to/aws-builders/identify-aws-compute-services-2onp)
+- [Removing Duplicates in C++](https://dev.to/nithya_dharshiniofficial/removing-duplicates-in-c-2gk3)
+- [XML External Entity &lpar;XXE&rpar; Injection: A Complete Guide for Developers](https://dev.to/irorochad/xml-external-entity-xxe-injection-a-complete-guide-for-developers-17cg)
+- [Environment variables not working with CRON?](https://dev.to/cronmonitor/environment-variables-not-working-with-cron-443f)
+- [Ultimate Container Security Series](https://dev.to/0xalphasecurity/ultimate-container-security-series-2628)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
