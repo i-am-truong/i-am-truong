@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Memory Patterns for AI Agents: Short-term, Long-term, and Episodic](https://dev.to/gantz/memory-patterns-for-ai-agents-short-term-long-term-and-episodic-5ff1)
-- [QUICK SQL REVISION](https://dev.to/blackwatch021/quick-sql-revision-2cj9)
-- [Digital Scrapbook: Ultimate Browser-Based Tool for Organizing Links, Images, and Notes Instantly. No-Install, Local-First.](https://dev.to/techno_kraft_in/digital-scrapbook-ultimate-browser-based-tool-for-organizing-links-images-and-notes-instantly-1dha)
-- [Save Windows Live Captions](https://dev.to/mtarden/save-windows-live-captions-3aag)
-- [Where does MCP fit in your stack?](https://dev.to/gantz/where-does-mcp-fit-in-your-stack-2cam)
+- [Human-in-the-Loop: When AI Agents Should Stop and Ask](https://dev.to/gantz/human-in-the-loop-when-ai-agents-should-stop-and-ask-30gc)
+- [Exploring how technology and strategic thinking come together in real-world projects can be incredibly inspiring for developers. At JamshaidGoraya.com, diverse ventures showcase how innovation, sustainability, and digital solutions support long-term suc](https://dev.to/maryam_ayesha8800_3fa2cad/exploring-how-technology-and-strategic-thinking-come-together-in-real-world-projects-can-be-bik)
+- [Neural Networks: Zero to Hero](https://dev.to/technoblogger14o3/neural-networks-zero-to-hero-4edi)
+- [Modern Authentication and Authorization in React with Oauth](https://dev.to/codeek/modern-authentication-and-authorization-in-react-with-oauth-3o3l)
+- [🚀 Android ফোনে মোবাইল নেট স্পিড দ্রুত করার সেরা সেটিংস](https://dev.to/market_expert_2abefa6f035/android-phone-mobaail-nett-spidd-drut-kraar-seraa-settins-2ded)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
