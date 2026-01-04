@@ -124,7 +124,7 @@ Python                   1 repo              █░░░░░░░░░░�
 - [GitPeek: Turning GitHub Data into Stories with Mux🔥🔥🎬](https://dev.to/onlyfave/gitpeek-turning-github-data-into-stories-with-mux-1ij2)
 - [Playwright vs. Selenium: A 2026 Architecture Review](https://dev.to/deepak_mishra_35863517037/playwright-vs-selenium-a-2026-architecture-review-347d)
 - [Coding Challenge Practice - Question 94](https://dev.to/tomivan/coding-challenge-practice-question-94-1bhf)
-- [AI Agents: Mastering 3 Essential Patterns &lpar;Reflexive&rpar;. Part 3 of 3](https://dev.to/gabrielmrojas/ai-agents-mastering-3-essential-patterns-reflexive-part-3-of-3-2cmn)
+- [📱 WebSockets Explained Like You&#39;re 5](https://dev.to/esreekarreddy/websockets-explained-like-youre-5-152a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
