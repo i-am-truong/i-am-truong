@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Use AI to Solve OAuth &lpar;Without Losing My Mind&rpar;](https://dev.to/cathylai/how-i-use-ai-to-solve-oauth-without-losing-my-mind-3aj7)
-- [What Should You Learn First: Web Development, DevOps, or Web3?](https://dev.to/aryancode27/what-should-you-learn-first-web-development-devops-or-web3-12o7)
-- [AWS Compute Optimizer](https://dev.to/barbara_gaspar/aws-compute-optimizer-1e6l)
-- [Jucie - Stop Mocking, Start Making](https://dev.to/adrianjonmiller/jucie-stop-mocking-start-making-3o4o)
-- [Resilient Backend Architecture: From Implementation to Chaos Testing](https://dev.to/dmytro_kostenko/resilient-backend-architecture-from-implementation-to-chaos-testing-5bmd)
+- [ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate](https://dev.to/paperium/chateval-towards-better-llm-based-evaluators-through-multi-agent-debate-43e4)
+- [My AI agent worked fine in testing. Then real inputs broke it.](https://dev.to/franciscohumarang/my-ai-agent-worked-fine-in-testing-then-real-inputs-broke-it-2922)
+- [Hello 2026: This Will Only Take Two Weeks](https://dev.to/art_light/hello-2026-this-will-only-take-two-weeks-19fj)
+- [How AI Is Transforming Everyday Life](https://dev.to/market_expert_2abefa6f035/how-ai-is-transforming-everyday-life-1lpc)
+- [echo3D Integrates Support for Niantic’s SPZ Format, Streamlining 3D Gaussian Splat Workflows](https://dev.to/_echo3d_/echo3d-integrates-support-for-niantics-spz-format-streamlining-3d-gaussian-splat-workflows-40j2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
