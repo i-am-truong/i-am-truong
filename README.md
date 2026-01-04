@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [On-chain Shopping: Bridging Generative AI and XRPL for a Frictionless Retail Future](https://dev.to/yuhung/on-chain-shopping-bridging-generative-ai-and-xrpl-for-a-frictionless-retail-future-1ohd)
-- [Mastering the Factory Pattern in Laravel: Challenges, Solutions &amp; Real-World Magic ✨](https://dev.to/laravel_mastery_ffd9d10ec/mastering-the-factory-pattern-in-laravel-challenges-solutions-real-world-magic-3o87)
-- [burp靶场 ssrf 2](https://dev.to/jdj_mdj_b72ba3daf52231833/burpba-chang-ssrf-2-52ik)
-- [Boyer–Moore Majority Voting: Why It Works, Why It Fails, and Where It Actually Belongs](https://dev.to/yash1402_/boyer-moore-majority-voting-why-it-works-why-it-fails-and-where-it-actually-belongs-1ibn)
-- [Google Already Won the AI Race. Here&#39;s Why Everyone Else Lost.](https://dev.to/inboryn_99399f96579fcd705/google-already-won-the-ai-race-heres-why-everyone-else-lost-4i32)
+- [Best Atomic UI Component Frameworks for Lightning-Fast Web Development in 2026](https://dev.to/ninarao/best-atomic-ui-component-frameworks-for-lightning-fast-web-development-in-2026-3894)
+- [What 6+ Years of Backend Development Taught Me &lpar;So Far&rpar;](https://dev.to/rishali_kalnad/what-6-years-of-backend-development-taught-me-so-far-2164)
+- [Responsive Design Full Guide: Crafting Seamless Experiences Across Every Device](https://dev.to/ninarao/responsive-design-full-guide-crafting-seamless-experiences-across-every-device-1mpc)
+- [Unlocking Atomic Design: Building Modern UIs with Confidence](https://dev.to/ninarao/unlocking-atomic-design-building-modern-uis-with-confidence-3bdm)
+- [Cheaper Alternatives to HeyGen or Synthesia: A Practical Way to Think About AI Avatar Tooling](https://dev.to/herman99630/cheaper-alternatives-to-heygen-or-synthesia-a-practical-way-to-think-about-ai-avatar-tooling-50ec)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
