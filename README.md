@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [RwLock HashMap Arc Mutex File](https://dev.to/exlee/rwlock-hashmap-string-36a1)
-- [Artificial Intelligence: Full Course](https://dev.to/jayaprasanna_roddam/artificial-intelligence-full-course-4ch2)
-- [Machine learning- Full Course](https://dev.to/jayaprasanna_roddam/machine-learning-full-course-282e)
-- [Exploring DID-based authentication for A2A Protocol agents 🔐](https://dev.to/himi_humu_98f93c3598e5737/exploring-did-based-authentication-for-a2a-protocol-agents-50d7)
-- [What to Do When You Understand the Solution But Can&#39;t Code It Yourself](https://dev.to/alex_hunter_44f4c9ed6671e/what-to-do-when-you-understand-the-solution-but-cant-code-it-yourself-4d7e)
+- [Course AI001: What is Artificial Intelligence](https://dev.to/jayaprasanna_roddam/course-ai001-what-is-artificial-intelligence-5ag2)
+- [Self Hosting Gitlab](https://dev.to/nuculabs_dev/self-hosting-gitlab-44hp)
+- [Revolutionizing Industries: The Convergence of Robotics and Artificial Intelligence](https://dev.to/robros-next/revolutionizing-industries-the-convergence-of-robotics-and-artificial-intelligence-49fd)
+- [Reverse Engineering Mobile APIs: The Path of Least Resistance](https://dev.to/deepak_mishra_35863517037/reverse-engineering-mobile-apis-the-path-of-least-resistance-23fc)
+- [I Built a Multilingual Vector Search Engine in Go for $0 &lpar;without OpenAI&rpar;](https://dev.to/martin_saas/i-built-a-multilingual-vector-search-engine-in-go-for-0-without-openai-2lhj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
