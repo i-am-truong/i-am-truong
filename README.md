@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Deploy a SvelteKit App to Cloudflare Containers](https://dev.to/qaynam/how-to-deploy-sveltekit-app-with-cloudflare-containers-32kb)
-- [Advanced Python Tricks: Language Features Every Senior Developer Should Know](https://dev.to/sepehr/advanced-python-tricks-language-features-every-senior-developer-should-know-m4a)
-- [App::HTTPThis: the tiny web server I keep reaching for](https://dev.to/davorg/apphttpthis-the-tiny-web-server-i-keep-reaching-for-2mf0)
-- [Docker for Production: Complete Guide to Containerizing Web Applications](https://dev.to/sepehr/docker-for-production-complete-guide-to-containerizing-web-applications-dkf)
-- [Kubernetes Deployment Guide: From Development to Production](https://dev.to/sepehr/kubernetes-deployment-guide-from-development-to-production-19i6)
+- [Tool Use vs RAG: picking the right approach](https://dev.to/gantz/tool-use-vs-rag-picking-the-right-approach-4ipj)
+- [Kafka Consumer Rebalancing: From Stop-the-World to Cooperative Protocol](https://dev.to/hantedyou_0106/kafka-consumer-rebalancing-from-stop-the-world-to-cooperative-protocol-1kh)
+- [Centralizing Email Infrastructure on AWS with SESMailEngine](https://dev.to/aurora75/centralizing-email-infrastructure-on-aws-with-sesmailengine-2i0d)
+- [Tree Traversals Explained: DFS, BFS, and When to Use Each](https://dev.to/mqshaikh8/tree-traversals-explained-dfs-bfs-and-when-to-use-each-2m3f)
+- [Password Generator using Go and K3s](https://dev.to/shelner/password-generator-using-go-and-k3s-3maf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
