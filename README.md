@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Supercarga la Autenticación en NestJS con Firebase](https://dev.to/alpha018/supercarga-la-autenticacion-en-nestjs-con-firebase-1kc0)
-- [MCP vs Function Calling — What&#39;s the difference?](https://dev.to/gantz/mcp-vs-function-calling-whats-the-difference-22gn)
-- [Day 31: Configuring a Private RDS Instance for Application Development](https://dev.to/thukhakyawe_cloud/day-31-configuring-a-private-rds-instance-for-application-development-2c8k)
-- [Kubernetes Security Fundamentals: Building a Robust Defense](https://dev.to/techblogs/kubernetes-security-fundamentals-building-a-robust-defense-58b0)
-- [🚧 nextjs and strapi CI/CD, Docker, and the Mystery of the Failing API: A Real-World Debugging Story](https://dev.to/robiulman/nextjs-and-strapi-cicd-docker-and-the-mystery-of-the-failing-api-a-real-world-debugging-story-59jp)
+- [RwLock HashMap Arc Mutex File](https://dev.to/exlee/rwlock-hashmap-string-36a1)
+- [Artificial Intelligence: Full Course](https://dev.to/jayaprasanna_roddam/artificial-intelligence-full-course-4ch2)
+- [Machine learning- Full Course](https://dev.to/jayaprasanna_roddam/machine-learning-full-course-282e)
+- [Exploring DID-based authentication for A2A Protocol agents 🔐](https://dev.to/himi_humu_98f93c3598e5737/exploring-did-based-authentication-for-a2a-protocol-agents-50d7)
+- [What to Do When You Understand the Solution But Can&#39;t Code It Yourself](https://dev.to/alex_hunter_44f4c9ed6671e/what-to-do-when-you-understand-the-solution-but-cant-code-it-yourself-4d7e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
