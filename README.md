@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ACID and Idempotent UPDATE RETURNING in MongoDB with findOneAndUpdate&lpar;&rpar;](https://dev.to/franckpachot/acid-and-idempotent-update-returning-in-mongodb-with-findoneandupdate-955)
-- [How I Translated 277 Strings in 5 Minutes &lpar;Real-World Case Study&rpar;](https://dev.to/nikolaos_protopapas_d3bd6/how-i-translated-277-strings-in-5-minutes-real-world-case-study-4j47)
-- [Why I Created lazymake: Solving Make&#39;s UX Problem](https://dev.to/rshelekhov/why-i-created-lazymake-solving-makes-ux-problem-38pp)
-- [How to Prepare for a Certification in any Tech Career](https://dev.to/walteralleyz/how-to-prepare-for-a-certification-in-any-tech-career-5g74)
-- [Why software development education has to become more personalized](https://dev.to/andreas_mller_2fd27cf578/why-software-development-education-has-to-be-come-more-personalized-42a1)
+- [Turning a Research Paper into a Runnable System](https://dev.to/flamehaven01/turning-a-research-paper-into-a-runnable-system-eld)
+- [Why Tenant Context Must Be Scoped Per Transaction](https://dev.to/m_zinger_2fc60eb3f3897908/why-tenant-context-must-be-scoped-per-transaction-3aop)
+- [The Modern Home Network Has No Safe Mode](https://dev.to/numbpill3d/the-modern-home-network-has-no-safe-mode-1gdo)
+- [I&#39;ll Serve Anything](https://dev.to/mikesol/ill-serve-anything-13kp)
+- [The Honeypot Paradox: How Cybersecurity&#39;s Deception Games Are Poisoning the Well](https://dev.to/zeroblind25/the-honeypot-paradox-how-cybersecuritys-deception-games-are-poisoning-the-well-24f7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
