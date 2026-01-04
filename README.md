@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Communication-Efficient On-Device Machine Learning: Federated Distillation andAugmentation under Non-IID Private Data](https://dev.to/paperium/communication-efficient-on-device-machine-learning-federated-distillation-andaugmentation-under-1h6k)
-- [Talk to Your Database — Build a Text-to-SQL Tool with AI and MCP](https://dev.to/gantz/talk-to-your-database-build-a-text-to-sql-tool-with-ai-and-mcp-40db)
-- [Why Most People Fail at Success Without Even Realizing It](https://dev.to/salfi_studio_fe0cbe33e0e8/why-most-people-fail-at-success-without-even-realizing-it-2b3h)
-- [🔄_Containerized_Deployment_Performance_Optimization[20260104203344]](https://dev.to/member_6331818c/containerizeddeploymentperformanceoptimization20260104203344-2nd1)
-- [What If the OOD Interview Doesn’t Go as Planned?](https://dev.to/obrutus/what-if-the-ood-interview-doesnt-go-as-planned-344l)
+- [Entity Framework Core is slow or Blind Engineers](https://dev.to/vyavorskyi/entity-framework-core-is-slow-or-blind-engineers-338b)
+- [The Operator&#39;s Manual: Navigating Angular Signals from v17.3 to v21](https://dev.to/leolanese/the-operators-manual-navigating-angular-signals-from-v173-to-v21-25hj)
+- [Ben Webb - Sydney - project Management](https://dev.to/ben_webb_projectmanager/ben-webb-sydney-project-management-1061)
+- [DevOps Unleashed: Your Thrilling Journey from Code Chaos to Deployment Nirvana](https://dev.to/meena_nukala/devops-unleashed-your-thrilling-journey-from-code-chaos-to-deployment-nirvana-144h)
+- [Mastering Text Manipulation: A Developer&#39;s Guide to Regex, Grep, Sed, and Awk](https://dev.to/kurdistan_linux_lab/mastering-text-manipulation-a-developers-guide-to-regex-grep-sed-and-awk-135g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
