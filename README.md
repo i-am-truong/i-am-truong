@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Communication-Efficient On-Device Machine Learning: Federated Distillation andAugmentation under Non-IID Private Data](https://dev.to/paperium/communication-efficient-on-device-machine-learning-federated-distillation-andaugmentation-under-1h6k)
 - [Talk to Your Database — Build a Text-to-SQL Tool with AI and MCP](https://dev.to/gantz/talk-to-your-database-build-a-text-to-sql-tool-with-ai-and-mcp-40db)
 - [Why Most People Fail at Success Without Even Realizing It](https://dev.to/salfi_studio_fe0cbe33e0e8/why-most-people-fail-at-success-without-even-realizing-it-2b3h)
 - [🔄_Containerized_Deployment_Performance_Optimization[20260104203344]](https://dev.to/member_6331818c/containerizeddeploymentperformanceoptimization20260104203344-2nd1)
 - [What If the OOD Interview Doesn’t Go as Planned?](https://dev.to/obrutus/what-if-the-ood-interview-doesnt-go-as-planned-344l)
-- [DEV Track Spotlight: Building Scalable, Self-Orchestrating AI Workflows with A2A and MCP &lpar;DEV415&rpar;](https://dev.to/aws/dev-track-spotlight-building-scalable-self-orchestrating-ai-workflows-with-a2a-and-mcp-dev415-5bkn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
