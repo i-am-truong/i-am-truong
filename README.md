@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Course AI001: What is Artificial Intelligence](https://dev.to/jayaprasanna_roddam/course-ai001-what-is-artificial-intelligence-5ag2)
-- [Self Hosting Gitlab](https://dev.to/nuculabs_dev/self-hosting-gitlab-44hp)
-- [Revolutionizing Industries: The Convergence of Robotics and Artificial Intelligence](https://dev.to/robros-next/revolutionizing-industries-the-convergence-of-robotics-and-artificial-intelligence-49fd)
-- [Reverse Engineering Mobile APIs: The Path of Least Resistance](https://dev.to/deepak_mishra_35863517037/reverse-engineering-mobile-apis-the-path-of-least-resistance-23fc)
-- [I Built a Multilingual Vector Search Engine in Go for $0 &lpar;without OpenAI&rpar;](https://dev.to/martin_saas/i-built-a-multilingual-vector-search-engine-in-go-for-0-without-openai-2lhj)
+- [Best Backtesting Platforms for Stock Strategies in 2026: Top Tools to Maximize Your Trading Edge](https://dev.to/georgemortoninvestments/best-backtesting-platforms-for-stock-strategies-in-2026-top-tools-to-maximize-your-trading-edge-51p2)
+- [“Cracking the Kubernetes Interview” 🍘 Book Review](https://dev.to/aairom/cracking-the-kubernetes-interview-book-review-5904)
+- [Channels in C#](https://dev.to/adrianbailador/channels-in-c-3i6h)
+- [☕ Just launched Coffee Pomodoro - my personal productivity project 🚀](https://dev.to/adrianbailador/just-launched-coffee-pomodoro-my-personal-productivity-project-k18)
+- [The Most Useful Professional Tools for Webmasters and Digital](https://dev.to/itpraktika/the-most-useful-professional-tools-for-webmasters-and-digital-jb7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
