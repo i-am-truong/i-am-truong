@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Opinião do GPT sobre meu projeto PHP para VOIP.](https://dev.to/spech_shop_75aca635a7edb1/opiniao-do-gpt-sobre-meu-projeto-php-para-voip-15eh)
-- [MAWA - Un lenguaje tan simple como Python pero tan potente como Assembler, el ASM moderno pero mucho más sencillo.](https://dev.to/samuel_leonardo_37aff38b4/mawa-un-lenguaje-tan-simple-como-python-pero-tan-potente-como-assembler-el-asm-moderno-pero-1ng5)
-- [Weekly #53-2025: LLM Workflows, Code Bottlenecks &amp; AI Adoption in 2026](https://dev.to/weekly/weekly-53-2025-llm-workflows-code-bottlenecks-ai-adoption-in-2026-c26)
-- [What Keycaps Do You Use to Make Your Keyboard Look Unique?](https://dev.to/mysticcoder/what-keycaps-do-you-use-to-make-your-keyboard-look-unique-i2p)
-- [Kubernetes in a Hurry: From kube-proxy to ServiceMesh&lpar;Q&amp;A Format&rpar;](https://dev.to/ypeavler/kubernetes-in-a-hurry-from-kube-proxy-to-servicemeshqa-format-4ji6)
+- [The Real AI Divide Inside Companies is Clarity, Not Tools](https://dev.to/jaideepparashar/the-real-ai-divide-inside-companies-is-clarity-not-tools-2bga)
+- [Is Your Digital Life Actually Secure? Test Your Safety IQ in 60 Seconds](https://dev.to/techno_kraft_in/is-your-digital-life-actually-secure-test-your-safety-iq-in-60-seconds-153a)
+- [types Module Workbook Added to Standard Library Learning Path](https://dev.to/hejhdiss/types-module-workbook-added-to-standard-library-learning-path-pd0)
+- [VOIP Calls + Resample + PHP](https://dev.to/spech_shop_75aca635a7edb1/voip-calls-resample-php-ifg)
+- [Chronotype Discovery: Using Python to Unlock Your Natural Sleep Patterns](https://dev.to/wellallytech/chronotype-discovery-using-python-to-unlock-your-natural-sleep-patterns-3l9c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
