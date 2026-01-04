@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Agents Are Taking Over Development in 2026 — Here&#39;s What Changed](https://dev.to/mysterious_xuanwu_5a00815/ai-agents-are-taking-over-development-in-2026-heres-what-changed-4mop)
-- [Hertzlab](https://dev.to/uncle_blacedit_4828f0b2/hertzlab-3i75)
-- [🚀 AutoReadme: Revolutionizing Developer Documentation with AI](https://dev.to/divyasinghdev/autoreadme-revolutionizing-developer-documentation-with-ai-3ein)
-- [54. Spiral Matrix | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/54-spiral-matrix-leetcode-top-interview-150-coding-questions-2a1j)
-- [Progress on STAR &lpar;EOM&rpar;](https://dev.to/ryan_bae_5bd7d40241e52c14/progress-on-star-eom-4p8h)
+- [AWS Security Services: A Conversation Between Engineers](https://dev.to/datatechbridge/aws-security-services-a-conversation-between-engineers-109h)
+- [Del concepto a la estructura: continuando el trabajo sobre gobernanza de la IA](https://dev.to/antonio_socorro_95e3ff086/del-concepto-a-la-estructura-continuando-el-trabajo-sobre-gobernanza-de-la-ia-4d2g)
+- [VidInsight AI](https://dev.to/deborah_loureiro_0fc0816b/vidinsight-ai-30k2)
+- [From Concept to Structure: Continuing the Work on AI Governance](https://dev.to/antonio_socorro_95e3ff086/from-concept-to-structure-continuing-the-work-on-ai-governance-2epd)
+- [Why Safety in Commercial Transportation Is a System, Not a Checklist](https://dev.to/yulia_shulpenkova_1e9e3d1/why-safety-in-commercial-transportation-is-a-system-not-a-checklist-3hik)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
