@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Scrapy AutoThrottle &amp; Rate Limiting: Stop Getting Blocked](https://dev.to/ikram_khan/scrapy-autothrottle-rate-limiting-stop-getting-blocked-4kje)
-- [Rust Structs and Enums](https://dev.to/godofgeeks/rust-structs-and-enums-3clg)
-- [Why Does SOCKS5 Proxy Login Trigger Account Warnings or Failures When Switching Between Cloud and Local Access?](https://dev.to/miller_proxy/why-does-socks5-proxy-login-trigger-account-warnings-or-failures-when-switching-between-cloud-and-29c)
-- [Noah&#39;s Ark for Algorithmic Trading: Why VCP v1.1 Requires a Three-Layer Architecture](https://dev.to/veritaschain/noahs-ark-for-algorithmic-trading-why-vcp-v11-requires-a-three-layer-architecture-2dhk)
-- [🧠Perceptron vs XOR: Why One Math Problem Changed AI Forever](https://dev.to/satyajitmishra/perceptron-vs-xor-why-one-math-problem-changed-ai-forever-53o3)
+- [On-chain Shopping: Bridging Generative AI and XRPL for a Frictionless Retail Future](https://dev.to/yuhung/on-chain-shopping-bridging-generative-ai-and-xrpl-for-a-frictionless-retail-future-1ohd)
+- [Mastering the Factory Pattern in Laravel: Challenges, Solutions &amp; Real-World Magic ✨](https://dev.to/laravel_mastery_ffd9d10ec/mastering-the-factory-pattern-in-laravel-challenges-solutions-real-world-magic-3o87)
+- [burp靶场 ssrf 2](https://dev.to/jdj_mdj_b72ba3daf52231833/burpba-chang-ssrf-2-52ik)
+- [Boyer–Moore Majority Voting: Why It Works, Why It Fails, and Where It Actually Belongs](https://dev.to/yash1402_/boyer-moore-majority-voting-why-it-works-why-it-fails-and-where-it-actually-belongs-1ibn)
+- [Google Already Won the AI Race. Here&#39;s Why Everyone Else Lost.](https://dev.to/inboryn_99399f96579fcd705/google-already-won-the-ai-race-heres-why-everyone-else-lost-4i32)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
