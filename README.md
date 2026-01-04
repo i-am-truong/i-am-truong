@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Running Mistral Vibe CLI with Local LLMs: A Complete Guide](https://dev.to/chung_duy_51a346946b27a3d/running-mistral-vibe-with-local-llms-a-complete-guide-1mde)
-- [From Managed Threads to Independent Tasks &lpar;Part 2: Sharing Data — Locks, Atomics, and Ownership&rpar;](https://dev.to/_akajuthi_/from-managed-threads-to-independent-taskspart-2-sharing-data-locks-atomics-and-ownership-3ke8)
-- [I made a unique compiled programming language in Rust without LLVM](https://dev.to/morcules/i-made-a-unique-compiled-programming-language-in-rust-without-llvm-2glb)
-- [Hyper-V Configuration Guide for Kubernetes and Supporting Network Services](https://dev.to/korakrit/hyper-v-configuration-guide-for-kubernetes-and-supporting-network-services-1l6a)
-- [IaaS vs PaaS vs SaaS Explained: AWS Shared Responsibility Made Simple](https://dev.to/micheal_angelo_41cea4e81a/iaas-vs-paas-vs-saas-explained-aws-shared-responsibility-made-simple-4e10)
+- [Docker for Production: Complete Guide to Containerizing Web Applications](https://dev.to/sepehr/docker-for-production-complete-guide-to-containerizing-web-applications-dkf)
+- [Kubernetes Deployment Guide: From Development to Production](https://dev.to/sepehr/kubernetes-deployment-guide-from-development-to-production-19i6)
+- [⚡_Real_Time_System_Performance_Optimization[20260104134403]](https://dev.to/member_8659c28a/realtimesystemperformanceoptimization20260104134403-13pi)
+- [Cuando las decisiones de la IA se alejan de la responsabilidad humana, la gobernanza falla](https://dev.to/antonio_socorro_95e3ff086/cuando-las-decisiones-de-la-ia-se-alejan-de-la-responsabilidad-humana-la-gobernanza-falla-55e6)
+- [RESTful API Design: Best Practices for Building Scalable APIs](https://dev.to/sepehr/restful-api-design-best-practices-for-building-scalable-apis-5hn1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
