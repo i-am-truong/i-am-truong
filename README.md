@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Beginner’s Guide to Cryptogram and ECI in Card Payments](https://dev.to/realnamehidden1_61/the-beginners-guide-to-cryptogram-and-eci-in-card-payments-274j)
-- [Why You Shouldn’t Manually Define a Vue Component’s name](https://dev.to/jiyingzhi/why-you-shouldnt-manually-define-a-vue-components-name-43a5)
-- [The Art Of People Management: A Lesson I Learned the Hard Way](https://dev.to/kolawale/the-art-of-people-management-a-lesson-i-learned-the-hard-way-4ckh)
-- [Opportunities and Challenges in Explainable Artificial Intelligence &lpar;XAI&rpar;: ASurvey](https://dev.to/paperium/opportunities-and-challenges-in-explainable-artificial-intelligence-xai-asurvey-195a)
-- [Interpreter vs Compiler: What’s the Difference?](https://dev.to/himanshudevgupta/interpreter-vs-compiler-whats-the-difference-5180)
+- [AWS Compute Optimizer](https://dev.to/barbara_gaspar/aws-compute-optimizer-1e6l)
+- [Jucie - Stop Mocking, Start Making](https://dev.to/adrianjonmiller/jucie-stop-mocking-start-making-3o4o)
+- [Resilient Backend Architecture: From Implementation to Chaos Testing](https://dev.to/dmytro_kostenko/resilient-backend-architecture-from-implementation-to-chaos-testing-5bmd)
+- [ECS vs EKS: When You DON&#39;T Need Kubernetes - A Practical Guide to Choosing AWS Container Services](https://dev.to/aws-builders/ecs-vs-eks-when-you-dont-need-kubernetes-a-practical-guide-to-choosing-aws-container-services-4dif)
+- [Closures and Scopes in JavaScript](https://dev.to/lucaspereiradesouzat/closures-and-scopes-in-javascript-154h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
