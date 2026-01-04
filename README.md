@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🔒_Security_Performance_Balance[20260104223626]](https://dev.to/member_8659c28a/securityperformancebalance20260104223626-6ne)
+- [GitPeek: Turning GitHub Data into Stories with Mux🔥🔥🎬](https://dev.to/onlyfave/gitpeek-turning-github-data-into-stories-with-mux-1ij2)
+- [Playwright vs. Selenium: A 2026 Architecture Review](https://dev.to/deepak_mishra_35863517037/playwright-vs-selenium-a-2026-architecture-review-347d)
+- [Coding Challenge Practice - Question 94](https://dev.to/tomivan/coding-challenge-practice-question-94-1bhf)
 - [AI Agents: Mastering 3 Essential Patterns &lpar;Reflexive&rpar;. Part 3 of 3](https://dev.to/gabrielmrojas/ai-agents-mastering-3-essential-patterns-reflexive-part-3-of-3-2cmn)
-- [Agentes de IA: Dominando 3 Patrones Esenciales &lpar;Reflexive&rpar;. Parte 3 de 3](https://dev.to/gabrielmrojas/agentes-de-ia-dominando-3-patrones-esenciales-reflexive-parte-3-de-3-486e)
-- [🛠️_Development_Efficiency_vs_Runtime_Performance[20260104221318]](https://dev.to/member_6331818c/developmentefficiencyvsruntimeperformance20260104221318-1084)
-- [Building Hoasel: What I Learned About Ethical Engagement After Winning Tech4Dev](https://dev.to/mayowaogunnubi/building-hoasel-what-i-learned-about-ethical-engagement-after-winning-tech4dev-5db6)
-- [Scaling API Access with Azure API Management: From Manual to Self-Service](https://dev.to/anoushnet/scaling-api-access-with-azure-api-management-from-manual-to-self-service-3299)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
