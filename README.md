@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Chain Rule &lpar;Aturan Rantai&rpar; dalam Kalkulus dan Relevansinya dalam Machine Learning](https://dev.to/ezzeddinp/chain-rule-aturan-rantai-dalam-kalkulus-dan-relevansinya-dalam-machine-learning-ml2)
-- [YouTube Video Thumbnail Downloader Tool](https://dev.to/ahmadfreetools/youtube-video-thumbnail-downloader-tool-2fgo)
-- [I just Starting to learn Rust](https://dev.to/bosnaufal/i-just-starting-to-learn-rust-4698)
-- [Stop Print Debugging Your AI Agents: A Deep Dive into Agent Observability](https://dev.to/angu10/stop-print-debugging-your-ai-agents-a-deep-dive-into-agent-observability-29eo)
-- [How Attention Shapes Knowledge Retention](https://dev.to/memory_rush_5bb9305e1ab6d/how-attention-shapes-knowledge-retention-1e9d)
+- [ReliefLine](https://dev.to/ctrlvee/reliefline-4fch)
+- [Is the World Ready for Another Programming Language in 2026, Now That AI Writes Code?](https://dev.to/james_d_befc420a49e6a2b5e/is-the-world-ready-for-another-programming-language-in-2026-now-that-ai-writes-code-2el8)
+- [🔥_High_Concurrency_Framework_Choice_Tech_Decisions[20260104060344]](https://dev.to/member_6331818c/highconcurrencyframeworkchoicetechdecisions20260104060344-3l4d)
+- [Fine-tuning &amp; Model Optimization: Key Trends &amp; Insights](https://dev.to/hkj13/fine-tuning-model-optimization-key-trends-insights-kh)
+- [Define the AWS Global Infrastructure](https://dev.to/aws-builders/define-the-aws-global-infrastructure-5eje)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
