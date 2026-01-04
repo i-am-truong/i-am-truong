@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Open Source, Open Heart: My Next Big Step](https://dev.to/santoshyadavdev/open-source-open-heart-my-next-big-step-3klf)
+- [What 100+ Production Incidents Taught Me About System Design](https://dev.to/muhammad_yawar_malik/what-100-production-incidents-taught-me-about-system-design-17h1)
+- [A Solo Game Developer who uses only Free &amp; Open Source Tools](https://dev.to/wagenrace/a-solo-game-developer-who-uses-only-free-open-source-tools-1d6g)
+- [For most of the web’s history, websites were treated like finished products.](https://dev.to/kylatheindb/for-most-of-the-webs-history-websites-were-treated-like-finished-products-1ffk)
 - [Turning a Research Paper into a Runnable System](https://dev.to/flamehaven01/turning-a-research-paper-into-a-runnable-system-eld)
-- [Why Tenant Context Must Be Scoped Per Transaction](https://dev.to/m_zinger_2fc60eb3f3897908/why-tenant-context-must-be-scoped-per-transaction-3aop)
-- [The Modern Home Network Has No Safe Mode](https://dev.to/numbpill3d/the-modern-home-network-has-no-safe-mode-1gdo)
-- [I&#39;ll Serve Anything](https://dev.to/mikesol/ill-serve-anything-13kp)
-- [The Honeypot Paradox: How Cybersecurity&#39;s Deception Games Are Poisoning the Well](https://dev.to/zeroblind25/the-honeypot-paradox-how-cybersecuritys-deception-games-are-poisoning-the-well-24f7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
