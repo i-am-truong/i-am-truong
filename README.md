@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [9 SaaS pricing traps in India that quietly inflate your bill](https://dev.to/toolstack_digest/9-saas-pricing-traps-in-india-that-quietly-inflate-your-bill-46pg)
+- [Downloading Docker images where DockerHub won&#39;t work](https://dev.to/jadolg/downloading-docker-images-where-dockerhub-wont-work-35k8)
 - [raProMo: The Free Promotion Hub in Madagascar](https://dev.to/aina_j/rapromo-the-free-promotion-hub-in-madagascar-375p)
 - [🚀 Extension Project III: from spreadsheet chaos to a web app](https://dev.to/deleanmafra/extension-project-iii-from-spreadsheet-chaos-to-a-web-app-3a1e)
 - [How to Use Google Patents for Prior Art &amp; Invalidity Searches](https://dev.to/patentscanai/how-to-use-google-patents-for-prior-art-invalidity-searches-43pd)
-- [Llama Guard: LLM-based Input-Output Safeguard for Human-AI Conversations](https://dev.to/paperium/llama-guard-llm-based-input-output-safeguard-for-human-ai-conversations-m1b)
-- [Zero-Downtime AKS Node Patching](https://dev.to/careerbytecode/zero-downtime-aks-node-patching-3j45)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
