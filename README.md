@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The SaaS Billing Nightmare: Why Integration Is More Than Just a &#39;Pay&#39; Button](https://dev.to/thekarlesi/the-saas-billing-nightmare-why-integration-is-more-than-just-a-pay-button-1mjp)
 - [Designing a Secure AWS Landing Zone with Control Tower &lpar;What Most Blogs Don’t Tell You&rpar;](https://dev.to/amaan-igs/designing-a-secure-aws-landing-zone-with-control-tower-what-most-blogs-dont-tell-you-20oh)
 - [Beyond the Linear CV](https://dev.to/pascal_cescato_692b7a8a20/beyond-the-linear-cv-3fik)
 - [10,000 Applicants. 28 Positions. The Brutal Math of Web3 Hiring in 2026.](https://dev.to/kniraj/10000-applicants-28-positions-the-brutal-math-of-web3-hiring-in-2026-58po)
 - [Docker is Overkill: Setting Up Lightweight CI/CD for Solo Devs](https://dev.to/akshith985/docker-is-overkill-setting-up-lightweight-cicd-for-solo-devs-3fc3)
-- [Stop Coding Login Screens: A Senior Developer’s Guide to Building SaaS That Actually Ships](https://dev.to/thekarlesi/stop-coding-login-screens-a-senior-developers-guide-to-building-saas-that-actually-ships-3han)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
