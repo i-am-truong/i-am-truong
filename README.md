@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The basics of managing the database schema changes](https://dev.to/tanin47/managing-the-database-schema-changes-for-your-app-14dn)
-- [Will MCP become a standard? A look at what&#39;s coming](https://dev.to/gantz/will-mcp-become-a-standard-a-look-at-whats-coming-2di1)
-- [Understanding How Applications Talk to SQLite Internally](https://dev.to/lovestaco/understanding-how-applications-talk-to-sqlite-internally-4b9h)
-- [ALL ABOUT REST API](https://dev.to/bhu_kalki/all-about-rest-api-1924)
-- [Top 8 DevOps Tools Revolutionizing Development in 2026](https://dev.to/meena_nukala/top-8-devops-tools-revolutionizing-development-in-2026-4m6d)
+- [Running Mistral Vibe CLI with Local LLMs: A Complete Guide](https://dev.to/chung_duy_51a346946b27a3d/running-mistral-vibe-with-local-llms-a-complete-guide-1mde)
+- [From Managed Threads to Independent Tasks &lpar;Part 2: Sharing Data — Locks, Atomics, and Ownership&rpar;](https://dev.to/_akajuthi_/from-managed-threads-to-independent-taskspart-2-sharing-data-locks-atomics-and-ownership-3ke8)
+- [I made a unique compiled programming language in Rust without LLVM](https://dev.to/morcules/i-made-a-unique-compiled-programming-language-in-rust-without-llvm-2glb)
+- [Hyper-V Configuration Guide for Kubernetes and Supporting Network Services](https://dev.to/korakrit/hyper-v-configuration-guide-for-kubernetes-and-supporting-network-services-1l6a)
+- [IaaS vs PaaS vs SaaS Explained: AWS Shared Responsibility Made Simple](https://dev.to/micheal_angelo_41cea4e81a/iaas-vs-paas-vs-saas-explained-aws-shared-responsibility-made-simple-4e10)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
