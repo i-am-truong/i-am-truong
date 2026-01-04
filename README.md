@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Local-First Data Exploration Tool with DuckDB](https://dev.to/whtsht/building-a-local-first-data-exploration-tool-with-duckdb-3jh0)
-- [Develop a LLM Chatbot Using Streamlit+Bedrock+Langchain](https://dev.to/aws-builders/develop-a-llm-chatbot-using-streamlitbedrocklangchain-1hlc)
-- [No More Messy Code: How to Master HTML, CSS, and JS Linting in VS Code Like a Pro](https://dev.to/gerryleonugroho/no-more-messy-code-how-to-master-html-css-and-js-linting-in-vs-code-like-a-pro-1nim)
-- [Textly - 30+ Free Online Text Tools &lpar;No Sign Up, Private&rpar;](https://dev.to/amin_islam_63d8dea17c96ce/textly-30-free-online-text-tools-no-sign-up-private-4mc5)
-- [Grid Align Explained: The Complete Guide to Perfect CSS Layouts &lpar;2026&rpar;](https://dev.to/satyam_gupta_0d1ff2152dcc/grid-align-explained-the-complete-guide-to-perfect-css-layouts-2026-4hmk)
+- [Scrapy AutoThrottle &amp; Rate Limiting: Stop Getting Blocked](https://dev.to/ikram_khan/scrapy-autothrottle-rate-limiting-stop-getting-blocked-4kje)
+- [Rust Structs and Enums](https://dev.to/godofgeeks/rust-structs-and-enums-3clg)
+- [Talking Heads vs Full-Body Motion: How to Choose the Right AI Avatar Tool](https://dev.to/herman99630/talking-heads-vs-full-body-motion-how-to-choose-the-right-ai-avatar-tool-2766)
+- [RAG Techniques That Actually Work](https://dev.to/ravi_kumarverma_afd09786/rag-techniques-that-actually-work-nad)
+- [Why Does SOCKS5 Proxy Login Trigger Account Warnings or Failures When Switching Between Cloud and Local Access?](https://dev.to/miller_proxy/why-does-socks5-proxy-login-trigger-account-warnings-or-failures-when-switching-between-cloud-and-29c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
