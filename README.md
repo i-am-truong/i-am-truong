@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ACID and Idempotent UPDATE RETURNING in MongoDB with findOneAndUpdate&lpar;&rpar;](https://dev.to/franckpachot/acid-and-idempotent-update-returning-in-mongodb-with-findoneandupdate-955)
+- [How I Translated 277 Strings in 5 Minutes &lpar;Real-World Case Study&rpar;](https://dev.to/nikolaos_protopapas_d3bd6/how-i-translated-277-strings-in-5-minutes-real-world-case-study-4j47)
 - [Why I Created lazymake: Solving Make&#39;s UX Problem](https://dev.to/rshelekhov/why-i-created-lazymake-solving-makes-ux-problem-38pp)
 - [How to Prepare for a Certification in any Tech Career](https://dev.to/walteralleyz/how-to-prepare-for-a-certification-in-any-tech-career-5g74)
 - [Why software development education has to become more personalized](https://dev.to/andreas_mller_2fd27cf578/why-software-development-education-has-to-be-come-more-personalized-42a1)
-- [Components in React: Functional vs. Class Components](https://dev.to/tenelabs/components-in-react-functional-vs-class-components-4laj)
-- [WebForms Core in NuGet](https://dev.to/elanatframework/webforms-core-in-nuget-1567)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
