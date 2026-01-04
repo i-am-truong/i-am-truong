@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Arrays Start at Index 0: A Memory-Level Explanation](https://dev.to/amanprasad/why-arrays-start-at-index-0-a-memory-level-explanation-393p)
-- [Human-in-the-Loop: When AI Agents Should Stop and Ask](https://dev.to/gantz/human-in-the-loop-when-ai-agents-should-stop-and-ask-30gc)
-- [[Boost]](https://dev.to/maryam_ayesha8800_3fa2cad/exploring-how-technology-and-strategic-thinking-come-together-in-real-world-projects-can-be-bik)
-- [Neural Networks: Zero to Hero](https://dev.to/technoblogger14o3/neural-networks-zero-to-hero-4edi)
-- [Modern Authentication and Authorization in React with Oauth](https://dev.to/codeek/modern-authentication-and-authorization-in-react-with-oauth-3o3l)
+- [Monetzly: Boost Developer Revenue with AI Conversation Ads](https://dev.to/monetzly/monetzly-boost-developer-revenue-with-ai-conversation-ads-2pmm)
+- [Profit Like a Supermarket Boss: Demystifying Bitcoin High-Frequency Grid Trading](https://dev.to/ghostsworm/profit-like-a-supermarket-boss-demystifying-bitcoin-high-frequency-grid-trading-1dpn)
+- [A real-world story: Why we even need npm](https://dev.to/karthikkorrayi/a-real-world-story-why-we-even-need-npm-h86)
+- [JIT-Picking: Exploiting the Logic Gap in Modern JavaScript Engines](https://dev.to/azterix101/jit-picking-exploiting-the-logic-gap-in-modern-javascript-engines-o9k)
+- [KAFKA](https://dev.to/bhu_kalki/kafka-26d6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
