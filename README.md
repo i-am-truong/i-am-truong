@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Agents: Mastering 3 Essential Patterns &lpar;ReAct&rpar;. Part 2 of 3](https://dev.to/gabrielmrojas/ai-agents-mastering-3-essential-patterns-react-part-2-of-3-1b1d)
-- [Agentes de IA: Dominando 3 Patrones Esenciales &lpar;ReAct&rpar;. Parte 2 de 3](https://dev.to/gabrielmrojas/agentes-de-ia-dominando-3-patrones-esenciales-react-parte-2-de-3-1mdb)
-- [📈_Scalability_Architecture_Design[20260104212955]](https://dev.to/member_8659c28a/scalabilityarchitecturedesign20260104212955-2e7e)
-- [Building a Kafka Event-Driven Spring Boot Application with Avro, Schema Registry and PostgreSQL](https://dev.to/mathias82/building-a-kafka-event-driven-spring-boot-application-with-avro-schema-registry-and-postgresql-3i0)
-- [Crunching Numbers: World Cup 2026 Predictions and Trends](https://dev.to/mabualzait/crunching-numbers-world-cup-2026-predictions-and-trends-4kap)
+- [AI Agents: Mastering 3 Essential Patterns &lpar;Reflexive&rpar;. Part 3 of 3](https://dev.to/gabrielmrojas/ai-agents-mastering-3-essential-patterns-reflexive-part-3-of-3-2cmn)
+- [Agentes de IA: Dominando 3 Patrones Esenciales &lpar;Reflexive&rpar;. Parte 3 de 3](https://dev.to/gabrielmrojas/agentes-de-ia-dominando-3-patrones-esenciales-reflexive-parte-3-de-3-486e)
+- [🛠️_Development_Efficiency_vs_Runtime_Performance[20260104221318]](https://dev.to/member_6331818c/developmentefficiencyvsruntimeperformance20260104221318-1084)
+- [Building Hoasel: What I Learned About Ethical Engagement After Winning Tech4Dev](https://dev.to/mayowaogunnubi/building-hoasel-what-i-learned-about-ethical-engagement-after-winning-tech4dev-5db6)
+- [Scaling API Access with Azure API Management: From Manual to Self-Service](https://dev.to/anoushnet/scaling-api-access-with-azure-api-management-from-manual-to-self-service-3299)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
