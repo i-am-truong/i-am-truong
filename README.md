@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Tool Use vs RAG: picking the right approach](https://dev.to/gantz/tool-use-vs-rag-picking-the-right-approach-4ipj)
-- [Kafka Consumer Rebalancing: From Stop-the-World to Cooperative Protocol](https://dev.to/hantedyou_0106/kafka-consumer-rebalancing-from-stop-the-world-to-cooperative-protocol-1kh)
-- [Centralizing Email Infrastructure on AWS with SESMailEngine](https://dev.to/aurora75/centralizing-email-infrastructure-on-aws-with-sesmailengine-2i0d)
-- [Tree Traversals Explained: DFS, BFS, and When to Use Each](https://dev.to/mqshaikh8/tree-traversals-explained-dfs-bfs-and-when-to-use-each-2m3f)
-- [Password Generator using Go and K3s](https://dev.to/shelner/password-generator-using-go-and-k3s-3maf)
+- [Memory Patterns for AI Agents: Short-term, Long-term, and Episodic](https://dev.to/gantz/memory-patterns-for-ai-agents-short-term-long-term-and-episodic-5ff1)
+- [QUICK SQL REVISION](https://dev.to/blackwatch021/quick-sql-revision-2cj9)
+- [Digital Scrapbook: Ultimate Browser-Based Tool for Organizing Links, Images, and Notes Instantly. No-Install, Local-First.](https://dev.to/techno_kraft_in/digital-scrapbook-ultimate-browser-based-tool-for-organizing-links-images-and-notes-instantly-1dha)
+- [Save Windows Live Captions](https://dev.to/mtarden/save-windows-live-captions-3aag)
+- [Where does MCP fit in your stack?](https://dev.to/gantz/where-does-mcp-fit-in-your-stack-2cam)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
