@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Best Backtesting Platforms for Stock Strategies in 2026: Top Tools to Maximize Your Trading Edge](https://dev.to/georgemortoninvestments/best-backtesting-platforms-for-stock-strategies-in-2026-top-tools-to-maximize-your-trading-edge-51p2)
-- [“Cracking the Kubernetes Interview” 🍘 Book Review](https://dev.to/aairom/cracking-the-kubernetes-interview-book-review-5904)
-- [Channels in C#](https://dev.to/adrianbailador/channels-in-c-3i6h)
-- [☕ Just launched Coffee Pomodoro - my personal productivity project 🚀](https://dev.to/adrianbailador/just-launched-coffee-pomodoro-my-personal-productivity-project-k18)
-- [The Most Useful Professional Tools for Webmasters and Digital](https://dev.to/itpraktika/the-most-useful-professional-tools-for-webmasters-and-digital-jb7)
+- [How to Sync Stripe Data to PostgreSQL in 5 Minutes &lpar;No Code&rpar;](https://dev.to/ilshadyx/how-to-sync-stripe-data-to-postgresql-in-5-minutes-no-code-82a)
+- [Most APIs still handle oversized payloads incorrectly &lpar;and it’s a DoS problem&rpar;](https://dev.to/liudasjan/most-apis-still-handle-oversized-payloads-incorrectly-and-its-a-dos-problem-2c06)
+- [Top 10 AWS Security Mistakes Beginners Must Avoid](https://dev.to/ciberconscientes/avoid-these-top-10-aws-security-mistakes-beginners-make-46b1)
+- [Flay the Fantasy: How I Stopped Betting My Future on Every Line of Code &lpar;And Started Shipping Like Crazy in 2026&rpar;](https://dev.to/ilyarah/flay-the-fantasy-how-i-stopped-betting-my-future-on-every-line-of-code-and-started-shipping-like-lco)
+- [Building Memory for AI-Assisted Development](https://dev.to/nirajkvinit1/building-memory-for-ai-assisted-development-52i3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
