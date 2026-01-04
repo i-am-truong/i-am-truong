@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ReliefLine](https://dev.to/ctrlvee/reliefline-4fch)
-- [Is the World Ready for Another Programming Language in 2026, Now That AI Writes Code?](https://dev.to/james_d_befc420a49e6a2b5e/is-the-world-ready-for-another-programming-language-in-2026-now-that-ai-writes-code-2el8)
-- [🔥_High_Concurrency_Framework_Choice_Tech_Decisions[20260104060344]](https://dev.to/member_6331818c/highconcurrencyframeworkchoicetechdecisions20260104060344-3l4d)
-- [Fine-tuning &amp; Model Optimization: Key Trends &amp; Insights](https://dev.to/hkj13/fine-tuning-model-optimization-key-trends-insights-kh)
-- [Define the AWS Global Infrastructure](https://dev.to/aws-builders/define-the-aws-global-infrastructure-5eje)
+- [Develop a LLM Chatbot Using Streamlit+Bedrock+Langchain](https://dev.to/aws-builders/develop-a-llm-chatbot-using-streamlitbedrocklangchain-1hlc)
+- [No More Messy Code: How to Master HTML, CSS, and JS Linting in VS Code Like a Pro](https://dev.to/gerryleonugroho/no-more-messy-code-how-to-master-html-css-and-js-linting-in-vs-code-like-a-pro-1nim)
+- [Textly - 30+ Free Online Text Tools &lpar;No Sign Up, Private&rpar;](https://dev.to/amin_islam_63d8dea17c96ce/textly-30-free-online-text-tools-no-sign-up-private-4mc5)
+- [Grid Align Explained: The Complete Guide to Perfect CSS Layouts &lpar;2026&rpar;](https://dev.to/satyam_gupta_0d1ff2152dcc/grid-align-explained-the-complete-guide-to-perfect-css-layouts-2026-4hmk)
+- [Grid Gaps Explained: The Secret to Perfect Web Layouts](https://dev.to/satyam_gupta_0d1ff2152dcc/grid-gaps-explained-the-secret-to-perfect-web-layouts-4a48)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
