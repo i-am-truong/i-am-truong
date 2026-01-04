@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Rescuing the Signal: How PCA Salvages Accuracy from Catastrophic Data Poisoning](https://dev.to/aksh_aggarwal_15910237767/rescuing-the-signal-how-pca-salvages-accuracy-from-catastrophic-data-poisoning-54m7)
-- [Agentes de IA: Dominando 3 Patrones Esenciales &lpar;Tool Using&rpar;. Parte 1 de 3](https://dev.to/gabrielmrojas/agentes-de-ia-dominando-3-patrones-esenciales-tool-using-parte-1-de-3-244l)
-- [Creating a Reliable VS Code Task for New DEV.to Posts &lpar;Windows + PowerShell&rpar;](https://dev.to/jankoweb/creating-a-reliable-vs-code-task-for-new-devto-posts-windows-powershell-dh9)
-- [Birthday-Cake Loading: Serve the Cake First, Add the Icing Only When Safe – Progressive Enhancement for React &amp; Next.js](https://dev.to/fabianzimber/birthday-cake-loading-serve-the-cake-first-add-the-icing-only-when-safe-progressive-enhancement-m6e)
-- [AI Agents: Mastering 3 Essential Patterns &lpar;Tool Using&rpar;. Part 1 of 3](https://dev.to/gabrielmrojas/ai-agents-mastering-3-essential-patterns-tool-using-part-1-of-3-5d92)
+- [We Built an Open Source Alternative to Laravel Forge - Here&#39;s Why](https://dev.to/nikhilj/we-built-an-open-source-alternative-to-laravel-forge-heres-why-3gn2)
+- [From 2010 Dust to Droid Dreams: Relearning the Arduino](https://dev.to/sigje/from-2010-dust-to-droid-dreams-relearning-the-arduino-4f5g)
+- [I Built a Small Free Tool to Make SOQL Queries Less Painful](https://dev.to/brendan_lester_b724f7075b/i-built-a-small-free-tool-to-make-soql-queries-less-painful-4hc0)
+- [Static portfolios are dead!](https://dev.to/reklamof/static-portfolios-are-dead-hdd)
+- [How I Found 47 B2B Customers on Reddit Using Python and Zero Ad Spend](https://dev.to/short_playskits_ab152535/how-i-found-47-b2b-customers-on-reddit-using-python-and-zero-ad-spend-232c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
