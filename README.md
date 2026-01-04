@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate](https://dev.to/paperium/chateval-towards-better-llm-based-evaluators-through-multi-agent-debate-43e4)
-- [My AI agent worked fine in testing. Then real inputs broke it.](https://dev.to/franciscohumarang/my-ai-agent-worked-fine-in-testing-then-real-inputs-broke-it-2922)
-- [Hello 2026: This Will Only Take Two Weeks](https://dev.to/art_light/hello-2026-this-will-only-take-two-weeks-19fj)
-- [How AI Is Transforming Everyday Life](https://dev.to/market_expert_2abefa6f035/how-ai-is-transforming-everyday-life-1lpc)
-- [echo3D Integrates Support for Niantic’s SPZ Format, Streamlining 3D Gaussian Splat Workflows](https://dev.to/_echo3d_/echo3d-integrates-support-for-niantics-spz-format-streamlining-3d-gaussian-splat-workflows-40j2)
+- [I built a platform to validate that non-technical users actually want AI agents](https://dev.to/ucmind_39e5584942f7802b7/i-built-a-platform-to-validate-that-non-technical-users-actually-want-ai-agents-56m9)
+- [📈_Scalability_Architecture_Design[20260104171435]](https://dev.to/member_6331818c/scalabilityarchitecturedesign20260104171435-1ckn)
+- [html symentric tags and use of &lt;span&gt;](https://dev.to/silambarasan_a_bd1d4d0a29/html-symentric-tags-and-use-of-25l)
+- [🧰 Free Online Tools Box — All Tools You Can Use &lpar;100% Free &amp; No Login&rpar;](https://dev.to/charlie_charles_5322cf544/free-online-tools-box-all-tools-you-can-use-100-free-no-login-9hm)
+- [Objects and Data types in Java](https://dev.to/divya_bharathig_6635328d/objects-and-data-types-in-java-43ip)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
