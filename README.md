@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Monetzly: Boost Developer Revenue with AI Conversation Ads](https://dev.to/monetzly/monetzly-boost-developer-revenue-with-ai-conversation-ads-2pmm)
-- [Profit Like a Supermarket Boss: Demystifying Bitcoin High-Frequency Grid Trading](https://dev.to/ghostsworm/profit-like-a-supermarket-boss-demystifying-bitcoin-high-frequency-grid-trading-1dpn)
-- [A real-world story: Why we even need npm](https://dev.to/karthikkorrayi/a-real-world-story-why-we-even-need-npm-h86)
-- [JIT-Picking: Exploiting the Logic Gap in Modern JavaScript Engines](https://dev.to/azterix101/jit-picking-exploiting-the-logic-gap-in-modern-javascript-engines-o9k)
-- [KAFKA](https://dev.to/bhu_kalki/kafka-26d6)
+- [From 3+ Days to 3.8 Hours: Scaling a .NET CSV Importer for SQL Server](https://dev.to/__2131e9e/from-3-days-to-38-hours-scaling-a-net-csv-importer-for-sql-server-ge1)
+- [**5 Advanced Java IDE Techniques That Will Transform Your Development Productivity and Workflow**](https://dev.to/nithinbharathwaj/5-advanced-java-ide-techniques-that-will-transform-your-development-productivity-and-workflow-16p5)
+- [Building a Secure, Serverless Multi-Tenant RAG Chatbot with Amazon Bedrock and Lambda](https://dev.to/aws-builders/building-a-secure-serverless-multi-tenant-rag-chatbot-with-amazon-bedrock-and-lambda-3ip1)
+- [From Zero to Programming Language: A Complete Implementation Guide](https://dev.to/uthman_dev/from-zero-to-programming-language-a-complete-implementation-guide-1mn8)
+- [# 🏚️ Behind the Doors of *Houses: Hidden Spirits* – The Sanity Mechanic 😱](https://dev.to/lizzx9/-behind-the-doors-of-houses-hidden-spirits-the-sanity-mechanic-3m2c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
