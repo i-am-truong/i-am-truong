@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Agents Are Taking Over Development in 2026 — Here&#39;s What Changed](https://dev.to/mysterious_xuanwu_5a00815/ai-agents-are-taking-over-development-in-2026-heres-what-changed-4mop)
+- [Hertzlab](https://dev.to/uncle_blacedit_4828f0b2/hertzlab-3i75)
 - [🚀 AutoReadme: Revolutionizing Developer Documentation with AI](https://dev.to/divyasinghdev/autoreadme-revolutionizing-developer-documentation-with-ai-3ein)
 - [54. Spiral Matrix | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/54-spiral-matrix-leetcode-top-interview-150-coding-questions-2a1j)
-- [2026-01-04 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2026-01-04-daily-ai-news-g06)
 - [Progress on STAR &lpar;EOM&rpar;](https://dev.to/ryan_bae_5bd7d40241e52c14/progress-on-star-eom-4p8h)
-- [Kubernetes Project #2](https://dev.to/jumptotech/kubernetes-project-2-4805)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
