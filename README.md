@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A beginner&#39;s guide to the Openvoice model by Chenxwh on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-openvoice-model-by-chenxwh-on-replicate-56ef)
-- [A beginner&#39;s guide to the Omost model by Chenxwh on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-omost-model-by-chenxwh-on-replicate-2nm1)
-- [A beginner&#39;s guide to the Deprecated-Batch-Image-Captioning model by Fofr on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-deprecated-batch-image-captioning-model-by-fofr-on-replicate-15bc)
-- [A beginner&#39;s guide to the Stabledesign_interiordesign model by Melgor on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-stabledesigninteriordesign-model-by-melgor-on-replicate-51gg)
-- [A beginner&#39;s guide to the Omni-Zero model by Okaris on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-omni-zero-model-by-okaris-on-replicate-cnl)
+- [I solved one of my major pain point during my game development with AI &lpar;Chat GPT + Antigravity&rpar;](https://dev.to/tomokat/i-solved-one-of-my-major-pain-point-during-my-game-development-with-ai-chat-gpt-antigravity-kkd)
+- [🎲 Building DiceForge: A Modern Dice Rolling Simulator with Python &amp; Tkinter](https://dev.to/matetechnologie/building-diceforge-a-modern-dice-rolling-simulator-with-python-tkinter-e1a)
+- [Work Sprawl: How Scattered Work Leads to Stagnation &lpar;and How To Overcome it&rpar;](https://dev.to/taskford/work-sprawl-how-scattered-work-leads-to-stagnation-and-how-to-overcome-it-2g93)
+- [Building a Browser Only Sudoku Solver](https://dev.to/sudoku_online/building-a-browser-only-sudoku-solver-4b58)
+- [TransTrack: Multiple Object Tracking with Transformer](https://dev.to/paperium/transtrack-multiple-object-tracking-with-transformer-529b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
