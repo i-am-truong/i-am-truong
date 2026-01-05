@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Copy-Paste is Not a Workflow: Building dbt-core-mcp](https://dev.to/niclasolofsson/copy-paste-is-not-a-workflow-building-dbt-core-mcp-4d6o)
 - [I Read a 70-Page Document About Architectural Blueprint for Smart Contracts, So You Don’t Have To](https://dev.to/lev_goukassian_5fe7ea654a/i-read-a-70-page-document-about-architectural-blueprint-for-smart-contracts-so-you-dont-have-to-5bhp)
 - [Deployment strategies](https://dev.to/jumptotech/deployment-strategies-2oep)
 - [React v19: useTransition hook with &lt;Activity /&gt;](https://dev.to/joma_3b2f21917842d7461716/react-v19-usetransition-hook-with-2c4f)
 - [Zapier vs. Custom Code: When to Fire Your &#39;Glue&#39; Tool](https://dev.to/ajhaveri/zapier-vs-custom-code-when-to-fire-your-glue-tool-54mb)
-- [Your Boring Stack Isn&#39;t Boring Enough](https://dev.to/queelius/your-boring-stack-isnt-boring-enough-m5e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
