@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AWS Security Services: A Conversation Between Engineers](https://dev.to/datatechbridge/aws-security-services-a-conversation-between-engineers-109h)
-- [Del concepto a la estructura: continuando el trabajo sobre gobernanza de la IA](https://dev.to/antonio_socorro_95e3ff086/del-concepto-a-la-estructura-continuando-el-trabajo-sobre-gobernanza-de-la-ia-4d2g)
-- [VidInsight AI](https://dev.to/deborah_loureiro_0fc0816b/vidinsight-ai-30k2)
-- [From Concept to Structure: Continuing the Work on AI Governance](https://dev.to/antonio_socorro_95e3ff086/from-concept-to-structure-continuing-the-work-on-ai-governance-2epd)
-- [Why Safety in Commercial Transportation Is a System, Not a Checklist](https://dev.to/yulia_shulpenkova_1e9e3d1/why-safety-in-commercial-transportation-is-a-system-not-a-checklist-3hik)
+- [Choosing Your Path: Avenger &lpar;Front-End&rpar; vs Men in Black &lpar;Back-End &rpar;](https://dev.to/luigiescalante/choosing-your-path-avenger-front-end-vs-men-in-black-back-end--44em)
+- [I Built a Multi-Agent AI System That Analyzes Your GitHub Like a Technical Interview Panel](https://dev.to/divyasinghdev/i-built-a-multi-agent-ai-system-that-analyzes-your-github-like-a-technical-interview-panel-1hd3)
+- [Awakening Agency Integration](https://dev.to/lisa_girlinghouse_5124a19/awakening-agency-integration-3n58)
+- [The Gaming Analytics Tech Stack: From Ingestion to Insights](https://dev.to/sai_krishnachaitanyachi/the-gaming-analytics-tech-stack-from-ingestion-to-insights-4769)
+- [VNS.Gallery - Flexible Image Grid and Lightbox Plugin](https://dev.to/jqueryscript/vnsgallery-flexible-image-grid-and-lightbox-plugin-32m3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
