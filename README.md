@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Identify AWS Database Services](https://dev.to/aws-builders/identify-aws-database-services-2gg0)
-- [The Total Cost of Running Agentic AI on AWS: A Financial Breakdown](https://dev.to/dineshelumalai/the-total-cost-of-running-agentic-ai-on-aws-a-financial-breakdown-1ofc)
-- [FSMS and HACCP: Systems, Principles, and Performance](https://dev.to/joy1/fsms-and-haccp-systems-principles-and-performance-27pc)
-- [Lightning-Fast In-App Debugging with React Native BugBubble](https://dev.to/ajmal_hasan/lightning-fast-in-app-debugging-with-react-native-bugbubble-5bao)
-- [Build the tool. We’ll run the business.](https://dev.to/codeatoms/build-the-tool-well-run-the-business-pl2)
+- [Freelancing was going fine… until](https://dev.to/heytechomaima/freelancing-was-going-fine-until-4ibo)
+- [Enterprise Analytics in 2026: The Roadmap to Smarter, Faster Business Decisions](https://dev.to/ravi_teja_4/enterprise-analytics-in-2026-the-roadmap-to-smarter-faster-business-decisions-4b4g)
+- [ClimateIQ AI – 11 Mux Features Power Climate Action for 2B+ Users](https://dev.to/omkar598/climateiq-ai-11-mux-features-power-climate-action-for-2b-users-3dh4)
+- [Career Accelerator Program to help learners become job ready](https://dev.to/shameel/career-accelerator-program-to-help-learners-become-job-ready-33p)
+- [Understanding Coupling: Afferent vs Efferent Dependencies in System Design](https://dev.to/azmy/understanding-coupling-afferent-vs-efferent-dependencies-in-system-design-5ha9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
