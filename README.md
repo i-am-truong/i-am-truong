@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Classical ML Still Crushes GenAI at Regression](https://dev.to/mickael__andrieu/why-classical-ml-still-crushes-genai-at-regression-5l5)
+- [About This Documentation Infrastructure](https://dev.to/bbos/about-this-documentation-infrastructure-2el7)
 - [How I Passed the AWS Certified Cloud Practitioner in 24 Days &lpar;For Free&rpar;](https://dev.to/adehorizon/how-i-passed-the-aws-certified-cloud-practitioner-in-24-days-for-free-4c49)
 - [My Reading Journey: Oct-Dec 2025](https://dev.to/ericbl3/my-reading-journey-oct-dec-2025-48ia)
-- [IPVS to NFTables: A Migration Guide for Kubernetes v1.35](https://dev.to/frozenprocess/ipvs-to-nftables-a-migration-guide-for-kubernetes-v135-24m5)
-- [Data Analyst Guide: Mastering Random Forest vs XGBoost: Which Wins for Analytics?](https://dev.to/amal_org_e8fe019c45517244/data-analyst-guide-mastering-random-forest-vs-xgboost-which-wins-for-analytics-4712)
-- [project: deployment strategy types in k8s](https://dev.to/jumptotech/project-deployment-strategy-types-in-k8s-1n90)
+- [SRDD &lpar;Part 4 of 4&rpar; - Scaling Up - SSRDD, Principles, and Implementation](https://dev.to/bbos/srdd-part-4-of-4-scaling-up-ssrdd-principles-and-implementation-4efd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
