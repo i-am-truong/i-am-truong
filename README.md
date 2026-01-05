@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Choosing Your Path: Avenger &lpar;Front-End&rpar; vs Men in Black &lpar;Back-End &rpar;](https://dev.to/luigiescalante/choosing-your-path-avenger-front-end-vs-men-in-black-back-end--44em)
-- [I Built a Multi-Agent AI System That Analyzes Your GitHub Like a Technical Interview Panel](https://dev.to/divyasinghdev/i-built-a-multi-agent-ai-system-that-analyzes-your-github-like-a-technical-interview-panel-1hd3)
-- [Awakening Agency Integration](https://dev.to/lisa_girlinghouse_5124a19/awakening-agency-integration-3n58)
-- [The Gaming Analytics Tech Stack: From Ingestion to Insights](https://dev.to/sai_krishnachaitanyachi/the-gaming-analytics-tech-stack-from-ingestion-to-insights-4769)
-- [VNS.Gallery - Flexible Image Grid and Lightbox Plugin](https://dev.to/jqueryscript/vnsgallery-flexible-image-grid-and-lightbox-plugin-32m3)
+- [A beginner&#39;s guide to the Openvoice model by Chenxwh on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-openvoice-model-by-chenxwh-on-replicate-56ef)
+- [A beginner&#39;s guide to the Omost model by Chenxwh on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-omost-model-by-chenxwh-on-replicate-2nm1)
+- [A beginner&#39;s guide to the Deprecated-Batch-Image-Captioning model by Fofr on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-deprecated-batch-image-captioning-model-by-fofr-on-replicate-15bc)
+- [A beginner&#39;s guide to the Stabledesign_interiordesign model by Melgor on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-stabledesigninteriordesign-model-by-melgor-on-replicate-51gg)
+- [A beginner&#39;s guide to the Omni-Zero model by Okaris on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-omni-zero-model-by-okaris-on-replicate-cnl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
