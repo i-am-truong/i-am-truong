@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Chrome DevTools MCP](https://dev.to/ismailpe/chrome-devtools-mcp-3a5c)
-- [Learning React Even on a “Busy Holiday” – Saving Data to Local Storage with useEffect](https://dev.to/usama_dev/learning-react-even-on-a-busy-holiday-saving-data-to-local-storage-with-useeffect-1ofi)
-- [Evry Jewels Coupon Code : &lpar;AKV&rpar; Get 5% Off On Your Stylish Jewelry Purchase](https://dev.to/referralcode90/evry-jewels-coupon-code-akv-get-5-off-on-your-stylish-jewelry-purchase-18pm)
-- [I Stopped Chasing New Frameworks. My Code Got Better](https://dev.to/officialgelo/i-stopped-chasing-new-frameworks-my-code-got-better-55c4)
-- [Why Minimum Viable Products Fail and What High-Growth Teams Do Differently](https://dev.to/aspire-softserv/why-minimum-viable-products-fail-and-what-high-growth-teams-do-differently-1h0f)
+- [ToolBox Pro: Thousands of Free Online Tools – All-in-One Efficient Web Toolkit](https://dev.to/winter_grady_3d8fc370f968/toolbox-pro-thousands-of-free-online-tools-all-in-one-efficient-web-toolkit-4kgg)
+- [Server-Sent Events in .NET 10: Finally, a Native Solution](https://dev.to/mashrulhaque/server-sent-events-in-net-10-finally-a-native-solution-22kg)
+- [Building a University Resource Sharing Platform: My Laravel Learning Journey](https://dev.to/nelson_orina_a538ba52e9ed/building-a-university-resource-sharing-platform-my-laravel-learning-journey-579l)
+- [GQLoom Evaluation Report](https://dev.to/xcfox/gqloom-evaluation-report-b6j)
+- [Docs-as-Code: Why Your Team Needs a Markdown CMS](https://dev.to/valdemaras/docs-as-code-why-your-team-needs-a-markdown-cms-3ben)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
