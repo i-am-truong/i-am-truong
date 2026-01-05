@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Writing with AI Assistance](https://dev.to/burvestorylab/writing-with-ai-assistance-4fj5)
-- [Meta-Prompting: Prompts That Write Prompts](https://dev.to/gantz/meta-prompting-prompts-that-write-prompts-2218)
-- [You Don&#39;t Have to Test All of Your Code...](https://dev.to/aws-builders/you-dont-have-to-test-all-of-your-code-m97)
-- [Mixture of Experts &lpar;MoE&rpar;](https://dev.to/gdn/mixture-of-experts-moe-1183)
-- [Understanding Soffit Repair: What Homeowners Should Know](https://dev.to/torry_silver_ef6733b9861a/understanding-soffit-repair-what-homeowners-should-know-569i)
+- [Multilingual Websites Are Hard — AI Finally Makes Them Practical](https://dev.to/trendschau/multilingual-websites-are-hard-ai-finally-makes-them-practical-4k6a)
+- [Lightweight ETL with AWS Glue Python Shell, chDB, and PyIceberg &lpar;Compared with DuckDB&rpar;](https://dev.to/aws-builders/lightweight-etl-with-aws-glue-python-shell-chdb-and-pyiceberg-compared-with-duckdb-5hcc)
+- [Microsoft 365 + Copilot em 2026: a virada do “chat” para agentes no fluxo do trabalho](https://dev.to/angelo_matias/microsoft-365-copilot-em-2026-a-virada-do-chat-para-agentes-no-fluxo-do-trabalho-2g57)
+- [I Built a SaaS Budget Tracker for the Modern User](https://dev.to/prashiln79/i-built-a-saas-budget-tracker-for-the-modern-user-52aj)
+- [Sovereign AI &amp; Data Localisation: Why It Matters More Than Ever in India](https://dev.to/shlok-talepa/sovereign-ai-data-localisation-why-it-matters-more-than-ever-in-india-1a52)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
