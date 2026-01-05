@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Secret Life of JavaScript: Memories](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-memories-1c0p)
-- [Stop Fighting Gas Wars: How to Deploy &quot;No-Gas&quot; dApps in 60 Seconds on Lattice L1](https://dev.to/arcticchainlab/stop-fighting-gas-wars-how-to-deploy-no-gas-dapps-in-60-seconds-on-lattice-l1-4d3g)
-- [🛠️Mastering TypeScript Utility Types: `Partial`, `Pick`, `Record` &amp; More](https://dev.to/tarunmj6/mastering-typescript-utility-types-partial-pick-record-more-5092)
-- [How I’m Trying to Market My SaaS With $0 &lpar;What’s Working, What Isn’t&rpar;](https://dev.to/nyanguno/how-im-trying-to-market-my-saas-with-0-whats-working-what-isnt-3a17)
-- [I built a C++ Reasoning Engine that holds 1.7TB of Knowledge in RAM – zelph v0.9.2](https://dev.to/acrion/i-built-a-c-reasoning-engine-that-holds-17tb-of-knowledge-in-ram-zelph-v092-3i6i)
+- [O todo mais tosco do mundo: um começo absurdamente simples em React](https://dev.to/danielmiclos/o-todo-mais-tosco-do-mundo-um-comeco-absurdamente-simples-em-react-3od0)
+- [Why Relying Only on Claude for Code Security Review Fails Growing Teams](https://dev.to/kodus/why-relying-only-on-claude-for-code-security-review-fails-growing-teams-3i3o)
+- [AI Models for SMBs 2026: ChatGPT, Claude, Gemini &amp; Automation](https://dev.to/dr_hernani_costa/ai-models-for-smbs-2026-chatgpt-claude-gemini-automation-1ogb)
+- [Global Attention Mechanism: Retain Information to Enhance Channel-SpatialInteractions](https://dev.to/paperium/global-attention-mechanism-retain-information-to-enhance-channel-spatialinteractions-6i0)
+- [Domain Names, DNS, and How to Get a .com — From Names to Infrastructure](https://dev.to/cristiansifuentes/domain-names-dns-and-how-to-get-a-com-from-names-to-infrastructure-18ci)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
