@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How AI Video Generation Is Making Video Games More Realistic](https://dev.to/damad1988/how-ai-video-generation-is-making-video-games-more-realistic-3nh6)
-- [Building a Roboflow Universe Search Agent: Automating ML Model Discovery](https://dev.to/sumit_sapkota_ba51d1ae503/building-a-roboflow-universe-search-agent-automating-ml-model-discovery-2hj1)
-- [A non-decision protocol for human–AI systems with explicit stop conditions](https://dev.to/deltax/a-non-decision-protocol-for-human-ai-systems-with-explicit-stop-conditions-29cf)
-- [Turning Team Growth into a Strategic Advantage](https://dev.to/ridd0/turning-team-growth-into-a-strategic-advantage-13jg)
-- [Advanced GPU Optimization: Tensor Core Programming &lpar;NVIDIA&rpar;](https://dev.to/javadinteger/advanced-gpu-optimization-tensor-core-programming-nvidia-3708)
+- [whereHas&lpar;&rpar; vs whereRelation&lpar;&rpar;: Readability Over Shortcuts](https://dev.to/tegos/wherehas-vs-whererelation-readability-over-shortcuts-1gk0)
+- [🔄_Containerized_Deployment_Performance_Optimization[20260105171014]](https://dev.to/member_6331818c/containerizeddeploymentperformanceoptimization20260105171014-4h2p)
+- [I gave my Go programs a &quot;nervous system&quot; so they can feel pain and disobey me](https://dev.to/gusiii/i-gave-my-go-programs-a-nervous-system-so-they-can-feel-pain-and-disobey-me-11jb)
+- [What Working on a Growing Tech Platform Has Taught Me About Clarity, Responsibility, and Growth](https://dev.to/acessays/what-working-on-a-growing-tech-platform-has-taught-me-about-clarity-responsibility-and-growth-26oc)
+- [Day-27 K8s Deployment Manifests &amp; The Reconciliation Loop](https://dev.to/jayanth_dasari_7/day-26-k8s-deployment-manifests-the-reconciliation-loop-2bi9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
