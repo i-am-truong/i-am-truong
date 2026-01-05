@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Supercharge Your Node.js Application with Hedge-Fetch: Eliminating Tail Latency with Speculative Execution](https://dev.to/silentwatcher_95/supercharge-your-nodejs-application-with-hedge-fetch-eliminating-tail-latency-with-speculative-37d5)
+- [Translating a Complex Object Detection Model for Sales Teams: An AI Documentation Case Study](https://dev.to/spiff/translating-a-complex-object-detection-model-for-sales-teams-an-ai-documentation-case-study-46ao)
+- [Stop trying `typeof x === Fish`: A practical guide to TypeScript type verification &lpar;Narrowing + Type Predicates&rpar;](https://dev.to/kelvynthai/stop-trying-typeof-x-fish-a-practical-guide-to-typescript-type-verification-narrowing--4g9p)
+- [Please Don’t Use HTMX](https://dev.to/radidev/please-dont-use-htmx-467i)
 - [Multilingual Websites Are Hard — AI Finally Makes Them Practical](https://dev.to/trendschau/multilingual-websites-are-hard-ai-finally-makes-them-practical-4k6a)
-- [Lightweight ETL with AWS Glue Python Shell, chDB, and PyIceberg &lpar;Compared with DuckDB&rpar;](https://dev.to/aws-builders/lightweight-etl-with-aws-glue-python-shell-chdb-and-pyiceberg-compared-with-duckdb-5hcc)
-- [Microsoft 365 + Copilot em 2026: a virada do “chat” para agentes no fluxo do trabalho](https://dev.to/angelo_matias/microsoft-365-copilot-em-2026-a-virada-do-chat-para-agentes-no-fluxo-do-trabalho-2g57)
-- [I Built a SaaS Budget Tracker for the Modern User](https://dev.to/prashiln79/i-built-a-saas-budget-tracker-for-the-modern-user-52aj)
-- [Sovereign AI &amp; Data Localisation: Why It Matters More Than Ever in India](https://dev.to/shlok-talepa/sovereign-ai-data-localisation-why-it-matters-more-than-ever-in-india-1a52)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
