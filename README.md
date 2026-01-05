@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [MAWA - El lenguaje simple en sintaxis como Python de bajo nivel Parte 2, Probando mi lenguaje.](https://dev.to/samuel_leonardo_37aff38b4/mawa-el-lenguaje-simple-de-bajo-nivel-parte-2-probando-mi-lenguaje-2enj)
-- [SGCoin: The AI-Stabilized Reserve Asset Powering Global Liquidity](https://dev.to/shainu_a_f4bee24c0aaa57c2/sgcoin-the-ai-stabilized-reserve-asset-powering-global-liquidity-215c)
-- [I Built a Free System Diagnostic Tool for Gamers - Here&#39;s Why](https://dev.to/john_stevens_713f67fb53ee/i-built-a-free-system-diagnostic-tool-for-gamers-heres-why-30pp)
-- [5 QA Trends You Can&#39;t Ignore in 2026](https://dev.to/unais_shahid/5-qa-trends-you-cant-ignore-in-2026-21e3)
-- [🍔 Scraping UberEats Restaurant Data with a High-Performance API &lpar;Menus, Prices, Ratings &amp; More&rpar;](https://dev.to/xemoro/scraping-ubereats-restaurant-data-with-a-high-performance-api-menus-prices-ratings-more-2nj4)
+- [JavaScript Frameworks - Heading into 2026](https://dev.to/this-is-learning/javascript-frameworks-heading-into-2026-2hel)
+- [Mendex: Why I Build](https://dev.to/mendexio/mendex-why-i-build-1m6a)
+- [Why Apache Ozone is the Preferred Object Store for Big Data](https://dev.to/tayfun_yalcinkaya_9c29444/why-apache-ozone-is-the-preferred-object-store-for-big-data-4khh)
+- [Behind the Scenes: Building CRAFT Solo](https://dev.to/craftframework/behind-the-scenes-building-craft-solo-37nn)
+- [🌐_Network_IO_Performance_Optimization[20260105212831]](https://dev.to/member_6331818c/networkioperformanceoptimization20260105212831-a9p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
