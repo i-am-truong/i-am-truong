@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Production-Ready RAG in FastAPI with Vector Databases](https://dev.to/hamluk/building-production-ready-rag-in-fastapi-with-vector-databases-39gf)
-- [Day 5: Choosing Our Hosting - How We&#39;ll Run This for Under $20/month](https://dev.to/allscreenshots/day-5-choosing-our-hosting-how-well-run-this-for-under-20month-2c00)
-- [An Instagram Automation Tool That Turns Engagement into Sales](https://dev.to/arjuncodess/an-instagram-automation-tool-that-turns-engagement-into-sales-23h7)
-- [Why Having More Data Still Slows Decisions](https://dev.to/gyan_solutions/why-having-more-data-still-slows-decisions-30f5)
-- [Sales clarity reduces friction at every stage of the funnel. This piece inspired by Ashkan Rajaee explains why.](https://dev.to/robert_lanister_916b8b146/sales-clarity-reduces-friction-at-every-stage-of-the-funnel-this-piece-inspired-by-ashkan-rajaee-dbi)
+- [Git for Beginners: Basics and Essential Commands](https://dev.to/6116hayat/git-for-beginners-basics-and-essential-commands-1omj)
+- [Sales messaging must evolve with buyer maturity. This long form analysis inspired by Ashkan Rajaee explains how pipelines improve.](https://dev.to/regalroyale/sales-messaging-must-evolve-with-buyer-maturity-this-long-form-analysis-inspired-by-ashkan-rajaee-2bf7)
+- [Vaporesso Discount Code : &lpar;AVA&rpar; Get 15% Off On All Vape Devices &amp; Accessories](https://dev.to/referralcode90/vaporesso-discount-code-ava-get-15-off-on-all-vape-devices-accessories-2chd)
+- [Netflix: How Data Forges an Empire in the Midst of the Streaming Wars](https://dev.to/datalaria/netflix-how-data-forges-an-empire-in-the-midst-of-the-streaming-wars-3pnj)
+- [On‑Premises Kubernetes Networking Architecture: A Comprehensive Architectural Synthesis](https://dev.to/korakrit/on-premises-kubernetes-networking-architecture-a-comprehensive-architectural-synthesis-529o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
