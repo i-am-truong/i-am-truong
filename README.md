@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The MCP Revolution: How One Protocol Solved AI&#39;s Biggest Integration Problem &lpar;Part 1 of 2&rpar;](https://dev.to/amrendrav/the-mcp-revolution-how-one-protocol-solved-ais-biggest-integration-problem-part-1-of-2-1n0g)
-- [How I Built a Tool to Detect AI-Generated Fake References](https://dev.to/lidianycs/how-i-built-a-tool-to-detect-ai-generated-fake-references-2891)
-- [Amazon Q: Your AI Assistant for AWS, Developers, and the Business](https://dev.to/brayanarrieta/amazon-q-your-ai-assistant-for-aws-developers-and-the-business-4b1c)
-- [I built an app in every frontend framework](https://dev.to/lissy93/i-built-an-app-in-every-frontend-framework-4a9g)
-- [Why HMAC Is the Right Choice for Webhook Security &lpar;and Why Spubhi Makes It Simple&rpar;](https://dev.to/spubhi/why-hmac-is-the-right-choice-for-webhook-security-and-why-spubhi-makes-it-simple-29p2)
+- [How AI Video Generation Is Making Video Games More Realistic](https://dev.to/damad1988/how-ai-video-generation-is-making-video-games-more-realistic-3nh6)
+- [Building a Roboflow Universe Search Agent: Automating ML Model Discovery](https://dev.to/sumit_sapkota_ba51d1ae503/building-a-roboflow-universe-search-agent-automating-ml-model-discovery-2hj1)
+- [A non-decision protocol for human–AI systems with explicit stop conditions](https://dev.to/deltax/a-non-decision-protocol-for-human-ai-systems-with-explicit-stop-conditions-29cf)
+- [Turning Team Growth into a Strategic Advantage](https://dev.to/ridd0/turning-team-growth-into-a-strategic-advantage-13jg)
+- [Advanced GPU Optimization: Tensor Core Programming &lpar;NVIDIA&rpar;](https://dev.to/javadinteger/advanced-gpu-optimization-tensor-core-programming-nvidia-3708)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
