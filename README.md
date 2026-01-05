@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [whereHas&lpar;&rpar; vs whereRelation&lpar;&rpar;: Readability Over Shortcuts](https://dev.to/tegos/wherehas-vs-whererelation-readability-over-shortcuts-1gk0)
-- [🔄_Containerized_Deployment_Performance_Optimization[20260105171014]](https://dev.to/member_6331818c/containerizeddeploymentperformanceoptimization20260105171014-4h2p)
-- [I gave my Go programs a &quot;nervous system&quot; so they can feel pain and disobey me](https://dev.to/gusiii/i-gave-my-go-programs-a-nervous-system-so-they-can-feel-pain-and-disobey-me-11jb)
-- [What Working on a Growing Tech Platform Has Taught Me About Clarity, Responsibility, and Growth](https://dev.to/acessays/what-working-on-a-growing-tech-platform-has-taught-me-about-clarity-responsibility-and-growth-26oc)
-- [Day-27 K8s Deployment Manifests &amp; The Reconciliation Loop](https://dev.to/jayanth_dasari_7/day-26-k8s-deployment-manifests-the-reconciliation-loop-2bi9)
+- [Learning set, unordered_set, and priority_queue in C++](https://dev.to/nithya_dharshiniofficial/learning-set-unorderedset-and-priorityqueue-in-c-4gc8)
+- [I Built a Zero-Latency Chrome Extension with Svelte 5 &lpar;Runes&rpar; &amp; Tailwind v4](https://dev.to/zayanmohamed/i-built-a-zero-latency-chrome-extension-with-svelte-5-runes-tailwind-v4-3gc1)
+- [TTT-E2E: Why Learning While Reading is the Future of Long-Context AI](https://dev.to/claudiuspapirus/ttt-e2e-why-learning-while-reading-is-the-future-of-long-context-ai-4i4a)
+- [Do you have any New Year resolutions or goals?](https://dev.to/devteam/do-you-have-any-new-year-resolutions-or-goals-53e9)
+- [React Hooks - Part 2: useEffect](https://dev.to/ethan_zhang_e501fea89c25b/react-hooks-part-2-useeffect-3ieg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
