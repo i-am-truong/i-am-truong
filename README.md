@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The RGB LED Sidequest 💡](https://dev.to/sigje/the-rgb-led-sidequest-4519)
-- [AI Engineering and Building Systems: Reflections on a Month of AI Engineering with goose by Block](https://dev.to/eriperspective/ai-engineering-and-building-systems-reflections-on-a-month-of-ai-engineering-with-goose-by-block-45jj)
-- [Copy-Paste is Not a Workflow: Building dbt-core-mcp](https://dev.to/niclasolofsson/copy-paste-is-not-a-workflow-building-dbt-core-mcp-4d6o)
-- [I Read a 70-Page Document About Architectural Blueprint for Smart Contracts, So You Don’t Have To](https://dev.to/lev_goukassian_5fe7ea654a/i-read-a-70-page-document-about-architectural-blueprint-for-smart-contracts-so-you-dont-have-to-5bhp)
-- [Deployment strategies](https://dev.to/jumptotech/deployment-strategies-2oep)
+- [SRDD &lpar;Part 2 of 4&rpar; - The AI Coding Landscape](https://dev.to/bbos/srdd-part-2-of-4-the-ai-coding-landscape-1co6)
+- [SRDD &lpar;Part 1 of 4&rpar; - The Best AI Coding Methodology](https://dev.to/bbos/srdd-part-1-of-4-the-best-ai-coding-methodology-48dk)
+- [SRDD Is the Best AI Coding Methodology - entry](https://dev.to/bbos/srdd-is-the-best-ai-coding-methodology-entry-5fh4)
+- [IPVS to NFTables: A Migration Guide for Kubernetes v1.35](https://dev.to/frozenprocess/ipvs-to-nftables-a-migration-guide-for-kubernetes-v135-24m5)
+- [SRDD pitches](https://dev.to/bbos/srdd-pitches-1ah8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
