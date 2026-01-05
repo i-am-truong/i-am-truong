@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🤖 Testing JIMBO OS - Automated Content Pipeline](https://dev.to/karol_81a50ed396508bcffd7/testing-jimbo-os-automated-content-pipeline-2moe)
+- [About JVM Architecture](https://dev.to/rahulraj156/about-jvm-architecture-9mk)
+- [# Solving Angular&#39;s Subscription Memory Leak Problem with a Simple Decorator](https://dev.to/sarath90/-solving-angulars-subscription-memory-leak-problem-with-a-simple-decorator-1fel)
 - [[Boost]](https://dev.to/tomiwa1990/-45p1)
 - [Insipiring](https://dev.to/tomiwa1990/insipiring-238l)
-- [SwiftUI Memory Management &amp; Retain Cycle Pitfalls &lpar;Production Guide&rpar;](https://dev.to/sebastienlato/swiftui-memory-management-retain-cycle-pitfalls-production-guide-2kii)
-- [Linux Kernel Basics: User Space vs. Kernel Space, System Calls, strace &lpar;debugging processes&rpar;.](https://dev.to/sbkumbar024/linux-kernel-basics-user-space-vs-kernel-space-system-calls-strace-debugging-processes-39f1)
-- [I Built an AI Boardroom App in 8 Hours with Flutter &amp; AI 🚀 &lpar;Open Source&rpar;](https://dev.to/sayed_ali_alkamel/i-built-an-ai-boardroom-app-in-8-hours-with-flutter-ai-open-source-1fjm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
