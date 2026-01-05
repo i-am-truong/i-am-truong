@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [5 Free Open-Source Tools to Simplify Modern Web Development](https://dev.to/indianwebsiteco/5-free-open-source-tools-to-simplify-modern-web-development-49j7)
-- [Why Vibe Coding Is More Fun Than Actual Coding In 2026](https://dev.to/del_rosario/why-vibe-coding-is-more-fun-than-actual-coding-in-2026-4m81)
-- [AWS, Vault Integration](https://dev.to/tashu068/aws-vault-integration-43d6)
-- [Dynamic LED Chaser with 555 Timer &amp; CD4017 – Easy DIY](https://dev.to/messin_tom/dynamic-led-chaser-with-555-timer-cd4017-easy-diy-5654)
-- [[BOJ/C] 단계별로 풀어보기 - 시간복잡도](https://dev.to/dbsans11/bojc-dangyebyeolro-puleobogi-siganbogjabdo-4bip)
+- [Decompiling the New C# 14 field Keyword](https://dev.to/ivankahl/decompiling-the-new-c-14-field-keyword-oe7)
+- [Building an App That Auto-Generates a Portfolio from 3-Line Learning Logs](https://dev.to/taka1559/building-an-app-that-auto-generates-a-portfolio-from-3-line-learning-logs-gj7)
+- [2025](https://dev.to/wideawakening/2025-583l)
+- [Vibe Factory: Insanity, Scaled](https://dev.to/niclasolofsson/vibe-factory-insanity-scaled-2ljj)
+- [Digital Twin Benefits for Oil &amp; Gas Asset Management](https://dev.to/reetielubana/digital-twin-benefits-for-oil-gas-asset-management-3d63)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
