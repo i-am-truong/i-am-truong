@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Frameworks - Heading into 2026](https://dev.to/this-is-learning/javascript-frameworks-heading-into-2026-2hel)
-- [Mendex: Why I Build](https://dev.to/mendexio/mendex-why-i-build-1m6a)
-- [Why Apache Ozone is the Preferred Object Store for Big Data](https://dev.to/tayfun_yalcinkaya_9c29444/why-apache-ozone-is-the-preferred-object-store-for-big-data-4khh)
-- [Behind the Scenes: Building CRAFT Solo](https://dev.to/craftframework/behind-the-scenes-building-craft-solo-37nn)
-- [🌐_Network_IO_Performance_Optimization[20260105212831]](https://dev.to/member_6331818c/networkioperformanceoptimization20260105212831-a9p)
+- [Rethinking RAG Systems: Beyond Binary Outcomes](https://dev.to/drcarlosruizviquez/rethinking-rag-systems-beyond-binary-outcomes-4o2m)
+- [The Q-Protocol: Reducing Agentic Telemetry Costs with Z-Order Curves](https://dev.to/philhills/the-q-protocol-reducing-agentic-telemetry-costs-with-z-order-curves-156g)
+- [Zapier vs Make, n8n &amp; Lindy: 2026 Pricing &amp; Platform Guide](https://dev.to/dr_hernani_costa/zapier-vs-make-n8n-lindy-2026-pricing-platform-guide-48co)
+- [AI Trading Daily Report: January 05, 2026 | $+101,197.92](https://dev.to/igorganapolsky/ai-trading-daily-report-january-05-2026-10119792-13mc)
+- [3 Steps to Optimize Your Queries for Speed](https://dev.to/franckpachot/3-steps-to-optimize-your-queries-for-speed-59a2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
