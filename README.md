@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [IP Addresses &amp; the Internet Protocol — From Numbers to Global](https://dev.to/cristiansifuentes/ip-addresses-the-internet-protocol-from-numbers-to-global-2mg2)
-- [Stop Setting Goals, Start Tracking Wins](https://dev.to/nataliaherself/stop-setting-goals-start-tracking-wins-347m)
-- [Convergent Evolution in AI-Augmented Development: Part 2 - When You Build Solutions Before You Have Names For Them](https://dev.to/izzyfuller/convergent-evolution-in-ai-augmented-development-part-2-when-you-build-solutions-before-you-have-2l0o)
-- [**Unveiling the Labyrinth of Explainable AI: A Comparative A](https://dev.to/drcarlosruizviquez/unveiling-the-labyrinth-of-explainable-ai-a-comparative-a-1e3l)
-- [Integration Testing: Definition, How-to, Examples](https://dev.to/alok_kumar_44670e79f96677/integration-testing-definition-how-to-examples-1nmd)
+- [The Secret Life of JavaScript: Memories](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-memories-1c0p)
+- [Stop Fighting Gas Wars: How to Deploy &quot;No-Gas&quot; dApps in 60 Seconds on Lattice L1](https://dev.to/arcticchainlab/stop-fighting-gas-wars-how-to-deploy-no-gas-dapps-in-60-seconds-on-lattice-l1-4d3g)
+- [🛠️Mastering TypeScript Utility Types: `Partial`, `Pick`, `Record` &amp; More](https://dev.to/tarunmj6/mastering-typescript-utility-types-partial-pick-record-more-5092)
+- [How I’m Trying to Market My SaaS With $0 &lpar;What’s Working, What Isn’t&rpar;](https://dev.to/nyanguno/how-im-trying-to-market-my-saas-with-0-whats-working-what-isnt-3a17)
+- [I built a C++ Reasoning Engine that holds 1.7TB of Knowledge in RAM – zelph v0.9.2](https://dev.to/acrion/i-built-a-c-reasoning-engine-that-holds-17tb-of-knowledge-in-ram-zelph-v092-3i6i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
