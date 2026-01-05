@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Architecture in IT: It’s a Verb, Not a Job Title](https://dev.to/leonpennings/architecture-in-it-its-a-verb-not-a-job-title-43fa)
-- [PolyAI on building context-aware voice agents: latency, knowledge bases, and what actually ships](https://dev.to/surrealdb/polyai-on-building-context-aware-voice-agents-latency-knowledge-bases-and-what-actually-ships-1pk8)
-- [Streaming SQL Engine: Lightweight Cross-Data Source Integration for Resource-Constrained Environments.](https://dev.to/theodore_p_9749548f7dd03/streaming-sql-engine-lightweight-cross-data-source-integration-for-resource-constrained-1o2l)
-- [The Technology Foundation Behind Modern Cryptocurrency Exchanges](https://dev.to/riley_quinn_8e58a0a96d107/the-technology-foundation-behind-modern-cryptocurrency-exchanges-3ceo)
-- [Tuya Geräte in Home Assistant: 100% Lokal &amp; ohne China-Cloud &lpar;Local Key auslesen&rpar;](https://dev.to/tim_alex_ba4bc28e6bdfc168/tuya-gerate-in-home-assistant-100-lokal-ohne-china-cloud-local-key-auslesen-13pa)
+- [&lpar;🐱-1-2; Failed, Again&rpar; By React Native, Develop Media Preview and Converter &lpar;Wewayangan Media Viewer&rpar;](https://dev.to/farhanms123/-1-failed-again-by-react-native-develop-media-preview-and-converter-wewayangan-media-viewer-3me5)
+- [ESPHome Gerät ständig &quot;Offline&quot;? So fixst du API-Errors und Boot-Loops beim ESP32](https://dev.to/tim_alex_ba4bc28e6bdfc168/esphome-gerat-standig-offline-so-fixst-du-api-errors-und-boot-loops-beim-esp32-2dfm)
+- [Dog Deshedding Tool: The Simple Grooming Trick Most Dog Owners Get Wrong](https://dev.to/k9skysoftware/dog-deshedding-tool-the-simple-grooming-trick-most-dog-owners-get-wrong-bld)
+- [No-Code Has Not Failed — but it has not proven its success](https://dev.to/khaledmsalem/no-code-has-not-failed-but-it-has-not-proven-its-success-3d0b)
+- [From Prompt Engineer to AI Partner: A Developer&#39;s Guide to AI Fluency](https://dev.to/hinlocaesar/from-prompt-engineer-to-ai-partner-a-developers-guide-to-ai-fluency-2l11)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
