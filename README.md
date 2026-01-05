@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Build an AI Agent with Phone Callbacks on Render](https://dev.to/nick_lamela_24a1fdf801a43/build-an-ai-agent-with-phone-callbacks-on-render-j2n)
-- [Microsoft Entra SAML SSO in Go: Everything You Need and Don&#39;t Need To Know](https://dev.to/david_horvat_18feaa13a9a8/microsoft-entra-saml-sso-in-go-everything-you-need-and-dont-need-to-know-4fhn)
-- [CineDB: Building a Movie Catalog with DocumentDB 📽️](https://dev.to/khushi_nandwani07/cinedb-building-a-movie-catalog-with-documentdb-3jf7)
-- [How to Read DMARC Aggregate &lpar;RUA&rpar; Reports: A Practical Guide](https://dev.to/mar804ca0133d4c0e993/how-to-read-dmarc-aggregate-rua-reports-a-practical-guide-2gj5)
-- [Proxies the Native Way: JDK Dynamic Proxies](https://dev.to/rajatarora/proxies-the-native-way-jdk-dynamic-proxies-2pin)
+- [5 Free Open-Source Tools to Simplify Modern Web Development](https://dev.to/indianwebsiteco/5-free-open-source-tools-to-simplify-modern-web-development-49j7)
+- [Why Vibe Coding Is More Fun Than Actual Coding In 2026](https://dev.to/del_rosario/why-vibe-coding-is-more-fun-than-actual-coding-in-2026-4m81)
+- [AWS, Vault Integration](https://dev.to/tashu068/aws-vault-integration-43d6)
+- [Dynamic LED Chaser with 555 Timer &amp; CD4017 – Easy DIY](https://dev.to/messin_tom/dynamic-led-chaser-with-555-timer-cd4017-easy-diy-5654)
+- [[BOJ/C] 단계별로 풀어보기 - 시간복잡도](https://dev.to/dbsans11/bojc-dangyebyeolro-puleobogi-siganbogjabdo-4bip)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
