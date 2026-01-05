@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How 2025 took AI from party tricks to production tools](https://dev.to/teamquesma/how-2025-took-ai-from-party-tricks-to-production-tools-4l7b)
-- [Bad CSS-Dad Jokes &lpar;VI&rpar;](https://dev.to/alvaromontoro/bad-css-dad-jokes-vi-9gl)
-- [From Python to Physics: How I Built a Chrome Dino Clone in 24 Hours &lpar;Scaler YIIC Task 5&rpar;](https://dev.to/aditya_mishra/from-python-to-physics-how-i-built-a-chrome-dino-clone-in-24-hours-scaler-yiic-task-5-47c5)
-- [Why E-commerce Website Design Is Essential for Modern Business Growth](https://dev.to/priya_dharshini_b30d11c20/why-e-commerce-website-design-is-essential-for-modern-business-growth-3k38)
-- [Dear client, please change the job title and skills. Instruction.](https://dev.to/chocomastery/dear-client-please-change-the-job-title-and-skills-instruction-2ffm)
+- [Pothos Evaluation Report](https://dev.to/xcfox/pothos-evaluation-report-3d91)
+- [Composite SLOs for Serverless Event-Driven Systems](https://dev.to/nabindebnath/composite-slos-for-serverless-event-driven-systems-40do)
+- [PCI-DSS Compliance for AI Agents Making Autonomous Payments](https://dev.to/l_x_1/pci-dss-compliance-for-ai-agents-making-autonomous-payments-58bh)
+- [Securing the X402 Protocol: Why Autonomous Agent Payments Need Spending Controls](https://dev.to/l_x_1/securing-the-x402-protocol-why-autonomous-agent-payments-need-spending-controls-a90)
+- [Migrate your GIF/Sticker API from Tenor to KLIPY in Seconds](https://dev.to/giorgi_khachidze_ab9ac4ad/migrate-your-gifsticker-api-from-tenor-to-klipy-in-seconds-4ph0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
