@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SRDD &lpar;Part 2 of 4&rpar; - The AI Coding Landscape](https://dev.to/bbos/srdd-part-2-of-4-the-ai-coding-landscape-1co6)
-- [SRDD &lpar;Part 1 of 4&rpar; - The Best AI Coding Methodology](https://dev.to/bbos/srdd-part-1-of-4-the-best-ai-coding-methodology-48dk)
-- [SRDD Is the Best AI Coding Methodology - entry](https://dev.to/bbos/srdd-is-the-best-ai-coding-methodology-entry-5fh4)
+- [How I Passed the AWS Certified Cloud Practitioner in 24 Days &lpar;For Free&rpar;](https://dev.to/adehorizon/how-i-passed-the-aws-certified-cloud-practitioner-in-24-days-for-free-4c49)
+- [My Reading Journey: Oct-Dec 2025](https://dev.to/ericbl3/my-reading-journey-oct-dec-2025-48ia)
 - [IPVS to NFTables: A Migration Guide for Kubernetes v1.35](https://dev.to/frozenprocess/ipvs-to-nftables-a-migration-guide-for-kubernetes-v135-24m5)
-- [SRDD pitches](https://dev.to/bbos/srdd-pitches-1ah8)
+- [Data Analyst Guide: Mastering Random Forest vs XGBoost: Which Wins for Analytics?](https://dev.to/amal_org_e8fe019c45517244/data-analyst-guide-mastering-random-forest-vs-xgboost-which-wins-for-analytics-4712)
+- [project: deployment strategy types in k8s](https://dev.to/jumptotech/project-deployment-strategy-types-in-k8s-1n90)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
