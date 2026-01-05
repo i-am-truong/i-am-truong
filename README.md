@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Architecture in IT: It’s a Verb, Not a Job Title](https://dev.to/leonpennings/architecture-in-it-its-a-verb-not-a-job-title-43fa)
+- [PolyAI on building context-aware voice agents: latency, knowledge bases, and what actually ships](https://dev.to/surrealdb/polyai-on-building-context-aware-voice-agents-latency-knowledge-bases-and-what-actually-ships-1pk8)
+- [Streaming SQL Engine: Lightweight Cross-Data Source Integration for Resource-Constrained Environments.](https://dev.to/theodore_p_9749548f7dd03/streaming-sql-engine-lightweight-cross-data-source-integration-for-resource-constrained-1o2l)
+- [The Technology Foundation Behind Modern Cryptocurrency Exchanges](https://dev.to/riley_quinn_8e58a0a96d107/the-technology-foundation-behind-modern-cryptocurrency-exchanges-3ceo)
 - [Tuya Geräte in Home Assistant: 100% Lokal &amp; ohne China-Cloud &lpar;Local Key auslesen&rpar;](https://dev.to/tim_alex_ba4bc28e6bdfc168/tuya-gerate-in-home-assistant-100-lokal-ohne-china-cloud-local-key-auslesen-13pa)
-- [Building Intelligent Mobile Experiences with a Machine Learning App Development Company](https://dev.to/appinginenewyork/building-intelligent-mobile-experiences-with-a-machine-learning-app-development-company-2369)
-- [Why stablecoins still haven’t gone mainstream for daily payments](https://dev.to/scartech/why-stablecoins-still-havent-gone-mainstream-for-daily-payments-5daj)
-- [Evolution Power Tools Discount Code : &quot;AVA&quot; Get 5% Off On Your Purchase](https://dev.to/referralcode03/evolution-power-tools-discount-code-ava-get-5-off-on-your-purchase-2g1h)
-- [Why Custom Web Development Is Still a Competitive Advantage in 2026](https://dev.to/bluezooweb/why-custom-web-development-is-still-a-competitive-advantage-in-2026-1p90)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
