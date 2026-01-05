@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cybersecurity Predictions for 2026](https://dev.to/guardingpearsoftware/cybersecurity-predictions-for-2026-5433)
+- [📈_Scalability_Architecture_Design[20260105154407]](https://dev.to/member_6331818c/scalabilityarchitecturedesign20260105154407-i7l)
 - [What my dining table and my cat showed me about human attention](https://dev.to/metehandesign/what-my-dining-table-and-my-cat-showed-me-about-human-attention-3c99)
 - [Model Workflow Context &lpar;MWC&rpar;: The Open Standard AI Coding Tools Have Been Waiting For](https://dev.to/lohnsonok/model-workflow-context-mwc-the-open-standard-ai-coding-tools-have-been-waiting-for-1fgf)
 - [What are your goals for the week? •160](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-160-4d1i)
-- [Implementing Real-Time Streaming with VAPI: My Journey to Voice AI Success](https://dev.to/callstacktech/implementing-real-time-streaming-with-vapi-my-journey-to-voice-ai-success-3i7l)
-- [Data Sovereignty in the Age of AI: Why Control Matters for Small States](https://dev.to/xbze3/data-sovereignty-in-the-age-of-ai-why-control-matters-for-small-states-e79)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
