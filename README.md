@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Desktop App That Commits to GitHub So I Don’t Have To Lie About Consistency](https://dev.to/trojanmocx/i-built-a-desktop-app-that-commits-to-github-so-i-dont-have-to-lie-about-consistency-3jd5)
-- [Stop Chasing Five Stars. Start Building Systems.](https://dev.to/arjunrajkumar/stop-chasing-five-stars-start-building-systems-4749)
-- [Most Developers Aren’t Bad. They’re Just Invisible.](https://dev.to/trojanmocx/most-developers-arent-bad-theyre-just-invisible-31ab)
-- [Inside Git: How It Works and the Role of the .git Folder](https://dev.to/abhimanyu_kumar_b94e042e9/inside-git-how-it-works-and-the-role-of-the-git-folder-19cm)
-- [Bookmark - AWS Services with Key Features](https://dev.to/datatechbridge/bookmark-aws-services-with-key-features-565i)
+- [Shopify vs WooCommerce vs BigCommerce – Which Should I Choose?](https://dev.to/henrydavid/shopify-vs-woocommerce-vs-bigcommerce-which-should-i-choose-4324)
+- [Learning kubernetes architecture the easiest way](https://dev.to/kedar_salunkhe_49166a46be/learning-kubernetes-architecture-the-easiest-way-1hdf)
+- [What Future Trends Will Shape the Real Estate Tokenization Market Over the Next 5 Years?](https://dev.to/suzie_iris_65ce8070067366/what-future-trends-will-shape-the-real-estate-tokenization-market-over-the-next-5-years-518h)
+- [Resume Builder SaaS — Mux Developer Challenge Submission](https://dev.to/rohitashsingh89/resume-builder-saas-mux-developer-challenge-submission-3ebo)
+- [Building a Production-Ready AWS ALB + Auto Scaling Architecture Using Terraform](https://dev.to/manoop_madhu/building-a-production-ready-aws-alb-auto-scaling-architecture-using-terraform-3nji)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
