@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I solved one of my major pain point during my game development with AI &lpar;Chat GPT + Antigravity&rpar;](https://dev.to/tomokat/i-solved-one-of-my-major-pain-point-during-my-game-development-with-ai-chat-gpt-antigravity-kkd)
-- [🎲 Building DiceForge: A Modern Dice Rolling Simulator with Python &amp; Tkinter](https://dev.to/matetechnologie/building-diceforge-a-modern-dice-rolling-simulator-with-python-tkinter-e1a)
-- [Work Sprawl: How Scattered Work Leads to Stagnation &lpar;and How To Overcome it&rpar;](https://dev.to/taskford/work-sprawl-how-scattered-work-leads-to-stagnation-and-how-to-overcome-it-2g93)
-- [Building a Browser Only Sudoku Solver](https://dev.to/sudoku_online/building-a-browser-only-sudoku-solver-4b58)
-- [TransTrack: Multiple Object Tracking with Transformer](https://dev.to/paperium/transtrack-multiple-object-tracking-with-transformer-529b)
+- [The 5 things we broke building our first major ML pipeline at Besttech &lpar;and how we fixed them&rpar;.](https://dev.to/best_techcompany_200e9f2/the-5-things-we-broke-building-our-first-major-ml-pipeline-at-besttech-and-how-we-fixed-them-c96)
+- [Looking for Early Builders &amp; Prompt Engineers to Shape Noteal](https://dev.to/byron_kennedy_4fb928d39ef/looking-for-early-builders-prompt-engineers-to-shape-noteal-hlh)
+- [Polyglot Microservices Communication in Kubernetes with DNS, CoreDNS, and Istio &lpar;Java + Python&rpar;](https://dev.to/gokul_gk/polyglot-microservices-communication-in-kubernetes-with-dns-coredns-and-istio-java-python-4gb9)
+- [What are Some Smart Testing Tips for Remote Tech Teams](https://dev.to/misterankit/what-are-some-smart-testing-tips-for-remote-tech-teams-3cin)
+- [Amazon EKS enhanced network policies: Admin and DNS-based controls explained](https://dev.to/aws-builders/amazon-eks-enhanced-network-policies-admin-and-dns-based-controls-explained-5cmd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
