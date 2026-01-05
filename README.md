@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [&lpar;🐱-1-2; Failed, Again&rpar; By React Native, Develop Media Preview and Converter &lpar;Wewayangan Media Viewer&rpar;](https://dev.to/farhanms123/-1-failed-again-by-react-native-develop-media-preview-and-converter-wewayangan-media-viewer-3me5)
-- [ESPHome Gerät ständig &quot;Offline&quot;? So fixst du API-Errors und Boot-Loops beim ESP32](https://dev.to/tim_alex_ba4bc28e6bdfc168/esphome-gerat-standig-offline-so-fixst-du-api-errors-und-boot-loops-beim-esp32-2dfm)
-- [Dog Deshedding Tool: The Simple Grooming Trick Most Dog Owners Get Wrong](https://dev.to/k9skysoftware/dog-deshedding-tool-the-simple-grooming-trick-most-dog-owners-get-wrong-bld)
-- [No-Code Has Not Failed — but it has not proven its success](https://dev.to/khaledmsalem/no-code-has-not-failed-but-it-has-not-proven-its-success-3d0b)
-- [From Prompt Engineer to AI Partner: A Developer&#39;s Guide to AI Fluency](https://dev.to/hinlocaesar/from-prompt-engineer-to-ai-partner-a-developers-guide-to-ai-fluency-2l11)
+- [How 2025 took AI from party tricks to production tools](https://dev.to/teamquesma/how-2025-took-ai-from-party-tricks-to-production-tools-4l7b)
+- [Bad CSS-Dad Jokes &lpar;VI&rpar;](https://dev.to/alvaromontoro/bad-css-dad-jokes-vi-9gl)
+- [From Python to Physics: How I Built a Chrome Dino Clone in 24 Hours &lpar;Scaler YIIC Task 5&rpar;](https://dev.to/aditya_mishra/from-python-to-physics-how-i-built-a-chrome-dino-clone-in-24-hours-scaler-yiic-task-5-47c5)
+- [Why E-commerce Website Design Is Essential for Modern Business Growth](https://dev.to/priya_dharshini_b30d11c20/why-e-commerce-website-design-is-essential-for-modern-business-growth-3k38)
+- [Dear client, please change the job title and skills. Instruction.](https://dev.to/chocomastery/dear-client-please-change-the-job-title-and-skills-instruction-2ffm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
