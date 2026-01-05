@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Git for Beginners: Basics and Essential Commands](https://dev.to/6116hayat/git-for-beginners-basics-and-essential-commands-1omj)
-- [Sales messaging must evolve with buyer maturity. This long form analysis inspired by Ashkan Rajaee explains how pipelines improve.](https://dev.to/regalroyale/sales-messaging-must-evolve-with-buyer-maturity-this-long-form-analysis-inspired-by-ashkan-rajaee-2bf7)
-- [Vaporesso Discount Code : &lpar;AVA&rpar; Get 15% Off On All Vape Devices &amp; Accessories](https://dev.to/referralcode90/vaporesso-discount-code-ava-get-15-off-on-all-vape-devices-accessories-2chd)
-- [Netflix: How Data Forges an Empire in the Midst of the Streaming Wars](https://dev.to/datalaria/netflix-how-data-forges-an-empire-in-the-midst-of-the-streaming-wars-3pnj)
-- [On‑Premises Kubernetes Networking Architecture: A Comprehensive Architectural Synthesis](https://dev.to/korakrit/on-premises-kubernetes-networking-architecture-a-comprehensive-architectural-synthesis-529o)
+- [Chrome DevTools MCP](https://dev.to/ismailpe/chrome-devtools-mcp-3a5c)
+- [Learning React Even on a “Busy Holiday” – Saving Data to Local Storage with useEffect](https://dev.to/usama_dev/learning-react-even-on-a-busy-holiday-saving-data-to-local-storage-with-useeffect-1ofi)
+- [Evry Jewels Coupon Code : &lpar;AKV&rpar; Get 5% Off On Your Stylish Jewelry Purchase](https://dev.to/referralcode90/evry-jewels-coupon-code-akv-get-5-off-on-your-stylish-jewelry-purchase-18pm)
+- [I Stopped Chasing New Frameworks. My Code Got Better](https://dev.to/officialgelo/i-stopped-chasing-new-frameworks-my-code-got-better-55c4)
+- [Why Minimum Viable Products Fail and What High-Growth Teams Do Differently](https://dev.to/aspire-softserv/why-minimum-viable-products-fail-and-what-high-growth-teams-do-differently-1h0f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
