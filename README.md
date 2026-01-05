@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Do we need AWS Durable Functions when we have Step Functions?](https://dev.to/aws-builders/do-we-need-aws-durable-functions-when-we-have-step-functions-1kk1)
-- [Home Assistant Fernzugriff: Sicher &amp; Kostenlos via Cloudflare Tunnel &lpar;Kein Port-Forwarding!&rpar;](https://dev.to/tim_alex_ba4bc28e6bdfc168/home-assistant-fernzugriff-sicher-kostenlos-via-cloudflare-tunnel-kein-port-forwarding-4gh9)
-- [Margex Referral Code &quot;67532582&quot; Get 10% Off On Trading Fees &amp; $10000 Bonus](https://dev.to/referralcode20/margex-referral-code-67532582-get-10-off-on-trading-fees-10000-bonus-3c3a)
-- [Windows File System Navigation &amp; System Information](https://dev.to/sajjadrahman56/windows-file-system-navigation-system-information-c2h)
-- [Rewriting My Apache Airflow PR: When Your First Solution Isn&#39;t the Right One](https://dev.to/pradeep_kaalluri/rewriting-my-apache-airflow-pr-when-your-first-solution-isnt-the-right-one-1mp7)
+- [Build an AI Agent with Phone Callbacks on Render](https://dev.to/nick_lamela_24a1fdf801a43/build-an-ai-agent-with-phone-callbacks-on-render-j2n)
+- [Microsoft Entra SAML SSO in Go: Everything You Need and Don&#39;t Need To Know](https://dev.to/david_horvat_18feaa13a9a8/microsoft-entra-saml-sso-in-go-everything-you-need-and-dont-need-to-know-4fhn)
+- [CineDB: Building a Movie Catalog with DocumentDB 📽️](https://dev.to/khushi_nandwani07/cinedb-building-a-movie-catalog-with-documentdb-3jf7)
+- [How to Read DMARC Aggregate &lpar;RUA&rpar; Reports: A Practical Guide](https://dev.to/mar804ca0133d4c0e993/how-to-read-dmarc-aggregate-rua-reports-a-practical-guide-2gj5)
+- [Proxies the Native Way: JDK Dynamic Proxies](https://dev.to/rajatarora/proxies-the-native-way-jdk-dynamic-proxies-2pin)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
