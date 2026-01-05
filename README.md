@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [O todo mais tosco do mundo: um começo absurdamente simples em React](https://dev.to/danielmiclos/o-todo-mais-tosco-do-mundo-um-comeco-absurdamente-simples-em-react-3od0)
-- [Why Relying Only on Claude for Code Security Review Fails Growing Teams](https://dev.to/kodus/why-relying-only-on-claude-for-code-security-review-fails-growing-teams-3i3o)
-- [AI Models for SMBs 2026: ChatGPT, Claude, Gemini &amp; Automation](https://dev.to/dr_hernani_costa/ai-models-for-smbs-2026-chatgpt-claude-gemini-automation-1ogb)
-- [Global Attention Mechanism: Retain Information to Enhance Channel-SpatialInteractions](https://dev.to/paperium/global-attention-mechanism-retain-information-to-enhance-channel-spatialinteractions-6i0)
-- [Domain Names, DNS, and How to Get a .com — From Names to Infrastructure](https://dev.to/cristiansifuentes/domain-names-dns-and-how-to-get-a-com-from-names-to-infrastructure-18ci)
+- [MAWA - El lenguaje simple en sintaxis como Python de bajo nivel Parte 2, Probando mi lenguaje.](https://dev.to/samuel_leonardo_37aff38b4/mawa-el-lenguaje-simple-de-bajo-nivel-parte-2-probando-mi-lenguaje-2enj)
+- [SGCoin: The AI-Stabilized Reserve Asset Powering Global Liquidity](https://dev.to/shainu_a_f4bee24c0aaa57c2/sgcoin-the-ai-stabilized-reserve-asset-powering-global-liquidity-215c)
+- [I Built a Free System Diagnostic Tool for Gamers - Here&#39;s Why](https://dev.to/john_stevens_713f67fb53ee/i-built-a-free-system-diagnostic-tool-for-gamers-heres-why-30pp)
+- [5 QA Trends You Can&#39;t Ignore in 2026](https://dev.to/unais_shahid/5-qa-trends-you-cant-ignore-in-2026-21e3)
+- [🍔 Scraping UberEats Restaurant Data with a High-Performance API &lpar;Menus, Prices, Ratings &amp; More&rpar;](https://dev.to/xemoro/scraping-ubereats-restaurant-data-with-a-high-performance-api-menus-prices-ratings-more-2nj4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
