@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [TTT-E2E: The AI Model That Learns While It Reads &lpar;Goodbye KV Cache?&rpar;](https://dev.to/claudiuspapirus/ttt-e2e-the-ai-model-that-learns-while-it-reads-goodbye-kv-cache-4ml6)
-- [Learning set, unordered_set, and priority_queue in C++](https://dev.to/nithya_dharshiniofficial/learning-set-unorderedset-and-priorityqueue-in-c-4gc8)
-- [I Built a Zero-Latency Chrome Extension with Svelte 5 &lpar;Runes&rpar; &amp; Tailwind v4](https://dev.to/zayanmohamed/i-built-a-zero-latency-chrome-extension-with-svelte-5-runes-tailwind-v4-3gc1)
-- [Do you have any New Year resolutions or goals?](https://dev.to/devteam/do-you-have-any-new-year-resolutions-or-goals-53e9)
-- [React Hooks - Part 2: useEffect](https://dev.to/ethan_zhang_e501fea89c25b/react-hooks-part-2-useeffect-3ieg)
+- [Python - Stop storing passwords in plain text! A guide to werkzeug.security](https://dev.to/aws-builders/python-stop-storing-passwords-in-plain-text-a-guide-to-werkzeugsecurity-179i)
+- [The Event Loop, Part III: The Unstoppable Train 🚂](https://dev.to/elina_web_magic/the-event-loop-part-iii-the-unstoppable-train-2bld)
+- [How To Become DevOps Engineer](https://dev.to/aws-builders/how-to-become-devops-engineer-3o72)
+- [I Built Production AI Systems Through Karpathy&#39;s &#39;Magnitude 9 Earthquake.&#39; Here&#39;s What Actually Works.](https://dev.to/dannwaneri/i-built-production-ai-systems-through-karpathys-magnitude-9-earthquake-heres-what-actually-19h3)
+- [maintaining stable row identifiers during page maintenance](https://dev.to/tudor96stani/maintaining-stable-row-identifiers-during-page-maintenance-m9o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
