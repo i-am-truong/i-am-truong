@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Supercharge Your Node.js Application with Hedge-Fetch: Eliminating Tail Latency with Speculative Execution](https://dev.to/silentwatcher_95/supercharge-your-nodejs-application-with-hedge-fetch-eliminating-tail-latency-with-speculative-37d5)
-- [Translating a Complex Object Detection Model for Sales Teams: An AI Documentation Case Study](https://dev.to/spiff/translating-a-complex-object-detection-model-for-sales-teams-an-ai-documentation-case-study-46ao)
-- [Stop trying `typeof x === Fish`: A practical guide to TypeScript type verification &lpar;Narrowing + Type Predicates&rpar;](https://dev.to/kelvynthai/stop-trying-typeof-x-fish-a-practical-guide-to-typescript-type-verification-narrowing--4g9p)
-- [Please Don’t Use HTMX](https://dev.to/radidev/please-dont-use-htmx-467i)
-- [Multilingual Websites Are Hard — AI Finally Makes Them Practical](https://dev.to/trendschau/multilingual-websites-are-hard-ai-finally-makes-them-practical-4k6a)
+- [CLAUDE.md in Inbox Zero codebase.](https://dev.to/ramunarasinga-11/claudemd-in-inbox-zero-codebase-j1)
+- [How to Build a Scalable Social Listening Tool in 2026 &lpar;Without Enterprise API Pricing&rpar;](https://dev.to/imbuedata/how-to-build-a-scalable-social-listening-tool-in-2026-without-enterprise-api-pricing-3ejl)
+- [VoroMotors Discount Code : &quot;AVA&quot; Get $50% Off On Electric Scooters &amp; Accessories](https://dev.to/referralcode09/voromotors-discount-code-ava-get-50-off-on-electric-scooters-accessories-13jp)
+- [memU 1.0.0: Memory-Driven Agent Evolution](https://dev.to/memu_ai/memu-100-memory-driven-agent-evolution-ane)
+- [Kubernetes as a Control System: Beyond Orchestration, Towards Autonomy](https://dev.to/mohammed_27c42362d82e94dd/kubernetes-as-a-control-system-beyond-orchestration-towards-autonomy-3j3h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
