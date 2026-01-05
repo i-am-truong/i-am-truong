@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Pothos Evaluation Report](https://dev.to/xcfox/pothos-evaluation-report-3d91)
-- [Composite SLOs for Serverless Event-Driven Systems](https://dev.to/nabindebnath/composite-slos-for-serverless-event-driven-systems-40do)
-- [PCI-DSS Compliance for AI Agents Making Autonomous Payments](https://dev.to/l_x_1/pci-dss-compliance-for-ai-agents-making-autonomous-payments-58bh)
-- [Securing the X402 Protocol: Why Autonomous Agent Payments Need Spending Controls](https://dev.to/l_x_1/securing-the-x402-protocol-why-autonomous-agent-payments-need-spending-controls-a90)
-- [Migrate your GIF/Sticker API from Tenor to KLIPY in Seconds](https://dev.to/giorgi_khachidze_ab9ac4ad/migrate-your-gifsticker-api-from-tenor-to-klipy-in-seconds-4ph0)
+- [Writing with AI Assistance](https://dev.to/burvestorylab/writing-with-ai-assistance-4fj5)
+- [Meta-Prompting: Prompts That Write Prompts](https://dev.to/gantz/meta-prompting-prompts-that-write-prompts-2218)
+- [You Don&#39;t Have to Test All of Your Code...](https://dev.to/aws-builders/you-dont-have-to-test-all-of-your-code-m97)
+- [Mixture of Experts &lpar;MoE&rpar;](https://dev.to/gdn/mixture-of-experts-moe-1183)
+- [Understanding Soffit Repair: What Homeowners Should Know](https://dev.to/torry_silver_ef6733b9861a/understanding-soffit-repair-what-homeowners-should-know-569i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
