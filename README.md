@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cybersecurity Predictions for 2026](https://dev.to/guardingpearsoftware/cybersecurity-predictions-for-2026-5433)
-- [📈_Scalability_Architecture_Design[20260105154407]](https://dev.to/member_6331818c/scalabilityarchitecturedesign20260105154407-i7l)
-- [What my dining table and my cat showed me about human attention](https://dev.to/metehandesign/what-my-dining-table-and-my-cat-showed-me-about-human-attention-3c99)
-- [Model Workflow Context &lpar;MWC&rpar;: The Open Standard AI Coding Tools Have Been Waiting For](https://dev.to/lohnsonok/model-workflow-context-mwc-the-open-standard-ai-coding-tools-have-been-waiting-for-1fgf)
-- [What are your goals for the week? •160](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-160-4d1i)
+- [The MCP Revolution: How One Protocol Solved AI&#39;s Biggest Integration Problem &lpar;Part 1 of 2&rpar;](https://dev.to/amrendrav/the-mcp-revolution-how-one-protocol-solved-ais-biggest-integration-problem-part-1-of-2-1n0g)
+- [How I Built a Tool to Detect AI-Generated Fake References](https://dev.to/lidianycs/how-i-built-a-tool-to-detect-ai-generated-fake-references-2891)
+- [Amazon Q: Your AI Assistant for AWS, Developers, and the Business](https://dev.to/brayanarrieta/amazon-q-your-ai-assistant-for-aws-developers-and-the-business-4b1c)
+- [I built an app in every frontend framework](https://dev.to/lissy93/i-built-an-app-in-every-frontend-framework-4a9g)
+- [Why HMAC Is the Right Choice for Webhook Security &lpar;and Why Spubhi Makes It Simple&rpar;](https://dev.to/spubhi/why-hmac-is-the-right-choice-for-webhook-security-and-why-spubhi-makes-it-simple-29p2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
