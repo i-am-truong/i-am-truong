@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The 5 things we broke building our first major ML pipeline at Besttech &lpar;and how we fixed them&rpar;.](https://dev.to/best_techcompany_200e9f2/the-5-things-we-broke-building-our-first-major-ml-pipeline-at-besttech-and-how-we-fixed-them-c96)
-- [Looking for Early Builders &amp; Prompt Engineers to Shape Noteal](https://dev.to/byron_kennedy_4fb928d39ef/looking-for-early-builders-prompt-engineers-to-shape-noteal-hlh)
-- [Polyglot Microservices Communication in Kubernetes with DNS, CoreDNS, and Istio &lpar;Java + Python&rpar;](https://dev.to/gokul_gk/polyglot-microservices-communication-in-kubernetes-with-dns-coredns-and-istio-java-python-4gb9)
-- [What are Some Smart Testing Tips for Remote Tech Teams](https://dev.to/misterankit/what-are-some-smart-testing-tips-for-remote-tech-teams-3cin)
-- [Amazon EKS enhanced network policies: Admin and DNS-based controls explained](https://dev.to/aws-builders/amazon-eks-enhanced-network-policies-admin-and-dns-based-controls-explained-5cmd)
+- [I Built a Desktop App That Commits to GitHub So I Don’t Have To Lie About Consistency](https://dev.to/trojanmocx/i-built-a-desktop-app-that-commits-to-github-so-i-dont-have-to-lie-about-consistency-3jd5)
+- [Stop Chasing Five Stars. Start Building Systems.](https://dev.to/arjunrajkumar/stop-chasing-five-stars-start-building-systems-4749)
+- [Most Developers Aren’t Bad. They’re Just Invisible.](https://dev.to/trojanmocx/most-developers-arent-bad-theyre-just-invisible-31ab)
+- [Inside Git: How It Works and the Role of the .git Folder](https://dev.to/abhimanyu_kumar_b94e042e9/inside-git-how-it-works-and-the-role-of-the-git-folder-19cm)
+- [Bookmark - AWS Services with Key Features](https://dev.to/datatechbridge/bookmark-aws-services-with-key-features-565i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
