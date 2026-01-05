@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Decompiling the New C# 14 field Keyword](https://dev.to/ivankahl/decompiling-the-new-c-14-field-keyword-oe7)
-- [Building an App That Auto-Generates a Portfolio from 3-Line Learning Logs](https://dev.to/taka1559/building-an-app-that-auto-generates-a-portfolio-from-3-line-learning-logs-gj7)
-- [2025](https://dev.to/wideawakening/2025-583l)
-- [Vibe Factory: Insanity, Scaled](https://dev.to/niclasolofsson/vibe-factory-insanity-scaled-2ljj)
-- [Digital Twin Benefits for Oil &amp; Gas Asset Management](https://dev.to/reetielubana/digital-twin-benefits-for-oil-gas-asset-management-3d63)
+- [Tuya Geräte in Home Assistant: 100% Lokal &amp; ohne China-Cloud &lpar;Local Key auslesen&rpar;](https://dev.to/tim_alex_ba4bc28e6bdfc168/tuya-gerate-in-home-assistant-100-lokal-ohne-china-cloud-local-key-auslesen-13pa)
+- [Building Intelligent Mobile Experiences with a Machine Learning App Development Company](https://dev.to/appinginenewyork/building-intelligent-mobile-experiences-with-a-machine-learning-app-development-company-2369)
+- [Why stablecoins still haven’t gone mainstream for daily payments](https://dev.to/scartech/why-stablecoins-still-havent-gone-mainstream-for-daily-payments-5daj)
+- [Evolution Power Tools Discount Code : &quot;AVA&quot; Get 5% Off On Your Purchase](https://dev.to/referralcode03/evolution-power-tools-discount-code-ava-get-5-off-on-your-purchase-2g1h)
+- [Why Custom Web Development Is Still a Competitive Advantage in 2026](https://dev.to/bluezooweb/why-custom-web-development-is-still-a-competitive-advantage-in-2026-1p90)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
