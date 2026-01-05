@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Freelancing was going fine… until](https://dev.to/heytechomaima/freelancing-was-going-fine-until-4ibo)
-- [Enterprise Analytics in 2026: The Roadmap to Smarter, Faster Business Decisions](https://dev.to/ravi_teja_4/enterprise-analytics-in-2026-the-roadmap-to-smarter-faster-business-decisions-4b4g)
-- [ClimateIQ AI – 11 Mux Features Power Climate Action for 2B+ Users](https://dev.to/omkar598/climateiq-ai-11-mux-features-power-climate-action-for-2b-users-3dh4)
-- [Career Accelerator Program to help learners become job ready](https://dev.to/shameel/career-accelerator-program-to-help-learners-become-job-ready-33p)
-- [Understanding Coupling: Afferent vs Efferent Dependencies in System Design](https://dev.to/azmy/understanding-coupling-afferent-vs-efferent-dependencies-in-system-design-5ha9)
+- [Building Production-Ready RAG in FastAPI with Vector Databases](https://dev.to/hamluk/building-production-ready-rag-in-fastapi-with-vector-databases-39gf)
+- [Day 5: Choosing Our Hosting - How We&#39;ll Run This for Under $20/month](https://dev.to/allscreenshots/day-5-choosing-our-hosting-how-well-run-this-for-under-20month-2c00)
+- [An Instagram Automation Tool That Turns Engagement into Sales](https://dev.to/arjuncodess/an-instagram-automation-tool-that-turns-engagement-into-sales-23h7)
+- [Why Having More Data Still Slows Decisions](https://dev.to/gyan_solutions/why-having-more-data-still-slows-decisions-30f5)
+- [Sales clarity reduces friction at every stage of the funnel. This piece inspired by Ashkan Rajaee explains why.](https://dev.to/robert_lanister_916b8b146/sales-clarity-reduces-friction-at-every-stage-of-the-funnel-this-piece-inspired-by-ashkan-rajaee-dbi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
