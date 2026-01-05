@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Rethinking RAG Systems: Beyond Binary Outcomes](https://dev.to/drcarlosruizviquez/rethinking-rag-systems-beyond-binary-outcomes-4o2m)
-- [The Q-Protocol: Reducing Agentic Telemetry Costs with Z-Order Curves](https://dev.to/philhills/the-q-protocol-reducing-agentic-telemetry-costs-with-z-order-curves-156g)
-- [Zapier vs Make, n8n &amp; Lindy: 2026 Pricing &amp; Platform Guide](https://dev.to/dr_hernani_costa/zapier-vs-make-n8n-lindy-2026-pricing-platform-guide-48co)
-- [AI Trading Daily Report: January 05, 2026 | $+101,197.92](https://dev.to/igorganapolsky/ai-trading-daily-report-january-05-2026-10119792-13mc)
-- [3 Steps to Optimize Your Queries for Speed](https://dev.to/franckpachot/3-steps-to-optimize-your-queries-for-speed-59a2)
+- [I Read a 70-Page Document About Architectural Blueprint for Smart Contracts, So You Don’t Have To](https://dev.to/lev_goukassian_5fe7ea654a/i-read-a-70-page-document-about-architectural-blueprint-for-smart-contracts-so-you-dont-have-to-5bhp)
+- [Deployment strategies](https://dev.to/jumptotech/deployment-strategies-2oep)
+- [React v19: useTransition hook with &lt;Activity /&gt;](https://dev.to/joma_3b2f21917842d7461716/react-v19-usetransition-hook-with-2c4f)
+- [Zapier vs. Custom Code: When to Fire Your &#39;Glue&#39; Tool](https://dev.to/ajhaveri/zapier-vs-custom-code-when-to-fire-your-glue-tool-54mb)
+- [Your Boring Stack Isn&#39;t Boring Enough](https://dev.to/queelius/your-boring-stack-isnt-boring-enough-m5e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
