@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ToolBox Pro: Thousands of Free Online Tools – All-in-One Efficient Web Toolkit](https://dev.to/winter_grady_3d8fc370f968/toolbox-pro-thousands-of-free-online-tools-all-in-one-efficient-web-toolkit-4kgg)
-- [Server-Sent Events in .NET 10: Finally, a Native Solution](https://dev.to/mashrulhaque/server-sent-events-in-net-10-finally-a-native-solution-22kg)
-- [Building a University Resource Sharing Platform: My Laravel Learning Journey](https://dev.to/nelson_orina_a538ba52e9ed/building-a-university-resource-sharing-platform-my-laravel-learning-journey-579l)
-- [GQLoom Evaluation Report](https://dev.to/xcfox/gqloom-evaluation-report-b6j)
-- [Docs-as-Code: Why Your Team Needs a Markdown CMS](https://dev.to/valdemaras/docs-as-code-why-your-team-needs-a-markdown-cms-3ben)
+- [Do we need AWS Durable Functions when we have Step Functions?](https://dev.to/aws-builders/do-we-need-aws-durable-functions-when-we-have-step-functions-1kk1)
+- [Home Assistant Fernzugriff: Sicher &amp; Kostenlos via Cloudflare Tunnel &lpar;Kein Port-Forwarding!&rpar;](https://dev.to/tim_alex_ba4bc28e6bdfc168/home-assistant-fernzugriff-sicher-kostenlos-via-cloudflare-tunnel-kein-port-forwarding-4gh9)
+- [Margex Referral Code &quot;67532582&quot; Get 10% Off On Trading Fees &amp; $10000 Bonus](https://dev.to/referralcode20/margex-referral-code-67532582-get-10-off-on-trading-fees-10000-bonus-3c3a)
+- [Windows File System Navigation &amp; System Information](https://dev.to/sajjadrahman56/windows-file-system-navigation-system-information-c2h)
+- [Rewriting My Apache Airflow PR: When Your First Solution Isn&#39;t the Right One](https://dev.to/pradeep_kaalluri/rewriting-my-apache-airflow-pr-when-your-first-solution-isnt-the-right-one-1mp7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
