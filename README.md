@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Agents for Business: Non-Technical Executive Guide](https://dev.to/dr_hernani_costa/ai-agents-for-business-non-technical-executive-guide-2j8b)
+- [Building an End-to-End CI/CD Pipeline with Spring Boot, Jenkins, Kubernetes &amp; Security Scans](https://dev.to/sunath2711/building-an-end-to-end-cicd-pipeline-with-spring-boot-jenkins-kubernetes-security-scans-28e0)
+- [Web3 Marketing in 2026: The Stack Builders Actually Use](https://dev.to/krisvarley/web3-marketing-in-2026-the-stack-builders-actually-use-2783)
+- [Week 4 Scripting Exercise: Analyze HTTP Response Headers](https://dev.to/fosres/week-4-scripting-exercise-build-a-web-reconnaissance-report-generator-4fnm)
 - [🤖 Testing JIMBO OS - Automated Content Pipeline](https://dev.to/karol_81a50ed396508bcffd7/testing-jimbo-os-automated-content-pipeline-2moe)
-- [About JVM Architecture](https://dev.to/rahulraj156/about-jvm-architecture-9mk)
-- [# Solving Angular&#39;s Subscription Memory Leak Problem with a Simple Decorator](https://dev.to/sarath90/-solving-angulars-subscription-memory-leak-problem-with-a-simple-decorator-1fel)
-- [[Boost]](https://dev.to/tomiwa1990/-45p1)
-- [Insipiring](https://dev.to/tomiwa1990/insipiring-238l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
