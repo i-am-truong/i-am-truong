@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Python - Stop storing passwords in plain text! A guide to werkzeug.security](https://dev.to/aws-builders/python-stop-storing-passwords-in-plain-text-a-guide-to-werkzeugsecurity-179i)
-- [The Event Loop, Part III: The Unstoppable Train 🚂](https://dev.to/elina_web_magic/the-event-loop-part-iii-the-unstoppable-train-2bld)
-- [How To Become DevOps Engineer](https://dev.to/aws-builders/how-to-become-devops-engineer-3o72)
-- [I Built Production AI Systems Through Karpathy&#39;s &#39;Magnitude 9 Earthquake.&#39; Here&#39;s What Actually Works.](https://dev.to/dannwaneri/i-built-production-ai-systems-through-karpathys-magnitude-9-earthquake-heres-what-actually-19h3)
-- [maintaining stable row identifiers during page maintenance](https://dev.to/tudor96stani/maintaining-stable-row-identifiers-during-page-maintenance-m9o)
+- [SwiftUI Memory Management &amp; Retain Cycle Pitfalls &lpar;Production Guide&rpar;](https://dev.to/sebastienlato/swiftui-memory-management-retain-cycle-pitfalls-production-guide-2kii)
+- [Linux Kernel Basics: User Space vs. Kernel Space, System Calls, strace &lpar;debugging processes&rpar;.](https://dev.to/sbkumbar024/linux-kernel-basics-user-space-vs-kernel-space-system-calls-strace-debugging-processes-39f1)
+- [I Built an AI Boardroom App in 8 Hours with Flutter &amp; AI 🚀 &lpar;Open Source&rpar;](https://dev.to/sayed_ali_alkamel/i-built-an-ai-boardroom-app-in-8-hours-with-flutter-ai-open-source-1fjm)
+- [What do you think, LinkedIn?](https://dev.to/im_bhandari_2f6612fe6118/what-do-you-think-linkedin-7cm)
+- [What I Learned Building an AI Learning Platform Without Hype](https://dev.to/john_haworth_a503e7ff8249/what-i-learned-building-an-ai-learning-platform-without-hype-2n1m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
