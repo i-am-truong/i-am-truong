@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CLAUDE.md in Inbox Zero codebase.](https://dev.to/ramunarasinga-11/claudemd-in-inbox-zero-codebase-j1)
-- [How to Build a Scalable Social Listening Tool in 2026 &lpar;Without Enterprise API Pricing&rpar;](https://dev.to/imbuedata/how-to-build-a-scalable-social-listening-tool-in-2026-without-enterprise-api-pricing-3ejl)
-- [VoroMotors Discount Code : &quot;AVA&quot; Get $50% Off On Electric Scooters &amp; Accessories](https://dev.to/referralcode09/voromotors-discount-code-ava-get-50-off-on-electric-scooters-accessories-13jp)
-- [memU 1.0.0: Memory-Driven Agent Evolution](https://dev.to/memu_ai/memu-100-memory-driven-agent-evolution-ane)
-- [Kubernetes as a Control System: Beyond Orchestration, Towards Autonomy](https://dev.to/mohammed_27c42362d82e94dd/kubernetes-as-a-control-system-beyond-orchestration-towards-autonomy-3j3h)
+- [What my dining table and my cat showed me about human attention](https://dev.to/metehandesign/what-my-dining-table-and-my-cat-showed-me-about-human-attention-3c99)
+- [Model Workflow Context &lpar;MWC&rpar;: The Open Standard AI Coding Tools Have Been Waiting For](https://dev.to/lohnsonok/model-workflow-context-mwc-the-open-standard-ai-coding-tools-have-been-waiting-for-1fgf)
+- [What are your goals for the week? •160](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-160-4d1i)
+- [Implementing Real-Time Streaming with VAPI: My Journey to Voice AI Success](https://dev.to/callstacktech/implementing-real-time-streaming-with-vapi-my-journey-to-voice-ai-success-3i7l)
+- [Data Sovereignty in the Age of AI: Why Control Matters for Small States](https://dev.to/xbze3/data-sovereignty-in-the-age-of-ai-why-control-matters-for-small-states-e79)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
