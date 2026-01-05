@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Shopify vs WooCommerce vs BigCommerce – Which Should I Choose?](https://dev.to/henrydavid/shopify-vs-woocommerce-vs-bigcommerce-which-should-i-choose-4324)
-- [Learning kubernetes architecture the easiest way](https://dev.to/kedar_salunkhe_49166a46be/learning-kubernetes-architecture-the-easiest-way-1hdf)
-- [What Future Trends Will Shape the Real Estate Tokenization Market Over the Next 5 Years?](https://dev.to/suzie_iris_65ce8070067366/what-future-trends-will-shape-the-real-estate-tokenization-market-over-the-next-5-years-518h)
-- [Resume Builder SaaS — Mux Developer Challenge Submission](https://dev.to/rohitashsingh89/resume-builder-saas-mux-developer-challenge-submission-3ebo)
-- [Building a Production-Ready AWS ALB + Auto Scaling Architecture Using Terraform](https://dev.to/manoop_madhu/building-a-production-ready-aws-alb-auto-scaling-architecture-using-terraform-3nji)
+- [Identify AWS Database Services](https://dev.to/aws-builders/identify-aws-database-services-2gg0)
+- [The Total Cost of Running Agentic AI on AWS: A Financial Breakdown](https://dev.to/dineshelumalai/the-total-cost-of-running-agentic-ai-on-aws-a-financial-breakdown-1ofc)
+- [FSMS and HACCP: Systems, Principles, and Performance](https://dev.to/joy1/fsms-and-haccp-systems-principles-and-performance-27pc)
+- [Lightning-Fast In-App Debugging with React Native BugBubble](https://dev.to/ajmal_hasan/lightning-fast-in-app-debugging-with-react-native-bugbubble-5bao)
+- [Build the tool. We’ll run the business.](https://dev.to/codeatoms/build-the-tool-well-run-the-business-pl2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
