@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [IP Addresses &amp; the Internet Protocol — From Numbers to Global](https://dev.to/cristiansifuentes/ip-addresses-the-internet-protocol-from-numbers-to-global-2mg2)
+- [Stop Setting Goals, Start Tracking Wins](https://dev.to/nataliaherself/stop-setting-goals-start-tracking-wins-347m)
 - [Convergent Evolution in AI-Augmented Development: Part 2 - When You Build Solutions Before You Have Names For Them](https://dev.to/izzyfuller/convergent-evolution-in-ai-augmented-development-part-2-when-you-build-solutions-before-you-have-2l0o)
-- [The Ralph Wiggum Approach: Running AI Coding Agents for Hours &lpar;Not Minutes&rpar;](https://dev.to/sivarampg/the-ralph-wiggum-approach-running-ai-coding-agents-for-hours-not-minutes-57c1)
-- [Just released my first open-source workbench to learn DSA, make sure to check it out and share your thoughts!](https://dev.to/joachimzeelmaekers/just-released-my-first-open-source-workbench-to-learn-dsa-make-sure-to-check-it-out-and-share-your-2l7k)
-- [Bedrock &amp; SageMaker in Focus: Finding Your Best Fit for GenAI](https://dev.to/farrukhkhalid/bedrock-sagemaker-in-focus-finding-your-best-fit-for-genai-3i60)
-- [A More Practical Way for Developers to Learn Algorithms](https://dev.to/joachimzeelmaekers/a-more-practical-way-for-developers-to-learn-algorithms-2pd7)
+- [**Unveiling the Labyrinth of Explainable AI: A Comparative A](https://dev.to/drcarlosruizviquez/unveiling-the-labyrinth-of-explainable-ai-a-comparative-a-1e3l)
+- [Integration Testing: Definition, How-to, Examples](https://dev.to/alok_kumar_44670e79f96677/integration-testing-definition-how-to-examples-1nmd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
