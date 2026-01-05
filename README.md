@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[Boost]](https://dev.to/tomiwa1990/-45p1)
+- [Insipiring](https://dev.to/tomiwa1990/insipiring-238l)
 - [SwiftUI Memory Management &amp; Retain Cycle Pitfalls &lpar;Production Guide&rpar;](https://dev.to/sebastienlato/swiftui-memory-management-retain-cycle-pitfalls-production-guide-2kii)
 - [Linux Kernel Basics: User Space vs. Kernel Space, System Calls, strace &lpar;debugging processes&rpar;.](https://dev.to/sbkumbar024/linux-kernel-basics-user-space-vs-kernel-space-system-calls-strace-debugging-processes-39f1)
 - [I Built an AI Boardroom App in 8 Hours with Flutter &amp; AI 🚀 &lpar;Open Source&rpar;](https://dev.to/sayed_ali_alkamel/i-built-an-ai-boardroom-app-in-8-hours-with-flutter-ai-open-source-1fjm)
-- [What do you think, LinkedIn?](https://dev.to/im_bhandari_2f6612fe6118/what-do-you-think-linkedin-7cm)
-- [What I Learned Building an AI Learning Platform Without Hype](https://dev.to/john_haworth_a503e7ff8249/what-i-learned-building-an-ai-learning-platform-without-hype-2n1m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
