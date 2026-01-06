@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why being smart isn&#39;t enough for agentic AI](https://dev.to/ailnk0/why-being-smart-isnt-enough-for-agentic-ai-54mb)
-- [Ruby 4.0 New Features Explained for Modern Applications](https://dev.to/devang18/ruby-40-new-features-explained-for-modern-applications-4lbf)
-- [Building a Production-Ready AI Loan Prediction System: A 15-Day Journey](https://dev.to/oluwatobiloba_olatunji_c1/building-a-production-ready-ai-loan-prediction-system-a-15-day-journey-36i4)
-- [Performance Tuning MCP Integrations: A Developer&#39;s Survival Guide](https://dev.to/manonaga2188/performance-tuning-mcp-integrations-a-developers-survival-guide-4043)
-- [SpechPhone: Softphone SIP Web com PHP &lpar;Swoole&rpar; e WebSockets 🚀](https://dev.to/spechshop/spechphone-softphone-sip-web-com-php-swoole-e-websockets-527o)
+- [Web Application Security &amp; XSS Mitigation write up](https://dev.to/alem_djokovic82/web-application-security-xss-mitigation-write-up-35mn)
+- [Developer Spotlight: Suraj Iyer - Apps Script Product Manager](https://dev.to/googleworkspace/developer-spotlight-suraj-iyer-apps-script-product-manager-31gg)
+- [10 Key Checkpoints to Consider When Finalizing a Custom VoIP Provider](https://dev.to/ecosmob_technologies/10-key-checkpoints-to-consider-when-finalizing-a-custom-voip-provider-23al)
+- [My 2026 Tech Stack Is Boring as Hell &lpar;And That Is the Point&rpar;](https://dev.to/daisy_jones_21bdcc6b40f9d/my-2026-tech-stack-is-boring-as-hell-and-that-is-the-point-14m5)
+- [Stop Scraping Yahoo Finance: A Free, No-Key JSON Endpoint for Stock Data](https://dev.to/pocketportfolioapp/stop-scraping-yahoo-finance-a-free-no-key-json-endpoint-for-stock-data-169p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
