@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: The 26 Most Anticipated Movies of 2026](https://dev.to/popcorn_movies/ringer-movies-the-26-most-anticipated-movies-of-2026-594b)
-- [🔥 Laravel Query Gate v1.2.0 is AWESOME](https://dev.to/jeffsynister/laravel-query-gate-v120-is-awesome-11jj)
-- [AI automation with C++ and Python](https://dev.to/jcsacramento_9861ebc9b26/ai-automation-with-c-and-python-2b52)
-- [Beyond if &lpar;stock &gt; 0&rpar;: Handling Race Conditions in High-Traffic E-Commerce Systems](https://dev.to/aaditya_efec6eedf3319cec3/beyond-if-stock-0-handling-race-conditions-in-high-traffic-e-commerce-systems-481)
-- [Agent Discovery eXchange &lpar;AX&rpar;](https://dev.to/pseudyx/agent-discovery-exchange-ax-148o)
+- [Bitvavo Referral Code “10CFEBC8EA” Get 20% Off On Trading Fee](https://dev.to/referralcode23/bitvavo-referral-code-10cfebc8ea-get-20-off-on-trading-fee-1h1e)
+- [Data Security in Salesforce: Understanding the Layers That Protect Your Data](https://dev.to/sathishvk/data-security-in-salesforce-understanding-the-layers-that-protect-your-data-4h9)
+- [RETRO &#39;25](https://dev.to/pragadeeshnehru/retro-25-2gie)
+- [Gomining Referral Code “q01MI” Get 5% Bonus Earning](https://dev.to/referralcode23/gomining-referral-code-q01mi-get-5-bonus-earning-2ad0)
+- [Day 94 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-94-of-100-days-dsa-coding-challenge-5ahp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
