@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Bitvavo Referral Code “10CFEBC8EA” Get 20% Off On Trading Fee](https://dev.to/referralcode23/bitvavo-referral-code-10cfebc8ea-get-20-off-on-trading-fee-1h1e)
-- [Data Security in Salesforce: Understanding the Layers That Protect Your Data](https://dev.to/sathishvk/data-security-in-salesforce-understanding-the-layers-that-protect-your-data-4h9)
-- [RETRO &#39;25](https://dev.to/pragadeeshnehru/retro-25-2gie)
-- [Gomining Referral Code “q01MI” Get 5% Bonus Earning](https://dev.to/referralcode23/gomining-referral-code-q01mi-get-5-bonus-earning-2ad0)
-- [Day 94 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-94-of-100-days-dsa-coding-challenge-5ahp)
+- [Top 10 ECommerce Development Companies in Indore](https://dev.to/shruti_brijpuriya_2b88562/top-10-ecommerce-development-companies-in-indore-1bj3)
+- [Tokocrypto Referral Code “Q7122E51” Get 20% Rebate On Trading Fee](https://dev.to/referralcode23/tokocrypto-referral-code-q7122e51-get-20-rebate-on-trading-fee-26gj)
+- [How to Automate Cross-Browser Testing for Web Applications](https://dev.to/misterankit/how-to-automate-cross-browser-testing-for-web-applications-2ajm)
+- [Decoupling Expectations: Mastering Covariance Shift in Machine Learning Models](https://dev.to/mabualzait/decoupling-expectations-mastering-covariance-shift-in-machine-learning-models-hgd)
+- [Ohora Usa Discount Code “SKV10” Get 20% Off On All Products](https://dev.to/referralcode23/ohora-usa-discount-code-skv10-get-20-off-on-all-products-30cb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
