@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why We Chose to Focus on Rental Apartments First &lpar;While Still Building a Multi-Category Marketplace&rpar;](https://dev.to/cengiz_zaylan_baf3ecdfb/why-we-chose-to-focus-on-rental-apartments-first-while-still-building-a-multi-category-marketplace-57f)
+- [Facebook Grupları Neden Kırık Bir Ürün ve Biz Bu Sorunu Nasıl Dar Bir Odakla Çözmeye Çalışıyoruz?](https://dev.to/cengiz_zaylan_baf3ecdfb/facebook-gruplari-neden-kirik-bir-urun-ve-biz-bu-sorunu-nasil-dar-bir-odakla-cozmeye-calisiyoruz-508d)
+- [🛠 Fixing `Undefined property: TwilioSmsMessage::$contentVariables` in Laravel &lpar;Twilio Notifications&rpar;](https://dev.to/ayowandeapp/fixing-undefined-property-twiliosmsmessagecontentvariables-in-laravel-twilio-notifications-13k4)
 - [We built a travel journal app while working jobs we hate](https://dev.to/tripmemo/we-built-a-travel-journal-app-while-working-jobs-we-hate-2ooe)
 - [AI Trading Daily Report: January 06, 2026 | $+101,272.24](https://dev.to/igorganapolsky/ai-trading-daily-report-january-06-2026-10127224-4o14)
-- [Kubernetes 1.35: In-Place Pod Resize is GA — Scale Vertically Without Restarting](https://dev.to/yodev_grego/kubernetes-135-in-place-pod-resize-is-ga-scale-vertically-without-restarting-5363)
-- [Formal Semantics as the Missing Control Layer for AI-Assisted Software Engineering](https://dev.to/sven-a-schaefer/formal-semantics-as-the-missing-control-layer-for-ai-assisted-software-engineering-2ked)
-- [MAWA - El lenguaje simple en sintaxis como Python de bajo nivel. Parte 3, Condicionales.](https://dev.to/samuel_leonardo_37aff38b4/mawa-el-lenguaje-simple-en-sintaxis-como-python-de-bajo-nivel-parte-3-condicionales-8m4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
