@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Classical ML Still Crushes GenAI at Regression](https://dev.to/mickael__andrieu/why-classical-ml-still-crushes-genai-at-regression-5l5)
-- [About This Documentation Infrastructure](https://dev.to/bbos/about-this-documentation-infrastructure-2el7)
-- [How I Passed the AWS Certified Cloud Practitioner in 24 Days &lpar;For Free&rpar;](https://dev.to/adehorizon/how-i-passed-the-aws-certified-cloud-practitioner-in-24-days-for-free-4c49)
-- [My Reading Journey: Oct-Dec 2025](https://dev.to/ericbl3/my-reading-journey-oct-dec-2025-48ia)
-- [SRDD &lpar;Part 4 of 4&rpar; - Scaling Up - SSRDD, Principles, and Implementation](https://dev.to/bbos/srdd-part-4-of-4-scaling-up-ssrdd-principles-and-implementation-4efd)
+- [[Boost]](https://dev.to/cherryramatis/-1h6a)
+- [Continuous Integration &lpar;CI&rpar;: The Missing Engineering Discipline Behind Most Pipelines](https://dev.to/srinivasamcjf/continuous-integration-ci-the-missing-engineering-discipline-behind-most-pipelines-4eka)
+- [Python Comprehensions Are Declarative &lpar;And Why That Matters&rpar;](https://dev.to/samuel_ochaba_eb9c875fa89/python-comprehensions-are-declarative-and-why-that-matters-17ba)
+- [Kubernetes Rolling Update &amp; Downtime](https://dev.to/jumptotech/kubernetes-rolling-update-downtime-319e)
+- [The Python Matrix Gotcha That Silently Corrupts Your Data](https://dev.to/samuel_ochaba_eb9c875fa89/the-python-matrix-gotcha-that-silently-corrupts-your-data-1h7b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
