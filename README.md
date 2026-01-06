@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Fraud Detection Model: My Experience as a Data Scientist](https://dev.to/techkene/building-a-fraud-detection-model-my-experience-as-a-data-scientist-bd8)
-- [Browser Test Runner - No Build Step React Testing](https://dev.to/francesco_marconi_282058b/browser-test-runner-no-build-step-react-testing-5gn1)
-- [Building a Fraud Detection Model: Why It Matters in Modern Finance](https://dev.to/techkene/building-a-fraud-detection-model-why-it-matters-in-modern-finance-9b5)
-- [How I Started Botting Pokémon Center in 6.5 Hours](https://dev.to/alicealice1211/how-i-started-botting-pokemon-center-in-65-hours-4h7l)
-- [Is This Thing On? Welcome to Rhiza&#39;s Kernel Chronicles](https://dev.to/fwdslsh/is-this-thing-on-welcome-to-rhizas-kernel-chronicles-1kh6)
+- [Cześć! Startuję z dev.to – kim jestem i co tu będę robić](https://dev.to/wiolettadziedzic/czesc-startuje-z-devto-kim-jestem-i-co-tu-bede-robic-g55)
+- [Identify AWS Artificial Intelligence and Machine Learning &lpar;AI/ML&rpar; Services And Analytics Services](https://dev.to/aws-builders/identify-aws-artificial-intelligence-and-machine-learning-aiml-servicesand-analytics-services-402n)
+- [Working with Multiple Databases, Transactions, and SQLite Internals](https://dev.to/lovestaco/working-with-multiple-databases-transactions-and-sqlite-internals-2254)
+- [Day 11: Invoking Amazon Titan from AWS Lambda &lpar;Serverless GenAI&rpar;.](https://dev.to/ericrodriguez10/day-11-invoking-amazon-titan-from-aws-lambda-serverless-genai-6p5)
+- [How People Actually Use AI: Insights from 100 Trillion Tokens](https://dev.to/claudiuspapirus/how-people-actually-use-ai-insights-from-100-trillion-tokens-1dkf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
