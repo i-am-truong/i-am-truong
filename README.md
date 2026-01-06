@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [When code generation suggests deprecated Pandas APIs — a case study](https://dev.to/gabrieal845/when-code-generation-suggests-deprecated-pandas-apis-a-case-study-dbb)
-- [When you have a hammer, everything looks like a nail](https://dev.to/aws-builders/when-you-have-a-hammer-everything-looks-like-a-nail-5e7p)
-- [Context Engineering: How We Work Around the Goldfish Problem](https://dev.to/knitli/context-engineering-how-we-work-around-the-goldfish-problem-252i)
-- [AWS Multi-Account Architecture: The Hidden Tradeoffs Everyone Discovers](https://dev.to/rex_zhen_a9a8400ee9f22e98/aws-multi-account-architecture-the-organizational-chaos-no-one-talks-about-5boe)
-- [AWS Cost Optimization: When Reducing Cross-Zone Data Transfer Actually Costs More](https://dev.to/rex_zhen_a9a8400ee9f22e98/aws-cost-optimization-when-reducing-cross-zone-data-transfer-actually-costs-more-1pna)
+- [yarn pnp 세팅하기](https://dev.to/algoorgoal/yarn-pnp-setinghagi-2dgg)
+- [Why I Built mlship: One Tool for All ML Frameworks](https://dev.to/peshwar/why-i-built-mlship-one-tool-for-all-ml-frameworks-222k)
+- [Trial License Implementation Patterns in C#: A Technical Deep Dive](https://dev.to/olivier_moussalli_e3492f5/trial-license-implementation-patterns-in-c-a-technical-deep-dive-338l)
+- [The Freak Circus Wiki](https://dev.to/tink_f24ac43d8ab18e4e7908/the-freak-circus-wiki-dk)
+- [Introducing CensorCore | JavaScript Language Censoring Library](https://dev.to/derrickrichard/introducing-censorcore-javascript-language-censoring-library-12me)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
