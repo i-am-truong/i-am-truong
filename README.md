@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Bridging the Gap: Why Every Modern Training Program Needs a Business Simulation Component](https://dev.to/simulationstrategist223/bridging-the-gap-why-every-modern-training-program-needs-a-business-simulation-component-2498)
-- [Experience Authentic Lebanese Mezze and Grilled Delights](https://dev.to/eden_molle_2e2f1ee1e56cac/experience-authentic-lebanese-mezze-and-grilled-delights-5ecd)
-- [I Built FoxyFy — A Modern, Performance-First Web Platform](https://dev.to/atec-systems/i-built-foxyfy-a-modern-performance-first-web-platform-58ll)
-- [What Happened When I Let AI Handle My Debugging Sessions](https://dev.to/rohit_gavali_0c2ad84fe4e0/what-happened-when-i-let-ai-handle-my-debugging-sessions-4ekc)
-- [Proxy State in React: What It Is and How It Differs from useState](https://dev.to/muhammed_fayazts_e35676/proxy-state-in-react-what-it-is-and-how-it-differs-from-usestate-57mo)
+- [Why being smart isn&#39;t enough for agentic AI](https://dev.to/ailnk0/why-being-smart-isnt-enough-for-agentic-ai-54mb)
+- [Ruby 4.0 New Features Explained for Modern Applications](https://dev.to/devang18/ruby-40-new-features-explained-for-modern-applications-4lbf)
+- [Building a Production-Ready AI Loan Prediction System: A 15-Day Journey](https://dev.to/oluwatobiloba_olatunji_c1/building-a-production-ready-ai-loan-prediction-system-a-15-day-journey-36i4)
+- [Performance Tuning MCP Integrations: A Developer&#39;s Survival Guide](https://dev.to/manonaga2188/performance-tuning-mcp-integrations-a-developers-survival-guide-4043)
+- [SpechPhone: Softphone SIP Web com PHP &lpar;Swoole&rpar; e WebSockets 🚀](https://dev.to/spechshop/spechphone-softphone-sip-web-com-php-swoole-e-websockets-527o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
