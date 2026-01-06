@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Sutton &amp; Barto Gridworld example in C#](https://dev.to/davide_lettieri_a99c7dd29/sutton-barto-gridworld-example-in-c-3pgn)
-- [Exploiting Unvalidated Redirects for XSS](https://dev.to/this-is-learning/exploiting-unvalidated-redirects-for-xss-ai)
-- [Is Codewars Worth It in 2025? An Honest Review](https://dev.to/alex_hunter_44f4c9ed6671e/is-codewars-worth-it-in-2025-an-honest-review-1jj3)
-- [Scalable Architecture Principles: 9 Rules That Survive Real Load](https://dev.to/danielrfoster/scalable-architecture-principles-9-rules-that-survive-real-load-2ddp)
-- [How Telecom Systems Are Becoming Self-Operating](https://dev.to/rishabhsharma123/how-telecom-systems-are-becoming-self-operating-3g5i)
+- [I Built DLMan, the Modern Download Manager I always needed!](https://dev.to/codeideal/i-built-dlman-the-modern-download-manager-i-always-needed-27li)
+- [How To build the secret chat app using MLS and ChatE2EE](https://dev.to/samurai-techlead/how-to-build-the-secret-chat-app-using-mls-and-chate2ee-4j9c)
+- [How Large Language Models &lpar;LLMs&rpar; Work](https://dev.to/cristiansifuentes/how-large-language-models-llms-work-3il5)
+- [Join FREE AI Webinar on AI-Ready Careers](https://dev.to/divyanshi_kulkarni_633311/join-free-ai-webinar-on-ai-ready-careers-4jlb)
+- [How the Electric Border Effect Actually Works](https://dev.to/behnam_azimi_9335d5b42517/how-the-electric-border-effect-actually-works-31k8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
