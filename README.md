@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built DLMan, the Modern Download Manager I always needed!](https://dev.to/codeideal/i-built-dlman-the-modern-download-manager-i-always-needed-27li)
-- [How To build the secret chat app using MLS and ChatE2EE](https://dev.to/samurai-techlead/how-to-build-the-secret-chat-app-using-mls-and-chate2ee-4j9c)
-- [How Large Language Models &lpar;LLMs&rpar; Work](https://dev.to/cristiansifuentes/how-large-language-models-llms-work-3il5)
-- [Join FREE AI Webinar on AI-Ready Careers](https://dev.to/divyanshi_kulkarni_633311/join-free-ai-webinar-on-ai-ready-careers-4jlb)
-- [How the Electric Border Effect Actually Works](https://dev.to/behnam_azimi_9335d5b42517/how-the-electric-border-effect-actually-works-31k8)
+- [Debugging MCP Tool Calls Sucks: Reticle Is “Wireshark for MCP”](https://dev.to/labtterminal__e9d5d64971/debugging-mcp-tool-calls-sucks-reticle-is-wireshark-for-mcp-1k4)
+- [IaC should be flat &lpar;and small&rpar;](https://dev.to/mikkergimenez/iac-should-be-flat-and-small-2d2m)
+- [Moving FFmpeg to the Browser: How I Saved 100% on Server Costs Using WebAssembly](https://dev.to/baojian_yuan/moving-ffmpeg-to-the-browser-how-i-saved-100-on-server-costs-using-webassembly-4l9f)
+- [I Built a CLI to Capture Website Screenshots From The Terminal](https://dev.to/erik_df43be0db3da3f32f636/i-built-a-cli-to-capture-website-screenshots-from-the-terminal-1km2)
+- [🚀 SchedPay_Free | Open-Source, Docker-Based Appointment &amp; Payment Management System](https://dev.to/yiit_afe017d3f685b7702ca/schedpayfree-open-source-docker-based-appointment-payment-management-system-n95)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
