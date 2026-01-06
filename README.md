@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Share ChatGPT Generated HTML in 10 Seconds](https://dev.to/darthjaja6/how-to-share-chatgpt-generated-html-in-10-seconds-35cj)
-- [EB Bill Calculator](https://dev.to/preetha_vaishnavi_2b82358/eb-bill-calculator-2pk3)
-- [Brownliving Discount Code “ARCH30”: Unlock 90% Off on Eco-Friendly Products Today!](https://dev.to/referralcode233/brownliving-discount-code-arch30-unlock-90-off-on-eco-friendly-products-today-3k49)
-- [Introducing handlejson - Safe JSON Parsing Without the try-catch Spam](https://dev.to/chintanshah35/introducing-handlejson-safe-json-parsing-without-the-try-catch-spam-1oh3)
-- [5 Must-Have Room Heaters for Cozy Winters – Comfort, Warmth &amp; Everyday Wellbeing](https://dev.to/all_aboutseniors_df49af5/5-must-have-room-heaters-for-cozy-winters-comfort-warmth-everyday-wellbeing-5afd)
+- [Top it staff augmentation companies: Got the opportunity to interview a veteran CTO](https://dev.to/maame-codes/top-it-staff-augmentation-companies-got-the-opportunity-to-interview-a-veteran-cto-59h1)
+- [When Brain–Computer Interfaces Enter the Era of Mass Production: A Technical Breakdown of Neuralink’s 2026 Roadmap](https://dev.to/apnews/when-brain-computer-interfaces-enter-the-era-of-mass-production-a-technical-breakdown-of-18ci)
+- [😲 Most People Don’t Know You Can Log In by Copying a Password Hash 🔐 &lpar;And Why It’s NOT a Bug&rpar;](https://dev.to/bharat_solanke_8e45411fa6/most-people-dont-know-you-can-log-in-by-copying-a-password-hash-and-why-its-not-a-bug-2ljg)
+- [eBPF Tutorial by Example: BPF Arena for Zero-Copy Shared Memory](https://dev.to/yunwei37/ebpf-tutorial-by-example-bpf-arena-for-zero-copy-shared-memory-nf)
+- [I made a fast, structured PDF extractor for RAG; 300 pages a second](https://dev.to/intercepted16/i-made-a-fast-structured-pdf-extractor-for-rag-300-pages-a-second-34d1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
