@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [mHC [Paper Quick-Reading]](https://dev.to/leochame/mhc-paper-quick-reading-4p1)
-- [Romance Is Dead: Open Source’s Critical Inflection Point and the 14,000,605-to-1 Survival Strategy](https://dev.to/flamehaven01/romance-is-dead-open-sources-critical-inflection-point-and-the-14000605-to-1-survival-strategy-2cm4)
-- [The DevSecOps Pipeline: Security as Code](https://dev.to/outworktech/the-devsecops-pipeline-security-as-code-ce5)
-- [I built a privacy-focused tool to crop images into circles instantly](https://dev.to/kristoff_14e0834b680bea04/i-built-a-privacy-focused-tool-to-crop-images-into-circles-instantly-5447)
-- [Best Free AI YouTube Summarizers for Developers in 2026](https://dev.to/jqueryscript/best-free-ai-youtube-summarizers-for-developers-in-2026-3bnl)
+- [When code generation suggests deprecated Pandas APIs — a case study](https://dev.to/gabrieal845/when-code-generation-suggests-deprecated-pandas-apis-a-case-study-dbb)
+- [When you have a hammer, everything looks like a nail](https://dev.to/aws-builders/when-you-have-a-hammer-everything-looks-like-a-nail-5e7p)
+- [Context Engineering: How We Work Around the Goldfish Problem](https://dev.to/knitli/context-engineering-how-we-work-around-the-goldfish-problem-252i)
+- [AWS Multi-Account Architecture: The Hidden Tradeoffs Everyone Discovers](https://dev.to/rex_zhen_a9a8400ee9f22e98/aws-multi-account-architecture-the-organizational-chaos-no-one-talks-about-5boe)
+- [AWS Cost Optimization: When Reducing Cross-Zone Data Transfer Actually Costs More](https://dev.to/rex_zhen_a9a8400ee9f22e98/aws-cost-optimization-when-reducing-cross-zone-data-transfer-actually-costs-more-1pna)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
