@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [When a Model Gets Stuck: How GPT‑5.2 Finished a &#39;Simple&#39; Spinner That Opus 4.5 Couldn&#39;t](https://dev.to/vmayorskiyac/when-a-model-gets-stuck-how-gpt-52-finished-a-simple-spinner-that-opus-45-couldnt-1o6p)
-- [Error Console - The new salesforce debugging tool](https://dev.to/tanweermuhd/error-console-the-new-salesforce-debugging-tool-7fd)
-- [xml basics](https://dev.to/bitterhurts_9945eec07b064/xml-basics-2eg6)
-- [How to Negotiate Your Software Developer Salary in 2026 &lpar;Without Losing the Offer&rpar;](https://dev.to/resumemind/how-to-negotiate-your-software-developer-salary-in-2026-without-losing-the-offer-57gm)
-- [Genesis Engine: Self-Evolution Log 001 - Apotheosis of the Hybrid Model](https://dev.to/sunhimuka1/genesis-engine-self-evolution-log-001-apotheosis-of-the-hybrid-model-236d)
+- [Building a Fraud Detection Model: My Experience as a Data Scientist](https://dev.to/techkene/building-a-fraud-detection-model-my-experience-as-a-data-scientist-bd8)
+- [Browser Test Runner - No Build Step React Testing](https://dev.to/francesco_marconi_282058b/browser-test-runner-no-build-step-react-testing-5gn1)
+- [Building a Fraud Detection Model: Why It Matters in Modern Finance](https://dev.to/techkene/building-a-fraud-detection-model-why-it-matters-in-modern-finance-9b5)
+- [How I Started Botting Pokémon Center in 6.5 Hours](https://dev.to/alicealice1211/how-i-started-botting-pokemon-center-in-65-hours-4h7l)
+- [Is This Thing On? Welcome to Rhiza&#39;s Kernel Chronicles](https://dev.to/fwdslsh/is-this-thing-on-welcome-to-rhizas-kernel-chronicles-1kh6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
