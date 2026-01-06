@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Best Alternative Data Providers in 2026: A Deep Dive into Data Provenance](https://dev.to/luisgustvo/the-best-alternative-data-providers-in-2026-a-deep-dive-into-data-provenance-jl7)
-- [Unveiling Symfony 7.4: A New Era for Media Validation and DX](https://dev.to/mattleads/unveiling-symfony-74-a-new-era-for-media-validation-and-dx-4459)
-- [Why Traditional DevOps Stops Scaling](https://dev.to/sreekanth_kuruba_91721e5d/why-traditional-devops-stops-scaling-1im)
-- [ClovaLink — Enterprise File Storage without the price tag](https://dev.to/dotdon/clovalink-enterprise-file-storage-without-the-price-tag-40gk)
-- [Problem 8: Count Vowels](https://dev.to/highcenburg/problem-8-count-vowels-p7l)
+- [How to Share ChatGPT Generated HTML in 10 Seconds](https://dev.to/darthjaja6/how-to-share-chatgpt-generated-html-in-10-seconds-35cj)
+- [EB Bill Calculator](https://dev.to/preetha_vaishnavi_2b82358/eb-bill-calculator-2pk3)
+- [Brownliving Discount Code “ARCH30”: Unlock 90% Off on Eco-Friendly Products Today!](https://dev.to/referralcode233/brownliving-discount-code-arch30-unlock-90-off-on-eco-friendly-products-today-3k49)
+- [Introducing handlejson - Safe JSON Parsing Without the try-catch Spam](https://dev.to/chintanshah35/introducing-handlejson-safe-json-parsing-without-the-try-catch-spam-1oh3)
+- [5 Must-Have Room Heaters for Cozy Winters – Comfort, Warmth &amp; Everyday Wellbeing](https://dev.to/all_aboutseniors_df49af5/5-must-have-room-heaters-for-cozy-winters-comfort-warmth-everyday-wellbeing-5afd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
