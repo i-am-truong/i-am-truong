@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How the never Type Prevents Broken Code in Production](https://dev.to/kelvynthai/how-the-never-type-prevents-broken-code-in-production-3ci)
 - [Concurrency Without the Pain: A Guide for Beginner &amp; Mid-Level Developers](https://dev.to/adamthedeveloper/concurrency-without-the-pain-a-guide-for-beginner-mid-level-developers-2j2a)
-- [Top it staff augmentation companies: Got the opportunity to interview a veteran CTO](https://dev.to/maame-codes/top-it-staff-augmentation-companies-got-the-opportunity-to-interview-a-veteran-cto-59h1)
-- [When Brain–Computer Interfaces Enter the Era of Mass Production: A Technical Breakdown of Neuralink’s 2026 Roadmap](https://dev.to/apnews/when-brain-computer-interfaces-enter-the-era-of-mass-production-a-technical-breakdown-of-18ci)
-- [😲 Most People Don’t Know You Can Log In by Copying a Password Hash 🔐 &lpar;And Why It’s NOT a Bug&rpar;](https://dev.to/bharat_solanke_8e45411fa6/most-people-dont-know-you-can-log-in-by-copying-a-password-hash-and-why-its-not-a-bug-2ljg)
-- [eBPF Tutorial by Example: BPF Arena for Zero-Copy Shared Memory](https://dev.to/yunwei37/ebpf-tutorial-by-example-bpf-arena-for-zero-copy-shared-memory-nf)
+- [🛠️_Development_Efficiency_vs_Runtime_Performance[20260106074143]](https://dev.to/member_6331818c/developmentefficiencyvsruntimeperformance20260106074143-17dl)
+- [How I built a $0/mo AI SaaS using Next.js 14 and Google Gemini](https://dev.to/deepak_raaj_247/how-i-built-a-0mo-ai-saas-using-nextjs-14-and-google-gemini-1h2k)
+- [How does Epic EHR work, and how can developers integrate with it?](https://dev.to/rank_alchemy_5ad282cec75d/how-does-epic-ehr-work-and-how-can-developers-integrate-with-it-4fda)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
