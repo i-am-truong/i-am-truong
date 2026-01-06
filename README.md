@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Concurrency Without the Pain: A Guide for Beginner &amp; Mid-Level Developers](https://dev.to/adamthedeveloper/concurrency-without-the-pain-a-guide-for-beginner-mid-level-developers-2j2a)
 - [Top it staff augmentation companies: Got the opportunity to interview a veteran CTO](https://dev.to/maame-codes/top-it-staff-augmentation-companies-got-the-opportunity-to-interview-a-veteran-cto-59h1)
 - [When Brain–Computer Interfaces Enter the Era of Mass Production: A Technical Breakdown of Neuralink’s 2026 Roadmap](https://dev.to/apnews/when-brain-computer-interfaces-enter-the-era-of-mass-production-a-technical-breakdown-of-18ci)
 - [😲 Most People Don’t Know You Can Log In by Copying a Password Hash 🔐 &lpar;And Why It’s NOT a Bug&rpar;](https://dev.to/bharat_solanke_8e45411fa6/most-people-dont-know-you-can-log-in-by-copying-a-password-hash-and-why-its-not-a-bug-2ljg)
 - [eBPF Tutorial by Example: BPF Arena for Zero-Copy Shared Memory](https://dev.to/yunwei37/ebpf-tutorial-by-example-bpf-arena-for-zero-copy-shared-memory-nf)
-- [I made a fast, structured PDF extractor for RAG; 300 pages a second](https://dev.to/intercepted16/i-made-a-fast-structured-pdf-extractor-for-rag-300-pages-a-second-34d1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
