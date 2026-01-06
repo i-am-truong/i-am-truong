@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/cherryramatis/-1h6a)
-- [Continuous Integration &lpar;CI&rpar;: The Missing Engineering Discipline Behind Most Pipelines](https://dev.to/srinivasamcjf/continuous-integration-ci-the-missing-engineering-discipline-behind-most-pipelines-4eka)
-- [Python Comprehensions Are Declarative &lpar;And Why That Matters&rpar;](https://dev.to/samuel_ochaba_eb9c875fa89/python-comprehensions-are-declarative-and-why-that-matters-17ba)
-- [Kubernetes Rolling Update &amp; Downtime](https://dev.to/jumptotech/kubernetes-rolling-update-downtime-319e)
-- [The Python Matrix Gotcha That Silently Corrupts Your Data](https://dev.to/samuel_ochaba_eb9c875fa89/the-python-matrix-gotcha-that-silently-corrupts-your-data-1h7b)
+- [Why Image Hallucination Is More Dangerous Than Text Hallucination](https://dev.to/musu_priyam/why-image-hallucination-is-more-dangerous-than-text-hallucination-3kjp)
+- [🌲 Beginner-Friendly Guide &#39;Maximum Level Sum of a Binary Tree&#39; – LeetCode 1161 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-maximum-level-sum-of-a-binary-tree-leetcode-1161-c-python-1383)
+- [Why Static Load Balancing Fails for LLM Infrastructure &lpar;And What Works Instead&rpar;](https://dev.to/debmckinney/why-static-load-balancing-fails-for-llm-infrastructure-and-what-works-instead-fop)
+- [AI Platform Selection Guide 2026: ChatGPT vs Claude vs Gemini](https://dev.to/dr_hernani_costa/ai-platform-selection-guide-2026-chatgpt-vs-claude-vs-gemini-51hb)
+- [Split Excel Worksheets into Multiple Files in C#](https://dev.to/codingco/split-excel-worksheets-into-multiple-files-in-c-51d3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
