@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How the never Type Prevents Broken Code in Production](https://dev.to/kelvynthai/how-the-never-type-prevents-broken-code-in-production-3ci)
-- [Concurrency Without the Pain: A Guide for Beginner &amp; Mid-Level Developers](https://dev.to/adamthedeveloper/concurrency-without-the-pain-a-guide-for-beginner-mid-level-developers-2j2a)
-- [🛠️_Development_Efficiency_vs_Runtime_Performance[20260106074143]](https://dev.to/member_6331818c/developmentefficiencyvsruntimeperformance20260106074143-17dl)
-- [How I built a $0/mo AI SaaS using Next.js 14 and Google Gemini](https://dev.to/deepak_raaj_247/how-i-built-a-0mo-ai-saas-using-nextjs-14-and-google-gemini-1h2k)
-- [How does Epic EHR work, and how can developers integrate with it?](https://dev.to/rank_alchemy_5ad282cec75d/how-does-epic-ehr-work-and-how-can-developers-integrate-with-it-4fda)
+- [AI Master Data Governance: Redefining SAP Data Quality and Control](https://dev.to/simplemdg2025/ai-master-data-governance-redefining-sap-data-quality-and-control-31j0)
+- [Mavigadget Discount Code &quot;ASHISHKUMAR134&quot; Get 5% Off on All Products!](https://dev.to/referralcode233/mavigadget-discount-code-ashishkumar134-get-5-off-on-all-products-10o3)
+- [Standard Resistor Values: A Little Prince’s Guide to E-Series Magic](https://dev.to/ersajay/standard-resistor-values-a-little-princes-guide-to-e-series-magic-4ngd)
+- [CSS-only Mario World &lpar;with keyboard!&rpar;](https://dev.to/nelson_deneiva_40efb3bba/css-only-mario-world-with-keyboard-3nbd)
+- [Solved: Recommendations on Hosting Platform, Realtor website](https://dev.to/techresolve/solved-recommendations-on-hosting-platform-realtor-website-2nhi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
