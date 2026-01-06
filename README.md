@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Internship Experience and Technical Contributions at Nife Labs](https://dev.to/sampreethhhh/internship-experience-and-technical-contributions-at-nife-labs-jaf)
+- [How to Build a Serverless GraphQL API Using AWS AppSync, Lambda &amp; DynamoDB](https://dev.to/deeppatel0311/how-to-build-a-serverless-graphql-api-using-aws-appsync-lambda-dynamodb-nnp)
 - [The Secret Life of JavaScript: Illusions](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-illusions-1e2m)
 - [5 Small LLMs to Run Locally: Cost &amp; Compliance Guide](https://dev.to/dr_hernani_costa/5-small-llms-to-run-locally-cost-compliance-guide-1lk6)
 - [How Serverless &amp; Community Can Transform Your Career](https://dev.to/aws-builders/how-serverless-community-can-transform-your-career-26h5)
-- [Tutorial: Bridging Fiat and Crypto in Your dApp with On-Chain IBANs](https://dev.to/jackcarroll/tutorial-bridging-fiat-and-crypto-in-your-dapp-with-on-chain-ibans-45e0)
-- [Why Custom ReactJS Development Is Essential for Modern Digital Products?](https://dev.to/ethan_ross_ad604c59181ff2/why-custom-reactjs-development-is-essential-for-modern-digital-products-4j49)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
