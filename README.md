@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Practical Roadmap to AI-Driven Testing](https://dev.to/unais_shahid/a-practical-roadmap-to-ai-driven-testing-2101)
 - [Stop Pasting Secrets into AI Chat - Use AI-Safe Credentials Instead](https://dev.to/forest6511_23bcd0a045b1ff/stop-pasting-secrets-into-ai-chat-use-ai-safe-credentials-instead-3h6h)
 - [Why Most Telecom APIs Fail Before the First Developer Uses Them](https://dev.to/telcoedgeinc/why-most-telecom-apis-fail-before-the-first-developer-uses-them-5634)
 - [I Tested GLM-4.7 for Two Weeks—Here&#39;s What Actually Matters](https://dev.to/sohails07/i-tested-glm-47-for-two-weeks-heres-what-actually-matters-37ld)
 - [SitecoreAI Scheduled Tasks - Getting PowerShell Working Right](https://dev.to/kmac23va/sitecoreai-scheduled-tasks-getting-powershell-working-right-3lg0)
-- [Building a Secure Demo Banking App [Part 1]](https://dev.to/blad90/building-a-secure-demo-banking-app-part-1-1amj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
