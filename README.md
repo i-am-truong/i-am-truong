@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why AI-Generated Code Feels Weird](https://dev.to/unknown_destroyer_f353870/why-ai-generated-code-feels-weird-1bd2)
-- [New Year, New Habits: My 2026 Plan](https://dev.to/theoriginalbpc/new-year-new-habits-my-2026-plan-4cgc)
-- [Reflections on Upgrading to THE Architecture in React Native and the state of community](https://dev.to/jfojtl/reflections-on-upgrading-to-the-architecture-in-react-native-and-the-state-of-community-35o6)
-- [Rethinking React Architecture at Scale: From Hooks to Remote Contexts](https://dev.to/shantih_palani/rethinking-react-architecture-at-scale-from-hooks-to-remote-contexts-3a8j)
-- [SwiftUI Multi-Platform Architecture &lpar;iOS, iPadOS, macOS, visionOS&rpar;](https://dev.to/sebastienlato/swiftui-multi-platform-architecture-ios-ipados-macos-visionos-1961)
+- [Advice to Junior–Mid Level Engineers: Reality of the Job Market Today](https://dev.to/walosha/advice-to-junior-mid-level-engineers-reality-of-the-job-market-today-437h)
+- [Voice Tech Trends: Beyond Alexa and Siri – Part 1](https://dev.to/adnan_arif_14ae4bc014267f/voice-tech-trends-beyond-alexa-and-siri-part-1-28dl)
+- [Exploring Real-World APIs with DataBlock](https://dev.to/robertobutti/exploring-real-world-apis-with-datablock-459i)
+- [What is Redis and Why to Use Redis?](https://dev.to/joypalumbo/what-is-redis-and-why-to-use-redis-4193)
+- [Why .dev, .app, .page &lpar;and 40+ Other TLDs&rpar; Don&#39;t Respond to WHOIS](https://dev.to/p12se/why-dev-app-page-and-40-other-tlds-dont-respond-to-whois-53n8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
