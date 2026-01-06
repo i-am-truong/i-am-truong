@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Is “Hiding” Your WordPress Login and Common Paths a Smart Security Move?](https://dev.to/cifi/is-hiding-your-wordpress-login-and-common-paths-a-smart-security-move-4o93)
-- [WTF is Causal Machine Learning Engineering?](https://dev.to/dailybugle33/wtf-is-causal-machine-learning-engineering-9ma)
-- [Emergent Coupon Code “AKV” Get 20% Off On all Oders](https://dev.to/referralcode24/emergent-coupon-code-akv-get-20-off-on-all-oders-12cf)
-- [Building Collapsible Components with Melt UI in Svelte](https://dev.to/xchainviskor/building-collapsible-components-with-melt-ui-in-svelte-mb3)
-- [Beforesunset Promo Code “AVA” Get 25% Off On All Plans](https://dev.to/referralcode24/beforesunset-promo-code-ava-get-25-off-on-all-plans-285f)
+- [Leaflet Location Picker with Address Autocomplete, Geolocation, and Draggable Pin with Geoapify](https://dev.to/geoapify-maps-api/leaflet-location-picker-with-address-autocomplete-geolocation-and-draggable-pin-with-geoapify-1gfa)
+- [When Clients &amp; Students Ask Is Web Development Dead?](https://dev.to/jamal_ahmad_1f68678ca8253/when-clients-students-ask-is-web-development-dead-ng0)
+- [SVAR Gantt 2.4: A Free, Modern Gantt Chart for React &amp; Svelte](https://dev.to/olga_tash/svar-gantt-24-a-free-modern-gantt-chart-for-react-svelte-2e07)
+- [Solidity Basics &lpar;Part 2&rpar; — Arrays, Mappings &amp; Structs &lpar;Upgrading the Web3 Journey Logger&rpar;](https://dev.to/ribhavmodi/solidity-basics-part-2-arrays-mappings-structs-upgrading-the-web3-journey-logger-n4d)
+- [I built a residential management system to fix manual estate management in Nigeria](https://dev.to/naijasolutions/i-built-a-residential-management-system-to-fix-manual-estate-management-in-nigeria-2334)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
