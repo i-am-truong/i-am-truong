@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Image Hallucination Is More Dangerous Than Text Hallucination](https://dev.to/musu_priyam/why-image-hallucination-is-more-dangerous-than-text-hallucination-3kjp)
-- [🌲 Beginner-Friendly Guide &#39;Maximum Level Sum of a Binary Tree&#39; – LeetCode 1161 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-maximum-level-sum-of-a-binary-tree-leetcode-1161-c-python-1383)
-- [Why Static Load Balancing Fails for LLM Infrastructure &lpar;And What Works Instead&rpar;](https://dev.to/debmckinney/why-static-load-balancing-fails-for-llm-infrastructure-and-what-works-instead-fop)
-- [AI Platform Selection Guide 2026: ChatGPT vs Claude vs Gemini](https://dev.to/dr_hernani_costa/ai-platform-selection-guide-2026-chatgpt-vs-claude-vs-gemini-51hb)
-- [Split Excel Worksheets into Multiple Files in C#](https://dev.to/codingco/split-excel-worksheets-into-multiple-files-in-c-51d3)
+- [Ringer Movies: The 26 Most Anticipated Movies of 2026](https://dev.to/popcorn_movies/ringer-movies-the-26-most-anticipated-movies-of-2026-594b)
+- [🔥 Laravel Query Gate v1.2.0 is AWESOME](https://dev.to/jeffsynister/laravel-query-gate-v120-is-awesome-11jj)
+- [AI automation with C++ and Python](https://dev.to/jcsacramento_9861ebc9b26/ai-automation-with-c-and-python-2b52)
+- [Beyond if &lpar;stock &gt; 0&rpar;: Handling Race Conditions in High-Traffic E-Commerce Systems](https://dev.to/aaditya_efec6eedf3319cec3/beyond-if-stock-0-handling-race-conditions-in-high-traffic-e-commerce-systems-481)
+- [Agent Discovery eXchange &lpar;AX&rpar;](https://dev.to/pseudyx/agent-discovery-exchange-ax-148o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
