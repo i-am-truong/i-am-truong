@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Lab 03-01: When Malware Fights Back — Analyzing Poison Ivy&#39;s Anti-VM Evasion](https://dev.to/ramadhanadam/lab-03-01-when-malware-fights-back-analyzing-poison-ivys-anti-vm-evasion-ci5)
-- [SJF4J in 5 Minutes: A Practical JSON Facade for Java](https://dev.to/hannyu/sjf4j-in-5-minutes-a-practical-json-facade-for-java-j73)
-- [Suffering = Pain * Resistance &lpar;and the Role of Self-Compassion&rpar;](https://dev.to/munyoki_kilyungi/suffering-pain-resistance-and-the-role-of-self-compassion-4o2d)
-- [Understanding RASA pipelines](https://dev.to/aniket_kuyate_15acc4e6587/understanding-rasa-pipelines-gii)
-- [Deploy TanStack Start + PostgreSQL to Your Own Server with Haloy](https://dev.to/ameistad/deploy-tanstack-start-postgresql-to-your-own-server-with-haloy-5cda)
+- [Files: Metadata, Headers, and Extensions — How Computers Really Understand Your Data](https://dev.to/cristiansifuentes/files-metadata-headers-and-extensions-how-computers-really-understand-your-data-50en)
+- [I thought plugging in LangSmith would solve agentic AI monitoring](https://dev.to/ailnk0/i-thought-plugging-in-langsmith-would-solve-agentic-ai-monitoring-5fng)
+- [So I&#39;ve been losing my mind over document extraction in insurance for the past few years](https://dev.to/melek_messoussi_651bf64f4/so-ive-been-losing-my-mind-over-document-extraction-in-insurance-for-the-past-few-years-16pn)
+- [Developer Toolkit Pro](https://dev.to/zntb/developer-toolkit-pro-5db2)
+- [Permissions, Process Levels, and Execution Privileges](https://dev.to/cristiansifuentes/permissions-process-levels-and-execution-privileges-21pa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
