@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Practical Roadmap to AI-Driven Testing](https://dev.to/unais_shahid/a-practical-roadmap-to-ai-driven-testing-2101)
-- [Stop Pasting Secrets into AI Chat - Use AI-Safe Credentials Instead](https://dev.to/forest6511_23bcd0a045b1ff/stop-pasting-secrets-into-ai-chat-use-ai-safe-credentials-instead-3h6h)
-- [Why Most Telecom APIs Fail Before the First Developer Uses Them](https://dev.to/telcoedgeinc/why-most-telecom-apis-fail-before-the-first-developer-uses-them-5634)
-- [I Tested GLM-4.7 for Two Weeks—Here&#39;s What Actually Matters](https://dev.to/sohails07/i-tested-glm-47-for-two-weeks-heres-what-actually-matters-37ld)
-- [SitecoreAI Scheduled Tasks - Getting PowerShell Working Right](https://dev.to/kmac23va/sitecoreai-scheduled-tasks-getting-powershell-working-right-3lg0)
+- [Getting Started with Flask: A Lightweight Web Framework for Python](https://dev.to/techkene/getting-started-with-flask-a-lightweight-web-framework-for-python-17k6)
+- [Back to Basics: What Every C# Developer Should Know &lpar;But Often Forgets&rpar;](https://dev.to/v2prof/back-to-basics-what-every-c-developer-should-know-but-often-forgets-41km)
+- [Understanding Python Virtual Environments: Why Every Python Developer Needs Them](https://dev.to/techkene/understanding-python-virtual-environments-why-every-python-developer-needs-them-54g4)
+- [Chunking, Batching &amp; Indexing: The Hidden Costs of RAG Systems](https://dev.to/parth_sarthisharma_105e7/chunking-batching-indexing-the-hidden-costs-of-rag-systems-2cdo)
+- [Stop Scattering Your Business Logic: Meet Masterly.BusinessRules for .NET](https://dev.to/a7mdfre7at/stop-scattering-your-business-logic-meet-masterlybusinessrules-for-net-4g8l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
