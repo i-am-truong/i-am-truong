@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Leaflet Location Picker with Address Autocomplete, Geolocation, and Draggable Pin with Geoapify](https://dev.to/geoapify-maps-api/leaflet-location-picker-with-address-autocomplete-geolocation-and-draggable-pin-with-geoapify-1gfa)
-- [When Clients &amp; Students Ask Is Web Development Dead?](https://dev.to/jamal_ahmad_1f68678ca8253/when-clients-students-ask-is-web-development-dead-ng0)
-- [SVAR Gantt 2.4: A Free, Modern Gantt Chart for React &amp; Svelte](https://dev.to/olga_tash/svar-gantt-24-a-free-modern-gantt-chart-for-react-svelte-2e07)
-- [Solidity Basics &lpar;Part 2&rpar; — Arrays, Mappings &amp; Structs &lpar;Upgrading the Web3 Journey Logger&rpar;](https://dev.to/ribhavmodi/solidity-basics-part-2-arrays-mappings-structs-upgrading-the-web3-journey-logger-n4d)
-- [I built a residential management system to fix manual estate management in Nigeria](https://dev.to/naijasolutions/i-built-a-residential-management-system-to-fix-manual-estate-management-in-nigeria-2334)
+- [Bridging the Gap: Why Every Modern Training Program Needs a Business Simulation Component](https://dev.to/simulationstrategist223/bridging-the-gap-why-every-modern-training-program-needs-a-business-simulation-component-2498)
+- [Experience Authentic Lebanese Mezze and Grilled Delights](https://dev.to/eden_molle_2e2f1ee1e56cac/experience-authentic-lebanese-mezze-and-grilled-delights-5ecd)
+- [I Built FoxyFy — A Modern, Performance-First Web Platform](https://dev.to/atec-systems/i-built-foxyfy-a-modern-performance-first-web-platform-58ll)
+- [What Happened When I Let AI Handle My Debugging Sessions](https://dev.to/rohit_gavali_0c2ad84fe4e0/what-happened-when-i-let-ai-handle-my-debugging-sessions-4ekc)
+- [Proxy State in React: What It Is and How It Differs from useState](https://dev.to/muhammed_fayazts_e35676/proxy-state-in-react-what-it-is-and-how-it-differs-from-usestate-57mo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
