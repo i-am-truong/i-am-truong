@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Turning React/TypeScript Codebases Into Deterministic AI Context - End to End](https://dev.to/amitek/turning-reacttypescript-codebases-into-deterministic-ai-context-end-to-end-1hmi)
+- [AlgoExpert vs AlgoMonster: Don&#39;t Buy the Wrong One &lpar;2026&rpar;](https://dev.to/alex_hunter_44f4c9ed6671e/algoexpert-vs-algomonster-dont-buy-the-wrong-one-2026-4pjn)
+- [The Developer&#39;s Guide to System Languages: C++, Java, C#, Rust &amp; Go](https://dev.to/javadinteger/-the-developers-guide-to-system-languages-c-java-c-rust-go-4i5c)
+- [THE SKETCH](https://dev.to/lisa_girlinghouse_5124a19/the-sketch-47o6)
 - [Advice to Junior–Mid Level Engineers: Reality of the Job Market Today](https://dev.to/walosha/advice-to-junior-mid-level-engineers-reality-of-the-job-market-today-437h)
-- [Voice Tech Trends: Beyond Alexa and Siri – Part 1](https://dev.to/adnan_arif_14ae4bc014267f/voice-tech-trends-beyond-alexa-and-siri-part-1-28dl)
-- [Exploring Real-World APIs with DataBlock](https://dev.to/robertobutti/exploring-real-world-apis-with-datablock-459i)
-- [What is Redis and Why to Use Redis?](https://dev.to/joypalumbo/what-is-redis-and-why-to-use-redis-4193)
-- [Why .dev, .app, .page &lpar;and 40+ Other TLDs&rpar; Don&#39;t Respond to WHOIS](https://dev.to/p12se/why-dev-app-page-and-40-other-tlds-dont-respond-to-whois-53n8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
