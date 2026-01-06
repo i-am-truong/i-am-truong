@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [About This Documentation Infrastructure](https://dev.to/bbos/about-this-documentation-infrastructure-4b7m)
+- [SRDD &lpar;Part 4 of 4&rpar; - Scaling Up - SSRDD, Principles, and Implementation](https://dev.to/bbos/srdd-part-4-of-4-scaling-up-ssrdd-principles-and-implementation-1ojb)
 - [SRDD &lpar;Part 3 of 4&rpar; - The SRDD Workflow](https://dev.to/bbos/srdd-part-3-of-4-the-srdd-workflow-3hn3)
 - [SRDD &lpar;Part 2 of 4&rpar; - The AI Coding Landscape](https://dev.to/bbos/srdd-part-2-of-4-the-ai-coding-landscape-16p4)
 - [Mastering the Linux Terminal: A Developer&#39;s Guide to Filesystem Navigation](https://dev.to/kurdistan_linux_lab/mastering-the-linux-terminal-a-developers-guide-to-filesystem-navigation-4jo1)
-- [Using Bitmasks for Role-Based Permissions: Stop Querying Your Database](https://dev.to/digitaldrreamer/using-bitmasks-for-role-based-permissions-stop-querying-your-database-34pn)
-- [Bitmask Operations: The Math You Skipped &lpar;And Why It Matters&rpar;](https://dev.to/digitaldrreamer/bitmask-operations-the-math-you-skipped-and-why-it-matters-5gp2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
