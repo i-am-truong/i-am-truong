@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why We Chose to Focus on Rental Apartments First &lpar;While Still Building a Multi-Category Marketplace&rpar;](https://dev.to/cengiz_zaylan_baf3ecdfb/why-we-chose-to-focus-on-rental-apartments-first-while-still-building-a-multi-category-marketplace-57f)
-- [Facebook Grupları Neden Kırık Bir Ürün ve Biz Bu Sorunu Nasıl Dar Bir Odakla Çözmeye Çalışıyoruz?](https://dev.to/cengiz_zaylan_baf3ecdfb/facebook-gruplari-neden-kirik-bir-urun-ve-biz-bu-sorunu-nasil-dar-bir-odakla-cozmeye-calisiyoruz-508d)
-- [🛠 Fixing `Undefined property: TwilioSmsMessage::$contentVariables` in Laravel &lpar;Twilio Notifications&rpar;](https://dev.to/ayowandeapp/fixing-undefined-property-twiliosmsmessagecontentvariables-in-laravel-twilio-notifications-13k4)
-- [We built a travel journal app while working jobs we hate](https://dev.to/tripmemo/we-built-a-travel-journal-app-while-working-jobs-we-hate-2ooe)
-- [AI Trading Daily Report: January 06, 2026 | $+101,272.24](https://dev.to/igorganapolsky/ai-trading-daily-report-january-06-2026-10127224-4o14)
+- [Day 7 of 100](https://dev.to/palakhirave/day-7-of-100-4hn2)
+- [The Java PDF Table Extraction Library You’ve Been Waiting For..](https://dev.to/mehulimukherjee/the-java-pdf-table-extraction-library-youve-been-waiting-for-4khh)
+- [project canary strategy in deployment](https://dev.to/jumptotech/project-canary-strategy-in-deployment-1ocf)
+- [Backpressure in JavaScript: The Hidden Force Behind Streams, Fetch, and Async Code](https://dev.to/gkoos/backpressure-in-javascript-the-hidden-force-behind-streams-fetch-and-async-code-3og5)
+- [Understanding How ChatGPT Produces Human-Like Responses](https://dev.to/wmdn9116/understanding-how-chatgpt-produces-human-like-responses-156a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
