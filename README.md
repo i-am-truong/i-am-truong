@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Debug de Objetos com ToStringBuilder e Logger](https://dev.to/edivan/debug-de-objetos-com-tostringbuilder-e-logger-586p)
-- [Bringing RLM to TypeScript: Building rllm](https://dev.to/nitay_rabinovich_d7cc35f5/bringing-rlm-to-typescript-building-rllm-20p8)
-- [Modularização em Arquitetura de Software: Guia Prático para Desenvolvedores](https://dev.to/wagnernegrao/modularizacao-em-arquitetura-de-software-guia-pratico-para-desenvolvedores-1mbm)
-- [Marmot: Data catalog without the complex infrastructure](https://dev.to/charliehaley/marmot-data-catalog-without-the-complex-infrastructure-23m6)
-- [Tutorial: Integrating Your Game with the Dawn Protocol SDK](https://dev.to/helena_chandler_da00f81a3/tutorial-integrating-your-game-with-the-dawn-protocol-sdk-4ki2)
+- [Lab 03-01: When Malware Fights Back — Analyzing Poison Ivy&#39;s Anti-VM Evasion](https://dev.to/ramadhanadam/lab-03-01-when-malware-fights-back-analyzing-poison-ivys-anti-vm-evasion-ci5)
+- [SJF4J in 5 Minutes: A Practical JSON Facade for Java](https://dev.to/hannyu/sjf4j-in-5-minutes-a-practical-json-facade-for-java-j73)
+- [Suffering = Pain * Resistance &lpar;and the Role of Self-Compassion&rpar;](https://dev.to/munyoki_kilyungi/suffering-pain-resistance-and-the-role-of-self-compassion-4o2d)
+- [Understanding RASA pipelines](https://dev.to/aniket_kuyate_15acc4e6587/understanding-rasa-pipelines-gii)
+- [Deploy TanStack Start + PostgreSQL to Your Own Server with Haloy](https://dev.to/ameistad/deploy-tanstack-start-postgresql-to-your-own-server-with-haloy-5cda)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
