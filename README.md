@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Debugging MCP Tool Calls Sucks: Reticle Is “Wireshark for MCP”](https://dev.to/labtterminal__e9d5d64971/debugging-mcp-tool-calls-sucks-reticle-is-wireshark-for-mcp-1k4)
-- [IaC should be flat &lpar;and small&rpar;](https://dev.to/mikkergimenez/iac-should-be-flat-and-small-2d2m)
-- [Moving FFmpeg to the Browser: How I Saved 100% on Server Costs Using WebAssembly](https://dev.to/baojian_yuan/moving-ffmpeg-to-the-browser-how-i-saved-100-on-server-costs-using-webassembly-4l9f)
-- [I Built a CLI to Capture Website Screenshots From The Terminal](https://dev.to/erik_df43be0db3da3f32f636/i-built-a-cli-to-capture-website-screenshots-from-the-terminal-1km2)
-- [🚀 SchedPay_Free | Open-Source, Docker-Based Appointment &amp; Payment Management System](https://dev.to/yiit_afe017d3f685b7702ca/schedpayfree-open-source-docker-based-appointment-payment-management-system-n95)
+- [Building AI That Doesn&#39;t Lose Its Mind: A Universal Architecture for Stable Memory Systems](https://dev.to/aleksandr_kossarev_e23623/building-ai-that-doesnt-lose-its-mind-a-universal-architecture-for-stable-memory-systems-3naf)
+- [Day 10: Storing Financial Data in DynamoDB with Python &lpar;Boto3&rpar;.](https://dev.to/ericrodriguez10/day-10-storing-financial-data-in-dynamodb-with-python-boto3-5bgg)
+- [How the Android Boot Process Works on Embedded SBCs](https://dev.to/jasonliu112/how-the-android-boot-process-works-on-embedded-sbcs-24c2)
+- [AI Democratization Killing Strategic Advantage: Fix It Now](https://dev.to/dr_hernani_costa/ai-democratization-killing-strategic-advantage-fix-it-now-4b81)
+- [Monetzly: The Future of AI Monetization for LLM Apps](https://dev.to/monetzly/monetzly-the-future-of-ai-monetization-for-llm-apps-4k93)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
