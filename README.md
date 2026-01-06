@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Migrated 100 WordPress Posts to Lovable in 2 Days &lpar;And Kept My SEO&rpar;](https://dev.to/y-takashi/i-migrated-100-wordpress-posts-to-lovable-in-2-days-and-kept-my-seo-250m)
-- [Identify AWS Storage Services](https://dev.to/aws-builders/identify-aws-storage-services-gin)
-- [Why AI Visibility Isn’t Enough in Enterprise Systems](https://dev.to/sip_mjb/why-ai-visibility-isnt-enough-in-enterprise-systems-3agh)
-- [The Hidden AI Risk No One Can Measure: What If We Never Know It’s Conscious?](https://dev.to/aiwithapex/the-hidden-ai-risk-no-one-can-measure-what-if-we-never-know-its-conscious-3fog)
-- [Dealcheck Coupon Code : &lpar;ARCH30&rpar; Flat 20% Discount On Subscription Plan](https://dev.to/referralcode23/dealcheck-coupon-code-arch30-flat-20-discount-on-subscription-plan-5130)
+- [The Best Alternative Data Providers in 2026: A Deep Dive into Data Provenance](https://dev.to/luisgustvo/the-best-alternative-data-providers-in-2026-a-deep-dive-into-data-provenance-jl7)
+- [Unveiling Symfony 7.4: A New Era for Media Validation and DX](https://dev.to/mattleads/unveiling-symfony-74-a-new-era-for-media-validation-and-dx-4459)
+- [Why Traditional DevOps Stops Scaling](https://dev.to/sreekanth_kuruba_91721e5d/why-traditional-devops-stops-scaling-1im)
+- [ClovaLink — Enterprise File Storage without the price tag](https://dev.to/dotdon/clovalink-enterprise-file-storage-without-the-price-tag-40gk)
+- [Problem 8: Count Vowels](https://dev.to/highcenburg/problem-8-count-vowels-p7l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
