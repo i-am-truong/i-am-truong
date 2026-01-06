@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop writing invisible &quot;Glue Code&quot;: Why I use N8N to orchestrate Python Microservices](https://dev.to/suryaelz/stop-writing-invisible-glue-code-why-i-use-n8n-to-orchestrate-python-microservices-108l)
-- [Tutorial: Building a Flight Tracking Node with Wingbits and SDR](https://dev.to/helena_chandler_da00f81a3/tutorial-building-a-flight-tracking-node-with-wingbits-and-sdr-352j)
-- [Apache Data Lakehouse Weekly: December 30, 2025 – January 5, 2026](https://dev.to/alexmercedcoder/apache-data-lakehouse-weekly-december-30-2025-january-5-2026-3kp)
-- [OpenAI Pulse 2025: Pro Features for SME Productivity](https://dev.to/dr_hernani_costa/openai-pulse-2025-pro-features-for-sme-productivity-odi)
-- [Making Data Workflows Work: AI-Driven Automation for Reliable Enterprise Pipelines](https://dev.to/arbisoftcompany/making-data-workflows-work-ai-driven-automation-for-reliable-enterprise-pipelines-3752)
+- [Modularização em Arquitetura de Software: Guia Prático para Desenvolvedores](https://dev.to/wagnernegrao/modularizacao-em-arquitetura-de-software-guia-pratico-para-desenvolvedores-1mbm)
+- [Marmot: Data catalog without the complex infrastructure](https://dev.to/charliehaley/marmot-data-catalog-without-the-complex-infrastructure-23m6)
+- [Tutorial: Integrating Your Game with the Dawn Protocol SDK](https://dev.to/helena_chandler_da00f81a3/tutorial-integrating-your-game-with-the-dawn-protocol-sdk-4ki2)
+- [SENTINEL Platform — Complete AI Security Toolkit &lpar;2026 Update Log&rpar;](https://dev.to/dmitry_labintcev_9e611e04/sentinel-platform-complete-ai-security-toolkit-2026-update-log-ca7)
+- [Why is XLang an innovative programming language?](https://dev.to/canonical/why-is-xlang-an-innovative-programming-language-5fja)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
