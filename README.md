@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [An open-source, HIPAA-eligible Twilio alternative](https://dev.to/alxwlcx/an-open-source-hipaa-eligible-twilio-alternative-33mf)
+- [Escalation Rules for Agents: Ask vs Refuse vs Unknown &lpar;Scope is a contract, not a vibe&rpar;](https://dev.to/dowhatmatters/escalation-rules-for-agents-ask-vs-refuse-vs-unknown-scope-is-a-contract-not-a-vibe-4gj6)
 - [Essential RSS Feeds for Mobile Developers](https://dev.to/markkazakov/essential-rss-feeds-for-mobile-developers-4fgg)
 - [System Design : Calendar App](https://dev.to/shalini_goyall_01f98891cf/system-design-calendar-app-1lii)
 - [How to Tell if a YouTube Video is a Scam in 2026: The Complete Guide](https://dev.to/nyanguno/how-to-tell-if-a-youtube-video-is-a-scam-in-2026-the-complete-guide-17do)
-- [Grab a seat at our Bonfire: the revolutionary community platform](https://dev.to/reubenwalker64/grab-a-seat-at-our-bonfire-the-revolutionary-community-platform-327b)
-- [I created an API with real-time economic calendar for trading bots](https://dev.to/marc_piatkowski_72bbec150/i-created-an-api-with-real-time-economic-calendar-for-trading-bots-46jj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
