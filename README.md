@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Production-Grade RAFT Consensus Implementation](https://dev.to/sudharshan06/building-a-production-grade-raft-consensus-implementation-4k3n)
-- [When Generated Tests Pass but Don&#39;t Protect: a case study in AI-written unit tests](https://dev.to/sofiabennett84/when-generated-tests-pass-but-dont-protect-a-case-study-in-ai-written-unit-tests-51fb)
-- [Passkey Login &amp; Smart Wallet Creation on Solana with Next.js and LazorKit — No More Seed Phrases!](https://dev.to/xavier_script/passkey-login-smart-wallet-creation-on-solana-with-nextjs-and-lazorkit-no-more-seed-phrases-1mbp)
-- [Cześć! Startuję z dev.to – kim jestem i co tu będę robić](https://dev.to/wiolettadziedzic/czesc-startuje-z-devto-kim-jestem-i-co-tu-bede-robic-g55)
-- [Identify AWS Artificial Intelligence and Machine Learning &lpar;AI/ML&rpar; Services And Analytics Services](https://dev.to/aws-builders/identify-aws-artificial-intelligence-and-machine-learning-aiml-servicesand-analytics-services-402n)
+- [Mockmate — TypeScript-first mock data generator](https://dev.to/monokkai/mockmate-typescript-first-mock-data-generator-4emk)
+- [Deploying Machine Learning Applications with Render: A Data Scientist’s Guide](https://dev.to/techkene/deploying-machine-learning-applications-with-render-a-data-scientists-guide-1jhh)
+- [Advanced TypeScript Patterns: Type-Safe Code That Scales](https://dev.to/sepehr/advanced-typescript-patterns-type-safe-code-that-scales-4fhn)
+- [Stateless vs Stateful Services](https://dev.to/speaklouder/stateless-vs-stateful-services-3o7l)
+- [Your Time Machine for Code: Double Esc to Rewind When Things Go Wrong](https://dev.to/rajeshroyal/your-time-machine-for-code-double-esc-to-rewind-when-things-go-wrong-53pa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
