@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Production-Grade RAFT Consensus Implementation](https://dev.to/sudharshan06/building-a-production-grade-raft-consensus-implementation-4k3n)
+- [When Generated Tests Pass but Don&#39;t Protect: a case study in AI-written unit tests](https://dev.to/sofiabennett84/when-generated-tests-pass-but-dont-protect-a-case-study-in-ai-written-unit-tests-51fb)
+- [Passkey Login &amp; Smart Wallet Creation on Solana with Next.js and LazorKit — No More Seed Phrases!](https://dev.to/xavier_script/passkey-login-smart-wallet-creation-on-solana-with-nextjs-and-lazorkit-no-more-seed-phrases-1mbp)
 - [Cześć! Startuję z dev.to – kim jestem i co tu będę robić](https://dev.to/wiolettadziedzic/czesc-startuje-z-devto-kim-jestem-i-co-tu-bede-robic-g55)
 - [Identify AWS Artificial Intelligence and Machine Learning &lpar;AI/ML&rpar; Services And Analytics Services](https://dev.to/aws-builders/identify-aws-artificial-intelligence-and-machine-learning-aiml-servicesand-analytics-services-402n)
-- [Working with Multiple Databases, Transactions, and SQLite Internals](https://dev.to/lovestaco/working-with-multiple-databases-transactions-and-sqlite-internals-2254)
-- [Day 11: Invoking Amazon Titan from AWS Lambda &lpar;Serverless GenAI&rpar;.](https://dev.to/ericrodriguez10/day-11-invoking-amazon-titan-from-aws-lambda-serverless-genai-6p5)
-- [How People Actually Use AI: Insights from 100 Trillion Tokens](https://dev.to/claudiuspapirus/how-people-actually-use-ai-insights-from-100-trillion-tokens-1dkf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
