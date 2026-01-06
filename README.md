@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Coding Challenge Practice - Question 96](https://dev.to/tomivan/coding-challenge-practice-question-96-32dm)
-- [AI-generated code will choke delivery pipelines](https://dev.to/srvaroa/ai-generated-code-will-choke-delivery-pipelines-3pnn)
-- [Maps are easy. Map UIs are not.](https://dev.to/kaustubh-420/maps-are-easy-map-uis-are-not-2of1)
-- [Handmade Cellular Automata](https://dev.to/omar4ur/handmade-cellular-automata-1f3c)
-- [canary vs rolling update](https://dev.to/jumptotech/canary-vs-rolling-update-2dea)
+- [Stop Building Stale RAG: Meet Sentinel, the &quot;Self-Healing&quot; Knowledge Graph](https://dev.to/om_kawale_b6627244a50e4b6/stop-building-stale-rag-meet-sentinel-the-self-healing-knowledge-graph-25hl)
+- [The 2026 DevOps Roadmap: What to Learn &lpar;and What to Skip&rpar;](https://dev.to/meena_nukala/the-2026-devops-roadmap-what-to-learn-and-what-to-skip-57g7)
+- [Como Interceptar Notificações no Android com OneSignal](https://dev.to/henriquepablo/como-interceptar-notificacoes-no-android-com-onesignal-35nk)
+- [Build Web Components with React using R2WC &lpar;react-to-web-component&rpar;](https://dev.to/blamsa0mine/build-web-components-with-react-using-r2wc-react-to-web-component-2klh)
+- [Learning Gradient Descent for Machine Learning with a Simple Python Example](https://dev.to/rijultp/learning-gradient-descent-for-machine-learning-with-a-simple-python-example-1lc1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
