@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Flask: A Lightweight Web Framework for Python](https://dev.to/techkene/getting-started-with-flask-a-lightweight-web-framework-for-python-17k6)
-- [Back to Basics: What Every C# Developer Should Know &lpar;But Often Forgets&rpar;](https://dev.to/v2prof/back-to-basics-what-every-c-developer-should-know-but-often-forgets-41km)
-- [Understanding Python Virtual Environments: Why Every Python Developer Needs Them](https://dev.to/techkene/understanding-python-virtual-environments-why-every-python-developer-needs-them-54g4)
-- [Chunking, Batching &amp; Indexing: The Hidden Costs of RAG Systems](https://dev.to/parth_sarthisharma_105e7/chunking-batching-indexing-the-hidden-costs-of-rag-systems-2cdo)
-- [Stop Scattering Your Business Logic: Meet Masterly.BusinessRules for .NET](https://dev.to/a7mdfre7at/stop-scattering-your-business-logic-meet-masterlybusinessrules-for-net-4g8l)
+- [We built a travel journal app while working jobs we hate](https://dev.to/tripmemo/we-built-a-travel-journal-app-while-working-jobs-we-hate-2ooe)
+- [AI Trading Daily Report: January 06, 2026 | $+101,272.24](https://dev.to/igorganapolsky/ai-trading-daily-report-january-06-2026-10127224-4o14)
+- [Kubernetes 1.35: In-Place Pod Resize is GA — Scale Vertically Without Restarting](https://dev.to/yodev_grego/kubernetes-135-in-place-pod-resize-is-ga-scale-vertically-without-restarting-5363)
+- [Formal Semantics as the Missing Control Layer for AI-Assisted Software Engineering](https://dev.to/sven-a-schaefer/formal-semantics-as-the-missing-control-layer-for-ai-assisted-software-engineering-2ked)
+- [MAWA - El lenguaje simple en sintaxis como Python de bajo nivel. Parte 3, Condicionales.](https://dev.to/samuel_leonardo_37aff38b4/mawa-el-lenguaje-simple-en-sintaxis-como-python-de-bajo-nivel-parte-3-condicionales-8m4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
