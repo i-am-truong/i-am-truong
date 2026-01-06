@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Internship Experience and Technical Contributions at Nife Labs](https://dev.to/sampreethhhh/internship-experience-and-technical-contributions-at-nife-labs-jaf)
-- [How to Build a Serverless GraphQL API Using AWS AppSync, Lambda &amp; DynamoDB](https://dev.to/deeppatel0311/how-to-build-a-serverless-graphql-api-using-aws-appsync-lambda-dynamodb-nnp)
-- [The Secret Life of JavaScript: Illusions](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-illusions-1e2m)
-- [5 Small LLMs to Run Locally: Cost &amp; Compliance Guide](https://dev.to/dr_hernani_costa/5-small-llms-to-run-locally-cost-compliance-guide-1lk6)
-- [How Serverless &amp; Community Can Transform Your Career](https://dev.to/aws-builders/how-serverless-community-can-transform-your-career-26h5)
+- [Sutton &amp; Barto Gridworld example in C#](https://dev.to/davide_lettieri_a99c7dd29/sutton-barto-gridworld-example-in-c-3pgn)
+- [Exploiting Unvalidated Redirects for XSS](https://dev.to/this-is-learning/exploiting-unvalidated-redirects-for-xss-ai)
+- [Is Codewars Worth It in 2025? An Honest Review](https://dev.to/alex_hunter_44f4c9ed6671e/is-codewars-worth-it-in-2025-an-honest-review-1jj3)
+- [Scalable Architecture Principles: 9 Rules That Survive Real Load](https://dev.to/danielrfoster/scalable-architecture-principles-9-rules-that-survive-real-load-2ddp)
+- [How Telecom Systems Are Becoming Self-Operating](https://dev.to/rishabhsharma123/how-telecom-systems-are-becoming-self-operating-3g5i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
