@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [yarn pnp 세팅하기](https://dev.to/algoorgoal/yarn-pnp-setinghagi-2dgg)
-- [Why I Built mlship: One Tool for All ML Frameworks](https://dev.to/peshwar/why-i-built-mlship-one-tool-for-all-ml-frameworks-222k)
-- [Trial License Implementation Patterns in C#: A Technical Deep Dive](https://dev.to/olivier_moussalli_e3492f5/trial-license-implementation-patterns-in-c-a-technical-deep-dive-338l)
-- [The Freak Circus Wiki](https://dev.to/tink_f24ac43d8ab18e4e7908/the-freak-circus-wiki-dk)
-- [Introducing CensorCore | JavaScript Language Censoring Library](https://dev.to/derrickrichard/introducing-censorcore-javascript-language-censoring-library-12me)
+- [When a Model Gets Stuck: How GPT‑5.2 Finished a &#39;Simple&#39; Spinner That Opus 4.5 Couldn&#39;t](https://dev.to/vmayorskiyac/when-a-model-gets-stuck-how-gpt-52-finished-a-simple-spinner-that-opus-45-couldnt-1o6p)
+- [Error Console - The new salesforce debugging tool](https://dev.to/tanweermuhd/error-console-the-new-salesforce-debugging-tool-7fd)
+- [xml basics](https://dev.to/bitterhurts_9945eec07b064/xml-basics-2eg6)
+- [How to Negotiate Your Software Developer Salary in 2026 &lpar;Without Losing the Offer&rpar;](https://dev.to/resumemind/how-to-negotiate-your-software-developer-salary-in-2026-without-losing-the-offer-57gm)
+- [Genesis Engine: Self-Evolution Log 001 - Apotheosis of the Hybrid Model](https://dev.to/sunhimuka1/genesis-engine-self-evolution-log-001-apotheosis-of-the-hybrid-model-236d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
