@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why AI-Generated Code Feels Weird](https://dev.to/unknown_destroyer_f353870/why-ai-generated-code-feels-weird-1bd2)
+- [New Year, New Habits: My 2026 Plan](https://dev.to/theoriginalbpc/new-year-new-habits-my-2026-plan-4cgc)
+- [Reflections on Upgrading to THE Architecture in React Native and the state of community](https://dev.to/jfojtl/reflections-on-upgrading-to-the-architecture-in-react-native-and-the-state-of-community-35o6)
 - [Rethinking React Architecture at Scale: From Hooks to Remote Contexts](https://dev.to/shantih_palani/rethinking-react-architecture-at-scale-from-hooks-to-remote-contexts-3a8j)
 - [SwiftUI Multi-Platform Architecture &lpar;iOS, iPadOS, macOS, visionOS&rpar;](https://dev.to/sebastienlato/swiftui-multi-platform-architecture-ios-ipados-macos-visionos-1961)
-- [First Mile With Meesho](https://dev.to/saaransh_gupta_1903/first-mile-with-meesho-3mi9)
-- [Solved: Would love feedback on my latest Cloud/FinOps explainer 🙌](https://dev.to/techresolve/solved-would-love-feedback-on-my-latest-cloudfinops-explainer-48jp)
-- [Day 0 &lpar;Planning&rpar;: Building my personal AI assistant that runs locally.](https://dev.to/_prakhar_/day-0-planning-building-my-personal-ai-assistant-that-runs-locally-4c28)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
