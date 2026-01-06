@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Debug de Objetos com ToStringBuilder e Logger](https://dev.to/edivan/debug-de-objetos-com-tostringbuilder-e-logger-586p)
+- [Bringing RLM to TypeScript: Building rllm](https://dev.to/nitay_rabinovich_d7cc35f5/bringing-rlm-to-typescript-building-rllm-20p8)
 - [Modularização em Arquitetura de Software: Guia Prático para Desenvolvedores](https://dev.to/wagnernegrao/modularizacao-em-arquitetura-de-software-guia-pratico-para-desenvolvedores-1mbm)
 - [Marmot: Data catalog without the complex infrastructure](https://dev.to/charliehaley/marmot-data-catalog-without-the-complex-infrastructure-23m6)
 - [Tutorial: Integrating Your Game with the Dawn Protocol SDK](https://dev.to/helena_chandler_da00f81a3/tutorial-integrating-your-game-with-the-dawn-protocol-sdk-4ki2)
-- [SENTINEL Platform — Complete AI Security Toolkit &lpar;2026 Update Log&rpar;](https://dev.to/dmitry_labintcev_9e611e04/sentinel-platform-complete-ai-security-toolkit-2026-update-log-ca7)
-- [Why is XLang an innovative programming language?](https://dev.to/canonical/why-is-xlang-an-innovative-programming-language-5fja)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
