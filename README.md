@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Master Data Governance: Redefining SAP Data Quality and Control](https://dev.to/simplemdg2025/ai-master-data-governance-redefining-sap-data-quality-and-control-31j0)
-- [Mavigadget Discount Code &quot;ASHISHKUMAR134&quot; Get 5% Off on All Products!](https://dev.to/referralcode233/mavigadget-discount-code-ashishkumar134-get-5-off-on-all-products-10o3)
-- [Standard Resistor Values: A Little Prince’s Guide to E-Series Magic](https://dev.to/ersajay/standard-resistor-values-a-little-princes-guide-to-e-series-magic-4ngd)
-- [CSS-only Mario World &lpar;with keyboard!&rpar;](https://dev.to/nelson_deneiva_40efb3bba/css-only-mario-world-with-keyboard-3nbd)
-- [Solved: Recommendations on Hosting Platform, Realtor website](https://dev.to/techresolve/solved-recommendations-on-hosting-platform-realtor-website-2nhi)
+- [Is “Hiding” Your WordPress Login and Common Paths a Smart Security Move?](https://dev.to/cifi/is-hiding-your-wordpress-login-and-common-paths-a-smart-security-move-4o93)
+- [WTF is Causal Machine Learning Engineering?](https://dev.to/dailybugle33/wtf-is-causal-machine-learning-engineering-9ma)
+- [Emergent Coupon Code “AKV” Get 20% Off On all Oders](https://dev.to/referralcode24/emergent-coupon-code-akv-get-20-off-on-all-oders-12cf)
+- [Building Collapsible Components with Melt UI in Svelte](https://dev.to/xchainviskor/building-collapsible-components-with-melt-ui-in-svelte-mb3)
+- [Beforesunset Promo Code “AVA” Get 25% Off On All Plans](https://dev.to/referralcode24/beforesunset-promo-code-ava-get-25-off-on-all-plans-285f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
