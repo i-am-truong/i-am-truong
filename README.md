@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [An open-source, HIPAA-eligible Twilio alternative](https://dev.to/alxwlcx/an-open-source-hipaa-eligible-twilio-alternative-33mf)
-- [Escalation Rules for Agents: Ask vs Refuse vs Unknown &lpar;Scope is a contract, not a vibe&rpar;](https://dev.to/dowhatmatters/escalation-rules-for-agents-ask-vs-refuse-vs-unknown-scope-is-a-contract-not-a-vibe-4gj6)
-- [Essential RSS Feeds for Mobile Developers](https://dev.to/markkazakov/essential-rss-feeds-for-mobile-developers-4fgg)
-- [System Design : Calendar App](https://dev.to/shalini_goyall_01f98891cf/system-design-calendar-app-1lii)
-- [How to Tell if a YouTube Video is a Scam in 2026: The Complete Guide](https://dev.to/nyanguno/how-to-tell-if-a-youtube-video-is-a-scam-in-2026-the-complete-guide-17do)
+- [Stop Pasting Secrets into AI Chat - Use AI-Safe Credentials Instead](https://dev.to/forest6511_23bcd0a045b1ff/stop-pasting-secrets-into-ai-chat-use-ai-safe-credentials-instead-3h6h)
+- [Why Most Telecom APIs Fail Before the First Developer Uses Them](https://dev.to/telcoedgeinc/why-most-telecom-apis-fail-before-the-first-developer-uses-them-5634)
+- [I Tested GLM-4.7 for Two Weeks—Here&#39;s What Actually Matters](https://dev.to/sohails07/i-tested-glm-47-for-two-weeks-heres-what-actually-matters-37ld)
+- [SitecoreAI Scheduled Tasks - Getting PowerShell Working Right](https://dev.to/kmac23va/sitecoreai-scheduled-tasks-getting-powershell-working-right-3lg0)
+- [Building a Secure Demo Banking App [Part 1]](https://dev.to/blad90/building-a-secure-demo-banking-app-part-1-1amj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
