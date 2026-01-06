@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Web Application Security &amp; XSS Mitigation write up](https://dev.to/alem_djokovic82/web-application-security-xss-mitigation-write-up-35mn)
-- [Developer Spotlight: Suraj Iyer - Apps Script Product Manager](https://dev.to/googleworkspace/developer-spotlight-suraj-iyer-apps-script-product-manager-31gg)
-- [10 Key Checkpoints to Consider When Finalizing a Custom VoIP Provider](https://dev.to/ecosmob_technologies/10-key-checkpoints-to-consider-when-finalizing-a-custom-voip-provider-23al)
-- [My 2026 Tech Stack Is Boring as Hell &lpar;And That Is the Point&rpar;](https://dev.to/daisy_jones_21bdcc6b40f9d/my-2026-tech-stack-is-boring-as-hell-and-that-is-the-point-14m5)
-- [Stop Scraping Yahoo Finance: A Free, No-Key JSON Endpoint for Stock Data](https://dev.to/pocketportfolioapp/stop-scraping-yahoo-finance-a-free-no-key-json-endpoint-for-stock-data-169p)
+- [Stop writing invisible &quot;Glue Code&quot;: Why I use N8N to orchestrate Python Microservices](https://dev.to/suryaelz/stop-writing-invisible-glue-code-why-i-use-n8n-to-orchestrate-python-microservices-108l)
+- [Tutorial: Building a Flight Tracking Node with Wingbits and SDR](https://dev.to/helena_chandler_da00f81a3/tutorial-building-a-flight-tracking-node-with-wingbits-and-sdr-352j)
+- [Apache Data Lakehouse Weekly: December 30, 2025 – January 5, 2026](https://dev.to/alexmercedcoder/apache-data-lakehouse-weekly-december-30-2025-january-5-2026-3kp)
+- [OpenAI Pulse 2025: Pro Features for SME Productivity](https://dev.to/dr_hernani_costa/openai-pulse-2025-pro-features-for-sme-productivity-odi)
+- [Making Data Workflows Work: AI-Driven Automation for Reliable Enterprise Pipelines](https://dev.to/arbisoftcompany/making-data-workflows-work-ai-driven-automation-for-reliable-enterprise-pipelines-3752)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
