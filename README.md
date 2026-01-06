@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Using Bitmasks for Role-Based Permissions: Stop Querying Your Database](https://dev.to/digitaldrreamer/using-bitmasks-for-role-based-permissions-stop-querying-your-database-34pn)
+- [Bitmask Operations: The Math You Skipped &lpar;And Why It Matters&rpar;](https://dev.to/digitaldrreamer/bitmask-operations-the-math-you-skipped-and-why-it-matters-5gp2)
+- [SRDD &lpar;Part 1 of 4&rpar; - The Best AI Coding Methodology](https://dev.to/bbos/srdd-part-1-of-4-the-best-ai-coding-methodology-8fe)
 - [My Experience with Google Antigravity: How I Refactored Easy Kit Utils with AI Agents 🚀](https://dev.to/dvalin99/my-experience-with-google-antigravity-how-i-refactored-easy-kit-utils-with-ai-agents-2e54)
 - [DevLog: Detrás del código #0 - Así empezó todo 🥸](https://dev.to/cba-apredut/devlog-detras-del-codigo-0-asi-empezo-todo-1b0p)
-- [building Drosk - your smart desktop file organizer](https://dev.to/exoad/building-drosk-your-smart-desktop-file-organizer-39p)
-- [Day 7 of 100](https://dev.to/palakhirave/day-7-of-100-4hn2)
-- [KNN Algorithm from Scratch -Cat vs Dog Image Classification in Python &lpar;Complete Experiment&rpar;](https://dev.to/yogender_811605e639001e58/knn-algorithm-from-scratch-cat-vs-dog-image-classification-in-python-complete-experiment-37b1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
