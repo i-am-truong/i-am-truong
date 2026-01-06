@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building AI That Doesn&#39;t Lose Its Mind: A Universal Architecture for Stable Memory Systems](https://dev.to/aleksandr_kossarev_e23623/building-ai-that-doesnt-lose-its-mind-a-universal-architecture-for-stable-memory-systems-3naf)
-- [Day 10: Storing Financial Data in DynamoDB with Python &lpar;Boto3&rpar;.](https://dev.to/ericrodriguez10/day-10-storing-financial-data-in-dynamodb-with-python-boto3-5bgg)
-- [How the Android Boot Process Works on Embedded SBCs](https://dev.to/jasonliu112/how-the-android-boot-process-works-on-embedded-sbcs-24c2)
-- [AI Democratization Killing Strategic Advantage: Fix It Now](https://dev.to/dr_hernani_costa/ai-democratization-killing-strategic-advantage-fix-it-now-4b81)
-- [Monetzly: The Future of AI Monetization for LLM Apps](https://dev.to/monetzly/monetzly-the-future-of-ai-monetization-for-llm-apps-4k93)
+- [mHC [Paper Quick-Reading]](https://dev.to/leochame/mhc-paper-quick-reading-4p1)
+- [Romance Is Dead: Open Source’s Critical Inflection Point and the 14,000,605-to-1 Survival Strategy](https://dev.to/flamehaven01/romance-is-dead-open-sources-critical-inflection-point-and-the-14000605-to-1-survival-strategy-2cm4)
+- [The DevSecOps Pipeline: Security as Code](https://dev.to/outworktech/the-devsecops-pipeline-security-as-code-ce5)
+- [I built a privacy-focused tool to crop images into circles instantly](https://dev.to/kristoff_14e0834b680bea04/i-built-a-privacy-focused-tool-to-crop-images-into-circles-instantly-5447)
+- [Best Free AI YouTube Summarizers for Developers in 2026](https://dev.to/jqueryscript/best-free-ai-youtube-summarizers-for-developers-in-2026-3bnl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
