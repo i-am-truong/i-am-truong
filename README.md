@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My Experience with Google Antigravity: How I Refactored Easy Kit Utils with AI Agents 🚀](https://dev.to/dvalin99/my-experience-with-google-antigravity-how-i-refactored-easy-kit-utils-with-ai-agents-2e54)
+- [DevLog: Detrás del código #0 - Así empezó todo 🥸](https://dev.to/cba-apredut/devlog-detras-del-codigo-0-asi-empezo-todo-1b0p)
+- [building Drosk - your smart desktop file organizer](https://dev.to/exoad/building-drosk-your-smart-desktop-file-organizer-39p)
 - [Day 7 of 100](https://dev.to/palakhirave/day-7-of-100-4hn2)
-- [The Java PDF Table Extraction Library You’ve Been Waiting For..](https://dev.to/mehulimukherjee/the-java-pdf-table-extraction-library-youve-been-waiting-for-4khh)
-- [project canary strategy in deployment](https://dev.to/jumptotech/project-canary-strategy-in-deployment-1ocf)
-- [Backpressure in JavaScript: The Hidden Force Behind Streams, Fetch, and Async Code](https://dev.to/gkoos/backpressure-in-javascript-the-hidden-force-behind-streams-fetch-and-async-code-3og5)
-- [Understanding How ChatGPT Produces Human-Like Responses](https://dev.to/wmdn9116/understanding-how-chatgpt-produces-human-like-responses-156a)
+- [KNN Algorithm from Scratch -Cat vs Dog Image Classification in Python &lpar;Complete Experiment&rpar;](https://dev.to/yogender_811605e639001e58/knn-algorithm-from-scratch-cat-vs-dog-image-classification-in-python-complete-experiment-37b1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
