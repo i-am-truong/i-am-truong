@@ -124,7 +124,7 @@ Python                   1 repo              █░░░░░░░░░░�
 - [Deploying Machine Learning Applications with Render: A Data Scientist’s Guide](https://dev.to/techkene/deploying-machine-learning-applications-with-render-a-data-scientists-guide-1jhh)
 - [Advanced TypeScript Patterns: Type-Safe Code That Scales](https://dev.to/sepehr/advanced-typescript-patterns-type-safe-code-that-scales-4fhn)
 - [Stateless vs Stateful Services](https://dev.to/speaklouder/stateless-vs-stateful-services-3o7l)
-- [Your Time Machine for Code: Double Esc to Rewind When Things Go Wrong](https://dev.to/rajeshroyal/your-time-machine-for-code-double-esc-to-rewind-when-things-go-wrong-53pa)
+- [Google Cloud IAM Spiegato Semplice](https://dev.to/scape/google-cloud-iam-spiegato-semplice-2g7k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
