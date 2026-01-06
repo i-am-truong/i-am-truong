@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Turning React/TypeScript Codebases Into Deterministic AI Context - End to End](https://dev.to/amitek/turning-reacttypescript-codebases-into-deterministic-ai-context-end-to-end-1hmi)
-- [AlgoExpert vs AlgoMonster: Don&#39;t Buy the Wrong One &lpar;2026&rpar;](https://dev.to/alex_hunter_44f4c9ed6671e/algoexpert-vs-algomonster-dont-buy-the-wrong-one-2026-4pjn)
-- [The Developer&#39;s Guide to System Languages: C++, Java, C#, Rust &amp; Go](https://dev.to/javadinteger/-the-developers-guide-to-system-languages-c-java-c-rust-go-4i5c)
-- [THE SKETCH](https://dev.to/lisa_girlinghouse_5124a19/the-sketch-47o6)
-- [Advice to Junior–Mid Level Engineers: Reality of the Job Market Today](https://dev.to/walosha/advice-to-junior-mid-level-engineers-reality-of-the-job-market-today-437h)
+- [Essential RSS Feeds for Mobile Developers](https://dev.to/markkazakov/essential-rss-feeds-for-mobile-developers-4fgg)
+- [System Design : Calendar App](https://dev.to/shalini_goyall_01f98891cf/system-design-calendar-app-1lii)
+- [How to Tell if a YouTube Video is a Scam in 2026: The Complete Guide](https://dev.to/nyanguno/how-to-tell-if-a-youtube-video-is-a-scam-in-2026-the-complete-guide-17do)
+- [Grab a seat at our Bonfire: the revolutionary community platform](https://dev.to/reubenwalker64/grab-a-seat-at-our-bonfire-the-revolutionary-community-platform-327b)
+- [I created an API with real-time economic calendar for trading bots](https://dev.to/marc_piatkowski_72bbec150/i-created-an-api-with-real-time-economic-calendar-for-trading-bots-46jj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
