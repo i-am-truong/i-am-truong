@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Production-Ready Rate Limiter with Redis in NestJS &lpar;Part 2: Multi-Tenant &amp; Plan-Based Logic&rpar;](https://dev.to/justadev/building-a-production-ready-rate-limiter-with-redis-in-nestjs-part-2-multi-tenant-plan-based-50lf)
+- [Anguar Tips #4](https://dev.to/khoanguyen1411/anguar-tips-4-4ghc)
+- [The Product Data Challenge No One Talks About in Multi-Channel Selling](https://dev.to/olivia_20dbd2aa062e456ef8/the-product-data-challenge-no-one-talks-about-in-multi-channel-selling-59b0)
+- [Building a RAM-Only, End-to-End Encrypted Chat for the Terminal &lpar;Python&rpar;](https://dev.to/diorwave/building-a-ram-only-end-to-end-encrypted-chat-for-the-terminal-python-58af)
 - [Identify Services From Other In-Scope AWS Service Categories](https://dev.to/aws-builders/identify-services-from-other-in-scope-aws-service-categories-1ll3)
-- [AI時代に手動APIテストが破綻する理由10選](https://dev.to/nakamura_takuya/aishi-dai-nishou-dong-apitesutogapo-zhan-suruli-you-10xuan-2p6m)
-- [Privacy-First AI Development: Federated Learning and Beyond](https://dev.to/venkatofficial/privacy-first-ai-development-federated-learning-and-beyond-a4j)
-- [Paul E. Yeager, Engineer](https://dev.to/violinkhuba/paul-e-yeager-engineer-2oj5)
-- [2026 New Year Challenge - 5 Projects United Hackathon](https://dev.to/yijun_xu_b7fe5eb3f0427f0a/2026-new-year-challenge-5-projects-united-hackathon-2c97)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
