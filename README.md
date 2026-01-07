@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Working with GitHub Copilot: Custom Instructions &amp; Agents](https://dev.to/arjun_c_615745c0e95e8f459/working-with-github-copilot-custom-instructions-agents-n4f)
+- [Sharpening the Axe: Performing Principal Component Analysis &lpar;PCA&rpar; in R for Modern Machine Learning](https://dev.to/thedatageek/sharpening-the-axe-performing-principal-component-analysis-pca-in-r-for-modern-machine-learning-1ae0)
+- [How to Build Interactive eLearning Simulations: A Technical Guide for Developers](https://dev.to/manishgiri1/how-to-build-interactive-elearning-simulations-a-technical-guide-for-developers-2l9k)
+- [Building a RAG-Powered Documentation Assistant: Why I Used Bifrost LLM Gateway Instead of Direct API Calls](https://dev.to/pranay_batta/building-a-rag-powered-documentation-assistant-why-i-used-bifrost-llm-gateway-instead-of-direct-56b)
 - [How I Cut My AI App Costs by 52% Without Changing a Single Line of Code](https://dev.to/pranay_batta/how-i-cut-my-ai-app-costs-by-52-without-changing-a-single-line-of-code-348j)
-- [2026 Hopes and Goals](https://dev.to/aaronmccollum/2026-hopes-and-goals-6lf)
-- [7 Best Resources to Learn Cloud Computing in 2026](https://dev.to/stack_overflowed/7-best-resources-to-learn-cloud-computing-in-2026-3l63)
-- [Why I Chose Go for Backend Engineering &lpar;Pros, Cons, and Honest Trade-offs&rpar;](https://dev.to/kushalsai/why-i-chose-go-for-backend-engineering-pros-cons-and-honest-trade-offs-jk6)
-- [System Architecture for Startups: Build Fast Without Painting Yourself Into a Corner](https://dev.to/wmdn9116/system-architecture-for-startups-build-fast-without-painting-yourself-into-a-corner-2991)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
