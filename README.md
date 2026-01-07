@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Working with GitHub Copilot: Custom Instructions &amp; Agents](https://dev.to/arjun_c_615745c0e95e8f459/working-with-github-copilot-custom-instructions-agents-n4f)
-- [Sharpening the Axe: Performing Principal Component Analysis &lpar;PCA&rpar; in R for Modern Machine Learning](https://dev.to/thedatageek/sharpening-the-axe-performing-principal-component-analysis-pca-in-r-for-modern-machine-learning-1ae0)
-- [How to Build Interactive eLearning Simulations: A Technical Guide for Developers](https://dev.to/manishgiri1/how-to-build-interactive-elearning-simulations-a-technical-guide-for-developers-2l9k)
-- [Building a RAG-Powered Documentation Assistant: Why I Used Bifrost LLM Gateway Instead of Direct API Calls](https://dev.to/pranay_batta/building-a-rag-powered-documentation-assistant-why-i-used-bifrost-llm-gateway-instead-of-direct-56b)
-- [How I Cut My AI App Costs by 52% Without Changing a Single Line of Code](https://dev.to/pranay_batta/how-i-cut-my-ai-app-costs-by-52-without-changing-a-single-line-of-code-348j)
+- [Claude-Ally-Health: Your Private AI Medical Assistant &amp; Health Data Manager](https://dev.to/beck_moulton/claude-ally-health-your-private-ai-medical-assistant-health-data-manager-17gd)
+- [Why a Modern Master Test Plan is Your Team’s Secret Weapon](https://dev.to/nishikr/why-a-modern-master-test-plan-is-your-teams-secret-weapon-1noj)
+- [Python Multi-Currency Quantitative Strategy Framework: Design Concepts and Implementation Details](https://dev.to/chronosquant/python-multi-currency-quantitative-strategy-framework-design-concepts-and-implementation-details-53eo)
+- [Day 1: The Array Lie &lpar;Arrays vs Pointers in C&rpar;](https://dev.to/ujjawal0711/day-1-the-array-lie-arrays-vs-pointers-in-c-1c89)
+- [How I Decide What NOT to Automate](https://dev.to/nishikr/the-senior-qas-manifesto-how-i-decide-what-not-to-automate-1ofc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
