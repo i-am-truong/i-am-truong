@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Finally, the difference between print&lpar;&rpar; and return just clicked for me](https://dev.to/wassim_touir/finally-the-difference-between-print-and-return-just-clicked-for-me-3kgb)
-- [ZinTrust: a TypeScript backend framework for structure without decorators](https://dev.to/zintrustjs/zintrust-a-typescript-backend-framework-for-structure-without-decorators-198n)
-- [Teaching my computer to invent names](https://dev.to/palash90/teaching-my-computer-to-invent-names-29d1)
-- [Privacy Without Anonymity: Why ZK-Enabled Programmable Payments Will Define Blockchain&#39;s Next Era](https://dev.to/roan911/privacy-without-anonymity-why-zk-enabled-programmable-payments-will-define-blockchains-next-era-49fk)
-- [This is what I learned from vibe-coding five browser games](https://dev.to/sebhoek/this-is-what-i-learned-from-vibe-coding-five-browser-games-gmp)
+- [Cipher Maps: When Category Theory Meets Oblivious Computing](https://dev.to/queelius/cipher-maps-when-category-theory-meets-oblivious-computing-3of9)
+- [Why Gender Equality Matters for Economic and Social Development](https://dev.to/niyatul_kb_985e325ad8248f/why-gender-equality-matters-for-economic-and-social-development-34c0)
+- [Learning SQL in Practice: LeetCode Challenges and Setting Up PostgreSQL](https://dev.to/mazinocodes/learning-sql-in-practice-leetcode-challenges-and-setting-up-postgresql-5a51)
+- [Why Memory Poisoning is the New Frontier in AI Security](https://dev.to/alessandro_pignati/why-memory-poisoning-is-the-new-frontier-in-ai-security-1a2e)
+- [Computed Fields Causing Infinite Recomputations &lpar;odoo&rpar;](https://dev.to/aaron_jones_d34b57d1b44ba/computed-fields-causing-infinite-recomputations-odoo-1556)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
