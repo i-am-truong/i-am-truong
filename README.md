@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Moving Beyond O&lpar;N^2 log N&rpar; for Weighted Random Sorting](https://dev.to/gigaherz/moving-beyond-on2-log-n-for-weighted-random-sorting-2hc9)
-- [Passkey Login &amp; Smart Wallet Creation on Solana with React Native and LazorKit — No More Seed Phrases!](https://dev.to/xavier_script/passkey-login-smart-wallet-creation-on-solana-with-react-native-and-lazorkit-no-more-seed-49gk)
-- [Educative vs AlgoMonster: I Compared Both for 30 Days &lpar;2026&rpar;](https://dev.to/alex_hunter_44f4c9ed6671e/educative-vs-algomonster-i-compared-both-for-30-days-2026-4089)
-- [Full-Stack Development in 2026](https://dev.to/cyrustse/full-stack-development-in-2026-5c46)
-- [Transforming Customer Queries into Conversions with LLM-Powered Search](https://dev.to/sciforce/transforming-customer-queries-into-conversions-with-llm-powered-search-2khk)
+- [I built a Mint Green Light Theme for IDEAs &lpar;still beta&rpar;](https://dev.to/ingosteinke/i-built-a-mint-green-light-theme-for-ideas-still-beta-4koi)
+- [C#.NET - day 05](https://dev.to/sabin_sim/cnet-day-05-24e)
+- [Open Mercato FAQ](https://dev.to/tkarwatka/open-mercato-faq-31b5)
+- [AWS re:Invent 2025: 3 Announcements That Matter for Your Architecture](https://dev.to/hoangleitvn/aws-reinvent-2025-3-announcements-that-matter-for-your-architecture-31m4)
+- [DevOps / DevSecOps Engineer looking for opportunities &lpar;Kubernetes, RKE2, CI/CD&rpar;](https://dev.to/philip31si/devops-devsecops-engineer-looking-for-opportunities-kubernetes-rke2-cicd-2mdc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
