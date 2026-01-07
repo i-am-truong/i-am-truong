@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a JSON diff tool in a single HTML file &lpar;no build step&rpar;](https://dev.to/jon_za/i-built-a-json-diff-tool-in-a-single-html-file-no-build-step-1438)
-- [I Built an AI Creative Director: Automating FB Ad Gen with GPT-4o Vision &amp; Structured Outputs](https://dev.to/iloven8n/i-built-an-ai-creative-director-automating-fb-ad-gen-with-gpt-4o-vision-structured-outputs-4g5c)
-- [How I Finally Learned What Was Inside My Music &lpar;Without Re-Recording Everything&rpar;](https://dev.to/thi_ngocnguyen_877eb37e4/how-i-finally-learned-what-was-inside-my-music-without-re-recording-everything-3i3k)
-- [Preventable Danger in Plain Sight: Gabriel Jarret Calls for Fire Safety Reform in Southern California Rentals](https://dev.to/gabrieljarret/preventable-danger-in-plain-sight-gabriel-jarret-calls-for-fire-safety-reform-in-southern-14ep)
-- [LeetCode DSA Series #6: 268. Missing Number](https://dev.to/daveson217/leetcode-dsa-series-6-268-missing-number-15g7)
+- [ty: The Blazingly Fast Python Type Checker from Astral &lpar;Ruff &amp; uv Creators&rpar;](https://dev.to/toyama0919/ty-the-blazingly-fast-python-type-checker-from-astral-ruff-uv-creators-5bd)
+- [LangChain &amp; Building AI Agents: What I Learned and Created Along The Way](https://dev.to/eriperspective/langchain-building-ai-agents-what-i-learned-and-created-along-the-way-278c)
+- [React Isn’t the Hard Part, Designing for Change Is](https://dev.to/wmdn9116/react-isnt-the-hard-part-designing-for-change-is-39d7)
+- [Building a Centralized, Type-Safe Modal System in Next.js](https://dev.to/amoolkk/building-a-centralized-type-safe-modal-system-in-nextjs-312i)
+- [Why Detection Lost: Building Cryptographic Provenance for the Synthetic Media Crisis](https://dev.to/veritaschain/why-detection-lost-building-cryptographic-provenance-for-the-synthetic-media-crisis-746)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
