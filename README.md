@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Deploy Your Web App with AWS Elastic Beanstalk](https://dev.to/ojosamuel129/how-to-deploy-your-web-app-with-aws-elastic-beanstalk-35n1)
+- [OpenLens Cannot Connect to AWS EKS Cluster: executable aws not found](https://dev.to/camille_chang/openlens-cannot-connect-to-aws-eks-cluster-e8i)
 - [I built a permanent text wall. Someone is already stuck in Vim.](https://dev.to/zenomhunter123/i-built-a-permanent-text-wall-someone-is-already-stuck-in-vim-3h1m)
 - [Day Three with SQL: Inserting Data, Querying Smarter, and Working with Real Datasets](https://dev.to/mazinocodes/day-three-with-sql-inserting-data-querying-smarter-and-working-with-real-datasets-2l3n)
-- [Everyone&#39;s Generating Videos; I Calculated What AI Video Actually Costs in 2026](https://dev.to/toryreut/everyones-generating-videos-i-calculated-what-ai-video-actually-costs-in-2026-37ag)
-- [SwiftUI #21: Groups](https://dev.to/david_goyes_a488f58a17a53/swiftui-21-groups-3cma)
-- [Rive Character Animation for Mobile Apps: A Production-Ready Design and State Machine Breakdown](https://dev.to/uianimation/rive-character-animation-for-mobile-apps-a-production-ready-design-and-state-machine-breakdown-5e3m)
+- [AI Trading: Lesson Learned #112: Phase 1 Cleanup - ChromaDB Removed](https://dev.to/igorganapolsky/ai-trading-lesson-learned-112-phase-1-cleanup-chromadb-removed-3m40)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
