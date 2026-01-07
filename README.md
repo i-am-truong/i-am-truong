@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building FakerFill wasn’t easy &lpar;and that’s exactly why I did it&rpar;](https://dev.to/jundymek/building-fakerfill-wasnt-easy-and-thats-exactly-why-i-did-it-5d4a)
-- [SkyHetu: Designing a Causality-First Programming Language in Rust](https://dev.to/kargatharaaakash/skyhetu-designing-a-causality-first-programming-language-in-rust-2868)
-- [Mastering Intermediate JavaScript](https://dev.to/shameel/mastering-intermediate-javascript-4ohb)
-- [The Real Cost of Vibe Coding](https://dev.to/rawveg/the-real-cost-of-vibe-coding-5h1m)
-- [Build Your Own Local AI Agent &lpar;Part 3&rpar;: The Code Archaeologist 🔦](https://dev.to/harishkotra/build-your-own-local-ai-agent-part-3-the-code-archaeologist-2aha)
+- [Amazon Bedrock AgentCore Setup Confusion: Which IAM Role Do I Need?](https://dev.to/aws-builders/amazon-bedrock-agentcore-setup-confusion-which-iam-role-do-i-need-1pk1)
+- [🚀 Introducing Vyoma G-Dork: A Simple Google Dorking Terminal for Learning &amp; OSINT](https://dev.to/pjdeveloper896/introducing-vyoma-g-dork-a-simple-google-dorking-terminal-for-learning-osint-1k84)
+- [Workout Plateaus: Predicting Strength Stalls for Smarter Training](https://dev.to/wellallytech/workout-plateaus-predicting-strength-stalls-for-smarter-training-c04)
+- [Puppetlabs Modules Roundup – December 2025](https://dev.to/puppet/puppetlabs-modules-roundup-december-2025-4e5h)
+- [Flat Rate Website Acceleration Tools for Agencies](https://dev.to/biancarus/flat-rate-website-acceleration-tools-for-agencies-30ii)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
