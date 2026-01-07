@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Testing 500K Push Notifications Before Sending: Firebase Dry-Run for Token Validation](https://dev.to/sangwoo_rhie/testing-500k-push-notifications-before-sending-firebase-dry-run-for-token-validation-3j7o)
-- [Test Your Tests: Does Your Crisis Simulation Match Reality?](https://dev.to/crisiscoresystems/testing-the-testing-validating-that-your-crisis-simulation-actually-matches-reality-6df)
-- [I Didn’t “Become” a Senior Developer. I Accumulated Damage.](https://dev.to/art_light/i-didnt-become-a-senior-developer-i-accumulated-damage-7hd)
-- [How to Support Light and Dark Themes in PWA Using Only CSS](https://dev.to/fedtti/how-to-support-light-and-dark-themes-in-pwa-using-only-css-6ca)
-- [How SEO Works in AI Chatbots and How to Increase Brand Mentions &amp; Backlinks](https://dev.to/digicarrom/how-seo-works-in-ai-chatbots-and-how-to-increase-brand-mentions-backlinks-3d3a)
+- [I broke GPT-2: How I proved Semantic Collapse using Geometry &lpar;The Ainex Limit&rpar;](https://dev.to/mhh1430hacker/i-broke-gpt-2-how-i-proved-semantic-collapse-using-geometry-the-ainex-limit-4kj5)
+- [Deciphering the coordinated GPS-spoofing incidents that disrupted Indian airports](https://dev.to/shieldworkz_fcbf9eaa30bfe/deciphering-the-coordinated-gps-spoofing-incidents-that-disrupted-indian-airports-3f6c)
+- [How do I backup my identity files &lpar;SSH/GPG&rpar; without compromising them?](https://dev.to/zayanmohamed/how-do-i-backup-my-identity-files-sshgpg-without-compromising-them-5g21)
+- [DDSS: Step-by-Step Explanation](https://dev.to/ekemini_thompson/ddss-step-by-step-explanation-3ade)
+- [Build AI Tooling in Go with the MCP SDK – Connecting AI Apps to Databases](https://dev.to/abhirockzz/build-ai-tooling-in-go-with-the-mcp-sdk-connecting-ai-apps-to-databases-29if)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
