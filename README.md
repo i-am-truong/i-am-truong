@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ty: The Blazingly Fast Python Type Checker from Astral &lpar;Ruff &amp; uv Creators&rpar;](https://dev.to/toyama0919/ty-the-blazingly-fast-python-type-checker-from-astral-ruff-uv-creators-5bd)
-- [LangChain &amp; Building AI Agents: What I Learned and Created Along The Way](https://dev.to/eriperspective/langchain-building-ai-agents-what-i-learned-and-created-along-the-way-278c)
-- [React Isn’t the Hard Part, Designing for Change Is](https://dev.to/wmdn9116/react-isnt-the-hard-part-designing-for-change-is-39d7)
-- [Building a Centralized, Type-Safe Modal System in Next.js](https://dev.to/amoolkk/building-a-centralized-type-safe-modal-system-in-nextjs-312i)
-- [Why Detection Lost: Building Cryptographic Provenance for the Synthetic Media Crisis](https://dev.to/veritaschain/why-detection-lost-building-cryptographic-provenance-for-the-synthetic-media-crisis-746)
+- [How I Think About Backend Engineering as a Student](https://dev.to/kushalsai/how-i-think-about-backend-engineering-as-a-student-al8)
+- [🌳 Beginner-Friendly Guide &#39;Maximum Product of Splitted Binary Tree&#39; – LeetCode 1339 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-maximum-product-of-splitted-binary-tree-leetcode-1339-c-python-2mo1)
+- [The Skill That Took My Coding Career Further Than Anything Else](https://dev.to/canro91/the-skill-that-took-my-coding-career-further-than-anything-else-2c3n)
+- [From MVP to Production: Lessons Learned Building Systems That Scale](https://dev.to/wmdn9116/from-mvp-to-production-lessons-learned-building-systems-that-scale-3895)
+- [The 3 Hardest Decisions I Make as a Dev &lpar;That Have Nothing to Do with Code&rpar;](https://dev.to/williamtrindade/the-3-hardest-decisions-i-make-as-a-dev-that-have-nothing-to-do-with-code-30lb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
