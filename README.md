@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Fast File Transfer Tool, Part 2: Beating rsync by 58% with kTLS](https://dev.to/vincentdu2021/building-a-fast-file-transfer-tool-part-2-beating-rsync-by-58-with-ktls-1hob)
+- [All AIs in one app. Introducing OmniAI - Your AI Hub.](https://dev.to/ehmilon/all-ais-in-one-app-introducing-omniai-your-ai-hub-g7a)
+- [Why I built a search engine that limits results to exactly 4 items](https://dev.to/seridarivus_13/why-i-built-a-search-engine-that-limits-results-to-exactly-4-items-580c)
 - [Provider-Agnostic Chat in React: WebLLM Local Mode + Remote Fallback](https://dev.to/thelogicwarlock/provider-agnostic-chat-in-react-webllm-local-mode-remote-fallback-25dd)
 - [Researching with AI: How I Created a Detailed Report on the Global Impact of AI in Education with Gemini&#39;s Deep Research](https://dev.to/datalaria/researching-with-ai-how-i-created-a-detailed-report-on-the-global-impact-of-ai-in-education-with-29jg)
-- [Why I rescheduled my AWS exam today](https://dev.to/alifunk/why-i-rescheduled-my-aws-exam-today-2j66)
-- [Kickstart 2026: Deploy Your First Open-Source App on PikaPods](https://dev.to/pikapods/kickstart-2026-deploy-your-first-open-source-app-on-pikapods-38cm)
-- [VistaView - A Modern Lightweight Image Lightbox for the Web](https://dev.to/juji/vistaview-a-modern-lightweight-image-lightbox-for-the-web-34gm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
