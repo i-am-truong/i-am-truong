@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Claude-Ally-Health: Your Private AI Medical Assistant &amp; Health Data Manager](https://dev.to/beck_moulton/claude-ally-health-your-private-ai-medical-assistant-health-data-manager-17gd)
-- [Why a Modern Master Test Plan is Your Team’s Secret Weapon](https://dev.to/nishikr/why-a-modern-master-test-plan-is-your-teams-secret-weapon-1noj)
-- [Python Multi-Currency Quantitative Strategy Framework: Design Concepts and Implementation Details](https://dev.to/chronosquant/python-multi-currency-quantitative-strategy-framework-design-concepts-and-implementation-details-53eo)
-- [Day 1: The Array Lie &lpar;Arrays vs Pointers in C&rpar;](https://dev.to/ujjawal0711/day-1-the-array-lie-arrays-vs-pointers-in-c-1c89)
-- [How I Decide What NOT to Automate](https://dev.to/nishikr/the-senior-qas-manifesto-how-i-decide-what-not-to-automate-1ofc)
+- [Why “AI tools” fail: no workflow, no outcome](https://dev.to/jaideepparashar/why-ai-tools-fail-no-workflow-no-outcome-d7m)
+- [Time-Series Alchemy: Predicting Glucose Trends 2 Hours Out with Transformers and PyTorch Lightning](https://dev.to/beck_moulton/time-series-alchemy-predicting-glucose-trends-2-hours-out-with-transformers-and-pytorch-lightning-2n1h)
+- [MCP Servers Rarely Crash. That’s the Problem.](https://dev.to/divshekhar/mcp-servers-rarely-crash-thats-the-problem-105p)
+- [I Built an Offline PDF Text Extractor in Python &lpar;Because I Didn’t Trust Online Tools&rpar;](https://dev.to/matetechnologie/i-built-an-offline-pdf-text-extractor-in-python-because-i-didnt-trust-online-tools-4b19)
+- [React Native Linking: The Simple Guide to Protocols](https://dev.to/abdullah_nasir/react-native-linking-the-simple-guide-to-protocols-2lob)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
