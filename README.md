@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Unlock Unlimited AI for n8n with VS Code &lpar;No Quotas, No Cloud Required&rpar;](https://dev.to/etienne_lescot_728112921e/unlock-unlimited-ai-for-n8n-with-vs-code-no-quotas-no-cloud-required-2nc4)
+- [How I Built a SEO-Optimized FLAMES Calculator using Vanilla JS](https://dev.to/aabhijit108/how-i-built-a-seo-optimized-flames-calculator-using-vanilla-js-3ckf)
+- [# How APIs Work: A Friendly Dive into Real-Time Magic](https://dev.to/vasughanta09/-how-apis-work-a-friendly-dive-into-real-time-magic-3d2n)
+- [The Conformity Gate Phenomenon: Exploration of Fan Theories Following the Stranger Things Season 5 Finale](https://dev.to/om_shree_0709/the-conformity-gate-phenomenon-exploration-of-fan-theories-following-the-stranger-things-season-5-fia)
 - [Beyond RAG: Building an Autonomous &quot;Epistemic Engine&quot; to Fight AI Hallucination](https://dev.to/dinhkhoiminh/beyond-rag-building-an-autonomous-epistemic-engine-to-fight-ai-hallucination-4o2g)
-- [Accelerating Large Language Model Decoding with Speculative Sampling](https://dev.to/paperium/accelerating-large-language-model-decoding-with-speculative-sampling-1p)
-- [🎮 Why Simple Web Games Still Work &lpar;and What I Learned Building One&rpar;](https://dev.to/chiragx309/why-simple-web-games-still-work-and-what-i-learned-building-one-64f)
-- [Building a Production-Ready Rate Limiter with Redis in NestJS &lpar;Part 2: Multi-Tenant &amp; Plan-Based Logic&rpar;](https://dev.to/justadev/building-a-production-ready-rate-limiter-with-redis-in-nestjs-part-2-multi-tenant-plan-based-50lf)
-- [Anguar Tips #4](https://dev.to/khoanguyen1411/anguar-tips-4-4ghc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
