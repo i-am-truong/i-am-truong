@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why I rescheduled my AWS exam today](https://dev.to/alifunk/why-i-rescheduled-my-aws-exam-today-2j66)
+- [Kickstart 2026: Deploy Your First Open-Source App on PikaPods](https://dev.to/pikapods/kickstart-2026-deploy-your-first-open-source-app-on-pikapods-38cm)
+- [VistaView - A Modern Lightweight Image Lightbox for the Web](https://dev.to/juji/vistaview-a-modern-lightweight-image-lightbox-for-the-web-34gm)
 - [Midweek Elevate: Raise the Baseline](https://dev.to/mzghosty/midweek-elevate-raise-the-baseline-21f5)
-- [Ethereum-Solidity Quiz Q16: What is impermanent loss?](https://dev.to/mihaihng/ethereum-solidity-quiz-q16-what-is-impermanent-loss-4di0)
-- [The Ultimate ServiceNow CIS-DF &lpar;Data Foundations&rpar; Exam Cheat Sheet](https://dev.to/bren67/the-ultimate-servicenow-cis-df-data-foundations-exam-cheat-sheet-38en)
-- [https://jawramblog.blogspot.com/2024/08/chatgpt.html?m=1&amp;zx=9c2bddc08300f85c](https://dev.to/jawad_artisteikisse_7385/httpsjawramblogblogspotcom202408chatgpthtmlm1zx9c2bddc08300f85c-53nm)
-- [Partner AWS y founder de mí propia startup: Vorhealth&lpar;reflexión de vacaciones&rpar;](https://dev.to/paola_ponce_5d383cba02593/partner-con-aws-a-founder-de-mi-propia-startup-vorhealthreflexion-de-vacaciones-2mm9)
+- [Democratising AI for SME Hospitality: Lessons from Building Tagnovate](https://dev.to/mayu2008/democratising-ai-for-sme-hospitality-lessons-from-building-tagnovate-5bb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
