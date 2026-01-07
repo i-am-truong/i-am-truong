@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Practical Guide to Browser Caching for Web Apps](https://dev.to/zeeshanali0704/a-practical-guide-to-browser-caching-for-web-apps-2n5c)
-- [The Evolution of the Web: Comparing HTTP/1.1, HTTP/2, and HTTP/3](https://dev.to/zeeshanali0704/the-evolution-of-the-web-comparing-http11-http2-and-http3-3kgj)
-- [From ‘Shell Product’ to $2 Billion: The Manus AI Story Nobody Saw Coming](https://dev.to/steve_oak/from-shell-product-to-2-billion-the-manus-ai-story-nobody-saw-coming-2b95)
-- [Somnium Audio Dream Journal](https://dev.to/uncle_blacedit_4828f0b2/somnium-audio-dream-journal-aog)
-- [Web Scraping Proxy: Works Locally but Fails in the Cloud &lpar;Endpoint-Level Measurement &amp; Attribution&rpar;](https://dev.to/miller_proxy/web-scraping-proxy-works-locally-but-fails-in-the-cloud-endpoint-level-measurement-attribution-25gj)
+- [I built a JSON diff tool in a single HTML file &lpar;no build step&rpar;](https://dev.to/jon_za/i-built-a-json-diff-tool-in-a-single-html-file-no-build-step-1438)
+- [I Built an AI Creative Director: Automating FB Ad Gen with GPT-4o Vision &amp; Structured Outputs](https://dev.to/iloven8n/i-built-an-ai-creative-director-automating-fb-ad-gen-with-gpt-4o-vision-structured-outputs-4g5c)
+- [How I Finally Learned What Was Inside My Music &lpar;Without Re-Recording Everything&rpar;](https://dev.to/thi_ngocnguyen_877eb37e4/how-i-finally-learned-what-was-inside-my-music-without-re-recording-everything-3i3k)
+- [Preventable Danger in Plain Sight: Gabriel Jarret Calls for Fire Safety Reform in Southern California Rentals](https://dev.to/gabrieljarret/preventable-danger-in-plain-sight-gabriel-jarret-calls-for-fire-safety-reform-in-southern-14ep)
+- [LeetCode DSA Series #6: 268. Missing Number](https://dev.to/daveson217/leetcode-dsa-series-6-268-missing-number-15g7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
