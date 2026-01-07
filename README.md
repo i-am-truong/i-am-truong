@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Dependency Tracking Fundamentals &lpar;I&rpar;](https://dev.to/luciano0322/dependency-tracking-fundamentals-i-1bm4)
-- [AI Trading: Lesson Learned #105: Post-Trade RAG Sync Was Missing](https://dev.to/igorganapolsky/ai-trading-lesson-learned-105-post-trade-rag-sync-was-missing-3acb)
-- [SRDD pitches](https://dev.to/bbos/srdd-pitches-44pa)
-- [SRDD Is the Best AI Coding Methodology - entry](https://dev.to/bbos/srdd-is-the-best-ai-coding-methodology-entry-4pkk)
-- [The journey of scaling a personal project into a community resource for 3D Pokémon assets.](https://dev.to/sudhanshuambastha/the-journey-of-scaling-a-personal-project-into-a-community-resource-for-3d-pokemon-assets-2mjg)
+- [A Practical Guide to Browser Caching for Web Apps](https://dev.to/zeeshanali0704/a-practical-guide-to-browser-caching-for-web-apps-2n5c)
+- [The Evolution of the Web: Comparing HTTP/1.1, HTTP/2, and HTTP/3](https://dev.to/zeeshanali0704/the-evolution-of-the-web-comparing-http11-http2-and-http3-3kgj)
+- [From ‘Shell Product’ to $2 Billion: The Manus AI Story Nobody Saw Coming](https://dev.to/steve_oak/from-shell-product-to-2-billion-the-manus-ai-story-nobody-saw-coming-2b95)
+- [Somnium Audio Dream Journal](https://dev.to/uncle_blacedit_4828f0b2/somnium-audio-dream-journal-aog)
+- [Web Scraping Proxy: Works Locally but Fails in the Cloud &lpar;Endpoint-Level Measurement &amp; Attribution&rpar;](https://dev.to/miller_proxy/web-scraping-proxy-works-locally-but-fails-in-the-cloud-endpoint-level-measurement-attribution-25gj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
