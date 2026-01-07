@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Craft and Control Resource Pools on MSSQL](https://dev.to/abeamar/craft-and-control-resource-pools-on-mssql-4jci)
 - [SwiftUI #20: Prioridades](https://dev.to/david_goyes_a488f58a17a53/swiftui-20-prioridades-1lka)
 - [Kicking Off 2026: Expert Analysis from the World Cup Stage](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-from-the-world-cup-stage-12ab)
 - [Building a Fast File Transfer Tool, Part 2: Beating rsync by 58% with kTLS](https://dev.to/vincentdu2021/building-a-fast-file-transfer-tool-part-2-beating-rsync-by-58-with-ktls-1hob)
 - [All AIs in one app. Introducing OmniAI - Your AI Hub.](https://dev.to/ehmilon/all-ais-in-one-app-introducing-omniai-your-ai-hub-g7a)
-- [Why I built a search engine that limits results to exactly 4 items](https://dev.to/seridarivus_13/why-i-built-a-search-engine-that-limits-results-to-exactly-4-items-580c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
