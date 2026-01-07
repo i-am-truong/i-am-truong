@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My Dashboard](https://dev.to/endykaufman/my-dashboard-3onm)
-- [Introduction to Dev.to API](https://dev.to/chapterchase/introduction-to-devto-api-28l3)
-- [DevRel na prática: meu artigo acadêmico ainda faz sentido em 2026?](https://dev.to/awdren/devrel-na-pratica-meu-artigo-academico-ainda-faz-sentido-em-2026-1j13)
-- [The Service Object Graveyard: Why Your POROs Failed and Handlers Won](https://dev.to/andriybaran/the-service-object-graveyard-why-your-poros-failed-and-handlers-won-2a8j)
-- [Vercel AI SDK Complete Guide: Building Production-Ready AI Chat Apps with Next.js](https://dev.to/pockit_tools/vercel-ai-sdk-complete-guide-building-production-ready-ai-chat-apps-with-nextjs-4cp6)
+- [Moving Beyond O&lpar;N^2 log N&rpar; for Weighted Random Sorting](https://dev.to/gigaherz/moving-beyond-on2-log-n-for-weighted-random-sorting-2hc9)
+- [Passkey Login &amp; Smart Wallet Creation on Solana with React Native and LazorKit — No More Seed Phrases!](https://dev.to/xavier_script/passkey-login-smart-wallet-creation-on-solana-with-react-native-and-lazorkit-no-more-seed-49gk)
+- [Educative vs AlgoMonster: I Compared Both for 30 Days &lpar;2026&rpar;](https://dev.to/alex_hunter_44f4c9ed6671e/educative-vs-algomonster-i-compared-both-for-30-days-2026-4089)
+- [Full-Stack Development in 2026](https://dev.to/cyrustse/full-stack-development-in-2026-5c46)
+- [Transforming Customer Queries into Conversions with LLM-Powered Search](https://dev.to/sciforce/transforming-customer-queries-into-conversions-with-llm-powered-search-2khk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
