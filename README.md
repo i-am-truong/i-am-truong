@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cipher Maps: When Category Theory Meets Oblivious Computing](https://dev.to/queelius/cipher-maps-when-category-theory-meets-oblivious-computing-3of9)
-- [Why Gender Equality Matters for Economic and Social Development](https://dev.to/niyatul_kb_985e325ad8248f/why-gender-equality-matters-for-economic-and-social-development-34c0)
-- [Learning SQL in Practice: LeetCode Challenges and Setting Up PostgreSQL](https://dev.to/mazinocodes/learning-sql-in-practice-leetcode-challenges-and-setting-up-postgresql-5a51)
-- [Why Memory Poisoning is the New Frontier in AI Security](https://dev.to/alessandro_pignati/why-memory-poisoning-is-the-new-frontier-in-ai-security-1a2e)
-- [Computed Fields Causing Infinite Recomputations &lpar;odoo&rpar;](https://dev.to/aaron_jones_d34b57d1b44ba/computed-fields-causing-infinite-recomputations-odoo-1556)
+- [Identify Services From Other In-Scope AWS Service Categories](https://dev.to/aws-builders/identify-services-from-other-in-scope-aws-service-categories-1ll3)
+- [AI時代に手動APIテストが破綻する理由10選](https://dev.to/nakamura_takuya/aishi-dai-nishou-dong-apitesutogapo-zhan-suruli-you-10xuan-2p6m)
+- [Privacy-First AI Development: Federated Learning and Beyond](https://dev.to/venkatofficial/privacy-first-ai-development-federated-learning-and-beyond-a4j)
+- [Paul E. Yeager, Engineer](https://dev.to/violinkhuba/paul-e-yeager-engineer-2oj5)
+- [2026 New Year Challenge - 5 Projects United Hackathon](https://dev.to/yijun_xu_b7fe5eb3f0427f0a/2026-new-year-challenge-5-projects-united-hackathon-2c97)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
