@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [About This Documentation Infrastructure](https://dev.to/bbos/about-this-documentation-infrastructure-4b7m)
-- [SRDD &lpar;Part 4 of 4&rpar; - Scaling Up - SSRDD, Principles, and Implementation](https://dev.to/bbos/srdd-part-4-of-4-scaling-up-ssrdd-principles-and-implementation-1ojb)
-- [SRDD &lpar;Part 3 of 4&rpar; - The SRDD Workflow](https://dev.to/bbos/srdd-part-3-of-4-the-srdd-workflow-3hn3)
-- [SRDD &lpar;Part 2 of 4&rpar; - The AI Coding Landscape](https://dev.to/bbos/srdd-part-2-of-4-the-ai-coding-landscape-16p4)
-- [Mastering the Linux Terminal: A Developer&#39;s Guide to Filesystem Navigation](https://dev.to/kurdistan_linux_lab/mastering-the-linux-terminal-a-developers-guide-to-filesystem-navigation-4jo1)
+- [Dependency Tracking Fundamentals &lpar;I&rpar;](https://dev.to/luciano0322/dependency-tracking-fundamentals-i-1bm4)
+- [AI Trading: Lesson Learned #105: Post-Trade RAG Sync Was Missing](https://dev.to/igorganapolsky/ai-trading-lesson-learned-105-post-trade-rag-sync-was-missing-3acb)
+- [SRDD pitches](https://dev.to/bbos/srdd-pitches-44pa)
+- [SRDD Is the Best AI Coding Methodology - entry](https://dev.to/bbos/srdd-is-the-best-ai-coding-methodology-entry-4pkk)
+- [The journey of scaling a personal project into a community resource for 3D Pokémon assets.](https://dev.to/sudhanshuambastha/the-journey-of-scaling-a-personal-project-into-a-community-resource-for-3d-pokemon-assets-2mjg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
