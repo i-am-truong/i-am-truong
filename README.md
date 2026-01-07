@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Beyond RAG: Building an Autonomous &quot;Epistemic Engine&quot; to Fight AI Hallucination](https://dev.to/dinhkhoiminh/beyond-rag-building-an-autonomous-epistemic-engine-to-fight-ai-hallucination-4o2g)
+- [Accelerating Large Language Model Decoding with Speculative Sampling](https://dev.to/paperium/accelerating-large-language-model-decoding-with-speculative-sampling-1p)
+- [🎮 Why Simple Web Games Still Work &lpar;and What I Learned Building One&rpar;](https://dev.to/chiragx309/why-simple-web-games-still-work-and-what-i-learned-building-one-64f)
 - [Building a Production-Ready Rate Limiter with Redis in NestJS &lpar;Part 2: Multi-Tenant &amp; Plan-Based Logic&rpar;](https://dev.to/justadev/building-a-production-ready-rate-limiter-with-redis-in-nestjs-part-2-multi-tenant-plan-based-50lf)
 - [Anguar Tips #4](https://dev.to/khoanguyen1411/anguar-tips-4-4ghc)
-- [The Product Data Challenge No One Talks About in Multi-Channel Selling](https://dev.to/olivia_20dbd2aa062e456ef8/the-product-data-challenge-no-one-talks-about-in-multi-channel-selling-59b0)
-- [Building a RAM-Only, End-to-End Encrypted Chat for the Terminal &lpar;Python&rpar;](https://dev.to/diorwave/building-a-ram-only-end-to-end-encrypted-chat-for-the-terminal-python-58af)
-- [Identify Services From Other In-Scope AWS Service Categories](https://dev.to/aws-builders/identify-services-from-other-in-scope-aws-service-categories-1ll3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
