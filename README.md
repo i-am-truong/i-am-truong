@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🌦 Building an Advanced Weather Dashboard with Dark Mode, Map &amp; Forecast](https://dev.to/codehuntersharath/building-an-advanced-weather-dashboard-with-dark-mode-map-forecast-28a1)
-- [The PERFECT Code Review: How to Reduce Cognitive Load While Improving Quality](https://dev.to/bastrich/the-perfect-code-review-how-to-reduce-cognitive-load-while-improving-quality-5bl2)
-- [AsyncR3 &lpar;Async reactive extensions for .NET&rpar;](https://dev.to/federico_alterio_5ff46735/asyncr3-async-reactive-extensions-for-net-4d3l)
-- [Building a Minimalist Browser OS to Fight E-Waste: Gnokestation](https://dev.to/edmundsparrow/building-a-minimalist-browser-os-to-fight-e-waste-gnokestation-542o)
-- [Why Developers Love Kingdom Building Novels: A Logic-Based Review](https://dev.to/trustuser/why-developers-love-kingdom-building-novels-a-logic-based-review-1ljn)
+- [How SEO Works in AI Chatbots and How to Increase Brand Mentions &amp; Backlinks](https://dev.to/digicarrom/how-seo-works-in-ai-chatbots-and-how-to-increase-brand-mentions-backlinks-3d3a)
+- [MCP Hit 97 Million Downloads in One Year. Security Researchers Say It Wasn&#39;t Ready.](https://dev.to/icybergenome_34/mcp-hit-97-million-downloads-in-one-year-security-researchers-say-it-wasnt-ready-2d6)
+- [Understand Resources For Billing, Budget, and Cost Management](https://dev.to/aws-builders/understand-resources-for-billing-budget-and-cost-management-3g6a)
+- [How Boris Cherny, Builder of Claude Code, Uses It — And Why That Should Change How You Think About AI](https://dev.to/with_attitude/how-boris-cherny-builder-of-claude-code-uses-it-and-why-that-should-change-how-you-think-about-173g)
+- [I built an auth backend for my own app — then tried selling it to see if it works](https://dev.to/sanctum/i-built-an-auth-backend-for-my-own-app-then-tried-selling-it-to-see-if-it-works-39ap)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
