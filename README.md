@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How a Small Visual Studio Extension Reached 79,000+ Installs](https://dev.to/shemeerns/how-a-small-visual-studio-extension-reached-79000-installs-2p70)
-- [Solved: Since when does Notion have heading 4?](https://dev.to/techresolve/solved-since-when-does-notion-have-heading-4-15ko)
-- [Typique — A zero-runtime CSS-in-TS library that doesn’t fight RSC](https://dev.to/alekseiberezkin/typique-a-zero-runtime-css-in-ts-library-that-doesnt-fight-rsc-273e)
-- [Solved: Had to hop on the Stranger Things hype, tried connecting it with FinOps. Thoughts?](https://dev.to/techresolve/solved-had-to-hop-on-the-stranger-things-hype-tried-connecting-it-with-finops-thoughts-4n2m)
-- [Design Patterns You’ll Actually Use: A No-Nonsense Guide](https://dev.to/thechisomchima/design-patterns-youll-actually-use-a-no-nonsense-guide-4l3l)
+- [StateFul and StateLess System](https://dev.to/naviny0/stateful-and-stateless-system-4nnl)
+- [Azure Static Web Apps: login_hint with API on Node.js](https://dev.to/andrewelans/azure-static-web-apps-loginhint-with-api-on-nodejs-mb5)
+- [Why I Built a Group Buying App for Shopify](https://dev.to/enes_efes/why-i-built-a-group-buying-app-for-shopify-3mmd)
+- [Flash Cache Mastery: Engineering Redis-Powered Systems for Ultimate Speed and Reliability](https://dev.to/vasughanta09/flash-cache-mastery-engineering-redis-powered-systems-for-ultimate-speed-and-reliability-52p9)
+- [The Incomputability of Simple Learning](https://dev.to/queelius/the-incomputability-of-simple-learning-306a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
