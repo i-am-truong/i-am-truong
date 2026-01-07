@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why “AI tools” fail: no workflow, no outcome](https://dev.to/jaideepparashar/why-ai-tools-fail-no-workflow-no-outcome-d7m)
-- [Time-Series Alchemy: Predicting Glucose Trends 2 Hours Out with Transformers and PyTorch Lightning](https://dev.to/beck_moulton/time-series-alchemy-predicting-glucose-trends-2-hours-out-with-transformers-and-pytorch-lightning-2n1h)
-- [MCP Servers Rarely Crash. That’s the Problem.](https://dev.to/divshekhar/mcp-servers-rarely-crash-thats-the-problem-105p)
-- [I Built an Offline PDF Text Extractor in Python &lpar;Because I Didn’t Trust Online Tools&rpar;](https://dev.to/matetechnologie/i-built-an-offline-pdf-text-extractor-in-python-because-i-didnt-trust-online-tools-4b19)
-- [React Native Linking: The Simple Guide to Protocols](https://dev.to/abdullah_nasir/react-native-linking-the-simple-guide-to-protocols-2lob)
+- [How a Small Visual Studio Extension Reached 79,000+ Installs](https://dev.to/shemeerns/how-a-small-visual-studio-extension-reached-79000-installs-2p70)
+- [Solved: Since when does Notion have heading 4?](https://dev.to/techresolve/solved-since-when-does-notion-have-heading-4-15ko)
+- [Typique — A zero-runtime CSS-in-TS library that doesn’t fight RSC](https://dev.to/alekseiberezkin/typique-a-zero-runtime-css-in-ts-library-that-doesnt-fight-rsc-273e)
+- [Solved: Had to hop on the Stranger Things hype, tried connecting it with FinOps. Thoughts?](https://dev.to/techresolve/solved-had-to-hop-on-the-stranger-things-hype-tried-connecting-it-with-finops-thoughts-4n2m)
+- [Design Patterns You’ll Actually Use: A No-Nonsense Guide](https://dev.to/thechisomchima/design-patterns-youll-actually-use-a-no-nonsense-guide-4l3l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
