@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Think About Backend Engineering as a Student](https://dev.to/kushalsai/how-i-think-about-backend-engineering-as-a-student-al8)
-- [🌳 Beginner-Friendly Guide &#39;Maximum Product of Splitted Binary Tree&#39; – LeetCode 1339 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-maximum-product-of-splitted-binary-tree-leetcode-1339-c-python-2mo1)
-- [The Skill That Took My Coding Career Further Than Anything Else](https://dev.to/canro91/the-skill-that-took-my-coding-career-further-than-anything-else-2c3n)
-- [From MVP to Production: Lessons Learned Building Systems That Scale](https://dev.to/wmdn9116/from-mvp-to-production-lessons-learned-building-systems-that-scale-3895)
-- [The 3 Hardest Decisions I Make as a Dev &lpar;That Have Nothing to Do with Code&rpar;](https://dev.to/williamtrindade/the-3-hardest-decisions-i-make-as-a-dev-that-have-nothing-to-do-with-code-30lb)
+- [How I Cut My AI App Costs by 52% Without Changing a Single Line of Code](https://dev.to/pranay_batta/how-i-cut-my-ai-app-costs-by-52-without-changing-a-single-line-of-code-348j)
+- [2026 Hopes and Goals](https://dev.to/aaronmccollum/2026-hopes-and-goals-6lf)
+- [7 Best Resources to Learn Cloud Computing in 2026](https://dev.to/stack_overflowed/7-best-resources-to-learn-cloud-computing-in-2026-3l63)
+- [Why I Chose Go for Backend Engineering &lpar;Pros, Cons, and Honest Trade-offs&rpar;](https://dev.to/kushalsai/why-i-chose-go-for-backend-engineering-pros-cons-and-honest-trade-offs-jk6)
+- [System Architecture for Startups: Build Fast Without Painting Yourself Into a Corner](https://dev.to/wmdn9116/system-architecture-for-startups-build-fast-without-painting-yourself-into-a-corner-2991)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
