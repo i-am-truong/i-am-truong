@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [API Versioning Strategies: Real Lessons from Production Incidents and Fixes](https://dev.to/saber-amani/api-versioning-strategies-real-lessons-from-production-incidents-and-fixes-2120)
+- [Vibe Coding Is Real: Why Small Tools Beat Big Frameworks Sometimes](https://dev.to/allisson_faiad_e49f3d51b9/vibe-coding-is-real-why-small-tools-beat-big-frameworks-sometimes-1ek9)
 - [An award-winning devportal is more than words](https://dev.to/npentrel/an-award-winning-devportal-is-more-than-words-1iig)
 - [Unlock $100K in AWS Credits with AWS Activate](https://dev.to/thecodexakash/unlock-100k-in-aws-credits-with-aws-activate-3kf8)
 - [Saying Goodbye to Husky: How Lefthook Supercharged Our TypeScript Workflow](https://dev.to/saltyshiomix/saying-goodbye-to-husky-how-lefthook-supercharged-our-typescript-workflow-35c8)
-- [Part 3 - Production-Ready C#: Resource Management, Testing &amp; Telemetry, Security &amp; Reliability](https://dev.to/k5tar/part-3-production-ready-c-resource-management-testing-telemetry-security-reliability-4oma)
-- [Part 2 - Performance &amp; Concurrency Essentials in C#: Memory, Async, and High-Performance Primitives](https://dev.to/k5tar/part-2-performance-concurrency-essentials-in-c-memory-async-and-high-performance-primitives-5afe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
