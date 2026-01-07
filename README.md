@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Testing 500K Push Notifications Before Sending: Firebase Dry-Run for Token Validation](https://dev.to/sangwoo_rhie/testing-500k-push-notifications-before-sending-firebase-dry-run-for-token-validation-3j7o)
+- [Test Your Tests: Does Your Crisis Simulation Match Reality?](https://dev.to/crisiscoresystems/testing-the-testing-validating-that-your-crisis-simulation-actually-matches-reality-6df)
+- [I Didn’t “Become” a Senior Developer. I Accumulated Damage.](https://dev.to/art_light/i-didnt-become-a-senior-developer-i-accumulated-damage-7hd)
+- [How to Support Light and Dark Themes in PWA Using Only CSS](https://dev.to/fedtti/how-to-support-light-and-dark-themes-in-pwa-using-only-css-6ca)
 - [How SEO Works in AI Chatbots and How to Increase Brand Mentions &amp; Backlinks](https://dev.to/digicarrom/how-seo-works-in-ai-chatbots-and-how-to-increase-brand-mentions-backlinks-3d3a)
-- [MCP Hit 97 Million Downloads in One Year. Security Researchers Say It Wasn&#39;t Ready.](https://dev.to/icybergenome_34/mcp-hit-97-million-downloads-in-one-year-security-researchers-say-it-wasnt-ready-2d6)
-- [Understand Resources For Billing, Budget, and Cost Management](https://dev.to/aws-builders/understand-resources-for-billing-budget-and-cost-management-3g6a)
-- [How Boris Cherny, Builder of Claude Code, Uses It — And Why That Should Change How You Think About AI](https://dev.to/with_attitude/how-boris-cherny-builder-of-claude-code-uses-it-and-why-that-should-change-how-you-think-about-173g)
-- [I built an auth backend for my own app — then tried selling it to see if it works](https://dev.to/sanctum/i-built-an-auth-backend-for-my-own-app-then-tried-selling-it-to-see-if-it-works-39ap)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
