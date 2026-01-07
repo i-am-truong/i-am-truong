@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Snippets: Split &amp; Map](https://dev.to/travisfont/javascript-snippets-split-map-4736)
-- [Building a File Copier 4x Faster Than cp Using io_uring](https://dev.to/vincentdu2021/building-a-file-copier-4x-faster-than-cp-using-iouring-4b5n)
-- [I broke GPT-2: How I proved Semantic Collapse using Geometry &lpar;The Ainex Limit&rpar;](https://dev.to/mhh1430hacker/i-broke-gpt-2-how-i-proved-semantic-collapse-using-geometry-the-ainex-limit-4kj5)
-- [Deciphering the coordinated GPS-spoofing incidents that disrupted Indian airports](https://dev.to/shieldworkz_fcbf9eaa30bfe/deciphering-the-coordinated-gps-spoofing-incidents-that-disrupted-indian-airports-3f6c)
-- [How do I backup my identity files &lpar;SSH/GPG&rpar; without compromising them?](https://dev.to/zayanmohamed/how-do-i-backup-my-identity-files-sshgpg-without-compromising-them-5g21)
+- [COBOL in the 21st Century: The Invisible Engine](https://dev.to/sanal_sukamo/cobol-in-the-21st-century-the-invisible-engine-1g1m)
+- [Concurrency Control and Database Recovery in SQLite](https://dev.to/lovestaco/concurrency-control-and-database-recovery-in-sqlite-2pmo)
+- [Join the Algolia Agent Studio Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-the-algolia-agent-studio-challenge-3000-in-prizes-4eli)
+- [Kodkod: Production Backends in Seconds](https://dev.to/sibilsoren/kodkod-production-backends-in-seconds-5eda)
+- [How to Set Up a UPS on macOS 26 Tahoe](https://dev.to/dev_neil_a/how-to-set-up-a-ups-on-macos-26-tahoe-a9f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
