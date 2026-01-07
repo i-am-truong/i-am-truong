@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Provider-Agnostic Chat in React: WebLLM Local Mode + Remote Fallback](https://dev.to/thelogicwarlock/provider-agnostic-chat-in-react-webllm-local-mode-remote-fallback-25dd)
+- [Researching with AI: How I Created a Detailed Report on the Global Impact of AI in Education with Gemini&#39;s Deep Research](https://dev.to/datalaria/researching-with-ai-how-i-created-a-detailed-report-on-the-global-impact-of-ai-in-education-with-29jg)
 - [Why I rescheduled my AWS exam today](https://dev.to/alifunk/why-i-rescheduled-my-aws-exam-today-2j66)
 - [Kickstart 2026: Deploy Your First Open-Source App on PikaPods](https://dev.to/pikapods/kickstart-2026-deploy-your-first-open-source-app-on-pikapods-38cm)
 - [VistaView - A Modern Lightweight Image Lightbox for the Web](https://dev.to/juji/vistaview-a-modern-lightweight-image-lightbox-for-the-web-34gm)
-- [Midweek Elevate: Raise the Baseline](https://dev.to/mzghosty/midweek-elevate-raise-the-baseline-21f5)
-- [Democratising AI for SME Hospitality: Lessons from Building Tagnovate](https://dev.to/mayu2008/democratising-ai-for-sme-hospitality-lessons-from-building-tagnovate-5bb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
