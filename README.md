@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Wrote a new article!](https://dev.to/johannesjo/wrote-a-new-article-1ph5)
+- [The Missing Link: Triggering Serverless Events from Legacy Databases with AWS DMS](https://dev.to/khaldoun488/the-missing-link-triggering-serverless-events-from-legacy-databases-with-aws-dms-10l4)
+- [What to Do While Waiting for AI Code Assistants](https://dev.to/johannesjo/what-to-do-while-waiting-for-ai-code-assistants-4ok9)
 - [¿Estás aplicando un anti-patrón de arquitectura en el Frontend?](https://dev.to/joshuacba08/estas-aplicando-un-anti-patron-de-arquitectura-en-el-frontend-2p8m)
-- [I Was Tired of Overwhelming To-Do Lists, So I Built My Own with Next.js 16 + Supabase](https://dev.to/whyawww/i-was-tired-of-overwhelming-to-do-lists-so-i-built-my-own-with-nextjs-16-supabase-4m82)
-- [Anomaly Detection in Seasonal Data: Why Z-Score Still Wins &lpar;But You Need to Use It Right&rpar;](https://dev.to/qvfagundes/anomaly-detection-in-seasonal-data-why-z-score-still-wins-but-you-need-to-use-it-right-4ec1)
-- [The Rise of MicroSlop](https://dev.to/goatedguy2002/the-rise-of-microslop-20d2)
-- [Instant Navigations: How to Use the Speculation Rules API for Near-Zero Load Times](https://dev.to/holoflash/instant-navigations-how-to-use-the-speculation-rules-api-for-near-zero-load-times-2cnm)
+- [Using AI for Troubleshooting: OpenAI vs DeepSeek](https://dev.to/coroot/using-ai-for-troubleshooting-openai-vs-deepseek-343k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
