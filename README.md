@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering GraphQL with Ktor: A Modern Networking Guide for Android](https://dev.to/supriya_shah_1e9c3df6158c/mastering-graphql-with-ktor-a-modern-networking-guide-for-android-15jc)
+- [AI-Augmented Cloud Operations](https://dev.to/shree_abhijeet/ai-augmented-cloud-operations-4c3p)
+- [Search Engines for AI Agents &lpar;The Action Web&rpar;](https://dev.to/moein_roghani_cfbc977b8fa/search-engines-for-ai-agents-the-action-web-5bim)
+- [Understanding Data Preprocessing](https://dev.to/juhikushwah/understanding-data-preprocessing-4g6g)
 - [StateFul and StateLess System](https://dev.to/naviny0/stateful-and-stateless-system-4nnl)
-- [Azure Static Web Apps: login_hint with API on Node.js](https://dev.to/andrewelans/azure-static-web-apps-loginhint-with-api-on-nodejs-mb5)
-- [Why I Built a Group Buying App for Shopify](https://dev.to/enes_efes/why-i-built-a-group-buying-app-for-shopify-3mmd)
-- [Flash Cache Mastery: Engineering Redis-Powered Systems for Ultimate Speed and Reliability](https://dev.to/vasughanta09/flash-cache-mastery-engineering-redis-powered-systems-for-ultimate-speed-and-reliability-52p9)
-- [The Incomputability of Simple Learning](https://dev.to/queelius/the-incomputability-of-simple-learning-306a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
