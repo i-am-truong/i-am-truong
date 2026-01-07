@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a Mint Green Light Theme for IDEAs &lpar;still beta&rpar;](https://dev.to/ingosteinke/i-built-a-mint-green-light-theme-for-ideas-still-beta-4koi)
-- [C#.NET - day 05](https://dev.to/sabin_sim/cnet-day-05-24e)
-- [Open Mercato FAQ](https://dev.to/tkarwatka/open-mercato-faq-31b5)
-- [AWS re:Invent 2025: 3 Announcements That Matter for Your Architecture](https://dev.to/hoangleitvn/aws-reinvent-2025-3-announcements-that-matter-for-your-architecture-31m4)
-- [DevOps / DevSecOps Engineer looking for opportunities &lpar;Kubernetes, RKE2, CI/CD&rpar;](https://dev.to/philip31si/devops-devsecops-engineer-looking-for-opportunities-kubernetes-rke2-cicd-2mdc)
+- [Inside Claude&#39;s Sandbox: What Happens When Claude.ai Creates a File](https://dev.to/h1gbosn/inside-claudes-sandbox-what-happens-when-claudeai-creates-a-file-4gna)
+- [AWS DocumentDB Streams: Configuración y caso de uso](https://dev.to/aws-espanol/aws-documentdb-streams-configuracion-y-casos-de-uso-574e)
+- [Stop Shipping Your Dev Logs](https://dev.to/ahr_dev/stop-shipping-your-dev-logs-11h5)
+- [Building a Privacy-First Video to Audio Converter with FFmpeg.wasm](https://dev.to/xg_fei_e836667012d8841d03/building-a-privacy-first-video-to-audio-converter-with-ffmpegwasm-1kd0)
+- [When serving images from S3 stopped being good enough](https://dev.to/aws-heroes/when-serving-images-from-s3-stopped-being-good-enough-233f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
