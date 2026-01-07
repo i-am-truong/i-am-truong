@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 8 of 100](https://dev.to/palakhirave/day-8-of-100-4go3)
 - [Develop Kubernetes Services Locally &lpar;Yes, Really&rpar; with Telepresence](https://dev.to/chainiz/develop-kubernetes-services-locally-yes-really-with-telepresence-16pg)
 - [Criei um site de mangás simples com JS puro para estudar integração de APIs](https://dev.to/lok_3782107ef55613a8599bd/criei-um-site-de-mangas-simples-com-js-puro-para-estudar-integracao-de-apis-3bnm)
 - [The Missing Link: Triggering Serverless Events from Legacy Databases with AWS DMS](https://dev.to/khaldoun488/the-missing-link-triggering-serverless-events-from-legacy-databases-with-aws-dms-10l4)
 - [What to Do While Waiting for AI Code Assistants](https://dev.to/johannesjo/what-to-do-while-waiting-for-ai-code-assistants-4ok9)
-- [¿Estás aplicando un anti-patrón de arquitectura en el Frontend?](https://dev.to/joshuacba08/estas-aplicando-un-anti-patron-de-arquitectura-en-el-frontend-2p8m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
