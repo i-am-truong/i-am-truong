@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [API Versioning Strategies: Real Lessons from Production Incidents and Fixes](https://dev.to/saber-amani/api-versioning-strategies-real-lessons-from-production-incidents-and-fixes-2120)
-- [Vibe Coding Is Real: Why Small Tools Beat Big Frameworks Sometimes](https://dev.to/allisson_faiad_e49f3d51b9/vibe-coding-is-real-why-small-tools-beat-big-frameworks-sometimes-1ek9)
-- [An award-winning devportal is more than words](https://dev.to/npentrel/an-award-winning-devportal-is-more-than-words-1iig)
-- [Unlock $100K in AWS Credits with AWS Activate](https://dev.to/thecodexakash/unlock-100k-in-aws-credits-with-aws-activate-3kf8)
-- [Saying Goodbye to Husky: How Lefthook Supercharged Our TypeScript Workflow](https://dev.to/saltyshiomix/saying-goodbye-to-husky-how-lefthook-supercharged-our-typescript-workflow-35c8)
+- [Building FakerFill wasn’t easy &lpar;and that’s exactly why I did it&rpar;](https://dev.to/jundymek/building-fakerfill-wasnt-easy-and-thats-exactly-why-i-did-it-5d4a)
+- [SkyHetu: Designing a Causality-First Programming Language in Rust](https://dev.to/kargatharaaakash/skyhetu-designing-a-causality-first-programming-language-in-rust-2868)
+- [Mastering Intermediate JavaScript](https://dev.to/shameel/mastering-intermediate-javascript-4ohb)
+- [The Real Cost of Vibe Coding](https://dev.to/rawveg/the-real-cost-of-vibe-coding-5h1m)
+- [Build Your Own Local AI Agent &lpar;Part 3&rpar;: The Code Archaeologist 🔦](https://dev.to/harishkotra/build-your-own-local-ai-agent-part-3-the-code-archaeologist-2aha)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
