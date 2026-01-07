@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Inside Claude&#39;s Sandbox: What Happens When Claude.ai Creates a File](https://dev.to/h1gbosn/inside-claudes-sandbox-what-happens-when-claudeai-creates-a-file-4gna)
-- [AWS DocumentDB Streams: Configuración y caso de uso](https://dev.to/aws-espanol/aws-documentdb-streams-configuracion-y-casos-de-uso-574e)
-- [Stop Shipping Your Dev Logs](https://dev.to/ahr_dev/stop-shipping-your-dev-logs-11h5)
-- [Building a Privacy-First Video to Audio Converter with FFmpeg.wasm](https://dev.to/xg_fei_e836667012d8841d03/building-a-privacy-first-video-to-audio-converter-with-ffmpegwasm-1kd0)
-- [When serving images from S3 stopped being good enough](https://dev.to/aws-heroes/when-serving-images-from-s3-stopped-being-good-enough-233f)
+- [Pipes Won&#39;t Let Me Go](https://dev.to/kostya_malinovskiy_7f732b/pipes-wont-let-me-go-16pl)
+- [A Book Review of Working Effectively With Legacy Code by Michael Feathers](https://dev.to/hectorw_tt/a-book-review-of-working-effectively-with-legacy-code-by-michael-feathers-5c47)
+- [My Indie App Got Quarantined on itch.io — and I’m Opening It Up to the Dev Community](https://dev.to/saamiabbaskhan/my-indie-app-got-quarantined-on-itchio-and-im-opening-it-up-to-the-dev-community-2fkk)
+- [How to Set Up Voice AI Webhook Handling for Real Estate Inquiries Effectively](https://dev.to/callstacktech/how-to-set-up-voice-ai-webhook-handling-for-real-estate-inquiries-effectively-266b)
+- [Why cookies are unreliable for identifying users](https://dev.to/silver_rump_324306c274963/why-cookies-are-unreliable-for-identifying-users-52oi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
