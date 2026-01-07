@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Pipes Won&#39;t Let Me Go](https://dev.to/kostya_malinovskiy_7f732b/pipes-wont-let-me-go-16pl)
-- [A Book Review of Working Effectively With Legacy Code by Michael Feathers](https://dev.to/hectorw_tt/a-book-review-of-working-effectively-with-legacy-code-by-michael-feathers-5c47)
-- [My Indie App Got Quarantined on itch.io — and I’m Opening It Up to the Dev Community](https://dev.to/saamiabbaskhan/my-indie-app-got-quarantined-on-itchio-and-im-opening-it-up-to-the-dev-community-2fkk)
-- [How to Set Up Voice AI Webhook Handling for Real Estate Inquiries Effectively](https://dev.to/callstacktech/how-to-set-up-voice-ai-webhook-handling-for-real-estate-inquiries-effectively-266b)
-- [Why cookies are unreliable for identifying users](https://dev.to/silver_rump_324306c274963/why-cookies-are-unreliable-for-identifying-users-52oi)
+- [🌦 Building an Advanced Weather Dashboard with Dark Mode, Map &amp; Forecast](https://dev.to/codehuntersharath/building-an-advanced-weather-dashboard-with-dark-mode-map-forecast-28a1)
+- [The PERFECT Code Review: How to Reduce Cognitive Load While Improving Quality](https://dev.to/bastrich/the-perfect-code-review-how-to-reduce-cognitive-load-while-improving-quality-5bl2)
+- [AsyncR3 &lpar;Async reactive extensions for .NET&rpar;](https://dev.to/federico_alterio_5ff46735/asyncr3-async-reactive-extensions-for-net-4d3l)
+- [Building a Minimalist Browser OS to Fight E-Waste: Gnokestation](https://dev.to/edmundsparrow/building-a-minimalist-browser-os-to-fight-e-waste-gnokestation-542o)
+- [Why Developers Love Kingdom Building Novels: A Logic-Based Review](https://dev.to/trustuser/why-developers-love-kingdom-building-novels-a-logic-based-review-1ljn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
