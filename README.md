@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Built an AI That Writes My Job Applications - And It&#39;s Open Source](https://dev.to/henryohanga/i-built-an-ai-that-writes-my-job-applications-and-its-open-source-5cln)
+- [Compare AWS Pricing Models](https://dev.to/aws-builders/compare-aws-pricing-models-4h81)
 - [Unlock Unlimited AI for n8n with VS Code &lpar;No Quotas, No Cloud Required&rpar;](https://dev.to/etienne_lescot_728112921e/unlock-unlimited-ai-for-n8n-with-vs-code-no-quotas-no-cloud-required-2nc4)
 - [How I Built a SEO-Optimized FLAMES Calculator using Vanilla JS](https://dev.to/aabhijit108/how-i-built-a-seo-optimized-flames-calculator-using-vanilla-js-3ckf)
-- [# How APIs Work: A Friendly Dive into Real-Time Magic](https://dev.to/vasughanta09/-how-apis-work-a-friendly-dive-into-real-time-magic-3d2n)
-- [The Conformity Gate Phenomenon: Exploration of Fan Theories Following the Stranger Things Season 5 Finale](https://dev.to/om_shree_0709/the-conformity-gate-phenomenon-exploration-of-fan-theories-following-the-stranger-things-season-5-fia)
-- [Beyond RAG: Building an Autonomous &quot;Epistemic Engine&quot; to Fight AI Hallucination](https://dev.to/dinhkhoiminh/beyond-rag-building-an-autonomous-epistemic-engine-to-fight-ai-hallucination-4o2g)
+- [Turning AI-generated images into usable color palettes](https://dev.to/thanatos_eric_eebdecb78df/turning-ai-generated-images-into-usable-color-palettes-4n6a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
