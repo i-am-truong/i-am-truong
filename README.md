@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Bedrock AgentCore Setup Confusion: Which IAM Role Do I Need?](https://dev.to/aws-builders/amazon-bedrock-agentcore-setup-confusion-which-iam-role-do-i-need-1pk1)
-- [🚀 Introducing Vyoma G-Dork: A Simple Google Dorking Terminal for Learning &amp; OSINT](https://dev.to/pjdeveloper896/introducing-vyoma-g-dork-a-simple-google-dorking-terminal-for-learning-osint-1k84)
-- [Workout Plateaus: Predicting Strength Stalls for Smarter Training](https://dev.to/wellallytech/workout-plateaus-predicting-strength-stalls-for-smarter-training-c04)
-- [Puppetlabs Modules Roundup – December 2025](https://dev.to/puppet/puppetlabs-modules-roundup-december-2025-4e5h)
-- [Flat Rate Website Acceleration Tools for Agencies](https://dev.to/biancarus/flat-rate-website-acceleration-tools-for-agencies-30ii)
+- [If a problem can be solved without AI, does AI actually make it better?](https://dev.to/liudasjan/if-a-problem-can-be-solved-without-ai-does-ai-actually-make-it-better-1g3i)
+- [What Every Programmer Should Know About Memory Part 4](https://dev.to/hamzahassanain0/what-every-programmer-should-know-about-memory-part-4-4bh5)
+- [What Working in Forensic Psychiatry Has Taught Me About the Umbraco Community](https://dev.to/mathilde_hoest/what-working-in-forensic-psychiatry-has-taught-me-about-the-umbraco-community-54lj)
+- [I Accidentally Exposed My API Keys to 50,000 Users &lpar;And How You Can Avoid My $3,000 Mistake&rpar;](https://dev.to/werliton/i-accidentally-exposed-my-api-keys-to-50000-users-and-how-you-can-avoid-my-3000-mistake-37fp)
+- [Building a Secure, Enterprise-Grade Artifact Repository &lpar;Open Source&rpar;](https://dev.to/hopelabs_0faf9b1d6d742107/building-a-secure-enterprise-grade-artifact-repository-open-source-4l97)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
