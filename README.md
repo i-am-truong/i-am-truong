@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built an AI That Writes My Job Applications - And It&#39;s Open Source](https://dev.to/henryohanga/i-built-an-ai-that-writes-my-job-applications-and-its-open-source-5cln)
-- [Compare AWS Pricing Models](https://dev.to/aws-builders/compare-aws-pricing-models-4h81)
-- [Unlock Unlimited AI for n8n with VS Code &lpar;No Quotas, No Cloud Required&rpar;](https://dev.to/etienne_lescot_728112921e/unlock-unlimited-ai-for-n8n-with-vs-code-no-quotas-no-cloud-required-2nc4)
-- [How I Built a SEO-Optimized FLAMES Calculator using Vanilla JS](https://dev.to/aabhijit108/how-i-built-a-seo-optimized-flames-calculator-using-vanilla-js-3ckf)
-- [Turning AI-generated images into usable color palettes](https://dev.to/thanatos_eric_eebdecb78df/turning-ai-generated-images-into-usable-color-palettes-4n6a)
+- [Part 3 - Production-Ready C#: Resource Management, Testing &amp; Telemetry, Security &amp; Reliability](https://dev.to/k5tar/part-3-production-ready-c-resource-management-testing-telemetry-security-reliability-4oma)
+- [Part 2 - Performance &amp; Concurrency Essentials in C#: Memory, Async, and High-Performance Primitives](https://dev.to/k5tar/part-2-performance-concurrency-essentials-in-c-memory-async-and-high-performance-primitives-5afe)
+- [Part 1 - Core Foundations for Enterprise C#: OOP &amp; SOLID, Clean Architecture, and Type Semantics](https://dev.to/k5tar/part-1-core-foundations-for-enterprise-c-oop-solid-clean-architecture-and-type-semantics-1aka)
+- [How to Build Your First AI Agent Deploy it to Sevalla](https://dev.to/manishmshiva/how-to-build-your-first-ai-agent-deploy-it-to-sevalla-2hm6)
+- [The Ideological Battle for Memory Management](https://dev.to/bdovenbird/the-ideological-battle-for-memory-management-4226)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
