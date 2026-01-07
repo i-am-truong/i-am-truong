@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Snippets: Split &amp; Map](https://dev.to/travisfont/javascript-snippets-split-map-4736)
+- [Building a File Copier 4x Faster Than cp Using io_uring](https://dev.to/vincentdu2021/building-a-file-copier-4x-faster-than-cp-using-iouring-4b5n)
 - [I broke GPT-2: How I proved Semantic Collapse using Geometry &lpar;The Ainex Limit&rpar;](https://dev.to/mhh1430hacker/i-broke-gpt-2-how-i-proved-semantic-collapse-using-geometry-the-ainex-limit-4kj5)
 - [Deciphering the coordinated GPS-spoofing incidents that disrupted Indian airports](https://dev.to/shieldworkz_fcbf9eaa30bfe/deciphering-the-coordinated-gps-spoofing-incidents-that-disrupted-indian-airports-3f6c)
 - [How do I backup my identity files &lpar;SSH/GPG&rpar; without compromising them?](https://dev.to/zayanmohamed/how-do-i-backup-my-identity-files-sshgpg-without-compromising-them-5g21)
-- [DDSS: Step-by-Step Explanation](https://dev.to/ekemini_thompson/ddss-step-by-step-explanation-3ade)
-- [Build AI Tooling in Go with the MCP SDK – Connecting AI Apps to Databases](https://dev.to/abhirockzz/build-ai-tooling-in-go-with-the-mcp-sdk-connecting-ai-apps-to-databases-29if)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
