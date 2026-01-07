@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mastering GraphQL with Ktor: A Modern Networking Guide for Android](https://dev.to/supriya_shah_1e9c3df6158c/mastering-graphql-with-ktor-a-modern-networking-guide-for-android-15jc)
-- [AI-Augmented Cloud Operations](https://dev.to/shree_abhijeet/ai-augmented-cloud-operations-4c3p)
-- [Search Engines for AI Agents &lpar;The Action Web&rpar;](https://dev.to/moein_roghani_cfbc977b8fa/search-engines-for-ai-agents-the-action-web-5bim)
-- [Understanding Data Preprocessing](https://dev.to/juhikushwah/understanding-data-preprocessing-4g6g)
-- [StateFul and StateLess System](https://dev.to/naviny0/stateful-and-stateless-system-4nnl)
+- [Finally, the difference between print&lpar;&rpar; and return just clicked for me](https://dev.to/wassim_touir/finally-the-difference-between-print-and-return-just-clicked-for-me-3kgb)
+- [ZinTrust: a TypeScript backend framework for structure without decorators](https://dev.to/zintrustjs/zintrust-a-typescript-backend-framework-for-structure-without-decorators-198n)
+- [Teaching my computer to invent names](https://dev.to/palash90/teaching-my-computer-to-invent-names-29d1)
+- [Privacy Without Anonymity: Why ZK-Enabled Programmable Payments Will Define Blockchain&#39;s Next Era](https://dev.to/roan911/privacy-without-anonymity-why-zk-enabled-programmable-payments-will-define-blockchains-next-era-49fk)
+- [This is what I learned from vibe-coding five browser games](https://dev.to/sebhoek/this-is-what-i-learned-from-vibe-coding-five-browser-games-gmp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
