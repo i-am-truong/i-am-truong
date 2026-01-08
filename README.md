@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating a Custom Skill for Claude Code: Automating Bilingual Blog Writing](https://dev.to/javimaligno/creating-a-custom-skill-for-claude-code-automating-bilingual-blog-writing-4i3i)
+- [Building an MCP Server for Bitbucket: Connecting LLMs to Your DevOps Workflow](https://dev.to/javimaligno/building-an-mcp-server-for-bitbucket-connecting-llms-to-your-devops-workflow-2okn)
 - [How Cars Are Becoming Software Systems](https://dev.to/vechtron/how-cars-are-becoming-software-systems-1416)
 - [Why Figma SVGs Break Your React App &lpar;and How to Fix It Locally&rpar;](https://dev.to/hypertools/why-figma-svgs-break-your-react-app-and-how-to-fix-it-locally-2mb6)
 - [SwiftUI #22: Grids](https://dev.to/david_goyes_a488f58a17a53/swiftui-22-grids-3l0j)
-- [New Year, New You Portfolio Challenge](https://dev.to/rodney_gitonga_02405fa004/new-year-new-you-portfolio-challenge-fpm)
-- [How I Reduced Docker Setup Time from 8 Hours to 5 Minutes](https://dev.to/penuel_mdluli_bc27cc2c8fe/how-i-reduced-docker-setup-time-from-8-hours-to-5-minutes-133p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
