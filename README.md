@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Audio Studio AI Pro - Open source audio enhancement with AI-powered noise reduction](https://dev.to/dhamma_watthumpra_86e28c2/audio-studio-ai-pro-open-source-audio-enhancement-with-ai-powered-noise-reduction-3o14)
 - [🚀 New React Challenge: Tetris](https://dev.to/duffmancc/new-react-challenge-tetris-25ee)
 - [From Swagger UI to React: Building qcontroller&#39;s Frontend](https://dev.to/krjakbrjak/from-swagger-ui-to-react-building-qcontrollers-frontend-2k62)
 - [From CDN to Pixel: A React App&#39;s Journey](https://dev.to/sagi0312/from-cdn-to-pixel-a-react-apps-journey-4dnd)
 - [Blue-Green Deployment on EKS](https://dev.to/jumptotech/blue-green-deployment-on-eks-4l2j)
-- [How to Analyze Your CV Effectively and Boost Your Job Chances 🚀](https://dev.to/coder_c2b552a35a8ebe0d2f3/how-to-analyze-your-cv-effectively-and-boost-your-job-chances-1caf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
