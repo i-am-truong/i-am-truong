@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Is your monitoring testing strategy chaos?](https://dev.to/simon_hanmer/is-your-monitoring-testing-strategy-chaos-1knj)
 - [5 Patterns That Make AI Coding Assistants 10x More Effective](https://dev.to/kiwibreaksme/5-patterns-that-make-ai-coding-assistants-10x-more-effective-55lj)
 - [CSS @property: advanced theming](https://dev.to/effnd/css-property-advanced-theming-58na)
 - [Events &amp; Event Handling in JavaScript – A Complete Beginner Guide](https://dev.to/vyankateshbairagi/events-event-handling-in-javascript-a-complete-beginner-guide-4b1b)
 - [Open Sourcing FortyOne: Agentic Project Management With an AI Teammate](https://dev.to/josemukorivo/open-sourcing-fortyone-agentic-project-management-with-an-ai-teammate-3ioi)
-- [Building Auth Validation: 5 Lessons on Making Error Messages Actually Helpful](https://dev.to/y-takashi/building-auth-validation-5-lessons-on-making-error-messages-actually-helpful-32e2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
