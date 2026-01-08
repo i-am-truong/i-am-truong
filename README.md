@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Debugging Worldpay Webhooks in ASP.NET Core](https://dev.to/ramapratheeba/debugging-worldpay-webhooks-in-aspnet-core-a1n)
 - [TailwindSQL: The Weirdest, and Maybe Nicest, Developer Trend You’ll See Today](https://dev.to/web_dev-usman/tailwindsql-the-weirdest-and-maybe-nicest-developer-trend-youll-see-today-3ee0)
 - [Myth vs reality: “AI will replace Devs”](https://dev.to/jaideepparashar/myth-vs-reality-ai-will-replace-devs-2a7m)
 - [LLM Data Leaks: Exposing Hidden Risks in ETL/ELT Pipelines](https://dev.to/mabualzait/llm-data-leaks-exposing-hidden-risks-in-etlelt-pipelines-35aa)
 - [STOP Building &quot;Zombie&quot; Websites: A Dev’s Guide to Architecture vs. Templates](https://dev.to/best_techcompany_200e9f2/stop-building-zombie-websites-a-devs-guide-to-architecture-vs-templates-43i4)
-- [E-Commerce Cybersecurity Retrospective 2025: The Collapse of Certainties and the Specter of Vibecoding](https://dev.to/ndabene/e-commerce-cybersecurity-retrospective-2025-the-collapse-of-certainties-and-the-specter-of-hjm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
