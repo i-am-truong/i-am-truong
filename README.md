@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Built a Simple MIPS CPU Simulator in Python 🧠](https://dev.to/thecoder507/i-built-a-simple-mips-cpu-simulator-in-python-1h19)
+- [Microsserviços com Spring Boot: por que vou participar do Mergulho da AlgaWorks](https://dev.to/franolv/microsservicos-com-spring-boot-por-que-vou-participar-do-mergulho-da-algaworks-1meh)
 - [CKA DEPLOYMENT &amp; SERVICE LAB #2](https://dev.to/jumptotech/cka-deployment-service-lab-2-21mg)
 - [Non-decision-making AI governance with internal audit and stop conditions](https://dev.to/deltax/non-decision-making-ai-governance-with-internal-audit-and-stop-conditions-3lib)
 - [Side Projects? I don&#39;t have time for that!](https://dev.to/infoxicator/side-projects-i-dont-have-time-for-that-57j0)
-- [Claude Opus 4.5 changes everything](https://dev.to/remojansen/claude-opus-45-changes-everything-4h12)
-- [Output format enforcement for agents: JSON schema or it didn’t happen](https://dev.to/dowhatmatters/output-format-enforcement-for-agents-json-schema-or-it-didnt-happen-1pbi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
