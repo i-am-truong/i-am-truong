@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Top APM Tools in 2026: What Every Developer and Engineering Team Should Know](https://dev.to/olivia_madison_b0ad7090ad/top-apm-tools-in-2026-what-every-developer-and-engineering-team-should-know-1dg0)
-- [Solved: Hot take: The outage isn’t the problem everyone going down at once is](https://dev.to/techresolve/solved-hot-take-the-outage-isnt-the-problem-everyone-going-down-at-once-is-2hkp)
-- [Flutter Dio Interceptor for Caching API Responses](https://dev.to/rshnkunwar/flutter-dio-interceptor-for-caching-api-responses-1db3)
-- [Apache Airflow for Production: Essential Concepts Every Developer Should Know](https://dev.to/datatechbridge/apache-airflow-for-production-essential-concepts-every-developer-should-know-2n1j)
-- [Vibecoding On‑Chain — Using AI to Prototype Solidity Contracts &lpar;Safely&rpar;](https://dev.to/ribhavmodi/vibecoding-on-chain-using-ai-to-prototype-solidity-contracts-safely-3n5i)
+- [Microsoft Azure AI-900 Syllabus Changes Explained &lpar;What’s New &amp; Why&rpar;](https://dev.to/sandrabrown/microsoft-azure-ai-900-syllabus-changes-explained-whats-new-why-1579)
+- [You Probably Already Know What a Monad Is](https://dev.to/cekrem/you-probably-already-know-what-a-monad-is-2h95)
+- [Reducing Sentry APM Costs in FastAPI by Sending Only What Matters](https://dev.to/jayakrishnayadav24/reducing-sentry-apm-costs-in-fastapi-by-sending-only-what-matters-2lmm)
+- [Boot Process &amp; Init Systems](https://dev.to/sbkumbar024/boot-process-init-systems-5gd3)
+- [How to Crack Any Software Developer Interview in 2026 &lpar;Updated for AI &amp; Modern Hiring&rpar;](https://dev.to/finalroundai/how-to-crack-any-software-developer-interview-in-2026-updated-for-ai-modern-hiring-4ih8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
