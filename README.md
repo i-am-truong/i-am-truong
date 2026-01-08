@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why WebAuthn Feels Easy — Until You Try to Ship It](https://dev.to/dqj1998/why-webauthn-feels-easy-until-you-try-to-ship-it-5bi3)
-- [I&#39;m Building a Game Engine in Node.js &lpar;Yes, Really&rpar;](https://dev.to/sfundomhlungu/im-building-a-game-engine-in-nodejs-yes-really-53ka)
-- [Metaclass Polymorphic Crypto: Enhanced Proof of Concept](https://dev.to/hejhdiss/metaclass-polymorphic-crypto-enhanced-proof-of-concept-272p)
-- [How AWS Lambda and Fargate Change the Way We Build Apps](https://dev.to/aws-builders/how-aws-lambda-and-fargate-change-the-way-we-build-apps-dh1)
-- [When React Starts Acting Like jQuery &lpar;and You Can Totally Tell 😅&rpar;](https://dev.to/sylwia-lask/when-react-starts-acting-like-jquery-and-you-can-totally-tell--3kpe)
+- [WebSocket Mock Server with a Beautiful Terminal UI](https://dev.to/abidibo/websocket-mock-server-with-a-beautiful-terminal-ui-7i0)
+- [Day 4 of building ExplainThis, a developer tool to explain a GitHub repo in plain English](https://dev.to/calchiwo/day-4-of-building-explainthis-a-developer-tool-to-explain-a-github-repo-in-plain-english-6ek)
+- [Building AI applications without AI Slop](https://dev.to/shreyvijayvargiya/building-ai-applications-without-ai-slop-26fp)
+- [What I Learned Building a Native macOS Menu Bar App](https://dev.to/heocoi/what-i-learned-building-a-native-macos-menu-bar-app-4im6)
+- [My sudden episode to keep my virtualenv in check](https://dev.to/benji011/my-sudden-episode-to-keep-my-virtualenv-in-check-3ah2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
