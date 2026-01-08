@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [WebSocket Mock Server with a Beautiful Terminal UI](https://dev.to/abidibo/websocket-mock-server-with-a-beautiful-terminal-ui-7i0)
-- [Day 4 of building ExplainThis, a developer tool to explain a GitHub repo in plain English](https://dev.to/calchiwo/day-4-of-building-explainthis-a-developer-tool-to-explain-a-github-repo-in-plain-english-6ek)
-- [Building AI applications without AI Slop](https://dev.to/shreyvijayvargiya/building-ai-applications-without-ai-slop-26fp)
-- [What I Learned Building a Native macOS Menu Bar App](https://dev.to/heocoi/what-i-learned-building-a-native-macos-menu-bar-app-4im6)
-- [My sudden episode to keep my virtualenv in check](https://dev.to/benji011/my-sudden-episode-to-keep-my-virtualenv-in-check-3ah2)
+- [How to Get Better at LeetCode: 10 Tips That Actually Work &lpar;2026&rpar;](https://dev.to/alex_hunter_44f4c9ed6671e/how-to-get-better-at-leetcode-10-tips-that-actually-work-2026-5dim)
+- [I Built a CLI Tool to Make Git Worktree Enjoyable](https://dev.to/kexi/i-built-a-cli-tool-to-make-git-worktree-enjoyable-4fh3)
+- [AWS Lambda and AWS Glue Python Shell in the Context of Lightweight ETL](https://dev.to/aws-builders/aws-lambda-and-aws-glue-python-shell-in-the-context-of-lightweight-etl-3ao5)
+- [Detecting and Filtering Harmful Content with Amazon Bedrock Guardrails](https://dev.to/aws-builders/detecting-and-filtering-harmful-content-with-amazon-bedrock-guardrails-1b1d)
+- [Bridgerust: One Rust Core, Every Ecosystem](https://dev.to/josias1997/bridgerust-one-rust-core-every-ecosystem-5bi1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
