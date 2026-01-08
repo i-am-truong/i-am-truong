@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Most Developer Productivity Tools Are Just Procrastination With Better UX](https://dev.to/azrael654/most-developer-productivity-tools-are-just-procrastination-with-better-ux-39gl)
 - [SEO is a Hardware Porblem](https://dev.to/amos_weiskopf_749a69e7c78/seo-is-a-hardware-porblem-plk)
 - [I built an AI that detects your mood while coding &lpar;Locally in VS Code&rpar; 🧠✨](https://dev.to/freerave/i-built-an-ai-that-detects-your-mood-while-coding-locally-in-vs-code-1dn6)
 - [C#.NET - day 06](https://dev.to/sabin_sim/cnet-day-06-dmg)
 - [What Happens Before the Event Loop. Part 1](https://dev.to/iagrekhovfronted/what-happens-before-the-event-loop-5egj)
-- [Basic protections for your S3 buckets](https://dev.to/ciberconscientes/basic-protections-for-your-s3-buckets-388n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
