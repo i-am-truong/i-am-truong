@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SQL WHERE Clause: I Thought I Knew It… Until It Asked Me About LIKE 😭](https://dev.to/yuktisays/sql-where-clause-i-thought-i-knew-it-until-it-asked-me-about-like-1jha)
-- [JsWeb — A Blazing-Fast ASGI Python Web Framework with Zero-Config AJAX, Admin Panel &amp; Built-In API Docs](https://dev.to/jones_peter/jsweb-a-blazing-fast-asgi-python-web-framework-with-zero-config-ajax-admin-panel-built-in-api-2j67)
-- [Clone Graph: Coding Problem Solution Explained](https://dev.to/stack_overflowed/clone-graph-coding-problem-solution-explained-5f19)
-- [How I Built My Own Linux Command Using Python &lpar;Beginner-Friendly, Real-World&rpar;](https://dev.to/jayakrishnayadav24/how-i-built-my-own-linux-command-using-python-beginner-friendly-real-world-p1n)
-- [🚨 AWS 128: Setting Up Amazon ECR and Pushing Docker Images](https://dev.to/hritikraj8804/aws-128-setting-up-amazon-ecr-and-pushing-docker-images-35i4)
+- [TailwindSQL: The Weirdest, and Maybe Nicest, Developer Trend You’ll See Today](https://dev.to/web_dev-usman/tailwindsql-the-weirdest-and-maybe-nicest-developer-trend-youll-see-today-3ee0)
+- [Myth vs reality: “AI will replace Devs”](https://dev.to/jaideepparashar/myth-vs-reality-ai-will-replace-devs-2a7m)
+- [LLM Data Leaks: Exposing Hidden Risks in ETL/ELT Pipelines](https://dev.to/mabualzait/llm-data-leaks-exposing-hidden-risks-in-etlelt-pipelines-35aa)
+- [STOP Building &quot;Zombie&quot; Websites: A Dev’s Guide to Architecture vs. Templates](https://dev.to/best_techcompany_200e9f2/stop-building-zombie-websites-a-devs-guide-to-architecture-vs-templates-43i4)
+- [E-Commerce Cybersecurity Retrospective 2025: The Collapse of Certainties and the Specter of Vibecoding](https://dev.to/ndabene/e-commerce-cybersecurity-retrospective-2025-the-collapse-of-certainties-and-the-specter-of-hjm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
