@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Architecting Rx-Gated E-commerce with EMR Integration: Best Path for Authorize-Only Payments and Clinical Approval Workflow](https://dev.to/mattyice2030/architecting-rx-gated-e-commerce-with-emr-integration-best-path-for-authorize-only-payments-and-526l)
-- [TanStack Router Setup in Our React SaaS Template - 2026](https://dev.to/kiran_ravi_092a2cfcf60389/tanstack-router-setup-in-our-react-saas-template-2026-4b67)
-- [Azure OpenAI&#39;s Content Filter: When Safety Theater Blocks Real Work](https://dev.to/javimaligno/azure-openais-content-filter-when-safety-theater-blocks-real-work-4kf6)
-- [LLMs are like Humans - They make mistakes. Here is how we limit them with Guardrails](https://dev.to/alifunk/llms-are-like-humans-they-make-mistakes-here-is-how-we-limit-them-with-guardrails-24dj)
-- [Scaling Development with Parallel AI Agents](https://dev.to/javimaligno/scaling-development-with-parallel-ai-agents-3lp)
+- [SEO is a Hardware Porblem](https://dev.to/amos_weiskopf_749a69e7c78/seo-is-a-hardware-porblem-plk)
+- [I built an AI that detects your mood while coding &lpar;Locally in VS Code&rpar; 🧠✨](https://dev.to/freerave/i-built-an-ai-that-detects-your-mood-while-coding-locally-in-vs-code-1dn6)
+- [C#.NET - day 06](https://dev.to/sabin_sim/cnet-day-06-dmg)
+- [What Happens Before the Event Loop. Part 1](https://dev.to/iagrekhovfronted/what-happens-before-the-event-loop-5egj)
+- [Basic protections for your S3 buckets](https://dev.to/ciberconscientes/basic-protections-for-your-s3-buckets-388n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
