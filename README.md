@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The 3-Day Code Review Problem &lpar;And What It&#39;s Actually Costing You&rpar;](https://dev.to/bjornbrynjarjonsson/the-3-day-code-review-problem-and-what-its-actually-costing-you-5m8)
-- [Building the Next Generation of Voice Agents with Strands](https://dev.to/rafael_rodriguez/building-the-next-generation-of-voice-agents-with-strands-2lhk)
-- [Is your monitoring testing strategy chaos?](https://dev.to/simon_hanmer/is-your-monitoring-testing-strategy-chaos-1knj)
-- [On Being Productive Without Being Busy](https://dev.to/sergueyasaelshinder/on-being-productive-without-being-busy-558b)
-- [Engineering metrics: using data &lpar;DORA and others&rpar; to improve the team](https://dev.to/kodus/engineering-metrics-using-data-dora-and-others-to-improve-the-team-4ad4)
+- [Organizational Autoimmune Disorders](https://dev.to/linkbenjamin/organizational-autoimmune-disorders-3ec2)
+- [What CEO retreats actually change for engineering execution](https://dev.to/imperium_by_edstellar/what-ceo-retreats-actually-change-for-engineering-execution-5a3f)
+- [Digital Twin Documentation Doesn&#39;t Scale - Here&#39;s Why](https://dev.to/ronny_elsner_7g/digital-twin-documentation-doesnt-scale-heres-why-35lb)
+- [I Tried to Beat WebAssembly With Node.js](https://dev.to/sfundomhlungu/i-tried-to-beat-webassembly-with-nodejs-499o)
+- [Zero-Friction Database Branching with Neon, Git Hooks, and Claude Code](https://dev.to/evoleinik/zero-friction-database-branching-with-neon-git-hooks-and-claude-code-1apm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
