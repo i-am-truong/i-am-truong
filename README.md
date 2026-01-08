@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [First few days with Codex CLI](https://dev.to/amanhimself/first-few-days-with-codex-cli-3570)
+- [NGINX --- High Performance Web Server for High Traffic](https://dev.to/codefalconx/nginx-high-performance-web-server-for-high-traffic-2k50)
 - [FTX: Asynchronous File Tree Explorer for Vim and Neovim](https://dev.to/m__mdy__m/ftx-asynchronous-file-tree-explorer-for-vim-and-neovim-2o96)
 - [Exploring AI-Driven Immersive Experiences](https://dev.to/tagne_marcdouard_d4dd81/exploring-ai-driven-immersive-experiences-c4g)
 - [🔐 How I Recovered My MySQL Root Password on Windows &lpar;MySQL 8.0&rpar; — Step by Step](https://dev.to/its_dev_/how-i-recovered-my-mysql-root-password-on-windows-mysql-80-step-by-step-i63)
-- [🧗‍♂️Beginner-Friendly Guide &#39;Max Dot Product of Two Subsequences&#39; – LeetCode 1458 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-max-dot-product-of-two-subsequences-leetcode-1458-c-python-2mgf)
-- [Concurrency in Rust &lpar;Threads, Channels&rpar;](https://dev.to/godofgeeks/concurrency-in-rust-threads-channels-41g0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
