@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Angular Version 21 eStore + Shopping Cart Prototype](https://dev.to/lstanikmas/angular-version-21-estore-shopping-cart-prototype-30ce)
-- [Why email journaling works when apps never did &lpar;and why I built DailyInk&rpar;](https://dev.to/code_guru/why-email-journaling-works-when-apps-never-did-and-why-i-built-dailyink-3klh)
-- [How I Used GitLab Duo Agent Platorm to Build a Conference Demo in under an hour](https://dev.to/shivaylamba/how-i-used-gitlab-duo-agent-platorm-to-build-a-conference-demo-in-under-an-hour-1c88)
-- [7 Essential Rust Libraries for Building High-Performance Backends](https://dev.to/james_miller_8dc58a89cb9e/7-essential-rust-libraries-for-building-high-performance-backends-4o2j)
-- [PHP fun: regex builder in 8.5](https://dev.to/xwero/php-fun-regex-builder-in-85-3in6)
+- [🚀 New React Challenge: Tetris](https://dev.to/duffmancc/new-react-challenge-tetris-25ee)
+- [From Swagger UI to React: Building qcontroller&#39;s Frontend](https://dev.to/krjakbrjak/from-swagger-ui-to-react-building-qcontrollers-frontend-2k62)
+- [From CDN to Pixel: A React App&#39;s Journey](https://dev.to/sagi0312/from-cdn-to-pixel-a-react-apps-journey-4dnd)
+- [Blue-Green Deployment on EKS](https://dev.to/jumptotech/blue-green-deployment-on-eks-4l2j)
+- [How to Analyze Your CV Effectively and Boost Your Job Chances 🚀](https://dev.to/coder_c2b552a35a8ebe0d2f3/how-to-analyze-your-cv-effectively-and-boost-your-job-chances-1caf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
