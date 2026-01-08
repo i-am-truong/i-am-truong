@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding useRef in React &lpar;Without the Confusion&rpar;](https://dev.to/nahidulislam/understanding-useref-in-react-without-the-confusion-1d1o)
+- [Coding Challenge Practice - Question 97](https://dev.to/tomivan/coding-challenge-practice-question-97-45k0)
+- [I finally Deployed on AWS](https://dev.to/olyray/i-finally-deployed-on-aws-3cn7)
+- [How I Built an AI Terraform Review Agent on Serverless AWS](https://dev.to/aws-builders/how-i-built-an-ai-terraform-review-agent-on-serverless-aws-43hc)
 - [Iterando lo recursivo](https://dev.to/baltasarq/iterando-lo-recursivo-4d45)
-- [10 AWS Production Incidents That Taught Me Real-World SRE](https://dev.to/muhammad_yawar_malik/10-aws-production-incidents-that-taught-me-real-world-sre-38l2)
-- [Day-30 Kubernetes Networking Decoded: Why We Need Ingress and Ingress Controllers](https://dev.to/jayanth_dasari_7/day-30-kubernetes-networking-decoded-why-we-need-ingress-and-ingress-controllers-4kep)
-- [Browser-Based kubectl Access: Managing Kubernetes Without Bastion Hosts](https://dev.to/robert_r_7c237256b7614328/browser-based-kubectl-access-managing-kubernetes-without-bastion-hosts-1b4a)
-- [React &lpar;RSC&rpar; Exploits Are Real and It&#39;s Hurting Engineering Teams](https://dev.to/devarshishimpi/react-rsc-exploits-are-real-and-its-hurting-engineering-teams-32mi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
