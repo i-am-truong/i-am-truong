@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [When I Discovered Recursive Intelligence](https://dev.to/fwdslsh/rhizas-kernel-chronicles-when-i-discovered-recursive-intelligence-io8)
-- [Optimizing JSON for LLMs](https://dev.to/mattlewandowski93/optimizing-json-for-llms-1dgf)
-- [🚀 My DevOps Journey: From Learning to Building on AWS with Containers](https://dev.to/devopsexpertlearning/my-devops-journey-from-learning-to-building-on-aws-with-containers-1lnm)
-- [The Ultimate Guide to Terraform Drift Detection: How to Detect, Prevent, and Remediate Infrastructure Drift](https://dev.to/env0/the-ultimate-guide-to-terraform-drift-detection-how-to-detect-prevent-and-remediate-5hji)
-- [From Pixels to Calories: Building a Multimodal Meal Analysis Engine with GPT-4o](https://dev.to/beck_moulton/from-pixels-to-calories-building-a-multimodal-meal-analysis-engine-with-gpt-4o-107)
+- [Google Just Declared War on AI Slop: What Developers Need to Know](https://dev.to/shashwat_ghosh/google-just-declared-war-on-ai-slop-what-developers-need-to-know-4ldi)
+- [Best Practices for Training LoRA Models with Z-Image: Complete 2026 Guide](https://dev.to/gary_yan_86eb77d35e0070f5/best-practices-for-training-lora-models-with-z-image-complete-2026-guide-4p7h)
+- [How to Validate Product Ideas Using Reddit and ChatGPT Before Building](https://dev.to/johnbrawner/how-to-validate-product-ideas-using-reddit-and-chatgpt-before-building-4fmp)
+- [Why Your Humble Start is Your Greatest Asset.](https://dev.to/theonly1ty/why-your-humble-start-is-your-greatest-2bng)
+- [If Swagger Works but Your SDK Fails, Your SDK Is Lying](https://dev.to/cuddi/if-swagger-works-but-your-sdk-fails-your-sdk-is-lying-4pjo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
