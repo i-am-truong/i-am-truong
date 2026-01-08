@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Trading: Lesson Learned #112: Self-Healing Data Integrity System Required](https://dev.to/igorganapolsky/ai-trading-lesson-learned-112-self-healing-data-integrity-system-required-g0h)
+- [The $100 Million Question: AI Layer vs. Full ERP Replacement](https://dev.to/genco_dvrkl/the-100-million-question-ai-layer-vs-full-erp-replacement-cjk)
+- [Building a RAG-Based AI Platform](https://dev.to/albakiev/building-a-rag-based-ai-platform-1m14)
 - [GitHub&#39;s December 2025 - January 2026: The Ships That Matter](https://dev.to/andreagriffiths11/githubs-december-2025-january-2026-the-ships-that-matter-2bgi)
 - [Cursor-like Semantic Rules in GitHub Copilot](https://dev.to/maximsaplin/cursor-like-semantic-rules-in-github-copilot-b56)
-- [Building, Failing, and Building Again: The Relentless Journey of Dominik Václavík](https://dev.to/darxi_ixrad_71/building-failing-and-building-again-the-relentless-journey-of-dominik-vaclavik-apn)
-- [I was tired of copying .env files between machines, so we built a CLI](https://dev.to/the_seventeen/i-was-tired-of-copying-env-files-between-machines-so-we-built-a-cli-51a8)
-- [What a Learner Should Do to Become a Software Engineer](https://dev.to/wmdn9116/what-a-learner-should-do-to-become-a-software-engineer-ce9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
