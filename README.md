@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [First few days with Codex CLI](https://dev.to/amanhimself/first-few-days-with-codex-cli-3570)
-- [NGINX --- High Performance Web Server for High Traffic](https://dev.to/codefalconx/nginx-high-performance-web-server-for-high-traffic-2k50)
-- [FTX: Asynchronous File Tree Explorer for Vim and Neovim](https://dev.to/m__mdy__m/ftx-asynchronous-file-tree-explorer-for-vim-and-neovim-2o96)
-- [Exploring AI-Driven Immersive Experiences](https://dev.to/tagne_marcdouard_d4dd81/exploring-ai-driven-immersive-experiences-c4g)
-- [🔐 How I Recovered My MySQL Root Password on Windows &lpar;MySQL 8.0&rpar; — Step by Step](https://dev.to/its_dev_/how-i-recovered-my-mysql-root-password-on-windows-mysql-80-step-by-step-i63)
+- [Building with Background Removal APIs: Why Cost Matters &lpar;And How to Save 95%&rpar;](https://dev.to/tamnv/building-with-background-removal-apis-why-cost-matters-and-how-to-save-95-11ce)
+- [Assertion Blocks in Voiden](https://dev.to/dhruv2038/assertion-blocks-in-voiden-fhm)
+- [Selenium and its Uses in Automation Testing using Python](https://dev.to/sindu_raghul_58b7fa6478d7/selenium-and-its-uses-in-automation-testing-using-python-462m)
+- [Identify AWS Technical Resources And AWS Support Options](https://dev.to/aws-builders/identify-aws-technical-resources-and-aws-support-options-1c2b)
+- [I Released a Production iOS App Without Reading Code: The Reality of “Vibe Coding”](https://dev.to/mabikuso/i-released-a-production-ios-app-without-reading-code-the-reality-of-vibe-coding-3747)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
