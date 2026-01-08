@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SQL WHERE Clause: I Thought I Knew It… Until It Asked Me About LIKE 😭](https://dev.to/yuktisays/sql-where-clause-i-thought-i-knew-it-until-it-asked-me-about-like-1jha)
+- [JsWeb — A Blazing-Fast ASGI Python Web Framework with Zero-Config AJAX, Admin Panel &amp; Built-In API Docs](https://dev.to/jones_peter/jsweb-a-blazing-fast-asgi-python-web-framework-with-zero-config-ajax-admin-panel-built-in-api-2j67)
+- [Clone Graph: Coding Problem Solution Explained](https://dev.to/stack_overflowed/clone-graph-coding-problem-solution-explained-5f19)
+- [How I Built My Own Linux Command Using Python &lpar;Beginner-Friendly, Real-World&rpar;](https://dev.to/jayakrishnayadav24/how-i-built-my-own-linux-command-using-python-beginner-friendly-real-world-p1n)
 - [🚨 AWS 128: Setting Up Amazon ECR and Pushing Docker Images](https://dev.to/hritikraj8804/aws-128-setting-up-amazon-ecr-and-pushing-docker-images-35i4)
-- [Learning Docker by Building a Three-Tier MERN Application](https://dev.to/sneha_tomar_23/learning-docker-by-building-a-three-tier-mern-application-24c3)
-- [New Year, New You Portfolio Challenge Presented by Google AI](https://dev.to/dthiwanka/new-year-new-you-portfolio-challenge-presented-by-google-ai-1448)
-- [NodeJS 101 —  Part 4 🔐 Authorization with JWT](https://dev.to/akkaraponph/nodejs-101-part-4-authorization-with-jwt-oen)
-- [Early-Career Software Development: A Production-Oriented View](https://dev.to/thiago_signoretti_af6d047/early-career-software-development-a-production-oriented-view-2cke)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
