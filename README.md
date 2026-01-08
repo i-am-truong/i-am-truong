@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding useRef in React &lpar;Without the Confusion&rpar;](https://dev.to/nahidulislam/understanding-useref-in-react-without-the-confusion-1d1o)
-- [Coding Challenge Practice - Question 97](https://dev.to/tomivan/coding-challenge-practice-question-97-45k0)
-- [I finally Deployed on AWS](https://dev.to/olyray/i-finally-deployed-on-aws-3cn7)
-- [How I Built an AI Terraform Review Agent on Serverless AWS](https://dev.to/aws-builders/how-i-built-an-ai-terraform-review-agent-on-serverless-aws-43hc)
-- [Iterando lo recursivo](https://dev.to/baltasarq/iterando-lo-recursivo-4d45)
+- [Best AI Diagramming Tools for Developers in 2026](https://dev.to/dashin_pro/best-ai-diagramming-tools-for-developers-in-2026-3ni3)
+- [The Silent Database Conflict](https://dev.to/dcs-soni/the-silent-database-conflict-boc)
+- [AWS Community Builder Applications for 2026 is Now Open! Here&#39;s Why You Should Apply.](https://dev.to/aws-builders/aws-community-builder-applications-for-2026-is-now-open-heres-why-you-should-apply-17c6)
+- [Use native dialog with Turbo &lpar;and no extra JavaScript&rpar;](https://dev.to/railsdesigner/use-native-dialog-with-turbo-and-no-extra-javascript-3j4l)
+- [Instancias reservadas de AWS- Vistazo breve](https://dev.to/barbara_gaspar/instancias-reservadas-de-aws-vistazo-breve-292a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
