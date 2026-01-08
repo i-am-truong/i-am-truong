@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [FTX: Asynchronous File Tree Explorer for Vim and Neovim](https://dev.to/m__mdy__m/ftx-asynchronous-file-tree-explorer-for-vim-and-neovim-2o96)
+- [Exploring AI-Driven Immersive Experiences](https://dev.to/tagne_marcdouard_d4dd81/exploring-ai-driven-immersive-experiences-c4g)
+- [🔐 How I Recovered My MySQL Root Password on Windows &lpar;MySQL 8.0&rpar; — Step by Step](https://dev.to/its_dev_/how-i-recovered-my-mysql-root-password-on-windows-mysql-80-step-by-step-i63)
 - [🧗‍♂️Beginner-Friendly Guide &#39;Max Dot Product of Two Subsequences&#39; – LeetCode 1458 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-max-dot-product-of-two-subsequences-leetcode-1458-c-python-2mgf)
-- [COOLIFY : THE DEPLOYMENT ARBITRAGE RECLAIMING STARTUP RUNWAY FROM VERCEL](https://dev.to/_aparna_pradhan_/coolify-the-deployment-arbitrage-reclaiming-startup-runway-from-vercel-3be9)
-- [How LLM use MCPs?](https://dev.to/hiteshchawla/how-llm-use-mcps-4mp2)
-- [Microsoft Azure AI-900 Syllabus Changes Explained &lpar;What’s New &amp; Why&rpar;](https://dev.to/sandrabrown/microsoft-azure-ai-900-syllabus-changes-explained-whats-new-why-1579)
-- [You Probably Already Know What a Monad Is](https://dev.to/cekrem/you-probably-already-know-what-a-monad-is-2h95)
+- [Concurrency in Rust &lpar;Threads, Channels&rpar;](https://dev.to/godofgeeks/concurrency-in-rust-threads-channels-41g0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
