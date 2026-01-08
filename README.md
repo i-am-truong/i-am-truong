@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Simple Carousel/Slider in React](https://dev.to/edriso/how-to-create-a-simple-carouselslider-in-react-h1f)
-- [What Is WordPress? Why It’s Popular and How It Actually Works](https://dev.to/kathirvel-s/what-is-wordpress-why-its-popular-and-how-it-actually-works-26f4)
-- [Framework de Gobernanza para IA Responsable](https://dev.to/nchicaizaliz/framework-de-gobernanza-para-ia-responsable-48ga)
-- [Getting Started with 2D Games Using Pyxel &lpar;Part 5&rpar;: Creating Characters with Classes](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-pyxel-part-5-creating-characters-with-classes-4921)
-- [What makes a good tech Meet-up?](https://dev.to/josefine/what-makes-a-good-tech-meet-up-16k9)
+- [Day 12: Understanding Constructors in Java](https://dev.to/karthick_narayanan/day-12-understanding-constructors-in-java-a3p)
+- [Technologies and Concepts: Cloud Practitioner &lpar;CLF-C02&rpar;](https://dev.to/aws-builders/technologies-and-concepts-cloud-practitioner-clf-c02-186i)
+- [2026 - The year of the Ralph Loop Agent](https://dev.to/alexandergekov/2026-the-year-of-the-ralph-loop-agent-1gkj)
+- [Why Markdown Is The Secret To Better AI](https://dev.to/karishmashukla/why-markdown-is-the-secret-to-better-ai-5b08)
+- [TypeScript Generics in React Components.](https://dev.to/egorovsa/typescript-generics-in-react-components-5ej)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
