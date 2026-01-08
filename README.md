@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Monorepo Demystified: Turborepo vs. Lerna vs. Nx - Which one should you choose? 🚀](https://dev.to/werliton/monorepo-demystified-turborepo-vs-lerna-vs-nx-which-one-should-you-choose-3aeh)
+- [Dive Deeper into JavaScript: Your Key to Unlocking React Mastery! &lpar;Day 2 – Pre-React Article 2&rpar;](https://dev.to/vasughanta09/dive-deeper-into-javascript-your-key-to-unlocking-react-mastery-day-2-pre-react-article-2-5ahe)
+- [mebularts: A tiny Turkish fake data generator for tests &lpar;names, phones, addresses, user-agents&rpar;](https://dev.to/mebularts/mebularts-a-tiny-turkish-fake-data-generator-for-tests-names-phones-addresses-user-agents-dj8)
 - [How to Get Better at LeetCode: 10 Tips That Actually Work &lpar;2026&rpar;](https://dev.to/alex_hunter_44f4c9ed6671e/how-to-get-better-at-leetcode-10-tips-that-actually-work-2026-5dim)
 - [I Built a CLI Tool to Make Git Worktree Enjoyable](https://dev.to/kexi/i-built-a-cli-tool-to-make-git-worktree-enjoyable-4fh3)
-- [AWS Lambda and AWS Glue Python Shell in the Context of Lightweight ETL](https://dev.to/aws-builders/aws-lambda-and-aws-glue-python-shell-in-the-context-of-lightweight-etl-3ao5)
-- [Detecting and Filtering Harmful Content with Amazon Bedrock Guardrails](https://dev.to/aws-builders/detecting-and-filtering-harmful-content-with-amazon-bedrock-guardrails-1b1d)
-- [Bridgerust: One Rust Core, Every Ecosystem](https://dev.to/josias1997/bridgerust-one-rust-core-every-ecosystem-5bi1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
