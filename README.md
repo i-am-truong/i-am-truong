@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Testing Recovery: Proving Your App Helps People Stabilize](https://dev.to/crisiscoresystems/testing-recovery-verifying-that-systems-actually-help-people-get-better-1o6o)
-- [Building a Production-Grade E-Commerce Platform on GCP: A Complete DevOps Journey](https://dev.to/deepanshub09/building-a-production-grade-e-commerce-platform-on-gcp-a-complete-devops-journey-4lj4)
-- [REST vs GraphQL: Two Philosophies, Two Eras, One Endless Debate](https://dev.to/dbc2201/rest-vs-graphql-two-philosophies-two-eras-one-endless-debate-1i1a)
-- [Day 9 of 100](https://dev.to/palakhirave/day-9-of-100-27aa)
-- [My Node.js API Best Practices in 2025](https://dev.to/wmdn9116/my-nodejs-api-best-practices-in-2025-1km5)
+- [GitHub&#39;s December 2025 - January 2026: The Ships That Matter](https://dev.to/andreagriffiths11/githubs-december-2025-january-2026-the-ships-that-matter-2bgi)
+- [Cursor-like Semantic Rules in GitHub Copilot](https://dev.to/maximsaplin/cursor-like-semantic-rules-in-github-copilot-b56)
+- [Building, Failing, and Building Again: The Relentless Journey of Dominik Václavík](https://dev.to/darxi_ixrad_71/building-failing-and-building-again-the-relentless-journey-of-dominik-vaclavik-apn)
+- [I was tired of copying .env files between machines, so we built a CLI](https://dev.to/the_seventeen/i-was-tired-of-copying-env-files-between-machines-so-we-built-a-cli-51a8)
+- [What a Learner Should Do to Become a Software Engineer](https://dev.to/wmdn9116/what-a-learner-should-do-to-become-a-software-engineer-ce9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
