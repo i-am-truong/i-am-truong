@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why I Rewrote Portage in Go: Introducing GRPM v0.1.0](https://dev.to/kolkov/why-i-rewrote-portage-in-go-introducing-grpm-v010-56j5)
-- [Build an AI-Powered Document Insights Tool with Django &lpar;Python&rpar;, and React](https://dev.to/faisal_malik_544/build-an-ai-powered-document-insights-tool-with-django-python-and-react-5bf7)
-- [Promptelle: An All-in-One AI Photo Prompt Platform for Faster Image Creation](https://dev.to/riven_chandler/promptelle-an-all-in-one-ai-photo-prompt-platform-for-faster-image-creation-5co0)
-- [Kubernetes Debugging in 3 Passi: logs, describe, events](https://dev.to/scape/kubernetes-debugging-in-3-passi-logs-describe-events-1562)
-- [Virtual Private Cloud Spiegato Semplice](https://dev.to/scape/virtual-private-cloud-spiegato-semplice-3c9h)
+- [Is it just me, or is the &quot;Dead Internet Theory&quot; hitting our dev feeds?](https://dev.to/yshelldev/is-it-just-me-or-is-the-dead-internet-theory-hitting-our-dev-feeds-2acm)
+- [O que é a Magalu Cloud e como usar o Console e a CLI no dia a dia](https://dev.to/magalucloud/o-que-e-a-magalu-cloud-e-como-usar-o-console-e-a-cli-no-dia-a-dia-4l63)
+- [GTK4 DropDown with .NET](https://dev.to/kashifsoofi/gtk4-dropdown-with-net-1pca)
+- [I Built an AI-Powered Trend Analysis Tool Using the Virlo API &lpar;Here&#39;s How It Works&rpar;](https://dev.to/arjuncodess/i-built-an-ai-powered-trend-analysis-tool-using-the-virlo-api-heres-how-it-works-3d4b)
+- [Tailwind CSS Lays Off 75% of Engineering Team as AI Tools Disrupt Revenue Model](https://dev.to/kniraj/tailwind-css-lays-off-75-of-engineering-team-as-ai-tools-disrupt-revenue-model-1l3d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
