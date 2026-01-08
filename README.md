@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How Cars Are Becoming Software Systems](https://dev.to/vechtron/how-cars-are-becoming-software-systems-1416)
+- [Why Figma SVGs Break Your React App &lpar;and How to Fix It Locally&rpar;](https://dev.to/hypertools/why-figma-svgs-break-your-react-app-and-how-to-fix-it-locally-2mb6)
 - [SwiftUI #22: Grids](https://dev.to/david_goyes_a488f58a17a53/swiftui-22-grids-3l0j)
+- [New Year, New You Portfolio Challenge](https://dev.to/rodney_gitonga_02405fa004/new-year-new-you-portfolio-challenge-fpm)
 - [How I Reduced Docker Setup Time from 8 Hours to 5 Minutes](https://dev.to/penuel_mdluli_bc27cc2c8fe/how-i-reduced-docker-setup-time-from-8-hours-to-5-minutes-133p)
-- [Is the &quot;Dead Internet Theory&quot; hitting our dev feeds?](https://dev.to/yshelldev/is-it-just-me-or-is-the-dead-internet-theory-hitting-our-dev-feeds-2acm)
-- [O que é a Magalu Cloud e como usar o Console e a CLI no dia a dia](https://dev.to/magalucloud/o-que-e-a-magalu-cloud-e-como-usar-o-console-e-a-cli-no-dia-a-dia-4l63)
-- [I Built an AI-Powered Trend Analysis Tool Using the Virlo API &lpar;Here&#39;s How It Works&rpar;](https://dev.to/arjuncodess/i-built-an-ai-powered-trend-analysis-tool-using-the-virlo-api-heres-how-it-works-3d4b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
