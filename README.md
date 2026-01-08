@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How GitHub Pull Requests in VS Code Improved My Open-Source Workflow](https://dev.to/whoisprince/how-github-pull-requests-in-vs-code-improved-my-open-source-workflow-8co)
-- [How do I discover new music that actually fits my taste?](https://dev.to/luca_dark_rnb/how-do-i-discover-new-music-that-actually-fits-my-taste-1dc2)
-- [Building Collaborative AI Agent Ecosystems: A Deep Dive into ADK, MCP &amp; A2A with Pokemon](https://dev.to/gde/building-collaborative-ai-agent-ecosystems-a-deep-dive-into-adk-mcp-a2a-with-pokemon-4ceh)
-- [3 LLM Underdogs of 2025](https://dev.to/zloeber/3-llm-underdogs-of-2025-2e1i)
-- [Understanding Server Functions: TanStack Start vs Next.js](https://dev.to/ahr_dev/understanding-server-functions-tanstack-start-vs-nextjs-4dpp)
+- [Type-Safe By Design: Architecting Applications That Make Bugs Impossible](https://dev.to/tarunmj6/type-safe-by-design-architecting-applications-that-make-bugs-impossible-2fi7)
+- [The Ultimate Guide to Effective Meeting Summaries: From Chaos to Clarity](https://dev.to/anas_kayssi/the-ultimate-guide-to-effective-meeting-summaries-from-chaos-to-clarity-13dc)
+- [When is a side project worth committing to?](https://dev.to/ben/when-is-a-side-project-worth-committing-to-5ec7)
+- [Hacked WordPress Site? Here’s What to Do Before Google Penalizes You](https://dev.to/mustafa_iqbal_decae31512c/hacked-wordpress-site-heres-what-to-do-before-google-penalizes-you-59d1)
+- [Memoization in React: Or How I Thought I Optimized My App &lpar;But Mostly Just Felt Productive&rpar;](https://dev.to/mrfrontenddev/memoization-in-react-or-how-i-thought-i-optimized-my-app-but-mostly-just-felt-productive-g72)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
