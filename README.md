@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CKA DEPLOYMENT &amp; SERVICE LAB #2](https://dev.to/jumptotech/cka-deployment-service-lab-2-21mg)
+- [Non-decision-making AI governance with internal audit and stop conditions](https://dev.to/deltax/non-decision-making-ai-governance-with-internal-audit-and-stop-conditions-3lib)
 - [Side Projects? I don&#39;t have time for that!](https://dev.to/infoxicator/side-projects-i-dont-have-time-for-that-57j0)
 - [Claude Opus 4.5 changes everything](https://dev.to/remojansen/claude-opus-45-changes-everything-4h12)
 - [Output format enforcement for agents: JSON schema or it didn’t happen](https://dev.to/dowhatmatters/output-format-enforcement-for-agents-json-schema-or-it-didnt-happen-1pbi)
-- [New Python Courseware for Early-Career CS Students](https://dev.to/jcasman/new-python-courseware-for-early-career-cs-students-2e81)
-- [Deploy: Cenário: Azure App Service + Github + SQL Server](https://dev.to/yuripeixinho/deploy-cenario-azure-app-service-github-sql-server-2b0d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
