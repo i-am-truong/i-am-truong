@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Creating a Custom Skill for Claude Code: Automating Bilingual Blog Writing](https://dev.to/javimaligno/creating-a-custom-skill-for-claude-code-automating-bilingual-blog-writing-4i3i)
-- [Building an MCP Server for Bitbucket: Connecting LLMs to Your DevOps Workflow](https://dev.to/javimaligno/building-an-mcp-server-for-bitbucket-connecting-llms-to-your-devops-workflow-2okn)
-- [How Cars Are Becoming Software Systems](https://dev.to/vechtron/how-cars-are-becoming-software-systems-1416)
-- [Why Figma SVGs Break Your React App &lpar;and How to Fix It Locally&rpar;](https://dev.to/hypertools/why-figma-svgs-break-your-react-app-and-how-to-fix-it-locally-2mb6)
-- [SwiftUI #22: Grids](https://dev.to/david_goyes_a488f58a17a53/swiftui-22-grids-3l0j)
+- [Architecting Rx-Gated E-commerce with EMR Integration: Best Path for Authorize-Only Payments and Clinical Approval Workflow](https://dev.to/mattyice2030/architecting-rx-gated-e-commerce-with-emr-integration-best-path-for-authorize-only-payments-and-526l)
+- [TanStack Router Setup in Our React SaaS Template - 2026](https://dev.to/kiran_ravi_092a2cfcf60389/tanstack-router-setup-in-our-react-saas-template-2026-4b67)
+- [Azure OpenAI&#39;s Content Filter: When Safety Theater Blocks Real Work](https://dev.to/javimaligno/azure-openais-content-filter-when-safety-theater-blocks-real-work-4kf6)
+- [LLMs are like Humans - They make mistakes. Here is how we limit them with Guardrails](https://dev.to/alifunk/llms-are-like-humans-they-make-mistakes-here-is-how-we-limit-them-with-guardrails-24dj)
+- [Scaling Development with Parallel AI Agents](https://dev.to/javimaligno/scaling-development-with-parallel-ai-agents-3lp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
