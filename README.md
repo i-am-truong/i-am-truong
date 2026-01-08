@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Agent Factory Recap: A Deep Dive into Agent Evaluation, Practical Tooling, and Multi-Agent Systems](https://dev.to/googleai/agent-factory-recap-a-deep-dive-into-agent-evaluation-practical-tooling-and-multi-agent-systems-4pbj)
-- [Day 12: Understanding Constructors in Java](https://dev.to/karthick_narayanan/day-12-understanding-constructors-in-java-a3p)
-- [Technologies and Concepts: Cloud Practitioner &lpar;CLF-C02&rpar;](https://dev.to/aws-builders/technologies-and-concepts-cloud-practitioner-clf-c02-186i)
-- [2026 - The year of the Ralph Loop Agent](https://dev.to/alexandergekov/2026-the-year-of-the-ralph-loop-agent-1gkj)
-- [Why Markdown Is The Secret To Better AI](https://dev.to/karishmashukla/why-markdown-is-the-secret-to-better-ai-5b08)
+- [Iterando lo recursivo](https://dev.to/baltasarq/iterando-lo-recursivo-4d45)
+- [10 AWS Production Incidents That Taught Me Real-World SRE](https://dev.to/muhammad_yawar_malik/10-aws-production-incidents-that-taught-me-real-world-sre-38l2)
+- [Day-30 Kubernetes Networking Decoded: Why We Need Ingress and Ingress Controllers](https://dev.to/jayanth_dasari_7/day-30-kubernetes-networking-decoded-why-we-need-ingress-and-ingress-controllers-4kep)
+- [Browser-Based kubectl Access: Managing Kubernetes Without Bastion Hosts](https://dev.to/robert_r_7c237256b7614328/browser-based-kubectl-access-managing-kubernetes-without-bastion-hosts-1b4a)
+- [React &lpar;RSC&rpar; Exploits Are Real and It&#39;s Hurting Engineering Teams](https://dev.to/devarshishimpi/react-rsc-exploits-are-real-and-its-hurting-engineering-teams-32mi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
