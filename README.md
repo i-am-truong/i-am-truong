@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From Philosophy to Practice: Building Your First GraphQL API with Spring Boot 4](https://dev.to/dbc2201/from-philosophy-to-practice-building-your-first-graphql-api-with-spring-boot-4-2294)
+- [Kotlin vs Java: Why We Migrated to Kotlin for Enterprise Apps](https://dev.to/droiddevlab/kotlin-vs-java-why-we-migrated-to-kotlin-for-enterprise-apps-11l1)
 - [AI Trading: Lesson Learned #112: Self-Healing Data Integrity System Required](https://dev.to/igorganapolsky/ai-trading-lesson-learned-112-self-healing-data-integrity-system-required-g0h)
 - [The $100 Million Question: AI Layer vs. Full ERP Replacement](https://dev.to/genco_dvrkl/the-100-million-question-ai-layer-vs-full-erp-replacement-cjk)
 - [Building a RAG-Based AI Platform](https://dev.to/albakiev/building-a-rag-based-ai-platform-1m14)
-- [GitHub&#39;s December 2025 - January 2026: The Ships That Matter](https://dev.to/andreagriffiths11/githubs-december-2025-january-2026-the-ships-that-matter-2bgi)
-- [Cursor-like Semantic Rules in GitHub Copilot](https://dev.to/maximsaplin/cursor-like-semantic-rules-in-github-copilot-b56)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
