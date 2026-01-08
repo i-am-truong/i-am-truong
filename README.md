@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Type-Safe By Design: Architecting Applications That Make Bugs Impossible](https://dev.to/tarunmj6/type-safe-by-design-architecting-applications-that-make-bugs-impossible-2fi7)
-- [The Ultimate Guide to Effective Meeting Summaries: From Chaos to Clarity](https://dev.to/anas_kayssi/the-ultimate-guide-to-effective-meeting-summaries-from-chaos-to-clarity-13dc)
-- [When is a side project worth committing to?](https://dev.to/ben/when-is-a-side-project-worth-committing-to-5ec7)
-- [Hacked WordPress Site? Here’s What to Do Before Google Penalizes You](https://dev.to/mustafa_iqbal_decae31512c/hacked-wordpress-site-heres-what-to-do-before-google-penalizes-you-59d1)
-- [Memoization in React: Or How I Thought I Optimized My App &lpar;But Mostly Just Felt Productive&rpar;](https://dev.to/mrfrontenddev/memoization-in-react-or-how-i-thought-i-optimized-my-app-but-mostly-just-felt-productive-g72)
+- [Why I Rewrote Portage in Go: Introducing GRPM v0.1.0](https://dev.to/kolkov/why-i-rewrote-portage-in-go-introducing-grpm-v010-56j5)
+- [Build an AI-Powered Document Insights Tool with Django &lpar;Python&rpar;, and React](https://dev.to/faisal_malik_544/build-an-ai-powered-document-insights-tool-with-django-python-and-react-5bf7)
+- [Promptelle: An All-in-One AI Photo Prompt Platform for Faster Image Creation](https://dev.to/riven_chandler/promptelle-an-all-in-one-ai-photo-prompt-platform-for-faster-image-creation-5co0)
+- [Kubernetes Debugging in 3 Passi: logs, describe, events](https://dev.to/scape/kubernetes-debugging-in-3-passi-logs-describe-events-1562)
+- [Virtual Private Cloud Spiegato Semplice](https://dev.to/scape/virtual-private-cloud-spiegato-semplice-3c9h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
