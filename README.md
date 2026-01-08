@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Write a Resume With No Work Experience &lpar;Fresh Graduate Guide for 2026&rpar;](https://dev.to/resumemind/how-to-write-a-resume-with-no-work-experience-fresh-graduate-guide-for-2026-5bd8)
-- [[BOJ/C++] 단계별로 풀어보기 - 브루트 포스](https://dev.to/dbsans11/bojc-dangyebyeolro-puleobogi-beuruteu-poseu-p8j)
-- [The Vibe Coding Hangover Is Real: What Nobody Tells You About AI-Generated Code in Production](https://dev.to/paulthedev/the-vibe-coding-hangover-is-real-what-nobody-tells-you-about-ai-generated-code-in-production-399h)
-- [How I Built a Full-Featured SaaS with Rails 8 and Deploy It with One Command](https://dev.to/josem12/how-i-built-a-full-featured-saas-with-rails-8-and-deploy-it-with-one-command-1jnc)
-- [I Struggled with LeetCode for Months Until I Learned These 6 Patterns 🎯](https://dev.to/rajat128/i-struggled-with-leetcode-for-months-until-i-learned-these-6-patterns-3lo9)
+- [Understanding DLCM: A Deep Dive into Its Core Architecture and the Power of Causal Encoding](https://dev.to/mehrcodeland/understanding-dlcm-a-deep-dive-into-its-core-architecture-and-the-power-of-causal-encoding-4dc8)
+- [I Thought Creating My Browser Extension Course Would Take a Weekend. It Took 4 Months](https://dev.to/johnnyfekete/i-thought-creating-my-browser-extension-course-would-take-a-weekend-it-took-4-months-2nn6)
+- [How to Monitor Amazon EKS Using Prometheus and Grafana &lpar;Without Helm&rpar;](https://dev.to/dinesh_kumar_302/how-to-monitor-amazon-eks-using-prometheus-and-grafana-without-helm-10fb)
+- [QuantDinger: An open-source local quantitative trading platform.](https://dev.to/yuhang_chen_969a8b10adae9/quantdinger-an-open-source-local-quantitative-trading-platform-25fa)
+- [Top 10 Emerging Developer Tools to Watch in 2026](https://dev.to/ciphernutz/top-10-emerging-developer-tools-to-watch-in-2026-561b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
