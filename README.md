@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The 3-Day Code Review Problem &lpar;And What It&#39;s Actually Costing You&rpar;](https://dev.to/bjornbrynjarjonsson/the-3-day-code-review-problem-and-what-its-actually-costing-you-5m8)
+- [Building the Next Generation of Voice Agents with Strands](https://dev.to/rafael_rodriguez/building-the-next-generation-of-voice-agents-with-strands-2lhk)
 - [Is your monitoring testing strategy chaos?](https://dev.to/simon_hanmer/is-your-monitoring-testing-strategy-chaos-1knj)
-- [5 Patterns That Make AI Coding Assistants 10x More Effective](https://dev.to/kiwibreaksme/5-patterns-that-make-ai-coding-assistants-10x-more-effective-55lj)
-- [CSS @property: advanced theming](https://dev.to/effnd/css-property-advanced-theming-58na)
-- [Events &amp; Event Handling in JavaScript – A Complete Beginner Guide](https://dev.to/vyankateshbairagi/events-event-handling-in-javascript-a-complete-beginner-guide-4b1b)
-- [Open Sourcing FortyOne: Agentic Project Management With an AI Teammate](https://dev.to/josemukorivo/open-sourcing-fortyone-agentic-project-management-with-an-ai-teammate-3ioi)
+- [On Being Productive Without Being Busy](https://dev.to/sergueyasaelshinder/on-being-productive-without-being-busy-558b)
+- [Engineering metrics: using data &lpar;DORA and others&rpar; to improve the team](https://dev.to/kodus/engineering-metrics-using-data-dora-and-others-to-improve-the-team-4ad4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
