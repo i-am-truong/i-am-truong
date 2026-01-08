@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Announcing dwayne/elm2nix](https://dev.to/dwayne/announcing-dwayneelm2nix-46pc)
-- [Trademark Registration in Kuwait](https://dev.to/azlam_a7a1bf8135741caec3f/trademark-registration-in-kuwait-39h7)
-- [Understanding DLCM: A Deep Dive into Its Core Architecture and the Power of Causal Encoding](https://dev.to/mehrcodeland/understanding-dlcm-a-deep-dive-into-its-core-architecture-and-the-power-of-causal-encoding-4dc8)
-- [I Thought Creating My Browser Extension Course Would Take a Weekend. It Took 4 Months](https://dev.to/johnnyfekete/i-thought-creating-my-browser-extension-course-would-take-a-weekend-it-took-4-months-2nn6)
-- [Elevating Innovation: The Future of Cloud with Platform as a Service &lpar;PaaS&rpar;](https://dev.to/vjnvisakh/elevating-innovation-the-future-of-cloud-with-platform-as-a-service-paas-2kne)
+- [5 Patterns That Make AI Coding Assistants 10x More Effective](https://dev.to/kiwibreaksme/5-patterns-that-make-ai-coding-assistants-10x-more-effective-55lj)
+- [CSS @property: advanced theming](https://dev.to/effnd/css-property-advanced-theming-58na)
+- [Events &amp; Event Handling in JavaScript – A Complete Beginner Guide](https://dev.to/vyankateshbairagi/events-event-handling-in-javascript-a-complete-beginner-guide-4b1b)
+- [Open Sourcing FortyOne: Agentic Project Management With an AI Teammate](https://dev.to/josemukorivo/open-sourcing-fortyone-agentic-project-management-with-an-ai-teammate-3ioi)
+- [Building Auth Validation: 5 Lessons on Making Error Messages Actually Helpful](https://dev.to/y-takashi/building-auth-validation-5-lessons-on-making-error-messages-actually-helpful-32e2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
