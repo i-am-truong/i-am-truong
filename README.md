@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🌐 Cisco Packet Tracer Lab Collection](https://dev.to/akkaraponph/cisco-packet-tracer-lab-collection-2m17)
-- [How My Company Automate Meeting Notes to Jira](https://dev.to/aatechother/how-my-company-automate-meeting-notes-to-jira-4o6f)
-- [Beyond Manual Audits: Building an Autonomous AI Clinical Compliance Auditor](https://dev.to/exploredataaiml/beyond-manual-audits-building-an-autonomous-ai-clinical-compliance-auditor-2abl)
-- [Implementing Real-Time Streaming with VAPI: Enhancing Customer Support with Voice AI](https://dev.to/callstacktech/implementing-real-time-streaming-with-vapi-enhancing-customer-support-with-voice-ai-182l)
-- [Small Business Server Sizing Guide: CPU, RAM, SSDs](https://dev.to/askmianzaheer/small-business-server-sizing-guide-cpu-ram-ssds-3moi)
+- [🚨 AWS 128: Setting Up Amazon ECR and Pushing Docker Images](https://dev.to/hritikraj8804/aws-128-setting-up-amazon-ecr-and-pushing-docker-images-35i4)
+- [Learning Docker by Building a Three-Tier MERN Application](https://dev.to/sneha_tomar_23/learning-docker-by-building-a-three-tier-mern-application-24c3)
+- [New Year, New You Portfolio Challenge Presented by Google AI](https://dev.to/dthiwanka/new-year-new-you-portfolio-challenge-presented-by-google-ai-1448)
+- [NodeJS 101 —  Part 4 🔐 Authorization with JWT](https://dev.to/akkaraponph/nodejs-101-part-4-authorization-with-jwt-oen)
+- [Early-Career Software Development: A Production-Oriented View](https://dev.to/thiago_signoretti_af6d047/early-career-software-development-a-production-oriented-view-2cke)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
