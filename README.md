@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Write a Resume With No Work Experience &lpar;Fresh Graduate Guide for 2026&rpar;](https://dev.to/resumemind/how-to-write-a-resume-with-no-work-experience-fresh-graduate-guide-for-2026-5bd8)
 - [[BOJ/C++] 단계별로 풀어보기 - 브루트 포스](https://dev.to/dbsans11/bojc-dangyebyeolro-puleobogi-beuruteu-poseu-p8j)
 - [The Vibe Coding Hangover Is Real: What Nobody Tells You About AI-Generated Code in Production](https://dev.to/paulthedev/the-vibe-coding-hangover-is-real-what-nobody-tells-you-about-ai-generated-code-in-production-399h)
 - [How I Built a Full-Featured SaaS with Rails 8 and Deploy It with One Command](https://dev.to/josem12/how-i-built-a-full-featured-saas-with-rails-8-and-deploy-it-with-one-command-1jnc)
 - [I Struggled with LeetCode for Months Until I Learned These 6 Patterns 🎯](https://dev.to/rajat128/i-struggled-with-leetcode-for-months-until-i-learned-these-6-patterns-3lo9)
-- [🔐 Cloud Security Best Practices: How to Secure Cloud-Based Web Applications Without Slowing Down](https://dev.to/okoye_ndidiamaka_5e3b7d30/cloud-security-best-practices-how-to-secure-cloud-based-web-applications-without-slowing-down-2epj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
