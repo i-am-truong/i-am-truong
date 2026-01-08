@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building with Background Removal APIs: Why Cost Matters &lpar;And How to Save 95%&rpar;](https://dev.to/tamnv/building-with-background-removal-apis-why-cost-matters-and-how-to-save-95-11ce)
-- [Assertion Blocks in Voiden](https://dev.to/dhruv2038/assertion-blocks-in-voiden-fhm)
-- [Selenium and its Uses in Automation Testing using Python](https://dev.to/sindu_raghul_58b7fa6478d7/selenium-and-its-uses-in-automation-testing-using-python-462m)
-- [Identify AWS Technical Resources And AWS Support Options](https://dev.to/aws-builders/identify-aws-technical-resources-and-aws-support-options-1c2b)
-- [I Released a Production iOS App Without Reading Code: The Reality of “Vibe Coding”](https://dev.to/mabikuso/i-released-a-production-ios-app-without-reading-code-the-reality-of-vibe-coding-3747)
+- [Effortless Android Logging with Timber and Kotlin](https://dev.to/supriya_shah_1e9c3df6158c/effortless-android-logging-with-timber-and-kotlin-8h8)
+- [Understanding API Authentication in C# : Mastering](https://dev.to/thedsdev/understanding-api-authentication-in-c-mastering-4ipn)
+- [🚨 TypeORM Hook Gotcha: Password Not Hashing! 🚨](https://dev.to/mdgolamrabbanirafi/typeorm-hook-gotcha-password-not-hashing-4j90)
+- [Cerberus-GPT](https://dev.to/falconmx1/cerberus-gpt-4o11)
+- [HTML You Think You Know &lpar;But Probably Don’t&rpar;](https://dev.to/aryan_shourie/html-you-think-you-know-but-probably-dont-2d6j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
