@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🧗‍♂️Beginner-Friendly Guide &#39;Max Dot Product of Two Subsequences&#39; – LeetCode 1458 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-max-dot-product-of-two-subsequences-leetcode-1458-c-python-2mgf)
+- [COOLIFY : THE DEPLOYMENT ARBITRAGE RECLAIMING STARTUP RUNWAY FROM VERCEL](https://dev.to/_aparna_pradhan_/coolify-the-deployment-arbitrage-reclaiming-startup-runway-from-vercel-3be9)
+- [How LLM use MCPs?](https://dev.to/hiteshchawla/how-llm-use-mcps-4mp2)
 - [Microsoft Azure AI-900 Syllabus Changes Explained &lpar;What’s New &amp; Why&rpar;](https://dev.to/sandrabrown/microsoft-azure-ai-900-syllabus-changes-explained-whats-new-why-1579)
 - [You Probably Already Know What a Monad Is](https://dev.to/cekrem/you-probably-already-know-what-a-monad-is-2h95)
-- [Reducing Sentry APM Costs in FastAPI by Sending Only What Matters](https://dev.to/jayakrishnayadav24/reducing-sentry-apm-costs-in-fastapi-by-sending-only-what-matters-2lmm)
-- [Boot Process &amp; Init Systems](https://dev.to/sbkumbar024/boot-process-init-systems-5gd3)
-- [How to Crack Any Software Developer Interview in 2026 &lpar;Updated for AI &amp; Modern Hiring&rpar;](https://dev.to/finalroundai/how-to-crack-any-software-developer-interview-in-2026-updated-for-ai-modern-hiring-4ih8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
