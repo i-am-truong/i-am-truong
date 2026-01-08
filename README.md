@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Agent Factory Recap: A Deep Dive into Agent Evaluation, Practical Tooling, and Multi-Agent Systems](https://dev.to/googleai/agent-factory-recap-a-deep-dive-into-agent-evaluation-practical-tooling-and-multi-agent-systems-4pbj)
 - [Day 12: Understanding Constructors in Java](https://dev.to/karthick_narayanan/day-12-understanding-constructors-in-java-a3p)
 - [Technologies and Concepts: Cloud Practitioner &lpar;CLF-C02&rpar;](https://dev.to/aws-builders/technologies-and-concepts-cloud-practitioner-clf-c02-186i)
 - [2026 - The year of the Ralph Loop Agent](https://dev.to/alexandergekov/2026-the-year-of-the-ralph-loop-agent-1gkj)
 - [Why Markdown Is The Secret To Better AI](https://dev.to/karishmashukla/why-markdown-is-the-secret-to-better-ai-5b08)
-- [TypeScript Generics in React Components.](https://dev.to/egorovsa/typescript-generics-in-react-components-5ej)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
