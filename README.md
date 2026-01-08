@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Effortless Android Logging with Timber and Kotlin](https://dev.to/supriya_shah_1e9c3df6158c/effortless-android-logging-with-timber-and-kotlin-8h8)
-- [Understanding API Authentication in C# : Mastering](https://dev.to/thedsdev/understanding-api-authentication-in-c-mastering-4ipn)
-- [🚨 TypeORM Hook Gotcha: Password Not Hashing! 🚨](https://dev.to/mdgolamrabbanirafi/typeorm-hook-gotcha-password-not-hashing-4j90)
-- [Cerberus-GPT](https://dev.to/falconmx1/cerberus-gpt-4o11)
-- [HTML You Think You Know &lpar;But Probably Don’t&rpar;](https://dev.to/aryan_shourie/html-you-think-you-know-but-probably-dont-2d6j)
+- [🔐 Cloud Security Best Practices: How to Secure Cloud-Based Web Applications Without Slowing Down](https://dev.to/okoye_ndidiamaka_5e3b7d30/cloud-security-best-practices-how-to-secure-cloud-based-web-applications-without-slowing-down-2epj)
+- [لماذا نعتقد: كيف يمكننا تحسين قدرة النماذج على التفكير](https://dev.to/mohamedshabanai/lmdh-ntqd-kyf-ymknn-thsyn-qdr-lnmdhj-l-ltfkyr-103i)
+- [The 7 Best Developer Portals for Enterprise Teams in 2025](https://dev.to/luciench/the-7-best-developer-portals-for-enterprise-teams-in-2025-4kgj)
+- [Not Another Day 0 Like Other Startups](https://dev.to/justacompany/not-another-day-0-like-other-startups-297b)
+- [🎉 Big News for Python Developers &amp; Mermaid Fans: &quot;mmdc&quot; Makes Mermaid Diagrams Easy as Python! 🚀](https://dev.to/mohammadraziei/big-news-for-python-developers-mermaid-fans-mmdc-makes-mermaid-diagrams-easy-as-python-1gok)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
