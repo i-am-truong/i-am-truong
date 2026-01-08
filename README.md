@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Monorepo Demystified: Turborepo vs. Lerna vs. Nx - Which one should you choose? 🚀](https://dev.to/werliton/monorepo-demystified-turborepo-vs-lerna-vs-nx-which-one-should-you-choose-3aeh)
-- [Dive Deeper into JavaScript: Your Key to Unlocking React Mastery! &lpar;Day 2 – Pre-React Article 2&rpar;](https://dev.to/vasughanta09/dive-deeper-into-javascript-your-key-to-unlocking-react-mastery-day-2-pre-react-article-2-5ahe)
-- [mebularts: A tiny Turkish fake data generator for tests &lpar;names, phones, addresses, user-agents&rpar;](https://dev.to/mebularts/mebularts-a-tiny-turkish-fake-data-generator-for-tests-names-phones-addresses-user-agents-dj8)
-- [How to Get Better at LeetCode: 10 Tips That Actually Work &lpar;2026&rpar;](https://dev.to/alex_hunter_44f4c9ed6671e/how-to-get-better-at-leetcode-10-tips-that-actually-work-2026-5dim)
-- [I Built a CLI Tool to Make Git Worktree Enjoyable](https://dev.to/kexi/i-built-a-cli-tool-to-make-git-worktree-enjoyable-4fh3)
+- [How to Create a Simple Carousel/Slider in React](https://dev.to/edriso/how-to-create-a-simple-carouselslider-in-react-h1f)
+- [What Is WordPress? Why It’s Popular and How It Actually Works](https://dev.to/kathirvel-s/what-is-wordpress-why-its-popular-and-how-it-actually-works-26f4)
+- [Framework de Gobernanza para IA Responsable](https://dev.to/nchicaizaliz/framework-de-gobernanza-para-ia-responsable-48ga)
+- [Getting Started with 2D Games Using Pyxel &lpar;Part 5&rpar;: Creating Characters with Classes](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-pyxel-part-5-creating-characters-with-classes-4921)
+- [What makes a good tech Meet-up?](https://dev.to/josefine/what-makes-a-good-tech-meet-up-16k9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
