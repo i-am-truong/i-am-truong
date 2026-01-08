@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Best AI Diagramming Tools for Developers in 2026](https://dev.to/dashin_pro/best-ai-diagramming-tools-for-developers-in-2026-3ni3)
-- [The Silent Database Conflict](https://dev.to/dcs-soni/the-silent-database-conflict-boc)
-- [AWS Community Builder Applications for 2026 is Now Open! Here&#39;s Why You Should Apply.](https://dev.to/aws-builders/aws-community-builder-applications-for-2026-is-now-open-heres-why-you-should-apply-17c6)
-- [Use native dialog with Turbo &lpar;and no extra JavaScript&rpar;](https://dev.to/railsdesigner/use-native-dialog-with-turbo-and-no-extra-javascript-3j4l)
-- [Instancias reservadas de AWS- Vistazo breve](https://dev.to/barbara_gaspar/instancias-reservadas-de-aws-vistazo-breve-292a)
+- [How GitHub Pull Requests in VS Code Improved My Open-Source Workflow](https://dev.to/whoisprince/how-github-pull-requests-in-vs-code-improved-my-open-source-workflow-8co)
+- [How do I discover new music that actually fits my taste?](https://dev.to/luca_dark_rnb/how-do-i-discover-new-music-that-actually-fits-my-taste-1dc2)
+- [Building Collaborative AI Agent Ecosystems: A Deep Dive into ADK, MCP &amp; A2A with Pokemon](https://dev.to/gde/building-collaborative-ai-agent-ecosystems-a-deep-dive-into-adk-mcp-a2a-with-pokemon-4ceh)
+- [3 LLM Underdogs of 2025](https://dev.to/zloeber/3-llm-underdogs-of-2025-2e1i)
+- [Understanding Server Functions: TanStack Start vs Next.js](https://dev.to/ahr_dev/understanding-server-functions-tanstack-start-vs-nextjs-4dpp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
