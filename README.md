@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Deploy Your Web App with AWS Elastic Beanstalk](https://dev.to/ojosamuel129/how-to-deploy-your-web-app-with-aws-elastic-beanstalk-35n1)
-- [OpenLens Cannot Connect to AWS EKS Cluster: executable aws not found](https://dev.to/camille_chang/openlens-cannot-connect-to-aws-eks-cluster-e8i)
-- [I built a permanent text wall. Someone is already stuck in Vim.](https://dev.to/zenomhunter123/i-built-a-permanent-text-wall-someone-is-already-stuck-in-vim-3h1m)
-- [Day Three with SQL: Inserting Data, Querying Smarter, and Working with Real Datasets](https://dev.to/mazinocodes/day-three-with-sql-inserting-data-querying-smarter-and-working-with-real-datasets-2l3n)
-- [AI Trading: Lesson Learned #112: Phase 1 Cleanup - ChromaDB Removed](https://dev.to/igorganapolsky/ai-trading-lesson-learned-112-phase-1-cleanup-chromadb-removed-3m40)
+- [When I Discovered Recursive Intelligence](https://dev.to/fwdslsh/rhizas-kernel-chronicles-when-i-discovered-recursive-intelligence-io8)
+- [Optimizing JSON for LLMs](https://dev.to/mattlewandowski93/optimizing-json-for-llms-1dgf)
+- [🚀 My DevOps Journey: From Learning to Building on AWS with Containers](https://dev.to/devopsexpertlearning/my-devops-journey-from-learning-to-building-on-aws-with-containers-1lnm)
+- [The Ultimate Guide to Terraform Drift Detection: How to Detect, Prevent, and Remediate Infrastructure Drift](https://dev.to/env0/the-ultimate-guide-to-terraform-drift-detection-how-to-detect-prevent-and-remediate-5hji)
+- [From Pixels to Calories: Building a Multimodal Meal Analysis Engine with GPT-4o](https://dev.to/beck_moulton/from-pixels-to-calories-building-a-multimodal-meal-analysis-engine-with-gpt-4o-107)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
