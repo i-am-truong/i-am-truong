@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Most Developer Productivity Tools Are Just Procrastination With Better UX](https://dev.to/azrael654/most-developer-productivity-tools-are-just-procrastination-with-better-ux-39gl)
-- [SEO is a Hardware Porblem](https://dev.to/amos_weiskopf_749a69e7c78/seo-is-a-hardware-porblem-plk)
-- [I built an AI that detects your mood while coding &lpar;Locally in VS Code&rpar; 🧠✨](https://dev.to/freerave/i-built-an-ai-that-detects-your-mood-while-coding-locally-in-vs-code-1dn6)
-- [C#.NET - day 06](https://dev.to/sabin_sim/cnet-day-06-dmg)
-- [What Happens Before the Event Loop. Part 1](https://dev.to/iagrekhovfronted/what-happens-before-the-event-loop-5egj)
+- [Testing Recovery: Proving Your App Helps People Stabilize](https://dev.to/crisiscoresystems/testing-recovery-verifying-that-systems-actually-help-people-get-better-1o6o)
+- [Building a Production-Grade E-Commerce Platform on GCP: A Complete DevOps Journey](https://dev.to/deepanshub09/building-a-production-grade-e-commerce-platform-on-gcp-a-complete-devops-journey-4lj4)
+- [REST vs GraphQL: Two Philosophies, Two Eras, One Endless Debate](https://dev.to/dbc2201/rest-vs-graphql-two-philosophies-two-eras-one-endless-debate-1i1a)
+- [Day 9 of 100](https://dev.to/palakhirave/day-9-of-100-27aa)
+- [My Node.js API Best Practices in 2025](https://dev.to/wmdn9116/my-nodejs-api-best-practices-in-2025-1km5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
