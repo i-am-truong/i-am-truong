@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Organizational Autoimmune Disorders](https://dev.to/linkbenjamin/organizational-autoimmune-disorders-3ec2)
-- [What CEO retreats actually change for engineering execution](https://dev.to/imperium_by_edstellar/what-ceo-retreats-actually-change-for-engineering-execution-5a3f)
-- [Digital Twin Documentation Doesn&#39;t Scale - Here&#39;s Why](https://dev.to/ronny_elsner_7g/digital-twin-documentation-doesnt-scale-heres-why-35lb)
-- [I Tried to Beat WebAssembly With Node.js](https://dev.to/sfundomhlungu/i-tried-to-beat-webassembly-with-nodejs-499o)
-- [Zero-Friction Database Branching with Neon, Git Hooks, and Claude Code](https://dev.to/evoleinik/zero-friction-database-branching-with-neon-git-hooks-and-claude-code-1apm)
+- [Why WebAuthn Feels Easy — Until You Try to Ship It](https://dev.to/dqj1998/why-webauthn-feels-easy-until-you-try-to-ship-it-5bi3)
+- [I&#39;m Building a Game Engine in Node.js &lpar;Yes, Really&rpar;](https://dev.to/sfundomhlungu/im-building-a-game-engine-in-nodejs-yes-really-53ka)
+- [Metaclass Polymorphic Crypto: Enhanced Proof of Concept](https://dev.to/hejhdiss/metaclass-polymorphic-crypto-enhanced-proof-of-concept-272p)
+- [How AWS Lambda and Fargate Change the Way We Build Apps](https://dev.to/aws-builders/how-aws-lambda-and-fargate-change-the-way-we-build-apps-dh1)
+- [When React Starts Acting Like jQuery &lpar;and You Can Totally Tell 😅&rpar;](https://dev.to/sylwia-lask/when-react-starts-acting-like-jquery-and-you-can-totally-tell--3kpe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
