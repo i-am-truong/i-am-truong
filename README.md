@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Philosophy to Practice: Building Your First GraphQL API with Spring Boot 4](https://dev.to/dbc2201/from-philosophy-to-practice-building-your-first-graphql-api-with-spring-boot-4-2294)
-- [Kotlin vs Java: Why We Migrated to Kotlin for Enterprise Apps](https://dev.to/droiddevlab/kotlin-vs-java-why-we-migrated-to-kotlin-for-enterprise-apps-11l1)
-- [AI Trading: Lesson Learned #112: Self-Healing Data Integrity System Required](https://dev.to/igorganapolsky/ai-trading-lesson-learned-112-self-healing-data-integrity-system-required-g0h)
-- [The $100 Million Question: AI Layer vs. Full ERP Replacement](https://dev.to/genco_dvrkl/the-100-million-question-ai-layer-vs-full-erp-replacement-cjk)
-- [Building a RAG-Based AI Platform](https://dev.to/albakiev/building-a-rag-based-ai-platform-1m14)
+- [Angular Version 21 eStore + Shopping Cart Prototype](https://dev.to/lstanikmas/angular-version-21-estore-shopping-cart-prototype-30ce)
+- [Why email journaling works when apps never did &lpar;and why I built DailyInk&rpar;](https://dev.to/code_guru/why-email-journaling-works-when-apps-never-did-and-why-i-built-dailyink-3klh)
+- [How I Used GitLab Duo Agent Platorm to Build a Conference Demo in under an hour](https://dev.to/shivaylamba/how-i-used-gitlab-duo-agent-platorm-to-build-a-conference-demo-in-under-an-hour-1c88)
+- [7 Essential Rust Libraries for Building High-Performance Backends](https://dev.to/james_miller_8dc58a89cb9e/7-essential-rust-libraries-for-building-high-performance-backends-4o2j)
+- [PHP fun: regex builder in 8.5](https://dev.to/xwero/php-fun-regex-builder-in-85-3in6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
