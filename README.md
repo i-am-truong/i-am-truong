@@ -120,13 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Security news weekly round-up - 9th January 2026](https://dev.to/ziizium/security-news-weekly-round-up-9th-january-2026-48p0)
+- [How Modern Retail Platforms Sync POS, ERP, and eCommerce Using APIs](https://dev.to/mercyantony/how-modern-retail-platforms-sync-pos-erp-and-ecommerce-using-apis-2hgj)
 - [I&#39;m challenging myself to build 1 tool / mini startup a week this year. 52 tools](https://dev.to/ido_cohen_ba84f26f76772ca/im-challenging-myself-to-build-1-tool-mini-startup-a-week-this-year-52-tools-5d1f)
 - [What&#39;s Inside the .git Folder?](https://dev.to/satpalsinhrana/whats-inside-the-git-folder-2obg)
 - [End-to-End Monitoring Explained for Homelabs: Prometheus, Grafana &amp; Alertmanager](https://dev.to/tsukiyo/end-to-end-monitoring-explained-for-homelabs-prometheus-grafana-alertmanager-2g3k)
-- [Cool Article on API Tools!!
-
-https://medium.com/@somendradev23/10-api-tools-every-full-stack-developer-should-know-6f9af40ae0ec](https://dev.to/evanlausier/cool-article-on-api-tools-5100)
-- [I Lost an Interview So You Don’t Have To: A Lesson in Interview Prep](https://dev.to/konfydev/i-lost-an-interview-so-you-dont-have-to-a-lesson-in-interview-prep-2eg2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
