@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [TIL: Blazing-fast correlated exists queries](https://dev.to/epigene/til-blazing-fast-correlated-exists-queries-2gmd)
-- [Building a Cybersecurity Home lab: Architecture, Tools, and Lessons Learned](https://dev.to/ayush_madavi_/building-a-cybersecurity-home-lab-architecture-tools-and-lessons-learned-jo0)
-- [GLX: A New Programming Language for System Scripting, Replacement For Bash](https://dev.to/danishk_sinha_050b8e04527/glx-a-new-programming-language-for-system-scripting-replacement-for-bash-1c1d)
-- [I built a CLI that lets me use AI directly from my terminal](https://dev.to/aletechsolutions/i-built-a-cli-that-lets-me-use-ai-directly-from-my-terminal-322i)
-- [Implementing player/coach workflow with Kiro CLI subagents](https://dev.to/aws/implementing-playercoach-workflow-with-kiro-cli-subagents-2gf3)
+- [New Year, New You Portfolio Challenge - Akkarapon Phikulsri](https://dev.to/akkaraponph/new-year-new-you-portfolio-challenge-akkarapon-phikulsri-2n15)
+- [AceHack 5.0 Theme Reveal: Inspired by Minecraft, Built for Builders](https://dev.to/acehack/acehack-50-theme-reveal-inspired-by-minecraft-built-for-builders-5f5i)
+- [HA K8s cluster using kube-vip](https://dev.to/achu1612/ha-k8s-cluster-using-kube-vip-48jn)
+- [Shift-left with GitHub Amazon Q Developer Project Rules](https://dev.to/aws-builders/shift-left-with-github-amazon-q-developer-project-rules-3dn8)
+- [I build a small website to challenge people&#39;s CSS skill!](https://dev.to/anson_sun_9ffc869bd8e3c53/i-build-a-small-website-to-challenge-peoples-css-skill-13o5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
