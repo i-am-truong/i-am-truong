@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [DGX Spark AU Pricing: $6,249-$7,999 at Major Retailers](https://dev.to/rosgluk/dgx-spark-au-pricing-6249-7999-at-major-retailers-54j7)
-- [From Zero to SDF Editor Beta: How I Used AI to Force My Dream Project Out of the Prototype Stage. What I learned?](https://dev.to/embernoglow/from-zero-to-sdf-editor-beta-how-i-used-ai-to-force-my-dream-project-out-of-the-prototype-stage-46fi)
-- [The only python GUI library you will need in 2026...](https://dev.to/scriptor/the-only-python-gui-library-you-will-need-in-2026-14d1)
-- [Tech Stack Lessons from scaling 20x in a year](https://dev.to/code42cate/tech-stack-lessons-from-scaling-20x-in-a-year-1ekh)
-- [Build an Influencer Fake Follower Detector with Node.js](https://dev.to/olams/build-an-influencer-fake-follower-detector-with-nodejs-344p)
+- [I Reviewed 50 Junior Developer Resumes — Here’s What Actually Works](https://dev.to/resumemind/i-reviewed-50-junior-developer-resumes-heres-what-actually-works-4njf)
+- [JAVA INTERNALS: JDK, JRE, JVM, and JIT!](https://dev.to/anees_abdul_ec1dda9c7697b/java-internals-jdk-jre-jvm-and-jit-33kp)
+- [Italian Pasta in Brampton](https://dev.to/fanzorellis/italian-pasta-in-brampton-4olp)
+- [Free Resume Bullet Rewriter &lpar;Impact-Focused&rpar;](https://dev.to/creatoros/free-resume-bullet-rewriter-impact-focused-3b35)
+- [How to validate an email address? Quick and simple 🚀](https://dev.to/k_vrbova/how-to-validate-an-email-address-everything-you-need-to-know-508e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
