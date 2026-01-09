@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Orchestrating Intelligence: Simplifying Agentic Workflows with Model Context Protocol](https://dev.to/om_shree_0709/orchestrating-intelligence-simplifying-agentic-workflows-with-model-context-protocol-30dg)
-- [Combine #15: Usando Combine desde SwiftUI &lpar;1&rpar;](https://dev.to/david_goyes_a488f58a17a53/combine-15-usando-combine-desde-swiftui-1-521j)
-- [free yourself of overpriced docusign and self-host DocuSeal instead 🦭🦭🦭](https://dev.to/code42cate/free-yourself-of-overpriced-docusign-and-self-host-docuseal-instead-59jh)
-- [🎓 Thrilled to Announce My BTech 3rd Year Project 🚀 Blockchain-Based Digital Credential Verification System](https://dev.to/harsh1d/thrilled-to-announce-my-btech-3rd-year-project-blockchain-based-digital-credential-2noi)
-- [Self-hosting DocuSeal the easy way](https://dev.to/atakanozt/self-hosting-docuseal-the-easy-way-1o4m)
+- [Perpetual vs Subscription Licenses: Which Business Model Wins in 2026?](https://dev.to/olivier_moussalli_e3492f5/perpetual-vs-subscription-licenses-which-business-model-wins-in-2026-19nb)
+- [[Boost]](https://dev.to/rakeshv675/-3282)
+- [Getting Started with Docker](https://dev.to/ethan_zhang_e501fea89c25b/getting-started-with-docker-50po)
+- [Let’s break down DNS: how your browser finds a website](https://dev.to/syedfazil/lets-break-down-dns-how-your-browser-finds-a-website-15lf)
+- [How to Structure Your Resume for Maximum Impact, Stand Out to Recruiters and Beat the ATS](https://dev.to/saber-amani/how-to-structure-your-tech-resume-for-maximum-impact-stand-out-to-recruiters-and-beat-the-ats-4go)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
