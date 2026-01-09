@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Build a ChatGPT App with Mapbox](https://dev.to/mapbox/build-a-chatgpt-app-with-mapbox-dca)
-- [Progress First, Judgment Later: Gutenberg and AI &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/progress-first-judgment-later-gutenberg-and-ai-bite-size-article-50k9)
-- [Turning Images Into Game-Ready PBR Textures With Python &lpar;Offline, No Subscriptions&rpar;](https://dev.to/matetechnologie/turning-images-into-game-ready-pbr-textures-with-python-offline-no-subscriptions-1ok)
-- [The FAANG is dead💀](https://dev.to/alexr/the-faang-is-dead-dd9)
-- [Food Delivery App &lpar;Zomato/Swiggy&rpar;](https://dev.to/arghya_majumder_54190fb59/food-delivery-app-zomatoswiggy-4443)
+- [My First Open Source Contribution Was to an Authentication Project — And It Was Surprisingly Friendly](https://dev.to/kbpramod/my-first-open-source-contribution-was-to-an-authentication-project-and-it-was-surprisingly-ced)
+- [I Lost $1,200 to YouTube Scams in 90 Days. Now My AI Tool Spots Fake &quot;Make Money&quot; Videos in 10 Seconds &lpar;Free&rpar;](https://dev.to/nyanguno/i-lost-1200-to-youtube-scams-in-90-days-now-my-ai-tool-spots-fake-make-money-videos-in-10-3ddf)
+- [If you could recommend only one book, what would it be and why? 📚](https://dev.to/imasystemengineer/if-you-could-recommend-only-one-book-what-would-it-be-and-why-37i7)
+- [How to effectively monitor regular backups](https://dev.to/cronmonitor/how-to-effectively-monitor-regular-backups-3efc)
+- [Mastering the Art of Analyzing and Visualizing Data in Looker](https://dev.to/tech_croc_f32fbb6ea8ed4/mastering-the-art-of-analyzing-and-visualizing-data-in-looker-2n5k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
