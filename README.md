@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Breaking the interface barrier: CGLIB and ByteBuddy](https://dev.to/rajatarora/breaking-the-interface-barrier-cglib-and-bytebuddy-462a)
-- [12 Open Source Gems To Become The Ultimate Developer](https://dev.to/daisy_jones_21bdcc6b40f9d/12-open-source-gems-to-become-the-ultimate-developer-5gp0)
-- [Angular Signal Forms: How to Structure Large Forms Without Losing Your Mind](https://dev.to/brianmtreese/angular-signal-forms-how-to-structure-large-forms-without-losing-your-mind-5af)
-- [[System Design] Why Is Your App &quot;Overselling&quot;? A Founder&#39;s First Lesson in Concurrency](https://dev.to/aaronwubuilds_eae84aa63ce/system-design-why-is-your-app-overselling-a-founders-first-lesson-in-concurrency-36m9)
-- [Creating Materials in Unreal Engine 5 and Understanding ORM Textures &lpar;Day 14&rpar;](https://dev.to/dinesh_04/creating-materials-in-unreal-engine-5-and-understanding-orm-textures-day-14-11mb)
+- [Laid Off on the First Workday of the Year—and What Came Next](https://dev.to/miracool/laid-off-on-the-first-workday-of-the-year-and-what-came-next-gii)
+- [زمن التفكير: كيف يغير лицо النماذج](https://dev.to/mohamedshabanai/zmn-ltfkyr-kyf-ygyr-litso-lnmdhj-fka)
+- [Reclaiming Idle GPUs in Kubernetes: Why We Built a Custom Scheduler Plugin](https://dev.to/lalit_s_632d475cb559a56ca/reclaiming-idle-gpus-in-kubernetes-why-we-built-a-custom-scheduler-plugin-34k2)
+- [คุยกันเรื่อง Writing Better Go: Lessons from 10 Code Reviews](https://dev.to/pallat/khuykaneruueng-writing-better-go-lessons-from-10-code-reviews-2jgf)
+- [The First Week at a Startup Taught Me More Than I Expected](https://dev.to/itsugo/the-first-week-at-a-startup-taught-me-more-than-i-expected-158a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
