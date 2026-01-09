@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [# Welcome to React World: Grasp the Fundamentals and Mental Model! &lpar;React Day 1&rpar;](https://dev.to/vasughanta09/-welcome-to-react-world-grasp-the-fundamentals-and-mental-model-react-day-1-2kj4)
+- [5 Corporate Gift Ideas That Match Company Brand Values](https://dev.to/petermethews/5-corporate-gift-ideas-that-match-company-brand-values-54hm)
+- [Let’s Build a Deep Learning Library from Scratch Using NumPy &lpar;Part 3: Training MNIST&rpar;](https://dev.to/zekcrates/lets-build-a-deep-learning-library-from-scratch-using-numpy-part-3-training-mnist-5407)
 - [Today I Truly Understood the useRef Hook &lpar;Not Just What It Does, But Why It Exists&rpar;](https://dev.to/usama_dev/today-i-truly-understood-the-useref-hook-not-just-what-it-does-but-why-it-exists-4iif)
 - [SQL Pattern Matching Finally Makes Sense &lpar;LIKE, ILIKE, IN, BETWEEN&rpar;](https://dev.to/mazinocodes/sql-pattern-matching-finally-makes-sense-like-ilike-in-between-3o9n)
-- [IRQs and the Art of Not Crashing](https://dev.to/florent_herisson_691b0bac/irqs-and-the-art-of-not-crashing-non)
-- [How running a single EC2 with just Gunicorn silently capped my app — and what it taught me about real scaling](https://dev.to/saifullahusmani/how-running-a-single-ec2-with-just-gunicorn-silently-capped-my-app-and-what-it-taught-me-about-1m17)
-- [December 2025 VS Code Update &lpar;Version 1.108&rpar; – What’s New and Why It Matters](https://dev.to/hamidrazadev/december-2025-vs-code-update-version-1108-whats-new-and-why-it-matters-2o7f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
