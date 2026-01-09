@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to get virtual display outputs on Linux without using a dummy plug](https://dev.to/foxes/how-to-get-virtual-display-outputs-on-linux-without-using-a-dummy-plug-50d3)
+- [Kubernetes Services &amp; Networking](https://dev.to/jumptotech/kubernetes-services-networking-1apj)
+- [When CRUD Tables Are No Longer Enough](https://dev.to/giuliopanda/when-crud-tables-are-no-longer-enough-53f)
 - [Catching the &quot;Ghost Gateway&quot;: GFSHELL Polymorphic Evasion](https://dev.to/brandennaidoo/catching-the-ghost-gateway-gfshell-polymorphic-evasion-12d7)
 - [MongoDB Advanced Aggregations With Spring Boot and Amazon Corretto](https://dev.to/mongodb/mongodb-advanced-aggregations-with-spring-boot-and-amazon-corretto-ek8)
-- [Sono vs. Estudo: O que fazer quando você precisa aprender e o corpo pede cama?](https://dev.to/ana-beatriz-valentim/sono-vs-estudo-o-que-fazer-quando-voce-precisa-aprender-e-o-corpo-pede-cama-3aa9)
-- [🚀 Unlocking the Future: My AI Agent Mesh Portfolio Backend for the New Year, New You Challenge](https://dev.to/pascalre/unlocking-the-future-my-ai-agent-mesh-portfolio-backend-for-the-new-year-new-you-challenge-3cam)
-- [CES 2026: Why Trust and Security Are the New Frontiers for AI](https://dev.to/joerucci/ces-2026-why-trust-and-security-are-the-new-frontiers-for-ai-a5n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
