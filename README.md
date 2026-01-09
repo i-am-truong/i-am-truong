@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Zero Egress Costs: How I Built P2P File Sharing with Cloudflare](https://dev.to/kiyoe/zero-egress-costs-how-i-built-p2p-file-sharing-with-cloudflare-4lhc)
-- [Computed Fields Causing Infinite Recomputations&lpar;Odoo&rpar;](https://dev.to/aaron_jones_d34b57d1b44ba/computed-fields-causing-infinite-recomputationsodoo-4ck5)
-- [What was your win this week???](https://dev.to/devteam/what-was-your-win-this-week-8d7)
-- [From Morgan Stanley to MiCA: The Technical Reconstruction of Institutional Crypto Infrastructure in 2026](https://dev.to/apnews/from-morgan-stanley-to-mica-the-technical-reconstruction-of-institutional-crypto-infrastructure-in-3bjj)
-- [The Missing Piece in AI Agents: Continual Learning](https://dev.to/a_shokn/the-missing-piece-in-ai-agents-continual-learning-4i9j)
+- [🌠Beginner-Friendly Guide &#39;Smallest Subtree with all the Deepest Nodes&#39; – LeetCode 865 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-smallest-subtree-with-all-the-deepest-nodes-leetcode-865-c-python-2jf)
+- [Devs AI adoption starts with one KPI, not 10 use cases](https://dev.to/jaideepparashar/devs-ai-adoption-starts-with-one-kpi-not-10-use-cases-3mhp)
+- [SQS to Lambda vs API](https://dev.to/kerryconvery/sqs-to-lambda-vs-api-foa)
+- [Agents Do On-Call, 3B Tokens, IDEs Die by 2026](https://dev.to/urbanisierung/agents-do-on-call-3b-tokens-ides-die-by-2026-d7p)
+- [AI Explains Code Well Until the Moment Context Actually Matters](https://dev.to/leena_malhotra/ai-explains-code-well-until-the-moment-context-actually-matters-314i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
