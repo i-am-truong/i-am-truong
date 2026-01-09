@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ToDoMate 📝: Build a Modern Tkinter To-Do List App in Python](https://dev.to/matetechnologie/todomate-build-a-modern-tkinter-to-do-list-app-in-python-2pbd)
-- [Why do developers like dark mode? Because light attracts bugs.](https://dev.to/mebularts/why-do-developers-like-dark-mode-because-light-attracts-bugs-24hp)
-- [Building Forms with Validation in Attractions and Svelte](https://dev.to/codeweaverkr/building-forms-with-validation-in-attractions-and-svelte-3p25)
-- [Agent Knowledge vs Memories: Understanding the Difference](https://dev.to/bobur/agent-knowledge-vs-memories-understanding-the-difference-4pgj)
-- [Build an AI-Powered Image API: Auto Alt-Text, Smart Crops &amp; Content Moderation in 20 Minutes](https://dev.to/aissam_irhir_1e776f7ef2ac/build-an-ai-powered-image-api-auto-alt-text-smart-crops-content-moderation-in-20-minutes-2oa9)
+- [DGX Spark AU Pricing: $6,249-$7,999 at Major Retailers](https://dev.to/rosgluk/dgx-spark-au-pricing-6249-7999-at-major-retailers-54j7)
+- [From Zero to SDF Editor Beta: How I Used AI to Force My Dream Project Out of the Prototype Stage. What I learned?](https://dev.to/embernoglow/from-zero-to-sdf-editor-beta-how-i-used-ai-to-force-my-dream-project-out-of-the-prototype-stage-46fi)
+- [The only python GUI library you will need in 2026...](https://dev.to/scriptor/the-only-python-gui-library-you-will-need-in-2026-14d1)
+- [Tech Stack Lessons from scaling 20x in a year](https://dev.to/code42cate/tech-stack-lessons-from-scaling-20x-in-a-year-1ekh)
+- [Build an Influencer Fake Follower Detector with Node.js](https://dev.to/olams/build-an-influencer-fake-follower-detector-with-nodejs-344p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
