@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Dear Java Developer: You Haven’t Been Left Behind. You’ve Been Left Out.](https://dev.to/mahmoudashraf/dear-java-developer-you-havent-been-left-behind-youve-been-left-out-3oj1)
 - [I got tired of memorizing swaggo comment order, so I made this](https://dev.to/narubrown/i-got-tired-of-memorizing-swaggo-comment-order-so-i-made-this-2gd0)
 - [Release Week From Hell: Clean code + automation for shipping Flutter apps](https://dev.to/dowhatmatters/release-week-from-hell-clean-code-automation-for-shipping-flutter-apps-525l)
 - [Building an AI Matching Engine Without Big Tech Resources](https://dev.to/yurii_lozinskyi/building-an-ai-matching-engine-without-big-tech-resources-4490)
 - [Kubernetes Networking — Broken Labs &amp; Incident Response](https://dev.to/jumptotech/kubernetes-networking-devops-production-guide-44k6)
-- [I left Windows for Ubuntu. Here’s everything I configured and what I learned](https://dev.to/melialog/i-left-windows-for-ubuntu-heres-everything-i-configured-and-what-i-learned-4bk0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
