@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🧠✂️ Neural Network Lobotomy: Removed 7 Layers from an LLM — It Became 30% Faster](https://dev.to/__1bea7786c7/neural-network-lobotomy-removed-7-layers-from-an-llm-it-became-30-faster-57i8)
 - [Google&#39;s LEGO tribute 🧩](https://dev.to/gde/googles-lego-tribute-92l)
 - [PHP Snippets: Property Hooks](https://dev.to/travisfont/php-snippets-property-hooks-148i)
 - [SQLite Limitations and Internal Architecture](https://dev.to/lovestaco/sqlite-limitations-and-internal-architecture-4o62)
 - [INSTALAR K8S EN DEBIAN 13](https://dev.to/robertdev/instalar-k8s-en-debian-13-4o1a)
-- [Flutter Beginner Tutorial 2026: Build Your First App &lpar;Setup + Modern Best Practices&rpar;](https://dev.to/techwithsam/flutter-beginner-tutorial-2026-build-your-first-app-setup-modern-best-practices-5769)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
