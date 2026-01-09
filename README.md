@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [New Year, New You Portfolio Challenge - Akkarapon Phikulsri](https://dev.to/akkaraponph/new-year-new-you-portfolio-challenge-akkarapon-phikulsri-2n15)
-- [AceHack 5.0 Theme Reveal: Inspired by Minecraft, Built for Builders](https://dev.to/acehack/acehack-50-theme-reveal-inspired-by-minecraft-built-for-builders-5f5i)
-- [HA K8s cluster using kube-vip](https://dev.to/achu1612/ha-k8s-cluster-using-kube-vip-48jn)
-- [Shift-left with GitHub Amazon Q Developer Project Rules](https://dev.to/aws-builders/shift-left-with-github-amazon-q-developer-project-rules-3dn8)
-- [I build a small website to challenge people&#39;s CSS skill!](https://dev.to/anson_sun_9ffc869bd8e3c53/i-build-a-small-website-to-challenge-peoples-css-skill-13o5)
+- [⚠️ JavaScript Equality Is Lying to You](https://dev.to/mayankrsagar/javascript-equality-is-lying-to-you-228a)
+- [Building a Location-Based Loan Comparison Tool: Lessons from the Fintech Trenches](https://dev.to/ashleysmith3/building-a-location-based-loan-comparison-tool-lessons-from-the-fintech-trenches-5856)
+- [Setup C programming language for Windows users](https://dev.to/trohpso/setup-c-programming-language-for-windows-users-597j)
+- [Mistral 3 vs Llama 3.1: Open AI Stack for EU SMEs](https://dev.to/dr_hernani_costa/mistral-3-vs-llama-31-open-ai-stack-for-eu-smes-3o96)
+- [Managing Performance Across 50+ WordPress Sites Without Burning Out](https://dev.to/biancarus/managing-performance-across-50-wordpress-sites-without-burning-out-165o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
