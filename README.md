@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Security news weekly round-up - 9th January 2026](https://dev.to/ziizium/security-news-weekly-round-up-9th-january-2026-48p0)
-- [How Modern Retail Platforms Sync POS, ERP, and eCommerce Using APIs](https://dev.to/mercyantony/how-modern-retail-platforms-sync-pos-erp-and-ecommerce-using-apis-2hgj)
-- [I&#39;m challenging myself to build 1 tool / mini startup a week this year. 52 tools](https://dev.to/ido_cohen_ba84f26f76772ca/im-challenging-myself-to-build-1-tool-mini-startup-a-week-this-year-52-tools-5d1f)
-- [What&#39;s Inside the .git Folder?](https://dev.to/satpalsinhrana/whats-inside-the-git-folder-2obg)
-- [End-to-End Monitoring Explained for Homelabs: Prometheus, Grafana &amp; Alertmanager](https://dev.to/tsukiyo/end-to-end-monitoring-explained-for-homelabs-prometheus-grafana-alertmanager-2g3k)
+- [Catching the &quot;Ghost Gateway&quot;: GFSHELL Polymorphic Evasion](https://dev.to/brandennaidoo/catching-the-ghost-gateway-gfshell-polymorphic-evasion-12d7)
+- [MongoDB Advanced Aggregations With Spring Boot and Amazon Corretto](https://dev.to/mongodb/mongodb-advanced-aggregations-with-spring-boot-and-amazon-corretto-ek8)
+- [Sono vs. Estudo: O que fazer quando você precisa aprender e o corpo pede cama?](https://dev.to/ana-beatriz-valentim/sono-vs-estudo-o-que-fazer-quando-voce-precisa-aprender-e-o-corpo-pede-cama-3aa9)
+- [🚀 Unlocking the Future: My AI Agent Mesh Portfolio Backend for the New Year, New You Challenge](https://dev.to/pascalre/unlocking-the-future-my-ai-agent-mesh-portfolio-backend-for-the-new-year-new-you-challenge-3cam)
+- [CES 2026: Why Trust and Security Are the New Frontiers for AI](https://dev.to/joerucci/ces-2026-why-trust-and-security-are-the-new-frontiers-for-ai-a5n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
