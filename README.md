@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Solved: First KubeCon after the AI bubble bursts?](https://dev.to/techresolve/solved-first-kubecon-after-the-ai-bubble-bursts-3b04)
-- [Docker Compose Magic: How to Automate All Your Container Updates with Watchtower and Diun](https://dev.to/itpraktika/docker-compose-magic-how-to-automate-all-your-container-updates-with-watchtower-and-diun-1ab6)
-- [AI Just Killed Tailwind’s Revenue &lpar;And Your Business Might Be Next&rpar;](https://dev.to/usama_dev/ai-just-killed-tailwinds-revenue-and-your-business-might-be-next-4nah)
-- [Building Your First Game on Midnight: A Complete Developer Tutorial](https://dev.to/uvroxx/building-your-first-game-on-midnight-a-complete-developer-tutorial-caf)
-- [Forzar nuevas versiones de AWS Lambda cuando solo cambias dependencias](https://dev.to/kcatucuamba/desplegar-aws-lambda-cuando-no-se-cambia-el-codigo-fuente-2edh)
+- [Orchestrating Intelligence: Simplifying Agentic Workflows with Model Context Protocol](https://dev.to/om_shree_0709/orchestrating-intelligence-simplifying-agentic-workflows-with-model-context-protocol-30dg)
+- [Combine #15: Usando Combine desde SwiftUI &lpar;1&rpar;](https://dev.to/david_goyes_a488f58a17a53/combine-15-usando-combine-desde-swiftui-1-521j)
+- [free yourself of overpriced docusign and self-host DocuSeal instead 🦭🦭🦭](https://dev.to/code42cate/free-yourself-of-overpriced-docusign-and-self-host-docuseal-instead-59jh)
+- [🎓 Thrilled to Announce My BTech 3rd Year Project 🚀 Blockchain-Based Digital Credential Verification System](https://dev.to/harsh1d/thrilled-to-announce-my-btech-3rd-year-project-blockchain-based-digital-credential-2noi)
+- [Self-hosting DocuSeal the easy way](https://dev.to/atakanozt/self-hosting-docuseal-the-easy-way-1o4m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
