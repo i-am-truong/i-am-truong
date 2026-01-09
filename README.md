@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Perpetual vs Subscription Licenses: Which Business Model Wins in 2026?](https://dev.to/olivier_moussalli_e3492f5/perpetual-vs-subscription-licenses-which-business-model-wins-in-2026-19nb)
-- [[Boost]](https://dev.to/rakeshv675/-3282)
-- [Getting Started with Docker](https://dev.to/ethan_zhang_e501fea89c25b/getting-started-with-docker-50po)
-- [Let’s break down DNS: how your browser finds a website](https://dev.to/syedfazil/lets-break-down-dns-how-your-browser-finds-a-website-15lf)
-- [How to Structure Your Resume for Maximum Impact, Stand Out to Recruiters and Beat the ATS](https://dev.to/saber-amani/how-to-structure-your-tech-resume-for-maximum-impact-stand-out-to-recruiters-and-beat-the-ats-4go)
+- [Google&#39;s LEGO tribute 🧩](https://dev.to/gde/googles-lego-tribute-92l)
+- [PHP Snippets: Property Hooks](https://dev.to/travisfont/php-snippets-property-hooks-148i)
+- [SQLite Limitations and Internal Architecture](https://dev.to/lovestaco/sqlite-limitations-and-internal-architecture-4o62)
+- [INSTALAR K8S EN DEBIAN 13](https://dev.to/robertdev/instalar-k8s-en-debian-13-4o1a)
+- [Flutter Beginner Tutorial 2026: Build Your First App &lpar;Setup + Modern Best Practices&rpar;](https://dev.to/techwithsam/flutter-beginner-tutorial-2026-build-your-first-app-setup-modern-best-practices-5769)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
