@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [تحويل الأفكار إلى حقيقة: كيف تبني وحدات ذكاء اصطناعي مع LangChain و FastAPI و Sevalla](https://dev.to/mohamedshabanai/thwyl-lfkr-l-hqyq-kyf-tbny-whdt-dhk-stny-m-langchain-w-fastapi-w-sevalla-g1l)
 - [Kubernetes and it&#39;s Architecture](https://dev.to/anushree_gm/kubernetes-and-its-architecture-46jo)
 - [Building a Kiro Power for AWS Amplify Gen 2](https://dev.to/aws-builders/building-a-kiro-power-for-aws-amplify-gen-2-54gk)
 - [Importing &amp; Exporting PSQL Database Dump using Docker](https://dev.to/devkishor8007/importing-exporting-psql-database-dump-using-docker-10l6)
 - [Tools Don’t Fix Broken Systems — Design Does](https://dev.to/technm/tools-dont-fix-broken-systems-design-does-16hk)
-- [Inverting the user/agent relationship](https://dev.to/mikesol/inverting-the-useragent-relationship-l2n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
