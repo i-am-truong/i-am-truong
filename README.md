@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🧠✂️ Neural Network Lobotomy: Removed 7 Layers from an LLM — It Became 30% Faster](https://dev.to/__1bea7786c7/neural-network-lobotomy-removed-7-layers-from-an-llm-it-became-30-faster-57i8)
-- [Google&#39;s LEGO tribute 🧩](https://dev.to/gde/googles-lego-tribute-92l)
-- [PHP Snippets: Property Hooks](https://dev.to/travisfont/php-snippets-property-hooks-148i)
-- [SQLite Limitations and Internal Architecture](https://dev.to/lovestaco/sqlite-limitations-and-internal-architecture-4o62)
-- [INSTALAR K8S EN DEBIAN 13](https://dev.to/robertdev/instalar-k8s-en-debian-13-4o1a)
+- [Login with Google on an iPhone &lpar;Local Metro server + Dev Build&rpar; - Part 2/7: Create a Clerk Project](https://dev.to/cathylai/login-with-google-on-an-iphone-local-metro-server-dev-build-part-27-create-a-clerk-project-fg5)
+- [How I Built a Chrome Extension That Analyzes SEC Filings and Financial News in Seconds](https://dev.to/mayu2008/how-i-built-a-chrome-extension-that-analyzes-sec-filings-and-financial-news-in-seconds-1ldm)
+- [My First Anniversary at insightsoftware — A Year of Learning Real Software Engineering](https://dev.to/suvam_108/my-first-anniversary-at-insightsoftware-a-year-of-learning-real-software-engineering-6p5)
+- [Model Context Protocol &lpar;MCP&rpar; — Integrating AI LLMs with Modern DevOps Systems](https://dev.to/codefalconx/model-context-protocol-mcp-integrating-ai-llms-with-modern-devops-systems-48n0)
+- [Why Agile Estimation Is Theater &lpar;And What To Do Instead&rpar;](https://dev.to/ghostinit0x/why-agile-estimation-is-theater-and-what-to-do-instead-39m7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
