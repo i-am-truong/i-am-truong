@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [E-commerce: How to Build a Card Payment System with Blnk Finance](https://dev.to/ubcodes/e-commerce-how-to-build-a-card-payment-system-with-blnk-finance-3b1k)
+- [Learnings from 2026 January 3-9](https://dev.to/geewey/learnings-from-2026-january-3-9-1be6)
+- [AI Assistants and the Drift Into Dependency](https://dev.to/korovamode/ai-assistants-and-the-drift-into-dependency-4dn)
+- [Getting Started with Amazon CloudWatch for Beginners](https://dev.to/gayatri_sonawane_003/getting-started-with-amazon-cloudwatch-for-beginners-2if0)
+- [A Practical Guide to Building Your First Card Payment System with Blnk Finance](https://dev.to/ubcodes/e-commerce-how-to-build-a-card-payment-system-with-blnk-finance-3b1k)
 - [Docker Kanvas Challenges Helm and Kustomize for Kubernetes Dominance](https://dev.to/latchudevops/docker-kanvas-challenges-helm-and-kustomize-for-kubernetes-dominance-2df0)
-- [What is cyber security and why is it important in today’s digital world?](https://dev.to/ridhima_b7f6c7cbeef40f3b8/what-is-cyber-security-and-why-is-it-important-in-todays-digital-world-3jp3)
-- [From 7 sec to 3 sec: Reducing Load Time in a Rails-Powered Restaurant App](https://dev.to/railsfactory_sedin/from-7-sec-to-3-sec-reducing-load-time-in-a-rails-powered-restaurant-app-3e6f)
-- [Criei uma extensão para VS Code que transforma TODOs em um quadro Kanban e issues reais no Jira](https://dev.to/dantewebmaster/criei-uma-extensao-para-vs-code-que-transforma-todos-em-um-quadro-kanban-e-issues-reais-no-jira-bd8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
