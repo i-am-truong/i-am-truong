@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Reviewed 50 Junior Developer Resumes — Here’s What Actually Works](https://dev.to/resumemind/i-reviewed-50-junior-developer-resumes-heres-what-actually-works-4njf)
-- [JAVA INTERNALS: JDK, JRE, JVM, and JIT!](https://dev.to/anees_abdul_ec1dda9c7697b/java-internals-jdk-jre-jvm-and-jit-33kp)
-- [Italian Pasta in Brampton](https://dev.to/fanzorellis/italian-pasta-in-brampton-4olp)
-- [Free Resume Bullet Rewriter &lpar;Impact-Focused&rpar;](https://dev.to/creatoros/free-resume-bullet-rewriter-impact-focused-3b35)
-- [How to validate an email address? Quick and simple 🚀](https://dev.to/k_vrbova/how-to-validate-an-email-address-everything-you-need-to-know-508e)
+- [Building a Theme System with Next.js 15 and Tailwind CSS v4 &lpar;Without dark: Prefix&rpar;](https://dev.to/mukitaro/building-a-theme-system-with-nextjs-15-and-tailwind-css-v4-without-dark-prefix-43n6)
+- [I Built a Production RAG System in 3 Weeks - Here&#39;s What Actually Broke](https://dev.to/blessedefem/i-built-a-production-rag-system-in-3-weeks-heres-what-actually-broke-556m)
+- [$3,000 Prize Pool · Global Online Hackathon · Agent Infrastructure Tech Stack](https://dev.to/memu_ai/3000-prize-pool-global-online-hackathon-agent-infrastructure-tech-stack-2il5)
+- [Why Startups and IndieDevs Should Choose Monolith First, Lessons From My Micro-SaaS Project, For ...](https://dev.to/saber-amani/why-startups-and-indiedevs-should-choose-monolith-first-lessons-from-my-micro-saas-project-for--2epf)
+- [Summary of MapLibre User Group Japan Activities in 2025](https://dev.to/mug-jp/summary-of-maplibre-user-group-japan-activities-in-2025-p9h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
