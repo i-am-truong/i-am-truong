@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [EventBus](https://dev.to/zawhtutwin/eventbus-2n81)
-- [🚀 Introducing LoongFlow — A Cognitive Evolutionary AI Framework &lpar;Open Source&rpar;](https://dev.to/freshmand/introducing-loongflow-a-cognitive-evolutionary-ai-framework-open-source-2dp8)
-- [6 GitOps Practices That Actually Work](https://dev.to/_steve_fenton_/6-gitops-practices-that-actually-work-3boi)
-- [Architecture Backwards: Engineering a Self-Defending System Before the UI Arrives](https://dev.to/nemwelboniface/architecture-backwards-engineering-a-self-defending-system-before-the-ui-arrives-4ohg)
-- [Get Rid of Excel and Use these I built simple and most effective habit tracking app](https://dev.to/dilippurohit47/get-rid-of-excel-and-use-these-i-built-simple-and-most-effective-habit-tracking-app-19k4)
+- [Breaking the interface barrier: CGLIB and ByteBuddy](https://dev.to/rajatarora/breaking-the-interface-barrier-cglib-and-bytebuddy-462a)
+- [12 Open Source Gems To Become The Ultimate Developer](https://dev.to/daisy_jones_21bdcc6b40f9d/12-open-source-gems-to-become-the-ultimate-developer-5gp0)
+- [Angular Signal Forms: How to Structure Large Forms Without Losing Your Mind](https://dev.to/brianmtreese/angular-signal-forms-how-to-structure-large-forms-without-losing-your-mind-5af)
+- [[System Design] Why Is Your App &quot;Overselling&quot;? A Founder&#39;s First Lesson in Concurrency](https://dev.to/aaronwubuilds_eae84aa63ce/system-design-why-is-your-app-overselling-a-founders-first-lesson-in-concurrency-36m9)
+- [Creating Materials in Unreal Engine 5 and Understanding ORM Textures &lpar;Day 14&rpar;](https://dev.to/dinesh_04/creating-materials-in-unreal-engine-5-and-understanding-orm-textures-day-14-11mb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
