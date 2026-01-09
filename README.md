@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [⚠️ JavaScript Equality Is Lying to You](https://dev.to/mayankrsagar/javascript-equality-is-lying-to-you-228a)
-- [Building a Location-Based Loan Comparison Tool: Lessons from the Fintech Trenches](https://dev.to/ashleysmith3/building-a-location-based-loan-comparison-tool-lessons-from-the-fintech-trenches-5856)
-- [Setup C programming language for Windows users](https://dev.to/trohpso/setup-c-programming-language-for-windows-users-597j)
-- [Mistral 3 vs Llama 3.1: Open AI Stack for EU SMEs](https://dev.to/dr_hernani_costa/mistral-3-vs-llama-31-open-ai-stack-for-eu-smes-3o96)
-- [Managing Performance Across 50+ WordPress Sites Without Burning Out](https://dev.to/biancarus/managing-performance-across-50-wordpress-sites-without-burning-out-165o)
+- [Solved: First KubeCon after the AI bubble bursts?](https://dev.to/techresolve/solved-first-kubecon-after-the-ai-bubble-bursts-3b04)
+- [Docker Compose Magic: How to Automate All Your Container Updates with Watchtower and Diun](https://dev.to/itpraktika/docker-compose-magic-how-to-automate-all-your-container-updates-with-watchtower-and-diun-1ab6)
+- [AI Just Killed Tailwind’s Revenue &lpar;And Your Business Might Be Next&rpar;](https://dev.to/usama_dev/ai-just-killed-tailwinds-revenue-and-your-business-might-be-next-4nah)
+- [Building Your First Game on Midnight: A Complete Developer Tutorial](https://dev.to/uvroxx/building-your-first-game-on-midnight-a-complete-developer-tutorial-caf)
+- [Forzar nuevas versiones de AWS Lambda cuando solo cambias dependencias](https://dev.to/kcatucuamba/desplegar-aws-lambda-cuando-no-se-cambia-el-codigo-fuente-2edh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
