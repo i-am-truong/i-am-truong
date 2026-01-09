@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Get Rid of Excel and Use these I built simple and most effective habit tracking app](https://dev.to/dilippurohit47/get-rid-of-excel-and-use-these-i-built-simple-and-most-effective-habit-tracking-app-19k4)
+- [I started learning Electron, and this is what I learned so far](https://dev.to/prs-dev/i-started-learning-electron-and-this-is-what-i-learned-so-far-38b2)
+- [Please break Autodock](https://dev.to/mikesol/please-break-autodock-2lhh)
+- [Stop Context Switching: How I Built a Tool to Generate Elite AI Prompts Inside VS Code](https://dev.to/durasi/stop-context-switching-how-i-built-a-tool-to-generate-elite-ai-prompts-inside-vs-code-3lkb)
 - [Learnings from 2026 January 3-9](https://dev.to/geewey/learnings-from-2026-january-3-9-1be6)
-- [AI Assistants and the Drift Into Dependency](https://dev.to/korovamode/ai-assistants-and-the-drift-into-dependency-4dn)
-- [Getting Started with Amazon CloudWatch for Beginners](https://dev.to/gayatri_sonawane_003/getting-started-with-amazon-cloudwatch-for-beginners-2if0)
-- [A Practical Guide to Building Your First Card Payment System with Blnk Finance](https://dev.to/ubcodes/e-commerce-how-to-build-a-card-payment-system-with-blnk-finance-3b1k)
-- [Docker Kanvas Challenges Helm and Kustomize for Kubernetes Dominance](https://dev.to/latchudevops/docker-kanvas-challenges-helm-and-kustomize-for-kubernetes-dominance-2df0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
