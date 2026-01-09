@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Dear Java Developer: You Haven’t Been Left Behind. You’ve Been Left Out.](https://dev.to/mahmoudashraf/dear-java-developer-you-havent-been-left-behind-youve-been-left-out-3oj1)
-- [I got tired of memorizing swaggo comment order, so I made this](https://dev.to/narubrown/i-got-tired-of-memorizing-swaggo-comment-order-so-i-made-this-2gd0)
-- [Release Week From Hell: Clean code + automation for shipping Flutter apps](https://dev.to/dowhatmatters/release-week-from-hell-clean-code-automation-for-shipping-flutter-apps-525l)
-- [Building an AI Matching Engine Without Big Tech Resources](https://dev.to/yurii_lozinskyi/building-an-ai-matching-engine-without-big-tech-resources-4490)
-- [Kubernetes Networking — Broken Labs &amp; Incident Response](https://dev.to/jumptotech/kubernetes-networking-devops-production-guide-44k6)
+- [If you hate WordPress, you probably don&#39;t understand the software business.](https://dev.to/betoalien/if-you-hate-wordpress-you-probably-dont-understand-the-software-business-3lph)
+- [🌈 HRT Journey Tracker Suite](https://dev.to/codebunny20/hrt-journey-tracker-suite-2fn1)
+- [7 Personalized Romance Novel Apps That Are Changing Digital Reading in 2026](https://dev.to/anas_kayssi/7-personalized-romance-novel-apps-that-are-changing-digital-reading-in-2026-5hnp)
+- [Project: One App — Three Probes — Real Failures](https://dev.to/jumptotech/project-one-app-three-probes-real-failures-5fgo)
+- [SwiftUI Dependency Graph Architecture &lpar;Object Lifetimes &amp; Scope&rpar;](https://dev.to/sebastienlato/swiftui-dependency-graph-architecture-object-lifetimes-scope-2pfa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
