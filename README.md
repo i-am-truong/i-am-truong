@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI, Fake Reviews, and the Trust Crisis in SaaS](https://dev.to/mukul_sharma/ai-fake-reviews-and-the-trust-crisis-in-saas-2399)
+- [How I Built an Offline-First RAG System That’s 10x Faster &lpar;at 19&rpar;](https://dev.to/mounesh_k/how-i-built-an-offline-first-rag-system-thats-10x-faster-at-19-3l6i)
+- [How “Thinking Out Loud” Unlocked Clarity for My Dev Team &lpar;And How You Can Do It Too&rpar;](https://dev.to/shuchou/how-thinking-out-loud-unlocked-clarity-for-my-dev-team-and-how-you-can-do-it-too-1l20)
+- [Build a Screen Capture &amp; Scopes Tool with Python, Tkinter, and MSS](https://dev.to/matetechnologie/build-a-screen-capture-scopes-tool-with-python-tkinter-and-mss-3mam)
 - [🌠Beginner-Friendly Guide &#39;Smallest Subtree with all the Deepest Nodes&#39; – LeetCode 865 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-smallest-subtree-with-all-the-deepest-nodes-leetcode-865-c-python-2jf)
-- [Devs AI adoption starts with one KPI, not 10 use cases](https://dev.to/jaideepparashar/devs-ai-adoption-starts-with-one-kpi-not-10-use-cases-3mhp)
-- [SQS to Lambda vs API](https://dev.to/kerryconvery/sqs-to-lambda-vs-api-foa)
-- [Agents Do On-Call, 3B Tokens, IDEs Die by 2026](https://dev.to/urbanisierung/agents-do-on-call-3b-tokens-ides-die-by-2026-d7p)
-- [AI Explains Code Well Until the Moment Context Actually Matters](https://dev.to/leena_malhotra/ai-explains-code-well-until-the-moment-context-actually-matters-314i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
