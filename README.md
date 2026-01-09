@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [EventBus](https://dev.to/zawhtutwin/eventbus-2n81)
+- [🚀 Introducing LoongFlow — A Cognitive Evolutionary AI Framework &lpar;Open Source&rpar;](https://dev.to/freshmand/introducing-loongflow-a-cognitive-evolutionary-ai-framework-open-source-2dp8)
+- [6 GitOps Practices That Actually Work](https://dev.to/_steve_fenton_/6-gitops-practices-that-actually-work-3boi)
+- [Architecture Backwards: Engineering a Self-Defending System Before the UI Arrives](https://dev.to/nemwelboniface/architecture-backwards-engineering-a-self-defending-system-before-the-ui-arrives-4ohg)
 - [Get Rid of Excel and Use these I built simple and most effective habit tracking app](https://dev.to/dilippurohit47/get-rid-of-excel-and-use-these-i-built-simple-and-most-effective-habit-tracking-app-19k4)
-- [I started learning Electron, and this is what I learned so far](https://dev.to/prs-dev/i-started-learning-electron-and-this-is-what-i-learned-so-far-38b2)
-- [Please break Autodock](https://dev.to/mikesol/please-break-autodock-2lhh)
-- [Stop Context Switching: How I Built a Tool to Generate Elite AI Prompts Inside VS Code](https://dev.to/durasi/stop-context-switching-how-i-built-a-tool-to-generate-elite-ai-prompts-inside-vs-code-3lkb)
-- [Learnings from 2026 January 3-9](https://dev.to/geewey/learnings-from-2026-january-3-9-1be6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
