@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Laid Off on the First Workday of the Year—and What Came Next](https://dev.to/miracool/laid-off-on-the-first-workday-of-the-year-and-what-came-next-gii)
-- [زمن التفكير: كيف يغير лицо النماذج](https://dev.to/mohamedshabanai/zmn-ltfkyr-kyf-ygyr-litso-lnmdhj-fka)
-- [Reclaiming Idle GPUs in Kubernetes: Why We Built a Custom Scheduler Plugin](https://dev.to/lalit_s_632d475cb559a56ca/reclaiming-idle-gpus-in-kubernetes-why-we-built-a-custom-scheduler-plugin-34k2)
-- [คุยกันเรื่อง Writing Better Go: Lessons from 10 Code Reviews](https://dev.to/pallat/khuykaneruueng-writing-better-go-lessons-from-10-code-reviews-2jgf)
-- [The First Week at a Startup Taught Me More Than I Expected](https://dev.to/itsugo/the-first-week-at-a-startup-taught-me-more-than-i-expected-158a)
+- [واتساب يطور من تجربة المستخدم: ثلاث ميزات جديدة لتحسين المحادثات الجماعية](https://dev.to/mohamedshabanai/wtsb-ytwr-mn-tjrb-lmstkhdm-thlth-myzt-jdyd-lthsyn-lmhdtht-ljmy-5784)
+- [🚨 How We Rescued a Dead Azure Linux VM After SSH, Agent, and OS Disk All Broke &lpar;A Real Production War Story&rpar;](https://dev.to/starkprince/how-we-rescued-a-dead-azure-linux-vm-after-ssh-agent-and-os-disk-all-broke-a-real-production-4aa1)
+- [Tired of Switching Tools Just to Write Markdown?](https://dev.to/vasughanta09/tired-of-switching-tools-just-to-write-markdown-28eb)
+- [IAM is Broken for AI Agents: Introducing Dynamic RBAC for Agentic Security](https://dev.to/alessandro_pignati/iam-is-broken-for-ai-agents-introducing-dynamic-rbac-for-agentic-security-m96)
+- [How to Prepare for a Certification in any Tech Career](https://dev.to/kwan/how-to-prepare-for-a-certification-in-any-tech-career-21lh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
