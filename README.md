@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Week 2: Multiplicative Inverses in Finite Fields: When Division Still Works in a Closed World](https://dev.to/caleb_olusola/week-2-multiplicative-inverses-in-finite-fields-when-division-still-works-in-a-closed-world-41gn)
-- [AI Trading: Lesson Learned #120: Paper Trading System Broken for 4 Days &lpar;Jan 5-9, 2026&rpar;](https://dev.to/igorganapolsky/ai-trading-lesson-learned-120-paper-trading-system-broken-for-4-days-jan-5-9-2026-kcd)
-- [Why Chatbots Are Not Enough. The Rise of AI Agents in Enterprise HR!](https://dev.to/riazsait/why-chatbots-are-not-enough-the-rise-of-ai-agents-in-enterprise-hr-8ce)
-- [If Ludwig von Mises were the creator of Tailwind CSS…](https://dev.to/rinn7e/if-ludwig-von-mises-is-the-creator-of-tailwind-ghg)
-- [No todo problema necesita IA, pero toda IA necesita gobernanza](https://dev.to/antonio_socorro_95e3ff086/no-todo-problema-necesita-ia-pero-toda-ia-necesita-gobernanza-4gda)
+- [AI Trading: Lesson Learned: False PR Merge Claims - Took Credit for Auto-Merged Work](https://dev.to/igorganapolsky/ai-trading-lesson-learned-false-pr-merge-claims-took-credit-for-auto-merged-work-2afn)
+- [🚀 Stop drowning in Tabs: Meet Noi, the Open Source Browser Built for AI](https://dev.to/siddhesh_surve/stop-drowning-in-tabs-meet-noi-the-open-source-browser-built-for-ai-5clb)
+- [useSyncExternalStore: The Right Way to Sync React with localStorage](https://dev.to/muhammed_fayazts_e35676/usesyncexternalstore-the-right-way-to-sync-react-with-localstorage-3c5f)
+- [HTML-101 #1. What is HTML &amp; How the Web Works](https://dev.to/himanshu_bhatt/html-101-1-what-is-html-how-the-web-works-ci7)
+- [Why I built fontgenerator.design: A clean Unicode reference for developers &lpar;Show HN 200+ points&rpar;](https://dev.to/mia_he_9dcd4e64155630d11c/why-i-built-fontgeneratordesign-a-clean-unicode-reference-for-developers-show-hn-200-points-1ooi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
