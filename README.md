@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI, Fake Reviews, and the Trust Crisis in SaaS](https://dev.to/mukul_sharma/ai-fake-reviews-and-the-trust-crisis-in-saas-2399)
-- [How I Built an Offline-First RAG System That’s 10x Faster &lpar;at 19&rpar;](https://dev.to/mounesh_k/how-i-built-an-offline-first-rag-system-thats-10x-faster-at-19-3l6i)
-- [How “Thinking Out Loud” Unlocked Clarity for My Dev Team &lpar;And How You Can Do It Too&rpar;](https://dev.to/shuchou/how-thinking-out-loud-unlocked-clarity-for-my-dev-team-and-how-you-can-do-it-too-1l20)
-- [Build a Screen Capture &amp; Scopes Tool with Python, Tkinter, and MSS](https://dev.to/matetechnologie/build-a-screen-capture-scopes-tool-with-python-tkinter-and-mss-3mam)
-- [🌠Beginner-Friendly Guide &#39;Smallest Subtree with all the Deepest Nodes&#39; – LeetCode 865 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-smallest-subtree-with-all-the-deepest-nodes-leetcode-865-c-python-2jf)
+- [E-commerce: How to Build a Card Payment System with Blnk Finance](https://dev.to/ubcodes/e-commerce-how-to-build-a-card-payment-system-with-blnk-finance-3b1k)
+- [Docker Kanvas Challenges Helm and Kustomize for Kubernetes Dominance](https://dev.to/latchudevops/docker-kanvas-challenges-helm-and-kustomize-for-kubernetes-dominance-2df0)
+- [What is cyber security and why is it important in today’s digital world?](https://dev.to/ridhima_b7f6c7cbeef40f3b8/what-is-cyber-security-and-why-is-it-important-in-todays-digital-world-3jp3)
+- [From 7 sec to 3 sec: Reducing Load Time in a Rails-Powered Restaurant App](https://dev.to/railsfactory_sedin/from-7-sec-to-3-sec-reducing-load-time-in-a-rails-powered-restaurant-app-3e6f)
+- [Criei uma extensão para VS Code que transforma TODOs em um quadro Kanban e issues reais no Jira](https://dev.to/dantewebmaster/criei-uma-extensao-para-vs-code-que-transforma-todos-em-um-quadro-kanban-e-issues-reais-no-jira-bd8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
