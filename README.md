@@ -120,13 +120,13 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s Inside the .git Folder?](https://dev.to/satpalsinhrana/whats-inside-the-git-folder-2obg)
+- [End-to-End Monitoring Explained for Homelabs: Prometheus, Grafana &amp; Alertmanager](https://dev.to/tsukiyo/end-to-end-monitoring-explained-for-homelabs-prometheus-grafana-alertmanager-2g3k)
 - [Cool Article on API Tools!!
 
 https://medium.com/@somendradev23/10-api-tools-every-full-stack-developer-should-know-6f9af40ae0ec](https://dev.to/evanlausier/cool-article-on-api-tools-5100)
 - [I Lost an Interview So You Don’t Have To: A Lesson in Interview Prep](https://dev.to/konfydev/i-lost-an-interview-so-you-dont-have-to-a-lesson-in-interview-prep-2eg2)
 - [SwiftUI #25: Estado &lpar;@State&rpar;](https://dev.to/david_goyes_a488f58a17a53/swift-25-estado-state-46h6)
-- [My First Open Source Contribution Was to an Authentication Project — And It Was Surprisingly Friendly](https://dev.to/kbpramod/my-first-open-source-contribution-was-to-an-authentication-project-and-it-was-surprisingly-ced)
-- [I Lost $1,200 to YouTube Scams in 90 Days. Now My AI Tool Spots Fake &quot;Make Money&quot; Videos in 10 Seconds &lpar;Free&rpar;](https://dev.to/nyanguno/i-lost-1200-to-youtube-scams-in-90-days-now-my-ai-tool-spots-fake-make-money-videos-in-10-3ddf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
