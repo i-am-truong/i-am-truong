@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Zero Egress Costs: How I Built P2P File Sharing with Cloudflare](https://dev.to/kiyoe/zero-egress-costs-how-i-built-p2p-file-sharing-with-cloudflare-4lhc)
+- [Computed Fields Causing Infinite Recomputations&lpar;Odoo&rpar;](https://dev.to/aaron_jones_d34b57d1b44ba/computed-fields-causing-infinite-recomputationsodoo-4ck5)
+- [What was your win this week???](https://dev.to/devteam/what-was-your-win-this-week-8d7)
+- [From Morgan Stanley to MiCA: The Technical Reconstruction of Institutional Crypto Infrastructure in 2026](https://dev.to/apnews/from-morgan-stanley-to-mica-the-technical-reconstruction-of-institutional-crypto-infrastructure-in-3bjj)
 - [The Missing Piece in AI Agents: Continual Learning](https://dev.to/a_shokn/the-missing-piece-in-ai-agents-continual-learning-4i9j)
-- [📘 Paywall SDK – Tài liệu sử dụng TỪ A Z &lpar;kèm JSON mẫu&rpar;](https://dev.to/vio_di_code/paywall-sdk-tai-lieu-su-dung-tu-a-z-kem-json-mau-586f)
-- [Turning Neovim into a UE5 IDE: File Watching &amp; Architecture Shifts &lpar;Weekly Update 2026-01-09&rpar;](https://dev.to/taku25/turning-neovim-into-a-ue5-ide-file-watching-architecture-shifts-weekly-update-2026-01-09-30od)
-- [Silent Spend Tracker – A Non-Conversational Agent for Automatic Daily Expense Totals](https://dev.to/venkatesh_prasanna_d/silent-spend-tracker-a-non-conversational-agent-for-automatic-daily-expense-totals-5h43)
-- [How to Create Memory-Efficient Software: A Practical Guide for Developers](https://dev.to/farhadrahimiklie/how-to-create-memory-efficient-software-a-practical-guide-for-developers-e5e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
