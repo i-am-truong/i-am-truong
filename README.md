@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [# Welcome to React World: Grasp the Fundamentals and Mental Model! &lpar;React Day 1&rpar;](https://dev.to/vasughanta09/-welcome-to-react-world-grasp-the-fundamentals-and-mental-model-react-day-1-2kj4)
-- [5 Corporate Gift Ideas That Match Company Brand Values](https://dev.to/petermethews/5-corporate-gift-ideas-that-match-company-brand-values-54hm)
-- [Let’s Build a Deep Learning Library from Scratch Using NumPy &lpar;Part 3: Training MNIST&rpar;](https://dev.to/zekcrates/lets-build-a-deep-learning-library-from-scratch-using-numpy-part-3-training-mnist-5407)
-- [Today I Truly Understood the useRef Hook &lpar;Not Just What It Does, But Why It Exists&rpar;](https://dev.to/usama_dev/today-i-truly-understood-the-useref-hook-not-just-what-it-does-but-why-it-exists-4iif)
-- [SQL Pattern Matching Finally Makes Sense &lpar;LIKE, ILIKE, IN, BETWEEN&rpar;](https://dev.to/mazinocodes/sql-pattern-matching-finally-makes-sense-like-ilike-in-between-3o9n)
+- [ToDoMate 📝: Build a Modern Tkinter To-Do List App in Python](https://dev.to/matetechnologie/todomate-build-a-modern-tkinter-to-do-list-app-in-python-2pbd)
+- [Why do developers like dark mode? Because light attracts bugs.](https://dev.to/mebularts/why-do-developers-like-dark-mode-because-light-attracts-bugs-24hp)
+- [Building Forms with Validation in Attractions and Svelte](https://dev.to/codeweaverkr/building-forms-with-validation-in-attractions-and-svelte-3p25)
+- [Agent Knowledge vs Memories: Understanding the Difference](https://dev.to/bobur/agent-knowledge-vs-memories-understanding-the-difference-4pgj)
+- [Build an AI-Powered Image API: Auto Alt-Text, Smart Crops &amp; Content Moderation in 20 Minutes](https://dev.to/aissam_irhir_1e776f7ef2ac/build-an-ai-powered-image-api-auto-alt-text-smart-crops-content-moderation-in-20-minutes-2oa9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
