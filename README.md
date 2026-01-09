@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Login with Google on an iPhone &lpar;Local Metro server + Dev Build&rpar; - Part 2/7: Create a Clerk Project](https://dev.to/cathylai/login-with-google-on-an-iphone-local-metro-server-dev-build-part-27-create-a-clerk-project-fg5)
-- [How I Built a Chrome Extension That Analyzes SEC Filings and Financial News in Seconds](https://dev.to/mayu2008/how-i-built-a-chrome-extension-that-analyzes-sec-filings-and-financial-news-in-seconds-1ldm)
-- [My First Anniversary at insightsoftware — A Year of Learning Real Software Engineering](https://dev.to/suvam_108/my-first-anniversary-at-insightsoftware-a-year-of-learning-real-software-engineering-6p5)
-- [Model Context Protocol &lpar;MCP&rpar; — Integrating AI LLMs with Modern DevOps Systems](https://dev.to/codefalconx/model-context-protocol-mcp-integrating-ai-llms-with-modern-devops-systems-48n0)
-- [Why Agile Estimation Is Theater &lpar;And What To Do Instead&rpar;](https://dev.to/ghostinit0x/why-agile-estimation-is-theater-and-what-to-do-instead-39m7)
+- [Dynamic Configuration in React — Feature Flags Without the Jank](https://dev.to/tilyupo/dynamic-configuration-in-react-feature-flags-without-the-jank-15bj)
+- [Call Center con voces naturales en español y acento local](https://dev.to/aws-espanol/call-center-con-voces-naturales-en-espanol-y-acento-local-2pdl)
+- [The FAANG is dead! 💀](https://dev.to/alexr/faang-is-dead-2e1i)
+- [Mitigating Human-Driven AI Misuse in Generative Systems](https://dev.to/shravani_86c94d4b283541f3/mitigating-human-driven-ai-misuse-in-generative-systems-2j1o)
+- [Building an Autonomous Template Business, kind of.](https://dev.to/ssong/building-an-autonomous-template-business-kind-of-11el)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
