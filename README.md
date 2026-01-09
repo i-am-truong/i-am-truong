@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Dynamic Local Persistent Volumes on Kubernetes via Open Service Broker](https://dev.to/laoshanxi/dynamic-local-persistent-volumes-on-kubernetes-via-open-service-broker-3h11)
-- [Running Native &lpar;Non-Container&rpar; Workloads on Kubernetes: A Practical Experiment](https://dev.to/laoshanxi/running-native-non-container-workloads-on-kubernetes-a-practical-experiment-12)
-- [I indexed 13M places to calculate real metro populations. Turns out 34.6M people live within 30 miles of Tokyo.](https://dev.to/investors_heaven_6798cea9/i-indexed-13m-places-to-calculate-real-metro-populations-turns-out-346m-people-live-within-30-5b7)
-- [Interview Tomorrow? A 24-Hour Technical Interview Survival Plan](https://dev.to/aijob/interview-tomorrow-a-24-hour-technical-interview-survival-plan-4hin)
-- [Autonomous Clinical Trial compliance: Solving Protocol Bottlenecks with AI Agents](https://dev.to/exploredataaiml/autonomous-clinical-trial-compliance-solving-protocol-bottlenecks-with-ai-agents-48d6)
+- [Week 2: Multiplicative Inverses in Finite Fields: When Division Still Works in a Closed World](https://dev.to/caleb_olusola/week-2-multiplicative-inverses-in-finite-fields-when-division-still-works-in-a-closed-world-41gn)
+- [AI Trading: Lesson Learned #120: Paper Trading System Broken for 4 Days &lpar;Jan 5-9, 2026&rpar;](https://dev.to/igorganapolsky/ai-trading-lesson-learned-120-paper-trading-system-broken-for-4-days-jan-5-9-2026-kcd)
+- [Why Chatbots Are Not Enough. The Rise of AI Agents in Enterprise HR!](https://dev.to/riazsait/why-chatbots-are-not-enough-the-rise-of-ai-agents-in-enterprise-hr-8ce)
+- [If Ludwig von Mises were the creator of Tailwind CSS…](https://dev.to/rinn7e/if-ludwig-von-mises-is-the-creator-of-tailwind-ghg)
+- [No todo problema necesita IA, pero toda IA necesita gobernanza](https://dev.to/antonio_socorro_95e3ff086/no-todo-problema-necesita-ia-pero-toda-ia-necesita-gobernanza-4gda)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
