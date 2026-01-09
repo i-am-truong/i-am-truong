@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [TIL: Blazing-fast correlated exists queries](https://dev.to/epigene/til-blazing-fast-correlated-exists-queries-2gmd)
+- [Building a Cybersecurity Home lab: Architecture, Tools, and Lessons Learned](https://dev.to/ayush_madavi_/building-a-cybersecurity-home-lab-architecture-tools-and-lessons-learned-jo0)
+- [GLX: A New Programming Language for System Scripting, Replacement For Bash](https://dev.to/danishk_sinha_050b8e04527/glx-a-new-programming-language-for-system-scripting-replacement-for-bash-1c1d)
+- [I built a CLI that lets me use AI directly from my terminal](https://dev.to/aletechsolutions/i-built-a-cli-that-lets-me-use-ai-directly-from-my-terminal-322i)
 - [Implementing player/coach workflow with Kiro CLI subagents](https://dev.to/aws/implementing-playercoach-workflow-with-kiro-cli-subagents-2gf3)
-- [Orphaned EBS Volumes Costing You $$$?](https://dev.to/cloudwiseteam/orphaned-ebs-volumes-costing-you--1g7l)
-- [How to remove annotations from PDF files in Java &lpar;Tutorial&rpar;](https://dev.to/idrsolutions/how-to-remove-annotations-from-pdf-files-in-java-tutorial-2nn8)
-- [NEWBIE PROBLEM MOST FACE MAYBE](https://dev.to/gamer_king/newbie-problem-most-face-maybe-51h6)
-- [How a Kubernetes Autoscaling Incident Took Down Our API — and How I Now Debug It in Minutes](https://dev.to/muj18/how-a-kubernetes-autoscaling-incident-took-down-our-api-and-how-i-now-debug-it-in-minutes-27m9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
