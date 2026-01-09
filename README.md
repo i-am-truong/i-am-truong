@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [December 2025 VS Code Update &lpar;Version 1.108&rpar; – What’s New and Why It Matters](https://dev.to/hamidrazadev/december-2025-vs-code-update-version-1108-whats-new-and-why-it-matters-2o7f)
+- [🚀 My Journey into Data Science as a Student](https://dev.to/rc18/my-journey-into-data-science-as-a-student-6e)
 - [digital marketing](https://dev.to/junaid_rana_8d7c910ac89b7/digital-marketing-260j)
 - [Two Pointers &lpar;Opposite Ends&rpar;](https://dev.to/jayaprasanna_roddam/two-pointers-opposite-ends-40na)
 - [Go&#39;s Defer: Simple Rules, Deep Runtime Truths with intuitions.](https://dev.to/saifulire/gos-defer-complex-thing-in-simple-manner-with-low-level-intuitions-43gj)
-- [Two Pointers &lpar;Same Direction&rpar;](https://dev.to/jayaprasanna_roddam/two-pointers-same-direction-39i)
-- [My Cloud Practitioner Certification Journey and the Resources to Certify with Confidence](https://dev.to/aws-builders/my-cloud-practitioner-certification-journey-and-the-resources-to-certify-with-confidence-81n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
