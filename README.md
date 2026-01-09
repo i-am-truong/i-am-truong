@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My New 2026 Portfolio: Powered by Google Cloud &amp; AI](https://dev.to/arnostorg/my-new-2026-portfolio-powered-by-google-cloud-ai-i9d)
+- [Testes de Interface com Playwright e MCP no Windsurf](https://dev.to/vgeruso/testes-de-interface-com-playwright-e-mcp-no-windsurf-53al)
 - [Dynamic Configuration in React — Feature Flags Without the Jank](https://dev.to/tilyupo/dynamic-configuration-in-react-feature-flags-without-the-jank-15bj)
 - [Call Center con voces naturales en español y acento local](https://dev.to/aws-espanol/call-center-con-voces-naturales-en-espanol-y-acento-local-2pdl)
 - [The FAANG is dead! 💀](https://dev.to/alexr/faang-is-dead-2e1i)
-- [Mitigating Human-Driven AI Misuse in Generative Systems](https://dev.to/shravani_86c94d4b283541f3/mitigating-human-driven-ai-misuse-in-generative-systems-2j1o)
-- [Building an Autonomous Template Business, kind of.](https://dev.to/ssong/building-an-autonomous-template-business-kind-of-11el)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
