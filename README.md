@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Theme System with Next.js 15 and Tailwind CSS v4 &lpar;Without dark: Prefix&rpar;](https://dev.to/mukitaro/building-a-theme-system-with-nextjs-15-and-tailwind-css-v4-without-dark-prefix-43n6)
-- [I Built a Production RAG System in 3 Weeks - Here&#39;s What Actually Broke](https://dev.to/blessedefem/i-built-a-production-rag-system-in-3-weeks-heres-what-actually-broke-556m)
-- [$3,000 Prize Pool · Global Online Hackathon · Agent Infrastructure Tech Stack](https://dev.to/memu_ai/3000-prize-pool-global-online-hackathon-agent-infrastructure-tech-stack-2il5)
-- [Why Startups and IndieDevs Should Choose Monolith First, Lessons From My Micro-SaaS Project, For ...](https://dev.to/saber-amani/why-startups-and-indiedevs-should-choose-monolith-first-lessons-from-my-micro-saas-project-for--2epf)
-- [Summary of MapLibre User Group Japan Activities in 2025](https://dev.to/mug-jp/summary-of-maplibre-user-group-japan-activities-in-2025-p9h)
+- [Inside domharvest-playwright: How I Architected a Production-Ready Web Scraping Tool](https://dev.to/domharvest/inside-domharvest-playwright-how-i-architected-a-production-ready-web-scraping-tool-58f4)
+- [Governance Is Not “Aligned” — It Is Designed](https://dev.to/antonio_socorro_95e3ff086/governance-is-not-aligned-it-is-designed-35o8)
+- [Why “Busywork” Kills Creativity When I’m Just Trying to Experiment](https://dev.to/tancannon2003/why-busywork-kills-creativity-when-im-just-trying-to-experiment-bkn)
+- [pnpm vs npm vs yarn vs Bun: The 2026 Package Manager Showdown](https://dev.to/pockit_tools/pnpm-vs-npm-vs-yarn-vs-bun-the-2026-package-manager-showdown-51dc)
+- [Conditional TypeScript Generics in React Components](https://dev.to/egorovsa/conditional-typescript-generics-in-react-components-39fj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
