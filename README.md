@@ -120,11 +120,13 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cool Article on API Tools!!
+
+https://medium.com/@somendradev23/10-api-tools-every-full-stack-developer-should-know-6f9af40ae0ec](https://dev.to/evanlausier/cool-article-on-api-tools-5100)
+- [I Lost an Interview So You Don’t Have To: A Lesson in Interview Prep](https://dev.to/konfydev/i-lost-an-interview-so-you-dont-have-to-a-lesson-in-interview-prep-2eg2)
+- [SwiftUI #25: Estado &lpar;@State&rpar;](https://dev.to/david_goyes_a488f58a17a53/swift-25-estado-state-46h6)
 - [My First Open Source Contribution Was to an Authentication Project — And It Was Surprisingly Friendly](https://dev.to/kbpramod/my-first-open-source-contribution-was-to-an-authentication-project-and-it-was-surprisingly-ced)
 - [I Lost $1,200 to YouTube Scams in 90 Days. Now My AI Tool Spots Fake &quot;Make Money&quot; Videos in 10 Seconds &lpar;Free&rpar;](https://dev.to/nyanguno/i-lost-1200-to-youtube-scams-in-90-days-now-my-ai-tool-spots-fake-make-money-videos-in-10-3ddf)
-- [If you could recommend only one book, what would it be and why? 📚](https://dev.to/imasystemengineer/if-you-could-recommend-only-one-book-what-would-it-be-and-why-37i7)
-- [How to effectively monitor regular backups](https://dev.to/cronmonitor/how-to-effectively-monitor-regular-backups-3efc)
-- [Mastering the Art of Analyzing and Visualizing Data in Looker](https://dev.to/tech_croc_f32fbb6ea8ed4/mastering-the-art-of-analyzing-and-visualizing-data-in-looker-2n5k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
