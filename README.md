@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Vibe Coding vs AI-Driven Development: The Contracts Problem &lpar;and GS-TDD&rpar;](https://dev.to/dennisschmock/vibe-coding-vs-ai-driven-development-the-contracts-problem-and-gs-tdd-3h39)
-- [The Missing Link in AI Engineering: Why TypeScript + Zod is Better Than Python](https://dev.to/edgarmilvus/the-missing-link-in-ai-engineering-why-typescript-zod-is-better-than-python-2anc)
-- [How to get virtual display outputs on Linux without using a dummy plug](https://dev.to/foxes/how-to-get-virtual-display-outputs-on-linux-without-using-a-dummy-plug-50d3)
-- [Kubernetes Services &amp; Networking](https://dev.to/jumptotech/kubernetes-services-networking-1apj)
-- [When CRUD Tables Are No Longer Enough](https://dev.to/giuliopanda/when-crud-tables-are-no-longer-enough-53f)
+- [Building an AI Matching Engine Without Big Tech Resources](https://dev.to/yurii_lozinskyi_ead996b8a/building-an-ai-matching-engine-without-big-tech-resources-4490)
+- [Kubernetes Networking — Broken Labs &amp; Incident Response](https://dev.to/jumptotech/kubernetes-networking-devops-production-guide-44k6)
+- [I left Windows for Ubuntu. Here’s everything I configured and what I learned](https://dev.to/melialog/i-left-windows-for-ubuntu-heres-everything-i-configured-and-what-i-learned-4bk0)
+- [How will AI affect the cost of software development in 2026?](https://dev.to/joehoppe/how-will-ai-affect-the-cost-of-software-development-in-2026-a22)
+- [[Boost]](https://dev.to/elizabethfuentes12/-df3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
