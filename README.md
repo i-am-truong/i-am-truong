@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Vibe Coding vs AI-Driven Development: The Contracts Problem &lpar;and GS-TDD&rpar;](https://dev.to/dennisschmock/vibe-coding-vs-ai-driven-development-the-contracts-problem-and-gs-tdd-3h39)
+- [The Missing Link in AI Engineering: Why TypeScript + Zod is Better Than Python](https://dev.to/edgarmilvus/the-missing-link-in-ai-engineering-why-typescript-zod-is-better-than-python-2anc)
 - [How to get virtual display outputs on Linux without using a dummy plug](https://dev.to/foxes/how-to-get-virtual-display-outputs-on-linux-without-using-a-dummy-plug-50d3)
 - [Kubernetes Services &amp; Networking](https://dev.to/jumptotech/kubernetes-services-networking-1apj)
 - [When CRUD Tables Are No Longer Enough](https://dev.to/giuliopanda/when-crud-tables-are-no-longer-enough-53f)
-- [Catching the &quot;Ghost Gateway&quot;: GFSHELL Polymorphic Evasion](https://dev.to/brandennaidoo/catching-the-ghost-gateway-gfshell-polymorphic-evasion-12d7)
-- [MongoDB Advanced Aggregations With Spring Boot and Amazon Corretto](https://dev.to/mongodb/mongodb-advanced-aggregations-with-spring-boot-and-amazon-corretto-ek8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
