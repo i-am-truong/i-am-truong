@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Trading: Lesson Learned: False PR Merge Claims - Took Credit for Auto-Merged Work](https://dev.to/igorganapolsky/ai-trading-lesson-learned-false-pr-merge-claims-took-credit-for-auto-merged-work-2afn)
-- [🚀 Stop drowning in Tabs: Meet Noi, the Open Source Browser Built for AI](https://dev.to/siddhesh_surve/stop-drowning-in-tabs-meet-noi-the-open-source-browser-built-for-ai-5clb)
-- [useSyncExternalStore: The Right Way to Sync React with localStorage](https://dev.to/muhammed_fayazts_e35676/usesyncexternalstore-the-right-way-to-sync-react-with-localstorage-3c5f)
-- [HTML-101 #1. What is HTML &amp; How the Web Works](https://dev.to/himanshu_bhatt/html-101-1-what-is-html-how-the-web-works-ci7)
-- [Why I built fontgenerator.design: A clean Unicode reference for developers &lpar;Show HN 200+ points&rpar;](https://dev.to/mia_he_9dcd4e64155630d11c/why-i-built-fontgeneratordesign-a-clean-unicode-reference-for-developers-show-hn-200-points-1ooi)
+- [The Missing Piece in AI Agents: Continual Learning](https://dev.to/a_shokn/the-missing-piece-in-ai-agents-continual-learning-4i9j)
+- [📘 Paywall SDK – Tài liệu sử dụng TỪ A Z &lpar;kèm JSON mẫu&rpar;](https://dev.to/vio_di_code/paywall-sdk-tai-lieu-su-dung-tu-a-z-kem-json-mau-586f)
+- [Turning Neovim into a UE5 IDE: File Watching &amp; Architecture Shifts &lpar;Weekly Update 2026-01-09&rpar;](https://dev.to/taku25/turning-neovim-into-a-ue5-ide-file-watching-architecture-shifts-weekly-update-2026-01-09-30od)
+- [Silent Spend Tracker – A Non-Conversational Agent for Automatic Daily Expense Totals](https://dev.to/venkatesh_prasanna_d/silent-spend-tracker-a-non-conversational-agent-for-automatic-daily-expense-totals-5h43)
+- [How to Create Memory-Efficient Software: A Practical Guide for Developers](https://dev.to/farhadrahimiklie/how-to-create-memory-efficient-software-a-practical-guide-for-developers-e5e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
