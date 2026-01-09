@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My New 2026 Portfolio: Powered by Google Cloud &amp; AI](https://dev.to/arnostorg/my-new-2026-portfolio-powered-by-google-cloud-ai-i9d)
-- [Testes de Interface com Playwright e MCP no Windsurf](https://dev.to/vgeruso/testes-de-interface-com-playwright-e-mcp-no-windsurf-53al)
-- [Dynamic Configuration in React — Feature Flags Without the Jank](https://dev.to/tilyupo/dynamic-configuration-in-react-feature-flags-without-the-jank-15bj)
-- [Call Center con voces naturales en español y acento local](https://dev.to/aws-espanol/call-center-con-voces-naturales-en-espanol-y-acento-local-2pdl)
-- [The FAANG is dead! 💀](https://dev.to/alexr/faang-is-dead-2e1i)
+- [Build a ChatGPT App with Mapbox](https://dev.to/mapbox/build-a-chatgpt-app-with-mapbox-dca)
+- [Progress First, Judgment Later: Gutenberg and AI &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/progress-first-judgment-later-gutenberg-and-ai-bite-size-article-50k9)
+- [Turning Images Into Game-Ready PBR Textures With Python &lpar;Offline, No Subscriptions&rpar;](https://dev.to/matetechnologie/turning-images-into-game-ready-pbr-textures-with-python-offline-no-subscriptions-1ok)
+- [The FAANG is dead💀](https://dev.to/alexr/the-faang-is-dead-dd9)
+- [Food Delivery App &lpar;Zomato/Swiggy&rpar;](https://dev.to/arghya_majumder_54190fb59/food-delivery-app-zomatoswiggy-4443)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
