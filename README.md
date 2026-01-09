@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Inside domharvest-playwright: How I Architected a Production-Ready Web Scraping Tool](https://dev.to/domharvest/inside-domharvest-playwright-how-i-architected-a-production-ready-web-scraping-tool-58f4)
-- [Governance Is Not “Aligned” — It Is Designed](https://dev.to/antonio_socorro_95e3ff086/governance-is-not-aligned-it-is-designed-35o8)
-- [Why “Busywork” Kills Creativity When I’m Just Trying to Experiment](https://dev.to/tancannon2003/why-busywork-kills-creativity-when-im-just-trying-to-experiment-bkn)
-- [pnpm vs npm vs yarn vs Bun: The 2026 Package Manager Showdown](https://dev.to/pockit_tools/pnpm-vs-npm-vs-yarn-vs-bun-the-2026-package-manager-showdown-51dc)
-- [Conditional TypeScript Generics in React Components](https://dev.to/egorovsa/conditional-typescript-generics-in-react-components-39fj)
+- [Implementing player/coach workflow with Kiro CLI subagents](https://dev.to/aws/implementing-playercoach-workflow-with-kiro-cli-subagents-2gf3)
+- [Orphaned EBS Volumes Costing You $$$?](https://dev.to/cloudwiseteam/orphaned-ebs-volumes-costing-you--1g7l)
+- [How to remove annotations from PDF files in Java &lpar;Tutorial&rpar;](https://dev.to/idrsolutions/how-to-remove-annotations-from-pdf-files-in-java-tutorial-2nn8)
+- [NEWBIE PROBLEM MOST FACE MAYBE](https://dev.to/gamer_king/newbie-problem-most-face-maybe-51h6)
+- [How a Kubernetes Autoscaling Incident Took Down Our API — and How I Now Debug It in Minutes](https://dev.to/muj18/how-a-kubernetes-autoscaling-incident-took-down-our-api-and-how-i-now-debug-it-in-minutes-27m9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
