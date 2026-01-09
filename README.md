@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Today I Truly Understood the useRef Hook &lpar;Not Just What It Does, But Why It Exists&rpar;](https://dev.to/usama_dev/today-i-truly-understood-the-useref-hook-not-just-what-it-does-but-why-it-exists-4iif)
+- [SQL Pattern Matching Finally Makes Sense &lpar;LIKE, ILIKE, IN, BETWEEN&rpar;](https://dev.to/mazinocodes/sql-pattern-matching-finally-makes-sense-like-ilike-in-between-3o9n)
+- [IRQs and the Art of Not Crashing](https://dev.to/florent_herisson_691b0bac/irqs-and-the-art-of-not-crashing-non)
+- [How running a single EC2 with just Gunicorn silently capped my app — and what it taught me about real scaling](https://dev.to/saifullahusmani/how-running-a-single-ec2-with-just-gunicorn-silently-capped-my-app-and-what-it-taught-me-about-1m17)
 - [December 2025 VS Code Update &lpar;Version 1.108&rpar; – What’s New and Why It Matters](https://dev.to/hamidrazadev/december-2025-vs-code-update-version-1108-whats-new-and-why-it-matters-2o7f)
-- [🚀 My Journey into Data Science as a Student](https://dev.to/rc18/my-journey-into-data-science-as-a-student-6e)
-- [digital marketing](https://dev.to/junaid_rana_8d7c910ac89b7/digital-marketing-260j)
-- [Two Pointers &lpar;Opposite Ends&rpar;](https://dev.to/jayaprasanna_roddam/two-pointers-opposite-ends-40na)
-- [Go&#39;s Defer: Simple Rules, Deep Runtime Truths with intuitions.](https://dev.to/saifulire/gos-defer-complex-thing-in-simple-manner-with-low-level-intuitions-43gj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
