@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Buildsaas.dev](https://dev.to/shreyvijayvargiya/buildsaasdev-cc4)
+- [System Design in Real Life: Why Ancient Museums are actually Microservices?](https://dev.to/tyrell_wellicq_767cb57340/system-design-in-real-life-why-ancient-museums-are-actually-microservices-3a43)
+- [Open-Source Developer Portfolio](https://dev.to/blshaer/open-source-developer-portfolio-3952)
+- [🧠I Built a Support Triage Module to Prove OrKa’s Plugin Agents](https://dev.to/marcosomma/i-built-a-support-triage-module-to-prove-orkas-plugin-agents-32c4)
 - [Learn Docker: Stop asking your stakeholders to install Node.js](https://dev.to/franciscolunadev82/stop-asking-your-stakeholders-to-install-nodejs-p3d)
-- [What Clients ACTUALLY Want From Frontend Devs &lpar;Not Clean Code&rpar;](https://dev.to/toboreeee/what-clients-actually-want-from-frontend-developers-1bm7)
-- [How I Speed Up My Asset Store Publishing Process](https://dev.to/guardingpearsoftware/how-i-speed-up-my-asset-store-publishing-process-47fd)
-- [How to Build a Global Internationalization &lpar;I18n&rpar; App with Next.js and AI](https://dev.to/eunit/how-to-build-a-global-internationalization-i18n-app-with-nextjs-and-ai-1ejl)
-- [Building FatAdvisor: A .NET Nutrition AI Agent. Part 2: Agent goes outside](https://dev.to/doctornick42/building-fatadvisor-a-net-nutrition-ai-agent-part-2-agent-goes-outside-35da)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
