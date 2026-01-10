@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Containers aren’t a sandbox for AI agents](https://dev.to/siddhantkcode/containers-arent-a-sandbox-for-ai-agents-215o)
+- [AWS IAM Security: A Practical Guide That Actually Works in Production](https://dev.to/muhammad_yawar_malik/aws-iam-security-a-practical-guide-that-actually-works-in-production-5gmn)
+- [10 Proven Ways to Cut Your AWS Bill](https://dev.to/rogo032/10-proven-ways-to-cut-your-aws-bill-5157)
+- [What Are Recursive Language Models?](https://dev.to/alexmercedcoder/what-are-recursive-language-models-3kno)
 - [SQL Server Indexes Explained: Column Order, INCLUDE, and the Mistakes That Taught Me](https://dev.to/mashrulhaque/sql-server-indexes-explained-column-order-include-and-the-mistakes-that-taught-me-3h9b)
-- [🔥 This AWS Lambda Update Changes Everything &lpar;Durable Functions&rpar;](https://dev.to/alizgheib/this-aws-lambda-update-changes-everything-durable-functions-30d2)
-- [Week 4 Network Packet Tracing](https://dev.to/fosres/the-one-networking-concept-that-fails-90-of-security-engineer-candidates-5960)
-- [Your SaaS Doesn’t Have a Traffic Problem — It Has a Clarity Problem](https://dev.to/muhammadfaizan/your-saas-doesnt-have-a-traffic-problem-it-has-a-clarity-problem-5bmo)
-- [Why uv Refused to Upgrade My Package &lpar;And Why It Was Actually Right&rpar;](https://dev.to/gautamvhavle/why-uv-refused-to-upgrade-my-package-and-why-it-was-actually-right-2ci4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
