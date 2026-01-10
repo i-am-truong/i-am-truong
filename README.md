@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Storage for Developers](https://dev.to/dipalikulshrestha/storage-for-developers-58h5)
+- [Web3 store](https://dev.to/yaalfred/web3-store-4c15)
+- [How to Create an Impressive GitHub Profile README in 2026](https://dev.to/colin_lee_0efbc2899420fa5/how-to-create-an-impressive-github-profile-readme-in-2026-1ifn)
+- [Launching EC2 instances within a VPC &lpar;along with Wizard&rpar;](https://dev.to/jeyy/launching-ec2-instances-within-a-vpc-along-with-wizard-1en0)
 - [Best Solana Developer Tools &lpar;Web-Based&rpar; for 2026](https://dev.to/jumpbit/best-solana-developer-tools-web-based-for-2026-1dbo)
-- [Rust 2.0: A Thought Experiment on Safe Specialization](https://dev.to/simmypeet/rust-20-a-thought-experiment-on-safe-specialization-1fbl)
-- [Why using Elasticsearch was bad because I needed real-time data retrieval, not just fast searching](https://dev.to/saifullahusmani/why-using-elasticsearch-was-bad-because-i-needed-real-time-data-retrieval-not-just-fast-searching-1cn8)
-- [Compute options for Developers](https://dev.to/dipalikulshrestha/compute-options-for-developers-2db2)
-- [AWS Development Environment](https://dev.to/dipalikulshrestha/aws-development-environment-32j9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
