@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [HTML-101 #2. Structure of HTML](https://dev.to/himanshu_bhatt/html-101-2-structure-of-html-peo)
+- [Pipes - Most minimal form of inter process communication](https://dev.to/perennial_lorekeeper/pipes-most-minimal-form-of-inter-process-communication-4mom)
+- [Angular Signals vs Observables — What I Really Learned](https://dev.to/rigole/angular-signals-vs-observables-what-i-really-learned-3dgh)
 - [11 Years on a Hobby Project: SymOntoClay Dev Journal](https://dev.to/metatypeman/11-years-on-a-hobby-project-symontoclay-dev-journal-3ee)
 - [NodeSecure hidden capability: mama](https://dev.to/nodesecure/nodesecure-hidden-capability-mama-2mn2)
-- [Rust Smart Pointers &lpar;Box, Rc, Arc&rpar;](https://dev.to/godofgeeks/rust-smart-pointers-box-rc-arc-290)
-- [🔒_Security_Performance_Balance[20260110071101]](https://dev.to/member_6331818c/securityperformancebalance20260110071101-jji)
-- [Contiguous Memory &amp; Cache Locality](https://dev.to/ali_algmass/contiguous-memory-cache-locality-5lh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
