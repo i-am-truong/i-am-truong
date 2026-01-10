@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Type alias in Python &lpar;3&rpar;](https://dev.to/hyperkai/type-alias-in-python-3-4o1n)
-- [HTML-101 #3. Comments &amp; Naming Convention](https://dev.to/himanshu_bhatt/html-101-3-comments-naming-convention-585i)
-- [I&#39;d like to celebrate building my new portfolio, I have never made anything like this before.](https://dev.to/arnostorg/id-like-to-celebrate-building-my-new-portfolio-i-have-never-made-anything-like-this-before-bfn)
-- [Why Port 8000 Suddenly Stopped Working on My Local Machine &lpar;and How I Fixed It&rpar;](https://dev.to/tahsin000/why-port-8000-suddenly-stopped-working-on-my-local-machine-and-how-i-fixed-it-4a12)
-- [The Complete Windows to Linux Migration Guide](https://dev.to/md8_habibullah/the-complete-windows-to-linux-migration-guide-2f9m)
+- [How Equillar Ensures Payment Capacity for Investment Contracts](https://dev.to/icolomina/how-equillar-ensures-payment-capacity-for-investment-contracts-181i)
+- [“While Others Wait for VS Code to Load, I’m Already Coding in Ecode.”](https://dev.to/linfinitydev/while-others-wait-for-vs-code-to-load-im-already-coding-in-ecode-3f38)
+- [Building Custom Composite Components with STDF in Svelte](https://dev.to/zt49t9-dev/building-custom-composite-components-with-stdf-in-svelte-5f72)
+- [Building a Kafka Wikimedia Producer: Understanding Constructors and Threading](https://dev.to/hantedyou_0106/building-a-kafka-wikimedia-producer-understanding-constructors-and-threading-1nmo)
+- [CodiumAI PR-Agent，在 Gitea 上用 AI 來 Code Review](https://dev.to/letswrite/codiumai-pr-agentzai-gitea-shang-yong-ai-lai-code-review-m6l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
