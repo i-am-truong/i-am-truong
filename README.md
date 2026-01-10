@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Under-presentation of Swahili in AI tasks](https://dev.to/eddiegulay/underpresentation-of-swahili-in-ai-tasks-4d44)
+- [Skin In The Game](https://dev.to/jakepage91/skin-in-the-game-4686)
 - [Unauthenticated Blind SSRF in Oracle EBS](https://dev.to/x41x41x41/unauthenticated-blind-ssrf-in-oracle-ebs-p1i)
 - [Python Dictionary Views Are Live &lpar;And It Might Break Your Code&rpar;](https://dev.to/samuel_ochaba_eb9c875fa89/python-dictionary-views-are-live-and-it-might-break-your-code-56in)
-- [Dark Mode with Tailwind v4 &amp; next-themes](https://dev.to/abujakariacse/dark-mode-with-tailwind-v4-next-themes-1mag)
-- [Incremark Now Supports Solid: One Library for Vue, React, Svelte, and Solid](https://dev.to/kingshuaishuai/incremark-now-supports-solid-one-library-for-vue-react-svelte-and-solid-n39)
-- [Bridging LLMs and Design Systems via MCP: Implementing a Community Figma MCP Server for Generative Design](https://dev.to/om_shree_0709/bridging-llms-and-design-systems-via-mcp-implementing-a-community-figma-mcp-server-for-generative-2ig2)
+- [Velo: A Cross-Platform Network Speed Monitor Built with Go &amp; Wails](https://dev.to/kanywst/velo-a-cross-platform-network-speed-monitor-built-with-go-wails-3g3p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
