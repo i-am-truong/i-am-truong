@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [UI UX Design Course Training in Telugu: A Complete Guide for Future Designers](https://dev.to/teja_das_051d874d1b872413/ui-ux-design-course-training-in-telugu-a-complete-guide-for-future-designers-2hp0)
-- [🧶 Beginner-Friendly Guide &#39;Minimum ASCII Delete Sum for Two Strings&#39; – LeetCode 712 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-minimum-ascii-delete-sum-for-two-strings-leetcode-712-c-python-4eeh)
-- [🚨 AWS 130: Routing the Private Way - Implementing a NAT Instance](https://dev.to/hritikraj8804/aws-130-routing-the-private-way-implementing-a-nat-instance-1c9j)
-- [Page Tables: A Love Story &lpar;It&#39;s Not&rpar;](https://dev.to/florent_herisson_691b0bac/page-tables-a-love-story-its-not-4286)
-- [The Secret Life of Go: Testing](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-testing-597a)
+- [How to Cut Your AI Costs in Half While Doubling Performance](https://dev.to/debmckinney/how-to-cut-your-ai-costs-in-half-while-doubling-performance-59f9)
+- [Running on our backup wifi. Sky Fiber sucks](https://dev.to/highcenburg/running-on-our-backup-wifi-sky-fiber-sucks-4d1d)
+- [How to Check External API Throttle Limit in Laravel](https://dev.to/ankitvermaonline/how-to-check-external-api-throttle-limit-in-laravel-mk6)
+- [The Utopia of Regulations: The Iron Law of Liberalism and Bureaucracy](https://dev.to/fundacjadobrepanstwo/the-utopia-of-regulations-the-iron-law-of-liberalism-and-bureaucracy-4gj0)
+- [🌈 Looking for Guidance: I’m Building an HRT Journey Tracker Suite, but I’m Stuck](https://dev.to/codebunny20/looking-for-guidance-im-building-an-hrt-journey-tracker-suite-but-im-stuck-3em1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
