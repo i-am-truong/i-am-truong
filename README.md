@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Does Tasks. Humans Do Deals.](https://dev.to/synthaicode_commander/ai-does-tasks-humans-do-deals-5hao)
+- [The Burnout Industrial Complex: How Companies Profit From Your Exhaustion](https://dev.to/ghostinit0x/the-burnout-industrial-complex-how-companies-profit-from-your-exhaustion-15kh)
 - [Buildsaas.dev](https://dev.to/shreyvijayvargiya/buildsaasdev-cc4)
 - [System Design in Real Life: Why Ancient Museums are actually Microservices?](https://dev.to/tyrell_wellicq_767cb57340/system-design-in-real-life-why-ancient-museums-are-actually-microservices-3a43)
 - [Open-Source Developer Portfolio](https://dev.to/blshaer/open-source-developer-portfolio-3952)
-- [🧠I Built a Support Triage Module to Prove OrKa’s Plugin Agents](https://dev.to/marcosomma/i-built-a-support-triage-module-to-prove-orkas-plugin-agents-32c4)
-- [Learn Docker: Stop asking your stakeholders to install Node.js](https://dev.to/franciscolunadev82/stop-asking-your-stakeholders-to-install-nodejs-p3d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
