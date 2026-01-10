@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Under-presentation of Swahili in AI tasks](https://dev.to/eddiegulay/underpresentation-of-swahili-in-ai-tasks-4d44)
-- [Skin In The Game](https://dev.to/jakepage91/skin-in-the-game-4686)
-- [Unauthenticated Blind SSRF in Oracle EBS](https://dev.to/x41x41x41/unauthenticated-blind-ssrf-in-oracle-ebs-p1i)
-- [Python Dictionary Views Are Live &lpar;And It Might Break Your Code&rpar;](https://dev.to/samuel_ochaba_eb9c875fa89/python-dictionary-views-are-live-and-it-might-break-your-code-56in)
-- [Velo: A Cross-Platform Network Speed Monitor Built with Go &amp; Wails](https://dev.to/kanywst/velo-a-cross-platform-network-speed-monitor-built-with-go-wails-3g3p)
+- [[Boost]](https://dev.to/mbugua70/-56ef)
+- [# Beyond the Code: Introducing Helpothon, Where Developers Build Technology for](https://dev.to/helpathon/-beyond-the-code-introducing-helpothon-where-developers-build-technology-for-1njp)
+- [[Simple SNS Project] Step 4. Search Implementation &amp; Logging Strategy](https://dev.to/jonghwayoo03_dev/simple-sns-project-step-4-search-implementation-logging-strategy-1b0d)
+- [i made this project syswaifu, shows your system stats with random waifu image.](https://dev.to/iamovi/i-made-this-project-syswaifu-shows-your-system-stats-with-random-waifu-image-4lcm)
+- [DevLog 20260110: Motivations for Methodox Threads - A Conversation Management Tool](https://dev.to/methodox/devlog-20260110-motivations-for-methodox-threads-a-conversation-management-tool-45c2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
