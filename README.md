@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Setting Up Obsidian on Ubuntu and Syncing with Git &amp; Android &lpar;Step-by-Step&rpar;](https://dev.to/dassa_das/setting-up-obsidian-on-ubuntu-and-syncing-with-git-android-step-by-step-3ca7)
 - [[Boost]](https://dev.to/mbugua70/-56ef)
-- [# Beyond the Code: Introducing Helpothon, Where Developers Build Technology for](https://dev.to/helpathon/-beyond-the-code-introducing-helpothon-where-developers-build-technology-for-1njp)
-- [[Simple SNS Project] Step 4. Search Implementation &amp; Logging Strategy](https://dev.to/jonghwayoo03_dev/simple-sns-project-step-4-search-implementation-logging-strategy-1b0d)
-- [i made this project syswaifu, shows your system stats with random waifu image.](https://dev.to/iamovi/i-made-this-project-syswaifu-shows-your-system-stats-with-random-waifu-image-4lcm)
-- [DevLog 20260110: Motivations for Methodox Threads - A Conversation Management Tool](https://dev.to/methodox/devlog-20260110-motivations-for-methodox-threads-a-conversation-management-tool-45c2)
+- [I Analyzed 1,000+ YouTube &quot;Side Hustles&quot;—85% Are Scams. Here is the Data.](https://dev.to/nyanguno/i-analyzed-1000-youtube-side-hustles-85-are-scams-here-is-the-data-11ej)
+- [Build a Professional Real-Time Chat App with Docker, Flask, and Socket.IO](https://dev.to/fytroy/build-a-professional-real-time-chat-app-with-docker-flask-and-socketio-43h1)
+- [I built a simple science helper website as a student](https://dev.to/akshaj_anand_53f79e4689c5/i-built-a-simple-science-helper-website-as-a-student-3bl4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
