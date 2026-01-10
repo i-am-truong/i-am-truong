@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Built My Portfolio with Google&#39;s AI Code Agent &amp; Cloud Run - What Took Me Days Now Takes an Hour ⚡](https://dev.to/hongming_wang_bdb8eb8d379/built-my-portfolio-with-googles-ai-code-agent-cloud-run-what-took-me-days-now-takes-an-hour-5d89)
 - [Setting Up Obsidian on Ubuntu and Syncing with Git &amp; Android &lpar;Step-by-Step&rpar;](https://dev.to/dassa_das/setting-up-obsidian-on-ubuntu-and-syncing-with-git-android-step-by-step-3ca7)
+- [I Built a Small HTTP Server in C to Understand How the Web Actually Works](https://dev.to/codewithevilxd/i-built-a-small-http-server-in-c-to-understand-how-the-web-actually-works-1pdg)
 - [[Boost]](https://dev.to/mbugua70/-56ef)
 - [I Analyzed 1,000+ YouTube &quot;Side Hustles&quot;—85% Are Scams. Here is the Data.](https://dev.to/nyanguno/i-analyzed-1000-youtube-side-hustles-85-are-scams-here-is-the-data-11ej)
-- [Build a Professional Real-Time Chat App with Docker, Flask, and Socket.IO](https://dev.to/fytroy/build-a-professional-real-time-chat-app-with-docker-flask-and-socketio-43h1)
-- [I built a simple science helper website as a student](https://dev.to/akshaj_anand_53f79e4689c5/i-built-a-simple-science-helper-website-as-a-student-3bl4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
