@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Handling PayPal API Authentication the .NET Way](https://dev.to/peterwurzinger/handling-paypal-api-authentication-the-net-way-2f6p)
+- [Getting Started with 2D Games Using Pyxel &lpar;Part 7&rpar;: Control the Character](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-pyxel-part-7-control-the-character-3kdj)
 - [Complete ESP32 Security Guide for IoT Devices](https://dev.to/sudoyasir/complete-esp32-security-guide-for-iot-devices-4c1g)
 - [Lower Back Pop Stretch – Benefits, How It Works, and Safety Tips](https://dev.to/fitnesshubz/lower-back-pop-stretch-benefits-how-it-works-and-safety-tips-1e5d)
 - [This will be your last resume template](https://dev.to/beingwizard/this-will-be-your-last-resume-template-3ola)
-- [Stop Re-running Everything: A Local Incremental Pipeline in DuckDB](https://dev.to/markolekic/stop-re-running-everything-a-local-incremental-pipeline-in-duckdb-543p)
-- [MySQL backup and restore — Complete guide to MySQL database backup strategies in 2026](https://dev.to/piteradyson/mysql-backup-and-restore-complete-guide-to-mysql-database-backup-strategies-in-2026-4cdk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
