@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Port 8000 Suddenly Stopped Working on My Local Machine &lpar;and How I Fixed It&rpar;](https://dev.to/tahsin000/why-port-8000-suddenly-stopped-working-on-my-local-machine-and-how-i-fixed-it-4a12)
 - [The Complete Windows to Linux Migration Guide](https://dev.to/md8_habibullah/the-complete-windows-to-linux-migration-guide-2f9m)
+- [Day 37: Managing EC2 Access with S3 Role-based Permissions](https://dev.to/thukhakyawe_cloud/day-37-managing-ec2-access-with-s3-role-based-permissions-174e)
 - [Road To Compliance: Will Your Internal Users Hate Your Platform Team?](https://dev.to/dvddpl/road-to-compliance-will-your-internal-users-hate-your-platform-team-1jk5)
-- [I Got Tired of Jira. So I Built an Agentic Project Management Tool — and Open-Sourced It](https://dev.to/josemukorivo/i-got-tired-of-jira-so-i-built-an-agentic-project-management-tool-and-open-sourced-it-3ghp)
-- [AsyncTasQ: The Type-Safe, Async-First Task Queue That&#39;s 2-3x Faster Than Celery](https://dev.to/adamrefaey/asynctasq-the-type-safe-async-first-task-queue-thats-2-3x-faster-than-celery-585i)
-- [J&#39;ai galéré pendant 3 semaines pour monter un cluster Kubernetes &lpar;et voilà ce que j&#39;ai appris&rpar;](https://dev.to/loiconlyone/jai-galere-pendant-3-semaines-pour-monter-un-cluster-kubernetes-et-voila-ce-que-jai-appris-30l6)
+- [Quantum edge trading](https://dev.to/neilyoungdevliverpool/quantum-edge-trading-389c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
