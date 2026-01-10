@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [If you hate WordPress, you probably don&#39;t understand the software business.](https://dev.to/betoalien/if-you-hate-wordpress-you-probably-dont-understand-the-software-business-3lph)
-- [🌈 HRT Journey Tracker Suite](https://dev.to/codebunny20/hrt-journey-tracker-suite-2fn1)
-- [7 Personalized Romance Novel Apps That Are Changing Digital Reading in 2026](https://dev.to/anas_kayssi/7-personalized-romance-novel-apps-that-are-changing-digital-reading-in-2026-5hnp)
-- [Project: One App — Three Probes — Real Failures](https://dev.to/jumptotech/project-one-app-three-probes-real-failures-5fgo)
-- [SwiftUI Dependency Graph Architecture &lpar;Object Lifetimes &amp; Scope&rpar;](https://dev.to/sebastienlato/swiftui-dependency-graph-architecture-object-lifetimes-scope-2pfa)
+- [Building an IPL Cricket Stats Assistant with Algolia Agent Studio](https://dev.to/sreenu_sasubilli_f9289c4e/building-an-ipl-cricket-stats-assistant-with-algolia-agent-studio-44mg)
+- [Day 10 of 100](https://dev.to/palakhirave/day-10-of-100-14oc)
+- [Building an AI-Powered GTM Audit Tool: A Technical Breakdown](https://dev.to/revenueleaks/building-an-ai-powered-gtm-audit-tool-a-technical-breakdown-em9)
+- [Essential DevOps Tools for macOS](https://dev.to/joachim8675309/essential-devops-tools-for-macos-53m2)
+- [What Happens When a Classic Game Meets Modern Multiplayer and Web3 Utility?](https://dev.to/mxr_token_93ef3fc4aba5559/what-happens-when-a-classic-game-meets-modern-multiplayer-and-web3-utility-5db1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
