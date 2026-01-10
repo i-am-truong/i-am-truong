@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Rust Series01 - Ownership is what you need to know](https://dev.to/kevinsheeranxyj/rust-series01-ownership-is-what-you-need-to-know-2ikm)
 - [Can AI Really Build Your App From Just a Vibe?](https://dev.to/aiwithapex/can-ai-really-build-your-app-from-just-a-vibe-5640)
 - [How to Cut Your AI Costs in Half While Doubling Performance](https://dev.to/debmckinney/how-to-cut-your-ai-costs-in-half-while-doubling-performance-59f9)
 - [Running on our backup wifi. Sky Fiber sucks](https://dev.to/highcenburg/running-on-our-backup-wifi-sky-fiber-sucks-4d1d)
 - [How to Check External API Throttle Limit in Laravel](https://dev.to/ankitvermaonline/how-to-check-external-api-throttle-limit-in-laravel-mk6)
-- [The Utopia of Regulations: The Iron Law of Liberalism and Bureaucracy](https://dev.to/fundacjadobrepanstwo/the-utopia-of-regulations-the-iron-law-of-liberalism-and-bureaucracy-4gj0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
