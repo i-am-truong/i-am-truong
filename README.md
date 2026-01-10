@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [5 Ways a Standup Bot with Task Tracker Integration Crushes Traditional Standups](https://dev.to/standupify/5-ways-a-standup-bot-with-task-tracker-integration-crushes-traditional-standups-2dpk)
-- [The Quiet Shift: From Chrome&#39;s Noise to Thorium&#39;s Silence](https://dev.to/linfinitydev/the-quiet-shift-from-chromes-noise-to-thoriums-silence-31cl)
-- [🔐 TLS Termination Models - SSL Passthrough vs SSL Termination &lpar;Offloading&rpar; vs SSL Bridging &lpar;Re-Encryption&rpar;](https://dev.to/sharonkynu/tls-termination-models-ssl-passthrough-vs-ssl-termination-offloading-vs-ssl-bridging-39ck)
-- [How I Went From &#39;I&#39;m Not a Hardware Person&#39; to Reverse Engineering Devices](https://dev.to/numbpill3d/how-i-went-from-im-not-a-hardware-person-to-reverse-engineering-devices-894)
-- [Linux Kernel Architecture: From Ring 0 to Network Stack &amp; eBPF](https://dev.to/kanywst/linux-kernel-architecture-from-ring-0-to-network-stack-ebpf-6o0)
+- [11 Years on a Hobby Project: SymOntoClay Dev Journal](https://dev.to/metatypeman/11-years-on-a-hobby-project-symontoclay-dev-journal-3ee)
+- [NodeSecure hidden capability: mama](https://dev.to/nodesecure/nodesecure-hidden-capability-mama-2mn2)
+- [Rust Smart Pointers &lpar;Box, Rc, Arc&rpar;](https://dev.to/godofgeeks/rust-smart-pointers-box-rc-arc-290)
+- [🔒_Security_Performance_Balance[20260110071101]](https://dev.to/member_6331818c/securityperformancebalance20260110071101-jji)
+- [Contiguous Memory &amp; Cache Locality](https://dev.to/ali_algmass/contiguous-memory-cache-locality-5lh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
