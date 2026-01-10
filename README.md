@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Learn Docker: Stop asking your stakeholders to install Node.js](https://dev.to/franciscolunadev82/stop-asking-your-stakeholders-to-install-nodejs-p3d)
+- [What Clients ACTUALLY Want From Frontend Devs &lpar;Not Clean Code&rpar;](https://dev.to/toboreeee/what-clients-actually-want-from-frontend-developers-1bm7)
+- [How I Speed Up My Asset Store Publishing Process](https://dev.to/guardingpearsoftware/how-i-speed-up-my-asset-store-publishing-process-47fd)
 - [How to Build a Global Internationalization &lpar;I18n&rpar; App with Next.js and AI](https://dev.to/eunit/how-to-build-a-global-internationalization-i18n-app-with-nextjs-and-ai-1ejl)
 - [Building FatAdvisor: A .NET Nutrition AI Agent. Part 2: Agent goes outside](https://dev.to/doctornick42/building-fatadvisor-a-net-nutrition-ai-agent-part-2-agent-goes-outside-35da)
-- [AI: A Child in the Digital Age – Shaping Its Future with Data and Ethics.](https://dev.to/kaushik_patil_b20f74fe212/ai-a-child-in-the-digital-age-shaping-its-future-with-data-and-ethics-2l8m)
-- [13 Languages Are Challenging C. Most Fail. Only Five Stack Up.](https://dev.to/dimension-zero/13-languages-are-challenging-c-most-fail-only-five-stack-up-2no5)
-- [Mother CLAUDE: How We Built a Documentation System That Makes LLMs Productive Immediately](https://dev.to/dorothyjb/how-we-built-a-documentation-system-that-makes-llms-productive-immediately-59hc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
