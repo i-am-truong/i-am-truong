@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Build a Robust Offline-First Flutter App with BLoC, Dio, and Sqflite](https://dev.to/ghamdandev/build-a-robust-offline-first-flutter-app-with-bloc-dio-and-sqflite-51f5)
+- [Understanding the A2UI Protocol: Building with Java and Spring Boot](https://dev.to/vishalmysore/understanding-the-a2ui-protocol-building-with-java-and-spring-boot-3jee)
+- [The Deployment From Hades](https://dev.to/trickell/the-deployment-from-hades-3064)
+- [Prediction Markets in the Wild: How They Shape Geopolitics—and What Arbitrage Reveals](https://dev.to/mikhailliublin/prediction-markets-in-the-wild-how-they-shape-geopolitics-and-what-arbitrage-reveals-3d1h)
 - [Why I Built Staks: Open-Source Email Infrastructure for Developers](https://dev.to/staksdev/why-i-built-staks-open-source-email-infrastructure-for-developers-3inc)
-- [Docker: Internal Architecture](https://dev.to/kanywst/docker-internal-architecture-bfo)
-- [Listing IAM Roles for Your Current AWS Account](https://dev.to/tttol/listing-iam-roles-for-your-current-aws-account-24ie)
-- [Before Big Data: 3 Key Discoveries That Changed Business Strategy Forever](https://dev.to/thanh_truong_a99577c6b879/before-big-data-3-key-discoveries-that-changed-business-strategy-forever-3mhc)
-- [Building Own MAC: Part 1 - Encrypted, but Not Trusted](https://dev.to/dmytro_huz/building-own-mac-part-1-encrypted-but-not-trusted-2bck)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
