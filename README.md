@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Week 4 Network Packet Tracing](https://dev.to/fosres/the-one-networking-concept-that-fails-90-of-security-engineer-candidates-5960)
+- [Your SaaS Doesn’t Have a Traffic Problem — It Has a Clarity Problem](https://dev.to/muhammadfaizan/your-saas-doesnt-have-a-traffic-problem-it-has-a-clarity-problem-5bmo)
 - [Adeus, Swagger UI ? Uma alternativa elegante com Redoc](https://dev.to/daniloopinheiro/adeus-swagger-ui-uma-alternativa-elegante-com-redoc-3024)
-- [How I Built an Orchestrator-Worker System for Claude Code](https://dev.to/mohamed9974/how-i-built-an-orchestrator-worker-system-for-claude-code-2i37)
-- [VitaGuard: My First Real-Time Linux System Health Monitor in Bash](https://dev.to/navickas/vitaguard-my-first-real-time-linux-system-health-monitor-in-bash-plm)
-- [The Death of Architectural Design in Agile](https://dev.to/ghostinit0x/the-death-of-architectural-design-in-agile-150f)
-- [AWS Cheat Sheet](https://dev.to/varalakshmi/aws-cheat-sheet-l81)
+- [Building a Personal Finance Tool for Everyone - Need Your Input](https://dev.to/frankfinance/building-a-personal-finance-tool-for-everyone-need-your-input-lbh)
+- [The M3 MacBook Pro Is a Rip-Off for Most People &lpar;Here&#39;s What to Buy Instead&rpar;](https://dev.to/ii-x/the-m3-macbook-pro-is-a-rip-off-for-most-people-heres-what-to-buy-instead-2kkp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
