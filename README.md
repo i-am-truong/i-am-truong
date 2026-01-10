@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Complete ESP32 Security Guide for IoT Devices](https://dev.to/sudoyasir/complete-esp32-security-guide-for-iot-devices-4c1g)
+- [Lower Back Pop Stretch – Benefits, How It Works, and Safety Tips](https://dev.to/fitnesshubz/lower-back-pop-stretch-benefits-how-it-works-and-safety-tips-1e5d)
 - [This will be your last resume template](https://dev.to/beingwizard/this-will-be-your-last-resume-template-3ola)
 - [Stop Re-running Everything: A Local Incremental Pipeline in DuckDB](https://dev.to/markolekic/stop-re-running-everything-a-local-incremental-pipeline-in-duckdb-543p)
-- [Solana Devnet: Everything You Need to Know](https://dev.to/jumpbit/solana-devnet-everything-you-need-to-know-188f)
-- [We’re Launching Vizora &lpar;Private Beta&rpar; — Paste Your DB Schema, Understand It Instantly](https://dev.to/rushikesh_bodakhe_db28644/were-launching-vizora-private-beta-paste-your-db-schema-understand-it-instantly-2418)
+- [MySQL backup and restore — Complete guide to MySQL database backup strategies in 2026](https://dev.to/piteradyson/mysql-backup-and-restore-complete-guide-to-mysql-database-backup-strategies-in-2026-4cdk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
