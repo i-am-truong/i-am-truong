@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Making VS Code &quot;Read My Mind&quot;: Building Smart Context Awareness](https://dev.to/freerave/making-vs-code-read-my-mind-building-smart-context-awareness-2pdi)
+- [AI 코딩이 자꾸 내 아키텍처를 망가뜨린다면? &lpar;feat. CodeSyncer&rpar;](https://dev.to/kiwibreaksme/ai-kodingi-jaggu-nae-akitegceoreul-manggaddeurindamyeon-feat-codesyncer-5b3d)
+- [Stop Overengineering: How to Write Clean Code That Actually Ships 🚀](https://dev.to/thebitforge/stop-overengineering-how-to-write-clean-code-that-actually-ships-18ni)
+- [How I Fixed the dyld: Symbol not found Error After Updating PHP 8.4 in Laravel Herd &lpar;macOS Monterey&rpar;](https://dev.to/timadey/how-i-fixed-the-dyld-symbol-not-found-error-after-updating-php-84-in-laravel-herd-macos-monterey-3jgd)
 - [The Tailwind Labs&#39; Problem](https://dev.to/pnpancholi/the-tailwind-labs-problem-1ne3)
-- [Checklist for Promoting Your App: A Step-by-Step Guide That Works](https://dev.to/isa_akharume_f9c88db247c7/checklist-for-promoting-your-app-a-step-by-step-guide-that-works-nd1)
-- [Advanced Animation Techniques with svelte-animations in Svelte](https://dev.to/zt49t9-dev/advanced-animation-techniques-with-svelte-animations-in-svelte-4mkg)
-- [I Built a Zuora Workflow Manager with Laravel 12 + Filament &lpar;Full Tech Stack Walkthrough&rpar;](https://dev.to/francostino/i-built-a-zuora-workflow-manager-with-laravel-12-filament-full-tech-stack-walkthrough-4co7)
-- [I Built a Pastebin Where Even I Can&#39;t Read Your Data](https://dev.to/ishannaik/i-built-a-pastebin-where-even-i-cant-read-your-data-3fj4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
