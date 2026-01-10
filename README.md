@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Bridging LLMs and Design Systems via MCP: Implementing a Community Figma MCP Server for Generative Design](https://dev.to/om_shree_0709/bridging-llms-and-design-systems-via-mcp-implementing-a-community-figma-mcp-server-for-generative-2ig2)
 - [Introducing Neon Protocol: The Cyberpunk Theme Your VS Code Needs](https://dev.to/fytroy/introducing-neon-protocol-the-cyberpunk-theme-your-vs-code-needs-4h8p)
 - [Local networks are fragile. Personal networks are not.](https://dev.to/mrmatt/local-networks-are-fragile-personal-networks-are-not-4c70)
+- [Cyclic Sort Made Simple: Learn the Basics and How It Works](https://dev.to/saptarshisarkar/cyclic-sort-made-simple-learn-the-basics-and-how-it-works-2ikp)
 - [Designing APIs That Are Hard to Misuse](https://dev.to/speaklouder/designing-apis-that-are-hard-to-misuse-5d6b)
-- [Vim Mode: Edit Prompts at the Speed of Thought](https://dev.to/rajeshroyal/vim-mode-edit-prompts-at-the-speed-of-thought-3l6c)
-- [Which Document class is best to use in Java to read MongoDB documents?](https://dev.to/franckpachot/which-document-class-is-best-to-use-in-java-to-read-mongodb-documents-46n7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
