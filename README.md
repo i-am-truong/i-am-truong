@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Amazon EKS From The Ground Up - Part 2: Worker Nodes with AWS Managed Nodes](https://dev.to/posibble/amazon-eks-from-the-ground-up-part-2-worker-nodes-in-aws-managed-nodes-way-en-1lhh)
-- [Making Retype Docs AI-Ready with llms.txt Automation](https://dev.to/zakariachahboun/making-retype-docs-ai-ready-with-llmstxt-automation-50ji)
-- [AI Practitioner Exam Guide](https://dev.to/aws-builders/ai-practitioner-exam-guide-5dfj)
-- [AI-Powered Programming: Creating My Own Magical Flashcards Study App](https://dev.to/datalaria/ai-powered-programming-creating-my-own-magical-flashcards-study-app-3408)
-- [TIL about Starcloud, a company that builds data centers....in space..](https://dev.to/highcenburg/til-about-starcloud-a-company-that-builds-data-centersin-space-i6f)
+- [Job Board Scraping: API Endpoints &amp; Cheat Sheet](https://dev.to/zayanmohamed/job-board-scraping-api-endpoints-cheat-sheet-1da7)
+- [I Built a Self-Evolving AI Coding System](https://dev.to/kyoungsookim/i-built-a-self-evolving-ai-coding-system-2ikd)
+- [What went right for you this week???](https://dev.to/yusuf_yonturk/weekly-check-in-whats-one-small-win-you-had-this-week-28ek)
+- [Solved: What’s a service you happily pay for every month because it keeps your business running smoothly?](https://dev.to/techresolve/solved-whats-a-service-you-happily-pay-for-every-month-because-it-keeps-your-business-running-1p51)
+- [Solved: Trigger API Calls from Airtable with a Custom JavaScript Button](https://dev.to/techresolve/solved-trigger-api-calls-from-airtable-with-a-custom-javascript-button-338b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
