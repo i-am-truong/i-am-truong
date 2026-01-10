@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Built an Orchestrator-Worker System for Claude Code](https://dev.to/mohamed9974/how-i-built-an-orchestrator-worker-system-for-claude-code-2i37)
+- [VitaGuard: My First Real-Time Linux System Health Monitor in Bash](https://dev.to/navickas/vitaguard-my-first-real-time-linux-system-health-monitor-in-bash-plm)
 - [The Death of Architectural Design in Agile](https://dev.to/ghostinit0x/the-death-of-architectural-design-in-agile-150f)
 - [AWS Cheat Sheet](https://dev.to/varalakshmi/aws-cheat-sheet-l81)
 - [EP 8: The Legend of &quot;ShopStream&quot;: A Tale of Two Architectures](https://dev.to/hrishikesh_dalal_ced8f95e/ep-8-the-legend-of-shopstream-a-tale-of-two-architectures-phn)
-- [Building promobot: # From Code to Content: Buildi...](https://dev.to/shashank0701byte/building-promobot-from-code-to-content-buildi-49f0)
-- [Which AI Model Is Best for Coding and Why](https://dev.to/farhadrahimiklie/which-ai-model-is-best-for-coding-and-why-3oh3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
