@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Build Your Own iMessage AI Bot in Minutes with blooio](https://dev.to/blooio/build-your-own-imessage-ai-bot-in-minutes-with-msgnew-26b3)
-- [HarisLab Connect: Manage Website Forms, Feedback, Newsletters &amp; Subscribers Effortlessly 🚀](https://dev.to/haris18/harislab-connect-manage-website-forms-feedback-newsletters-subscribers-effortlessly-4ic9)
-- [How to Build an AI Customer Support System with AWS Bedrock Guardrails &lpar;Complete Tutorial + Free Code&rpar;](https://dev.to/awslearnerdaily/how-to-build-an-ai-customer-support-system-with-aws-bedrock-guardrails-complete-tutorial-free-2p5m)
-- [Quark&#39;s Outlines: Python Arithmetic Conversions](https://dev.to/mike-vincent/quarks-outlines-python-arithmetic-conversions-1ce)
-- [ReactJS Design Pattern ~Compound Component Pattern~](https://dev.to/kkr0423/reactjs-design-pattern-compound-component-pattern-5220)
+- [How to Build a Global Internationalization &lpar;I18n&rpar; App with Next.js and AI](https://dev.to/eunit/how-to-build-a-global-internationalization-i18n-app-with-nextjs-and-ai-1ejl)
+- [Building FatAdvisor: A .NET Nutrition AI Agent. Part 2: Agent goes outside](https://dev.to/doctornick42/building-fatadvisor-a-net-nutrition-ai-agent-part-2-agent-goes-outside-35da)
+- [AI: A Child in the Digital Age – Shaping Its Future with Data and Ethics.](https://dev.to/kaushik_patil_b20f74fe212/ai-a-child-in-the-digital-age-shaping-its-future-with-data-and-ethics-2l8m)
+- [13 Languages Are Challenging C. Most Fail. Only Five Stack Up.](https://dev.to/dimension-zero/13-languages-are-challenging-c-most-fail-only-five-stack-up-2no5)
+- [Mother CLAUDE: How We Built a Documentation System That Makes LLMs Productive Immediately](https://dev.to/dorothyjb/how-we-built-a-documentation-system-that-makes-llms-productive-immediately-59hc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
