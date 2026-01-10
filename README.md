@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Death of Architectural Design in Agile](https://dev.to/ghostinit0x/the-death-of-architectural-design-in-agile-150f)
+- [AWS Cheat Sheet](https://dev.to/varalakshmi/aws-cheat-sheet-l81)
+- [EP 8: The Legend of &quot;ShopStream&quot;: A Tale of Two Architectures](https://dev.to/hrishikesh_dalal_ced8f95e/ep-8-the-legend-of-shopstream-a-tale-of-two-architectures-phn)
+- [Building promobot: # From Code to Content: Buildi...](https://dev.to/shashank0701byte/building-promobot-from-code-to-content-buildi-49f0)
 - [Which AI Model Is Best for Coding and Why](https://dev.to/farhadrahimiklie/which-ai-model-is-best-for-coding-and-why-3oh3)
-- [Перестал участвовать в стартапах на «миллионы долларов»](https://dev.to/aleron/pieriestal-uchastvovat-v-startapakh-na--4hi1)
-- [A Small LLM Trick: Giving AI Assistants Long-Term Memory](https://dev.to/mortenolsen/a-small-llm-trick-giving-ai-assistants-long-term-memory-l8j)
-- [I Built a Gesture Controlled Fluid Simulation &lpar;And Accidentally Fought GitHub&rpar;](https://dev.to/trojanmocx/i-built-a-gesture-controlled-fluid-simulation-and-accidentally-fought-github-3098)
-- [SwiftUI Feature Flags &amp; Remote Config Architecture &lpar;Production-Grade&rpar;](https://dev.to/sebastienlato/swiftui-feature-flags-remote-config-architecture-production-grade-56d8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
