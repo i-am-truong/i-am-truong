@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI should not be in Code Editors](https://dev.to/badrchanaa/ai-should-not-be-in-code-editors-1p02)
-- [Breaking the Runtime Wall: Universal Frameworks in BEnder 🌍](https://dev.to/adamgolan/breaking-the-runtime-wall-universal-frameworks-in-bender-3cpn)
-- [Separate Stack for separate Thread.](https://dev.to/saifulire/separate-stack-for-separate-thread-31jo)
-- [Job Board Scraping: API Endpoints &amp; Cheat Sheet](https://dev.to/zayanmohamed/job-board-scraping-api-endpoints-cheat-sheet-1da7)
-- [I Built a Self-Evolving AI Coding System](https://dev.to/kyoungsookim/i-built-a-self-evolving-ai-coding-system-2ikd)
+- [The Complete Windows to Linux Migration Guide](https://dev.to/md8_habibullah/the-complete-windows-to-linux-migration-guide-2f9m)
+- [Road To Compliance: Will Your Internal Users Hate Your Platform Team?](https://dev.to/dvddpl/road-to-compliance-will-your-internal-users-hate-your-platform-team-1jk5)
+- [I Got Tired of Jira. So I Built an Agentic Project Management Tool — and Open-Sourced It](https://dev.to/josemukorivo/i-got-tired-of-jira-so-i-built-an-agentic-project-management-tool-and-open-sourced-it-3ghp)
+- [AsyncTasQ: The Type-Safe, Async-First Task Queue That&#39;s 2-3x Faster Than Celery](https://dev.to/adamrefaey/asynctasq-the-type-safe-async-first-task-queue-thats-2-3x-faster-than-celery-585i)
+- [J&#39;ai galéré pendant 3 semaines pour monter un cluster Kubernetes &lpar;et voilà ce que j&#39;ai appris&rpar;](https://dev.to/loiconlyone/jai-galere-pendant-3-semaines-pour-monter-un-cluster-kubernetes-et-voila-ce-que-jai-appris-30l6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
