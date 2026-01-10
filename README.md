@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Unraveling the Node.js Event Loop: The Asynchronous Heartbeat That Powers Your Code](https://dev.to/patdev/unraveling-the-nodejs-event-loop-the-asynchronous-heartbeat-that-powers-your-code-42jk)
-- [A beginner&#39;s guide to the Animagine-Xl-V4-Opt model by Aisha-Ai-Official on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-animagine-xl-v4-opt-model-by-aisha-ai-official-on-replicate-1077)
-- [I thought Vercel&#39;s backend was just like another backend...](https://dev.to/softwarejutsu/i-thought-vercels-backend-was-just-like-another-backend-328f)
-- [VMware&#39;s Market Dominance Has Created a Catastrophic Single Point of Failure](https://dev.to/zeroblind25/vmwares-market-dominance-has-created-a-catastrophic-single-point-of-failure-86o)
-- [stangri&#39;s OpenWrt packages updates](https://dev.to/stangri/stangris-openwrt-packages-updates-4icf)
+- [vLLM Quickstart: High-Performance LLM Serving](https://dev.to/rosgluk/vllm-quickstart-high-performance-llm-serving-9l)
+- [The Mute Agent: Why Your AI Needs to Shut Up and Listen to the Graph](https://dev.to/mosiddi/the-mute-agent-why-your-ai-needs-to-shut-up-and-listen-to-the-graph-1j60)
+- [Build Your Own Voice Stack with Deepgram and PlayHT: A Practical Guide](https://dev.to/callstacktech/build-your-own-voice-stack-with-deepgram-and-playht-a-practical-guide-2kl9)
+- [CI Load Test for http-echo using Kind and k6](https://dev.to/vumdao/ci-load-test-for-http-echo-using-kind-and-k6-4nab)
+- [Linux File System Architecture: A Deep Dive into VFS, Inodes, and Storage](https://dev.to/kanywst/linux-file-system-architecture-a-deep-dive-into-vfs-inodes-and-storage-1n9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
