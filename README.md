@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [BootStrapping Aurora RDS Databases using Lambda and Terraform &lpar;Part 1&rpar;](https://dev.to/santanu_das/bootstrapping-aurora-rds-databases-using-lambda-and-terraform-part-1-493h)
 - [How I Built PrintableColoringKids.com Using AI, Programmatic SEO, and Automation](https://dev.to/omerbsh/how-i-built-printablecoloringkidscom-using-ai-programmatic-seo-and-automation-3mnn)
 - [Drawing a Houndstooth Pattern in CSS](https://dev.to/alvaromontoro/drawing-a-houndstooth-pattern-in-css-3ll2)
 - [AI Trading: Lesson Learned #129: Backtest Evaluation Bugs Discovered via Deep Research](https://dev.to/igorganapolsky/ai-trading-lesson-learned-129-backtest-evaluation-bugs-discovered-via-deep-research-lgg)
 - [5 Tools That Make Daily Standups Actually Async](https://dev.to/mattlewandowski93/5-tools-that-make-daily-standups-actually-async-48bg)
-- [AI Trading: Lesson Learned #129: CEO Trust Audit - Comprehensive Answers &lpar;Jan 10, 2026&rpar;](https://dev.to/igorganapolsky/ai-trading-lesson-learned-129-ceo-trust-audit-comprehensive-answers-jan-10-2026-2c6c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
