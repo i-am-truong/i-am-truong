@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Ways a Standup Bot with Task Tracker Integration Crushes Traditional Standups](https://dev.to/standupify/5-ways-a-standup-bot-with-task-tracker-integration-crushes-traditional-standups-2dpk)
 - [The Quiet Shift: From Chrome&#39;s Noise to Thorium&#39;s Silence](https://dev.to/linfinitydev/the-quiet-shift-from-chromes-noise-to-thoriums-silence-31cl)
 - [🔐 TLS Termination Models - SSL Passthrough vs SSL Termination &lpar;Offloading&rpar; vs SSL Bridging &lpar;Re-Encryption&rpar;](https://dev.to/sharonkynu/tls-termination-models-ssl-passthrough-vs-ssl-termination-offloading-vs-ssl-bridging-39ck)
 - [How I Went From &#39;I&#39;m Not a Hardware Person&#39; to Reverse Engineering Devices](https://dev.to/numbpill3d/how-i-went-from-im-not-a-hardware-person-to-reverse-engineering-devices-894)
 - [Linux Kernel Architecture: From Ring 0 to Network Stack &amp; eBPF](https://dev.to/kanywst/linux-kernel-architecture-from-ring-0-to-network-stack-ebpf-6o0)
-- [How Does @Async Work Internally in Spring Boot?](https://dev.to/realnamehidden1_61/how-does-async-work-internally-in-spring-boot-35h5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
