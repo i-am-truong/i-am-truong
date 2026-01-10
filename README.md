@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Minions: Building Self-Learning AI Agent Swarms That Actually Ship Code](https://dev.to/spc_technologyltd_3b/minions-building-self-learning-ai-agent-swarms-that-actually-ship-code-38c0)
+- [Why I Love Using Nix for All My Projects](https://dev.to/nietzscheson/why-i-love-using-nix-for-all-my-projects-3147)
+- [PiGym – Pi digits memorization game](https://dev.to/eoic_7726ef81/pigym-pi-digits-memorization-game-1ep2)
+- [**Myth: AI Efficiency is Directly Proportional to Computing](https://dev.to/drcarlosruizviquez/myth-ai-efficiency-is-directly-proportional-to-computing-369d)
 - [Complete Guide to Setting Up Claude Code Router with Qwen on macOS](https://dev.to/hamza_khan_d2f1854314be1f/complete-guide-to-setting-up-claude-code-router-with-qwen-on-macos-a89)
-- [Kanban vs Scrum: Why Flow Beats Theater for Real Delivery](https://dev.to/ghostinit0x/kanban-vs-scrum-why-flow-beats-theater-for-real-delivery-56oa)
-- [Built My Portfolio with Google&#39;s AI Code Agent &amp; Cloud Run - What Took Me Days Now Takes an Hour ⚡](https://dev.to/hongming_wang_bdb8eb8d379/built-my-portfolio-with-googles-ai-code-agent-cloud-run-what-took-me-days-now-takes-an-hour-5d89)
-- [Setting Up Obsidian on Ubuntu and Syncing with Git &amp; Android &lpar;Step-by-Step&rpar;](https://dev.to/dassa_das/setting-up-obsidian-on-ubuntu-and-syncing-with-git-android-step-by-step-3ca7)
-- [Connecting LLMs to my debugging flow to fix a memory crash](https://dev.to/dejavo/connecting-llms-to-my-debugging-flow-to-fix-a-memory-crash-3nac)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
