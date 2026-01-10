@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why I dumped LAMP for Next.js + Groq to build an AI SaaS in 48 hours](https://dev.to/nizarhelius/why-i-dumped-lamp-for-nextjs-groq-to-build-an-ai-saas-in-48-hours-3p4h)
+- [Stop Rewriting Auth Logic: My Production-Ready Node.js + MySQL Boilerplate 🚀](https://dev.to/dark_353/stop-rewriting-auth-logic-my-production-ready-nodejs-mysql-boilerplate-42nl)
 - [How I added experimental MCP Apps support to Apollo MCP Server with Goose](https://dev.to/amandamartindev/how-i-added-experimental-mcp-apps-support-to-apollo-mcp-server-with-goose-2hjl)
 - [Accelerate Fluid Simulator](https://dev.to/aditya_singh_d0a79b30a56b/accelerate-fluid-simulator-b63)
 - [The testing meta most teams have not caught up to yet](https://dev.to/muratkeremozcan/the-testing-meta-most-teams-have-not-caught-up-to-yet-o5i)
-- [Minions: Building Self-Learning AI Agent Swarms That Actually Ship Code](https://dev.to/spc_technologyltd_3b/minions-building-self-learning-ai-agent-swarms-that-actually-ship-code-38c0)
-- [Why I Love Using Nix for All My Projects](https://dev.to/nietzscheson/why-i-love-using-nix-for-all-my-projects-3147)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
