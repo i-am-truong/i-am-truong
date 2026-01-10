@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SQL Server Indexes Explained: Column Order, INCLUDE, and the Mistakes That Taught Me](https://dev.to/mashrulhaque/sql-server-indexes-explained-column-order-include-and-the-mistakes-that-taught-me-3h9b)
+- [🔥 This AWS Lambda Update Changes Everything &lpar;Durable Functions&rpar;](https://dev.to/alizgheib/this-aws-lambda-update-changes-everything-durable-functions-30d2)
 - [Week 4 Network Packet Tracing](https://dev.to/fosres/the-one-networking-concept-that-fails-90-of-security-engineer-candidates-5960)
 - [Your SaaS Doesn’t Have a Traffic Problem — It Has a Clarity Problem](https://dev.to/muhammadfaizan/your-saas-doesnt-have-a-traffic-problem-it-has-a-clarity-problem-5bmo)
-- [Adeus, Swagger UI ? Uma alternativa elegante com Redoc](https://dev.to/daniloopinheiro/adeus-swagger-ui-uma-alternativa-elegante-com-redoc-3024)
-- [Building a Personal Finance Tool for Everyone - Need Your Input](https://dev.to/frankfinance/building-a-personal-finance-tool-for-everyone-need-your-input-lbh)
-- [The M3 MacBook Pro Is a Rip-Off for Most People &lpar;Here&#39;s What to Buy Instead&rpar;](https://dev.to/ii-x/the-m3-macbook-pro-is-a-rip-off-for-most-people-heres-what-to-buy-instead-2kkp)
+- [Why uv Refused to Upgrade My Package &lpar;And Why It Was Actually Right&rpar;](https://dev.to/gautamvhavle/why-uv-refused-to-upgrade-my-package-and-why-it-was-actually-right-2ci4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
