@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Built PrintableColoringKids.com Using AI, Programmatic SEO, and Automation](https://dev.to/omerbsh/how-i-built-printablecoloringkidscom-using-ai-programmatic-seo-and-automation-3mnn)
 - [Drawing a Houndstooth Pattern in CSS](https://dev.to/alvaromontoro/drawing-a-houndstooth-pattern-in-css-3ll2)
+- [AI Trading: Lesson Learned #129: Backtest Evaluation Bugs Discovered via Deep Research](https://dev.to/igorganapolsky/ai-trading-lesson-learned-129-backtest-evaluation-bugs-discovered-via-deep-research-lgg)
 - [5 Tools That Make Daily Standups Actually Async](https://dev.to/mattlewandowski93/5-tools-that-make-daily-standups-actually-async-48bg)
-- [🌐_Network_IO_Performance_Optimization[20260110231148]](https://dev.to/member_6331818c/networkioperformanceoptimization20260110231148-204e)
-- [2026-01-10 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2026-01-10-daily-ai-news-2lcn)
-- [How I got internet famous, you can too.](https://dev.to/ariyoaresa/how-i-got-internet-famous-you-can-too-48ll)
+- [AI Trading: Lesson Learned #129: CEO Trust Audit - Comprehensive Answers &lpar;Jan 10, 2026&rpar;](https://dev.to/igorganapolsky/ai-trading-lesson-learned-129-ceo-trust-audit-comprehensive-answers-jan-10-2026-2c6c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
