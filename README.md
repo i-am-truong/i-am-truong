@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Containers aren’t a sandbox for AI agents](https://dev.to/siddhantkcode/containers-arent-a-sandbox-for-ai-agents-215o)
-- [AWS IAM Security: A Practical Guide That Actually Works in Production](https://dev.to/muhammad_yawar_malik/aws-iam-security-a-practical-guide-that-actually-works-in-production-5gmn)
-- [10 Proven Ways to Cut Your AWS Bill](https://dev.to/rogo032/10-proven-ways-to-cut-your-aws-bill-5157)
-- [What Are Recursive Language Models?](https://dev.to/alexmercedcoder/what-are-recursive-language-models-3kno)
-- [SQL Server Indexes Explained: Column Order, INCLUDE, and the Mistakes That Taught Me](https://dev.to/mashrulhaque/sql-server-indexes-explained-column-order-include-and-the-mistakes-that-taught-me-3h9b)
+- [Introducing Neon Protocol: The Cyberpunk Theme Your VS Code Needs](https://dev.to/fytroy/introducing-neon-protocol-the-cyberpunk-theme-your-vs-code-needs-4h8p)
+- [Local networks are fragile. Personal networks are not.](https://dev.to/mrmatt/local-networks-are-fragile-personal-networks-are-not-4c70)
+- [Designing APIs That Are Hard to Misuse](https://dev.to/speaklouder/designing-apis-that-are-hard-to-misuse-5d6b)
+- [Vim Mode: Edit Prompts at the Speed of Thought](https://dev.to/rajeshroyal/vim-mode-edit-prompts-at-the-speed-of-thought-3l6c)
+- [Which Document class is best to use in Java to read MongoDB documents?](https://dev.to/franckpachot/which-document-class-is-best-to-use-in-java-to-read-mongodb-documents-46n7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
