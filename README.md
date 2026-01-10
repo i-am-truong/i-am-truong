@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Does Tasks. Humans Do Deals.](https://dev.to/synthaicode_commander/ai-does-tasks-humans-do-deals-5hao)
-- [The Burnout Industrial Complex: How Companies Profit From Your Exhaustion](https://dev.to/ghostinit0x/the-burnout-industrial-complex-how-companies-profit-from-your-exhaustion-15kh)
-- [Buildsaas.dev](https://dev.to/shreyvijayvargiya/buildsaasdev-cc4)
-- [System Design in Real Life: Why Ancient Museums are actually Microservices?](https://dev.to/tyrell_wellicq_767cb57340/system-design-in-real-life-why-ancient-museums-are-actually-microservices-3a43)
-- [Open-Source Developer Portfolio](https://dev.to/blshaer/open-source-developer-portfolio-3952)
+- [Stop Re-running Everything: A Local Incremental Pipeline in DuckDB](https://dev.to/markolekic/stop-re-running-everything-a-local-incremental-pipeline-in-duckdb-543p)
+- [Solana Devnet: Everything You Need to Know](https://dev.to/jumpbit/solana-devnet-everything-you-need-to-know-188f)
+- [Stop Feeding Big Tech AI: Why We Built a Private Cloud Storage Alternative](https://dev.to/c4fkrx/stop-feeding-big-tech-ai-why-we-built-a-private-cloud-storage-alternative-3lo2)
+- [2025 Wrapup: Articles, Talks, Papers, and Software I Loved](https://dev.to/pmbanugo/2025-wrapup-articles-talks-papers-and-software-i-loved-473d)
+- [7 Software Engineering Interview Topics You Should Prepare in 2026](https://dev.to/somadevtoo/7-software-engineering-interview-topics-you-should-prepare-in-2026-4ik4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
