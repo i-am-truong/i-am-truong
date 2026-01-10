@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Build a Robust Offline-First Flutter App with BLoC, Dio, and Sqflite](https://dev.to/ghamdandev/build-a-robust-offline-first-flutter-app-with-bloc-dio-and-sqflite-51f5)
-- [Understanding the A2UI Protocol: Building with Java and Spring Boot](https://dev.to/vishalmysore/understanding-the-a2ui-protocol-building-with-java-and-spring-boot-3jee)
-- [The Deployment From Hades](https://dev.to/trickell/the-deployment-from-hades-3064)
-- [Prediction Markets in the Wild: How They Shape Geopolitics—and What Arbitrage Reveals](https://dev.to/mikhailliublin/prediction-markets-in-the-wild-how-they-shape-geopolitics-and-what-arbitrage-reveals-3d1h)
-- [Why I Built Staks: Open-Source Email Infrastructure for Developers](https://dev.to/staksdev/why-i-built-staks-open-source-email-infrastructure-for-developers-3inc)
+- [2026-01-10 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2026-01-10-daily-ai-news-2lcn)
+- [Python Obfuscation: From Readable to Untraceable](https://dev.to/lyric0x10/python-obfuscation-from-readable-to-untraceable-4fip)
+- [How I got internet famous, you can too.](https://dev.to/ariyoaresa/how-i-got-internet-famous-you-can-too-48ll)
+- [Adding a Missing Warning Note](https://dev.to/favoured_anuanatata_d1cd1/adding-a-missing-warning-note-6ck)
+- [Coding Challenge Practice - Question 99](https://dev.to/tomivan/coding-challenge-practice-question-99-2il6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
