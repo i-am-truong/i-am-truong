@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Complete ESP32 Security Guide for IoT Devices](https://dev.to/sudoyasir/complete-esp32-security-guide-for-iot-devices-4c1g)
+- [This will be your last resume template](https://dev.to/beingwizard/this-will-be-your-last-resume-template-3ola)
 - [Stop Re-running Everything: A Local Incremental Pipeline in DuckDB](https://dev.to/markolekic/stop-re-running-everything-a-local-incremental-pipeline-in-duckdb-543p)
 - [Solana Devnet: Everything You Need to Know](https://dev.to/jumpbit/solana-devnet-everything-you-need-to-know-188f)
-- [Stop Feeding Big Tech AI: Why We Built a Private Cloud Storage Alternative](https://dev.to/c4fkrx/stop-feeding-big-tech-ai-why-we-built-a-private-cloud-storage-alternative-3lo2)
-- [2025 Wrapup: Articles, Talks, Papers, and Software I Loved](https://dev.to/pmbanugo/2025-wrapup-articles-talks-papers-and-software-i-loved-473d)
-- [7 Software Engineering Interview Topics You Should Prepare in 2026](https://dev.to/somadevtoo/7-software-engineering-interview-topics-you-should-prepare-in-2026-4ik4)
+- [We’re Launching Vizora &lpar;Private Beta&rpar; — Paste Your DB Schema, Understand It Instantly](https://dev.to/rushikesh_bodakhe_db28644/were-launching-vizora-private-beta-paste-your-db-schema-understand-it-instantly-2418)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
