@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Will AI Make Jobs Better or Obsolete? A Global and African Perspective](https://dev.to/abmalikmusa/will-ai-make-jobs-better-or-obsolete-a-global-and-african-perspective-2nmo)
-- [How to: NuGet local feeds](https://dev.to/karenpayneoregon/how-to-nuget-local-feeds-2nci)
-- [Why I dumped LAMP for Next.js + Groq to build an AI SaaS in 48 hours](https://dev.to/nizarhelius/why-i-dumped-lamp-for-nextjs-groq-to-build-an-ai-saas-in-48-hours-3p4h)
-- [Stop Rewriting Auth Logic: My Production-Ready Node.js + MySQL Boilerplate 🚀](https://dev.to/dark_353/stop-rewriting-auth-logic-my-production-ready-nodejs-mysql-boilerplate-42nl)
-- [How I added experimental MCP Apps support to Apollo MCP Server with Goose](https://dev.to/amandamartindev/how-i-added-experimental-mcp-apps-support-to-apollo-mcp-server-with-goose-2hjl)
+- [Why I Built Staks: Open-Source Email Infrastructure for Developers](https://dev.to/staksdev/why-i-built-staks-open-source-email-infrastructure-for-developers-3inc)
+- [Docker: Internal Architecture](https://dev.to/kanywst/docker-internal-architecture-bfo)
+- [Listing IAM Roles for Your Current AWS Account](https://dev.to/tttol/listing-iam-roles-for-your-current-aws-account-24ie)
+- [Before Big Data: 3 Key Discoveries That Changed Business Strategy Forever](https://dev.to/thanh_truong_a99577c6b879/before-big-data-3-key-discoveries-that-changed-business-strategy-forever-3mhc)
+- [Building Own MAC: Part 1 - Encrypted, but Not Trusted](https://dev.to/dmytro_huz/building-own-mac-part-1-encrypted-but-not-trusted-2bck)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
