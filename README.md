@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Unauthenticated Blind SSRF in Oracle EBS](https://dev.to/x41x41x41/unauthenticated-blind-ssrf-in-oracle-ebs-p1i)
+- [Python Dictionary Views Are Live &lpar;And It Might Break Your Code&rpar;](https://dev.to/samuel_ochaba_eb9c875fa89/python-dictionary-views-are-live-and-it-might-break-your-code-56in)
+- [Dark Mode with Tailwind v4 &amp; next-themes](https://dev.to/abujakariacse/dark-mode-with-tailwind-v4-next-themes-1mag)
 - [Incremark Now Supports Solid: One Library for Vue, React, Svelte, and Solid](https://dev.to/kingshuaishuai/incremark-now-supports-solid-one-library-for-vue-react-svelte-and-solid-n39)
 - [Bridging LLMs and Design Systems via MCP: Implementing a Community Figma MCP Server for Generative Design](https://dev.to/om_shree_0709/bridging-llms-and-design-systems-via-mcp-implementing-a-community-figma-mcp-server-for-generative-2ig2)
-- [Introducing Neon Protocol: The Cyberpunk Theme Your VS Code Needs](https://dev.to/fytroy/introducing-neon-protocol-the-cyberpunk-theme-your-vs-code-needs-4h8p)
-- [Local networks are fragile. Personal networks are not.](https://dev.to/mrmatt/local-networks-are-fragile-personal-networks-are-not-4c70)
-- [Cyclic Sort Made Simple: Learn the Basics and How It Works](https://dev.to/saptarshisarkar/cyclic-sort-made-simple-learn-the-basics-and-how-it-works-2ikp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
