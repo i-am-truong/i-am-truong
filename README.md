@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop Building Flaky AI Agents: Introducing Transactional AI](https://dev.to/grafikui/stop-building-flaky-ai-agents-introducing-transactional-ai-2mij)
-- [Making VS Code &quot;Read My Mind&quot;: Building Smart Context Awareness](https://dev.to/freerave/making-vs-code-read-my-mind-building-smart-context-awareness-2pdi)
-- [AI 코딩이 자꾸 내 아키텍처를 망가뜨린다면? &lpar;feat. CodeSyncer&rpar;](https://dev.to/kiwibreaksme/ai-kodingi-jaggu-nae-akitegceoreul-manggaddeurindamyeon-feat-codesyncer-5b3d)
-- [Stop Overengineering: How to Write Clean Code That Actually Ships 🚀](https://dev.to/thebitforge/stop-overengineering-how-to-write-clean-code-that-actually-ships-18ni)
-- [How I Fixed the dyld: Symbol not found Error After Updating PHP 8.4 in Laravel Herd &lpar;macOS Monterey&rpar;](https://dev.to/timadey/how-i-fixed-the-dyld-symbol-not-found-error-after-updating-php-84-in-laravel-herd-macos-monterey-3jgd)
+- [Best Solana Developer Tools &lpar;Web-Based&rpar; for 2026](https://dev.to/jumpbit/best-solana-developer-tools-web-based-for-2026-1dbo)
+- [Rust 2.0: A Thought Experiment on Safe Specialization](https://dev.to/simmypeet/rust-20-a-thought-experiment-on-safe-specialization-1fbl)
+- [Why using Elasticsearch was bad because I needed real-time data retrieval, not just fast searching](https://dev.to/saifullahusmani/why-using-elasticsearch-was-bad-because-i-needed-real-time-data-retrieval-not-just-fast-searching-1cn8)
+- [Compute options for Developers](https://dev.to/dipalikulshrestha/compute-options-for-developers-2db2)
+- [AWS Development Environment](https://dev.to/dipalikulshrestha/aws-development-environment-32j9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
