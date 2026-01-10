@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I added experimental MCP Apps support to Apollo MCP Server with Goose](https://dev.to/amandamartindev/how-i-added-experimental-mcp-apps-support-to-apollo-mcp-server-with-goose-2hjl)
+- [Accelerate Fluid Simulator](https://dev.to/aditya_singh_d0a79b30a56b/accelerate-fluid-simulator-b63)
+- [The testing meta most teams have not caught up to yet](https://dev.to/muratkeremozcan/the-testing-meta-most-teams-have-not-caught-up-to-yet-o5i)
 - [Minions: Building Self-Learning AI Agent Swarms That Actually Ship Code](https://dev.to/spc_technologyltd_3b/minions-building-self-learning-ai-agent-swarms-that-actually-ship-code-38c0)
 - [Why I Love Using Nix for All My Projects](https://dev.to/nietzscheson/why-i-love-using-nix-for-all-my-projects-3147)
-- [PiGym – Pi digits memorization game](https://dev.to/eoic_7726ef81/pigym-pi-digits-memorization-game-1ep2)
-- [**Myth: AI Efficiency is Directly Proportional to Computing](https://dev.to/drcarlosruizviquez/myth-ai-efficiency-is-directly-proportional-to-computing-369d)
-- [Complete Guide to Setting Up Claude Code Router with Qwen on macOS](https://dev.to/hamza_khan_d2f1854314be1f/complete-guide-to-setting-up-claude-code-router-with-qwen-on-macos-a89)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
