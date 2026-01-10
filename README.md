@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building with React: Dive into JSX, Components, and Props! &lpar;React Day 2&rpar;](https://dev.to/vasughanta09/building-with-react-dive-into-jsx-components-and-props-react-day-2-2cb2)
-- [Seton — A focus timer that turns your hours into assets](https://dev.to/keplerjst/seton-a-focus-timer-that-turns-your-hours-into-assets-3e3m)
-- [Bit Fields in C Explained: How They Work and Why They Matter](https://dev.to/amanprasad/bit-fields-in-c-explained-how-they-work-and-why-they-matter-34i9)
-- [Setting Up Jenkins SSH Build Agents: A Complete Troubleshooting Guide](https://dev.to/faruq2991/setting-up-jenkins-ssh-build-agents-a-complete-troubleshooting-guide-3pl)
-- [Why my AI SaaS got users — but not activation](https://dev.to/shemith_mohanan_6361bb8a2/why-my-ai-saas-got-users-but-not-activation-1823)
+- [UI UX Design Course Training in Telugu: A Complete Guide for Future Designers](https://dev.to/teja_das_051d874d1b872413/ui-ux-design-course-training-in-telugu-a-complete-guide-for-future-designers-2hp0)
+- [🧶 Beginner-Friendly Guide &#39;Minimum ASCII Delete Sum for Two Strings&#39; – LeetCode 712 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-minimum-ascii-delete-sum-for-two-strings-leetcode-712-c-python-4eeh)
+- [🚨 AWS 130: Routing the Private Way - Implementing a NAT Instance](https://dev.to/hritikraj8804/aws-130-routing-the-private-way-implementing-a-nat-instance-1c9j)
+- [Page Tables: A Love Story &lpar;It&#39;s Not&rpar;](https://dev.to/florent_herisson_691b0bac/page-tables-a-love-story-its-not-4286)
+- [The Secret Life of Go: Testing](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-testing-597a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
