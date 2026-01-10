@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Type alias in Python &lpar;3&rpar;](https://dev.to/hyperkai/type-alias-in-python-3-4o1n)
+- [HTML-101 #3. Comments &amp; Naming Convention](https://dev.to/himanshu_bhatt/html-101-3-comments-naming-convention-585i)
 - [I&#39;d like to celebrate building my new portfolio, I have never made anything like this before.](https://dev.to/arnostorg/id-like-to-celebrate-building-my-new-portfolio-i-have-never-made-anything-like-this-before-bfn)
-- [Type alias in Python &lpar;2&rpar;](https://dev.to/hyperkai/type-alias-in-python-2-4hc1)
 - [Why Port 8000 Suddenly Stopped Working on My Local Machine &lpar;and How I Fixed It&rpar;](https://dev.to/tahsin000/why-port-8000-suddenly-stopped-working-on-my-local-machine-and-how-i-fixed-it-4a12)
 - [The Complete Windows to Linux Migration Guide](https://dev.to/md8_habibullah/the-complete-windows-to-linux-migration-guide-2f9m)
-- [Day 37: Managing EC2 Access with S3 Role-based Permissions](https://dev.to/thukhakyawe_cloud/day-37-managing-ec2-access-with-s3-role-based-permissions-174e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
