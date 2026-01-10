@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI should not be in Code Editors](https://dev.to/badrchanaa/ai-should-not-be-in-code-editors-1p02)
+- [Breaking the Runtime Wall: Universal Frameworks in BEnder 🌍](https://dev.to/adamgolan/breaking-the-runtime-wall-universal-frameworks-in-bender-3cpn)
+- [Separate Stack for separate Thread.](https://dev.to/saifulire/separate-stack-for-separate-thread-31jo)
 - [Job Board Scraping: API Endpoints &amp; Cheat Sheet](https://dev.to/zayanmohamed/job-board-scraping-api-endpoints-cheat-sheet-1da7)
 - [I Built a Self-Evolving AI Coding System](https://dev.to/kyoungsookim/i-built-a-self-evolving-ai-coding-system-2ikd)
-- [What went right for you this week???](https://dev.to/yusuf_yonturk/weekly-check-in-whats-one-small-win-you-had-this-week-28ek)
-- [Solved: What’s a service you happily pay for every month because it keeps your business running smoothly?](https://dev.to/techresolve/solved-whats-a-service-you-happily-pay-for-every-month-because-it-keeps-your-business-running-1p51)
-- [Solved: Trigger API Calls from Airtable with a Custom JavaScript Button](https://dev.to/techresolve/solved-trigger-api-calls-from-airtable-with-a-custom-javascript-button-338b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
