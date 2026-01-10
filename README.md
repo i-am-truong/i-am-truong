@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Storage for Developers](https://dev.to/dipalikulshrestha/storage-for-developers-58h5)
-- [Web3 store](https://dev.to/yaalfred/web3-store-4c15)
-- [How to Create an Impressive GitHub Profile README in 2026](https://dev.to/colin_lee_0efbc2899420fa5/how-to-create-an-impressive-github-profile-readme-in-2026-1ifn)
-- [Launching EC2 instances within a VPC &lpar;along with Wizard&rpar;](https://dev.to/jeyy/launching-ec2-instances-within-a-vpc-along-with-wizard-1en0)
-- [Best Solana Developer Tools &lpar;Web-Based&rpar; for 2026](https://dev.to/jumpbit/best-solana-developer-tools-web-based-for-2026-1dbo)
+- [Build Your Own iMessage AI Bot in Minutes with blooio](https://dev.to/blooio/build-your-own-imessage-ai-bot-in-minutes-with-msgnew-26b3)
+- [HarisLab Connect: Manage Website Forms, Feedback, Newsletters &amp; Subscribers Effortlessly 🚀](https://dev.to/haris18/harislab-connect-manage-website-forms-feedback-newsletters-subscribers-effortlessly-4ic9)
+- [How to Build an AI Customer Support System with AWS Bedrock Guardrails &lpar;Complete Tutorial + Free Code&rpar;](https://dev.to/awslearnerdaily/how-to-build-an-ai-customer-support-system-with-aws-bedrock-guardrails-complete-tutorial-free-2p5m)
+- [Quark&#39;s Outlines: Python Arithmetic Conversions](https://dev.to/mike-vincent/quarks-outlines-python-arithmetic-conversions-1ce)
+- [ReactJS Design Pattern ~Compound Component Pattern~](https://dev.to/kkr0423/reactjs-design-pattern-compound-component-pattern-5220)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
