@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Programando con IA: Creando mi Propia App mágica de Flashcards para Estudiar](https://dev.to/datalaria/programando-con-ia-creando-mi-propia-app-magica-de-flashcards-para-estudiar-55g2)
 - [HTML-101 #2. Structure of HTML](https://dev.to/himanshu_bhatt/html-101-2-structure-of-html-peo)
 - [Pipes - Most minimal form of inter process communication](https://dev.to/perennial_lorekeeper/pipes-most-minimal-form-of-inter-process-communication-4mom)
 - [Angular Signals vs Observables — What I Really Learned](https://dev.to/rigole/angular-signals-vs-observables-what-i-really-learned-3dgh)
 - [11 Years on a Hobby Project: SymOntoClay Dev Journal](https://dev.to/metatypeman/11-years-on-a-hobby-project-symontoclay-dev-journal-3ee)
-- [NodeSecure hidden capability: mama](https://dev.to/nodesecure/nodesecure-hidden-capability-mama-2mn2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
