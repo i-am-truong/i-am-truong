@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [vLLM Quickstart: High-Performance LLM Serving](https://dev.to/rosgluk/vllm-quickstart-high-performance-llm-serving-9l)
-- [The Mute Agent: Why Your AI Needs to Shut Up and Listen to the Graph](https://dev.to/mosiddi/the-mute-agent-why-your-ai-needs-to-shut-up-and-listen-to-the-graph-1j60)
-- [Build Your Own Voice Stack with Deepgram and PlayHT: A Practical Guide](https://dev.to/callstacktech/build-your-own-voice-stack-with-deepgram-and-playht-a-practical-guide-2kl9)
-- [CI Load Test for http-echo using Kind and k6](https://dev.to/vumdao/ci-load-test-for-http-echo-using-kind-and-k6-4nab)
-- [Linux File System Architecture: A Deep Dive into VFS, Inodes, and Storage](https://dev.to/kanywst/linux-file-system-architecture-a-deep-dive-into-vfs-inodes-and-storage-1n9)
+- [Building with React: Dive into JSX, Components, and Props! &lpar;React Day 2&rpar;](https://dev.to/vasughanta09/building-with-react-dive-into-jsx-components-and-props-react-day-2-2cb2)
+- [Seton — A focus timer that turns your hours into assets](https://dev.to/keplerjst/seton-a-focus-timer-that-turns-your-hours-into-assets-3e3m)
+- [Bit Fields in C Explained: How They Work and Why They Matter](https://dev.to/amanprasad/bit-fields-in-c-explained-how-they-work-and-why-they-matter-34i9)
+- [Setting Up Jenkins SSH Build Agents: A Complete Troubleshooting Guide](https://dev.to/faruq2991/setting-up-jenkins-ssh-build-agents-a-complete-troubleshooting-guide-3pl)
+- [Why my AI SaaS got users — but not activation](https://dev.to/shemith_mohanan_6361bb8a2/why-my-ai-saas-got-users-but-not-activation-1823)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
