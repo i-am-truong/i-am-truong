@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Set Up an AI Voice Agent for Customer Support in SaaS Applications](https://dev.to/callstacktech/how-to-set-up-an-ai-voice-agent-for-customer-support-in-saas-applications-9g3)
-- [☁️ What If I Move to the Cloud? Part 1 – What Is This Cloud, Really?](https://dev.to/aws-builders/what-if-i-move-to-the-cloud-part-1-what-is-this-cloud-really-2767)
-- [Brass TS — Building an Effect Runtime in TypeScript &lpar;Part 4&rpar;](https://dev.to/baldrvivaldelli/brass-ts-building-an-effect-runtime-in-typescript-part-4-4c3o)
-- [Production-Grade Marketplace Backend](https://dev.to/youcef_0f32126ea2c824db1b/production-grade-marketplace-backend-9o7)
-- [From School Websites to Something Real: The Day PC_Workman Got Its First Dedicated Home](https://dev.to/huckler/from-school-websites-to-something-real-the-day-pcworkman-got-its-first-dedicated-home-11ae)
+- [I Built a Gesture Controlled Fluid Simulation &lpar;And Accidentally Fought GitHub&rpar;](https://dev.to/trojanmocx/i-built-a-gesture-controlled-fluid-simulation-and-accidentally-fought-github-3098)
+- [SwiftUI Feature Flags &amp; Remote Config Architecture &lpar;Production-Grade&rpar;](https://dev.to/sebastienlato/swiftui-feature-flags-remote-config-architecture-production-grade-56d8)
+- [Why I built an open-source benchmark reference UI - and what I refused to add](https://dev.to/albert_albert_b9d1ab0fa5a/why-i-built-an-open-source-benchmark-reference-ui-and-what-i-refused-to-add-3f19)
+- [How Code-Executing AI Agents are Making 128K Context Windows Obsolete](https://dev.to/deviprasadshetty/how-code-executing-ai-agents-are-making-128k-context-windows-obsolete-5dk)
+- [Dynamic Color Palette Generator](https://dev.to/liton_ali/dynamic-color-palette-generator-39e9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
