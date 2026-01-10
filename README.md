@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Complete Guide to Setting Up Claude Code Router with Qwen on macOS](https://dev.to/hamza_khan_d2f1854314be1f/complete-guide-to-setting-up-claude-code-router-with-qwen-on-macos-a89)
+- [Kanban vs Scrum: Why Flow Beats Theater for Real Delivery](https://dev.to/ghostinit0x/kanban-vs-scrum-why-flow-beats-theater-for-real-delivery-56oa)
 - [Built My Portfolio with Google&#39;s AI Code Agent &amp; Cloud Run - What Took Me Days Now Takes an Hour ⚡](https://dev.to/hongming_wang_bdb8eb8d379/built-my-portfolio-with-googles-ai-code-agent-cloud-run-what-took-me-days-now-takes-an-hour-5d89)
 - [Setting Up Obsidian on Ubuntu and Syncing with Git &amp; Android &lpar;Step-by-Step&rpar;](https://dev.to/dassa_das/setting-up-obsidian-on-ubuntu-and-syncing-with-git-android-step-by-step-3ca7)
-- [I Built a Small HTTP Server in C to Understand How the Web Actually Works](https://dev.to/codewithevilxd/i-built-a-small-http-server-in-c-to-understand-how-the-web-actually-works-1pdg)
-- [[Boost]](https://dev.to/mbugua70/-56ef)
-- [I Analyzed 1,000+ YouTube &quot;Side Hustles&quot;—85% Are Scams. Here is the Data.](https://dev.to/nyanguno/i-analyzed-1000-youtube-side-hustles-85-are-scams-here-is-the-data-11ej)
+- [Connecting LLMs to my debugging flow to fix a memory crash](https://dev.to/dejavo/connecting-llms-to-my-debugging-flow-to-fix-a-memory-crash-3nac)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
