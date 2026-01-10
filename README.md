@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Handling PayPal API Authentication the .NET Way](https://dev.to/peterwurzinger/handling-paypal-api-authentication-the-net-way-2f6p)
+- [Brass TS — Building an Effect Runtime in TypeScript &lpar;Part 4&rpar;](https://dev.to/baldrvivaldelli/brass-ts-building-an-effect-runtime-in-typescript-part-4-4c3o)
+- [Production-Grade Marketplace Backend](https://dev.to/youcef_0f32126ea2c824db1b/production-grade-marketplace-backend-9o7)
+- [I Built a Tool Because I Was Tired of Guessing Database Schemas](https://dev.to/rushikesh_bodakhe_db28644/i-built-a-tool-because-i-was-tired-of-guessing-database-schemas-25n7)
 - [Getting Started with 2D Games Using Pyxel &lpar;Part 7&rpar;: Control the Character](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-pyxel-part-7-control-the-character-3kdj)
-- [Complete ESP32 Security Guide for IoT Devices](https://dev.to/sudoyasir/complete-esp32-security-guide-for-iot-devices-4c1g)
-- [Lower Back Pop Stretch – Benefits, How It Works, and Safety Tips](https://dev.to/fitnesshubz/lower-back-pop-stretch-benefits-how-it-works-and-safety-tips-1e5d)
-- [This will be your last resume template](https://dev.to/beingwizard/this-will-be-your-last-resume-template-3ola)
+- [Handling PayPal API Authentication the .NET Way](https://dev.to/peterwurzinger/handling-paypal-api-authentication-the-net-way-2f6p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
