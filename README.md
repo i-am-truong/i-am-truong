@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Drawing a Houndstooth Pattern in CSS](https://dev.to/alvaromontoro/drawing-a-houndstooth-pattern-in-css-3ll2)
+- [5 Tools That Make Daily Standups Actually Async](https://dev.to/mattlewandowski93/5-tools-that-make-daily-standups-actually-async-48bg)
+- [🌐_Network_IO_Performance_Optimization[20260110231148]](https://dev.to/member_6331818c/networkioperformanceoptimization20260110231148-204e)
 - [2026-01-10 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2026-01-10-daily-ai-news-2lcn)
-- [Python Obfuscation: From Readable to Untraceable](https://dev.to/lyric0x10/python-obfuscation-from-readable-to-untraceable-4fip)
 - [How I got internet famous, you can too.](https://dev.to/ariyoaresa/how-i-got-internet-famous-you-can-too-48ll)
-- [Adding a Missing Warning Note](https://dev.to/favoured_anuanatata_d1cd1/adding-a-missing-warning-note-6ck)
-- [Coding Challenge Practice - Question 99](https://dev.to/tomivan/coding-challenge-practice-question-99-2il6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
