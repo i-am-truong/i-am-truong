@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Equillar Ensures Payment Capacity for Investment Contracts](https://dev.to/icolomina/how-equillar-ensures-payment-capacity-for-investment-contracts-181i)
-- [“While Others Wait for VS Code to Load, I’m Already Coding in Ecode.”](https://dev.to/linfinitydev/while-others-wait-for-vs-code-to-load-im-already-coding-in-ecode-3f38)
-- [Building Custom Composite Components with STDF in Svelte](https://dev.to/zt49t9-dev/building-custom-composite-components-with-stdf-in-svelte-5f72)
-- [Building a Kafka Wikimedia Producer: Understanding Constructors and Threading](https://dev.to/hantedyou_0106/building-a-kafka-wikimedia-producer-understanding-constructors-and-threading-1nmo)
-- [CodiumAI PR-Agent，在 Gitea 上用 AI 來 Code Review](https://dev.to/letswrite/codiumai-pr-agentzai-gitea-shang-yong-ai-lai-code-review-m6l)
+- [The Tailwind Labs&#39; Problem](https://dev.to/pnpancholi/the-tailwind-labs-problem-1ne3)
+- [Checklist for Promoting Your App: A Step-by-Step Guide That Works](https://dev.to/isa_akharume_f9c88db247c7/checklist-for-promoting-your-app-a-step-by-step-guide-that-works-nd1)
+- [Advanced Animation Techniques with svelte-animations in Svelte](https://dev.to/zt49t9-dev/advanced-animation-techniques-with-svelte-animations-in-svelte-4mkg)
+- [I Built a Zuora Workflow Manager with Laravel 12 + Filament &lpar;Full Tech Stack Walkthrough&rpar;](https://dev.to/francostino/i-built-a-zuora-workflow-manager-with-laravel-12-filament-full-tech-stack-walkthrough-4co7)
+- [I Built a Pastebin Where Even I Can&#39;t Read Your Data](https://dev.to/ishannaik/i-built-a-pastebin-where-even-i-cant-read-your-data-3fj4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
