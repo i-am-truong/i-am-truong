@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Next.js Routing: Dynamic Routes, Route Groups, and Parallel Routes](https://dev.to/devjordan/mastering-nextjs-routing-dynamic-routes-route-groups-and-parallel-routes-1m5h)
+- [Day 4: The Sizeof Trap: Understanding Array Decay in C](https://dev.to/ujjawal0711/day-4-the-sizeof-trap-understanding-array-decay-in-c-3587)
+- [Level 1 Array &amp; String Problems in C++](https://dev.to/nithya_dharshiniofficial/level-1-array-string-problems-in-c-1a8m)
+- [Legacy-First Design &lpar;LFD&rpar;: Designing Software That Still Makes Sense Over Time](https://dev.to/matheus_pereira_532646ca6/legacy-first-design-lfd-designing-software-that-still-makes-sense-over-time-4ak6)
 - [Built a Free Online PDF Tool - Here&#39;s Why I Didn&#39;t Use Python](https://dev.to/rajender_kumar_eb48ec3e13/built-a-free-pdf-tool-with-javaspdf-javascript-webdev-opensourcecript-heres-whfellow-developers-1di8)
-- [REST API and Common HTTP Methods](https://dev.to/manikanta_yarramsetti_7bc/rest-api-and-common-http-methods-1h1b)
-- [5 Dockerfile Misconfigurations You Should Avoid](https://dev.to/techwithhari/5-dockerfile-misconfigurations-you-should-avoid-17pl)
-- [AI](https://dev.to/hoffmann/ai-55gp)
-- [Solving my own real-world problem](https://dev.to/xmabry/solving-my-own-real-world-problem-2h9n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
