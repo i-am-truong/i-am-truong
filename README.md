@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hello everyone! I joined Dev.to share my journey as I prepare to switch jobs. I’m a software developer at a private firm in India, and I’ve realized it’s time to move forward. I’ll be posting my daily learnings and progress here.](https://dev.to/arpita_kumari_c6204572484/hello-everyone-i-joined-devto-share-my-journey-as-i-prepare-to-switch-jobs-im-a-software-4199)
+- [Puppet with Foreman - Pilot](https://dev.to/12ww1160/puppet-with-foreman-pilot-8ce)
+- [My first post lol](https://dev.to/bhennyhayman/my-first-post-lol-4n6h)
 - [Choosing the Right LLM for the Umbraco CMS Developer MCP: An Quick Cost and Performance Analysis](https://dev.to/phil-whittaker/choosing-the-right-llm-for-the-umbraco-cms-developer-mcp-an-initial-cost-and-performance-analysis-50g6)
 - [The Mythical One-Fits-All Build Tool Plugin 🦄 &lpar;It Actually Exists&rpar;](https://dev.to/thormeier/the-mythical-one-fits-all-build-tool-plugin-it-actually-exists-ke2)
-- [Restaurant Discovery Is a Ranking Problem — And the Inputs Are Wrong](https://dev.to/marcin_stepien_8c05538435/restaurant-discovery-is-a-ranking-problem-and-the-inputs-are-wrong-3n03)
-- [Why Helm Chart Testing Matters &lpar;And How to Choose Your Tools&rpar;](https://dev.to/alexandrev/why-helm-chart-testing-matters-and-how-to-choose-your-tools-4mhk)
-- [Python Sets: remove&lpar;&rpar; vs discard&lpar;&rpar; — When Silence Is Golden](https://dev.to/samuel_ochaba_eb9c875fa89/python-sets-remove-vs-discard-when-silence-is-golden-1j1k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
