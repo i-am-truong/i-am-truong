@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Flutter ECS: Mastering Async Operations and Complex Workflows](https://dev.to/flameofudun/flutter-ecs-mastering-async-operations-and-complex-workflows-463g)
 - [Building Modern Backends with Kaapi: Request validation Part 2](https://dev.to/shygyver/building-modern-backends-with-kaapi-request-validation-part-2-2ha5)
 - [Mastering React DevTools: A Comprehensive Guide to Efficient Debugging](https://dev.to/beleke_ian_2d13cbd4de310e/mastering-react-devtools-a-comprehensive-guide-to-efficient-debugging-21mh)
 - [InfrontJS 1.0 - finally shipped after a 48h lockdown](https://dev.to/benny00100/infrontjs-10-finally-shipped-after-a-48h-lockdown-498)
 - [🚀 Just Launched My Smart TV / OTT Portfolio 📺](https://dev.to/braggio/just-launched-my-smart-tv-ott-portfolio-3ela)
-- [Small Language Models Are Eating the World &lpar;And Why That&#39;s Great&rpar;](https://dev.to/satinathnit/small-language-models-are-eating-the-world-and-why-thats-great-16ac)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
