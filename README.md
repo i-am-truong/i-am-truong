@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering React DevTools: A Comprehensive Guide to Efficient Debugging](https://dev.to/beleke_ian_2d13cbd4de310e/mastering-react-devtools-a-comprehensive-guide-to-efficient-debugging-21mh)
+- [InfrontJS 1.0 - finally shipped after a 48h lockdown](https://dev.to/benny00100/infrontjs-10-finally-shipped-after-a-48h-lockdown-498)
+- [🚀 Just Launched My Smart TV / OTT Portfolio 📺](https://dev.to/braggio/just-launched-my-smart-tv-ott-portfolio-3ela)
 - [I Built a Study Timer Competitor That Converted My Procrastination into a Game](https://dev.to/helloimabid/i-built-a-study-timer-competitor-that-converted-my-procrastination-into-a-game-420i)
 - [AI Agents Are Becoming New Audience](https://dev.to/dipti_m_2e7ba36c478d1a48a/ai-agents-are-becoming-new-audience-2923)
-- [Introduction: Analyzing randomness with AI](https://dev.to/nichebrai/introduction-analyzing-randomness-with-ai-kf)
-- [Headless Mode: Unleash AI in Your CI/CD Pipeline](https://dev.to/rajeshroyal/headless-mode-unleash-ai-in-your-cicd-pipeline-1imm)
-- [Kicking Off a New Full-Stack Project](https://dev.to/cyndiee/kicking-off-a-new-full-stack-project-405o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
