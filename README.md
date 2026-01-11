@@ -122,8 +122,8 @@ Python                   1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [Joomla View Logs component v.2.3.0 has been released!](https://dev.to/sergeytolkachyov/joomla-view-logs-component-v230-has-been-released-4a36)
 - [My Dashboard: как я превратил старые Android-устройства в кроссплатформенные дашборды с помощью AI и типобезопасного fullstack](https://dev.to/endykaufman/my-dashboard-kak-ia-prievratil-staryie-android-ustroistva-v-krossplatformiennyie-dashbordy-s-pomoshchiu-ai-1dh9)
-- [[Boost]](https://dev.to/mebaddev/-13l5)
 - [Arduino vs STM32: When the Arduino Platform Becomes Limiting](https://dev.to/tomaszszewczyk/arduino-vs-stm32-when-the-arduino-platform-becomes-limiting-5e3l)
+- [Operational Transformation &lpar;OT&rpar; and CRDTs - Real-Time Collaboration Systems](https://dev.to/arghya_majumder/operational-transformation-ot-and-crdts-real-time-collaboration-systems-kdd)
 - [Creating Spotlight Tutorials in Flutter: The Complete Guide to Selective Overlays](https://dev.to/thanasistraitsis/creating-spotlight-tutorials-in-flutter-the-complete-guide-to-selective-overlays-4iil)
 <!-- BLOG-POST-LIST:END -->
 
