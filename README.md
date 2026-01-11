@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI is changing how we build software: here&#39;s how to do it safely](https://dev.to/colosl/ai-is-changing-how-we-build-software-heres-how-to-do-it-safely-3cf4)
+- [My Phone, Claude Code, and Me](https://dev.to/sijiaoh/my-phone-claude-code-and-me-373g)
+- [We Didn’t “Align” — We Argued &lpar;and Shipped a Better System&rpar;](https://dev.to/art_light/we-didnt-align-we-argued-and-shipped-a-better-system-1818)
+- [I Built a Mock API Platform in 2.5 Months &lpar;Django + React + Redis + PostgreSQL&rpar;](https://dev.to/marcuscodes/i-built-a-mock-api-platform-in-25-months-django-react-redis-postgresql-4n43)
 - [Turning a 2013 Dell E6540 into a Dedicated TV Media Controller](https://dev.to/anand_rathnas_d5b608cc3de/turning-a-2013-dell-e6540-into-a-dedicated-tv-media-controller-4pmi)
-- [Linux File System](https://dev.to/sbkumbar024/linux-file-system-j9b)
-- [try-rs: Control your experiment and project folders.](https://dev.to/tassio/try-rs-control-your-experiment-and-project-folders-1kjc)
-- [5 Best Dog Health Apps Compared: 2026 Ultimate Guide](https://dev.to/anas_kayssi/5-best-dog-health-apps-compared-2026-ultimate-guide-1h44)
-- [API First in Practice: How We Made Frontend Types Predictable and Stable](https://dev.to/dmitrii-verbetchii/api-first-in-practice-how-we-made-frontend-types-predictable-and-stable-332c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
