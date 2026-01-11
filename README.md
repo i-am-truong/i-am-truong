@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Project BookMyShow: Day 6](https://dev.to/vishwapratapsingh90/project-bookmyshow-day-6-2dm4)
 - [BootStrapping Aurora RDS Databases using Lambda and Terraform &lpar;Part 2&rpar;](https://dev.to/santanu_das/bootstrapping-aurora-rds-databases-using-lambda-and-terraform-part-2-29i3)
 - [You’re Running EC2 Instances That Do Nothing](https://dev.to/rogo032/youre-running-ec2-instances-that-do-nothing-112k)
 - [Belajar API Laravel: Dari Problem ke Solusi!](https://dev.to/bangkah/belajar-api-laravel-dari-problem-ke-solusi-47p1)
 - [[Showdev] Blitzy: a lightweight 2D game engine in Kotlin](https://dev.to/xerooup/showdev-blitzy-a-lightweight-2d-game-engine-in-kotlin-1e9c)
-- [Linux File &amp; Directory Operations for DevOps — v1.0](https://dev.to/chetan_tekam_3500/linux-file-directory-operations-for-devops-v10-1jbb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
