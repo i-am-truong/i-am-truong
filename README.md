@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Saving Sessions in a Database Is Usually a Bad Practice](https://dev.to/jps27cse/why-saving-sessions-in-a-database-is-usually-a-bad-practice-3e32)
+- [Using Schema.org&#39;s DefinedTermSet for Industry Terminology: A Case Study](https://dev.to/mark_mcneece_365i/using-schemaorgs-definedtermset-for-industry-terminology-a-case-study-1mm2)
 - [I Spent Hours Googling Port Forwarding. Then I Found Cloudflare Tunnel](https://dev.to/abdulm/i-spent-hours-googling-port-forwarding-then-i-found-cloudflare-tunnel-k03)
 - [Amazon S3 Vectors: When Your Data Lake Becomes Your Vector Store](https://dev.to/sujitha_rasamsetty/amazon-s3-vectors-when-your-data-lake-becomes-your-vector-store-3c2c)
 - [I Built 18 Free Developer Tools That Run 100% in Your Browser](https://dev.to/palak_kanani_91a94ad83646/i-built-18-free-developer-tools-that-run-100-in-your-browser-1h09)
-- [😲 Your Face is the Playlist: Building an Emotion-Aware Android App](https://dev.to/sisodiajatin/your-face-is-the-playlist-building-an-emotion-aware-android-app-4e6o)
-- [Generating alt texts using Gemini 3 Flash](https://dev.to/sarthakmishra/generating-alt-texts-using-gemini-3-flash-l1f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
