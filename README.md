@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes Core • Pod Lifecycle &amp; Health • Networking From DevOps Production &amp; Interview Perspective &lpar;6+ years&rpar;](https://dev.to/jumptotech/kubernetes-core-pod-lifecycle-health-networking-from-devops-production-interview-4eei)
+- [WatermarkX v1.0 – A Lightweight Offline Image Watermarking Tool Built with Python](https://dev.to/matetechnologie/watermarkx-v10-a-lightweight-offline-image-watermarking-tool-built-with-python-5f55)
+- [Wallet-as-a-Service as an Infrastructure Layer for Digital Products](https://dev.to/dan_keller/wallet-as-a-service-as-an-infrastructure-layer-for-digital-products-36d)
+- [Clean Code em PHP moderno.](https://dev.to/danielcamucatto/clean-code-em-php-moderno-a72)
 - [Flutter ECS: Mastering Async Operations and Complex Workflows](https://dev.to/flameofudun/flutter-ecs-mastering-async-operations-and-complex-workflows-463g)
-- [Building Modern Backends with Kaapi: Request validation Part 2](https://dev.to/shygyver/building-modern-backends-with-kaapi-request-validation-part-2-2ha5)
-- [Mastering React DevTools: A Comprehensive Guide to Efficient Debugging](https://dev.to/beleke_ian_2d13cbd4de310e/mastering-react-devtools-a-comprehensive-guide-to-efficient-debugging-21mh)
-- [InfrontJS 1.0 - finally shipped after a 48h lockdown](https://dev.to/benny00100/infrontjs-10-finally-shipped-after-a-48h-lockdown-498)
-- [🚀 Just Launched My Smart TV / OTT Portfolio 📺](https://dev.to/braggio/just-launched-my-smart-tv-ott-portfolio-3ela)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
