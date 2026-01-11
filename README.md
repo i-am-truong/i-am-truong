@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Don&#39;t pull the entire dump if you only need a small piece](https://dev.to/__2131e9e/dont-pull-the-entire-dump-if-you-only-need-a-small-piece-2aka)
+- [Building With AI Made Me Realize How Often We Don’t Understand Our Own Code](https://dev.to/azrael654/building-with-ai-made-me-realize-how-often-we-dont-understand-our-own-code-45i0)
+- [Día Cero en Venezuela: Creando un Monitor Económico 24/7 con Python y Termux](https://dev.to/galp76/dia-cero-en-venezuela-creando-un-monitor-economico-247-con-python-y-termux-2l7p)
 - [AWS Certified Generative AI Developer – Professional in 2 Weeks &lpar;Part 1: Exam Overview &amp; Foundations&rpar;](https://dev.to/makendrang/aws-certified-generative-ai-developer-professional-in-2-weeks-part-1-exam-overview--2p6a)
 - [AWS Certified Generative AI Developer – Professional in 2 Weeks &lpar;Part 2: Advanced Learning &amp; Exam Prep&rpar;](https://dev.to/makendrang/aws-certified-generative-ai-developer-professional-in-2-weeks-part-2-advanced-learning-exam-4d9o)
-- [AI Trading: Lesson Learned #131: Self-Healing Gap - Blog Lesson Sync](https://dev.to/igorganapolsky/ai-trading-lesson-learned-131-self-healing-gap-blog-lesson-sync-4ean)
-- [AWS Certified Generative AI Developer – Professional: Exam Overview &amp; Foundation Strategy &lpar;Part 1&rpar;](https://dev.to/makendrang/aws-certified-generative-ai-developer-professional-exam-overview-foundation-strategy-part-1-5eb2)
-- [AI Trading: Lesson Learned #130: Comprehensive Investment Strategy Review &lpar;Jan 11, 2026&rpar;](https://dev.to/igorganapolsky/ai-trading-lesson-learned-130-comprehensive-investment-strategy-review-jan-11-2026-40pa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
