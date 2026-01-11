@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a 3D Map Application Using Mapterhorn Terrain Data](https://dev.to/mierune/building-a-3d-map-application-using-mapterhorn-terrain-data-elo)
+- [RAG Works — Until You Hit the Long Tail](https://dev.to/onepoint/rag-works-until-you-hit-the-long-tail-54lp)
+- [The AI Romance Novel Secret Nobody Tells You About](https://dev.to/anas_kayssi/the-ai-romance-novel-secret-nobody-tells-you-about-4p83)
+- [2026-01-11 Daily Robotics News](https://dev.to/dan_ledger_ce2886f0037972/2026-01-11-daily-robotics-news-2n2)
 - [SaijinOS Part 20 — Trust as a Temporal Resource](https://dev.to/kato_masato_c5593c81af5c6/saijinos-part-20-trust-as-a-temporal-resource-2iho)
-- [From ChatGPT to Gemini: How We Built a GDPR-Compliant CV Parser for Odoo](https://dev.to/tderick/from-chatgpt-to-gemini-how-we-built-a-gdpr-compliant-cv-parser-for-odoo-nne)
-- [Help me, Localstack. You&#39;re my only hope.](https://dev.to/killallskywalker/help-me-localstack-youre-my-only-hope-54pk)
-- [Code Hike in 100 Seconds](https://dev.to/fabianfrankwerner/code-hike-in-100-seconds-1d9o)
-- [Vector Database &lpar;with Supabase and OpenAI&rpar;-Part 2 &lpar;Setup&rpar;](https://dev.to/shlokaguptaa/vector-database-with-supabase-and-openai-part-2-setup-49o9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
