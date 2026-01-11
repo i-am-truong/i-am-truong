@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Database Design Best Practice: Store Categorical Data as IDs, Not Strings](https://dev.to/faizanfirdousi/database-design-best-practice-store-categorical-data-as-ids-not-strings-4cfl)
-- [[Python/Golang] Solving Imgur Image Download Redirection Issues](https://dev.to/evanlin/pythongolang-solving-imgur-image-download-redirection-issues-cl8)
-- [Using Vertex AI instead of Gemini in LangChain &lpar;Python&rpar;](https://dev.to/evanlin/using-vertex-ai-instead-of-gemini-in-langchain-python-fh4)
-- [Gemini: Summarize Search Results Based on Your Keywords](https://dev.to/evanlin/gemini-summarize-search-results-based-on-your-keywords-4j3j)
-- [Using Gemini to Call MCP Functions on Cline](https://dev.to/evanlin/using-gemini-to-call-mcp-functions-on-cline-4ljl)
+- [LangChain: Chains vs. Agents Webinar Notes](https://dev.to/evanlin/langchain-chains-vs-agents-webinar-notes-35jg)
+- [[LangChain] Potential Issues with LangChain Embeddings](https://dev.to/evanlin/langchain-potential-issues-with-langchain-embeddings-5dhd)
+- [Today I Learned: AI Safety and the Enlightenment Era](https://dev.to/evanlin/today-i-learned-ai-safety-and-the-enlightenment-era-4ef0)
+- [TIL: Notes on Knowledge Retrieval Architecture for LLMs &lpar;2023&rpar;](https://dev.to/evanlin/til-notes-on-knowledge-retrieval-architecture-for-llms-2023-3j4i)
+- [[TIL][Python] Python Tool for Online PDF Viewing, Comparison, and Data Import](https://dev.to/evanlin/tilpython-python-tool-for-online-pdf-viewing-comparison-and-data-import-29b4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
