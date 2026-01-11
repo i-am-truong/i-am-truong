@@ -120,12 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Built a Study Timer Competitor That Converted My Procrastination into a Game](https://dev.to/helloimabid/i-built-a-study-timer-competitor-that-converted-my-procrastination-into-a-game-420i)
 - [AI Agents Are Becoming New Audience](https://dev.to/dipti_m_2e7ba36c478d1a48a/ai-agents-are-becoming-new-audience-2923)
 - [Introduction: Analyzing randomness with AI](https://dev.to/nichebrai/introduction-analyzing-randomness-with-ai-kf)
 - [Headless Mode: Unleash AI in Your CI/CD Pipeline](https://dev.to/rajeshroyal/headless-mode-unleash-ai-in-your-cicd-pipeline-1imm)
 - [Kicking Off a New Full-Stack Project](https://dev.to/cyndiee/kicking-off-a-new-full-stack-project-405o)
-- [This week, I’m starting a small full-stack project to sharpen my frontend and backend skills.
-I’ll be working with JavaScript, Node.js, and a simple frontend stack, focusing more on learning than perfection.](https://dev.to/cyndiee/this-week-im-starting-a-small-full-stack-project-to-sharpen-my-frontend-and-backend-skills-ill-10j6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
