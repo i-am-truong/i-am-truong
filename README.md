@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Built a Free Online PDF Tool - Here&#39;s Why I Didn&#39;t Use Python](https://dev.to/rajender_kumar_eb48ec3e13/built-a-free-pdf-tool-with-javaspdf-javascript-webdev-opensourcecript-heres-whfellow-developers-1di8)
+- [REST API and Common HTTP Methods](https://dev.to/manikanta_yarramsetti_7bc/rest-api-and-common-http-methods-1h1b)
+- [5 Dockerfile Misconfigurations You Should Avoid](https://dev.to/techwithhari/5-dockerfile-misconfigurations-you-should-avoid-17pl)
+- [AI](https://dev.to/hoffmann/ai-55gp)
 - [Solving my own real-world problem](https://dev.to/xmabry/solving-my-own-real-world-problem-2h9n)
-- [Publishing Pipeline v1.2.0 – backlinks and X support](https://dev.to/12ww1160/publishing-pipeline-v120-backlinks-and-x-support-1867)
-- [Stop Fighting Your Circuit Breaker: A Physics-Based Approach to Node.js Reliability](https://dev.to/laphilosophia/stop-fighting-your-circuit-breaker-a-physics-based-approach-to-nodejs-reliability-11il)
-- [Puppet with Foreman - Pilot](https://dev.to/12ww1160/puppet-with-foreman-pilot-2nip)
-- [Publishing Pipeline v1.1.0 – Dev.to Support and What Comes Next](https://dev.to/12ww1160/publishing-pipeline-v110-devto-support-and-what-comes-next-pem)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
