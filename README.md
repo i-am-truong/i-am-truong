@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Supply Chain Security: A Deep Dive into SBOM and Code Signing](https://dev.to/kanywst/supply-chain-security-a-deep-dive-into-sbom-and-code-signing-2n1l)
-- [Joomla View Logs component v.2.3.0 has been released!](https://dev.to/sergeytolkachyov/joomla-view-logs-component-v230-has-been-released-4a36)
-- [My Dashboard: как я превратил старые Android-устройства в кроссплатформенные дашборды с помощью AI и типобезопасного fullstack](https://dev.to/endykaufman/my-dashboard-kak-ia-prievratil-staryie-android-ustroistva-v-krossplatformiennyie-dashbordy-s-pomoshchiu-ai-1dh9)
-- [Arduino vs STM32: When the Arduino Platform Becomes Limiting](https://dev.to/tomaszszewczyk/arduino-vs-stm32-when-the-arduino-platform-becomes-limiting-5e3l)
-- [Operational Transformation &lpar;OT&rpar; and CRDTs - Real-Time Collaboration Systems](https://dev.to/arghya_majumder/operational-transformation-ot-and-crdts-real-time-collaboration-systems-kdd)
+- [Git worktree — Stop Stashing, Start Working in Parallel](https://dev.to/antonioaren/git-worktree-stop-stashing-start-working-in-parallel-3p17)
+- [The Dark Side of Startup Life in Hyderabad &lpar;My Honest Experience&rpar;](https://dev.to/vasughanta09/the-dark-side-of-startup-life-in-hyderabad-my-honest-experience-593d)
+- [Building Cryptographic Audit Trails for AI Trading Systems: A Deep Dive into RFC 6962-Based Verification](https://dev.to/veritaschain/building-cryptographic-audit-trails-for-ai-trading-systems-a-deep-dive-into-rfc-6962-based-6aa)
+- [2025 Voice AI Guide How to Make Your Own Real-Time Voice Agent &lpar;Part-3&rpar;](https://dev.to/programmerraja/2025-voice-ai-guide-how-to-make-your-own-real-time-voice-agent-part-3-3ocb)
+- [Week 0: Starting a 16-Week Journey to Platform Engineering](https://dev.to/jimmy-maina/week-0-starting-a-16-week-journey-to-platform-engineering-cei)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
