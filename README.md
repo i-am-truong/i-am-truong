@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Started a Tech Newsletter to Explain How Real Systems Work &lpar;Not Just How to Code&rpar;](https://dev.to/satyabrata_dd224dce47e7bc/i-started-a-tech-newsletter-to-explain-how-real-systems-work-not-just-how-to-code-4i6g)
-- [Play: UI Layouts in PureScript](https://dev.to/shamansir/play-ui-layouts-in-purescript-1cb5)
-- [🚨 React Re-render Methods: Reference Matters!](https://dev.to/muthuraja_r/react-re-render-methods-reference-matters-4hfp)
-- [How do you keep engineering context alive when requirements change? Post:](https://dev.to/whykislay/how-do-you-keep-engineering-context-alive-when-requirements-changepost-89o)
-- [Mangools SEO Suite vs. The Competition: A Brutally Honest Review for SEO Pros Who Hate Wasting Money](https://dev.to/ii-x/mangools-seo-suite-vs-the-competition-a-brutally-honest-review-for-seo-pros-who-hate-wasting-money-4f14)
+- [The Irreplaceable Human in the Age of Smart Systems](https://dev.to/newriderslabs/the-irreplaceable-human-in-the-age-of-smart-systems-5ej3)
+- [🎬 Build a Relax Video Generator &lpar;Images + MP3 MP4&rpar; with Python &amp; Tkinter](https://dev.to/matetechnologie/build-a-relax-video-generator-images-mp3-mp4-with-python-tkinter-b3g)
+- [Being Strong Is a Choice.](https://dev.to/bibimbop123/being-strong-is-a-choice-4jh7)
+- [How strong fundamentals + AI helped me build a data pipeline platform in 6 months &lpar;solo&rpar;](https://dev.to/traviticus/how-strong-fundamentals-ai-helped-me-build-a-data-pipeline-platform-in-6-months-solo-1g4b)
+- [Mastering React&#39;s Dynamic Side: State, Events, and Conditional Rendering! &lpar;React Day 3&rpar;](https://dev.to/vasughanta09/mastering-reacts-dynamic-side-state-events-and-conditional-rendering-react-day-3-486g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
