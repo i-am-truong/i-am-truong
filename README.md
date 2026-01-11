@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [API First in Practice: How We Made Frontend Types Predictable and Stable](https://dev.to/dmitrii-verbetchii/api-first-in-practice-how-we-made-frontend-types-predictable-and-stable-332c)
+- [[Boost]](https://dev.to/nightbird07/-176c)
 - [Building a Regulatory-Compliant Accessibility Scanner: From WCAG to Legal Compliance](https://dev.to/labontese/building-a-regulatory-compliant-accessibility-scanner-from-wcag-to-legal-compliance-38an)
+- [O&lpar;1&rpar; Country Selection on a 3D Globe with GPU Picking and Hemisphere Detection](https://dev.to/emmanueln07/o1-country-selection-on-a-3d-globe-with-gpu-picking-and-hemisphere-detection-21ib)
 - [The Complete Guide to Prometheus Metric Types](https://dev.to/sunnynazar/the-complete-guide-to-prometheus-metric-types-promql-alerting-and-troubleshooting-5a69)
-- [Beyond &#39;Correct Horse Battery Staple&#39;: Passphrases in Inflected Languages](https://dev.to/tlipinski/beyond-correct-horse-battery-staple-passphrases-in-inflected-languages-1og4)
-- [Wallets Are the New Auth Layer](https://dev.to/laniyanabdulqawi/wallets-are-the-new-auth-layer-2pg5)
-- [An Introduction to Docker: Stop asking your stakeholders to install Postgres! 🚀](https://dev.to/franciscolunadev82/an-introduction-to-docker-stop-asking-your-stakeholders-to-install-postgres-2a57)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
