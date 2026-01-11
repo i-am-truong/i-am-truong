@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The State of Quality 2026: Where to Find the Best SDET &amp; QA Roles](https://dev.to/hien_nguyen/the-state-of-quality-2026-where-to-find-the-best-sdet-qa-roles-4omg)
+- [The Creator&#39;s Paradox in the AI Era: How to Stay Generative When Everything Gets Scraped](https://dev.to/narnaiezzsshaa/the-creators-paradox-in-the-ai-era-how-to-stay-generative-when-everything-gets-scraped-2b89)
 - [AI is changing how we build software: here&#39;s how to do it safely](https://dev.to/colosl/ai-is-changing-how-we-build-software-heres-how-to-do-it-safely-3cf4)
 - [My Phone, Claude Code, and Me](https://dev.to/sijiaoh/my-phone-claude-code-and-me-373g)
-- [We Didn’t “Align” — We Argued &lpar;and Shipped a Better System&rpar;](https://dev.to/art_light/we-didnt-align-we-argued-and-shipped-a-better-system-1818)
-- [I Built a Mock API Platform in 2.5 Months &lpar;Django + React + Redis + PostgreSQL&rpar;](https://dev.to/marcuscodes/i-built-a-mock-api-platform-in-25-months-django-react-redis-postgresql-4n43)
-- [Turning a 2013 Dell E6540 into a Dedicated TV Media Controller](https://dev.to/anand_rathnas_d5b608cc3de/turning-a-2013-dell-e6540-into-a-dedicated-tv-media-controller-4pmi)
+- [Automating Performance Engineering with Claude Code and New Relic MCP](https://dev.to/iamarsh/automating-performance-engineering-with-claude-code-and-new-relic-mcp-3j12)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
