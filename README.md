@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Right way to vibe code that actually works](https://dev.to/singhdevhub/right-way-to-vibe-code-that-actually-works-3oah)
-- [From Math Teacher to Data Science &amp; Web Development: My Coding Journey#introduction #learning #webdev #python #datascience](https://dev.to/ahmedanterelsayed/from-math-teacher-to-data-science-web-development-my-coding-journeyintroduction-learning-4k58)
-- [The 5 Crypto Portfolio Secrets Nobody Tells You About](https://dev.to/anas_kayssi/the-5-crypto-portfolio-secrets-nobody-tells-you-about-33cj)
-- [Git worktree — Stop Stashing, Start Working in Parallel](https://dev.to/antonioaren/git-worktree-stop-stashing-start-working-in-parallel-3p17)
-- [The Dark Side of Startup Life in Hyderabad &lpar;My Honest Experience&rpar;](https://dev.to/vasughanta09/the-dark-side-of-startup-life-in-hyderabad-my-honest-experience-593d)
+- [Choosing the Right LLM for the Umbraco CMS Developer MCP: An Quick Cost and Performance Analysis](https://dev.to/phil-whittaker/choosing-the-right-llm-for-the-umbraco-cms-developer-mcp-an-initial-cost-and-performance-analysis-50g6)
+- [The Mythical One-Fits-All Build Tool Plugin 🦄 &lpar;It Actually Exists&rpar;](https://dev.to/thormeier/the-mythical-one-fits-all-build-tool-plugin-it-actually-exists-ke2)
+- [Restaurant Discovery Is a Ranking Problem — And the Inputs Are Wrong](https://dev.to/marcin_stepien_8c05538435/restaurant-discovery-is-a-ranking-problem-and-the-inputs-are-wrong-3n03)
+- [Why Helm Chart Testing Matters &lpar;And How to Choose Your Tools&rpar;](https://dev.to/alexandrev/why-helm-chart-testing-matters-and-how-to-choose-your-tools-4mhk)
+- [Python Sets: remove&lpar;&rpar; vs discard&lpar;&rpar; — When Silence Is Golden](https://dev.to/samuel_ochaba_eb9c875fa89/python-sets-remove-vs-discard-when-silence-is-golden-1j1k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
