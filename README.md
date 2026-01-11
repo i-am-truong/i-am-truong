@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [JVector — An Introduction-What is JVcetor? &lpar;Part 1&rpar;](https://dev.to/aairom/jvector-an-introduction-what-is-jvcetor-part-1-kh9)
-- [Why Saving Sessions in a Database Is Usually a Bad Practice](https://dev.to/jps27cse/why-saving-sessions-in-a-database-is-usually-a-bad-practice-3e32)
-- [Using Schema.org&#39;s DefinedTermSet for Industry Terminology: A Case Study](https://dev.to/mark_mcneece_365i/using-schemaorgs-definedtermset-for-industry-terminology-a-case-study-1mm2)
-- [Why Your E-Commerce Site Feels Slow Even When Lighthouse Is Green](https://dev.to/ar_abid_641aa302d5c68b2ae/why-your-e-commerce-site-feels-slow-even-when-lighthouse-is-green-39c)
-- [I Spent Hours Googling Port Forwarding. Then I Found Cloudflare Tunnel](https://dev.to/abdulm/i-spent-hours-googling-port-forwarding-then-i-found-cloudflare-tunnel-k03)
+- [Building a &quot;Remembering&quot; AI Trading Agent with Python, LangGraph, and Obsidian](https://dev.to/jiwoomap/building-a-remembering-ai-trading-agent-with-python-langgraph-and-obsidian-30hn)
+- [Building Scalable AI Agent Systems: Three Evolutions](https://dev.to/web3nomad/building-scalable-ai-agent-systems-three-evolutions-3ahe)
+- [ReactJS Design Pattern ~Context Selector~](https://dev.to/kkr0423/reactjs-design-pattern-context-selector-1730)
+- [Elara WynterBrook](https://dev.to/valery_havranek_37b3812ec/elara-wynterbrook-9a1)
+- [Carto: De una Factura a la ONU a Conquistar la Nube Geoespacial](https://dev.to/datalaria/carto-de-una-factura-a-la-onu-a-conquistar-la-nube-geoespacial-2d4b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
