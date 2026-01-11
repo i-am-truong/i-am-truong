@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [50+ Common Web Application Vulnerabilities Explained](https://dev.to/morrismoses149/50-common-web-application-vulnerabilities-explained-2mmn)
 - [The Invisible Hand That Fed Us](https://dev.to/adamthedeveloper/the-invisible-hand-that-fed-us-2pd2)
 - [Level 1 - Foundations #1. Client-Server Model](https://dev.to/himanshu_bhatt/level-1-foundations-1-client-server-model-f19)
 - [Modern KMP &lpar;Part 1&rpar;: The End of the &quot;404 Not Found&quot;2](https://dev.to/vldi01/modern-kmp-part-1-the-end-of-the-404-not-found2-39ca)
 - [Oasis for Developers: an underrated EVM for privacy-first dApps](https://dev.to/rollingindo/oasis-for-developers-an-underrated-evm-for-privacy-first-dapps-9if)
-- [Deploying Full-Stack Next.js Apps: Vercel vs Render Comparison](https://dev.to/athashri_keny/deploying-full-stack-nextjs-apps-vercel-vs-render-comparison-ojj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
