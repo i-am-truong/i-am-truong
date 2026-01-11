@@ -120,11 +120,12 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Video Streaming Platform &lpar;YouTube / Hotstar / Netflix / Prime&rpar; High-level System Design](https://dev.to/arghya_majumder/video-streaming-platform-youtube-hotstar-netflix-prime-high-level-system-design-c8l)
-- [From Stack Overflow to AI Agents: Why I Stopped Fighting and Started Orchestrating in 2025](https://dev.to/elfrontend/from-stack-overflow-to-ai-agents-why-i-stopped-fighting-and-started-orchestrating-in-2025-2ii5)
-- [AI Agents: Automate 80% of Support &lpar;Case Study&rpar;](https://dev.to/robort-gabriel/ai-agents-automate-80-of-support-case-study-5793)
-- [Don&#39;t pull the entire dump if you only need a small piece](https://dev.to/belochka1-04/dont-pull-the-entire-dump-if-you-only-need-a-small-piece-2aka)
-- [Building With AI Made Me Realize How Often We Don’t Understand Our Own Code](https://dev.to/azrael654/building-with-ai-made-me-realize-how-often-we-dont-understand-our-own-code-45i0)
+- [AI Agents Are Becoming New Audience](https://dev.to/dipti_m_2e7ba36c478d1a48a/ai-agents-are-becoming-new-audience-2923)
+- [Introduction: Analyzing randomness with AI](https://dev.to/nichebrai/introduction-analyzing-randomness-with-ai-kf)
+- [Headless Mode: Unleash AI in Your CI/CD Pipeline](https://dev.to/rajeshroyal/headless-mode-unleash-ai-in-your-cicd-pipeline-1imm)
+- [Kicking Off a New Full-Stack Project](https://dev.to/cyndiee/kicking-off-a-new-full-stack-project-405o)
+- [This week, I’m starting a small full-stack project to sharpen my frontend and backend skills.
+I’ll be working with JavaScript, Node.js, and a simple frontend stack, focusing more on learning than perfection.](https://dev.to/cyndiee/this-week-im-starting-a-small-full-stack-project-to-sharpen-my-frontend-and-backend-skills-ill-10j6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
