@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hello everyone! I joined Dev.to share my journey as I prepare to switch jobs. I’m a software developer at a private firm in India, and I’ve realized it’s time to move forward. I’ll be posting my daily learnings and progress here.](https://dev.to/arpita_kumari_c6204572484/hello-everyone-i-joined-devto-share-my-journey-as-i-prepare-to-switch-jobs-im-a-software-4199)
-- [Puppet with Foreman - Pilot](https://dev.to/12ww1160/puppet-with-foreman-pilot-8ce)
-- [My first post lol](https://dev.to/bhennyhayman/my-first-post-lol-4n6h)
-- [Choosing the Right LLM for the Umbraco CMS Developer MCP: An Quick Cost and Performance Analysis](https://dev.to/phil-whittaker/choosing-the-right-llm-for-the-umbraco-cms-developer-mcp-an-initial-cost-and-performance-analysis-50g6)
-- [The Mythical One-Fits-All Build Tool Plugin 🦄 &lpar;It Actually Exists&rpar;](https://dev.to/thormeier/the-mythical-one-fits-all-build-tool-plugin-it-actually-exists-ke2)
+- [From Manual Mayhem to AI Magic: Building an Automated Alt Text Solution for WordPress](https://dev.to/proga100/from-manual-mayhem-to-ai-magic-building-an-automated-alt-text-solution-for-wordpress-44km)
+- [Why Portugal Can Be Your Next Career Step](https://dev.to/walteralleyz/why-portugal-can-be-your-next-career-step-4h38)
+- [🎯Arrow Functions vs. Regular Functions in JavaScript](https://dev.to/gouranga-das-khulna/arrow-functions-vs-regular-functions-in-javascript-fcj)
+- [What AI Actually Replaces in Software Development &lpar;Part 2: The Reality&rpar;](https://dev.to/synthaicode_commander/what-ai-actually-replaces-in-software-development-part-2-the-reality-7nf)
+- [Cloud 101 with AWS: From Concepts to a Real Serverless App](https://dev.to/wardaliaqat01/cloud-101-with-aws-from-concepts-to-a-real-serverless-app-4a22)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
