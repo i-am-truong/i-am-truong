@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Polyfill - useEffect &lpar;React&rpar;](https://dev.to/zeeshanali0704/polyfill-useeffect-react-3dii)
 - [It’s 2026: Stop Using AWS IAM and Start Using IAM Identity Center](https://dev.to/aws-builders/its-2026-stop-using-aws-iam-and-start-using-iam-identity-center-18f0)
-- [Beyond the All-Nighter: 5 Surprising Truths About the Modern Hackathon](https://dev.to/dev_d5dad042c015d3612cbbc/beyond-the-all-nighter-5-surprising-truths-about-the-modern-hackathon-40me)
+- [Unsafe Rust: When and Why](https://dev.to/godofgeeks/unsafe-rust-when-and-why-3nn9)
+- [How Virtual Threads Change the Way We Write Concurrent Java Code](https://dev.to/realnamehidden1_61/how-virtual-threads-change-the-way-we-write-concurrent-java-code-1plj)
 - [Building Interview prep ai](https://dev.to/shashank0701byte/building-interview-prep-ai-1bje)
-- [Cheapest Solana Token Creator: 0.05 SOL vs 0.3 SOL &lpar;Full Breakdown&rpar;](https://dev.to/jumpbit/cheapest-solana-token-creator-005-sol-vs-03-sol-full-breakdown-55pc)
-- [Tech Pulse – Weekly Tech Digest January 11, 2026](https://dev.to/om_shree_0709/tech-pulse-weekly-tech-digestjanuary-11-2026-3bac)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
