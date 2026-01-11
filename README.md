@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t pull the entire dump if you only need a small piece](https://dev.to/__2131e9e/dont-pull-the-entire-dump-if-you-only-need-a-small-piece-2aka)
+- [Video Streaming Platform &lpar;YouTube / Hotstar / Netflix / Prime&rpar; High-level System Design](https://dev.to/arghya_majumder/video-streaming-platform-youtube-hotstar-netflix-prime-high-level-system-design-c8l)
+- [From Stack Overflow to AI Agents: Why I Stopped Fighting and Started Orchestrating in 2025](https://dev.to/elfrontend/from-stack-overflow-to-ai-agents-why-i-stopped-fighting-and-started-orchestrating-in-2025-2ii5)
+- [AI Agents: Automate 80% of Support &lpar;Case Study&rpar;](https://dev.to/robort-gabriel/ai-agents-automate-80-of-support-case-study-5793)
+- [Don&#39;t pull the entire dump if you only need a small piece](https://dev.to/belochka1-04/dont-pull-the-entire-dump-if-you-only-need-a-small-piece-2aka)
 - [Building With AI Made Me Realize How Often We Don’t Understand Our Own Code](https://dev.to/azrael654/building-with-ai-made-me-realize-how-often-we-dont-understand-our-own-code-45i0)
-- [Día Cero en Venezuela: Creando un Monitor Económico 24/7 con Python y Termux](https://dev.to/galp76/dia-cero-en-venezuela-creando-un-monitor-economico-247-con-python-y-termux-2l7p)
-- [The Non-Drinker&#39;s Guide to Clustering Algorithms 🎉](https://dev.to/sreeni5018/the-non-drinkers-guide-to-clustering-algorithms-np0)
-- [AWS Certified Generative AI Developer – Professional in 2 Weeks &lpar;Part 1: Exam Overview &amp; Foundations&rpar;](https://dev.to/makendrang/aws-certified-generative-ai-developer-professional-in-2-weeks-part-1-exam-overview--2p6a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
