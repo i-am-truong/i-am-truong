@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cheapest Solana Token Creator: 0.05 SOL vs 0.3 SOL &lpar;Full Breakdown&rpar;](https://dev.to/jumpbit/cheapest-solana-token-creator-005-sol-vs-03-sol-full-breakdown-55pc)
+- [Tech Pulse – Weekly Tech Digest January 11, 2026](https://dev.to/om_shree_0709/tech-pulse-weekly-tech-digestjanuary-11-2026-3bac)
 - [Synchronizing Recurring Outlook Meetings with EspoCRM: A Production-Grade Solution](https://dev.to/yhzhu/synchronizing-recurring-outlook-meetings-with-espocrm-a-production-grade-solution-1e5d)
 - [Released Gon v7.0.0](https://dev.to/willnet/released-gon-v700-34k6)
 - [Building a Chrome Extension: From Idea to Automated Release](https://dev.to/prajwolshrestha/building-a-chrome-extension-from-idea-to-automated-release-2a85)
-- [Who Owns This? Why Project Ownership Matters More Than Ever](https://dev.to/sela_network/who-owns-this-why-project-ownership-matters-more-than-ever-cpk)
-- [MCP Token Limits: The Hidden Cost of Tool Overload](https://dev.to/piotr_hajdas/mcp-token-limits-the-hidden-cost-of-tool-overload-2d5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
