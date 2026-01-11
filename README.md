@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [LINE Bot Developer Guide: Sending API Requests - Notes](https://dev.to/evanlin/line-bot-developer-guide-sending-api-requests-notes-49n8)
-- [Book Sharing: Life Begins at 40: What to Do Based on the Experiences of 10,000 People](https://dev.to/evanlin/book-sharing-life-begins-at-40-what-to-do-based-on-the-experiences-of-10000-people-3dkl)
-- [What&#39;s the Hardest Thing to Manage? - Silicon Valley VC&#39;s Management Wisdom](https://dev.to/evanlin/whats-the-hardest-thing-to-manage-silicon-valley-vcs-management-wisdom-5fkk)
-- [[Learning Notes] LINE Bot Developer Guide Explained - 4. LINE Login](https://dev.to/evanlin/learning-notes-line-bot-developer-guide-explained-4-line-login-39k6)
-- [LINE Bot Developer Guide: LINE Login &lpar;Supplement&rpar;](https://dev.to/evanlin/line-bot-developer-guide-line-login-supplement-47dd)
+- [Publishing Pipeline v1.1.0 – Dev.to Support and What Comes Next](https://dev.to/12ww1160/publishing-pipeline-v110-devto-support-and-what-comes-next-pem)
+- [𝗪𝗵𝘆 𝗔𝗜-𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗲𝗱 𝗖𝗼𝗱𝗲 𝗢𝗳𝘁𝗲𝗻 𝗟𝗼𝗼𝗸𝘀 “𝗖𝗼𝗺𝗽𝗹𝗲𝘁𝗲” — 𝗯𝘂𝘁 𝗜𝘀𝗻’𝘁—𝗮𝗻𝗱 𝘄𝗵𝘆 𝗜 𝗯𝘂𝗶𝗹𝘁 𝗔𝗜-𝗦𝗟𝗢𝗣 𝗗𝗲𝘁𝗲𝗰𝘁𝗼𝗿](https://dev.to/flamehaven01/--en3)
+- [The Great Escape: Why Developers Are Finally Ditching Windows for Linux](https://dev.to/ownlife/the-great-escape-why-developers-are-finally-ditching-windows-for-linux-3g7m)
+- [Glaucoma Awareness Month](https://dev.to/tatyanabayramova/glaucoma-awareness-month-363o)
+- [Automating AWS Security Scanning: Configuring Prowler on EC2 as a Cron Job to Detect Outdated AMIs](https://dev.to/rohan_khanal_e655b53e5810/automating-aws-security-scanning-configuring-prowler-on-ec2-as-a-cron-job-to-detect-outdated-amis-448f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
