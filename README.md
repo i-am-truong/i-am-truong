@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I can finally use MCPs without fear](https://dev.to/andylbrummer/i-can-finally-use-mcps-without-fear-3pfl)
 - [16+ Free HTML Admin Dashboard Templates for SaaS](https://dev.to/suniljoshi19/free-html-admin-dashboard-templates-for-saas-54i8)
 - [Supercharge Telegram with Python: Meet CipherElite, The AI-Powered Userbot](https://dev.to/rishabhops/supercharge-telegram-with-python-meet-cipherelite-the-ai-powered-userbot-4lfe)
 - [🧱 Beginner-Friendly Guide &#39;Maximal Rectangle&#39; – LeetCode 85 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-maximal-rectangle-leetcode-85-c-python-javascript-2joe)
 - [The Complete Guide to API Types in 2026: REST, GraphQL, gRPC, SOAP, and Beyond](https://dev.to/sizan_mahmud0_e7c3fd0cb68/the-complete-guide-to-api-types-in-2026-rest-graphql-grpc-soap-and-beyond-191)
-- [Como tirar o mindset de early-stage sem criar burocracia](https://dev.to/matheusmorett2/como-tirar-o-mindset-de-early-stage-sem-criar-burocracia-3glj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
