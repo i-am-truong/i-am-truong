@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Real-Time is an SLA, Not an Architecture: When You Actually Need Kafka &lpar;And When You Don&#39;t&rpar;](https://dev.to/qvfagundes/real-time-is-an-sla-not-an-architecture-when-you-actually-need-kafka-and-when-you-dont-4ecb)
-- [PTSD as an adaptive program](https://dev.to/conniebaugher_fl/ptsd-as-an-adaptive-program-1n4o)
-- [How I Automated Database Seeding in CI/CD with One API Call](https://dev.to/ddltodata/postgresql-test-data-api-seed-your-database-in-cicd-207f)
-- [Generate PostgreSQL Test Data Without Code &lpar;Step-by-Step&rpar;](https://dev.to/ddltodata/generate-postgresql-test-data-without-code-step-by-step-459d)
-- [How to Generate Test Data for PostgreSQL &lpar;2 Methods&rpar;](https://dev.to/ddltodata/how-to-generate-test-data-for-postgresql-2-methods-557i)
+- [I Started a Tech Newsletter to Explain How Real Systems Work &lpar;Not Just How to Code&rpar;](https://dev.to/satyabrata_dd224dce47e7bc/i-started-a-tech-newsletter-to-explain-how-real-systems-work-not-just-how-to-code-4i6g)
+- [Play: UI Layouts in PureScript](https://dev.to/shamansir/play-ui-layouts-in-purescript-1cb5)
+- [🚨 React Re-render Methods: Reference Matters!](https://dev.to/muthuraja_r/react-re-render-methods-reference-matters-4hfp)
+- [How do you keep engineering context alive when requirements change? Post:](https://dev.to/whykislay/how-do-you-keep-engineering-context-alive-when-requirements-changepost-89o)
+- [Mangools SEO Suite vs. The Competition: A Brutally Honest Review for SEO Pros Who Hate Wasting Money](https://dev.to/ii-x/mangools-seo-suite-vs-the-competition-a-brutally-honest-review-for-seo-pros-who-hate-wasting-money-4f14)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
