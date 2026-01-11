@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Turning a 2013 Dell E6540 into a Dedicated TV Media Controller](https://dev.to/anand_rathnas_d5b608cc3de/turning-a-2013-dell-e6540-into-a-dedicated-tv-media-controller-4pmi)
 - [Linux File System](https://dev.to/sbkumbar024/linux-file-system-j9b)
 - [try-rs: Control your experiment and project folders.](https://dev.to/tassio/try-rs-control-your-experiment-and-project-folders-1kjc)
+- [5 Best Dog Health Apps Compared: 2026 Ultimate Guide](https://dev.to/anas_kayssi/5-best-dog-health-apps-compared-2026-ultimate-guide-1h44)
 - [API First in Practice: How We Made Frontend Types Predictable and Stable](https://dev.to/dmitrii-verbetchii/api-first-in-practice-how-we-made-frontend-types-predictable-and-stable-332c)
-- [[Boost]](https://dev.to/nightbird07/-176c)
-- [Building a Regulatory-Compliant Accessibility Scanner: From WCAG to Legal Compliance](https://dev.to/labontese/building-a-regulatory-compliant-accessibility-scanner-from-wcag-to-legal-compliance-38an)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
