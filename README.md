@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Manual Mayhem to AI Magic: Building an Automated Alt Text Solution for WordPress](https://dev.to/proga100/from-manual-mayhem-to-ai-magic-building-an-automated-alt-text-solution-for-wordpress-44km)
-- [Why Portugal Can Be Your Next Career Step](https://dev.to/walteralleyz/why-portugal-can-be-your-next-career-step-4h38)
-- [🎯Arrow Functions vs. Regular Functions in JavaScript](https://dev.to/gouranga-das-khulna/arrow-functions-vs-regular-functions-in-javascript-fcj)
-- [What AI Actually Replaces in Software Development &lpar;Part 2: The Reality&rpar;](https://dev.to/synthaicode_commander/what-ai-actually-replaces-in-software-development-part-2-the-reality-7nf)
-- [Cloud 101 with AWS: From Concepts to a Real Serverless App](https://dev.to/wardaliaqat01/cloud-101-with-aws-from-concepts-to-a-real-serverless-app-4a22)
+- [BootStrapping Aurora RDS Databases using Lambda and Terraform &lpar;Part 2&rpar;](https://dev.to/santanu_das/bootstrapping-aurora-rds-databases-using-lambda-and-terraform-part-2-29i3)
+- [You’re Running EC2 Instances That Do Nothing](https://dev.to/rogo032/youre-running-ec2-instances-that-do-nothing-112k)
+- [Belajar API Laravel: Dari Problem ke Solusi!](https://dev.to/bangkah/belajar-api-laravel-dari-problem-ke-solusi-47p1)
+- [[Showdev] Blitzy: a lightweight 2D game engine in Kotlin](https://dev.to/xerooup/showdev-blitzy-a-lightweight-2d-game-engine-in-kotlin-1e9c)
+- [Linux File &amp; Directory Operations for DevOps — v1.0](https://dev.to/chetan_tekam_3500/linux-file-directory-operations-for-devops-v10-1jbb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
