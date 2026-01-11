@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a &quot;Remembering&quot; AI Trading Agent with Python, LangGraph, and Obsidian](https://dev.to/jiwoomap/building-a-remembering-ai-trading-agent-with-python-langgraph-and-obsidian-30hn)
-- [Building Scalable AI Agent Systems: Three Evolutions](https://dev.to/web3nomad/building-scalable-ai-agent-systems-three-evolutions-3ahe)
-- [ReactJS Design Pattern ~Context Selector~](https://dev.to/kkr0423/reactjs-design-pattern-context-selector-1730)
-- [Elara WynterBrook](https://dev.to/valery_havranek_37b3812ec/elara-wynterbrook-9a1)
-- [Carto: De una Factura a la ONU a Conquistar la Nube Geoespacial](https://dev.to/datalaria/carto-de-una-factura-a-la-onu-a-conquistar-la-nube-geoespacial-2d4b)
+- [Open WebUI: Self-Hosted LLM Interface](https://dev.to/rosgluk/open-webui-self-hosted-llm-interface-2jhc)
+- [The Engine Under the Hood: Go’s GMP, Java’s Locks, and Erlang’s Heaps](https://dev.to/ayush-k-anand/the-engine-under-the-hood-gos-gmp-javas-locks-and-erlangs-heaps-1lhi)
+- [Sector HQ Weekly Digest - January 11, 2026](https://dev.to/sectorhqco/sector-hq-weekly-digest-january-11-2026-4pd1)
+- [Mastering Interview Body Language Techniques: A Guide to Non-Verbal Communication](https://dev.to/vjnvisakh/mastering-interview-body-language-techniques-a-guide-to-non-verbal-communication-58nb)
+- [IT Audit and Training Services: Building Secure and Skilled IT Teams](https://dev.to/sansoft360/it-audit-and-training-services-building-secure-and-skilled-it-teams-4cc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
