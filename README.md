@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Inside a Scholarly Search Engine: Indexing, Ranking, and Retrieval](https://dev.to/sisodiajatin/inside-a-scholarly-search-engine-indexing-ranking-and-retrieval-pea)
 - [Polyfill - useEffect &lpar;React&rpar;](https://dev.to/zeeshanali0704/polyfill-useeffect-react-3dii)
+- [A fast, zero-dependency path alias resolver for Node.js](https://dev.to/mgv/a-fast-zero-dependency-path-alias-resolver-for-nodejs-pff)
+- [DOM Manipulation in JavaScript – Step by Step Guide](https://dev.to/manikanta_yarramsetti_7bc/dom-manipulation-in-javascript-step-by-step-guide-1p8f)
 - [It’s 2026: Stop Using AWS IAM and Start Using IAM Identity Center](https://dev.to/aws-builders/its-2026-stop-using-aws-iam-and-start-using-iam-identity-center-18f0)
-- [Unsafe Rust: When and Why](https://dev.to/godofgeeks/unsafe-rust-when-and-why-3nn9)
-- [How Virtual Threads Change the Way We Write Concurrent Java Code](https://dev.to/realnamehidden1_61/how-virtual-threads-change-the-way-we-write-concurrent-java-code-1plj)
-- [Building Interview prep ai](https://dev.to/shashank0701byte/building-interview-prep-ai-1bje)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
