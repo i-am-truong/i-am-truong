@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My Dashboard: как я превратил старые Android-устройства в кроссплатформенные дашборды с помощью AI и типобезопасного fullstack](https://dev.to/endykaufman/my-dashboard-kak-ia-prievratil-staryie-android-ustroistva-v-krossplatformiennyie-dashbordy-s-pomoshchiu-ai-1dh9)
+- [Creating Spotlight Tutorials in Flutter: The Complete Guide to Selective Overlays](https://dev.to/thanasistraitsis/creating-spotlight-tutorials-in-flutter-the-complete-guide-to-selective-overlays-4iil)
+- [Seeing the Web Like a User: Handling IP Reputation in Multi-Region Scraping](https://dev.to/anna_6c67c00f5c3f53660978/seeing-the-web-like-a-user-handling-ip-reputation-in-multi-region-scraping-1a9m)
+- [Automate Your GitHub Workflow with Gemini CLI](https://dev.to/gde/automate-your-github-workflow-with-gemini-cli-4p4e)
 - [Why Your AI Agents Need a Shell &lpar;And How to Give Them One Safely&rpar;](https://dev.to/salahpichen/why-your-ai-agents-need-a-shell-and-how-to-give-them-one-safely-3jj8)
-- [50+ Common Web Application Vulnerabilities Explained](https://dev.to/morrismoses149/50-common-web-application-vulnerabilities-explained-2mmn)
-- [The Invisible Hand That Fed Us](https://dev.to/adamthedeveloper/the-invisible-hand-that-fed-us-2pd2)
-- [Level 1 - Foundations #1. Client-Server Model](https://dev.to/himanshu_bhatt/level-1-foundations-1-client-server-model-f19)
-- [Modern KMP &lpar;Part 1&rpar;: The End of the &quot;404 Not Found&quot;2](https://dev.to/vldi01/modern-kmp-part-1-the-end-of-the-404-not-found2-39ca)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
