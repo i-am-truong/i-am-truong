@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes Services &amp; Ingress. project #1](https://dev.to/jumptotech/kubernetes-services-ingress-project-1-knl)
+- [Trimming Toil: Automating Repetitive Development Tasks](https://dev.to/prince_of_pasta/trimming-toil-automating-repetitive-development-tasks-59nk)
 - [The State of Quality 2026: Where to Find the Best SDET &amp; QA Roles](https://dev.to/hien_nguyen/the-state-of-quality-2026-where-to-find-the-best-sdet-qa-roles-4omg)
 - [The Creator&#39;s Paradox in the AI Era: How to Stay Generative When Everything Gets Scraped](https://dev.to/narnaiezzsshaa/the-creators-paradox-in-the-ai-era-how-to-stay-generative-when-everything-gets-scraped-2b89)
-- [AI is changing how we build software: here&#39;s how to do it safely](https://dev.to/colosl/ai-is-changing-how-we-build-software-heres-how-to-do-it-safely-3cf4)
-- [My Phone, Claude Code, and Me](https://dev.to/sijiaoh/my-phone-claude-code-and-me-373g)
-- [Automating Performance Engineering with Claude Code and New Relic MCP](https://dev.to/iamarsh/automating-performance-engineering-with-claude-code-and-new-relic-mcp-3j12)
+- [How My First Hacker News Launch Went &lpar;And What I Did About It&rpar;](https://dev.to/ddltodata/how-my-first-hacker-news-launch-went-and-what-i-did-about-it-40k9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
