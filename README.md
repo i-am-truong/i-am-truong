@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Brain of the Future Agent: Why VL-JEPA Matters for Real-World AI](https://dev.to/himanjan/the-brain-of-the-future-agent-why-vl-jepa-matters-for-real-world-ai-21no)
-- [I Exposed My $70 Kubernetes Cluster to the Internet &lpar;Without Opening a Single Port&rpar;](https://dev.to/bhargavmantha/i-exposed-my-70-kubernetes-cluster-to-the-internet-without-opening-a-single-port-nkk)
-- [Vibe coding: Time Zone Clock](https://dev.to/eseguru/vibe-coding-time-zone-clock-5bjc)
-- [Bug Bounty Hunting Guide 2026: From Zero to Paid Security Researcher](https://dev.to/krlz/bug-bounty-hunting-guide-2026-from-zero-to-paid-security-researcher-5c82)
-- [The Care and Feeding of Interrupt Handlers](https://dev.to/florent_herisson_691b0bac/the-care-and-feeding-of-interrupt-handlers-4gai)
+- [Real-Time is an SLA, Not an Architecture: When You Actually Need Kafka &lpar;And When You Don&#39;t&rpar;](https://dev.to/qvfagundes/real-time-is-an-sla-not-an-architecture-when-you-actually-need-kafka-and-when-you-dont-4ecb)
+- [PTSD as an adaptive program](https://dev.to/conniebaugher_fl/ptsd-as-an-adaptive-program-1n4o)
+- [How I Automated Database Seeding in CI/CD with One API Call](https://dev.to/ddltodata/postgresql-test-data-api-seed-your-database-in-cicd-207f)
+- [Generate PostgreSQL Test Data Without Code &lpar;Step-by-Step&rpar;](https://dev.to/ddltodata/generate-postgresql-test-data-without-code-step-by-step-459d)
+- [How to Generate Test Data for PostgreSQL &lpar;2 Methods&rpar;](https://dev.to/ddltodata/how-to-generate-test-data-for-postgresql-2-methods-557i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
