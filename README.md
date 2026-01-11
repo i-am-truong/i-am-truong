@@ -123,8 +123,8 @@ Python                   1 repo              █░░░░░░░░░░�
 - [Don&#39;t pull the entire dump if you only need a small piece](https://dev.to/__2131e9e/dont-pull-the-entire-dump-if-you-only-need-a-small-piece-2aka)
 - [Building With AI Made Me Realize How Often We Don’t Understand Our Own Code](https://dev.to/azrael654/building-with-ai-made-me-realize-how-often-we-dont-understand-our-own-code-45i0)
 - [Día Cero en Venezuela: Creando un Monitor Económico 24/7 con Python y Termux](https://dev.to/galp76/dia-cero-en-venezuela-creando-un-monitor-economico-247-con-python-y-termux-2l7p)
+- [The Non-Drinker&#39;s Guide to Clustering Algorithms 🎉](https://dev.to/sreeni5018/the-non-drinkers-guide-to-clustering-algorithms-np0)
 - [AWS Certified Generative AI Developer – Professional in 2 Weeks &lpar;Part 1: Exam Overview &amp; Foundations&rpar;](https://dev.to/makendrang/aws-certified-generative-ai-developer-professional-in-2-weeks-part-1-exam-overview--2p6a)
-- [AWS Certified Generative AI Developer – Professional in 2 Weeks &lpar;Part 2: Advanced Learning &amp; Exam Prep&rpar;](https://dev.to/makendrang/aws-certified-generative-ai-developer-professional-in-2-weeks-part-2-advanced-learning-exam-4d9o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
