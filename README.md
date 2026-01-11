@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Book Recommendation: Everyday Legal Strategies](https://dev.to/evanlin/book-recommendation-everyday-legal-strategies-42c1)
-- [[MOOC] Georgia Tech Language Institute - Week 4: Better Business Writing in English](https://dev.to/evanlin/mooc-georgia-tech-language-institute-week-4-better-business-writing-in-english-5b1e)
-- [Metaverse: Are You Ready for the Tech Giants&#39; Race and the Rise of Unlimited Opportunities?](https://dev.to/evanlin/metaverse-are-you-ready-for-the-tech-giants-race-and-the-rise-of-unlimited-opportunities-hj1)
-- [Using Google Cloud Services on Heroku with Golang](https://dev.to/evanlin/using-google-cloud-services-on-heroku-with-golang-395h)
-- [Book Sharing: History Matters - Lü Jie&#39;s Lecture](https://dev.to/evanlin/book-sharing-history-matters-lu-jies-lecture-abj)
+- [LINE Bot Developer Guide: Sending API Requests - Notes](https://dev.to/evanlin/line-bot-developer-guide-sending-api-requests-notes-49n8)
+- [Book Sharing: Life Begins at 40: What to Do Based on the Experiences of 10,000 People](https://dev.to/evanlin/book-sharing-life-begins-at-40-what-to-do-based-on-the-experiences-of-10000-people-3dkl)
+- [What&#39;s the Hardest Thing to Manage? - Silicon Valley VC&#39;s Management Wisdom](https://dev.to/evanlin/whats-the-hardest-thing-to-manage-silicon-valley-vcs-management-wisdom-5fkk)
+- [[Learning Notes] LINE Bot Developer Guide Explained - 4. LINE Login](https://dev.to/evanlin/learning-notes-line-bot-developer-guide-explained-4-line-login-39k6)
+- [LINE Bot Developer Guide: LINE Login &lpar;Supplement&rpar;](https://dev.to/evanlin/line-bot-developer-guide-line-login-supplement-47dd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
