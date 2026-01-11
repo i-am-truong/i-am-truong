@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Reliable RAG Systems](https://dev.to/sivarampg/building-reliable-rag-systems-6jb)
-- [The Perl Claude Agent](https://dev.to/lnation/the-perl-claude-agent-1ipk)
-- [Why My First Animation Blueprint Didn’t Work in Unreal Engine](https://dev.to/dinesh_04/why-my-first-animation-blueprint-didnt-work-in-unreal-engine-4g32)
-- [Day25: Design Smart. Spend Less. Scale Right. Because every cloud decision has a price tag](https://dev.to/ibbus/day25-design-smart-spend-less-scale-right-because-every-cloud-decision-has-a-price-tag-2mah)
-- [2026 and the Tech Behind Stablecoin Cards: NJTRX Observations](https://dev.to/njtrx/2026-and-the-tech-behind-stablecoin-cards-njtrx-observations-27b4)
+- [Building a Production-Ready Traffic Violation Detection System with Computer Vision](https://dev.to/harris_bashir_ac60ba5fff3/building-a-production-ready-traffic-violation-detection-system-with-computer-vision-3lae)
+- [AWS Terraform Blue-Green Deployment Using Elastic Beanstalk](https://dev.to/amit_kumar_7db8e36a64dd45/aws-terraform-blue-green-deployment-using-elastic-beanstalk-5647)
+- [Foundational Primitive Structure for Decentralized AI Trust Layer Infrastructure](https://dev.to/canonicalfunnel/foundational-primitive-structure-for-decentralized-ai-trust-layer-infrastructure-36m6)
+- [Turning Database Schemas into Diagrams &amp; Docs — Open for Early Feedback](https://dev.to/rushikesh_bodakhe_db28644/turning-database-schemas-into-diagrams-docs-open-for-early-feedback-5159)
+- [Why print&lpar;&rpar; Can Cause a TLE Even with an Efficient Algorithm](https://dev.to/yumyum116/why-print-can-cause-a-tle-even-with-an-efficient-algorithm-4f7e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
