@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [BootStrapping Aurora RDS Databases using Lambda and Terraform &lpar;Part 1&rpar;](https://dev.to/santanu_das/bootstrapping-aurora-rds-databases-using-lambda-and-terraform-part-1-493h)
-- [How I Built PrintableColoringKids.com Using AI, Programmatic SEO, and Automation](https://dev.to/omerbsh/how-i-built-printablecoloringkidscom-using-ai-programmatic-seo-and-automation-3mnn)
-- [Drawing a Houndstooth Pattern in CSS](https://dev.to/alvaromontoro/drawing-a-houndstooth-pattern-in-css-3ll2)
-- [AI Trading: Lesson Learned #129: Backtest Evaluation Bugs Discovered via Deep Research](https://dev.to/igorganapolsky/ai-trading-lesson-learned-129-backtest-evaluation-bugs-discovered-via-deep-research-lgg)
-- [5 Tools That Make Daily Standups Actually Async](https://dev.to/mattlewandowski93/5-tools-that-make-daily-standups-actually-async-48bg)
+- [The Brain of the Future Agent: Why VL-JEPA Matters for Real-World AI](https://dev.to/himanjan/the-brain-of-the-future-agent-why-vl-jepa-matters-for-real-world-ai-21no)
+- [I Exposed My $70 Kubernetes Cluster to the Internet &lpar;Without Opening a Single Port&rpar;](https://dev.to/bhargavmantha/i-exposed-my-70-kubernetes-cluster-to-the-internet-without-opening-a-single-port-nkk)
+- [Vibe coding: Time Zone Clock](https://dev.to/eseguru/vibe-coding-time-zone-clock-5bjc)
+- [Bug Bounty Hunting Guide 2026: From Zero to Paid Security Researcher](https://dev.to/krlz/bug-bounty-hunting-guide-2026-from-zero-to-paid-security-researcher-5c82)
+- [The Care and Feeding of Interrupt Handlers](https://dev.to/florent_herisson_691b0bac/the-care-and-feeding-of-interrupt-handlers-4gai)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
