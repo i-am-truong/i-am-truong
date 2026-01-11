@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Inside a Scholarly Search Engine: Indexing, Ranking, and Retrieval](https://dev.to/sisodiajatin/inside-a-scholarly-search-engine-indexing-ranking-and-retrieval-pea)
-- [Polyfill - useEffect &lpar;React&rpar;](https://dev.to/zeeshanali0704/polyfill-useeffect-react-3dii)
-- [A fast, zero-dependency path alias resolver for Node.js](https://dev.to/mgv/a-fast-zero-dependency-path-alias-resolver-for-nodejs-pff)
-- [DOM Manipulation in JavaScript – Step by Step Guide](https://dev.to/manikanta_yarramsetti_7bc/dom-manipulation-in-javascript-step-by-step-guide-1p8f)
-- [It’s 2026: Stop Using AWS IAM and Start Using IAM Identity Center](https://dev.to/aws-builders/its-2026-stop-using-aws-iam-and-start-using-iam-identity-center-18f0)
+- [Building Reliable RAG Systems](https://dev.to/sivarampg/building-reliable-rag-systems-6jb)
+- [The Perl Claude Agent](https://dev.to/lnation/the-perl-claude-agent-1ipk)
+- [Why My First Animation Blueprint Didn’t Work in Unreal Engine](https://dev.to/dinesh_04/why-my-first-animation-blueprint-didnt-work-in-unreal-engine-4g32)
+- [Day25: Design Smart. Spend Less. Scale Right. Because every cloud decision has a price tag](https://dev.to/ibbus/day25-design-smart-spend-less-scale-right-because-every-cloud-decision-has-a-price-tag-2mah)
+- [2026 and the Tech Behind Stablecoin Cards: NJTRX Observations](https://dev.to/njtrx/2026-and-the-tech-behind-stablecoin-cards-njtrx-observations-27b4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
