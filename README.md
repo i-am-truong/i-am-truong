@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Regulatory-Compliant Accessibility Scanner: From WCAG to Legal Compliance](https://dev.to/labontese/building-a-regulatory-compliant-accessibility-scanner-from-wcag-to-legal-compliance-38an)
+- [The Complete Guide to Prometheus Metric Types](https://dev.to/sunnynazar/the-complete-guide-to-prometheus-metric-types-promql-alerting-and-troubleshooting-5a69)
 - [Beyond &#39;Correct Horse Battery Staple&#39;: Passphrases in Inflected Languages](https://dev.to/tlipinski/beyond-correct-horse-battery-staple-passphrases-in-inflected-languages-1og4)
 - [Wallets Are the New Auth Layer](https://dev.to/laniyanabdulqawi/wallets-are-the-new-auth-layer-2pg5)
 - [An Introduction to Docker: Stop asking your stakeholders to install Postgres! 🚀](https://dev.to/franciscolunadev82/an-introduction-to-docker-stop-asking-your-stakeholders-to-install-postgres-2a57)
-- [Layered Architecture vs Feature Folders](https://dev.to/saber-amani/layered-architecture-vs-feature-folders-43lm)
-- [Stop using web search for every little thing in AI agents](https://dev.to/moshe_io/stop-using-web-search-for-every-little-thing-in-ai-agents-228e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
