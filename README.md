@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Core • Pod Lifecycle &amp; Health • Networking From DevOps Production &amp; Interview Perspective &lpar;6+ years&rpar;](https://dev.to/jumptotech/kubernetes-core-pod-lifecycle-health-networking-from-devops-production-interview-4eei)
-- [WatermarkX v1.0 – A Lightweight Offline Image Watermarking Tool Built with Python](https://dev.to/matetechnologie/watermarkx-v10-a-lightweight-offline-image-watermarking-tool-built-with-python-5f55)
-- [Wallet-as-a-Service as an Infrastructure Layer for Digital Products](https://dev.to/dan_keller/wallet-as-a-service-as-an-infrastructure-layer-for-digital-products-36d)
-- [Clean Code em PHP moderno.](https://dev.to/danielcamucatto/clean-code-em-php-moderno-a72)
-- [Flutter ECS: Mastering Async Operations and Complex Workflows](https://dev.to/flameofudun/flutter-ecs-mastering-async-operations-and-complex-workflows-463g)
+- [Beyond &#39;Correct Horse Battery Staple&#39;: Passphrases in Inflected Languages](https://dev.to/tlipinski/beyond-correct-horse-battery-staple-passphrases-in-inflected-languages-1og4)
+- [Wallets Are the New Auth Layer](https://dev.to/laniyanabdulqawi/wallets-are-the-new-auth-layer-2pg5)
+- [An Introduction to Docker: Stop asking your stakeholders to install Postgres! 🚀](https://dev.to/franciscolunadev82/an-introduction-to-docker-stop-asking-your-stakeholders-to-install-postgres-2a57)
+- [Layered Architecture vs Feature Folders](https://dev.to/saber-amani/layered-architecture-vs-feature-folders-43lm)
+- [Stop using web search for every little thing in AI agents](https://dev.to/moshe_io/stop-using-web-search-for-every-little-thing-in-ai-agents-228e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
