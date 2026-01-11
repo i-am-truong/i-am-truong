@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Solving my own real-world problem](https://dev.to/xmabry/solving-my-own-real-world-problem-2h9n)
+- [Publishing Pipeline v1.2.0 – backlinks and X support](https://dev.to/12ww1160/publishing-pipeline-v120-backlinks-and-x-support-1867)
+- [Stop Fighting Your Circuit Breaker: A Physics-Based Approach to Node.js Reliability](https://dev.to/laphilosophia/stop-fighting-your-circuit-breaker-a-physics-based-approach-to-nodejs-reliability-11il)
+- [Puppet with Foreman - Pilot](https://dev.to/12ww1160/puppet-with-foreman-pilot-2nip)
 - [Publishing Pipeline v1.1.0 – Dev.to Support and What Comes Next](https://dev.to/12ww1160/publishing-pipeline-v110-devto-support-and-what-comes-next-pem)
-- [𝗪𝗵𝘆 𝗔𝗜-𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗲𝗱 𝗖𝗼𝗱𝗲 𝗢𝗳𝘁𝗲𝗻 𝗟𝗼𝗼𝗸𝘀 “𝗖𝗼𝗺𝗽𝗹𝗲𝘁𝗲” — 𝗯𝘂𝘁 𝗜𝘀𝗻’𝘁—𝗮𝗻𝗱 𝘄𝗵𝘆 𝗜 𝗯𝘂𝗶𝗹𝘁 𝗔𝗜-𝗦𝗟𝗢𝗣 𝗗𝗲𝘁𝗲𝗰𝘁𝗼𝗿](https://dev.to/flamehaven01/--en3)
-- [The Great Escape: Why Developers Are Finally Ditching Windows for Linux](https://dev.to/ownlife/the-great-escape-why-developers-are-finally-ditching-windows-for-linux-3g7m)
-- [Glaucoma Awareness Month](https://dev.to/tatyanabayramova/glaucoma-awareness-month-363o)
-- [Automating AWS Security Scanning: Configuring Prowler on EC2 as a Cron Job to Detect Outdated AMIs](https://dev.to/rohan_khanal_e655b53e5810/automating-aws-security-scanning-configuring-prowler-on-ec2-as-a-cron-job-to-detect-outdated-amis-448f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
