@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [LangChain: Chains vs. Agents Webinar Notes](https://dev.to/evanlin/langchain-chains-vs-agents-webinar-notes-35jg)
-- [[LangChain] Potential Issues with LangChain Embeddings](https://dev.to/evanlin/langchain-potential-issues-with-langchain-embeddings-5dhd)
-- [Today I Learned: AI Safety and the Enlightenment Era](https://dev.to/evanlin/today-i-learned-ai-safety-and-the-enlightenment-era-4ef0)
-- [TIL: Notes on Knowledge Retrieval Architecture for LLMs &lpar;2023&rpar;](https://dev.to/evanlin/til-notes-on-knowledge-retrieval-architecture-for-llms-2023-3j4i)
-- [[TIL][Python] Python Tool for Online PDF Viewing, Comparison, and Data Import](https://dev.to/evanlin/tilpython-python-tool-for-online-pdf-viewing-comparison-and-data-import-29b4)
+- [Book Recommendation: Everyday Legal Strategies](https://dev.to/evanlin/book-recommendation-everyday-legal-strategies-42c1)
+- [[MOOC] Georgia Tech Language Institute - Week 4: Better Business Writing in English](https://dev.to/evanlin/mooc-georgia-tech-language-institute-week-4-better-business-writing-in-english-5b1e)
+- [Metaverse: Are You Ready for the Tech Giants&#39; Race and the Rise of Unlimited Opportunities?](https://dev.to/evanlin/metaverse-are-you-ready-for-the-tech-giants-race-and-the-rise-of-unlimited-opportunities-hj1)
+- [Using Google Cloud Services on Heroku with Golang](https://dev.to/evanlin/using-google-cloud-services-on-heroku-with-golang-395h)
+- [Book Sharing: History Matters - Lü Jie&#39;s Lecture](https://dev.to/evanlin/book-sharing-history-matters-lu-jies-lecture-abj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
