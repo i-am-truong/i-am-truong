@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Spent Hours Googling Port Forwarding. Then I Found Cloudflare Tunnel](https://dev.to/abdulm/i-spent-hours-googling-port-forwarding-then-i-found-cloudflare-tunnel-k03)
+- [Amazon S3 Vectors: When Your Data Lake Becomes Your Vector Store](https://dev.to/sujitha_rasamsetty/amazon-s3-vectors-when-your-data-lake-becomes-your-vector-store-3c2c)
+- [I Built 18 Free Developer Tools That Run 100% in Your Browser](https://dev.to/palak_kanani_91a94ad83646/i-built-18-free-developer-tools-that-run-100-in-your-browser-1h09)
+- [😲 Your Face is the Playlist: Building an Emotion-Aware Android App](https://dev.to/sisodiajatin/your-face-is-the-playlist-building-an-emotion-aware-android-app-4e6o)
 - [Generating alt texts using Gemini 3 Flash](https://dev.to/sarthakmishra/generating-alt-texts-using-gemini-3-flash-l1f)
-- [Building a Production-Ready Traffic Violation Detection System with Computer Vision](https://dev.to/harris_bashir_ac60ba5fff3/building-a-production-ready-traffic-violation-detection-system-with-computer-vision-3lae)
-- [Can AI Translate Technical Content into Indian Languages? Exploring Amazon Translate &lpar;English Marathi &amp; Hindi&rpar;](https://dev.to/vasil_shaikh_f2c13100cab1/can-ai-translate-technical-content-into-indian-languages-exploring-amazon-translate-english--1aa5)
-- [AWS Terraform Blue-Green Deployment Using Elastic Beanstalk](https://dev.to/amit_kumar_7db8e36a64dd45/aws-terraform-blue-green-deployment-using-elastic-beanstalk-5647)
-- [Rails 8 Strong Parameters: The Double-Bracket Fix for Nested Attributes](https://dev.to/sname/rails-8-strong-parameters-the-double-bracket-fix-for-nested-attributes-3cd3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
