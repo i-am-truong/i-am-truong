@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [**More Than a Bootcamp: Why I Chose the German &#39;Umschulung&#39; Path into Tech**](https://dev.to/alifunk/more-than-a-bootcamp-why-i-chose-the-german-umschulung-path-into-tech-20co)
 - [Building a 3D Map Application Using Mapterhorn Terrain Data](https://dev.to/mierune/building-a-3d-map-application-using-mapterhorn-terrain-data-elo)
 - [RAG Works — Until You Hit the Long Tail](https://dev.to/onepoint/rag-works-until-you-hit-the-long-tail-54lp)
 - [SaijinOS Part 20 — Trust as a Temporal Resource](https://dev.to/kato_masato_c5593c81af5c6/saijinos-part-20-trust-as-a-temporal-resource-2iho)
 - [From ChatGPT to Gemini: How We Built a GDPR-Compliant CV Parser for Odoo](https://dev.to/tderick/from-chatgpt-to-gemini-how-we-built-a-gdpr-compliant-cv-parser-for-odoo-nne)
-- [Help me, Localstack. You&#39;re my only hope.](https://dev.to/killallskywalker/help-me-localstack-youre-my-only-hope-54pk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
