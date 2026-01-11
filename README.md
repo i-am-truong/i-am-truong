@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Right way to vibe code that actually works](https://dev.to/singhdevhub/right-way-to-vibe-code-that-actually-works-3oah)
+- [From Math Teacher to Data Science &amp; Web Development: My Coding Journey#introduction #learning #webdev #python #datascience](https://dev.to/ahmedanterelsayed/from-math-teacher-to-data-science-web-development-my-coding-journeyintroduction-learning-4k58)
+- [The 5 Crypto Portfolio Secrets Nobody Tells You About](https://dev.to/anas_kayssi/the-5-crypto-portfolio-secrets-nobody-tells-you-about-33cj)
 - [Git worktree — Stop Stashing, Start Working in Parallel](https://dev.to/antonioaren/git-worktree-stop-stashing-start-working-in-parallel-3p17)
 - [The Dark Side of Startup Life in Hyderabad &lpar;My Honest Experience&rpar;](https://dev.to/vasughanta09/the-dark-side-of-startup-life-in-hyderabad-my-honest-experience-593d)
-- [Building Cryptographic Audit Trails for AI Trading Systems: A Deep Dive into RFC 6962-Based Verification](https://dev.to/veritaschain/building-cryptographic-audit-trails-for-ai-trading-systems-a-deep-dive-into-rfc-6962-based-6aa)
-- [2025 Voice AI Guide How to Make Your Own Real-Time Voice Agent &lpar;Part-3&rpar;](https://dev.to/programmerraja/2025-voice-ai-guide-how-to-make-your-own-real-time-voice-agent-part-3-3ocb)
-- [Week 0: Starting a 16-Week Journey to Platform Engineering](https://dev.to/jimmy-maina/week-0-starting-a-16-week-journey-to-platform-engineering-cei)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
