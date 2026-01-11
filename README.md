@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Joomla View Logs component v.2.3.0 has been released!](https://dev.to/sergeytolkachyov/joomla-view-logs-component-v230-has-been-released-4a36)
 - [My Dashboard: как я превратил старые Android-устройства в кроссплатформенные дашборды с помощью AI и типобезопасного fullstack](https://dev.to/endykaufman/my-dashboard-kak-ia-prievratil-staryie-android-ustroistva-v-krossplatformiennyie-dashbordy-s-pomoshchiu-ai-1dh9)
+- [[Boost]](https://dev.to/mebaddev/-13l5)
+- [Arduino vs STM32: When the Arduino Platform Becomes Limiting](https://dev.to/tomaszszewczyk/arduino-vs-stm32-when-the-arduino-platform-becomes-limiting-5e3l)
 - [Creating Spotlight Tutorials in Flutter: The Complete Guide to Selective Overlays](https://dev.to/thanasistraitsis/creating-spotlight-tutorials-in-flutter-the-complete-guide-to-selective-overlays-4iil)
-- [Seeing the Web Like a User: Handling IP Reputation in Multi-Region Scraping](https://dev.to/anna_6c67c00f5c3f53660978/seeing-the-web-like-a-user-handling-ip-reputation-in-multi-region-scraping-1a9m)
-- [Automate Your GitHub Workflow with Gemini CLI](https://dev.to/gde/automate-your-github-workflow-with-gemini-cli-4p4e)
-- [Why Your AI Agents Need a Shell &lpar;And How to Give Them One Safely&rpar;](https://dev.to/salahpichen/why-your-ai-agents-need-a-shell-and-how-to-give-them-one-safely-3jj8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
