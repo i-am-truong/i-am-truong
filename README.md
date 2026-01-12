@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [PART 1 — StatefulSet + Headless Service + Persistent Storage](https://dev.to/jumptotech/part-1-statefulset-headless-service-persistent-storage-2hfh)
+- [The Agent Control Plane: Why Intelligence Without Governance Is a Bug](https://dev.to/mosiddi/the-agent-control-plane-why-intelligence-without-governance-is-a-bug-5fij)
 - [Your &quot;Atomic&quot; Deploys Probably Aren&#39;t Atomic](https://dev.to/mojoatomic/your-atomic-deploys-probably-arent-atomic-3p7a)
-- [Why &quot;Ownership&quot; is the Best Certification: Building Infrastructure for an AWS Legend](https://dev.to/alifunk/why-ownership-is-the-best-certification-building-infrastructure-for-an-aws-legend-4nd5)
-- [The Underlying Process of Request Processing](https://dev.to/siy/the-underlying-process-of-request-processing-1od4)
-- [Observing Behavioral Anomalies in Web Applications Beyond Signature Scanners](https://dev.to/x0x7b/observing-behavioral-anomalies-in-web-applications-beyond-signature-scanners-g6p)
-- [Shift-Left Reliability](https://dev.to/rsionnach/shift-left-reliability-4poo)
+- [It&#39;s Time to Learn about Google TPUs in 2026](https://dev.to/dmitrevnik/its-time-to-learn-about-google-tpus-in-2026-5hde)
+- [Hello, Newbie Here.](https://dev.to/1adventureguy91/hello-newbie-here-31ni)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
