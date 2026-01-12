@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Week 14 – Custom Hooks, Finishing usePopcorn, and Learning How to Design Code](https://dev.to/usama_dev/week-14-custom-hooks-finishing-usepopcorn-and-learning-how-to-design-code-1hcb)
+- [A technical documentation to ultimate freedom in life](https://dev.to/alialp/a-technical-documentation-to-ultimate-freedom-in-life-5cn7)
 - [Why AI Agents Need Context Graphs &lpar;And How to Build One with AWS&rpar;](https://dev.to/aws/why-ai-agents-need-context-graphs-and-how-to-build-one-with-aws-5bng)
 - [10 Secret Tips That Make You Better at DSA](https://dev.to/akashpattnaik/10-secret-tips-that-make-you-better-at-dsa-4and)
 - [I built a free URL shortener with QR codes and click tracking — looking for feedback](https://dev.to/ivanjurina/i-built-a-free-url-shortener-with-qr-codes-and-click-tracking-looking-for-feedback-1ggb)
-- [How I stopped Claude Code from hallucinating on Day 4 &lpar;The &quot;Spec-Driven&quot; Workflow&rpar;](https://dev.to/samhath03/how-i-stopped-claude-code-from-hallucinating-on-day-4-the-spec-driven-workflow-3lim)
-- [🧭 Beginner-Friendly Guide &#39;Minimum Time Visiting All Points&#39; – LeetCode 1266 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-minimum-time-visiting-all-points-leetcode-1266-c-python-50ah)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
