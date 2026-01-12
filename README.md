@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Measuring What Matters: Adding Multiple Dimension Sets to AWS Lambda Powertools](https://dev.to/oyiz-michael/measuring-what-matters-adding-multiple-dimension-sets-to-aws-lambda-powertools-aob)
+- [Login with Google on an iPhone &lpar;Local Metro server + Dev Build&rpar; - Part 4/7: Google Cloud Console](https://dev.to/cathylai/login-with-google-on-an-iphone-local-metro-server-dev-build-part-47-google-cloud-console-2cdl)
 - [Day 1 of Learning Linux &amp; GitHub 🚀](https://dev.to/nishant_3f2db10bd69317399/day-1-of-learning-linux-github-1dj8)
 - [Transactional AI v0.2: Production-Ready with Full Observability](https://dev.to/grafikui/transactional-ai-v02-production-ready-with-full-observability-550h)
-- [A Real-World Serverless Appointment Booking Backend on AWS](https://dev.to/donhadley22/a-real-world-serverless-appointment-booking-backend-on-aws-dc4)
-- [LAB: ConfigMap &amp; Secret — From Developer Code to DevOps Troubleshooting](https://dev.to/jumptotech/lab-configmap-secret-from-developer-code-to-devops-troubleshooting-11ja)
-- [TWD Tip: Stub Auth0 Hooks and Mock React Modules](https://dev.to/kevinccbsg/twd-tip-stub-auth0-hooks-and-mock-react-modules-19b1)
+- [How I detect typosquatting attacks before npm install runs](https://dev.to/salta1414/how-i-detect-typosquatting-attacks-before-npm-install-runs-2e78)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
