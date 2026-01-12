@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Build Network Proxies and Reverse Proxies in Go: A Hands-On Guide](https://dev.to/jones_charles_ad50858dbc0/build-network-proxies-and-reverse-proxies-in-go-a-hands-on-guide-288j)
-- [System.CommandLine with Dependency Injection: A Complete Solution](https://dev.to/rushuiguan/systemcommandline-with-dependency-injection-a-complete-solution-128o)
-- [Why n8n Is Quietly Becoming a Power Tool for DevOps &amp; SRE Teams❓](https://dev.to/saharbat00l/why-n8n-is-quietly-becoming-a-power-tool-for-devops-sre-teams-4j14)
-- [Integration tests in Node.js with Mocha/Chai](https://dev.to/lucaspereiradesouzat/integration-tests-in-nodejs-with-mochachai-jim)
-- [Testes de integração em Node.js com Mocha/Chai](https://dev.to/lucaspereiradesouzat/testes-de-integracao-em-nodejs-com-mochachai-35ob)
+- [Chatbot Internationalization: i18n Implementation Guide](https://dev.to/chatboqai/chatbot-internationalization-i18n-implementation-guide-58h6)
+- [2026股票API对比：如何获取精准、及时的IPO数据](https://dev.to/stockfx/2026gu-piao-apidui-bi-ru-he-huo-qu-jing-zhun-ji-shi-de-iposhu-ju-f07)
+- [What Really Happens When an LLM Chooses the Next Token🤯](https://dev.to/louis7/what-really-happens-when-an-llm-chooses-the-next-token-19n7)
+- [Bank of America’s 4% Recommendation: When Wall Street’s Conservatives Raise the Crypto White Flag](https://dev.to/apnews/bank-of-americas-4-recommendation-when-wall-streets-conservatives-raise-the-crypto-white-flag-302h)
+- [Requirement to software Delivery in midsize comp CHEATSHEET](https://dev.to/softwarejutsu/requirement-to-software-delivery-in-midsize-comp-cheatsheet-2ci1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
