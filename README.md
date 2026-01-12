@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Self-Scheduling Recurring Cloud Tasks &lpar;with Terraform + Python code&rpar;](https://dev.to/charlottetowell/self-scheduling-recurring-cloud-tasks-with-terraform-python-code-50p9)
-- [Constrained Space, Better Code: MXCP &amp; Claude Skills](https://dev.to/alexzerntev/constrained-space-better-code-mxcp-claude-skills-4do9)
-- [How I Get Better UI from Claude: Research First, Build Second](https://dev.to/hassantayyab/how-i-get-better-ui-from-claude-research-first-build-second-12f)
-- [How I Designed an Enterprise RAG System Using AWS Bedrock, Pinecone &amp; Neo4j](https://dev.to/betty_waiyego_fcc7f34296e/how-i-designed-an-enterprise-rag-system-using-aws-bedrock-pinecone-neo4j-4kg9)
-- [The Future of Data Engineering: Trends to Watch in 2026 and Beyond](https://dev.to/ekta_makhija_8b9fa36c3555/the-future-of-data-engineering-trends-to-watch-in-2026-and-beyond-2ek2)
+- [Websockets with Socket.IO](https://dev.to/eachampagne/websockets-with-socketio-5edp)
+- [I built an AI tutor to learn GeoGuessr-style visual geography &lpar;not a solver&rpar;](https://dev.to/tunadev0/i-built-an-ai-tutor-to-learn-geoguessr-style-visual-geography-not-a-solver-2akl)
+- [Getting Started with ReactGrid in React: Building Your First Spreadsheet](https://dev.to/stackforgetx/getting-started-with-reactgrid-in-react-building-your-first-spreadsheet-1ha7)
+- [Ringer Movies: The 2026 Golden Globes: ‘One Battle After Another’ vs. ‘Hamnet’ Begins](https://dev.to/popcorn_movies/ringer-movies-the-2026-golden-globes-one-battle-after-another-vs-hamnet-begins-55l0)
+- [Mastering Django Image Migrations: Local to S3, CDNs, and Beyond!](https://dev.to/ajitkumar/mastering-django-image-migrations-local-to-s3-cdns-and-beyond-2kn7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
