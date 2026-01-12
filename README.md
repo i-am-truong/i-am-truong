@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Hybrid-Private RAG Platform on AWS: From Prototype to Production with Python](https://dev.to/edgarmilvus/building-a-hybrid-private-rag-platform-on-aws-from-prototype-to-production-with-python-f4h)
 - [Why Version Control Exists: The Pendrive Problem](https://dev.to/subhrangsu90/why-version-control-exists-the-pendrive-problem-d0)
 - [Inside SQLite: Naming files](https://dev.to/lovestaco/inside-sqlite-naming-files-4jka)
 - [I Bought a Robot Vacuum, Not a Cloud Spy](https://dev.to/alex_root_48dfe8afa393367/i-bought-a-robot-vacuum-not-a-cloud-spy-3978)
 - [Evolution of the Android Open Source Project: A Deep Dive](https://dev.to/dd8888/evolution-of-the-android-open-source-project-a-deep-dive-28lg)
-- [Beyond the Vibe-Check: Using Z3 Theorem Provers to Guardrail LLM Logic](https://dev.to/manisarmah/beyond-the-vibe-check-using-z3-theorem-provers-to-guardrail-llm-logic-46pi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
