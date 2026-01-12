@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building profiler0x0: An Arcade-Style GitHub Profile Analyzer That Doesn&#39;t Judge](https://dev.to/ackermannq/building-profiler0x0-an-arcade-style-github-profile-analyzer-that-doesnt-judge-hcp)
-- [How to Transcribe and Detect Intent Using Deepgram for STT: A Developer&#39;s Journey](https://dev.to/callstacktech/how-to-transcribe-and-detect-intent-using-deepgram-for-stt-a-developers-journey-621)
-- [How I Built a Healthcare Job Board with 8,295+ Listings Using Next.js and Supabase](https://dev.to/sathish_daggula/how-i-built-a-healthcare-job-board-with-8295-listings-using-nextjs-and-supabase-3e10)
-- [Error handling anti-patterns rules Claude-Mem codebase.](https://dev.to/ramunarasinga-11/error-handling-anti-patterns-rules-claude-mem-codebase-1edl)
-- [Q&amp;A on &quot;Why XLang Is an Innovative Programming Language&quot;](https://dev.to/canonical/qa-on-why-xlang-is-an-innovative-programming-language-3998)
+- [I Built a Desktop App to Supercharge My TMUX + Claude Code Workflow](https://dev.to/joe_re/i-built-a-desktop-app-to-supercharge-my-tmux-claude-code-workflow-521m)
+- [Agentic Coding Tools Are Accelerating Output, Not Velocity](https://dev.to/signadot/agentic-coding-tools-are-accelerating-output-not-velocity-51fc)
+- [OKAN KAPLAN SOUND LAB – Infinite Jazz Generator | Live Coding with JavaScript](https://dev.to/okan_kaplan_livehtml/okan-kaplan-sound-lab-infinite-jazz-generator-live-coding-with-javascript-3ifi)
+- [I tried to capture system audio in the browser. Here&#39;s what I learned.](https://dev.to/flo152121063061/i-tried-to-capture-system-audio-in-the-browser-heres-what-i-learned-1f99)
+- [SLMs and LLMs - A Devious Logic Puzzle Test](https://dev.to/ben-santora/slm-and-llm-logic-puzzle-test-n85)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
