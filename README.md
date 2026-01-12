@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Backend Security for Express.js &lpar;With Nginx + VPS&rpar;](https://dev.to/kmsaifullah/backend-security-for-expressjs-with-nginx-vps-4afm)
+- [Why do some songs only make sense after you’ve lived more?](https://dev.to/luca_dark_rnb/why-do-some-songs-only-make-sense-after-youve-lived-more-4h7l)
 - [From Novelty to Infrastructure: How 2025 AI Will Quietly Reshape Your Job](https://dev.to/aiwithapex/from-novelty-to-infrastructure-how-2025-ai-will-quietly-reshape-your-job-7c6)
 - [Dependency Rollercoaster: Navigating the NPM Theme Park](https://dev.to/mandy8055/dependency-rollercoaster-navigating-the-npm-theme-park-18g8)
 - [The Quiet Shift: Why My Browser Tab Now Stays on Gemini](https://dev.to/rgbos/the-quiet-shift-why-my-browser-tab-now-stays-on-gemini-32pe)
-- [🚨 AWS 132: Data Time Travel - RDS Snapshots and Restoration](https://dev.to/hritikraj8804/aws-132-data-time-travel-rds-snapshots-and-restoration-34eg)
-- [Why This Year Will Be Different](https://dev.to/branden-hernandez/why-this-year-will-be-different-35dc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
