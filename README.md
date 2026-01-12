@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Essential Patterns for Inter-Service Communication in Node.js Microservices](https://dev.to/jefersoneiji/essential-patterns-for-inter-service-communication-in-nodejs-microservices-an4)
-- [How to create your own Go static analyzer?](https://dev.to/pvsdev/how-to-create-your-own-go-static-analyzer-178c)
-- [I built a free JSON formatter tool &lpar;with $9 API option&rpar;](https://dev.to/mustapha_kamelalami_94ab/i-built-a-free-json-formatter-tool-with-9-api-option-9j2)
-- [Securing Your Environment Variables: A Proof-of-Concept Approach](https://dev.to/hejhdiss/securing-your-environment-variables-a-proof-of-concept-approach-1bh9)
-- [Building GeoAI Models: From Spatial Data to Actionable Insights](https://dev.to/kvishal1012/building-geoai-models-from-spatial-data-to-actionable-insights-2kn2)
+- [How to ask awesome questions as a dev &lpar;Without Dying of Imposter Syndrome&rpar;](https://dev.to/ishikajain/how-to-ask-awesome-questions-as-a-dev-without-dying-of-imposter-syndrome-1ndj)
+- [Load Balancing a Simple Static Site with Docker and Nginx: A Beginner&#39;s Journey](https://dev.to/niraj_maharjan/load-balancing-a-simple-static-site-with-docker-and-nginx-a-beginners-journey-4lkj)
+- [Building a Cleaner Projection Layer on Top of JPA Criteria API](https://dev.to/juliocmbueno/building-a-cleaner-projection-layer-on-top-of-jpa-criteria-api-3m7m)
+- [[Boost]](https://dev.to/j3ffjessie/-gd0)
+- [Why Learning Requires Patience](https://dev.to/memory_rush_5bb9305e1ab6d/why-learning-requires-patience-59ic)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
