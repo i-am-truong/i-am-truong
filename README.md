@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Desktop App to Supercharge My TMUX + Claude Code Workflow](https://dev.to/joe_re/i-built-a-desktop-app-to-supercharge-my-tmux-claude-code-workflow-521m)
-- [Agentic Coding Tools Are Accelerating Output, Not Velocity](https://dev.to/signadot/agentic-coding-tools-are-accelerating-output-not-velocity-51fc)
-- [OKAN KAPLAN SOUND LAB – Infinite Jazz Generator | Live Coding with JavaScript](https://dev.to/okan_kaplan_livehtml/okan-kaplan-sound-lab-infinite-jazz-generator-live-coding-with-javascript-3ifi)
-- [I tried to capture system audio in the browser. Here&#39;s what I learned.](https://dev.to/flo152121063061/i-tried-to-capture-system-audio-in-the-browser-heres-what-i-learned-1f99)
-- [SLMs and LLMs - A Devious Logic Puzzle Test](https://dev.to/ben-santora/slm-and-llm-logic-puzzle-test-n85)
+- [I built a spatial 3D knowledge graph with React Three Fiber &amp; Gemini AI 🌌](https://dev.to/dewtm/i-built-a-spatial-3d-knowledge-graph-with-react-three-fiber-gemini-ai-hpk)
+- [Amazon Nova 2 Multimodal Embeddings with Amazon S3 Vectors and AWS Java SDK - Part 1 Introduction](https://dev.to/aws-heroes/amazon-nova-2-multimodal-embeddings-with-amazon-s3-vectors-and-aws-java-sdk-part-1-introduction-2m6g)
+- [My 2026 Roadmap: How I’m Future-Proofing My Fullstack Career in the Age of AI](https://dev.to/aleks_fomin/my-2026-roadmap-how-im-future-proofing-my-fullstack-career-in-the-age-of-ai-3p5l)
+- [Tube-Code: Instantly Extract...](https://dev.to/shashank0701byte/tube-code-instantly-extract-5554)
+- [Vizora Beta Update: 6 Users in 48 Hours &lpar;and What I’m Learning&rpar;](https://dev.to/rushikesh_bodakhe_db28644/vizora-beta-update-6-users-in-48-hours-and-what-im-learning-1jde)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
