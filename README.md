@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Backend Security for Express.js &lpar;With Nginx + VPS&rpar;](https://dev.to/kmsaifullah/backend-security-for-expressjs-with-nginx-vps-4afm)
-- [Why do some songs only make sense after you’ve lived more?](https://dev.to/luca_dark_rnb/why-do-some-songs-only-make-sense-after-youve-lived-more-4h7l)
-- [From Novelty to Infrastructure: How 2025 AI Will Quietly Reshape Your Job](https://dev.to/aiwithapex/from-novelty-to-infrastructure-how-2025-ai-will-quietly-reshape-your-job-7c6)
-- [Dependency Rollercoaster: Navigating the NPM Theme Park](https://dev.to/mandy8055/dependency-rollercoaster-navigating-the-npm-theme-park-18g8)
-- [The Quiet Shift: Why My Browser Tab Now Stays on Gemini](https://dev.to/rgbos/the-quiet-shift-why-my-browser-tab-now-stays-on-gemini-32pe)
+- [Devs should use AI for operations and let them focus on new ideas.](https://dev.to/jaideepparashar/devs-should-use-ai-for-operations-and-let-them-focus-on-new-ideas-4a97)
+- [AI for operations: remove friction, not people](https://dev.to/jaideepparashar/ai-for-operations-remove-friction-not-people-1jj9)
+- [Smart Contract Security 101 — Reentrancy &amp; Common AI‑Generated Mistakes](https://dev.to/ribhavmodi/smart-contract-security-101-reentrancy-common-ai-generated-mistakes-1pfb)
+- [Hashicorp Vault: Transit Secrets Engine](https://dev.to/admantium/hashicorp-vault-transit-secrets-engine-2kam)
+- [Why Version Control Exists: The Pen Drive Problem](https://dev.to/anoop-rajoriya/why-version-control-exists-the-pen-drive-problem-327c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
