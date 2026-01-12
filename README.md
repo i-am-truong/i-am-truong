@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [MCP Connect](https://dev.to/lminuti/mcp-connect-566p)
-- [Why I’m Telling Junior Developers to Stop Learning Frameworks in 2026](https://dev.to/sandipyadav/why-im-telling-junior-developers-to-stop-learning-frameworks-in-2026-1c8d)
-- [Maintaining and Cleaning High Quality Premium Wallpapers](https://dev.to/wallpapermural/maintaining-and-cleaning-high-quality-premium-wallpapers-1gf2)
-- [Perl 🐪 Weekly #755 - Does TIOBE help Perl?](https://dev.to/szabgab/perl-weekly-755-does-tiobe-help-perl-a4b)
-- [A Simple Guide to a Faster Site](https://dev.to/roman_musin_1914fd4e7636f/a-simple-guide-to-a-faster-site-a6p)
+- [Code Review Guidelines for Modern Development Teams](https://dev.to/yeahiasarker/code-review-guidelines-for-modern-development-teams-i3m)
+- [Problem 9: Most Frequent Element](https://dev.to/highcenburg/problem-9-most-frequent-element-3pdh)
+- [MCPConnect &lpar;EN&rpar;](https://dev.to/lminuti/mcpconnect-en-2e37)
+- [Putting the CD Back into CI/CD: A Guide to Continuous Deployment](https://dev.to/audaciatechnology/putting-the-cd-back-into-cicd-a-guide-to-continuous-deployment-174o)
+- [Generative AI in FinTech: Use Cases, Implementation, and Helpful Hints](https://dev.to/yuliyamelnik/generative-ai-in-fintech-use-cases-implementation-and-helpful-hints-fc8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
