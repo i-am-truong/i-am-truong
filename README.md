@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mental Health Website](https://dev.to/preetha_vaishnavi_2b82358/mental-health-website-29hf)
-- [How I built a &quot;Magic Move&quot; animation engine for Excalidraw from scratch published](https://dev.to/behruamm/how-i-built-a-magic-move-animation-engine-for-excalidraw-from-scratch-published-4lmp)
-- [Real-World Error Handling in Distributed Systems](https://dev.to/saber-amani/real-world-error-handling-in-distributed-systems-3pm3)
-- [Meta-DAG: Why AI Ethics Failed as Engineering — and What I Built Instead](https://dev.to/alan_tsai_00dbd905e668f74/meta-dag-why-ai-ethics-failed-as-engineering-and-what-i-built-instead-55po)
-- [Smart Contracts on Midnight: Programming Visibility, Not Storage](https://dev.to/henry_odinakachukwu_c5987/smart-contracts-on-midnight-programming-visibility-not-storage-3h3n)
+- [How I Would Learn Web3 From Scratch Today &lpar;Without Wasting a Year&rpar;](https://dev.to/tanelith/how-i-would-learn-web3-from-scratch-today-without-wasting-a-year-kf)
+- [Run `gh` Command in Claude Code on the Web](https://dev.to/oikon/run-gh-command-in-claude-code-on-the-web-2kp3)
+- [Theneo vs Redocly vs ReadMe vs Mintlify: Which API Documentation Platform is Best for Your Team?](https://dev.to/arobakid/theneo-vs-redocly-vs-readme-vs-mintlify-which-api-documentation-platform-is-best-for-your-team-1pp1)
+- [Neuron AI Laravel SDK](https://dev.to/inspector/neuron-ai-laravel-sdk-27lm)
+- [I Gave My AI Agent 2,700 Blocks and Took Away Its Keyboard](https://dev.to/lbwasserman/i-gave-my-ai-agent-2700-blocks-and-took-away-its-keyboard-41g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
