@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Thought I Understood Python Functions — Until One Line Returned None](https://dev.to/emmimal_alexander_3be8cc7/i-thought-i-understood-python-functions-until-one-line-returned-none-447j)
+- [What Building a Simple E-commerce Cart Taught Me About Senior Laravel Engineering](https://dev.to/ojsholly/what-building-a-simple-e-commerce-cart-taught-me-about-senior-laravel-engineering-30m6)
+- [Avoid the Personal vs. Business Trap: Picking the Right Connector Every Time](https://dev.to/balagmadhu/avoid-the-personal-vs-business-trap-picking-the-right-connector-every-time-5foo)
 - [How to Store Chat History Using External Storage in Microsoft Agent Framework](https://dev.to/willvelida/how-to-store-chat-history-using-external-storage-in-microsoft-agent-framework-3io2)
 - [How Not to Self-Reject Before You Even Try](https://dev.to/yoditdevn8n/how-not-to-self-reject-before-you-even-try-7ka)
-- [Why I Benchmarked 1,000+ Hosting Providers Using a Mathematical Formula &lpar;and why most reviews are wrong&rpar;](https://dev.to/techjournal/why-i-benchmarked-1000-hosting-providers-using-a-mathematical-formula-and-why-most-reviews-are-5edk)
-- [How Programmers Are Falling Into the AI Trap](https://dev.to/farhadrahimiklie/how-programmers-are-falling-into-the-ai-trap-ahg)
-- [How to protect server functions with auth middleware in TanStack Start](https://dev.to/hirotoshioi/how-to-protect-server-functions-with-auth-middleware-in-tanstack-start-opj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
