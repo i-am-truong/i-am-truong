@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Would Learn Web3 From Scratch Today &lpar;Without Wasting a Year&rpar;](https://dev.to/tanelith/how-i-would-learn-web3-from-scratch-today-without-wasting-a-year-kf)
-- [Run `gh` Command in Claude Code on the Web](https://dev.to/oikon/run-gh-command-in-claude-code-on-the-web-2kp3)
-- [Theneo vs Redocly vs ReadMe vs Mintlify: Which API Documentation Platform is Best for Your Team?](https://dev.to/arobakid/theneo-vs-redocly-vs-readme-vs-mintlify-which-api-documentation-platform-is-best-for-your-team-1pp1)
-- [Neuron AI Laravel SDK](https://dev.to/inspector/neuron-ai-laravel-sdk-27lm)
-- [I Gave My AI Agent 2,700 Blocks and Took Away Its Keyboard](https://dev.to/lbwasserman/i-gave-my-ai-agent-2700-blocks-and-took-away-its-keyboard-41g)
+- [Essential Patterns for Inter-Service Communication in Node.js Microservices](https://dev.to/jefersoneiji/essential-patterns-for-inter-service-communication-in-nodejs-microservices-an4)
+- [How to create your own Go static analyzer?](https://dev.to/pvsdev/how-to-create-your-own-go-static-analyzer-178c)
+- [I built a free JSON formatter tool &lpar;with $9 API option&rpar;](https://dev.to/mustapha_kamelalami_94ab/i-built-a-free-json-formatter-tool-with-9-api-option-9j2)
+- [Securing Your Environment Variables: A Proof-of-Concept Approach](https://dev.to/hejhdiss/securing-your-environment-variables-a-proof-of-concept-approach-1bh9)
+- [Building GeoAI Models: From Spatial Data to Actionable Insights](https://dev.to/kvishal1012/building-geoai-models-from-spatial-data-to-actionable-insights-2kn2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
