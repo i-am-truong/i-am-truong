@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Version Control Exists: The Pendrive Problem](https://dev.to/subhrangsu90/why-version-control-exists-the-pendrive-problem-d0)
 - [Inside SQLite: Naming files](https://dev.to/lovestaco/inside-sqlite-naming-files-4jka)
+- [I Bought a Robot Vacuum, Not a Cloud Spy](https://dev.to/alex_root_48dfe8afa393367/i-bought-a-robot-vacuum-not-a-cloud-spy-3978)
 - [Evolution of the Android Open Source Project: A Deep Dive](https://dev.to/dd8888/evolution-of-the-android-open-source-project-a-deep-dive-28lg)
-- [You can&#39;t trust Images anymore](https://dev.to/shuckle_xd/you-cant-trust-images-anymore-58jh)
-- [Complete Guide: Deploying a Laravel + React Application on Kubernetes with Minikube](https://dev.to/vishwapratapsingh90/complete-guide-deploying-a-laravel-react-application-on-kubernetes-with-minikube-976)
-- [A Mnemonic That Finally Makes for…in vs for…of Stick](https://dev.to/mahlongumbs/a-mnemonic-that-finally-makes-forin-vs-forof-stick-eoj)
+- [Beyond the Vibe-Check: Using Z3 Theorem Provers to Guardrail LLM Logic](https://dev.to/manisarmah/beyond-the-vibe-check-using-z3-theorem-provers-to-guardrail-llm-logic-46pi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
