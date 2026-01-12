@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a spatial 3D knowledge graph with React Three Fiber &amp; Gemini AI 🌌](https://dev.to/dewtm/i-built-a-spatial-3d-knowledge-graph-with-react-three-fiber-gemini-ai-hpk)
-- [Amazon Nova 2 Multimodal Embeddings with Amazon S3 Vectors and AWS Java SDK - Part 1 Introduction](https://dev.to/aws-heroes/amazon-nova-2-multimodal-embeddings-with-amazon-s3-vectors-and-aws-java-sdk-part-1-introduction-2m6g)
-- [My 2026 Roadmap: How I’m Future-Proofing My Fullstack Career in the Age of AI](https://dev.to/aleks_fomin/my-2026-roadmap-how-im-future-proofing-my-fullstack-career-in-the-age-of-ai-3p5l)
-- [Tube-Code: Instantly Extract...](https://dev.to/shashank0701byte/tube-code-instantly-extract-5554)
-- [Vizora Beta Update: 6 Users in 48 Hours &lpar;and What I’m Learning&rpar;](https://dev.to/rushikesh_bodakhe_db28644/vizora-beta-update-6-users-in-48-hours-and-what-im-learning-1jde)
+- [🧭 Beginner-Friendly Guide &#39;Minimum Time Visiting All Points&#39; – LeetCode 1266 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-minimum-time-visiting-all-points-leetcode-1266-c-python-50ah)
+- [If you’re preparing for a software developer interview in 2026, this guide breaks down exactly how modern software engineering interviews work, so you can follow a clear developer interview preparation roadmap and crack your next interview with confidence.](https://dev.to/hadil/if-youre-preparing-for-a-software-developer-interview-in-2026-this-guide-breaks-down-exactly-how-9eh)
+- [I built an agent that turns customer calls into Linear tickets](https://dev.to/toriseidenstein/i-built-an-agent-that-turns-customer-calls-into-linear-tickets-39mc)
+- [Seeking Peer Connections for CodeChat P2P Testing](https://dev.to/bingkahu/seeking-peer-connections-for-codechat-p2p-testing-4inh)
+- [Find All Duplicate Elements in an Array &lpar;C++&rpar;](https://dev.to/nithya_dharshiniofficial/find-all-duplicate-elements-in-an-array-c-p19)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
