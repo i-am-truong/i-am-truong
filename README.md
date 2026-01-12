@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Chatbot Internationalization: i18n Implementation Guide](https://dev.to/chatboqai/chatbot-internationalization-i18n-implementation-guide-58h6)
-- [2026股票API对比：如何获取精准、及时的IPO数据](https://dev.to/stockfx/2026gu-piao-apidui-bi-ru-he-huo-qu-jing-zhun-ji-shi-de-iposhu-ju-f07)
-- [What Really Happens When an LLM Chooses the Next Token🤯](https://dev.to/louis7/what-really-happens-when-an-llm-chooses-the-next-token-19n7)
-- [Bank of America’s 4% Recommendation: When Wall Street’s Conservatives Raise the Crypto White Flag](https://dev.to/apnews/bank-of-americas-4-recommendation-when-wall-streets-conservatives-raise-the-crypto-white-flag-302h)
-- [Requirement to software Delivery in midsize comp CHEATSHEET](https://dev.to/softwarejutsu/requirement-to-software-delivery-in-midsize-comp-cheatsheet-2ci1)
+- [Introduction to DevOps #4. What Problems DevOps Solves](https://dev.to/himanshu_bhatt/introduction-to-devops-4-what-problems-devops-solves-177g)
+- [VScode 的自動執行機制--Tasks](https://dev.to/codemee/vscode-de-zi-dong-zhi-xing-ji-zhi-tasks-387j)
+- [How to Add Adjacency-Aware Contextual Targeting to Prebid in 15 Minutes](https://dev.to/mixpeek/how-to-add-adjacency-aware-contextual-targeting-to-prebid-in-15-minutes-3342)
+- [Week 4 Firewall Labs: 4 Production-Ready Firewall Scenarios with iptables](https://dev.to/fosres/master-iptables-security-4-production-ready-firewall-scenarios-860)
+- [From Copilot to Autonomous AI: The Evolution of AI-Assisted Programming](https://dev.to/eva_clari_289d85ecc68da48/from-copilot-to-autonomous-ai-the-evolution-of-ai-assisted-programming-2n8k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
