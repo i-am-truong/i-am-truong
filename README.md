@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Week 14 – Custom Hooks, Finishing usePopcorn, and Learning How to Design Code](https://dev.to/usama_dev/week-14-custom-hooks-finishing-usepopcorn-and-learning-how-to-design-code-1hcb)
-- [A technical documentation to ultimate freedom in life](https://dev.to/alialp/a-technical-documentation-to-ultimate-freedom-in-life-5cn7)
-- [Why AI Agents Need Context Graphs &lpar;And How to Build One with AWS&rpar;](https://dev.to/aws/why-ai-agents-need-context-graphs-and-how-to-build-one-with-aws-5bng)
-- [10 Secret Tips That Make You Better at DSA](https://dev.to/akashpattnaik/10-secret-tips-that-make-you-better-at-dsa-4and)
-- [I built a free URL shortener with QR codes and click tracking — looking for feedback](https://dev.to/ivanjurina/i-built-a-free-url-shortener-with-qr-codes-and-click-tracking-looking-for-feedback-1ggb)
+- [`XmlFluentValidator`: Code-First XML Validation That Stays Close to Your Rules](https://dev.to/iamrzr/xmlfluentvalidator-code-first-xml-validation-that-stays-close-to-your-rules-3mj6)
+- [I Almost Fell for a “Last Wish” Scam : Here’s What You Need to Know](https://dev.to/om_shree_0709/i-almost-fell-for-a-last-wish-scam-heres-what-you-need-to-know-4g4i)
+- [[Boost]](https://dev.to/elizabethfuentes12/-4gd8)
+- [A Procedural Terrain Adventure in Unity pt.1](https://dev.to/dbarrass/a-procedural-terrain-adventure-in-unity-pt1-3gmm)
+- [No Kotlin? No Problem. How I shipped Android Apps using React &amp; Capacitor](https://dev.to/hsr88/no-kotlin-no-problem-how-i-shipped-android-apps-using-react-capacitor-9ja)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
