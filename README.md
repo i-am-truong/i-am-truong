@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Smart Coding vs Vibe Coding: Engineering Discipline in the Age of AI](https://dev.to/kolkov/smart-coding-vs-vibe-coding-engineering-discipline-in-the-age-of-ai-5b20)
 - [PART 1 — StatefulSet + Headless Service + Persistent Storage](https://dev.to/jumptotech/part-1-statefulset-headless-service-persistent-storage-2hfh)
 - [The Agent Control Plane: Why Intelligence Without Governance Is a Bug](https://dev.to/mosiddi/the-agent-control-plane-why-intelligence-without-governance-is-a-bug-5fij)
 - [Your &quot;Atomic&quot; Deploys Probably Aren&#39;t Atomic](https://dev.to/mojoatomic/your-atomic-deploys-probably-arent-atomic-3p7a)
 - [It&#39;s Time to Learn about Google TPUs in 2026](https://dev.to/dmitrevnik/its-time-to-learn-about-google-tpus-in-2026-5hde)
-- [Hello, Newbie Here.](https://dev.to/1adventureguy91/hello-newbie-here-31ni)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
