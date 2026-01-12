@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Nature’s View — A Responsive Website Using HTML, CSS &amp; JavaScript](https://dev.to/hopewell_mahlombe_f5d82ba/building-natures-view-a-responsive-website-using-html-css-javascript-4hnl)
-- [Built API Stress Lab after my startup crashed on launch day](https://dev.to/shadullah_sartajsyed_800/built-api-stress-lab-after-my-startup-crashed-on-launch-day-3kpk)
-- [Why Your Secret Sharing Tool Needs Post-Quantum Cryptography Today](https://dev.to/whaaat_9819bdb68eccf5b8a/why-your-secret-sharing-tool-needs-post-quantum-cryptography-today-20j3)
-- [The 3 Most Common .env Leaks &lpar;and How to Prevent Them&rpar;](https://dev.to/joerucci/the-3-most-common-env-leaks-and-how-to-prevent-them-2omc)
-- [C#.NET - day 07](https://dev.to/sabin_sim/cnet-day-07-48f4)
+- [Why &quot;Ownership&quot; is the Best Certification: Building Infrastructure for an AWS Legend](https://dev.to/alifunk/why-ownership-is-the-best-certification-building-infrastructure-for-an-aws-legend-4nd5)
+- [The Underlying Process of Request Processing](https://dev.to/siy/the-underlying-process-of-request-processing-1od4)
+- [Observing Behavioral Anomalies in Web Applications Beyond Signature Scanners](https://dev.to/x0x7b/observing-behavioral-anomalies-in-web-applications-beyond-signature-scanners-g6p)
+- [Shift-Left Reliability](https://dev.to/rsionnach/shift-left-reliability-4poo)
+- [Claude Code Must-Haves - January 2026](https://dev.to/valgard/claude-code-must-haves-january-2026-kem)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
