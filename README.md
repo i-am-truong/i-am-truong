@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Websockets with Socket.IO](https://dev.to/eachampagne/websockets-with-socketio-5edp)
-- [I built an AI tutor to learn GeoGuessr-style visual geography &lpar;not a solver&rpar;](https://dev.to/tunadev0/i-built-an-ai-tutor-to-learn-geoguessr-style-visual-geography-not-a-solver-2akl)
-- [Getting Started with ReactGrid in React: Building Your First Spreadsheet](https://dev.to/stackforgetx/getting-started-with-reactgrid-in-react-building-your-first-spreadsheet-1ha7)
-- [Ringer Movies: The 2026 Golden Globes: ‘One Battle After Another’ vs. ‘Hamnet’ Begins](https://dev.to/popcorn_movies/ringer-movies-the-2026-golden-globes-one-battle-after-another-vs-hamnet-begins-55l0)
-- [Mastering Django Image Migrations: Local to S3, CDNs, and Beyond!](https://dev.to/ajitkumar/mastering-django-image-migrations-local-to-s3-cdns-and-beyond-2kn7)
+- [Explain Basic AI Concepts And Terminologies](https://dev.to/aws-builders/explain-basic-ai-concepts-and-terminologies-2fgc)
+- [How to Scrape Google AI Mode Using Python](https://dev.to/darshan_sd/how-to-scrape-google-ai-mode-using-python-184i)
+- [The Importance of Pixel Art for Developers](https://dev.to/jaylinjones0/the-importance-of-pixel-art-for-developers-1gd6)
+- [Code ownership is not “please fix this for me”](https://dev.to/mtzanida/code-ownership-is-not-please-fix-this-for-me-488h)
+- [Understanding Stateful Functions Through JavaScript Closures](https://dev.to/jaboarnoldlandry/understanding-stateful-functions-through-javascript-closures-1f97)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
