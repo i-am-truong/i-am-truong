@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Explain Basic AI Concepts And Terminologies](https://dev.to/aws-builders/explain-basic-ai-concepts-and-terminologies-2fgc)
-- [How to Scrape Google AI Mode Using Python](https://dev.to/darshan_sd/how-to-scrape-google-ai-mode-using-python-184i)
-- [The Importance of Pixel Art for Developers](https://dev.to/jaylinjones0/the-importance-of-pixel-art-for-developers-1gd6)
-- [Code ownership is not “please fix this for me”](https://dev.to/mtzanida/code-ownership-is-not-please-fix-this-for-me-488h)
-- [Understanding Stateful Functions Through JavaScript Closures](https://dev.to/jaboarnoldlandry/understanding-stateful-functions-through-javascript-closures-1f97)
+- [Flutter Is Becoming the Industrial UI Standard](https://dev.to/lubo08/flutter-is-becoming-the-industrial-ui-standard-1if4)
+- [Queue System](https://dev.to/preetha_vaishnavi_2b82358/queue-system-37eo)
+- [Guide to get started with Retrieval-Augmented Generation &lpar;RAG&rpar;](https://dev.to/sunny7899/guide-to-get-started-with-retrieval-augmented-generation-rag-16m8)
+- [Contextual Inference with Generative AI: Turning Messy Notes into Professional Meeting Minutes](https://dev.to/faraz_farhan_83ed23a154a2/contextual-inference-with-generative-ai-turning-messy-notes-into-professional-meeting-minutes-599o)
+- [How to install mmcv in an Npu Enviroment](https://dev.to/goinghan/how-to-install-mmcv-in-an-npu-enviroment-359n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
