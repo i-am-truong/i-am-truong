@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Data Poisoning as Mythic Corruption: How Attackers Taint the Well of AI](https://dev.to/narnaiezzsshaa/data-poisoning-as-mythic-corruption-how-attackers-taint-the-well-of-ai-i9g)
-- [First Test of Java on the Orange Pi &lpar;ARM and RISC-V&rpar;](https://dev.to/fdelporte/first-test-of-java-on-the-orange-pi-arm-and-risc-v-53bg)
-- [The `/context` Command: X-Ray Vision for Your Tokens](https://dev.to/rajeshroyal/the-context-command-x-ray-vision-for-your-tokens-4n03)
-- [Building Voice Trainer: a tiny, local‑first pitch analysis tool for gender‑affirming voice practice](https://dev.to/codebunny20/building-voice-trainer-a-tiny-local-first-pitch-analysis-tool-for-gender-affirming-voice-practice-23a0)
-- [From Moths to Microservices: A Comprehensive History of Coding: Part 1](https://dev.to/bingkahu/from-moths-to-microservices-a-comprehensive-history-of-coding-part-1-3a51)
+- [Complete Guide: Deploying a Laravel + React Application on Kubernetes with Minikube](https://dev.to/vishwapratapsingh90/complete-guide-deploying-a-laravel-react-application-on-kubernetes-with-minikube-976)
+- [A Mnemonic That Finally Makes for…in vs for…of Stick](https://dev.to/mahlongumbs/a-mnemonic-that-finally-makes-forin-vs-forof-stick-eoj)
+- [The Linux Power User Handbook: From Daily Driver to Productivity Machine](https://dev.to/md8_habibullah/the-linux-power-user-handbook-from-daily-driver-to-productivity-machine-gh3)
+- [The Vibe Coding Paradox: 5 Surprising Truths About the AI Revolution in Software](https://dev.to/gde/the-vibe-coding-paradox-5-surprising-truths-about-the-ai-revolution-in-software-3f5k)
+- [Odoo Core and the Cost of Reinventing Everything](https://dev.to/bogaboga1/odoo-core-and-the-cost-of-reinventing-everything-15n1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
