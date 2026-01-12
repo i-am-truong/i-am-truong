@@ -120,13 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Testing in the Age of AI Agents: How I Kept QA from Collapsing](https://dev.to/wintrover/testing-in-the-age-of-ai-agents-how-i-kept-qa-from-collapsing-3agg)
-- [Power Apps- Moving Away From Inline Code](https://dev.to/wyattdave/power-apps-moving-away-from-inline-code-11ma)
-- [The Hidden Cost of Global Stores in Vue &lpar;and When They’re Still Worth It&rpar;](https://dev.to/jacobandrewsky/the-hidden-cost-of-global-stores-in-vue-and-when-theyre-still-worth-it-4c2p)
-- [An array is a row of boxes.
-Each box holds a value.
-Each box has a number.](https://dev.to/highcenburg/an-array-is-a-row-of-boxeseach-box-holds-a-valueeach-box-has-a-number-53n0)
-- [Proyecto Weather Service &lpar;Parte 1&rpar;: Construyendo el Recolector de Datos con Python y GitHub Actions o Netlify](https://dev.to/datalaria/proyecto-weather-service-parte-1-construyendo-el-recolector-de-datos-con-python-y-github-actions-5ekm)
+- [How to Store Chat History Using External Storage in Microsoft Agent Framework](https://dev.to/willvelida/how-to-store-chat-history-using-external-storage-in-microsoft-agent-framework-3io2)
+- [How Not to Self-Reject Before You Even Try](https://dev.to/yoditdevn8n/how-not-to-self-reject-before-you-even-try-7ka)
+- [Why I Benchmarked 1,000+ Hosting Providers Using a Mathematical Formula &lpar;and why most reviews are wrong&rpar;](https://dev.to/techjournal/why-i-benchmarked-1000-hosting-providers-using-a-mathematical-formula-and-why-most-reviews-are-5edk)
+- [How Programmers Are Falling Into the AI Trap](https://dev.to/farhadrahimiklie/how-programmers-are-falling-into-the-ai-trap-ahg)
+- [How to protect server functions with auth middleware in TanStack Start](https://dev.to/hirotoshioi/how-to-protect-server-functions-with-auth-middleware-in-tanstack-start-opj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
