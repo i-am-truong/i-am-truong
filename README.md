@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Your AI Assistant Will Soon Complete Purchases Without You](https://dev.to/ownlife/why-your-ai-assistant-will-soon-complete-purchases-without-you-222g)
+- [Authentication Strategies in Node.js: JWT, OAuth, and Sessions](https://dev.to/addwebsolutionpvtltd/authentication-strategies-in-nodejs-jwt-oauth-and-sessions-3k8j)
 - [Clean Code Is a Communication Tool, Not a Style Preference](https://dev.to/wmdn9116/clean-code-is-a-communication-tool-not-a-style-preference-1b9p)
 - [Admin-Only Dashboard Rule of Thumb](https://dev.to/msnmongare/admin-only-dashboard-rule-of-thumb-3hhl)
 - [🚀 Building a Modern PHP Microservices Architecture with Docker](https://dev.to/alanvarghese-dev/building-a-modern-php-microservices-architecture-with-docker-4pi0)
-- [Announcing Kreuzberg v4](https://dev.to/t_ivanova/announcing-kreuzberg-v4-55ia)
-- [[BOJ/C++] 단계별로 풀어보기 - 정렬&lpar;1&rpar;](https://dev.to/dbsans11/bojc-dangyebyeolro-puleobogi-jeongryeol-1-3fb7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
