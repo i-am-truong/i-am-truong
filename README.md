@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building profiler0x0: An Arcade-Style GitHub Profile Analyzer That Doesn&#39;t Judge](https://dev.to/ackermannq/building-profiler0x0-an-arcade-style-github-profile-analyzer-that-doesnt-judge-hcp)
+- [How to Transcribe and Detect Intent Using Deepgram for STT: A Developer&#39;s Journey](https://dev.to/callstacktech/how-to-transcribe-and-detect-intent-using-deepgram-for-stt-a-developers-journey-621)
+- [How I Built a Healthcare Job Board with 8,295+ Listings Using Next.js and Supabase](https://dev.to/sathish_daggula/how-i-built-a-healthcare-job-board-with-8295-listings-using-nextjs-and-supabase-3e10)
 - [Error handling anti-patterns rules Claude-Mem codebase.](https://dev.to/ramunarasinga-11/error-handling-anti-patterns-rules-claude-mem-codebase-1edl)
 - [Q&amp;A on &quot;Why XLang Is an Innovative Programming Language&quot;](https://dev.to/canonical/qa-on-why-xlang-is-an-innovative-programming-language-3998)
-- [counter](https://dev.to/query_filter_591122b53770/counter-faj)
-- [Bags.fm: The Solana Launchpad That&#39;s Changing Creator Monetization](https://dev.to/sivarampg/bagsfm-the-solana-launchpad-thats-changing-creator-monetization-4g7n)
-- [2D Spatial Recognition with Local LLM: Comparing Prompt Strategies](https://dev.to/toydev/2d-spatial-recognition-with-local-llm-comparing-prompt-strategies-4h64)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
