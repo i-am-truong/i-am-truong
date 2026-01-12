@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to DevOps #4. What Problems DevOps Solves](https://dev.to/himanshu_bhatt/introduction-to-devops-4-what-problems-devops-solves-177g)
-- [VScode 的自動執行機制--Tasks](https://dev.to/codemee/vscode-de-zi-dong-zhi-xing-ji-zhi-tasks-387j)
-- [How to Add Adjacency-Aware Contextual Targeting to Prebid in 15 Minutes](https://dev.to/mixpeek/how-to-add-adjacency-aware-contextual-targeting-to-prebid-in-15-minutes-3342)
-- [Week 4 Firewall Labs: 4 Production-Ready Firewall Scenarios with iptables](https://dev.to/fosres/master-iptables-security-4-production-ready-firewall-scenarios-860)
-- [From Copilot to Autonomous AI: The Evolution of AI-Assisted Programming](https://dev.to/eva_clari_289d85ecc68da48/from-copilot-to-autonomous-ai-the-evolution-of-ai-assisted-programming-2n8k)
+- [Shared vs VPS Hosting: Which One is Better in 2026?](https://dev.to/arauly_tech_pvt_ltd/shared-vs-vps-hosting-which-one-is-better-in-2026-419m)
+- [Things I Wish I Knew as a Junior Developer](https://dev.to/arauly_tech_pvt_ltd/things-i-wish-i-knew-as-a-junior-developer-5b11)
+- [Building a Free, Private Audio Transcriber with Next.js](https://dev.to/niroshan_dh/building-a-free-private-audio-transcriber-with-nextjs-2df6)
+- [DS Express Errors &lpar;centralizing errors library&rpar; — v1.8.0 &amp; v1.8.1 Release Notes](https://dev.to/nse569h/ds-express-errors-centralizing-errors-library-v180-v181-release-notes-2d7d)
+- [Dev.to Publication Test - Duplicate Prevention Verification](https://dev.to/nakamura_takuya/devto-publication-test-duplicate-prevention-verification-7e5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
