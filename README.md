@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Letting Kiro Drive — Autopilot and Hooks](https://dev.to/aws-builders/letting-kiro-drive-autopilot-and-hooks-12c0)
 - [Modernizing my Portfolio: From Vanilla PHP to Next.js &lpar;and why my server thought I was DDOSing it&rpar;](https://dev.to/hdk/modernizing-my-portfolio-from-vanilla-php-to-nextjs-and-why-my-server-thought-i-was-ddosing-it-59hf)
 - [My Journey Into Cybersecurity: A Beginner’s Guide](https://dev.to/the_duchess_of_hackers/my-journey-into-cybersecurity-a-beginners-guide-3aa1)
 - [I Built a Full AWS S3 Integration in Under 2 Hours—From First Prompt to Production](https://dev.to/traviticus/i-built-a-full-aws-s3-integration-in-under-2-hours-from-first-prompt-to-production-4djb)
 - [Building a Collaborative Trello-Style Kanban Board with Next.js, Velt and v0🔥](https://dev.to/astrodevil/building-a-collaborative-trello-style-kanban-board-with-nextjs-velt-and-v0-ni8)
-- [Is an AI Model Software? – A Low‑Level Technical View](https://dev.to/ben-santora/is-an-ai-model-software-a-low-level-technical-view-592l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
