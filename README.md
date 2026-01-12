@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Code Review Guidelines for Modern Development Teams](https://dev.to/yeahiasarker/code-review-guidelines-for-modern-development-teams-i3m)
-- [Problem 9: Most Frequent Element](https://dev.to/highcenburg/problem-9-most-frequent-element-3pdh)
-- [MCPConnect &lpar;EN&rpar;](https://dev.to/lminuti/mcpconnect-en-2e37)
-- [Putting the CD Back into CI/CD: A Guide to Continuous Deployment](https://dev.to/audaciatechnology/putting-the-cd-back-into-cicd-a-guide-to-continuous-deployment-174o)
-- [Generative AI in FinTech: Use Cases, Implementation, and Helpful Hints](https://dev.to/yuliyamelnik/generative-ai-in-fintech-use-cases-implementation-and-helpful-hints-fc8)
+- [How to Build SEO-Friendly Ecommerce Product Pages](https://dev.to/ar_abid_641aa302d5c68b2ae/how-to-build-seo-friendly-ecommerce-product-pages-1h0e)
+- [I Built 97 Free Online Tools &lpar;and Games&rpar; While Learning to Ship Consistently](https://dev.to/axonixtools/i-built-97-free-online-tools-and-games-while-learning-to-ship-consistently-2g7d)
+- [Notifications Are Not Just Messages. They Are Memory Triggers.](https://dev.to/surhidamatya/notifications-are-not-just-messages-they-are-memory-triggers-2968)
+- [Learning through building: SurrealDB University&#39;s newest tutorial](https://dev.to/surrealdb/learning-through-building-surrealdb-universitys-newest-tutorial-55gk)
+- [Build a Travel Agency Page](https://dev.to/richardpascoe/build-a-travel-agency-page-47d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
