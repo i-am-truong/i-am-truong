@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Build SEO-Friendly Ecommerce Product Pages](https://dev.to/ar_abid_641aa302d5c68b2ae/how-to-build-seo-friendly-ecommerce-product-pages-1h0e)
-- [I Built 97 Free Online Tools &lpar;and Games&rpar; While Learning to Ship Consistently](https://dev.to/axonixtools/i-built-97-free-online-tools-and-games-while-learning-to-ship-consistently-2g7d)
-- [Notifications Are Not Just Messages. They Are Memory Triggers.](https://dev.to/surhidamatya/notifications-are-not-just-messages-they-are-memory-triggers-2968)
-- [Learning through building: SurrealDB University&#39;s newest tutorial](https://dev.to/surrealdb/learning-through-building-surrealdb-universitys-newest-tutorial-55gk)
-- [Build a Travel Agency Page](https://dev.to/richardpascoe/build-a-travel-agency-page-47d)
+- [Self-Scheduling Recurring Cloud Tasks &lpar;with Terraform + Python code&rpar;](https://dev.to/charlottetowell/self-scheduling-recurring-cloud-tasks-with-terraform-python-code-50p9)
+- [Constrained Space, Better Code: MXCP &amp; Claude Skills](https://dev.to/alexzerntev/constrained-space-better-code-mxcp-claude-skills-4do9)
+- [How I Get Better UI from Claude: Research First, Build Second](https://dev.to/hassantayyab/how-i-get-better-ui-from-claude-research-first-build-second-12f)
+- [How I Designed an Enterprise RAG System Using AWS Bedrock, Pinecone &amp; Neo4j](https://dev.to/betty_waiyego_fcc7f34296e/how-i-designed-an-enterprise-rag-system-using-aws-bedrock-pinecone-neo4j-4kg9)
+- [The Future of Data Engineering: Trends to Watch in 2026 and Beyond](https://dev.to/ekta_makhija_8b9fa36c3555/the-future-of-data-engineering-trends-to-watch-in-2026-and-beyond-2ek2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
