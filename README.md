@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 1 of Learning Linux &amp; GitHub 🚀](https://dev.to/nishant_3f2db10bd69317399/day-1-of-learning-linux-github-1dj8)
 - [Transactional AI v0.2: Production-Ready with Full Observability](https://dev.to/grafikui/transactional-ai-v02-production-ready-with-full-observability-550h)
 - [A Real-World Serverless Appointment Booking Backend on AWS](https://dev.to/donhadley22/a-real-world-serverless-appointment-booking-backend-on-aws-dc4)
 - [LAB: ConfigMap &amp; Secret — From Developer Code to DevOps Troubleshooting](https://dev.to/jumptotech/lab-configmap-secret-from-developer-code-to-devops-troubleshooting-11ja)
 - [TWD Tip: Stub Auth0 Hooks and Mock React Modules](https://dev.to/kevinccbsg/twd-tip-stub-auth0-hooks-and-mock-react-modules-19b1)
-- [Smart Coding vs Vibe Coding: Engineering Discipline in the Age of AI](https://dev.to/kolkov/smart-coding-vs-vibe-coding-engineering-discipline-in-the-age-of-ai-5b20)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
