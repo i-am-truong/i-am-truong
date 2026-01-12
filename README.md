@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to ask awesome questions as a dev &lpar;Without Dying of Imposter Syndrome&rpar;](https://dev.to/ishikajain/how-to-ask-awesome-questions-as-a-dev-without-dying-of-imposter-syndrome-1ndj)
-- [Load Balancing a Simple Static Site with Docker and Nginx: A Beginner&#39;s Journey](https://dev.to/niraj_maharjan/load-balancing-a-simple-static-site-with-docker-and-nginx-a-beginners-journey-4lkj)
-- [Building a Cleaner Projection Layer on Top of JPA Criteria API](https://dev.to/juliocmbueno/building-a-cleaner-projection-layer-on-top-of-jpa-criteria-api-3m7m)
-- [[Boost]](https://dev.to/j3ffjessie/-gd0)
-- [Why Learning Requires Patience](https://dev.to/memory_rush_5bb9305e1ab6d/why-learning-requires-patience-59ic)
+- [How Video Platforms Show Instant Hover Previews Using Sprite Sheets in Node.js](https://dev.to/speaklouder/how-video-platforms-show-instant-hover-previews-using-sprite-sheets-in-nodejs-2l0l)
+- [Custom Language Architecture for Low-End NeuroShellOS: A Design Proposal](https://dev.to/hejhdiss/custom-language-architecture-for-low-end-neuroshellos-a-design-proposal-2op)
+- [Getting Started with 2D Games Using Pyxel &lpar;Part 9&rpar;: Shooting Bullets](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-pyxel-part-9-shooting-bullets-1eof)
+- [What are your goals for the week? #161](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-161-3jfn)
+- [Java Variables](https://dev.to/kesavarthini/java-variables-2iod)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
