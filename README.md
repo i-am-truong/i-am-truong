@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [**More Than a Bootcamp: Why I Chose the German &#39;Umschulung&#39; Path into Tech**](https://dev.to/alifunk/more-than-a-bootcamp-why-i-chose-the-german-umschulung-path-into-tech-20co)
-- [Building a 3D Map Application Using Mapterhorn Terrain Data](https://dev.to/mierune/building-a-3d-map-application-using-mapterhorn-terrain-data-elo)
-- [RAG Works — Until You Hit the Long Tail](https://dev.to/onepoint/rag-works-until-you-hit-the-long-tail-54lp)
-- [SaijinOS Part 20 — Trust as a Temporal Resource](https://dev.to/kato_masato_c5593c81af5c6/saijinos-part-20-trust-as-a-temporal-resource-2iho)
-- [From ChatGPT to Gemini: How We Built a GDPR-Compliant CV Parser for Odoo](https://dev.to/tderick/from-chatgpt-to-gemini-how-we-built-a-gdpr-compliant-cv-parser-for-odoo-nne)
+- [Build Network Proxies and Reverse Proxies in Go: A Hands-On Guide](https://dev.to/jones_charles_ad50858dbc0/build-network-proxies-and-reverse-proxies-in-go-a-hands-on-guide-288j)
+- [System.CommandLine with Dependency Injection: A Complete Solution](https://dev.to/rushuiguan/systemcommandline-with-dependency-injection-a-complete-solution-128o)
+- [Why n8n Is Quietly Becoming a Power Tool for DevOps &amp; SRE Teams❓](https://dev.to/saharbat00l/why-n8n-is-quietly-becoming-a-power-tool-for-devops-sre-teams-4j14)
+- [Integration tests in Node.js with Mocha/Chai](https://dev.to/lucaspereiradesouzat/integration-tests-in-nodejs-with-mochachai-jim)
+- [Testes de integração em Node.js com Mocha/Chai](https://dev.to/lucaspereiradesouzat/testes-de-integracao-em-nodejs-com-mochachai-35ob)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
