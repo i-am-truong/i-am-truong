@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Thought I Understood Python Functions — Until One Line Returned None](https://dev.to/emmimal_alexander_3be8cc7/i-thought-i-understood-python-functions-until-one-line-returned-none-447j)
-- [What Building a Simple E-commerce Cart Taught Me About Senior Laravel Engineering](https://dev.to/ojsholly/what-building-a-simple-e-commerce-cart-taught-me-about-senior-laravel-engineering-30m6)
-- [Avoid the Personal vs. Business Trap: Picking the Right Connector Every Time](https://dev.to/balagmadhu/avoid-the-personal-vs-business-trap-picking-the-right-connector-every-time-5foo)
-- [How to Store Chat History Using External Storage in Microsoft Agent Framework](https://dev.to/willvelida/how-to-store-chat-history-using-external-storage-in-microsoft-agent-framework-3io2)
-- [How Not to Self-Reject Before You Even Try](https://dev.to/yoditdevn8n/how-not-to-self-reject-before-you-even-try-7ka)
+- [MCP Connect](https://dev.to/lminuti/mcp-connect-566p)
+- [Why I’m Telling Junior Developers to Stop Learning Frameworks in 2026](https://dev.to/sandipyadav/why-im-telling-junior-developers-to-stop-learning-frameworks-in-2026-1c8d)
+- [Maintaining and Cleaning High Quality Premium Wallpapers](https://dev.to/wallpapermural/maintaining-and-cleaning-high-quality-premium-wallpapers-1gf2)
+- [Perl 🐪 Weekly #755 - Does TIOBE help Perl?](https://dev.to/szabgab/perl-weekly-755-does-tiobe-help-perl-a4b)
+- [A Simple Guide to a Faster Site](https://dev.to/roman_musin_1914fd4e7636f/a-simple-guide-to-a-faster-site-a6p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
