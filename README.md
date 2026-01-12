@@ -120,11 +120,13 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Devs should use AI for operations and let them focus on new ideas.](https://dev.to/jaideepparashar/devs-should-use-ai-for-operations-and-let-them-focus-on-new-ideas-4a97)
-- [AI for operations: remove friction, not people](https://dev.to/jaideepparashar/ai-for-operations-remove-friction-not-people-1jj9)
-- [Smart Contract Security 101 — Reentrancy &amp; Common AI‑Generated Mistakes](https://dev.to/ribhavmodi/smart-contract-security-101-reentrancy-common-ai-generated-mistakes-1pfb)
-- [Hashicorp Vault: Transit Secrets Engine](https://dev.to/admantium/hashicorp-vault-transit-secrets-engine-2kam)
-- [Why Version Control Exists: The Pen Drive Problem](https://dev.to/anoop-rajoriya/why-version-control-exists-the-pen-drive-problem-327c)
+- [Testing in the Age of AI Agents: How I Kept QA from Collapsing](https://dev.to/wintrover/testing-in-the-age-of-ai-agents-how-i-kept-qa-from-collapsing-3agg)
+- [Power Apps- Moving Away From Inline Code](https://dev.to/wyattdave/power-apps-moving-away-from-inline-code-11ma)
+- [The Hidden Cost of Global Stores in Vue &lpar;and When They’re Still Worth It&rpar;](https://dev.to/jacobandrewsky/the-hidden-cost-of-global-stores-in-vue-and-when-theyre-still-worth-it-4c2p)
+- [An array is a row of boxes.
+Each box holds a value.
+Each box has a number.](https://dev.to/highcenburg/an-array-is-a-row-of-boxeseach-box-holds-a-valueeach-box-has-a-number-53n0)
+- [Proyecto Weather Service &lpar;Parte 1&rpar;: Construyendo el Recolector de Datos con Python y GitHub Actions o Netlify](https://dev.to/datalaria/proyecto-weather-service-parte-1-construyendo-el-recolector-de-datos-con-python-y-github-actions-5ekm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
