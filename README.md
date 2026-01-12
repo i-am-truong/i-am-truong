@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Your AI Assistant Will Soon Complete Purchases Without You](https://dev.to/ownlife/why-your-ai-assistant-will-soon-complete-purchases-without-you-222g)
-- [Authentication Strategies in Node.js: JWT, OAuth, and Sessions](https://dev.to/addwebsolutionpvtltd/authentication-strategies-in-nodejs-jwt-oauth-and-sessions-3k8j)
-- [Clean Code Is a Communication Tool, Not a Style Preference](https://dev.to/wmdn9116/clean-code-is-a-communication-tool-not-a-style-preference-1b9p)
-- [Admin-Only Dashboard Rule of Thumb](https://dev.to/msnmongare/admin-only-dashboard-rule-of-thumb-3hhl)
-- [🚀 Building a Modern PHP Microservices Architecture with Docker](https://dev.to/alanvarghese-dev/building-a-modern-php-microservices-architecture-with-docker-4pi0)
+- [Laravel Pulse card for Clean Architecture UseCase](https://dev.to/giacomomasseron/laravel-pulse-card-for-clean-architecture-usecase-4kl1)
+- [OIDC UserInfo Endpoint Explained for Backend Engineers](https://dev.to/mumbocoder/what-is-openid-connect-protocol--2d84)
+- [The Workslop Deluge](https://dev.to/rawveg/the-workslop-deluge-2i3k)
+- [Human–AI Collaboration in Project Teams — Redefining Leadership and Decision-Making](https://dev.to/aaryan_gupta/human-ai-collaboration-in-project-teams-redefining-leadership-and-decision-making-1iho)
+- [How I Built a Manual Resume Review System with Spring Boot &amp; Angular](https://dev.to/resumemind/how-i-built-a-manual-resume-review-system-with-spring-boot-angular-5h66)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
