@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Video Platforms Show Instant Hover Previews Using Sprite Sheets in Node.js](https://dev.to/speaklouder/how-video-platforms-show-instant-hover-previews-using-sprite-sheets-in-nodejs-2l0l)
-- [Custom Language Architecture for Low-End NeuroShellOS: A Design Proposal](https://dev.to/hejhdiss/custom-language-architecture-for-low-end-neuroshellos-a-design-proposal-2op)
-- [Getting Started with 2D Games Using Pyxel &lpar;Part 9&rpar;: Shooting Bullets](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-pyxel-part-9-shooting-bullets-1eof)
-- [What are your goals for the week? #161](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-161-3jfn)
-- [Java Variables](https://dev.to/kesavarthini/java-variables-2iod)
+- [Error handling anti-patterns rules Claude-Mem codebase.](https://dev.to/ramunarasinga-11/error-handling-anti-patterns-rules-claude-mem-codebase-1edl)
+- [Q&amp;A on &quot;Why XLang Is an Innovative Programming Language&quot;](https://dev.to/canonical/qa-on-why-xlang-is-an-innovative-programming-language-3998)
+- [counter](https://dev.to/query_filter_591122b53770/counter-faj)
+- [Bags.fm: The Solana Launchpad That&#39;s Changing Creator Monetization](https://dev.to/sivarampg/bagsfm-the-solana-launchpad-thats-changing-creator-monetization-4g7n)
+- [2D Spatial Recognition with Local LLM: Comparing Prompt Strategies](https://dev.to/toydev/2d-spatial-recognition-with-local-llm-comparing-prompt-strategies-4h64)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
