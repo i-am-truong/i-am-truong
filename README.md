@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Hybrid-Private RAG Platform on AWS: From Prototype to Production with Python](https://dev.to/edgarmilvus/building-a-hybrid-private-rag-platform-on-aws-from-prototype-to-production-with-python-f4h)
-- [Why Version Control Exists: The Pendrive Problem](https://dev.to/subhrangsu90/why-version-control-exists-the-pendrive-problem-d0)
-- [Inside SQLite: Naming files](https://dev.to/lovestaco/inside-sqlite-naming-files-4jka)
-- [I Bought a Robot Vacuum, Not a Cloud Spy](https://dev.to/alex_root_48dfe8afa393367/i-bought-a-robot-vacuum-not-a-cloud-spy-3978)
-- [Evolution of the Android Open Source Project: A Deep Dive](https://dev.to/dd8888/evolution-of-the-android-open-source-project-a-deep-dive-28lg)
+- [Building a Collaborative Trello-Style Kanban Board with Next.js, Velt and v0🔥](https://dev.to/astrodevil/building-a-collaborative-trello-style-kanban-board-with-nextjs-velt-and-v0-ni8)
+- [Is an AI Model Software? – A Low‑Level Technical View](https://dev.to/ben-santora/is-an-ai-model-software-a-low-level-technical-view-592l)
+- [What Actually Wins League of Legends Games? ML Analysis of 250K Matches](https://dev.to/macromindgg/what-actually-wins-league-of-legends-games-ml-analysis-of-250k-matches-1po4)
+- [Making QR Codes Safe by Design: A Trust-On-First-Scan Model &lpar;TOFS&rpar;](https://dev.to/colten_jacob_10ec3150930b/making-qr-codes-safe-by-design-a-trust-on-first-scan-model-tofsa-8-46i4)
+- [I realized I was wasting hours applying to “dead” LinkedIn jobs — so I built a tiny fix](https://dev.to/salaria_labs_5ce6a1f78143/i-realized-i-was-wasting-hours-applying-to-dead-linkedin-jobs-so-i-built-a-tiny-fix-29fh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
