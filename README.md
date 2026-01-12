@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Flutter Is Becoming the Industrial UI Standard](https://dev.to/lubo08/flutter-is-becoming-the-industrial-ui-standard-1if4)
-- [Queue System](https://dev.to/preetha_vaishnavi_2b82358/queue-system-37eo)
-- [Guide to get started with Retrieval-Augmented Generation &lpar;RAG&rpar;](https://dev.to/sunny7899/guide-to-get-started-with-retrieval-augmented-generation-rag-16m8)
-- [Contextual Inference with Generative AI: Turning Messy Notes into Professional Meeting Minutes](https://dev.to/faraz_farhan_83ed23a154a2/contextual-inference-with-generative-ai-turning-messy-notes-into-professional-meeting-minutes-599o)
-- [How to install mmcv in an Npu Enviroment](https://dev.to/goinghan/how-to-install-mmcv-in-an-npu-enviroment-359n)
+- [Clean Code Is a Communication Tool, Not a Style Preference](https://dev.to/wmdn9116/clean-code-is-a-communication-tool-not-a-style-preference-1b9p)
+- [Admin-Only Dashboard Rule of Thumb](https://dev.to/msnmongare/admin-only-dashboard-rule-of-thumb-3hhl)
+- [🚀 Building a Modern PHP Microservices Architecture with Docker](https://dev.to/alanvarghese-dev/building-a-modern-php-microservices-architecture-with-docker-4pi0)
+- [Announcing Kreuzberg v4](https://dev.to/t_ivanova/announcing-kreuzberg-v4-55ia)
+- [[BOJ/C++] 단계별로 풀어보기 - 정렬&lpar;1&rpar;](https://dev.to/dbsans11/bojc-dangyebyeolro-puleobogi-jeongryeol-1-3fb7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
