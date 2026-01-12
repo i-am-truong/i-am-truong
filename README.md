@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Shared vs VPS Hosting: Which One is Better in 2026?](https://dev.to/arauly_tech_pvt_ltd/shared-vs-vps-hosting-which-one-is-better-in-2026-419m)
-- [Things I Wish I Knew as a Junior Developer](https://dev.to/arauly_tech_pvt_ltd/things-i-wish-i-knew-as-a-junior-developer-5b11)
-- [Building a Free, Private Audio Transcriber with Next.js](https://dev.to/niroshan_dh/building-a-free-private-audio-transcriber-with-nextjs-2df6)
-- [DS Express Errors &lpar;centralizing errors library&rpar; — v1.8.0 &amp; v1.8.1 Release Notes](https://dev.to/nse569h/ds-express-errors-centralizing-errors-library-v180-v181-release-notes-2d7d)
-- [Dev.to Publication Test - Duplicate Prevention Verification](https://dev.to/nakamura_takuya/devto-publication-test-duplicate-prevention-verification-7e5)
+- [From Novelty to Infrastructure: How 2025 AI Will Quietly Reshape Your Job](https://dev.to/aiwithapex/from-novelty-to-infrastructure-how-2025-ai-will-quietly-reshape-your-job-7c6)
+- [Dependency Rollercoaster: Navigating the NPM Theme Park](https://dev.to/mandy8055/dependency-rollercoaster-navigating-the-npm-theme-park-18g8)
+- [The Quiet Shift: Why My Browser Tab Now Stays on Gemini](https://dev.to/rgbos/the-quiet-shift-why-my-browser-tab-now-stays-on-gemini-32pe)
+- [🚨 AWS 132: Data Time Travel - RDS Snapshots and Restoration](https://dev.to/hritikraj8804/aws-132-data-time-travel-rds-snapshots-and-restoration-34eg)
+- [Why This Year Will Be Different](https://dev.to/branden-hernandez/why-this-year-will-be-different-35dc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
