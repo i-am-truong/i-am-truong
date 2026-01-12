@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Inside SQLite: Naming files](https://dev.to/lovestaco/inside-sqlite-naming-files-4jka)
+- [Evolution of the Android Open Source Project: A Deep Dive](https://dev.to/dd8888/evolution-of-the-android-open-source-project-a-deep-dive-28lg)
+- [You can&#39;t trust Images anymore](https://dev.to/shuckle_xd/you-cant-trust-images-anymore-58jh)
 - [Complete Guide: Deploying a Laravel + React Application on Kubernetes with Minikube](https://dev.to/vishwapratapsingh90/complete-guide-deploying-a-laravel-react-application-on-kubernetes-with-minikube-976)
 - [A Mnemonic That Finally Makes for…in vs for…of Stick](https://dev.to/mahlongumbs/a-mnemonic-that-finally-makes-forin-vs-forof-stick-eoj)
-- [The Linux Power User Handbook: From Daily Driver to Productivity Machine](https://dev.to/md8_habibullah/the-linux-power-user-handbook-from-daily-driver-to-productivity-machine-gh3)
-- [The Vibe Coding Paradox: 5 Surprising Truths About the AI Revolution in Software](https://dev.to/gde/the-vibe-coding-paradox-5-surprising-truths-about-the-ai-revolution-in-software-3f5k)
-- [Odoo Core and the Cost of Reinventing Everything](https://dev.to/bogaboga1/odoo-core-and-the-cost-of-reinventing-everything-15n1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
