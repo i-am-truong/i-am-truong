@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [`XmlFluentValidator`: Code-First XML Validation That Stays Close to Your Rules](https://dev.to/iamrzr/xmlfluentvalidator-code-first-xml-validation-that-stays-close-to-your-rules-3mj6)
-- [I Almost Fell for a “Last Wish” Scam : Here’s What You Need to Know](https://dev.to/om_shree_0709/i-almost-fell-for-a-last-wish-scam-heres-what-you-need-to-know-4g4i)
-- [[Boost]](https://dev.to/elizabethfuentes12/-4gd8)
-- [A Procedural Terrain Adventure in Unity pt.1](https://dev.to/dbarrass/a-procedural-terrain-adventure-in-unity-pt1-3gmm)
-- [No Kotlin? No Problem. How I shipped Android Apps using React &amp; Capacitor](https://dev.to/hsr88/no-kotlin-no-problem-how-i-shipped-android-apps-using-react-capacitor-9ja)
+- [Data Poisoning as Mythic Corruption: How Attackers Taint the Well of AI](https://dev.to/narnaiezzsshaa/data-poisoning-as-mythic-corruption-how-attackers-taint-the-well-of-ai-i9g)
+- [First Test of Java on the Orange Pi &lpar;ARM and RISC-V&rpar;](https://dev.to/fdelporte/first-test-of-java-on-the-orange-pi-arm-and-risc-v-53bg)
+- [The `/context` Command: X-Ray Vision for Your Tokens](https://dev.to/rajeshroyal/the-context-command-x-ray-vision-for-your-tokens-4n03)
+- [Building Voice Trainer: a tiny, local‑first pitch analysis tool for gender‑affirming voice practice](https://dev.to/codebunny20/building-voice-trainer-a-tiny-local-first-pitch-analysis-tool-for-gender-affirming-voice-practice-23a0)
+- [From Moths to Microservices: A Comprehensive History of Coding: Part 1](https://dev.to/bingkahu/from-moths-to-microservices-a-comprehensive-history-of-coding-part-1-3a51)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
