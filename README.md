@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Letting Kiro Drive — Autopilot and Hooks](https://dev.to/aws-builders/letting-kiro-drive-autopilot-and-hooks-12c0)
-- [Modernizing my Portfolio: From Vanilla PHP to Next.js &lpar;and why my server thought I was DDOSing it&rpar;](https://dev.to/hdk/modernizing-my-portfolio-from-vanilla-php-to-nextjs-and-why-my-server-thought-i-was-ddosing-it-59hf)
-- [My Journey Into Cybersecurity: A Beginner’s Guide](https://dev.to/the_duchess_of_hackers/my-journey-into-cybersecurity-a-beginners-guide-3aa1)
-- [I Built a Full AWS S3 Integration in Under 2 Hours—From First Prompt to Production](https://dev.to/traviticus/i-built-a-full-aws-s3-integration-in-under-2-hours-from-first-prompt-to-production-4djb)
-- [Building a Collaborative Trello-Style Kanban Board with Next.js, Velt and v0🔥](https://dev.to/astrodevil/building-a-collaborative-trello-style-kanban-board-with-nextjs-velt-and-v0-ni8)
+- [Building Nature’s View — A Responsive Website Using HTML, CSS &amp; JavaScript](https://dev.to/hopewell_mahlombe_f5d82ba/building-natures-view-a-responsive-website-using-html-css-javascript-4hnl)
+- [Built API Stress Lab after my startup crashed on launch day](https://dev.to/shadullah_sartajsyed_800/built-api-stress-lab-after-my-startup-crashed-on-launch-day-3kpk)
+- [Why Your Secret Sharing Tool Needs Post-Quantum Cryptography Today](https://dev.to/whaaat_9819bdb68eccf5b8a/why-your-secret-sharing-tool-needs-post-quantum-cryptography-today-20j3)
+- [The 3 Most Common .env Leaks &lpar;and How to Prevent Them&rpar;](https://dev.to/joerucci/the-3-most-common-env-leaks-and-how-to-prevent-them-2omc)
+- [C#.NET - day 07](https://dev.to/sabin_sim/cnet-day-07-48f4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
