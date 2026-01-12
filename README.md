@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why AI Agents Need Context Graphs &lpar;And How to Build One with AWS&rpar;](https://dev.to/aws/why-ai-agents-need-context-graphs-and-how-to-build-one-with-aws-5bng)
+- [10 Secret Tips That Make You Better at DSA](https://dev.to/akashpattnaik/10-secret-tips-that-make-you-better-at-dsa-4and)
+- [I built a free URL shortener with QR codes and click tracking — looking for feedback](https://dev.to/ivanjurina/i-built-a-free-url-shortener-with-qr-codes-and-click-tracking-looking-for-feedback-1ggb)
+- [How I stopped Claude Code from hallucinating on Day 4 &lpar;The &quot;Spec-Driven&quot; Workflow&rpar;](https://dev.to/samhath03/how-i-stopped-claude-code-from-hallucinating-on-day-4-the-spec-driven-workflow-3lim)
 - [🧭 Beginner-Friendly Guide &#39;Minimum Time Visiting All Points&#39; – LeetCode 1266 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-minimum-time-visiting-all-points-leetcode-1266-c-python-50ah)
-- [If you’re preparing for a software developer interview in 2026, this guide breaks down exactly how modern software engineering interviews work, so you can follow a clear developer interview preparation roadmap and crack your next interview with confidence.](https://dev.to/hadil/if-youre-preparing-for-a-software-developer-interview-in-2026-this-guide-breaks-down-exactly-how-9eh)
-- [I built an agent that turns customer calls into Linear tickets](https://dev.to/toriseidenstein/i-built-an-agent-that-turns-customer-calls-into-linear-tickets-39mc)
-- [Seeking Peer Connections for CodeChat P2P Testing](https://dev.to/bingkahu/seeking-peer-connections-for-codechat-p2p-testing-4inh)
-- [Find All Duplicate Elements in an Array &lpar;C++&rpar;](https://dev.to/nithya_dharshiniofficial/find-all-duplicate-elements-in-an-array-c-p19)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
