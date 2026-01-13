@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [React Performance Problems Usually Start with State, Not Rendering](https://dev.to/wmdn9116/react-performance-problems-usually-start-with-state-not-rendering-1lk4)
+- [Gasless USDC Transactions with Lazorkit Paymaster](https://dev.to/ola-zoll/gasless-usdc-transactions-with-lazorkit-paymaster-356b)
+- [The First 90 Days as a Software Developer: What Actually Matters](https://dev.to/developerdave/the-first-90-days-as-a-software-developer-what-actually-matters-55p5)
 - [Designing Scalable Backend APIs: Building for Growth](https://dev.to/techblogs/designing-scalable-backend-apis-building-for-growth-5726)
 - [Caching with Redis: Accelerating Your Applications](https://dev.to/techblogs/caching-with-redis-accelerating-your-applications-11dp)
-- [What Junior Developers Get Wrong About “Clean Code”](https://dev.to/developerdave/what-junior-developers-get-wrong-about-clean-code-hca)
-- [Wallet Creation with Biometric Authentication](https://dev.to/ola-zoll/wallet-creation-with-biometric-authentication-1j6l)
-- [Agentic Knowledge Graphs with A2UI: Practical AI Use Cases for Real-Time Reasoning](https://dev.to/vishalmysore/agentic-knowledge-graphs-with-a2ui-practical-ai-use-cases-for-real-time-reasoning-iii)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
