@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Dynamic MCP Server discovery with goose](https://dev.to/amandamartindev/dynamic-mcp-server-discovery-with-goose-3m41)
-- [Building Resilient Loading States: Beyond Simple Spinners](https://dev.to/hasnaat-iftikhar/building-resilient-loading-states-beyond-simple-spinners-2jmo)
-- [5 AWS Resources You&#39;re Probably Overpaying For &lpar;And How to Fix Each One&rpar;](https://dev.to/german_neironi/5-aws-resources-youre-probably-overpaying-for-and-how-to-fix-each-one-4p0o)
-- [How to Download and Install JDK &lpar;Java Development Kit&rpar;](https://dev.to/kavitha_krish/how-to-download-and-install-jdk-java-development-kit-2acp)
-- [Page Speed Under Load: Why Performance Problems Appear Only at Scale](https://dev.to/webgarhmarketing/page-speed-under-load-why-performance-problems-appear-only-at-scale-oo5)
+- [Migrando de Supabase a una arquitectura full Go: La poesía de los binarios estáticos](https://dev.to/gopherscl/migrando-de-supabase-a-una-arquitectura-full-go-la-poesia-de-los-binarios-estaticos-145n)
+- [System Design for Beginners: A Practical Practice Path](https://dev.to/alex_hunter_44f4c9ed6671e/system-design-for-beginners-a-practical-practice-path-107p)
+- [Constela v0.8.0: 5 New Features for AI-Powered UI Development](https://dev.to/yuu1ch13/constela-v080-5-new-features-for-ai-powered-ui-development-5f02)
+- [Batch vs Mini-Batch vs Stochastic Gradient Descent: Three Hikers, Three Strategies, One Mountain](https://dev.to/sachin_krrajput/batch-vs-mini-batch-vs-stochastic-gradient-descent-three-hikers-three-strategies-one-mountain-23bd)
+- [AI for Log Anomaly Detection Why It Matters, How It Works, and What Modern Organizations Need to Know](https://dev.to/alexendrascott01/ai-for-log-anomaly-detection-why-it-matters-how-it-works-and-what-modern-organizations-need-to-4e1n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
