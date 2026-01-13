@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [UQL v3: The Smartest TypeScript ORM just got way Smarter!](https://dev.to/sonemonu/uql-v3-the-smartest-typescript-orm-just-got-way-smarter-4ldj)
-- [Google Maps API Alternative for Geocoding in 2026 with calcs](https://dev.to/vitops/google-maps-api-alternative-for-geocoding-in-2026-with-calcs-1hhb)
-- [AI in Production: Why Prompts, Filters, and Monitoring Aren’t Enough](https://dev.to/verdic28/ai-in-production-why-prompts-filters-and-monitoring-arent-enough-1bp2)
-- [My Version 2.0 self &lpar;Journalistic Writeup&rpar;](https://dev.to/danyang007/my-version-20-self-journalistic-writeup-1akh)
-- [Beyond Token Validation: Measuring Real Device Delivery Rates with Firebase FCM](https://dev.to/sangwoo_rhie/beyond-token-validation-measuring-real-device-delivery-rates-with-firebase-fcm-3196)
+- [Kotlin Multiplatform in Production - 1 Year Later](https://dev.to/rafalgawlik/kotlin-multiplatform-in-production-1-year-later-55po)
+- [The NanoBanana Image Generation Prompt Templates That Actually Work](https://dev.to/sivarampg/the-nanobanana-image-generation-prompt-templates-that-actually-work-1261)
+- [C#.NET - day 08](https://dev.to/sabin_sim/cnet-day-08-14jp)
+- [You don&#39;t have to read every line](https://dev.to/benjaminsavoy/you-dont-have-to-read-every-line-4e5b)
+- [How to create password back-up system on Node.js](https://dev.to/jahongir2007/how-to-create-password-back-up-system-on-nodejs-2095)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
