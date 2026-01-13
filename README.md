@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Scalable Architecture Patterns Aren’t Magic — They Just Fix Constraints](https://dev.to/optyxstack/scalable-architecture-patterns-arent-magic-they-just-fix-constraints-2cmk)
-- [SmoothUI: 40+ Animated React Components with Motion](https://dev.to/jqueryscript/smoothui-40-animated-react-components-with-motion-8e5)
-- [NodeJS &amp; MongoDB API revisited — Following the MVC Pattern](https://dev.to/benjamin_janis_4a28dbe27f/nodejs-mongodb-api-revisited-following-the-mvc-pattern-4735)
-- [Never WordPress Again: Why the Legacy Giant Feels Like a Prison for Modern Devs &lpar;2026&rpar;](https://dev.to/hdk/never-wordpress-again-why-the-legacy-giant-feels-like-a-prison-for-modern-devs-2026-5dpi)
-- [How to Build Wealth from Nothing](https://dev.to/theifremind110/how-to-build-wealth-from-nothing-ia)
+- [Readiness probe](https://dev.to/jwebsite-go/readiness-probe-3co0)
+- [Dependency Tracking Fundamentals &lpar;II&rpar;](https://dev.to/luciano0322/dependency-tracking-fundamentals-ii-4fhk)
+- [From Startup to Unicorn: A Blueprint for Secure Enterprise Architecture](https://dev.to/ebercruz/from-startup-to-unicorn-a-blueprint-for-secure-enterprise-architecture-20k7)
+- [From Docker Errors to Production-Ready: Building a PHP Microservices CI/CD Pipeline](https://dev.to/alanvarghese-dev/from-docker-errors-to-production-ready-building-a-php-microservices-cicd-pipeline-4oh)
+- [Mastering Word Document Automation in C#: Integrating Checkbox and Picture Content Controls](https://dev.to/yahey/mastering-word-document-automation-in-c-integrating-checkbox-and-picture-content-controls-4bb5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
