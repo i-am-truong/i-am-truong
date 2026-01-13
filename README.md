@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Improving Accessibility – Dropdown](https://dev.to/hritickjaiswal/improving-accessibility-dropdown-4cl8)
-- [The Ultimate Image Optimization Guide for Photographers: How to deliver high-quality photos without slowing down your website](https://dev.to/biancarus/the-ultimate-image-optimization-guide-for-photographers-how-to-deliver-high-quality-photos-without-458k)
-- [4 ways to sandbox untrusted code in 2026](https://dev.to/mohameddiallo/4-ways-to-sandbox-untrusted-code-in-2026-1ffb)
-- [AI Engineering Explained](https://dev.to/shreyastaware/ai-engineering-explained-3036)
-- [Build a Heart Icon](https://dev.to/richardpascoe/build-a-heart-icon-obm)
+- [The Clipboard Problem That Drove Me to Build My Own Solution](https://dev.to/officialanurag/the-clipboard-problem-that-drove-me-to-build-my-own-solution-4k7)
+- [Static and Non-Static Variables in Java](https://dev.to/kavitha_krish/static-and-non-static-variables-in-java-1glm)
+- [A Developer’s Guide to Staying Connected Abroad Without Roaming Hassles](https://dev.to/ben_blog/a-developers-guide-to-staying-connected-abroad-without-roaming-hassles-10fe)
+- [Day 6: Structs in C: Organizing Data without Classes](https://dev.to/ujjawal0711/day-6-structs-in-c-organizing-data-without-classes-55l8)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1ho6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
