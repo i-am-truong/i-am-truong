@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Rate Limiting Bug That Cost Us 14 Engineering Hours &lpar;And What We Learned&rpar;](https://dev.to/ackermannq/the-rate-limiting-bug-that-cost-us-14-engineering-hours-and-what-we-learned-24mj)
-- [Networking 101 #2. How the Internet actually works](https://dev.to/himanshu_bhatt/networking-101-2-how-the-internet-actually-works-2fg1)
-- [Looking for Developer Feedback: Open Issues in Vizora &lpar;Schema Intelligence Tool&rpar;](https://dev.to/rushikesh_bodakhe_db28644/looking-for-developer-feedback-open-issues-in-vizora-schema-intelligence-tool-328h)
-- [Build an HTML Media Player](https://dev.to/richardpascoe/build-an-html-media-player-3p5k)
-- [The Silent Revolution of Workflow Automation: How n8n Broke the Market](https://dev.to/rmarsigli/the-silent-revolution-of-workflow-automation-how-n8n-broke-the-market-3oep)
+- [Improving Accessibility – Dropdown](https://dev.to/hritickjaiswal/improving-accessibility-dropdown-4cl8)
+- [The Ultimate Image Optimization Guide for Photographers: How to deliver high-quality photos without slowing down your website](https://dev.to/biancarus/the-ultimate-image-optimization-guide-for-photographers-how-to-deliver-high-quality-photos-without-458k)
+- [4 ways to sandbox untrusted code in 2026](https://dev.to/mohameddiallo/4-ways-to-sandbox-untrusted-code-in-2026-1ffb)
+- [AI Engineering Explained](https://dev.to/shreyastaware/ai-engineering-explained-3036)
+- [Build a Heart Icon](https://dev.to/richardpascoe/build-a-heart-icon-obm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
