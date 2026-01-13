@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [domharvest-playwright 1.3.0: Declarative DSL and Authentication Support](https://dev.to/domharvest/domharvest-playwright-130-declarative-dsl-and-authentication-support-20d5)
-- [Padrões de Arquitetura vs Padrões de Projeto](https://dev.to/filosofiadobug/padroes-de-arquitetura-vs-padroes-de-projeto-49ik)
-- [SwiftUI Background Work &amp; Task Scheduling &lpar;Production Architecture&rpar;](https://dev.to/sebastienlato/swiftui-background-work-task-scheduling-production-architecture-3f1p)
-- [Building High-Performance Interactive Mascots in Flutter with Rive &lpar;Production Guide for 2026&rpar;](https://dev.to/uianimation/building-high-performance-interactive-mascots-in-flutter-with-rive-production-guide-for-2026-17c6)
-- [Sqlite Database File Structure](https://dev.to/lovestaco/sqlite-database-file-structure-2dhl)
+- [Serverless MCP: Stateless Execution for Enterprise AI Tools](https://dev.to/zaynelt/serverless-mcp-stateless-execution-for-enterprise-ai-tools-45cf)
+- [I Built a VSCode Extension to Learn How VSCode Extensions Work](https://dev.to/aimatey/i-built-a-vscode-extension-to-learn-how-vscode-extensions-work-3197)
+- [SaaS developer, DevOps engineer, or startup founder Are Bleeding Money on Subscriptions &lpar;Here’s How to Fix It&rpar;](https://dev.to/rahul_singhshekhawat_943/saas-developer-devops-engineer-or-startup-founder-are-bleeding-money-on-subscriptions-heres-2c5g)
+- [I’ve SSH’d Into EC2 Dozens of Times. This One Still Took 4 Hours!](https://dev.to/adehorizon/ive-sshd-into-ec2-dozens-of-times-this-one-still-took-4-hours-3jh9)
+- [Trying Out the New Conductor Extension in Gemini CLI — We’re Gonna Add Auth to Our Full Stack](https://dev.to/gde/trying-out-the-new-conductor-extension-in-gemini-cli-were-gonna-add-auth-to-our-full-stack-3lb1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
