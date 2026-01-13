@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [OpenCode: tools, commands, agents y workflows](https://dev.to/kevinl/opencode-tools-commands-agents-y-workflows-i29)
-- [Git Selective Ignore: Because Sometimes You Need to Keep Secrets from Git &lpar;But Not From Yourself&rpar;](https://dev.to/deadlock/git-selective-ignore-because-sometimes-you-need-to-keep-secrets-from-git-but-not-from-yourself-37a7)
-- [Thinking in First Principles: How to Question an Async Queue–Based Design](https://dev.to/mohammadidrees/thinking-in-first-principles-how-to-question-an-async-queue-based-design-5cf1)
-- [I built a Meme Creator to roast my own Spaghetti Code &lpar;No watermarks, no BS, free!&rpar;](https://dev.to/dev-is-cracked/i-built-a-meme-creator-to-roast-my-own-spaghetti-code-no-watermarks-no-bs-free-4d1o)
-- [How to Handle Stripe and Paystack Webhooks in Next.js &lpar;The App Router Way&rpar;](https://dev.to/thekarlesi/how-to-handle-stripe-and-paystack-webhooks-in-nextjs-the-app-router-way-5bgi)
+- [Advancing with React: Hooks Deep Dive! &lpar;React Day 5&rpar;](https://dev.to/vasughanta09/advancing-with-react-hooks-deep-dive-react-day-5-39fi)
+- [You See Increased Latency in API Response — What Are the Possible Causes in Apigee X?](https://dev.to/realnamehidden1_61/you-see-increased-latency-in-api-response-what-are-the-possible-causes-in-apigee-x-3nne)
+- [I Fired the &quot;One-Click&quot; AI Builders: How I Built a React Portfolio with Gemini &lpar;Without Knowing React&rpar;](https://dev.to/aaditya_thakur_d9f786176d/i-fired-the-one-click-ai-builders-how-i-built-a-react-portfolio-with-gemini-without-knowing-4imi)
+- [Conversation Memory Collapse: Why Excessive Context Weakens AI](https://dev.to/faraz_farhan_83ed23a154a2/conversation-memory-collapse-why-excessive-context-weakens-ai-5377)
+- [Document Automation with Precision: The Challenge of Formatting Without Touching Content](https://dev.to/faraz_farhan_83ed23a154a2/document-automation-with-precision-the-challenge-of-formatting-without-touching-content-bb4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
