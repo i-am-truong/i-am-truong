@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Establish a Classic Bluetooth Connection Using the Virtual MAC Address of a Connected BLE Bluetooth Device?](https://dev.to/harmonyos/how-to-establish-a-classic-bluetooth-connection-using-the-virtual-mac-address-of-a-connected-ble-1bjk)
+- [Write concise Custom Elements for React, Vue, Svelte, Solid, etc. Write once, use everywhere, type checked!](https://dev.to/trusktr/write-concise-custom-elements-for-react-vue-svelte-solid-etc-write-once-use-everywhere-with-27ik)
+- [Building a Serverless PHP Application with Bref, Symfony, and DynamoDB Session Management](https://dev.to/rafaelbernard/building-a-serverless-php-application-with-bref-symfony-and-dynamodb-session-management-582a)
 - [Building an AI Photo Restoration Tool with Next.js](https://dev.to/s0lace11/building-an-ai-photo-restoration-tool-with-nextjs-1mg4)
 - [The Ultimate Guide to Drizzle ORM + PostgreSQL &lpar;2025 Edition&rpar;](https://dev.to/sameer_saleem/the-ultimate-guide-to-drizzle-orm-postgresql-2025-edition-22b)
-- [Modern Java Observability in 2026 - Spring Boot 4 on Amazon EKS](https://dev.to/yuriybezsonov/modern-java-observability-in-2026-spring-boot-4-on-amazon-eks-4bla)
-- [Networking 101 #1. Networking Introduction](https://dev.to/himanshu_bhatt/networking-101-1-networking-introduction-4ip0)
-- [Filament slow on large table? Optimize with Postgres partitions](https://dev.to/filamentmastery/filament-slow-on-large-table-optimize-with-postgres-partitions-52l2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
