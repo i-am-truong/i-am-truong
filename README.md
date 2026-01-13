@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [UQL v3: The Smartest TypeScript ORM just got way Smarter!](https://dev.to/sonemonu/uql-v3-the-smartest-typescript-orm-just-got-way-smarter-4ldj)
+- [Google Maps API Alternative for Geocoding in 2026 with calcs](https://dev.to/vitops/google-maps-api-alternative-for-geocoding-in-2026-with-calcs-1hhb)
+- [AI in Production: Why Prompts, Filters, and Monitoring Aren’t Enough](https://dev.to/verdic28/ai-in-production-why-prompts-filters-and-monitoring-arent-enough-1bp2)
+- [My Version 2.0 self &lpar;Journalistic Writeup&rpar;](https://dev.to/danyang007/my-version-20-self-journalistic-writeup-1akh)
 - [Beyond Token Validation: Measuring Real Device Delivery Rates with Firebase FCM](https://dev.to/sangwoo_rhie/beyond-token-validation-measuring-real-device-delivery-rates-with-firebase-fcm-3196)
-- [QPI — QR-Pixel Imaging](https://dev.to/colten_jacob_10ec3150930b/qpi-qr-pixel-imaging-4el7)
-- [When to use Cloudflare Workers for Edge Processing](https://dev.to/panilya/when-to-use-cloudflare-workers-for-edge-processing-52n)
-- [javascript로 connection pool 만들기](https://dev.to/algoorgoal/javascriptro-connection-pool-mandeulgi-hkd)
-- [First Repeating Element in an Array &lpar;C++&rpar;](https://dev.to/nithya_dharshiniofficial/first-repeating-element-in-an-array-c-4ljp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
