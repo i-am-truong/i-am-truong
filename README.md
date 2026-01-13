@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Super Fast Markdown Linting for Go Developers: Meet gomarklint](https://dev.to/_402ccbd6e5cb02871506/super-fast-markdown-linting-for-go-developers-meet-gomarklint-3ikd)
+- [How SDE Jobs looks after 2030? Brutal Truth no one tells](https://dev.to/dilippurohit47/how-sde-jobs-looks-after-2030-brutal-truth-no-one-tell-l5b)
 - [How to Establish a Classic Bluetooth Connection Using the Virtual MAC Address of a Connected BLE Bluetooth Device?](https://dev.to/harmonyos/how-to-establish-a-classic-bluetooth-connection-using-the-virtual-mac-address-of-a-connected-ble-1bjk)
 - [Write concise Custom Elements for React, Vue, Svelte, Solid, etc. Write once, use everywhere, type checked!](https://dev.to/trusktr/write-concise-custom-elements-for-react-vue-svelte-solid-etc-write-once-use-everywhere-with-27ik)
 - [Building a Serverless PHP Application with Bref, Symfony, and DynamoDB Session Management](https://dev.to/rafaelbernard/building-a-serverless-php-application-with-bref-symfony-and-dynamodb-session-management-582a)
-- [Building an AI Photo Restoration Tool with Next.js](https://dev.to/s0lace11/building-an-ai-photo-restoration-tool-with-nextjs-1mg4)
-- [The Ultimate Guide to Drizzle ORM + PostgreSQL &lpar;2025 Edition&rpar;](https://dev.to/sameer_saleem/the-ultimate-guide-to-drizzle-orm-postgresql-2025-edition-22b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
