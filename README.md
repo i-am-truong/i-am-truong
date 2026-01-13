@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Discord: How I would Architect Community Infrastructure on AWS](https://dev.to/alifunk/beyond-discord-how-i-would-architect-community-infrastructure-on-aws-4dg5)
-- [Power Apps - Canvas - Onstart How to avoid ruining your application](https://dev.to/_follone/power-apps-canvas-onstart-how-to-avoid-ruining-your-application-d5)
-- [How to Run Jest Integration Tests in Parallel Using Isolated SQL Schemas](https://dev.to/cseby92/how-to-run-jest-integration-tests-in-parallel-using-isolated-sql-schemas-1bm7)
-- [Flexora: Flexible Low-Rank Adaptation for Large Language Models](https://dev.to/trng28/flexora-flexible-low-rank-adaptation-for-large-language-models-3m13)
-- [From Android Engineer to Indie Developer: My Journey So Far](https://dev.to/gudong/from-android-engineer-to-indie-developer-my-journey-so-far-3jkm)
+- [Self-Hosted Nextcloud on a Ubuntu Server 24.04 VM](https://dev.to/navickas/self-hosted-nextcloud-on-a-ubuntu-server-2404-vm-4agh)
+- [Por que o seu Design System está morrendo &lpar;e como começamos a salvá-lo&rpar;](https://dev.to/augustosandim/por-que-o-seu-design-system-esta-morrendo-e-como-comecamos-a-salva-lo-546l)
+- [Refactor the Terraform Script — Restoring Balance](https://dev.to/killallskywalker/refactor-the-terraform-script-restoring-balance-4hko)
+- [SQL Aggregations Finally Made Sense: GROUP BY, HAVING, MIN, MAX, AVG](https://dev.to/mazinocodes/sql-aggregations-finally-made-sense-group-by-having-min-max-avg-2n44)
+- [ReactJS Hook Pattern ~Latest Ref Pattern~](https://dev.to/kkr0423/reactjs-hook-pattern-latest-ref-pattern-1f3a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
