@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Over Engineered My Portfolio Into an Operating System. No Regrets.](https://dev.to/dineshgit17/i-over-engineered-my-portfolio-into-an-operating-system-no-regrets-e52)
-- [Building Impactful Solutions: Portfolio Powered by Google Gemini &amp; Cloud Run](https://dev.to/kavitaj11/ai-powered-portfolio-full-stack-developer-showcase-with-google-gemini-cloud-run-2aaj)
-- [Self-Hosted Nextcloud on a Ubuntu Server 24.04 VM](https://dev.to/navickas/self-hosted-nextcloud-on-a-ubuntu-server-2404-vm-4agh)
-- [Por que o seu Design System está morrendo &lpar;e como começamos a salvá-lo&rpar;](https://dev.to/augustosandim/por-que-o-seu-design-system-esta-morrendo-e-como-comecamos-a-salva-lo-546l)
-- [Refactor the Terraform Script — Restoring Balance](https://dev.to/killallskywalker/refactor-the-terraform-script-restoring-balance-4hko)
+- [Designing Scalable Backend APIs: Building for Growth](https://dev.to/techblogs/designing-scalable-backend-apis-building-for-growth-5726)
+- [Caching with Redis: Accelerating Your Applications](https://dev.to/techblogs/caching-with-redis-accelerating-your-applications-11dp)
+- [What Junior Developers Get Wrong About “Clean Code”](https://dev.to/developerdave/what-junior-developers-get-wrong-about-clean-code-hca)
+- [Wallet Creation with Biometric Authentication](https://dev.to/ola-zoll/wallet-creation-with-biometric-authentication-1j6l)
+- [Agentic Knowledge Graphs with A2UI: Practical AI Use Cases for Real-Time Reasoning](https://dev.to/vishalmysore/agentic-knowledge-graphs-with-a2ui-practical-ai-use-cases-for-real-time-reasoning-iii)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
