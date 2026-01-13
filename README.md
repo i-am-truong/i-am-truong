@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Git for Beginners: Basics and Essential Commands](https://dev.to/anoop-rajoriya/git-for-beginners-basics-and-essential-commands-4ah2)
-- [Building a Production-Ready Portfolio: Phase-2 — Frontend Bootstrapping &amp; Architecture Setup](https://dev.to/imsushant12/building-a-production-ready-portfolio-phase-2-frontend-bootstrapping-architecture-setup-2hc0)
-- [AZ-104 Azure Administrator Cheat Sheet – 2026 Exam Notes](https://dev.to/bren67/az-104-azure-administrator-cheat-sheet-2026-exam-notes-4gkh)
-- [The Buy Button Is the Slowest Part of Most E Commerce Sites](https://dev.to/ar_abid_641aa302d5c68b2ae/the-buy-button-is-the-slowest-part-of-most-e-commerce-sites-3bco)
-- [DevOps should focus on one workflow, one outcome, one repeatable win instead of speed and automation.](https://dev.to/jaideepparashar/devops-should-focus-on-one-workflow-one-outcome-one-repeatable-win-instead-of-speed-and-4fba)
+- [In-Memory Databases Are Overrated — Here’s What Actually Matters for Speed&quot;](https://dev.to/esproc_spl/in-memory-databases-are-overrated-heres-what-actually-matters-for-speed-3ho1)
+- [Ask Our AI Experts: An AMA With Our Tech Leads](https://dev.to/capestart/ask-our-ai-experts-an-ama-with-our-tech-leads-2cn6)
+- [WJb Solution Alive Samples – Minimal &amp; Powerful Job Scheduling in .NET](https://dev.to/ukrguru/wjb-solution-alive-samples-minimal-powerful-job-scheduling-in-net-1cpc)
+- [How I Built a Zero-Dependency Technical Research Blog with Just HTML, CSS, and Markdown](https://dev.to/quochuydev/how-i-built-a-zero-dependency-technical-research-blog-with-just-html-css-and-markdown-kc2)
+- [Quantum Doomsday Delayed &lpar;Again&rpar;: Why the Latest Panic Over Post-Quantum Cryptography Feels Familiar](https://dev.to/zerotrustzeroenergy/quantum-doomsday-delayed-again-why-the-latest-panic-over-post-quantum-cryptography-feels-familiar-3pin)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
