@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The ECS Spot Instance Dilemma: When Task Placement Strategies Force Impossible Trade-Offs](https://dev.to/rex_zhen_a9a8400ee9f22e98/the-ecs-spot-instance-dilemma-when-task-placement-strategies-force-impossible-trade-offs-2jjg)
+- [The Cursor way to launch](https://dev.to/fmerian/the-cursor-way-to-launch-5e1m)
 - [Devlog #01: Making Fish Swim](https://dev.to/visualcookie/devlog-01-making-fish-swim-o56)
 - [PYTHON FUNDAMENTALS | From Basics to Real-World Applications](https://dev.to/igbojionu/python-fundamentals-from-basics-to-real-world-applications-3d07)
 - [[DEVLOG] Payload CMS Booster: Day 1 - 2](https://dev.to/elys_m/devlog-payload-cms-booster-day-1-2-2oed)
-- [Building SS7 Store, A Modern E-Commerce Platform with Next.js](https://dev.to/s_shabeh/building-ss7-store-a-modern-e-commerce-platform-with-nextjs-3nla)
-- [AI-startup&#39;s concepts are all same with our MIT-licensed OSS projects. Is this convergent evolution? or OSS etiquette violation?](https://dev.to/samchon/ai-startups-concepts-are-all-same-with-our-mit-licensed-oss-projects-is-this-convergent-2478)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
