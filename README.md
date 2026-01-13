@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Over Engineered My Portfolio Into an Operating System. No Regrets.](https://dev.to/dineshgit17/i-over-engineered-my-portfolio-into-an-operating-system-no-regrets-e52)
+- [Building Impactful Solutions: Portfolio Powered by Google Gemini &amp; Cloud Run](https://dev.to/kavitaj11/ai-powered-portfolio-full-stack-developer-showcase-with-google-gemini-cloud-run-2aaj)
 - [Self-Hosted Nextcloud on a Ubuntu Server 24.04 VM](https://dev.to/navickas/self-hosted-nextcloud-on-a-ubuntu-server-2404-vm-4agh)
 - [Por que o seu Design System está morrendo &lpar;e como começamos a salvá-lo&rpar;](https://dev.to/augustosandim/por-que-o-seu-design-system-esta-morrendo-e-como-comecamos-a-salva-lo-546l)
 - [Refactor the Terraform Script — Restoring Balance](https://dev.to/killallskywalker/refactor-the-terraform-script-restoring-balance-4hko)
-- [SQL Aggregations Finally Made Sense: GROUP BY, HAVING, MIN, MAX, AVG](https://dev.to/mazinocodes/sql-aggregations-finally-made-sense-group-by-having-min-max-avg-2n44)
-- [ReactJS Hook Pattern ~Latest Ref Pattern~](https://dev.to/kkr0423/reactjs-hook-pattern-latest-ref-pattern-1f3a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
