@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Oasis in 2025: A Shift Toward Verifiable Off-Chain Compute](https://dev.to/rollingindo/oasis-in-2025-a-shift-toward-verifiable-off-chain-compute-159k)
-- [Cloud Computing](https://dev.to/bruyo/cloud-computing-2bbo)
-- [Build a Throwaway Prototype First: How I Use Vibe Coding to Avoid Tech Debt](https://dev.to/johnbrawner/build-a-throwaway-prototype-first-how-i-use-vibe-coding-to-avoid-tech-debt-3p16)
-- [SaijinOS meets SENTINEL: Two Architectures for Human-AI Trust](https://dev.to/dmitry_labintcev_9e611e04/saijinos-meets-sentinel-two-architectures-for-human-ai-trust-40p5)
-- [🟦 Beginner-Friendly Guide &#39;Separate Squares I&#39; – LeetCode 3453 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-separate-squares-i-leetcode-3453-c-python-javascript-45nf)
+- [Azure API Management Standard v2 Secure Baseline](https://dev.to/rcoenmans/azure-api-management-standard-v2-secure-baseline-1f52)
+- [AI Coding Tip 002 - Prompt in English](https://dev.to/mcsee/ai-coding-tip-002-prompt-in-english-2la6)
+- [[Boost]](https://dev.to/anthonymax/-22j8)
+- [Hybrid Async-Native Engine for Python: A Design Concept for Review](https://dev.to/hejhdiss/hybrid-async-native-engine-for-python-a-design-concept-for-review-1446)
+- [We Built AI Governance That Stops Cost Explosions &lpar;Here&#39;s How&rpar;](https://dev.to/pranay_batta/we-built-ai-governance-that-stops-cost-explosions-heres-how-51gj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
