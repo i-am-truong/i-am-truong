@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Git for Beginners: Basics and Essential Commands](https://dev.to/anoop-rajoriya/git-for-beginners-basics-and-essential-commands-4ah2)
+- [Building a Production-Ready Portfolio: Phase-2 — Frontend Bootstrapping &amp; Architecture Setup](https://dev.to/imsushant12/building-a-production-ready-portfolio-phase-2-frontend-bootstrapping-architecture-setup-2hc0)
+- [AZ-104 Azure Administrator Cheat Sheet – 2026 Exam Notes](https://dev.to/bren67/az-104-azure-administrator-cheat-sheet-2026-exam-notes-4gkh)
 - [The Buy Button Is the Slowest Part of Most E Commerce Sites](https://dev.to/ar_abid_641aa302d5c68b2ae/the-buy-button-is-the-slowest-part-of-most-e-commerce-sites-3bco)
 - [DevOps should focus on one workflow, one outcome, one repeatable win instead of speed and automation.](https://dev.to/jaideepparashar/devops-should-focus-on-one-workflow-one-outcome-one-repeatable-win-instead-of-speed-and-4fba)
-- [How DevOps should choose AI use cases](https://dev.to/jaideepparashar/how-devops-should-choose-ai-use-cases-223f)
-- [🐌 “My Spring Boot API Became Slow… Until I Learned Pagination &amp; Sorting”](https://dev.to/shashwathsh/my-spring-boot-api-became-slow-until-i-learned-pagination-sorting-20md)
-- [Contrast sync vs async failure classes using first principles](https://dev.to/mohammadidrees/contrast-sync-vs-async-failure-classes-using-first-principles-d12)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
