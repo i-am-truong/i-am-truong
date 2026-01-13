@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Clipboard Problem That Drove Me to Build My Own Solution](https://dev.to/officialanurag/the-clipboard-problem-that-drove-me-to-build-my-own-solution-4k7)
-- [Static and Non-Static Variables in Java](https://dev.to/kavitha_krish/static-and-non-static-variables-in-java-1glm)
-- [A Developer’s Guide to Staying Connected Abroad Without Roaming Hassles](https://dev.to/ben_blog/a-developers-guide-to-staying-connected-abroad-without-roaming-hassles-10fe)
-- [Day 6: Structs in C: Organizing Data without Classes](https://dev.to/ujjawal0711/day-6-structs-in-c-organizing-data-without-classes-55l8)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1ho6)
+- [Devlog #01: Making Fish Swim](https://dev.to/visualcookie/devlog-01-making-fish-swim-o56)
+- [PYTHON FUNDAMENTALS | From Basics to Real-World Applications](https://dev.to/igbojionu/python-fundamentals-from-basics-to-real-world-applications-3d07)
+- [[DEVLOG] Payload CMS Booster: Day 1 - 2](https://dev.to/elys_m/devlog-payload-cms-booster-day-1-2-2oed)
+- [Building SS7 Store, A Modern E-Commerce Platform with Next.js](https://dev.to/s_shabeh/building-ss7-store-a-modern-e-commerce-platform-with-nextjs-3nla)
+- [AI-startup&#39;s concepts are all same with our MIT-licensed OSS projects. Is this convergent evolution? or OSS etiquette violation?](https://dev.to/samchon/ai-startups-concepts-are-all-same-with-our-mit-licensed-oss-projects-is-this-convergent-2478)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
