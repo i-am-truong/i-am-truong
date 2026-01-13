@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CCIE Data Center Certification: Expert Path to Modern Data Center Mastery](https://dev.to/rohan_jee_085655230/ccie-data-center-certification-expert-path-to-modern-data-center-mastery-3ojb)
-- [Fabric em 2026: menos ETL, mais “data estate pronto para agentes”](https://dev.to/angelo_matias/fabric-em-2026-menos-etl-mais-data-estate-pronto-para-agentes-2knh)
-- [Why Laravel Can&#39;t Guess Your Factory Relationships](https://dev.to/tegos/why-laravel-cant-guess-your-factory-relationships-4keb)
-- [Building a Resilient, Low Latency Order Processing System with Taubyte](https://dev.to/taubyte/building-a-resilient-low-latency-order-processing-system-with-taubyte-4962)
-- [BSON vs OSON: Different design goals](https://dev.to/franckpachot/bson-vs-oson-different-design-goals-5geg)
+- [🚧 Project Update: Building a Secure, Privacy‑First Web App with WeWeb](https://dev.to/codebunny20/project-update-building-a-secure-privacy-first-web-app-with-weweb-g1e)
+- [Why Do Retrospectives Feel Like a Waste of Time?](https://dev.to/ghostinit0x/why-do-retrospectives-feel-like-a-waste-of-time-26dj)
+- [How to use OpenCode: A Practical Guide + Builds](https://dev.to/composiodev/how-to-use-opencode-a-practical-guide-2egp)
+- [AI Slop Detector v2.6.1 Self-Audit: I planted 3 bad files — did it catch them?](https://dev.to/flamehaven01/ai-slop-detector-v261-self-audit-i-planted-3-bad-files-did-it-catch-them-52h8)
+- [CCNP Enterprise Certification: Your Complete Guide to Advancing Network Expertise](https://dev.to/rohan_jee_085655230/ccnp-enterprise-certification-your-complete-guide-to-advancing-network-expertise-16m8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
