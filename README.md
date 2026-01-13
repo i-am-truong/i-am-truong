@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Migrando de Supabase a una arquitectura full Go: La poesía de los binarios estáticos](https://dev.to/gopherscl/migrando-de-supabase-a-una-arquitectura-full-go-la-poesia-de-los-binarios-estaticos-145n)
-- [System Design for Beginners: A Practical Practice Path](https://dev.to/alex_hunter_44f4c9ed6671e/system-design-for-beginners-a-practical-practice-path-107p)
-- [Constela v0.8.0: 5 New Features for AI-Powered UI Development](https://dev.to/yuu1ch13/constela-v080-5-new-features-for-ai-powered-ui-development-5f02)
-- [Batch vs Mini-Batch vs Stochastic Gradient Descent: Three Hikers, Three Strategies, One Mountain](https://dev.to/sachin_krrajput/batch-vs-mini-batch-vs-stochastic-gradient-descent-three-hikers-three-strategies-one-mountain-23bd)
-- [AI for Log Anomaly Detection Why It Matters, How It Works, and What Modern Organizations Need to Know](https://dev.to/alexendrascott01/ai-for-log-anomaly-detection-why-it-matters-how-it-works-and-what-modern-organizations-need-to-4e1n)
+- [Cross-Validation: Why Testing Your Model Once Is Like Judging a Restaurant by a Single Bite](https://dev.to/sachin_krrajput/cross-validation-why-testing-your-model-once-is-like-judging-a-restaurant-by-a-single-bite-1l0l)
+- [I Mass-Unsubscribed from 40 Changelog Newsletters and Built My Own Aggregator](https://dev.to/empe/i-mass-unsubscribed-from-40-changelog-newsletters-and-built-my-own-aggregator-4n8j)
+- [No Code? No Problem. How I used AI Studio to turn official exam docs into a Pixel Art Game.](https://dev.to/gde/no-code-no-problem-how-i-used-ai-studio-to-turn-official-exam-docs-into-a-pixel-art-game-jag)
+- [Why &quot;SEO on Autopilot&quot; Tools Failed Me &lpar;And What Actually Worked Out&rpar;](https://dev.to/luka_tegeltija_ae6992a87f/why-seo-on-autopilot-tools-failed-me-and-what-actually-worked-out-5fc)
+- [Agent Factory Recap: Securing AI Agents in Production](https://dev.to/googleai/agent-factory-recap-securing-ai-agents-in-production-60o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
