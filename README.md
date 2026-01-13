@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The ECS Spot Instance Dilemma: When Task Placement Strategies Force Impossible Trade-Offs](https://dev.to/rex_zhen_a9a8400ee9f22e98/the-ecs-spot-instance-dilemma-when-task-placement-strategies-force-impossible-trade-offs-2jjg)
-- [The Cursor way to launch](https://dev.to/fmerian/the-cursor-way-to-launch-5e1m)
-- [Devlog #01: Making Fish Swim](https://dev.to/visualcookie/devlog-01-making-fish-swim-o56)
-- [PYTHON FUNDAMENTALS | From Basics to Real-World Applications](https://dev.to/igbojionu/python-fundamentals-from-basics-to-real-world-applications-3d07)
-- [[DEVLOG] Payload CMS Booster: Day 1 - 2](https://dev.to/elys_m/devlog-payload-cms-booster-day-1-2-2oed)
+- [Beyond Token Validation: Measuring Real Device Delivery Rates with Firebase FCM](https://dev.to/sangwoo_rhie/beyond-token-validation-measuring-real-device-delivery-rates-with-firebase-fcm-3196)
+- [QPI — QR-Pixel Imaging](https://dev.to/colten_jacob_10ec3150930b/qpi-qr-pixel-imaging-4el7)
+- [When to use Cloudflare Workers for Edge Processing](https://dev.to/panilya/when-to-use-cloudflare-workers-for-edge-processing-52n)
+- [javascript로 connection pool 만들기](https://dev.to/algoorgoal/javascriptro-connection-pool-mandeulgi-hkd)
+- [First Repeating Element in an Array &lpar;C++&rpar;](https://dev.to/nithya_dharshiniofficial/first-repeating-element-in-an-array-c-4ljp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
