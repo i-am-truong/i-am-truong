@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Create an AI Chatbot with Google Gemini Using Node.js](https://dev.to/ciphernutz/how-to-create-an-ai-chatbot-with-google-gemini-using-nodejs-255f)
+- [Why my clean API abstraction collapsed under real traffic](https://dev.to/leena_malhotra/why-my-clean-api-abstraction-collapsed-under-real-traffic-f0i)
 - [Astro + Decap in 2026](https://dev.to/migsarnavarro/astro-decap-in-2026-3mj3)
-- [Quick Sort in Javascript](https://dev.to/thecoollearner/quick-sort-in-javascript-33da)
-- [JavaScript Module System Explained &lpar;with Examples&rpar;](https://dev.to/rayan2228/javascript-module-system-explained-with-examples-3l6o)
-- [CUE Does It All, But Can It Literate?](https://dev.to/exlee/cue-does-it-all-but-can-it-literate-5gmj)
-- [Moving on from Terraform CDK](https://dev.to/encore/moving-on-from-terraform-cdk-3aif)
+- [A Much Better Windows tree Command that Implemented in Rust &lpar;tree++&rpar;](https://dev.to/water_run_305f6dfd401fdaf/a-much-better-windows-tree-command-that-implemented-in-rust-tree-4202)
+- [What Is Coolify? Understanding How It Works and Why It Improves App Performance](https://dev.to/cheeku_kumar_09a3a05e4b11/what-is-coolify-understanding-how-it-works-and-why-it-improves-app-performance-34bk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
