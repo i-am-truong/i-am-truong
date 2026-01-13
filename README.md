@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Regression Bug Was the Most Important Result](https://dev.to/dqj1998/the-regression-bug-was-the-most-important-result-1ki4)
-- [PHP Attribute: SensitiveParameter](https://dev.to/travisfont/php-attribute-sensitiveparameter-paf)
-- [How not to use Static classes in C#](https://dev.to/rahul1994jh/how-not-to-use-static-classes-in-c--53p2)
-- [Cảm ơn cuộc đời vì mỗi sáng vẫn còn một hơi thở](https://dev.to/kelvynthai/cam-on-cuoc-doi-vi-moi-sang-van-con-mot-hoi-tho-fih)
-- [The second-highest salary: Why the simplest SQL query is often the smartest](https://dev.to/vardan_matevosian_tech/the-second-highest-salary-why-the-simplest-sql-query-is-often-the-smartest-3jod)
+- [🟦 Beginner-Friendly Guide &#39;Separate Squares I&#39; – LeetCode 3453 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-separate-squares-i-leetcode-3453-c-python-javascript-45nf)
+- [Ternas pitagóricas](https://dev.to/baltasarq/ternas-pitagoricas-n6f)
+- [Identify Practical Use Cases for AI](https://dev.to/aws-builders/identify-practical-use-cases-for-ai-3mb2)
+- [Pusher vs Socket.io Explained for Beginners](https://dev.to/arafatweb/pusher-vs-socketio-explained-for-beginners-5d0p)
+- [CLI tool to &quot;freeze&quot; heavy apps instead of closing them to save CPU/RAM &lpar;Python + Linux&rpar;](https://dev.to/annposhtak/cli-tool-to-freeze-heavy-apps-instead-of-closing-them-to-save-cpuram-python-linux-4n1p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
