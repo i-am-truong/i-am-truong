@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cross-Validation: Why Testing Your Model Once Is Like Judging a Restaurant by a Single Bite](https://dev.to/sachin_krrajput/cross-validation-why-testing-your-model-once-is-like-judging-a-restaurant-by-a-single-bite-1l0l)
-- [I Mass-Unsubscribed from 40 Changelog Newsletters and Built My Own Aggregator](https://dev.to/empe/i-mass-unsubscribed-from-40-changelog-newsletters-and-built-my-own-aggregator-4n8j)
-- [No Code? No Problem. How I used AI Studio to turn official exam docs into a Pixel Art Game.](https://dev.to/gde/no-code-no-problem-how-i-used-ai-studio-to-turn-official-exam-docs-into-a-pixel-art-game-jag)
-- [Why &quot;SEO on Autopilot&quot; Tools Failed Me &lpar;And What Actually Worked Out&rpar;](https://dev.to/luka_tegeltija_ae6992a87f/why-seo-on-autopilot-tools-failed-me-and-what-actually-worked-out-5fc)
-- [Agent Factory Recap: Securing AI Agents in Production](https://dev.to/googleai/agent-factory-recap-securing-ai-agents-in-production-60o)
+- [The Rate Limiting Bug That Cost Us 14 Engineering Hours &lpar;And What We Learned&rpar;](https://dev.to/ackermannq/the-rate-limiting-bug-that-cost-us-14-engineering-hours-and-what-we-learned-24mj)
+- [Networking 101 #2. How the Internet actually works](https://dev.to/himanshu_bhatt/networking-101-2-how-the-internet-actually-works-2fg1)
+- [Looking for Developer Feedback: Open Issues in Vizora &lpar;Schema Intelligence Tool&rpar;](https://dev.to/rushikesh_bodakhe_db28644/looking-for-developer-feedback-open-issues-in-vizora-schema-intelligence-tool-328h)
+- [Build an HTML Media Player](https://dev.to/richardpascoe/build-an-html-media-player-3p5k)
+- [The Silent Revolution of Workflow Automation: How n8n Broke the Market](https://dev.to/rmarsigli/the-silent-revolution-of-workflow-automation-how-n8n-broke-the-market-3oep)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
