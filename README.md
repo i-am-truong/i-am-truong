@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Padrões de Arquitetura vs Padrões de Projeto](https://dev.to/filosofiadobug/padroes-de-arquitetura-vs-padroes-de-projeto-49ik)
+- [SwiftUI Background Work &amp; Task Scheduling &lpar;Production Architecture&rpar;](https://dev.to/sebastienlato/swiftui-background-work-task-scheduling-production-architecture-3f1p)
 - [Building High-Performance Interactive Mascots in Flutter with Rive &lpar;Production Guide for 2026&rpar;](https://dev.to/uianimation/building-high-performance-interactive-mascots-in-flutter-with-rive-production-guide-for-2026-17c6)
 - [Sqlite Database File Structure](https://dev.to/lovestaco/sqlite-database-file-structure-2dhl)
 - [MSUthemes: Building Consistent Analytics Through Thoughtful Tooling](https://dev.to/emilioxavier/msuthemes-building-consistent-analytics-through-thoughtful-tooling-4lln)
-- [🎨Color Picker Tool for Visual Studio](https://dev.to/shemeerns/color-picker-tool-for-visual-studio-j4p)
-- [🚧 Project Update: Building a Secure, Privacy‑First Web App with WeWeb](https://dev.to/codebunny20/project-update-building-a-secure-privacy-first-web-app-with-weweb-g1e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
