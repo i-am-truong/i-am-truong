@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [.NET: Vertical Slice Architecture vs Clean Architecture — A Practical Comparison Using Real APIs](https://dev.to/gramli/net-vertical-slice-architecture-vs-clean-architecture-a-practical-comparison-using-real-apis-4mck)
-- [How to Implement Frame.io style Comments in Your Video Player App📹](https://dev.to/astrodevil/how-to-implement-frameio-style-comments-in-your-video-player-app-2nhf)
-- [PDK 3.6.1 patch release available!](https://dev.to/puppet/pdk-361-patch-release-available-3knj)
-- [Resurrecting a 25-Year-Old Horror Game: How I Ported &#39;Fiend&#39; to Modern Systems](https://dev.to/gustavolr548/resurrecting-a-25-year-old-horror-game-how-i-ported-fiend-to-modern-systems-3m4o)
-- [To keep myself accountable...](https://dev.to/kriti_arora/to-keep-myself-accountable-275g)
+- [Dynamic MCP Server discovery with goose](https://dev.to/amandamartindev/dynamic-mcp-server-discovery-with-goose-3m41)
+- [Building Resilient Loading States: Beyond Simple Spinners](https://dev.to/hasnaat-iftikhar/building-resilient-loading-states-beyond-simple-spinners-2jmo)
+- [5 AWS Resources You&#39;re Probably Overpaying For &lpar;And How to Fix Each One&rpar;](https://dev.to/german_neironi/5-aws-resources-youre-probably-overpaying-for-and-how-to-fix-each-one-4p0o)
+- [How to Download and Install JDK &lpar;Java Development Kit&rpar;](https://dev.to/kavitha_krish/how-to-download-and-install-jdk-java-development-kit-2acp)
+- [Page Speed Under Load: Why Performance Problems Appear Only at Scale](https://dev.to/webgarhmarketing/page-speed-under-load-why-performance-problems-appear-only-at-scale-oo5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
