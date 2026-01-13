@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Using AI to Predict Football and Basketball Matches: Ideas and Challenges](https://dev.to/jogosdehoje/using-ai-to-predict-football-and-basketball-matches-ideas-and-challenges-12o8)
-- [How to build and serve custom simplified maps with OpenMapTiles](https://dev.to/zenika/how-to-build-and-serve-custom-simplified-maps-with-openmaptiles-hfn)
-- [What SmartML Benchmarks Tell You Before Hyperparameter Tuning](https://dev.to/jashwanth_thatipamula_8ee/what-smartml-benchmarks-tell-you-before-hyperparameter-tuning-2pll)
-- [How RAG Changed the Way We Use Large Language Models](https://dev.to/shravya_k/how-rag-changed-the-way-we-use-large-language-models-1iih)
-- [Why frontend developers don&#39;t wanna write e2e tests](https://dev.to/kriptonian/why-frontend-developers-dont-wanna-write-e2e-tests-4j91)
+- [Astro + Decap in 2026](https://dev.to/migsarnavarro/astro-decap-in-2026-3mj3)
+- [Quick Sort in Javascript](https://dev.to/thecoollearner/quick-sort-in-javascript-33da)
+- [JavaScript Module System Explained &lpar;with Examples&rpar;](https://dev.to/rayan2228/javascript-module-system-explained-with-examples-3l6o)
+- [CUE Does It All, But Can It Literate?](https://dev.to/exlee/cue-does-it-all-but-can-it-literate-5gmj)
+- [Moving on from Terraform CDK](https://dev.to/encore/moving-on-from-terraform-cdk-3aif)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
