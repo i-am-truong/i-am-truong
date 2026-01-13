@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Azure API Management Standard v2 Secure Baseline](https://dev.to/rcoenmans/azure-api-management-standard-v2-secure-baseline-1f52)
-- [AI Coding Tip 002 - Prompt in English](https://dev.to/mcsee/ai-coding-tip-002-prompt-in-english-2la6)
-- [[Boost]](https://dev.to/anthonymax/-22j8)
-- [Hybrid Async-Native Engine for Python: A Design Concept for Review](https://dev.to/hejhdiss/hybrid-async-native-engine-for-python-a-design-concept-for-review-1446)
-- [We Built AI Governance That Stops Cost Explosions &lpar;Here&#39;s How&rpar;](https://dev.to/pranay_batta/we-built-ai-governance-that-stops-cost-explosions-heres-how-51gj)
+- [Inside Git: How It Works and the Role of the .git Folder](https://dev.to/ritam369/inside-git-how-it-works-and-the-role-of-the-git-folder-3a4m)
+- [Maintenance Plans &amp; Grace Periods in C#: Automating Software Updates and Renewals](https://dev.to/olivier_moussalli_e3492f5/maintenance-plans-grace-periods-in-c-automating-software-updates-and-renewals-2159)
+- [Install k3s on Debian 11/12](https://dev.to/kamlesh_merugu/install-k3s-on-debian-1112-3ppo)
+- [A 90-Day Journey Into Web3: From Senior Backend Engineer to Smart Contract Developer](https://dev.to/yanjun/a-90-day-journey-into-web3-from-senior-backend-engineer-to-smart-contract-developer-3p0f)
+- [Cron vs. Python’s schedule: Which Should You Use for Task Automation?](https://dev.to/raafe_asad/cron-vs-pythons-schedule-which-should-you-use-for-task-automation-22di)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
