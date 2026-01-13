@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building High-Performance Interactive Mascots in Flutter with Rive &lpar;Production Guide for 2026&rpar;](https://dev.to/uianimation/building-high-performance-interactive-mascots-in-flutter-with-rive-production-guide-for-2026-17c6)
+- [Sqlite Database File Structure](https://dev.to/lovestaco/sqlite-database-file-structure-2dhl)
+- [MSUthemes: Building Consistent Analytics Through Thoughtful Tooling](https://dev.to/emilioxavier/msuthemes-building-consistent-analytics-through-thoughtful-tooling-4lln)
+- [🎨Color Picker Tool for Visual Studio](https://dev.to/shemeerns/color-picker-tool-for-visual-studio-j4p)
 - [🚧 Project Update: Building a Secure, Privacy‑First Web App with WeWeb](https://dev.to/codebunny20/project-update-building-a-secure-privacy-first-web-app-with-weweb-g1e)
-- [Why Do Retrospectives Feel Like a Waste of Time?](https://dev.to/ghostinit0x/why-do-retrospectives-feel-like-a-waste-of-time-26dj)
-- [How to use OpenCode: A Practical Guide + Builds](https://dev.to/composiodev/how-to-use-opencode-a-practical-guide-2egp)
-- [AI Slop Detector v2.6.1 Self-Audit: I planted 3 bad files — did it catch them?](https://dev.to/flamehaven01/ai-slop-detector-v261-self-audit-i-planted-3-bad-files-did-it-catch-them-52h8)
-- [CCNP Enterprise Certification: Your Complete Guide to Advancing Network Expertise](https://dev.to/rohan_jee_085655230/ccnp-enterprise-certification-your-complete-guide-to-advancing-network-expertise-16m8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
