@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop Fighting TypeScript in React: Common Frustrations and How to Fix Them](https://dev.to/tarunmj6/stop-fighting-typescript-in-react-common-frustrations-and-how-to-fix-them-19a8)
-- [Why We Use Custom Hooks.](https://dev.to/anish_ali/why-we-use-custom-hooks-1b3n)
-- [Custom Form Builder for React Applications](https://dev.to/_surveyjs/custom-form-builder-for-react-applications-2a12)
-- [Building a Production-Grade AI Web App in 2026: Architecture, Trade-offs, and Hard-Won Lessons](https://dev.to/art_light/building-a-production-grade-ai-web-app-in-2026-architecture-trade-offs-and-hard-won-lessons-4llg)
-- [Engineer’s Diary: Leaving Windows Behind and Building the ETL Engine I Always Dreamed Of, PardoX v0.1](https://dev.to/betoalien/engineers-diary-leaving-windows-behind-and-building-the-etl-engine-i-always-dreamed-of-pardox-9jp)
+- [Power Apps - Canvas - Onstart How to avoid ruining your application](https://dev.to/_follone/power-apps-canvas-onstart-how-to-avoid-ruining-your-application-d5)
+- [How to Run Jest Integration Tests in Parallel Using Isolated SQL Schemas](https://dev.to/cseby92/how-to-run-jest-integration-tests-in-parallel-using-isolated-sql-schemas-1bm7)
+- [Flexora: Flexible Low-Rank Adaptation for Large Language Models](https://dev.to/trng28/flexora-flexible-low-rank-adaptation-for-large-language-models-3m13)
+- [From Android Engineer to Indie Developer: My Journey So Far](https://dev.to/_9162596f7fb60139f88447/from-android-engineer-to-indie-developer-my-journey-so-far-3jkm)
+- [Building a Celtic Cross Tarot Reading Platform from Scratch](https://dev.to/romulusjustinianus/building-a-celtic-cross-tarot-reading-platform-from-scratch-3iof)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
