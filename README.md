@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Produtividade no Terminal: O Poder dos Aliases no Linux](https://dev.to/marcos_vile/produtividade-no-terminal-o-poder-dos-aliases-no-linux-13bm)
-- [Holding the Load: Handling Webhook Traffic Spikes Without Scaling Your cheap VPS](https://dev.to/tiago123456789/holding-the-load-handling-webhook-traffic-spikes-without-scaling-your-cheap-vps-2hi4)
-- [New Year, New You Portfolio Challenge - Building &amp; Deploying My Portfolio with Google Cloud Run](https://dev.to/iustinaghn/new-year-new-you-portfolio-challenge-building-deploying-my-portfolio-with-google-cloud-run-4333)
-- [Bridging the Causal Gap in Agentic AI: Introducing the PIC Standard](https://dev.to/fabsalvadori/bridging-the-causal-gap-in-agentic-ai-introducing-the-pic-standard-5dif)
-- [Your GitHub Contribution Graph Means Absolutely Nothing - And Here’s Why](https://dev.to/sylwia-lask/your-github-contribution-graph-means-absolutely-nothing-and-heres-why-2kjc)
+- [Feedforward Neural Networks](https://dev.to/washington_amolo_ebf7698c/feedforward-neural-networks-3mhm)
+- [The Three Musketeers of Machine Learning: A Journey from &quot;What&#39;s ML?&quot; to &quot;I Get It!&quot;](https://dev.to/sachin_krrajput/the-three-musketeers-of-machine-learning-a-journey-from-whats-ml-to-i-get-it-2dla)
+- [IVP Compliance Review: CodeAI - An AI-Designed Language Evaluated Against the Independent Variation Principle](https://dev.to/yannick555/ivp-compliance-review-codeai-an-ai-designed-language-evaluated-against-the-independent-variation-4ca9)
+- [I got tired of manual DTO mapping, so I built a visual tool for it 🛠️](https://dev.to/anandh_a_73d986de2f2e0c58/i-got-tired-of-manual-dto-mapping-so-i-built-a-visual-tool-for-it-35g8)
+- [My Exam Experience: AWS Certified Security Specialty](https://dev.to/xmabry/my-exam-experience-aws-certified-security-specialty-1ke6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
