@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [domharvest-playwright 1.3.0: Declarative DSL and Authentication Support](https://dev.to/domharvest/domharvest-playwright-130-declarative-dsl-and-authentication-support-20d5)
 - [Padrões de Arquitetura vs Padrões de Projeto](https://dev.to/filosofiadobug/padroes-de-arquitetura-vs-padroes-de-projeto-49ik)
 - [SwiftUI Background Work &amp; Task Scheduling &lpar;Production Architecture&rpar;](https://dev.to/sebastienlato/swiftui-background-work-task-scheduling-production-architecture-3f1p)
 - [Building High-Performance Interactive Mascots in Flutter with Rive &lpar;Production Guide for 2026&rpar;](https://dev.to/uianimation/building-high-performance-interactive-mascots-in-flutter-with-rive-production-guide-for-2026-17c6)
 - [Sqlite Database File Structure](https://dev.to/lovestaco/sqlite-database-file-structure-2dhl)
-- [MSUthemes: Building Consistent Analytics Through Thoughtful Tooling](https://dev.to/emilioxavier/msuthemes-building-consistent-analytics-through-thoughtful-tooling-4lln)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
