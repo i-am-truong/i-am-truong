@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Stop Fighting TypeScript in React: Common Frustrations and How to Fix Them](https://dev.to/tarunmj6/stop-fighting-typescript-in-react-common-frustrations-and-how-to-fix-them-19a8)
+- [Why We Use Custom Hooks.](https://dev.to/anish_ali/why-we-use-custom-hooks-1b3n)
+- [Custom Form Builder for React Applications](https://dev.to/_surveyjs/custom-form-builder-for-react-applications-2a12)
+- [Building a Production-Grade AI Web App in 2026: Architecture, Trade-offs, and Hard-Won Lessons](https://dev.to/art_light/building-a-production-grade-ai-web-app-in-2026-architecture-trade-offs-and-hard-won-lessons-4llg)
 - [Engineer’s Diary: Leaving Windows Behind and Building the ETL Engine I Always Dreamed Of, PardoX v0.1](https://dev.to/betoalien/engineers-diary-leaving-windows-behind-and-building-the-etl-engine-i-always-dreamed-of-pardox-9jp)
-- [Dart Frog Tutorial Part 2: Building Your First Real REST API &lpar;Full CRUD with Todos&rpar; 🐸](https://dev.to/techwithsam/dart-frog-tutorial-part-2-building-your-first-real-rest-api-full-crud-with-todos-14ff)
-- [My Goals for 2026 in Technology](https://dev.to/cinthiabs/my-goals-for-2026-in-technology-dae)
-- [Ditch Matplotlib: Create an Interactive Python Chart in 3 Lines of Code](https://dev.to/edgarmilvus/ditch-matplotlib-create-an-interactive-python-chart-in-3-lines-of-code-1204)
-- [1 year of using AI tools in enterprise apps — here’s what I learned](https://dev.to/atokarev_9/1-year-of-using-ai-tools-in-enterprise-apps-heres-what-i-learned-2dod)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
