@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Kotlin Multiplatform in Production - 1 Year Later](https://dev.to/rafalgawlik/kotlin-multiplatform-in-production-1-year-later-55po)
-- [The NanoBanana Image Generation Prompt Templates That Actually Work](https://dev.to/sivarampg/the-nanobanana-image-generation-prompt-templates-that-actually-work-1261)
-- [C#.NET - day 08](https://dev.to/sabin_sim/cnet-day-08-14jp)
-- [You don&#39;t have to read every line](https://dev.to/benjaminsavoy/you-dont-have-to-read-every-line-4e5b)
-- [How to create password back-up system on Node.js](https://dev.to/jahongir2007/how-to-create-password-back-up-system-on-nodejs-2095)
+- [CCIE Data Center Certification: Expert Path to Modern Data Center Mastery](https://dev.to/rohan_jee_085655230/ccie-data-center-certification-expert-path-to-modern-data-center-mastery-3ojb)
+- [Fabric em 2026: menos ETL, mais “data estate pronto para agentes”](https://dev.to/angelo_matias/fabric-em-2026-menos-etl-mais-data-estate-pronto-para-agentes-2knh)
+- [Why Laravel Can&#39;t Guess Your Factory Relationships](https://dev.to/tegos/why-laravel-cant-guess-your-factory-relationships-4keb)
+- [Building a Resilient, Low Latency Order Processing System with Taubyte](https://dev.to/taubyte/building-a-resilient-low-latency-order-processing-system-with-taubyte-4962)
+- [BSON vs OSON: Different design goals](https://dev.to/franckpachot/bson-vs-oson-different-design-goals-5geg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
