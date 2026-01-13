@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Production-Ready Monorepo for AI-Native Full-Stack Development](https://dev.to/gracefullight/a-production-ready-monorepo-for-ai-native-full-stack-development-55ma)
+- [GenX: From Childhood Flipbooks to Premium Scroll Animation](https://dev.to/sagarparmarr/genx-from-childhood-flipbooks-to-premium-scroll-animation-1j4)
 - [In-Memory Databases Are Overrated — Here’s What Actually Matters for Speed&quot;](https://dev.to/esproc_spl/in-memory-databases-are-overrated-heres-what-actually-matters-for-speed-3ho1)
 - [Ask Our AI Experts: An AMA With Our Tech Leads](https://dev.to/capestart/ask-our-ai-experts-an-ama-with-our-tech-leads-2cn6)
 - [WJb Solution Alive Samples – Minimal &amp; Powerful Job Scheduling in .NET](https://dev.to/ukrguru/wjb-solution-alive-samples-minimal-powerful-job-scheduling-in-net-1cpc)
-- [How I Built a Zero-Dependency Technical Research Blog with Just HTML, CSS, and Markdown](https://dev.to/quochuydev/how-i-built-a-zero-dependency-technical-research-blog-with-just-html-css-and-markdown-kc2)
-- [Quantum Doomsday Delayed &lpar;Again&rpar;: Why the Latest Panic Over Post-Quantum Cryptography Feels Familiar](https://dev.to/zerotrustzeroenergy/quantum-doomsday-delayed-again-why-the-latest-panic-over-post-quantum-cryptography-feels-familiar-3pin)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
