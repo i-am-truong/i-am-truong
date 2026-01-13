@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Production-Ready Monorepo for AI-Native Full-Stack Development](https://dev.to/gracefullight/a-production-ready-monorepo-for-ai-native-full-stack-development-55ma)
-- [GenX: From Childhood Flipbooks to Premium Scroll Animation](https://dev.to/sagarparmarr/genx-from-childhood-flipbooks-to-premium-scroll-animation-1j4)
-- [In-Memory Databases Are Overrated — Here’s What Actually Matters for Speed&quot;](https://dev.to/esproc_spl/in-memory-databases-are-overrated-heres-what-actually-matters-for-speed-3ho1)
-- [Ask Our AI Experts: An AMA With Our Tech Leads](https://dev.to/capestart/ask-our-ai-experts-an-ama-with-our-tech-leads-2cn6)
-- [WJb Solution Alive Samples – Minimal &amp; Powerful Job Scheduling in .NET](https://dev.to/ukrguru/wjb-solution-alive-samples-minimal-powerful-job-scheduling-in-net-1cpc)
+- [Building an AI Photo Restoration Tool with Next.js](https://dev.to/s0lace11/building-an-ai-photo-restoration-tool-with-nextjs-1mg4)
+- [The Ultimate Guide to Drizzle ORM + PostgreSQL &lpar;2025 Edition&rpar;](https://dev.to/sameer_saleem/the-ultimate-guide-to-drizzle-orm-postgresql-2025-edition-22b)
+- [Modern Java Observability in 2026 - Spring Boot 4 on Amazon EKS](https://dev.to/yuriybezsonov/modern-java-observability-in-2026-spring-boot-4-on-amazon-eks-4bla)
+- [Networking 101 #1. Networking Introduction](https://dev.to/himanshu_bhatt/networking-101-1-networking-introduction-4ip0)
+- [Filament slow on large table? Optimize with Postgres partitions](https://dev.to/filamentmastery/filament-slow-on-large-table-optimize-with-postgres-partitions-52l2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
