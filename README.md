@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Inside Git: How It Works and the Role of the .git Folder](https://dev.to/ritam369/inside-git-how-it-works-and-the-role-of-the-git-folder-3a4m)
-- [Maintenance Plans &amp; Grace Periods in C#: Automating Software Updates and Renewals](https://dev.to/olivier_moussalli_e3492f5/maintenance-plans-grace-periods-in-c-automating-software-updates-and-renewals-2159)
-- [Install k3s on Debian 11/12](https://dev.to/kamlesh_merugu/install-k3s-on-debian-1112-3ppo)
-- [A 90-Day Journey Into Web3: From Senior Backend Engineer to Smart Contract Developer](https://dev.to/yanjun/a-90-day-journey-into-web3-from-senior-backend-engineer-to-smart-contract-developer-3p0f)
-- [Cron vs. Python’s schedule: Which Should You Use for Task Automation?](https://dev.to/raafe_asad/cron-vs-pythons-schedule-which-should-you-use-for-task-automation-22di)
+- [Produtividade no Terminal: O Poder dos Aliases no Linux](https://dev.to/marcos_vile/produtividade-no-terminal-o-poder-dos-aliases-no-linux-13bm)
+- [Holding the Load: Handling Webhook Traffic Spikes Without Scaling Your cheap VPS](https://dev.to/tiago123456789/holding-the-load-handling-webhook-traffic-spikes-without-scaling-your-cheap-vps-2hi4)
+- [New Year, New You Portfolio Challenge - Building &amp; Deploying My Portfolio with Google Cloud Run](https://dev.to/iustinaghn/new-year-new-you-portfolio-challenge-building-deploying-my-portfolio-with-google-cloud-run-4333)
+- [Bridging the Causal Gap in Agentic AI: Introducing the PIC Standard](https://dev.to/fabsalvadori/bridging-the-causal-gap-in-agentic-ai-introducing-the-pic-standard-5dif)
+- [Your GitHub Contribution Graph Means Absolutely Nothing - And Here’s Why](https://dev.to/sylwia-lask/your-github-contribution-graph-means-absolutely-nothing-and-heres-why-2kjc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
