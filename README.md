@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Readiness probe](https://dev.to/jwebsite-go/readiness-probe-3co0)
-- [Dependency Tracking Fundamentals &lpar;II&rpar;](https://dev.to/luciano0322/dependency-tracking-fundamentals-ii-4fhk)
-- [From Startup to Unicorn: A Blueprint for Secure Enterprise Architecture](https://dev.to/ebercruz/from-startup-to-unicorn-a-blueprint-for-secure-enterprise-architecture-20k7)
-- [From Docker Errors to Production-Ready: Building a PHP Microservices CI/CD Pipeline](https://dev.to/alanvarghese-dev/from-docker-errors-to-production-ready-building-a-php-microservices-cicd-pipeline-4oh)
-- [Mastering Word Document Automation in C#: Integrating Checkbox and Picture Content Controls](https://dev.to/yahey/mastering-word-document-automation-in-c-integrating-checkbox-and-picture-content-controls-4bb5)
+- [OpenCode: tools, commands, agents y workflows](https://dev.to/kevinl/opencode-tools-commands-agents-y-workflows-i29)
+- [Git Selective Ignore: Because Sometimes You Need to Keep Secrets from Git &lpar;But Not From Yourself&rpar;](https://dev.to/deadlock/git-selective-ignore-because-sometimes-you-need-to-keep-secrets-from-git-but-not-from-yourself-37a7)
+- [Thinking in First Principles: How to Question an Async Queue–Based Design](https://dev.to/mohammadidrees/thinking-in-first-principles-how-to-question-an-async-queue-based-design-5cf1)
+- [I built a Meme Creator to roast my own Spaghetti Code &lpar;No watermarks, no BS, free!&rpar;](https://dev.to/dev-is-cracked/i-built-a-meme-creator-to-roast-my-own-spaghetti-code-no-watermarks-no-bs-free-4d1o)
+- [How to Handle Stripe and Paystack Webhooks in Next.js &lpar;The App Router Way&rpar;](https://dev.to/thekarlesi/how-to-handle-stripe-and-paystack-webhooks-in-nextjs-the-app-router-way-5bgi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
