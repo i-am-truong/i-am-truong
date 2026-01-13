@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I built a high-performance Social API with Bun &amp; ElysiaJS on a $5 VPS &lpar;handling 3.6k reqs/min&rpar;](https://dev.to/miltivik/how-i-built-a-high-performance-social-api-with-bun-elysiajs-on-a-5-vps-handling-36k-reqsmin-5do4)
-- [I Debug Code Like I Debug Life &lpar;Spoiler: Both Throw Exceptions&rpar;](https://dev.to/kawano_aiyuki/i-debug-code-like-i-debug-life-spoiler-both-throw-exceptions-e69)
-- [CKA &lpar;Certified Kubernetes Administrator&rpar; Exam Report 2026: Don’t Rely on Old Guides &lpar;Mastering the Post-2025 Revision&rpar;](https://dev.to/suzuki0430/cka-certified-kubernetes-administrator-exam-report-2026-dont-rely-on-old-guides-mastering-the-534m)
-- [AWS Is Moving Toward AI Factories, Not One-Off AI Projects](https://dev.to/thej_deep_457/aws-is-moving-toward-ai-factories-not-one-off-ai-projects-45ge)
-- [Advancing with React: Hooks Deep Dive! &lpar;React Day 5&rpar;](https://dev.to/vasughanta09/advancing-with-react-hooks-deep-dive-react-day-5-39fi)
+- [The Buy Button Is the Slowest Part of Most E Commerce Sites](https://dev.to/ar_abid_641aa302d5c68b2ae/the-buy-button-is-the-slowest-part-of-most-e-commerce-sites-3bco)
+- [DevOps should focus on one workflow, one outcome, one repeatable win instead of speed and automation.](https://dev.to/jaideepparashar/devops-should-focus-on-one-workflow-one-outcome-one-repeatable-win-instead-of-speed-and-4fba)
+- [How DevOps should choose AI use cases](https://dev.to/jaideepparashar/how-devops-should-choose-ai-use-cases-223f)
+- [🐌 “My Spring Boot API Became Slow… Until I Learned Pagination &amp; Sorting”](https://dev.to/shashwathsh/my-spring-boot-api-became-slow-until-i-learned-pagination-sorting-20md)
+- [Contrast sync vs async failure classes using first principles](https://dev.to/mohammadidrees/contrast-sync-vs-async-failure-classes-using-first-principles-d12)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
