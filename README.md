@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Create an AI Chatbot with Google Gemini Using Node.js](https://dev.to/ciphernutz/how-to-create-an-ai-chatbot-with-google-gemini-using-nodejs-255f)
-- [Why my clean API abstraction collapsed under real traffic](https://dev.to/leena_malhotra/why-my-clean-api-abstraction-collapsed-under-real-traffic-f0i)
-- [Astro + Decap in 2026](https://dev.to/migsarnavarro/astro-decap-in-2026-3mj3)
-- [A Much Better Windows tree Command that Implemented in Rust &lpar;tree++&rpar;](https://dev.to/water_run_305f6dfd401fdaf/a-much-better-windows-tree-command-that-implemented-in-rust-tree-4202)
-- [What Is Coolify? Understanding How It Works and Why It Improves App Performance](https://dev.to/cheeku_kumar_09a3a05e4b11/what-is-coolify-understanding-how-it-works-and-why-it-improves-app-performance-34bk)
+- [The Regression Bug Was the Most Important Result](https://dev.to/dqj1998/the-regression-bug-was-the-most-important-result-1ki4)
+- [PHP Attribute: SensitiveParameter](https://dev.to/travisfont/php-attribute-sensitiveparameter-paf)
+- [How not to use Static classes in C#](https://dev.to/rahul1994jh/how-not-to-use-static-classes-in-c--53p2)
+- [Cảm ơn cuộc đời vì mỗi sáng vẫn còn một hơi thở](https://dev.to/kelvynthai/cam-on-cuoc-doi-vi-moi-sang-van-con-mot-hoi-tho-fih)
+- [The second-highest salary: Why the simplest SQL query is often the smartest](https://dev.to/vardan_matevosian_tech/the-second-highest-salary-why-the-simplest-sql-query-is-often-the-smartest-3jod)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
