@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Using AI to Predict Football and Basketball Matches: Ideas and Challenges](https://dev.to/jogosdehoje/using-ai-to-predict-football-and-basketball-matches-ideas-and-challenges-12o8)
+- [How to build and serve custom simplified maps with OpenMapTiles](https://dev.to/zenika/how-to-build-and-serve-custom-simplified-maps-with-openmaptiles-hfn)
+- [What SmartML Benchmarks Tell You Before Hyperparameter Tuning](https://dev.to/jashwanth_thatipamula_8ee/what-smartml-benchmarks-tell-you-before-hyperparameter-tuning-2pll)
 - [How RAG Changed the Way We Use Large Language Models](https://dev.to/shravya_k/how-rag-changed-the-way-we-use-large-language-models-1iih)
 - [Why frontend developers don&#39;t wanna write e2e tests](https://dev.to/kriptonian/why-frontend-developers-dont-wanna-write-e2e-tests-4j91)
-- [First Post](https://dev.to/carlba/first-post-13al)
-- [5 VSCode Extensions That Will Make You Actually Enjoy Coding Again](https://dev.to/hadil/5-vscode-extensions-that-will-make-you-actually-enjoy-coding-again-4lp1)
-- [Angular Addicts #45: Signal Form guides, AI integrations &amp; more](https://dev.to/this-is-angular/angular-addicts-45-signal-form-guides-ai-integrations-more-2ka9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
