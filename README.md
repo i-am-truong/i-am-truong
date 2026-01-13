@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Beyond Discord: How I would Architect Community Infrastructure on AWS](https://dev.to/alifunk/beyond-discord-how-i-would-architect-community-infrastructure-on-aws-4dg5)
 - [Power Apps - Canvas - Onstart How to avoid ruining your application](https://dev.to/_follone/power-apps-canvas-onstart-how-to-avoid-ruining-your-application-d5)
 - [How to Run Jest Integration Tests in Parallel Using Isolated SQL Schemas](https://dev.to/cseby92/how-to-run-jest-integration-tests-in-parallel-using-isolated-sql-schemas-1bm7)
 - [Flexora: Flexible Low-Rank Adaptation for Large Language Models](https://dev.to/trng28/flexora-flexible-low-rank-adaptation-for-large-language-models-3m13)
-- [From Android Engineer to Indie Developer: My Journey So Far](https://dev.to/_9162596f7fb60139f88447/from-android-engineer-to-indie-developer-my-journey-so-far-3jkm)
-- [Building a Celtic Cross Tarot Reading Platform from Scratch](https://dev.to/romulusjustinianus/building-a-celtic-cross-tarot-reading-platform-from-scratch-3iof)
+- [From Android Engineer to Indie Developer: My Journey So Far](https://dev.to/gudong/from-android-engineer-to-indie-developer-my-journey-so-far-3jkm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
