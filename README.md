@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Automating Facebook “Cancel Request / Unfollow” Using Pure JavaScript](https://dev.to/sksshouvo/automating-facebook-cancel-request-unfollow-using-pure-javascript-1b83)
-- [The JavaScript Event Loop &amp; Concurrency Model: Why setTimeout&lpar;fn, 0&rpar; Doesn&#39;t Run Immediately](https://dev.to/tishonator/the-javascript-event-loop-concurrency-model-why-settimeoutfn-0-doesnt-run-immediately-396m)
-- [How software development will transform in the next decade](https://dev.to/luisyanguas/how-software-development-will-transform-in-the-next-decade-198c)
-- [Building CLI tools with Rust &lpar;Clap&rpar;](https://dev.to/godofgeeks/building-cli-tools-with-rust-clap-4bo2)
-- [FastAPI Tutorial Series Part 3: Error Handling and Status Codes](https://dev.to/vix_dev_ssh/fastapi-tutorial-series-part-3-error-handling-and-status-codes-738)
+- [Using MQTT at Scale: Where Things Usually Go Wrong](https://dev.to/jkaczynski/using-mqtt-at-scale-where-things-usually-go-wrong-97a)
+- [Beyond SCP: Mastering VM File Transfers with Rsync and HTTPS Accelerators](https://dev.to/ra101/-22ie)
+- [Dislike the chain of pollution caused by pnpm? Try this non-intrusive, zero-modification npm standard tool, monorepo.](https://dev.to/alamhubb/dislike-the-chain-of-pollution-caused-by-pnpm-try-this-non-intrusive-zero-modification-npm-3726)
+- [Beyond SCP: Mastering VM File Transfers with Rsync and HTTPS Accelerators](https://dev.to/ra101/-1m13)
+- [Beyond SCP: Mastering VM File Transfers with Rsync and HTTPS Accelerators](https://dev.to/ra101/beyond-scp-mastering-vm-file-transfers-with-rsync-and-https-accelerators-5hnk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
