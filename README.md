@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Break Global Barriers: Introducing the Ultimate Translator API for Developers](https://dev.to/imbuedata/break-global-barriers-introducing-the-ultimate-translator-api-for-developers-3kk9)
-- [Tracking File Upload Progress on AWS S3 – Lessons from Large File Uploads](https://dev.to/f-47/tracking-file-upload-progress-on-aws-s3-lessons-from-large-file-uploads-4imn)
-- [Is it worthwhile to learn Javascript in 2026?](https://dev.to/burakweb/will-javascript-still-make-sense-in-2026-3hab)
-- [Why My Node.js E-commerce App Got Slower Over Time &lpar;And It Wasn’t a Memory Leak&rpar;](https://dev.to/arbythecoder/why-my-nodejs-e-commerce-app-got-slower-over-time-and-it-wasnt-a-memory-leak-49lb)
-- [Demystifying API integration types](https://dev.to/aws-builders/demystifying-api-integration-types-2eia)
+- [INSTALL GIT BASH ON WINDOWS AND LINK IT TO YOUR GITHUB ACCOUNT.](https://dev.to/njagiii/install-git-bash-on-windows-and-link-it-to-your-github-account-34o7)
+- [withInMemoryScrolling in Angular: Modern Scroll Restoration and Anchor Scrolling Explained](https://dev.to/codewithrajat/withinmemoryscrolling-in-angular-modern-scroll-restoration-and-anchor-scrolling-explained-1hl9)
+- [The world of AWS Cloud](https://dev.to/amankrsharma/the-world-of-aws-cloud-4b15)
+- [Integration vs. E2E &amp; System Testing — A Practical Testing Pyramid Playbook &lpar;with Real CI Pipelines&rpar;](https://dev.to/michael_burry_00/integration-vs-e2e-system-testing-a-practical-testing-pyramid-playbook-with-real-ci-pipelines-1del)
+- [🚀 Introduction: Why Infrastructure as a Service &lpar;IAAS&rpar; Matters?](https://dev.to/devopsdynamicshub/introduction-why-infrastructure-as-a-service-iaas-matters-16j8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
