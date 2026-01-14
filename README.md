@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Lost Art of Knowing What You’re Actually Building](https://dev.to/simplewbs/the-lost-art-of-knowing-what-youre-actually-building-2m08)
+- [From Zero to Agentic Platform Building: The SageCompass Origin Story &lpar;series prologue&rpar;](https://dev.to/cleverhoods/from-zero-to-agentic-platform-building-the-sagecompass-origin-story-series-prologue-2g3i)
+- [Building a B-tree in Go: The gap between theory and implementation](https://dev.to/steph_baltus/building-a-b-tree-in-go-the-gap-between-theory-and-implementation-55h0)
 - [Is Meta Becoming the 4th Cloud Giant? &lpar;The Answer is Complicated&rpar;](https://dev.to/bren67/is-meta-becoming-the-4th-cloud-giant-the-answer-is-complicated-4gp4)
 - [Web development has never been more exciting or more overwhelming](https://dev.to/silvana_/web-development-has-never-been-more-exciting-or-more-overwhelming-1m7p)
-- [Exploring a hardware-isolated OS shown at CES 2026](https://dev.to/trustkernel/exploring-a-hardware-isolated-os-shown-at-ces-2026-m9i)
-- [How to Build Presto from Source - OSS Contribution Guide &lpar;Step by Step Tutorial&rpar;](https://dev.to/saurabhmahawar/how-to-build-presto-from-source-oss-contribution-guide-step-by-step-tutorial-460j)
-- [The &quot;Dynamic Pipeline&quot; Pattern: A Mutable Method Chaining for Real-time Processing](https://dev.to/usapopopooon/the-dynamic-pipeline-pattern-a-mutable-method-chaining-for-real-time-processing-16e1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
