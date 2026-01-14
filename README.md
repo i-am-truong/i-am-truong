@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building TransMov: A macOS Tool to Convert Videos to GIF/APNG with Local AI Background Removal](https://dev.to/louis_chen_f5bd6d583285ce/building-transmov-a-macos-tool-to-convert-videos-to-gifapng-with-local-ai-background-removal-ba6)
-- [Multi-Agent Platform with A2A, Python, Strands &amp; AWS AgentCore](https://dev.to/onepoint/multi-agent-platform-with-a2a-python-strands-aws-agentcore-2n74)
-- [I Built PulseDaily: a Local‑First, No‑Login Habit Tracker &lpar;Next.js + Tailwind&rpar;](https://dev.to/wenbin_zhang_800871dc9625/i-built-pulsedaily-a-local-first-no-login-habit-tracker-nextjs-tailwind-2n2j)
-- [Whisper-Sleep: Build Your Own Edge-AI Sleep Monitor with Whisper.cpp and ONNX](https://dev.to/beck_moulton/whisper-sleep-build-your-own-edge-ai-sleep-monitor-with-whispercpp-and-onnx-2lb7)
-- [Debugging Microservices: How Correlation IDs Cut Our Debug Time from Hours to Minutes](https://dev.to/amenibensaada/debugging-microservices-how-correlation-ids-cut-our-debug-time-from-hours-to-minutes-1lp2)
+- [My Article Title](https://dev.to/prakash_maheshwaran/my-article-title-p5g)
+- [Build.rs-ing Documentation with Cuelang](https://dev.to/exlee/buildrs-ing-documentation-with-cuelang-3h2a)
+- [Give Your AI Real Calendar Superpowers with `mcp-caldav`](https://dev.to/madbonez/give-your-ai-real-calendar-superpowers-with-mcp-caldav-5h69)
+- [Build a Heart Icon](https://dev.to/richardpascoe/build-a-heart-icon-38nd)
+- [How I Use Perplexity and NotebookLM as a “Thinking Partner” to Learn 10x Faster as a Developer](https://dev.to/nitinfab/how-i-use-perplexity-and-notebooklm-as-a-thinking-partner-to-learn-10x-faster-as-a-developer-5b5d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
