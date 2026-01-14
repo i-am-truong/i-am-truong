@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 React Animation Libraries: Bring Life to Your Web Applications](https://dev.to/riteshkokam/top-5-react-animation-libraries-bring-life-to-your-web-applications-2hm8)
-- [Inside the Interviewer&#39;s Mind: Why We Still Ask Blind 75 Questions](https://dev.to/alex_hunter_44f4c9ed6671e/inside-the-interviewers-mind-why-we-still-ask-blind-75-questions-2la3)
-- [We Tested Three Frontier Models on Kilo&#39;s AI Code Reviews](https://dev.to/kilocode/we-tested-three-frontier-models-on-kilos-ai-code-reviews-482e)
-- [GitHub Actions in 2026: The Complete Guide to Monorepo CI/CD and Self-Hosted Runners](https://dev.to/pockit_tools/github-actions-in-2026-the-complete-guide-to-monorepo-cicd-and-self-hosted-runners-1jop)
-- [KEXP: Rocket - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-rocket-full-performance-live-on-kexp-47do)
+- [Stop Uploading Your Files: How I Built a 100% Client-Side Image Converter with React &amp; Vite](https://dev.to/amineace/stop-uploading-your-files-how-i-built-a-100-client-side-image-converter-with-react-vite-4n3j)
+- [A Love-Hate Letter do Json](https://dev.to/rmarsigli/a-love-hate-letter-do-json-2cmh)
+- [🔥 Stop Writing Boilerplate: Zustand + Immer, Done Once and Right](https://dev.to/abdoseadaa/stop-writing-boilerplate-zustand-immer-done-once-and-right-33cd)
+- [Vibe Coding vs Engineering Judgment: Where Speed Ends and Responsibility Begins](https://dev.to/speaklouder/vibe-coding-vs-engineering-judgment-where-speed-ends-and-responsibility-begins-5fpn)
+- [hyprKCS - Hyprland keybind manager](https://dev.to/kosa12/hyprkcs-hyprland-keybind-manager-7ok)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
