@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [VIBE Coding with Amazon Q CLI](https://dev.to/omshree/vibe-coding-with-amazon-q-cli-446)
-- [I built an AI-driven Community Radio that fact-checks debates in real-time](https://dev.to/e_aielectronic_4944fa7c9/i-built-an-ai-driven-community-radio-that-fact-checks-debates-in-real-time-58l1)
-- [Build a Video Display Using iframe](https://dev.to/richardpascoe/build-a-video-display-using-iframe-4lla)
-- [The Complete Headless CMS Guide for Astro: Comparing 13 JS &amp; Jamstack CMS Platforms](https://dev.to/opacedigitalagency/the-complete-headless-cms-guide-for-astro-comparing-13-jamstack-js-cms-platforms-566f)
-- [Porque estudar Java ou C#](https://dev.to/doccaio/porque-estudar-java-ou-c-11md)
+- [Azure DevOps as a Lightweight Ticketing System for SMEs](https://dev.to/devced/azure-devops-as-a-lightweight-ticketing-system-for-smes-105h)
+- [How to use JWT for authentication on Node.js](https://dev.to/jahongir2007/how-to-use-jwt-for-authentication-on-nodejs-510a)
+- [Top nearshore software development companies: 2/3 &lpar;Got the opportunity to interview a veteran CTO&rpar;](https://dev.to/maame-codes/top-nearshore-software-development-companies-23-got-the-opportunity-to-interview-a-veteran-cto-45p7)
+- [How to Deploy Your Angular Website on GitHub Pages](https://dev.to/fedtti/how-to-deploy-your-angular-website-on-github-pages-65i)
+- [Benchmarking LLM Context Awareness Without Sending Raw PII](https://dev.to/privalyse/llm-context-awareness-without-sending-raw-pii-f5a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
