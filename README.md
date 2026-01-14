@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Am I the Problem?](https://dev.to/mariaemiliacheca/am-i-the-problem-4k6f)
+- [Inside Logic Apps Standard: How Azure Tables Store Your Workflows](https://dev.to/imdj/inside-logic-apps-standard-how-azure-tables-store-your-workflows-5125)
 - [The Six Patterns That Cover Everything](https://dev.to/siy/the-six-patterns-that-cover-everything-kmn)
 - [Part 4: Automated Backups &amp; Restore Procedures](https://dev.to/kamlesh_merugu/part-4-automated-backups-restore-procedures-4dp6)
-- [I hate Github Actions with Passion](https://dev.to/exlee/i-hate-github-actions-with-passion-1ppg)
-- [From AUTOSAR to S-Core: the first C++ pub/sub implementation](https://dev.to/pikotutorial/from-autosar-to-s-core-the-first-c-pubsub-implementation-26lg)
-- [The Rise of Virtual Healthcare Staffing: Top Rising Companies Revolutionizing Clinical Support in 2026](https://dev.to/loriembva247/the-rise-of-virtual-healthcare-staffing-top-companies-revolutionizing-clinical-support-in-2026-5gh5)
+- [Scraping, APIs y bloqueos: lo que todo desarrollador debería saber](https://dev.to/criszcova/scraping-apis-y-bloqueos-lo-que-todo-desarrollador-deberia-saber-58mn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
