@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Six Patterns That Cover Everything](https://dev.to/siy/the-six-patterns-that-cover-everything-kmn)
 - [Part 4: Automated Backups &amp; Restore Procedures](https://dev.to/kamlesh_merugu/part-4-automated-backups-restore-procedures-4dp6)
 - [I hate Github Actions with Passion](https://dev.to/exlee/i-hate-github-actions-with-passion-1ppg)
 - [From AUTOSAR to S-Core: the first C++ pub/sub implementation](https://dev.to/pikotutorial/from-autosar-to-s-core-the-first-c-pubsub-implementation-26lg)
 - [The Rise of Virtual Healthcare Staffing: Top Rising Companies Revolutionizing Clinical Support in 2026](https://dev.to/loriembva247/the-rise-of-virtual-healthcare-staffing-top-companies-revolutionizing-clinical-support-in-2026-5gh5)
-- [¿Por qué hacer scraping hoy es más complejo de lo que parece?](https://dev.to/criszcova/por-que-hacer-scraping-hoy-es-mas-complejo-de-lo-que-parece-265g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
