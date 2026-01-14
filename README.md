@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [n8n: Code Node - Import external library &lpar;Python &amp; JavaScript&rpar;](https://dev.to/codebangkok/n8n-code-node-import-external-library-python-javascript-4lp7)
-- [The Death of Vanilla JavaScript &lpar;And Why It&#39;s Actually Stronger Than Ever&rpar;](https://dev.to/hanzla/the-death-of-vanilla-javascript-and-why-its-actually-stronger-than-ever-i70)
-- [Stop Manually Testing Forms - Here&#39;s A Simpler Solution](https://dev.to/nickunjchopra/stop-manually-testing-forms-heres-a-simpler-solution-248o)
-- [7 Tips on How to Implement SEO as a Technical Writer](https://dev.to/ewacreate/7-tips-on-how-to-implement-seo-as-a-technical-writer-42i7)
-- [WEEK 1 ASSIGNMENT.](https://dev.to/murimikelvin/week-1-assignment-2lid)
+- [The &#39;Senior Developer&#39; is now the new &#39;Entry Level&#39;](https://dev.to/maame-codes/the-senior-developer-is-now-the-new-entry-level-49d1)
+- [✧ .dotfiles](https://dev.to/surya-dev/dotfiles-2mi1)
+- [Puppet with Foreman - Pilot](https://dev.to/12ww1160/puppet-with-foreman-pilot-3pja)
+- [Metabase 58: Improved Documents - now for all, plus lots of Embedded Analytics upgrades](https://dev.to/metabase/metabase-58-improved-documents-now-for-all-plus-lots-of-embedded-analytics-upgrades-340k)
+- [Interactive Angular Component Testing with Storybook and Vitest](https://dev.to/brandontroberts/interactive-angular-component-testing-with-storybook-and-vitest-1890)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
