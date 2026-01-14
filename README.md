@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding AWS Regions and Availability Zones &lpar;Simple Guide&rpar;](https://dev.to/adedokun_damilare_4f636c0/understanding-aws-regions-and-availability-zones-simple-guide-gae)
-- [Just released podpdf](https://dev.to/irfan26_3b01252fda8a2f1bc/just-released-podpdf-5362)
-- [Lab: Accessing private GraphQL posts](https://dev.to/travondatrack/lab-accessing-private-graphql-posts-21d7)
-- [How We Architected Context: The Connect-Link-Query Pattern](https://dev.to/whykislay/how-we-architected-context-the-connect-link-query-pattern-124d)
-- [Can You Spot the Bugs? 35 C Security Code Review Challenges](https://dev.to/fosres/can-you-spot-the-bugs-35-c-security-code-review-challenges-2ahe)
+- [The Secret Life of React Forms: Controlling the Uncontrollable with Validation Superpowers! &lpar;React Day 6&rpar;](https://dev.to/vasughanta09/the-secret-life-of-react-forms-controlling-the-uncontrollable-with-validation-superpowers-react-3iko)
+- [Markdown Weaver v1.2.0: Write Smarter with Magic AI Intelligence](https://dev.to/vasughanta09/markdown-weaver-v120-write-smarter-with-magic-ai-intelligence-6g4)
+- [Lab: Accidental exposure of private GraphQL fields](https://dev.to/travondatrack/lab-accidental-exposure-of-private-graphql-fields-24k6)
+- [How I Built a WooCommerce Payment Gateway for Vietnamese Banks](https://dev.to/quochuydev/how-i-built-a-woocommerce-payment-gateway-for-vietnamese-banks-241k)
+- [🤖 CodeMentor AI — An AI-Powered Code Review Tool](https://dev.to/akanksha_soni_fef78545fe7/codementor-ai-an-ai-powered-code-review-tool-2j75)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
