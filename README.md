@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[Boost]](https://dev.to/blackgirlbytes/-2nhh)
+- [Beyond Linear Chains: Building a Self-Correcting AI Agent with LangGraph.js](https://dev.to/programmingcentral/beyond-linear-chains-building-a-self-correcting-ai-agent-with-langgraphjs-4mjd)
+- [Don’t start with these databases as a beginner](https://dev.to/giftintech/dont-start-with-these-databases-as-a-beginner-5750)
 - [From Maker to Systems Architect: Designing Software That Ships, Scales, and Survives](https://dev.to/kawano_aiyuki/from-maker-to-systems-architect-designing-software-that-ships-scales-and-survives-46h8)
 - [As we continue to push the boundaries of AI advancements, I](https://dev.to/drcarlosruizviquez/as-we-continue-to-push-the-boundaries-of-ai-advancements-i-1h86)
-- [The Rise of Autonomous Systems: A Double-Edged Sword](https://dev.to/drcarlosruizviquez/the-rise-of-autonomous-systems-a-double-edged-sword-3d8b)
-- [**Technical Challenge: Transformer-based Temporal Reasoning](https://dev.to/drcarlosruizviquez/technical-challenge-transformer-based-temporal-reasoning-3fel)
-- [How I Use AI Agents + MCP to Fully Automate My Website’s Content](https://dev.to/debs_obrien/how-i-use-ai-agents-mcp-to-fully-automate-my-websites-content-3ekj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
