@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop Uploading Your Files: How I Built a 100% Client-Side Image Converter with React &amp; Vite](https://dev.to/amineace/stop-uploading-your-files-how-i-built-a-100-client-side-image-converter-with-react-vite-4n3j)
-- [A Love-Hate Letter do Json](https://dev.to/rmarsigli/a-love-hate-letter-do-json-2cmh)
-- [🔥 Stop Writing Boilerplate: Zustand + Immer, Done Once and Right](https://dev.to/abdoseadaa/stop-writing-boilerplate-zustand-immer-done-once-and-right-33cd)
-- [Vibe Coding vs Engineering Judgment: Where Speed Ends and Responsibility Begins](https://dev.to/speaklouder/vibe-coding-vs-engineering-judgment-where-speed-ends-and-responsibility-begins-5fpn)
-- [hyprKCS - Hyprland keybind manager](https://dev.to/kosa12/hyprkcs-hyprland-keybind-manager-7ok)
+- [A Practical Guide to Load Testing with k6](https://dev.to/gr1m0h/a-practical-guide-to-load-testing-with-k6-10ce)
+- [📘 Ansible Learning Journey - From Manual SSH to Automation Thinking](https://dev.to/jamiu_cloud/ansible-learning-journey-from-manual-ssh-to-automation-thinking-2a2o)
+- [The Curious Case of the Duplicating GPG_TTY and the Hidden .zprofile Culprit &lpar;and Why My Terminal Was So Slow!&rpar;](https://dev.to/nan72/the-curious-case-of-the-duplicating-gpgtty-and-the-hidden-zprofile-culprit-and-why-my-terminal-2j0o)
+- [So, AI will finally take your job](https://dev.to/rmarsigli/so-ai-will-finally-take-your-job-e0f)
+- [Getting Started with 2D Games Using Pyxel &lpar;Part 11&rpar;: Implement Game Over Detection](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-pyxel-part-11-implement-game-over-detection-2nb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
