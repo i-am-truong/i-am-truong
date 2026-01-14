@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Migrating to MAUI 10: What Architects Need to Know](https://dev.to/tmcd054/migrating-to-maui-10-what-architects-need-to-know-5f4k)
+- [How to Set Up Voice AI Slack Notifications for Real-Time Updates with Twilio](https://dev.to/callstacktech/how-to-set-up-voice-ai-slack-notifications-for-real-time-updates-with-twilio-2dll)
 - [Building a &quot;Spy-Free&quot; communication tool from scratch. 🛡️💻](https://dev.to/azize_hibatallah_038dcff/building-a-spy-free-communication-tool-from-scratch-4kln)
 - [I Spent Two Hours on Code Review Today](https://dev.to/gudong/i-spent-two-hours-on-code-review-today-d4a)
 - [AI Speed vs. Authenticity: I Built an App to Prove Photos Are Real, Then Got Caught Using Fake Marketing](https://dev.to/arsene_muyenlee_b6090d8d/ai-speed-vs-authenticity-i-built-an-app-to-prove-photos-are-real-then-got-caught-using-fake-5f65)
-- [Docker containers are just Linux -- here&#39;s why that matters](https://dev.to/cloudmash333/docker-containers-are-just-linux-heres-why-that-matters-4592)
-- [Edge Runtime vs Node.js in Next.js: Lessons from Role-Based Auth Middleware](https://dev.to/sayankhan313/edge-runtime-vs-nodejs-in-nextjs-lessons-from-role-based-auth-middleware-1nph)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
