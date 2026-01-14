@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How wrong can a JavaScript Date calculation go?](https://dev.to/philnash/how-wrong-can-a-javascript-date-calculation-go-o26)
-- [Stop &quot;Vibe Coding.&quot; Start Orchestrating: How I Built an Agentic Newsroom &lpar;Not a Wrapper&rpar;](https://dev.to/rizwanul_islam_afraim/stop-vibe-coding-start-orchestrating-how-i-built-an-agentic-newsroom-not-a-wrapper-30m0)
-- [👀 Attention Explained Like You&#39;re 5](https://dev.to/esreekarreddy/attention-explained-like-youre-5-mb1)
-- [Why your JSON formatter shouldn&#39;t have a backend](https://dev.to/jon_za/why-your-json-formatter-shouldnt-have-a-backend-1hgf)
-- [I’m Building Landing Pages in ~20 Seconds Now! How vibehtml Changed My Workflow](https://dev.to/mfelat/im-building-landing-pages-in-20-seconds-now-how-vibehtml-changed-my-workflow-c3j)
+- [Part 4: Automated Backups &amp; Restore Procedures](https://dev.to/kamlesh_merugu/part-4-automated-backups-restore-procedures-4dp6)
+- [I hate Github Actions with Passion](https://dev.to/exlee/i-hate-github-actions-with-passion-1ppg)
+- [From AUTOSAR to S-Core: the first C++ pub/sub implementation](https://dev.to/pikotutorial/from-autosar-to-s-core-the-first-c-pubsub-implementation-26lg)
+- [The Rise of Virtual Healthcare Staffing: Top Rising Companies Revolutionizing Clinical Support in 2026](https://dev.to/loriembva247/the-rise-of-virtual-healthcare-staffing-top-companies-revolutionizing-clinical-support-in-2026-5gh5)
+- [¿Por qué hacer scraping hoy es más complejo de lo que parece?](https://dev.to/criszcova/por-que-hacer-scraping-hoy-es-mas-complejo-de-lo-que-parece-265g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
