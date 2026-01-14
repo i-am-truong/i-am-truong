@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Execution Boundaries Matter More Than AI Guardrails](https://dev.to/ziling-failcore/why-execution-boundaries-matter-more-than-ai-guardrails-2421)
-- [Trait Views: exposing behavior in JavaScript without inheritance](https://dev.to/lsarrazi/trait-views-exposing-behavior-in-javascript-without-inheritance-d6l)
-- [Why I Switched from LiteLLM to Bifrost for Production LLM Systems](https://dev.to/therealmrmumba/why-i-switched-from-litellm-to-bifrost-for-production-llm-systems-45kf)
-- [Puppet with Foreman - Pilot](https://dev.to/12ww1160/puppet-with-foreman-pilot-1ln3)
-- [Groupsor](https://dev.to/groupsor_2ac5847ea312a55f/groupsor-4hn6)
+- [Fixed vs Dynamic Nav Links Menu Toggle Styling in React](https://dev.to/edriso/fixed-vs-dynamic-nav-links-menu-toggle-styling-in-react-54po)
+- [Deep Dive into SQLite Storage](https://dev.to/lovestaco/deep-dive-into-sqlite-storage-2lia)
+- [Relational databases via ODBC](https://dev.to/dipti_moryani_08e62702314/relational-databases-via-odbc-3hnp)
+- [Introducción a Cloudflare Workers](https://dev.to/adini/introduccion-a-cloudflare-workers-2888)
+- [Publishing Pipeline v1.2.0 – backlinks and X support](https://dev.to/12ww1160/publishing-pipeline-v120-backlinks-and-x-support-1geh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
