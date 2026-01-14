@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Build Multi-Agent Systems: Complete 2026 Guide](https://dev.to/eira-wexford/how-to-build-multi-agent-systems-complete-2026-guide-1io6)
-- [Describe the ML Development Cycle](https://dev.to/aws-builders/describe-the-ml-development-cycle-43dl)
-- [Weather Service Project &lpar;Part 3&rpar;: Predicting the Future with AI and OpenWeatherMap](https://dev.to/datalaria/weather-service-project-part-3-predicting-the-future-with-ai-and-openweathermap-2436)
-- [Proyecto Weather Service &lpar;Parte 3&rpar;: Prediciendo el Futuro con IA y OpenWeatherMap](https://dev.to/datalaria/proyecto-weather-service-parte-3-prediciendo-el-futuro-con-ia-y-openweathermap-19kb)
-- [Building a Type-Safe REST API Client with TypeScript Discriminated Unions](https://dev.to/abdullah_tariq_02c405b9c5/building-a-type-safe-rest-api-client-with-typescript-discriminated-unions-5098)
+- [FastAPI Tutorial Series Part 3: Error Handling and Status Codes](https://dev.to/vix_dev_ssh/fastapi-tutorial-series-part-3-error-handling-and-status-codes-738)
+- [🤖 The Day Coding Changed: Why Claude Is Now Writing Itself &lpar;And Why That’s Insane&rpar;](https://dev.to/gajanan0707/the-day-coding-changed-why-claude-is-now-writing-itself-and-why-thats-insane-3a0b)
+- [Azure Cosmos DB Playground: Learn and experiment with queries in your browser](https://dev.to/abhirockzz/azure-cosmos-db-playground-learn-and-experiment-with-queries-in-your-browser-1o8j)
+- [Spec Driven Development with AI - How I Built My Portfolio Site](https://dev.to/kamilbuksakowski/spec-driven-development-with-ai-how-i-built-my-portfolio-site-1o5g)
+- [Semantic Field Risk Memo — On an Unmodeled High-Dimensional Risk in LLM-based Systems](https://dev.to/yuer/semantic-field-risk-memo-on-an-unmodeled-high-dimensional-risk-in-llm-based-systems-4l3k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
