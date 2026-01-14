@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Linux as a Silent Environmentalist: How Lightweight OS&#39;s Reduce E-Waste](https://dev.to/micheal_angelo_41cea4e81a/linux-as-a-silent-environmentalist-how-lightweight-oss-reduce-e-waste-195n)
-- [The Secret Life of React Forms: Controlling the Uncontrollable with Validation Superpowers! &lpar;React Day 6&rpar;](https://dev.to/vasughanta09/the-secret-life-of-react-forms-controlling-the-uncontrollable-with-validation-superpowers-react-3iko)
-- [Markdown Weaver v1.2.0: Write Smarter with Magic AI Intelligence](https://dev.to/vasughanta09/markdown-weaver-v120-write-smarter-with-magic-ai-intelligence-6g4)
-- [Lab: Accidental exposure of private GraphQL fields](https://dev.to/travondatrack/lab-accidental-exposure-of-private-graphql-fields-24k6)
-- [How I Built a WooCommerce Payment Gateway for Vietnamese Banks](https://dev.to/quochuydev/how-i-built-a-woocommerce-payment-gateway-for-vietnamese-banks-241k)
+- [The Chatbot That Couldn&#39;t Understand &quot;Hmm&quot; &lpar;Until We Taught It Bangla Body Language&rpar;](https://dev.to/faraz_farhan_83ed23a154a2/the-chatbot-that-couldnt-understand-hmm-until-we-taught-it-bangla-body-language-30l1)
+- [A Simple Guide to Cookies in Modern Web Development](https://dev.to/tech_girlll/a-simple-guide-to-cookies-in-modern-web-development-43ap)
+- [Morning Build Update: How Vizora Is Shaping Up &lpar;UI, Motion, and Core Systems&rpar;](https://dev.to/rushikesh_bodakhe_db28644/morning-build-update-how-vizora-is-shaping-up-ui-motion-and-core-systems-4lab)
+- [AI-Powered Malware: Reality, Myths, and the Current Stage of the Threat Landscape](https://dev.to/hejhdiss/ai-powered-malware-reality-myths-and-the-current-stage-of-the-threat-landscape-4mj1)
+- [7 Best Resources to Learn Azure in 2026](https://dev.to/stack_overflowed/7-best-resources-to-learn-azure-in-2026-2la4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
