@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Best AI Tools for Coding in 2026: A Practical Guide for Modern Developers](https://dev.to/lightningdev123/best-ai-tools-for-coding-in-2026-a-practical-guide-for-modern-developers-22hk)
-- [The Lead Scoring System That Ignored Million-Dollar Deals &lpar;Because The CEO Had a Gmail Account&rpar;](https://dev.to/faraz_farhan_83ed23a154a2/the-lead-scoring-system-that-ignored-million-dollar-deals-because-the-ceo-had-a-gmail-account-2b87)
-- [I Released a Production iOS App Without Reading Code: The Reality of “Vibe Coding”](https://dev.to/mabikuso/i-released-a-production-ios-app-without-reading-code-the-reality-of-vibe-coding-4d6o)
-- [Technical Debt is Not a Metaphor. It&#39;s Why Your Migration Failed.](https://dev.to/jmontagne/technical-debt-is-not-a-metaphor-its-why-your-migration-failed-21l7)
-- [The Secret Life of JavaScript: The Loop](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-loop-3b19)
+- [Is Meta Becoming the 4th Cloud Giant? &lpar;The Answer is Complicated&rpar;](https://dev.to/bren67/is-meta-becoming-the-4th-cloud-giant-the-answer-is-complicated-4gp4)
+- [Web development has never been more exciting or more overwhelming](https://dev.to/silvana_/web-development-has-never-been-more-exciting-or-more-overwhelming-1m7p)
+- [Exploring a hardware-isolated OS shown at CES 2026](https://dev.to/trustkernel/exploring-a-hardware-isolated-os-shown-at-ces-2026-m9i)
+- [How to Build Presto from Source - OSS Contribution Guide &lpar;Step by Step Tutorial&rpar;](https://dev.to/saurabhmahawar/how-to-build-presto-from-source-oss-contribution-guide-step-by-step-tutorial-460j)
+- [The &quot;Dynamic Pipeline&quot; Pattern: A Mutable Method Chaining for Real-time Processing](https://dev.to/usapopopooon/the-dynamic-pipeline-pattern-a-mutable-method-chaining-for-real-time-processing-16e1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
