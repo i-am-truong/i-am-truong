@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The &#39;Senior Developer&#39; is now the new &#39;Entry Level&#39;](https://dev.to/maame-codes/the-senior-developer-is-now-the-new-entry-level-49d1)
-- [✧ .dotfiles](https://dev.to/surya-dev/dotfiles-2mi1)
-- [Puppet with Foreman - Pilot](https://dev.to/12ww1160/puppet-with-foreman-pilot-3pja)
-- [Metabase 58: Improved Documents - now for all, plus lots of Embedded Analytics upgrades](https://dev.to/metabase/metabase-58-improved-documents-now-for-all-plus-lots-of-embedded-analytics-upgrades-340k)
-- [Interactive Angular Component Testing with Storybook and Vitest](https://dev.to/brandontroberts/interactive-angular-component-testing-with-storybook-and-vitest-1890)
+- [Why Execution Boundaries Matter More Than AI Guardrails](https://dev.to/ziling-failcore/why-execution-boundaries-matter-more-than-ai-guardrails-2421)
+- [Trait Views: exposing behavior in JavaScript without inheritance](https://dev.to/lsarrazi/trait-views-exposing-behavior-in-javascript-without-inheritance-d6l)
+- [Why I Switched from LiteLLM to Bifrost for Production LLM Systems](https://dev.to/therealmrmumba/why-i-switched-from-litellm-to-bifrost-for-production-llm-systems-45kf)
+- [Puppet with Foreman - Pilot](https://dev.to/12ww1160/puppet-with-foreman-pilot-1ln3)
+- [Groupsor](https://dev.to/groupsor_2ac5847ea312a55f/groupsor-4hn6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
