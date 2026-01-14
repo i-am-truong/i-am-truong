@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How Page Speed &amp; Core Web Vitals Affect Rankings](https://dev.to/bakhat_yar_016451bb6f3b86/how-page-speed-core-web-vitals-affect-rankings-35ff)
+- [Skillshare: Sync Your AI CLI Skills Across Claude, Codex, Cursor, Gemini, and OpenCode](https://dev.to/runkids/skillshare-sync-your-ai-cli-skills-across-claude-codex-cursor-gemini-and-opencode-13o1)
+- [Creating an Automated UI Test of Your Web App in Seconds, with Gemini CLI and BrowserMCP](https://dev.to/gde/creating-an-automated-ui-test-of-your-web-app-in-seconds-with-gemini-cli-and-browsermcp-5cd7)
 - [Fixed vs Dynamic Nav Links Menu Toggle Styling in React](https://dev.to/edriso/fixed-vs-dynamic-nav-links-menu-toggle-styling-in-react-54po)
 - [Deep Dive into SQLite Storage](https://dev.to/lovestaco/deep-dive-into-sqlite-storage-2lia)
-- [Beyond the `go` Keyword: The Secret Life of Goroutines &amp; The Go Runtime](https://dev.to/saifulire/beyond-the-go-keyword-the-secret-life-of-goroutines-the-go-runtime-38lg)
-- [Relational databases via ODBC](https://dev.to/dipti_moryani_08e62702314/relational-databases-via-odbc-3hnp)
-- [Introducción a Cloudflare Workers](https://dev.to/adini/introduccion-a-cloudflare-workers-2888)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
