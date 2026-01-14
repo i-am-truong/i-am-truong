@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Text Mining in R and Python: From Origins to Real-World Impact](https://dev.to/yenosh_v_838c53a362d23a05/text-mining-in-r-and-python-from-origins-to-real-world-impact-5c4g)
+- [Introducing Agentic Chart Extraction](https://dev.to/tensorlake/agentic-chart-extraction-1hji)
 - [AI is becoming a new sales channel. Here&#39;s how to make sure your products show up.](https://dev.to/davedavies/ai-is-becoming-a-new-sales-channel-heres-how-to-make-sure-your-products-show-up-2b1h)
 - [Building an Open Source Chrome Extension for Shopify: Padloom Visualizer](https://dev.to/padloom/building-an-open-source-chrome-extension-for-shopify-padloom-visualizer-25kl)
 - [I Built a Chrome Extension to Detect Fake Amazon Reviews](https://dev.to/dilan_weerasinghe_e384b97/i-built-an-ai-powered-chrome-extension-to-detect-fake-amazon-reviews-11nh)
-- [Coding Without Pressure: How Slowing Down Helped Me Learn Faster](https://dev.to/hadil/coding-without-pressure-how-slowing-down-helped-me-learn-faster-519p)
-- [Why Your App Needs Secure Link Previews—Beyond Just UX](https://dev.to/nikolas_dimitroulakis_d23/why-your-app-needs-secure-link-previews-beyond-just-ux-2j40)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
