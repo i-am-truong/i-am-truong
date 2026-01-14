@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Lost Art of Knowing What You’re Actually Building](https://dev.to/simplewbs/the-lost-art-of-knowing-what-youre-actually-building-2m08)
-- [From Zero to Agentic Platform Building: The SageCompass Origin Story &lpar;series prologue&rpar;](https://dev.to/cleverhoods/from-zero-to-agentic-platform-building-the-sagecompass-origin-story-series-prologue-2g3i)
-- [Building a B-tree in Go: The gap between theory and implementation](https://dev.to/steph_baltus/building-a-b-tree-in-go-the-gap-between-theory-and-implementation-55h0)
-- [Is Meta Becoming the 4th Cloud Giant? &lpar;The Answer is Complicated&rpar;](https://dev.to/bren67/is-meta-becoming-the-4th-cloud-giant-the-answer-is-complicated-4gp4)
-- [Web development has never been more exciting or more overwhelming](https://dev.to/silvana_/web-development-has-never-been-more-exciting-or-more-overwhelming-1m7p)
+- [Why Your App Needs Secure Link Previews—Beyond Just UX](https://dev.to/nikolas_dimitroulakis_d23/why-your-app-needs-secure-link-previews-beyond-just-ux-2j40)
+- [The Law of Loudness: Why Your Code Should Scream, Not Whisper](https://dev.to/doogal/the-law-of-loudness-why-your-code-should-scream-not-whisper-1cee)
+- [Gaze Guard: Your Privacy-First AI Shield Against Unwanted Online Content](https://dev.to/txlabs/gaze-guard-your-privacy-first-ai-shield-against-unwanted-online-content-2o09)
+- [Image Optimization with Next.js and Sanity.io](https://dev.to/drazenbebic/image-optimization-with-nextjs-and-sanityio-22ia)
+- [I built a VS Code extension that reads your project&#39;s mind](https://dev.to/freerave/i-built-a-vs-code-extension-that-reads-your-projects-mind-5gmi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
