@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why your JSON formatter shouldn&#39;t have a backend](https://dev.to/jon_za/why-your-json-formatter-shouldnt-have-a-backend-1hgf)
 - [I’m Building Landing Pages in ~20 Seconds Now! How vibehtml Changed My Workflow](https://dev.to/mfelat/im-building-landing-pages-in-20-seconds-now-how-vibehtml-changed-my-workflow-c3j)
-- [Application Migrations for ASP.NET Core: A Small Library for a Common Problem](https://dev.to/sbastien_sougnez_c15451f/application-migrations-for-aspnet-core-a-small-library-for-a-common-problem-3a3p)
-- [Complete Go Starter Guide: Setup, Syntax &amp; First Program](https://dev.to/rs9000/complete-go-starter-guide-setup-syntax-first-program-3c4p)
-- [Installing and Setting Up Git on Ubuntu &lpar;Beginner’s Guide&rpar;](https://dev.to/k1int/installing-and-setting-up-git-on-ubuntu-beginners-guide-5bk0)
-- [Implementing AI Voice Agents in Retail: Key Challenges and Solutions](https://dev.to/rootstack/implementing-ai-voice-agents-in-retail-key-challenges-and-solutions-kb3)
+- [React 19 - Primer post del año](https://dev.to/hileodev/react-19-3f17)
+- [The Tailwind Tax Nobody Talks About](https://dev.to/hawk-pdx/the-tailwind-tax-nobody-talks-about-2nag)
+- [Symfony AI v0.2.0 Released: Feature Breakdown and Practical Guide](https://dev.to/james_miller_8dc58a89cb9e/symfony-ai-v020-released-feature-breakdown-and-practical-guide-5aof)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
