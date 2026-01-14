@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 01 -- Dev Log for My Game](https://dev.to/laughlete/day-01-dev-log-for-my-game-4o74)
-- [Set up eslint, prettier and ts quickly](https://dev.to/jordan-sf/set-up-eslint-prettier-and-ts-quickly-3e90)
-- [Essential DevOps Tools for Ubuntu](https://dev.to/joachim8675309/essential-devops-tools-for-ubuntu-5421)
-- [The ₿OSS Challenge: Cloaking My Signet Node for the Wallet challenge](https://dev.to/kniraj/the-oss-challenge-cloaking-my-signet-node-for-the-wallet-challenge-44p3)
-- [Green Status Is Not Control](https://dev.to/ben_webb_projectmanager/green-status-is-not-control-45p5)
+- [Why useSession&lpar;&rpar; Is undefined on First Load in Next.js When Deployed to Production &lpar;and how i fixed it&rpar;](https://dev.to/athashri_keny/why-usesession-is-undefined-on-first-load-in-nextjs-when-deployed-to-production-and-how-i-fixed-53n1)
+- [Everything you want to know about Ethereum Stateless](https://dev.to/dymchenkko/everything-you-want-to-know-about-ethereum-stateless-3ok8)
+- [Introducing Community Benchmarks on Kaggle](https://dev.to/googleai/introducing-community-benchmarks-on-kaggle-35nc)
+- [QPI v2: Evolving QR Codes into Trustworthy Physical Data Containers](https://dev.to/colten_jacob_10ec3150930b/qpi-v2-evolving-qr-codes-into-trustworthy-physical-data-containers-7fh)
+- [Move Over, Struct: Meet Ruby&#39;s New Data.define](https://dev.to/zilton7/move-over-struct-meet-rubys-new-datadefine-37pb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
