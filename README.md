@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Chatbot That Couldn&#39;t Understand &quot;Hmm&quot; &lpar;Until We Taught It Bangla Body Language&rpar;](https://dev.to/faraz_farhan_83ed23a154a2/the-chatbot-that-couldnt-understand-hmm-until-we-taught-it-bangla-body-language-30l1)
-- [A Simple Guide to Cookies in Modern Web Development](https://dev.to/tech_girlll/a-simple-guide-to-cookies-in-modern-web-development-43ap)
-- [Morning Build Update: How Vizora Is Shaping Up &lpar;UI, Motion, and Core Systems&rpar;](https://dev.to/rushikesh_bodakhe_db28644/morning-build-update-how-vizora-is-shaping-up-ui-motion-and-core-systems-4lab)
-- [AI-Powered Malware: Reality, Myths, and the Current Stage of the Threat Landscape](https://dev.to/hejhdiss/ai-powered-malware-reality-myths-and-the-current-stage-of-the-threat-landscape-4mj1)
-- [7 Best Resources to Learn Azure in 2026](https://dev.to/stack_overflowed/7-best-resources-to-learn-azure-in-2026-2la4)
+- [The Client Who Wanted AI to &quot;Remember Everything&quot; &lpar;And Why That Was a Terrible Idea&rpar;](https://dev.to/faraz_farhan_83ed23a154a2/the-client-who-wanted-ai-to-remember-everything-and-why-that-was-a-terrible-idea-40bn)
+- [GLM-Image: The First Open-Source Industrial-Grade Autoregressive Image Generation Model](https://dev.to/gary_yan_86eb77d35e0070f5/glm-image-the-first-open-source-industrial-grade-autoregressive-image-generation-model-3ag)
+- [Developers killed Tailwind. Not AI.](https://dev.to/developerbishwas/developers-killed-tailwind-not-ai-9dd)
+- [Cerbi Update: Practical Logging Governance That Actually Runs in Your Tenant](https://dev.to/hellocerbi/cerbi-update-practical-logging-governance-that-actually-runs-in-your-tenant-3fd7)
+- [On Web Framework Performance: A .NET 10 Reality Check](https://dev.to/insight105/on-web-framework-performance-a-net-10-reality-check-4ep5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
