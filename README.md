@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Practical Guide to Load Testing with k6](https://dev.to/gr1m0h/a-practical-guide-to-load-testing-with-k6-10ce)
-- [📘 Ansible Learning Journey - From Manual SSH to Automation Thinking](https://dev.to/jamiu_cloud/ansible-learning-journey-from-manual-ssh-to-automation-thinking-2a2o)
-- [The Curious Case of the Duplicating GPG_TTY and the Hidden .zprofile Culprit &lpar;and Why My Terminal Was So Slow!&rpar;](https://dev.to/nan72/the-curious-case-of-the-duplicating-gpgtty-and-the-hidden-zprofile-culprit-and-why-my-terminal-2j0o)
-- [So, AI will finally take your job](https://dev.to/rmarsigli/so-ai-will-finally-take-your-job-e0f)
-- [Getting Started with 2D Games Using Pyxel &lpar;Part 11&rpar;: Implement Game Over Detection](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-pyxel-part-11-implement-game-over-detection-2nb)
+- [Building a &quot;Spy-Free&quot; communication tool from scratch. 🛡️💻](https://dev.to/azize_hibatallah_038dcff/building-a-spy-free-communication-tool-from-scratch-4kln)
+- [I Spent Two Hours on Code Review Today](https://dev.to/gudong/i-spent-two-hours-on-code-review-today-d4a)
+- [AI Speed vs. Authenticity: I Built an App to Prove Photos Are Real, Then Got Caught Using Fake Marketing](https://dev.to/arsene_muyenlee_b6090d8d/ai-speed-vs-authenticity-i-built-an-app-to-prove-photos-are-real-then-got-caught-using-fake-5f65)
+- [Docker containers are just Linux -- here&#39;s why that matters](https://dev.to/cloudmash333/docker-containers-are-just-linux-heres-why-that-matters-4592)
+- [Edge Runtime vs Node.js in Next.js: Lessons from Role-Based Auth Middleware](https://dev.to/sayankhan313/edge-runtime-vs-nodejs-in-nextjs-lessons-from-role-based-auth-middleware-1nph)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
