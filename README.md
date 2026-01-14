@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Azure DevOps as a Lightweight Ticketing System for SMEs](https://dev.to/devced/azure-devops-as-a-lightweight-ticketing-system-for-smes-105h)
-- [How to use JWT for authentication on Node.js](https://dev.to/jahongir2007/how-to-use-jwt-for-authentication-on-nodejs-510a)
-- [Top nearshore software development companies: 2/3 &lpar;Got the opportunity to interview a veteran CTO&rpar;](https://dev.to/maame-codes/top-nearshore-software-development-companies-23-got-the-opportunity-to-interview-a-veteran-cto-45p7)
-- [How to Deploy Your Angular Website on GitHub Pages](https://dev.to/fedtti/how-to-deploy-your-angular-website-on-github-pages-65i)
-- [Benchmarking LLM Context Awareness Without Sending Raw PII](https://dev.to/privalyse/llm-context-awareness-without-sending-raw-pii-f5a)
+- [n8n: Code Node - Import external library &lpar;Python &amp; JavaScript&rpar;](https://dev.to/codebangkok/n8n-code-node-import-external-library-python-javascript-4lp7)
+- [The Death of Vanilla JavaScript &lpar;And Why It&#39;s Actually Stronger Than Ever&rpar;](https://dev.to/hanzla/the-death-of-vanilla-javascript-and-why-its-actually-stronger-than-ever-i70)
+- [Stop Manually Testing Forms - Here&#39;s A Simpler Solution](https://dev.to/nickunjchopra/stop-manually-testing-forms-heres-a-simpler-solution-248o)
+- [7 Tips on How to Implement SEO as a Technical Writer](https://dev.to/ewacreate/7-tips-on-how-to-implement-seo-as-a-technical-writer-42i7)
+- [WEEK 1 ASSIGNMENT.](https://dev.to/murimikelvin/week-1-assignment-2lid)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
