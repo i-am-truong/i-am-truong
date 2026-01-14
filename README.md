@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building TransMov: A macOS Tool to Convert Videos to GIF/APNG with Local AI Background Removal](https://dev.to/louis_chen_f5bd6d583285ce/building-transmov-a-macos-tool-to-convert-videos-to-gifapng-with-local-ai-background-removal-ba6)
+- [Multi-Agent Platform with A2A, Python, Strands &amp; AWS AgentCore](https://dev.to/onepoint/multi-agent-platform-with-a2a-python-strands-aws-agentcore-2n74)
+- [I Built PulseDaily: a Local‑First, No‑Login Habit Tracker &lpar;Next.js + Tailwind&rpar;](https://dev.to/wenbin_zhang_800871dc9625/i-built-pulsedaily-a-local-first-no-login-habit-tracker-nextjs-tailwind-2n2j)
+- [Whisper-Sleep: Build Your Own Edge-AI Sleep Monitor with Whisper.cpp and ONNX](https://dev.to/beck_moulton/whisper-sleep-build-your-own-edge-ai-sleep-monitor-with-whispercpp-and-onnx-2lb7)
 - [Debugging Microservices: How Correlation IDs Cut Our Debug Time from Hours to Minutes](https://dev.to/amenibensaada/debugging-microservices-how-correlation-ids-cut-our-debug-time-from-hours-to-minutes-1lp2)
-- [How to Handle Sold Out Products in Shopify](https://dev.to/supremerumham/how-to-handle-sold-out-products-in-shopify-1ma5)
-- [How does a machine actually learn from data?](https://dev.to/juhikushwah/how-does-a-machine-actually-learn-from-data-12be)
-- [SQL on Kafka Data Does Not Require a Streaming Engine](https://dev.to/novatechflow/sql-on-kafka-data-does-not-require-a-streaming-engine-3kfe)
-- [Understanding Vertices, Edges, and Faces in Blender](https://dev.to/dinesh_04/understanding-vertices-edges-and-faces-in-blender-19d9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
