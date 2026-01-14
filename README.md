@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Automating Facebook “Cancel Request / Unfollow” Using Pure JavaScript](https://dev.to/sksshouvo/automating-facebook-cancel-request-unfollow-using-pure-javascript-1b83)
+- [The JavaScript Event Loop &amp; Concurrency Model: Why setTimeout&lpar;fn, 0&rpar; Doesn&#39;t Run Immediately](https://dev.to/tishonator/the-javascript-event-loop-concurrency-model-why-settimeoutfn-0-doesnt-run-immediately-396m)
+- [How software development will transform in the next decade](https://dev.to/luisyanguas/how-software-development-will-transform-in-the-next-decade-198c)
+- [Building CLI tools with Rust &lpar;Clap&rpar;](https://dev.to/godofgeeks/building-cli-tools-with-rust-clap-4bo2)
 - [FastAPI Tutorial Series Part 3: Error Handling and Status Codes](https://dev.to/vix_dev_ssh/fastapi-tutorial-series-part-3-error-handling-and-status-codes-738)
-- [🤖 The Day Coding Changed: Why Claude Is Now Writing Itself &lpar;And Why That’s Insane&rpar;](https://dev.to/gajanan0707/the-day-coding-changed-why-claude-is-now-writing-itself-and-why-thats-insane-3a0b)
-- [Azure Cosmos DB Playground: Learn and experiment with queries in your browser](https://dev.to/abhirockzz/azure-cosmos-db-playground-learn-and-experiment-with-queries-in-your-browser-1o8j)
-- [Spec Driven Development with AI - How I Built My Portfolio Site](https://dev.to/kamilbuksakowski/spec-driven-development-with-ai-how-i-built-my-portfolio-site-1o5g)
-- [Semantic Field Risk Memo — On an Unmodeled High-Dimensional Risk in LLM-based Systems](https://dev.to/yuer/semantic-field-risk-memo-on-an-unmodeled-high-dimensional-risk-in-llm-based-systems-4l3k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
