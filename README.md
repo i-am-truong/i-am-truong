@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Linux as a Silent Environmentalist: How Lightweight OS&#39;s Reduce E-Waste](https://dev.to/micheal_angelo_41cea4e81a/linux-as-a-silent-environmentalist-how-lightweight-oss-reduce-e-waste-195n)
 - [The Secret Life of React Forms: Controlling the Uncontrollable with Validation Superpowers! &lpar;React Day 6&rpar;](https://dev.to/vasughanta09/the-secret-life-of-react-forms-controlling-the-uncontrollable-with-validation-superpowers-react-3iko)
 - [Markdown Weaver v1.2.0: Write Smarter with Magic AI Intelligence](https://dev.to/vasughanta09/markdown-weaver-v120-write-smarter-with-magic-ai-intelligence-6g4)
 - [Lab: Accidental exposure of private GraphQL fields](https://dev.to/travondatrack/lab-accidental-exposure-of-private-graphql-fields-24k6)
 - [How I Built a WooCommerce Payment Gateway for Vietnamese Banks](https://dev.to/quochuydev/how-i-built-a-woocommerce-payment-gateway-for-vietnamese-banks-241k)
-- [🤖 CodeMentor AI — An AI-Powered Code Review Tool](https://dev.to/akanksha_soni_fef78545fe7/codementor-ai-an-ai-powered-code-review-tool-2j75)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
