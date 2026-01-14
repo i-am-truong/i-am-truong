@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CES 2026: My top 5 picks!](https://dev.to/jigyasagrover/ces-2026-my-top-5-picks-lf4)
-- [The Ultimate Guide to Shopify Cart Debugging: How to Save Hours with Shopify Theme Devtools Cart Panel](https://dev.to/yakohere/the-ultimate-guide-to-shopify-cart-debugging-how-to-save-hours-with-shopify-theme-devtools-cart-1f70)
-- [Inside Git: How It Works and the Role of the .git Folder](https://dev.to/anoop-rajoriya/inside-git-how-it-works-and-the-role-of-the-git-folder-3d2b)
-- [Headless vs. Real Browser Testing: The Strategic Guide for Modern QA Teams](https://dev.to/matt_calder_e620d84cf0c14/headless-vs-real-browser-testing-the-strategic-guide-for-modern-qa-teams-ea4)
-- [The iOS Safari Full-Height Video Fix That Actually Works &lpar;After 4 Hours of Everything That Doesn&#39;t&rpar;](https://dev.to/petermcclung/the-ios-safari-full-height-video-fix-that-actually-works-after-4-hours-of-everything-that-doesnt-1iim)
+- [How to Build Multi-Agent Systems: Complete 2026 Guide](https://dev.to/eira-wexford/how-to-build-multi-agent-systems-complete-2026-guide-1io6)
+- [Describe the ML Development Cycle](https://dev.to/aws-builders/describe-the-ml-development-cycle-43dl)
+- [Weather Service Project &lpar;Part 3&rpar;: Predicting the Future with AI and OpenWeatherMap](https://dev.to/datalaria/weather-service-project-part-3-predicting-the-future-with-ai-and-openweathermap-2436)
+- [Proyecto Weather Service &lpar;Parte 3&rpar;: Prediciendo el Futuro con IA y OpenWeatherMap](https://dev.to/datalaria/proyecto-weather-service-parte-3-prediciendo-el-futuro-con-ia-y-openweathermap-19kb)
+- [Building a Type-Safe REST API Client with TypeScript Discriminated Unions](https://dev.to/abdullah_tariq_02c405b9c5/building-a-type-safe-rest-api-client-with-typescript-discriminated-unions-5098)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
