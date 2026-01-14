@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Accountability Gap: Why AI Systems Need Cryptographic Proof of Refusals](https://dev.to/veritaschain/the-accountability-gap-why-ai-systems-need-cryptographic-proof-of-refusals-4n2a)
-- [Thank you, DEV community, for the badge recognition after one year. I truly appreciate it.](https://dev.to/victor_uzormba_80a4cf106c/thank-you-dev-community-for-the-badge-recognition-after-one-year-i-truly-appreciate-it-5bmi)
-- [# Mastering Scale: Why Your Next Custom Solution Needs Helpothon’s Engineering F](https://dev.to/helpathon/-mastering-scale-why-your-next-custom-solution-needs-helpothons-engineering-f-md)
-- [Turning block/goose into an AI SRE Agent](https://dev.to/nietzscheson/turning-blockgoose-into-an-ai-sre-agent-1465)
-- [Offline-First Health Apps: Ensuring Reliability When Connectivity Fails](https://dev.to/wellallytech/offline-first-health-apps-ensuring-reliability-when-connectivity-fails-1pmc)
+- [Understanding AWS Regions and Availability Zones &lpar;Simple Guide&rpar;](https://dev.to/adedokun_damilare_4f636c0/understanding-aws-regions-and-availability-zones-simple-guide-gae)
+- [Just released podpdf](https://dev.to/irfan26_3b01252fda8a2f1bc/just-released-podpdf-5362)
+- [Lab: Accessing private GraphQL posts](https://dev.to/travondatrack/lab-accessing-private-graphql-posts-21d7)
+- [How We Architected Context: The Connect-Link-Query Pattern](https://dev.to/whykislay/how-we-architected-context-the-connect-link-query-pattern-124d)
+- [Can You Spot the Bugs? 35 C Security Code Review Challenges](https://dev.to/fosres/can-you-spot-the-bugs-35-c-security-code-review-challenges-2ahe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
