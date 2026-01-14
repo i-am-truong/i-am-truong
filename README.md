@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The challenge of managing multiple projects as a Tech Lead](https://dev.to/kodus/the-challenge-of-managing-multiple-projects-as-a-tech-lead-2i5p)
-- [AWS IAM Policies-Simple &amp; Easy](https://dev.to/im_himanshu_maheshwari/aws-iam-policies-simple-easy-1g7n)
-- [Top 10 Best Ever Open Source Apps](https://dev.to/kargatharaaakash/top-10-best-ever-open-source-apps-13pb)
-- [Working Expo + pnpm Workspaces Configuration](https://dev.to/isaacaddis/working-expo-pnpm-workspaces-configuration-4k2l)
-- [What is PaaS &lpar;Platform as a Service&rpar;?](https://dev.to/devopsdynamicshub/what-is-paas-platform-as-a-service-550l)
+- [Top 5 React Animation Libraries: Bring Life to Your Web Applications](https://dev.to/riteshkokam/top-5-react-animation-libraries-bring-life-to-your-web-applications-2hm8)
+- [Inside the Interviewer&#39;s Mind: Why We Still Ask Blind 75 Questions](https://dev.to/alex_hunter_44f4c9ed6671e/inside-the-interviewers-mind-why-we-still-ask-blind-75-questions-2la3)
+- [We Tested Three Frontier Models on Kilo&#39;s AI Code Reviews](https://dev.to/kilocode/we-tested-three-frontier-models-on-kilos-ai-code-reviews-482e)
+- [GitHub Actions in 2026: The Complete Guide to Monorepo CI/CD and Self-Hosted Runners](https://dev.to/pockit_tools/github-actions-in-2026-the-complete-guide-to-monorepo-cicd-and-self-hosted-runners-1jop)
+- [KEXP: Rocket - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-rocket-full-performance-live-on-kexp-47do)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
