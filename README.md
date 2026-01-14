@@ -122,9 +122,9 @@ Python                   1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [Fixed vs Dynamic Nav Links Menu Toggle Styling in React](https://dev.to/edriso/fixed-vs-dynamic-nav-links-menu-toggle-styling-in-react-54po)
 - [Deep Dive into SQLite Storage](https://dev.to/lovestaco/deep-dive-into-sqlite-storage-2lia)
+- [Beyond the `go` Keyword: The Secret Life of Goroutines &amp; The Go Runtime](https://dev.to/saifulire/beyond-the-go-keyword-the-secret-life-of-goroutines-the-go-runtime-38lg)
 - [Relational databases via ODBC](https://dev.to/dipti_moryani_08e62702314/relational-databases-via-odbc-3hnp)
 - [Introducción a Cloudflare Workers](https://dev.to/adini/introduccion-a-cloudflare-workers-2888)
-- [Publishing Pipeline v1.2.0 – backlinks and X support](https://dev.to/12ww1160/publishing-pipeline-v120-backlinks-and-x-support-1geh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
