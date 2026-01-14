@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [React Performance Problems Usually Start with State, Not Rendering](https://dev.to/wmdn9116/react-performance-problems-usually-start-with-state-not-rendering-1lk4)
-- [Gasless USDC Transactions with Lazorkit Paymaster](https://dev.to/ola-zoll/gasless-usdc-transactions-with-lazorkit-paymaster-356b)
-- [The First 90 Days as a Software Developer: What Actually Matters](https://dev.to/developerdave/the-first-90-days-as-a-software-developer-what-actually-matters-55p5)
-- [Designing Scalable Backend APIs: Building for Growth](https://dev.to/techblogs/designing-scalable-backend-apis-building-for-growth-5726)
-- [Caching with Redis: Accelerating Your Applications](https://dev.to/techblogs/caching-with-redis-accelerating-your-applications-11dp)
+- [The Accountability Gap: Why AI Systems Need Cryptographic Proof of Refusals](https://dev.to/veritaschain/the-accountability-gap-why-ai-systems-need-cryptographic-proof-of-refusals-4n2a)
+- [Thank you, DEV community, for the badge recognition after one year. I truly appreciate it.](https://dev.to/victor_uzormba_80a4cf106c/thank-you-dev-community-for-the-badge-recognition-after-one-year-i-truly-appreciate-it-5bmi)
+- [# Mastering Scale: Why Your Next Custom Solution Needs Helpothon’s Engineering F](https://dev.to/helpathon/-mastering-scale-why-your-next-custom-solution-needs-helpothons-engineering-f-md)
+- [Turning block/goose into an AI SRE Agent](https://dev.to/nietzscheson/turning-blockgoose-into-an-ai-sre-agent-1465)
+- [Offline-First Health Apps: Ensuring Reliability When Connectivity Fails](https://dev.to/wellallytech/offline-first-health-apps-ensuring-reliability-when-connectivity-fails-1pmc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
