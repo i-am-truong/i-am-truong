@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How wrong can a JavaScript Date calculation go?](https://dev.to/philnash/how-wrong-can-a-javascript-date-calculation-go-o26)
+- [Stop &quot;Vibe Coding.&quot; Start Orchestrating: How I Built an Agentic Newsroom &lpar;Not a Wrapper&rpar;](https://dev.to/rizwanul_islam_afraim/stop-vibe-coding-start-orchestrating-how-i-built-an-agentic-newsroom-not-a-wrapper-30m0)
+- [👀 Attention Explained Like You&#39;re 5](https://dev.to/esreekarreddy/attention-explained-like-youre-5-mb1)
 - [Why your JSON formatter shouldn&#39;t have a backend](https://dev.to/jon_za/why-your-json-formatter-shouldnt-have-a-backend-1hgf)
 - [I’m Building Landing Pages in ~20 Seconds Now! How vibehtml Changed My Workflow](https://dev.to/mfelat/im-building-landing-pages-in-20-seconds-now-how-vibehtml-changed-my-workflow-c3j)
-- [React 19 - Primer post del año](https://dev.to/hileodev/react-19-3f17)
-- [The Tailwind Tax Nobody Talks About](https://dev.to/hawk-pdx/the-tailwind-tax-nobody-talks-about-2nag)
-- [Symfony AI v0.2.0 Released: Feature Breakdown and Practical Guide](https://dev.to/james_miller_8dc58a89cb9e/symfony-ai-v020-released-feature-breakdown-and-practical-guide-5aof)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
