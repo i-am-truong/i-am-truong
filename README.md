@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/blackgirlbytes/-2nhh)
-- [Beyond Linear Chains: Building a Self-Correcting AI Agent with LangGraph.js](https://dev.to/programmingcentral/beyond-linear-chains-building-a-self-correcting-ai-agent-with-langgraphjs-4mjd)
-- [Don’t start with these databases as a beginner](https://dev.to/giftintech/dont-start-with-these-databases-as-a-beginner-5750)
-- [From Maker to Systems Architect: Designing Software That Ships, Scales, and Survives](https://dev.to/kawano_aiyuki/from-maker-to-systems-architect-designing-software-that-ships-scales-and-survives-46h8)
-- [As we continue to push the boundaries of AI advancements, I](https://dev.to/drcarlosruizviquez/as-we-continue-to-push-the-boundaries-of-ai-advancements-i-1h86)
+- [Essential DevOps Tools for Ubuntu](https://dev.to/joachim8675309/essential-devops-tools-for-ubuntu-5421)
+- [The ₿OSS Challenge: Cloaking My Signet Node for the Wallet challenge](https://dev.to/kniraj/the-oss-challenge-cloaking-my-signet-node-for-the-wallet-challenge-44p3)
+- [Green Status Is Not Control](https://dev.to/ben_webb_projectmanager/green-status-is-not-control-45p5)
+- [Presentation Design Tips for UAE Educational Institutions](https://dev.to/olivier_roland_12d8dba4d1/presentation-design-tips-for-uae-educational-institutions-3o4m)
+- [Why Learning Felt Impossible &lpar;and how I&#39;m fixing it&rpar;](https://dev.to/devxionz/why-learning-felt-impossible-and-how-im-fixing-it-3e09)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
