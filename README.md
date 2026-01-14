@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Application Migrations for ASP.NET Core: A Small Library for a Common Problem](https://dev.to/sbastien_sougnez_c15451f/application-migrations-for-aspnet-core-a-small-library-for-a-common-problem-3a3p)
+- [Complete Go Starter Guide: Setup, Syntax &amp; First Program](https://dev.to/rs9000/complete-go-starter-guide-setup-syntax-first-program-3c4p)
+- [Implementing AI Voice Agents in Retail: Key Challenges and Solutions](https://dev.to/rootstack/implementing-ai-voice-agents-in-retail-key-challenges-and-solutions-kb3)
+- [smart](https://dev.to/query_filter_591122b53770/smart-3afd)
 - [Why useSession&lpar;&rpar; Is undefined on First Load in Next.js When Deployed to Production &lpar;and how i fixed it&rpar;](https://dev.to/athashri_keny/why-usesession-is-undefined-on-first-load-in-nextjs-when-deployed-to-production-and-how-i-fixed-53n1)
-- [Everything you want to know about Ethereum Stateless](https://dev.to/dymchenkko/everything-you-want-to-know-about-ethereum-stateless-3ok8)
-- [Introducing Community Benchmarks on Kaggle](https://dev.to/googleai/introducing-community-benchmarks-on-kaggle-35nc)
-- [QPI v2: Evolving QR Codes into Trustworthy Physical Data Containers](https://dev.to/colten_jacob_10ec3150930b/qpi-v2-evolving-qr-codes-into-trustworthy-physical-data-containers-7fh)
-- [Move Over, Struct: Meet Ruby&#39;s New Data.define](https://dev.to/zilton7/move-over-struct-meet-rubys-new-datadefine-37pb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
