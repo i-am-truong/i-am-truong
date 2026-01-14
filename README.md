@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Scale to a Billion Documents in Symfony](https://dev.to/mongodb/how-to-scale-to-a-billion-documents-in-symfony-16pf)
-- [This AI Reads One Night of Sleep to Predict 130 Diseases](https://dev.to/aiwithapex/this-ai-reads-one-night-of-sleep-to-predict-130-diseases-1h5f)
-- [Text Mining in R and Python: From Origins to Real-World Impact](https://dev.to/yenosh_v_838c53a362d23a05/text-mining-in-r-and-python-from-origins-to-real-world-impact-5c4g)
-- [Introducing Agentic Chart Extraction](https://dev.to/tensorlake/agentic-chart-extraction-1hji)
-- [AI is becoming a new sales channel. Here&#39;s how to make sure your products show up.](https://dev.to/davedavies/ai-is-becoming-a-new-sales-channel-heres-how-to-make-sure-your-products-show-up-2b1h)
+- [Break Global Barriers: Introducing the Ultimate Translator API for Developers](https://dev.to/imbuedata/break-global-barriers-introducing-the-ultimate-translator-api-for-developers-3kk9)
+- [Tracking File Upload Progress on AWS S3 – Lessons from Large File Uploads](https://dev.to/f-47/tracking-file-upload-progress-on-aws-s3-lessons-from-large-file-uploads-4imn)
+- [Is it worthwhile to learn Javascript in 2026?](https://dev.to/burakweb/will-javascript-still-make-sense-in-2026-3hab)
+- [Why My Node.js E-commerce App Got Slower Over Time &lpar;And It Wasn’t a Memory Leak&rpar;](https://dev.to/arbythecoder/why-my-nodejs-e-commerce-app-got-slower-over-time-and-it-wasnt-a-memory-leak-49lb)
+- [Demystifying API integration types](https://dev.to/aws-builders/demystifying-api-integration-types-2eia)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
