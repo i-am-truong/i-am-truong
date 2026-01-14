@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Using MQTT at Scale: Where Things Usually Go Wrong](https://dev.to/jkaczynski/using-mqtt-at-scale-where-things-usually-go-wrong-97a)
-- [Beyond SCP: Mastering VM File Transfers with Rsync and HTTPS Accelerators](https://dev.to/ra101/-22ie)
-- [Dislike the chain of pollution caused by pnpm? Try this non-intrusive, zero-modification npm standard tool, monorepo.](https://dev.to/alamhubb/dislike-the-chain-of-pollution-caused-by-pnpm-try-this-non-intrusive-zero-modification-npm-3726)
-- [Beyond SCP: Mastering VM File Transfers with Rsync and HTTPS Accelerators](https://dev.to/ra101/-1m13)
-- [Beyond SCP: Mastering VM File Transfers with Rsync and HTTPS Accelerators](https://dev.to/ra101/beyond-scp-mastering-vm-file-transfers-with-rsync-and-https-accelerators-5hnk)
+- [Debugging Microservices: How Correlation IDs Cut Our Debug Time from Hours to Minutes](https://dev.to/amenibensaada/debugging-microservices-how-correlation-ids-cut-our-debug-time-from-hours-to-minutes-1lp2)
+- [How to Handle Sold Out Products in Shopify](https://dev.to/supremerumham/how-to-handle-sold-out-products-in-shopify-1ma5)
+- [How does a machine actually learn from data?](https://dev.to/juhikushwah/how-does-a-machine-actually-learn-from-data-12be)
+- [SQL on Kafka Data Does Not Require a Streaming Engine](https://dev.to/novatechflow/sql-on-kafka-data-does-not-require-a-streaming-engine-3kfe)
+- [Understanding Vertices, Edges, and Faces in Blender](https://dev.to/dinesh_04/understanding-vertices-edges-and-faces-in-blender-19d9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
