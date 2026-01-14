@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Migrating to MAUI 10: What Architects Need to Know](https://dev.to/tmcd054/migrating-to-maui-10-what-architects-need-to-know-5f4k)
-- [How to Set Up Voice AI Slack Notifications for Real-Time Updates with Twilio](https://dev.to/callstacktech/how-to-set-up-voice-ai-slack-notifications-for-real-time-updates-with-twilio-2dll)
-- [Building a &quot;Spy-Free&quot; communication tool from scratch. 🛡️💻](https://dev.to/azize_hibatallah_038dcff/building-a-spy-free-communication-tool-from-scratch-4kln)
-- [I Spent Two Hours on Code Review Today](https://dev.to/gudong/i-spent-two-hours-on-code-review-today-d4a)
-- [AI Speed vs. Authenticity: I Built an App to Prove Photos Are Real, Then Got Caught Using Fake Marketing](https://dev.to/arsene_muyenlee_b6090d8d/ai-speed-vs-authenticity-i-built-an-app-to-prove-photos-are-real-then-got-caught-using-fake-5f65)
+- [VIBE Coding with Amazon Q CLI](https://dev.to/omshree/vibe-coding-with-amazon-q-cli-446)
+- [I built an AI-driven Community Radio that fact-checks debates in real-time](https://dev.to/e_aielectronic_4944fa7c9/i-built-an-ai-driven-community-radio-that-fact-checks-debates-in-real-time-58l1)
+- [Build a Video Display Using iframe](https://dev.to/richardpascoe/build-a-video-display-using-iframe-4lla)
+- [The Complete Headless CMS Guide for Astro: Comparing 13 JS &amp; Jamstack CMS Platforms](https://dev.to/opacedigitalagency/the-complete-headless-cms-guide-for-astro-comparing-13-jamstack-js-cms-platforms-566f)
+- [Porque estudar Java ou C#](https://dev.to/doccaio/porque-estudar-java-ou-c-11md)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
