@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Client Who Wanted AI to &quot;Remember Everything&quot; &lpar;And Why That Was a Terrible Idea&rpar;](https://dev.to/faraz_farhan_83ed23a154a2/the-client-who-wanted-ai-to-remember-everything-and-why-that-was-a-terrible-idea-40bn)
-- [GLM-Image: The First Open-Source Industrial-Grade Autoregressive Image Generation Model](https://dev.to/gary_yan_86eb77d35e0070f5/glm-image-the-first-open-source-industrial-grade-autoregressive-image-generation-model-3ag)
-- [Developers killed Tailwind. Not AI.](https://dev.to/developerbishwas/developers-killed-tailwind-not-ai-9dd)
-- [Cerbi Update: Practical Logging Governance That Actually Runs in Your Tenant](https://dev.to/hellocerbi/cerbi-update-practical-logging-governance-that-actually-runs-in-your-tenant-3fd7)
-- [On Web Framework Performance: A .NET 10 Reality Check](https://dev.to/insight105/on-web-framework-performance-a-net-10-reality-check-4ep5)
+- [CES 2026: My top 5 picks!](https://dev.to/jigyasagrover/ces-2026-my-top-5-picks-lf4)
+- [The Ultimate Guide to Shopify Cart Debugging: How to Save Hours with Shopify Theme Devtools Cart Panel](https://dev.to/yakohere/the-ultimate-guide-to-shopify-cart-debugging-how-to-save-hours-with-shopify-theme-devtools-cart-1f70)
+- [Inside Git: How It Works and the Role of the .git Folder](https://dev.to/anoop-rajoriya/inside-git-how-it-works-and-the-role-of-the-git-folder-3d2b)
+- [Headless vs. Real Browser Testing: The Strategic Guide for Modern QA Teams](https://dev.to/matt_calder_e620d84cf0c14/headless-vs-real-browser-testing-the-strategic-guide-for-modern-qa-teams-ea4)
+- [The iOS Safari Full-Height Video Fix That Actually Works &lpar;After 4 Hours of Everything That Doesn&#39;t&rpar;](https://dev.to/petermcclung/the-ios-safari-full-height-video-fix-that-actually-works-after-4-hours-of-everything-that-doesnt-1iim)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
