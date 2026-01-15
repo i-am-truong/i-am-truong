@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Go Channel and Pipeline: A Conference Review](https://dev.to/evanlin/go-channel-and-pipeline-a-conference-review-bff)
-- [[Golang] Do You Like Golang? Become a Go GDE &lpar;Google Developer Expert&rpar;](https://dev.to/evanlin/golang-do-you-like-golang-become-a-go-gde-google-developer-expert-48al)
-- [[TIL][Go] How to Install a Beta Version of Go](https://dev.to/evanlin/tilgo-how-to-install-a-beta-version-of-go-1p30)
-- [GopherCon 2019: Uber&#39;s Approach &lpar;1&rpar;](https://dev.to/evanlin/gophercon-2019-ubers-approach-1-ekc)
-- [Conference Notes: NAVER x LINE AI-Rush 2019 Finals Recap](https://dev.to/evanlin/conference-notes-naver-x-line-ai-rush-2019-finals-recap-3af2)
+- [JSONL is a seriously weird format!](https://dev.to/david_kershaw_b6916404da6/jsonl-is-a-seriously-weird-format-5flp)
+- [From Header Bidding Chaos to Control: How One Publisher Secured Their Ad Stack with SafeLine WAF](https://dev.to/arina_cholee/from-header-bidding-chaos-to-control-how-one-publisher-secured-their-ad-stack-with-safeline-waf-552n)
+- [Performance isn&#39;t a luxury](https://dev.to/ashgkwd/performance-isnt-a-luxury-4fih)
+- [I built an industrial-style Next.js 16 boilerplate for SaaS projects](https://dev.to/money_3cf88997d27cd9c5150/i-built-an-industrial-style-nextjs-16-boilerplate-for-saas-projects-3ci2)
+- [How to Create a Chatbot That Generates Legal Documents](https://dev.to/chatboqai/how-to-create-a-chatbot-that-generates-legal-documents-3m72)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
