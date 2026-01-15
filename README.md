@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Neon-Soaked Last.fm Roast Bot for $1.75/Year](https://dev.to/googleai/building-a-neon-soaked-lastfm-roast-bot-for-175year-545m)
+- [Where cloud security policies break down](https://dev.to/ncksecuritydude/where-cloud-security-policies-break-down-2n1n)
+- [Please, Stop Redirecting to Login on 401 Errors 🛑](https://dev.to/aragossa/please-stop-redirecting-to-login-on-401-errors-3c0l)
 - [Using Ruby Model Classes, Service Objects and Interactors](https://dev.to/zilton7/using-ruby-model-classes-service-objects-and-interactors-4d4p)
 - [Introducing Workstreams: See the Patterns in Your Career](https://dev.to/nataliaherself/introducing-workstreams-see-the-patterns-in-your-career-19ee)
-- [El pequeño gigante: Cómo un sistema operativo cambió mi forma de ver la informática](https://dev.to/ernesto_malave_285068a60e/el-pequeno-gigante-como-un-sistema-operativo-cambio-mi-forma-de-ver-la-informatica-10cc)
-- [5 Security Chores You Should Offload to Cloud Agents &lpar;Before They Burn You Out&rpar;](https://dev.to/bekahhw/5-security-chores-you-should-offload-to-cloud-agents-before-they-burn-you-out-566j)
-- [Creating my portfolio with Antigravity AI](https://dev.to/raffaeleloi/creating-my-portfolio-with-antigravity-ai-40pe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
