@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Bulk-Migrate GitHub Actions from Node 20 to 24](https://dev.to/lindell/bulk-migrate-github-actions-from-node-20-to-24-3hm5)
-- [Angular Signals + Three.js: How We Hit 60fps Without Going Zoneless](https://dev.to/emmanueln07/angular-signals-threejs-how-we-hit-60fps-without-going-zoneless-23jg)
-- [I Evaluated Enterprise Auth for a SaaS App and Here’s My Honest Take on WorkOS AuthKit + Radar](https://dev.to/andrewbaisden/i-evaluated-enterprise-auth-for-a-saas-app-and-heres-my-honest-take-on-workos-authkit-radar-e22)
-- [Building a digital badge system with the help of Kiro &lpar;and Amazon ECS Express Mode](https://dev.to/aws/building-a-digital-badge-system-with-the-help-of-kiro-and-amazon-ecs-express-mode-2i0o)
-- [Internationalizing Trauma-Informed UX: Testing Across Cultures](https://dev.to/crisiscoresystems/internationalization-of-trauma-testing-across-cultural-contexts-41fe)
+- [El MVP que funciona &lpar;1-100 usuarios&rpar;](https://dev.to/norman404/el-mvp-que-funciona-1-100-usuarios-3pi3)
+- [**Unlocking Optimal Performance: The AI-Powered Transformati](https://dev.to/drcarlosruizviquez/unlocking-optimal-performance-the-ai-powered-transformati-5c3j)
+- [Distilling Knowledge into Tiny LLMs](https://dev.to/neuml/distilling-knowledge-into-tiny-llms-4chc)
+- [From Installation Freezes to PowerShell Automation: My Windows Server 2019 Journey.](https://dev.to/alafiz/from-installation-freezes-to-powershell-automation-my-windows-server-2019-journey-168h)
+- [🌟 Making AWS Infrastructure Understandable for Product Managers](https://dev.to/pravesh_sudha_3c2b0c2b5e0/making-aws-infrastructure-understandable-for-product-managers-101c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
