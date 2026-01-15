@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [YouTube keeps deleting my music, so I built a service to restore them automatically](https://dev.to/whistle_missile2_2b8752d2/youtube-keeps-deleting-my-music-so-i-built-a-service-to-restore-them-automatically-29gp)
-- [Beating the 29-Second Timeout: Practical Serverless Patterns for GenAI APIs on AWS](https://dev.to/thedeveloperjournal/beating-the-29-second-timeout-practical-serverless-patterns-for-genai-apis-on-aws-2j8a)
-- [Atomic Design: From UI Composition to Real-World Applications](https://dev.to/josephciullo/atomic-design-from-ui-composition-to-real-world-applications-j25)
-- [A Practical Guide to AI-Assisted Coding Tools](https://dev.to/alexmercedcoder/a-practical-guide-to-ai-assisted-coding-tools-2fh5)
-- [Argentinien: INPI stellt Markenprüfung](https://dev.to/timespinwriterjames/argentinien-inpi-stellt-markenprufung-2ngc)
+- [5 Essential Plugins for WordPress LMS Performance &lpar;+ Bonus&rpar;](https://dev.to/biancarus/5-essential-plugins-for-wordpress-lms-performance-bonus-c2l)
+- [How I Use Claude to Watch My Infrastructure While I Sleep](https://dev.to/boop_one/how-i-use-claude-to-watch-my-infrastructure-while-i-sleep-3fcf)
+- [I built a SQL-to-Google Sheets bridge because existing tools were slow as hell &lpar;No-signup demo&rpar;](https://dev.to/robert_ward_4b72381cf553f/built-a-sql-to-google-sheets-bridge-because-existing-tools-were-slow-as-hell-no-signup-demo-cfh)
+- [Git for Beginners: From “What Is This?” to Your First Commit](https://dev.to/subhrangsu90/git-for-beginners-from-what-is-this-to-your-first-commit-ff8)
+- [How to Use ChatGPT Properly as a Developer](https://dev.to/farhadrahimiklie/how-to-use-chatgpt-properly-as-a-developer-2gel)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
