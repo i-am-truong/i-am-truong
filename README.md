@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 3: Understanding L2 Caching and the Oracle Callback Pattern](https://dev.to/yanjun/day-3-understanding-l2-caching-and-the-oracle-callback-pattern-4jog)
-- [Predicting Employee Salary Using Linear Regression](https://dev.to/njeri_muriithi/predicting-employee-salary-using-linear-regression-2j3e)
-- [Celebrating 50 Years of KIM-1: A Developer&#39;s Retrospective](https://dev.to/dd8888/celebrating-50-years-of-kim-1-a-developers-retrospective-4ef0)
-- [How to Use Bootstrap: Set Up and Customize in Your Project](https://dev.to/ideradevtools/how-to-use-bootstrap-set-up-and-customize-in-your-project-58hb)
-- [Customer / Client&lpar;Non-Admin&rpar; Dashboard Rule of Thumb](https://dev.to/msnmongare/customer-clientnon-admin-dashboard-rule-of-thumb-2p3l)
+- [Django Security: 10 Essential Steps to Secure Your Project Before Production](https://dev.to/sizan_mahmud0_e7c3fd0cb68/django-security-10-essential-steps-to-secure-your-project-before-production-4lfn)
+- [How I built a Zero-Knowledge Secret Sharer using Next.js and the Web Crypto API](https://dev.to/derick_jdavid_2e9c83287/how-i-built-a-zero-knowledge-secret-sharer-using-nextjs-and-the-web-crypto-api-4mn)
+- [My 2025 Tech Resolutions and My Plan for 2026](https://dev.to/vikkio88/my-2025-tech-resolutions-and-my-plan-for-2026-4c4o)
+- [Building a Real-Time Face Recognition System with ESP32-CAM &lpar;in a Weekend&rpar;](https://dev.to/callmetarush/building-a-real-time-face-recognition-system-with-esp32-cam-in-a-weekend-4856)
+- [Axios](https://dev.to/disha_gupta_f258e3cc18dc6/axios-2eio)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
