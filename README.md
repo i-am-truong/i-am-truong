@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Framework Framework](https://dev.to/linkbenjamin/the-framework-framework-276k)
-- [The Easiest Way to Setup Supabase SSR in Next.js 14](https://dev.to/zeyd_ajraou_209393308a931/the-easiest-way-to-setup-supabase-ssr-in-nextjs-14-b5a)
-- [Why We Built Another LLM Gateway &lpar;And Made It 50x Faster than every available one&rpar;](https://dev.to/pranay_batta/why-we-built-another-llm-gateway-and-made-it-50x-faster-than-every-available-one-1glp)
-- [Todo App](https://dev.to/abhishek_arankal_4ac78c11/todo-app-4m0a)
-- [Solved: Cloudflare is down again](https://dev.to/techresolve/solved-cloudflare-is-down-again-1io3)
+- [Why “AI Engineer” Sounded Like a Dead End to Me &lpar;Until It Didn’t&rpar;](https://dev.to/dev-in-progress/why-ai-engineer-sounded-like-a-dead-end-to-me-until-it-didnt-20k5)
+- [xAI Software Engineer Interview &lpar;2026&rpar; — Full Recap, Pitfalls &amp; Real Prep Tips](https://dev.to/net_programhelp_e160eef28/xai-software-engineer-interview-2026-full-recap-pitfalls-real-prep-tips-2fl0)
+- [Logtide: 2 Months After Launch &lpar;The Real Numbers&rpar;](https://dev.to/polliog/logtide-2-months-after-launch-the-real-numbers-fp0)
+- [The Real Cost of a High Learning Curve: Why DeveloperHub Wins for Cross-Functional Documentation](https://dev.to/therealmrmumba/the-real-cost-of-a-high-learning-curve-why-developerhub-wins-for-cross-functional-documentation-35np)
+- [Building a Console-Based Maintenance Helpdesk System in Java](https://dev.to/phoenix-archer/building-a-console-based-maintenance-helpdesk-system-in-java-5a8c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
