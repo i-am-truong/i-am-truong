@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [When Birthday Photography Becomes a Template — and Why AI Feels Like an Alternative](https://dev.to/zoeyy-hu/when-birthday-photography-becomes-a-template-and-why-ai-feels-like-an-alternative-4j2l)
-- [Did you know?](https://dev.to/cloudraptor/did-you-know-55kd)
-- [My First Post](https://dev.to/neel_singh_363e8e2cda3567/my-first-post-1nlj)
-- [Understanding SSL/TLS Certificates](https://dev.to/azadshukor/understanding-ssltls-certificates-3lb7)
-- [Myth vs reality: “AI kills creativity”](https://dev.to/jaideepparashar/myth-vs-reality-ai-kills-creativity-51pm)
+- [เพิ่มประสิทธิภาพการทำงาน ด้วย Agile process](https://dev.to/__00/ephimprasiththiphaaphkaarthamngaan-dwy-agile-process-307o)
+- [👗 StyleMatch - Your AI Personal Fashion Stylist](https://dev.to/simranshaikh20_50/stylematch-your-ai-personal-fashion-stylist-247m)
+- [The Cloud Exit Strategy: How to Run a Production SaaS for $5/Month](https://dev.to/the_nortern_dev/the-cloud-exit-strategy-how-to-run-a-production-saas-for-5month-51fi)
+- [Your Cloud Database is a Security Theater](https://dev.to/ryo_suwito/your-cloud-database-is-a-security-theater-28a5)
+- [🚀 BlazorWJb: Integrating Worker Jobs with Blazor Server App](https://dev.to/ukrguru/blazorwjb-integrating-worker-jobs-with-blazor-server-app-4ebj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
