@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Micro Frontend Architecture, BFF, and Microservices — Explained Simply with Real‑World Examples](https://dev.to/koolkamalkishor/micro-frontend-architecture-bff-and-microservices-explained-simply-with-real-world-examples-4bd5)
-- [Code Standards and Best Practices for Growing Teams](https://dev.to/kodus/code-standards-and-best-practices-for-growing-teams-l4g)
-- [A Practical Performance Comparison of Top Internal Tool Builders](https://dev.to/nigel_t/a-practical-performance-comparison-of-top-internal-tool-builders-4b4j)
-- [Humanoid Compute: Price vs. Performance](https://dev.to/ankk98/humanoid-compute-price-vs-performance-842)
-- [How Git Stores Files Internally to Saves Space in Your Repository](https://dev.to/bhagirath00/how-git-stores-files-internally-to-saves-space-in-your-repository-m4i)
+- [PeerDAS &amp; ZK-EVMs on Ethereum, ERC-8004 Agents, Ambire Custom Bundlers, BlackRock on Ethereum](https://dev.to/etherspot/peerdas-zk-evms-on-ethereum-erc-8004-agents-ambire-custom-bundlers-blackrock-on-ethereum-15pd)
+- [Why Your LLM Needs Runtime Guardrails: The Developer&#39;s Guide to California&#39;s 2026 AI Laws](https://dev.to/alessandro_pignati/why-your-llm-needs-runtime-guardrails-the-developers-guide-to-californias-2026-ai-laws-4fon)
+- [The Kiro Agentic IDE Vulnerability &lpar;CVE-2026-0830&rpar;](https://dev.to/alessandro_pignati/the-kiro-agentic-ide-vulnerability-cve-2026-0830-5438)
+- [ORM, JPA, Hibernate, JDBC, JPQL, DDL, DML e DQL: descomplicando a sopa de letrinhas do Java](https://dev.to/wagnernegrao/orm-jpa-hibernate-jdbc-jpql-ddl-dml-e-dql-descomplicando-a-sopa-de-letrinhas-do-java-d9h)
+- [Statutory Audit Applicability in India: Who Must Audit, Turnover Limits &amp; Penalties Explained](https://dev.to/shunyatax_global_da5608a3/statutory-audit-applicability-in-india-who-must-audit-turnover-limits-penalties-explained-38b1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
