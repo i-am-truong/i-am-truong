@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Exploring CSS Shadow DOM and CSS Custom Shadow Parts](https://dev.to/sharique_siddiqui_8242dad/exploring-css-shadow-dom-and-css-custom-shadow-parts-4ad)
-- [Rethinking Network Defense: Why We Should Explore ML-Assisted Risk Assessment on Top of Traditional Scanners](https://dev.to/hejhdiss/rethinking-network-defense-why-we-should-explore-ml-assisted-risk-assessment-on-top-of-traditional-4k3h)
-- [Build an AI-Powered Competitive Intelligence Monitor](https://dev.to/badmonster0/build-an-ai-powered-competitive-intelligence-monitor-740)
-- [Rust for WebAssembly &lpar;Yew/Leptos&rpar;](https://dev.to/godofgeeks/rust-for-webassembly-yewleptos-4mjc)
-- [The Death of the Wiki: How AI Knowledge Graphs Are Changing Search](https://dev.to/whykislay/the-death-of-the-wiki-how-ai-knowledge-graphs-are-changing-search-5cd9)
+- [Why Writeless AI Is a Scholarship Killer for Students](https://dev.to/michaelbettis/why-writeless-ai-is-a-scholarship-killer-for-students-4h7)
+- [🚀 Different Types of Deployment Strategies in DevOps](https://dev.to/abhishek_korde_31/different-types-of-deployment-strategies-in-devops-2m6n)
+- [Avoiding complexity in software development](https://dev.to/nandofm/avoiding-complexity-in-software-development-5992)
+- [🚀 &quot;Circuit Breakers&quot;: The Safety Switch That Prevents Cascading Failures 🛡️🚫](https://dev.to/charanpool/circuit-breakers-the-safety-switch-that-prevents-cascading-failures-off)
+- [Jujutsu Kaisen Season 3: Release Context and Story Progression](https://dev.to/majeeddev627/jujutsu-kaisen-season-3-release-context-and-story-progression-20ok)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
