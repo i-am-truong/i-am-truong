@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Finally Fixed My Serverless + esbuild + Prisma Packaging Nightmare](https://dev.to/htuohz/how-i-finally-fixed-my-serverless-esbuild-prisma-packaging-nightmare-ah0)
-- [SeaTunnel CDC Explained: A Layman’s Guide](https://dev.to/seatunnel/seatunnel-cdc-explained-a-laymans-guide-1m50)
-- [Dokufy: Generate PDFs your way — Gotenberg, LibreOffice, or native PHP.](https://dev.to/nasrulhazim/dokufy-generate-pdfs-your-way-gotenberg-libreoffice-or-native-php-2c58)
-- [9 Best Claude Prompt Templates for Developers &lpar;Token-Saving Daily Pack&rpar;](https://dev.to/theamasoud/9-best-claude-prompt-templates-for-developers-token-saving-daily-pack-4ofh)
-- [Deploying an AWS EKS Cluster Using Terraform: A Step-by-Step Guide](https://dev.to/blacorpheus/deploying-an-aws-eks-cluster-using-terraform-a-step-by-step-guide-3a2h)
+- [Humanoid Compute: Price vs. Performance](https://dev.to/ankk98/humanoid-compute-price-vs-performance-842)
+- [How Git Stores Files Internally to Saves Space in Your Repository](https://dev.to/bhagirath00/how-git-stores-files-internally-to-saves-space-in-your-repository-m4i)
+- [How I Structure Real Projects Before Writing Code](https://dev.to/sain_bux_dev/how-i-structure-real-projects-before-writing-code-41oo)
+- [Networking 101 #6. Subnets, CIDR &amp; NAT](https://dev.to/himanshu_bhatt/networking-101-6-subnets-cidr-nat-341c)
+- [InAppAI: Open-Source AI Agents for React Apps](https://dev.to/chaoming/inappai-open-source-ai-agents-for-react-apps-1l86)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
