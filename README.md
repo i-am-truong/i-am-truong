@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A simple pattern for versioned persisted state in React Native](https://dev.to/sebastian_thiebaud_3f06ad/a-simple-pattern-for-versioned-persisted-state-in-react-native-17bf)
+- [A simple pattern for versioned persisted state in React Native](https://dev.to/sebastian_thiebaud_3f06ad/a-simple-pattern-for-versioned-persisted-state-in-react-native-ll6)
+- [Run Phishing Simulations for $37/Month Instead of $30,000/Year](https://dev.to/david_dev_sec/run-phishing-simulations-for-37month-instead-of-30000year-nig)
+- [5 Local Development &#39;Superpowers&#39; Senior Developers Use in 2026](https://dev.to/james_miller_8dc58a89cb9e/5-local-development-superpowers-senior-developers-use-in-2026-30g3)
 - [MINI PROJECT: Headless Service with StatefulSet &lpar;MySQL-style behavior&rpar;](https://dev.to/jumptotech/mini-project-headless-service-with-statefulset-mysql-style-behavior-a2h)
-- [React JSON Schema Forms in Practice — Why They Break Down and How SurveyJS Fixes the Architecture](https://dev.to/surveyjs/react-json-schema-forms-in-practice-why-they-break-down-and-how-surveyjs-fixes-the-architecture-17ik)
-- [Your AI Context Now Works Everywhere: faf-cli Google Gemini Edition](https://dev.to/wolfejam/your-ai-context-now-works-everywhere-faf-cli-google-gemini-edition-19bc)
-- [Day 9 of 30 Days of Python – Building a Nigerian Electricity Bill Analyzer⚡](https://dev.to/kinspirecyber/day-9-of-30-days-of-python-building-a-nigerian-electricity-bill-analyzer-467p)
-- [Top Offshore Software Development Companies: Reviews &amp; Rates 3/3 &lpar;Got the opportunity to interview a veteran CTO&rpar;](https://dev.to/maame-codes/top-offshore-software-development-companies-reviews-rates-33-got-the-opportunity-to-interview-9c1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
