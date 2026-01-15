@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Built a Climate-Aware Garden Planner as a Solo Developer](https://dev.to/joao_pedrobragattiwinck/how-i-built-a-climate-aware-garden-planner-as-a-solo-developer-283)
+- [From experts to speakers: No pressure included](https://dev.to/pvsdev/from-experts-to-speakers-no-pressure-included-1n7i)
 - [The Neural Command Center: Building a Generative UI Portfolio with Gemini 1.5 &amp; Python](https://dev.to/the_nortern_dev/the-neural-command-center-building-a-generative-ui-portfolio-with-gemini-15-python-2dkd)
 - [PeerDAS &amp; ZK-EVMs on Ethereum, ERC-8004 Agents, Ambire Custom Bundlers, BlackRock on Ethereum](https://dev.to/etherspot/peerdas-zk-evms-on-ethereum-erc-8004-agents-ambire-custom-bundlers-blackrock-on-ethereum-15pd)
 - [Why Your LLM Needs Runtime Guardrails: The Developer&#39;s Guide to California&#39;s 2026 AI Laws](https://dev.to/alessandro_pignati/why-your-llm-needs-runtime-guardrails-the-developers-guide-to-californias-2026-ai-laws-4fon)
-- [How I Built a Traceable API Gateway with NATS and Chain of Thought Flows](https://dev.to/quochuydev/how-i-built-a-traceable-api-gateway-with-nats-and-chain-of-thought-flows-364i)
-- [Blog #1: Neural Network Fundamentals You Must Understand Before Transformers](https://dev.to/techsorter/blog-1-neural-network-fundamentals-you-must-understand-before-transformers-1953)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
