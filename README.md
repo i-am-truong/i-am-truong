@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Asked Copilot: &quot;How Did They Think To Write Such Awful Code?&quot;](https://dev.to/roysh_29efdbf53b7da/i-asked-copilot-how-did-they-think-to-write-such-awful-code-68c)
-- [Detecting Objects in Images from Any Text Prompt &lpar;Not Fixed Classes&rpar;](https://dev.to/eyasu_asnake_848226099eab/detecting-objects-in-images-from-any-text-prompt-not-fixed-classes-5eda)
-- [Journals Beyond the Basics in SQLite](https://dev.to/lovestaco/journals-beyond-the-basics-4g6o)
-- [The Genius Master and His Efficient Dumbass Servant](https://dev.to/oyinade_olawoyin_aaaa6272/the-genius-master-and-his-efficient-dumbass-servant-2cnc)
-- [# Dynamics GP en Chile: cómo evaluar la continuidad de un ERP crítico](https://dev.to/andres_valdivia_0e08cccf9/-dynamics-gp-en-chile-como-evaluar-la-continuidad-de-un-erp-critico-3ml3)
+- [Hello I am new to this programming world it would be great help me in learning python how to become a good python developer with dsa](https://dev.to/mushaffiq_ahmedmujale_95/hello-i-am-new-to-this-programming-world-it-would-be-great-help-me-in-learning-python-how-to-become-n9o)
+- [LogicStamp: Deterministic Context for AI-Assisted Development](https://dev.to/amitek/logicstamp-deterministic-context-for-ai-assisted-development-39da)
+- [Building a Webhook Replay System with AWS Kinesis](https://dev.to/ajithmanmu/building-a-webhook-replay-system-with-aws-kinesis-2682)
+- [Come il borrow checker determina la durata dei `&amp;mut`](https://dev.to/mirkodonnarumma-rs/come-il-borrow-checker-determina-la-durata-dei-mut-27pf)
+- [Mi Setup para el 2026](https://dev.to/_mrlucky/mi-setup-para-el-2026-5m5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
