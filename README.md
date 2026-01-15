@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Integrating TON blockchain into Trust Wallet: a case study](https://dev.to/polyprogrammist/integrating-ton-blockchain-into-trust-wallet-a-case-study-2fch)
+- [How To Solve LeetCode 1193](https://dev.to/cmalaga/how-to-solve-leetcode-1193-3ekp)
+- [How I Made My First $1,300 from a SaaS While Finishing High School](https://dev.to/arjun_8ce91bf21cd035a5a00/how-i-made-my-first-1300-from-a-saas-while-finishing-high-school-37p9)
+- [5 GA4 Custom Reports That Actually Matter &lpar;Plus Templates You Can Steal&rpar;](https://dev.to/synergistdigitalmedia/5-ga4-custom-reports-that-actually-matter-plus-templates-you-can-steal-22cf)
 - [Hello I am new to this programming world it would be great help me in learning python how to become a good python developer with dsa](https://dev.to/mushaffiq_ahmedmujale_95/hello-i-am-new-to-this-programming-world-it-would-be-great-help-me-in-learning-python-how-to-become-n9o)
-- [Shipping a Universe: A Post-Mortem](https://dev.to/devenv/shipping-a-universe-a-post-mortem-42n)
-- [From On-Premise Monolith to Scalable AWS Architecture: The Ticket Sales Case Study](https://dev.to/fredydlemus/from-on-premise-monolith-to-scalable-aws-architecture-the-ticket-sales-case-study-1lfe)
-- [LogicStamp: Deterministic Context for AI-Assisted Development](https://dev.to/amitek/logicstamp-deterministic-context-for-ai-assisted-development-39da)
-- [Building a Webhook Replay System with AWS Kinesis](https://dev.to/ajithmanmu/building-a-webhook-replay-system-with-aws-kinesis-2682)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
