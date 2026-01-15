@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Climate-Aware Garden Planner as a Solo Developer](https://dev.to/joao_pedrobragattiwinck/how-i-built-a-climate-aware-garden-planner-as-a-solo-developer-283)
-- [From experts to speakers: No pressure included](https://dev.to/pvsdev/from-experts-to-speakers-no-pressure-included-1n7i)
-- [The Neural Command Center: Building a Generative UI Portfolio with Gemini 1.5 &amp; Python](https://dev.to/the_nortern_dev/the-neural-command-center-building-a-generative-ui-portfolio-with-gemini-15-python-2dkd)
-- [PeerDAS &amp; ZK-EVMs on Ethereum, ERC-8004 Agents, Ambire Custom Bundlers, BlackRock on Ethereum](https://dev.to/etherspot/peerdas-zk-evms-on-ethereum-erc-8004-agents-ambire-custom-bundlers-blackrock-on-ethereum-15pd)
-- [Why Your LLM Needs Runtime Guardrails: The Developer&#39;s Guide to California&#39;s 2026 AI Laws](https://dev.to/alessandro_pignati/why-your-llm-needs-runtime-guardrails-the-developers-guide-to-californias-2026-ai-laws-4fon)
+- [The Framework Framework](https://dev.to/linkbenjamin/the-framework-framework-276k)
+- [The Easiest Way to Setup Supabase SSR in Next.js 14](https://dev.to/zeyd_ajraou_209393308a931/the-easiest-way-to-setup-supabase-ssr-in-nextjs-14-b5a)
+- [Why We Built Another LLM Gateway &lpar;And Made It 50x Faster than every available one&rpar;](https://dev.to/pranay_batta/why-we-built-another-llm-gateway-and-made-it-50x-faster-than-every-available-one-1glp)
+- [Todo App](https://dev.to/abhishek_arankal_4ac78c11/todo-app-4m0a)
+- [Solved: Cloudflare is down again](https://dev.to/techresolve/solved-cloudflare-is-down-again-1io3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
