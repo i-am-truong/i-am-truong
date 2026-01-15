@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Hello I am new to this programming world it would be great help me in learning python how to become a good python developer with dsa](https://dev.to/mushaffiq_ahmedmujale_95/hello-i-am-new-to-this-programming-world-it-would-be-great-help-me-in-learning-python-how-to-become-n9o)
+- [Shipping a Universe: A Post-Mortem](https://dev.to/devenv/shipping-a-universe-a-post-mortem-42n)
+- [From On-Premise Monolith to Scalable AWS Architecture: The Ticket Sales Case Study](https://dev.to/fredydlemus/from-on-premise-monolith-to-scalable-aws-architecture-the-ticket-sales-case-study-1lfe)
 - [LogicStamp: Deterministic Context for AI-Assisted Development](https://dev.to/amitek/logicstamp-deterministic-context-for-ai-assisted-development-39da)
 - [Building a Webhook Replay System with AWS Kinesis](https://dev.to/ajithmanmu/building-a-webhook-replay-system-with-aws-kinesis-2682)
-- [Come il borrow checker determina la durata dei `&amp;mut`](https://dev.to/mirkodonnarumma-rs/come-il-borrow-checker-determina-la-durata-dei-mut-27pf)
-- [Mi Setup para el 2026](https://dev.to/_mrlucky/mi-setup-para-el-2026-5m5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
