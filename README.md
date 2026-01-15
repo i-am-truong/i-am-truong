@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Beginner&#39;s Guide to Downloading Large Files from Google Drive with Python.](https://dev.to/raafe_asad/-a-beginners-guide-to-downloading-large-files-from-google-drive-with-python-4m09)
 - [v2: When GSAP Stopped Being the Problem](https://dev.to/itsugo/v2-when-gsap-stopped-being-the-problem-2emp)
 - [Durable Functions in Lambda](https://dev.to/manumaan/durable-functions-in-lambda-4bna)
 - [Django Security: 10 Essential Steps to Secure Your Project Before Production](https://dev.to/sizan_mahmud0_e7c3fd0cb68/django-security-10-essential-steps-to-secure-your-project-before-production-4lfn)
 - [How I built a Zero-Knowledge Secret Sharer using Next.js and the Web Crypto API](https://dev.to/derick_jdavid_2e9c83287/how-i-built-a-zero-knowledge-secret-sharer-using-nextjs-and-the-web-crypto-api-4mn)
-- [My 2025 Tech Resolutions and My Plan for 2026](https://dev.to/vikkio88/my-2025-tech-resolutions-and-my-plan-for-2026-4c4o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
