@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Limiting GraphQL Query Depth the Right Way](https://dev.to/mateodiaz/limiting-graphql-query-depth-the-right-way-1h65)
-- [A Beginner&#39;s Guide on Git &amp; GitHub for Version Control](https://dev.to/ambogo2/a-beginners-guide-on-git-github-for-version-control-17bd)
-- [Understanding Technical Debt in Modern Software Development](https://dev.to/yasserelgammal/understanding-technical-debt-in-modern-software-development-19id)
-- [The Reprompt Attack Isn&#39;t a Bug,It&#39;s AI Working Exactly as Designed](https://dev.to/zeroblind25/the-reprompt-attack-isnt-a-bugits-ai-working-exactly-as-designed-2o7l)
-- [Roles &amp; Module-Based Permissions in VUE, Laravel &amp; Tailwind](https://dev.to/faisal_malik_544/roles-module-based-permissions-in-vue-laravel-tailwind-4g63)
+- [I Asked Copilot: &quot;How Did They Think To Write Such Awful Code?&quot;](https://dev.to/roysh_29efdbf53b7da/i-asked-copilot-how-did-they-think-to-write-such-awful-code-68c)
+- [Detecting Objects in Images from Any Text Prompt &lpar;Not Fixed Classes&rpar;](https://dev.to/eyasu_asnake_848226099eab/detecting-objects-in-images-from-any-text-prompt-not-fixed-classes-5eda)
+- [Journals Beyond the Basics in SQLite](https://dev.to/lovestaco/journals-beyond-the-basics-4g6o)
+- [The Genius Master and His Efficient Dumbass Servant](https://dev.to/oyinade_olawoyin_aaaa6272/the-genius-master-and-his-efficient-dumbass-servant-2cnc)
+- [# Dynamics GP en Chile: cómo evaluar la continuidad de un ERP crítico](https://dev.to/andres_valdivia_0e08cccf9/-dynamics-gp-en-chile-como-evaluar-la-continuidad-de-un-erp-critico-3ml3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
