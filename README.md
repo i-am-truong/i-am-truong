@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Writeless AI Is a Scholarship Killer for Students](https://dev.to/michaelbettis/why-writeless-ai-is-a-scholarship-killer-for-students-4h7)
-- [🚀 Different Types of Deployment Strategies in DevOps](https://dev.to/abhishek_korde_31/different-types-of-deployment-strategies-in-devops-2m6n)
-- [Avoiding complexity in software development](https://dev.to/nandofm/avoiding-complexity-in-software-development-5992)
-- [🚀 &quot;Circuit Breakers&quot;: The Safety Switch That Prevents Cascading Failures 🛡️🚫](https://dev.to/charanpool/circuit-breakers-the-safety-switch-that-prevents-cascading-failures-off)
-- [Jujutsu Kaisen Season 3: Release Context and Story Progression](https://dev.to/majeeddev627/jujutsu-kaisen-season-3-release-context-and-story-progression-20ok)
+- [Day 3: Understanding L2 Caching and the Oracle Callback Pattern](https://dev.to/yanjun/day-3-understanding-l2-caching-and-the-oracle-callback-pattern-4jog)
+- [Predicting Employee Salary Using Linear Regression](https://dev.to/njeri_muriithi/predicting-employee-salary-using-linear-regression-2j3e)
+- [Celebrating 50 Years of KIM-1: A Developer&#39;s Retrospective](https://dev.to/dd8888/celebrating-50-years-of-kim-1-a-developers-retrospective-4ef0)
+- [How to Use Bootstrap: Set Up and Customize in Your Project](https://dev.to/ideradevtools/how-to-use-bootstrap-set-up-and-customize-in-your-project-58hb)
+- [Customer / Client&lpar;Non-Admin&rpar; Dashboard Rule of Thumb](https://dev.to/msnmongare/customer-clientnon-admin-dashboard-rule-of-thumb-2p3l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
