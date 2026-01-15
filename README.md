@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [JSONL is a seriously weird format!](https://dev.to/david_kershaw_b6916404da6/jsonl-is-a-seriously-weird-format-5flp)
-- [From Header Bidding Chaos to Control: How One Publisher Secured Their Ad Stack with SafeLine WAF](https://dev.to/arina_cholee/from-header-bidding-chaos-to-control-how-one-publisher-secured-their-ad-stack-with-safeline-waf-552n)
-- [Performance isn&#39;t a luxury](https://dev.to/ashgkwd/performance-isnt-a-luxury-4fih)
-- [I built an industrial-style Next.js 16 boilerplate for SaaS projects](https://dev.to/money_3cf88997d27cd9c5150/i-built-an-industrial-style-nextjs-16-boilerplate-for-saas-projects-3ci2)
-- [How to Create a Chatbot That Generates Legal Documents](https://dev.to/chatboqai/how-to-create-a-chatbot-that-generates-legal-documents-3m72)
+- [Rethinking Learning Dynamics in AI Models: An Early Theory from Experimentation](https://dev.to/nebuladata/rethinking-learning-dynamics-in-ai-models-an-early-theory-from-experimentation-4dmp)
+- [How To Solve LeetCode 586](https://dev.to/cmalaga/how-to-solve-leetcode-586-2k8i)
+- [How to Secure Docusaurus for Internal Documentation using Vercel Middleware](https://dev.to/ahikmah/how-to-secure-docusaurus-for-internal-documentation-using-vercel-middleware-5lk)
+- [[AWS] 7. AWS Route 53, DNS &lpar;Domain Name System&rpar;, Routing Policies](https://dev.to/sangwoo_rhie/aws-7-aws-route-53-dns-domain-name-system-routing-policies-lae)
+- [[AWS] 6. AWS Fundamentals: RDS &lpar;Relational Database Service&rpar; + Amazon Aurora + ElastiCache](https://dev.to/sangwoo_rhie/aws-6-aws-fundamentals-rds-relational-database-service-amazon-aurora-elasticache-4bg3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
