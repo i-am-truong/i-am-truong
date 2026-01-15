@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🎵 On the 12 Days of Christmas, Amazon Developer gave to me... 🎄](https://dev.to/amazonappdev/on-the-12-days-of-christmas-amazon-developer-gave-to-me-dhc)
+- [Breaking Free from Waterfall: The Rise of Agile Workflow 🚀](https://dev.to/devopsdynamicshub/breaking-free-from-waterfall-the-rise-of-agile-workflow-2hh7)
+- [Sprint Retrospectives: The 30-Minute Habit That Makes Teams 10x Better &lpar;Without Working Harder&rpar;](https://dev.to/clear_retro/sprint-retrospectives-the-30-minute-habit-that-makes-teams-10x-better-without-working-harder-332i)
 - [El MVP que funciona &lpar;1-100 usuarios&rpar;](https://dev.to/norman404/el-mvp-que-funciona-1-100-usuarios-3pi3)
 - [**Unlocking Optimal Performance: The AI-Powered Transformati](https://dev.to/drcarlosruizviquez/unlocking-optimal-performance-the-ai-powered-transformati-5c3j)
-- [Distilling Knowledge into Tiny LLMs](https://dev.to/neuml/distilling-knowledge-into-tiny-llms-4chc)
-- [From Installation Freezes to PowerShell Automation: My Windows Server 2019 Journey.](https://dev.to/alafiz/from-installation-freezes-to-powershell-automation-my-windows-server-2019-journey-168h)
-- [🌟 Making AWS Infrastructure Understandable for Product Managers](https://dev.to/pravesh_sudha_3c2b0c2b5e0/making-aws-infrastructure-understandable-for-product-managers-101c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
