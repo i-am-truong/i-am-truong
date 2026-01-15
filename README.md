@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🎵 On the 12 Days of Christmas, Amazon Developer gave to me... 🎄](https://dev.to/amazonappdev/on-the-12-days-of-christmas-amazon-developer-gave-to-me-dhc)
-- [Breaking Free from Waterfall: The Rise of Agile Workflow 🚀](https://dev.to/devopsdynamicshub/breaking-free-from-waterfall-the-rise-of-agile-workflow-2hh7)
-- [Sprint Retrospectives: The 30-Minute Habit That Makes Teams 10x Better &lpar;Without Working Harder&rpar;](https://dev.to/clear_retro/sprint-retrospectives-the-30-minute-habit-that-makes-teams-10x-better-without-working-harder-332i)
-- [El MVP que funciona &lpar;1-100 usuarios&rpar;](https://dev.to/norman404/el-mvp-que-funciona-1-100-usuarios-3pi3)
-- [**Unlocking Optimal Performance: The AI-Powered Transformati](https://dev.to/drcarlosruizviquez/unlocking-optimal-performance-the-ai-powered-transformati-5c3j)
+- [AI Is Not Your Product. It’s Just a Feature.](https://dev.to/christoph_codes/ai-is-not-your-product-its-just-a-feature-23p9)
+- [The Hidden Backbone of the Internet: Why S3 Security Should Keep You Up at Night](https://dev.to/tarekcheikh/the-hidden-backbone-of-the-internet-why-s3-security-should-keep-you-up-at-night-lpm)
+- [How I Automated My First Node.js App Deployment Using AWS App Runner](https://dev.to/bayo_ogundele_b3f16b3c436/how-i-automated-my-first-nodejs-app-deployment-using-aws-app-runner-4lg8)
+- [🌱 Looking for Advice on Safe, Ethical Donation Options for my app Bloom](https://dev.to/codebunny20/looking-for-advice-on-safe-ethical-donation-options-for-my-app-bloom-4j3d)
+- [Build Better Agent UX: Streaming Progress, Status, and File Ops with LangChain](https://dev.to/christian_bromann/build-better-agent-ux-streaming-progress-status-and-file-ops-with-langchain-3dg3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
