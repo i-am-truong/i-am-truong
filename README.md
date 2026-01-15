@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Geopolitical &quot;War Room&quot; While High on Morphine &lpar;and Then Actually Shipped It&rpar;](https://dev.to/iamjameskeane/i-built-a-geopolitical-war-room-while-high-on-morphine-and-then-actually-shipped-it-ed2)
-- [The Upwork Proposal Format That Actually Gets Replies](https://dev.to/famoustiger0808/the-upwork-proposal-format-that-actually-gets-replies-5cnb)
-- [Decoding high-bandwidth memory: A practical guide to GPU memory for fine-tuning AI models](https://dev.to/googleai/decoding-high-bandwidth-memory-a-practical-guide-to-gpu-memory-for-fine-tuning-ai-models-56af)
-- [Building Web-Based Nmap Tools: Introducing nmap-exec-api](https://dev.to/hejhdiss/building-web-based-nmap-tools-introducing-nmap-exec-api-48g7)
-- [AI-Powered Development: Building Smarter with Prompt Engineering](https://dev.to/avsecdongol/ai-powered-development-building-smarter-with-prompt-engineering-42eg)
+- [YouTube keeps deleting my music, so I built a service to restore them automatically](https://dev.to/whistle_missile2_2b8752d2/youtube-keeps-deleting-my-music-so-i-built-a-service-to-restore-them-automatically-29gp)
+- [Beating the 29-Second Timeout: Practical Serverless Patterns for GenAI APIs on AWS](https://dev.to/thedeveloperjournal/beating-the-29-second-timeout-practical-serverless-patterns-for-genai-apis-on-aws-2j8a)
+- [Atomic Design: From UI Composition to Real-World Applications](https://dev.to/josephciullo/atomic-design-from-ui-composition-to-real-world-applications-j25)
+- [A Practical Guide to AI-Assisted Coding Tools](https://dev.to/alexmercedcoder/a-practical-guide-to-ai-assisted-coding-tools-2fh5)
+- [Argentinien: INPI stellt Markenprüfung](https://dev.to/timespinwriterjames/argentinien-inpi-stellt-markenprufung-2ngc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
