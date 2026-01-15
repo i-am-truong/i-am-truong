@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Micro Frontend Architecture, BFF, and Microservices — Explained Simply with Real‑World Examples](https://dev.to/koolkamalkishor/micro-frontend-architecture-bff-and-microservices-explained-simply-with-real-world-examples-4bd5)
+- [Code Standards and Best Practices for Growing Teams](https://dev.to/kodus/code-standards-and-best-practices-for-growing-teams-l4g)
+- [A Practical Performance Comparison of Top Internal Tool Builders](https://dev.to/nigel_t/a-practical-performance-comparison-of-top-internal-tool-builders-4b4j)
 - [Humanoid Compute: Price vs. Performance](https://dev.to/ankk98/humanoid-compute-price-vs-performance-842)
 - [How Git Stores Files Internally to Saves Space in Your Repository](https://dev.to/bhagirath00/how-git-stores-files-internally-to-saves-space-in-your-repository-m4i)
-- [How I Structure Real Projects Before Writing Code](https://dev.to/sain_bux_dev/how-i-structure-real-projects-before-writing-code-41oo)
-- [Networking 101 #6. Subnets, CIDR &amp; NAT](https://dev.to/himanshu_bhatt/networking-101-6-subnets-cidr-nat-341c)
-- [InAppAI: Open-Source AI Agents for React Apps](https://dev.to/chaoming/inappai-open-source-ai-agents-for-react-apps-1l86)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
