@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 8 of 30 Days of Python Projects: Building a Nigerian SME Loan &amp; Repayment Tracker with Dictionaries 🐍](https://dev.to/kinspirecyber/day-8-of-30-days-of-python-projects-building-a-nigerian-sme-loan-repayment-tracker-with-18m2)
+- [Final Round AI vs Parakeet AI: A Real Developer’s Comparison](https://dev.to/finalroundai/final-round-ai-vs-parakeet-ai-a-real-developers-comparison-388)
+- [CVE-2026-0621: Event-Loop Denial of Service in the MCP TypeScript SDK](https://dev.to/om_shree_0709/cve-2026-0621-event-loop-denial-of-service-in-the-mcp-typescript-sdk-1k40)
 - [เพิ่มประสิทธิภาพการทำงาน ด้วย Agile process](https://dev.to/__00/ephimprasiththiphaaphkaarthamngaan-dwy-agile-process-307o)
 - [👗 StyleMatch - Your AI Personal Fashion Stylist](https://dev.to/simranshaikh20_50/stylematch-your-ai-personal-fashion-stylist-247m)
-- [The Cloud Exit Strategy: How to Run a Production SaaS for $5/Month](https://dev.to/the_nortern_dev/the-cloud-exit-strategy-how-to-run-a-production-saas-for-5month-51fi)
-- [Your Cloud Database is a Security Theater](https://dev.to/ryo_suwito/your-cloud-database-is-a-security-theater-28a5)
-- [🚀 BlazorWJb: Integrating Worker Jobs with Blazor Server App](https://dev.to/ukrguru/blazorwjb-integrating-worker-jobs-with-blazor-server-app-4ebj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
