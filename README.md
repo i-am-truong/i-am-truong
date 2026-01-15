@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why “AI Engineer” Sounded Like a Dead End to Me &lpar;Until It Didn’t&rpar;](https://dev.to/dev-in-progress/why-ai-engineer-sounded-like-a-dead-end-to-me-until-it-didnt-20k5)
-- [xAI Software Engineer Interview &lpar;2026&rpar; — Full Recap, Pitfalls &amp; Real Prep Tips](https://dev.to/net_programhelp_e160eef28/xai-software-engineer-interview-2026-full-recap-pitfalls-real-prep-tips-2fl0)
-- [Logtide: 2 Months After Launch &lpar;The Real Numbers&rpar;](https://dev.to/polliog/logtide-2-months-after-launch-the-real-numbers-fp0)
-- [The Real Cost of a High Learning Curve: Why DeveloperHub Wins for Cross-Functional Documentation](https://dev.to/therealmrmumba/the-real-cost-of-a-high-learning-curve-why-developerhub-wins-for-cross-functional-documentation-35np)
-- [Building a Console-Based Maintenance Helpdesk System in Java](https://dev.to/phoenix-archer/building-a-console-based-maintenance-helpdesk-system-in-java-5a8c)
+- [Your AI Agent Has Too Much Power: Understanding and Taming Excessive Agency](https://dev.to/alessandro_pignati/your-ai-agent-has-too-much-power-understanding-and-taming-excessive-agency-4kbc)
+- [Dev List Digest for Apache Iceberg, Parquet, Polaris and Arrow: January 6–14, 2026](https://dev.to/alexmercedcoder/dev-list-digest-for-apache-iceberg-parquet-polaris-and-arrow-january-6-14-2026-587n)
+- [LLMs Did Not Replace You. They Replaced Your Excuses](https://dev.to/ackermannq/llms-did-not-replace-you-they-replaced-your-excuses-2b4p)
+- [Making Parallel HTTP Requests Stable in Go: Lessons from Building a Markdown Linter](https://dev.to/_402ccbd6e5cb02871506/making-parallel-http-requests-stable-in-go-lessons-from-building-a-markdown-linter-1j36)
+- [🚇 I Accidentally Built a Full 3D Endless Runner Game in the Browser &lpar;It’s in KBs btw&rpar;](https://dev.to/swagking/i-accidentally-built-a-full-3d-endless-runner-game-in-the-browser-its-in-kbs-btw-fh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
