@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Is Not Your Product. It’s Just a Feature.](https://dev.to/christoph_codes/ai-is-not-your-product-its-just-a-feature-23p9)
-- [The Hidden Backbone of the Internet: Why S3 Security Should Keep You Up at Night](https://dev.to/tarekcheikh/the-hidden-backbone-of-the-internet-why-s3-security-should-keep-you-up-at-night-lpm)
-- [How I Automated My First Node.js App Deployment Using AWS App Runner](https://dev.to/bayo_ogundele_b3f16b3c436/how-i-automated-my-first-nodejs-app-deployment-using-aws-app-runner-4lg8)
-- [🌱 Looking for Advice on Safe, Ethical Donation Options for my app Bloom](https://dev.to/codebunny20/looking-for-advice-on-safe-ethical-donation-options-for-my-app-bloom-4j3d)
-- [Build Better Agent UX: Streaming Progress, Status, and File Ops with LangChain](https://dev.to/christian_bromann/build-better-agent-ux-streaming-progress-status-and-file-ops-with-langchain-3dg3)
+- [Limiting GraphQL Query Depth the Right Way](https://dev.to/mateodiaz/limiting-graphql-query-depth-the-right-way-1h65)
+- [A Beginner&#39;s Guide on Git &amp; GitHub for Version Control](https://dev.to/ambogo2/a-beginners-guide-on-git-github-for-version-control-17bd)
+- [Understanding Technical Debt in Modern Software Development](https://dev.to/yasserelgammal/understanding-technical-debt-in-modern-software-development-19id)
+- [The Reprompt Attack Isn&#39;t a Bug,It&#39;s AI Working Exactly as Designed](https://dev.to/zeroblind25/the-reprompt-attack-isnt-a-bugits-ai-working-exactly-as-designed-2o7l)
+- [Roles &amp; Module-Based Permissions in VUE, Laravel &amp; Tailwind](https://dev.to/faisal_malik_544/roles-module-based-permissions-in-vue-laravel-tailwind-4g63)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
