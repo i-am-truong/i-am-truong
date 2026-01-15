@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A simple pattern for versioned persisted state in React Native](https://dev.to/sebastian_thiebaud_3f06ad/a-simple-pattern-for-versioned-persisted-state-in-react-native-17bf)
 - [A simple pattern for versioned persisted state in React Native](https://dev.to/sebastian_thiebaud_3f06ad/a-simple-pattern-for-versioned-persisted-state-in-react-native-ll6)
 - [Run Phishing Simulations for $37/Month Instead of $30,000/Year](https://dev.to/david_dev_sec/run-phishing-simulations-for-37month-instead-of-30000year-nig)
 - [5 Local Development &#39;Superpowers&#39; Senior Developers Use in 2026](https://dev.to/james_miller_8dc58a89cb9e/5-local-development-superpowers-senior-developers-use-in-2026-30g3)
 - [MINI PROJECT: Headless Service with StatefulSet &lpar;MySQL-style behavior&rpar;](https://dev.to/jumptotech/mini-project-headless-service-with-statefulset-mysql-style-behavior-a2h)
+- [Zig vs Go: condition flows](https://dev.to/pix303/zig-vs-go-condition-flows-11an)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
