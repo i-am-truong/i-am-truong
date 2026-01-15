@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Am I the Problem?](https://dev.to/mariaemiliacheca/am-i-the-problem-4k6f)
-- [Inside Logic Apps Standard: How Azure Tables Store Your Workflows](https://dev.to/imdj/inside-logic-apps-standard-how-azure-tables-store-your-workflows-5125)
-- [The Six Patterns That Cover Everything](https://dev.to/siy/the-six-patterns-that-cover-everything-kmn)
-- [Part 4: Automated Backups &amp; Restore Procedures](https://dev.to/kamlesh_merugu/part-4-automated-backups-restore-procedures-4dp6)
-- [Scraping, APIs y bloqueos: lo que todo desarrollador debería saber](https://dev.to/criszcova/scraping-apis-y-bloqueos-lo-que-todo-desarrollador-deberia-saber-58mn)
+- [Go Channel and Pipeline: A Conference Review](https://dev.to/evanlin/go-channel-and-pipeline-a-conference-review-bff)
+- [[Golang] Do You Like Golang? Become a Go GDE &lpar;Google Developer Expert&rpar;](https://dev.to/evanlin/golang-do-you-like-golang-become-a-go-gde-google-developer-expert-48al)
+- [[TIL][Go] How to Install a Beta Version of Go](https://dev.to/evanlin/tilgo-how-to-install-a-beta-version-of-go-1p30)
+- [GopherCon 2019: Uber&#39;s Approach &lpar;1&rpar;](https://dev.to/evanlin/gophercon-2019-ubers-approach-1-ekc)
+- [Conference Notes: NAVER x LINE AI-Rush 2019 Finals Recap](https://dev.to/evanlin/conference-notes-naver-x-line-ai-rush-2019-finals-recap-3af2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
