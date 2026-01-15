@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Web Application Security Is a Design Decision, Not a Patch](https://dev.to/halodigital/web-application-security-is-a-design-decision-not-a-patch-12f0)
-- [Turn Todoist Tasks into Public Google Calendar Events &lpar;with Google Apps Script + Sync Tokens&rpar;](https://dev.to/francostino/turn-todoist-tasks-into-public-google-calendar-events-with-google-apps-script-sync-tokens-512b)
-- [How I Created a PC Bottleneck Calculator and What It Taught Me About Hardware Balance](https://dev.to/all_bl_6159e2c3a3056cc522/how-i-created-a-pc-bottleneck-calculator-and-what-it-taught-me-about-hardware-balance-3ge0)
-- [Running Kiro CLI from a Raspberry Pi 400](https://dev.to/kirodotdev/running-kiro-cli-from-a-raspberry-pi-400-4d2h)
-- [Golazo: The beautiful game in your terminal](https://dev.to/0xjuanma/golazo-the-beautiful-game-in-your-terminal-52na)
+- [I Built a Geopolitical &quot;War Room&quot; While High on Morphine &lpar;and Then Actually Shipped It&rpar;](https://dev.to/iamjameskeane/i-built-a-geopolitical-war-room-while-high-on-morphine-and-then-actually-shipped-it-ed2)
+- [The Upwork Proposal Format That Actually Gets Replies](https://dev.to/famoustiger0808/the-upwork-proposal-format-that-actually-gets-replies-5cnb)
+- [Decoding high-bandwidth memory: A practical guide to GPU memory for fine-tuning AI models](https://dev.to/googleai/decoding-high-bandwidth-memory-a-practical-guide-to-gpu-memory-for-fine-tuning-ai-models-56af)
+- [Building Web-Based Nmap Tools: Introducing nmap-exec-api](https://dev.to/hejhdiss/building-web-based-nmap-tools-introducing-nmap-exec-api-48g7)
+- [AI-Powered Development: Building Smarter with Prompt Engineering](https://dev.to/avsecdongol/ai-powered-development-building-smarter-with-prompt-engineering-42eg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
