@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your AI Agent Has Too Much Power: Understanding and Taming Excessive Agency](https://dev.to/alessandro_pignati/your-ai-agent-has-too-much-power-understanding-and-taming-excessive-agency-4kbc)
-- [Dev List Digest for Apache Iceberg, Parquet, Polaris and Arrow: January 6–14, 2026](https://dev.to/alexmercedcoder/dev-list-digest-for-apache-iceberg-parquet-polaris-and-arrow-january-6-14-2026-587n)
-- [LLMs Did Not Replace You. They Replaced Your Excuses](https://dev.to/ackermannq/llms-did-not-replace-you-they-replaced-your-excuses-2b4p)
-- [Making Parallel HTTP Requests Stable in Go: Lessons from Building a Markdown Linter](https://dev.to/_402ccbd6e5cb02871506/making-parallel-http-requests-stable-in-go-lessons-from-building-a-markdown-linter-1j36)
-- [🚇 I Accidentally Built a Full 3D Endless Runner Game in the Browser &lpar;It’s in KBs btw&rpar;](https://dev.to/swagking/i-accidentally-built-a-full-3d-endless-runner-game-in-the-browser-its-in-kbs-btw-fh)
+- [Coding Challenge Practice - Question 103](https://dev.to/tomivan/coding-challenge-practice-question-103-aa4)
+- [The Magic of .sock: Why Modern Infrastructure Relies on Unix Domain Sockets](https://dev.to/kanywst/the-magic-of-sock-why-modern-infrastructure-relies-on-unix-domain-sockets-4ohl)
+- [How Small Pull Requests Improve Team Flow](https://dev.to/kodus/how-small-pull-requests-improve-team-flow-3gml)
+- [Ringer Movies: ‘Avengers: Doomsday’ Teaser Reactions](https://dev.to/popcorn_movies/ringer-movies-avengers-doomsday-teaser-reactions-3341)
+- [Designing an AI-Operable Release Workflow](https://dev.to/synthaicode_commander/designing-an-ai-operable-release-workflow-1ja5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
