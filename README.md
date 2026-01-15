@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [When Birthday Photography Becomes a Template — and Why AI Feels Like an Alternative](https://dev.to/zoeyy-hu/when-birthday-photography-becomes-a-template-and-why-ai-feels-like-an-alternative-4j2l)
+- [Did you know?](https://dev.to/cloudraptor/did-you-know-55kd)
+- [My First Post](https://dev.to/neel_singh_363e8e2cda3567/my-first-post-1nlj)
+- [Understanding SSL/TLS Certificates](https://dev.to/azadshukor/understanding-ssltls-certificates-3lb7)
 - [Myth vs reality: “AI kills creativity”](https://dev.to/jaideepparashar/myth-vs-reality-ai-kills-creativity-51pm)
-- [We&#39;re Manufacturing Dashboards &amp; Data Nobody Uses &lpar;And the Data Proves It&rpar;](https://dev.to/analyticspitfalls/were-manufacturing-dashboards-data-nobody-uses-and-the-data-proves-it-djh)
-- [Prompt Engineering For Developers - In a Nutshell](https://dev.to/atinfosec/prompt-engineering-for-developers-in-a-nutshell-1bh)
-- [Building Maintainable Backends with Port-Adapter Architecture in NestJS](https://dev.to/dubbyding/building-maintainable-backends-with-port-adapter-architecture-in-nestjs-40ka)
-- [Mastering Fundamental Golang : Building RESTAPI Project](https://dev.to/__00/mastering-fundamental-golang-building-restapi-project-3hbn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
