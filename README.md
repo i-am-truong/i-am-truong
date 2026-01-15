@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Exploring CSS Shadow DOM and CSS Custom Shadow Parts](https://dev.to/sharique_siddiqui_8242dad/exploring-css-shadow-dom-and-css-custom-shadow-parts-4ad)
+- [Rethinking Network Defense: Why We Should Explore ML-Assisted Risk Assessment on Top of Traditional Scanners](https://dev.to/hejhdiss/rethinking-network-defense-why-we-should-explore-ml-assisted-risk-assessment-on-top-of-traditional-4k3h)
 - [Build an AI-Powered Competitive Intelligence Monitor](https://dev.to/badmonster0/build-an-ai-powered-competitive-intelligence-monitor-740)
-- [Demystifying the Work Breakdown Structure &lpar;WBS&rpar;: A Practical Guide for Technical Projects](https://dev.to/simplewbs/demystifying-the-work-breakdown-structure-wbs-a-practical-guide-for-technical-projects-4m1l)
-- [Zero to Game Dev - What is Game Engine?](https://dev.to/kartik_patel/zero-to-game-dev-what-is-game-engine-27hh)
-- [Search Confluence or Jira with Raycast](https://dev.to/frankie/search-confluence-or-jira-with-raycast-3eep)
-- [9 Browser DevTools Features You&#39;re Probably Ignoring &lpar;and Why They Matter&rpar;](https://dev.to/parth_g/9-browser-devtools-features-youre-probably-ignoring-and-why-they-matter-4g04)
+- [Rust for WebAssembly &lpar;Yew/Leptos&rpar;](https://dev.to/godofgeeks/rust-for-webassembly-yewleptos-4mjc)
+- [The Death of the Wiki: How AI Knowledge Graphs Are Changing Search](https://dev.to/whykislay/the-death-of-the-wiki-how-ai-knowledge-graphs-are-changing-search-5cd9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
