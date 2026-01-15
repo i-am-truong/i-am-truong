@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI-Radar.it](https://dev.to/davide_serra_e63526e554df/ai-radarit-1b2b)
+- [Understand AWS IAM Identifiers](https://dev.to/mayurbhatti/understand-aws-iam-identifiers-18ol)
+- [🚀 AI Is Making Junior Developers Useless — Or Is It?](https://dev.to/igbojionu/ai-is-making-junior-developers-useless-or-is-it-27ph)
 - [Integrating TON blockchain into Trust Wallet: a case study](https://dev.to/polyprogrammist/integrating-ton-blockchain-into-trust-wallet-a-case-study-2fch)
-- [How To Solve LeetCode 1193](https://dev.to/cmalaga/how-to-solve-leetcode-1193-3ekp)
-- [How I Made My First $1,300 from a SaaS While Finishing High School](https://dev.to/arjun_8ce91bf21cd035a5a00/how-i-made-my-first-1300-from-a-saas-while-finishing-high-school-37p9)
-- [5 GA4 Custom Reports That Actually Matter &lpar;Plus Templates You Can Steal&rpar;](https://dev.to/synergistdigitalmedia/5-ga4-custom-reports-that-actually-matter-plus-templates-you-can-steal-22cf)
-- [Hello I am new to this programming world it would be great help me in learning python how to become a good python developer with dsa](https://dev.to/mushaffiq_ahmedmujale_95/hello-i-am-new-to-this-programming-world-it-would-be-great-help-me-in-learning-python-how-to-become-n9o)
+- [&quot;Air Gap&quot; for the Cloud: Why the AWS European Sovereign Cloud Changes Everything](https://dev.to/alifunk/air-gap-for-the-cloud-why-the-aws-european-sovereign-cloud-changes-everything-3gfp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
