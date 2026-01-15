@@ -120,11 +120,13 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Scaling to 93K RPM: Moving Quota Management from SQL to Redis](https://dev.to/lamemaster/scaling-to-93k-rpm-moving-quota-management-from-sql-to-redis-5aj)
-- [Stop Struggling With Data Fetching in React &lpar;React Day 7&rpar;](https://dev.to/vasughanta09/reacts-secret-sauce-fetching-data-without-losing-your-mind-react-day-7-4b8i)
-- [Building NeonAIX: Or How I Accidentally Learned How AI Actually Works](https://dev.to/zerotrustzeroenergy/building-neonaix-or-how-i-accidentally-learned-how-ai-actually-works-3a4m)
-- [Build a Real-Time Social Proof Widget for Your Website](https://dev.to/olams/build-a-real-time-social-proof-widget-for-your-website-2g88)
-- [ArkTS Concurrency Guide 2025 Async Programming with Promises and Await &lpar;Part 1&rpar;](https://dev.to/harmonyos/arkts-concurrency-guide-2025-async-programming-with-promises-and-await-part-1-2olm)
+- [🧱 Beginner-Friendly Guide &#39;Maximize Area of Square Hole in Grid&#39; – LeetCode 2943 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-maximize-area-of-square-hole-in-grid-leetcode-2943-c-python-31k9)
+- [LLM Showstoppers: What Fails in Prod and How to Fix it with Agent Core](https://dev.to/mabualzait/llm-showstoppers-what-fails-in-prod-and-how-to-fix-it-with-agent-core-4nb1)
+- [Hice mi primer script en rust-script para hacer backups de solr/lucene con barra de progreso usando gemini. 
+Es realmente increíble 
+https://gist.github.com/horaciod/858fdeb5632abe806ef2707c03bbf5cd](https://dev.to/horaciodegiorgi/hice-mi-primer-script-en-rust-script-para-hacer-backups-de-solrlucene-con-barra-de-progreso-39j7)
+- [The Secret Life of JavaScript: The Promise](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-promise-4h68)
+- [[Boost]](https://dev.to/thebitforge/-9kb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
