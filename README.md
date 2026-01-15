@@ -120,13 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🧱 Beginner-Friendly Guide &#39;Maximize Area of Square Hole in Grid&#39; – LeetCode 2943 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-maximize-area-of-square-hole-in-grid-leetcode-2943-c-python-31k9)
-- [LLM Showstoppers: What Fails in Prod and How to Fix it with Agent Core](https://dev.to/mabualzait/llm-showstoppers-what-fails-in-prod-and-how-to-fix-it-with-agent-core-4nb1)
-- [Hice mi primer script en rust-script para hacer backups de solr/lucene con barra de progreso usando gemini. 
-Es realmente increíble 
-https://gist.github.com/horaciod/858fdeb5632abe806ef2707c03bbf5cd](https://dev.to/horaciodegiorgi/hice-mi-primer-script-en-rust-script-para-hacer-backups-de-solrlucene-con-barra-de-progreso-39j7)
-- [The Secret Life of JavaScript: The Promise](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-promise-4h68)
-- [[Boost]](https://dev.to/thebitforge/-9kb)
+- [Myth vs reality: “AI kills creativity”](https://dev.to/jaideepparashar/myth-vs-reality-ai-kills-creativity-51pm)
+- [We&#39;re Manufacturing Dashboards &amp; Data Nobody Uses &lpar;And the Data Proves It&rpar;](https://dev.to/analyticspitfalls/were-manufacturing-dashboards-data-nobody-uses-and-the-data-proves-it-djh)
+- [Prompt Engineering For Developers - In a Nutshell](https://dev.to/atinfosec/prompt-engineering-for-developers-in-a-nutshell-1bh)
+- [Building Maintainable Backends with Port-Adapter Architecture in NestJS](https://dev.to/dubbyding/building-maintainable-backends-with-port-adapter-architecture-in-nestjs-40ka)
+- [Mastering Fundamental Golang : Building RESTAPI Project](https://dev.to/__00/mastering-fundamental-golang-building-restapi-project-3hbn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
