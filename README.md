@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 8 of 30 Days of Python Projects: Building a Nigerian SME Loan &amp; Repayment Tracker with Dictionaries 🐍](https://dev.to/kinspirecyber/day-8-of-30-days-of-python-projects-building-a-nigerian-sme-loan-repayment-tracker-with-18m2)
-- [Final Round AI vs Parakeet AI: A Real Developer’s Comparison](https://dev.to/finalroundai/final-round-ai-vs-parakeet-ai-a-real-developers-comparison-388)
-- [CVE-2026-0621: Event-Loop Denial of Service in the MCP TypeScript SDK](https://dev.to/om_shree_0709/cve-2026-0621-event-loop-denial-of-service-in-the-mcp-typescript-sdk-1k40)
-- [เพิ่มประสิทธิภาพการทำงาน ด้วย Agile process](https://dev.to/__00/ephimprasiththiphaaphkaarthamngaan-dwy-agile-process-307o)
-- [👗 StyleMatch - Your AI Personal Fashion Stylist](https://dev.to/simranshaikh20_50/stylematch-your-ai-personal-fashion-stylist-247m)
+- [Build an AI-Powered Competitive Intelligence Monitor](https://dev.to/badmonster0/build-an-ai-powered-competitive-intelligence-monitor-740)
+- [Demystifying the Work Breakdown Structure &lpar;WBS&rpar;: A Practical Guide for Technical Projects](https://dev.to/simplewbs/demystifying-the-work-breakdown-structure-wbs-a-practical-guide-for-technical-projects-4m1l)
+- [Zero to Game Dev - What is Game Engine?](https://dev.to/kartik_patel/zero-to-game-dev-what-is-game-engine-27hh)
+- [Search Confluence or Jira with Raycast](https://dev.to/frankie/search-confluence-or-jira-with-raycast-3eep)
+- [9 Browser DevTools Features You&#39;re Probably Ignoring &lpar;and Why They Matter&rpar;](https://dev.to/parth_g/9-browser-devtools-features-youre-probably-ignoring-and-why-they-matter-4g04)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
