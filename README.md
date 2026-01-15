@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Security Chores You Should Offload to Cloud Agents &lpar;Before They Burn You Out&rpar;](https://dev.to/bekahhw/5-security-chores-you-should-offload-to-cloud-agents-before-they-burn-you-out-566j)
+- [Creating my portfolio with Antigravity AI](https://dev.to/raffaeleloi/creating-my-portfolio-with-antigravity-ai-40pe)
 - [AI-Radar.it](https://dev.to/davide_serra_e63526e554df/ai-radarit-1b2b)
 - [Understand AWS IAM Identifiers](https://dev.to/mayurbhatti/understand-aws-iam-identifiers-18ol)
 - [🚀 AI Is Making Junior Developers Useless — Or Is It?](https://dev.to/igbojionu/ai-is-making-junior-developers-useless-or-is-it-27ph)
-- [Integrating TON blockchain into Trust Wallet: a case study](https://dev.to/polyprogrammist/integrating-ton-blockchain-into-trust-wallet-a-case-study-2fch)
-- [&quot;Air Gap&quot; for the Cloud: Why the AWS European Sovereign Cloud Changes Everything](https://dev.to/alifunk/air-gap-for-the-cloud-why-the-aws-european-sovereign-cloud-changes-everything-3gfp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
