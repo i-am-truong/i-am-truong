@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Beginner&#39;s Guide to Downloading Large Files from Google Drive with Python.](https://dev.to/raafe_asad/-a-beginners-guide-to-downloading-large-files-from-google-drive-with-python-4m09)
-- [v2: When GSAP Stopped Being the Problem](https://dev.to/itsugo/v2-when-gsap-stopped-being-the-problem-2emp)
-- [Durable Functions in Lambda](https://dev.to/manumaan/durable-functions-in-lambda-4bna)
-- [Django Security: 10 Essential Steps to Secure Your Project Before Production](https://dev.to/sizan_mahmud0_e7c3fd0cb68/django-security-10-essential-steps-to-secure-your-project-before-production-4lfn)
-- [How I built a Zero-Knowledge Secret Sharer using Next.js and the Web Crypto API](https://dev.to/derick_jdavid_2e9c83287/how-i-built-a-zero-knowledge-secret-sharer-using-nextjs-and-the-web-crypto-api-4mn)
+- [How I Finally Fixed My Serverless + esbuild + Prisma Packaging Nightmare](https://dev.to/htuohz/how-i-finally-fixed-my-serverless-esbuild-prisma-packaging-nightmare-ah0)
+- [SeaTunnel CDC Explained: A Layman’s Guide](https://dev.to/seatunnel/seatunnel-cdc-explained-a-laymans-guide-1m50)
+- [Dokufy: Generate PDFs your way — Gotenberg, LibreOffice, or native PHP.](https://dev.to/nasrulhazim/dokufy-generate-pdfs-your-way-gotenberg-libreoffice-or-native-php-2c58)
+- [9 Best Claude Prompt Templates for Developers &lpar;Token-Saving Daily Pack&rpar;](https://dev.to/theamasoud/9-best-claude-prompt-templates-for-developers-token-saving-daily-pack-4ofh)
+- [Deploying an AWS EKS Cluster Using Terraform: A Step-by-Step Guide](https://dev.to/blacorpheus/deploying-an-aws-eks-cluster-using-terraform-a-step-by-step-guide-3a2h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
