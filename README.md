@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [5 Essential Plugins for WordPress LMS Performance &lpar;+ Bonus&rpar;](https://dev.to/biancarus/5-essential-plugins-for-wordpress-lms-performance-bonus-c2l)
-- [How I Use Claude to Watch My Infrastructure While I Sleep](https://dev.to/boop_one/how-i-use-claude-to-watch-my-infrastructure-while-i-sleep-3fcf)
-- [I built a SQL-to-Google Sheets bridge because existing tools were slow as hell &lpar;No-signup demo&rpar;](https://dev.to/robert_ward_4b72381cf553f/built-a-sql-to-google-sheets-bridge-because-existing-tools-were-slow-as-hell-no-signup-demo-cfh)
-- [Git for Beginners: From “What Is This?” to Your First Commit](https://dev.to/subhrangsu90/git-for-beginners-from-what-is-this-to-your-first-commit-ff8)
-- [How to Use ChatGPT Properly as a Developer](https://dev.to/farhadrahimiklie/how-to-use-chatgpt-properly-as-a-developer-2gel)
+- [Bulk-Migrate GitHub Actions from Node 20 to 24](https://dev.to/lindell/bulk-migrate-github-actions-from-node-20-to-24-3hm5)
+- [Angular Signals + Three.js: How We Hit 60fps Without Going Zoneless](https://dev.to/emmanueln07/angular-signals-threejs-how-we-hit-60fps-without-going-zoneless-23jg)
+- [I Evaluated Enterprise Auth for a SaaS App and Here’s My Honest Take on WorkOS AuthKit + Radar](https://dev.to/andrewbaisden/i-evaluated-enterprise-auth-for-a-saas-app-and-heres-my-honest-take-on-workos-authkit-radar-e22)
+- [Building a digital badge system with the help of Kiro &lpar;and Amazon ECS Express Mode](https://dev.to/aws/building-a-digital-badge-system-with-the-help-of-kiro-and-amazon-ecs-express-mode-2i0o)
+- [Internationalizing Trauma-Informed UX: Testing Across Cultures](https://dev.to/crisiscoresystems/internationalization-of-trauma-testing-across-cultural-contexts-41fe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
