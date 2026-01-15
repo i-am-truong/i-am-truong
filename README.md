@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Rethinking Learning Dynamics in AI Models: An Early Theory from Experimentation](https://dev.to/nebuladata/rethinking-learning-dynamics-in-ai-models-an-early-theory-from-experimentation-4dmp)
-- [How To Solve LeetCode 586](https://dev.to/cmalaga/how-to-solve-leetcode-586-2k8i)
-- [How to Secure Docusaurus for Internal Documentation using Vercel Middleware](https://dev.to/ahikmah/how-to-secure-docusaurus-for-internal-documentation-using-vercel-middleware-5lk)
-- [[AWS] 7. AWS Route 53, DNS &lpar;Domain Name System&rpar;, Routing Policies](https://dev.to/sangwoo_rhie/aws-7-aws-route-53-dns-domain-name-system-routing-policies-lae)
-- [[AWS] 6. AWS Fundamentals: RDS &lpar;Relational Database Service&rpar; + Amazon Aurora + ElastiCache](https://dev.to/sangwoo_rhie/aws-6-aws-fundamentals-rds-relational-database-service-amazon-aurora-elasticache-4bg3)
+- [🚀 Scaling to 93K RPM: Moving Quota Management from SQL to Redis](https://dev.to/lamemaster/scaling-to-93k-rpm-moving-quota-management-from-sql-to-redis-5aj)
+- [Stop Struggling With Data Fetching in React &lpar;React Day 7&rpar;](https://dev.to/vasughanta09/reacts-secret-sauce-fetching-data-without-losing-your-mind-react-day-7-4b8i)
+- [Building NeonAIX: Or How I Accidentally Learned How AI Actually Works](https://dev.to/zerotrustzeroenergy/building-neonaix-or-how-i-accidentally-learned-how-ai-actually-works-3a4m)
+- [Build a Real-Time Social Proof Widget for Your Website](https://dev.to/olams/build-a-real-time-social-proof-widget-for-your-website-2g88)
+- [ArkTS Concurrency Guide 2025 Async Programming with Promises and Await &lpar;Part 1&rpar;](https://dev.to/harmonyos/arkts-concurrency-guide-2025-async-programming-with-promises-and-await-part-1-2olm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
