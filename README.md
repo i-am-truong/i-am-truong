@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 9 of 30 Days of Python – Building a Nigerian Electricity Bill Analyzer⚡](https://dev.to/kinspirecyber/day-9-of-30-days-of-python-building-a-nigerian-electricity-bill-analyzer-467p)
 - [Top Offshore Software Development Companies: Reviews &amp; Rates 3/3 &lpar;Got the opportunity to interview a veteran CTO&rpar;](https://dev.to/maame-codes/top-offshore-software-development-companies-reviews-rates-33-got-the-opportunity-to-interview-9c1)
 - [Building a Neon-Soaked Last.fm Roast Bot for $1.75/Year](https://dev.to/googleai/building-a-neon-soaked-lastfm-roast-bot-for-175year-545m)
 - [Where cloud security policies break down](https://dev.to/ncksecuritydude/where-cloud-security-policies-break-down-2n1n)
 - [Please, Stop Redirecting to Login on 401 Errors 🛑](https://dev.to/aragossa/please-stop-redirecting-to-login-on-401-errors-3c0l)
-- [Engineering Financial Durability Into Your Tech Stack &lpar;Without Killing Developer Joy&rpar;](https://dev.to/sonia_bobrik_1939cdddd79d/engineering-financial-durability-into-your-tech-stack-without-killing-developer-joy-113k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
