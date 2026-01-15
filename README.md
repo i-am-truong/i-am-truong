@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Coding Challenge Practice - Question 103](https://dev.to/tomivan/coding-challenge-practice-question-103-aa4)
-- [The Magic of .sock: Why Modern Infrastructure Relies on Unix Domain Sockets](https://dev.to/kanywst/the-magic-of-sock-why-modern-infrastructure-relies-on-unix-domain-sockets-4ohl)
-- [How Small Pull Requests Improve Team Flow](https://dev.to/kodus/how-small-pull-requests-improve-team-flow-3gml)
-- [Ringer Movies: ‘Avengers: Doomsday’ Teaser Reactions](https://dev.to/popcorn_movies/ringer-movies-avengers-doomsday-teaser-reactions-3341)
-- [Designing an AI-Operable Release Workflow](https://dev.to/synthaicode_commander/designing-an-ai-operable-release-workflow-1ja5)
+- [Web Application Security Is a Design Decision, Not a Patch](https://dev.to/halodigital/web-application-security-is-a-design-decision-not-a-patch-12f0)
+- [Turn Todoist Tasks into Public Google Calendar Events &lpar;with Google Apps Script + Sync Tokens&rpar;](https://dev.to/francostino/turn-todoist-tasks-into-public-google-calendar-events-with-google-apps-script-sync-tokens-512b)
+- [How I Created a PC Bottleneck Calculator and What It Taught Me About Hardware Balance](https://dev.to/all_bl_6159e2c3a3056cc522/how-i-created-a-pc-bottleneck-calculator-and-what-it-taught-me-about-hardware-balance-3ge0)
+- [Running Kiro CLI from a Raspberry Pi 400](https://dev.to/kirodotdev/running-kiro-cli-from-a-raspberry-pi-400-4d2h)
+- [Golazo: The beautiful game in your terminal](https://dev.to/0xjuanma/golazo-the-beautiful-game-in-your-terminal-52na)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
