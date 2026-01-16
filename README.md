@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building an MCP Server for Dynamsoft SDKs: Enabling AI-Assisted Barcode and Document Scanning Development](https://dev.to/yushulx/building-an-mcp-server-for-dynamsoft-sdks-enabling-ai-assisted-barcode-and-document-scanning-198f)
+- [Ethereum-Solidity Quiz Q21: How does function overriding work in Solidity?](https://dev.to/mihaihng/ethereum-solidity-quiz-q21-how-does-function-overriding-work-in-solidity-3h46)
+- [Why I Run Nginx on My OpenWrt Router &lpar;And How You Can Too&rpar;](https://dev.to/tsukiyo/why-i-run-nginx-on-my-openwrt-router-and-how-you-can-too-4h5i)
+- [Common Manual Testing Techniques. Boundary Value Analysis. Decision Table Testing. The Future of Manual Testing in the Age of Al](https://dev.to/sindu_raghul_58b7fa6478d7/common-manual-testing-techniques-boundary-value-analysis-decision-table-testing-the-future-of-55hj)
 - [Introduction to WebAssembly &lpar;Wasm&rpar;](https://dev.to/godofgeeks/introduction-to-webassembly-wasm-4ni3)
-- [Tired of ETL Bottlenecks? Build a Logical Data Warehouse with SPL](https://dev.to/esproc_spl/tired-of-etl-bottlenecks-build-a-logical-data-warehouse-with-spl-52la)
-- [The Test That Broke My &quot;Perfect&quot; Contract](https://dev.to/ribhavmodi/the-test-that-broke-my-perfect-contract-1678)
-- [CSS variables explained for beginners](https://dev.to/developerhint/css-variables-explained-for-beginners-46c1)
-- [Explain The Basic Concepts of Generative AI](https://dev.to/aws-builders/explain-the-basic-concepts-of-generative-ai-1gcb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
