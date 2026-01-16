@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Find Your Real Origin IP Behind Cloudflare, Safely &lpar;and How to Fix Leaks&rpar;](https://dev.to/georgebsys/how-to-find-your-real-origin-ip-behind-cloudflare-safely-and-how-to-fix-leaks-2bg2)
-- [From Burnout to Breakthrough: How Community Saved My Tech Career](https://dev.to/ariyoaresa/from-burnout-to-breakthrough-how-community-saved-my-tech-career-398f)
-- [The Great Decoupling: The Data Sovereignty Correction](https://dev.to/gd-tech-guru/the-great-decoupling-the-data-sovereignty-correction-4m7o)
-- [Solved: Highest value marketing skill in 2026?](https://dev.to/techresolve/solved-highest-value-marketing-skill-in-2026-hp)
-- [&quot;New Year, New You&quot; Portfolio Challenge with Google AI](https://dev.to/shreya_maheshwar_71d11876/new-year-new-you-portfolio-challenge-with-google-ai-3b15)
+- [Building a Luxury Analytics Dashboard with Next.js 16 &amp; Tailwind v4](https://dev.to/fytroy/building-a-luxury-analytics-dashboard-with-nextjs-16-tailwind-v4-155h)
+- [Power Distribution in Multi-Port Adapters: What Actually Happens When You Plug Everything In](https://dev.to/bijalparekh/power-distribution-in-multi-port-adapters-what-actually-happens-when-you-plug-everything-in-7ma)
+- [Agent Skills: How to Make AI Write Modern Angular Code](https://dev.to/hassantayyab/agent-skills-how-to-make-ai-write-modern-angular-code-3h5i)
+- [Learning Databases Beyond SQL: My First Day with Oracle Tables](https://dev.to/mazinocodes/learning-databases-beyond-sql-my-first-day-with-oracle-tables-33ig)
+- [How I Built a Daily Streak Keeper with Python &amp; GitHub Actions](https://dev.to/fytroy/how-i-built-a-daily-streak-keeper-with-python-github-actions-3bge)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
