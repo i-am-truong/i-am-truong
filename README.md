@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Payment Event Logging Is Critical in Worldpay Integrations](https://dev.to/ramapratheeba/why-payment-event-logging-is-critical-in-worldpay-integrations-1b1i)
-- [🚜 Beginner-Friendly Guide &#39;Maximum Square Area by Removing Fences From a Field&#39; – LeetCode 2975 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-maximum-square-area-by-removing-fences-from-a-field-leetcode-2975-14m8)
-- [Switching from Python to Rust: A High-Frequency Trading Case Study.](https://dev.to/frankdotdev/switching-from-python-to-rust-a-high-frequency-trading-case-study-34hc)
-- [How Production Logs Forced Me to Simplify API Error Handling](https://dev.to/rohit_gavali_0c2ad84fe4e0/how-production-logs-forced-me-to-simplify-api-error-handling-388f)
-- [Mastering Advanced Service Tags in Symfony 7.4: Beyond the Basics](https://dev.to/mattleads/mastering-advanced-service-tags-in-symfony-74-beyond-the-basics-5fl8)
+- [Pilot vs. Engineer: How Flying a UAV Changes the Way I Write Code](https://dev.to/asikarastallion/pilot-vs-engineer-how-flying-a-uav-changes-the-way-i-write-code-408g)
+- [I Built the Product. Marketing Is the Part That’s Breaking Me.](https://dev.to/joe_seabrook_0f1e8fc0b720/i-built-the-product-marketing-is-the-part-thats-breaking-me-jol)
+- [ReactJS Hook Pattern ~Use Hook with Context~](https://dev.to/kkr0423/reactjs-hook-pattern-use-hook-with-context-595k)
+- [WTF is Distributed Chaos Engineering?](https://dev.to/dailybugle33/wtf-is-distributed-chaos-engineering-28fh)
+- [From Pixel Smudges to HD: My Battle with Legacy Assets and AI Restoration](https://dev.to/kaushik_pandav_aiml/from-pixel-smudges-to-hd-my-battle-with-legacy-assets-and-ai-restoration-1a2h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
