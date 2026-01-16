@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Best Programming Language for Coding Interviews in 2026 &lpar;Python vs Java vs C++&rpar;](https://dev.to/alex_hunter_44f4c9ed6671e/best-programming-language-for-coding-interviews-in-2026-python-vs-java-vs-c-55ig)
-- [gmk: Stop Typing Git URLs](https://dev.to/kanywst/gmk-stop-typing-git-urls-a7)
-- [T Shaped people](https://dev.to/marux/t-shaped-people-510n)
-- [Puppet with Foreman - Infrastructure](https://dev.to/12ww1160/puppet-with-foreman-infrastructure-45e3)
-- [This Week In React #264 : Next.js | Voltra, 0.84 RC, Hermes, RNSec, Galeria, Nitro | Chrome, Astro](https://dev.to/sebastienlorber/this-week-in-react-264-nextjs-voltra-084-rc-hermes-rnsec-galeria-nitro-chrome-astro-1pfi)
+- [What I Did This Week](https://dev.to/gudong/what-i-did-this-week-5d6h)
+- [How Large Systems Rethink Communication](https://dev.to/indeterminate0/how-large-systems-rethink-communication-lho)
+- [Spud Language: Week 2](https://dev.to/bruhtato/spud-language-week-2-38jb)
+- [Build an F1 Dashboard with Real-Time Collaboration Using v0 and Velt🔥](https://dev.to/astrodevil/build-an-f1-dashboard-with-real-time-collaboration-using-v0-and-velt-1g36)
+- [Solved: Confused between Hostinger, Bluehost and SiteGround for Black Friday — any real experiences?](https://dev.to/techresolve/solved-confused-between-hostinger-bluehost-and-siteground-for-black-friday-any-real-experiences-2745)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
