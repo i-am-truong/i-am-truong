@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Sovereignty fails when it isn’t measurable and what AWS tries to fix with ESC-SRF](https://dev.to/arturschneider/why-sovereignty-fails-when-it-isnt-measurable-and-what-aws-tries-to-fix-with-esc-srf-20km)
+- [Tips for staying motivated during challenging projects](https://dev.to/anna17/tips-for-staying-motivated-during-challenging-projects-56m6)
+- [working on a Enterprise Cloud Platform with AI-Powered Security in AWS any recommendation on which phase of IR would AI integration be most impactful.](https://dev.to/bernymack90/working-on-a-enterprise-cloud-platform-with-ai-powered-security-in-aws-any-recommendation-on-which-53ld)
 - [Managing Python Monorepos with uv Workspaces and AWS Lambda](https://dev.to/nicocrm/managing-python-monorepos-with-uv-workspaces-and-aws-lambda-5a2i)
 - [How to Add an AI Agent to Your React App in 10 Minutes](https://dev.to/chaoming/how-to-add-an-ai-agent-to-your-react-app-in-10-minutes-2p71)
-- [When AI Can Make “Perfect Decisions”: Why Dynamic Contracts Are the Real Safety Layer](https://dev.to/superorange0707/when-ai-can-make-perfect-decisions-why-dynamic-contracts-are-the-real-safety-layer-390)
-- [AI Slop in 2025: The Year the Internet Started Eating Itself](https://dev.to/superorange0707/ai-slop-in-2025-the-year-the-internet-started-eating-itself-4ifa)
-- [Почему будущее ИИ-агентов — децентрализованные сети, а не оркестраторы](https://dev.to/kagvi13/pochiemu-budushchieie-ii-aghientov-dietsientralizovannyie-sieti-a-nie-orkiestratory-19jf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
