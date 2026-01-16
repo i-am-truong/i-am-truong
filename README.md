@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Use IMAP Extension with PHP 8.4 on AWS Lambda using Bref](https://dev.to/cristiancastano852/how-to-use-imap-extension-with-php-84-on-aws-lambda-using-bref-4773)
+- [Why integer objects in python are not iterable](https://dev.to/onaolapo11/why-integer-objects-in-python-are-not-iterable-283d)
+- [Understanding the core architectural components of azure](https://dev.to/lekeks/understanding-the-core-architectural-components-of-azure-551c)
 - [Cloud Computing and DevOps Engineering: Relationship and differences between them](https://dev.to/lekeks/cloud-computing-and-devops-engineering-relationship-and-differences-between-them-47bp)
 - [I Let Claude Code Run Unsupervised for 8 Hours - Here&#39;s What It Built](https://dev.to/intelligenttools_tomic_85/i-let-claude-code-run-unsupervised-for-8-hours-heres-what-it-built-5gp3)
-- [CVE-2026-23745: Tar-pit of Doom: Escaping the Root in node-tar](https://dev.to/cverports/cve-2026-23745-tar-pit-of-doom-escaping-the-root-in-node-tar-h5f)
-- [AI Trading Daily Report: January 16, 2026 | $-2.98](https://dev.to/igorganapolsky/ai-trading-daily-report-january-16-2026-298-196f)
-- [Is Bun Production-Ready in 2026? A Practical Assessment](https://dev.to/last9/is-bun-production-ready-in-2026-a-practical-assessment-181h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
