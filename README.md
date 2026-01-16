@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Metadata-First Pattern: How I Built a Reliable AI Agent for SAP](https://dev.to/santanagabriel/the-metadata-first-pattern-how-i-built-a-reliable-ai-agent-for-sap-1nka)
 - [Building a Luxury Analytics Dashboard with Next.js 16 &amp; Tailwind v4](https://dev.to/fytroy/building-a-luxury-analytics-dashboard-with-nextjs-16-tailwind-v4-155h)
 - [Power Distribution in Multi-Port Adapters: What Actually Happens When You Plug Everything In](https://dev.to/bijalparekh/power-distribution-in-multi-port-adapters-what-actually-happens-when-you-plug-everything-in-7ma)
 - [Agent Skills: How to Make AI Write Modern Angular Code](https://dev.to/hassantayyab/agent-skills-how-to-make-ai-write-modern-angular-code-3h5i)
 - [Learning Databases Beyond SQL: My First Day with Oracle Tables](https://dev.to/mazinocodes/learning-databases-beyond-sql-my-first-day-with-oracle-tables-33ig)
-- [How I Built a Daily Streak Keeper with Python &amp; GitHub Actions](https://dev.to/fytroy/how-i-built-a-daily-streak-keeper-with-python-github-actions-3bge)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
