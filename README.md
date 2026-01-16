@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building A Multi-Account Walkthrough System That Supports MyLanguage and Pine Strategy Language Based on FMZ](https://dev.to/chronosquant/building-a-multi-account-walkthrough-system-that-supports-mylanguage-and-pine-strategy-language-1oo5)
-- [Building an AI Chatbot That Answers Questions Using Private Data &lpar;RAG Overview&rpar;](https://dev.to/zina_nyarko/building-an-ai-chatbot-that-answers-questions-using-private-data-rag-overview-4oae)
-- [Handling Tech Debt while Shipping Features](https://dev.to/eugenioenko/handling-tech-debt-while-delivering-features-1g6k)
-- [Solving Azure Authentication for Crossplane: Three Real-World Scenarios](https://dev.to/piyushjajoo/solving-azure-authentication-for-crossplane-three-real-world-scenarios-30ig)
-- [AWS Credential Chain in Kubernetes Pods: Understanding Precedence](https://dev.to/piyushjajoo/aws-credential-chain-in-kubernetes-pods-understanding-precedence-1cpm)
+- [d-engine: A Lightweight Distributed Coordination Engine for Rust](https://dev.to/joshua_c/d-engine-a-lightweight-distributed-coordination-engine-for-rust-210j)
+- [From Ops to Dev: I spent 3 months learning AI to build a free Image Background Remover](https://dev.to/wo_ytao_734002744cb9586f0/from-ops-to-dev-i-spent-3-months-learning-ai-to-build-a-free-image-background-remover-402c)
+- [Why I Built an AI Assistant Just to Manage My Dev.to Drafts](https://dev.to/mrakdon/why-i-built-an-ai-assistant-just-to-manage-my-devto-drafts-4lm8)
+- [I built a directory for Agent Skills &lpar;5k+ indexed&rpar; using Vibe Coding](https://dev.to/superhuang2/i-built-a-directory-for-agent-skills-5k-indexed-using-vibe-coding-3kn0)
+- [Planning a Transition to Rust After 6+ Years with C#](https://dev.to/birajmainali/planning-a-transition-to-rust-after-6-years-with-c-4ke8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
