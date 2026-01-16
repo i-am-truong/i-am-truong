@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Remote Working and Camping: M4 MacBook Pro Power Usage](https://dev.to/spara_50/remote-working-and-camping-m4-macbook-pro-power-usage-b2e)
 - [How I Built a &quot;Risk-Free&quot; Arbitrage Bot for Polymarket &amp; Kalshi](https://dev.to/realfishsam/how-i-built-a-risk-free-arbitrage-bot-for-polymarket-kalshi-4f)
 - [IAM in the Age of AI: Why Identity Governance Must Evolve Beyond Humans](https://dev.to/sunnysinh_a/iam-in-the-age-of-ai-why-identity-governance-must-evolve-beyond-humans-2hc0)
 - [How We Benchmarked Bifrost against LiteLLM&lpar;And What We Learned About Performance&rpar;](https://dev.to/pranay_batta/how-we-benchmarked-bifrost-against-litellmand-what-we-learned-about-performance-c1o)
 - [We raised $60 Million at $1B Valuation. Next? Self-securing software.](https://dev.to/hovhannes_ghevondyan_c5ad/we-raised-60-million-at-1b-valuation-next-self-securing-software-119j)
-- [We Benchmarked 5 LLM Gateways at 5,000 RPS. Here&#39;s What Broke.](https://dev.to/debmckinney/we-benchmarked-5-llm-gateways-at-5000-rps-heres-what-broke-28f3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
