@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Accelerating AI Innovation with the AWS Cloud Adoption Framework](https://dev.to/aws-builders/accelerating-ai-innovation-with-the-aws-cloud-adoption-framework-28hk)
+- [What Happens When You Give an AI Agent Root Access?](https://dev.to/yaron_torjeman_5288cbab83/what-happens-when-you-give-an-ai-agent-root-access-1nda)
+- [I Built the Chrome Extension I Wish I Had as a CS Student](https://dev.to/varun_kumarkaramchandani/i-built-the-chrome-extension-i-wish-i-had-as-a-cs-student-3kbo)
+- [Why I Spent 6 Months Building Guardrails for AI Agents](https://dev.to/yaron_torjeman_5288cbab83/after-months-of-building-in-my-spare-time-i-just-open-sourced-cordum-a-governance-layer-for-2dkb)
 - [From Journals to Transactions: How SQLite Executes Work Safely](https://dev.to/lovestaco/from-journals-to-transactions-how-sqlite-executes-work-safely-4ihn)
-- [CodeCoach — A new way of practicing codeforces](https://dev.to/thecodster/codecoach-a-new-way-of-practicing-codeforces-4a9)
-- [Why We Made Our Monitoring Stats Public](https://dev.to/boop_one/why-we-made-our-monitoring-stats-public-3beo)
-- [Convergent Evolution Part 3: When Your Memory Architecture Mirrors an Industry Movement](https://dev.to/izzyfuller/convergent-evolution-part-3-when-your-memory-architecture-mirrors-an-industry-movement-28g3)
-- [I Built a TypeScript SDK for John Deere Because Nobody Else Did](https://dev.to/deere-sdk/i-built-a-typescript-sdk-for-john-deere-because-nobody-else-did-2eb6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
