@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Local RAG AI Agent for Airline Reviews with Ollama](https://dev.to/najilouis/building-a-local-rag-ai-agent-for-airline-reviews-with-ollama-2ik5)
-- [SC #4: Sintaxis async/await](https://dev.to/david_goyes_a488f58a17a53/sc-5-sintaxis-asyncawait-mel)
-- [🚀 New AWS Lambda Feature: Cross-Account DynamoDB Streams Access](https://dev.to/brayanarrieta/new-aws-lambda-feature-cross-account-dynamodb-streams-access-7l6)
-- [System Design - EP 13: Content Delivery Networks &lpar;CDNs&rpar;](https://dev.to/hrishikesh_dalal_ced8f95e/system-design-ep-13-content-delivery-networks-cdns-14ke)
-- [SwiftDocX: Pure Swift Library for Word Documents &lpar;.docx&rpar;](https://dev.to/tayarndt/swiftdocx-pure-swift-library-for-word-documents-docx-321n)
+- [Managing Python Monorepos with uv Workspaces and AWS Lambda](https://dev.to/nicocrm/managing-python-monorepos-with-uv-workspaces-and-aws-lambda-5a2i)
+- [How to Add an AI Agent to Your React App in 10 Minutes](https://dev.to/chaoming/how-to-add-an-ai-agent-to-your-react-app-in-10-minutes-2p71)
+- [When AI Can Make “Perfect Decisions”: Why Dynamic Contracts Are the Real Safety Layer](https://dev.to/superorange0707/when-ai-can-make-perfect-decisions-why-dynamic-contracts-are-the-real-safety-layer-390)
+- [AI Slop in 2025: The Year the Internet Started Eating Itself](https://dev.to/superorange0707/ai-slop-in-2025-the-year-the-internet-started-eating-itself-4ifa)
+- [Почему будущее ИИ-агентов — децентрализованные сети, а не оркестраторы](https://dev.to/kagvi13/pochiemu-budushchieie-ii-aghientov-dietsientralizovannyie-sieti-a-nie-orkiestratory-19jf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
