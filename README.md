@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to WebAssembly &lpar;Wasm&rpar;](https://dev.to/godofgeeks/introduction-to-webassembly-wasm-4ni3)
+- [Tired of ETL Bottlenecks? Build a Logical Data Warehouse with SPL](https://dev.to/esproc_spl/tired-of-etl-bottlenecks-build-a-logical-data-warehouse-with-spl-52la)
+- [The Test That Broke My &quot;Perfect&quot; Contract](https://dev.to/ribhavmodi/the-test-that-broke-my-perfect-contract-1678)
+- [CSS variables explained for beginners](https://dev.to/developerhint/css-variables-explained-for-beginners-46c1)
 - [Explain The Basic Concepts of Generative AI](https://dev.to/aws-builders/explain-the-basic-concepts-of-generative-ai-1gcb)
-- [Cloud-Based CAD Tools for Education: Empowering Students and Instructors](https://dev.to/julia970/cloud-based-cad-tools-for-education-empowering-students-and-instructors-n0i)
-- [Building GigFlow: A Real-Time Freelance Marketplace with Secure Hiring Logic](https://dev.to/sufalthakre/building-gigflow-a-real-time-freelance-marketplace-with-secure-hiring-logic-1be7)
-- [An AI-ready culture is not built by buying tools. It’s built by changing habits. Budgets help. But clarity, discipline, and trust help more.](https://dev.to/jaideepparashar/an-ai-ready-culture-is-not-built-by-buying-tools-its-built-by-changing-habits-budgets-help-but-4ioj)
-- [Let&#39;s stop calling it vibe-coding.](https://dev.to/camb/lets-stop-calling-it-vibe-coding-27i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
