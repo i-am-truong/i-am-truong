@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Did you know?](https://dev.to/cloudraptor/did-you-know-9ha)
-- [Implement Enter/Exit Animations with Angular CDK Overlay](https://dev.to/ngmaterialdev/implement-enterexit-animations-with-angular-cdk-overlay-pd3)
-- [Developer? Or Just a Toolor?](https://dev.to/dgseo/developer-or-just-a-toolor-1iom)
-- [New Flyout Menu Blocks Built with Angular CDK Overlay](https://dev.to/ngmaterialdev/new-flyout-menu-blocks-built-with-angular-cdk-overlay-4j18)
-- [Day 8: Yup We Lost.....But We Raise](https://dev.to/sugunadithya/day-8-yup-we-lostbut-we-raise-3505)
+- [V-Order optimization](https://dev.to/sankalp_fabric_data_architect/v-order-optimization-388g)
+- [From Chaos to Clarity: Building a Robust Log Aggregation Pipeline with Kafka &lpar;KRaft&rpar; and ELK](https://dev.to/srikantvs26/from-chaos-to-clarity-building-a-robust-log-aggregation-pipeline-with-kafka-kraft-and-elk-37bb)
+- [Level 0 of my DevOps journey](https://dev.to/alok38/level-0-of-my-devops-journey-1em3)
+- [❌ Stop Using Singleton. You Don’t Need It &lpar;And It’s Quietly Hurting Your Code&rpar;](https://dev.to/tech_rider/stop-using-singleton-you-dont-need-it-and-its-quietly-hurting-your-code-1dck)
+- [The Ultimate Python Roadmap: Learn Step by Step](https://dev.to/devshefali/the-ultimate-python-roadmap-learn-step-by-step-3jg3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
