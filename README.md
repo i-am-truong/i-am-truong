@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Managing Multiple Git Identities: A Seamless Workflow for Personal and Work Accounts](https://dev.to/victorbruce/managing-multiple-git-identities-a-seamless-workflow-for-personal-and-work-accounts-1kce)
+- [Uqda Network vs Regular Internet: A Real-World Comparison 📊](https://dev.to/maherxs/uqda-network-vs-regular-internet-a-real-world-comparison-4b2l)
+- [I Built a Cyberpunk Terminal Portfolio with Next.js, Antigravity and Gemini AI](https://dev.to/inushathathsara/i-built-a-cyberpunk-terminal-portfolio-with-nextjs-antigravity-and-gemini-ai-5457)
 - [An Introduction to &quot;Sign in with Google&quot;, &quot;Google One Tap&quot; and &quot;FedCM&quot;](https://dev.to/mjoycemilburn/an-introduction-to-sign-in-with-google-google-one-tap-and-fedcm-2p8m)
-- [Distributed Inference Observability gaps](https://dev.to/jeff_geiser/distributed-inference-observability-gaps-3pn3)
-- [Secret Entrance](https://dev.to/rmion/secret-entrance-3i9j)
-- [How to Build a Monitoring Application Using Golang](https://dev.to/wol3/how-to-build-a-monitoring-application-using-golang-4k4o)
-- [Post-Agile Development: Why Smart Teams Are Looking Backward to Move Forward](https://dev.to/ghostinit0x/post-agile-development-why-smart-teams-are-looking-backward-to-move-forward-2o5m)
+- [dodo: A fast, keyboard-friendly and configurable PDF reader built on MuPDF and Qt](https://dev.to/dheeraj_shenoy_716e3db3cd/dodo-a-fast-keyboard-friendly-and-configurable-pdf-reader-built-on-mupdf-and-qt-181c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
