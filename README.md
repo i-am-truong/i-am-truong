@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [YAML to JSON in CI Pipelines: Why It Breaks More Often Than You Expect](https://dev.to/jsonviewertool/yaml-to-json-in-ci-pipelines-why-it-breaks-more-often-than-you-expect-3in2)
-- [Docker &amp; Containers Explained: A Beginner-Friendly Guide to How Docker Works](https://dev.to/nikhilmhatre4757/docker-containers-explained-a-beginner-friendly-guide-to-how-docker-works-5041)
-- [Git Made Simple](https://dev.to/makwaka/git-made-simple-548a)
-- [Learning Backend #1](https://dev.to/gruprttt/learning-backend-1-2lbf)
-- [🧮 Modular arithmetic: Checking Huge Numbers for Divisibility](https://dev.to/ratulalmamun/modular-arithmetic-checking-huge-numbers-for-divisibility-2cil)
+- [How AWS Cloud Clubs Are Helping Students Build Real Projects ☁️💻](https://dev.to/tendai_jack_620ed40df8265/how-aws-cloud-clubs-are-helping-students-build-real-projects-lhp)
+- [AI - The Challenge of Testing Systems That Learn](https://dev.to/ben-santora/ai-the-challenge-of-testing-systems-that-learn-53n2)
+- [Building a Production-Grade Scraper with Playwright, Chromium, Kubernetes, and AWS](https://dev.to/nirberko/building-a-production-grade-scraper-with-playwright-chromium-kubernetes-and-aws-lo9)
+- [use-thunk: A New Global State Management Lib as &lpar;much&rpar; Simplified Redux](https://dev.to/chhsiao1981/use-thunk-a-new-global-state-management-lib-as-much-simplified-redux-5bnh)
+- [Publishing Pipeline - Refactoring](https://dev.to/12ww1160/publishing-pipeline-refactoring-dl6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
