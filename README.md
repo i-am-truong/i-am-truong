@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Exploring Google&#39;s Agentic Interoperability Stack: A Practical Guide](https://dev.to/vikas_sahani_3a7e2706846c/exploring-googles-agentic-interoperability-stack-a-practical-guide-367h)
+- [Dicionário do DevOps - Ep. 1](https://dev.to/jhonathanlobato/dicionario-do-devops-ep-1-cjj)
+- [Getting Started with 2D Games Using Pyxel &lpar;Part 13&rpar;: Creating a Scrolling Star Background](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-pyxel-part-13-creating-a-scrolling-star-background-516b)
+- [Building Production-Ready Nmap Integrations: A Complete Guide to nmap-exec-api](https://dev.to/hejhdiss/building-production-ready-nmap-integrations-a-complete-guide-to-nmap-exec-api-48cn)
 - [What I Did This Week](https://dev.to/gudong/what-i-did-this-week-5d6h)
-- [How Large Systems Rethink Communication](https://dev.to/indeterminate0/how-large-systems-rethink-communication-lho)
-- [Spud Language: Week 2](https://dev.to/bruhtato/spud-language-week-2-38jb)
-- [Build an F1 Dashboard with Real-Time Collaboration Using v0 and Velt🔥](https://dev.to/astrodevil/build-an-f1-dashboard-with-real-time-collaboration-using-v0-and-velt-1g36)
-- [Solved: Confused between Hostinger, Bluehost and SiteGround for Black Friday — any real experiences?](https://dev.to/techresolve/solved-confused-between-hostinger-bluehost-and-siteground-for-black-friday-any-real-experiences-2745)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
