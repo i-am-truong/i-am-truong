@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Local RAG AI Agent for Airline Reviews with Ollama](https://dev.to/najilouis/building-a-local-rag-ai-agent-for-airline-reviews-with-ollama-2ik5)
 - [SC #4: Sintaxis async/await](https://dev.to/david_goyes_a488f58a17a53/sc-5-sintaxis-asyncawait-mel)
 - [🚀 New AWS Lambda Feature: Cross-Account DynamoDB Streams Access](https://dev.to/brayanarrieta/new-aws-lambda-feature-cross-account-dynamodb-streams-access-7l6)
 - [System Design - EP 13: Content Delivery Networks &lpar;CDNs&rpar;](https://dev.to/hrishikesh_dalal_ced8f95e/system-design-ep-13-content-delivery-networks-cdns-14ke)
 - [SwiftDocX: Pure Swift Library for Word Documents &lpar;.docx&rpar;](https://dev.to/tayarndt/swiftdocx-pure-swift-library-for-word-documents-docx-321n)
-- [FreeLens vs OpenLens vs Lens: Choosing the Right Kubernetes IDE](https://dev.to/alexandrev/freelens-vs-openlens-vs-lens-choosing-the-right-kubernetes-ide-lc8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
