@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Sovereignty fails when it isn’t measurable and what AWS tries to fix with ESC-SRF](https://dev.to/arturschneider/why-sovereignty-fails-when-it-isnt-measurable-and-what-aws-tries-to-fix-with-esc-srf-20km)
-- [Tips for staying motivated during challenging projects](https://dev.to/anna17/tips-for-staying-motivated-during-challenging-projects-56m6)
-- [working on a Enterprise Cloud Platform with AI-Powered Security in AWS any recommendation on which phase of IR would AI integration be most impactful.](https://dev.to/bernymack90/working-on-a-enterprise-cloud-platform-with-ai-powered-security-in-aws-any-recommendation-on-which-53ld)
-- [Managing Python Monorepos with uv Workspaces and AWS Lambda](https://dev.to/nicocrm/managing-python-monorepos-with-uv-workspaces-and-aws-lambda-5a2i)
-- [How to Add an AI Agent to Your React App in 10 Minutes](https://dev.to/chaoming/how-to-add-an-ai-agent-to-your-react-app-in-10-minutes-2p71)
+- [Is this code deterministic?](https://dev.to/aws/is-this-code-deterministic-29l9)
+- [How many addresses fit into a Cell?](https://dev.to/a08778/how-many-addresses-fit-into-a-cell-2fga)
+- [Claude Code: সম্পূর্ণ বাংলা গাইড](https://dev.to/ashadulmridha/claude-code-smpuurnn-baanlaa-gaaidd-2b8m)
+- [Sharing my hands-on Enterprise Cloud Platform project](https://dev.to/bernymack90/sharing-my-hands-on-enterprise-cloud-platform-project-45i1)
+- [Flutter Firebase Tutorial 2026: Complete Auth + Firestore Integration &lpar;Simple Notes App&rpar; 🔥](https://dev.to/techwithsam/flutter-firebase-tutorial-2026-complete-auth-firestore-integration-simple-notes-app-1ane)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
