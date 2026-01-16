@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Accelerating AI Innovation with the AWS Cloud Adoption Framework](https://dev.to/aws-builders/accelerating-ai-innovation-with-the-aws-cloud-adoption-framework-28hk)
-- [What Happens When You Give an AI Agent Root Access?](https://dev.to/yaron_torjeman_5288cbab83/what-happens-when-you-give-an-ai-agent-root-access-1nda)
-- [I Built the Chrome Extension I Wish I Had as a CS Student](https://dev.to/varun_kumarkaramchandani/i-built-the-chrome-extension-i-wish-i-had-as-a-cs-student-3kbo)
-- [Why I Spent 6 Months Building Guardrails for AI Agents](https://dev.to/yaron_torjeman_5288cbab83/after-months-of-building-in-my-spare-time-i-just-open-sourced-cordum-a-governance-layer-for-2dkb)
-- [From Journals to Transactions: How SQLite Executes Work Safely](https://dev.to/lovestaco/from-journals-to-transactions-how-sqlite-executes-work-safely-4ihn)
+- [Security news weekly round-up - 16th January 2026](https://dev.to/ziizium/security-news-weekly-round-up-16th-january-2026-1n8l)
+- [Day 13: The 12-Day Gap and Coming Back](https://dev.to/casperday11/day-13-the-12-day-gap-and-coming-back-13pi)
+- [Our Godot Game Only Crashed on Expensive PCs &lpar;Here&#39;s Why&rpar;](https://dev.to/david_dev_sec/our-godot-game-only-crashed-on-expensive-pcs-heres-why-40jl)
+- [Real-world Challenges of Team Development with Oracle APEX, SQLcl, and Liquibase: A Starting Point for Discussion](https://dev.to/gino_suarez_58c991193a60c/real-world-challenges-of-team-development-with-oracle-apex-sqlcl-and-liquibase-a-starting-point-5e63)
+- [I Built a Conflict-Resilient JSON Editor to Solve Collaborative Nightmares, and here is the Tech Stack](https://dev.to/emily_chen_80108/i-built-a-conflict-resilient-json-editor-to-solve-collaborative-nightmares-and-here-is-the-1ai3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
