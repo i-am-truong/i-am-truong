@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The most revolutionary techs transforming the Car Rental business in 2026](https://dev.to/luisyanguas/the-most-revolutionary-techs-transforming-the-car-rental-business-in-2026-39ld)
+- [How to create OTP flow system on Node.js &lpar;step-by- step&rpar;](https://dev.to/jahongir2007/how-to-create-otp-flow-system-on-nodejs-step-by-step-mcg)
+- [AI in Corporate, Navigating a Sea of Hot Air](https://dev.to/joacod/ai-in-corporate-navigating-a-sea-of-hot-air-2h91)
+- [Linus Torvalds is &quot;Vibe Coding&quot;.](https://dev.to/jules_thomas_7c01baf14a40/linus-torvalds-is-vibe-coding-2p4k)
 - [Comms Under Fire - Update 01](https://dev.to/shaq_attack/comms-under-fire-update-01-n8b)
 - [What I Learned from Steve Yegge&#39;s Gas Town — And a Small Tool for Solo Developers](https://dev.to/kiwibreaksme/what-i-learned-from-steve-yegges-gas-town-and-a-small-tool-for-solo-developers-2me2)
-- [Steve Yegge의 Gas Town을 보고 배운 것들 — 그리고 개인 개발자를 위한 작은 도구](https://dev.to/kiwibreaksme/steve-yeggeyi-gas-towneul-bogo-baeun-geosdeul-geurigo-gaein-gaebaljareul-wihan-jageun-dogu-196d)
-- [Secure file upload validation in .NET: A layered approach](https://dev.to/detilium/secure-file-upload-validation-in-net-a-layered-approach-3j17)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
