@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Pilot vs. Engineer: How Flying a UAV Changes the Way I Write Code](https://dev.to/asikarastallion/pilot-vs-engineer-how-flying-a-uav-changes-the-way-i-write-code-408g)
-- [I Built the Product. Marketing Is the Part That’s Breaking Me.](https://dev.to/joe_seabrook_0f1e8fc0b720/i-built-the-product-marketing-is-the-part-thats-breaking-me-jol)
-- [ReactJS Hook Pattern ~Use Hook with Context~](https://dev.to/kkr0423/reactjs-hook-pattern-use-hook-with-context-595k)
-- [WTF is Distributed Chaos Engineering?](https://dev.to/dailybugle33/wtf-is-distributed-chaos-engineering-28fh)
-- [From Pixel Smudges to HD: My Battle with Legacy Assets and AI Restoration](https://dev.to/kaushik_pandav_aiml/from-pixel-smudges-to-hd-my-battle-with-legacy-assets-and-ai-restoration-1a2h)
+- [How to Keep AI-Generated Code Modular](https://dev.to/frenchsalmon/keep-modular-code-alive-1bfa)
+- [An erratic Xfce4 Black Screen &lpar;WIP&rpar;](https://dev.to/ingosteinke/an-erratic-xfce4-black-screen-wip-2do3)
+- [Day 1: Regression — The Art of Prediction](https://dev.to/brains_behind_bots/day-1-regression-the-art-of-prediction-26aa)
+- [Understanding Git and GitHub: Pushing, Pulling, and Tracking Code &lpar;Beginner-Friendly Guide&rpar;](https://dev.to/k1int/understanding-git-and-github-pushing-pulling-and-tracking-code-beginner-friendly-guide-1bkm)
+- [Version Control System &amp; Git](https://dev.to/sbkumbar024/version-control-system-git-1iof)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
