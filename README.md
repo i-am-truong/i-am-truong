@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Built a Currency Converter Extension in 2026](https://dev.to/chisomo9/how-i-built-a-currency-converter-extension-in-2026-40ko)
+- [10 Python Concepts That Finally “Clicked”](https://dev.to/naved_shaikh/10-python-concepts-that-finally-clicked-fgo)
 - [Building an MCP Server for Dynamsoft SDKs: Enabling AI-Assisted Barcode and Document Scanning Development](https://dev.to/yushulx/building-an-mcp-server-for-dynamsoft-sdks-enabling-ai-assisted-barcode-and-document-scanning-198f)
 - [Ethereum-Solidity Quiz Q21: How does function overriding work in Solidity?](https://dev.to/mihaihng/ethereum-solidity-quiz-q21-how-does-function-overriding-work-in-solidity-3h46)
 - [Why I Run Nginx on My OpenWrt Router &lpar;And How You Can Too&rpar;](https://dev.to/tsukiyo/why-i-run-nginx-on-my-openwrt-router-and-how-you-can-too-4h5i)
-- [Common Manual Testing Techniques. Boundary Value Analysis. Decision Table Testing. The Future of Manual Testing in the Age of Al](https://dev.to/sindu_raghul_58b7fa6478d7/common-manual-testing-techniques-boundary-value-analysis-decision-table-testing-the-future-of-55hj)
-- [Introduction to WebAssembly &lpar;Wasm&rpar;](https://dev.to/godofgeeks/introduction-to-webassembly-wasm-4ni3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
