@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Post-Agile Development: Why Smart Teams Are Looking Backward to Move Forward](https://dev.to/ghostinit0x/post-agile-development-why-smart-teams-are-looking-backward-to-move-forward-2o5m)
 - [The 5 Levels of Humanoid Autonomy](https://dev.to/ankk98/the-5-levels-of-humanoid-autonomy-1n54)
 - [Configure Local LLM with OpenCode](https://dev.to/tobrun_vannuland_70632c7/configure-local-llm-with-opencode-1gdb)
 - [Self-hosting Flowise on a Hetzner Ubuntu Server](https://dev.to/yulei-chen/self-hosting-flowise-on-a-hetzner-ubuntu-server-4hg2)
 - [Web Interface Guidelines Checklist for LLMs &amp; vibe coders!](https://dev.to/sivarampg/web-interface-guidelines-checklist-for-llms-vibe-coders-19j9)
-- [A Beginner’s Guide: Mastering Git, GitHub, and Basic Workflows](https://dev.to/mburu_champ/a-beginners-guide-mastering-git-github-and-basic-workflows-2ccl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
