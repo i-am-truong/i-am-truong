@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Built a TypeScript SDK for John Deere Because Nobody Else Did](https://dev.to/deere-sdk/i-built-a-typescript-sdk-for-john-deere-because-nobody-else-did-2eb6)
+- [Implementing a JSON Schema Validator from Scratch - Week 0](https://dev.to/ahmedhanygamal/implementing-a-json-schema-validator-from-scratch-week-0-2ee0)
 - [Managing Multiple Git Identities: A Seamless Workflow for Personal and Work Accounts](https://dev.to/victorbruce/managing-multiple-git-identities-a-seamless-workflow-for-personal-and-work-accounts-1kce)
 - [Uqda Network vs Regular Internet: A Real-World Comparison 📊](https://dev.to/maherxs/uqda-network-vs-regular-internet-a-real-world-comparison-4b2l)
 - [I Built a Cyberpunk Terminal Portfolio with Next.js, Antigravity and Gemini AI](https://dev.to/inushathathsara/i-built-a-cyberpunk-terminal-portfolio-with-nextjs-antigravity-and-gemini-ai-5457)
-- [An Introduction to &quot;Sign in with Google&quot;, &quot;Google One Tap&quot; and &quot;FedCM&quot;](https://dev.to/mjoycemilburn/an-introduction-to-sign-in-with-google-google-one-tap-and-fedcm-2p8m)
-- [dodo: A fast, keyboard-friendly and configurable PDF reader built on MuPDF and Qt](https://dev.to/dheeraj_shenoy_716e3db3cd/dodo-a-fast-keyboard-friendly-and-configurable-pdf-reader-built-on-mupdf-and-qt-181c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
