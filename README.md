@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Guia otimização de logs em Java](https://dev.to/edivan/guia-otimizacao-de-logs-em-java-3k5c)
+- [A Beginner’s Guide to Git Bash, GitHub, and Version Control](https://dev.to/caroline_sikoliaaa/a-beginners-guide-to-git-bash-github-and-version-control-388b)
+- [JSer.info 15th Anniversary: Looking Back at 15 Years of JavaScript](https://dev.to/azu/jserinfo-15th-anniversary-looking-back-at-15-years-of-javascript-4fhe)
+- [The End of AI Monogamy: Let AI Find the Best Model for Your Task](https://dev.to/theairabbit/the-end-of-ai-monogamy-let-ai-find-the-best-model-for-your-task-23p7)
 - [How AWS Cloud Clubs Are Helping Students Build Real Projects ☁️💻](https://dev.to/tendai_jack_620ed40df8265/how-aws-cloud-clubs-are-helping-students-build-real-projects-lhp)
-- [AI - The Challenge of Testing Systems That Learn](https://dev.to/ben-santora/ai-the-challenge-of-testing-systems-that-learn-53n2)
-- [Building a Production-Grade Scraper with Playwright, Chromium, Kubernetes, and AWS](https://dev.to/nirberko/building-a-production-grade-scraper-with-playwright-chromium-kubernetes-and-aws-lo9)
-- [use-thunk: A New Global State Management Lib as &lpar;much&rpar; Simplified Redux](https://dev.to/chhsiao1981/use-thunk-a-new-global-state-management-lib-as-much-simplified-redux-5bnh)
-- [Publishing Pipeline - Refactoring](https://dev.to/12ww1160/publishing-pipeline-refactoring-dl6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
