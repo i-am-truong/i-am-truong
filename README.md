@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Old React Code: What Building “Classy Weather” Taught Me](https://dev.to/usama_dev/understanding-old-react-code-what-building-classy-weather-taught-me-5662)
+- [When &#39;Better&#39; AI Imputation Quietly Destroys Your Data](https://dev.to/aiwithapex/when-better-ai-imputation-quietly-destroys-your-data-4bln)
+- [Gommitlint - a tool for keeping your commit quality](https://dev.to/janderssonse/gommitlint-a-tool-for-keeping-your-commit-quality-3gd0)
+- [Você está gastando mais RAM do que pediu: Lições de baixo nível para React Native](https://dev.to/mensonones/voce-esta-gastando-mais-ram-do-que-pediu-licoes-de-baixo-nivel-para-react-native-21g)
 - [Guia otimização de logs em Java](https://dev.to/edivan/guia-otimizacao-de-logs-em-java-3k5c)
-- [A Beginner’s Guide to Git Bash, GitHub, and Version Control](https://dev.to/caroline_sikoliaaa/a-beginners-guide-to-git-bash-github-and-version-control-388b)
-- [JSer.info 15th Anniversary: Looking Back at 15 Years of JavaScript](https://dev.to/azu/jserinfo-15th-anniversary-looking-back-at-15-years-of-javascript-4fhe)
-- [The End of AI Monogamy: Let AI Find the Best Model for Your Task](https://dev.to/theairabbit/the-end-of-ai-monogamy-let-ai-find-the-best-model-for-your-task-23p7)
-- [How AWS Cloud Clubs Are Helping Students Build Real Projects ☁️💻](https://dev.to/tendai_jack_620ed40df8265/how-aws-cloud-clubs-are-helping-students-build-real-projects-lhp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
