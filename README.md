@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [d-engine: A Lightweight Distributed Coordination Engine for Rust](https://dev.to/joshua_c/d-engine-a-lightweight-distributed-coordination-engine-for-rust-210j)
-- [From Ops to Dev: I spent 3 months learning AI to build a free Image Background Remover](https://dev.to/wo_ytao_734002744cb9586f0/from-ops-to-dev-i-spent-3-months-learning-ai-to-build-a-free-image-background-remover-402c)
-- [Why I Built an AI Assistant Just to Manage My Dev.to Drafts](https://dev.to/mrakdon/why-i-built-an-ai-assistant-just-to-manage-my-devto-drafts-4lm8)
-- [I built a directory for Agent Skills &lpar;5k+ indexed&rpar; using Vibe Coding](https://dev.to/superhuang2/i-built-a-directory-for-agent-skills-5k-indexed-using-vibe-coding-3kn0)
-- [Planning a Transition to Rust After 6+ Years with C#](https://dev.to/birajmainali/planning-a-transition-to-rust-after-6-years-with-c-4ke8)
+- [Vector Embeddings &lpar;with OpenAI and Supabase&rpar; - Part 3](https://dev.to/shlokaguptaa/vector-embeddings-with-openai-and-supabase-part-3-1171)
+- [From Figma to Production Code in Minutes: A Professional Engineer&#39;s Guide to Visual Copilot](https://dev.to/xit_vali_8353fbdb3474555c/from-figma-to-production-code-in-minutes-a-professional-engineers-guide-to-visual-copilot-5bh1)
+- [How I Built LaunchTrack: An AI Career Coach with Next.js and Gemini API](https://dev.to/vipinyadav01/how-i-built-launchtrack-an-ai-career-coach-with-nextjs-and-gemini-api-354)
+- [Code-ing in a Tree: Adding Auto-Save to freeCodeCamp](https://dev.to/sagi0312/code-ing-in-a-tree-adding-auto-save-to-freecodecamp-137b)
+- [Projects Built by Krishna Mohan Kumar | Full Stack Developer](https://dev.to/krishna-mohan-kumar/projects-built-by-krishna-mohan-kumar-full-stack-developer-3ec6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
