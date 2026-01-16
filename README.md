@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CVE-2026-23745: Tar-pit of Doom: Escaping the Root in node-tar](https://dev.to/cverports/cve-2026-23745-tar-pit-of-doom-escaping-the-root-in-node-tar-h5f)
+- [AI Trading Daily Report: January 16, 2026 | $-2.98](https://dev.to/igorganapolsky/ai-trading-daily-report-january-16-2026-298-196f)
+- [Gemini 2.5 Native Audio + LiveKit: A Production Setup Guide](https://dev.to/behruamm/gemini-25-native-audio-livekit-a-production-setup-guide-2nin)
 - [🏆 Hackathon Synergy Agent](https://dev.to/samarth28/hackathon-synergy-agent-4cco)
 - [SwiftUI #28: SecureField](https://dev.to/david_goyes_a488f58a17a53/swiftui-28-securefield-ec8)
-- [Discovering Connections: How Claude Code Analyzed 100 Books](https://dev.to/dd8888/discovering-connections-how-claude-code-analyzed-100-books-41li)
-- [I procrastinated on My Portfolio for years. AI Built It in 2 Hours.](https://dev.to/sakshay_arora/i-procrastinated-on-my-portfolio-for-years-ai-built-it-in-2-hours-1hnh)
-- [The Great Decoupling: The Enterprise Capability Graph](https://dev.to/gd-tech-guru/the-great-decoupling-the-enterprise-capability-graph-ajp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
