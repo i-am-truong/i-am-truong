@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Vector Embeddings &lpar;with OpenAI and Supabase&rpar; - Part 3](https://dev.to/shlokaguptaa/vector-embeddings-with-openai-and-supabase-part-3-1171)
+- [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-3k8n)
+- [Open Source Licensing: What Mid-Level Developers Must Know to Avoid Legal Trouble](https://dev.to/piotr-get-talent/open-source-licensing-what-mid-level-developers-must-know-to-avoid-legal-trouble-1pn7)
+- [Why hiding IDs wasn’t enough for secure share links](https://dev.to/siddhesh_shirdhankar_902f/why-hiding-ids-wasnt-enough-for-secure-share-links-5egj)
+- [Vector Embeddings &lpar;with OpenAI and Supabase&rpar; - Part 3 &lpar;storing &amp; searching&rpar;](https://dev.to/shlokaguptaa/vector-embeddings-with-openai-and-supabase-part-3-1171)
 - [From Figma to Production Code in Minutes: A Professional Engineer&#39;s Guide to Visual Copilot](https://dev.to/xit_vali_8353fbdb3474555c/from-figma-to-production-code-in-minutes-a-professional-engineers-guide-to-visual-copilot-5bh1)
-- [How I Built LaunchTrack: An AI Career Coach with Next.js and Gemini API](https://dev.to/vipinyadav01/how-i-built-launchtrack-an-ai-career-coach-with-nextjs-and-gemini-api-354)
-- [Code-ing in a Tree: Adding Auto-Save to freeCodeCamp](https://dev.to/sagi0312/code-ing-in-a-tree-adding-auto-save-to-freecodecamp-137b)
-- [Projects Built by Krishna Mohan Kumar | Full Stack Developer](https://dev.to/krishna-mohan-kumar/projects-built-by-krishna-mohan-kumar-full-stack-developer-3ec6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
