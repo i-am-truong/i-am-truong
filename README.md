@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Incident Memory System Building a Self-Learning, Self-Healing AWS Operations Engine](https://dev.to/shree_abhijeet/incident-memory-system-building-a-self-learning-self-healing-aws-operations-engine-4b44)
 - [Understanding Old React Code: What Building “Classy Weather” Taught Me](https://dev.to/usama_dev/understanding-old-react-code-what-building-classy-weather-taught-me-5662)
 - [When &#39;Better&#39; AI Imputation Quietly Destroys Your Data](https://dev.to/aiwithapex/when-better-ai-imputation-quietly-destroys-your-data-4bln)
 - [Gommitlint - a tool for keeping your commit quality](https://dev.to/janderssonse/gommitlint-a-tool-for-keeping-your-commit-quality-3gd0)
 - [Você está gastando mais RAM do que pediu: Lições de baixo nível para React Native](https://dev.to/mensonones/voce-esta-gastando-mais-ram-do-que-pediu-licoes-de-baixo-nivel-para-react-native-21g)
-- [Guia otimização de logs em Java](https://dev.to/edivan/guia-otimizacao-de-logs-em-java-3k5c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
