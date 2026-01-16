@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Did you know?](https://dev.to/cloudraptor/did-you-know-9ha)
+- [Implement Enter/Exit Animations with Angular CDK Overlay](https://dev.to/ngmaterialdev/implement-enterexit-animations-with-angular-cdk-overlay-pd3)
 - [Developer? Or Just a Toolor?](https://dev.to/dgseo/developer-or-just-a-toolor-1iom)
 - [New Flyout Menu Blocks Built with Angular CDK Overlay](https://dev.to/ngmaterialdev/new-flyout-menu-blocks-built-with-angular-cdk-overlay-4j18)
 - [Day 8: Yup We Lost.....But We Raise](https://dev.to/sugunadithya/day-8-yup-we-lostbut-we-raise-3505)
-- [If You Feel Stuck in Programming, Read This](https://dev.to/hadil/if-you-feel-stuck-in-programming-read-this-403j)
-- [Metasploit Deep Dive: Staged vs. Stageless Payloads — A Practical Lab](https://dev.to/vibhav_chennamadhava_a887/metasploit-deep-dive-staged-vs-stageless-payloads-a-practical-lab-1pa7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
