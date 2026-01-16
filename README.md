@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Use IMAP Extension with PHP 8.4 on AWS Lambda using Bref](https://dev.to/cristiancastano852/how-to-use-imap-extension-with-php-84-on-aws-lambda-using-bref-4773)
-- [Why integer objects in python are not iterable](https://dev.to/onaolapo11/why-integer-objects-in-python-are-not-iterable-283d)
-- [Understanding the core architectural components of azure](https://dev.to/lekeks/understanding-the-core-architectural-components-of-azure-551c)
-- [Cloud Computing and DevOps Engineering: Relationship and differences between them](https://dev.to/lekeks/cloud-computing-and-devops-engineering-relationship-and-differences-between-them-47bp)
-- [I Let Claude Code Run Unsupervised for 8 Hours - Here&#39;s What It Built](https://dev.to/intelligenttools_tomic_85/i-let-claude-code-run-unsupervised-for-8-hours-heres-what-it-built-5gp3)
+- [How to Find Your Real Origin IP Behind Cloudflare, Safely &lpar;and How to Fix Leaks&rpar;](https://dev.to/georgebsys/how-to-find-your-real-origin-ip-behind-cloudflare-safely-and-how-to-fix-leaks-2bg2)
+- [From Burnout to Breakthrough: How Community Saved My Tech Career](https://dev.to/ariyoaresa/from-burnout-to-breakthrough-how-community-saved-my-tech-career-398f)
+- [The Great Decoupling: The Data Sovereignty Correction](https://dev.to/gd-tech-guru/the-great-decoupling-the-data-sovereignty-correction-4m7o)
+- [Solved: Highest value marketing skill in 2026?](https://dev.to/techresolve/solved-highest-value-marketing-skill-in-2026-hp)
+- [&quot;New Year, New You&quot; Portfolio Challenge with Google AI](https://dev.to/shreya_maheshwar_71d11876/new-year-new-you-portfolio-challenge-with-google-ai-3b15)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
