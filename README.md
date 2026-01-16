@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From Journals to Transactions: How SQLite Executes Work Safely](https://dev.to/lovestaco/from-journals-to-transactions-how-sqlite-executes-work-safely-4ihn)
+- [CodeCoach — A new way of practicing codeforces](https://dev.to/thecodster/codecoach-a-new-way-of-practicing-codeforces-4a9)
+- [Why We Made Our Monitoring Stats Public](https://dev.to/boop_one/why-we-made-our-monitoring-stats-public-3beo)
+- [Convergent Evolution Part 3: When Your Memory Architecture Mirrors an Industry Movement](https://dev.to/izzyfuller/convergent-evolution-part-3-when-your-memory-architecture-mirrors-an-industry-movement-28g3)
 - [I Built a TypeScript SDK for John Deere Because Nobody Else Did](https://dev.to/deere-sdk/i-built-a-typescript-sdk-for-john-deere-because-nobody-else-did-2eb6)
-- [Implementing a JSON Schema Validator from Scratch - Week 0](https://dev.to/ahmedhanygamal/implementing-a-json-schema-validator-from-scratch-week-0-2ee0)
-- [Managing Multiple Git Identities: A Seamless Workflow for Personal and Work Accounts](https://dev.to/victorbruce/managing-multiple-git-identities-a-seamless-workflow-for-personal-and-work-accounts-1kce)
-- [Uqda Network vs Regular Internet: A Real-World Comparison 📊](https://dev.to/maherxs/uqda-network-vs-regular-internet-a-real-world-comparison-4b2l)
-- [I Built a Cyberpunk Terminal Portfolio with Next.js, Antigravity and Gemini AI](https://dev.to/inushathathsara/i-built-a-cyberpunk-terminal-portfolio-with-nextjs-antigravity-and-gemini-ai-5457)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
