@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to create OTP flow system on Node.js &lpar;step-by- step&rpar;](https://dev.to/jahongir2007/how-to-create-otp-flow-system-on-nodejs-step-by-step-mcg)
-- [AI in Corporate, Navigating a Sea of Hot Air](https://dev.to/joacod/ai-in-corporate-navigating-a-sea-of-hot-air-2h91)
-- [Linus Torvalds is &quot;Vibe Coding&quot;.](https://dev.to/jules_thomas_7c01baf14a40/linus-torvalds-is-vibe-coding-2p4k)
-- [Comms Under Fire - Update 01](https://dev.to/shaq_attack/comms-under-fire-update-01-n8b)
-- [What I Learned from Steve Yegge&#39;s Gas Town — And a Small Tool for Solo Developers](https://dev.to/kiwibreaksme/what-i-learned-from-steve-yegges-gas-town-and-a-small-tool-for-solo-developers-2me2)
+- [Best Programming Language for Coding Interviews in 2026 &lpar;Python vs Java vs C++&rpar;](https://dev.to/alex_hunter_44f4c9ed6671e/best-programming-language-for-coding-interviews-in-2026-python-vs-java-vs-c-55ig)
+- [gmk: Stop Typing Git URLs](https://dev.to/kanywst/gmk-stop-typing-git-urls-a7)
+- [T Shaped people](https://dev.to/marux/t-shaped-people-510n)
+- [Puppet with Foreman - Infrastructure](https://dev.to/12ww1160/puppet-with-foreman-infrastructure-45e3)
+- [This Week In React #264 : Next.js | Voltra, 0.84 RC, Hermes, RNSec, Galeria, Nitro | Chrome, Astro](https://dev.to/sebastienlorber/this-week-in-react-264-nextjs-voltra-084-rc-hermes-rnsec-galeria-nitro-chrome-astro-1pfi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
