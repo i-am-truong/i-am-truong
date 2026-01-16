@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Incident Memory System Building a Self-Learning, Self-Healing AWS Operations Engine](https://dev.to/shree_abhijeet/incident-memory-system-building-a-self-learning-self-healing-aws-operations-engine-4b44)
-- [Understanding Old React Code: What Building “Classy Weather” Taught Me](https://dev.to/usama_dev/understanding-old-react-code-what-building-classy-weather-taught-me-5662)
-- [When &#39;Better&#39; AI Imputation Quietly Destroys Your Data](https://dev.to/aiwithapex/when-better-ai-imputation-quietly-destroys-your-data-4bln)
-- [Gommitlint - a tool for keeping your commit quality](https://dev.to/janderssonse/gommitlint-a-tool-for-keeping-your-commit-quality-3gd0)
-- [Você está gastando mais RAM do que pediu: Lições de baixo nível para React Native](https://dev.to/mensonones/voce-esta-gastando-mais-ram-do-que-pediu-licoes-de-baixo-nivel-para-react-native-21g)
+- [I built ApiWatch — a free, developer-friendly API uptime monitor &lpar;HTTP + keyword checks&rpar;](https://dev.to/evgenygil/i-built-apiwatch-a-free-developer-friendly-api-uptime-monitor-http-keyword-checks-47j3)
+- [Why Is Cloud Infrastructure Event-Driven?](https://dev.to/zopdev/why-is-cloud-infrastructure-event-driven-1a2g)
+- [A Beginner’s Guide to Git and GitHub: From Installation to Your First Push](https://dev.to/jason_ndalamia_74ce33128b/a-beginners-guide-to-git-and-github-from-installation-to-your-first-push-418l)
+- [C# Conditional Statements &lpar;if, else, switch&rpar;](https://dev.to/allcoderthings/c-conditional-statements-if-else-switch-34d9)
+- [Publishing Pipeline - inline Mermaid code](https://dev.to/12ww1160/publishing-pipeline-inline-mermaid-code-43g7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
