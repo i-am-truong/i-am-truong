@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Security news weekly round-up - 16th January 2026](https://dev.to/ziizium/security-news-weekly-round-up-16th-january-2026-1n8l)
-- [Day 13: The 12-Day Gap and Coming Back](https://dev.to/casperday11/day-13-the-12-day-gap-and-coming-back-13pi)
-- [Our Godot Game Only Crashed on Expensive PCs &lpar;Here&#39;s Why&rpar;](https://dev.to/david_dev_sec/our-godot-game-only-crashed-on-expensive-pcs-heres-why-40jl)
-- [Real-world Challenges of Team Development with Oracle APEX, SQLcl, and Liquibase: A Starting Point for Discussion](https://dev.to/gino_suarez_58c991193a60c/real-world-challenges-of-team-development-with-oracle-apex-sqlcl-and-liquibase-a-starting-point-5e63)
-- [I Built a Conflict-Resilient JSON Editor to Solve Collaborative Nightmares, and here is the Tech Stack](https://dev.to/emily_chen_80108/i-built-a-conflict-resilient-json-editor-to-solve-collaborative-nightmares-and-here-is-the-1ai3)
+- [Building an Agentic Framework from scratch 🚀](https://dev.to/tylerjrbuell/building-an-agentic-framework-42h5)
+- [LuxDev Markdown Language Class](https://dev.to/ngigi_nyawira_a938a3f3847/luxdev-markdown-language-class-152l)
+- [Edge-to-Cloud Swarm Coordination for coastal climate resilience planning under real-time policy constraints](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-coastal-climate-resilience-planning-under-real-time-policy-377h)
+- [Resolviendo errores al conformar protocolos &quot;actor-isolated&quot;.](https://dev.to/david_goyes_a488f58a17a53/resolviendo-errores-al-conformar-protocolos-actor-isolated-4cfi)
+- [Integrating KaibanJS Teams with Kaiban.io: Enterprise Workflow Automation via A2A Protocol](https://dev.to/kaibanjs/integrating-kaibanjs-teams-with-kaibanio-enterprise-workflow-automation-via-a2a-protocol-2kk7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
