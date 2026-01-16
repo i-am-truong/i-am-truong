@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [FlyEnv: The All-in-One Tool That Could Replace Your Docker Workflow](https://dev.to/yongdev/flyenv-the-all-in-one-tool-that-could-replace-your-docker-workflow-4ija)
+- [Escaping the Dumbzone, Part 1: Why Your AI Gets Stupider the More You Talk to It](https://dev.to/diggidydale/escaping-the-dumbzone-part-1-why-your-ai-gets-stupider-the-more-you-talk-to-it-4d8k)
 - [[Boost]](https://dev.to/heytechomaima/-2e74)
 - [how we built the most advanced ai product planner](https://dev.to/singhdevhub/how-we-built-the-most-advanced-ai-product-planner-31lc)
 - [10 Things I Learned from Vibe Coding &lpar;or: How I Let an AI Agent Write My Audio Library&rpar;](https://dev.to/ik5/10-things-i-learned-from-vibe-coding-or-how-i-let-an-ai-agent-write-my-audio-library-2940)
-- [Building Better Routines with Daily Habit Tracking 🚀](https://dev.to/wenbin_zhang_800871dc9625/building-pulsedaily-a-no-login-habit-tracker-focused-on-simplicity-and-privacy-4b98)
-- [HarmonyOS Next: Building Persistent Tabs Using the Navigation Component](https://dev.to/harmonyos/harmonyos-next-building-persistent-tabs-using-the-navigation-component-20c4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
