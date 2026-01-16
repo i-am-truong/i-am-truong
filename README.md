@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [FlyEnv: The All-in-One Tool That Could Replace Your Docker Workflow](https://dev.to/yongdev/flyenv-the-all-in-one-tool-that-could-replace-your-docker-workflow-4ija)
-- [Escaping the Dumbzone, Part 1: Why Your AI Gets Stupider the More You Talk to It](https://dev.to/diggidydale/escaping-the-dumbzone-part-1-why-your-ai-gets-stupider-the-more-you-talk-to-it-4d8k)
-- [[Boost]](https://dev.to/heytechomaima/-2e74)
-- [how we built the most advanced ai product planner](https://dev.to/singhdevhub/how-we-built-the-most-advanced-ai-product-planner-31lc)
-- [10 Things I Learned from Vibe Coding &lpar;or: How I Let an AI Agent Write My Audio Library&rpar;](https://dev.to/ik5/10-things-i-learned-from-vibe-coding-or-how-i-let-an-ai-agent-write-my-audio-library-2940)
+- [Learning Backend #1](https://dev.to/gruprttt/learning-backend-1-2lbf)
+- [🧮 Modular arithmetic: Checking Huge Numbers for Divisibility](https://dev.to/ratulalmamun/modular-arithmetic-checking-huge-numbers-for-divisibility-2cil)
+- [The Java Programming Environment](https://dev.to/sjue_bsjs_45955e4c6361540/the-java-programming-environment-399c)
+- [How to speed up slow Cypress Component Tests by running only affected tests in parallel](https://dev.to/davide_cantelli/how-to-speed-up-slow-cypress-component-tests-by-running-only-affected-tests-in-parallel-ndm)
+- [Publishing Pipeline - Refactoring](https://dev.to/12ww1160/publishing-pipeline-refactoring-g00)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
