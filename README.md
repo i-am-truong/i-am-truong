@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [YAML to JSON in CI Pipelines: Why It Breaks More Often Than You Expect](https://dev.to/jsonviewertool/yaml-to-json-in-ci-pipelines-why-it-breaks-more-often-than-you-expect-3in2)
+- [Docker &amp; Containers Explained: A Beginner-Friendly Guide to How Docker Works](https://dev.to/nikhilmhatre4757/docker-containers-explained-a-beginner-friendly-guide-to-how-docker-works-5041)
+- [Git Made Simple](https://dev.to/makwaka/git-made-simple-548a)
 - [Learning Backend #1](https://dev.to/gruprttt/learning-backend-1-2lbf)
 - [🧮 Modular arithmetic: Checking Huge Numbers for Divisibility](https://dev.to/ratulalmamun/modular-arithmetic-checking-huge-numbers-for-divisibility-2cil)
-- [The Java Programming Environment](https://dev.to/sjue_bsjs_45955e4c6361540/the-java-programming-environment-399c)
-- [How to speed up slow Cypress Component Tests by running only affected tests in parallel](https://dev.to/davide_cantelli/how-to-speed-up-slow-cypress-component-tests-by-running-only-affected-tests-in-parallel-ndm)
-- [Publishing Pipeline - Refactoring](https://dev.to/12ww1160/publishing-pipeline-refactoring-g00)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
