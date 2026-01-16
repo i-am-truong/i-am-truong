@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Currency Converter Extension in 2026](https://dev.to/chisomo9/how-i-built-a-currency-converter-extension-in-2026-40ko)
-- [10 Python Concepts That Finally “Clicked”](https://dev.to/naved_shaikh/10-python-concepts-that-finally-clicked-fgo)
-- [Building an MCP Server for Dynamsoft SDKs: Enabling AI-Assisted Barcode and Document Scanning Development](https://dev.to/yushulx/building-an-mcp-server-for-dynamsoft-sdks-enabling-ai-assisted-barcode-and-document-scanning-198f)
-- [Ethereum-Solidity Quiz Q21: How does function overriding work in Solidity?](https://dev.to/mihaihng/ethereum-solidity-quiz-q21-how-does-function-overriding-work-in-solidity-3h46)
-- [Why I Run Nginx on My OpenWrt Router &lpar;And How You Can Too&rpar;](https://dev.to/tsukiyo/why-i-run-nginx-on-my-openwrt-router-and-how-you-can-too-4h5i)
+- [Mastering Advanced Service Tags in Symfony 7.4: Beyond the Basics](https://dev.to/mattleads/mastering-advanced-service-tags-in-symfony-74-beyond-the-basics-5fl8)
+- [My Diary 2.0 — A Digital Journal](https://dev.to/trojanmocx/my-diary-20-a-digital-journal-3kk5)
+- [ChatGPT Projects: Organize AI Workflows for SMEs](https://dev.to/dr_hernani_costa/chatgpt-projects-organize-ai-workflows-for-smes-2pf0)
+- [The Best AI PCs and NPU Laptops For Developers](https://dev.to/alifar/the-best-ai-pcs-and-npu-laptops-for-developers-12n9)
+- [Jan 16, 2026 | The Tongyi Weekly: Your weekly dose of cutting-edge AI from Tongyi Lab](https://dev.to/alibaba_tongyi_lab_25ad9f/jan-16-2026-the-tongyi-weekly-your-weekly-dose-of-cutting-edge-ai-from-tongyi-lab-46d9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
