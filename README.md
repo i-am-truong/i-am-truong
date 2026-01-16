@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Remote Working and Camping: M4 MacBook Pro Power Usage](https://dev.to/spara_50/remote-working-and-camping-m4-macbook-pro-power-usage-b2e)
-- [How I Built a &quot;Risk-Free&quot; Arbitrage Bot for Polymarket &amp; Kalshi](https://dev.to/realfishsam/how-i-built-a-risk-free-arbitrage-bot-for-polymarket-kalshi-4f)
-- [IAM in the Age of AI: Why Identity Governance Must Evolve Beyond Humans](https://dev.to/sunnysinh_a/iam-in-the-age-of-ai-why-identity-governance-must-evolve-beyond-humans-2hc0)
-- [How We Benchmarked Bifrost against LiteLLM&lpar;And What We Learned About Performance&rpar;](https://dev.to/pranay_batta/how-we-benchmarked-bifrost-against-litellmand-what-we-learned-about-performance-c1o)
-- [We raised $60 Million at $1B Valuation. Next? Self-securing software.](https://dev.to/hovhannes_ghevondyan_c5ad/we-raised-60-million-at-1b-valuation-next-self-securing-software-119j)
+- [🚀 New AWS Lambda Feature: Cross-Account DynamoDB Streams Access](https://dev.to/brayanarrieta/new-aws-lambda-feature-cross-account-dynamodb-streams-access-7l6)
+- [SwiftDocX: Pure Swift Library for Word Documents &lpar;.docx&rpar;](https://dev.to/tayarndt/swiftdocx-pure-swift-library-for-word-documents-docx-321n)
+- [Beyond the Vercel Tax: A Software Engineer&#39;s Guide to Managed Cloud Costs](https://dev.to/kenansafi/beyond-the-vercel-tax-a-software-engineers-guide-to-managed-cloud-costs-po8)
+- [Hot Restart for iOS is not included in Visual Studio 2026: What .NET MAUI Developers Need to Know](https://dev.to/biozal/hot-restart-for-ios-is-not-included-in-visual-studio-2026-what-net-maui-developers-need-to-know-28n8)
+- [Day 20: Sending HTML Emails from AWS Lambda using Python &amp; SES.](https://dev.to/ericrodriguez10/day-20-sending-html-emails-from-aws-lambda-using-python-ses-2i2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
