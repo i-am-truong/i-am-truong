@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Google&#39;s Agentic Interoperability Stack: A Practical Guide](https://dev.to/vikas_sahani_3a7e2706846c/exploring-googles-agentic-interoperability-stack-a-practical-guide-367h)
-- [Dicionário do DevOps - Ep. 1](https://dev.to/jhonathanlobato/dicionario-do-devops-ep-1-cjj)
-- [Getting Started with 2D Games Using Pyxel &lpar;Part 13&rpar;: Creating a Scrolling Star Background](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-pyxel-part-13-creating-a-scrolling-star-background-516b)
-- [Building Production-Ready Nmap Integrations: A Complete Guide to nmap-exec-api](https://dev.to/hejhdiss/building-production-ready-nmap-integrations-a-complete-guide-to-nmap-exec-api-48cn)
-- [What I Did This Week](https://dev.to/gudong/what-i-did-this-week-5d6h)
+- [How I Built a &quot;Risk-Free&quot; Arbitrage Bot for Polymarket &amp; Kalshi](https://dev.to/realfishsam/how-i-built-a-risk-free-arbitrage-bot-for-polymarket-kalshi-4f)
+- [IAM in the Age of AI: Why Identity Governance Must Evolve Beyond Humans](https://dev.to/sunnysinh_a/iam-in-the-age-of-ai-why-identity-governance-must-evolve-beyond-humans-2hc0)
+- [How We Benchmarked Bifrost against LiteLLM&lpar;And What We Learned About Performance&rpar;](https://dev.to/pranay_batta/how-we-benchmarked-bifrost-against-litellmand-what-we-learned-about-performance-c1o)
+- [We raised $60 Million at $1B Valuation. Next? Self-securing software.](https://dev.to/hovhannes_ghevondyan_c5ad/we-raised-60-million-at-1b-valuation-next-self-securing-software-119j)
+- [We Benchmarked 5 LLM Gateways at 5,000 RPS. Here&#39;s What Broke.](https://dev.to/debmckinney/we-benchmarked-5-llm-gateways-at-5000-rps-heres-what-broke-28f3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
