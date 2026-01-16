@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hoisting &amp; The Temporal Dead Zone: Why `let` and `const` Behave Differently Than `var`](https://dev.to/tishonator/hoisting-the-temporal-dead-zone-why-let-and-const-behave-differently-than-var-1ocl)
+- [How I Turned My Code into a Client‑Friendly Upwork Portfolio](https://dev.to/famoustiger0808/how-i-turned-my-code-into-a-client-friendly-upwork-portfolio-4p5l)
 - [The Metadata-First Pattern: How I Built a Reliable AI Agent for SAP](https://dev.to/santanagabriel/the-metadata-first-pattern-how-i-built-a-reliable-ai-agent-for-sap-1nka)
 - [Building a Luxury Analytics Dashboard with Next.js 16 &amp; Tailwind v4](https://dev.to/fytroy/building-a-luxury-analytics-dashboard-with-nextjs-16-tailwind-v4-155h)
 - [Power Distribution in Multi-Port Adapters: What Actually Happens When You Plug Everything In](https://dev.to/bijalparekh/power-distribution-in-multi-port-adapters-what-actually-happens-when-you-plug-everything-in-7ma)
-- [Agent Skills: How to Make AI Write Modern Angular Code](https://dev.to/hassantayyab/agent-skills-how-to-make-ai-write-modern-angular-code-3h5i)
-- [Learning Databases Beyond SQL: My First Day with Oracle Tables](https://dev.to/mazinocodes/learning-databases-beyond-sql-my-first-day-with-oracle-tables-33ig)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
