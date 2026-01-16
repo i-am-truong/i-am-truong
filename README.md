@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Payment Event Logging Is Critical in Worldpay Integrations](https://dev.to/ramapratheeba/why-payment-event-logging-is-critical-in-worldpay-integrations-1b1i)
+- [🚜 Beginner-Friendly Guide &#39;Maximum Square Area by Removing Fences From a Field&#39; – LeetCode 2975 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-maximum-square-area-by-removing-fences-from-a-field-leetcode-2975-14m8)
+- [Switching from Python to Rust: A High-Frequency Trading Case Study.](https://dev.to/frankdotdev/switching-from-python-to-rust-a-high-frequency-trading-case-study-34hc)
+- [How Production Logs Forced Me to Simplify API Error Handling](https://dev.to/rohit_gavali_0c2ad84fe4e0/how-production-logs-forced-me-to-simplify-api-error-handling-388f)
 - [Mastering Advanced Service Tags in Symfony 7.4: Beyond the Basics](https://dev.to/mattleads/mastering-advanced-service-tags-in-symfony-74-beyond-the-basics-5fl8)
-- [My Diary 2.0 — A Digital Journal](https://dev.to/trojanmocx/my-diary-20-a-digital-journal-3kk5)
-- [ChatGPT Projects: Organize AI Workflows for SMEs](https://dev.to/dr_hernani_costa/chatgpt-projects-organize-ai-workflows-for-smes-2pf0)
-- [The Best AI PCs and NPU Laptops For Developers](https://dev.to/alifar/the-best-ai-pcs-and-npu-laptops-for-developers-12n9)
-- [Jan 16, 2026 | The Tongyi Weekly: Your weekly dose of cutting-edge AI from Tongyi Lab](https://dev.to/alibaba_tongyi_lab_25ad9f/jan-16-2026-the-tongyi-weekly-your-weekly-dose-of-cutting-edge-ai-from-tongyi-lab-46d9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
