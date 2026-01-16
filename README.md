@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-3k8n)
-- [Open Source Licensing: What Mid-Level Developers Must Know to Avoid Legal Trouble](https://dev.to/piotr-get-talent/open-source-licensing-what-mid-level-developers-must-know-to-avoid-legal-trouble-1pn7)
-- [Why hiding IDs wasn’t enough for secure share links](https://dev.to/siddhesh_shirdhankar_902f/why-hiding-ids-wasnt-enough-for-secure-share-links-5egj)
-- [Vector Embeddings &lpar;with OpenAI and Supabase&rpar; - Part 3 &lpar;storing &amp; searching&rpar;](https://dev.to/shlokaguptaa/vector-embeddings-with-openai-and-supabase-part-3-1171)
-- [From Figma to Production Code in Minutes: A Professional Engineer&#39;s Guide to Visual Copilot](https://dev.to/xit_vali_8353fbdb3474555c/from-figma-to-production-code-in-minutes-a-professional-engineers-guide-to-visual-copilot-5bh1)
+- [Developer? Or Just a Toolor?](https://dev.to/dgseo/developer-or-just-a-toolor-1iom)
+- [New Flyout Menu Blocks Built with Angular CDK Overlay](https://dev.to/ngmaterialdev/new-flyout-menu-blocks-built-with-angular-cdk-overlay-4j18)
+- [Day 8: Yup We Lost.....But We Raise](https://dev.to/sugunadithya/day-8-yup-we-lostbut-we-raise-3505)
+- [If You Feel Stuck in Programming, Read This](https://dev.to/hadil/if-you-feel-stuck-in-programming-read-this-403j)
+- [Metasploit Deep Dive: Staged vs. Stageless Payloads — A Practical Lab](https://dev.to/vibhav_chennamadhava_a887/metasploit-deep-dive-staged-vs-stageless-payloads-a-practical-lab-1pa7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
