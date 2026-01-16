@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Keep AI-Generated Code Modular](https://dev.to/frenchsalmon/keep-modular-code-alive-1bfa)
-- [An erratic Xfce4 Black Screen &lpar;WIP&rpar;](https://dev.to/ingosteinke/an-erratic-xfce4-black-screen-wip-2do3)
-- [Day 1: Regression — The Art of Prediction](https://dev.to/brains_behind_bots/day-1-regression-the-art-of-prediction-26aa)
-- [Understanding Git and GitHub: Pushing, Pulling, and Tracking Code &lpar;Beginner-Friendly Guide&rpar;](https://dev.to/k1int/understanding-git-and-github-pushing-pulling-and-tracking-code-beginner-friendly-guide-1bkm)
-- [Version Control System &amp; Git](https://dev.to/sbkumbar024/version-control-system-git-1iof)
+- [[Boost]](https://dev.to/heytechomaima/-2e74)
+- [how we built the most advanced ai product planner](https://dev.to/singhdevhub/how-we-built-the-most-advanced-ai-product-planner-31lc)
+- [10 Things I Learned from Vibe Coding &lpar;or: How I Let an AI Agent Write My Audio Library&rpar;](https://dev.to/ik5/10-things-i-learned-from-vibe-coding-or-how-i-let-an-ai-agent-write-my-audio-library-2940)
+- [Building Better Routines with Daily Habit Tracking 🚀](https://dev.to/wenbin_zhang_800871dc9625/building-pulsedaily-a-no-login-habit-tracker-focused-on-simplicity-and-privacy-4b98)
+- [HarmonyOS Next: Building Persistent Tabs Using the Navigation Component](https://dev.to/harmonyos/harmonyos-next-building-persistent-tabs-using-the-navigation-component-20c4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
