@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cloud Computing and DevOps Engineering: Relationship and differences between them](https://dev.to/lekeks/cloud-computing-and-devops-engineering-relationship-and-differences-between-them-47bp)
+- [I Let Claude Code Run Unsupervised for 8 Hours - Here&#39;s What It Built](https://dev.to/intelligenttools_tomic_85/i-let-claude-code-run-unsupervised-for-8-hours-heres-what-it-built-5gp3)
 - [CVE-2026-23745: Tar-pit of Doom: Escaping the Root in node-tar](https://dev.to/cverports/cve-2026-23745-tar-pit-of-doom-escaping-the-root-in-node-tar-h5f)
 - [AI Trading Daily Report: January 16, 2026 | $-2.98](https://dev.to/igorganapolsky/ai-trading-daily-report-january-16-2026-298-196f)
-- [Gemini 2.5 Native Audio + LiveKit: A Production Setup Guide](https://dev.to/behruamm/gemini-25-native-audio-livekit-a-production-setup-guide-2nin)
-- [🏆 Hackathon Synergy Agent](https://dev.to/samarth28/hackathon-synergy-agent-4cco)
-- [SwiftUI #28: SecureField](https://dev.to/david_goyes_a488f58a17a53/swiftui-28-securefield-ec8)
+- [Is Bun Production-Ready in 2026? A Practical Assessment](https://dev.to/last9/is-bun-production-ready-in-2026-a-practical-assessment-181h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
