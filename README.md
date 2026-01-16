@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🏆 Hackathon Synergy Agent](https://dev.to/samarth28/hackathon-synergy-agent-4cco)
+- [SwiftUI #28: SecureField](https://dev.to/david_goyes_a488f58a17a53/swiftui-28-securefield-ec8)
 - [Discovering Connections: How Claude Code Analyzed 100 Books](https://dev.to/dd8888/discovering-connections-how-claude-code-analyzed-100-books-41li)
 - [I procrastinated on My Portfolio for years. AI Built It in 2 Hours.](https://dev.to/sakshay_arora/i-procrastinated-on-my-portfolio-for-years-ai-built-it-in-2-hours-1hnh)
 - [The Great Decoupling: The Enterprise Capability Graph](https://dev.to/gd-tech-guru/the-great-decoupling-the-enterprise-capability-graph-ajp)
-- [Building an Agentic Framework from scratch 🚀](https://dev.to/tylerjrbuell/building-an-agentic-framework-42h5)
-- [LuxDev Markdown Language Class](https://dev.to/ngigi_nyawira_a938a3f3847/luxdev-markdown-language-class-152l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
