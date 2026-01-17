@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Beginner&#39;s Guide to Git and GitHub: Version Control Made Simple](https://dev.to/mary_nyambura_b59b512a9e1/beginners-guide-to-git-and-github-version-control-made-simple-1im7)
-- [SQL Queries Every Developer Should Know](https://dev.to/mr_zouraiz/sql-queries-every-developer-should-know-1jd)
-- [Gas Inefficiencies Developers Don&#39;t Notice Until It&#39;s Too Late.](https://dev.to/koxy/gas-inefficiencies-developers-dont-notice-until-its-too-late-2m42)
-- [I built a free focus timer with visual themes and ambient sounds](https://dev.to/vimal_2b88e82b469b/i-built-a-free-focus-timer-with-visual-themes-and-ambient-sounds-2kh9)
-- [A NEWBIE&#39;S GUIDE TO GIT&lpar;gitbash&rpar;.](https://dev.to/juliet_kiplimo_b9a825c95a/a-newbies-guide-to-gitgitbash-1iph)
+- [Building a City Boy Meme Generator with Next.js and Fabric.js &lpar;No Watermarks!&rpar;](https://dev.to/_75729aa6b13e505e279f7/building-a-city-boy-meme-generator-with-nextjs-and-fabricjs-no-watermarks-3i85)
+- [Você já ouviu falar do meme do monstro Shoggoth?](https://dev.to/lhayana/voce-ja-ouviu-falar-do-meme-do-monstro-shoggoth-467n)
+- [Importance of Semantic HTML](https://dev.to/richardpascoe/importance-of-semantic-html-3hcm)
+- [Azure Small Language Models: Evaluating Phi-3, Llama 3, and Snowflake Arctic for Production](https://dev.to/jubinsoni/azure-small-language-models-evaluating-phi-3-llama-3-and-snowflake-arctic-for-production-35h6)
+- [Para além do versionamento de código: modelos também devem ser versionados.](https://dev.to/lhayana/para-alem-do-versionamento-de-codigo-modelos-tambem-devem-ser-versionados-4d3k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
