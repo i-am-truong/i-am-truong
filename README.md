@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New scripting language](https://dev.to/tayenp/new-scripting-language-4m6e)
+- [5 Awesome Ways to Deploy Flowise](https://dev.to/yulei-chen/5-awesome-ways-to-deploy-flowise-4882)
 - [AltSchool Of Engineering Tinyuka’24 Month 11 Week 3](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-11-week-3-aeh)
 - [Understanding the Entity Synonym Mapper in RASA](https://dev.to/aniket_kuyate_15acc4e6587/understanding-the-entity-synonym-mapper-in-rasa-56be)
 - [Why I Built Another Task Runner](https://dev.to/nihilok/why-i-built-another-task-runner-5bn)
-- [Will 2026 Be the Last Year I Write Code by Hand?](https://dev.to/trolzie/2026-be-that-last-year-i-hand-roll-any-code-422e)
-- [Kubernetes namespaces: concepts &amp; key commands](https://dev.to/rohanan07/kubernetes-namespaces-concepts-key-commands-19hj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
