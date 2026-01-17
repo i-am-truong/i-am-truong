@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Blackjack for the Terminal: My First Python Project](https://dev.to/jonathan_key_2bcfb58189bf/building-blackjack-for-the-terminal-my-first-python-project-1dmi)
-- [BrainRunner &lpar;1m&rpar;](https://dev.to/celia_gonzlez_ad37da4de5/brainrunner-1m-5hj8)
-- [Race to the Bottom: Weaponizing Concurrency , PART 1 . #THREADING](https://dev.to/7mo_sec/race-to-the-bottom-weaponizing-concurrency-part-1-threading-2h7m)
-- [End-to-End MLOps Project: Customer Churn Prediction](https://dev.to/koteswararao_j_262f1ca27f/end-to-end-mlops-project-customer-churn-prediction-nbi)
-- [Datadog: Observability Lessons from 50+ AWS Apps](https://dev.to/aws-builders/datadog-observability-lessons-from-50-aws-apps-37h4)
+- [The Death of Hyper-Casual: Why &#39;Mid-Core&#39; is the New Gold Mine for Browser Games in 2026](https://dev.to/jasonguo/the-death-of-hyper-casual-why-mid-core-is-the-new-gold-mine-for-browser-games-in-2026-3l8)
+- [Physical Proof of Proximity &lpar;PoPI&rpar;: Making Sybil Attacks Physically Expensive](https://dev.to/chronocoders/physical-proof-of-proximity-popi-making-sybil-attacks-physically-expensive-5dje)
+- [Your Java Regex Can Be Weaponized &lpar;And How To Stop It&rpar;](https://dev.to/xoifail/your-java-regex-can-be-weaponized-and-how-to-stop-it-ke4)
+- [Your Java Regex Can Be Weaponized &lpar;And How To Stop It&rpar;](https://dev.to/xoifail/your-java-regex-can-be-weaponized-and-how-to-stop-it-cp9)
+- [Saga Pattern: Ensuring Consistency in Microservices Architectures](https://dev.to/dionatan_melo_d0c126b0216/saga-pattern-ensuring-consistency-in-microservices-architectures-433d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
