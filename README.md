@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Git Bash &lpar;Pull and Push code, track changes and version control&rpar;](https://dev.to/geraldm/git-bash-pull-and-push-code-track-changes-and-version-control-e8p)
 - [Git for Beginners](https://dev.to/dennis_ogaka_2d188ab5bef7/git-for-beginners-3l5n)
 - [How I built a Movie Suggestion CLI](https://dev.to/rxshim/how-i-built-a-movie-suggestion-cli-bcg)
 - [Construindo uma Tabela com Shadcn, Tanstack Table e Virtualização e Infinite Scroll.](https://dev.to/miqstelles/construindo-uma-tabela-com-shadcn-tanstack-table-e-virtualizacao-e-infinite-scroll-2hn6)
 - [Building Bags.fm Embeds: A Free Tool to Make Crypto Community Support Visible](https://dev.to/sivarampg/building-bagsfm-embeds-a-free-tool-to-make-crypto-community-support-visible-5em2)
-- [Why Most Roblox Asset Packs Fail in Real Games &lpar;And What Actually Works&rpar;](https://dev.to/kingdoms_way_392997805c30/why-most-roblox-asset-packs-fail-in-real-games-and-what-actually-works-2g64)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
