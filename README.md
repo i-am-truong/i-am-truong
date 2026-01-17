@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Inevitable Cost of &quot;Free&quot;: Why OpenAI&#39;s Ads Are Just the Beginning](https://dev.to/sivarampg/the-inevitable-cost-of-free-why-openais-ads-are-just-the-beginning-4dl)
-- [Defending the Skies: Anti-Jamming and GPS Spoofing in UAVs](https://dev.to/asikarastallion/defending-the-skies-anti-jamming-and-gps-spoofing-in-uavs-4968)
-- [SnippHub – A forum to discover and discuss the best code snippets](https://dev.to/mathieu_drapala_5f52e7b9e/snipphub-a-forum-to-discover-and-discuss-the-best-code-snippets-2nl0)
-- [Most Unique UI Libraries Built On ShadCN!](https://dev.to/ariflogs/most-unique-ui-libraries-built-on-shadcn-3bgf)
-- [MCP Weekly: The Agentic Explosion Hits Commerce, Work, and Cloud](https://dev.to/om_shree_0709/mcp-weekly-the-agentic-explosion-hits-commerce-work-and-cloud-11ne)
+- [Ethereum-Solidity Quiz Q22: How are functions overridden using the &quot;super&quot; keyword?](https://dev.to/mihaihng/ethereum-solidity-quiz-q22-how-are-functions-overridden-using-the-super-keyword-3128)
+- [How to share what you know &lpar;without becoming an influencer&rpar;](https://dev.to/andreagriffiths11/how-to-share-what-you-know-without-becoming-an-influencer-3cke)
+- [Death of &quot;Vibe Coding&quot;: Engineering Intent in the Age of Autonomous Agents](https://dev.to/n-is/the-death-of-the-prompt-engineering-intent-in-the-age-of-autonomous-agents-2852)
+- [Core Architectural Components of Microsoft Azure &lpar;with Real-World Architecture Example&rpar;](https://dev.to/toniaken/core-architectural-components-of-microsoft-azure-with-real-world-architecture-example-lj5)
+- [How I Built a Mortgage Calculator That Actually Helps People Save $200K+ &lpar;Next.js + Real Math&rpar;](https://dev.to/wernerpj_purens_jaco/how-i-built-a-mortgage-calculator-that-actually-helps-people-save-200k-nextjs-real-math-44)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
