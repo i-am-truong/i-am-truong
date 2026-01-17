@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Guide to Git and GitHub for Data Analysts](https://dev.to/cyrus_ndungu_79376c09c059/a-guide-to-git-and-github-for-data-analysts-2n1a)
-- [📦 What is Software Packaging?](https://dev.to/itsmecharan7/what-is-software-packaging-4cij)
-- [Create a Telegram bot quote bot in Ruby](https://dev.to/slick_phantom/create-a-telegram-bot-quote-bot-in-ruby-2j85)
-- [⚙️ What is Software Compilation?](https://dev.to/itsmecharan7/what-is-software-compilation-56e)
-- [The Problem No One Talks About in Prisma APIs](https://dev.to/manankanani/the-problem-no-one-talks-about-in-prisma-apis-npc)
+- [Scroll Restoration in React Router](https://dev.to/tene/scroll-restoration-in-react-router-4gnm)
+- [Day 2 — Linear Regression: How a Straight Line Learns From Data](https://dev.to/brains_behind_bots/day-2-linear-regression-how-a-straight-line-learns-from-data-222l)
+- [C# 14 - Null Conditional Assignment in .NET10](https://dev.to/jplazaro/c-14-null-conditional-assignment-in-net10-1mc9)
+- [Here are a few options, from most direct to most developer-focused: **Option 1 &lpar;Direct &amp; Punchy&rpar;:** Solved: How I Got Played...](https://dev.to/techresolve/here-are-a-few-options-from-most-direct-to-most-developer-focused-option-1-direct--13he)
+- [Solved: I want to learn scripting for powershell](https://dev.to/techresolve/solved-i-want-to-learn-scripting-for-powershell-1nl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
