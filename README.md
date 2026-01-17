@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Construindo uma Tabela com Shadcn, Tanstack Table e Virtualização e Infinite Scroll.](https://dev.to/miqstelles/construindo-uma-tabela-com-shadcn-tanstack-table-e-virtualizacao-e-infinite-scroll-2hn6)
+- [Building Bags.fm Embeds: A Free Tool to Make Crypto Community Support Visible](https://dev.to/sivarampg/building-bagsfm-embeds-a-free-tool-to-make-crypto-community-support-visible-5em2)
 - [How to work with GIT and GitHub](https://dev.to/jeff_kamuthu_84592639a8fd/how-to-work-with-git-and-github-474b)
 - [Git and Github for Beginners](https://dev.to/erasto/git-and-github-for-beginners-3aik)
 - [⚠️ Don&#39;t try this at home: Add Brainf**k support to your JS app today!](https://dev.to/thormeier/dont-try-this-at-home-add-brainfk-support-to-your-js-app-today-o0h)
-- [LinkedIn&#39;s AI Post Generator: The Good, The Bad, and The Surprisingly Human](https://dev.to/synergistdigitalmedia/linkedins-ai-post-generator-the-good-the-bad-and-the-surprisingly-human-p14)
-- [Leafwiki Devlog #7: v0.6.1 - Introducing Backlinks + Better Search &lpar;SQLite FTS5&rpar; 🌿](https://dev.to/perber/leafwiki-devlog-7-v061-introducing-backlinks-better-search-sqlite-fts5-1llo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
