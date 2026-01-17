@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hoisting &amp; The Temporal Dead Zone: Why `let` and `const` Behave Differently Than `var`](https://dev.to/tishonator/hoisting-the-temporal-dead-zone-why-let-and-const-behave-differently-than-var-1ocl)
-- [How I Turned My Code into a Client‑Friendly Upwork Portfolio](https://dev.to/famoustiger0808/how-i-turned-my-code-into-a-client-friendly-upwork-portfolio-4p5l)
-- [The Metadata-First Pattern: How I Built a Reliable AI Agent for SAP](https://dev.to/santanagabriel/the-metadata-first-pattern-how-i-built-a-reliable-ai-agent-for-sap-1nka)
-- [Building a Luxury Analytics Dashboard with Next.js 16 &amp; Tailwind v4](https://dev.to/fytroy/building-a-luxury-analytics-dashboard-with-nextjs-16-tailwind-v4-155h)
-- [Power Distribution in Multi-Port Adapters: What Actually Happens When You Plug Everything In](https://dev.to/bijalparekh/power-distribution-in-multi-port-adapters-what-actually-happens-when-you-plug-everything-in-7ma)
+- [🚀 New Year, New You — My AI-Powered Portfolio](https://dev.to/senthiltechspot/new-year-new-you-my-ai-powered-portfolio-2kjg)
+- [Git and GitHub: A Beginner&#39;s Guide](https://dev.to/ngigi_nyawira_a938a3f3847/git-and-github-a-beginners-guide-4lb6)
+- [From Shaky Squats to Perfect Form: Master Workout Analysis with Dynamic Time Warping &lpar;DTW&rpar;](https://dev.to/beck_moulton/from-shaky-squats-to-perfect-form-master-workout-analysis-with-dynamic-time-warping-dtw-20pn)
+- [n8n Integrates Note, Obsidian, Dify, and SNS - Complete Overview of the Increasingly Chaotic Automation Workflow](https://dev.to/takashi_abe_c6e5ce4004697/n8n-integrates-note-obsidian-dify-and-sns-complete-overview-of-the-increasingly-chaotic-23bi)
+- [# Building a Clean REST API in Go: From Spaghetti Code to Clean Architecture](https://dev.to/paulbabatuyi/-building-a-clean-rest-api-in-go-from-spaghetti-code-to-clean-architecture-k8j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
