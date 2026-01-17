@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Deep Dive: Why Rust-Based Tooling is Dominating JavaScript in 2026](https://dev.to/dataformathub/deep-dive-why-rust-based-tooling-is-dominating-javascript-in-2026-3dbl)
+- [Enterprise-Grade Access Control for Python Apps - Battle-Tested &amp; Open Source](https://dev.to/maneesh_thakur_d16c2852fa/enterprise-grade-access-control-for-python-apps-battle-tested-open-source-5c5k)
+- [SQLAlchemy Architecture — Notes from a Beginner Learning Backend](https://dev.to/akash_a74ce19b1daf04b4891/sqlalchemy-architecture-notes-from-a-beginner-learning-backend-5bdn)
 - [Building Decisora: an AI tool to think through decisions &lpar;early feedback welcome&rpar;](https://dev.to/harsha_saiakhila_8d4dd16/building-decisora-an-ai-tool-to-think-through-decisions-early-feedback-welcome-4oj6)
 - [Stop Reinventing Multiplayer Netcode — Here&#39;s How I Built a Universal Protocol](https://dev.to/kohanmathers/stop-reinventing-multiplayer-netcode-heres-how-i-built-a-universal-protocol-117f)
-- [Students Professionals GitHub](https://dev.to/isocyanideisgood/students-x-professionals-x-github-5h5o)
-- [WASI &lpar;WebAssembly System Interface&rpar;](https://dev.to/godofgeeks/wasi-webassembly-system-interface-2ep8)
-- [BEGINNER&#39;S GUIDE TO GIT: PUSH, PULL AND TRACKING CHANGES](https://dev.to/wickliff_odoshe_90f1e35e3/beginners-guide-to-git-push-pull-and-tracking-changes-46l1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
