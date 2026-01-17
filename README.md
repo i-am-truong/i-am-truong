@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Twitter Viewer in 3 Weeks with Next.js 14 - Here&#39;s What I Learned](https://dev.to/peter_anderson33/i-built-a-twitter-viewer-in-3-weeks-with-nextjs-14-heres-what-i-learned-5bh3)
-- [Interfacing Reyax RYLR999 LoRa Module with Arduino](https://dev.to/rachna62/interfacing-reyax-rylr999-lora-module-with-arduino-2pj0)
-- [Early Preview: krnr - A CLI Tool for Saving and Re-Running Shell Workflows](https://dev.to/voxdroid/early-preview-krnr-a-cli-tool-for-saving-and-re-running-shell-workflows-14bj)
-- [Git for Data Scientists &amp; Data Engineers — my very first beginner guide &lpar;Git Bash + GitHub&rpar;](https://dev.to/charles_ndungu/git-for-data-scientists-data-engineers-my-very-first-beginner-guide-git-bash-github-3952)
-- [Today I Started Understanding useReducer &lpar;Not Fully, But Enough to Continue&rpar;](https://dev.to/usama_dev/today-i-started-understanding-usereducer-not-fully-but-enough-to-continue-3731)
+- [Exploring the Potential of AWS Glue Python Shell as a Long-Running Batch Execution Environment](https://dev.to/aws-builders/exploring-the-potential-of-aws-glue-python-shell-as-a-long-running-batch-execution-environment-56h9)
+- [AltSchool Of Engineering Tinyuka’24 Month 11 Week 4](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-11-week-4-4l27)
+- [S-RCS](https://dev.to/ali_zeynalli_460a35b6c666/s-rcs-a9)
+- [Cooper and TARS: A Model for Human–AI Trust](https://dev.to/ben-santora/cooper-and-tars-a-model-for-human-ai-trust-221m)
+- [Google Just Cut Android AOSP Releases in Half &lpar;And Your Side Project Might Be Screwed&rpar;](https://dev.to/armanalahi/google-just-cut-android-aosp-releases-in-half-and-your-side-project-might-be-screwed-451a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
