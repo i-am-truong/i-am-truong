@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Integrating AWS Services with React: A Practical Guide for Frontend Developers](https://dev.to/aniket_yeole_8c0339c365be/integrating-aws-services-with-react-a-practical-guide-for-frontend-developers-16pn)
+- [lazynginx: a beautiful terminal UI for Nginx management](https://dev.to/giacomomasseron/lazynginx-a-beautiful-terminal-ui-for-nginx-management-2ei4)
 - [Day 9: Iteration vs. Recursion: Analyzing Performance &lpar;Factorial&rpar;](https://dev.to/ujjawal0711/day-9-iteration-vs-recursion-analyzing-performance-factorial-2a1d)
 - [New year🗓️ New Portfolio🌐 Re🔁Fresh start⏭️](https://dev.to/srini047/re-fresh-17ip)
 - [I Built a Portfolio with Next.js 16, React 19 &amp; Tailwind v4 – Here’s What I Learned](https://dev.to/qxr/i-built-a-portfolio-with-nextjs-16-react-19-tailwind-v4-heres-what-i-learned-2k40)
-- [What Is AWS SageMaker, Actually??](https://dev.to/sakshampaliwal/what-is-aws-sagemaker-actually-47kf)
-- [The Bio-Digital Orchard: A Self-Correcting System](https://dev.to/ygo/the-bio-digital-orchard-a-self-correcting-circular-system-55b4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
