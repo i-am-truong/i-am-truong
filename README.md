@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [React Performance Optimization: Advanced Techniques for Lightning-Fast Apps](https://dev.to/sepehr/react-performance-optimization-advanced-techniques-for-lightning-fast-apps-ddj)
-- [Next.js SEO Optimization: Complete Guide to Ranking Higher](https://dev.to/sepehr/nextjs-seo-optimization-complete-guide-to-ranking-higher-321e)
-- [Beginner’s Guide to Git &amp; GitHub Using SSH Keys](https://dev.to/sirsona/beginners-guide-to-git-github-using-ssh-keys-5e7n)
-- [AI the way out of doubt](https://dev.to/aloisseckar/ai-the-way-out-of-doubt-2fbg)
-- [Is Humanoids&#39; Data Appetite Really Endless?](https://dev.to/ankk98/is-humanoids-data-appetite-really-endless-39lj)
+- [⚙️ What is Software Compilation?](https://dev.to/itsmecharan7/what-is-software-compilation-56e)
+- [The Problem No One Talks About in Prisma APIs](https://dev.to/manankanani/the-problem-no-one-talks-about-in-prisma-apis-npc)
+- [What is Code Build?](https://dev.to/itsmecharan7/what-is-code-build-50cn)
+- [What is Code Integration?](https://dev.to/itsmecharan7/what-is-code-integration-1i22)
+- [How Scrapy Actually Works: A Beginner&#39;s Guide](https://dev.to/ikram_khan/how-scrapy-actually-works-a-beginners-guide-11hn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
