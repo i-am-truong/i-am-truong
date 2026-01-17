@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Prompt Engineering Is a Symptom &lpar;And That’s Okay&rpar;](https://dev.to/art_light/prompt-engineering-is-a-symptom-and-thats-okay-3d4l)
-- [Day 21: Fetching Bank Transactions with Python &lpar;Plaid &amp; Wise&rpar;.](https://dev.to/ericrodriguez10/day-21-fetching-bank-transactions-with-python-plaid-wise-jo8)
-- [Integrating AWS Services with React: A Practical Guide for Frontend Developers](https://dev.to/aniket_yeole_8c0339c365be/integrating-aws-services-with-react-a-practical-guide-for-frontend-developers-16pn)
-- [lazynginx: a beautiful terminal UI for Nginx management](https://dev.to/giacomomasseron/lazynginx-a-beautiful-terminal-ui-for-nginx-management-2ei4)
-- [Day 9: Iteration vs. Recursion: Analyzing Performance &lpar;Factorial&rpar;](https://dev.to/ujjawal0711/day-9-iteration-vs-recursion-analyzing-performance-factorial-2a1d)
+- [I Checked My Phone 47 Times Yesterday. Here&#39;s What I&#39;m Building Instead.](https://dev.to/tirthdoshi009/i-checked-my-phone-47-times-yesterday-heres-what-im-building-instead-41fd)
+- [Git for Beginners.](https://dev.to/moraa_omwoyo/git-for-beginners-2c7d)
+- [OCI Generative AI Security: Dedicated GPUs, RDMA Networks, and Enterprise-Grade Data Protection](https://dev.to/derrickryangiggs/oci-generative-ai-security-dedicated-gpus-rdma-networks-and-enterprise-grade-data-protection-265j)
+- [How to push and pull code, track changes and understand version control using Git](https://dev.to/wesley_clark_9ed86994e7a7/how-to-push-and-pull-code-track-changes-and-understand-version-control-using-git-37p2)
+- [How To Detect Memory Drift In Production Agents](https://dev.to/narnaiezzsshaa/how-to-detect-memory-drift-in-production-agents-51cf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
