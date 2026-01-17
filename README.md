@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Checked My Phone 47 Times Yesterday. Here&#39;s What I&#39;m Building Instead.](https://dev.to/tirthdoshi009/i-checked-my-phone-47-times-yesterday-heres-what-im-building-instead-41fd)
-- [Git for Beginners.](https://dev.to/moraa_omwoyo/git-for-beginners-2c7d)
-- [OCI Generative AI Security: Dedicated GPUs, RDMA Networks, and Enterprise-Grade Data Protection](https://dev.to/derrickryangiggs/oci-generative-ai-security-dedicated-gpus-rdma-networks-and-enterprise-grade-data-protection-265j)
-- [How to push and pull code, track changes and understand version control using Git](https://dev.to/wesley_clark_9ed86994e7a7/how-to-push-and-pull-code-track-changes-and-understand-version-control-using-git-37p2)
-- [How To Detect Memory Drift In Production Agents](https://dev.to/narnaiezzsshaa/how-to-detect-memory-drift-in-production-agents-51cf)
+- [An Introduction to Git: Concepts, Commands, and Workflows](https://dev.to/edmund_eryuba/an-introduction-to-git-concepts-commands-and-workflows-1je3)
+- [ML Without Blind Faith Systems, Constraints, and Why “Just Using AI or ML” Often Fails](https://dev.to/shreyaaraghav/ml-without-blind-faithsystems-constraints-and-why-just-using-ai-or-ml-often-fails-3ffd)
+- [CI/CD for AWS Applications](https://dev.to/dipalikulshrestha/cicd-for-aws-applications-2c23)
+- [Prompt Stashing: Git Stash, But For Your Train of Thought](https://dev.to/rajeshroyal/prompt-stashing-git-stash-but-for-your-train-of-thought-2079)
+- [Adding structured data to a Next.js site without losing your mind:](https://dev.to/elyvora_us/adding-structured-data-to-a-nextjs-site-without-losing-your-mind-57kh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
