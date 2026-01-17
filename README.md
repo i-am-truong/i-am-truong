@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Decentralized Perpetual Exchanges Are the Future of Crypto Trading](https://dev.to/evalane898/why-decentralized-perpetual-exchanges-are-the-future-of-crypto-trading-1i11)
-- [Install and Use Portainer on AlmaLinux 10](https://dev.to/anuragsingh01/install-and-use-portainer-on-almalinux-10-277n)
-- [Delivering a Successful AWS Student Community Day](https://dev.to/captain_rishabh_tanwar/delivering-a-successful-aws-student-community-day-3g01)
-- [Building a Tailwind CSS Dropdown Menu](https://dev.to/gufo/building-a-tailwind-css-dropdown-menu-abk)
-- [We Open-Sourced Our AI Calling Framework &lpar;So You Don&#39;t Waste 2-3 Months&rpar;](https://dev.to/siphon/we-open-sourced-our-ai-calling-framework-so-you-dont-waste-2-3-months-4im0)
+- [Beyond Font Scaling: Large Content Viewer with Compose](https://dev.to/eevajonnapanula/beyond-font-scaling-large-content-viewer-with-compose-25c1)
+- [How We Monitor Internal Services Without Opening Firewall Ports](https://dev.to/boop_one/how-we-monitor-internal-services-without-opening-firewall-ports-362j)
+- [I built a random online secret generator in less than 30 minutes using AI](https://dev.to/rehmatworks/i-built-a-random-online-secret-generator-in-less-than-30-minutes-using-ai-2g0b)
+- [3 Tech Pillars For Your Trade Show Booth Exhibition in Atlanta](https://dev.to/radonexhibitionllc/3-tech-pillars-for-your-trade-show-booth-exhibition-in-atlanta-446p)
+- [How Git Works Internally: Understanding the .git Folder](https://dev.to/satyasootar/how-git-works-internally-understanding-the-git-folder-41fk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
