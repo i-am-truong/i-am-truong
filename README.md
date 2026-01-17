@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Beginner&#39;s Guide to Git and GitHub](https://dev.to/austin3560/a-beginners-guide-to-git-and-github-2p5n)
-- [The Quest for the One Language: Why Programming’s “Holy Grail” Doesn’t Exist](https://dev.to/isbhuvan/the-quest-for-the-one-language-why-programmings-holy-grail-doesnt-exist-1p66)
-- [How Instagram Scales Tagging for Billions of Users](https://dev.to/nitheesh_gaddam_e36ec4aa4/how-instagram-scales-tagging-for-billions-of-users-3p79)
-- [Common Mistakes in React Admin Dashboards &lpar;and How to Avoid Them&rpar;](https://dev.to/vaibhavg/common-mistakes-in-react-admin-dashboards-and-how-to-avoid-them-1i70)
-- [Java Solution: Redundant Parenthesis Detection O&lpar;N&rpar;](https://dev.to/rohithv07/java-solution-redundant-parenthesis-detection-on-h17)
+- [Building Decisora: an AI tool to think through decisions &lpar;early feedback welcome&rpar;](https://dev.to/harsha_saiakhila_8d4dd16/building-decisora-an-ai-tool-to-think-through-decisions-early-feedback-welcome-4oj6)
+- [Stop Reinventing Multiplayer Netcode — Here&#39;s How I Built a Universal Protocol](https://dev.to/kohanmathers/stop-reinventing-multiplayer-netcode-heres-how-i-built-a-universal-protocol-117f)
+- [Students Professionals GitHub](https://dev.to/isocyanideisgood/students-x-professionals-x-github-5h5o)
+- [WASI &lpar;WebAssembly System Interface&rpar;](https://dev.to/godofgeeks/wasi-webassembly-system-interface-2ep8)
+- [BEGINNER&#39;S GUIDE TO GIT: PUSH, PULL AND TRACKING CHANGES](https://dev.to/wickliff_odoshe_90f1e35e3/beginners-guide-to-git-push-pull-and-tracking-changes-46l1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
