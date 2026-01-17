@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Beginner&#39;s Guide to Git and GitHub: Version Control Made Simple](https://dev.to/mary_nyambura_b59b512a9e1/beginners-guide-to-git-and-github-version-control-made-simple-1im7)
 - [SQL Queries Every Developer Should Know](https://dev.to/mr_zouraiz/sql-queries-every-developer-should-know-1jd)
 - [Gas Inefficiencies Developers Don&#39;t Notice Until It&#39;s Too Late.](https://dev.to/koxy/gas-inefficiencies-developers-dont-notice-until-its-too-late-2m42)
 - [I built a free focus timer with visual themes and ambient sounds](https://dev.to/vimal_2b88e82b469b/i-built-a-free-focus-timer-with-visual-themes-and-ambient-sounds-2kh9)
 - [A NEWBIE&#39;S GUIDE TO GIT&lpar;gitbash&rpar;.](https://dev.to/juliet_kiplimo_b9a825c95a/a-newbies-guide-to-gitgitbash-1iph)
-- [Feeling stuck in programming is one of the most common phases in a developer’s journey. Here&#39;s a breakdown of why it happens, what it really means for your growth, and how to move forward with clarity, confidence, and sustainable motivation as a programmer](https://dev.to/hadil/feeling-stuck-in-programming-is-one-of-the-most-common-phases-in-a-developers-journey-heres-a-554h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
