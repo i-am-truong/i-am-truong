@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Chainguard&#39; image for secure service](https://dev.to/kination/chainguard-image-for-secure-service-2jio)
+- [The Ultimate Manual: Understanding Git and GitHub without Headche.](https://dev.to/s_ndungu_ebc94c8db8906f72/the-ultimate-manual-understanding-git-and-github-without-headche-43lp)
+- [Wazuh: The Open-Source SIEM That Beats Splunk &lpar;And It&#39;s Completely Free&rpar;](https://dev.to/inboryn_99399f96579fcd705/wazuh-the-open-source-siem-that-beats-splunk-and-its-completely-free-29po)
+- [Throttling Musings with Api Gateway](https://dev.to/aws-builders/throttling-musings-with-api-gateway-53b8)
 - [Delving into data science](https://dev.to/mathew_leshan_0f6642142b2/my-first-week-at-lux-c33)
-- [How to Write a Cover Letter that Lands an Interview in European Tech](https://dev.to/piotr-get-talent/how-to-write-a-cover-letter-that-lands-an-interview-in-european-tech-1aei)
-- [How we built Afina and why WebRTC + QUIC actually matter](https://dev.to/mykytaio/how-we-built-afina-and-why-webrtc-quic-actually-matter-31gh)
-- [Claude Code Keeps Forgetting Your Project? Here&#39;s the Fix &lpar;2026&rpar;](https://dev.to/kiwibreaksme/claude-code-keeps-forgetting-your-project-heres-the-fix-2026-3flm)
-- [🔐 AWS 137: Secure Resource Access - IAM Roles for EC2 and S3](https://dev.to/hritikraj8804/aws-137-secure-resource-access-iam-roles-for-ec2-and-s3-5hg3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
