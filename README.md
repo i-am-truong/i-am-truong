@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Automate Cron Jobs Without Breaking Your Head &lpar;Stop Guessing Syntax&rpar;](https://dev.to/sam_th/how-to-automate-cron-jobs-without-breaking-your-head-stop-guessing-syntax-3a55)
+- [RAG? or Text To SQL](https://dev.to/himanshu_develops/rag-or-text-to-sql-10bc)
+- [The Night I Stopped Building For Myself.](https://dev.to/huckler/the-night-i-stopped-building-for-myself-14mc)
+- [Minimalism Defying Gravity: My Entry for the Google AI Portfolio Challenge 🚀](https://dev.to/rohithv07/minimalism-defying-gravity-my-entry-for-the-google-ai-portfolio-challenge-1i6l)
 - [GraphRAG Pipeline: Airbyte Ingestion to Neo4j Knowledge Graph](https://dev.to/devnotes/graphrag-pipeline-airbyte-ingestion-to-neo4j-knowledge-graph-3h3f)
-- [Serverless AI Agents on Civo: Replacing Docker with WebAssembly &lpar;Spin&rpar; and Rust](https://dev.to/devnotes/serverless-ai-agents-on-civo-replacing-docker-with-webassembly-spin-and-rust-20ch)
-- [Why study Java or C#](https://dev.to/doccaio/why-study-java-or-c-dog)
-- [How I SSH the Cloudflare Tunnel based Home Server](https://dev.to/thirza258/how-i-ssh-the-cloudflare-tunnel-based-home-server-2fpj)
-- [Ethereum-Solidity Quiz Q22: How are functions overridden using the &quot;super&quot; keyword?](https://dev.to/mihaihng/ethereum-solidity-quiz-q22-how-are-functions-overridden-using-the-super-keyword-3128)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
