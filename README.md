@@ -120,9 +120,9 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Git](https://dev.to/user_karta/understanding-git-2h8l)
 - [Express Setup: Simple &amp; Scalable](https://dev.to/link2twenty/express-setup-simple-scalable-3hin)
 - [Git and GitHub for Beginners: A Friendly Guide](https://dev.to/jedidah_ondiso_887753d76e/git-and-github-for-beginners-a-friendly-guide-4hoj)
-- [Clean up your Controllers: Mastering File Uploads](https://dev.to/josemmunozz/clean-up-your-controllers-mastering-file-uploads-in-aspnet-core-with-extension-methods-hjn)
 - [I Needed an APP to Track My Learning Journey, AI built it in less than half an hour with a single prompt](https://dev.to/debs_obrien/i-needed-an-app-to-track-my-learning-journey-ai-built-it-in-less-than-half-an-hour-with-a-single-31c4)
 - [🌽 *orn &lpar;Porn Quitter Conversational AI Agent &rpar;— A Private Recovery Companion in a Week](https://dev.to/abbas7120/corn-a-private-recovery-companion-in-a-week-9bc)
 <!-- BLOG-POST-LIST:END -->
