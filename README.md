@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Common Agile Frameworks](https://dev.to/itsmecharan7/common-agile-frameworks-4kbm)
-- [Tracking Claude Cowork updates feels fragmented — so I started organizing them](https://dev.to/jeff_lee_0b83e9ce1f5070a6/tracking-claude-cowork-updates-feels-fragmented-so-i-started-organizing-them-19hk)
-- [AI advancements span hardware, ethics, and applications from chip efficiency to ethical concerns and educational tools.](https://dev.to/stelixx-insights/ai-advancements-span-hardware-ethics-and-applications-from-chip-efficiency-to-ethical-concerns-gln)
-- [Building an Autonomous Skill-Architecture Agent for Rapid Career Transition](https://dev.to/exploredataaiml/building-an-autonomous-skill-architecture-agent-for-rapid-career-transition-28pn)
-- [How is Agile different from DevOps?](https://dev.to/itsmecharan7/how-is-agile-different-from-devops-3d3j)
+- [Delving into data science](https://dev.to/mathew_leshan_0f6642142b2/my-first-week-at-lux-c33)
+- [How to Write a Cover Letter that Lands an Interview in European Tech](https://dev.to/piotr-get-talent/how-to-write-a-cover-letter-that-lands-an-interview-in-european-tech-1aei)
+- [How we built Afina and why WebRTC + QUIC actually matter](https://dev.to/mykytaio/how-we-built-afina-and-why-webrtc-quic-actually-matter-31gh)
+- [Claude Code Keeps Forgetting Your Project? Here&#39;s the Fix &lpar;2026&rpar;](https://dev.to/kiwibreaksme/claude-code-keeps-forgetting-your-project-heres-the-fix-2026-3flm)
+- [🔐 AWS 137: Secure Resource Access - IAM Roles for EC2 and S3](https://dev.to/hritikraj8804/aws-137-secure-resource-access-iam-roles-for-ec2-and-s3-5hg3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
