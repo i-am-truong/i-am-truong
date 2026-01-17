@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Automatic Language Support: Add a Modern TR/EN Toggle to Any PHP/HTML Site &lpar;Fast&rpar;](https://dev.to/mebularts/automatic-language-support-add-a-modern-tren-toggle-to-any-phphtml-site-fast-4gme)
-- [Day 11 – Functions | Reusable Loan Calculator for Nigerian SMEs](https://dev.to/kinspirecyber/day-11-functions-reusable-loan-calculator-for-nigerian-smes-3bb9)
-- [Create Nicknames for Free Fire](https://dev.to/freefirenation/create-nicknames-for-free-fire-18g6)
-- [Building an AI-Native Data Interface with Google ADK, MCP, and BigQuery](https://dev.to/gde/building-an-ai-native-data-interface-with-google-adk-mcp-and-bigquery-4704)
-- [Keep the User Model Stable &lpar;and Let Everything Else Change&rpar;](https://dev.to/interface/keep-the-user-model-stable-and-let-everything-else-change-2108)
+- [AltSchool Of Engineering Tinyuka’24 Month 11 Week 3](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-11-week-3-aeh)
+- [Understanding the Entity Synonym Mapper in RASA](https://dev.to/aniket_kuyate_15acc4e6587/understanding-the-entity-synonym-mapper-in-rasa-56be)
+- [Why I Built Another Task Runner](https://dev.to/nihilok/why-i-built-another-task-runner-5bn)
+- [Will 2026 Be the Last Year I Write Code by Hand?](https://dev.to/trolzie/2026-be-that-last-year-i-hand-roll-any-code-422e)
+- [Kubernetes namespaces: concepts &amp; key commands](https://dev.to/rohanan07/kubernetes-namespaces-concepts-key-commands-19hj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
