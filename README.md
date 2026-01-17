@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [We Open-Sourced Our AI Calling Framework &lpar;So You Don&#39;t Waste 2-3 Months&rpar;](https://dev.to/siphon/we-open-sourced-our-ai-calling-framework-so-you-dont-waste-2-3-months-4im0)
+- [In the AI Era, a Single Branch Isn&#39;t Enough — git worktree Pockode](https://dev.to/sijiaoh/in-the-ai-era-a-single-branch-isnt-enough-git-worktree-x-pockode-12dn)
+- [From Words to Vectors: How Semantics Traveled from Linguistics to Large Language Models](https://dev.to/vcalproject/from-words-to-vectors-how-semantics-traveled-from-linguistics-to-large-language-models-31f1)
+- [Automating Java Builds with GitHub Actions](https://dev.to/rohithv07/automating-java-builds-with-github-actions-4c0m)
 - [Building a City Boy Meme Generator with Next.js and Fabric.js &lpar;No Watermarks!&rpar;](https://dev.to/_75729aa6b13e505e279f7/building-a-city-boy-meme-generator-with-nextjs-and-fabricjs-no-watermarks-3i85)
-- [Você já ouviu falar do meme do monstro Shoggoth?](https://dev.to/lhayana/voce-ja-ouviu-falar-do-meme-do-monstro-shoggoth-467n)
-- [Importance of Semantic HTML](https://dev.to/richardpascoe/importance-of-semantic-html-3hcm)
-- [Azure Small Language Models: Evaluating Phi-3, Llama 3, and Snowflake Arctic for Production](https://dev.to/jubinsoni/azure-small-language-models-evaluating-phi-3-llama-3-and-snowflake-arctic-for-production-35h6)
-- [Para além do versionamento de código: modelos também devem ser versionados.](https://dev.to/lhayana/para-alem-do-versionamento-de-codigo-modelos-tambem-devem-ser-versionados-4d3k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
