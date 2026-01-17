@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [PDF4WCAG Accessibility Checker for PDF 2.0](https://dev.to/katash/pdf4wcag-accessibility-checker-for-pdf-20-4oji)
-- [RSA Performance Anatomy: Why is &#39;Verification&#39; Blazing Fast and &#39;Signing&#39; Extremely Slow?](https://dev.to/kanywst/rsa-performance-anatomy-why-is-verification-blazing-fast-and-signing-extremely-slow-13af)
-- [Turning ASCII folder trees into real project structures &lpar;built this while experimenting&rpar;](https://dev.to/tancannon2003/turning-ascii-folder-trees-into-real-project-structures-built-this-while-experimenting-4c8g)
-- [🧩 I Built a Privacy-First Chrome Extension to Collect Public Emails from LinkedIn](https://dev.to/yagnesh97/i-built-a-privacy-first-chrome-extension-to-collect-public-emails-from-linkedin-3mjg)
-- [Instagram Data Breach: Unpacking the Exposure of 17.5 Million Users](https://dev.to/dd8888/instagram-data-breach-unpacking-the-exposure-of-175-million-users-4m79)
+- [Getting Started with AEM: On-Prem vs AEM Cloud &lpar;In Simple Terms&rpar;](https://dev.to/vishnu_rachapudi_75e73248/getting-started-with-aem-on-prem-vs-aem-cloud-in-simple-terms-351c)
+- [Quark&#39;s Outlines: Python Basic Customization](https://dev.to/mike-vincent/quarks-outlines-python-basic-customization-428k)
+- [Simplifying Multimodal Inputs: Using Public URLs with the Gemini API](https://dev.to/railsstudent/simplifying-multimodal-inputs-using-public-urls-with-the-gemini-api-3458)
+- [AI Travel Convenience](https://dev.to/rawveg/ai-travel-convenience-2nke)
+- [Building a resilient, scalable AWS Lambda + S3 architecture](https://dev.to/afzal442/building-a-resilient-scalable-aws-lambda-s3-architecture-3ldc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
