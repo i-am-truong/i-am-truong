@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🌽 *orn — A Private Recovery Companion in a Week](https://dev.to/abbas7120/corn-a-private-recovery-companion-in-a-week-9bc)
+- [Git and GitHub for Beginners: A Friendly Guide](https://dev.to/jedidah_ondiso_887753d76e/git-and-github-for-beginners-a-friendly-guide-4hoj)
+- [Clean up your Controllers: Mastering File Uploads](https://dev.to/josemmunozz/clean-up-your-controllers-mastering-file-uploads-in-aspnet-core-with-extension-methods-hjn)
+- [I Needed an APP to Track My Learning Journey, AI built it in less than half an hour with a single prompt](https://dev.to/debs_obrien/i-needed-an-app-to-track-my-learning-journey-ai-built-it-in-less-than-half-an-hour-with-a-single-31c4)
+- [🌽 *orn &lpar;Porn Quitter Conversational AI Agent &rpar;— A Private Recovery Companion in a Week](https://dev.to/abbas7120/corn-a-private-recovery-companion-in-a-week-9bc)
 - [How to DoS A server](https://dev.to/andreyscott/how-to-dos-a-server-452h)
-- [ActivityPub: Protocolo para Redes Descentralizadas](https://dev.to/rafaelbonilha/activitypub-protocolo-para-redes-descentralizadas-425e)
-- [From Funnels to Pipelines: Why I’m Trading Digital Marketing for DevOps](https://dev.to/sumit-jha/from-funnels-to-pipelines-why-im-trading-digital-marketing-for-devops-3e08)
-- [Production-Grade Spring Boot APIs — Part 3: Consistent Responses &amp; Global Exception Handling](https://dev.to/pratik280/production-grade-spring-boot-apis-part-3-consistent-responses-global-exception-handling-47c2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
