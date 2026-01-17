@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Build Your 10-Person Engineering Team with Universal Agent](https://dev.to/web3nomad/build-your-10-person-engineering-team-with-universal-agent-1anc)
-- [Laravel API Inspector - Auto Generate API Documentation](https://dev.to/fazle_rabbi/laravel-api-inspector-auto-generate-api-documentation-56fd)
-- [&#39;Chainguard&#39; image for secure service](https://dev.to/kination/chainguard-image-for-secure-service-2jio)
-- [The Ultimate Manual: Understanding Git and GitHub without Headche.](https://dev.to/s_ndungu_ebc94c8db8906f72/the-ultimate-manual-understanding-git-and-github-without-headche-43lp)
-- [Wazuh: The Open-Source SIEM That Beats Splunk &lpar;And It&#39;s Completely Free&rpar;](https://dev.to/inboryn_99399f96579fcd705/wazuh-the-open-source-siem-that-beats-splunk-and-its-completely-free-29po)
+- [Java Solution: Redundant Parenthesis Detection O&lpar;N&rpar;](https://dev.to/rohithv07/java-solution-redundant-parenthesis-detection-on-h17)
+- [I Built AI Virtual Staging tool](https://dev.to/atharvtathe/i-built-ai-virtual-staging-tool-44k2)
+- [🚨 One filename change. Zero errors. Production broken.](https://dev.to/devnamdev/one-filename-change-zero-errors-production-broken-2kp1)
+- [Building an AI SaaS system is possible; however, when you build the SaaS system, you should have ethical considerations at the centre. If you don&#39;t have ethics at the centre, then your model will work but won&#39;t have any trust.](https://dev.to/jaideepparashar/building-an-ai-saas-system-is-possible-however-when-you-build-the-saas-system-you-should-have-2kib)
+- [What No One Tells You About Building an AI SaaS Business](https://dev.to/jaideepparashar/what-no-one-tells-you-about-building-an-ai-saas-business-2nhe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
