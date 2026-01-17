@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Inevitable Cost of &quot;Free&quot;: Why OpenAI&#39;s Ads Are Just the Beginning](https://dev.to/sivarampg/the-inevitable-cost-of-free-why-openais-ads-are-just-the-beginning-4dl)
+- [Defending the Skies: Anti-Jamming and GPS Spoofing in UAVs](https://dev.to/asikarastallion/defending-the-skies-anti-jamming-and-gps-spoofing-in-uavs-4968)
 - [SnippHub – A forum to discover and discuss the best code snippets](https://dev.to/mathieu_drapala_5f52e7b9e/snipphub-a-forum-to-discover-and-discuss-the-best-code-snippets-2nl0)
 - [Most Unique UI Libraries Built On ShadCN!](https://dev.to/ariflogs/most-unique-ui-libraries-built-on-shadcn-3bgf)
 - [MCP Weekly: The Agentic Explosion Hits Commerce, Work, and Cloud](https://dev.to/om_shree_0709/mcp-weekly-the-agentic-explosion-hits-commerce-work-and-cloud-11ne)
-- [Deploying and Configuring ALB Ingress Controller on EKS](https://dev.to/taufique_c757012ce6181590/deploying-and-configuring-alb-ingress-controller-on-eks-1g7o)
-- [Messaging &amp; Event Driven design](https://dev.to/dipalikulshrestha/messaging-event-driven-design-i8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
