@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Basics of Git and GitHub](https://dev.to/nganga_njongo/basics-of-git-and-github-1bh1)
+- [🚀 &quot;Vector Sharding&quot;: How to Organize a Library That Has No Alphabet 📚🧩](https://dev.to/charanpool/vector-sharding-how-to-organize-a-library-that-has-no-alphabet-40dk)
+- [Understand The Capabilities And Limitations Of Generative AI For Solving Business Problems](https://dev.to/aws-builders/understand-the-capabilities-and-limitations-of-generative-ai-for-solving-business-problems-5fk7)
 - [Deep Dive: Why Rust-Based Tooling is Dominating JavaScript in 2026](https://dev.to/dataformathub/deep-dive-why-rust-based-tooling-is-dominating-javascript-in-2026-3dbl)
 - [Enterprise-Grade Access Control for Python Apps - Battle-Tested &amp; Open Source](https://dev.to/maneesh_thakur_d16c2852fa/enterprise-grade-access-control-for-python-apps-battle-tested-open-source-5c5k)
-- [SQLAlchemy Architecture — Notes from a Beginner Learning Backend](https://dev.to/akash_a74ce19b1daf04b4891/sqlalchemy-architecture-notes-from-a-beginner-learning-backend-5bdn)
-- [Building Decisora: an AI tool to think through decisions &lpar;early feedback welcome&rpar;](https://dev.to/harsha_saiakhila_8d4dd16/building-decisora-an-ai-tool-to-think-through-decisions-early-feedback-welcome-4oj6)
-- [Stop Reinventing Multiplayer Netcode — Here&#39;s How I Built a Universal Protocol](https://dev.to/kohanmathers/stop-reinventing-multiplayer-netcode-heres-how-i-built-a-universal-protocol-117f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
