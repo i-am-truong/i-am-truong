@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [PDF4WCAG Accessibility Checker for PDF 2.0](https://dev.to/katash/pdf4wcag-accessibility-checker-for-pdf-20-4oji)
+- [RSA Performance Anatomy: Why is &#39;Verification&#39; Blazing Fast and &#39;Signing&#39; Extremely Slow?](https://dev.to/kanywst/rsa-performance-anatomy-why-is-verification-blazing-fast-and-signing-extremely-slow-13af)
+- [Turning ASCII folder trees into real project structures &lpar;built this while experimenting&rpar;](https://dev.to/tancannon2003/turning-ascii-folder-trees-into-real-project-structures-built-this-while-experimenting-4c8g)
+- [🧩 I Built a Privacy-First Chrome Extension to Collect Public Emails from LinkedIn](https://dev.to/yagnesh97/i-built-a-privacy-first-chrome-extension-to-collect-public-emails-from-linkedin-3mjg)
 - [Instagram Data Breach: Unpacking the Exposure of 17.5 Million Users](https://dev.to/dd8888/instagram-data-breach-unpacking-the-exposure-of-175-million-users-4m79)
-- [Beyond Font Scaling: Large Content Viewer with Compose](https://dev.to/eevajonnapanula/beyond-font-scaling-large-content-viewer-with-compose-25c1)
-- [How We Monitor Internal Services Without Opening Firewall Ports](https://dev.to/boop_one/how-we-monitor-internal-services-without-opening-firewall-ports-362j)
-- [I built a random online secret generator in less than 30 minutes using AI](https://dev.to/rehmatworks/i-built-a-random-online-secret-generator-in-less-than-30-minutes-using-ai-2g0b)
-- [3 Tech Pillars For Your Trade Show Booth Exhibition in Atlanta](https://dev.to/radonexhibitionllc/3-tech-pillars-for-your-trade-show-booth-exhibition-in-atlanta-446p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
