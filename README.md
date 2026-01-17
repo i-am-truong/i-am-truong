@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [React Coding Challenge : TypeHead](https://dev.to/zeeshanali0704/react-coding-challenge-typehead-1kdf)
-- [Linux Learning Journey – Day 6: SSH, Remote Access &amp; Connecting from Windows 🐧💻](https://dev.to/avinashwagh/linux-learning-journey-day-6-ssh-remote-access-connecting-from-windows-5ei)
-- [Exploring the Potential of AWS Glue Python Shell as a Long-Running Batch Execution Environment](https://dev.to/aws-builders/exploring-the-potential-of-aws-glue-python-shell-as-a-long-running-batch-execution-environment-56h9)
-- [AltSchool Of Engineering Tinyuka’24 Month 11 Week 4](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-11-week-4-4l27)
-- [S-RCS](https://dev.to/ali_zeynalli_460a35b6c666/s-rcs-a9)
+- [Messaging &amp; Event Driven design](https://dev.to/dipalikulshrestha/messaging-event-driven-design-i8)
+- [Learning Git &amp; GitHub as a Data Engineering Student at LuxDevHQ](https://dev.to/peter_amoro_fccf1d029a084/learning-git-github-as-a-data-engineering-student-at-luxdevhq-4co2)
+- [GitHub Copilot Should Use .copilot, Not .github](https://dev.to/innoo/github-copilot-should-use-copilot-not-github-4jdj)
+- [C# Loops &lpar;for, foreach, while, do-while&rpar;](https://dev.to/allcoderthings/c-loops-for-foreach-while-do-while-11fo)
+- [SC #6: Petición web con async/await](https://dev.to/david_goyes_a488f58a17a53/sc-6-peticion-web-con-asyncawait-56f8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
