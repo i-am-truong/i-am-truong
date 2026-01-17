@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Don&#39;t we all look forward to code-review full time?](https://dev.to/naugtur/dont-we-all-look-forward-to-code-review-full-time-1la5)
+- [We Cut AWS Onboarding from 7 Days to 1 Hour with Terragrunt &lpar;Here&#39;s How&rpar;](https://dev.to/paril_sanghvi_bf1c9276086/we-cut-aws-onboarding-from-7-days-to-1-hour-with-terragrunt-heres-how-54f0)
+- [Airalo eSIM vs. Competitors: The Brutal Truth About Roaming Data](https://dev.to/ii-x/airalo-esim-vs-competitors-the-brutal-truth-about-roaming-data-5d83)
 - [Understanding Git](https://dev.to/user_karta/understanding-git-2h8l)
-- [Express Setup: Simple &amp; Scalable](https://dev.to/link2twenty/express-setup-simple-scalable-3hin)
-- [Git and GitHub for Beginners: A Friendly Guide](https://dev.to/jedidah_ondiso_887753d76e/git-and-github-for-beginners-a-friendly-guide-4hoj)
-- [I Needed an APP to Track My Learning Journey, AI built it in less than half an hour with a single prompt](https://dev.to/debs_obrien/i-needed-an-app-to-track-my-learning-journey-ai-built-it-in-less-than-half-an-hour-with-a-single-31c4)
-- [🌽 *orn &lpar;Porn Quitter Conversational AI Agent &rpar;— A Private Recovery Companion in a Week](https://dev.to/abbas7120/corn-a-private-recovery-companion-in-a-week-9bc)
+- [Git for Beginners: Push, Pull, and Track Your Code Without Fear](https://dev.to/kahindikv/git-for-beginners-push-pull-and-track-your-code-without-fear-4k82)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
