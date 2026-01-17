@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [An Introduction to Git: Concepts, Commands, and Workflows](https://dev.to/edmund_eryuba/an-introduction-to-git-concepts-commands-and-workflows-1je3)
-- [ML Without Blind Faith Systems, Constraints, and Why “Just Using AI or ML” Often Fails](https://dev.to/shreyaaraghav/ml-without-blind-faithsystems-constraints-and-why-just-using-ai-or-ml-often-fails-3ffd)
-- [CI/CD for AWS Applications](https://dev.to/dipalikulshrestha/cicd-for-aws-applications-2c23)
-- [Prompt Stashing: Git Stash, But For Your Train of Thought](https://dev.to/rajeshroyal/prompt-stashing-git-stash-but-for-your-train-of-thought-2079)
-- [Adding structured data to a Next.js site without losing your mind:](https://dev.to/elyvora_us/adding-structured-data-to-a-nextjs-site-without-losing-your-mind-57kh)
+- [LinkedIn&#39;s AI Post Generator: The Good, The Bad, and The Surprisingly Human](https://dev.to/synergistdigitalmedia/linkedins-ai-post-generator-the-good-the-bad-and-the-surprisingly-human-p14)
+- [Leafwiki Devlog #7: v0.6.1 - Introducing Backlinks + Better Search &lpar;SQLite FTS5&rpar; 🌿](https://dev.to/perber/leafwiki-devlog-7-v061-introducing-backlinks-better-search-sqlite-fts5-1llo)
+- [I Let AI Write Most of My Code for a Month. Here’s What Happened.](https://dev.to/kzeitar/i-let-ai-write-most-of-my-code-for-a-month-heres-what-happened-3b30)
+- [Teaching an Old Dog New Tricks.](https://dev.to/mary_kariuki_944435052aa9/teaching-an-old-dog-new-tricks-9pn)
+- [Understanding MCP Through a Simple Example: A Practical Introduction](https://dev.to/hashcode01/understanding-mcp-through-a-simple-example-a-practical-introduction-3bp7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
