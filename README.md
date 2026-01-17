@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with AEM: On-Prem vs AEM Cloud &lpar;In Simple Terms&rpar;](https://dev.to/vishnu_rachapudi_75e73248/getting-started-with-aem-on-prem-vs-aem-cloud-in-simple-terms-351c)
-- [Quark&#39;s Outlines: Python Basic Customization](https://dev.to/mike-vincent/quarks-outlines-python-basic-customization-428k)
-- [Simplifying Multimodal Inputs: Using Public URLs with the Gemini API](https://dev.to/railsstudent/simplifying-multimodal-inputs-using-public-urls-with-the-gemini-api-3458)
-- [AI Travel Convenience](https://dev.to/rawveg/ai-travel-convenience-2nke)
-- [Building a resilient, scalable AWS Lambda + S3 architecture](https://dev.to/afzal442/building-a-resilient-scalable-aws-lambda-s3-architecture-3ldc)
+- [Automatic Language Support: Add a Modern TR/EN Toggle to Any PHP/HTML Site &lpar;Fast&rpar;](https://dev.to/mebularts/automatic-language-support-add-a-modern-tren-toggle-to-any-phphtml-site-fast-4gme)
+- [Day 11 – Functions | Reusable Loan Calculator for Nigerian SMEs](https://dev.to/kinspirecyber/day-11-functions-reusable-loan-calculator-for-nigerian-smes-3bb9)
+- [Create Nicknames for Free Fire](https://dev.to/freefirenation/create-nicknames-for-free-fire-18g6)
+- [Building an AI-Native Data Interface with Google ADK, MCP, and BigQuery](https://dev.to/gde/building-an-ai-native-data-interface-with-google-adk-mcp-and-bigquery-4704)
+- [Keep the User Model Stable &lpar;and Let Everything Else Change&rpar;](https://dev.to/interface/keep-the-user-model-stable-and-let-everything-else-change-2108)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
