@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SnippHub – A forum to discover and discuss the best code snippets](https://dev.to/mathieu_drapala_5f52e7b9e/snipphub-a-forum-to-discover-and-discuss-the-best-code-snippets-2nl0)
+- [Most Unique UI Libraries Built On ShadCN!](https://dev.to/ariflogs/most-unique-ui-libraries-built-on-shadcn-3bgf)
+- [MCP Weekly: The Agentic Explosion Hits Commerce, Work, and Cloud](https://dev.to/om_shree_0709/mcp-weekly-the-agentic-explosion-hits-commerce-work-and-cloud-11ne)
 - [Messaging &amp; Event Driven design](https://dev.to/dipalikulshrestha/messaging-event-driven-design-i8)
-- [Learning Git &amp; GitHub as a Data Engineering Student at LuxDevHQ](https://dev.to/peter_amoro_fccf1d029a084/learning-git-github-as-a-data-engineering-student-at-luxdevhq-4co2)
-- [GitHub Copilot Should Use .copilot, Not .github](https://dev.to/innoo/github-copilot-should-use-copilot-not-github-4jdj)
-- [C# Loops &lpar;for, foreach, while, do-while&rpar;](https://dev.to/allcoderthings/c-loops-for-foreach-while-do-while-11fo)
-- [SC #6: Petición web con async/await](https://dev.to/david_goyes_a488f58a17a53/sc-6-peticion-web-con-asyncawait-56f8)
+- [Supercharge Your PHP Projects with Flight&#39;s Native AI Integration in 2026](https://dev.to/n0nag0n/supercharge-your-php-projects-with-flights-native-ai-integration-in-2026-5eoo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
