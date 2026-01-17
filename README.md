@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GraphRAG Pipeline: Airbyte Ingestion to Neo4j Knowledge Graph](https://dev.to/devnotes/graphrag-pipeline-airbyte-ingestion-to-neo4j-knowledge-graph-3h3f)
+- [Serverless AI Agents on Civo: Replacing Docker with WebAssembly &lpar;Spin&rpar; and Rust](https://dev.to/devnotes/serverless-ai-agents-on-civo-replacing-docker-with-webassembly-spin-and-rust-20ch)
+- [Why study Java or C#](https://dev.to/doccaio/why-study-java-or-c-dog)
+- [How I SSH the Cloudflare Tunnel based Home Server](https://dev.to/thirza258/how-i-ssh-the-cloudflare-tunnel-based-home-server-2fpj)
 - [Ethereum-Solidity Quiz Q22: How are functions overridden using the &quot;super&quot; keyword?](https://dev.to/mihaihng/ethereum-solidity-quiz-q22-how-are-functions-overridden-using-the-super-keyword-3128)
-- [How to share what you know &lpar;without becoming an influencer&rpar;](https://dev.to/andreagriffiths11/how-to-share-what-you-know-without-becoming-an-influencer-3cke)
-- [Death of &quot;Vibe Coding&quot;: Engineering Intent in the Age of Autonomous Agents](https://dev.to/n-is/the-death-of-the-prompt-engineering-intent-in-the-age-of-autonomous-agents-2852)
-- [Core Architectural Components of Microsoft Azure &lpar;with Real-World Architecture Example&rpar;](https://dev.to/toniaken/core-architectural-components-of-microsoft-azure-with-real-world-architecture-example-lj5)
-- [How I Built a Mortgage Calculator That Actually Helps People Save $200K+ &lpar;Next.js + Real Math&rpar;](https://dev.to/wernerpj_purens_jaco/how-i-built-a-mortgage-calculator-that-actually-helps-people-save-200k-nextjs-real-math-44)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
