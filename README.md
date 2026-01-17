@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Prompt Engineering Is a Symptom &lpar;And That’s Okay&rpar;](https://dev.to/art_light/prompt-engineering-is-a-symptom-and-thats-okay-3d4l)
+- [Day 21: Fetching Bank Transactions with Python &lpar;Plaid &amp; Wise&rpar;.](https://dev.to/ericrodriguez10/day-21-fetching-bank-transactions-with-python-plaid-wise-jo8)
 - [Integrating AWS Services with React: A Practical Guide for Frontend Developers](https://dev.to/aniket_yeole_8c0339c365be/integrating-aws-services-with-react-a-practical-guide-for-frontend-developers-16pn)
 - [lazynginx: a beautiful terminal UI for Nginx management](https://dev.to/giacomomasseron/lazynginx-a-beautiful-terminal-ui-for-nginx-management-2ei4)
 - [Day 9: Iteration vs. Recursion: Analyzing Performance &lpar;Factorial&rpar;](https://dev.to/ujjawal0711/day-9-iteration-vs-recursion-analyzing-performance-factorial-2a1d)
-- [New year🗓️ New Portfolio🌐 Re🔁Fresh start⏭️](https://dev.to/srini047/re-fresh-17ip)
-- [I Built a Portfolio with Next.js 16, React 19 &amp; Tailwind v4 – Here’s What I Learned](https://dev.to/qxr/i-built-a-portfolio-with-nextjs-16-react-19-tailwind-v4-heres-what-i-learned-2k40)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
