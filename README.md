@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Built My Own Open-Source PDF Tool](https://dev.to/manojkumar_achanta/built-my-own-open-source-pdf-tool-450m)
-- [Enterprise-Grade Node.js with NestJS: Building Scalable Backend Architecture](https://dev.to/muhammad_zulqarnainakram/enterprise-grade-nodejs-with-nestjs-building-scalable-backend-architecture-9om)
-- [I May Be Wrong](https://dev.to/chenhunghan/i-may-be-wrong-2oal)
-- [Material vs Material Instance: My Beginner Realization](https://dev.to/dinesh_04/material-vs-material-instance-my-beginner-realization-18fn)
-- [Basics of Git and GitHub](https://dev.to/nganga_njongo/basics-of-git-and-github-1bh1)
+- [React Performance Optimization: Advanced Techniques for Lightning-Fast Apps](https://dev.to/sepehr/react-performance-optimization-advanced-techniques-for-lightning-fast-apps-ddj)
+- [Next.js SEO Optimization: Complete Guide to Ranking Higher](https://dev.to/sepehr/nextjs-seo-optimization-complete-guide-to-ranking-higher-321e)
+- [Beginner’s Guide to Git &amp; GitHub Using SSH Keys](https://dev.to/sirsona/beginners-guide-to-git-github-using-ssh-keys-5e7n)
+- [AI the way out of doubt](https://dev.to/aloisseckar/ai-the-way-out-of-doubt-2fbg)
+- [Is Humanoids&#39; Data Appetite Really Endless?](https://dev.to/ankk98/is-humanoids-data-appetite-really-endless-39lj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
