@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Built My Own Open-Source PDF Tool](https://dev.to/manojkumar_achanta/built-my-own-open-source-pdf-tool-450m)
+- [Enterprise-Grade Node.js with NestJS: Building Scalable Backend Architecture](https://dev.to/muhammad_zulqarnainakram/enterprise-grade-nodejs-with-nestjs-building-scalable-backend-architecture-9om)
+- [I May Be Wrong](https://dev.to/chenhunghan/i-may-be-wrong-2oal)
+- [Material vs Material Instance: My Beginner Realization](https://dev.to/dinesh_04/material-vs-material-instance-my-beginner-realization-18fn)
 - [Basics of Git and GitHub](https://dev.to/nganga_njongo/basics-of-git-and-github-1bh1)
-- [🚀 &quot;Vector Sharding&quot;: How to Organize a Library That Has No Alphabet 📚🧩](https://dev.to/charanpool/vector-sharding-how-to-organize-a-library-that-has-no-alphabet-40dk)
-- [Understand The Capabilities And Limitations Of Generative AI For Solving Business Problems](https://dev.to/aws-builders/understand-the-capabilities-and-limitations-of-generative-ai-for-solving-business-problems-5fk7)
-- [Deep Dive: Why Rust-Based Tooling is Dominating JavaScript in 2026](https://dev.to/dataformathub/deep-dive-why-rust-based-tooling-is-dominating-javascript-in-2026-3dbl)
-- [Enterprise-Grade Access Control for Python Apps - Battle-Tested &amp; Open Source](https://dev.to/maneesh_thakur_d16c2852fa/enterprise-grade-access-control-for-python-apps-battle-tested-open-source-5c5k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
