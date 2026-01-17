@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Anti-Realtime Manifesto: Why I spent 8 years building a Python Audio DSP Library](https://dev.to/dominiquegrys/the-anti-realtime-manifesto-why-i-spent-8-years-building-a-python-audio-dsp-library-idm)
+- [Refactoring Your Resume](https://dev.to/apmedev/refactoring-your-resume-4hji)
 - [Columns &amp; Data Types in Oracle: What Actually Stuck on Day 2 &lpar;As a Beginner&rpar;](https://dev.to/mazinocodes/columns-data-types-in-oracle-what-actually-stuck-on-day-2-as-a-beginner-3k95)
 - [Developer Job Boards I Actually Used](https://dev.to/apmedev/developer-job-boards-i-actually-used-3j1b)
 - [Using Google AI Studio to generate a brand new Developer Portfolio](https://dev.to/tscherrer05/using-google-ai-studio-to-generate-a-brand-new-developer-portfolio-19la)
-- [Building Generative Art Step by Step — A Node Garden Example](https://dev.to/usapopopooon/building-generative-art-step-by-step-a-node-garden-example-3o6h)
-- [Weeks 2 &amp; 3 - Loops, Strings, Functions &amp; Why &quot;Understanding&quot; is Different from &quot;Making it Work.&quot;](https://dev.to/precixphantom/weeks-2-3-loops-strings-functions-why-understanding-is-different-from-making-it-work-j9b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
