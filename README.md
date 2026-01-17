@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Guide to Git and GitHub for Data Analysts](https://dev.to/cyrus_ndungu_79376c09c059/a-guide-to-git-and-github-for-data-analysts-2n1a)
+- [📦 What is Software Packaging?](https://dev.to/itsmecharan7/what-is-software-packaging-4cij)
+- [Create a Telegram bot quote bot in Ruby](https://dev.to/slick_phantom/create-a-telegram-bot-quote-bot-in-ruby-2j85)
 - [⚙️ What is Software Compilation?](https://dev.to/itsmecharan7/what-is-software-compilation-56e)
 - [The Problem No One Talks About in Prisma APIs](https://dev.to/manankanani/the-problem-no-one-talks-about-in-prisma-apis-npc)
-- [What is Code Build?](https://dev.to/itsmecharan7/what-is-code-build-50cn)
-- [What is Code Integration?](https://dev.to/itsmecharan7/what-is-code-integration-1i22)
-- [How Scrapy Actually Works: A Beginner&#39;s Guide](https://dev.to/ikram_khan/how-scrapy-actually-works-a-beginners-guide-11hn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
