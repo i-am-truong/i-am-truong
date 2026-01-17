@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting started with GitHub](https://dev.to/tonny-o/getting-started-with-github-4547)
+- [Understanding Backpropagation with Python Examples — Part 3](https://dev.to/rijultp/understanding-backpropagation-with-python-examples-part-3-mdj)
+- [Production-Grade Spring Boot APIs — Part 2: Clean Code Structure, Controllers &amp; DTOs](https://dev.to/pratik280/production-grade-spring-boot-apis-part-2-clean-code-structure-controllers-dtos-80j)
 - [Git Bash &lpar;Pull and Push code, track changes and version control&rpar;](https://dev.to/geraldm/git-bash-pull-and-push-code-track-changes-and-version-control-e8p)
 - [Git for Beginners](https://dev.to/dennis_ogaka_2d188ab5bef7/git-for-beginners-3l5n)
-- [How I built a Movie Suggestion CLI](https://dev.to/rxshim/how-i-built-a-movie-suggestion-cli-bcg)
-- [Construindo uma Tabela com Shadcn, Tanstack Table e Virtualização e Infinite Scroll.](https://dev.to/miqstelles/construindo-uma-tabela-com-shadcn-tanstack-table-e-virtualizacao-e-infinite-scroll-2hn6)
-- [Building Bags.fm Embeds: A Free Tool to Make Crypto Community Support Visible](https://dev.to/sivarampg/building-bagsfm-embeds-a-free-tool-to-make-crypto-community-support-visible-5em2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
