@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Automate Cron Jobs Without Breaking Your Head &lpar;Stop Guessing Syntax&rpar;](https://dev.to/sam_th/how-to-automate-cron-jobs-without-breaking-your-head-stop-guessing-syntax-3a55)
-- [RAG? or Text To SQL](https://dev.to/himanshu_develops/rag-or-text-to-sql-10bc)
-- [The Night I Stopped Building For Myself.](https://dev.to/huckler/the-night-i-stopped-building-for-myself-14mc)
-- [Minimalism Defying Gravity: My Entry for the Google AI Portfolio Challenge 🚀](https://dev.to/rohithv07/minimalism-defying-gravity-my-entry-for-the-google-ai-portfolio-challenge-1i6l)
-- [GraphRAG Pipeline: Airbyte Ingestion to Neo4j Knowledge Graph](https://dev.to/devnotes/graphrag-pipeline-airbyte-ingestion-to-neo4j-knowledge-graph-3h3f)
+- [What Is AWS SageMaker, Actually??](https://dev.to/sakshampaliwal/what-is-aws-sagemaker-actually-47kf)
+- [The Bio-Digital Orchard: A Self-Correcting System](https://dev.to/ygo/the-bio-digital-orchard-a-self-correcting-circular-system-55b4)
+- [From System Transactions to User Transactions in SQLite](https://dev.to/lovestaco/from-system-transactions-to-user-transactions-in-sqlite-3mki)
+- [I Built a Library to Reduce Hand Tremor in Drawing Apps](https://dev.to/usapopopooon/i-built-a-library-to-reduce-hand-tremor-in-drawing-apps-33ng)
+- [How to Make Your Portfolio Speak to HR, Not Just Hiring Managers](https://dev.to/imtaslim/how-to-make-your-portfolio-speak-to-hr-not-just-hiring-managers-372k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
