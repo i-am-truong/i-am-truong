@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Build Your 10-Person Engineering Team with Universal Agent](https://dev.to/web3nomad/build-your-10-person-engineering-team-with-universal-agent-1anc)
+- [Laravel API Inspector - Auto Generate API Documentation](https://dev.to/fazle_rabbi/laravel-api-inspector-auto-generate-api-documentation-56fd)
 - [&#39;Chainguard&#39; image for secure service](https://dev.to/kination/chainguard-image-for-secure-service-2jio)
 - [The Ultimate Manual: Understanding Git and GitHub without Headche.](https://dev.to/s_ndungu_ebc94c8db8906f72/the-ultimate-manual-understanding-git-and-github-without-headche-43lp)
 - [Wazuh: The Open-Source SIEM That Beats Splunk &lpar;And It&#39;s Completely Free&rpar;](https://dev.to/inboryn_99399f96579fcd705/wazuh-the-open-source-siem-that-beats-splunk-and-its-completely-free-29po)
-- [Throttling Musings with Api Gateway](https://dev.to/aws-builders/throttling-musings-with-api-gateway-53b8)
-- [Delving into data science](https://dev.to/mathew_leshan_0f6642142b2/my-first-week-at-lux-c33)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
