@@ -123,8 +123,8 @@ Python                   1 repo              █░░░░░░░░░░�
 - [SnippHub – A forum to discover and discuss the best code snippets](https://dev.to/mathieu_drapala_5f52e7b9e/snipphub-a-forum-to-discover-and-discuss-the-best-code-snippets-2nl0)
 - [Most Unique UI Libraries Built On ShadCN!](https://dev.to/ariflogs/most-unique-ui-libraries-built-on-shadcn-3bgf)
 - [MCP Weekly: The Agentic Explosion Hits Commerce, Work, and Cloud](https://dev.to/om_shree_0709/mcp-weekly-the-agentic-explosion-hits-commerce-work-and-cloud-11ne)
+- [Deploying and Configuring ALB Ingress Controller on EKS](https://dev.to/taufique_c757012ce6181590/deploying-and-configuring-alb-ingress-controller-on-eks-1g7o)
 - [Messaging &amp; Event Driven design](https://dev.to/dipalikulshrestha/messaging-event-driven-design-i8)
-- [Supercharge Your PHP Projects with Flight&#39;s Native AI Integration in 2026](https://dev.to/n0nag0n/supercharge-your-php-projects-with-flights-native-ai-integration-in-2026-5eoo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
