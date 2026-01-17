@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Interfacing Reyax RYLR999 LoRa Module with Arduino](https://dev.to/rachna62/interfacing-reyax-rylr999-lora-module-with-arduino-2pj0)
+- [Early Preview: krnr - A CLI Tool for Saving and Re-Running Shell Workflows](https://dev.to/voxdroid/early-preview-krnr-a-cli-tool-for-saving-and-re-running-shell-workflows-14bj)
+- [Git for Data Scientists &amp; Data Engineers — my very first beginner guide &lpar;Git Bash + GitHub&rpar;](https://dev.to/charles_ndungu/git-for-data-scientists-data-engineers-my-very-first-beginner-guide-git-bash-github-3952)
+- [Today I Started Understanding useReducer &lpar;Not Fully, But Enough to Continue&rpar;](https://dev.to/usama_dev/today-i-started-understanding-usereducer-not-fully-but-enough-to-continue-3731)
 - [New scripting language](https://dev.to/tayenp/new-scripting-language-4m6e)
-- [5 Awesome Ways to Deploy Flowise](https://dev.to/yulei-chen/5-awesome-ways-to-deploy-flowise-4882)
-- [AltSchool Of Engineering Tinyuka’24 Month 11 Week 3](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-11-week-3-aeh)
-- [Understanding the Entity Synonym Mapper in RASA](https://dev.to/aniket_kuyate_15acc4e6587/understanding-the-entity-synonym-mapper-in-rasa-56be)
-- [Why I Built Another Task Runner](https://dev.to/nihilok/why-i-built-another-task-runner-5bn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
