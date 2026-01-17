@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GIT BASICS: UNDERSTAND VERSIN CONTROL, TRACK CHANGES, PUSH AND PULL CODES FOR BEGINNERS](https://dev.to/miranda1gatwiri/git-basics-understand-versin-control-track-changes-push-and-pull-codes-for-beginners-4a5l)
+- [Wasma indepent-full WM,compositor,UI-fronted](https://dev.to/zamanhuseyinli/wasma-indepent-full-wmcompositorui-fronted-4hne)
 - [Don&#39;t we all look forward to code-review full time?](https://dev.to/naugtur/dont-we-all-look-forward-to-code-review-full-time-1la5)
 - [We Cut AWS Onboarding from 7 Days to 1 Hour with Terragrunt &lpar;Here&#39;s How&rpar;](https://dev.to/paril_sanghvi_bf1c9276086/we-cut-aws-onboarding-from-7-days-to-1-hour-with-terragrunt-heres-how-54f0)
 - [Airalo eSIM vs. Competitors: The Brutal Truth About Roaming Data](https://dev.to/ii-x/airalo-esim-vs-competitors-the-brutal-truth-about-roaming-data-5d83)
-- [Understanding Git](https://dev.to/user_karta/understanding-git-2h8l)
-- [Git for Beginners: Push, Pull, and Track Your Code Without Fear](https://dev.to/kahindikv/git-for-beginners-push-pull-and-track-your-code-without-fear-4k82)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
