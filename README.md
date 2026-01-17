@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Scroll Restoration in React Router](https://dev.to/tene/scroll-restoration-in-react-router-4gnm)
-- [Day 2 — Linear Regression: How a Straight Line Learns From Data](https://dev.to/brains_behind_bots/day-2-linear-regression-how-a-straight-line-learns-from-data-222l)
-- [C# 14 - Null Conditional Assignment in .NET10](https://dev.to/jplazaro/c-14-null-conditional-assignment-in-net10-1mc9)
-- [Here are a few options, from most direct to most developer-focused: **Option 1 &lpar;Direct &amp; Punchy&rpar;:** Solved: How I Got Played...](https://dev.to/techresolve/here-are-a-few-options-from-most-direct-to-most-developer-focused-option-1-direct--13he)
-- [Solved: I want to learn scripting for powershell](https://dev.to/techresolve/solved-i-want-to-learn-scripting-for-powershell-1nl)
+- [SQL Queries Every Developer Should Know](https://dev.to/mr_zouraiz/sql-queries-every-developer-should-know-1jd)
+- [Gas Inefficiencies Developers Don&#39;t Notice Until It&#39;s Too Late.](https://dev.to/koxy/gas-inefficiencies-developers-dont-notice-until-its-too-late-2m42)
+- [I built a free focus timer with visual themes and ambient sounds](https://dev.to/vimal_2b88e82b469b/i-built-a-free-focus-timer-with-visual-themes-and-ambient-sounds-2kh9)
+- [A NEWBIE&#39;S GUIDE TO GIT&lpar;gitbash&rpar;.](https://dev.to/juliet_kiplimo_b9a825c95a/a-newbies-guide-to-gitgitbash-1iph)
+- [Feeling stuck in programming is one of the most common phases in a developer’s journey. Here&#39;s a breakdown of why it happens, what it really means for your growth, and how to move forward with clarity, confidence, and sustainable motivation as a programmer](https://dev.to/hadil/feeling-stuck-in-programming-is-one-of-the-most-common-phases-in-a-developers-journey-heres-a-554h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
