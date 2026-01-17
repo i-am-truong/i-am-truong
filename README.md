@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 New Year, New You — My AI-Powered Portfolio](https://dev.to/senthiltechspot/new-year-new-you-my-ai-powered-portfolio-2kjg)
-- [Git and GitHub: A Beginner&#39;s Guide](https://dev.to/ngigi_nyawira_a938a3f3847/git-and-github-a-beginners-guide-4lb6)
-- [From Shaky Squats to Perfect Form: Master Workout Analysis with Dynamic Time Warping &lpar;DTW&rpar;](https://dev.to/beck_moulton/from-shaky-squats-to-perfect-form-master-workout-analysis-with-dynamic-time-warping-dtw-20pn)
-- [n8n Integrates Note, Obsidian, Dify, and SNS - Complete Overview of the Increasingly Chaotic Automation Workflow](https://dev.to/takashi_abe_c6e5ce4004697/n8n-integrates-note-obsidian-dify-and-sns-complete-overview-of-the-increasingly-chaotic-23bi)
-- [# Building a Clean REST API in Go: From Spaghetti Code to Clean Architecture](https://dev.to/paulbabatuyi/-building-a-clean-rest-api-in-go-from-spaghetti-code-to-clean-architecture-k8j)
+- [Building Blackjack for the Terminal: My First Python Project](https://dev.to/jonathan_key_2bcfb58189bf/building-blackjack-for-the-terminal-my-first-python-project-1dmi)
+- [BrainRunner &lpar;1m&rpar;](https://dev.to/celia_gonzlez_ad37da4de5/brainrunner-1m-5hj8)
+- [Race to the Bottom: Weaponizing Concurrency , PART 1 . #THREADING](https://dev.to/7mo_sec/race-to-the-bottom-weaponizing-concurrency-part-1-threading-2h7m)
+- [End-to-End MLOps Project: Customer Churn Prediction](https://dev.to/koteswararao_j_262f1ca27f/end-to-end-mlops-project-customer-churn-prediction-nbi)
+- [Datadog: Observability Lessons from 50+ AWS Apps](https://dev.to/aws-builders/datadog-observability-lessons-from-50-aws-apps-37h4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
