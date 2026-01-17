@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Python to OpenGL: A Modern, Cross-Platform Survival Guide for OSU CS-450](https://dev.to/juan_guerrerobarria_ec1b/from-python-to-opengl-a-modern-cross-platform-survival-guide-for-osu-cs-450-50pk)
+- [A Mario-Style Developer Site Built with AI and Deployed to Cloud Run](https://dev.to/serhii_serdiuk_dev/a-mario-style-developer-site-built-with-ai-and-deployed-to-cloud-run-32p2)
+- [Automating Threat Intel: How I Built a Fast, Containerised IP Triage Tool](https://dev.to/shynsec/automating-threat-intel-how-i-built-a-fast-containerised-ip-triage-tool-dfk)
+- [From Python to OpenGL: A Modern, Cross-Platform Survival Guide for OSU CS-450](https://dev.to/thejuanguerrero/from-python-to-opengl-a-modern-cross-platform-survival-guide-for-osu-cs-450-50pk)
 - [My plan for 2026.](https://dev.to/naviny0/my-plan-for-2026-2klh)
 - [Coding Challenge Practice - Question 105](https://dev.to/tomivan/coding-challenge-practice-question-105-423m)
-- [Git &amp; GitHub: A Beginner’s Guide to Version Control for Data Professionals](https://dev.to/ondieki_frank_978157c56c6/git-github-a-beginners-guide-to-version-control-for-data-professionals-5a94)
-- [UNDERSTANDING VERSION CONTROL USING GIT : FOR BEGINNERS](https://dev.to/motanga/understanding-version-control-using-git-for-beginners-21ah)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
