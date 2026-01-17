@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Service Mesh Never Took Off &lpar;Despite Being Incredibly Powerful&rpar;](https://dev.to/rex_zhen_a9a8400ee9f22e98/why-service-mesh-never-took-off-despite-being-incredibly-powerful-3fao)
 - [The Anti-Realtime Manifesto: Why I spent 8 years building a Python Audio DSP Library](https://dev.to/dominiquegrys/the-anti-realtime-manifesto-why-i-spent-8-years-building-a-python-audio-dsp-library-idm)
 - [Refactoring Your Resume](https://dev.to/apmedev/refactoring-your-resume-4hji)
 - [Columns &amp; Data Types in Oracle: What Actually Stuck on Day 2 &lpar;As a Beginner&rpar;](https://dev.to/mazinocodes/columns-data-types-in-oracle-what-actually-stuck-on-day-2-as-a-beginner-3k95)
 - [Developer Job Boards I Actually Used](https://dev.to/apmedev/developer-job-boards-i-actually-used-3j1b)
-- [Using Google AI Studio to generate a brand new Developer Portfolio](https://dev.to/tscherrer05/using-google-ai-studio-to-generate-a-brand-new-developer-portfolio-19la)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
