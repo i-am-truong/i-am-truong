@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 9: Iteration vs. Recursion: Analyzing Performance &lpar;Factorial&rpar;](https://dev.to/ujjawal0711/day-9-iteration-vs-recursion-analyzing-performance-factorial-2a1d)
+- [New year🗓️ New Portfolio🌐 Re🔁Fresh start⏭️](https://dev.to/srini047/re-fresh-17ip)
+- [I Built a Portfolio with Next.js 16, React 19 &amp; Tailwind v4 – Here’s What I Learned](https://dev.to/qxr/i-built-a-portfolio-with-nextjs-16-react-19-tailwind-v4-heres-what-i-learned-2k40)
 - [What Is AWS SageMaker, Actually??](https://dev.to/sakshampaliwal/what-is-aws-sagemaker-actually-47kf)
 - [The Bio-Digital Orchard: A Self-Correcting System](https://dev.to/ygo/the-bio-digital-orchard-a-self-correcting-circular-system-55b4)
-- [From System Transactions to User Transactions in SQLite](https://dev.to/lovestaco/from-system-transactions-to-user-transactions-in-sqlite-3mki)
-- [I Built a Library to Reduce Hand Tremor in Drawing Apps](https://dev.to/usapopopooon/i-built-a-library-to-reduce-hand-tremor-in-drawing-apps-33ng)
-- [How to Make Your Portfolio Speak to HR, Not Just Hiring Managers](https://dev.to/imtaslim/how-to-make-your-portfolio-speak-to-hr-not-just-hiring-managers-372k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
