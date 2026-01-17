@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Decentralized Perpetual Exchanges Are the Future of Crypto Trading](https://dev.to/evalane898/why-decentralized-perpetual-exchanges-are-the-future-of-crypto-trading-1i11)
+- [Install and Use Portainer on AlmaLinux 10](https://dev.to/anuragsingh01/install-and-use-portainer-on-almalinux-10-277n)
+- [Delivering a Successful AWS Student Community Day](https://dev.to/captain_rishabh_tanwar/delivering-a-successful-aws-student-community-day-3g01)
 - [Building a Tailwind CSS Dropdown Menu](https://dev.to/gufo/building-a-tailwind-css-dropdown-menu-abk)
 - [We Open-Sourced Our AI Calling Framework &lpar;So You Don&#39;t Waste 2-3 Months&rpar;](https://dev.to/siphon/we-open-sourced-our-ai-calling-framework-so-you-dont-waste-2-3-months-4im0)
-- [In the AI Era, a Single Branch Isn&#39;t Enough — git worktree Pockode](https://dev.to/sijiaoh/in-the-ai-era-a-single-branch-isnt-enough-git-worktree-x-pockode-12dn)
-- [From Words to Vectors: How Semantics Traveled from Linguistics to Large Language Models](https://dev.to/vcalproject/from-words-to-vectors-how-semantics-traveled-from-linguistics-to-large-language-models-31f1)
-- [Automating Java Builds with GitHub Actions](https://dev.to/rohithv07/automating-java-builds-with-github-actions-4c0m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
