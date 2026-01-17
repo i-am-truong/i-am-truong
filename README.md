@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From Python to OpenGL: A Modern, Cross-Platform Survival Guide for OSU CS-450](https://dev.to/juan_guerrerobarria_ec1b/from-python-to-opengl-a-modern-cross-platform-survival-guide-for-osu-cs-450-50pk)
+- [My plan for 2026.](https://dev.to/naviny0/my-plan-for-2026-2klh)
 - [Coding Challenge Practice - Question 105](https://dev.to/tomivan/coding-challenge-practice-question-105-423m)
 - [Git &amp; GitHub: A Beginner’s Guide to Version Control for Data Professionals](https://dev.to/ondieki_frank_978157c56c6/git-github-a-beginners-guide-to-version-control-for-data-professionals-5a94)
 - [UNDERSTANDING VERSION CONTROL USING GIT : FOR BEGINNERS](https://dev.to/motanga/understanding-version-control-using-git-for-beginners-21ah)
-- [GIT BASICS: UNDERSTAND VERSIN CONTROL, TRACK CHANGES, PUSH AND PULL CODES FOR BEGINNERS](https://dev.to/miranda1gatwiri/git-basics-understand-versin-control-track-changes-push-and-pull-codes-for-beginners-4a5l)
-- [Wasma indepent-full WM,compositor,UI-fronted](https://dev.to/zamanhuseyinli/wasma-indepent-full-wmcompositorui-fronted-4hne)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
