@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [MCP Inspector is Now Stable: A Browser-Based Tool for Testing MCP Servers](https://dev.to/punkpeye/mcp-inspector-is-now-stable-a-browser-based-tool-for-testing-mcp-servers-4dim)
-- [What Happens When a Gold Mining Professional Tries Vibe Coding?](https://dev.to/marcus_briggs/what-happens-when-a-gold-mining-professional-tries-vibe-coding-1o6o)
-- [How to Create a Striking Grayscale Effect](https://dev.to/anthony_dito_8fad7bcb4ad3/how-to-create-a-striking-grayscale-effect-1gd1)
-- [The Most Dangerous Bug Is the One That Doesn’t Crash](https://dev.to/vortex_shadow_8bce7f9fe36/the-most-dangerous-bug-is-the-one-that-doesnt-crash-1250)
-- [How I Built My 8-Bit Portfolio with Claude Opus 4.5 on Antigravity](https://dev.to/jakiru5/how-i-built-my-8-bit-portfolio-with-claude-opus-45-on-antigravity-3a1j)
+- [Columns &amp; Data Types in Oracle: What Actually Stuck on Day 2 &lpar;As a Beginner&rpar;](https://dev.to/mazinocodes/columns-data-types-in-oracle-what-actually-stuck-on-day-2-as-a-beginner-3k95)
+- [Using Google AI Studio to generate a brand new Developer Portfolio](https://dev.to/tscherrer05/using-google-ai-studio-to-generate-a-brand-new-developer-portfolio-19la)
+- [Building Generative Art Step by Step — A Node Garden Example](https://dev.to/usapopopooon/building-generative-art-step-by-step-a-node-garden-example-3o6h)
+- [2026-01-17 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2026-01-17-daily-ai-news-2e0e)
+- [Stop Drawing Stacks: Seeing Drupal on AWS as a Graph](https://dev.to/iamarsh/stop-drawing-stacks-seeing-drupal-on-aws-as-a-graph-1j1b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
