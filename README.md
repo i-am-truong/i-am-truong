@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a local-first AWS cost killer in Go &lpar;Open Source&rpar;](https://dev.to/drskyle/i-built-a-local-first-aws-cost-killer-in-go-open-source-gi)
-- [Building an Autonomous Skill-Architecture Agent for Rapid Career Transition](https://dev.to/exploredataaiml/building-an-autonomous-skill-architecture-agent-for-rapid-career-transition-don)
-- [Setup MonoRepo in Nest.js](https://dev.to/asibul_hasan_5fe57cd945b8/setup-monorepo-in-nestjs-dj4)
-- [From Dust to Dev Tool: &lpar;Part 2&rpar;](https://dev.to/ranganath_reddy_a430259d3/from-dust-to-dev-tool-part-2-20m4)
-- [DevOps Solves the Problems of the Waterfall Model](https://dev.to/itsmecharan7/devops-solves-the-problems-of-the-waterfall-model-1aba)
+- [🚀 Common Agile Frameworks](https://dev.to/itsmecharan7/common-agile-frameworks-4kbm)
+- [Tracking Claude Cowork updates feels fragmented — so I started organizing them](https://dev.to/jeff_lee_0b83e9ce1f5070a6/tracking-claude-cowork-updates-feels-fragmented-so-i-started-organizing-them-19hk)
+- [AI advancements span hardware, ethics, and applications from chip efficiency to ethical concerns and educational tools.](https://dev.to/stelixx-insights/ai-advancements-span-hardware-ethics-and-applications-from-chip-efficiency-to-ethical-concerns-gln)
+- [Building an Autonomous Skill-Architecture Agent for Rapid Career Transition](https://dev.to/exploredataaiml/building-an-autonomous-skill-architecture-agent-for-rapid-career-transition-28pn)
+- [How is Agile different from DevOps?](https://dev.to/itsmecharan7/how-is-agile-different-from-devops-3d3j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
