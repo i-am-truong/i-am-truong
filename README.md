@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Getting Started with Git and GitHub: A Beginner’s Guide](https://dev.to/njokijoan003commits/getting-started-with-git-and-github-a-beginners-guide-2k93)
 - [Humans, Machines, and Ratatouille 🐀](https://dev.to/iacriolla/humans-machines-and-ratatouille-2d4p)
 - [Conversation Flow Control: When Users Don’t Follow Your Script](https://dev.to/faraz_farhan_83ed23a154a2/conversation-flow-control-when-users-dont-follow-your-script-1d07)
 - [🎯 Choosing Between WebSocket and Socket.io: A Decision Every Dev Faces](https://dev.to/mayankrsagar/choosing-between-websocket-and-socketio-a-decision-every-dev-faces-3g2d)
 - [Introducing Symbols](https://dev.to/nikoloza/introducing-symbols-1ffj)
-- [Interface vs Abstract class](https://dev.to/sota_333ad4b72095606ab40c/interface-vs-abstract-class-1gi7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
