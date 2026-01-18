@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hey world, I made a programming language &lpar;and it’s alive!&rpar;](https://dev.to/swifteexstudio/hey-world-i-made-a-programming-language-and-its-alive-1154)
-- [Result Pattern in C#](https://dev.to/adrianbailador/result-pattern-in-c-fal)
-- [🤖 AI SEO for Modern Web Applications &lpar;Next.js, TS &amp; JS&rpar;](https://dev.to/hbkabir004/ai-seo-for-modern-web-applications-nextjs-ts-js-4fo8)
-- [ElevenLabs: $99/mo vs. Kokoro + VoxCPM: $0 &lpar;Better Quality&rpar; 🎙️](https://dev.to/_aparna_pradhan_/elevenlabs-99mo-vs-kokoro-voxcpm-0-better-quality-1p47)
-- [🔥 Claude Opus 4.5 vs GPT 5.2 High vs Gemini 3 Pro: Production Coding Test ✅](https://dev.to/tensorlake/claude-opus-45-vs-gpt-52-high-vs-gemini-3-pro-production-coding-test-25of)
+- [Compliance ohne Chaos: Wie TimeSpin® die Zeiterfassung in Rechtsanwaltskanzleien zum Effizienz-Turbo macht](https://dev.to/thomasdelfing_de/compliance-ohne-chaos-wie-timespinr-die-zeiterfassung-in-rechtsanwaltskanzleien-zum-cn2)
+- [I Built a Markup Language for AI Agent Task Output](https://dev.to/suede/i-built-a-markup-language-for-ai-agent-task-output-2l65)
+- [The first four](https://dev.to/lizmat/the-first-four-2b5p)
+- [How the Internet Actually Works: From Your Device to the Server](https://dev.to/satyasootar/how-the-internet-actually-works-from-your-device-to-the-server-pie)
+- [AWS Nova: AI That Scales Cheap](https://dev.to/sakshampaliwal/aws-nova-ai-that-scales-cheap-4ape)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
