@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Can AI Image Generators Replace Professional Photographers in 2026?](https://dev.to/sarahmitchell/can-ai-image-generators-replace-professional-photographers-in-2026-34ke)
-- [A Beginner’s Guide to Using Git Bash and GitHub](https://dev.to/mutuku_joseph_74/a-beginners-guide-to-using-git-bash-and-github-5eb9)
-- [My Learnings from Planning AWS Student Community Day Peshawar 2025](https://dev.to/hafsajavedpak/my-learnings-from-planning-aws-student-community-day-peshawar-2025-2l2b)
-- [Adding Multi-Lingual Support in React](https://dev.to/shubham_gupta_6f6c50fefd4/adding-multi-lingual-support-in-react-i90)
-- [The Rabbit Hole of Linux Commands](https://dev.to/bhupeshchandrajoshi/the-rabbit-hole-of-linux-commands-36oe)
+- [Git for Beginners: How to Push &amp; Pull Code, Track Changes, and Understand Version Control](https://dev.to/jim_kinyua_3f7d191b865bed/git-for-beginners-how-to-push-pull-code-track-changes-and-understand-version-control-4443)
+- [The difference between devrel and social media marketing](https://dev.to/lacryptorina/the-difference-between-devrel-and-social-media-marketing-4d0l)
+- [Git And GitHub For Students &amp; Beginners Understanding Basic Version Control And Collaboration](https://dev.to/samuel_owino/git-and-github-for-students-beginners-understanding-basic-version-control-and-collaboration-1flm)
+- [Why Your Engineering Wiki is a Graveyard &lpar;And How to Fix It&rpar;](https://dev.to/kislay/why-your-engineering-wiki-is-a-graveyard-and-how-to-fix-it-4ef)
+- [Docker Sandboxes: A Deep Dive into Secure AI Agent Isolation](https://dev.to/ajeetraina/getting-started-with-docker-sandboxes-a-complete-hands-on-tutorials-and-guide-15b2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
