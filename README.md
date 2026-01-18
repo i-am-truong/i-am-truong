@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding ReLU Through Visual Python Examples](https://dev.to/rijultp/understanding-relu-through-visual-python-examples-1k1n)
+- [Hitori](https://dev.to/orsenthil/hitori-4bn6)
 - [5 Proven Ways Tech Pros Can Optimize LinkedIn Profiles to Get Noticed by Recruiters in 2024](https://dev.to/saber-amani/5-proven-ways-tech-pros-can-optimize-linkedin-profiles-to-get-noticed-by-recruiters-in-2024-2le3)
 - [ast2ast v0.5: Translate R Functions to Optimized C++: Now with automatic differentiation!](https://dev.to/konrad1991/ast2ast-v05-translate-r-functions-to-optimized-c-now-with-automatic-differentiation-mf1)
 - [Azure Practice Day 1](https://dev.to/devopsdynamicshub/azure-practice-day-1-1kp8)
-- [The Core Architectural Components of Azure](https://dev.to/awokay/the-core-architectural-components-of-azure-3bc4)
-- [Mastering the Fetch API with Real‑Life JavaScript Examples](https://dev.to/mdfahim18/mastering-the-fetch-api-with-real-life-javascript-examples-eke)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
