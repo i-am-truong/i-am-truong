@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🥙🥗 Guide Nutritionnel : Aliments classés par valeur calorique](https://dev.to/davidscanu/guide-nutritionnel-aliments-classes-par-valeur-calorique-3h63)
-- [Getting started with Git and GitHub.](https://dev.to/victor_ochieng_e9/getting-started-with-git-and-github-98o)
-- [Engineering Adaptation: Solana&#39;s Roadmap and LPKWJ Tech Perspectives](https://dev.to/lpkwj/engineering-adaptation-solanas-roadmap-and-lpkwj-tech-perspectives-20k4)
-- [My AI-Powered Portfolio: A Birthday Gift to Myself](https://dev.to/khongorzulmunkhbat/my-ai-powered-portfolio-a-birthday-gift-to-myself-k7k)
-- [A Python based MCP server calculator tool](https://dev.to/darshan_karanth_d4eae027b/a-python-based-mcp-server-calculator-tool-km4)
+- [Basics of using Git](https://dev.to/valgrace/basics-of-using-git-171a)
+- [Git for beginners: Track changes, push and pull code.](https://dev.to/twisted21/git-for-beginners-track-changes-push-and-pull-code-4kbe)
+- [Essential Git Bash Commands for Pushing and Pulling Code on GitHub](https://dev.to/kithokoi/essential-git-bash-commands-for-pushing-and-pulling-code-on-github-40mb)
+- [Solved: Real-time Server Health Monitoring: Grafana to Telegram Integration](https://dev.to/techresolve/solved-real-time-server-health-monitoring-grafana-to-telegram-integration-24j2)
+- [A BEGINNER&#39;S GUIDE TO GIT](https://dev.to/nashipae_ntungani_8eae55/a-beginners-guide-to-git-325g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
