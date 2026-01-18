@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From To launch Completely Guide For Developers To Build Startups](https://dev.to/thebitforge/from-to-launch-completely-guide-for-developers-to-build-startups-58k5)
-- [New Security Teammate:AWS Security Agent](https://dev.to/zek/new-security-teammateaws-security-agent-3493)
-- [I Read an Engineering Blog Every Day for 3 Months; Here&#39;s What I Learned](https://dev.to/franklin_oladipo_c5adf1bd/i-read-an-engineering-blog-every-day-for-3-months-heres-what-i-learned-5bc3)
-- [The 3 Biggest Trends in Backend Development &lpar;2024-2026&rpar;](https://dev.to/yodev_grego/the-3-biggest-trends-in-backend-development-2024-2026-24co)
-- [MCP Development With Haskell, Cloud Run, and Gemini CLI](https://dev.to/xbill/mcp-development-with-haskell-cloud-run-and-gemini-cli-4en0)
+- [I Built Qreasure: QR Code Treasure Hunts in Minutes, Now 50% Off](https://dev.to/vulcanwm/i-built-qreasure-qr-code-treasure-hunts-in-minutes-now-50-off-17l3)
+- [Build a Self-Evolving Memory Agent in 150 Lines](https://dev.to/narnaiezzsshaa/build-a-self-evolving-memory-agent-in-150-lines-lad)
+- [Building Production AI: A Three-Part MLOps Journey - Pt.2](https://dev.to/afrologicinsect/building-production-ai-a-three-part-mlops-journey-pt2-415m)
+- [Stop Reading Raw Stacktraces: AI-Powered Java Thread Dump Analysis with MCP](https://dev.to/irockel/stop-reading-raw-stacktraces-ai-powered-java-thread-dump-analysis-with-mcp-4673)
+- [Building an Executable Chain to Understand Composable Systems](https://dev.to/ssj256x/building-an-executable-chain-to-understand-composable-systems-4j3n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
