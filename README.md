@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to copy Free Fire Name Copy by UID](https://dev.to/freefirenation_edito/how-to-copy-free-fire-name-copy-by-uid-3oeo)
-- [I Have Bipolar II and I&#39;m a Software Engineering Manager. Here&#39;s What Actually Works.](https://dev.to/sweetpapa/i-have-bipolar-ii-and-im-a-software-engineering-manager-heres-what-actually-works-c14)
-- [Building Production AI: A Three-Part MLOps Journey - Pt.2](https://dev.to/afrologicinsect/building-production-ai-a-three-part-mlops-journey-pt2-4f7j)
-- [Building Production AI: A Three-Part MLOps Journey](https://dev.to/afrologicinsect/building-production-ai-a-three-part-mlops-journey-38a8)
-- [How to compare between two id in free fire](https://dev.to/freefirenation_edito/how-to-compare-between-two-id-in-free-fire-2hha)
+- [I Read an Engineering Blog Every Day for 3 Months; Here&#39;s What I Learned](https://dev.to/franklin_oladipo_c5adf1bd/i-read-an-engineering-blog-every-day-for-3-months-heres-what-i-learned-5bc3)
+- [The 3 Biggest Trends in Backend Development &lpar;2024-2026&rpar;](https://dev.to/yodev_grego/the-3-biggest-trends-in-backend-development-2024-2026-24co)
+- [MCP Development With Haskell, Cloud Run, and Gemini CLI](https://dev.to/xbill/mcp-development-with-haskell-cloud-run-and-gemini-cli-4en0)
+- [What Is an LLM? How ChatGPT, GPT &amp; AI Language Models Really Work &lpar;Beginner Guide&rpar;](https://dev.to/prabhasg56/what-is-an-llm-how-chatgpt-gpt-ai-language-models-really-work-beginner-guide-1l1a)
+- [Why Most Developer Startups Fail Before Launch: The Brutal Truths Nobody Tells You](https://dev.to/thebitforge/why-most-developer-startups-fail-before-launch-the-brutal-truths-nobody-tells-you-1848)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
