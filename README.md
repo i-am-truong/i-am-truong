@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI&#39;s Hidden Environmental Cost: What Every Developer Should Know](https://dev.to/bdubs/ais-hidden-environmental-cost-what-every-developer-should-know-17db)
 - [A Eficiência do Cache no SQLite](https://dev.to/justaguyfrombr/a-eficiencia-do-cache-no-sqlite-n0n)
-- [E2E: Prevent over-coupling to UI](https://dev.to/spo0q/e2e-prevent-over-coupling-to-ui-iad)
-- [Python vs Ruby - I built the same github analyzer with both](https://dev.to/fabianfrankwerner/python-vs-ruby-i-built-the-same-github-analyzer-with-both-51gj)
-- [All About Git &amp; Git-Hub: Beginner&#39;s guide on relationship between git&amp; git-hub, installation, linking both tools to launching.](https://dev.to/seme_clive_4242bd50f332cb/all-about-git-git-hub-beginners-guide-on-relationship-between-git-git-hub-installation-5h42)
-- [Production Is Not a Joke: A Lesson I Learned the Hard Way](https://dev.to/victor1890/production-is-not-a-joke-a-lesson-i-learned-the-hard-way-5blo)
+- [Digital Board Game 00](https://dev.to/meduza3/digital-board-game-00-4hkc)
+- [Building DownloadStuffs: A Modern UI for the Internet Archive](https://dev.to/dawaman43/building-downloadstuffs-a-modern-ui-for-the-internet-archive-18j4)
+- [How to Compete in B2B Sales Without Trashing Your Rivals](https://dev.to/paultowers/how-to-compete-in-b2b-sales-without-trashing-your-rivals-4n3c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
