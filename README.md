@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From To launch Completely Guide For Developers To Build Startups](https://dev.to/thebitforge/from-to-launch-completely-guide-for-developers-to-build-startups-58k5)
+- [New Security Teammate:AWS Security Agent](https://dev.to/zek/new-security-teammateaws-security-agent-3493)
 - [I Read an Engineering Blog Every Day for 3 Months; Here&#39;s What I Learned](https://dev.to/franklin_oladipo_c5adf1bd/i-read-an-engineering-blog-every-day-for-3-months-heres-what-i-learned-5bc3)
 - [The 3 Biggest Trends in Backend Development &lpar;2024-2026&rpar;](https://dev.to/yodev_grego/the-3-biggest-trends-in-backend-development-2024-2026-24co)
 - [MCP Development With Haskell, Cloud Run, and Gemini CLI](https://dev.to/xbill/mcp-development-with-haskell-cloud-run-and-gemini-cli-4en0)
-- [Merging and Branching in DevOps.](https://dev.to/onyemuche/merging-and-branching-in-devops-36nj)
-- [What Is an LLM? How ChatGPT, GPT &amp; AI Language Models Really Work &lpar;Beginner Guide&rpar;](https://dev.to/prabhasg56/what-is-an-llm-how-chatgpt-gpt-ai-language-models-really-work-beginner-guide-1l1a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
