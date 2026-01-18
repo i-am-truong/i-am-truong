@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [This is for testing](https://dev.to/ganeshmani/this-is-for-testing-1na6)
+- [How to Create City Boy Meme](https://dev.to/_75729aa6b13e505e279f7/how-to-create-city-boy-meme-40h2)
 - [From Academia to Industry: The World Is Bigger Than You Thought](https://dev.to/eduardogade/from-academia-to-industry-the-world-is-bigger-than-you-thought-3em0)
 - [Unleashing DevOps with Automated VM Labs: Vagrant + Libvirt + Ansible 🚀](https://dev.to/ken_mwaura1/unleashing-devops-with-automated-vm-labs-vagrant-libvirt-ansible-2gmk)
 - [Getting Started with 2D Games Using Pyxel &lpar;Part 15&rpar;: Tunnel Dodge Game 2 &lpar;Sample&rpar;](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-pyxel-part-15-tunnel-dodge-game-2-sample-lgd)
-- [Solving Erdos 281 with ChatGPT 5.2 Pro: A New Era for AI in Mathematics](https://dev.to/dd8888/solving-erdos-281-with-chatgpt-52-pro-a-new-era-for-ai-in-mathematics-538k)
-- [The Untouchable Hacker God: Deciphering Finland&#39;s Biggest Cybercrime](https://dev.to/dd8888/the-untouchable-hacker-god-deciphering-finlands-biggest-cybercrime-3apc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
