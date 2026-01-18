@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Beginner’s Guide to Git Bash and GitHub: Pushing, Pulling, and Version Control](https://dev.to/githinji_victormaina_627/a-beginners-guide-to-git-bash-and-github-pushing-pulling-and-version-control-45fm)
-- [Understanding Git: How it tracks, pushes and pulls code on Ubuntu](https://dev.to/damaac/understanding-git-how-it-tracks-pushes-and-pulls-code-on-ubuntu-4aai)
-- [Simplest GIT and GITHUB explanation.](https://dev.to/kamanda_bryan_cfaa74051ef/simplest-git-and-github-explanation-1a4)
-- [Prompt Engineering is becoming obsolete!](https://dev.to/tom_neijman_fcbbd8589da01/prompt-engineering-is-becoming-obsolete-3ojn)
-- [GIT AND GITHUB FOR BEGINNERS:HOW TO TRACK CHANGES,PUSH AND PULL CODE](https://dev.to/godfrey_babu_507967f0d166/git-and-github-for-beginnershow-to-track-changespush-and-pull-code-28fm)
+- [MongoDB compared to Oracle Maximum Availability Architecture](https://dev.to/franckpachot/mongodb-compared-to-oracle-maximum-availability-architecture-mpl)
+- [Introduction to Git Bash and GitHub for Beginners](https://dev.to/sirphilip/introduction-to-git-bash-and-github-for-beginners-43on)
+- [Getting Started with Git and GitHub: A Beginner&#39;s Guide](https://dev.to/malaika-musee/getting-started-with-git-and-github-a-beginners-guide-20d5)
+- [System Design Interview was HARD, until I Mastered these Concepts](https://dev.to/somadevtoo/system-design-interview-was-hard-until-i-mastered-these-concepts-3239)
+- [Job Hunting in South Africa 2026: A Technical Guide &amp; Top 10 Tools for Success](https://dev.to/ridwan_sassman_3d07/job-hunting-in-south-africa-2026-a-technical-guide-top-10-tools-for-success-ojn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
