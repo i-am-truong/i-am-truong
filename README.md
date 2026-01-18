@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [E2E: Prevent over-coupling to UI](https://dev.to/spo0q/e2e-prevent-over-coupling-to-ui-iad)
+- [Python vs Ruby - I built the same github analyzer with both](https://dev.to/fabianfrankwerner/python-vs-ruby-i-built-the-same-github-analyzer-with-both-51gj)
 - [All About Git &amp; Git-Hub: Beginner&#39;s guide on relationship between git&amp; git-hub, installation, linking both tools to launching.](https://dev.to/seme_clive_4242bd50f332cb/all-about-git-git-hub-beginners-guide-on-relationship-between-git-git-hub-installation-5h42)
 - [Production Is Not a Joke: A Lesson I Learned the Hard Way](https://dev.to/victor1890/production-is-not-a-joke-a-lesson-i-learned-the-hard-way-5blo)
 - [Introducing a Rate Limiter Library for Go](https://dev.to/yasserelgammal/introducing-a-rate-limiter-library-for-go-42nf)
-- [From Glasses to Code - The Personal Journey Behind Harmonia Vision](https://dev.to/agusrdz/from-glasses-to-code-the-personal-journey-behind-harmonia-vision-1ofc)
-- [Just chatting with AI makes me smarter &lpar;C Intrinsics&rpar;](https://dev.to/charmpic/just-chatting-with-ai-makes-me-smarter-c-intrinsics-705)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
