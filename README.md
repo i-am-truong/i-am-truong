@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ReactJS Hook Pattern ~Use Hook with Promises~](https://dev.to/kkr0423/reactjs-hook-pattern-use-hook-with-promises-9g9)
-- [The Knowledge Base That Lied to 10,000 Customers &lpar;And How We Caught It&rpar;](https://dev.to/faraz_farhan_83ed23a154a2/the-knowledge-base-that-lied-to-10000-customers-and-how-we-caught-it-3gm4)
-- [CSS @scope: advanced nesting](https://dev.to/effnd/css-scope-advanced-nesting-485e)
-- [Version Control](https://dev.to/victor_ds/version-control-1dk4)
-- [Ditching the Access Key: Implementing IAM Roles Anywhere for Secure Edge and On-Prem Workloads](https://dev.to/aws-builders/ditching-the-access-key-implementing-iam-roles-anywhere-for-secure-edge-and-on-prem-workloads-doi)
+- [🥙🥗 Guide Nutritionnel : Aliments classés par valeur calorique](https://dev.to/davidscanu/guide-nutritionnel-aliments-classes-par-valeur-calorique-3h63)
+- [Getting started with Git and GitHub.](https://dev.to/victor_ochieng_e9/getting-started-with-git-and-github-98o)
+- [Engineering Adaptation: Solana&#39;s Roadmap and LPKWJ Tech Perspectives](https://dev.to/lpkwj/engineering-adaptation-solanas-roadmap-and-lpkwj-tech-perspectives-20k4)
+- [My AI-Powered Portfolio: A Birthday Gift to Myself](https://dev.to/khongorzulmunkhbat/my-ai-powered-portfolio-a-birthday-gift-to-myself-k7k)
+- [A Python based MCP server calculator tool](https://dev.to/darshan_karanth_d4eae027b/a-python-based-mcp-server-calculator-tool-km4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
