@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Creacion de una base de conocimiento en Bedrock con Amazon OpenSearch Service.](https://dev.to/francy/creacion-de-una-base-de-conocimiento-en-bedrock-con-amazon-opensearch-service-3hpc)
+- [Migração de dados entre serviços: estratégias, riscos e trade-offs](https://dev.to/lumamontes/migracao-de-dados-entre-servicos-estrategias-riscos-e-trade-offs-4p3c)
 - [Making Linux Work as a Corporate Desktop](https://dev.to/sebos/making-linux-work-as-a-corporate-desktop-2ji8)
-- [Building Your First AI Client in Java &lpar;Cerebras AI&rpar;](https://dev.to/deividas-strole/building-your-first-ai-client-in-java-cerebras-ai-2e34)
-- [When DEV.to Stats Aren&#39;t Enough: Building My Own Memory](https://dev.to/pascal_cescato_692b7a8a20/when-devto-stats-arent-enough-building-my-own-memory-5cid)
-- [7 AlgoMonster Alternatives: Don&#39;t Overpay for Coding Prep &lpar;2026&rpar;](https://dev.to/alex_hunter_44f4c9ed6671e/7-algomonster-alternatives-dont-overpay-for-coding-prep-2026-1g43)
-- [Paperfold: Using Telegram as Unlimited Cloud Storage with a Desktop App](https://dev.to/damndeepeshdev/paperfold-using-telegram-as-unlimited-cloud-storage-with-a-desktop-app-6ka)
+- [StatefulSet project](https://dev.to/jumptotech/statefulset-project-2p09)
+- [Why Medium Won&#39;t Load in India: The DNS Blockage Explained](https://dev.to/yakhilesh/why-medium-wont-load-in-india-the-dns-blockage-explained-45al)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
