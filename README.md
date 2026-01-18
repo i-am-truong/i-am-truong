@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Compliance ohne Chaos: Wie TimeSpin® die Zeiterfassung in Rechtsanwaltskanzleien zum Effizienz-Turbo macht](https://dev.to/thomasdelfing_de/compliance-ohne-chaos-wie-timespinr-die-zeiterfassung-in-rechtsanwaltskanzleien-zum-cn2)
+- [Why You Can’t Skip a Custom Backend—Even With AI-Powered Frontends](https://dev.to/dangote/why-you-cant-skip-a-custom-backend-even-with-ai-powered-frontends-2ibf)
+- [10 Web Scraping Mistakes Beginners Make &lpar;And How to Fix Them&rpar;](https://dev.to/ikram_khan/10-web-scraping-mistakes-beginners-make-and-how-to-fix-them-3282)
 - [I Built a Markup Language for AI Agent Task Output](https://dev.to/suede/i-built-a-markup-language-for-ai-agent-task-output-2l65)
 - [The first four](https://dev.to/lizmat/the-first-four-2b5p)
 - [How the Internet Actually Works: From Your Device to the Server](https://dev.to/satyasootar/how-the-internet-actually-works-from-your-device-to-the-server-pie)
-- [AWS Nova: AI That Scales Cheap](https://dev.to/sakshampaliwal/aws-nova-ai-that-scales-cheap-4ape)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
