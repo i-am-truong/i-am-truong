@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Booting Raspberry Pi 3 Model B from SSD](https://dev.to/donkeysharp/booting-raspberry-pi-3-model-b-from-ssd-5445)
+- [The Sensational Release of jQuery 4.0.0 and the End of Framework Dictatorship](https://dev.to/jsgurujobs/the-sensational-release-of-jquery-400-and-the-end-of-framework-dictatorship-3677)
+- [Network Engineer](https://dev.to/desinetworker/network-engineer-3e7o)
 - [Reinventing a Solved Problem: An Architectural Review of Odoo OWL Frontend Framework](https://dev.to/bogaboga1/reinventing-a-solved-problem-an-architectural-review-of-odoo-owl-frontend-framework-2113)
 - [Building a Real-Time &quot;Watchtower&quot;: Implementing GPS Activity Monitoring in 2026](https://dev.to/securitytips/building-a-real-time-watchtower-implementing-gps-activity-monitoring-in-2026-jh2)
-- [Linux Internals Everyone *Must* Understand](https://dev.to/kaustubhyerkade/linux-internals-everyone-must-understand-526l)
-- [Understanding ReLU Through Visual Python Examples](https://dev.to/rijultp/understanding-relu-through-visual-python-examples-1k1n)
-- [Hitori](https://dev.to/orsenthil/hitori-4bn6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
