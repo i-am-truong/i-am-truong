@@ -120,11 +120,12 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Found a Really Nice Way to Visualize SQLite Databases](https://dev.to/damia_ferrer_98cc88ce80e1/found-a-really-nice-way-to-visualize-sqlite-databases-3eda)
-- [Use Cursor with Local LLM and LM Studio](https://dev.to/0xkoji/use-cursor-with-local-llm-and-lm-studio-i54)
-- [The &quot;Virtual Air Gap&quot;: Building Fort Knox in AWS](https://dev.to/alifunk/the-virtual-air-gap-building-fort-knox-in-aws-4ako)
-- [Stop Building Features: Start Building Patterns](https://dev.to/edulazaro/stop-building-features-start-building-patterns-2efl)
-- [TalentArch-AI: Building an Architectural Talent Matching Agent](https://dev.to/exploredataaiml/talentarch-ai-building-an-architectural-talent-matching-agent-48fe)
+- [How infrastructure outages in 2025 changed how businesses think about servers](https://dev.to/k_hohlov/how-infrastructure-outages-in-2025-changed-how-businesses-think-about-servers-5810)
+- [On the &#39;Joy of Creating&#39; in the Age of AI](https://dev.to/bebechien/on-the-joy-of-creating-in-the-age-of-ai-hm4)
+- [🧩 Beginner-Friendly Guide &#39;Largest Magic Square&#39; – LeetCode 1895 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-largest-magic-square-leetcode-1895-c-python-javascript-191j)
+- [Expense Buddy: Local-first expense tracking with GitHub sync](https://dev.to/sudokoi/expense-buddy-local-first-expense-tracking-with-github-sync-3iga)
+- [give it a try guys:
+https://depapp-726779073670.asia-southeast2.run.app](https://dev.to/depapp/give-it-a-try-guyshttpsdepapp-726779073670asia-southeast2runapp-2e8j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
