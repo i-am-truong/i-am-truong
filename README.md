@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Git for Beginners: How to Push &amp; Pull Code, Track Changes, and Understand Version Control](https://dev.to/jim_kinyua_3f7d191b865bed/git-for-beginners-how-to-push-pull-code-track-changes-and-understand-version-control-4443)
-- [The difference between devrel and social media marketing](https://dev.to/lacryptorina/the-difference-between-devrel-and-social-media-marketing-4d0l)
-- [Git And GitHub For Students &amp; Beginners Understanding Basic Version Control And Collaboration](https://dev.to/samuel_owino/git-and-github-for-students-beginners-understanding-basic-version-control-and-collaboration-1flm)
-- [Why Your Engineering Wiki is a Graveyard &lpar;And How to Fix It&rpar;](https://dev.to/kislay/why-your-engineering-wiki-is-a-graveyard-and-how-to-fix-it-4ef)
-- [Docker Sandboxes: A Deep Dive into Secure AI Agent Isolation](https://dev.to/ajeetraina/getting-started-with-docker-sandboxes-a-complete-hands-on-tutorials-and-guide-15b2)
+- [Ditching the Access Key: Implementing IAM Roles Anywhere for Secure Edge and On-Prem Workloads](https://dev.to/aws-builders/ditching-the-access-key-implementing-iam-roles-anywhere-for-secure-edge-and-on-prem-workloads-doi)
+- [Building an Automated AWS Billing Report System with SAM and Microsoft Teams](https://dev.to/abhishekvasisht/building-an-automated-aws-billing-report-system-with-sam-and-microsoft-teams-4578)
+- [Introduction to Gitbash and Github](https://dev.to/lilian_gathoni_4a18a896d3/introduction-to-gitbash-and-github-5gck)
+- [Beyond Chatbots: Building Autonomous Multi-Agent Workflows with Amazon Bedrock and Step Functions](https://dev.to/aws-builders/beyond-chatbots-building-autonomous-multi-agent-workflows-with-amazon-bedrock-and-step-functions-472d)
+- [Deploying the AWS re:Invent Map with AWS Amplify Hosting](https://dev.to/aws-heroes/deploying-the-aws-reinvent-map-with-aws-amplify-hosting-3em)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
