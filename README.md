@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Git Version Control: Track Changes, Commit, Push &amp; Pull &lpar;Beginner Guide&rpar;](https://dev.to/mwangi_sharon/understanding-git-version-control-track-changes-commit-push-pull-beginner-guide-48jp)
 - [AI Financial Co-Pilot](https://dev.to/danifezi/ai-financial-co-pilot-4lnd)
-- [Weekly #03-2026: React2Shell Zero-Day Defense, Kubernetes Autoscaling Guide, AI Coding Guardrails &amp; 2026 AI Acceleration](https://dev.to/weekly/weekly-03-2026-react2shell-zero-day-defense-kubernetes-autoscaling-guide-ai-coding-guardrails--3e0)
-- [10 TypeScript Habits Every JavaScript Developer Should Build 🚀](https://dev.to/gouranga-das-khulna/10-typescript-habits-every-javascript-developer-should-build-580a)
-- [Linux Tutorial: Logs to CSV to JSON](https://dev.to/ben-santora/linux-tutorial-logs-csv-json-1p89)
-- [Vibe coding as a love language](https://dev.to/amandamartindev/vibe-coding-as-a-love-language-4321)
+- [Why I built a privacy-focused utility site with 200+ tools](https://dev.to/rabbi_choyon_14bb6a81a0e5/why-i-built-a-privacy-focused-utility-site-with-200-tools-oe6)
+- [WeChat Keyboard Keeps Getting Better](https://dev.to/gudong/wechat-keyboard-keeps-getting-better-4phe)
+- [Getting Started with Azure DevOps: A Practical Step-by-Step Guide for Real Projects](https://dev.to/ibne_sabidsaikat_1443282/getting-started-with-azure-devops-a-practical-step-by-step-guide-for-real-projects-2hlf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
