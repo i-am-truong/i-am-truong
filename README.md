@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AN INTRODUCTION TO BASIC GIT WORKFLOW](https://dev.to/jesse_kenson_3q/an-introduction-to-basic-git-workflow-2j0h)
-- [INTRODUCTION TO GIT AS A DISTRIBUTED VERSION CONTROL SYSTEM SYSTEM](https://dev.to/jesse_kenson_3q/introduction-to-git-as-a-distributed-version-control-system-system-4o0b)
-- [I built Workflow Automation Platform &lpar;only vibe code it&rpar; - Looking for Feedback](https://dev.to/iamyureka/i-built-workflow-automation-platform-only-vibe-code-it-looking-for-feedback-3adj)
-- [JavaScript Design Patterns — And When You Should Actually Use Them](https://dev.to/anisubhra_sarkar/javascript-design-patterns-and-when-you-should-actually-use-them-25c4)
-- [I let the internet vote on what code gets merged weekly. Week 2: they voted to merge every day.](https://dev.to/skridlevsky/i-let-the-internet-vote-on-what-code-gets-merged-weekly-week-2-they-voted-to-merge-every-day-2kf7)
+- [Congrats, Genius. You 10x&#39;d Yourself Into Obsolescence](https://dev.to/ryo_suwito/congrats-genius-you-10xd-yourself-into-obsolescence-2m6)
+- [Do you quit a tool when it asks for signup for a simple task?](https://dev.to/bhavin-allinonetools/do-you-quit-a-tool-when-it-asks-for-signup-for-a-simple-task-34ce)
+- [Linux Tutorial: Logs to CSV to JSON](https://dev.to/ben-santora/a-linux-tutorial-log-csv-json-1451)
+- [The Complete Guide to Prompt Engineering for Angular Developers](https://dev.to/hassantayyab/the-complete-guide-to-prompt-engineering-for-angular-developers-8pg)
+- [Best Customer Support SDK for Flutter &lpar;2026 Guide&rpar;](https://dev.to/tintin_1dfb11cb70cf6e9/best-customer-support-sdk-for-flutter-2026-guide-9k6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
