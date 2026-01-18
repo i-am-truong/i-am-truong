@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Can AI Image Generators Replace Professional Photographers in 2026?](https://dev.to/sarahmitchell/can-ai-image-generators-replace-professional-photographers-in-2026-34ke)
+- [A Beginner’s Guide to Using Git Bash and GitHub](https://dev.to/mutuku_joseph_74/a-beginners-guide-to-using-git-bash-and-github-5eb9)
+- [My Learnings from Planning AWS Student Community Day Peshawar 2025](https://dev.to/hafsajavedpak/my-learnings-from-planning-aws-student-community-day-peshawar-2025-2l2b)
 - [Adding Multi-Lingual Support in React](https://dev.to/shubham_gupta_6f6c50fefd4/adding-multi-lingual-support-in-react-i90)
 - [The Rabbit Hole of Linux Commands](https://dev.to/bhupeshchandrajoshi/the-rabbit-hole-of-linux-commands-36oe)
-- [🎨Testing RBAC permissions just got visual](https://dev.to/maneesh_thakur_d16c2852fa/testing-rbac-permissions-just-got-visual-28bb)
-- [학습 아카이브 시작하기](https://dev.to/koareum/hagseub-akaibeu-sijaghagi-53k0)
-- [Git BEGINNER’S MANUAL](https://dev.to/cynthia_jelimo_3f427f1110/git-beginners-manual-1f78)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
