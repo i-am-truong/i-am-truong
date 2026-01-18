@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ReactJS Hook Pattern ~Use Hook with Promises~](https://dev.to/kkr0423/reactjs-hook-pattern-use-hook-with-promises-9g9)
+- [The Knowledge Base That Lied to 10,000 Customers &lpar;And How We Caught It&rpar;](https://dev.to/faraz_farhan_83ed23a154a2/the-knowledge-base-that-lied-to-10000-customers-and-how-we-caught-it-3gm4)
+- [CSS @scope: advanced nesting](https://dev.to/effnd/css-scope-advanced-nesting-485e)
+- [Version Control](https://dev.to/victor_ds/version-control-1dk4)
 - [Ditching the Access Key: Implementing IAM Roles Anywhere for Secure Edge and On-Prem Workloads](https://dev.to/aws-builders/ditching-the-access-key-implementing-iam-roles-anywhere-for-secure-edge-and-on-prem-workloads-doi)
-- [Building an Automated AWS Billing Report System with SAM and Microsoft Teams](https://dev.to/abhishekvasisht/building-an-automated-aws-billing-report-system-with-sam-and-microsoft-teams-4578)
-- [Introduction to Gitbash and Github](https://dev.to/lilian_gathoni_4a18a896d3/introduction-to-gitbash-and-github-5gck)
-- [Beyond Chatbots: Building Autonomous Multi-Agent Workflows with Amazon Bedrock and Step Functions](https://dev.to/aws-builders/beyond-chatbots-building-autonomous-multi-agent-workflows-with-amazon-bedrock-and-step-functions-472d)
-- [Deploying the AWS re:Invent Map with AWS Amplify Hosting](https://dev.to/aws-heroes/deploying-the-aws-reinvent-map-with-aws-amplify-hosting-3em)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
