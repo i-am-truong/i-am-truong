@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hexagonal architecture - Another way to the hexagone](https://dev.to/marabesi/hexagonal-architecture-another-way-to-the-hexagone-25g0)
-- [The Shocking Truth About ‘Dumb’ Mean Imputation](https://dev.to/aiwithapex/the-shocking-truth-about-dumb-mean-imputation-4onk)
-- [How to Set Up GPG Keys for an Existing GitHub Account &lpar;Step-by-Step&rpar;](https://dev.to/rose1845/how-to-set-up-gpg-keys-for-an-existing-github-account-step-by-step-2fj7)
-- [Building an AI-Powered Bill Splitter: OCR, LLMs, and Real-time State](https://dev.to/hackbill/building-an-ai-powered-bill-splitter-ocr-llms-and-real-time-state-5d2)
-- [How to Fix Your Life in One Day &lpar;Without Resolutions&rpar;](https://dev.to/sivarampg/how-to-fix-your-life-in-one-day-without-resolutions-40j8)
+- [Further explanations on the article &quot;Why XLang is an innovative programming language&quot;](https://dev.to/canonical/further-explanations-on-the-article-why-xlang-is-an-innovative-programming-language-3da1)
+- [Setting Up Custom Domains in Lovable: Subdomain Design &amp; A+TXT Records](https://dev.to/tielec-takashi/setting-up-custom-domains-in-lovable-subdomain-design-atxt-records-3ee5)
+- [LET&#39;S GIT IT—A Beginner&#39;s Guide to Version Control.](https://dev.to/brian_muchoki_79c404aa499/lets-git-it-a-beginners-guide-to-version-control-1l51)
+- [📱 Your Child Is Still Awake: Raising Kids in a World of Screens and AI](https://dev.to/jeanphilippe_ulpiano_46b/your-child-is-still-awake-raising-kids-in-a-world-of-screens-and-ai-1kk7)
+- [Protecting Your Website with Cloudflare: Security, Performance, and Reliability [Part 2]](https://dev.to/bemals_dvanitha_5b14b68f9/protecting-your-website-with-cloudflare-security-performance-and-reliability-part-2-4b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
