@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Basics of using Git](https://dev.to/valgrace/basics-of-using-git-171a)
-- [Git for beginners: Track changes, push and pull code.](https://dev.to/twisted21/git-for-beginners-track-changes-push-and-pull-code-4kbe)
-- [Essential Git Bash Commands for Pushing and Pulling Code on GitHub](https://dev.to/kithokoi/essential-git-bash-commands-for-pushing-and-pulling-code-on-github-40mb)
-- [Solved: Real-time Server Health Monitoring: Grafana to Telegram Integration](https://dev.to/techresolve/solved-real-time-server-health-monitoring-grafana-to-telegram-integration-24j2)
-- [A BEGINNER&#39;S GUIDE TO GIT](https://dev.to/nashipae_ntungani_8eae55/a-beginners-guide-to-git-325g)
+- [GIT AND GITHUB FOR BEGINNERS:HOW TO TRACK CHANGES,PUSH AND PULL CODE](https://dev.to/godfrey_babu_507967f0d166/git-and-github-for-beginnershow-to-track-changespush-and-pull-code-28fm)
+- [How I Built a Free Derivative Calculator with Next.js 15 &amp; React 19](https://dev.to/geek_6872d0d95c515aa70202/how-i-built-a-free-derivative-calculator-with-nextjs-15-react-19-3i5o)
+- [Learn DSA with AI: A Field Guide for Real Progress](https://dev.to/alex_hunter_44f4c9ed6671e/learn-dsa-with-ai-a-field-guide-for-real-progress-mdc)
+- [I am learning data science but I don&#39;t know where to start from:A Beginner&#39;s Guide to Git, Git Bash, Installation, and SSH Keys](https://dev.to/kelvin_vosky_dc39384ebad2/i-am-learning-data-science-but-i-dont-know-where-to-start-froma-beginners-guide-to-git-git-do8)
+- [Mastering LLM Integrations in WordPress: A Plugin Boilerplate Deep Dive](https://dev.to/shahibur_rahman_6670cd024/mastering-llm-integrations-in-wordpress-a-plugin-boilerplate-deep-dive-4l39)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
