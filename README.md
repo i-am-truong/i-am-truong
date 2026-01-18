@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Turkish Sieve Engine &lpar;TSE&rpar; V.1.0.0](https://dev.to/turkishsieve/turkish-sieve-engine-tse-v100-3c9f)
-- [From fix CORS in Nuxt and found new better way to authenticate](https://dev.to/silvesterwali/from-fix-cors-in-nuxt-and-found-new-better-way-to-authenticate-1ck9)
-- [🌱 Introducing Bloom — What I’ve Built, What I’ve Fixed, and Why I’m Making It](https://dev.to/codebunny20/introducing-bloom-what-ive-built-what-ive-fixed-and-why-im-making-it-8jg)
-- [Customizing MacOS Terminal with Starship Like a Pro](https://dev.to/gvalenncia/customizing-macos-terminal-with-starship-like-a-pro-2geb)
-- [Agentic AI vs. Agentic Attacks: The Autonomous Threat Landscape of 2026](https://dev.to/cyberpath/agentic-ai-vs-agentic-attacks-the-autonomous-threat-landscape-of-2026-5go)
+- [Humans, Machines, and Ratatouille 🐀](https://dev.to/iacriolla/humans-machines-and-ratatouille-2d4p)
+- [Conversation Flow Control: When Users Don’t Follow Your Script](https://dev.to/faraz_farhan_83ed23a154a2/conversation-flow-control-when-users-dont-follow-your-script-1d07)
+- [🎯 Choosing Between WebSocket and Socket.io: A Decision Every Dev Faces](https://dev.to/mayankrsagar/choosing-between-websocket-and-socketio-a-decision-every-dev-faces-3g2d)
+- [Introducing Symbols](https://dev.to/nikoloza/introducing-symbols-1ffj)
+- [Interface vs Abstract class](https://dev.to/sota_333ad4b72095606ab40c/interface-vs-abstract-class-1gi7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
