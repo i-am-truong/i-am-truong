@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Real Cost of Loving What You Do: The Uncomfortable Truth About Developer Burnout](https://dev.to/georgekobaidze/the-real-cost-of-loving-what-you-do-the-uncomfortable-truth-about-developer-burnout-43n6)
 - [Creating Custom Voice Profiles in VAPI for Personalized Marketing Campaigns](https://dev.to/callstacktech/creating-custom-voice-profiles-in-vapi-for-personalized-marketing-campaigns-3hma)
 - [Audit: Practical Audit Logging for Go](https://dev.to/w0rng/audit-practical-audit-logging-for-go-5ae9)
 - [Routing Observable and Secure Traffic Through Claude](https://dev.to/thenjdevopsguy/routing-observable-and-secure-traffic-through-claude-2idk)
 - [Why You Freeze When Starting a New Project &lpar;And 5 Questions to Fix It&rpar;](https://dev.to/samuel_ochaba_eb9c875fa89/why-you-freeze-when-starting-a-new-project-and-5-questions-to-fix-it-57mm)
-- [This is for testing](https://dev.to/ganeshmani/this-is-for-testing-1na6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
