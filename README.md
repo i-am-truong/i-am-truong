@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Reducing Project Delays from 65% to 15% with Critical Chain](https://dev.to/_jeongyuhyeon_03de1/reducing-project-delays-from-65-to-15-with-critical-chain-14f3)
 - [AI&#39;s Hidden Environmental Cost: What Every Developer Should Know](https://dev.to/bdubs/ais-hidden-environmental-cost-what-every-developer-should-know-17db)
 - [A Eficiência do Cache no SQLite](https://dev.to/justaguyfrombr/a-eficiencia-do-cache-no-sqlite-n0n)
 - [Digital Board Game 00](https://dev.to/meduza3/digital-board-game-00-4hkc)
 - [Building DownloadStuffs: A Modern UI for the Internet Archive](https://dev.to/dawaman43/building-downloadstuffs-a-modern-ui-for-the-internet-archive-18j4)
-- [How to Compete in B2B Sales Without Trashing Your Rivals](https://dev.to/paultowers/how-to-compete-in-b2b-sales-without-trashing-your-rivals-4n3c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
