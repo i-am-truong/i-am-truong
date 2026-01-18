@@ -120,8 +120,8 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Beginner’s Guide to Git: Version Control, Tracking Changes, and Pushing Code to GitHub](https://dev.to/davi__mungai/a-beginners-guide-to-git-version-control-tracking-changes-and-pushing-code-to-github-5h5a)
 - [Congrats, Genius. You 10x&#39;d Yourself Into Obsolescence](https://dev.to/ryo_suwito/congrats-genius-you-10xd-yourself-into-obsolescence-2m6)
-- [Do you quit a tool when it asks for signup for a simple task?](https://dev.to/bhavin-allinonetools/do-you-quit-a-tool-when-it-asks-for-signup-for-a-simple-task-34ce)
 - [Linux Tutorial: Logs to CSV to JSON](https://dev.to/ben-santora/a-linux-tutorial-log-csv-json-1451)
 - [The Complete Guide to Prompt Engineering for Angular Developers](https://dev.to/hassantayyab/the-complete-guide-to-prompt-engineering-for-angular-developers-8pg)
 - [Best Customer Support SDK for Flutter &lpar;2026 Guide&rpar;](https://dev.to/tintin_1dfb11cb70cf6e9/best-customer-support-sdk-for-flutter-2026-guide-9k6)
