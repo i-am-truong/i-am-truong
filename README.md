@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Guardrails for AI Coding Assistants: A PreToolUse Hook System for Claude Code](https://dev.to/mikelane/building-guardrails-for-ai-coding-assistants-a-pretooluse-hook-system-for-claude-code-ilj)
 - [Control Claude Code from Your Phone with Claw](https://dev.to/raullen_chai_76e18e9705b0/control-claude-code-from-your-phone-with-claw-b8f)
 - [Slices: The Right Size for Microservices](https://dev.to/siy/slices-the-right-size-for-microservices-c4)
 - [Relational vs NoSQL in Real Projects, How I Choose the Right Database for .NET and Cloud Systems](https://dev.to/saber-amani/relational-vs-nosql-in-real-projects-how-i-choose-the-right-database-for-net-and-cloud-systems-31aa)
 - [🌐 Learn to Build a Professional Portfolio Website with GitHub Pages &amp; AI](https://dev.to/estebangamedevelopment/learn-to-build-a-professional-portfolio-website-with-github-pages-ai-1j9a)
-- [Creacion de una base de conocimiento en Bedrock con Amazon OpenSearch Service.](https://dev.to/francy/creacion-de-una-base-de-conocimiento-en-bedrock-con-amazon-opensearch-service-3hpc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
