@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Your First AI Client in Java &lpar;Cerebras AI&rpar;](https://dev.to/deividas-strole/building-your-first-ai-client-in-java-cerebras-ai-2e34)
 - [When DEV.to Stats Aren&#39;t Enough: Building My Own Memory](https://dev.to/pascal_cescato_692b7a8a20/when-devto-stats-arent-enough-building-my-own-memory-5cid)
+- [7 AlgoMonster Alternatives: Don&#39;t Overpay for Coding Prep &lpar;2026&rpar;](https://dev.to/alex_hunter_44f4c9ed6671e/7-algomonster-alternatives-dont-overpay-for-coding-prep-2026-1g43)
 - [Post 6/10 — Helm Fundamentals Done Right: Chart Architecture, Values Schema, and Reuse](https://dev.to/cloud-sky-ops/post-610-helm-fundamentals-done-right-chart-architecture-values-schema-and-reuse-3bah)
 - [Booting Raspberry Pi 3 Model B from SSD](https://dev.to/donkeysharp/booting-raspberry-pi-3-model-b-from-ssd-5445)
-- [When Intelligence Awakens: Artificial Awareness, Ethical Design, and the Continuing Inquiry of Abhishek Desikan](https://dev.to/abhishekdesikan/when-intelligence-awakens-artificial-awareness-ethical-design-and-the-continuing-inquiry-of-26gd)
-- [When Intelligence Awakens: Artificial Awareness and the Evolving Interpretations of Abhishek Desikan](https://dev.to/abhishekdesikan/when-intelligence-awakens-artificial-awareness-and-the-evolving-interpretations-of-abhishek-desikan-8h8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
