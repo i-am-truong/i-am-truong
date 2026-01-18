@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built Qreasure: QR Code Treasure Hunts in Minutes, Now 50% Off](https://dev.to/vulcanwm/i-built-qreasure-qr-code-treasure-hunts-in-minutes-now-50-off-17l3)
-- [Build a Self-Evolving Memory Agent in 150 Lines](https://dev.to/narnaiezzsshaa/build-a-self-evolving-memory-agent-in-150-lines-lad)
-- [Building Production AI: A Three-Part MLOps Journey - Pt.2](https://dev.to/afrologicinsect/building-production-ai-a-three-part-mlops-journey-pt2-415m)
-- [Stop Reading Raw Stacktraces: AI-Powered Java Thread Dump Analysis with MCP](https://dev.to/irockel/stop-reading-raw-stacktraces-ai-powered-java-thread-dump-analysis-with-mcp-4673)
-- [Building an Executable Chain to Understand Composable Systems](https://dev.to/ssj256x/building-an-executable-chain-to-understand-composable-systems-4j3n)
+- [/statusline: Build Your Dream Status Bar for Claude Code](https://dev.to/rajeshroyal/statusline-build-your-dream-status-bar-for-claude-code-50p5)
+- [Doubly: Why Arrays Aren&#39;t Always Enough](https://dev.to/lnationorg/doubly-why-arrays-arent-always-enough-ji6)
+- [Building a Resilient Meta Tag Analyzer with DOMParser and Serverless](https://dev.to/ahmad_shakibnasaj_a8f9bb/building-a-resilient-meta-tag-analyzer-with-domparser-and-serverless-2k6m)
+- [I figured out how to actually be the “first applicant” on LinkedIn](https://dev.to/salaria_labs/i-figured-out-how-to-actually-be-the-first-applicant-on-linkedin-40ip)
+- [Supply Chain Orchestration for dummies](https://dev.to/intersystems/supply-chain-orchestration-for-dummies-2j66)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
