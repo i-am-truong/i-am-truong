@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The “Too Smart” Knowledge Base Problem: When Your AI Knows Too Much for Its Own Good](https://dev.to/faraz_farhan_83ed23a154a2/the-too-smart-knowledge-base-problem-when-your-ai-knows-too-much-for-its-own-good-44gm)
+- [Tech Pulse – Weekly Tech Digest January 11-17, 2026](https://dev.to/om_shree_0709/tech-pulse-weekly-tech-digest-january-11-17-2026-2l4d)
+- [Describe AWS Infrastructure And Technologies For Building Generative AI Applications](https://dev.to/aws-builders/describe-aws-infrastructure-and-technologies-for-building-generative-ai-applications-26mp)
+- [Installing Git Bash on Windows: A Beginner’s Guide](https://dev.to/mwangi_sharon/installing-git-bash-on-windows-a-beginners-guide-2k9p)
 - [RCt2 – A Pragmatic Evolution of BDD for Software Test Cases](https://dev.to/rafael_cardoso_c438f2c879/rct2-a-pragmatic-evolution-of-bdd-for-software-test-cases-37go)
-- [I Got Tired of &quot;It Works on My Machine&quot; So I Built a Time-Travel Debugger](https://dev.to/ujwal240/i-got-tired-of-it-works-on-my-machine-so-i-built-a-time-travel-debugger-235h)
-- [Introduction to Git and Github](https://dev.to/kuria_dd8316139db3dea9c85/introduction-to-git-and-github-230e)
-- [Understanding Git and GitHub: A Biginners Guide](https://dev.to/josepho_okwemba_a02e2378a/understanding-git-and-github-a-biginners-guide-4gho)
-- [Java Multithreading/Concurrency](https://dev.to/achavan/java-multithreadingconcurrency-f4a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
