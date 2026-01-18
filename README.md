@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Making Linux Work as a Corporate Desktop](https://dev.to/sebos/making-linux-work-as-a-corporate-desktop-2ji8)
 - [Building Your First AI Client in Java &lpar;Cerebras AI&rpar;](https://dev.to/deividas-strole/building-your-first-ai-client-in-java-cerebras-ai-2e34)
 - [When DEV.to Stats Aren&#39;t Enough: Building My Own Memory](https://dev.to/pascal_cescato_692b7a8a20/when-devto-stats-arent-enough-building-my-own-memory-5cid)
 - [7 AlgoMonster Alternatives: Don&#39;t Overpay for Coding Prep &lpar;2026&rpar;](https://dev.to/alex_hunter_44f4c9ed6671e/7-algomonster-alternatives-dont-overpay-for-coding-prep-2026-1g43)
-- [Post 6/10 — Helm Fundamentals Done Right: Chart Architecture, Values Schema, and Reuse](https://dev.to/cloud-sky-ops/post-610-helm-fundamentals-done-right-chart-architecture-values-schema-and-reuse-3bah)
-- [Booting Raspberry Pi 3 Model B from SSD](https://dev.to/donkeysharp/booting-raspberry-pi-3-model-b-from-ssd-5445)
+- [Paperfold: Using Telegram as Unlimited Cloud Storage with a Desktop App](https://dev.to/damndeepeshdev/paperfold-using-telegram-as-unlimited-cloud-storage-with-a-desktop-app-6ka)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
