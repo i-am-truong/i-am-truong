@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Linux Internals Everyone *Must* Understand](https://dev.to/kaustubhyerkade/linux-internals-everyone-must-understand-526l)
 - [Understanding ReLU Through Visual Python Examples](https://dev.to/rijultp/understanding-relu-through-visual-python-examples-1k1n)
 - [Hitori](https://dev.to/orsenthil/hitori-4bn6)
-- [5 Proven Ways Tech Pros Can Optimize LinkedIn Profiles to Get Noticed by Recruiters in 2024](https://dev.to/saber-amani/5-proven-ways-tech-pros-can-optimize-linkedin-profiles-to-get-noticed-by-recruiters-in-2024-2le3)
-- [ast2ast v0.5: Translate R Functions to Optimized C++: Now with automatic differentiation!](https://dev.to/konrad1991/ast2ast-v05-translate-r-functions-to-optimized-c-now-with-automatic-differentiation-mf1)
-- [Azure Practice Day 1](https://dev.to/devopsdynamicshub/azure-practice-day-1-1kp8)
+- [I’m done copy-pasting infrastructure code from old projects](https://dev.to/greatnessinabox/im-done-copy-pasting-infrastructure-code-from-old-projects-2c0o)
+- [HTML/CSS to PDF: How I Solved the &quot;Page Break&quot; Nightmare](https://dev.to/resumemind/htmlcss-to-pdf-how-i-solved-the-page-break-nightmare-mdg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
