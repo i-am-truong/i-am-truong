@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started: Building Your First Interactive JavaScript Diagram](https://dev.to/iva_pan/getting-started-building-your-first-interactive-javascript-diagram-5bhi)
 - [Understanding Git Version Control: Track Changes, Commit, Push &amp; Pull &lpar;Beginner Guide&rpar;](https://dev.to/mwangi_sharon/understanding-git-version-control-track-changes-commit-push-pull-beginner-guide-48jp)
 - [AI Financial Co-Pilot](https://dev.to/danifezi/ai-financial-co-pilot-4lnd)
 - [Why I built a privacy-focused utility site with 200+ tools](https://dev.to/rabbi_choyon_14bb6a81a0e5/why-i-built-a-privacy-focused-utility-site-with-200-tools-oe6)
 - [WeChat Keyboard Keeps Getting Better](https://dev.to/gudong/wechat-keyboard-keeps-getting-better-4phe)
-- [Getting Started with Azure DevOps: A Practical Step-by-Step Guide for Real Projects](https://dev.to/ibne_sabidsaikat_1443282/getting-started-with-azure-devops-a-practical-step-by-step-guide-for-real-projects-2hlf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
