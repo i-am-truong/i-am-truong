@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Managing Multiple Related npm Packages with a Monorepo](https://dev.to/usapopopooon/managing-multiple-related-npm-packages-with-a-monorepo-26hn)
-- [Solved: Monitor SSL Certificate Expiry with Python and Slack API](https://dev.to/techresolve/solved-monitor-ssl-certificate-expiry-with-python-and-slack-api-5c36)
-- [From Syntax Monkey to AI Architect: My &quot;Aha!&quot; Moment](https://dev.to/joembolinas/from-syntax-monkey-to-ai-architect-my-aha-moment-5e39)
-- [DeepSeek R1 - Why a Quiet Paper Update Matters](https://dev.to/manoj_kumars_21d591547df/deepseek-r1-why-a-quiet-paper-update-matters-5do9)
-- [MongoDB compared to Oracle Database Maximum Availability Architecture](https://dev.to/franckpachot/mongodb-compared-to-oracle-maximum-availability-architecture-mpl)
+- [AN INTRODUCTION TO BASIC GIT WORKFLOW](https://dev.to/jesse_kenson_3q/an-introduction-to-basic-git-workflow-2j0h)
+- [INTRODUCTION TO GIT AS A DISTRIBUTED VERSION CONTROL SYSTEM SYSTEM](https://dev.to/jesse_kenson_3q/introduction-to-git-as-a-distributed-version-control-system-system-4o0b)
+- [I built Workflow Automation Platform &lpar;only vibe code it&rpar; - Looking for Feedback](https://dev.to/iamyureka/i-built-workflow-automation-platform-only-vibe-code-it-looking-for-feedback-3adj)
+- [JavaScript Design Patterns — And When You Should Actually Use Them](https://dev.to/anisubhra_sarkar/javascript-design-patterns-and-when-you-should-actually-use-them-25c4)
+- [I let the internet vote on what code gets merged weekly. Week 2: they voted to merge every day.](https://dev.to/skridlevsky/i-let-the-internet-vote-on-what-code-gets-merged-weekly-week-2-they-voted-to-merge-every-day-2kf7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
