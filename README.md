@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Making Decisions in Python: A Beginner&#39;s Guide to If, Else, and Elif](https://dev.to/zainab_d321f3a9bc482d4374/making-decisions-in-python-a-beginners-guide-to-if-else-and-elif-44of)
+- [IssueHub: Helping Beginners Find Their First OSS Contribution Opportunities](https://dev.to/kanywst/issuehub-helping-beginners-find-their-first-oss-contribution-opportunities-2g7k)
+- [How Freelancers Can Get Clients with Cold Email &lpar;Without Sounding Spammy&rpar;](https://dev.to/tonydatasourcing/how-freelancers-can-get-clients-with-cold-email-without-sounding-spammy-hlo)
+- [Making Decisions in Python: A Beginner&#39;s Guide to If, Else, and Elif](https://dev.to/zainab123/making-decisions-in-python-a-beginners-guide-to-if-else-and-elif-44of)
 - [You too can Git it: A beginners guide to connecting Git and GitHub](https://dev.to/mwendemugambi/you-too-can-git-it-a-beginners-guide-to-connecting-git-and-github-466o)
 - [The Trench Doctrine: A Third-World Founding Engineer&#39;s Post-Mortem](https://dev.to/franciscolunadev82/the-trench-doctrine-a-third-world-founding-engineers-post-mortem-jk2)
-- [[ Open Source Project] open-translate — Offline Translation Web Service Powered by TranslateGemma](https://dev.to/gde/open-source-open-translate-offline-translation-web-service-powered-by-translategemma-2ob2)
-- [How I Hosted Next.js on $5 Shared Hosting](https://dev.to/bravian1/how-i-hosted-nextjs-on-5-shared-hosting-4mg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
