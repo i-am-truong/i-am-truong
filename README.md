@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [MongoDB compared to Oracle Maximum Availability Architecture](https://dev.to/franckpachot/mongodb-compared-to-oracle-maximum-availability-architecture-mpl)
-- [Introduction to Git Bash and GitHub for Beginners](https://dev.to/sirphilip/introduction-to-git-bash-and-github-for-beginners-43on)
-- [Getting Started with Git and GitHub: A Beginner&#39;s Guide](https://dev.to/malaika-musee/getting-started-with-git-and-github-a-beginners-guide-20d5)
-- [System Design Interview was HARD, until I Mastered these Concepts](https://dev.to/somadevtoo/system-design-interview-was-hard-until-i-mastered-these-concepts-3239)
-- [Job Hunting in South Africa 2026: A Technical Guide &amp; Top 10 Tools for Success](https://dev.to/ridwan_sassman_3d07/job-hunting-in-south-africa-2026-a-technical-guide-top-10-tools-for-success-ojn)
+- [Managing Multiple Related npm Packages with a Monorepo](https://dev.to/usapopopooon/managing-multiple-related-npm-packages-with-a-monorepo-26hn)
+- [Solved: Monitor SSL Certificate Expiry with Python and Slack API](https://dev.to/techresolve/solved-monitor-ssl-certificate-expiry-with-python-and-slack-api-5c36)
+- [From Syntax Monkey to AI Architect: My &quot;Aha!&quot; Moment](https://dev.to/joembolinas/from-syntax-monkey-to-ai-architect-my-aha-moment-5e39)
+- [DeepSeek R1 - Why a Quiet Paper Update Matters](https://dev.to/manoj_kumars_21d591547df/deepseek-r1-why-a-quiet-paper-update-matters-5do9)
+- [MongoDB compared to Oracle Database Maximum Availability Architecture](https://dev.to/franckpachot/mongodb-compared-to-oracle-maximum-availability-architecture-mpl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
