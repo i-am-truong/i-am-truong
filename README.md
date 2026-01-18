@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Beginner’s Guide to Git Bash and GitHub: Pushing, Pulling, and Version Control](https://dev.to/githinji_victormaina_627/a-beginners-guide-to-git-bash-and-github-pushing-pulling-and-version-control-45fm)
+- [Understanding Git: How it tracks, pushes and pulls code on Ubuntu](https://dev.to/damaac/understanding-git-how-it-tracks-pushes-and-pulls-code-on-ubuntu-4aai)
+- [Simplest GIT and GITHUB explanation.](https://dev.to/kamanda_bryan_cfaa74051ef/simplest-git-and-github-explanation-1a4)
+- [Prompt Engineering is becoming obsolete!](https://dev.to/tom_neijman_fcbbd8589da01/prompt-engineering-is-becoming-obsolete-3ojn)
 - [GIT AND GITHUB FOR BEGINNERS:HOW TO TRACK CHANGES,PUSH AND PULL CODE](https://dev.to/godfrey_babu_507967f0d166/git-and-github-for-beginnershow-to-track-changespush-and-pull-code-28fm)
-- [How I Built a Free Derivative Calculator with Next.js 15 &amp; React 19](https://dev.to/geek_6872d0d95c515aa70202/how-i-built-a-free-derivative-calculator-with-nextjs-15-react-19-3i5o)
-- [Learn DSA with AI: A Field Guide for Real Progress](https://dev.to/alex_hunter_44f4c9ed6671e/learn-dsa-with-ai-a-field-guide-for-real-progress-mdc)
-- [I am learning data science but I don&#39;t know where to start from:A Beginner&#39;s Guide to Git, Git Bash, Installation, and SSH Keys](https://dev.to/kelvin_vosky_dc39384ebad2/i-am-learning-data-science-but-i-dont-know-where-to-start-froma-beginners-guide-to-git-git-do8)
-- [Mastering LLM Integrations in WordPress: A Plugin Boilerplate Deep Dive](https://dev.to/shahibur_rahman_6670cd024/mastering-llm-integrations-in-wordpress-a-plugin-boilerplate-deep-dive-4l39)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
