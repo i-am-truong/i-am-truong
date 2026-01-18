@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [10 TypeScript Habits Every JavaScript Developer Should Build 🚀](https://dev.to/gouranga-das-khulna/10-typescript-habits-every-javascript-developer-should-build-580a)
+- [Linux Tutorial: Logs to CSV to JSON](https://dev.to/ben-santora/linux-tutorial-logs-csv-json-1p89)
+- [Vibe coding as a love language](https://dev.to/amandamartindev/vibe-coding-as-a-love-language-4321)
+- [Restarting My DSA Journey in Java — Solving Kunal Kushwaha’s Assignments + LeetCode Daily!](https://dev.to/herclarity_space/restarting-my-dsa-journey-in-java-solving-kunal-kushwahas-assignments-leetcode-daily-gbo)
 - [Why You Can’t Skip a Custom Backend—Even With AI-Powered Frontends](https://dev.to/dangote/why-you-cant-skip-a-custom-backend-even-with-ai-powered-frontends-2ibf)
-- [10 Web Scraping Mistakes Beginners Make &lpar;And How to Fix Them&rpar;](https://dev.to/ikram_khan/10-web-scraping-mistakes-beginners-make-and-how-to-fix-them-3282)
-- [I Built a Markup Language for AI Agent Task Output](https://dev.to/suede/i-built-a-markup-language-for-ai-agent-task-output-2l65)
-- [The first four](https://dev.to/lizmat/the-first-four-2b5p)
-- [How the Internet Actually Works: From Your Device to the Server](https://dev.to/satyasootar/how-the-internet-actually-works-from-your-device-to-the-server-pie)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
