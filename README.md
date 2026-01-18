@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🌐 Learn to Build a Professional Portfolio Website with GitHub Pages &amp; AI](https://dev.to/estebangamedevelopment/learn-to-build-a-professional-portfolio-website-with-github-pages-ai-1j9a)
 - [Creacion de una base de conocimiento en Bedrock con Amazon OpenSearch Service.](https://dev.to/francy/creacion-de-una-base-de-conocimiento-en-bedrock-con-amazon-opensearch-service-3hpc)
 - [Migração de dados entre serviços: estratégias, riscos e trade-offs](https://dev.to/lumamontes/migracao-de-dados-entre-servicos-estrategias-riscos-e-trade-offs-4p3c)
+- [The $20 AI Stack Fallacy &lpar;And Why It Breaks at Scale&rpar;](https://dev.to/ghostking314/the-20-ai-stack-fallacy-and-why-it-breaks-at-scale-mhe)
 - [Making Linux Work as a Corporate Desktop](https://dev.to/sebos/making-linux-work-as-a-corporate-desktop-2ji8)
-- [StatefulSet project](https://dev.to/jumptotech/statefulset-project-2p09)
-- [Why Medium Won&#39;t Load in India: The DNS Blockage Explained](https://dev.to/yakhilesh/why-medium-wont-load-in-india-the-dns-blockage-explained-45al)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
