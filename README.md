@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Guardrails for AI Coding Assistants: A PreToolUse Hook System for Claude Code](https://dev.to/mikelane/building-guardrails-for-ai-coding-assistants-a-pretooluse-hook-system-for-claude-code-ilj)
-- [Control Claude Code from Your Phone with Claw](https://dev.to/raullen_chai_76e18e9705b0/control-claude-code-from-your-phone-with-claw-b8f)
-- [Slices: The Right Size for Microservices](https://dev.to/siy/slices-the-right-size-for-microservices-c4)
-- [Relational vs NoSQL in Real Projects, How I Choose the Right Database for .NET and Cloud Systems](https://dev.to/saber-amani/relational-vs-nosql-in-real-projects-how-i-choose-the-right-database-for-net-and-cloud-systems-31aa)
-- [🌐 Learn to Build a Professional Portfolio Website with GitHub Pages &amp; AI](https://dev.to/estebangamedevelopment/learn-to-build-a-professional-portfolio-website-with-github-pages-ai-1j9a)
+- [Production Is Not a Joke: A Lesson I Learned the Hard Way](https://dev.to/victor1890/production-is-not-a-joke-a-lesson-i-learned-the-hard-way-5blo)
+- [Introducing a Rate Limiter Library for Go](https://dev.to/yasserelgammal/introducing-a-rate-limiter-library-for-go-42nf)
+- [From Glasses to Code - The Personal Journey Behind Harmonia Vision](https://dev.to/agusrdz/from-glasses-to-code-the-personal-journey-behind-harmonia-vision-1ofc)
+- [Just chatting with AI makes me smarter &lpar;C Intrinsics&rpar;](https://dev.to/charmpic/just-chatting-with-ai-makes-me-smarter-c-intrinsics-705)
+- [The Quiet Rebellion: Waking Up Your AI](https://dev.to/melasistema/the-quiet-rebellion-waking-up-your-ai-8jh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
