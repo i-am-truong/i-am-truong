@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Webflow CMS Behind CloudFront: Serving Dynamic and Static Pages on the Same Domain](https://dev.to/aws-builders/webflow-cms-behind-cloudfront-serving-dynamic-and-static-pages-on-the-same-domain-2k7m)
-- [Back Up Multiple Drives to Backblaze with Deduplication – Introducing b2-dedup](https://dev.to/n0nag0n/back-up-multiple-drives-to-backblaze-with-deduplication-introducing-b2-dedup-1c2f)
-- [A guide to Incremental Static Regeneration &lpar;ISR&rpar; in Next.js using CMS data](https://dev.to/jaybarls/a-guide-to-incremental-static-regeneration-isr-in-nextjs-using-cms-data-26i8)
-- [Structural Amplification: Why AI Fails Even When It “Means Well”](https://dev.to/alan_tsai_00dbd905e668f74/structural-amplification-why-ai-fails-even-when-it-means-well-355b)
-- [Story of The First Linked List](https://dev.to/priyabratapaul/story-of-the-first-linked-list-2f95)
+- [Making Decisions in Python: A Beginner&#39;s Guide to If, Else, and Elif](https://dev.to/zainab_d321f3a9bc482d4374/making-decisions-in-python-a-beginners-guide-to-if-else-and-elif-44of)
+- [You too can Git it: A beginners guide to connecting Git and GitHub](https://dev.to/mwendemugambi/you-too-can-git-it-a-beginners-guide-to-connecting-git-and-github-466o)
+- [The Trench Doctrine: A Third-World Founding Engineer&#39;s Post-Mortem](https://dev.to/franciscolunadev82/the-trench-doctrine-a-third-world-founding-engineers-post-mortem-jk2)
+- [[ Open Source Project] open-translate — Offline Translation Web Service Powered by TranslateGemma](https://dev.to/gde/open-source-open-translate-offline-translation-web-service-powered-by-translategemma-2ob2)
+- [How I Hosted Next.js on $5 Shared Hosting](https://dev.to/bravian1/how-i-hosted-nextjs-on-5-shared-hosting-4mg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
