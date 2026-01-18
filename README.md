@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Reinventing a Solved Problem: An Architectural Review of Odoo OWL Frontend Framework](https://dev.to/bogaboga1/reinventing-a-solved-problem-an-architectural-review-of-odoo-owl-frontend-framework-2113)
+- [Building a Real-Time &quot;Watchtower&quot;: Implementing GPS Activity Monitoring in 2026](https://dev.to/securitytips/building-a-real-time-watchtower-implementing-gps-activity-monitoring-in-2026-jh2)
 - [Linux Internals Everyone *Must* Understand](https://dev.to/kaustubhyerkade/linux-internals-everyone-must-understand-526l)
 - [Understanding ReLU Through Visual Python Examples](https://dev.to/rijultp/understanding-relu-through-visual-python-examples-1k1n)
 - [Hitori](https://dev.to/orsenthil/hitori-4bn6)
-- [I’m done copy-pasting infrastructure code from old projects](https://dev.to/greatnessinabox/im-done-copy-pasting-infrastructure-code-from-old-projects-2c0o)
-- [HTML/CSS to PDF: How I Solved the &quot;Page Break&quot; Nightmare](https://dev.to/resumemind/htmlcss-to-pdf-how-i-solved-the-page-break-nightmare-mdg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
