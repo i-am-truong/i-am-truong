@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Azure Practice Day 1](https://dev.to/devopsdynamicshub/azure-practice-day-1-1kp8)
+- [The Core Architectural Components of Azure](https://dev.to/awokay/the-core-architectural-components-of-azure-3bc4)
+- [Mastering the Fetch API with Real‑Life JavaScript Examples](https://dev.to/mdfahim18/mastering-the-fetch-api-with-real-life-javascript-examples-eke)
+- [Emojis: From Japanese Mobile Phones to a Global Visual Language](https://dev.to/kulikboxx/emojis-from-japanese-mobile-phones-to-a-global-visual-language-hpn)
 - [/statusline: Build Your Dream Status Bar for Claude Code](https://dev.to/rajeshroyal/statusline-build-your-dream-status-bar-for-claude-code-50p5)
-- [Doubly: Why Arrays Aren&#39;t Always Enough](https://dev.to/lnationorg/doubly-why-arrays-arent-always-enough-ji6)
-- [Building a Resilient Meta Tag Analyzer with DOMParser and Serverless](https://dev.to/ahmad_shakibnasaj_a8f9bb/building-a-resilient-meta-tag-analyzer-with-domparser-and-serverless-2k6m)
-- [I figured out how to actually be the “first applicant” on LinkedIn](https://dev.to/salaria_labs/i-figured-out-how-to-actually-be-the-first-applicant-on-linkedin-40ip)
-- [Supply Chain Orchestration for dummies](https://dev.to/intersystems/supply-chain-orchestration-for-dummies-2j66)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
