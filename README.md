@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Further explanations on the article &quot;Why XLang is an innovative programming language&quot;](https://dev.to/canonical/further-explanations-on-the-article-why-xlang-is-an-innovative-programming-language-3da1)
-- [Setting Up Custom Domains in Lovable: Subdomain Design &amp; A+TXT Records](https://dev.to/tielec-takashi/setting-up-custom-domains-in-lovable-subdomain-design-atxt-records-3ee5)
-- [LET&#39;S GIT IT—A Beginner&#39;s Guide to Version Control.](https://dev.to/brian_muchoki_79c404aa499/lets-git-it-a-beginners-guide-to-version-control-1l51)
-- [📱 Your Child Is Still Awake: Raising Kids in a World of Screens and AI](https://dev.to/jeanphilippe_ulpiano_46b/your-child-is-still-awake-raising-kids-in-a-world-of-screens-and-ai-1kk7)
-- [Protecting Your Website with Cloudflare: Security, Performance, and Reliability [Part 2]](https://dev.to/bemals_dvanitha_5b14b68f9/protecting-your-website-with-cloudflare-security-performance-and-reliability-part-2-4b)
+- [Hey world, I made a programming language &lpar;and it’s alive!&rpar;](https://dev.to/swifteexstudio/hey-world-i-made-a-programming-language-and-its-alive-1154)
+- [Result Pattern in C#](https://dev.to/adrianbailador/result-pattern-in-c-fal)
+- [🤖 AI SEO for Modern Web Applications &lpar;Next.js, TS &amp; JS&rpar;](https://dev.to/hbkabir004/ai-seo-for-modern-web-applications-nextjs-ts-js-4fo8)
+- [ElevenLabs: $99/mo vs. Kokoro + VoxCPM: $0 &lpar;Better Quality&rpar; 🎙️](https://dev.to/_aparna_pradhan_/elevenlabs-99mo-vs-kokoro-voxcpm-0-better-quality-1p47)
+- [🔥 Claude Opus 4.5 vs GPT 5.2 High vs Gemini 3 Pro: Production Coding Test ✅](https://dev.to/tensorlake/claude-opus-45-vs-gpt-52-high-vs-gemini-3-pro-production-coding-test-25of)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
