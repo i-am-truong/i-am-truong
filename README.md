@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating Custom Voice Profiles in VAPI for Personalized Marketing Campaigns](https://dev.to/callstacktech/creating-custom-voice-profiles-in-vapi-for-personalized-marketing-campaigns-3hma)
+- [Audit: Practical Audit Logging for Go](https://dev.to/w0rng/audit-practical-audit-logging-for-go-5ae9)
+- [Routing Observable and Secure Traffic Through Claude](https://dev.to/thenjdevopsguy/routing-observable-and-secure-traffic-through-claude-2idk)
+- [Why You Freeze When Starting a New Project &lpar;And 5 Questions to Fix It&rpar;](https://dev.to/samuel_ochaba_eb9c875fa89/why-you-freeze-when-starting-a-new-project-and-5-questions-to-fix-it-57mm)
 - [This is for testing](https://dev.to/ganeshmani/this-is-for-testing-1na6)
-- [How to Create City Boy Meme](https://dev.to/_75729aa6b13e505e279f7/how-to-create-city-boy-meme-40h2)
-- [From Academia to Industry: The World Is Bigger Than You Thought](https://dev.to/eduardogade/from-academia-to-industry-the-world-is-bigger-than-you-thought-3em0)
-- [Unleashing DevOps with Automated VM Labs: Vagrant + Libvirt + Ansible 🚀](https://dev.to/ken_mwaura1/unleashing-devops-with-automated-vm-labs-vagrant-libvirt-ansible-2gmk)
-- [Getting Started with 2D Games Using Pyxel &lpar;Part 15&rpar;: Tunnel Dodge Game 2 &lpar;Sample&rpar;](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-pyxel-part-15-tunnel-dodge-game-2-sample-lgd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
