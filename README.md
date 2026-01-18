@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Getting Started with Git and GitHub: A Beginner’s Guide](https://dev.to/njokijoan003commits/getting-started-with-git-and-github-a-beginners-guide-2k93)
-- [Humans, Machines, and Ratatouille 🐀](https://dev.to/iacriolla/humans-machines-and-ratatouille-2d4p)
-- [Conversation Flow Control: When Users Don’t Follow Your Script](https://dev.to/faraz_farhan_83ed23a154a2/conversation-flow-control-when-users-dont-follow-your-script-1d07)
-- [🎯 Choosing Between WebSocket and Socket.io: A Decision Every Dev Faces](https://dev.to/mayankrsagar/choosing-between-websocket-and-socketio-a-decision-every-dev-faces-3g2d)
-- [Introducing Symbols](https://dev.to/nikoloza/introducing-symbols-1ffj)
+- [RCt2 – A Pragmatic Evolution of BDD for Software Test Cases](https://dev.to/rafael_cardoso_c438f2c879/rct2-a-pragmatic-evolution-of-bdd-for-software-test-cases-37go)
+- [I Got Tired of &quot;It Works on My Machine&quot; So I Built a Time-Travel Debugger](https://dev.to/ujwal240/i-got-tired-of-it-works-on-my-machine-so-i-built-a-time-travel-debugger-235h)
+- [Introduction to Git and Github](https://dev.to/kuria_dd8316139db3dea9c85/introduction-to-git-and-github-230e)
+- [Understanding Git and GitHub: A Biginners Guide](https://dev.to/josepho_okwemba_a02e2378a/understanding-git-and-github-a-biginners-guide-4gho)
+- [Java Multithreading/Concurrency](https://dev.to/achavan/java-multithreadingconcurrency-f4a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
