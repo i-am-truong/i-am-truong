@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Control Claude Code from Your Phone with Claw](https://dev.to/raullen_chai_76e18e9705b0/control-claude-code-from-your-phone-with-claw-b8f)
+- [Slices: The Right Size for Microservices](https://dev.to/siy/slices-the-right-size-for-microservices-c4)
+- [Relational vs NoSQL in Real Projects, How I Choose the Right Database for .NET and Cloud Systems](https://dev.to/saber-amani/relational-vs-nosql-in-real-projects-how-i-choose-the-right-database-for-net-and-cloud-systems-31aa)
 - [🌐 Learn to Build a Professional Portfolio Website with GitHub Pages &amp; AI](https://dev.to/estebangamedevelopment/learn-to-build-a-professional-portfolio-website-with-github-pages-ai-1j9a)
 - [Creacion de una base de conocimiento en Bedrock con Amazon OpenSearch Service.](https://dev.to/francy/creacion-de-una-base-de-conocimiento-en-bedrock-con-amazon-opensearch-service-3hpc)
-- [Migração de dados entre serviços: estratégias, riscos e trade-offs](https://dev.to/lumamontes/migracao-de-dados-entre-servicos-estrategias-riscos-e-trade-offs-4p3c)
-- [The $20 AI Stack Fallacy &lpar;And Why It Breaks at Scale&rpar;](https://dev.to/ghostking314/the-20-ai-stack-fallacy-and-why-it-breaks-at-scale-mhe)
-- [Making Linux Work as a Corporate Desktop](https://dev.to/sebos/making-linux-work-as-a-corporate-desktop-2ji8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
