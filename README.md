@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [When DEV.to Stats Aren&#39;t Enough: Building My Own Memory](https://dev.to/pascal_cescato_692b7a8a20/when-devto-stats-arent-enough-building-my-own-memory-5cid)
+- [Post 6/10 — Helm Fundamentals Done Right: Chart Architecture, Values Schema, and Reuse](https://dev.to/cloud-sky-ops/post-610-helm-fundamentals-done-right-chart-architecture-values-schema-and-reuse-3bah)
 - [Booting Raspberry Pi 3 Model B from SSD](https://dev.to/donkeysharp/booting-raspberry-pi-3-model-b-from-ssd-5445)
-- [The Sensational Release of jQuery 4.0.0 and the End of Framework Dictatorship](https://dev.to/jsgurujobs/the-sensational-release-of-jquery-400-and-the-end-of-framework-dictatorship-3677)
-- [Network Engineer](https://dev.to/desinetworker/network-engineer-3e7o)
-- [Reinventing a Solved Problem: An Architectural Review of Odoo OWL Frontend Framework](https://dev.to/bogaboga1/reinventing-a-solved-problem-an-architectural-review-of-odoo-owl-frontend-framework-2113)
-- [Building a Real-Time &quot;Watchtower&quot;: Implementing GPS Activity Monitoring in 2026](https://dev.to/securitytips/building-a-real-time-watchtower-implementing-gps-activity-monitoring-in-2026-jh2)
+- [When Intelligence Awakens: Artificial Awareness, Ethical Design, and the Continuing Inquiry of Abhishek Desikan](https://dev.to/abhishekdesikan/when-intelligence-awakens-artificial-awareness-ethical-design-and-the-continuing-inquiry-of-26gd)
+- [When Intelligence Awakens: Artificial Awareness and the Evolving Interpretations of Abhishek Desikan](https://dev.to/abhishekdesikan/when-intelligence-awakens-artificial-awareness-and-the-evolving-interpretations-of-abhishek-desikan-8h8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
