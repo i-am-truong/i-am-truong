@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Introducing PodcastAIStudio: AI-Powered Podcast Creation Made Simple](https://dev.to/hannesegi_65f6f1d62f5faea/introducing-podcastaistudio-ai-powered-podcast-creation-made-simple-khh)
-- [API vs MCP: Understanding the Shift From Developer Tools to AI Agents](https://dev.to/haseeb1009/api-vs-mcp-understanding-the-shift-from-developer-tools-to-ai-agents-5dcn)
-- [Building AI-Powered Data Analytics with MindsDB Enterprise: From Natural Language to Charts](https://dev.to/mindsdb/building-ai-powered-data-analytics-with-mindsdb-enterprise-from-natural-language-to-charts-49o3)
-- [My Coding Rules for Bash Scripts](https://dev.to/mcgivrer/my-coding-rules-for-bash-scripts-4n3j)
-- [Extracting a Shared Box URL from the Login Page](https://dev.to/vast-cow/extracting-a-shared-box-url-from-the-login-page-5d75)
+- [Recreating a bcache Backing Device with a New Block Size &lpar;Cache Device Not Used&rpar;](https://dev.to/vast-cow/recreating-a-bcache-backing-device-with-a-new-block-size-cache-device-not-used-19f5)
+- [Java-8 &lpar;Using lambdas with collections&rpar;](https://dev.to/s_mathavi_2fa1e3ea8514f34/java-8-using-lambdas-with-collections-26e7)
+- [Ethereum-Solidity Quiz Q23: What is C3 Linearization in smart contract inheritance?](https://dev.to/mihaihng/ethereum-solidity-quiz-q23-what-is-c3-linearization-in-smart-contract-inheritance-4336)
+- [The Cognitive Budget: How I Write Code I Can Actually Maintain](https://dev.to/doogal/the-cognitive-budget-how-i-write-code-i-can-actually-maintain-llf)
+- [Running dnsmasq as a Dedicated DNS Server with macvlan to Avoid systemd-resolved Conflicts](https://dev.to/vast-cow/running-dnsmasq-as-a-dedicated-dns-server-with-macvlan-to-avoid-systemd-resolved-conflicts-5akp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
