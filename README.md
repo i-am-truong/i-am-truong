@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Make Umbraco’s Welcome Dashboard Your Own](https://dev.to/skttl/make-umbracos-welcome-dashboard-your-own-i1a)
-- [C++ for backend applications - Get started with this simple template](https://dev.to/landiluigi746/c-for-backend-applications-get-started-with-this-simple-template-2pb6)
-- [I Replaced My scripts/ Folder With a Browser Tool — Here&#39;s Why](https://dev.to/kevin_tan_29e4fbebec2fd64/i-replaced-my-scripts-folder-with-a-browser-tool-heres-why-1hhl)
-- [From memory to machines: how notifications actually work](https://dev.to/surhidamatya/from-memory-to-machines-how-notifications-actually-work-1f75)
-- [Building an Ultra-Modern Animated Portfolio with Google AI Studio &amp; Gemini](https://dev.to/aniruddhaadak/building-an-ultra-modern-animated-portfolio-with-google-ai-studio-gemini-4cga)
+- [Rewriting Remote Git History with `reset` and `push --force-with-lease`](https://dev.to/vast-cow/rewriting-remote-git-history-with-reset-and-push-force-with-lease-407a)
+- [Installing Realtek r8168 as a DKMS Module on Rocky Linux &lpar;ELRepo `kernel-lt`&rpar;](https://dev.to/vast-cow/installing-realtek-r8168-as-a-dkms-module-on-rocky-linux-elrepo-kernel-lt-439b)
+- [Git for Beginners: Pushing, Pulling and Tracking Code Without the Stress](https://dev.to/kinyywa-data-analyst/git-for-beginners-blm)
+- [From Sequential to Structural: A Paradigm Shift After 15 Years of Java Development](https://dev.to/mysoniw/from-sequential-to-structural-a-paradigm-shift-after-15-years-of-java-development-397o)
+- [🚀 My 2026 AI-Powered Portfolio: Built with Google Antigravity &amp; Deployed on Cloud Run](https://dev.to/mangesh_raut_cf3ef9363c14/my-2026-ai-powered-portfolio-built-with-google-antigravity-deployed-on-cloud-run-4h4j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
