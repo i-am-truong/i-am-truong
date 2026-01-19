@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How React works?](https://dev.to/vijayaragavan_nandhagopal/how-react-works-lhk)
-- [I&#39;m Building My Own Coding Agent Harness &lpar;And It&#39;s Pretty Cool&rpar;](https://dev.to/composiodev/im-building-my-own-coding-agent-harness-and-its-pretty-cool-1lpf)
-- [Amazon Nova 2 Multimodal Embeddings with Amazon S3 Vectors and AWS Java SDK - Part 2 Create and store text and image embeddings](https://dev.to/aws-heroes/amazon-nova-2-multimodal-embeddings-with-amazon-s3-vectors-and-aws-java-sdk-part-2-create-and-27d8)
-- [I Deployed My AI Portfolio on Google Cloud Run with Gemini API dev-tutorial: devnewyear2026](https://dev.to/mohamed_coulibaly/i-deployed-my-ai-portfolio-on-google-cloud-run-with-gemini-api-dev-tutorial-devnewyear2026-1116)
-- [Benchmarking Socket.IO Servers](https://dev.to/sahaj-b/benchmarking-socketio-servers-4n9k)
+- [Advanced Notification System with Reapop and Redux in React](https://dev.to/0g7uvdlgtm/advanced-notification-system-with-reapop-and-redux-in-react-4np4)
+- [From Frequency Count to Two Pointer Technique: Level Up Your Array Skills 🚀](https://dev.to/nithya_dharshiniofficial/from-frequency-count-to-two-pointer-technique-level-up-your-array-skills-38nh)
+- [Teaching LLMs to Stop Wasting Tokens](https://dev.to/sousvidal/teaching-llms-to-stop-wasting-tokens-1e20)
+- [AWS Cloud Operations: The Backbone of Reliable Cloud Systems](https://dev.to/harsh_thombre_03d3c0beeb7/aws-cloud-operations-the-backbone-of-reliable-cloud-systems-24d0)
+- [What are your goals for the week? #162](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-162-341e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
