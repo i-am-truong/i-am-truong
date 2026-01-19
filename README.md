@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cloudflare Workers performance: an experiment with Astro and worldwide latencies](https://dev.to/dagnelies/cloudflare-workers-performance-an-experiment-with-astro-and-worldwide-latencies-12ik)
+- [Let’s Build with AI Like It’s 1998](https://dev.to/uribejr/lets-build-with-ai-like-its-1998-41kl)
 - [Querying &amp; Filtering in Oracle Databases: What Actually Clicked for Me As a Beginner](https://dev.to/mazinocodes/querying-filtering-in-oracle-databases-what-actually-clicked-for-me-as-a-beginner-5di2)
-- [𝗗𝗲𝘀𝗶𝗴𝗻𝗲𝗱 𝗮 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻‑𝗥𝗲𝗮𝗱𝘆 𝗠𝘂𝗹𝘁𝗶‑𝗥𝗲𝗴𝗶𝗼𝗻 𝗔𝗪𝗦 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲 𝗘𝗞𝗦 | 𝗖𝗜/𝗖𝗗 | 𝗖𝗮𝗻𝗮𝗿𝘆 𝗗𝗲𝗽𝗹𝗼𝘆𝗺𝗲𝗻𝘁𝘀 | 𝗗𝗥 𝗙𝗮𝗶𝗹𝗼𝘃𝗲𝗿](https://dev.to/emmao/--18j9)
-- [Creating a AI-enabled Slackbot with AWS Bedrock Knowledge Base](https://dev.to/aws-builders/creating-a-ai-enabled-slackbot-with-aws-bedrock-knowledge-base-4pdm)
-- [hakozuna &lpar;hz3&rpar; - A new memory allocator released](https://dev.to/charmpic/hakozuna-hz3-a-new-memory-allocator-released-2d23)
-- [SC #11: Task Groups](https://dev.to/david_goyes_a488f58a17a53/sc-11-task-groups-2jgp)
+- [OpenAI&#39;s ChatGPT Ads Could Kill Google&#39;s $200B Search Business](https://dev.to/ownlife/openais-chatgpt-ads-could-kill-googles-200b-search-business-579c)
+- [Choosing a Stack Is a Social Decision, Not a Technical One](https://dev.to/_boweii/choosing-a-stack-is-a-social-decision-not-a-technical-one-o60)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
