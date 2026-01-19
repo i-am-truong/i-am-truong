@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Google Coding Interview: The Complete 2026 Guide &lpar;From an Ex-Googler&rpar;](https://dev.to/alex_hunter_44f4c9ed6671e/google-coding-interview-the-complete-2026-guide-from-an-ex-googler-3185)
-- [When Pendulum Physics Becomes Art: Implementing a Pollock-Style Generative Art Generator](https://dev.to/usapopopooon/when-pendulum-physics-becomes-art-implementing-a-pollock-style-generative-art-generator-104i)
-- [Stop Putting Everything in AGENTS.md](https://dev.to/shinpr/stop-putting-everything-in-agentsmd-22bl)
-- [AI Finally Lets Startups Sweat the Small Stuff](https://dev.to/traviticus/ai-finally-lets-startups-sweat-the-small-stuff-15di)
-- [eSIM Routing Explained: Where Your Traffic Actually Goes](https://dev.to/julianh/esim-routing-explained-where-your-traffic-actually-goes-3b65)
+- [Meme Monday](https://dev.to/ben/meme-monday-dcl)
+- [Understanding Array Traversal Patterns in JavaScript](https://dev.to/travisfont/understanding-array-traversal-patterns-in-javascript-gfg)
+- [Bridging a System-Level systemd Target to the User Instance](https://dev.to/vast-cow/bridging-a-system-level-systemd-target-to-the-user-instance-1601)
+- [Looking Back to Move Forward](https://dev.to/brendon_oneill__/looking-back-to-move-forward-3ff3)
+- [MarkdownConverter.pro – An online Markdown ↔ PDF / Word / HTML conversion tool for developers.](https://dev.to/peng_dai_ab3e58dea023479a/markdownconverterpro-an-online-markdown-pdf-word-html-conversion-tool-for-developers-29nh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
