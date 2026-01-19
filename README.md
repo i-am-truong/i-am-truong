@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Rewriting Remote Git History with `reset` and `push --force-with-lease`](https://dev.to/vast-cow/rewriting-remote-git-history-with-reset-and-push-force-with-lease-407a)
-- [Installing Realtek r8168 as a DKMS Module on Rocky Linux &lpar;ELRepo `kernel-lt`&rpar;](https://dev.to/vast-cow/installing-realtek-r8168-as-a-dkms-module-on-rocky-linux-elrepo-kernel-lt-439b)
-- [Git for Beginners: Pushing, Pulling and Tracking Code Without the Stress](https://dev.to/kinyywa-data-analyst/git-for-beginners-blm)
-- [From Sequential to Structural: A Paradigm Shift After 15 Years of Java Development](https://dev.to/mysoniw/from-sequential-to-structural-a-paradigm-shift-after-15-years-of-java-development-397o)
-- [🚀 My 2026 AI-Powered Portfolio: Built with Google Antigravity &amp; Deployed on Cloud Run](https://dev.to/mangesh_raut_cf3ef9363c14/my-2026-ai-powered-portfolio-built-with-google-antigravity-deployed-on-cloud-run-4h4j)
+- [The Secret Life of Go: Concurrency](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-concurrency-1o2i)
+- [Why Ctrl+C “Doesn’t Work” in a Windows Message Loop: `GetMessageW&lpar;&rpar;` Blocking, and Two Practical Fixes](https://dev.to/vast-cow/why-ctrlc-doesnt-work-in-a-windows-message-loop-getmessagew-blocking-and-two-practical-1l2j)
+- [Why Most AI Systems Fail at Context, Not Generation](https://dev.to/leigh_k_valentine/why-most-ai-systems-fail-at-context-not-generation-274j)
+- [Running a RAG Pipeline in a Production Full-Stack Application &lpar;Without a Vector Database&rpar;](https://dev.to/mate32/running-a-rag-pipeline-in-a-production-full-stack-application-without-a-vector-database-42fj)
+- [Django Static Files: The Complete Guide - From Local Dev to S3 Production with Tailwind CSS](https://dev.to/ajitkumar/django-static-files-the-complete-guide-from-local-dev-to-s3-production-with-tailwind-css-ab4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
