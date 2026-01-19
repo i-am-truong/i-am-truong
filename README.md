@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My TicketDesk System](https://dev.to/hashimd/my-ticketdesk-system-obi)
-- [Recreating a bcache Backing Device with a New Block Size &lpar;Cache Device Not Used&rpar;](https://dev.to/vast-cow/recreating-a-bcache-backing-device-with-a-new-block-size-cache-device-not-used-19f5)
-- [Java-8 &lpar;Using lambdas with collections&rpar;](https://dev.to/s_mathavi_2fa1e3ea8514f34/java-8-using-lambdas-with-collections-26e7)
-- [Ethereum-Solidity Quiz Q23: What is C3 Linearization in smart contract inheritance?](https://dev.to/mihaihng/ethereum-solidity-quiz-q23-what-is-c3-linearization-in-smart-contract-inheritance-4336)
-- [The Cognitive Budget: How I Write Code I Can Actually Maintain](https://dev.to/doogal/the-cognitive-budget-how-i-write-code-i-can-actually-maintain-llf)
+- [AI Isn’t Replacing Developers—It’s Exposing Execution Gaps in Teams](https://dev.to/workelate123/ai-isnt-replacing-developers-its-exposing-execution-gaps-in-teams-34jf)
+- [Accidentally Pushed Your .env Again? 😱 Let’s Fix That Forever with .gitignore](https://dev.to/vasughanta09/accidentally-pushed-your-env-again-lets-fix-that-forever-with-gitignore-1ibn)
+- [Helm Chart Best Practices - What Every DevOps Engineer Should Know](https://dev.to/atmosly/helm-chart-best-practices-what-every-devops-engineer-should-know-4eeb)
+- [Idealização e escolha de tecnologias](https://dev.to/ruanaragao/idealizacao-e-escolha-de-tecnologias-10nk)
+- [❤️‍🔥 VIKRAM &lpar;32-bit&rpar; &amp; DHRUV64 &lpar;64-bit&rpar;: India’s Indigenous Processors for Space 🛰 and Defence 🔰](https://dev.to/hemant_007/vikram-32-bit-dhruv64-64-bit-indias-indigenous-processors-for-space-and-defence-1ap6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
