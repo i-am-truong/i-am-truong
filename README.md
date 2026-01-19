@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Deploying a Highly Available Web Application on AWS using ALB &amp; Auto Scaling &lpar;Beginner-Friendly&rpar;](https://dev.to/irfanpasha/deploying-a-highly-available-web-application-on-aws-using-alb-auto-scaling-beginner-friendly-mp9)
+- [Speeding Up PostgreSQL in Containers](https://dev.to/miry/speeding-up-postgresql-in-containers-1eeg)
+- [Data Engineering Uncovered: What It Is and Why It Matters](https://dev.to/qvfagundes/data-engineering-uncovered-what-it-is-and-why-it-matters-3c26)
 - [Cloudflare Workers performance: an experiment with Astro and worldwide latencies](https://dev.to/dagnelies/cloudflare-workers-performance-an-experiment-with-astro-and-worldwide-latencies-12ik)
 - [Let’s Build with AI Like It’s 1998](https://dev.to/uribejr/lets-build-with-ai-like-its-1998-41kl)
-- [Querying &amp; Filtering in Oracle Databases: What Actually Clicked for Me As a Beginner](https://dev.to/mazinocodes/querying-filtering-in-oracle-databases-what-actually-clicked-for-me-as-a-beginner-5di2)
-- [OpenAI&#39;s ChatGPT Ads Could Kill Google&#39;s $200B Search Business](https://dev.to/ownlife/openais-chatgpt-ads-could-kill-googles-200b-search-business-579c)
-- [Choosing a Stack Is a Social Decision, Not a Technical One](https://dev.to/_boweii/choosing-a-stack-is-a-social-decision-not-a-technical-one-o60)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
