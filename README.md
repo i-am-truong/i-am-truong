@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Simple Python Tool for Controlled PDF Text Extraction &lpar;PyPDF&rpar;](https://dev.to/vast-cow/a-simple-python-tool-for-controlled-pdf-text-extraction-pypdf-3gi7)
-- [Swarm-IOSM: Orchestrating Parallel AI Agents with Quality Gates](https://dev.to/rokoss21/swarm-iosm-orchestrating-parallel-ai-agents-with-quality-gates-8fk)
-- [A Bookmarklet for Jumping Between ChatGPT Conversation Articles](https://dev.to/vast-cow/a-bookmarklet-for-jumping-between-chatgpt-conversation-articles-39l3)
-- [A Simple Bookmarklet Selector UI](https://dev.to/vast-cow/a-simple-bookmarklet-selector-ui-2793)
-- [I built a free, privacy-first WakaTime alternative &lpar;using Go &amp; MongoDB&rpar; for VS Code &amp; Neovim with Zero Latency](https://dev.to/rtarun3606k/i-built-a-free-privacy-first-wakatime-alternative-using-go-mongodb-for-vs-code-neovim-with-2p4e)
+- [🎨 Build a Background Generator Tool in Python &lpar;Step-by-Step&rpar;](https://dev.to/matetechnologie/build-a-background-generator-tool-in-python-step-by-step-1pg1)
+- [Agile | Scrum &amp; Kanban Framework](https://dev.to/itsmecharan7/agile-scrum-kanban-framework-d4k)
+- [Finally shipped this! I wanted a free, privacy-first alternative to WakaTime, so I built my own using Go &amp; MongoDB. It handles async uploads with zero latency on VS Code &amp; Neovim. Would love to hear your feedback on the architecture!](https://dev.to/rtarun3606k/finally-shipped-this-i-wanted-a-free-privacy-first-alternative-to-wakatime-so-i-built-my-own-4n26)
+- [I Built a Free Lorem Ipsum Generator for Developers &amp; Designers 🚀](https://dev.to/biplob_barman_93c5009f323/i-built-a-free-lorem-ipsum-generator-for-developers-designers-26j9)
+- [Mastering tRPC with React Server Components: The Definitive 2026 Guide](https://dev.to/christadrian/mastering-trpc-with-react-server-components-the-definitive-2026-guide-1i2e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
