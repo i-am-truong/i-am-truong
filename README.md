@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Warm Welcome Badge is Back! 🌟🎉](https://dev.to/devteam/the-warm-welcome-badge-is-back-5a6d)
+- [Portfolio &amp; Summarizing Dev Journals Using Google AI &amp; Cloud Run](https://dev.to/fengjinglan/portfolio-summarizing-dev-journals-using-google-ai-cloud-run-29jj)
+- [How to Build an AI That Roasts Your Spending Habits &lpar;3 hours Weekend Project&rpar;](https://dev.to/ambalogun/how-to-build-an-ai-that-roasts-your-spending-habits-3-hours-weekend-project-pmf)
 - [How We Built MCP Support in Bifrost &lpar;And What We Learned About Agent Security&rpar;](https://dev.to/pranay_batta/-how-we-built-mcp-support-in-bifrost-and-what-we-learned-about-agent-security-5dk6)
-- [Webhooks at Scale: Designing an Idempotent, Replay-Safe, and Observable Webhook System](https://dev.to/art_light/webhooks-at-scale-designing-an-idempotent-replay-safe-and-observable-webhook-system-7lk)
-- [SC #10: Tarea desacoplada](https://dev.to/david_goyes_a488f58a17a53/sc-10-tarea-desacoplada-225f)
-- [The &quot;Designer Flow&quot; for AI: Why I Built a Bridge to Google Stitch](https://dev.to/kargatharaaakash/the-designer-flow-for-ai-why-i-built-a-bridge-to-google-stitch-423k)
-- [Music Monday: Taking a &#39;Break&#39;](https://dev.to/musicforem/music-monday-taking-a-break-13m0)
+- [DNS Explained in very simple words&lpar;For Everyone&rpar;](https://dev.to/debashis_das_4deca65ec224/dns-explained-in-very-simple-wordsfor-everyone-5e12)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
