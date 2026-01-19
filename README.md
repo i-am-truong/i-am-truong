@@ -120,11 +120,15 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Introducing WeddingCrossword.com - Custom Crossword Puzzles for Your Special Day 💕](https://dev.to/_90182f41aa96ab0f245ab/introducing-weddingcrosswordcom-custom-crossword-puzzles-for-your-special-day-k7k)
-- [10 Ways to Stand Out at Work—Other than Work Hard](https://dev.to/canro91/10-ways-to-stand-out-at-work-other-than-work-hard-1gpa)
-- [Day 14: When Restarting Feels Heavy](https://dev.to/casperday11/day-14-when-restarting-feels-heavy-2bk2)
-- [Model Context Protocol &lpar;MCP&rpar; Explained for Developers: Why AI Agents Need It](https://dev.to/prabhav_jain_a0be90b5a905/model-context-protocol-mcp-explained-for-developers-why-ai-agents-need-it-e5j)
-- [Implementing a Cost-Efficient Micro services Platform on Azure Kubernetes](https://dev.to/koladilip/implementing-a-cost-efficient-microservices-platform-on-azure-kubernetes-45jm)
+- [Elegant Domain-Driven Design objects in Go](https://dev.to/manuelarte/elegant-domain-driven-design-objects-in-go-2bhi)
+- [The Medical Chatbot That Diagnosed Everyone With Cancer](https://dev.to/faraz_farhan_83ed23a154a2/the-medical-chatbot-that-diagnosed-everyone-with-cancer-fbj)
+- [Build Your Own Face Swap Application Using Google Colab](https://dev.to/lightningdev123/build-your-own-face-swap-application-using-google-colab-4379)
+- [From Greedy to Smart: Optimizing the Block Blast Solver&#39;s Scoring Engine](https://dev.to/augsutss/from-greedy-to-smart-optimizing-the-block-blast-solvers-scoring-engine-395i)
+- [I asked Claude Code to build the &quot;Open Cowork&quot; 
+The project is live on GitHub: GitHub - kuse-ai/kuse_cowork: Open-source Alternative for Claude Code Desktop App
+
+It&#39;s still very early, and there&#39;s a long roadmap ahead.
+Any feedback is welcome!](https://dev.to/yuhaoxu/i-asked-claude-code-to-build-the-open-cowork-the-project-is-live-on-github-24h6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
