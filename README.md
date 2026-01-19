@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Demystifying AI Serving for Java Developers: Apache Camel + TensorFlow Explained](https://dev.to/vigneshjd/demystifying-ai-serving-for-java-developers-apache-camel-tensorflow-explained-46dp)
-- [Top Strategies to Optimize High-Traffic Node.js APIs](https://dev.to/jefersoneiji/top-strategies-to-optimize-high-traffic-nodejs-apis-a16)
-- [When Your Cheap Sensor Breaks Everything: Understanding LSP](https://dev.to/robjohnston/interchangeable-components-when-inheritance-works-and-when-it-doesnt-2g48)
-- [Graceful degradation in practice: how FeatureOps builds real resilience](https://dev.to/alexcasalboni/graceful-degradation-in-practice-how-featureops-builds-real-resilience-1p4i)
-- [Why gRPC is not more popular?](https://dev.to/dawidkaluza/why-grpc-is-not-more-popular-1gn3)
+- [Google Coding Interview: The Complete 2026 Guide &lpar;From an Ex-Googler&rpar;](https://dev.to/alex_hunter_44f4c9ed6671e/google-coding-interview-the-complete-2026-guide-from-an-ex-googler-3185)
+- [When Pendulum Physics Becomes Art: Implementing a Pollock-Style Generative Art Generator](https://dev.to/usapopopooon/when-pendulum-physics-becomes-art-implementing-a-pollock-style-generative-art-generator-104i)
+- [Stop Putting Everything in AGENTS.md](https://dev.to/shinpr/stop-putting-everything-in-agentsmd-22bl)
+- [AI Finally Lets Startups Sweat the Small Stuff](https://dev.to/traviticus/ai-finally-lets-startups-sweat-the-small-stuff-15di)
+- [eSIM Routing Explained: Where Your Traffic Actually Goes](https://dev.to/julianh/esim-routing-explained-where-your-traffic-actually-goes-3b65)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
