@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [OCI Generative AI and LangChain: Building Enterprise AI Applications with Oracle](https://dev.to/derrickryangiggs/oci-generative-ai-and-langchain-building-enterprise-ai-applications-with-oracle-3f0j)
-- [Why Per-Seat Pricing for Support Tools is Bleeding Your SaaS Dry](https://dev.to/kalwiggins/why-per-seat-pricing-for-support-tools-is-bleeding-your-saas-dry-1k4p)
-- [Brain.A turns 40 🥳 - A Bedtime Story](https://dev.to/yuridevat/braina-turns-40-a-bedtime-story-44li)
-- [Designing Better Compiler Diagnostics — Lessons from building Klar](https://dev.to/lucaasd3v/designing-better-compiler-diagnostics-lessons-from-building-klar-bhb)
-- [Stop reinventing the wheel. Meet Core-X: A Secure Node.js &amp; Supabase Boilerplate](https://dev.to/ym_zerotwo_8bbff6a4570ace/stop-reinventing-the-wheel-meet-core-x-a-secure-nodejs-supabase-boilerplate-55op)
+- [Part 1 — The Era of the Stack Reconciler](https://dev.to/nehamalviaaa/part-1-the-era-of-the-stack-reconciler-4jg8)
+- [I Built PkgWatch to Predict npm Package Abandonment Before It Breaks Your Build](https://dev.to/dlaranjo/i-built-pkgwatch-to-predict-npm-package-abandonment-before-it-breaks-your-build-47n8)
+- [NgRx Toolkit v21](https://dev.to/ngrx-toolkit/ngrx-toolkit-v21-4l46)
+- [Getting Started with Pure React Carousel: Building Image Carousels](https://dev.to/web3logic/getting-started-with-pure-react-carousel-building-image-carousels-2a89)
+- [Building a Todo App with Vanilla JavaScript](https://dev.to/amir_dev_amir_dev_amir_dev/building-a-todo-app-with-vanilla-javascript-32k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
