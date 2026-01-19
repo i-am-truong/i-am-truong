@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Debugging Microservices Like a Pro: How Trace IDs Saved My Production Incident](https://dev.to/nishantmodak/debugging-microservices-like-a-pro-how-trace-ids-saved-my-production-incident-7o6)
-- [A Practical Guide to Replacing NetSuite SOAP Web Services with REST](https://dev.to/neos/a-practical-guide-to-replacing-netsuite-soap-web-services-with-rest-136o)
-- [🌸 Bloom Update — New Features, Fixes, and a More Polished Experience](https://dev.to/codebunny20/bloom-update-new-features-fixes-and-a-more-polished-experience-1jii)
-- [Playwright Reporting Breaks Down as Your Suite Grows &lpar;and How a Test Dashboard Fixes It&rpar;](https://dev.to/testdino01/playwright-reporting-breaks-down-as-your-suite-grows-and-how-a-test-dashboard-fixes-it-k20)
-- [Understanding ArkTS ArcList: The Go-To Component for Watch UIs](https://dev.to/harmonyos/understanding-arkts-arclist-the-go-to-component-for-watch-uis-1hc9)
+- [Make Umbraco’s Welcome Dashboard Your Own](https://dev.to/skttl/make-umbracos-welcome-dashboard-your-own-i1a)
+- [C++ for backend applications - Get started with this simple template](https://dev.to/landiluigi746/c-for-backend-applications-get-started-with-this-simple-template-2pb6)
+- [I Replaced My scripts/ Folder With a Browser Tool — Here&#39;s Why](https://dev.to/kevin_tan_29e4fbebec2fd64/i-replaced-my-scripts-folder-with-a-browser-tool-heres-why-1hhl)
+- [From memory to machines: how notifications actually work](https://dev.to/surhidamatya/from-memory-to-machines-how-notifications-actually-work-1f75)
+- [Building an Ultra-Modern Animated Portfolio with Google AI Studio &amp; Gemini](https://dev.to/aniruddhaadak/building-an-ultra-modern-animated-portfolio-with-google-ai-studio-gemini-4cga)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
