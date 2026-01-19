@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Workaround for Certbot Installation on Raspbian 11 &lpar;Bullseye&rpar; armv7l with Python 3.9](https://dev.to/vast-cow/workaround-for-certbot-installation-on-raspbian-11-bullseye-armv7l-with-python-39-17mp)
-- [Vibe Coding in 2026: Teaching Machines to Sense Flow](https://dev.to/numbpill3d/vibe-coding-in-2026-teaching-machines-to-sense-flow-2l28)
-- [What are Regression Issues?](https://dev.to/itsmecharan7/what-are-regression-issues-353b)
-- [Standing Up Collision Check &lpar;Crouch Stand&rpar;](https://dev.to/hyeongjiin/standing-up-collision-check-crouch-stand-41gn)
-- [Complete ADS-B Decoder in Rust: Track Aircraft in Real-Time with RTL-SDR](https://dev.to/ktauchathuranga/complete-ads-b-decoder-in-rust-track-aircraft-in-real-time-with-rtl-sdr-330k)
+- [🔧 Integrating tmux automatically in VS Code with persistent sessions](https://dev.to/pookdeveloper/integrating-tmux-automatically-in-vs-code-with-persistent-sessions-95k)
+- [Web3, Explained like ABC](https://dev.to/greyacee/web3-explained-like-abc-4mmh)
+- [AI Coding Assistants: Helpful or Harmful?](https://dev.to/nevpetda/ai-coding-assistants-helpful-or-harmful-1iol)
+- [How I Built a Git Log Diff Workflow Plugin for Neovim](https://dev.to/salanoid/how-i-built-a-git-log-diff-workflow-plugin-for-neovim-278m)
+- [Build a List of Major Web Browsers](https://dev.to/richardpascoe/build-a-list-of-major-web-browsers-m7h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
