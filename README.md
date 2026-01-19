@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Isn’t Replacing Developers—It’s Exposing Execution Gaps in Teams](https://dev.to/workelate123/ai-isnt-replacing-developers-its-exposing-execution-gaps-in-teams-34jf)
-- [Accidentally Pushed Your .env Again? 😱 Let’s Fix That Forever with .gitignore](https://dev.to/vasughanta09/accidentally-pushed-your-env-again-lets-fix-that-forever-with-gitignore-1ibn)
-- [Helm Chart Best Practices - What Every DevOps Engineer Should Know](https://dev.to/atmosly/helm-chart-best-practices-what-every-devops-engineer-should-know-4eeb)
-- [Idealização e escolha de tecnologias](https://dev.to/ruanaragao/idealizacao-e-escolha-de-tecnologias-10nk)
-- [❤️‍🔥 VIKRAM &lpar;32-bit&rpar; &amp; DHRUV64 &lpar;64-bit&rpar;: India’s Indigenous Processors for Space 🛰 and Defence 🔰](https://dev.to/hemant_007/vikram-32-bit-dhruv64-64-bit-indias-indigenous-processors-for-space-and-defence-1ap6)
+- [Stop Writing &quot;Clean Code&quot;. It is Killing Your Productivity.](https://dev.to/the_nortern_dev/stop-writing-clean-code-it-is-killing-your-productivity-36fe)
+- [Regex Tester Online – Test, Debug &amp; Learn Regular Expressions Easily](https://dev.to/simplefiletools/regex-tester-online-test-debug-learn-regular-expressions-easily-fhk)
+- [EF Core Change Tracking: The Bug Factory You Accidentally Built](https://dev.to/paulafahmy/ef-core-change-tracking-the-bug-factory-you-accidentally-built-3e2o)
+- [Building a Google Places Extraction Tool That Actually Scales](https://dev.to/domharvest/building-a-google-places-extraction-tool-that-actually-scales-1i1j)
+- [When You Need Unique Users but Can’t Force Login](https://dev.to/junaidul_islamjarif_f892/when-you-need-unique-users-but-cant-force-login-2jk2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
