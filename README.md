@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Built an AI-Powered PR Reviewer in 15 Minutes Using Agentform](https://dev.to/nirberko/how-i-built-an-ai-powered-pr-reviewer-in-15-minutes-using-agentform-4l1p)
-- [I&#39;m making a solo, dungeon crawling card game!](https://dev.to/thejaydevofficial/im-making-a-solo-dungeon-crawling-card-game-p4l)
-- [Razer AIKit: Open-Source, Local-First AI Workflows for Developers](https://dev.to/mishmanners/razer-aikit-open-source-local-first-ai-workflows-for-developers-4nig)
-- [If ChatGPT Writes Your Code, What Are You Getting Paid For?](https://dev.to/thebitforge/if-chatgpt-writes-your-code-what-are-you-getting-paid-for-1pl5)
-- [Bringing A2UI to Google Workspace with Gemini](https://dev.to/gde/bringing-a2ui-to-google-workspace-with-gemini-4m24)
+- [Debugging Microservices Like a Pro: How Trace IDs Saved My Production Incident](https://dev.to/nishantmodak/debugging-microservices-like-a-pro-how-trace-ids-saved-my-production-incident-7o6)
+- [A Practical Guide to Replacing NetSuite SOAP Web Services with REST](https://dev.to/neos/a-practical-guide-to-replacing-netsuite-soap-web-services-with-rest-136o)
+- [🌸 Bloom Update — New Features, Fixes, and a More Polished Experience](https://dev.to/codebunny20/bloom-update-new-features-fixes-and-a-more-polished-experience-1jii)
+- [Playwright Reporting Breaks Down as Your Suite Grows &lpar;and How a Test Dashboard Fixes It&rpar;](https://dev.to/testdino01/playwright-reporting-breaks-down-as-your-suite-grows-and-how-a-test-dashboard-fixes-it-k20)
+- [Understanding ArkTS ArcList: The Go-To Component for Watch UIs](https://dev.to/harmonyos/understanding-arkts-arclist-the-go-to-component-for-watch-uis-1hc9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
