@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My Portfolio Got a Glow-Up](https://dev.to/dilutewater/my-portfolio-got-a-glow-up-1mch)
-- [Fetching API Data with TypeScript: Using Type Assertions](https://dev.to/victorugs_dev/fetching-api-data-with-typescript-using-type-assertions-16db)
-- [Buenas Prácticas PL/SQL para Backends: Arquitectura sobre Sintaxis](https://dev.to/vinnyumtech/buenas-practicas-plsql-para-backends-arquitectura-sobre-sintaxis-364m)
-- [SEO Explained](https://dev.to/nordiksparkle/seo-explained-5g3o)
-- [5 Hard-Earned Lessons from Building a Production App on Amazon Bedrock](https://dev.to/ravindraptech/5-hard-earned-lessons-from-building-my-first-production-app-on-amazon-bedrock-27in)
+- [Integrating Salesforce with AWS Using AWS IAM Roles Anywhere and Private CA](https://dev.to/mayurbhatti/integrating-salesforce-with-aws-using-aws-iam-roles-anywhere-and-private-ca-1chl)
+- [Mastering Google Gemini: How to Choose Between Speed and Power &lpar;and Save Your Budget&rpar;](https://dev.to/programmingcentral/mastering-google-gemini-how-to-choose-between-speed-and-power-and-save-your-budget-ge)
+- [Custom Logging in Power Automate](https://dev.to/jakemannion/custom-logging-in-power-automate-5294)
+- [Merging To Test Is Killing Your Microservices Velocity](https://dev.to/signadot/merging-to-test-is-killing-your-microservices-velocity-4do0)
+- [Unit Conversion in the Digital Age: Why It Still Matters](https://dev.to/kulikboxx/unit-conversion-in-the-digital-age-why-it-still-matters-mha)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
