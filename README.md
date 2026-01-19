@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Create Your Website Under 15 MINS using AntiGravity!](https://dev.to/pravesh_sudha_3c2b0c2b5e0/create-your-website-under-15-mins-using-antigravity-2m44)
-- [Uvicorn in Modern Python APIs](https://dev.to/hash01/uvicorn-in-modern-python-apis-4m79)
-- [Getting Started with React Highcharts: Creating Interactive Charts in React](https://dev.to/stackforgedev/getting-started-with-react-highcharts-creating-interactive-charts-in-react-5b9b)
-- [The Trade-off: Clean Testing vs. Code Brevity in Modern JS](https://dev.to/hash01/the-trade-off-clean-testing-vs-code-brevity-in-modern-js-12k0)
-- [PageSpeed 70 vs 95: the true reality](https://dev.to/rmarsigli/pagespeed-70-vs-95-the-true-reality-3kb0)
+- [Building Smooth Scrolling with react-scroll in React](https://dev.to/blockpathdev/building-smooth-scrolling-with-react-scroll-in-react-3l2)
+- [Building Drag-and-Drop Tree Views with he-tree-react in React](https://dev.to/blockpathdev/building-drag-and-drop-tree-views-with-he-tree-react-in-react-293d)
+- [Essential AI Knowledge for 2026](https://dev.to/jaskirat_singh_2a03b92b1c/essential-ai-knowledge-for-2026-o6d)
+- [Introducing graphql-complexity-validation](https://dev.to/mateodiaz/introducing-graphql-complexity-validation-5d6d)
+- [Building Complex Tree Views with react-complex-tree in React](https://dev.to/blockpathdev/building-complex-tree-views-with-react-complex-tree-in-react-239a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
