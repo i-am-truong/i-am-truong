@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Advanced Notification System with Reapop and Redux in React](https://dev.to/0g7uvdlgtm/advanced-notification-system-with-reapop-and-redux-in-react-4np4)
-- [From Frequency Count to Two Pointer Technique: Level Up Your Array Skills 🚀](https://dev.to/nithya_dharshiniofficial/from-frequency-count-to-two-pointer-technique-level-up-your-array-skills-38nh)
-- [Teaching LLMs to Stop Wasting Tokens](https://dev.to/sousvidal/teaching-llms-to-stop-wasting-tokens-1e20)
-- [AWS Cloud Operations: The Backbone of Reliable Cloud Systems](https://dev.to/harsh_thombre_03d3c0beeb7/aws-cloud-operations-the-backbone-of-reliable-cloud-systems-24d0)
-- [What are your goals for the week? #162](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-162-341e)
+- [OCI Generative AI and LangChain: Building Enterprise AI Applications with Oracle](https://dev.to/derrickryangiggs/oci-generative-ai-and-langchain-building-enterprise-ai-applications-with-oracle-3f0j)
+- [Why Per-Seat Pricing for Support Tools is Bleeding Your SaaS Dry](https://dev.to/kalwiggins/why-per-seat-pricing-for-support-tools-is-bleeding-your-saas-dry-1k4p)
+- [Brain.A turns 40 🥳 - A Bedtime Story](https://dev.to/yuridevat/braina-turns-40-a-bedtime-story-44li)
+- [Designing Better Compiler Diagnostics — Lessons from building Klar](https://dev.to/lucaasd3v/designing-better-compiler-diagnostics-lessons-from-building-klar-bhb)
+- [Stop reinventing the wheel. Meet Core-X: A Secure Node.js &amp; Supabase Boilerplate](https://dev.to/ym_zerotwo_8bbff6a4570ace/stop-reinventing-the-wheel-meet-core-x-a-secure-nodejs-supabase-boilerplate-55op)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
