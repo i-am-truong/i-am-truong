@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Set up a bcache partition and evaluate its performance](https://dev.to/vast-cow/set-up-a-bcache-partition-and-evaluate-its-performance-1j28)
-- [ROS2 SYSTEMS ANALYSIS: Visualizing Workspaces, Nodes &amp; Communication](https://dev.to/eyetengu/ros2-systems-analysis-visualizing-workspaces-nodes-communication-4pee)
-- [ROS2 SYSTEMS ANALYSIS: Developing The Correct Mental Model](https://dev.to/eyetengu/ros2-systems-analysis-developing-the-correct-mental-model-5848)
-- [I Built 7 Free Converter Tools Developers Actually Use &lpar;No Ads, No Signup&rpar;](https://dev.to/humayun_nasir_04b087812ce/i-built-7-free-converter-tools-developers-actually-use-no-ads-no-signup-2ea9)
-- [ROS2 SYSTEMS ANALYSIS: Bringing Nodes To Life](https://dev.to/eyetengu/ros2-systems-analysis-bringing-nodes-to-life-450f)
+- [Fundamentals of react app](https://dev.to/ponvel_m_9b698962c39e9474/fundamentals-of-react-app-2edk)
+- [Deploy-Time Intelligence in AWS CDK: Custom Resources in Action](https://dev.to/luffy7258/environment-aware-eks-add-on-configuration-in-a-multi-account-platform-2441)
+- [Making your content AI friendly in 2026](https://dev.to/coolasspuppy/making-your-content-ai-friendly-in-2026-58h)
+- [When One DNS Record Broke the Internet](https://dev.to/zagran/when-one-dns-record-broke-the-internet-2jie)
+- [Extending LLMs with Real-Time Data: A Comprehensive Guide to the Model Context Protocol &lpar;MCP&rpar;](https://dev.to/matiasmagni/extending-llms-with-real-time-data-a-comprehensive-guide-to-the-model-context-protocol-mcp-2haa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
