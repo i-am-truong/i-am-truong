@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My TicketDesk System](https://dev.to/hashimd/my-ticketdesk-system-obi)
 - [Recreating a bcache Backing Device with a New Block Size &lpar;Cache Device Not Used&rpar;](https://dev.to/vast-cow/recreating-a-bcache-backing-device-with-a-new-block-size-cache-device-not-used-19f5)
 - [Java-8 &lpar;Using lambdas with collections&rpar;](https://dev.to/s_mathavi_2fa1e3ea8514f34/java-8-using-lambdas-with-collections-26e7)
 - [Ethereum-Solidity Quiz Q23: What is C3 Linearization in smart contract inheritance?](https://dev.to/mihaihng/ethereum-solidity-quiz-q23-what-is-c3-linearization-in-smart-contract-inheritance-4336)
 - [The Cognitive Budget: How I Write Code I Can Actually Maintain](https://dev.to/doogal/the-cognitive-budget-how-i-write-code-i-can-actually-maintain-llf)
-- [Running dnsmasq as a Dedicated DNS Server with macvlan to Avoid systemd-resolved Conflicts](https://dev.to/vast-cow/running-dnsmasq-as-a-dedicated-dns-server-with-macvlan-to-avoid-systemd-resolved-conflicts-5akp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
