@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop Writing &quot;Clean Code&quot;. It is Killing Your Productivity.](https://dev.to/the_nortern_dev/stop-writing-clean-code-it-is-killing-your-productivity-36fe)
-- [Regex Tester Online – Test, Debug &amp; Learn Regular Expressions Easily](https://dev.to/simplefiletools/regex-tester-online-test-debug-learn-regular-expressions-easily-fhk)
-- [EF Core Change Tracking: The Bug Factory You Accidentally Built](https://dev.to/paulafahmy/ef-core-change-tracking-the-bug-factory-you-accidentally-built-3e2o)
-- [Building a Google Places Extraction Tool That Actually Scales](https://dev.to/domharvest/building-a-google-places-extraction-tool-that-actually-scales-1i1j)
-- [When You Need Unique Users but Can’t Force Login](https://dev.to/junaidul_islamjarif_f892/when-you-need-unique-users-but-cant-force-login-2jk2)
+- [Demystifying AI Serving for Java Developers: Apache Camel + TensorFlow Explained](https://dev.to/vigneshjd/demystifying-ai-serving-for-java-developers-apache-camel-tensorflow-explained-46dp)
+- [Top Strategies to Optimize High-Traffic Node.js APIs](https://dev.to/jefersoneiji/top-strategies-to-optimize-high-traffic-nodejs-apis-a16)
+- [When Your Cheap Sensor Breaks Everything: Understanding LSP](https://dev.to/robjohnston/interchangeable-components-when-inheritance-works-and-when-it-doesnt-2g48)
+- [Graceful degradation in practice: how FeatureOps builds real resilience](https://dev.to/alexcasalboni/graceful-degradation-in-practice-how-featureops-builds-real-resilience-1p4i)
+- [Why gRPC is not more popular?](https://dev.to/dawidkaluza/why-grpc-is-not-more-popular-1gn3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
