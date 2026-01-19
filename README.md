@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing PodcastAIStudio: AI-Powered Podcast Creation Made Simple](https://dev.to/hannesegi_65f6f1d62f5faea/introducing-podcastaistudio-ai-powered-podcast-creation-made-simple-khh)
+- [API vs MCP: Understanding the Shift From Developer Tools to AI Agents](https://dev.to/haseeb1009/api-vs-mcp-understanding-the-shift-from-developer-tools-to-ai-agents-5dcn)
+- [Building AI-Powered Data Analytics with MindsDB Enterprise: From Natural Language to Charts](https://dev.to/mindsdb/building-ai-powered-data-analytics-with-mindsdb-enterprise-from-natural-language-to-charts-49o3)
 - [My Coding Rules for Bash Scripts](https://dev.to/mcgivrer/my-coding-rules-for-bash-scripts-4n3j)
 - [Extracting a Shared Box URL from the Login Page](https://dev.to/vast-cow/extracting-a-shared-box-url-from-the-login-page-5d75)
-- [How I bundle my codebase so ChatGPT can actually understand it](https://dev.to/koistya/how-i-bundle-my-codebase-so-chatgpt-can-actually-understand-it-lp1)
-- [Block Outbound Traffic for a Specific Linux User with iptables &lpar;While Keeping Listening Ports Working&rpar;](https://dev.to/vast-cow/block-outbound-traffic-for-a-specific-linux-user-with-iptables-while-keeping-listening-ports-48li)
-- [🔧 Integrating tmux automatically in VS Code with persistent sessions](https://dev.to/pookdeveloper/integrating-tmux-automatically-in-vs-code-with-persistent-sessions-95k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
