@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Secret Life of Go: Concurrency](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-concurrency-1o2i)
-- [Why Ctrl+C “Doesn’t Work” in a Windows Message Loop: `GetMessageW&lpar;&rpar;` Blocking, and Two Practical Fixes](https://dev.to/vast-cow/why-ctrlc-doesnt-work-in-a-windows-message-loop-getmessagew-blocking-and-two-practical-1l2j)
-- [Why Most AI Systems Fail at Context, Not Generation](https://dev.to/leigh_k_valentine/why-most-ai-systems-fail-at-context-not-generation-274j)
-- [Running a RAG Pipeline in a Production Full-Stack Application &lpar;Without a Vector Database&rpar;](https://dev.to/mate32/running-a-rag-pipeline-in-a-production-full-stack-application-without-a-vector-database-42fj)
-- [Django Static Files: The Complete Guide - From Local Dev to S3 Production with Tailwind CSS](https://dev.to/ajitkumar/django-static-files-the-complete-guide-from-local-dev-to-s3-production-with-tailwind-css-ab4)
+- [A Simple Python Tool for Controlled PDF Text Extraction &lpar;PyPDF&rpar;](https://dev.to/vast-cow/a-simple-python-tool-for-controlled-pdf-text-extraction-pypdf-3gi7)
+- [Swarm-IOSM: Orchestrating Parallel AI Agents with Quality Gates](https://dev.to/rokoss21/swarm-iosm-orchestrating-parallel-ai-agents-with-quality-gates-8fk)
+- [A Bookmarklet for Jumping Between ChatGPT Conversation Articles](https://dev.to/vast-cow/a-bookmarklet-for-jumping-between-chatgpt-conversation-articles-39l3)
+- [A Simple Bookmarklet Selector UI](https://dev.to/vast-cow/a-simple-bookmarklet-selector-ui-2793)
+- [I built a free, privacy-first WakaTime alternative &lpar;using Go &amp; MongoDB&rpar; for VS Code &amp; Neovim with Zero Latency](https://dev.to/rtarun3606k/i-built-a-free-privacy-first-wakatime-alternative-using-go-mongodb-for-vs-code-neovim-with-2p4e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
