@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What a Tiny Raspberry Pi Taught Me About DNS, Privacy, and Control at Home](https://dev.to/sidbathi/what-a-tiny-raspberry-pi-taught-me-about-dns-privacy-and-control-at-home-501p)
+- [Lock N&#39; Key : The Developer&#39;s Vault](https://dev.to/ratik_krishna_a93df020997/lock-n-key-the-developers-vault-40co)
+- [MongoDB backup best practices — Essential strategies for MongoDB backup and recovery](https://dev.to/piteradyson/mongodb-backup-best-practices-essential-strategies-for-mongodb-backup-and-recovery-542l)
 - [Building Smooth Scrolling with react-scroll in React](https://dev.to/blockpathdev/building-smooth-scrolling-with-react-scroll-in-react-3l2)
 - [Building Drag-and-Drop Tree Views with he-tree-react in React](https://dev.to/blockpathdev/building-drag-and-drop-tree-views-with-he-tree-react-in-react-293d)
-- [Essential AI Knowledge for 2026](https://dev.to/jaskirat_singh_2a03b92b1c/essential-ai-knowledge-for-2026-o6d)
-- [Introducing graphql-complexity-validation](https://dev.to/mateodiaz/introducing-graphql-complexity-validation-5d6d)
-- [Building Complex Tree Views with react-complex-tree in React](https://dev.to/blockpathdev/building-complex-tree-views-with-react-complex-tree-in-react-239a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
