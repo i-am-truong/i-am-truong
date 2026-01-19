@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SC #11: Task Groups](https://dev.to/david_goyes_a488f58a17a53/sc-11-task-groups-2jgp)
 - [The Three Phases of Data Pipelines](https://dev.to/thanh_truong_a99577c6b879/the-three-phases-of-data-pipelines-3d1c)
 - [When Playwright’s Locator Tool Isn’t Enough](https://dev.to/philipfong/when-playwrights-locator-tool-isnt-enough-561h)
 - [The Warm Welcome Badge is Back! 🌟🎉](https://dev.to/devteam/the-warm-welcome-badge-is-back-5a6d)
 - [Portfolio &amp; Summarizing Dev Journals Using Google AI &amp; Cloud Run](https://dev.to/fengjinglan/portfolio-summarizing-dev-journals-using-google-ai-cloud-run-29jj)
-- [How to Build an AI That Roasts Your Spending Habits &lpar;3 hours Weekend Project&rpar;](https://dev.to/ambalogun/how-to-build-an-ai-that-roasts-your-spending-habits-3-hours-weekend-project-pmf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
