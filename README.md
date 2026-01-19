@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Event Driven Design &amp; Message Driven Design](https://dev.to/rachelsarchive/event-driven-design-message-driven-design-1afe)
-- [Turning Your Living Room into a Couch Co-op Arena with TouchCoop](https://dev.to/remojansen/turning-your-living-room-into-a-couch-co-op-arena-with-touchcoop-249j)
-- [Lightweight cross-platform Hosts management tool 轻量级跨平台 Hosts 管理工具](https://dev.to/systemmin/lightweight-cross-platform-hosts-management-toolqing-liang-ji-kua-ping-tai-hosts-guan-li-gong-ju-3k6)
-- [⚡️ setup-ruby-flash](https://dev.to/galtzo/setup-ruby-flash-25lb)
-- [From repetitive FastAPI setups to a modular CLI generator](https://dev.to/ning3739/from-repetitive-fastapi-setups-to-a-modular-cli-generator-41pf)
+- [The Modern Developer Stack in 2026: Tools You Actually Need](https://dev.to/eva_clari_289d85ecc68da48/the-modern-developer-stack-in-2026-tools-you-actually-need-and-ones-you-dont-4i1)
+- [Improve node app responsiveness using partitioning](https://dev.to/gaurang101197/improving-node-app-responsiveness-using-partitioning-201i)
+- [Building a Config Drift Detector for AWS &lpar;with Snapshots, Lambdas, and a Next.js Dashboard&rpar;](https://dev.to/iamarsh/building-a-config-drift-detector-for-aws-with-snapshots-lambdas-and-a-nextjs-dashboard-1k49)
+- [Ngôn ngữ Go &lpar;Golang&rpar;: Lịch sử phát triển và những ứng dụng nổi bật trong kỷ nguyên công nghệ hiện nay](https://dev.to/uyen/ngon-ngu-go-golang-lich-su-phat-trien-va-nhung-ung-dung-noi-bat-trong-ky-nguyen-cong-nghe-hien-a8d)
+- [Learning Hacking Backwards and Why It Works](https://dev.to/numbpill3d/learning-hacking-backwards-and-why-it-works-57fp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
