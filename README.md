@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Fundamentals of react app](https://dev.to/ponvel_m_9b698962c39e9474/fundamentals-of-react-app-2edk)
-- [Deploy-Time Intelligence in AWS CDK: Custom Resources in Action](https://dev.to/luffy7258/environment-aware-eks-add-on-configuration-in-a-multi-account-platform-2441)
-- [Making your content AI friendly in 2026](https://dev.to/coolasspuppy/making-your-content-ai-friendly-in-2026-58h)
-- [When One DNS Record Broke the Internet](https://dev.to/zagran/when-one-dns-record-broke-the-internet-2jie)
-- [Extending LLMs with Real-Time Data: A Comprehensive Guide to the Model Context Protocol &lpar;MCP&rpar;](https://dev.to/matiasmagni/extending-llms-with-real-time-data-a-comprehensive-guide-to-the-model-context-protocol-mcp-2haa)
+- [How React works?](https://dev.to/vijayaragavan_nandhagopal/how-react-works-lhk)
+- [I&#39;m Building My Own Coding Agent Harness &lpar;And It&#39;s Pretty Cool&rpar;](https://dev.to/composiodev/im-building-my-own-coding-agent-harness-and-its-pretty-cool-1lpf)
+- [Amazon Nova 2 Multimodal Embeddings with Amazon S3 Vectors and AWS Java SDK - Part 2 Create and store text and image embeddings](https://dev.to/aws-heroes/amazon-nova-2-multimodal-embeddings-with-amazon-s3-vectors-and-aws-java-sdk-part-2-create-and-27d8)
+- [I Deployed My AI Portfolio on Google Cloud Run with Gemini API dev-tutorial: devnewyear2026](https://dev.to/mohamed_coulibaly/i-deployed-my-ai-portfolio-on-google-cloud-run-with-gemini-api-dev-tutorial-devnewyear2026-1116)
+- [Benchmarking Socket.IO Servers](https://dev.to/sahaj-b/benchmarking-socketio-servers-4n9k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
