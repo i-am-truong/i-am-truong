@@ -120,15 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Elegant Domain-Driven Design objects in Go](https://dev.to/manuelarte/elegant-domain-driven-design-objects-in-go-2bhi)
-- [The Medical Chatbot That Diagnosed Everyone With Cancer](https://dev.to/faraz_farhan_83ed23a154a2/the-medical-chatbot-that-diagnosed-everyone-with-cancer-fbj)
-- [Build Your Own Face Swap Application Using Google Colab](https://dev.to/lightningdev123/build-your-own-face-swap-application-using-google-colab-4379)
-- [From Greedy to Smart: Optimizing the Block Blast Solver&#39;s Scoring Engine](https://dev.to/augsutss/from-greedy-to-smart-optimizing-the-block-blast-solvers-scoring-engine-395i)
-- [I asked Claude Code to build the &quot;Open Cowork&quot; 
-The project is live on GitHub: GitHub - kuse-ai/kuse_cowork: Open-source Alternative for Claude Code Desktop App
-
-It&#39;s still very early, and there&#39;s a long roadmap ahead.
-Any feedback is welcome!](https://dev.to/yuhaoxu/i-asked-claude-code-to-build-the-open-cowork-the-project-is-live-on-github-24h6)
+- [How I Built an AI-Powered PR Reviewer in 15 Minutes Using Agentform](https://dev.to/nirberko/how-i-built-an-ai-powered-pr-reviewer-in-15-minutes-using-agentform-4l1p)
+- [I&#39;m making a solo, dungeon crawling card game!](https://dev.to/thejaydevofficial/im-making-a-solo-dungeon-crawling-card-game-p4l)
+- [Razer AIKit: Open-Source, Local-First AI Workflows for Developers](https://dev.to/mishmanners/razer-aikit-open-source-local-first-ai-workflows-for-developers-4nig)
+- [If ChatGPT Writes Your Code, What Are You Getting Paid For?](https://dev.to/thebitforge/if-chatgpt-writes-your-code-what-are-you-getting-paid-for-1pl5)
+- [Bringing A2UI to Google Workspace with Gemini](https://dev.to/gde/bringing-a2ui-to-google-workspace-with-gemini-4m24)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
