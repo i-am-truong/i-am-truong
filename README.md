@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Modern Developer Stack in 2026: Tools You Actually Need](https://dev.to/eva_clari_289d85ecc68da48/the-modern-developer-stack-in-2026-tools-you-actually-need-and-ones-you-dont-4i1)
-- [Improve node app responsiveness using partitioning](https://dev.to/gaurang101197/improving-node-app-responsiveness-using-partitioning-201i)
-- [Building a Config Drift Detector for AWS &lpar;with Snapshots, Lambdas, and a Next.js Dashboard&rpar;](https://dev.to/iamarsh/building-a-config-drift-detector-for-aws-with-snapshots-lambdas-and-a-nextjs-dashboard-1k49)
-- [Ngôn ngữ Go &lpar;Golang&rpar;: Lịch sử phát triển và những ứng dụng nổi bật trong kỷ nguyên công nghệ hiện nay](https://dev.to/uyen/ngon-ngu-go-golang-lich-su-phat-trien-va-nhung-ung-dung-noi-bat-trong-ky-nguyen-cong-nghe-hien-a8d)
-- [Learning Hacking Backwards and Why It Works](https://dev.to/numbpill3d/learning-hacking-backwards-and-why-it-works-57fp)
+- [Introducing WeddingCrossword.com - Custom Crossword Puzzles for Your Special Day 💕](https://dev.to/_90182f41aa96ab0f245ab/introducing-weddingcrosswordcom-custom-crossword-puzzles-for-your-special-day-k7k)
+- [10 Ways to Stand Out at Work—Other than Work Hard](https://dev.to/canro91/10-ways-to-stand-out-at-work-other-than-work-hard-1gpa)
+- [Day 14: When Restarting Feels Heavy](https://dev.to/casperday11/day-14-when-restarting-feels-heavy-2bk2)
+- [Model Context Protocol &lpar;MCP&rpar; Explained for Developers: Why AI Agents Need It](https://dev.to/prabhav_jain_a0be90b5a905/model-context-protocol-mcp-explained-for-developers-why-ai-agents-need-it-e5j)
+- [Implementing a Cost-Efficient Micro services Platform on Azure Kubernetes](https://dev.to/koladilip/implementing-a-cost-efficient-microservices-platform-on-azure-kubernetes-45jm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
