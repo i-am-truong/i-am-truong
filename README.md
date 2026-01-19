@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Build an Interactive Iris Flower Classifier GUI with Python](https://dev.to/matetechnologie/build-an-interactive-iris-flower-classifier-gui-with-python-47f3)
-- [Building a High-Concurrency Web Crawler in Go: A Practical Guide](https://dev.to/jones_charles_ad50858dbc0/building-a-high-concurrency-web-crawler-in-go-a-practical-guide-i3a)
-- [Build a UGC Content Finder to Discover Brand Mentions Across Platforms](https://dev.to/olams/build-a-ugc-content-finder-to-discover-brand-mentions-across-platforms-22am)
-- [LangChain vs LangGraph: Why One&#39;s a Drive-Through and the Other&#39;s a Buffet](https://dev.to/sreeni5018/langchain-vs-langgraph-why-ones-a-drive-through-and-the-others-a-buffet-2oj0)
-- [Testing MFA without constantly reaching for your phone](https://dev.to/meharhay/testing-mfa-without-constantly-reaching-for-your-phone-11ij)
+- [Event Driven Design &amp; Message Driven Design](https://dev.to/rachelsarchive/event-driven-design-message-driven-design-1afe)
+- [Turning Your Living Room into a Couch Co-op Arena with TouchCoop](https://dev.to/remojansen/turning-your-living-room-into-a-couch-co-op-arena-with-touchcoop-249j)
+- [Lightweight cross-platform Hosts management tool 轻量级跨平台 Hosts 管理工具](https://dev.to/systemmin/lightweight-cross-platform-hosts-management-toolqing-liang-ji-kua-ping-tai-hosts-guan-li-gong-ju-3k6)
+- [⚡️ setup-ruby-flash](https://dev.to/galtzo/setup-ruby-flash-25lb)
+- [From repetitive FastAPI setups to a modular CLI generator](https://dev.to/ning3739/from-repetitive-fastapi-setups-to-a-modular-cli-generator-41pf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
