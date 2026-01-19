@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Collapsible Content with react-collapse in React](https://dev.to/devchainkit/building-collapsible-content-with-react-collapse-in-react-4ibl)
+- [The Devil’s Clean Code: Lessons from Migrating a 20-Year-Old Legacy Project](https://dev.to/bebetos92/the-devils-clean-code-lessons-from-migrating-a-20-year-old-legacy-project-2nhh)
 - [Part 1 — The Era of the Stack Reconciler](https://dev.to/nehamalviaaa/part-1-the-era-of-the-stack-reconciler-4jg8)
 - [I Built PkgWatch to Predict npm Package Abandonment Before It Breaks Your Build](https://dev.to/dlaranjo/i-built-pkgwatch-to-predict-npm-package-abandonment-before-it-breaks-your-build-47n8)
 - [NgRx Toolkit v21](https://dev.to/ngrx-toolkit/ngrx-toolkit-v21-4l46)
-- [Getting Started with Pure React Carousel: Building Image Carousels](https://dev.to/web3logic/getting-started-with-pure-react-carousel-building-image-carousels-2a89)
-- [Building a Todo App with Vanilla JavaScript](https://dev.to/amir_dev_amir_dev_amir_dev/building-a-todo-app-with-vanilla-javascript-32k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
