@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Fetching API Data with TypeScript: Using Type Assertions](https://dev.to/victorugs_dev/fetching-api-data-with-typescript-using-type-assertions-16db)
+- [Buenas Prácticas PL/SQL para Backends: Arquitectura sobre Sintaxis](https://dev.to/vinnyumtech/buenas-practicas-plsql-para-backends-arquitectura-sobre-sintaxis-364m)
+- [SEO Explained](https://dev.to/nordiksparkle/seo-explained-5g3o)
 - [What a Tiny Raspberry Pi Taught Me About DNS, Privacy, and Control at Home](https://dev.to/sidbathi/what-a-tiny-raspberry-pi-taught-me-about-dns-privacy-and-control-at-home-501p)
 - [Lock N&#39; Key : The Developer&#39;s Vault](https://dev.to/ratik_krishna_a93df020997/lock-n-key-the-developers-vault-40co)
-- [MongoDB backup best practices — Essential strategies for MongoDB backup and recovery](https://dev.to/piteradyson/mongodb-backup-best-practices-essential-strategies-for-mongodb-backup-and-recovery-542l)
-- [Building Smooth Scrolling with react-scroll in React](https://dev.to/blockpathdev/building-smooth-scrolling-with-react-scroll-in-react-3l2)
-- [Building Drag-and-Drop Tree Views with he-tree-react in React](https://dev.to/blockpathdev/building-drag-and-drop-tree-views-with-he-tree-react-in-react-293d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
