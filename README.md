@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Developing in Web3: Deploying Privacy-First dApps with Sapphire + ROFL](https://dev.to/dc600/developing-in-web3-deploying-privacy-first-dapps-with-sapphire-rofl-aof)
+- [Problem 10: Duplicate Removal](https://dev.to/highcenburg/problem-10-duplicate-removal-4884)
 - [Understanding Network Devices](https://dev.to/abhimanyu_kumar_b94e042e9/understanding-network-devices-15l4)
-- [What Happens When a User Deletes Their Account? A Guide to Rails ActiveRecord dependent: Strategies](https://dev.to/nemwelboniface/what-happens-when-a-user-deletes-their-account-a-guide-to-rails-activerecord-dependent-strategies-1279)
 - [The 15 Git Commands Every Software Engineer Uses &lpar;And Why They Matter More Than You Think&rpar;](https://dev.to/hadil/the-15-git-commands-every-software-engineer-uses-and-why-they-matter-more-than-you-think-c51)
 - [Bloom update: new HRT tools, emotional support features, and a full medication database](https://dev.to/codebunny20/bloom-update-new-hrt-tools-emotional-support-features-and-a-full-medication-database-67l)
+- [Ringer Movies: ‘Just One of the Guys’ With Bill Simmons, Kyle Brandt, and Joanna Robinson | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-just-one-of-the-guys-with-bill-simmons-kyle-brandt-and-joanna-robinson-the-2gid)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
