@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Google Cloud CLI Installation Saga: How I Conquered Python Path Hell on macOS](https://dev.to/eunice-js/the-google-cloud-cli-installation-saga-how-i-conquered-python-path-hell-on-macos-3605)
 - [Building Apps with AI: Deep Dive into beads Workflow](https://dev.to/koustubh/building-apps-with-ai-deep-dive-into-beads-workflow-28h1)
 - [Building Apps with AI: How beads Changed My Development Workflow](https://dev.to/koustubh/building-apps-with-ai-how-beads-changed-my-development-workflow-2p7)
 - [New NPM package: ralph-task](https://dev.to/stevenmhunt/new-npm-package-ralph-taskhttpswwwnpmjscompackageralph-task-3c0e)
 - [A GitBook-Style Docs Site with Next.js &lpar;App Router&rpar;, Markdown, SEO, and Cloudflare Workers](https://dev.to/emrahg/a-gitbook-style-docs-site-with-nextjs-app-router-markdown-seo-and-cloudflare-workers-ke1)
-- [Building an AI teaching assistant grounded in real Further Education practice](https://dev.to/tristan_fe3e16cbe/building-an-ai-teaching-assistant-grounded-in-real-further-education-practice-4dgp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
