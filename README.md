@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [700 views vs 8% conversion: Why I redesigned my Next.js site to a Bento Grid &lpar;Day 3&rpar;](https://dev.to/velox-web/700-views-vs-8-conversion-why-i-redesigned-my-nextjs-site-to-a-bento-grid-day-3-45o6)
-- [Data Engineering vs Data Science: What’s the Difference? &lpar;And Which Career Should You Choose?&rpar;](https://dev.to/maina_murage/data-engineering-vs-data-science-whats-the-difference-and-which-career-should-you-choose-4c1e)
-- [4 causes of table bloat in PostgreSQL and how to address them](https://dev.to/shinyakato_/4-causes-of-table-bloat-in-postgresql-and-how-to-address-them-3ec9)
-- [I Analyzed 3,000 Developer Job Postings Overnight &lpar;Here&#39;s What I Found&rpar;](https://dev.to/katsura/i-analyzed-3000-developer-job-postings-overnight-heres-what-i-found-572l)
-- [Top 5 CLI Coding Agents in 2026](https://dev.to/lightningdev123/top-5-cli-coding-agents-in-2026-3pia)
+- [How POSTGRES indexing is more efficient than MYSQL](https://dev.to/khairul_basar_a2746d66c5f/how-postgres-indexing-is-more-efficient-than-mysql-2ohl)
+- [TL;DR: Code Reviews Break in the AI Era — Plans Fix Them](https://dev.to/xhack/tldr-code-reviews-break-in-the-ai-era-plans-fix-them-3ge9)
+- [I Built a Localhost Tunneling tool in TypeScript - Here&#39;s What Surprised Me](https://dev.to/robbiecahill/i-built-a-localhost-tunneling-tool-in-typescript-heres-what-surprised-me-17eg)
+- [My Chrome Tabs Tell a Story We Haven&#39;t Processed Yet](https://dev.to/dannwaneri/my-chrome-tabs-tell-a-story-we-havent-processed-yet-ec9)
+- [Javascript](https://dev.to/selvaraj_ganesan_03/javascript-3595)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
