@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Modern LMS with Django, HTMX, and Tailwind CSS — Introducing JakIja](https://dev.to/johan_santri_3ee25f4f7471/building-a-modern-lms-with-django-htmx-and-tailwind-css-introducing-jakija-4fkn)
+- [Introducing the GTranslate Bundle](https://dev.to/addwebsolutionpvtltd/introducing-the-gtranslate-bundle-5dg6)
+- [Migrate vs Import in Unreal Engine Finally Made Sense](https://dev.to/dinesh_04/migrate-vs-import-in-unreal-engine-finally-made-sense-31p9)
 - [Motivation Works… Until It Doesn’t](https://dev.to/pooja_547ec7b9ab97a40fd64/motivation-works-until-it-doesnt-12m4)
 - [Your Demo Slot Is a Leadership Opportunity](https://dev.to/dexluce/your-demo-slot-is-a-leadership-opportunity-3hi8)
-- [From Prompt to Platform: Architecture Rules I Use](https://dev.to/cleverhoods/from-prompt-to-platform-architecture-rules-i-use-59gp)
-- [Your Terraform Examples Are Broken &lpar;And You Don&#39;t Know It Yet&rpar;](https://dev.to/jverhoeks/your-terraform-examples-are-broken-and-you-dont-know-it-yet-4ine)
-- [# 💸 The $2.3 Million Lesson: Why Your PostgreSQL Money Transactions Are Probably Wrong](https://dev.to/igornosatov_15/-the-23-million-lesson-why-your-postgresql-money-transactions-are-probably-wrong-15l1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
