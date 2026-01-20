@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Problem 10: Duplicate Removal](https://dev.to/highcenburg/problem-10-duplicate-removal-4884)
-- [Understanding Network Devices](https://dev.to/abhimanyu_kumar_b94e042e9/understanding-network-devices-15l4)
-- [The 15 Git Commands Every Software Engineer Uses &lpar;And Why They Matter More Than You Think&rpar;](https://dev.to/hadil/the-15-git-commands-every-software-engineer-uses-and-why-they-matter-more-than-you-think-c51)
-- [Bloom update: new HRT tools, emotional support features, and a full medication database](https://dev.to/codebunny20/bloom-update-new-hrt-tools-emotional-support-features-and-a-full-medication-database-67l)
-- [Ringer Movies: ‘Just One of the Guys’ With Bill Simmons, Kyle Brandt, and Joanna Robinson | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-just-one-of-the-guys-with-bill-simmons-kyle-brandt-and-joanna-robinson-the-2gid)
+- [Your Terraform Examples Are Broken &lpar;And You Don&#39;t Know It Yet&rpar;](https://dev.to/jverhoeks/your-terraform-examples-are-broken-and-you-dont-know-it-yet-4ine)
+- [Targeted Bets: Reinventing the Job Hunt for Developers](https://dev.to/dd8888/targeted-bets-reinventing-the-job-hunt-for-developers-2no2)
+- [eBPF Tutorial: BPF Workqueues for Asynchronous Sleepable Tasks](https://dev.to/yunwei37/ebpf-tutorial-bpf-workqueues-for-asynchronous-sleepable-tasks-58nb)
+- [Project Autopilot: Why I Fired Myself as Community Manager to Build an AI agents Army](https://dev.to/datalaria/project-autopilot-why-i-fired-myself-as-community-manager-to-build-an-ai-agents-army-39k8)
+- [Web3 Domains: Building Your Decentralized Digital Identity](https://dev.to/endlessdoamins/web3-domains-building-your-decentralized-digital-identity-2imh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
