@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🎯 SLI, SLO, SLA Explained 🎯](https://dev.to/itsmecharan7/sli-slo-sla-explained-53g1)
-- [I Fixed a Terraform State Lock Issue in GitHub Actions Here’s What I Learned](https://dev.to/techwithhari/i-fixed-a-terraform-state-lock-issue-in-github-actions-heres-what-i-learned-ml8)
-- [Why My Second RAG System Was Built in Rails, Not Python’s FastAPI](https://dev.to/ganesh_navale/why-my-second-rag-system-was-built-in-rails-not-pythons-fastapi-3h06)
-- [Navigating Bangladesh&#39;s Software Industry: A Practical Guide for Developers in 2026](https://dev.to/mir_mursalin_ankur/navigating-bangladeshs-software-industry-a-practical-guide-for-developers-in-2026-22ob)
-- [Inside Git ? How it works and what is inside .git?](https://dev.to/rahul_kumarparida_6c16f5/inside-git-how-it-works-and-what-is-inside-git-cjk)
+- [AWS Cloud Club Captain Applications Are Open – Step Up and Lead Your Campus in the Cloud!](https://dev.to/aayusha_d238279e4f6b58625/aws-cloud-club-captain-applications-are-open-step-up-and-lead-your-campus-in-the-cloud-2097)
+- [Two Pointer for Beginners — Reverse an Array &lpar;In-Place&rpar;](https://dev.to/nithya_dharshiniofficial/two-pointer-for-beginners-reverse-an-array-in-place-5aca)
+- [Control-Flow Statement Programs in java](https://dev.to/kavitha_krish/control-flow-statement-programs-in-java-54ad)
+- [Type-Safe Astro APIs](https://dev.to/mrtoxas/type-safe-api-endpoints-in-astro-4e5k)
+- [A.I. — The Amplifier: From Software Developer to Software Creator 🚀](https://dev.to/sweetpapa/ai-the-amplifier-from-software-developer-to-software-creator-2nb9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
