@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Mirror &amp; Its Twin: AI, Apprenticeship, and the Hollowing of Cyber Ops](https://dev.to/narnaiezzsshaa/the-mirror-its-twin-ai-apprenticeship-and-the-hollowing-of-cyber-ops-5a59)
-- [Mi primer paso en la IA de AWS: Cómo obtuve la insignia de Machine Learning Foundations](https://dev.to/wilson_mendoza_0339689ee4/mi-primer-paso-en-la-ia-de-aws-como-obtuve-la-insignia-de-machine-learning-foundations-1ll)
-- [Nuxt Studio: Self-Hosted Content Editing for Production Sites](https://dev.to/jqueryscript/nuxt-studio-self-hosted-content-editing-for-production-sites-116j)
-- [Stop Drowning in Wearable Data: Build a Unified Health Data Lake with DuckDB and Apache Arrow](https://dev.to/wellallytech/stop-drowning-in-wearable-data-build-a-unified-health-data-lake-with-duckdb-and-apache-arrow-1gaj)
-- [The Next Chapter: Introducing LogeekMind 2.0 - Smarter Learning, Evolved.](https://dev.to/thelogeek/the-next-chapter-introducing-logeekmind-20-smarter-learning-evolved-mjn)
+- [Stanikmas, Lynn. &lpar;2025&rpar;. CodeChallenge. GitHub.](https://dev.to/lstanikmas/stanikmas-lynn-2025-codechallenge-github-33je)
+- [Step-by-Step Guide: Build a CRUD Blazor App with Entity Framework and PostgreSQL](https://dev.to/auyeungdavid_2847435260/step-by-step-guide-build-a-crud-blazor-app-with-entity-framework-and-postgresql-3ccj)
+- [Deployed Profile to Google Cloud via AI Interface in Antigravity](https://dev.to/annavi11arrea1/deployed-profile-to-google-cloud-via-ai-interface-in-antigravity-2c83)
+- [Production-Ready Rust Project Setup: From Zero to CI/CD](https://dev.to/ajitkumar/production-ready-rust-project-setup-from-zero-to-cicd-jp4)
+- [Building llama.cpp in an Environment Without curl Headers](https://dev.to/vast-cow/building-llamacpp-in-an-environment-without-curl-headers-2ahn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
