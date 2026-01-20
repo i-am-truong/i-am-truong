@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Guide to Figma](https://dev.to/ahmad_9611bc9dded86508a10/guide-to-figma-3lbg)
+- [Human-in-the-Loop, by Design: Evolving from Algorithms to Care-Centered AI](https://dev.to/innacampo/human-in-the-loop-by-design-evolving-from-algorithms-to-care-centered-ai-3i37)
+- [Elevate Your Flutter App&#39;s Performance with Flutter Rocket&#39;s Premium Features 🚀](https://dev.to/m97chahboun/elevate-your-flutter-apps-performance-with-flutter-rockets-premium-features-57aa)
+- [The Architecture of a Scalable AI SaaS: My 2026 Blueprint](https://dev.to/frankdotdev/the-architecture-of-a-scalable-ai-saas-my-2026-blueprint-56cm)
 - [A Developer&#39;s Map to Shopify UCP](https://dev.to/julesk/a-developers-map-to-shopify-ucp-1c55)
-- [The Google Cloud CLI Installation Saga: How I Conquered Python Path Hell on macOS](https://dev.to/eunice-js/the-google-cloud-cli-installation-saga-how-i-conquered-python-path-hell-on-macos-3605)
-- [Building Apps with AI: Deep Dive into beads Workflow](https://dev.to/koustubh/building-apps-with-ai-deep-dive-into-beads-workflow-28h1)
-- [Building Apps with AI: How beads Changed My Development Workflow](https://dev.to/koustubh/building-apps-with-ai-how-beads-changed-my-development-workflow-2p7)
-- [New NPM package: ralph-task](https://dev.to/stevenmhunt/new-npm-package-ralph-taskhttpswwwnpmjscompackageralph-task-3c0e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
