@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Deploying a Highly Available Web Application on AWS using ALB &amp; Auto Scaling &lpar;Beginner-Friendly&rpar;](https://dev.to/irfanpasha/deploying-a-highly-available-web-application-on-aws-using-alb-auto-scaling-beginner-friendly-mp9)
-- [Speeding Up PostgreSQL in Containers](https://dev.to/miry/speeding-up-postgresql-in-containers-1eeg)
-- [Data Engineering Uncovered: What It Is and Why It Matters](https://dev.to/qvfagundes/data-engineering-uncovered-what-it-is-and-why-it-matters-3c26)
-- [Cloudflare Workers performance: an experiment with Astro and worldwide latencies](https://dev.to/dagnelies/cloudflare-workers-performance-an-experiment-with-astro-and-worldwide-latencies-12ik)
-- [Let’s Build with AI Like It’s 1998](https://dev.to/uribejr/lets-build-with-ai-like-its-1998-41kl)
+- [The Mirror &amp; Its Twin: AI, Apprenticeship, and the Hollowing of Cyber Ops](https://dev.to/narnaiezzsshaa/the-mirror-its-twin-ai-apprenticeship-and-the-hollowing-of-cyber-ops-5a59)
+- [Mi primer paso en la IA de AWS: Cómo obtuve la insignia de Machine Learning Foundations](https://dev.to/wilson_mendoza_0339689ee4/mi-primer-paso-en-la-ia-de-aws-como-obtuve-la-insignia-de-machine-learning-foundations-1ll)
+- [Nuxt Studio: Self-Hosted Content Editing for Production Sites](https://dev.to/jqueryscript/nuxt-studio-self-hosted-content-editing-for-production-sites-116j)
+- [Stop Drowning in Wearable Data: Build a Unified Health Data Lake with DuckDB and Apache Arrow](https://dev.to/wellallytech/stop-drowning-in-wearable-data-build-a-unified-health-data-lake-with-duckdb-and-apache-arrow-1gaj)
+- [The Next Chapter: Introducing LogeekMind 2.0 - Smarter Learning, Evolved.](https://dev.to/thelogeek/the-next-chapter-introducing-logeekmind-20-smarter-learning-evolved-mjn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
