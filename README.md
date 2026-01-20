@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What if you are to build for a 1,000,000 daily active users?](https://dev.to/samowolabi/what-if-you-are-to-build-for-a-1000000-daily-active-users-jm)
-- [Introducing Playwright Labs: Best Practices as Code](https://dev.to/vitalicset/introducing-playwright-labs-best-practices-as-code-198n)
-- [Unlocking DevOps Velocity: Why Your Test Management Strategy is the Real Bottleneck](https://dev.to/matt_calder_e620d84cf0c14/unlocking-devops-velocity-why-your-test-management-strategy-is-the-real-bottleneck-2n3a)
-- [# Complete Guide to RAG Evaluations in Amazon Bedrock](https://dev.to/rajmurugan/-complete-guide-to-rag-evaluations-in-amazon-bedrock-4je3)
-- [🛰 Beginner-Friendly Guide &#39;Construct the Minimum Bitwise Array I&#39; - Problem 3314 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-construct-the-minimum-bitwise-array-i-problem-3314-c-python-3ia4)
+- [How I Merged a PR in VS Code &amp; My Open Source Roadmap for GSoC 2026](https://dev.to/riyachandra_6a157caf91fb3/how-i-merged-a-pr-in-vs-code-my-open-source-roadmap-for-gsoc-2026-3f9f)
+- [Python Closures: Coming from JavaScript](https://dev.to/david_moran_0a44206d28c04/python-closures-coming-from-javascript-5885)
+- [SOLID &amp; OOP Design business case](https://dev.to/ahmed_hesham_bc018e8c2860/solid-oop-design-business-case-dl9)
+- [8 Lições sobre microsserviços que todo desenvolvedor precisa saber](https://dev.to/erandirjunior/8-licoes-sobre-microsservicos-que-todo-desenvolvedor-precisa-saber-3o42)
+- [BenQ RD280UG Review: 28-Inch 4K Programming Monitor for Developers](https://dev.to/nickytonline/benq-rd280ug-review-28-inch-4k-programming-monitor-for-developers-2iko)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
