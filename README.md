@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Modern LMS with Django, HTMX, and Tailwind CSS — Introducing JakIja](https://dev.to/johan_santri_3ee25f4f7471/building-a-modern-lms-with-django-htmx-and-tailwind-css-introducing-jakija-4fkn)
-- [Introducing the GTranslate Bundle](https://dev.to/addwebsolutionpvtltd/introducing-the-gtranslate-bundle-5dg6)
-- [Migrate vs Import in Unreal Engine Finally Made Sense](https://dev.to/dinesh_04/migrate-vs-import-in-unreal-engine-finally-made-sense-31p9)
-- [Motivation Works… Until It Doesn’t](https://dev.to/pooja_547ec7b9ab97a40fd64/motivation-works-until-it-doesnt-12m4)
-- [Your Demo Slot Is a Leadership Opportunity](https://dev.to/dexluce/your-demo-slot-is-a-leadership-opportunity-3hi8)
+- [I Built an Open-Source Cowork in 24 Hours with ZERO Rust Experience — and the Agent Builts Itself](https://dev.to/yuhaoxu/i-built-an-open-source-cowork-in-24-hours-with-zero-rust-experience-and-the-agent-builts-itself-2d06)
+- [Designing a Flight Search Engine: Architecture, Caching, and Trade-offs](https://dev.to/rahmannugar/designing-a-flight-search-engine-architecture-caching-and-trade-offs-2jbn)
+- [Setting up Apache Gravitino from Scratch](https://dev.to/datastrato-yue/setting-up-apache-gravitino-from-scratch-56o8)
+- [[Boost]](https://dev.to/cleverhoods/-5389)
+- [Next.js Caching and Rendering: A Complete Guide for 2026](https://dev.to/md_marufrahman_3552855e/nextjs-caching-and-rendering-a-complete-guide-for-2026-21lh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
