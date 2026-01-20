@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built an Open-Source Cowork in 24 Hours with ZERO Rust Experience — and the Agent Builts Itself](https://dev.to/yuhaoxu/i-built-an-open-source-cowork-in-24-hours-with-zero-rust-experience-and-the-agent-builts-itself-2d06)
-- [Designing a Flight Search Engine: Architecture, Caching, and Trade-offs](https://dev.to/rahmannugar/designing-a-flight-search-engine-architecture-caching-and-trade-offs-2jbn)
-- [Setting up Apache Gravitino from Scratch](https://dev.to/datastrato-yue/setting-up-apache-gravitino-from-scratch-56o8)
-- [[Boost]](https://dev.to/cleverhoods/-5389)
-- [Next.js Caching and Rendering: A Complete Guide for 2026](https://dev.to/md_marufrahman_3552855e/nextjs-caching-and-rendering-a-complete-guide-for-2026-21lh)
+- [700 views vs 8% conversion: Why I redesigned my Next.js site to a Bento Grid &lpar;Day 3&rpar;](https://dev.to/velox-web/700-views-vs-8-conversion-why-i-redesigned-my-nextjs-site-to-a-bento-grid-day-3-45o6)
+- [Data Engineering vs Data Science: What’s the Difference? &lpar;And Which Career Should You Choose?&rpar;](https://dev.to/maina_murage/data-engineering-vs-data-science-whats-the-difference-and-which-career-should-you-choose-4c1e)
+- [4 causes of table bloat in PostgreSQL and how to address them](https://dev.to/shinyakato_/4-causes-of-table-bloat-in-postgresql-and-how-to-address-them-3ec9)
+- [I Analyzed 3,000 Developer Job Postings Overnight &lpar;Here&#39;s What I Found&rpar;](https://dev.to/katsura/i-analyzed-3000-developer-job-postings-overnight-heres-what-i-found-572l)
+- [Top 5 CLI Coding Agents in 2026](https://dev.to/lightningdev123/top-5-cli-coding-agents-in-2026-3pia)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
