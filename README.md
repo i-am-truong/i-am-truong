@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Async Reactivity with Angular Resources — A Production‑Minded Guide &lpar;2026&rpar;](https://dev.to/cristiansifuentes/async-reactivity-with-angular-resources-a-production-minded-guide-2026-283k)
+- [Named Query Filters in .NET 10](https://dev.to/hamza_darouzi_dotnet/named-query-filters-in-net-10-47hp)
+- [Architectural Drift: The Reason For JavaScript/Typescript Codebases To Break Down Over Time](https://dev.to/fixcik/architectural-drift-the-reason-for-javascripttypescript-codebases-to-break-down-over-time-471g)
+- [Building an API in Go to Manage Files on Amazon S3](https://dev.to/joaooliveiratech/building-an-api-in-go-to-manage-files-on-amazon-s3-4olc)
 - [LLMs - What are they good for, anyway?](https://dev.to/jballanc/llms-what-are-they-good-for-anyway-3p12)
-- [A Linux Desktop in Jupyter Lab](https://dev.to/spara_50/a-linux-desktop-in-jupyter-lab-4khg)
-- [Ng-News 26/02: Frameworks in 2026, Competition among Frameworks, Angular Inside](https://dev.to/this-is-angular/ng-news-2602-frameworks-in-2026-competition-among-frameworks-angular-inside-1jee)
-- [Building LinkedIn Lead Enrichment with n8n, Dropcontact, and Apify](https://dev.to/hackceleration/building-linkedin-lead-enrichment-with-n8n-dropcontact-and-apify-15a3)
-- [Union-Find Path Compression: A Visual Dry Run](https://dev.to/alex_hunter_44f4c9ed6671e/union-find-path-compression-a-visual-dry-run-38pm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
