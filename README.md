@@ -120,11 +120,13 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Developers should understand that software is not disappearing, but low-code AI is quietly absorbing large parts of what traditional software used to do. 
+
+It&#39;s time for developers to understand, otherwise they will lose the opportunity.](https://dev.to/jaideepparashar/developers-should-understand-that-software-is-not-disappearing-but-low-code-ai-is-quietly-2dgn)
+- [How Low Code AI is Eating Traditional Software](https://dev.to/jaideepparashar/how-low-code-ai-is-eating-traditional-software-ibo)
+- [Building a Production-Ready Portfolio: Phase-2 — Layout, Navigation &amp; Routing Foundations](https://dev.to/imsushant12/building-a-production-ready-portfolio-phase-3-layout-navigation-routing-foundations-4o1f)
+- [Power Without Accountability: How Modern Corporations Create Their Own Failures](https://dev.to/abdulosman/power-without-accountability-how-modern-corporations-create-their-own-failures-2k5l)
 - [Stop Hiding the Infrastructure: Why &quot;Black Box&quot; Tech is a Trap](https://dev.to/zorentia_productstudio_5/stop-hiding-the-infrastructure-why-black-box-tech-is-a-trap-njo)
-- [I Built a Database Designer Where You Draw First and Generate SQL Later](https://dev.to/rushikesh_bodakhe_db28644/i-built-a-database-designer-where-you-draw-first-and-generate-sql-later-4f96)
-- [Let&#39;s laugh at some of my pain!](https://dev.to/bibimbop123/lets-laugh-at-some-of-my-pain-3p0i)
-- [Mastering Google Cloud Translation API with Python: A Developer&#39;s Guide](https://dev.to/ajitkumar/mastering-google-cloud-translation-api-with-python-a-developers-guide-1oo4)
-- [I Built a Free Alternative to cPanel - Here&#39;s What I Learned](https://dev.to/juandenis/i-built-a-free-alternative-to-cpanel-heres-what-i-learned-npj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
