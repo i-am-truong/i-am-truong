@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Choose Effective Prompt Engineering Techniques](https://dev.to/aws-builders/choose-effective-prompt-engineering-techniques-4l)
-- [The Accidental Reviewer Part 1: How I Learnt to Review Code Across 5 Stacks](https://dev.to/snowleo208/the-accidental-reviewer-part-1-how-i-learnt-to-review-code-across-5-stacks-1214)
-- [What to Review Before Merging to `main`: A Practical Code Review Checklist](https://dev.to/samuel_ruiz_64604c4d0ba22/what-to-review-before-merging-to-main-a-practical-code-review-checklist-2b8l)
-- [Building an AI-Enhanced API Validator: A Weekend Developer&#39;s Journey](https://dev.to/itsprakash84/building-an-ai-enhanced-api-validator-a-weekend-developers-journey-386a)
-- [DELTA-X: An Invariant, Auditable Reasoning Framework for Humans and AI](https://dev.to/deltax/delta-x-an-invariant-auditable-reasoning-framework-for-humans-and-ai-2gcg)
+- [buckshot roulette 2d](https://dev.to/durmush/buckshot-roulette-2d-43pl)
+- [SaaS developer, DevOps engineer, or startup founder Are Bleeding Money on Subscriptions &lpar;Here’s How to Fix It&rpar;](https://dev.to/rahul_singhshekhawat_943/saas-developer-devops-engineer-or-startup-founder-are-bleeding-money-on-subscriptions-heres-how-4hej)
+- [From &quot;What Happened?&quot; to &quot;What Should We Do?&quot; Understanding the Four Types of Data Analytics](https://dev.to/makwaka/from-what-happened-to-what-should-we-do-understanding-the-four-types-of-data-analytics-pb1)
+- [SQL - PostgreSQL: Execution Order](https://dev.to/yurilbrok/sql-postgresql-execution-order-30pk)
+- [Before Your Agent Books a Vacation, It Has to Learn to Scroll](https://dev.to/aws/before-your-agent-books-a-vacation-it-has-to-learn-to-scroll-4236)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
