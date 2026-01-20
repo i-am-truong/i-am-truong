@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Merged a PR in VS Code &amp; My Open Source Roadmap for GSoC 2026](https://dev.to/riyachandra_6a157caf91fb3/how-i-merged-a-pr-in-vs-code-my-open-source-roadmap-for-gsoc-2026-3f9f)
-- [Python Closures: Coming from JavaScript](https://dev.to/david_moran_0a44206d28c04/python-closures-coming-from-javascript-5885)
-- [SOLID &amp; OOP Design business case](https://dev.to/ahmed_hesham_bc018e8c2860/solid-oop-design-business-case-dl9)
-- [8 Lições sobre microsserviços que todo desenvolvedor precisa saber](https://dev.to/erandirjunior/8-licoes-sobre-microsservicos-que-todo-desenvolvedor-precisa-saber-3o42)
-- [BenQ RD280UG Review: 28-Inch 4K Programming Monitor for Developers](https://dev.to/nickytonline/benq-rd280ug-review-28-inch-4k-programming-monitor-for-developers-2iko)
+- [Jeringa: Custom C# Attributes for Easy Dependency Injection](https://dev.to/simonsanchezart/jeringa-custom-c-attributes-for-easy-dependency-injection-20hc)
+- [My Exam Experience: AWS Certified Solution Architect - Professional](https://dev.to/xmabry/my-exam-experience-aws-certified-solution-architect-professional-25n5)
+- [Smart Kitchen Shelf: .NET + ESP32 + AI for Full Inventory Automation. Part 1](https://dev.to/belochka1-04/smart-kitchen-shelf-net-esp32-ai-for-full-inventory-automation-part-1-36be)
+- [I&#39;m 17 and built my first SaaS. Here&#39;s the tech stack and what I&#39;d do differently.](https://dev.to/animiso_ce2f2f2e181032b7b/-the-i-wish-i-knew-this-before-i-started-thread-40ea)
+- [Make Your Technical Tutorials Interactive with SQLize Embed](https://dev.to/rozhnev/make-your-technical-tutorials-interactive-with-sqlize-embed-1eo3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
