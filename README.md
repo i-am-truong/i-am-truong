@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI UX: Reliable, resumable token streaming](https://dev.to/ablyblog/ai-ux-reliable-resumable-token-streaming-5a63)
-- [Ably AI Transport is now available](https://dev.to/ably/ably-ai-transport-is-now-available-482p)
-- [Why FX Refunds Break Customer Trust &lpar;Even When the Math Is Correct&rpar;](https://dev.to/tocka_ayman_c362f86034edd/why-fx-refunds-break-customer-trust-even-when-the-math-is-correct-cab)
-- [Master Full Stack Development by walking through the Commit History of an Open Source Project](https://dev.to/syncwithhasan/master-full-stack-development-by-walking-through-the-commit-history-of-an-open-source-project-3738)
-- [Introducing Community Benchmarks on Kaggle](https://dev.to/aibusinesshub/introducing-community-benchmarks-on-kaggle-42ha)
+- [Como resolver o ciclo de importação em Go](https://dev.to/gabriel_santos_fc57509a3c/como-resolver-o-ciclo-de-importacao-em-go-h9i)
+- [Learning Starts After Graduation](https://dev.to/itsugo/learning-starts-after-graduation-2ie4)
+- [Hooks: How to Put Guardrails on Your AI Coding Assistant](https://dev.to/rajeshroyal/hooks-how-to-put-guardrails-on-your-ai-coding-assistant-4gak)
+- [Building My Personal Portfolio Website: Design, Decisions and Growth](https://dev.to/yasirawan4831/building-my-personal-portfolio-website-design-decisions-and-growth-3o1b)
+- [Enrich Inbound Leads via LinkedIn | n8n Workflow with Dropcontact &amp; Apify](https://dev.to/hackceleration/enrich-inbound-leads-via-linkedin-n8n-workflow-with-dropcontact-apify-37fl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
