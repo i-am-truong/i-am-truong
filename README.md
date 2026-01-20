@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Jeringa: Custom C# Attributes for Easy Dependency Injection](https://dev.to/simonsanchezart/jeringa-custom-c-attributes-for-easy-dependency-injection-20hc)
-- [My Exam Experience: AWS Certified Solution Architect - Professional](https://dev.to/xmabry/my-exam-experience-aws-certified-solution-architect-professional-25n5)
-- [Smart Kitchen Shelf: .NET + ESP32 + AI for Full Inventory Automation. Part 1](https://dev.to/belochka1-04/smart-kitchen-shelf-net-esp32-ai-for-full-inventory-automation-part-1-36be)
-- [I&#39;m 17 and built my first SaaS. Here&#39;s the tech stack and what I&#39;d do differently.](https://dev.to/animiso_ce2f2f2e181032b7b/-the-i-wish-i-knew-this-before-i-started-thread-40ea)
-- [Make Your Technical Tutorials Interactive with SQLize Embed](https://dev.to/rozhnev/make-your-technical-tutorials-interactive-with-sqlize-embed-1eo3)
+- [🧱 Lecture 11: Continuous Integration and Continuous Deployment &lpar;CI/CD&rpar; with Jenkins](https://dev.to/farrukh_rehman/lecture-11-continuous-integration-and-continuous-deployment-cicd-with-jenkins-6om)
+- [How to build a Frontend for LangChain Deep Agents with CopilotKit!](https://dev.to/copilotkit/how-to-build-a-frontend-for-langchain-deep-agents-with-copilotkit-52kd)
+- [Welcome to MCP-P-A-looza](https://dev.to/gde/welcome-to-mcp-p-a-looza-kak)
+- [How to Deploy a React App on Ubuntu with Nginx: A Complete Guide](https://dev.to/odoworitse_afari_1cbfd3f4/how-to-deploy-a-react-app-on-ubuntu-with-nginx-a-complete-guide-1ac2)
+- [🔐 Secure Development Lifecycle &lpar;SDL&rpar; Explained: Building Secure Software by Design](https://dev.to/mohamedshabanai/secure-development-lifecycle-sdl-explained-building-secure-software-by-design-4e69)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
