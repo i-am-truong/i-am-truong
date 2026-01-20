@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Motivation Works… Until It Doesn’t](https://dev.to/pooja_547ec7b9ab97a40fd64/motivation-works-until-it-doesnt-12m4)
+- [Your Demo Slot Is a Leadership Opportunity](https://dev.to/dexluce/your-demo-slot-is-a-leadership-opportunity-3hi8)
+- [From Prompt to Platform: Architecture Rules I Use](https://dev.to/cleverhoods/from-prompt-to-platform-architecture-rules-i-use-59gp)
 - [Your Terraform Examples Are Broken &lpar;And You Don&#39;t Know It Yet&rpar;](https://dev.to/jverhoeks/your-terraform-examples-are-broken-and-you-dont-know-it-yet-4ine)
-- [Targeted Bets: Reinventing the Job Hunt for Developers](https://dev.to/dd8888/targeted-bets-reinventing-the-job-hunt-for-developers-2no2)
-- [eBPF Tutorial: BPF Workqueues for Asynchronous Sleepable Tasks](https://dev.to/yunwei37/ebpf-tutorial-bpf-workqueues-for-asynchronous-sleepable-tasks-58nb)
-- [Project Autopilot: Why I Fired Myself as Community Manager to Build an AI agents Army](https://dev.to/datalaria/project-autopilot-why-i-fired-myself-as-community-manager-to-build-an-ai-agents-army-39k8)
-- [Web3 Domains: Building Your Decentralized Digital Identity](https://dev.to/endlessdoamins/web3-domains-building-your-decentralized-digital-identity-2imh)
+- [# 💸 The $2.3 Million Lesson: Why Your PostgreSQL Money Transactions Are Probably Wrong](https://dev.to/igornosatov_15/-the-23-million-lesson-why-your-postgresql-money-transactions-are-probably-wrong-15l1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
