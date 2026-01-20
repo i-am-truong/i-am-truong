@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Angular Signals &amp; Debouncing — A Scientific, Production‑Minded Guide &lpar;2026&rpar;](https://dev.to/cristiansifuentes/angular-signals-debouncing-a-scientific-production-minded-guide-2026-2kdk)
-- [Code, Music, and the Pivot: Re-introducing Myself](https://dev.to/ziadelnagar/code-music-and-the-pivot-re-introducing-myself-416m)
-- [DEV! Starting my journey with Python, PowerShell, and Git 🚀](https://dev.to/henderson_128c303d14/dev-starting-my-journey-with-python-powershell-and-git-260j)
-- [Porting a Pygame Game from Arch &lpar;BTW&rpar; to Android &lpar;By losing my mind so you don’t have to&rpar;](https://dev.to/andelibsriz/porting-a-pygame-game-from-arch-btw-to-android-by-losing-my-mind-so-you-dont-have-to-19d4)
-- [Is Lovable a Good Starting Point for Developers?](https://dev.to/djoul/is-lovable-a-good-starting-point-for-developers-laa)
+- [Overview of Real-Time Data Synchronization from PostgreSQL to VeloDB](https://dev.to/apachedoris/overview-of-real-time-data-synchronization-from-postgresql-to-velodb-5aem)
+- [Building funsize-engineer](https://dev.to/funsize_engineer/building-funsize-engineer-3k18)
+- [Building a serverless function in AWS](https://dev.to/andrewesley1211/building-a-serverless-function-in-aws-5779)
+- [Modern Power App development takes a lot of... SPACE.](https://dev.to/_neronotte/modern-power-app-development-takes-a-lot-of-space-3f3j)
+- [From branches to trunk &lpar;a journey&rpar;](https://dev.to/mrksdck/from-branches-to-trunk-a-journey-2kc8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
