@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How POSTGRES indexing is more efficient than MYSQL](https://dev.to/khairul_basar_a2746d66c5f/how-postgres-indexing-is-more-efficient-than-mysql-2ohl)
-- [TL;DR: Code Reviews Break in the AI Era — Plans Fix Them](https://dev.to/xhack/tldr-code-reviews-break-in-the-ai-era-plans-fix-them-3ge9)
-- [I Built a Localhost Tunneling tool in TypeScript - Here&#39;s What Surprised Me](https://dev.to/robbiecahill/i-built-a-localhost-tunneling-tool-in-typescript-heres-what-surprised-me-17eg)
-- [My Chrome Tabs Tell a Story We Haven&#39;t Processed Yet](https://dev.to/dannwaneri/my-chrome-tabs-tell-a-story-we-havent-processed-yet-ec9)
-- [Javascript](https://dev.to/selvaraj_ganesan_03/javascript-3595)
+- [Compiling JavaScript](https://dev.to/selvaraj_ganesan_03/compiling-javascript-43nm)
+- [Industry Survey: Faster Coding, Slower Debugging](https://dev.to/morethananai/industry-survey-faster-coding-slower-debugging-5cma)
+- [unior Devs Write Code. Senior Devs Delete It.](https://dev.to/freerave/unior-devs-write-code-senior-devs-delete-it-5d)
+- [Building WSL-UI: The Microsoft Store Journey](https://dev.to/octasoft-ltd/building-wsl-ui-the-microsoft-store-journey-2428)
+- [Stepping into agentic coding](https://dev.to/ms_74/stepping-into-agentic-coding-58ip)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
