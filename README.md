@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why your GenAI pilot succeeds, but your production deployment fails - and what to do about it](https://dev.to/iriszarecki/why-your-genai-pilot-succeeds-but-your-production-deployment-fails-and-what-to-do-about-it-2bk8)
-- [From Manual to AI-Driven: AWS Well-Architected Security MCP Server](https://dev.to/sarvar_04/from-manual-to-ai-driven-aws-well-architected-security-mcp-server-35bg)
-- [🤖 Building a Personal AI Assistant in Python – Jarvis](https://dev.to/msrajput08/building-a-personal-ai-assistant-in-python-jarvis-2gfl)
-- [RubyLLM::Instrumentation: The foundation for RubyLLM monitoring](https://dev.to/sinaptia_dev/rubyllminstrumentation-the-foundation-for-rubyllm-monitoring-4jh9)
-- [I built a Python project to explore practical password security](https://dev.to/usero0/i-built-a-python-project-to-explore-practical-password-security-2ai1)
+- [Introducing Community Benchmarks on Kaggle](https://dev.to/aibusinesshub/introducing-community-benchmarks-on-kaggle-42ha)
+- [Why Functional Interfaces Matter in Java 8&lpar;Part-1&rpar;](https://dev.to/s_mathavi_2fa1e3ea8514f34/why-functional-interfaces-matter-in-java-8part-1-2he5)
+- [Building a Local-First 3D Dashboard with IndexedDB: 89% Cache Hit Rate](https://dev.to/emmanueln07/building-a-local-first-3d-dashboard-with-indexeddb-89-cache-hit-rate-1n2m)
+- [n8n: Community Node - LiteLLM](https://dev.to/codebangkok/n8n-community-node-litellm-5abe)
+- [Can we build a messenger with zero servers? My attempt at a truly serverless P2P tool.](https://dev.to/lordtao/can-we-build-a-messenger-with-zero-servers-my-attempt-at-a-truly-serverless-p2p-tool-oi1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
