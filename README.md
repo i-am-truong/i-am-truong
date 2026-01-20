@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [EIP-7934: The RLP Block Size Limit That Makes Ethereum Safer and More Predictable](https://dev.to/codebyankita/eip-7934-the-rlp-block-size-limit-that-makes-ethereum-safer-and-more-predictable-2482)
-- [Get Started With Image Classification in Kaggle using Python](https://dev.to/ddebajyati/get-started-with-image-classification-in-kaggle-using-python-4nam)
-- [AI Tools Race Heats Up: Week of January 13-19, 2026](https://dev.to/alexmercedcoder/ai-tools-race-heats-up-week-of-january-13-19-2026-2a87)
-- [Google api](https://dev.to/0345361887/google-api-ce0)
-- [ReactJS Hook Pattern ~Deriving State~](https://dev.to/kkr0423/reactjs-hook-pattern-deriving-state-3og6)
+- [Stop Hiding the Infrastructure: Why &quot;Black Box&quot; Tech is a Trap](https://dev.to/zorentia_productstudio_5/stop-hiding-the-infrastructure-why-black-box-tech-is-a-trap-njo)
+- [I Built a Database Designer Where You Draw First and Generate SQL Later](https://dev.to/rushikesh_bodakhe_db28644/i-built-a-database-designer-where-you-draw-first-and-generate-sql-later-4f96)
+- [Let&#39;s laugh at some of my pain!](https://dev.to/bibimbop123/lets-laugh-at-some-of-my-pain-3p0i)
+- [Mastering Google Cloud Translation API with Python: A Developer&#39;s Guide](https://dev.to/ajitkumar/mastering-google-cloud-translation-api-with-python-a-developers-guide-1oo4)
+- [I Built a Free Alternative to cPanel - Here&#39;s What I Learned](https://dev.to/juandenis/i-built-a-free-alternative-to-cpanel-heres-what-i-learned-npj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
