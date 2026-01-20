@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🧱 Lecture 11: Continuous Integration and Continuous Deployment &lpar;CI/CD&rpar; with Jenkins](https://dev.to/farrukh_rehman/lecture-11-continuous-integration-and-continuous-deployment-cicd-with-jenkins-6om)
-- [How to build a Frontend for LangChain Deep Agents with CopilotKit!](https://dev.to/copilotkit/how-to-build-a-frontend-for-langchain-deep-agents-with-copilotkit-52kd)
-- [Welcome to MCP-P-A-looza](https://dev.to/gde/welcome-to-mcp-p-a-looza-kak)
-- [How to Deploy a React App on Ubuntu with Nginx: A Complete Guide](https://dev.to/odoworitse_afari_1cbfd3f4/how-to-deploy-a-react-app-on-ubuntu-with-nginx-a-complete-guide-1ac2)
-- [🔐 Secure Development Lifecycle &lpar;SDL&rpar; Explained: Building Secure Software by Design](https://dev.to/mohamedshabanai/secure-development-lifecycle-sdl-explained-building-secure-software-by-design-4e69)
+- [I Read an Article About Dev Analytics… Then Forgot It. So I Built My Own.](https://dev.to/vasughanta09/i-read-an-article-about-dev-analytics-then-forgot-it-so-i-built-my-own-3253)
+- [站內搜尋加上 AI：使用 Google Vertex AI Search（RAG）打造智慧問答型搜尋](https://dev.to/letswrite/zhan-nei-sou-xun-jia-shang-aishi-yong-google-vertex-ai-search-rag-da-zao-zhi-hui-wen-da-xing-sou-xun-302c)
+- [I Used Redux for API Data… Until React Query Saved Me](https://dev.to/ddhanushka/i-used-redux-for-api-data-until-react-query-saved-me-1ghc)
+- [My New Year, New You Portfolio](https://dev.to/tammy_inomabatubo_1a2f0f/my-new-year-new-you-portfolio-kam)
+- [Building a Home Server on a Zero Budget &lpar;No Raspberry Pi Needed&rpar;](https://dev.to/janith19/building-a-home-server-on-a-zero-budget-no-raspberry-pi-needed-5g5h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
