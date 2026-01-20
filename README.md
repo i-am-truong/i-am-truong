@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Overview of Real-Time Data Synchronization from PostgreSQL to VeloDB](https://dev.to/apachedoris/overview-of-real-time-data-synchronization-from-postgresql-to-velodb-5aem)
-- [Building funsize-engineer](https://dev.to/funsize_engineer/building-funsize-engineer-3k18)
-- [Building a serverless function in AWS](https://dev.to/andrewesley1211/building-a-serverless-function-in-aws-5779)
-- [Modern Power App development takes a lot of... SPACE.](https://dev.to/_neronotte/modern-power-app-development-takes-a-lot-of-space-3f3j)
-- [From branches to trunk &lpar;a journey&rpar;](https://dev.to/mrksdck/from-branches-to-trunk-a-journey-2kc8)
+- [Building Apps with AI: Deep Dive into beads Workflow](https://dev.to/koustubh/building-apps-with-ai-deep-dive-into-beads-workflow-28h1)
+- [Building Apps with AI: How beads Changed My Development Workflow](https://dev.to/koustubh/building-apps-with-ai-how-beads-changed-my-development-workflow-2p7)
+- [New NPM package: ralph-task](https://dev.to/stevenmhunt/new-npm-package-ralph-taskhttpswwwnpmjscompackageralph-task-3c0e)
+- [A GitBook-Style Docs Site with Next.js &lpar;App Router&rpar;, Markdown, SEO, and Cloudflare Workers](https://dev.to/emrahg/a-gitbook-style-docs-site-with-nextjs-app-router-markdown-seo-and-cloudflare-workers-ke1)
+- [Building an AI teaching assistant grounded in real Further Education practice](https://dev.to/tristan_fe3e16cbe/building-an-ai-teaching-assistant-grounded-in-real-further-education-practice-4dgp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
