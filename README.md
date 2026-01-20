@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Como resolver o ciclo de importação em Go](https://dev.to/gabriel_santos_fc57509a3c/como-resolver-o-ciclo-de-importacao-em-go-h9i)
-- [Learning Starts After Graduation](https://dev.to/itsugo/learning-starts-after-graduation-2ie4)
-- [Hooks: How to Put Guardrails on Your AI Coding Assistant](https://dev.to/rajeshroyal/hooks-how-to-put-guardrails-on-your-ai-coding-assistant-4gak)
-- [Building My Personal Portfolio Website: Design, Decisions and Growth](https://dev.to/yasirawan4831/building-my-personal-portfolio-website-design-decisions-and-growth-3o1b)
-- [Enrich Inbound Leads via LinkedIn | n8n Workflow with Dropcontact &amp; Apify](https://dev.to/hackceleration/enrich-inbound-leads-via-linkedin-n8n-workflow-with-dropcontact-apify-37fl)
+- [Choose Effective Prompt Engineering Techniques](https://dev.to/aws-builders/choose-effective-prompt-engineering-techniques-4l)
+- [The Accidental Reviewer Part 1: How I Learnt to Review Code Across 5 Stacks](https://dev.to/snowleo208/the-accidental-reviewer-part-1-how-i-learnt-to-review-code-across-5-stacks-1214)
+- [What to Review Before Merging to `main`: A Practical Code Review Checklist](https://dev.to/samuel_ruiz_64604c4d0ba22/what-to-review-before-merging-to-main-a-practical-code-review-checklist-2b8l)
+- [Building an AI-Enhanced API Validator: A Weekend Developer&#39;s Journey](https://dev.to/itsprakash84/building-an-ai-enhanced-api-validator-a-weekend-developers-journey-386a)
+- [DELTA-X: An Invariant, Auditable Reasoning Framework for Humans and AI](https://dev.to/deltax/delta-x-an-invariant-auditable-reasoning-framework-for-humans-and-ai-2gcg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
