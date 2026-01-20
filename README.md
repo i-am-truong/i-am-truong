@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What if you are to build for a 1,000,000 daily active users?](https://dev.to/samowolabi/what-if-you-are-to-build-for-a-1000000-daily-active-users-jm)
 - [Introducing Playwright Labs: Best Practices as Code](https://dev.to/vitalicset/introducing-playwright-labs-best-practices-as-code-198n)
 - [Unlocking DevOps Velocity: Why Your Test Management Strategy is the Real Bottleneck](https://dev.to/matt_calder_e620d84cf0c14/unlocking-devops-velocity-why-your-test-management-strategy-is-the-real-bottleneck-2n3a)
 - [# Complete Guide to RAG Evaluations in Amazon Bedrock](https://dev.to/rajmurugan/-complete-guide-to-rag-evaluations-in-amazon-bedrock-4je3)
 - [🛰 Beginner-Friendly Guide &#39;Construct the Minimum Bitwise Array I&#39; - Problem 3314 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-construct-the-minimum-bitwise-array-i-problem-3314-c-python-3ia4)
-- [4 reasons why ditching Machine Learning and falling in love with Deep Learning might be a good idea](https://dev.to/vishnu_ajit/4-reasons-why-ditching-machine-learning-and-falling-in-love-with-deep-learning-might-be-a-good-idea-3lm1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
