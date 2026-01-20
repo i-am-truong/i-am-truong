@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AWS Cloud Club Captain Applications Are Open – Step Up and Lead Your Campus in the Cloud!](https://dev.to/aayusha_d238279e4f6b58625/aws-cloud-club-captain-applications-are-open-step-up-and-lead-your-campus-in-the-cloud-2097)
-- [Two Pointer for Beginners — Reverse an Array &lpar;In-Place&rpar;](https://dev.to/nithya_dharshiniofficial/two-pointer-for-beginners-reverse-an-array-in-place-5aca)
-- [Control-Flow Statement Programs in java](https://dev.to/kavitha_krish/control-flow-statement-programs-in-java-54ad)
-- [Type-Safe Astro APIs](https://dev.to/mrtoxas/type-safe-api-endpoints-in-astro-4e5k)
-- [A.I. — The Amplifier: From Software Developer to Software Creator 🚀](https://dev.to/sweetpapa/ai-the-amplifier-from-software-developer-to-software-creator-2nb9)
+- [Why your GenAI pilot succeeds, but your production deployment fails - and what to do about it](https://dev.to/iriszarecki/why-your-genai-pilot-succeeds-but-your-production-deployment-fails-and-what-to-do-about-it-2bk8)
+- [From Manual to AI-Driven: AWS Well-Architected Security MCP Server](https://dev.to/sarvar_04/from-manual-to-ai-driven-aws-well-architected-security-mcp-server-35bg)
+- [🤖 Building a Personal AI Assistant in Python – Jarvis](https://dev.to/msrajput08/building-a-personal-ai-assistant-in-python-jarvis-2gfl)
+- [RubyLLM::Instrumentation: The foundation for RubyLLM monitoring](https://dev.to/sinaptia_dev/rubyllminstrumentation-the-foundation-for-rubyllm-monitoring-4jh9)
+- [I built a Python project to explore practical password security](https://dev.to/usero0/i-built-a-python-project-to-explore-practical-password-security-2ai1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
