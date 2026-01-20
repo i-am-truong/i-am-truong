@@ -120,13 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Developers should understand that software is not disappearing, but low-code AI is quietly absorbing large parts of what traditional software used to do. 
-
-It&#39;s time for developers to understand, otherwise they will lose the opportunity.](https://dev.to/jaideepparashar/developers-should-understand-that-software-is-not-disappearing-but-low-code-ai-is-quietly-2dgn)
-- [How Low Code AI is Eating Traditional Software](https://dev.to/jaideepparashar/how-low-code-ai-is-eating-traditional-software-ibo)
-- [Building a Production-Ready Portfolio: Phase-2 — Layout, Navigation &amp; Routing Foundations](https://dev.to/imsushant12/building-a-production-ready-portfolio-phase-3-layout-navigation-routing-foundations-4o1f)
-- [Power Without Accountability: How Modern Corporations Create Their Own Failures](https://dev.to/abdulosman/power-without-accountability-how-modern-corporations-create-their-own-failures-2k5l)
-- [Stop Hiding the Infrastructure: Why &quot;Black Box&quot; Tech is a Trap](https://dev.to/zorentia_productstudio_5/stop-hiding-the-infrastructure-why-black-box-tech-is-a-trap-njo)
+- [Developing in Web3: Deploying Privacy-First dApps with Sapphire + ROFL](https://dev.to/dc600/developing-in-web3-deploying-privacy-first-dapps-with-sapphire-rofl-aof)
+- [Understanding Network Devices](https://dev.to/abhimanyu_kumar_b94e042e9/understanding-network-devices-15l4)
+- [What Happens When a User Deletes Their Account? A Guide to Rails ActiveRecord dependent: Strategies](https://dev.to/nemwelboniface/what-happens-when-a-user-deletes-their-account-a-guide-to-rails-activerecord-dependent-strategies-1279)
+- [The 15 Git Commands Every Software Engineer Uses &lpar;And Why They Matter More Than You Think&rpar;](https://dev.to/hadil/the-15-git-commands-every-software-engineer-uses-and-why-they-matter-more-than-you-think-c51)
+- [Bloom update: new HRT tools, emotional support features, and a full medication database](https://dev.to/codebunny20/bloom-update-new-hrt-tools-emotional-support-features-and-a-full-medication-database-67l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
