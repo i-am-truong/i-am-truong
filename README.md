@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why &#39;Tech Debt&#39; Does Not Get Fixed](https://dev.to/stevenstuartm/why-tech-debt-does-not-get-fixed-1kh1)
+- [🚀 Platform Engineering](https://dev.to/itsmecharan7/platform-engineering-3h3e)
 - [Guide to Figma](https://dev.to/ahmad_9611bc9dded86508a10/guide-to-figma-3lbg)
 - [Human-in-the-Loop, by Design: Evolving from Algorithms to Care-Centered AI](https://dev.to/innacampo/human-in-the-loop-by-design-evolving-from-algorithms-to-care-centered-ai-3i37)
 - [Elevate Your Flutter App&#39;s Performance with Flutter Rocket&#39;s Premium Features 🚀](https://dev.to/m97chahboun/elevate-your-flutter-apps-performance-with-flutter-rockets-premium-features-57aa)
-- [The Architecture of a Scalable AI SaaS: My 2026 Blueprint](https://dev.to/frankdotdev/the-architecture-of-a-scalable-ai-saas-my-2026-blueprint-56cm)
-- [A Developer&#39;s Map to Shopify UCP](https://dev.to/julesk/a-developers-map-to-shopify-ucp-1c55)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
