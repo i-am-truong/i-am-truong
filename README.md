@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🛰 Beginner-Friendly Guide &#39;Construct the Minimum Bitwise Array I&#39; - Problem 3314 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-construct-the-minimum-bitwise-array-i-problem-3314-c-python-3ia4)
+- [4 reasons why ditching Machine Learning and falling in love with Deep Learning might be a good idea](https://dev.to/vishnu_ajit/4-reasons-why-ditching-machine-learning-and-falling-in-love-with-deep-learning-might-be-a-good-idea-3lm1)
 - [Quick Data Recovery using Snapshots - Amazon FSx for NetApp ONTAP](https://dev.to/iseecodepeople/quick-data-recovery-using-snapshots-amazon-fsx-for-netapp-ontap-2f10)
+- [I Built an AI Debugging Assistant Because I Was Tired of Midnight Bug Hunts](https://dev.to/shrey_chauhan/i-built-an-ai-debugging-assistant-because-i-was-tired-of-midnight-bug-hunts-3j93)
 - [PostgreSQL vs. MySQL: Which is the King of 2026?](https://dev.to/sandipyadav/postgresql-vs-mysql-which-is-the-king-of-2026-4m83)
-- [🔥 5 Best React UI Libraries for 2026 &lpar;And When to Use Each&rpar; 🚀](https://dev.to/ansonch/5-best-react-ui-libraries-for-2026-and-when-to-use-each-1p4j)
-- [The Cloud Exit Strategy: Architecting for Independence](https://dev.to/ken_mwaura1/the-cloud-exit-strategy-architecting-for-independence-5cbg)
-- [AI Coding Tip 003 - Force Read-Only Planning](https://dev.to/mcsee/ai-coding-tip-003-force-read-only-planning-1d1m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
