@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Porting a Pygame Game from Arch &lpar;BTW&rpar; to Android &lpar;By losing my mind so you don’t have to&rpar;](https://dev.to/andelibsriz/porting-a-pygame-game-from-arch-btw-to-android-by-losing-my-mind-so-you-dont-have-to-19d4)
+- [Is Lovable a Good Starting Point for Developers?](https://dev.to/djoul/is-lovable-a-good-starting-point-for-developers-laa)
 - [Async Reactivity with Angular Resources — A Production‑Minded Guide &lpar;2026&rpar;](https://dev.to/cristiansifuentes/async-reactivity-with-angular-resources-a-production-minded-guide-2026-283k)
+- [The Schism: Why We Must Distinguish &quot;Generative Video&quot; from Synthia &lpar;AI Cinema&rpar; By Adel Abdel-Dayem](https://dev.to/adel_dayem/the-schism-why-we-must-distinguish-generative-video-from-synthia-ai-cinemaby-adel-abdel-dayem-2i18)
 - [Named Query Filters in .NET 10](https://dev.to/hamza_darouzi_dotnet/named-query-filters-in-net-10-47hp)
-- [Architectural Drift: The Reason For JavaScript/Typescript Codebases To Break Down Over Time](https://dev.to/fixcik/architectural-drift-the-reason-for-javascripttypescript-codebases-to-break-down-over-time-471g)
-- [Building an API in Go to Manage Files on Amazon S3](https://dev.to/joaooliveiratech/building-an-api-in-go-to-manage-files-on-amazon-s3-4olc)
-- [LLMs - What are they good for, anyway?](https://dev.to/jballanc/llms-what-are-they-good-for-anyway-3p12)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
