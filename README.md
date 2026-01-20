@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [PC_Workman v1.6.3+: From Code to Executable .exe after 6 months of work. My milestone.](https://dev.to/huckler/pcworkman-v163-from-code-to-executable-exe-after-6-months-of-work-my-milestone-e7o)
-- [New Year, New You Portfolio Challenge](https://dev.to/isumenuka/new-year-new-you-portfolio-challenge-2l2e)
-- [k8s debug pod](https://dev.to/aws-builders/k8s-debug-pod-57m4)
-- [LOGOS v1.4.1: Building Multi-Engine AI Reasoning You Can Actually Trust](https://dev.to/flamehaven01/logos-v141-building-multi-engine-ai-reasoning-you-can-actually-trust-4b2f)
-- [From Chaos to signal: Taming high-frequency OS events in Go](https://dev.to/asoseil/from-chaos-to-signal-taming-high-frequency-os-events-in-go-4p8k)
+- [🎯 SLI, SLO, SLA Explained 🎯](https://dev.to/itsmecharan7/sli-slo-sla-explained-53g1)
+- [I Fixed a Terraform State Lock Issue in GitHub Actions Here’s What I Learned](https://dev.to/techwithhari/i-fixed-a-terraform-state-lock-issue-in-github-actions-heres-what-i-learned-ml8)
+- [Why My Second RAG System Was Built in Rails, Not Python’s FastAPI](https://dev.to/ganesh_navale/why-my-second-rag-system-was-built-in-rails-not-pythons-fastapi-3h06)
+- [Navigating Bangladesh&#39;s Software Industry: A Practical Guide for Developers in 2026](https://dev.to/mir_mursalin_ankur/navigating-bangladeshs-software-industry-a-practical-guide-for-developers-in-2026-22ob)
+- [Inside Git ? How it works and what is inside .git?](https://dev.to/rahul_kumarparida_6c16f5/inside-git-how-it-works-and-what-is-inside-git-cjk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
