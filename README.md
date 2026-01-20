@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stanikmas, Lynn. &lpar;2025&rpar;. CodeChallenge. GitHub.](https://dev.to/lstanikmas/stanikmas-lynn-2025-codechallenge-github-33je)
-- [Step-by-Step Guide: Build a CRUD Blazor App with Entity Framework and PostgreSQL](https://dev.to/auyeungdavid_2847435260/step-by-step-guide-build-a-crud-blazor-app-with-entity-framework-and-postgresql-3ccj)
-- [Deployed Profile to Google Cloud via AI Interface in Antigravity](https://dev.to/annavi11arrea1/deployed-profile-to-google-cloud-via-ai-interface-in-antigravity-2c83)
-- [Production-Ready Rust Project Setup: From Zero to CI/CD](https://dev.to/ajitkumar/production-ready-rust-project-setup-from-zero-to-cicd-jp4)
-- [Building llama.cpp in an Environment Without curl Headers](https://dev.to/vast-cow/building-llamacpp-in-an-environment-without-curl-headers-2ahn)
+- [ReactJS Hook Pattern ~Deriving State~](https://dev.to/kkr0423/reactjs-hook-pattern-deriving-state-3og6)
+- [3 Mistakes Most Beginner Developers Make](https://dev.to/pritish_academy/3-mistakes-most-beginner-developers-make-48l7)
+- [5 Obvious Signs Everyone Knows You’re Using ChatGPT](https://dev.to/rajeshroyal/5-obvious-signs-everyone-knows-youre-using-chatgpt-5b9p)
+- [The Secret Life of Go: The Context Package](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-the-context-package-h1d)
+- [Introducing shaunSocial – A Self-Hosted Social Network Platform](https://dev.to/shaunsocial/introducing-shaunsocial-a-self-hosted-social-network-platform-1589)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
