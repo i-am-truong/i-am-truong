@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [End of the era of writing code as we know it](https://dev.to/ms_74/end-of-the-era-of-writing-code-as-we-know-it-f2l)
-- [Why gRPC Is Ideal for High-Performance APIs](https://dev.to/boldsign/why-grpc-is-ideal-for-high-performance-apis-4l84)
-- [Dissecting Digital Viruses: My First Steps in Malware Analysis](https://dev.to/gabriel25115cg/issecting-digital-viruses-my-first-steps-in-malware-analysis-5g2o)
-- [Why Automation Tests Become Unreliable &lpar;And How Teams Fix Them&rpar;](https://dev.to/astraforge_io7/why-automation-tests-become-unreliable-and-how-teams-fix-them-1o0e)
-- [9 Shadcn/ui + Radix ‘Hidden’ Components That Make Your App Feel Premium](https://dev.to/shadcndeck_dev/9-shadcnui-radix-hidden-components-that-make-your-app-feel-premium-12hg)
+- [Quick Data Recovery using Snapshots - Amazon FSx for NetApp ONTAP](https://dev.to/iseecodepeople/quick-data-recovery-using-snapshots-amazon-fsx-for-netapp-ontap-2f10)
+- [PostgreSQL vs. MySQL: Which is the King of 2026?](https://dev.to/sandipyadav/postgresql-vs-mysql-which-is-the-king-of-2026-4m83)
+- [🔥 5 Best React UI Libraries for 2026 &lpar;And When to Use Each&rpar; 🚀](https://dev.to/ansonch/5-best-react-ui-libraries-for-2026-and-when-to-use-each-1p4j)
+- [The Cloud Exit Strategy: Architecting for Independence](https://dev.to/ken_mwaura1/the-cloud-exit-strategy-architecting-for-independence-5cbg)
+- [AI Coding Tip 003 - Force Read-Only Planning](https://dev.to/mcsee/ai-coding-tip-003-force-read-only-planning-1d1m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
