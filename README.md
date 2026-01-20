@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Compiling JavaScript](https://dev.to/selvaraj_ganesan_03/compiling-javascript-43nm)
-- [Industry Survey: Faster Coding, Slower Debugging](https://dev.to/morethananai/industry-survey-faster-coding-slower-debugging-5cma)
-- [unior Devs Write Code. Senior Devs Delete It.](https://dev.to/freerave/unior-devs-write-code-senior-devs-delete-it-5d)
-- [Building WSL-UI: The Microsoft Store Journey](https://dev.to/octasoft-ltd/building-wsl-ui-the-microsoft-store-journey-2428)
-- [Stepping into agentic coding](https://dev.to/ms_74/stepping-into-agentic-coding-58ip)
+- [End of the era of writing code as we know it](https://dev.to/ms_74/end-of-the-era-of-writing-code-as-we-know-it-f2l)
+- [Why gRPC Is Ideal for High-Performance APIs](https://dev.to/boldsign/why-grpc-is-ideal-for-high-performance-apis-4l84)
+- [Dissecting Digital Viruses: My First Steps in Malware Analysis](https://dev.to/gabriel25115cg/issecting-digital-viruses-my-first-steps-in-malware-analysis-5g2o)
+- [Why Automation Tests Become Unreliable &lpar;And How Teams Fix Them&rpar;](https://dev.to/astraforge_io7/why-automation-tests-become-unreliable-and-how-teams-fix-them-1o0e)
+- [9 Shadcn/ui + Radix ‘Hidden’ Components That Make Your App Feel Premium](https://dev.to/shadcndeck_dev/9-shadcnui-radix-hidden-components-that-make-your-app-feel-premium-12hg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
