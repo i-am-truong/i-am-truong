@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Read an Article About Dev Analytics… Then Forgot It. So I Built My Own.](https://dev.to/vasughanta09/i-read-an-article-about-dev-analytics-then-forgot-it-so-i-built-my-own-3253)
-- [站內搜尋加上 AI：使用 Google Vertex AI Search（RAG）打造智慧問答型搜尋](https://dev.to/letswrite/zhan-nei-sou-xun-jia-shang-aishi-yong-google-vertex-ai-search-rag-da-zao-zhi-hui-wen-da-xing-sou-xun-302c)
-- [I Used Redux for API Data… Until React Query Saved Me](https://dev.to/ddhanushka/i-used-redux-for-api-data-until-react-query-saved-me-1ghc)
-- [My New Year, New You Portfolio](https://dev.to/tammy_inomabatubo_1a2f0f/my-new-year-new-you-portfolio-kam)
-- [Building a Home Server on a Zero Budget &lpar;No Raspberry Pi Needed&rpar;](https://dev.to/janith19/building-a-home-server-on-a-zero-budget-no-raspberry-pi-needed-5g5h)
+- [PC_Workman v1.6.3+: From Code to Executable .exe after 6 months of work. My milestone.](https://dev.to/huckler/pcworkman-v163-from-code-to-executable-exe-after-6-months-of-work-my-milestone-e7o)
+- [New Year, New You Portfolio Challenge](https://dev.to/isumenuka/new-year-new-you-portfolio-challenge-2l2e)
+- [k8s debug pod](https://dev.to/aws-builders/k8s-debug-pod-57m4)
+- [LOGOS v1.4.1: Building Multi-Engine AI Reasoning You Can Actually Trust](https://dev.to/flamehaven01/logos-v141-building-multi-engine-ai-reasoning-you-can-actually-trust-4b2f)
+- [From Chaos to signal: Taming high-frequency OS events in Go](https://dev.to/asoseil/from-chaos-to-signal-taming-high-frequency-os-events-in-go-4p8k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
