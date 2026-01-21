@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop Letting Third-Party Libraries Hold Your Codebase Hostage](https://dev.to/doogal/stop-letting-third-party-libraries-hold-your-codebase-hostage-2b2c)
-- [Handling Missing Data: The Detective&#39;s Guide to Solving the Case of the Vanishing Values](https://dev.to/sachin_krrajput/handling-missing-data-the-detectives-guide-to-solving-the-case-of-the-vanishing-values-44bn)
-- [If You’re Building in 2026, Start Here 📈](https://dev.to/jaskirat_singh/if-youre-building-in-2026-start-here-a07)
-- [How sharp is your attention as a C++ programmer?](https://dev.to/pvsdev/how-sharp-is-your-attention-as-a-c-programmer-11pi)
-- [Event Delegation](https://dev.to/thiraisuvadu_dev/event-delegation-3cpa)
+- [How to Setup Redux in Next.js – Full Guide with Code &amp; Examples 🚀](https://dev.to/hamidrazadev/how-to-setup-redux-in-nextjs-full-guide-with-code-examples-29bh)
+- [Building Production-Grade Data Analytics Pipelines: A Real-World Case Study in Government Data](https://dev.to/rosewabere/building-production-grade-data-analytics-pipelines-a-real-world-case-study-in-government-data-22pf)
+- [Event Bubbling - தண்ணீர் குமிழி](https://dev.to/thiraisuvadu_dev/event-bubbling-tnnnniir-kumillli-1oge)
+- [One-Hot Encoding: The Genius Trick That Works Perfectly Until It Explodes Your Computer](https://dev.to/sachin_krrajput/one-hot-encoding-the-genius-trick-that-works-perfectly-until-it-explodes-your-computer-1flm)
+- [My First HTML/CSS Portfolio: Lessons, Mistakes, and Next Steps.](https://dev.to/wali_muhdsoomro_343498be/my-first-htmlcss-portfolio-lessons-mistakes-and-next-steps-1jk7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
