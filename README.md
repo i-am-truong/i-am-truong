@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built myself a Portfolio to showcase my work](https://dev.to/justondra/i-built-myself-a-portfolio-to-showcase-my-work-4c5b)
-- [Visualizing AWS DynamoDB Data with React &amp; Recharts](https://dev.to/ericrodriguez10/visualizing-aws-dynamodb-data-with-react-recharts-gbg)
-- [I added userId and transactionId to every console.log without refactoring](https://dev.to/alex_purpleowl/i-added-userid-and-transactionid-to-every-consolelog-without-refactoring-49od)
-- [Accessibility Isn&#39;t a Feature: Building Inclusive Interfaces](https://dev.to/logicleap/accessibility-isnt-a-feature-building-inclusive-interfaces-3ig9)
-- [Lock Management Inside a Process: Why Native Locks Alone Are Not Enough](https://dev.to/lovestaco/lock-management-inside-a-process-why-native-locks-alone-are-not-enough-3907)
+- [The AI Infrastructure Bubble: Moore&#39;s Law Meets Hard Limits ,mega-scale data centers—and why this model might not last](https://dev.to/maina_murage/the-ai-infrastructure-bubble-moores-law-meets-hard-limits-mega-scale-data-centers-and-why-this-1g71)
+- [Easy DSA Problems — Ruby Solutions..](https://dev.to/bibimbop123/easy-dsa-problems-ruby-solutions-14gi)
+- [Dockavel - Production-Ready Docker Stack for Laravel](https://dev.to/mg2k4/dockavel-production-ready-docker-stack-for-laravel-3ike)
+- [A Personal OS Portfolio Built with Gemini and Cloud Run](https://dev.to/numbpill3d/a-personal-os-portfolio-built-with-gemini-and-cloud-run-40gb)
+- [Why Programs Fail A Guide to Systematic Debugging by Andreas Zeller-A Book Review](https://dev.to/hectorw_tt/why-programs-fail-a-guide-to-systematic-debugging-by-andreas-zeller-a-book-review-24h8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
