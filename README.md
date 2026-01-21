@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Powered Drone Networks: Revolutionizing Early Crop Disease Detection in Smallholder Farms](https://dev.to/asma_eman/ai-powered-drone-networks-revolutionizing-early-crop-disease-detection-in-smallholder-farms-1om3)
-- [Hackathon Survival Guide: What Actually Matters](https://dev.to/momen_hq/hackathon-survival-guide-what-actually-matters-3hme)
-- [[Boost]](https://dev.to/anthonymax/-348n)
-- [I built a niche gaming tool in 3 days: My journey building an interactive Blue Hive Guide 🐝](https://dev.to/_8cf38bbd4754d55996b08/i-built-a-niche-gaming-tool-in-3-days-my-journey-building-an-interactive-blue-hive-guide-koo)
-- [We Just Shipped Responses API Support in Bifrost &lpar;And It&#39;s Cleaner Than Chat Completions&rpar;](https://dev.to/pranay_batta/we-just-shipped-responses-api-support-in-bifrost-and-its-cleaner-than-chat-completions-3pih)
+- [𝗦𝗘𝗚𝗥𝗘 𝗶𝘀 𝗻𝗼𝘄 𝗟𝗜𝗩𝗘 𝗼𝗻 𝗻𝗽𝗺 - 𝘆𝗼𝘂𝗿 𝗺𝗲𝘀𝘀𝘆 𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱𝘀 𝗳𝗼𝗹𝗱𝗲𝗿 𝘄𝗼𝗻’𝘁 𝗯𝗲 𝗺𝗲𝘀𝘀𝘆 𝗮𝗻𝘆𝗺𝗼𝗿𝗲.](https://dev.to/shubhamsp/--13kc)
+- [Can we trust AI-generated code?](https://dev.to/dimitrisk_cyclopt/can-we-trust-ai-generated-code-122d)
+- [Dart Frog Part 3: Connecting Flutter to Your Dart Backend &lpar;Full-Stack Todo Demo&rpar; 🐸](https://dev.to/techwithsam/dart-frog-part-3-connecting-flutter-to-your-dart-backend-full-stack-todo-demo-4gdd)
+- [start using Ralph with npx ralph-scaffold](https://dev.to/rickvian/start-using-ralph-with-npx-ralph-scaffold-2167)
+- [Bloom Filters : Strictly NO, May be YES](https://dev.to/prado7/bloom-filters-strictly-no-may-be-yes-12j6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
