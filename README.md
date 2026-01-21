@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Virtual Mentor: Building Experience Without the Job Title](https://dev.to/alifunk/the-virtual-mentor-building-experience-without-the-job-title-261m)
+- [Hova: a small DSL for describing worlds &lpar;early projects&rpar;](https://dev.to/dotxavket/hova-a-small-dsl-for-describing-worlds-early-projects-4oa)
+- [Hova: a small DSL for describing worlds &lpar;early projects&rpar;](https://dev.to/dotxavket/hova-a-small-dsl-for-describing-worlds-early-projects-336m)
 - [Understanding Multiple Inputs in Neural Networks &lpar;With Python Examples&rpar; — Part 2](https://dev.to/rijultp/understanding-multiple-inputs-in-neural-networks-with-python-examples-part-2-4ok2)
 - [Introducing CVE-Alert: Free Real-Time Vulnerability Tracking by Dataforge](https://dev.to/carlvon77/introducing-cve-alert-free-real-time-vulnerability-tracking-by-dataforge-4230)
-- [Stop Paying for ThingsBoard PE Just for Self-Registration &lpar;Serverless Style&rpar; 🚀](https://dev.to/danielbustillos/stop-paying-for-thingsboard-pe-just-for-self-registration-serverless-style-a7f)
-- [Time-Decoupled Law &lpar;TDSM&rpar;](https://dev.to/abstract36/time-decoupled-law-tdsm-4f4j)
-- [EC2, ECS, EKS, and Lambda: How I Finally Made Sense of Them](https://dev.to/adedokun_damilare_4f636c0/ec2-ecs-eks-and-lambda-how-i-finally-made-sense-of-them-4270)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
