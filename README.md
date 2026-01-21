@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [𝗦𝗘𝗚𝗥𝗘 𝗶𝘀 𝗻𝗼𝘄 𝗟𝗜𝗩𝗘 𝗼𝗻 𝗻𝗽𝗺 - 𝘆𝗼𝘂𝗿 𝗺𝗲𝘀𝘀𝘆 𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱𝘀 𝗳𝗼𝗹𝗱𝗲𝗿 𝘄𝗼𝗻’𝘁 𝗯𝗲 𝗺𝗲𝘀𝘀𝘆 𝗮𝗻𝘆𝗺𝗼𝗿𝗲.](https://dev.to/shubhamsp/--13kc)
-- [Can we trust AI-generated code?](https://dev.to/dimitrisk_cyclopt/can-we-trust-ai-generated-code-122d)
-- [Dart Frog Part 3: Connecting Flutter to Your Dart Backend &lpar;Full-Stack Todo Demo&rpar; 🐸](https://dev.to/techwithsam/dart-frog-part-3-connecting-flutter-to-your-dart-backend-full-stack-todo-demo-4gdd)
-- [start using Ralph with npx ralph-scaffold](https://dev.to/rickvian/start-using-ralph-with-npx-ralph-scaffold-2167)
-- [Bloom Filters : Strictly NO, May be YES](https://dev.to/prado7/bloom-filters-strictly-no-may-be-yes-12j6)
+- [Using Clustering to Group Songs by Tempo, Energy, and Vocals](https://dev.to/dilan_bosire/using-clustering-to-group-songs-by-tempo-energy-and-vocals-1505)
+- [When I Stopped Just Building Things](https://dev.to/jjsam/when-i-stopped-just-building-things-o2i)
+- [Preums, reminds me that coding without AI is magical](https://dev.to/amiceli/preums-reminds-me-that-coding-without-ai-is-magical-443a)
+- [Understanding the &lt;Activity&gt; Component in React 19](https://dev.to/shantih_palani/understanding-the-component-in-react-19-2k01)
+- [The Notification System That Sent 12,000 Messages at 3 AM](https://dev.to/faraz_farhan_83ed23a154a2/the-notification-system-that-sent-12000-messages-at-3-am-3hgb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
