@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Is your TextMate 2 folding corrupt?](https://dev.to/fleetfootmike/is-your-textmate-2-folding-corrupt-ha4)
+- [How to Set Up a Robust E-commerce Platform with Nginx, Grafana, and Prometheus](https://dev.to/alanvarghese-dev/how-to-set-up-a-robust-e-commerce-platform-with-nginx-grafana-and-prometheus-59om)
+- [From Learner to Architect: My Journey Building a Resilient E-commerce Platform with Load Balancing, Grafana, and Prometheus](https://dev.to/alanvarghese-dev/from-learner-to-architect-my-journey-building-a-resilient-e-commerce-platform-with-load-balancing-1na)
 - [Announcing CourseShelf: Rotten Tomatoes for Online Learning](https://dev.to/danielbergholz/announcing-courseshelf-rotten-tomatoes-for-online-learning-4h3k)
-- [CVE-2026-20045: Cisco Unified Communications Products Code Injection Vulnerability](https://dev.to/freedom-coder/cve-2026-20045-cisco-unified-communications-products-code-injection-vulnerability-3fef)
-- [Common CI Misconfigurations That Leak Credentials](https://dev.to/keyshade/common-ci-misconfigurations-that-leak-credentials-1ag1)
-- [O Protocolo de Aquecimento de Whatsapp: Engenharia Social para não ser bloqueado](https://dev.to/icoda/o-protocolo-de-aquecimento-de-whatsapp-engenharia-social-para-nao-ser-bloqueado-2nil)
+- [[SC] Actor reentrancy](https://dev.to/david_goyes_a488f58a17a53/sc-actor-reentrancy-2nbh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
