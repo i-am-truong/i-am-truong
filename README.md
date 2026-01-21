@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why &#39;Tech Debt&#39; Does Not Get Fixed](https://dev.to/stevenstuartm/why-tech-debt-does-not-get-fixed-1kh1)
-- [🚀 Platform Engineering](https://dev.to/itsmecharan7/platform-engineering-3h3e)
-- [Guide to Figma](https://dev.to/ahmad_9611bc9dded86508a10/guide-to-figma-3lbg)
-- [Human-in-the-Loop, by Design: Evolving from Algorithms to Care-Centered AI](https://dev.to/innacampo/human-in-the-loop-by-design-evolving-from-algorithms-to-care-centered-ai-3i37)
-- [Elevate Your Flutter App&#39;s Performance with Flutter Rocket&#39;s Premium Features 🚀](https://dev.to/m97chahboun/elevate-your-flutter-apps-performance-with-flutter-rockets-premium-features-57aa)
+- [A sua inversão de dependência está alinhada ao negócio?](https://dev.to/fabiodeandrade/a-sua-inversao-de-dependencia-esta-alinhada-ao-negocio-5702)
+- [I Trained a Tiny AI to Judge My Hacker News Feed &lpar;And You Can Too&rpar;](https://dev.to/bebechien/i-trained-a-tiny-ai-to-judge-my-hacker-news-feed-and-you-can-too-6og)
+- [Cómo los MCPs de AWS y los agentes de IA están cambiando mi forma de diseñar infraestructura](https://dev.to/marcosferr/como-los-mcps-de-aws-y-los-agentes-de-ia-estan-cambiando-mi-forma-de-disenar-infraestructura-2e44)
+- [🚀 Don&#39;t Let Your AI Get &quot;Hypnotized&quot;: A Guide to Stopping Adversarial Prompt Attacks 🧠🚫](https://dev.to/charanpool/dont-let-your-ai-get-hypnotized-a-guide-to-stopping-adversarial-prompt-attacks-dmi)
+- [Touching GRASS: My Experience at the Stripe Developer Meetup](https://dev.to/maame-codes/touching-grass-my-experience-at-the-stripe-developer-meetup-375f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
