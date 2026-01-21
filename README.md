@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Level Up Your TypeScript: Advanced Patterns Every Frontend Dev Should Know](https://dev.to/epresas/level-up-your-typescript-advanced-patterns-every-frontend-dev-should-know-mg3)
+- [Contenido vs Interactividad: Como elegir tu siguiente Framework Web](https://dev.to/jusepemu/contenido-vs-interactividad-como-elegir-tu-siguiente-framework-web-211d)
+- [AI, tech and society: educated fool’s predictions](https://dev.to/viksaaskool/ai-tech-and-society-educated-fools-predictions-5f6n)
 - [Is your TextMate 2 folding corrupt?](https://dev.to/fleetfootmike/is-your-textmate-2-folding-corrupt-ha4)
 - [How to Set Up a Robust E-commerce Platform with Nginx, Grafana, and Prometheus](https://dev.to/alanvarghese-dev/how-to-set-up-a-robust-e-commerce-platform-with-nginx-grafana-and-prometheus-59om)
-- [From Learner to Architect: My Journey Building a Resilient E-commerce Platform with Load Balancing, Grafana, and Prometheus](https://dev.to/alanvarghese-dev/from-learner-to-architect-my-journey-building-a-resilient-e-commerce-platform-with-load-balancing-1na)
-- [Announcing CourseShelf: Rotten Tomatoes for Online Learning](https://dev.to/danielbergholz/announcing-courseshelf-rotten-tomatoes-for-online-learning-4h3k)
-- [[SC] Actor reentrancy](https://dev.to/david_goyes_a488f58a17a53/sc-actor-reentrancy-2nbh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
