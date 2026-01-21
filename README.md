@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Tool Calling in LLMs: How Models Talk to the Real World](https://dev.to/eshaiju/tool-calling-in-llms-how-models-talk-to-the-real-world-dim)
-- [Day 16: Abstraction in Java](https://dev.to/karthick_narayanan/day-16-abstraction-in-java-59kp)
-- [Building Real-Time Gmail Integration with Google Meet Scheduling in Go](https://dev.to/starkprince/building-real-time-gmail-integration-with-google-meet-scheduling-in-go-1d5p)
-- [New Year, New You Portfolio Challenge Presented by Google AI](https://dev.to/ylem/new-year-new-you-portfolio-challenge-presented-by-google-ai-5h7f)
-- [Automating 3270 Mainframe Workflows with Go](https://dev.to/jnnngs/automating-3270-mainframe-workflows-with-go-15d6)
+- [Passwordless access in minutes - Toqen.app integration demo](https://dev.to/antonmb/passwordless-access-in-minutes-toqenapp-integration-demo-e70)
+- [Toqen.app - Smart Authentication, Mindful by Design](https://dev.to/antonmb/toqenapp-smart-authentication-mindful-by-design-2kn8)
+- [How to Calculate Accurate Prayer Times Using JavaScript &lpar;Riyadh Case Study&rpar;](https://dev.to/abdulla1/how-to-calculate-accurate-prayer-times-using-javascript-riyadh-case-study-3258)
+- [Angular Translations: Build vs. Runtime](https://dev.to/alkaj/angular-translations-build-vs-runtime-28nj)
+- [Simplified: AI Engineer Vs. ML Engineer](https://dev.to/francistrdev/simplified-ai-engineer-vs-ml-engineer-4jch)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
