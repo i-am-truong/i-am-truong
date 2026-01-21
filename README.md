@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why My EC2 Instance Was Running but Still Not Accessible](https://dev.to/usman_tahir_3/why-my-ec2-instance-was-running-but-still-not-accessible-17aa)
-- [Why ZTNA is replace of VPN?](https://dev.to/ellapark/why-ztna-is-replace-of-vpn-46jb)
-- [Why Many Companies Fail SOC 2 Type II and How to Avoid the Same Mistakes](https://dev.to/narendra_sahoo_a2aeff1193/why-many-companies-fail-soc-2-type-ii-and-how-to-avoid-the-same-mistakes-4nci)
-- [How the Software Development Life Cycle Must Evolve for AI and Regulation in 2026](https://dev.to/johnottam/how-the-software-development-life-cycle-must-evolve-for-ai-and-regulation-in-2026-52c2)
-- [Building Multiple Projects with a Single Codebase: A Shared-First Architecture Approach](https://dev.to/avsecdongol/building-multiple-projects-with-a-single-codebase-a-shared-first-architecture-approach-4862)
+- [How to Vibe Code Your MVP in Weeks Using AI-Assisted Development](https://dev.to/ojsholly/how-to-vibe-code-your-mvp-in-weeks-using-ai-assisted-development-1b1l)
+- [Small LLMs: Why Businesses Will Choose Lean Over Large](https://dev.to/alona_instandart/small-llms-why-businesses-will-choose-lean-over-large-nik)
+- [Patterns and Folder Structure for iOS Development](https://dev.to/stevenselcuk/patterns-and-folder-structure-for-ios-development-4pa8)
+- [The Ultimate Prompt Strategy: How to Vibe Code Production-Ready Websites](https://dev.to/dumebii/the-ultimate-prompt-strategy-how-to-vibe-code-production-ready-websites-4e9)
+- [BodySnatcher: How a Hardcoded Secret Led to Full ServiceNow Takeover &lpar;CVE-2025-12420&rpar;](https://dev.to/alessandro_pignati/bodysnatcher-how-a-hardcoded-secret-led-to-full-servicenow-takeover-cve-2025-12420-181h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
