@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Are you embracing AI?](https://dev.to/anooname/are-you-embracing-ai-gk4)
-- [KEXP: Martin Dupont - I Met The Beast &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-martin-dupont-i-met-the-beast-live-on-kexp-4imj)
-- [What We Learned Building Agent Orchestration Systems &lpar;The Hard Way&rpar;](https://dev.to/theskillsteam/what-we-learned-building-agent-orchestration-systems-the-hard-way-36p8)
-- [Feature Engineering: The Dark Art of Teaching Your Model to See What You See](https://dev.to/sachin_krrajput/feature-engineering-the-dark-art-of-teaching-your-model-to-see-what-you-see-16oo)
-- [KEXP: Martin Dupont - No Hands &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-martin-dupont-no-hands-live-on-kexp-746)
+- [Building a Type Chart Calculator with Next.js 14: From Idea to Production](https://dev.to/yang_linc_13e26eff2853884/building-a-type-chart-calculator-with-nextjs-14-from-idea-to-production-4471)
+- [Building a mini PyTorch in C++ from scratch as a high school student...](https://dev.to/raju735/building-a-mini-pytorch-in-c-from-scratch-as-a-high-school-student-35c7)
+- [Stratified Sampling: The Pollster Who Predicted a Landslide by Accidentally Surveying Only One Neighborhood](https://dev.to/sachin_krrajput/stratified-sampling-the-pollster-who-predicted-a-landslide-by-accidentally-surveying-only-one-3e4k)
+- [Beyond the Single Process: Architecting Laravel Containers for the Cloud](https://dev.to/chiefkarim/beyond-the-single-process-architecting-laravel-containers-for-the-cloud-3fl)
+- [Choosing the Right Metric: The Restaurant Inspector Who Judged Every Kitchen by Decor](https://dev.to/sachin_krrajput/choosing-the-right-metric-the-restaurant-inspector-who-judged-every-kitchen-by-decor-bae)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
