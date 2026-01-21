@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Interface Layer | Why Agent of Agents Is the Same Blindfold, Just With an AI Interface Layer](https://dev.to/aakash_rahsi/ai-interface-layer-why-agent-of-agents-is-the-same-blindfold-just-with-an-ai-interface-layer-4bp5)
-- [Music Monday: The 30-Second Test &lpar;2026 Edition&rpar; 🎧⚡](https://dev.to/kokai_jorga/music-monday-the-30-second-test-2026-edition-4f96)
-- [AWS Tagging Best Practices in 2026: Leveraging New Capabilities for Enhanced Cloud Governance](https://dev.to/mark_rayhshtat_b33ccde07a/aws-tagging-best-practices-in-2026-leveraging-new-capabilities-for-enhanced-cloud-governance-fom)
-- [The &quot;Uncanny Valley&quot; of AI Code: Why Hybrid PRs Are Harder to Review Than Pure AI or Pure Human Code](https://dev.to/jakkie_koekemoer/the-uncanny-valley-of-ai-code-why-hybrid-prs-are-harder-to-review-than-pure-ai-or-pure-human-code-1poh)
-- [Why Your AI-Generated Smart Contract Will Get Hacked &lpar;And How to Fix It&rpar;](https://dev.to/ribhavmodi/why-your-ai-generated-smart-contract-will-get-hacked-and-how-to-fix-it-1cc6)
+- [How I Built My Identity as a Tech Entrepreneur &amp; Developer &lpar;Lessons from the Journey&rpar;](https://dev.to/ahtishamabbas7/how-i-built-my-identity-as-a-tech-entrepreneur-developer-lessons-from-the-journey-kck)
+- [From logical reasoning to code in C and PHP](https://dev.to/wizardigor/from-logical-reasoning-to-code-in-c-and-php-4no0)
+- [CVE-2026-21852: Premature Exfiltration: How Claude Code Leaked Your Keys Before Asking for Permission](https://dev.to/cverports/cve-2026-21852-premature-exfiltration-how-claude-code-leaked-your-keys-before-asking-for-12o8)
+- [Describe The Training And Fine-Tuning Process For Foundation Models](https://dev.to/aws-builders/describe-the-training-and-fine-tuning-process-for-foundation-models-1n12)
+- [SwiftUI #33: Stepper](https://dev.to/david_goyes_a488f58a17a53/swiftui-33-stepper-24bc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
