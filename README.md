@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A sua inversão de dependência está alinhada ao negócio?](https://dev.to/fabiodeandrade/a-sua-inversao-de-dependencia-esta-alinhada-ao-negocio-5702)
-- [I Trained a Tiny AI to Judge My Hacker News Feed &lpar;And You Can Too&rpar;](https://dev.to/bebechien/i-trained-a-tiny-ai-to-judge-my-hacker-news-feed-and-you-can-too-6og)
-- [Cómo los MCPs de AWS y los agentes de IA están cambiando mi forma de diseñar infraestructura](https://dev.to/marcosferr/como-los-mcps-de-aws-y-los-agentes-de-ia-estan-cambiando-mi-forma-de-disenar-infraestructura-2e44)
-- [🚀 Don&#39;t Let Your AI Get &quot;Hypnotized&quot;: A Guide to Stopping Adversarial Prompt Attacks 🧠🚫](https://dev.to/charanpool/dont-let-your-ai-get-hypnotized-a-guide-to-stopping-adversarial-prompt-attacks-dmi)
-- [Touching GRASS: My Experience at the Stripe Developer Meetup](https://dev.to/maame-codes/touching-grass-my-experience-at-the-stripe-developer-meetup-375f)
+- [Why You Forget Code You Learned Last Week](https://dev.to/mr_elvis/why-you-forget-code-you-learned-last-week-16ga)
+- [YAKMESH™ v2.5.0 - Post-Quantum P2P Mesh Network](https://dev.to/yakmesh/yakmesh-v250-post-quantum-p2p-mesh-network-18id)
+- [Istio Service Mesh Troubleshooting Guide](https://dev.to/aicontentlab/istio-service-mesh-troubleshooting-guide-3d52)
+- [How to Ingest Your Legacy Database to Snowflake](https://dev.to/reza_brianca/how-to-ingest-your-legacy-database-to-snowflake-3ega)
+- [Why FPGA Programmes Fail Late and Why Tool Choice Is Rarely the Real Issue](https://dev.to/alpinumblogs/why-fpga-programmes-fail-late-and-why-tool-choice-is-rarely-the-real-issue-1l16)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
