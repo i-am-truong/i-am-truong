@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Odoo 15 – Multiple mails sent on order confirmation but wrong order lines rendered in templates](https://dev.to/harena_sarobidyramalanja/odoo-15-multiple-mails-sent-on-order-confirmation-but-wrong-order-lines-rendered-in-templates-4pal)
-- [From Code to Photons: How Software Dictates the Precision of Fiber Lasers](https://dev.to/yanan_liu_d13d972706bed7b/from-code-to-photons-how-software-dictates-the-precision-of-fiber-lasers-14gd)
-- [How I Built My First .NET Package &lpar;and Got 500+ Downloads&rpar;](https://dev.to/recurpixel/how-i-built-my-first-net-package-and-got-500-downloads-2jj2)
-- [Generative AI vs Agentic AI](https://dev.to/khushi2488/generative-ai-vs-agentic-ai-5c27)
-- [Why I stopped using &quot;Vibe Coding&quot; and built a Socratic AI instead.](https://dev.to/peijun1700/why-i-stopped-using-vibe-coding-and-built-a-socratic-ai-instead-pne)
+- [AI Powered Drone Networks: Revolutionizing Early Crop Disease Detection in Smallholder Farms](https://dev.to/asma_eman/ai-powered-drone-networks-revolutionizing-early-crop-disease-detection-in-smallholder-farms-1om3)
+- [Hackathon Survival Guide: What Actually Matters](https://dev.to/momen_hq/hackathon-survival-guide-what-actually-matters-3hme)
+- [[Boost]](https://dev.to/anthonymax/-348n)
+- [I built a niche gaming tool in 3 days: My journey building an interactive Blue Hive Guide 🐝](https://dev.to/_8cf38bbd4754d55996b08/i-built-a-niche-gaming-tool-in-3-days-my-journey-building-an-interactive-blue-hive-guide-koo)
+- [We Just Shipped Responses API Support in Bifrost &lpar;And It&#39;s Cleaner Than Chat Completions&rpar;](https://dev.to/pranay_batta/we-just-shipped-responses-api-support-in-bifrost-and-its-cleaner-than-chat-completions-3pih)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
