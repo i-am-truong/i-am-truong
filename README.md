@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Vibe Code Your MVP in Weeks Using AI-Assisted Development](https://dev.to/ojsholly/how-to-vibe-code-your-mvp-in-weeks-using-ai-assisted-development-1b1l)
-- [Small LLMs: Why Businesses Will Choose Lean Over Large](https://dev.to/alona_instandart/small-llms-why-businesses-will-choose-lean-over-large-nik)
-- [Patterns and Folder Structure for iOS Development](https://dev.to/stevenselcuk/patterns-and-folder-structure-for-ios-development-4pa8)
-- [The Ultimate Prompt Strategy: How to Vibe Code Production-Ready Websites](https://dev.to/dumebii/the-ultimate-prompt-strategy-how-to-vibe-code-production-ready-websites-4e9)
-- [BodySnatcher: How a Hardcoded Secret Led to Full ServiceNow Takeover &lpar;CVE-2025-12420&rpar;](https://dev.to/alessandro_pignati/bodysnatcher-how-a-hardcoded-secret-led-to-full-servicenow-takeover-cve-2025-12420-181h)
+- [AI Interface Layer | Why Agent of Agents Is the Same Blindfold, Just With an AI Interface Layer](https://dev.to/aakash_rahsi/ai-interface-layer-why-agent-of-agents-is-the-same-blindfold-just-with-an-ai-interface-layer-4bp5)
+- [Music Monday: The 30-Second Test &lpar;2026 Edition&rpar; 🎧⚡](https://dev.to/kokai_jorga/music-monday-the-30-second-test-2026-edition-4f96)
+- [AWS Tagging Best Practices in 2026: Leveraging New Capabilities for Enhanced Cloud Governance](https://dev.to/mark_rayhshtat_b33ccde07a/aws-tagging-best-practices-in-2026-leveraging-new-capabilities-for-enhanced-cloud-governance-fom)
+- [The &quot;Uncanny Valley&quot; of AI Code: Why Hybrid PRs Are Harder to Review Than Pure AI or Pure Human Code](https://dev.to/jakkie_koekemoer/the-uncanny-valley-of-ai-code-why-hybrid-prs-are-harder-to-review-than-pure-ai-or-pure-human-code-1poh)
+- [Why Your AI-Generated Smart Contract Will Get Hacked &lpar;And How to Fix It&rpar;](https://dev.to/ribhavmodi/why-your-ai-generated-smart-contract-will-get-hacked-and-how-to-fix-it-1cc6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
