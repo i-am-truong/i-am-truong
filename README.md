@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Setup Redux in Next.js – Full Guide with Code &amp; Examples 🚀](https://dev.to/hamidrazadev/how-to-setup-redux-in-nextjs-full-guide-with-code-examples-29bh)
-- [Building Production-Grade Data Analytics Pipelines: A Real-World Case Study in Government Data](https://dev.to/rosewabere/building-production-grade-data-analytics-pipelines-a-real-world-case-study-in-government-data-22pf)
-- [Event Bubbling - தண்ணீர் குமிழி](https://dev.to/thiraisuvadu_dev/event-bubbling-tnnnniir-kumillli-1oge)
-- [One-Hot Encoding: The Genius Trick That Works Perfectly Until It Explodes Your Computer](https://dev.to/sachin_krrajput/one-hot-encoding-the-genius-trick-that-works-perfectly-until-it-explodes-your-computer-1flm)
-- [My First HTML/CSS Portfolio: Lessons, Mistakes, and Next Steps.](https://dev.to/wali_muhdsoomro_343498be/my-first-htmlcss-portfolio-lessons-mistakes-and-next-steps-1jk7)
+- [Are you embracing AI?](https://dev.to/anooname/are-you-embracing-ai-gk4)
+- [KEXP: Martin Dupont - I Met The Beast &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-martin-dupont-i-met-the-beast-live-on-kexp-4imj)
+- [What We Learned Building Agent Orchestration Systems &lpar;The Hard Way&rpar;](https://dev.to/theskillsteam/what-we-learned-building-agent-orchestration-systems-the-hard-way-36p8)
+- [Feature Engineering: The Dark Art of Teaching Your Model to See What You See](https://dev.to/sachin_krrajput/feature-engineering-the-dark-art-of-teaching-your-model-to-see-what-you-see-16oo)
+- [KEXP: Martin Dupont - No Hands &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-martin-dupont-no-hands-live-on-kexp-746)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
