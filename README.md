@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [5 Open-Source Resume Builders That&#39;ll Help Get You Hired in 2026](https://dev.to/srbhr/5-open-source-resume-builders-thatll-help-get-you-hired-in-2026-1b92)
-- [Master Active Directory: Attacktive Directory &lpar;TryHackMe&rpar; Walkthrough](https://dev.to/zerogru/master-active-directory-attacktive-directory-tryhackme-walkthrough-4gm0)
-- [Omarcacca](https://dev.to/vikkio88/omarcacca-2g8p)
-- [Escaping the Dumbzone, Part 2: Subagents — Divide and Conquer](https://dev.to/diggidydale/escaping-the-dumbzone-part-2-subagents-divide-and-conquer-1p29)
-- [Inyección de Dependencias, Inversión de Control, Inversión de Dependencias](https://dev.to/david_goyes_a488f58a17a53/inyeccion-de-dependencias-inversion-de-control-inversion-de-dependencias-326a)
+- [How can we improve the design for eraAI?](https://dev.to/ph2ncyn/how-can-we-improve-the-design-for-eraai-5ene)
+- [[POG-01] What is Prompt Orchestration Governance &lpar;POG&rpar;?](https://dev.to/enjtorian/pog-01-what-is-prompt-orchestration-governance-pog-15gp)
+- [We Hardened Ubuntu 24.04 for Security Tools &lpar;And Broke Everything First&rpar;](https://dev.to/david_dev_sec/we-hardened-ubuntu-2404-for-security-tools-and-broke-everything-first-kf2)
+- [Auto-Scaling ComfyUI-API and ComfyUI: Orchestrating GPU Workloads with Azure Kubernetes Service and KEDA](https://dev.to/thangchung/auto-scaling-comfyui-api-and-comfyui-orchestrating-gpu-workloads-with-azure-kubernetes-service-and-2207)
+- [How to Break Any AI Model &lpar;A Machine Learning Security Crash Course&rpar;](https://dev.to/jgracie52/how-to-break-any-ai-model-a-machine-learning-security-crash-course-14gp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
