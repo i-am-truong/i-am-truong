@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Built My Identity as a Tech Entrepreneur &amp; Developer &lpar;Lessons from the Journey&rpar;](https://dev.to/ahtishamabbas7/how-i-built-my-identity-as-a-tech-entrepreneur-developer-lessons-from-the-journey-kck)
-- [From logical reasoning to code in C and PHP](https://dev.to/wizardigor/from-logical-reasoning-to-code-in-c-and-php-4no0)
-- [CVE-2026-21852: Premature Exfiltration: How Claude Code Leaked Your Keys Before Asking for Permission](https://dev.to/cverports/cve-2026-21852-premature-exfiltration-how-claude-code-leaked-your-keys-before-asking-for-12o8)
-- [Describe The Training And Fine-Tuning Process For Foundation Models](https://dev.to/aws-builders/describe-the-training-and-fine-tuning-process-for-foundation-models-1n12)
-- [SwiftUI #33: Stepper](https://dev.to/david_goyes_a488f58a17a53/swiftui-33-stepper-24bc)
+- [Stop Letting Third-Party Libraries Hold Your Codebase Hostage](https://dev.to/doogal/stop-letting-third-party-libraries-hold-your-codebase-hostage-2b2c)
+- [Handling Missing Data: The Detective&#39;s Guide to Solving the Case of the Vanishing Values](https://dev.to/sachin_krrajput/handling-missing-data-the-detectives-guide-to-solving-the-case-of-the-vanishing-values-44bn)
+- [If You’re Building in 2026, Start Here 📈](https://dev.to/jaskirat_singh/if-youre-building-in-2026-start-here-a07)
+- [How sharp is your attention as a C++ programmer?](https://dev.to/pvsdev/how-sharp-is-your-attention-as-a-c-programmer-11pi)
+- [Event Delegation](https://dev.to/thiraisuvadu_dev/event-delegation-3cpa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
