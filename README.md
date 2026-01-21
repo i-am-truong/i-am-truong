@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Passwordless access in minutes - Toqen.app integration demo](https://dev.to/antonmb/passwordless-access-in-minutes-toqenapp-integration-demo-e70)
-- [Toqen.app - Smart Authentication, Mindful by Design](https://dev.to/antonmb/toqenapp-smart-authentication-mindful-by-design-2kn8)
-- [How to Calculate Accurate Prayer Times Using JavaScript &lpar;Riyadh Case Study&rpar;](https://dev.to/abdulla1/how-to-calculate-accurate-prayer-times-using-javascript-riyadh-case-study-3258)
-- [Angular Translations: Build vs. Runtime](https://dev.to/alkaj/angular-translations-build-vs-runtime-28nj)
-- [Simplified: AI Engineer Vs. ML Engineer](https://dev.to/francistrdev/simplified-ai-engineer-vs-ml-engineer-4jch)
+- [I built myself a Portfolio to showcase my work](https://dev.to/justondra/i-built-myself-a-portfolio-to-showcase-my-work-4c5b)
+- [Visualizing AWS DynamoDB Data with React &amp; Recharts](https://dev.to/ericrodriguez10/visualizing-aws-dynamodb-data-with-react-recharts-gbg)
+- [I added userId and transactionId to every console.log without refactoring](https://dev.to/alex_purpleowl/i-added-userid-and-transactionid-to-every-consolelog-without-refactoring-49od)
+- [Accessibility Isn&#39;t a Feature: Building Inclusive Interfaces](https://dev.to/logicleap/accessibility-isnt-a-feature-building-inclusive-interfaces-3ig9)
+- [Lock Management Inside a Process: Why Native Locks Alone Are Not Enough](https://dev.to/lovestaco/lock-management-inside-a-process-why-native-locks-alone-are-not-enough-3907)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
