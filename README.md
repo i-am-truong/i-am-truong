@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your bundle didn&#39;t suddenly get bigger. You just never saw it change.](https://dev.to/q1sh101/your-bundle-didnt-suddenly-get-bigger-you-just-never-saw-it-change-3il4)
-- [The Epistemology of Offense and Defense: A Foundational Framework](https://dev.to/narnaiezzsshaa/the-epistemology-of-offense-and-defense-a-foundational-framework-em0)
-- [Don’t Lock Yourself Out: Enabling UFW on a Linux Server Without Breaking SSH](https://dev.to/marcoz/dont-lock-yourself-out-enabling-ufw-on-a-linux-server-without-breaking-ssh-2p7o)
-- [Four LLM Stress Tests](https://dev.to/ben-santora/four-llm-stress-tests-2pnh)
-- [Inteligencia Artificial: Conceptos básicos para aprender](https://dev.to/aws-builders/inteligencia-artificial-conceptos-basicos-para-aprender-55c0)
+- [Understanding Multiple Inputs in Neural Networks &lpar;With Python Examples&rpar; — Part 2](https://dev.to/rijultp/understanding-multiple-inputs-in-neural-networks-with-python-examples-part-2-4ok2)
+- [Introducing CVE-Alert: Free Real-Time Vulnerability Tracking by Dataforge](https://dev.to/carlvon77/introducing-cve-alert-free-real-time-vulnerability-tracking-by-dataforge-4230)
+- [Stop Paying for ThingsBoard PE Just for Self-Registration &lpar;Serverless Style&rpar; 🚀](https://dev.to/danielbustillos/stop-paying-for-thingsboard-pe-just-for-self-registration-serverless-style-a7f)
+- [Time-Decoupled Law &lpar;TDSM&rpar;](https://dev.to/abstract36/time-decoupled-law-tdsm-4f4j)
+- [EC2, ECS, EKS, and Lambda: How I Finally Made Sense of Them](https://dev.to/adedokun_damilare_4f636c0/ec2-ecs-eks-and-lambda-how-i-finally-made-sense-of-them-4270)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
