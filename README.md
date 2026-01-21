@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [OpenCode as a txtai LLM](https://dev.to/neuml/opencode-as-a-txtai-llm-2h0p)
-- [Why most ‘fast websites’ are still slow in production](https://dev.to/360presence/why-most-fast-websites-are-still-slow-in-production-35ng)
-- [Why Early Request Header Modification Matters in API Gateways](https://dev.to/uzukwu_michael_91a95b823b/why-early-request-header-modification-matters-in-api-gateways-4gle)
-- [In 2023, 52% of Python Devs Used Pytest. In 2026, 100% of AI Models Understand Doctests.](https://dev.to/pcfvw/in-2023-52-of-python-devs-used-pytest-in-2026-100-of-ai-models-understand-doctests-23m3)
-- [Solved: Exporting Intercom User Data to PostgreSQL for Custom Analytics](https://dev.to/techresolve/solved-exporting-intercom-user-data-to-postgresql-for-custom-analytics-8b8)
+- [The Assumptions of Linear Regression: The GPS That Only Works on Straight, Flat Roads in Perfect Weather](https://dev.to/sachin_krrajput/the-assumptions-of-linear-regression-the-gps-that-only-works-on-straight-flat-roads-in-perfect-6bc)
+- [I wanted to publish one Markdown file, not start a project](https://dev.to/flowershow/i-wanted-to-publish-one-markdown-file-not-start-a-project-il)
+- [Semantic Tags in HTML](https://dev.to/hariharan_sj_584ad73ef2e/semantic-tags-in-html-276h)
+- [[BlindSpot] Log 02. C# Socket Optimization : Zero-Allocation &amp; GC Free](https://dev.to/ryujm1828/blindspot-log-02-c-socket-optimization-2mgb)
+- [The Art of Unification: How I Built &#39;TapTable&#39; to Kill Controller Bloat in Laravel](https://dev.to/ianstudios_ac9bc/the-art-of-unification-how-i-built-taptable-to-kill-controller-bloat-in-laravel-4jl9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
