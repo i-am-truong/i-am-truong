@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Responder Chain](https://dev.to/david_goyes_a488f58a17a53/responder-chain-3bpg)
-- [My UI Looked Fine — But It Was Asking Users to Think Too Much](https://dev.to/pritish_academy/my-ui-looked-fine-but-it-was-asking-users-to-think-too-much-2180)
-- [Unlock the Power of Gemini 3 in Your Terminal: A Developer&#39;s Guide](https://dev.to/rio14/unlock-the-power-of-gemini-3-in-your-terminal-a-developers-guide-5hgn)
-- [Building a GST-Compliant Invoicing System with Next.js and MongoDB](https://dev.to/devcodehub99/building-a-gst-compliant-invoicing-system-with-nextjs-and-mongodb-40ej)
-- [GitPad: Effortless note-taking on GitHub.](https://dev.to/luca_ottaviano/gitpad-effortless-note-taking-on-github-53b5)
+- [Efficiently cleaning a TypeScript project: Knip + AI agent workflow](https://dev.to/56_kode/efficiently-cleaning-a-typescript-project-knip-ai-agent-workflow-1ia9)
+- [Hello World](https://dev.to/bhushan_tawade_96d6b49aff/hello-world-6l1)
+- [The LLM Imposter](https://dev.to/h0tb0x/the-llm-imposter-2072)
+- [Extracting Text from Documents Using Amazon Textract &lpar;AI series&rpar;](https://dev.to/jeyy/extracting-text-from-documents-using-amazon-textract-ai-series-42eb)
+- [Building an Automated Data Pipeline](https://dev.to/maureen_chepkirui_03c48a2/building-an-automated-data-pipeline-o77)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
