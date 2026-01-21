@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Type Chart Calculator with Next.js 14: From Idea to Production](https://dev.to/yang_linc_13e26eff2853884/building-a-type-chart-calculator-with-nextjs-14-from-idea-to-production-4471)
-- [Building a mini PyTorch in C++ from scratch as a high school student...](https://dev.to/raju735/building-a-mini-pytorch-in-c-from-scratch-as-a-high-school-student-35c7)
-- [Stratified Sampling: The Pollster Who Predicted a Landslide by Accidentally Surveying Only One Neighborhood](https://dev.to/sachin_krrajput/stratified-sampling-the-pollster-who-predicted-a-landslide-by-accidentally-surveying-only-one-3e4k)
-- [Beyond the Single Process: Architecting Laravel Containers for the Cloud](https://dev.to/chiefkarim/beyond-the-single-process-architecting-laravel-containers-for-the-cloud-3fl)
-- [Choosing the Right Metric: The Restaurant Inspector Who Judged Every Kitchen by Decor](https://dev.to/sachin_krrajput/choosing-the-right-metric-the-restaurant-inspector-who-judged-every-kitchen-by-decor-bae)
+- [OpenCode as a txtai LLM](https://dev.to/neuml/opencode-as-a-txtai-llm-2h0p)
+- [Why most ‘fast websites’ are still slow in production](https://dev.to/360presence/why-most-fast-websites-are-still-slow-in-production-35ng)
+- [Why Early Request Header Modification Matters in API Gateways](https://dev.to/uzukwu_michael_91a95b823b/why-early-request-header-modification-matters-in-api-gateways-4gle)
+- [In 2023, 52% of Python Devs Used Pytest. In 2026, 100% of AI Models Understand Doctests.](https://dev.to/pcfvw/in-2023-52-of-python-devs-used-pytest-in-2026-100-of-ai-models-understand-doctests-23m3)
+- [Solved: Exporting Intercom User Data to PostgreSQL for Custom Analytics](https://dev.to/techresolve/solved-exporting-intercom-user-data-to-postgresql-for-custom-analytics-8b8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
