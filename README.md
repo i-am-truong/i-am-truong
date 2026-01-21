@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Assumptions of Linear Regression: The GPS That Only Works on Straight, Flat Roads in Perfect Weather](https://dev.to/sachin_krrajput/the-assumptions-of-linear-regression-the-gps-that-only-works-on-straight-flat-roads-in-perfect-6bc)
-- [I wanted to publish one Markdown file, not start a project](https://dev.to/flowershow/i-wanted-to-publish-one-markdown-file-not-start-a-project-il)
-- [Semantic Tags in HTML](https://dev.to/hariharan_sj_584ad73ef2e/semantic-tags-in-html-276h)
-- [[BlindSpot] Log 02. C# Socket Optimization : Zero-Allocation &amp; GC Free](https://dev.to/ryujm1828/blindspot-log-02-c-socket-optimization-2mgb)
-- [The Art of Unification: How I Built &#39;TapTable&#39; to Kill Controller Bloat in Laravel](https://dev.to/ianstudios_ac9bc/the-art-of-unification-how-i-built-taptable-to-kill-controller-bloat-in-laravel-4jl9)
+- [Responder Chain](https://dev.to/david_goyes_a488f58a17a53/responder-chain-3bpg)
+- [My UI Looked Fine — But It Was Asking Users to Think Too Much](https://dev.to/pritish_academy/my-ui-looked-fine-but-it-was-asking-users-to-think-too-much-2180)
+- [Unlock the Power of Gemini 3 in Your Terminal: A Developer&#39;s Guide](https://dev.to/rio14/unlock-the-power-of-gemini-3-in-your-terminal-a-developers-guide-5hgn)
+- [Building a GST-Compliant Invoicing System with Next.js and MongoDB](https://dev.to/devcodehub99/building-a-gst-compliant-invoicing-system-with-nextjs-and-mongodb-40ej)
+- [GitPad: Effortless note-taking on GitHub.](https://dev.to/luca_ottaviano/gitpad-effortless-note-taking-on-github-53b5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
