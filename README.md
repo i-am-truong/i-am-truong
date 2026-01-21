@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What .NET 10 LTS Means for Enterprise Applications](https://dev.to/ismcagdas/what-net-10-lts-means-for-enterprise-applications-2cdh)
-- [Common AI Buzzwords — Explained Without the Hype](https://dev.to/dev-in-progress/common-ai-buzzwords-explained-without-the-hype-3fl2)
-- [La invasión de la IA en el desarrollo de software](https://dev.to/jfsan/la-invasion-de-la-ia-en-el-desarrollo-de-software-34gp)
-- [JavaScript DOM](https://dev.to/thiraisuvadu_dev/javascript-dom-2oao)
-- [I Finally Updated My 2-Year-Old Portfolio &lpar;Thanks to Antigravity&rpar;](https://dev.to/arjuncodess/i-finally-updated-my-2-year-old-portfolio-thanks-to-antigravity-4i31)
+- [How We Used eBPF + Rust to Observe AI Systems Without Instrumenting a Single Line of Code](https://dev.to/art_light/how-we-used-ebpf-rust-to-observe-ai-systems-without-instrumenting-a-single-line-of-code-51nc)
+- [Test](https://dev.to/kaustubhyerkade/test-29na)
+- [Como estudar programação do jeito certo e não virar um copia e cola de código de tutoriais do YouTube](https://dev.to/kaikcestari/como-estudar-programacao-do-jeito-certo-e-nao-virar-um-copia-e-cola-de-codigo-de-tutoriais-do-752)
+- [Week 15 React Learning Recap: Understanding Old React and Finally Respecting useReducer](https://dev.to/usama_dev/week-15-react-learning-recap-understanding-old-react-and-finally-respecting-usereducer-5bnb)
+- [RAG Pipeline Deep Dive: Ingestion, Chunking, Embedding, and Vector Search](https://dev.to/derrickryangiggs/rag-pipeline-deep-dive-ingestion-chunking-embedding-and-vector-search-2877)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
