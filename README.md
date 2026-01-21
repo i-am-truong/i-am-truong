@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why You Forget Code You Learned Last Week](https://dev.to/mr_elvis/why-you-forget-code-you-learned-last-week-16ga)
-- [YAKMESH™ v2.5.0 - Post-Quantum P2P Mesh Network](https://dev.to/yakmesh/yakmesh-v250-post-quantum-p2p-mesh-network-18id)
-- [Istio Service Mesh Troubleshooting Guide](https://dev.to/aicontentlab/istio-service-mesh-troubleshooting-guide-3d52)
-- [How to Ingest Your Legacy Database to Snowflake](https://dev.to/reza_brianca/how-to-ingest-your-legacy-database-to-snowflake-3ega)
-- [Why FPGA Programmes Fail Late and Why Tool Choice Is Rarely the Real Issue](https://dev.to/alpinumblogs/why-fpga-programmes-fail-late-and-why-tool-choice-is-rarely-the-real-issue-1l16)
+- [I Create My 2026 Portfolio With Antigravity](https://dev.to/blaise_idi_5af2b56a7a026a/i-create-my-2026-portfolio-with-antigravity-3nji)
+- [Building in Public: CV Analyzer - Act 3 · Scene 1 : Before The AuthPage](https://dev.to/voke_vawkei/building-in-public-cv-analyzer-act-3-scene-1-before-the-authpage-2g18)
+- [Are We All Just Copying Code and Pretending We Know What We&#39;re Doing?](https://dev.to/thebitforge/are-we-all-just-copying-code-and-pretending-we-know-what-were-doing-1cfk)
+- [Cypress.Promise.all&lpar;&rpar; and cy.mapChain&lpar;&rpar;: Two Hidden Gems for Cypress You Won’t Let Go Once You Try Them](https://dev.to/sebastianclavijo/cypresspromiseall-and-cymapchain-two-hidden-gems-for-cypress-you-wont-let-go-once-you-try-20mj)
+- [Docker, Beyond “It Works on My Machine”: A Senior Engineer’s Playbook](https://dev.to/antobenilofficial/docker-beyond-it-works-on-my-machine-a-senior-engineers-playbook-2fao)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
