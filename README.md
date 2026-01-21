@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Is your TextMate 2 folding corrupt?](https://dev.to/fleetfootmike/is-your-textmate-2-folding-corrupt-ha4)
+- [Announcing CourseShelf: Rotten Tomatoes for Online Learning](https://dev.to/danielbergholz/announcing-courseshelf-rotten-tomatoes-for-online-learning-4h3k)
+- [CVE-2026-20045: Cisco Unified Communications Products Code Injection Vulnerability](https://dev.to/freedom-coder/cve-2026-20045-cisco-unified-communications-products-code-injection-vulnerability-3fef)
 - [Common CI Misconfigurations That Leak Credentials](https://dev.to/keyshade/common-ci-misconfigurations-that-leak-credentials-1ag1)
-- [The Virtual Mentor: Building Experience Without the Job Title](https://dev.to/alifunk/the-virtual-mentor-building-experience-without-the-job-title-261m)
-- [Hova: a small DSL for describing worlds &lpar;early projects&rpar;](https://dev.to/dotxavket/hova-a-small-dsl-for-describing-worlds-early-projects-4oa)
-- [Hova: a small DSL for describing worlds &lpar;early projects&rpar;](https://dev.to/dotxavket/hova-a-small-dsl-for-describing-worlds-early-projects-336m)
-- [Understanding Multiple Inputs in Neural Networks &lpar;With Python Examples&rpar; — Part 2](https://dev.to/rijultp/understanding-multiple-inputs-in-neural-networks-with-python-examples-part-2-4ok2)
+- [O Protocolo de Aquecimento de Whatsapp: Engenharia Social para não ser bloqueado](https://dev.to/icoda/o-protocolo-de-aquecimento-de-whatsapp-engenharia-social-para-nao-ser-bloqueado-2nil)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
