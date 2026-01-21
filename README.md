@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The AI Infrastructure Bubble: Moore&#39;s Law Meets Hard Limits ,mega-scale data centers—and why this model might not last](https://dev.to/maina_murage/the-ai-infrastructure-bubble-moores-law-meets-hard-limits-mega-scale-data-centers-and-why-this-1g71)
-- [Easy DSA Problems — Ruby Solutions..](https://dev.to/bibimbop123/easy-dsa-problems-ruby-solutions-14gi)
-- [Dockavel - Production-Ready Docker Stack for Laravel](https://dev.to/mg2k4/dockavel-production-ready-docker-stack-for-laravel-3ike)
-- [A Personal OS Portfolio Built with Gemini and Cloud Run](https://dev.to/numbpill3d/a-personal-os-portfolio-built-with-gemini-and-cloud-run-40gb)
-- [Why Programs Fail A Guide to Systematic Debugging by Andreas Zeller-A Book Review](https://dev.to/hectorw_tt/why-programs-fail-a-guide-to-systematic-debugging-by-andreas-zeller-a-book-review-24h8)
+- [Your bundle didn&#39;t suddenly get bigger. You just never saw it change.](https://dev.to/q1sh101/your-bundle-didnt-suddenly-get-bigger-you-just-never-saw-it-change-3il4)
+- [The Epistemology of Offense and Defense: A Foundational Framework](https://dev.to/narnaiezzsshaa/the-epistemology-of-offense-and-defense-a-foundational-framework-em0)
+- [Don’t Lock Yourself Out: Enabling UFW on a Linux Server Without Breaking SSH](https://dev.to/marcoz/dont-lock-yourself-out-enabling-ufw-on-a-linux-server-without-breaking-ssh-2p7o)
+- [Four LLM Stress Tests](https://dev.to/ben-santora/four-llm-stress-tests-2pnh)
+- [Inteligencia Artificial: Conceptos básicos para aprender](https://dev.to/aws-builders/inteligencia-artificial-conceptos-basicos-para-aprender-55c0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
