@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Only Real Fix for Agents Running Wild Is Control by Design](https://dev.to/yuer/the-only-real-fix-for-agents-running-wild-is-control-by-design-4dlc)
-- [Why Agents Feel Smarter Today &lpar;But Actually Aren’t&rpar;](https://dev.to/yuer/why-agents-feel-smarter-today-but-actually-arent-2mi2)
-- [The AI That Quoted Customers Their Competitors’ Prices](https://dev.to/faraz_farhan_83ed23a154a2/the-ai-that-quoted-customers-their-competitors-prices-1218)
-- [Why Stripe Webhook Signature Verification Fails &lpar;and When to Stop Debugging&rpar;](https://dev.to/xiaoqing_wang_b7bbaa175e1/why-stripe-webhook-signature-verification-fails-and-when-to-stop-debugging-1okj)
-- [I Create My 2026 Portfolio With Antigravity](https://dev.to/blaise_idi_5af2b56a7a026a/i-create-my-2026-portfolio-with-antigravity-3nji)
+- [Common AI Buzzwords — Explained Without the Hype](https://dev.to/dev-in-progress/common-ai-buzzwords-explained-without-the-hype-3fl2)
+- [La invasión de la IA en el desarrollo de software](https://dev.to/jfsan/la-invasion-de-la-ia-en-el-desarrollo-de-software-34gp)
+- [JavaScript DOM](https://dev.to/thiraisuvadu_dev/javascript-dom-2oao)
+- [I Finally Updated My 2-Year-Old Portfolio &lpar;Thanks to Antigravity&rpar;](https://dev.to/arjuncodess/i-finally-updated-my-2-year-old-portfolio-thanks-to-antigravity-4i31)
+- [I Stopped Guessing HTML &amp; CSS and Followed This Simple Plan &lpar;It Actually Worked&rpar;](https://dev.to/atharvparit/i-stopped-guessing-html-css-and-followed-this-simple-plan-it-actually-worked-mag)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
