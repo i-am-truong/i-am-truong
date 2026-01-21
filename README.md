@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Using Clustering to Group Songs by Tempo, Energy, and Vocals](https://dev.to/dilan_bosire/using-clustering-to-group-songs-by-tempo-energy-and-vocals-1505)
-- [When I Stopped Just Building Things](https://dev.to/jjsam/when-i-stopped-just-building-things-o2i)
-- [Preums, reminds me that coding without AI is magical](https://dev.to/amiceli/preums-reminds-me-that-coding-without-ai-is-magical-443a)
-- [Understanding the &lt;Activity&gt; Component in React 19](https://dev.to/shantih_palani/understanding-the-component-in-react-19-2k01)
-- [The Notification System That Sent 12,000 Messages at 3 AM](https://dev.to/faraz_farhan_83ed23a154a2/the-notification-system-that-sent-12000-messages-at-3-am-3hgb)
+- [Why My EC2 Instance Was Running but Still Not Accessible](https://dev.to/usman_tahir_3/why-my-ec2-instance-was-running-but-still-not-accessible-17aa)
+- [Why ZTNA is replace of VPN?](https://dev.to/ellapark/why-ztna-is-replace-of-vpn-46jb)
+- [Why Many Companies Fail SOC 2 Type II and How to Avoid the Same Mistakes](https://dev.to/narendra_sahoo_a2aeff1193/why-many-companies-fail-soc-2-type-ii-and-how-to-avoid-the-same-mistakes-4nci)
+- [How the Software Development Life Cycle Must Evolve for AI and Regulation in 2026](https://dev.to/johnottam/how-the-software-development-life-cycle-must-evolve-for-ai-and-regulation-in-2026-52c2)
+- [Building Multiple Projects with a Single Codebase: A Shared-First Architecture Approach](https://dev.to/avsecdongol/building-multiple-projects-with-a-single-codebase-a-shared-first-architecture-approach-4862)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
