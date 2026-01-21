@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [asChild: Understanding the Slot Pattern in React](https://dev.to/pandresdev/aschild-understanding-the-slot-pattern-in-react-ifo)
 - [Level Up Your TypeScript: Advanced Patterns Every Frontend Dev Should Know](https://dev.to/epresas/level-up-your-typescript-advanced-patterns-every-frontend-dev-should-know-mg3)
 - [2026-01-21 Weekly Quantum News](https://dev.to/dan_ledger_ce2886f0037972/2026-01-21-weekly-quantum-news-5g3m)
 - [Contenido vs Interactividad: Como elegir tu siguiente Framework Web](https://dev.to/jusepemu/contenido-vs-interactividad-como-elegir-tu-siguiente-framework-web-211d)
 - [AI, tech and society: educated fool’s predictions](https://dev.to/viksaaskool/ai-tech-and-society-educated-fools-predictions-5f6n)
-- [Prompt-Driven UI: Building Production-Ready Login Pages with AgnosticUI &amp; AI](https://dev.to/roblevintennis/prompt-driven-ui-building-production-ready-login-pages-with-agnosticui-ai-h7o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
