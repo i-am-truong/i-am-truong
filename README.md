@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Efficiently cleaning a TypeScript project: Knip + AI agent workflow](https://dev.to/56_kode/efficiently-cleaning-a-typescript-project-knip-ai-agent-workflow-1ia9)
-- [Hello World](https://dev.to/bhushan_tawade_96d6b49aff/hello-world-6l1)
-- [The LLM Imposter](https://dev.to/h0tb0x/the-llm-imposter-2072)
-- [Extracting Text from Documents Using Amazon Textract &lpar;AI series&rpar;](https://dev.to/jeyy/extracting-text-from-documents-using-amazon-textract-ai-series-42eb)
-- [Building an Automated Data Pipeline](https://dev.to/maureen_chepkirui_03c48a2/building-an-automated-data-pipeline-o77)
+- [5 Open-Source Resume Builders That&#39;ll Help Get You Hired in 2026](https://dev.to/srbhr/5-open-source-resume-builders-thatll-help-get-you-hired-in-2026-1b92)
+- [Master Active Directory: Attacktive Directory &lpar;TryHackMe&rpar; Walkthrough](https://dev.to/zerogru/master-active-directory-attacktive-directory-tryhackme-walkthrough-4gm0)
+- [Omarcacca](https://dev.to/vikkio88/omarcacca-2g8p)
+- [Escaping the Dumbzone, Part 2: Subagents — Divide and Conquer](https://dev.to/diggidydale/escaping-the-dumbzone-part-2-subagents-divide-and-conquer-1p29)
+- [Inyección de Dependencias, Inversión de Control, Inversión de Dependencias](https://dev.to/david_goyes_a488f58a17a53/inyeccion-de-dependencias-inversion-de-control-inversion-de-dependencias-326a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
