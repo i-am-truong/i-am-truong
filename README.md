@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Code: Communication Skills Every Software Engineer Needs](https://dev.to/thawkin3/beyond-code-communication-skills-every-software-engineer-needs-5714)
-- [Mastering Network Timeouts and Retries in Go: A Practical Guide for Dev.to](https://dev.to/jones_charles_ad50858dbc0/mastering-network-timeouts-and-retries-in-go-a-practical-guide-for-devto-jdf)
-- [Rust vs C++: A Comparison](https://dev.to/godofgeeks/rust-vs-c-a-comparison-2kkm)
-- [Smart Stowage: Building a 3D Cargo Digital Twin with Gemini 3](https://dev.to/gde/smart-stowage-building-a-3d-cargo-digital-twin-with-gemini-3-4473)
-- [SectorCast AI – Multi-Sector Market Forecasting Using Machine Learning :](https://dev.to/rc18/sectorcast-ai-multi-sector-market-forecasting-using-machine-learningpublished-true-1mge)
+- [Odoo 15 – Multiple mails sent on order confirmation but wrong order lines rendered in templates](https://dev.to/harena_sarobidyramalanja/odoo-15-multiple-mails-sent-on-order-confirmation-but-wrong-order-lines-rendered-in-templates-4pal)
+- [From Code to Photons: How Software Dictates the Precision of Fiber Lasers](https://dev.to/yanan_liu_d13d972706bed7b/from-code-to-photons-how-software-dictates-the-precision-of-fiber-lasers-14gd)
+- [How I Built My First .NET Package &lpar;and Got 500+ Downloads&rpar;](https://dev.to/recurpixel/how-i-built-my-first-net-package-and-got-500-downloads-2jj2)
+- [Generative AI vs Agentic AI](https://dev.to/khushi2488/generative-ai-vs-agentic-ai-5c27)
+- [Why I stopped using &quot;Vibe Coding&quot; and built a Socratic AI instead.](https://dev.to/peijun1700/why-i-stopped-using-vibe-coding-and-built-a-socratic-ai-instead-pne)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
