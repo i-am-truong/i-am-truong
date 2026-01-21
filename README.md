@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [MariaDB doesn&#39;t depend on MySQL](https://dev.to/alejandro_du/mariadb-doesnt-depend-on-mysql-4ok3)
-- [Selecting the best Framework for ManageYourTeam: A Side Project for Managing Soccer Teams ⚽](https://dev.to/mrcwbr/selecting-the-best-framework-for-manageyourteam-a-side-project-for-managing-soccer-teams-1a5o)
-- [2 - Arrumando a casa - separando componentes, instalando módulos](https://dev.to/danielmiclos/2-arrumando-a-casa-separando-componentes-instalando-modulos-1edn)
-- [AI Is Not the Pilot: Where Artificial Intelligence Actually Fits in UAVs](https://dev.to/asikarastallion/ai-is-not-the-pilot-where-artificial-intelligence-actually-fits-in-uavs-36pf)
-- [The Best Way to Use Teenage Engineering Manuals](https://dev.to/ivandotcodes/he-best-way-to-use-teenage-engineering-manuals-4n96)
+- [Tool Calling in LLMs: How Models Talk to the Real World](https://dev.to/eshaiju/tool-calling-in-llms-how-models-talk-to-the-real-world-dim)
+- [Day 16: Abstraction in Java](https://dev.to/karthick_narayanan/day-16-abstraction-in-java-59kp)
+- [Building Real-Time Gmail Integration with Google Meet Scheduling in Go](https://dev.to/starkprince/building-real-time-gmail-integration-with-google-meet-scheduling-in-go-1d5p)
+- [New Year, New You Portfolio Challenge Presented by Google AI](https://dev.to/ylem/new-year-new-you-portfolio-challenge-presented-by-google-ai-5h7f)
+- [Automating 3270 Mainframe Workflows with Go](https://dev.to/jnnngs/automating-3270-mainframe-workflows-with-go-15d6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
