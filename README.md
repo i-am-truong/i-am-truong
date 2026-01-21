@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What .NET 10 LTS Means for Enterprise Applications](https://dev.to/ismcagdas/what-net-10-lts-means-for-enterprise-applications-2cdh)
 - [Common AI Buzzwords — Explained Without the Hype](https://dev.to/dev-in-progress/common-ai-buzzwords-explained-without-the-hype-3fl2)
 - [La invasión de la IA en el desarrollo de software](https://dev.to/jfsan/la-invasion-de-la-ia-en-el-desarrollo-de-software-34gp)
 - [JavaScript DOM](https://dev.to/thiraisuvadu_dev/javascript-dom-2oao)
 - [I Finally Updated My 2-Year-Old Portfolio &lpar;Thanks to Antigravity&rpar;](https://dev.to/arjuncodess/i-finally-updated-my-2-year-old-portfolio-thanks-to-antigravity-4i31)
-- [I Stopped Guessing HTML &amp; CSS and Followed This Simple Plan &lpar;It Actually Worked&rpar;](https://dev.to/atharvparit/i-stopped-guessing-html-css-and-followed-this-simple-plan-it-actually-worked-mag)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
