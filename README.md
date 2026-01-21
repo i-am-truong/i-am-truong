@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How can we improve the design for eraAI?](https://dev.to/ph2ncyn/how-can-we-improve-the-design-for-eraai-5ene)
-- [[POG-01] What is Prompt Orchestration Governance &lpar;POG&rpar;?](https://dev.to/enjtorian/pog-01-what-is-prompt-orchestration-governance-pog-15gp)
-- [We Hardened Ubuntu 24.04 for Security Tools &lpar;And Broke Everything First&rpar;](https://dev.to/david_dev_sec/we-hardened-ubuntu-2404-for-security-tools-and-broke-everything-first-kf2)
-- [Auto-Scaling ComfyUI-API and ComfyUI: Orchestrating GPU Workloads with Azure Kubernetes Service and KEDA](https://dev.to/thangchung/auto-scaling-comfyui-api-and-comfyui-orchestrating-gpu-workloads-with-azure-kubernetes-service-and-2207)
-- [How to Break Any AI Model &lpar;A Machine Learning Security Crash Course&rpar;](https://dev.to/jgracie52/how-to-break-any-ai-model-a-machine-learning-security-crash-course-14gp)
+- [MariaDB doesn&#39;t depend on MySQL](https://dev.to/alejandro_du/mariadb-doesnt-depend-on-mysql-4ok3)
+- [Selecting the best Framework for ManageYourTeam: A Side Project for Managing Soccer Teams ⚽](https://dev.to/mrcwbr/selecting-the-best-framework-for-manageyourteam-a-side-project-for-managing-soccer-teams-1a5o)
+- [2 - Arrumando a casa - separando componentes, instalando módulos](https://dev.to/danielmiclos/2-arrumando-a-casa-separando-componentes-instalando-modulos-1edn)
+- [AI Is Not the Pilot: Where Artificial Intelligence Actually Fits in UAVs](https://dev.to/asikarastallion/ai-is-not-the-pilot-where-artificial-intelligence-actually-fits-in-uavs-36pf)
+- [The Best Way to Use Teenage Engineering Manuals](https://dev.to/ivandotcodes/he-best-way-to-use-teenage-engineering-manuals-4n96)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
