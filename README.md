@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [In LLM applications with limited concurrency, can ALB Target Optimizer enable concurrency control and corresponding scaling?](https://dev.to/aws-builders/in-llm-applications-with-limited-concurrency-can-alb-target-optimizer-enable-concurrency-control-b80)
-- [Mytess: Native SwiftUI app for TeslaMate &lpar;Dynamic Island, Enhanced Geofence Billing, Drive Insights&rpar;. Recruiting Beta Testers!](https://dev.to/yekk/mytess-native-swiftui-app-for-teslamate-dynamic-island-enhanced-geofence-billing-drive-2c4k)
-- [The alt text mistake that&#39;s hurting your Next.js site&#39;s SEO](https://dev.to/elyvora_us/the-alt-text-mistake-thats-hurting-your-nextjs-sites-seo-1ho4)
-- [Build in public day 1 - Dealing With “Magic” in Frameworks](https://dev.to/linediconsine/build-in-public-day-1-dealing-with-magic-in-frameworks-3jli)
-- [C# Type Conversions](https://dev.to/allcoderthings/c-type-conversions-42h5)
+- [Surprise challenge!!](https://dev.to/jess/surprise-challenge-5d85)
+- [Micronaut vs Quarkus: Why I Switched After Two Years](https://dev.to/anand_jaisy_2f7644a12001b/micronaut-vs-quarkus-why-i-switched-after-two-years-5e94)
+- [What End-to-End Web App Development Really Means &lpar;And Why It Reduces Risk&rpar;](https://dev.to/artyom_mukhopad_a9444ed6d/what-end-to-end-web-app-development-really-means-and-why-it-reduces-risk-36ga)
+- [Inside Kilo Speed: How One Engineer Shipped an AI Adoption Dashboard in Two Days](https://dev.to/kilocode/inside-kilo-speed-how-one-engineer-shipped-an-ai-adoption-dashboard-in-two-days-3odn)
+- [Coding Assistido por IA: Atalho ou Nova Alfabetização?](https://dev.to/vinicius3w/coding-assistido-por-ia-atalho-ou-nova-alfabetizacao-3d5i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
