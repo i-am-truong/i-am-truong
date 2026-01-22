@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hashicorp Vault: TOTP Secrets Engine](https://dev.to/admantium/hashicorp-vault-totp-secrets-engine-1lp3)
-- [I Built My Own Auth Server Instead of Reusing Firebase — Here’s What I Learned](https://dev.to/mspk5196/testing-my-authserver-53m7)
-- [The rfc Snippet That Wouldn’t Work — And What I Learned](https://dev.to/usama_dev/the-rfc-snippet-that-wouldnt-work-and-what-i-learned-2p13)
-- [Learning vs. Knowing: Why UAVs Still Need State Estimation](https://dev.to/asikarastallion/learning-vs-knowing-why-uavs-still-need-state-estimation-1joo)
-- [DOM in JavaScript](https://dev.to/harini_magesh_fa40041cf8d/dom-in-javascript-4e4d)
+- [My attempt on Cloud Resume Challenge in 2026 &lpar;Part 2&rpar;](https://dev.to/urmajesty516/my-attempt-on-cloud-resume-challenge-in-2026-part-2-5ek9)
+- [Describe Methods To Evaluate Foundation Model Performance](https://dev.to/aws-builders/describe-methods-to-evaluate-foundation-model-performance-1chb)
+- [AI Is No Longer a Tool, It’s an Architectural Layer!](https://dev.to/joshinii/ai-is-no-longer-a-tool-its-an-architectural-layer-7g2)
+- [Understanding JSX &amp; How a React App Starts &lpar;Beginner-Friendly Guide&rpar;](https://dev.to/jamir_khan_81139708882eb8/understanding-jsx-how-a-react-app-starts-beginner-friendly-guide-107p)
+- [ReactJS Hook Pattern ~Debounce~](https://dev.to/kkr0423/reactjs-hook-pattern-debounce-345j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
