@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Fully Autonomous Agentic Weather Reporting System](https://dev.to/aidanliang89/fully-autonomous-agentic-weather-reporting-system-f89)
-- [Automating Security Updates for Prometheus LTS: My First CNCF Contribution](https://dev.to/eunini/automating-security-updates-for-prometheus-lts-my-first-cncf-contribution-gh7)
-- [How I Built a Multilingual Food Database Using a Local LLM on an AMD GPU](https://dev.to/hakimmohamed/how-i-built-a-multilingual-food-database-using-a-local-llm-on-an-amd-gpu-1f0k)
-- [2026-01-22 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2026-01-22-daily-ai-news-3b54)
-- [以太坊客户端开发系列：Go语言实战](https://dev.to/tianmafly/yi-tai-fang-ke-hu-duan-kai-fa-xi-lie-goyu-yan-shi-zhan-14ah)
+- [Good Governance Can Still Produce Bad Projects](https://dev.to/ben_webb_projectmanager/good-governance-can-still-produce-bad-projects-3pln)
+- [GHSA-JP3Q-WWP3-PWV9: Freeform, Free Execution: Stored XSS in Craft CMS&#39;s Favorite Form Builder](https://dev.to/cverports/ghsa-jp3q-wwp3-pwv9-freeform-free-execution-stored-xss-in-craft-cmss-favorite-form-builder-4n0p)
+- [What I Learned Building My First Clean Architecture Project in .NET](https://dev.to/mrodriguesweb/what-i-learned-building-my-first-clean-architecture-project-in-net-4mff)
+- [Bring Your Website to Life: A Complete Guide to Animated Icons and Motion Effects](https://dev.to/jaber-said/bring-your-website-to-life-a-complete-guide-to-animated-icons-and-motion-effects-4di)
+- [If AI outputs aren’t guaranteed, how do systems stay reliable?](https://dev.to/joshinii/if-ai-outputs-arent-guaranteed-how-do-systems-stay-reliable-3n9o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
