@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How HarGharPG Is Digitizing PG Management in India](https://dev.to/ishqdehlvi/how-hargharpg-is-digitizing-pg-management-in-india-14lb)
-- [Rahsi Security State Sovereignty™ | From Tools to Truth: The Five States You Must Control](https://dev.to/aakash_rahsi/rahsi-security-state-sovereignty-from-tools-to-truth-the-five-states-you-must-control-1p23)
-- [AI-Powered Penetration Testing: How I Used Claude + Kali Linux MCP to Automate Security Assessments](https://dev.to/hassan_aftab/ai-powered-penetration-testing-how-i-used-claude-kali-linux-mcp-to-automate-security-assessments-20d3)
-- [PVS-Studio, Java and OWASP Top Ten 2021](https://dev.to/pvsdev/pvs-studio-java-and-owasp-top-ten-2021-58m1)
-- [Building Secure Document Workflows Without Slowing Teams Down](https://dev.to/eloisame/building-secure-document-workflows-without-slowing-teams-down-2nfg)
+- [Designing Idempotent Payment Processing in Worldpay Integrations &lpar;.NET Lessons&rpar;](https://dev.to/ramapratheeba/designing-idempotent-payment-processing-in-worldpay-integrations-net-lessons-3408)
+- [Introduction To DOTS!](https://dev.to/pratyush_soni_853633e1553/introduction-to-dots-4j2c)
+- [Checked exceptions and lambdas](https://dev.to/nfrankel/checked-exceptions-and-lambdas-3an9)
+- [Claude Cowork: The AI Coworker We Didn&#39;t Know We Needed](https://dev.to/jestersimpps/claude-cowork-the-ai-coworker-we-didnt-know-we-needed-55n9)
+- [7 Angular 2026 Predictions That Could Redefine Frontend Architecture](https://dev.to/karol_modelski/7-angular-2026-predictions-that-could-redefine-frontend-architecture-e5n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
