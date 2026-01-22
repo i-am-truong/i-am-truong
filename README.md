@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [dilemma!](https://dev.to/giftintech/dilemma-4fp6)
-- [AWS Step Functions + AI: Smarter Orchestration in Modern Applications](https://dev.to/jubinsoni/aws-step-functions-ai-smarter-orchestration-in-modern-applications-jeg)
-- [When you’re scheduled to go on your first international business trip, to India, on February 29, 2020? My experience -](https://dev.to/joehoppe/when-youre-scheduled-to-go-on-your-first-international-business-trip-to-india-on-february-29-4i7j)
-- [☁️ Serverless Explained Like You&#39;re 5](https://dev.to/esreekarreddy/serverless-explained-like-youre-5-5e14)
-- [Why React Feels So Confusing: My Observations](https://dev.to/a-k-0047/why-react-feels-so-confusing-my-observations-3djh)
+- [Fully Autonomous Agentic Weather Reporting System](https://dev.to/aidanliang89/fully-autonomous-agentic-weather-reporting-system-f89)
+- [Automating Security Updates for Prometheus LTS: My First CNCF Contribution](https://dev.to/eunini/automating-security-updates-for-prometheus-lts-my-first-cncf-contribution-gh7)
+- [How I Built a Multilingual Food Database Using a Local LLM on an AMD GPU](https://dev.to/hakimmohamed/how-i-built-a-multilingual-food-database-using-a-local-llm-on-an-amd-gpu-1f0k)
+- [2026-01-22 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2026-01-22-daily-ai-news-3b54)
+- [以太坊客户端开发系列：Go语言实战](https://dev.to/tianmafly/yi-tai-fang-ke-hu-duan-kai-fa-xi-lie-goyu-yan-shi-zhan-14ah)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
