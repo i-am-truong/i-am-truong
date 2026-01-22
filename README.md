@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How We Built Roly Poly at NexHacks Using DevSwarm and Parallel AI](https://dev.to/gt12889/how-we-built-roly-poly-at-nexhacks-using-devswarm-and-parallel-ai-571o)
-- [Build a Scalable Multi-Agent RAG System with A2A Protocol, Oracle AI Database and LangChain](https://dev.to/oracledevs/build-a-scalable-multi-agent-rag-system-with-a2a-protocol-oracle-ai-database-and-langchain-19c6)
-- [Exploring the Intersection of Music and Technology: How Sound Shapes Our Digital Lives](https://dev.to/woution/exploring-the-intersection-of-music-and-technology-how-sound-shapes-our-digital-lives-2foi)
-- [Keeping Your VitePress Screenshots From Going Stale](https://dev.to/omachala/keeping-your-vitepress-screenshots-from-going-stale-477e)
-- [Uptime Monitoring Won&#39;t Save You: A Guide to API-Based Auth Flow Monitoring](https://dev.to/lideroocom/uptime-monitoring-wont-save-you-a-guide-to-api-based-auth-flow-monitoring-2k46)
+- [A Deep Dive into Deep Agent Architecture for AI Coding Assistants](https://dev.to/apssouza22/a-deep-dive-into-deep-agent-architecture-for-ai-coding-assistants-3c8b)
+- [The Senior Partner: Why I built a software factory to manage my AI, rather than letting it manage me](https://dev.to/mlinside/the-senior-partner-why-i-built-a-software-factory-to-manage-my-ai-rather-than-letting-it-manage-me-7hd)
+- [COLORS: Jordan Ward - Stranger | A COLORS SHOW](https://dev.to/music_youtube/colors-jordan-ward-stranger-a-colors-show-237i)
+- [Marketing Tips and Tricks to Be Successful in 2026](https://dev.to/billahdotdev/marketing-tips-and-tricks-to-be-successful-in-2026-29m8)
+- [Why I Built an AI Coding Platform with BYOK &lpar;Bring Your Own Key&rpar; that uses Claude skills directly](https://dev.to/vandana_5cca941ab74e21680/why-i-built-an-ai-coding-platform-with-byok-bring-your-own-key-1j2g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
