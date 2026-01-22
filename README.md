@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Fixed a 14-Hour Timezone Bug in My VS Code Extension 🕒🐛](https://dev.to/freerave/how-i-fixed-a-14-hour-timezone-bug-in-my-vs-code-extension-23j0)
-- [Vlog-OSS-Finder-01: Git Push Origin Comeback](https://dev.to/barbora_klusackova/vlog-oss-finder-01-git-push-origin-comeback-2b23)
-- [The cost of AI in your career](https://dev.to/raffaeleloi/the-cost-of-ai-in-your-career-dfe)
-- [Use These Python Patterns for Price Scraping](https://dev.to/hasdata_com/use-these-python-patterns-for-price-scraping-a2d)
-- [Executions](https://dev.to/thiraisuvadu_dev/executions-32oc)
+- [Squashing AdonisJS Migrations: A Tool I Built](https://dev.to/leo_blondel_7428307667096/squashing-adonisjs-migrations-a-tool-i-built-444h)
+- [I Built a Hub of 20+ Free Developer &amp;amp; Finance Tools &lpar;All-in-One Utility Hub&rpar;](https://dev.to/srfdeveloper/i-built-a-hub-of-20-free-developer-amp-finance-tools-all-in-one-utility-hub-2dh2)
+- [The GreenEyes.AI Vision Stack: A Hybrid Pipeline for Object Labeling and Feature-Based Recognition](https://dev.to/rpi1337/the-greeneyesai-vision-stack-a-hybrid-pipeline-for-object-labeling-and-feature-based-recognition-39j5)
+- [Complete Layered Architecture Guide](https://dev.to/mrakdon/complete-layered-architecture-guide-1jmd)
+- [Identity Management in Fintech: Why It Matters](https://dev.to/blnkfinance/identity-management-in-fintech-why-it-matters-59e3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
