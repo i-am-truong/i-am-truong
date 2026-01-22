@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Billing: How to Build Monetization &amp; Cost Tracking for AI Agents with Blnk](https://dev.to/blnkfinance/ai-billing-how-to-build-monetization-cost-tracking-for-ai-agents-with-blnk-1gok)
-- [React Hook Form + Zod: Complete Guide to Type-Safe Form Validation in React](https://dev.to/md_marufrahman_3552855e/react-hook-form-zod-complete-guide-to-type-safe-form-validation-in-react-4do6)
-- [HackPrix Season 2 Recap](https://dev.to/hackprixcommunity/hackprix-season-2-recap-131f)
-- [Automating Externally-Managed Stateful Rule Groups in AWS Network Firewall Using Terraform](https://dev.to/santanu_das/automating-externally-managed-stateful-rule-groups-in-aws-network-firewall-using-terraform-54b4)
-- [I had knee pain for months cycling. So I built a free &lpar;AI&rpar; bike fitting tool](https://dev.to/elouan_/i-had-knee-pain-for-months-cycling-so-i-built-a-free-ai-bike-fitting-tool-586h)
+- [Bring MCP Apps into your OWN app with CopilotKit &amp; AG-UI](https://dev.to/copilotkit/bring-mcp-apps-into-your-own-app-with-copilotkit-ag-ui-258h)
+- [SwiftUIFlow: Type-Safe Coordinator Navigation for SwiftUI](https://dev.to/ioannis_platsis_b07339508/swiftuiflow-type-safe-coordinator-navigation-for-swiftui-1a8f)
+- [Building a PTA Tax Calculator with Next.js 16 &amp; React 19](https://dev.to/_75729aa6b13e505e279f7/building-a-pta-tax-calculator-with-nextjs-16-react-19-59lj)
+- [From Photography to Cinema, From AI to Synthia the 11th Major Art Form by Adel Abdel-Dayem](https://dev.to/adel_dayem/from-photography-to-cinema-from-ai-to-synthia-the-11th-art-by-adel-abdel-dayem-d8j)
+- [Software engineering is an interwoven part of the loop](https://dev.to/shaman-apprentice/software-engineering-is-an-interwoven-part-of-the-loop-2hge)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
