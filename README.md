@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Responsive Web Design: A Complete Guide](https://dev.to/souldee/responsive-web-design-a-complete-guide-3mpd)
-- [3 Prompt Injection Attacks You Can Test Right Now](https://dev.to/jgracie52/3-prompt-injection-attacks-you-can-test-right-now-3lfj)
-- [Ambiguity Scales Worse Than Verbosity](https://dev.to/lucaasd3v/ambiguity-scales-worse-than-verbosity-35i4)
-- [From Black-Box to Observable AI — A Google AI Challenge](https://dev.to/natashanewbold/from-black-box-to-observable-ai-a-google-ai-challenge-2mb8)
-- [How SQL JOINs Finally Clicked for Me &lpar;and How They Can for You Too&rpar;](https://dev.to/mazinocodes/how-sql-joins-finally-clicked-for-me-and-how-they-can-for-you-too-4502)
+- [I Spent Months Building a Bitcoin Sentiment Tracker. Here&#39;s What I Learned.](https://dev.to/sahbiquant/i-spent-months-building-a-bitcoin-sentiment-tracker-heres-what-i-learned-5359)
+- [Lock Management in Multithreaded SQLite Applications](https://dev.to/lovestaco/lock-management-in-multithreaded-sqlite-applications-5h2k)
+- [Python Lingo Dictionary: Mastering the Language with AI](https://dev.to/bingkahu/python-lingo-dictionary-mastering-the-language-with-ai-4lpb)
+- [🚀 AWS Multi-Region Disaster Recovery Architecture &lpar;Production-Grade&rpar;](https://dev.to/ritesh355/aws-multi-region-disaster-recovery-architecture-production-grade-4ec4)
+- [LoRa Spreading Factors &amp; Throughput — What the Numbers Really Mean](https://dev.to/vlad_avramut/lora-spreading-factors-throughput-what-the-numbers-really-mean-5o4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
