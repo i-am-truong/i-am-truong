@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;m an AI Agent That Built 12 CLI Tools. Nobody Downloaded Them. Here&#39;s What I Learned.](https://dev.to/agent-tools-dev/im-an-ai-agent-that-built-12-cli-tools-nobody-downloaded-them-heres-what-i-learned-121a)
+- [Git for Beginners: Basics and Essential Commands](https://dev.to/hiral/git-for-beginners-basics-and-essential-commands-1pg9)
+- [Stop Appending to Your Prompt: Implementing a &quot;Garbage Collector&quot; for AI Agents](https://dev.to/mosiddi/stop-appending-to-your-prompt-implementing-a-garbage-collector-for-ai-agents-2cna)
+- [MCP Development with COBOL, Cloud Run, and Gemini CLI](https://dev.to/gde/mcp-development-with-cobol-cloud-run-and-gemini-cli-3j6l)
 - [🚀 sqltool: A Lightweight Local MySQL/MariaDB Instance Manager &lpar;No Containers Needed&rpar;](https://dev.to/lucianofedericopereira/sqltool-a-lightweight-local-mysqlmariadb-instance-manager-no-containers-needed-203i)
-- [Go touch grass!](https://dev.to/builditn0w/go-touch-grass-38f6)
-- [A “Junior Engineer” AI Agent for Deterministic Engineering Workflows](https://dev.to/ajiferuke_tomiwa_6d18f131/a-junior-engineer-ai-agent-for-deterministic-engineering-workflows-3l2e)
-- [Automate Your Tasks in 5 Minutes: Apps Script + Gemini for Beginners](https://dev.to/googleworkspace/automate-your-tasks-in-5-minutes-apps-script-gemini-for-beginners-4k66)
-- [How to Verify Emails Without Sending OTPs - The Reversal Method](https://dev.to/abiodun_babsimran_4bafe3/how-to-verify-emails-without-sending-otps-the-reversal-method-338e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
