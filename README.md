@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I turned my portfolio into an art gallery](https://dev.to/taylorferran/i-turned-my-portfolio-into-an-art-gallery-g57)
-- [How to integrate AI Agent Skills to NextJS App &amp; Cursor AI ?](https://dev.to/kelvynthai/how-to-integrate-ai-agent-skills-to-nextjs-app-cursor-ai--o23)
-- [What Is Object Oriented Programming &lpar;OOP&rpar; in Python?](https://dev.to/shameel/what-is-object-oriented-programming-oop-in-python-34ki)
-- [The Evolution of the Android Power State Machine: From Wild West to Digital Fortress](https://dev.to/daviekim13/system-state-machine-the-brain-of-androids-power-management-and-its-evolution-1chb)
-- [Content Creation Tools and How They Actually Work](https://dev.to/jane_mayfield/content-creation-tools-and-how-they-actually-work-j1)
+- [Amazon’s new European Sovereign Cloud - a strategic response to US Law and EU Data Privacy](https://dev.to/aws-builders/amazons-new-european-sovereign-cloud-a-strategic-response-to-us-law-and-eu-data-privacy-ed3)
+- [Modern Systems Don’t Fix Missing History](https://dev.to/fadydesokysaeedabdelaziz/modern-systems-dont-fix-missing-history-4pg5)
+- [Efficient Client-Side Image Preprocessing for AI Wrappers](https://dev.to/ahmad_shakibnasaj_a8f9bb/efficient-client-side-image-preprocessing-for-ai-wrappers-3ebb)
+- [Why AI Models Fail in Production — Even When Accuracy Looks High](https://dev.to/naanhe_gujral_c001233100f/why-ai-models-fail-in-production-even-when-accuracy-looks-high-ggi)
+- [Introducing `everyrow.io/dedupe`: An LLM-based approach to semantic deduplication](https://dev.to/rafael_poyiadzi_85c2eed09/introducing-everyrowiodedupe-an-llm-based-approach-to-semantic-deduplication-40kl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
