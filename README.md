@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Fixed a 14-Hour Timezone Bug in My VS Code Extension 🕒🐛](https://dev.to/freerave/how-i-fixed-a-14-hour-timezone-bug-in-my-vs-code-extension-23j0)
+- [Vlog-OSS-Finder-01: Git Push Origin Comeback](https://dev.to/barbora_klusackova/vlog-oss-finder-01-git-push-origin-comeback-2b23)
 - [The cost of AI in your career](https://dev.to/raffaeleloi/the-cost-of-ai-in-your-career-dfe)
 - [Use These Python Patterns for Price Scraping](https://dev.to/hasdata_com/use-these-python-patterns-for-price-scraping-a2d)
 - [Executions](https://dev.to/thiraisuvadu_dev/executions-32oc)
-- [一篇文章讲清楚TLS](https://dev.to/mahuijie0512/pian-wen-zhang-jiang-qing-chu-tls-8p)
-- [The RAG System That Retrieved Perfect Chunks &lpar;But Answered Wrong Anyway&rpar;](https://dev.to/faraz_farhan_83ed23a154a2/the-rag-system-that-retrieved-perfect-chunks-but-answered-wrong-anyway-239k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
