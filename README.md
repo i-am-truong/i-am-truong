@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Stop Using Database Branching for PR Previews: Postgres Schemas Are Enough](https://dev.to/kyryl-bogach/stop-using-database-branching-for-pr-previews-postgres-schemas-are-enough-4mi8)
 - [I Spent Months Building a Bitcoin Sentiment Tracker. Here&#39;s What I Learned.](https://dev.to/sahbiquant/i-spent-months-building-a-bitcoin-sentiment-tracker-heres-what-i-learned-5359)
 - [Lock Management in Multithreaded SQLite Applications](https://dev.to/lovestaco/lock-management-in-multithreaded-sqlite-applications-5h2k)
 - [Python Lingo Dictionary: Mastering the Language with AI](https://dev.to/bingkahu/python-lingo-dictionary-mastering-the-language-with-ai-4lpb)
-- [🚀 AWS Multi-Region Disaster Recovery Architecture &lpar;Production-Grade&rpar;](https://dev.to/ritesh355/aws-multi-region-disaster-recovery-architecture-production-grade-4ec4)
-- [LoRa Spreading Factors &amp; Throughput — What the Numbers Really Mean](https://dev.to/vlad_avramut/lora-spreading-factors-throughput-what-the-numbers-really-mean-5o4)
+- [AsyncR3 &amp; RabbitMQ](https://dev.to/federico_alterio_5ff46735/asyncr3-rabbitmq-249j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
