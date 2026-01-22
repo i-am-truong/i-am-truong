@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 LLM Gateways in 2026: A Deep-Dive Comparison for Production Teams](https://dev.to/varshithvhegde/top-5-llm-gateways-in-2026-a-deep-dive-comparison-for-production-teams-34d2)
-- [TopRouter Officially Launches](https://dev.to/toprouter/toprouter-officially-launches-4m5d)
-- [4 Million Users &#39;Enter the Circle&#39; But Not &#39;On-Chain&#39;: How Will the KBC Model Split Future Crypto Liquidity?](https://dev.to/apnews/4-million-users-enter-the-circle-but-not-on-chain-how-will-the-kbc-model-split-future-crypto-35mh)
-- [Cloudflare Deep dive into 2025 Internet trends session highlights](https://dev.to/nhisyamj/cloudflare-deep-dive-into-2025-internet-trends-session-highlights-nm1)
-- [Designing Software for Non-Technical Users Under Time Pressure](https://dev.to/billboox/designing-software-for-non-technical-users-under-time-pressure-220p)
+- [Day 13: Nigerian Market Sales Intelligence Engine — Mastering List Comprehension &amp; Lambda in Python](https://dev.to/kinspirecyber/day-13-nigerian-market-sales-intelligence-engine-mastering-list-comprehension-lambda-in-python-1hci)
+- [🎡Beginner-Friendly Guide &#39;Minimum Pair Removal to Sort Array I&#39; - Problem 3507 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-minimum-pair-removal-to-sort-array-i-problem-3507-c-python-47g)
+- [Manjaro: How to Reinstall GRUB on a BTRFS and UEFI System](https://dev.to/letstalkoss/manjaro-how-to-reinstall-grub-on-a-btrfs-and-uefi-system-52nm)
+- [## The Baseline Power: Performance Without Optimizations](https://dev.to/charmpic/-the-baseline-power-performance-without-optimizations-11n3)
+- [Shipping a Portfolio That Actually Represents Me](https://dev.to/denyherianto/shipping-a-portfolio-that-actually-represents-me-clh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
