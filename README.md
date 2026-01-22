@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [An AI Library of Production-Ready Skills for AI Agents](https://dev.to/dailyaimode/an-open-source-library-of-production-ready-skills-for-ai-agents-15ml)
+- [How to practice Security Code Reviews](https://dev.to/stefan_bogdanovic_240fd30/how-to-practice-security-code-reviews-2ii0)
+- [Built a headless Shopify starter — looking for architecture feedback](https://dev.to/nathanmcmullendev/looking-for-feedback-on-my-headless-shopify-architecture-open-source-5dcc)
 - [Good Governance Can Still Produce Bad Projects](https://dev.to/ben_webb_projectmanager/good-governance-can-still-produce-bad-projects-3pln)
 - [GHSA-JP3Q-WWP3-PWV9: Freeform, Free Execution: Stored XSS in Craft CMS&#39;s Favorite Form Builder](https://dev.to/cverports/ghsa-jp3q-wwp3-pwv9-freeform-free-execution-stored-xss-in-craft-cmss-favorite-form-builder-4n0p)
-- [What I Learned Building My First Clean Architecture Project in .NET](https://dev.to/mrodriguesweb/what-i-learned-building-my-first-clean-architecture-project-in-net-4mff)
-- [Bring Your Website to Life: A Complete Guide to Animated Icons and Motion Effects](https://dev.to/jaber-said/bring-your-website-to-life-a-complete-guide-to-animated-icons-and-motion-effects-4di)
-- [If AI outputs aren’t guaranteed, how do systems stay reliable?](https://dev.to/joshinii/if-ai-outputs-arent-guaranteed-how-do-systems-stay-reliable-3n9o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
