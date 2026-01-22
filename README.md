@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Introducing an AI Skill for Vite + React Best Practices](https://dev.to/claudio_ceballospaz_97d5/introducing-an-ai-skill-for-vite-react-best-practices-9l3)
-- [Enforcing React Hook Form Best Practices with Custom Biome Rules](https://dev.to/kcsujeet/enforcing-react-hook-form-best-practices-with-custom-biome-rules-4pbm)
-- [Congrats to the Winners of the &quot;Worldwide Show and Tell Challenge&quot; Presented by Mux!](https://dev.to/devteam/congrats-to-the-winners-of-the-worldwide-show-and-tell-challenge-presented-by-mux-10o9)
-- [Building WSL-UI: The Polish Phase and Privacy-First Analytics](https://dev.to/octasoft-ltd/building-wsl-ui-the-polish-phase-and-privacy-first-analytics-31a2)
-- [Writing Terraform Resources with Write-Only Parameters](https://dev.to/drewmullen/writing-terraform-resources-with-write-only-parameters-570j)
+- [dilemma!](https://dev.to/giftintech/dilemma-4fp6)
+- [AWS Step Functions + AI: Smarter Orchestration in Modern Applications](https://dev.to/jubinsoni/aws-step-functions-ai-smarter-orchestration-in-modern-applications-jeg)
+- [When you’re scheduled to go on your first international business trip, to India, on February 29, 2020? My experience -](https://dev.to/joehoppe/when-youre-scheduled-to-go-on-your-first-international-business-trip-to-india-on-february-29-4i7j)
+- [☁️ Serverless Explained Like You&#39;re 5](https://dev.to/esreekarreddy/serverless-explained-like-youre-5-5e14)
+- [Why React Feels So Confusing: My Observations](https://dev.to/a-k-0047/why-react-feels-so-confusing-my-observations-3djh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
