@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Designing Idempotent Payment Processing in Worldpay Integrations &lpar;.NET Lessons&rpar;](https://dev.to/ramapratheeba/designing-idempotent-payment-processing-in-worldpay-integrations-net-lessons-3408)
-- [Introduction To DOTS!](https://dev.to/pratyush_soni_853633e1553/introduction-to-dots-4j2c)
-- [Checked exceptions and lambdas](https://dev.to/nfrankel/checked-exceptions-and-lambdas-3an9)
-- [Claude Cowork: The AI Coworker We Didn&#39;t Know We Needed](https://dev.to/jestersimpps/claude-cowork-the-ai-coworker-we-didnt-know-we-needed-55n9)
-- [7 Angular 2026 Predictions That Could Redefine Frontend Architecture](https://dev.to/karol_modelski/7-angular-2026-predictions-that-could-redefine-frontend-architecture-e5n)
+- [The cost of AI in your career](https://dev.to/raffaeleloi/the-cost-of-ai-in-your-career-dfe)
+- [Use These Python Patterns for Price Scraping](https://dev.to/hasdata_com/use-these-python-patterns-for-price-scraping-a2d)
+- [Executions](https://dev.to/thiraisuvadu_dev/executions-32oc)
+- [一篇文章讲清楚TLS](https://dev.to/mahuijie0512/pian-wen-zhang-jiang-qing-chu-tls-8p)
+- [The RAG System That Retrieved Perfect Chunks &lpar;But Answered Wrong Anyway&rpar;](https://dev.to/faraz_farhan_83ed23a154a2/the-rag-system-that-retrieved-perfect-chunks-but-answered-wrong-anyway-239k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
