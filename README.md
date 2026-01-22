@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What will the future look like with AI?](https://dev.to/ms_74/what-will-the-future-look-like-with-ai-16ne)
-- [What I learned while implementing a colorblind mode for my Belgian Wage Calculator site](https://dev.to/illarious/what-i-learned-while-implementing-a-colorblind-mode-for-my-belgian-wage-calculator-site-51f0)
-- [Coderive Programming Language: Designed to be Used for 2026 Onwards](https://dev.to/danexcodr/coderive-programming-language-designed-to-be-used-for-2026-onwards-1gd3)
-- [The Great JavaScript Hook Naming Crisis: An Appeal for Sanity](https://dev.to/murz/the-great-javascript-hook-naming-crisis-an-appeal-for-sanity-38fp)
-- [Unreal Engine Lighting Confused Me Until I Saw the Big Picture](https://dev.to/dinesh_04/unreal-engine-lighting-confused-me-until-i-saw-the-big-picture-3dni)
+- [How HarGharPG Is Digitizing PG Management in India](https://dev.to/ishqdehlvi/how-hargharpg-is-digitizing-pg-management-in-india-14lb)
+- [Rahsi Security State Sovereignty™ | From Tools to Truth: The Five States You Must Control](https://dev.to/aakash_rahsi/rahsi-security-state-sovereignty-from-tools-to-truth-the-five-states-you-must-control-1p23)
+- [AI-Powered Penetration Testing: How I Used Claude + Kali Linux MCP to Automate Security Assessments](https://dev.to/hassan_aftab/ai-powered-penetration-testing-how-i-used-claude-kali-linux-mcp-to-automate-security-assessments-20d3)
+- [PVS-Studio, Java and OWASP Top Ten 2021](https://dev.to/pvsdev/pvs-studio-java-and-owasp-top-ten-2021-58m1)
+- [Building Secure Document Workflows Without Slowing Teams Down](https://dev.to/eloisame/building-secure-document-workflows-without-slowing-teams-down-2nfg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
