@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Complete Guide to API Testing with Postman](https://dev.to/apiverve/complete-guide-to-api-testing-with-postman-2nai)
-- [CSS corner-shape: Next-Level Corners for Your UI](https://dev.to/devsmitra/css-corner-shape-next-level-corners-for-your-ui-26db)
-- [Why I Built a NAS in 2026: When Your Vendor Abandons You](https://dev.to/djinn/why-i-built-a-nas-in-2026-when-your-vendor-abandons-you-4ek8)
-- [Add Daily Horoscopes to Your App in 5 Minutes](https://dev.to/apiverve/add-daily-horoscopes-to-your-app-in-5-minutes-1a09)
-- [Why I Stopped Writing CSS from Scratch &lpar;And Started Using Webflow + JavaScript&rpar;](https://dev.to/journeyhorizon/why-i-stopped-writing-css-from-scratch-and-started-using-webflow-javascript-3aai)
+- [Threading the Beads: Coding in the Era of AI](https://dev.to/bebechien/threading-the-beads-coding-in-the-era-of-ai-211h)
+- [Meetup in IIT Madras](https://dev.to/keerthigap/meetup-in-iit-madras-4kg4)
+- [Why I Moved My ML Model from Flask to AWS Lambda &lpar;A Student’s Guide to $0 Hosting&rpar;](https://dev.to/d_great_oak/why-i-moved-my-ml-model-from-flask-to-aws-lambda-a-students-guide-to-0-hosting-3mmf)
+- [Building SELJI: Open-Source Tools for Zero-Noise Product Research](https://dev.to/seljicom/building-selji-open-source-tools-for-zero-noise-product-research-372f)
+- [Systems thinking is no longer optional for indie hackers. It’s the difference between building a clever tool and building something that actually lasts.](https://dev.to/jaideepparashar/systems-thinking-is-no-longer-optional-for-indie-hackers-its-the-difference-between-building-a-3180)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
