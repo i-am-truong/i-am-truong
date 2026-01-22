@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Squashing AdonisJS Migrations: A Tool I Built](https://dev.to/leo_blondel_7428307667096/squashing-adonisjs-migrations-a-tool-i-built-444h)
-- [I Built a Hub of 20+ Free Developer &amp;amp; Finance Tools &lpar;All-in-One Utility Hub&rpar;](https://dev.to/srfdeveloper/i-built-a-hub-of-20-free-developer-amp-finance-tools-all-in-one-utility-hub-2dh2)
-- [The GreenEyes.AI Vision Stack: A Hybrid Pipeline for Object Labeling and Feature-Based Recognition](https://dev.to/rpi1337/the-greeneyesai-vision-stack-a-hybrid-pipeline-for-object-labeling-and-feature-based-recognition-39j5)
-- [Complete Layered Architecture Guide](https://dev.to/mrakdon/complete-layered-architecture-guide-1jmd)
-- [Identity Management in Fintech: Why It Matters](https://dev.to/blnkfinance/identity-management-in-fintech-why-it-matters-59e3)
+- [94% of CEOs Are All-In on AI — What That Really Signals](https://dev.to/aiwithapex/94-of-ceos-are-all-in-on-ai-what-that-really-signals-4bic)
+- [🚀 I built a Free, Open World Time API &lpar;No API Keys, CORS Enabled&rpar;](https://dev.to/time-now-api/i-built-a-free-open-world-time-api-no-api-keys-cors-enabled-5en)
+- [Do AI assistants reduce cognitive load — or accumulate cognitive debt?](https://dev.to/deltax/do-ai-assistants-reduce-cognitive-load-or-accumulate-cognitive-debt-1odg)
+- [Ollama + FastAPI API, Building My Own AI API Using Ollama and FastAPI on a Linux VM](https://dev.to/shailendra_khade_df763b45/ollama-fastapi-api-building-my-own-ai-api-using-ollama-and-fastapi-on-a-linux-vm-5a40)
+- [Beyond Surrogate Pairs: Hidden Pitfalls in JS Character Counting with PHP/MySQL](https://dev.to/usapopopooon/beyond-surrogate-pairs-hidden-pitfalls-in-js-character-counting-with-phpmysql-1pj7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
