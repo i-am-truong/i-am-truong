@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [asChild: Understanding the Slot Pattern in React](https://dev.to/pandresdev/aschild-understanding-the-slot-pattern-in-react-ifo)
-- [Level Up Your TypeScript: Advanced Patterns Every Frontend Dev Should Know](https://dev.to/epresas/level-up-your-typescript-advanced-patterns-every-frontend-dev-should-know-mg3)
-- [2026-01-21 Weekly Quantum News](https://dev.to/dan_ledger_ce2886f0037972/2026-01-21-weekly-quantum-news-5g3m)
-- [Contenido vs Interactividad: Como elegir tu siguiente Framework Web](https://dev.to/jusepemu/contenido-vs-interactividad-como-elegir-tu-siguiente-framework-web-211d)
-- [AI, tech and society: educated fool’s predictions](https://dev.to/viksaaskool/ai-tech-and-society-educated-fools-predictions-5f6n)
+- [Top 5 LLM Gateways in 2026: A Deep-Dive Comparison for Production Teams](https://dev.to/varshithvhegde/top-5-llm-gateways-in-2026-a-deep-dive-comparison-for-production-teams-34d2)
+- [TopRouter Officially Launches](https://dev.to/toprouter/toprouter-officially-launches-4m5d)
+- [4 Million Users &#39;Enter the Circle&#39; But Not &#39;On-Chain&#39;: How Will the KBC Model Split Future Crypto Liquidity?](https://dev.to/apnews/4-million-users-enter-the-circle-but-not-on-chain-how-will-the-kbc-model-split-future-crypto-35mh)
+- [Cloudflare Deep dive into 2025 Internet trends session highlights](https://dev.to/nhisyamj/cloudflare-deep-dive-into-2025-internet-trends-session-highlights-nm1)
+- [Designing Software for Non-Technical Users Under Time Pressure](https://dev.to/billboox/designing-software-for-non-technical-users-under-time-pressure-220p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
