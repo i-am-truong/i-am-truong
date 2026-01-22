@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Amazon’s new European Sovereign Cloud - a strategic response to US Law and EU Data Privacy](https://dev.to/aws-builders/amazons-new-european-sovereign-cloud-a-strategic-response-to-us-law-and-eu-data-privacy-ed3)
-- [Modern Systems Don’t Fix Missing History](https://dev.to/fadydesokysaeedabdelaziz/modern-systems-dont-fix-missing-history-4pg5)
-- [Efficient Client-Side Image Preprocessing for AI Wrappers](https://dev.to/ahmad_shakibnasaj_a8f9bb/efficient-client-side-image-preprocessing-for-ai-wrappers-3ebb)
-- [Why AI Models Fail in Production — Even When Accuracy Looks High](https://dev.to/naanhe_gujral_c001233100f/why-ai-models-fail-in-production-even-when-accuracy-looks-high-ggi)
-- [Introducing `everyrow.io/dedupe`: An LLM-based approach to semantic deduplication](https://dev.to/rafael_poyiadzi_85c2eed09/introducing-everyrowiodedupe-an-llm-based-approach-to-semantic-deduplication-40kl)
+- [In LLM applications with limited concurrency, can ALB Target Optimizer enable concurrency control and corresponding scaling?](https://dev.to/aws-builders/in-llm-applications-with-limited-concurrency-can-alb-target-optimizer-enable-concurrency-control-b80)
+- [Mytess: Native SwiftUI app for TeslaMate &lpar;Dynamic Island, Enhanced Geofence Billing, Drive Insights&rpar;. Recruiting Beta Testers!](https://dev.to/yekk/mytess-native-swiftui-app-for-teslamate-dynamic-island-enhanced-geofence-billing-drive-2c4k)
+- [The alt text mistake that&#39;s hurting your Next.js site&#39;s SEO](https://dev.to/elyvora_us/the-alt-text-mistake-thats-hurting-your-nextjs-sites-seo-1ho4)
+- [Build in public day 1 - Dealing With “Magic” in Frameworks](https://dev.to/linediconsine/build-in-public-day-1-dealing-with-magic-in-frameworks-3jli)
+- [C# Type Conversions](https://dev.to/allcoderthings/c-type-conversions-42h5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
