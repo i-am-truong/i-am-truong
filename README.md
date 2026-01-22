@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Agentic AI — From Workflows to Goal-Driven Systems](https://dev.to/sandeepsinghhub/agentic-ai-from-workflows-to-goal-driven-systems-423b)
-- [Autonomous DevOps AI Agent &lpar;FastAPI + Ollama&rpar;](https://dev.to/shailendra_khade_df763b45/autonomous-devops-ai-agent-fastapi-ollama-9ji)
-- [Sequelize ORM with MySQL Setup: Complete Guide to Production-Ready Database Management](https://dev.to/md_marufrahman_3552855e/sequelize-orm-with-mysql-setup-complete-guide-to-production-ready-database-management-4ok3)
-- [🌱 NLP for Beginners: Understanding the Basics of Natural Language Processing](https://dev.to/zeroshotanu/nlp-for-beginners-understanding-the-basics-of-natural-language-processing-4784)
-- [Serverless applications with Java and Aurora DSQL - Part 4 Understand DPUs in Explain Analyze Verbose](https://dev.to/aws-heroes/serverless-applications-with-java-and-aurora-dsql-part-4-understand-dpus-in-explain-analyze-4a5b)
+- [Why I Stopped Debugging AI Code: The Case for Roguelite Development](https://dev.to/alex_rakitin/why-i-stopped-debugging-ai-code-the-case-for-roguelite-development-5065)
+- [Emergent systems in games](https://dev.to/razelbert/emergent-systems-in-games-50lp)
+- [Building a Production-Ready ECS Pipeline: What I Learned Splitting Infrastructure into Layer](https://dev.to/elsadevops/building-a-production-ready-ecs-pipeline-what-i-learned-splitting-infrastructure-into-layer-514)
+- [How to Add Video to Your Astro Site with ImageKit](https://dev.to/ukmadlz/how-to-add-video-to-your-astro-site-with-imagekit-1p3m)
+- [Flutter Flavors en producción: Guía completa para proyectos multicliente en Android e iOS](https://dev.to/david_gonzalez_ini/flutter-flavors-en-produccion-guia-completa-para-proyectos-multicliente-en-android-e-ios-jfh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
