@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Evolution of the Android Power State Machine: From Wild West to Digital Fortress](https://dev.to/daviekim13/system-state-machine-the-brain-of-androids-power-management-and-its-evolution-1chb)
+- [Today Finally Used useReducer in Real App — And It Changed How I Think About State](https://dev.to/usama_dev/today-finally-used-usereducer-in-real-app-and-it-changed-how-i-think-about-state-do0)
+- [I built an open-source IRC client for Android - AndroidIRCX](https://dev.to/androidircx/i-built-an-open-source-irc-client-for-android-androidircx-5dkb)
+- [Real Zero-Copy: A Technical Autopsy of Cap&#39;n Proto and the Serialization Fallacy](https://dev.to/rafacalderon/real-zero-copy-a-technical-autopsy-of-capn-proto-and-the-serialization-fallacy-3n64)
 - [Making TodoMVC work with dwayne/elm2nix](https://dev.to/dwayne/making-todomvc-work-with-dwayneelm2nix-5dal)
-- [Why Version Control Exists](https://dev.to/hiral/why-version-control-exists-1dpe)
-- [Optimizing Persistent Storage with State Deltas](https://dev.to/galadd/optimizing-persistent-storage-with-state-deltas-4emp)
-- [Best TypeScript Backend Frameworks in 2026](https://dev.to/andout/best-typescript-backend-frameworks-in-2026-2omd)
-- [How Verification vs Validation Fit Into CI/CD Pipelines?](https://dev.to/sophielane/how-verification-vs-validation-fit-into-cicd-pipelines-424i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
