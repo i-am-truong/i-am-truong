@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I turned my portfolio into an art gallery](https://dev.to/taylorferran/i-turned-my-portfolio-into-an-art-gallery-g57)
+- [How to integrate AI Agent Skills to NextJS App &amp; Cursor AI ?](https://dev.to/kelvynthai/how-to-integrate-ai-agent-skills-to-nextjs-app-cursor-ai--o23)
+- [What Is Object Oriented Programming &lpar;OOP&rpar; in Python?](https://dev.to/shameel/what-is-object-oriented-programming-oop-in-python-34ki)
 - [The Evolution of the Android Power State Machine: From Wild West to Digital Fortress](https://dev.to/daviekim13/system-state-machine-the-brain-of-androids-power-management-and-its-evolution-1chb)
-- [Today Finally Used useReducer in Real App — And It Changed How I Think About State](https://dev.to/usama_dev/today-finally-used-usereducer-in-real-app-and-it-changed-how-i-think-about-state-do0)
-- [I built an open-source IRC client for Android - AndroidIRCX](https://dev.to/androidircx/i-built-an-open-source-irc-client-for-android-androidircx-5dkb)
-- [Real Zero-Copy: A Technical Autopsy of Cap&#39;n Proto and the Serialization Fallacy](https://dev.to/rafacalderon/real-zero-copy-a-technical-autopsy-of-capn-proto-and-the-serialization-fallacy-3n64)
-- [Making TodoMVC work with dwayne/elm2nix](https://dev.to/dwayne/making-todomvc-work-with-dwayneelm2nix-5dal)
+- [Content Creation Tools and How They Actually Work](https://dev.to/jane_mayfield/content-creation-tools-and-how-they-actually-work-j1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
