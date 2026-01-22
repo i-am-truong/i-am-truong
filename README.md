@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Threading the Beads: Coding in the Era of AI](https://dev.to/bebechien/threading-the-beads-coding-in-the-era-of-ai-211h)
-- [Meetup in IIT Madras](https://dev.to/keerthigap/meetup-in-iit-madras-4kg4)
-- [Why I Moved My ML Model from Flask to AWS Lambda &lpar;A Student’s Guide to $0 Hosting&rpar;](https://dev.to/d_great_oak/why-i-moved-my-ml-model-from-flask-to-aws-lambda-a-students-guide-to-0-hosting-3mmf)
-- [Building SELJI: Open-Source Tools for Zero-Noise Product Research](https://dev.to/seljicom/building-selji-open-source-tools-for-zero-noise-product-research-372f)
-- [Systems thinking is no longer optional for indie hackers. It’s the difference between building a clever tool and building something that actually lasts.](https://dev.to/jaideepparashar/systems-thinking-is-no-longer-optional-for-indie-hackers-its-the-difference-between-building-a-3180)
+- [Evolution of Asynchronous JavaScript](https://dev.to/pckalyan/evolution-of-asynchronous-javascript-1ca3)
+- [OSI Layer 9—The Council: Governance, Power, and the Politics of Security](https://dev.to/narnaiezzsshaa/osi-layer-9-the-council-governance-power-and-the-politics-of-security-1ph7)
+- [How Computed Values Really Work: Lazy Evaluation in a Reactive Graph](https://dev.to/luciano0322/how-computed-values-really-work-lazy-evaluation-in-a-reactive-graph-2mjp)
+- [Optimizing for Agents: The End of the Ten Blue Links](https://dev.to/ninadpathak/optimizing-for-agents-the-end-of-the-ten-blue-links-eae)
+- [Storytelling is a Lossless Compression Algorithm for Sales](https://dev.to/ninadpathak/storytelling-is-a-lossless-compression-algorithm-for-sales-2pg1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
