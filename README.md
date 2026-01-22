@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Dealing With Mixed Measurement Units in Data and Documentation](https://dev.to/_15dcbc74dac0c5c26421/dealing-with-mixed-measurement-units-in-data-and-documentation-3gmd)
-- [The Complete Guide to Publishing Your First Rust Crate to crates.io](https://dev.to/ajitkumar/the-complete-guide-to-publishing-your-first-rust-crate-to-cratesio-14pg)
-- [From Workflows to Autonomous Agents: How AI Agents Actually Work](https://dev.to/jefreesujit/from-workflows-to-autonomous-agents-how-ai-agents-actually-work-4nlp)
-- [How Developers Test 2FA Without Installing Authenticator Apps](https://dev.to/auth2fa/how-developers-test-2fa-without-installing-authenticator-apps-37nl)
-- [Unlocking CSS Houdini: Paint and Layout APIs](https://dev.to/sharique_siddiqui_8242dad/unlocking-css-houdini-paint-and-layout-apis-32a)
+- [What will the future look like with AI?](https://dev.to/ms_74/what-will-the-future-look-like-with-ai-16ne)
+- [What I learned while implementing a colorblind mode for my Belgian Wage Calculator site](https://dev.to/illarious/what-i-learned-while-implementing-a-colorblind-mode-for-my-belgian-wage-calculator-site-51f0)
+- [Coderive Programming Language: Designed to be Used for 2026 Onwards](https://dev.to/danexcodr/coderive-programming-language-designed-to-be-used-for-2026-onwards-1gd3)
+- [The Great JavaScript Hook Naming Crisis: An Appeal for Sanity](https://dev.to/murz/the-great-javascript-hook-naming-crisis-an-appeal-for-sanity-38fp)
+- [Unreal Engine Lighting Confused Me Until I Saw the Big Picture](https://dev.to/dinesh_04/unreal-engine-lighting-confused-me-until-i-saw-the-big-picture-3dni)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
