@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Surprise challenge!!](https://dev.to/jess/surprise-challenge-5d85)
-- [Micronaut vs Quarkus: Why I Switched After Two Years](https://dev.to/anand_jaisy_2f7644a12001b/micronaut-vs-quarkus-why-i-switched-after-two-years-5e94)
-- [What End-to-End Web App Development Really Means &lpar;And Why It Reduces Risk&rpar;](https://dev.to/artyom_mukhopad_a9444ed6d/what-end-to-end-web-app-development-really-means-and-why-it-reduces-risk-36ga)
-- [Inside Kilo Speed: How One Engineer Shipped an AI Adoption Dashboard in Two Days](https://dev.to/kilocode/inside-kilo-speed-how-one-engineer-shipped-an-ai-adoption-dashboard-in-two-days-3odn)
-- [Coding Assistido por IA: Atalho ou Nova Alfabetização?](https://dev.to/vinicius3w/coding-assistido-por-ia-atalho-ou-nova-alfabetizacao-3d5i)
+- [AI Billing: How to Build Monetization &amp; Cost Tracking for AI Agents with Blnk](https://dev.to/blnkfinance/ai-billing-how-to-build-monetization-cost-tracking-for-ai-agents-with-blnk-1gok)
+- [React Hook Form + Zod: Complete Guide to Type-Safe Form Validation in React](https://dev.to/md_marufrahman_3552855e/react-hook-form-zod-complete-guide-to-type-safe-form-validation-in-react-4do6)
+- [HackPrix Season 2 Recap](https://dev.to/hackprixcommunity/hackprix-season-2-recap-131f)
+- [Automating Externally-Managed Stateful Rule Groups in AWS Network Firewall Using Terraform](https://dev.to/santanu_das/automating-externally-managed-stateful-rule-groups-in-aws-network-firewall-using-terraform-54b4)
+- [I had knee pain for months cycling. So I built a free &lpar;AI&rpar; bike fitting tool](https://dev.to/elouan_/i-had-knee-pain-for-months-cycling-so-i-built-a-free-ai-bike-fitting-tool-586h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
