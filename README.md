@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Multiple Inputs in Neural Networks &lpar;With Python Examples&rpar; — Part 3](https://dev.to/rijultp/understanding-multiple-inputs-in-neural-networks-with-python-examples-part-3-1enm)
-- [Inside Git: How It Works and the Role of the .git Folder](https://dev.to/hiral/inside-git-how-it-works-and-the-role-of-the-git-folder-5748)
-- [7 Key AI Sales Trends to Watch in 2026](https://dev.to/chrispatterson/7-key-ai-sales-trends-to-watch-in-2026-77l)
-- [Ringer Movies: The 2026 Oscar Nominations: Snubs, Surprises, and WTFs](https://dev.to/popcorn_movies/ringer-movies-the-2026-oscar-nominations-snubs-surprises-and-wtfs-41hh)
-- [Stop Using Frameworks Blindly: Build Your Own Python Web Server from Scratch](https://dev.to/programmingcentral/stop-using-frameworks-blindly-build-your-own-python-web-server-from-scratch-52b0)
+- [🚀 sqltool: A Lightweight Local MySQL/MariaDB Instance Manager &lpar;No Containers Needed&rpar;](https://dev.to/lucianofedericopereira/sqltool-a-lightweight-local-mysqlmariadb-instance-manager-no-containers-needed-203i)
+- [Go touch grass!](https://dev.to/builditn0w/go-touch-grass-38f6)
+- [A “Junior Engineer” AI Agent for Deterministic Engineering Workflows](https://dev.to/ajiferuke_tomiwa_6d18f131/a-junior-engineer-ai-agent-for-deterministic-engineering-workflows-3l2e)
+- [Automate Your Tasks in 5 Minutes: Apps Script + Gemini for Beginners](https://dev.to/googleworkspace/automate-your-tasks-in-5-minutes-apps-script-gemini-for-beginners-4k66)
+- [How to Verify Emails Without Sending OTPs - The Reversal Method](https://dev.to/abiodun_babsimran_4bafe3/how-to-verify-emails-without-sending-otps-the-reversal-method-338e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
