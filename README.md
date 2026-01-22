@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Bifrost - The Fastest OSS AI Gateway](https://dev.to/kuldeep_paul/bifrost-the-fastest-oss-ai-gateway-577c)
-- [Brave New World of Scammers Targeting Developers](https://dev.to/alien45/brave-new-world-of-scammers-targeting-developers-313p)
-- [I Was Targeted by a Fake Employer Running a Real NPM Supply Chain Attack](https://dev.to/alien45/i-was-targeted-by-a-fake-employer-running-a-real-npm-supply-chain-attack-54i5)
-- [My Two Best Teammates Have Four Paws. And They Keep Me Sane While Coding](https://dev.to/huckler/my-two-best-teammates-have-four-paws-and-they-keep-me-sane-while-coding-3ffb)
-- [The Hidden Cost of Supporting Old OS Versions](https://dev.to/markkazakov/the-hidden-cost-of-supporting-old-os-versions-1mj0)
+- [Responsive Web Design: A Complete Guide](https://dev.to/souldee/responsive-web-design-a-complete-guide-3mpd)
+- [3 Prompt Injection Attacks You Can Test Right Now](https://dev.to/jgracie52/3-prompt-injection-attacks-you-can-test-right-now-3lfj)
+- [Ambiguity Scales Worse Than Verbosity](https://dev.to/lucaasd3v/ambiguity-scales-worse-than-verbosity-35i4)
+- [From Black-Box to Observable AI — A Google AI Challenge](https://dev.to/natashanewbold/from-black-box-to-observable-ai-a-google-ai-challenge-2mb8)
+- [How SQL JOINs Finally Clicked for Me &lpar;and How They Can for You Too&rpar;](https://dev.to/mazinocodes/how-sql-joins-finally-clicked-for-me-and-how-they-can-for-you-too-4502)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
