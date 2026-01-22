@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Multiple Inputs in Neural Networks &lpar;With Python Examples&rpar; — Part 3](https://dev.to/rijultp/understanding-multiple-inputs-in-neural-networks-with-python-examples-part-3-1enm)
+- [Inside Git: How It Works and the Role of the .git Folder](https://dev.to/hiral/inside-git-how-it-works-and-the-role-of-the-git-folder-5748)
+- [7 Key AI Sales Trends to Watch in 2026](https://dev.to/chrispatterson/7-key-ai-sales-trends-to-watch-in-2026-77l)
 - [Ringer Movies: The 2026 Oscar Nominations: Snubs, Surprises, and WTFs](https://dev.to/popcorn_movies/ringer-movies-the-2026-oscar-nominations-snubs-surprises-and-wtfs-41hh)
 - [Stop Using Frameworks Blindly: Build Your Own Python Web Server from Scratch](https://dev.to/programmingcentral/stop-using-frameworks-blindly-build-your-own-python-web-server-from-scratch-52b0)
-- [Stop Using Database Branching for PR Previews: Postgres Schemas Are Enough](https://dev.to/kyryl-bogach/stop-using-database-branching-for-pr-previews-postgres-schemas-are-enough-4mi8)
-- [Focus Restore feature for your Cursor](https://dev.to/alexey_elizarov_963bfdae8/restoring-focus-to-cursor-after-agent-completion-256p)
-- [I Spent Months Building a Bitcoin Sentiment Tracker. Here&#39;s What I Learned.](https://dev.to/sahbiquant/i-spent-months-building-a-bitcoin-sentiment-tracker-heres-what-i-learned-5359)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
