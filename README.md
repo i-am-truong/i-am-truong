@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Lakehouse? More Like a Lake + Warehouse Parking Lot](https://dev.to/esproc_spl/lakehouse-more-like-a-lake-warehouse-parking-lot-4hfg)
+- [Stopping Hidden Threats: AI Safety in PDF Processing](https://dev.to/katash/stopping-hidden-threats-ai-safety-in-pdf-processing-4l8c)
 - [My attempt on Cloud Resume Challenge in 2026 &lpar;Part 2&rpar;](https://dev.to/urmajesty516/my-attempt-on-cloud-resume-challenge-in-2026-part-2-5ek9)
 - [Describe Methods To Evaluate Foundation Model Performance](https://dev.to/aws-builders/describe-methods-to-evaluate-foundation-model-performance-1chb)
 - [AI Is No Longer a Tool, It’s an Architectural Layer!](https://dev.to/joshinii/ai-is-no-longer-a-tool-its-an-architectural-layer-7g2)
-- [Understanding JSX &amp; How a React App Starts &lpar;Beginner-Friendly Guide&rpar;](https://dev.to/jamir_khan_81139708882eb8/understanding-jsx-how-a-react-app-starts-beginner-friendly-guide-107p)
-- [ReactJS Hook Pattern ~Debounce~](https://dev.to/kkr0423/reactjs-hook-pattern-debounce-345j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
