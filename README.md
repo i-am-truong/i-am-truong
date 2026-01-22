@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CSS Optical Illusions: 50+ Visual Illusions Built with Pure CSS and HTML](https://dev.to/alvaromontoro/css-optical-illusions-50-visual-illusions-built-with-pure-css-and-html-13o9)
-- [Building a RAG Inside Discord? Clyde Meets Claude!](https://dev.to/camb/building-a-rag-inside-discord-clyde-meets-claude-11pd)
-- [[POG-02] The Fragmentation Challenge in AI Development: Why Your Prompts Are Like Out-of-Control Lego Blocks?](https://dev.to/enjtorian/pog-02-the-fragmentation-challenge-in-ai-development-why-your-prompts-are-like-out-of-control-28hi)
-- [Build an Event Hub](https://dev.to/richardpascoe/build-an-event-hub-1ckl)
-- [create AI Image And Video On an &quot;Infinite Canvas&quot;](https://dev.to/christianhappygo/create-ai-image-and-video-on-an-infinite-canvas-4mjj)
+- [Agentic AI — From Workflows to Goal-Driven Systems](https://dev.to/sandeepsinghhub/agentic-ai-from-workflows-to-goal-driven-systems-423b)
+- [Autonomous DevOps AI Agent &lpar;FastAPI + Ollama&rpar;](https://dev.to/shailendra_khade_df763b45/autonomous-devops-ai-agent-fastapi-ollama-9ji)
+- [Sequelize ORM with MySQL Setup: Complete Guide to Production-Ready Database Management](https://dev.to/md_marufrahman_3552855e/sequelize-orm-with-mysql-setup-complete-guide-to-production-ready-database-management-4ok3)
+- [🌱 NLP for Beginners: Understanding the Basics of Natural Language Processing](https://dev.to/zeroshotanu/nlp-for-beginners-understanding-the-basics-of-natural-language-processing-4784)
+- [Serverless applications with Java and Aurora DSQL - Part 4 Understand DPUs in Explain Analyze Verbose](https://dev.to/aws-heroes/serverless-applications-with-java-and-aurora-dsql-part-4-understand-dpus-in-explain-analyze-4a5b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
