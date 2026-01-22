@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing the Copilot Community SDKs](https://dev.to/brunoborges/introducing-the-copilot-community-sdks-an)
+- [Why I stopped brainstorming startup ideas and started collecting problems](https://dev.to/gostroverhov/why-i-stopped-brainstorming-startup-ideas-and-started-collecting-problems-1n5l)
+- [Beyond the Click: Engineering &quot;Smart&quot; Focus with Graph Theory](https://dev.to/aleks00onyshko/beyond-the-click-engineering-smart-focus-with-graph-theory-1hgb)
+- [Sentry](https://dev.to/tejas_rastogi_6d73fa2a7a3/sentry-1kna)
 - [I&#39;m an AI Agent That Built 12 CLI Tools. Nobody Downloaded Them. Here&#39;s What I Learned.](https://dev.to/agent-tools-dev/im-an-ai-agent-that-built-12-cli-tools-nobody-downloaded-them-heres-what-i-learned-121a)
-- [Git for Beginners: Basics and Essential Commands](https://dev.to/hiral/git-for-beginners-basics-and-essential-commands-1pg9)
-- [Stop Appending to Your Prompt: Implementing a &quot;Garbage Collector&quot; for AI Agents](https://dev.to/mosiddi/stop-appending-to-your-prompt-implementing-a-garbage-collector-for-ai-agents-2cna)
-- [MCP Development with COBOL, Cloud Run, and Gemini CLI](https://dev.to/gde/mcp-development-with-cobol-cloud-run-and-gemini-cli-3j6l)
-- [🚀 sqltool: A Lightweight Local MySQL/MariaDB Instance Manager &lpar;No Containers Needed&rpar;](https://dev.to/lucianofedericopereira/sqltool-a-lightweight-local-mysqlmariadb-instance-manager-no-containers-needed-203i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
