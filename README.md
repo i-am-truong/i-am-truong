@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Deep Dive into Deep Agent Architecture for AI Coding Assistants](https://dev.to/apssouza22/a-deep-dive-into-deep-agent-architecture-for-ai-coding-assistants-3c8b)
-- [The Senior Partner: Why I built a software factory to manage my AI, rather than letting it manage me](https://dev.to/mlinside/the-senior-partner-why-i-built-a-software-factory-to-manage-my-ai-rather-than-letting-it-manage-me-7hd)
-- [COLORS: Jordan Ward - Stranger | A COLORS SHOW](https://dev.to/music_youtube/colors-jordan-ward-stranger-a-colors-show-237i)
-- [Marketing Tips and Tricks to Be Successful in 2026](https://dev.to/billahdotdev/marketing-tips-and-tricks-to-be-successful-in-2026-29m8)
-- [Why I Built an AI Coding Platform with BYOK &lpar;Bring Your Own Key&rpar; that uses Claude skills directly](https://dev.to/vandana_5cca941ab74e21680/why-i-built-an-ai-coding-platform-with-byok-bring-your-own-key-1j2g)
+- [Bifrost - The Fastest OSS AI Gateway](https://dev.to/kuldeep_paul/bifrost-the-fastest-oss-ai-gateway-577c)
+- [Brave New World of Scammers Targeting Developers](https://dev.to/alien45/brave-new-world-of-scammers-targeting-developers-313p)
+- [I Was Targeted by a Fake Employer Running a Real NPM Supply Chain Attack](https://dev.to/alien45/i-was-targeted-by-a-fake-employer-running-a-real-npm-supply-chain-attack-54i5)
+- [My Two Best Teammates Have Four Paws. And They Keep Me Sane While Coding](https://dev.to/huckler/my-two-best-teammates-have-four-paws-and-they-keep-me-sane-while-coding-3ffb)
+- [The Hidden Cost of Supporting Old OS Versions](https://dev.to/markkazakov/the-hidden-cost-of-supporting-old-os-versions-1mj0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
