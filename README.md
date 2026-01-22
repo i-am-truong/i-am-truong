@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Dealing With Mixed Measurement Units in Data and Documentation](https://dev.to/_15dcbc74dac0c5c26421/dealing-with-mixed-measurement-units-in-data-and-documentation-3gmd)
+- [The Complete Guide to Publishing Your First Rust Crate to crates.io](https://dev.to/ajitkumar/the-complete-guide-to-publishing-your-first-rust-crate-to-cratesio-14pg)
+- [From Workflows to Autonomous Agents: How AI Agents Actually Work](https://dev.to/jefreesujit/from-workflows-to-autonomous-agents-how-ai-agents-actually-work-4nlp)
 - [How Developers Test 2FA Without Installing Authenticator Apps](https://dev.to/auth2fa/how-developers-test-2fa-without-installing-authenticator-apps-37nl)
 - [Unlocking CSS Houdini: Paint and Layout APIs](https://dev.to/sharique_siddiqui_8242dad/unlocking-css-houdini-paint-and-layout-apis-32a)
-- [The Silent Profit Killer: Why High Cognitive Load is Harming Your Software Development](https://dev.to/leonpennings/the-silent-profit-killer-why-high-cognitive-load-is-harming-your-software-development-11bf)
-- [Building DeepCleaner: An Open Source Windows Cleanup Utility That Actually Respects Your System](https://dev.to/isubroto/building-deepcleaner-an-open-source-windows-cleanup-utility-that-actually-respects-your-system-4bhn)
-- [Pipes vs. Predictions: Drawing the Line Between Data Engineering and AI Engineering](https://dev.to/shubhojeet2001/pipes-vs-predictions-drawing-the-line-between-data-engineering-and-ai-engineering-187m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
