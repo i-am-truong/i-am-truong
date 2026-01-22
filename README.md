@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [go-infrastructure-with-crossview](https://dev.to/wvanheemstra/go-infrastructure-with-crossview-23ce)
-- [Deadlines Are Hard – Why &quot;Submit by June 5th&quot; Is Broken](https://dev.to/bwi/deadlines-are-hard-why-submit-by-june-5th-is-broken-1gl4)
-- [The 7 Types of Time Every Developer Must Know](https://dev.to/bwi/the-7-types-of-time-every-developer-must-know-1lo7)
-- [Building &quot;Smrti&quot; - A Compile-to-Assembly Language based on Panini&#39;s Grammar. Seeking Feedback!](https://dev.to/revanth_nemtoor_0ee900112/building-smrti-a-compile-to-assembly-language-based-on-paninis-grammar-seeking-feedback-1g9d)
-- [A Correspondence Match](https://dev.to/andreik/a-correspondence-match-2op1)
+- [Introducing an AI Skill for Vite + React Best Practices](https://dev.to/claudio_ceballospaz_97d5/introducing-an-ai-skill-for-vite-react-best-practices-9l3)
+- [Enforcing React Hook Form Best Practices with Custom Biome Rules](https://dev.to/kcsujeet/enforcing-react-hook-form-best-practices-with-custom-biome-rules-4pbm)
+- [Congrats to the Winners of the &quot;Worldwide Show and Tell Challenge&quot; Presented by Mux!](https://dev.to/devteam/congrats-to-the-winners-of-the-worldwide-show-and-tell-challenge-presented-by-mux-10o9)
+- [Building WSL-UI: The Polish Phase and Privacy-First Analytics](https://dev.to/octasoft-ltd/building-wsl-ui-the-polish-phase-and-privacy-first-analytics-31a2)
+- [Writing Terraform Resources with Write-Only Parameters](https://dev.to/drewmullen/writing-terraform-resources-with-write-only-parameters-570j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
