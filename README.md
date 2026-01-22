@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Evolution of Asynchronous JavaScript](https://dev.to/pckalyan/evolution-of-asynchronous-javascript-1ca3)
-- [OSI Layer 9—The Council: Governance, Power, and the Politics of Security](https://dev.to/narnaiezzsshaa/osi-layer-9-the-council-governance-power-and-the-politics-of-security-1ph7)
-- [How Computed Values Really Work: Lazy Evaluation in a Reactive Graph](https://dev.to/luciano0322/how-computed-values-really-work-lazy-evaluation-in-a-reactive-graph-2mjp)
-- [Optimizing for Agents: The End of the Ten Blue Links](https://dev.to/ninadpathak/optimizing-for-agents-the-end-of-the-ten-blue-links-eae)
-- [Storytelling is a Lossless Compression Algorithm for Sales](https://dev.to/ninadpathak/storytelling-is-a-lossless-compression-algorithm-for-sales-2pg1)
+- [Hashicorp Vault: TOTP Secrets Engine](https://dev.to/admantium/hashicorp-vault-totp-secrets-engine-1lp3)
+- [I Built My Own Auth Server Instead of Reusing Firebase — Here’s What I Learned](https://dev.to/mspk5196/testing-my-authserver-53m7)
+- [The rfc Snippet That Wouldn’t Work — And What I Learned](https://dev.to/usama_dev/the-rfc-snippet-that-wouldnt-work-and-what-i-learned-2p13)
+- [Learning vs. Knowing: Why UAVs Still Need State Estimation](https://dev.to/asikarastallion/learning-vs-knowing-why-uavs-still-need-state-estimation-1joo)
+- [DOM in JavaScript](https://dev.to/harini_magesh_fa40041cf8d/dom-in-javascript-4e4d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
