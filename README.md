@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Lakehouse? More Like a Lake + Warehouse Parking Lot](https://dev.to/esproc_spl/lakehouse-more-like-a-lake-warehouse-parking-lot-4hfg)
-- [Stopping Hidden Threats: AI Safety in PDF Processing](https://dev.to/katash/stopping-hidden-threats-ai-safety-in-pdf-processing-4l8c)
-- [My attempt on Cloud Resume Challenge in 2026 &lpar;Part 2&rpar;](https://dev.to/urmajesty516/my-attempt-on-cloud-resume-challenge-in-2026-part-2-5ek9)
-- [Describe Methods To Evaluate Foundation Model Performance](https://dev.to/aws-builders/describe-methods-to-evaluate-foundation-model-performance-1chb)
-- [AI Is No Longer a Tool, It’s an Architectural Layer!](https://dev.to/joshinii/ai-is-no-longer-a-tool-its-an-architectural-layer-7g2)
+- [How Developers Test 2FA Without Installing Authenticator Apps](https://dev.to/auth2fa/how-developers-test-2fa-without-installing-authenticator-apps-37nl)
+- [Unlocking CSS Houdini: Paint and Layout APIs](https://dev.to/sharique_siddiqui_8242dad/unlocking-css-houdini-paint-and-layout-apis-32a)
+- [The Silent Profit Killer: Why High Cognitive Load is Harming Your Software Development](https://dev.to/leonpennings/the-silent-profit-killer-why-high-cognitive-load-is-harming-your-software-development-11bf)
+- [Building DeepCleaner: An Open Source Windows Cleanup Utility That Actually Respects Your System](https://dev.to/isubroto/building-deepcleaner-an-open-source-windows-cleanup-utility-that-actually-respects-your-system-4bhn)
+- [Pipes vs. Predictions: Drawing the Line Between Data Engineering and AI Engineering](https://dev.to/shubhojeet2001/pipes-vs-predictions-drawing-the-line-between-data-engineering-and-ai-engineering-187m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
