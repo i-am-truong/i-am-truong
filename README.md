@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why I Stopped Debugging AI Code: The Case for Roguelite Development](https://dev.to/alex_rakitin/why-i-stopped-debugging-ai-code-the-case-for-roguelite-development-5065)
-- [Emergent systems in games](https://dev.to/razelbert/emergent-systems-in-games-50lp)
-- [Building a Production-Ready ECS Pipeline: What I Learned Splitting Infrastructure into Layer](https://dev.to/elsadevops/building-a-production-ready-ecs-pipeline-what-i-learned-splitting-infrastructure-into-layer-514)
-- [How to Add Video to Your Astro Site with ImageKit](https://dev.to/ukmadlz/how-to-add-video-to-your-astro-site-with-imagekit-1p3m)
-- [Flutter Flavors en producción: Guía completa para proyectos multicliente en Android e iOS](https://dev.to/david_gonzalez_ini/flutter-flavors-en-produccion-guia-completa-para-proyectos-multicliente-en-android-e-ios-jfh)
+- [filter3](https://dev.to/query_filter_591122b53770/filter3-1ige)
+- [Operation Quantum Leap: Mastering Git History and Log Management for the Time-Traveling Developer](https://dev.to/labex/operation-quantum-leap-mastering-git-history-and-log-management-for-the-time-traveling-developer-j2a)
+- [Understanding AWS EC2: Workflow, Terminologies, and Cloud Computing Basics](https://dev.to/khadija_sajid_e6b71719ff7/understanding-aws-ec2-workflow-terminologies-and-cloud-computing-basics-5b2d)
+- [I Built a P2P Blockchain in Rust — Here’s What Actually Went Wrong](https://dev.to/sandeep_sarkar_48188c8362/i-built-a-p2p-blockchain-in-rust-heres-what-actually-went-wrong-4oi)
+- [PyLadies Dublin x Go Ireland - Cat from Scratch](https://dev.to/pyladiesdub/pyladies-dublin-x-go-ireland-cat-from-scratch-2n6j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
