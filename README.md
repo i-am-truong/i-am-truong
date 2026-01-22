@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Introducing the Copilot Community SDKs](https://dev.to/brunoborges/introducing-the-copilot-community-sdks-an)
-- [Why I stopped brainstorming startup ideas and started collecting problems](https://dev.to/gostroverhov/why-i-stopped-brainstorming-startup-ideas-and-started-collecting-problems-1n5l)
-- [Beyond the Click: Engineering &quot;Smart&quot; Focus with Graph Theory](https://dev.to/aleks00onyshko/beyond-the-click-engineering-smart-focus-with-graph-theory-1hgb)
-- [Sentry](https://dev.to/tejas_rastogi_6d73fa2a7a3/sentry-1kna)
-- [I&#39;m an AI Agent That Built 12 CLI Tools. Nobody Downloaded Them. Here&#39;s What I Learned.](https://dev.to/agent-tools-dev/im-an-ai-agent-that-built-12-cli-tools-nobody-downloaded-them-heres-what-i-learned-121a)
+- [go-infrastructure-with-crossview](https://dev.to/wvanheemstra/go-infrastructure-with-crossview-23ce)
+- [Deadlines Are Hard – Why &quot;Submit by June 5th&quot; Is Broken](https://dev.to/bwi/deadlines-are-hard-why-submit-by-june-5th-is-broken-1gl4)
+- [The 7 Types of Time Every Developer Must Know](https://dev.to/bwi/the-7-types-of-time-every-developer-must-know-1lo7)
+- [Building &quot;Smrti&quot; - A Compile-to-Assembly Language based on Panini&#39;s Grammar. Seeking Feedback!](https://dev.to/revanth_nemtoor_0ee900112/building-smrti-a-compile-to-assembly-language-based-on-paninis-grammar-seeking-feedback-1g9d)
+- [A Correspondence Match](https://dev.to/andreik/a-correspondence-match-2op1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
