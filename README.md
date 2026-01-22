@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Bring MCP Apps into your OWN app with CopilotKit &amp; AG-UI](https://dev.to/copilotkit/bring-mcp-apps-into-your-own-app-with-copilotkit-ag-ui-258h)
-- [SwiftUIFlow: Type-Safe Coordinator Navigation for SwiftUI](https://dev.to/ioannis_platsis_b07339508/swiftuiflow-type-safe-coordinator-navigation-for-swiftui-1a8f)
-- [Building a PTA Tax Calculator with Next.js 16 &amp; React 19](https://dev.to/_75729aa6b13e505e279f7/building-a-pta-tax-calculator-with-nextjs-16-react-19-59lj)
-- [From Photography to Cinema, From AI to Synthia the 11th Major Art Form by Adel Abdel-Dayem](https://dev.to/adel_dayem/from-photography-to-cinema-from-ai-to-synthia-the-11th-art-by-adel-abdel-dayem-d8j)
-- [Software engineering is an interwoven part of the loop](https://dev.to/shaman-apprentice/software-engineering-is-an-interwoven-part-of-the-loop-2hge)
+- [CSS Optical Illusions: 50+ Visual Illusions Built with Pure CSS and HTML](https://dev.to/alvaromontoro/css-optical-illusions-50-visual-illusions-built-with-pure-css-and-html-13o9)
+- [Building a RAG Inside Discord? Clyde Meets Claude!](https://dev.to/camb/building-a-rag-inside-discord-clyde-meets-claude-11pd)
+- [[POG-02] The Fragmentation Challenge in AI Development: Why Your Prompts Are Like Out-of-Control Lego Blocks?](https://dev.to/enjtorian/pog-02-the-fragmentation-challenge-in-ai-development-why-your-prompts-are-like-out-of-control-28hi)
+- [Build an Event Hub](https://dev.to/richardpascoe/build-an-event-hub-1ckl)
+- [create AI Image And Video On an &quot;Infinite Canvas&quot;](https://dev.to/christianhappygo/create-ai-image-and-video-on-an-infinite-canvas-4mjj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
