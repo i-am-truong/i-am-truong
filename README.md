@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [filter3](https://dev.to/query_filter_591122b53770/filter3-1ige)
-- [Operation Quantum Leap: Mastering Git History and Log Management for the Time-Traveling Developer](https://dev.to/labex/operation-quantum-leap-mastering-git-history-and-log-management-for-the-time-traveling-developer-j2a)
-- [Understanding AWS EC2: Workflow, Terminologies, and Cloud Computing Basics](https://dev.to/khadija_sajid_e6b71719ff7/understanding-aws-ec2-workflow-terminologies-and-cloud-computing-basics-5b2d)
-- [I Built a P2P Blockchain in Rust — Here’s What Actually Went Wrong](https://dev.to/sandeep_sarkar_48188c8362/i-built-a-p2p-blockchain-in-rust-heres-what-actually-went-wrong-4oi)
-- [PyLadies Dublin x Go Ireland - Cat from Scratch](https://dev.to/pyladiesdub/pyladies-dublin-x-go-ireland-cat-from-scratch-2n6j)
+- [How We Built Roly Poly at NexHacks Using DevSwarm and Parallel AI](https://dev.to/gt12889/how-we-built-roly-poly-at-nexhacks-using-devswarm-and-parallel-ai-571o)
+- [Build a Scalable Multi-Agent RAG System with A2A Protocol, Oracle AI Database and LangChain](https://dev.to/oracledevs/build-a-scalable-multi-agent-rag-system-with-a2a-protocol-oracle-ai-database-and-langchain-19c6)
+- [Exploring the Intersection of Music and Technology: How Sound Shapes Our Digital Lives](https://dev.to/woution/exploring-the-intersection-of-music-and-technology-how-sound-shapes-our-digital-lives-2foi)
+- [Keeping Your VitePress Screenshots From Going Stale](https://dev.to/omachala/keeping-your-vitepress-screenshots-from-going-stale-477e)
+- [Uptime Monitoring Won&#39;t Save You: A Guide to API-Based Auth Flow Monitoring](https://dev.to/lideroocom/uptime-monitoring-wont-save-you-a-guide-to-api-based-auth-flow-monitoring-2k46)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
