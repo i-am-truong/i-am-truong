@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [94% of CEOs Are All-In on AI — What That Really Signals](https://dev.to/aiwithapex/94-of-ceos-are-all-in-on-ai-what-that-really-signals-4bic)
-- [🚀 I built a Free, Open World Time API &lpar;No API Keys, CORS Enabled&rpar;](https://dev.to/time-now-api/i-built-a-free-open-world-time-api-no-api-keys-cors-enabled-5en)
-- [Do AI assistants reduce cognitive load — or accumulate cognitive debt?](https://dev.to/deltax/do-ai-assistants-reduce-cognitive-load-or-accumulate-cognitive-debt-1odg)
-- [Ollama + FastAPI API, Building My Own AI API Using Ollama and FastAPI on a Linux VM](https://dev.to/shailendra_khade_df763b45/ollama-fastapi-api-building-my-own-ai-api-using-ollama-and-fastapi-on-a-linux-vm-5a40)
-- [Beyond Surrogate Pairs: Hidden Pitfalls in JS Character Counting with PHP/MySQL](https://dev.to/usapopopooon/beyond-surrogate-pairs-hidden-pitfalls-in-js-character-counting-with-phpmysql-1pj7)
+- [Making TodoMVC work with dwayne/elm2nix](https://dev.to/dwayne/making-todomvc-work-with-dwayneelm2nix-5dal)
+- [Why Version Control Exists](https://dev.to/hiral/why-version-control-exists-1dpe)
+- [Optimizing Persistent Storage with State Deltas](https://dev.to/galadd/optimizing-persistent-storage-with-state-deltas-4emp)
+- [Best TypeScript Backend Frameworks in 2026](https://dev.to/andout/best-typescript-backend-frameworks-in-2026-2omd)
+- [How Verification vs Validation Fit Into CI/CD Pipelines?](https://dev.to/sophielane/how-verification-vs-validation-fit-into-cicd-pipelines-424i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
