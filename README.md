@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mahdi Shamlou | Solving LeetCode #2: Add Two Numbers — The Classic Linked List Addition](https://dev.to/mahdi0shamlou/mahdi-shamlou-solving-leetcode-2-add-two-numbers-the-classic-linked-list-addition-5g7c)
-- [Construí um Agentic CLI Tool com IA usando o Copilot SDK — Conheça o Repo Doctor!](https://dev.to/glaucia86/github-copilot-sdk-construindo-aplicacoes-agenticas-com-ia-na-pratica-com-repo-doctor-25a6)
-- [The ACCURACY- INFERENCE - MEMORY Triangle in ML Systems](https://dev.to/jashwanth_thatipamula_8ee/the-accuracy-inference-memory-triangle-in-ml-systems-a12)
-- [Transactional Outbox with RabbitMQ &lpar;Part 2&rpar;: Handling Retries, Dead-Letter Queues, and Observability](https://dev.to/sagarmaheshwary/transactional-outbox-with-rabbitmq-part-2-handling-retries-dead-letter-queues-and-observability-4h19)
-- [Container With Most Water — Beginner Two Pointer Breakdown &lpar;That “Ohhh” Moment&rpar;](https://dev.to/nithya_dharshiniofficial/container-with-most-water-beginner-two-pointer-breakdown-that-ohhh-moment-3pgm)
+- [Introduction to MS Excel for data analytics](https://dev.to/murimikelvin/introduction-to-ms-excel-for-data-analytics-2n1f)
+- [Building a Client-Side PDF Compressor using JavaScript and Web Workers](https://dev.to/ahmad_shakibnasaj_a8f9bb/building-a-client-side-pdf-compressor-using-javascript-and-web-workers-4dmm)
+- [How I Built an End-to-End Encrypted File Sharing App with Flask and ChaCha20 in 30 Days](https://dev.to/aayushbankar/how-i-built-an-end-to-end-encrypted-file-sharing-app-with-flask-and-chacha20-in-30-days-9k8)
+- [Macbook Pro M5 Setup](https://dev.to/konabuta/macbook-pro-m5-setup-4ogg)
+- [Setting Up Environment Variables in Vite React Project - and - Important Things to Know About Using Environment Variables](https://dev.to/edriso/setting-up-environment-variables-in-vite-react-project-and-important-things-to-know-about-using-57c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
