@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Claude Code Hooks: Why Your AI Forgets Everything &lpar;5-Min Fix&rpar;](https://dev.to/kiwibreaksme/claude-code-hooks-why-your-ai-forgets-everything-5-min-fix-17j8)
+- [When did “simple tools” become so complicated?](https://dev.to/bhavin-allinonetools/when-did-simple-tools-become-so-complicated-5bid)
+- [AI Coding and the Case for Strong Languages](https://dev.to/ben-santora/ai-coding-and-the-case-for-strong-languages-4cm1)
 - [Why digital signatures break on structured healthcare data](https://dev.to/vincentxplore/why-digital-signatures-break-on-structured-healthcare-data-4if9)
 - [I Don&#39;t Write Code Anymore. My Income Tripled. Here&#39;s the System Behind It.](https://dev.to/okoloboga/i-dont-write-code-anymore-my-income-tripled-heres-the-system-behind-it-bkh)
-- [Stop Drowning in Context Switching: Why I Built an AI That &quot;Talks&quot; to My Jira, Codebase, and Docs](https://dev.to/sujit_kumar_bindhani/stop-drowning-in-context-switching-why-i-built-an-ai-that-talks-to-my-jira-codebase-and-docs-2nk)
-- [How I Stopped Fighting Text-in-Image and Started Shipping Designs](https://dev.to/kaushik_pandav_aiml/how-i-stopped-fighting-text-in-image-and-started-shipping-designs-2ao9)
-- [🔔 Bloom update I added a tiny update‑notification system to Bloom](https://dev.to/codebunny20/bloom-update-i-added-a-tiny-update-notification-system-to-bloom-8mn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
