@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Secret Life of Python: The Trap of Parallel Lists](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-trap-of-parallel-lists-4270)
-- [Time-Travel Debugging for Python: A Complete Tutorial](https://dev.to/ujwal240/-time-travel-debugging-for-python-a-complete-tutorial-1dip)
-- [Simplify GIF Handling in iOS with SwiftyGIF](https://dev.to/hazel-daniel/simplify-gif-handling-in-ios-with-swiftygif-58n3)
-- [GoReplay vs. Softprobe: Why Regression Testing Needs Service Virtualization](https://dev.to/dev0ps_love/goreplay-vs-softprobe-why-regression-testing-needs-service-virtualization-3gdo)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4ig9)
+- [I Built a Free Article-to-Audio Converter!](https://dev.to/digitalwareshub/i-built-a-free-article-to-audio-converter-50ad)
+- [코딩 잘하는 사람, 바이브코딩 잘하는 사람 다르다](https://dev.to/kiwibreaksme/koding-jalhaneun-saram-baibeukoding-jalhaneun-saram-yeongu-gyeolgwaga-jeungmyeong-47f3)
+- [Intelligence is abundant now. What’s rare is AI that fits the real world.](https://dev.to/jaideepparashar/intelligence-is-abundant-now-whats-rare-is-ai-that-fits-the-real-world-114d)
+- [How to Design AI Systems That Actually Solve Problems](https://dev.to/jaideepparashar/how-to-design-ai-systems-that-actually-solve-problems-107o)
+- [The Architecture of Excellence: A Comprehensive Guide to Business Simulations for High-Performing Teams](https://dev.to/simulationstrategist223/the-architecture-of-excellence-a-comprehensive-guide-to-business-simulations-for-high-performing-43gh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
