@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes](https://dev.to/_898301e197bdb531b6bd0/kubernetes-4e1)
-- [Build Live search Input with API fetching &amp; cancelling using JavaScript](https://dev.to/pckalyan/building-a-search-input-with-api-request-cancellation-using-javascript-51g4)
-- [Usando Remote Config Modular no React Native &lpar;v23.x.x&rpar;](https://dev.to/foodiehoodie/implementando-remote-config-modular-no-react-native-v23xx-1fig)
-- [I created my first NPM CLI package &lpar;for VueJS&rpar; Projects](https://dev.to/berpgr/i-created-my-first-npm-cli-package-for-vuejs-projects-cpj)
-- [Self-Hosted Observability: $20/month vs $800/month](https://dev.to/polliog/self-hosted-observability-20month-vs-800month-1oi7)
+- [Getting serious about FastAPI? Here&#39;s what I&#39;ve learned.](https://dev.to/frank-895/getting-serious-about-fastapi-heres-what-ive-learned-1l4o)
+- [🚀 How Uber, Swiggy &amp; Zomato Find the Nearest Delivery Agent in Real Time](https://dev.to/umesh_kushwaha_6655ba4c0d/how-uber-swiggy-zomato-find-the-nearest-delivery-agent-in-real-time-2jgi)
+- [CNPJ Alfanumérico: Implemente a validação do novo CNPJ em seu projeto](https://dev.to/valdeirpsr/cnpj-alfanumerico-implemente-a-validacao-do-novo-cnpj-em-seu-projeto-25hg)
+- [Stacking up Graphite in the World of Code Review Tools](https://dev.to/heraldofsolace/stacking-up-graphite-in-the-world-of-code-review-tools-5fbn)
+- [Your node_modules Folder Is a Security Nightmare](https://dev.to/polliog/your-nodemodules-folder-is-a-security-nightmare-2okb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
