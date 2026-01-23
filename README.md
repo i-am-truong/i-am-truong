@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Scaling with AI Isn&#39;t About Speed. It&#39;s About Externalizing Judgment](https://dev.to/synthaicode_commander/scaling-with-ai-isnt-about-speed-its-about-externalizing-judgment-3ocg)
-- [50% Faster Code, 0% Better Understanding: The Comprehension Debt Crisis](https://dev.to/thesystemistsimon/50-faster-code-0-better-understanding-the-comprehension-debt-crisis-2eap)
-- [Claude Code Hooks 완벽 가이드: AI가 맨날 까먹는 이유와 해결법](https://dev.to/kiwibreaksme/claude-code-hooks-wanbyeog-gaideu-aiga-maennal-ggameogneun-iyuwa-haegyeolbeob-4n03)
-- [Building QuantTrade AI: Where Wall Street Meets Machine Learning](https://dev.to/yashjoshi2109/building-quanttrade-ai-where-wall-street-meets-machine-learning-464p)
-- [Understanding the ABI by Observation](https://dev.to/amanprasad/understanding-the-abi-by-observation-5865)
+- [The Secret Life of Python: The Trap of Parallel Lists](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-trap-of-parallel-lists-4270)
+- [Time-Travel Debugging for Python: A Complete Tutorial](https://dev.to/ujwal240/-time-travel-debugging-for-python-a-complete-tutorial-1dip)
+- [Simplify GIF Handling in iOS with SwiftyGIF](https://dev.to/hazel-daniel/simplify-gif-handling-in-ios-with-swiftygif-58n3)
+- [GoReplay vs. Softprobe: Why Regression Testing Needs Service Virtualization](https://dev.to/dev0ps_love/goreplay-vs-softprobe-why-regression-testing-needs-service-virtualization-3gdo)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4ig9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
