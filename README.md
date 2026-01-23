@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Linux Learning Journey – Day 10: User &amp; Group Management in Linux 🐧🔐](https://dev.to/avinashwagh/linux-learning-journey-day-10-user-group-management-in-linux-pn1)
-- [A Lightning-Fast ngrok Alternative in Go](https://dev.to/devshark/a-lightning-fast-ngrok-alternative-in-go-35mc)
-- [I Used Claude Code to Write a Legal Appeal for My Mother&#39;s Disability Benefits](https://dev.to/nunc/i-used-claude-code-to-write-a-legal-appeal-for-my-mothers-disability-benefits-40f4)
-- [Implementing Tell and Ask in Trupe — Actor Model library in .NET](https://dev.to/actor-dev/implementing-tell-and-ask-in-trupe-actor-model-library-in-net-1e4e)
-- [From 2000 Lines of Spaghetti to Clean Architecture: The Rebirth of DotShare](https://dev.to/freerave/from-2000-lines-of-spaghetti-to-clean-architecture-the-rebirth-of-dotshare-35ec)
+- [Devlog-OSS-Finder-02: First Deployment Done](https://dev.to/barbora_klusackova/devlog-oss-finder-02-first-deployment-done-48bp)
+- [Debugging Network Issues in Go: Practical Techniques for Developers](https://dev.to/jones_charles_ad50858dbc0/debugging-network-issues-in-go-practical-techniques-for-developers-2emp)
+- [New on Trendshift: Stats Page for Open-Source Language Trends](https://dev.to/liweiyi88/new-on-trendshift-stats-page-for-open-source-language-trends-3ff7)
+- [Integrating Claude AI Into Your WordPress Plugins](https://dev.to/el_condorito_54d80b88eb90/integrating-claude-ai-into-your-wordpress-plugins-4omk)
+- [secure calculator vault](https://dev.to/patel_4ad1dbb5f279fff28b3/secure-calculator-vault-251)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
