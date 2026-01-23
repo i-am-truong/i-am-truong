@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Write Agents in Rust — Run Them Locally on Android](https://dev.to/saivishwak/write-agents-in-rust-run-them-locally-on-android-4c4)
+- [Understanding CRFEntityExtractor: Learning Entities from Context](https://dev.to/aniket_kuyate_15acc4e6587/understanding-crfentityextractor-learning-entities-from-context-2jp4)
 - [Getting serious about FastAPI? Here&#39;s what I&#39;ve learned.](https://dev.to/frank-895/getting-serious-about-fastapi-heres-what-ive-learned-1l4o)
 - [🚀 How Uber, Swiggy &amp; Zomato Find the Nearest Delivery Agent in Real Time](https://dev.to/umesh_kushwaha_6655ba4c0d/how-uber-swiggy-zomato-find-the-nearest-delivery-agent-in-real-time-2jgi)
 - [CNPJ Alfanumérico: Implemente a validação do novo CNPJ em seu projeto](https://dev.to/valdeirpsr/cnpj-alfanumerico-implemente-a-validacao-do-novo-cnpj-em-seu-projeto-25hg)
-- [Stacking up Graphite in the World of Code Review Tools](https://dev.to/heraldofsolace/stacking-up-graphite-in-the-world-of-code-review-tools-5fbn)
-- [Your node_modules Folder Is a Security Nightmare](https://dev.to/polliog/your-nodemodules-folder-is-a-security-nightmare-2okb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
