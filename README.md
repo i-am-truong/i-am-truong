@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Production-Ready AI Security Foundation](https://dev.to/googleai/building-a-production-ready-ai-security-foundation-2234)
-- [The best way to do agentic development in 2026](https://dev.to/chand1012/the-best-way-to-do-agentic-development-in-2026-14mn)
-- [I Stopped Building Features, All at Once](https://dev.to/sajithpj/i-stopped-building-features-all-at-once-333l)
-- [[Memoria] Almacenamiento de Class y Struct](https://dev.to/david_goyes_a488f58a17a53/memoria-almacenamiento-de-class-y-struct-58j7)
-- [Write Dynamic GitLab pipelines in TypeScript](https://dev.to/sleeyax/write-dynamic-gitlab-pipelines-in-typescript-3ake)
+- [Building a $12/Month AI Chatbot That Rivals $500/Month Solutions](https://dev.to/dineshelumalai/building-a-12month-ai-chatbot-that-rivals-500month-solutions-5fbl)
+- [Data Analyst Guide: Mastering Business English for Non-Native Data Analysts](https://dev.to/amal_org_e8fe019c45517244/data-analyst-guide-mastering-business-english-for-non-native-data-analysts-4lpe)
+- [How I Built Persistent Memory for AI Using TypeScript and Markdown](https://dev.to/rmarsigli/how-i-built-persistent-memory-for-ai-using-typescript-and-markdown-4pkk)
+- [My &quot;New Year, New Me&quot; Portfolio](https://dev.to/izaytseva/my-new-year-new-me-portfolio-466g)
+- [Complete Guide: Let&#39;s Encrypt SSL with cert-manager and Hetzner DNS on Kubernetes](https://dev.to/giveitatry/complete-guide-lets-encrypt-ssl-with-cert-manager-and-hetzner-dns-on-kubernetes-5be8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
