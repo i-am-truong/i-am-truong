@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Giving my droid a personality with ESP32 and Arduino Modulino sensors](https://dev.to/sigje/giving-my-droid-a-personality-with-esp32-and-arduino-modulinos-5c0p)
-- [Google Antigravity vs GitHub Copilot: Why I&#39;m Team Antigravity Now 💡](https://dev.to/this-is-learning/google-antigravity-vs-github-copilot-why-im-team-antigravity-now-fco)
-- [A dev-first approach to managing multilingual content without rebuilding backends](https://dev.to/fabrice_grenouillet_c10f1/a-dev-first-approach-to-managing-multilingual-content-without-rebuilding-backends-1eof)
-- [MariaDB backup 10 best practices — Essential strategies for MariaDB backup and recovery](https://dev.to/piteradyson/mariadb-backup-10-best-practices-essential-strategies-for-mariadb-backup-and-recovery-dpo)
-- [Basic Asynchronous JavaScript](https://dev.to/pckalyan/basic-asynchronous-javascript-4i92)
+- [🚀 Deploying a Static Website on Nginx &lpar;Beginner DevOps Project&rpar;](https://dev.to/tufail_mohammed_822ce7383/deploying-a-static-website-on-nginx-beginner-devops-project-4gcf)
+- [I’m a Newbie](https://dev.to/jeff_af273bf00406f8930e2d/im-a-newbie-5e7h)
+- [How Rule Engines Transform Business Agility and Code Simplicity](https://dev.to/capestart/how-rule-engines-transform-business-agility-and-code-simplicity-54gk)
+- [Konečne CZ/SK Linux komunita bez elitárstva a „RTFM“ – Pridaj sa na Revolt a Matrix!](https://dev.to/jakub-bites/konecne-czsk-linux-komunita-bez-elitarstva-a-rtfm-pridaj-sa-na-revolt-a-matrix-kga)
+- [Explain The Development Of AI Systems That Are Responsible](https://dev.to/aws-builders/explain-the-development-of-ai-systems-that-are-responsible-2ggl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
