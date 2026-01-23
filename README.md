@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Pressure-Tested My AI Skills at Work](https://dev.to/jamespatterson25/how-i-pressure-tested-my-ai-skills-at-work-mpb)
-- [CVE-2026-24009: YAML Deserialization: The Gift That Keeps on Giving in Docling-Core](https://dev.to/cverports/cve-2026-24009-yaml-deserialization-the-gift-that-keeps-on-giving-in-docling-core-1don)
-- [AI &amp; Automation 2025 Yearly Wrap-Up](https://dev.to/playtomic/ai-automation-2025-yearly-wrap-up-4ckl)
-- [The Best of Both Worlds: Merging IBM’s Project Bob with Ollama’s Image Ecosystem](https://dev.to/aairom/the-best-of-both-worlds-merging-ibms-project-bob-with-ollamas-image-ecosystem-5hkm)
-- [My New Year Portfolio Challenge!](https://dev.to/louis7/my-new-year-portfolio-challenge-g18)
+- [TCP vs UDP: When to Use What, and How TCP Relates to HTTP](https://dev.to/ritam369/tcp-vs-udp-when-to-use-what-and-how-tcp-relates-to-http-4144)
+- [🖥️ My OS Has a Framebuffer Now &lpar;But It’s Broken and I’m Not Allowed to Touch It&rpar;](https://dev.to/arush179/my-os-has-a-framebuffer-now-but-its-broken-and-im-not-allowed-to-touch-it-577c)
+- [Power of &quot;Data-Driven Architecture&quot; applies to game development as well](https://dev.to/tomokat/power-of-data-driven-architecture-applies-to-game-development-as-well-6m0)
+- [Building APIs with Flask: What They Are and What They’re Used For](https://dev.to/jasec7/building-apis-with-flask-what-they-are-and-what-theyre-used-for-1lm3)
+- [Find Product Variants](https://dev.to/mms-tech/find-product-variants-5043)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
