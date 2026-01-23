@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[GCD] Cancelando un DispatchWorkItem](https://dev.to/david_goyes_a488f58a17a53/gcd-cancelando-un-dispatchworkitem-4j5e)
-- [Why Server Components Are the Secret Weapon for Generative UI](https://dev.to/programmingcentral/why-server-components-are-the-secret-weapon-for-generative-ui-5bj1)
-- [From Gridsome to Astro: Rebuilding My Personal Site for the Next Phase](https://dev.to/lewiskori/from-gridsome-to-astro-rebuilding-my-personal-site-for-the-next-phase-1a24)
-- [This Open-Source Pipeline Transforms Any Podcast into AI-Ready Transcripts with Speaker Diarization &lpar;MIT License&rpar;](https://dev.to/badmonster0/this-open-source-pipeline-transforms-any-podcast-into-ai-ready-transcripts-with-speaker-diarization-3n1n)
-- [PostgreSQL Didn’t Fail at Scale -My Architecture Assumptions Did](https://dev.to/gaurav_talesara/postgresql-didnt-fail-at-scale-my-architecture-assumptions-did-25n0)
+- [Data Analyst Guide: Mastering Neural Networks: When Analysts Should Use Deep Learning](https://dev.to/amal_org_e8fe019c45517244/data-analyst-guide-mastering-neural-networks-when-analysts-should-use-deep-learning-32ib)
+- [Vim for DevOps: Practical Editing Techniques for Remote Operations](https://dev.to/alaxay8/vim-for-devops-practical-editing-techniques-for-remote-operations-50fm)
+- [🤖 AI DevOps Debugger — Turning Production Logs into Actionable Insights with Copilot CLI](https://dev.to/darshanraval/ai-devops-debugger-turning-production-logs-into-actionable-insights-with-copilot-cli-1hlb)
+- [Chat Frame](https://dev.to/doudev_doudec_932f2856baa/chat-frame-lc7)
+- [Your App Worked Perfectly… Until the OS Killed It](https://dev.to/alamin_karno_b096f2ace0bb/your-app-worked-perfectly-until-the-os-killed-it-38e9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
