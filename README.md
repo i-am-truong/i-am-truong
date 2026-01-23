@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Vibe Coding One Page at a Time](https://dev.to/worldlinetech/vibe-coding-one-page-at-a-time-265j)
-- [Best TypeScript Backend Frameworks in 2026](https://dev.to/encore/best-typescript-backend-frameworks-in-2026-2jpi)
-- [Your AI Context Window Is a Dumpster Fire – Stop Stuffing It](https://dev.to/er_li_92a27f8612f9f070e18/your-ai-context-window-is-a-dumpster-fire-stop-stuffing-it-hg4)
-- [Laravel `php artisan serve` Fails on Windows &lpar;Ports 8000–8010&rpar; - Here is a quick fix](https://dev.to/jervi/laravel-php-artisan-serve-fails-on-windows-ports-8000-8010-here-is-a-quick-fix-178e)
-- [Old Oracle Joins vs ANSI JOINs: Why I Chose One and Stuck With It](https://dev.to/mazinocodes/old-oracle-joins-vs-ansi-joins-why-i-chose-one-and-stuck-with-it-2goi)
+- [Hotel Page Design](https://dev.to/preetha_vaishnavi_2b82358/hotel-page-design-2226)
+- [🚀 The Rise of Vibe Coding — Is AI Changing What Coding Even Means? 🤖✨](https://dev.to/darshanraval/the-rise-of-vibe-coding-is-ai-changing-what-coding-even-means-2a2g)
+- [Creating Multiple AWS EventBridge Rules Using CDKTF and a Config File from S3](https://dev.to/lokesh_vangari_a671430724/creating-multiple-aws-eventbridge-rules-using-cdktf-and-a-config-file-from-s3-2gl4)
+- [Spring CRUD Generator &lpar;v1.0.0&rpar;: Generate Spring Boot CRUD, Flyway, tests &amp; more from YAML/JSON](https://dev.to/mzivkovicdev/spring-crud-generator-v100-generate-spring-boot-crud-flyway-tests-more-from-yamljson-28ag)
+- [Launching &quot;Guide todo&quot;: A Hub for Tech Fixes and Practical Solutions](https://dev.to/guidetodo/launching-guide-todo-a-hub-for-tech-fixes-and-practical-solutions-2cap)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
