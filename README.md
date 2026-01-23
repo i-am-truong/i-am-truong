@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Deploying a Static Website on Nginx &lpar;Beginner DevOps Project&rpar;](https://dev.to/tufail_mohammed_822ce7383/deploying-a-static-website-on-nginx-beginner-devops-project-4gcf)
-- [I’m a Newbie](https://dev.to/jeff_af273bf00406f8930e2d/im-a-newbie-5e7h)
-- [How Rule Engines Transform Business Agility and Code Simplicity](https://dev.to/capestart/how-rule-engines-transform-business-agility-and-code-simplicity-54gk)
-- [Konečne CZ/SK Linux komunita bez elitárstva a „RTFM“ – Pridaj sa na Revolt a Matrix!](https://dev.to/jakub-bites/konecne-czsk-linux-komunita-bez-elitarstva-a-rtfm-pridaj-sa-na-revolt-a-matrix-kga)
-- [Explain The Development Of AI Systems That Are Responsible](https://dev.to/aws-builders/explain-the-development-of-ai-systems-that-are-responsible-2ggl)
+- [Create small stuff.](https://dev.to/paras594/create-small-stuff-119m)
+- [Building OpponentIQ: Automating Esports Scouting with GRID API](https://dev.to/dhani_dzulkarnain/building-opponentiq-automating-esports-scouting-with-grid-api-kp3)
+- [Top 5 GIS Tools for Spatial Data Processing and Digital Twins](https://dev.to/kketria/top-5-gis-tools-for-spatial-data-processing-and-digital-twins-300c)
+- [The $5 VPS SaaS Playbook: A Practical Next.js 15 Setup &lpar;No Vercel, No Supabase, No Clerk&rpar;](https://dev.to/the_nortern_dev/the-5-vps-saas-playbook-a-practical-nextjs-15-setup-no-vercel-no-supabase-no-clerk-1kg8)
+- [The Finalizer Problem: A Deeper Look into OutOfMemoryError Due to Unclosed Resources](https://dev.to/jillthornhill/the-finalizer-problem-a-deeper-look-into-outofmemoryerror-due-to-unclosed-resources-3dn1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
