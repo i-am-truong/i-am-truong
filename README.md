@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Tried to Build a Simple Tool in Rust &lpar;It Wasn’t Simple at All&rpar;](https://dev.to/japart/i-tried-to-build-a-simple-tool-in-rust-it-wasnt-simple-at-all-203k)
-- [I Built a Free Article-to-Audio Converter!](https://dev.to/digitalwareshub/i-built-a-free-article-to-audio-converter-50ad)
-- [코딩 잘하는 사람, 바이브코딩 잘하는 사람 다르다](https://dev.to/kiwibreaksme/koding-jalhaneun-saram-baibeukoding-jalhaneun-saram-yeongu-gyeolgwaga-jeungmyeong-47f3)
-- [Intelligence is abundant now. What’s rare is AI that fits the real world.](https://dev.to/jaideepparashar/intelligence-is-abundant-now-whats-rare-is-ai-that-fits-the-real-world-114d)
-- [How to Design AI Systems That Actually Solve Problems](https://dev.to/jaideepparashar/how-to-design-ai-systems-that-actually-solve-problems-107o)
+- [State, Memory, and Context: What AI Actually “Remembers”](https://dev.to/joshinii/state-memory-and-context-what-ai-actually-remembers-328n)
+- [ReactJS Hook Pattern ~Interrupt rendering using useTransition~](https://dev.to/kkr0423/reactjs-hook-pattern-interrupt-rendering-using-usetransition-mf9)
+- [Using FFmpeg and ffmpeg.wasm in Modern React with a Custom Gulp Setup](https://dev.to/deexitpatel/using-ffmpeg-and-ffmpegwasm-in-modern-react-with-a-custom-gulp-setup-1hlh)
+- [Running Regression Tests Without Opening a GUI: Implementation Example](https://dev.to/nakamura_takuya/running-regression-tests-without-opening-a-gui-implementation-example-2mhk)
+- [TCP vs UDP: When to Use What, and How TCP Relates to HTTP](https://dev.to/satyasootar/tcp-vs-udp-when-to-use-what-and-how-tcp-relates-to-http-1jgp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
