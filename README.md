@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I tested free subdomain hosting for WebTiles so you don&#39;t have to](https://dev.to/mardeg/i-tested-free-subdomain-hosting-for-webtiles-so-you-dont-have-to-4kn7)
+- [I Built a Tiny Async DSL for AI Agent Workflows &lpar;and Why I Avoided Graph Frameworks&rpar;](https://dev.to/shi_jizhi/i-built-a-tiny-async-dsl-for-ai-agent-workflows-and-why-i-avoided-graph-frameworks-51kl)
+- [billboard.js 3.18.0: Arc annotations, per-group normalization &amp; enhanced treemap labels](https://dev.to/netil/billboardjs-3180-arc-annotations-per-group-normalization-enhanced-treemap-labels-52p3)
 - [Create small stuff.](https://dev.to/paras594/create-small-stuff-119m)
-- [Building OpponentIQ: Automating Esports Scouting with GRID API](https://dev.to/dhani_dzulkarnain/building-opponentiq-automating-esports-scouting-with-grid-api-kp3)
-- [Top 5 GIS Tools for Spatial Data Processing and Digital Twins](https://dev.to/kketria/top-5-gis-tools-for-spatial-data-processing-and-digital-twins-300c)
-- [The $5 VPS SaaS Playbook: A Practical Next.js 15 Setup &lpar;No Vercel, No Supabase, No Clerk&rpar;](https://dev.to/the_nortern_dev/the-5-vps-saas-playbook-a-practical-nextjs-15-setup-no-vercel-no-supabase-no-clerk-1kg8)
-- [The Finalizer Problem: A Deeper Look into OutOfMemoryError Due to Unclosed Resources](https://dev.to/jillthornhill/the-finalizer-problem-a-deeper-look-into-outofmemoryerror-due-to-unclosed-resources-3dn1)
+- [Poetry and coding](https://dev.to/ivy_imoh_d8b40fce225d63ab/poetry-and-coding-12f6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
