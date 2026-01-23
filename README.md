@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I tested free subdomain hosting for WebTiles so you don&#39;t have to](https://dev.to/mardeg/i-tested-free-subdomain-hosting-for-webtiles-so-you-dont-have-to-4kn7)
-- [I Built a Tiny Async DSL for AI Agent Workflows &lpar;and Why I Avoided Graph Frameworks&rpar;](https://dev.to/shi_jizhi/i-built-a-tiny-async-dsl-for-ai-agent-workflows-and-why-i-avoided-graph-frameworks-51kl)
-- [billboard.js 3.18.0: Arc annotations, per-group normalization &amp; enhanced treemap labels](https://dev.to/netil/billboardjs-3180-arc-annotations-per-group-normalization-enhanced-treemap-labels-52p3)
-- [Create small stuff.](https://dev.to/paras594/create-small-stuff-119m)
-- [Poetry and coding](https://dev.to/ivy_imoh_d8b40fce225d63ab/poetry-and-coding-12f6)
+- [Linux Learning Journey – Day 10: User &amp; Group Management in Linux 🐧🔐](https://dev.to/avinashwagh/linux-learning-journey-day-10-user-group-management-in-linux-pn1)
+- [A Lightning-Fast ngrok Alternative in Go](https://dev.to/devshark/a-lightning-fast-ngrok-alternative-in-go-35mc)
+- [I Used Claude Code to Write a Legal Appeal for My Mother&#39;s Disability Benefits](https://dev.to/nunc/i-used-claude-code-to-write-a-legal-appeal-for-my-mothers-disability-benefits-40f4)
+- [Implementing Tell and Ask in Trupe — Actor Model library in .NET](https://dev.to/actor-dev/implementing-tell-and-ask-in-trupe-actor-model-library-in-net-1e4e)
+- [From 2000 Lines of Spaghetti to Clean Architecture: The Rebirth of DotShare](https://dev.to/freerave/from-2000-lines-of-spaghetti-to-clean-architecture-the-rebirth-of-dotshare-35ec)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
