@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Fixing MariaDB ERROR 2002 &lpar;HY000&rpar;: TLS Handshake Fails with “Host Is Not Allowed to Connect”](https://dev.to/gowrishankar/fixing-mariadb-error-2002-hy000-tls-handshake-fails-with-host-is-not-allowed-to-connect-4h05)
-- [The Future of Low-Code: Trends Shaping 2026–2030!](https://dev.to/nigel_t/the-future-of-low-code-trends-shaping-2026-2030-4hi9)
-- [This Week In React #265 : React Skills, json-render, ViewTransition, Base UI, Navigation, Nitro, TC39, Astro, jQuery, Node.js](https://dev.to/sebastienlorber/this-week-in-react-265-react-skills-json-render-viewtransition-base-ui-navigation-nitro-4jj7)
-- [How Do Forms, Labels, and Inputs Work in HTML?](https://dev.to/richardpascoe/how-do-forms-labels-and-inputs-work-in-html-20ob)
-- [The Python Bug That Bites Every Developer &lpar;Exactly Once&rpar;](https://dev.to/samuel_ochaba_eb9c875fa89/the-python-bug-that-bites-every-developer-exactly-once-4m8j)
+- [Vibe Coding One Page at a Time](https://dev.to/worldlinetech/vibe-coding-one-page-at-a-time-265j)
+- [Best TypeScript Backend Frameworks in 2026](https://dev.to/encore/best-typescript-backend-frameworks-in-2026-2jpi)
+- [Your AI Context Window Is a Dumpster Fire – Stop Stuffing It](https://dev.to/er_li_92a27f8612f9f070e18/your-ai-context-window-is-a-dumpster-fire-stop-stuffing-it-hg4)
+- [Laravel `php artisan serve` Fails on Windows &lpar;Ports 8000–8010&rpar; - Here is a quick fix](https://dev.to/jervi/laravel-php-artisan-serve-fails-on-windows-ports-8000-8010-here-is-a-quick-fix-178e)
+- [Old Oracle Joins vs ANSI JOINs: Why I Chose One and Stuck With It](https://dev.to/mazinocodes/old-oracle-joins-vs-ansi-joins-why-i-chose-one-and-stuck-with-it-2goi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
