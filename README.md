@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [An AI Library of Production-Ready Skills for AI Agents](https://dev.to/dailyaimode/an-open-source-library-of-production-ready-skills-for-ai-agents-15ml)
-- [How to practice Security Code Reviews](https://dev.to/stefan_bogdanovic_240fd30/how-to-practice-security-code-reviews-2ii0)
-- [Built a headless Shopify starter — looking for architecture feedback](https://dev.to/nathanmcmullendev/looking-for-feedback-on-my-headless-shopify-architecture-open-source-5dcc)
-- [Good Governance Can Still Produce Bad Projects](https://dev.to/ben_webb_projectmanager/good-governance-can-still-produce-bad-projects-3pln)
-- [GHSA-JP3Q-WWP3-PWV9: Freeform, Free Execution: Stored XSS in Craft CMS&#39;s Favorite Form Builder](https://dev.to/cverports/ghsa-jp3q-wwp3-pwv9-freeform-free-execution-stored-xss-in-craft-cmss-favorite-form-builder-4n0p)
+- [How Streamers Accidentally Built the World&#39;s Largest Gaming AI Dataset](https://dev.to/claudiuspapirus/how-streamers-accidentally-built-the-worlds-largest-gaming-ai-dataset-4pin)
+- [Is voice the natural progression of artificial intelligence?](https://dev.to/mishmanners/is-voice-the-natural-progression-of-artificial-intelligence-52le)
+- [Predicting the Spike: Building a CGM Warning System with Transformers and PyTorch Forecasting](https://dev.to/beck_moulton/predicting-the-spike-building-a-cgm-warning-system-with-transformers-and-pytorch-forecasting-4mbe)
+- [Day 1303 : Down Payment](https://dev.to/dwane/day-1303-down-payment-4olo)
+- [My Profile Adapts to the User](https://dev.to/daniel_illenberger_e1087b/my-profile-adapts-to-the-user-4nc6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
