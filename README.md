@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [State, Memory, and Context: What AI Actually “Remembers”](https://dev.to/joshinii/state-memory-and-context-what-ai-actually-remembers-328n)
-- [ReactJS Hook Pattern ~Interrupt rendering using useTransition~](https://dev.to/kkr0423/reactjs-hook-pattern-interrupt-rendering-using-usetransition-mf9)
-- [Using FFmpeg and ffmpeg.wasm in Modern React with a Custom Gulp Setup](https://dev.to/deexitpatel/using-ffmpeg-and-ffmpegwasm-in-modern-react-with-a-custom-gulp-setup-1hlh)
-- [Running Regression Tests Without Opening a GUI: Implementation Example](https://dev.to/nakamura_takuya/running-regression-tests-without-opening-a-gui-implementation-example-2mhk)
-- [TCP vs UDP: When to Use What, and How TCP Relates to HTTP](https://dev.to/satyasootar/tcp-vs-udp-when-to-use-what-and-how-tcp-relates-to-http-1jgp)
+- [Giving my droid a personality with ESP32 and Arduino Modulino sensors](https://dev.to/sigje/giving-my-droid-a-personality-with-esp32-and-arduino-modulinos-5c0p)
+- [Google Antigravity vs GitHub Copilot: Why I&#39;m Team Antigravity Now 💡](https://dev.to/this-is-learning/google-antigravity-vs-github-copilot-why-im-team-antigravity-now-fco)
+- [A dev-first approach to managing multilingual content without rebuilding backends](https://dev.to/fabrice_grenouillet_c10f1/a-dev-first-approach-to-managing-multilingual-content-without-rebuilding-backends-1eof)
+- [MariaDB backup 10 best practices — Essential strategies for MariaDB backup and recovery](https://dev.to/piteradyson/mariadb-backup-10-best-practices-essential-strategies-for-mariadb-backup-and-recovery-dpo)
+- [Basic Asynchronous JavaScript](https://dev.to/pckalyan/basic-asynchronous-javascript-4i92)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
