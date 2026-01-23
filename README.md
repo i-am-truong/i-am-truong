@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Complexity Can&#39;t Be Eliminated. It Can Only Be Moved](https://dev.to/thesystemistsimon/complexity-cant-be-eliminated-it-can-only-be-moved-2am7)
-- [Upgrading to Serverless Framework v4: The Why and the How](https://dev.to/saltyshiomix/upgrading-to-serverless-framework-v4-the-why-and-the-how-17lm)
-- [Building in Public: CV Analyzer -Act 4 · Scene 1: The Analysis Component](https://dev.to/voke_vawkei/building-in-public-cv-analyzer-act-4-scene-1-the-analysis-component-4e4d)
-- [No Laying Up Podcast: The Booth Vol. 24 | Trap Draw, Ep 379](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol-24-trap-draw-ep-379-oic)
-- [☸️ AWS 143: Enterprise Kubernetes - Provisioning a Private Amazon EKS Cluster](https://dev.to/hritikraj8804/aws-143-enterprise-kubernetes-provisioning-a-private-amazon-eks-cluster-3nn7)
+- [Scaling with AI Isn&#39;t About Speed. It&#39;s About Externalizing Judgment](https://dev.to/synthaicode_commander/scaling-with-ai-isnt-about-speed-its-about-externalizing-judgment-3ocg)
+- [50% Faster Code, 0% Better Understanding: The Comprehension Debt Crisis](https://dev.to/thesystemistsimon/50-faster-code-0-better-understanding-the-comprehension-debt-crisis-2eap)
+- [Claude Code Hooks 완벽 가이드: AI가 맨날 까먹는 이유와 해결법](https://dev.to/kiwibreaksme/claude-code-hooks-wanbyeog-gaideu-aiga-maennal-ggameogneun-iyuwa-haegyeolbeob-4n03)
+- [Building QuantTrade AI: Where Wall Street Meets Machine Learning](https://dev.to/yashjoshi2109/building-quanttrade-ai-where-wall-street-meets-machine-learning-464p)
+- [Understanding the ABI by Observation](https://dev.to/amanprasad/understanding-the-abi-by-observation-5865)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
