@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The AI Development Workflow I Actually Use](https://dev.to/olaproeis/the-ai-development-workflow-i-actually-use-549i)
+- [[SUI] Inyectando objeto observable al ambiente](https://dev.to/david_goyes_a488f58a17a53/sui-17ke)
+- [So, You Want to Get into AI? &lpar;Without the Robot Uprising&rpar;](https://dev.to/shubham030/so-you-want-to-get-into-ai-without-the-robot-uprising-lgm)
 - [Vibe Coding One Pixel at a Time](https://dev.to/worldlinetech/vibe-coding-one-pixel-at-a-time-22pc)
-- [I’d love to hear your thoughts and feedback!](https://dev.to/haris18/id-love-to-hear-your-thoughts-and-feedback-4le5)
-- [Design Systems and the Problem of UI Entropy](https://dev.to/karmello/design-systems-and-the-problem-of-ui-entropy-e3c)
-- [Multi-Environment Microservice Platform using Helm](https://dev.to/jumptotech/advanced-helm-project-4e47)
-- [Stick to the Status Quo](https://dev.to/dexxtorrrr/stick-to-the-status-quo-2o9h)
+- [Why receiving webhooks reliably is harder than sending them](https://dev.to/hookverify/why-receiving-webhooks-reliably-is-harder-than-sending-them-57pg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
