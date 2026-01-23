@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking and Journaling in SQLite](https://dev.to/lovestaco/unlocking-and-journaling-in-sqlite-2a26)
-- [GitHub Actions to VPS: Zero-Trust with Tailscale](https://dev.to/rihdusr/github-actions-to-vps-zero-trust-with-tailscale-2omf)
-- [Claude Code + Chrome: Fix the Bug AND Verify It Works — In One Prompt](https://dev.to/rajeshroyal/claude-code-chrome-fix-the-bug-and-verify-it-works-in-one-prompt-25mi)
-- [The Right Way to Deploy Private GitHub Repos to Your VPS](https://dev.to/marcoz/the-right-way-to-deploy-private-github-repos-to-your-vps-3725)
-- [Dead-Simple CLI Uptime Monitor – No SaaS, POST Support, CI/CD Ready &lpar;Open Source&rpar;](https://dev.to/chintanshah35/dead-simple-cli-uptime-monitor-no-saas-post-support-cicd-ready-open-source-1f8h)
+- [Puppet with Foreman - Installation](https://dev.to/12ww1160/puppet-with-foreman-installation-22g0)
+- [MCP Development with Fortran, Cloud Run, and Gemini CLI](https://dev.to/gde/mcp-development-with-fortran-cloud-run-and-gemini-cli-2m4n)
+- [Custom Policy Creation and Authorization Using Amazon Verified Permissions](https://dev.to/aws-builders/custom-policy-creation-and-authorization-using-amazon-verified-permissions-4744)
+- [Building a Lightweight Kubernetes Desktop Client GUI with Tauri and Rust](https://dev.to/atilladeniz/building-a-lightweight-kubernetes-desktop-client-with-tauri-and-rust-3bbj)
+- [Acessando e protegendo sua VM: SSH, snapshots e boas práticas iniciais](https://dev.to/magalucloud/acessando-e-protegendo-sua-vm-ssh-snapshots-e-boas-praticas-iniciais-1iph)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
