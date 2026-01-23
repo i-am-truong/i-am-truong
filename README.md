@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Origin of GitOps — What Was Formalized and Why It Matters](https://dev.to/jumptotech/origin-of-gitops-what-was-formalized-and-why-it-matters-57gn)
+- [Why “If I Can, I’d Like to Do It” Quietly Turns into “I Have to Do It”](https://dev.to/koshirok096/why-if-i-can-id-like-to-do-it-quietly-turns-into-i-have-to-do-it-5bke)
 - [Puppet with Foreman - Installation](https://dev.to/12ww1160/puppet-with-foreman-installation-22g0)
 - [MCP Development with Fortran, Cloud Run, and Gemini CLI](https://dev.to/gde/mcp-development-with-fortran-cloud-run-and-gemini-cli-2m4n)
 - [Custom Policy Creation and Authorization Using Amazon Verified Permissions](https://dev.to/aws-builders/custom-policy-creation-and-authorization-using-amazon-verified-permissions-4744)
-- [Building a Lightweight Kubernetes Desktop Client GUI with Tauri and Rust](https://dev.to/atilladeniz/building-a-lightweight-kubernetes-desktop-client-with-tauri-and-rust-3bbj)
-- [Acessando e protegendo sua VM: SSH, snapshots e boas práticas iniciais](https://dev.to/magalucloud/acessando-e-protegendo-sua-vm-ssh-snapshots-e-boas-praticas-iniciais-1iph)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
