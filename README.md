@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Origin of GitOps — What Was Formalized and Why It Matters](https://dev.to/jumptotech/origin-of-gitops-what-was-formalized-and-why-it-matters-57gn)
-- [Why “If I Can, I’d Like to Do It” Quietly Turns into “I Have to Do It”](https://dev.to/koshirok096/why-if-i-can-id-like-to-do-it-quietly-turns-into-i-have-to-do-it-5bke)
-- [Puppet with Foreman - Installation](https://dev.to/12ww1160/puppet-with-foreman-installation-22g0)
-- [MCP Development with Fortran, Cloud Run, and Gemini CLI](https://dev.to/gde/mcp-development-with-fortran-cloud-run-and-gemini-cli-2m4n)
-- [Custom Policy Creation and Authorization Using Amazon Verified Permissions](https://dev.to/aws-builders/custom-policy-creation-and-authorization-using-amazon-verified-permissions-4744)
+- [From Gridsome to Astro: Rebuilding My Personal Site for the Next Phase](https://dev.to/lewiskori/from-gridsome-to-astro-rebuilding-my-personal-site-for-the-next-phase-1a24)
+- [This Open-Source Pipeline Transforms Any Podcast into AI-Ready Transcripts with Speaker Diarization &lpar;MIT License&rpar;](https://dev.to/badmonster0/this-open-source-pipeline-transforms-any-podcast-into-ai-ready-transcripts-with-speaker-diarization-3n1n)
+- [PostgreSQL Didn’t Fail at Scale -My Architecture Assumptions Did](https://dev.to/gaurav_talesara/postgresql-didnt-fail-at-scale-my-architecture-assumptions-did-25n0)
+- [Automating Contact Updates Across Accounts In Your Organization](https://dev.to/aws-builders/automating-contact-updates-across-accounts-in-your-organization-33a8)
+- [LiteLLM Has 1,000+ Open GitHub Issues. Here&#39;s What Three of Them Reveal.](https://dev.to/pranay_batta/litellm-has-1000-open-github-issues-heres-what-three-of-them-reveal-3jeo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
