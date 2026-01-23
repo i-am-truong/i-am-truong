@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [After Twitter, I built a No-Login Instagram Viewer with Next.js 14](https://dev.to/peter_anderson33/after-twitter-i-built-a-no-login-instagram-viewer-with-nextjs-14-aap)
+- [I kept shipping apps that failed — What I learned](https://dev.to/nsmet/i-kept-shipping-apps-that-failed-what-i-learned-15ka)
+- [Eseguire Backup grandi su Debian: Compressione, Split e Sessioni Persistenti](https://dev.to/minnogit/eseguire-backup-grandi-su-debian-compressione-split-e-sessioni-persistenti-17c7)
+- [I built a No-Login Instagram Viewer with Next.js 14](https://dev.to/peter_anderson33/after-twitter-i-built-a-no-login-instagram-viewer-with-nextjs-14-aap)
 - [TCP’s Trust Issues: A 3-Way Handshake Story](https://dev.to/kunal_dev/tcps-trust-issues-a-3-way-handshake-story-4pbg)
 - [How to run Cisco Foundation-Sec-8B on Colab for FREE](https://dev.to/timhuang/how-to-run-cisco-foundation-sec-8b-on-colab-for-free-43m5)
-- [&quot;Shannon Was Right, But We Can Be Smarter: How ALEC Achieves 22x Compression on IoT Data&quot;](https://dev.to/zeekmartin/shannon-was-right-but-we-can-be-smarter-how-alec-achieves-22x-compression-on-iot-data-3b3m)
-- [SELENIUM ARCHITECTURE](https://dev.to/rajya_shree_0c5bc00f701b1/selenium-architecture-15d8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
