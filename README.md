@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Elasticsearch Cluster Health Troubleshooting Guide](https://dev.to/aicontentlab/elasticsearch-cluster-health-troubleshooting-guide-3cgj)
-- [Git Rebase vs Merge: Mastering Branching Best Practices](https://dev.to/aicontentlab/git-rebase-vs-merge-mastering-branching-best-practices-1e7g)
-- [How Developers Can Validate SaaS Ideas Using Reddit and GitHub](https://dev.to/iamvs2002/how-developers-can-validate-saas-ideas-using-reddit-and-github-3b0l)
-- [AI Workflows vs AI Agents, Explained with LEGOs](https://dev.to/shlokaguptaa/ai-workflows-vs-ai-agents-explained-with-legos-581g)
-- [Say Goodbye to Hand-Written Schemas! SeaTunnel’s Integration with Gravitino Metadata REST API Is a Really Cool Move](https://dev.to/seatunnel/say-goodbye-to-hand-written-schemas-seatunnels-integration-with-gravitino-metadata-rest-api-is-a-1jd8)
+- [Complexity Can&#39;t Be Eliminated. It Can Only Be Moved](https://dev.to/thesystemistsimon/complexity-cant-be-eliminated-it-can-only-be-moved-2am7)
+- [Upgrading to Serverless Framework v4: The Why and the How](https://dev.to/saltyshiomix/upgrading-to-serverless-framework-v4-the-why-and-the-how-17lm)
+- [Building in Public: CV Analyzer -Act 4 · Scene 1: The Analysis Component](https://dev.to/voke_vawkei/building-in-public-cv-analyzer-act-4-scene-1-the-analysis-component-4e4d)
+- [No Laying Up Podcast: The Booth Vol. 24 | Trap Draw, Ep 379](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol-24-trap-draw-ep-379-oic)
+- [☸️ AWS 143: Enterprise Kubernetes - Provisioning a Private Amazon EKS Cluster](https://dev.to/hritikraj8804/aws-143-enterprise-kubernetes-provisioning-a-private-amazon-eks-cluster-3nn7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
