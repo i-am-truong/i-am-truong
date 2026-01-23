@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[Memoria] Almacenamiento de Class y Struct](https://dev.to/david_goyes_a488f58a17a53/memoria-almacenamiento-de-class-y-struct-58j7)
+- [Write Dynamic GitLab pipelines in TypeScript](https://dev.to/sleeyax/write-dynamic-gitlab-pipelines-in-typescript-3ake)
+- [Security news weekly round-up - 23rd January 2026](https://dev.to/ziizium/security-news-weekly-round-up-23rd-january-2026-1n47)
+- [How to Stop an SLM from Overthinking](https://dev.to/ben-santora/how-to-stop-an-slm-from-overthinking-575l)
 - [Data Analyst Guide: Mastering Neural Networks: When Analysts Should Use Deep Learning](https://dev.to/amal_org_e8fe019c45517244/data-analyst-guide-mastering-neural-networks-when-analysts-should-use-deep-learning-32ib)
-- [Vim for DevOps: Practical Editing Techniques for Remote Operations](https://dev.to/alaxay8/vim-for-devops-practical-editing-techniques-for-remote-operations-50fm)
-- [🤖 AI DevOps Debugger — Turning Production Logs into Actionable Insights with Copilot CLI](https://dev.to/darshanraval/ai-devops-debugger-turning-production-logs-into-actionable-insights-with-copilot-cli-1hlb)
-- [Chat Frame](https://dev.to/doudev_doudec_932f2856baa/chat-frame-lc7)
-- [Your App Worked Perfectly… Until the OS Killed It](https://dev.to/alamin_karno_b096f2ace0bb/your-app-worked-perfectly-until-the-os-killed-it-38e9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
