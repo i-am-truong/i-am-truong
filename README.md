@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Production-Ready AI Security Foundation](https://dev.to/googleai/building-a-production-ready-ai-security-foundation-2234)
+- [The best way to do agentic development in 2026](https://dev.to/chand1012/the-best-way-to-do-agentic-development-in-2026-14mn)
+- [I Stopped Building Features, All at Once](https://dev.to/sajithpj/i-stopped-building-features-all-at-once-333l)
 - [[Memoria] Almacenamiento de Class y Struct](https://dev.to/david_goyes_a488f58a17a53/memoria-almacenamiento-de-class-y-struct-58j7)
 - [Write Dynamic GitLab pipelines in TypeScript](https://dev.to/sleeyax/write-dynamic-gitlab-pipelines-in-typescript-3ake)
-- [Security news weekly round-up - 23rd January 2026](https://dev.to/ziizium/security-news-weekly-round-up-23rd-january-2026-1n47)
-- [How to Stop an SLM from Overthinking](https://dev.to/ben-santora/how-to-stop-an-slm-from-overthinking-575l)
-- [Data Analyst Guide: Mastering Neural Networks: When Analysts Should Use Deep Learning](https://dev.to/amal_org_e8fe019c45517244/data-analyst-guide-mastering-neural-networks-when-analysts-should-use-deep-learning-32ib)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
