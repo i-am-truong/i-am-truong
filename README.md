@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Implementing a JSON Schema Validator from Scratch - Week 1](https://dev.to/ahmedhanygamal/implementing-a-json-schema-validator-from-scratch-week-1-4ah9)
+- [How to Get Your Brand Recommended by ChatGPT](https://dev.to/ivandotcodes/how-to-get-your-brand-recommended-by-chatgpt-iko)
+- [Is it safe to use Sqids instead of UUIDs for public API IDs?](https://dev.to/zistrious_93d96700ba3faf5/is-it-safe-to-use-sqids-instead-of-uuids-for-public-api-ids-2203)
 - [dokumentasi](https://dev.to/hudaipi_wardani_1f6177e55/dokumentasi-1m82)
 - [Angular Forms in 2026 — Reactive vs Template‑Driven, Validation, Testing, and the Signal Era](https://dev.to/cristiansifuentes/angular-forms-in-2026-reactive-vs-template-driven-validation-testing-and-the-signal-era-3oo6)
-- [The Mental Model That Made AWS Networking Finally Click](https://dev.to/emanuelegurini/the-mental-model-that-made-aws-networking-finally-click-1fc9)
-- [Building Maintainable AI Pipelines with the Task Context Observer Pattern](https://dev.to/matthew_hou_e8ab76d6be07b/building-maintainable-ai-pipelines-with-the-task-context-observer-pattern-1e26)
-- [The AI Development Workflow I Actually Use](https://dev.to/olaproeis/the-ai-development-workflow-i-actually-use-549i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
