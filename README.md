@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why I Stopped Using html-to-docx &lpar;And Why You Should Too&rpar;](https://dev.to/resumemind/why-i-stopped-using-html-to-docx-and-why-you-should-too-5h4f)
-- [CVE-2026-0994: Recursive Hell: Breaking Python Protobuf with Nested &#39;Any&#39; Messages](https://dev.to/cverports/cve-2026-0994-recursive-hell-breaking-python-protobuf-with-nested-any-messages-36fj)
-- [57. Insert Interval | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/57-insert-interval-leetcode-top-interview-150-coding-questions-34of)
-- [Building Smarter Search with Algolia Agent Studio](https://dev.to/aniruddhaadak/building-smarter-search-with-algolia-agent-studio-3l0d)
-- [FortiGate Secure Enterprise Network](https://dev.to/ben888github/fortigate-secure-enterprise-network-3a7a)
+- [Unlocking and Journaling in SQLite](https://dev.to/lovestaco/unlocking-and-journaling-in-sqlite-2a26)
+- [GitHub Actions to VPS: Zero-Trust with Tailscale](https://dev.to/rihdusr/github-actions-to-vps-zero-trust-with-tailscale-2omf)
+- [Claude Code + Chrome: Fix the Bug AND Verify It Works — In One Prompt](https://dev.to/rajeshroyal/claude-code-chrome-fix-the-bug-and-verify-it-works-in-one-prompt-25mi)
+- [The Right Way to Deploy Private GitHub Repos to Your VPS](https://dev.to/marcoz/the-right-way-to-deploy-private-github-repos-to-your-vps-3725)
+- [Dead-Simple CLI Uptime Monitor – No SaaS, POST Support, CI/CD Ready &lpar;Open Source&rpar;](https://dev.to/chintanshah35/dead-simple-cli-uptime-monitor-no-saas-post-support-cicd-ready-open-source-1f8h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
