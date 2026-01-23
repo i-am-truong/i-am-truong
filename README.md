@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [TCP vs UDP: When to Use What, and How TCP Relates to HTTP](https://dev.to/ritam369/tcp-vs-udp-when-to-use-what-and-how-tcp-relates-to-http-4144)
-- [🖥️ My OS Has a Framebuffer Now &lpar;But It’s Broken and I’m Not Allowed to Touch It&rpar;](https://dev.to/arush179/my-os-has-a-framebuffer-now-but-its-broken-and-im-not-allowed-to-touch-it-577c)
-- [Power of &quot;Data-Driven Architecture&quot; applies to game development as well](https://dev.to/tomokat/power-of-data-driven-architecture-applies-to-game-development-as-well-6m0)
-- [Building APIs with Flask: What They Are and What They’re Used For](https://dev.to/jasec7/building-apis-with-flask-what-they-are-and-what-theyre-used-for-1lm3)
-- [Find Product Variants](https://dev.to/mms-tech/find-product-variants-5043)
+- [Building a P2P LAN Chat &amp; File Sharing System with FastAPI](https://dev.to/hejhdiss/building-a-p2p-lan-chat-file-sharing-system-with-fastapi-4i8h)
+- [What&#39;s new in PVS-Studio in 2025?](https://dev.to/pvsdev/whats-new-in-pvs-studio-in-2025-2h9f)
+- [Space Station Portfolio: An Engineer Beyond the UI](https://dev.to/gramli/space-station-portfolio-an-engineer-beyond-the-ui-431n)
+- [Your Comments Are Rotting, So I Hope Your Tests Have A Long Shelf Life](https://dev.to/doogal/your-comments-are-rotting-so-i-hope-your-tests-have-a-long-shelf-life-1bn9)
+- [INIT to an END](https://dev.to/lizmat/init-to-an-end-30hc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
