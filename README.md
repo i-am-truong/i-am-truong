@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mahdi Shamlou | Solving LeetCode #2: Add Two Numbers — The Classic Linked List Addition](https://dev.to/mahdi0shamlou/mahdi-shamlou-solving-leetcode-2-add-two-numbers-the-classic-linked-list-addition-5g7c)
+- [Construí um Agentic CLI Tool com IA usando o Copilot SDK — Conheça o Repo Doctor!](https://dev.to/glaucia86/github-copilot-sdk-construindo-aplicacoes-agenticas-com-ia-na-pratica-com-repo-doctor-25a6)
+- [The ACCURACY- INFERENCE - MEMORY Triangle in ML Systems](https://dev.to/jashwanth_thatipamula_8ee/the-accuracy-inference-memory-triangle-in-ml-systems-a12)
+- [Transactional Outbox with RabbitMQ &lpar;Part 2&rpar;: Handling Retries, Dead-Letter Queues, and Observability](https://dev.to/sagarmaheshwary/transactional-outbox-with-rabbitmq-part-2-handling-retries-dead-letter-queues-and-observability-4h19)
 - [Container With Most Water — Beginner Two Pointer Breakdown &lpar;That “Ohhh” Moment&rpar;](https://dev.to/nithya_dharshiniofficial/container-with-most-water-beginner-two-pointer-breakdown-that-ohhh-moment-3pgm)
-- [The Over-Abstraction Trap: Why We Need to Stop Over-Engineering Our Infrastructure](https://dev.to/sebs/the-over-abstraction-trap-why-we-need-to-stop-over-engineering-our-infrastructure-3737)
-- [Beyond Static: Building an Architecture-First Interactive Portfolio](https://dev.to/ayush-dev/beyond-static-building-an-architecture-first-interactive-portfolio-50n8)
-- [Why Relying on Code Review Alone Is a Recipe for Burnout](https://dev.to/jszutkowski/why-relying-on-code-review-alone-is-a-recipe-for-burnout-3bf7)
-- [China&#39;s AI Boom Explained.](https://dev.to/sanyog_thakur_5b94f2b7d2d/chinas-ai-boom-explained-27li)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
