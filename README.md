@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[GCD] Cancelando un DispatchWorkItem](https://dev.to/david_goyes_a488f58a17a53/gcd-cancelando-un-dispatchworkitem-4j5e)
+- [Why Server Components Are the Secret Weapon for Generative UI](https://dev.to/programmingcentral/why-server-components-are-the-secret-weapon-for-generative-ui-5bj1)
 - [From Gridsome to Astro: Rebuilding My Personal Site for the Next Phase](https://dev.to/lewiskori/from-gridsome-to-astro-rebuilding-my-personal-site-for-the-next-phase-1a24)
 - [This Open-Source Pipeline Transforms Any Podcast into AI-Ready Transcripts with Speaker Diarization &lpar;MIT License&rpar;](https://dev.to/badmonster0/this-open-source-pipeline-transforms-any-podcast-into-ai-ready-transcripts-with-speaker-diarization-3n1n)
 - [PostgreSQL Didn’t Fail at Scale -My Architecture Assumptions Did](https://dev.to/gaurav_talesara/postgresql-didnt-fail-at-scale-my-architecture-assumptions-did-25n0)
-- [Automating Contact Updates Across Accounts In Your Organization](https://dev.to/aws-builders/automating-contact-updates-across-accounts-in-your-organization-33a8)
-- [LiteLLM Has 1,000+ Open GitHub Issues. Here&#39;s What Three of Them Reveal.](https://dev.to/pranay_batta/litellm-has-1000-open-github-issues-heres-what-three-of-them-reveal-3jeo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
