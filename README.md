@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Fixing HDMI Audio Stuck at 100% on Hackintosh](https://dev.to/jervi/fixing-hdmi-audio-stuck-at-100-on-hackintosh-4na2)
-- [Building a $12/Month AI Chatbot That Rivals $500/Month Solutions](https://dev.to/dineshelumalai/building-a-12month-ai-chatbot-that-rivals-500month-solutions-5fbl)
-- [Data Analyst Guide: Mastering Business English for Non-Native Data Analysts](https://dev.to/amal_org_e8fe019c45517244/data-analyst-guide-mastering-business-english-for-non-native-data-analysts-4lpe)
-- [How I Built Persistent Memory for AI Using TypeScript and Markdown](https://dev.to/rmarsigli/how-i-built-persistent-memory-for-ai-using-typescript-and-markdown-4pkk)
-- [My &quot;New Year, New Me&quot; Portfolio](https://dev.to/izaytseva/my-new-year-new-me-portfolio-466g)
+- [Vibe Coding One Pixel at a Time](https://dev.to/worldlinetech/vibe-coding-one-pixel-at-a-time-22pc)
+- [I’d love to hear your thoughts and feedback!](https://dev.to/haris18/id-love-to-hear-your-thoughts-and-feedback-4le5)
+- [Design Systems and the Problem of UI Entropy](https://dev.to/karmello/design-systems-and-the-problem-of-ui-entropy-e3c)
+- [Multi-Environment Microservice Platform using Helm](https://dev.to/jumptotech/advanced-helm-project-4e47)
+- [Stick to the Status Quo](https://dev.to/dexxtorrrr/stick-to-the-status-quo-2o9h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
