@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Tried to Build a Simple Tool in Rust &lpar;It Wasn’t Simple at All&rpar;](https://dev.to/japart/i-tried-to-build-a-simple-tool-in-rust-it-wasnt-simple-at-all-203k)
 - [I Built a Free Article-to-Audio Converter!](https://dev.to/digitalwareshub/i-built-a-free-article-to-audio-converter-50ad)
 - [코딩 잘하는 사람, 바이브코딩 잘하는 사람 다르다](https://dev.to/kiwibreaksme/koding-jalhaneun-saram-baibeukoding-jalhaneun-saram-yeongu-gyeolgwaga-jeungmyeong-47f3)
 - [Intelligence is abundant now. What’s rare is AI that fits the real world.](https://dev.to/jaideepparashar/intelligence-is-abundant-now-whats-rare-is-ai-that-fits-the-real-world-114d)
 - [How to Design AI Systems That Actually Solve Problems](https://dev.to/jaideepparashar/how-to-design-ai-systems-that-actually-solve-problems-107o)
-- [The Architecture of Excellence: A Comprehensive Guide to Business Simulations for High-Performing Teams](https://dev.to/simulationstrategist223/the-architecture-of-excellence-a-comprehensive-guide-to-business-simulations-for-high-performing-43gh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
