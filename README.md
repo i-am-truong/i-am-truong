@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hotel Page Design](https://dev.to/preetha_vaishnavi_2b82358/hotel-page-design-2226)
-- [🚀 The Rise of Vibe Coding — Is AI Changing What Coding Even Means? 🤖✨](https://dev.to/darshanraval/the-rise-of-vibe-coding-is-ai-changing-what-coding-even-means-2a2g)
-- [Creating Multiple AWS EventBridge Rules Using CDKTF and a Config File from S3](https://dev.to/lokesh_vangari_a671430724/creating-multiple-aws-eventbridge-rules-using-cdktf-and-a-config-file-from-s3-2gl4)
-- [Spring CRUD Generator &lpar;v1.0.0&rpar;: Generate Spring Boot CRUD, Flyway, tests &amp; more from YAML/JSON](https://dev.to/mzivkovicdev/spring-crud-generator-v100-generate-spring-boot-crud-flyway-tests-more-from-yamljson-28ag)
-- [Launching &quot;Guide todo&quot;: A Hub for Tech Fixes and Practical Solutions](https://dev.to/guidetodo/launching-guide-todo-a-hub-for-tech-fixes-and-practical-solutions-2cap)
+- [After Twitter, I built a No-Login Instagram Viewer with Next.js 14](https://dev.to/peter_anderson33/after-twitter-i-built-a-no-login-instagram-viewer-with-nextjs-14-aap)
+- [TCP’s Trust Issues: A 3-Way Handshake Story](https://dev.to/kunal_dev/tcps-trust-issues-a-3-way-handshake-story-4pbg)
+- [How to run Cisco Foundation-Sec-8B on Colab for FREE](https://dev.to/timhuang/how-to-run-cisco-foundation-sec-8b-on-colab-for-free-43m5)
+- [&quot;Shannon Was Right, But We Can Be Smarter: How ALEC Achieves 22x Compression on IoT Data&quot;](https://dev.to/zeekmartin/shannon-was-right-but-we-can-be-smarter-how-alec-achieves-22x-compression-on-iot-data-3b3m)
+- [SELENIUM ARCHITECTURE](https://dev.to/rajya_shree_0c5bc00f701b1/selenium-architecture-15d8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
