@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Evolution of making API Calls in JavaScript](https://dev.to/pckalyan/evolution-of-making-api-calls-in-javascript-3i1m)
+- [How I Stopped Being a Code Snob and Started Being a Developer](https://dev.to/billahdotdev/how-i-stopped-being-a-code-snob-and-started-being-a-developer-1525)
+- [How to send emails in Flask: Complete developer guide](https://dev.to/sendlayer/how-to-send-emails-in-flask-26mj)
+- [Preparing a Raspberry Pi Like a Real Server &lpar;Before Installing Anything&rpar;](https://dev.to/sidbathi/preparing-a-raspberry-pi-like-a-real-server-before-installing-anything-2fl8)
 - [Devlog-OSS-Finder-02: First Deployment Done](https://dev.to/barbora_klusackova/devlog-oss-finder-02-first-deployment-done-48bp)
-- [Debugging Network Issues in Go: Practical Techniques for Developers](https://dev.to/jones_charles_ad50858dbc0/debugging-network-issues-in-go-practical-techniques-for-developers-2emp)
-- [New on Trendshift: Stats Page for Open-Source Language Trends](https://dev.to/liweiyi88/new-on-trendshift-stats-page-for-open-source-language-trends-3ff7)
-- [Integrating Claude AI Into Your WordPress Plugins](https://dev.to/el_condorito_54d80b88eb90/integrating-claude-ai-into-your-wordpress-plugins-4omk)
-- [secure calculator vault](https://dev.to/patel_4ad1dbb5f279fff28b3/secure-calculator-vault-251)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
