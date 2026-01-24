@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Simple Fix for I2C Level Shifting: PCA9306 Module with Arduino Uno](https://dev.to/david_thomas/a-simple-fix-for-i2c-level-shifting-pca9306-module-with-arduino-uno-2j7g)
+- [94% of CEOs Are All-In on AI: The Shift No One Is Talking About](https://dev.to/aiwithapex/94-of-ceos-are-all-in-on-ai-the-shift-no-one-is-talking-about-4080)
+- [Рынок умер? Любой опыт теперь нерелевантен? — это лучшее время](https://dev.to/nomanualhero/rynok-umier-liuboi-opyt-tiepier-nierielievantien-eto-luchshieie-vriemia-53nd)
 - [Navigating Proton Spam and the AI Consent Dilemma](https://dev.to/dd8888/navigating-proton-spam-and-the-ai-consent-dilemma-3i68)
 - [Protecting Your Prize-Winning Cyber-Carrots: A Defense-in-Depth Guide to Azure AKS with Crossplane v2](https://dev.to/the-software-s-journey/protecting-your-prize-winning-cyber-carrots-a-defense-in-depth-guide-to-azure-aks-with-crossplane-43f0)
-- [FastAPI Architecture: Clean, Scalable &amp; Self-Documenting](https://dev.to/naved_shaikh/fastapi-architecture-clean-scalable-self-documenting-22n8)
-- [Don’t Learn DevOps Before Understanding Web Development](https://dev.to/tusharsharma099/dont-learn-devops-before-understanding-web-development-fb)
-- [Understanding Git and GitHub as a Beginner](https://dev.to/adithyan_g_6f3e606905eed7/understanding-git-and-github-as-a-345j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
