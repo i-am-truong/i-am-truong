@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI is just a tool, not a replacement of your passion.](https://dev.to/vilo-time/ai-is-just-a-tool-not-a-replacement-of-your-passion-5g96)
-- [Snapchat Spotlight &amp; Stories API: Extract Public Video Data](https://dev.to/imbuedata/snapchat-spotlight-stories-api-extract-public-video-data-2934)
-- [Most Developers Use JWT - But Almost None Understand It Fully](https://dev.to/karthikkorrayi/most-developers-use-jwt-but-almost-none-understand-it-fully-5516)
-- [Crystal Minitest and the Shutdown Order Problem](https://dev.to/miry/crystal-minitest-and-the-shutdown-order-problem-jcn)
-- [A Simple Fix for I2C Level Shifting: PCA9306 Module with Arduino Uno](https://dev.to/david_thomas/a-simple-fix-for-i2c-level-shifting-pca9306-module-with-arduino-uno-2j7g)
+- [Scalable Image upload and storage system - HLD](https://dev.to/zeeshanali0704/scalable-image-upload-and-storage-system-hld-52i2)
+- [Seeing Isn&#39;t Believing](https://dev.to/rawveg/seeing-isnt-believing-1onl)
+- [GitHub Copilot CLI + MCP: Talk to Your Database in Plain English](https://dev.to/abhirockzz/github-copilot-cli-mcp-talk-to-your-database-in-plain-english-3go4)
+- [OpenAI&#39;s testament to Postgresql reliability](https://dev.to/alexis_gilgonzales_c5d9a/openais-testament-to-postgresql-reliability-12o2)
+- [Understanding Network Devices](https://dev.to/6116hayat/understanding-network-devices-3gg1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
