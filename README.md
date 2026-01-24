@@ -122,9 +122,9 @@ Python                   1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [How I Use Temporary Email to Avoid Spam and Protect Privacy](https://dev.to/sarath_unrelax/how-i-use-temporary-email-to-avoid-spam-and-protect-privacy-51p)
 - [Scope in Python](https://dev.to/ruqiya_arshad_7839c5e21f2/scope-in-python-3bg8)
-- [11.Create Alarm Using Terraform](https://dev.to/thukhakyawe_cloud/11create-alarm-using-terraform-4op9)
-- [The Secret Life of Python: The Mutable Default Argument](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-mutable-default-argument-2ibd)
-- [From Resume to Operating System: Designing an AI-Powered Interactive Digital Twin](https://dev.to/star1e/from-resume-to-operating-system-designing-an-ai-powered-interactive-digital-twin-19lh)
+- [The Human Loop: Reclaiming Judgment and Strategy in the AI-Augmented Enterprise new](https://dev.to/prakash_maheshwaran/the-human-loop-reclaiming-judgment-and-strategy-in-the-ai-augmented-enterprise-new-agk)
+- [How it feels to write a GPKG library in 2026 &lpar;in Rust!&rpar;](https://dev.to/yutannihilation/how-it-feels-to-write-a-gpkg-library-in-2026-in-rust-52mg)
+- [Next.js Lighthouse Optimization: 42 to 97 Case Study](https://dev.to/amansuryavanshi-ai/nextjs-lighthouse-optimization-42-to-97-case-study-4h6a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
