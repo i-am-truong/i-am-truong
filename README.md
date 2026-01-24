@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Implementing a JSON Schema Validator from Scratch - Week 1](https://dev.to/ahmedhanygamal/implementing-a-json-schema-validator-from-scratch-week-1-4ah9)
-- [How to Get Your Brand Recommended by ChatGPT](https://dev.to/ivandotcodes/how-to-get-your-brand-recommended-by-chatgpt-iko)
-- [Is it safe to use Sqids instead of UUIDs for public API IDs?](https://dev.to/zistrious_93d96700ba3faf5/is-it-safe-to-use-sqids-instead-of-uuids-for-public-api-ids-2203)
-- [dokumentasi](https://dev.to/hudaipi_wardani_1f6177e55/dokumentasi-1m82)
-- [Angular Forms in 2026 — Reactive vs Template‑Driven, Validation, Testing, and the Signal Era](https://dev.to/cristiansifuentes/angular-forms-in-2026-reactive-vs-template-driven-validation-testing-and-the-signal-era-3oo6)
+- [Dioxide v2.0.0: Clean Architecture Made Simple](https://dev.to/mikelane/dioxide-v200-clean-architecture-made-simple-3gp6)
+- [We Built a City Boy Meme Generator](https://dev.to/merge-jpg/we-built-a-city-boy-meme-generator-2ldl)
+- [From Ingress to Gateway API: A Hands-On Walkthrough with NGINX Gateway Fabric](https://dev.to/keneojiteli/from-ingress-to-gateway-api-a-hands-on-walkthrough-with-nginx-gateway-fabric-5dn7)
+- [How I Built an Email-to-Google Sheets Automation Using GitHub Copilot CLI](https://dev.to/08562d8/how-i-built-an-email-to-google-sheets-automation-using-github-copilot-cli-481g)
+- [Hybrid Dagster OSS: Scalable Compute on a Hybrid Azure Setup](https://dev.to/chryztoph/hybrid-dagster-oss-scalable-compute-on-a-hybrid-azure-setup-554n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
