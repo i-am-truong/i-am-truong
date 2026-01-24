@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a GPU-Accelerated Terminal Emulator with Rust and GPUI](https://dev.to/zhiwei_ma_0fc08a668c1eb51/building-a-gpu-accelerated-terminal-emulator-with-rust-and-gpui-4103)
-- [How I Use Temporary Email to Avoid Spam and Protect Privacy](https://dev.to/sarath_unrelax/how-i-use-temporary-email-to-avoid-spam-and-protect-privacy-51p)
-- [Scope in Python](https://dev.to/ruqiya_arshad_7839c5e21f2/scope-in-python-3bg8)
-- [The Human Loop: Reclaiming Judgment and Strategy in the AI-Augmented Enterprise new](https://dev.to/prakash_maheshwaran/the-human-loop-reclaiming-judgment-and-strategy-in-the-ai-augmented-enterprise-new-agk)
-- [How it feels to write a GPKG library in 2026 &lpar;in Rust!&rpar;](https://dev.to/yutannihilation/how-it-feels-to-write-a-gpkg-library-in-2026-in-rust-52mg)
+- [This portfolio isn’t perfect, but it’s 100% mine](https://dev.to/random_ti/this-portfolio-isnt-perfect-but-its-100-mine-3hi5)
+- [🌱 Bloom Roadmap — What’s Coming Next](https://dev.to/codebunny20/bloom-roadmap-whats-coming-next-335a)
+- [Stop Writing Selectors: How I Vibe Coded a Production AppSumo Scraper](https://dev.to/sommic/stop-writing-selectors-how-i-vibe-coded-a-production-appsumo-scraper-4704)
+- [Where Blockchain Data Actually Lives &lpar;IPFS, Arweave &amp; The 2026 Storage War&rpar;](https://dev.to/ribhavmodi/where-blockchain-data-actually-lives-ipfs-arweave-the-2026-storage-war-2bka)
+- [The Tao of Architecture: Clearing the Fog of &quot;Names&quot; to Return to the Essence of &quot;Non-Being&quot;](https://dev.to/xmaicode/the-tao-of-architecture-clearing-the-fog-of-names-to-return-to-the-essence-of-non-being-4e3l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
