@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Vibe-Coded a Quantum Synthesizer: A Reality Check on the State of Qubits](https://dev.to/dominiquegrys/i-vibe-coded-a-quantum-synthesizer-a-reality-check-on-the-state-of-qubits-501j)
-- [I Built a Food Lifespan Calculator - Here&#39;s the Data That Powers It](https://dev.to/sourabh20022002/i-built-a-food-lifespan-calculator-heres-the-data-that-powers-it-2f8a)
-- [How to deploy Rails 8 + Hotwire apps on Railway](https://dev.to/jtmst/how-to-deploy-rails-8-hotwire-apps-on-railway-123b)
-- [Building and Signing Android Apps Locally with Gradle &lpar;React Native &amp; Expo&rpar;](https://dev.to/yhoungbrown/building-and-signing-android-apps-locally-with-gradle-react-native-expo-3n9n)
-- [Escrow as a Design Choice](https://dev.to/sumana10l/escrow-as-a-design-choice-2c89)
+- [FPGA_Part_07](https://dev.to/cevval/fpgapart07-h6c)
+- [I Built a Privacy-First PDF Tool That Never Uploads Your File](https://dev.to/aizazart/i-built-a-privacy-first-pdf-tool-that-never-uploads-your-file-1blh)
+- [Book Recommendation: The Subscription Economy](https://dev.to/evanlin/book-recommendation-the-subscription-economy-2k3e)
+- [Sharing a Good Book: How I Learned to Invest at 45 and Earned $2 Million in Dividends Annually](https://dev.to/evanlin/sharing-a-good-book-how-i-learned-to-invest-at-45-and-earned-2-million-in-dividends-annually-29gh)
+- [Caching, Consistency, and Trade-offs: Designing Scalable Distributed Systems](https://dev.to/ahsanfarooq210/caching-consistency-and-trade-offs-designing-scalable-distributed-systems-3nlf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
