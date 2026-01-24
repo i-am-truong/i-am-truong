@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI is just a tool, not a replacement of your passion.](https://dev.to/vilo-time/ai-is-just-a-tool-not-a-replacement-of-your-passion-5g96)
+- [Snapchat Spotlight &amp; Stories API: Extract Public Video Data](https://dev.to/imbuedata/snapchat-spotlight-stories-api-extract-public-video-data-2934)
+- [Most Developers Use JWT - But Almost None Understand It Fully](https://dev.to/karthikkorrayi/most-developers-use-jwt-but-almost-none-understand-it-fully-5516)
 - [Crystal Minitest and the Shutdown Order Problem](https://dev.to/miry/crystal-minitest-and-the-shutdown-order-problem-jcn)
 - [A Simple Fix for I2C Level Shifting: PCA9306 Module with Arduino Uno](https://dev.to/david_thomas/a-simple-fix-for-i2c-level-shifting-pca9306-module-with-arduino-uno-2j7g)
-- [94% of CEOs Are All-In on AI: The Shift No One Is Talking About](https://dev.to/aiwithapex/94-of-ceos-are-all-in-on-ai-the-shift-no-one-is-talking-about-4080)
-- [Рынок умер? Любой опыт теперь нерелевантен? — это лучшее время](https://dev.to/nomanualhero/rynok-umier-liuboi-opyt-tiepier-nierielievantien-eto-luchshieie-vriemia-53nd)
-- [Navigating Proton Spam and the AI Consent Dilemma](https://dev.to/dd8888/navigating-proton-spam-and-the-ai-consent-dilemma-3i68)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
