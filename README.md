@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Databases with Scrapy: The Beginner&#39;s Guide](https://dev.to/ikram_khan/databases-with-scrapy-the-beginners-guide-la7)
-- [Building a CloudFront log parser for Hugo with Kiro CLI - and some surprising outcomes!](https://dev.to/aws-builders/building-a-cloudfront-log-parser-for-hugo-with-kiro-cli-and-some-surprising-outcomes-e0e)
-- [The Intellectual Junior Syndrome](https://dev.to/srsandrade/the-intellectual-junior-syndrome-1dm3)
-- [From Static Docs to Living Knowledge Graphs: Fixing Engineering Documentation](https://dev.to/kislay/from-static-docs-to-living-knowledge-graphs-fixing-engineering-documentation-71k)
-- [FPGA_Part_07](https://dev.to/cevval/fpgapart07-h6c)
+- [Separación de Responsabilidades de los Dispositivos](https://dev.to/javascriptchile/separacion-de-responsabilidades-de-los-dispositivos-3meb)
+- [Stop Your RAG Agent from Making Things Up: A Functional Programming Approach](https://dev.to/sreeni5018/stop-your-rag-agent-from-making-things-up-a-functional-programming-approach-1bk3)
+- [Mother CLAUDE: Automating Everything with Hooks](https://dev.to/dorothyjb/mother-claude-automating-everything-with-hooks-l4p)
+- [Understanding getElementsByClassName vs querySelector in JavaScript](https://dev.to/ponvel_m_9b698962c39e9474/understanding-getelementsbyclassname-vs-queryselector-in-javascript-4mc3)
+- [GIT BASICS: UNDERSTAND VERSIN CONTROL, TRACK CHANGES, PUSH AND PULL CODES FOR BEGINNERS](https://dev.to/miranda1gatwiri/git-basics-understand-versin-control-track-changes-push-and-pull-codes-for-beginners-13la)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
