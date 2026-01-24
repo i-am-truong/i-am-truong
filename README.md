@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Java Multithreading Explained &lpar;Thread States, Synchronization &amp; Deadlocks&rpar; - Through One Example](https://dev.to/kshitij_jain_bbc56d59a866/java-multithreading-explained-thread-states-synchronization-deadlocks-through-one-example-83e)
-- [Boniface.dev — An AI Operator Portfolio Built with Gemini on Cloud Run](https://dev.to/boniface_alexander/bonifacedev-an-ai-operator-portfolio-built-with-gemini-on-cloud-run-3hg9)
-- [Building Modern Backends with Kaapi: Messaging with Kafka](https://dev.to/shygyver/building-modern-backends-with-kaapi-messaging-with-kafka-2e19)
-- [Why we moved our onboarding logic out of our SaaS backend code.](https://dev.to/shivsarthak/why-we-moved-our-onboarding-logic-out-of-our-saas-backend-code-485k)
-- [I cheated to maintain GitHub streak and I don&#39;t regret it](https://dev.to/aloisseckar/i-cheated-to-maintain-github-streak-and-i-dont-regret-it-39ka)
+- [A low maintenance Portfolio](https://dev.to/sonu0702/a-low-maintenance-portfolio-1m9h)
+- [Build a Hotel Feedback Form](https://dev.to/richardpascoe/build-a-hotel-feedback-form-1i0n)
+- [🐱 Cat_Face_Biometrics](https://dev.to/stklen/catfacebiometrics-5449)
+- [Trusting PayPal Webhooks the .NET Way](https://dev.to/peterwurzinger/trusting-paypal-webhooks-the-net-way-276d)
+- [Building AutoShorts: A High-Performance AI Pipeline for Automated Viral Content 🎬🤖](https://dev.to/divyaprakash_d_2d5d085bd4/building-autoshorts-a-high-performance-ai-pipeline-for-automated-viral-content-g5i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
