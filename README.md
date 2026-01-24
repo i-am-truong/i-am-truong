@@ -124,7 +124,7 @@ Python                   1 repo              █░░░░░░░░░░�
 - [Why I Built an AI to See Certainty in an Uncertain World](https://dev.to/globalperspectives/why-i-built-an-ai-to-see-certainty-in-an-uncertain-world-1c6k)
 - [FamBudget - Advanced Family Budget Management](https://dev.to/lalupj07/fambudget-advanced-family-budget-management-3gkn)
 - [Atomic Design w Nucleify – Twórz spójne i skalowalne UI](https://dev.to/szymcode/atomic-design-build-consistent-and-scalable-uis-4na2)
-- [ReTraced: A Job Scheduler Where Retries Are Data &lpar;Not Magic&rpar;](https://dev.to/anshikakalpana/retraced-a-job-scheduler-where-retries-are-data-not-magic-b41)
+- [Top 5 AI Gateways to Implement Guardrails in Your AI Applications](https://dev.to/kuldeep_paul/top-5-ai-gateways-to-implement-guardrails-in-your-ai-applications-5bgl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
