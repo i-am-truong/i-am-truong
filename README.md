@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Dioxide v2.0.0: Clean Architecture Made Simple](https://dev.to/mikelane/dioxide-v200-clean-architecture-made-simple-3gp6)
-- [We Built a City Boy Meme Generator](https://dev.to/merge-jpg/we-built-a-city-boy-meme-generator-2ldl)
-- [From Ingress to Gateway API: A Hands-On Walkthrough with NGINX Gateway Fabric](https://dev.to/keneojiteli/from-ingress-to-gateway-api-a-hands-on-walkthrough-with-nginx-gateway-fabric-5dn7)
-- [How I Built an Email-to-Google Sheets Automation Using GitHub Copilot CLI](https://dev.to/08562d8/how-i-built-an-email-to-google-sheets-automation-using-github-copilot-cli-481g)
-- [Hybrid Dagster OSS: Scalable Compute on a Hybrid Azure Setup](https://dev.to/chryztoph/hybrid-dagster-oss-scalable-compute-on-a-hybrid-azure-setup-554n)
+- [Vibe Coding on a 4GB RAM Chromebook?](https://dev.to/mikhael28/vibe-coding-on-a-4gb-ram-chromebook-2c8g)
+- [Building Tamper-Evident Audit Trails: What the 2025 Trading Crisis Taught Us About Cryptographic Logging](https://dev.to/veritaschain/building-tamper-evident-audit-trails-what-the-2025-trading-crisis-taught-us-about-cryptographic-384f)
+- [Electron MAS 빌드에서 HDR 비디오가 화면을 먹통으로 만드는 이유](https://dev.to/wes5510/electron-mas-bildeueseo-hdr-bidioga-hwamyeoneul-meogtongeuro-mandeuneun-iyu-3o1a)
+- [CompTIA Security+ SY0-701 2.2 Study Guide: Threat Vectors and Social Engineering](https://dev.to/andrew_despres/comptia-security-sy0-701-22-study-guide-threat-vectors-and-social-engineering-370m)
+- [Your Morning AI Digest: From LeCun&#39;s New Venture to eBay&#39;s AI Shopping Ban](https://dev.to/ethan_zhang_e501fea89c25b/your-morning-ai-digest-from-lecuns-new-venture-to-ebays-ai-shopping-ban-2hnh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
