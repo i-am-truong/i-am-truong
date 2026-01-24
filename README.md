@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Vibe Coding on a 4GB RAM Chromebook?](https://dev.to/mikhael28/vibe-coding-on-a-4gb-ram-chromebook-2c8g)
-- [Building Tamper-Evident Audit Trails: What the 2025 Trading Crisis Taught Us About Cryptographic Logging](https://dev.to/veritaschain/building-tamper-evident-audit-trails-what-the-2025-trading-crisis-taught-us-about-cryptographic-384f)
-- [Electron MAS 빌드에서 HDR 비디오가 화면을 먹통으로 만드는 이유](https://dev.to/wes5510/electron-mas-bildeueseo-hdr-bidioga-hwamyeoneul-meogtongeuro-mandeuneun-iyu-3o1a)
-- [CompTIA Security+ SY0-701 2.2 Study Guide: Threat Vectors and Social Engineering](https://dev.to/andrew_despres/comptia-security-sy0-701-22-study-guide-threat-vectors-and-social-engineering-370m)
-- [Your Morning AI Digest: From LeCun&#39;s New Venture to eBay&#39;s AI Shopping Ban](https://dev.to/ethan_zhang_e501fea89c25b/your-morning-ai-digest-from-lecuns-new-venture-to-ebays-ai-shopping-ban-2hnh)
+- [Building Stateful AI Agents at Scale with Microsoft Orleans](https://dev.to/sreeni5018/building-stateful-ai-agents-at-scale-with-microsoft-orleans-4n14)
+- [🗓️ Simp1OS Dev Logs – Day 2: Framebuffer Still Missing, Sanity Also Missing](https://dev.to/arush179/simp1os-dev-logs-day-2-framebuffer-still-missing-sanity-also-missing-5de3)
+- [The Anti-Resume: Why I Hid My Portfolio in the Dark](https://dev.to/depapp/the-anti-resume-why-i-hid-my-portfolio-in-the-dark-3gee)
+- [Essential AWS Services Every Full-Stack Developer Must Know](https://dev.to/suruliraajan/essential-aws-services-every-full-stack-developer-must-know-15gc)
+- [How DNS Resolution Works](https://dev.to/anoop-rajoriya/how-dns-resolution-works-2n4i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
