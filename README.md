@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What Is AI Inference Governance? The new definition.](https://dev.to/neuralmethod/what-is-ai-inference-governance-the-new-definition-1j52)
-- [REST vs GraphQL: Which Should You Use?](https://dev.to/apiverve/rest-vs-graphql-which-should-you-use-4ak1)
-- [Multi-Currency E-commerce: Stop Losing Sales](https://dev.to/apiverve/multi-currency-e-commerce-stop-losing-sales-5a1c)
-- [How to Migrate from VMware ESXi to Proxmox VE &lpar;2026 Step-by-Step Guide&rpar;](https://dev.to/bytesrack/how-to-migrate-from-vmware-esxi-to-proxmox-ve-2026-step-by-step-guide-j5p)
-- [Introduction to Microsoft Excel for Data Analytics](https://dev.to/kinyywa-data-analyst/introduction-to-microsoft-excel-for-data-analytics-56a1)
+- [Writing Patents with AI: What Works &lpar;and What Doesn’t&rpar;](https://dev.to/idea2patentai/writing-patents-with-ai-what-works-and-what-doesnt-21a8)
+- [Recognize The Importance Of Transparent And Explainable Models](https://dev.to/aws-builders/recognize-the-importance-of-transparent-and-explainablemodels-g9d)
+- [Voice Live vs Real-Time API : Quelle solution choisir sur Azure AI Foundry ?](https://dev.to/galaxy_ai/-voice-live-vs-real-time-api-quelle-solution-choisir-sur-azure-ai-foundry--54m0)
+- [Typesafe application configuration in TypeScript](https://dev.to/jonthanfielding/typesafe-application-configuration-in-typescript-ngh)
+- [Docker: The Magic Box That Saved DevOps](https://dev.to/sbkumbar024/docker-the-magic-box-that-saved-devops-1469)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
