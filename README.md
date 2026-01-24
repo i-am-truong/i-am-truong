@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Modern Backends with Kaapi: Messaging with Kafka](https://dev.to/shygyver/building-modern-backends-with-kaapi-messaging-with-kafka-2e19)
+- [Why we moved our onboarding logic out of our SaaS backend code.](https://dev.to/shivsarthak/why-we-moved-our-onboarding-logic-out-of-our-saas-backend-code-485k)
 - [I cheated to maintain GitHub streak and I don&#39;t regret it](https://dev.to/aloisseckar/i-cheated-to-maintain-github-streak-and-i-dont-regret-it-39ka)
-- [Inside the Command Center](https://dev.to/aniket_purohit/inside-the-command-center-4jl5)
-- [Day 2: What is EEG](https://dev.to/libialany/day-2-what-is-eeg-140o)
-- [DNS Record Types Explained](https://dev.to/hiral/dns-record-types-explained-5dl1)
-- [I Tried Vibe Coding for the First Time Using Warp — Here’s What I Learned](https://dev.to/muhammad_rabbi_dev/i-tried-vibe-coding-for-the-first-time-using-warp-heres-what-i-learned-4o72)
+- [Building a Claude Traffic Proxy in One Session](https://dev.to/theskillsteam/building-a-claude-traffic-proxy-in-one-session-46kg)
+- [How I Built a High-Performance CS2 Leaderboard Using Antigravity &amp; GitHub Actions 🚀](https://dev.to/ibrahimsezer/how-i-built-a-high-performance-cs2-leaderboard-using-antigravity-github-actions-31o7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
