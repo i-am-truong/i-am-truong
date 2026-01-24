@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Llama Guard: What It Actually Does &lpar;And Doesn&#39;t Do&rpar;](https://dev.to/jgracie52/llama-guard-what-it-actually-does-and-doesnt-do-24p9)
-- [How to Convert HTML to PDF in 3 Easy Ways](https://dev.to/liam_turner/how-to-convert-html-to-pdf-in-3-easy-ways-4152)
-- [Linux - Quick RAM Usage Check](https://dev.to/ben-santora/linux-quick-ram-usage-check-3lda)
-- [Agent build RPG style](https://dev.to/talbalash/agent-build-rpg-style-1amb)
-- [[POG-03] Prompts as First-class Software Assets: Stop Treating Your Gold Like Stones](https://dev.to/enjtorian/pog-03-prompts-as-first-class-software-assets-stop-treating-your-gold-like-stones-3jc3)
+- [DAGs &amp; Topological Sorting](https://dev.to/josephakayesi/dags-topological-sorting-1o9k)
+- [I Built a Productivity &quot;Command Center&quot; for Chrome with React 19 &amp; Glassmorphism 🚀](https://dev.to/chieund/i-built-a-productivity-command-center-for-chrome-with-react-19-glassmorphism-3jbm)
+- [Build AI Agents on Kubernetes: Kagent + Amazon Bedrock Setup Guide](https://dev.to/thenjdevopsguy/build-ai-agents-on-kubernetes-kagent-amazon-bedrock-setup-guide-497n)
+- [My 2026 AI Stack: 8 Tools That 10x My Coding &amp; Productivity &lpar;Free Tier Only&rpar;](https://dev.to/theonemohitsharma/my-2026-ai-stack-8-tools-that-10x-my-coding-productivity-free-tier-only-hf5)
+- [CVE-2026-20888: Unscheduled Disruption: Killing Gitea Auto-Merges via logic Flaws](https://dev.to/cverports/cve-2026-20888-unscheduled-disruption-killing-gitea-auto-merges-via-logic-flaws-1i9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
