@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Atomic Design in Nucleify – Build Consistent and Scalable UIs](https://dev.to/szymcode/atomic-design-in-nucleify-build-consistent-and-scalable-uis-3mng)
-- [Why I Built an AI to See Certainty in an Uncertain World](https://dev.to/globalperspectives/why-i-built-an-ai-to-see-certainty-in-an-uncertain-world-1c6k)
-- [FamBudget - Advanced Family Budget Management](https://dev.to/lalupj07/fambudget-advanced-family-budget-management-3gkn)
-- [Atomic Design w Nucleify – Twórz spójne i skalowalne UI](https://dev.to/szymcode/atomic-design-build-consistent-and-scalable-uis-4na2)
-- [Top 5 AI Gateways to Implement Guardrails in Your AI Applications](https://dev.to/kuldeep_paul/top-5-ai-gateways-to-implement-guardrails-in-your-ai-applications-5bgl)
+- [Navigating Proton Spam and the AI Consent Dilemma](https://dev.to/dd8888/navigating-proton-spam-and-the-ai-consent-dilemma-3i68)
+- [Protecting Your Prize-Winning Cyber-Carrots: A Defense-in-Depth Guide to Azure AKS with Crossplane v2](https://dev.to/the-software-s-journey/protecting-your-prize-winning-cyber-carrots-a-defense-in-depth-guide-to-azure-aks-with-crossplane-43f0)
+- [FastAPI Architecture: Clean, Scalable &amp; Self-Documenting](https://dev.to/naved_shaikh/fastapi-architecture-clean-scalable-self-documenting-22n8)
+- [Don’t Learn DevOps Before Understanding Web Development](https://dev.to/tusharsharma099/dont-learn-devops-before-understanding-web-development-fb)
+- [Understanding Git and GitHub as a Beginner](https://dev.to/adithyan_g_6f3e606905eed7/understanding-git-and-github-as-a-345j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
