@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Return HTTP 410 &lpar;Gone&rpar; Status in Next.js App Router: Two Workarounds](https://dev.to/alessandro-grosselle/how-to-return-http-410-gone-status-in-nextjs-app-router-two-workarounds-2f0g)
 - [Security made free...](https://dev.to/freecoderexperience/security-made-free-26pj)
 - [🚀 Building a Real-World CI/CD Pipeline with Jenkins, Docker, and Docker Compose](https://dev.to/developedbyviv/building-a-real-world-cicd-pipeline-with-jenkins-docker-and-docker-compose-4afp)
 - [Building Type-Safe ETL Pipelines in TypeScript](https://dev.to/hodeware/building-type-safe-etl-pipelines-in-typescript-4k5b)
 - [Introduction to MS Excel for Data Analytics](https://dev.to/tonny-o/introduction-to-ms-excel-for-data-analytics-4p00)
-- [Context Driven Development for Claude Code](https://dev.to/azous/context-driven-development-for-claude-code-4lc2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
