@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Conceptual Framework for Layered Programming Languages and an Operating System Built on Hardware Abstraction &lpar;Draft&rpar;](https://dev.to/powerwordtree/a-conceptual-framework-for-layered-programming-languages-and-an-operating-system-built-on-hardware-3o1n)
+- [Converting an Unencrypted EBS Volume to an Encrypted One in AWS: A Step-by-Step Guide](https://dev.to/shashank-2310/converting-an-unencrypted-ebs-volume-to-an-encrypted-one-in-aws-a-step-by-step-guide-4b1h)
+- [Before Adopting AI](https://dev.to/manager_log/before-adopting-ai-567d)
+- [A Management Guide for Hands-On Leaders](https://dev.to/manager_log/a-management-guide-for-hands-on-leaders-507l)
 - [Building Shopify Apps Solo: My React Router 7 + AI Tech Stack](https://dev.to/kulikboxx/building-shopify-apps-solo-my-react-router-7-ai-tech-stack-3dk4)
-- [How to Be Someone Who Makes Your Colleagues Shine](https://dev.to/manager_log/how-to-be-someone-who-makes-your-colleagues-shine-59mg)
-- [CVE-2026-21227 | Azure Logic Apps Elevation of Privilege Vulnerability](https://dev.to/aakash_rahsi/cve-2026-21227-azure-logic-apps-elevation-of-privilege-vulnerability-8jb)
-- [A Brief Pause, and What’s Next in My 90-Day Web3 Learning Journey](https://dev.to/yanjun/a-brief-pause-and-whats-next-in-my-90-day-web3-learning-journey-2pg9)
-- [pytest-html-plus VS Code — A Must-Have Extension If You Run Pytests](https://dev.to/kevi019/pytest-html-plus-vs-code-a-must-have-extension-if-you-run-pytests-e3h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
