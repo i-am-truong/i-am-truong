@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Publishing Crates to crates.io](https://dev.to/godofgeeks/publishing-crates-to-cratesio-41dn)
-- [GPU and RAM Prices Surge in Australia: RTX 5090 Up 15%, RAM Up 38% - January 2026](https://dev.to/rosgluk/gpu-and-ram-prices-surge-in-australia-rtx-5090-up-15-ram-up-38-january-2026-kkb)
-- [CSA XCON 2026: India’s Premier Cybersecurity Conference Bringing Global Experts to Dehradun](https://dev.to/sagar_sajwan_a91beb41c861/csa-xcon-2026-indias-premier-cybersecurity-conference-bringing-global-experts-to-dehradun-3011)
-- [CVE-2026-20805 | Desktop Window Manager Information Disclosure Vulnerability](https://dev.to/aakash_rahsi/cve-2026-20805-desktop-window-manager-information-disclosure-vulnerability-1aj7)
-- [This portfolio isn’t perfect, but it’s 100% mine](https://dev.to/random_ti/this-portfolio-isnt-perfect-but-its-100-mine-3hi5)
+- [Multi-Currency E-commerce: Stop Losing Sales](https://dev.to/apiverve/multi-currency-e-commerce-stop-losing-sales-5a1c)
+- [How to Migrate from VMware ESXi to Proxmox VE &lpar;2026 Step-by-Step Guide&rpar;](https://dev.to/bytesrack/how-to-migrate-from-vmware-esxi-to-proxmox-ve-2026-step-by-step-guide-j5p)
+- [Introduction to Microsoft Excel for Data Analytics](https://dev.to/kinyywa-data-analyst/introduction-to-microsoft-excel-for-data-analytics-56a1)
+- [🌍 I Stopped Using RestTemplate… Spring Boot RestClient Is Cleaner](https://dev.to/shashwathsh/i-stopped-using-resttemplate-spring-boot-restclient-is-cleaner-3hg)
+- [3 Ways to Create a Sum Function in JavaScript](https://dev.to/dharmesh_ab1dc022d7b2472c/3-ways-to-create-a-sum-function-in-javascript-nmc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
