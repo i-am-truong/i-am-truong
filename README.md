@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Linux for Data Engineers, Including Practical Use of Vi and Nano with Examples](https://dev.to/motanga/introduction-to-linux-for-data-engineers-including-practical-use-of-vi-and-nano-with-examples-3oc2)
+- [I made a game site because I didn’t like the existing ones &lpar;and learned to stop overengineering&rpar;](https://dev.to/rupertuple/i-made-a-game-site-because-i-didnt-like-the-existing-ones-and-learned-to-stop-overengineering-35c1)
+- [30 Minutes Daily: The Only Learning Strategy You Need in 2026](https://dev.to/tirthdoshi009/30-minutes-daily-the-only-learning-strategy-you-need-in-2026-1714)
 - [Understanding the ArgMax Function in Neural Networks: A Handy Simplification for Prediction](https://dev.to/rijultp/understanding-the-argmax-function-in-neural-networks-a-handy-simplification-for-prediction-5809)
-- [How I built a timeline of universal events](https://dev.to/bingkahu/how-i-built-a-timeline-of-universal-events-1179)
-- [Vibe Coding one Slice at a Time](https://dev.to/worldlinetech/vibe-coding-one-slice-at-a-time-4n3p)
-- [How Tokenization, Embeddings &amp; Attention Work in LLMs &lpar;Part 2&rpar;](https://dev.to/prabhasg56/how-tokenization-embeddings-attention-work-in-llms-part-2-3i0c)
-- [Agent Skills: Teach Claude Once, Use Everywhere](https://dev.to/rajeshroyal/agent-skills-teach-claude-once-use-everywhere-14cc)
+- [Linear Regreesion Deepdive in Hindi](https://dev.to/jenil_sheth_3eb6f86dc4900/linear-regreesion-deepdive-in-hindi-3n6h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
