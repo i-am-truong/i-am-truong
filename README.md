@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What Broke During Our AWS DMS Migration &lpar;And How We Fixed It&rpar;](https://dev.to/amaan-igs/what-broke-during-our-aws-dms-migration-and-how-we-fixed-it-198p)
+- [Our CI Doesn&#39;t Do Weekends](https://dev.to/kaeruct/our-ci-doesnt-do-weekends-4og1)
 - [A Conceptual Framework for Layered Programming Languages and an Operating System Built on Hardware Abstraction &lpar;Draft&rpar;](https://dev.to/powerwordtree/a-conceptual-framework-for-layered-programming-languages-and-an-operating-system-built-on-hardware-3o1n)
 - [Converting an Unencrypted EBS Volume to an Encrypted One in AWS: A Step-by-Step Guide](https://dev.to/shashank-2310/converting-an-unencrypted-ebs-volume-to-an-encrypted-one-in-aws-a-step-by-step-guide-4b1h)
 - [Before Adopting AI](https://dev.to/manager_log/before-adopting-ai-567d)
-- [A Management Guide for Hands-On Leaders](https://dev.to/manager_log/a-management-guide-for-hands-on-leaders-507l)
-- [Building Shopify Apps Solo: My React Router 7 + AI Tech Stack](https://dev.to/kulikboxx/building-shopify-apps-solo-my-react-router-7-ai-tech-stack-3dk4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
