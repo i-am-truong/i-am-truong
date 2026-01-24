@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How Stripe Billing Failures Quietly Drain SaaS Revenue](https://dev.to/abhishek_sanoria_8aa6f6a4/how-stripe-billing-failures-quietly-drain-saas-revenue-2196)
+- [From WAL to WASM - High-Performance Local-First Sync with Postgres &amp; SQLite](https://dev.to/rafacalderon/from-wal-to-wasm-high-performance-local-first-sync-with-postgres-sqlite-50h0)
+- [FPGA_Part_08](https://dev.to/cevval/fpgapart08-1gak)
 - [Separación de Responsabilidades de los Dispositivos](https://dev.to/javascriptchile/separacion-de-responsabilidades-de-los-dispositivos-3meb)
 - [Stop Your RAG Agent from Making Things Up: A Functional Programming Approach](https://dev.to/sreeni5018/stop-your-rag-agent-from-making-things-up-a-functional-programming-approach-1bk3)
-- [Mother CLAUDE: Automating Everything with Hooks](https://dev.to/dorothyjb/mother-claude-automating-everything-with-hooks-l4p)
-- [Understanding getElementsByClassName vs querySelector in JavaScript](https://dev.to/ponvel_m_9b698962c39e9474/understanding-getelementsbyclassname-vs-queryselector-in-javascript-4mc3)
-- [GIT BASICS: UNDERSTAND VERSIN CONTROL, TRACK CHANGES, PUSH AND PULL CODES FOR BEGINNERS](https://dev.to/miranda1gatwiri/git-basics-understand-versin-control-track-changes-push-and-pull-codes-for-beginners-13la)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
