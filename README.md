@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why I built a reusable UI kit for .NET MAUI &lpar;free preview available&rpar;](https://dev.to/tlssoftware/why-i-built-a-reusable-ui-kit-for-net-maui-free-preview-available-5h53)
-- [Pantry – Web-Application for organizing everything around food in your household.](https://dev.to/netz_sg/pantry-an-open-source-project-to-organize-shared-resources-k1m)
-- [Writing Patents with AI: What Works &lpar;and What Doesn’t&rpar;](https://dev.to/idea2patentai/writing-patents-with-ai-what-works-and-what-doesnt-21a8)
-- [Recognize The Importance Of Transparent And Explainable Models](https://dev.to/aws-builders/recognize-the-importance-of-transparent-and-explainablemodels-g9d)
-- [Why I Chose CRTP for My C# Result Pattern Library](https://dev.to/reslava/why-i-chose-crtp-for-my-c-result-pattern-library-2a49)
+- [pytest-html-plus VS Code — A Must-Have Extension If You Run Pytests](https://dev.to/kevi019/pytest-html-plus-vs-code-a-must-have-extension-if-you-run-pytests-e3h)
+- [Solved: Syncing Zoom Recordings to DropBox for Long-term Storage](https://dev.to/techresolve/solved-syncing-zoom-recordings-to-dropbox-for-long-term-storage-28h3)
+- [I Rewrote Google&#39;s Gemini CLI in Go - 68x Faster Startup](https://dev.to/owada_tomohiro_28ec22f5ee/i-rewrote-googles-gemini-cli-in-go-68x-faster-startup-30em)
+- [Between Delegation and Hands-On Leadership](https://dev.to/manager_log/between-delegation-and-hands-on-leadership-1p4i)
+- [Cville](https://dev.to/roy_hodgejr_747b4aefb46/cville-1h66)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
