@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What Broke During Our AWS DMS Migration &lpar;And How We Fixed It&rpar;](https://dev.to/amaan-igs/what-broke-during-our-aws-dms-migration-and-how-we-fixed-it-198p)
-- [Our CI Doesn&#39;t Do Weekends](https://dev.to/kaeruct/our-ci-doesnt-do-weekends-4og1)
-- [A Conceptual Framework for Layered Programming Languages and an Operating System Built on Hardware Abstraction &lpar;Draft&rpar;](https://dev.to/powerwordtree/a-conceptual-framework-for-layered-programming-languages-and-an-operating-system-built-on-hardware-3o1n)
-- [Converting an Unencrypted EBS Volume to an Encrypted One in AWS: A Step-by-Step Guide](https://dev.to/shashank-2310/converting-an-unencrypted-ebs-volume-to-an-encrypted-one-in-aws-a-step-by-step-guide-4b1h)
-- [Before Adopting AI](https://dev.to/manager_log/before-adopting-ai-567d)
+- [Atomic Design in Nucleify – Build Consistent and Scalable UIs](https://dev.to/szymcode/atomic-design-in-nucleify-build-consistent-and-scalable-uis-3mng)
+- [Why I Built an AI to See Certainty in an Uncertain World](https://dev.to/globalperspectives/why-i-built-an-ai-to-see-certainty-in-an-uncertain-world-1c6k)
+- [FamBudget - Advanced Family Budget Management](https://dev.to/lalupj07/fambudget-advanced-family-budget-management-3gkn)
+- [Atomic Design w Nucleify – Twórz spójne i skalowalne UI](https://dev.to/szymcode/atomic-design-build-consistent-and-scalable-uis-4na2)
+- [ReTraced: A Job Scheduler Where Retries Are Data &lpar;Not Magic&rpar;](https://dev.to/anshikakalpana/retraced-a-job-scheduler-where-retries-are-data-not-magic-b41)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
