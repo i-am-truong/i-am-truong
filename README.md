@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a GPU-Accelerated Terminal Emulator with Rust and GPUI](https://dev.to/zhiwei_ma_0fc08a668c1eb51/building-a-gpu-accelerated-terminal-emulator-with-rust-and-gpui-4103)
 - [How I Use Temporary Email to Avoid Spam and Protect Privacy](https://dev.to/sarath_unrelax/how-i-use-temporary-email-to-avoid-spam-and-protect-privacy-51p)
 - [Scope in Python](https://dev.to/ruqiya_arshad_7839c5e21f2/scope-in-python-3bg8)
 - [The Human Loop: Reclaiming Judgment and Strategy in the AI-Augmented Enterprise new](https://dev.to/prakash_maheshwaran/the-human-loop-reclaiming-judgment-and-strategy-in-the-ai-augmented-enterprise-new-agk)
 - [How it feels to write a GPKG library in 2026 &lpar;in Rust!&rpar;](https://dev.to/yutannihilation/how-it-feels-to-write-a-gpkg-library-in-2026-in-rust-52mg)
-- [Next.js Lighthouse Optimization: 42 to 97 Case Study](https://dev.to/amansuryavanshi-ai/nextjs-lighthouse-optimization-42-to-97-case-study-4h6a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
