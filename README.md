@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Tried Vibe Coding for the First Time Using Warp — Here’s What I Learned](https://dev.to/muhammad_rabbi_dev/i-tried-vibe-coding-for-the-first-time-using-warp-heres-what-i-learned-4o72)
+- [Day 1: Why I’m Doing 60 Days of EEG Data Collection](https://dev.to/libialany/day-1-why-im-doing-60-days-of-eeg-data-collection-h6j)
+- [🗓️ Simp1OS Dev Logs – Day 3: The Bootable Breakthrough](https://dev.to/arush179/simp1os-dev-logs-day-3-the-bootable-breakthrough-hdm)
 - [DAGs &amp; Topological Sorting](https://dev.to/josephakayesi/dags-topological-sorting-1o9k)
 - [I Built a Productivity &quot;Command Center&quot; for Chrome with React 19 &amp; Glassmorphism 🚀](https://dev.to/chieund/i-built-a-productivity-command-center-for-chrome-with-react-19-glassmorphism-3jbm)
-- [Build AI Agents on Kubernetes: Kagent + Amazon Bedrock Setup Guide](https://dev.to/thenjdevopsguy/build-ai-agents-on-kubernetes-kagent-amazon-bedrock-setup-guide-497n)
-- [My 2026 AI Stack: 8 Tools That 10x My Coding &amp; Productivity &lpar;Free Tier Only&rpar;](https://dev.to/theonemohitsharma/my-2026-ai-stack-8-tools-that-10x-my-coding-productivity-free-tier-only-hf5)
-- [CVE-2026-20888: Unscheduled Disruption: Killing Gitea Auto-Merges via logic Flaws](https://dev.to/cverports/cve-2026-20888-unscheduled-disruption-killing-gitea-auto-merges-via-logic-flaws-1i9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
