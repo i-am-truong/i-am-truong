@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Databases with Scrapy: The Beginner&#39;s Guide](https://dev.to/ikram_khan/databases-with-scrapy-the-beginners-guide-la7)
 - [Building a CloudFront log parser for Hugo with Kiro CLI - and some surprising outcomes!](https://dev.to/aws-builders/building-a-cloudfront-log-parser-for-hugo-with-kiro-cli-and-some-surprising-outcomes-e0e)
 - [The Intellectual Junior Syndrome](https://dev.to/srsandrade/the-intellectual-junior-syndrome-1dm3)
+- [From Static Docs to Living Knowledge Graphs: Fixing Engineering Documentation](https://dev.to/kislay/from-static-docs-to-living-knowledge-graphs-fixing-engineering-documentation-71k)
 - [FPGA_Part_07](https://dev.to/cevval/fpgapart07-h6c)
-- [I Built a Privacy-First PDF Tool That Never Uploads Your File](https://dev.to/aizazart/i-built-a-privacy-first-pdf-tool-that-never-uploads-your-file-1blh)
-- [Book Recommendation: The Subscription Economy](https://dev.to/evanlin/book-recommendation-the-subscription-economy-2k3e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
