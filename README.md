@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a CloudFront log parser for Hugo with Kiro CLI - and some surprising outcomes!](https://dev.to/aws-builders/building-a-cloudfront-log-parser-for-hugo-with-kiro-cli-and-some-surprising-outcomes-e0e)
+- [The Intellectual Junior Syndrome](https://dev.to/srsandrade/the-intellectual-junior-syndrome-1dm3)
 - [FPGA_Part_07](https://dev.to/cevval/fpgapart07-h6c)
 - [I Built a Privacy-First PDF Tool That Never Uploads Your File](https://dev.to/aizazart/i-built-a-privacy-first-pdf-tool-that-never-uploads-your-file-1blh)
 - [Book Recommendation: The Subscription Economy](https://dev.to/evanlin/book-recommendation-the-subscription-economy-2k3e)
-- [Sharing a Good Book: How I Learned to Invest at 45 and Earned $2 Million in Dividends Annually](https://dev.to/evanlin/sharing-a-good-book-how-i-learned-to-invest-at-45-and-earned-2-million-in-dividends-annually-29gh)
-- [Caching, Consistency, and Trade-offs: Designing Scalable Distributed Systems](https://dev.to/ahsanfarooq210/caching-consistency-and-trade-offs-designing-scalable-distributed-systems-3nlf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
