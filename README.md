@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [WiFi Not Working On The Train? Docker Might Be To Blame](https://dev.to/schaerfo/wifi-not-working-on-the-train-docker-might-be-to-blame-2k8l)
-- [How to Stop an SLM from Overthinking](https://dev.to/ben-santora/how-to-stop-an-slm-from-overthinking-5e7k)
-- [[Boost]](https://dev.to/marabesi/-edh)
-- [Clean Architecture vs Vertical Slice: Pragmatism Over Dogma in Modern Software Design](https://dev.to/harrykhlo/clean-architecture-vs-vertical-slice-pragmatism-over-dogma-in-modern-software-design-2co5)
-- [jSciPy: A Practical SciPy-Inspired Scientific Computing and Signal Processing Library for Java &amp; Android](https://dev.to/hissain/jscipy-a-practical-scipy-inspired-scientific-computing-and-signal-processing-library-for-java--334m)
+- [Introduction to MS Excel for Data Analytics](https://dev.to/tonny-o/introduction-to-ms-excel-for-data-analytics-4p00)
+- [ML ALGOS List](https://dev.to/jenil_sheth_3eb6f86dc4900/ml-algos-list-2eio)
+- [The Offline-First Struggle: How I Built a Robust Sync Engine for Flutter &lpar;SynapseLink&rpar;](https://dev.to/vortex_shadow_8bce7f9fe36/the-offline-first-struggle-how-i-built-a-robust-sync-engine-for-flutter-synapselink-4d8a)
+- [Silent Failures Most Metrics Don’t See](https://dev.to/plc-creates/silent-failures-most-metrics-dont-see-3e20)
+- [The Vibe Coding Hangover: Why I’m Returning to Engineering Rigor in 2026](https://dev.to/maximiliano_allende97/the-vibe-coding-hangover-why-im-returning-to-engineering-rigor-in-2026-49hl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
