@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I cheated to maintain GitHub streak and I don&#39;t regret it](https://dev.to/aloisseckar/i-cheated-to-maintain-github-streak-and-i-dont-regret-it-39ka)
+- [Inside the Command Center](https://dev.to/aniket_purohit/inside-the-command-center-4jl5)
+- [Day 2: What is EEG](https://dev.to/libialany/day-2-what-is-eeg-140o)
+- [DNS Record Types Explained](https://dev.to/hiral/dns-record-types-explained-5dl1)
 - [I Tried Vibe Coding for the First Time Using Warp — Here’s What I Learned](https://dev.to/muhammad_rabbi_dev/i-tried-vibe-coding-for-the-first-time-using-warp-heres-what-i-learned-4o72)
-- [Day 1: Why I’m Doing 60 Days of EEG Data Collection](https://dev.to/libialany/day-1-why-im-doing-60-days-of-eeg-data-collection-h6j)
-- [🗓️ Simp1OS Dev Logs – Day 3: The Bootable Breakthrough](https://dev.to/arush179/simp1os-dev-logs-day-3-the-bootable-breakthrough-hdm)
-- [DAGs &amp; Topological Sorting](https://dev.to/josephakayesi/dags-topological-sorting-1o9k)
-- [I Built a Productivity &quot;Command Center&quot; for Chrome with React 19 &amp; Glassmorphism 🚀](https://dev.to/chieund/i-built-a-productivity-command-center-for-chrome-with-react-19-glassmorphism-3jbm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
