@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Scalable Image upload and storage system - HLD](https://dev.to/zeeshanali0704/scalable-image-upload-and-storage-system-hld-52i2)
-- [Seeing Isn&#39;t Believing](https://dev.to/rawveg/seeing-isnt-believing-1onl)
-- [GitHub Copilot CLI + MCP: Talk to Your Database in Plain English](https://dev.to/abhirockzz/github-copilot-cli-mcp-talk-to-your-database-in-plain-english-3go4)
-- [OpenAI&#39;s testament to Postgresql reliability](https://dev.to/alexis_gilgonzales_c5d9a/openais-testament-to-postgresql-reliability-12o2)
-- [Understanding Network Devices](https://dev.to/6116hayat/understanding-network-devices-3gg1)
+- [Llama Guard: What It Actually Does &lpar;And Doesn&#39;t Do&rpar;](https://dev.to/jgracie52/llama-guard-what-it-actually-does-and-doesnt-do-24p9)
+- [How to Convert HTML to PDF in 3 Easy Ways](https://dev.to/liam_turner/how-to-convert-html-to-pdf-in-3-easy-ways-4152)
+- [Linux - Quick RAM Usage Check](https://dev.to/ben-santora/linux-quick-ram-usage-check-3lda)
+- [Agent build RPG style](https://dev.to/talbalash/agent-build-rpg-style-1amb)
+- [[POG-03] Prompts as First-class Software Assets: Stop Treating Your Gold Like Stones](https://dev.to/enjtorian/pog-03-prompts-as-first-class-software-assets-stop-treating-your-gold-like-stones-3jc3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
