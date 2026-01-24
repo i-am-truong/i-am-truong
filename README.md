@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Linux for Data Engineers, Including Practical Use of Vi and Nano with Examples](https://dev.to/motanga/introduction-to-linux-for-data-engineers-including-practical-use-of-vi-and-nano-with-examples-3oc2)
-- [I made a game site because I didn’t like the existing ones &lpar;and learned to stop overengineering&rpar;](https://dev.to/rupertuple/i-made-a-game-site-because-i-didnt-like-the-existing-ones-and-learned-to-stop-overengineering-35c1)
-- [30 Minutes Daily: The Only Learning Strategy You Need in 2026](https://dev.to/tirthdoshi009/30-minutes-daily-the-only-learning-strategy-you-need-in-2026-1714)
-- [Understanding the ArgMax Function in Neural Networks: A Handy Simplification for Prediction](https://dev.to/rijultp/understanding-the-argmax-function-in-neural-networks-a-handy-simplification-for-prediction-5809)
-- [Linear Regreesion Deepdive in Hindi](https://dev.to/jenil_sheth_3eb6f86dc4900/linear-regreesion-deepdive-in-hindi-3n6h)
+- [Happy coding](https://dev.to/mbugua70/happy-coding-4l8)
+- [[Boost]](https://dev.to/dd8888/-55oc)
+- [The Agent Mesh: Why &quot;Governance&quot; is actually an Engineering Problem](https://dev.to/webmethodman/the-agent-mesh-why-governance-is-actually-an-engineering-problem-h1e)
+- [React Render vs Commit: What Actually Happens &lpar;DOM vs React Native&rpar;](https://dev.to/mbugua70/react-render-vs-commit-what-actually-happens-dom-vs-react-native-2f7o)
+- [How I Built a 69KB Portfolio with Google&#39;s Coolest Tools](https://dev.to/vadimengineer/how-i-built-a-69kb-portfolio-with-googles-coolest-tools-1494)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
