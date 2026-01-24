@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[Boost]](https://dev.to/marabesi/-edh)
 - [Clean Architecture vs Vertical Slice: Pragmatism Over Dogma in Modern Software Design](https://dev.to/harrykhlo/clean-architecture-vs-vertical-slice-pragmatism-over-dogma-in-modern-software-design-2co5)
 - [jSciPy: A Practical SciPy-Inspired Scientific Computing and Signal Processing Library for Java &amp; Android](https://dev.to/hissain/jscipy-a-practical-scipy-inspired-scientific-computing-and-signal-processing-library-for-java--334m)
 - [When Over-Engineering Actually Makes Sense &lpar;And How to Know You’re There&rpar;](https://dev.to/invincible/when-over-engineering-actually-makes-sense-and-how-to-know-youre-there-5669)
 - [Why Culture Doesn&#39;t Make Societies Wealthy Part 1/9](https://dev.to/devunionx/why-culture-doesnt-make-societies-wealthy-part-19-3132)
-- [Authority Placement: Control Layers and Enforcement Boundaries](https://dev.to/thatechmaestro/authority-placement-control-layers-and-enforcement-boundaries-3cpo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
