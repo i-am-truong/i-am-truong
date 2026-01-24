@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [【GAS x Gemini】Prompt to Create an In-house Web App with UI/UX Awareness in 15 Minutes](https://dev.to/akari_iku/gas-x-gemini-prompt-to-create-an-in-house-web-app-with-uiux-awareness-in-15-minutes-1oji)
+- [How to Use MCP with WordPress: Step-by-Step](https://dev.to/adovgun/how-to-use-mcp-with-wordpress-step-by-step-1p3i)
+- [Rod Johnson, creator of the Spring Framework, to Keynote the Devnexus 2026 Conference](https://dev.to/vincentmayers/rod-johnson-creator-of-the-spring-framework-to-keynote-the-devnexus-2026-conference-3bgd)
 - [How to Return HTTP 410 &lpar;Gone&rpar; Status in Next.js App Router: Two Workarounds](https://dev.to/alessandro-grosselle/how-to-return-http-410-gone-status-in-nextjs-app-router-two-workarounds-2f0g)
-- [Security made free...](https://dev.to/freecoderexperience/security-made-free-26pj)
-- [🚀 Building a Real-World CI/CD Pipeline with Jenkins, Docker, and Docker Compose](https://dev.to/developedbyviv/building-a-real-world-cicd-pipeline-with-jenkins-docker-and-docker-compose-4afp)
-- [Building Type-Safe ETL Pipelines in TypeScript](https://dev.to/hodeware/building-type-safe-etl-pipelines-in-typescript-4k5b)
-- [Introduction to MS Excel for Data Analytics](https://dev.to/tonny-o/introduction-to-ms-excel-for-data-analytics-4p00)
+- [Building an AI-Powered Photo to Video App: Technical Insights](https://dev.to/aykut_ylmaz_95d0ffd2c163/building-an-ai-powered-photo-to-video-app-technical-insights-1d95)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
