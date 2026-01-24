@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Publishing Crates to crates.io](https://dev.to/godofgeeks/publishing-crates-to-cratesio-41dn)
+- [GPU and RAM Prices Surge in Australia: RTX 5090 Up 15%, RAM Up 38% - January 2026](https://dev.to/rosgluk/gpu-and-ram-prices-surge-in-australia-rtx-5090-up-15-ram-up-38-january-2026-kkb)
+- [CSA XCON 2026: India’s Premier Cybersecurity Conference Bringing Global Experts to Dehradun](https://dev.to/sagar_sajwan_a91beb41c861/csa-xcon-2026-indias-premier-cybersecurity-conference-bringing-global-experts-to-dehradun-3011)
+- [CVE-2026-20805 | Desktop Window Manager Information Disclosure Vulnerability](https://dev.to/aakash_rahsi/cve-2026-20805-desktop-window-manager-information-disclosure-vulnerability-1aj7)
 - [This portfolio isn’t perfect, but it’s 100% mine](https://dev.to/random_ti/this-portfolio-isnt-perfect-but-its-100-mine-3hi5)
-- [🌱 Bloom Roadmap — What’s Coming Next](https://dev.to/codebunny20/bloom-roadmap-whats-coming-next-335a)
-- [Stop Writing Selectors: How I Vibe Coded a Production AppSumo Scraper](https://dev.to/sommic/stop-writing-selectors-how-i-vibe-coded-a-production-appsumo-scraper-4704)
-- [Where Blockchain Data Actually Lives &lpar;IPFS, Arweave &amp; The 2026 Storage War&rpar;](https://dev.to/ribhavmodi/where-blockchain-data-actually-lives-ipfs-arweave-the-2026-storage-war-2bka)
-- [The Tao of Architecture: Clearing the Fog of &quot;Names&quot; to Return to the Essence of &quot;Non-Being&quot;](https://dev.to/xmaicode/the-tao-of-architecture-clearing-the-fog-of-names-to-return-to-the-essence-of-non-being-4e3l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
