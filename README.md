@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Bring AI into your Jakarta EE apps with LangChain4J-CDI](https://dev.to/theelitegentleman/bring-ai-into-your-jakarta-ee-apps-with-langchain4j-cdi-ib6)
 - [NiceHaus, a household-managing AI-powered web app](https://dev.to/oscarmarulanda/nicehaus-a-household-managing-ai-powered-web-app-5ge0)
 - [Happy coding](https://dev.to/mbugua70/happy-coding-4l8)
 - [[Boost]](https://dev.to/dd8888/-55oc)
 - [The Agent Mesh: Why &quot;Governance&quot; is actually an Engineering Problem](https://dev.to/webmethodman/the-agent-mesh-why-governance-is-actually-an-engineering-problem-h1e)
-- [React Render vs Commit: What Actually Happens &lpar;DOM vs React Native&rpar;](https://dev.to/mbugua70/react-render-vs-commit-what-actually-happens-dom-vs-react-native-2f7o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
