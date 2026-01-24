@@ -123,8 +123,8 @@ Python                   1 repo              █░░░░░░░░░░�
 - [Building Smarter Football Predictions with Standard Deviation in Node.js](https://dev.to/ads_rabat_9bb3463ae662b6a/building-smarter-football-predictions-with-standard-deviation-in-nodejs-1el5)
 - [Reescrevendo Legados #01](https://dev.to/cavalcanteyury/reescrevendo-legados-01-1fm3)
 - [Solving The Add Two Numbers Leetcode Question](https://dev.to/ehizman/solving-the-add-two-numbers-leetcode-question-1a5o)
-- [From Cluster UI to Operational Plane: Lessons from the Kubernetes Dashboard Deprecation](https://dev.to/abhinavd26/from-cluster-ui-to-operational-plane-lessons-from-the-kubernetes-dashboard-deprecation-48k0)
-- [vCPUs are a marketing scam](https://dev.to/code42cate/vcpus-are-a-marketing-scam-21kj)
+- [Request for assistance, MLops guidance after AI, computational neuroscience studies.](https://dev.to/p_2507_eac89c5f24fe6f472b/request-for-assistance-mlops-guidance-after-ai-computational-neuroscience-studies-3i7n)
+- [Sitting is Wrecking Your Body. Here is the Simple Routine That Saved My Career.](https://dev.to/jack_cioran/sitting-is-wrecking-your-body-here-is-the-simple-routine-that-saved-my-career-17cn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
