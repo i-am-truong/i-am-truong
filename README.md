@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding the ArgMax Function in Neural Networks: A Handy Simplification for Prediction](https://dev.to/rijultp/understanding-the-argmax-function-in-neural-networks-a-handy-simplification-for-prediction-5809)
 - [How I built a timeline of universal events](https://dev.to/bingkahu/how-i-built-a-timeline-of-universal-events-1179)
 - [Vibe Coding one Slice at a Time](https://dev.to/worldlinetech/vibe-coding-one-slice-at-a-time-4n3p)
 - [How Tokenization, Embeddings &amp; Attention Work in LLMs &lpar;Part 2&rpar;](https://dev.to/prabhasg56/how-tokenization-embeddings-attention-work-in-llms-part-2-3i0c)
 - [Agent Skills: Teach Claude Once, Use Everywhere](https://dev.to/rajeshroyal/agent-skills-teach-claude-once-use-everywhere-14cc)
-- [The Hard Part of AI Isn’t the Model. It’s Everything Else.](https://dev.to/itsugo/the-hard-part-of-ai-isnt-the-model-its-everything-else-4ckk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
