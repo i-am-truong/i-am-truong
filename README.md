@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Stripe Billing Failures Quietly Drain SaaS Revenue](https://dev.to/abhishek_sanoria_8aa6f6a4/how-stripe-billing-failures-quietly-drain-saas-revenue-2196)
-- [From WAL to WASM - High-Performance Local-First Sync with Postgres &amp; SQLite](https://dev.to/rafacalderon/from-wal-to-wasm-high-performance-local-first-sync-with-postgres-sqlite-50h0)
-- [FPGA_Part_08](https://dev.to/cevval/fpgapart08-1gak)
-- [Separación de Responsabilidades de los Dispositivos](https://dev.to/javascriptchile/separacion-de-responsabilidades-de-los-dispositivos-3meb)
-- [Stop Your RAG Agent from Making Things Up: A Functional Programming Approach](https://dev.to/sreeni5018/stop-your-rag-agent-from-making-things-up-a-functional-programming-approach-1bk3)
+- [How I built a timeline of universal events](https://dev.to/bingkahu/how-i-built-a-timeline-of-universal-events-1179)
+- [Vibe Coding one Slice at a Time](https://dev.to/worldlinetech/vibe-coding-one-slice-at-a-time-4n3p)
+- [How Tokenization, Embeddings &amp; Attention Work in LLMs &lpar;Part 2&rpar;](https://dev.to/prabhasg56/how-tokenization-embeddings-attention-work-in-llms-part-2-3i0c)
+- [Agent Skills: Teach Claude Once, Use Everywhere](https://dev.to/rajeshroyal/agent-skills-teach-claude-once-use-everywhere-14cc)
+- [The Hard Part of AI Isn’t the Model. It’s Everything Else.](https://dev.to/itsugo/the-hard-part-of-ai-isnt-the-model-its-everything-else-4ckk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
