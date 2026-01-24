@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Security made free...](https://dev.to/freecoderexperience/security-made-free-26pj)
+- [🚀 Building a Real-World CI/CD Pipeline with Jenkins, Docker, and Docker Compose](https://dev.to/developedbyviv/building-a-real-world-cicd-pipeline-with-jenkins-docker-and-docker-compose-4afp)
 - [Building Type-Safe ETL Pipelines in TypeScript](https://dev.to/hodeware/building-type-safe-etl-pipelines-in-typescript-4k5b)
 - [Introduction to MS Excel for Data Analytics](https://dev.to/tonny-o/introduction-to-ms-excel-for-data-analytics-4p00)
 - [Context Driven Development for Claude Code](https://dev.to/azous/context-driven-development-for-claude-code-4lc2)
-- [ML ALGOS List](https://dev.to/jenil_sheth_3eb6f86dc4900/ml-algos-list-2eio)
-- [The Offline-First Struggle: How I Built a Robust Sync Engine for Flutter &lpar;SynapseLink&rpar;](https://dev.to/vortex_shadow_8bce7f9fe36/the-offline-first-struggle-how-i-built-a-robust-sync-engine-for-flutter-synapselink-4d8a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
