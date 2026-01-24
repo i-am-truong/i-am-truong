@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Culture Doesn&#39;t Make Societies Wealthy Part 1/9](https://dev.to/devunionx/why-culture-doesnt-make-societies-wealthy-part-19-3132)
+- [Authority Placement: Control Layers and Enforcement Boundaries](https://dev.to/thatechmaestro/authority-placement-control-layers-and-enforcement-boundaries-3cpo)
+- [Linux RAM Analysis Script](https://dev.to/ben-santora/linux-ram-analysis-script-59j5)
+- [Introduction to MS Excel for Data Analytics](https://dev.to/wesley_clark_9ed86994e7a7/introduction-to-ms-excel-for-data-analytics-39ei)
 - [Bring AI into your Jakarta EE apps with LangChain4J-CDI](https://dev.to/theelitegentleman/bring-ai-into-your-jakarta-ee-apps-with-langchain4j-cdi-ib6)
-- [NiceHaus, a household-managing AI-powered web app](https://dev.to/oscarmarulanda/nicehaus-a-household-managing-ai-powered-web-app-5ge0)
-- [Happy coding](https://dev.to/mbugua70/happy-coding-4l8)
-- [[Boost]](https://dev.to/dd8888/-55oc)
-- [The Agent Mesh: Why &quot;Governance&quot; is actually an Engineering Problem](https://dev.to/webmethodman/the-agent-mesh-why-governance-is-actually-an-engineering-problem-h1e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
