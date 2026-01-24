@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What Is AI Inference Governance? The new definition.](https://dev.to/neuralmethod/what-is-ai-inference-governance-the-new-definition-1j52)
+- [REST vs GraphQL: Which Should You Use?](https://dev.to/apiverve/rest-vs-graphql-which-should-you-use-4ak1)
 - [Multi-Currency E-commerce: Stop Losing Sales](https://dev.to/apiverve/multi-currency-e-commerce-stop-losing-sales-5a1c)
 - [How to Migrate from VMware ESXi to Proxmox VE &lpar;2026 Step-by-Step Guide&rpar;](https://dev.to/bytesrack/how-to-migrate-from-vmware-esxi-to-proxmox-ve-2026-step-by-step-guide-j5p)
 - [Introduction to Microsoft Excel for Data Analytics](https://dev.to/kinyywa-data-analyst/introduction-to-microsoft-excel-for-data-analytics-56a1)
-- [🌍 I Stopped Using RestTemplate… Spring Boot RestClient Is Cleaner](https://dev.to/shashwathsh/i-stopped-using-resttemplate-spring-boot-restclient-is-cleaner-3hg)
-- [3 Ways to Create a Sum Function in JavaScript](https://dev.to/dharmesh_ab1dc022d7b2472c/3-ways-to-create-a-sum-function-in-javascript-nmc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
