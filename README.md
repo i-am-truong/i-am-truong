@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Git – What is it and Why is Version Control Important – A Comprehensive Guide](https://dev.to/amo_invanalysis_392c1de71/git-what-is-it-and-why-is-version-control-important-a-comprehensive-guide-45ol)
+- [Level Up Your D3 Charts: Exploring d3-3d v2.0.0](https://dev.to/niekes/level-up-your-d3-charts-exploring-d3-3d-v200-3c12)
+- [CVE-2026-0798: Gitea&#39;s Ghost in the Machine: Leaking Private Release Notes via Zombie Watchers](https://dev.to/cverports/cve-2026-0798-giteas-ghost-in-the-machine-leaking-private-release-notes-via-zombie-watchers-3en3)
+- [Building a Multi-Repository Code Search with Algolia Agent Studio](https://dev.to/vishal590/building-a-multi-repository-code-search-with-algolia-agent-studio-29n4)
 - [A low maintenance Portfolio](https://dev.to/sonu0702/a-low-maintenance-portfolio-1m9h)
-- [Build a Hotel Feedback Form](https://dev.to/richardpascoe/build-a-hotel-feedback-form-1i0n)
-- [🐱 Cat_Face_Biometrics](https://dev.to/stklen/catfacebiometrics-5449)
-- [Trusting PayPal Webhooks the .NET Way](https://dev.to/peterwurzinger/trusting-paypal-webhooks-the-net-way-276d)
-- [Building AutoShorts: A High-Performance AI Pipeline for Automated Viral Content 🎬🤖](https://dev.to/divyaprakash_d_2d5d085bd4/building-autoshorts-a-high-performance-ai-pipeline-for-automated-viral-content-g5i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
