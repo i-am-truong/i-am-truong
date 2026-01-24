@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Stateful AI Agents at Scale with Microsoft Orleans](https://dev.to/sreeni5018/building-stateful-ai-agents-at-scale-with-microsoft-orleans-4n14)
-- [🗓️ Simp1OS Dev Logs – Day 2: Framebuffer Still Missing, Sanity Also Missing](https://dev.to/arush179/simp1os-dev-logs-day-2-framebuffer-still-missing-sanity-also-missing-5de3)
-- [The Anti-Resume: Why I Hid My Portfolio in the Dark](https://dev.to/depapp/the-anti-resume-why-i-hid-my-portfolio-in-the-dark-3gee)
-- [Essential AWS Services Every Full-Stack Developer Must Know](https://dev.to/suruliraajan/essential-aws-services-every-full-stack-developer-must-know-15gc)
-- [How DNS Resolution Works](https://dev.to/anoop-rajoriya/how-dns-resolution-works-2n4i)
+- [11.Create Alarm Using Terraform](https://dev.to/thukhakyawe_cloud/11create-alarm-using-terraform-4op9)
+- [The Secret Life of Python: The Mutable Default Argument](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-mutable-default-argument-2ibd)
+- [From Resume to Operating System: Designing an AI-Powered Interactive Digital Twin](https://dev.to/star1e/from-resume-to-operating-system-designing-an-ai-powered-interactive-digital-twin-19lh)
+- [Programming Is Logic, Not Just Syntax](https://dev.to/anuj_prajapati_/programming-is-logic-not-just-syntax-2na7)
+- [Synaptic OS: A Maker Portfolio](https://dev.to/ruchika_dezoysa_4ed357dc/synaptic-os-a-maker-portfolio-3fj0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
