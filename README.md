@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Vibe-Coded a Quantum Synthesizer: A Reality Check on the State of Qubits](https://dev.to/dominiquegrys/i-vibe-coded-a-quantum-synthesizer-a-reality-check-on-the-state-of-qubits-501j)
+- [I Built a Food Lifespan Calculator - Here&#39;s the Data That Powers It](https://dev.to/sourabh20022002/i-built-a-food-lifespan-calculator-heres-the-data-that-powers-it-2f8a)
+- [How to deploy Rails 8 + Hotwire apps on Railway](https://dev.to/jtmst/how-to-deploy-rails-8-hotwire-apps-on-railway-123b)
+- [Building and Signing Android Apps Locally with Gradle &lpar;React Native &amp; Expo&rpar;](https://dev.to/yhoungbrown/building-and-signing-android-apps-locally-with-gradle-react-native-expo-3n9n)
 - [Escrow as a Design Choice](https://dev.to/sumana10l/escrow-as-a-design-choice-2c89)
-- [I Built an MCP Server with 28 UX Knowledge Bases and 23 Tools - Here&#39;s What I Learned](https://dev.to/elsahafy/i-built-an-mcp-server-with-28-ux-knowledge-bases-and-23-tools-heres-what-i-learned-152a)
-- [The Untapped Opportunity: Why Developers Should Start Monetizing AI Agent Plugins](https://dev.to/statefull/the-untapped-opportunity-why-developers-should-start-monetizing-ai-agent-plugins-3cbk)
-- [On-Device AI in Flutter 2026: TensorFlow Lite Tutorial &lpar;Image Classifier App&rpar; 🤖](https://dev.to/techwithsam/on-device-ai-in-flutter-2026-tensorflow-lite-tutorial-image-classifier-app-4o53)
-- [How Stolen AI Models Can Compromise Your Entire Organization](https://dev.to/cyberpath/how-stolen-ai-models-can-compromise-your-entire-organization-8pi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
