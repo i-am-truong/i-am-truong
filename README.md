@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Shopify Apps Solo: My React Router 7 + AI Tech Stack](https://dev.to/kulikboxx/building-shopify-apps-solo-my-react-router-7-ai-tech-stack-3dk4)
+- [How to Be Someone Who Makes Your Colleagues Shine](https://dev.to/manager_log/how-to-be-someone-who-makes-your-colleagues-shine-59mg)
+- [CVE-2026-21227 | Azure Logic Apps Elevation of Privilege Vulnerability](https://dev.to/aakash_rahsi/cve-2026-21227-azure-logic-apps-elevation-of-privilege-vulnerability-8jb)
+- [A Brief Pause, and What’s Next in My 90-Day Web3 Learning Journey](https://dev.to/yanjun/a-brief-pause-and-whats-next-in-my-90-day-web3-learning-journey-2pg9)
 - [pytest-html-plus VS Code — A Must-Have Extension If You Run Pytests](https://dev.to/kevi019/pytest-html-plus-vs-code-a-must-have-extension-if-you-run-pytests-e3h)
-- [Solved: Syncing Zoom Recordings to DropBox for Long-term Storage](https://dev.to/techresolve/solved-syncing-zoom-recordings-to-dropbox-for-long-term-storage-28h3)
-- [I Rewrote Google&#39;s Gemini CLI in Go - 68x Faster Startup](https://dev.to/owada_tomohiro_28ec22f5ee/i-rewrote-googles-gemini-cli-in-go-68x-faster-startup-30em)
-- [Between Delegation and Hands-On Leadership](https://dev.to/manager_log/between-delegation-and-hands-on-leadership-1p4i)
-- [Cville](https://dev.to/roy_hodgejr_747b4aefb46/cville-1h66)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
