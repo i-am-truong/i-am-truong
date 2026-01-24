@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Git – What is it and Why is Version Control Important – A Comprehensive Guide](https://dev.to/amo_invanalysis_392c1de71/git-what-is-it-and-why-is-version-control-important-a-comprehensive-guide-45ol)
+- [How to View JSON Schema Online Instantly &lpar;No Login, No Install&rpar;](https://dev.to/sam_th/how-to-view-json-schema-online-instantly-no-login-no-install-k39)
+- [OpenAI Is Running PostgreSQL at Millions of QPS &lpar;Here’s How It Didn’t Explode&rpar;](https://dev.to/sivarampg/openai-is-running-postgresql-at-millions-of-qps-heres-how-it-didnt-explode-17cl)
 - [Level Up Your D3 Charts: Exploring d3-3d v2.0.0](https://dev.to/niekes/level-up-your-d3-charts-exploring-d3-3d-v200-3c12)
+- [seeking help to resolve vercel error.](https://dev.to/cyberrspace/seeking-help-to-resolve-vercel-error-6mn)
 - [CVE-2026-0798: Gitea&#39;s Ghost in the Machine: Leaking Private Release Notes via Zombie Watchers](https://dev.to/cverports/cve-2026-0798-giteas-ghost-in-the-machine-leaking-private-release-notes-via-zombie-watchers-3en3)
-- [Building a Multi-Repository Code Search with Algolia Agent Studio](https://dev.to/vishal590/building-a-multi-repository-code-search-with-algolia-agent-studio-29n4)
-- [A low maintenance Portfolio](https://dev.to/sonu0702/a-low-maintenance-portfolio-1m9h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
