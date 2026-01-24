@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Use Temporary Email to Avoid Spam and Protect Privacy](https://dev.to/sarath_unrelax/how-i-use-temporary-email-to-avoid-spam-and-protect-privacy-51p)
+- [Scope in Python](https://dev.to/ruqiya_arshad_7839c5e21f2/scope-in-python-3bg8)
 - [11.Create Alarm Using Terraform](https://dev.to/thukhakyawe_cloud/11create-alarm-using-terraform-4op9)
 - [The Secret Life of Python: The Mutable Default Argument](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-mutable-default-argument-2ibd)
 - [From Resume to Operating System: Designing an AI-Powered Interactive Digital Twin](https://dev.to/star1e/from-resume-to-operating-system-designing-an-ai-powered-interactive-digital-twin-19lh)
-- [Programming Is Logic, Not Just Syntax](https://dev.to/anuj_prajapati_/programming-is-logic-not-just-syntax-2na7)
-- [Synaptic OS: A Maker Portfolio](https://dev.to/ruchika_dezoysa_4ed357dc/synaptic-os-a-maker-portfolio-3fj0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
