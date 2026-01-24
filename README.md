@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Edge Computing with Cloudflare Workers](https://dev.to/lucaspereiradesouzat/edge-computing-with-cloudflare-workers-3c8a)
-- [From 4 Minutes to 3 Seconds: How Database Transaction Rollback Revolutionized Test Suite](https://dev.to/miry/from-4-minutes-to-3-seconds-how-database-transaction-rollback-revolutionized-test-suite-4olh)
-- [⚖️ Beginner-Friendly Guide &#39;Minimize Maximum Pair Sum in Array&#39; - Problem 1877 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-minimize-maximum-pair-sum-in-array-problem-1877-c-python-2m8o)
-- [Guide du SemVer avec npm](https://dev.to/necraidan/guide-du-semver-avec-npm-pm2)
-- [Personal Portfolio](https://dev.to/preethign_b6279c2f10f2e/personal-portfolio-5ffe)
+- [Escrow as a Design Choice](https://dev.to/sumana10l/escrow-as-a-design-choice-2c89)
+- [I Built an MCP Server with 28 UX Knowledge Bases and 23 Tools - Here&#39;s What I Learned](https://dev.to/elsahafy/i-built-an-mcp-server-with-28-ux-knowledge-bases-and-23-tools-heres-what-i-learned-152a)
+- [The Untapped Opportunity: Why Developers Should Start Monetizing AI Agent Plugins](https://dev.to/statefull/the-untapped-opportunity-why-developers-should-start-monetizing-ai-agent-plugins-3cbk)
+- [On-Device AI in Flutter 2026: TensorFlow Lite Tutorial &lpar;Image Classifier App&rpar; 🤖](https://dev.to/techwithsam/on-device-ai-in-flutter-2026-tensorflow-lite-tutorial-image-classifier-app-4o53)
+- [How Stolen AI Models Can Compromise Your Entire Organization](https://dev.to/cyberpath/how-stolen-ai-models-can-compromise-your-entire-organization-8pi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
