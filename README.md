@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why I built a reusable UI kit for .NET MAUI &lpar;free preview available&rpar;](https://dev.to/tlssoftware/why-i-built-a-reusable-ui-kit-for-net-maui-free-preview-available-5h53)
+- [Pantry – Web-Application for organizing everything around food in your household.](https://dev.to/netz_sg/pantry-an-open-source-project-to-organize-shared-resources-k1m)
 - [Writing Patents with AI: What Works &lpar;and What Doesn’t&rpar;](https://dev.to/idea2patentai/writing-patents-with-ai-what-works-and-what-doesnt-21a8)
 - [Recognize The Importance Of Transparent And Explainable Models](https://dev.to/aws-builders/recognize-the-importance-of-transparent-and-explainablemodels-g9d)
-- [Voice Live vs Real-Time API : Quelle solution choisir sur Azure AI Foundry ?](https://dev.to/galaxy_ai/-voice-live-vs-real-time-api-quelle-solution-choisir-sur-azure-ai-foundry--54m0)
-- [Typesafe application configuration in TypeScript](https://dev.to/jonthanfielding/typesafe-application-configuration-in-typescript-ngh)
-- [Docker: The Magic Box That Saved DevOps](https://dev.to/sbkumbar024/docker-the-magic-box-that-saved-devops-1469)
+- [Why I Chose CRTP for My C# Result Pattern Library](https://dev.to/reslava/why-i-chose-crtp-for-my-c-result-pattern-library-2a49)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
