@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Kiro did it: Building a Credit Card Account Status Check Lambda Using the Kiro IDE!](https://dev.to/bhatiagirish/kiro-did-it-building-a-credit-card-account-status-check-lambda-using-the-kiro-ide-1cjg)
 - [MS Excel for Data Analytics — A friendly, practical guide for beginners](https://dev.to/charles_ndungu/ms-excel-for-data-analytics-a-friendly-practical-guide-for-beginners-hjn)
 - [Hello, Goodbye](https://dev.to/lizmat/hello-goodbye-48ao)
 - [## 🎉 Introducing AI Progress Controls](https://dev.to/maneesh_thakur_d16c2852fa/-introducing-ai-progress-controls-23ib)
 - [Generative AI vs Agentic AI](https://dev.to/qudrat_ullah_81a46e0287d8/generative-ai-vs-agentic-ai-52e9)
-- [Welcome to Data World! Your Passport is Microsoft Excel](https://dev.to/ngigi_nyawira_a938a3f3847/welcome-to-data-world-your-passport-is-microsoft-excel-o01)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
