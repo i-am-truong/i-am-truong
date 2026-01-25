@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why leadership clarity matters more than vision in execution](https://dev.to/imperium_by_edstellar/why-leadership-clarity-matters-more-than-vision-in-execution-54ck)
-- [Ever Wondered How Amazon Shopping Works on AWS?](https://dev.to/btanisha11/ever-wondered-how-amazon-shopping-works-on-aws-2l89)
-- [Building a Zero-Trust VPN: How I Wrapped OpenVPN and WireGuard with Modern Authentication](https://dev.to/jessedye/building-a-zero-trust-vpn-how-i-wrapped-openvpn-and-wireguard-with-modern-authentication-4cjn)
-- [Journal app with no edit button.](https://dev.to/peakker_panther_7fb64408b/journal-app-with-no-edit-button-13lc)
-- [Realtime Deploy Notifications in Next.js with Toasts](https://dev.to/ravgeetdhillon/realtime-deploy-notifications-in-nextjs-with-toasts-17lm)
+- [How to Run Clawdbot Locally and Control It from Discord](https://dev.to/0xkoji/setup-clawdbot-discord-for-mac-2llh)
+- [Top 10 VS Code Extensions for PHP Developers in 2026](https://dev.to/arafatweb/top-10-vs-code-extensions-for-php-developers-in-2026-199m)
+- [🧠 RAG in 2026: A Practical Blueprint for Retrieval-Augmented Generation](https://dev.to/suraj_khaitan_f893c243958/-rag-in-2026-a-practical-blueprint-for-retrieval-augmented-generation-16pp)
+- [Spring Boot 4 入門教學](https://dev.to/cyrustse/spring-boot-4-spring-security-6-ru-men-jiao-xue-5ekh)
+- [Run an LLM Locally to Interact with your Documents](https://dev.to/coding_dev_/run-an-llm-locally-to-interact-with-your-documents-3ncj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
