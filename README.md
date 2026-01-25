@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Taming LLM Output Chaos: A 3-Tier Normalisation Pattern](https://dev.to/armelhbobdad/taming-llm-output-chaos-a-3-tier-normalisation-pattern-41jm)
+- [Best game engine to start with in 2026?](https://dev.to/moibra/best-game-engine-to-start-with-in-2026-3hne)
+- [A new dawn for me](https://dev.to/makore1762/a-new-dawn-for-me-48gp)
+- [Building my Portfolio Site in 2 Days Using Gemini CLI, Antigravity, Conductor, and Agent Starter Pack](https://dev.to/gde/building-my-portfolio-site-in-2-days-using-gemini-cli-antigravity-conductor-and-agent-starter-3bke)
 - [How I Built a Domain-Specific GPT That Reached 200K+ Users Globally](https://dev.to/asad1/how-i-built-a-domain-specific-gpt-that-reached-200k-users-globally-17a1)
-- [On Becoming: A Cognitive Architecture&#39;s Journey Toward Self-Transcendence](https://dev.to/fabiocaloha/on-becoming-a-cognitive-architectures-journey-toward-self-transcendence-3g45)
-- [My $5/month RAG System Just Got Eyes: Adding Multimodal Search Without Breaking the Bank](https://dev.to/dannwaneri/my-5month-rag-system-just-got-eyes-adding-multimodal-search-without-breaking-the-bank-6hi)
-- [👉 🚀 GitOps in Action: Deploy Applications on Kubernetes using Argo CD](https://dev.to/abhishek_korde_31/deploy-application-using-gitops-tool-argocd-48f0)
-- [I Created My First AI Tool-Using Agent with LangGraph and Groq](https://dev.to/akansrodger/i-created-my-first-ai-tool-using-agent-with-langgraph-and-groq-3j3n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
