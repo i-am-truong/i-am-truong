@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Get the Latest Gaming Browser: Opera GX – Download Now to Get Started &lpar;A Canadian User Guide&rpar;](https://dev.to/manish799120/get-the-latest-gaming-browser-opera-gx-download-now-to-get-started-a-canadian-user-guide-jf2)
-- [Remote Attestation Is a Signal, Not a Trust Model](https://dev.to/caerlower/remote-attestation-is-a-signal-not-a-trust-model-2664)
-- [Learn Excel in a week!](https://dev.to/atemba/learn-excel-in-a-week-5783)
-- [The Underrated LemonadeJS Form-to-JSON Sync Feature](https://dev.to/hodeware/the-underrated-lemonadejs-form-to-json-sync-feature-2cjg)
-- [Introduction to Microsoft Excel for Data Analytics: A Beginner-Friendly Guide](https://dev.to/sirsona/introduction-to-microsoft-excel-for-data-analytics-a-beginner-friendly-guide-179g)
+- [MS Excel for Data Analytics — A friendly, practical guide for beginners](https://dev.to/charles_ndungu/ms-excel-for-data-analytics-a-friendly-practical-guide-for-beginners-hjn)
+- [Hello, Goodbye](https://dev.to/lizmat/hello-goodbye-48ao)
+- [## 🎉 Introducing AI Progress Controls](https://dev.to/maneesh_thakur_d16c2852fa/-introducing-ai-progress-controls-23ib)
+- [Generative AI vs Agentic AI](https://dev.to/qudrat_ullah_81a46e0287d8/generative-ai-vs-agentic-ai-52e9)
+- [Welcome to Data World! Your Passport is Microsoft Excel](https://dev.to/ngigi_nyawira_a938a3f3847/welcome-to-data-world-your-passport-is-microsoft-excel-o01)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
