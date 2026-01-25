@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a game using Copilot CLI - was it a total failure or not so bad?](https://dev.to/embernoglow/i-made-a-game-using-copilot-cli-was-it-a-total-failure-or-not-so-bad-1k4m)
 - [Using Constants and Enums in C#](https://dev.to/allcoderthings/using-constants-and-enums-in-c-2h0c)
 - [SkillFade: A Skill Tracking App That Tells You the Truth &lpar;Not What You Want to Hear&rpar;](https://dev.to/ruhidibadli/skillfade-a-skill-tracking-app-that-tells-you-the-truth-not-what-you-want-to-hear-3m10)
 - [I Tested 6 Copilot Alternatives in VS Code and Here’s What Actually Worked](https://dev.to/primaryobjects/i-tested-6-copilot-alternatives-in-vs-code-and-heres-what-actually-worked-4n1o)
-- [Your Dev Backend Is Slowing You Down: Mock Backends Done Right](https://dev.to/tahamohsini/your-dev-backend-is-slowing-you-down-mock-backends-done-right-44ma)
-- [I Found a Bug That Exposed Private Instagram Posts to Anyone.](https://dev.to/jatin_banga_33ba1cfbb9421/i-found-a-bug-that-exposed-private-instagram-posts-to-anyone-4eal)
+- [Built, Not Born: A Digital Quiet Luxury Portfolio](https://dev.to/jacksonkasi/built-not-born-a-digital-quiet-luxury-portfolio-11md)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
