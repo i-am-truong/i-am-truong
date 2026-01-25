@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a 3D Game-Style Interactive Developer Portfolio with Three.js, Gemini &amp; AntiGravity](https://dev.to/saurabhnative/i-built-a-3d-game-style-interactive-developer-portfolio-with-threejs-gemini-antigravity-3ie9)
-- [Super Simple Guide: Get Your Code on GitHub](https://dev.to/nicholas_kimani_e0fc0306b/super-simple-guide-get-your-code-on-github-1bp7)
-- [A Simple beginners Guide to Git &amp; GitHub](https://dev.to/lawrence_murithi/a-simple-beginners-guide-to-git-github-j29)
-- [🚀 Why I Built JSSpace - 100+ Free Online Tools Built with AI](https://dev.to/_f64155ec4200ceaffa673e/why-i-built-jsspace-100-free-online-tools-built-with-ai-3p44)
-- [Part 1 : Peer Aware Eureka Service Registry](https://dev.to/pratik280/part-1-peer-aware-eureka-service-registry-219n)
+- [Getting Started with Toge DB, A Javascript Based Database + ORM Layer](https://dev.to/revtm/getting-started-with-toge-db-a-javascript-based-database-orm-layer-3aod)
+- [Introduction to Linux for Data Engineers, Including Practical Use of Vi and Nano with Examples](https://dev.to/nganga_njongo/introduction-to-linux-for-data-engineers-including-practical-use-of-vi-and-nano-with-examples-4bf)
+- [I built a lightweight framework for Japan&#39;s &quot;SI&quot; projects &lpar;third attempt in 10 years&rpar;](https://dev.to/sugaiketadao/i-built-a-lightweight-framework-for-japans-si-projects-third-attempt-in-10-years-1e6e)
+- [26 AI application notes](https://dev.to/dait05/26-ai-application-notes-52f3)
+- [Mon aventure avec le projet Vivino : transformer des données en recommandations 🍷](https://dev.to/el_houssine_elmalki/mon-aventure-avec-le-projet-vivino-transformer-des-donnees-en-recommandations-202d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
