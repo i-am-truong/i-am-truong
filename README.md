@@ -120,11 +120,13 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [i accidentally built AGI for $30/month and nobody&#39;s ready for this conversation](https://dev.to/kenzo_codes/i-accidentally-built-agi-for-30month-and-nobodys-ready-for-this-conversation-oh4)
-- [Inside Google Antigravity: How AI Pair Programming Actually Works](https://dev.to/suraj_khaitan_f893c243958/inside-google-antigravity-how-ai-pair-programming-actually-works-16nc)
-- [Linux ve Dağıtımlarının Felsefesi](https://dev.to/dtpcoglu/linux-ve-dagitimlarinin-felsefesi-90i)
-- [Jeff Su: The Only AI Tools You Need &lpar;12-Minute Guide&rpar;](https://dev.to/future_ai/jeff-su-the-only-ai-tools-you-need-12-minute-guide-9a4)
-- [To Terraform or...CloudFormation](https://dev.to/xmabry/to-terraform-orcloudformation-3c5o)
+- [My production server almost went down because of one library](https://dev.to/frederickpeal/my-production-server-almost-went-down-because-of-one-library-186e)
+- [What is Databricks? A Simple Guide for Beginners](https://dev.to/krunalkanojiya/what-is-databricks-a-simple-guide-for-beginners-48io)
+- [Engineering Log: LL-298: Invalid Option Strikes Causing C &lpar;+2 more&rpar;](https://dev.to/igorganapolsky/engineering-log-ll-298-invalid-option-strikes-causing-c-2-more-186j)
+- [Building CuteWallpaper.site: Making Wallpapers That Actually Fit Real Screens](https://dev.to/shawnhacks/building-cutewallpapersite-making-wallpapers-that-actually-fit-real-screens-2aad)
+- [Why Technical Correctness Is Not Enough For Developers Anymore. 
+
+Because an AI system can be statistically accurate and still fail emotionally.](https://dev.to/jaideepparashar/why-technical-correctness-is-not-enough-for-developers-anymore-because-an-ai-system-can-be-1l8l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
