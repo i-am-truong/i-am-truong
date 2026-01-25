@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Sync-Conf.Dev — Keep Your AI Agent Configs in Sync Across Projects](https://dev.to/zanreal/sync-confdev-keep-your-ai-agent-configs-in-sync-across-projects-16n4)
-- [I Got Tired of Fake LeetCode Trackers, So I Built One That Actually Updates](https://dev.to/trojanmocx/i-got-tired-of-fake-leetcode-trackers-so-i-built-one-that-actually-updates-bg3)
-- [Linux for Data Engineers: A Beginner-Friendly Guide](https://dev.to/rose1845/linux-for-data-engineers-a-beginner-friendly-guide-4bgp)
-- [300ms to 60ms: How I Slashed API Latency by 80% with One Config Change](https://dev.to/kabeer_nshah_8bdaa6e7fc8/300ms-to-60ms-how-i-slashed-api-latency-by-80-with-one-config-change-3153)
-- [Introduction to MS Excel for Data Analytics](https://dev.to/ambogo2/introduction-to-ms-excel-for-data-analytics-1pjn)
+- [Why We Built Headless Bridge: The Problem with WPGraphQL](https://dev.to/brewandbuild/why-we-built-headless-bridge-the-problem-with-wpgraphql-4fe0)
+- [Build an AI Voice Agent That Actually TALKS BACK 🤖🗣️ &lpar;Twilio + ElevenLabs Tutorial&rpar;](https://dev.to/ayyazzafar/build-an-ai-voice-agent-that-actually-talks-back-twilio-elevenlabs-tutorial-3h76)
+- [MCP: The Secret Sauce &lpar;That Isn&#39;t Ranch&rpar; for AI Apps](https://dev.to/shubham030/mcp-the-secret-sauce-that-isnt-ranch-for-ai-apps-3562)
+- [Your First AI App Will Be Spaghetti &lpar;And That&#39;s Okay&rpar;](https://dev.to/shubham030/your-first-ai-app-will-be-spaghetti-and-thats-okay-3832)
+- [Prompt Engineering: The Art of Talking to Robots](https://dev.to/shubham030/prompt-engineering-the-art-of-talking-to-robots-1d4c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
