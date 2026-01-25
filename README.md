@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Physics-Enforced Oracle: How KAILEdge Brings Deterministic Cargo Monitoring to Layer 2s](https://dev.to/zentoshi/building-a-physics-enforced-oracle-how-kailedge-brings-deterministic-cargo-monitoring-to-layer-2s-4a3a)
-- [DSA Pattern Recognition](https://dev.to/bibimbop123/dsa-pattern-recognition-545m)
-- [Intersection observer](https://dev.to/chhavikohli/intersection-observer-5807)
-- [修改 SSH 默认端口导致密钥登录失败的排查与解决](https://dev.to/amoorzheyu/xiu-gai-ssh-mo-ren-duan-kou-dao-zhi-mi-yao-deng-lu-shi-bai-de-pai-cha-yu-jie-jue-1aac)
-- [📊 Two Weeks In: How My First Flutter Chart Package Is Performing on pub.dev 🚀](https://dev.to/rahul-cse-25/two-weeks-in-how-my-first-flutter-chart-package-is-performing-on-pubdev-2om0)
+- [I Built a Small Tool for Screenshotting and Recording Public Websites — and It Went Deeper Than I Expected](https://dev.to/shawnhacks/i-built-a-small-tool-for-screenshotting-and-recording-public-websites-and-it-went-deeper-than-i-4ali)
+- [Day-39 From Bloated to Lightweight: How I Dockerized a React Portfolio using Multi-Stage Builds](https://dev.to/jayanth_dasari_7/day-39-from-bloated-to-lightweight-how-i-dockerized-a-react-portfolio-using-multi-stage-builds-4bb)
+- [KMP에서 Google 계정으로 Firebase 로그인 구현하기](https://dev.to/kingori/kmpeseo-google-gyejeongeuro-firebase-rogeuin-guhyeonhagi-138)
+- [I ported shadcn/ui to modern Ember.js](https://dev.to/ignace/i-ported-shadcnui-to-modern-emberjs-440d)
+- [Implementing Firebase Google Login in Kotlin Multiplatform &lpar;KMP&rpar;](https://dev.to/kingori/implementing-firebase-google-login-in-kotlin-multiplatform-kmp-48hd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
