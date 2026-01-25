@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [why you are unable to manage load](https://dev.to/sosmation/why-you-are-unable-to-manage-load-39dn)
 - [Student vs. Microservices: How I Built an AI Platform at 18 Instead of a To-Do App](https://dev.to/globest7/student-vs-microservices-how-i-built-an-ai-platform-at-18-instead-of-a-to-do-app-4j69)
 - [Why most SVG to PNG converters are overkill &lpar;and what I actually needed&rpar;](https://dev.to/fabianosalles/why-most-svg-to-png-converters-are-overkill-and-what-i-actually-needed-2j52)
 - [NotebookLM: a practical review of a tool for fast product overviews](https://dev.to/antonmb/notebooklm-a-practical-review-of-a-tool-for-fast-product-overviews-2deg)
 - [Solved: Helpful TypeScript Utility Types I’ve hand rolled over time, enjoy](https://dev.to/techresolve/solved-helpful-typescript-utility-types-ive-hand-rolled-over-time-enjoy-46hh)
-- [Docker Compose - SFTP: Managing files securely](https://dev.to/xandecodes/docker-compose-sftp-managing-files-securely-48b0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
