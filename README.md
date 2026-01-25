@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building PriorityPilot: A CLI Project Manager That Learns From Your Decisions](https://dev.to/usero0/building-prioritypilot-a-cli-project-manager-that-learns-from-your-decisions-17kg)
+- [Comparación de Servicios de Almacenamiento en la Nube](https://dev.to/adini/comparacion-de-servicios-de-almacenamiento-en-la-nube-c4f)
+- [NeuroShell OS: Rethinking Boot-Time Design for AI-Native Computing](https://dev.to/hejhdiss/neuroshell-os-rethinking-boot-time-design-for-ai-native-computing-4m53)
 - [Why We Built Headless Bridge: The Problem with WPGraphQL](https://dev.to/brewandbuild/why-we-built-headless-bridge-the-problem-with-wpgraphql-4fe0)
 - [Build an AI Voice Agent That Actually TALKS BACK 🤖🗣️ &lpar;Twilio + ElevenLabs Tutorial&rpar;](https://dev.to/ayyazzafar/build-an-ai-voice-agent-that-actually-talks-back-twilio-elevenlabs-tutorial-3h76)
-- [MCP: The Secret Sauce &lpar;That Isn&#39;t Ranch&rpar; for AI Apps](https://dev.to/shubham030/mcp-the-secret-sauce-that-isnt-ranch-for-ai-apps-3562)
-- [Your First AI App Will Be Spaghetti &lpar;And That&#39;s Okay&rpar;](https://dev.to/shubham030/your-first-ai-app-will-be-spaghetti-and-thats-okay-3832)
-- [Prompt Engineering: The Art of Talking to Robots](https://dev.to/shubham030/prompt-engineering-the-art-of-talking-to-robots-1d4c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
