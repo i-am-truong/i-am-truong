@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Kiro did it: Building a Credit Card Account Status Check Lambda Using the Kiro IDE!](https://dev.to/bhatiagirish/kiro-did-it-building-a-credit-card-account-status-check-lambda-using-the-kiro-ide-1cjg)
-- [MS Excel for Data Analytics — A friendly, practical guide for beginners](https://dev.to/charles_ndungu/ms-excel-for-data-analytics-a-friendly-practical-guide-for-beginners-hjn)
-- [Hello, Goodbye](https://dev.to/lizmat/hello-goodbye-48ao)
-- [## 🎉 Introducing AI Progress Controls](https://dev.to/maneesh_thakur_d16c2852fa/-introducing-ai-progress-controls-23ib)
-- [Generative AI vs Agentic AI](https://dev.to/qudrat_ullah_81a46e0287d8/generative-ai-vs-agentic-ai-52e9)
+- [Your SSH Keys Are Naked and It&#39;s Your Fault](https://dev.to/ops_mechanic/your-ssh-keys-are-naked-and-its-your-fault-32kp)
+- [Introduction to Linux for Data Engineers](https://dev.to/edmund_eryuba/introduction-to-linux-for-data-engineers-299o)
+- [When A Landing Page Almost Took Down Production](https://dev.to/interface/when-a-landing-page-almost-took-down-production-462o)
+- [Building Privacy-First Web3 &amp; AI Apps with Oasis Sapphire and GetBlock](https://dev.to/caerlower/building-privacy-first-web3-ai-apps-with-oasis-sapphire-and-getblock-4il9)
+- [Introduction to MS Excel for Data Analytics](https://dev.to/jason_ndalamia_74ce33128b/introduction-to-ms-excel-for-data-analytics-26an)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
