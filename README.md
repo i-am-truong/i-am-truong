@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to develop modern Shopify Custom Apps with Brush](https://dev.to/herveguetin/how-to-architect-modern-shopify-custom-apps-with-brush-4a1b)
+- [[Boost]](https://dev.to/anthonymax/-3ne4)
 - [Getting Started with cURL](https://dev.to/hiral/getting-started-with-curl-4176)
 - [Getting Brutal. A brutalist portfolio of who I am, what I do and the accomplishments I&#39;ve done](https://dev.to/highcenburg/getting-brutal-a-brutalist-portfolio-of-who-i-am-what-i-do-and-the-accomplishments-ive-done-114h)
 - [Mastering TypeScript Utility Types: Part 2 — The Transformers &amp; Type Thieves](https://dev.to/mandy8055/mastering-typescript-utility-types-part-2-the-transformers-type-thieves-2ll0)
-- [StrictJS](https://dev.to/kenneth732/strictjs-4oab)
-- [Building Advanced RAG with LangGraph: A Step Beyond Simple Retrieval-Augmented Generation](https://dev.to/mohamedshabanai/building-advanced-rag-with-langgraph-a-step-beyond-simple-retrieval-augmented-generation-1dom)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
