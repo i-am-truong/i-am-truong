@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [LINUX FOR A ROOKIE DATA ENGINEERING STUDENT](https://dev.to/shabex/linux-for-a-rookie-data-engineering-student-255h)
-- [Starting JavaScript Today – My First Attempt.](https://dev.to/jazmin_m_099/starting-javascript-today-my-first-attempt-4pj1)
-- [β or w? for weight...](https://dev.to/yash_30may05ur/b-or-w-for-weight-3kcl)
-- [My Excel &amp; Power Query Journey](https://dev.to/jaleny97/my-excel-power-query-journey-39k5)
-- [Synapse 0.2: REPL, S-Expressions &amp; Working Loops](https://dev.to/xzdes/synapse-02-repl-s-expressions-working-loops-4i8j)
+- [Building a “Local-First” AI FinOps Agent with Gemini CLI &amp; MCP: Ending the Google Cloud Cost Puzzle](https://dev.to/gde/building-a-local-first-ai-finops-agent-with-gemini-cli-mcp-ending-the-google-cloud-cost-puzzle-5863)
+- [Run Your MVVM Android App on iOS — KMP Magic ✨](https://dev.to/khushpanchal123/run-your-mvvm-android-app-on-ios-kmp-magic-3382)
+- [Yumma CSS API is now Yumma CSS Core](https://dev.to/rrenildopereiraa/yumma-css-api-is-now-yumma-css-core-3ah0)
+- [Cultural Breakdown in the Process of Impoverishment Part 2/9](https://dev.to/devunionx/cultural-breakdown-in-the-process-of-impoverishment-part-29-bc6)
+- [Getting Started with Git &amp; Github](https://dev.to/dishon_gatambiadd_31a1/getting-started-with-git-github-3kcc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
