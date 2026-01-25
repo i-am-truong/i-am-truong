@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Home Task Manager with angular js and firebase](https://dev.to/preetha_vaishnavi_2b82358/home-task-manager-with-angular-js-and-firebase-2db0)
+- [App Lista de Tareas Basica con JS](https://dev.to/preetha_vaishnavi_2b82358/app-lista-de-tareas-basica-con-js-453k)
 - [系统代理配置不可持久化的问题排查与解决](https://dev.to/amoorzheyu/xi-tong-dai-li-pei-zhi-bu-ke-chi-jiu-hua-de-wen-ti-pai-cha-yu-jie-jue-23j8)
 - [Part 2 - The Fiber Revolution &lpar;React 16&rpar;](https://dev.to/nehamalviaaa/part-2-the-fiber-revolution-react-16-3g54)
 - [Programming Tech That Ages Well Versus Tools That Rot Fast](https://dev.to/numbpill3d/programming-tech-that-ages-well-versus-tools-that-rot-fast-3f9j)
-- [React Hooks: Default Export vs Named Export](https://dev.to/tusharshahi/react-hooks-default-export-vs-named-export-1edn)
-- [Introduction to Linux for Data Engineers, Including Practical Use of Vi and Nano with Examples](https://dev.to/geraldm/introduction-to-linux-for-data-engineers-including-practical-use-of-vi-and-nano-with-examples-1ian)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
