@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [传统交易者](https://dev.to/elianalamhost/chuan-tong-jiao-yi-zhe-f5c)
+- [WTF is Distributed Database Systems?](https://dev.to/dailybugle33/wtf-is-distributed-database-systems-dhn)
+- [PHP: Stop Passing Arrays Everywhere](https://dev.to/suckup_de/php-stop-passing-arrays-everywhere-45f1)
 - [How DNS Resolution Works](https://dev.to/hiral/how-dns-resolution-works-496h)
 - [How to Check if Your VPN is Working on Mac: DNS Leak Testing Guide](https://dev.to/heocoi/how-to-check-if-your-vpn-is-working-on-mac-dns-leak-testing-guide-14m9)
-- [Managing Comprehension Debt: How to Stop Shipping AI Code You Don&#39;t Understand](https://dev.to/thesystemistsimon/comprehension-debt-how-to-stop-shipping-ai-code-you-dont-understand-2lpn)
-- [Laravel Wayfinder: Type Safe Routes and Forms with Inertia](https://dev.to/hafiz619/laravel-wayfinder-type-safe-routes-and-forms-with-inertia-299)
-- [From cronjobs to controllers: Building a production-grade Kubernetes Backup &amp; Restore Operator](https://dev.to/mxnuchim/from-cronjobs-to-controllers-building-a-production-grade-kubernetes-backup-restore-operator-4g8h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
