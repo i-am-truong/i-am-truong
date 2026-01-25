@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Plugins: Share Your Entire Claude Code Setup With One Command](https://dev.to/rajeshroyal/plugins-share-your-entire-claude-code-setup-with-one-command-294n)
-- [SOLID com Node.js e TypeScript: Escrevendo Código de Gente Grande](https://dev.to/danielcamucatto/solid-com-nodejs-e-typescript-escrevendo-codigo-de-gente-grande-32nj)
-- [β or w? for weight...](https://dev.to/yash_30may05ur/b-or-w-for-weight-51id)
-- [Your Local Environment Tests a Different System Than Production](https://dev.to/nuewframe/your-local-environment-tests-a-different-system-than-production-4ib1)
-- [AI-generated code lacks common sense](https://dev.to/maxpatiiuk/ai-generated-code-lacks-common-sense-29bo)
+- [Synapse 0.2: REPL, S-Expressions &amp; Working Loops](https://dev.to/xzdes/synapse-02-repl-s-expressions-working-loops-4i8j)
+- [Engineering Log: LL-277: Iron Condor Optimization Researc &lpar;+2 more&rpar;](https://dev.to/igorganapolsky/engineering-log-ll-277-iron-condor-optimization-researc-2-more-2fpo)
+- [Ethereum-Solidity Quiz Q25: What is gas in Ethereum?](https://dev.to/mihaihng/ethereum-solidity-quiz-q25-what-is-gas-in-ethereum-5cae)
+- [From Localhost to Production: Deploying an AI Blog Generator &lpar;FastAPI + React&rpar;](https://dev.to/lymah/from-localhost-to-production-deploying-an-ai-blog-generator-fastapi-react-4m1n)
+- [Closures in JavaScript: Understanding Lexical Scope and Memory](https://dev.to/0xrazumovsky/closures-in-javascript-understanding-lexical-scope-and-memory-1d3g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
