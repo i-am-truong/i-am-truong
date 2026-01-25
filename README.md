@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a System Thinker&#39;s Portfolio](https://dev.to/developer_sahil/building-a-system-thinkers-portfolio-38kg)
+- [The Art of Better One-on-Ones](https://dev.to/mattlewandowski93/the-art-of-better-one-on-ones-ppm)
 - [How I built a Content Curator CLI using Github Copilot CLI SDK](https://dev.to/shivaylamba/how-i-built-a-content-curator-cli-using-github-copilot-cli-sdk-51ff)
 - [yourprofile.info — Production ML &amp; GenAI Portfolio Built with Gemini on Cloud Run](https://dev.to/the_grate_ss/yourprofileinfo-production-ml-genai-portfolio-built-with-gemini-on-cloud-run-o5d)
 - [ZenPNL — IDX Stock P&amp;L + TradingView Chart + News &lpar;Next.js&rpar;](https://dev.to/0x5zen/zenpnl-idx-stock-pl-tradingview-chart-news-nextjs-570h)
-- [Building a “Local-First” AI FinOps Agent with Gemini CLI &amp; MCP: Ending the Google Cloud Cost Puzzle](https://dev.to/gde/building-a-local-first-ai-finops-agent-with-gemini-cli-mcp-ending-the-google-cloud-cost-puzzle-5863)
-- [Run Your MVVM Android App on iOS — KMP Magic ✨](https://dev.to/khushpanchal123/run-your-mvvm-android-app-on-ios-kmp-magic-3382)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
