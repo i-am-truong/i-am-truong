@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Weekly #04-2026: Astro Joins Cloudflare, Curl Drops OpenSSL QUIC, AI Can&#39;t Replace Developers](https://dev.to/weekly/weekly-04-2026-astro-joins-cloudflare-curl-drops-openssl-quic-ai-cant-replace-developers-3anp)
-- [Evaluating Microsoft Excel as a Data Analytics tool in Modern Business Decision Making](https://dev.to/beverline_otiende_6d3045c/evaluating-microsoft-excel-as-a-data-analytics-tool-in-modern-business-decision-making-37hd)
-- [What&#39;s the VDOM anyway?](https://dev.to/vftiago/whats-the-vdom-anyway-50l1)
-- [15.Create IAM Group Using Terraform](https://dev.to/thukhakyawe_cloud/15create-iam-group-using-terraform-4pi5)
-- [Introducing QR Code Steganography: Because Normal QR Codes Are Too Mainstream](https://dev.to/rolan_r_n_r/introducing-qr-code-steganography-because-normal-qr-codes-are-too-mainstream-1ipj)
+- [Using Constants and Enums in C#](https://dev.to/allcoderthings/using-constants-and-enums-in-c-2h0c)
+- [SkillFade: A Skill Tracking App That Tells You the Truth &lpar;Not What You Want to Hear&rpar;](https://dev.to/ruhidibadli/skillfade-a-skill-tracking-app-that-tells-you-the-truth-not-what-you-want-to-hear-3m10)
+- [I Tested 6 Copilot Alternatives in VS Code and Here’s What Actually Worked](https://dev.to/primaryobjects/i-tested-6-copilot-alternatives-in-vs-code-and-heres-what-actually-worked-4n1o)
+- [Your Dev Backend Is Slowing You Down: Mock Backends Done Right](https://dev.to/tahamohsini/your-dev-backend-is-slowing-you-down-mock-backends-done-right-44ma)
+- [I Found a Bug That Exposed Private Instagram Posts to Anyone.](https://dev.to/jatin_banga_33ba1cfbb9421/i-found-a-bug-that-exposed-private-instagram-posts-to-anyone-4eal)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
