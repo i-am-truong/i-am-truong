@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why leadership clarity matters more than vision in execution](https://dev.to/imperium_by_edstellar/why-leadership-clarity-matters-more-than-vision-in-execution-54ck)
+- [Ever Wondered How Amazon Shopping Works on AWS?](https://dev.to/btanisha11/ever-wondered-how-amazon-shopping-works-on-aws-2l89)
+- [Building a Zero-Trust VPN: How I Wrapped OpenVPN and WireGuard with Modern Authentication](https://dev.to/jessedye/building-a-zero-trust-vpn-how-i-wrapped-openvpn-and-wireguard-with-modern-authentication-4cjn)
 - [Journal app with no edit button.](https://dev.to/peakker_panther_7fb64408b/journal-app-with-no-edit-button-13lc)
 - [Realtime Deploy Notifications in Next.js with Toasts](https://dev.to/ravgeetdhillon/realtime-deploy-notifications-in-nextjs-with-toasts-17lm)
-- [INTRODUCTION TO MS EXCEL FOR DATA ANALYTICS](https://dev.to/moses_odhiambo_6f8b1fccb8/introduction-to-ms-excel-for-data-analytics-2fnj)
-- [Stop pasting 5,000 lines of logs into Claude. Use a secure context tunnel instead](https://dev.to/raullen_chai_76e18e9705b0/stop-pasting-5000-lines-of-logs-into-claude-use-a-secure-context-tunnel-instead-5559)
-- [🎁 Simp1OS Early Access Giveaway](https://dev.to/arush179/simp1os-early-access-giveaway-141k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
