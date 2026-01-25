@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to develop modern Shopify Custom Apps with Brush](https://dev.to/herveguetin/how-to-architect-modern-shopify-custom-apps-with-brush-4a1b)
-- [[Boost]](https://dev.to/anthonymax/-3ne4)
-- [Getting Started with cURL](https://dev.to/hiral/getting-started-with-curl-4176)
-- [Getting Brutal. A brutalist portfolio of who I am, what I do and the accomplishments I&#39;ve done](https://dev.to/highcenburg/getting-brutal-a-brutalist-portfolio-of-who-i-am-what-i-do-and-the-accomplishments-ive-done-114h)
-- [Mastering TypeScript Utility Types: Part 2 — The Transformers &amp; Type Thieves](https://dev.to/mandy8055/mastering-typescript-utility-types-part-2-the-transformers-type-thieves-2ll0)
+- [I automated cherry picking from all my RSS-feeds](https://dev.to/joel_delpilar_68093b89ec/i-automated-cherry-picking-from-all-my-rss-feeds-4ipn)
+- [From Slow to Fast: My WooCommerce Performance Checklist &lpar;CWV + TTFB + Caching&rpar; published: true](https://dev.to/carl_leger_e93626c0bbef75/from-slow-to-fast-my-woocommerce-performance-checklist-cwv-ttfb-cachingpublished-true-35p8)
+- [We Ship 5MB of JavaScript Then Gaslight Users About Their WiFi](https://dev.to/adamthedeveloper/we-ship-5mb-of-javascript-then-gaslight-users-about-their-wifi-4lhd)
+- [How To Enforce Your Engineering Standards Across Your Codebase](https://dev.to/amit_kochman_06d0d76a03ba/how-to-enforce-your-engineering-standards-across-your-codebase-1anl)
+- [Apache Kafka Explained Simply: Core Concepts, Best Practices, and Common Pitfalls for Developers](https://dev.to/khadijah/apache-kafka-explained-simply-core-concepts-best-practices-and-common-pitfalls-for-developers-4mmb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
