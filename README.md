@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I made a game using Copilot CLI - was it a total failure or not so bad?](https://dev.to/embernoglow/i-made-a-game-using-copilot-cli-was-it-a-total-failure-or-not-so-bad-1k4m)
-- [Using Constants and Enums in C#](https://dev.to/allcoderthings/using-constants-and-enums-in-c-2h0c)
-- [SkillFade: A Skill Tracking App That Tells You the Truth &lpar;Not What You Want to Hear&rpar;](https://dev.to/ruhidibadli/skillfade-a-skill-tracking-app-that-tells-you-the-truth-not-what-you-want-to-hear-3m10)
-- [I Tested 6 Copilot Alternatives in VS Code and Here’s What Actually Worked](https://dev.to/primaryobjects/i-tested-6-copilot-alternatives-in-vs-code-and-heres-what-actually-worked-4n1o)
-- [Built, Not Born: A Digital Quiet Luxury Portfolio](https://dev.to/jacksonkasi/built-not-born-a-digital-quiet-luxury-portfolio-11md)
+- [Get the Latest Gaming Browser: Opera GX – Download Now to Get Started &lpar;A Canadian User Guide&rpar;](https://dev.to/manish799120/get-the-latest-gaming-browser-opera-gx-download-now-to-get-started-a-canadian-user-guide-jf2)
+- [Remote Attestation Is a Signal, Not a Trust Model](https://dev.to/caerlower/remote-attestation-is-a-signal-not-a-trust-model-2664)
+- [Learn Excel in a week!](https://dev.to/atemba/learn-excel-in-a-week-5783)
+- [The Underrated LemonadeJS Form-to-JSON Sync Feature](https://dev.to/hodeware/the-underrated-lemonadejs-form-to-json-sync-feature-2cjg)
+- [Introduction to Microsoft Excel for Data Analytics: A Beginner-Friendly Guide](https://dev.to/sirsona/introduction-to-microsoft-excel-for-data-analytics-a-beginner-friendly-guide-179g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
