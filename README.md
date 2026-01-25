@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Run Clawdbot Locally and Control It from Discord](https://dev.to/0xkoji/setup-clawdbot-discord-for-mac-2llh)
-- [Top 10 VS Code Extensions for PHP Developers in 2026](https://dev.to/arafatweb/top-10-vs-code-extensions-for-php-developers-in-2026-199m)
-- [🧠 RAG in 2026: A Practical Blueprint for Retrieval-Augmented Generation](https://dev.to/suraj_khaitan_f893c243958/-rag-in-2026-a-practical-blueprint-for-retrieval-augmented-generation-16pp)
-- [Spring Boot 4 入門教學](https://dev.to/cyrustse/spring-boot-4-spring-security-6-ru-men-jiao-xue-5ekh)
-- [Run an LLM Locally to Interact with your Documents](https://dev.to/coding_dev_/run-an-llm-locally-to-interact-with-your-documents-3ncj)
+- [Spring Boot 4 入門教學 - Part 4 &lpar;@Bean 與 IoC 容器&rpar;](https://dev.to/cyrustse/spring-boot-4-ru-men-jiao-xue-part-4-mi2)
+- [Spring Boot 4 入門教學 - Part 3 &lpar;@SpringBootApplication 深度解析&rpar;](https://dev.to/cyrustse/spring-boot-4-ru-men-jiao-xue-part-3-509h)
+- [Spring Boot 4 入門教學 - Part 2 &lpar;建立第一個 Spring Boot 專案&rpar;](https://dev.to/cyrustse/spring-boot-4-ru-men-jiao-xue-part-2-45k9)
+- [Building a Clipboard Manager Taught Me More About Trust Than UX Ever Did](https://dev.to/mellowlabs/building-a-clipboard-manager-taught-me-more-about-trust-than-ux-ever-did-52k)
+- [ReactJS Hook Pattern ~Effect Separation Pattern~](https://dev.to/kkr0423/reactjs-hook-pattern-effect-separation-pattern-5ffp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
