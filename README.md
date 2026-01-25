@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Check Out My Full Stack Developer Portfolio – Projects &amp; Demos](https://dev.to/sami_zanhour_595d4187b620/check-out-my-full-stack-developer-portfolio-projects-demos-3ck0)
+- [Understanding Cross-Origin Resource Sharing &lpar;CORS&rpar;](https://dev.to/adewaleomosanya/understanding-cross-origin-resource-sharing-cors-55mc)
+- [Optimizing Elementor INP: Taming DOM Bloat for Pediatric Portals](https://dev.to/designtocodes/optimizing-elementor-inp-taming-dom-bloat-for-pediatric-portals-1850)
 - [Pipeline de Dados x Pipeline ETL](https://dev.to/franolv/pipeline-de-dados-x-pipeline-etl-47ep)
-- [DNS Record Types](https://dev.to/priyanshu_verma/dns-record-types-2bij)
-- [Student vs. Microservices: How I Built an AI Platform at 18 Instead of a To-Do App](https://dev.to/globest7/student-vs-microservices-how-i-built-an-ai-platform-at-18-instead-of-a-to-do-app-4j69)
-- [Why most SVG to PNG converters are overkill &lpar;and what I actually needed&rpar;](https://dev.to/fabianosalles/why-most-svg-to-png-converters-are-overkill-and-what-i-actually-needed-2j52)
-- [NotebookLM: a practical review of a tool for fast product overviews](https://dev.to/antonmb/notebooklm-a-practical-review-of-a-tool-for-fast-product-overviews-2deg)
+- [Autonomous Research: Building Agents with CrewAI](https://dev.to/deepak_mishra_35863517037/autonomous-research-building-agents-with-crewai-25nd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
