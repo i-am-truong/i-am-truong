@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with cURL](https://dev.to/hiral/getting-started-with-curl-4176)
+- [Getting Brutal. A brutalist portfolio of who I am, what I do and the accomplishments I&#39;ve done](https://dev.to/highcenburg/getting-brutal-a-brutalist-portfolio-of-who-i-am-what-i-do-and-the-accomplishments-ive-done-114h)
 - [Mastering TypeScript Utility Types: Part 2 — The Transformers &amp; Type Thieves](https://dev.to/mandy8055/mastering-typescript-utility-types-part-2-the-transformers-type-thieves-2ll0)
 - [StrictJS](https://dev.to/kenneth732/strictjs-4oab)
 - [Building Advanced RAG with LangGraph: A Step Beyond Simple Retrieval-Augmented Generation](https://dev.to/mohamedshabanai/building-advanced-rag-with-langgraph-a-step-beyond-simple-retrieval-augmented-generation-1dom)
-- [Using Microsoft Excel for Basic Data Analysis &lpar;Beginner-Friendly Guide&rpar;](https://dev.to/kelvin_kamau_dccc44b35803/using-microsoft-excel-for-basic-data-analysis-beginner-friendly-guide-3151)
-- [Do You Really Need Kafka? A Practical Alternative with Postgres](https://dev.to/density_tech/do-you-really-need-kafka-a-practical-alternative-with-postgres-2de8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
