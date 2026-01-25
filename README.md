@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How SQLite Turns Hardware Chaos into Correctness](https://dev.to/lovestaco/how-sqlite-turns-hardware-chaos-into-correctness-40ba)
-- [The Beginner&#39;s Guide to Ms Excel](https://dev.to/njokijoan003commits/the-beginners-guide-to-ms-excel-23o6)
-- [Browser Fingerprinting: You’re Trackable Even Without Cookies](https://dev.to/ghostlyinc/browser-fingerprinting-youre-trackable-even-without-cookies-1bl5)
-- [Docker-Based Static Website Deployment: A Comprehensive Guide](https://dev.to/blacorpheus/docker-based-static-website-deployment-a-comprehensive-guide-2dk9)
-- [A critical gap in the technical path](https://dev.to/shitij_bhatnagar_b6d1be72/a-critical-gap-in-the-technical-path-1fk9)
+- [Sync-Conf.Dev — Keep Your AI Agent Configs in Sync Across Projects](https://dev.to/zanreal/sync-confdev-keep-your-ai-agent-configs-in-sync-across-projects-16n4)
+- [I Got Tired of Fake LeetCode Trackers, So I Built One That Actually Updates](https://dev.to/trojanmocx/i-got-tired-of-fake-leetcode-trackers-so-i-built-one-that-actually-updates-bg3)
+- [Linux for Data Engineers: A Beginner-Friendly Guide](https://dev.to/rose1845/linux-for-data-engineers-a-beginner-friendly-guide-4bgp)
+- [300ms to 60ms: How I Slashed API Latency by 80% with One Config Change](https://dev.to/kabeer_nshah_8bdaa6e7fc8/300ms-to-60ms-how-i-slashed-api-latency-by-80-with-one-config-change-3153)
+- [Introduction to MS Excel for Data Analytics](https://dev.to/ambogo2/introduction-to-ms-excel-for-data-analytics-1pjn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
