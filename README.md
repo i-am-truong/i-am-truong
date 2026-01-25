@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering TypeScript Utility Types: Part 2 — The Transformers &amp; Type Thieves](https://dev.to/mandy8055/mastering-typescript-utility-types-part-2-the-transformers-type-thieves-2ll0)
+- [StrictJS](https://dev.to/kenneth732/strictjs-4oab)
+- [Building Advanced RAG with LangGraph: A Step Beyond Simple Retrieval-Augmented Generation](https://dev.to/mohamedshabanai/building-advanced-rag-with-langgraph-a-step-beyond-simple-retrieval-augmented-generation-1dom)
 - [Using Microsoft Excel for Basic Data Analysis &lpar;Beginner-Friendly Guide&rpar;](https://dev.to/kelvin_kamau_dccc44b35803/using-microsoft-excel-for-basic-data-analysis-beginner-friendly-guide-3151)
 - [Do You Really Need Kafka? A Practical Alternative with Postgres](https://dev.to/density_tech/do-you-really-need-kafka-a-practical-alternative-with-postgres-2de8)
-- [How I Fixed a Critical Memory Leak in My Python Audio App](https://dev.to/highcenburg/how-i-fixed-a-critical-memory-leak-in-my-python-audio-app-42g9)
-- [How I automated my EF Core boilerplate code &lpar;Visual Modeling&rpar;](https://dev.to/haytham_69c9c32e329/how-i-automated-my-ef-core-boilerplate-code-visual-modeling-3cm5)
-- [Claude Code Mastery Part 3: Project Configuration](https://dev.to/jestersimpps/claude-code-mastery-part-3-project-configuration-4n8h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
