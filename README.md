@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Student vs. Microservices: How I Built an AI Platform at 18 Instead of a To-Do App](https://dev.to/globest7/student-vs-microservices-how-i-built-an-ai-platform-at-18-instead-of-a-to-do-app-4j69)
+- [Why most SVG to PNG converters are overkill &lpar;and what I actually needed&rpar;](https://dev.to/fabianosalles/why-most-svg-to-png-converters-are-overkill-and-what-i-actually-needed-2j52)
 - [NotebookLM: a practical review of a tool for fast product overviews](https://dev.to/antonmb/notebooklm-a-practical-review-of-a-tool-for-fast-product-overviews-2deg)
-- [Taming LLM Output Chaos: A 3-Tier Normalisation Pattern](https://dev.to/armelhbobdad/taming-llm-output-chaos-a-3-tier-normalisation-pattern-41jm)
-- [Best game engine to start with in 2026?](https://dev.to/moibra/best-game-engine-to-start-with-in-2026-3hne)
-- [A new dawn for me](https://dev.to/makore1762/a-new-dawn-for-me-48gp)
-- [Building my Portfolio Site in 2 Days Using Google AI Tools: Gemini CLI, Antigravity, Conductor, and Agent Starter Pack](https://dev.to/gde/building-my-portfolio-site-in-2-days-using-gemini-cli-antigravity-conductor-and-agent-starter-3bke)
+- [Solved: Helpful TypeScript Utility Types I’ve hand rolled over time, enjoy](https://dev.to/techresolve/solved-helpful-typescript-utility-types-ive-hand-rolled-over-time-enjoy-46hh)
+- [Docker Compose - SFTP: Managing files securely](https://dev.to/xandecodes/docker-compose-sftp-managing-files-securely-48b0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
