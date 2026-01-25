@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Real-Time Trap: Why Fresh Data Might Be Slowing Down Your Dashboards](https://dev.to/thanh_truong_a99577c6b879/the-real-time-trap-why-fresh-data-might-be-slowing-down-your-dashboards-3jg0)
+- [C# Console menus with Actions](https://dev.to/karenpayneoregon/c-console-menus-with-actions-67n)
 - [Zig vs Go: errors](https://dev.to/pix303/zig-vs-go-errors-4nmn)
 - [Adding Emoji Search to Google Messages for Web](https://dev.to/js_bits_bill/adding-emoji-search-to-google-messages-for-web-7f5)
 - [Check Out My Full Stack Developer Portfolio – Projects &amp; Demos](https://dev.to/sami_zanhour_595d4187b620/check-out-my-full-stack-developer-portfolio-projects-demos-3ck0)
-- [Understanding Cross-Origin Resource Sharing &lpar;CORS&rpar;](https://dev.to/adewaleomosanya/understanding-cross-origin-resource-sharing-cors-55mc)
-- [Optimizing Elementor INP: Taming DOM Bloat for Pediatric Portals](https://dev.to/designtocodes/optimizing-elementor-inp-taming-dom-bloat-for-pediatric-portals-1850)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
