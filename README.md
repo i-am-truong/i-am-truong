@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to send emails in Next.js via SMTP with email API](https://dev.to/sendlayer/how-to-send-emails-in-nextjs-via-smtp-with-email-api-4480)
+- [CSS tips for LTR &amp; RTL support](https://dev.to/w3codemaster/css-tips-for-ltr-rtl-support-28p6)
 - [IT Support Agent on AWS Bedrock - Connecting Confluence](https://dev.to/aws-builders/it-support-agent-on-aws-bedrock-connecting-confluence-l6i)
-- [Introduction to MS Excel for Data Analytics](https://dev.to/dennis_ogaka_2d188ab5bef7/introduction-to-ms-excel-for-data-analytics-56pb)
 - [FinOps on AWS: Automated Cost Optimization Strategies That Actually Work](https://dev.to/muhammad_yawar_malik/finops-on-aws-automated-cost-optimization-strategies-that-actually-work-3oah)
 - [Build a Final Exams Table](https://dev.to/richardpascoe/build-a-final-exams-table-e49)
-- [Kubernetes Deep Dive: Networking &lpar;Service, EndpointSlice, Gateway&rpar;](https://dev.to/kanywst/kubernetes-deep-dive-networking-service-endpointslice-gateway-18cn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
