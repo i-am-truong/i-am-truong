@@ -120,13 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My production server almost went down because of one library](https://dev.to/frederickpeal/my-production-server-almost-went-down-because-of-one-library-186e)
-- [What is Databricks? A Simple Guide for Beginners](https://dev.to/krunalkanojiya/what-is-databricks-a-simple-guide-for-beginners-48io)
-- [Engineering Log: LL-298: Invalid Option Strikes Causing C &lpar;+2 more&rpar;](https://dev.to/igorganapolsky/engineering-log-ll-298-invalid-option-strikes-causing-c-2-more-186j)
-- [Building CuteWallpaper.site: Making Wallpapers That Actually Fit Real Screens](https://dev.to/shawnhacks/building-cutewallpapersite-making-wallpapers-that-actually-fit-real-screens-2aad)
-- [Why Technical Correctness Is Not Enough For Developers Anymore. 
-
-Because an AI system can be statistically accurate and still fail emotionally.](https://dev.to/jaideepparashar/why-technical-correctness-is-not-enough-for-developers-anymore-because-an-ai-system-can-be-1l8l)
+- [What Is Agentic Analytics?](https://dev.to/alexmercedcoder/what-is-agentic-analytics-5g35)
+- [DevOpsMind v1.1.1: New CI/CD, Cloud, and AIOps Labs Are Here](https://dev.to/infraforgelabs/devopsmind-v111-new-cicd-cloud-and-aiops-labs-are-here-2g03)
+- [[Boost]](https://dev.to/sugatoray/-1j7)
+- [I was mistaken for an AI. What should I do?](https://dev.to/eduardogade/i-was-mistaken-for-an-ai-what-should-i-do-5fni)
+- [Sessão e identidade: por que o “contexto” decide a segurança de uma ação](https://dev.to/gideoncohen/sessao-e-identidade-por-que-o-contexto-decide-a-seguranca-de-uma-acao-529n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
