@@ -120,7 +120,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I don&#39;t know excel, where should I start from](https://dev.to/kelvin_vosky_dc39384ebad2/i-dont-know-excel-where-should-i-start-with-oe5)
+- [[Boost]](https://dev.to/mukul_verma_bca58a415e218/-50jm)
 - [Ready, Set, Compile... you slow Camel](https://dev.to/lnationorg/ready-set-compile-you-slow-camel-1nbf)
 - [Introduction to MS Excel for data analytics](https://dev.to/maggy_njuguna/introduction-to-ms-excel-for-data-analytics-3569)
 - [Beginner&#39;s Guide to Basic Data Analysis in Microsoft Excel](https://dev.to/nashipae_ntungani_8eae55/beginners-guide-to-basic-data-analysis-in-microsoft-excel-3l55)
