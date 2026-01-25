@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How SQLite Turns Hardware Chaos into Correctness](https://dev.to/lovestaco/how-sqlite-turns-hardware-chaos-into-correctness-40ba)
 - [The Beginner&#39;s Guide to Ms Excel](https://dev.to/njokijoan003commits/the-beginners-guide-to-ms-excel-23o6)
+- [Browser Fingerprinting: You’re Trackable Even Without Cookies](https://dev.to/ghostlyinc/browser-fingerprinting-youre-trackable-even-without-cookies-1bl5)
 - [Docker-Based Static Website Deployment: A Comprehensive Guide](https://dev.to/blacorpheus/docker-based-static-website-deployment-a-comprehensive-guide-2dk9)
 - [A critical gap in the technical path](https://dev.to/shitij_bhatnagar_b6d1be72/a-critical-gap-in-the-technical-path-1fk9)
-- [I Built a Search API That Actually Understands YOUR Content &lpar;Not the Entire Internet&rpar;](https://dev.to/gronrafal/i-built-a-search-api-that-actually-understands-your-content-not-the-entire-internet-3474)
-- [Introduction to MS Excel for Data Analytics](https://dev.to/caroline_sikoliaaa/introduction-to-ms-excel-for-data-analytics-92j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
