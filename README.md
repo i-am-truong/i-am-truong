@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Built a Domain-Specific GPT That Reached 200K+ Users Globally](https://dev.to/asad1/how-i-built-a-domain-specific-gpt-that-reached-200k-users-globally-17a1)
 - [On Becoming: A Cognitive Architecture&#39;s Journey Toward Self-Transcendence](https://dev.to/fabiocaloha/on-becoming-a-cognitive-architectures-journey-toward-self-transcendence-3g45)
 - [My $5/month RAG System Just Got Eyes: Adding Multimodal Search Without Breaking the Bank](https://dev.to/dannwaneri/my-5month-rag-system-just-got-eyes-adding-multimodal-search-without-breaking-the-bank-6hi)
-- [🎥 Deploy Application using GitOps Tool – ArgoCD](https://dev.to/abhishek_korde_31/deploy-application-using-gitops-tool-argocd-48f0)
+- [👉 🚀 GitOps in Action: Deploy Applications on Kubernetes using Argo CD](https://dev.to/abhishek_korde_31/deploy-application-using-gitops-tool-argocd-48f0)
 - [I Created My First AI Tool-Using Agent with LangGraph and Groq](https://dev.to/akansrodger/i-created-my-first-ai-tool-using-agent-with-langgraph-and-groq-3j3n)
-- [Leanings: Docker and it perks](https://dev.to/dentrodailha96/leanings-docker-and-it-perks-33if)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
