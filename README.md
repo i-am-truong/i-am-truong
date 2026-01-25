@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [LINUX FOR A ROOKIE DATA ENGINEERING STUDENT](https://dev.to/shabex/linux-for-a-rookie-data-engineering-student-255h)
+- [Starting JavaScript Today – My First Attempt.](https://dev.to/jazmin_m_099/starting-javascript-today-my-first-attempt-4pj1)
+- [β or w? for weight...](https://dev.to/yash_30may05ur/b-or-w-for-weight-3kcl)
+- [My Excel &amp; Power Query Journey](https://dev.to/jaleny97/my-excel-power-query-journey-39k5)
 - [Synapse 0.2: REPL, S-Expressions &amp; Working Loops](https://dev.to/xzdes/synapse-02-repl-s-expressions-working-loops-4i8j)
-- [Engineering Log: LL-277: Iron Condor Optimization Researc &lpar;+2 more&rpar;](https://dev.to/igorganapolsky/engineering-log-ll-277-iron-condor-optimization-researc-2-more-2fpo)
-- [Ethereum-Solidity Quiz Q25: What is gas in Ethereum?](https://dev.to/mihaihng/ethereum-solidity-quiz-q25-what-is-gas-in-ethereum-5cae)
-- [From Localhost to Production: Deploying an AI Blog Generator &lpar;FastAPI + React&rpar;](https://dev.to/lymah/from-localhost-to-production-deploying-an-ai-blog-generator-fastapi-react-4m1n)
-- [Closures in JavaScript: Understanding Lexical Scope and Memory](https://dev.to/0xrazumovsky/closures-in-javascript-understanding-lexical-scope-and-memory-1d3g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
