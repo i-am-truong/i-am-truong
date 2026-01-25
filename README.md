@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What Is Agentic Analytics?](https://dev.to/alexmercedcoder/what-is-agentic-analytics-5g35)
-- [DevOpsMind v1.1.1: New CI/CD, Cloud, and AIOps Labs Are Here](https://dev.to/infraforgelabs/devopsmind-v111-new-cicd-cloud-and-aiops-labs-are-here-2g03)
-- [[Boost]](https://dev.to/sugatoray/-1j7)
-- [I was mistaken for an AI. What should I do?](https://dev.to/eduardogade/i-was-mistaken-for-an-ai-what-should-i-do-5fni)
-- [Sessão e identidade: por que o “contexto” decide a segurança de uma ação](https://dev.to/gideoncohen/sessao-e-identidade-por-que-o-contexto-decide-a-seguranca-de-uma-acao-529n)
+- [INTRODUCTION TO MS EXCEL FOR DATA ANALYTICS](https://dev.to/moses_odhiambo_6f8b1fccb8/introduction-to-ms-excel-for-data-analytics-2fnj)
+- [Stop pasting 5,000 lines of logs into Claude. Use a secure context tunnel instead](https://dev.to/raullen_chai_76e18e9705b0/stop-pasting-5000-lines-of-logs-into-claude-use-a-secure-context-tunnel-instead-5559)
+- [🎁 Simp1OS Early Access Giveaway](https://dev.to/arush179/simp1os-early-access-giveaway-141k)
+- [Learning Go in 2026](https://dev.to/sanket_palankar_8265ba7c5/learning-go-in-2026-3d2i)
+- [New Year New Portfolio](https://dev.to/discovered12345/new-year-new-portfolio-2o0k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
