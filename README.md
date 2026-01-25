@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to create a &quot;convention&quot; plugin for your multi-module Android app](https://dev.to/coltonidle/how-to-create-a-convention-plugin-for-your-multi-module-android-app-479k)
+- [🐝 Copilot Swarm Orchestrator](https://dev.to/moonrunnerkc/copilot-swarm-orchestrator-oda)
 - [The Hidden &quot;Cost&quot;: Is Your Infrastructure Budget Being Held Hostage by Cold Data?](https://dev.to/iseecodepeople/the-hidden-cost-is-your-infrastructure-budget-being-held-hostage-by-cold-data-153d)
 - [The Real-Time Trap: Why Fresh Data Might Be Slowing Down Your Dashboards](https://dev.to/thanh_truong_a99577c6b879/the-real-time-trap-why-fresh-data-might-be-slowing-down-your-dashboards-3jg0)
 - [C# Console menus with Actions](https://dev.to/karenpayneoregon/c-console-menus-with-actions-67n)
-- [Zig vs Go: errors](https://dev.to/pix303/zig-vs-go-errors-4nmn)
-- [Eventually I feel the true Essence of Go](https://dev.to/lbvf50mobile/eventually-i-feel-the-true-essence-of-go-375b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
