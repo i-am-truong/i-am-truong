@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Spring Boot 4 入門教學 - Part 4 &lpar;@Bean 與 IoC 容器&rpar;](https://dev.to/cyrustse/spring-boot-4-ru-men-jiao-xue-part-4-mi2)
-- [Spring Boot 4 入門教學 - Part 3 &lpar;@SpringBootApplication 深度解析&rpar;](https://dev.to/cyrustse/spring-boot-4-ru-men-jiao-xue-part-3-509h)
-- [Spring Boot 4 入門教學 - Part 2 &lpar;建立第一個 Spring Boot 專案&rpar;](https://dev.to/cyrustse/spring-boot-4-ru-men-jiao-xue-part-2-45k9)
-- [Building a Clipboard Manager Taught Me More About Trust Than UX Ever Did](https://dev.to/mellowlabs/building-a-clipboard-manager-taught-me-more-about-trust-than-ux-ever-did-52k)
-- [ReactJS Hook Pattern ~Effect Separation Pattern~](https://dev.to/kkr0423/reactjs-hook-pattern-effect-separation-pattern-5ffp)
+- [Glitch - A Modern Animated Portfolio Template](https://dev.to/iamovi/glitch-a-modern-animated-portfolio-template-5108)
+- [Autonomous Organization Infrastructure](https://dev.to/thucpn/autonomous-organization-infrastructure-2h1l)
+- [Explain Methods To Secure AI Systems](https://dev.to/aws-builders/explain-methods-to-secure-ai-systems-iei)
+- [The Secret Life of Python: The Scope Creep](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-scope-creep-21e4)
+- [Explicit by Default: Designing a Boring Mediator for .NET](https://dev.to/alexs_falcon/explicit-by-default-designing-a-boring-mediator-for-net-3h6p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
