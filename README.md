@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Glitch - A Modern Animated Portfolio Template](https://dev.to/iamovi/glitch-a-modern-animated-portfolio-template-5108)
-- [Autonomous Organization Infrastructure](https://dev.to/thucpn/autonomous-organization-infrastructure-2h1l)
-- [Explain Methods To Secure AI Systems](https://dev.to/aws-builders/explain-methods-to-secure-ai-systems-iei)
-- [The Secret Life of Python: The Scope Creep](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-scope-creep-21e4)
-- [Explicit by Default: Designing a Boring Mediator for .NET](https://dev.to/alexs_falcon/explicit-by-default-designing-a-boring-mediator-for-net-3h6p)
+- [系统代理配置不可持久化的问题排查与解决](https://dev.to/amoorzheyu/xi-tong-dai-li-pei-zhi-bu-ke-chi-jiu-hua-de-wen-ti-pai-cha-yu-jie-jue-23j8)
+- [Part 2 - The Fiber Revolution &lpar;React 16&rpar;](https://dev.to/nehamalviaaa/part-2-the-fiber-revolution-react-16-3g54)
+- [Programming Tech That Ages Well Versus Tools That Rot Fast](https://dev.to/numbpill3d/programming-tech-that-ages-well-versus-tools-that-rot-fast-3f9j)
+- [React Hooks: Default Export vs Named Export](https://dev.to/tusharshahi/react-hooks-default-export-vs-named-export-1edn)
+- [Introduction to Linux for Data Engineers, Including Practical Use of Vi and Nano with Examples](https://dev.to/geraldm/introduction-to-linux-for-data-engineers-including-practical-use-of-vi-and-nano-with-examples-1ian)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
