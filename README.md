@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Implementing the MVI Design Pattern in Flutter: A Journey toward Scalable State Management](https://dev.to/emmanuel_code/implementing-the-mvi-design-pattern-in-flutter-a-journey-toward-scalable-state-management-250e)
 - [Building PriorityPilot: A CLI Project Manager That Learns From Your Decisions](https://dev.to/usero0/building-prioritypilot-a-cli-project-manager-that-learns-from-your-decisions-17kg)
 - [Comparación de Servicios de Almacenamiento en la Nube](https://dev.to/adini/comparacion-de-servicios-de-almacenamiento-en-la-nube-c4f)
 - [NeuroShell OS: Rethinking Boot-Time Design for AI-Native Computing](https://dev.to/hejhdiss/neuroshell-os-rethinking-boot-time-design-for-ai-native-computing-4m53)
 - [Why We Built Headless Bridge: The Problem with WPGraphQL](https://dev.to/brewandbuild/why-we-built-headless-bridge-the-problem-with-wpgraphql-4fe0)
-- [Build an AI Voice Agent That Actually TALKS BACK 🤖🗣️ &lpar;Twilio + ElevenLabs Tutorial&rpar;](https://dev.to/ayyazzafar/build-an-ai-voice-agent-that-actually-talks-back-twilio-elevenlabs-tutorial-3h76)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
