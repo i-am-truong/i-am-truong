@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Zig vs Go: errors](https://dev.to/pix303/zig-vs-go-errors-4nmn)
 - [Adding Emoji Search to Google Messages for Web](https://dev.to/js_bits_bill/adding-emoji-search-to-google-messages-for-web-7f5)
 - [Check Out My Full Stack Developer Portfolio – Projects &amp; Demos](https://dev.to/sami_zanhour_595d4187b620/check-out-my-full-stack-developer-portfolio-projects-demos-3ck0)
 - [Understanding Cross-Origin Resource Sharing &lpar;CORS&rpar;](https://dev.to/adewaleomosanya/understanding-cross-origin-resource-sharing-cors-55mc)
 - [Optimizing Elementor INP: Taming DOM Bloat for Pediatric Portals](https://dev.to/designtocodes/optimizing-elementor-inp-taming-dom-bloat-for-pediatric-portals-1850)
-- [Pipeline de Dados x Pipeline ETL](https://dev.to/franolv/pipeline-de-dados-x-pipeline-etl-47ep)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
