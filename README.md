@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to send emails in Next.js via SMTP with email API](https://dev.to/sendlayer/how-to-send-emails-in-nextjs-via-smtp-with-email-api-4480)
-- [CSS tips for LTR &amp; RTL support](https://dev.to/w3codemaster/css-tips-for-ltr-rtl-support-28p6)
-- [IT Support Agent on AWS Bedrock - Connecting Confluence](https://dev.to/aws-builders/it-support-agent-on-aws-bedrock-connecting-confluence-l6i)
-- [FinOps on AWS: Automated Cost Optimization Strategies That Actually Work](https://dev.to/muhammad_yawar_malik/finops-on-aws-automated-cost-optimization-strategies-that-actually-work-3oah)
-- [Build a Final Exams Table](https://dev.to/richardpascoe/build-a-final-exams-table-e49)
+- [I Built a 3D Game-Style Interactive Developer Portfolio with Three.js, Gemini &amp; AntiGravity](https://dev.to/saurabhnative/i-built-a-3d-game-style-interactive-developer-portfolio-with-threejs-gemini-antigravity-3ie9)
+- [Super Simple Guide: Get Your Code on GitHub](https://dev.to/nicholas_kimani_e0fc0306b/super-simple-guide-get-your-code-on-github-1bp7)
+- [A Simple beginners Guide to Git &amp; GitHub](https://dev.to/lawrence_murithi/a-simple-beginners-guide-to-git-github-j29)
+- [🚀 Why I Built JSSpace - 100+ Free Online Tools Built with AI](https://dev.to/_f64155ec4200ceaffa673e/why-i-built-jsspace-100-free-online-tools-built-with-ai-3p44)
+- [Part 1 : Peer Aware Eureka Service Registry](https://dev.to/pratik280/part-1-peer-aware-eureka-service-registry-219n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
