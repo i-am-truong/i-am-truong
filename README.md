@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Smarter Football Predictions with Standard Deviation in Node.js](https://dev.to/ads_rabat_9bb3463ae662b6a/building-smarter-football-predictions-with-standard-deviation-in-nodejs-1el5)
-- [Reescrevendo Legados #01](https://dev.to/cavalcanteyury/reescrevendo-legados-01-1fm3)
-- [Solving The Add Two Numbers Leetcode Question](https://dev.to/ehizman/solving-the-add-two-numbers-leetcode-question-1a5o)
-- [Request for assistance, MLops guidance after AI, computational neuroscience studies.](https://dev.to/p_2507_eac89c5f24fe6f472b/request-for-assistance-mlops-guidance-after-ai-computational-neuroscience-studies-3i7n)
-- [Sitting is Wrecking Your Body. Here is the Simple Routine That Saved My Career.](https://dev.to/jack_cioran/sitting-is-wrecking-your-body-here-is-the-simple-routine-that-saved-my-career-17cn)
+- [i accidentally built AGI for $30/month and nobody&#39;s ready for this conversation](https://dev.to/kenzo_codes/i-accidentally-built-agi-for-30month-and-nobodys-ready-for-this-conversation-oh4)
+- [Inside Google Antigravity: How AI Pair Programming Actually Works](https://dev.to/suraj_khaitan_f893c243958/inside-google-antigravity-how-ai-pair-programming-actually-works-16nc)
+- [Linux ve Dağıtımlarının Felsefesi](https://dev.to/dtpcoglu/linux-ve-dagitimlarinin-felsefesi-90i)
+- [Jeff Su: The Only AI Tools You Need &lpar;12-Minute Guide&rpar;](https://dev.to/future_ai/jeff-su-the-only-ai-tools-you-need-12-minute-guide-9a4)
+- [To Terraform or...CloudFormation](https://dev.to/xmabry/to-terraform-orcloudformation-3c5o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
