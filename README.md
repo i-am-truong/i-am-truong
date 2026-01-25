@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your SSH Keys Are Naked and It&#39;s Your Fault](https://dev.to/ops_mechanic/your-ssh-keys-are-naked-and-its-your-fault-32kp)
-- [Introduction to Linux for Data Engineers](https://dev.to/edmund_eryuba/introduction-to-linux-for-data-engineers-299o)
-- [When A Landing Page Almost Took Down Production](https://dev.to/interface/when-a-landing-page-almost-took-down-production-462o)
-- [Building Privacy-First Web3 &amp; AI Apps with Oasis Sapphire and GetBlock](https://dev.to/caerlower/building-privacy-first-web3-ai-apps-with-oasis-sapphire-and-getblock-4il9)
-- [Introduction to MS Excel for Data Analytics](https://dev.to/jason_ndalamia_74ce33128b/introduction-to-ms-excel-for-data-analytics-26an)
+- [The Beginner&#39;s Guide to Ms Excel](https://dev.to/njokijoan003commits/the-beginners-guide-to-ms-excel-23o6)
+- [Docker-Based Static Website Deployment: A Comprehensive Guide](https://dev.to/blacorpheus/docker-based-static-website-deployment-a-comprehensive-guide-2dk9)
+- [A critical gap in the technical path](https://dev.to/shitij_bhatnagar_b6d1be72/a-critical-gap-in-the-technical-path-1fk9)
+- [I Built a Search API That Actually Understands YOUR Content &lpar;Not the Entire Internet&rpar;](https://dev.to/gronrafal/i-built-a-search-api-that-actually-understands-your-content-not-the-entire-internet-3474)
+- [Introduction to MS Excel for Data Analytics](https://dev.to/caroline_sikoliaaa/introduction-to-ms-excel-for-data-analytics-92j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
