@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/mukul_verma_bca58a415e218/-50jm)
-- [Ready, Set, Compile... you slow Camel](https://dev.to/lnationorg/ready-set-compile-you-slow-camel-1nbf)
-- [Introduction to MS Excel for data analytics](https://dev.to/maggy_njuguna/introduction-to-ms-excel-for-data-analytics-3569)
-- [Beginner&#39;s Guide to Basic Data Analysis in Microsoft Excel](https://dev.to/nashipae_ntungani_8eae55/beginners-guide-to-basic-data-analysis-in-microsoft-excel-3l55)
-- [I Built Minesweeper So an AI Can Slack Off and Play: The API Edition](https://dev.to/geeknees/i-built-minesweeper-so-an-ai-can-slack-off-and-play-the-api-edition-jfn)
+- [Weekly #04-2026: Astro Joins Cloudflare, Curl Drops OpenSSL QUIC, AI Can&#39;t Replace Developers](https://dev.to/weekly/weekly-04-2026-astro-joins-cloudflare-curl-drops-openssl-quic-ai-cant-replace-developers-3anp)
+- [Evaluating Microsoft Excel as a Data Analytics tool in Modern Business Decision Making](https://dev.to/beverline_otiende_6d3045c/evaluating-microsoft-excel-as-a-data-analytics-tool-in-modern-business-decision-making-37hd)
+- [What&#39;s the VDOM anyway?](https://dev.to/vftiago/whats-the-vdom-anyway-50l1)
+- [15.Create IAM Group Using Terraform](https://dev.to/thukhakyawe_cloud/15create-iam-group-using-terraform-4pi5)
+- [Introducing QR Code Steganography: Because Normal QR Codes Are Too Mainstream](https://dev.to/rolan_r_n_r/introducing-qr-code-steganography-because-normal-qr-codes-are-too-mainstream-1ipj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
