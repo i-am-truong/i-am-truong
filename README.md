@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Physics-Enforced Oracle: How KAILEdge Brings Deterministic Cargo Monitoring to Layer 2s](https://dev.to/zentoshi/building-a-physics-enforced-oracle-how-kailedge-brings-deterministic-cargo-monitoring-to-layer-2s-4a3a)
+- [DSA Pattern Recognition](https://dev.to/bibimbop123/dsa-pattern-recognition-545m)
+- [Intersection observer](https://dev.to/chhavikohli/intersection-observer-5807)
 - [修改 SSH 默认端口导致密钥登录失败的排查与解决](https://dev.to/amoorzheyu/xiu-gai-ssh-mo-ren-duan-kou-dao-zhi-mi-yao-deng-lu-shi-bai-de-pai-cha-yu-jie-jue-1aac)
 - [📊 Two Weeks In: How My First Flutter Chart Package Is Performing on pub.dev 🚀](https://dev.to/rahul-cse-25/two-weeks-in-how-my-first-flutter-chart-package-is-performing-on-pubdev-2om0)
-- [Clean, Transform, and Load Data in Power BI: A Beginner-Friendly Guide](https://dev.to/ibrahimabdulrasaq/clean-transform-and-load-data-in-power-bi-a-beginner-friendly-guide-41ej)
-- [How to deprecate PHP code without breaking your users](https://dev.to/robertobutti/how-to-deprecate-php-code-without-breaking-your-users-4hae)
-- [Week 16 React Learning Recap: Wrapping Up useReducer and Closing a Chapter](https://dev.to/usama_dev/week-16-react-learning-recap-wrapping-up-usereducer-and-closing-a-chapter-e7h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
