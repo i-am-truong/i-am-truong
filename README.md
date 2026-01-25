@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a System Thinker&#39;s Portfolio](https://dev.to/developer_sahil/building-a-system-thinkers-portfolio-38kg)
-- [The Art of Better One-on-Ones](https://dev.to/mattlewandowski93/the-art-of-better-one-on-ones-ppm)
-- [How I built a Content Curator CLI using Github Copilot CLI SDK](https://dev.to/shivaylamba/how-i-built-a-content-curator-cli-using-github-copilot-cli-sdk-51ff)
-- [yourprofile.info — Production ML &amp; GenAI Portfolio Built with Gemini on Cloud Run](https://dev.to/the_grate_ss/yourprofileinfo-production-ml-genai-portfolio-built-with-gemini-on-cloud-run-o5d)
-- [ZenPNL — IDX Stock P&amp;L + TradingView Chart + News &lpar;Next.js&rpar;](https://dev.to/0x5zen/zenpnl-idx-stock-pl-tradingview-chart-news-nextjs-570h)
+- [On Becoming: A Cognitive Architecture&#39;s Journey Toward Self-Transcendence](https://dev.to/fabiocaloha/on-becoming-a-cognitive-architectures-journey-toward-self-transcendence-3g45)
+- [My $5/month RAG System Just Got Eyes: Adding Multimodal Search Without Breaking the Bank](https://dev.to/dannwaneri/my-5month-rag-system-just-got-eyes-adding-multimodal-search-without-breaking-the-bank-6hi)
+- [🎥 Deploy Application using GitOps Tool – ArgoCD](https://dev.to/abhishek_korde_31/deploy-application-using-gitops-tool-argocd-48f0)
+- [I Created My First AI Tool-Using Agent with LangGraph and Groq](https://dev.to/akansrodger/i-created-my-first-ai-tool-using-agent-with-langgraph-and-groq-3j3n)
+- [Leanings: Docker and it perks](https://dev.to/dentrodailha96/leanings-docker-and-it-perks-33if)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
