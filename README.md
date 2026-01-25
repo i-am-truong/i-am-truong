@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [IT Support Agent on AWS Bedrock - Connecting Confluence](https://dev.to/aws-builders/it-support-agent-on-aws-bedrock-connecting-confluence-l6i)
+- [FinOps on AWS: Automated Cost Optimization Strategies That Actually Work](https://dev.to/muhammad_yawar_malik/finops-on-aws-automated-cost-optimization-strategies-that-actually-work-3oah)
+- [Build a Final Exams Table](https://dev.to/richardpascoe/build-a-final-exams-table-e49)
+- [Kubernetes Deep Dive: Networking &lpar;Service, EndpointSlice, Gateway&rpar;](https://dev.to/kanywst/kubernetes-deep-dive-networking-service-endpointslice-gateway-18cn)
 - [I Built a Small Tool for Screenshotting and Recording Public Websites — and It Went Deeper Than I Expected](https://dev.to/shawnhacks/i-built-a-small-tool-for-screenshotting-and-recording-public-websites-and-it-went-deeper-than-i-4ali)
-- [Day-39 From Bloated to Lightweight: How I Dockerized a React Portfolio using Multi-Stage Builds](https://dev.to/jayanth_dasari_7/day-39-from-bloated-to-lightweight-how-i-dockerized-a-react-portfolio-using-multi-stage-builds-4bb)
-- [KMP에서 Google 계정으로 Firebase 로그인 구현하기](https://dev.to/kingori/kmpeseo-google-gyejeongeuro-firebase-rogeuin-guhyeonhagi-138)
-- [I ported shadcn/ui to modern Ember.js](https://dev.to/ignace/i-ported-shadcnui-to-modern-emberjs-440d)
-- [Implementing Firebase Google Login in Kotlin Multiplatform &lpar;KMP&rpar;](https://dev.to/kingori/implementing-firebase-google-login-in-kotlin-multiplatform-kmp-48hd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
