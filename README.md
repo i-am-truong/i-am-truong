@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [传统交易者](https://dev.to/elianalamhost/chuan-tong-jiao-yi-zhe-f5c)
-- [WTF is Distributed Database Systems?](https://dev.to/dailybugle33/wtf-is-distributed-database-systems-dhn)
-- [PHP: Stop Passing Arrays Everywhere](https://dev.to/suckup_de/php-stop-passing-arrays-everywhere-45f1)
-- [How DNS Resolution Works](https://dev.to/hiral/how-dns-resolution-works-496h)
-- [How to Check if Your VPN is Working on Mac: DNS Leak Testing Guide](https://dev.to/heocoi/how-to-check-if-your-vpn-is-working-on-mac-dns-leak-testing-guide-14m9)
+- [Using Microsoft Excel for Basic Data Analysis &lpar;Beginner-Friendly Guide&rpar;](https://dev.to/kelvin_kamau_dccc44b35803/using-microsoft-excel-for-basic-data-analysis-beginner-friendly-guide-3151)
+- [Do You Really Need Kafka? A Practical Alternative with Postgres](https://dev.to/density_tech/do-you-really-need-kafka-a-practical-alternative-with-postgres-2de8)
+- [How I Fixed a Critical Memory Leak in My Python Audio App](https://dev.to/highcenburg/how-i-fixed-a-critical-memory-leak-in-my-python-audio-app-42g9)
+- [How I automated my EF Core boilerplate code &lpar;Visual Modeling&rpar;](https://dev.to/haytham_69c9c32e329/how-i-automated-my-ef-core-boilerplate-code-visual-modeling-3cm5)
+- [Claude Code Mastery Part 3: Project Configuration](https://dev.to/jestersimpps/claude-code-mastery-part-3-project-configuration-4n8h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
