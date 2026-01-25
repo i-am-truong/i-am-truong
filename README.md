@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Journal app with no edit button.](https://dev.to/peakker_panther_7fb64408b/journal-app-with-no-edit-button-13lc)
+- [Realtime Deploy Notifications in Next.js with Toasts](https://dev.to/ravgeetdhillon/realtime-deploy-notifications-in-nextjs-with-toasts-17lm)
 - [INTRODUCTION TO MS EXCEL FOR DATA ANALYTICS](https://dev.to/moses_odhiambo_6f8b1fccb8/introduction-to-ms-excel-for-data-analytics-2fnj)
 - [Stop pasting 5,000 lines of logs into Claude. Use a secure context tunnel instead](https://dev.to/raullen_chai_76e18e9705b0/stop-pasting-5000-lines-of-logs-into-claude-use-a-secure-context-tunnel-instead-5559)
 - [🎁 Simp1OS Early Access Giveaway](https://dev.to/arush179/simp1os-early-access-giveaway-141k)
-- [Learning Go in 2026](https://dev.to/sanket_palankar_8265ba7c5/learning-go-in-2026-3d2i)
-- [New Year New Portfolio](https://dev.to/discovered12345/new-year-new-portfolio-2o0k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
