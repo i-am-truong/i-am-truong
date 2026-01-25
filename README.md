@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Implementing the MVI Design Pattern in Flutter: A Journey toward Scalable State Management](https://dev.to/emmanuel_code/implementing-the-mvi-design-pattern-in-flutter-a-journey-toward-scalable-state-management-250e)
-- [Building PriorityPilot: A CLI Project Manager That Learns From Your Decisions](https://dev.to/usero0/building-prioritypilot-a-cli-project-manager-that-learns-from-your-decisions-17kg)
-- [Comparación de Servicios de Almacenamiento en la Nube](https://dev.to/adini/comparacion-de-servicios-de-almacenamiento-en-la-nube-c4f)
-- [NeuroShell OS: Rethinking Boot-Time Design for AI-Native Computing](https://dev.to/hejhdiss/neuroshell-os-rethinking-boot-time-design-for-ai-native-computing-4m53)
-- [Why We Built Headless Bridge: The Problem with WPGraphQL](https://dev.to/brewandbuild/why-we-built-headless-bridge-the-problem-with-wpgraphql-4fe0)
+- [Plugins: Share Your Entire Claude Code Setup With One Command](https://dev.to/rajeshroyal/plugins-share-your-entire-claude-code-setup-with-one-command-294n)
+- [SOLID com Node.js e TypeScript: Escrevendo Código de Gente Grande](https://dev.to/danielcamucatto/solid-com-nodejs-e-typescript-escrevendo-codigo-de-gente-grande-32nj)
+- [β or w? for weight...](https://dev.to/yash_30may05ur/b-or-w-for-weight-51id)
+- [Your Local Environment Tests a Different System Than Production](https://dev.to/nuewframe/your-local-environment-tests-a-different-system-than-production-4ib1)
+- [AI-generated code lacks common sense](https://dev.to/maxpatiiuk/ai-generated-code-lacks-common-sense-29bo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
