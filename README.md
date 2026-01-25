@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Crayons and the Wall](https://dev.to/suckup_de/crayons-and-the-wall-2ia7)
-- [Why Can You Right-Click Save a WebGL Canvas? A 20-Year History of Browser Graphics](https://dev.to/usapopopooon/why-can-you-right-click-save-a-webgl-canvas-a-20-year-history-of-browser-graphics-4kb3)
-- [Metaprogramming and the Limits of Static Analysis](https://dev.to/aghastygd/metaprogramming-and-the-limits-of-static-analysis-4dbk)
-- [Task Management UI](https://dev.to/preetha_vaishnavi_2b82358/task-management-ui-o64)
-- [Home Task Manager with angular js and firebase](https://dev.to/preetha_vaishnavi_2b82358/home-task-manager-with-angular-js-and-firebase-2db0)
+- [How DNS Resolution Works](https://dev.to/hiral/how-dns-resolution-works-496h)
+- [How to Check if Your VPN is Working on Mac: DNS Leak Testing Guide](https://dev.to/heocoi/how-to-check-if-your-vpn-is-working-on-mac-dns-leak-testing-guide-14m9)
+- [Managing Comprehension Debt: How to Stop Shipping AI Code You Don&#39;t Understand](https://dev.to/thesystemistsimon/comprehension-debt-how-to-stop-shipping-ai-code-you-dont-understand-2lpn)
+- [Laravel Wayfinder: Type Safe Routes and Forms with Inertia](https://dev.to/hafiz619/laravel-wayfinder-type-safe-routes-and-forms-with-inertia-299)
+- [From cronjobs to controllers: Building a production-grade Kubernetes Backup &amp; Restore Operator](https://dev.to/mxnuchim/from-cronjobs-to-controllers-building-a-production-grade-kubernetes-backup-restore-operator-4g8h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
