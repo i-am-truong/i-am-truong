@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [heyvm: Or How I Stopped Worrying and Learned to Love My VMs](https://dev.to/adish_m98/heyvm-or-how-i-stopped-worrying-and-learned-to-love-my-vms-25p5)
-- [Technical Deep Dive: Building SkillFade with FastAPI and React](https://dev.to/ruhidibadli/technical-deep-dive-building-skillfade-with-fastapi-and-react-3833)
-- [Product Quantization: How ANN Systems Cheat Distance Without Breaking Search](https://dev.to/jashwanth_thatipamula_8ee/product-quantization-how-ann-systems-cheat-distance-without-breaking-search-60k)
-- [Building a High-Performance Blog with Next.js 15 App Router: A Complete Guide](https://dev.to/dylan-neanix/building-a-high-performance-blog-with-nextjs-15-app-router-a-complete-guide-16jo)
-- [File Permission on unix Systems](https://dev.to/matscode/file-permission-on-unix-systems-3ck3)
+- [Securing AI Skills](https://dev.to/aws-builders/securing-ai-skills-52jg)
+- [New Year, New Portfolio: How Google AI &amp; Cloud Run Powered ucupio.com](https://dev.to/maulana_yusufazmi_ddcea4/new-year-new-portfolio-how-google-ai-cloud-run-powered-ucupiocom-3jl6)
+- [Checkout Authentication and Conversion Rate](https://dev.to/corbado/checkout-authentication-and-conversion-rate-4j2h)
+- [Building Hallucination-Resistant AI Systems](https://dev.to/dextralabs/building-hallucination-resistant-ai-systems-5ak8)
+- [Solved: New version of socktop released.](https://dev.to/techresolve/solved-new-version-of-socktop-released-3a1i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
