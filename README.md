@@ -120,11 +120,12 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I’ve continued my journey in the Data Engineering Zoomcamp by Alexey Grigorev — and just completed Module 2: Workflow Orchestration.
+This module focused on how data workflows are structured, scheduled, and automated in real-world data platforms](https://dev.to/alex_huc_0825fb88910b872c/ive-continued-my-journey-in-the-data-engineering-zoomcamp-by-alexey-grigorev-and-just-completed-2g92)
+- [Junior Survival Guide for Simplicity](https://dev.to/srsandrade/junior-survival-guide-for-simplicity-1g9c)
+- [Low-Noise EC2 Benchmarking: A Practical Guide](https://dev.to/kienmarkdo/low-noise-ec2-benchmarking-a-practical-guide-19f0)
 - [Learning SQL Server the Hard Way: 16 Days of Real-World Database Work](https://dev.to/lfariaus/learning-sql-server-the-hard-way-16-days-of-real-world-database-work-5hla)
 - [4 Things I Learned Migrating from Supabase to Xano](https://dev.to/camb/4-things-i-learned-migrating-from-supabase-to-xano-3b7n)
-- [Rebuilding After Closing My Upwork Account: Partnering with a Friend to Start a New Freelance Journey](https://dev.to/famoustiger0808/rebuilding-after-closing-my-upwork-account-partnering-with-a-friend-to-start-a-new-freelance-2401)
-- [# MCP vs CAP: Why Your AI Agents Need Both Protocols](https://dev.to/yaron_torgeman_104570d968/-mcp-vs-cap-why-your-ai-agents-need-both-protocols-3g4l)
-- [Finally, a Modern CMS for Developers: Introducing NextBlock &lpar;Open Source&rpar;](https://dev.to/nextblockcms/finally-a-modern-cms-for-developers-introducing-nextblock-open-source-336)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
