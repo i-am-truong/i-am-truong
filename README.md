@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Will the Next Federal Reserve Chair Shape the U.S. Cryptocurrency Regulatory Landscape?](https://dev.to/apnews/how-will-the-next-federal-reserve-chair-shape-the-us-cryptocurrency-regulatory-landscape-2pa0)
-- [ROLLUP vs CUBE: How I Finally Understood SQL Subtotals](https://dev.to/mazinocodes/rollup-vs-cube-how-i-finally-understood-sql-subtotals-4a49)
-- [Hey dev.to 👋](https://dev.to/sanjiv_prabhunandan/hey-devto-4l5o)
-- [Build Your Own AI Story Generator with RAG - Part 3: Generating Stories](https://dev.to/diskcleankit/build-your-own-ai-story-generator-with-rag-part-3-generating-stories-4b1)
-- [Codie&#39;s Cognitive Chronicles](https://dev.to/izzyfuller/codies-cognitive-chronicles-57ej)
+- [I Built a Faster PWA Icon Generator in a Weekend](https://dev.to/sivarampg/i-built-a-faster-pwa-icon-generator-in-a-weekend-li8)
+- [Teaching Clawdbot About Docker](https://dev.to/ajeetraina/teaching-clawdbot-about-docker-165g)
+- [How I use Claude Code to accelerate my software engineering job and improve my life](https://dev.to/juandj/how-i-use-claude-code-to-accelerate-my-software-engineering-job-and-improve-my-life-8o7)
+- [I saw Antigravity, I prompted, I conquered!](https://dev.to/usersam7/i-saw-antigravity-i-prompted-i-conquered-4102)
+- [Turbocharge Your Go Network Apps: Practical Optimization Tips](https://dev.to/jones_charles_ad50858dbc0/turbocharge-your-go-network-apps-practical-optimization-tips-1c9d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
