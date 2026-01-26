@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Deployed Woodpecker CI on Fedora IoT](https://dev.to/miry/how-i-deployed-woodpecker-ci-on-fedora-iot-4pbh)
 - [Git by example - The signature you will not forget! &lpar;&quot;missing DCO signoff&quot;&rpar;](https://dev.to/aurelievache/git-by-example-the-signature-you-will-not-forget-missing-dco-signoff-a28)
+- [Why being a Professional Tango Musician made me a better Developer.](https://dev.to/fjab94/why-being-a-professional-tango-musician-made-me-a-better-developer-54jl)
 - [[Boost]](https://dev.to/cherryramatis/-59ph)
 - [Why an AWS Architect Built Azure Powers for Kiro &lpar;And What I Learned&rpar;](https://dev.to/aws-builders/why-an-aws-architect-built-azure-powers-for-kiro-and-what-i-learned-2dg4)
-- [Exploring the SoftMax Function: The Better Way to Interpret Neural Network Outputs](https://dev.to/rijultp/exploring-the-softmax-function-the-better-way-to-interpret-neural-network-outputs-5p8)
-- [Rewriting My First NUnit API Tests: Cleaner, Faster, Better](https://dev.to/m4rri4nne/rewriting-my-first-nunit-api-tests-cleaner-faster-better-24fa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
