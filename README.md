@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Memory-First AI Reminder Agents with Mem0 and Claude Agent SDK](https://dev.to/mem0/building-memory-first-ai-reminder-agents-with-mem0-and-claude-agent-sdk-3380)
-- [A Universal FPGA Compiler that Understands 42 Programming Languages](https://dev.to/serverlesskiy/a-universal-fpga-compiler-that-understands-42-programming-languages-l79)
-- [Automating Unity Builds for Meta Quest](https://dev.to/virtualmaker/automating-unity-builds-for-meta-quest-2lpf)
-- [Introduction to Linux for Data Engineers](https://dev.to/lawrence_murithi/introduction-to-linux-for-data-engineers-29jn)
-- [Many people confuse rank&lpar;&rpar; with dense_rank&lpar;&rpar;.](https://dev.to/yurilbrok/many-people-confuse-rank-with-denserank-1ii7)
+- [Dokumentasi Database MariaDB &lpar;Updated&rpar;](https://dev.to/mrkoala1001/dokumentasi-database-mariadb-updated-5c60)
+- [The Pager: Where SQLite Transactions Touch Disk Reality](https://dev.to/lovestaco/the-pager-where-sqlite-transactions-touch-disk-reality-44cg)
+- [AWS Lambda Managed Instances with Java 25 and AWS SAM - Part 2 Create Capacity Provider](https://dev.to/aws-heroes/aws-lambda-managed-instances-with-java-25-and-aws-sam-part-2-create-capacity-provider-4cgo)
+- [Making AI Agent Configurations Stable with an LLM Gateway](https://dev.to/palapalapala/making-ai-agent-configurations-stable-with-an-llm-gateway-2jf1)
+- [Building a real-time crypto analysis engine with Go, MQTT and Laravel](https://dev.to/cristianbernardes/building-a-real-time-crypto-analysis-engine-with-go-mqtt-and-laravel-3k3d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
