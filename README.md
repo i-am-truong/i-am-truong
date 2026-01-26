@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Clear Tests SCREAM &quot;AAA&quot;! — Arrange, Act, Assert](https://dev.to/doogal/clear-tests-scream-aaa-arrange-act-assert-3267)
-- [Finding Crossplane&#39;s Black Box: A Flight Data Recorder for Your Infrastructure](https://dev.to/wvanheemstra/finding-crossplanes-black-box-a-flight-data-recorder-for-your-infrastructure-1i98)
-- [Prometheus Deep Dive: Pull Architecture and TSDB Secrets](https://dev.to/kanywst/prometheus-deep-dive-pull-architecture-and-tsdb-secrets-2jn4)
-- [The &quot;I Would Pay $50/Month To Never Do This Again&quot; List](https://dev.to/the_nortern_dev/the-i-would-pay-50month-to-never-do-this-again-list-3kfb)
-- [From Idea to Prototype in 60 Minutes](https://dev.to/nevpetda/from-idea-to-prototype-in-60-minutes-3m29)
+- [Clawdbot: The AI Assistant That&#39;s Breaking the Internet](https://dev.to/sivarampg/clawdbot-the-ai-assistant-thats-breaking-the-internet-1a47)
+- [Linux Network Analysis Script](https://dev.to/ben-santora/linux-network-analysis-script-hi9)
+- [5 Essential Security Headers for Modern Frontend Devs &lpar;Next.js, Angular, &amp; Vue&rpar;](https://dev.to/olabima_/5-essential-security-headers-for-modern-frontend-devs-nextjs-angular-vue-3icf)
+- [How to Break Bitcoin with 33% of the Hashpower: Selfish Mining Explained.](https://dev.to/khonmaksim/how-to-break-bitcoin-with-33-of-the-hashpower-selfish-mining-explained-44dd)
+- [ZigZag: AI-Friendly Code Reports in Zig](https://dev.to/legationpro/zigzag-ai-friendly-code-reports-in-zig-5fk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
