@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Unglamorous Secret to Claude Code Productivity](https://dev.to/gbostoen/the-unglamorous-secret-to-claude-code-productivity-577j)
-- [The Surprising Simplicity of Temporal Worker Pools on Cloud Run](https://dev.to/gbostoen/the-surprising-simplicity-of-temporal-worker-pools-on-cloud-run-14db)
-- [JavaScript Day 2: Slow Progress Is Still Progress.](https://dev.to/jazmin_m_099/javascript-day-2-slow-progress-is-still-progress-158m)
-- [Testcontainers](https://dev.to/farhan_khan_41ec7ff11ac1d/testcontainers-2b6n)
-- [I built a privacy-focused HCL &amp; YAML converter &lpar;because I don&#39;t trust servers&rpar;](https://dev.to/aslouneyahya/i-built-a-privacy-focused-hcl-yaml-converter-because-i-dont-trust-servers-2of8)
+- [How I Built &quot;The Sentinel&quot;: My AI Supply Chain Agent](https://dev.to/pearlicia/how-i-built-the-sentinel-my-ai-supply-chain-agent-k1n)
+- [MCP Development with C++, Cloud Run, Firestore, and Gemini CLI](https://dev.to/gde/mcp-development-with-c-cloud-run-firestore-and-gemini-cli-24om)
+- [If It&#39;s Not Accessible, It&#39;s Not Design](https://dev.to/rachynska/if-its-not-accessible-its-not-design-1l5p)
+- [NVIDIA PersonaPlex: The &quot;Full-Duplex&quot; Revolution](https://dev.to/behruamm/nvidia-personaplex-the-full-duplex-revolution-42jp)
+- [🎻 Fine-tuning Explained Like You&#39;re 5](https://dev.to/esreekarreddy/fine-tuning-explained-like-youre-5-2gma)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
