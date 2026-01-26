@@ -120,12 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Hateful Eight: Game of Contexts](https://dev.to/rkeeves/the-hateful-eight-game-of-contexts-1ffj)
-- [Practical AI: Building Internal Tools That Actually Get Used](https://dev.to/vrej_sanati/practical-ai-building-internal-tools-that-actually-get-used-5fg8)
-- [From Search to Conversation: Building an Algolia-Powered Conversational Portfolio](https://dev.to/halakabir234hub/from-search-to-conversation-building-an-algolia-powered-conversational-portfolio-5bpk)
-- [I’ve continued my journey in the Data Engineering Zoomcamp by Alexey Grigorev — and just completed Module 2: Workflow Orchestration.
-This module focused on how data workflows are structured, scheduled, and automated in real-world data platforms](https://dev.to/alex_huc_0825fb88910b872c/ive-continued-my-journey-in-the-data-engineering-zoomcamp-by-alexey-grigorev-and-just-completed-2g92)
-- [Junior Survival Guide for Simplicity](https://dev.to/srsandrade/junior-survival-guide-for-simplicity-1g9c)
+- [The Unglamorous Secret to Claude Code Productivity](https://dev.to/gbostoen/the-unglamorous-secret-to-claude-code-productivity-577j)
+- [The Surprising Simplicity of Temporal Worker Pools on Cloud Run](https://dev.to/gbostoen/the-surprising-simplicity-of-temporal-worker-pools-on-cloud-run-14db)
+- [JavaScript Day 2: Slow Progress Is Still Progress.](https://dev.to/jazmin_m_099/javascript-day-2-slow-progress-is-still-progress-158m)
+- [Testcontainers](https://dev.to/farhan_khan_41ec7ff11ac1d/testcontainers-2b6n)
+- [I built a privacy-focused HCL &amp; YAML converter &lpar;because I don&#39;t trust servers&rpar;](https://dev.to/aslouneyahya/i-built-a-privacy-focused-hcl-yaml-converter-because-i-dont-trust-servers-2of8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
