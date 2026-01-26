@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Learning SQL Server the Hard Way: 16 Days of Real-World Database Work](https://dev.to/lfariaus/learning-sql-server-the-hard-way-16-days-of-real-world-database-work-5hla)
+- [4 Things I Learned Migrating from Supabase to Xano](https://dev.to/camb/4-things-i-learned-migrating-from-supabase-to-xano-3b7n)
 - [Rebuilding After Closing My Upwork Account: Partnering with a Friend to Start a New Freelance Journey](https://dev.to/famoustiger0808/rebuilding-after-closing-my-upwork-account-partnering-with-a-friend-to-start-a-new-freelance-2401)
+- [# MCP vs CAP: Why Your AI Agents Need Both Protocols](https://dev.to/yaron_torgeman_104570d968/-mcp-vs-cap-why-your-ai-agents-need-both-protocols-3g4l)
 - [Finally, a Modern CMS for Developers: Introducing NextBlock &lpar;Open Source&rpar;](https://dev.to/nextblockcms/finally-a-modern-cms-for-developers-introducing-nextblock-open-source-336)
-- [Day 12 of 100](https://dev.to/palakhirave/day-12-of-100-2cj4)
-- [The Architect, Not the Mason: Elevating AI from Tool to Strategic Partner](https://dev.to/onlineproxy_io/the-architect-not-the-mason-elevating-ai-from-tool-to-strategic-partner-gm2)
-- [Why “just list all sports events” is much harder than it sounds](https://dev.to/ezeeyeyo/why-just-list-all-sports-events-is-much-harder-than-it-sounds-5625)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
