@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [บรรจุภัณฑ์ที่ยั่งยืนจะได้ผลก็ต่อเมื่อสามารถผลิตได้ในปริมาณมาก](https://dev.to/changya/brrcchuphanththiiyangyuuencchaaidphlktemuuesaamaarthphlitaidainprimaanmaak-2jii)
+- [I Built a Group Chat That Draws Itself Into a Graph - Here&#39;s How](https://dev.to/digitalwareshub/i-built-a-group-chat-that-draws-itself-into-a-graph-heres-how-2oec)
 - [Transaction Decoding on Ethereum &lpar;EVM blockchains &rpar; vs Solana: A Technical Perspective](https://dev.to/decoder_man/transaction-decoding-on-ethereum-evm-blockchains-vs-solana-a-technical-perspective-4kja)
+- [Clawdbotの使い方とリスク：AIにPCの実行権限を渡すとどうなる？](https://dev.to/nakamura_takuya/clawdbotnoshi-ifang-torisukuainipcnoshi-xing-quan-xian-wodu-sutodounaru-4pkg)
 - [WebMCP: Making the Web AI-Agent Ready](https://dev.to/sunny7899/webmcp-making-the-web-ai-agent-ready-5152)
-- [Vibe coding needs git blame](https://dev.to/teamquesma/vibe-coding-needs-git-blame-431m)
-- [Configuring Gravitino Iceberg REST Catalog Server](https://dev.to/gravitino/configuring-gravitino-iceberg-rest-catalog-server-19i0)
-- [Enhanced Event Logs and Deployment Monitoring for Kudu in Umbraco Cloud](https://dev.to/skttl/enhanced-event-logs-and-deployment-monitoring-for-kudu-in-umbraco-cloud-i66)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
