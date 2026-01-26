@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Built a Privacy-First JSON/YAML Toolkit After 80K Credentials Were Leaked](https://dev.to/hari_prakash_b0a882ec9225/i-built-a-privacy-first-jsonyaml-toolkit-after-80k-credentials-were-leaked-34e2)
+- [The Secret Life of Python: The Uncontained Script](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-uncontained-script-4p8g)
+- [Recognize Governance And Compliance Regulations For AI Systems](https://dev.to/aws-builders/recognize-governance-and-compliance-regulations-for-ai-systems-4cle)
+- [An Introduction to Linux for Data Engineers: Using the Nano Editor with Practical Examples](https://dev.to/peter_amoro_fccf1d029a084/an-introduction-to-linux-for-data-engineers-using-the-nano-editor-with-practical-examples-39a2)
 - [Corporate Wargames: Red Teams vs Blue Teams](https://dev.to/akbyrner/corporate-wargames-red-teams-vs-blue-teams-5ajj)
-- [Being Right Too Early: What NGINX in 2010 Taught Me About Tech Adoption](https://dev.to/pascal_cescato_692b7a8a20/being-right-too-early-what-nginx-in-2010-taught-me-about-tech-adoption-4a9g)
-- [Power Platform - Dealing With Tech Debt](https://dev.to/wyattdave/power-platform-dealing-with-tech-debt-1gim)
-- [Building an E-Scooter Comparison Platform: Technical Deep Dive](https://dev.to/akkualle/building-an-e-scooter-comparison-platform-technical-deep-dive-16do)
-- [Introduction to MS Excel for Data Analytics](https://dev.to/ann_maureenwangui_863a2c/introduction-to-ms-excel-for-data-analytics-3hfb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
