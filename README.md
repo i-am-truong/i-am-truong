@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Context-Aware CI with GitHub Copilot SDK and Microsoft WorkIQ](https://dev.to/vevarunsharma/building-context-aware-ci-with-github-copilot-sdk-and-microsoft-workiq-31bg)
-- [Building an open-source markdown resume builder](https://dev.to/ununununium/building-an-open-source-markdown-resume-builder-4nap)
-- [I got 29x speedup rewriting Python&#39;s validators library in Rust](https://dev.to/vivek_kalyanarangan_f66cc/i-got-29x-speedup-rewriting-pythons-validators-library-in-rust-2nhk)
-- [How to Think About Games: GameMaker](https://dev.to/opbright/how-to-think-about-games-gamemaker-35fm)
-- [InfraForge v1.0.0 Launch On Republic Day](https://dev.to/infraforgelabs/infraforge-v100-launch-on-republic-day-32k7)
+- [Sticky Bugs!](https://dev.to/hopeyclarkey/sticky-bugs-3g2k)
+- [AVL Trees](https://dev.to/akshay9136/avl-trees-8ag)
+- [Building a Decentralized Certificate Validator Using GoQuorum, Loki, Next.js, and NestJS](https://dev.to/raisha_sultana_128bfbb50a/building-a-decentralized-certificate-validator-using-goquorum-loki-nextjs-and-nestjs-5ag9)
+- [From Static to Agentic: My AI-Powered Portfolio for 2026 &lpar;Built with Google Gemini&rpar;](https://dev.to/pradeepreddyd/from-static-to-agentic-my-ai-powered-portfolio-for-2026-built-with-google-gemini-596f)
+- [Solon AI Remote Skills: Enabling the &quot;perception&quot; of Distributed Skills](https://dev.to/noear/solon-ai-remote-skills-enabling-the-perception-of-distributed-skills-3edo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
