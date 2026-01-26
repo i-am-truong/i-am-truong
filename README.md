@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Designing a Cross-Cloud Data Plane with Apache Iceberg](https://dev.to/geekusa33/designing-a-cross-cloud-data-plane-with-apache-iceberg-3n83)
+- [Building an Awwwards-Level Portfolio in Hours Using Google&#39;s Antigravity AI](https://dev.to/amitksh/building-an-awwwards-level-portfolio-in-hours-using-googles-antigravity-ai-534n)
 - [I got tired of my web app silently breaking after every deploy, so I built an open source QA platform](https://dev.to/ivan_assenov_c6e899f61741/i-got-tired-of-my-web-app-silently-breaking-after-every-deploy-so-i-built-an-open-source-qa-5hgg)
 - [Connecting Your Computer with GitHub-Part Three](https://dev.to/theoriginalbpc/connecting-your-computer-with-github-part-three-3km)
 - [Weesitor Console: A Console-First Selenium Runner for Authorized QA Checks and Lightweight Monitoring](https://dev.to/mebularts/weesitor-console-a-console-first-selenium-runner-for-authorized-qa-checks-and-lightweight-e1c)
-- [Journey into Claude Code](https://dev.to/mrpercival/journey-into-claude-code-1d6a)
-- [This Post Wasn’t Written by AI](https://dev.to/rmarsigli/this-post-wasnt-written-by-ai-3ge1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
