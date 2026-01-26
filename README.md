@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Deployed Woodpecker CI on Fedora IoT](https://dev.to/miry/how-i-deployed-woodpecker-ci-on-fedora-iot-4pbh)
-- [Git by example - The signature you will not forget! &lpar;&quot;missing DCO signoff&quot;&rpar;](https://dev.to/aurelievache/git-by-example-the-signature-you-will-not-forget-missing-dco-signoff-a28)
-- [Why being a Professional Tango Musician made me a better Developer.](https://dev.to/fjab94/why-being-a-professional-tango-musician-made-me-a-better-developer-54jl)
-- [[Boost]](https://dev.to/cherryramatis/-59ph)
-- [Why an AWS Architect Built Azure Powers for Kiro &lpar;And What I Learned&rpar;](https://dev.to/aws-builders/why-an-aws-architect-built-azure-powers-for-kiro-and-what-i-learned-2dg4)
+- [Rebuilding After Closing My Upwork Account: Partnering with a Friend to Start a New Freelance Journey](https://dev.to/famoustiger0808/rebuilding-after-closing-my-upwork-account-partnering-with-a-friend-to-start-a-new-freelance-2401)
+- [Finally, a Modern CMS for Developers: Introducing NextBlock &lpar;Open Source&rpar;](https://dev.to/nextblockcms/finally-a-modern-cms-for-developers-introducing-nextblock-open-source-336)
+- [Day 12 of 100](https://dev.to/palakhirave/day-12-of-100-2cj4)
+- [The Architect, Not the Mason: Elevating AI from Tool to Strategic Partner](https://dev.to/onlineproxy_io/the-architect-not-the-mason-elevating-ai-from-tool-to-strategic-partner-gm2)
+- [Why “just list all sports events” is much harder than it sounds](https://dev.to/ezeeyeyo/why-just-list-all-sports-events-is-much-harder-than-it-sounds-5625)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
