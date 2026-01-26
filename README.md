@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Securing AI Skills](https://dev.to/aws-builders/securing-ai-skills-52jg)
-- [New Year, New Portfolio: How Google AI &amp; Cloud Run Powered ucupio.com](https://dev.to/maulana_yusufazmi_ddcea4/new-year-new-portfolio-how-google-ai-cloud-run-powered-ucupiocom-3jl6)
-- [Checkout Authentication and Conversion Rate](https://dev.to/corbado/checkout-authentication-and-conversion-rate-4j2h)
-- [Building Hallucination-Resistant AI Systems](https://dev.to/dextralabs/building-hallucination-resistant-ai-systems-5ak8)
-- [Solved: New version of socktop released.](https://dev.to/techresolve/solved-new-version-of-socktop-released-3a1i)
+- [Developers Who Want to Become Entrepreneurs: What Skills Actually Matter?](https://dev.to/salaria_labs/developers-who-want-to-become-entrepreneurs-what-skills-actually-matter-1a44)
+- [More than Maps](https://dev.to/dungeoncrawlsoft/more-than-maps-1f25)
+- [AWS CDK 100 Drill Exercises #007: SQS-Lambda-Firehose —— Building Event-Driven Data Pipelines](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-007-sqs-lambda-firehose-building-event-driven-data-pipelines-2ki8)
+- [AI Gear Coach: AI-Powered Assistant for Content Creators Using Algolia &amp; Google Gemini](https://dev.to/keerthana_696356/ai-gear-coach-ai-powered-assistant-for-content-creators-using-algolia-google-gemini-308n)
+- [Fundamentos de la ingeniería rápida](https://dev.to/alexrestrej/fundamentos-de-la-ingenieria-rapida-ai7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
