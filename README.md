@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [FlashFX Export System Documentation](https://dev.to/therealgabry/flashfx-export-system-documentation-32ac)
+- [Build a Collaborative Airtable-Style Data Grid in Next.js using AG Grid and Velt SDK](https://dev.to/astrodevil/build-a-collaborative-airtable-style-data-grid-in-nextjs-using-ag-grid-and-velt-sdk-6om)
+- [Normalization and Denormalization in Databases: Why They Matter](https://dev.to/suruliraajan/normalization-and-denormalization-in-databases-why-they-matter-2gnf)
+- [Open House NYC](https://dev.to/arbitrum/open-house-nyc-4dck)
 - [vLLM Explained: How PagedAttention Makes LLMs Faster and Cheaper](https://dev.to/jaskirat_singh/vllm-explained-how-pagedattention-makes-llms-faster-and-cheaper-785)
-- [From Local MCP Server to AWS Deployment in Two Commands - The Code Only Version](https://dev.to/aws/from-local-mcp-server-to-aws-deployment-in-two-commands-code-only-5c4d)
-- [I made Claude Code talk to me while it works](https://dev.to/uneekvu/i-made-claude-code-talk-to-me-while-it-works-7ao)
-- [Rekall — A Context Recovery CLI That Uses GitHub Copilot as Its AI Brain](https://dev.to/jasmin/rekall-a-context-recovery-cli-that-uses-github-copilot-as-its-ai-brain-5bm)
-- [🚀 New Year, New You: Shipping an AI App with Google AI Studio](https://dev.to/amisha_aggarwal_1104bf04f/new-year-new-you-shipping-an-ai-app-with-google-ai-studio-39c2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
