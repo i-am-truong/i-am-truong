@@ -120,12 +120,12 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Hateful Eight: Game of Contexts](https://dev.to/rkeeves/the-hateful-eight-game-of-contexts-1ffj)
+- [Practical AI: Building Internal Tools That Actually Get Used](https://dev.to/vrej_sanati/practical-ai-building-internal-tools-that-actually-get-used-5fg8)
+- [From Search to Conversation: Building an Algolia-Powered Conversational Portfolio](https://dev.to/halakabir234hub/from-search-to-conversation-building-an-algolia-powered-conversational-portfolio-5bpk)
 - [I’ve continued my journey in the Data Engineering Zoomcamp by Alexey Grigorev — and just completed Module 2: Workflow Orchestration.
 This module focused on how data workflows are structured, scheduled, and automated in real-world data platforms](https://dev.to/alex_huc_0825fb88910b872c/ive-continued-my-journey-in-the-data-engineering-zoomcamp-by-alexey-grigorev-and-just-completed-2g92)
 - [Junior Survival Guide for Simplicity](https://dev.to/srsandrade/junior-survival-guide-for-simplicity-1g9c)
-- [Low-Noise EC2 Benchmarking: A Practical Guide](https://dev.to/kienmarkdo/low-noise-ec2-benchmarking-a-practical-guide-19f0)
-- [Learning SQL Server the Hard Way: 16 Days of Real-World Database Work](https://dev.to/lfariaus/learning-sql-server-the-hard-way-16-days-of-real-world-database-work-5hla)
-- [4 Things I Learned Migrating from Supabase to Xano](https://dev.to/camb/4-things-i-learned-migrating-from-supabase-to-xano-3b7n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
