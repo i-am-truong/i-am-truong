@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Coroutines for a 5 year old](https://dev.to/kumaraish/coroutines-for-a-5-year-old-1124)
-- [Upgrading PostgreSQL 13 to 17 on AWS RDS with Minimal Downtime](https://dev.to/prasan_bora/upgrading-postgresql-13-to-17-on-aws-rds-with-minimal-downtime-29eo)
-- [I Thought Modding Was Easy. Then My Code Started Breaking](https://dev.to/volt1480/i-thought-modding-was-easy-then-my-code-started-breaking-5bh0)
-- [Regular Functions vs Arrow Functions in JavaScript](https://dev.to/miasalazar/regular-functions-vs-arrow-functions-in-javascript-528n)
-- [How to build a captive portal in ESP32 with MicroPython](https://dev.to/devasservice/how-to-build-a-captive-portal-in-esp32-with-micropython-2dc1)
+- [Transaction Decoding on Ethereum &lpar;EVM blockchains &rpar; vs Solana: A Technical Perspective](https://dev.to/decoder_man/transaction-decoding-on-ethereum-evm-blockchains-vs-solana-a-technical-perspective-4kja)
+- [WebMCP: Making the Web AI-Agent Ready](https://dev.to/sunny7899/webmcp-making-the-web-ai-agent-ready-5152)
+- [Vibe coding needs git blame](https://dev.to/teamquesma/vibe-coding-needs-git-blame-431m)
+- [Configuring Gravitino Iceberg REST Catalog Server](https://dev.to/gravitino/configuring-gravitino-iceberg-rest-catalog-server-19i0)
+- [Enhanced Event Logs and Deployment Monitoring for Kudu in Umbraco Cloud](https://dev.to/skttl/enhanced-event-logs-and-deployment-monitoring-for-kudu-in-umbraco-cloud-i66)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
