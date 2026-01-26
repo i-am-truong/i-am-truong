@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to create a &quot;convention&quot; plugin for your multi-module Android app](https://dev.to/coltonidle/how-to-create-a-convention-plugin-for-your-multi-module-android-app-479k)
-- [🐝 Copilot Swarm Orchestrator](https://dev.to/moonrunnerkc/copilot-swarm-orchestrator-oda)
-- [The Hidden &quot;Cost&quot;: Is Your Infrastructure Budget Being Held Hostage by Cold Data?](https://dev.to/iseecodepeople/the-hidden-cost-is-your-infrastructure-budget-being-held-hostage-by-cold-data-153d)
-- [The Real-Time Trap: Why Fresh Data Might Be Slowing Down Your Dashboards](https://dev.to/thanh_truong_a99577c6b879/the-real-time-trap-why-fresh-data-might-be-slowing-down-your-dashboards-3jg0)
-- [C# Console menus with Actions](https://dev.to/karenpayneoregon/c-console-menus-with-actions-67n)
+- [How Will the Next Federal Reserve Chair Shape the U.S. Cryptocurrency Regulatory Landscape?](https://dev.to/apnews/how-will-the-next-federal-reserve-chair-shape-the-us-cryptocurrency-regulatory-landscape-2pa0)
+- [ROLLUP vs CUBE: How I Finally Understood SQL Subtotals](https://dev.to/mazinocodes/rollup-vs-cube-how-i-finally-understood-sql-subtotals-4a49)
+- [Hey dev.to 👋](https://dev.to/sanjiv_prabhunandan/hey-devto-4l5o)
+- [Build Your Own AI Story Generator with RAG - Part 3: Generating Stories](https://dev.to/diskcleankit/build-your-own-ai-story-generator-with-rag-part-3-generating-stories-4b1)
+- [Codie&#39;s Cognitive Chronicles](https://dev.to/izzyfuller/codies-cognitive-chronicles-57ej)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
