@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Give Your AI Agent Real-Time Internet Access for Free &lpar;Python Tutorial&rpar;](https://dev.to/_a4db025533c31e24cb517/how-to-give-your-ai-agent-real-time-internet-access-for-free-python-tutorial-1nfj)
 - [Sticky Bugs!](https://dev.to/hopeyclarkey/sticky-bugs-3g2k)
-- [AVL Trees](https://dev.to/akshay9136/avl-trees-8ag)
+- [Introduction to AVL Trees](https://dev.to/akshay9136/avl-trees-8ag)
 - [Building a Decentralized Certificate Validator Using GoQuorum, Loki, Next.js, and NestJS](https://dev.to/raisha_sultana_128bfbb50a/building-a-decentralized-certificate-validator-using-goquorum-loki-nextjs-and-nestjs-5ag9)
 - [From Static to Agentic: My AI-Powered Portfolio for 2026 &lpar;Built with Google Gemini&rpar;](https://dev.to/pradeepreddyd/from-static-to-agentic-my-ai-powered-portfolio-for-2026-built-with-google-gemini-596f)
-- [Solon AI Remote Skills: Enabling the &quot;perception&quot; of Distributed Skills](https://dev.to/noear/solon-ai-remote-skills-enabling-the-perception-of-distributed-skills-3edo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
