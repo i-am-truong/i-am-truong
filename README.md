@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [บรรจุภัณฑ์ที่ยั่งยืนจะได้ผลก็ต่อเมื่อสามารถผลิตได้ในปริมาณมาก](https://dev.to/changya/brrcchuphanththiiyangyuuencchaaidphlktemuuesaamaarthphlitaidainprimaanmaak-2jii)
-- [I Built a Group Chat That Draws Itself Into a Graph - Here&#39;s How](https://dev.to/digitalwareshub/i-built-a-group-chat-that-draws-itself-into-a-graph-heres-how-2oec)
-- [Transaction Decoding on Ethereum &lpar;EVM blockchains &rpar; vs Solana: A Technical Perspective](https://dev.to/decoder_man/transaction-decoding-on-ethereum-evm-blockchains-vs-solana-a-technical-perspective-4kja)
-- [Clawdbotの使い方とリスク：AIにPCの実行権限を渡すとどうなる？](https://dev.to/nakamura_takuya/clawdbotnoshi-ifang-torisukuainipcnoshi-xing-quan-xian-wodu-sutodounaru-4pkg)
-- [WebMCP: Making the Web AI-Agent Ready](https://dev.to/sunny7899/webmcp-making-the-web-ai-agent-ready-5152)
+- [Linux Disk Analysis Script](https://dev.to/ben-santora/linux-disk-analysis-script-1430)
+- [EQWAVE: Timestamps lie. Behavior doesn&#39;t](https://dev.to/wiowiztech/eqwave-timestamps-lie-behavior-doesnt-252f)
+- [Software Testing Trends in DevOps: How QA Is Evolving with Speed](https://dev.to/aio_tests_903984883a574e9/software-testing-trends-in-devops-how-qa-is-evolving-with-speed-25fj)
+- [Engineering Log: LL-309: Iron Condor Optimal Control Rese &lpar;+2 more&rpar;](https://dev.to/igorganapolsky/engineering-log-ll-309-iron-condor-optimal-control-rese-2-more-36g8)
+- [Building an AI Content Repurposer: Turn 1 Video into 10 Pieces &lpar;Full Tutorial&rpar;](https://dev.to/olams/building-an-ai-content-repurposer-turn-1-video-into-10-pieces-full-tutorial-3h4b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
