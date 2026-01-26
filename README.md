@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Designing a Cross-Cloud Data Plane with Apache Iceberg](https://dev.to/geekusa33/designing-a-cross-cloud-data-plane-with-apache-iceberg-3n83)
-- [Building an Awwwards-Level Portfolio in Hours Using Google&#39;s Antigravity AI](https://dev.to/amitksh/building-an-awwwards-level-portfolio-in-hours-using-googles-antigravity-ai-534n)
-- [I got tired of my web app silently breaking after every deploy, so I built an open source QA platform](https://dev.to/ivan_assenov_c6e899f61741/i-got-tired-of-my-web-app-silently-breaking-after-every-deploy-so-i-built-an-open-source-qa-5hgg)
-- [Connecting Your Computer with GitHub-Part Three](https://dev.to/theoriginalbpc/connecting-your-computer-with-github-part-three-3km)
-- [Weesitor Console: A Console-First Selenium Runner for Authorized QA Checks and Lightweight Monitoring](https://dev.to/mebularts/weesitor-console-a-console-first-selenium-runner-for-authorized-qa-checks-and-lightweight-e1c)
+- [Git by example - The signature you will not forget! &lpar;&quot;missing DCO signoff&quot;&rpar;](https://dev.to/aurelievache/git-by-example-the-signature-you-will-not-forget-missing-dco-signoff-a28)
+- [[Boost]](https://dev.to/cherryramatis/-59ph)
+- [Why an AWS Architect Built Azure Powers for Kiro &lpar;And What I Learned&rpar;](https://dev.to/aws-builders/why-an-aws-architect-built-azure-powers-for-kiro-and-what-i-learned-2dg4)
+- [Exploring the SoftMax Function: The Better Way to Interpret Neural Network Outputs](https://dev.to/rijultp/exploring-the-softmax-function-the-better-way-to-interpret-neural-network-outputs-5p8)
+- [Rewriting My First NUnit API Tests: Cleaner, Faster, Better](https://dev.to/m4rri4nne/rewriting-my-first-nunit-api-tests-cleaner-faster-better-24fa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
