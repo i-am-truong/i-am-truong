@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Is this my last meet.js Summit?](https://dev.to/naugtur/is-this-my-last-meetjs-summit-1o5k)
-- [From Crashes to Acquisition: How Technical Decisions Stabilized Dividend.watch’s Product](https://dev.to/michalsimon/from-crashes-to-acquisition-how-technical-decisions-stabilized-dividendwatchs-product-iad)
-- [An Adventure in WebGL](https://dev.to/eachampagne/an-adventure-in-webgl-1a44)
-- [Lean Interfaces: Why Would a pH Meter Need `set_wavelength&lpar;&rpar;`?](https://dev.to/robjohnston/lean-interfaces-why-would-a-ph-meter-need-setwavelength-49d9)
-- [# How to Choose the Right LLM for Your GenAI Application &lpar;A Practical Guide&rpar;](https://dev.to/pratik_12b3f8bf3b50e48bae/-how-to-choose-the-right-llm-for-your-genai-application-a-practical-guide-55da)
+- [heyvm: Or How I Stopped Worrying and Learned to Love My VMs](https://dev.to/adish_m98/heyvm-or-how-i-stopped-worrying-and-learned-to-love-my-vms-25p5)
+- [Technical Deep Dive: Building SkillFade with FastAPI and React](https://dev.to/ruhidibadli/technical-deep-dive-building-skillfade-with-fastapi-and-react-3833)
+- [Product Quantization: How ANN Systems Cheat Distance Without Breaking Search](https://dev.to/jashwanth_thatipamula_8ee/product-quantization-how-ann-systems-cheat-distance-without-breaking-search-60k)
+- [Building a High-Performance Blog with Next.js 15 App Router: A Complete Guide](https://dev.to/dylan-neanix/building-a-high-performance-blog-with-nextjs-15-app-router-a-complete-guide-16jo)
+- [File Permission on unix Systems](https://dev.to/matscode/file-permission-on-unix-systems-3ck3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
