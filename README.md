@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Linux Disk Analysis Script](https://dev.to/ben-santora/linux-disk-analysis-script-1430)
-- [EQWAVE: Timestamps lie. Behavior doesn&#39;t](https://dev.to/wiowiztech/eqwave-timestamps-lie-behavior-doesnt-252f)
-- [Software Testing Trends in DevOps: How QA Is Evolving with Speed](https://dev.to/aio_tests_903984883a574e9/software-testing-trends-in-devops-how-qa-is-evolving-with-speed-25fj)
-- [Engineering Log: LL-309: Iron Condor Optimal Control Rese &lpar;+2 more&rpar;](https://dev.to/igorganapolsky/engineering-log-ll-309-iron-condor-optimal-control-rese-2-more-36g8)
-- [Building an AI Content Repurposer: Turn 1 Video into 10 Pieces &lpar;Full Tutorial&rpar;](https://dev.to/olams/building-an-ai-content-repurposer-turn-1-video-into-10-pieces-full-tutorial-3h4b)
+- [Prompt Rate Limits &amp; Batching: How to Stop Your LLM API From Melting Down](https://dev.to/superorange0707/prompt-rate-limits-batching-how-to-stop-your-llm-api-from-melting-down-56e1)
+- [Choosing an LLM in 2026: The Practical Comparison Table &lpar;Specs, Cost, Latency, Compatibility&rpar;](https://dev.to/superorange0707/choosing-an-llm-in-2026-the-practical-comparison-table-specs-cost-latency-compatibility-354g)
+- [Why Mod Developers Become Strong Engineers](https://dev.to/volt1480/why-mod-developers-become-strong-engineers-46ac)
+- [Why Mods Break Without Crashing](https://dev.to/volt1480/why-mods-break-without-crashing-5feb)
+- [Decompiled Code Still Contains Design](https://dev.to/volt1480/decompiled-code-still-contains-design-37pp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
