@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Dokumentasi Database MariaDB &lpar;Updated&rpar;](https://dev.to/mrkoala1001/dokumentasi-database-mariadb-updated-5c60)
-- [The Pager: Where SQLite Transactions Touch Disk Reality](https://dev.to/lovestaco/the-pager-where-sqlite-transactions-touch-disk-reality-44cg)
-- [AWS Lambda Managed Instances with Java 25 and AWS SAM - Part 2 Create Capacity Provider](https://dev.to/aws-heroes/aws-lambda-managed-instances-with-java-25-and-aws-sam-part-2-create-capacity-provider-4cgo)
-- [Making AI Agent Configurations Stable with an LLM Gateway](https://dev.to/palapalapala/making-ai-agent-configurations-stable-with-an-llm-gateway-2jf1)
-- [Building a real-time crypto analysis engine with Go, MQTT and Laravel](https://dev.to/cristianbernardes/building-a-real-time-crypto-analysis-engine-with-go-mqtt-and-laravel-3k3d)
+- [vLLM Explained: How PagedAttention Makes LLMs Faster and Cheaper](https://dev.to/jaskirat_singh/vllm-explained-how-pagedattention-makes-llms-faster-and-cheaper-785)
+- [From Local MCP Server to AWS Deployment in Two Commands - The Code Only Version](https://dev.to/aws/from-local-mcp-server-to-aws-deployment-in-two-commands-code-only-5c4d)
+- [I made Claude Code talk to me while it works](https://dev.to/uneekvu/i-made-claude-code-talk-to-me-while-it-works-7ao)
+- [Rekall — A Context Recovery CLI That Uses GitHub Copilot as Its AI Brain](https://dev.to/jasmin/rekall-a-context-recovery-cli-that-uses-github-copilot-as-its-ai-brain-5bm)
+- [🚀 New Year, New You: Shipping an AI App with Google AI Studio](https://dev.to/amisha_aggarwal_1104bf04f/new-year-new-you-shipping-an-ai-app-with-google-ai-studio-39c2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
