@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Prompt Rate Limits &amp; Batching: How to Stop Your LLM API From Melting Down](https://dev.to/superorange0707/prompt-rate-limits-batching-how-to-stop-your-llm-api-from-melting-down-56e1)
-- [Choosing an LLM in 2026: The Practical Comparison Table &lpar;Specs, Cost, Latency, Compatibility&rpar;](https://dev.to/superorange0707/choosing-an-llm-in-2026-the-practical-comparison-table-specs-cost-latency-compatibility-354g)
-- [Why Mod Developers Become Strong Engineers](https://dev.to/volt1480/why-mod-developers-become-strong-engineers-46ac)
-- [Why Mods Break Without Crashing](https://dev.to/volt1480/why-mods-break-without-crashing-5feb)
-- [Decompiled Code Still Contains Design](https://dev.to/volt1480/decompiled-code-still-contains-design-37pp)
+- [Why Hyperparameter Tuning Sometimes Does Nothing &lpar;And What Actually Moves the Needle&rpar;](https://dev.to/aiwithapex/why-hyperparameter-tuning-sometimes-does-nothing-and-what-actually-moves-the-needle-18fl)
+- [I Built DailyDevTools: Simple, Client-Side Developer Utilities](https://dev.to/sohan_paliyal/i-built-dailydevtools-simple-client-side-developer-utilities-6j0)
+- [Controlling Software on the Corporate Linux Desktop](https://dev.to/sebos/controlling-software-on-the-corporate-linux-desktop-1bfg)
+- [Off-Main-Thread Architecture: Let the Main Thread Breathe](https://dev.to/imajeet5/off-main-thread-architecture-a-complete-guide-to-keeping-the-browser-responsive-nc1)
+- [[SUI] Calculando número de página del ScrollView](https://dev.to/david_goyes_a488f58a17a53/sui-calculando-numero-de-pagina-del-scrollview-2153)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
