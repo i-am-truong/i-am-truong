@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [FlashFX Export System Documentation](https://dev.to/therealgabry/flashfx-export-system-documentation-32ac)
-- [Build a Collaborative Airtable-Style Data Grid in Next.js using AG Grid and Velt SDK](https://dev.to/astrodevil/build-a-collaborative-airtable-style-data-grid-in-nextjs-using-ag-grid-and-velt-sdk-6om)
-- [Normalization and Denormalization in Databases: Why They Matter](https://dev.to/suruliraajan/normalization-and-denormalization-in-databases-why-they-matter-2gnf)
-- [Open House NYC](https://dev.to/arbitrum/open-house-nyc-4dck)
-- [vLLM Explained: How PagedAttention Makes LLMs Faster and Cheaper](https://dev.to/jaskirat_singh/vllm-explained-how-pagedattention-makes-llms-faster-and-cheaper-785)
+- [Power Cookie - irisCTF &#39;22](https://dev.to/davidonlinearchive/power-cookie-irisctf-22-407i)
+- [Thoughts changed as a dev...](https://dev.to/sourav_mahato_3900/thoughts-changed-as-a-dev-3hk)
+- [4th Winter Data &amp; AI Meetup](https://dev.to/lyudmylams/4th-winter-data-ai-meetup-ngh)
+- [i need some honest reviews on my website please = gokame.com](https://dev.to/moki00/i-need-some-honest-reviews-on-my-website-please-gokamecom-2m1)
+- [I Audited Every Crypto Inheritance Protocol &lpar;So You Don&#39;t Have To&rpar;](https://dev.to/gordazo0_7653f38e2d667dd1/i-audited-every-crypto-inheritance-protocol-so-you-dont-have-to-58c8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
