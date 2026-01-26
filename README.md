@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Faster PWA Icon Generator in a Weekend](https://dev.to/sivarampg/i-built-a-faster-pwa-icon-generator-in-a-weekend-li8)
-- [Teaching Clawdbot About Docker](https://dev.to/ajeetraina/teaching-clawdbot-about-docker-165g)
-- [How I use Claude Code to accelerate my software engineering job and improve my life](https://dev.to/juandj/how-i-use-claude-code-to-accelerate-my-software-engineering-job-and-improve-my-life-8o7)
-- [I saw Antigravity, I prompted, I conquered!](https://dev.to/usersam7/i-saw-antigravity-i-prompted-i-conquered-4102)
-- [Turbocharge Your Go Network Apps: Practical Optimization Tips](https://dev.to/jones_charles_ad50858dbc0/turbocharge-your-go-network-apps-practical-optimization-tips-1c9d)
+- [Building Context-Aware CI with GitHub Copilot SDK and Microsoft WorkIQ](https://dev.to/vevarunsharma/building-context-aware-ci-with-github-copilot-sdk-and-microsoft-workiq-31bg)
+- [Building an open-source markdown resume builder](https://dev.to/ununununium/building-an-open-source-markdown-resume-builder-4nap)
+- [I got 29x speedup rewriting Python&#39;s validators library in Rust](https://dev.to/vivek_kalyanarangan_f66cc/i-got-29x-speedup-rewriting-pythons-validators-library-in-rust-2nhk)
+- [How to Think About Games: GameMaker](https://dev.to/opbright/how-to-think-about-games-gamemaker-35fm)
+- [InfraForge v1.0.0 Launch On Republic Day](https://dev.to/infraforgelabs/infraforge-v100-launch-on-republic-day-32k7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
