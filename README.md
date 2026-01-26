@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why You Don&#39;t Have to Restart Your PC Anymore: A Kernel Perspective](https://dev.to/benes/why-you-dont-have-to-restart-your-pc-anymore-a-kernel-perspective-59bd)
-- [Autopilot - La Pesadilla de las APIs: Cómo vencí a la burocracia de LinkedIn para automatizar mi empresa](https://dev.to/datalaria/autopilot-la-pesadilla-de-las-apis-como-venci-a-la-burocracia-de-linkedin-para-automatizar-mi-1dfj)
-- [# 🪦 RIP CocoaPods &lpar;2011-2026&rpar;: What Every iOS Developer Must Do NOW](https://dev.to/diskcleankit/-rip-cocoapods-2011-2026-what-every-ios-developer-must-do-now-5eed)
-- [You Don&#39;t Need a Mac Mini to Run Clawdbot - Here&#39;s How to Run It Anywhere](https://dev.to/sivarampg/you-dont-need-a-mac-mini-to-run-clawdbot-heres-how-to-run-it-anywhere-217l)
-- [Perl 🐪 Weekly #757 - Contribute to CPAN!](https://dev.to/szabgab/perl-weekly-757-contribute-to-cpan-5e8b)
+- [Corporate Wargames: Red Teams vs Blue Teams](https://dev.to/akbyrner/corporate-wargames-red-teams-vs-blue-teams-5ajj)
+- [Being Right Too Early: What NGINX in 2010 Taught Me About Tech Adoption](https://dev.to/pascal_cescato_692b7a8a20/being-right-too-early-what-nginx-in-2010-taught-me-about-tech-adoption-4a9g)
+- [Power Platform - Dealing With Tech Debt](https://dev.to/wyattdave/power-platform-dealing-with-tech-debt-1gim)
+- [Building an E-Scooter Comparison Platform: Technical Deep Dive](https://dev.to/akkualle/building-an-e-scooter-comparison-platform-technical-deep-dive-16do)
+- [Introduction to MS Excel for Data Analytics](https://dev.to/ann_maureenwangui_863a2c/introduction-to-ms-excel-for-data-analytics-3hfb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
