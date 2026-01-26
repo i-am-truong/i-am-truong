@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Power Cookie - irisCTF &#39;22](https://dev.to/davidonlinearchive/power-cookie-irisctf-22-407i)
-- [Thoughts changed as a dev...](https://dev.to/sourav_mahato_3900/thoughts-changed-as-a-dev-3hk)
-- [4th Winter Data &amp; AI Meetup](https://dev.to/lyudmylams/4th-winter-data-ai-meetup-ngh)
-- [i need some honest reviews on my website please = gokame.com](https://dev.to/moki00/i-need-some-honest-reviews-on-my-website-please-gokamecom-2m1)
-- [I Audited Every Crypto Inheritance Protocol &lpar;So You Don&#39;t Have To&rpar;](https://dev.to/gordazo0_7653f38e2d667dd1/i-audited-every-crypto-inheritance-protocol-so-you-dont-have-to-58c8)
+- [Personal Branding for Introverted Developers &lpar;Yes, It&#39;s Possible&rpar; 🚀](https://dev.to/thebitforge/personal-branding-for-introverted-developers-yes-its-possible-dbp)
+- [How to pass the CKA Exam on the first try [GUARANTEED]](https://dev.to/monarene/how-to-pass-the-cka-exam-on-the-first-try-guaranteed-44jf)
+- [Ridge vs. Lasso Regression: A Clear Guide to Regularization Techniques](https://dev.to/kenyansa/ridge-vs-lasso-regression-a-clear-guide-to-regularization-techniques-14nn)
+- [Debugging Dynamic Cookie Validation in Express.js](https://dev.to/jsdevrobin/debugging-dynamic-cookie-validation-in-expressjs-14dl)
+- [The Agentic Developer: Orchestrating My 2026 Portfolio with Google Antigravity &amp; Gemini 3](https://dev.to/dhruva_wani_17/the-agentic-developer-orchestrating-my-2026-portfolio-with-google-antigravity-gemini-3-48o0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
