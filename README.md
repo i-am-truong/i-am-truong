@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From Idea to Prototype in 60 Minutes](https://dev.to/nevpetda/from-idea-to-prototype-in-60-minutes-3m29)
+- [Lock Screen Software – macOS Version 2.0.3 Free Download 2026](https://dev.to/getinto_pcss_com/lock-screen-software-macos-version-203-free-download-2026-3p2p)
+- [How to Prevent Excessive API Calls in React Search with Debouncing](https://dev.to/ar_abid_bcfb3a80671e2a134/how-to-prevent-excessive-api-calls-in-react-search-with-debouncing-1mj2)
+- [Skills, Not Vibes: Teaching AI Agents to Write Clean Code](https://dev.to/gde/skills-not-vibes-teaching-ai-agents-to-write-clean-code-3l9e)
 - [Why Hyperparameter Tuning Sometimes Does Nothing &lpar;And What Actually Moves the Needle&rpar;](https://dev.to/aiwithapex/why-hyperparameter-tuning-sometimes-does-nothing-and-what-actually-moves-the-needle-18fl)
-- [I Built DailyDevTools: Simple, Client-Side Developer Utilities](https://dev.to/sohan_paliyal/i-built-dailydevtools-simple-client-side-developer-utilities-6j0)
-- [Controlling Software on the Corporate Linux Desktop](https://dev.to/sebos/controlling-software-on-the-corporate-linux-desktop-1bfg)
-- [Off-Main-Thread Architecture: Let the Main Thread Breathe](https://dev.to/imajeet5/off-main-thread-architecture-a-complete-guide-to-keeping-the-browser-responsive-nc1)
-- [[SUI] Calculando número de página del ScrollView](https://dev.to/david_goyes_a488f58a17a53/sui-calculando-numero-de-pagina-del-scrollview-2153)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
