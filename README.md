@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Run Clawdbot on WSL with Your Claude Code Subscription](https://dev.to/nunc/how-to-run-clawdbot-on-wsl-with-your-claude-code-subscription-13i4)
-- [Why Developers Love Loosely Typed Languages… But Trust Strict Ones](https://dev.to/karanunix/why-developers-love-loosely-typed-languages-but-trust-strict-ones-2k40)
-- [Mounting and Unmounting Filesystems in Linux](https://dev.to/ben-santora/mounting-and-unmounting-filesystems-in-linux-441l)
-- [Multi-Agent Communication Patterns That Actually Work](https://dev.to/aureus_c_b3ba7f87cc34d74d49/multi-agent-communication-patterns-that-actually-work-50kp)
-- [Testing Stripe Webhooks Locally Without Deploying Your App](https://dev.to/pahatrop/testing-stripe-webhooks-locally-without-deploying-your-app-2imh)
+- [Is this my last meet.js Summit?](https://dev.to/naugtur/is-this-my-last-meetjs-summit-1o5k)
+- [From Crashes to Acquisition: How Technical Decisions Stabilized Dividend.watch’s Product](https://dev.to/michalsimon/from-crashes-to-acquisition-how-technical-decisions-stabilized-dividendwatchs-product-iad)
+- [An Adventure in WebGL](https://dev.to/eachampagne/an-adventure-in-webgl-1a44)
+- [Lean Interfaces: Why Would a pH Meter Need `set_wavelength&lpar;&rpar;`?](https://dev.to/robjohnston/lean-interfaces-why-would-a-ph-meter-need-setwavelength-49d9)
+- [# How to Choose the Right LLM for Your GenAI Application &lpar;A Practical Guide&rpar;](https://dev.to/pratik_12b3f8bf3b50e48bae/-how-to-choose-the-right-llm-for-your-genai-application-a-practical-guide-55da)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
