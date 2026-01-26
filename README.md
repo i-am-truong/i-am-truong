@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My first month of building in public. Check out the result!](https://dev.to/joachimzeelmaekers/my-first-month-of-building-in-public-check-out-the-result-212i)
-- [No Time to Code: AI as Leverage for Engineering Leadership](https://dev.to/dvddpl/no-time-to-code-ai-as-leverage-for-engineering-leadership-274i)
-- [The Junior Dev Paradox: Why &quot;Entry-Level&quot; Now Requires 3 Years Experience](https://dev.to/resumefast/the-junior-dev-paradox-why-entry-level-now-requires-3-years-experience-51g0)
-- [DevOps vs SRE vs Platform Engineering: What’s the Difference?](https://dev.to/folashadeoroge/devops-vs-sre-vs-platform-engineering-whats-the-difference-fbp)
-- [The Complete Guide to Capacitor Push Notifications: iOS, Android &amp; Firebase](https://dev.to/saltorgil/the-complete-guide-to-capacitor-push-notifications-ios-android-firebase-bh4)
+- [Coroutines for a 5 year old](https://dev.to/kumaraish/coroutines-for-a-5-year-old-1124)
+- [Upgrading PostgreSQL 13 to 17 on AWS RDS with Minimal Downtime](https://dev.to/prasan_bora/upgrading-postgresql-13-to-17-on-aws-rds-with-minimal-downtime-29eo)
+- [I Thought Modding Was Easy. Then My Code Started Breaking](https://dev.to/volt1480/i-thought-modding-was-easy-then-my-code-started-breaking-5bh0)
+- [Regular Functions vs Arrow Functions in JavaScript](https://dev.to/miasalazar/regular-functions-vs-arrow-functions-in-javascript-528n)
+- [How to build a captive portal in ESP32 with MicroPython](https://dev.to/devasservice/how-to-build-a-captive-portal-in-esp32-with-micropython-2dc1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
