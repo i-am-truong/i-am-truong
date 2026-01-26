@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Clear Tests SCREAM &quot;AAA&quot;! — Arrange, Act, Assert](https://dev.to/doogal/clear-tests-scream-aaa-arrange-act-assert-3267)
+- [Finding Crossplane&#39;s Black Box: A Flight Data Recorder for Your Infrastructure](https://dev.to/wvanheemstra/finding-crossplanes-black-box-a-flight-data-recorder-for-your-infrastructure-1i98)
+- [Prometheus Deep Dive: Pull Architecture and TSDB Secrets](https://dev.to/kanywst/prometheus-deep-dive-pull-architecture-and-tsdb-secrets-2jn4)
+- [The &quot;I Would Pay $50/Month To Never Do This Again&quot; List](https://dev.to/the_nortern_dev/the-i-would-pay-50month-to-never-do-this-again-list-3kfb)
 - [From Idea to Prototype in 60 Minutes](https://dev.to/nevpetda/from-idea-to-prototype-in-60-minutes-3m29)
-- [Lock Screen Software – macOS Version 2.0.3 Free Download 2026](https://dev.to/getinto_pcss_com/lock-screen-software-macos-version-203-free-download-2026-3p2p)
-- [How to Prevent Excessive API Calls in React Search with Debouncing](https://dev.to/ar_abid_bcfb3a80671e2a134/how-to-prevent-excessive-api-calls-in-react-search-with-debouncing-1mj2)
-- [Skills, Not Vibes: Teaching AI Agents to Write Clean Code](https://dev.to/gde/skills-not-vibes-teaching-ai-agents-to-write-clean-code-3l9e)
-- [Why Hyperparameter Tuning Sometimes Does Nothing &lpar;And What Actually Moves the Needle&rpar;](https://dev.to/aiwithapex/why-hyperparameter-tuning-sometimes-does-nothing-and-what-actually-moves-the-needle-18fl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
