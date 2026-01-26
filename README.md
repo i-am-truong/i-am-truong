@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Clawdbot: The AI Assistant That&#39;s Breaking the Internet](https://dev.to/sivarampg/clawdbot-the-ai-assistant-thats-breaking-the-internet-1a47)
-- [Linux Network Analysis Script](https://dev.to/ben-santora/linux-network-analysis-script-hi9)
-- [5 Essential Security Headers for Modern Frontend Devs &lpar;Next.js, Angular, &amp; Vue&rpar;](https://dev.to/olabima_/5-essential-security-headers-for-modern-frontend-devs-nextjs-angular-vue-3icf)
-- [How to Break Bitcoin with 33% of the Hashpower: Selfish Mining Explained.](https://dev.to/khonmaksim/how-to-break-bitcoin-with-33-of-the-hashpower-selfish-mining-explained-44dd)
-- [ZigZag: AI-Friendly Code Reports in Zig](https://dev.to/legationpro/zigzag-ai-friendly-code-reports-in-zig-5fk)
+- [WebSocket Implementation with Next.js &lpar;Node.js + React in One App&rpar;](https://dev.to/addwebsolutionpvtltd/websocket-implementation-with-nextjs-nodejs-react-in-one-app-gb6)
+- [Why I spent my weekend building a high-fidelity Skill Tree for Arc Raiders](https://dev.to/vaewick/why-i-spent-my-weekend-building-a-high-fidelity-skill-tree-for-arc-raiders-14ig)
+- [Linux Learning Journey – Day 12: File Permissions &amp; Ownership in Ubuntu 🐧🔐](https://dev.to/avinashwagh/linux-learning-journey-day-12-file-permissions-ownership-in-ubuntu-3le3)
+- [Stop Flying Blind: BullMQ Queue Observability with bullstudio](https://dev.to/emirce/stop-flying-blind-bullmq-queue-observability-with-bullstudio-956)
+- [Quartify: Transform Your R Scripts into Quarto Documentation in One Click](https://dev.to/ddotta/quartify-transform-your-r-scripts-into-quarto-documentation-in-one-click-3d6f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
