@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [WebSocket Implementation with Next.js &lpar;Node.js + React in One App&rpar;](https://dev.to/addwebsolutionpvtltd/websocket-implementation-with-nextjs-nodejs-react-in-one-app-gb6)
-- [Why I spent my weekend building a high-fidelity Skill Tree for Arc Raiders](https://dev.to/vaewick/why-i-spent-my-weekend-building-a-high-fidelity-skill-tree-for-arc-raiders-14ig)
-- [Linux Learning Journey – Day 12: File Permissions &amp; Ownership in Ubuntu 🐧🔐](https://dev.to/avinashwagh/linux-learning-journey-day-12-file-permissions-ownership-in-ubuntu-3le3)
-- [Stop Flying Blind: BullMQ Queue Observability with bullstudio](https://dev.to/emirce/stop-flying-blind-bullmq-queue-observability-with-bullstudio-956)
-- [Quartify: Transform Your R Scripts into Quarto Documentation in One Click](https://dev.to/ddotta/quartify-transform-your-r-scripts-into-quarto-documentation-in-one-click-3d6f)
+- [How to Run Clawdbot on WSL with Your Claude Code Subscription](https://dev.to/nunc/how-to-run-clawdbot-on-wsl-with-your-claude-code-subscription-13i4)
+- [Why Developers Love Loosely Typed Languages… But Trust Strict Ones](https://dev.to/karanunix/why-developers-love-loosely-typed-languages-but-trust-strict-ones-2k40)
+- [Mounting and Unmounting Filesystems in Linux](https://dev.to/ben-santora/mounting-and-unmounting-filesystems-in-linux-441l)
+- [Multi-Agent Communication Patterns That Actually Work](https://dev.to/aureus_c_b3ba7f87cc34d74d49/multi-agent-communication-patterns-that-actually-work-50kp)
+- [Testing Stripe Webhooks Locally Without Deploying Your App](https://dev.to/pahatrop/testing-stripe-webhooks-locally-without-deploying-your-app-2imh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
