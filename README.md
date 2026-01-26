@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Built &quot;The Sentinel&quot;: My AI Supply Chain Agent](https://dev.to/pearlicia/how-i-built-the-sentinel-my-ai-supply-chain-agent-k1n)
-- [MCP Development with C++, Cloud Run, Firestore, and Gemini CLI](https://dev.to/gde/mcp-development-with-c-cloud-run-firestore-and-gemini-cli-24om)
-- [If It&#39;s Not Accessible, It&#39;s Not Design](https://dev.to/rachynska/if-its-not-accessible-its-not-design-1l5p)
-- [NVIDIA PersonaPlex: The &quot;Full-Duplex&quot; Revolution](https://dev.to/behruamm/nvidia-personaplex-the-full-duplex-revolution-42jp)
-- [🎻 Fine-tuning Explained Like You&#39;re 5](https://dev.to/esreekarreddy/fine-tuning-explained-like-youre-5-2gma)
+- [Introducción a Linux](https://dev.to/fedrummond_/introduccion-a-linux-2c8c)
+- [𝗢𝗔𝘂𝘁𝗵𝟮.𝟬 — 𝗦𝗶𝗺𝗽𝗹𝗲, 𝗳𝘂𝗻𝗻𝘆 𝗲𝘅𝗽𝗹𝗮𝗻𝗮𝘁𝗶𝗼𝗻 𝗳𝗼𝗿 𝗲𝘃𝗲𝗿𝘆𝗯𝗼𝗱𝘆](https://dev.to/milan_karajovic_45443e6d6/--497h)
+- [Da Detecção à Correção: Patches Automáticos e o Papel do Engenheiro na Era da IA](https://dev.to/vinicius3w/da-deteccao-a-correcao-patches-automaticos-e-o-papel-do-engenheiro-na-era-da-ia-12b0)
+- [The Joy Division Effect: How I Learned Programming by Making Waves](https://dev.to/lucianofedericopereira/the-joy-division-effect-how-i-learned-programming-by-making-waves-2b6d)
+- [MCP vs CLI Tools: Which is best for production applications?](https://dev.to/mathewpregasen/mcp-vs-cli-tools-which-is-best-for-production-applications-bd8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
