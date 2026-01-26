@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Give Your AI Agent Real-Time Internet Access for Free &lpar;Python Tutorial&rpar;](https://dev.to/_a4db025533c31e24cb517/how-to-give-your-ai-agent-real-time-internet-access-for-free-python-tutorial-1nfj)
-- [Sticky Bugs!](https://dev.to/hopeyclarkey/sticky-bugs-3g2k)
-- [Introduction to AVL Trees](https://dev.to/akshay9136/avl-trees-8ag)
-- [Building a Decentralized Certificate Validator Using GoQuorum, Loki, Next.js, and NestJS](https://dev.to/raisha_sultana_128bfbb50a/building-a-decentralized-certificate-validator-using-goquorum-loki-nextjs-and-nestjs-5ag9)
-- [From Static to Agentic: My AI-Powered Portfolio for 2026 &lpar;Built with Google Gemini&rpar;](https://dev.to/pradeepreddyd/from-static-to-agentic-my-ai-powered-portfolio-for-2026-built-with-google-gemini-596f)
+- [Why You Don&#39;t Have to Restart Your PC Anymore: A Kernel Perspective](https://dev.to/benes/why-you-dont-have-to-restart-your-pc-anymore-a-kernel-perspective-59bd)
+- [Autopilot - La Pesadilla de las APIs: Cómo vencí a la burocracia de LinkedIn para automatizar mi empresa](https://dev.to/datalaria/autopilot-la-pesadilla-de-las-apis-como-venci-a-la-burocracia-de-linkedin-para-automatizar-mi-1dfj)
+- [# 🪦 RIP CocoaPods &lpar;2011-2026&rpar;: What Every iOS Developer Must Do NOW](https://dev.to/diskcleankit/-rip-cocoapods-2011-2026-what-every-ios-developer-must-do-now-5eed)
+- [You Don&#39;t Need a Mac Mini to Run Clawdbot - Here&#39;s How to Run It Anywhere](https://dev.to/sivarampg/you-dont-need-a-mac-mini-to-run-clawdbot-heres-how-to-run-it-anywhere-217l)
+- [Perl 🐪 Weekly #757 - Contribute to CPAN!](https://dev.to/szabgab/perl-weekly-757-contribute-to-cpan-5e8b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
