@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I accidentally contributed to Terraform](https://dev.to/iduoad/i-accidentally-contributed-to-terraform-4j2m)
+- [How to Judge Solutions Like an Engineer](https://dev.to/arturampilogov/how-to-judge-solutions-like-an-engineer-352i)
+- [DynamoDB Workflows: stop rewriting incident scripts &lpar;with DynamoLens&rpar;](https://dev.to/rasjonell/dynamodb-workflows-stop-rewriting-incident-scripts-with-dynamolens-26oe)
 - [SRP — Single Responsibility Principle &lpar;Princípio da Responsabilidade Única&rpar;](https://dev.to/yuripeixinho/srp-single-responsibility-principle-principio-da-responsabilidade-unica-4e1a)
 - [Local Email Testing with Python and Mailpit](https://dev.to/letstalkoss/local-email-testing-with-python-and-mailpit-4cn6)
-- [Introducción a Linux](https://dev.to/fedrummond_/introduccion-a-linux-2c8c)
-- [I Built an MCP Server That Turns YouTube Videos Into AI Skills](https://dev.to/tauanbinato/i-built-an-mcp-server-that-turns-youtube-videos-into-ai-skills-2lik)
-- [𝗢𝗔𝘂𝘁𝗵𝟮.𝟬 — 𝗦𝗶𝗺𝗽𝗹𝗲, 𝗳𝘂𝗻𝗻𝘆 𝗲𝘅𝗽𝗹𝗮𝗻𝗮𝘁𝗶𝗼𝗻 𝗳𝗼𝗿 𝗲𝘃𝗲𝗿𝘆𝗯𝗼𝗱𝘆](https://dev.to/milan_karajovic_45443e6d6/--497h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
