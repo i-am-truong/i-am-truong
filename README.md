@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [NAPI Multithreaded Crash Issue](https://dev.to/harmonyos/napi-multithreaded-crash-issue-8fj)
+- [The Java switch nuance that gave me an &quot;oh wow&quot; moment](https://dev.to/yoditdevn8n/the-java-switch-nuance-that-gave-me-an-oh-wow-moment-44i2)
+- [Config-driven Vue Interfaces with Dynamic Components](https://dev.to/jacobandrewsky/config-driven-vue-interfaces-with-dynamic-components-28eo)
+- [Master React Testing Step-by-Step: Jest, Vitest &amp; React Testing Libraryj](https://dev.to/myogeshchavan97/master-react-testing-step-by-step-jest-vitest-react-testing-libraryj-3k60)
 - [I Built a Privacy-First JSON/YAML Toolkit After 80K Credentials Were Leaked](https://dev.to/hari_prakash_b0a882ec9225/i-built-a-privacy-first-jsonyaml-toolkit-after-80k-credentials-were-leaked-34e2)
-- [The Secret Life of Python: The Uncontained Script](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-uncontained-script-4p8g)
-- [Recognize Governance And Compliance Regulations For AI Systems](https://dev.to/aws-builders/recognize-governance-and-compliance-regulations-for-ai-systems-4cle)
-- [An Introduction to Linux for Data Engineers: Using the Nano Editor with Practical Examples](https://dev.to/peter_amoro_fccf1d029a084/an-introduction-to-linux-for-data-engineers-using-the-nano-editor-with-practical-examples-39a2)
-- [Corporate Wargames: Red Teams vs Blue Teams](https://dev.to/akbyrner/corporate-wargames-red-teams-vs-blue-teams-5ajj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
