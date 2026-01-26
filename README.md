@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Personal Branding for Introverted Developers &lpar;Yes, It&#39;s Possible&rpar; 🚀](https://dev.to/thebitforge/personal-branding-for-introverted-developers-yes-its-possible-dbp)
-- [How to pass the CKA Exam on the first try [GUARANTEED]](https://dev.to/monarene/how-to-pass-the-cka-exam-on-the-first-try-guaranteed-44jf)
-- [Ridge vs. Lasso Regression: A Clear Guide to Regularization Techniques](https://dev.to/kenyansa/ridge-vs-lasso-regression-a-clear-guide-to-regularization-techniques-14nn)
-- [Debugging Dynamic Cookie Validation in Express.js](https://dev.to/jsdevrobin/debugging-dynamic-cookie-validation-in-expressjs-14dl)
-- [The Agentic Developer: Orchestrating My 2026 Portfolio with Google Antigravity &amp; Gemini 3](https://dev.to/dhruva_wani_17/the-agentic-developer-orchestrating-my-2026-portfolio-with-google-antigravity-gemini-3-48o0)
+- [Weesitor Console: A Console-First Selenium Runner for Authorized QA Checks and Lightweight Monitoring](https://dev.to/mebularts/weesitor-console-a-console-first-selenium-runner-for-authorized-qa-checks-and-lightweight-e1c)
+- [Journey into Claude Code](https://dev.to/mrpercival/journey-into-claude-code-1d6a)
+- [A LinkedIn Job Offer Tried to Install Malware on My Machine](https://dev.to/danieltofan/a-linkedin-job-offer-tried-to-install-malware-on-my-machine-3c0k)
+- [Pre‑Trained Models Belong in Prototypes, Not Production App. Here&#39;s Why 💻](https://dev.to/francistrdev/pre-trained-models-belong-in-prototypes-not-production-app-heres-why-23l2)
+- [Introduction to Linux for Data Engineers](https://dev.to/samwel_sam/introduction-to-linux-for-data-engineers-2i08)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
