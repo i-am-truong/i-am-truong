@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Developers Who Want to Become Entrepreneurs: What Skills Actually Matter?](https://dev.to/salaria_labs/developers-who-want-to-become-entrepreneurs-what-skills-actually-matter-1a44)
-- [More than Maps](https://dev.to/dungeoncrawlsoft/more-than-maps-1f25)
-- [AWS CDK 100 Drill Exercises #007: SQS-Lambda-Firehose —— Building Event-Driven Data Pipelines](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-007-sqs-lambda-firehose-building-event-driven-data-pipelines-2ki8)
-- [AI Gear Coach: AI-Powered Assistant for Content Creators Using Algolia &amp; Google Gemini](https://dev.to/keerthana_696356/ai-gear-coach-ai-powered-assistant-for-content-creators-using-algolia-google-gemini-308n)
-- [Fundamentos de la ingeniería rápida](https://dev.to/alexrestrej/fundamentos-de-la-ingenieria-rapida-ai7)
+- [Testing Telegram Bots in CI/CD: Zero Tokens Required](https://dev.to/stepan_romankov/testing-telegram-bots-in-cicd-zero-tokens-required-4io3)
+- [Understanding Memory Graph Debugger in Xcode](https://dev.to/arshtechpro/understanding-memory-graph-debugger-in-xcode-your-guide-to-catching-memory-leaks-274)
+- [Introducing Home Screen Widgets in PhoneCleanKit](https://dev.to/diskcleankit/introducing-home-screen-widgets-in-phonecleankit-1im0)
+- [Land A $195K Job With AI](https://dev.to/mrispoli24/land-a-195k-job-with-ai-5760)
+- [Oracle AI Vector Search in Oracle Database 23ai](https://dev.to/derrickryangiggs/oracle-ai-vector-search-in-oracle-database-23ai-54m8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
