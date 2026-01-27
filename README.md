@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Decision Latency Is the Real Risk in Projects](https://dev.to/ben_webb_projectmanager/decision-latency-is-the-real-risk-in-projects-122k)
+- [threejs-shaders_ sphere-gears-shaders](https://dev.to/delafuentej/threejs-shaders-sphere-gears-shaders-1209)
+- [I built a client-side tax filer with React &lpar;No Database&rpar;](https://dev.to/chris_lee_5e58cce05f5d01d/i-built-a-client-side-tax-filer-with-react-no-database-1jca)
+- [CloudNativePG - install &lpar;2.18&rpar; and first test: transient failure](https://dev.to/franckpachot/cloudnativepg-install-218-and-first-test-transient-failure-4ml)
 - [💼 Freelance Rate Negotiation Coach - AI-Powered Salary Intelligence](https://dev.to/asamaes/freelance-rate-negotiation-coach-ai-powered-salary-intelligence-3kn2)
-- [ℹ️ INFO Ralph Proactive Scan Findings &lpar;+2 more&rpar;](https://dev.to/igorganapolsky/info-ralph-proactive-scan-findings-2-more-1ic9)
-- [CVE-2025-59471: Next.js Image Optimizer: The 4GB Hello World](https://dev.to/cverports/cve-2025-59471-nextjs-image-optimizer-the-4gb-hello-world-5c09)
-- [🟠 HIGH LL-298: Invalid Option Strikes Caus &lpar;+2 more&rpar;](https://dev.to/igorganapolsky/high-ll-298-invalid-option-strikes-caus-2-more-12ki)
-- [Stop Calling Everything &quot;Security&quot;: Why Your &quot;Expert&quot; Doesn&#39;t Know What They&#39;re Talking About](https://dev.to/anderson_leite/stop-calling-everything-security-why-your-expert-doesnt-know-what-theyre-talking-about-1i4f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
