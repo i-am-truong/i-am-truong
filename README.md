@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Fix &#39;Objects are not valid as a React child&#39; Error &lpar;2026&rpar;](https://dev.to/samantha-dev/objects-are-not-valid-as-a-react-child-40pj)
-- [Karpathy&#39;s Claude Code Field Notes: Real Experience and Deep Reflections on the AI Programming Era](https://dev.to/jasonguo/karpathys-claude-code-field-notes-real-experience-and-deep-reflections-on-the-ai-programming-era-4e2f)
-- [Is PHP Still a Valuable Programming Language in 2026?](https://dev.to/arafatweb/is-php-still-a-valuable-programming-language-in-2026-3449)
-- [I built a free online Mermaid diagram editor with storage/sharing](https://dev.to/platformlab/i-built-a-free-online-mermaid-diagram-editor-with-storagesharing-3g1o)
-- [The Secret Life of Go: JSON and Tags](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-json-and-tags-4h9m)
+- [Constraints in DSA – From Zero to Monster Level](https://dev.to/abhishek-nexgen-dev/constraints-in-dsa-from-zero-to-monster-level-2cjp)
+- [How to Use Claude.ai&#39;s Research Toggle Inside Claude Code](https://dev.to/bhaidar/how-to-use-claudeais-research-toggle-inside-claude-code-469d)
+- [Building a Product Hunt Like Threaded Comments with Real-Time Collaboration 🔥](https://dev.to/astrodevil/building-a-product-hunt-like-threaded-comments-with-real-time-collaboration-5gd6)
+- [How to read data when an HTTP request returns a JSON file and dataL2 access is successful?](https://dev.to/harmonyos/how-to-read-data-when-an-http-request-returns-a-json-file-and-datal2-access-is-successful-2ohl)
+- [The Task Tool: Claude Code&#39;s Agent Orchestration System](https://dev.to/bhaidar/the-task-tool-claude-codes-agent-orchestration-system-4bf2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
