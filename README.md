@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CVE-2026-24765: The CI/CD Trojan Horse: Inside PHPUnit&#39;s Unsafe Deserialization](https://dev.to/cverports/cve-2026-24765-the-cicd-trojan-horse-inside-phpunits-unsafe-deserialization-pl0)
-- [Brutalist / Industrial: Creative Developer Portfolio](https://dev.to/quodline/brutalist-industrial-creative-developer-portfolio-2fbl)
-- [Optimizing GPU Workload Placement in Kubernetes with NVLink-Aware Scheduling](https://dev.to/lalitlouis/optimizing-gpu-workload-placement-in-kubernetes-with-nvlink-aware-scheduling-20n7)
-- [I Got Tired of Re-Explaining My Codebase to AI — So I Built a Memory Layer](https://dev.to/escott/i-got-tired-of-re-explaining-my-codebase-to-ai-so-i-built-a-memory-layer-4dhl)
-- [Build Web Applications Just Like Calling a Method](https://dev.to/ben23/build-web-applications-just-like-calling-a-method-d24)
+- [Love vs Debt: Value Creation in Relationships](https://dev.to/matthew_hou_e8ab76d6be07b/love-vs-debt-value-creation-in-relationships-4pn8)
+- [[BlindSpot] Log 03. Let&#39;s follow the SOLID principles : SRP](https://dev.to/ryujm1828/blindspot-log-03-lets-follow-the-solid-principles-srp-2bh2)
+- [The Great Developer’s Dilemma: Is 2D Actually &quot;Easier&quot; Than 3D in 2026?](https://dev.to/noah-jhon/the-great-developers-dilemma-is-2d-actually-easier-than-3d-in-2026-3m8o)
+- [Day 3 of JavaScript: Where Three Days Can Break Your Brain](https://dev.to/jazmin_m_099/day-3-of-javascript-where-three-days-can-break-your-brain-38d)
+- [PowerSNMPv3: A New Pure Go SNMP Library with Better Error Handling](https://dev.to/olegpowerc/powersnmpv3-a-new-pure-go-snmp-library-with-better-error-handling-10d1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
