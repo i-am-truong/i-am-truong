@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a curated toolkit of 700+ web dev &amp; design resources &lpar;and it’s finally ready to share&rpar;](https://dev.to/adamgreenough/i-built-a-curated-toolkit-of-700-web-dev-design-resources-and-its-finally-ready-to-share-ga9)
-- [We Are Training Conversational AI Wrong!](https://dev.to/csituma/we-are-training-conversational-ai-wrong-b06)
-- [Transformer Series - Blog #4 How the word &quot;Bank&quot; knows what it means: Self-Attention explained intuitively](https://dev.to/techsorter/transformer-series-blog-4-how-the-word-bank-knows-what-it-means-self-attention-explained-1dmc)
-- [The Kernel&#39;s Blind Spot: Deconstructing the Advanced Techniques of the Singularity Rootkit](https://dev.to/githubopensource/the-kernels-blind-spot-deconstructing-the-advanced-techniques-of-the-singularity-rootkit-4g32)
-- [Aprender programação é difícil. Aprender sozinho é ainda mais.](https://dev.to/renato_silva_71eef0fc385f/aprender-programacao-e-dificil-aprender-sozinho-e-ainda-mais-apm)
+- [How AI Inpainting Actually Works — And Why It&#39;s Better Than Clone Stamp](https://dev.to/danny_miller/how-ai-inpainting-actually-works-and-why-its-better-than-clone-stamp-4n9d)
+- [Observability](https://dev.to/mohan023/observability-2ne0)
+- [I built a RAG as a second brain](https://dev.to/maptonik/i-built-a-rag-as-a-second-brain-407a)
+- [The MCP Server Stack: 10 Open Source Essentials for 2026](https://dev.to/techlatest-ai/the-mcp-server-stack-10-open-source-essentials-for-2026-44k8)
+- [Bubble Mobile Crash Course: Build a Real App from Scratch](https://dev.to/ebereplenty/bubble-mobile-crash-course-build-a-real-app-from-scratch-299f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
