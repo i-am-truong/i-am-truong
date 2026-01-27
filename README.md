@@ -120,11 +120,13 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [📖 THE STORY OF JAVA COLLECTIONS](https://dev.to/aman04/the-story-of-java-collections-1m1c)
-- [# Building an Emotion-Based Music Recommendation System: When AI Meets Your Mood](https://dev.to/kunal_chakraborty_6a1ab69/-building-an-emotion-based-music-recommendation-system-when-ai-meets-your-mood-1ce3)
-- [Você sabe de fato como SSR funciona — e o que ele resolve?](https://dev.to/vinidev/voce-sabe-de-fato-como-ssr-funciona-e-o-que-ele-resolve-den)
-- [How I Teach LLMs to Play BattleTech &lpar;Part 1&rpar;: Architecture, Agents, and Tools](https://dev.to/antonmakarevich/how-i-teach-llms-to-play-battletech-part-1-architecture-agents-and-tools-18om)
-- [Why I Refused to Pay Auth0 $96,000/Year &lpar;And Built My Own Auth Instead&rpar;](https://dev.to/kohsin/why-i-refused-to-pay-auth0-96000year-and-built-my-own-auth-instead-3nn4)
+- [How I built a Tinder-style Card Swipe in Next.js 16](https://dev.to/asterios07/how-i-built-a-tinder-style-card-swipe-in-nextjs-16-592h)
+- [Rust TUI](https://dev.to/nx2991/rust-tui-25h2)
+- [When to Scale Up a Dedicated Team: Signals to Watch](https://dev.to/alona_instandart/when-to-scale-up-a-dedicated-team-signals-to-watch-3dj9)
+- [Your App Isn’t Slow. Your UX Just Feels Slow.](https://dev.to/pixel_mosaic/your-app-isnt-slow-your-ux-just-feels-slow-5532)
+- [I am thrilled to be mentoring the Open House program. This is an incredible opportunity to turn your idea into a real startup with mentorship, support and access to funding.
+
+Registration is open now: https://openhouse.arbitrum.io/](https://dev.to/bengreenberg/i-am-thrilled-to-be-mentoring-the-open-house-program-this-is-an-incredible-opportunity-to-turn-bcp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
