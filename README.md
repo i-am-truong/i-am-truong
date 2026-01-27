@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [PicoServer - Lightweight Cross-Platform Web Request Glue Library](https://dev.to/ben23/picoserver-lightweight-cross-platform-web-request-glue-library-1doh)
-- [HTTP status codes](https://dev.to/bbylumi/http-status-codes-4j37)
-- [Why Neural Networks Need He Init, Clipping, and Momentum](https://dev.to/sbondaryev/why-neural-networks-need-he-init-clipping-and-momentum-4e80)
-- [AI Trading: Day 88 - 4 Lessons Learned &lpar;January 24, 2026&rpar;](https://dev.to/igorganapolsky/ai-trading-day-88-4-lessons-learned-january-24-2026-3gnp)
-- [Javascript / JSON,](https://dev.to/devon1971/javascript-json-2k90)
+- [Brutalist / Industrial: Creative Developer Portfolio](https://dev.to/quodline/brutalist-industrial-creative-developer-portfolio-2fbl)
+- [Optimizing GPU Workload Placement in Kubernetes with NVLink-Aware Scheduling](https://dev.to/lalitlouis/optimizing-gpu-workload-placement-in-kubernetes-with-nvlink-aware-scheduling-20n7)
+- [I Got Tired of Re-Explaining My Codebase to AI — So I Built a Memory Layer](https://dev.to/escott/i-got-tired-of-re-explaining-my-codebase-to-ai-so-i-built-a-memory-layer-4dhl)
+- [Build Web Applications Just Like Calling a Method](https://dev.to/ben23/build-web-applications-just-like-calling-a-method-d24)
+- [We built an open-source AI orchestration AutomatosX tool after struggling with multi-agent workflows.](https://dev.to/defai_a9f1f9492b11/we-built-an-open-source-ai-orchestration-automatosx-tool-after-struggling-with-multi-agent-33fd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
