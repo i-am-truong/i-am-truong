@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Forged in Westeros : A Developer Portfolio](https://dev.to/ak_deepankar/forged-in-westeros-a-developer-portfolio-3e28)
+- [Spring CRUD Generator: a YAML/JSON-driven Spring Boot backend generator &lpar;version update + stability improvements&rpar;](https://dev.to/mzivkovicdev/spring-crud-generator-a-yamljson-driven-spring-boot-backend-generator-version-update-stability-4mff)
 - [I Built a PDF Tool Because I Didn’t Trust PDF Tools](https://dev.to/pranav_mailarpawar_7039f2/i-built-a-pdf-tool-because-i-didnt-trust-pdf-tools-43gm)
 - [Pourquoi j&#39;ai créé un projet pour apprendre GitLab CI/CD &lpar;et pourquoi la doc ne suffit pas&rpar;](https://dev.to/loiconlyone/pourquoi-jai-cree-un-projet-pour-apprendre-gitlab-cicd-et-pourquoi-la-doc-ne-suffit-pas-489h)
 - [GitHub Copilot CLI: A DevOps Engineer&#39;s Practical Guide to AI-Powered Terminal Automation](https://dev.to/pwd9000/github-copilot-cli-a-devops-engineers-practical-guide-to-ai-powered-terminal-automation-1jh0)
-- [Why Discord Sucks for Developer Communities](https://dev.to/bdbchgg/why-discord-sucks-for-developer-communities-2fg1)
-- [The UI Design Styles Every Designer Should Know in 2026](https://dev.to/trixsec/the-ui-design-styles-every-designer-should-know-in-2026-1pmc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
