@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [On Memory, Learning, and Reset, The Memory Trilogy](https://dev.to/notenoughtime/on-memory-learning-and-reset-the-memory-trilogy-3og7)
-- [Event-Driven Architecture: When and How?](https://dev.to/laura_puckoriute/event-driven-architecture-when-and-how-4pn)
-- [Understanding Network Devices](https://dev.to/hiral/understanding-network-devices-31ig)
-- [Say Goodbye to Copy-Paste: 8 MCP Servers You Need Now](https://dev.to/james_miller_8dc58a89cb9e/say-goodbye-to-copy-paste-8-mcp-servers-you-need-now-1702)
-- [From Words to Meaning: Core NLP Concepts Every Beginner Must Know](https://dev.to/zeroshotanu/from-words-to-meaning-core-nlp-concepts-every-beginner-must-know-3hl3)
+- [I Built a PDF Tool Because I Didn’t Trust PDF Tools](https://dev.to/pranav_mailarpawar_7039f2/i-built-a-pdf-tool-because-i-didnt-trust-pdf-tools-43gm)
+- [Pourquoi j&#39;ai créé un projet pour apprendre GitLab CI/CD &lpar;et pourquoi la doc ne suffit pas&rpar;](https://dev.to/loiconlyone/pourquoi-jai-cree-un-projet-pour-apprendre-gitlab-cicd-et-pourquoi-la-doc-ne-suffit-pas-489h)
+- [GitHub Copilot CLI: A DevOps Engineer&#39;s Practical Guide to AI-Powered Terminal Automation](https://dev.to/pwd9000/github-copilot-cli-a-devops-engineers-practical-guide-to-ai-powered-terminal-automation-1jh0)
+- [Why Discord Sucks for Developer Communities](https://dev.to/bdbchgg/why-discord-sucks-for-developer-communities-2fg1)
+- [The UI Design Styles Every Designer Should Know in 2026](https://dev.to/trixsec/the-ui-design-styles-every-designer-should-know-in-2026-1pmc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
