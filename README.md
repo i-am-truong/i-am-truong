@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a rate limiter that&#39;s 9x faster than rate-limiter-flexible - benchmarks included](https://dev.to/shayanhussainsb/i-built-a-rate-limiter-thats-9x-faster-than-rate-limiter-flexible-benchmarks-included-3409)
-- [Contact Forms Were Overkill, So I Built a Simple Floating Contact Button](https://dev.to/lewisushindi/contact-forms-were-overkill-so-i-built-a-simple-floating-contact-button-317d)
-- [EVENT-DRIVEN ARCHITECTURE &lpar;EDA&rpar;](https://dev.to/aman04/event-driven-architecture-eda-1d98)
-- [Context-Driven Development Experiment 4: Normalizing CLI Commands with Claude Code and TDD](https://dev.to/imdone/context-driven-development-experiment-4-normalizing-cli-commands-with-claude-code-and-tdd-5247)
-- [JAVA REALITY !!](https://dev.to/aman04/java-reality--40nf)
+- [Problem 11: Count Character Frequency](https://dev.to/highcenburg/problem-11-count-character-frequency-2ik9)
+- [Extending MCP Agents with the AWS MCP Server: Why Python ADK Shines?!](https://dev.to/aws-builders/extending-mcp-agents-with-the-aws-mcp-server-why-python-adk-shines-3kd9)
+- [BSON to JSON: The Python Way](https://dev.to/letstalkoss/bson-to-json-the-python-way-16d9)
+- [How I Actually Use AI as a Developer &lpar;And Where It Still Breaks&rpar;](https://dev.to/techstratos/how-i-actually-use-ai-as-a-developer-and-where-it-still-breaks-5aih)
+- [BSON to JSON: The Standard Tools](https://dev.to/letstalkoss/bson-to-json-the-standard-tools-5c68)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
