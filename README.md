@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Problem 11: Count Character Frequency](https://dev.to/highcenburg/problem-11-count-character-frequency-2ik9)
-- [Extending MCP Agents with the AWS MCP Server: Why Python ADK Shines?!](https://dev.to/aws-builders/extending-mcp-agents-with-the-aws-mcp-server-why-python-adk-shines-3kd9)
-- [BSON to JSON: The Python Way](https://dev.to/letstalkoss/bson-to-json-the-python-way-16d9)
-- [How I Actually Use AI as a Developer &lpar;And Where It Still Breaks&rpar;](https://dev.to/techstratos/how-i-actually-use-ai-as-a-developer-and-where-it-still-breaks-5aih)
-- [BSON to JSON: The Standard Tools](https://dev.to/letstalkoss/bson-to-json-the-standard-tools-5c68)
+- [My tech blogs got deleted. So I engineered an unbannable &quot;Dual-Core&quot; Reader with Next.js &amp; Nostr.](https://dev.to/joey_b2e0652bacd69d5b15b9/my-tech-blogs-got-deleted-so-i-engineered-an-unbannable-dual-core-reader-with-nextjs-nostr-40a8)
+- [Can a Countertop Wine Fridge Fit Your Lifestyle and Budget?](https://dev.to/hemant546/can-a-countertop-wine-fridge-fit-your-lifestyle-and-budget-37he)
+- [Wayland vs X11: 2026 Comparison](https://dev.to/rosgluk/wayland-vs-x11-2026-comparison-5cok)
+- [Modular Architecture Example for Next.js 16](https://dev.to/ramacan/modular-architecture-example-for-nextjs-16-1nln)
+- [Developers: Do you skip meals, forget breaks, or code until 2am? [3-min health survey]](https://dev.to/anirudh_b0c9a24f2a326a549/developers-do-you-skip-meals-forget-breaks-or-code-until-2am-3-min-health-survey-278i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
