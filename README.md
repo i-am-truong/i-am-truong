@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How AI Inpainting Actually Works — And Why It&#39;s Better Than Clone Stamp](https://dev.to/danny_miller/how-ai-inpainting-actually-works-and-why-its-better-than-clone-stamp-4n9d)
-- [Observability](https://dev.to/mohan023/observability-2ne0)
-- [I built a RAG as a second brain](https://dev.to/maptonik/i-built-a-rag-as-a-second-brain-407a)
-- [The MCP Server Stack: 10 Open Source Essentials for 2026](https://dev.to/techlatest-ai/the-mcp-server-stack-10-open-source-essentials-for-2026-44k8)
-- [Bubble Mobile Crash Course: Build a Real App from Scratch](https://dev.to/ebereplenty/bubble-mobile-crash-course-build-a-real-app-from-scratch-299f)
+- [Writable signals in Angular&lpar;v21&rpar;](https://dev.to/pckalyan/writable-signals-in-angular-3gf9)
+- [👻 The Silent Ghost: How a Single Enum Broke Our Distributed Transaction](https://dev.to/dipankar_sethi_35cc168b29/the-silent-ghost-how-a-single-enum-broke-our-distributed-transaction-2efo)
+- [How Platform Engineering Changes the Game](https://dev.to/sreekanth_kuruba_91721e5d/how-platform-engineering-changes-the-game-102d)
+- [Introducing Flowrra: A Simpler Alternative to Celery](https://dev.to/mameen/introducing-flowrra-a-simpler-alternative-to-celery-4ack)
+- [IIFEs are Dart&#39;s most underrated feature](https://dev.to/modulovalue/iifes-are-darts-most-underrated-feature-3g1c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
