@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Build a Production-Ready Discord Bot in 5 Minutes &lpar;Node.js + discord.js v14&rpar;](https://dev.to/nexicturbo/build-a-production-ready-discord-bot-in-5-minutes-nodejs-discordjs-v14-303g)
+- [What is Governance for AI and AI Agents?](https://dev.to/mathewpregasen/what-is-governance-for-ai-and-ai-agents-4ml0)
 - [Love vs Debt: Value Creation in Relationships](https://dev.to/matthew_hou_e8ab76d6be07b/love-vs-debt-value-creation-in-relationships-4pn8)
 - [[BlindSpot] Log 03. Let&#39;s follow the SOLID principles : SRP](https://dev.to/ryujm1828/blindspot-log-03-lets-follow-the-solid-principles-srp-2bh2)
 - [The Great Developer’s Dilemma: Is 2D Actually &quot;Easier&quot; Than 3D in 2026?](https://dev.to/noah-jhon/the-great-developers-dilemma-is-2d-actually-easier-than-3d-in-2026-3m8o)
-- [Day 3 of JavaScript: Where Three Days Can Break Your Brain](https://dev.to/jazmin_m_099/day-3-of-javascript-where-three-days-can-break-your-brain-38d)
-- [PowerSNMPv3: A New Pure Go SNMP Library with Better Error Handling](https://dev.to/olegpowerc/powersnmpv3-a-new-pure-go-snmp-library-with-better-error-handling-10d1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
