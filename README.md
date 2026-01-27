@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mangools SEO Suite Review: The Budget Beast That Punches Above Its Weight &lpar;But Has One Annoying Flaw&rpar;](https://dev.to/ii-x/mangools-seo-suite-review-the-budget-beast-that-punches-above-its-weight-but-has-one-annoying-5cfa)
-- [CURLEE: a new verification-first programming language for AI agents](https://dev.to/w4ffl35/curlee-a-new-verification-first-programming-language-for-ai-agents-2h61)
-- [Fitness Equates to Greatness!](https://dev.to/bibimbop123/fitness-equates-to-greatness-ipp)
-- [Você não é especial: Uma IA te superou](https://dev.to/misterioso013/voce-nao-e-especial-uma-ia-te-superou-f1g)
-- [Engineering Log: Ralph Proactive Scan Findings &lpar;+2 more&rpar;](https://dev.to/igorganapolsky/engineering-log-ralph-proactive-scan-findings-2-more-1148)
+- [I built a rate limiter that&#39;s 9x faster than rate-limiter-flexible - benchmarks included](https://dev.to/shayanhussainsb/i-built-a-rate-limiter-thats-9x-faster-than-rate-limiter-flexible-benchmarks-included-3409)
+- [Contact Forms Were Overkill, So I Built a Simple Floating Contact Button](https://dev.to/lewisushindi/contact-forms-were-overkill-so-i-built-a-simple-floating-contact-button-317d)
+- [EVENT-DRIVEN ARCHITECTURE &lpar;EDA&rpar;](https://dev.to/aman04/event-driven-architecture-eda-1d98)
+- [Context-Driven Development Experiment 4: Normalizing CLI Commands with Claude Code and TDD](https://dev.to/imdone/context-driven-development-experiment-4-normalizing-cli-commands-with-claude-code-and-tdd-5247)
+- [JAVA REALITY !!](https://dev.to/aman04/java-reality--40nf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
