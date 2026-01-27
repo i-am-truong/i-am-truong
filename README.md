@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [i made buttons that run away from you &lpar;prank projects&rpar;](https://dev.to/iamovi/i-made-buttons-that-run-away-from-you-prank-projects-5ej0)
-- [Git Branching, Pull, Merge, Commit, and Push – Step-by-Step Guide](https://dev.to/100rabhcsmc/git-branching-pull-merge-commit-and-push-step-by-step-guide-nck)
-- [[SUI] Lista jerárquica](https://dev.to/david_goyes_a488f58a17a53/sui-lista-jerarquica-23j)
-- [Day 9: yup we are back, strong as ever.....](https://dev.to/sugunadithya/day-9-yup-we-are-back-strong-as-ever-2c64)
-- [Rethinking Version Control: What If Git Understood Your Intent?](https://dev.to/anvanster/rethinking-version-control-what-if-git-understood-your-intent-40fm)
+- [On Memory, Learning, and Reset, The Memory Trilogy](https://dev.to/notenoughtime/on-memory-learning-and-reset-the-memory-trilogy-3og7)
+- [Event-Driven Architecture: When and How?](https://dev.to/laura_puckoriute/event-driven-architecture-when-and-how-4pn)
+- [Understanding Network Devices](https://dev.to/hiral/understanding-network-devices-31ig)
+- [Say Goodbye to Copy-Paste: 8 MCP Servers You Need Now](https://dev.to/james_miller_8dc58a89cb9e/say-goodbye-to-copy-paste-8-mcp-servers-you-need-now-1702)
+- [From Words to Meaning: Core NLP Concepts Every Beginner Must Know](https://dev.to/zeroshotanu/from-words-to-meaning-core-nlp-concepts-every-beginner-must-know-3hl3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
