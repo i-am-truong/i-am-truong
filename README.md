@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CVE-2026-24765: The CI/CD Trojan Horse: Inside PHPUnit&#39;s Unsafe Deserialization](https://dev.to/cverports/cve-2026-24765-the-cicd-trojan-horse-inside-phpunits-unsafe-deserialization-pl0)
 - [Brutalist / Industrial: Creative Developer Portfolio](https://dev.to/quodline/brutalist-industrial-creative-developer-portfolio-2fbl)
 - [Optimizing GPU Workload Placement in Kubernetes with NVLink-Aware Scheduling](https://dev.to/lalitlouis/optimizing-gpu-workload-placement-in-kubernetes-with-nvlink-aware-scheduling-20n7)
 - [I Got Tired of Re-Explaining My Codebase to AI — So I Built a Memory Layer](https://dev.to/escott/i-got-tired-of-re-explaining-my-codebase-to-ai-so-i-built-a-memory-layer-4dhl)
 - [Build Web Applications Just Like Calling a Method](https://dev.to/ben23/build-web-applications-just-like-calling-a-method-d24)
-- [We built an open-source AI orchestration AutomatosX tool after struggling with multi-agent workflows.](https://dev.to/defai_a9f1f9492b11/we-built-an-open-source-ai-orchestration-automatosx-tool-after-struggling-with-multi-agent-33fd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
