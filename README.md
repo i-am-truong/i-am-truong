@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Women-Only AI Hackathons Still Exist &lpar;And Why They Shouldn&#39;t Have To&rpar;](https://dev.to/w4vb/why-women-only-ai-hackathons-still-exist-and-why-they-shouldnt-have-to-1ekg)
-- [Kotlin as a Teaching Language: From Object-Oriented Concepts to Modern Software Design](https://dev.to/matheuslf/kotlin-as-a-teaching-language-from-object-oriented-concepts-to-modern-software-design-13ii)
-- [I just created my first website and i am so happy!](https://dev.to/christian_blank_5c97a9bae/i-just-created-my-first-website-and-i-am-so-happy-4aj)
-- [Fetching and Storing CVE Data from NVD API using Python](https://dev.to/gug_31c7ba64d1c563490bc42/fetching-and-storing-cve-data-from-nvd-api-using-python-4dog)
-- [FileShot.io: Secure File Sharing with Zero-Knowledge Encryption](https://dev.to/fileshot_9818357dbe6cc693/fileshotio-secure-file-sharing-with-zero-knowledge-encryption-59jm)
+- [CinemaSins: Everything Wrong With Sisu In 13 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sisu-in-13-minutes-or-less-5b8f)
+- [🔴 Live: Kilo Code on Product Hunt](https://dev.to/fmerian/live-kilo-code-on-product-hunt-ee8)
+- [The Agentic AI Maturity Gap: Orchestration + Observability + Auditability = Governance](https://dev.to/talweezy/the-agentic-ai-maturity-gap-orchestration-observability-auditability-governance-19op)
+- [PropFlow: A VSCode Extension to Visualize React Prop Drilling](https://dev.to/rutpshah88/propflow-a-vscode-extension-to-visualize-react-prop-drilling-19dj)
+- [LLMs - A New Test to Force Hallucination](https://dev.to/ben-santora/llms-a-test-to-force-hallucination-2okj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
