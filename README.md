@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Writable signals in Angular&lpar;v21&rpar;](https://dev.to/pckalyan/writable-signals-in-angular-3gf9)
-- [👻 The Silent Ghost: How a Single Enum Broke Our Distributed Transaction](https://dev.to/dipankar_sethi_35cc168b29/the-silent-ghost-how-a-single-enum-broke-our-distributed-transaction-2efo)
-- [How Platform Engineering Changes the Game](https://dev.to/sreekanth_kuruba_91721e5d/how-platform-engineering-changes-the-game-102d)
-- [Introducing Flowrra: A Simpler Alternative to Celery](https://dev.to/mameen/introducing-flowrra-a-simpler-alternative-to-celery-4ack)
-- [IIFEs are Dart&#39;s most underrated feature](https://dev.to/modulovalue/iifes-are-darts-most-underrated-feature-3g1c)
+- [Solved: Surveiller le cloud &lpar;GCP, AWS&rpar; avec Centreon? ou AlertManager?](https://dev.to/techresolve/solved-surveiller-le-cloud-gcp-aws-avec-centreon-ou-alertmanager-5ddn)
+- [Solved: Please stop recommending ChatGPT for logo design.](https://dev.to/techresolve/solved-please-stop-recommending-chatgpt-for-logo-design-5beg)
+- [MCP Server: Talk to Your Architecture from Your Favorite AI Tools](https://dev.to/eko/mcp-server-talk-to-your-architecture-from-your-favorite-ai-tools-4o86)
+- [Building a Nim library: Monika](https://dev.to/aranadedoros/building-a-nim-library-monika-5hmb)
+- [Crumbling Promises of a Safer Humanity](https://dev.to/irshad_ahmed/crumbling-promises-of-a-safer-humanity-3kgo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
