@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Handling Multiple Data Sources in DeFi Frontend Architecture](https://dev.to/92srdjan/handling-multiple-data-sources-in-defi-frontend-architecture-27kk)
+- [iOS - 3 Line code for Debounce in SwiftUI](https://dev.to/arshtechpro/ios-3-line-code-for-debounce-in-swiftui-4nhh)
+- [Website Builders vs. Web Designers and Developers](https://dev.to/ingosteinke/website-builders-vs-web-designers-and-developers-2ef7)
+- [Vertical text in Jetpack Compose &lpar;without rotation width problems&rpar;](https://dev.to/vladleesi/vertical-text-in-jetpack-compose-without-rotation-width-problems-4n2m)
 - [On the Need for Neutral Maintained Minifier Metrics](https://dev.to/j9t/on-the-need-for-neutral-maintained-minifier-metrics-5715)
-- [My 7 Aspirations as a Software Engineer in 2026](https://dev.to/ravgeetdhillon/my-7-aspirations-as-a-software-engineer-in-2026-2fdb)
-- [Dark Mode Screenshots in Docusaurus &lpar;That Actually Switch&rpar;](https://dev.to/omachala/dark-mode-screenshots-in-docusaurus-that-actually-switch-1djm)
-- [How to Deploy to AWS in 2026](https://dev.to/encore/how-to-deploy-to-aws-in-2026-55bn)
-- [I Tested 15 of the Best Documentation Tools - Here’s What Actually Works in 2026](https://dev.to/arobakid/i-tested-15-of-the-best-documentation-tools-heres-what-actually-works-in-2026-ljn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
