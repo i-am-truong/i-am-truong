@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Configure a semantic model in Power BI](https://dev.to/rahimah_dev/configure-a-semantic-model-in-power-bi-5735)
-- [[SUI] Acciones de &quot;Swipe&quot;](https://dev.to/david_goyes_a488f58a17a53/sui-acciones-de-swipe-d3)
-- [𝐃𝐞𝐩𝐥𝐨𝐲𝐢𝐧𝐠 𝐂𝐨𝐧𝐭𝐚𝐢𝐧𝐞𝐫𝐬 𝐨𝐧 𝐀𝐖𝐒 𝐂𝐚𝐧 𝐅𝐞𝐞𝐥 𝐎𝐯𝐞𝐫𝐰𝐡𝐞𝐥𝐦𝐢𝐧𝐠 — 𝐇𝐞𝐫𝐞’𝐬 𝐚 𝐂𝐥𝐞𝐚𝐫 𝐏𝐚𝐭𝐡 𝐅𝐨𝐫𝐰𝐚𝐫𝐝](https://dev.to/jozcar/--43k0)
-- [Why Deploying AI Agents on AWS Is So Hard &lpar;when it shouldn&#39;t be&rpar;](https://dev.to/basilfateen/why-deploying-ai-agents-on-aws-is-so-hard-when-it-shouldnt-be-52g7)
-- [Getting started with cURL &lpar;as a beginner!!&rpar;](https://dev.to/rahul_kumarparida_6c16f5/getting-started-with-curl-as-a-beginner-1pj7)
+- [Write Basic MongoDB Queries: Your First MongoDB Lab for Data Sorting and Limiting](https://dev.to/labex/write-basic-mongodb-queries-your-first-mongodb-lab-for-data-sorting-and-limiting-1jg)
+- [What are your goals for the week? 3163 Delayed due to weather.](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-3163-delayed-due-to-weather-42ag)
+- [Offline-first without a backend: a local-first PWA architecture you can trust](https://dev.to/crisiscoresystems/offline-first-without-a-backend-a-local-first-pwa-architecture-you-can-trust-3j15)
+- [Introduction to Excel For DATA Analysis](https://dev.to/robert_njuguna/introduction-to-excel-for-data-analysis-2f04)
+- [Introducing Postman Code - Making Agents Better At Integrating APIs](https://dev.to/joshed/introducing-postman-code-making-agents-better-at-integrating-apis-4efo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
