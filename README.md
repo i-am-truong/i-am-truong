@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What would I do without AI?](https://dev.to/mayashavin/what-would-i-do-without-ai-51ik)
-- [How I Built a React Portfolio in 7 Days That Landed ₹1.2L in Freelance Work](https://dev.to/dharanidharan_d_tech/how-i-built-a-react-portfolio-in-7-days-that-landed-12l-in-freelance-work-25b1)
-- [No Screen, No Problem: Turning a &quot;Dead&quot; S10 into a Headless Minecraft Server](https://dev.to/lahiru01/no-screen-no-problem-turning-a-dead-s10-into-a-headless-minecraft-server-3k26)
-- [RAG Made Serverless - Amazon Bedrock Knowledge Base with Spring AI](https://dev.to/yuriybezsonov/rag-made-serverless-amazon-bedrock-knowledge-base-with-spring-ai-2dn9)
-- [How The Tribune Modernized Its Digital Publishing with a Headless CMS](https://dev.to/poojamehta88/how-the-tribune-modernized-its-digital-publishing-with-a-headless-cms-51hi)
+- [High Performance, Low Cost: Building a Professional RAG Chatbot from Scratch](https://dev.to/nebuladata/high-performance-low-cost-building-a-professional-rag-chatbot-from-scratch-1a76)
+- [Parallel &amp; Concurrent Computing](https://dev.to/abhirajadhikary06/parallel-concurrent-computing-42g3)
+- [The Hitchhiker&#39;s Guide to LTS: Key changes when upgrading from Java 8 to Java 11](https://dev.to/pvsdev/the-hitchhikers-guide-to-lts-key-changes-when-upgrading-from-java-8-to-java-11-2gdp)
+- [2026 New Year Keyboard Upgrade](https://dev.to/funkyidol/2026-new-year-keyboard-upgrade-ng3)
+- [Why I built a native macOS app to fight &quot;Configuration Drift&quot;](https://dev.to/mazharul/why-i-built-a-native-macos-app-to-fight-configuration-drift-3h9b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
