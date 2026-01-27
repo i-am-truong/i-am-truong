@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Handling Multiple Data Sources in DeFi Frontend Architecture](https://dev.to/92srdjan/handling-multiple-data-sources-in-defi-frontend-architecture-27kk)
-- [iOS - 3 Line code for Debounce in SwiftUI](https://dev.to/arshtechpro/ios-3-line-code-for-debounce-in-swiftui-4nhh)
-- [Website Builders vs. Web Designers and Developers](https://dev.to/ingosteinke/website-builders-vs-web-designers-and-developers-2ef7)
-- [Vertical text in Jetpack Compose &lpar;without rotation width problems&rpar;](https://dev.to/vladleesi/vertical-text-in-jetpack-compose-without-rotation-width-problems-4n2m)
-- [On the Need for Neutral Maintained Minifier Metrics](https://dev.to/j9t/on-the-need-for-neutral-maintained-minifier-metrics-5715)
+- [Ask-Shell: I built an AI agent that completes multi-step terminal tasks autonomously](https://dev.to/_cc2e072869b5ab5f7f0b9/ask-shell-i-built-an-ai-agent-that-completes-multi-step-terminal-tasks-autonomously-18a3)
+- [Gen‑2 AI UX: Conversations that stay in sync across every device](https://dev.to/ablyblog/gen-2-ai-ux-conversations-that-stay-in-sync-across-every-device-302m)
+- [The Best Code Is Boring — And That’s a Compliment](https://dev.to/sergueyasaelshinder/the-best-code-is-boring-and-thats-a-compliment-3h5l)
+- [How to integrate SonarQube &lpar;SonarCloud&rpar; for free without loosing Control over my Code](https://dev.to/pwurbs/how-to-integrate-sonarqube-sonarcloud-for-free-without-loosing-control-over-my-code-29om)
+- [Stop Solving Solved Problems: How AI Blindspot Detection Accelerates Innovation from Years to Months](https://dev.to/clifford_otieno/stop-solving-solved-problems-how-ai-blindspot-detection-accelerates-innovation-from-years-to-months-ee7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
