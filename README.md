@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The AI Movement is a Parasitic Cancer to the Software Industry](https://dev.to/ironcladdev/the-ai-movement-is-a-parasitic-cancer-to-the-software-industry-3kmd)
-- [Revolution in Voice AI: Natural Conversations with NVIDIA PersonaPlex! - Proje Defteri](https://dev.to/yunusemre/revolution-in-voice-ai-natural-conversations-with-nvidia-personaplex-proje-defteri-3dh9)
-- [The Great AI Shift: Why Building Models is Out, and Real-Time AI Integration is In](https://dev.to/vatsal_a8867b73c89f9f2127/the-great-ai-shift-why-building-models-is-out-and-real-time-ai-integration-is-in-9d)
-- [What’s New in Oracle AI Database 26ai? Exploring 50+ Major New Features](https://dev.to/vahidusefzadeh/whats-new-in-oracle-ai-database-26ai-exploring-50-major-new-features-5cph)
-- [Challenge: Build a TLS Certificate Security Validator](https://dev.to/fosres/challenge-build-a-tls-certificate-security-validator-3acn)
+- [Introducing klag: The Kafka Lag Exporter I Always Wanted.](https://dev.to/themoah/introducing-klag-the-kafka-lag-exporter-i-always-wanted-57dp)
+- [Lyrion Music Server - A Comprehensive Solution for Home Music Listening](https://dev.to/chamachomo/lyrion-music-server-a-comprehensive-solution-for-home-music-listening-5b70)
+- [Why Understanding Beats Memorizing in Programming](https://dev.to/iamsaadmehmood/why-understanding-beats-memorizing-in-programming-4hlg)
+- [Building the Ultimate Local-First Privacy Suite with Rust &amp; Tauri v2](https://dev.to/powergr/building-the-ultimate-local-first-privacy-suite-with-rust-tauri-v2-2eam)
+- [Open Source - Seeking Expert Feedback on React Component Library Updates](https://dev.to/madhavilosettyintel/open-source-seeking-expert-feedback-on-react-component-library-updates-m43)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
