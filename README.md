@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What would I do without AI?](https://dev.to/mayashavin/what-would-i-do-without-ai-51ik)
+- [How I Built a React Portfolio in 7 Days That Landed ₹1.2L in Freelance Work](https://dev.to/dharanidharan_d_tech/how-i-built-a-react-portfolio-in-7-days-that-landed-12l-in-freelance-work-25b1)
+- [No Screen, No Problem: Turning a &quot;Dead&quot; S10 into a Headless Minecraft Server](https://dev.to/lahiru01/no-screen-no-problem-turning-a-dead-s10-into-a-headless-minecraft-server-3k26)
+- [RAG Made Serverless - Amazon Bedrock Knowledge Base with Spring AI](https://dev.to/yuriybezsonov/rag-made-serverless-amazon-bedrock-knowledge-base-with-spring-ai-2dn9)
 - [How The Tribune Modernized Its Digital Publishing with a Headless CMS](https://dev.to/poojamehta88/how-the-tribune-modernized-its-digital-publishing-with-a-headless-cms-51hi)
-- [An “n8n for DevOps” Control Plane - Superplane](https://dev.to/superplane/an-n8n-for-devops-control-plane-superplane-54i4)
-- [How to Choose the Right Anti-Bot + WAF Combination for an E-Commerce Site](https://dev.to/arina_cholee/how-to-choose-the-right-anti-bot-waf-combination-for-an-e-commerce-site-cd5)
-- [Beyond the dashboard: Decoding the APM, RUM, and DEM trinity](https://dev.to/manageengineapm/beyond-the-dashboard-decoding-the-apm-rum-and-dem-trinity-3539)
-- [GitHub Copilot CLI Challenge: &#39;The Linux Compass&#39;](https://dev.to/maame-codes/github-copilot-cli-challenge-the-linux-compass-3j9o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
