@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CLAUDE.md: Lint, Score, Improve &amp; Repeat](https://dev.to/cleverhoods/claudemd-lint-score-improve-repeat-2om5)
-- [Contributing to Ubuntu — Day xyz: When I found the real open source](https://dev.to/geniusmind9999/contributing-to-ubuntu-day-xyz-when-i-found-the-real-open-source-1bph)
-- [Best React Native Component Libraries with Tailwind Support for Fast UI Development in 2026](https://dev.to/ninarao/best-react-native-component-libraries-with-tailwind-support-for-fast-ui-development-in-2026-2fe4)
-- [How ATS Resume Parsers Actually Work &lpar;A Developer&#39;s Perspective&rpar;](https://dev.to/resumefast/how-ats-resume-parsers-actually-work-a-developers-perspective-5bbc)
-- [CI Guardian: Safe Human-in-the-Loop AI CI Remediation](https://dev.to/sreenu_sasubilli_f9289c4e/ci-guardian-safe-human-in-the-loop-ai-ci-remediation-2bj0)
+- [On the Need for Neutral Maintained Minifier Metrics](https://dev.to/j9t/on-the-need-for-neutral-maintained-minifier-metrics-5715)
+- [My 7 Aspirations as a Software Engineer in 2026](https://dev.to/ravgeetdhillon/my-7-aspirations-as-a-software-engineer-in-2026-2fdb)
+- [Dark Mode Screenshots in Docusaurus &lpar;That Actually Switch&rpar;](https://dev.to/omachala/dark-mode-screenshots-in-docusaurus-that-actually-switch-1djm)
+- [How to Deploy to AWS in 2026](https://dev.to/encore/how-to-deploy-to-aws-in-2026-55bn)
+- [I Tested 15 of the Best Documentation Tools - Here’s What Actually Works in 2026](https://dev.to/arobakid/i-tested-15-of-the-best-documentation-tools-heres-what-actually-works-in-2026-ljn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
