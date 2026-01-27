@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Ask-Shell: I built an AI agent that completes multi-step terminal tasks autonomously](https://dev.to/_cc2e072869b5ab5f7f0b9/ask-shell-i-built-an-ai-agent-that-completes-multi-step-terminal-tasks-autonomously-18a3)
-- [Gen‑2 AI UX: Conversations that stay in sync across every device](https://dev.to/ablyblog/gen-2-ai-ux-conversations-that-stay-in-sync-across-every-device-302m)
-- [The Best Code Is Boring — And That’s a Compliment](https://dev.to/sergueyasaelshinder/the-best-code-is-boring-and-thats-a-compliment-3h5l)
-- [How to integrate SonarQube &lpar;SonarCloud&rpar; for free without loosing Control over my Code](https://dev.to/pwurbs/how-to-integrate-sonarqube-sonarcloud-for-free-without-loosing-control-over-my-code-29om)
-- [Stop Solving Solved Problems: How AI Blindspot Detection Accelerates Innovation from Years to Months](https://dev.to/clifford_otieno/stop-solving-solved-problems-how-ai-blindspot-detection-accelerates-innovation-from-years-to-months-ee7)
+- [From Clawdbot to Moltbot: How a C&amp;D, Crypto Scammers, and 10 Seconds of Chaos Took Down the Internet&#39;s Hottest AI Project](https://dev.to/sivarampg/from-clawdbot-to-moltbot-how-a-cd-crypto-scammers-and-10-seconds-of-chaos-took-down-the-4eck)
+- [How we built an AI-first culture at Ably](https://dev.to/ablyblog/how-we-built-an-ai-first-culture-at-ably-3aid)
+- [10 Ways Offshore Teams Help Businesses Expand Internationally](https://dev.to/jugal_joshi_b0c2c253e5374/10-ways-offshore-teams-help-businesses-expand-internationally-2m44)
+- [🚀 New Year, New Me — Launching My Cosmos-Themed Developer Portfolio with Google AI 🌌](https://dev.to/ashish_gupta_0031b3d3e5e6/new-year-new-me-launching-my-cosmos-themed-developer-portfolio-with-google-ai-1mag)
+- [Thinking Declaratively: Why Your React Components Should Be &quot;Mirrors&quot;](https://dev.to/icraftcode/thinking-declaratively-why-your-react-components-should-be-mirrors-4g0d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
