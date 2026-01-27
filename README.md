@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Clawdbot to Moltbot: How a C&amp;D, Crypto Scammers, and 10 Seconds of Chaos Took Down the Internet&#39;s Hottest AI Project](https://dev.to/sivarampg/from-clawdbot-to-moltbot-how-a-cd-crypto-scammers-and-10-seconds-of-chaos-took-down-the-4eck)
-- [How we built an AI-first culture at Ably](https://dev.to/ablyblog/how-we-built-an-ai-first-culture-at-ably-3aid)
-- [10 Ways Offshore Teams Help Businesses Expand Internationally](https://dev.to/jugal_joshi_b0c2c253e5374/10-ways-offshore-teams-help-businesses-expand-internationally-2m44)
-- [🚀 New Year, New Me — Launching My Cosmos-Themed Developer Portfolio with Google AI 🌌](https://dev.to/ashish_gupta_0031b3d3e5e6/new-year-new-me-launching-my-cosmos-themed-developer-portfolio-with-google-ai-1mag)
-- [Thinking Declaratively: Why Your React Components Should Be &quot;Mirrors&quot;](https://dev.to/icraftcode/thinking-declaratively-why-your-react-components-should-be-mirrors-4g0d)
+- [Why I Refused to Pay Auth0 $96,000/Year &lpar;And Built My Own Auth Instead&rpar;](https://dev.to/kohsin/why-i-refused-to-pay-auth0-96000year-and-built-my-own-auth-instead-3nn4)
+- [2025 in Review: AI Agents, Automation, and a Year of Building](https://dev.to/aryanirani123/2025-in-review-ai-agents-automation-and-a-year-of-building-3nc3)
+- [Beyond the Cluster: Rethinking Your Kubernetes Platform Strategy](https://dev.to/mhmxs/beyond-the-cluster-rethinking-your-kubernetes-platform-strategy-54lm)
+- [How to Build Custom Automation Workflows with GPT and n8n &lpar;Step-by-Step&rpar;](https://dev.to/ciphernutz/how-to-build-custom-automation-workflows-with-gpt-and-n8n-step-by-step-397e)
+- [From Side Project to Viral TikTok Challenge - Building Paint Your Partner](https://dev.to/adzhydra/from-side-project-to-viral-tiktok-challenge-building-paint-your-partner-5bd4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
