@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I accidentally contributed to Terraform](https://dev.to/iduoad/i-accidentally-contributed-to-terraform-4j2m)
-- [How to Judge Solutions Like an Engineer](https://dev.to/arturampilogov/how-to-judge-solutions-like-an-engineer-352i)
-- [DynamoDB Workflows: stop rewriting incident scripts &lpar;with DynamoLens&rpar;](https://dev.to/rasjonell/dynamodb-workflows-stop-rewriting-incident-scripts-with-dynamolens-26oe)
-- [SRP — Single Responsibility Principle &lpar;Princípio da Responsabilidade Única&rpar;](https://dev.to/yuripeixinho/srp-single-responsibility-principle-principio-da-responsabilidade-unica-4e1a)
-- [Local Email Testing with Python and Mailpit](https://dev.to/letstalkoss/local-email-testing-with-python-and-mailpit-4cn6)
+- [Mangools SEO Suite Review: The Budget Beast That Punches Above Its Weight &lpar;But Has One Annoying Flaw&rpar;](https://dev.to/ii-x/mangools-seo-suite-review-the-budget-beast-that-punches-above-its-weight-but-has-one-annoying-5cfa)
+- [CURLEE: a new verification-first programming language for AI agents](https://dev.to/w4ffl35/curlee-a-new-verification-first-programming-language-for-ai-agents-2h61)
+- [Fitness Equates to Greatness!](https://dev.to/bibimbop123/fitness-equates-to-greatness-ipp)
+- [Você não é especial: Uma IA te superou](https://dev.to/misterioso013/voce-nao-e-especial-uma-ia-te-superou-f1g)
+- [Engineering Log: Ralph Proactive Scan Findings &lpar;+2 more&rpar;](https://dev.to/igorganapolsky/engineering-log-ralph-proactive-scan-findings-2-more-1148)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
