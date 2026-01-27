@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Você sabe de fato como SSR funciona — e o que ele resolve?](https://dev.to/vinidev/voce-sabe-de-fato-como-ssr-funciona-e-o-que-ele-resolve-den)
+- [How I Teach LLMs to Play BattleTech &lpar;Part 1&rpar;: Architecture, Agents, and Tools](https://dev.to/antonmakarevich/how-i-teach-llms-to-play-battletech-part-1-architecture-agents-and-tools-18om)
 - [Why I Refused to Pay Auth0 $96,000/Year &lpar;And Built My Own Auth Instead&rpar;](https://dev.to/kohsin/why-i-refused-to-pay-auth0-96000year-and-built-my-own-auth-instead-3nn4)
 - [2025 in Review: AI Agents, Automation, and a Year of Building](https://dev.to/aryanirani123/2025-in-review-ai-agents-automation-and-a-year-of-building-3nc3)
 - [Beyond the Cluster: Rethinking Your Kubernetes Platform Strategy](https://dev.to/mhmxs/beyond-the-cluster-rethinking-your-kubernetes-platform-strategy-54lm)
-- [How to Build Custom Automation Workflows with GPT and n8n &lpar;Step-by-Step&rpar;](https://dev.to/ciphernutz/how-to-build-custom-automation-workflows-with-gpt-and-n8n-step-by-step-397e)
-- [From Side Project to Viral TikTok Challenge - Building Paint Your Partner](https://dev.to/adzhydra/from-side-project-to-viral-tiktok-challenge-building-paint-your-partner-5bd4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
