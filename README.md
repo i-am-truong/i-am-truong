@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-e8p)
-- [Music api](https://dev.to/manojsingh00963/music-api-d36)
-- [An introduction to types in Ruby](https://dev.to/nuculabs_dev/an-introduction-to-types-in-ruby-17oe)
-- [Evals for AI Agents](https://dev.to/sunny7899/evals-for-ai-agents-4ipd)
-- [AI UI Without the Hallucinations](https://dev.to/roblevintennis/ai-ui-without-the-hallucinations-jap)
+- [The AI Movement is a Parasitic Cancer to the Software Industry](https://dev.to/ironcladdev/the-ai-movement-is-a-parasitic-cancer-to-the-software-industry-3kmd)
+- [Revolution in Voice AI: Natural Conversations with NVIDIA PersonaPlex! - Proje Defteri](https://dev.to/yunusemre/revolution-in-voice-ai-natural-conversations-with-nvidia-personaplex-proje-defteri-3dh9)
+- [The Great AI Shift: Why Building Models is Out, and Real-Time AI Integration is In](https://dev.to/vatsal_a8867b73c89f9f2127/the-great-ai-shift-why-building-models-is-out-and-real-time-ai-integration-is-in-9d)
+- [What’s New in Oracle AI Database 26ai? Exploring 50+ Major New Features](https://dev.to/vahidusefzadeh/whats-new-in-oracle-ai-database-26ai-exploring-50-major-new-features-5cph)
+- [Challenge: Build a TLS Certificate Security Validator](https://dev.to/fosres/challenge-build-a-tls-certificate-security-validator-3acn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
