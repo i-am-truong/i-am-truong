@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Write Basic MongoDB Queries: Your First MongoDB Lab for Data Sorting and Limiting](https://dev.to/labex/write-basic-mongodb-queries-your-first-mongodb-lab-for-data-sorting-and-limiting-1jg)
-- [What are your goals for the week? 3163 Delayed due to weather.](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-3163-delayed-due-to-weather-42ag)
-- [Offline-first without a backend: a local-first PWA architecture you can trust](https://dev.to/crisiscoresystems/offline-first-without-a-backend-a-local-first-pwa-architecture-you-can-trust-3j15)
-- [Introduction to Excel For DATA Analysis](https://dev.to/robert_njuguna/introduction-to-excel-for-data-analysis-2f04)
-- [Introducing Postman Code - Making Agents Better At Integrating APIs](https://dev.to/joshed/introducing-postman-code-making-agents-better-at-integrating-apis-4efo)
+- [i made buttons that run away from you &lpar;prank projects&rpar;](https://dev.to/iamovi/i-made-buttons-that-run-away-from-you-prank-projects-5ej0)
+- [Git Branching, Pull, Merge, Commit, and Push – Step-by-Step Guide](https://dev.to/100rabhcsmc/git-branching-pull-merge-commit-and-push-step-by-step-guide-nck)
+- [[SUI] Lista jerárquica](https://dev.to/david_goyes_a488f58a17a53/sui-lista-jerarquica-23j)
+- [Day 9: yup we are back, strong as ever.....](https://dev.to/sugunadithya/day-9-yup-we-are-back-strong-as-ever-2c64)
+- [Rethinking Version Control: What If Git Understood Your Intent?](https://dev.to/anvanster/rethinking-version-control-what-if-git-understood-your-intent-40fm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
