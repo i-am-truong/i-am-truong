@@ -120,13 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I built a Tinder-style Card Swipe in Next.js 16](https://dev.to/asterios07/how-i-built-a-tinder-style-card-swipe-in-nextjs-16-592h)
-- [Rust TUI](https://dev.to/nx2991/rust-tui-25h2)
-- [When to Scale Up a Dedicated Team: Signals to Watch](https://dev.to/alona_instandart/when-to-scale-up-a-dedicated-team-signals-to-watch-3dj9)
-- [Your App Isn’t Slow. Your UX Just Feels Slow.](https://dev.to/pixel_mosaic/your-app-isnt-slow-your-ux-just-feels-slow-5532)
-- [I am thrilled to be mentoring the Open House program. This is an incredible opportunity to turn your idea into a real startup with mentorship, support and access to funding.
-
-Registration is open now: https://openhouse.arbitrum.io/](https://dev.to/bengreenberg/i-am-thrilled-to-be-mentoring-the-open-house-program-this-is-an-incredible-opportunity-to-turn-bcp)
+- [I built a curated toolkit of 700+ web dev &amp; design resources &lpar;and it’s finally ready to share&rpar;](https://dev.to/adamgreenough/i-built-a-curated-toolkit-of-700-web-dev-design-resources-and-its-finally-ready-to-share-ga9)
+- [We Are Training Conversational AI Wrong!](https://dev.to/csituma/we-are-training-conversational-ai-wrong-b06)
+- [Transformer Series - Blog #4 How the word &quot;Bank&quot; knows what it means: Self-Attention explained intuitively](https://dev.to/techsorter/transformer-series-blog-4-how-the-word-bank-knows-what-it-means-self-attention-explained-1dmc)
+- [The Kernel&#39;s Blind Spot: Deconstructing the Advanced Techniques of the Singularity Rootkit](https://dev.to/githubopensource/the-kernels-blind-spot-deconstructing-the-advanced-techniques-of-the-singularity-rootkit-4g32)
+- [Aprender programação é difícil. Aprender sozinho é ainda mais.](https://dev.to/renato_silva_71eef0fc385f/aprender-programacao-e-dificil-aprender-sozinho-e-ainda-mais-apm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
