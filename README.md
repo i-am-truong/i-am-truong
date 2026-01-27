@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My tech blogs got deleted. So I engineered an unbannable &quot;Dual-Core&quot; Reader with Next.js &amp; Nostr.](https://dev.to/joey_b2e0652bacd69d5b15b9/my-tech-blogs-got-deleted-so-i-engineered-an-unbannable-dual-core-reader-with-nextjs-nostr-40a8)
-- [Can a Countertop Wine Fridge Fit Your Lifestyle and Budget?](https://dev.to/hemant546/can-a-countertop-wine-fridge-fit-your-lifestyle-and-budget-37he)
-- [Wayland vs X11: 2026 Comparison](https://dev.to/rosgluk/wayland-vs-x11-2026-comparison-5cok)
-- [Modular Architecture Example for Next.js 16](https://dev.to/ramacan/modular-architecture-example-for-nextjs-16-1nln)
-- [Developers: Do you skip meals, forget breaks, or code until 2am? [3-min health survey]](https://dev.to/anirudh_b0c9a24f2a326a549/developers-do-you-skip-meals-forget-breaks-or-code-until-2am-3-min-health-survey-278i)
+- [Why Most Hosting Reviews No Longer Explain Anything](https://dev.to/k_hohlov/why-most-hosting-reviews-no-longer-explain-anything-41ie)
+- [In 2026, the biggest shift in developer workflows won’t be about tools. It will be about where effort is spent.](https://dev.to/jaideepparashar/in-2026-the-biggest-shift-in-developer-workflows-wont-be-about-tools-it-will-be-about-where-3m9m)
+- [Workflow for Developers in 2026: Coding Less, Thinking More](https://dev.to/jaideepparashar/workflow-for-developers-in-2026-coding-less-thinking-more-1i9o)
+- [I Built a Solana Waitlist for a Fake $10k Bounty - Here&#39;s the Open Source Code](https://dev.to/sivarampg/i-built-a-solana-waitlist-for-a-fake-10k-bounty-heres-the-open-source-code-e78)
+- [Why QA Fails Without Fragmentation &lpar;and How Fragmentation Protects Systems&rpar;](https://dev.to/qajourney/why-qa-fails-without-fragmentation-and-how-fragmentation-protects-systems-1fn0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
