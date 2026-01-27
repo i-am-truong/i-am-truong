@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Earth WebGL Demo](https://dev.to/__61b6f1498d422b74/earth-webgl-demo-1g48)
-- [CVE-2026-24473: The Infinite Fallback: How Hono Leaked Your Cloudflare KV Keys](https://dev.to/cverports/cve-2026-24473-the-infinite-fallback-how-hono-leaked-your-cloudflare-kv-keys-284b)
-- [I Didn&#39;t Like Other Workout Tracking Apps, So I Built My Own.](https://dev.to/magnificode/building-opentrainer-real-time-workout-tracking-with-convex-and-nextjs-59h4)
-- [Decision Latency Is the Real Risk in Projects](https://dev.to/ben_webb_projectmanager/decision-latency-is-the-real-risk-in-projects-122k)
-- [threejs-shaders_ sphere-gears-shaders](https://dev.to/delafuentej/threejs-shaders-sphere-gears-shaders-1209)
+- [PicoServer - Lightweight Cross-Platform Web Request Glue Library](https://dev.to/ben23/picoserver-lightweight-cross-platform-web-request-glue-library-1doh)
+- [HTTP status codes](https://dev.to/bbylumi/http-status-codes-4j37)
+- [Why Neural Networks Need He Init, Clipping, and Momentum](https://dev.to/sbondaryev/why-neural-networks-need-he-init-clipping-and-momentum-4e80)
+- [AI Trading: Day 88 - 4 Lessons Learned &lpar;January 24, 2026&rpar;](https://dev.to/igorganapolsky/ai-trading-day-88-4-lessons-learned-january-24-2026-3gnp)
+- [Javascript / JSON,](https://dev.to/devon1971/javascript-json-2k90)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
