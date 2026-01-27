@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Most Hosting Reviews No Longer Explain Anything](https://dev.to/k_hohlov/why-most-hosting-reviews-no-longer-explain-anything-41ie)
-- [In 2026, the biggest shift in developer workflows won’t be about tools. It will be about where effort is spent.](https://dev.to/jaideepparashar/in-2026-the-biggest-shift-in-developer-workflows-wont-be-about-tools-it-will-be-about-where-3m9m)
-- [Workflow for Developers in 2026: Coding Less, Thinking More](https://dev.to/jaideepparashar/workflow-for-developers-in-2026-coding-less-thinking-more-1i9o)
-- [I Built a Solana Waitlist for a Fake $10k Bounty - Here&#39;s the Open Source Code](https://dev.to/sivarampg/i-built-a-solana-waitlist-for-a-fake-10k-bounty-heres-the-open-source-code-e78)
-- [Why QA Fails Without Fragmentation &lpar;and How Fragmentation Protects Systems&rpar;](https://dev.to/qajourney/why-qa-fails-without-fragmentation-and-how-fragmentation-protects-systems-1fn0)
+- [Is PHP Still a Valuable Programming Language in 2026?](https://dev.to/arafatweb/is-php-still-a-valuable-programming-language-in-2026-3449)
+- [I built a free online Mermaid diagram editor with storage/sharing](https://dev.to/platformlab/i-built-a-free-online-mermaid-diagram-editor-with-storagesharing-3g1o)
+- [The Secret Life of Go: JSON and Tags](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-json-and-tags-4h9m)
+- [The File That Sits Between package.json and README.md](https://dev.to/wolfejam/the-file-that-sits-between-packagejson-and-readmemd-48gk)
+- [Cybersecurity Best Practices for Developers: A Practical Guide with Code Examples](https://dev.to/avsecdongol/cybersecurity-best-practices-for-developers-a-practical-guide-with-code-examples-5ej2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
