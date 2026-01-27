@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With Sisu In 13 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sisu-in-13-minutes-or-less-5b8f)
-- [🔴 Live: Kilo Code on Product Hunt](https://dev.to/fmerian/live-kilo-code-on-product-hunt-ee8)
-- [The Agentic AI Maturity Gap: Orchestration + Observability + Auditability = Governance](https://dev.to/talweezy/the-agentic-ai-maturity-gap-orchestration-observability-auditability-governance-19op)
-- [PropFlow: A VSCode Extension to Visualize React Prop Drilling](https://dev.to/rutpshah88/propflow-a-vscode-extension-to-visualize-react-prop-drilling-19dj)
-- [LLMs - A New Test to Force Hallucination](https://dev.to/ben-santora/llms-a-test-to-force-hallucination-2okj)
+- [Configure a semantic model in Power BI](https://dev.to/rahimah_dev/configure-a-semantic-model-in-power-bi-5735)
+- [[SUI] Acciones de &quot;Swipe&quot;](https://dev.to/david_goyes_a488f58a17a53/sui-acciones-de-swipe-d3)
+- [𝐃𝐞𝐩𝐥𝐨𝐲𝐢𝐧𝐠 𝐂𝐨𝐧𝐭𝐚𝐢𝐧𝐞𝐫𝐬 𝐨𝐧 𝐀𝐖𝐒 𝐂𝐚𝐧 𝐅𝐞𝐞𝐥 𝐎𝐯𝐞𝐫𝐰𝐡𝐞𝐥𝐦𝐢𝐧𝐠 — 𝐇𝐞𝐫𝐞’𝐬 𝐚 𝐂𝐥𝐞𝐚𝐫 𝐏𝐚𝐭𝐡 𝐅𝐨𝐫𝐰𝐚𝐫𝐝](https://dev.to/jozcar/--43k0)
+- [Why Deploying AI Agents on AWS Is So Hard &lpar;when it shouldn&#39;t be&rpar;](https://dev.to/basilfateen/why-deploying-ai-agents-on-aws-is-so-hard-when-it-shouldnt-be-52g7)
+- [Getting started with cURL &lpar;as a beginner!!&rpar;](https://dev.to/rahul_kumarparida_6c16f5/getting-started-with-curl-as-a-beginner-1pj7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
