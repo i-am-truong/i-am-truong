@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Forged in Westeros : A Developer Portfolio](https://dev.to/ak_deepankar/forged-in-westeros-a-developer-portfolio-3e28)
-- [Spring CRUD Generator: a YAML/JSON-driven Spring Boot backend generator &lpar;version update + stability improvements&rpar;](https://dev.to/mzivkovicdev/spring-crud-generator-a-yamljson-driven-spring-boot-backend-generator-version-update-stability-4mff)
-- [I Built a PDF Tool Because I Didn’t Trust PDF Tools](https://dev.to/pranav_mailarpawar_7039f2/i-built-a-pdf-tool-because-i-didnt-trust-pdf-tools-43gm)
-- [Pourquoi j&#39;ai créé un projet pour apprendre GitLab CI/CD &lpar;et pourquoi la doc ne suffit pas&rpar;](https://dev.to/loiconlyone/pourquoi-jai-cree-un-projet-pour-apprendre-gitlab-cicd-et-pourquoi-la-doc-ne-suffit-pas-489h)
-- [GitHub Copilot CLI: A DevOps Engineer&#39;s Practical Guide to AI-Powered Terminal Automation](https://dev.to/pwd9000/github-copilot-cli-a-devops-engineers-practical-guide-to-ai-powered-terminal-automation-1jh0)
+- [Ethereum-Solidity Quiz Q26: How is the base fee&lpar;used in calculating the total gas fee&rpar; calculated by Ethereum?](https://dev.to/mihaihng/ethereum-solidity-quiz-q26-how-is-the-base-feeused-in-calculating-the-total-gas-fee-calculated-2caf)
+- [Why My Real Work Starts on Friday Evening: From Classroom Theory to AWS Sandbox](https://dev.to/alifunk/why-my-real-work-starts-on-friday-evening-from-classroom-theory-to-aws-sandbox-3n5o)
+- [GO-SQLite@v0.2.0: SQLite client with chained method calls](https://dev.to/pardnchiu/go-sqlitev020-sqlite-client-with-chained-method-calls-4ipn)
+- [My Portfolio — Built with Antigravity, Gemini CLI and Google Cloud Run](https://dev.to/prayagtushar/my-portfolio-built-with-gemini-google-cloud-run-3ggg)
+- [Why I built a Apache Kafka Explorer that doesn&#39;t need Docker or Java?](https://dev.to/faruquebraimo/why-i-built-a-apache-kafka-explorer-that-doesnt-need-docker-or-java-2pl3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
