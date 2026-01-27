@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Introducing klag: The Kafka Lag Exporter I Always Wanted.](https://dev.to/themoah/introducing-klag-the-kafka-lag-exporter-i-always-wanted-57dp)
-- [Lyrion Music Server - A Comprehensive Solution for Home Music Listening](https://dev.to/chamachomo/lyrion-music-server-a-comprehensive-solution-for-home-music-listening-5b70)
-- [Why Understanding Beats Memorizing in Programming](https://dev.to/iamsaadmehmood/why-understanding-beats-memorizing-in-programming-4hlg)
-- [Building the Ultimate Local-First Privacy Suite with Rust &amp; Tauri v2](https://dev.to/powergr/building-the-ultimate-local-first-privacy-suite-with-rust-tauri-v2-2eam)
-- [Open Source - Seeking Expert Feedback on React Component Library Updates](https://dev.to/madhavilosettyintel/open-source-seeking-expert-feedback-on-react-component-library-updates-m43)
+- [What a 60-second war-room scan reveals](https://dev.to/shamsher_khan/what-a-60-second-war-room-scan-reveals-352i)
+- [burnout in learning](https://dev.to/fern_d3v/burnout-in-learning-4fb6)
+- [I Reviewed Full-Stack Job Postings for 2026. Here is what they are looking for!💼](https://dev.to/francistrdev/i-reviewed-full-stack-job-postings-for-2026-here-is-what-they-are-looking-for-49ie)
+- [Building a Lightweight Portfolio That Scales: Pure CSS, Three.js, Docker, Cloud Run](https://dev.to/wojakgra/building-a-lightweight-portfolio-that-scales-pure-css-threejs-docker-cloud-run-444b)
+- [Kubernetes Deep Dive: OCI Runtime vs CRI](https://dev.to/kanywst/kubernetes-deep-dive-oci-runtime-vs-cri-4o2n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
