@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What a 60-second war-room scan reveals](https://dev.to/shamsher_khan/what-a-60-second-war-room-scan-reveals-352i)
-- [burnout in learning](https://dev.to/fern_d3v/burnout-in-learning-4fb6)
-- [I Reviewed Full-Stack Job Postings for 2026. Here is what they are looking for!💼](https://dev.to/francistrdev/i-reviewed-full-stack-job-postings-for-2026-here-is-what-they-are-looking-for-49ie)
-- [Building a Lightweight Portfolio That Scales: Pure CSS, Three.js, Docker, Cloud Run](https://dev.to/wojakgra/building-a-lightweight-portfolio-that-scales-pure-css-threejs-docker-cloud-run-444b)
-- [Kubernetes Deep Dive: OCI Runtime vs CRI](https://dev.to/kanywst/kubernetes-deep-dive-oci-runtime-vs-cri-4o2n)
+- [💼 Freelance Rate Negotiation Coach - AI-Powered Salary Intelligence](https://dev.to/asamaes/freelance-rate-negotiation-coach-ai-powered-salary-intelligence-3kn2)
+- [ℹ️ INFO Ralph Proactive Scan Findings &lpar;+2 more&rpar;](https://dev.to/igorganapolsky/info-ralph-proactive-scan-findings-2-more-1ic9)
+- [CVE-2025-59471: Next.js Image Optimizer: The 4GB Hello World](https://dev.to/cverports/cve-2025-59471-nextjs-image-optimizer-the-4gb-hello-world-5c09)
+- [🟠 HIGH LL-298: Invalid Option Strikes Caus &lpar;+2 more&rpar;](https://dev.to/igorganapolsky/high-ll-298-invalid-option-strikes-caus-2-more-12ki)
+- [Stop Calling Everything &quot;Security&quot;: Why Your &quot;Expert&quot; Doesn&#39;t Know What They&#39;re Talking About](https://dev.to/anderson_leite/stop-calling-everything-security-why-your-expert-doesnt-know-what-theyre-talking-about-1i4f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
