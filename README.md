@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CVE-2026-24473: The Infinite Fallback: How Hono Leaked Your Cloudflare KV Keys](https://dev.to/cverports/cve-2026-24473-the-infinite-fallback-how-hono-leaked-your-cloudflare-kv-keys-284b)
+- [I Didn&#39;t Like Other Workout Tracking Apps, So I Built My Own.](https://dev.to/magnificode/building-opentrainer-real-time-workout-tracking-with-convex-and-nextjs-59h4)
 - [Decision Latency Is the Real Risk in Projects](https://dev.to/ben_webb_projectmanager/decision-latency-is-the-real-risk-in-projects-122k)
 - [threejs-shaders_ sphere-gears-shaders](https://dev.to/delafuentej/threejs-shaders-sphere-gears-shaders-1209)
 - [I built a client-side tax filer with React &lpar;No Database&rpar;](https://dev.to/chris_lee_5e58cce05f5d01d/i-built-a-client-side-tax-filer-with-react-no-database-1jca)
-- [CloudNativePG - install &lpar;2.18&rpar; and first test: transient failure](https://dev.to/franckpachot/cloudnativepg-install-218-and-first-test-transient-failure-4ml)
-- [💼 Freelance Rate Negotiation Coach - AI-Powered Salary Intelligence](https://dev.to/asamaes/freelance-rate-negotiation-coach-ai-powered-salary-intelligence-3kn2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
