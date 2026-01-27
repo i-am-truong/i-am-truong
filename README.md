@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Solved: Surveiller le cloud &lpar;GCP, AWS&rpar; avec Centreon? ou AlertManager?](https://dev.to/techresolve/solved-surveiller-le-cloud-gcp-aws-avec-centreon-ou-alertmanager-5ddn)
-- [Solved: Please stop recommending ChatGPT for logo design.](https://dev.to/techresolve/solved-please-stop-recommending-chatgpt-for-logo-design-5beg)
-- [MCP Server: Talk to Your Architecture from Your Favorite AI Tools](https://dev.to/eko/mcp-server-talk-to-your-architecture-from-your-favorite-ai-tools-4o86)
-- [Building a Nim library: Monika](https://dev.to/aranadedoros/building-a-nim-library-monika-5hmb)
-- [Crumbling Promises of a Safer Humanity](https://dev.to/irshad_ahmed/crumbling-promises-of-a-safer-humanity-3kgo)
+- [Why Women-Only AI Hackathons Still Exist &lpar;And Why They Shouldn&#39;t Have To&rpar;](https://dev.to/w4vb/why-women-only-ai-hackathons-still-exist-and-why-they-shouldnt-have-to-1ekg)
+- [Kotlin as a Teaching Language: From Object-Oriented Concepts to Modern Software Design](https://dev.to/matheuslf/kotlin-as-a-teaching-language-from-object-oriented-concepts-to-modern-software-design-13ii)
+- [I just created my first website and i am so happy!](https://dev.to/christian_blank_5c97a9bae/i-just-created-my-first-website-and-i-am-so-happy-4aj)
+- [Fetching and Storing CVE Data from NVD API using Python](https://dev.to/gug_31c7ba64d1c563490bc42/fetching-and-storing-cve-data-from-nvd-api-using-python-4dog)
+- [FileShot.io: Secure File Sharing with Zero-Knowledge Encryption](https://dev.to/fileshot_9818357dbe6cc693/fileshotio-secure-file-sharing-with-zero-knowledge-encryption-59jm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
