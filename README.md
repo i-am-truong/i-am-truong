@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Four golden signals of SRE, R.E.D &amp; U.S.E Metrics](https://dev.to/rashmitha_5c6495b0/four-golden-signals-of-sre-red-use-metrics-1k7d)
-- [Smart Habit Tracker with Copilot CLI](https://dev.to/nhatduongagilityio/smart-habit-tracker-with-copilot-cli-lc5)
-- [POJO-actor Tutorial Part 2-3: Improving the Workflow API — Introducing the @Action Annotation](https://dev.to/devteam2512/pojo-actor-tutorial-part-2-3-improving-the-workflow-api-introducing-the-action-annotation-pe)
-- [From KET Learning App to PDF2Markdown: My 2nd Solo Project is Live!](https://dev.to/yue_0c8960354aeb131b9f860/from-ket-learning-app-to-pdf2markdown-my-2nd-solo-project-is-live-529l)
-- [Why Using a Vision API Felt Too Easy &lpar;and Why That Confused Me&rpar;](https://dev.to/dev-in-progress/why-using-a-vision-api-felt-too-easy-and-why-that-confused-me-23df)
+- [I genuinely meant it when I said I was done. I even had that rare, fragile sense of closure. Then I noticed one small thing, which led to another, and somehow became a full pass of “minor” edits. I failed at stopping, but this time I really did. 🚧🚦](https://dev.to/anchildress1/i-genuinely-meant-it-when-i-said-i-was-done-i-even-had-that-rare-fragile-sense-of-closure-then-i-1cna)
+- [AlphaArena AI Model Battle: A Hands-On Guide to Replicating DeepSeek&#39;s Leading AI Quantitative Trading System](https://dev.to/quant001/alphaarena-ai-model-battle-a-hands-on-guide-to-replicating-deepseeks-leading-ai-quantitative-2dpe)
+- [Building a Self-Hosted AI Agent with Real System Access](https://dev.to/aivideotool/building-a-self-hosted-ai-agent-with-real-system-access-586f)
+- [Peter Finch Golf: I Was Wrong About Giant Golf Grips...](https://dev.to/youtube_golf/peter-finch-golf-i-was-wrong-about-giant-golf-grips-4k97)
+- [20+ Best Shadcn UI Blocks for Building Real Products Faster](https://dev.to/vaibhavg/best-shadcn-ui-blocks-for-building-real-products-faster-4ll8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
