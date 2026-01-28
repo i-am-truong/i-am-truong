@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [pam - a minimal SQL client for the CLI &lpar;dbeaver terminalized!&rpar;](https://dev.to/eduardofuncao/pam-a-minimal-sql-client-for-the-cli-dbeaver-terminalized-1fib)
-- [A Procedurally Generated GitHub CLI Roguelike Where Every Dungeon Is Built from Your Code](https://dev.to/leereilly/a-procedurally-generated-github-cli-roguelike-where-every-dungeon-is-built-from-your-code-1ef)
-- [Visualizing Real-Time-Ish GitHub Activity on a Rotating ASCII Globe in the Terminal](https://dev.to/leereilly/visualizing-real-time-ish-github-activity-on-a-rotating-ascii-globe-in-the-terminal-ana)
-- [GitHub Changelog, Now in Your Terminal &lpar;Built with Copilot CLI&rpar;](https://dev.to/leereilly/github-changelog-now-in-your-terminal-built-with-copilot-cli-4fn7)
-- [Networking devices 000](https://dev.to/ppc/networking-devices-000-3jb)
+- [Kafka Guarantees Delivery, Not Uniqueness: How to Build Idempotent Systems](https://dev.to/naresh_007/kafka-guarantees-delivery-not-uniqueness-how-to-build-idempotent-systems-1j6d)
+- [Creating a Chatbot that actually Stands Out! &lpar;vibe coded version&rpar;🦖](https://dev.to/rohan_sharma/creating-a-chatbot-that-actually-stands-out-vibe-coded-version-2ffc)
+- [/export: Get Receipts for Every AI Conversation](https://dev.to/rajeshroyal/export-get-receipts-for-every-ai-conversation-57ni)
+- [How Changing My Thinking Transformed My Interview Problem‑Solving](https://dev.to/dharshini_0101/how-thinking-changed-my-interview-problem-solving-1ign)
+- [Node Exporter Deep Dive: Connecting the Linux Kernel and Prometheus](https://dev.to/kanywst/node-exporter-deep-dive-connecting-the-linux-kernel-and-prometheus-5c6i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
