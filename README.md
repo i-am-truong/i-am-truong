@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GA4 101: ทำไม Developer ถึงต้องเข้าใจ Google Analytics 4 &lpar;Data Model ที่เปลี่ยนไป?&rpar;](https://dev.to/sonnavigator/ga4-101-thamaim-developer-thuengtngekhaaaicch-google-analytics-4-data-model-thiiepliiynaip-3kn3)
+- [Anaconda vs Miniconda vs Mamba Guide](https://dev.to/rosgluk/anaconda-vs-miniconda-vs-mamba-guide-4pae)
+- [How to Implement OTP Authentication in Node.js: A Complete Guide for Secure User Verification](https://dev.to/raza_engage/how-to-implement-otp-authentication-in-nodejs-a-complete-guide-for-secure-user-verification-3l40)
 - [About Wizards &amp; Warlocks, Programmers &amp; Vibe Coders](https://dev.to/manuartero/about-wizards-warlocks-programmers-vibe-coders-4p6n)
 - [CVE-2026-22817: Identity Theft on the Edge: Exploiting JWT Algorithm Confusion in Hono](https://dev.to/cverports/cve-2026-22817-identity-theft-on-the-edge-exploiting-jwt-algorithm-confusion-in-hono-5an9)
-- [CVE-2026-22785: Orval Overload: From OpenAPI Spec to Remote Code Execution](https://dev.to/cverports/cve-2026-22785-orval-overload-from-openapi-spec-to-remote-code-execution-2db6)
-- [👋 Hey Dev!](https://dev.to/iammuhammadarslan/hey-dev-49ii)
-- [Solved: How did you discover your last profitable startup?](https://dev.to/techresolve/solved-how-did-you-discover-your-last-profitable-startup-dbh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
