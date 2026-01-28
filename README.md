@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [pam - a minimal SQL client for the CLI &lpar;dbeaver terminalized!&rpar;](https://dev.to/eduardofuncao/pam-a-minimal-sql-client-for-the-cli-dbeaver-terminalized-1fib)
 - [A Procedurally Generated GitHub CLI Roguelike Where Every Dungeon Is Built from Your Code](https://dev.to/leereilly/a-procedurally-generated-github-cli-roguelike-where-every-dungeon-is-built-from-your-code-1ef)
 - [Visualizing Real-Time-Ish GitHub Activity on a Rotating ASCII Globe in the Terminal](https://dev.to/leereilly/visualizing-real-time-ish-github-activity-on-a-rotating-ascii-globe-in-the-terminal-ana)
 - [GitHub Changelog, Now in Your Terminal &lpar;Built with Copilot CLI&rpar;](https://dev.to/leereilly/github-changelog-now-in-your-terminal-built-with-copilot-cli-4fn7)
 - [Networking devices 000](https://dev.to/ppc/networking-devices-000-3jb)
-- [Codebase Guide: AI Mentor for Multi-Repo Onboarding](https://dev.to/keerthana_696356/codebase-guide-ai-mentor-for-multi-repo-onboarding-jp8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
