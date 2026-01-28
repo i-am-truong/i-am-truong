@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CI/CD и GitHub Actions: workflow, secrets, тесты и деплой на практике &lpar;Node.js, Python, Docker&rpar;](https://dev.to/_vproger_/cicd-i-github-actions-workflow-secrets-tiesty-i-dieploi-na-praktikie-nodejs-python-docker-ibp)
-- [Title и Open Graph без SEO-магии: как корректно оформлять страницы под Google и Яндекс](https://dev.to/_vproger_/title-i-open-graph-biez-seo-maghii-kak-korriektno-oformliat-stranitsy-pod-google-i-iandieks-34a)
-- [Linux-команды для работы с файлами и поиском: Ubuntu, CentOS и практические примеры для Bitrix, Laravel и WordPress](https://dev.to/_vproger_/linux-komandy-dlia-raboty-s-failami-i-poiskom-ubuntu-centos-i-praktichieskiie-primiery-dlia-bitrix-210k)
-- [IT в 2026: когда хайп заканчивается и начинается инженерия](https://dev.to/_vproger_/it-v-2026-koghda-khaip-zakanchivaietsia-i-nachinaietsia-inzhienieriia-502n)
-- [С наступающим Новым годом и Рождеством! Итоги года глазами IT-инженера](https://dev.to/_vproger_/s-nastupaiushchim-novym-ghodom-i-rozhdiestvom-itoghi-ghoda-ghlazami-it-inzhieniera-34ea)
+- [Speed Comes From Understanding, Not Typing Faster](https://dev.to/sergueyasaelshinder/speed-comes-from-understanding-not-typing-faster-51eo)
+- [Build Your AI Analyst and Start Having Conversations with Your Structured Data](https://dev.to/simplewbs/build-your-ai-analyst-and-start-having-conversations-with-your-structured-data-547j)
+- [Running Text-to-Speech Fully in the Browser with PocketTTS](https://dev.to/soasme/running-text-to-speech-fully-in-the-browser-with-pockettts-2b0m)
+- [Building a Voice-Enabled AI Coach with Real Esports Data](https://dev.to/hulyamasharipov/building-a-voice-enabled-ai-coach-with-real-esports-data-al4)
+- [App Store Screenshots That Convert: The 2026 Design Guide](https://dev.to/appscreenshotstudio/app-store-screenshots-that-convert-the-2026-design-guide-1d94)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
