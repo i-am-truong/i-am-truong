@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Your React App Feels Slow: Fixing Performance with Web Workers](https://dev.to/pockit_tools/why-your-react-app-feels-slow-fixing-performance-with-web-workers-439h)
-- [Understanding Recursion using the Fibonacci Sequence with Ruby](https://dev.to/ben1010/understanding-recursion-using-the-fibonacci-sequence-with-ruby-56m3)
-- [Computer Structure](https://dev.to/jonghwayoo03_dev/computer-structure-f4f)
-- [Linux CLI for extracting archives inside a bubblewrap sandbox &lpar;alpha&rpar;](https://dev.to/chechelpo/linux-cli-for-extracting-archives-inside-a-bubblewrap-sandbox-alpha-20gp)
-- [Welcome Thread - v362](https://dev.to/devteam/welcome-thread-v362-il4)
+- [Flutter Build Failed: Android NDK Clang Could Not Be Found &lpar;Fix&rpar;](https://dev.to/rohitkumarr77/flutter-build-failed-android-ndk-clang-could-not-be-found-fix-26e7)
+- [Realistic Fabric Wrinkles in Real-Time: Building Displacement Maps with Fabric.js](https://dev.to/javedblch/realistic-fabric-wrinkles-in-real-time-building-displacement-maps-with-fabricjs-nch)
+- [Complete Guide to Setting Up Demucs Locally for AI Stem Separation](https://dev.to/stevecase430/complete-guide-to-setting-up-demucs-locally-for-ai-stem-separation-580h)
+- [Learning Docker DAY1](https://dev.to/shantanuspace/learning-docker-day1-5dh7)
+- [It Wasn’t My Code: How Render’s Free Tier Broke My Email System](https://dev.to/abhijeet_tapsale_4c00978e/it-wasnt-my-code-how-renders-free-tier-broke-my-email-system-1mgh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
