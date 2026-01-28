@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Bookmarklet to Copy Codex Assistant Replies and PR Messages to Your Clipboard](https://dev.to/vast-cow/a-bookmarklet-to-copy-codex-assistant-replies-and-pr-messages-to-your-clipboard-ibh)
-- [MVVM Beyond the Buzzword: A Practical Guide](https://dev.to/konstantin_shkurko/mvvm-beyond-the-buzzword-a-practical-guide-4pg7)
-- [How to solve the problem that the Scroll component cannot set an element to always be fixed in the first place](https://dev.to/harmonyos/how-to-solve-the-problem-that-the-scroll-component-cannot-set-an-element-to-always-be-fixed-in-the-1134)
-- [Solved: re:Invent is nearly done, what do you think was the biggest announcements made?](https://dev.to/techresolve/solved-reinvent-is-nearly-done-what-do-you-think-was-the-biggest-announcements-made-154p)
-- [Single Number III Coding Problem Explained](https://dev.to/stack_overflowed/single-number-iii-coding-problem-explained-c7g)
+- [90% of AI Pilots Die in the Lab. Here is the Blueprint to Save Yours.](https://dev.to/yaseen_tech/90-of-ai-pilots-die-in-the-lab-here-is-the-blueprint-to-save-yours-1gg4)
+- [Laravel Telegram Cleanup: Auto-Delete Your Telegram Bot Messages](https://dev.to/rud99/laravel-telegram-cleanup-auto-delete-your-telegram-bot-messages-4hn2)
+- [How Failing in 2 Hours Saved 8 Months of Drug R&amp;D: Engineering a &quot;Truthful Null&quot; with Upadacitinib](https://dev.to/flamehaven01/how-failing-in-2-hours-saved-8-months-of-drug-rd-engineering-a-truthful-null-with-upadacitinib-31)
+- [The &quot;Glue Work&quot; Trap: Why Your Best Engineer Looks Like Your Worst Performer](https://dev.to/luciench/the-glue-work-trap-why-your-best-engineer-looks-like-your-worst-performer-58jf)
+- [How to Use Gemini 2.5 Flash in Apps Script with Vertex AI](https://dev.to/googleworkspace/how-to-use-gemini-25-flash-in-apps-script-with-vertex-ai-1bfl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
