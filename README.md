@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Clean Architecture in .NET 10: The Setup &lpar;And When It&#39;s Overkill&rpar;](https://dev.to/spanntechwizard/clean-architecture-in-net-10-the-setup-and-when-its-overkill-128c)
-- [Computed signals in Angular&lpar;v21&rpar;](https://dev.to/pckalyan/computed-signals-in-angularv21-1bhg)
-- [What is Molt Bot &lpar;ClawdBot&rpar;? Meet Your Personal AI Assistant – Proje Defteri](https://dev.to/projedefteri/what-is-molt-bot-clawdbot-meet-your-personal-ai-assistant-proje-defteri-8e6)
-- [Managing Unreliable Compilers](https://dev.to/derekcheng/managing-unreliable-compilers-5ah1)
-- [THE REASONS FOR A TECHNICAL WRITER](https://dev.to/techystarr-/the-reasons-for-a-technical-writer-4a5n)
+- [A Procedurally Generated GitHub CLI Roguelike Where Every Dungeon Is Built from Your Code](https://dev.to/leereilly/a-procedurally-generated-github-cli-roguelike-where-every-dungeon-is-built-from-your-code-1ef)
+- [Visualizing Real-Time-Ish GitHub Activity on a Rotating ASCII Globe in the Terminal](https://dev.to/leereilly/visualizing-real-time-ish-github-activity-on-a-rotating-ascii-globe-in-the-terminal-ana)
+- [GitHub Changelog, Now in Your Terminal &lpar;Built with Copilot CLI&rpar;](https://dev.to/leereilly/github-changelog-now-in-your-terminal-built-with-copilot-cli-4fn7)
+- [Networking devices 000](https://dev.to/ppc/networking-devices-000-3jb)
+- [Codebase Guide: AI Mentor for Multi-Repo Onboarding](https://dev.to/keerthana_696356/codebase-guide-ai-mentor-for-multi-repo-onboarding-jp8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
