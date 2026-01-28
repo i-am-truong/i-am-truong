@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [It&#39;s 2026. Why Are Teams Still Playing Planning Poker? ♣️](https://dev.to/mattlewandowski93/its-2026-why-are-teams-still-playing-planning-poker-29gn)
+- [With Bitrise slashing their retention period for artifacts again, Buildstash is an alternative for unlimited retention](https://dev.to/r0bbie/with-bitrise-slashing-their-retention-period-for-artifacts-again-is-buildstash-the-alternative-47hg)
+- [Clean Code: Otimizando a Comparação de Listas no C#](https://dev.to/sk9g3/clean-code-otimizando-a-comparacao-de-listas-no-c-5721)
 - [Indeterminate Is Not a Value](https://dev.to/bwi/indeterminate-is-not-a-value-1omd)
 - [Why Checkboxes Are Not as Simple as They Seem](https://dev.to/bwi/why-checkboxes-are-not-as-simple-as-they-seem-3jhf)
-- [Meta Mosaic: A Lightweight, Interactive Mosaic Layout for React](https://dev.to/arbaj_ansari_120ccadf7f67/meta-mosaic-a-lightweight-interactive-mosaic-layout-for-react-3471)
-- [Contributing to RubyGems &lpar;.org&rpar;](https://dev.to/cseeman/contributing-to-rubygems-org-5dpi)
-- [GitHub Actions Has a Cleanup Problem — So I Built a Tool](https://dev.to/aakashio/github-actions-has-a-cleanup-problem-so-i-built-a-tool-46hh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
