@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Linter That Yells](https://dev.to/nicolas_vbgh/the-linter-that-yells-231h)
+- [Building Connected Agents with MCP and A2A](https://dev.to/googleai/building-connected-agents-with-mcp-and-a2a-47b6)
+- [Stop Parsing JSON: The Vercel AI SDK’s &quot;AI Protocol&quot; is Revolutionizing Generative UI](https://dev.to/programmingcentral/stop-parsing-json-the-vercel-ai-sdks-ai-protocol-is-revolutionizing-generative-ui-40k1)
 - [Understanding HTML Tags and Elements](https://dev.to/priyanshu_verma/understanding-html-tags-and-elements-4dip)
 - [Claude Code Tutorial for Beginners 2026: From Installation to Building Your First Project](https://dev.to/ayyazzafar/claude-code-tutorial-for-beginners-2026-from-installation-to-building-your-first-project-1lma)
-- [TCP Working: 3-Way Handshake &amp; Reliable Communication](https://dev.to/hiral/tcp-working-3-way-handshake-reliable-communication-365p)
-- [Exploring the Softmax Function &lpar;Part 2&rpar;: Formula, Derivatives, and Why Argmax Fails in Backpropagation](https://dev.to/rijultp/exploring-the-softmax-function-part-2-formula-derivatives-and-why-argmax-fails-in-262g)
-- [Agent Orchestration, Multi-Model Setups, 1M Context Window - It&#39;s Marketing for Those Who Haven&#39;t Tried](https://dev.to/rmarinsky/agent-orchestration-multi-model-setups-1m-context-window-its-marketing-for-those-who-havent-5c58)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
