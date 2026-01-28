@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I genuinely meant it when I said I was done. I even had that rare, fragile sense of closure. Then I noticed one small thing, which led to another, and somehow became a full pass of “minor” edits. I failed at stopping, but this time I really did. 🚧🚦](https://dev.to/anchildress1/i-genuinely-meant-it-when-i-said-i-was-done-i-even-had-that-rare-fragile-sense-of-closure-then-i-1cna)
-- [AlphaArena AI Model Battle: A Hands-On Guide to Replicating DeepSeek&#39;s Leading AI Quantitative Trading System](https://dev.to/quant001/alphaarena-ai-model-battle-a-hands-on-guide-to-replicating-deepseeks-leading-ai-quantitative-2dpe)
-- [Building a Self-Hosted AI Agent with Real System Access](https://dev.to/aivideotool/building-a-self-hosted-ai-agent-with-real-system-access-586f)
-- [Peter Finch Golf: I Was Wrong About Giant Golf Grips...](https://dev.to/youtube_golf/peter-finch-golf-i-was-wrong-about-giant-golf-grips-4k97)
-- [20+ Best Shadcn UI Blocks for Building Real Products Faster](https://dev.to/vaibhavg/best-shadcn-ui-blocks-for-building-real-products-faster-4ll8)
+- [Gemini-Integrated Debian: A Practical Desktop AI Integration](https://dev.to/hejhdiss/gemini-integrated-debian-a-practical-desktop-ai-integration-3j8k)
+- [GrindMal - Contribute to Mini Projects &amp; Weekly Coding Challenges 🚀](https://dev.to/tomari/grindmal-contribute-to-mini-projects-weekly-coding-challenges-5756)
+- [Autopilot - the Final: From Localhost to the Cloud with GitHub Actions and CI/CD](https://dev.to/datalaria/autopilot-the-final-from-localhost-to-the-cloud-with-github-actions-and-cicd-k3l)
+- [Speed &amp; Performance: A Practical Comparison of C, C++, Rust, JavaScript, and Python](https://dev.to/farhadrahimiklie/speed-performance-a-practical-comparison-of-c-c-rust-javascript-and-python-3a4f)
+- [ℹ️ INFO LL-309: Iron Condor Optimal Control &lpar;+2 more&rpar;](https://dev.to/igorganapolsky/info-ll-309-iron-condor-optimal-control-2-more-596b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
