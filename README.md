@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [90% of AI Pilots Die in the Lab. Here is the Blueprint to Save Yours.](https://dev.to/yaseen_tech/90-of-ai-pilots-die-in-the-lab-here-is-the-blueprint-to-save-yours-1gg4)
-- [Laravel Telegram Cleanup: Auto-Delete Your Telegram Bot Messages](https://dev.to/rud99/laravel-telegram-cleanup-auto-delete-your-telegram-bot-messages-4hn2)
-- [How Failing in 2 Hours Saved 8 Months of Drug R&amp;D: Engineering a &quot;Truthful Null&quot; with Upadacitinib](https://dev.to/flamehaven01/how-failing-in-2-hours-saved-8-months-of-drug-rd-engineering-a-truthful-null-with-upadacitinib-31)
-- [The &quot;Glue Work&quot; Trap: Why Your Best Engineer Looks Like Your Worst Performer](https://dev.to/luciench/the-glue-work-trap-why-your-best-engineer-looks-like-your-worst-performer-58jf)
-- [How to Use Gemini 2.5 Flash in Apps Script with Vertex AI](https://dev.to/googleworkspace/how-to-use-gemini-25-flash-in-apps-script-with-vertex-ai-1bfl)
+- [API Era of Agents: MCP &amp; Mariner Automation](https://dev.to/dr_hernani_costa/api-era-of-agents-mcp-mariner-automation-13l4)
+- [threejs-gsap-lenis_3d-tunnel-vision-effect_final-colour&lpar;psicodelic&rpar;](https://dev.to/delafuentej/threejs-gsap-lenis3d-tunnel-vision-effectfinal-colourpsicodelic-4nko)
+- [threejs-shaders_ ocean](https://dev.to/delafuentej/threejs-shaders-ocean-2k58)
+- [I don’t really believe Product Hunt rankings measure product value](https://dev.to/liudasjan/i-dont-really-believe-product-hunt-rankings-measure-product-value-2lgj)
+- [Reading Outside the Lines: Symlink Escape in OpenCode&#39;s File API](https://dev.to/pachilo/reading-outside-the-lines-symlink-escape-in-opencodes-file-api-5f81)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
