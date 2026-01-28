@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Kafka Guarantees Delivery, Not Uniqueness: How to Build Idempotent Systems](https://dev.to/naresh_007/kafka-guarantees-delivery-not-uniqueness-how-to-build-idempotent-systems-1j6d)
-- [Creating a Chatbot that actually Stands Out! &lpar;vibe coded version&rpar;🦖](https://dev.to/rohan_sharma/creating-a-chatbot-that-actually-stands-out-vibe-coded-version-2ffc)
-- [/export: Get Receipts for Every AI Conversation](https://dev.to/rajeshroyal/export-get-receipts-for-every-ai-conversation-57ni)
-- [How Changing My Thinking Transformed My Interview Problem‑Solving](https://dev.to/dharshini_0101/how-thinking-changed-my-interview-problem-solving-1ign)
-- [Node Exporter Deep Dive: Connecting the Linux Kernel and Prometheus](https://dev.to/kanywst/node-exporter-deep-dive-connecting-the-linux-kernel-and-prometheus-5c6i)
+- [Indeterminate Is Not a Value](https://dev.to/bwi/indeterminate-is-not-a-value-1omd)
+- [Why Checkboxes Are Not as Simple as They Seem](https://dev.to/bwi/why-checkboxes-are-not-as-simple-as-they-seem-3jhf)
+- [Meta Mosaic: A Lightweight, Interactive Mosaic Layout for React](https://dev.to/arbaj_ansari_120ccadf7f67/meta-mosaic-a-lightweight-interactive-mosaic-layout-for-react-3471)
+- [Contributing to RubyGems &lpar;.org&rpar;](https://dev.to/cseeman/contributing-to-rubygems-org-5dpi)
+- [GitHub Actions Has a Cleanup Problem — So I Built a Tool](https://dev.to/aakashio/github-actions-has-a-cleanup-problem-so-i-built-a-tool-46hh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
