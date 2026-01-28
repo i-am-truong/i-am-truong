@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why I built a self-hosted booking platform instead of using SaaS tools](https://dev.to/azirbellavista/why-i-built-a-self-hosted-booking-platform-instead-of-using-saas-tools-4baf)
-- [Stop Rewriting Your API: How FMiddleware Lets You Deploy to Lambda AND Express with Zero Code Changes](https://dev.to/steima/stop-rewriting-your-api-how-fmiddleware-lets-you-deploy-to-lambda-and-express-with-zero-code-2b05)
-- [Soul Connect: Finding Spiritual Focus in a Digital World with Gemini AI](https://dev.to/ausaf_rehman_3cb74a15774b/soul-connect-finding-spiritual-focus-in-a-digital-world-with-gemini-ai-583j)
-- [The Four Modalities for Coding with Agents](https://dev.to/eabait/the-four-modalities-for-coding-with-agents-4cdf)
-- [Linux Fundamentals - Part 2: Understanding Directory Hierarchy](https://dev.to/kervie_sazon/linux-fundamentals-part-2-understanding-directory-hierarchy-1hg1)
+- [Why Your React App Feels Slow: Fixing Performance with Web Workers](https://dev.to/pockit_tools/why-your-react-app-feels-slow-fixing-performance-with-web-workers-439h)
+- [Understanding Recursion using the Fibonacci Sequence with Ruby](https://dev.to/ben1010/understanding-recursion-using-the-fibonacci-sequence-with-ruby-56m3)
+- [Computer Structure](https://dev.to/jonghwayoo03_dev/computer-structure-f4f)
+- [Linux CLI for extracting archives inside a bubblewrap sandbox &lpar;alpha&rpar;](https://dev.to/chechelpo/linux-cli-for-extracting-archives-inside-a-bubblewrap-sandbox-alpha-20gp)
+- [Welcome Thread - v362](https://dev.to/devteam/welcome-thread-v362-il4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
