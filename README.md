@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Flutter Build Failed: Android NDK Clang Could Not Be Found &lpar;Fix&rpar;](https://dev.to/rohitkumarr77/flutter-build-failed-android-ndk-clang-could-not-be-found-fix-26e7)
-- [Realistic Fabric Wrinkles in Real-Time: Building Displacement Maps with Fabric.js](https://dev.to/javedblch/realistic-fabric-wrinkles-in-real-time-building-displacement-maps-with-fabricjs-nch)
-- [Complete Guide to Setting Up Demucs Locally for AI Stem Separation](https://dev.to/stevecase430/complete-guide-to-setting-up-demucs-locally-for-ai-stem-separation-580h)
-- [Learning Docker DAY1](https://dev.to/shantanuspace/learning-docker-day1-5dh7)
-- [It Wasn’t My Code: How Render’s Free Tier Broke My Email System](https://dev.to/abhijeet_tapsale_4c00978e/it-wasnt-my-code-how-renders-free-tier-broke-my-email-system-1mgh)
+- [Dapper Micro-ORM Explained](https://dev.to/scorpio69/dapper-micro-orm-explained-1le3)
+- [Bundle size badges are just numbers](https://dev.to/effnd/bundle-size-badges-are-just-numbers-ghn)
+- [Build a Website Using S3 and CloudFront with Terraform](https://dev.to/shreya111111/build-a-website-using-s3-and-cloudfront-with-terraform-5f61)
+- [Deploy and Invoke AI Agent to AgentCore Runtime with Github Actions](https://dev.to/budionosan/deploy-and-invoke-ai-agent-to-agentcore-runtime-with-github-actions-j6f)
+- [Docker Compose Is Documentation That Actually Runs](https://dev.to/p12se/docker-compose-is-documentation-that-actually-runs-5b4o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
