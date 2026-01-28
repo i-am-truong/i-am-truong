@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Gemini-Integrated Debian: A Practical Desktop AI Integration](https://dev.to/hejhdiss/gemini-integrated-debian-a-practical-desktop-ai-integration-3j8k)
-- [GrindMal - Contribute to Mini Projects &amp; Weekly Coding Challenges 🚀](https://dev.to/tomari/grindmal-contribute-to-mini-projects-weekly-coding-challenges-5756)
-- [Autopilot - the Final: From Localhost to the Cloud with GitHub Actions and CI/CD](https://dev.to/datalaria/autopilot-the-final-from-localhost-to-the-cloud-with-github-actions-and-cicd-k3l)
-- [Speed &amp; Performance: A Practical Comparison of C, C++, Rust, JavaScript, and Python](https://dev.to/farhadrahimiklie/speed-performance-a-practical-comparison-of-c-c-rust-javascript-and-python-3a4f)
-- [ℹ️ INFO LL-309: Iron Condor Optimal Control &lpar;+2 more&rpar;](https://dev.to/igorganapolsky/info-ll-309-iron-condor-optimal-control-2-more-596b)
+- [7 Best Resources to Master Object-Oriented Programming &lpar;OOP&rpar; in 2026](https://dev.to/stack_overflowed/7-best-resources-to-master-object-oriented-programming-oop-in-2026-2fm9)
+- [Web component content is too long, how to handle the inability to scroll and link the content at the bottom?](https://dev.to/harmonyos/web-component-content-is-too-long-how-to-handle-the-inability-to-scroll-and-link-the-content-at-48en)
+- [Why Everyone Is Obsessed With Gasket-Mounted Keyboards Right Now](https://dev.to/mysticcoder/why-everyone-is-obsessed-with-gasket-mounted-keyboards-right-now-4m07)
+- [Gamifying Trust: Building a 6-Level Reputation System for P2P Marketplaces](https://dev.to/revolvotech/gamifying-trust-building-a-6-level-reputation-system-for-p2p-marketplaces-332i)
+- [Git Branching Strategies Part 2: Best Practices and Implementation](https://dev.to/outdated-dev/git-branching-strategies-part-2-best-practices-and-implementation-3jpk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
