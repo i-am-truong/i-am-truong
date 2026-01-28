@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Architect ChatGPT Integration in Enterprise SaaS &lpar;Beyond Simple API Calls&rpar;](https://dev.to/meisterit_systems_9b39ca7/how-to-architect-chatgpt-integration-in-enterprise-saas-beyond-simple-api-calls-5baa)
+- [CVE-2025-54997: The Janitor&#39;s Key: Turning OpenBao Audit Logs into RCE](https://dev.to/cverports/cve-2025-54997-the-janitors-key-turning-openbao-audit-logs-into-rce-4fk)
+- [How to Architect ChatGPT Integration in Enterprise SaaS &lpar;Beyond Simple API Calls&rpar;](https://dev.to/meisterit_systems_/how-to-architect-chatgpt-integration-in-enterprise-saas-beyond-simple-api-calls-5baa)
 - [CVE-2024-7721: CVE-2024-7721: &#39;MemFray&#39; - The Stack Overflow That Broke the &#39;Secure&#39; Gateway](https://dev.to/cverports/cve-2024-7721-cve-2024-7721-memfray-the-stack-overflow-that-broke-the-secure-gateway-kam)
 - [CVE-2025-68668: n8n Sandbox Escape: When Python Breaks the Wasm Wall](https://dev.to/cverports/cve-2025-68668-n8n-sandbox-escape-when-python-breaks-the-wasm-wall-5ad3)
 - [From Prompts to Programs: The Promise and Problem of AI-Generated Code](https://dev.to/kachi/from-prompts-to-programs-the-promise-and-problem-of-ai-generated-code-9a4)
-- [How to Install Moltbot with Docker and Gemini on WSL](https://dev.to/nunc/how-to-install-moltbot-with-docker-and-gemini-on-wsl-1aod)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
