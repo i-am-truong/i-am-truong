@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Dijital Mahremiyeti Geri Kazanmak: Pi-hole, Unbound ve Tailscale ile Gözetimsiz İnternet](https://dev.to/hakanbaban53/dijital-mahremiyeti-geri-kazanmak-pi-hole-unbound-ve-tailscale-ile-gozetimsiz-internet-53b2)
-- [Last Close, and Quitting](https://dev.to/lizmat/last-close-and-quitting-3d0a)
-- [A Lightweight, Non-Intrusive Approach to Website Monitoring &lpar;Ops Perspective&rpar;](https://dev.to/marksugar/a-lightweight-non-intrusive-approach-to-website-monitoring-ops-perspective-36f4)
-- [Running AEM Without Losing Your Mind: A Practical Local &amp; AWS EC2 Setup Guide](https://dev.to/vishnu_rachapudi_75e73248/running-aem-without-losing-your-mind-a-practical-local-aws-ec2-setup-guide-jej)
-- [Self-Hosted AI Assistant: Complete Moltbot Installation Guide for Docker](https://dev.to/1richter/self-hosted-ai-assistant-complete-moltbot-installation-guide-for-docker-558a)
+- [Contains Duplicate II](https://dev.to/nithya_dharshiniofficial/contains-duplicate-ii-28lh)
+- [Deploying a React Application to AWS: Implementing a Production-Ready CI/CD Pipeline with Terraform](https://dev.to/coder7475/deploying-a-react-application-to-aws-implementing-a-production-ready-cicd-pipeline-with-terraform-4d15)
+- [My Top 5 Self-Hosted Tools Running on My Home Server &lpar;via Docker&rpar;](https://dev.to/cyberdev_/my-top-5-self-hosted-tools-running-on-my-home-server-via-docker-52c5)
+- [Driving Through My World of Code — A Playable Portfolio with Waterfalls, Wildlife, and Working Tech](https://dev.to/harsh_kumar_0904/driving-through-my-world-of-code-a-playable-portfolio-with-waterfalls-wildlife-and-working-tech-57o7)
+- [QA Agent in Your CI/CD Pipeline](https://dev.to/octomind_dev/qa-agent-in-your-cicd-pipeline-11j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
