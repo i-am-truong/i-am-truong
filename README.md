@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [MCP Weekly: Signals of Enterprise-Grade Agentic AI &lpar;Jan 2026&rpar;](https://dev.to/om_shree_0709/mcp-weekly-signals-of-enterprise-grade-agentic-ai-jan-2026-kp0)
-- [Deployed a static website on AWS EC2 using Git, GitHub, and Nginx](https://dev.to/ibe_chima_b1b3e9c7b2e2156/deployed-a-static-website-on-aws-ec2-using-git-github-and-nginx-4dcp)
-- [🌀 Beginner-Friendly Guide &#39;Minimum Cost Path with Teleportations&#39; - LeetCode 3651 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-minimum-cost-path-with-teleportations-leetcode-3651-c-python-pk8)
-- [What I Have Learned Being on the IndieWeb for a Month](https://dev.to/brennan/what-i-have-learned-being-on-the-indieweb-for-a-month-4oo0)
-- [Building a Minimal Signal API](https://dev.to/luciano0322/building-a-minimal-signal-api-aoj)
+- [How to Set Project Milestones That Actually Signal Progress](https://dev.to/taskford/how-to-set-project-milestones-that-actually-signal-progress-457b)
+- [Designing Cache Invalidation at Scale with Spring Boot, Redis, and AWS ElastiCache](https://dev.to/jessica_patel_472897dd43c/designing-cache-invalidation-at-scale-with-spring-boot-redis-and-aws-elasticache-36cp)
+- [🎬 行為辨識](https://dev.to/stklen/xing-wei-bian-shi-34dj)
+- [Understanding Mixins in Python, Django, and Django REST Framework](https://dev.to/ajitkumar/understanding-mixins-in-python-django-and-django-rest-framework-2j40)
+- [Vue 3 `&lt;script setup&gt;` 代码组织标准指南](https://dev.to/leo0828/vue-3-dai-ma-zu-zhi-biao-zhun-zhi-nan-4fhp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
