@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Air Gap Fallacy: Why Identity is the Only Real Perimeter](https://dev.to/alifunk/the-air-gap-fallacy-why-identity-is-the-only-real-perimeter-32i8)
+- [Create a Site](https://dev.to/imomaliev/create-a-site-17hc)
+- [Argo CD Dashboard — Complete Explanation &lpar;GitOps Control Center&rpar;](https://dev.to/jumptotech/argo-cd-dashboard-complete-explanation-gitops-control-center-1plo)
 - [Bomb the Silo From Inside: Why Mission Teams Work](https://dev.to/asvid/bomb-the-silo-from-inside-why-mission-teams-work-o1p)
 - [Custom Functions FTW](https://dev.to/david_kershaw_b6916404da6/custom-functions-ftw-21co)
-- [TypeScript: основы и философия типизации в JavaScript](https://dev.to/_vproger_/typescript-osnovy-i-filosofiia-tipizatsii-v-javascript-4f19)
-- [Emmet for HTML: A Beginner’s Guide to Writing Faster Markup](https://dev.to/debashis_das_4deca65ec224/emmet-for-html-a-beginners-guide-to-writing-faster-markup-bl0)
-- [Edge-to-Cloud Swarm Coordination for coastal climate resilience planning for low-power autonomous deployments](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-coastal-climate-resilience-planning-for-low-power-autonomous-2iol)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
