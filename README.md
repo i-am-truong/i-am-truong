@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CVE-2025-54997: The Janitor&#39;s Key: Turning OpenBao Audit Logs into RCE](https://dev.to/cverports/cve-2025-54997-the-janitors-key-turning-openbao-audit-logs-into-rce-4fk)
-- [How to Architect ChatGPT Integration in Enterprise SaaS &lpar;Beyond Simple API Calls&rpar;](https://dev.to/meisterit_systems_/how-to-architect-chatgpt-integration-in-enterprise-saas-beyond-simple-api-calls-5baa)
-- [CVE-2024-7721: CVE-2024-7721: &#39;MemFray&#39; - The Stack Overflow That Broke the &#39;Secure&#39; Gateway](https://dev.to/cverports/cve-2024-7721-cve-2024-7721-memfray-the-stack-overflow-that-broke-the-secure-gateway-kam)
-- [CVE-2025-68668: n8n Sandbox Escape: When Python Breaks the Wasm Wall](https://dev.to/cverports/cve-2025-68668-n8n-sandbox-escape-when-python-breaks-the-wasm-wall-5ad3)
-- [From Prompts to Programs: The Promise and Problem of AI-Generated Code](https://dev.to/kachi/from-prompts-to-programs-the-promise-and-problem-of-ai-generated-code-9a4)
+- [Building a Production-Ready AWS Security Vulnerability Scanner: A Technical Deep Dive](https://dev.to/debapriya_dey_aada54b7766/building-a-production-ready-aws-security-vulnerability-scanner-a-technical-deep-dive-1m33)
+- [We Built a Formspree Alternative at 50% of the Cost Great News for Freelancers, Agencies &amp; Indie Hackers! 🎉](https://dev.to/unaisshemim/we-built-a-formspree-alternative-at-50-of-the-cost-great-news-for-freelancers-agencies-indie-1kdo)
+- [From ScrumBuddy to Brunelly: Bad Requirements Are Still Killing Software Projects](https://dev.to/guypowell/from-scrumbuddy-to-brunellybad-requirements-are-stillkilling-software-projects-1apd)
+- [Just level up my digital identity! 🚀✨](https://dev.to/developer-yasir/just-level-up-my-digital-identity-26ce)
+- [Open-Source Book Repositories on GitHub Every Developer Should Know](https://dev.to/sara8086/open-source-book-repositories-on-github-every-developer-should-know-59cn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
