@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Set Project Milestones That Actually Signal Progress](https://dev.to/taskford/how-to-set-project-milestones-that-actually-signal-progress-457b)
-- [Designing Cache Invalidation at Scale with Spring Boot, Redis, and AWS ElastiCache](https://dev.to/jessica_patel_472897dd43c/designing-cache-invalidation-at-scale-with-spring-boot-redis-and-aws-elasticache-36cp)
-- [🎬 行為辨識](https://dev.to/stklen/xing-wei-bian-shi-34dj)
-- [Understanding Mixins in Python, Django, and Django REST Framework](https://dev.to/ajitkumar/understanding-mixins-in-python-django-and-django-rest-framework-2j40)
-- [Vue 3 `&lt;script setup&gt;` 代码组织标准指南](https://dev.to/leo0828/vue-3-dai-ma-zu-zhi-biao-zhun-zhi-nan-4fhp)
+- [From Markdown to PDF](https://dev.to/anacunha/from-markdown-to-pdf-29io)
+- [Why Tech Careers Feel So Emotionally Heavy Now](https://dev.to/coderom/why-tech-careers-feel-so-emotionally-heavy-now-3dig)
+- [Beyond Backups: Building Verifiable Cloud Recovery on IBM Cloud](https://dev.to/thej_deep_457/beyond-backups-building-verifiable-cloud-recovery-on-ibm-cloud-4g3l)
+- [ℹ️ INFO LL-309: Iron Condor Optimal Control &lpar;+2 more&rpar;](https://dev.to/igorganapolsky/info-ll-309-iron-condor-optimal-control-2-more-2fmh)
+- [Why Creating a Workflow Directory Is Essential for Claude Cowork](https://dev.to/soanai/why-creating-a-workflow-directory-is-essential-for-claude-cowork-31ko)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
