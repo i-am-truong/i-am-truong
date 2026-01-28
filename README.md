@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Dapper Micro-ORM Explained](https://dev.to/scorpio69/dapper-micro-orm-explained-1le3)
-- [Bundle size badges are just numbers](https://dev.to/effnd/bundle-size-badges-are-just-numbers-ghn)
-- [Build a Website Using S3 and CloudFront with Terraform](https://dev.to/shreya111111/build-a-website-using-s3-and-cloudfront-with-terraform-5f61)
-- [Deploy and Invoke AI Agent to AgentCore Runtime with Github Actions](https://dev.to/budionosan/deploy-and-invoke-ai-agent-to-agentcore-runtime-with-github-actions-j6f)
-- [Docker Compose Is Documentation That Actually Runs](https://dev.to/p12se/docker-compose-is-documentation-that-actually-runs-5b4o)
+- [Dijital Mahremiyeti Geri Kazanmak: Pi-hole, Unbound ve Tailscale ile Gözetimsiz İnternet](https://dev.to/hakanbaban53/dijital-mahremiyeti-geri-kazanmak-pi-hole-unbound-ve-tailscale-ile-gozetimsiz-internet-53b2)
+- [Last Close, and Quitting](https://dev.to/lizmat/last-close-and-quitting-3d0a)
+- [A Lightweight, Non-Intrusive Approach to Website Monitoring &lpar;Ops Perspective&rpar;](https://dev.to/marksugar/a-lightweight-non-intrusive-approach-to-website-monitoring-ops-perspective-36f4)
+- [Running AEM Without Losing Your Mind: A Practical Local &amp; AWS EC2 Setup Guide](https://dev.to/vishnu_rachapudi_75e73248/running-aem-without-losing-your-mind-a-practical-local-aws-ec2-setup-guide-jej)
+- [Self-Hosted AI Assistant: Complete Moltbot Installation Guide for Docker](https://dev.to/1richter/self-hosted-ai-assistant-complete-moltbot-installation-guide-for-docker-558a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
