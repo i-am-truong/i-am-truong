@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Functions &amp; Arguments: From Basics to *args and **kwargs](https://dev.to/suchismita_moharana_f8e8a/python-functions-arguments-from-basics-to-args-and-kwargs-ba1)
 - [Speed Comes From Understanding, Not Typing Faster](https://dev.to/sergueyasaelshinder/speed-comes-from-understanding-not-typing-faster-51eo)
 - [Build Your AI Analyst and Start Having Conversations with Your Structured Data](https://dev.to/simplewbs/build-your-ai-analyst-and-start-having-conversations-with-your-structured-data-547j)
 - [Running Text-to-Speech Fully in the Browser with PocketTTS](https://dev.to/soasme/running-text-to-speech-fully-in-the-browser-with-pockettts-2b0m)
 - [Building a Voice-Enabled AI Coach with Real Esports Data](https://dev.to/hulyamasharipov/building-a-voice-enabled-ai-coach-with-real-esports-data-al4)
-- [App Store Screenshots That Convert: The 2026 Design Guide](https://dev.to/appscreenshotstudio/app-store-screenshots-that-convert-the-2026-design-guide-1d94)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
