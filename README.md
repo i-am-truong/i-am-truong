@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Edge-to-Cloud Swarm Coordination for coastal climate resilience planning for low-power autonomous deployments](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-coastal-climate-resilience-planning-for-low-power-autonomous-2iol)
+- [Request to Participate and Share Academic Survey on Code Review in OSS Security](https://dev.to/md_niazmorshed_9f84e02cd/request-to-participate-and-share-academic-survey-on-code-review-in-oss-security-3715)
 - [I built a brain for Claude Code because it keeps forgetting everything](https://dev.to/mkdelta221/i-built-a-brain-for-claude-code-because-it-keeps-forgetting-everything-ef9)
+- [Solved: Tracking API Rate Limits: Middleware Solution for Express.js/Python](https://dev.to/techresolve/solved-tracking-api-rate-limits-middleware-solution-for-expressjspython-366f)
 - [Horizontal Scaling PostgreSQL with Citus: A Practical Deep Dive](https://dev.to/kobbyprincee/horizontal-scaling-postgresql-with-citus-a-practical-deep-dive-3kf7)
-- [Calling a Public API Gateway Custom Domain from a Private VPC &lpar;Without Reconfiguring Your Clients&rpar;](https://dev.to/dguisinger/calling-a-public-api-gateway-custom-domain-from-a-private-vpc-without-reconfiguring-your-clients-2n35)
-- [Build a &quot;Stateful&quot; AI Chatbot with Python &amp; OpenAI](https://dev.to/it_solutions_pro/build-a-stateful-ai-chatbot-with-python-openai-5857)
-- [3D Printing Benefits for the Engineering Industry](https://dev.to/kad_3d/3d-printing-benefits-for-the-engineering-industry-52nd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
