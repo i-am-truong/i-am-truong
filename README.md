@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Production-Ready AWS Security Vulnerability Scanner: A Technical Deep Dive](https://dev.to/debapriya_dey_aada54b7766/building-a-production-ready-aws-security-vulnerability-scanner-a-technical-deep-dive-1m33)
-- [We Built a Formspree Alternative at 50% of the Cost Great News for Freelancers, Agencies &amp; Indie Hackers! 🎉](https://dev.to/unaisshemim/we-built-a-formspree-alternative-at-50-of-the-cost-great-news-for-freelancers-agencies-indie-1kdo)
-- [From ScrumBuddy to Brunelly: Bad Requirements Are Still Killing Software Projects](https://dev.to/guypowell/from-scrumbuddy-to-brunellybad-requirements-are-stillkilling-software-projects-1apd)
-- [Just level up my digital identity! 🚀✨](https://dev.to/developer-yasir/just-level-up-my-digital-identity-26ce)
-- [Open-Source Book Repositories on GitHub Every Developer Should Know](https://dev.to/sara8086/open-source-book-repositories-on-github-every-developer-should-know-59cn)
+- [Why I built a self-hosted booking platform instead of using SaaS tools](https://dev.to/azirbellavista/why-i-built-a-self-hosted-booking-platform-instead-of-using-saas-tools-4baf)
+- [Stop Rewriting Your API: How FMiddleware Lets You Deploy to Lambda AND Express with Zero Code Changes](https://dev.to/steima/stop-rewriting-your-api-how-fmiddleware-lets-you-deploy-to-lambda-and-express-with-zero-code-2b05)
+- [Soul Connect: Finding Spiritual Focus in a Digital World with Gemini AI](https://dev.to/ausaf_rehman_3cb74a15774b/soul-connect-finding-spiritual-focus-in-a-digital-world-with-gemini-ai-583j)
+- [The Four Modalities for Coding with Agents](https://dev.to/eabait/the-four-modalities-for-coding-with-agents-4cdf)
+- [Linux Fundamentals - Part 2: Understanding Directory Hierarchy](https://dev.to/kervie_sazon/linux-fundamentals-part-2-understanding-directory-hierarchy-1hg1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
