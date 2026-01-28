@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I built a brain for Claude Code because it keeps forgetting everything](https://dev.to/mkdelta221/i-built-a-brain-for-claude-code-because-it-keeps-forgetting-everything-ef9)
 - [Horizontal Scaling PostgreSQL with Citus: A Practical Deep Dive](https://dev.to/kobbyprincee/horizontal-scaling-postgresql-with-citus-a-practical-deep-dive-3kf7)
 - [Calling a Public API Gateway Custom Domain from a Private VPC &lpar;Without Reconfiguring Your Clients&rpar;](https://dev.to/dguisinger/calling-a-public-api-gateway-custom-domain-from-a-private-vpc-without-reconfiguring-your-clients-2n35)
 - [Build a &quot;Stateful&quot; AI Chatbot with Python &amp; OpenAI](https://dev.to/it_solutions_pro/build-a-stateful-ai-chatbot-with-python-openai-5857)
 - [3D Printing Benefits for the Engineering Industry](https://dev.to/kad_3d/3d-printing-benefits-for-the-engineering-industry-52nd)
-- [How a Browser Works: A Beginner-Friendly Guide to Browser Internals](https://dev.to/hiral/how-a-browser-works-a-beginner-friendly-guide-to-browser-internals-4ph2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
