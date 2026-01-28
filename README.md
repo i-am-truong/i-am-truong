@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GA4 101: ทำไม Developer ถึงต้องเข้าใจ Google Analytics 4 &lpar;Data Model ที่เปลี่ยนไป?&rpar;](https://dev.to/sonnavigator/ga4-101-thamaim-developer-thuengtngekhaaaicch-google-analytics-4-data-model-thiiepliiynaip-3kn3)
-- [Anaconda vs Miniconda vs Mamba Guide](https://dev.to/rosgluk/anaconda-vs-miniconda-vs-mamba-guide-4pae)
-- [How to Implement OTP Authentication in Node.js: A Complete Guide for Secure User Verification](https://dev.to/raza_engage/how-to-implement-otp-authentication-in-nodejs-a-complete-guide-for-secure-user-verification-3l40)
-- [About Wizards &amp; Warlocks, Programmers &amp; Vibe Coders](https://dev.to/manuartero/about-wizards-warlocks-programmers-vibe-coders-4p6n)
-- [CVE-2026-22817: Identity Theft on the Edge: Exploiting JWT Algorithm Confusion in Hono](https://dev.to/cverports/cve-2026-22817-identity-theft-on-the-edge-exploiting-jwt-algorithm-confusion-in-hono-5an9)
+- [Deploying Adminer on ECS to Access a Private RDS Database &lpar;Terraform&rpar;](https://dev.to/abdulrasheed_abdulazeez_7/deploying-adminer-on-ecs-to-access-a-private-rds-database-terraform-262p)
+- [Java Variable](https://dev.to/nanthini_ammu_ac02ad32802/java-variable-53kj)
+- [How to Build a Scalable To-Do App with React and Node.js: A Practical Guide](https://dev.to/deepikarajawat/how-to-build-a-scalable-to-do-app-with-react-and-nodejs-a-practical-guide-fee)
+- [Latency Is Not a Performance Problem. It Is a Design Problem.](https://dev.to/invincible/latency-is-not-a-performance-problem-it-is-a-design-problem-40ph)
+- [Building a Data Visualization and Note-Taking Web App](https://dev.to/maxixo/building-a-data-visualization-and-note-taking-web-app-4inb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
