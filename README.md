@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Who Am I &amp; What Do I Do? A Journey into Serverless Architecture &amp; Full-Stack Engineering 🚀](https://dev.to/abhay_prajapati/who-am-i-what-do-i-do-a-journey-into-serverless-architecture-full-stack-engineering-53i5)
-- [I’m building a small tool to help people understand relationship misunderstandings](https://dev.to/cherry_yan_871261020c032a/im-building-a-small-tool-to-help-people-understand-relationship-misunderstandings-4kfn)
-- [I built a global GLP-1 telehealth directory &lpar;and why it’s harder than it looks&rpar;](https://dev.to/cherry_yan_871261020c032a/i-built-a-global-glp-1-telehealth-directory-and-why-its-harder-than-it-looks-5aad)
-- [I got tired of spammy PDF Editing sites, so I built a simpler one](https://dev.to/ridham_savaliya_84efe263b/i-got-tired-of-spammy-pdf-editing-sites-so-i-built-a-simpler-one-4kme)
-- [Symfony UX: Single Directory Components &lpar;SDC&rpar; - The Path to Cleaner Architecture Without Tailwind](https://dev.to/tito10047/symfony-ux-single-directory-components-sdc-the-path-to-cleaner-architecture-without-tailwind-2bmn)
+- [Making Traditional Strategies Smarter: Practical Applications of Workflow + AI](https://dev.to/quant001/making-traditional-strategies-smarter-practical-applications-of-workflow-ai-1a59)
+- [SmartKNN v2.2: Improving Scalability, Correctness, and Training Speed](https://dev.to/jashwanth_thatipamula_8ee/smartknn-v22-improving-scalability-correctness-and-training-speed-167e)
+- [The Secret Life of Go: Interfaces in Practice](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-interfaces-in-practice-50k4)
+- [👻 The Silent Ghost: How a Single Enum Broke Our Distributed Transaction](https://dev.to/dipankar_sethi_8d61e16fb1/the-silent-ghost-how-a-single-enum-broke-our-distributed-transaction-a24)
+- [How a Browser Works: A Beginner-Friendly Guide to Browser Internals](https://dev.to/satyasootar/how-a-browser-works-a-beginner-friendly-guide-to-browser-internals-4opn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
