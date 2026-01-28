@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Linter That Yells](https://dev.to/nicolas_vbgh/the-linter-that-yells-231h)
-- [Building Connected Agents with MCP and A2A](https://dev.to/googleai/building-connected-agents-with-mcp-and-a2a-47b6)
-- [Stop Parsing JSON: The Vercel AI SDK’s &quot;AI Protocol&quot; is Revolutionizing Generative UI](https://dev.to/programmingcentral/stop-parsing-json-the-vercel-ai-sdks-ai-protocol-is-revolutionizing-generative-ui-40k1)
-- [Understanding HTML Tags and Elements](https://dev.to/priyanshu_verma/understanding-html-tags-and-elements-4dip)
-- [Claude Code Tutorial for Beginners 2026: From Installation to Building Your First Project](https://dev.to/ayyazzafar/claude-code-tutorial-for-beginners-2026-from-installation-to-building-your-first-project-1lma)
+- [Horizontal Scaling PostgreSQL with Citus: A Practical Deep Dive](https://dev.to/kobbyprincee/horizontal-scaling-postgresql-with-citus-a-practical-deep-dive-3kf7)
+- [Calling a Public API Gateway Custom Domain from a Private VPC &lpar;Without Reconfiguring Your Clients&rpar;](https://dev.to/dguisinger/calling-a-public-api-gateway-custom-domain-from-a-private-vpc-without-reconfiguring-your-clients-2n35)
+- [Build a &quot;Stateful&quot; AI Chatbot with Python &amp; OpenAI](https://dev.to/it_solutions_pro/build-a-stateful-ai-chatbot-with-python-openai-5857)
+- [3D Printing Benefits for the Engineering Industry](https://dev.to/kad_3d/3d-printing-benefits-for-the-engineering-industry-52nd)
+- [How a Browser Works: A Beginner-Friendly Guide to Browser Internals](https://dev.to/hiral/how-a-browser-works-a-beginner-friendly-guide-to-browser-internals-4ph2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
