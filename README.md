@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Making Traditional Strategies Smarter: Practical Applications of Workflow + AI](https://dev.to/quant001/making-traditional-strategies-smarter-practical-applications-of-workflow-ai-1a59)
-- [SmartKNN v2.2: Improving Scalability, Correctness, and Training Speed](https://dev.to/jashwanth_thatipamula_8ee/smartknn-v22-improving-scalability-correctness-and-training-speed-167e)
-- [The Secret Life of Go: Interfaces in Practice](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-interfaces-in-practice-50k4)
-- [👻 The Silent Ghost: How a Single Enum Broke Our Distributed Transaction](https://dev.to/dipankar_sethi_8d61e16fb1/the-silent-ghost-how-a-single-enum-broke-our-distributed-transaction-a24)
-- [How a Browser Works: A Beginner-Friendly Guide to Browser Internals](https://dev.to/satyasootar/how-a-browser-works-a-beginner-friendly-guide-to-browser-internals-4opn)
+- [Four golden signals of SRE, R.E.D &amp; U.S.E Metrics](https://dev.to/rashmitha_5c6495b0/four-golden-signals-of-sre-red-use-metrics-1k7d)
+- [Smart Habit Tracker with Copilot CLI](https://dev.to/nhatduongagilityio/smart-habit-tracker-with-copilot-cli-lc5)
+- [POJO-actor Tutorial Part 2-3: Improving the Workflow API — Introducing the @Action Annotation](https://dev.to/devteam2512/pojo-actor-tutorial-part-2-3-improving-the-workflow-api-introducing-the-action-annotation-pe)
+- [From KET Learning App to PDF2Markdown: My 2nd Solo Project is Live!](https://dev.to/yue_0c8960354aeb131b9f860/from-ket-learning-app-to-pdf2markdown-my-2nd-solo-project-is-live-529l)
+- [Why Using a Vision API Felt Too Easy &lpar;and Why That Confused Me&rpar;](https://dev.to/dev-in-progress/why-using-a-vision-api-felt-too-easy-and-why-that-confused-me-23df)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
