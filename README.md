@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SSE vs WebSockets: choosing the right transport for market data](https://dev.to/donbagger/sse-vs-websockets-choosing-the-right-transport-for-market-data-56d4)
+- [2026-01-28 Weekly Quantum News](https://dev.to/dan_ledger_ce2886f0037972/2026-01-28-weekly-quantum-news-2a3g)
+- [Ramadan Mubarak](https://dev.to/__b72d0e6894e6/ramadan-mubarak-3g0l)
 - [Creating a Kaggle-Winning Data Analysis Project](https://dev.to/adnan_arif_14ae4bc014267f/creating-a-kaggle-winning-data-analysis-project-3ahi)
-- [The Air Gap Fallacy: Why Identity is the Only Real Perimeter](https://dev.to/alifunk/the-air-gap-fallacy-why-identity-is-the-only-real-perimeter-32i8)
-- [Create a Site](https://dev.to/imomaliev/create-a-site-17hc)
-- [Argo CD Dashboard — Complete Explanation &lpar;GitOps Control Center&rpar;](https://dev.to/jumptotech/argo-cd-dashboard-complete-explanation-gitops-control-center-1plo)
-- [Bomb the Silo From Inside: Why Mission Teams Work](https://dev.to/asvid/bomb-the-silo-from-inside-why-mission-teams-work-o1p)
+- [Argo CD – Full Power Demonstration &lpar;Already Deployed App&rpar;](https://dev.to/jumptotech/argo-cd-full-power-demonstration-already-deployed-app-165b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
