@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [API Era of Agents: MCP &amp; Mariner Automation](https://dev.to/dr_hernani_costa/api-era-of-agents-mcp-mariner-automation-13l4)
-- [threejs-gsap-lenis_3d-tunnel-vision-effect_final-colour&lpar;psicodelic&rpar;](https://dev.to/delafuentej/threejs-gsap-lenis3d-tunnel-vision-effectfinal-colourpsicodelic-4nko)
-- [threejs-shaders_ ocean](https://dev.to/delafuentej/threejs-shaders-ocean-2k58)
-- [I don’t really believe Product Hunt rankings measure product value](https://dev.to/liudasjan/i-dont-really-believe-product-hunt-rankings-measure-product-value-2lgj)
-- [Reading Outside the Lines: Symlink Escape in OpenCode&#39;s File API](https://dev.to/pachilo/reading-outside-the-lines-symlink-escape-in-opencodes-file-api-5f81)
+- [CI/CD и GitHub Actions: workflow, secrets, тесты и деплой на практике &lpar;Node.js, Python, Docker&rpar;](https://dev.to/_vproger_/cicd-i-github-actions-workflow-secrets-tiesty-i-dieploi-na-praktikie-nodejs-python-docker-ibp)
+- [Title и Open Graph без SEO-магии: как корректно оформлять страницы под Google и Яндекс](https://dev.to/_vproger_/title-i-open-graph-biez-seo-maghii-kak-korriektno-oformliat-stranitsy-pod-google-i-iandieks-34a)
+- [Linux-команды для работы с файлами и поиском: Ubuntu, CentOS и практические примеры для Bitrix, Laravel и WordPress](https://dev.to/_vproger_/linux-komandy-dlia-raboty-s-failami-i-poiskom-ubuntu-centos-i-praktichieskiie-primiery-dlia-bitrix-210k)
+- [IT в 2026: когда хайп заканчивается и начинается инженерия](https://dev.to/_vproger_/it-v-2026-koghda-khaip-zakanchivaietsia-i-nachinaietsia-inzhienieriia-502n)
+- [С наступающим Новым годом и Рождеством! Итоги года глазами IT-инженера](https://dev.to/_vproger_/s-nastupaiushchim-novym-ghodom-i-rozhdiestvom-itoghi-ghoda-ghlazami-it-inzhieniera-34ea)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
