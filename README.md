@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [7 Best Resources to Master Object-Oriented Programming &lpar;OOP&rpar; in 2026](https://dev.to/stack_overflowed/7-best-resources-to-master-object-oriented-programming-oop-in-2026-2fm9)
-- [Web component content is too long, how to handle the inability to scroll and link the content at the bottom?](https://dev.to/harmonyos/web-component-content-is-too-long-how-to-handle-the-inability-to-scroll-and-link-the-content-at-48en)
-- [Why Everyone Is Obsessed With Gasket-Mounted Keyboards Right Now](https://dev.to/mysticcoder/why-everyone-is-obsessed-with-gasket-mounted-keyboards-right-now-4m07)
-- [Gamifying Trust: Building a 6-Level Reputation System for P2P Marketplaces](https://dev.to/revolvotech/gamifying-trust-building-a-6-level-reputation-system-for-p2p-marketplaces-332i)
-- [Git Branching Strategies Part 2: Best Practices and Implementation](https://dev.to/outdated-dev/git-branching-strategies-part-2-best-practices-and-implementation-3jpk)
+- [A Bookmarklet to Copy Codex Assistant Replies and PR Messages to Your Clipboard](https://dev.to/vast-cow/a-bookmarklet-to-copy-codex-assistant-replies-and-pr-messages-to-your-clipboard-ibh)
+- [MVVM Beyond the Buzzword: A Practical Guide](https://dev.to/konstantin_shkurko/mvvm-beyond-the-buzzword-a-practical-guide-4pg7)
+- [How to solve the problem that the Scroll component cannot set an element to always be fixed in the first place](https://dev.to/harmonyos/how-to-solve-the-problem-that-the-scroll-component-cannot-set-an-element-to-always-be-fixed-in-the-1134)
+- [Solved: re:Invent is nearly done, what do you think was the biggest announcements made?](https://dev.to/techresolve/solved-reinvent-is-nearly-done-what-do-you-think-was-the-biggest-announcements-made-154p)
+- [Single Number III Coding Problem Explained](https://dev.to/stack_overflowed/single-number-iii-coding-problem-explained-c7g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
