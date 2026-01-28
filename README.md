@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Contains Duplicate II](https://dev.to/nithya_dharshiniofficial/contains-duplicate-ii-28lh)
-- [Deploying a React Application to AWS: Implementing a Production-Ready CI/CD Pipeline with Terraform](https://dev.to/coder7475/deploying-a-react-application-to-aws-implementing-a-production-ready-cicd-pipeline-with-terraform-4d15)
-- [My Top 5 Self-Hosted Tools Running on My Home Server &lpar;via Docker&rpar;](https://dev.to/cyberdev_/my-top-5-self-hosted-tools-running-on-my-home-server-via-docker-52c5)
-- [Driving Through My World of Code — A Playable Portfolio with Waterfalls, Wildlife, and Working Tech](https://dev.to/harsh_kumar_0904/driving-through-my-world-of-code-a-playable-portfolio-with-waterfalls-wildlife-and-working-tech-57o7)
-- [QA Agent in Your CI/CD Pipeline](https://dev.to/octomind_dev/qa-agent-in-your-cicd-pipeline-11j)
+- [Clean Architecture in .NET 10: The Setup &lpar;And When It&#39;s Overkill&rpar;](https://dev.to/spanntechwizard/clean-architecture-in-net-10-the-setup-and-when-its-overkill-128c)
+- [Computed signals in Angular&lpar;v21&rpar;](https://dev.to/pckalyan/computed-signals-in-angularv21-1bhg)
+- [What is Molt Bot &lpar;ClawdBot&rpar;? Meet Your Personal AI Assistant – Proje Defteri](https://dev.to/projedefteri/what-is-molt-bot-clawdbot-meet-your-personal-ai-assistant-proje-defteri-8e6)
+- [Managing Unreliable Compilers](https://dev.to/derekcheng/managing-unreliable-compilers-5ah1)
+- [THE REASONS FOR A TECHNICAL WRITER](https://dev.to/techystarr-/the-reasons-for-a-technical-writer-4a5n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
