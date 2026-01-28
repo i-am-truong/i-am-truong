@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating a Kaggle-Winning Data Analysis Project](https://dev.to/adnan_arif_14ae4bc014267f/creating-a-kaggle-winning-data-analysis-project-3ahi)
 - [The Air Gap Fallacy: Why Identity is the Only Real Perimeter](https://dev.to/alifunk/the-air-gap-fallacy-why-identity-is-the-only-real-perimeter-32i8)
 - [Create a Site](https://dev.to/imomaliev/create-a-site-17hc)
 - [Argo CD Dashboard — Complete Explanation &lpar;GitOps Control Center&rpar;](https://dev.to/jumptotech/argo-cd-dashboard-complete-explanation-gitops-control-center-1plo)
 - [Bomb the Silo From Inside: Why Mission Teams Work](https://dev.to/asvid/bomb-the-silo-from-inside-why-mission-teams-work-o1p)
-- [Custom Functions FTW](https://dev.to/david_kershaw_b6916404da6/custom-functions-ftw-21co)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
