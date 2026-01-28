@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Python Functions &amp; Arguments: From Basics to *args and **kwargs](https://dev.to/suchismita_moharana_f8e8a/python-functions-arguments-from-basics-to-args-and-kwargs-ba1)
-- [Speed Comes From Understanding, Not Typing Faster](https://dev.to/sergueyasaelshinder/speed-comes-from-understanding-not-typing-faster-51eo)
-- [Build Your AI Analyst and Start Having Conversations with Your Structured Data](https://dev.to/simplewbs/build-your-ai-analyst-and-start-having-conversations-with-your-structured-data-547j)
-- [Running Text-to-Speech Fully in the Browser with PocketTTS](https://dev.to/soasme/running-text-to-speech-fully-in-the-browser-with-pockettts-2b0m)
-- [Building a Voice-Enabled AI Coach with Real Esports Data](https://dev.to/hulyamasharipov/building-a-voice-enabled-ai-coach-with-real-esports-data-al4)
+- [About Wizards &amp; Warlocks, Programmers &amp; Vibe Coders](https://dev.to/manuartero/about-wizards-warlocks-programmers-vibe-coders-4p6n)
+- [CVE-2026-22817: Identity Theft on the Edge: Exploiting JWT Algorithm Confusion in Hono](https://dev.to/cverports/cve-2026-22817-identity-theft-on-the-edge-exploiting-jwt-algorithm-confusion-in-hono-5an9)
+- [CVE-2026-22785: Orval Overload: From OpenAPI Spec to Remote Code Execution](https://dev.to/cverports/cve-2026-22785-orval-overload-from-openapi-spec-to-remote-code-execution-2db6)
+- [👋 Hey Dev!](https://dev.to/iammuhammadarslan/hey-dev-49ii)
+- [Solved: How did you discover your last profitable startup?](https://dev.to/techresolve/solved-how-did-you-discover-your-last-profitable-startup-dbh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
