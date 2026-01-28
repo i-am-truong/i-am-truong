@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Markdown to PDF](https://dev.to/anacunha/from-markdown-to-pdf-29io)
-- [Why Tech Careers Feel So Emotionally Heavy Now](https://dev.to/coderom/why-tech-careers-feel-so-emotionally-heavy-now-3dig)
-- [Beyond Backups: Building Verifiable Cloud Recovery on IBM Cloud](https://dev.to/thej_deep_457/beyond-backups-building-verifiable-cloud-recovery-on-ibm-cloud-4g3l)
-- [ℹ️ INFO LL-309: Iron Condor Optimal Control &lpar;+2 more&rpar;](https://dev.to/igorganapolsky/info-ll-309-iron-condor-optimal-control-2-more-2fmh)
-- [Why Creating a Workflow Directory Is Essential for Claude Cowork](https://dev.to/soanai/why-creating-a-workflow-directory-is-essential-for-claude-cowork-31ko)
+- [Who Am I &amp; What Do I Do? A Journey into Serverless Architecture &amp; Full-Stack Engineering 🚀](https://dev.to/abhay_prajapati/who-am-i-what-do-i-do-a-journey-into-serverless-architecture-full-stack-engineering-53i5)
+- [I’m building a small tool to help people understand relationship misunderstandings](https://dev.to/cherry_yan_871261020c032a/im-building-a-small-tool-to-help-people-understand-relationship-misunderstandings-4kfn)
+- [I built a global GLP-1 telehealth directory &lpar;and why it’s harder than it looks&rpar;](https://dev.to/cherry_yan_871261020c032a/i-built-a-global-glp-1-telehealth-directory-and-why-its-harder-than-it-looks-5aad)
+- [I got tired of spammy PDF Editing sites, so I built a simpler one](https://dev.to/ridham_savaliya_84efe263b/i-got-tired-of-spammy-pdf-editing-sites-so-i-built-a-simpler-one-4kme)
+- [Symfony UX: Single Directory Components &lpar;SDC&rpar; - The Path to Cleaner Architecture Without Tailwind](https://dev.to/tito10047/symfony-ux-single-directory-components-sdc-the-path-to-cleaner-architecture-without-tailwind-2bmn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
