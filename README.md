@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AICtrlNet: Visual AI Orchestration with Native Human-in-the-Loop &lpar;MIT Licensed&rpar;](https://dev.to/srirajasekhar_koritala_4c/aictrlnet-visual-ai-orchestration-with-native-human-in-the-loop-mit-licensed-49i3)
+- [Solved: Sync HubSpot Deals to a Google Sheet for Sales Visualization](https://dev.to/techresolve/solved-sync-hubspot-deals-to-a-google-sheet-for-sales-visualization-2b91)
 - [Automatically Create AI Clips with This n8n Template](https://dev.to/reka/automatically-create-ai-clips-with-this-n8n-template-6c1)
 - [Solved: Convert Voice Memos from Telegram to Text using OpenAI Whisper API](https://dev.to/techresolve/solved-convert-voice-memos-from-telegram-to-text-using-openai-whisper-api-41al)
-- [Angular Directives and Pipes: Complete Guide | Custom Directives, Pipes &amp; Transformations](https://dev.to/marufrahmanlive/angular-directives-and-pipes-complete-guide-custom-directives-pipes-transformations-2n44)
-- [Angular Component Communication: Complete Guide | @Input @Output EventEmitter &amp; ViewChild](https://dev.to/marufrahmanlive/angular-component-communication-complete-guide-input-output-eventemitter-viewchild-1395)
-- [A Portfolio That Actually Gets Read](https://dev.to/yukaty/a-portfolio-that-actually-gets-read-3j0n)
+- [Jeff&#39;s January 2026 Closeout](https://dev.to/mathgladiator/jeffs-january-2026-closeout-3b87)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
