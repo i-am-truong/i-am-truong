@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [PostgreSQL RLS in Go: Architecting Secure Multi-tenancy](https://dev.to/__8fa66572/postgresql-rls-in-go-architecting-secure-multi-tenancy-4ifm)
+- [Dead code detection in Go monorepos with deadmono](https://dev.to/arxeiss/dead-code-detection-in-go-monorepos-with-deadmono-3043)
 - [Building a Custom FB2 Converter for LLMs](https://dev.to/fithappensml/building-a-custom-fb2-converter-for-llms-2bnj)
 - [Stop the Latency: Why MCP Servers Belong on Dedicated Hardware, Not Lambda Functions](https://dev.to/bytesrack/stop-the-latency-why-mcp-servers-belong-on-dedicated-hardware-not-lambda-functions-169n)
 - [useState vs useRef — what should I use?](https://dev.to/daribock/usestate-vs-useref-what-should-i-use-2gkl)
-- [The time for the browsers is here](https://dev.to/viniciusdallacqua/the-time-for-the-browsers-is-here-2f2p)
-- [From Idea to Launch: How Developers Can Build Successful Startups 🏵](https://dev.to/thebitforge/from-idea-to-launch-how-developers-can-build-successful-startups-hf7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
