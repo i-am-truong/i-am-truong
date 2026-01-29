@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Do hackathons help anyone anymore?](https://dev.to/bengreenberg/do-hackathons-help-anyone-anymore-1klc)
-- [IoC and DI](https://dev.to/phoenix_238501d86d417e/ioc-and-di-md4)
-- [Top 5 Local LLM Tools and Models in 2026](https://dev.to/lightningdev123/top-5-local-llm-tools-and-models-in-2026-1ch5)
-- [Solved: Monitor Linux Disk Space usage and trigger Cleanup Scripts](https://dev.to/techresolve/solved-monitor-linux-disk-space-usage-and-trigger-cleanup-scripts-440)
-- [Weird JS](https://dev.to/rahul1994jh/weird-js-3lo9)
+- [Brave Search MCP Server Token Optimization](https://dev.to/hasmcp/brave-search-mcp-server-token-optimization-2mnk)
+- [How Migros Online protects its assets with Cloudflare - a DDoS Story](https://dev.to/migrosonline/how-migros-online-protects-its-assets-with-cloudflare-a-ddos-story-2n8j)
+- [Backstage SaaS &amp; Open Source Alternatives](https://dev.to/luciench/backstage-saas-open-source-alternatives-2m08)
+- [The New Networking: AI, Agents, and the DevOps of Control](https://dev.to/rpsan/the-new-networking-ai-agents-and-the-devops-of-control-4nam)
+- [New in EasyAdmin 4.28: New Filters, Better Autocomplete, CSP, and Smarter Actions](https://dev.to/javiereguiluz/new-in-easyadmin-428-new-filters-better-autocomplete-csp-and-smarter-actions-44l2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
