@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Ethereum Blockchain Development: Powering the Future of Decentralized Apps](https://dev.to/jenny_gupta_e7411d536a07a/ethereum-blockchain-development-powering-the-future-of-decentralized-apps-362b)
-- [I thought I knew JavaScript.](https://dev.to/amirhossein_ln/i-thought-i-knew-javascript-4kpb)
-- [🚀 Building Space: a calm Angular UI for an LLM &lpar;with stars&rpar;](https://dev.to/geez_burger/building-space-a-calm-angular-ui-for-an-llm-with-stars-39g6)
-- [AWS CDK Hotswap Deployments Now Support Bedrock AgentCore Runtime](https://dev.to/aws-heroes/aws-cdk-hotswap-deployments-now-support-bedrock-agentcore-runtime-42c7)
-- [Pager Interface Functions in SQLite: The Narrow Doorway to Persistence](https://dev.to/lovestaco/pager-interface-functions-in-sqlite-the-narrow-doorway-to-persistence-103a)
+- [I Built a Social Network as a Challenge — Did I Waste My Time?](https://dev.to/design_shake_3b010ccbcec4/i-built-a-social-network-as-a-challenge-did-i-waste-my-time-58mb)
+- [Linux Fundamentals - Part 3: Editing Files using Vim](https://dev.to/kervie_sazon/linux-fundamentals-part-3-editing-files-using-vim-3p7n)
+- [Task Tracker Comparison 2025–2026: Which One for .NET/DevOps?з](https://dev.to/belochka1-04/task-tracker-comparison-2025-2026-which-one-for-netdevopsz-32gh)
+- [Why HTML Tables Break on React Native &lpar;And How We Fixed It&rpar;](https://dev.to/seanmozeik/why-html-tables-break-on-react-native-and-how-we-fixed-it-4b9d)
+- [Rust Quiz 3 &amp; 4 – Mini Challenges, Ownership, and Real-World Rust](https://dev.to/manjushaps/rust-quiz-3-4-mini-challenges-ownership-and-real-world-rust-4ddo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
