@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [QR Codes Were Just the Entry Point: A Technical Breakdown of Post-Viral Social Engineering Vectors](https://dev.to/narnaiezzsshaa/qr-codes-were-just-the-entry-point-a-technical-breakdown-of-post-viral-social-engineering-vectors-3p39)
-- [React Query Complete Beginner&#39;s Guide - TanStack Query v5 + React + Vite](https://dev.to/myogeshchavan97/react-query-complete-beginners-guide-tanstack-query-v5-react-vite-4h60)
-- [Memory Layout in Embedded Systems: How C Code Really Ends Up in FLASH and RAM](https://dev.to/amanprasad/memory-layout-in-embedded-systems-how-c-code-really-ends-up-in-flash-and-ram-34c0)
-- [How to Pass the AZ-204 Microsoft Azure Developer Associate Exam](https://dev.to/kayea/how-to-pass-the-az-204-microsoft-azure-developer-associate-exam-2jpb)
-- [Browser Code: Teaching AI to Grow Userscripts](https://dev.to/tumf/browser-code-teaching-ai-to-grow-userscripts-3npj)
+- [Do hackathons help anyone anymore?](https://dev.to/bengreenberg/do-hackathons-help-anyone-anymore-1klc)
+- [IoC and DI](https://dev.to/phoenix_238501d86d417e/ioc-and-di-md4)
+- [Top 5 Local LLM Tools and Models in 2026](https://dev.to/lightningdev123/top-5-local-llm-tools-and-models-in-2026-1ch5)
+- [Solved: Monitor Linux Disk Space usage and trigger Cleanup Scripts](https://dev.to/techresolve/solved-monitor-linux-disk-space-usage-and-trigger-cleanup-scripts-440)
+- [Weird JS](https://dev.to/rahul1994jh/weird-js-3lo9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
