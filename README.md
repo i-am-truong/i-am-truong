@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Let&#39;s deploy kgateway using vCluster](https://dev.to/mediocredevops/lets-deploy-kgateway-using-vcluster-1e1n)
-- [DevFlow Navigator: A Tech-Lead-In-Your-Terminal Powered by GitHub Copilot CLI](https://dev.to/keerthana_696356/devflow-navigator-a-tech-lead-in-your-terminal-powered-by-github-copilot-cli-1d8g)
-- [Technical Debt : Biaya Jangka Pendek yang Menghambat Inovasi Jangka Panjang](https://dev.to/ryderxyz6969/technical-debt-biaya-jangka-pendek-yang-menghambat-inovasi-jangka-panjang-3dc6)
-- [The Developer&#39;s Guide to Generative UI in 2026](https://dev.to/copilotkit/the-developers-guide-to-generative-ui-in-2026-1bh3)
-- [The Object-Relational Impedance Mismatch: Why Your Java Objects and Database Tables Don&#39;t Play Nice](https://dev.to/phouchens/the-object-relational-impedance-mismatch-why-your-java-objects-and-database-tables-dont-play-nice-1a9b)
+- [Row Management and Layout Control](https://dev.to/lenormor/row-management-and-layout-control-4jfi)
+- [XLTable: Bringing the OLAP Experience Back to Excel on Modern Data Warehouses](https://dev.to/xltable/xltable-bringing-the-olap-experience-back-to-excel-on-modern-data-warehouses-14i3)
+- [Why AI Output Fails Before Generation Ever Begins](https://dev.to/leigh_k_valentine/why-ai-output-fails-before-generation-ever-begins-2pj7)
+- [Datadog + AWS: Observability Maturity Model 2026](https://dev.to/aws-builders/datadog-aws-observability-maturity-model-2026-210m)
+- [CSS Selectors 101: Targeting Elements with Precision](https://dev.to/kunal_dev/css-selectors-101-targeting-elements-with-precision-4oj8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
