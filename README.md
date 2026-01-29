@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [You Think Being Replaced by AI is Scary? I Think Developer Irrelevance is the Real Horror](https://dev.to/ryo_suwito/you-think-being-replaced-by-ai-is-scary-i-think-developer-irrelevance-is-the-real-horror-1513)
-- [Why Real-Time Communications and Web Applications Need Different Boundaries — A Comparison of SBC and WAF](https://dev.to/arina_cholee/why-real-time-communications-and-web-applications-need-different-boundaries-a-comparison-of-sbc-331b)
-- [I Turned My Resume into a Spotify Playlist](https://dev.to/fatiyaey/i-turned-my-resume-into-a-spotify-playlist-281k)
-- [Brave Search MCP Server Token Optimization](https://dev.to/hasmcp/brave-search-mcp-server-token-optimization-2mnk)
-- [How Migros Online protects its assets with Cloudflare - a DDoS Story](https://dev.to/migrosonline/how-migros-online-protects-its-assets-with-cloudflare-a-ddos-story-2n8j)
+- [Ethereum Hits Record Usage as Fees Fall, ERC-7779, Vitalik Targets “Trust-Me” Wallets, Ethereum&#39;s Post-Quantum Security Team](https://dev.to/etherspot/ethereum-hits-record-usage-as-fees-fall-erc-7779-vitalik-targets-trust-me-wallets-ethereums-45lj)
+- [The Silent Risk Developers Should Know About: Why Your Family History Matters More Than You Think](https://dev.to/aiagentstore/the-silent-risk-developers-should-know-about-why-your-family-history-matters-more-than-you-think-2ppg)
+- [Beyond Manual Orders: Implementing Event-Driven E-commerce Automation](https://dev.to/lifeisverygood/beyond-manual-orders-implementing-event-driven-e-commerce-automation-e2)
+- [Keep Your MkDocs Screenshots Up to Date &lpar;Material Theme&rpar;](https://dev.to/omachala/keep-your-mkdocs-screenshots-up-to-date-material-theme-4h1i)
+- [My AI Practitioner Certification Journey and the Resources to Certify with Confidence](https://dev.to/aws-builders/my-ai-practitioner-certification-journey-and-the-resources-to-certify-with-confidence-24bi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
