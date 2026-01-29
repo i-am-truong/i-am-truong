@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Demystifying AI Audio Separation: From FFTs to Production Workflows](https://dev.to/thi_ngocnguyen_877eb37e4/demystifying-ai-audio-separation-from-ffts-to-production-workflows-198a)
-- [Fixing Animated WebP Jitter on Android with Jetpack Compose](https://dev.to/brian_stark_09127/fixing-animated-webp-jitter-on-android-with-jetpack-compose-1ah)
-- [Before I forget how I got here...](https://dev.to/richhaase/before-i-forget-how-i-got-here-23b6)
-- [How I Discovered a Critical Security Gap in Our HashiCorp Vault - And What It Taught Me About Policy Design](https://dev.to/bhanu_prakash_bd40068f3b6/how-i-discovered-a-critical-security-gap-in-our-hashicorp-vault-and-what-it-taught-me-about-55e3)
-- [Is the language war even real?](https://dev.to/ujja/is-the-language-war-even-real-13n0)
+- [Stop writing boilerplate: A Single Source of Truth for Rust, Go, Python and TS](https://dev.to/hlop3z/stop-writing-boilerplate-a-single-source-of-truth-for-rust-go-python-and-ts-5ed1)
+- [Creating a faster cellular automata &lpar;in scratch&rpar;](https://dev.to/no_arms_studio/creating-a-faster-cellular-automata-in-scratch-1eij)
+- [How to Allow “www.” in the Website Field in Gravity Forms](https://dev.to/faisalahammad/how-to-allow-www-in-the-website-field-in-gravity-forms-1b31)
+- [The Secret Life of Go: Consumer-Defined Interfaces](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-consumer-defined-interfaces-13jn)
+- [Building an AI-Powered Job Matcher with Nuxt 4 &lpar;That Doesn&#39;t Auto-Apply&rpar;](https://dev.to/pravin_tripathi_9b6c7b266/building-an-ai-powered-job-matcher-with-nuxt-4-that-doesnt-auto-apply-31pb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
