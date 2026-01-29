@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop writing boilerplate: A Single Source of Truth for Rust, Go, Python and TS](https://dev.to/hlop3z/stop-writing-boilerplate-a-single-source-of-truth-for-rust-go-python-and-ts-5ed1)
-- [Creating a faster cellular automata &lpar;in scratch&rpar;](https://dev.to/no_arms_studio/creating-a-faster-cellular-automata-in-scratch-1eij)
-- [How to Allow “www.” in the Website Field in Gravity Forms](https://dev.to/faisalahammad/how-to-allow-www-in-the-website-field-in-gravity-forms-1b31)
-- [The Secret Life of Go: Consumer-Defined Interfaces](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-consumer-defined-interfaces-13jn)
-- [Building an AI-Powered Job Matcher with Nuxt 4 &lpar;That Doesn&#39;t Auto-Apply&rpar;](https://dev.to/pravin_tripathi_9b6c7b266/building-an-ai-powered-job-matcher-with-nuxt-4-that-doesnt-auto-apply-31pb)
+- [Creating a Chatbot that actually Stands Out! &lpar;vibe coded version&rpar;🦖](https://dev.to/rohan_sharma/creating-a-chatbot-that-actually-stands-out-vibe-coded-version-draft-1ake)
+- [try: Can You Find Your 2 AM Epiphany the Next Morning? — An Experimental Directory Management Tool by an ADHD Developer](https://dev.to/tumf/try-can-you-find-your-2-am-epiphany-the-next-morning-an-experimental-directory-management-tool-d83)
+- [CPU Work](https://dev.to/ikhwanal/cpu-work-fpm)
+- [I beat the 6-month Global Entry wait time with 50 lines of Python](https://dev.to/hypertools/i-beat-the-6-month-global-entry-wait-time-with-50-lines-of-python-2kn)
+- [Supercheck: Open Source AI-Powered Test Automation &amp; Monitoring Platform](https://dev.to/krishna_kant_b768440cb5a3/supercheck-open-source-ai-powered-test-automation-monitoring-platform-3929)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
