@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Supabase vs Appwrite A Student &amp; Freelancer Perspective &lpar;2026&rpar;](https://dev.to/girma35/supabase-vs-appwrite-a-student-freelancer-perspective-2026-iaj)
-- [Part 1: Reliable Payment &amp; Transaction](https://dev.to/jonghwayoo03_dev/part-1-reliable-payment-transaction-1njd)
-- [Clean Architecture in .NET 10: The Application Layer — CQRS Without the Ceremony](https://dev.to/bspann/clean-architecture-in-net-10-the-application-layer-cqrs-without-the-ceremony-3j1l)
-- [The problem with “generic” programming courses &lpar;and a better way&rpar;](https://dev.to/0fes/the-problem-with-generic-programming-courses-and-a-better-way-29ce)
-- [Building a &quot;Chief of Staff&quot; with Gemini 3: High-Reasoning Agents Beyond the Chatbot](https://dev.to/groundhog21/building-a-chief-of-staff-with-gemini-3-high-reasoning-agents-beyond-the-chatbot-1jo1)
+- [Next.js Caching and Rendering: Complete Guide for 2026](https://dev.to/marufrahmanlive/nextjs-caching-and-rendering-complete-guide-for-2026-ij2)
+- [Cursor AI vs GitHub Copilot: Which 2026 Code Editor Wins Your Workflow? 👑](https://dev.to/thebitforge/cursor-ai-vs-github-copilot-which-2026-code-editor-wins-your-workflow-1019)
+- [Subagents: How Claude Delegates Like Santa](https://dev.to/rajeshroyal/subagents-how-claude-delegates-like-santa-gg3)
+- [If Your Code Works on the First Try, There’s a Massive Mistake Somewhere](https://dev.to/jaskirat_singh/if-your-code-works-on-the-first-try-theres-a-massive-mistake-somewhere-1h8o)
+- [A YouTuber Misunderstood My Product in Seconds and It Exposed a Serious UX Failure](https://dev.to/mohammad_salman_mallick/a-youtuber-misunderstood-my-product-in-seconds-and-it-exposed-a-serious-ux-failure-45b7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
