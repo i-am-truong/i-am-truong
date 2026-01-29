@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [PostgreSQL RLS in Go: Architecting Secure Multi-tenancy](https://dev.to/__8fa66572/postgresql-rls-in-go-architecting-secure-multi-tenancy-4ifm)
-- [Dead code detection in Go monorepos with deadmono](https://dev.to/arxeiss/dead-code-detection-in-go-monorepos-with-deadmono-3043)
-- [Building a Custom FB2 Converter for LLMs](https://dev.to/fithappensml/building-a-custom-fb2-converter-for-llms-2bnj)
-- [Stop the Latency: Why MCP Servers Belong on Dedicated Hardware, Not Lambda Functions](https://dev.to/bytesrack/stop-the-latency-why-mcp-servers-belong-on-dedicated-hardware-not-lambda-functions-169n)
-- [useState vs useRef — what should I use?](https://dev.to/daribock/usestate-vs-useref-what-should-i-use-2gkl)
+- [Ethereum Blockchain Development: Powering the Future of Decentralized Apps](https://dev.to/jenny_gupta_e7411d536a07a/ethereum-blockchain-development-powering-the-future-of-decentralized-apps-362b)
+- [I thought I knew JavaScript.](https://dev.to/amirhossein_ln/i-thought-i-knew-javascript-4kpb)
+- [🚀 Building Space: a calm Angular UI for an LLM &lpar;with stars&rpar;](https://dev.to/geez_burger/building-space-a-calm-angular-ui-for-an-llm-with-stars-39g6)
+- [AWS CDK Hotswap Deployments Now Support Bedrock AgentCore Runtime](https://dev.to/aws-heroes/aws-cdk-hotswap-deployments-now-support-bedrock-agentcore-runtime-42c7)
+- [Pager Interface Functions in SQLite: The Narrow Doorway to Persistence](https://dev.to/lovestaco/pager-interface-functions-in-sqlite-the-narrow-doorway-to-persistence-103a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
