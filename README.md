@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [n8n vs Custom Code for Implementing Webhooks](https://dev.to/ewacreate/n8n-vs-custom-code-for-implementing-webhooks-h5j)
-- [Coordinator Pattern: Taking Control of the Flow](https://dev.to/konstantin_shkurko/coordinator-pattern-taking-control-of-the-flow-ao0)
-- [Nuxt 4 War Stories: The Errors I Never Want to See Again](https://dev.to/genglin-bulkpictools/nuxt-4-war-stories-the-errors-i-never-want-to-see-again-3iig)
-- [We Built an Optimization Engine - and Realized Optimization Was the Wrong Problem](https://dev.to/kiploksrobustnessengine/we-built-an-optimization-engine-and-realized-optimization-was-the-wrong-problem-26p4)
-- [Advanced Drag and Drop Operations](https://dev.to/lenormor/advanced-drag-and-drop-operations-5a5)
+- [Lightweight / health check tool](https://dev.to/charbelharb/lightweight-health-check-tool-28e2)
+- [Server-rendered Maps for Web and Mobile](https://dev.to/mapbox/server-rendered-maps-for-web-and-mobile-51f7)
+- [Leading Quality Through Change: Balancing Speed, AI, and the Fundamentals That Matter](https://dev.to/cypress/leading-quality-through-change-balancing-speed-ai-and-the-fundamentals-that-matter-oi7)
+- [Why TikTok&#39;s Compliance Win Became User Trust Disaster](https://dev.to/ownlife/why-tiktoks-compliance-win-became-user-trust-disaster-3n11)
+- [A Simple MongoDB MCP Server Agent](https://dev.to/mongodb/a-simple-mongodb-mcp-server-agent-na7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
