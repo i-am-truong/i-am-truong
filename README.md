@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [OneSignal Push Notification Setup in React Native](https://dev.to/futuredevtech/onesignal-push-notification-setup-in-react-native-3hl3)
-- [I spent $2k on OpenAI before realizing one feature was 70% of it](https://dev.to/harshit_sharma_b0eb4ca6cf/i-spent-2k-on-openai-before-realizing-one-feature-was-70-of-it-hh9)
-- [AI Music Producer Portfolio Built with Antigravity &amp; Cloud Run](https://dev.to/partha_chakraborty_8f42ba/ai-music-producer-portfolio-built-with-antigravity-cloud-run-1gfh)
-- [Bringing GitHub Copilot Agents to Azure DevOps](https://dev.to/berkslv/bringing-github-copilot-agents-to-azure-devops-3dn3)
-- [Handling Worldpay Payment State Transitions Safely in .NET](https://dev.to/ramapratheeba/handling-worldpay-payment-state-transitions-safely-in-net-fc6)
+- [Building a Custom FB2 Converter for LLMs](https://dev.to/fithappensml/building-a-custom-fb2-converter-for-llms-2bnj)
+- [Stop the Latency: Why MCP Servers Belong on Dedicated Hardware, Not Lambda Functions](https://dev.to/bytesrack/stop-the-latency-why-mcp-servers-belong-on-dedicated-hardware-not-lambda-functions-169n)
+- [useState vs useRef — what should I use?](https://dev.to/daribock/usestate-vs-useref-what-should-i-use-2gkl)
+- [The time for the browsers is here](https://dev.to/viniciusdallacqua/the-time-for-the-browsers-is-here-2f2p)
+- [From Idea to Launch: How Developers Can Build Successful Startups 🏵](https://dev.to/thebitforge/from-idea-to-launch-how-developers-can-build-successful-startups-hf7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
