@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building CryptoVault: A Professional File Encryption Tool for Linux](https://dev.to/cl4y/building-cryptovault-a-professional-file-encryption-tool-for-linux-14bf)
-- [AI-CLDD &lpar;AI-Change-Log Driven Development&rpar;](https://dev.to/cesarpaulomp/ai-cldd-ai-change-log-driven-development-30fo)
-- [SSE vs WebSockets: choosing the right transport for market data](https://dev.to/donbagger/sse-vs-websockets-choosing-the-right-transport-for-market-data-56d4)
-- [2026-01-28 Weekly Quantum News](https://dev.to/dan_ledger_ce2886f0037972/2026-01-28-weekly-quantum-news-2a3g)
-- [Ramadan Mubarak](https://dev.to/__b72d0e6894e6/ramadan-mubarak-3g0l)
+- [Demystifying AI Audio Separation: From FFTs to Production Workflows](https://dev.to/thi_ngocnguyen_877eb37e4/demystifying-ai-audio-separation-from-ffts-to-production-workflows-198a)
+- [Fixing Animated WebP Jitter on Android with Jetpack Compose](https://dev.to/brian_stark_09127/fixing-animated-webp-jitter-on-android-with-jetpack-compose-1ah)
+- [Before I forget how I got here...](https://dev.to/richhaase/before-i-forget-how-i-got-here-23b6)
+- [How I Discovered a Critical Security Gap in Our HashiCorp Vault - And What It Taught Me About Policy Design](https://dev.to/bhanu_prakash_bd40068f3b6/how-i-discovered-a-critical-security-gap-in-our-hashicorp-vault-and-what-it-taught-me-about-55e3)
+- [Is the language war even real?](https://dev.to/ujja/is-the-language-war-even-real-13n0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
