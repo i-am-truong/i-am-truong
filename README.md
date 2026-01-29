@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Row Management and Layout Control](https://dev.to/lenormor/row-management-and-layout-control-4jfi)
-- [XLTable: Bringing the OLAP Experience Back to Excel on Modern Data Warehouses](https://dev.to/xltable/xltable-bringing-the-olap-experience-back-to-excel-on-modern-data-warehouses-14i3)
-- [Why AI Output Fails Before Generation Ever Begins](https://dev.to/leigh_k_valentine/why-ai-output-fails-before-generation-ever-begins-2pj7)
-- [Datadog + AWS: Observability Maturity Model 2026](https://dev.to/aws-builders/datadog-aws-observability-maturity-model-2026-210m)
-- [CSS Selectors 101: Targeting Elements with Precision](https://dev.to/kunal_dev/css-selectors-101-targeting-elements-with-precision-4oj8)
+- [n8n vs Custom Code for Implementing Webhooks](https://dev.to/ewacreate/n8n-vs-custom-code-for-implementing-webhooks-h5j)
+- [Coordinator Pattern: Taking Control of the Flow](https://dev.to/konstantin_shkurko/coordinator-pattern-taking-control-of-the-flow-ao0)
+- [Nuxt 4 War Stories: The Errors I Never Want to See Again](https://dev.to/genglin-bulkpictools/nuxt-4-war-stories-the-errors-i-never-want-to-see-again-3iig)
+- [We Built an Optimization Engine - and Realized Optimization Was the Wrong Problem](https://dev.to/kiploksrobustnessengine/we-built-an-optimization-engine-and-realized-optimization-was-the-wrong-problem-26p4)
+- [Advanced Drag and Drop Operations](https://dev.to/lenormor/advanced-drag-and-drop-operations-5a5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
