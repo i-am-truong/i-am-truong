@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Creating a Chatbot that actually Stands Out! &lpar;vibe coded version&rpar;🦖](https://dev.to/rohan_sharma/creating-a-chatbot-that-actually-stands-out-vibe-coded-version-draft-1ake)
-- [try: Can You Find Your 2 AM Epiphany the Next Morning? — An Experimental Directory Management Tool by an ADHD Developer](https://dev.to/tumf/try-can-you-find-your-2-am-epiphany-the-next-morning-an-experimental-directory-management-tool-d83)
-- [CPU Work](https://dev.to/ikhwanal/cpu-work-fpm)
-- [I beat the 6-month Global Entry wait time with 50 lines of Python](https://dev.to/hypertools/i-beat-the-6-month-global-entry-wait-time-with-50-lines-of-python-2kn)
-- [Supercheck: Open Source AI-Powered Test Automation &amp; Monitoring Platform](https://dev.to/krishna_kant_b768440cb5a3/supercheck-open-source-ai-powered-test-automation-monitoring-platform-3929)
+- [QR Codes Were Just the Entry Point: A Technical Breakdown of Post-Viral Social Engineering Vectors](https://dev.to/narnaiezzsshaa/qr-codes-were-just-the-entry-point-a-technical-breakdown-of-post-viral-social-engineering-vectors-3p39)
+- [React Query Complete Beginner&#39;s Guide - TanStack Query v5 + React + Vite](https://dev.to/myogeshchavan97/react-query-complete-beginners-guide-tanstack-query-v5-react-vite-4h60)
+- [Memory Layout in Embedded Systems: How C Code Really Ends Up in FLASH and RAM](https://dev.to/amanprasad/memory-layout-in-embedded-systems-how-c-code-really-ends-up-in-flash-and-ram-34c0)
+- [How to Pass the AZ-204 Microsoft Azure Developer Associate Exam](https://dev.to/kayea/how-to-pass-the-az-204-microsoft-azure-developer-associate-exam-2jpb)
+- [Browser Code: Teaching AI to Grow Userscripts](https://dev.to/tumf/browser-code-teaching-ai-to-grow-userscripts-3npj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
