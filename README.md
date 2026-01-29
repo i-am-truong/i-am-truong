@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A lego set could do so much more builds](https://dev.to/vincentaltspec/a-lego-set-could-do-so-much-more-builds-3k3m)
-- [🔍 Restore Google Search in Brave Browser - Quick Dev Fix](https://dev.to/iydebu/restore-google-search-in-brave-browser-quick-dev-fix-413f)
-- [Software Testing Fundamentals: Black Box, White Box, and the Test Pyramid](https://dev.to/rubemfsv/software-testing-fundamentals-black-box-white-box-and-the-test-pyramid-mm4)
-- [Exploring Cross Entropy: The Essential Component for Softmax Backpropagation](https://dev.to/rijultp/exploring-cross-entropy-the-essential-component-for-softmax-backpropagation-465i)
-- [RTK Query: Complete Guide for React Data Fetching and Caching](https://dev.to/marufrahmanlive/rtk-query-complete-guide-for-react-data-fetching-and-caching-1eaf)
+- [JWT Authentication in Express.js and Node.js: Complete Guide](https://dev.to/marufrahmanlive/jwt-authentication-in-expressjs-and-nodejs-complete-guide-2261)
+- [How DNS Resolution Works — Tracing the Internet’s Phonebook with dig](https://dev.to/ritam369/how-dns-resolution-works-tracing-the-internets-phonebook-with-dig-3gpc)
+- [Zero Trust 2026: Has the Trust Boundary &#39;Vanished&#39;? AI, ID-JAG, and Confidential Computing](https://dev.to/kanywst/zero-trust-2026-has-the-trust-boundary-vanished-ai-id-jag-and-confidential-computing-5d13)
+- [Unraveling RabbitMQ: How to Scale Systems with Queues](https://dev.to/altairlage/unraveling-rabbitmq-how-to-scale-systems-with-queues-3531)
+- [Why Cosine Similarity Fails in RAG &lpar;And What to Use Instead&rpar;](https://dev.to/mossforge/why-cosine-similarity-fails-in-rag-and-what-to-use-instead-pb5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
