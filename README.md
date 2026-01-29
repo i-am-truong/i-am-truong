@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Your Team Deserves Better Than a Shared Dev Environment - Ephemeral Environments with Coolify](https://dev.to/amirraouf/your-team-deserves-better-than-a-shared-dev-environment-ephemeral-environments-with-coolify-54gk)
 - [AICtrlNet: Visual AI Orchestration with Native Human-in-the-Loop &lpar;MIT Licensed&rpar;](https://dev.to/srirajasekhar_koritala_4c/aictrlnet-visual-ai-orchestration-with-native-human-in-the-loop-mit-licensed-49i3)
 - [Solved: Sync HubSpot Deals to a Google Sheet for Sales Visualization](https://dev.to/techresolve/solved-sync-hubspot-deals-to-a-google-sheet-for-sales-visualization-2b91)
 - [Automatically Create AI Clips with This n8n Template](https://dev.to/reka/automatically-create-ai-clips-with-this-n8n-template-6c1)
 - [Solved: Convert Voice Memos from Telegram to Text using OpenAI Whisper API](https://dev.to/techresolve/solved-convert-voice-memos-from-telegram-to-text-using-openai-whisper-api-41al)
-- [Jeff&#39;s January 2026 Closeout](https://dev.to/mathgladiator/jeffs-january-2026-closeout-3b87)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
