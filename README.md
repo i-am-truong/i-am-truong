@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [JWT Authentication in Express.js and Node.js: Complete Guide](https://dev.to/marufrahmanlive/jwt-authentication-in-expressjs-and-nodejs-complete-guide-2261)
-- [How DNS Resolution Works — Tracing the Internet’s Phonebook with dig](https://dev.to/ritam369/how-dns-resolution-works-tracing-the-internets-phonebook-with-dig-3gpc)
-- [Zero Trust 2026: Has the Trust Boundary &#39;Vanished&#39;? AI, ID-JAG, and Confidential Computing](https://dev.to/kanywst/zero-trust-2026-has-the-trust-boundary-vanished-ai-id-jag-and-confidential-computing-5d13)
-- [Unraveling RabbitMQ: How to Scale Systems with Queues](https://dev.to/altairlage/unraveling-rabbitmq-how-to-scale-systems-with-queues-3531)
-- [Why Cosine Similarity Fails in RAG &lpar;And What to Use Instead&rpar;](https://dev.to/mossforge/why-cosine-similarity-fails-in-rag-and-what-to-use-instead-pb5)
+- [Building a Rich Text Editor in React](https://dev.to/puckeditor/building-a-rich-text-editor-in-react-43h2)
+- [From Kenya to Germany - Building an interactive robotics portfolio](https://dev.to/nicanor_korir/from-kenya-to-germany-building-an-interactive-robotics-portfolio-4gdn)
+- [CinemaSins: Everything Wrong With Tommy Boy In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-tommy-boy-in-20-minutes-or-less-39k7)
+- [COCO-Text: Dataset and Benchmark for Text Detection and Recognition in NaturalImages](https://dev.to/paperium/coco-text-dataset-and-benchmark-for-text-detection-and-recognition-in-naturalimages-32m1)
+- [Express.js REST API Setup: Complete Guide for Production](https://dev.to/marufrahmanlive/expressjs-rest-api-setup-complete-guide-for-production-3jc6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
