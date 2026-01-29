@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Ethereum Hits Record Usage as Fees Fall, ERC-7779, Vitalik Targets “Trust-Me” Wallets, Ethereum&#39;s Post-Quantum Security Team](https://dev.to/etherspot/ethereum-hits-record-usage-as-fees-fall-erc-7779-vitalik-targets-trust-me-wallets-ethereums-45lj)
-- [The Silent Risk Developers Should Know About: Why Your Family History Matters More Than You Think](https://dev.to/aiagentstore/the-silent-risk-developers-should-know-about-why-your-family-history-matters-more-than-you-think-2ppg)
-- [Beyond Manual Orders: Implementing Event-Driven E-commerce Automation](https://dev.to/lifeisverygood/beyond-manual-orders-implementing-event-driven-e-commerce-automation-e2)
-- [Keep Your MkDocs Screenshots Up to Date &lpar;Material Theme&rpar;](https://dev.to/omachala/keep-your-mkdocs-screenshots-up-to-date-material-theme-4h1i)
-- [My AI Practitioner Certification Journey and the Resources to Certify with Confidence](https://dev.to/aws-builders/my-ai-practitioner-certification-journey-and-the-resources-to-certify-with-confidence-24bi)
+- [What Happens If Two Android Phones Edit the Same Data Offline?](https://dev.to/midopooler/what-happens-if-two-android-phones-edit-the-same-data-offline-3ok2)
+- [Understanding HTML Tags and Elements](https://dev.to/kunal_dev/understanding-html-tags-and-elements-55b9)
+- [The Graph: How Blockchain Apps Query Data Without Running Nodes](https://dev.to/ribhavmodi/the-graph-how-blockchain-apps-query-data-without-running-nodes-4pbp)
+- [ChatGPT Tutorial for Beginners &lpar;2026 Edition&rpar;](https://dev.to/volt1480/chatgpt-tutorial-for-beginners-2026-edition-2251)
+- [Stop Feeding DOM Snapshots to Claude — Use a Rubber Duck Instead](https://dev.to/nesquikm/stop-feeding-dom-snapshots-to-claude-use-a-rubber-duck-instead-34la)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
