@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How DiDi Scaled to Hundreds of Petabytes with Apache Ozone](https://dev.to/theasf/how-didi-scaled-to-hundreds-of-petabytes-with-apache-ozone-2bdk)
 - [Beyond Containers: Building Globally Distributed APIs with Bun, Elysia, and Turso.](https://dev.to/isccnewt/beyond-containers-building-globally-distributed-apis-with-bun-elysia-and-turso-2ii9)
 - [2026-01-29 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2026-01-29-daily-ai-news-3pho)
 - [AWS CloudWatch](https://dev.to/freddie_barron/aws-cloudwatch-1do9)
 - [It&#39;s hard to make money from software alone](https://dev.to/ironcladdev/its-hard-to-make-money-from-software-alone-53gp)
-- [Unpopular Opinion: I stopped coding on weekends and my career got better.](https://dev.to/the_nortern_dev/unpopular-opinion-i-stopped-coding-on-weekends-and-my-career-got-better-3el)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
