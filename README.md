@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 10: Finally a 2 digit number!!!](https://dev.to/sugunadithya/day-10-finally-a-2-digit-number-3lf4)
-- [Your Code Is Slow Because You Think in Objects, Not Data](https://dev.to/rafacalderon/your-code-is-slow-because-you-think-in-objects-not-data-4mn8)
-- [The Ultimate Database That Makes Compliance Audits Effortless](https://dev.to/cyberpath/the-ultimate-database-that-makes-compliance-audits-effortless-32ga)
-- [The Hidden Complexity of AI Model Orchestration: Why Loading Models Is Harder Than You Think](https://dev.to/hejhdiss/the-hidden-complexity-of-ai-model-orchestration-why-loading-models-is-harder-than-you-think-2d2m)
-- [How to Prevent AI Models from Training on Website Images](https://dev.to/biancarus/how-to-prevent-ai-models-from-training-on-website-images-2216)
+- [Supabase vs Appwrite A Student &amp; Freelancer Perspective &lpar;2026&rpar;](https://dev.to/girma35/supabase-vs-appwrite-a-student-freelancer-perspective-2026-iaj)
+- [Part 1: Reliable Payment &amp; Transaction](https://dev.to/jonghwayoo03_dev/part-1-reliable-payment-transaction-1njd)
+- [Clean Architecture in .NET 10: The Application Layer — CQRS Without the Ceremony](https://dev.to/bspann/clean-architecture-in-net-10-the-application-layer-cqrs-without-the-ceremony-3j1l)
+- [The problem with “generic” programming courses &lpar;and a better way&rpar;](https://dev.to/0fes/the-problem-with-generic-programming-courses-and-a-better-way-29ce)
+- [Building a &quot;Chief of Staff&quot; with Gemini 3: High-Reasoning Agents Beyond the Chatbot](https://dev.to/groundhog21/building-a-chief-of-staff-with-gemini-3-high-reasoning-agents-beyond-the-chatbot-1jo1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
