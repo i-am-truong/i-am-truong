@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Test Your Use Case with Postman](https://dev.to/tabapay/test-your-use-case-with-postman-lci)
-- [A Practical JSON “Fix-It” Workflow &lpar;and the browser tools I keep open all day&rpar;](https://dev.to/wesley_zhang_22e9a53ad025/a-practical-json-fix-it-workflow-and-the-browser-tools-i-keep-open-all-day-58fe)
-- [CKS SecurityContext Patterns You Must Memorize &lpar;Pod vs Container + Fast Verification&rpar;](https://dev.to/devops_dynamo_ae449a82026/cks-securitycontext-patterns-you-must-memorize-pod-vs-container-fast-verification-39ac)
-- [Build a Custom Lead Enrichment Layer to Find Signal in Noise](https://dev.to/sandipan_bhaumik_effe80b2/build-a-custom-lead-enrichment-layer-to-find-signal-in-noise-1301)
-- [Getting Started with MongoDB BulkWrite in PHP](https://dev.to/mongodb/getting-started-with-mongodb-bulkwrite-in-php-2a7m)
+- [Beyond Containers: Building Globally Distributed APIs with Bun, Elysia, and Turso.](https://dev.to/isccnewt/beyond-containers-building-globally-distributed-apis-with-bun-elysia-and-turso-2ii9)
+- [2026-01-29 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2026-01-29-daily-ai-news-3pho)
+- [AWS CloudWatch](https://dev.to/freddie_barron/aws-cloudwatch-1do9)
+- [It&#39;s hard to make money from software alone](https://dev.to/ironcladdev/its-hard-to-make-money-from-software-alone-53gp)
+- [Unpopular Opinion: I stopped coding on weekends and my career got better.](https://dev.to/the_nortern_dev/unpopular-opinion-i-stopped-coding-on-weekends-and-my-career-got-better-3el)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
