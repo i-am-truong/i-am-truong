@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Social Network as a Challenge — Did I Waste My Time?](https://dev.to/design_shake_3b010ccbcec4/i-built-a-social-network-as-a-challenge-did-i-waste-my-time-58mb)
-- [Linux Fundamentals - Part 3: Editing Files using Vim](https://dev.to/kervie_sazon/linux-fundamentals-part-3-editing-files-using-vim-3p7n)
-- [Task Tracker Comparison 2025–2026: Which One for .NET/DevOps?з](https://dev.to/belochka1-04/task-tracker-comparison-2025-2026-which-one-for-netdevopsz-32gh)
-- [Why HTML Tables Break on React Native &lpar;And How We Fixed It&rpar;](https://dev.to/seanmozeik/why-html-tables-break-on-react-native-and-how-we-fixed-it-4b9d)
-- [Rust Quiz 3 &amp; 4 – Mini Challenges, Ownership, and Real-World Rust](https://dev.to/manjushaps/rust-quiz-3-4-mini-challenges-ownership-and-real-world-rust-4ddo)
+- [Let&#39;s deploy kgateway using vCluster](https://dev.to/mediocredevops/lets-deploy-kgateway-using-vcluster-1e1n)
+- [DevFlow Navigator: A Tech-Lead-In-Your-Terminal Powered by GitHub Copilot CLI](https://dev.to/keerthana_696356/devflow-navigator-a-tech-lead-in-your-terminal-powered-by-github-copilot-cli-1d8g)
+- [Technical Debt : Biaya Jangka Pendek yang Menghambat Inovasi Jangka Panjang](https://dev.to/ryderxyz6969/technical-debt-biaya-jangka-pendek-yang-menghambat-inovasi-jangka-panjang-3dc6)
+- [The Developer&#39;s Guide to Generative UI in 2026](https://dev.to/copilotkit/the-developers-guide-to-generative-ui-in-2026-1bh3)
+- [The Object-Relational Impedance Mismatch: Why Your Java Objects and Database Tables Don&#39;t Play Nice](https://dev.to/phouchens/the-object-relational-impedance-mismatch-why-your-java-objects-and-database-tables-dont-play-nice-1a9b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
