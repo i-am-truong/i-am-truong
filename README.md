@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Automatically Create AI Clips with This n8n Template](https://dev.to/reka/automatically-create-ai-clips-with-this-n8n-template-6c1)
+- [Solved: Convert Voice Memos from Telegram to Text using OpenAI Whisper API](https://dev.to/techresolve/solved-convert-voice-memos-from-telegram-to-text-using-openai-whisper-api-41al)
 - [Angular Directives and Pipes: Complete Guide | Custom Directives, Pipes &amp; Transformations](https://dev.to/marufrahmanlive/angular-directives-and-pipes-complete-guide-custom-directives-pipes-transformations-2n44)
 - [Angular Component Communication: Complete Guide | @Input @Output EventEmitter &amp; ViewChild](https://dev.to/marufrahmanlive/angular-component-communication-complete-guide-input-output-eventemitter-viewchild-1395)
 - [A Portfolio That Actually Gets Read](https://dev.to/yukaty/a-portfolio-that-actually-gets-read-3j0n)
-- [What is a API?](https://dev.to/fedrummond_/what-is-a-api-5dnn)
-- [React Router Setup: Complete Guide for React Applications](https://dev.to/marufrahmanlive/react-router-setup-complete-guide-for-react-applications-l9g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
