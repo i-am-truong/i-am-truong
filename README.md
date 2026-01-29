@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Friday = Retro Day 🍻📈](https://dev.to/mattlewandowski93/friday-retro-day-44a1)
-- [Enfim, DDD - Padrões de projeto no front-end. Parte 2.](https://dev.to/layssadev/enfim-ddd-padroes-de-projeto-no-front-end-parte-2-3bbf)
-- [Git, GitHub, and EC2: A Practical Walkthrough from Local Repo to Live Deployment](https://dev.to/theodora_e6f61d02577a5f06/git-github-and-ec2-a-practical-walkthrough-from-local-repo-to-live-deployment-j7c)
-- [Old wannabe developer comes for one more try...](https://dev.to/j0kic0de/old-developer-comes-for-one-more-try-47an)
-- [AI Trading: Day 85 - 10 Lessons Learned &lpar;January 21, 2026&rpar;](https://dev.to/igorganapolsky/ai-trading-day-85-10-lessons-learned-january-21-2026-8j5)
+- [Test Your Use Case with Postman](https://dev.to/tabapay/test-your-use-case-with-postman-lci)
+- [A Practical JSON “Fix-It” Workflow &lpar;and the browser tools I keep open all day&rpar;](https://dev.to/wesley_zhang_22e9a53ad025/a-practical-json-fix-it-workflow-and-the-browser-tools-i-keep-open-all-day-58fe)
+- [CKS SecurityContext Patterns You Must Memorize &lpar;Pod vs Container + Fast Verification&rpar;](https://dev.to/devops_dynamo_ae449a82026/cks-securitycontext-patterns-you-must-memorize-pod-vs-container-fast-verification-39ac)
+- [Build a Custom Lead Enrichment Layer to Find Signal in Noise](https://dev.to/sandipan_bhaumik_effe80b2/build-a-custom-lead-enrichment-layer-to-find-signal-in-noise-1301)
+- [Getting Started with MongoDB BulkWrite in PHP](https://dev.to/mongodb/getting-started-with-mongodb-bulkwrite-in-php-2a7m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
