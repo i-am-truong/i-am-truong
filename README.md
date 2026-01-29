@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Lightweight / health check tool](https://dev.to/charbelharb/lightweight-health-check-tool-28e2)
-- [Server-rendered Maps for Web and Mobile](https://dev.to/mapbox/server-rendered-maps-for-web-and-mobile-51f7)
-- [Leading Quality Through Change: Balancing Speed, AI, and the Fundamentals That Matter](https://dev.to/cypress/leading-quality-through-change-balancing-speed-ai-and-the-fundamentals-that-matter-oi7)
-- [Why TikTok&#39;s Compliance Win Became User Trust Disaster](https://dev.to/ownlife/why-tiktoks-compliance-win-became-user-trust-disaster-3n11)
-- [A Simple MongoDB MCP Server Agent](https://dev.to/mongodb/a-simple-mongodb-mcp-server-agent-na7)
+- [Day 10: Finally a 2 digit number!!!](https://dev.to/sugunadithya/day-10-finally-a-2-digit-number-3lf4)
+- [Your Code Is Slow Because You Think in Objects, Not Data](https://dev.to/rafacalderon/your-code-is-slow-because-you-think-in-objects-not-data-4mn8)
+- [The Ultimate Database That Makes Compliance Audits Effortless](https://dev.to/cyberpath/the-ultimate-database-that-makes-compliance-audits-effortless-32ga)
+- [The Hidden Complexity of AI Model Orchestration: Why Loading Models Is Harder Than You Think](https://dev.to/hejhdiss/the-hidden-complexity-of-ai-model-orchestration-why-loading-models-is-harder-than-you-think-2d2m)
+- [How to Prevent AI Models from Training on Website Images](https://dev.to/biancarus/how-to-prevent-ai-models-from-training-on-website-images-2216)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
