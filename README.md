@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your Team Deserves Better Than a Shared Dev Environment - Ephemeral Environments with Coolify](https://dev.to/amirraouf/your-team-deserves-better-than-a-shared-dev-environment-ephemeral-environments-with-coolify-54gk)
-- [AICtrlNet: Visual AI Orchestration with Native Human-in-the-Loop &lpar;MIT Licensed&rpar;](https://dev.to/srirajasekhar_koritala_4c/aictrlnet-visual-ai-orchestration-with-native-human-in-the-loop-mit-licensed-49i3)
-- [Solved: Sync HubSpot Deals to a Google Sheet for Sales Visualization](https://dev.to/techresolve/solved-sync-hubspot-deals-to-a-google-sheet-for-sales-visualization-2b91)
-- [Automatically Create AI Clips with This n8n Template](https://dev.to/reka/automatically-create-ai-clips-with-this-n8n-template-6c1)
-- [Solved: Convert Voice Memos from Telegram to Text using OpenAI Whisper API](https://dev.to/techresolve/solved-convert-voice-memos-from-telegram-to-text-using-openai-whisper-api-41al)
+- [Friday = Retro Day 🍻📈](https://dev.to/mattlewandowski93/friday-retro-day-44a1)
+- [Enfim, DDD - Padrões de projeto no front-end. Parte 2.](https://dev.to/layssadev/enfim-ddd-padroes-de-projeto-no-front-end-parte-2-3bbf)
+- [Git, GitHub, and EC2: A Practical Walkthrough from Local Repo to Live Deployment](https://dev.to/theodora_e6f61d02577a5f06/git-github-and-ec2-a-practical-walkthrough-from-local-repo-to-live-deployment-j7c)
+- [Old wannabe developer comes for one more try...](https://dev.to/j0kic0de/old-developer-comes-for-one-more-try-47an)
+- [AI Trading: Day 85 - 10 Lessons Learned &lpar;January 21, 2026&rpar;](https://dev.to/igorganapolsky/ai-trading-day-85-10-lessons-learned-january-21-2026-8j5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
