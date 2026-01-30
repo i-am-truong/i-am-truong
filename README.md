@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Email Flow Validation in Go Under Tight Deadlines: A Senior Architect’s Approach](https://dev.to/mohammad_waseem_c31f3a26f/mastering-email-flow-validation-in-go-under-tight-deadlines-a-senior-architects-approach-1j7p)
-- [Commands: Stop Repeating Yourself and Start Shipping Faster](https://dev.to/rajeshroyal/commands-stop-repeating-yourself-and-start-shipping-faster-4gci)
-- [NAT Traversal: How It Works](https://dev.to/alakkadshaw/nat-traversal-how-it-works-4dnc)
-- [Animated iOS Splash Screens: The Illusion Apple Actually Allows](https://dev.to/voinkoder/animated-ios-splash-screens-the-illusion-apple-actually-allows-52ej)
-- [# Expo vs Bare React Native](https://dev.to/iamsaadmehmood/-expo-vs-bare-react-native-4ek0)
+- [CSS Selectors 101: Targeting Elements with Precision](https://dev.to/hiral/css-selectors-101-targeting-elements-with-precision-j2f)
+- [How to Configure Asymmetric JWTs on Self-Hosted Supabase](https://dev.to/vpcano/how-to-configure-asymmetric-jwts-on-self-hosted-supabase-53ed)
+- [Mastering the Linux Software Toolbox: A Professional’s Deep Dive into GNU Coreutils 9.9](https://dev.to/kurdistan_linux_lab/mastering-the-linux-software-toolbox-a-professionals-deep-dive-into-gnu-coreutils-99-21em)
+- [Closest Official Color page Enhancements](https://dev.to/yellowbear/closest-official-color-page-enhancements-nl3)
+- [Making games is fun, but... What makes a game fun?](https://dev.to/1ribeirolucas/making-games-is-fun-but-what-makes-a-game-fun-44fp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
