@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [When Cloud Agents Are the Right Tool &lpar;And When They Aren’t&rpar;](https://dev.to/bekahhw/when-cloud-agents-are-the-right-tool-and-when-they-arent-42dg)
-- [Coding Challenge Practice - Question 109](https://dev.to/tomivan/coding-challenge-practice-question-109-3m02)
-- [Von der Handwerker-Website zur Conversion-Maschine: Was Entwickler von lokalen Businesses lernen können](https://dev.to/ivo_sa/von-der-handwerker-website-zur-conversion-maschine-was-entwickler-von-lokalen-businesses-lernen-bbg)
-- [The Cryptographic Pivot: From Symmetric to Asymmetric Efficiency](https://dev.to/kumaraish/the-cryptographic-pivot-from-symmetric-to-asymmetric-efficiency-2iha)
-- [Why do keys matter in React, and how do they improve performance?](https://dev.to/thesnehamk/why-do-keys-matter-in-react-and-how-do-they-improve-performance-4d1m)
+- [Trading CV- A different and interactive way to share your skills.](https://dev.to/julsr_mx/trading-cv-a-different-and-interactive-way-to-share-your-skills-476o)
+- [🧠 Mastering VS Code Debugger for Node.js: A Real-World Guide to Fixing Production Bugs Faster 🚀](https://dev.to/darshanraval/mastering-vs-code-debugger-for-nodejs-a-real-world-guide-to-fixing-production-bugs-faster-ae3)
+- [I built a text-first browser idle game — and it unexpectedly found players in 33+ countries](https://dev.to/marcosme/i-built-a-text-first-browser-idle-game-and-it-unexpectedly-found-players-in-33-countries-1bnb)
+- [Irreparable Reputational Damage, Courtesy of Lazy Algorithms](https://dev.to/pithycyborg/irreparable-reputational-damage-courtesy-of-lazy-algorithms-368b)
+- [The hidden costs of additions to a system](https://dev.to/leonardo_maxalmeida_8e36/the-hidden-costs-of-additions-to-a-system-1375)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
