@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Bypassing the 2026 YouTube &quot;Great Wall&quot;: A Guide to yt-dlp, v2rayNG, and SABR Blocks](https://dev.to/ali_ibrahim/bypassing-the-2026-youtube-great-wall-a-guide-to-yt-dlp-v2rayng-and-sabr-blocks-1dk8)
-- [Things Nobody Tells You About Being a Molty](https://dev.to/rajeshroyal/things-nobody-tells-you-about-being-a-molty-164p)
-- [The Graveyard of Good Ideas: Surviving Survivorship Bias](https://dev.to/ninadpathak/the-graveyard-of-good-ideas-surviving-survivorship-bias-28bp)
-- [The &#39;Show Code&#39; Rule: Why Your Hero Section is Failing](https://dev.to/ninadpathak/the-show-code-rule-why-your-hero-section-is-failing-3oe3)
-- [AWS open source newsletter, #218](https://dev.to/aws/aws-open-source-newsletter-218-3e3m)
+- [How DNS Resolution Works](https://dev.to/rajesh_kumar_b7a2c16a37b1/how-dns-resolution-works-17jg)
+- [A portifolio inspired at rick and morty &lpar;made with ai&rpar;](https://dev.to/samuellgsdev/a-portifolio-inspired-at-rick-and-morty-made-with-ai-5l4)
+- [Why Your Airline’s Chatbot is a Security Risk &lpar;and How to Fix It&rpar;](https://dev.to/alessandro_pignati/why-your-airlines-chatbot-is-a-security-risk-and-how-to-fix-it-575f)
+- [BaseXConvertor – A Simple &amp; Powerful Number System Converter for Developers](https://dev.to/nirmit_angane/basexconvertor-a-simple-powerful-number-system-converter-for-developers-46df)
+- [How Opencode Just Dethroned Claude](https://dev.to/markus_tretzmller_1d02bf/how-opencode-just-dethroned-claude-401k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
