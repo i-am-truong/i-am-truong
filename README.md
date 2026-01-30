@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SRE is the BEST Thing Ever](https://dev.to/jairo-dev-jr/sre-is-the-best-thing-ever-2che)
-- [Deep dive into MCP &lpar;Model Context Protocol&rpar; in production: how Bifrost’s MCP Gateway and Code Mode turn tool-calling LLM demos into deterministic, scalable, production-grade AI systems with lower latency, fewer tokens, and predictable behavior.](https://dev.to/hadil/deep-dive-into-mcp-model-context-protocol-in-production-how-bifrosts-mcp-gateway-and-code-mode-18p2)
-- [A New Direction in Classification at SmartEco](https://dev.to/jashwanth_thatipamula_8ee/a-new-direction-in-classification-at-smarteco-5970)
-- [Day-4 Data Types](https://dev.to/karthick_m22/day-4-data-types-lh)
-- [JavaScript Concept](https://dev.to/olayemi_elsie/javascript-concept-5dld)
+- [A Complete Guide to hire from Canada as US based organisation: Its simpler than you think](https://dev.to/aasawari_sahasrabuddhe_3c/a-complete-guide-to-hire-from-canada-as-us-based-organisation-its-simpler-than-you-think-41df)
+- [CVE-2025-66649: The Phantom Menace: Anatomy of the Rejected CVE-2025-66649](https://dev.to/cverports/cve-2025-66649-the-phantom-menace-anatomy-of-the-rejected-cve-2025-66649-4lda)
+- [LMAD MCP FOR LARAVEL](https://dev.to/0xmergen/lmad-mcp-for-laravel-3ao6)
+- [Solved: Syncing GitLab Merge Requests to a Notion Database](https://dev.to/techresolve/solved-syncing-gitlab-merge-requests-to-a-notion-database-4abp)
+- [Automação GitOps com Terraform e Proxmox](https://dev.to/luiscruzcwb/automacao-gitops-com-terraform-e-proxmox-12m7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
