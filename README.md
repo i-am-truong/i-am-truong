@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [VoxTube – Convert YouTube videos to audio with local TTS](https://dev.to/shawn_dsza/voxtube-convert-youtube-videos-to-audio-with-local-tts-1ae1)
+- [Running the Copilot CLI in a WebGL-powered retro CRT terminal implemented by the Copilot CLI 🤯](https://dev.to/remojansen/running-the-copilot-cli-in-a-webgl-powered-retro-crt-terminal-implemented-by-the-copilot-cli-297)
+- [Solved: How to force alt images tag with product title](https://dev.to/techresolve/solved-how-to-force-alt-images-tag-with-product-title-373)
+- [Solved: Spending €1.1M/month on Google Ads… and support can’t resolve even basic issues](https://dev.to/techresolve/solved-spending-eu11mmonth-on-google-ads-and-support-cant-resolve-even-basic-issues-13b3)
 - [Streamlining Authentication Flows: API Development Under Tight Deadlines for Security Researchers](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-authentication-flows-api-development-under-tight-deadlines-for-security-researchers-20c2)
-- [Minha Jornada na Área de Dados: Um Guia Para Quem Está Começando](https://dev.to/surocham/minha-jornada-na-area-de-dados-um-guia-para-quem-esta-comecando-i57)
-- [💼 Freelance Rate Negotiation Coach - AI-Powered Salary Intelligence](https://dev.to/asamaes/freelance-rate-negotiation-coach-ai-powered-salary-intelligence-23e6)
-- [SHARD: Deniable File Distribution Through XOR-Based Sharding](https://dev.to/cheetah100/shard-deniable-file-distribution-through-xor-based-sharding-2blm)
-- [AWS. GCP. Azure. Pocket vocabulary.](https://dev.to/vitalf/aws-gcp-azure-pocket-vocabulary-29hp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
