@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How DiDi Scaled to Hundreds of Petabytes with Apache Ozone](https://dev.to/theasf/how-didi-scaled-to-hundreds-of-petabytes-with-apache-ozone-2bdk)
-- [Beyond Containers: Building Globally Distributed APIs with Bun, Elysia, and Turso.](https://dev.to/isccnewt/beyond-containers-building-globally-distributed-apis-with-bun-elysia-and-turso-2ii9)
-- [2026-01-29 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2026-01-29-daily-ai-news-3pho)
-- [AWS CloudWatch](https://dev.to/freddie_barron/aws-cloudwatch-1do9)
-- [It&#39;s hard to make money from software alone](https://dev.to/ironcladdev/its-hard-to-make-money-from-software-alone-53gp)
+- [React.js Forms The Coffee Shop Principle: Why Your Are Losing Users &lpar;And How to Fix Them&rpar;](https://dev.to/igornosatov_15/the-coffee-shop-principle-why-your-react-forms-are-losing-users-and-how-to-fix-them-23de)
+- [Building Scalable Data Pipelines with Airflow, Docker, and Python: A SightSearch Case Study](https://dev.to/oliver_samuel_028c6f65ad6/building-scalable-data-pipelines-with-airflow-docker-and-python-a-sightsearch-case-study-e9)
+- [Reversing a String with Constant Space Complexity in C++](https://dev.to/cmalaga/reversing-a-string-with-constant-space-complexity-in-c-49gf)
+- [🧬 Beginner-Friendly Guide &#39;Minimum Cost to Convert String II&#39; - Problem 2977 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-minimum-cost-to-convert-string-ii-problem-2977-c-python-2f4p)
+- [Save Money on AWS S3: Automate Storage Tiering with Terraform 💰](https://dev.to/suhas_mallesh/save-money-on-aws-s3-automate-storage-tiering-with-terraform-23i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
