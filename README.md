@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Discovering Hall Sensors: The Hidden Tech in Laptops and TWS Earbuds](https://dev.to/amanprasad/discovering-hall-sensors-the-hidden-tech-in-laptops-and-tws-earbuds-np7)
-- [RAG &amp; Semantic Search](https://dev.to/simranshaikh20_50/rag-semantic-search-12gd)
-- [Top 10 Ngrok Alternatives in 2026: A Practical Guide to Choosing the Right Tunnel](https://dev.to/lightningdev123/top-10-ngrok-alternatives-in-2026-a-practical-guide-to-choosing-the-right-tunnel-54f6)
-- [LLM-First Approach to Self-Hosting with Haloy](https://dev.to/ameistad/llm-first-approach-to-self-hosting-with-haloy-1lbe)
-- [A-Z of Card Payments with Flutterwave v4](https://dev.to/flutterwaveeng/a-z-of-card-payments-with-flutterwave-v4-145e)
+- [Emmet for HTML: A Beginner’s Guide to Writing Faster Markup](https://dev.to/kunal_dev/emmet-for-html-a-beginners-guide-to-writing-faster-markup-1kka)
+- [Wow - just wow! I woke up this morning to see such a positive response to my post. I truly appreciate each and every one of you. Thank you!](https://dev.to/richardpascoe/wow-just-wow-i-woke-up-this-morning-to-see-such-a-positive-response-to-my-post-i-truly-54c4)
+- [jwt-encde 1.1: npm packages for cross-platform published](https://dev.to/nabbisen/jwt-encde-11-npm-packages-for-cross-platform-published-504l)
+- [Pipfolio: Pip-Boy Inspired Web Portfolio](https://dev.to/ansellmaximilian/pipfolio-pip-boy-inspired-web-portfolio-4hpm)
+- [How Do You Mentor Someone?](https://dev.to/msnmongare/how-do-you-mentor-someone-3gh7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
