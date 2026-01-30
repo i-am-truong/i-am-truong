@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How We Built an Instant Live Demo System for Our SaaS Product](https://dev.to/emrahg/how-we-built-an-instant-live-demo-system-for-our-saas-product-5d8k)
-- [Clawdbot: The Local AI Agent That Turns Chats Into Real-World Automations](https://dev.to/aiwithapex/clawdbot-the-local-ai-agent-that-turns-chats-into-real-world-automations-3kbh)
-- [Fundamental Attribution Error: Why Everyone Else is Lazy but You Are Just Busy](https://dev.to/ninadpathak/fundamental-attribution-error-why-everyone-else-is-lazy-but-you-are-just-busy-25af)
-- [Gambler&#39;s Fallacy: The Dangerous Search for Patterns in the Noise](https://dev.to/ninadpathak/gamblers-fallacy-the-dangerous-search-for-patterns-in-the-noise-422f)
-- [Building Reliable Software Through Smart Testing Strategies](https://dev.to/michael_burry_00/building-reliable-software-through-smart-testing-strategies-6k0)
+- [Bypassing the 2026 YouTube &quot;Great Wall&quot;: A Guide to yt-dlp, v2rayNG, and SABR Blocks](https://dev.to/ali_ibrahim/bypassing-the-2026-youtube-great-wall-a-guide-to-yt-dlp-v2rayng-and-sabr-blocks-1dk8)
+- [Things Nobody Tells You About Being a Molty](https://dev.to/rajeshroyal/things-nobody-tells-you-about-being-a-molty-164p)
+- [The Graveyard of Good Ideas: Surviving Survivorship Bias](https://dev.to/ninadpathak/the-graveyard-of-good-ideas-surviving-survivorship-bias-28bp)
+- [The &#39;Show Code&#39; Rule: Why Your Hero Section is Failing](https://dev.to/ninadpathak/the-show-code-rule-why-your-hero-section-is-failing-3oe3)
+- [AWS open source newsletter, #218](https://dev.to/aws/aws-open-source-newsletter-218-3e3m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
