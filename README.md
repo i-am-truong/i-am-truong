@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[SUI] LabeledContent](https://dev.to/david_goyes_a488f58a17a53/sui-labeledcontent-44m4)
-- [Safeguarding Gated Content During High Traffic Events: A Cybersecurity Approach for Senior Architects](https://dev.to/mohammad_waseem_c31f3a26f/safeguarding-gated-content-during-high-traffic-events-a-cybersecurity-approach-for-senior-lk6)
-- [[SUI] Formularios &lpar;Form&rpar;](https://dev.to/david_goyes_a488f58a17a53/sui-formularios-form-5gco)
-- [Automating Authentication Flows in Go on a Zero-Budget Project](https://dev.to/mohammad_waseem_c31f3a26f/automating-authentication-flows-in-go-on-a-zero-budget-project-4i2o)
-- [Fix Razorpay Iframe White Background in Dark Mode](https://dev.to/saif_khan_67333bd574c6c8c/fix-razorpay-iframe-white-background-in-dark-mode-39i1)
+- [Exploring Cross Entropy &lpar;Part 2&rpar;: Understanding Total Cross Entropy and Loss with a Python Example](https://dev.to/rijultp/exploring-cross-entropy-part-2-understanding-total-cross-entropy-and-loss-with-a-python-example-5o3)
+- [[SUI] DisclosureGroup](https://dev.to/david_goyes_a488f58a17a53/sui-disclosuregroup-1cb)
+- [Scaling Load Testing with Docker: A Lead QA Engineer&#39;s Practical Approach](https://dev.to/mohammad_waseem_c31f3a26f/scaling-load-testing-with-docker-a-lead-qa-engineers-practical-approach-1i38)
+- [How to Remove Vocals from Any Song Using Python &lpar;3 Methods&rpar;](https://dev.to/stevecase430/how-to-remove-vocals-from-any-song-using-python-3-methods-28pa)
+- [koa-okapi-router: OpenAPI for Koa, without the migration hangover](https://dev.to/svjson/koa-okapi-router-openapi-for-koa-without-the-migration-hangover-3bb9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
