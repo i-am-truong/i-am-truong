@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Reverse Engineering Firmware at Scale with IDA Pro](https://dev.to/shuran_xu_21cce007f2e27b8/reverse-engineering-firmware-at-scale-with-ida-pro-nk3)
-- [Why Indie Devs Will Win the AI Era &lpar;If They Do This&rpar;](https://dev.to/jaideepparashar/why-indie-devs-will-win-the-ai-era-if-they-do-this-5ap)
-- [My Hardships with ray marching](https://dev.to/no_arms_studio/my-studies-of-ray-marching-20cp)
-- [How a “Neutral” Supabase vs Convex Comparison Broke Trust in DevTools](https://dev.to/sivarampg/how-a-neutral-supabase-vs-convex-comparison-broke-trust-in-devtools-4108)
-- [Filtering 13M Records at 2ms: Where to Draw the Line Between UX and Performance?](https://dev.to/fabrice_grenouillet_c10f1/filtering-13m-records-at-2ms-where-to-draw-the-line-between-ux-and-performance-pg3)
+- [Web Development Without Overthinking](https://dev.to/wingsdesignstudio/web-development-without-overthinking-5fk9)
+- [Building Microsoft Foundry Agents: Part 1 - Creating Your First Simple SDK Agent](https://dev.to/ahamed_hilmy/building-microsoft-foundry-agents-part-1-creating-your-first-simple-sdk-agent-51je)
+- [Moltbot: The Self-Hosted AI Agent That Actually Does Things &lpar;Not Just Chat&rpar;](https://dev.to/inboryn_99399f96579fcd705/moltbot-the-self-hosted-ai-agent-that-actually-does-things-not-just-chat-3h18)
+- [How to Choose Best Cloud Hosting and Best Practices](https://dev.to/hitjethva/how-to-choose-best-cloud-hosting-and-best-practices-eon)
+- [GoGPU: Unified 2D/3D Graphics Integration in Pure Go](https://dev.to/kolkov/gogpu-unified-2d3d-graphics-integration-in-pure-go-djf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
