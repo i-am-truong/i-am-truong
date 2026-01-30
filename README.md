@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why implementing AWS cloudfront is a better fit for your Architecture](https://dev.to/sosmation/why-implementing-aws-cloudfront-is-a-better-fit-for-your-architecture-2lnl)
+- [New developer tools for Google AI Pro and Ultra subscribers](https://dev.to/googleai/new-developer-tools-for-google-ai-pro-and-ultra-subscribers-3cj4)
+- [Stop Making Users Wait: The Ultimate Guide to Streaming AI Responses](https://dev.to/programmingcentral/stop-making-users-wait-the-ultimate-guide-to-streaming-ai-responses-22m3)
+- [Running llama-cli on Linux](https://dev.to/ben-santora/running-llama-cli-on-linux-28h6)
 - [Building in Public: How I Think About DSA &lpar;and Why I’m Sharing It&rpar;](https://dev.to/rasoolk16/building-in-public-how-i-think-about-dsa-and-why-im-sharing-it-53dh)
-- [CSS Selectors 101: Targeting Elements with Precision](https://dev.to/hiral/css-selectors-101-targeting-elements-with-precision-j2f)
-- [How to Configure Asymmetric JWTs on Self-Hosted Supabase](https://dev.to/vpcano/how-to-configure-asymmetric-jwts-on-self-hosted-supabase-53ed)
-- [Mastering the Linux Software Toolbox: A Professional’s Deep Dive into GNU Coreutils 9.9](https://dev.to/kurdistan_linux_lab/mastering-the-linux-software-toolbox-a-professionals-deep-dive-into-gnu-coreutils-99-21em)
-- [Closest Official Color page Enhancements](https://dev.to/yellowbear/closest-official-color-page-enhancements-nl3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
