@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [React.js Forms The Coffee Shop Principle: Why Your Are Losing Users &lpar;And How to Fix Them&rpar;](https://dev.to/igornosatov_15/the-coffee-shop-principle-why-your-react-forms-are-losing-users-and-how-to-fix-them-23de)
-- [Building Scalable Data Pipelines with Airflow, Docker, and Python: A SightSearch Case Study](https://dev.to/oliver_samuel_028c6f65ad6/building-scalable-data-pipelines-with-airflow-docker-and-python-a-sightsearch-case-study-e9)
-- [Reversing a String with Constant Space Complexity in C++](https://dev.to/cmalaga/reversing-a-string-with-constant-space-complexity-in-c-49gf)
-- [🧬 Beginner-Friendly Guide &#39;Minimum Cost to Convert String II&#39; - Problem 2977 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-minimum-cost-to-convert-string-ii-problem-2977-c-python-2f4p)
-- [Save Money on AWS S3: Automate Storage Tiering with Terraform 💰](https://dev.to/suhas_mallesh/save-money-on-aws-s3-automate-storage-tiering-with-terraform-23i)
+- [AAoM-04: A Python 3.12 Interpreter](https://dev.to/milky2018/aaom-04-a-python-312-interpreter-24fl)
+- [Frontend Performance at Scale: How I Optimized Angular to Handle 100K+ Concurrent Users](https://dev.to/shalinee/frontend-performance-at-scale-how-i-optimized-angular-to-handle-100k-concurrent-users-1dg)
+- [New Year, New You Portfolio Challenge - Evolving &quot;Portfolios&quot; into an Agent](https://dev.to/mweed/new-year-new-you-portfolio-challenge-evolving-portfolios-into-an-agent-5d9i)
+- [From Information Containers to Work Systems: How AI Products Shift from Information to Productivity](https://dev.to/yuhaoxu/from-information-containers-to-work-systems-how-ai-products-shift-from-information-to-productivity-2o0l)
+- [EVOLUSI ALUR KERJA: IMPLEMENTASI HUMAN-IN-THE-LOOP DAN TATA KELOLA AGENIK DALAM PENGEMBANGAN PERANGKAT LUNAK](https://dev.to/radityadiedraalghifari/evolusi-alur-kerja-implementasi-human-in-the-loop-dan-tata-kelola-agenik-dalam-pengembangan-2olb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
