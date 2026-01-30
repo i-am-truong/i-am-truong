@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AAoM-04: A Python 3.12 Interpreter](https://dev.to/milky2018/aaom-04-a-python-312-interpreter-24fl)
-- [Frontend Performance at Scale: How I Optimized Angular to Handle 100K+ Concurrent Users](https://dev.to/shalinee/frontend-performance-at-scale-how-i-optimized-angular-to-handle-100k-concurrent-users-1dg)
-- [New Year, New You Portfolio Challenge - Evolving &quot;Portfolios&quot; into an Agent](https://dev.to/mweed/new-year-new-you-portfolio-challenge-evolving-portfolios-into-an-agent-5d9i)
-- [From Information Containers to Work Systems: How AI Products Shift from Information to Productivity](https://dev.to/yuhaoxu/from-information-containers-to-work-systems-how-ai-products-shift-from-information-to-productivity-2o0l)
-- [EVOLUSI ALUR KERJA: IMPLEMENTASI HUMAN-IN-THE-LOOP DAN TATA KELOLA AGENIK DALAM PENGEMBANGAN PERANGKAT LUNAK](https://dev.to/radityadiedraalghifari/evolusi-alur-kerja-implementasi-human-in-the-loop-dan-tata-kelola-agenik-dalam-pengembangan-2olb)
+- [Reverse Engineering Firmware at Scale with IDA Pro](https://dev.to/shuran_xu_21cce007f2e27b8/reverse-engineering-firmware-at-scale-with-ida-pro-nk3)
+- [Why Indie Devs Will Win the AI Era &lpar;If They Do This&rpar;](https://dev.to/jaideepparashar/why-indie-devs-will-win-the-ai-era-if-they-do-this-5ap)
+- [My Hardships with ray marching](https://dev.to/no_arms_studio/my-studies-of-ray-marching-20cp)
+- [How a “Neutral” Supabase vs Convex Comparison Broke Trust in DevTools](https://dev.to/sivarampg/how-a-neutral-supabase-vs-convex-comparison-broke-trust-in-devtools-4108)
+- [Filtering 13M Records at 2ms: Where to Draw the Line Between UX and Performance?](https://dev.to/fabrice_grenouillet_c10f1/filtering-13m-records-at-2ms-where-to-draw-the-line-between-ux-and-performance-pg3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
