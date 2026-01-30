@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building C-Pad: A ZX Spectrum–style C Playground for Instant Graphicspp](https://dev.to/yossi_kadosh_82954d709237/building-c-pad-a-zx-spectrum-style-c-playground-for-instant-graphics-1b69)
-- [TCP vs UDP: When to Use What, and How TCP Relates to HTTP](https://dev.to/sachin_kumar_e80e5bd576a2/tcp-vs-udp-when-to-use-what-and-how-tcp-relates-to-http-29gp)
-- [AI Helped Me Move Faster — But I Missed Important Signals](https://dev.to/allenbailey25/ai-helped-me-move-faster-but-i-missed-important-signals-aop)
-- [Top 23 Trending Rust Projects on GitHub - January 2026](https://dev.to/rosgluk/top-23-trending-rust-projects-on-github-january-2026-jco)
-- [Top 19 Trending Go Projects on GitHub - January 2026](https://dev.to/rosgluk/top-19-trending-go-projects-on-github-january-2026-362p)
+- [Heroku Alternatives Decision Framework: What Actually Matters When Picking a PaaS](https://dev.to/seenode/heroku-alternatives-decision-framework-what-actually-matters-when-picking-a-paas-3om3)
+- [How We Fixed SQLite Database Locks in Spring Boot &lpar;And Got a 5x Performance Boost&rpar;](https://dev.to/rockandnull/how-we-fixed-sqlite-database-locks-in-spring-boot-and-got-a-5x-performance-boost-5nk)
+- [I&#39;m Passing on theGitHub CoPilot CLI Challenge](https://dev.to/ben-santora/im-passing-on-thegithub-copilot-cli-challenge-38fo)
+- [An Antarctic Station, Silence, and Something Beneath the Ice](https://dev.to/antelusgames/an-antarctic-station-silence-and-something-beneath-the-ice-1c5a)
+- [How I gave Claude Code access to real user behavior](https://dev.to/evankyr/how-i-gave-claude-code-access-to-real-user-behavior-5dhk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
