@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [IcoGenie: AI-Powered SVG Icon Generation for Developers](https://dev.to/albert_nahas_cdc8469a6ae8/icogenie-ai-powered-svg-icon-generation-for-developers-1fb9)
-- [Git, GitHub &amp; DevOps: How Modern Teams Really Work](https://dev.to/olalekan_fashola_03a94f41/git-github-devops-how-modern-teams-really-work-42h5)
-- [TCP vs UDP: When to Use What, and How TCP Relates to HTTP](https://dev.to/6116hayat/tcp-vs-udp-when-to-use-what-and-how-tcp-relates-to-http-577)
-- [Crafting code crafting mead: Un Viaje de Paciencia y Bugs](https://dev.to/csotelo/crafting-code-crafting-mead-un-viaje-de-paciencia-y-bugs-52if)
-- [How I Got 100 Users in 48 Days &lpar;Solo Founder, $500 Ad Spend, 5% Conversion&rpar;](https://dev.to/anand_rathnas_d5b608cc3de/how-i-got-100-users-in-48-days-solo-founder-500-ad-spend-5-conversion-3okf)
+- [Pager Lifecycle Functions: Pinning Pages, Running Transactions, and Making Them Stick in SQLite](https://dev.to/lovestaco/pager-lifecycle-functions-pinning-pages-running-transactions-and-making-them-stick-in-sqlite-3fh2)
+- [Saat Laptop Lama Menemukan Peran Barunya](https://dev.to/bangkah/saat-laptop-lama-menemukan-peran-barunya-3pha)
+- [Designing Instagram Stories: From Upload to Expiry](https://dev.to/priyadharshini_6b8f9f440f/designing-instagram-stories-from-upload-to-expiry-3fk2)
+- [Released — Schema Support, Cleaner Internals &amp; What’s Next](https://dev.to/amanbig/released-schema-support-cleaner-internals-whats-next-3m0c)
+- [Understanding the exploding gradient problem](https://dev.to/paperium/understanding-the-exploding-gradient-problem-4dl0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
