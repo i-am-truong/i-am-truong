@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Heroku Alternatives Decision Framework: What Actually Matters When Picking a PaaS](https://dev.to/seenode/heroku-alternatives-decision-framework-what-actually-matters-when-picking-a-paas-3om3)
-- [How We Fixed SQLite Database Locks in Spring Boot &lpar;And Got a 5x Performance Boost&rpar;](https://dev.to/rockandnull/how-we-fixed-sqlite-database-locks-in-spring-boot-and-got-a-5x-performance-boost-5nk)
-- [I&#39;m Passing on theGitHub CoPilot CLI Challenge](https://dev.to/ben-santora/im-passing-on-thegithub-copilot-cli-challenge-38fo)
-- [An Antarctic Station, Silence, and Something Beneath the Ice](https://dev.to/antelusgames/an-antarctic-station-silence-and-something-beneath-the-ice-1c5a)
-- [How I gave Claude Code access to real user behavior](https://dev.to/evankyr/how-i-gave-claude-code-access-to-real-user-behavior-5dhk)
+- [Building Reliable Software Through Smart Testing Strategies](https://dev.to/michael_burry_00/building-reliable-software-through-smart-testing-strategies-6k0)
+- [How API Gateway Works](https://dev.to/shafqat_awan_79b9dbd88cda/how-api-gateway-works-4k8f)
+- [The Day I Realized We Were Bleeding $12,000 a Month](https://dev.to/tracksimple/the-day-i-realized-we-were-bleeding-12000-a-month-1akn)
+- [An Antarctic Station, Silence, and Something Beneath the Ice](https://dev.to/antelusgames/an-antarctic-station-silence-and-something-beneath-the-ice-7fg)
+- [React vs Next.js: When I Stopped Building SPAs and Started Shipping Faster](https://dev.to/pdflinx_9ba03e6a7/react-vs-nextjs-when-i-stopped-building-spas-and-started-shipping-faster-3j1h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
