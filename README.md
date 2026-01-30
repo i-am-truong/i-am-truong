@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Web Development Without Overthinking](https://dev.to/wingsdesignstudio/web-development-without-overthinking-5fk9)
-- [Building Microsoft Foundry Agents: Part 1 - Creating Your First Simple SDK Agent](https://dev.to/ahamed_hilmy/building-microsoft-foundry-agents-part-1-creating-your-first-simple-sdk-agent-51je)
-- [Moltbot: The Self-Hosted AI Agent That Actually Does Things &lpar;Not Just Chat&rpar;](https://dev.to/inboryn_99399f96579fcd705/moltbot-the-self-hosted-ai-agent-that-actually-does-things-not-just-chat-3h18)
-- [How to Choose Best Cloud Hosting and Best Practices](https://dev.to/hitjethva/how-to-choose-best-cloud-hosting-and-best-practices-eon)
-- [GoGPU: Unified 2D/3D Graphics Integration in Pure Go](https://dev.to/kolkov/gogpu-unified-2d3d-graphics-integration-in-pure-go-djf)
+- [Next.js 15 + Supabase: I Accidentally Blew Past My Quota by 1000% &lpar;and How “Local‑First” Saved It&rpar;](https://dev.to/yitao/nextjs-15-supabase-i-accidentally-blew-past-my-quota-by-1000-and-how-local-first-saved-it-1leh)
+- [What Data You Actually Need to Train Container Damage Detection Models](https://dev.to/intechcreativesservices/what-data-you-actually-need-to-train-container-damage-detection-models-1m13)
+- [Gemini versus Gemma: Still Confused?](https://dev.to/googleai/gemini-versus-gemma-still-confused-1dnd)
+- [My Futuristic Portfolio!!](https://dev.to/tmott13/my-futuristic-portfolio-d71)
+- [From Moltbot to OpenClaw: When the Dust Settles, the Project Survived](https://dev.to/sivarampg/from-moltbot-to-openclaw-when-the-dust-settles-the-project-survived-5h6o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
