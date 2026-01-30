@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Pager Lifecycle Functions: Pinning Pages, Running Transactions, and Making Them Stick in SQLite](https://dev.to/lovestaco/pager-lifecycle-functions-pinning-pages-running-transactions-and-making-them-stick-in-sqlite-3fh2)
-- [Saat Laptop Lama Menemukan Peran Barunya](https://dev.to/bangkah/saat-laptop-lama-menemukan-peran-barunya-3pha)
-- [Designing Instagram Stories: From Upload to Expiry](https://dev.to/priyadharshini_6b8f9f440f/designing-instagram-stories-from-upload-to-expiry-3fk2)
-- [Released — Schema Support, Cleaner Internals &amp; What’s Next](https://dev.to/amanbig/released-schema-support-cleaner-internals-whats-next-3m0c)
-- [Understanding the exploding gradient problem](https://dev.to/paperium/understanding-the-exploding-gradient-problem-4dl0)
+- [Mastering Email Flow Validation in Go Under Tight Deadlines: A Senior Architect’s Approach](https://dev.to/mohammad_waseem_c31f3a26f/mastering-email-flow-validation-in-go-under-tight-deadlines-a-senior-architects-approach-1j7p)
+- [Commands: Stop Repeating Yourself and Start Shipping Faster](https://dev.to/rajeshroyal/commands-stop-repeating-yourself-and-start-shipping-faster-4gci)
+- [NAT Traversal: How It Works](https://dev.to/alakkadshaw/nat-traversal-how-it-works-4dnc)
+- [Animated iOS Splash Screens: The Illusion Apple Actually Allows](https://dev.to/voinkoder/animated-ios-splash-screens-the-illusion-apple-actually-allows-52ej)
+- [# Expo vs Bare React Native](https://dev.to/iamsaadmehmood/-expo-vs-bare-react-native-4ek0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
