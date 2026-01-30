@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[SUI] DatePicker](https://dev.to/david_goyes_a488f58a17a53/sui-datepicker-4j38)
-- [Synapse v1.0 — A Programming Language for AI, Not Humans](https://dev.to/xzdes/synapse-v10-a-programming-language-for-ai-not-humans-4a2o)
-- [Movie Planner — планировщик фильмов и сериалов / Movie Planner: movie &amp; TV series planning tool](https://dev.to/zapnikita95/movie-planner-planirovshchik-filmov-i-sierialov-movie-planner-movie-tv-series-planning-tool-23io)
-- [Security news weekly round-up - 30th January 2026](https://dev.to/ziizium/security-news-weekly-round-up-30th-january-2026-gb8)
-- [Expo SDK 55: The Day React Native Grew Up](https://dev.to/thegdsks/expo-sdk-55-just-dropped-heres-why-react-native-will-never-be-the-same-141k)
+- [[SUI] Formularios &lpar;Form&rpar;](https://dev.to/david_goyes_a488f58a17a53/sui-formularios-form-5gco)
+- [Automating Authentication Flows in Go on a Zero-Budget Project](https://dev.to/mohammad_waseem_c31f3a26f/automating-authentication-flows-in-go-on-a-zero-budget-project-4i2o)
+- [Fix Razorpay Iframe White Background in Dark Mode](https://dev.to/saif_khan_67333bd574c6c8c/fix-razorpay-iframe-white-background-in-dark-mode-39i1)
+- [How a simple pointer exercise had me pulling my hair out.](https://dev.to/needham/how-a-simple-pointer-exercise-had-me-pulling-my-hair-out-4ig)
+- [Feudos Digitais](https://dev.to/foodiehoodie/feudos-digitais-29p5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
