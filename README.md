@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[SUI] LabeledContent](https://dev.to/david_goyes_a488f58a17a53/sui-labeledcontent-44m4)
+- [Safeguarding Gated Content During High Traffic Events: A Cybersecurity Approach for Senior Architects](https://dev.to/mohammad_waseem_c31f3a26f/safeguarding-gated-content-during-high-traffic-events-a-cybersecurity-approach-for-senior-lk6)
 - [[SUI] Formularios &lpar;Form&rpar;](https://dev.to/david_goyes_a488f58a17a53/sui-formularios-form-5gco)
 - [Automating Authentication Flows in Go on a Zero-Budget Project](https://dev.to/mohammad_waseem_c31f3a26f/automating-authentication-flows-in-go-on-a-zero-budget-project-4i2o)
 - [Fix Razorpay Iframe White Background in Dark Mode](https://dev.to/saif_khan_67333bd574c6c8c/fix-razorpay-iframe-white-background-in-dark-mode-39i1)
-- [How a simple pointer exercise had me pulling my hair out.](https://dev.to/needham/how-a-simple-pointer-exercise-had-me-pulling-my-hair-out-4ig)
-- [Feudos Digitais](https://dev.to/foodiehoodie/feudos-digitais-29p5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
