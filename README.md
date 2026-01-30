@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Emmet for HTML: A Beginner’s Guide to Writing Faster Markup](https://dev.to/kunal_dev/emmet-for-html-a-beginners-guide-to-writing-faster-markup-1kka)
-- [Wow - just wow! I woke up this morning to see such a positive response to my post. I truly appreciate each and every one of you. Thank you!](https://dev.to/richardpascoe/wow-just-wow-i-woke-up-this-morning-to-see-such-a-positive-response-to-my-post-i-truly-54c4)
-- [jwt-encde 1.1: npm packages for cross-platform published](https://dev.to/nabbisen/jwt-encde-11-npm-packages-for-cross-platform-published-504l)
-- [Pipfolio: Pip-Boy Inspired Web Portfolio](https://dev.to/ansellmaximilian/pipfolio-pip-boy-inspired-web-portfolio-4hpm)
-- [How Do You Mentor Someone?](https://dev.to/msnmongare/how-do-you-mentor-someone-3gh7)
+- [Building C-Pad: A ZX Spectrum–style C Playground for Instant Graphicspp](https://dev.to/yossi_kadosh_82954d709237/building-c-pad-a-zx-spectrum-style-c-playground-for-instant-graphics-1b69)
+- [TCP vs UDP: When to Use What, and How TCP Relates to HTTP](https://dev.to/sachin_kumar_e80e5bd576a2/tcp-vs-udp-when-to-use-what-and-how-tcp-relates-to-http-29gp)
+- [AI Helped Me Move Faster — But I Missed Important Signals](https://dev.to/allenbailey25/ai-helped-me-move-faster-but-i-missed-important-signals-aop)
+- [Top 23 Trending Rust Projects on GitHub - January 2026](https://dev.to/rosgluk/top-23-trending-rust-projects-on-github-january-2026-jco)
+- [Top 19 Trending Go Projects on GitHub - January 2026](https://dev.to/rosgluk/top-19-trending-go-projects-on-github-january-2026-362p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
