@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🚨 Spring Boot 3.x 4.0 Migration: What Actually Broke &lpar;and How We Fixed It&rpar;](https://dev.to/eddybenchek/spring-boot-3x-40-migration-what-actually-broke-and-how-we-fixed-it-36ap)
+- [How Logistic Regression Really Reduces Customer Churn](https://dev.to/eagleeyethinker/how-logistic-regression-really-reduces-customer-churn-2md1)
+- [Tip for setting $DISPLAY when connecting to a Linux machine.](https://dev.to/hwolfe71/tip-for-setting-display-when-connecting-to-a-linux-machine-34cf)
+- [From Notion to Google Drive: A Version Control Decision](https://dev.to/trae_z/from-notion-to-google-drive-a-version-control-decision-246e)
 - [Exploring Cross Entropy &lpar;Part 2&rpar;: Understanding Total Cross Entropy and Loss with a Python Example](https://dev.to/rijultp/exploring-cross-entropy-part-2-understanding-total-cross-entropy-and-loss-with-a-python-example-5o3)
-- [[SUI] DisclosureGroup](https://dev.to/david_goyes_a488f58a17a53/sui-disclosuregroup-1cb)
-- [Scaling Load Testing with Docker: A Lead QA Engineer&#39;s Practical Approach](https://dev.to/mohammad_waseem_c31f3a26f/scaling-load-testing-with-docker-a-lead-qa-engineers-practical-approach-1i38)
-- [How to Remove Vocals from Any Song Using Python &lpar;3 Methods&rpar;](https://dev.to/stevecase430/how-to-remove-vocals-from-any-song-using-python-3-methods-28pa)
-- [koa-okapi-router: OpenAPI for Koa, without the migration hangover](https://dev.to/svjson/koa-okapi-router-openapi-for-koa-without-the-migration-hangover-3bb9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
