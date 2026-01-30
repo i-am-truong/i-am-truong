@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How We Built an Instant Live Demo System for Our SaaS Product](https://dev.to/emrahg/how-we-built-an-instant-live-demo-system-for-our-saas-product-5d8k)
+- [Clawdbot: The Local AI Agent That Turns Chats Into Real-World Automations](https://dev.to/aiwithapex/clawdbot-the-local-ai-agent-that-turns-chats-into-real-world-automations-3kbh)
+- [Fundamental Attribution Error: Why Everyone Else is Lazy but You Are Just Busy](https://dev.to/ninadpathak/fundamental-attribution-error-why-everyone-else-is-lazy-but-you-are-just-busy-25af)
+- [Gambler&#39;s Fallacy: The Dangerous Search for Patterns in the Noise](https://dev.to/ninadpathak/gamblers-fallacy-the-dangerous-search-for-patterns-in-the-noise-422f)
 - [Building Reliable Software Through Smart Testing Strategies](https://dev.to/michael_burry_00/building-reliable-software-through-smart-testing-strategies-6k0)
-- [How API Gateway Works](https://dev.to/shafqat_awan_79b9dbd88cda/how-api-gateway-works-4k8f)
-- [The Day I Realized We Were Bleeding $12,000 a Month](https://dev.to/tracksimple/the-day-i-realized-we-were-bleeding-12000-a-month-1akn)
-- [An Antarctic Station, Silence, and Something Beneath the Ice](https://dev.to/antelusgames/an-antarctic-station-silence-and-something-beneath-the-ice-7fg)
-- [React vs Next.js: When I Stopped Building SPAs and Started Shipping Faster](https://dev.to/pdflinx_9ba03e6a7/react-vs-nextjs-when-i-stopped-building-spas-and-started-shipping-faster-3j1h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
