@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Complete Guide to hire from Canada as US based organisation: Its simpler than you think](https://dev.to/aasawari_sahasrabuddhe_3c/a-complete-guide-to-hire-from-canada-as-us-based-organisation-its-simpler-than-you-think-41df)
-- [CVE-2025-66649: The Phantom Menace: Anatomy of the Rejected CVE-2025-66649](https://dev.to/cverports/cve-2025-66649-the-phantom-menace-anatomy-of-the-rejected-cve-2025-66649-4lda)
-- [LMAD MCP FOR LARAVEL](https://dev.to/0xmergen/lmad-mcp-for-laravel-3ao6)
-- [Solved: Syncing GitLab Merge Requests to a Notion Database](https://dev.to/techresolve/solved-syncing-gitlab-merge-requests-to-a-notion-database-4abp)
-- [Automação GitOps com Terraform e Proxmox](https://dev.to/luiscruzcwb/automacao-gitops-com-terraform-e-proxmox-12m7)
+- [Building in Silence: 8+ Unpublished HTML5 Web Apps and Ready to Collaborate](https://dev.to/joseph_gmwango_2745ed99e/building-in-silence-8-unpublished-html5-web-apps-and-ready-to-collaborate-1011)
+- [Kubernetes Pentest Methodology: Cluster Security from an Attacker&#39;s Perspective](https://dev.to/kanywst/kubernetes-pentest-methodology-cluster-security-from-an-attackers-perspective-1fek)
+- [Meteor 3.4 is out: Rspack integration, 4x faster builds, 8x smaller bundles, and extended bundler features](https://dev.to/meteor/meteor-34-is-out-rspack-integration-4x-faster-builds-8x-smaller-bundles-and-extended-bundler-51ia)
+- [Question of the Day #7 [Talk::Overflow]](https://dev.to/valpetaltechlabs/question-of-the-day-7-talkoverflow-5c40)
+- [Learning to Model Failure Properly While Building a Monitoring Tool in Python](https://dev.to/secengineerx_b31598a59fcd/learning-to-model-failure-properly-while-building-a-monitoring-tool-in-python-24f6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
