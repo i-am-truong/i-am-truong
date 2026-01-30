@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Next.js 15 + Supabase: I Accidentally Blew Past My Quota by 1000% &lpar;and How “Local‑First” Saved It&rpar;](https://dev.to/yitao/nextjs-15-supabase-i-accidentally-blew-past-my-quota-by-1000-and-how-local-first-saved-it-1leh)
-- [What Data You Actually Need to Train Container Damage Detection Models](https://dev.to/intechcreativesservices/what-data-you-actually-need-to-train-container-damage-detection-models-1m13)
-- [Gemini versus Gemma: Still Confused?](https://dev.to/googleai/gemini-versus-gemma-still-confused-1dnd)
-- [My Futuristic Portfolio!!](https://dev.to/tmott13/my-futuristic-portfolio-d71)
-- [From Moltbot to OpenClaw: When the Dust Settles, the Project Survived](https://dev.to/sivarampg/from-moltbot-to-openclaw-when-the-dust-settles-the-project-survived-5h6o)
+- [ReactJS Hook Pattern ~Prop Render Pattern~](https://dev.to/kkr0423/reactjs-hook-pattern-prop-render-pattern-1f7)
+- [Production Intelligence: Why AI-Generated Code Needs Runtime Visibility](https://dev.to/aniruddhaadak/production-intelligence-why-ai-generated-code-needs-runtime-visibility-4d)
+- [How AI Is Quietly Changing Software Development in 2026 &lpar;Real Examples&rpar;](https://dev.to/shreekansha97/how-ai-is-quietly-changing-software-development-in-2026-real-examples-1kej)
+- [Dinesh Somaraju | Portfolio](https://dev.to/dinesh_somaraju/dinesh-somaraju-portfolio-4g2k)
+- [How to Choose the Right Model for Your AI Application&lpar;A Practical Engineering Guide&rpar;](https://dev.to/yaruyng/how-to-choose-the-right-model-for-your-ai-applicationa-practical-engineering-guide-28al)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
