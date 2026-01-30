@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cursor VS Copilot How to Stop Cursor from Burning Your Wallet](https://dev.to/jinwei_cheng_d664d6000d5f/cursor-vs-copilot-how-to-stop-cursor-from-burning-your-wallet-c7j)
-- [How I Explain Ghidra Output With AI](https://dev.to/volt1480/how-i-explain-ghidra-output-with-ai-34g6)
-- [How Camera Design Engineering Improves Low-Light Imaging](https://dev.to/siliconsignals_ind/how-camera-design-engineering-improves-low-light-imaging-4c9n)
-- [Implementing Object-Oriented Programming &lpar;OOP&rpar; in Flutter and Dart](https://dev.to/surhidamatya/implementing-object-oriented-programming-oop-in-flutter-and-dart-1kb6)
-- [AI Trends 2026: What the Future Holds for Artificial Intelligence](https://dev.to/theaijournal_a72e5e5050cd/ai-trends-2026-what-the-future-holds-for-artificial-intelligence-13ab)
+- [Discovering Hall Sensors: The Hidden Tech in Laptops and TWS Earbuds](https://dev.to/amanprasad/discovering-hall-sensors-the-hidden-tech-in-laptops-and-tws-earbuds-np7)
+- [RAG &amp; Semantic Search](https://dev.to/simranshaikh20_50/rag-semantic-search-12gd)
+- [Top 10 Ngrok Alternatives in 2026: A Practical Guide to Choosing the Right Tunnel](https://dev.to/lightningdev123/top-10-ngrok-alternatives-in-2026-a-practical-guide-to-choosing-the-right-tunnel-54f6)
+- [LLM-First Approach to Self-Hosting with Haloy](https://dev.to/ameistad/llm-first-approach-to-self-hosting-with-haloy-1lbe)
+- [A-Z of Card Payments with Flutterwave v4](https://dev.to/flutterwaveeng/a-z-of-card-payments-with-flutterwave-v4-145e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
