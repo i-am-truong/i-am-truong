@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Trading CV- A different and interactive way to share your skills.](https://dev.to/julsr_mx/trading-cv-a-different-and-interactive-way-to-share-your-skills-476o)
-- [🧠 Mastering VS Code Debugger for Node.js: A Real-World Guide to Fixing Production Bugs Faster 🚀](https://dev.to/darshanraval/mastering-vs-code-debugger-for-nodejs-a-real-world-guide-to-fixing-production-bugs-faster-ae3)
-- [I built a text-first browser idle game — and it unexpectedly found players in 33+ countries](https://dev.to/marcosme/i-built-a-text-first-browser-idle-game-and-it-unexpectedly-found-players-in-33-countries-1bnb)
-- [Irreparable Reputational Damage, Courtesy of Lazy Algorithms](https://dev.to/pithycyborg/irreparable-reputational-damage-courtesy-of-lazy-algorithms-368b)
-- [The hidden costs of additions to a system](https://dev.to/leonardo_maxalmeida_8e36/the-hidden-costs-of-additions-to-a-system-1375)
+- [IcoGenie: AI-Powered SVG Icon Generation for Developers](https://dev.to/albert_nahas_cdc8469a6ae8/icogenie-ai-powered-svg-icon-generation-for-developers-1fb9)
+- [Git, GitHub &amp; DevOps: How Modern Teams Really Work](https://dev.to/olalekan_fashola_03a94f41/git-github-devops-how-modern-teams-really-work-42h5)
+- [TCP vs UDP: When to Use What, and How TCP Relates to HTTP](https://dev.to/6116hayat/tcp-vs-udp-when-to-use-what-and-how-tcp-relates-to-http-577)
+- [Crafting code crafting mead: Un Viaje de Paciencia y Bugs](https://dev.to/csotelo/crafting-code-crafting-mead-un-viaje-de-paciencia-y-bugs-52if)
+- [How I Got 100 Users in 48 Days &lpar;Solo Founder, $500 Ad Spend, 5% Conversion&rpar;](https://dev.to/anand_rathnas_d5b608cc3de/how-i-got-100-users-in-48-days-solo-founder-500-ad-spend-5-conversion-3okf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
