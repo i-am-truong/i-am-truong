@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [This Week In React #266 : DoS, shadcn, Skills, Rspack | Expo 55 beta, Hermes, Expo Router | TC39, Rolldown, Yarn](https://dev.to/sebastienlorber/this-week-in-react-266-dos-shadcn-skills-rspack-expo-55-beta-hermes-expo-router-tc39-2h0p)
-- [Designing agentic workflows: where agents fail and where we fail](https://dev.to/danielbutlerirl/designing-agentic-workflows-where-agents-fail-and-where-we-fail-4a95)
-- [Why This Series Exists: Surviving Code-First Workplaces](https://dev.to/shailaputri/why-this-series-exists-surviving-code-first-workplaces-aop)
-- [Cloud | Infrastructure | DevOps | Motorcyclist - Rohan Singh](https://dev.to/rohankalhans/cloud-infrastructure-devops-motorcyclist-rohan-singh-1h0)
-- [Configuration Management with Ansible - Pilot](https://dev.to/12ww1160/configuration-management-with-ansible-pilot-2kbn)
+- [SRE is the BEST Thing Ever](https://dev.to/jairo-dev-jr/sre-is-the-best-thing-ever-2che)
+- [Deep dive into MCP &lpar;Model Context Protocol&rpar; in production: how Bifrost’s MCP Gateway and Code Mode turn tool-calling LLM demos into deterministic, scalable, production-grade AI systems with lower latency, fewer tokens, and predictable behavior.](https://dev.to/hadil/deep-dive-into-mcp-model-context-protocol-in-production-how-bifrosts-mcp-gateway-and-code-mode-18p2)
+- [A New Direction in Classification at SmartEco](https://dev.to/jashwanth_thatipamula_8ee/a-new-direction-in-classification-at-smarteco-5970)
+- [Day-4 Data Types](https://dev.to/karthick_m22/day-4-data-types-lh)
+- [JavaScript Concept](https://dev.to/olayemi_elsie/javascript-concept-5dld)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
