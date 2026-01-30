@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building in Silence: 8+ Unpublished HTML5 Web Apps and Ready to Collaborate](https://dev.to/joseph_gmwango_2745ed99e/building-in-silence-8-unpublished-html5-web-apps-and-ready-to-collaborate-1011)
-- [Kubernetes Pentest Methodology: Cluster Security from an Attacker&#39;s Perspective](https://dev.to/kanywst/kubernetes-pentest-methodology-cluster-security-from-an-attackers-perspective-1fek)
-- [Meteor 3.4 is out: Rspack integration, 4x faster builds, 8x smaller bundles, and extended bundler features](https://dev.to/meteor/meteor-34-is-out-rspack-integration-4x-faster-builds-8x-smaller-bundles-and-extended-bundler-51ia)
-- [Question of the Day #7 [Talk::Overflow]](https://dev.to/valpetaltechlabs/question-of-the-day-7-talkoverflow-5c40)
-- [Learning to Model Failure Properly While Building a Monitoring Tool in Python](https://dev.to/secengineerx_b31598a59fcd/learning-to-model-failure-properly-while-building-a-monitoring-tool-in-python-24f6)
+- [When Cloud Agents Are the Right Tool &lpar;And When They Aren’t&rpar;](https://dev.to/bekahhw/when-cloud-agents-are-the-right-tool-and-when-they-arent-42dg)
+- [Coding Challenge Practice - Question 109](https://dev.to/tomivan/coding-challenge-practice-question-109-3m02)
+- [Von der Handwerker-Website zur Conversion-Maschine: Was Entwickler von lokalen Businesses lernen können](https://dev.to/ivo_sa/von-der-handwerker-website-zur-conversion-maschine-was-entwickler-von-lokalen-businesses-lernen-bbg)
+- [The Cryptographic Pivot: From Symmetric to Asymmetric Efficiency](https://dev.to/kumaraish/the-cryptographic-pivot-from-symmetric-to-asymmetric-efficiency-2iha)
+- [Why do keys matter in React, and how do they improve performance?](https://dev.to/thesnehamk/why-do-keys-matter-in-react-and-how-do-they-improve-performance-4d1m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
