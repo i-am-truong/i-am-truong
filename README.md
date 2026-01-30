@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How DNS Resolution Works](https://dev.to/rajesh_kumar_b7a2c16a37b1/how-dns-resolution-works-17jg)
-- [A portifolio inspired at rick and morty &lpar;made with ai&rpar;](https://dev.to/samuellgsdev/a-portifolio-inspired-at-rick-and-morty-made-with-ai-5l4)
-- [Why Your Airline’s Chatbot is a Security Risk &lpar;and How to Fix It&rpar;](https://dev.to/alessandro_pignati/why-your-airlines-chatbot-is-a-security-risk-and-how-to-fix-it-575f)
-- [BaseXConvertor – A Simple &amp; Powerful Number System Converter for Developers](https://dev.to/nirmit_angane/basexconvertor-a-simple-powerful-number-system-converter-for-developers-46df)
-- [How Opencode Just Dethroned Claude](https://dev.to/markus_tretzmller_1d02bf/how-opencode-just-dethroned-claude-401k)
+- [This Week In React #266 : DoS, shadcn, Skills, Rspack | Expo 55 beta, Hermes, Expo Router | TC39, Rolldown, Yarn](https://dev.to/sebastienlorber/this-week-in-react-266-dos-shadcn-skills-rspack-expo-55-beta-hermes-expo-router-tc39-2h0p)
+- [Designing agentic workflows: where agents fail and where we fail](https://dev.to/danielbutlerirl/designing-agentic-workflows-where-agents-fail-and-where-we-fail-4a95)
+- [Why This Series Exists: Surviving Code-First Workplaces](https://dev.to/shailaputri/why-this-series-exists-surviving-code-first-workplaces-aop)
+- [Cloud | Infrastructure | DevOps | Motorcyclist - Rohan Singh](https://dev.to/rohankalhans/cloud-infrastructure-devops-motorcyclist-rohan-singh-1h0)
+- [Configuration Management with Ansible - Pilot](https://dev.to/12ww1160/configuration-management-with-ansible-pilot-2kbn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
