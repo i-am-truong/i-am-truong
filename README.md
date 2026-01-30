@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚨 Spring Boot 3.x 4.0 Migration: What Actually Broke &lpar;and How We Fixed It&rpar;](https://dev.to/eddybenchek/spring-boot-3x-40-migration-what-actually-broke-and-how-we-fixed-it-36ap)
-- [How Logistic Regression Really Reduces Customer Churn](https://dev.to/eagleeyethinker/how-logistic-regression-really-reduces-customer-churn-2md1)
-- [Tip for setting $DISPLAY when connecting to a Linux machine.](https://dev.to/hwolfe71/tip-for-setting-display-when-connecting-to-a-linux-machine-34cf)
-- [From Notion to Google Drive: A Version Control Decision](https://dev.to/trae_z/from-notion-to-google-drive-a-version-control-decision-246e)
-- [Exploring Cross Entropy &lpar;Part 2&rpar;: Understanding Total Cross Entropy and Loss with a Python Example](https://dev.to/rijultp/exploring-cross-entropy-part-2-understanding-total-cross-entropy-and-loss-with-a-python-example-5o3)
+- [Streamlining Authentication Flows: API Development Under Tight Deadlines for Security Researchers](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-authentication-flows-api-development-under-tight-deadlines-for-security-researchers-20c2)
+- [Minha Jornada na Área de Dados: Um Guia Para Quem Está Começando](https://dev.to/surocham/minha-jornada-na-area-de-dados-um-guia-para-quem-esta-comecando-i57)
+- [💼 Freelance Rate Negotiation Coach - AI-Powered Salary Intelligence](https://dev.to/asamaes/freelance-rate-negotiation-coach-ai-powered-salary-intelligence-23e6)
+- [SHARD: Deniable File Distribution Through XOR-Based Sharding](https://dev.to/cheetah100/shard-deniable-file-distribution-through-xor-based-sharding-2blm)
+- [AWS. GCP. Azure. Pocket vocabulary.](https://dev.to/vitalf/aws-gcp-azure-pocket-vocabulary-29hp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
