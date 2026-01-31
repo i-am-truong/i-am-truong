@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Feedback Witch Hunts: When One Discord Message Derails Your Entire Week](https://dev.to/chase_chalker/feedback-witch-hunts-when-one-discord-message-derails-your-entire-week-32g4)
+- [Announcing MCPHero Python Package - map MCP tools to OpenAI tools](https://dev.to/stepan_filonov_0ad64b76ca/announcing-mcphero-python-package-map-mcp-tools-to-openai-tools-2phc)
 - [Why GIT Exists: The Pendrive Problem](https://dev.to/iambhishek01/why-git-exists-the-pendrive-problem-4117)
 - [Streamlining Email Flow Validation in Microservices with API-Driven Approaches](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-email-flow-validation-in-microservices-with-api-driven-approaches-h12)
 - [Securing Test Environments: How a Lead QA Engineer Mitigates PII Leaks with TypeScript and Open Source Tools](https://dev.to/mohammad_waseem_c31f3a26f/securing-test-environments-how-a-lead-qa-engineer-mitigates-pii-leaks-with-typescript-and-open-3a6b)
-- [Why Web Accessibility Matters &lpar;And Why It&#39;s Not Just About Avoiding Lawsuits&rpar;](https://dev.to/belikenikola/why-web-accessibility-matters-and-why-its-not-just-about-avoiding-lawsuits-4ep7)
-- [From Childhood Dream to Cloud Run: Building My Portfolio That Took a Decade to Imagine](https://dev.to/vixis/from-childhood-dream-to-cloud-run-building-my-portfolio-that-took-a-decade-to-imagine-1m63)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
