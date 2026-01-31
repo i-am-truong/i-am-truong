@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CVE-2025-36070: The Glass House: Shattering IBM Db2 with a Single SELECT](https://dev.to/cverports/cve-2025-36070-the-glass-house-shattering-ibm-db2-with-a-single-select-j36)
+- [Rethinking Data Infrastructure in the AI Era](https://dev.to/zhenzhou_pang_71555d2e82d/rethinking-data-infrastructure-in-the-ai-era-5d2d)
+- [Stop Explaining Your Architecture: Auto-Generate Visual Dependency Docs](https://dev.to/sam_th/stop-explaining-your-architecture-auto-generate-visual-dependency-docs-1155)
+- [Top 10 API Client Tools for Developers in 2026](https://dev.to/md8_habibullah/top-10-api-client-tools-for-developers-in-2026-441e)
 - [Using GitHub Copilot CLI as a Beginner to Translate English into Shell Commands](https://dev.to/arpitjindal01/using-github-copilot-cli-as-a-beginner-to-translate-english-into-shell-commands-3h4e)
-- [Why Slower Software Often Leads to Better Products](https://dev.to/edition/why-slower-software-often-leads-to-better-products-5eal)
-- [LeetCode vs Educative: Which Is Better for Interview Prep in 2026?](https://dev.to/alex_hunter_44f4c9ed6671e/leetcode-vs-educative-which-is-better-for-interview-prep-in-2026-4mm0)
-- [S3 Triggers: How to Launch Glue Python Shell via AWS Lambda](https://dev.to/aws-builders/s3-triggers-how-to-launch-glue-python-shell-via-aws-lambda-4ke8)
-- [Abu Taher Siddik | The Celestial Full Stack Architect](https://dev.to/artielk_d394ffd713d0b97d21f/abu-taher-siddik-the-celestial-full-stack-architect-139)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
