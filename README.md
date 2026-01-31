@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building my portfolio like it&#39;s infinity gauntlet](https://dev.to/smitterhane/building-my-portfolio-like-its-infinity-gauntlet-5e8i)
 - [Almost futuristic portfolio](https://dev.to/lp_microbiana/almost-futuristic-portfolio-jjk)
+- [I built a &quot;Bot Factory&quot; in Go that routes thousands of Telegram bots through a single port](https://dev.to/amr-9/i-built-a-bot-factory-in-go-that-routes-thousands-of-telegram-bots-through-a-single-port-1nnp)
 - [The Office Portfolio](https://dev.to/vignesh_pa_9fefa8b4e8a96/the-office-portfolio-pco)
 - [Reducing FOUC with Web Components](https://dev.to/stuffbreaker/reducing-fouc-with-web-components-1jnh)
-- [DevSession CLI](https://dev.to/dobrenteiistvan/devsession-cli-b17)
-- [Schedule again](https://dev.to/ganeshmani/schedule-again-hpi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
