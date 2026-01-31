@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [IDE styled with scrapbook preview](https://dev.to/vamshi_duvva_da4bd62f622c/ide-styled-with-scrapbook-preview-49nd)
+- [Why CLAUDE.md Is the Most Important File in Your Codebase](https://dev.to/damogallagher/why-claudemd-is-the-most-important-file-in-your-codebase-3lfl)
 - [What Is Information Structure?](https://dev.to/milnuma/what-is-information-structure-1b66)
 - [DevSec Ansible Collection: Hardening Linux, SSH, Nginx, MySQL](https://dev.to/stelixx-insider/devsec-ansible-collection-hardening-linux-ssh-nginx-mysql-50b9)
 - [Database Fundamentals](https://dev.to/sami21234/database-fundamentals-36ka)
-- [Our Experience in Creating HTML Email Templates](https://dev.to/marketing_buddy/our-experience-in-creating-html-email-templates-3m0j)
-- [Nginx Configuration Guide: From Zero to Production Ready 🚀](https://dev.to/serhii_kolodych/nginx-configuration-guide-from-zero-to-production-ready-ajp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
