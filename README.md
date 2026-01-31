@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Zero-Budget Email Flow Validation: How a Security Researcher Leveraged Docker for Efficient Testing](https://dev.to/mohammad_waseem_c31f3a26f/zero-budget-email-flow-validation-how-a-security-researcher-leveraged-docker-for-efficient-testing-4fab)
-- [Leveraging Linux for Bypassing Gated Content During High-Traffic Events](https://dev.to/mohammad_waseem_c31f3a26f/leveraging-linux-for-bypassing-gated-content-during-high-traffic-events-9im)
-- [Top 5 DevOps Platforms of 2026: Why Stateless IaC is the New Standard](https://dev.to/mechcloud/top-5-devops-platforms-of-2026-why-stateless-iac-is-the-new-standard-27ae)
-- [Streamlining Legacy Databases with React: A Lead QA Engineer&#39;s Approach to Clutter Control](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-legacy-databases-with-react-a-lead-qa-engineers-approach-to-clutter-control-1jp9)
-- [I Built a Multi-Service Kubernetes App and Here&#39;s What Actually Broke](https://dev.to/adil-khan-723/i-built-a-multi-service-kubernetes-app-and-heres-what-actually-broke-4f99)
+- [TCP Working 3-Way Handshake &amp; Reliable Communication](https://dev.to/souvik_blog_b790df30e8dea/tcp-working-3-way-handshake-reliable-communication-1h4k)
+- [Rain water trapping](https://dev.to/raja71/rain-water-trapping-35b2)
+- [Understanding Network Devices](https://dev.to/souvik_blog_b790df30e8dea/understanding-network-devices-5f06)
+- [The Future of WebAssembly](https://dev.to/godofgeeks/the-future-of-webassembly-24fb)
+- [CI/CD Pipeline for Solo Developers: Go + GCP + GitHub Actions](https://dev.to/shusukedev/cicd-pipeline-for-solo-developers-go-gcp-github-actions-1f1b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
