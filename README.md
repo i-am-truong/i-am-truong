@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Comparison Is Not the Thief of Joy](https://dev.to/andreivince/comparison-is-not-the-thief-of-joy-87)
 - [Overcoming IP Ban Challenges in Web Scraping with Rust and Open Source Tools](https://dev.to/mohammad_waseem_c31f3a26f/overcoming-ip-ban-challenges-in-web-scraping-with-rust-and-open-source-tools-540d)
 - [Rapid Deployment of a Dockerized Spam Trap Avoidance System Under Tight Deadlines](https://dev.to/mohammad_waseem_c31f3a26f/rapid-deployment-of-a-dockerized-spam-trap-avoidance-system-under-tight-deadlines-1008)
 - [I spent 3 nights fighting AI hallucinations. Then I found this. 🕵️‍♂️🧩](https://dev.to/nicola_fiore_89b1628cd6af/i-spent-3-nights-fighting-ai-hallucinations-then-i-found-this-n9b)
 - [Rapid JavaScript Solutions to Avoid Spam Traps in DevOps Environments](https://dev.to/mohammad_waseem_c31f3a26f/rapid-javascript-solutions-to-avoid-spam-traps-in-devops-environments-3bl0)
-- [AI Matching: Matrix First, Neural Nets Later](https://dev.to/yurii_lozinskyi/ai-matching-matrix-first-neural-nets-later-2280)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
