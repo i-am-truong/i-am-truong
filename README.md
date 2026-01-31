@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why CLAUDE.md Is one of the Most Important File in Your Codebase](https://dev.to/damogallagher/why-claudemd-is-one-of-the-most-important-file-in-your-codebase-292a)
-- [Solana Vulnerabilities Every Developer Should Know](https://dev.to/4k_mira/solana-vulnerabilities-every-developer-should-know-389l)
-- [The $100B OpenAI-Nvidia Deal Is on Ice — What It Means for AI Developers](https://dev.to/damogallagher/the-100b-openai-nvidia-deal-is-on-ice-what-it-means-for-ai-developers-4chh)
-- [Quark&#39;s Outlines: Python Built-in Methods](https://dev.to/mike-vincent/quarks-outlines-python-built-in-methods-6k7)
-- [re:Cap 2025 by AWS User Group Jakarta](https://dev.to/aws-builders/recap-2025-by-aws-user-group-jakarta-f8c)
+- [Dart Frog Part 5: Deploying Your Backend Service With Dart Globe 🌍](https://dev.to/techwithsam/dart-frog-part-5-deploying-your-backend-service-with-dart-globe-469e)
+- [The 5 Rules for Not Breaking Production with AI](https://dev.to/tedhagos/the-5-rules-for-not-breaking-production-with-ai-2jfc)
+- [Pixelated 84: New Year, Same Pixel](https://dev.to/alan_maulanaibrahim_e18c_8/pixelated-84-new-year-same-pixel-4caf)
+- [New Year New Me Portfolio](https://dev.to/nobella_nyarari/new-year-new-me-portfolio-4h8f)
+- [Unlock Google Workspace Efficiency: Sharing Docs Without the Chaos](https://dev.to/workalizer/unlock-google-workspace-efficiency-sharing-docs-without-the-chaos-1eif)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
