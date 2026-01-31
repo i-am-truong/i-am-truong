@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Scaling Load Testing for Enterprises: A Go-Based Approach to Handling Massive Traffic](https://dev.to/mohammad_waseem_c31f3a26f/scaling-load-testing-for-enterprises-a-go-based-approach-to-handling-massive-traffic-17ed)
-- [MVP architecture adapted for Unity](https://dev.to/ged_bashiri_f667fe2667068/mvp-architecture-adapted-for-unity-5fk8)
-- [Building Persistent Memory for Kiro with Bash Hooks](https://dev.to/vol/building-persistent-memory-for-kiro-with-bash-hooks-4gm8)
-- [From Blocking to Non-Blocking: Architecting High-Concurrency Signaling with Quart](https://dev.to/deepak_mishra_35863517037/from-blocking-to-non-blocking-architecting-high-concurrency-signaling-with-quart-320f)
-- [Retry Logic Is a Policy Decision, Not a Code Pattern](https://dev.to/secengineerx/retry-logic-is-a-policy-decision-not-a-code-pattern-1lmi)
+- [Implementing sudo for LLMs: A Middleware Approach to AI Security](https://dev.to/namansharma00100/implementing-sudo-for-llms-a-middleware-approach-to-ai-security-1pam)
+- [How AI Flagged Me For Being In Cybersecurity](https://dev.to/inframind/how-ai-flagged-me-for-being-in-cybersecurity-35o3)
+- [Building a Honeypot Scanner That Handles 2M Scans/Day for $0](https://dev.to/teycir/building-a-honeypot-scanner-that-handles-2m-scansday-for-0-d6a)
+- [We tested 5 AI commit-message skills on security. 3 made things worse.](https://dev.to/shadab_nazar/we-tested-5-ai-commit-message-skills-on-security-3-made-things-worse-mdm)
+- [Practical Introduction to Async Generators in JavaScript](https://dev.to/pmbanugo/practical-introduction-to-async-generators-in-javascript-47k5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
