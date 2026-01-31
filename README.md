@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Inside Git: How It Works and the Role of the .git Folder](https://dev.to/pratham69/inside-git-how-it-works-and-the-role-of-the-git-folder-1h1l)
-- [Building Interoperable AI Business Agents with UCP: DevBooks Agent Implementation Analysis](https://dev.to/gde/building-interoperable-ai-business-agents-devbooks-agent-implementation-analysis-1gfp)
-- [[Gemini][Python] LINE Bot AP2 Integration Series &lpar;Part 2&rpar; - Revisiting the Spec and Implementing a Credential Provider](https://dev.to/gde/geminipython-line-bot-ap2-integration-series-part-2-revisiting-the-spec-and-implementing-a-1o27)
-- [Join our Open-Source Marathon – Beginner Friendly &amp; Real Projects 🚀](https://dev.to/vishal_maddy/join-our-open-source-marathon-beginner-friendly-real-projects-1nfk)
-- [CKAD Exam: The Essential Cheatsheet I Wish I Had When I Started](https://dev.to/andrew_collins/ckad-exam-the-essential-cheatsheet-i-wish-i-had-when-i-started-3727)
+- [How DNS Resolution Works: A Complete Guide with dig](https://dev.to/pratham69/how-dns-resolution-works-a-complete-guide-with-dig-h0a)
+- [An Affordable AI Server](https://dev.to/dcruver/an-affordable-ai-server-3dba)
+- [Sharing AI Development Rules Across Your Organization](https://dev.to/paulduvall/sharing-ai-development-rules-across-your-organization-dan)
+- [How to Build Real-Time Collaborative Features in Go with CRDTs and Operational Transformation](https://dev.to/nithinbharathwaj/how-to-build-real-time-collaborative-features-in-go-with-crdts-and-operational-transformation-1dh2)
+- [Selecting a Tech Stack for Time-Critical Apps](https://dev.to/yuvraj707sharma/selecting-a-tech-stack-for-time-critical-apps-f53)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
