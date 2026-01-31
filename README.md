@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hackintosh the Easy Way: Generating a Clean EFI with OpCore-Simplify &lpar;Windows First&rpar;](https://dev.to/jervi/hackintosh-the-easy-way-generating-a-clean-efi-with-opcore-simplify-windows-first-466o)
-- [PHP 8.3–8.4 для Bitrix и WordPress: типизация, атрибуты, паттерны](https://dev.to/_vproger_/php-83-84-dlia-bitrix-i-wordpress-tipizatsiia-atributy-pattierny-24l8)
-- [Astro vs React/Vue и SSG: когда Astro — перебор, а когда спасение](https://dev.to/_vproger_/astro-vs-reactvue-i-ssg-koghda-astro-pieriebor-a-koghda-spasieniie-10g)
-- [SIEM-themed portfolio](https://dev.to/yowise/siem-themed-portfolio-4j5)
-- [How to Add Profanity Filtering to Your OpenClaw | Moltbot Clawdbot Agent](https://dev.to/thegdsks/how-to-add-profanity-filtering-to-your-openclawmoltbotclawdbot-agent-hbi)
+- [Overcoming IP Ban Challenges in Web Scraping with Rust and Open Source Tools](https://dev.to/mohammad_waseem_c31f3a26f/overcoming-ip-ban-challenges-in-web-scraping-with-rust-and-open-source-tools-540d)
+- [Rapid Deployment of a Dockerized Spam Trap Avoidance System Under Tight Deadlines](https://dev.to/mohammad_waseem_c31f3a26f/rapid-deployment-of-a-dockerized-spam-trap-avoidance-system-under-tight-deadlines-1008)
+- [I spent 3 nights fighting AI hallucinations. Then I found this. 🕵️‍♂️🧩](https://dev.to/nicola_fiore_89b1628cd6af/i-spent-3-nights-fighting-ai-hallucinations-then-i-found-this-n9b)
+- [Rapid JavaScript Solutions to Avoid Spam Traps in DevOps Environments](https://dev.to/mohammad_waseem_c31f3a26f/rapid-javascript-solutions-to-avoid-spam-traps-in-devops-environments-3bl0)
+- [AI Matching: Matrix First, Neural Nets Later](https://dev.to/yurii_lozinskyi/ai-matching-matrix-first-neural-nets-later-2280)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
