@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [TCP Working 3-Way Handshake &amp; Reliable Communication](https://dev.to/souvik_blog_b790df30e8dea/tcp-working-3-way-handshake-reliable-communication-1h4k)
-- [Rain water trapping](https://dev.to/raja71/rain-water-trapping-35b2)
-- [Understanding Network Devices](https://dev.to/souvik_blog_b790df30e8dea/understanding-network-devices-5f06)
-- [The Future of WebAssembly](https://dev.to/godofgeeks/the-future-of-webassembly-24fb)
-- [CI/CD Pipeline for Solo Developers: Go + GCP + GitHub Actions](https://dev.to/shusukedev/cicd-pipeline-for-solo-developers-go-gcp-github-actions-1f1b)
+- [CSS Selectors 101 - Targeting Elements with Precision](https://dev.to/souvik_blog_b790df30e8dea/css-selectors-101-targeting-elements-with-precision-3g41)
+- [Emmet for HTML - A Beginner’s Guide to Writing Faster Markup](https://dev.to/souvik_blog_b790df30e8dea/emmet-for-html-a-beginners-guide-to-writing-faster-markup-39fk)
+- [Overcoming IP Bans in Web Scraping with Node.js on a Zero Budget](https://dev.to/mohammad_waseem_c31f3a26f/overcoming-ip-bans-in-web-scraping-with-nodejs-on-a-zero-budget-46pf)
+- [Things to do after creating an EC2 instance and connecting to it using SSH](https://dev.to/alok38/things-to-do-after-creating-an-ec2-instance-and-connecting-to-it-using-ssh-1125)
+- [Coding is Dying? No, It’s Evolving into &quot;Agentic Architecture&quot; &lpar;2026 career shift&rpar;](https://dev.to/pubudutharanga/coding-is-dying-no-its-evolving-into-agentic-architecture-2026-career-shift-c7m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
