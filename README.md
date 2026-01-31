@@ -120,15 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why website change monitors fail silently on JavaScript-heavy sites &lpar;and how to detect it before it costs you&rpar;](https://dev.to/bd73/why-website-change-monitors-fail-silently-on-javascript-heavy-sites-and-how-to-detect-it-before-it-e61)
-- [InvestorMate: AI-Powered Stock Analysis in Python — And calling out open-source devs for feedback and contributions](https://dev.to/siddartha19/investormate-ai-powered-stock-analysis-in-python-and-calling-out-open-source-devs-for-feedback-4jcf)
-- [The Future of Content Management Systems with SharePoint](https://dev.to/rumaisa_ms_56aaa48ba8b1b/the-future-of-content-management-systems-with-sharepoint-3hb9)
-- [Crons Are an Agent’s Superpower &lpar;and the cleanest path to compounding usefulness&rpar;](https://dev.to/angelablue/crons-are-an-agents-superpower-and-the-cleanest-path-to-compounding-usefulness-2b6h)
-- [🚀 New Blog Live: JavaScript Data Types Explained!
-
-If you&#39;re learning JavaScript — or working with React, Node.js, or any modern framework — understanding data types is a game changer.
-
-👉 Check it out and let me know your thoughts!](https://dev.to/chetandevx/new-blog-live-javascript-data-types-explained-if-youre-learning-javascript-or-working-47p6)
+- [For JS devs: LightRec/lr-ibcf - Open-Source Item-Based Collaborative Filtering in JavaScript](https://dev.to/muktadirul675/for-js-devs-lightreclr-ibcf-open-source-item-based-collaborative-filtering-in-javascript-1jed)
+- [The $100B OpenAI-Nvidia Deal Is on Ice — What It Means for AI Developers](https://dev.to/damogallagher/the-100b-openai-nvidia-deal-is-on-ice-what-it-means-for-ai-developers-4n80)
+- [Why I Built a Multi-LLM Development Framework &lpar;And Why You Might Need One Too&rpar;](https://dev.to/thomasjamet/why-i-built-a-multi-llm-development-framework-and-why-you-might-need-one-too-1na8)
+- [How Real Databases Work Internally ?](https://dev.to/farhadrahimiklie/how-real-databases-work-internally--3904)
+- [How to Build Your Own Shadcn UI Registry](https://dev.to/naud/how-to-build-your-own-shadcn-ui-registry-21j5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
