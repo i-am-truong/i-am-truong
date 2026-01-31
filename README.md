@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Page Cache and Pager State: Where Concurrency Becomes Concrete](https://dev.to/lovestaco/page-cache-and-pager-state-where-concurrency-becomes-concrete-35gb)
-- [Meet IK UI: The Minimalist, Lightweight UI Kit for Vue 3 Developers](https://dev.to/ikui_47ea3538ca74920eee2b/meet-ik-ui-the-minimalist-lightweight-ui-kit-for-vue-3-developers-1jkc)
-- [How I Built a SwiftUI Starter Kit That Saves 40+ Hours Per Project](https://dev.to/__be2942592/how-i-built-a-swiftui-starter-kit-that-saves-40-hours-per-project-4km0)
-- [The Ronin&#39;s Path: Building a Pure Portfolio for the Google AI Challenge](https://dev.to/laqro/the-ronins-path-building-a-pure-portfolio-for-the-google-ai-challenge-10e0)
-- [Snowflake Drawing Tool](https://dev.to/preetha_vaishnavi_2b82358/snowflake-drawing-tool-16i0)
+- [Retry Strategies Compared: Constant vs Exponential Backoff vs Jitter in Go &lpar;With Simulation&rpar;](https://dev.to/rafael_panisset/retry-strategies-compared-constant-vs-exponential-backoff-vs-jitter-in-go-with-simulation-1mce)
+- [SwiftUI Dark Mode: The Complete Implementation Guide](https://dev.to/__be2942592/swiftui-dark-mode-the-complete-implementation-guide-3f8i)
+- [5 SwiftUI Tips That Will Make Your Code 10x Cleaner](https://dev.to/__be2942592/5-swiftui-tips-that-will-make-your-code-10x-cleaner-39d8)
+- [You&#39;re Consuming Too Much and Creating Too Little](https://dev.to/ruhidibadli/youre-consuming-too-much-and-creating-too-little-1dfm)
+- [Sandbox Mode: YOLO Speed Meets Actual Security](https://dev.to/rajeshroyal/sandbox-mode-yolo-speed-meets-actual-security-36m9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
