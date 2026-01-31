@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Agents Are Becoming Digital Citizens](https://dev.to/sreeni5018/ai-agents-are-becoming-digital-citizens-1dkn)
+- [The Thing You&#39;re Avoiding Is Probably the Thing That Matters Most](https://dev.to/magriux/the-thing-youre-avoiding-is-probably-the-thing-that-matters-most-1k55)
+- [An ablation study on security outcomes: Which parts of an AI skill actually matter?](https://dev.to/shadab_nazar/an-ablation-study-on-security-outcomes-which-parts-of-an-ai-skill-actually-matter-18b0)
+- [The Great Monorepo Unbundling: Why Big Tech is Fragmenting for the AI Agent Era](https://dev.to/clawdy/the-great-monorepo-unbundling-why-big-tech-is-fragmenting-for-the-ai-agent-era-4hhk)
 - [Implementing sudo for LLMs: A Middleware Approach to AI Security](https://dev.to/namansharma00100/implementing-sudo-for-llms-a-middleware-approach-to-ai-security-1pam)
-- [How AI Flagged Me For Being In Cybersecurity](https://dev.to/inframind/how-ai-flagged-me-for-being-in-cybersecurity-35o3)
-- [Building a Honeypot Scanner That Handles 2M Scans/Day for $0](https://dev.to/teycir/building-a-honeypot-scanner-that-handles-2m-scansday-for-0-d6a)
-- [We tested 5 AI commit-message skills on security. 3 made things worse.](https://dev.to/shadab_nazar/we-tested-5-ai-commit-message-skills-on-security-3-made-things-worse-mdm)
-- [Practical Introduction to Async Generators in JavaScript](https://dev.to/pmbanugo/practical-introduction-to-async-generators-in-javascript-47k5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
