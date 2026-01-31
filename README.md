@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Effects and InjectionContext in Angular&lpar;v21&rpar;](https://dev.to/pckalyan/effects-and-injectioncontext-in-angularv21-20ib)
+- [I Built Bruno Simon&#39;s Portfolio in 20 Days — Here&#39;s My Jakarta Street 3D Experience](https://dev.to/asynchronope/i-built-bruno-simons-portfolio-in-20-days-heres-my-jakarta-street-3d-experience-2ghp)
 - [Advanced Prompting Techniques — Automating Reasoning &amp; Persona-Based AI&lpar;Part 3&rpar;](https://dev.to/prabhasg56/advanced-prompting-techniques-automating-reasoning-persona-based-aipart-3-1mh6)
 - [Building my portfolio like it&#39;s infinity gauntlet](https://dev.to/smitterhane/building-my-portfolio-like-its-infinity-gauntlet-5e8i)
 - [Almost futuristic portfolio](https://dev.to/lp_microbiana/almost-futuristic-portfolio-jjk)
-- [I built a &quot;Bot Factory&quot; in Go that routes thousands of Telegram bots through a single port](https://dev.to/amr-9/i-built-a-bot-factory-in-go-that-routes-thousands-of-telegram-bots-through-a-single-port-1nnp)
-- [The Office Portfolio](https://dev.to/vignesh_pa_9fefa8b4e8a96/the-office-portfolio-pco)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
