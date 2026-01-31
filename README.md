@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Underrated Role of Human and Organizational Process in AI Safety](https://dev.to/shravani_8_8/the-underrated-role-of-human-and-organizational-process-in-ai-safety-2hdb)
-- [For JS devs: LightRec/lr-ibcf - Open-Source Item-Based Collaborative Filtering in JavaScript](https://dev.to/muktadirul675/for-js-devs-lightreclr-ibcf-open-source-item-based-collaborative-filtering-in-javascript-1jed)
-- [Why I Built a Multi-LLM Development Framework &lpar;And Why You Might Need One Too&rpar;](https://dev.to/thomasjamet/why-i-built-a-multi-llm-development-framework-and-why-you-might-need-one-too-1na8)
-- [How Real Databases Work Internally ?](https://dev.to/farhadrahimiklie/how-real-databases-work-internally--3904)
-- [How to Build Your Own Shadcn UI Registry](https://dev.to/naud/how-to-build-your-own-shadcn-ui-registry-21j5)
+- [What Is Information Structure?](https://dev.to/milnuma/what-is-information-structure-1b66)
+- [DevSec Ansible Collection: Hardening Linux, SSH, Nginx, MySQL](https://dev.to/stelixx-insider/devsec-ansible-collection-hardening-linux-ssh-nginx-mysql-50b9)
+- [Database Fundamentals](https://dev.to/sami21234/database-fundamentals-36ka)
+- [Our Experience in Creating HTML Email Templates](https://dev.to/marketing_buddy/our-experience-in-creating-html-email-templates-3m0j)
+- [Nginx Configuration Guide: From Zero to Production Ready 🚀](https://dev.to/serhii_kolodych/nginx-configuration-guide-from-zero-to-production-ready-ajp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
