@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How DNS Resolution Works: A Complete Guide with dig](https://dev.to/pratham69/how-dns-resolution-works-a-complete-guide-with-dig-h0a)
-- [An Affordable AI Server](https://dev.to/dcruver/an-affordable-ai-server-3dba)
-- [Sharing AI Development Rules Across Your Organization](https://dev.to/paulduvall/sharing-ai-development-rules-across-your-organization-dan)
-- [How to Build Real-Time Collaborative Features in Go with CRDTs and Operational Transformation](https://dev.to/nithinbharathwaj/how-to-build-real-time-collaborative-features-in-go-with-crdts-and-operational-transformation-1dh2)
-- [Selecting a Tech Stack for Time-Critical Apps](https://dev.to/yuvraj707sharma/selecting-a-tech-stack-for-time-critical-apps-f53)
+- [Page Cache and Pager State: Where Concurrency Becomes Concrete](https://dev.to/lovestaco/page-cache-and-pager-state-where-concurrency-becomes-concrete-35gb)
+- [Meet IK UI: The Minimalist, Lightweight UI Kit for Vue 3 Developers](https://dev.to/ikui_47ea3538ca74920eee2b/meet-ik-ui-the-minimalist-lightweight-ui-kit-for-vue-3-developers-1jkc)
+- [How I Built a SwiftUI Starter Kit That Saves 40+ Hours Per Project](https://dev.to/__be2942592/how-i-built-a-swiftui-starter-kit-that-saves-40-hours-per-project-4km0)
+- [The Ronin&#39;s Path: Building a Pure Portfolio for the Google AI Challenge](https://dev.to/laqro/the-ronins-path-building-a-pure-portfolio-for-the-google-ai-challenge-10e0)
+- [Snowflake Drawing Tool](https://dev.to/preetha_vaishnavi_2b82358/snowflake-drawing-tool-16i0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
