@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Portfolio You Query, Not Scroll](https://dev.to/shiv669/a-portfolio-you-query-not-scroll-12p7)
+- [Native Inference: Testing an SLM &lpar;L3.1-8B-I&rpar; on C Pointer Logic](https://dev.to/ben-santora/native-inference-testing-l31-8b-i-on-c-pointer-logic-1794)
+- [The Backbone of Power BI: A Deep Dive into Data Modeling &amp; Schemas](https://dev.to/charles_ndungu/the-backbone-of-power-bi-a-deep-dive-into-data-modeling-schemas-1o1l)
 - [Git &amp; GitHub for Beginners &lpar;Amazon Linux 2023&rpar;: Fork, Branch, Commit, Pull Request &lpar;Walkthrough&rpar;](https://dev.to/ldwit/git-github-for-beginners-amazon-linux-2023-fork-branch-commit-pull-request-walkthrough-j74)
 - [I&#39;m 14 and built a course tracker because Udemy&#39;s dashboard is not good enough](https://dev.to/dvfrog/im-14-and-built-a-course-tracker-because-udemys-dashboard-is-not-good-enough-4jk4)
-- [Top 10 AI Tools Every Developer Should Know in 2026](https://dev.to/md8_habibullah/top-10-ai-tools-every-developer-should-know-in-2026-44f7)
-- [Dark Web Monitoring: Signals, Noise, and Practical Constraints](https://dev.to/tor_bbb/dark-web-monitoring-signals-noise-and-practical-constraints-2250)
-- [Introducing LexaChat AI — A New Step in My FuncLexa Journey](https://dev.to/ansari_sultan/introducing-lexachat-ai-a-new-step-in-my-funclexa-journey-4n87)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
