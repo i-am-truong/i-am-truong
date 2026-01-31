@@ -120,11 +120,15 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [HTTP Push Mechanism](https://dev.to/azmy/http-push-mechanism-3c3j)
-- [LeetCode #347. Top K Frequent Element](https://dev.to/desiato/leetcode-347-top-k-frequent-element-1dni)
-- [ChatGPT Telemetry Crashes on Invalid Input &lpar;Yes, Really&rpar;](https://dev.to/liudasjan/chatgpt-telemetry-crashes-on-invalid-input-yes-really-1eod)
-- [&quot;Google Me&quot;: Transforming my Career into a Google Search Experience](https://dev.to/diego_martinezl_933e935/google-me-transforming-my-career-into-a-google-search-experience-4j1n)
-- [Starting Without a Perfect Plan](https://dev.to/richardpascoe/starting-without-a-perfect-plan-4d4d)
+- [Why website change monitors fail silently on JavaScript-heavy sites &lpar;and how to detect it before it costs you&rpar;](https://dev.to/bd73/why-website-change-monitors-fail-silently-on-javascript-heavy-sites-and-how-to-detect-it-before-it-e61)
+- [InvestorMate: AI-Powered Stock Analysis in Python — And calling out open-source devs for feedback and contributions](https://dev.to/siddartha19/investormate-ai-powered-stock-analysis-in-python-and-calling-out-open-source-devs-for-feedback-4jcf)
+- [The Future of Content Management Systems with SharePoint](https://dev.to/rumaisa_ms_56aaa48ba8b1b/the-future-of-content-management-systems-with-sharepoint-3hb9)
+- [Crons Are an Agent’s Superpower &lpar;and the cleanest path to compounding usefulness&rpar;](https://dev.to/angelablue/crons-are-an-agents-superpower-and-the-cleanest-path-to-compounding-usefulness-2b6h)
+- [🚀 New Blog Live: JavaScript Data Types Explained!
+
+If you&#39;re learning JavaScript — or working with React, Node.js, or any modern framework — understanding data types is a game changer.
+
+👉 Check it out and let me know your thoughts!](https://dev.to/chetandevx/new-blog-live-javascript-data-types-explained-if-youre-learning-javascript-or-working-47p6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
