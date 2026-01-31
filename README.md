@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Feedback Witch Hunts: When One Discord Message Derails Your Entire Week](https://dev.to/chase_chalker/feedback-witch-hunts-when-one-discord-message-derails-your-entire-week-32g4)
-- [Announcing MCPHero Python Package - map MCP tools to OpenAI tools](https://dev.to/stepan_filonov_0ad64b76ca/announcing-mcphero-python-package-map-mcp-tools-to-openai-tools-2phc)
-- [Why GIT Exists: The Pendrive Problem](https://dev.to/iambhishek01/why-git-exists-the-pendrive-problem-4117)
-- [Streamlining Email Flow Validation in Microservices with API-Driven Approaches](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-email-flow-validation-in-microservices-with-api-driven-approaches-h12)
-- [Securing Test Environments: How a Lead QA Engineer Mitigates PII Leaks with TypeScript and Open Source Tools](https://dev.to/mohammad_waseem_c31f3a26f/securing-test-environments-how-a-lead-qa-engineer-mitigates-pii-leaks-with-typescript-and-open-3a6b)
+- [SPRING BOOT EXCEPTION HANDLING](https://dev.to/bhu_kalki/spring-boot-exception-handling-3m9a)
+- [To those who are left behind in the AI rush](https://dev.to/ms_74/to-those-who-are-left-behind-in-the-ai-rush-45f5)
+- [Leaving GitHub After 25 Years: A Senior Developer’s Warning on &quot;Digital Hostage&quot; Situations](https://dev.to/milos74/leaving-github-after-25-years-a-senior-developers-warning-on-digital-hostage-situations-1ne2)
+- [Securing Legacy Test Environments: Eliminating PII Leaks on Linux](https://dev.to/mohammad_waseem_c31f3a26f/securing-legacy-test-environments-eliminating-pii-leaks-on-linux-34cn)
+- [Cloud Computing and DevOps: The Twin Engines of Modern Tech.](https://dev.to/adeniyi_odukoya_afe87425e/cloud-computing-and-devops-the-twin-engines-of-modern-tech-575n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
