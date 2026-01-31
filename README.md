@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a Rust-powered web vulnerability scanner with 60+ modules](https://dev.to/bountyyfi/i-built-a-rust-powered-web-vulnerability-scanner-with-60-modules-4og0)
-- [First on Dev Community](https://dev.to/riyyan_qazi_d92d27005b371/first-on-dev-community-4dgl)
-- [Building an Autonomous F1/10th Car #1: Intro and Why](https://dev.to/daveson217/building-an-autonomous-f110th-car-1-intro-and-why-3lck)
-- [Multimodal Prompting: The Next Frontier-How to Juggle Text, Images, and Files in a Single Request](https://dev.to/velocityai/multimodal-prompting-the-next-frontier-how-to-juggle-text-images-and-files-in-a-single-request-3112)
-- [I Built a Timestamp Converter That Doesn&#39;t Suck &lpar;And It&#39;s Free&rpar;](https://dev.to/ravi_kumar_524ae0f5457b12/i-built-a-timestamp-converter-that-doesnt-suck-and-its-free-318l)
+- [Why GIT Exists: The Pendrive Problem](https://dev.to/iambhishek01/why-git-exists-the-pendrive-problem-4117)
+- [Streamlining Email Flow Validation in Microservices with API-Driven Approaches](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-email-flow-validation-in-microservices-with-api-driven-approaches-h12)
+- [Securing Test Environments: How a Lead QA Engineer Mitigates PII Leaks with TypeScript and Open Source Tools](https://dev.to/mohammad_waseem_c31f3a26f/securing-test-environments-how-a-lead-qa-engineer-mitigates-pii-leaks-with-typescript-and-open-3a6b)
+- [Why Web Accessibility Matters &lpar;And Why It&#39;s Not Just About Avoiding Lawsuits&rpar;](https://dev.to/belikenikola/why-web-accessibility-matters-and-why-its-not-just-about-avoiding-lawsuits-4ep7)
+- [From Childhood Dream to Cloud Run: Building My Portfolio That Took a Decade to Imagine](https://dev.to/vixis/from-childhood-dream-to-cloud-run-building-my-portfolio-that-took-a-decade-to-imagine-1m63)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
