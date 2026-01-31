@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Email Flow Validation with SQL: A Senior Architect’s Approach](https://dev.to/mohammad_waseem_c31f3a26f/mastering-email-flow-validation-with-sql-a-senior-architects-approach-54pf)
+- [Thamotharan Gopal - Cloud &amp; DevOps Architect Portfolio](https://dev.to/thamotharan_g_4f83b1f4b72/thamotharan-gopal-cloud-devops-architect-portfolio-2p0l)
+- [How a Browser Works A Beginner-Friendly Guide to Browser Internals](https://dev.to/souvik_blog_b790df30e8dea/how-a-browser-works-a-beginner-friendly-guide-to-browser-internals-56kh)
+- [Securing and Automating Authentication Flows in Enterprise Environments with DevOps and Cybersecurity Strategies](https://dev.to/mohammad_waseem_c31f3a26f/securing-and-automating-authentication-flows-in-enterprise-environments-with-devops-and-51c7)
 - [The $100B OpenAI-Nvidia Deal Is on Ice — What It Means for AI Developers](https://dev.to/damogallagher/the-100b-openai-nvidia-deal-is-on-ice-what-it-means-for-ai-developers-4j88)
-- [Full-Stack, Mobile &amp; Cloud Developer Portfolio](https://dev.to/dinesh_dk/full-stack-mobile-cloud-developer-portfolio-4olf)
-- [I Was Wrong: Selenium vs Playwright in 2025](https://dev.to/toasagi/i-was-wrong-selenium-vs-playwright-in-2025-4ope)
-- [Why the search for truth can never be worth more than the search to question it.](https://dev.to/tlrag/why-the-search-for-truth-can-never-be-worth-more-than-the-search-to-question-it-4dcb)
-- [Modernizing Authentication Flows in Legacy React Applications](https://dev.to/mohammad_waseem_c31f3a26f/modernizing-authentication-flows-in-legacy-react-applications-2429)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
