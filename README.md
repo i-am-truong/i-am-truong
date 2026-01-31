@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Bypassing Gated Content with TypeScript: A Zero-Budget Approach for Senior Developers](https://dev.to/mohammad_waseem_c31f3a26f/bypassing-gated-content-with-typescript-a-zero-budget-approach-for-senior-developers-dk)
-- [Testing Your Cloud Infrastructure Like IKEA Furniture: 6 Layers of Crossplane v2 Testing &lpar;PostgreSQL Example&rpar;](https://dev.to/the-software-s-journey/testing-your-cloud-infrastructure-like-ikea-furniture-6-layers-of-crossplane-v2-testing-5dgk)
-- [SPRING BOOT EXCEPTION HANDLING](https://dev.to/bhu_kalki/spring-boot-exception-handling-3m9a)
-- [To those who are left behind in the AI rush](https://dev.to/ms_74/to-those-who-are-left-behind-in-the-ai-rush-45f5)
-- [Leaving GitHub After 25 Years: A Senior Developer’s Warning on &quot;Digital Hostage&quot; Situations](https://dev.to/milos74/leaving-github-after-25-years-a-senior-developers-warning-on-digital-hostage-situations-1ne2)
+- [Scaling Load Testing for Enterprises: A Go-Based Approach to Handling Massive Traffic](https://dev.to/mohammad_waseem_c31f3a26f/scaling-load-testing-for-enterprises-a-go-based-approach-to-handling-massive-traffic-17ed)
+- [MVP architecture adapted for Unity](https://dev.to/ged_bashiri_f667fe2667068/mvp-architecture-adapted-for-unity-5fk8)
+- [Building Persistent Memory for Kiro with Bash Hooks](https://dev.to/vol/building-persistent-memory-for-kiro-with-bash-hooks-4gm8)
+- [From Blocking to Non-Blocking: Architecting High-Concurrency Signaling with Quart](https://dev.to/deepak_mishra_35863517037/from-blocking-to-non-blocking-architecting-high-concurrency-signaling-with-quart-320f)
+- [Retry Logic Is a Policy Decision, Not a Code Pattern](https://dev.to/secengineerx/retry-logic-is-a-policy-decision-not-a-code-pattern-1lmi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
