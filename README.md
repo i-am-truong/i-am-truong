@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CVE-2025-36070: The Glass House: Shattering IBM Db2 with a Single SELECT](https://dev.to/cverports/cve-2025-36070-the-glass-house-shattering-ibm-db2-with-a-single-select-j36)
-- [Rethinking Data Infrastructure in the AI Era](https://dev.to/zhenzhou_pang_71555d2e82d/rethinking-data-infrastructure-in-the-ai-era-5d2d)
-- [Stop Explaining Your Architecture: Auto-Generate Visual Dependency Docs](https://dev.to/sam_th/stop-explaining-your-architecture-auto-generate-visual-dependency-docs-1155)
-- [Top 10 API Client Tools for Developers in 2026](https://dev.to/md8_habibullah/top-10-api-client-tools-for-developers-in-2026-441e)
-- [Using GitHub Copilot CLI as a Beginner to Translate English into Shell Commands](https://dev.to/arpitjindal01/using-github-copilot-cli-as-a-beginner-to-translate-english-into-shell-commands-3h4e)
+- [Vibe Coding a Pokémon Search App with Cursor](https://dev.to/nikola/vibe-coding-a-pokemon-search-app-with-cursor-1hid)
+- [Vibe Coding a Pokémon Search App with Replit](https://dev.to/nikola/vibe-coding-a-pokemon-search-app-with-replit-38fd)
+- [Google Prepares Smart Reply &#39;Tap to Edit&#39; Feature for Android Users](https://dev.to/alan_maulanaibrahim_e18c_8/google-prepares-smart-reply-tap-to-edit-feature-for-android-users-3oeb)
+- [editMode environment variable](https://dev.to/muhdmirzamz/editmode-environment-variable-3999)
+- [Emmet for HTML](https://dev.to/m-asif-ansari/emmet-for-html-30e2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
