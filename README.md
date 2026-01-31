@@ -120,13 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Coding in Peace - The Story Behind Harmonia Zen](https://dev.to/agusrdz/coding-in-peace-the-story-behind-harmonia-zen-3370)
-- [Overcoming Geolocation Restrictions in Microservices with Cybersecurity Strategies](https://dev.to/mohammad_waseem_c31f3a26f/overcoming-geolocation-restrictions-in-microservices-with-cybersecurity-strategies-654)
-- [Common Manual Testing Techniques](https://dev.to/ramya_ganesh_2b310339b4d6/common-manual-testing-techniques-7hg)
-- [Coding is not disappearing. It’s being demoted from the core value to a supporting skill.
-
-And that’s not the end of the developer profession. It’s the moment it grows up.](https://dev.to/jaideepparashar/coding-is-not-disappearing-its-being-demoted-from-the-core-value-to-a-supporting-skill-and-4jdl)
-- [Will AI Replace Developers?](https://dev.to/jaideepparashar/will-ai-replace-developers-lha)
+- [Why Kubernetes Docs Prefer Headlamp Over the Kubernetes Dashboard](https://dev.to/sharonkynu/why-kubernetes-docs-prefer-headlamp-over-the-kubernetes-dashboard-29p5)
+- [29.Delete Backup from S3 Using Terraform](https://dev.to/thukhakyawe_cloud/29delete-backup-from-s3-using-terraform-4ha2)
+- [Battling Spam Traps in Email Campaigns with JavaScript on a Zero-Budget](https://dev.to/mohammad_waseem_c31f3a26f/battling-spam-traps-in-email-campaigns-with-javascript-on-a-zero-budget-b85)
+- [Automating Authentication Flows with JavaScript and Open Source Tools](https://dev.to/mohammad_waseem_c31f3a26f/automating-authentication-flows-with-javascript-and-open-source-tools-ade)
+- [Self-hosted Plagiarism Detection with OpenSearch](https://dev.to/cobel1024/self-hosted-plagiarism-detection-with-opensearch-33gj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
