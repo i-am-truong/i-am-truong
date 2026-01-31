@@ -120,11 +120,13 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [20+ Git Commands Every Software Engineer Should Actually Know](https://dev.to/speaklouder/20-git-commands-every-software-engineer-should-actually-know-1gnf)
-- [How Jenkins Slowly Drained Our EFS Burst Credits Over 2 Weeks](https://dev.to/tielec-takashi/how-jenkins-slowly-drained-our-efs-burst-credits-over-2-weeks-4dg4)
-- [🔍 Beginner-Friendly Guide &#39;Find Smallest Letter Greater Than Target&#39; - Problem 744 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-find-smallest-letter-greater-than-target-problem-744-c-python-25eb)
-- [Desktop Music Player Using QT for Python - Built with Github Copilot CLI](https://dev.to/charlottetowell/desktop-music-player-using-qt-for-python-built-with-github-copilot-cli-45mk)
-- [What makes you instantly bookmark a tool instead of just using it once ?](https://dev.to/bhavin-allinonetools/what-makes-you-instantly-bookmark-a-tool-instead-of-just-using-it-once--4j8a)
+- [Coding in Peace - The Story Behind Harmonia Zen](https://dev.to/agusrdz/coding-in-peace-the-story-behind-harmonia-zen-3370)
+- [Overcoming Geolocation Restrictions in Microservices with Cybersecurity Strategies](https://dev.to/mohammad_waseem_c31f3a26f/overcoming-geolocation-restrictions-in-microservices-with-cybersecurity-strategies-654)
+- [Common Manual Testing Techniques](https://dev.to/ramya_ganesh_2b310339b4d6/common-manual-testing-techniques-7hg)
+- [Coding is not disappearing. It’s being demoted from the core value to a supporting skill.
+
+And that’s not the end of the developer profession. It’s the moment it grows up.](https://dev.to/jaideepparashar/coding-is-not-disappearing-its-being-demoted-from-the-core-value-to-a-supporting-skill-and-4jdl)
+- [Will AI Replace Developers?](https://dev.to/jaideepparashar/will-ai-replace-developers-lha)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
