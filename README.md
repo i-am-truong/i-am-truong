@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why My Portfolio Has Superpowers and Villain Galleries](https://dev.to/lewisawe/why-my-portfolio-has-superpowers-and-villain-galleries-1hci)
-- [Most DSA Problems Are Repetitions](https://dev.to/rasoolk16/most-dsa-problems-are-repetitions-3m1p)
-- [How big is the EU tech dependence on the US?](https://dev.to/techbyadam/how-big-is-the-eu-tech-dependence-on-the-us-3667)
-- [From Senior Developer to Architect: A Complete Guide](https://dev.to/grigor_borisov_49590b5aa7/from-senior-developer-to-architect-a-complete-guide-168g)
-- [Phoenix LiveComponent Provider Pattern](https://dev.to/neophen/phoenix-livecomponent-provider-pattern-46ca)
+- [Inside Git: How It Works and the Role of the .git Folder](https://dev.to/pratham69/inside-git-how-it-works-and-the-role-of-the-git-folder-1h1l)
+- [Building Interoperable AI Business Agents with UCP: DevBooks Agent Implementation Analysis](https://dev.to/gde/building-interoperable-ai-business-agents-devbooks-agent-implementation-analysis-1gfp)
+- [[Gemini][Python] LINE Bot AP2 Integration Series &lpar;Part 2&rpar; - Revisiting the Spec and Implementing a Credential Provider](https://dev.to/gde/geminipython-line-bot-ap2-integration-series-part-2-revisiting-the-spec-and-implementing-a-1o27)
+- [Join our Open-Source Marathon – Beginner Friendly &amp; Real Projects 🚀](https://dev.to/vishal_maddy/join-our-open-source-marathon-beginner-friendly-real-projects-1nfk)
+- [CKAD Exam: The Essential Cheatsheet I Wish I Had When I Started](https://dev.to/andrew_collins/ckad-exam-the-essential-cheatsheet-i-wish-i-had-when-i-started-3727)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
