@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Dart Frog Part 5: Deploying Your Backend Service With Dart Globe 🌍](https://dev.to/techwithsam/dart-frog-part-5-deploying-your-backend-service-with-dart-globe-469e)
-- [The 5 Rules for Not Breaking Production with AI](https://dev.to/tedhagos/the-5-rules-for-not-breaking-production-with-ai-2jfc)
-- [Pixelated 84: New Year, Same Pixel](https://dev.to/alan_maulanaibrahim_e18c_8/pixelated-84-new-year-same-pixel-4caf)
-- [New Year New Me Portfolio](https://dev.to/nobella_nyarari/new-year-new-me-portfolio-4h8f)
-- [Unlock Google Workspace Efficiency: Sharing Docs Without the Chaos](https://dev.to/workalizer/unlock-google-workspace-efficiency-sharing-docs-without-the-chaos-1eif)
+- [Building a Portfolio with Gemini - New Year, New You Portfolio Challenge](https://dev.to/agastya_khati_f72c89077c8/building-a-portfolio-with-gemini-new-year-new-you-portfolio-challenge-314m)
+- [From Dream to Reality: My First Resizable Sidebar UI](https://dev.to/usama_dev/from-dream-to-reality-my-first-resizable-sidebar-ui-21p)
+- [Meet Synapse: State Management Without the Ceremony](https://dev.to/john_yaghobieh_8f294091f6/meet-synapse-state-management-without-the-ceremony-2i63)
+- [CI/CD Deployment of an Azure Web App using Terraform and Azure DevOps.](https://dev.to/alvarosro/cicd-deployment-of-an-azure-web-app-using-terraform-and-azure-devops-26e6)
+- [🌊 Logtide 0.5.0: Making Observability Simpler and More Powerful](https://dev.to/polliog/logtide-050-making-observability-simpler-and-more-powerful-4o0f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
