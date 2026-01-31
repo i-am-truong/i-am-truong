@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SSH Like a Pro: Creating an Isolated User on an EC2 Instance &lpar;Without Breaking Anything&rpar;](https://dev.to/c_6b7a8e65d067ddc62/ssh-like-a-pro-creating-an-isolated-user-on-an-ec2-instance-without-breaking-anything-3576)
-- [Testnet to Mainnet: The Checklist Every Developer Needs Before Deploying Real Money](https://dev.to/ribhavmodi/testnet-to-mainnet-the-checklist-every-developer-needs-before-deploying-real-money-1ipl)
-- [MARKDOWN - kirish](https://dev.to/nooon/markdown-kirish-fob)
-- [CSS Selectors 101 - Targeting Elements with Precision](https://dev.to/souvik_blog_b790df30e8dea/css-selectors-101-targeting-elements-with-precision-3g41)
-- [Emmet for HTML - A Beginner’s Guide to Writing Faster Markup](https://dev.to/souvik_blog_b790df30e8dea/emmet-for-html-a-beginners-guide-to-writing-faster-markup-39fk)
+- [The $100B OpenAI-Nvidia Deal Is on Ice — What It Means for AI Developers](https://dev.to/damogallagher/the-100b-openai-nvidia-deal-is-on-ice-what-it-means-for-ai-developers-4j88)
+- [Full-Stack, Mobile &amp; Cloud Developer Portfolio](https://dev.to/dinesh_dk/full-stack-mobile-cloud-developer-portfolio-4olf)
+- [I Was Wrong: Selenium vs Playwright in 2025](https://dev.to/toasagi/i-was-wrong-selenium-vs-playwright-in-2025-4ope)
+- [Why the search for truth can never be worth more than the search to question it.](https://dev.to/tlrag/why-the-search-for-truth-can-never-be-worth-more-than-the-search-to-question-it-4dcb)
+- [Modernizing Authentication Flows in Legacy React Applications](https://dev.to/mohammad_waseem_c31f3a26f/modernizing-authentication-flows-in-legacy-react-applications-2429)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
