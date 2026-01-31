@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [HTTP Push Mechanism](https://dev.to/azmy/http-push-mechanism-3c3j)
+- [LeetCode #347. Top K Frequent Element](https://dev.to/desiato/leetcode-347-top-k-frequent-element-1dni)
+- [ChatGPT Telemetry Crashes on Invalid Input &lpar;Yes, Really&rpar;](https://dev.to/liudasjan/chatgpt-telemetry-crashes-on-invalid-input-yes-really-1eod)
 - [&quot;Google Me&quot;: Transforming my Career into a Google Search Experience](https://dev.to/diego_martinezl_933e935/google-me-transforming-my-career-into-a-google-search-experience-4j1n)
 - [Starting Without a Perfect Plan](https://dev.to/richardpascoe/starting-without-a-perfect-plan-4d4d)
-- [Securing Test Environments: Eliminating Leaking PII Through DevOps Strategies](https://dev.to/mohammad_waseem_c31f3a26f/securing-test-environments-eliminating-leaking-pii-through-devops-strategies-3m5)
-- [Scaling Amazon Kinesis and AWS Lambda](https://dev.to/ankitmalikg/handling-production-issue-scaling-amazon-kinesis-and-aws-lambda-3f3n)
-- [5 App Store Screenshot Mistakes Killing Conversions &lpar;2026&rpar;](https://dev.to/appscreenshotstudio/5-app-store-screenshot-mistakes-killing-conversions-2026-5adp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
