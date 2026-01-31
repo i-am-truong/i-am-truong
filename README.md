@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing Test Account Management During High Traffic Events with SQL Security Techniques](https://dev.to/mohammad_waseem_c31f3a26f/optimizing-test-account-management-during-high-traffic-events-with-sql-security-techniques-4jmn)
-- [I built a browser-based Gamepad Tester using the HTML5 Gamepad API](https://dev.to/testmygamepad/i-built-a-browser-based-gamepad-tester-using-the-html5-gamepad-api-3hec)
-- [Prompt Engineering: The Complete Guide to Better AI Outputs](https://dev.to/mem0/prompt-engineering-the-complete-guide-to-better-ai-outputs-1e94)
-- [Docker](https://dev.to/elayaraj31/docker-2294)
-- [Why Kubernetes Docs Prefer Headlamp Over the Kubernetes Dashboard](https://dev.to/sharonkynu/why-kubernetes-docs-prefer-headlamp-over-the-kubernetes-dashboard-29p5)
+- [Zero-Budget Email Flow Validation: How a Security Researcher Leveraged Docker for Efficient Testing](https://dev.to/mohammad_waseem_c31f3a26f/zero-budget-email-flow-validation-how-a-security-researcher-leveraged-docker-for-efficient-testing-4fab)
+- [Leveraging Linux for Bypassing Gated Content During High-Traffic Events](https://dev.to/mohammad_waseem_c31f3a26f/leveraging-linux-for-bypassing-gated-content-during-high-traffic-events-9im)
+- [Top 5 DevOps Platforms of 2026: Why Stateless IaC is the New Standard](https://dev.to/mechcloud/top-5-devops-platforms-of-2026-why-stateless-iac-is-the-new-standard-27ae)
+- [Streamlining Legacy Databases with React: A Lead QA Engineer&#39;s Approach to Clutter Control](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-legacy-databases-with-react-a-lead-qa-engineers-approach-to-clutter-control-1jp9)
+- [I Built a Multi-Service Kubernetes App and Here&#39;s What Actually Broke](https://dev.to/adil-khan-723/i-built-a-multi-service-kubernetes-app-and-heres-what-actually-broke-4f99)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
