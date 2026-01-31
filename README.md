@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Bypassing Gated Content with TypeScript: A Zero-Budget Approach for Senior Developers](https://dev.to/mohammad_waseem_c31f3a26f/bypassing-gated-content-with-typescript-a-zero-budget-approach-for-senior-developers-dk)
+- [Testing Your Cloud Infrastructure Like IKEA Furniture: 6 Layers of Crossplane v2 Testing &lpar;PostgreSQL Example&rpar;](https://dev.to/the-software-s-journey/testing-your-cloud-infrastructure-like-ikea-furniture-6-layers-of-crossplane-v2-testing-5dgk)
 - [SPRING BOOT EXCEPTION HANDLING](https://dev.to/bhu_kalki/spring-boot-exception-handling-3m9a)
 - [To those who are left behind in the AI rush](https://dev.to/ms_74/to-those-who-are-left-behind-in-the-ai-rush-45f5)
 - [Leaving GitHub After 25 Years: A Senior Developer’s Warning on &quot;Digital Hostage&quot; Situations](https://dev.to/milos74/leaving-github-after-25-years-a-senior-developers-warning-on-digital-hostage-situations-1ne2)
-- [Securing Legacy Test Environments: Eliminating PII Leaks on Linux](https://dev.to/mohammad_waseem_c31f3a26f/securing-legacy-test-environments-eliminating-pii-leaks-on-linux-34cn)
-- [Cloud Computing and DevOps: The Twin Engines of Modern Tech.](https://dev.to/adeniyi_odukoya_afe87425e/cloud-computing-and-devops-the-twin-engines-of-modern-tech-575n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
