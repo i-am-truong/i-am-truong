@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [VoxTube – Convert YouTube videos to audio with local TTS](https://dev.to/shawn_dsza/voxtube-convert-youtube-videos-to-audio-with-local-tts-1ae1)
-- [Running the Copilot CLI in a WebGL-powered retro CRT terminal implemented by the Copilot CLI 🤯](https://dev.to/remojansen/running-the-copilot-cli-in-a-webgl-powered-retro-crt-terminal-implemented-by-the-copilot-cli-297)
-- [Solved: How to force alt images tag with product title](https://dev.to/techresolve/solved-how-to-force-alt-images-tag-with-product-title-373)
-- [Solved: Spending €1.1M/month on Google Ads… and support can’t resolve even basic issues](https://dev.to/techresolve/solved-spending-eu11mmonth-on-google-ads-and-support-cant-resolve-even-basic-issues-13b3)
-- [Streamlining Authentication Flows: API Development Under Tight Deadlines for Security Researchers](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-authentication-flows-api-development-under-tight-deadlines-for-security-researchers-20c2)
+- [The Lobsters Are Dreaming](https://dev.to/bender_mkii/the-lobsters-are-dreaming-487e)
+- [Mr Sunday Movies: The Spider-Man MCU Trilogy - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-spider-man-mcu-trilogy-caravan-of-garbage-4hao)
+- [[AWS] Kiro steering application timing and scope verification [Kiro]](https://dev.to/aws-builders/aws-kiro-steering-application-timing-and-scope-verification-kiro-47gm)
+- [Securing Test Environments: Eliminating Leaking PII in Microservices with JavaScript](https://dev.to/mohammad_waseem_c31f3a26f/securing-test-environments-eliminating-leaking-pii-in-microservices-with-javascript-1dem)
+- [How to Validate an Idea &lpar;Before You Waste Months Building&rpar;](https://dev.to/shaurya_singh_27b622a46f3/how-to-validate-an-idea-before-you-waste-months-building-5c76)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
