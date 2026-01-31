@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [IDE styled with scrapbook preview](https://dev.to/vamshi_duvva_da4bd62f622c/ide-styled-with-scrapbook-preview-49nd)
-- [What Is Information Structure?](https://dev.to/milnuma/what-is-information-structure-1b66)
-- [DevSec Ansible Collection: Hardening Linux, SSH, Nginx, MySQL](https://dev.to/stelixx-insider/devsec-ansible-collection-hardening-linux-ssh-nginx-mysql-50b9)
-- [Database Fundamentals](https://dev.to/sami21234/database-fundamentals-36ka)
-- [Our Experience in Creating HTML Email Templates](https://dev.to/marketing_buddy/our-experience-in-creating-html-email-templates-3m0j)
+- [Why CLAUDE.md Is one of the Most Important File in Your Codebase](https://dev.to/damogallagher/why-claudemd-is-one-of-the-most-important-file-in-your-codebase-292a)
+- [Solana Vulnerabilities Every Developer Should Know](https://dev.to/4k_mira/solana-vulnerabilities-every-developer-should-know-389l)
+- [The $100B OpenAI-Nvidia Deal Is on Ice — What It Means for AI Developers](https://dev.to/damogallagher/the-100b-openai-nvidia-deal-is-on-ice-what-it-means-for-ai-developers-4chh)
+- [Quark&#39;s Outlines: Python Built-in Methods](https://dev.to/mike-vincent/quarks-outlines-python-built-in-methods-6k7)
+- [re:Cap 2025 by AWS User Group Jakarta](https://dev.to/aws-builders/recap-2025-by-aws-user-group-jakarta-f8c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
