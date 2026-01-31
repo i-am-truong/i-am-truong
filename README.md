@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Optimizing Test Account Management During High Traffic Events with SQL Security Techniques](https://dev.to/mohammad_waseem_c31f3a26f/optimizing-test-account-management-during-high-traffic-events-with-sql-security-techniques-4jmn)
+- [I built a browser-based Gamepad Tester using the HTML5 Gamepad API](https://dev.to/testmygamepad/i-built-a-browser-based-gamepad-tester-using-the-html5-gamepad-api-3hec)
+- [Prompt Engineering: The Complete Guide to Better AI Outputs](https://dev.to/mem0/prompt-engineering-the-complete-guide-to-better-ai-outputs-1e94)
+- [Docker](https://dev.to/elayaraj31/docker-2294)
 - [Why Kubernetes Docs Prefer Headlamp Over the Kubernetes Dashboard](https://dev.to/sharonkynu/why-kubernetes-docs-prefer-headlamp-over-the-kubernetes-dashboard-29p5)
-- [29.Delete Backup from S3 Using Terraform](https://dev.to/thukhakyawe_cloud/29delete-backup-from-s3-using-terraform-4ha2)
-- [Battling Spam Traps in Email Campaigns with JavaScript on a Zero-Budget](https://dev.to/mohammad_waseem_c31f3a26f/battling-spam-traps-in-email-campaigns-with-javascript-on-a-zero-budget-b85)
-- [Automating Authentication Flows with JavaScript and Open Source Tools](https://dev.to/mohammad_waseem_c31f3a26f/automating-authentication-flows-with-javascript-and-open-source-tools-ade)
-- [Self-hosted Plagiarism Detection with OpenSearch](https://dev.to/cobel1024/self-hosted-plagiarism-detection-with-opensearch-33gj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
