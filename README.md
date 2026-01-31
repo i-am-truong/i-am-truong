@@ -120,8 +120,8 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Underrated Role of Human and Organizational Process in AI Safety](https://dev.to/shravani_8_8/the-underrated-role-of-human-and-organizational-process-in-ai-safety-2hdb)
 - [For JS devs: LightRec/lr-ibcf - Open-Source Item-Based Collaborative Filtering in JavaScript](https://dev.to/muktadirul675/for-js-devs-lightreclr-ibcf-open-source-item-based-collaborative-filtering-in-javascript-1jed)
-- [The $100B OpenAI-Nvidia Deal Is on Ice — What It Means for AI Developers](https://dev.to/damogallagher/the-100b-openai-nvidia-deal-is-on-ice-what-it-means-for-ai-developers-4n80)
 - [Why I Built a Multi-LLM Development Framework &lpar;And Why You Might Need One Too&rpar;](https://dev.to/thomasjamet/why-i-built-a-multi-llm-development-framework-and-why-you-might-need-one-too-1na8)
 - [How Real Databases Work Internally ?](https://dev.to/farhadrahimiklie/how-real-databases-work-internally--3904)
 - [How to Build Your Own Shadcn UI Registry](https://dev.to/naud/how-to-build-your-own-shadcn-ui-registry-21j5)
