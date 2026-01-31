@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Redis Explained: What It Is, Why Developers Use It and the Problems It Solves](https://dev.to/kmsaifullah/redis-explained-what-it-is-why-developers-use-it-and-the-problems-it-solves-4hei)
-- [What Does a Good Hackathon Submission Look Like?](https://dev.to/dorahacks/what-does-a-good-hackathon-submission-look-like-5398)
-- [bus factor = 1 &lpar;why i coded a kill switch for my death&rpar;](https://dev.to/gordazo0_7653f38e2d667dd1/bus-factor-1-why-i-coded-a-kill-switch-for-my-death-4lln)
-- [Why App Retention Metrics Quietly Push Teams Toward Dark Patterns](https://dev.to/ariana_1cd1f38541bf6cd69f/why-app-retention-metrics-quietly-push-teams-toward-dark-patterns-2j81)
-- [Local MCP Development with Zig and Gemini CLI](https://dev.to/gde/local-mcp-development-with-zig-and-gemini-cli-1807)
+- [Why My Portfolio Has Superpowers and Villain Galleries](https://dev.to/lewisawe/why-my-portfolio-has-superpowers-and-villain-galleries-1hci)
+- [Most DSA Problems Are Repetitions](https://dev.to/rasoolk16/most-dsa-problems-are-repetitions-3m1p)
+- [How big is the EU tech dependence on the US?](https://dev.to/techbyadam/how-big-is-the-eu-tech-dependence-on-the-us-3667)
+- [From Senior Developer to Architect: A Complete Guide](https://dev.to/grigor_borisov_49590b5aa7/from-senior-developer-to-architect-a-complete-guide-168g)
+- [Phoenix LiveComponent Provider Pattern](https://dev.to/neophen/phoenix-livecomponent-provider-pattern-46ca)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
