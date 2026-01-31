@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CSS Selectors 101](https://dev.to/m-asif-ansari/css-selectors-101-40kg)
-- [Beyond External Storage: What if AI Could Remember Like We Do?](https://dev.to/hejhdiss/beyond-external-storage-what-if-ai-could-remember-like-we-do-458j)
-- [Aegis-OS: Industrial Intelligence HUD by Gemini 2.5-Flash](https://dev.to/tahiryamin/aegis-os-industrial-intelligence-hud-by-gemini-25-flash-f3a)
-- [A Portfolio You Query, Not Scroll](https://dev.to/shiv669/a-portfolio-you-query-not-scroll-12p7)
-- [The Soul of Software Lives in Its Names - Kotodama](https://dev.to/goodrelax/the-soul-of-software-lives-in-its-names-kotodama-26o6)
+- [Redis Explained: What It Is, Why Developers Use It and the Problems It Solves](https://dev.to/kmsaifullah/redis-explained-what-it-is-why-developers-use-it-and-the-problems-it-solves-4hei)
+- [What Does a Good Hackathon Submission Look Like?](https://dev.to/dorahacks/what-does-a-good-hackathon-submission-look-like-5398)
+- [bus factor = 1 &lpar;why i coded a kill switch for my death&rpar;](https://dev.to/gordazo0_7653f38e2d667dd1/bus-factor-1-why-i-coded-a-kill-switch-for-my-death-4lln)
+- [Why App Retention Metrics Quietly Push Teams Toward Dark Patterns](https://dev.to/ariana_1cd1f38541bf6cd69f/why-app-retention-metrics-quietly-push-teams-toward-dark-patterns-2j81)
+- [Local MCP Development with Zig and Gemini CLI](https://dev.to/gde/local-mcp-development-with-zig-and-gemini-cli-1807)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
