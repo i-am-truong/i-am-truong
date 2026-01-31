@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Lobsters Are Dreaming](https://dev.to/bender_mkii/the-lobsters-are-dreaming-487e)
-- [Mr Sunday Movies: The Spider-Man MCU Trilogy - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-spider-man-mcu-trilogy-caravan-of-garbage-4hao)
-- [[AWS] Kiro steering application timing and scope verification [Kiro]](https://dev.to/aws-builders/aws-kiro-steering-application-timing-and-scope-verification-kiro-47gm)
-- [Securing Test Environments: Eliminating Leaking PII in Microservices with JavaScript](https://dev.to/mohammad_waseem_c31f3a26f/securing-test-environments-eliminating-leaking-pii-in-microservices-with-javascript-1dem)
-- [How to Validate an Idea &lpar;Before You Waste Months Building&rpar;](https://dev.to/shaurya_singh_27b622a46f3/how-to-validate-an-idea-before-you-waste-months-building-5c76)
+- [20+ Git Commands Every Software Engineer Should Actually Know](https://dev.to/speaklouder/20-git-commands-every-software-engineer-should-actually-know-1gnf)
+- [How Jenkins Slowly Drained Our EFS Burst Credits Over 2 Weeks](https://dev.to/tielec-takashi/how-jenkins-slowly-drained-our-efs-burst-credits-over-2-weeks-4dg4)
+- [🔍 Beginner-Friendly Guide &#39;Find Smallest Letter Greater Than Target&#39; - Problem 744 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-find-smallest-letter-greater-than-target-problem-744-c-python-25eb)
+- [Desktop Music Player Using QT for Python - Built with Github Copilot CLI](https://dev.to/charlottetowell/desktop-music-player-using-qt-for-python-built-with-github-copilot-cli-45mk)
+- [What makes you instantly bookmark a tool instead of just using it once ?](https://dev.to/bhavin-allinonetools/what-makes-you-instantly-bookmark-a-tool-instead-of-just-using-it-once--4j8a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
