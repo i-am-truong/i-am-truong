@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop using JWT libraries: How to build your own Lightweight Tokens with node:crypto](https://dev.to/itsmefminsaf/stop-using-jwt-libraries-how-to-build-your-own-lightweight-tokens-with-nodecrypto-1dk3)
-- [Generative Simulation Benchmarking for coastal climate resilience planning under real-time policy constraints](https://dev.to/rikinptl/generative-simulation-benchmarking-for-coastal-climate-resilience-planning-under-real-time-policy-4jc9)
-- [Is Elixir’s Observability Ready for Production? A Guide for Skeptical Engineers](https://dev.to/arctarus/is-elixirs-observability-ready-for-production-a-guide-for-skeptical-engineers-2hj2)
-- [Train Your Own Z-Image Turbo LoRA on cloud GPUs](https://dev.to/ishaangupta1201/train-your-own-z-image-turbo-lora-on-cloud-gpus-247n)
-- [I Built an Open-Source CLI AI Coding Assistant in Go &lpar;and it costs $3/month&rpar;](https://dev.to/sungat_arynov_cda583888da/i-built-an-open-source-cli-ai-coding-assistant-in-go-and-it-costs-3month-4pma)
+- [Revisiting My esbuild Configuration: Lessons Learned from Snowflake and Prisma](https://dev.to/htuohz/revisiting-my-esbuild-configuration-lessons-learned-from-snowflake-and-prisma-40df)
+- [A Three-Layer Boot Architecture for AI-Native Systems](https://dev.to/hejhdiss/a-three-layer-boot-architecture-for-ai-native-systems-1cbl)
+- [AI can write code, but can you catch its mistakes?](https://dev.to/httpsabhis/ai-can-write-code-but-can-you-catch-its-mistakes-4hb)
+- [Breaking Through IP Bans in Web Scraping with Kubernetes: A DevOps Approach Under Tight Deadlines](https://dev.to/mohammad_waseem_c31f3a26f/breaking-through-ip-bans-in-web-scraping-with-kubernetes-a-devops-approach-under-tight-deadlines-32n7)
+- [Implementing Login in a Next.js App with Passport, JWT, and DDD](https://dev.to/digitalrisedorset/implementing-login-in-a-nextjs-app-with-passport-jwt-and-ddd-2loe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
