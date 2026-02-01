@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [jumia](https://dev.to/miranda1gatwiri/jumia-35jj)
+- [Bypassing Gated Content in Legacy Systems with Rust: A Senior Architect’s Approach](https://dev.to/mohammad_waseem_c31f3a26f/bypassing-gated-content-in-legacy-systems-with-rust-a-senior-architects-approach-44hb)
+- [Power BI: Schemas and Data Modelling](https://dev.to/makwaka/power-bi-schemas-and-data-modelling-2k2c)
 - [Why I Turned My Portfolio into an Operating System](https://dev.to/jevimartinez/why-i-turned-my-portfolio-into-an-operating-system-199h)
 - [Coturn Alternative: How to Migrate from Self-Hosted Coturn to a Managed TURN Service](https://dev.to/alakkadshaw/coturn-alternative-how-to-migrate-from-self-hosted-coturn-to-a-managed-turn-service-51an)
-- [#Data analytics #Data Science #Power Bi](https://dev.to/arapzruto/data-analytics-data-science-power-bi-78k)
-- [excel assignment sheet](https://dev.to/miranda1gatwiri/jumia-sheet-4ijf)
-- [Schemas and Data Modelling in Power BI](https://dev.to/atemba/schemas-and-data-modelling-in-power-bi-2oa8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
