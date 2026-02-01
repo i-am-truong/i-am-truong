@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Designed Wolf as a Brain Then Discovered Raccoon Was a Programming Language](https://dev.to/cavemanjames75/i-designed-wolf-as-a-brain-then-discovered-raccoon-was-a-programming-language-1707)
-- [Data Modelling And Schemas in Power Bi,Relationships and clarification:Beginner.](https://dev.to/wickliff_odoshe_90f1e35e3/data-modelling-and-schemas-in-power-birelationships-and-clarificationbeginner-jkj)
-- [Scout9 Pro: AI-Powered Automated Scouting for Esports Coaches](https://dev.to/ankit_kumar_0410/scout9-pro-ai-powered-automated-scouting-for-esports-coaches-hlo)
-- [Introduction to Linux for Data Engineers, Including Practical Use of Vi and Nano with Examples](https://dev.to/chiiraq/introduction-to-linux-for-data-engineers-including-practical-use-of-vi-and-nano-with-examples-5a75)
-- [⚙️ FOSDEM 2026 : signaux structurels de l’écosystème open source](https://dev.to/matyo91/fosdem-2026-signaux-structurels-de-lecosysteme-open-source-16do)
+- [Why I Turned My Portfolio into an Operating System](https://dev.to/jevimartinez/why-i-turned-my-portfolio-into-an-operating-system-199h)
+- [Coturn Alternative: How to Migrate from Self-Hosted Coturn to a Managed TURN Service](https://dev.to/alakkadshaw/coturn-alternative-how-to-migrate-from-self-hosted-coturn-to-a-managed-turn-service-51an)
+- [#Data analytics #Data Science #Power Bi](https://dev.to/arapzruto/data-analytics-data-science-power-bi-78k)
+- [excel assignment sheet](https://dev.to/miranda1gatwiri/jumia-sheet-4ijf)
+- [Schemas and Data Modelling in Power BI](https://dev.to/atemba/schemas-and-data-modelling-in-power-bi-2oa8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
