@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Java Virtual Threads — Quick Guide](https://dev.to/ankitdevcode/java-virtual-threads-quick-guide-1jca)
-- [The Pitfalls of Test Coverage: Introducing Mutation Testing with Stryker and Cosmic Ray](https://dev.to/wintrover/the-pitfalls-of-test-coverage-introducing-mutation-testing-with-stryker-and-cosmic-ray-1kcg)
-- [Deep dive into how Bifrost’s MCP Gateway and Code Mode enable scalable, production-grade LLM systems 🔥, reducing token costs, improving determinism, and making MCP-based AI workflows predictable, debuggable, and ready for real-world infrastructure.](https://dev.to/hadil/deep-dive-into-how-bifrosts-mcp-gateway-and-code-mode-enable-scalable-production-grade-llm-4jp2)
-- [Data Modelling and Schemas in Power BI](https://dev.to/faith_neno_ab7523752f338a/data-modelling-and-schemas-in-power-bi-4hgk)
-- [The Algorithm Will See You Now](https://dev.to/rawveg/the-algorithm-will-see-you-now-45g2)
+- [Tackling Memory Leaks in High-Traffic JavaScript Applications: A DevOps Approach](https://dev.to/mohammad_waseem_c31f3a26f/tackling-memory-leaks-in-high-traffic-javascript-applications-a-devops-approach-3ikk)
+- [Retrieval Augmented Generation: Architectures, Patterns, and Production Reality](https://dev.to/neurondb_support_d73fa7ba/retrieval-augmented-generation-architectures-patterns-and-production-reality-49g1)
+- [LeafWiki Devlog #8: v0.7.3 - Secure by Default: Authentication, Roles &amp; Safer Self-Hosting](https://dev.to/perber/leafwiki-devlog-8-v073-secure-by-default-authentication-roles-safer-self-hosting-154e)
+- [Perl Weekly Challenge - 358: When Strings Become Numbers and Letters Start Shifting](https://dev.to/vinodk89/perl-weekly-challenge-358-when-strings-become-numbers-and-letters-start-shifting-j84)
+- [Making Sense of Bipartite Graphs](https://dev.to/rajib18197/making-sense-of-bipartite-graphs-5bok)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
