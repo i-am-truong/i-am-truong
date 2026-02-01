@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Leveraging Linux for Spam Trap Prevention in Microservices Security](https://dev.to/mohammad_waseem_c31f3a26f/leveraging-linux-for-spam-trap-prevention-in-microservices-security-la4)
-- [I Built the Most Beautiful Markdown Viewer for Developers &lpar;And It&#39;s Free&rpar;](https://dev.to/chieund/i-built-the-most-beautiful-markdown-viewer-for-developers-and-its-free-4km6)
-- [&lpar;Mis-&rpar;Use Spring proxy magic to inject Http request into business layer - should you?](https://dev.to/mumbocoder/mis-use-spring-proxy-magic-to-inject-http-request-into-business-layer-should-you-4fgb)
-- [My Updated Portfolio](https://dev.to/armab_dev101/my-updated-portfolio-3bag)
-- [Context Engineering: Designing AI Systems That Actually Understand Your Codebase](https://dev.to/daylay92/context-engineering-designing-ai-systems-that-actually-understand-your-codebase-28bf)
+- [5 Things Every Beginner Should Know Before Starting Manual Testing](https://dev.to/ijsathi/5-things-every-beginner-should-know-before-starting-manual-testing-108p)
+- [Why Your AI Agent Needs to Hire Other Agents](https://dev.to/pinchwork_b98640844b93a3f/why-your-ai-agent-needs-to-hire-other-agents-1dg2)
+- [Stardust: The dashboard that transforms GitHub trends from &quot;search&quot; to &quot;monitoring&quot;](https://dev.to/kanywst/stardust-the-dashboard-that-transforms-github-trends-from-search-to-monitoring-5732)
+- [SCHEMAS AND MODELLING IN POWER BI.](https://dev.to/maggy_njuguna/schemas-and-modelling-in-power-bi-5c3)
+- [I Eliminated SQLite Race Conditions in a Multi-Threaded Python App 🚀](https://dev.to/rolan_r_n_r/i-eliminated-sqlite-race-conditions-in-a-multi-threaded-python-app-4eod)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
