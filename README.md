@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cellular automata that mimics reality](https://dev.to/no_arms_studio/cellular-automata-that-mimics-reality-1l87)
-- [Ignacia Portfolio engine V!](https://dev.to/ignaciah/ignacia-portfolio-engine-v-2hom)
-- [Anaconda Distribution in Development](https://dev.to/kalana250/anaconda-distribution-in-development-3lk2)
-- [The inflexion point in software building is moving from coding to context engineering. Developers should upskill and learn context engineering.](https://dev.to/jaideepparashar/the-inflexion-point-in-software-building-is-moving-from-coding-to-context-engineering-developers-95k)
-- [Securing Developer Environments: Navigating Isolation Challenges with React](https://dev.to/mohammad_waseem_c31f3a26f/securing-developer-environments-navigating-isolation-challenges-with-react-1ljc)
+- [I built a civic engagement platform because contacting your representatives shouldn&#39;t be this hard](https://dev.to/ashmortar/i-built-a-civic-engagement-platform-because-contacting-your-representatives-shouldnt-be-this-hard-1jjb)
+- [Design Secure Access To AWS Resources](https://dev.to/aws-builders/design-secure-access-to-aws-resources-4l8g)
+- [Zero-Budget Strategies for Optimizing Slow Queries in React Apps](https://dev.to/mohammad_waseem_c31f3a26f/zero-budget-strategies-for-optimizing-slow-queries-in-react-apps-23l)
+- [Overcoming Geo-Blocking in Enterprise React Applications: A Senior Architect’s Approach to Testing](https://dev.to/mohammad_waseem_c31f3a26f/overcoming-geo-blocking-in-enterprise-react-applications-a-senior-architects-approach-to-testing-45eg)
+- [Streamlining Legacy Databases: API-Driven Solutions for Production Clutter](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-legacy-databases-api-driven-solutions-for-production-clutter-o8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
