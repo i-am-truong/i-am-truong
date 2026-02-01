@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Risk Systems Never Really Became Real-Time](https://dev.to/nikolay_beresnev/why-risk-systems-never-really-became-real-time-55ic)
-- [Schemas and Data Modeling in Power BI: The Complete Beginner-to-Intermediate Guide](https://dev.to/sirphilip/schemas-and-data-modeling-in-power-bi-the-complete-beginner-to-intermediate-guide-1956)
-- [CSS Selectors 101: Targeting Elements with Precision](https://dev.to/sanjeev_singh_d0e6cd59459/css-selectors-101-targeting-elements-with-precision-4ia2)
-- [🚗 Day 01: Building a Selenium Java Framework — The Blueprint](https://dev.to/utkarsh630/day-01-building-a-selenium-java-framework-the-blueprint-5fj9)
-- [I built a social platform for writers after getting rejected by tech companies and publishers](https://dev.to/israel_oladeji_80d7152d45/i-built-a-social-platform-for-writers-after-getting-rejected-by-tech-companies-and-publishers-28km)
+- [Cache Organization: How SQLite Actually Holds Pages in Memory](https://dev.to/lovestaco/cache-organization-how-sqlite-actually-holds-pages-in-memory-1fj6)
+- [Como testar a performance de queries em banco de dados usando K6.](https://dev.to/marlo2222/como-testar-a-performance-de-queries-em-banco-de-dados-usando-k6-29g1)
+- [Introducing etcdfinder - A lightning‑fast🚀, modern UI for etcd](https://dev.to/m4l1c1ou5/introducing-etcdfinder-67b)
+- [A QuantuME Portfolio ⚛️🤖](https://dev.to/aravind_d/a-quantume-portfolio-5589)
+- [How a Browser Works: The Invisible Factory Inside Your Screen](https://dev.to/pratham69/how-a-browser-works-the-invisible-factory-inside-your-screen-1okm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
