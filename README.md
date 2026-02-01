@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ReactJS ~React Server Components~](https://dev.to/kkr0423/reactjs-react-server-components-29oo)
+- [How to Clone a GitLab Repository with a Self-Signed Certificate](https://dev.to/giveitatry/how-to-clone-a-gitlab-repository-with-a-self-signed-certificate-3me9)
+- [Devlog #3 --- exchange data between Electron and React](https://dev.to/cebastion/devlog-3-exchange-data-between-electron-and-react-2639)
+- [How to Build Long-Term Memory for LLMs &lpar;RAG + FAISS Tutorial&rpar;](https://dev.to/devparihar5/how-to-build-long-term-memory-for-llms-rag-faiss-tutorial-13md)
 - [From Curious Beginner to Confident Developer: My Journey in Tech](https://dev.to/successkelechi/from-curious-beginner-to-confident-developer-my-journey-in-tech-2pnh)
-- [New Year, New You Portfolio Challenge - Pranay Gajbhiye](https://dev.to/pusparaj99op/new-year-new-you-portfolio-challenge-pranay-gajbhiye-2idl)
-- [How to create canonical URLs in Gatsby?](https://dev.to/dekigk/how-to-create-canonical-urls-in-gatsby-1nd8)
-- [Leveraging TypeScript to Bypass Gated Content in Automated Testing](https://dev.to/mohammad_waseem_c31f3a26f/leveraging-typescript-to-bypass-gated-content-in-automated-testing-26cb)
-- [React Best Practices in Cursor](https://dev.to/toshiya_matsumoto_ac94abe/react-best-practices-in-cursor-79e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
