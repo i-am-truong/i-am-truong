@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [jumia](https://dev.to/miranda1gatwiri/jumia-35jj)
-- [Bypassing Gated Content in Legacy Systems with Rust: A Senior Architect’s Approach](https://dev.to/mohammad_waseem_c31f3a26f/bypassing-gated-content-in-legacy-systems-with-rust-a-senior-architects-approach-44hb)
-- [Power BI: Schemas and Data Modelling](https://dev.to/makwaka/power-bi-schemas-and-data-modelling-2k2c)
-- [Why I Turned My Portfolio into an Operating System](https://dev.to/jevimartinez/why-i-turned-my-portfolio-into-an-operating-system-199h)
-- [Coturn Alternative: How to Migrate from Self-Hosted Coturn to a Managed TURN Service](https://dev.to/alakkadshaw/coturn-alternative-how-to-migrate-from-self-hosted-coturn-to-a-managed-turn-service-51an)
+- [Streamlining Production Databases with Agile API Development under Deadline Pressure](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-production-databases-with-agile-api-development-under-deadline-pressure-5fa0)
+- [Neuromorphic KV store in Zig](https://dev.to/brharrelldev/neuromorphic-kv-store-in-zig-4hnc)
+- [Understanding Schemas and Data modeling in Power BI](https://dev.to/geraldm/understanding-schemas-and-data-modeling-in-power-bi-1okk)
+- [New Year, New You: A Luxury iOS Dev Portfolio Powered by Antigravity](https://dev.to/aryanarayantiwari/new-year-new-you-a-luxury-ios-dev-portfolio-powered-by-antigravity-3l4m)
+- [No, AI Is Not Stealing All of Our Drinking Water](https://dev.to/mjlynch123/no-ai-is-not-stealing-all-of-our-drinking-water-3k3d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
