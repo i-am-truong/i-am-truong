@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Secret Life of a Developer’s Coffee Mug ☕💻](https://dev.to/art_light/the-secret-life-of-a-developers-coffee-mug-bgn)
-- [Building My First API Package &lpar;ARIPack&rpar;](https://dev.to/auliamei35/building-my-first-api-package-aripack-29n0)
-- [How to Build a In-Memory Cache in Go Using Generics With TTL](https://dev.to/ganesh-kumar/how-to-build-a-in-memory-cache-in-go-using-generics-with-ttl-2ob3)
-- [From zero code to a working Scouting Agent using Python, Streamlit, and JetBrains AI.](https://dev.to/aniket_mehra_21b26691abf8/from-zero-code-to-a-working-scouting-agent-using-python-streamlit-and-jetbrains-ai-20ia)
-- [reSmushit for Laravel](https://dev.to/golchha21/resmushit-for-laravel-213n)
+- [SwiftUI Isn&#39;t Slow — Your Code Is](https://dev.to/arshtechpro/swiftui-isnt-slow-your-code-is-1n10)
+- [msg-rocket: From Diff to Decision with GitHub Copilot CLI](https://dev.to/gramli/msg-rocket-from-diff-to-decision-with-github-copilot-cli-1ba8)
+- [🚀AWS Lambda S3 File Upload Logger using Python](https://dev.to/irfanpasha/aws-lambda-s3-file-upload-logger-using-python-31n4)
+- [Overcoming Geo-Blocked Features in Legacy Systems with SQL Patching Strategies](https://dev.to/mohammad_waseem_c31f3a26f/overcoming-geo-blocked-features-in-legacy-systems-with-sql-patching-strategies-i8j)
+- [Schemas and Data Modeling in Power Bi](https://dev.to/josepho_okwemba_a02e2378a/schemas-and-data-modeling-in-power-bi-4ckh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
