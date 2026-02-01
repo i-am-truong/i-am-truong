@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Stop using JWT libraries: How to build your own Lightweight Tokens with node:crypto](https://dev.to/itsmefminsaf/stop-using-jwt-libraries-how-to-build-your-own-lightweight-tokens-with-nodecrypto-1dk3)
 - [Generative Simulation Benchmarking for coastal climate resilience planning under real-time policy constraints](https://dev.to/rikinptl/generative-simulation-benchmarking-for-coastal-climate-resilience-planning-under-real-time-policy-4jc9)
 - [Is Elixir’s Observability Ready for Production? A Guide for Skeptical Engineers](https://dev.to/arctarus/is-elixirs-observability-ready-for-production-a-guide-for-skeptical-engineers-2hj2)
 - [Train Your Own Z-Image Turbo LoRA on cloud GPUs](https://dev.to/ishaangupta1201/train-your-own-z-image-turbo-lora-on-cloud-gpus-247n)
 - [I Built an Open-Source CLI AI Coding Assistant in Go &lpar;and it costs $3/month&rpar;](https://dev.to/sungat_arynov_cda583888da/i-built-an-open-source-cli-ai-coding-assistant-in-go-and-it-costs-3month-4pma)
-- [NVIDIA GPU Monitoring with DCGM Exporter and OpenObserve: Complete Setup Guide](https://dev.to/manas_sharma/nvidia-gpu-monitoring-with-dcgm-exporter-and-openobserve-complete-setup-guide-34k6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
