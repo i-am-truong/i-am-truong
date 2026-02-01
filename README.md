@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ReactJS ~React Server Components~](https://dev.to/kkr0423/reactjs-react-server-components-29oo)
-- [How to Clone a GitLab Repository with a Self-Signed Certificate](https://dev.to/giveitatry/how-to-clone-a-gitlab-repository-with-a-self-signed-certificate-3me9)
-- [Devlog #3 --- exchange data between Electron and React](https://dev.to/cebastion/devlog-3-exchange-data-between-electron-and-react-2639)
-- [How to Build Long-Term Memory for LLMs &lpar;RAG + FAISS Tutorial&rpar;](https://dev.to/devparihar5/how-to-build-long-term-memory-for-llms-rag-faiss-tutorial-13md)
-- [From Curious Beginner to Confident Developer: My Journey in Tech](https://dev.to/successkelechi/from-curious-beginner-to-confident-developer-my-journey-in-tech-2pnh)
+- [Generative Simulation Benchmarking for coastal climate resilience planning under real-time policy constraints](https://dev.to/rikinptl/generative-simulation-benchmarking-for-coastal-climate-resilience-planning-under-real-time-policy-4jc9)
+- [Is Elixir’s Observability Ready for Production? A Guide for Skeptical Engineers](https://dev.to/arctarus/is-elixirs-observability-ready-for-production-a-guide-for-skeptical-engineers-2hj2)
+- [Train Your Own Z-Image Turbo LoRA on cloud GPUs](https://dev.to/ishaangupta1201/train-your-own-z-image-turbo-lora-on-cloud-gpus-247n)
+- [I Built an Open-Source CLI AI Coding Assistant in Go &lpar;and it costs $3/month&rpar;](https://dev.to/sungat_arynov_cda583888da/i-built-an-open-source-cli-ai-coding-assistant-in-go-and-it-costs-3month-4pma)
+- [NVIDIA GPU Monitoring with DCGM Exporter and OpenObserve: Complete Setup Guide](https://dev.to/manas_sharma/nvidia-gpu-monitoring-with-dcgm-exporter-and-openobserve-complete-setup-guide-34k6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
