@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ace Your JS Interview: How to Implement a Polyfill for the some&lpar;&rpar; Method](https://dev.to/imranmind/ace-your-js-interview-how-to-implement-a-polyfill-for-the-some-method-4hcm)
+- [Streamlining Isolated Dev Environments with Kubernetes Under Tight Deadlines](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-isolated-dev-environments-with-kubernetes-under-tight-deadlines-3pe4)
+- [Each Dev Should Know Basic About VI Editor](https://dev.to/nra/each-dev-should-know-basic-about-vi-editor-1854)
 - [Desenvolver aplicações de AI com o melhor prompt e contexto.](https://dev.to/airton_lirajunior_2ddebd/desenvolver-aplicacoes-de-ai-com-o-melhor-prompt-e-contexto-334a)
-- [CSS Selectors 101: Targeting Elements with Precision](https://dev.to/ritam369/css-selectors-101-targeting-elements-with-precision-4i50)
-- [Leveraging Python to Bypass Gated Content During High-Traffic Events](https://dev.to/mohammad_waseem_c31f3a26f/leveraging-python-to-bypass-gated-content-during-high-traffic-events-2m9h)
-- [I Built QualityHub: AI-Powered Quality Intelligence for Your Releases](https://dev.to/younes_bentlili_9480340f/i-built-qualityhub-ai-powered-quality-intelligence-for-your-releases-40d3)
-- [One Portfolio, Infinite Versions: The Power of Agentic Personalization](https://dev.to/vishwajeet_singh_be18eefb/one-portfolio-infinite-versions-the-power-of-agentic-personalization-5gg0)
+- [Schemas and Data Modelling in Power B.I](https://dev.to/maureen_waithaka/schemas-and-data-modelling-in-power-bi-1g3i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
