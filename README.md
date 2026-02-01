@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ChemBERTa: Large-Scale Self-Supervised Pretraining for Molecular PropertyPrediction](https://dev.to/paperium/chemberta-large-scale-self-supervised-pretraining-for-molecular-propertyprediction-2f2n)
-- [SQL Stored Procedures: From Hard‑Coded Logic to Reusable SQL](https://dev.to/mazinocodes/sql-stored-procedures-from-hard-coded-logic-to-reusable-sql-mn5)
-- [Elysia in 100 Seconds](https://dev.to/fabianfrankwerner/elysia-in-100-seconds-2a8k)
-- [One‑Line Magic: Using Claude Code Through Ollama](https://dev.to/0xkoji/one-line-magic-using-claude-code-through-ollama-1g48)
-- [Argo CD &quot;App of Apps&quot; on EKS](https://dev.to/aws-builders/argo-cd-app-of-apps-on-eks-bcc)
+- [Streamlining Test Account Management in Rust: A Lead QA Engineer’s Approach Without Documentation](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-test-account-management-in-rust-a-lead-qa-engineers-approach-without-documentation-487m)
+- [Rachel Wang&#39;s Portfolio - Built with Gemini &amp; Cloud Run](https://dev.to/rachel_wang_ccd6554f7e6e6/rachel-wangs-portfolio-built-with-gemini-cloud-run-442m)
+- [Securing Test Environments: Eliminating PII Leaks in React with Open Source Tools](https://dev.to/mohammad_waseem_c31f3a26f/securing-test-environments-eliminating-pii-leaks-in-react-with-open-source-tools-3ioo)
+- [Overcoming Geo-Blocked Features: A Senior Architect&#39;s Strategy for Rapid QA Testing](https://dev.to/mohammad_waseem_c31f3a26f/overcoming-geo-blocked-features-a-senior-architects-strategy-for-rapid-qa-testing-41kn)
+- [Securing Test Environments: Preventing PII Leaks in React-Based Microservices](https://dev.to/mohammad_waseem_c31f3a26f/securing-test-environments-preventing-pii-leaks-in-react-based-microservices-5cji)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
