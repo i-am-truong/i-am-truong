@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cache Organization: How SQLite Actually Holds Pages in Memory](https://dev.to/lovestaco/cache-organization-how-sqlite-actually-holds-pages-in-memory-1fj6)
-- [Como testar a performance de queries em banco de dados usando K6.](https://dev.to/marlo2222/como-testar-a-performance-de-queries-em-banco-de-dados-usando-k6-29g1)
-- [Introducing etcdfinder - A lightning‑fast🚀, modern UI for etcd](https://dev.to/m4l1c1ou5/introducing-etcdfinder-67b)
-- [A QuantuME Portfolio ⚛️🤖](https://dev.to/aravind_d/a-quantume-portfolio-5589)
-- [How a Browser Works: The Invisible Factory Inside Your Screen](https://dev.to/pratham69/how-a-browser-works-the-invisible-factory-inside-your-screen-1okm)
+- [Complete Java Tutorial: From Zero to Building Real Applications](https://dev.to/deividas-strole/complete-java-tutorial-from-zero-to-building-real-applications-5o0)
+- [Executability Is the Real Safety Boundary](https://dev.to/thatechmaestro/executability-is-the-real-safety-boundary-18bh)
+- [CSS Art: Cat on the Moon](https://dev.to/alvaromontoro/css-art-cat-on-the-moon-595p)
+- [Twitter Sentiment Analysis: Lexicon Method, Machine Learning Method and TheirCombination](https://dev.to/paperium/twitter-sentiment-analysis-lexicon-method-machine-learning-method-and-theircombination-cnd)
+- [Streamlining Geo-Blocked Feature Testing with Docker During Peak Traffic](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-geo-blocked-feature-testing-with-docker-during-peak-traffic-7kl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
