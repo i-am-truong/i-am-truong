@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Transactions in Spring Boot: What `@Transactional` Really Does &lpar;and Why It Matters&rpar;](https://dev.to/gianfcop98/transactions-in-spring-boot-what-transactional-really-does-and-why-it-matters-56a6)
 - [App Center alternatives for mobile beta distribution in 2026](https://dev.to/r0bbie/app-center-alternatives-for-mobile-beta-distribution-in-2026-565)
 - [Securing Test Environments: Mitigating PII Leakage Through API-Driven Data Masking](https://dev.to/mohammad_waseem_c31f3a26f/securing-test-environments-mitigating-pii-leakage-through-api-driven-data-masking-38c2)
 - [My Portfolio Challenge 2026](https://dev.to/devyalan/my-portfolio-challenge-2026-3hii)
 - [Automating React App deployments to AWS with GitHub Actions and OIDC](https://dev.to/franciscogsilverio/automating-react-app-deployments-to-aws-with-github-actions-and-oidc-3487)
-- [Mastering Spam Trap Avoidance in React Without Spending a Dime](https://dev.to/mohammad_waseem_c31f3a26f/mastering-spam-trap-avoidance-in-react-without-spending-a-dime-31em)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
