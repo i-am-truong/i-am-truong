@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Fan-Out in Social Media Feeds](https://dev.to/nikhiilraj/fan-out-in-social-media-feeds-2fji)
-- [Mastering Your AI Assistant: Why a Simple &quot;Skill&quot; Beats a Complex System Every Time](https://dev.to/maximiliano_allende97/mastering-your-ai-assistant-why-a-simple-skill-beats-a-complex-system-every-time-3a1f)
-- [Leveraging Web Scraping in Microservices for Spam Trap Avoidance](https://dev.to/mohammad_waseem_c31f3a26f/leveraging-web-scraping-in-microservices-for-spam-trap-avoidance-533f)
-- [XMovieHub: Designing a Structured Video Platform for Better Discovery](https://dev.to/xmoviehub/xmoviehub-designing-a-structured-video-platform-for-better-discovery-n1m)
-- [Ace Your JS Interview: How to Implement a Polyfill for the some&lpar;&rpar; Method](https://dev.to/imranmind/ace-your-js-interview-how-to-implement-a-polyfill-for-the-some-method-4hcm)
+- [Java Virtual Threads — Quick Guide](https://dev.to/ankitdevcode/java-virtual-threads-quick-guide-1jca)
+- [The Pitfalls of Test Coverage: Introducing Mutation Testing with Stryker and Cosmic Ray](https://dev.to/wintrover/the-pitfalls-of-test-coverage-introducing-mutation-testing-with-stryker-and-cosmic-ray-1kcg)
+- [Deep dive into how Bifrost’s MCP Gateway and Code Mode enable scalable, production-grade LLM systems 🔥, reducing token costs, improving determinism, and making MCP-based AI workflows predictable, debuggable, and ready for real-world infrastructure.](https://dev.to/hadil/deep-dive-into-how-bifrosts-mcp-gateway-and-code-mode-enable-scalable-production-grade-llm-4jp2)
+- [Data Modelling and Schemas in Power BI](https://dev.to/faith_neno_ab7523752f338a/data-modelling-and-schemas-in-power-bi-4hgk)
+- [The Algorithm Will See You Now](https://dev.to/rawveg/the-algorithm-will-see-you-now-45g2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
