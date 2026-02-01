@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [5 Things Every Beginner Should Know Before Starting Manual Testing](https://dev.to/ijsathi/5-things-every-beginner-should-know-before-starting-manual-testing-108p)
-- [Why Your AI Agent Needs to Hire Other Agents](https://dev.to/pinchwork_b98640844b93a3f/why-your-ai-agent-needs-to-hire-other-agents-1dg2)
-- [Stardust: The dashboard that transforms GitHub trends from &quot;search&quot; to &quot;monitoring&quot;](https://dev.to/kanywst/stardust-the-dashboard-that-transforms-github-trends-from-search-to-monitoring-5732)
-- [SCHEMAS AND MODELLING IN POWER BI.](https://dev.to/maggy_njuguna/schemas-and-modelling-in-power-bi-5c3)
-- [I Eliminated SQLite Race Conditions in a Multi-Threaded Python App 🚀](https://dev.to/rolan_r_n_r/i-eliminated-sqlite-race-conditions-in-a-multi-threaded-python-app-4eod)
+- [Understanding mTLS in Cloud Environments: A Complete Guide](https://dev.to/piyushjajoo/understanding-mtls-in-cloud-environments-a-complete-guide-3mdn)
+- [Is ByteByteGo a Good Place for System Design Interview Prep in 2026?](https://dev.to/somadevtoo/is-bytebytego-a-good-place-for-system-design-interview-prep-in-2026-9fo)
+- [NeuronDB Vector vs pgvector: Technical Comparison](https://dev.to/neurondb_support_d73fa7ba/neurondb-vector-vs-pgvector-technical-comparison-4mmh)
+- [Autopilot - Ctrl: AI Content Auditing with GitHub Copilot CLI](https://dev.to/datalaria/autopilot-ctrl-ai-content-auditing-with-github-copilot-cli-gbc)
+- [Why Memory Compatibility &lpar;QVL&rpar; Matters on Modern DDR5 Systems](https://dev.to/bios-doctor/why-memory-compatibility-qvl-matters-on-modern-ddr5-systems-2689)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
