@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Should Junior Developers Still Learn JavaScript the Hard Way?](https://dev.to/art_light/should-junior-developers-still-learn-javascript-the-hard-way-4j0l)
-- [From Zero to AI: How I Built an Interactive Portfolio with Google Antigravity &amp; Gemini &lpar;Zero Investment Challenge&rpar;](https://dev.to/keerthana_696356/from-zero-to-ai-how-i-built-an-interactive-portfolio-with-google-antigravity-gemini-zero-1l2)
-- [Scaling Legacy Systems: Strategies for Massive Load Testing on Linux](https://dev.to/mohammad_waseem_c31f3a26f/scaling-legacy-systems-strategies-for-massive-load-testing-on-linux-19m1)
-- [Help Wanted: Kernel Developers Needed to Build AI-Native Boot Infrastructure](https://dev.to/hejhdiss/help-wanted-kernel-developers-needed-to-build-ai-native-boot-infrastructure-297o)
-- [CDK - Using Central Register Pattern for Resource Sharing](https://dev.to/tyckofranklin/cdk-using-central-register-pattern-for-resource-sharing-27k2)
+- [From Curious Beginner to Confident Developer: My Journey in Tech](https://dev.to/successkelechi/from-curious-beginner-to-confident-developer-my-journey-in-tech-2pnh)
+- [New Year, New You Portfolio Challenge - Pranay Gajbhiye](https://dev.to/pusparaj99op/new-year-new-you-portfolio-challenge-pranay-gajbhiye-2idl)
+- [How to create canonical URLs in Gatsby?](https://dev.to/dekigk/how-to-create-canonical-urls-in-gatsby-1nd8)
+- [Leveraging TypeScript to Bypass Gated Content in Automated Testing](https://dev.to/mohammad_waseem_c31f3a26f/leveraging-typescript-to-bypass-gated-content-in-automated-testing-26cb)
+- [React Best Practices in Cursor](https://dev.to/toshiya_matsumoto_ac94abe/react-best-practices-in-cursor-79e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
