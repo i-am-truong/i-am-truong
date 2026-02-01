@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Revisiting My esbuild Configuration: Lessons Learned from Snowflake and Prisma](https://dev.to/htuohz/revisiting-my-esbuild-configuration-lessons-learned-from-snowflake-and-prisma-40df)
-- [A Three-Layer Boot Architecture for AI-Native Systems](https://dev.to/hejhdiss/a-three-layer-boot-architecture-for-ai-native-systems-1cbl)
-- [AI can write code, but can you catch its mistakes?](https://dev.to/httpsabhis/ai-can-write-code-but-can-you-catch-its-mistakes-4hb)
-- [Breaking Through IP Bans in Web Scraping with Kubernetes: A DevOps Approach Under Tight Deadlines](https://dev.to/mohammad_waseem_c31f3a26f/breaking-through-ip-bans-in-web-scraping-with-kubernetes-a-devops-approach-under-tight-deadlines-32n7)
-- [Implementing Login in a Next.js App with Passport, JWT, and DDD](https://dev.to/digitalrisedorset/implementing-login-in-a-nextjs-app-with-passport-jwt-and-ddd-2loe)
+- [🔥I Built an Awwwards-Style Portfolio Using Antigravity🌀](https://dev.to/dev_kiran/i-built-an-awwwards-style-portfolio-using-antigravity-49lk)
+- [LinkedIn as Microsoft Infrastructure](https://dev.to/ben-santora/linkedin-microsoft-infrastructure-45aa)
+- [Runtime Code Sensors: Observing Real Application Behavior in Production](https://dev.to/alifar/runtime-code-sensors-observing-real-application-behavior-in-production-3l49)
+- [The Evolution of C# and TypeScript: Insights from Anders Hejlsberg](https://dev.to/dd8888/the-evolution-of-c-and-typescript-insights-from-anders-hejlsberg-c5p)
+- [Stop Writing CRUD Boilerplate: Introducing Django Ninja AIO CRUD](https://dev.to/caspel26/stop-writing-crud-boilerplate-introducing-django-ninja-aio-crud-1p8p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
