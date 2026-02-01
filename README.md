@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Auracrab 🦀 daemon](https://dev.to/nathfavour/auracrab-daemon-f36)
-- [KU HACKFEST 2025 Experience](https://dev.to/prajwal_up/ku-hackfest-2025-experience-3n9n)
-- [Building a Real-Time Arabic Chat Platform: Technical Challenges and Solutions](https://dev.to/m_aryan_d2012176e8527826/building-a-real-time-arabic-chat-platform-technical-challenges-and-solutions-2o07)
-- [How Is This “Static” Website Doing P2P Chat, Rooms, and Video Calls?](https://dev.to/ranikumari889/how-is-this-static-website-doing-p2p-chat-rooms-and-video-calls-22mf)
-- [[Boost]](https://dev.to/anthonymax/-2b07)
+- [The Orchestrator&#39;s Workflow: How to Actually Work with AI Agents](https://dev.to/dexmac221/the-orchestrators-workflow-how-to-actually-work-with-ai-agents-2akk)
+- [Streamlining Authentication Flows with Docker and Open Source Tools in DevOps](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-authentication-flows-with-docker-and-open-source-tools-in-devops-4o2g)
+- [I Built First, Validated Later — Here’s What I’d Do Differently Now](https://dev.to/shaurya_singh_27b622a46f3/i-built-first-validated-later-heres-what-id-do-differently-now-4972)
+- [AltSchool Of Engineering Tinyuka’24 Month 12 Week 2](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-12-week-2-2id7)
+- [Backend Without HTTP: How Would the Web Work?](https://dev.to/rohit_giri/backend-without-http-how-would-the-web-work-e26)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
