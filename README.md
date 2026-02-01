@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Rapid Development of Phishing Pattern Detection with TypeScript under Tight Deadlines](https://dev.to/mohammad_waseem_c31f3a26f/rapid-development-of-phishing-pattern-detection-with-typescript-under-tight-deadlines-1b1g)
-- [#Schemas and Data Modelling in Power BI](https://dev.to/victak36lgtm/schemas-and-data-modelling-in-power-bi-1ad9)
-- [Algorithmes combinatoires pour résoudre des problèmes réels : Guide pratique](https://dev.to/asma_saci_86c92f536762808/algorithmes-combinatoires-pour-resoudre-des-problemes-reels-guide-pratique-1gfn)
-- [vLLM — Session 2: The Engine Layer — Request Management](https://dev.to/c2sea/vllm-session-2-the-engine-layer-request-management-4dg2)
-- [Session 1: vLLM Overview and the User API](https://dev.to/c2sea/session-1-vllm-overview-and-the-user-api-2406)
+- [Streamlining Email Flow Validation in Enterprise Systems with Go](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-email-flow-validation-in-enterprise-systems-with-go-4clh)
+- [Leveraging Web Scraping Techniques to Handle Massive Load Testing Under Tight Deadlines](https://dev.to/mohammad_waseem_c31f3a26f/leveraging-web-scraping-techniques-to-handle-massive-load-testing-under-tight-deadlines-4p2h)
+- [Uncovering and Optimizing Slow Database Queries Through QA Testing Without Documentation](https://dev.to/mohammad_waseem_c31f3a26f/uncovering-and-optimizing-slow-database-queries-through-qa-testing-without-documentation-33hi)
+- [As melhores pessoas precisam saber que você existe](https://dev.to/matheusmorett2/as-melhores-pessoas-precisam-saber-que-voce-existe-1njd)
+- [How to Set Your Freelance Rates for the First Time](https://dev.to/fairpricework/how-to-set-your-freelance-rates-for-the-first-time-2lm9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
