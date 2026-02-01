@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How Real-Time Messaging Apps Actually Work and Handle massive amount of data](https://dev.to/thepujon/how-real-time-messaging-apps-actually-work-and-handle-massive-amount-of-data-3p9j)
+- [The Quiet Skill That Separates Good Developers from Great Ones](https://dev.to/guswoltmann84/the-quiet-skill-that-separates-good-developers-from-great-ones-3glo)
+- [Do We Even Need Backend Developers Anymore?](https://dev.to/art_light/do-we-even-need-backend-developers-anymore-15pg)
+- [From Failing Tests to Fix PRs in One Command &lpar;GitHub Copilot CLI Challenge&rpar;](https://dev.to/keerthana_696356/from-failing-tests-to-fix-prs-in-one-command-github-copilot-cli-challenge-3bfb)
 - [Tackling Memory Leaks in High-Traffic JavaScript Applications: A DevOps Approach](https://dev.to/mohammad_waseem_c31f3a26f/tackling-memory-leaks-in-high-traffic-javascript-applications-a-devops-approach-3ikk)
-- [Retrieval Augmented Generation: Architectures, Patterns, and Production Reality](https://dev.to/neurondb_support_d73fa7ba/retrieval-augmented-generation-architectures-patterns-and-production-reality-49g1)
-- [LeafWiki Devlog #8: v0.7.3 - Secure by Default: Authentication, Roles &amp; Safer Self-Hosting](https://dev.to/perber/leafwiki-devlog-8-v073-secure-by-default-authentication-roles-safer-self-hosting-154e)
-- [Perl Weekly Challenge - 358: When Strings Become Numbers and Letters Start Shifting](https://dev.to/vinodk89/perl-weekly-challenge-358-when-strings-become-numbers-and-letters-start-shifting-j84)
-- [Making Sense of Bipartite Graphs](https://dev.to/rajib18197/making-sense-of-bipartite-graphs-5bok)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
