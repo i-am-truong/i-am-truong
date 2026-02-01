@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Orchestrator&#39;s Workflow: How to Actually Work with AI Agents](https://dev.to/dexmac221/the-orchestrators-workflow-how-to-actually-work-with-ai-agents-2akk)
-- [Streamlining Authentication Flows with Docker and Open Source Tools in DevOps](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-authentication-flows-with-docker-and-open-source-tools-in-devops-4o2g)
-- [I Built First, Validated Later — Here’s What I’d Do Differently Now](https://dev.to/shaurya_singh_27b622a46f3/i-built-first-validated-later-heres-what-id-do-differently-now-4972)
-- [AltSchool Of Engineering Tinyuka’24 Month 12 Week 2](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-12-week-2-2id7)
-- [Backend Without HTTP: How Would the Web Work?](https://dev.to/rohit_giri/backend-without-http-how-would-the-web-work-e26)
+- [Should Junior Developers Still Learn JavaScript the Hard Way?](https://dev.to/art_light/should-junior-developers-still-learn-javascript-the-hard-way-4j0l)
+- [From Zero to AI: How I Built an Interactive Portfolio with Google Antigravity &amp; Gemini &lpar;Zero Investment Challenge&rpar;](https://dev.to/keerthana_696356/from-zero-to-ai-how-i-built-an-interactive-portfolio-with-google-antigravity-gemini-zero-1l2)
+- [Scaling Legacy Systems: Strategies for Massive Load Testing on Linux](https://dev.to/mohammad_waseem_c31f3a26f/scaling-legacy-systems-strategies-for-massive-load-testing-on-linux-19m1)
+- [Help Wanted: Kernel Developers Needed to Build AI-Native Boot Infrastructure](https://dev.to/hejhdiss/help-wanted-kernel-developers-needed-to-build-ai-native-boot-infrastructure-297o)
+- [CDK - Using Central Register Pattern for Resource Sharing](https://dev.to/tyckofranklin/cdk-using-central-register-pattern-for-resource-sharing-27k2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
