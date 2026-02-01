@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a civic engagement platform because contacting your representatives shouldn&#39;t be this hard](https://dev.to/ashmortar/i-built-a-civic-engagement-platform-because-contacting-your-representatives-shouldnt-be-this-hard-1jjb)
-- [Design Secure Access To AWS Resources](https://dev.to/aws-builders/design-secure-access-to-aws-resources-4l8g)
-- [Zero-Budget Strategies for Optimizing Slow Queries in React Apps](https://dev.to/mohammad_waseem_c31f3a26f/zero-budget-strategies-for-optimizing-slow-queries-in-react-apps-23l)
-- [Overcoming Geo-Blocking in Enterprise React Applications: A Senior Architect’s Approach to Testing](https://dev.to/mohammad_waseem_c31f3a26f/overcoming-geo-blocking-in-enterprise-react-applications-a-senior-architects-approach-to-testing-45eg)
-- [Streamlining Legacy Databases: API-Driven Solutions for Production Clutter](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-legacy-databases-api-driven-solutions-for-production-clutter-o8)
+- [Auracrab 🦀 daemon](https://dev.to/nathfavour/auracrab-daemon-f36)
+- [KU HACKFEST 2025 Experience](https://dev.to/prajwal_up/ku-hackfest-2025-experience-3n9n)
+- [Building a Real-Time Arabic Chat Platform: Technical Challenges and Solutions](https://dev.to/m_aryan_d2012176e8527826/building-a-real-time-arabic-chat-platform-technical-challenges-and-solutions-2o07)
+- [How Is This “Static” Website Doing P2P Chat, Rooms, and Video Calls?](https://dev.to/ranikumari889/how-is-this-static-website-doing-p2p-chat-rooms-and-video-calls-22mf)
+- [[Boost]](https://dev.to/anthonymax/-2b07)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
