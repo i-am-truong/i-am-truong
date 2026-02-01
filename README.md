@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Risk Systems Never Really Became Real-Time](https://dev.to/nikolay_beresnev/why-risk-systems-never-really-became-real-time-55ic)
+- [Schemas and Data Modeling in Power BI: The Complete Beginner-to-Intermediate Guide](https://dev.to/sirphilip/schemas-and-data-modeling-in-power-bi-the-complete-beginner-to-intermediate-guide-1956)
+- [CSS Selectors 101: Targeting Elements with Precision](https://dev.to/sanjeev_singh_d0e6cd59459/css-selectors-101-targeting-elements-with-precision-4ia2)
+- [🚗 Day 01: Building a Selenium Java Framework — The Blueprint](https://dev.to/utkarsh630/day-01-building-a-selenium-java-framework-the-blueprint-5fj9)
 - [I built a social platform for writers after getting rejected by tech companies and publishers](https://dev.to/israel_oladeji_80d7152d45/i-built-a-social-platform-for-writers-after-getting-rejected-by-tech-companies-and-publishers-28km)
-- [Mapping the Agent Internet: Where AI Agents Live in 2026](https://dev.to/colonistone/mapping-the-agent-internet-where-ai-agents-live-in-2026-2npa)
-- [Guide: Update NVM firmware on Intel i226 and Intel i225 Ethernet controllers](https://dev.to/hunghvu/guide-update-nvm-firmware-on-intel-i226-and-intel-i225-ethernet-controllers-o2m)
-- [OS Updates on the Corporate Linux Desktop](https://dev.to/sebos/os-updates-on-the-corporate-linux-desktop-1gca)
-- [Why I Switched to Mullvad VPN: The Open Source VPN 🔒](https://dev.to/dvalin99/why-i-switched-to-mullvad-vpn-the-open-source-vpn-4f1e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
