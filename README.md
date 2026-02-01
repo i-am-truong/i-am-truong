@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SwiftUI Isn&#39;t Slow — Your Code Is](https://dev.to/arshtechpro/swiftui-isnt-slow-your-code-is-1n10)
-- [msg-rocket: From Diff to Decision with GitHub Copilot CLI](https://dev.to/gramli/msg-rocket-from-diff-to-decision-with-github-copilot-cli-1ba8)
-- [🚀AWS Lambda S3 File Upload Logger using Python](https://dev.to/irfanpasha/aws-lambda-s3-file-upload-logger-using-python-31n4)
-- [Overcoming Geo-Blocked Features in Legacy Systems with SQL Patching Strategies](https://dev.to/mohammad_waseem_c31f3a26f/overcoming-geo-blocked-features-in-legacy-systems-with-sql-patching-strategies-i8j)
-- [Schemas and Data Modeling in Power Bi](https://dev.to/josepho_okwemba_a02e2378a/schemas-and-data-modeling-in-power-bi-4ckh)
+- [I built a social platform for writers after getting rejected by tech companies and publishers](https://dev.to/israel_oladeji_80d7152d45/i-built-a-social-platform-for-writers-after-getting-rejected-by-tech-companies-and-publishers-28km)
+- [Mapping the Agent Internet: Where AI Agents Live in 2026](https://dev.to/colonistone/mapping-the-agent-internet-where-ai-agents-live-in-2026-2npa)
+- [Guide: Update NVM firmware on Intel i226 and Intel i225 Ethernet controllers](https://dev.to/hunghvu/guide-update-nvm-firmware-on-intel-i226-and-intel-i225-ethernet-controllers-o2m)
+- [OS Updates on the Corporate Linux Desktop](https://dev.to/sebos/os-updates-on-the-corporate-linux-desktop-1gca)
+- [Why I Switched to Mullvad VPN: The Open Source VPN 🔒](https://dev.to/dvalin99/why-i-switched-to-mullvad-vpn-the-open-source-vpn-4f1e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
