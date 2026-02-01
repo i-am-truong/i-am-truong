@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Streamlining Production Databases with Agile API Development under Deadline Pressure](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-production-databases-with-agile-api-development-under-deadline-pressure-5fa0)
-- [Neuromorphic KV store in Zig](https://dev.to/brharrelldev/neuromorphic-kv-store-in-zig-4hnc)
-- [Understanding Schemas and Data modeling in Power BI](https://dev.to/geraldm/understanding-schemas-and-data-modeling-in-power-bi-1okk)
-- [New Year, New You: A Luxury iOS Dev Portfolio Powered by Antigravity](https://dev.to/aryanarayantiwari/new-year-new-you-a-luxury-ios-dev-portfolio-powered-by-antigravity-3l4m)
-- [No, AI Is Not Stealing All of Our Drinking Water](https://dev.to/mjlynch123/no-ai-is-not-stealing-all-of-our-drinking-water-3k3d)
+- [How I Built an AI Esports Coach with Python, GRID, and Gemini &lpar;Hackathon Journey&rpar;](https://dev.to/vero-code/how-i-built-an-ai-esports-coach-with-python-grid-and-gemini-hackathon-journey-3nk1)
+- [Intercepting Social Media Video Streams: A 40-Line Console Script](https://dev.to/vedran_o/intercepting-social-media-video-streams-a-40-line-console-script-3c7)
+- [Leveraging Go for Detecting and Avoiding Spam Traps During High Traffic Campaigns](https://dev.to/mohammad_waseem_c31f3a26f/leveraging-go-for-detecting-and-avoiding-spam-traps-during-high-traffic-campaigns-3bi5)
+- [Tool-Studio: Built from Everyday Problems](https://dev.to/rashid_aziz_642940c73e892/tool-studio-built-from-everyday-problems-bed)
+- [Decoding API Complexity: A Technical Deep Dive into Full-Spectrum Specification Intelligence](https://dev.to/ayoub_hadef_bb5f0716342a8/decoding-api-complexity-a-technical-deep-dive-into-full-spectrum-specification-intelligence-111g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
