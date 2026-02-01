@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Fan-Out in Social Media Feeds](https://dev.to/nikhiilraj/fan-out-in-social-media-feeds-2fji)
+- [Mastering Your AI Assistant: Why a Simple &quot;Skill&quot; Beats a Complex System Every Time](https://dev.to/maximiliano_allende97/mastering-your-ai-assistant-why-a-simple-skill-beats-a-complex-system-every-time-3a1f)
+- [Leveraging Web Scraping in Microservices for Spam Trap Avoidance](https://dev.to/mohammad_waseem_c31f3a26f/leveraging-web-scraping-in-microservices-for-spam-trap-avoidance-533f)
+- [XMovieHub: Designing a Structured Video Platform for Better Discovery](https://dev.to/xmoviehub/xmoviehub-designing-a-structured-video-platform-for-better-discovery-n1m)
 - [Ace Your JS Interview: How to Implement a Polyfill for the some&lpar;&rpar; Method](https://dev.to/imranmind/ace-your-js-interview-how-to-implement-a-polyfill-for-the-some-method-4hcm)
-- [Streamlining Isolated Dev Environments with Kubernetes Under Tight Deadlines](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-isolated-dev-environments-with-kubernetes-under-tight-deadlines-3pe4)
-- [Each Dev Should Know Basic About VI Editor](https://dev.to/nra/each-dev-should-know-basic-about-vi-editor-1854)
-- [Desenvolver aplicações de AI com o melhor prompt e contexto.](https://dev.to/airton_lirajunior_2ddebd/desenvolver-aplicacoes-de-ai-com-o-melhor-prompt-e-contexto-334a)
-- [Schemas and Data Modelling in Power B.I](https://dev.to/maureen_waithaka/schemas-and-data-modelling-in-power-bi-1g3i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
