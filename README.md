@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Transactions in Spring Boot: What `@Transactional` Really Does &lpar;and Why It Matters&rpar;](https://dev.to/gianfcop98/transactions-in-spring-boot-what-transactional-really-does-and-why-it-matters-56a6)
-- [App Center alternatives for mobile beta distribution in 2026](https://dev.to/r0bbie/app-center-alternatives-for-mobile-beta-distribution-in-2026-565)
-- [Securing Test Environments: Mitigating PII Leakage Through API-Driven Data Masking](https://dev.to/mohammad_waseem_c31f3a26f/securing-test-environments-mitigating-pii-leakage-through-api-driven-data-masking-38c2)
-- [My Portfolio Challenge 2026](https://dev.to/devyalan/my-portfolio-challenge-2026-3hii)
-- [Automating React App deployments to AWS with GitHub Actions and OIDC](https://dev.to/franciscogsilverio/automating-react-app-deployments-to-aws-with-github-actions-and-oidc-3487)
+- [Rapid Development of Phishing Pattern Detection with TypeScript under Tight Deadlines](https://dev.to/mohammad_waseem_c31f3a26f/rapid-development-of-phishing-pattern-detection-with-typescript-under-tight-deadlines-1b1g)
+- [#Schemas and Data Modelling in Power BI](https://dev.to/victak36lgtm/schemas-and-data-modelling-in-power-bi-1ad9)
+- [Algorithmes combinatoires pour résoudre des problèmes réels : Guide pratique](https://dev.to/asma_saci_86c92f536762808/algorithmes-combinatoires-pour-resoudre-des-problemes-reels-guide-pratique-1gfn)
+- [vLLM — Session 2: The Engine Layer — Request Management](https://dev.to/c2sea/vllm-session-2-the-engine-layer-request-management-4dg2)
+- [Session 1: vLLM Overview and the User API](https://dev.to/c2sea/session-1-vllm-overview-and-the-user-api-2406)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
