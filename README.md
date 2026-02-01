@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop-on-Non-JSON: The Safety Pattern That Makes Autonomous Agents Trustworthy](https://dev.to/angelablue/stop-on-non-json-the-safety-pattern-that-makes-autonomous-agents-trustworthy-lm6)
-- [34.Copy Data to S3 Using Terraform](https://dev.to/thukhakyawe_cloud/34copy-data-to-s3-using-terraform-2g5j)
-- [Overcoming Geo-Blocked Features in TypeScript: A Senior Architect’s Approach](https://dev.to/mohammad_waseem_c31f3a26f/overcoming-geo-blocked-features-in-typescript-a-senior-architects-approach-5ajh)
-- [Run OpenClaw/Clawdbot for FREE with Lynkr &lpar;No API Bills&rpar;](https://dev.to/vishal_veerareddy_9cdd17d/run-openclawclawdbot-for-free-with-lynkr-no-api-bills-3kg2)
-- [DenunzIA: E2EE Anonymous Reporting Platform &lpar;Looking for Security Audit/Feedback&rpar;](https://dev.to/denuncia_siie/denunzia-e2ee-anonymous-reporting-platform-looking-for-security-auditfeedback-55eg)
+- [Engineering Management Nugget #6: From Firefighting to Architecting](https://dev.to/lek890/engineering-management-nugget-6-from-firefighting-to-architecting-2pme)
+- [Rapid Detection of Phishing Patterns with React: A Developer’s Quest Under Deadlines](https://dev.to/mohammad_waseem_c31f3a26f/rapid-detection-of-phishing-patterns-with-react-a-developers-quest-under-deadlines-32i8)
+- [Fix CORS, SQL Injection &amp; MySQL Pooling in React + Node.js](https://dev.to/vasughanta09/fix-cors-sql-injection-mysql-pooling-in-react-nodejs-49jo)
+- [Building an Interactive Portfolio Map with Next.js &amp; Deploying to Google Cloud Run](https://dev.to/frankmathewsajan/building-an-interactive-portfolio-map-with-nextjs-deploying-to-google-cloud-run-3hgp)
+- [✂️ Beginner-Friendly Guide &#39;Divide an Array Into Subarrays With Minimum Cost I&#39; - Problem 3010 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-divide-an-array-into-subarrays-with-minimum-cost-i-problem-3010-13jj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
