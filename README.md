@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ensuring Seamless Gated Content Access During High Traffic with QA Testing in DevOps](https://dev.to/mohammad_waseem_c31f3a26f/ensuring-seamless-gated-content-access-during-high-traffic-with-qa-testing-in-devops-5cch)
+- [Automated TLS Certificates with Let&#39;s Encrypt and DNS-01 Challenges](https://dev.to/octasoft-ltd/automated-tls-certificates-with-lets-encrypt-and-dns-01-challenges-b2n)
+- [MCP Development with Zig, Cloud Run, and Gemini CLI](https://dev.to/gde/mcp-development-with-zig-cloud-run-and-gemini-cli-1b1f)
 - [Streamlining Test Account Management in Rust: A Lead QA Engineer’s Approach Without Documentation](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-test-account-management-in-rust-a-lead-qa-engineers-approach-without-documentation-487m)
 - [Rachel Wang&#39;s Portfolio - Built with Gemini &amp; Cloud Run](https://dev.to/rachel_wang_ccd6554f7e6e6/rachel-wangs-portfolio-built-with-gemini-cloud-run-442m)
-- [Securing Test Environments: Eliminating PII Leaks in React with Open Source Tools](https://dev.to/mohammad_waseem_c31f3a26f/securing-test-environments-eliminating-pii-leaks-in-react-with-open-source-tools-3ioo)
-- [Overcoming Geo-Blocked Features: A Senior Architect&#39;s Strategy for Rapid QA Testing](https://dev.to/mohammad_waseem_c31f3a26f/overcoming-geo-blocked-features-a-senior-architects-strategy-for-rapid-qa-testing-41kn)
-- [Securing Test Environments: Preventing PII Leaks in React-Based Microservices](https://dev.to/mohammad_waseem_c31f3a26f/securing-test-environments-preventing-pii-leaks-in-react-based-microservices-5cji)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
