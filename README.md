@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Wrote “Hello World” to the Cardano Blockchain and Here’s How You Can Too](https://dev.to/primaryobjects/i-wrote-hello-world-to-the-cardano-blockchain-and-heres-how-you-can-too-3ppc)
-- [A beginners guide to Git and Github](https://dev.to/joyting-gif/a-beginners-guide-to-git-and-github-465l)
-- [Autopilot - Ctrl: Auditoría de Contenido IA con GitHub Copilot CLI](https://dev.to/datalaria/autopilot-ctrl-auditoria-de-contenido-ia-con-github-copilot-cli-191b)
-- [Understanding mTLS in Cloud Environments: A Complete Guide](https://dev.to/piyushjajoo/understanding-mtls-in-cloud-environments-a-complete-guide-3mdn)
-- [Is ByteByteGo a Good Place for System Design Interview Prep in 2026?](https://dev.to/somadevtoo/is-bytebytego-a-good-place-for-system-design-interview-prep-in-2026-9fo)
+- [The Secret Life of a Developer’s Coffee Mug ☕💻](https://dev.to/art_light/the-secret-life-of-a-developers-coffee-mug-bgn)
+- [Building My First API Package &lpar;ARIPack&rpar;](https://dev.to/auliamei35/building-my-first-api-package-aripack-29n0)
+- [How to Build a In-Memory Cache in Go Using Generics With TTL](https://dev.to/ganesh-kumar/how-to-build-a-in-memory-cache-in-go-using-generics-with-ttl-2ob3)
+- [From zero code to a working Scouting Agent using Python, Streamlit, and JetBrains AI.](https://dev.to/aniket_mehra_21b26691abf8/from-zero-code-to-a-working-scouting-agent-using-python-streamlit-and-jetbrains-ai-20ia)
+- [reSmushit for Laravel](https://dev.to/golchha21/resmushit-for-laravel-213n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
