@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Complete Java Tutorial: From Zero to Building Real Applications](https://dev.to/deividas-strole/complete-java-tutorial-from-zero-to-building-real-applications-5o0)
-- [Executability Is the Real Safety Boundary](https://dev.to/thatechmaestro/executability-is-the-real-safety-boundary-18bh)
-- [CSS Art: Cat on the Moon](https://dev.to/alvaromontoro/css-art-cat-on-the-moon-595p)
-- [Twitter Sentiment Analysis: Lexicon Method, Machine Learning Method and TheirCombination](https://dev.to/paperium/twitter-sentiment-analysis-lexicon-method-machine-learning-method-and-theircombination-cnd)
-- [Streamlining Geo-Blocked Feature Testing with Docker During Peak Traffic](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-geo-blocked-feature-testing-with-docker-during-peak-traffic-7kl)
+- [I Designed Wolf as a Brain Then Discovered Raccoon Was a Programming Language](https://dev.to/cavemanjames75/i-designed-wolf-as-a-brain-then-discovered-raccoon-was-a-programming-language-1707)
+- [Data Modelling And Schemas in Power Bi,Relationships and clarification:Beginner.](https://dev.to/wickliff_odoshe_90f1e35e3/data-modelling-and-schemas-in-power-birelationships-and-clarificationbeginner-jkj)
+- [Scout9 Pro: AI-Powered Automated Scouting for Esports Coaches](https://dev.to/ankit_kumar_0410/scout9-pro-ai-powered-automated-scouting-for-esports-coaches-hlo)
+- [Introduction to Linux for Data Engineers, Including Practical Use of Vi and Nano with Examples](https://dev.to/chiiraq/introduction-to-linux-for-data-engineers-including-practical-use-of-vi-and-nano-with-examples-5a75)
+- [⚙️ FOSDEM 2026 : signaux structurels de l’écosystème open source](https://dev.to/matyo91/fosdem-2026-signaux-structurels-de-lecosysteme-open-source-16do)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
