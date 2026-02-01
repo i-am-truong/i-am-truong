@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Real-Time Messaging Apps Actually Work and Handle massive amount of data](https://dev.to/thepujon/how-real-time-messaging-apps-actually-work-and-handle-massive-amount-of-data-3p9j)
-- [The Quiet Skill That Separates Good Developers from Great Ones](https://dev.to/guswoltmann84/the-quiet-skill-that-separates-good-developers-from-great-ones-3glo)
-- [Do We Even Need Backend Developers Anymore?](https://dev.to/art_light/do-we-even-need-backend-developers-anymore-15pg)
-- [From Failing Tests to Fix PRs in One Command &lpar;GitHub Copilot CLI Challenge&rpar;](https://dev.to/keerthana_696356/from-failing-tests-to-fix-prs-in-one-command-github-copilot-cli-challenge-3bfb)
-- [Tackling Memory Leaks in High-Traffic JavaScript Applications: A DevOps Approach](https://dev.to/mohammad_waseem_c31f3a26f/tackling-memory-leaks-in-high-traffic-javascript-applications-a-devops-approach-3ikk)
+- [I Built the Most Beautiful Markdown Viewer for Developers &lpar;And It&#39;s Free&rpar;](https://dev.to/chieund/i-built-the-most-beautiful-markdown-viewer-for-developers-and-its-free-4km6)
+- [&lpar;Mis-&rpar;Use Spring proxy magic to inject Http request into business layer - should you?](https://dev.to/mumbocoder/mis-use-spring-proxy-magic-to-inject-http-request-into-business-layer-should-you-4fgb)
+- [My Updated Portfolio](https://dev.to/armab_dev101/my-updated-portfolio-3bag)
+- [Context Engineering: Designing AI Systems That Actually Understand Your Codebase](https://dev.to/daylay92/context-engineering-designing-ai-systems-that-actually-understand-your-codebase-28bf)
+- [New Year, New Me: Building My Portfolio with Google AI](https://dev.to/gde/new-year-new-me-building-my-portfolio-with-google-ai-9hp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
