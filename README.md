@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Streamlining Email Flow Validation in Enterprise Systems with Go](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-email-flow-validation-in-enterprise-systems-with-go-4clh)
-- [Leveraging Web Scraping Techniques to Handle Massive Load Testing Under Tight Deadlines](https://dev.to/mohammad_waseem_c31f3a26f/leveraging-web-scraping-techniques-to-handle-massive-load-testing-under-tight-deadlines-4p2h)
-- [Uncovering and Optimizing Slow Database Queries Through QA Testing Without Documentation](https://dev.to/mohammad_waseem_c31f3a26f/uncovering-and-optimizing-slow-database-queries-through-qa-testing-without-documentation-33hi)
-- [As melhores pessoas precisam saber que você existe](https://dev.to/matheusmorett2/as-melhores-pessoas-precisam-saber-que-voce-existe-1njd)
-- [How to Set Your Freelance Rates for the First Time](https://dev.to/fairpricework/how-to-set-your-freelance-rates-for-the-first-time-2lm9)
+- [ChemBERTa: Large-Scale Self-Supervised Pretraining for Molecular PropertyPrediction](https://dev.to/paperium/chemberta-large-scale-self-supervised-pretraining-for-molecular-propertyprediction-2f2n)
+- [SQL Stored Procedures: From Hard‑Coded Logic to Reusable SQL](https://dev.to/mazinocodes/sql-stored-procedures-from-hard-coded-logic-to-reusable-sql-mn5)
+- [Elysia in 100 Seconds](https://dev.to/fabianfrankwerner/elysia-in-100-seconds-2a8k)
+- [One‑Line Magic: Using Claude Code Through Ollama](https://dev.to/0xkoji/one-line-magic-using-claude-code-through-ollama-1g48)
+- [Argo CD &quot;App of Apps&quot; on EKS](https://dev.to/aws-builders/argo-cd-app-of-apps-on-eks-bcc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
