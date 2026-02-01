@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Wrote “Hello World” to the Cardano Blockchain and Here’s How You Can Too](https://dev.to/primaryobjects/i-wrote-hello-world-to-the-cardano-blockchain-and-heres-how-you-can-too-3ppc)
+- [A beginners guide to Git and Github](https://dev.to/joyting-gif/a-beginners-guide-to-git-and-github-465l)
+- [Autopilot - Ctrl: Auditoría de Contenido IA con GitHub Copilot CLI](https://dev.to/datalaria/autopilot-ctrl-auditoria-de-contenido-ia-con-github-copilot-cli-191b)
 - [Understanding mTLS in Cloud Environments: A Complete Guide](https://dev.to/piyushjajoo/understanding-mtls-in-cloud-environments-a-complete-guide-3mdn)
 - [Is ByteByteGo a Good Place for System Design Interview Prep in 2026?](https://dev.to/somadevtoo/is-bytebytego-a-good-place-for-system-design-interview-prep-in-2026-9fo)
-- [NeuronDB Vector vs pgvector: Technical Comparison](https://dev.to/neurondb_support_d73fa7ba/neurondb-vector-vs-pgvector-technical-comparison-4mmh)
-- [Autopilot - Ctrl: AI Content Auditing with GitHub Copilot CLI](https://dev.to/datalaria/autopilot-ctrl-ai-content-auditing-with-github-copilot-cli-gbc)
-- [Why Memory Compatibility &lpar;QVL&rpar; Matters on Modern DDR5 Systems](https://dev.to/bios-doctor/why-memory-compatibility-qvl-matters-on-modern-ddr5-systems-2689)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
