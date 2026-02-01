@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Under the Hood of Bitcoin: UTXO Lifecycle, Script Execution, and Practical Debugging](https://dev.to/aaayushhh/under-the-hood-of-bitcoin-utxo-lifecycle-script-execution-and-practical-debugging-5apa)
-- [Building Event-Driven Observability on AWS Serverless &lpar;Part 1&rpar;](https://dev.to/aws-builders/building-event-driven-observability-on-aws-serverless-part-1-2m6j)
-- [How I Built an AI Esports Coach with Python, GRID, and Gemini &lpar;Hackathon Journey&rpar;](https://dev.to/vero-code/how-i-built-an-ai-esports-coach-with-python-grid-and-gemini-hackathon-journey-3nk1)
-- [Intercepting Social Media Video Streams: A 40-Line Console Script](https://dev.to/vedran_o/intercepting-social-media-video-streams-a-40-line-console-script-3c7)
-- [Leveraging Go for Detecting and Avoiding Spam Traps During High Traffic Campaigns](https://dev.to/mohammad_waseem_c31f3a26f/leveraging-go-for-detecting-and-avoiding-spam-traps-during-high-traffic-campaigns-3bi5)
+- [Mastering Spam Trap Avoidance in React Without Spending a Dime](https://dev.to/mohammad_waseem_c31f3a26f/mastering-spam-trap-avoidance-in-react-without-spending-a-dime-31em)
+- [05. C# &lpar;AND / OR Logical Operators &amp; Short-Circuit&rpar;](https://dev.to/sabin_sim/05-c-and-or-logical-operators-short-circuit-4gba)
+- [Mastering Spam Trap Avoidance with DevOps: A Senior Architect’s Approach Amidst Documentation Gaps](https://dev.to/mohammad_waseem_c31f3a26f/mastering-spam-trap-avoidance-with-devops-a-senior-architects-approach-amidst-documentation-gaps-13he)
+- [Scripts for Suggesting Standup Alternatives to Your Manager](https://dev.to/ghostinit0x/scripts-for-suggesting-standup-alternatives-to-your-manager-5886)
+- [Overcoming IP Bans in Web Scraping with Kubernetes: A Practical Guide](https://dev.to/mohammad_waseem_c31f3a26f/overcoming-ip-bans-in-web-scraping-with-kubernetes-a-practical-guide-5342)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
