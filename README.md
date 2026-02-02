@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Ensuring Seamless Gated Content Access During High Traffic with QA Testing in DevOps](https://dev.to/mohammad_waseem_c31f3a26f/ensuring-seamless-gated-content-access-during-high-traffic-with-qa-testing-in-devops-5cch)
-- [Automated TLS Certificates with Let&#39;s Encrypt and DNS-01 Challenges](https://dev.to/octasoft-ltd/automated-tls-certificates-with-lets-encrypt-and-dns-01-challenges-b2n)
-- [MCP Development with Zig, Cloud Run, and Gemini CLI](https://dev.to/gde/mcp-development-with-zig-cloud-run-and-gemini-cli-1b1f)
-- [Streamlining Test Account Management in Rust: A Lead QA Engineer’s Approach Without Documentation](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-test-account-management-in-rust-a-lead-qa-engineers-approach-without-documentation-487m)
-- [Rachel Wang&#39;s Portfolio - Built with Gemini &amp; Cloud Run](https://dev.to/rachel_wang_ccd6554f7e6e6/rachel-wangs-portfolio-built-with-gemini-cloud-run-442m)
+- [AI-Assisted Development in 2026: Best Practices, Real Risks, and the New Bar for Engineers](https://dev.to/austinwdigital/ai-assisted-development-in-2026-best-practices-real-risks-and-the-new-bar-for-engineers-3fom)
+- [Mobile Developer Portfolio](https://dev.to/paul_leung_dcbf90b7c5de1f/mobile-developer-portfolio-1bke)
+- [Bridging Between Design and Code](https://dev.to/alon_fibert_2e9056e6a5850/building-a-design-system-part-6-1fd1)
+- [From Product Grids to Personal Stylists: Conversational Upselling with AI](https://dev.to/gervaisamoah/from-product-grids-to-personal-stylists-conversational-upselling-with-ai-3aj1)
+- [Building a personal portfolio using Google AI Studio](https://dev.to/xiaozhen_zhu_5960ffb276e6/building-a-personal-portfolio-using-google-ai-studio-3l6m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
