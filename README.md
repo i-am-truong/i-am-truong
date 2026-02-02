@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why My Fake Review Detector Doesn&#39;t Use Affiliate Links](https://dev.to/jollygoodapps/why-my-fake-review-detector-doesnt-use-affiliate-links-kh5)
+- [I Spent Over 9000 Hours Building a Tool to Save 5 Seconds of Right-Clicking](https://dev.to/warren_halderman_19a8d4d6/i-spent-over-9000-hours-building-a-tool-to-save-5-seconds-of-right-clicking-2dg5)
+- [Claude Code: Personal Practical Notes](https://dev.to/shusukedev/claude-code-personal-practical-notes-2o5h)
 - [Generating a Parametric SVG Logo with Pug](https://dev.to/bitifet/generating-a-parametric-svg-logo-with-pug-8m0)
 - [Data Migration Between Servers Using BTEQ Scripts in Informatica Cloud](https://dev.to/hira_12345/data-migration-between-servers-using-bteq-scripts-in-informatica-cloud-kdf)
-- [Recovering from Partial Failures in Enterprise MCP Tools](https://dev.to/zaynelt/recovering-from-partial-failures-in-enterprise-mcp-tools-1m76)
-- [7 Quick Wins to Make Your GitHub Profile Stand Out Today](https://dev.to/adnan_arif_14ae4bc014267f/7-quick-wins-to-make-your-github-profile-stand-out-today-5gag)
-- [JDK](https://dev.to/jegadeshwaran_b_b86e7dd1a/jdk-3f5e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
