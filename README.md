@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Your Backend Feels “Slow” &lpar;and It’s Not the Database You Think&rpar;](https://dev.to/frozenblood/why-your-backend-feels-slow-and-its-not-the-database-you-think-1oac)
-- [Scalable AI Automation Architecture for Production Systems](https://dev.to/alifar/scalable-ai-automation-architecture-for-production-systems-763)
-- [Power BI Made Simple: Data Modelling Beginner&#39;s Guide](https://dev.to/willygachengo/power-bi-made-simple-data-modelling-beginners-guide-1de7)
-- [The Overlooked Attack Surface in Enterprise RAG Systems](https://dev.to/fabiotoky/the-overlooked-attack-surface-in-enterprise-rag-systems-53hg)
-- [How to Save Terminal Commands in Windows Using PowerShell Transcript](https://dev.to/chabbasaad/how-to-save-terminal-commands-in-windows-using-powershell-transcript-2m6j)
+- [Prompt Engineering Is a Temporary Skill](https://dev.to/zywrap/prompt-engineering-is-a-temporary-skill-1bd)
+- [Converting Everything to MCP is Foolish! AI Skills Are the Way Forward](https://dev.to/noear/converting-everything-to-mcp-is-foolish-ai-skills-are-the-way-forward-283g)
+- [Vibe Coding a Pokémon Search App with Cursor](https://dev.to/nikola/vibe-coding-a-pokemon-search-app-with-cursor-1k8b)
+- [Vibe Coding a Pokémon Search App with Replit](https://dev.to/nikola/vibe-coding-a-pokemon-search-app-with-replit-11k9)
+- [GoAI - A Clean, Multi-Provider LLM Client for Go](https://dev.to/dariubs/goai-a-clean-multi-provider-llm-client-for-go-27o5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
