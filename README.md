@@ -120,11 +120,13 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [9. Flexbox](https://dev.to/avery_/9-flexbox-5eai)
-- [COLORS: Ariane Bonzini - J’ai besoin de toi | A COLORS SHOW](https://dev.to/music_youtube/colors-ariane-bonzini-jai-besoin-de-toi-a-colors-show-379p)
-- [Solved: Give Opinion: What can FinOps Weekly do Better?](https://dev.to/techresolve/solved-give-opinion-what-can-finops-weekly-do-better-1kgb)
-- [Building a TUI with Pieces SDK - Part 3: Advanced Features](https://dev.to/getpieces/building-a-tui-with-pieces-sdk-part-3-advanced-features-3i0o)
-- [Building a TUI with Pieces SDK - Part 2: UI Components](https://dev.to/getpieces/building-a-tui-with-pieces-sdk-part-2-ui-components-59l9)
+- [I just spent an hour restarting GitHub Actions over and over before checking GitHub status to see they&#39;re down 😭
+
+I just wasn&#39;t thinking that hard about the situation. As soon as I clicked my brain on I thought to check.](https://dev.to/ben/i-just-spent-an-hour-restarting-github-actions-over-and-over-before-checking-github-status-to-see-2nap)
+- [Switch Claude Code providers in seconds with claude-provider &lpar;Plugin + CLI&rpar;](https://dev.to/rashed_iqbal/switch-claude-code-providers-in-seconds-with-claude-provider-plugin-cli-3719)
+- [I built a PC game library that unifies Steam, Epic, Xbox &amp; more and i am looking for feedback](https://dev.to/olmzgamer/i-built-a-pc-game-library-that-unifies-steam-epic-xbox-more-and-i-am-looking-for-feedback-436g)
+- [Debugging My Brain: Why Procrastination is Actually an &quot;Emotional Regulation&quot; Glitch](https://dev.to/tyrell_wellicq_767cb57340/debugging-my-brain-why-procrastination-is-actually-an-emotional-regulation-glitch-4f8b)
+- [Prometheus + Node Exporter on Two EC2 Instances](https://dev.to/jumptotech/prometheus-node-exporter-on-two-ec2-instances-4d0n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
