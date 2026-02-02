@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CLI-Agent vs MCP A Practical Comparison for Students, Startups, and Developers](https://dev.to/girma35/cli-agent-vs-mcp-a-practical-comparison-for-students-startups-and-developers-4com)
-- [Connecting Your Computer with GitHub-Part Four](https://dev.to/theoriginalbpc/connecting-your-computer-with-github-part-four-399i)
-- [Getting Started with Angular Toolbar](https://dev.to/alfredoperez/getting-started-with-angular-toolbar-248c)
-- [React2Shell &lpar;CVE-2025-55182&rpar; in the Wild: Analyzing Probing Chains and Infrastructure Fingerprints](https://dev.to/user32/react2shell-cve-2025-55182-in-the-wild-analyzing-probing-chains-and-infrastructure-fingerprints-42f3)
-- [Shadow Execution: The Refactor Miracle That Doesn’t Touch Production](https://dev.to/ackermannq/shadow-execution-the-refactor-miracle-that-doesnt-touch-production-3f39)
+- [Building an MCP Server on AWS Lambda: Complete Serverless Architecture Guide](https://dev.to/lucasbrogni1/building-an-mcp-server-on-aws-lambda-complete-serverless-architecture-guide-56jm)
+- [How to Set Up OpenClaw AI on AWS](https://dev.to/brayanarrieta/how-to-set-up-openclaw-ai-on-aws-3a0j)
+- [Seeking collaborators for a voluntary side project](https://dev.to/david_miller_28a26b0cdd1c/seeking-collaborators-for-a-voluntary-side-project-3ee8)
+- [How Vibe Coding Drains Open Source](https://dev.to/sashido/how-vibe-coding-drains-open-source-546l)
+- [Running GitHub Copilot CLI Safely with Docker Sandbox](https://dev.to/brunoborges/running-github-copilot-cli-safely-with-docker-sandbox-2f4i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
