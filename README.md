@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [React Native in 2026: Should Your Enterprise Choose It? &lpar;Part 1&rpar;](https://dev.to/amiryala/react-native-in-2026-should-your-enterprise-choose-it-part-1-243p)
-- [POWER BI - SCHEMAS &amp; MODELLING GUIDE.](https://dev.to/juliet_kiplimo_b9a825c95a/power-bi-schemas-modelling-guide-8kf)
-- [Repository Pattern in a Data Analytics / ML Pipeline](https://dev.to/peter_ongwae_78d1c9273164/repository-pattern-in-a-data-analytics-ml-pipeline-1aa6)
-- [DevOps Automation Guide: Setup Ansible and Build Custom Docker Images with Network Playground](https://dev.to/labex/devops-automation-guide-setup-ansible-and-build-custom-docker-images-with-network-playground-5214)
-- [The Thinking Machines: How AI Learned to Reason Step-by-Step](https://dev.to/ruchika_bhat_876f8530fa3b/the-thinking-machines-how-ai-learned-to-reason-step-by-step-7eg)
+- [9. Flexbox](https://dev.to/avery_/9-flexbox-5eai)
+- [COLORS: Ariane Bonzini - J’ai besoin de toi | A COLORS SHOW](https://dev.to/music_youtube/colors-ariane-bonzini-jai-besoin-de-toi-a-colors-show-379p)
+- [Solved: Give Opinion: What can FinOps Weekly do Better?](https://dev.to/techresolve/solved-give-opinion-what-can-finops-weekly-do-better-1kgb)
+- [Building a TUI with Pieces SDK - Part 3: Advanced Features](https://dev.to/getpieces/building-a-tui-with-pieces-sdk-part-3-advanced-features-3i0o)
+- [Building a TUI with Pieces SDK - Part 2: UI Components](https://dev.to/getpieces/building-a-tui-with-pieces-sdk-part-2-ui-components-59l9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
