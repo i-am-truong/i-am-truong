@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Moltbook Exposed: It&#39;s Human Slop, Not AI Awakening](https://dev.to/marco_69e8346b5812af1909a/moltbook-exposed-its-human-slop-not-ai-awakening-4da2)
-- [Malicious AI Extensions Are Stealing Code from 1.5 Million Developers — Here&#39;s What You Need to Know](https://dev.to/damogallagher/malicious-ai-extensions-are-stealing-code-from-15-million-developers-heres-what-you-need-to-know-174p)
-- [Cloud Computing](https://dev.to/nhlakanipho_mkhatshwa_e9d/cloud-computing-2h75)
-- [ClawdBot Security Guide](https://dev.to/eyalestrin/clawdbot-security-guide-5595)
-- [Schemas and data modelling in Power BI](https://dev.to/kihoro_codes_c959f8c68a9c/schemas-and-data-modelling-in-power-bi-38cj)
+- [I used GitHub Copilot CLI to create a working macOS menu bar app on the first prompt.](https://dev.to/jcleigh/i-used-github-copilot-cli-to-create-a-working-macos-menu-bar-app-on-the-first-prompt-25bd)
+- [Solved: What to look for when hiring first full-time SEO?](https://dev.to/techresolve/solved-what-to-look-for-when-hiring-first-full-time-seo-963)
+- [Week 17 Recap — React Routing, CSS Modules &amp; Building a Real Project](https://dev.to/usama_dev/week-17-recap-react-routing-css-modules-building-a-real-project-4m8)
+- [Manage Git worktrees declaratively with YAML &lpar;plan/apply + guardrails&rpar; — gion](https://dev.to/tasuku43/manage-git-worktrees-declaratively-with-yaml-planapply-guardrails-gion-378n)
+- [Agentic Apps with GitHub Copilot SDK](https://dev.to/abhirockzz/agentic-apps-with-github-copilot-sdk-60l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
