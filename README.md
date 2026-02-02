@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Build your first enterprise MCP server with GitHub Copilot](https://dev.to/stacklok/build-your-first-enterprise-mcp-server-with-github-copilot-4gll)
-- [How to Build a DeFi Metrics Dashboard in 5 Steps](https://dev.to/yos/how-to-build-a-defi-metrics-dashboard-in-5-steps-4lop)
-- [Ansible Dynamic vCenter Inventory](https://dev.to/rahul_manglekar/ansible-dynamic-vcenter-inventory-52e0)
-- [Cool article](https://dev.to/anthonymax/cool-article-1ee6)
-- [How to Export Kindle Highlights as Markdown Using Glasp](https://dev.to/glasp/how-to-export-kindle-highlights-as-markdown-using-glasp-m2m)
+- [Why Your Backend Feels “Slow” &lpar;and It’s Not the Database You Think&rpar;](https://dev.to/frozenblood/why-your-backend-feels-slow-and-its-not-the-database-you-think-1oac)
+- [Scalable AI Automation Architecture for Production Systems](https://dev.to/alifar/scalable-ai-automation-architecture-for-production-systems-763)
+- [Power BI Made Simple: Data Modelling Beginner&#39;s Guide](https://dev.to/willygachengo/power-bi-made-simple-data-modelling-beginners-guide-1de7)
+- [The Overlooked Attack Surface in Enterprise RAG Systems](https://dev.to/fabiotoky/the-overlooked-attack-surface-in-enterprise-rag-systems-53hg)
+- [How to Save Terminal Commands in Windows Using PowerShell Transcript](https://dev.to/chabbasaad/how-to-save-terminal-commands-in-windows-using-powershell-transcript-2m6j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
