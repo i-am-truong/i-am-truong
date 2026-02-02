@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Using effectScope to Control Vue Reactivity Lifecycles](https://dev.to/jacobandrewsky/using-effectscope-to-control-vue-reactivity-lifecycles-2mml)
-- [PART 7 :CONTROLLER ALL CONCEPT IN SPRINGBOOT PROJECT](https://dev.to/bhu_kalki/part-8-controller-all-concept-in-springboot-project-1j31)
-- [Building an Autonomous AI Agent Marketplace with Agno &amp; Ollama](https://dev.to/harishkotra/building-an-autonomous-ai-agent-marketplace-with-agno-ollama-4l12)
-- [Weeks 4 &amp; 5: Recursion and Arrays in JavaScript](https://dev.to/precix_phantom/weeks-4-5-recursion-and-arrays-in-javascript-10ic)
-- [PART 6 :CONTROLLER ALL CONCEPT IN SPRINGBOOT PROJECT](https://dev.to/bhu_kalki/part-6-controller-all-concept-in-springboot-project-7ec)
+- [Moltbook Exposed: It&#39;s Human Slop, Not AI Awakening](https://dev.to/marco_69e8346b5812af1909a/moltbook-exposed-its-human-slop-not-ai-awakening-4da2)
+- [Malicious AI Extensions Are Stealing Code from 1.5 Million Developers — Here&#39;s What You Need to Know](https://dev.to/damogallagher/malicious-ai-extensions-are-stealing-code-from-15-million-developers-heres-what-you-need-to-know-174p)
+- [Cloud Computing](https://dev.to/nhlakanipho_mkhatshwa_e9d/cloud-computing-2h75)
+- [ClawdBot Security Guide](https://dev.to/eyalestrin/clawdbot-security-guide-5595)
+- [Schemas and data modelling in Power BI](https://dev.to/kihoro_codes_c959f8c68a9c/schemas-and-data-modelling-in-power-bi-38cj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
