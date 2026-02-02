@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Secret Life of Python: The Hidden Return](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-hidden-return-50m5)
-- [Don’t Overlook the Basics: Understanding Type in C#](https://dev.to/rahul1994jh/dont-overlook-the-basics-understanding-type-in-c-1g21)
-- [DevRel When the Ecosystem Is Still Taking Shape](https://dev.to/devsofmidnight/devrel-when-the-ecosystem-is-still-taking-shape-dh8)
-- [From Idea to Prototype in Minutes: Building My Portfolio with Antigravity](https://dev.to/ntombizakhona/from-idea-to-prototype-in-minutes-building-my-ai-portfolio-with-antigravity-kmm)
-- [Bridging vs Bonding in Linux Networking – Explained with Real-Life Analogies](https://dev.to/dporwal/bridging-vs-bonding-in-linux-networking-explained-with-real-life-analogies-51ek)
+- [I built a tactical tool for Marvel Rivals using Astro, React, and Open Data](https://dev.to/lei_zhang_3cd1b1ddb6debf9/i-built-a-tactical-tool-for-marvel-rivals-using-astro-react-and-open-data-2c4o)
+- [A Portfolio Powered by Antigravity and Gemini Tools](https://dev.to/jerson419/a-portfolio-powered-by-antigravity-and-gemini-tools-26ec)
+- [Pinto Portfolio - Building at the Speed of Thought: Where Logic Meets Generative Art.](https://dev.to/ubinix_warun/pinto-portfolio-building-at-the-speed-of-thought-where-logic-meets-generative-art-1jfi)
+- [403 Forbidden Error Explained: How to Fix It on Your Website](https://dev.to/serveravatar/403-forbidden-error-explained-how-to-fix-it-on-your-website-2f4a)
+- [Redis vs DynamoDB vs DAX: I Benchmarked AWS Caching Performance &lpar;The Results Were Unexpected&rpar;](https://dev.to/mate32/redis-vs-dynamodb-vs-dax-i-benchmarked-aws-caching-performance-the-results-were-unexpected-cb3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
