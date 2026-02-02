@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a tactical tool for Marvel Rivals using Astro, React, and Open Data](https://dev.to/lei_zhang_3cd1b1ddb6debf9/i-built-a-tactical-tool-for-marvel-rivals-using-astro-react-and-open-data-2c4o)
-- [A Portfolio Powered by Antigravity and Gemini Tools](https://dev.to/jerson419/a-portfolio-powered-by-antigravity-and-gemini-tools-26ec)
-- [Pinto Portfolio - Building at the Speed of Thought: Where Logic Meets Generative Art.](https://dev.to/ubinix_warun/pinto-portfolio-building-at-the-speed-of-thought-where-logic-meets-generative-art-1jfi)
-- [403 Forbidden Error Explained: How to Fix It on Your Website](https://dev.to/serveravatar/403-forbidden-error-explained-how-to-fix-it-on-your-website-2f4a)
-- [Redis vs DynamoDB vs DAX: I Benchmarked AWS Caching Performance &lpar;The Results Were Unexpected&rpar;](https://dev.to/mate32/redis-vs-dynamodb-vs-dax-i-benchmarked-aws-caching-performance-the-results-were-unexpected-cb3)
+- [Build your first enterprise MCP server with GitHub Copilot](https://dev.to/stacklok/build-your-first-enterprise-mcp-server-with-github-copilot-4gll)
+- [How to Build a DeFi Metrics Dashboard in 5 Steps](https://dev.to/yos/how-to-build-a-defi-metrics-dashboard-in-5-steps-4lop)
+- [Ansible Dynamic vCenter Inventory](https://dev.to/rahul_manglekar/ansible-dynamic-vcenter-inventory-52e0)
+- [Cool article](https://dev.to/anthonymax/cool-article-1ee6)
+- [How to Export Kindle Highlights as Markdown Using Glasp](https://dev.to/glasp/how-to-export-kindle-highlights-as-markdown-using-glasp-m2m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
