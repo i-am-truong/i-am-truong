@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🧠 GoodUI — Learn from Real A/B Test Results](https://dev.to/ml318097/goodui-learn-from-real-ab-test-results-1kon)
-- [AI Just Built Its Own Social Network. And Humans Aren’t Invited.](https://dev.to/salaria_labs/ai-just-built-its-own-social-network-and-humans-arent-invited-2f6k)
-- [How to Install Java 17 on Linux &lpar;Zorin OS/Ubuntu&rpar; in 1 Minute! 🐧☕](https://dev.to/codesniper221/how-to-install-java-17-on-linux-zorin-osubuntu-in-1-minute-2bob)
-- [Java devs: build something awesome with Copilot CLI and win big prizes](https://dev.to/brunoborges/java-devs-build-something-awesome-with-copilot-cli-and-win-big-prizes-gl)
-- [AI-first note taking app](https://dev.to/kimmyxpow/ai-first-note-taking-app-37nd)
+- [CLI-Agent vs MCP A Practical Comparison for Students, Startups, and Developers](https://dev.to/girma35/cli-agent-vs-mcp-a-practical-comparison-for-students-startups-and-developers-4com)
+- [Connecting Your Computer with GitHub-Part Four](https://dev.to/theoriginalbpc/connecting-your-computer-with-github-part-four-399i)
+- [Getting Started with Angular Toolbar](https://dev.to/alfredoperez/getting-started-with-angular-toolbar-248c)
+- [React2Shell &lpar;CVE-2025-55182&rpar; in the Wild: Analyzing Probing Chains and Infrastructure Fingerprints](https://dev.to/user32/react2shell-cve-2025-55182-in-the-wild-analyzing-probing-chains-and-infrastructure-fingerprints-42f3)
+- [Shadow Execution: The Refactor Miracle That Doesn’t Touch Production](https://dev.to/ackermannq/shadow-execution-the-refactor-miracle-that-doesnt-touch-production-3f39)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
