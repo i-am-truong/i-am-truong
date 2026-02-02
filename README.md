@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Designing a Secure and Scalable AWS Architecture: A Practical Guide](https://dev.to/awscommunity-asean/designing-a-secure-and-scalable-aws-architecture-a-practical-guide-26km)
-- [[AutoBe] Qwen3-80B suddenly wrote doomsday AI mythology while generating a TODO app](https://dev.to/samchon/autobe-qwen3-80b-suddenly-wrote-doomsday-ai-mythology-while-generating-a-todo-app-976)
-- [How Transformers Pay Attention Like Humans Do](https://dev.to/sreeni5018/how-transformers-pay-attention-like-humans-do-5c06)
-- [Perl 🐪 Weekly #758 - PTS 2026](https://dev.to/szabgab/perl-weekly-758-pts-2026-20oc)
-- [Schemas and Data Modelling in Power BI: A Beginner-Friendly Step-by-Step Guide](https://dev.to/nicholas_kimani_e0fc0306b/schemas-and-data-modelling-in-power-bi-a-beginner-friendly-step-by-step-guide-2ffm)
+- [The Secret Life of Python: The Hidden Return](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-hidden-return-50m5)
+- [Don’t Overlook the Basics: Understanding Type in C#](https://dev.to/rahul1994jh/dont-overlook-the-basics-understanding-type-in-c-1g21)
+- [DevRel When the Ecosystem Is Still Taking Shape](https://dev.to/devsofmidnight/devrel-when-the-ecosystem-is-still-taking-shape-dh8)
+- [From Idea to Prototype in Minutes: Building My Portfolio with Antigravity](https://dev.to/ntombizakhona/from-idea-to-prototype-in-minutes-building-my-ai-portfolio-with-antigravity-kmm)
+- [Bridging vs Bonding in Linux Networking – Explained with Real-Life Analogies](https://dev.to/dporwal/bridging-vs-bonding-in-linux-networking-explained-with-real-life-analogies-51ek)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
