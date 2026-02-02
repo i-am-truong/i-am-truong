@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building an MCP Server on AWS Lambda: Complete Serverless Architecture Guide](https://dev.to/lucasbrogni1/building-an-mcp-server-on-aws-lambda-complete-serverless-architecture-guide-56jm)
-- [How to Set Up OpenClaw AI on AWS](https://dev.to/brayanarrieta/how-to-set-up-openclaw-ai-on-aws-3a0j)
-- [Seeking collaborators for a voluntary side project](https://dev.to/david_miller_28a26b0cdd1c/seeking-collaborators-for-a-voluntary-side-project-3ee8)
-- [How Vibe Coding Drains Open Source](https://dev.to/sashido/how-vibe-coding-drains-open-source-546l)
-- [Running GitHub Copilot CLI Safely with Docker Sandbox](https://dev.to/brunoborges/running-github-copilot-cli-safely-with-docker-sandbox-2f4i)
+- [React Native in 2026: Should Your Enterprise Choose It? &lpar;Part 1&rpar;](https://dev.to/amiryala/react-native-in-2026-should-your-enterprise-choose-it-part-1-243p)
+- [POWER BI - SCHEMAS &amp; MODELLING GUIDE.](https://dev.to/juliet_kiplimo_b9a825c95a/power-bi-schemas-modelling-guide-8kf)
+- [Repository Pattern in a Data Analytics / ML Pipeline](https://dev.to/peter_ongwae_78d1c9273164/repository-pattern-in-a-data-analytics-ml-pipeline-1aa6)
+- [DevOps Automation Guide: Setup Ansible and Build Custom Docker Images with Network Playground](https://dev.to/labex/devops-automation-guide-setup-ansible-and-build-custom-docker-images-with-network-playground-5214)
+- [The Thinking Machines: How AI Learned to Reason Step-by-Step](https://dev.to/ruchika_bhat_876f8530fa3b/the-thinking-machines-how-ai-learned-to-reason-step-by-step-7eg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
