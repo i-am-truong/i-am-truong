@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why CI Pipelines Fail](https://dev.to/infraforgelabs/why-ci-pipelines-fail-339l)
-- [AI Career Twin Portfolio: Interactive Portfolio with Intelligent Assistant](https://dev.to/mansaa_kohli_33f7b75a9eec/ai-career-twin-portfolio-interactive-portfolio-with-intelligent-assistant-17p4)
-- [The Hidden Cost of AI Tools in Software Development](https://dev.to/jaideepparashar/the-hidden-cost-of-ai-tools-in-software-development-32o2)
-- [Self-Hosted Ngrok Alternative in 200 Lines of Node.js](https://dev.to/lasisi_ibrahimpelumi_dc0/building-your-own-ngrok-alternative-in-200-lines-of-nodejs-28of)
-- [I Built My Own DeepSite Alternative That Works with Kimi K2.5, Gemini, or Any Model](https://dev.to/juandenis/i-built-my-own-deepsite-alternative-that-works-with-kimi-k25-gemini-or-any-model-5gfo)
+- [Streamlining Production Databases with JavaScript: A Security Researcher’s Approach](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-production-databases-with-javascript-a-security-researchers-approach-43oa)
+- [Built Reddit like community with AutoBe and AutoView &lpar;gpt-4.1-mini and qwen3-235b-a22b&rpar;](https://dev.to/samchon/built-reddit-like-community-with-autobe-and-autoview-gpt-41-mini-and-qwen3-235b-a22b-1h85)
+- [Succeeded to build full-level backend application with &quot;qwen3-235b-a22b&quot; in AutoBE](https://dev.to/samchon/succeeded-to-build-full-level-backend-application-with-qwen3-235b-a22b-in-autobe-1cfa)
+- [Everyone Knows You&#39;re Using AI: Part 1](https://dev.to/aruntemme/everyone-knows-youre-using-ai-part-1-3k4m)
+- [Schemas And Data Modelling in Power BI](https://dev.to/motanga/schemas-and-data-modelling-in-power-bi-45h9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
