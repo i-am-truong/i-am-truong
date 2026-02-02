@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I used GitHub Copilot CLI to create a working macOS menu bar app on the first prompt.](https://dev.to/jcleigh/i-used-github-copilot-cli-to-create-a-working-macos-menu-bar-app-on-the-first-prompt-25bd)
-- [Solved: What to look for when hiring first full-time SEO?](https://dev.to/techresolve/solved-what-to-look-for-when-hiring-first-full-time-seo-963)
-- [Week 17 Recap — React Routing, CSS Modules &amp; Building a Real Project](https://dev.to/usama_dev/week-17-recap-react-routing-css-modules-building-a-real-project-4m8)
-- [Manage Git worktrees declaratively with YAML &lpar;plan/apply + guardrails&rpar; — gion](https://dev.to/tasuku43/manage-git-worktrees-declaratively-with-yaml-planapply-guardrails-gion-378n)
-- [Agentic Apps with GitHub Copilot SDK](https://dev.to/abhirockzz/agentic-apps-with-github-copilot-sdk-60l)
+- [🧠 GoodUI — Learn from Real A/B Test Results](https://dev.to/ml318097/goodui-learn-from-real-ab-test-results-1kon)
+- [AI Just Built Its Own Social Network. And Humans Aren’t Invited.](https://dev.to/salaria_labs/ai-just-built-its-own-social-network-and-humans-arent-invited-2f6k)
+- [How to Install Java 17 on Linux &lpar;Zorin OS/Ubuntu&rpar; in 1 Minute! 🐧☕](https://dev.to/codesniper221/how-to-install-java-17-on-linux-zorin-osubuntu-in-1-minute-2bob)
+- [Java devs: build something awesome with Copilot CLI and win big prizes](https://dev.to/brunoborges/java-devs-build-something-awesome-with-copilot-cli-and-win-big-prizes-gl)
+- [AI-first note taking app](https://dev.to/kimmyxpow/ai-first-note-taking-app-37nd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
