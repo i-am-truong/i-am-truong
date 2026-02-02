@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why I built a Mathematical Governor to fix Systemic Entropy](https://dev.to/come2me/why-i-built-a-mathematical-governor-to-fix-systemic-entropy-3e20)
-- [SCHEMAS AND DATA MODELLING IN POWER BI](https://dev.to/rachel_muriuki_c5062dd89a/schemas-and-data-modelling-in-power-bi-1kjc)
-- [Power BI Data Modeling](https://dev.to/mariam_turnesh/power-bi-data-modeling-2n39)
-- [A look at SurrealQL and how it differs from PostgreSQL](https://dev.to/mgyles/a-look-at-surrealql-and-how-it-differs-from-postgresql-5cmc)
-- [Understanding React Components: A Beginner’s Guide](https://dev.to/maryam_2fc7f9d33369a6c8fd/understanding-react-components-a-beginners-guide-2eci)
+- [Using effectScope to Control Vue Reactivity Lifecycles](https://dev.to/jacobandrewsky/using-effectscope-to-control-vue-reactivity-lifecycles-2mml)
+- [PART 7 :CONTROLLER ALL CONCEPT IN SPRINGBOOT PROJECT](https://dev.to/bhu_kalki/part-8-controller-all-concept-in-springboot-project-1j31)
+- [Building an Autonomous AI Agent Marketplace with Agno &amp; Ollama](https://dev.to/harishkotra/building-an-autonomous-ai-agent-marketplace-with-agno-ollama-4l12)
+- [Weeks 4 &amp; 5: Recursion and Arrays in JavaScript](https://dev.to/precix_phantom/weeks-4-5-recursion-and-arrays-in-javascript-10ic)
+- [PART 6 :CONTROLLER ALL CONCEPT IN SPRINGBOOT PROJECT](https://dev.to/bhu_kalki/part-6-controller-all-concept-in-springboot-project-7ec)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
