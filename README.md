@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI-Assisted Development in 2026: Best Practices, Real Risks, and the New Bar for Engineers](https://dev.to/austinwdigital/ai-assisted-development-in-2026-best-practices-real-risks-and-the-new-bar-for-engineers-3fom)
-- [Mobile Developer Portfolio](https://dev.to/paul_leung_dcbf90b7c5de1f/mobile-developer-portfolio-1bke)
-- [Bridging Between Design and Code](https://dev.to/alon_fibert_2e9056e6a5850/building-a-design-system-part-6-1fd1)
-- [From Product Grids to Personal Stylists: Conversational Upselling with AI](https://dev.to/gervaisamoah/from-product-grids-to-personal-stylists-conversational-upselling-with-ai-3aj1)
-- [Building a personal portfolio using Google AI Studio](https://dev.to/xiaozhen_zhu_5960ffb276e6/building-a-personal-portfolio-using-google-ai-studio-3l6m)
+- [Why CI Pipelines Fail](https://dev.to/infraforgelabs/why-ci-pipelines-fail-339l)
+- [AI Career Twin Portfolio: Interactive Portfolio with Intelligent Assistant](https://dev.to/mansaa_kohli_33f7b75a9eec/ai-career-twin-portfolio-interactive-portfolio-with-intelligent-assistant-17p4)
+- [The Hidden Cost of AI Tools in Software Development](https://dev.to/jaideepparashar/the-hidden-cost-of-ai-tools-in-software-development-32o2)
+- [Self-Hosted Ngrok Alternative in 200 Lines of Node.js](https://dev.to/lasisi_ibrahimpelumi_dc0/building-your-own-ngrok-alternative-in-200-lines-of-nodejs-28of)
+- [I Built My Own DeepSite Alternative That Works with Kimi K2.5, Gemini, or Any Model](https://dev.to/juandenis/i-built-my-own-deepsite-alternative-that-works-with-kimi-k25-gemini-or-any-model-5gfo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
