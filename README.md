@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Streamlining Production Databases with JavaScript: A Security Researcher’s Approach](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-production-databases-with-javascript-a-security-researchers-approach-43oa)
-- [Built Reddit like community with AutoBe and AutoView &lpar;gpt-4.1-mini and qwen3-235b-a22b&rpar;](https://dev.to/samchon/built-reddit-like-community-with-autobe-and-autoview-gpt-41-mini-and-qwen3-235b-a22b-1h85)
-- [Succeeded to build full-level backend application with &quot;qwen3-235b-a22b&quot; in AutoBE](https://dev.to/samchon/succeeded-to-build-full-level-backend-application-with-qwen3-235b-a22b-in-autobe-1cfa)
-- [Everyone Knows You&#39;re Using AI: Part 1](https://dev.to/aruntemme/everyone-knows-youre-using-ai-part-1-3k4m)
-- [Schemas And Data Modelling in Power BI](https://dev.to/motanga/schemas-and-data-modelling-in-power-bi-45h9)
+- [Designing a Secure and Scalable AWS Architecture: A Practical Guide](https://dev.to/awscommunity-asean/designing-a-secure-and-scalable-aws-architecture-a-practical-guide-26km)
+- [[AutoBe] Qwen3-80B suddenly wrote doomsday AI mythology while generating a TODO app](https://dev.to/samchon/autobe-qwen3-80b-suddenly-wrote-doomsday-ai-mythology-while-generating-a-todo-app-976)
+- [How Transformers Pay Attention Like Humans Do](https://dev.to/sreeni5018/how-transformers-pay-attention-like-humans-do-5c06)
+- [Perl 🐪 Weekly #758 - PTS 2026](https://dev.to/szabgab/perl-weekly-758-pts-2026-20oc)
+- [Schemas and Data Modelling in Power BI: A Beginner-Friendly Step-by-Step Guide](https://dev.to/nicholas_kimani_e0fc0306b/schemas-and-data-modelling-in-power-bi-a-beginner-friendly-step-by-step-guide-2ffm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
