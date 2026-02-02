@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Making an ANN Like Faiss Is Not Everyone’s Cup of Tea](https://dev.to/jashwanth_thatipamula_8ee/making-an-ann-like-faiss-is-not-everyones-cup-of-tea-297e)
+- [State Management in React &lpar;A Beginner-Friendly Guide&rpar;](https://dev.to/msnmongare/state-management-in-react-js-p8)
+- [Music Sharity: Your Universal Music Link Converter](https://dev.to/sikelio/music-sharity-your-universal-music-link-converter-1500)
 - [Prompt Engineering Is a Temporary Skill](https://dev.to/zywrap/prompt-engineering-is-a-temporary-skill-1bd)
 - [Converting Everything to MCP is Foolish! AI Skills Are the Way Forward](https://dev.to/noear/converting-everything-to-mcp-is-foolish-ai-skills-are-the-way-forward-283g)
-- [Vibe Coding a Pokémon Search App with Cursor](https://dev.to/nikola/vibe-coding-a-pokemon-search-app-with-cursor-1k8b)
-- [Vibe Coding a Pokémon Search App with Replit](https://dev.to/nikola/vibe-coding-a-pokemon-search-app-with-replit-11k9)
-- [GoAI - A Clean, Multi-Provider LLM Client for Go](https://dev.to/dariubs/goai-a-clean-multi-provider-llm-client-for-go-27o5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
