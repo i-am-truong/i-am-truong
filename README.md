@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Making an ANN Like Faiss Is Not Everyone’s Cup of Tea](https://dev.to/jashwanth_thatipamula_8ee/making-an-ann-like-faiss-is-not-everyones-cup-of-tea-297e)
-- [State Management in React &lpar;A Beginner-Friendly Guide&rpar;](https://dev.to/msnmongare/state-management-in-react-js-p8)
-- [Music Sharity: Your Universal Music Link Converter](https://dev.to/sikelio/music-sharity-your-universal-music-link-converter-1500)
-- [Prompt Engineering Is a Temporary Skill](https://dev.to/zywrap/prompt-engineering-is-a-temporary-skill-1bd)
-- [Converting Everything to MCP is Foolish! AI Skills Are the Way Forward](https://dev.to/noear/converting-everything-to-mcp-is-foolish-ai-skills-are-the-way-forward-283g)
+- [Why I built a Mathematical Governor to fix Systemic Entropy](https://dev.to/come2me/why-i-built-a-mathematical-governor-to-fix-systemic-entropy-3e20)
+- [SCHEMAS AND DATA MODELLING IN POWER BI](https://dev.to/rachel_muriuki_c5062dd89a/schemas-and-data-modelling-in-power-bi-1kjc)
+- [Power BI Data Modeling](https://dev.to/mariam_turnesh/power-bi-data-modeling-2n39)
+- [A look at SurrealQL and how it differs from PostgreSQL](https://dev.to/mgyles/a-look-at-surrealql-and-how-it-differs-from-postgresql-5cmc)
+- [Understanding React Components: A Beginner’s Guide](https://dev.to/maryam_2fc7f9d33369a6c8fd/understanding-react-components-a-beginners-guide-2eci)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
