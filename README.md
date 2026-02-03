@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Raw Text to Spoken Form: Bangla TTS Playbook](https://dev.to/imtiazrisat/from-raw-text-to-spoken-form-bangla-tts-playbook-43b3)
-- [Don&#39;t work, succeed!](https://dev.to/spo0q/dont-work-succeed-393d)
-- [Confluent CCAC: Cloud Kafka Ops Expertise Guide](https://dev.to/michellenludwig/confluent-ccac-cloud-kafka-ops-expertise-guide-3m7i)
-- [Leveraging Rust to Prevent Bypassing Gated Content During High Traffic Events](https://dev.to/mohammad_waseem_c31f3a26f/leveraging-rust-to-prevent-bypassing-gated-content-during-high-traffic-events-14k2)
-- [Automating Data Cleansing with Web Scraping: A Lead QA Engineer’s Approach for Enterprise Solutions](https://dev.to/mohammad_waseem_c31f3a26f/automating-data-cleansing-with-web-scraping-a-lead-qa-engineers-approach-for-enterprise-solutions-5dkl)
+- [Linux Fundamentals - Part 7: Bash Scripting &lpar;If Statements&rpar;](https://dev.to/kervie_sazon/linux-fundamentals-part-7-bash-scripting-if-statements-bfh)
+- [CLAUDE.md best practices - From Basic to Adaptive](https://dev.to/cleverhoods/claudemd-best-practices-from-basic-to-adaptive-9lm)
+- [What is hybrid developer?](https://dev.to/hydeveloper/what-is-hybrid-developer-3c8p)
+- [Show DEV: UtilityForge - 250+ Dev Tools Bundled into One Privacy-Focused App](https://dev.to/day2day_life_90ff21e1b7d2/show-dev-utilityforge-250-dev-tools-bundled-into-one-privacy-focused-app-4o4f)
+- [Building GDPR-Compliant AI Systems with Automatic Redaction](https://dev.to/rom_questaai_599bb894049/building-gdpr-compliant-ai-systems-with-automatic-redaction-194n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
