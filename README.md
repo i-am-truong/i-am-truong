@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The AI Scraping Arms Race: Protecting Visual Assets on the Dynamic Web](https://dev.to/rpi1337/the-ai-scraping-arms-race-protecting-visual-assets-on-the-dynamic-web-3lm1)
-- [I got tired of setting up React projects — so I built this starter](https://dev.to/renato_silva_71eef0fc385f/i-got-tired-of-setting-up-react-projects-so-i-built-this-starter-2n8l)
-- [Designing agentic workflows: a practical example](https://dev.to/danielbutlerirl/designing-agentic-workflows-a-practical-example-291j)
-- [How to decode any polymarket trading bot strategy ?](https://dev.to/voren_tai_24467d3051ef996/how-to-decode-any-polymarket-trading-bot-strategy--1k7b)
-- [A Simple Way to Debug SwiftUI Layout Issues](https://dev.to/arshtechpro/a-simple-way-to-debug-swiftui-layout-issues-1gn9)
+- [From Raw Text to Spoken Form: Bangla TTS Playbook](https://dev.to/imtiazrisat/from-raw-text-to-spoken-form-bangla-tts-playbook-43b3)
+- [Don&#39;t work, succeed!](https://dev.to/spo0q/dont-work-succeed-393d)
+- [Confluent CCAC: Cloud Kafka Ops Expertise Guide](https://dev.to/michellenludwig/confluent-ccac-cloud-kafka-ops-expertise-guide-3m7i)
+- [Leveraging Rust to Prevent Bypassing Gated Content During High Traffic Events](https://dev.to/mohammad_waseem_c31f3a26f/leveraging-rust-to-prevent-bypassing-gated-content-during-high-traffic-events-14k2)
+- [Automating Data Cleansing with Web Scraping: A Lead QA Engineer’s Approach for Enterprise Solutions](https://dev.to/mohammad_waseem_c31f3a26f/automating-data-cleansing-with-web-scraping-a-lead-qa-engineers-approach-for-enterprise-solutions-5dkl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
