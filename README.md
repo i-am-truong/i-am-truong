@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Authenticating GitHub Actions to AWS using IAM Roles](https://dev.to/chxnedu/authenticating-github-actions-to-aws-using-iam-roles-47hg)
+- [Claude Code Club | Issue #1](https://dev.to/paweljanda/claude-code-club-issue-1-106f)
+- [Running Claude Code with Docker](https://dev.to/jasdeepsinghbhalla/running-claude-code-with-docker-7fj)
+- [How to Build a Real-Time Taiwan Stock Scraper in 50 Lines of Python](https://dev.to/pyflowmaster/how-to-build-a-real-time-taiwan-stock-scraper-in-50-lines-of-python-5cmg)
 - [How I Built an Automated Operational Analytics Pipeline from a Queue Management System](https://dev.to/monfortbrian_/how-i-built-an-automated-operational-analytics-pipeline-from-a-queue-management-system-ecc)
-- [Insurance Domain Agentic Mesh in Java: From Underwriting Rules to Claims Automation](https://dev.to/vishalmysore/insurance-domain-agentic-mesh-in-java-from-underwriting-rules-to-claims-automation-5d4i)
-- [The Eyes Have It: Closing the Agentic Design Loop](https://dev.to/ashmortar/the-eyes-have-it-closing-the-agentic-design-loop-3819)
-- [Untitled](https://dev.to/jorge_marcos_8da42826e787/untitled-29km)
-- [7 Quick Wins to Make Your GitHub Profile Stand Out Today](https://dev.to/adnan_arif_14ae4bc014267f/7-quick-wins-to-make-your-github-profile-stand-out-today-1do6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
