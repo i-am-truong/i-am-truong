@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to use API based providers for sending OTP in Node.js](https://dev.to/jahongir2007/how-to-use-api-based-providers-for-sending-otp-in-nodejs-5h3j)
-- [When Your Next.js App Just... Dies: The Sneaky Stack Overflow Bug That&#39;s Been Crashing Servers](https://dev.to/vasughanta09/when-your-nextjs-app-just-dies-the-sneaky-stack-overflow-bug-thats-been-crashing-servers-2moc)
-- [Determine Appropriate Data Security Controls](https://dev.to/aws-builders/determine-appropriate-data-security-controls-3e45)
-- [Why Your Browser Benchmark is Lying to You About AI Performance](https://dev.to/hoshiwarpsjs/why-your-browser-benchmark-is-lying-to-you-about-ai-performance-5gn2)
-- [Understanding Schemas and Data Modelling in Power BI](https://dev.to/nganga_njongo/understanding-schemas-and-data-modelling-in-power-bi-3odb)
+- [How to Create a Multi-AI Agent Lead Generation Automation System](https://dev.to/ciphernutz/how-to-create-a-multi-ai-agent-lead-generation-automation-system-2o9f)
+- [Your API Is Public by Default — Let’s Fix That](https://dev.to/frozenblood/your-api-is-public-by-default-lets-fix-that-550a)
+- [Turning Google Search into a Kafka Event Stream for Many Consumers](https://dev.to/prithwish_nath/turning-google-search-into-a-kafka-event-stream-for-many-consumers-362g)
+- [How I Built a Physical Kill-Switch for CI/CD Pipelines to Stop SolarWinds-Style Attacks](https://dev.to/ktamarapalli/how-i-built-a-physical-kill-switch-for-cicd-pipelines-to-stop-solarwinds-style-attacks-e9p)
+- [Setting Up Your First React Project with Vite and VS Code](https://dev.to/christal_riziki_62c4dd40f/setting-up-your-first-react-project-with-vite-and-vs-code-on0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
