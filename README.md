@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why My Fake Review Detector Doesn&#39;t Use Affiliate Links](https://dev.to/jollygoodapps/why-my-fake-review-detector-doesnt-use-affiliate-links-kh5)
-- [I Spent Over 9000 Hours Building a Tool to Save 5 Seconds of Right-Clicking](https://dev.to/warren_halderman_19a8d4d6/i-spent-over-9000-hours-building-a-tool-to-save-5-seconds-of-right-clicking-2dg5)
-- [Claude Code: Personal Practical Notes](https://dev.to/shusukedev/claude-code-personal-practical-notes-2o5h)
-- [Generating a Parametric SVG Logo with Pug](https://dev.to/bitifet/generating-a-parametric-svg-logo-with-pug-8m0)
-- [Data Migration Between Servers Using BTEQ Scripts in Informatica Cloud](https://dev.to/hira_12345/data-migration-between-servers-using-bteq-scripts-in-informatica-cloud-kdf)
+- [Bootstrapping a NestJS API for Personal Finance](https://dev.to/rubenoalvarado/bootstrapping-a-nestjs-api-for-personal-finance-14f7)
+- [When seeing is no longer believing and deepfakes changed the internet forever](https://dev.to/luisyanguas/when-seeing-is-no-longer-believing-and-deepfakes-changed-the-internet-forever-3nme)
+- [I Built an API-First URL Shortener You Can White-Label](https://dev.to/anand_rathnas_d5b608cc3de/i-built-an-api-first-url-shortener-you-can-white-label-1o7h)
+- [The Survival Code of the Crypto World: Invest with a Builder’s Mindset, Not a Gambler’s Eye](https://dev.to/apnews/the-survival-code-of-the-crypto-world-invest-with-a-builders-mindset-not-a-gamblers-eye-m5c)
+- [Unrealdev.nvim Update: Migration to Rust Server and MessagePack-RPC for High-Performance UE Development 2026/02/02](https://dev.to/taku25/unrealdevnvim-update-migration-to-rust-server-and-messagepack-rpc-for-high-performance-ue-2eo6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
