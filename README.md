@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Linux Fundamentals - Part 7: Bash Scripting &lpar;If Statements&rpar;](https://dev.to/kervie_sazon/linux-fundamentals-part-7-bash-scripting-if-statements-bfh)
-- [CLAUDE.md best practices - From Basic to Adaptive](https://dev.to/cleverhoods/claudemd-best-practices-from-basic-to-adaptive-9lm)
-- [What is hybrid developer?](https://dev.to/hydeveloper/what-is-hybrid-developer-3c8p)
-- [Show DEV: UtilityForge - 250+ Dev Tools Bundled into One Privacy-Focused App](https://dev.to/day2day_life_90ff21e1b7d2/show-dev-utilityforge-250-dev-tools-bundled-into-one-privacy-focused-app-4o4f)
-- [Building GDPR-Compliant AI Systems with Automatic Redaction](https://dev.to/rom_questaai_599bb894049/building-gdpr-compliant-ai-systems-with-automatic-redaction-194n)
+- [How DevOps Teams Use Status Aggregators to Cut Incident Response Time in Half](https://dev.to/shibley/how-devops-teams-use-status-aggregators-to-cut-incident-response-time-in-half-33di)
+- [Your AI Agent Can Run Python for Free. Here&#39;s How.](https://dev.to/raynan_wuyep_14a8b980c3d9/your-ai-agent-can-run-python-for-free-heres-how-1p5d)
+- [Building Privacy-First Applications: Why Developers Should Care About Temporary Email](https://dev.to/inael_rodrigues_2a45671f3/building-privacy-first-applications-why-developers-should-care-about-temporary-email-2246)
+- [Building Type-Safe Dynamic Forms with Angular Signal Forms](https://dev.to/antimprisacaru/building-type-safe-dynamic-forms-with-angular-signal-forms-5949)
+- [Stereo Matching Algorithms in MATLAB and Python](https://dev.to/apostbollas/stereo-matching-algorithms-in-matlab-and-python-58jb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
