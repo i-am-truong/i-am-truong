@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Change Data Capture with Debezium](https://dev.to/mohhddhassan/understanding-change-data-capture-with-debezium-34km)
-- [Docker для фронтенд- и бэк-разработчиков: практический гайд без DevOps-магии](https://dev.to/_vproger_/docker-dlia-frontiend-i-bek-razrabotchikov-praktichieskii-ghaid-biez-devops-maghii-3b2n)
-- [🚀 The Ultimate Guide to Setting Up GitHub SSH on Windows &lpar;Single &amp; Multiple Accounts&rpar;](https://dev.to/dev-arafat-alim/the-ultimate-guide-to-setting-up-github-ssh-on-windows-single-multiple-accounts-123m)
-- [The Moltbook Bubble: Inside the Surreal Rise of AI Social Media](https://dev.to/genieinfotech/the-moltbook-bubble-inside-the-surreal-rise-of-ai-social-media-55b4)
-- [Monkey AIslands - Part 1](https://dev.to/shredwheat/monkey-aislands-part-1-46fm)
+- [AfroIntroductions: An Honest Look at One of the Top African Dating Apps](https://dev.to/muzmatch/afrointroductions-an-honest-look-at-one-of-the-top-african-dating-apps-37ll)
+- [Understanding `useState` in React](https://dev.to/msnmongare/understanding-usestate-in-react-17l4)
+- [AI-Powered Content Management: Using MCP with AEM as a Cloud Service](https://dev.to/raghavajoijode/ai-powered-content-management-using-mcp-with-aem-as-a-cloud-service-5aje)
+- [Excellent Meetings in the AI Era: The Definitive Decalogue](https://dev.to/datalaria/excellent-meetings-in-the-ai-era-the-definitive-decalogue-24h4)
+- [Kubernetes Gateway API on EKS Exposed via ALB](https://dev.to/shanaka_jayasundera/kubernetes-gateway-api-on-eks-exposed-via-alb-1fka)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
