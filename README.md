@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Caffeinate your Mac to prevent it from sleeping](https://dev.to/nikola/caffeinate-your-mac-to-prevent-it-from-sleeping-4o7a)
-- [Incident response &amp; blameless post-mortems: writing better runbooks and SLO/SLI definitions](https://dev.to/sepehr/incident-response-blameless-post-mortems-writing-better-runbooks-and-slosli-definitions-2bbm)
-- [Mastering Spam Trap Avoidance on a Zero-Budget Linux Setup](https://dev.to/mohammad_waseem_c31f3a26f/mastering-spam-trap-avoidance-on-a-zero-budget-linux-setup-jd5)
-- [The Ultimate Immunefi Bug Bounty Guide: From Zero to First Submission](https://dev.to/ohmygod/the-ultimate-immunefi-bug-bounty-guide-from-zero-to-first-submission-373f)
-- [Your Ghostty Keybindings Are Broken &lpar;Here&#39;s the 60-Second Fix&rpar;](https://dev.to/jsonarso/your-ghostty-keybindings-are-broken-heres-the-60-second-fix-4kio)
+- [Backend API Optimization at Scale: Handling 100K+ Users with Node.js &amp; Express](https://dev.to/shalinee/backend-api-optimization-at-scale-handling-100k-users-with-nodejs-express-2ban)
+- [Try out OpenMetaData!](https://dev.to/eleni_patsiou_2a814e7f89d/try-out-openmetadata-4jja)
+- [Agentic AI Isn’t Thinking… It’s Guessing &lpar;Here’s the Fix&rpar;](https://dev.to/aiwithapex/agentic-ai-isnt-thinking-its-guessing-heres-the-fix-beb)
+- [Why most beginner portfolios don’t get interviews &lpar;and how to fix yours&rpar;](https://dev.to/giftintech/why-most-beginner-portfolios-dont-get-interviews-and-how-to-fix-yours-2dc2)
+- [How I Built an AI Agent That Handled 90% of Customer Requests Without Human Intervention](https://dev.to/santifer/how-i-built-an-ai-agent-that-handled-90-of-customer-requests-without-human-intervention-4pci)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
