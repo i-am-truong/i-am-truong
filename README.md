@@ -120,11 +120,13 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How DevOps Teams Use Status Aggregators to Cut Incident Response Time in Half](https://dev.to/shibley/how-devops-teams-use-status-aggregators-to-cut-incident-response-time-in-half-33di)
-- [Your AI Agent Can Run Python for Free. Here&#39;s How.](https://dev.to/raynan_wuyep_14a8b980c3d9/your-ai-agent-can-run-python-for-free-heres-how-1p5d)
-- [Building Privacy-First Applications: Why Developers Should Care About Temporary Email](https://dev.to/inael_rodrigues_2a45671f3/building-privacy-first-applications-why-developers-should-care-about-temporary-email-2246)
-- [Building Type-Safe Dynamic Forms with Angular Signal Forms](https://dev.to/antimprisacaru/building-type-safe-dynamic-forms-with-angular-signal-forms-5949)
-- [Stereo Matching Algorithms in MATLAB and Python](https://dev.to/apostbollas/stereo-matching-algorithms-in-matlab-and-python-58jb)
+- [Such a great tool
+
+https://github.com/kamranahmedse/git-standup](https://dev.to/ben/such-a-great-toolhttpsgithubcomkamranahmedsegit-standup-577c)
+- [UI Modifications Summary](https://dev.to/therealgabry/ui-modifications-summary-2k9c)
+- [Coffee, Code, and Junie: My Journey to 10x Productivity with JetBrains AI](https://dev.to/niranjannlc/coffee-code-and-junie-my-journey-to-10x-productivity-with-jetbrains-ai-27m4)
+- [How a Missing Trace Led Me to Build a Local Observability Stack](https://dev.to/lukaszgrochal/how-a-missing-trace-led-me-to-build-a-local-observability-stack-2b82)
+- [We Researched Hyperliquid’s Architecture — Here’s What Actually Stands Out](https://dev.to/rocknblock/we-researched-hyperliquids-architecture-heres-what-actually-stands-out-3568)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
