@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Complete Guide to Testing ChatGPT Apps](https://dev.to/abewheeler/the-complete-guide-to-testing-chatgpt-apps-2189)
-- [Deal Agent Forge: AI-Powered Tech Builder with Conversational Intelligence](https://dev.to/mohammed_thaha/deal-agent-forge-ai-powered-tech-builder-with-conversational-intelligence-1b2d)
-- [My No-BS Building Process](https://dev.to/diegodotta/my-no-bs-building-process-470d)
-- [Everybody Tests](https://dev.to/focused_dot_io/everybody-tests-126k)
-- [Simplifying macOS App Deployment with Xcode Cloud: A Developer&#39;s Guide](https://dev.to/biozal/simplifying-macos-app-deployment-with-xcode-cloud-a-developers-guide-2e6h)
+- [Ridge Regression vs Lasso Regression](https://dev.to/maureenmuthonihue/ridge-regression-vs-lasso-regression-108c)
+- [TypeScript or Tears](https://dev.to/nicolas_vbgh/typescript-or-tears-2ea5)
+- [Stop Streaming Plain Text: Unlock Interactive UIs with React Server Components](https://dev.to/programmingcentral/stop-streaming-plain-text-unlock-interactive-uis-with-react-server-components-3ie1)
+- [CRAM-Net: The Network that Thinks by Rewiring](https://dev.to/hejhdiss/cram-net-the-network-that-thinks-by-rewiring-22hb)
+- [Creating Hierarchical AI Assistant Contexts: Global vs. Project-Specific Configurations](https://dev.to/petere2103/creating-hierarchical-ai-assistant-contexts-global-vs-project-specific-configurations-1jga)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
