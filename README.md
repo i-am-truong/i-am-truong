@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Chatbots: Building Task-Driven Agentic Interfaces in Google Workspace with A2UI and Gemini](https://dev.to/gde/beyond-chatbots-building-task-driven-agentic-interfaces-in-google-workspace-with-a2ui-and-gemini-c2d)
-- [Save time, make money](https://dev.to/iamluisj/save-time-make-money-l14)
-- [Above the API: What Developers Contribute When AI Can Code](https://dev.to/dannwaneri/above-the-api-what-developers-contribute-when-ai-can-code-5025)
-- [🤖 Your AI Agent Just Joined a Social Network Without You &lpar;Meet Moltbook&rpar;](https://dev.to/siddhesh_surve/your-ai-agent-just-joined-a-social-network-without-you-meet-moltbook-268o)
-- [Digital Twin Technology for Comprehensive Aerospace Vehicle Lifecycle Management](https://dev.to/hightopo/digital-twin-technology-for-comprehensive-aerospace-vehicle-lifecycle-management-59pj)
+- [Understanding Change Data Capture with Debezium](https://dev.to/mohhddhassan/understanding-change-data-capture-with-debezium-34km)
+- [Docker для фронтенд- и бэк-разработчиков: практический гайд без DevOps-магии](https://dev.to/_vproger_/docker-dlia-frontiend-i-bek-razrabotchikov-praktichieskii-ghaid-biez-devops-maghii-3b2n)
+- [🚀 The Ultimate Guide to Setting Up GitHub SSH on Windows &lpar;Single &amp; Multiple Accounts&rpar;](https://dev.to/dev-arafat-alim/the-ultimate-guide-to-setting-up-github-ssh-on-windows-single-multiple-accounts-123m)
+- [The Moltbook Bubble: Inside the Surreal Rise of AI Social Media](https://dev.to/genieinfotech/the-moltbook-bubble-inside-the-surreal-rise-of-ai-social-media-55b4)
+- [Monkey AIslands - Part 1](https://dev.to/shredwheat/monkey-aislands-part-1-46fm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
