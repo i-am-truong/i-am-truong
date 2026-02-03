@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Rapidly Securing Test Environments: How a Security Researcher Used TypeScript to Prevent PII Leaks](https://dev.to/mohammad_waseem_c31f3a26f/rapidly-securing-test-environments-how-a-security-researcher-used-typescript-to-prevent-pii-leaks-2c1a)
-- [Engineering Beyond the Control Paradigm](https://dev.to/guitlle/engineering-beyond-the-control-paradigm-ci2)
-- [Rapid Deployment of Phishing Detection Pipelines in a DevOps Environment Under Tight Deadlines](https://dev.to/mohammad_waseem_c31f3a26f/rapid-deployment-of-phishing-detection-pipelines-in-a-devops-environment-under-tight-deadlines-2hd9)
-- [Bridging Worlds: Building a SIP-to-WebRTC Gateway with Python and Drachtio](https://dev.to/deepak_mishra_35863517037/bridging-worlds-building-a-sip-to-webrtc-gateway-with-python-and-drachtio-5668)
-- [Terminal Time Machine - Transform Your Git History Into Epic Stories 🕰️](https://dev.to/mayu2008/terminal-time-machine-transform-your-git-history-into-epic-stories-17ha)
+- [Simple Node.js Project Structure for Beginners](https://dev.to/luciano_brito_289ca39d287/simple-nodejs-project-structure-for-beginners-3bg7)
+- [SEO checklist for early startups](https://dev.to/leoalho/seo-checklist-for-early-startups-2ipn)
+- [Introducing XRest: A Service-First REST Client for Microservices Teams](https://dev.to/akdevblog/introducing-xrest-a-service-first-rest-client-for-microservices-teams-ffm)
+- [Using Puppeteer to Test WordPress Pages for Visual Regressions](https://dev.to/martijn_assie_12a2d3b1833/using-puppeteer-to-test-wordpress-pages-for-visual-regressions-137)
+- [From Zero to React App in Minutes Nizam Does It All](https://dev.to/ahmedabdalalim3a/from-zero-to-react-app-in-minutes-nizam-does-it-all-3o59)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
