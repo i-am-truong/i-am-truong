@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Foundry PoC: A Step-by-Step Guide for Bug Bounty Hunters](https://dev.to/ohmygod/building-a-foundry-poc-a-step-by-step-guide-for-bug-bounty-hunters-5ddo)
-- [Overcoming Geo-Blocked Feature Testing with Zero-Budget DevOps Strategies](https://dev.to/mohammad_waseem_c31f3a26f/overcoming-geo-blocked-feature-testing-with-zero-budget-devops-strategies-32kj)
-- [Beyond Uptime Monitoring: A Set-It-And-Forget-It Monitoring Stack for 50+ Client Forms](https://dev.to/nickunjchopra/beyond-uptime-monitoring-a-set-it-and-forget-it-monitoring-stack-for-50-client-forms-34go)
-- [How to Build a LangGraph Research Agent that Embeds Dynamic Charts via MCP Apps &lpar;CopilotKit &amp; Tako&rpar;](https://dev.to/copilotkit/how-to-build-a-langgraph-research-agent-that-embeds-dynamic-charts-via-mcp-apps-copilotkit-tako-3ihi)
-- [Running a Startup Killed My Ability to Pretend I Know Things](https://dev.to/mjlynch123/running-a-startup-killed-my-ability-to-pretend-i-know-things-5ghl)
+- [Caffeinate your Mac to prevent it from sleeping](https://dev.to/nikola/caffeinate-your-mac-to-prevent-it-from-sleeping-4o7a)
+- [Incident response &amp; blameless post-mortems: writing better runbooks and SLO/SLI definitions](https://dev.to/sepehr/incident-response-blameless-post-mortems-writing-better-runbooks-and-slosli-definitions-2bbm)
+- [Mastering Spam Trap Avoidance on a Zero-Budget Linux Setup](https://dev.to/mohammad_waseem_c31f3a26f/mastering-spam-trap-avoidance-on-a-zero-budget-linux-setup-jd5)
+- [The Ultimate Immunefi Bug Bounty Guide: From Zero to First Submission](https://dev.to/ohmygod/the-ultimate-immunefi-bug-bounty-guide-from-zero-to-first-submission-373f)
+- [Your Ghostty Keybindings Are Broken &lpar;Here&#39;s the 60-Second Fix&rpar;](https://dev.to/jsonarso/your-ghostty-keybindings-are-broken-heres-the-60-second-fix-4kio)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
