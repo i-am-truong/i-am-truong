@@ -120,13 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Such a great tool
-
-https://github.com/kamranahmedse/git-standup](https://dev.to/ben/such-a-great-toolhttpsgithubcomkamranahmedsegit-standup-577c)
-- [UI Modifications Summary](https://dev.to/therealgabry/ui-modifications-summary-2k9c)
-- [Coffee, Code, and Junie: My Journey to 10x Productivity with JetBrains AI](https://dev.to/niranjannlc/coffee-code-and-junie-my-journey-to-10x-productivity-with-jetbrains-ai-27m4)
-- [How a Missing Trace Led Me to Build a Local Observability Stack](https://dev.to/lukaszgrochal/how-a-missing-trace-led-me-to-build-a-local-observability-stack-2b82)
-- [We Researched Hyperliquid’s Architecture — Here’s What Actually Stands Out](https://dev.to/rocknblock/we-researched-hyperliquids-architecture-heres-what-actually-stands-out-3568)
+- [Unveiling the MEMORY-NATIVE-NEURAL-NETWORK &lpar;MNNN&rpar; Family: Rewriting AI&#39;s Approach to Memory](https://dev.to/hejhdiss/unveiling-the-memory-native-neural-network-mnnn-family-rewriting-ais-approach-to-memory-e0m)
+- [Build an Agentic Blog Generator with Pieces in Flutter](https://dev.to/getpieces/build-an-agentic-blog-generator-with-pieces-in-flutter-h3b)
+- [Overcoming IP Bans in Web Scraping with Rust: A DevOps Approach for Enterprise Scalability](https://dev.to/mohammad_waseem_c31f3a26f/overcoming-ip-bans-in-web-scraping-with-rust-a-devops-approach-for-enterprise-scalability-ehh)
+- [Schemas and Data Modelling in Power BI](https://dev.to/lawrence_murithi/schemas-and-data-modelling-in-power-bi-2ja6)
+- [Building a Containerized GenAI Chatbot with Docker, Ollama, FastAPI &amp; ChromaDB](https://dev.to/shailendra_khade_df763b45/building-a-containerized-genai-chatbot-with-docker-ollama-fastapi-chromadb-36c0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
