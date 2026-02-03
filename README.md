@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Rapidly Securing Test Environments: How a Security Researcher Used TypeScript to Prevent PII Leaks](https://dev.to/mohammad_waseem_c31f3a26f/rapidly-securing-test-environments-how-a-security-researcher-used-typescript-to-prevent-pii-leaks-2c1a)
+- [Engineering Beyond the Control Paradigm](https://dev.to/guitlle/engineering-beyond-the-control-paradigm-ci2)
+- [Rapid Deployment of Phishing Detection Pipelines in a DevOps Environment Under Tight Deadlines](https://dev.to/mohammad_waseem_c31f3a26f/rapid-deployment-of-phishing-detection-pipelines-in-a-devops-environment-under-tight-deadlines-2hd9)
+- [Bridging Worlds: Building a SIP-to-WebRTC Gateway with Python and Drachtio](https://dev.to/deepak_mishra_35863517037/bridging-worlds-building-a-sip-to-webrtc-gateway-with-python-and-drachtio-5668)
 - [Terminal Time Machine - Transform Your Git History Into Epic Stories 🕰️](https://dev.to/mayu2008/terminal-time-machine-transform-your-git-history-into-epic-stories-17ha)
-- [Cut LLM API costs with a decentralized inference network](https://dev.to/gonkagate_team/cut-llm-api-costs-with-a-decentralized-inference-network-5e15)
-- [React Compiler: Stop Manually Optimizing Your React Apps](https://dev.to/iamyuvaraj/react-compiler-stop-manually-optimizing-your-react-apps-5co4)
-- [Building Cross-platform Apps with OMIA Studio&#39;s Latest Power-Ups](https://dev.to/algure/building-cross-platform-apps-with-omia-studios-latest-power-ups-2b5c)
-- [Searcher of lyrics&#39;s musics](https://dev.to/fedrummond_/searcher-of-lyricss-musics-4k34)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
