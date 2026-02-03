@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Unveiling the MEMORY-NATIVE-NEURAL-NETWORK &lpar;MNNN&rpar; Family: Rewriting AI&#39;s Approach to Memory](https://dev.to/hejhdiss/unveiling-the-memory-native-neural-network-mnnn-family-rewriting-ais-approach-to-memory-e0m)
-- [Build an Agentic Blog Generator with Pieces in Flutter](https://dev.to/getpieces/build-an-agentic-blog-generator-with-pieces-in-flutter-h3b)
-- [Overcoming IP Bans in Web Scraping with Rust: A DevOps Approach for Enterprise Scalability](https://dev.to/mohammad_waseem_c31f3a26f/overcoming-ip-bans-in-web-scraping-with-rust-a-devops-approach-for-enterprise-scalability-ehh)
-- [Schemas and Data Modelling in Power BI](https://dev.to/lawrence_murithi/schemas-and-data-modelling-in-power-bi-2ja6)
-- [Building a Containerized GenAI Chatbot with Docker, Ollama, FastAPI &amp; ChromaDB](https://dev.to/shailendra_khade_df763b45/building-a-containerized-genai-chatbot-with-docker-ollama-fastapi-chromadb-36c0)
+- [Building a Foundry PoC: A Step-by-Step Guide for Bug Bounty Hunters](https://dev.to/ohmygod/building-a-foundry-poc-a-step-by-step-guide-for-bug-bounty-hunters-5ddo)
+- [Overcoming Geo-Blocked Feature Testing with Zero-Budget DevOps Strategies](https://dev.to/mohammad_waseem_c31f3a26f/overcoming-geo-blocked-feature-testing-with-zero-budget-devops-strategies-32kj)
+- [Beyond Uptime Monitoring: A Set-It-And-Forget-It Monitoring Stack for 50+ Client Forms](https://dev.to/nickunjchopra/beyond-uptime-monitoring-a-set-it-and-forget-it-monitoring-stack-for-50-client-forms-34go)
+- [How to Build a LangGraph Research Agent that Embeds Dynamic Charts via MCP Apps &lpar;CopilotKit &amp; Tako&rpar;](https://dev.to/copilotkit/how-to-build-a-langgraph-research-agent-that-embeds-dynamic-charts-via-mcp-apps-copilotkit-tako-3ihi)
+- [Running a Startup Killed My Ability to Pretend I Know Things](https://dev.to/mjlynch123/running-a-startup-killed-my-ability-to-pretend-i-know-things-5ghl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
