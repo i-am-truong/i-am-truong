@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Docling is a Game-Changer for RAG Systems](https://dev.to/simranshaikh20_50/docling-is-a-game-changer-for-rag-systems-2ce4)
-- [MCPfying Tools Securely at Scale with Bedrock AgentCore Gateway](https://dev.to/aws-builders/mcpfying-tools-securely-at-scale-with-bedrock-agentcore-gateway-e3d)
-- [Conditional Statement - if-else Statement](https://dev.to/nanthini_ammu_ac02ad32802/conditional-statement-if-else-statement-698)
-- [OpenAI’s new Codex Mac app is an agent “command center” &lpar;and it’s lighting up the devtool wars&rpar;](https://dev.to/sivarampg/openais-new-codex-mac-app-is-an-agent-command-center-and-its-lighting-up-the-devtool-wars-3aek)
-- [Is the Overnight Sensation OpenClaw a Game-Changer or a Ticking Time Bomb?](https://dev.to/platypus98/is-the-overnight-sensation-openclaw-a-game-changer-or-a-ticking-time-bomb-4fe6)
+- [Build a Tech Conference Schedule Table](https://dev.to/richardpascoe/build-a-tech-conference-schedule-table-50kk)
+- [Deploy a BrightSign Player in 10 Minutes with AI](https://dev.to/evanmorgan/deploy-a-brightsign-player-in-10-minutes-with-ai-5355)
+- [Building a Full-Stack Finance Tracker: My MERN Journey &lpar;Real Problems &amp; Fixes&rpar; 💰](https://dev.to/its_dev_/building-a-full-stack-finance-tracker-my-mern-journey-real-problems-fixes-24pb)
+- [NPR Music: Miguel: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-miguel-tiny-desk-concert-4nme)
+- [Sapienza University of Rome Crippled by Network-Wide Ransomware Attack](https://dev.to/beyondmachines/sapienza-university-of-rome-crippled-by-network-wide-ransomware-attack-2b1j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
