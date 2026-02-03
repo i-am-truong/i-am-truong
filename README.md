@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Bootstrapping a NestJS API for Personal Finance](https://dev.to/rubenoalvarado/bootstrapping-a-nestjs-api-for-personal-finance-14f7)
-- [When seeing is no longer believing and deepfakes changed the internet forever](https://dev.to/luisyanguas/when-seeing-is-no-longer-believing-and-deepfakes-changed-the-internet-forever-3nme)
-- [I Built an API-First URL Shortener You Can White-Label](https://dev.to/anand_rathnas_d5b608cc3de/i-built-an-api-first-url-shortener-you-can-white-label-1o7h)
-- [The Survival Code of the Crypto World: Invest with a Builder’s Mindset, Not a Gambler’s Eye](https://dev.to/apnews/the-survival-code-of-the-crypto-world-invest-with-a-builders-mindset-not-a-gamblers-eye-m5c)
-- [Unrealdev.nvim Update: Migration to Rust Server and MessagePack-RPC for High-Performance UE Development 2026/02/02](https://dev.to/taku25/unrealdevnvim-update-migration-to-rust-server-and-messagepack-rpc-for-high-performance-ue-2eo6)
+- [Streamlining Authentication Flow Testing with Rust and Open Source Tools](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-authentication-flow-testing-with-rust-and-open-source-tools-4peg)
+- [Rapid Deployment of Spam Trap Avoidance in Kubernetes: A Security Researcher&#39;s Guide](https://dev.to/mohammad_waseem_c31f3a26f/rapid-deployment-of-spam-trap-avoidance-in-kubernetes-a-security-researchers-guide-2lm9)
+- [Ringer Movies: Could ‘The Devil Wears Prada 2’ Actually Be … Good?](https://dev.to/popcorn_movies/ringer-movies-could-the-devil-wears-prada-2-actually-be-good-2i6e)
+- [Do You still think coding speed is the bottleneck?](https://dev.to/maptonik/do-you-think-coding-speed-is-a-bottleneck-51k4)
+- [I Built a Free Voice-to-Text Tool That Supports 55+ Languages published: true](https://dev.to/digitalwareshub/i-built-a-free-voice-to-text-tool-that-supports-55-languagespublished-true-25ma)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
