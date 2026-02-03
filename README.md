@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Ridge Regression vs Lasso Regression](https://dev.to/maureenmuthonihue/ridge-regression-vs-lasso-regression-108c)
-- [TypeScript or Tears](https://dev.to/nicolas_vbgh/typescript-or-tears-2ea5)
-- [Stop Streaming Plain Text: Unlock Interactive UIs with React Server Components](https://dev.to/programmingcentral/stop-streaming-plain-text-unlock-interactive-uis-with-react-server-components-3ie1)
-- [CRAM-Net: The Network that Thinks by Rewiring](https://dev.to/hejhdiss/cram-net-the-network-that-thinks-by-rewiring-22hb)
-- [Creating Hierarchical AI Assistant Contexts: Global vs. Project-Specific Configurations](https://dev.to/petere2103/creating-hierarchical-ai-assistant-contexts-global-vs-project-specific-configurations-1jga)
+- [Frontend Code organization, regardless of the stack in times of AI 🤖](https://dev.to/angelapy/frontend-code-organization-regardless-of-the-stack-in-times-of-ai-4c0i)
+- [Indie Dev &amp; First-Time Founder Guide: Register Your Startup in India &lpar;2026&rpar;](https://dev.to/0x0elliot/company-registration-primer-for-confused-indie-devsfirst-time-founders-58m9)
+- [Intent and Spec](https://dev.to/intoinside/intent-and-spec-ljm)
+- [The React Timer Trap: Refactoring a &quot;Simple&quot; Countdown from Buggy to Bulletproof](https://dev.to/orhalim/the-react-timer-trap-refactoring-a-simple-countdown-from-buggy-to-bulletproof-3ogj)
+- [Perspectives On Software Quality](https://dev.to/janvanryswyck/perspectives-on-software-quality-mm7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
