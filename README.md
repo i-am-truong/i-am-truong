@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [63 Q&amp;As from Watching Karpathy&#39;s LLM Tutorial Twice](https://dev.to/alexdesi/63-qas-from-watching-karpathys-llm-tutorial-twice-1pcl)
-- [Tackling Core Web Vitals on a Heavy React App](https://dev.to/leo_d/tackling-core-web-vitals-on-a-heavy-react-app-4d70)
-- [How B-Tree Indexes Work in SQL Databases: An Intuitive Guide](https://dev.to/ashraf_shaik_ee7ab42b0eb3/how-b-tree-indexes-work-in-sql-databases-an-intuitive-guide-3e71)
-- [Beyond the Standard Model :Introducing the &quot;Cousins&quot; of the Memory-Native Neural Network Family](https://dev.to/hejhdiss/beyond-the-standard-model-introducing-the-cousins-of-the-memory-native-neural-network-family-5emh)
-- [Next.js vs Vite: Choosing the Right Tool in 2026](https://dev.to/shadcndeck_dev/nextjs-vs-vite-choosing-the-right-tool-in-2026-38hp)
+- [The Complete Guide to Testing ChatGPT Apps](https://dev.to/abewheeler/the-complete-guide-to-testing-chatgpt-apps-2189)
+- [Deal Agent Forge: AI-Powered Tech Builder with Conversational Intelligence](https://dev.to/mohammed_thaha/deal-agent-forge-ai-powered-tech-builder-with-conversational-intelligence-1b2d)
+- [My No-BS Building Process](https://dev.to/diegodotta/my-no-bs-building-process-470d)
+- [Everybody Tests](https://dev.to/focused_dot_io/everybody-tests-126k)
+- [Simplifying macOS App Deployment with Xcode Cloud: A Developer&#39;s Guide](https://dev.to/biozal/simplifying-macos-app-deployment-with-xcode-cloud-a-developers-guide-2e6h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
