@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Simple Node.js Project Structure for Beginners](https://dev.to/luciano_brito_289ca39d287/simple-nodejs-project-structure-for-beginners-3bg7)
-- [SEO checklist for early startups](https://dev.to/leoalho/seo-checklist-for-early-startups-2ipn)
-- [Introducing XRest: A Service-First REST Client for Microservices Teams](https://dev.to/akdevblog/introducing-xrest-a-service-first-rest-client-for-microservices-teams-ffm)
-- [Using Puppeteer to Test WordPress Pages for Visual Regressions](https://dev.to/martijn_assie_12a2d3b1833/using-puppeteer-to-test-wordpress-pages-for-visual-regressions-137)
-- [From Zero to React App in Minutes Nizam Does It All](https://dev.to/ahmedabdalalim3a/from-zero-to-react-app-in-minutes-nizam-does-it-all-3o59)
+- [How I Built an Automated Operational Analytics Pipeline from a Queue Management System](https://dev.to/monfortbrian_/how-i-built-an-automated-operational-analytics-pipeline-from-a-queue-management-system-ecc)
+- [Insurance Domain Agentic Mesh in Java: From Underwriting Rules to Claims Automation](https://dev.to/vishalmysore/insurance-domain-agentic-mesh-in-java-from-underwriting-rules-to-claims-automation-5d4i)
+- [The Eyes Have It: Closing the Agentic Design Loop](https://dev.to/ashmortar/the-eyes-have-it-closing-the-agentic-design-loop-3819)
+- [Untitled](https://dev.to/jorge_marcos_8da42826e787/untitled-29km)
+- [7 Quick Wins to Make Your GitHub Profile Stand Out Today](https://dev.to/adnan_arif_14ae4bc014267f/7-quick-wins-to-make-your-github-profile-stand-out-today-1do6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
