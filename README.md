@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AfroIntroductions: An Honest Look at One of the Top African Dating Apps](https://dev.to/muzmatch/afrointroductions-an-honest-look-at-one-of-the-top-african-dating-apps-37ll)
-- [Understanding `useState` in React](https://dev.to/msnmongare/understanding-usestate-in-react-17l4)
-- [AI-Powered Content Management: Using MCP with AEM as a Cloud Service](https://dev.to/raghavajoijode/ai-powered-content-management-using-mcp-with-aem-as-a-cloud-service-5aje)
-- [Excellent Meetings in the AI Era: The Definitive Decalogue](https://dev.to/datalaria/excellent-meetings-in-the-ai-era-the-definitive-decalogue-24h4)
-- [Kubernetes Gateway API on EKS Exposed via ALB](https://dev.to/shanaka_jayasundera/kubernetes-gateway-api-on-eks-exposed-via-alb-1fka)
+- [This Blender Trick Saved Me from Manual Duplication](https://dev.to/dinesh_04/this-blender-trick-saved-me-from-manual-duplication-10fb)
+- [Introduction to serializers in Django Rest Framework &lpar;DRF&rpar; Part 1](https://dev.to/prabodh_tuladhar/introduction-to-serializers-in-django-rest-framework-drf-part-1-4bbg)
+- [I Replaced $100/Month in SaaS Tools With a $5 VPS](https://dev.to/sst21/i-replaced-100month-in-saas-tools-with-a-5-vps-1gk)
+- [Semantic Caching for RubyLLM: Cut Your AI Costs by 70%](https://dev.to/stokry/semantic-caching-for-rubyllm-cut-your-ai-costs-by-70-2ibn)
+- [Contract Upgradeability: How to Build Protocols That Can Evolve Without Losing Trust](https://dev.to/ribhavmodi/contract-upgradeability-how-to-build-protocols-that-can-evolve-without-losing-trust-3lo0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
