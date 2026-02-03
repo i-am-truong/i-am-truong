@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Build a Tech Conference Schedule Table](https://dev.to/richardpascoe/build-a-tech-conference-schedule-table-50kk)
-- [Deploy a BrightSign Player in 10 Minutes with AI](https://dev.to/evanmorgan/deploy-a-brightsign-player-in-10-minutes-with-ai-5355)
-- [Building a Full-Stack Finance Tracker: My MERN Journey &lpar;Real Problems &amp; Fixes&rpar; 💰](https://dev.to/its_dev_/building-a-full-stack-finance-tracker-my-mern-journey-real-problems-fixes-24pb)
-- [NPR Music: Miguel: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-miguel-tiny-desk-concert-4nme)
-- [Sapienza University of Rome Crippled by Network-Wide Ransomware Attack](https://dev.to/beyondmachines/sapienza-university-of-rome-crippled-by-network-wide-ransomware-attack-2b1j)
+- [The AI Scraping Arms Race: Protecting Visual Assets on the Dynamic Web](https://dev.to/rpi1337/the-ai-scraping-arms-race-protecting-visual-assets-on-the-dynamic-web-3lm1)
+- [I got tired of setting up React projects — so I built this starter](https://dev.to/renato_silva_71eef0fc385f/i-got-tired-of-setting-up-react-projects-so-i-built-this-starter-2n8l)
+- [Designing agentic workflows: a practical example](https://dev.to/danielbutlerirl/designing-agentic-workflows-a-practical-example-291j)
+- [How to decode any polymarket trading bot strategy ?](https://dev.to/voren_tai_24467d3051ef996/how-to-decode-any-polymarket-trading-bot-strategy--1k7b)
+- [A Simple Way to Debug SwiftUI Layout Issues](https://dev.to/arshtechpro/a-simple-way-to-debug-swiftui-layout-issues-1gn9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
