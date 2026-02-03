@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [This Blender Trick Saved Me from Manual Duplication](https://dev.to/dinesh_04/this-blender-trick-saved-me-from-manual-duplication-10fb)
-- [Introduction to serializers in Django Rest Framework &lpar;DRF&rpar; Part 1](https://dev.to/prabodh_tuladhar/introduction-to-serializers-in-django-rest-framework-drf-part-1-4bbg)
-- [I Replaced $100/Month in SaaS Tools With a $5 VPS](https://dev.to/sst21/i-replaced-100month-in-saas-tools-with-a-5-vps-1gk)
-- [Semantic Caching for RubyLLM: Cut Your AI Costs by 70%](https://dev.to/stokry/semantic-caching-for-rubyllm-cut-your-ai-costs-by-70-2ibn)
-- [Contract Upgradeability: How to Build Protocols That Can Evolve Without Losing Trust](https://dev.to/ribhavmodi/contract-upgradeability-how-to-build-protocols-that-can-evolve-without-losing-trust-3lo0)
+- [How to use API based providers for sending OTP in Node.js](https://dev.to/jahongir2007/how-to-use-api-based-providers-for-sending-otp-in-nodejs-5h3j)
+- [When Your Next.js App Just... Dies: The Sneaky Stack Overflow Bug That&#39;s Been Crashing Servers](https://dev.to/vasughanta09/when-your-nextjs-app-just-dies-the-sneaky-stack-overflow-bug-thats-been-crashing-servers-2moc)
+- [Determine Appropriate Data Security Controls](https://dev.to/aws-builders/determine-appropriate-data-security-controls-3e45)
+- [Why Your Browser Benchmark is Lying to You About AI Performance](https://dev.to/hoshiwarpsjs/why-your-browser-benchmark-is-lying-to-you-about-ai-performance-5gn2)
+- [Understanding Schemas and Data Modelling in Power BI](https://dev.to/nganga_njongo/understanding-schemas-and-data-modelling-in-power-bi-3odb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
