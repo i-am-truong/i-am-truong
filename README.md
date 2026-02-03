@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Your App Feels Slow &lpar;And How Optimistic Updates Fix It&rpar;](https://dev.to/hassantayyab/why-your-app-feels-slow-and-how-optimistic-updates-fix-it-18m9)
-- [From Discord Voice to Meeting Minutes: Local Transcription + Telegram/Slack Delivery](https://dev.to/tox3d/from-discord-voice-to-meeting-minutes-local-transcription-telegramslack-delivery-15dj)
-- [Streamlining Test Account Management in Enterprises with Kubernetes Automation](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-test-account-management-in-enterprises-with-kubernetes-automation-9k6)
-- [Learning Python: The trenches](https://dev.to/sandra_manyarkiy_f655833a/learning-python-my-experience-420j)
-- [Building My Developer Portfolio: A Journey from Passion to Production](https://dev.to/mahendra_nagpure/building-my-developer-portfolio-a-journey-from-passion-to-production-51k0)
+- [Terminal Time Machine - Transform Your Git History Into Epic Stories 🕰️](https://dev.to/mayu2008/terminal-time-machine-transform-your-git-history-into-epic-stories-17ha)
+- [Cut LLM API costs with a decentralized inference network](https://dev.to/gonkagate_team/cut-llm-api-costs-with-a-decentralized-inference-network-5e15)
+- [React Compiler: Stop Manually Optimizing Your React Apps](https://dev.to/iamyuvaraj/react-compiler-stop-manually-optimizing-your-react-apps-5co4)
+- [Building Cross-platform Apps with OMIA Studio&#39;s Latest Power-Ups](https://dev.to/algure/building-cross-platform-apps-with-omia-studios-latest-power-ups-2b5c)
+- [Searcher of lyrics&#39;s musics](https://dev.to/fedrummond_/searcher-of-lyricss-musics-4k34)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
