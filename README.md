@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Streamlining Authentication Flow Testing with Rust and Open Source Tools](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-authentication-flow-testing-with-rust-and-open-source-tools-4peg)
-- [Rapid Deployment of Spam Trap Avoidance in Kubernetes: A Security Researcher&#39;s Guide](https://dev.to/mohammad_waseem_c31f3a26f/rapid-deployment-of-spam-trap-avoidance-in-kubernetes-a-security-researchers-guide-2lm9)
-- [Ringer Movies: Could ‘The Devil Wears Prada 2’ Actually Be … Good?](https://dev.to/popcorn_movies/ringer-movies-could-the-devil-wears-prada-2-actually-be-good-2i6e)
-- [Do You still think coding speed is the bottleneck?](https://dev.to/maptonik/do-you-think-coding-speed-is-a-bottleneck-51k4)
-- [I Built a Free Voice-to-Text Tool That Supports 55+ Languages published: true](https://dev.to/digitalwareshub/i-built-a-free-voice-to-text-tool-that-supports-55-languagespublished-true-25ma)
+- [Beyond Chatbots: Building Task-Driven Agentic Interfaces in Google Workspace with A2UI and Gemini](https://dev.to/gde/beyond-chatbots-building-task-driven-agentic-interfaces-in-google-workspace-with-a2ui-and-gemini-c2d)
+- [Save time, make money](https://dev.to/iamluisj/save-time-make-money-l14)
+- [Above the API: What Developers Contribute When AI Can Code](https://dev.to/dannwaneri/above-the-api-what-developers-contribute-when-ai-can-code-5025)
+- [🤖 Your AI Agent Just Joined a Social Network Without You &lpar;Meet Moltbook&rpar;](https://dev.to/siddhesh_surve/your-ai-agent-just-joined-a-social-network-without-you-meet-moltbook-268o)
+- [Digital Twin Technology for Comprehensive Aerospace Vehicle Lifecycle Management](https://dev.to/hightopo/digital-twin-technology-for-comprehensive-aerospace-vehicle-lifecycle-management-59pj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
