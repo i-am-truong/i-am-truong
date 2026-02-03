@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Multi-AI Agent Lead Generation Automation System](https://dev.to/ciphernutz/how-to-create-a-multi-ai-agent-lead-generation-automation-system-2o9f)
-- [Your API Is Public by Default — Let’s Fix That](https://dev.to/frozenblood/your-api-is-public-by-default-lets-fix-that-550a)
-- [Turning Google Search into a Kafka Event Stream for Many Consumers](https://dev.to/prithwish_nath/turning-google-search-into-a-kafka-event-stream-for-many-consumers-362g)
-- [How I Built a Physical Kill-Switch for CI/CD Pipelines to Stop SolarWinds-Style Attacks](https://dev.to/ktamarapalli/how-i-built-a-physical-kill-switch-for-cicd-pipelines-to-stop-solarwinds-style-attacks-e9p)
-- [Setting Up Your First React Project with Vite and VS Code](https://dev.to/christal_riziki_62c4dd40f/setting-up-your-first-react-project-with-vite-and-vs-code-on0)
+- [Docling is a Game-Changer for RAG Systems](https://dev.to/simranshaikh20_50/docling-is-a-game-changer-for-rag-systems-2ce4)
+- [MCPfying Tools Securely at Scale with Bedrock AgentCore Gateway](https://dev.to/aws-builders/mcpfying-tools-securely-at-scale-with-bedrock-agentcore-gateway-e3d)
+- [Conditional Statement - if-else Statement](https://dev.to/nanthini_ammu_ac02ad32802/conditional-statement-if-else-statement-698)
+- [OpenAI’s new Codex Mac app is an agent “command center” &lpar;and it’s lighting up the devtool wars&rpar;](https://dev.to/sivarampg/openais-new-codex-mac-app-is-an-agent-command-center-and-its-lighting-up-the-devtool-wars-3aek)
+- [Is the Overnight Sensation OpenClaw a Game-Changer or a Ticking Time Bomb?](https://dev.to/platypus98/is-the-overnight-sensation-openclaw-a-game-changer-or-a-ticking-time-bomb-4fe6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
