@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Frontend Code organization, regardless of the stack in times of AI 🤖](https://dev.to/angelapy/frontend-code-organization-regardless-of-the-stack-in-times-of-ai-4c0i)
-- [Indie Dev &amp; First-Time Founder Guide: Register Your Startup in India &lpar;2026&rpar;](https://dev.to/0x0elliot/company-registration-primer-for-confused-indie-devsfirst-time-founders-58m9)
-- [Intent and Spec](https://dev.to/intoinside/intent-and-spec-ljm)
-- [The React Timer Trap: Refactoring a &quot;Simple&quot; Countdown from Buggy to Bulletproof](https://dev.to/orhalim/the-react-timer-trap-refactoring-a-simple-countdown-from-buggy-to-bulletproof-3ogj)
-- [Perspectives On Software Quality](https://dev.to/janvanryswyck/perspectives-on-software-quality-mm7)
+- [Why Your App Feels Slow &lpar;And How Optimistic Updates Fix It&rpar;](https://dev.to/hassantayyab/why-your-app-feels-slow-and-how-optimistic-updates-fix-it-18m9)
+- [From Discord Voice to Meeting Minutes: Local Transcription + Telegram/Slack Delivery](https://dev.to/tox3d/from-discord-voice-to-meeting-minutes-local-transcription-telegramslack-delivery-15dj)
+- [Streamlining Test Account Management in Enterprises with Kubernetes Automation](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-test-account-management-in-enterprises-with-kubernetes-automation-9k6)
+- [Learning Python: The trenches](https://dev.to/sandra_manyarkiy_f655833a/learning-python-my-experience-420j)
+- [Building My Developer Portfolio: A Journey from Passion to Production](https://dev.to/mahendra_nagpure/building-my-developer-portfolio-a-journey-from-passion-to-production-51k0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
