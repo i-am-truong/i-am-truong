@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CLI tool for pulling historical Binance OHLCV data for backtesting](https://dev.to/ksi/cli-tool-for-pulling-historical-binance-ohlcv-data-for-backtesting-4oi5)
-- [Kubernetes Deep Dive: Kubelet](https://dev.to/kanywst/kubernetes-deep-dive-kubelet-2h8k)
-- [It’s time for the 2025—2026 Annual Apache CouchDB User Survey!](https://dev.to/moremaddy/its-time-for-the-2025-2026-annual-apache-couchdb-user-survey-2l2g)
-- [Java Notes](https://dev.to/david_titilayo_c2329e7441/java-notes-51p)
-- [Apache Data Lakehouse Weekly: January 27 - February 2, 2026](https://dev.to/alexmercedcoder/apache-data-lakehouse-weekly-january-27-february-2-2026-4o43)
+- [We Made Coding Agents Actually Reliable By Fixing One Thing](https://dev.to/epilot/we-made-coding-agents-actually-reliable-by-fixing-one-thing-525b)
+- [OWASP Top 10 &lpar;2025&rpar; and AWS WAF: Putting Managed Rules in Context](https://dev.to/aws-builders/owasp-top-10-2025-and-aws-waf-putting-managed-rules-in-context-586c)
+- [Introducing Umbraco CMS Backoffice Agent Skills](https://dev.to/phil-whittaker/introducing-umbraco-cms-backoffice-agent-skills-1emo)
+- [Securing Test Environments: Preventing PII Leakage with Open Source Linux Tools](https://dev.to/mohammad_waseem_c31f3a26f/securing-test-environments-preventing-pii-leakage-with-open-source-linux-tools-1c8)
+- [Cookies Explained — How They Work &amp; Header-Based Auth vs Cookie-Based Auth](https://dev.to/jps27cse/cookies-explained-how-they-work-header-based-auth-vs-cookie-based-auth-530o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
