@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Docker como blindaje: estrategias para contener y desplegar sistemas legacy sin riesgos](https://dev.to/draexx/docker-como-blindaje-estrategias-para-contener-y-desplegar-sistemas-legacy-sin-riesgos-3jpb)
+- [Seamless Dev Environment Isolation During High Traffic Events with React and DevOps Strategies](https://dev.to/mohammad_waseem_c31f3a26f/seamless-dev-environment-isolation-during-high-traffic-events-with-react-and-devops-strategies-7b9)
+- [From 400-Line Import Controllers to 20-Line Configs in Laravel](https://dev.to/zappzerapp/from-400-line-import-controllers-to-20-line-configs-in-laravel-p99)
 - [DPDPA will kick our asses, We need this checklist](https://dev.to/0x0elliot/dpdpa-will-kick-your-ass-you-need-this-checklist-2am8)
 - [The Build-to-Learn Framework: How a Near-Disaster Taught Me to Learn in Public](https://dev.to/rivadaviam/the-build-to-learn-framework-how-a-near-disaster-taught-me-to-learn-in-public-c2e)
-- [LGTM != Production Ready: Why your CI pipeline is missing the most important step](https://dev.to/chuanjin/lgtm-production-ready-why-your-ci-pipeline-is-missing-the-most-important-step-1kok)
-- [Doc Mirages](https://dev.to/lizmat/doc-mirages-1aj9)
-- [Beyond Vulnerability Scanning, How SBOM Diff Exposes Shadow Dependencies in Your Supply Chain](https://dev.to/rezmoss/beyond-vulnerability-scanning-how-sbom-diff-exposes-shadow-dependencies-in-your-supply-chain-1m6k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
