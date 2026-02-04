@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Game-Changer Breaking Data Lake&#39;s Impossible Triangle](https://dev.to/esproc_spl/the-game-changer-breaking-data-lakes-impossible-triangle-c1c)
-- [Schemas and Data Modelling in Power BI](https://dev.to/igunza_george_37c8fef5b54/schemas-and-data-modelling-in-power-bi-1e55)
-- [What is WCAG for PDF](https://dev.to/katash/what-is-wcag-for-pdf-49hd)
-- [Generate SM2 Key Pair Using Key Parameters for Encryption and Decryption](https://dev.to/harmonyos/generate-sm2-key-pair-using-key-parameters-for-encryption-and-decryption-4519)
-- [How I Found $300,000 Worth of Secrets in a Download Button](https://dev.to/copyleftdev/how-i-found-300000-worth-of-secrets-in-a-download-button-1j13)
+- [I Made My AI Agent Hire Another AI Agent &lpar;Here&#39;s the Code&rpar;](https://dev.to/lilyevesinclair/i-made-my-ai-agent-hire-another-ai-agent-heres-the-code-3ld6)
+- [How To Scale Flutter Apps: Top Tips and Strategy](https://dev.to/varsha_ojha_5b45cb023937b/how-to-scale-flutter-apps-top-tips-and-strategy-2o0e)
+- [Claude Sonnet 5 Fennec Just Leaked — Here&#39;s What We Know](https://dev.to/ryancwynar/claude-sonnet-5-fennec-just-leaked-heres-what-we-know-44oa)
+- [Mastering Concurrency: Symfony 7.4 Lock Component Best Practices](https://dev.to/mattleads/mastering-concurrency-symfony-74-lock-component-best-practices-306k)
+- [Tech Careers: 2020 vs 2025 vs 2030](https://dev.to/web_dev-usman/tech-careers-2020-vs-2025-vs-2030-3fia)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
