@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Hire Juniors. Here&#39;s Why I Reject 90% in the First 5 Minutes.](https://dev.to/kirill_tolmachev/i-hire-juniors-heres-why-i-reject-90-in-the-first-5-minutes-53l4)
-- [Securing Test Environments: Mitigating Leaking PII in Node.js Microservices](https://dev.to/mohammad_waseem_c31f3a26f/securing-test-environments-mitigating-leaking-pii-in-nodejs-microservices-3pme)
-- [I brought C++23 to Windows 95 because Microsoft told me my PC was too old](https://dev.to/jordancpp/c23-modern-warfare-hijacking-the-hospital-and-rewriting-runtimes-for-windows-95-1d82)
-- [Introduction to Java](https://dev.to/olusegun_oyetade/introduction-to-java-5dpm)
-- [Basics &amp; History of Linux](https://dev.to/amrendrasingh/basics-history-of-linux-50k1)
+- [Why did no one tell me how amazing Git Bisect was](https://dev.to/amandamayfield/why-did-no-one-tell-me-how-amazing-git-bisect-was-32ll)
+- [A verdade oculta por trás do Serverless](https://dev.to/giarmani/a-verdade-oculta-por-tras-do-serverless-55f7)
+- [Music Is Memory With a Rhythm](https://dev.to/sergueyasaelshinder/music-is-memory-with-a-rhythm-4l5p)
+- [CI-Embedded Security](https://dev.to/nicolas_vbgh/ci-embedded-security-439a)
+- [[Boost]](https://dev.to/shriji/-bbb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
