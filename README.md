@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [When Cloudflare Goes Down, Half the Internet Goes With It](https://dev.to/shibley/when-cloudflare-goes-down-half-the-internet-goes-with-it-952)
-- [Kilo Code Weekly Product Roundup](https://dev.to/kilocode/kilo-code-weekly-product-roundup-4b6f)
-- [AI Disruption Fears Shake Software Stocks Again: What Jim Cramer’s Strategy Signals for Tech](https://dev.to/ailoitte_sk/ai-disruption-fears-shake-software-stocks-again-what-jim-cramers-strategy-signals-for-tech-38oa)
-- [Assimp: Experimental Rust bindings](https://dev.to/kimkulling/assimp-experimental-rust-bindings-4k5f)
-- [Kubernetes Gateway API Versions: Complete Compatibility and Upgrade Guide](https://dev.to/alexandrev/kubernetes-gateway-api-versions-complete-compatibility-and-upgrade-guide-36do)
+- [Bypassing the Great Firewall in 2026: Active Filtering &amp; Protocol Obfuscation](https://dev.to/mint_tea_592935ca2745ae07/bypassing-the-great-firewall-in-2026-active-filtering-protocol-obfuscation-37oj)
+- [Why We Ditched WordPress and Built 100+ Websites with Next.js](https://dev.to/web_lyx_0c6e883dc512c1702/why-we-ditched-wordpress-and-built-100-websites-with-nextjs-44ba)
+- [From Matrix to Model: When Is It Finally Safe to Train ML?](https://dev.to/yurii_lozinskyi/from-matrix-to-model-when-is-it-finally-safe-to-train-ml-46o3)
+- [Build Your Own ChatGPT App &lpar;Run It Locally&rpar;](https://dev.to/javz/build-your-own-chatgpt-app-run-it-locally-2ehp)
+- [Why Network Reliability Can’t Be Solved with Alerts, Dashboards, or Runbooks](https://dev.to/james_carter_106df70cba25/why-network-reliability-cant-be-solved-with-alerts-dashboards-or-runbooks-ghc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
