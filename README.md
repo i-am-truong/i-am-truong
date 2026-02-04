@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Human-Like AI Outbound Calling Agent at ~$0.01/Minute - part 1](https://dev.to/james920609/building-a-human-like-ai-outbound-calling-agent-at-001minute-6ci)
-- [Pascoe Is Right—And Here&#39;s What That Proves About Governance](https://dev.to/narnaiezzsshaa/pascoe-is-right-and-heres-what-that-proves-about-governance-k32)
-- [React 19 use&lpar;&rpar; Hook Deep Dive: The Game-Changer for Data Fetching](https://dev.to/pockit_tools/react-19-use-hook-deep-dive-the-game-changer-for-data-fetching-53fi)
-- [How Web Apps Like Midday Gain a Competitive Edge with Supabase and MindsDB](https://dev.to/mindsdb/how-web-apps-like-midday-gain-a-competitive-edge-with-supabase-and-mindsdb-4aoi)
-- [🌐 HTTP: WTF?! — Weird Facts About the Web’s Backbone](https://dev.to/ml318097/http-wtf-weird-facts-about-the-webs-backbone-29kn)
+- [Mapbox X Wix](https://dev.to/mapbox/mapbox-x-wix-44j5)
+- [If our tables could predict the future?](https://dev.to/vigneshwaralingam/if-our-tables-could-predict-the-future-1981)
+- [I ran Gemma 3 12B for a week and ditched $200/month AI subscriptions - here&#39;s what happened](https://dev.to/azizme/i-ran-gemma-3-12b-for-a-week-and-ditched-200month-ai-subscriptions-heres-what-happened-4e8e)
+- [LeetCode #1458.Max Dot Product of Two Subsequences](https://dev.to/hectorw_tt/leetcode-1458max-dot-product-of-two-subsequences-56lb)
+- [Move Zeroes — Understanding the Read &amp; Write Pointer Pattern &lpar;C++&rpar;](https://dev.to/nithya_dharshiniofficial/move-zeroes-understanding-the-read-write-pointer-pattern-c-45o1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
