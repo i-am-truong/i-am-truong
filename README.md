@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mapbox X Wix](https://dev.to/mapbox/mapbox-x-wix-44j5)
-- [If our tables could predict the future?](https://dev.to/vigneshwaralingam/if-our-tables-could-predict-the-future-1981)
-- [I ran Gemma 3 12B for a week and ditched $200/month AI subscriptions - here&#39;s what happened](https://dev.to/azizme/i-ran-gemma-3-12b-for-a-week-and-ditched-200month-ai-subscriptions-heres-what-happened-4e8e)
-- [LeetCode #1458.Max Dot Product of Two Subsequences](https://dev.to/hectorw_tt/leetcode-1458max-dot-product-of-two-subsequences-56lb)
-- [Move Zeroes — Understanding the Read &amp; Write Pointer Pattern &lpar;C++&rpar;](https://dev.to/nithya_dharshiniofficial/move-zeroes-understanding-the-read-write-pointer-pattern-c-45o1)
+- [The Forbidden Fruit Has Already Been Bitten](https://dev.to/olegchir/the-forbidden-fruit-has-already-been-bitten-1p9p)
+- [Defer vs Immediate Reactive Flow Creation &lpar;and why your Circuit Breaker can “decide too early”&rpar;](https://dev.to/jairo-dev-jr/defer-vs-immediate-reactive-flow-creation-and-why-your-circuit-breaker-can-decide-too-early-3bll)
+- [Meu Homelab](https://dev.to/ferradas/meu-homelab-11e1)
+- [Rebuilding My Static Blog with Build-Time Data and Instant Search](https://dev.to/ravgeetdhillon/rebuilding-my-static-blog-with-build-time-data-and-instant-search-16db)
+- [Building a Production-Grade AWS 3-Tier Java Application &lpar;Hands-On&rpar;](https://dev.to/dipakprasad22/building-a-production-grade-aws-3-tier-java-application-hands-on-19o1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
