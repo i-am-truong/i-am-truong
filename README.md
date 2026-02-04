@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Running DNS Is Easy. Trusting It Is Not.](https://dev.to/sidbathi/running-dns-is-easy-trusting-it-is-not-52g5)
-- [Retro-imprimiendo](https://dev.to/baltasarq/retro-imprimiendo-5766)
-- [I Thought Apple Watch Wallpapers Were Simple. I Was Wrong.](https://dev.to/evgenii_konkin/i-thought-apple-watch-wallpapers-were-simple-i-was-wrong-1k9c)
-- [por quê?](https://dev.to/antjjoao/por-que-4a77)
-- [The First Big Mistake: Thinking Software Engineering Is Just Coding](https://dev.to/msnmongare/the-first-big-mistake-thinking-software-engineering-is-just-coding-490d)
+- [Mastering Data Sanitization in Legacy React Applications: A Lead QA Engineer&#39;s Approach](https://dev.to/bishoy_semsem/mastering-data-sanitization-in-legacy-react-applications-a-lead-qa-engineers-approach-5aep)
+- [Hello Everyone!](https://dev.to/joan_ifezue_90fa2ed6fed55/hello-everyone-p5d)
+- [Multi-head Latent Attention &lpar;MLA&rpar; — Review](https://dev.to/seahjs/multi-head-latent-attention-mla-review-4jbm)
+- [Building a Free, Multi-User Telegram Bot: When Infrastructure Constraints Drive Architecture](https://dev.to/akandee_/building-a-free-multi-user-telegram-bot-when-infrastructure-constraints-drive-architecture-4cpp)
+- [YourGPT Just Open-Sourced a Copilot SDK for Building Context-Aware AI Inside SaaS Products](https://dev.to/ruixiao/yourgpt-just-open-sourced-a-copilot-sdk-for-building-context-aware-ai-inside-saas-products-485l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
