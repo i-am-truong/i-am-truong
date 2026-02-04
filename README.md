@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Data Sanitization in Legacy React Applications: A Lead QA Engineer&#39;s Approach](https://dev.to/bishoy_semsem/mastering-data-sanitization-in-legacy-react-applications-a-lead-qa-engineers-approach-5aep)
-- [Hello Everyone!](https://dev.to/joan_ifezue_90fa2ed6fed55/hello-everyone-p5d)
-- [Multi-head Latent Attention &lpar;MLA&rpar; — Review](https://dev.to/seahjs/multi-head-latent-attention-mla-review-4jbm)
-- [Building a Free, Multi-User Telegram Bot: When Infrastructure Constraints Drive Architecture](https://dev.to/akandee_/building-a-free-multi-user-telegram-bot-when-infrastructure-constraints-drive-architecture-4cpp)
-- [YourGPT Just Open-Sourced a Copilot SDK for Building Context-Aware AI Inside SaaS Products](https://dev.to/ruixiao/yourgpt-just-open-sourced-a-copilot-sdk-for-building-context-aware-ai-inside-saas-products-485l)
+- [Your LLM Provider Just Went Down. Here&#39;s How to Stay Online.](https://dev.to/debmckinney/your-llm-provider-just-went-down-heres-how-to-stay-online-5d9i)
+- [Automatic Failover When Your Primary LLM Provider Goes Down](https://dev.to/pranay_batta/automatic-failover-when-your-primary-llm-provider-goes-down-1p4o)
+- [Self-Hosting OpenClaw AI Assistant on a VPS with Tailscale VPN &lpar;Zero Public Ports&rpar;](https://dev.to/nunc/self-hosting-openclaw-ai-assistant-on-a-vps-with-tailscale-vpn-zero-public-ports-35fn)
+- [Building a Living Firewall: A Vaccine Model for Cybersecurity](https://dev.to/jimbobtim1992/building-a-living-firewall-a-vaccine-model-for-cybersecurity-4k3o)
+- [Why React Native 0.83 is the Best Upgrade of 2026 &lpar;So Far&rpar; 🚀](https://dev.to/ayushbharadva/why-react-native-083-is-the-best-upgrade-of-2026-so-far-2gon)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
