@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Designing an Authentication System: OAuth and SSO](https://dev.to/matt_frank_usa/designing-an-authentication-system-oauth-and-sso-gf7)
-- [Launch of my devlog](https://dev.to/freeboardtortoise/launch-of-my-devlog-3jmj)
-- [Designing TikTok: Short Video Platform Architecture](https://dev.to/matt_frank_usa/designing-tiktok-short-video-platform-architecture-401m)
-- [Digital Archaeology: Resurrecting GTK 1.3 for MSVC 2022](https://dev.to/jordancpp/digital-archaeology-resurrecting-gtk-13-for-msvc-2022-3o)
-- [Introducing gdpr-safe-rag: Build GDPR-Compliant RAG Systems in Minutes](https://dev.to/charles_nwankpa/introducing-gdpr-safe-rag-build-gdpr-compliant-rag-systems-in-minutes-4ap4)
+- [I Hire Juniors. Here&#39;s Why I Reject 90% in the First 5 Minutes.](https://dev.to/kirill_tolmachev/i-hire-juniors-heres-why-i-reject-90-in-the-first-5-minutes-53l4)
+- [Securing Test Environments: Mitigating Leaking PII in Node.js Microservices](https://dev.to/mohammad_waseem_c31f3a26f/securing-test-environments-mitigating-leaking-pii-in-nodejs-microservices-3pme)
+- [I brought C++23 to Windows 95 because Microsoft told me my PC was too old](https://dev.to/jordancpp/c23-modern-warfare-hijacking-the-hospital-and-rewriting-runtimes-for-windows-95-1d82)
+- [Introduction to Java](https://dev.to/olusegun_oyetade/introduction-to-java-5dpm)
+- [Basics &amp; History of Linux](https://dev.to/amrendrasingh/basics-history-of-linux-50k1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
