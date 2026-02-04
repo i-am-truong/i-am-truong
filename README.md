@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🛩 Beginner-Friendly Guide &#39;Trionic Array II&#39; - Problem 3640 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-trionic-array-ii-problem-3640-c-python-javascript-52nh)
+- [Custom Code vs. Ready-Made PHP Scripts: When is Which Worth It?](https://dev.to/mirko_stahnke_a9da18e5549/custom-code-vs-ready-made-php-scripts-when-is-which-worth-it-4lc1)
+- [Why I Built a Stateless Trend Dashboard — Minimal, Focused, and Ephemeral](https://dev.to/rushyhirosan/why-i-built-a-stateless-trend-dashboard-41f1)
+- [2026-02-04 Weekly Quantum News](https://dev.to/dan_ledger_ce2886f0037972/2026-02-04-weekly-quantum-news-18b0)
 - [Are you stuck in the weeds of mechanics or lost in the clouds of &#39;player experience&#39;? Learn how to bridge the gap using my Design Tiers framework.](https://dev.to/gamedesignbites/are-you-stuck-in-the-weeds-of-mechanics-or-lost-in-the-clouds-of-player-experience-learn-how-to-4bbo)
-- [Docker como blindaje: estrategias para contener y desplegar sistemas legacy sin riesgos](https://dev.to/draexx/docker-como-blindaje-estrategias-para-contener-y-desplegar-sistemas-legacy-sin-riesgos-3jpb)
-- [Seamless Dev Environment Isolation During High Traffic Events with React and DevOps Strategies](https://dev.to/mohammad_waseem_c31f3a26f/seamless-dev-environment-isolation-during-high-traffic-events-with-react-and-devops-strategies-7b9)
-- [From 400-Line Import Controllers to 20-Line Configs in Laravel](https://dev.to/zappzerapp/from-400-line-import-controllers-to-20-line-configs-in-laravel-p99)
-- [DPDPA will kick our asses, We need this checklist](https://dev.to/0x0elliot/dpdpa-will-kick-your-ass-you-need-this-checklist-2am8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
