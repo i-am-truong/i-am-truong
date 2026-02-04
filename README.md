@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Bypassing the Great Firewall in 2026: Active Filtering &amp; Protocol Obfuscation](https://dev.to/mint_tea_592935ca2745ae07/bypassing-the-great-firewall-in-2026-active-filtering-protocol-obfuscation-37oj)
-- [Why We Ditched WordPress and Built 100+ Websites with Next.js](https://dev.to/web_lyx_0c6e883dc512c1702/why-we-ditched-wordpress-and-built-100-websites-with-nextjs-44ba)
-- [From Matrix to Model: When Is It Finally Safe to Train ML?](https://dev.to/yurii_lozinskyi/from-matrix-to-model-when-is-it-finally-safe-to-train-ml-46o3)
-- [Build Your Own ChatGPT App &lpar;Run It Locally&rpar;](https://dev.to/javz/build-your-own-chatgpt-app-run-it-locally-2ehp)
-- [Why Network Reliability Can’t Be Solved with Alerts, Dashboards, or Runbooks](https://dev.to/james_carter_106df70cba25/why-network-reliability-cant-be-solved-with-alerts-dashboards-or-runbooks-ghc)
+- [CLI tool for pulling historical Binance OHLCV data for backtesting](https://dev.to/ksi/cli-tool-for-pulling-historical-binance-ohlcv-data-for-backtesting-4oi5)
+- [Kubernetes Deep Dive: Kubelet](https://dev.to/kanywst/kubernetes-deep-dive-kubelet-2h8k)
+- [It’s time for the 2025—2026 Annual Apache CouchDB User Survey!](https://dev.to/moremaddy/its-time-for-the-2025-2026-annual-apache-couchdb-user-survey-2l2g)
+- [Java Notes](https://dev.to/david_titilayo_c2329e7441/java-notes-51p)
+- [Apache Data Lakehouse Weekly: January 27 - February 2, 2026](https://dev.to/alexmercedcoder/apache-data-lakehouse-weekly-january-27-february-2-2026-4o43)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
