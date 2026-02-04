@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Supermarket Sales and Customer Insights Dashboard — A Practical Power BI Project Guide.](https://dev.to/luxdevhq/supermarket-sales-and-customer-insights-dashboard-a-practical-power-bi-project-guide-4o7p)
-- [Neural Differential Manifolds in Robotics: Real-Time Learning Without Retraining](https://dev.to/hejhdiss/neural-differential-manifolds-in-robotics-real-time-learning-without-retraining-lf3)
-- [Securing Test Environments: Eliminating PII Leaks with Go](https://dev.to/mohammad_waseem_c31f3a26f/securing-test-environments-eliminating-pii-leaks-with-go-1nh5)
-- [Discussions on DEV seem to become much more active lately... Like, orders of magnitude probably... What happened?! 😲](https://dev.to/fyodorio/discussions-on-dev-seem-to-become-much-more-active-lately-like-orders-of-magnitude-probably-4c2m)
-- [5 Ways to Set Up OpenClaw &lpar;aka ClawdBot / MoltBot&rpar; — and Actually Use It Day-to-Day](https://dev.to/aniketmaurya/5-ways-to-set-up-openclaw-aka-clawdbot-moltbot-and-actually-use-it-day-to-day-2fhn)
+- [When Cloudflare Goes Down, Half the Internet Goes With It](https://dev.to/shibley/when-cloudflare-goes-down-half-the-internet-goes-with-it-952)
+- [Kilo Code Weekly Product Roundup](https://dev.to/kilocode/kilo-code-weekly-product-roundup-4b6f)
+- [AI Disruption Fears Shake Software Stocks Again: What Jim Cramer’s Strategy Signals for Tech](https://dev.to/ailoitte_sk/ai-disruption-fears-shake-software-stocks-again-what-jim-cramers-strategy-signals-for-tech-38oa)
+- [Assimp: Experimental Rust bindings](https://dev.to/kimkulling/assimp-experimental-rust-bindings-4k5f)
+- [Kubernetes Gateway API Versions: Complete Compatibility and Upgrade Guide](https://dev.to/alexandrev/kubernetes-gateway-api-versions-complete-compatibility-and-upgrade-guide-36do)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
