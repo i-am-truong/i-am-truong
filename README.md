@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 4 of #100DaysOfCode — Mastering useEffect in React](https://dev.to/m_saad_ahmad/day-4-of-100daysofcode-mastering-useeffect-in-react-4kk1)
+- [A note in blue minor](https://dev.to/novikorisnik/a-note-in-blue-minor-22i0)
+- [Amazon Market Place](https://dev.to/klarson1022/amazon-market-place-bho)
+- [Cross Entropy Derivatives, Part 4: Solving for other output classes](https://dev.to/rijultp/cross-entropy-derivatives-part-4-solving-for-other-output-classes-3gce)
 - [Why did no one tell me how amazing Git Bisect was](https://dev.to/amandamayfield/why-did-no-one-tell-me-how-amazing-git-bisect-was-32ll)
-- [A verdade oculta por trás do Serverless](https://dev.to/giarmani/a-verdade-oculta-por-tras-do-serverless-55f7)
-- [Music Is Memory With a Rhythm](https://dev.to/sergueyasaelshinder/music-is-memory-with-a-rhythm-4l5p)
-- [CI-Embedded Security](https://dev.to/nicolas_vbgh/ci-embedded-security-439a)
-- [[Boost]](https://dev.to/shriji/-bbb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
