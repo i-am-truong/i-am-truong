@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop Creating an ALB for Every Service: Master Multi-Service Routing and Save Thousands with Terraform ⚡](https://dev.to/suhas_mallesh/stop-creating-an-alb-for-every-service-master-multi-service-routing-and-save-thousands-with-35dh)
-- [Fargate is Costing You 3x More: Switch to ECS on EC2 and Save Thousands with Terraform 💰](https://dev.to/suhas_mallesh/fargate-is-costing-you-3x-more-switch-to-ecs-on-ec2-and-save-thousands-with-terraform-1m35)
-- [Beginner’s Guide to MCP: USB-C for the AI Era 🔌](https://dev.to/charanpool/beginners-guide-to-mcp-usb-c-for-the-ai-era-4d39)
-- [Build an AI Overview Rank Tracker using Python](https://dev.to/noraina_nordin/build-an-ai-overview-rank-tracker-using-python-1kg3)
-- [Como o Strategy Pattern simplificou a lógica de pagamentos do meu sistema Spring](https://dev.to/wagnernegrao/como-o-strategy-pattern-simplificou-a-logica-de-pagamentos-do-meu-sistema-spring-3b3l)
+- [#Rant: Java Is Not Dead, It Is Not Cool, It Is Lukewarm, But It Is Far From Dead!](https://dev.to/vulinh64/rant-java-is-not-dead-it-is-not-cool-it-is-lukewarm-but-it-is-far-from-dead-4oga)
+- [No Laying Up Podcast: LPGA Commissioner Craig Kessler, LIV’s OWGR Update &amp; Johnny Keefer | NLU Pod, Ep 1115](https://dev.to/youtube_golf/no-laying-up-podcast-lpga-commissioner-craig-kessler-livs-owgr-update-johnny-keefer-nlu-3o3d)
+- [Devlog 1 for my game, &quot;Fixed&quot;](https://dev.to/no_arms_studio/devlog-1-for-my-game-fixed-2jgc)
+- [Network Diagnostics Terminal](https://dev.to/kevinlee_aro/network-diagnostics-terminal-559b)
+- [7 Quick Wins to Make Your GitHub Profile Stand Out Today](https://dev.to/adnan_arif_14ae4bc014267f/7-quick-wins-to-make-your-github-profile-stand-out-today-1np4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
