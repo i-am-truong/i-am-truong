@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [NotebookLM Enhancer](https://dev.to/cgcm070/notebooklm-enhancer-2pdb)
-- [A Small Tool I Ended Up Using More Than Expected](https://dev.to/nly-kr/a-small-tool-i-ended-up-using-more-than-expected-4n3i)
-- [Navigating the Ethical AI Landscape](https://dev.to/vaishnavi_gudur/navigating-the-ethical-ai-landscape-3a44)
-- [Atonal Fugue](https://dev.to/dlharp2/atonal-fugue-1cm)
-- [Synaptic Switch: Solving AI&#39;s Memory Problem Without Forgetting](https://dev.to/hejhdiss/synaptic-switch-solving-ais-memory-problem-without-forgetting-2b6p)
+- [PeeperFrog Create](https://dev.to/heather_scott_721dc030b71/peeperfrog-create-1p93)
+- [Ultimate guide to AF_XDP](https://dev.to/shradhesh71/ultimate-guide-to-afxdp-3bbc)
+- [JavaScript Objects with Methods](https://dev.to/dev_logbook/javascript-objects-with-methods-18mc)
+- [Power BI Data Modelling Demystified ⭐](https://dev.to/mathew_leshan_0f6642142b2/power-bi-data-modelling-demystified-4a91)
+- [Smart Scheduling: How to Optimize Competitor Price Scraping to Reduce Costs](https://dev.to/sommic/smart-scheduling-how-to-optimize-competitor-price-scraping-to-reduce-costs-19k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
