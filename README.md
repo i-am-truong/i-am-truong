@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Made My AI Agent Hire Another AI Agent &lpar;Here&#39;s the Code&rpar;](https://dev.to/lilyevesinclair/i-made-my-ai-agent-hire-another-ai-agent-heres-the-code-3ld6)
-- [How To Scale Flutter Apps: Top Tips and Strategy](https://dev.to/varsha_ojha_5b45cb023937b/how-to-scale-flutter-apps-top-tips-and-strategy-2o0e)
-- [Claude Sonnet 5 Fennec Just Leaked — Here&#39;s What We Know](https://dev.to/ryancwynar/claude-sonnet-5-fennec-just-leaked-heres-what-we-know-44oa)
-- [Mastering Concurrency: Symfony 7.4 Lock Component Best Practices](https://dev.to/mattleads/mastering-concurrency-symfony-74-lock-component-best-practices-306k)
-- [Tech Careers: 2020 vs 2025 vs 2030](https://dev.to/web_dev-usman/tech-careers-2020-vs-2025-vs-2030-3fia)
+- [Local Variables, Instance Variables and Static Variables](https://dev.to/nanthini_ammu_ac02ad32802/local-variables-instance-variables-and-static-variables-35gf)
+- [AWS AI-DLC: Rethinking the SDLC in the Age of AI](https://dev.to/lilupa/aws-ai-dlc-rethinking-the-sdlc-in-the-age-of-ai-4hln)
+- [PropFlow: Visual Prop Tracing for React, Next.js &amp; Remix](https://dev.to/rutpshah88/propflow-trace-react-props-through-your-component-hierarchy-in-vs-code-18m3)
+- [Best Interview Kickstart Alternatives in 2026: From Free to Premium](https://dev.to/alex_hunter_44f4c9ed6671e/best-interview-kickstart-alternatives-in-2026-from-free-to-premium-53go)
+- [64-bit bootloader from scratch in AT&amp;T assembly, Part-2](https://dev.to/bhjaipal/64-bit-bootloader-from-scratch-in-att-assembly-part-2-4bo0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
