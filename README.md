@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [#Rant: Java Is Not Dead, It Is Not Cool, It Is Lukewarm, But It Is Far From Dead!](https://dev.to/vulinh64/rant-java-is-not-dead-it-is-not-cool-it-is-lukewarm-but-it-is-far-from-dead-4oga)
-- [No Laying Up Podcast: LPGA Commissioner Craig Kessler, LIV’s OWGR Update &amp; Johnny Keefer | NLU Pod, Ep 1115](https://dev.to/youtube_golf/no-laying-up-podcast-lpga-commissioner-craig-kessler-livs-owgr-update-johnny-keefer-nlu-3o3d)
-- [Devlog 1 for my game, &quot;Fixed&quot;](https://dev.to/no_arms_studio/devlog-1-for-my-game-fixed-2jgc)
-- [Network Diagnostics Terminal](https://dev.to/kevinlee_aro/network-diagnostics-terminal-559b)
-- [7 Quick Wins to Make Your GitHub Profile Stand Out Today](https://dev.to/adnan_arif_14ae4bc014267f/7-quick-wins-to-make-your-github-profile-stand-out-today-1np4)
+- [NotebookLM Enhancer](https://dev.to/cgcm070/notebooklm-enhancer-2pdb)
+- [A Small Tool I Ended Up Using More Than Expected](https://dev.to/nly-kr/a-small-tool-i-ended-up-using-more-than-expected-4n3i)
+- [Navigating the Ethical AI Landscape](https://dev.to/vaishnavi_gudur/navigating-the-ethical-ai-landscape-3a44)
+- [Atonal Fugue](https://dev.to/dlharp2/atonal-fugue-1cm)
+- [Synaptic Switch: Solving AI&#39;s Memory Problem Without Forgetting](https://dev.to/hejhdiss/synaptic-switch-solving-ais-memory-problem-without-forgetting-2b6p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
