@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [PeeperFrog Create](https://dev.to/heather_scott_721dc030b71/peeperfrog-create-1p93)
-- [Ultimate guide to AF_XDP](https://dev.to/shradhesh71/ultimate-guide-to-afxdp-3bbc)
-- [JavaScript Objects with Methods](https://dev.to/dev_logbook/javascript-objects-with-methods-18mc)
-- [Power BI Data Modelling Demystified ⭐](https://dev.to/mathew_leshan_0f6642142b2/power-bi-data-modelling-demystified-4a91)
-- [Smart Scheduling: How to Optimize Competitor Price Scraping to Reduce Costs](https://dev.to/sommic/smart-scheduling-how-to-optimize-competitor-price-scraping-to-reduce-costs-19k)
+- [Zero-Downtime Deployments: Blue-Green vs Canary Strategies in Production](https://dev.to/jinpyo181/zero-downtime-deployments-blue-green-vs-canary-strategies-in-production-3e65)
+- [Software Development Services Contracts: How to Protect Your IP Without Scaring Clients](https://dev.to/hypertools/software-development-services-contracts-how-to-protect-your-ip-without-scaring-clients-4n5a)
+- [Serve Markdown to AI Agents &lpar;10x Smaller Payloads&rpar;](https://dev.to/evoleinik/serve-markdown-to-ai-agents-10x-smaller-payloads-44di)
+- [i&#39;ve been running autonomous coding loops while i sleep](https://dev.to/jestersimpps/ive-been-running-autonomous-coding-loops-while-i-sleep-5a5m)
+- [From Zero to Cached: Building a High-Performance Housing Portal with Django, Next.js, and Redis - Part 4 : Optimization Pillars](https://dev.to/ajitkumar/from-zero-to-cached-building-a-high-performance-housing-portal-with-django-nextjs-and-redis--1775)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
