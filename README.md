@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Local Variables, Instance Variables and Static Variables](https://dev.to/nanthini_ammu_ac02ad32802/local-variables-instance-variables-and-static-variables-35gf)
-- [AWS AI-DLC: Rethinking the SDLC in the Age of AI](https://dev.to/lilupa/aws-ai-dlc-rethinking-the-sdlc-in-the-age-of-ai-4hln)
-- [PropFlow: Visual Prop Tracing for React, Next.js &amp; Remix](https://dev.to/rutpshah88/propflow-trace-react-props-through-your-component-hierarchy-in-vs-code-18m3)
-- [Best Interview Kickstart Alternatives in 2026: From Free to Premium](https://dev.to/alex_hunter_44f4c9ed6671e/best-interview-kickstart-alternatives-in-2026-from-free-to-premium-53go)
-- [64-bit bootloader from scratch in AT&amp;T assembly, Part-2](https://dev.to/bhjaipal/64-bit-bootloader-from-scratch-in-att-assembly-part-2-4bo0)
+- [Running DNS Is Easy. Trusting It Is Not.](https://dev.to/sidbathi/running-dns-is-easy-trusting-it-is-not-52g5)
+- [Retro-imprimiendo](https://dev.to/baltasarq/retro-imprimiendo-5766)
+- [I Thought Apple Watch Wallpapers Were Simple. I Was Wrong.](https://dev.to/evgenii_konkin/i-thought-apple-watch-wallpapers-were-simple-i-was-wrong-1k9c)
+- [por quê?](https://dev.to/antjjoao/por-que-4a77)
+- [The First Big Mistake: Thinking Software Engineering Is Just Coding](https://dev.to/msnmongare/the-first-big-mistake-thinking-software-engineering-is-just-coding-490d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
