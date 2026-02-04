@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Billion-Dollar Companies Ship Electron Apps &lpar;And Why Developers Hate It&rpar;](https://dev.to/maniishbhusal/why-billion-dollar-companies-ship-electron-apps-and-why-developers-hate-it-3pd3)
-- [OpenClaw, Moltbook, and the Real Risks of Autonomous AI Agents](https://dev.to/ailoitte_sk/openclaw-moltbook-and-the-real-risks-of-autonomous-ai-agents-2486)
-- [Kubernetes Operators Pattern](https://dev.to/godofgeeks/kubernetes-operators-pattern-lpp)
-- [Wild Ride from Raw Syscalls to Figuring Out NSS and libc](https://dev.to/bhushitha_hashan/wild-ride-from-raw-syscalls-to-figuring-out-nss-and-libc-14li)
-- [Getting Started With Verilog](https://dev.to/silicon_monks/getting-started-with-verilog-e4c)
+- [The Game-Changer Breaking Data Lake&#39;s Impossible Triangle](https://dev.to/esproc_spl/the-game-changer-breaking-data-lakes-impossible-triangle-c1c)
+- [Schemas and Data Modelling in Power BI](https://dev.to/igunza_george_37c8fef5b54/schemas-and-data-modelling-in-power-bi-1e55)
+- [What is WCAG for PDF](https://dev.to/katash/what-is-wcag-for-pdf-49hd)
+- [Generate SM2 Key Pair Using Key Parameters for Encryption and Decryption](https://dev.to/harmonyos/generate-sm2-key-pair-using-key-parameters-for-encryption-and-decryption-4519)
+- [How I Found $300,000 Worth of Secrets in a Download Button](https://dev.to/copyleftdev/how-i-found-300000-worth-of-secrets-in-a-download-button-1j13)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
