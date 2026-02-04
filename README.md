@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Zero-Downtime Deployments: Blue-Green vs Canary Strategies in Production](https://dev.to/jinpyo181/zero-downtime-deployments-blue-green-vs-canary-strategies-in-production-3e65)
-- [Software Development Services Contracts: How to Protect Your IP Without Scaring Clients](https://dev.to/hypertools/software-development-services-contracts-how-to-protect-your-ip-without-scaring-clients-4n5a)
-- [Serve Markdown to AI Agents &lpar;10x Smaller Payloads&rpar;](https://dev.to/evoleinik/serve-markdown-to-ai-agents-10x-smaller-payloads-44di)
-- [i&#39;ve been running autonomous coding loops while i sleep](https://dev.to/jestersimpps/ive-been-running-autonomous-coding-loops-while-i-sleep-5a5m)
-- [From Zero to Cached: Building a High-Performance Housing Portal with Django, Next.js, and Redis - Part 4 : Optimization Pillars](https://dev.to/ajitkumar/from-zero-to-cached-building-a-high-performance-housing-portal-with-django-nextjs-and-redis--1775)
+- [Why Billion-Dollar Companies Ship Electron Apps &lpar;And Why Developers Hate It&rpar;](https://dev.to/maniishbhusal/why-billion-dollar-companies-ship-electron-apps-and-why-developers-hate-it-3pd3)
+- [OpenClaw, Moltbook, and the Real Risks of Autonomous AI Agents](https://dev.to/ailoitte_sk/openclaw-moltbook-and-the-real-risks-of-autonomous-ai-agents-2486)
+- [Kubernetes Operators Pattern](https://dev.to/godofgeeks/kubernetes-operators-pattern-lpp)
+- [Wild Ride from Raw Syscalls to Figuring Out NSS and libc](https://dev.to/bhushitha_hashan/wild-ride-from-raw-syscalls-to-figuring-out-nss-and-libc-14li)
+- [Getting Started With Verilog](https://dev.to/silicon_monks/getting-started-with-verilog-e4c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
