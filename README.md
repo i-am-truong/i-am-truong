@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Authenticating GitHub Actions to AWS using IAM Roles](https://dev.to/chxnedu/authenticating-github-actions-to-aws-using-iam-roles-47hg)
-- [Claude Code Club | Issue #1](https://dev.to/paweljanda/claude-code-club-issue-1-106f)
-- [Running Claude Code with Docker](https://dev.to/jasdeepsinghbhalla/running-claude-code-with-docker-7fj)
-- [How to Build a Real-Time Taiwan Stock Scraper in 50 Lines of Python](https://dev.to/pyflowmaster/how-to-build-a-real-time-taiwan-stock-scraper-in-50-lines-of-python-5cmg)
-- [How I Built an Automated Operational Analytics Pipeline from a Queue Management System](https://dev.to/monfortbrian_/how-i-built-an-automated-operational-analytics-pipeline-from-a-queue-management-system-ecc)
+- [Stop Creating an ALB for Every Service: Master Multi-Service Routing and Save Thousands with Terraform ⚡](https://dev.to/suhas_mallesh/stop-creating-an-alb-for-every-service-master-multi-service-routing-and-save-thousands-with-35dh)
+- [Fargate is Costing You 3x More: Switch to ECS on EC2 and Save Thousands with Terraform 💰](https://dev.to/suhas_mallesh/fargate-is-costing-you-3x-more-switch-to-ecs-on-ec2-and-save-thousands-with-terraform-1m35)
+- [Beginner’s Guide to MCP: USB-C for the AI Era 🔌](https://dev.to/charanpool/beginners-guide-to-mcp-usb-c-for-the-ai-era-4d39)
+- [Build an AI Overview Rank Tracker using Python](https://dev.to/noraina_nordin/build-an-ai-overview-rank-tracker-using-python-1kg3)
+- [Como o Strategy Pattern simplificou a lógica de pagamentos do meu sistema Spring](https://dev.to/wagnernegrao/como-o-strategy-pattern-simplificou-a-logica-de-pagamentos-do-meu-sistema-spring-3b3l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
