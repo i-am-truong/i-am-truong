@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your LLM Provider Just Went Down. Here&#39;s How to Stay Online.](https://dev.to/debmckinney/your-llm-provider-just-went-down-heres-how-to-stay-online-5d9i)
-- [Automatic Failover When Your Primary LLM Provider Goes Down](https://dev.to/pranay_batta/automatic-failover-when-your-primary-llm-provider-goes-down-1p4o)
-- [Self-Hosting OpenClaw AI Assistant on a VPS with Tailscale VPN &lpar;Zero Public Ports&rpar;](https://dev.to/nunc/self-hosting-openclaw-ai-assistant-on-a-vps-with-tailscale-vpn-zero-public-ports-35fn)
-- [Building a Living Firewall: A Vaccine Model for Cybersecurity](https://dev.to/jimbobtim1992/building-a-living-firewall-a-vaccine-model-for-cybersecurity-4k3o)
-- [Why React Native 0.83 is the Best Upgrade of 2026 &lpar;So Far&rpar; 🚀](https://dev.to/ayushbharadva/why-react-native-083-is-the-best-upgrade-of-2026-so-far-2gon)
+- [Supermarket Sales and Customer Insights Dashboard — A Practical Power BI Project Guide.](https://dev.to/luxdevhq/supermarket-sales-and-customer-insights-dashboard-a-practical-power-bi-project-guide-4o7p)
+- [Neural Differential Manifolds in Robotics: Real-Time Learning Without Retraining](https://dev.to/hejhdiss/neural-differential-manifolds-in-robotics-real-time-learning-without-retraining-lf3)
+- [Securing Test Environments: Eliminating PII Leaks with Go](https://dev.to/mohammad_waseem_c31f3a26f/securing-test-environments-eliminating-pii-leaks-with-go-1nh5)
+- [Discussions on DEV seem to become much more active lately... Like, orders of magnitude probably... What happened?! 😲](https://dev.to/fyodorio/discussions-on-dev-seem-to-become-much-more-active-lately-like-orders-of-magnitude-probably-4c2m)
+- [5 Ways to Set Up OpenClaw &lpar;aka ClawdBot / MoltBot&rpar; — and Actually Use It Day-to-Day](https://dev.to/aniketmaurya/5-ways-to-set-up-openclaw-aka-clawdbot-moltbot-and-actually-use-it-day-to-day-2fhn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
