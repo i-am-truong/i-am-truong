@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [We Made Coding Agents Actually Reliable By Fixing One Thing](https://dev.to/epilot/we-made-coding-agents-actually-reliable-by-fixing-one-thing-525b)
-- [OWASP Top 10 &lpar;2025&rpar; and AWS WAF: Putting Managed Rules in Context](https://dev.to/aws-builders/owasp-top-10-2025-and-aws-waf-putting-managed-rules-in-context-586c)
-- [Introducing Umbraco CMS Backoffice Agent Skills](https://dev.to/phil-whittaker/introducing-umbraco-cms-backoffice-agent-skills-1emo)
-- [Securing Test Environments: Preventing PII Leakage with Open Source Linux Tools](https://dev.to/mohammad_waseem_c31f3a26f/securing-test-environments-preventing-pii-leakage-with-open-source-linux-tools-1c8)
-- [Cookies Explained — How They Work &amp; Header-Based Auth vs Cookie-Based Auth](https://dev.to/jps27cse/cookies-explained-how-they-work-header-based-auth-vs-cookie-based-auth-530o)
+- [Building a Human-Like AI Outbound Calling Agent at ~$0.01/Minute - part 1](https://dev.to/james920609/building-a-human-like-ai-outbound-calling-agent-at-001minute-6ci)
+- [Pascoe Is Right—And Here&#39;s What That Proves About Governance](https://dev.to/narnaiezzsshaa/pascoe-is-right-and-heres-what-that-proves-about-governance-k32)
+- [React 19 use&lpar;&rpar; Hook Deep Dive: The Game-Changer for Data Fetching](https://dev.to/pockit_tools/react-19-use-hook-deep-dive-the-game-changer-for-data-fetching-53fi)
+- [How Web Apps Like Midday Gain a Competitive Edge with Supabase and MindsDB](https://dev.to/mindsdb/how-web-apps-like-midday-gain-a-competitive-edge-with-supabase-and-mindsdb-4aoi)
+- [🌐 HTTP: WTF?! — Weird Facts About the Web’s Backbone](https://dev.to/ml318097/http-wtf-weird-facts-about-the-webs-backbone-29kn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
