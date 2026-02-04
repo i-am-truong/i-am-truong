@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [PostgreSQL для веб-разработчика: миграция с MySQL, JSON, оптимизация](https://dev.to/_vproger_/postgresql-dlia-vieb-razrabotchika-mighratsiia-s-mysql-json-optimizatsiia-18eo)
-- [Why CSA STAR Can&#39;t Govern AI Agents &lpar;And What Comes Next&rpar;](https://dev.to/narnaiezzsshaa/why-csa-star-cant-govern-ai-agents-and-what-comes-next-5chm)
-- [Your Microservices Aren’t Scalable. Your Database Is Just Crying.](https://dev.to/art_light/your-microservices-arent-scalable-your-database-is-just-crying-mbd)
-- [Introducing NornWeave: Giving AI Agents Their Own Email Inbox](https://dev.to/ricardocabral/introducing-nornweave-giving-ai-agents-their-own-email-inbox-h9i)
-- [MindsEye Algolia Agent Studio: Turning Search Into a Structured, Ledger-First Shopping Journey](https://dev.to/peacebinflow/mindseye-x-algolia-agent-studio-turning-search-into-a-structured-ledger-first-shopping-journey-g8o)
+- [DPDPA will kick our asses, We need this checklist](https://dev.to/0x0elliot/dpdpa-will-kick-your-ass-you-need-this-checklist-2am8)
+- [The Build-to-Learn Framework: How a Near-Disaster Taught Me to Learn in Public](https://dev.to/rivadaviam/the-build-to-learn-framework-how-a-near-disaster-taught-me-to-learn-in-public-c2e)
+- [LGTM != Production Ready: Why your CI pipeline is missing the most important step](https://dev.to/chuanjin/lgtm-production-ready-why-your-ci-pipeline-is-missing-the-most-important-step-1kok)
+- [Doc Mirages](https://dev.to/lizmat/doc-mirages-1aj9)
+- [Beyond Vulnerability Scanning, How SBOM Diff Exposes Shadow Dependencies in Your Supply Chain](https://dev.to/rezmoss/beyond-vulnerability-scanning-how-sbom-diff-exposes-shadow-dependencies-in-your-supply-chain-1m6k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
