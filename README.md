@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 4 of #100DaysOfCode — Mastering useEffect in React](https://dev.to/m_saad_ahmad/day-4-of-100daysofcode-mastering-useeffect-in-react-4kk1)
-- [A note in blue minor](https://dev.to/novikorisnik/a-note-in-blue-minor-22i0)
-- [Amazon Market Place](https://dev.to/klarson1022/amazon-market-place-bho)
-- [Cross Entropy Derivatives, Part 4: Solving for other output classes](https://dev.to/rijultp/cross-entropy-derivatives-part-4-solving-for-other-output-classes-3gce)
-- [Why did no one tell me how amazing Git Bisect was](https://dev.to/amandamayfield/why-did-no-one-tell-me-how-amazing-git-bisect-was-32ll)
+- [PostgreSQL для веб-разработчика: миграция с MySQL, JSON, оптимизация](https://dev.to/_vproger_/postgresql-dlia-vieb-razrabotchika-mighratsiia-s-mysql-json-optimizatsiia-18eo)
+- [Why CSA STAR Can&#39;t Govern AI Agents &lpar;And What Comes Next&rpar;](https://dev.to/narnaiezzsshaa/why-csa-star-cant-govern-ai-agents-and-what-comes-next-5chm)
+- [Your Microservices Aren’t Scalable. Your Database Is Just Crying.](https://dev.to/art_light/your-microservices-arent-scalable-your-database-is-just-crying-mbd)
+- [Introducing NornWeave: Giving AI Agents Their Own Email Inbox](https://dev.to/ricardocabral/introducing-nornweave-giving-ai-agents-their-own-email-inbox-h9i)
+- [MindsEye Algolia Agent Studio: Turning Search Into a Structured, Ledger-First Shopping Journey](https://dev.to/peacebinflow/mindseye-x-algolia-agent-studio-turning-search-into-a-structured-ledger-first-shopping-journey-g8o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
