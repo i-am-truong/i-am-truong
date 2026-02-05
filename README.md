@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Copilot SDK for Java 1.0.7: Session Lifecycle Hooks and Enhanced Observability](https://dev.to/brunoborges/copilot-sdk-for-java-107-session-lifecycle-hooks-and-enhanced-observability-4kmi)
+- [How I Compiled 647 Semgrep Rules to Native Rust](https://dev.to/bumahkib7/how-i-compiled-647-semgrep-rules-to-native-rust-1mk3)
 - [Incremental Content Management with Laravel and Eleventy](https://dev.to/joshvickerson/incremental-content-management-with-laravel-and-eleventy-3iph)
 - [Claude Opus 4.6 for Developers: Agent Teams, 1M Context, and What Actually Matters](https://dev.to/thegdsks/claude-opus-46-for-developers-agent-teams-1m-context-and-what-actually-matters-4h8c)
 - [How to Build an AI-Powered WhatsApp Bot That Analyzes Images Using Python and Vision Models](https://dev.to/ambalogun/how-to-build-an-ai-powered-whatsapp-bot-that-analyzes-images-using-python-and-vision-models-3062)
-- [API designs for microservice comparison.](https://dev.to/gokul_gk/api-designs-for-microservice-comparison-39o4)
-- [From 0.3% Crash Rate to Zero: Scaling Flutter Cache with Batching, Locking, and Observable State](https://dev.to/devmatrash/from-03-crash-rate-to-zero-scaling-flutter-cache-with-batching-locking-and-observable-state-24oi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
