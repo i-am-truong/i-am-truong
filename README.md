@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Control/Lopping Statement : For loop and While loop](https://dev.to/nanthini_ammu_ac02ad32802/controllopping-statement-for-loop-and-while-loop-9e1)
-- [Build a Real-World CI/CD Pipeline for Node.js using Docker, GitHub Actions, and AWS EC2](https://dev.to/awsandevops/build-a-real-world-cicd-pipeline-for-nodejs-using-docker-github-actions-and-aws-ec2-1j9a)
-- [Why Multi-Agent Deployment Might Slow Down Your Redshift DDL Deployments](https://dev.to/hantedyou_0106/why-multi-agent-deployment-might-slow-down-your-redshift-ddl-deployments-hkp)
-- [Rust in Linux: Fixing the Edges, Not the Core](https://dev.to/ben-santora/rust-in-linux-fixing-the-edges-not-the-core-218i)
-- [Showing the Power of RS-X with a “Scary” Credit-Risk Formula](https://dev.to/robert_sanders_04918a4344/showing-the-power-of-rs-x-with-a-scary-credit-risk-formula-nlp)
+- [n8n AI Agent vs LLM Chain: When to Use LangChain Code?](https://dev.to/ciphernutz/n8n-ai-agent-vs-llm-chain-when-to-use-langchain-code-48h4)
+- [How I Built a Claude Code Skill That Scaffolds Complete Arbitrum dApps](https://dev.to/bengreenberg/how-i-built-a-claude-code-skill-that-scaffolds-complete-arbitrum-dapps-2njl)
+- [SEO Is a Marathon: How AI Agents Can Help You Stay the Course](https://dev.to/stikhonchuk/seo-is-a-marathon-how-ai-agents-can-help-you-stay-the-course-3i2d)
+- [87% Compromised in 4 Hours: The Memory Poisoning Stat That Should Terrify AI Developers](https://dev.to/mkdelta221/87-compromised-in-4-hours-the-memory-poisoning-stat-that-should-terrify-ai-developers-58oc)
+- [KAYAP: Hardening Drone Stability via Neural Differential Manifolds](https://dev.to/hejhdiss/kayap-hardening-drone-stability-via-neural-differential-manifolds-4990)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
