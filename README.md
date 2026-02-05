@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop Copy-Pasting from Images: Build a Universal Screen Translator with Python](https://dev.to/samar_shetye/stop-copy-pasting-from-images-build-a-universal-screen-translator-with-python-54gm)
-- [The Six Dimensions of Impedance Mismatch &lpar;Part 2 of 3&rpar;: Granularity, Inheritance, and Identity](https://dev.to/phouchens/the-six-dimensions-of-impedance-mismatch-part-2-of-3-granularity-inheritance-and-identity-5ii)
-- [Lending Protocol - QA Test Report](https://dev.to/ripplexdev/lending-protocol-qa-test-report-45i5)
-- [Lending Protocol Performance Test Report](https://dev.to/ripplexdev/lending-protocol-performance-test-report-3cjn)
-- [I Integrated AlphaFolder3 &amp; AlphaGenome. It Looked Perfect. Then It Failed the &quot;Honesty Test.&quot;](https://dev.to/flamehaven01/i-integrated-alphafolder3-alphagenome-it-looked-perfect-then-it-failed-the-honesty-test-2ob1)
+- [Handle data set pagination with `PagedListResult`](https://dev.to/iamrzr/handle-data-set-pagination-with-pagedlistresult-4hc2)
+- [useReducer vs useState](https://dev.to/joma_3b2f21917842d7461716/usereducer-vs-usestate-2n88)
+- [Azure Storage 101: A Step-By-Step Guide to Provisioning Your Storage Account](https://dev.to/rahimah_dev/azure-storage-101-a-step-by-step-guide-to-provisioning-your-storage-account-16ep)
+- [New Year, New Me: UI/UX Design with Stitch](https://dev.to/gde/new-year-new-me-uiux-design-with-stitch-4af3)
+- [Do we still need DTO ?](https://dev.to/konfydev/do-we-need-dto-with-graphql-53i5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
