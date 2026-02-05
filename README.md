@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [TableCraft: From 5 Hours to 5 Minutes for Production-Ready Table APIs](https://dev.to/jacksonkasi/building-tablecraft-from-5-hours-to-5-minutes-for-production-ready-table-apis-am0)
-- [What If Your AI Had Visual Studio&#39;s IntelliSense?](https://dev.to/ladislav_sopko_0ics/what-if-your-ai-had-visual-studios-intellisense-40e7)
-- [I Accidentally Built a Spam Bot: The Engineering Lessons from -16 Karma](https://dev.to/mosiddi/i-accidentally-built-a-spam-bot-the-engineering-lessons-from-16-karma-364m)
-- [Probé Playwright Agents en E2E: lo que realmente aportan &lpar;y dónde fallan&rpar;](https://dev.to/jmr85/probe-playwright-agents-en-e2e-lo-que-realmente-aportan-y-donde-fallan-13n3)
-- [Handle data set pagination with `PagedListResult`](https://dev.to/iamrzr/handle-data-set-pagination-with-pagedlistresult-4hc2)
+- [Backend Tests](https://dev.to/nicolas_vbgh/backend-tests-3d9p)
+- [What do you have to do as junior programmer to get a job?](https://dev.to/arnedo1/what-do-you-have-to-do-as-junior-programmer-to-get-a-job-2k1a)
+- [I built a pytest-like tool for AI agents because &quot;it passed once&quot; isn&#39;t good enough](https://dev.to/alepot55/i-built-a-pytest-like-tool-for-ai-agents-because-it-passed-once-isnt-good-enough-2j30)
+- [dupl8](https://dev.to/query_filter_591122b53770/dupl8-bkg)
+- [FlutterJS: I Built a Flutter Compiler That Outputs Real HTML &lpar;Not Canvas&rpar;](https://dev.to/flutterjs/flutterjs-i-built-a-flutter-compiler-that-outputs-real-html-not-canvas-1kc4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
