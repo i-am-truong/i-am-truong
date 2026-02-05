@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the Vibes: Vibe Coding Changed Who Can Build, Not How Software Should Be Built](https://dev.to/guypowell/beyond-the-vibes-vibe-coding-changed-who-can-build-not-how-software-should-be-built-1n0e)
-- [At Some Point, Your Code Stops Being Enough](https://dev.to/vinitshahdeo/at-some-point-your-code-stops-being-enough-2aj8)
-- [QuietHaven](https://dev.to/kovu349/quiethaven-kaf)
-- [SSL в BitrixVM на CentOS: создание и продление Let&#39;s Encrypt по шагам](https://dev.to/_vproger_/ssl-v-bitrixvm-na-centos-sozdaniie-i-prodlieniie-lets-encrypt-po-shagham-1h98)
-- [PostHog Workflows Tutorial: i18n, Push Notifications &amp; Webhooks](https://dev.to/b42/posthog-workflows-tips-and-tricks-51kp)
+- [Deploy Like Vercel on Your Own VPS: A Complete ServerCompass Guide](https://dev.to/harry_nguyen_79369d8e9cdb/deploy-like-vercel-on-your-own-vps-a-complete-servercompass-guide-i18)
+- [const with Object or Array in Javascript](https://dev.to/rahul1994jh/const-with-object-or-array-in-javascript-c3m)
+- [Rate my palindrome checker algorithm](https://dev.to/kevincp17/rate-my-palindrome-checker-algorithm-43gk)
+- [From Concept to Market Leader: A Guide to Sustainable Scaling of MVP](https://dev.to/steve_davis_359cf13c7813b/from-concept-to-market-leader-a-guide-to-sustainable-scaling-of-mvp-138j)
+- [Hierarchical Multi-Scale Attention for Semantic Segmentation](https://dev.to/paperium/hierarchical-multi-scale-attention-for-semantic-segmentation-56mo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
