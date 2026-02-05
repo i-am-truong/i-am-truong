@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built Financial Habits That Were Easy to Abandon](https://dev.to/jamespatterson25/i-built-financial-habits-that-were-easy-to-abandon-2kg)
-- [Video Understanding with Gemini 3.0 Flash for Robotics](https://dev.to/ptruiz/video-understanding-with-gemini-30-flash-for-robotics-5896)
-- [Fighting with json - a war story](https://dev.to/kimkulling/fighting-with-json-a-war-story-41dn)
-- [Why I Built an Anti-Baby-Shower Website](https://dev.to/yixn_io/why-i-built-an-anti-baby-shower-website-4648)
-- [Writing WBS with AI Pair Programming: Secret to Complete WBS in 1 Hour](https://dev.to/_jeongyuhyeon_03de1/writing-wbs-with-ai-pair-programming-secret-to-complete-wbs-in-1-hour-ekf)
+- [Your infrastructure isn’t ready for agentic development at scale](https://dev.to/signadot/your-infrastructure-isnt-ready-for-agentic-development-at-scale-25jk)
+- [EC2 Spot vs. Reserved: Which Saved Us $5,000 Last Quarter?](https://dev.to/cloudwiseteam/ec2-spot-vs-reserved-which-saved-us-5000-last-quarter-481b)
+- [Revisiting DSA Through Mini Projects #2: HTML Syntax Validator](https://dev.to/amelia2802/revisiting-dsa-through-mini-projects-2-html-syntax-validator-1c35)
+- [7 Years of Experience, 0% Conversion: A Reality Check on the 2026 Job Market](https://dev.to/feta95/7-years-of-experience-0-conversion-a-reality-check-on-the-2026-job-market-3ij2)
+- [Get back inserted Id](https://dev.to/lancer1977/get-back-inserted-id-81b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
