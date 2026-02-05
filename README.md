@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Tired of over-bloated developer tool sites?](https://dev.to/daniel_castaosanchez_a8/tired-of-over-bloated-developer-tool-sites-2g91)
-- [The PR Template I Use to Keep Reviews Fast &lpar;and Teams Sane&rpar;](https://dev.to/crlian/the-pr-template-i-use-to-keep-reviews-fast-and-teams-sane-kl1)
-- [Escaping the Dumbzone, Part 4: Advanced Patterns](https://dev.to/diggidydale/escaping-the-dumbzone-part-4-advanced-patterns-151m)
-- [UUID v4 vs v7: What Changed and Why It Matters](https://dev.to/santacruz/uuid-v4-vs-v7-what-changed-and-why-it-matters-2bj6)
-- [Why Your AI Agent is a Security Nightmare &lpar;And How to Fix It&rpar; 🛡️](https://dev.to/hleliofficiel/why-your-ai-agent-is-a-security-nightmare-and-how-to-fix-it-2lpl)
+- [I Built Financial Habits That Were Easy to Abandon](https://dev.to/jamespatterson25/i-built-financial-habits-that-were-easy-to-abandon-2kg)
+- [Video Understanding with Gemini 3.0 Flash for Robotics](https://dev.to/ptruiz/video-understanding-with-gemini-30-flash-for-robotics-5896)
+- [Fighting with json - a war story](https://dev.to/kimkulling/fighting-with-json-a-war-story-41dn)
+- [Why I Built an Anti-Baby-Shower Website](https://dev.to/yixn_io/why-i-built-an-anti-baby-shower-website-4648)
+- [Writing WBS with AI Pair Programming: Secret to Complete WBS in 1 Hour](https://dev.to/_jeongyuhyeon_03de1/writing-wbs-with-ai-pair-programming-secret-to-complete-wbs-in-1-hour-ekf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
