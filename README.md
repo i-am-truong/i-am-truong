@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Trust in AI Agents: Why Identity Verification is the Missing Layer](https://dev.to/samuel_deering_c7e6384a18/building-trust-in-ai-agents-why-identity-verification-is-the-missing-layer-5477)
-- [Schengen Visa: Can I Legally Job Hunt in the EU on a Tourist Permit?](https://dev.to/piotr-get-talent/schengen-visa-can-i-legally-job-hunt-in-the-eu-on-a-tourist-permit-511a)
-- [Mapping My Terraform Project to DevSecOps Job Requirements.](https://dev.to/techgirli/mapping-my-terraform-project-to-devsecops-job-requirements-4b62)
-- [How to Secure Laravel Applications from Common Attacks](https://dev.to/robin-ivi/how-to-secure-laravel-applications-from-common-attacks-3np6)
-- [I Built a Free Desktop App for Real-time Transcription &amp; Translation - Here&#39;s Everything It Can Do](https://dev.to/mrd999999/i-built-a-free-desktop-app-for-real-time-transcription-translation-heres-everything-it-can-do-c65)
+- [Beyond the Vibes: Vibe Coding Changed Who Can Build, Not How Software Should Be Built](https://dev.to/guypowell/beyond-the-vibes-vibe-coding-changed-who-can-build-not-how-software-should-be-built-1n0e)
+- [At Some Point, Your Code Stops Being Enough](https://dev.to/vinitshahdeo/at-some-point-your-code-stops-being-enough-2aj8)
+- [QuietHaven](https://dev.to/kovu349/quiethaven-kaf)
+- [SSL в BitrixVM на CentOS: создание и продление Let&#39;s Encrypt по шагам](https://dev.to/_vproger_/ssl-v-bitrixvm-na-centos-sozdaniie-i-prodlieniie-lets-encrypt-po-shagham-1h98)
+- [PostHog Workflows Tutorial: i18n, Push Notifications &amp; Webhooks](https://dev.to/b42/posthog-workflows-tips-and-tricks-51kp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
