@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Stop Leaking API Keys in your AI Agent Logs: A Go Sidecar Approach](https://dev.to/aragossa/stop-leaking-api-keys-in-your-ai-agent-logs-a-go-sidecar-approach-d3)
+- [WebVision Database: Visual Learning and Understanding from Web Data](https://dev.to/paperium/webvision-database-visual-learning-and-understanding-from-web-data-49aa)
+- [Creating Digital Trust Through Secure Product Design — Perspectives Guided by Suzanne Alipourian-Frascogna](https://dev.to/fruity_pebbles_9eb2518a6e/creating-digital-trust-through-secure-product-design-perspectives-guided-by-suzanne-562l)
 - [Edge-to-Cloud Swarm Coordination for planetary geology survey missions for extreme data sparsity scenarios](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-planetary-geology-survey-missions-for-extreme-data-sparsity-3ck6)
 - [Why Every European Developer&#39;s Data Ends Up in San Francisco](https://dev.to/simskii/why-every-european-developers-data-ends-up-in-san-francisco-31db)
-- [Is Your Shopify Store Ready for AI Agents?](https://dev.to/mdminhazul_abedin_99f4ad/is-your-shopify-store-ready-for-ai-agents-4lf7)
-- [I started learning PHP](https://dev.to/isye/i-started-learning-php-3hp5)
-- [Software Autonomy: A Cost Reassessment for Engineering Leaders](https://dev.to/kushagra_ag/software-autonomy-a-cost-reassessment-for-engineering-leaders-3glg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
