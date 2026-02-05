@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [n8n AI Agent vs LLM Chain: When to Use LangChain Code?](https://dev.to/ciphernutz/n8n-ai-agent-vs-llm-chain-when-to-use-langchain-code-48h4)
-- [How I Built a Claude Code Skill That Scaffolds Complete Arbitrum dApps](https://dev.to/bengreenberg/how-i-built-a-claude-code-skill-that-scaffolds-complete-arbitrum-dapps-2njl)
-- [SEO Is a Marathon: How AI Agents Can Help You Stay the Course](https://dev.to/stikhonchuk/seo-is-a-marathon-how-ai-agents-can-help-you-stay-the-course-3i2d)
-- [87% Compromised in 4 Hours: The Memory Poisoning Stat That Should Terrify AI Developers](https://dev.to/mkdelta221/87-compromised-in-4-hours-the-memory-poisoning-stat-that-should-terrify-ai-developers-58oc)
-- [KAYAP: Hardening Drone Stability via Neural Differential Manifolds](https://dev.to/hejhdiss/kayap-hardening-drone-stability-via-neural-differential-manifolds-4990)
+- [Reducing LLM API Costs by 43%: A Technical Deep-Dive into Intelligent Prompt Routing](https://dev.to/dwelvin_morgan_38be4ff3ba/reducing-llm-api-costs-by-43-a-technical-deep-dive-into-intelligent-prompt-routing-17o8)
+- [Agentic Commerce: Dive into ACP &amp; UCP Protocols](https://dev.to/sraveend/agentic-commerce-dive-into-acp-ucp-protocols-4ahj)
+- [From Chatbots to Agentic AI: Why Autonomous Systems Are the Next Enterprise Shift](https://dev.to/artyom_mukhopad_a9444ed6d/from-chatbots-to-agentic-ai-why-autonomous-systems-are-the-next-enterprise-shift-4763)
+- [64-bit bootloader from scratch in AT&amp;T assembly, Part-3](https://dev.to/bhjaipal/64-bit-bootloader-from-scratch-in-att-assembly-part-3-15jj)
+- [Common Form Mistakes to Avoid When Using Short Form Builder](https://dev.to/techpulzz/common-form-mistakes-to-avoid-when-using-short-form-builder-13l7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
