@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your &quot;Let&#39;s Huddle&quot; Might Be As Dead As NFT Pumps](https://dev.to/ryo_suwito/your-lets-huddle-might-be-as-dead-as-nft-pumps-1j1e)
-- [Lazy Pull, Smart Scale, eBPF Network](https://dev.to/persikbl/lazy-pull-smart-scale-ebpf-network-33kl)
-- [Using Google Sheets as a CMS: A Simple, Powerful Approach to Content Management](https://dev.to/codejourney/using-google-sheets-as-a-cms-a-simple-powerful-approach-to-content-management-fg1)
-- [Introducing Flexiwind &lpar;Beta&rpar;: a composable UI system for Laravel &amp; Livewire](https://dev.to/unoforge/introducing-flexiwind-beta-a-composable-ui-system-for-laravel-livewire-144a)
-- [Debugging and Stopping Infinite Render Loops in React](https://dev.to/ravgeetdhillon/debugging-and-stopping-infinite-render-loops-in-react-fm9)
+- [@sandagent/sdk — Run Claude in a Sandbox with Vercel AI SDK Streams](https://dev.to/shue_zheng_a1d2e9cc33f6fd/sandagentsdk-run-claude-in-a-sandbox-with-vercel-ai-sdk-streams-1ed3)
+- [Why Folder Structure Matters During Development &lpar;With `app/` Directory Example&rpar;](https://dev.to/hamidrazadev/why-folder-structure-matters-during-development-with-app-directory-example-4ldb)
+- [Java em Containers: Estratégias Modernas para Build](https://dev.to/denisarruda/java-em-containers-estrategias-modernas-para-build-1bpa)
+- [Ghibli moment for 3D Printing](https://dev.to/ankk98/ghibli-moment-for-3d-printing-1lh1)
+- [AI-Powered Data Retrieval: A Smart Solution or Hidden Cost Trap?](https://dev.to/psgtechnautsnl/ai-powered-data-retrieval-a-smart-solution-or-hidden-cost-trap-532p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
