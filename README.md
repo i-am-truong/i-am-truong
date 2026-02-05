@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Detecting a Cycle in a Linked List &lpar;LeetCode 141&rpar;](https://dev.to/nithya_dharshiniofficial/detecting-a-cycle-in-a-linked-list-leetcode-141-4bd0)
-- [Using SafeLine WAF to Mitigate Zero-Day Web Exploitation Risks in a Self-Hosted Environment](https://dev.to/arina_cholee/using-safeline-waf-to-mitigate-zero-day-web-exploitation-risks-in-a-self-hosted-environment-e8i)
-- [Cache-Control for Private APIs — the bug nobody sees](https://dev.to/liudasjan/cache-control-for-private-apis-the-bug-nobody-sees-gp)
-- [☁️ Unmasking Serverless Secrets: A Deep Dive into](https://dev.to/harsh_a45dbc191edc27e4b96/unmasking-serverless-secrets-a-deep-dive-into-2ima)
-- [Building a Treasury SaaS with React, Node.js, Firebase &amp; MySQL](https://dev.to/hernan_ricardo/building-a-treasury-saas-with-react-nodejs-firebase-mysql-4ogj)
+- [Building Trust in AI Agents: Why Identity Verification is the Missing Layer](https://dev.to/samuel_deering_c7e6384a18/building-trust-in-ai-agents-why-identity-verification-is-the-missing-layer-5477)
+- [Schengen Visa: Can I Legally Job Hunt in the EU on a Tourist Permit?](https://dev.to/piotr-get-talent/schengen-visa-can-i-legally-job-hunt-in-the-eu-on-a-tourist-permit-511a)
+- [Mapping My Terraform Project to DevSecOps Job Requirements.](https://dev.to/techgirli/mapping-my-terraform-project-to-devsecops-job-requirements-4b62)
+- [How to Secure Laravel Applications from Common Attacks](https://dev.to/robin-ivi/how-to-secure-laravel-applications-from-common-attacks-3np6)
+- [I Built a Free Desktop App for Real-time Transcription &amp; Translation - Here&#39;s Everything It Can Do](https://dev.to/mrd999999/i-built-a-free-desktop-app-for-real-time-transcription-translation-heres-everything-it-can-do-c65)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
