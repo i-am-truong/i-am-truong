@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [January 2026 DigitalOcean Tutorial Roundup: OpenClaw and LangSmith](https://dev.to/digitalocean/january-2026-digitalocean-tutorial-roundup-openclaw-and-langsmith-34c3)
-- [Weighted Load Balancing Across LLM Providers Without Code Changes](https://dev.to/pranay_batta/weighted-load-balancing-across-llm-providers-without-code-changes-2mjj)
-- [White Label Chat: The Complete Guide to Branded Chat for Your Website [2026]](https://dev.to/alakkadshaw/white-label-chat-the-complete-guide-to-branded-chat-for-your-website-2026-57e7)
-- [[Boost]](https://dev.to/m4rri4nne/-4f75)
-- [AZURE LANDING ZONES: THE FOUNDATION THAT SAVED US 30% IN CLOUD COSTS](https://dev.to/amir_abbasi_060a46df2a6d6/azure-landing-zones-the-foundation-that-saved-us-30-in-cloud-costs-2c0d)
+- [We Tried to Build Analytics Without a Database. It Sort of Worked.](https://dev.to/density_tech/we-tried-to-build-analytics-without-a-database-it-sort-of-worked-396)
+- [The #1 Downloaded ClawdBot Skill Was a Backdoor](https://dev.to/er_li_92a27f8612f9f070e18/the-1-downloaded-clawdbot-skill-was-a-backdoor-4o1p)
+- [Understanding Laravel Routing: Complete Guide with Examples &lpar;Laravel 12&rpar;](https://dev.to/muhammmad_nawaz_d8ba895e1/understanding-laravel-routing-complete-guide-with-examples-laravel-12-21aj)
+- [As AI Sports Coaches continue to revolutionize the world of](https://dev.to/drcarlosruizviquez/as-ai-sports-coaches-continue-to-revolutionize-the-world-of-54ej)
+- [Getting Started with Laravel: A Complete Beginner&#39;s Guide](https://dev.to/muhammmad_nawaz_d8ba895e1/getting-started-with-laravel-a-complete-beginners-guide-2iok)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
