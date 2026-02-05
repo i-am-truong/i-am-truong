@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [@sandagent/sdk — Run Claude in a Sandbox with Vercel AI SDK Streams](https://dev.to/shue_zheng_a1d2e9cc33f6fd/sandagentsdk-run-claude-in-a-sandbox-with-vercel-ai-sdk-streams-1ed3)
-- [Why Folder Structure Matters During Development &lpar;With `app/` Directory Example&rpar;](https://dev.to/hamidrazadev/why-folder-structure-matters-during-development-with-app-directory-example-4ldb)
-- [Java em Containers: Estratégias Modernas para Build](https://dev.to/denisarruda/java-em-containers-estrategias-modernas-para-build-1bpa)
-- [Ghibli moment for 3D Printing](https://dev.to/ankk98/ghibli-moment-for-3d-printing-1lh1)
-- [AI-Powered Data Retrieval: A Smart Solution or Hidden Cost Trap?](https://dev.to/psgtechnautsnl/ai-powered-data-retrieval-a-smart-solution-or-hidden-cost-trap-532p)
+- [Designing Systems That Can Change &lpar;Before They Scale&rpar;](https://dev.to/farzandev13/designing-systems-that-can-change-before-they-scale-154g)
+- [Astro in 2026: Why It&#39;s Beating Next.js for Content Sites &lpar;And What Cloudflare&#39;s Acquisition Means&rpar;](https://dev.to/polliog/astro-in-2026-why-its-beating-nextjs-for-content-sites-and-what-cloudflares-acquisition-means-6kl)
+- [The Hard Parts of Software Localization](https://dev.to/nadiakacem/the-hard-parts-of-software-localization-50ad)
+- [Simple Rust Program to Add Two Vectors](https://dev.to/ben-santora/simple-rust-program-to-add-two-vectors-33eb)
+- [NEW HERE!](https://dev.to/prerna_chauhan_2bb51ee84d/new-here-2ogb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
