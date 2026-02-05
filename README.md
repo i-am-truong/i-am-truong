@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🛩 Beginner-Friendly Guide &#39;Trionic Array II&#39; - Problem 3640 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-trionic-array-ii-problem-3640-c-python-javascript-52nh)
-- [Custom Code vs. Ready-Made PHP Scripts: When is Which Worth It?](https://dev.to/mirko_stahnke_a9da18e5549/custom-code-vs-ready-made-php-scripts-when-is-which-worth-it-4lc1)
-- [Why I Built a Stateless Trend Dashboard — Minimal, Focused, and Ephemeral](https://dev.to/rushyhirosan/why-i-built-a-stateless-trend-dashboard-41f1)
-- [2026-02-04 Weekly Quantum News](https://dev.to/dan_ledger_ce2886f0037972/2026-02-04-weekly-quantum-news-18b0)
-- [Are you stuck in the weeds of mechanics or lost in the clouds of &#39;player experience&#39;? Learn how to bridge the gap using my Design Tiers framework.](https://dev.to/gamedesignbites/are-you-stuck-in-the-weeds-of-mechanics-or-lost-in-the-clouds-of-player-experience-learn-how-to-4bbo)
+- [I Know This Will Upset Some Devs, but Tailwind + Shadcn/ui + Shadow DOM = Pain](https://dev.to/ujja/i-know-this-will-upset-some-devs-but-tailwind-shadcnui-shadow-dom-pain-44l7)
+- [Coordination Is the Substrate: What NVIDIA&#39;s Groq Acquisition Really Signals About AI Governance](https://dev.to/narnaiezzsshaa/coordination-is-the-substrate-what-nvidias-groq-acquisition-really-signals-about-ai-governance-2d14)
+- [Why WebSockets Are Overkill for Most Real-Time Apps](https://dev.to/aitrandingprompt/why-websockets-are-overkill-for-most-real-time-apps-12ga)
+- [Why We Built 9 Agent Kits in 1 Day](https://dev.to/seakai/why-we-built-9-agent-kits-in-1-day-4408)
+- [The Best Ways to Build a Blog in Rails 8: From Markdown to Action Text](https://dev.to/zilton7/the-best-ways-to-build-a-blog-in-rails-8-from-markdown-to-action-text-4e0b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
