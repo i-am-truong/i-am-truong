@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Know This Will Upset Some Devs, but Tailwind + Shadcn/ui + Shadow DOM = Pain](https://dev.to/ujja/i-know-this-will-upset-some-devs-but-tailwind-shadcnui-shadow-dom-pain-44l7)
-- [Coordination Is the Substrate: What NVIDIA&#39;s Groq Acquisition Really Signals About AI Governance](https://dev.to/narnaiezzsshaa/coordination-is-the-substrate-what-nvidias-groq-acquisition-really-signals-about-ai-governance-2d14)
-- [Why WebSockets Are Overkill for Most Real-Time Apps](https://dev.to/aitrandingprompt/why-websockets-are-overkill-for-most-real-time-apps-12ga)
-- [Why We Built 9 Agent Kits in 1 Day](https://dev.to/seakai/why-we-built-9-agent-kits-in-1-day-4408)
-- [The Best Ways to Build a Blog in Rails 8: From Markdown to Action Text](https://dev.to/zilton7/the-best-ways-to-build-a-blog-in-rails-8-from-markdown-to-action-text-4e0b)
+- [Detecting a Cycle in a Linked List &lpar;LeetCode 141&rpar;](https://dev.to/nithya_dharshiniofficial/detecting-a-cycle-in-a-linked-list-leetcode-141-4bd0)
+- [Using SafeLine WAF to Mitigate Zero-Day Web Exploitation Risks in a Self-Hosted Environment](https://dev.to/arina_cholee/using-safeline-waf-to-mitigate-zero-day-web-exploitation-risks-in-a-self-hosted-environment-e8i)
+- [Cache-Control for Private APIs — the bug nobody sees](https://dev.to/liudasjan/cache-control-for-private-apis-the-bug-nobody-sees-gp)
+- [☁️ Unmasking Serverless Secrets: A Deep Dive into](https://dev.to/harsh_a45dbc191edc27e4b96/unmasking-serverless-secrets-a-deep-dive-into-2ima)
+- [Building a Treasury SaaS with React, Node.js, Firebase &amp; MySQL](https://dev.to/hernan_ricardo/building-a-treasury-saas-with-react-nodejs-firebase-mysql-4ogj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
