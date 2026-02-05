@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Deploy Like Vercel on Your Own VPS: A Complete ServerCompass Guide](https://dev.to/harry_nguyen_79369d8e9cdb/deploy-like-vercel-on-your-own-vps-a-complete-servercompass-guide-i18)
-- [const with Object or Array in Javascript](https://dev.to/rahul1994jh/const-with-object-or-array-in-javascript-c3m)
-- [Rate my palindrome checker algorithm](https://dev.to/kevincp17/rate-my-palindrome-checker-algorithm-43gk)
-- [From Concept to Market Leader: A Guide to Sustainable Scaling of MVP](https://dev.to/steve_davis_359cf13c7813b/from-concept-to-market-leader-a-guide-to-sustainable-scaling-of-mvp-138j)
-- [Hierarchical Multi-Scale Attention for Semantic Segmentation](https://dev.to/paperium/hierarchical-multi-scale-attention-for-semantic-segmentation-56mo)
+- [Why I Started Building My Portfolio Early](https://dev.to/dinesh_04/why-i-started-building-my-portfolio-early-150k)
+- [2026 AI Trends for Developers: Why Conversation Is Becoming a System Interface](https://dev.to/worqlo/2026-ai-trends-for-developers-why-conversation-is-becoming-a-system-interface-305n)
+- [A Tiny TypeScript Utility to Mask Emails - GDPR-Friendly by Design](https://dev.to/ekaone/a-tiny-typescript-utility-to-mask-emails-gdpr-friendly-by-design-1f3b)
+- [Why Comparing SoC Specs Alone Is Misleading &lpar;And What Actually Matters&rpar;](https://dev.to/srinath_369/why-comparing-soc-specs-alone-is-misleading-and-what-actually-matters-3n9i)
+- [Building Operators with Kubebuilder](https://dev.to/godofgeeks/building-operators-with-kubebuilder-35fn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
