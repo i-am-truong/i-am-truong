@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SwiftUI Build &amp; CI/CD Architecture &lpar;Ship Fast Without Breaking Things&rpar;](https://dev.to/sebastienlato/swiftui-build-cicd-architecture-ship-fast-without-breaking-things-knf)
 - [Building a Supermarket Data Pipeline](https://dev.to/oliver_samuel_028c6f65ad6/building-a-supermarket-data-pipeline-3pfg)
 - [How to Configure JDK 25 for GitHub Copilot Coding Agent](https://dev.to/brunoborges/how-to-configure-jdk-25-for-github-copilot-coding-agent-2ecn)
 - [2026-02-05 Daily Robotics News](https://dev.to/dan_ledger_ce2886f0037972/2026-02-05-daily-robotics-news-4f1d)
 - [Uniswap V3: When collect&lpar;&rpar; Is More Than “Collect Fees”](https://dev.to/decoder_man/uniswap-v3-when-collect-is-more-than-collect-fees-5chj)
-- [Why the Next AWS Outage Will Cost You More Than the Last One &lpar;And What to Do About It&rpar;](https://dev.to/controlplane/why-the-next-aws-outage-will-cost-you-more-than-the-last-one-and-what-to-do-about-it-508j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
