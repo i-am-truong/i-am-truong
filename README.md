@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [TableCraft: From 5 Hours to 5 Minutes for Production-Ready Table APIs](https://dev.to/jacksonkasi/building-tablecraft-from-5-hours-to-5-minutes-for-production-ready-table-apis-am0)
+- [What If Your AI Had Visual Studio&#39;s IntelliSense?](https://dev.to/ladislav_sopko_0ics/what-if-your-ai-had-visual-studios-intellisense-40e7)
+- [I Accidentally Built a Spam Bot: The Engineering Lessons from -16 Karma](https://dev.to/mosiddi/i-accidentally-built-a-spam-bot-the-engineering-lessons-from-16-karma-364m)
+- [Probé Playwright Agents en E2E: lo que realmente aportan &lpar;y dónde fallan&rpar;](https://dev.to/jmr85/probe-playwright-agents-en-e2e-lo-que-realmente-aportan-y-donde-fallan-13n3)
 - [Handle data set pagination with `PagedListResult`](https://dev.to/iamrzr/handle-data-set-pagination-with-pagedlistresult-4hc2)
-- [useReducer vs useState](https://dev.to/joma_3b2f21917842d7461716/usereducer-vs-usestate-2n88)
-- [Azure Storage 101: A Step-By-Step Guide to Provisioning Your Storage Account](https://dev.to/rahimah_dev/azure-storage-101-a-step-by-step-guide-to-provisioning-your-storage-account-16ep)
-- [New Year, New Me: UI/UX Design with Stitch](https://dev.to/gde/new-year-new-me-uiux-design-with-stitch-4af3)
-- [Do we still need DTO ?](https://dev.to/konfydev/do-we-need-dto-with-graphql-53i5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
