@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why I Started Building My Portfolio Early](https://dev.to/dinesh_04/why-i-started-building-my-portfolio-early-150k)
-- [2026 AI Trends for Developers: Why Conversation Is Becoming a System Interface](https://dev.to/worqlo/2026-ai-trends-for-developers-why-conversation-is-becoming-a-system-interface-305n)
-- [A Tiny TypeScript Utility to Mask Emails - GDPR-Friendly by Design](https://dev.to/ekaone/a-tiny-typescript-utility-to-mask-emails-gdpr-friendly-by-design-1f3b)
-- [Why Comparing SoC Specs Alone Is Misleading &lpar;And What Actually Matters&rpar;](https://dev.to/srinath_369/why-comparing-soc-specs-alone-is-misleading-and-what-actually-matters-3n9i)
-- [Building Operators with Kubebuilder](https://dev.to/godofgeeks/building-operators-with-kubebuilder-35fn)
+- [Design Recipe: Observability Pyramid for LLM Infrastructure](https://dev.to/astronaut27/design-recipe-observability-pyramid-for-llm-infrastructure-3b5l)
+- [Ethereum&#39;s Frame Transactions for Post-Quantum Accounts, ChA Quietly Advances Beyond the Hype, ERC-8004 Is Live](https://dev.to/etherspot/ethereums-frame-transactions-for-post-quantum-accounts-cha-quietly-advances-beyond-the-hype-21jl)
+- [Tip: don&#39;t use SalesForce Marketing Cloud for account recovery emails](https://dev.to/street-air-5461/tip-dont-use-salesforce-marketing-cloud-for-account-recovery-emails-541d)
+- [Building Multi-Tenant AI Middleware on Cloudflare&#39;s Edge &lpar;No GPUs Required&rpar;](https://dev.to/rakesh1002/building-multi-tenant-ai-middleware-on-cloudflares-edge-no-gpus-required-6j7)
+- [I Built a Nuxt 4 Starter Template I&#39;d Actually Use in Production](https://dev.to/maxxbgt/i-built-a-nuxt-4-starter-template-id-actually-use-in-production-fe6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
