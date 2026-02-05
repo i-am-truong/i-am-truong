@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Uniswap V3: When collect&lpar;&rpar; Is More Than “Collect Fees”](https://dev.to/decoder_man/uniswap-v3-when-collect-is-more-than-collect-fees-5chj)
+- [Why the Next AWS Outage Will Cost You More Than the Last One &lpar;And What to Do About It&rpar;](https://dev.to/controlplane/why-the-next-aws-outage-will-cost-you-more-than-the-last-one-and-what-to-do-about-it-508j)
 - [Copilot SDK for Java 1.0.7: Session Lifecycle Hooks and Enhanced Observability](https://dev.to/brunoborges/copilot-sdk-for-java-107-session-lifecycle-hooks-and-enhanced-observability-4kmi)
 - [How I Compiled 647 Semgrep Rules to Native Rust](https://dev.to/bumahkib7/how-i-compiled-647-semgrep-rules-to-native-rust-1mk3)
-- [Incremental Content Management with Laravel and Eleventy](https://dev.to/joshvickerson/incremental-content-management-with-laravel-and-eleventy-3iph)
-- [Claude Opus 4.6 for Developers: Agent Teams, 1M Context, and What Actually Matters](https://dev.to/thegdsks/claude-opus-46-for-developers-agent-teams-1m-context-and-what-actually-matters-4h8c)
-- [How to Build an AI-Powered WhatsApp Bot That Analyzes Images Using Python and Vision Models](https://dev.to/ambalogun/how-to-build-an-ai-powered-whatsapp-bot-that-analyzes-images-using-python-and-vision-models-3062)
+- [What really breaks large-scale cloud migrations — Solution!](https://dev.to/claudiodevops/what-really-breaks-large-scale-cloud-migrations-solution-50o2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
