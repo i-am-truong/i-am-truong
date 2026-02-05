@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Backend Tests](https://dev.to/nicolas_vbgh/backend-tests-3d9p)
-- [What do you have to do as junior programmer to get a job?](https://dev.to/arnedo1/what-do-you-have-to-do-as-junior-programmer-to-get-a-job-2k1a)
-- [I built a pytest-like tool for AI agents because &quot;it passed once&quot; isn&#39;t good enough](https://dev.to/alepot55/i-built-a-pytest-like-tool-for-ai-agents-because-it-passed-once-isnt-good-enough-2j30)
-- [dupl8](https://dev.to/query_filter_591122b53770/dupl8-bkg)
-- [FlutterJS: I Built a Flutter Compiler That Outputs Real HTML &lpar;Not Canvas&rpar;](https://dev.to/flutterjs/flutterjs-i-built-a-flutter-compiler-that-outputs-real-html-not-canvas-1kc4)
+- [Designing With Everyone in Mind: Color &amp; Accessibility](https://dev.to/fgoyer/designing-with-everyone-in-mind-color-accessibility-5dpo)
+- [The $18,000 Lesson](https://dev.to/bhoyee/the-18000-lesson-4co8)
+- [The Architect’s Guide to Automated Outreach: Beyond the “Hello”](https://dev.to/onlineproxy_io/the-architects-guide-to-automated-outreach-beyond-the-hello-14hb)
+- [Day 5 of #100DaysOfCode — Fetching Data in React &lpar;useEffect + fetch + axios&rpar;](https://dev.to/m_saad_ahmad/day-5-of-100daysofcode-fetching-data-in-react-useeffect-fetch-axios-46lk)
+- [I Deleted 100,000 Lines of Code to Pivot My App to Workflows &lpar;And Made It 37x Faster&rpar;](https://dev.to/traviticus/i-deleted-100000-lines-of-code-to-pivot-my-app-to-workflows-and-made-it-37x-faster-2f57)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
