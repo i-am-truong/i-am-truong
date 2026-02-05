@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop Leaking API Keys in your AI Agent Logs: A Go Sidecar Approach](https://dev.to/aragossa/stop-leaking-api-keys-in-your-ai-agent-logs-a-go-sidecar-approach-d3)
-- [WebVision Database: Visual Learning and Understanding from Web Data](https://dev.to/paperium/webvision-database-visual-learning-and-understanding-from-web-data-49aa)
-- [Creating Digital Trust Through Secure Product Design — Perspectives Guided by Suzanne Alipourian-Frascogna](https://dev.to/fruity_pebbles_9eb2518a6e/creating-digital-trust-through-secure-product-design-perspectives-guided-by-suzanne-562l)
-- [Edge-to-Cloud Swarm Coordination for planetary geology survey missions for extreme data sparsity scenarios](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-planetary-geology-survey-missions-for-extreme-data-sparsity-3ck6)
-- [Why Every European Developer&#39;s Data Ends Up in San Francisco](https://dev.to/simskii/why-every-european-developers-data-ends-up-in-san-francisco-31db)
+- [Incremental Content Management with Laravel and Eleventy](https://dev.to/joshvickerson/incremental-content-management-with-laravel-and-eleventy-3iph)
+- [Claude Opus 4.6 for Developers: Agent Teams, 1M Context, and What Actually Matters](https://dev.to/thegdsks/claude-opus-46-for-developers-agent-teams-1m-context-and-what-actually-matters-4h8c)
+- [How to Build an AI-Powered WhatsApp Bot That Analyzes Images Using Python and Vision Models](https://dev.to/ambalogun/how-to-build-an-ai-powered-whatsapp-bot-that-analyzes-images-using-python-and-vision-models-3062)
+- [API designs for microservice comparison.](https://dev.to/gokul_gk/api-designs-for-microservice-comparison-39o4)
+- [From 0.3% Crash Rate to Zero: Scaling Flutter Cache with Batching, Locking, and Observable State](https://dev.to/devmatrash/from-03-crash-rate-to-zero-scaling-flutter-cache-with-batching-locking-and-observable-state-24oi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
