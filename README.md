@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Reducing LLM API Costs by 43%: A Technical Deep-Dive into Intelligent Prompt Routing](https://dev.to/dwelvin_morgan_38be4ff3ba/reducing-llm-api-costs-by-43-a-technical-deep-dive-into-intelligent-prompt-routing-17o8)
-- [Agentic Commerce: Dive into ACP &amp; UCP Protocols](https://dev.to/sraveend/agentic-commerce-dive-into-acp-ucp-protocols-4ahj)
-- [From Chatbots to Agentic AI: Why Autonomous Systems Are the Next Enterprise Shift](https://dev.to/artyom_mukhopad_a9444ed6d/from-chatbots-to-agentic-ai-why-autonomous-systems-are-the-next-enterprise-shift-4763)
-- [64-bit bootloader from scratch in AT&amp;T assembly, Part-3](https://dev.to/bhjaipal/64-bit-bootloader-from-scratch-in-att-assembly-part-3-15jj)
-- [Common Form Mistakes to Avoid When Using Short Form Builder](https://dev.to/techpulzz/common-form-mistakes-to-avoid-when-using-short-form-builder-13l7)
+- [Your &quot;Let&#39;s Huddle&quot; Might Be As Dead As NFT Pumps](https://dev.to/ryo_suwito/your-lets-huddle-might-be-as-dead-as-nft-pumps-1j1e)
+- [Lazy Pull, Smart Scale, eBPF Network](https://dev.to/persikbl/lazy-pull-smart-scale-ebpf-network-33kl)
+- [Using Google Sheets as a CMS: A Simple, Powerful Approach to Content Management](https://dev.to/codejourney/using-google-sheets-as-a-cms-a-simple-powerful-approach-to-content-management-fg1)
+- [Introducing Flexiwind &lpar;Beta&rpar;: a composable UI system for Laravel &amp; Livewire](https://dev.to/unoforge/introducing-flexiwind-beta-a-composable-ui-system-for-laravel-livewire-144a)
+- [Debugging and Stopping Infinite Render Loops in React](https://dev.to/ravgeetdhillon/debugging-and-stopping-infinite-render-loops-in-react-fm9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
