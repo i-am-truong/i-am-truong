@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Supermarket Data Pipeline](https://dev.to/oliver_samuel_028c6f65ad6/building-a-supermarket-data-pipeline-3pfg)
+- [How to Configure JDK 25 for GitHub Copilot Coding Agent](https://dev.to/brunoborges/how-to-configure-jdk-25-for-github-copilot-coding-agent-2ecn)
+- [2026-02-05 Daily Robotics News](https://dev.to/dan_ledger_ce2886f0037972/2026-02-05-daily-robotics-news-4f1d)
 - [Uniswap V3: When collect&lpar;&rpar; Is More Than “Collect Fees”](https://dev.to/decoder_man/uniswap-v3-when-collect-is-more-than-collect-fees-5chj)
 - [Why the Next AWS Outage Will Cost You More Than the Last One &lpar;And What to Do About It&rpar;](https://dev.to/controlplane/why-the-next-aws-outage-will-cost-you-more-than-the-last-one-and-what-to-do-about-it-508j)
-- [Copilot SDK for Java 1.0.7: Session Lifecycle Hooks and Enhanced Observability](https://dev.to/brunoborges/copilot-sdk-for-java-107-session-lifecycle-hooks-and-enhanced-observability-4kmi)
-- [How I Compiled 647 Semgrep Rules to Native Rust](https://dev.to/bumahkib7/how-i-compiled-647-semgrep-rules-to-native-rust-1mk3)
-- [What really breaks large-scale cloud migrations — Solution!](https://dev.to/claudiodevops/what-really-breaks-large-scale-cloud-migrations-solution-50o2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
