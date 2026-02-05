@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Design Recipe: Observability Pyramid for LLM Infrastructure](https://dev.to/astronaut27/design-recipe-observability-pyramid-for-llm-infrastructure-3b5l)
-- [Ethereum&#39;s Frame Transactions for Post-Quantum Accounts, ChA Quietly Advances Beyond the Hype, ERC-8004 Is Live](https://dev.to/etherspot/ethereums-frame-transactions-for-post-quantum-accounts-cha-quietly-advances-beyond-the-hype-21jl)
-- [Tip: don&#39;t use SalesForce Marketing Cloud for account recovery emails](https://dev.to/street-air-5461/tip-dont-use-salesforce-marketing-cloud-for-account-recovery-emails-541d)
-- [Building Multi-Tenant AI Middleware on Cloudflare&#39;s Edge &lpar;No GPUs Required&rpar;](https://dev.to/rakesh1002/building-multi-tenant-ai-middleware-on-cloudflares-edge-no-gpus-required-6j7)
-- [I Built a Nuxt 4 Starter Template I&#39;d Actually Use in Production](https://dev.to/maxxbgt/i-built-a-nuxt-4-starter-template-id-actually-use-in-production-fe6)
+- [Control/Lopping Statement : For loop and While loop](https://dev.to/nanthini_ammu_ac02ad32802/controllopping-statement-for-loop-and-while-loop-9e1)
+- [Build a Real-World CI/CD Pipeline for Node.js using Docker, GitHub Actions, and AWS EC2](https://dev.to/awsandevops/build-a-real-world-cicd-pipeline-for-nodejs-using-docker-github-actions-and-aws-ec2-1j9a)
+- [Why Multi-Agent Deployment Might Slow Down Your Redshift DDL Deployments](https://dev.to/hantedyou_0106/why-multi-agent-deployment-might-slow-down-your-redshift-ddl-deployments-hkp)
+- [Rust in Linux: Fixing the Edges, Not the Core](https://dev.to/ben-santora/rust-in-linux-fixing-the-edges-not-the-core-218i)
+- [Showing the Power of RS-X with a “Scary” Credit-Risk Formula](https://dev.to/robert_sanders_04918a4344/showing-the-power-of-rs-x-with-a-scary-credit-risk-formula-nlp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
