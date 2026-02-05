@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Designing With Everyone in Mind: Color &amp; Accessibility](https://dev.to/fgoyer/designing-with-everyone-in-mind-color-accessibility-5dpo)
-- [The $18,000 Lesson](https://dev.to/bhoyee/the-18000-lesson-4co8)
-- [The Architect’s Guide to Automated Outreach: Beyond the “Hello”](https://dev.to/onlineproxy_io/the-architects-guide-to-automated-outreach-beyond-the-hello-14hb)
-- [Day 5 of #100DaysOfCode — Fetching Data in React &lpar;useEffect + fetch + axios&rpar;](https://dev.to/m_saad_ahmad/day-5-of-100daysofcode-fetching-data-in-react-useeffect-fetch-axios-46lk)
-- [I Deleted 100,000 Lines of Code to Pivot My App to Workflows &lpar;And Made It 37x Faster&rpar;](https://dev.to/traviticus/i-deleted-100000-lines-of-code-to-pivot-my-app-to-workflows-and-made-it-37x-faster-2f57)
+- [Edge-to-Cloud Swarm Coordination for planetary geology survey missions for extreme data sparsity scenarios](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-planetary-geology-survey-missions-for-extreme-data-sparsity-3ck6)
+- [Why Every European Developer&#39;s Data Ends Up in San Francisco](https://dev.to/simskii/why-every-european-developers-data-ends-up-in-san-francisco-31db)
+- [Is Your Shopify Store Ready for AI Agents?](https://dev.to/mdminhazul_abedin_99f4ad/is-your-shopify-store-ready-for-ai-agents-4lf7)
+- [I started learning PHP](https://dev.to/isye/i-started-learning-php-3hp5)
+- [Software Autonomy: A Cost Reassessment for Engineering Leaders](https://dev.to/kushagra_ag/software-autonomy-a-cost-reassessment-for-engineering-leaders-3glg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
