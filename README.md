@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Automated Video Generation with n8n and Remotion: Server Setup Guide](https://dev.to/hearts_ms_dc3f0d7657c8da/automated-video-generation-with-n8n-and-remotion-server-setup-guide-3c9e)
-- [Welcome to The Foundation: Preserving Developer Knowledge in Public](https://dev.to/the-foundation/welcome-to-the-foundation-preserving-developer-knowledge-in-public-3842)
-- [I Built a Privacy-First Image Editing Website That Runs Entirely in Your Browser](https://dev.to/anamul_haque_516c2b993390/i-built-a-privacy-first-image-editing-website-that-runs-entirely-in-your-browser-12i7)
-- [Turn your Obsidian Vault into a beautiful website with Flowershow!](https://dev.to/flowershow/turn-your-obsidian-vault-into-a-beautiful-website-with-flowershow-14ee)
-- [Build apps for ChatGPT, Claude, and Gemini using MCP UI components from Flowbite](https://dev.to/themesberg/build-apps-for-chatgpt-claude-and-gemini-using-mcp-ui-components-from-flowbite-316b)
+- [Trigger.new vs Trigger.old — Understanding Apex Triggers the Right Way](https://dev.to/rubasri_srikanthan/triggernew-vs-triggerold-understanding-apex-triggers-the-right-way-58b8)
+- [The Doctor&#39;s On-Call Shift with Snapshot Isolation in MongoDB](https://dev.to/franckpachot/the-doctors-on-call-shift-with-snapshot-isolation-in-mongodb-18nn)
+- [Studying Moltbook AI 🤖: What Breaks When Only AI Agents Use Social Networks](https://dev.to/hemant_007/studying-moltbook-ai-what-breaks-when-only-ai-agents-use-social-networks-h03)
+- [AI revolutionizes tech and markets, driving massive investment and economic shifts globally.](https://dev.to/stelixx-insights/ai-revolutionizes-tech-and-markets-driving-massive-investment-and-economic-shifts-globally-9i0)
+- [How National-Level Hackathons Like AceHack 5.0 Shape the Future of Technology](https://dev.to/acehack/how-national-level-hackathons-like-acehack-50-shape-the-future-of-technology-2204)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
