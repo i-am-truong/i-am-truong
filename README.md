@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [☕ Just launched The Coffee Timer - my personal productivity project 🚀](https://dev.to/adrianbailador/just-launched-the-coffee-timer-my-personal-productivity-project-43bg)
+- [Your GitHub Graph is Lying About How Much You Work. Here&#39;s How I Fixed Mine.](https://dev.to/yuvrajangadsingh/your-github-graph-is-lying-about-how-much-you-work-heres-how-i-fixed-mine-3hn1)
 - [Yasmin Bashirova and Redefining Human Rights Advocacy Beyond Legal Structures](https://dev.to/yasminbas/yasmin-bashirova-and-redefining-human-rights-advocacy-beyond-legal-structures-4bog)
 - [How to fix Context Fragmentation in LLMs &lpar;AIO.CORE Protocol&rpar;](https://dev.to/pablocheee/how-to-fix-context-fragmentation-in-llms-aiocore-protocol-55p6)
 - [Security news weekly round-up - 6th February 2026](https://dev.to/ziizium/security-news-weekly-round-up-6th-february-2026-1l4m)
-- [From Red CI to Green PR — Automatically, Safely, and with Evidence](https://dev.to/manoj_mallick_71d0dd7eaa6/from-red-ci-to-green-pr-automatically-safely-and-with-evidence-4k66)
-- [Why AI SRE tools don&#39;t work &lpar;and what we&#39;re doing differently&rpar;](https://dev.to/jimmy_weiiii/why-ai-sre-tools-dont-work-and-what-were-doing-differently-4a3c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
