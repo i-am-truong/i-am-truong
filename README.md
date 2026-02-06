@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Add Persistent Memory to Claude Code with Mem0 &lpar;5-Minute Setup&rpar;](https://dev.to/mem0/we-built-a-memory-plugin-for-openclawmoltbot-7e1)
-- [Portfolio Code That Gets You Hired: What Recruiters Actually See in Your GitHub](https://dev.to/jsgurujobs/portfolio-code-that-gets-you-hired-what-recruiters-actually-see-in-your-github-h9n)
-- [Basics about SAML/SSO with ADLAP](https://dev.to/maggie_ma_74a341dc9fbf0f6/basics-about-samlsso-with-adlap-47md)
-- [Why “Easy / Medium / Hard” Is a Terrible Way to Think About DSA](https://dev.to/rasoolk16/why-easy-medium-hard-is-a-terrible-way-to-think-about-dsa-2ll3)
-- [How to Monitor API Dependencies in 2026 &lpar;Complete Guide&rpar;](https://dev.to/shibley/how-to-monitor-api-dependencies-in-2026-complete-guide-41m0)
+- [Cutting Through JavaScript RegEx 🍕](https://dev.to/devmansam777/cutting-through-javascript-regex-5702)
+- [Docker file Production best practices](https://dev.to/omar_ahmed/docker-file-production-best-practices-2pai)
+- [Learn to Code for Free and Land Your First Developer Job](https://dev.to/michaellarocca/learn-to-code-for-free-and-land-your-first-developer-job-kh0)
+- [🚀 Calling Laravel Developers — Let’s Build a Clean, Extensible ERP &lpar;and AI Agents&rpar;](https://dev.to/hoang_le_daccdb7744e93666/calling-laravel-developers-lets-build-a-clean-extensible-erp-and-ai-agents-if2)
+- [From Complex Projects to a 2-Week App Launch: How AI Made It Possible](https://dev.to/tigran_tmp/from-complex-projects-to-a-2-week-app-launch-how-ai-made-it-possible-4cn4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
