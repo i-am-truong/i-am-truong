@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Idempotency and Circuit Breakers in n8n: A Production Survival Guide](https://dev.to/jbhflow/idempotency-and-circuit-breakers-in-n8n-a-production-survival-guide-3cnb)
+- [I asked Opus 4.6 and Codex 5.2 to build the same thing, and I was surprised with the results](https://dev.to/camb/i-asked-opus-46-and-codex-52-to-build-the-same-thing-and-i-was-surprised-with-the-results-4g9e)
+- [AI News Roundup: Claude Opus 4.6, OpenAI Frontier, and World Models for Driving](https://dev.to/damogallagher/ai-news-roundup-claude-opus-46-openai-frontier-and-world-models-for-driving-1gab)
+- [How to Connect MercadoLibre MCP in Antigravity/Cursor: The Missing Guide](https://dev.to/zogar/how-to-connect-mercadolibre-mcp-in-antigravitycursor-the-missing-guide-1fbg)
 - [Jenkins Agents — Full DevOps Lecture](https://dev.to/jumptotech/jenkins-agents-full-devops-lecture-2437)
-- [Jenkins Agents lab](https://dev.to/jumptotech/jenkins-agents-1d1g)
-- [Shadow DOM Tailwind and shadcn/ui all have their strengths, but they do not always play nicely together. Sometimes you just have to compromise. Use Shadow DOM only for simple components, let portals work normally, and accept a bit of global CSS.](https://dev.to/ujja/shadow-dom-tailwind-and-shadcnui-all-have-their-strengths-but-they-do-not-always-play-nicely-1lhh)
-- [I built a DAST scanner you can run from Docker - here’s how it works](https://dev.to/scryn/i-built-a-dast-scanner-you-can-run-from-docker-heres-how-it-works-139j)
-- [Moltbook 101: How to Build and Secure Your First AI Agent in the &quot;Agent Social Network&quot;](https://dev.to/alessandro_pignati/moltbook-101-how-to-build-and-secure-your-first-ai-agent-in-the-agent-social-network-3lml)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
