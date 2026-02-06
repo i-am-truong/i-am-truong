@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🔥 PyTorch Tutorial 1.1: Tensor Basics - From Zero to Hero](https://dev.to/franklibao/hands-on-pytorch-tutorial-from-zero-to-hero-chinese-fkm)
-- [OpenAI Codex - Using it for Code Review](https://dev.to/africandeveloper/openai-codex-using-it-for-code-review-3gie)
-- [3k+ Users in 4 Weeks: How I Built and Shipped a Privacy-First Tool Using Next.js 14](https://dev.to/peter_anderson33/3034-users-in-4-weeks-how-i-built-and-shipped-a-privacy-first-tool-using-nextjs-14-3epf)
-- [I shipped 706 commits in 5 days with Taskwarrior + Claude Code](https://dev.to/birdmanmandbir/i-shipped-706-commits-in-5-days-with-taskwarrior-claude-code-3b81)
-- [From DevOps Learner to Your Next Freelancer 🚀](https://dev.to/yash_sonawane25/from-devops-learner-to-your-next-freelancer-k7f)
+- [Redux Explained in Depth](https://dev.to/farhadrahimiklie/redux-explained-in-depth-nbo)
+- [Introducing pybgworker — A Lightweight Python Background Worker Without Redis or RabbitMQ](https://dev.to/prabhat_verma_6f35f84a7e0/introducing-pybgworker-a-lightweight-python-background-worker-without-redis-or-rabbitmq-c4e)
+- [Touchpad Gestures Cheat Sheet](https://dev.to/techwebster/touchpad-gestures-cheat-sheet-1f0)
+- [Connecting AI Voice Agents to SIP &amp; PSTN Using NextGenSwitch](https://dev.to/masum0009/connecting-ai-voice-agents-to-sip-pstn-using-nextgenswitch-35fi)
+- [Fixing Extremely Slow Debian Boot on a Windows Dual-Boot System](https://dev.to/siddharth_magesh_e12b8505/fixing-extremely-slow-debian-boot-on-a-windows-dual-boot-system-4g8h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
