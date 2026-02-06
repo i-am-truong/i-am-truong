@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [☕ Just launched The Coffee Timer - my personal productivity project 🚀](https://dev.to/adrianbailador/just-launched-the-coffee-timer-my-personal-productivity-project-43bg)
-- [Your GitHub Graph is Lying About How Much You Work. Here&#39;s How I Fixed Mine.](https://dev.to/yuvrajangadsingh/your-github-graph-is-lying-about-how-much-you-work-heres-how-i-fixed-mine-3hn1)
-- [Yasmin Bashirova and Redefining Human Rights Advocacy Beyond Legal Structures](https://dev.to/yasminbas/yasmin-bashirova-and-redefining-human-rights-advocacy-beyond-legal-structures-4bog)
-- [How to fix Context Fragmentation in LLMs &lpar;AIO.CORE Protocol&rpar;](https://dev.to/pablocheee/how-to-fix-context-fragmentation-in-llms-aiocore-protocol-55p6)
-- [Security news weekly round-up - 6th February 2026](https://dev.to/ziizium/security-news-weekly-round-up-6th-february-2026-1l4m)
+- [Kiploks Robustness Score Kills Most Strategies &lpar;And That&#39;s the Point&rpar; Part 2](https://dev.to/kiploksrobustnessengine/kiploks-robustness-score-kills-most-strategies-and-thats-the-point-332h)
+- [Top 7 MCP Alternatives for Context7 in 2026](https://dev.to/moshe_io/top-7-mcp-alternatives-for-context7-in-2026-2555)
+- [$100 OFF Google Cloud Next for the Community! Let&#39;s meet up?](https://dev.to/devteam/100-off-google-cloud-next-for-the-community-lets-meet-up-3mbo)
+- [CodeBehind 4.5 Released; Advanced Async Capability](https://dev.to/elanatframework/codebehind-45-released-advanced-async-capability-1mni)
+- [Visualizing Program State Instead of Just Stepping Through Code](https://dev.to/manux81/visualizing-program-state-instead-of-just-stepping-through-code-4mib)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
