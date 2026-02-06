@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Self-hosting de LLMs: controle sobre dados e infraestrutura](https://dev.to/glukas/self-hosting-de-llms-controle-sobre-dados-e-infraestrutura-4cdo)
+- [GSoC 2026 Predictions: 30 NEW AI/ML/Security Organizations You Should Start Contributing to NOW!](https://dev.to/yakhilesh/gsoc-2026-predictions-30-new-aimlsecurity-organizations-you-should-start-contributing-to-now-5ccn)
+- [🔒 HTTPS Explained Like You&#39;re 5](https://dev.to/esreekarreddy/https-explained-like-youre-5-1pb6)
 - [Kiploks Robustness Score Kills Most Strategies &lpar;And That&#39;s the Point&rpar; Part 2](https://dev.to/kiploksrobustnessengine/kiploks-robustness-score-kills-most-strategies-and-thats-the-point-332h)
 - [Top 7 MCP Alternatives for Context7 in 2026](https://dev.to/moshe_io/top-7-mcp-alternatives-for-context7-in-2026-2555)
-- [$100 OFF Google Cloud Next for the Community! Let&#39;s meet up?](https://dev.to/devteam/100-off-google-cloud-next-for-the-community-lets-meet-up-3mbo)
-- [CodeBehind 4.5 Released; Advanced Async Capability](https://dev.to/elanatframework/codebehind-45-released-advanced-async-capability-1mni)
-- [Visualizing Program State Instead of Just Stepping Through Code](https://dev.to/manux81/visualizing-program-state-instead-of-just-stepping-through-code-4mib)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
