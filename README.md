@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Introducing ShypChat — A Simple, Fast, Modern Omegle Alternative](https://dev.to/shabil_np/introducing-shypchat-a-simple-fast-modern-omegle-alternative-5ef0)
-- [Docker Production Best Practices - Complete Guide](https://dev.to/omar_ahmed/docker-production-best-practices-complete-guide-i6l)
-- [Hello Edge: Keyword Spotting on Microcontrollers](https://dev.to/paperium/hello-edge-keyword-spotting-on-microcontrollers-3f6k)
-- [Cutting Through JavaScript RegEx 🍕](https://dev.to/devmansam777/cutting-through-javascript-regex-5702)
-- [How to Back Up Your Discord Server in 2026 &lpar;The Complete Guide&rpar;](https://dev.to/alikahw/how-to-back-up-your-discord-server-in-2026-the-complete-guide-4fb1)
+- [Yasmin Bashirova and Redefining Human Rights Advocacy Beyond Legal Structures](https://dev.to/yasminbas/yasmin-bashirova-and-redefining-human-rights-advocacy-beyond-legal-structures-4bog)
+- [How to fix Context Fragmentation in LLMs &lpar;AIO.CORE Protocol&rpar;](https://dev.to/pablocheee/how-to-fix-context-fragmentation-in-llms-aiocore-protocol-55p6)
+- [Security news weekly round-up - 6th February 2026](https://dev.to/ziizium/security-news-weekly-round-up-6th-february-2026-1l4m)
+- [From Red CI to Green PR — Automatically, Safely, and with Evidence](https://dev.to/manoj_mallick_71d0dd7eaa6/from-red-ci-to-green-pr-automatically-safely-and-with-evidence-4k66)
+- [Why AI SRE tools don&#39;t work &lpar;and what we&#39;re doing differently&rpar;](https://dev.to/jimmy_weiiii/why-ai-sre-tools-dont-work-and-what-were-doing-differently-4a3c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
