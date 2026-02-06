@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Illusion of My Own Efficiency: How Claude Exposed My Arrogance and Lack of Planning at Night](https://dev.to/sho7650/the-illusion-of-my-own-efficiency-how-claude-exposed-my-arrogance-and-lack-of-planning-at-night-43lg)
-- [Stop High-Traffic App Failures: The Essential Guide to Load Management](https://dev.to/sannidhya_sharma/stop-high-traffic-app-failures-the-essential-guide-to-load-management-4cle)
-- [🚀 Designing a Flash Sale System That Never Oversells&lt;/h1&gt; &lt;h3&gt;From 1 User to 1 Million Users &lpar;Without Crashing Redis&rpar;](https://dev.to/umesh_kushwaha_6655ba4c0d/designing-a-flash-sale-system-that-never-oversells-from-1-user-to-1-million-users-3fih)
-- [ReactJS Design Pattern ~Guard Clause Rendering~](https://dev.to/kkr0423/reactjs-design-pattern-guard-clause-rendering-1om)
-- [LiteLLM vs Bifrost: Comparing Python and Go for Production LLM Gateways](https://dev.to/hadil/litellm-vs-bifrost-comparing-python-and-go-for-production-llm-gateways-4dg5)
+- [I Stopped Labeling Myself Too Early in Game Development](https://dev.to/dinesh_04/i-stopped-labeling-myself-too-early-in-game-development-5554)
+- [Build a Simple Local Pune Travel AI with FAISS + Ollama LLM - POC](https://dev.to/shailendra_khade_df763b45/build-a-simple-local-pune-travel-ai-with-faiss-ollama-llm-poc-3dd0)
+- [How to Use the Claude Opus 4.6 API: A Step-by-Step Tutorial](https://dev.to/auden/how-to-use-the-claude-opus-46-api-a-step-by-step-tutorial-29pa)
+- [Kubernetes CNI &lpar;Container Network Interface&rpar; Explained](https://dev.to/godofgeeks/kubernetes-cni-container-network-interface-explained-3dd0)
+- [Docker Compose for AI Agents: From Local Prototype to Production in One Workflow](https://dev.to/jasdeepsinghbhalla/docker-compose-for-ai-agents-from-local-prototype-to-production-in-one-workflow-3a4m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
