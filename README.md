@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Automation Amplifies System Design](https://dev.to/automationsystemslab/how-automation-amplifies-system-design-bad)
-- [Building an Encryption System: A Technical Deep Dive](https://dev.to/jayantkageri/building-an-encryption-system-a-technical-deep-dive-10pm)
-- [Self-hosting GitLab Behind Cloudflare Zero Trust &lpar;A Practical DevOps Lab&rpar;](https://dev.to/iuri_covaliov/self-hosting-gitlab-behind-cloudflare-zero-trust-a-practical-devops-lab-18ce)
-- [How SVG Is Transforming Sewing Pattern Design](https://dev.to/sivakumarireddy/how-svg-is-transforming-sewing-pattern-design-2c23)
-- [5 skills you need to develop as a recent Computer Science Graduate](https://dev.to/prodevel/5-skills-you-need-to-develop-as-a-recent-computer-science-graduate-3om1)
+- [The Missing Infrastructure for AI Agents: Unified Context](https://dev.to/acontext_4dc5ced58dc515fd/the-missing-infrastructure-for-ai-agents-unified-context-5905)
+- [After the Compiler Writes Itself: The Human Skills That Still Matter](https://dev.to/mashrulhaque/after-the-compiler-writes-itself-the-human-skills-that-still-matter-387o)
+- [Line TV Partner Choco Media Entertainment Reports Data Breach](https://dev.to/beyondmachines/line-tv-partner-choco-media-entertainment-reports-data-breach-5f52)
+- [A key area of debate in AI bias revolves around the concept](https://dev.to/drcarlosruizviquez/a-key-area-of-debate-in-ai-bias-revolves-around-the-concept-1cnl)
+- [Understanding Valyu: AI-Native Search, and a CLI Tool to Experiment Faster](https://dev.to/edet/understanding-valyu-ai-native-search-and-a-cli-tool-to-experiment-faster-21di)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
