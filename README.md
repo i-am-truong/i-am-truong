@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Add Persistent Memory to Claude Code with Mem0 &lpar;5-Minute Setup&rpar;](https://dev.to/mem0/we-built-a-memory-plugin-for-openclawmoltbot-7e1)
 - [Portfolio Code That Gets You Hired: What Recruiters Actually See in Your GitHub](https://dev.to/jsgurujobs/portfolio-code-that-gets-you-hired-what-recruiters-actually-see-in-your-github-h9n)
 - [Basics about SAML/SSO with ADLAP](https://dev.to/maggie_ma_74a341dc9fbf0f6/basics-about-samlsso-with-adlap-47md)
 - [Why “Easy / Medium / Hard” Is a Terrible Way to Think About DSA](https://dev.to/rasoolk16/why-easy-medium-hard-is-a-terrible-way-to-think-about-dsa-2ll3)
 - [How to Monitor API Dependencies in 2026 &lpar;Complete Guide&rpar;](https://dev.to/shibley/how-to-monitor-api-dependencies-in-2026-complete-guide-41m0)
-- [AI is getting scary](https://dev.to/bingkahu/ai-is-getting-scary-66b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
