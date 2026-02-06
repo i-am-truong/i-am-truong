@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing ShypChat — A Simple, Fast, Modern Omegle Alternative](https://dev.to/shabil_np/introducing-shypchat-a-simple-fast-modern-omegle-alternative-5ef0)
+- [Docker Production Best Practices - Complete Guide](https://dev.to/omar_ahmed/docker-production-best-practices-complete-guide-i6l)
+- [Hello Edge: Keyword Spotting on Microcontrollers](https://dev.to/paperium/hello-edge-keyword-spotting-on-microcontrollers-3f6k)
 - [Cutting Through JavaScript RegEx 🍕](https://dev.to/devmansam777/cutting-through-javascript-regex-5702)
-- [Docker file Production best practices](https://dev.to/omar_ahmed/docker-file-production-best-practices-2pai)
-- [Learn to Code for Free and Land Your First Developer Job](https://dev.to/michaellarocca/learn-to-code-for-free-and-land-your-first-developer-job-kh0)
-- [🚀 Calling Laravel Developers — Let’s Build a Clean, Extensible ERP &lpar;and AI Agents&rpar;](https://dev.to/hoang_le_daccdb7744e93666/calling-laravel-developers-lets-build-a-clean-extensible-erp-and-ai-agents-if2)
-- [From Complex Projects to a 2-Week App Launch: How AI Made It Possible](https://dev.to/tigran_tmp/from-complex-projects-to-a-2-week-app-launch-how-ai-made-it-possible-4cn4)
+- [How to Back Up Your Discord Server in 2026 &lpar;The Complete Guide&rpar;](https://dev.to/alikahw/how-to-back-up-your-discord-server-in-2026-the-complete-guide-4fb1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
