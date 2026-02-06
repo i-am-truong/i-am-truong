@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [TON Blockchain Explained: Speed, Scale, and Telegram Integration](https://dev.to/jenny_gupta_e7411d536a07a/ton-blockchain-explained-speed-scale-and-telegram-integration-4o6c)
-- [Garbage Collection in Depth &lpar;JAVA&rpar;](https://dev.to/bhu_kalki/garbage-collection-in-depth-java-4ekm)
-- [How I Lost $10,000 in 48 Hours — and What the Market Finally Taught Me](https://dev.to/zoeycodefun/how-i-lost-10000-in-48-hours-and-what-the-market-finally-taught-me-2e7h)
-- [Hello DEV Community 👋](https://dev.to/mohssin_aynaou_03f055c545/hello-dev-community-476n)
-- [Stop Making AI Learn From Us](https://dev.to/rawveg/stop-making-ai-learn-from-us-31c)
+- [Next.js - Server va Client Componentlar To&#39;liq Qo&#39;llanma](https://dev.to/matkarimov099/nextjs-server-va-client-componentlar-toliq-qollanma-31c2)
+- [Browser Fingerprinting Explained: How Websites Track You Without Cookies](https://dev.to/backlinks_dofollowdobac/browser-fingerprinting-explained-how-websites-track-you-without-cookies-2fpm)
+- [Learning programming is hard. Learning it alone is even harder.](https://dev.to/renato_silva_71eef0fc385f/learning-programming-is-hard-learning-it-alone-is-even-harder-2i78)
+- [Multimodal Visual Understanding in Swift &lpar;aka: &quot;why is this still so hard on-device?&quot;&rpar;](https://dev.to/fosteman/multimodal-visual-understanding-in-swift-aka-why-is-this-still-so-hard-on-device-1n7j)
+- [🚀 Bullstudio — A Prisma-Studio-Style Dashboard for BullMQ You Can Run in Seconds](https://dev.to/emirce/bullstudio-a-prisma-studio-style-dashboard-for-bullmq-you-can-run-in-seconds-365a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
