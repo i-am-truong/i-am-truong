@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[iOS] CocoaPods cheatsheet](https://dev.to/devpicon/ios-cocoapods-cheatsheet-3j5b)
-- [Why Remote Teams Struggle With Work That Looks Simple](https://dev.to/atciarrazsa/why-remote-teams-struggle-with-work-that-looks-simple-2g61)
-- [Semantic HTML: For beginners Part 1](https://dev.to/beey12345/semantic-html-for-beginners-part-1-kcj)
-- [Replacing 800 Lines of AI Agent Instructions with 10-Token Questions](https://dev.to/mikelane/replacing-800-lines-of-ai-agent-instructions-with-10-token-questions-dcd)
-- [How to use /tick on Minecraft Bedrock](https://dev.to/myonx/how-to-use-tick-on-minecraft-bedrock-g0l)
+- [🔥 PyTorch Tutorial 1.1: Tensor Basics - From Zero to Hero](https://dev.to/franklibao/hands-on-pytorch-tutorial-from-zero-to-hero-chinese-fkm)
+- [OpenAI Codex - Using it for Code Review](https://dev.to/africandeveloper/openai-codex-using-it-for-code-review-3gie)
+- [3k+ Users in 4 Weeks: How I Built and Shipped a Privacy-First Tool Using Next.js 14](https://dev.to/peter_anderson33/3034-users-in-4-weeks-how-i-built-and-shipped-a-privacy-first-tool-using-nextjs-14-3epf)
+- [I shipped 706 commits in 5 days with Taskwarrior + Claude Code](https://dev.to/birdmanmandbir/i-shipped-706-commits-in-5-days-with-taskwarrior-claude-code-3b81)
+- [From DevOps Learner to Your Next Freelancer 🚀](https://dev.to/yash_sonawane25/from-devops-learner-to-your-next-freelancer-k7f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
