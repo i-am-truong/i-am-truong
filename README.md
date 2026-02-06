@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Trigger.new vs Trigger.old — Understanding Apex Triggers the Right Way](https://dev.to/rubasri_srikanthan/triggernew-vs-triggerold-understanding-apex-triggers-the-right-way-58b8)
-- [The Doctor&#39;s On-Call Shift with Snapshot Isolation in MongoDB](https://dev.to/franckpachot/the-doctors-on-call-shift-with-snapshot-isolation-in-mongodb-18nn)
-- [Studying Moltbook AI 🤖: What Breaks When Only AI Agents Use Social Networks](https://dev.to/hemant_007/studying-moltbook-ai-what-breaks-when-only-ai-agents-use-social-networks-h03)
-- [AI revolutionizes tech and markets, driving massive investment and economic shifts globally.](https://dev.to/stelixx-insights/ai-revolutionizes-tech-and-markets-driving-massive-investment-and-economic-shifts-globally-9i0)
-- [How National-Level Hackathons Like AceHack 5.0 Shape the Future of Technology](https://dev.to/acehack/how-national-level-hackathons-like-acehack-50-shape-the-future-of-technology-2204)
+- [Integrate Omnichannel Voice and Digital Solutions for Seamless Customer Experiences](https://dev.to/callstacktech/integrate-omnichannel-voice-and-digital-solutions-for-seamless-customer-experiences-4o8f)
+- [Your Agent Is Slow Because of Inference](https://dev.to/trilok_kanwar/your-agent-is-slow-because-of-inference-l2a)
+- [Dependency Injection in ASP.NET Core Why it exists? and what problem it actually solves?](https://dev.to/sahith_kumar_singari/dependency-injection-in-aspnet-core-why-it-exists-and-what-problem-it-actually-solves-5gc0)
+- [What if AI takes over? What&#39;s left for us as coders?](https://dev.to/canro91/what-if-ai-takes-over-whats-left-for-us-as-coders-4epb)
+- [Custom Healthcare CRM Software Development: Key Features and Benefits](https://dev.to/yuliyamelnik/custom-healthcare-crm-software-development-key-features-and-benefits-18n6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
