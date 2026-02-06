@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Von 0 auf 300% lokale Anfragen: Mein Google Business Profile Hack für Entwickler](https://dev.to/ivo_sa/von-0-auf-300-lokale-anfragen-mein-google-business-profile-hack-fur-entwickler-586d)
-- [CharleX Operating System](https://dev.to/amzy31/charlex-operating-system-3hj7)
-- [Quest: Epic CLI tutor &lpar;Learn Code by Actually Building&rpar;](https://dev.to/cloutboi/quest-epic-cli-tool-learn-code-by-actually-building-5fi0)
-- [Building Clusterflick: A London Cinema Aggregator](https://dev.to/alistairjcbrown/building-clusterflick-a-london-cinema-aggregator-kk3)
-- [Claude Code: new Tasks persisting between sessions and Swarms of agents against Context Rot.](https://dev.to/simone_callegari_1f56a902/claude-code-new-tasks-persisting-between-sessions-and-swarms-of-agents-against-context-rot-5dan)
+- [Portfolio Code That Gets You Hired: What Recruiters Actually See in Your GitHub](https://dev.to/jsgurujobs/portfolio-code-that-gets-you-hired-what-recruiters-actually-see-in-your-github-h9n)
+- [Basics about SAML/SSO with ADLAP](https://dev.to/maggie_ma_74a341dc9fbf0f6/basics-about-samlsso-with-adlap-47md)
+- [Why “Easy / Medium / Hard” Is a Terrible Way to Think About DSA](https://dev.to/rasoolk16/why-easy-medium-hard-is-a-terrible-way-to-think-about-dsa-2ll3)
+- [How to Monitor API Dependencies in 2026 &lpar;Complete Guide&rpar;](https://dev.to/shibley/how-to-monitor-api-dependencies-in-2026-complete-guide-41m0)
+- [AI is getting scary](https://dev.to/bingkahu/ai-is-getting-scary-66b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
