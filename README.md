@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Xcode 26.3 Brings Agentic Coding: Claude and Codex Now Integrated Into Your IDE](https://dev.to/arshtechpro/xcode-263-brings-agentic-coding-claude-and-codex-now-integrated-into-your-ide-1l5p)
+- [The Free Online Tools I Actually Use as a Developer &lpar;and Why I Built HNGTools&rpar;](https://dev.to/humayun_nasir_04b087812ce/the-free-online-tools-i-actually-use-as-a-developer-and-why-i-built-hngtools-31hc)
+- [IPFS &amp; Decentralized Storage: Why “I’ll Just Put It On IPFS” Isn’t Enough](https://dev.to/ribhavmodi/ipfs-decentralized-storage-why-ill-just-put-it-on-ipfs-isnt-enough-1oji)
+- [State Management in Vue 3 for Laravel Applications &lpar;Pinia Integration&rpar;](https://dev.to/addwebsolutionpvtltd/state-management-in-vue-3-for-laravel-applications-pinia-integration-1jkf)
 - [Determine High Performing And / Or Scalable Storage Solutions](https://dev.to/aws-builders/determine-high-performing-and-or-scalable-storage-solutions-4757)
-- [Build Buddy - AI PC Building Assistant Powered by Algolia Agent Studio](https://dev.to/venkattraining/build-buddy-ai-pc-building-assistant-powered-by-algolia-agent-studio-52m4)
-- [Mastering Efficiency: Best Practices for Embracing the DRY Principle](https://dev.to/vjnvisakh/mastering-efficiency-best-practices-for-embracing-the-dry-principle-hh1)
-- [When Enterprises Vibe Code On A Grand Scale and Its a Rare W!](https://dev.to/theonemohitsharma/when-enterprises-vibe-code-on-a-grand-scale-and-its-a-rare-w-4gjo)
-- [What is Potpie.ai and why it matters for developers](https://dev.to/harshal_rembhotkar/what-is-potpieai-and-why-it-matters-for-developers-199j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
