@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I spent 2 weeks reading outdated docs at my new job - so I discussed with 20 devs about it](https://dev.to/sayoojgn/i-spent-2-weeks-reading-outdated-docs-at-my-new-job-so-i-discussed-with-20-devs-about-it-23of)
-- [The Armored AI Agent You Can Actually Trust](https://dev.to/juandenis/the-armored-ai-agent-you-can-actually-trust-4pea)
-- [Teaching Claude Code Your Standards](https://dev.to/helderberto/teaching-claude-code-your-standards-k9p)
-- [Building a Resilience Engine in Python: Internals of LimitPal &lpar;Part 2&rpar;](https://dev.to/ilya_masliev/building-a-resilience-engine-in-python-internals-of-limitpal-part-2-hm1)
-- [When Are Custom Hooks an Advantage in React, and When Do They Become a Liability?](https://dev.to/bishoy_semsem/when-are-custom-hooks-an-advantage-in-react-and-when-do-they-become-a-liability-af8)
+- [TON Blockchain Explained: Speed, Scale, and Telegram Integration](https://dev.to/jenny_gupta_e7411d536a07a/ton-blockchain-explained-speed-scale-and-telegram-integration-4o6c)
+- [Garbage Collection in Depth &lpar;JAVA&rpar;](https://dev.to/bhu_kalki/garbage-collection-in-depth-java-4ekm)
+- [How I Lost $10,000 in 48 Hours — and What the Market Finally Taught Me](https://dev.to/zoeycodefun/how-i-lost-10000-in-48-hours-and-what-the-market-finally-taught-me-2e7h)
+- [Hello DEV Community 👋](https://dev.to/mohssin_aynaou_03f055c545/hello-dev-community-476n)
+- [Stop Making AI Learn From Us](https://dev.to/rawveg/stop-making-ai-learn-from-us-31c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
