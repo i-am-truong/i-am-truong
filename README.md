@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Stopped Labeling Myself Too Early in Game Development](https://dev.to/dinesh_04/i-stopped-labeling-myself-too-early-in-game-development-5554)
-- [Build a Simple Local Pune Travel AI with FAISS + Ollama LLM - POC](https://dev.to/shailendra_khade_df763b45/build-a-simple-local-pune-travel-ai-with-faiss-ollama-llm-poc-3dd0)
-- [How to Use the Claude Opus 4.6 API: A Step-by-Step Tutorial](https://dev.to/auden/how-to-use-the-claude-opus-46-api-a-step-by-step-tutorial-29pa)
-- [Kubernetes CNI &lpar;Container Network Interface&rpar; Explained](https://dev.to/godofgeeks/kubernetes-cni-container-network-interface-explained-3dd0)
-- [Docker Compose for AI Agents: From Local Prototype to Production in One Workflow](https://dev.to/jasdeepsinghbhalla/docker-compose-for-ai-agents-from-local-prototype-to-production-in-one-workflow-3a4m)
+- [Rails Authorization Beyond Models: Securing Dashboards and Service Controllers with CanCanCan](https://dev.to/nemwelboniface/rails-authorization-beyond-models-securing-dashboards-and-service-controllers-with-cancancan-4fgj)
+- [Auto-Saving Serial Monitor Output in VS Code &lpar;PlatformIO&rpar;](https://dev.to/dassa_das/auto-saving-serial-monitor-output-in-vs-code-platformio-212)
+- [How to Collect Payments Using the v4 APIs](https://dev.to/flutterwaveeng/how-to-collect-payments-using-the-v4-apis-4lhp)
+- [Gaming Beat Me, Development Won&#39;t](https://dev.to/richardpascoe/gaming-beat-me-development-wont-3d5b)
+- [Design HLD - Dropbox | Image Upload Service](https://dev.to/learnwithvikzzy/design-hld-dropbox-image-upload-service-57gl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
