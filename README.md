@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SwiftUI Build &amp; CI/CD Architecture &lpar;Ship Fast Without Breaking Things&rpar;](https://dev.to/sebastienlato/swiftui-build-cicd-architecture-ship-fast-without-breaking-things-knf)
-- [Building a Supermarket Data Pipeline](https://dev.to/oliver_samuel_028c6f65ad6/building-a-supermarket-data-pipeline-3pfg)
-- [How to Configure JDK 25 for GitHub Copilot Coding Agent](https://dev.to/brunoborges/how-to-configure-jdk-25-for-github-copilot-coding-agent-2ecn)
-- [2026-02-05 Daily Robotics News](https://dev.to/dan_ledger_ce2886f0037972/2026-02-05-daily-robotics-news-4f1d)
-- [Uniswap V3: When collect&lpar;&rpar; Is More Than “Collect Fees”](https://dev.to/decoder_man/uniswap-v3-when-collect-is-more-than-collect-fees-5chj)
+- [[iOS] CocoaPods cheatsheet](https://dev.to/devpicon/ios-cocoapods-cheatsheet-3j5b)
+- [Why Remote Teams Struggle With Work That Looks Simple](https://dev.to/atciarrazsa/why-remote-teams-struggle-with-work-that-looks-simple-2g61)
+- [Semantic HTML: For beginners Part 1](https://dev.to/beey12345/semantic-html-for-beginners-part-1-kcj)
+- [Replacing 800 Lines of AI Agent Instructions with 10-Token Questions](https://dev.to/mikelane/replacing-800-lines-of-ai-agent-instructions-with-10-token-questions-dcd)
+- [How to use /tick on Minecraft Bedrock](https://dev.to/myonx/how-to-use-tick-on-minecraft-bedrock-g0l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
