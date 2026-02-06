@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Next.js - Server va Client Componentlar To&#39;liq Qo&#39;llanma](https://dev.to/matkarimov099/nextjs-server-va-client-componentlar-toliq-qollanma-31c2)
-- [Browser Fingerprinting Explained: How Websites Track You Without Cookies](https://dev.to/backlinks_dofollowdobac/browser-fingerprinting-explained-how-websites-track-you-without-cookies-2fpm)
-- [Learning programming is hard. Learning it alone is even harder.](https://dev.to/renato_silva_71eef0fc385f/learning-programming-is-hard-learning-it-alone-is-even-harder-2i78)
-- [Multimodal Visual Understanding in Swift &lpar;aka: &quot;why is this still so hard on-device?&quot;&rpar;](https://dev.to/fosteman/multimodal-visual-understanding-in-swift-aka-why-is-this-still-so-hard-on-device-1n7j)
-- [🚀 Bullstudio — A Prisma-Studio-Style Dashboard for BullMQ You Can Run in Seconds](https://dev.to/emirce/bullstudio-a-prisma-studio-style-dashboard-for-bullmq-you-can-run-in-seconds-365a)
+- [Automated Video Generation with n8n and Remotion: Server Setup Guide](https://dev.to/hearts_ms_dc3f0d7657c8da/automated-video-generation-with-n8n-and-remotion-server-setup-guide-3c9e)
+- [Welcome to The Foundation: Preserving Developer Knowledge in Public](https://dev.to/the-foundation/welcome-to-the-foundation-preserving-developer-knowledge-in-public-3842)
+- [I Built a Privacy-First Image Editing Website That Runs Entirely in Your Browser](https://dev.to/anamul_haque_516c2b993390/i-built-a-privacy-first-image-editing-website-that-runs-entirely-in-your-browser-12i7)
+- [Turn your Obsidian Vault into a beautiful website with Flowershow!](https://dev.to/flowershow/turn-your-obsidian-vault-into-a-beautiful-website-with-flowershow-14ee)
+- [Build apps for ChatGPT, Claude, and Gemini using MCP UI components from Flowbite](https://dev.to/themesberg/build-apps-for-chatgpt-claude-and-gemini-using-mcp-ui-components-from-flowbite-316b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
