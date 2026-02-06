@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Xcode 26.3 Brings Agentic Coding: Claude and Codex Now Integrated Into Your IDE](https://dev.to/arshtechpro/xcode-263-brings-agentic-coding-claude-and-codex-now-integrated-into-your-ide-1l5p)
-- [The Free Online Tools I Actually Use as a Developer &lpar;and Why I Built HNGTools&rpar;](https://dev.to/humayun_nasir_04b087812ce/the-free-online-tools-i-actually-use-as-a-developer-and-why-i-built-hngtools-31hc)
-- [IPFS &amp; Decentralized Storage: Why “I’ll Just Put It On IPFS” Isn’t Enough](https://dev.to/ribhavmodi/ipfs-decentralized-storage-why-ill-just-put-it-on-ipfs-isnt-enough-1oji)
-- [State Management in Vue 3 for Laravel Applications &lpar;Pinia Integration&rpar;](https://dev.to/addwebsolutionpvtltd/state-management-in-vue-3-for-laravel-applications-pinia-integration-1jkf)
-- [Determine High Performing And / Or Scalable Storage Solutions](https://dev.to/aws-builders/determine-high-performing-and-or-scalable-storage-solutions-4757)
+- [I spent 2 weeks reading outdated docs at my new job - so I discussed with 20 devs about it](https://dev.to/sayoojgn/i-spent-2-weeks-reading-outdated-docs-at-my-new-job-so-i-discussed-with-20-devs-about-it-23of)
+- [The Armored AI Agent You Can Actually Trust](https://dev.to/juandenis/the-armored-ai-agent-you-can-actually-trust-4pea)
+- [Teaching Claude Code Your Standards](https://dev.to/helderberto/teaching-claude-code-your-standards-k9p)
+- [Building a Resilience Engine in Python: Internals of LimitPal &lpar;Part 2&rpar;](https://dev.to/ilya_masliev/building-a-resilience-engine-in-python-internals-of-limitpal-part-2-hm1)
+- [When Are Custom Hooks an Advantage in React, and When Do They Become a Liability?](https://dev.to/bishoy_semsem/when-are-custom-hooks-an-advantage-in-react-and-when-do-they-become-a-liability-af8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
