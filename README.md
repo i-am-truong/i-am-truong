@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Student Hacker to Open-Source Legend: Linus Torvalds’ Revolution](https://dev.to/homayounmmdy/from-student-hacker-to-open-source-legend-linus-torvalds-revolution-1jj3)
-- [The Tree Interface: Where Pages Become Structure in SQLite](https://dev.to/lovestaco/the-tree-interface-where-pages-become-structure-in-sqlite-37c4)
-- [Dear Vibe Coder: Your App &lpar;and Your Code&rpar; Are Crap](https://dev.to/holasoymalva/dear-vibe-coder-your-app-and-your-code-are-crap-3pd6)
-- [Build a Production Waitlist with Supabase &amp; Next.js in 10 Minutes](https://dev.to/naud/build-a-production-waitlist-with-supabase-nextjs-in-10-minutes-1fbp)
-- [LangGraph4j Hooks and OpenTelemetry](https://dev.to/bsorrentino/langgraph4j-hooks-and-opentelemetry-1egk)
+- [Von 0 auf 300% lokale Anfragen: Mein Google Business Profile Hack für Entwickler](https://dev.to/ivo_sa/von-0-auf-300-lokale-anfragen-mein-google-business-profile-hack-fur-entwickler-586d)
+- [CharleX Operating System](https://dev.to/amzy31/charlex-operating-system-3hj7)
+- [Quest: Epic CLI tutor &lpar;Learn Code by Actually Building&rpar;](https://dev.to/cloutboi/quest-epic-cli-tool-learn-code-by-actually-building-5fi0)
+- [Building Clusterflick: A London Cinema Aggregator](https://dev.to/alistairjcbrown/building-clusterflick-a-london-cinema-aggregator-kk3)
+- [Claude Code: new Tasks persisting between sessions and Swarms of agents against Context Rot.](https://dev.to/simone_callegari_1f56a902/claude-code-new-tasks-persisting-between-sessions-and-swarms-of-agents-against-context-rot-5dan)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
