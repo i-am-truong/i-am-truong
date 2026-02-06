@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Missing Infrastructure for AI Agents: Unified Context](https://dev.to/acontext_4dc5ced58dc515fd/the-missing-infrastructure-for-ai-agents-unified-context-5905)
-- [After the Compiler Writes Itself: The Human Skills That Still Matter](https://dev.to/mashrulhaque/after-the-compiler-writes-itself-the-human-skills-that-still-matter-387o)
-- [Line TV Partner Choco Media Entertainment Reports Data Breach](https://dev.to/beyondmachines/line-tv-partner-choco-media-entertainment-reports-data-breach-5f52)
-- [A key area of debate in AI bias revolves around the concept](https://dev.to/drcarlosruizviquez/a-key-area-of-debate-in-ai-bias-revolves-around-the-concept-1cnl)
-- [Understanding Valyu: AI-Native Search, and a CLI Tool to Experiment Faster](https://dev.to/edet/understanding-valyu-ai-native-search-and-a-cli-tool-to-experiment-faster-21di)
+- [From Student Hacker to Open-Source Legend: Linus Torvalds’ Revolution](https://dev.to/homayounmmdy/from-student-hacker-to-open-source-legend-linus-torvalds-revolution-1jj3)
+- [The Tree Interface: Where Pages Become Structure in SQLite](https://dev.to/lovestaco/the-tree-interface-where-pages-become-structure-in-sqlite-37c4)
+- [Dear Vibe Coder: Your App &lpar;and Your Code&rpar; Are Crap](https://dev.to/holasoymalva/dear-vibe-coder-your-app-and-your-code-are-crap-3pd6)
+- [Build a Production Waitlist with Supabase &amp; Next.js in 10 Minutes](https://dev.to/naud/build-a-production-waitlist-with-supabase-nextjs-in-10-minutes-1fbp)
+- [LangGraph4j Hooks and OpenTelemetry](https://dev.to/bsorrentino/langgraph4j-hooks-and-opentelemetry-1egk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
