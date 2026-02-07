@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building an Ultra-Low Latency Live Streaming Server: A Developer&#39;s Guide to OvenMediaEngine](https://dev.to/mayu2008/building-an-ultra-low-latency-live-streaming-server-a-developers-guide-to-ovenmediaengine-jco)
+- [OpenClaw meets AnyAPI.ai: How to scrape the web without losing your mind](https://dev.to/es2026/openclaw-meets-anyapiai-how-to-scrape-the-web-without-losing-your-mind-2cci)
+- [I Built a Full Project Management App in 2 days Using Claude 4.6](https://dev.to/olaproeis/i-built-a-full-project-management-app-in-2-days-using-claude-47-1e1g)
+- [Russia&#39;s Internet Filtering Infrastructure: Evolution and Architecture](https://dev.to/shinomontaz/russias-internet-filtering-infrastructure-evolution-and-architecture-cel)
 - [How AI Automation is Redefining Junior Developer Roles and Threatening the Future of Software Engineering](https://dev.to/mrakdon/how-ai-automation-is-redefining-junior-developer-roles-and-threatening-the-future-of-software-10hb)
-- [Data Ownership: Why It Matters and How to Track It](https://dev.to/hammad_khan_9cb83f1728ef5/data-ownership-why-it-matters-and-how-to-track-it-20mc)
-- [Design High-Performing And Elastic Compute Solutions](https://dev.to/aws-builders/design-high-performing-and-elastic-compute-solutions-2h9h)
-- [I stopped setting goals. Here&#39;s what happened.](https://dev.to/betatesterlife/i-stopped-setting-goals-heres-what-happened-5cmc)
-- [The Ball and Chain: Why Git is an Anti-Pattern for AI-Native Engineering](https://dev.to/m8a-io/the-ball-and-chain-why-git-is-an-anti-pattern-for-ai-native-engineering-1i47)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
