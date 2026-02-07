@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why I Started Building ProXPL — Rethinking Programming for the AI Era](https://dev.to/programmerkr/why-i-started-building-proxpl-rethinking-programming-for-the-ai-era-472a)
-- [LeetCode #238. Product of Array Except Self](https://dev.to/desiato/leetcode-238-product-of-array-except-self-5355)
-- [Top 5 Power BI Alternatives in 2026 &lpar;Including Free &amp; AI-Powered Options&rpar;](https://dev.to/jason_einstein_4ebad74d6d/top-5-power-bi-alternatives-in-2026-including-free-ai-powered-options-k7e)
-- [AWS Networking Fundamentals](https://dev.to/cmwokocha/aws-networking-fundamentals-kcf)
-- [Argophor: A Developer-Friendly Linux App Detection &amp; Installation Toolkit](https://dev.to/hejhdiss/argophor-a-developer-friendly-linux-app-detection-installation-toolkit-2gnk)
+- [AI Code Review Tools That Actually Work with Azure DevOps 🧪](https://dev.to/dev_kiran/ai-code-review-tools-that-actually-work-with-azure-devops-2gnj)
+- [OAuth Login Flow with Vite](https://dev.to/digitalrisedorset/oauth-login-flow-with-vite-n98)
+- [Contact Tracing Mobile Apps for COVID-19: Privacy Considerations and RelatedTrade-offs](https://dev.to/paperium/contact-tracing-mobile-apps-for-covid-19-privacy-considerations-and-relatedtrade-offs-1ihc)
+- [I Built a macOS Menu Bar App That Sends Text to Any AI in 2 Seconds](https://dev.to/thinkerjack/i-built-a-macos-menu-bar-app-that-sends-text-to-any-ai-in-2-seconds-3ki7)
+- [Your Framework Is Replaceable. Your Architecture Is Not.](https://dev.to/denherrring/your-framework-is-replaceable-your-architecture-is-not-5fdh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
