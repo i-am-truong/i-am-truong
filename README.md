@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Data Redundancy in SaaS: Centralized Management Techniques](https://dev.to/bicanvas_erp_b531006b2494/mastering-data-redundancy-in-saas-centralized-management-techniques-5od)
-- [PostgreSQL SQL Recap: Building Strong Foundational SQL Skills](https://dev.to/auyeungdavid_2847435260/postgresql-sql-recap-building-strong-foundational-sql-skills-1mhh)
-- [I Abandoned Vector DBs to Build a &quot;Biological&quot; AI OS: Memory that Dreams + Reflexes that Kill Latency](https://dev.to/merchantmohdebug/i-abandoned-vector-dbs-to-build-a-biological-ai-os-memory-that-dreams-reflexes-that-kill-33c)
-- [Python Block Comments: Best Practices, Shortcuts, and Docstrings Explained](https://dev.to/lifeportal20002010/python-block-comments-best-practices-shortcuts-and-docstrings-explained-342f)
-- [Modern Web APIs That Replace JavaScript Libraries](https://dev.to/abhilash_hegde/modern-web-apis-that-replace-javascript-libraries-4njd)
+- [Why Predictable Fees Matter More Than Low Fees in Production Finance](https://dev.to/roan911/why-predictable-fees-matter-more-than-low-fees-in-production-finance-10c1)
+- [How to Add Persistent Memory to CrewAI Agents](https://dev.to/arulnidhi_karunanidhi_7ff/how-to-add-persistent-memory-to-crewai-agents-2o63)
+- [Plugins Aren’t Cheating — They’re Part of Real Workflow](https://dev.to/dinesh_04/plugins-arent-cheating-theyre-part-of-real-workflow-2856)
+- [IT meltdown moments](https://dev.to/5uig3n3ris/it-meltdown-moments-503l)
+- [From Monoliths to Multitaskers: Building Your AWS AI Dream Team! 🚀🤖](https://dev.to/aws-builders/from-monoliths-to-multitaskers-building-your-aws-ai-dream-team-5dnf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
