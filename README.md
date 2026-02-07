@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why I Started Building ProXPL — Rethinking Programming for the AI Era](https://dev.to/programmerkr/why-i-started-building-proxpl-rethinking-programming-for-the-ai-era-472a)
+- [LeetCode #238. Product of Array Except Self](https://dev.to/desiato/leetcode-238-product-of-array-except-self-5355)
 - [Top 5 Power BI Alternatives in 2026 &lpar;Including Free &amp; AI-Powered Options&rpar;](https://dev.to/jason_einstein_4ebad74d6d/top-5-power-bi-alternatives-in-2026-including-free-ai-powered-options-k7e)
 - [AWS Networking Fundamentals](https://dev.to/cmwokocha/aws-networking-fundamentals-kcf)
 - [Argophor: A Developer-Friendly Linux App Detection &amp; Installation Toolkit](https://dev.to/hejhdiss/argophor-a-developer-friendly-linux-app-detection-installation-toolkit-2gnk)
-- [I got tired of reading changelogs, so I&#39;m building something about it](https://dev.to/matheus_releaserun/i-got-tired-of-reading-changelogs-so-im-building-something-about-it-ifc)
-- [EqPad: A Calculator-Style Equation Editor for LaTeX, Markdown, and PNG](https://dev.to/kabosutravel/eqpad-a-calculator-style-equation-editor-for-latex-markdown-and-png-292k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
