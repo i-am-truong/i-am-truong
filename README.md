@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Orchestrating AlphaFold 3 &amp; 2 with Python: Handling AI Hallucinations using Adapter Pattern](https://dev.to/flamehaven01/orchestrating-alphafold-3-2-with-python-handling-ai-hallucinations-using-adapter-pattern-3k03)
 - [Cline’s Backroom Git: The Secret History of “View Changes”](https://dev.to/alex_buzunov_4d5851f839cc/clines-backroom-git-the-secret-history-of-view-changes-1ma1)
 - [Day 1: Locking the Front Door](https://dev.to/arjunjv/day-1-locking-the-front-door-5gil)
 - [State of JS 2025: Popular Syntax Features Explained with PHP Equivalents](https://dev.to/robertobutti/state-of-js-2025-popular-syntax-features-explained-with-php-equivalents-4ffp)
 - [Missing Data in Machine Learning: A Practical Step-by-Step Approach](https://dev.to/brittany_37606c0775530a57/missing-data-in-machine-learning-a-practical-step-by-step-approach-1p85)
-- [How Analysts Translate Messy Data, DAX, and Dashboards into Action Using Power BI](https://dev.to/mburu_champ/how-analysts-translate-messy-data-dax-and-dashboards-into-action-using-power-bi-464j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
