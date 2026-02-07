@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Local vs Cloud Builds in Expo: What expo prebuild and eas build Really Do](https://dev.to/mbugua70/local-vs-cloud-builds-in-expo-what-expo-prebuild-and-eas-build-really-do-3mnc)
-- [Flash Memory Explained: NAND vs NOR, Architecture, and Memory Organization](https://dev.to/amanprasad/flash-memory-explained-nand-vs-nor-architecture-and-memory-organization-3abf)
-- [PHP 8.5: новые возможности, апгрейд и реальные риски](https://dev.to/_vproger_/php-85-novyie-vozmozhnosti-apghrieid-i-riealnyie-riski-4hh8)
-- [My Data Lake Runs on MongoDB and PostgreSQL and I’m Not Sorry](https://dev.to/srsandrade/my-data-lake-runs-on-mongodb-and-postgresql-and-im-not-sorry-1g2j)
-- [IAM Security Audit](https://dev.to/aws-builders/iam-security-audit-3lp1)
+- [Day 1 – 100 Days of Coding Challenge | Commitment Before Code](https://dev.to/aiwithragini/day-1-100-days-of-coding-challenge-commitment-before-code-4ao4)
+- [What is the diff between `Date` vs `new Date&lpar;&rpar;`](https://dev.to/kelvynthai/what-is-the-diff-between-date-vs-new-date-1ep0)
+- [7 Git Commands That Make You Look Like a Wizard](https://dev.to/kirill_tolmachev/7-git-commands-that-make-you-look-like-a-wizard-30h)
+- [Show DEV: I built a calm typing practice app with ambient soundscapes](https://dev.to/mcptoolshop/show-dev-i-built-a-calm-typing-practice-app-with-ambient-soundscapes-523e)
+- [JavaScript Execution Context and Call Stack Explained](https://dev.to/ananya_mohanta_b44a988e76/javascript-execution-context-and-call-stack-explained-3bd5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
