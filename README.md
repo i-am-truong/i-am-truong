@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Measure Passkey Adoption: Funnels, Activation, and Device Insights](https://dev.to/corbado/how-to-measure-passkey-adoption-funnels-activation-and-device-insights-1fb9)
-- [I stopped trying to make HTML paginate for printing &lpar;and it finally worked&rpar;](https://dev.to/victoduss/i-stopped-trying-to-make-html-paginate-for-printing-and-it-finally-worked-5flp)
-- [Your AI Coding Agents Are Slow Because Your Tools Talk Too Much](https://dev.to/teppana88/your-ai-coding-agents-are-slow-because-your-tools-talk-too-much-24h6)
-- [I stopped building apps with Claude Code. Now, Claude Code IS the app.](https://dev.to/chadbyte/i-stopped-building-apps-with-claude-code-now-claude-code-is-the-app-h1f)
-- [Automatic versioning for GitHub Actions authors](https://dev.to/jessehouwing/automatic-versioning-for-github-actions-authors-2e19)
+- [How AI Automation is Redefining Junior Developer Roles and Threatening the Future of Software Engineering](https://dev.to/mrakdon/how-ai-automation-is-redefining-junior-developer-roles-and-threatening-the-future-of-software-10hb)
+- [Data Ownership: Why It Matters and How to Track It](https://dev.to/hammad_khan_9cb83f1728ef5/data-ownership-why-it-matters-and-how-to-track-it-20mc)
+- [Design High-Performing And Elastic Compute Solutions](https://dev.to/aws-builders/design-high-performing-and-elastic-compute-solutions-2h9h)
+- [I stopped setting goals. Here&#39;s what happened.](https://dev.to/betatesterlife/i-stopped-setting-goals-heres-what-happened-5cmc)
+- [The Ball and Chain: Why Git is an Anti-Pattern for AI-Native Engineering](https://dev.to/m8a-io/the-ball-and-chain-why-git-is-an-anti-pattern-for-ai-native-engineering-1i47)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
