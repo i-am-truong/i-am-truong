@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Flappy Hand in 30 min with copilot cli](https://dev.to/shivam_kumar_642a29404959/flappy-hand-in-30-min-with-copilot-cli-1n94)
-- [Building a Data Catalog for Your Cloud Infrastructure](https://dev.to/hammad_khan_9cb83f1728ef5/building-a-data-catalog-for-your-cloud-infrastructure-40aj)
-- [Publicación de paquetes npm turborepo, trusted publisher, pnpm](https://dev.to/dezkareid/publicacion-de-paquetes-npm-turborepo-trusted-publisher-pnpm-18ch)
-- [🥊 Developer vs AI – New Season, Same Question: Who’s Really in Control?](https://dev.to/marxon/developer-vs-ai-new-season-same-question-whos-really-in-control-4nia)
-- [Normal Forms and MongoDB](https://dev.to/franckpachot/normal-forms-and-the-document-model-mongodb-19f9)
+- [10. C# &lpar;Static Typing vs Dynamic Typing&rpar;](https://dev.to/sabin_sim/10-c-static-typing-vs-dynamic-typing-ka1)
+- [🍪 Cookies Explained Like You&#39;re 5](https://dev.to/esreekarreddy/cookies-explained-like-youre-5-1fi2)
+- [I Built a Client Portal That Does Less on Purpose](https://dev.to/jaymart/i-built-a-client-portal-that-does-less-on-purpose-30im)
+- [How I Built a Random Number Generator &lpar;Sort Of&rpar;](https://dev.to/douxxtech/how-i-built-a-random-number-generator-sort-of-37i)
+- [CodeBehind 4.6 Released; Upgrade to .NET 10](https://dev.to/elanatframework/codebehind-46-released-upgrade-to-net-10-2p1g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
