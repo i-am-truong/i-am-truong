@@ -120,13 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The future of development isn’t about typing less. It’s about needing less to be typed.
-
-Great developers don’t need to prove their value by how much code they produce.](https://dev.to/jaideepparashar/the-future-of-development-isnt-about-typing-less-its-about-needing-less-to-be-typed-great-5ajo)
-- [The Developer’s Guide to Writing Less Code and Doing More](https://dev.to/jaideepparashar/the-developers-guide-to-writing-less-code-and-doing-more-5182)
-- [New VS Code Extension: NPM Package Version Dropdown](https://dev.to/farshadhemmati/new-vs-code-extension-npm-package-version-dropdown-8jn)
-- [[AWS] The difference between Kiro&#39;s Steering and AgentSkills [Kiro]](https://dev.to/aws-builders/aws-differences-between-kiro-steering-and-agentskills-kiro-5f3i)
-- [Building Adaptive Learning Agents with A2UI, Gemini, and Google Apps Script](https://dev.to/gde/building-adaptive-learning-agents-with-a2ui-gemini-and-google-apps-script-1536)
+- [Your Docker Registry Has 500 Unused Images Costing You Every Month 🐳](https://dev.to/suhas_mallesh/your-docker-registry-has-500-unused-images-costing-you-every-month-126m)
+- [마크다운 파일로 7,600개 태스크를 관리하는 시스템](https://dev.to/wes5510/makeudaun-pailro-7600gae-taeseukeureul-gwanrihaneun-siseutem-cja)
+- [Debugging the Technical Debt of Everyday Living](https://dev.to/humble_engineer_ac3add409/debugging-the-technical-debt-of-everyday-living-1omf)
+- [Shopify Proxy Troubleshooting Playbook for Slow Speed, 429, 407, and Location Mismatch with a 30-Minute Validation Routine](https://dev.to/gabrielewayner/shopify-proxy-troubleshooting-playbook-for-slow-speed-429-407-and-location-mismatch-with-a-4kjf)
+- [🚀 Learning to Code Resources](https://dev.to/apmedev/learning-to-code-resources-1bal)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
