@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Statement Subtransactions and Tree Mutation in SQLite](https://dev.to/lovestaco/statement-subtransactions-and-tree-mutation-in-sqlite-2a33)
-- [How GitHub Broke Apart Its Massive Database — Without Anyone Noticing](https://dev.to/creator79/how-github-broke-apart-its-massive-database-without-anyone-noticing-47o1)
-- [Testing Code Inclusion in DEV.to](https://dev.to/jankoweb/testing-code-inclusion-in-devto-16fi)
-- [CVE-2026-25641: The Chameleon Key: Breaking SandboxJS with a Shape-Shifting Object](https://dev.to/cverports/cve-2026-25641-the-chameleon-key-breaking-sandboxjs-with-a-shape-shifting-object-1le9)
-- [I Built a Programming Language Where think Is a Keyword](https://dev.to/elias_hourany_5735ea9eac2/i-built-a-programming-language-where-think-is-a-keyword-1p2i)
+- [Cline’s Backroom Git: The Secret History of “View Changes”](https://dev.to/alex_buzunov_4d5851f839cc/clines-backroom-git-the-secret-history-of-view-changes-1ma1)
+- [Day 1: Locking the Front Door](https://dev.to/arjunjv/day-1-locking-the-front-door-5gil)
+- [State of JS 2025: Popular Syntax Features Explained with PHP Equivalents](https://dev.to/robertobutti/state-of-js-2025-popular-syntax-features-explained-with-php-equivalents-4ffp)
+- [Missing Data in Machine Learning: A Practical Step-by-Step Approach](https://dev.to/brittany_37606c0775530a57/missing-data-in-machine-learning-a-practical-step-by-step-approach-1p85)
+- [How Analysts Translate Messy Data, DAX, and Dashboards into Action Using Power BI](https://dev.to/mburu_champ/how-analysts-translate-messy-data-dax-and-dashboards-into-action-using-power-bi-464j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
