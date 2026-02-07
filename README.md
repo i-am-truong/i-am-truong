@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [TeleWork4U &lpar;TW4U&rpar;: Real-Time Job Notifications on Telegram for Freelancers &amp; Agencies](https://dev.to/mebularts/telework4u-tw4u-real-time-job-notifications-on-telegram-for-freelancers-agencies-1g8p)
-- [Second Life for Laptops - Mapping by Hardware](https://dev.to/ben-santora/second-life-for-laptops-mapping-by-hardware-5fdn)
-- [🚀 2026 Software Development Roadmap: How to Start &lpar;or Reinvent&rpar; Your Career in Tech](https://dev.to/joedev090/2026-software-development-roadmap-how-to-start-or-reinvent-your-career-in-tech-18oa)
-- [24 AWS Architecture Blueprints for Building Scalable Cloud Systems](https://dev.to/er_jaydeepgohel/24-aws-architecture-blueprints-for-building-scalable-cloud-systems-2764)
-- [Most apps add smart features too early](https://dev.to/budventure_technologies_5/most-apps-add-smart-features-too-early-40fj)
+- [Refresh Your Neon Cloud Database from Local Postgres &lpar;Without the Data API&rpar;](https://dev.to/akaak/refresh-your-neon-cloud-database-from-local-postgres-without-the-data-api-361f)
+- [I Was Tired of Copy-Pasting Translations in Figma - So I Built My Own Tool](https://dev.to/ak_deepankar/i-was-tired-of-copy-pasting-translations-in-figma-so-i-built-my-own-tool-5fc2)
+- [Puppet with Foreman - Host Registration](https://dev.to/12ww1160/puppet-with-foreman-host-registration-3866)
+- [PHP Architect January 2026: Wanted: PHP Developers](https://dev.to/phparch/php-architect-january-2026-wanted-php-developers-26n7)
+- [My Learning Notes](https://dev.to/dawid_ryczko/my-learning-notes-6i7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
