@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Switch case](https://dev.to/karthick_m22/switch-case-22f)
 - [A Framework for System Design Interviews](https://dev.to/josephakayesi/a-framework-for-system-design-interviews-gde)
 - [I Read 25+ System Design Books, Here Are the 11 That Actually Made Me a Better Engineer](https://dev.to/somadevtoo/i-read-25-system-design-books-here-are-the-11-that-actually-made-me-a-better-engineer-bli)
 - [Why Velnora Exists — The Silence Before the Obsession](https://dev.to/mdreal32/why-velnora-exists-the-silence-before-the-obsession-3297)
 - [🚀 Unlock GitHub Copilot in Cursor: The Ultimate Guide &lpar;Free &amp; Unlimited&rpar;](https://dev.to/jacksonkasi/unlock-github-copilot-in-cursor-the-ultimate-guide-free-unlimited-4i9c)
-- [snakension - a browser extension for playing snake when you&#39;re offline](https://dev.to/iamovi/snakension-a-browser-extension-for-playing-snake-when-youre-offline-1kfk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
