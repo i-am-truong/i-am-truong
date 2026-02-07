@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[AWS] Parallel execution of tasks using Kiro&#39;s custom subagents [Kiro]](https://dev.to/aws-builders/aws-parallel-execution-of-tasks-using-kiros-custom-subagents-kiro-n77)
+- [x402 V2 Just Dropped: 5 Security Changes Every AI Agent Builder Needs to Know](https://dev.to/mkmkkkkk/x402-v2-just-dropped-5-security-changes-every-ai-agent-builder-needs-to-know-5apf)
+- [I built a cryptographic memory layer for humans in Python tags: python, opensource, security, blockchain](https://dev.to/diaryvault/i-built-a-cryptographic-memory-layer-for-humans-in-python-tags-python-opensource-security-20jo)
+- [&quot;Var vs Let: The Big Confusion Explained!&quot;](https://dev.to/burhan_chughtai/var-vs-let-the-big-confusion-explained-4hhk)
 - [10. C# &lpar;Static Typing vs Dynamic Typing&rpar;](https://dev.to/sabin_sim/10-c-static-typing-vs-dynamic-typing-ka1)
-- [🍪 Cookies Explained Like You&#39;re 5](https://dev.to/esreekarreddy/cookies-explained-like-youre-5-1fi2)
-- [I Built a Client Portal That Does Less on Purpose](https://dev.to/jaymart/i-built-a-client-portal-that-does-less-on-purpose-30im)
-- [How I Built a Random Number Generator &lpar;Sort Of&rpar;](https://dev.to/douxxtech/how-i-built-a-random-number-generator-sort-of-37i)
-- [CodeBehind 4.6 Released; Upgrade to .NET 10](https://dev.to/elanatframework/codebehind-46-released-upgrade-to-net-10-2p1g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
