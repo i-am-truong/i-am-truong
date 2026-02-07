@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [“A Quiet Fight With Gatekeeper: Notes from Setting Up TagXMLGen on macOS”](https://dev.to/ammad155/a-quiet-fight-with-gatekeeper-notes-from-setting-up-tagxmlgen-on-macos-54jm)
-- [Why Most Open-Source Issues Feel Hard &lpar;And What I’m Building to Fix It&rpar;](https://dev.to/vednarvekar/why-most-open-source-issues-feel-hard-and-what-im-building-to-fix-it-eog)
-- [Why We Stopped Recommending ZITADEL for Self-Hosting: A Developer&#39;s Field Report](https://dev.to/nirajkvinit1/why-we-stopped-recommending-zitadel-for-self-hosting-a-developers-field-report-4fdl)
-- [New in Vue - February 2025](https://dev.to/aloisseckar/new-in-vue-february-2025-2kac)
-- [Built a salary benchmarking tool — would love critical feedback](https://dev.to/horror_3dfilms_85df67ce0/built-a-salary-benchmarking-tool-would-love-critical-feedback-5hi5)
+- [The Unseen Threat: Securing Network Time Protocol &lpar;NTP&rpar; and the Rise of Time-Sensitive Networking &lpar;TSN&rpar;](https://dev.to/gagreatprogrammer/the-unseen-threat-securing-network-time-protocol-ntp-and-the-rise-of-time-sensitive-networking-5d3a)
+- [Autopilot - Assistant : Building an AI Copilot with Algolia Agent Studio](https://dev.to/datalaria/autopilot-assistant-building-an-ai-copilot-with-algolia-agent-studio-4gmg)
+- [A - Glossary &lpar;Python&rpar;](https://dev.to/hyperkai/a-glossary-python-20dg)
+- [Event Management &amp; Ticket Booking System &lpar;Next.js + NestJS&rpar;](https://dev.to/virul_d/event-management-ticket-booking-system-nextjs-nestjs-464e)
+- [Why I Built Notic](https://dev.to/d_kim_694bb1da65e1230ff83/why-i-built-notic-49jb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
