@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Configure Azure Entra External ID Authentication for Blazor Web App](https://dev.to/abhiroop43/configure-azure-entra-external-id-authentication-for-blazor-web-app-3mma)
-- [Stop Storing Passwords Like It&#39;s 1999: The Node.js + MySQL Reality Check](https://dev.to/vasughanta09/stop-storing-passwords-like-its-1999-the-nodejs-mysql-reality-check-32n3)
-- [The Second Machine Age: Moravec&#39;s Paradox, Abundance and Inequality](https://dev.to/fundacjadobrepanstwo/the-second-machine-age-moravecs-paradox-abundance-and-inequality-4g1g)
-- [From CLI to GitHub Bot: Building a Code Management AI for Python](https://dev.to/daisukeyoda/from-cli-to-github-bot-building-a-code-management-ai-for-python-7nk)
-- [I Built a Global Store That Automatically Adjusts Price and Language &lpar;No JSON Files Required&rpar;](https://dev.to/coderotakux/i-built-a-global-store-that-automatically-adjusts-price-and-language-no-json-files-required-f7h)
+- [Mastering Data Redundancy in SaaS: Centralized Management Techniques](https://dev.to/bicanvas_erp_b531006b2494/mastering-data-redundancy-in-saas-centralized-management-techniques-5od)
+- [PostgreSQL SQL Recap: Building Strong Foundational SQL Skills](https://dev.to/auyeungdavid_2847435260/postgresql-sql-recap-building-strong-foundational-sql-skills-1mhh)
+- [I Abandoned Vector DBs to Build a &quot;Biological&quot; AI OS: Memory that Dreams + Reflexes that Kill Latency](https://dev.to/merchantmohdebug/i-abandoned-vector-dbs-to-build-a-biological-ai-os-memory-that-dreams-reflexes-that-kill-33c)
+- [Python Block Comments: Best Practices, Shortcuts, and Docstrings Explained](https://dev.to/lifeportal20002010/python-block-comments-best-practices-shortcuts-and-docstrings-explained-342f)
+- [Modern Web APIs That Replace JavaScript Libraries](https://dev.to/abhilash_hegde/modern-web-apis-that-replace-javascript-libraries-4njd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
