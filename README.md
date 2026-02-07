@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I spent 3 hours picking colors for a side project that died in a week](https://dev.to/egeuysall/i-spent-3-hours-picking-colors-for-a-side-project-that-died-in-a-week-5fdb)
-- [GHSA-F8H5-X737-X4XR: Finch-Rust: The Shai-Hulud Worm Burrows into Crates.io](https://dev.to/cverports/ghsa-f8h5-x737-x4xr-finch-rust-the-shai-hulud-worm-burrows-into-cratesio-3a3i)
-- [Why OpenClaw Breaks at Scale: A Technical Perspective](https://dev.to/alifar/why-openclaw-breaks-at-scale-a-technical-perspective-6o5)
-- [COLLEGE STUDENT ENTERING THE WORLD OF INFORMATION TECHNOLOGY](https://dev.to/kevin_carter_93/college-student-entering-the-world-of-information-technology-20pi)
-- [LeetCode AI Assistant: Smarter Interview Prep](https://dev.to/alex_hunter_44f4c9ed6671e/leetcode-ai-assistant-smarter-interview-prep-27m5)
+- [LicGen — Offline License Generator &lpar;CLI + Web UI&rpar;](https://dev.to/tejavvo/licgen-offline-license-generator-cli-web-ui-4j69)
+- [Why do tree-based models still outperform deep learning on tabular data?](https://dev.to/paperium/why-do-tree-based-models-still-outperform-deep-learning-on-tabular-data-2lc5)
+- [GHSA-382Q-FPQH-29F7: Betting on a Bad Horse: The Malicious `polymarket-clients-sdk` Crate](https://dev.to/cverports/ghsa-382q-fpqh-29f7-betting-on-a-bad-horse-the-malicious-polymarket-clients-sdk-crate-3g9d)
+- [Python and Memory Management, Part 2: Heap Memory](https://dev.to/jfr_khakpour_9a112bc5f771/python-and-memory-management-part-2-heap-memory-258d)
+- [Python and Memory Management, Part 1: Objects](https://dev.to/jfr_khakpour_9a112bc5f771/python-and-memory-management-part-1-objects-45lh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
