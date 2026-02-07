@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Explainability in AI Is Not a Feature. It’s a Survival Mechanism.](https://dev.to/yurii_lozinskyi/explainability-in-ai-is-not-a-feature-its-a-survival-mechanism-5al7)
-- [Beautiful Perl feature: BLOCKs](https://dev.to/damil/beautiful-perl-feature-blocks-2o4)
-- [Beautiful Perl features - introduction to the series](https://dev.to/damil/beautiful-perl-features-introduction-to-the-series-b6a)
-- [MindsEye Series: Google Edition - Building YouTube&#39;s Cognitive Infrastructure](https://dev.to/peacebinflow/mindseye-series-google-edition-building-youtubes-cognitive-infrastructure-243k)
-- [Orchestrating AlphaFold 3 &amp; 2 with Python: Handling AI Hallucinations using Adapter Pattern](https://dev.to/flamehaven01/orchestrating-alphafold-3-2-with-python-handling-ai-hallucinations-using-adapter-pattern-3k03)
+- [Fixing Kali Linux&#39;s &quot;Failed to Set Beacon Parameters&quot; Hotspot Error: A Troubleshooting Tale](https://dev.to/rosewabere/fixing-kali-linuxs-failed-to-set-beacon-parameters-hotspot-error-a-troubleshooting-tale-1ddc)
+- [Day 7 of #100DaysOfCode — Understanding Custom Hooks in React](https://dev.to/m_saad_ahmad/day-7-of-100daysofcode-understanding-custom-hooks-in-react-3e3p)
+- [Guide to Publishing a Python Project as a VS Code Extension](https://dev.to/nitinkumar30/guide-to-publishing-a-python-project-as-a-vs-code-extension-4emf)
+- [📊 2026-02-07 - Daily Intelligence Recap - Top 3 Signals](https://dev.to/jose_marquez_alberti/2026-02-07-daily-intelligence-recap-top-3-signals-11f)
+- [I had two projects solving the same problem. I merged them and published to npm in a day](https://dev.to/gpolanco/stop-duplicating-rules-manage-agentic-editors-with-one-cli-20j6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
