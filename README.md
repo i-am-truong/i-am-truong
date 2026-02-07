@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Translating Data Chaos into Business Actions with Power BI](https://dev.to/s_ndungu_ebc94c8db8906f72/translating-data-chaos-into-business-actions-with-power-bi-keh)
+- [How to Measure Outcomes: Track FCR, AHT, CSAT, and Deflection Rates Effectively](https://dev.to/callstacktech/how-to-measure-outcomes-track-fcr-aht-csat-and-deflection-rates-effectively-49dm)
 - [AI Code Review Tools That Actually Work with Azure DevOps 🧪](https://dev.to/dev_kiran/ai-code-review-tools-that-actually-work-with-azure-devops-2gnj)
-- [OAuth Login Flow with Vite](https://dev.to/digitalrisedorset/oauth-login-flow-with-vite-n98)
-- [Contact Tracing Mobile Apps for COVID-19: Privacy Considerations and RelatedTrade-offs](https://dev.to/paperium/contact-tracing-mobile-apps-for-covid-19-privacy-considerations-and-relatedtrade-offs-1ihc)
+- [MFA Fatigue Approval: When “Approve” Becomes Your Weakest Link](https://dev.to/ibbus/mfa-fatigue-approval-when-approve-becomes-your-weakest-link-55ol)
 - [I Built a macOS Menu Bar App That Sends Text to Any AI in 2 Seconds](https://dev.to/thinkerjack/i-built-a-macos-menu-bar-app-that-sends-text-to-any-ai-in-2-seconds-3ki7)
-- [Your Framework Is Replaceable. Your Architecture Is Not.](https://dev.to/denherrring/your-framework-is-replaceable-your-architecture-is-not-5fdh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
