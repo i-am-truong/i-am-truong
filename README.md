@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building an Ultra-Low Latency Live Streaming Server: A Developer&#39;s Guide to OvenMediaEngine](https://dev.to/mayu2008/building-an-ultra-low-latency-live-streaming-server-a-developers-guide-to-ovenmediaengine-jco)
-- [OpenClaw meets AnyAPI.ai: How to scrape the web without losing your mind](https://dev.to/es2026/openclaw-meets-anyapiai-how-to-scrape-the-web-without-losing-your-mind-2cci)
-- [I Built a Full Project Management App in 2 days Using Claude 4.6](https://dev.to/olaproeis/i-built-a-full-project-management-app-in-2-days-using-claude-47-1e1g)
-- [Russia&#39;s Internet Filtering Infrastructure: Evolution and Architecture](https://dev.to/shinomontaz/russias-internet-filtering-infrastructure-evolution-and-architecture-cel)
-- [How AI Automation is Redefining Junior Developer Roles and Threatening the Future of Software Engineering](https://dev.to/mrakdon/how-ai-automation-is-redefining-junior-developer-roles-and-threatening-the-future-of-software-10hb)
+- [The Portfolio Challenge by Google AI](https://dev.to/gde/the-portfolio-challenge-by-google-ai-47gh)
+- [How to Dynamically Switch Local LLMs with LangChain](https://dev.to/harishkotra/how-to-dynamically-switch-local-llms-with-langchain-5aje)
+- [Why I use Typetify: A Type-Safe Alternative to Lodash](https://dev.to/hosby/why-i-use-typetify-a-type-safe-alternative-to-lodash-3gp0)
+- [How to scrape Telegram channels: The complete guide to extracting posts, media, and metadata](https://dev.to/eunit/how-to-scrape-telegram-channels-the-complete-guide-to-extracting-posts-media-and-metadata-2ff)
+- [Quark&#39;s Outlines: Python Code Blocks](https://dev.to/mike-vincent/quarks-outlines-python-code-blocks-j0n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
