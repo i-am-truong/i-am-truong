@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your Docker Registry Has 500 Unused Images Costing You Every Month 🐳](https://dev.to/suhas_mallesh/your-docker-registry-has-500-unused-images-costing-you-every-month-126m)
-- [마크다운 파일로 7,600개 태스크를 관리하는 시스템](https://dev.to/wes5510/makeudaun-pailro-7600gae-taeseukeureul-gwanrihaneun-siseutem-cja)
-- [Debugging the Technical Debt of Everyday Living](https://dev.to/humble_engineer_ac3add409/debugging-the-technical-debt-of-everyday-living-1omf)
-- [Shopify Proxy Troubleshooting Playbook for Slow Speed, 429, 407, and Location Mismatch with a 30-Minute Validation Routine](https://dev.to/gabrielewayner/shopify-proxy-troubleshooting-playbook-for-slow-speed-429-407-and-location-mismatch-with-a-4kjf)
-- [🚀 Learning to Code Resources](https://dev.to/apmedev/learning-to-code-resources-1bal)
+- [Your AI Agent Has No Armor: A Technical Security Analysis of OpenClaw](https://dev.to/jb_wagoner_9397749548b10c/your-ai-agent-has-no-armor-a-technical-security-analysis-of-openclaw-86l)
+- [Only For Coders.](https://dev.to/adarsh_dubey_cfa0a06a780e/only-for-coders-233g)
+- [Dr Vignesh Narayan R&#39;s Skin AI Assistant: A Safety-First Dermatology Agent &lpar;Built with React + Algolia&rpar;](https://dev.to/dr_vigneshnarayanr_c4d/dr-vignesh-narayan-rs-skin-ai-assistant-a-safety-first-dermatology-agent-built-with-react--1p87)
+- [Beyond the Chatbox: Engineering Your Prompts with the Trinity Framework](https://dev.to/the_binary_moat/beyond-the-chatbox-engineering-your-prompts-with-the-trinity-framework-1eh6)
+- [How I built an RAG engine for Singapore Laws](https://dev.to/aditya_prasad_c670b9e01c4/how-i-built-an-rag-engine-for-singapore-laws-413b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
