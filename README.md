@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Bitcoin L2s: How Bitcoin Is Becoming More Than “Digital Gold” in 2026](https://dev.to/ribhavmodi/bitcoin-l2s-how-bitcoin-is-becoming-more-than-digital-gold-in-2026-2i)
+- [Quincy Larson’s freeCodeCamp updates are invaluable. This week: Harvard CS50 2026, a free CS course, now on their YouTube channel:](https://dev.to/richardpascoe/quincy-larsons-freecodecamp-updates-are-invaluable-this-week-harvard-cs50-2026-a-free-cs-4ca0)
 - [Switch case](https://dev.to/karthick_m22/switch-case-22f)
 - [A Framework for System Design Interviews](https://dev.to/josephakayesi/a-framework-for-system-design-interviews-gde)
 - [I Read 25+ System Design Books, Here Are the 11 That Actually Made Me a Better Engineer](https://dev.to/somadevtoo/i-read-25-system-design-books-here-are-the-11-that-actually-made-me-a-better-engineer-bli)
-- [Why Velnora Exists — The Silence Before the Obsession](https://dev.to/mdreal32/why-velnora-exists-the-silence-before-the-obsession-3297)
-- [🚀 Unlock GitHub Copilot in Cursor: The Ultimate Guide &lpar;Free &amp; Unlimited&rpar;](https://dev.to/jacksonkasi/unlock-github-copilot-in-cursor-the-ultimate-guide-free-unlimited-4i9c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
