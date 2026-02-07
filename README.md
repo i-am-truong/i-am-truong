@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Explainability in AI Is Not a Feature. It’s a Survival Mechanism.](https://dev.to/yurii_lozinskyi/explainability-in-ai-is-not-a-feature-its-a-survival-mechanism-5al7)
+- [Beautiful Perl feature: BLOCKs](https://dev.to/damil/beautiful-perl-feature-blocks-2o4)
+- [Beautiful Perl features - introduction to the series](https://dev.to/damil/beautiful-perl-features-introduction-to-the-series-b6a)
+- [MindsEye Series: Google Edition - Building YouTube&#39;s Cognitive Infrastructure](https://dev.to/peacebinflow/mindseye-series-google-edition-building-youtubes-cognitive-infrastructure-243k)
 - [Orchestrating AlphaFold 3 &amp; 2 with Python: Handling AI Hallucinations using Adapter Pattern](https://dev.to/flamehaven01/orchestrating-alphafold-3-2-with-python-handling-ai-hallucinations-using-adapter-pattern-3k03)
-- [Cline’s Backroom Git: The Secret History of “View Changes”](https://dev.to/alex_buzunov_4d5851f839cc/clines-backroom-git-the-secret-history-of-view-changes-1ma1)
-- [Day 1: Locking the Front Door](https://dev.to/arjunjv/day-1-locking-the-front-door-5gil)
-- [State of JS 2025: Popular Syntax Features Explained with PHP Equivalents](https://dev.to/robertobutti/state-of-js-2025-popular-syntax-features-explained-with-php-equivalents-4ffp)
-- [Missing Data in Machine Learning: A Practical Step-by-Step Approach](https://dev.to/brittany_37606c0775530a57/missing-data-in-machine-learning-a-practical-step-by-step-approach-1p85)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
