@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Fixing Kali Linux&#39;s &quot;Failed to Set Beacon Parameters&quot; Hotspot Error: A Troubleshooting Tale](https://dev.to/rosewabere/fixing-kali-linuxs-failed-to-set-beacon-parameters-hotspot-error-a-troubleshooting-tale-1ddc)
-- [Day 7 of #100DaysOfCode — Understanding Custom Hooks in React](https://dev.to/m_saad_ahmad/day-7-of-100daysofcode-understanding-custom-hooks-in-react-3e3p)
-- [Guide to Publishing a Python Project as a VS Code Extension](https://dev.to/nitinkumar30/guide-to-publishing-a-python-project-as-a-vs-code-extension-4emf)
-- [📊 2026-02-07 - Daily Intelligence Recap - Top 3 Signals](https://dev.to/jose_marquez_alberti/2026-02-07-daily-intelligence-recap-top-3-signals-11f)
-- [I had two projects solving the same problem. I merged them and published to npm in a day](https://dev.to/gpolanco/stop-duplicating-rules-manage-agentic-editors-with-one-cli-20j6)
+- [I spent 3 hours picking colors for a side project that died in a week](https://dev.to/egeuysall/i-spent-3-hours-picking-colors-for-a-side-project-that-died-in-a-week-5fdb)
+- [GHSA-F8H5-X737-X4XR: Finch-Rust: The Shai-Hulud Worm Burrows into Crates.io](https://dev.to/cverports/ghsa-f8h5-x737-x4xr-finch-rust-the-shai-hulud-worm-burrows-into-cratesio-3a3i)
+- [Why OpenClaw Breaks at Scale: A Technical Perspective](https://dev.to/alifar/why-openclaw-breaks-at-scale-a-technical-perspective-6o5)
+- [COLLEGE STUDENT ENTERING THE WORLD OF INFORMATION TECHNOLOGY](https://dev.to/kevin_carter_93/college-student-entering-the-world-of-information-technology-20pi)
+- [LeetCode AI Assistant: Smarter Interview Prep](https://dev.to/alex_hunter_44f4c9ed6671e/leetcode-ai-assistant-smarter-interview-prep-27m5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
