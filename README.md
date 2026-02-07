@@ -120,13 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Schemas and data modelling in Power BI](https://dev.to/byrone_code/schemas-and-data-modelling-in-power-bi-1hf3)
-- [Why Interface + Factory? The Java Pattern That Makes Everything Replaceable](https://dev.to/siy/why-interface-factory-the-java-pattern-that-makes-everything-replaceable-3pm4)
-- [An Advanced, Multimodal AI Social Media Ecosystem](https://dev.to/janadasroor/an-advanced-multimodal-ai-social-media-ecosystem-33ae)
-- [LicGen — Offline License Generator &lpar;CLI + Web UI&rpar;](https://dev.to/tejavvo/licgen-offline-license-generator-cli-web-ui-4j69)
-- [Responsible AI is becoming core engineering practice.
-
-In this article, I share architecture patterns for building safe, real-time speech translation apps using Azure Speech and Content Safety.](https://dev.to/amit_tyagi_b6bb9dd185178e/responsible-ai-is-becoming-core-engineering-practice-in-this-article-i-share-architecture-17bc)
+- [Flappy Hand in 30 min with copilot cli](https://dev.to/shivam_kumar_642a29404959/flappy-hand-in-30-min-with-copilot-cli-1n94)
+- [Building a Data Catalog for Your Cloud Infrastructure](https://dev.to/hammad_khan_9cb83f1728ef5/building-a-data-catalog-for-your-cloud-infrastructure-40aj)
+- [Publicación de paquetes npm turborepo, trusted publisher, pnpm](https://dev.to/dezkareid/publicacion-de-paquetes-npm-turborepo-trusted-publisher-pnpm-18ch)
+- [🥊 Developer vs AI – New Season, Same Question: Who’s Really in Control?](https://dev.to/marxon/developer-vs-ai-new-season-same-question-whos-really-in-control-4nia)
+- [Normal Forms and MongoDB](https://dev.to/franckpachot/normal-forms-and-the-document-model-mongodb-19f9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
