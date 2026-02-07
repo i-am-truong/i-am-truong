@@ -120,11 +120,13 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Idempotency and Circuit Breakers in n8n: A Production Survival Guide](https://dev.to/jbhflow/idempotency-and-circuit-breakers-in-n8n-a-production-survival-guide-3cnb)
-- [I asked Opus 4.6 and Codex 5.2 to build the same thing, and I was surprised with the results](https://dev.to/camb/i-asked-opus-46-and-codex-52-to-build-the-same-thing-and-i-was-surprised-with-the-results-4g9e)
-- [AI News Roundup: Claude Opus 4.6, OpenAI Frontier, and World Models for Driving](https://dev.to/damogallagher/ai-news-roundup-claude-opus-46-openai-frontier-and-world-models-for-driving-1gab)
-- [How to Connect MercadoLibre MCP in Antigravity/Cursor: The Missing Guide](https://dev.to/zogar/how-to-connect-mercadolibre-mcp-in-antigravitycursor-the-missing-guide-1fbg)
-- [Jenkins Agents — Full DevOps Lecture](https://dev.to/jumptotech/jenkins-agents-full-devops-lecture-2437)
+- [The future of development isn’t about typing less. It’s about needing less to be typed.
+
+Great developers don’t need to prove their value by how much code they produce.](https://dev.to/jaideepparashar/the-future-of-development-isnt-about-typing-less-its-about-needing-less-to-be-typed-great-5ajo)
+- [The Developer’s Guide to Writing Less Code and Doing More](https://dev.to/jaideepparashar/the-developers-guide-to-writing-less-code-and-doing-more-5182)
+- [New VS Code Extension: NPM Package Version Dropdown](https://dev.to/farshadhemmati/new-vs-code-extension-npm-package-version-dropdown-8jn)
+- [[AWS] The difference between Kiro&#39;s Steering and AgentSkills [Kiro]](https://dev.to/aws-builders/aws-differences-between-kiro-steering-and-agentskills-kiro-5f3i)
+- [Building Adaptive Learning Agents with A2UI, Gemini, and Google Apps Script](https://dev.to/gde/building-adaptive-learning-agents-with-a2ui-gemini-and-google-apps-script-1536)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
