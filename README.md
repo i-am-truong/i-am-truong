@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Measure Passkey Adoption: Funnels, Activation, and Device Insights](https://dev.to/corbado/how-to-measure-passkey-adoption-funnels-activation-and-device-insights-1fb9)
+- [I stopped trying to make HTML paginate for printing &lpar;and it finally worked&rpar;](https://dev.to/victoduss/i-stopped-trying-to-make-html-paginate-for-printing-and-it-finally-worked-5flp)
 - [Your AI Coding Agents Are Slow Because Your Tools Talk Too Much](https://dev.to/teppana88/your-ai-coding-agents-are-slow-because-your-tools-talk-too-much-24h6)
 - [I stopped building apps with Claude Code. Now, Claude Code IS the app.](https://dev.to/chadbyte/i-stopped-building-apps-with-claude-code-now-claude-code-is-the-app-h1f)
-- [AI, Entropy, and the Illusion of Convergence in Modern Software](https://dev.to/bel_nekes_a9a83e11a4898/ai-entropy-and-the-illusion-of-convergence-in-modern-software-2354)
-- [Resourceful Computing: What Happens When We Optimize for Old Hardware?](https://dev.to/ben-santora/resourceful-computing-what-happens-when-we-optimize-for-old-hardware-3an6)
-- [I Built a Sales Agent Using SendGrid: The Real Problems I Faced &lpar;and How I Solved Them&rpar;](https://dev.to/s3cloudhub/i-built-a-sales-agent-using-sendgrid-the-real-problems-i-faced-and-how-i-solved-them-1b3l)
+- [Automatic versioning for GitHub Actions authors](https://dev.to/jessehouwing/automatic-versioning-for-github-actions-authors-2e19)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
