@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Trust Protocol: How ACHP Prevents Autonomous AI Systems from Breaking Down](https://dev.to/christian_mikolasch/the-trust-protocol-how-achp-prevents-autonomous-ai-systems-from-breaking-down-4f15)
-- [From Quiet Researcher to Programming Pioneer: Dennis Ritchie’s Lasting Legacy](https://dev.to/homayounmmdy/from-quiet-researcher-to-programming-pioneer-dennis-ritchies-lasting-legacy-pc0)
-- [I Built DevDNA — A Tool That Turns GitHub Profiles Into Developer Personality Reports &lpar;Using Copilot CLI&rpar;](https://dev.to/user64bit/i-built-devdna-a-tool-that-turns-github-profiles-into-developer-personality-reports-using-11ob)
-- [Enhancement on Caching and Service Workers](https://dev.to/jaboarnoldlandry/enhancement-on-caching-and-service-workers-1bfl)
-- [How Analysts Translate Messy Data, DAX, and Dashboards into Action Using Power BI](https://dev.to/ambogo2/how-analysts-translate-messy-data-dax-and-dashboards-into-action-using-power-bi-4lfd)
+- [How I Built a System to Automatically Sell Access to a Private GitHub Repo](https://dev.to/micronink/how-i-built-a-system-to-automatically-sell-access-to-a-private-github-repo-2dnm)
+- [Ethereum-Solidity Quiz Q29: What is an Overflow/Underflow?](https://dev.to/mihaihng/ethereum-solidity-quiz-q29-what-is-overflowunderflow-505a)
+- [The Devil of Web Design](https://dev.to/gengers/the-devil-of-web-design-4nbd)
+- [I rebuilt my old image processing library with Rust + WebAssembly](https://dev.to/2yh02/i-rebuilt-my-old-image-processing-library-with-rust-webassembly-22fl)
+- [🚍 School Bus Management System – Project](https://dev.to/karthikav_tkm_4e6cf04b18/school-bus-management-system-project-54d6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
