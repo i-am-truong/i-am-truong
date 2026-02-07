@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[AWS] Parallel execution of tasks using Kiro&#39;s custom subagents [Kiro]](https://dev.to/aws-builders/aws-parallel-execution-of-tasks-using-kiros-custom-subagents-kiro-n77)
-- [x402 V2 Just Dropped: 5 Security Changes Every AI Agent Builder Needs to Know](https://dev.to/mkmkkkkk/x402-v2-just-dropped-5-security-changes-every-ai-agent-builder-needs-to-know-5apf)
-- [I built a cryptographic memory layer for humans in Python tags: python, opensource, security, blockchain](https://dev.to/diaryvault/i-built-a-cryptographic-memory-layer-for-humans-in-python-tags-python-opensource-security-20jo)
-- [&quot;Var vs Let: The Big Confusion Explained!&quot;](https://dev.to/burhan_chughtai/var-vs-let-the-big-confusion-explained-4hhk)
-- [10. C# &lpar;Static Typing vs Dynamic Typing&rpar;](https://dev.to/sabin_sim/10-c-static-typing-vs-dynamic-typing-ka1)
+- [Datastar Observations](https://dev.to/hlship/datastar-observations-3icg)
+- [Jumia Product Performance Dashboard: Analyzing Pricing, Discounts, and Customer Reviews.](https://dev.to/dennis_ogaka_2d188ab5bef7/jumia-product-performance-dashboard-analyzing-pricing-discounts-and-customer-reviews-844)
+- [The 2026 Distribution Hierarchy: Why Most Founders Start at the Wrong End](https://dev.to/rakesh1002/the-2026-distribution-hierarchy-why-most-founders-start-at-the-wrong-end-4oc1)
+- [Tech Academy WriteUp](https://dev.to/obtuosa/tech-academy-write-up-338p)
+- [Why AI Agents Make Different Decisions When They Think It&#39;s Real](https://dev.to/vishalmysore/why-ai-agents-make-different-decisions-when-they-think-its-real-69l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
