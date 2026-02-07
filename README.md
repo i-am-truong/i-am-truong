@@ -120,11 +120,13 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Schemas and data modelling in Power BI](https://dev.to/byrone_code/schemas-and-data-modelling-in-power-bi-1hf3)
+- [Why Interface + Factory? The Java Pattern That Makes Everything Replaceable](https://dev.to/siy/why-interface-factory-the-java-pattern-that-makes-everything-replaceable-3pm4)
+- [An Advanced, Multimodal AI Social Media Ecosystem](https://dev.to/janadasroor/an-advanced-multimodal-ai-social-media-ecosystem-33ae)
 - [LicGen — Offline License Generator &lpar;CLI + Web UI&rpar;](https://dev.to/tejavvo/licgen-offline-license-generator-cli-web-ui-4j69)
-- [Why do tree-based models still outperform deep learning on tabular data?](https://dev.to/paperium/why-do-tree-based-models-still-outperform-deep-learning-on-tabular-data-2lc5)
-- [GHSA-382Q-FPQH-29F7: Betting on a Bad Horse: The Malicious `polymarket-clients-sdk` Crate](https://dev.to/cverports/ghsa-382q-fpqh-29f7-betting-on-a-bad-horse-the-malicious-polymarket-clients-sdk-crate-3g9d)
-- [Python and Memory Management, Part 2: Heap Memory](https://dev.to/jfr_khakpour_9a112bc5f771/python-and-memory-management-part-2-heap-memory-258d)
-- [Python and Memory Management, Part 1: Objects](https://dev.to/jfr_khakpour_9a112bc5f771/python-and-memory-management-part-1-objects-45lh)
+- [Responsible AI is becoming core engineering practice.
+
+In this article, I share architecture patterns for building safe, real-time speech translation apps using Azure Speech and Content Safety.](https://dev.to/amit_tyagi_b6bb9dd185178e/responsible-ai-is-becoming-core-engineering-practice-in-this-article-i-share-architecture-17bc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
