@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Predictable Fees Matter More Than Low Fees in Production Finance](https://dev.to/roan911/why-predictable-fees-matter-more-than-low-fees-in-production-finance-10c1)
-- [How to Add Persistent Memory to CrewAI Agents](https://dev.to/arulnidhi_karunanidhi_7ff/how-to-add-persistent-memory-to-crewai-agents-2o63)
-- [Plugins Aren’t Cheating — They’re Part of Real Workflow](https://dev.to/dinesh_04/plugins-arent-cheating-theyre-part-of-real-workflow-2856)
-- [IT meltdown moments](https://dev.to/5uig3n3ris/it-meltdown-moments-503l)
-- [From Monoliths to Multitaskers: Building Your AWS AI Dream Team! 🚀🤖](https://dev.to/aws-builders/from-monoliths-to-multitaskers-building-your-aws-ai-dream-team-5dnf)
+- [“A Quiet Fight With Gatekeeper: Notes from Setting Up TagXMLGen on macOS”](https://dev.to/ammad155/a-quiet-fight-with-gatekeeper-notes-from-setting-up-tagxmlgen-on-macos-54jm)
+- [Why Most Open-Source Issues Feel Hard &lpar;And What I’m Building to Fix It&rpar;](https://dev.to/vednarvekar/why-most-open-source-issues-feel-hard-and-what-im-building-to-fix-it-eog)
+- [Why We Stopped Recommending ZITADEL for Self-Hosting: A Developer&#39;s Field Report](https://dev.to/nirajkvinit1/why-we-stopped-recommending-zitadel-for-self-hosting-a-developers-field-report-4fdl)
+- [New in Vue - February 2025](https://dev.to/aloisseckar/new-in-vue-february-2025-2kac)
+- [Built a salary benchmarking tool — would love critical feedback](https://dev.to/horror_3dfilms_85df67ce0/built-a-salary-benchmarking-tool-would-love-critical-feedback-5hi5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
