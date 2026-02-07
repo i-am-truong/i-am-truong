@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Refresh Your Neon Cloud Database from Local Postgres &lpar;Without the Data API&rpar;](https://dev.to/akaak/refresh-your-neon-cloud-database-from-local-postgres-without-the-data-api-361f)
-- [I Was Tired of Copy-Pasting Translations in Figma - So I Built My Own Tool](https://dev.to/ak_deepankar/i-was-tired-of-copy-pasting-translations-in-figma-so-i-built-my-own-tool-5fc2)
-- [Puppet with Foreman - Host Registration](https://dev.to/12ww1160/puppet-with-foreman-host-registration-3866)
-- [PHP Architect January 2026: Wanted: PHP Developers](https://dev.to/phparch/php-architect-january-2026-wanted-php-developers-26n7)
-- [My Learning Notes](https://dev.to/dawid_ryczko/my-learning-notes-6i7)
+- [The Trust Protocol: How ACHP Prevents Autonomous AI Systems from Breaking Down](https://dev.to/christian_mikolasch/the-trust-protocol-how-achp-prevents-autonomous-ai-systems-from-breaking-down-4f15)
+- [From Quiet Researcher to Programming Pioneer: Dennis Ritchie’s Lasting Legacy](https://dev.to/homayounmmdy/from-quiet-researcher-to-programming-pioneer-dennis-ritchies-lasting-legacy-pc0)
+- [I Built DevDNA — A Tool That Turns GitHub Profiles Into Developer Personality Reports &lpar;Using Copilot CLI&rpar;](https://dev.to/user64bit/i-built-devdna-a-tool-that-turns-github-profiles-into-developer-personality-reports-using-11ob)
+- [Enhancement on Caching and Service Workers](https://dev.to/jaboarnoldlandry/enhancement-on-caching-and-service-workers-1bfl)
+- [How Analysts Translate Messy Data, DAX, and Dashboards into Action Using Power BI](https://dev.to/ambogo2/how-analysts-translate-messy-data-dax-and-dashboards-into-action-using-power-bi-4lfd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
