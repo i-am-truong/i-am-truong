@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a System to Automatically Sell Access to a Private GitHub Repo](https://dev.to/micronink/how-i-built-a-system-to-automatically-sell-access-to-a-private-github-repo-2dnm)
-- [Ethereum-Solidity Quiz Q29: What is an Overflow/Underflow?](https://dev.to/mihaihng/ethereum-solidity-quiz-q29-what-is-overflowunderflow-505a)
-- [The Devil of Web Design](https://dev.to/gengers/the-devil-of-web-design-4nbd)
-- [I rebuilt my old image processing library with Rust + WebAssembly](https://dev.to/2yh02/i-rebuilt-my-old-image-processing-library-with-rust-webassembly-22fl)
-- [🚍 School Bus Management System – Project](https://dev.to/karthikav_tkm_4e6cf04b18/school-bus-management-system-project-54d6)
+- [I Built a Programming Language Where think Is a Keyword](https://dev.to/elias_hourany_5735ea9eac2/i-built-a-programming-language-where-think-is-a-keyword-1p2i)
+- [Best AI Creative Workflow Platforms in 2026: A Hands-On Comparison](https://dev.to/alexmercer_creatives/best-ai-creative-workflow-platforms-in-2026-a-hands-on-comparison-51e8)
+- [I Shipped My First VS Code Extension — Here’s What I Learned](https://dev.to/munish_kumarsharma_c7d83/i-shipped-my-first-vs-code-extension-heres-what-i-learned-3mkn)
+- [🔑 Cloud Policy Abuse: The IAM Blind Spot](https://dev.to/harsh_hak/cloud-policy-abuse-the-iam-blind-spot-fgj)
+- [🚀 C Challenge: Can you find the bug in this Pointer Logic? 🧠](https://dev.to/mukulroy/c-challenge-can-you-find-the-bug-in-this-pointer-logic-2j23)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
