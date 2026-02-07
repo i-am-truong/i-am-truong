@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Unseen Threat: Securing Network Time Protocol &lpar;NTP&rpar; and the Rise of Time-Sensitive Networking &lpar;TSN&rpar;](https://dev.to/gagreatprogrammer/the-unseen-threat-securing-network-time-protocol-ntp-and-the-rise-of-time-sensitive-networking-5d3a)
-- [Autopilot - Assistant : Building an AI Copilot with Algolia Agent Studio](https://dev.to/datalaria/autopilot-assistant-building-an-ai-copilot-with-algolia-agent-studio-4gmg)
-- [A - Glossary &lpar;Python&rpar;](https://dev.to/hyperkai/a-glossary-python-20dg)
-- [Event Management &amp; Ticket Booking System &lpar;Next.js + NestJS&rpar;](https://dev.to/virul_d/event-management-ticket-booking-system-nextjs-nestjs-464e)
-- [Why I Built Notic](https://dev.to/d_kim_694bb1da65e1230ff83/why-i-built-notic-49jb)
+- [A Framework for System Design Interviews](https://dev.to/josephakayesi/a-framework-for-system-design-interviews-gde)
+- [I Read 25+ System Design Books, Here Are the 11 That Actually Made Me a Better Engineer](https://dev.to/somadevtoo/i-read-25-system-design-books-here-are-the-11-that-actually-made-me-a-better-engineer-bli)
+- [Why Velnora Exists — The Silence Before the Obsession](https://dev.to/mdreal32/why-velnora-exists-the-silence-before-the-obsession-3297)
+- [🚀 Unlock GitHub Copilot in Cursor: The Ultimate Guide &lpar;Free &amp; Unlimited&rpar;](https://dev.to/jacksonkasi/unlock-github-copilot-in-cursor-the-ultimate-guide-free-unlimited-4i9c)
+- [snakension - a browser extension for playing snake when you&#39;re offline](https://dev.to/iamovi/snakension-a-browser-extension-for-playing-snake-when-youre-offline-1kfk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
