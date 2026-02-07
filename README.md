@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Bitcoin L2s: How Bitcoin Is Becoming More Than “Digital Gold” in 2026](https://dev.to/ribhavmodi/bitcoin-l2s-how-bitcoin-is-becoming-more-than-digital-gold-in-2026-2i)
-- [Quincy Larson’s freeCodeCamp updates are invaluable. This week: Harvard CS50 2026, a free CS course, now on their YouTube channel:](https://dev.to/richardpascoe/quincy-larsons-freecodecamp-updates-are-invaluable-this-week-harvard-cs50-2026-a-free-cs-4ca0)
-- [Switch case](https://dev.to/karthick_m22/switch-case-22f)
-- [A Framework for System Design Interviews](https://dev.to/josephakayesi/a-framework-for-system-design-interviews-gde)
-- [I Read 25+ System Design Books, Here Are the 11 That Actually Made Me a Better Engineer](https://dev.to/somadevtoo/i-read-25-system-design-books-here-are-the-11-that-actually-made-me-a-better-engineer-bli)
+- [Your AI Coding Agents Are Slow Because Your Tools Talk Too Much](https://dev.to/teppana88/your-ai-coding-agents-are-slow-because-your-tools-talk-too-much-24h6)
+- [I stopped building apps with Claude Code. Now, Claude Code IS the app.](https://dev.to/chadbyte/i-stopped-building-apps-with-claude-code-now-claude-code-is-the-app-h1f)
+- [AI, Entropy, and the Illusion of Convergence in Modern Software](https://dev.to/bel_nekes_a9a83e11a4898/ai-entropy-and-the-illusion-of-convergence-in-modern-software-2354)
+- [Resourceful Computing: What Happens When We Optimize for Old Hardware?](https://dev.to/ben-santora/resourceful-computing-what-happens-when-we-optimize-for-old-hardware-3an6)
+- [I Built a Sales Agent Using SendGrid: The Real Problems I Faced &lpar;and How I Solved Them&rpar;](https://dev.to/s3cloudhub/i-built-a-sales-agent-using-sendgrid-the-real-problems-i-faced-and-how-i-solved-them-1b3l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
