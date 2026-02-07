@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your AI Agent Has No Armor: A Technical Security Analysis of OpenClaw](https://dev.to/jb_wagoner_9397749548b10c/your-ai-agent-has-no-armor-a-technical-security-analysis-of-openclaw-86l)
-- [Only For Coders.](https://dev.to/adarsh_dubey_cfa0a06a780e/only-for-coders-233g)
-- [Dr Vignesh Narayan R&#39;s Skin AI Assistant: A Safety-First Dermatology Agent &lpar;Built with React + Algolia&rpar;](https://dev.to/dr_vigneshnarayanr_c4d/dr-vignesh-narayan-rs-skin-ai-assistant-a-safety-first-dermatology-agent-built-with-react--1p87)
-- [Beyond the Chatbox: Engineering Your Prompts with the Trinity Framework](https://dev.to/the_binary_moat/beyond-the-chatbox-engineering-your-prompts-with-the-trinity-framework-1eh6)
-- [How I built an RAG engine for Singapore Laws](https://dev.to/aditya_prasad_c670b9e01c4/how-i-built-an-rag-engine-for-singapore-laws-413b)
+- [What is class](https://dev.to/kirubagaran_k_438a86c991/what-is-class-2kap)
+- [Class in Java::](https://dev.to/manoj_k_/class-in-java-19ji)
+- [An unexpected Turbopack error occurred. A panic log has been written to /tmp/next-panic-d4531743b5c529bb25e5050ddb11433.log.](https://dev.to/biswajitanhad/an-unexpected-turbopack-error-occurred-a-panic-log-has-been-written-to-283m)
+- [From Turbo Pascal to TypeScript: Anders Hejlsberg on Language Design, Scale, and AI](https://dev.to/alikolahdoozan/from-turbo-pascal-to-typescript-anders-hejlsberg-on-language-design-scale-and-ai-4c44)
+- [Skills Manager - A desktop app to manage your AI coding skills &lpar;Tauri 2 + React 19 + Rust&rpar;](https://dev.to/freeourdays/skills-manager-a-desktop-app-to-manage-your-ai-coding-skills-tauri-2-react-19-rust-1oio)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
