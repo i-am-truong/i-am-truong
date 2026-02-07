@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What is class](https://dev.to/kirubagaran_k_438a86c991/what-is-class-2kap)
-- [Class in Java::](https://dev.to/manoj_k_/class-in-java-19ji)
-- [An unexpected Turbopack error occurred. A panic log has been written to /tmp/next-panic-d4531743b5c529bb25e5050ddb11433.log.](https://dev.to/biswajitanhad/an-unexpected-turbopack-error-occurred-a-panic-log-has-been-written-to-283m)
-- [From Turbo Pascal to TypeScript: Anders Hejlsberg on Language Design, Scale, and AI](https://dev.to/alikolahdoozan/from-turbo-pascal-to-typescript-anders-hejlsberg-on-language-design-scale-and-ai-4c44)
-- [Skills Manager - A desktop app to manage your AI coding skills &lpar;Tauri 2 + React 19 + Rust&rpar;](https://dev.to/freeourdays/skills-manager-a-desktop-app-to-manage-your-ai-coding-skills-tauri-2-react-19-rust-1oio)
+- [🧠 JavaScript Type Coercion — A Question That Teaches](https://dev.to/manasa_bolisetti_8f262624/javascript-type-coercion-a-question-that-teaches-5edj)
+- [Design HLD - Notification Sytem](https://dev.to/learnwithvikzzy/design-hld-notification-sytem-eo7)
+- [Common Manual Testing Techniques and The Future Of Manual Testing in the age of AI](https://dev.to/madhupriyamahalingan/common-manual-testing-techniques-and-the-future-of-manual-testing-in-the-age-of-ai-485o)
+- [🚀 How I’d Learn Go &lpar;Golang&rpar; Fast in 2026 — If I Were Starting Today](https://dev.to/yash_sonawane25/how-id-learn-go-golang-fast-in-2026-if-i-were-starting-today-1pk0)
+- [BoldKit Now Supports Vue 3: 45+ Neubrutalism Components for Vue Developers](https://dev.to/aniruddha_agarwal_d3d6b0e/boldkit-now-supports-vue-3-45-neubrutalism-components-for-vue-developers-4l1o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
