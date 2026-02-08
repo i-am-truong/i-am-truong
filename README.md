@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Best AI Writing Tools 2026: Ranked &amp; Compared](https://dev.to/aristoaistack/best-ai-writing-tools-2026-ranked-compared-fpm)
-- [rut: A Python Test Runner That Skips Unaffected Tests](https://dev.to/schettino72/rut-a-python-test-runner-that-skips-unaffected-tests-3lpc)
-- [Google Developer Year-end 2025 Recap: Gemini 2025 New Features and Perfect Integration with LINE Bot](https://dev.to/gde/google-developer-year-end-2025-recap-gemini-2025-new-features-and-perfect-integration-with-line-bot-3n2m)
-- [[Gemini CLI] Google Developer Knowledge API and MCP Server: Equipping Your AI Assistant with an Official Knowledge Base](https://dev.to/gde/gemini-cli-google-developer-knowledge-api-and-mcp-server-equipping-your-ai-assistant-with-an-3gee)
-- [제어 함수](https://dev.to/koareum/jeeo-hamsu-4gd6)
+- [How to Host a Website on an Ubuntu VM Using VMware and Nginx and get unstuck if it doesn&#39;t load &lpar;Step-by-Step Guide&rpar;](https://dev.to/alok38/how-to-host-a-website-on-an-ubuntu-vm-using-vmware-and-nginx-step-by-step-guide-21io)
+- [CAPTCHA Tried to Stop Me: How MailSlurp Saved Email Tests](https://dev.to/kanimesha99/captcha-tried-to-stop-me-how-mailslurp-saved-email-tests-2gg8)
+- [Why I Built Locademy: A Local-First Video Learning Hub](https://dev.to/swimshahriar/why-i-built-locademy-a-local-first-video-learning-hub-4fh8)
+- [Determine High-Performing Database Solutions](https://dev.to/aws-builders/determine-high-performing-database-solutions-1iaf)
+- [Lupine.js - The Lightweight Frontend &amp; Efficient Backend Framework](https://dev.to/uuware/lupinejs-the-lightweight-frontend-efficient-backend-framework-21ok)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
