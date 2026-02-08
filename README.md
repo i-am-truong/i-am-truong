@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Host a Website on an Ubuntu VM Using VMware and Nginx and get unstuck if it doesn&#39;t load &lpar;Step-by-Step Guide&rpar;](https://dev.to/alok38/how-to-host-a-website-on-an-ubuntu-vm-using-vmware-and-nginx-step-by-step-guide-21io)
-- [CAPTCHA Tried to Stop Me: How MailSlurp Saved Email Tests](https://dev.to/kanimesha99/captcha-tried-to-stop-me-how-mailslurp-saved-email-tests-2gg8)
-- [Why I Built Locademy: A Local-First Video Learning Hub](https://dev.to/swimshahriar/why-i-built-locademy-a-local-first-video-learning-hub-4fh8)
-- [Determine High-Performing Database Solutions](https://dev.to/aws-builders/determine-high-performing-database-solutions-1iaf)
-- [Lupine.js - The Lightweight Frontend &amp; Efficient Backend Framework](https://dev.to/uuware/lupinejs-the-lightweight-frontend-efficient-backend-framework-21ok)
+- [Chauffeur Knowledge in Software Development: When Developers Sound Smart Without Deep Understanding](https://dev.to/korirmoze/chauffeur-knowledge-in-software-development-when-developers-sound-smart-without-deep-understanding-2hkb)
+- [Linux Learning Journey – Day 19: Text Processing &amp; Data Manipulation with grep, awk &amp; sed 📝🔍](https://dev.to/avinashwagh/linux-learning-journey-day-19-text-processing-data-manipulation-with-grep-awk-sed-56jk)
+- [The Solo Founder&#39;s Guide to API Monitoring &lpar;Without Enterprise Pricing&rpar;](https://dev.to/shibley/the-solo-founders-guide-to-api-monitoring-without-enterprise-pricing-1edn)
+- [🔥 We Deleted Our Login Code: ALB OIDC for Serverless Frontends](https://dev.to/suraj_khaitan_f893c243958/we-deleted-our-login-code-alb-oidc-for-serverless-frontends-aok)
+- [Getting Started with RBAC in Kubernetes: A Practical Guide](https://dev.to/bkrajendra/getting-started-with-rbac-authorization-in-kubernetes-a-practical-guide-3ln4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
