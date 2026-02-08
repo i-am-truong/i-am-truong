@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Indie Hacker&#39;s Guide to Global Payments](https://dev.to/sammaji/the-indie-hackers-guide-to-global-payments-2h1d)
-- [Oracle AI Database 26ai - SQL Domain](https://dev.to/vahidusefzadeh/oracle-ai-database-26ai-sql-domain-m6d)
-- [🚀 From 2 Weeks to 30 Seconds: AI-Powered Codebase Onboarding &lpar;Built with Copilot CLI&rpar;](https://dev.to/levdalba/from-2-weeks-to-30-seconds-ai-powered-codebase-onboarding-built-with-copilot-cli-55oh)
-- [Echoflow &lpar;🧠 + 📝 + 🤖&rpar;](https://dev.to/akab/echoflow--ocn)
-- [Como estudar tecnologia sem virar refém de hype](https://dev.to/z3rosec/como-estudar-tecnologia-sem-virar-refem-de-hype-2kdb)
+- [Actionbase: One Database for Likes, Views, and Follows](https://dev.to/em3s/actionbase-one-database-for-likes-views-and-follows-2od8)
+- [Caching Strategies for LLM Systems &lpar;Part 3&rpar;: Multi-Query Attention and Memory-Efficient Decoding](https://dev.to/vaibhav_ahluwalia_b39a1b3/caching-strategies-for-llm-systems-part-3-multi-query-attention-and-memory-efficient-decoding-32an)
+- [Mastering the art of frontend performance optimization](https://dev.to/mikelisrael/mastering-the-art-of-frontend-performance-optimization-284b)
+- [Automatic Flashback &lpar;or PITR&rpar; Standby](https://dev.to/vahidusefzadeh/automatic-flashback-or-pitr-standby-2jln)
+- [5 Ways to Extract Tables from Websites &lpar;Compared&rpar;](https://dev.to/circobit/5-ways-to-extract-tables-from-websites-compared-57jg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
