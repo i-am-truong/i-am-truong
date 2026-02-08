@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [QuizMaster – Learn, Create, and Play](https://dev.to/sagar_saini_68981754459a0/quizmaster-learn-create-and-play-41jg)
-- [How Analysts Translate Messy Data,DAX,and Dashboards into Action Using Power BI.](https://dev.to/wickliff_odoshe_90f1e35e3/how-analysts-translate-messy-datadaxand-dashboards-into-action-using-power-bi-2p2p)
-- [Localising your React app the &quot;Tailwind&quot; way: no keys &amp; no JSON, just code](https://dev.to/akocan98/localising-your-react-app-the-tailwind-way-no-keys-no-json-just-code-18g7)
-- [Should Test Expected Values Come from the Same Place as the Implementation?](https://dev.to/usapopopooon/should-test-expected-values-come-from-the-same-place-as-the-implementation-1lnk)
-- [[Boost]](https://dev.to/anthonymax/-3j33)
+- [GoRouter Advanced Tutorial 2026: Bottom Nav, Nested Routes, Auth Redirects &amp; Typed Navigation 🚀](https://dev.to/techwithsam/gorouter-advanced-tutorial-2026-bottom-nav-nested-routes-auth-redirects-typed-navigation-31d)
+- [How VS Code Copilot Chat Premium Features Leak into Subagents &lpar;and Why It Matters&rpar;](https://dev.to/damogallagher/how-vs-code-copilot-chat-premium-features-leak-into-subagents-and-why-it-matters-3hpj)
+- [Anton Clew — Stop AI From Committing Regret](https://dev.to/earlgreyhot1701d/anton-clew-stop-ai-from-committing-regret-j71)
+- [DataPorter -- A Rails engine that turns data imports into a self-service feature](https://dev.to/seryl_lns_bf77ba67bf2953f/dataporter-a-rails-engine-that-turns-data-imports-into-a-self-service-feature-4lbf)
+- [Beyond &quot;Find&quot;: Unleashing the Full Power of VS Code’s Search Engine](https://dev.to/it-wibrc/beyond-find-unleashing-the-full-power-of-vs-codes-search-engine-45j0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
