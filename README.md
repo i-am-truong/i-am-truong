@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Chauffeur Knowledge in Software Development: When Developers Sound Smart Without Deep Understanding](https://dev.to/korirmoze/chauffeur-knowledge-in-software-development-when-developers-sound-smart-without-deep-understanding-2hkb)
-- [Linux Learning Journey – Day 19: Text Processing &amp; Data Manipulation with grep, awk &amp; sed 📝🔍](https://dev.to/avinashwagh/linux-learning-journey-day-19-text-processing-data-manipulation-with-grep-awk-sed-56jk)
-- [The Solo Founder&#39;s Guide to API Monitoring &lpar;Without Enterprise Pricing&rpar;](https://dev.to/shibley/the-solo-founders-guide-to-api-monitoring-without-enterprise-pricing-1edn)
-- [🔥 We Deleted Our Login Code: ALB OIDC for Serverless Frontends](https://dev.to/suraj_khaitan_f893c243958/we-deleted-our-login-code-alb-oidc-for-serverless-frontends-aok)
-- [Getting Started with RBAC in Kubernetes: A Practical Guide](https://dev.to/bkrajendra/getting-started-with-rbac-authorization-in-kubernetes-a-practical-guide-3ln4)
+- [Design HLD - Recomendation Sytem](https://dev.to/learnwithvikzzy/design-hld-recomendation-sytem-4c9p)
+- [Service Mesh Architecture &lpar;Istio/Linkerd&rpar;](https://dev.to/godofgeeks/service-mesh-architecture-istiolinkerd-26ed)
+- [Constela: Built-in a11y Checks, Plugin System &amp; CSS Transitions](https://dev.to/yuu1ch13/constela-built-in-a11y-checks-plugin-system-css-transitions-16dd)
+- [A Brief Review of Interval Partitioning](https://dev.to/vahidusefzadeh/a-brief-review-of-interval-partitioning-1j2e)
+- [I Tired of Trying to Read API Responses, So We Built This Free Tool](https://dev.to/ankur0904/i-tired-of-trying-to-read-api-responses-so-we-built-this-free-tool-3alp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
