@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Executive Function as Code: Using Doom Emacs to Script My Brain](https://dev.to/0xmillybyte/executive-function-as-code-using-doom-emacs-to-script-my-brain-7cl)
-- [Auto Memory, Auto Forget](https://dev.to/wkusnierczyk/auto-memory-auto-forget-g05)
-- [ABOUT DISPLAY , TFT and Wire Bonding](https://dev.to/insu/about-display-tft-and-wire-bonding-1hk6)
-- [Bridge the Gap: High-Performance State Synchronization Between React and PHP](https://dev.to/sifatmusfique/bridge-the-gap-high-performance-state-synchronization-between-react-and-php-1i19)
-- [O Legado de Anders: Uma Crônica Exaustiva da Evolução da Linguagem C# e seu Impacto no Desenvolvimento de Software](https://dev.to/ikauedev/o-legado-de-anders-uma-cronica-exaustiva-da-evolucao-da-linguagem-c-e-seu-impacto-no-jgm)
+- [From messy data to meaningful action: How analysts use Power BI to drive decisions](https://dev.to/kinyywa-data-analyst/from-messy-data-to-meaningful-action-how-analysts-use-power-bi-to-drive-decisions-5co2)
+- [Archiving ChatGPT Conversations with a Bookmarklet](https://dev.to/vast-cow/archiving-chatgpt-conversations-with-a-bookmarklet-55lo)
+- [ContractCompass: Your AI Contract Analyst That Actually Speaks Human](https://dev.to/varshithvhegde/contractcompass-your-ai-contract-analyst-that-actually-speaks-human-nfo)
+- [I Built a Tiny Domain Inventory Tool &lpar;Because I Used to Buy Too Many Domains&rpar;](https://dev.to/davorg/i-built-a-tiny-domain-inventory-tool-because-i-used-to-buy-too-many-domains-45lg)
+- [Learning about WCAG Compliance](https://dev.to/dawid_ryczko/learning-about-wcag-compliance-417e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
