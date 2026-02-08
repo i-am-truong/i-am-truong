@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From messy data to meaningful action: How analysts use Power BI to drive decisions](https://dev.to/kinyywa-data-analyst/from-messy-data-to-meaningful-action-how-analysts-use-power-bi-to-drive-decisions-5co2)
-- [Archiving ChatGPT Conversations with a Bookmarklet](https://dev.to/vast-cow/archiving-chatgpt-conversations-with-a-bookmarklet-55lo)
-- [ContractCompass: Your AI Contract Analyst That Actually Speaks Human](https://dev.to/varshithvhegde/contractcompass-your-ai-contract-analyst-that-actually-speaks-human-nfo)
-- [I Built a Tiny Domain Inventory Tool &lpar;Because I Used to Buy Too Many Domains&rpar;](https://dev.to/davorg/i-built-a-tiny-domain-inventory-tool-because-i-used-to-buy-too-many-domains-45lg)
-- [Learning about WCAG Compliance](https://dev.to/dawid_ryczko/learning-about-wcag-compliance-417e)
+- [Building a &quot;Backend-less&quot; Blog Site : My Journey with Coffee Chronicle](https://dev.to/aniruddhagawali/building-a-backend-less-blog-site-my-journey-with-coffee-chronicle-26c9)
+- [Best Programming Languages for 2026](https://dev.to/badass_tech-ae2025/best-programming-languages-for-2026-5c5f)
+- [Figma + VS Code using MCP server](https://dev.to/saloniagrawal/figma-vs-code-mcp-servers-29ke)
+- [A Trust-First Recipe AI Agent Using Algolia &lpar;No Hallucinations&rpar;](https://dev.to/fayzakseo/a-trust-first-recipe-ai-agent-using-algolia-no-hallucinations-3il3)
+- [Actually Static: When WordPress Stops Being the Enemy](https://dev.to/pascal_cescato_692b7a8a20/actually-static-when-wordpress-stops-being-the-enemy-37h5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
