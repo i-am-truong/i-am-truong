@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Introducing SBP: Multi-Agent Coordination via Digital &quot;Pheromones](https://dev.to/naveentvelu/introducing-sbp-multi-agent-coordination-via-digital-pheromones-2j4e)
-- [How Analysts Translate Messy Data, DAX, and Dashboards into Action Using Power BI](https://dev.to/avedi/how-analysts-translate-messy-data-dax-and-dashboards-into-action-using-power-bi-46dg)
-- [I want an advice how I can become a full stack devloper](https://dev.to/mariam_khaled_jonir_/i-want-an-advice-how-i-can-become-a-full-stack-devloper-23jj)
-- [AI Agent Tool Design: What I Wish I Knew Earlier](https://dev.to/hassantayyab/ai-agent-tool-design-what-i-wish-i-knew-earlier-5fj)
-- [How Do You Decide Blog Topics That Actually Help Readers?](https://dev.to/cocguidehub/how-do-you-decide-blog-topics-that-actually-help-readers-46b8)
+- [How I Built an 8-Agent AI Team That Ships Code Autonomously](https://dev.to/vikash_ruhil_a43b452d4a88/how-i-built-an-8-agent-ai-team-that-ships-code-autonomously-2j0h)
+- [Label-Consistent Backdoor Attacks](https://dev.to/paperium/label-consistent-backdoor-attacks-2n0)
+- [[POG-Task] When AI Starts Acting, Prompt Governance Is Not Enough](https://dev.to/enjtorian/pog-when-ai-starts-acting-prompt-governance-is-not-enough-512a)
+- [🚀 UUIDv4 vs UUIDv7 in PostgreSQL](https://dev.to/fazal_mansuri_/uuidv4-vs-uuidv7-in-postgresql-2m0l)
+- [The Replit AI Incident Wasn’t a Prompt Problem. It Was a Trust Problem.](https://dev.to/helios_techcomm_552ce9239/the-replit-ai-incident-wasnt-a-prompt-problem-it-was-a-trust-problem-5013)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
