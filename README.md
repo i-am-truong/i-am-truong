@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Actionbase: One Database for Likes, Views, and Follows](https://dev.to/em3s/actionbase-one-database-for-likes-views-and-follows-2od8)
-- [Caching Strategies for LLM Systems &lpar;Part 3&rpar;: Multi-Query Attention and Memory-Efficient Decoding](https://dev.to/vaibhav_ahluwalia_b39a1b3/caching-strategies-for-llm-systems-part-3-multi-query-attention-and-memory-efficient-decoding-32an)
-- [Mastering the art of frontend performance optimization](https://dev.to/mikelisrael/mastering-the-art-of-frontend-performance-optimization-284b)
-- [Automatic Flashback &lpar;or PITR&rpar; Standby](https://dev.to/vahidusefzadeh/automatic-flashback-or-pitr-standby-2jln)
-- [5 Ways to Extract Tables from Websites &lpar;Compared&rpar;](https://dev.to/circobit/5-ways-to-extract-tables-from-websites-compared-57jg)
+- [🚀 Introducing SBP: Multi-Agent Coordination via Digital &quot;Pheromones](https://dev.to/naveentvelu/introducing-sbp-multi-agent-coordination-via-digital-pheromones-2j4e)
+- [How Analysts Translate Messy Data, DAX, and Dashboards into Action Using Power BI](https://dev.to/avedi/how-analysts-translate-messy-data-dax-and-dashboards-into-action-using-power-bi-46dg)
+- [I want an advice how I can become a full stack devloper](https://dev.to/mariam_khaled_jonir_/i-want-an-advice-how-i-can-become-a-full-stack-devloper-23jj)
+- [AI Agent Tool Design: What I Wish I Knew Earlier](https://dev.to/hassantayyab/ai-agent-tool-design-what-i-wish-i-knew-earlier-5fj)
+- [How Do You Decide Blog Topics That Actually Help Readers?](https://dev.to/cocguidehub/how-do-you-decide-blog-topics-that-actually-help-readers-46b8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
