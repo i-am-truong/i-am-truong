@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Analysts Turn Messy Data, DAX, and Dashboards into Action with Power BI](https://dev.to/kuria_dd8316139db3dea9c85/how-analysts-turn-messy-data-dax-and-dashboards-into-action-with-power-bi-1ggd)
-- [From Raw Data to Real Action: The Analyst&#39;s Journey as a Data Translator in Power BI](https://dev.to/charles_ndungu/from-raw-data-to-real-action-the-analysts-journey-as-a-data-translator-in-power-bi-2gl6)
-- [How I would learn programming in 2026 if I had to start from zero](https://dev.to/renato_silva_71eef0fc385f/how-i-would-learn-programming-in-2026-if-i-had-to-start-from-zero-1kbk)
-- [Turning Data into Insight: An Analyst’s Guide to Power BI](https://dev.to/edmund_eryuba/turning-data-into-insight-an-analysts-guide-to-power-bi-3lc1)
-- [I Spent 48 Hours Building a Next.js Boilerplate So You Can Ship in 30 Minutes](https://dev.to/salmanshahriar/i-spent-48-hours-building-a-nextjs-boilerplate-so-you-can-ship-in-20-minutes-1kbo)
+- [New Typescript package for simple S3 Storage access](https://dev.to/chris23lngr/new-typescript-package-for-simple-s3-storage-access-2j84)
+- [TaskVault: Stop Wasting Compute on Work You&#39;ve Already Done](https://dev.to/usero0/taskvault-stop-wasting-compute-on-work-youve-already-done-4mcf)
+- [Python and Memory Management, Part 3: Call Stack](https://dev.to/jfr_khakpour_9a112bc5f771/python-and-memory-management-part-3-call-stack-33gp)
+- [Failed Machine Learning Experiment: Training XGBoost Classifier with 1.5m signals](https://dev.to/dstepanian/failed-machine-learning-experiment-training-xgboost-classificator-with-15m-signals-2fk5)
+- [Ethereum-Solidity Quiz Q30: What does keccak256&lpar;&rpar; do?](https://dev.to/mihaihng/ethereum-solidity-quiz-q29-what-does-keccak256-do-1mof)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
