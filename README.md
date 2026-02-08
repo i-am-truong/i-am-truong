@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Your AI Assistant Should Run at Home — Lessons from OpenClaw](https://dev.to/koustubh/why-your-ai-assistant-should-run-at-home-lessons-from-openclaw-2o1n)
-- [Running an LLM on 6GB RAM — Model Selection for Edge AI](https://dev.to/koustubh/running-an-llm-on-6gb-ram-model-selection-for-edge-ai-3chi)
-- [gharasathi &lpar;घरासाठी&rpar; — A Privacy-First Household AI Running on a $200 Mini PC](https://dev.to/koustubh/gharasathi-ghraasaatthii-a-privacy-first-household-ai-running-on-a-200-mini-pc-4hnm)
-- [자료 구조](https://dev.to/koareum/jaryo-gujo-17m8)
-- [4 Ways to Concatenate Arrays in Java: From System.arraycopy to Stream API](https://dev.to/lifeportal20002010/4-ways-to-concatenate-arrays-in-java-from-systemarraycopy-to-stream-api-2a4k)
+- [Best AI Writing Tools 2026: Ranked &amp; Compared](https://dev.to/aristoaistack/best-ai-writing-tools-2026-ranked-compared-fpm)
+- [rut: A Python Test Runner That Skips Unaffected Tests](https://dev.to/schettino72/rut-a-python-test-runner-that-skips-unaffected-tests-3lpc)
+- [Google Developer Year-end 2025 Recap: Gemini 2025 New Features and Perfect Integration with LINE Bot](https://dev.to/gde/google-developer-year-end-2025-recap-gemini-2025-new-features-and-perfect-integration-with-line-bot-3n2m)
+- [[Gemini CLI] Google Developer Knowledge API and MCP Server: Equipping Your AI Assistant with an Official Knowledge Base](https://dev.to/gde/gemini-cli-google-developer-knowledge-api-and-mcp-server-equipping-your-ai-assistant-with-an-3gee)
+- [제어 함수](https://dev.to/koareum/jeeo-hamsu-4gd6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
