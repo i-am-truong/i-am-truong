@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [You don&#39;t need CSS preprocessor](https://dev.to/effnd/you-dont-need-css-preprocessor-202a)
-- [Building Roadmaps from Code Reality, Not Opinions](https://dev.to/glue_admin_3465093919ac6b/building-roadmaps-from-code-reality-not-opinions-4i21)
-- [Why I Removed All Notifications from My Task App](https://dev.to/ankushrr/why-i-removed-all-notifications-from-my-task-app-172e)
-- [Code Ownership at Scale: Who Knows What in Your Codebase](https://dev.to/glue_admin_3465093919ac6b/code-ownership-at-scale-who-knows-what-in-your-codebase-5eg2)
-- [no matter where i post besides here my post get shut down or blocked. it seems there&#39;s not many accepting communities and it really sucks](https://dev.to/codebunny20/no-matter-where-i-post-besides-here-my-post-get-shut-down-or-blocked-it-seems-theres-not-many-267o)
+- [Building MoniBot: Why We Ditched OpenClaw and Built Our Own Autonomous Agent in 48 Hours](https://dev.to/samuel_chimmy_b5ebdd841e2/building-monibot-why-we-ditched-openclaw-and-built-our-own-autonomous-agent-in-48-hours-1paj)
+- [Build an Accessible Audio Controller](https://dev.to/richardpascoe/build-an-accessible-audio-controller-4me7)
+- [Sector HQ Weekly Digest - February 8, 2026](https://dev.to/sectorhqco/sector-hq-weekly-digest-february-8-2026-42k1)
+- [AI Coding - Don&#39;t Ya Forget about dem good&#39;ol Source Control](https://dev.to/africandeveloper/ai-coding-dont-ya-forget-about-dem-goodol-source-control-5g88)
+- [Renaming Angular Suffixes in 2026: A Pragmatic Guide for &quot;Legacy&quot; Projects](https://dev.to/tom_white_ec9c64700e677a9/renaming-angular-suffixes-in-2026-a-pragmatic-guide-for-legacy-projects-48im)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
