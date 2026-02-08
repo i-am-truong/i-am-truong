@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a &quot;Backend-less&quot; Blog Site : My Journey with Coffee Chronicle](https://dev.to/aniruddhagawali/building-a-backend-less-blog-site-my-journey-with-coffee-chronicle-26c9)
-- [Best Programming Languages for 2026](https://dev.to/badass_tech-ae2025/best-programming-languages-for-2026-5c5f)
-- [Figma + VS Code using MCP server](https://dev.to/saloniagrawal/figma-vs-code-mcp-servers-29ke)
-- [A Trust-First Recipe AI Agent Using Algolia &lpar;No Hallucinations&rpar;](https://dev.to/fayzakseo/a-trust-first-recipe-ai-agent-using-algolia-no-hallucinations-3il3)
-- [Actually Static: When WordPress Stops Being the Enemy](https://dev.to/pascal_cescato_692b7a8a20/actually-static-when-wordpress-stops-being-the-enemy-37h5)
+- [Security, Cloud Costs, and Bugs: How I solved the Developer&#39;s Three Biggest Nightmares in a single app](https://dev.to/saurabhnative/security-cloud-costs-and-bugs-how-i-solved-the-developers-three-biggest-nightmares-in-a-single-40hk)
+- [The Unwritten Rules of Slack Etiquette for Devs](https://dev.to/kirill_tolmachev/the-unwritten-rules-of-slack-etiquette-for-devs-7dn)
+- [I built a tool that tells freelancers when to say no &lpar;and how to get paid for it&rpar;](https://dev.to/valynx_saas/i-built-a-tool-that-tells-freelancers-when-to-say-no-and-how-to-get-paid-for-it-3j93)
+- [Design Patterns Are Overrated — And That’s Exactly Why You Still Need Them](https://dev.to/soufiane_dakir_dd4431ead1/design-patterns-are-overrated-and-thats-exactly-why-you-still-need-them-51il)
+- [“How Analysts Translate Messy Data, DAX, and Dashboards into Action Using Power BI”](https://dev.to/cynthia_jelimo_3f427f1110/how-analysts-translate-messy-data-dax-and-dashboards-into-action-using-power-bi-17ok)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
