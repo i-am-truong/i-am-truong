@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Datastar Observations](https://dev.to/hlship/datastar-observations-3icg)
-- [Jumia Product Performance Dashboard: Analyzing Pricing, Discounts, and Customer Reviews.](https://dev.to/dennis_ogaka_2d188ab5bef7/jumia-product-performance-dashboard-analyzing-pricing-discounts-and-customer-reviews-844)
-- [The 2026 Distribution Hierarchy: Why Most Founders Start at the Wrong End](https://dev.to/rakesh1002/the-2026-distribution-hierarchy-why-most-founders-start-at-the-wrong-end-4oc1)
-- [Tech Academy WriteUp](https://dev.to/obtuosa/tech-academy-write-up-338p)
-- [Why AI Agents Make Different Decisions When They Think It&#39;s Real](https://dev.to/vishalmysore/why-ai-agents-make-different-decisions-when-they-think-its-real-69l)
+- [Throttling as a Coordination Constraint](https://dev.to/thatechmaestro/throttling-as-a-coordination-constraint-1pfe)
+- [From Short Video Feedback to Scalable Content Systems](https://dev.to/tvscnvideo/from-short-video-feedback-to-scalable-content-systems-2f63)
+- [Using Short-Form Video to Validate Content Demand Before Scaling SEO](https://dev.to/tvscnvideo/using-short-form-video-to-validate-content-demand-before-scaling-seo-54g2)
+- [How Short Videos Are Driving Content Growth and SEO Experiments](https://dev.to/tvscnvideo/how-short-videos-are-driving-content-growth-and-seo-experiments-5222)
+- [Semantic HTML: for beginners part 2](https://dev.to/beey12345/semantic-html-for-beginners-part-2-15ac)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
