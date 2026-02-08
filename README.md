@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Built an 8-Agent AI Team That Ships Code Autonomously](https://dev.to/vikash_ruhil_a43b452d4a88/how-i-built-an-8-agent-ai-team-that-ships-code-autonomously-2j0h)
-- [Label-Consistent Backdoor Attacks](https://dev.to/paperium/label-consistent-backdoor-attacks-2n0)
-- [[POG-Task] When AI Starts Acting, Prompt Governance Is Not Enough](https://dev.to/enjtorian/pog-when-ai-starts-acting-prompt-governance-is-not-enough-512a)
-- [🚀 UUIDv4 vs UUIDv7 in PostgreSQL](https://dev.to/fazal_mansuri_/uuidv4-vs-uuidv7-in-postgresql-2m0l)
-- [The Replit AI Incident Wasn’t a Prompt Problem. It Was a Trust Problem.](https://dev.to/helios_techcomm_552ce9239/the-replit-ai-incident-wasnt-a-prompt-problem-it-was-a-trust-problem-5013)
+- [Mistakes to Avoid While Mounting AWS EBS Volume on Ubuntu EC2 Linux Instance](https://dev.to/sumit-jha/mistakes-to-avoid-while-mounting-aws-ebs-volume-on-ubuntu-ec2-linux-instance-56ge)
+- [[Boost]](https://dev.to/daniel_possiblekwabi_b57/-26n9)
+- [From Security Policy to eBPF: Why I Building a DSL Instead of Using C or Rust](https://dev.to/mahesh_bhatiya_69/from-security-policy-to-ebpf-why-i-building-a-dsl-instead-of-using-c-or-rust-2727)
+- [Deploy your React personal website using Cloudflare Hosting solution and GitHub](https://dev.to/l0j0m/deploy-your-react-personal-website-using-cloudflare-hosting-solution-and-github-5db5)
+- [I Spent $47 testing OpenClaw for a week: Here&#39;s What&#39;s Actually Happening](https://dev.to/likhit/i-spent-47-testing-openclaw-for-a-week-heres-whats-actually-happening-4j2b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
