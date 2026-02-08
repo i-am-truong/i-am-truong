@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How Analysts Translate Messy Data, DAX, and Dashboards into Action Using Power BI](https://dev.to/geraldm/how-analysts-translate-messy-data-dax-and-dashboards-into-action-using-power-bi-553o)
+- [Bun&#39;s Coverage Threshold](https://dev.to/wkusnierczyk/buns-coverage-threshold-5gkj)
 - [The Junior Developer Paradox: Why AI Makes Fundamentals More Important, Not Less](https://dev.to/respect17/the-junior-developer-paradox-why-ai-makes-fundamentals-more-important-not-less-3n6l)
 - [Rate Limiting: Concepts, Algorithms, and Distributed Challenges](https://dev.to/guna01/rate-limiting-concepts-algorithms-and-distributed-challenges-4gfl)
 - [I’m Building a Dating App for AI Agents &lpar;For Science… Probably&rpar;](https://dev.to/neeleshwark17/im-building-a-dating-app-for-ai-agents-for-science-probably-5gm6)
-- [AI Localization: Can Machines Really Speak Everyone&#39;s Language?](https://dev.to/nextgenaiinsight/ai-localization-can-machines-really-speak-everyones-language-3lfd)
-- [Designing a Scalable React Native + Expo Router Folder Structure](https://dev.to/sachinrupani/designing-a-scalable-react-native-expo-router-folder-structure-3dnj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
