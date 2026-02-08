@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mistakes to Avoid While Mounting AWS EBS Volume on Ubuntu EC2 Linux Instance](https://dev.to/sumit-jha/mistakes-to-avoid-while-mounting-aws-ebs-volume-on-ubuntu-ec2-linux-instance-56ge)
-- [[Boost]](https://dev.to/daniel_possiblekwabi_b57/-26n9)
-- [From Security Policy to eBPF: Why I Building a DSL Instead of Using C or Rust](https://dev.to/mahesh_bhatiya_69/from-security-policy-to-ebpf-why-i-building-a-dsl-instead-of-using-c-or-rust-2727)
-- [Deploy your React personal website using Cloudflare Hosting solution and GitHub](https://dev.to/l0j0m/deploy-your-react-personal-website-using-cloudflare-hosting-solution-and-github-5db5)
-- [I Spent $47 testing OpenClaw for a week: Here&#39;s What&#39;s Actually Happening](https://dev.to/likhit/i-spent-47-testing-openclaw-for-a-week-heres-whats-actually-happening-4j2b)
+- [QuizMaster – Learn, Create, and Play](https://dev.to/sagar_saini_68981754459a0/quizmaster-learn-create-and-play-41jg)
+- [How Analysts Translate Messy Data,DAX,and Dashboards into Action Using Power BI.](https://dev.to/wickliff_odoshe_90f1e35e3/how-analysts-translate-messy-datadaxand-dashboards-into-action-using-power-bi-2p2p)
+- [Localising your React app the &quot;Tailwind&quot; way: no keys &amp; no JSON, just code](https://dev.to/akocan98/localising-your-react-app-the-tailwind-way-no-keys-no-json-just-code-18g7)
+- [Should Test Expected Values Come from the Same Place as the Implementation?](https://dev.to/usapopopooon/should-test-expected-values-come-from-the-same-place-as-the-implementation-1lnk)
+- [[Boost]](https://dev.to/anthonymax/-3j33)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
