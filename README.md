@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Design HLD - Recomendation Sytem](https://dev.to/learnwithvikzzy/design-hld-recomendation-sytem-4c9p)
-- [Service Mesh Architecture &lpar;Istio/Linkerd&rpar;](https://dev.to/godofgeeks/service-mesh-architecture-istiolinkerd-26ed)
-- [Constela: Built-in a11y Checks, Plugin System &amp; CSS Transitions](https://dev.to/yuu1ch13/constela-built-in-a11y-checks-plugin-system-css-transitions-16dd)
-- [A Brief Review of Interval Partitioning](https://dev.to/vahidusefzadeh/a-brief-review-of-interval-partitioning-1j2e)
-- [I Tired of Trying to Read API Responses, So We Built This Free Tool](https://dev.to/ankur0904/i-tired-of-trying-to-read-api-responses-so-we-built-this-free-tool-3alp)
+- [I Got Tired of Being a One-Man Dev Team &lpar;So I Built This Thing&rpar;](https://dev.to/vadim7j7/i-got-tired-of-being-a-one-man-dev-team-so-i-built-this-thing-1e0i)
+- [Stop Using AllowAnyOrigin&lpar;&rpar;](https://dev.to/shreyans_padmani/stop-using-allowanyorigin-3dpn)
+- [Why 80% of Dev Teams Will Use AI Code Tools by 2025 &lpar;And Why Most Will Be Disappointed&rpar;](https://dev.to/glue_admin_3465093919ac6b/why-80-of-dev-teams-will-use-ai-code-tools-by-2025-and-why-most-will-be-disappointed-3jl2)
+- [I checked the WordPress sites I built years ago. Here&#39;s what I found.](https://dev.to/y1uda/i-checked-the-wordpress-sites-i-built-years-ago-heres-what-i-found-m9k)
+- [What is Anonymous Budget Matching? &lpar;And Why Freelancers Love It&rpar;](https://dev.to/fairpricework/what-is-anonymous-budget-matching-and-why-freelancers-love-it-h0m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
