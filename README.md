@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Junior Developer Paradox: Why AI Makes Fundamentals More Important, Not Less](https://dev.to/respect17/the-junior-developer-paradox-why-ai-makes-fundamentals-more-important-not-less-3n6l)
+- [Rate Limiting: Concepts, Algorithms, and Distributed Challenges](https://dev.to/guna01/rate-limiting-concepts-algorithms-and-distributed-challenges-4gfl)
+- [I’m Building a Dating App for AI Agents &lpar;For Science… Probably&rpar;](https://dev.to/neeleshwark17/im-building-a-dating-app-for-ai-agents-for-science-probably-5gm6)
+- [AI Localization: Can Machines Really Speak Everyone&#39;s Language?](https://dev.to/nextgenaiinsight/ai-localization-can-machines-really-speak-everyones-language-3lfd)
 - [Designing a Scalable React Native + Expo Router Folder Structure](https://dev.to/sachinrupani/designing-a-scalable-react-native-expo-router-folder-structure-3dnj)
-- [Translating Messy Data into Action Using Power BI.](https://dev.to/murimikelvin/translating-messy-data-into-action-using-power-bi-3a02)
-- [A simple load balancer from scratch written in Golang](https://dev.to/realebi/a-simple-load-balancer-from-scratch-written-in-golang-30h6)
-- [I Built an Open-Source AI Assistant with 19 Tools That Actually Controls Your Computer](https://dev.to/jaseph/i-built-an-open-source-ai-assistant-with-19-tools-that-actually-controls-your-computer-38ep)
-- [I built an iOS Simulator toolkit for macOS — here&#39;s what it does](https://dev.to/ealtaca/i-built-an-ios-simulator-toolkit-for-macos-heres-what-it-does-2g36)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
