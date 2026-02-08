@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Joy trip - Bus booking app](https://dev.to/preetha_vaishnavi_2b82358/joy-trip-bus-booking-app-10af)
-- [Deploying Azure Storage with ARM Templates.](https://dev.to/alvarosro/deploying-azure-storage-with-arm-templates-2kf2)
-- [Cronometro](https://dev.to/preetha_vaishnavi_2b82358/cronometro-2ala)
-- [Reducing Operational Downtime Through Proactive Data Recovery Planning](https://dev.to/kapusto/reducing-operational-downtime-through-proactive-data-recovery-planning-4985)
-- [Real-Time Project Management with AI and Plexo Integration](https://dev.to/_jeongyuhyeon_03de1/real-time-project-management-with-ai-and-plexo-integration-45kl)
+- [The Indie Hacker&#39;s Guide to Global Payments](https://dev.to/sammaji/the-indie-hackers-guide-to-global-payments-2h1d)
+- [Oracle AI Database 26ai - SQL Domain](https://dev.to/vahidusefzadeh/oracle-ai-database-26ai-sql-domain-m6d)
+- [🚀 From 2 Weeks to 30 Seconds: AI-Powered Codebase Onboarding &lpar;Built with Copilot CLI&rpar;](https://dev.to/levdalba/from-2-weeks-to-30-seconds-ai-powered-codebase-onboarding-built-with-copilot-cli-55oh)
+- [Echoflow &lpar;🧠 + 📝 + 🤖&rpar;](https://dev.to/akab/echoflow--ocn)
+- [Como estudar tecnologia sem virar refém de hype](https://dev.to/z3rosec/como-estudar-tecnologia-sem-virar-refem-de-hype-2kdb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
