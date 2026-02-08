@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [IntentRefiner: AI-Powered Issue Refinement for Faster Support Automation](https://dev.to/sideeqbn/intentrefiner-ai-powered-issue-refinement-for-faster-support-automation-5g38)
-- [I Built a Vercel for Landing Pages — With a CLI and an MCP Server](https://dev.to/blashnikov_pro/i-built-a-vercel-for-landing-pages-with-a-cli-and-an-mcp-server-1e8a)
-- [Why Windows Crashes and How To Build Stable PCs](https://dev.to/gw-jeni-systems/why-windows-crashes-and-how-to-build-stable-pcs-4fib)
-- [Skill Seekers v3.0.0: The Universal Data Preprocessor for AI Systems](https://dev.to/yusufkaraaslan/skill-seekers-v300-the-universal-data-preprocessor-for-ai-systems-5fao)
-- [From chaos to clarity: How Data Analysts Turn numbers into million-dollar decisions](https://dev.to/stacy_akinyi/from-chaos-to-clarity-how-data-analysts-turn-numbers-into-million-dollar-decisions-4l02)
+- [How to Build an AI-Powered Personal Knowledge System](https://dev.to/jaideepparashar/how-to-build-an-ai-powered-personal-knowledge-system-48dd)
+- [Ng-News 26/04: Micro Frontends at Google](https://dev.to/this-is-angular/ng-news-2604-micro-frontends-at-google-13ch)
+- [The Mechanics of Good Object “immutable proxy that animate data”](https://dev.to/andreas_wagner_1111e1d3c7/the-mechanics-of-good-object-immutable-proxy-that-animate-data-part-2-oop-java-860)
+- [I Built an E2E Test Runner Where Tests Are JSON, Not Code](https://dev.to/fastslack/i-built-an-e2e-test-runner-where-tests-are-json-not-code-edj)
+- [Change 6 Characters in Terraform and Save 20% on EC2 Costs Instantly 💪](https://dev.to/suhas_mallesh/change-6-characters-in-terraform-and-save-20-on-ec2-costs-instantly-19nj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
