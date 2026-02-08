@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Deep Learning Without Backpropagation](https://dev.to/cheetah100/deep-learning-without-backpropagation-21n6)
-- [How to Give Claude Code Full Project Context](https://dev.to/glue_admin_3465093919ac6b/how-to-give-claude-code-full-project-context-1m34)
-- [Concurrency Design Patterns: From Fundamental Theory to Architecture](https://dev.to/kanywst/concurrency-design-patterns-from-fundamental-theory-to-architecture-35j7)
-- [x402 V2 Security Deep Dive: New Attack Vectors in AI Agent Payments](https://dev.to/mkmkkkkk/x402-v2-security-deep-dive-new-attack-vectors-in-ai-agent-payments-2cp2)
-- [15.Attach IAM Policy for DynamoDB Access Using Terraform](https://dev.to/thukhakyawe_cloud/15attach-iam-policy-for-dynamodb-access-using-terraform-2aek)
+- [You don&#39;t need CSS preprocessor](https://dev.to/effnd/you-dont-need-css-preprocessor-202a)
+- [Building Roadmaps from Code Reality, Not Opinions](https://dev.to/glue_admin_3465093919ac6b/building-roadmaps-from-code-reality-not-opinions-4i21)
+- [Why I Removed All Notifications from My Task App](https://dev.to/ankushrr/why-i-removed-all-notifications-from-my-task-app-172e)
+- [Code Ownership at Scale: Who Knows What in Your Codebase](https://dev.to/glue_admin_3465093919ac6b/code-ownership-at-scale-who-knows-what-in-your-codebase-5eg2)
+- [no matter where i post besides here my post get shut down or blocked. it seems there&#39;s not many accepting communities and it really sucks](https://dev.to/codebunny20/no-matter-where-i-post-besides-here-my-post-get-shut-down-or-blocked-it-seems-theres-not-many-267o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
