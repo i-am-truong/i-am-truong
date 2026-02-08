@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [DevFlow [ A CLI Tool to End Your Repetitive Project Setup ]](https://dev.to/itsmeangeloo/devflow-a-cli-tool-to-end-your-repetitive-project-setup--4543)
-- [AI Agents for Code: Build vs Buy in 2026](https://dev.to/glue_admin_3465093919ac6b/ai-agents-for-code-build-vs-buy-in-2026-21j4)
-- [The &quot;Desktop-to-Mobile&quot; Handoff: Why I Stopped Hating QR Codes in My UX](https://dev.to/abdurrahmanhassan/the-desktop-to-mobile-handoff-why-i-stopped-hating-qr-codes-in-my-ux-ohi)
-- [I Got Tired of Being a One-Man Dev Team &lpar;So I Built This Thing&rpar;](https://dev.to/vadim7j7/i-got-tired-of-being-a-one-man-dev-team-so-i-built-this-thing-1e0i)
-- [Understanding Your Codebase in 2026: The Complete Guide](https://dev.to/glue_admin_3465093919ac6b/understanding-your-codebase-in-2026-the-complete-guide-14dg)
+- [Deep Learning Without Backpropagation](https://dev.to/cheetah100/deep-learning-without-backpropagation-21n6)
+- [How to Give Claude Code Full Project Context](https://dev.to/glue_admin_3465093919ac6b/how-to-give-claude-code-full-project-context-1m34)
+- [Concurrency Design Patterns: From Fundamental Theory to Architecture](https://dev.to/kanywst/concurrency-design-patterns-from-fundamental-theory-to-architecture-35j7)
+- [x402 V2 Security Deep Dive: New Attack Vectors in AI Agent Payments](https://dev.to/mkmkkkkk/x402-v2-security-deep-dive-new-attack-vectors-in-ai-agent-payments-2cp2)
+- [15.Attach IAM Policy for DynamoDB Access Using Terraform](https://dev.to/thukhakyawe_cloud/15attach-iam-policy-for-dynamodb-access-using-terraform-2aek)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
