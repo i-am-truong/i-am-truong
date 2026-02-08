@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Throttling as a Coordination Constraint](https://dev.to/thatechmaestro/throttling-as-a-coordination-constraint-1pfe)
-- [From Short Video Feedback to Scalable Content Systems](https://dev.to/tvscnvideo/from-short-video-feedback-to-scalable-content-systems-2f63)
-- [Using Short-Form Video to Validate Content Demand Before Scaling SEO](https://dev.to/tvscnvideo/using-short-form-video-to-validate-content-demand-before-scaling-seo-54g2)
-- [How Short Videos Are Driving Content Growth and SEO Experiments](https://dev.to/tvscnvideo/how-short-videos-are-driving-content-growth-and-seo-experiments-5222)
-- [Semantic HTML: for beginners part 2](https://dev.to/beey12345/semantic-html-for-beginners-part-2-15ac)
+- [Why Your AI Assistant Should Run at Home — Lessons from OpenClaw](https://dev.to/koustubh/why-your-ai-assistant-should-run-at-home-lessons-from-openclaw-2o1n)
+- [Running an LLM on 6GB RAM — Model Selection for Edge AI](https://dev.to/koustubh/running-an-llm-on-6gb-ram-model-selection-for-edge-ai-3chi)
+- [gharasathi &lpar;घरासाठी&rpar; — A Privacy-First Household AI Running on a $200 Mini PC](https://dev.to/koustubh/gharasathi-ghraasaatthii-a-privacy-first-household-ai-running-on-a-200-mini-pc-4hnm)
+- [자료 구조](https://dev.to/koareum/jaryo-gujo-17m8)
+- [4 Ways to Concatenate Arrays in Java: From System.arraycopy to Stream API](https://dev.to/lifeportal20002010/4-ways-to-concatenate-arrays-in-java-from-systemarraycopy-to-stream-api-2a4k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
