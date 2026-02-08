@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop Building Backends Just to Hide One API Key](https://dev.to/aprsn/stop-building-backends-just-to-hide-one-api-key-32me)
-- [Cross Entropy Derivatives, Part 6: Using gradient descent to reach the final result](https://dev.to/rijultp/cross-entropy-derivatives-part-6-using-gradient-descent-to-reach-the-final-result-509j)
-- [Circuits Meet Joy: Happy Tech Stories in Three Words](https://dev.to/narnaiezzsshaa/circuits-meet-joy-happy-tech-stories-in-three-words-4ip1)
-- [The Intelligibility Advantage in an Era of Infinite Code](https://dev.to/yasini/the-intelligibility-advantage-in-an-era-of-infinite-code-bif)
-- [Stop Hardcoding Security Headers: Automate Your CDN Security with YAML](https://dev.to/alberteinshutoin/stop-hardcoding-security-headers-automate-your-cdn-security-with-yaml-44h6)
+- [🗺️From digitizing paper maps to shaping AI agents — my GIS journey has come full circle.](https://dev.to/ma-gis/from-digitizing-paper-maps-to-shaping-ai-agents-my-gis-journey-has-come-full-circle-58dn)
+- [Quick Shell Access from Claude Code](https://dev.to/sleepingpotato/quick-shell-access-from-claude-code-325c)
+- [Папка /local в 1C-Битрикс: структура проекта без боли и костылей](https://dev.to/_vproger_/papka-local-v-1c-bitriks-struktura-proiekta-biez-boli-i-kostyliei-1cf)
+- [Bitcoin vs. Quantum: Why the &quot;End of Crypto&quot; is Overhyped](https://dev.to/crypto_melania/bitcoin-vs-quantum-why-the-end-of-crypto-is-overhyped-2ne4)
+- [Planetary Defense: Protecting Earth from Asteroid Threats](https://dev.to/guswoltmann84/planetary-defense-protecting-earth-from-asteroid-threats-4mel)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
