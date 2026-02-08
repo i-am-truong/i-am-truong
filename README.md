@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Security, Cloud Costs, and Bugs: How I solved the Developer&#39;s Three Biggest Nightmares in a single app](https://dev.to/saurabhnative/security-cloud-costs-and-bugs-how-i-solved-the-developers-three-biggest-nightmares-in-a-single-40hk)
-- [The Unwritten Rules of Slack Etiquette for Devs](https://dev.to/kirill_tolmachev/the-unwritten-rules-of-slack-etiquette-for-devs-7dn)
-- [I built a tool that tells freelancers when to say no &lpar;and how to get paid for it&rpar;](https://dev.to/valynx_saas/i-built-a-tool-that-tells-freelancers-when-to-say-no-and-how-to-get-paid-for-it-3j93)
-- [Design Patterns Are Overrated — And That’s Exactly Why You Still Need Them](https://dev.to/soufiane_dakir_dd4431ead1/design-patterns-are-overrated-and-thats-exactly-why-you-still-need-them-51il)
-- [“How Analysts Translate Messy Data, DAX, and Dashboards into Action Using Power BI”](https://dev.to/cynthia_jelimo_3f427f1110/how-analysts-translate-messy-data-dax-and-dashboards-into-action-using-power-bi-17ok)
+- [5 AI APIs Every Solo Builder Should Know &lpar;With Code Examples&rpar;](https://dev.to/rakesh1002/5-ai-apis-every-solo-builder-should-know-with-code-examples-47nh)
+- [Monster Cards](https://dev.to/preetha_vaishnavi_2b82358/monster-cards-2glb)
+- [12 Simple AWS Tips That Actually Help in Real Projects](https://dev.to/imash24/12-simple-aws-tips-that-actually-help-in-real-projects-33i6)
+- [How I Built a Prompt Generator to Create 10K+ AI Image Prompts for My ML Dataset](https://dev.to/nehirakbas/how-i-built-a-prompt-generator-to-create-10k-ai-image-prompts-for-my-ml-dataset-2h57)
+- [The Project Cookbook](https://dev.to/tupe12334/the-project-cookbook-3o0m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
