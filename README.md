@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [5 AI APIs Every Solo Builder Should Know &lpar;With Code Examples&rpar;](https://dev.to/rakesh1002/5-ai-apis-every-solo-builder-should-know-with-code-examples-47nh)
-- [Monster Cards](https://dev.to/preetha_vaishnavi_2b82358/monster-cards-2glb)
-- [12 Simple AWS Tips That Actually Help in Real Projects](https://dev.to/imash24/12-simple-aws-tips-that-actually-help-in-real-projects-33i6)
-- [How I Built a Prompt Generator to Create 10K+ AI Image Prompts for My ML Dataset](https://dev.to/nehirakbas/how-i-built-a-prompt-generator-to-create-10k-ai-image-prompts-for-my-ml-dataset-2h57)
-- [The Project Cookbook](https://dev.to/tupe12334/the-project-cookbook-3o0m)
+- [Joy trip - Bus booking app](https://dev.to/preetha_vaishnavi_2b82358/joy-trip-bus-booking-app-10af)
+- [Deploying Azure Storage with ARM Templates.](https://dev.to/alvarosro/deploying-azure-storage-with-arm-templates-2kf2)
+- [Cronometro](https://dev.to/preetha_vaishnavi_2b82358/cronometro-2ala)
+- [Reducing Operational Downtime Through Proactive Data Recovery Planning](https://dev.to/kapusto/reducing-operational-downtime-through-proactive-data-recovery-planning-4985)
+- [Real-Time Project Management with AI and Plexo Integration](https://dev.to/_jeongyuhyeon_03de1/real-time-project-management-with-ai-and-plexo-integration-45kl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
