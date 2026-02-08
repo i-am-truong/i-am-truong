@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building MoniBot: Why We Ditched OpenClaw and Built Our Own Autonomous Agent in 48 Hours](https://dev.to/samuel_chimmy_b5ebdd841e2/building-monibot-why-we-ditched-openclaw-and-built-our-own-autonomous-agent-in-48-hours-1paj)
-- [Build an Accessible Audio Controller](https://dev.to/richardpascoe/build-an-accessible-audio-controller-4me7)
-- [Sector HQ Weekly Digest - February 8, 2026](https://dev.to/sectorhqco/sector-hq-weekly-digest-february-8-2026-42k1)
-- [AI Coding - Don&#39;t Ya Forget about dem good&#39;ol Source Control](https://dev.to/africandeveloper/ai-coding-dont-ya-forget-about-dem-goodol-source-control-5g88)
-- [Renaming Angular Suffixes in 2026: A Pragmatic Guide for &quot;Legacy&quot; Projects](https://dev.to/tom_white_ec9c64700e677a9/renaming-angular-suffixes-in-2026-a-pragmatic-guide-for-legacy-projects-48im)
+- [Two Bugs, One Symptom](https://dev.to/wkusnierczyk/two-bugs-one-symptom-24h3)
+- [VibeBox: Ultrafast CLI for fast, sandboxed development and LLM agents](https://dev.to/robcholz/vibebox-ultrafast-cli-for-fast-sandboxed-development-and-llm-agents-4kg3)
+- [AI Productivity Gains That Are Actually Measurable &lpar;With Real Numbers&rpar;](https://dev.to/rakesh1002/ai-productivity-gains-that-are-actually-measurable-with-real-numbers-3jmg)
+- [The Understanding Tax: Why Your Developers Spend 90 Minutes Per Ticket Before Writing Code](https://dev.to/glue_admin_3465093919ac6b/the-understanding-tax-why-your-developers-spend-90-minutes-per-ticket-before-writing-code-47kh)
+- [Environmental DNA: How AI Reasoners are Revolutionizing Image Geolocation](https://dev.to/andy_76f9d332cebcb8999956/environmental-dna-how-ai-reasoners-are-revolutionizing-image-geolocation-1cdf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
