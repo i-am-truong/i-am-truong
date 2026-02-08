@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [New Typescript package for simple S3 Storage access](https://dev.to/chris23lngr/new-typescript-package-for-simple-s3-storage-access-2j84)
-- [TaskVault: Stop Wasting Compute on Work You&#39;ve Already Done](https://dev.to/usero0/taskvault-stop-wasting-compute-on-work-youve-already-done-4mcf)
-- [Python and Memory Management, Part 3: Call Stack](https://dev.to/jfr_khakpour_9a112bc5f771/python-and-memory-management-part-3-call-stack-33gp)
-- [Failed Machine Learning Experiment: Training XGBoost Classifier with 1.5m signals](https://dev.to/dstepanian/failed-machine-learning-experiment-training-xgboost-classificator-with-15m-signals-2fk5)
-- [Ethereum-Solidity Quiz Q30: What does keccak256&lpar;&rpar; do?](https://dev.to/mihaihng/ethereum-solidity-quiz-q29-what-does-keccak256-do-1mof)
+- [Circuits Meet Joy: Happy Tech Stories in Three Words](https://dev.to/narnaiezzsshaa/circuits-meet-joy-happy-tech-stories-in-three-words-4ip1)
+- [The Intelligibility Advantage in an Era of Infinite Code](https://dev.to/yasini/the-intelligibility-advantage-in-an-era-of-infinite-code-bif)
+- [Stop Hardcoding Security Headers: Automate Your CDN Security with YAML](https://dev.to/alberteinshutoin/stop-hardcoding-security-headers-automate-your-cdn-security-with-yaml-44h6)
+- [Constructors, Destructors and this in C#](https://dev.to/allcoderthings/constructors-destructors-and-this-in-c-56ci)
+- [[Boost]](https://dev.to/richardpascoe/hey-shlokaguptaa-followed-you-on-github-if-thats-okay-cl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
