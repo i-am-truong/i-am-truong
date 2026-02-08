@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GoRouter Advanced Tutorial 2026: Bottom Nav, Nested Routes, Auth Redirects &amp; Typed Navigation 🚀](https://dev.to/techwithsam/gorouter-advanced-tutorial-2026-bottom-nav-nested-routes-auth-redirects-typed-navigation-31d)
-- [How VS Code Copilot Chat Premium Features Leak into Subagents &lpar;and Why It Matters&rpar;](https://dev.to/damogallagher/how-vs-code-copilot-chat-premium-features-leak-into-subagents-and-why-it-matters-3hpj)
-- [Anton Clew — Stop AI From Committing Regret](https://dev.to/earlgreyhot1701d/anton-clew-stop-ai-from-committing-regret-j71)
-- [DataPorter -- A Rails engine that turns data imports into a self-service feature](https://dev.to/seryl_lns_bf77ba67bf2953f/dataporter-a-rails-engine-that-turns-data-imports-into-a-self-service-feature-4lbf)
-- [Beyond &quot;Find&quot;: Unleashing the Full Power of VS Code’s Search Engine](https://dev.to/it-wibrc/beyond-find-unleashing-the-full-power-of-vs-codes-search-engine-45j0)
+- [How Analysts Turn Messy Data, DAX, and Dashboards into Action with Power BI](https://dev.to/kuria_dd8316139db3dea9c85/how-analysts-turn-messy-data-dax-and-dashboards-into-action-with-power-bi-1ggd)
+- [From Raw Data to Real Action: The Analyst&#39;s Journey as a Data Translator in Power BI](https://dev.to/charles_ndungu/from-raw-data-to-real-action-the-analysts-journey-as-a-data-translator-in-power-bi-2gl6)
+- [How I would learn programming in 2026 if I had to start from zero](https://dev.to/renato_silva_71eef0fc385f/how-i-would-learn-programming-in-2026-if-i-had-to-start-from-zero-1kbk)
+- [Turning Data into Insight: An Analyst’s Guide to Power BI](https://dev.to/edmund_eryuba/turning-data-into-insight-an-analysts-guide-to-power-bi-3lc1)
+- [I Spent 48 Hours Building a Next.js Boilerplate So You Can Ship in 30 Minutes](https://dev.to/salmanshahriar/i-spent-48-hours-building-a-nextjs-boilerplate-so-you-can-ship-in-20-minutes-1kbo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
