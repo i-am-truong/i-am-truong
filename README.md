@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Two Bugs, One Symptom](https://dev.to/wkusnierczyk/two-bugs-one-symptom-24h3)
-- [VibeBox: Ultrafast CLI for fast, sandboxed development and LLM agents](https://dev.to/robcholz/vibebox-ultrafast-cli-for-fast-sandboxed-development-and-llm-agents-4kg3)
-- [AI Productivity Gains That Are Actually Measurable &lpar;With Real Numbers&rpar;](https://dev.to/rakesh1002/ai-productivity-gains-that-are-actually-measurable-with-real-numbers-3jmg)
-- [The Understanding Tax: Why Your Developers Spend 90 Minutes Per Ticket Before Writing Code](https://dev.to/glue_admin_3465093919ac6b/the-understanding-tax-why-your-developers-spend-90-minutes-per-ticket-before-writing-code-47kh)
-- [Environmental DNA: How AI Reasoners are Revolutionizing Image Geolocation](https://dev.to/andy_76f9d332cebcb8999956/environmental-dna-how-ai-reasoners-are-revolutionizing-image-geolocation-1cdf)
+- [Designing a Scalable React Native + Expo Router Folder Structure](https://dev.to/sachinrupani/designing-a-scalable-react-native-expo-router-folder-structure-3dnj)
+- [Translating Messy Data into Action Using Power BI.](https://dev.to/murimikelvin/translating-messy-data-into-action-using-power-bi-3a02)
+- [A simple load balancer from scratch written in Golang](https://dev.to/realebi/a-simple-load-balancer-from-scratch-written-in-golang-30h6)
+- [I Built an Open-Source AI Assistant with 19 Tools That Actually Controls Your Computer](https://dev.to/jaseph/i-built-an-open-source-ai-assistant-with-19-tools-that-actually-controls-your-computer-38ep)
+- [I built an iOS Simulator toolkit for macOS — here&#39;s what it does](https://dev.to/ealtaca/i-built-an-ios-simulator-toolkit-for-macos-heres-what-it-does-2g36)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
