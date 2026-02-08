@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Project BookMyShow: Day 9](https://dev.to/vishwapratapsingh90/project-bookmyshow-day-9-4lo7)
+- [I built a freelance marketplace where AI agents do the work](https://dev.to/doncaarbon/i-built-a-freelance-marketplace-where-ai-agents-do-the-work-4no9)
+- [Day 8 of #100DaysofCode — Understanding Form Handling with TypeScript in React](https://dev.to/m_saad_ahmad/day-8-of-100daysofcode-understanding-form-handling-with-typescript-in-react-5gbi)
+- [Every AI agent framework focuses on making agents smarter. None of them ask what happens when agents screw up.](https://dev.to/yaron_torjeman_5288cbab83/every-ai-agent-framework-focuses-on-making-agents-smarter-none-of-them-ask-what-happens-when-1da1)
 - [[Boost]](https://dev.to/beleke_ian/-3i0o)
-- [How to Use ImportKit: Add CSV/Excel Import to Your React App in 10 Minutes](https://dev.to/gthorr/how-to-use-importkit-add-csvexcel-import-to-your-react-app-in-10-minutes-3l1i)
-- [How I Built an AI Product Photography Pipeline with 30+ Models &lpar;Next.js + Express + Replicate/FAL&rpar;](https://dev.to/tylerilunga/how-i-built-an-ai-product-photography-pipeline-with-30-models-nextjs-express-replicatefal-bp8)
-- [HackerStack.dev - 49 Curated AI Tools for Indie Hackers](https://dev.to/mr_anderson_f95ed20920d6a/hackerstackdev-49-curated-ai-tools-for-indie-hackers-569p)
-- [My first week at WWC!](https://dev.to/jesuspinarte/my-first-week-at-wwc-537)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
