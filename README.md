@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [DevFlow [ A CLI Tool to End Your Repetitive Project Setup ]](https://dev.to/itsmeangeloo/devflow-a-cli-tool-to-end-your-repetitive-project-setup--4543)
+- [AI Agents for Code: Build vs Buy in 2026](https://dev.to/glue_admin_3465093919ac6b/ai-agents-for-code-build-vs-buy-in-2026-21j4)
+- [The &quot;Desktop-to-Mobile&quot; Handoff: Why I Stopped Hating QR Codes in My UX](https://dev.to/abdurrahmanhassan/the-desktop-to-mobile-handoff-why-i-stopped-hating-qr-codes-in-my-ux-ohi)
 - [I Got Tired of Being a One-Man Dev Team &lpar;So I Built This Thing&rpar;](https://dev.to/vadim7j7/i-got-tired-of-being-a-one-man-dev-team-so-i-built-this-thing-1e0i)
-- [Stop Using AllowAnyOrigin&lpar;&rpar;](https://dev.to/shreyans_padmani/stop-using-allowanyorigin-3dpn)
-- [Why 80% of Dev Teams Will Use AI Code Tools by 2025 &lpar;And Why Most Will Be Disappointed&rpar;](https://dev.to/glue_admin_3465093919ac6b/why-80-of-dev-teams-will-use-ai-code-tools-by-2025-and-why-most-will-be-disappointed-3jl2)
-- [I checked the WordPress sites I built years ago. Here&#39;s what I found.](https://dev.to/y1uda/i-checked-the-wordpress-sites-i-built-years-ago-heres-what-i-found-m9k)
-- [What is Anonymous Budget Matching? &lpar;And Why Freelancers Love It&rpar;](https://dev.to/fairpricework/what-is-anonymous-budget-matching-and-why-freelancers-love-it-h0m)
+- [Understanding Your Codebase in 2026: The Complete Guide](https://dev.to/glue_admin_3465093919ac6b/understanding-your-codebase-in-2026-the-complete-guide-14dg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
