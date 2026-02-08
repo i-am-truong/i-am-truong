@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Stop Building Backends Just to Hide One API Key](https://dev.to/aprsn/stop-building-backends-just-to-hide-one-api-key-32me)
+- [Cross Entropy Derivatives, Part 6: Using gradient descent to reach the final result](https://dev.to/rijultp/cross-entropy-derivatives-part-6-using-gradient-descent-to-reach-the-final-result-509j)
 - [Circuits Meet Joy: Happy Tech Stories in Three Words](https://dev.to/narnaiezzsshaa/circuits-meet-joy-happy-tech-stories-in-three-words-4ip1)
 - [The Intelligibility Advantage in an Era of Infinite Code](https://dev.to/yasini/the-intelligibility-advantage-in-an-era-of-infinite-code-bif)
 - [Stop Hardcoding Security Headers: Automate Your CDN Security with YAML](https://dev.to/alberteinshutoin/stop-hardcoding-security-headers-automate-your-cdn-security-with-yaml-44h6)
-- [Constructors, Destructors and this in C#](https://dev.to/allcoderthings/constructors-destructors-and-this-in-c-56ci)
-- [[Boost]](https://dev.to/richardpascoe/hey-shlokaguptaa-followed-you-on-github-if-thats-okay-cl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
