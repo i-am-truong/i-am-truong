@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Maravel-Framework 10.61.9 Benchmarks vs Lumen and Laravel](https://dev.to/marius-ciclistu/maravel-framework-10619-benchmarks-vs-lumen-and-laravel-3n41)
-- [I Built BreakFinder: Personalized Surf Forecasts + Full Garmin Ecosystem](https://dev.to/breakfinder/i-built-breakfinder-personalized-surf-forecasts-full-garmin-ecosystem-4ama)
-- [Design-Driven Firebase in Flutter: Building Custom In-App Messaging with SwiftUI &amp; Compose](https://dev.to/salahamassi/design-driven-firebase-in-flutter-building-custom-in-app-messaging-with-swiftui-compose-4bn3)
-- [🚀 How I Built &amp; Deployed a Real DevOps Project from Scratch &lpar;AWS GitHub Netlify&rpar;](https://dev.to/irfanpasha/how-i-built-deployed-a-real-devops-project-from-scratch-aws-github-netlify-1img)
-- [Building an Autonomous AI Agent for a Social Network: Lessons from the Chaos](https://dev.to/innermost_47/building-an-autonomous-ai-agent-for-a-social-network-lessons-from-the-chaos-52jo)
+- [[Boost]](https://dev.to/beleke_ian/-3i0o)
+- [How to Use ImportKit: Add CSV/Excel Import to Your React App in 10 Minutes](https://dev.to/gthorr/how-to-use-importkit-add-csvexcel-import-to-your-react-app-in-10-minutes-3l1i)
+- [How I Built an AI Product Photography Pipeline with 30+ Models &lpar;Next.js + Express + Replicate/FAL&rpar;](https://dev.to/tylerilunga/how-i-built-an-ai-product-photography-pipeline-with-30-models-nextjs-express-replicatefal-bp8)
+- [HackerStack.dev - 49 Curated AI Tools for Indie Hackers](https://dev.to/mr_anderson_f95ed20920d6a/hackerstackdev-49-curated-ai-tools-for-indie-hackers-569p)
+- [My first week at WWC!](https://dev.to/jesuspinarte/my-first-week-at-wwc-537)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
