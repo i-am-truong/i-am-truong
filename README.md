@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Role of Edge &amp; Distributed Data Centers in Reducing Compute Latency](https://dev.to/daya-shankar/the-role-of-edge-distributed-data-centers-in-reducing-compute-latency-16j)
-- [How I Use AI to Build High-Performance Web Applications in 2026](https://dev.to/vrushikvisavadiya/how-i-use-ai-to-build-high-performance-web-applications-in-2026-abo)
-- [The two returning values in Action Mailer [bugfix]](https://dev.to/fabiobazurtobla/the-two-returning-values-in-action-mailer-bugfix-2lkh)
-- [I&#39;m 17, I Have No Laptop, and I Just Built a Neural Network from Scratch](https://dev.to/alpha_/im-17-i-have-no-laptop-and-i-just-built-a-neural-network-from-scratch-452)
-- [Local Reasoning: Deploying DeepSeek-R1 Distill Llama-8B with Ollama &amp; Open WebUI 🌙](https://dev.to/lyraalishaikh/local-reasoning-deploying-deepseek-r1-distill-llama-8b-with-ollama-open-webui-13a3)
+- [BigQuery Sharing: An Underrated Data Exchange Platform You Should Know](https://dev.to/sijmatz/bigquery-sharing-an-underrated-data-exchange-platform-you-should-know-1dcf)
+- [How I build my virtual fashion stylist app using algolia studio agent](https://dev.to/ezeh_chidinma_bd31710dc88/how-i-build-my-virtual-fashion-stylist-app-using-algolia-studio-agent-jen)
+- [Stay ahead in web development: latest news, tools, and insights #123](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-123-4jkj)
+- [Algolia v5 + Algolia Agent Studio + Next.js 16: Building a Startup Validator](https://dev.to/khi_nguynv_2568b868bc/algolia-v5-algolia-agent-studio-nextjs-16-building-a-startup-validator-2362)
+- [Stop Silent Failures: Using LLMs to Validate Web Scraper Output](https://dev.to/anderecit/stop-silent-failures-using-llms-to-validate-web-scraper-output-24gf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
