@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Analysts Translate Messy Data, DAX, and Dashboards into Action Using Power BI](https://dev.to/grace_muthonimwangi_9281/how-analysts-translate-messy-data-dax-and-dashboards-into-action-using-power-bi-34pk)
-- [Speeding Up SaaS: Shipping HTMX in Production &lpar;A Post-Mortem&rpar;](https://dev.to/kike/speeding-up-saas-shipping-htmx-in-production-a-post-mortem-5bb9)
-- [How dev.to became my comfortable corner of the internet &lpar;and my New Year resolution&rpar;](https://dev.to/ujja/how-devto-became-my-comfortable-corner-of-the-internet-and-my-new-year-resolution-54h8)
-- [[SUI] Alertas](https://dev.to/david_goyes_a488f58a17a53/sui-alertas-c33)
-- [AI News Roundup: Ads in ChatGPT, Discord age checks, and GitHub agentic workflows](https://dev.to/damogallagher/ai-news-roundup-ads-in-chatgpt-discord-age-checks-and-github-agentic-workflows-e1b)
+- [Async/Await por Debaixo do Capô: Entendendo I/O Assíncrono no .NET](https://dev.to/unhacked/asyncawait-por-debaixo-do-capo-entendendo-io-assincrono-no-net-2c6k)
+- [Your AI Agent Just Got a Credit Card: Introducing x402 Bazaar](https://dev.to/wintyx57/your-ai-agent-just-got-a-credit-card-introducing-x402-bazaar-1g64)
+- [Ferramentas de Self-Healing em testes automatizados: até onde elas reduzem regressão manual?](https://dev.to/leandro-perez/ferramentas-de-self-healing-em-testes-automatizados-ate-onde-elas-reduzem-regressao-manual-26o1)
+- [Using AI to write a transpiler](https://dev.to/back2dos/using-ai-to-write-a-transpiler-pnf)
+- [Your API Calls the Same Lambda 1,000 Times a Minute &lpar;Enable Caching Already&rpar; 🚀](https://dev.to/suhas_mallesh/your-api-calls-the-same-lambda-1000-times-a-minute-enable-caching-already-4chk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
