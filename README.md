@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Learning Elixir &lpar;and programming&rpar; Still Matters in the AI Era](https://dev.to/techsplot/why-learning-elixir-and-programming-still-matters-in-the-ai-era-15jg)
-- [Stop Manually Assigning Roles in Better Auth: Use Role-Based Invitations Instead](https://dev.to/sandy00/stop-manually-assigning-roles-in-better-auth-use-role-based-invitations-instead-2bd7)
-- [Heimdall 🛡️: The All-Seeing Code Guardian That Actually Fixes Your Problems](https://dev.to/simandebvu/heimdall-the-all-seeing-code-guardian-that-actually-fixes-your-problems-2bi1)
-- [RoomKit, Pipecat, TEN Framework, LiveKit Agents: Choosing the Right Conversational AI Framework](https://dev.to/quintana/roomkit-pipecat-ten-framework-livekit-agents-choosing-the-right-conversational-ai-framework-2h80)
-- [How We Achieved 30% Conversion Lift by Moving from GPT-4 to LoRA Adapters](https://dev.to/vrathi_8/how-we-achieved-30-conversion-lift-by-moving-from-gpt-4-to-lora-adapters-35j4)
+- [A Minimalist Leaderboard of Startups &lpar;Roasted by AI&rpar;](https://dev.to/saugiskis/a-minimalist-leaderboard-of-startups-roasted-by-ai-1pk)
+- [Test-Driven Development for Building User Interfaces](https://dev.to/thawkin3/test-driven-development-for-building-user-interfaces-4k6d)
+- [IAM Sentinel: Bridging AI Reasoning with AWS Security Compliance](https://dev.to/mpawar006/iam-sentinel-bridging-ai-reasoning-with-aws-security-compliance-48bl)
+- [Just Because You Can, Doesn’t Mean You Should: A Question About Complexity in LLM Systems](https://dev.to/micheal_angelo_41cea4e81a/just-because-you-can-doesnt-mean-you-should-a-question-about-complexity-in-llm-systems-4dh6)
+- [How Fishjam.io Built a Multi-Speaker AI Game using Gemini Live](https://dev.to/googleai/how-fishjamio-built-a-multi-speaker-ai-game-using-gemini-live-20md)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
