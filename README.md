@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Conversational AI for Instant Internal Proposal Generation &lpar;Powered by Algolia Agent Studio&rpar;](https://dev.to/techceorahul/a-conversational-ai-for-instant-internal-proposal-generation-powered-by-algolia-agent-studio-h3j)
-- [Why Bing Is Stricter Than Google About URL Consistency — Technical SEO Deep Dive](https://dev.to/hetianhe/why-bing-is-stricter-than-google-about-url-consistency-technical-seo-deep-dive-25l1)
-- [Setup NUT on Proxmox](https://dev.to/seno21/setup-nut-on-proxmox-4b5n)
-- [Extensions - Lists and for-in loops](https://dev.to/lahari_tenneti_4a8a082e9c/extensions-lists-and-for-in-loops-194f)
-- [Hands-On Workshop: Refactoring Anti-Patterns](https://dev.to/mdiffshashank/hands-on-workshop-refactoring-anti-patterns-2dal)
+- [Event-Flo: AI-Powered Event Planning](https://dev.to/alecat90/event-flo-ai-powered-event-planning-3d5e)
+- [[Boost]](https://dev.to/nawab_kumar_sarraf/-4o9a)
+- [The Dart async/await Function: What Your App Is Actually Doing When It Says “Loading…”](https://dev.to/michellewanjiru/the-dart-asyncawait-function-what-your-app-is-actually-doing-when-it-says-loading-2mgh)
+- [Building a Dynamic MCP Proxy Server in Python](https://dev.to/amartyadev/building-a-dynamic-mcp-proxy-server-in-python-16jf)
+- [Responsive Images for Better Web Performance](https://dev.to/jacobandrewsky/responsive-images-for-better-web-performance-55hn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
