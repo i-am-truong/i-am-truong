@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Event Loop in JavaScript: How Async Really Works](https://dev.to/0xrazumovsky/event-loop-in-javascript-how-async-really-works-1j21)
-- [Like LEGO? Love Python! 🧱🐍 Ep.3](https://dev.to/the-software-s-journey/like-lego-love-python-ep3-1j0m)
-- [Batch Transaction - QA Test Report](https://dev.to/ripplexdev/batch-transaction-qa-test-report-17em)
-- [Batch Transaction - Testcases](https://dev.to/ripplexdev/batch-transaction-testcases-273j)
-- [11. C# &lpar;Parsing&rpar;](https://dev.to/sabin_sim/11-c-parsing-3hai)
+- [Java Basics](https://dev.to/graceolubiyi/java-basics-325a)
+- [Trinity Protocol Part 2: When Adding Chai-1 and Boltz-2 Exposed Hidden Model Disagreement](https://dev.to/flamehaven01/trinity-protocol-part-2-when-adding-chai-1-and-boltz-2-exposed-hidden-model-disagreement-5014)
+- [C++ da Type Casting: Bir turdan ikkinchisiga o&#39;tish](https://dev.to/nooon/c-da-type-casting-bir-turdan-ikkinchisiga-otish-i92)
+- [Insecurity of Quantum Secure Computations](https://dev.to/paperium/insecurity-of-quantum-secure-computations-2iaf)
+- [Five Free Virtual Workshops about Graph and AI](https://dev.to/yolandeonneo4j/five-free-virtual-workshops-about-graph-and-ai-3ehm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
