@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Leveraging io_uring for performant asynchronous linux applications.](https://dev.to/sospeter/leveraging-iouring-for-performant-asynchronous-linux-applications-4pl7)
+- [Knowledge in patches will not help us more. As it will not serve any purpose in any fast chaging world. An AI-powered personal knowledge system is not about storing more. It’s about compounding understanding over time. It will lead to long term success.](https://dev.to/jaideepparashar/knowledge-in-patches-will-not-help-us-more-as-it-will-not-serve-any-purpose-in-any-fast-chaging-1hah)
 - [How to Build an AI-Powered Personal Knowledge System](https://dev.to/jaideepparashar/how-to-build-an-ai-powered-personal-knowledge-system-48dd)
 - [Ng-News 26/04: Micro Frontends at Google](https://dev.to/this-is-angular/ng-news-2604-micro-frontends-at-google-13ch)
 - [The Mechanics of Good Object “immutable proxy that animate data”](https://dev.to/andreas_wagner_1111e1d3c7/the-mechanics-of-good-object-immutable-proxy-that-animate-data-part-2-oop-java-860)
-- [I Built an E2E Test Runner Where Tests Are JSON, Not Code](https://dev.to/fastslack/i-built-an-e2e-test-runner-where-tests-are-json-not-code-edj)
-- [Change 6 Characters in Terraform and Save 20% on EC2 Costs Instantly 💪](https://dev.to/suhas_mallesh/change-6-characters-in-terraform-and-save-20-on-ec2-costs-instantly-19nj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
