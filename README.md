@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [BigQuery Sharing: An Underrated Data Exchange Platform You Should Know](https://dev.to/sijmatz/bigquery-sharing-an-underrated-data-exchange-platform-you-should-know-1dcf)
-- [How I build my virtual fashion stylist app using algolia studio agent](https://dev.to/ezeh_chidinma_bd31710dc88/how-i-build-my-virtual-fashion-stylist-app-using-algolia-studio-agent-jen)
-- [Stay ahead in web development: latest news, tools, and insights #123](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-123-4jkj)
-- [Algolia v5 + Algolia Agent Studio + Next.js 16: Building a Startup Validator](https://dev.to/khi_nguynv_2568b868bc/algolia-v5-algolia-agent-studio-nextjs-16-building-a-startup-validator-2362)
-- [Stop Silent Failures: Using LLMs to Validate Web Scraper Output](https://dev.to/anderecit/stop-silent-failures-using-llms-to-validate-web-scraper-output-24gf)
+- [A Conversational AI for Instant Internal Proposal Generation &lpar;Powered by Algolia Agent Studio&rpar;](https://dev.to/techceorahul/a-conversational-ai-for-instant-internal-proposal-generation-powered-by-algolia-agent-studio-h3j)
+- [Why Bing Is Stricter Than Google About URL Consistency — Technical SEO Deep Dive](https://dev.to/hetianhe/why-bing-is-stricter-than-google-about-url-consistency-technical-seo-deep-dive-25l1)
+- [Setup NUT on Proxmox](https://dev.to/seno21/setup-nut-on-proxmox-4b5n)
+- [Extensions - Lists and for-in loops](https://dev.to/lahari_tenneti_4a8a082e9c/extensions-lists-and-for-in-loops-194f)
+- [Hands-On Workshop: Refactoring Anti-Patterns](https://dev.to/mdiffshashank/hands-on-workshop-refactoring-anti-patterns-2dal)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
