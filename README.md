@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Bringing my old MacBook Pro 8,2 back to life &lpar;again&rpar;](https://dev.to/thiagomg/bringing-my-old-macbook-pro-82-back-to-life-again-4lpi)
-- [From Static Portfolio to Indexed Decisions 📃](https://dev.to/anchildress1/from-static-portfolio-to-indexed-decisions-46bf)
-- [Conversational Retrieval: When Chat Becomes Navigation 💬](https://dev.to/anchildress1/conversational-retrieval-when-chat-becomes-navigation-2gij)
-- [Multibranch Pipeline Lab](https://dev.to/jumptotech/multibranch-pipeline-lab-1kca)
-- [Mock interview-2](https://dev.to/pranavinu_2f506df0ec84286/mock-interview-2-22ki)
+- [The Role of Edge &amp; Distributed Data Centers in Reducing Compute Latency](https://dev.to/daya-shankar/the-role-of-edge-distributed-data-centers-in-reducing-compute-latency-16j)
+- [How I Use AI to Build High-Performance Web Applications in 2026](https://dev.to/vrushikvisavadiya/how-i-use-ai-to-build-high-performance-web-applications-in-2026-abo)
+- [The two returning values in Action Mailer [bugfix]](https://dev.to/fabiobazurtobla/the-two-returning-values-in-action-mailer-bugfix-2lkh)
+- [I&#39;m 17, I Have No Laptop, and I Just Built a Neural Network from Scratch](https://dev.to/alpha_/im-17-i-have-no-laptop-and-i-just-built-a-neural-network-from-scratch-452)
+- [Local Reasoning: Deploying DeepSeek-R1 Distill Llama-8B with Ollama &amp; Open WebUI 🌙](https://dev.to/lyraalishaikh/local-reasoning-deploying-deepseek-r1-distill-llama-8b-with-ollama-open-webui-13a3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
