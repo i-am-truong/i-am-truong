@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Leveraging io_uring for performant asynchronous linux applications.](https://dev.to/sospeter/leveraging-iouring-for-performant-asynchronous-linux-applications-4pl7)
-- [Knowledge in patches will not help us more. As it will not serve any purpose in any fast chaging world. An AI-powered personal knowledge system is not about storing more. It’s about compounding understanding over time. It will lead to long term success.](https://dev.to/jaideepparashar/knowledge-in-patches-will-not-help-us-more-as-it-will-not-serve-any-purpose-in-any-fast-chaging-1hah)
-- [How to Build an AI-Powered Personal Knowledge System](https://dev.to/jaideepparashar/how-to-build-an-ai-powered-personal-knowledge-system-48dd)
-- [Ng-News 26/04: Micro Frontends at Google](https://dev.to/this-is-angular/ng-news-2604-micro-frontends-at-google-13ch)
-- [The Mechanics of Good Object “immutable proxy that animate data”](https://dev.to/andreas_wagner_1111e1d3c7/the-mechanics-of-good-object-immutable-proxy-that-animate-data-part-2-oop-java-860)
+- [Bringing my old MacBook Pro 8,2 back to life &lpar;again&rpar;](https://dev.to/thiagomg/bringing-my-old-macbook-pro-82-back-to-life-again-4lpi)
+- [From Static Portfolio to Indexed Decisions 📃](https://dev.to/anchildress1/from-static-portfolio-to-indexed-decisions-46bf)
+- [Conversational Retrieval: When Chat Becomes Navigation 💬](https://dev.to/anchildress1/conversational-retrieval-when-chat-becomes-navigation-2gij)
+- [Multibranch Pipeline Lab](https://dev.to/jumptotech/multibranch-pipeline-lab-1kca)
+- [Mock interview-2](https://dev.to/pranavinu_2f506df0ec84286/mock-interview-2-22ki)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
