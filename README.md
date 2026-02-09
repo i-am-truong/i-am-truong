@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Silence Weapon: When bad news stops flowing upward](https://dev.to/abdulosman/the-silence-weapon-when-bad-news-stops-flowing-upward-1pi3)
-- [If your vector DB needs to see your data to search it, you’re not building private AI you’re renting confidence.](https://dev.to/zimo-123/if-your-vector-db-needs-to-see-your-data-to-search-it-youre-not-building-private-ai-youre-13ib)
-- [I’ve just launched a public testing version of Vendly](https://dev.to/mateebhussain/ive-just-launched-a-public-testing-version-of-vendly-ejj)
-- [Playwright Locators Guide: getByRole, getByText, getByLabel, CSS &amp; XPath](https://dev.to/keepcodn/playwright-locators-guide-getbyrole-getbytext-getbylabel-css-xpath-24n0)
-- [C, ¿el lenguaje de programación de los chamanes?](https://dev.to/baltasarq/c-el-lenguaje-de-programacion-de-los-chamanes-pp4)
+- [Designing Zero-Trust CI/CD Pipelines with GitHub Actions and AWS](https://dev.to/adarshbp/designing-zero-trust-cicd-pipelines-with-github-actions-and-aws-1mn5)
+- [Cursor vs Claude Code: Which Ships Faster? &lpar;2026&rpar;](https://dev.to/lukaszfryc/cursor-vs-claude-code-which-ships-faster-2026-79j)
+- [Building Tabularis: A Developer&#39;s Database Tool That Doesn&#39;t Suck](https://dev.to/debba/building-tabularis-a-developers-database-tool-that-doesnt-suck-4k73)
+- [USB-C Hub Technical Blueprint: Beyond Simple Connectivity](https://dev.to/wixom/usb-c-hub-technical-blueprint-beyond-simple-connectivity-1i2a)
+- [Свой простой модуль для 1С-Битрикс: от /local/modules до рабочего компонента](https://dev.to/_vproger_/svoi-prostoi-modul-dlia-1s-bitriks-ot-localmodules-do-rabochiegho-komponienta-18i6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
