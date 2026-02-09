@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Passkeys Improve Retention: Why Keychains Keep Users Coming Back](https://dev.to/corbado/how-passkeys-improve-retention-why-keychains-keep-users-coming-back-2bgm)
-- [The Hidden Cost of “Event-Driven Everything”: Why Most Systems Don’t Need Kafka &lpar;Yet&rpar;](https://dev.to/invincible/the-hidden-cost-of-event-driven-everything-why-most-systems-dont-need-kafka-yet-gpk)
-- [We Built Free Embeddable Stock Sentiment Widgets — Here&#39;s How to Use Them](https://dev.to/alexanderschneider/we-built-free-embeddable-stock-sentiment-widgets-heres-how-to-use-them-1hno)
-- [Asset Intelligence vs Asset Tracking: What Enterprises Actually Need in 2026](https://dev.to/asset_infinity/asset-intelligence-vs-asset-tracking-what-enterprises-actually-need-in-2026-l70)
-- [Is LLM Data Labeling Good Enough to Train On? We Tested It and the Answer Is Yes](https://dev.to/rafael_poyiadzi_85c2eed09/is-llm-data-labeling-good-enough-to-train-on-we-tested-it-and-the-answer-is-yes-4pdh)
+- [Merging the &quot;This Is&quot; Community into &quot;Playful Programming&quot;](https://dev.to/playfulprogramming/merging-the-this-is-community-into-playful-programming-1nfi)
+- [SaaS System Design - Graphmotivo](https://dev.to/dstepanian/saas-system-design-graphmotivo-210k)
+- [Practical Strategies for Securing Web APIs in Modern Applications](https://dev.to/ekirigwe/practical-strategies-for-securing-web-apis-in-modern-applications-1ief)
+- [JS Tips — A JavaScript Tip a Day](https://dev.to/ml318097/js-tips-a-javascript-tip-a-day-5dbe)
+- [Why C++ Never Ran the Web: The $0.00 Secret of JavaScript’s Success](https://dev.to/aabiskar/why-c-never-ran-the-web-the-000-secret-of-javascripts-success-1l4m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
