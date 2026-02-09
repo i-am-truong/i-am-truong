@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Minimalist Leaderboard of Startups &lpar;Roasted by AI&rpar;](https://dev.to/saugiskis/a-minimalist-leaderboard-of-startups-roasted-by-ai-1pk)
-- [Test-Driven Development for Building User Interfaces](https://dev.to/thawkin3/test-driven-development-for-building-user-interfaces-4k6d)
-- [IAM Sentinel: Bridging AI Reasoning with AWS Security Compliance](https://dev.to/mpawar006/iam-sentinel-bridging-ai-reasoning-with-aws-security-compliance-48bl)
-- [Just Because You Can, Doesn’t Mean You Should: A Question About Complexity in LLM Systems](https://dev.to/micheal_angelo_41cea4e81a/just-because-you-can-doesnt-mean-you-should-a-question-about-complexity-in-llm-systems-4dh6)
-- [How Fishjam.io Built a Multi-Speaker AI Game using Gemini Live](https://dev.to/googleai/how-fishjamio-built-a-multi-speaker-ai-game-using-gemini-live-20md)
+- [Dear Vibe Coder: Your App Works. Your Code Is the Problem.](https://dev.to/holasoymalva/dear-vibe-coder-your-app-works-your-code-is-the-problem-5fdc)
+- [List of Top 5 AI Gateways: Features + Comprehensive comparison](https://dev.to/pranay_batta/list-of-top-5-ai-gateways-features-comprehensive-comparison-h0g)
+- [Beyond the Restart — The Era of Agentic Self-Healing Microservices](https://dev.to/mkraft-berlin/beyond-the-restart-the-era-of-agentic-self-healing-microservices-412j)
+- [Building a Smart Bible Reading Reminder System - Personalized Push Notifications at Scale](https://dev.to/sangwoo_rhie/building-a-smart-bible-reading-reminder-system-personalized-push-notifications-at-scale-lgc)
+- [How to get started with Gemini CLI :&rpar;](https://dev.to/leslysandra/how-to-get-started-with-gemini-cli--4cln)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
