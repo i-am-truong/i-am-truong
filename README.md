@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Event-Flo: AI-Powered Event Planning](https://dev.to/alecat90/event-flo-ai-powered-event-planning-3d5e)
-- [[Boost]](https://dev.to/nawab_kumar_sarraf/-4o9a)
-- [The Dart async/await Function: What Your App Is Actually Doing When It Says “Loading…”](https://dev.to/michellewanjiru/the-dart-asyncawait-function-what-your-app-is-actually-doing-when-it-says-loading-2mgh)
-- [Building a Dynamic MCP Proxy Server in Python](https://dev.to/amartyadev/building-a-dynamic-mcp-proxy-server-in-python-16jf)
-- [Responsive Images for Better Web Performance](https://dev.to/jacobandrewsky/responsive-images-for-better-web-performance-55hn)
+- [The Silence Weapon: When bad news stops flowing upward](https://dev.to/abdulosman/the-silence-weapon-when-bad-news-stops-flowing-upward-1pi3)
+- [If your vector DB needs to see your data to search it, you’re not building private AI you’re renting confidence.](https://dev.to/zimo-123/if-your-vector-db-needs-to-see-your-data-to-search-it-youre-not-building-private-ai-youre-13ib)
+- [I’ve just launched a public testing version of Vendly](https://dev.to/mateebhussain/ive-just-launched-a-public-testing-version-of-vendly-ejj)
+- [Playwright Locators Guide: getByRole, getByText, getByLabel, CSS &amp; XPath](https://dev.to/keepcodn/playwright-locators-guide-getbyrole-getbytext-getbylabel-css-xpath-24n0)
+- [C, ¿el lenguaje de programación de los chamanes?](https://dev.to/baltasarq/c-el-lenguaje-de-programacion-de-los-chamanes-pp4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
