@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Designing Zero-Trust CI/CD Pipelines with GitHub Actions and AWS](https://dev.to/adarshbp/designing-zero-trust-cicd-pipelines-with-github-actions-and-aws-1mn5)
-- [Cursor vs Claude Code: Which Ships Faster? &lpar;2026&rpar;](https://dev.to/lukaszfryc/cursor-vs-claude-code-which-ships-faster-2026-79j)
-- [Building Tabularis: A Developer&#39;s Database Tool That Doesn&#39;t Suck](https://dev.to/debba/building-tabularis-a-developers-database-tool-that-doesnt-suck-4k73)
-- [USB-C Hub Technical Blueprint: Beyond Simple Connectivity](https://dev.to/wixom/usb-c-hub-technical-blueprint-beyond-simple-connectivity-1i2a)
-- [Свой простой модуль для 1С-Битрикс: от /local/modules до рабочего компонента](https://dev.to/_vproger_/svoi-prostoi-modul-dlia-1s-bitriks-ot-localmodules-do-rabochiegho-komponienta-18i6)
+- [How Passkeys Improve Retention: Why Keychains Keep Users Coming Back](https://dev.to/corbado/how-passkeys-improve-retention-why-keychains-keep-users-coming-back-2bgm)
+- [The Hidden Cost of “Event-Driven Everything”: Why Most Systems Don’t Need Kafka &lpar;Yet&rpar;](https://dev.to/invincible/the-hidden-cost-of-event-driven-everything-why-most-systems-dont-need-kafka-yet-gpk)
+- [We Built Free Embeddable Stock Sentiment Widgets — Here&#39;s How to Use Them](https://dev.to/alexanderschneider/we-built-free-embeddable-stock-sentiment-widgets-heres-how-to-use-them-1hno)
+- [Asset Intelligence vs Asset Tracking: What Enterprises Actually Need in 2026](https://dev.to/asset_infinity/asset-intelligence-vs-asset-tracking-what-enterprises-actually-need-in-2026-l70)
+- [Is LLM Data Labeling Good Enough to Train On? We Tested It and the Answer Is Yes](https://dev.to/rafael_poyiadzi_85c2eed09/is-llm-data-labeling-good-enough-to-train-on-we-tested-it-and-the-answer-is-yes-4pdh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
