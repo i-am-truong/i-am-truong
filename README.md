@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [drop_down_menu.js Module in WebForms Core](https://dev.to/elanatframework/dropdownmenujs-module-in-webforms-core-3nf1)
-- [Battery-Included WebRTC: Orchestrating LiveKit with the Python Server SDK](https://dev.to/deepak_mishra_35863517037/battery-included-webrtc-orchestrating-livekit-with-the-python-server-sdk-273e)
-- [A deadlock on an uncontended Tokio RwLock &lpar;caused by futures::executor::block_on&rpar;](https://dev.to/cspinetta/a-deadlock-on-an-uncontended-tokio-rwlock-caused-by-futuresexecutorblockon-490i)
-- [Smartfind.ai](https://dev.to/osazuwa_john_1580bf90e07f/smartfindai-5d93)
-- [Building a “Swiss Army Knife” Data Dashboard — A Practical Experiment in Useful Analytics](https://dev.to/ahmedanterelsayed/building-a-swiss-army-knife-data-dashboard-a-practical-experiment-in-useful-analytics-4e98)
+- [How Analysts Translate Messy Data, DAX, and Dashboards into Action Using Power BI](https://dev.to/grace_muthonimwangi_9281/how-analysts-translate-messy-data-dax-and-dashboards-into-action-using-power-bi-34pk)
+- [Speeding Up SaaS: Shipping HTMX in Production &lpar;A Post-Mortem&rpar;](https://dev.to/kike/speeding-up-saas-shipping-htmx-in-production-a-post-mortem-5bb9)
+- [How dev.to became my comfortable corner of the internet &lpar;and my New Year resolution&rpar;](https://dev.to/ujja/how-devto-became-my-comfortable-corner-of-the-internet-and-my-new-year-resolution-54h8)
+- [[SUI] Alertas](https://dev.to/david_goyes_a488f58a17a53/sui-alertas-c33)
+- [AI News Roundup: Ads in ChatGPT, Discord age checks, and GitHub agentic workflows](https://dev.to/damogallagher/ai-news-roundup-ads-in-chatgpt-discord-age-checks-and-github-agentic-workflows-e1b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
