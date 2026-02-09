@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Dear Vibe Coder: Your App Works. Your Code Is the Problem.](https://dev.to/holasoymalva/dear-vibe-coder-your-app-works-your-code-is-the-problem-5fdc)
-- [List of Top 5 AI Gateways: Features + Comprehensive comparison](https://dev.to/pranay_batta/list-of-top-5-ai-gateways-features-comprehensive-comparison-h0g)
-- [Beyond the Restart — The Era of Agentic Self-Healing Microservices](https://dev.to/mkraft-berlin/beyond-the-restart-the-era-of-agentic-self-healing-microservices-412j)
-- [Building a Smart Bible Reading Reminder System - Personalized Push Notifications at Scale](https://dev.to/sangwoo_rhie/building-a-smart-bible-reading-reminder-system-personalized-push-notifications-at-scale-lgc)
-- [How to get started with Gemini CLI :&rpar;](https://dev.to/leslysandra/how-to-get-started-with-gemini-cli--4cln)
+- [I built an npm package that auto-generates alt text for images using AI](https://dev.to/carolina_herrera_cdc2e30e/i-built-an-npm-package-that-auto-generates-alt-text-for-images-using-ai-175d)
+- [Good vs Bad Prompting: What I Learned While Working With AI Models](https://dev.to/konark_13/good-vs-bad-prompting-what-i-learned-while-working-with-ai-models-3eg4)
+- [How Analysts Translate Messy Data, DAX, and Dashboards into Action Using Power BI](https://dev.to/brianm/how-analysts-translate-messy-data-dax-and-dashboards-into-action-using-power-bi-4p2k)
+- [Building a Reproducible Classical–Quantum ML Platform for Molecular Prediction](https://dev.to/pratik25priyanshu20/building-a-reproducible-classical-quantum-ml-platform-for-molecular-prediction-1hl0)
+- [Runtime Hyperparameter Tuning in LangChain](https://dev.to/harishkotra/runtime-hyperparameter-tuning-in-langchain-3aa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
