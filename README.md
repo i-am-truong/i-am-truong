@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Merging the &quot;This Is&quot; Community into &quot;Playful Programming&quot;](https://dev.to/playfulprogramming/merging-the-this-is-community-into-playful-programming-1nfi)
-- [SaaS System Design - Graphmotivo](https://dev.to/dstepanian/saas-system-design-graphmotivo-210k)
-- [Practical Strategies for Securing Web APIs in Modern Applications](https://dev.to/ekirigwe/practical-strategies-for-securing-web-apis-in-modern-applications-1ief)
-- [JS Tips — A JavaScript Tip a Day](https://dev.to/ml318097/js-tips-a-javascript-tip-a-day-5dbe)
-- [Why C++ Never Ran the Web: The $0.00 Secret of JavaScript’s Success](https://dev.to/aabiskar/why-c-never-ran-the-web-the-000-secret-of-javascripts-success-1l4m)
+- [Level Up Your Linux Game: My Journey Through OverTheWire’s Bandit &amp; Natas](https://dev.to/minipliy/level-up-your-linux-game-my-journey-through-overthewires-bandit-natas-47ho)
+- [SPIFFE Identity Federation: Extending Trust Across Boundaries](https://dev.to/riptides/spiffe-identity-federation-extending-trust-across-boundaries-35el)
+- [A Silly Idea: A Star Wars Lightsaber Duel in the Terminal with GitHub Copilot CLI](https://dev.to/gramli/a-silly-idea-a-star-wars-lightsaber-duel-in-the-terminal-with-github-copilot-cli-1ki7)
+- [From Disorganized Data to Clear Insights: How Analysts Build Solutions with Power BI](https://dev.to/guyo_mohammed/from-disorganized-data-to-clear-insights-how-analysts-build-solutions-with-power-bi-1d70)
+- [From Vogue’s Lens to the Web: A Story of Creative Collaboration](https://dev.to/reklamof/from-vogues-lens-to-the-web-a-story-of-creative-collaboration-1bcg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
