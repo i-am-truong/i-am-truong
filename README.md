@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built an npm package that auto-generates alt text for images using AI](https://dev.to/carolina_herrera_cdc2e30e/i-built-an-npm-package-that-auto-generates-alt-text-for-images-using-ai-175d)
-- [Good vs Bad Prompting: What I Learned While Working With AI Models](https://dev.to/konark_13/good-vs-bad-prompting-what-i-learned-while-working-with-ai-models-3eg4)
-- [How Analysts Translate Messy Data, DAX, and Dashboards into Action Using Power BI](https://dev.to/brianm/how-analysts-translate-messy-data-dax-and-dashboards-into-action-using-power-bi-4p2k)
-- [Building a Reproducible Classical–Quantum ML Platform for Molecular Prediction](https://dev.to/pratik25priyanshu20/building-a-reproducible-classical-quantum-ml-platform-for-molecular-prediction-1hl0)
-- [Runtime Hyperparameter Tuning in LangChain](https://dev.to/harishkotra/runtime-hyperparameter-tuning-in-langchain-3aa)
+- [Forge Stack: A Full Ecosystem for Modern Web Applications](https://dev.to/john_yaghobieh_8f294091f6/forge-stack-a-full-ecosystem-for-modern-web-applications-381a)
+- [An Easy Recap of Supabase Essentials](https://dev.to/rubenoalvarado/an-easy-recap-of-supabase-essentials-f37)
+- [Next.js Performance When You Have 200,000 Database Rows](https://dev.to/kiravaughn/nextjs-performance-when-you-have-200000-database-rows-5ee0)
+- [Last part! &lpar;3 out of 3&rpar; to Get started with Gemini CLI](https://dev.to/leslysandra/last-part-3-out-of-3-to-get-started-with-gemini-cli-1hmd)
+- [Use Git Alias To Become Pro](https://dev.to/nra/use-git-alias-to-become-pro-46nm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
