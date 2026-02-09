@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Forge Stack: A Full Ecosystem for Modern Web Applications](https://dev.to/john_yaghobieh_8f294091f6/forge-stack-a-full-ecosystem-for-modern-web-applications-381a)
-- [An Easy Recap of Supabase Essentials](https://dev.to/rubenoalvarado/an-easy-recap-of-supabase-essentials-f37)
-- [Next.js Performance When You Have 200,000 Database Rows](https://dev.to/kiravaughn/nextjs-performance-when-you-have-200000-database-rows-5ee0)
-- [Last part! &lpar;3 out of 3&rpar; to Get started with Gemini CLI](https://dev.to/leslysandra/last-part-3-out-of-3-to-get-started-with-gemini-cli-1hmd)
-- [Use Git Alias To Become Pro](https://dev.to/nra/use-git-alias-to-become-pro-46nm)
+- [Event Loop in JavaScript: How Async Really Works](https://dev.to/0xrazumovsky/event-loop-in-javascript-how-async-really-works-1j21)
+- [Like LEGO? Love Python! 🧱🐍 Ep.3](https://dev.to/the-software-s-journey/like-lego-love-python-ep3-1j0m)
+- [Batch Transaction - QA Test Report](https://dev.to/ripplexdev/batch-transaction-qa-test-report-17em)
+- [Batch Transaction - Testcases](https://dev.to/ripplexdev/batch-transaction-testcases-273j)
+- [11. C# &lpar;Parsing&rpar;](https://dev.to/sabin_sim/11-c-parsing-3hai)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
