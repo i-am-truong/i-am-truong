@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Explanation of key concepts in a cloud computing](https://dev.to/okunola_babatunde_dff5cbd/explanation-of-key-concepts-in-a-cloud-computing-aha)
-- [Types of Sub Contracts and Their Applications](https://dev.to/writegenic/types-of-sub-contracts-and-their-applications-3dgp)
-- [Why Learning Basic Robotics Made Me a Better Software Engineer in the Age of AI](https://dev.to/javz/why-learning-basic-robotics-made-me-a-better-software-engineer-in-the-age-of-ai-fdh)
-- [Top 5 MCP Gateways for Building Production AI Agents](https://dev.to/debmckinney/top-5-mcp-gateways-for-building-production-ai-agents-2hfd)
-- [MemoClaw vs Mem0: Which Memory Solution for Your Agent?](https://dev.to/anajuliabit/memoclaw-vs-mem0-which-memory-solution-for-your-agent-1g18)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-43cc)
+- [Your Screenshot Automation Is Bloating Your Git Repo](https://dev.to/omachala/your-screenshot-automation-is-bloating-your-git-repo-3lgc)
+- [DavosWeb3 2026: Voices Shaping Ethical Web3 &amp; AI Innovation](https://dev.to/droomdroom/davosweb3-2026-voices-shaping-ethical-web3-ai-innovation-563n)
+- [Annotate Your Screenshots Without Photoshop](https://dev.to/omachala/annotate-your-screenshots-without-photoshop-91d)
+- [Stop Wasting Time on Dev Tooling Setup: Meet dev-forge](https://dev.to/vinesh_eg_e429ec230997bf0/stop-wasting-time-on-dev-tooling-setup-meet-dev-forge-2jkj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
