@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Company Run Entirely by AI Agents. Here&#39;s How &lpar;and What Went Wrong&rpar;.](https://dev.to/nunc/i-built-a-company-run-entirely-by-ai-agents-heres-how-and-what-went-wrong-4hli)
-- [Compressing PDFs to 200KB using a simple client-side approach](https://dev.to/himanshu_sharma_8ae32731f/compressing-pdfs-to-200kb-using-a-simple-client-side-approach-2e7g)
-- [Python Typing vs. TypeScript](https://dev.to/idodav/python-typing-vs-typescript-5bhp)
-- [Build a Google Ads Competitor Intelligence Tool with Node.js](https://dev.to/olams/build-a-google-ads-competitor-intelligence-tool-with-nodejs-ol2)
-- [Build a Smart Email Classifier with Python and Hugging Face in 15 Minutes](https://dev.to/paul_robertson_e844997d2b/build-a-smart-email-classifier-with-python-and-hugging-face-in-15-minutes-35o6)
+- [Como integrei testes de carga com K6, GitHub Actions e OpenTelemetry](https://dev.to/marcos_vile/como-integrei-testes-de-carga-com-k6-github-actions-e-opentelemetry-23eh)
+- [Constructor](https://dev.to/nanthini_ammu_ac02ad32802/constructor-4a8o)
+- [Everything You Need to Know About AWS for Your First Developer Job](https://dev.to/aws/everything-you-need-to-know-about-aws-for-your-first-developer-job-52o2)
+- [Vibe Coding Is Dead. Welcome to Agentic Engineering.](https://dev.to/rakesh1002/vibe-coding-is-dead-welcome-to-agentic-engineering-26hp)
+- [How Performance Testing Improves Customer Experience](https://dev.to/henry_cavill_2c5b7adf481a/how-performance-testing-improves-customer-experience-2gb6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
