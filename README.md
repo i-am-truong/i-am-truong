@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Has Killed Widgets Six Times. Here&#39;s Why They Keep Coming Back.](https://dev.to/xakpc/microsoft-has-killed-widgets-six-timesheres-why-they-keep-coming-back-394g)
-- [How to secure your firebase app](https://dev.to/getarchitect/how-to-secure-your-firebase-app-4h0c)
-- [Chrome’s WebMCP Early Preview: the end of “AI agents clicking buttons”](https://dev.to/axrisi/chromes-webmcp-early-preview-the-end-of-ai-agents-clicking-buttons-b6e)
-- [Fiz engenharia reversa de sistemas ATS e descobri por que seu currículo nunca passa da triagem automática](https://dev.to/caique_gaspar/fiz-engenharia-reversa-de-sistemas-ats-e-descobri-por-que-seu-curriculo-nunca-passa-da-triagem-4584)
-- [Modern JavaScript Features You&#39;re Still Not Using &lpar;But Should&rpar; 🐍](https://dev.to/thebitforge/modern-javascript-features-youre-still-not-using-but-should-3925)
+- [Value Receivers vs Pointer Receivers in Go &lpar;A Practical Explanation&rpar;](https://dev.to/shivamjha2436/value-receivers-vs-pointer-receivers-in-go-a-practical-explanation-57j3)
+- [Building EarnScreen: Turning Screen Time from Waiting Game into Opportunity](https://dev.to/libar/building-earnscreen-turning-screen-time-from-waiting-game-into-opportunity-1jdh)
+- [Architecting Guardrails and Validation Layers in Generative AI Systems](https://dev.to/shreekansha97/architecting-guardrails-and-validation-layers-in-generative-ai-systems-5c1c)
+- [From Non-Profit Ops Manager to Building Neural Networks: Week 1](https://dev.to/jemhrice/from-non-profit-ops-manager-to-building-neural-networks-week-1-3b82)
+- [Amazon Virtual Private Cloud &lpar;VPC&rpar;](https://dev.to/softwarejutsu/amazon-virtual-private-cloud-vpc-3996)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
