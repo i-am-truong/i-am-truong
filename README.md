@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Email Verification APIs Compared: 2026 Benchmark &lpar;With Real Pricing&rpar;](https://dev.to/jamessib/email-verification-apis-compared-2026-benchmark-with-real-pricing-381k)
-- [Xcode 26.3 : Use AI Agents from Cursor, Claude Code &amp; Beyond](https://dev.to/arshtechpro/xcode-263-use-ai-agents-from-cursor-claude-code-beyond-4dmi)
-- [Scaling crypto price feeds from 1 token to 10,000: architecture patterns that work in production](https://dev.to/donbagger/scaling-crypto-price-feeds-from-1-token-to-10000-architecture-patterns-that-work-in-production-4gm3)
-- [QA is dead 2005 vs 2015 vs 2025](https://dev.to/rmarinsky/qa-is-dead-2005-vs-2015-vs-2025-3la6)
-- [Reducing User-Side Deanonymization in Tor: Usage-Level Safety by Design](https://dev.to/hejhdiss/reducing-user-side-deanonymization-in-tor-usage-level-safety-by-design-ic8)
+- [Building a Robust Classifier with Stacked Generalization](https://dev.to/ddebajyati/building-a-robust-classifier-with-stacked-generalization-5flk)
+- [#2 - Going to second base: know your boundaries](https://dev.to/benjaminsavoy/2-going-to-second-base-know-your-boundaries-4ea7)
+- [Hi developers👋 I’m the founder of Creativity Coder](https://dev.to/creativity_coder_2a6c5d6f/hi-developers-im-the-founder-of-creativity-coder-4bo)
+- [Build Your First AI-Powered Todo App: React + OpenAI Complete Tutorial](https://dev.to/paul_robertson_e844997d2b/build-your-first-ai-powered-todo-app-react-openai-complete-tutorial-3bam)
+- [What Event Sourcing Taught Us About Building Resilient Delivery Systems](https://dev.to/natarajsundar/what-event-sourcing-taught-us-about-building-resilient-delivery-systems-4mmc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
