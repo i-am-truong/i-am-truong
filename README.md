@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Surveillance Fails](https://dev.to/rawveg/ai-surveillance-fails-39b9)
-- [I Built a Free Dataset of 51M+ Companies and Their Tech Stacks &lpar;Daily Updates!&rpar;](https://dev.to/haynajjar/i-built-a-free-dataset-of-51m-companies-and-their-tech-stacks-daily-updates-g1i)
-- [Why React JS Is the Go-To Choice for Modern Web Development](https://dev.to/ciphernutz/why-react-js-is-the-go-to-choice-for-modern-web-development-1201)
-- [Advanced RedisVL Long-term Memory Tutorial: Using an LLM to Extract Memories](https://dev.to/qtalen/advanced-redisvl-long-term-memory-tutorial-using-an-llm-to-extract-memories-35kc)
-- [Why Date and Time Bugs Happen in JavaScript &lpar;And How Apps Actually Get It Right&rpar;](https://dev.to/nishchaldev/why-date-and-time-bugs-happen-in-javascript-and-how-apps-actually-get-it-right-hjh)
+- [Explanation of key concepts in a cloud computing](https://dev.to/okunola_babatunde_dff5cbd/explanation-of-key-concepts-in-a-cloud-computing-aha)
+- [Types of Sub Contracts and Their Applications](https://dev.to/writegenic/types-of-sub-contracts-and-their-applications-3dgp)
+- [Why Learning Basic Robotics Made Me a Better Software Engineer in the Age of AI](https://dev.to/javz/why-learning-basic-robotics-made-me-a-better-software-engineer-in-the-age-of-ai-fdh)
+- [Top 5 MCP Gateways for Building Production AI Agents](https://dev.to/debmckinney/top-5-mcp-gateways-for-building-production-ai-agents-2hfd)
+- [MemoClaw vs Mem0: Which Memory Solution for Your Agent?](https://dev.to/anajuliabit/memoclaw-vs-mem0-which-memory-solution-for-your-agent-1g18)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
