@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Measure Twice, Prompt Once](https://dev.to/choutos/measure-twice-prompt-once-3fi4)
-- [Dependency Injection In Litestar | Building APIs with Litestar #7](https://dev.to/jod35/dependency-injection-in-litestar-building-apis-with-litestar-7-1eak)
-- [RepoSentry — AI Codebase Intelligence &lpar;Docs, Diagrams, Security, CI&rpar; built with Copilot CLI](https://dev.to/check__/reposentry-ai-codebase-intelligence-docs-diagrams-security-ci-built-with-copilot-cli-3ghm)
-- [The Tortoise and the Hare, Revisited](https://dev.to/itay-maman/the-tortoise-and-the-hare-revisited-4jc)
-- [How do robots dream?](https://dev.to/robin_haze/how-do-robots-dream-2af6)
+- [Announcing Three New Free JAMstack Blogging Themes: IndiePaper, Newsprint, and brennan.jp.net](https://dev.to/brennan/announcing-three-new-free-jamstack-blogging-themes-indiepaper-newsprint-and-brennanjpnet-2f56)
+- [Build Your First AI Agent with RapidKit in 10 Minutes](https://dev.to/rapidkit/build-your-first-ai-agent-with-rapidkit-in-10-minutes-3dj6)
+- [Good rule for Expo Vs RN](https://dev.to/khaledmsalem/good-rule-for-expo-vs-rn-lpf)
+- [Primary &amp; Secondary Keys In Power Bi.](https://dev.to/mary_kariuki_944435052aa9/primary-secondary-keys-in-power-bi-2070)
+- [How to Convert Telegram Chat Export JSON into CSV](https://dev.to/momentumguard/how-to-convert-telegram-chat-export-json-into-csv-ogh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
