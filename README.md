@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Google SERP API for Competitor Analysis: A Step-by-Step Guide](https://dev.to/contentdrafts145/google-serp-api-for-competitor-analysis-a-step-by-step-guide-pb6)
-- [Angular Addicts #46: Angular 21.1, Skills, Signal Forms &amp; more](https://dev.to/playfulprogramming/angular-addicts-46-angular-211-skills-signal-forms-more-7bf)
-- [Building a Multi-Year Battery Life IoT Data Logger: A Deep Dive into Ultra-Low-Power Design](https://dev.to/norvi_controllers/building-a-multi-year-battery-life-iot-data-logger-a-deep-dive-into-ultra-low-power-design-47gg)
-- [How to Integrate Slack with ServerAvatar](https://dev.to/serveravatar/how-to-integrate-slack-with-serveravatar-4nhi)
-- [Liferay Commerce Performance: How We Scaled to 100k+ SKU Imports &lpar;Without Crashing the JVM&rpar;](https://dev.to/nirvana_lab/liferay-commerce-performance-how-we-scaled-to-100k-sku-imports-without-crashing-the-jvm-4lnj)
+- [From Heavy to Lightweight: Compressing Images in Expo for Better Performance](https://dev.to/angojay/from-heavy-to-lightweight-compressing-images-in-expo-for-better-performance-50fa)
+- [Agents That Build Agents — Building Autonomous Browsing with Claude Code](https://dev.to/viniciusdallacqua/agents-that-build-agents-building-autonomous-browsing-with-claude-code-pn5)
+- [155. Min Stack | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/155-min-stack-leetcode-top-interview-150-coding-questions-128b)
+- [Porting Claude Code&#39;s Agent Teams to OpenCode](https://dev.to/uenyioha/porting-claude-codes-agent-teams-to-opencode-4hol)
+- [I stopped switching image models mid-project - heres what actually worked](https://dev.to/gabrieal845/i-stopped-switching-image-models-mid-project-heres-what-actually-worked-1h03)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
