@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Async/Await por Debaixo do Capô: Entendendo I/O Assíncrono no .NET](https://dev.to/unhacked/asyncawait-por-debaixo-do-capo-entendendo-io-assincrono-no-net-2c6k)
-- [Your AI Agent Just Got a Credit Card: Introducing x402 Bazaar](https://dev.to/wintyx57/your-ai-agent-just-got-a-credit-card-introducing-x402-bazaar-1g64)
-- [Ferramentas de Self-Healing em testes automatizados: até onde elas reduzem regressão manual?](https://dev.to/leandro-perez/ferramentas-de-self-healing-em-testes-automatizados-ate-onde-elas-reduzem-regressao-manual-26o1)
-- [Using AI to write a transpiler](https://dev.to/back2dos/using-ai-to-write-a-transpiler-pnf)
-- [Your API Calls the Same Lambda 1,000 Times a Minute &lpar;Enable Caching Already&rpar; 🚀](https://dev.to/suhas_mallesh/your-api-calls-the-same-lambda-1000-times-a-minute-enable-caching-already-4chk)
+- [Accelerating Code Quality at Scale with FloTorch Blueprints](https://dev.to/adi_budithi_d330b41b1bdb2/accelerating-code-quality-at-scale-with-flotorch-blueprints-2nmf)
+- [Email Verification APIs Compared: 2026 Benchmark &lpar;With Real Pricing&rpar;](https://dev.to/jamessib/email-verification-apis-compared-2026-benchmark-with-real-pricing-34kn)
+- [How to Build and Test iOS Apps on a Physical Phone: Expo EAS and Apple TestFlight &lpar;Part 1/3&rpar;](https://dev.to/cathylai/how-to-build-and-test-ios-apps-on-a-physical-phone-expo-eas-and-apple-testflight-part-13-357o)
+- [A dev coding setup in 2026](https://dev.to/jairo-dev-jr/a-dev-coding-setup-in-2026-2apm)
+- [I Built a $9/mo Uptime Monitor in a Day — Here&#39;s What I Learned](https://dev.to/daviddaadams/i-built-a-9mo-uptime-monitor-in-a-day-heres-what-i-learned-3k7d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
