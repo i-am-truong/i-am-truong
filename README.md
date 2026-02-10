@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hello World](https://dev.to/sukammoore/hello-world-f48)
-- [Gods of Forgotten World](https://dev.to/bibimbop123/gods-of-forgotten-world-42jm)
-- [Entity-Attribute-Value &lpar;EAV&rpar; Model](https://dev.to/dedawit/entity-attribute-value-eav-model-2ghg)
-- [Contract-First Integration: A Practical Guide for Developers](https://dev.to/wallaceespindola/contract-first-integration-a-practical-guide-for-developers-49nf)
-- [WordPress Theme from Lovable HTML in One Day](https://dev.to/vojtabiberle/wordpress-theme-from-lovable-html-in-one-day-576p)
+- [Measure Twice, Prompt Once](https://dev.to/choutos/measure-twice-prompt-once-3fi4)
+- [Dependency Injection In Litestar | Building APIs with Litestar #7](https://dev.to/jod35/dependency-injection-in-litestar-building-apis-with-litestar-7-1eak)
+- [RepoSentry — AI Codebase Intelligence &lpar;Docs, Diagrams, Security, CI&rpar; built with Copilot CLI](https://dev.to/check__/reposentry-ai-codebase-intelligence-docs-diagrams-security-ci-built-with-copilot-cli-3ghm)
+- [The Tortoise and the Hare, Revisited](https://dev.to/itay-maman/the-tortoise-and-the-hare-revisited-4jc)
+- [How do robots dream?](https://dev.to/robin_haze/how-do-robots-dream-2af6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
