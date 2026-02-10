@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Сущности WordPress, свои поля и роль functions.php: нормальная модель данных без плагинов](https://dev.to/_vproger_/sushchnosti-wordpress-svoi-polia-i-rol-functionsphp-normalnaia-modiel-dannykh-biez-plaghinov-49ee)
-- [C# Speech Recording: A Detailed Guide to Implementing Voice Recording with the NAudio Library](https://dev.to/amonhu/c-speech-recording-a-detailed-guide-to-implementing-voice-recording-with-the-naudio-library-2eh)
-- [Stop Pretending You&#39;re Not Exhausted by AI — We All Are](https://dev.to/newsman/stop-pretending-youre-not-exhausted-by-ai-we-all-are-5blo)
-- [From Diagram to Code with Kiro CLI &amp; Claude Opus 4.6](https://dev.to/welcloud-io/from-diagram-to-code-with-kiro-cli-claude-opus-46-4n0l)
-- [Hibernate vs JPA: Two Names, One Persistent Confusion](https://dev.to/hirushi_nethmini_41168bb8/hibernate-vs-jpa-two-names-one-persistent-confusion-5cd1)
+- [Self-Hosted Deployment Tools Compared: Coolify, Dokploy, Kamal, Dokku, and Haloy](https://dev.to/ameistad/self-hosted-deployment-tools-compared-coolify-dokploy-kamal-dokku-and-haloy-2npd)
+- [Data Types in Java](https://dev.to/arun_kumar_98/data-types-in-java-5b41)
+- [From git pull to GitOps: How I Built a Production CI/CD Pipeline on a $12 DigitalOcean Droplet](https://dev.to/lfariaus/from-git-pull-to-gitops-how-i-built-a-production-cicd-pipeline-on-a-12-digitalocean-droplet-34gn)
+- [How to create a resource in Filament v5 | Laravel Personal Finance Dashboard](https://dev.to/maiobarbero/laravel-personal-finance-dashboard-add-filament-v5-resources-37lh)
+- [The Day I Learned Node.js “Timeouts” Don’t Mean What I Thought They Meant](https://dev.to/frozenblood/the-day-i-learned-nodejs-timeouts-dont-mean-what-i-thought-they-meant-558)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
