@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Yu Darvish&#39;s Pitching Evolution &lpar;2021-2025&rpar;: A Statcast Data Analysis&quot;](https://dev.to/yasumorishima/yu-darvishs-pitching-evolution-2021-2025-a-statcast-data-analysis-31i)
-- [Implementación de alarmas CloudWatch para EC2](https://dev.to/danna_devops/implementacion-de-alarmas-cloudwatch-para-ec2-31ak)
-- [Building a Semantic Search Engine with Hugging Face Transformers and MongoDB Atlas Vector Search](https://dev.to/mongodb/building-a-semantic-search-engine-with-hugging-face-transformers-and-mongodb-atlas-vector-search-4d2j)
-- [Hoisting in JavaScript](https://dev.to/ananya_mohanta_b44a988e76/hoisting-in-javascript-4nkh)
-- [OpenClaw Setup Guide: From Zero to AI Assistant in 10 Minutes](https://dev.to/yankoaleksandrov/openclaw-setup-guide-from-zero-to-ai-assistant-in-10-minutes-1md)
+- [Email Verification APIs Compared: 2026 Benchmark &lpar;With Real Pricing&rpar;](https://dev.to/jamessib/email-verification-apis-compared-2026-benchmark-with-real-pricing-381k)
+- [Xcode 26.3 : Use AI Agents from Cursor, Claude Code &amp; Beyond](https://dev.to/arshtechpro/xcode-263-use-ai-agents-from-cursor-claude-code-beyond-4dmi)
+- [Scaling crypto price feeds from 1 token to 10,000: architecture patterns that work in production](https://dev.to/donbagger/scaling-crypto-price-feeds-from-1-token-to-10000-architecture-patterns-that-work-in-production-4gm3)
+- [QA is dead 2005 vs 2015 vs 2025](https://dev.to/rmarinsky/qa-is-dead-2005-vs-2015-vs-2025-3la6)
+- [Reducing User-Side Deanonymization in Tor: Usage-Level Safety by Design](https://dev.to/hejhdiss/reducing-user-side-deanonymization-in-tor-usage-level-safety-by-design-ic8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
