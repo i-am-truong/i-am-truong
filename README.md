@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Heavy to Lightweight: Compressing Images in Expo for Better Performance](https://dev.to/angojay/from-heavy-to-lightweight-compressing-images-in-expo-for-better-performance-50fa)
-- [Agents That Build Agents — Building Autonomous Browsing with Claude Code](https://dev.to/viniciusdallacqua/agents-that-build-agents-building-autonomous-browsing-with-claude-code-pn5)
-- [155. Min Stack | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/155-min-stack-leetcode-top-interview-150-coding-questions-128b)
-- [Porting Claude Code&#39;s Agent Teams to OpenCode](https://dev.to/uenyioha/porting-claude-codes-agent-teams-to-opencode-4hol)
-- [I stopped switching image models mid-project - heres what actually worked](https://dev.to/gabrieal845/i-stopped-switching-image-models-mid-project-heres-what-actually-worked-1h03)
+- [I Built a Company Run Entirely by AI Agents. Here&#39;s How &lpar;and What Went Wrong&rpar;.](https://dev.to/nunc/i-built-a-company-run-entirely-by-ai-agents-heres-how-and-what-went-wrong-4hli)
+- [Compressing PDFs to 200KB using a simple client-side approach](https://dev.to/himanshu_sharma_8ae32731f/compressing-pdfs-to-200kb-using-a-simple-client-side-approach-2e7g)
+- [Python Typing vs. TypeScript](https://dev.to/idodav/python-typing-vs-typescript-5bhp)
+- [Build a Google Ads Competitor Intelligence Tool with Node.js](https://dev.to/olams/build-a-google-ads-competitor-intelligence-tool-with-nodejs-ol2)
+- [Build a Smart Email Classifier with Python and Hugging Face in 15 Minutes](https://dev.to/paul_robertson_e844997d2b/build-a-smart-email-classifier-with-python-and-hugging-face-in-15-minutes-35o6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
