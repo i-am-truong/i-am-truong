@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Como integrei testes de carga com K6, GitHub Actions e OpenTelemetry](https://dev.to/marcos_vile/como-integrei-testes-de-carga-com-k6-github-actions-e-opentelemetry-23eh)
-- [Constructor](https://dev.to/nanthini_ammu_ac02ad32802/constructor-4a8o)
-- [Everything You Need to Know About AWS for Your First Developer Job](https://dev.to/aws/everything-you-need-to-know-about-aws-for-your-first-developer-job-52o2)
-- [Vibe Coding Is Dead. Welcome to Agentic Engineering.](https://dev.to/rakesh1002/vibe-coding-is-dead-welcome-to-agentic-engineering-26hp)
-- [How Performance Testing Improves Customer Experience](https://dev.to/henry_cavill_2c5b7adf481a/how-performance-testing-improves-customer-experience-2gb6)
+- [AI Surveillance Fails](https://dev.to/rawveg/ai-surveillance-fails-39b9)
+- [I Built a Free Dataset of 51M+ Companies and Their Tech Stacks &lpar;Daily Updates!&rpar;](https://dev.to/haynajjar/i-built-a-free-dataset-of-51m-companies-and-their-tech-stacks-daily-updates-g1i)
+- [Why React JS Is the Go-To Choice for Modern Web Development](https://dev.to/ciphernutz/why-react-js-is-the-go-to-choice-for-modern-web-development-1201)
+- [Advanced RedisVL Long-term Memory Tutorial: Using an LLM to Extract Memories](https://dev.to/qtalen/advanced-redisvl-long-term-memory-tutorial-using-an-llm-to-extract-memories-35kc)
+- [Why Date and Time Bugs Happen in JavaScript &lpar;And How Apps Actually Get It Right&rpar;](https://dev.to/nishchaldev/why-date-and-time-bugs-happen-in-javascript-and-how-apps-actually-get-it-right-hjh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
