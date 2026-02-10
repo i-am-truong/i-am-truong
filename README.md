@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Advancing AI benchmarking with Game Arena](https://dev.to/googleai/advancing-ai-benchmarking-with-game-arena-3nda)
-- [Understanding AWS Autoscaling with Grafana](https://dev.to/shireen/understanding-aws-autoscaling-with-grafana-gl8)
-- [**Optimizing Efficient Knowledge Graph Inference with Tempor](https://dev.to/drcarlosruizviquez/optimizing-efficient-knowledge-graph-inference-with-tempor-kpe)
-- [A Defense in Depth Approach to Cloud Security](https://dev.to/yaddah/a-defense-in-depth-approach-to-cloud-security-4078)
-- [UX/UI Typography](https://dev.to/samandarhodiev/uxui-typography-51je)
+- [First Test of Java on BeagleBoards &lpar;ARM and RISC-V&rpar;](https://dev.to/fdelporte/first-test-of-java-on-beagleboards-arm-and-risc-v-5d6l)
+- [I got tired of copying AI output between tools, so I built a system to keep context intact](https://dev.to/wyatt_miller/i-got-tired-of-copying-ai-output-between-tools-so-i-built-a-system-to-keep-context-intact-5dca)
+- [Beyond CRUD: Scaling APIs Without Losing Your Mind](https://dev.to/ronbodnar/beyond-crud-scaling-apis-without-losing-your-mind-3fdf)
+- [Best Programming Languages in 2026: A Curious Skeptic’s Take](https://dev.to/liamjohn122/best-programming-languages-in-2026-a-curious-skeptics-take-1a5l)
+- [Pare de Executar Toda a Sua Suite de Testes em Cada Commit 🚫🧪](https://dev.to/schirrel/pare-de-executar-toda-a-sua-suite-de-testes-em-cada-commit-1b56)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
