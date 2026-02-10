@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [terminal-escape-room — a tiny CLI escape room game &lpar;Python + Typer&rpar;](https://dev.to/sampo_shen_d115ded5962104/terminal-escape-room-a-tiny-cli-escape-room-game-python-typer-21k7)
-- [Mother CLAUDE: The Permission Effect - Why Your AI Won&#39;t Suggest Things &lpar;And How to Fix It&rpar;](https://dev.to/dorothyjb/mother-claude-the-permission-effect-why-your-ai-wont-suggest-things-and-how-to-fix-it-an5)
-- [Cursor vs Claude Code: Why I Switched After a $500 Bill](https://dev.to/akromdev/cursor-vs-claude-code-why-i-switched-after-a-500-bill-33jp)
-- [It Has Never Been This Easy to Build Gen AI Features in Java](https://dev.to/gde/it-has-never-been-this-easy-to-build-gen-ai-features-in-java-2995)
-- [Database Anatomy: 3 &#39;Aha!&#39; Moments from a Deep Dive 🤯](https://dev.to/ashwin_athappan_39545aa9f/database-anatomy-3-aha-moments-from-a-deep-dive-4o19)
+- [AI Models for Agentic Coding: When to Use Claude, Mistral, GPT, Gemini, or LLaMA](https://dev.to/soumia_g_9dc322fc4404cecd/ai-models-for-agentic-coding-when-to-use-claude-mistral-gpt-gemini-or-llama-3jen)
+- [The Next &quot;Programming Language&quot; Is a Team of Agents: A 1-Hour Crash Course](https://dev.to/soumia_g_9dc322fc4404cecd/the-next-programming-language-is-a-team-of-agents-a-1-hour-crash-course-2e2k)
+- [I’m in a Room Full of People Smarter Than Me — Here’s What They Actually Talk About](https://dev.to/camb/im-in-a-room-full-of-people-smarter-than-me-heres-what-they-actually-talk-about-3flh)
+- [Claude Prompt Leaks via Tool Abuse: Expert Blueprint to Secure AI Tooling in 2026](https://dev.to/delafosse_olivier_f47ff53/claude-prompt-leaks-via-tool-abuse-expert-blueprint-to-secure-ai-tooling-in-2026-3fia)
+- [Silent Degradation in LLM Systems: Detecting When Your AI Quietly Gets Worse](https://dev.to/delafosse_olivier_f47ff53/silent-degradation-in-llm-systems-detecting-when-your-ai-quietly-gets-worse-4gdm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
