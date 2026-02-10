@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-43cc)
-- [Your Screenshot Automation Is Bloating Your Git Repo](https://dev.to/omachala/your-screenshot-automation-is-bloating-your-git-repo-3lgc)
-- [DavosWeb3 2026: Voices Shaping Ethical Web3 &amp; AI Innovation](https://dev.to/droomdroom/davosweb3-2026-voices-shaping-ethical-web3-ai-innovation-563n)
-- [Annotate Your Screenshots Without Photoshop](https://dev.to/omachala/annotate-your-screenshots-without-photoshop-91d)
-- [Stop Wasting Time on Dev Tooling Setup: Meet dev-forge](https://dev.to/vinesh_eg_e429ec230997bf0/stop-wasting-time-on-dev-tooling-setup-meet-dev-forge-2jkj)
+- [&quot;Yu Darvish&#39;s Pitching Evolution &lpar;2021-2025&rpar;: A Statcast Data Analysis&quot;](https://dev.to/yasumorishima/yu-darvishs-pitching-evolution-2021-2025-a-statcast-data-analysis-31i)
+- [Implementación de alarmas CloudWatch para EC2](https://dev.to/danna_devops/implementacion-de-alarmas-cloudwatch-para-ec2-31ak)
+- [Building a Semantic Search Engine with Hugging Face Transformers and MongoDB Atlas Vector Search](https://dev.to/mongodb/building-a-semantic-search-engine-with-hugging-face-transformers-and-mongodb-atlas-vector-search-4d2j)
+- [Hoisting in JavaScript](https://dev.to/ananya_mohanta_b44a988e76/hoisting-in-javascript-4nkh)
+- [OpenClaw Setup Guide: From Zero to AI Assistant in 10 Minutes](https://dev.to/yankoaleksandrov/openclaw-setup-guide-from-zero-to-ai-assistant-in-10-minutes-1md)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
