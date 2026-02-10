@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Self-Hosted Deployment Tools Compared: Coolify, Dokploy, Kamal, Dokku, and Haloy](https://dev.to/ameistad/self-hosted-deployment-tools-compared-coolify-dokploy-kamal-dokku-and-haloy-2npd)
-- [Data Types in Java](https://dev.to/arun_kumar_98/data-types-in-java-5b41)
-- [From git pull to GitOps: How I Built a Production CI/CD Pipeline on a $12 DigitalOcean Droplet](https://dev.to/lfariaus/from-git-pull-to-gitops-how-i-built-a-production-cicd-pipeline-on-a-12-digitalocean-droplet-34gn)
-- [How to create a resource in Filament v5 | Laravel Personal Finance Dashboard](https://dev.to/maiobarbero/laravel-personal-finance-dashboard-add-filament-v5-resources-37lh)
-- [The Day I Learned Node.js “Timeouts” Don’t Mean What I Thought They Meant](https://dev.to/frozenblood/the-day-i-learned-nodejs-timeouts-dont-mean-what-i-thought-they-meant-558)
+- [Google SERP API for Competitor Analysis: A Step-by-Step Guide](https://dev.to/contentdrafts145/google-serp-api-for-competitor-analysis-a-step-by-step-guide-pb6)
+- [Angular Addicts #46: Angular 21.1, Skills, Signal Forms &amp; more](https://dev.to/playfulprogramming/angular-addicts-46-angular-211-skills-signal-forms-more-7bf)
+- [Building a Multi-Year Battery Life IoT Data Logger: A Deep Dive into Ultra-Low-Power Design](https://dev.to/norvi_controllers/building-a-multi-year-battery-life-iot-data-logger-a-deep-dive-into-ultra-low-power-design-47gg)
+- [How to Integrate Slack with ServerAvatar](https://dev.to/serveravatar/how-to-integrate-slack-with-serveravatar-4nhi)
+- [Liferay Commerce Performance: How We Scaled to 100k+ SKU Imports &lpar;Without Crashing the JVM&rpar;](https://dev.to/nirvana_lab/liferay-commerce-performance-how-we-scaled-to-100k-sku-imports-without-crashing-the-jvm-4lnj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
