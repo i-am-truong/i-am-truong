@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Value Receivers vs Pointer Receivers in Go &lpar;A Practical Explanation&rpar;](https://dev.to/shivamjha2436/value-receivers-vs-pointer-receivers-in-go-a-practical-explanation-57j3)
-- [Building EarnScreen: Turning Screen Time from Waiting Game into Opportunity](https://dev.to/libar/building-earnscreen-turning-screen-time-from-waiting-game-into-opportunity-1jdh)
-- [Architecting Guardrails and Validation Layers in Generative AI Systems](https://dev.to/shreekansha97/architecting-guardrails-and-validation-layers-in-generative-ai-systems-5c1c)
-- [From Non-Profit Ops Manager to Building Neural Networks: Week 1](https://dev.to/jemhrice/from-non-profit-ops-manager-to-building-neural-networks-week-1-3b82)
-- [Amazon Virtual Private Cloud &lpar;VPC&rpar;](https://dev.to/softwarejutsu/amazon-virtual-private-cloud-vpc-3996)
+- [Сущности WordPress, свои поля и роль functions.php: нормальная модель данных без плагинов](https://dev.to/_vproger_/sushchnosti-wordpress-svoi-polia-i-rol-functionsphp-normalnaia-modiel-dannykh-biez-plaghinov-49ee)
+- [C# Speech Recording: A Detailed Guide to Implementing Voice Recording with the NAudio Library](https://dev.to/amonhu/c-speech-recording-a-detailed-guide-to-implementing-voice-recording-with-the-naudio-library-2eh)
+- [Stop Pretending You&#39;re Not Exhausted by AI — We All Are](https://dev.to/newsman/stop-pretending-youre-not-exhausted-by-ai-we-all-are-5blo)
+- [From Diagram to Code with Kiro CLI &amp; Claude Opus 4.6](https://dev.to/welcloud-io/from-diagram-to-code-with-kiro-cli-claude-opus-46-4n0l)
+- [Hibernate vs JPA: Two Names, One Persistent Confusion](https://dev.to/hirushi_nethmini_41168bb8/hibernate-vs-jpa-two-names-one-persistent-confusion-5cd1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
