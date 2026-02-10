@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [First Test of Java on BeagleBoards &lpar;ARM and RISC-V&rpar;](https://dev.to/fdelporte/first-test-of-java-on-beagleboards-arm-and-risc-v-5d6l)
-- [I got tired of copying AI output between tools, so I built a system to keep context intact](https://dev.to/wyatt_miller/i-got-tired-of-copying-ai-output-between-tools-so-i-built-a-system-to-keep-context-intact-5dca)
-- [Beyond CRUD: Scaling APIs Without Losing Your Mind](https://dev.to/ronbodnar/beyond-crud-scaling-apis-without-losing-your-mind-3fdf)
-- [Best Programming Languages in 2026: A Curious Skeptic’s Take](https://dev.to/liamjohn122/best-programming-languages-in-2026-a-curious-skeptics-take-1a5l)
-- [Pare de Executar Toda a Sua Suite de Testes em Cada Commit 🚫🧪](https://dev.to/schirrel/pare-de-executar-toda-a-sua-suite-de-testes-em-cada-commit-1b56)
+- [Hello World](https://dev.to/sukammoore/hello-world-f48)
+- [Gods of Forgotten World](https://dev.to/bibimbop123/gods-of-forgotten-world-42jm)
+- [Entity-Attribute-Value &lpar;EAV&rpar; Model](https://dev.to/dedawit/entity-attribute-value-eav-model-2ghg)
+- [Contract-First Integration: A Practical Guide for Developers](https://dev.to/wallaceespindola/contract-first-integration-a-practical-guide-for-developers-49nf)
+- [WordPress Theme from Lovable HTML in One Day](https://dev.to/vojtabiberle/wordpress-theme-from-lovable-html-in-one-day-576p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
