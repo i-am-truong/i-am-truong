@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Accelerating Code Quality at Scale with FloTorch Blueprints](https://dev.to/adi_budithi_d330b41b1bdb2/accelerating-code-quality-at-scale-with-flotorch-blueprints-2nmf)
-- [Email Verification APIs Compared: 2026 Benchmark &lpar;With Real Pricing&rpar;](https://dev.to/jamessib/email-verification-apis-compared-2026-benchmark-with-real-pricing-34kn)
-- [How to Build and Test iOS Apps on a Physical Phone: Expo EAS and Apple TestFlight &lpar;Part 1/3&rpar;](https://dev.to/cathylai/how-to-build-and-test-ios-apps-on-a-physical-phone-expo-eas-and-apple-testflight-part-13-357o)
-- [A dev coding setup in 2026](https://dev.to/jairo-dev-jr/a-dev-coding-setup-in-2026-2apm)
-- [I Built a $9/mo Uptime Monitor in a Day — Here&#39;s What I Learned](https://dev.to/daviddaadams/i-built-a-9mo-uptime-monitor-in-a-day-heres-what-i-learned-3k7d)
+- [Microsoft Has Killed Widgets Six Times. Here&#39;s Why They Keep Coming Back.](https://dev.to/xakpc/microsoft-has-killed-widgets-six-timesheres-why-they-keep-coming-back-394g)
+- [How to secure your firebase app](https://dev.to/getarchitect/how-to-secure-your-firebase-app-4h0c)
+- [Chrome’s WebMCP Early Preview: the end of “AI agents clicking buttons”](https://dev.to/axrisi/chromes-webmcp-early-preview-the-end-of-ai-agents-clicking-buttons-b6e)
+- [Fiz engenharia reversa de sistemas ATS e descobri por que seu currículo nunca passa da triagem automática](https://dev.to/caique_gaspar/fiz-engenharia-reversa-de-sistemas-ats-e-descobri-por-que-seu-curriculo-nunca-passa-da-triagem-4584)
+- [Modern JavaScript Features You&#39;re Still Not Using &lpar;But Should&rpar; 🐍](https://dev.to/thebitforge/modern-javascript-features-youre-still-not-using-but-should-3925)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
