@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Robust Classifier with Stacked Generalization](https://dev.to/ddebajyati/building-a-robust-classifier-with-stacked-generalization-5flk)
-- [#2 - Going to second base: know your boundaries](https://dev.to/benjaminsavoy/2-going-to-second-base-know-your-boundaries-4ea7)
-- [Hi developers👋 I’m the founder of Creativity Coder](https://dev.to/creativity_coder_2a6c5d6f/hi-developers-im-the-founder-of-creativity-coder-4bo)
-- [Build Your First AI-Powered Todo App: React + OpenAI Complete Tutorial](https://dev.to/paul_robertson_e844997d2b/build-your-first-ai-powered-todo-app-react-openai-complete-tutorial-3bam)
-- [What Event Sourcing Taught Us About Building Resilient Delivery Systems](https://dev.to/natarajsundar/what-event-sourcing-taught-us-about-building-resilient-delivery-systems-4mmc)
+- [Advancing AI benchmarking with Game Arena](https://dev.to/googleai/advancing-ai-benchmarking-with-game-arena-3nda)
+- [Understanding AWS Autoscaling with Grafana](https://dev.to/shireen/understanding-aws-autoscaling-with-grafana-gl8)
+- [**Optimizing Efficient Knowledge Graph Inference with Tempor](https://dev.to/drcarlosruizviquez/optimizing-efficient-knowledge-graph-inference-with-tempor-kpe)
+- [A Defense in Depth Approach to Cloud Security](https://dev.to/yaddah/a-defense-in-depth-approach-to-cloud-security-4078)
+- [UX/UI Typography](https://dev.to/samandarhodiev/uxui-typography-51je)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
