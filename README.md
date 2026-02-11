@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [WinClaw: I Built an Open-Source AI Assistant That Connects to All Your Messaging Apps](https://dev.to/winclawdev/winclaw-i-built-an-open-source-ai-assistant-that-connects-to-all-your-messaging-apps-a0)
-- [Building a Production RAG Server with Ollama, Open WebUI and Chroma DB](https://dev.to/chribonn/building-a-production-rag-server-with-ollama-open-webui-and-chroma-db-3h3o)
-- [The Git Problem That Stalks 87% of Developers](https://dev.to/vasughanta09/the-git-problem-that-stalks-87-of-developers-57gk)
-- [The Engineer as a Decision Maker, Not a Developer](https://dev.to/msnmongare/the-engineer-as-a-decision-maker-not-a-developer-lid)
-- [How to build a Voice-to-Text App with Laravel AI SDK](https://dev.to/maiobarbero/how-to-build-a-voice-to-text-app-with-laravel-ai-sdk-1ida)
+- [Removing Third-Party Dependencies Made My Status Page Faster &lpar;Here’s How&rpar;](https://dev.to/dragstor/removing-third-party-dependencies-made-my-status-page-faster-heres-how-4a17)
+- [I replaced 140 custom analytics events with 5 lines of code. Here&#39;s what I learned](https://dev.to/alexxora/i-replaced-140-custom-analytics-events-with-5-lines-of-code-heres-what-i-learned-25nd)
+- [I’m 14 and I built CYBRLY – My Platform for Making Custom Projects](https://dev.to/abir_biswas_034342d27349b/im-14-and-i-built-cybrly-my-platform-for-making-custom-projects-4jc2)
+- [Why Beginners Should Learn Programming by Running Code &lpar;Not Installing Tools&rpar;](https://dev.to/pawanchaukiyal/why-beginners-should-learn-programming-by-running-code-not-installing-tools-373e)
+- [Encapsulation, Inheritance, and Polymorphism in C#](https://dev.to/allcoderthings/encapsulation-inheritance-and-polymorphism-in-c-1m8j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
