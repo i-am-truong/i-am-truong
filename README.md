@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Happy women in STEM day!! &lt;3](https://dev.to/shlokaguptaa/happy-women-in-stem-day-3-2115)
+- [Building a Congressional Satire Site with Astro 5, Tailwind CSS v4, and Cloudflare Pages](https://dev.to/absurdityindex/building-a-congressional-satire-site-with-astro-5-tailwind-css-v4-and-cloudflare-pages-3hoe)
+- [Building My First AI Agent](https://dev.to/lexingdailylife/building-my-first-ai-agent-lca)
+- [What’s Actually Making Your LLM Costs Skyrocket?](https://dev.to/clickit_devops/whats-actually-making-your-llm-costs-skyrocket-3039)
+- [Why Monoliths Make Sense for MVPs](https://dev.to/theminimalcreator/why-monoliths-make-sense-for-mvps-4b0e)
 - [Two Ways to Move Tensors Without Stopping: Inside vLLM&#39;s Async GPU Transfer Patterns](https://dev.to/mketkar/two-ways-to-move-tensors-without-stopping-inside-vllms-async-gpu-transfer-patterns-dk7)
-- [¿Es su arquitectura una bomba de tiempo? El Mapa Secreto para el Éxito en la Nube con AWS](https://dev.to/franciscojeg78/es-su-arquitectura-una-bomba-de-tiempo-el-mapa-secreto-para-el-exito-en-la-nube-con-aws-i2n)
-- [Your Coding Agent Doesn&#39;t Need a Bigger Context Window. It Needs Coworkers.](https://dev.to/_a3bbad10ef970ace62034/your-coding-agent-doesnt-need-a-bigger-context-window-it-needs-coworkers-5016)
-- [How to Implement Pause and Resume for Large File Uploads in React Using Filestack](https://dev.to/ideradevtools/how-to-implement-pause-and-resume-for-large-file-uploads-in-react-using-filestack-5dp1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
