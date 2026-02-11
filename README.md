@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Bop bop bop!](https://dev.to/bibimbop123/bop-bop-bop-3190)
-- [Včelařská aplikace Hexon](https://dev.to/daniel_sima/vcelarska-aplikace-hexon-31ha)
-- [How Constraints Make Automation Safer](https://dev.to/automationsystemslab/how-constraints-make-automation-safer-1mjn)
-- [Vigil — An Open-Source Dependency Vulnerability Scanner](https://dev.to/zerogru/vigil-an-open-source-dependency-vulnerability-scanner-5a3i)
-- [Kubernetes Ingress Controllers &lpar;Nginx, Traefik&rpar;](https://dev.to/godofgeeks/kubernetes-ingress-controllers-nginx-traefik-5ce1)
+- [WinClaw: I Built an Open-Source AI Assistant That Connects to All Your Messaging Apps](https://dev.to/winclawdev/winclaw-i-built-an-open-source-ai-assistant-that-connects-to-all-your-messaging-apps-a0)
+- [Building a Production RAG Server with Ollama, Open WebUI and Chroma DB](https://dev.to/chribonn/building-a-production-rag-server-with-ollama-open-webui-and-chroma-db-3h3o)
+- [The Git Problem That Stalks 87% of Developers](https://dev.to/vasughanta09/the-git-problem-that-stalks-87-of-developers-57gk)
+- [The Engineer as a Decision Maker, Not a Developer](https://dev.to/msnmongare/the-engineer-as-a-decision-maker-not-a-developer-lid)
+- [How to build a Voice-to-Text App with Laravel AI SDK](https://dev.to/maiobarbero/how-to-build-a-voice-to-text-app-with-laravel-ai-sdk-1ida)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
