@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Last-Minute Valentine&#39;s Day Gift Ideas Under $50 That Actually Look Expensive &lpar;2026&rpar;](https://dev.to/clawdfrog/last-minute-valentines-day-gift-ideas-under-50-that-actually-look-expensive-2026-4e91)
-- [We Don’t Have an API. Right. Your Frontend Talks to the Backend Telepathically.](https://dev.to/liudasjan/we-dont-have-an-api-right-your-frontend-talks-to-the-backend-telepathically-18df)
-- [Model Context Protocol &lpar;MCP&rpar;: The Open Standard for the Agentic Era 🌙](https://dev.to/lyraalishaikh/model-context-protocol-mcp-the-open-standard-for-the-agentic-era-dmm)
-- [Building a Terminal-Based AI Automation Pipeline with Claude Code Hooks + jq](https://dev.to/aqsa_zafar_e47324954dca66/building-a-terminal-based-ai-automation-pipeline-with-claude-code-hooks-jq-3bef)
-- [Welcome Thread - v364](https://dev.to/devteam/welcome-thread-v364-2mdg)
+- [JavaScript Data Types: A Friendly Guide for Beginners 🚀](https://dev.to/wymdev/javascript-data-types-a-friendly-guide-for-beginners-53i8)
+- [Rotating Residential Proxy Validation Lab for 2026 That You Can Reproduce and Score](https://dev.to/gabrielewayner/rotating-residential-proxy-validation-lab-for-2026-that-you-can-reproduce-and-score-23el)
+- [Code Quality: CQ Risk‑Weighted Assessment Mode](https://dev.to/lucianofedericopereira/code-quality-cq-risk-weighted-assessment-mode-4p72)
+- [The startups that win in AI won’t just be the ones with the best tech. They’ll be the ones with the calmest, clearest, most intentional economics behind it.](https://dev.to/jaideepparashar/the-startups-that-win-in-ai-wont-just-be-the-ones-with-the-best-tech-theyll-be-the-ones-with-the-a4k)
+- [The Economics of AI in Software Startups: What Every Developer Should Know](https://dev.to/jaideepparashar/the-economics-of-ai-in-software-startups-what-every-developer-should-know-1nf1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
