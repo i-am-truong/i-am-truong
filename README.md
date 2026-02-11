@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [DevOps From Scratch: Entry #03](https://dev.to/maame-codes/devops-from-scratch-entry-03-cie)
-- [Mastering Reactive Programming in Modern Mobile Development](https://dev.to/meet_patel_b41bbf81ec83f2/mastering-reactive-programming-in-modern-mobile-development-56bm)
-- [From Side Project to Product: How ClawHosters Became a Real SaaS](https://dev.to/yixn_io/from-side-project-to-product-how-clawhosters-became-a-real-saas-4n5h)
-- [Solved: What in the world would you call this…?](https://dev.to/techresolve/solved-what-in-the-world-would-you-call-this-16f3)
-- [Janee Setup Guide: Secure API Key Management for OpenClaw, Claude, and Other AI Agents](https://dev.to/rsdouglas/janee-setup-guide-secure-api-key-management-for-openclaw-claude-and-other-ai-agents-49h4)
+- [Bop bop bop!](https://dev.to/bibimbop123/bop-bop-bop-3190)
+- [Včelařská aplikace Hexon](https://dev.to/daniel_sima/vcelarska-aplikace-hexon-31ha)
+- [How Constraints Make Automation Safer](https://dev.to/automationsystemslab/how-constraints-make-automation-safer-1mjn)
+- [Vigil — An Open-Source Dependency Vulnerability Scanner](https://dev.to/zerogru/vigil-an-open-source-dependency-vulnerability-scanner-5a3i)
+- [Kubernetes Ingress Controllers &lpar;Nginx, Traefik&rpar;](https://dev.to/godofgeeks/kubernetes-ingress-controllers-nginx-traefik-5ce1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
