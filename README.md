@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Email OSINT: How to Investigate Any Email Address](https://dev.to/kylebrennan_dev/email-osint-how-to-investigate-any-email-address-35ph)
-- [CVE-2026-2249: The Open Door Policy: Unauthenticated RCE in METIS DFS](https://dev.to/cverports/cve-2026-2249-the-open-door-policy-unauthenticated-rce-in-metis-dfs-1di3)
-- [Introducing Mapbox Agent Skills](https://dev.to/mapbox/introducing-mapbox-agent-skills-1k19)
-- [Moltbook proved AI agents can talk. But can they agree?](https://dev.to/onemindlife/moltbook-proved-ai-agents-can-talk-but-can-they-agree-3co9)
-- [The Pomodoro Technique: A Complete Guide to Focused Work](https://dev.to/brainrash_edu/the-pomodoro-technique-a-complete-guide-to-focused-work-4lhp)
+- [5 Powerful Tips to Generate Better Code with AI](https://dev.to/moderncpp/5-powerful-tips-to-generate-better-code-with-ai-55eg)
+- [Downdetector vs API Status Check: Which Service Do You Need?](https://dev.to/shibley/downdetector-vs-api-status-check-which-service-do-you-need-19da)
+- [Hello Guys let&#39;s talk about how AI can increase your knowledge and not just making things for you ?](https://dev.to/jairo-dev-jr/hello-guys-lets-talk-about-how-ai-can-increase-your-knowledge-and-not-just-making-things-for-you--e5g)
+- [Ai Helped Me to Configure a Load Balancer in Google](https://dev.to/jairo-dev-jr/ai-helped-me-to-configure-a-load-balancer-in-google-4l91)
+- [GHSA-7PPG-37FH-VCR6: Vector Injection? No, Just Regular Injection: Milvus Critical Auth Bypass](https://dev.to/cverports/ghsa-7ppg-37fh-vcr6-vector-injection-no-just-regular-injection-milvus-critical-auth-bypass-1ml9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
