@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CVE-2026-25935: Vikunja XSS: When &#39;Just Looking&#39; Gets You Pwned](https://dev.to/cverports/cve-2026-25935-vikunja-xss-when-just-looking-gets-you-pwned-afj)
-- [How to Build a Telegram Bot That Feels Like a Real Friend &lpar;Not a Chatbot&rpar;](https://dev.to/reeddev42/how-to-build-a-telegram-bot-that-feels-like-a-real-friend-not-a-chatbot-33k8)
-- [Burnout, Rust, and the Feruchemy Problem](https://dev.to/fern_d3v/burnout-rust-and-the-feruchemy-problem-52f4)
-- [DeepSeek R1 on Localhost: Building a Private Coding Assistant for $0](https://dev.to/james_miller_8dc58a89cb9e/deepseek-r1-on-localhost-building-a-private-coding-assistant-for-0-ch4)
-- [Conversational Development With Claude Code — Part 7: Designing Sub‑Agents for Planning &lpar;Meet **@architect**&rpar;](https://dev.to/cristiansifuentes/conversational-development-with-claude-code-part-7-designing-sub-agents-for-planning-meet-1nlk)
+- [What do I need to focus on?](https://dev.to/pepperparaytech-2001/what-do-i-need-to-focus-on-44eb)
+- [The people spoke. We listened. You can now copy JSON from fknjsn.](https://dev.to/jon_za/the-people-spoke-we-listened-you-can-now-copy-json-from-fknjsn-3cca)
+- [Is ChatGPT Down? How to Check OpenAI API Status in Real-Time](https://dev.to/shibley/is-chatgpt-down-how-to-check-openai-api-status-in-real-time-48ei)
+- [Running One Docker Container Per User on a $35/Month Server](https://dev.to/reeddev42/running-one-docker-container-per-user-on-a-35month-server-51hh)
+- [I Built an AI That Texts You First: Solving the Cold Start Problem in AI Companions](https://dev.to/reeddev42/i-built-an-ai-that-texts-you-first-solving-the-cold-start-problem-in-ai-companions-33f8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
