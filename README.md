@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What is wrong with LinkedIn in the age of AI](https://dev.to/omiossec/what-is-wrong-with-linkedin-in-the-age-of-ai-1pid)
-- [Build a Multimedia Player](https://dev.to/richardpascoe/build-a-multimedia-player-3g88)
-- [How I Write Laravel Code That Future-Me Can still Read.](https://dev.to/button99/how-i-write-laravel-code-that-future-me-can-still-read-2755)
-- [Javascript Question of the Day #15 [Talk::Overflow]](https://dev.to/valpetaltechlabs/javascript-question-of-the-day-15-talkoverflow-27p4)
-- [Ayudando a otros... Día 1: Generador de Entrenamientos Garmin desde Train2Go: Híbrido Regex + LLM](https://dev.to/mariaeu/ayudando-a-otros-dia-1-generador-de-entrenamientos-garmin-desde-train2go-hibrido-regex-llm-4po6)
+- [Positional Methods](https://dev.to/lizmat/positional-methods-439i)
+- [How to Set Up Google Analytics as a Claude Code Skill](https://dev.to/anthony_lee_63e96408d7573/how-to-set-up-google-analytics-as-a-claude-code-skill-1)
+- [CVE-2026-24300 | Azure Front Door Elevation of Privilege Vulnerability](https://dev.to/aakash_rahsi/cve-2026-24300-azure-front-door-elevation-of-privilege-vulnerability-4ll8)
+- [Why I built ctx_: the context switcher that actually gets DevOps work](https://dev.to/vlebo/why-i-built-ctx-the-context-switcher-that-actually-gets-devops-work-3059)
+- [Stop Paying for APIs: Build a 100% Local AI Auditor with Python &amp; Llama 3](https://dev.to/espfra95/beyond-basic-automation-building-a-web-analyzer-with-python-and-rag-2ecd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
