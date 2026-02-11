@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Removing Third-Party Dependencies Made My Status Page Faster &lpar;Here’s How&rpar;](https://dev.to/dragstor/removing-third-party-dependencies-made-my-status-page-faster-heres-how-4a17)
-- [I replaced 140 custom analytics events with 5 lines of code. Here&#39;s what I learned](https://dev.to/alexxora/i-replaced-140-custom-analytics-events-with-5-lines-of-code-heres-what-i-learned-25nd)
-- [I’m 14 and I built CYBRLY – My Platform for Making Custom Projects](https://dev.to/abir_biswas_034342d27349b/im-14-and-i-built-cybrly-my-platform-for-making-custom-projects-4jc2)
-- [Why Beginners Should Learn Programming by Running Code &lpar;Not Installing Tools&rpar;](https://dev.to/pawanchaukiyal/why-beginners-should-learn-programming-by-running-code-not-installing-tools-373e)
-- [Encapsulation, Inheritance, and Polymorphism in C#](https://dev.to/allcoderthings/encapsulation-inheritance-and-polymorphism-in-c-1m8j)
+- [What is wrong with LinkedIn in the age of AI](https://dev.to/omiossec/what-is-wrong-with-linkedin-in-the-age-of-ai-1pid)
+- [Build a Multimedia Player](https://dev.to/richardpascoe/build-a-multimedia-player-3g88)
+- [How I Write Laravel Code That Future-Me Can still Read.](https://dev.to/button99/how-i-write-laravel-code-that-future-me-can-still-read-2755)
+- [Javascript Question of the Day #15 [Talk::Overflow]](https://dev.to/valpetaltechlabs/javascript-question-of-the-day-15-talkoverflow-27p4)
+- [Ayudando a otros... Día 1: Generador de Entrenamientos Garmin desde Train2Go: Híbrido Regex + LLM](https://dev.to/mariaeu/ayudando-a-otros-dia-1-generador-de-entrenamientos-garmin-desde-train2go-hibrido-regex-llm-4po6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
