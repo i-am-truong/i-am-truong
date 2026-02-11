@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Models for Agentic Coding: When to Use Claude, Mistral, GPT, Gemini, or LLaMA](https://dev.to/soumia_g_9dc322fc4404cecd/ai-models-for-agentic-coding-when-to-use-claude-mistral-gpt-gemini-or-llama-3jen)
-- [The Next &quot;Programming Language&quot; Is a Team of Agents: A 1-Hour Crash Course](https://dev.to/soumia_g_9dc322fc4404cecd/the-next-programming-language-is-a-team-of-agents-a-1-hour-crash-course-2e2k)
-- [I’m in a Room Full of People Smarter Than Me — Here’s What They Actually Talk About](https://dev.to/camb/im-in-a-room-full-of-people-smarter-than-me-heres-what-they-actually-talk-about-3flh)
-- [Claude Prompt Leaks via Tool Abuse: Expert Blueprint to Secure AI Tooling in 2026](https://dev.to/delafosse_olivier_f47ff53/claude-prompt-leaks-via-tool-abuse-expert-blueprint-to-secure-ai-tooling-in-2026-3fia)
-- [Silent Degradation in LLM Systems: Detecting When Your AI Quietly Gets Worse](https://dev.to/delafosse_olivier_f47ff53/silent-degradation-in-llm-systems-detecting-when-your-ai-quietly-gets-worse-4gdm)
+- [Detecting Context-Sensitive Behavior in AI Models: A Deep Dive into StealthEval Implementation](https://dev.to/vishalmysore/detecting-context-sensitive-behavior-in-ai-models-a-deep-dive-into-stealtheval-implementation-1b99)
+- [Graph RAG and Agentic RAG: The Next Evolution of Retrieval](https://dev.to/soumia_g_9dc322fc4404cecd/graph-rag-and-agentic-rag-the-next-evolution-of-retrieval-587j)
+- [Forgetful - Memory for AI Agents - latest update](https://dev.to/scott_raisbeck_24ea5fbc1e/forgetful-memory-for-ai-agents-latest-update-14kp)
+- [RAG and Vector Databases: Should You Actually Care in 2026?](https://dev.to/soumia_g_9dc322fc4404cecd/rag-and-vector-databases-should-you-actually-care-in-2026-lll)
+- [The Origin of the Lettuce Project](https://dev.to/owaspblt/the-origin-of-the-lettuce-project-225n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
