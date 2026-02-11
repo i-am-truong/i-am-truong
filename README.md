@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Congressional Satire Site with Astro 5, Tailwind CSS v4, and Cloudflare Pages](https://dev.to/absurdityindex/building-a-congressional-satire-site-with-astro-5-tailwind-css-v4-and-cloudflare-pages-3hoe)
-- [Building My First AI Agent](https://dev.to/lexingdailylife/building-my-first-ai-agent-lca)
-- [What’s Actually Making Your LLM Costs Skyrocket?](https://dev.to/clickit_devops/whats-actually-making-your-llm-costs-skyrocket-3039)
-- [Why Monoliths Make Sense for MVPs](https://dev.to/theminimalcreator/why-monoliths-make-sense-for-mvps-4b0e)
-- [Two Ways to Move Tensors Without Stopping: Inside vLLM&#39;s Async GPU Transfer Patterns](https://dev.to/mketkar/two-ways-to-move-tensors-without-stopping-inside-vllms-async-gpu-transfer-patterns-dk7)
+- [Email OSINT: How to Investigate Any Email Address](https://dev.to/kylebrennan_dev/email-osint-how-to-investigate-any-email-address-35ph)
+- [CVE-2026-2249: The Open Door Policy: Unauthenticated RCE in METIS DFS](https://dev.to/cverports/cve-2026-2249-the-open-door-policy-unauthenticated-rce-in-metis-dfs-1di3)
+- [Introducing Mapbox Agent Skills](https://dev.to/mapbox/introducing-mapbox-agent-skills-1k19)
+- [Moltbook proved AI agents can talk. But can they agree?](https://dev.to/onemindlife/moltbook-proved-ai-agents-can-talk-but-can-they-agree-3co9)
+- [The Pomodoro Technique: A Complete Guide to Focused Work](https://dev.to/brainrash_edu/the-pomodoro-technique-a-complete-guide-to-focused-work-4lhp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
