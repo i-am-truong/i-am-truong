@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Positional Methods](https://dev.to/lizmat/positional-methods-439i)
-- [How to Set Up Google Analytics as a Claude Code Skill](https://dev.to/anthony_lee_63e96408d7573/how-to-set-up-google-analytics-as-a-claude-code-skill-1)
-- [CVE-2026-24300 | Azure Front Door Elevation of Privilege Vulnerability](https://dev.to/aakash_rahsi/cve-2026-24300-azure-front-door-elevation-of-privilege-vulnerability-4ll8)
-- [Why I built ctx_: the context switcher that actually gets DevOps work](https://dev.to/vlebo/why-i-built-ctx-the-context-switcher-that-actually-gets-devops-work-3059)
-- [Stop Paying for APIs: Build a 100% Local AI Auditor with Python &amp; Llama 3](https://dev.to/espfra95/beyond-basic-automation-building-a-web-analyzer-with-python-and-rag-2ecd)
+- [Would You Accept That a Thinking Model Is Better Than You at Your Craft?](https://dev.to/turtleand/would-you-accept-that-a-thinking-model-is-better-than-you-at-your-craft-2pi1)
+- [Building SEO Automation in .NET with SERankingSharp](https://dev.to/ranjancse/building-seo-automation-in-net-with-serankingsharp-4f5i)
+- [Python REST API Guide: Converting PDF Files to JPG Images](https://dev.to/shahzad_ashraf_5ea18e2b2d/python-rest-api-guide-converting-pdf-files-to-jpg-images-28hm)
+- [🧠 Programming Idioms — Common Code Patterns Across Languages](https://dev.to/ml318097/programming-idioms-common-code-patterns-across-languages-27ho)
+- [Demystifying Redux Toolkit: A Peek Under the Hood with Plain JavaScript](https://dev.to/krish_kakadiya_5f0eaf6342/demystifying-redux-toolkit-a-peek-under-the-hood-with-plain-javascript-378b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
