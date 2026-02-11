@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Data Types: A Friendly Guide for Beginners 🚀](https://dev.to/wymdev/javascript-data-types-a-friendly-guide-for-beginners-53i8)
-- [Rotating Residential Proxy Validation Lab for 2026 That You Can Reproduce and Score](https://dev.to/gabrielewayner/rotating-residential-proxy-validation-lab-for-2026-that-you-can-reproduce-and-score-23el)
-- [Code Quality: CQ Risk‑Weighted Assessment Mode](https://dev.to/lucianofedericopereira/code-quality-cq-risk-weighted-assessment-mode-4p72)
-- [The startups that win in AI won’t just be the ones with the best tech. They’ll be the ones with the calmest, clearest, most intentional economics behind it.](https://dev.to/jaideepparashar/the-startups-that-win-in-ai-wont-just-be-the-ones-with-the-best-tech-theyll-be-the-ones-with-the-a4k)
-- [The Economics of AI in Software Startups: What Every Developer Should Know](https://dev.to/jaideepparashar/the-economics-of-ai-in-software-startups-what-every-developer-should-know-1nf1)
+- [DevOps From Scratch: Entry #03](https://dev.to/maame-codes/devops-from-scratch-entry-03-cie)
+- [Mastering Reactive Programming in Modern Mobile Development](https://dev.to/meet_patel_b41bbf81ec83f2/mastering-reactive-programming-in-modern-mobile-development-56bm)
+- [From Side Project to Product: How ClawHosters Became a Real SaaS](https://dev.to/yixn_io/from-side-project-to-product-how-clawhosters-became-a-real-saas-4n5h)
+- [Solved: What in the world would you call this…?](https://dev.to/techresolve/solved-what-in-the-world-would-you-call-this-16f3)
+- [Janee Setup Guide: Secure API Key Management for OpenClaw, Claude, and Other AI Agents](https://dev.to/rsdouglas/janee-setup-guide-secure-api-key-management-for-openclaw-claude-and-other-ai-agents-49h4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
