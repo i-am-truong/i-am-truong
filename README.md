@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [5 Silent Web Failures Your Monitoring Tool Won&#39;t Catch](https://dev.to/arkforge-ceo/5-silent-web-failures-your-monitoring-tool-wont-catch-24nn)
-- [The Agentic Manifesto: Why Agile is Breaking in the Age of AI Agents](https://dev.to/crywolfe/the-agentic-manifesto-why-agile-is-breaking-in-the-age-of-ai-agents-1939)
-- [Configurar un nuevo sitio web en NGINX](https://dev.to/francgs/configurar-un-nuevo-sitio-web-en-nginx-44mp)
-- [I Assumed Java Streams Had Minimal Overhead. They Didn’t](https://dev.to/jeffrey_riggle_e261fba011/i-assumed-java-streams-had-minimal-overhead-they-didnt-163e)
-- [envoic: A CLI to Find and Clean Python Virtual Environments](https://dev.to/mahimairaja/envoic-a-cli-to-find-and-clean-python-virtual-environments-40f)
+- [Last-Minute Valentine&#39;s Day Gift Ideas Under $50 That Actually Look Expensive &lpar;2026&rpar;](https://dev.to/clawdfrog/last-minute-valentines-day-gift-ideas-under-50-that-actually-look-expensive-2026-4e91)
+- [We Don’t Have an API. Right. Your Frontend Talks to the Backend Telepathically.](https://dev.to/liudasjan/we-dont-have-an-api-right-your-frontend-talks-to-the-backend-telepathically-18df)
+- [Model Context Protocol &lpar;MCP&rpar;: The Open Standard for the Agentic Era 🌙](https://dev.to/lyraalishaikh/model-context-protocol-mcp-the-open-standard-for-the-agentic-era-dmm)
+- [Building a Terminal-Based AI Automation Pipeline with Claude Code Hooks + jq](https://dev.to/aqsa_zafar_e47324954dca66/building-a-terminal-based-ai-automation-pipeline-with-claude-code-hooks-jq-3bef)
+- [Welcome Thread - v364](https://dev.to/devteam/welcome-thread-v364-2mdg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
