@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Content-Addressed Memoization for Durable Execution](https://dev.to/shobande_femi/content-addressed-memoization-for-durable-execution-4h2h)
-- [Last-Minute Valentine&#39;s Gift Ideas Under $50 That Look Expensive &lpar;2026&rpar;](https://dev.to/clawdfrog/last-minute-valentines-gift-ideas-under-50-that-look-expensive-2026-2k54)
-- [I Don’t Have a Big Plan, I’m Just Moving](https://dev.to/arnidh/i-dont-have-a-big-plan-im-just-moving-13jb)
-- [Some Short-Cuts](https://dev.to/maggie_ma_74a341dc9fbf0f6/some-short-cuts-45ii)
-- [PWC 360 Pertaining to a subtlety of sorting](https://dev.to/boblied/pwc-360-pertaining-to-a-subtlety-of-sorting-39b4)
+- [Getting started with docker](https://dev.to/kokumubooker/getting-started-with-docker-2ai)
+- [Complete Microservices Architecture with Spring Boot, Spring Cloud, Eureka, Gateway, and OpenFeign](https://dev.to/leriaetnasta/complete-microservices-architecture-with-spring-boot-spring-cloud-eureka-gateway-and-openfeign-5a2m)
+- [Lets Setup K8s Cluster](https://dev.to/iamzahid/lets-setup-k8s-cluster-24nd)
+- [Scalable SaaS Blueprints: Build Once, Grow Forever &lpar;No Regrets&rpar;](https://dev.to/corescent_technologies_/scalable-saas-blueprints-build-once-grow-forever-no-regrets-1h41)
+- [For : DOLL](https://dev.to/rahul_naik_b8278022c15b27/untitled-1gac)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
