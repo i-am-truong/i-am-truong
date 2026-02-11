@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Tip #3: It&#39;s better if you annoy people with questions than with mistakes from not asking.](https://dev.to/canro91/tip-3-its-better-if-you-annoy-people-with-questions-than-with-mistakes-from-not-asking-27ck)
-- [Your SaaS on the Cloud? Cool Story, But Is It Cloud-Native? &lpar;Spoiler: Probably Not&rpar;](https://dev.to/corescent_technologies_/your-saas-on-the-cloud-cool-story-but-is-it-cloud-native-spoiler-probably-not-e3d)
-- [Vertex AI vs. AWS SageMaker &lpar;2026&rpar;: Which MLOps Giant Wins?](https://dev.to/tech_croc_f32fbb6ea8ed4/vertex-ai-vs-aws-sagemaker-2026-which-mlops-giant-wins-3mn0)
-- [How Top Android Apps Fly: Secrets to Speed, Scale, and That &quot;Wow&quot; User Magic](https://dev.to/corescent_technologies_/how-top-android-apps-fly-secrets-to-speed-scale-and-that-wow-user-magic-fa5)
-- [React Native offline sync with SQLite queue](https://dev.to/sathish_daggula/react-native-offline-sync-with-sqlite-queue-4975)
+- [Content-Addressed Memoization for Durable Execution](https://dev.to/shobande_femi/content-addressed-memoization-for-durable-execution-4h2h)
+- [Last-Minute Valentine&#39;s Gift Ideas Under $50 That Look Expensive &lpar;2026&rpar;](https://dev.to/clawdfrog/last-minute-valentines-gift-ideas-under-50-that-look-expensive-2026-2k54)
+- [I Don’t Have a Big Plan, I’m Just Moving](https://dev.to/arnidh/i-dont-have-a-big-plan-im-just-moving-13jb)
+- [Some Short-Cuts](https://dev.to/maggie_ma_74a341dc9fbf0f6/some-short-cuts-45ii)
+- [PWC 360 Pertaining to a subtlety of sorting](https://dev.to/boblied/pwc-360-pertaining-to-a-subtlety-of-sorting-39b4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
