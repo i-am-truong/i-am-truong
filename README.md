@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [5 Powerful Tips to Generate Better Code with AI](https://dev.to/moderncpp/5-powerful-tips-to-generate-better-code-with-ai-55eg)
-- [Downdetector vs API Status Check: Which Service Do You Need?](https://dev.to/shibley/downdetector-vs-api-status-check-which-service-do-you-need-19da)
-- [Hello Guys let&#39;s talk about how AI can increase your knowledge and not just making things for you ?](https://dev.to/jairo-dev-jr/hello-guys-lets-talk-about-how-ai-can-increase-your-knowledge-and-not-just-making-things-for-you--e5g)
-- [Ai Helped Me to Configure a Load Balancer in Google](https://dev.to/jairo-dev-jr/ai-helped-me-to-configure-a-load-balancer-in-google-4l91)
-- [GHSA-7PPG-37FH-VCR6: Vector Injection? No, Just Regular Injection: Milvus Critical Auth Bypass](https://dev.to/cverports/ghsa-7ppg-37fh-vcr6-vector-injection-no-just-regular-injection-milvus-critical-auth-bypass-1ml9)
+- [CVE-2026-25935: Vikunja XSS: When &#39;Just Looking&#39; Gets You Pwned](https://dev.to/cverports/cve-2026-25935-vikunja-xss-when-just-looking-gets-you-pwned-afj)
+- [How to Build a Telegram Bot That Feels Like a Real Friend &lpar;Not a Chatbot&rpar;](https://dev.to/reeddev42/how-to-build-a-telegram-bot-that-feels-like-a-real-friend-not-a-chatbot-33k8)
+- [Burnout, Rust, and the Feruchemy Problem](https://dev.to/fern_d3v/burnout-rust-and-the-feruchemy-problem-52f4)
+- [DeepSeek R1 on Localhost: Building a Private Coding Assistant for $0](https://dev.to/james_miller_8dc58a89cb9e/deepseek-r1-on-localhost-building-a-private-coding-assistant-for-0-ch4)
+- [Conversational Development With Claude Code — Part 7: Designing Sub‑Agents for Planning &lpar;Meet **@architect**&rpar;](https://dev.to/cristiansifuentes/conversational-development-with-claude-code-part-7-designing-sub-agents-for-planning-meet-1nlk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
