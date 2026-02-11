@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CVE-2019-25317: Time is Money, and XSS: Dissecting CVE-2019-25317 in Kimai 2](https://dev.to/cverports/cve-2019-25317-time-is-money-and-xss-dissecting-cve-2019-25317-in-kimai-2-4789)
-- [Reverse Image Search Mastery: Find Anyone From a Photo](https://dev.to/kylebrennan_dev/reverse-image-search-mastery-find-anyone-from-a-photo-3kid)
-- [The Loneliness Epidemic Is Real. I Am Building an AI That Just Listens.](https://dev.to/reeddev42/the-loneliness-epidemic-is-real-i-am-building-an-ai-that-just-listens-fid)
-- [10 SwiftUI Mistakes Every Beginner Makes &lpar;And How to Fix Them&rpar;](https://dev.to/__be2942592/10-swiftui-mistakes-every-beginner-makes-and-how-to-fix-them-4hia)
-- [CORS: The Traffic Guard You Actually Need &lpar;And How It Protects User Sessions&rpar;](https://dev.to/jeandevbr/cors-the-traffic-guard-you-actually-need-and-how-it-protects-user-sessions-4n33)
+- [Workspace-First Development: Why It Changes Everything](https://dev.to/rapidkit/workspace-first-development-why-it-changes-everything-kal)
+- [Choosing Between Array and Map in JavaScript](https://dev.to/ravdz/choosing-between-array-and-map-in-javascript-2bh8)
+- [Data-driven decision making using Power BI.](https://dev.to/juliet_kiplimo_b9a825c95a/data-driven-decision-making-using-power-bi-kba)
+- [5 Redis Patterns Every Developer Should Know](https://dev.to/jy2140251-wuxie/5-redis-patterns-every-developer-should-know-1e85)
+- [Optimizing the MongoDB Java Driver: How minor optimizations led to macro gains](https://dev.to/mongodb/optimizing-the-mongodb-java-driver-how-minor-optimizations-led-to-macro-gains-47af)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
