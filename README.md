@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Would You Accept That a Thinking Model Is Better Than You at Your Craft?](https://dev.to/turtleand/would-you-accept-that-a-thinking-model-is-better-than-you-at-your-craft-2pi1)
-- [Building SEO Automation in .NET with SERankingSharp](https://dev.to/ranjancse/building-seo-automation-in-net-with-serankingsharp-4f5i)
-- [Python REST API Guide: Converting PDF Files to JPG Images](https://dev.to/shahzad_ashraf_5ea18e2b2d/python-rest-api-guide-converting-pdf-files-to-jpg-images-28hm)
-- [🧠 Programming Idioms — Common Code Patterns Across Languages](https://dev.to/ml318097/programming-idioms-common-code-patterns-across-languages-27ho)
-- [Demystifying Redux Toolkit: A Peek Under the Hood with Plain JavaScript](https://dev.to/krish_kakadiya_5f0eaf6342/demystifying-redux-toolkit-a-peek-under-the-hood-with-plain-javascript-378b)
+- [A Hands-On Introduction to Restricted Boltzmann Machines with a Minimal NumPy Implementation](https://dev.to/kaityo256/a-hands-on-introduction-to-restricted-boltzmann-machines-with-a-minimal-numpy-implementation-1inp)
+- [How a subtle MCP server bug almost cost me $230 a month](https://dev.to/dennistraub/how-a-subtle-mcp-server-bug-almost-cost-me-230-a-month-2ngn)
+- [Bifrost vs Helicone: Choosing Between Two High-Performance LLM Gateways](https://dev.to/debmckinney/bifrost-vs-helicone-choosing-between-two-high-performance-llm-gateways-56l3)
+- [Fine-Tuning Isn’t Enough Anymore | Amazon Nova Forge Changes the Game](https://dev.to/shashankpandey04/fine-tuning-isnt-enough-anymore-amazon-nova-forge-changes-the-game-2kgc)
+- [How to Transform 3 Years of Thinking into Assets: Accelerate Feedback with Claude Cowork](https://dev.to/sho7650/how-to-transform-3-years-of-thinking-into-assets-accelerate-feedback-with-claude-cowork-kl0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
