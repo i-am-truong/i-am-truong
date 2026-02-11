@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Weekly Digest: Week of February 5-11, 2026](https://dev.to/alexmercedcoder/ai-weekly-digest-week-of-february-5-11-2026-4aog)
-- [Stop forgetting architectural decisions: make them executable](https://dev.to/dobrenteiistvan/stop-forgetting-architectural-decisions-make-them-executable-4hk6)
-- [A imagem one-click do OpenClaw já está disponível na LetsCloud](https://dev.to/letscloud/a-imagem-one-click-do-openclaw-ja-esta-disponivel-na-letscloud-145f)
-- [Prisma + MongoDB “Hello World”](https://dev.to/franckpachot/prisma-mongodb-hello-world-928)
-- [PAGI::Server, now with HTTP/2!](https://dev.to/jjn1056/pagiserver-now-with-http2-37gf)
+- [CVE-2019-25317: Time is Money, and XSS: Dissecting CVE-2019-25317 in Kimai 2](https://dev.to/cverports/cve-2019-25317-time-is-money-and-xss-dissecting-cve-2019-25317-in-kimai-2-4789)
+- [Reverse Image Search Mastery: Find Anyone From a Photo](https://dev.to/kylebrennan_dev/reverse-image-search-mastery-find-anyone-from-a-photo-3kid)
+- [The Loneliness Epidemic Is Real. I Am Building an AI That Just Listens.](https://dev.to/reeddev42/the-loneliness-epidemic-is-real-i-am-building-an-ai-that-just-listens-fid)
+- [10 SwiftUI Mistakes Every Beginner Makes &lpar;And How to Fix Them&rpar;](https://dev.to/__be2942592/10-swiftui-mistakes-every-beginner-makes-and-how-to-fix-them-4hia)
+- [CORS: The Traffic Guard You Actually Need &lpar;And How It Protects User Sessions&rpar;](https://dev.to/jeandevbr/cors-the-traffic-guard-you-actually-need-and-how-it-protects-user-sessions-4n33)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
