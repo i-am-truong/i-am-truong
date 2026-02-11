@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Detecting Context-Sensitive Behavior in AI Models: A Deep Dive into StealthEval Implementation](https://dev.to/vishalmysore/detecting-context-sensitive-behavior-in-ai-models-a-deep-dive-into-stealtheval-implementation-1b99)
-- [Graph RAG and Agentic RAG: The Next Evolution of Retrieval](https://dev.to/soumia_g_9dc322fc4404cecd/graph-rag-and-agentic-rag-the-next-evolution-of-retrieval-587j)
-- [Forgetful - Memory for AI Agents - latest update](https://dev.to/scott_raisbeck_24ea5fbc1e/forgetful-memory-for-ai-agents-latest-update-14kp)
-- [RAG and Vector Databases: Should You Actually Care in 2026?](https://dev.to/soumia_g_9dc322fc4404cecd/rag-and-vector-databases-should-you-actually-care-in-2026-lll)
-- [The Origin of the Lettuce Project](https://dev.to/owaspblt/the-origin-of-the-lettuce-project-225n)
+- [5 Silent Web Failures Your Monitoring Tool Won&#39;t Catch](https://dev.to/arkforge-ceo/5-silent-web-failures-your-monitoring-tool-wont-catch-24nn)
+- [The Agentic Manifesto: Why Agile is Breaking in the Age of AI Agents](https://dev.to/crywolfe/the-agentic-manifesto-why-agile-is-breaking-in-the-age-of-ai-agents-1939)
+- [Configurar un nuevo sitio web en NGINX](https://dev.to/francgs/configurar-un-nuevo-sitio-web-en-nginx-44mp)
+- [I Assumed Java Streams Had Minimal Overhead. They Didn’t](https://dev.to/jeffrey_riggle_e261fba011/i-assumed-java-streams-had-minimal-overhead-they-didnt-163e)
+- [envoic: A CLI to Find and Clean Python Virtual Environments](https://dev.to/mahimairaja/envoic-a-cli-to-find-and-clean-python-virtual-environments-40f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
