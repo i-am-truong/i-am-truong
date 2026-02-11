@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Hands-On Introduction to Restricted Boltzmann Machines with a Minimal NumPy Implementation](https://dev.to/kaityo256/a-hands-on-introduction-to-restricted-boltzmann-machines-with-a-minimal-numpy-implementation-1inp)
-- [How a subtle MCP server bug almost cost me $230 a month](https://dev.to/dennistraub/how-a-subtle-mcp-server-bug-almost-cost-me-230-a-month-2ngn)
-- [Bifrost vs Helicone: Choosing Between Two High-Performance LLM Gateways](https://dev.to/debmckinney/bifrost-vs-helicone-choosing-between-two-high-performance-llm-gateways-56l3)
-- [Fine-Tuning Isn’t Enough Anymore | Amazon Nova Forge Changes the Game](https://dev.to/shashankpandey04/fine-tuning-isnt-enough-anymore-amazon-nova-forge-changes-the-game-2kgc)
-- [How to Transform 3 Years of Thinking into Assets: Accelerate Feedback with Claude Cowork](https://dev.to/sho7650/how-to-transform-3-years-of-thinking-into-assets-accelerate-feedback-with-claude-cowork-kl0)
+- [Architecting Durable AI Agents: Solving the Volatile State Problem](https://dev.to/anna_chaykovskaya_9ad7aea/architecting-durable-ai-agents-solving-the-volatile-state-problem-59b6)
+- [Build an Instagram Highlights Archiver to Save Any Brand&#39;s Best Content](https://dev.to/olams/build-an-instagram-highlights-archiver-to-save-any-brands-best-content-559p)
+- [Building a WhatsApp Chat Exporter: From Concept to Production](https://dev.to/aryan_gupta_f051ad0b33aa8/building-a-whatsapp-chat-exporter-from-concept-to-production-4hic)
+- [The Odin Project: Learn Full-Stack Development for Free](https://dev.to/the-foundation/the-odin-project-learn-full-stack-development-for-free-3m8e)
+- [When I Hired Multiple Generative AIs as Subordinates, Parallel Development Processing Never Stopped](https://dev.to/sho7650/when-i-hired-multiple-generative-ais-as-subordinates-parallel-development-processing-never-stopped-390i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
