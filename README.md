@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Using emitter to implement hot start page jump](https://dev.to/harmonyos/using-emitter-to-implement-hot-start-page-jump-5e7)
-- [I Started Indie Development with AI — Building Was Easy, Selling Was 100x Harder](https://dev.to/_350df62777eb55e1/i-started-indie-development-with-ai-building-was-easy-selling-was-100x-harder-42kg)
-- [I built and launched a digital product in 48 hours for $4. Here&#39;s how I did it.](https://dev.to/assoflow/i-built-and-launched-a-digital-product-in-48-hours-for-4-heres-how-i-did-it-33hc)
-- [Why validation becomes unavoidable once AI sounds right](https://dev.to/leigh_k_valentine/why-validation-becomes-unavoidable-once-ai-sounds-right-1naf)
-- [KeyleSSH: A New PAM Concept for IT Admins](https://dev.to/tidefoundation/keylessh-a-pam-with-no-single-point-of-vulnerability-4n1h)
+- [Layoffs! Fellow employees, be prepared for the worst.](https://dev.to/shresth/layoffs-fellow-employees-be-prepared-for-the-worst-4mjo)
+- [Building Hybrid Search for RAG: Combining pgvector and Full-Text Search with Reciprocal Rank Fusion](https://dev.to/lpossamai/building-hybrid-search-for-rag-combining-pgvector-and-full-text-search-with-reciprocal-rank-fusion-6nk)
+- [I Built an AI Game Dev Toolkit &lpar;and Cut My Asset Creation Time by 70%&rpar;](https://dev.to/devdude_gamemaker_dba949b/i-built-an-ai-game-dev-toolkit-and-cut-my-asset-creation-time-by-70-2nci)
+- [[Prototype]Management Screen with LogArea](https://dev.to/obasho0613/prototypemanagement-screen-with-logarea-3pg7)
+- [Turned my Next.js blog SEO process into a simple publish checklist](https://dev.to/andresz74/turned-my-nextjs-blog-seo-process-into-a-simple-publish-checklist-493g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
