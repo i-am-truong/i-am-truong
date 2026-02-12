@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Built a Hybrid RAG API with FastAPI &amp; Ollama – Sparse + Dense retrieval in action.](https://dev.to/ashwani_garg_8070e0d05964/built-a-hybrid-rag-api-with-fastapi-ollama-sparse-dense-retrieval-in-action-21d2)
-- [Getting Started with Data Analysis Using Microsoft Excel &lpar;Beginner’s Guide&rpar;](https://dev.to/itsmunyalo/getting-started-with-data-analysis-using-microsoft-excel-beginners-guide-301a)
-- [🟢 Android HCE Deep Dive: ISO-DEP, APDU &amp; NFC Type 4 Tag Architecture &lpar;Part 1&rpar;](https://dev.to/sky1309/android-hce-deep-dive-iso-dep-apdu-nfc-type-4-tag-architecture-part-1-46ed)
-- [I Curated 106 Software Design Resources and Ranked What Actually Matters](https://dev.to/qdenka/i-curated-106-software-design-resources-and-ranked-what-actually-matters-5252)
-- [We are hiring!](https://dev.to/axpo/we-are-hiring-1n0n)
+- [How Parsifyx Processes 27 Document Formats Entirely in the Browser — No Server Required](https://dev.to/ashwin_singh_304bc222ecbe/how-parsifyx-processes-27-document-formats-entirely-in-the-browser-no-server-required-2ka9)
+- [AWS Secrets Manager Agent](https://dev.to/josephakayesi/aws-secrets-manager-agent-2hpg)
+- [TRC-20 Token Standard: A Complete Guide](https://dev.to/jenny_gupta_e7411d536a07a/trc-20-token-standard-a-complete-guide-2o0l)
+- [I Built a Website Cloner with AI Agents &lpar;And It&#39;s Kinda Scary Good&rpar;](https://dev.to/vadim7j7/i-built-a-website-cloner-with-ai-agents-and-its-kinda-scary-good-gb9)
+- [🚀 I Built a Full JSON Developer Tools Platform with Angular &lpar;And You Can Use the Source Code&rpar;](https://dev.to/mareeswaran_ponraj/i-built-a-full-json-developer-tools-platform-with-angular-and-you-can-use-the-source-code-314j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
