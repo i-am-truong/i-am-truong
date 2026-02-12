@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Show DEV: PardusDB – The &quot;SQLite of Vector DBs&quot; written in Rust](https://dev.to/jason_einstein_4ebad74d6d/show-dev-pardusdb-the-sqlite-of-vector-dbs-written-in-rust-3id3)
-- [Build a Spotify Music Time Machine with Python and OAuth 2.0](https://dev.to/simonoconnor/build-a-spotify-music-time-machine-with-python-and-oauth-20-kdo)
-- [How to Build a Production-Ready API Rate Limiter with Node.js and Redis](https://dev.to/mooh/how-to-build-a-production-ready-api-rate-limiter-with-nodejs-and-redis-15p7)
-- [Don&#39;t Let AI Make You Stupid](https://dev.to/mrmujo/dont-let-ai-make-you-stupid-28b6)
-- [Why You Should Stop Using AI for Coding](https://dev.to/mrakdon/why-you-should-stop-using-ai-for-coding-5aci)
+- [Geolocalização Performática com Postgres e PostGIS: Uma abordagem prática no projeto Photofy](https://dev.to/aristoteles_linsdasilva/geolocalizacao-performatica-com-postgres-e-postgis-uma-abordagem-pratica-no-projeto-photofy-4360)
+- [Swift: The Complete Guide to Error Handling in the Network Layer](https://dev.to/pavel_andreev_ios/swift-the-complete-guide-to-error-handling-in-the-network-layer-1n64)
+- [Associative Methods](https://dev.to/lizmat/associative-methods-2mcl)
+- [Why your company&#39;s JSP app isn&#39;t dead - it just needs Spring Boot](https://dev.to/therobustroast/why-your-companys-jsp-app-isnt-dead-it-just-needs-spring-boot-2fje)
+- [Unlocking the Hidden Power of Your Laptop’s GPU](https://dev.to/nisam/unlocking-the-hidden-power-of-your-laptops-gpu-20kc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
