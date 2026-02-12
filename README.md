@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What do I need to focus on?](https://dev.to/pepperparaytech-2001/what-do-i-need-to-focus-on-44eb)
-- [The people spoke. We listened. You can now copy JSON from fknjsn.](https://dev.to/jon_za/the-people-spoke-we-listened-you-can-now-copy-json-from-fknjsn-3cca)
-- [Is ChatGPT Down? How to Check OpenAI API Status in Real-Time](https://dev.to/shibley/is-chatgpt-down-how-to-check-openai-api-status-in-real-time-48ei)
-- [Running One Docker Container Per User on a $35/Month Server](https://dev.to/reeddev42/running-one-docker-container-per-user-on-a-35month-server-51hh)
-- [I Built an AI That Texts You First: Solving the Cold Start Problem in AI Companions](https://dev.to/reeddev42/i-built-an-ai-that-texts-you-first-solving-the-cold-start-problem-in-ai-companions-33f8)
+- [Using emitter to implement hot start page jump](https://dev.to/harmonyos/using-emitter-to-implement-hot-start-page-jump-5e7)
+- [I Started Indie Development with AI — Building Was Easy, Selling Was 100x Harder](https://dev.to/_350df62777eb55e1/i-started-indie-development-with-ai-building-was-easy-selling-was-100x-harder-42kg)
+- [I built and launched a digital product in 48 hours for $4. Here&#39;s how I did it.](https://dev.to/assoflow/i-built-and-launched-a-digital-product-in-48-hours-for-4-heres-how-i-did-it-33hc)
+- [Why validation becomes unavoidable once AI sounds right](https://dev.to/leigh_k_valentine/why-validation-becomes-unavoidable-once-ai-sounds-right-1naf)
+- [KeyleSSH: A New PAM Concept for IT Admins](https://dev.to/tidefoundation/keylessh-a-pam-with-no-single-point-of-vulnerability-4n1h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
