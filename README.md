@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What to Expect from Odoo 20: New Features, Industry Benefits &amp; Updates](https://dev.to/aspire-softserv/what-to-expect-from-odoo-20-new-features-industry-benefits-updates-3jbi)
-- [Building Plus Ultra: How Antigravity Helped Me Bring Material Design to Bulma CSS 🎨](https://dev.to/playfulprogramming/building-plus-ultra-how-antigravity-helped-me-bring-material-design-to-bulma-css-30m6)
-- [Deploy Your Phoenix Workspace to a Remote Server Using Railgun](https://dev.to/matrixswarm/deploy-your-phoenix-workspace-to-a-remote-server-using-railgun-38nh)
-- [Copilot Fun Mode — Play Games While Your AI Codes 🎮](https://dev.to/sirluky/copilot-fun-mode-play-games-while-your-ai-codes-2i0m)
-- [I Glued 2 of the Best AI Dev Frameworks Together](https://dev.to/lacow/i-glued-2-of-the-best-ai-dev-frameworks-together-2m0j)
+- [Let&#39;s build a Local Mail Server from Scratch with Postfix and Dovecot](https://dev.to/khripkooleg/lets-build-a-local-mail-server-from-scratch-with-postfix-and-dovecot-3gje)
+- [ConfDroid Puppet Modules - confdroid_resources](https://dev.to/12ww1160/confdroid-puppet-modules-confdroidresources-na6)
+- [Why I stopped trusting my own backup scripts &lpar;and built a SaaS instead&rpar;](https://dev.to/ivan_kovac_1800b4fe01b1b7/why-i-stopped-trusting-my-own-backup-scripts-and-built-a-saas-instead-5gdm)
+- [Duplicate “Follow” Button Text in User Profile Hover Card](https://dev.to/art_light/duplicate-follow-button-text-in-user-profile-hover-card-121)
+- [Use Copilot CLI to increase developer productivity](https://dev.to/sonu0702/use-copilot-cli-to-increase-developer-productivity-5207)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
