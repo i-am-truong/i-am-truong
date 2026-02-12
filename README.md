@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Best Free Retrospective Tools for 2026 🏆](https://dev.to/mattlewandowski93/best-free-retrospective-tools-for-2026-3lcb)
-- [The Hidden Cost of Slow Code Reviews: Data from 8 Million PRs](https://dev.to/vitalii_petrenko_dev/the-hidden-cost-of-slow-code-reviews-data-from-8-million-prs-5fei)
-- [Measuring SharePoint Intranet ROI: What We Learned After the Launch Applause Faded](https://dev.to/ngssolution23/measuring-sharepoint-intranet-roi-what-we-learned-after-the-launch-applause-faded-13b0)
-- [How caching helps in LLM Application?](https://dev.to/vansh_uttam/how-caching-helps-in-llm-application-1e2a)
-- [Geolocalização Performática com Postgres e PostGIS: Uma abordagem prática no projeto Photofy](https://dev.to/aristoteles_linsdasilva/geolocalizacao-performatica-com-postgres-e-postgis-uma-abordagem-pratica-no-projeto-photofy-4360)
+- [Image Classification with CNNs – Part 3: Understanding Max Pooling and Results](https://dev.to/rijultp/image-classification-with-cnns-part-3-understanding-max-pooling-and-results-787)
+- [Why Your AI Agents Shouldn&#39;t Have Your API Keys &lpar;And What to Do About It&rpar;](https://dev.to/lucamorettibuilds/why-your-ai-agents-shouldnt-have-your-api-keys-and-what-to-do-about-it-1a8n)
+- [I Built a Feedback Loop That Coaches LLMs at Runtime Using NumPy](https://dev.to/nelson_amaya_16872e58232b/i-built-a-feedback-loop-that-coaches-llms-at-runtime-using-numpy-2h0p)
+- [🏥 RepoDoctor - AI-Powered Repository Health Analysis with GitHub Copilot CLI](https://dev.to/k1lgor/repodoctor-ai-powered-repository-health-analysis-with-github-copilot-cli-36l4)
+- [IBAN Validation: Complete Developer Guide &lpar;2026&rpar;](https://dev.to/mnotr/iban-validation-complete-developer-guide-2026-2hfh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
