@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Parsifyx Processes 27 Document Formats Entirely in the Browser — No Server Required](https://dev.to/ashwin_singh_304bc222ecbe/how-parsifyx-processes-27-document-formats-entirely-in-the-browser-no-server-required-2ka9)
-- [AWS Secrets Manager Agent](https://dev.to/josephakayesi/aws-secrets-manager-agent-2hpg)
-- [TRC-20 Token Standard: A Complete Guide](https://dev.to/jenny_gupta_e7411d536a07a/trc-20-token-standard-a-complete-guide-2o0l)
-- [I Built a Website Cloner with AI Agents &lpar;And It&#39;s Kinda Scary Good&rpar;](https://dev.to/vadim7j7/i-built-a-website-cloner-with-ai-agents-and-its-kinda-scary-good-gb9)
-- [🚀 I Built a Full JSON Developer Tools Platform with Angular &lpar;And You Can Use the Source Code&rpar;](https://dev.to/mareeswaran_ponraj/i-built-a-full-json-developer-tools-platform-with-angular-and-you-can-use-the-source-code-314j)
+- [What to Expect from Odoo 20: New Features, Industry Benefits &amp; Updates](https://dev.to/aspire-softserv/what-to-expect-from-odoo-20-new-features-industry-benefits-updates-3jbi)
+- [Building Plus Ultra: How Antigravity Helped Me Bring Material Design to Bulma CSS 🎨](https://dev.to/playfulprogramming/building-plus-ultra-how-antigravity-helped-me-bring-material-design-to-bulma-css-30m6)
+- [Deploy Your Phoenix Workspace to a Remote Server Using Railgun](https://dev.to/matrixswarm/deploy-your-phoenix-workspace-to-a-remote-server-using-railgun-38nh)
+- [Copilot Fun Mode — Play Games While Your AI Codes 🎮](https://dev.to/sirluky/copilot-fun-mode-play-games-while-your-ai-codes-2i0m)
+- [I Glued 2 of the Best AI Dev Frameworks Together](https://dev.to/lacow/i-glued-2-of-the-best-ai-dev-frameworks-together-2m0j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
