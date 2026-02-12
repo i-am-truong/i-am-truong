@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CVE-2026-26185: Clockwatching: Enumerating Directus Users via Timing Side-Channels](https://dev.to/cverports/cve-2026-26185-clockwatching-enumerating-directus-users-via-timing-side-channels-18db)
-- [Why building a reliable inline rich text editor is still surprisingly hard](https://dev.to/devfuture_manger_360b71b2/why-building-a-reliable-inline-rich-text-editor-is-still-surprisingly-hard-3mc1)
-- [Practical Applications of AI in Web Development](https://dev.to/mystrix/practical-applications-of-ai-in-web-development-29kd)
-- [What Happens When One Parallel Call Fails? Structured Concurrency in Scala](https://dev.to/aranadedoros/what-happens-when-one-parallel-call-fails-structured-concurrency-in-scala-3o9b)
-- [MCP Development with Go and Gemini CLI](https://dev.to/gde/mcp-development-with-go-and-gemini-cli-12bj)
+- [Alembic: Versionamento de Banco de Dados](https://dev.to/carineneris/alembic-versionamento-de-banco-de-dados-40di)
+- [AI Agent for Moltbook in Java: From Zero to Hero](https://dev.to/vishalmysore/ai-agent-for-moltbook-in-java-from-zero-to-hero-27pg)
+- [Heroku&#39;s Changing Direction](https://dev.to/sai_praneeth_bhattu/herokus-changing-direction-375b)
+- [lru_cache vs singleton in Python — they&#39;re not the same thing.](https://dev.to/frank-895/lrucache-vs-singleton-in-python-theyre-not-the-same-thing-1bmc)
+- [Keep Your Secrets Safe](https://dev.to/nadinev/keep-your-secrets-safe-35nd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
