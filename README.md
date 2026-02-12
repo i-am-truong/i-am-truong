@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Alembic: Versionamento de Banco de Dados](https://dev.to/carineneris/alembic-versionamento-de-banco-de-dados-40di)
-- [AI Agent for Moltbook in Java: From Zero to Hero](https://dev.to/vishalmysore/ai-agent-for-moltbook-in-java-from-zero-to-hero-27pg)
-- [Heroku&#39;s Changing Direction](https://dev.to/sai_praneeth_bhattu/herokus-changing-direction-375b)
-- [lru_cache vs singleton in Python — they&#39;re not the same thing.](https://dev.to/frank-895/lrucache-vs-singleton-in-python-theyre-not-the-same-thing-1bmc)
-- [Keep Your Secrets Safe](https://dev.to/nadinev/keep-your-secrets-safe-35nd)
+- [WebForms Core vs Modern Web Concepts: Architectural Similarities and Differences](https://dev.to/elanatframework/webforms-core-vs-modern-web-concepts-architectural-similarities-and-differences-2c4e)
+- [Starting a dev journey](https://dev.to/gwynnemichele/starting-a-dev-journey-4fee)
+- [From Raw Sales Data to Actionable Insights: My Power BI Workflow](https://dev.to/tenzintsundue/from-raw-sales-data-to-actionable-insights-my-power-bi-workflow-40je)
+- [GHSA-435G-FCV3-8J26: High Assurance, Low Availability: The Libcrux Triple Threat](https://dev.to/cverports/ghsa-435g-fcv3-8j26-high-assurance-low-availability-the-libcrux-triple-threat-1p7i)
+- [Funnel Analysis for Landing Pages: Identifying Visitor Drop off Points and Conversion Barriers](https://dev.to/jasonbiondo/funnel-analysis-for-landing-pages-identifying-visitor-drop-off-points-and-conversion-barriers-11a1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
