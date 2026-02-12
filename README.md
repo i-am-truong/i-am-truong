@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Image Classification with CNNs – Part 3: Understanding Max Pooling and Results](https://dev.to/rijultp/image-classification-with-cnns-part-3-understanding-max-pooling-and-results-787)
-- [Why Your AI Agents Shouldn&#39;t Have Your API Keys &lpar;And What to Do About It&rpar;](https://dev.to/lucamorettibuilds/why-your-ai-agents-shouldnt-have-your-api-keys-and-what-to-do-about-it-1a8n)
-- [I Built a Feedback Loop That Coaches LLMs at Runtime Using NumPy](https://dev.to/nelson_amaya_16872e58232b/i-built-a-feedback-loop-that-coaches-llms-at-runtime-using-numpy-2h0p)
-- [🏥 RepoDoctor - AI-Powered Repository Health Analysis with GitHub Copilot CLI](https://dev.to/k1lgor/repodoctor-ai-powered-repository-health-analysis-with-github-copilot-cli-36l4)
-- [IBAN Validation: Complete Developer Guide &lpar;2026&rpar;](https://dev.to/mnotr/iban-validation-complete-developer-guide-2026-2hfh)
+- [How I built an observability layer for my OpenClaw AI agents](https://dev.to/ucsandman/how-i-built-an-observability-layer-for-my-openclaw-ai-agents-2cah)
+- [Runtime Adapter Hot-Swapping with Ports &amp; Adapters — The Pattern Alistair Cockburn Didn&#39;t Document](https://dev.to/charleshornick/runtime-adapter-hot-swapping-with-ports-adapters-the-pattern-alistair-cockburn-didnt-document-56cg)
+- [⏱️ The Weekend Speedrun: Building the &quot;Awesome Copilot Guide&quot; with my AI Terminal Sidekick](https://dev.to/mouadbourbian/the-weekend-speedrun-building-the-awesome-copilot-guide-with-my-ai-terminal-sidekick-39m0)
+- [[Boost]](https://dev.to/cherryramatis/-5304)
+- [Nested Virtualization on Windows 11: The VBS Conflict Explained](https://dev.to/stefor07/windows-11-vbs-vs-desktop-hypervisors-a-deep-dive-into-vt-x-conflicts-j8n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
