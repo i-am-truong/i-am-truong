@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Designing Serverless Applications at Massive Scale with AWS Lambda and RDS Proxy](https://dev.to/nghidanh2005/designing-serverless-applications-at-massive-scale-with-aws-lambda-and-rds-proxy-4k28)
-- [Building a Simple Blog with Supabase &lpar;Posts &amp; Comments&rpar;](https://dev.to/bosz/building-a-simple-blog-with-supabase-posts-comments-4384)
-- [Hashicorp Vault CLI Part 4: Introspection](https://dev.to/admantium/hashicorp-vault-cli-part-4-introspection-250f)
-- [Designing Systems Assuming AI Will Make Mistakes: Resilient Architecture for AI-Assisted Systems](https://dev.to/jasrandhawa/designing-systems-assuming-ai-will-make-mistakes-resilient-architecture-for-ai-assisted-systems-3ioj)
-- [Your Lambda Memory is Wrong: Auto-Tune It and Save 40% in Minutes ⚡](https://dev.to/suhas_mallesh/your-lambda-memory-is-wrong-auto-tune-it-and-save-40-in-minutes-3hkb)
+- [💡 LSA Dumps: The EDR Blind Spot](https://dev.to/harsh_hak/lsa-dumps-the-edr-blind-spot-lgb)
+- [Complex Animations and Interaction Patterns in CSS](https://dev.to/sharique_siddiqui_8242dad/complex-animations-and-interaction-patterns-in-css-2aa7)
+- [From Confusion to Clarity: My Journey Learning Social Media APIs &amp; OAuth](https://dev.to/bharath_kumar_30_vog/from-confusion-to-clarity-my-journey-learning-social-media-apis-oauth-1587)
+- [PQP Language](https://dev.to/pqpcara/pqp-language-1of6)
+- [Maxsus belgilar | C++ boshlang&#39;ich](https://dev.to/whysoempty/maxsus-belgilar-c-boshlangich-5dgi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
