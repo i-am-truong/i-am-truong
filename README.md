@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My f...second game](https://dev.to/depoco/my-fsecond-game-935)
-- [Ramp’s Inspect shows closed-loop AI agents are software’s future](https://dev.to/signadot/ramps-inspect-shows-closed-loop-ai-agents-are-softwares-future-4ic1)
-- [Azure Integration Services – Complete Guide](https://dev.to/davinceleecode/azure-integration-services-complete-guide-5c64)
-- [drift: Real-Time Code Health + AI-Powered Refactoring with GitHub Copilot CLI](https://dev.to/greatnessinabox/drift-real-time-code-health-ai-powered-refactoring-with-github-copilot-cli-5a1e)
-- [Why I Stopped Using PM2 and Built My Own Bun Process Manager](https://dev.to/zakpie/why-i-stopped-using-pm2-and-built-my-own-bun-process-manager-4ehe)
+- [How users actually react to your hero section &lpar;what I learned watching real people&rpar;](https://dev.to/bhavin-allinonetools/how-users-actually-react-to-your-hero-section-what-i-learned-watching-real-people-36bp)
+- [🧑‍💻 How to remain relevant in this AI era?](https://dev.to/datadog-frontend-dev/how-to-remain-relevant-in-this-ai-era-1mle)
+- [IndexNow: Struggle with implementation &lpar;C#&rpar;](https://dev.to/driftya/indexnow-struggle-with-implementation-c-5fn4)
+- [From Commits to Meetings: The Struggle of a Developer turned Manager](https://dev.to/hyperwindmill/from-commits-to-meetings-the-struggle-of-a-developer-turned-manager-4ee4)
+- [Why 2026 is the Year of the Specialist](https://dev.to/iamdavidjames/why-2026-is-the-year-of-the-specialist-48jn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
