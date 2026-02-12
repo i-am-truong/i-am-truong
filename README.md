@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building My Personal AI Operating System: From Chatbot to Digital Soul](https://dev.to/behruamm/building-my-personal-ai-operating-system-from-chatbot-to-digital-soul-4d8d)
-- [Stop &quot;Hope-Based&quot; Security: Why Your CI/CD Needs a Deterministic Gate](https://dev.to/eldor_zufarov_1966/stop-hope-based-security-why-your-cicd-needs-a-deterministic-gate-2i07)
-- [Mastering AppSync: Unions and Interfaces](https://dev.to/aws-builders/mastering-appsync-unions-and-interfaces-441a)
-- [Letting LLMs Jump — and Then Verifying Ruthlessly](https://dev.to/shinpr/letting-llms-jump-and-then-verifying-ruthlessly-1mj0)
-- [I Built an Exporter and Grafana Dashboard for Claude Code](https://dev.to/aireet/i-built-an-exporter-and-grafana-dashboard-for-claude-code-3hpi)
+- [NDM-TCP vs TCP Cubic vs TCP Reno: High-Performance Fiber/Broadband Network Test](https://dev.to/hejhdiss/ndm-tcp-vs-tcp-cubic-vs-tcp-reno-high-performance-fiberbroadband-network-test-47mm)
+- [Making AI Coding Agents Production-Aware: Using Hud.io&#39;s MCP Server with Cloudflare Workers](https://dev.to/dannwaneri/making-ai-coding-agents-production-aware-using-hudios-mcp-server-with-cloudflare-workers-2g8l)
+- [I Built a Production-Grade Stripe MCP Server in Python — Here&#39;s What I Learned](https://dev.to/bruce_mukanzi_fbb399fa465/i-built-a-production-grade-stripe-mcp-server-in-python-heres-what-i-learned-15i5)
+- [Pour mon Jtd](https://dev.to/la_jtdette/pour-mon-jtd-heb)
+- [Why Your WordPress Theme Doesn’t Look Like The Pretty Preview &lpar;And How To Easily Get One That Does&rpar;](https://dev.to/edom87/why-your-wordpress-theme-doesnt-look-like-the-pretty-preview-and-how-to-easily-get-one-that-does-9dc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
