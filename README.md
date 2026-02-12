@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Becoming 1% better each day.](https://dev.to/della_codes/becoming-1-better-each-day-1p9m)
-- [Apache httpd и PHP-FPM: модули и расширения для продакшена &lpar;с учётом Bitrix&rpar;](https://dev.to/_vproger_/apache-httpd-i-php-fpm-moduli-i-rasshirieniia-dlia-prodakshiena-s-uchiotom-bitrix-1c6)
-- [Why I Built nevr-env — And Why process.env Deserves Better](https://dev.to/yalelet_dessalegn_b87ed18/why-i-built-nevr-env-and-why-processenv-deserves-better-4iod)
-- [The Future of Networking: Neural Differential Manifolds and the Rise of NDM-TCP](https://dev.to/hejhdiss/the-future-of-networking-neural-differential-manifolds-and-the-rise-of-ndm-tcp-3hb5)
-- [How I Built a Chrome Extension That Runs Llama, DeepSeek, and Mistral Locally Using WebGPU &lpar;No Ollama, No Server&rpar;](https://dev.to/psgganesh/how-i-built-a-chrome-extension-that-runs-llama-deepseek-and-mistral-locally-using-webgpu-no-73l)
+- [Designing Serverless Applications at Massive Scale with AWS Lambda and RDS Proxy](https://dev.to/nghidanh2005/designing-serverless-applications-at-massive-scale-with-aws-lambda-and-rds-proxy-4k28)
+- [Building a Simple Blog with Supabase &lpar;Posts &amp; Comments&rpar;](https://dev.to/bosz/building-a-simple-blog-with-supabase-posts-comments-4384)
+- [Hashicorp Vault CLI Part 4: Introspection](https://dev.to/admantium/hashicorp-vault-cli-part-4-introspection-250f)
+- [Designing Systems Assuming AI Will Make Mistakes: Resilient Architecture for AI-Assisted Systems](https://dev.to/jasrandhawa/designing-systems-assuming-ai-will-make-mistakes-resilient-architecture-for-ai-assisted-systems-3ioj)
+- [Your Lambda Memory is Wrong: Auto-Tune It and Save 40% in Minutes ⚡](https://dev.to/suhas_mallesh/your-lambda-memory-is-wrong-auto-tune-it-and-save-40-in-minutes-3hkb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
