@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I built an observability layer for my OpenClaw AI agents](https://dev.to/ucsandman/how-i-built-an-observability-layer-for-my-openclaw-ai-agents-2cah)
-- [Runtime Adapter Hot-Swapping with Ports &amp; Adapters — The Pattern Alistair Cockburn Didn&#39;t Document](https://dev.to/charleshornick/runtime-adapter-hot-swapping-with-ports-adapters-the-pattern-alistair-cockburn-didnt-document-56cg)
-- [⏱️ The Weekend Speedrun: Building the &quot;Awesome Copilot Guide&quot; with my AI Terminal Sidekick](https://dev.to/mouadbourbian/the-weekend-speedrun-building-the-awesome-copilot-guide-with-my-ai-terminal-sidekick-39m0)
-- [[Boost]](https://dev.to/cherryramatis/-5304)
-- [Nested Virtualization on Windows 11: The VBS Conflict Explained](https://dev.to/stefor07/windows-11-vbs-vs-desktop-hypervisors-a-deep-dive-into-vt-x-conflicts-j8n)
+- [Day 11 of #100DaysOfCode — Understanding State Management in React](https://dev.to/m_saad_ahmad/day-11-of-100daysofcode-understanding-state-management-in-react-3ekd)
+- [Adversarial Planning for Spec Driven Development](https://dev.to/marcosomma/adversarial-planning-for-spec-driven-development-4c3n)
+- [Boosting LCP: Next.js Performance with next/dynamic](https://dev.to/atena/boosting-lcp-nextjs-performance-with-nextdynamic-3100)
+- [🚀 Pipeline de Ingestão de Dados CSV para Data Lake na AWS](https://dev.to/91felipe_wendel33/pipeline-de-ingestao-de-dados-csv-para-data-lake-na-aws-g8e)
+- [Like Stories? Love Python! 📖🐍 Ep.1 - The One Ring &lpar;Singleton&rpar;](https://dev.to/the-software-s-journey/like-stories-love-python-ep1-the-one-ring-singleton-25c4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
