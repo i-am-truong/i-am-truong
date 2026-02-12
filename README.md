@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [After 20 Years Managing Dev Teams, I Built a Full SaaS Alone With AI](https://dev.to/jaymoreno/after-20-years-managing-dev-teams-i-built-a-full-saas-alone-with-ai-582g)
-- [Faster Server Startup in Meteor 3.4 with Deferrables](https://dev.to/meteor/faster-server-startup-in-meteor-34-with-deferrables-46kn)
-- [CVE-2026-20700: Apple Multiple Buffer Overflow Vulnerability](https://dev.to/freedom-coder/cve-2026-20700-apple-multiple-buffer-overflow-vulnerability-5hkf)
-- [Built a Vibe Coded App where you can Style any Image you like! :D](https://dev.to/francistrdev/built-a-vibe-coded-app-where-you-can-style-any-image-you-like-d-288p)
-- [CollabCircle - Project Template Marketplace - GIT Hub Copilot CLI Challenge - App](https://dev.to/vivek_ae4cbc77ec323c6a68a/collabcircle-project-template-marketplace-git-hub-copilot-cli-challenge-app-1eb9)
+- [CVE-2026-26185: Clockwatching: Enumerating Directus Users via Timing Side-Channels](https://dev.to/cverports/cve-2026-26185-clockwatching-enumerating-directus-users-via-timing-side-channels-18db)
+- [Why building a reliable inline rich text editor is still surprisingly hard](https://dev.to/devfuture_manger_360b71b2/why-building-a-reliable-inline-rich-text-editor-is-still-surprisingly-hard-3mc1)
+- [Practical Applications of AI in Web Development](https://dev.to/mystrix/practical-applications-of-ai-in-web-development-29kd)
+- [What Happens When One Parallel Call Fails? Structured Concurrency in Scala](https://dev.to/aranadedoros/what-happens-when-one-parallel-call-fails-structured-concurrency-in-scala-3o9b)
+- [MCP Development with Go and Gemini CLI](https://dev.to/gde/mcp-development-with-go-and-gemini-cli-12bj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
