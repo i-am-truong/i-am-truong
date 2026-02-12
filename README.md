@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 11 of #100DaysOfCode — Understanding State Management in React](https://dev.to/m_saad_ahmad/day-11-of-100daysofcode-understanding-state-management-in-react-3ekd)
-- [Adversarial Planning for Spec Driven Development](https://dev.to/marcosomma/adversarial-planning-for-spec-driven-development-4c3n)
-- [Boosting LCP: Next.js Performance with next/dynamic](https://dev.to/atena/boosting-lcp-nextjs-performance-with-nextdynamic-3100)
-- [🚀 Pipeline de Ingestão de Dados CSV para Data Lake na AWS](https://dev.to/91felipe_wendel33/pipeline-de-ingestao-de-dados-csv-para-data-lake-na-aws-g8e)
-- [Like Stories? Love Python! 📖🐍 Ep.1 - The One Ring &lpar;Singleton&rpar;](https://dev.to/the-software-s-journey/like-stories-love-python-ep1-the-one-ring-singleton-25c4)
+- [After 20 Years Managing Dev Teams, I Built a Full SaaS Alone With AI](https://dev.to/jaymoreno/after-20-years-managing-dev-teams-i-built-a-full-saas-alone-with-ai-582g)
+- [Faster Server Startup in Meteor 3.4 with Deferrables](https://dev.to/meteor/faster-server-startup-in-meteor-34-with-deferrables-46kn)
+- [CVE-2026-20700: Apple Multiple Buffer Overflow Vulnerability](https://dev.to/freedom-coder/cve-2026-20700-apple-multiple-buffer-overflow-vulnerability-5hkf)
+- [Built a Vibe Coded App where you can Style any Image you like! :D](https://dev.to/francistrdev/built-a-vibe-coded-app-where-you-can-style-any-image-you-like-d-288p)
+- [CollabCircle - Project Template Marketplace - GIT Hub Copilot CLI Challenge - App](https://dev.to/vivek_ae4cbc77ec323c6a68a/collabcircle-project-template-marketplace-git-hub-copilot-cli-challenge-app-1eb9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
