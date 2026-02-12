@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SmartOrder: A Modern Microservices Reference Platform](https://dev.to/portus84/smartorder-a-modern-microservices-reference-platform-ng8)
-- [How to Validate Email Addresses in Node.js &lpar;2026 Guide&rpar;](https://dev.to/mnotr/how-to-validate-email-addresses-in-nodejs-2026-guide-5b72)
-- [Monitor your Claude usage](https://dev.to/mvaldes/monitor-your-claude-usage-3g9b)
-- [Exports are a security boundary: the moment local-first becomes shareable](https://dev.to/crisiscoresystems/exports-are-a-security-boundary-the-moment-local-first-becomes-shareable-3gj9)
-- [Introducing Icons: Add any icon library to your Ruby app](https://dev.to/railsdesigner/introducing-icons-add-any-icon-library-to-your-ruby-app-62m)
+- [Show DEV: PardusDB – The &quot;SQLite of Vector DBs&quot; written in Rust](https://dev.to/jason_einstein_4ebad74d6d/show-dev-pardusdb-the-sqlite-of-vector-dbs-written-in-rust-3id3)
+- [Build a Spotify Music Time Machine with Python and OAuth 2.0](https://dev.to/simonoconnor/build-a-spotify-music-time-machine-with-python-and-oauth-20-kdo)
+- [How to Build a Production-Ready API Rate Limiter with Node.js and Redis](https://dev.to/mooh/how-to-build-a-production-ready-api-rate-limiter-with-nodejs-and-redis-15p7)
+- [Don&#39;t Let AI Make You Stupid](https://dev.to/mrmujo/dont-let-ai-make-you-stupid-28b6)
+- [Why You Should Stop Using AI for Coding](https://dev.to/mrakdon/why-you-should-stop-using-ai-for-coding-5aci)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
