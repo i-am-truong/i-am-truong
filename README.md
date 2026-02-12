@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How To Build Angular Components Teams Actually Reuse &lpar;No More Copy-Paste Hell&rpar;](https://dev.to/karol_modelski/how-to-build-angular-components-teams-actually-reuse-no-more-copy-paste-hell-i19)
-- [Python to Clojure: A Gentle Guide for Pythonistas](https://dev.to/kovan/python-to-clojure-a-gentle-guide-for-pythonistas-11bn)
-- [Learning by Doing: What I discovered about Bootstrap while replicating a professional Footer](https://dev.to/sanseverino/learning-by-doing-what-i-discovered-about-bootstrap-while-replicating-a-professional-footer-3ach)
-- [Building a Multimodal Food Analysis System on Qubrid AI](https://dev.to/sharur7/building-a-multimodal-food-analysis-system-on-qubrid-ai-3l1b)
-- [Are We Over-Engineering LLM Stacks Too Early?](https://dev.to/prashanth_boovaragavan_98/are-we-over-engineering-llm-stacks-too-early-k9c)
+- [Built a Hybrid RAG API with FastAPI &amp; Ollama – Sparse + Dense retrieval in action.](https://dev.to/ashwani_garg_8070e0d05964/built-a-hybrid-rag-api-with-fastapi-ollama-sparse-dense-retrieval-in-action-21d2)
+- [Getting Started with Data Analysis Using Microsoft Excel &lpar;Beginner’s Guide&rpar;](https://dev.to/itsmunyalo/getting-started-with-data-analysis-using-microsoft-excel-beginners-guide-301a)
+- [🟢 Android HCE Deep Dive: ISO-DEP, APDU &amp; NFC Type 4 Tag Architecture &lpar;Part 1&rpar;](https://dev.to/sky1309/android-hce-deep-dive-iso-dep-apdu-nfc-type-4-tag-architecture-part-1-46ed)
+- [I Curated 106 Software Design Resources and Ranked What Actually Matters](https://dev.to/qdenka/i-curated-106-software-design-resources-and-ranked-what-actually-matters-5252)
+- [We are hiring!](https://dev.to/axpo/we-are-hiring-1n0n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
