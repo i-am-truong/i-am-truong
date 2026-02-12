@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Best Free Retrospective Tools for 2026 🏆](https://dev.to/mattlewandowski93/best-free-retrospective-tools-for-2026-3lcb)
+- [The Hidden Cost of Slow Code Reviews: Data from 8 Million PRs](https://dev.to/vitalii_petrenko_dev/the-hidden-cost-of-slow-code-reviews-data-from-8-million-prs-5fei)
+- [Measuring SharePoint Intranet ROI: What We Learned After the Launch Applause Faded](https://dev.to/ngssolution23/measuring-sharepoint-intranet-roi-what-we-learned-after-the-launch-applause-faded-13b0)
+- [How caching helps in LLM Application?](https://dev.to/vansh_uttam/how-caching-helps-in-llm-application-1e2a)
 - [Geolocalização Performática com Postgres e PostGIS: Uma abordagem prática no projeto Photofy](https://dev.to/aristoteles_linsdasilva/geolocalizacao-performatica-com-postgres-e-postgis-uma-abordagem-pratica-no-projeto-photofy-4360)
-- [Swift: The Complete Guide to Error Handling in the Network Layer](https://dev.to/pavel_andreev_ios/swift-the-complete-guide-to-error-handling-in-the-network-layer-1n64)
-- [Associative Methods](https://dev.to/lizmat/associative-methods-2mcl)
-- [Why your company&#39;s JSP app isn&#39;t dead - it just needs Spring Boot](https://dev.to/therobustroast/why-your-companys-jsp-app-isnt-dead-it-just-needs-spring-boot-2fje)
-- [Unlocking the Hidden Power of Your Laptop’s GPU](https://dev.to/nisam/unlocking-the-hidden-power-of-your-laptops-gpu-20kc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
