@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Real-World IoT Challenges and Practical Solutions: Lessons from Scaling Connected Systems](https://dev.to/esoftwaresolutions1/real-world-iot-challenges-and-practical-solutions-lessons-from-scaling-connected-systems-187a)
-- [Art of Computer programming.](https://dev.to/codekuti/art-of-computer-programming-jmm)
-- [Recovery codes… Or just one recovery code?](https://dev.to/antonmb/recovery-codes-or-just-one-recovery-code-50dk)
-- [Signal Forms in Angular 21](https://dev.to/soumayaerradi/signal-forms-in-angular-21-4502)
-- [How to Negotiate Freelance Rates Without the Awkwardness](https://dev.to/fairpricework/how-to-negotiate-freelance-rates-without-the-awkwardness-j5g)
+- [How To Build Angular Components Teams Actually Reuse &lpar;No More Copy-Paste Hell&rpar;](https://dev.to/karol_modelski/how-to-build-angular-components-teams-actually-reuse-no-more-copy-paste-hell-i19)
+- [Python to Clojure: A Gentle Guide for Pythonistas](https://dev.to/kovan/python-to-clojure-a-gentle-guide-for-pythonistas-11bn)
+- [Learning by Doing: What I discovered about Bootstrap while replicating a professional Footer](https://dev.to/sanseverino/learning-by-doing-what-i-discovered-about-bootstrap-while-replicating-a-professional-footer-3ach)
+- [Building a Multimodal Food Analysis System on Qubrid AI](https://dev.to/sharur7/building-a-multimodal-food-analysis-system-on-qubrid-ai-3l1b)
+- [Are We Over-Engineering LLM Stacks Too Early?](https://dev.to/prashanth_boovaragavan_98/are-we-over-engineering-llm-stacks-too-early-k9c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
