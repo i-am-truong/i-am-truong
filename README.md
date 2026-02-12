@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Layoffs! Fellow employees, be prepared for the worst.](https://dev.to/shresth/layoffs-fellow-employees-be-prepared-for-the-worst-4mjo)
-- [Building Hybrid Search for RAG: Combining pgvector and Full-Text Search with Reciprocal Rank Fusion](https://dev.to/lpossamai/building-hybrid-search-for-rag-combining-pgvector-and-full-text-search-with-reciprocal-rank-fusion-6nk)
-- [I Built an AI Game Dev Toolkit &lpar;and Cut My Asset Creation Time by 70%&rpar;](https://dev.to/devdude_gamemaker_dba949b/i-built-an-ai-game-dev-toolkit-and-cut-my-asset-creation-time-by-70-2nci)
-- [[Prototype]Management Screen with LogArea](https://dev.to/obasho0613/prototypemanagement-screen-with-logarea-3pg7)
-- [Turned my Next.js blog SEO process into a simple publish checklist](https://dev.to/andresz74/turned-my-nextjs-blog-seo-process-into-a-simple-publish-checklist-493g)
+- [Becoming 1% better each day.](https://dev.to/della_codes/becoming-1-better-each-day-1p9m)
+- [Apache httpd и PHP-FPM: модули и расширения для продакшена &lpar;с учётом Bitrix&rpar;](https://dev.to/_vproger_/apache-httpd-i-php-fpm-moduli-i-rasshirieniia-dlia-prodakshiena-s-uchiotom-bitrix-1c6)
+- [Why I Built nevr-env — And Why process.env Deserves Better](https://dev.to/yalelet_dessalegn_b87ed18/why-i-built-nevr-env-and-why-processenv-deserves-better-4iod)
+- [The Future of Networking: Neural Differential Manifolds and the Rise of NDM-TCP](https://dev.to/hejhdiss/the-future-of-networking-neural-differential-manifolds-and-the-rise-of-ndm-tcp-3hb5)
+- [How I Built a Chrome Extension That Runs Llama, DeepSeek, and Mistral Locally Using WebGPU &lpar;No Ollama, No Server&rpar;](https://dev.to/psgganesh/how-i-built-a-chrome-extension-that-runs-llama-deepseek-and-mistral-locally-using-webgpu-no-73l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
