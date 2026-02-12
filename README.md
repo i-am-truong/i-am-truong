@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [💡 LSA Dumps: The EDR Blind Spot](https://dev.to/harsh_hak/lsa-dumps-the-edr-blind-spot-lgb)
-- [Complex Animations and Interaction Patterns in CSS](https://dev.to/sharique_siddiqui_8242dad/complex-animations-and-interaction-patterns-in-css-2aa7)
-- [From Confusion to Clarity: My Journey Learning Social Media APIs &amp; OAuth](https://dev.to/bharath_kumar_30_vog/from-confusion-to-clarity-my-journey-learning-social-media-apis-oauth-1587)
-- [PQP Language](https://dev.to/pqpcara/pqp-language-1of6)
-- [Maxsus belgilar | C++ boshlang&#39;ich](https://dev.to/whysoempty/maxsus-belgilar-c-boshlangich-5dgi)
+- [Real-World IoT Challenges and Practical Solutions: Lessons from Scaling Connected Systems](https://dev.to/esoftwaresolutions1/real-world-iot-challenges-and-practical-solutions-lessons-from-scaling-connected-systems-187a)
+- [Art of Computer programming.](https://dev.to/codekuti/art-of-computer-programming-jmm)
+- [Recovery codes… Or just one recovery code?](https://dev.to/antonmb/recovery-codes-or-just-one-recovery-code-50dk)
+- [Signal Forms in Angular 21](https://dev.to/soumayaerradi/signal-forms-in-angular-21-4502)
+- [How to Negotiate Freelance Rates Without the Awkwardness](https://dev.to/fairpricework/how-to-negotiate-freelance-rates-without-the-awkwardness-j5g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
