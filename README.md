@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [NDM-TCP vs TCP Cubic vs TCP Reno: High-Performance Fiber/Broadband Network Test](https://dev.to/hejhdiss/ndm-tcp-vs-tcp-cubic-vs-tcp-reno-high-performance-fiberbroadband-network-test-47mm)
-- [Making AI Coding Agents Production-Aware: Using Hud.io&#39;s MCP Server with Cloudflare Workers](https://dev.to/dannwaneri/making-ai-coding-agents-production-aware-using-hudios-mcp-server-with-cloudflare-workers-2g8l)
-- [I Built a Production-Grade Stripe MCP Server in Python — Here&#39;s What I Learned](https://dev.to/bruce_mukanzi_fbb399fa465/i-built-a-production-grade-stripe-mcp-server-in-python-heres-what-i-learned-15i5)
-- [Pour mon Jtd](https://dev.to/la_jtdette/pour-mon-jtd-heb)
-- [Why Your WordPress Theme Doesn’t Look Like The Pretty Preview &lpar;And How To Easily Get One That Does&rpar;](https://dev.to/edom87/why-your-wordpress-theme-doesnt-look-like-the-pretty-preview-and-how-to-easily-get-one-that-does-9dc)
+- [My f...second game](https://dev.to/depoco/my-fsecond-game-935)
+- [Ramp’s Inspect shows closed-loop AI agents are software’s future](https://dev.to/signadot/ramps-inspect-shows-closed-loop-ai-agents-are-softwares-future-4ic1)
+- [Azure Integration Services – Complete Guide](https://dev.to/davinceleecode/azure-integration-services-complete-guide-5c64)
+- [drift: Real-Time Code Health + AI-Powered Refactoring with GitHub Copilot CLI](https://dev.to/greatnessinabox/drift-real-time-code-health-ai-powered-refactoring-with-github-copilot-cli-5a1e)
+- [Why I Stopped Using PM2 and Built My Own Bun Process Manager](https://dev.to/zakpie/why-i-stopped-using-pm2-and-built-my-own-bun-process-manager-4ehe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
