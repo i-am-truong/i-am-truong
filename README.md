@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-a3a)
-- [Claude Code for Fullstack Development: The 3 Things You Actually Need](https://dev.to/wasp/claude-code-for-fullstack-development-the-3-things-you-actually-need-1p6p)
-- [This Week In React #268 :Bulletproof Comps, Render Types | RN 0.84, Gestures, Rozenite, Storybook | Vitest, VSCode](https://dev.to/sebastienlorber/this-week-in-react-268-bulletproof-comps-render-types-rn-084-gestures-rozenite-storybook-2097)
-- [Copilot vs. Cursor vs. Reality: Why 59% of Developers Use Both &lpar;And Then Some&rpar;](https://dev.to/jakkie_koekemoer/copilot-vs-cursor-vs-reality-why-59-of-developers-use-both-and-then-some-32np)
-- [Tipo da Licença &lpar;qual licença usar e porque?&rpar;](https://dev.to/doccaio/tipo-da-licenca-qual-licenca-usar-e-porque-4pm5)
+- [OAuth Explained Like You&#39;re 5](https://dev.to/kirill_tolmachev/oauth-explained-like-youre-5-55gi)
+- [HazelJS Beta: Why We Built It — Design, Purpose &amp; Benefits](https://dev.to/arslan_mecom/hazeljs-beta-why-we-built-it-design-purpose-benefits-3kg9)
+- [SCRIPTED CI: Governing Your Build Pipeline as Critical Infrastructure](https://dev.to/alialp/scripted-ci-governing-your-build-pipeline-as-critical-infrastructure-5gaf)
+- [👨‍🍳 Cuisiner ta première API REST : Le Secret de la Sauce Express, Prisma et Postgres](https://dev.to/tacite243/cuisiner-ta-premiere-api-rest-le-secret-de-la-sauce-express-prisma-et-postgres-4hif)
+- [A Comprehensive Guide to Nginx for Developers](https://dev.to/stringzwb/nginx-summary-english-nk1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
