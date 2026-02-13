@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Escaping the &quot;AI Spaghetti Code&quot; Trap: How I Refactored My Next.js App with spec-kit](https://dev.to/wanxinvc/escaping-the-ai-spaghetti-code-trap-how-i-refactored-my-nextjs-app-with-spec-kit-3e5l)
-- [TIL: Template Strict Locals &lpar;TSL&rpar;](https://dev.to/epigene/til-template-strict-locals-tsl-31eb)
-- [OpenClaw Ecosystem Deep Dive: Personal AI Assistant to Open Source](https://dev.to/chx381/openclaw-ecosystem-deep-dive-personal-ai-assistant-to-open-source-30nm)
-- [&quot;Please Clear Your Cache&quot; — How I Finally Fixed Flutter Web Caching for Good](https://dev.to/adriengras/please-clear-your-cache-how-i-finally-fixed-flutter-web-caching-for-good-5dlj)
-- [Sentiment Analysis in C# - Without Python or External APIs](https://dev.to/olafur_aron/sentiment-analysis-in-c-without-python-or-external-apis-3jpm)
+- [From Kimball to Lakehouse: The Evolution of Data Storage &lpar;with Python Demo&rpar;](https://dev.to/xin_xu_5c36b5326e7008e281/from-kimball-to-lakehouse-the-evolution-of-data-storage-with-python-demo-4dih)
+- [Automation Testing Challenges in Agile Teams](https://dev.to/alice_weber_3110/automation-testing-challenges-in-agile-teams-3k1m)
+- [Google Tag Manager Loading Strategies in Next.js](https://dev.to/focusreactive/google-tag-manager-loading-strategies-in-nextjs-3d0b)
+- [How to Build Scalable Data Pipelines: Lessons from the Data Engineering Book](https://dev.to/xin_xu_5c36b5326e7008e281/how-to-build-scalable-data-pipelines-lessons-from-the-data-engineering-book-2afn)
+- [I Mistook AI Smoothness for Insight](https://dev.to/briandavies/i-mistook-ai-smoothness-for-insight-5a1f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
