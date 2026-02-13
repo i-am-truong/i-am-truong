@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [cd with Argo CD and helm](https://dev.to/jumptotech/cd-with-argo-cd-and-helm-40e0)
+- [Behind the Scenes: Why I Created a Performance Testing Course](https://dev.to/oleh_koren/behind-the-scenes-why-i-created-a-performance-testing-course-22i0)
+- [I built this to stop the endless cycle of copy-pasting terminal errors into Google. It uses Copilot CLI to give you a one-line fix directly in the terminal.](https://dev.to/stefan_donosa/i-built-this-to-stop-the-endless-cycle-of-copy-pasting-terminal-errors-into-google-it-uses-copilot-m6n)
+- [CI and CD JOBs – What Exactly It Does in Production](https://dev.to/jumptotech/ci-and-cd-jobs-what-exactly-it-does-in-production-3l6b)
 - [CVE-2026-26273: The Over-Helpful Doorman: Full Account Takeover in &#39;Known&#39; CMS](https://dev.to/cverports/cve-2026-26273-the-over-helpful-doorman-full-account-takeover-in-known-cms-4gj8)
-- [Cache-Control: the silent hero in communication between services](https://dev.to/jairo-dev-jr/cache-control-the-silent-hero-in-communication-between-services-7lf)
-- [Build a simple RAG workflow to chat with your docs in n8n](https://dev.to/jennapederson/build-a-simple-rag-workflow-to-chat-with-your-docs-in-n8n-1e5)
-- [Day 12 of #100DaysOfCode — Understanding Zustand](https://dev.to/m_saad_ahmad/day-12-of-100daysofcode-understanding-zustand-4g9f)
-- [Staying Market Volatility Resilient as a Dev in the AI Era](https://dev.to/lawrencedcodes/staying-market-volatility-resilient-as-a-dev-in-the-ai-era-52gc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
