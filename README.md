@@ -120,17 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Graceful Shutdown in Go](https://dev.to/bryanprimus/graceful-shutdown-in-go-2mlg)
-- [Indie AI devs don’t lose because they lack models.
-
-They lose because they repeat avoidable mistakes at the product, system, and strategy layers.
-
-The ones who win won’t be the loudest.
-
-They’ll be the ones who build quietly, and deliberately.](https://dev.to/jaideepparashar/indie-ai-devs-dont-lose-because-they-lack-models-they-lose-because-they-repeat-avoidable-1efm)
-- [The Most Common Mistakes Indie AI Devs Make in 2026](https://dev.to/jaideepparashar/the-most-common-mistakes-indie-ai-devs-make-in-2026-57l3)
-- [OpenClaw Rises, Agents Get Email, Infrastructure Goes AI](https://dev.to/urbanisierung/openclaw-rises-agents-get-email-infrastructure-goes-ai-3ob)
-- [Mokup: A Build-Tool-Friendly Visual Mocking Tool for Vite, Webpack, Node.js, and Workers](https://dev.to/sonofmagic/mokup-a-build-tool-friendly-visual-mocking-tool-for-vite-webpack-nodejs-and-workers-35j9)
+- [How octorus Renders 300K Lines of Diff at High Speed](https://dev.to/ushironoko/how-octorus-renders-300k-lines-of-diff-at-high-speed-h4p)
+- [octorus: A Rust-built TUI tool where AI autonomously reviews &amp; fixes code while you browse PR diffs](https://dev.to/ushironoko/octorus-a-rust-built-tui-tool-where-ai-autonomously-reviews-fixes-code-while-you-browse-pr-diffs-5gh9)
+- [Agentic Coding: How to Move Beyond Vibe Coding Without Shipping a Mess](https://dev.to/sashido/agentic-coding-how-to-move-beyond-vibe-coding-without-shipping-a-mess-1plp)
+- [Say Goodbye to Manual Tracking! An In-Depth Analysis of Non-Intrusive Data Collection for Android Apps](https://dev.to/observabilityguy/say-goodbye-to-manual-tracking-an-in-depth-analysis-of-non-intrusive-data-collection-for-android-c4j)
+- [Event/Message Versioning in : The Complete Practical Guide](https://dev.to/dinesh_dunukedeniya_539a3/eventmessage-versioning-in-the-complete-practical-guide-4ka0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
