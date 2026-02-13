@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[POG-Task-04] # From Task Executor to POG Task: A Gravity Experiment on Context](https://dev.to/enjtorian/pog-task-04-from-task-executor-to-pog-task-a-gravity-experiment-on-context-31ab)
-- [Conditions, Phases, and Declarative Phase Rules in Kubernetes Operators](https://dev.to/rocketchat/conditions-phases-and-declarative-phase-rules-in-kubernetes-operators-l2h)
-- [Why I built yet another release tool for npm](https://dev.to/zweer/why-i-built-yet-another-release-tool-for-npm-3m4m)
-- [pretty cool challenge](https://dev.to/mihai_chindris/pretty-cool-challenge-1kf9)
-- [Turning Research Papers into Executable Code](https://dev.to/chiho5/turning-research-papers-into-executable-code-5898)
+- [CVE-2026-26273: The Over-Helpful Doorman: Full Account Takeover in &#39;Known&#39; CMS](https://dev.to/cverports/cve-2026-26273-the-over-helpful-doorman-full-account-takeover-in-known-cms-4gj8)
+- [Cache-Control: the silent hero in communication between services](https://dev.to/jairo-dev-jr/cache-control-the-silent-hero-in-communication-between-services-7lf)
+- [Build a simple RAG workflow to chat with your docs in n8n](https://dev.to/jennapederson/build-a-simple-rag-workflow-to-chat-with-your-docs-in-n8n-1e5)
+- [Day 12 of #100DaysOfCode — Understanding Zustand](https://dev.to/m_saad_ahmad/day-12-of-100daysofcode-understanding-zustand-4g9f)
+- [Staying Market Volatility Resilient as a Dev in the AI Era](https://dev.to/lawrencedcodes/staying-market-volatility-resilient-as-a-dev-in-the-ai-era-52gc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
