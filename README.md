@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Kimball to Lakehouse: The Evolution of Data Storage &lpar;with Python Demo&rpar;](https://dev.to/xin_xu_5c36b5326e7008e281/from-kimball-to-lakehouse-the-evolution-of-data-storage-with-python-demo-4dih)
-- [Automation Testing Challenges in Agile Teams](https://dev.to/alice_weber_3110/automation-testing-challenges-in-agile-teams-3k1m)
-- [Google Tag Manager Loading Strategies in Next.js](https://dev.to/focusreactive/google-tag-manager-loading-strategies-in-nextjs-3d0b)
-- [How to Build Scalable Data Pipelines: Lessons from the Data Engineering Book](https://dev.to/xin_xu_5c36b5326e7008e281/how-to-build-scalable-data-pipelines-lessons-from-the-data-engineering-book-2afn)
-- [I Mistook AI Smoothness for Insight](https://dev.to/briandavies/i-mistook-ai-smoothness-for-insight-5a1f)
+- [Dev Log: Modernizing the Oatopia Shopify Experience](https://dev.to/highcenburg/dev-log-modernizing-the-oatopia-shopify-experience-1na2)
+- [I Started Slowing AI Down on Purpose](https://dev.to/briandavies/i-started-slowing-ai-down-on-purpose-cjm)
+- [I Rebuilt My Finances Around Bad Weeks](https://dev.to/briandavies/i-rebuilt-my-finances-around-bad-weeks-jc)
+- [How I Improved Email Rendering Performance 15x Using Rust + WebAssembly &lpar;Next.js 16 Devlog&rpar;](https://dev.to/sanjaysah/how-i-improved-email-rendering-performance-15x-using-rust-webassembly-nextjs-16-devlog-2hml)
+- [Regenerative Stablecoins: When “Stable” Also Means Net‑Positive](https://dev.to/ribhavmodi/regenerative-stablecoins-when-stable-also-means-net-positive-1i4j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
