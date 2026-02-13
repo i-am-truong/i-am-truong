@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Google Analytics, SaaS, or Self-Hosted? How I Chose My Analytics Stack](https://dev.to/sebhoek/google-analytics-saas-or-self-hosted-how-i-chose-my-analytics-stack-271g)
-- [Vulnerawa on macOS: Fixing the Silent Launch Failure After Gatekeeper Approval](https://dev.to/am124/vulnerawa-on-macos-fixing-the-silent-launch-failure-after-gatekeeper-approval-16el)
-- [Zero-Downtime Certificate Rotation: Building Resilient ACME Automation](https://dev.to/tim_derzhavets/zero-downtime-certificate-rotation-building-resilient-acme-automation-d9p)
-- [Writing an &quot;operating system&quot;?](https://dev.to/treytomes/writing-an-operating-system-akd)
-- [Building Intelligent Bank Approval Workflows with Symfony 7.4 and Symfony AI](https://dev.to/mattleads/building-intelligent-bank-approval-workflows-with-symfony-74-and-symfony-ai-4j6k)
+- [Building a playable Graeco-Latin Sudoku square: the math behind Suirodoku](https://dev.to/teliance/building-a-playable-graeco-latin-sudoku-square-the-math-behind-suirodoku-gf3)
+- [Integrate Seamlessly: Leveraging APIs for Voice-to-Chat Handoffs with Twilio &amp; VAPI](https://dev.to/callstacktech/integrate-seamlessly-leveraging-apis-for-voice-to-chat-handoffs-with-twilio-vapi-1c10)
+- [Why we didn’t build another chatbot and why security forced us to rethink OS-level AI agents](https://dev.to/neura77ead/why-we-didnt-build-another-chatbot-and-why-security-forced-us-to-rethink-os-level-ai-agents-pgl)
+- [Three LangGraph Agent Patterns That Replaced Hundreds of Lines of Glue Code](https://dev.to/irubtsov/three-langgraph-agent-patterns-that-replaced-hundreds-of-lines-of-glue-code-3a21)
+- [GDPR-Compliant Screen Recording: What You Actually Need to Know](https://dev.to/alexneamtu/gdpr-compliant-screen-recording-what-you-actually-need-to-know-33np)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
