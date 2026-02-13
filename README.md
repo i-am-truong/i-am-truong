@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Jack VS the AI Machine](https://dev.to/srsandrade/jack-vs-the-ai-machine-1o1l)
-- [AI Skills Have an Inheritance Problem &lpar;Here&#39;s the Fix&rpar;](https://dev.to/aabyzov/ai-skills-have-an-inheritance-problem-heres-the-fix-2n9l)
-- [I Used Claude Code to Build a KYC Spec for Indian Stock Broking 🇮🇳](https://dev.to/rakesh_waghela_722f0d03b0/i-used-claude-code-to-build-a-kyc-spec-for-indian-stock-broking-34gb)
-- [Open Source Is One of techs&#39; greatest strengths — So Why Don’t More Developers Contribute?](https://dev.to/myke/open-source-is-one-of-techs-greatest-strengths-so-why-dont-more-developers-contribute-4jai)
-- [Automation strategies for consistent and healthy development](https://dev.to/austinwdigital/automation-strategies-for-consistent-and-healthy-development-1p8f)
+- [I Built an Experimental Async OSINT Tool in Python &lpar;VoidScan&rpar;](https://dev.to/secretman12lang/i-built-an-experimental-async-osint-tool-in-python-voidscan-5129)
+- [Talk to the Grid: Control Energy Infrastructure with Claude + MCP](https://dev.to/karthikeyan_dsk_72d9d837b/talk-to-the-grid-control-energy-infrastructure-with-claude-mcp-1a5e)
+- [Introducing Depmender - The Ultimate Dependency Management CLI for JavaScript/TypeScript Projects](https://dev.to/raj_k_270898/introducing-depmender-the-ultimate-dependency-management-cli-for-javascripttypescript-projects-3ima)
+- [cfix: Architecting a seamless diagnostic bridge between Linux runtime errors and GitHub Copilot’s LLM-powered intelligence](https://dev.to/stefan_donosa/cfix-architecting-a-seamless-diagnostic-bridge-between-linux-runtime-errors-and-github-copilots-2bd0)
+- [Inside Image Models: The Hidden Trade-offs That Shape Every Pixel](https://dev.to/sofiabennett84/inside-image-models-the-hidden-trade-offs-that-shape-every-pixel-41cb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
