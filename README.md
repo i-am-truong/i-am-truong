@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Power of the Paper Trail: Architecture Decision Records &lpar;ADRs&rpar;](https://dev.to/ejakait/the-power-of-the-paper-trail-architecture-decision-records-adrs-3e2d)
-- [Upload image with NestJS Minio S3](https://dev.to/vodnyy/upload-image-with-nestjs-minio-s3-19ml)
-- [Most MERN Tutorials Ignore This, Until Production Breaks](https://dev.to/prateek_mangalgi/most-mern-tutorials-ignore-this-until-production-breaks-3c2l)
-- [Stop Paying for Slack Alerts: Send Sentry Errors to Slack for Free](https://dev.to/lutif/stop-paying-for-slack-alerts-send-sentry-errors-to-slack-for-free-f7f)
-- [I Turned 6 Dusty Vercel Projects Into 7 Gumroad Products in One Day](https://dev.to/binbreeze/i-turned-6-dusty-vercel-projects-into-7-gumroad-products-in-one-day-33mn)
+- [Hello World — Independent Security Researcher Joining DEV](https://dev.to/dtfoss/hello-world-independent-security-researcher-joining-dev-38fh)
+- [Antigravity: Beyond the Basics of AI Coding](https://dev.to/thecoder93/antigravity-beyond-the-basics-of-ai-coding-4kfp)
+- [Provide storage for the public website](https://dev.to/okunola_babatunde_dff5cbd/provide-storage-for-the-public-website-5chd)
+- [Ditch 10,000 Intermediate Tables—Compute Outside the Database with Open-Source SPL](https://dev.to/esproc_spl/ditch-10000-intermediate-tables-compute-outside-the-database-with-open-source-spl-4j1k)
+- [AI Coding Tools: The $10k Productivity Trap for 2025](https://dev.to/dr_hernani_costa/ai-coding-tools-the-10k-productivity-trap-for-2025-pgb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
