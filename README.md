@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Practical Guide to Multi-Model AI Workflows](https://dev.to/salvatore_zetina_afcf8b44/a-practical-guide-to-multi-model-ai-workflows-12ln)
-- [Programming in the Age of AI: From Code to Intent](https://dev.to/robertobutti/programming-in-the-age-of-ai-from-code-to-intent-46eo)
-- [AI Agent Architecture Patterns: Engineering for Autonomy, Resilience, and Control](https://dev.to/topuzas/ai-agent-architecture-patterns-engineering-for-autonomy-resilience-and-control-134m)
-- [The Great AI Agent Showdown of 2026: OpenAI, AutoGen, CrewAI, or LangGraph?](https://dev.to/topuzas/the-great-ai-agent-showdown-of-2026-openai-autogen-crewai-or-langgraph-1ea8)
-- [Indexando dados intangíveis - otimizando consultas ao banco de dados usando colunas geradas](https://dev.to/silvajoaop/indexando-dados-intangiveis-otimizando-consultas-ao-banco-de-dados-usando-colunas-geradas-boa)
+- [[POG-Task-04] # From Task Executor to POG Task: A Gravity Experiment on Context](https://dev.to/enjtorian/pog-task-04-from-task-executor-to-pog-task-a-gravity-experiment-on-context-31ab)
+- [Conditions, Phases, and Declarative Phase Rules in Kubernetes Operators](https://dev.to/rocketchat/conditions-phases-and-declarative-phase-rules-in-kubernetes-operators-l2h)
+- [Why I built yet another release tool for npm](https://dev.to/zweer/why-i-built-yet-another-release-tool-for-npm-3m4m)
+- [pretty cool challenge](https://dev.to/mihai_chindris/pretty-cool-challenge-1kf9)
+- [Turning Research Papers into Executable Code](https://dev.to/chiho5/turning-research-papers-into-executable-code-5898)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
