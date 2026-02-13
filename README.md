@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Toxic Relationships 💔: When Your Agents Hallucinate](https://dev.to/prodevel/toxic-relationships-when-your-agents-hallucinate-1cpb)
-- [Comparing WebForms Core with Microsoft Classic WebForms: Revolution vs. Tradition](https://dev.to/elanatframework/comparing-webforms-core-with-microsoft-classic-webforms-revolution-vs-tradition-g03)
-- [Speeding Up Layout from Figma with MCP and Cursor](https://dev.to/byteminds/speeding-up-layout-from-figma-with-mcp-and-cursor-4211)
-- [Server Components aren&#39;t SSR!](https://dev.to/bishoy_bishai/server-components-arent-ssr-15m2)
-- [A Beginner’s Guide to ThreeJs](https://dev.to/adetolaesther/a-beginners-guide-to-threejs-ob5)
+- [How a Simple SSO Decision Unlocked 2 Faster Growth](https://dev.to/company_perfsys_3fd837950/how-a-simple-sso-decision-unlocked-2-faster-growth-3m47)
+- [Unlocking Lightweight Search: A Look at `bm25-lite` for TypeScript](https://dev.to/rpi1337/unlocking-lightweight-search-a-look-at-bm25-lite-for-typescript-595k)
+- [CVE-2026-26249: The Ghost in the Machine: Anatomy of the Rejected CVE-2026-26249](https://dev.to/cverports/cve-2026-26249-the-ghost-in-the-machine-anatomy-of-the-rejected-cve-2026-26249-4oco)
+- [Building Shareable AI Agent Skills](https://dev.to/helderberto/building-shareable-ai-agent-skills-d9l)
+- [From Manual Chaos to Workflow Engineering: Automating LeetCode with AI](https://dev.to/micheal_angelo_41cea4e81a/from-manual-chaos-to-workflow-engineering-automating-leetcode-with-ai-14n7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
