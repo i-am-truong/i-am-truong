@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The OWASP Top 10 for LLMs — A Pentester&#39;s Practical Guide](https://dev.to/latentbreach/the-owasp-top-10-for-llms-a-pentesters-practical-guide-2b8)
-- [LLD-2:ECommerces Checkout](https://dev.to/_noob/ecommerece-checkout-2ael)
-- [An open-source credential manager for AI agents](https://dev.to/idwispera/an-open-source-credential-manager-for-ai-agents-11gj)
-- [Type casting](https://dev.to/shavkatovbexzod1987crypto/type-casting-1ipa)
-- [A 2026 Introduction to Apache Iceberg](https://dev.to/alexmercedcoder/a-2026-introduction-to-apache-iceberg-4nd8)
+- [Command Center for AI Coding Agents &lpar;Claude Code + Codex&rpar;](https://dev.to/deivid11/command-center-for-ai-coding-agents-claude-code-codex-3d5g)
+- [Metal Birds Watch: Copilot CLI Helped Me Watch Planes Without Looking Up](https://dev.to/georgekobaidze/metal-birds-watch-copilot-cli-helped-me-watch-planes-without-looking-up-4ha0)
+- [What other map APIs are good for integration into a logistics website](https://dev.to/method_ncarlson_ddf/what-other-map-apis-are-good-for-integration-into-a-logistics-website-2p75)
+- [Native Auditing Architecture: Embedding Traceability Intelligence within the Database Core.](https://dev.to/isabellyarrudaa/native-auditing-architecture-embedding-traceability-intelligence-within-the-database-core-1c2p)
+- [I replaced Stripe&#39;s dunning emails with SMS — here&#39;s the architecture and why it recovers 2x more revenue](https://dev.to/aledb/i-replaced-stripes-dunning-emails-with-sms-heres-the-architecture-and-why-it-recovers-2x-more-5ei3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
