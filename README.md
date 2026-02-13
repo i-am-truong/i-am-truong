@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [OAuth Explained Like You&#39;re 5](https://dev.to/kirill_tolmachev/oauth-explained-like-youre-5-55gi)
-- [HazelJS Beta: Why We Built It — Design, Purpose &amp; Benefits](https://dev.to/arslan_mecom/hazeljs-beta-why-we-built-it-design-purpose-benefits-3kg9)
-- [SCRIPTED CI: Governing Your Build Pipeline as Critical Infrastructure](https://dev.to/alialp/scripted-ci-governing-your-build-pipeline-as-critical-infrastructure-5gaf)
-- [👨‍🍳 Cuisiner ta première API REST : Le Secret de la Sauce Express, Prisma et Postgres](https://dev.to/tacite243/cuisiner-ta-premiere-api-rest-le-secret-de-la-sauce-express-prisma-et-postgres-4hif)
-- [A Comprehensive Guide to Nginx for Developers](https://dev.to/stringzwb/nginx-summary-english-nk1)
+- [Google Analytics, SaaS, or Self-Hosted? How I Chose My Analytics Stack](https://dev.to/sebhoek/google-analytics-saas-or-self-hosted-how-i-chose-my-analytics-stack-271g)
+- [Vulnerawa on macOS: Fixing the Silent Launch Failure After Gatekeeper Approval](https://dev.to/am124/vulnerawa-on-macos-fixing-the-silent-launch-failure-after-gatekeeper-approval-16el)
+- [Zero-Downtime Certificate Rotation: Building Resilient ACME Automation](https://dev.to/tim_derzhavets/zero-downtime-certificate-rotation-building-resilient-acme-automation-d9p)
+- [Writing an &quot;operating system&quot;?](https://dev.to/treytomes/writing-an-operating-system-akd)
+- [Building Intelligent Bank Approval Workflows with Symfony 7.4 and Symfony AI](https://dev.to/mattleads/building-intelligent-bank-approval-workflows-with-symfony-74-and-symfony-ai-4j6k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
