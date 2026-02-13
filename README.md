@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Command Center for AI Coding Agents &lpar;Claude Code + Codex&rpar;](https://dev.to/deivid11/command-center-for-ai-coding-agents-claude-code-codex-3d5g)
-- [Metal Birds Watch: Copilot CLI Helped Me Watch Planes Without Looking Up](https://dev.to/georgekobaidze/metal-birds-watch-copilot-cli-helped-me-watch-planes-without-looking-up-4ha0)
-- [What other map APIs are good for integration into a logistics website](https://dev.to/method_ncarlson_ddf/what-other-map-apis-are-good-for-integration-into-a-logistics-website-2p75)
-- [Native Auditing Architecture: Embedding Traceability Intelligence within the Database Core.](https://dev.to/isabellyarrudaa/native-auditing-architecture-embedding-traceability-intelligence-within-the-database-core-1c2p)
-- [I replaced Stripe&#39;s dunning emails with SMS — here&#39;s the architecture and why it recovers 2x more revenue](https://dev.to/aledb/i-replaced-stripes-dunning-emails-with-sms-heres-the-architecture-and-why-it-recovers-2x-more-5ei3)
+- [Jack VS the AI Machine](https://dev.to/srsandrade/jack-vs-the-ai-machine-1o1l)
+- [AI Skills Have an Inheritance Problem &lpar;Here&#39;s the Fix&rpar;](https://dev.to/aabyzov/ai-skills-have-an-inheritance-problem-heres-the-fix-2n9l)
+- [I Used Claude Code to Build a KYC Spec for Indian Stock Broking 🇮🇳](https://dev.to/rakesh_waghela_722f0d03b0/i-used-claude-code-to-build-a-kyc-spec-for-indian-stock-broking-34gb)
+- [Open Source Is One of techs&#39; greatest strengths — So Why Don’t More Developers Contribute?](https://dev.to/myke/open-source-is-one-of-techs-greatest-strengths-so-why-dont-more-developers-contribute-4jai)
+- [Automation strategies for consistent and healthy development](https://dev.to/austinwdigital/automation-strategies-for-consistent-and-healthy-development-1p8f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
