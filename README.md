@@ -120,11 +120,17 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Clean Architecture in .NET 10: Testing What Matters](https://dev.to/bspann/clean-architecture-in-net-10-testing-what-matters-2inj)
-- [Find the Index of the First Occurrence in a String](https://dev.to/stack_overflowed/find-the-index-of-the-first-occurrence-in-a-string-30l9)
-- [OpenClaw生态深度分析：从个人AI助手到开源](https://dev.to/chx381/openclawsheng-tai-shen-du-fen-xi-cong-ge-ren-aizhu-shou-dao-kai-yuan-gln)
-- [.NET Learning Notes: Custom In-Memory Provider&lpar;1&rpar; - Registration and Discovery](https://dev.to/alexleeeeeeeeee/c-learning-notes-custom-in-memory-provider1-registration-and-discovery-12i0)
-- [Practical baseline safeguards for ChatGPT-powered services](https://dev.to/uni928/practical-baseline-safeguards-for-chatgpt-powered-services-efd)
+- [Graceful Shutdown in Go](https://dev.to/bryanprimus/graceful-shutdown-in-go-2mlg)
+- [Indie AI devs don’t lose because they lack models.
+
+They lose because they repeat avoidable mistakes at the product, system, and strategy layers.
+
+The ones who win won’t be the loudest.
+
+They’ll be the ones who build quietly, and deliberately.](https://dev.to/jaideepparashar/indie-ai-devs-dont-lose-because-they-lack-models-they-lose-because-they-repeat-avoidable-1efm)
+- [The Most Common Mistakes Indie AI Devs Make in 2026](https://dev.to/jaideepparashar/the-most-common-mistakes-indie-ai-devs-make-in-2026-57l3)
+- [OpenClaw Rises, Agents Get Email, Infrastructure Goes AI](https://dev.to/urbanisierung/openclaw-rises-agents-get-email-infrastructure-goes-ai-3ob)
+- [Mokup: A Build-Tool-Friendly Visual Mocking Tool for Vite, Webpack, Node.js, and Workers](https://dev.to/sonofmagic/mokup-a-build-tool-friendly-visual-mocking-tool-for-vite-webpack-nodejs-and-workers-35j9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
