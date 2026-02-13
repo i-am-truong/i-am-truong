@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [WebForms Core vs Modern Web Concepts: Architectural Similarities and Differences](https://dev.to/elanatframework/webforms-core-vs-modern-web-concepts-architectural-similarities-and-differences-2c4e)
-- [Starting a dev journey](https://dev.to/gwynnemichele/starting-a-dev-journey-4fee)
-- [From Raw Sales Data to Actionable Insights: My Power BI Workflow](https://dev.to/tenzintsundue/from-raw-sales-data-to-actionable-insights-my-power-bi-workflow-40je)
-- [GHSA-435G-FCV3-8J26: High Assurance, Low Availability: The Libcrux Triple Threat](https://dev.to/cverports/ghsa-435g-fcv3-8j26-high-assurance-low-availability-the-libcrux-triple-threat-1p7i)
-- [Funnel Analysis for Landing Pages: Identifying Visitor Drop off Points and Conversion Barriers](https://dev.to/jasonbiondo/funnel-analysis-for-landing-pages-identifying-visitor-drop-off-points-and-conversion-barriers-11a1)
+- [A Pre-Recording Privacy Checklist for SaaS Demos &lpar;That Actually Works&rpar;](https://dev.to/gong_junhao_db22d984253d7/a-pre-recording-privacy-checklist-for-saas-demos-that-actually-works-3p8k)
+- [Stop Writing Strapi Types by Hand — Auto-Generate a Fully Typed Client in Seconds](https://dev.to/dearonski/stop-writing-strapi-types-by-hand-auto-generate-a-fully-typed-client-in-seconds-536m)
+- [The Math Behind VM Right-Sizing &lpar;Stop guessing your Azure SKU&rpar;](https://dev.to/abhijeet_h_ea7533c94/the-math-behind-vm-right-sizing-stop-guessing-your-azure-sku-130n)
+- [Cross-Cloud Authentication in Kubernetes: A Comprehensive Guide to IRSA, Workload Identity, and Federated Identity](https://dev.to/piyushjajoo/cross-cloud-authentication-in-kubernetes-a-comprehensive-guide-to-irsa-workload-identity-and-40en)
+- [Sunsetting Legacy Angular: How We&#39;re Migrating to Next.js, GraphQL, and a Monorepo &lpar;Without a Big Bang Rewrite&rpar;](https://dev.to/ujja/sunsetting-legacy-angular-how-were-migrating-to-nextjs-graphql-and-a-monorepo-without-a-big-1295)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
