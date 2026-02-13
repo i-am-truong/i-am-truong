@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Ⓜ️ Meddler! A Medium Export Converter](https://dev.to/brennan/introducing-meddler-a-medium-export-converter-4nka)
-- [How to Test Any App with AI in 30 Seconds — Flutter, React Native, iOS, Android &amp; More](https://dev.to/free_bella/how-to-test-any-app-with-ai-in-30-seconds-flutter-react-native-ios-android-more-j6c)
-- [I Built a 120-Image AI Influencer Pipeline for $4.80](https://dev.to/jason_peterson_607e54abf5/i-built-a-120-image-ai-influencer-pipeline-for-480-117p)
-- [Computer Science for Beginners](https://dev.to/codeintuition/computer-science-for-beginners-584g)
-- [What Is Runtime Authorization? A Guide to Dynamic Access Control and the Best Runtime Authorization Tools](https://dev.to/anna_p_s/what-is-runtime-authorization-a-guide-to-dynamic-access-control-and-the-best-runtime-authorization-1849)
+- [The OWASP Top 10 for LLMs — A Pentester&#39;s Practical Guide](https://dev.to/latentbreach/the-owasp-top-10-for-llms-a-pentesters-practical-guide-2b8)
+- [LLD-2:ECommerces Checkout](https://dev.to/_noob/ecommerece-checkout-2ael)
+- [An open-source credential manager for AI agents](https://dev.to/idwispera/an-open-source-credential-manager-for-ai-agents-11gj)
+- [Type casting](https://dev.to/shavkatovbexzod1987crypto/type-casting-1ipa)
+- [A 2026 Introduction to Apache Iceberg](https://dev.to/alexmercedcoder/a-2026-introduction-to-apache-iceberg-4nd8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
