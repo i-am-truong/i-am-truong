@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How a Simple SSO Decision Unlocked 2 Faster Growth](https://dev.to/company_perfsys_3fd837950/how-a-simple-sso-decision-unlocked-2-faster-growth-3m47)
-- [Unlocking Lightweight Search: A Look at `bm25-lite` for TypeScript](https://dev.to/rpi1337/unlocking-lightweight-search-a-look-at-bm25-lite-for-typescript-595k)
-- [CVE-2026-26249: The Ghost in the Machine: Anatomy of the Rejected CVE-2026-26249](https://dev.to/cverports/cve-2026-26249-the-ghost-in-the-machine-anatomy-of-the-rejected-cve-2026-26249-4oco)
-- [Building Shareable AI Agent Skills](https://dev.to/helderberto/building-shareable-ai-agent-skills-d9l)
-- [From Manual Chaos to Workflow Engineering: Automating LeetCode with AI](https://dev.to/micheal_angelo_41cea4e81a/from-manual-chaos-to-workflow-engineering-automating-leetcode-with-ai-14n7)
+- [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-a3a)
+- [Claude Code for Fullstack Development: The 3 Things You Actually Need](https://dev.to/wasp/claude-code-for-fullstack-development-the-3-things-you-actually-need-1p6p)
+- [This Week In React #268 :Bulletproof Comps, Render Types | RN 0.84, Gestures, Rozenite, Storybook | Vitest, VSCode](https://dev.to/sebastienlorber/this-week-in-react-268-bulletproof-comps-render-types-rn-084-gestures-rozenite-storybook-2097)
+- [Copilot vs. Cursor vs. Reality: Why 59% of Developers Use Both &lpar;And Then Some&rpar;](https://dev.to/jakkie_koekemoer/copilot-vs-cursor-vs-reality-why-59-of-developers-use-both-and-then-some-32np)
+- [Tipo da Licença &lpar;qual licença usar e porque?&rpar;](https://dev.to/doccaio/tipo-da-licenca-qual-licenca-usar-e-porque-4pm5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
