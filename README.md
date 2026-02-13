@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How octorus Renders 300K Lines of Diff at High Speed](https://dev.to/ushironoko/how-octorus-renders-300k-lines-of-diff-at-high-speed-h4p)
-- [octorus: A Rust-built TUI tool where AI autonomously reviews &amp; fixes code while you browse PR diffs](https://dev.to/ushironoko/octorus-a-rust-built-tui-tool-where-ai-autonomously-reviews-fixes-code-while-you-browse-pr-diffs-5gh9)
-- [Agentic Coding: How to Move Beyond Vibe Coding Without Shipping a Mess](https://dev.to/sashido/agentic-coding-how-to-move-beyond-vibe-coding-without-shipping-a-mess-1plp)
-- [Say Goodbye to Manual Tracking! An In-Depth Analysis of Non-Intrusive Data Collection for Android Apps](https://dev.to/observabilityguy/say-goodbye-to-manual-tracking-an-in-depth-analysis-of-non-intrusive-data-collection-for-android-c4j)
-- [Event/Message Versioning in : The Complete Practical Guide](https://dev.to/dinesh_dunukedeniya_539a3/eventmessage-versioning-in-the-complete-practical-guide-4ka0)
+- [The Power of the Paper Trail: Architecture Decision Records &lpar;ADRs&rpar;](https://dev.to/ejakait/the-power-of-the-paper-trail-architecture-decision-records-adrs-3e2d)
+- [Upload image with NestJS Minio S3](https://dev.to/vodnyy/upload-image-with-nestjs-minio-s3-19ml)
+- [Most MERN Tutorials Ignore This, Until Production Breaks](https://dev.to/prateek_mangalgi/most-mern-tutorials-ignore-this-until-production-breaks-3c2l)
+- [Stop Paying for Slack Alerts: Send Sentry Errors to Slack for Free](https://dev.to/lutif/stop-paying-for-slack-alerts-send-sentry-errors-to-slack-for-free-f7f)
+- [I Turned 6 Dusty Vercel Projects Into 7 Gumroad Products in One Day](https://dev.to/binbreeze/i-turned-6-dusty-vercel-projects-into-7-gumroad-products-in-one-day-33mn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
