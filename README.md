@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Pre-Recording Privacy Checklist for SaaS Demos &lpar;That Actually Works&rpar;](https://dev.to/gong_junhao_db22d984253d7/a-pre-recording-privacy-checklist-for-saas-demos-that-actually-works-3p8k)
-- [Stop Writing Strapi Types by Hand — Auto-Generate a Fully Typed Client in Seconds](https://dev.to/dearonski/stop-writing-strapi-types-by-hand-auto-generate-a-fully-typed-client-in-seconds-536m)
-- [The Math Behind VM Right-Sizing &lpar;Stop guessing your Azure SKU&rpar;](https://dev.to/abhijeet_h_ea7533c94/the-math-behind-vm-right-sizing-stop-guessing-your-azure-sku-130n)
-- [Cross-Cloud Authentication in Kubernetes: A Comprehensive Guide to IRSA, Workload Identity, and Federated Identity](https://dev.to/piyushjajoo/cross-cloud-authentication-in-kubernetes-a-comprehensive-guide-to-irsa-workload-identity-and-40en)
-- [Sunsetting Legacy Angular: How We&#39;re Migrating to Next.js, GraphQL, and a Monorepo &lpar;Without a Big Bang Rewrite&rpar;](https://dev.to/ujja/sunsetting-legacy-angular-how-were-migrating-to-nextjs-graphql-and-a-monorepo-without-a-big-1295)
+- [Navigating the ACA Deadline: Why WCAG 2.2 and EN 301 549 are Crucial for Federally Regulated Organizations](https://dev.to/proga100/navigating-the-aca-deadline-why-wcag-22-and-en-301-549-are-crucial-for-federally-regulated-dl1)
+- [How to install and deploy Dify and obtain the free API Key](https://dev.to/tyennsiiweeisthebest/how-to-install-and-deploy-dify-and-obtain-the-free-api-key-4oge)
+- [Why 0.1 + 0.2 Doesn&#39;t Equal 0.3 in Your Code](https://dev.to/vasughanta09/why-01-02-doesnt-equal-03-in-your-code-22ep)
+- [I&#39;m new to Dev.to](https://dev.to/nitr0d/im-new-to-devto-4had)
+- [Building Multi-Cluster EKS Infrastructure: From Dashboard Visibility to Hybrid Node Management](https://dev.to/tim_derzhavets/building-multi-cluster-eks-infrastructure-from-dashboard-visibility-to-hybrid-node-management-7p3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
