@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Navigating the ACA Deadline: Why WCAG 2.2 and EN 301 549 are Crucial for Federally Regulated Organizations](https://dev.to/proga100/navigating-the-aca-deadline-why-wcag-22-and-en-301-549-are-crucial-for-federally-regulated-dl1)
-- [How to install and deploy Dify and obtain the free API Key](https://dev.to/tyennsiiweeisthebest/how-to-install-and-deploy-dify-and-obtain-the-free-api-key-4oge)
-- [Why 0.1 + 0.2 Doesn&#39;t Equal 0.3 in Your Code](https://dev.to/vasughanta09/why-01-02-doesnt-equal-03-in-your-code-22ep)
-- [I&#39;m new to Dev.to](https://dev.to/nitr0d/im-new-to-devto-4had)
-- [Building Multi-Cluster EKS Infrastructure: From Dashboard Visibility to Hybrid Node Management](https://dev.to/tim_derzhavets/building-multi-cluster-eks-infrastructure-from-dashboard-visibility-to-hybrid-node-management-7p3)
+- [Clean Architecture in .NET 10: Testing What Matters](https://dev.to/bspann/clean-architecture-in-net-10-testing-what-matters-2inj)
+- [Find the Index of the First Occurrence in a String](https://dev.to/stack_overflowed/find-the-index-of-the-first-occurrence-in-a-string-30l9)
+- [OpenClaw生态深度分析：从个人AI助手到开源](https://dev.to/chx381/openclawsheng-tai-shen-du-fen-xi-cong-ge-ren-aizhu-shou-dao-kai-yuan-gln)
+- [.NET Learning Notes: Custom In-Memory Provider&lpar;1&rpar; - Registration and Discovery](https://dev.to/alexleeeeeeeeee/c-learning-notes-custom-in-memory-provider1-registration-and-discovery-12i0)
+- [Practical baseline safeguards for ChatGPT-powered services](https://dev.to/uni928/practical-baseline-safeguards-for-chatgpt-powered-services-efd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
