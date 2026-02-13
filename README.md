@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a playable Graeco-Latin Sudoku square: the math behind Suirodoku](https://dev.to/teliance/building-a-playable-graeco-latin-sudoku-square-the-math-behind-suirodoku-gf3)
-- [Integrate Seamlessly: Leveraging APIs for Voice-to-Chat Handoffs with Twilio &amp; VAPI](https://dev.to/callstacktech/integrate-seamlessly-leveraging-apis-for-voice-to-chat-handoffs-with-twilio-vapi-1c10)
-- [Why we didn’t build another chatbot and why security forced us to rethink OS-level AI agents](https://dev.to/neura77ead/why-we-didnt-build-another-chatbot-and-why-security-forced-us-to-rethink-os-level-ai-agents-pgl)
-- [Three LangGraph Agent Patterns That Replaced Hundreds of Lines of Glue Code](https://dev.to/irubtsov/three-langgraph-agent-patterns-that-replaced-hundreds-of-lines-of-glue-code-3a21)
-- [GDPR-Compliant Screen Recording: What You Actually Need to Know](https://dev.to/alexneamtu/gdpr-compliant-screen-recording-what-you-actually-need-to-know-33np)
+- [Building Responsive Canvas Apps: A Container-First Approach](https://dev.to/neeta_jadhav/building-responsive-canvas-apps-a-container-first-approach-5g4j)
+- [Φόρτωση Δεδομένων στο Entity Framework Core](https://dev.to/__b63657/phortose-dedomenon-sto-entity-framework-core-7dd)
+- [We Replaced Our Bash Scripts and Hydra With a Single Go Binary for Credential Testing](https://dev.to/praetorian_guard/we-replaced-our-bash-scripts-and-hydra-with-a-single-go-binary-for-credential-testing-3p5c)
+- [Building a Terminal-Based AI PR Reviewer with GitHub Copilot CLI](https://dev.to/rhythm_dubey_92c43317b6b3/building-a-terminal-based-ai-pr-reviewer-with-github-copilot-cli-36fe)
+- [AI Infra HPC — CPU](https://dev.to/bokai_gu/ai-infra-hpc-cpu-38h4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
