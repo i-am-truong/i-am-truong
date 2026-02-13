@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop Making Users Wait with APEX_AUTOMATION](https://dev.to/vinnyumtech/stop-making-users-wait-with-apexautomation-g0n)
-- [Navigation/Route Calculation System](https://dev.to/_noob/navigationroute-calculation-system-p0k)
-- [CodeCraft IDE: An Open Source Platform for Interpretation, Conversion and Modernization of Legacy Systems in Informix 4GL](https://dev.to/wanderbatistaf/codecraft-ide-an-open-source-platform-for-interpretation-conversion-and-modernization-of-legacy-2m31)
-- [Week 6 Challenge Audit XSS Vulnerabilities](https://dev.to/fosres/week-6-xss-audit-challenge-df7)
-- [Is Cloudflare Down? How to Check Status and Fix Issues](https://dev.to/shibley/is-cloudflare-down-how-to-check-status-and-fix-issues-3dn1)
+- [Introducing Ⓜ️ Meddler! A Medium Export Converter](https://dev.to/brennan/introducing-meddler-a-medium-export-converter-4nka)
+- [How to Test Any App with AI in 30 Seconds — Flutter, React Native, iOS, Android &amp; More](https://dev.to/free_bella/how-to-test-any-app-with-ai-in-30-seconds-flutter-react-native-ios-android-more-j6c)
+- [I Built a 120-Image AI Influencer Pipeline for $4.80](https://dev.to/jason_peterson_607e54abf5/i-built-a-120-image-ai-influencer-pipeline-for-480-117p)
+- [Computer Science for Beginners](https://dev.to/codeintuition/computer-science-for-beginners-584g)
+- [What Is Runtime Authorization? A Guide to Dynamic Access Control and the Best Runtime Authorization Tools](https://dev.to/anna_p_s/what-is-runtime-authorization-a-guide-to-dynamic-access-control-and-the-best-runtime-authorization-1849)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
