@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why do we need Databases?](https://dev.to/ganesh_parella/why-do-we-need-databases-519n)
-- [GHSA-27JP-WM6Q-GP25: Death by Parentheses: The sqlparse Recursive DoS](https://dev.to/cverports/ghsa-27jp-wm6q-gp25-death-by-parentheses-the-sqlparse-recursive-dos-1260)
-- [Journaling for Developers: A Simple Tool to Think Better, Not Write More](https://dev.to/adam_rageh_8c49adafd1d10d/journaling-for-developers-a-simple-tool-to-think-better-not-write-more-2lm8)
-- [Using Apex to Parse AI Outputs safely in Salesforce](https://dev.to/rubasri_srikanthan/using-apex-to-parse-ai-outputs-safely-in-salesforce-5cmn)
-- [path19](https://dev.to/query_filter_591122b53770/path19-5e59)
+- [Stop Making Users Wait with APEX_AUTOMATION](https://dev.to/vinnyumtech/stop-making-users-wait-with-apexautomation-g0n)
+- [Navigation/Route Calculation System](https://dev.to/_noob/navigationroute-calculation-system-p0k)
+- [CodeCraft IDE: An Open Source Platform for Interpretation, Conversion and Modernization of Legacy Systems in Informix 4GL](https://dev.to/wanderbatistaf/codecraft-ide-an-open-source-platform-for-interpretation-conversion-and-modernization-of-legacy-2m31)
+- [Week 6 Challenge Audit XSS Vulnerabilities](https://dev.to/fosres/week-6-xss-audit-challenge-df7)
+- [Is Cloudflare Down? How to Check Status and Fix Issues](https://dev.to/shibley/is-cloudflare-down-how-to-check-status-and-fix-issues-3dn1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
