@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hello World — Independent Security Researcher Joining DEV](https://dev.to/dtfoss/hello-world-independent-security-researcher-joining-dev-38fh)
-- [Antigravity: Beyond the Basics of AI Coding](https://dev.to/thecoder93/antigravity-beyond-the-basics-of-ai-coding-4kfp)
-- [Provide storage for the public website](https://dev.to/okunola_babatunde_dff5cbd/provide-storage-for-the-public-website-5chd)
-- [Ditch 10,000 Intermediate Tables—Compute Outside the Database with Open-Source SPL](https://dev.to/esproc_spl/ditch-10000-intermediate-tables-compute-outside-the-database-with-open-source-spl-4j1k)
-- [AI Coding Tools: The $10k Productivity Trap for 2025](https://dev.to/dr_hernani_costa/ai-coding-tools-the-10k-productivity-trap-for-2025-pgb)
+- [Escaping the &quot;AI Spaghetti Code&quot; Trap: How I Refactored My Next.js App with spec-kit](https://dev.to/wanxinvc/escaping-the-ai-spaghetti-code-trap-how-i-refactored-my-nextjs-app-with-spec-kit-3e5l)
+- [TIL: Template Strict Locals &lpar;TSL&rpar;](https://dev.to/epigene/til-template-strict-locals-tsl-31eb)
+- [OpenClaw Ecosystem Deep Dive: Personal AI Assistant to Open Source](https://dev.to/chx381/openclaw-ecosystem-deep-dive-personal-ai-assistant-to-open-source-30nm)
+- [&quot;Please Clear Your Cache&quot; — How I Finally Fixed Flutter Web Caching for Good](https://dev.to/adriengras/please-clear-your-cache-how-i-finally-fixed-flutter-web-caching-for-good-5dlj)
+- [Sentiment Analysis in C# - Without Python or External APIs](https://dev.to/olafur_aron/sentiment-analysis-in-c-without-python-or-external-apis-3jpm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
