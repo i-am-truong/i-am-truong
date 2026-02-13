@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Dev Log: Modernizing the Oatopia Shopify Experience](https://dev.to/highcenburg/dev-log-modernizing-the-oatopia-shopify-experience-1na2)
-- [I Started Slowing AI Down on Purpose](https://dev.to/briandavies/i-started-slowing-ai-down-on-purpose-cjm)
-- [I Rebuilt My Finances Around Bad Weeks](https://dev.to/briandavies/i-rebuilt-my-finances-around-bad-weeks-jc)
-- [How I Improved Email Rendering Performance 15x Using Rust + WebAssembly &lpar;Next.js 16 Devlog&rpar;](https://dev.to/sanjaysah/how-i-improved-email-rendering-performance-15x-using-rust-webassembly-nextjs-16-devlog-2hml)
-- [Regenerative Stablecoins: When “Stable” Also Means Net‑Positive](https://dev.to/ribhavmodi/regenerative-stablecoins-when-stable-also-means-net-positive-1i4j)
+- [Toxic Relationships 💔: When Your Agents Hallucinate](https://dev.to/prodevel/toxic-relationships-when-your-agents-hallucinate-1cpb)
+- [Comparing WebForms Core with Microsoft Classic WebForms: Revolution vs. Tradition](https://dev.to/elanatframework/comparing-webforms-core-with-microsoft-classic-webforms-revolution-vs-tradition-g03)
+- [Speeding Up Layout from Figma with MCP and Cursor](https://dev.to/byteminds/speeding-up-layout-from-figma-with-mcp-and-cursor-4211)
+- [Server Components aren&#39;t SSR!](https://dev.to/bishoy_bishai/server-components-arent-ssr-15m2)
+- [A Beginner’s Guide to ThreeJs](https://dev.to/adetolaesther/a-beginners-guide-to-threejs-ob5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
