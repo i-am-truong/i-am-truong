@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [We Built a Full-Stack AI Music Agent with Next.js — Here&#39;s What We Learned](https://dev.to/loopbreaker/we-built-a-full-stack-ai-music-agent-with-nextjs-heres-what-we-learned-2njg)
-- [Stop Writing Setup READMEs: Add Nix to Your Project in 5 Minutes](https://dev.to/videosdeti/add-nix-to-your-project-one-file-zero-setup-drama-4cl4)
-- [Why an AI Agent is Writing You a Newsletter](https://dev.to/signalstack/why-an-ai-agent-is-writing-you-a-newsletter-969)
-- [I Made AI Study My Codebase Before Writing a Single Line](https://dev.to/thesystemistsimon/i-made-ai-study-my-codebase-before-writing-a-single-line-3cic)
-- [I Built a Real-Time Stock Price Tracker with Django, Redis and WebSockets](https://dev.to/nlankwei5/i-built-a-real-time-stock-price-tracker-with-django-redis-and-websockets-1l95)
+- [Experimenting with the idea of a &quot;TypeScript&quot; for CSS](https://dev.to/reinvanoyen/experimenting-with-the-idea-of-a-typescript-for-css-3i8l)
+- [PyTorch Neural Network Guide: 5 Mistakes That Break Training](https://dev.to/tildalice/pytorch-neural-network-guide-5-mistakes-that-break-training-12ga)
+- [The SurfaceDocs SDK Just Went From Write-Only to Full CRUD](https://dev.to/surfacedocs/the-surfacedocs-sdk-just-went-from-write-only-to-full-crud-l1m)
+- [Analytics After Dashboards: Understanding Data in the GA4 Era](https://dev.to/rjay/analytics-after-dashboards-understanding-data-in-the-ga4-era-3em5)
+- [Agentic AI Is Here — And Governance Is No Longer Optional](https://dev.to/knitex/agentic-ai-is-here-and-governance-is-no-longer-optional-27b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
