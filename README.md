@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built an idea-to-repo CLI with Github copilot](https://dev.to/devmahn/i-built-an-idea-to-repo-cli-with-github-copilot-hfb)
-- [Fundamental matters more in AI era](https://dev.to/kination/fundamental-matters-more-in-ai-era-4nkf)
-- [Self-Hosted Docker Registry on Your Own SFTP: Introducing Refity](https://dev.to/troke12/self-hosted-docker-registry-on-your-own-sftp-introducing-refity-5ce5)
-- [Converting Large JSON, NDJSON, CSV and XML Files without Blowing Up Memory](https://dev.to/bruno_hanss_6b82bb52cd0fa/converting-large-json-ndjson-csv-and-xml-files-without-blowing-up-memory-20ao)
-- [How We Run Lighthouse from 18 Regions in Under 2 Minutes](https://dev.to/ahojmetrics/how-we-run-lighthouse-from-18-regions-in-under-2-minutes-pd7)
+- [EasyPrompt - AI Prompt Optimization Platform](https://dev.to/hustler_sniper/easyprompt-ai-prompt-optimization-platform-2nci)
+- [Navigating the current tech landscape.](https://dev.to/victoravelar/navigating-the-current-tech-landscape-9ca)
+- [Why Refactoring Can’t Save Bad Architecture](https://dev.to/hilqia_kenda/why-refactoring-cant-save-bad-architecture-17ee)
+- [Dead Simple CI Introduction](https://dev.to/melezhik/dead-simple-ci-introduction-1jh6)
+- [GLPI with Docker + Portainer: Complete Setup Guide &lpar;Self-Hosted IT Asset Management&rpar;](https://dev.to/jonas_oliveira_aa5bd76624/glpi-with-docker-portainer-complete-setup-guide-self-hosted-it-asset-management-234l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
