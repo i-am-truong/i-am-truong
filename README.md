@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Haar Cascades to YOLO: Face Detection Migration Guide](https://dev.to/tildalice/haar-cascades-to-yolo-face-detection-migration-guide-4lko)
-- [87.4% of Online Courses Never Get Finished. Here&#39;s Why &lpar;And What I Built to Fix It&rpar;](https://dev.to/valynx_saas/874-of-online-courses-never-get-finished-heres-why-and-what-i-built-to-fix-it-48e9)
-- [4 Hooks That Let Claude Code Run Autonomously &lpar;With Zero Babysitting&rpar;](https://dev.to/yurukusa/4-hooks-that-let-claude-code-run-autonomously-with-zero-babysitting-1748)
-- [How We Taught Our App to Find Medical Lab Results in Gmail](https://dev.to/alexrixten/how-we-taught-our-app-to-find-medical-lab-results-in-gmail-1405)
-- [Mamba-2 vs Griffin vs RWKV-6: SSM Architecture Benchmark](https://dev.to/tildalice/mamba-2-vs-griffin-vs-rwkv-6-ssm-architecture-benchmark-363m)
+- [Building a Character-Level Language Model in Rust: From Zero to &quot;Aha!&quot;](https://dev.to/palash90/building-a-character-level-language-model-in-rust-from-zero-to-aha-416i)
+- [Is Your Streaming Service Down? How to Check Netflix, Disney+, Hulu &amp; More &lpar;2026&rpar;](https://dev.to/shibley/is-your-streaming-service-down-how-to-check-netflix-disney-hulu-more-2026-437c)
+- [How to Scrape Pinduoduo &lpar;拼多多&rpar; for Product Data: A Complete Guide](https://dev.to/wfgsss/how-to-scrape-pinduoduo-pin-duo-duo-for-product-data-a-complete-guide-34dj)
+- [The &quot;This&quot; Identity Crisis: A Survival Guide to `.call&lpar;&rpar;`, `.apply&lpar;&rpar;`, and `.bind&lpar;&rpar;`](https://dev.to/kiran_ravi_092a2cfcf60389/the-this-identity-crisis-a-survival-guide-to-call-apply-and-bind-pcm)
+- [The Client Knows Best: Deep Dive into WebRTC getStats&lpar;&rpar; and Quality Monitoring](https://dev.to/deepak_mishra_35863517037/the-client-knows-best-deep-dive-into-webrtc-getstats-and-quality-monitoring-3e5p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
