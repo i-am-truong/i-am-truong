@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Use 19 AI Agents to Design Physics Engines &lpar;Tournament Architecture&rpar;](https://dev.to/0x000null/how-i-use-19-ai-agents-to-design-physics-engines-tournament-architecture-4ipp)
-- [CVE-2026-1721: CVE-2026-1721: When JSON.stringify&lpar;&rpar; Betrays You in Cloudflare Agents](https://dev.to/cverports/cve-2026-1721-cve-2026-1721-when-jsonstringify-betrays-you-in-cloudflare-agents-2m9g)
-- [The Waterfall Pattern: A Tiered Strategy for Reliable Data Extraction](https://dev.to/withatte/the-waterfall-pattern-a-tiered-strategy-for-reliable-data-extraction-295k)
-- [From Zero to Production API in 5 Minutes](https://dev.to/rapidkit/from-zero-to-production-api-in-5-minutes-2ehl)
-- [Why the Next Freelance Marketplace Needs AI Agents as First-Class Citizens](https://dev.to/chovy/why-the-next-freelance-marketplace-needs-ai-agents-as-first-class-citizens-2mcp)
+- [Quacktionable: Put Your Bug on Trial with a Rubber Duck Tribunal 🦆⚖️](https://dev.to/seshanpillay/quacktionable-put-your-bug-on-trial-with-a-rubber-duck-tribunal-5f3e)
+- [[Boost]](https://dev.to/raymiles94/-11ip)
+- [Beyond train_test_split: 3 Pro Techniques to Refine Your Data Splitting](https://dev.to/sifatmusfique/beyond-traintestsplit-3-pro-techniques-to-refine-your-data-splitting-2ge0)
+- [How to Pass Context to Pydantic Validators](https://dev.to/david_shimon/how-to-pass-context-to-pydantic-validators-3jgo)
+- [The Complete Guide to Solidity Inheritance](https://dev.to/azeezabidoye/the-complete-guide-to-solidity-inheritance-57cp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
