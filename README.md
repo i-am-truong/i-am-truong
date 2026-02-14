@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [cd with Argo CD and helm](https://dev.to/jumptotech/cd-with-argo-cd-and-helm-40e0)
-- [Behind the Scenes: Why I Created a Performance Testing Course](https://dev.to/oleh_koren/behind-the-scenes-why-i-created-a-performance-testing-course-22i0)
-- [I built this to stop the endless cycle of copy-pasting terminal errors into Google. It uses Copilot CLI to give you a one-line fix directly in the terminal.](https://dev.to/stefan_donosa/i-built-this-to-stop-the-endless-cycle-of-copy-pasting-terminal-errors-into-google-it-uses-copilot-m6n)
-- [CI and CD JOBs – What Exactly It Does in Production](https://dev.to/jumptotech/ci-and-cd-jobs-what-exactly-it-does-in-production-3l6b)
-- [CVE-2026-26273: The Over-Helpful Doorman: Full Account Takeover in &#39;Known&#39; CMS](https://dev.to/cverports/cve-2026-26273-the-over-helpful-doorman-full-account-takeover-in-known-cms-4gj8)
+- [THE NEW WEB](https://dev.to/arber/the-new-web-2kac)
+- [Building an AI Proposal Pipeline: From Call Transcripts to Branded Web Pages with Python and Supabase](https://dev.to/syntora/building-an-ai-proposal-pipeline-from-call-transcripts-to-branded-web-pages-with-python-and-2a08)
+- [ImportKit vs Flatfile: The Best Affordable Alternative for Small Startups in 2026](https://dev.to/importkit/importkit-vs-flatfile-the-best-affordable-alternative-for-small-startups-in-2026-3hda)
+- [🥂 Beginner-Friendly Guide &#39;Champagne Tower&#39; - Problem 799 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-champagne-tower-problem-799-c-python-javascript-34om)
+- [When “Damaged” Isn’t the Problem: Fixing Data Rancher’s File Access on macOS Sonoma](https://dev.to/ammad155/when-damaged-isnt-the-problem-fixing-data-ranchers-file-access-on-macos-sonoma-4epm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
