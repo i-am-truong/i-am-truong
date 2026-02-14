@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Going Back to My School: Where My Habits, Goals, and Dreams Were Born](https://dev.to/vigneshwaralingam/going-back-to-my-school-where-my-habits-goals-and-dreams-were-born-3e5b)
-- [When having a better display backfires: fixing &#39;blurry&#39; VLC in Hyprland](https://dev.to/ardur/when-having-a-better-display-backfires-fixing-blurry-vlc-in-hyprland-5aie)
-- [PyScript Language: Running Python Directly in the Browser](https://dev.to/badass_tech-ae2025/pyscript-language-running-python-directly-in-the-browser-3odj)
-- [Why I Built a Newsletter + Podcast Platform That Doesn&#39;t Lock You In](https://dev.to/chovy/why-i-built-a-newsletter-podcast-platform-that-doesnt-lock-you-in-hbk)
-- [CVE-2025-33042: Schema to Shell: Unpacking the Apache Avro Code Injection Vulnerability](https://dev.to/cverports/cve-2025-33042-schema-to-shell-unpacking-the-apache-avro-code-injection-vulnerability-4263)
+- [Constructor](https://dev.to/karthick_m22/constructor-20ae)
+- [Weekly #05-2026: AI Agents Build Compilers, SVG-First Apps, Markdown for Agents, and Why Code Is Now Cheap](https://dev.to/weekly/weekly-05-2026-ai-agents-build-compilers-svg-first-apps-markdown-for-agents-and-why-code-is-1km8)
+- [Data Relationships Are a First-Class Problem in Modern Data Systems](https://dev.to/hello_arisyn_0dc948aa82b3/data-relationships-are-a-first-class-problem-in-modern-data-systems-31kd)
+- [How I Shipped 3 Production SaaS Backends in 30 Days Using Claude Code &lpar;Without Context Loss Destroying Everything&rpar;](https://dev.to/codedbytan/how-i-shipped-3-production-saas-backends-in-30-days-using-claude-code-without-context-loss-2fnm)
+- [Beyond console.log: Building a Robust Observability Pipeline in 2026](https://dev.to/raymondoyondi/beyond-consolelog-building-a-robust-observability-pipeline-in-2026-49c2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
