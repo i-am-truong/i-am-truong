@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Semantic Search in C# Without Python](https://dev.to/olafur_aron/semantic-search-in-c-without-python-348m)
-- [The Sovereign Agent: Why vServers are the new home of AGI](https://dev.to/agentnexus/the-sovereign-agent-why-vservers-are-the-new-home-of-agi-4bo2)
-- [I Built a Free Open-Source Hotel AI &lpar;By Accident&rpar;](https://dev.to/arashkay/i-built-a-free-open-source-hotel-ai-by-accident-309i)
-- [Linux Networking Commands to Master](https://dev.to/kervie_sazon/linux-networking-commands-to-master-4505)
-- [Can Logs Help Optimize Databases? Using Grafana Loki as Support](https://dev.to/cleiton_silva_7d463557a05/can-logs-help-optimize-databases-using-grafana-loki-as-support-ldk)
+- [Difference between IAM role and policy in Google Cloud Google Cloud Platform?](https://dev.to/realnamehidden1_61/difference-between-iam-role-and-policy-in-google-cloud-google-cloud-platform-3pl1)
+- [DevScope: System Activity &amp; Productivity Analyzer with GitHub Copilot CLI](https://dev.to/shubham_pareta_7337a009cd/devscope-system-activity-productivity-analyzer-with-github-copilot-cli-4hko)
+- [From Code to Shape: A Beginner’s Guide to Unity Mesh Generation](https://dev.to/prasanth_sivakumar/from-code-to-shape-a-beginners-guide-to-unity-mesh-generation-gff)
+- [I Stopped Treating Claude Code Like a Chat Tool — and My Workflow Got More Reliable](https://dev.to/9000labs/i-stopped-treating-claude-code-like-a-chat-tool-and-my-workflow-got-more-reliable-2bm6)
+- [The Real Cost of &quot;I&#39;ll Refactor It Later&quot; &lpar;And Why I Finally Stopped Lying to Myself&rpar;](https://dev.to/nader0913/the-real-cost-of-ill-refactor-it-later-and-why-i-finally-stopped-lying-to-myself-40g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
