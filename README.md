@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The 1% Rule: How Much Should You Risk per Trade?](https://dev.to/skyriss/the-1-rule-how-much-should-you-risk-per-trade-28ok)
 - [Solidity to Compact: Developer&#39;s Migration Guide](https://dev.to/henry_messiahtmt_099ca84/solidity-to-compact-developers-migration-guide-1kij)
 - [Week 1 — When LLM Failures Weren’t About Load, But Timing &lpar;ZooKeeper + Distributed Locking&rpar;](https://dev.to/namratha_3/week-1-when-llm-failures-werent-about-load-but-timing-zookeeper-distributed-locking-ii4)
 - [I Built a Chrome Extension That Scans Websites for Threats Using AI — Entirely On-Device](https://dev.to/sattyamjjain/i-built-a-chrome-extension-that-scans-websites-for-threats-using-ai-entirely-on-device-23kp)
 - [I Built a Python Library with 90+ Data Structures, Algorithms &amp; Design Patterns](https://dev.to/sattyamjjain/i-built-a-python-library-with-90-data-structures-algorithms-design-patterns-kb)
-- [Explainable Causal Reinforcement Learning for heritage language revitalization programs with inverse simulation verification](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-heritage-language-revitalization-programs-with-18m4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
