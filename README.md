@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [NDM-TCP Hyper-Embedded &lpar;v3.0&rpar;: Technical Overview](https://dev.to/hejhdiss/ndm-tcp-hyper-embedded-v30-technical-overview-39fm)
-- [The Control Plane Is Your Real Production System](https://dev.to/iyanu_david/the-control-plane-is-your-real-production-system-3ic1)
-- [3-way Boolean Anti-pattern](https://dev.to/sualeh/3-way-boolean-anti-pattern-2fdf)
-- [🧬 ProjectDNA — I Built an AI Tool that Reality-Checks Your Project Ideas using GitHub Copilot CLI](https://dev.to/sreelaxmi21/projectdna-i-built-an-ai-tool-that-reality-checks-your-project-ideas-using-github-copilot-cli-158g)
-- [How We Built a 15-Agent AI Operations Team in One Day](https://dev.to/agentforge/how-i-built-a-15-agent-ai-operations-team-in-one-day-3lm8)
+- [Going Back to My School: Where My Habits, Goals, and Dreams Were Born](https://dev.to/vigneshwaralingam/going-back-to-my-school-where-my-habits-goals-and-dreams-were-born-3e5b)
+- [When having a better display backfires: fixing &#39;blurry&#39; VLC in Hyprland](https://dev.to/ardur/when-having-a-better-display-backfires-fixing-blurry-vlc-in-hyprland-5aie)
+- [PyScript Language: Running Python Directly in the Browser](https://dev.to/badass_tech-ae2025/pyscript-language-running-python-directly-in-the-browser-3odj)
+- [Why I Built a Newsletter + Podcast Platform That Doesn&#39;t Lock You In](https://dev.to/chovy/why-i-built-a-newsletter-podcast-platform-that-doesnt-lock-you-in-hbk)
+- [CVE-2025-33042: Schema to Shell: Unpacking the Apache Avro Code Injection Vulnerability](https://dev.to/cverports/cve-2025-33042-schema-to-shell-unpacking-the-apache-avro-code-injection-vulnerability-4263)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
