@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What STEM Professionals Should Know About EB1A Self-Petition in 2026](https://dev.to/chisha_d5ceeffee4e27/what-stem-professionals-should-know-about-eb1a-self-petition-in-2026-59h5)
-- [How We Built Multi-Modal Screen Detection for Cryptographic Evidence Capture: VeraSnap](https://dev.to/veritaschain/how-we-built-multi-modal-screen-detection-for-cryptographic-evidence-capture-verasnap-3f2m)
-- [OpenClaw记忆系统深度解析：三层架构解决AI失忆问题 &lpar;修正版&rpar;](https://dev.to/chx381/openclawji-yi-xi-tong-shen-du-jie-xi-san-ceng-jia-gou-jie-jue-aishi-yi-wen-ti-xiu-zheng-ban--4ged)
-- [An Illegal Order: The Limits of Obedience and Hierarchy](https://dev.to/fundacjadobrepanstwo/an-illegal-order-the-limits-of-obedience-and-hierarchy-5aej)
-- [Daily Tech Digest: Skills Ops, Dev.to Publishing, and Codex WebUI Debugging](https://dev.to/brutalstrike2/daily-tech-digest-skills-ops-devto-publishing-and-codex-webui-debugging-4di6)
+- [Why Unstructured Data is a Good Fit for Java](https://dev.to/aasawari_sahasrabuddhe_3c/why-unstructured-data-is-a-good-fit-for-java-2o05)
+- [Streamlining Java Application Development With MongoDB: A Comprehensive Guide to Using Testcontainers](https://dev.to/aasawari_sahasrabuddhe_3c/streamlining-java-application-development-with-mongodb-a-comprehensive-guide-to-using-1469)
+- [I Built a Discord Bot Manager with Python &amp; Tkinter &lpar;With AI Help&rpar;](https://dev.to/v3ct0r924/i-built-a-discord-bot-manager-with-python-tkinter-with-ai-help-3j87)
+- [Final Chapter: Jenkins EFS Problem Solved - From 100% to 0% Throughput Usage](https://dev.to/tielec-takashi/final-chapter-jenkins-efs-problem-solved-from-100-to-0-throughput-usage-2km7)
+- [Terminal Tutor - an interactive Git CLI coach built with GitHub Copilot CLI](https://dev.to/anthonyerazo/terminal-tutor-an-interactive-git-cli-coach-built-with-github-copilot-cli-1522)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
