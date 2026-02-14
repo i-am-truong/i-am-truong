@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Haar Cascades to YOLO: Face Detection Migration Guide](https://dev.to/tildalice/haar-cascades-to-yolo-face-detection-migration-guide-4lko)
+- [87.4% of Online Courses Never Get Finished. Here&#39;s Why &lpar;And What I Built to Fix It&rpar;](https://dev.to/valynx_saas/874-of-online-courses-never-get-finished-heres-why-and-what-i-built-to-fix-it-48e9)
 - [4 Hooks That Let Claude Code Run Autonomously &lpar;With Zero Babysitting&rpar;](https://dev.to/yurukusa/4-hooks-that-let-claude-code-run-autonomously-with-zero-babysitting-1748)
 - [How We Taught Our App to Find Medical Lab Results in Gmail](https://dev.to/alexrixten/how-we-taught-our-app-to-find-medical-lab-results-in-gmail-1405)
-- [CLI Github Challenge- #LinuxCompass](https://dev.to/thegamersbaxechief/cli-github-challenge-linuxcompass-1e3c)
-- [Testability vs. Automatability: Why Most Automation Efforts Fail Before They Begin-Part4](https://dev.to/qa-leaders/testability-vs-automatability-why-most-automation-efforts-fail-before-they-begin-part4-5dp8)
-- [57% of Agencies Lose $1K-$5K Monthly to Scope Creep. Here&#39;s Why It Keeps Happening.](https://dev.to/valynx_saas/57-of-agencies-lose-1k-5k-monthly-to-scope-creep-heres-why-it-keeps-happening-39hf)
+- [Mamba-2 vs Griffin vs RWKV-6: SSM Architecture Benchmark](https://dev.to/tildalice/mamba-2-vs-griffin-vs-rwkv-6-ssm-architecture-benchmark-363m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
