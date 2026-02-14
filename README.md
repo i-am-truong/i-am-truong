@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Constructor](https://dev.to/karthick_m22/constructor-20ae)
-- [Weekly #05-2026: AI Agents Build Compilers, SVG-First Apps, Markdown for Agents, and Why Code Is Now Cheap](https://dev.to/weekly/weekly-05-2026-ai-agents-build-compilers-svg-first-apps-markdown-for-agents-and-why-code-is-1km8)
-- [Data Relationships Are a First-Class Problem in Modern Data Systems](https://dev.to/hello_arisyn_0dc948aa82b3/data-relationships-are-a-first-class-problem-in-modern-data-systems-31kd)
-- [How I Shipped 3 Production SaaS Backends in 30 Days Using Claude Code &lpar;Without Context Loss Destroying Everything&rpar;](https://dev.to/codedbytan/how-i-shipped-3-production-saas-backends-in-30-days-using-claude-code-without-context-loss-2fnm)
-- [Beyond console.log: Building a Robust Observability Pipeline in 2026](https://dev.to/raymondoyondi/beyond-consolelog-building-a-robust-observability-pipeline-in-2026-49c2)
+- [CVE-2026-22892: Confused Deputy in the Chatroom: Dissecting CVE-2026-22892](https://dev.to/cverports/cve-2026-22892-confused-deputy-in-the-chatroom-dissecting-cve-2026-22892-4pp8)
+- [I Built a CLI That Remembers What I Was Working On &lpar;So I Don&#39;t Have To&rpar;](https://dev.to/hempun10/i-built-a-cli-that-remembers-what-i-was-working-on-so-i-dont-have-to-4p1j)
+- [Copilot CLI helped me with VS Code accessibility extension](https://dev.to/vadimengineer/copilot-cli-helped-me-with-vs-code-accessibility-extension-39d)
+- [Pixel Pal: Gamifying the GitHub Copilot CLI Experience 🧙‍♂️⚔️](https://dev.to/gbolahan_olanrewaju_01796/pixel-pal-gamifying-the-github-copilot-cli-experience-4g16)
+- [[Boost]](https://dev.to/kijmoshi/-kkj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
