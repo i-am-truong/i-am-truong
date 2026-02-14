@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Quacktionable: Put Your Bug on Trial with a Rubber Duck Tribunal 🦆⚖️](https://dev.to/seshanpillay/quacktionable-put-your-bug-on-trial-with-a-rubber-duck-tribunal-5f3e)
-- [[Boost]](https://dev.to/raymiles94/-11ip)
-- [Beyond train_test_split: 3 Pro Techniques to Refine Your Data Splitting](https://dev.to/sifatmusfique/beyond-traintestsplit-3-pro-techniques-to-refine-your-data-splitting-2ge0)
-- [How to Pass Context to Pydantic Validators](https://dev.to/david_shimon/how-to-pass-context-to-pydantic-validators-3jgo)
-- [The Complete Guide to Solidity Inheritance](https://dev.to/azeezabidoye/the-complete-guide-to-solidity-inheritance-57cp)
+- [Stop Your Coding Agent From Stealing Production Secrets](https://dev.to/dean0x/stop-your-coding-agent-from-stealing-production-secrets-4ogi)
+- [From Frontend to Full-Stack: Building a Real Estate Marketplace and Learning Backend Development](https://dev.to/maxixo/from-frontend-to-full-stack-building-a-real-estate-marketplace-and-learning-backend-development-2258)
+- [Beyond Encryption: Designing a Tamper-Evident State Engine](https://dev.to/laphilosophia/beyond-encryption-designing-a-tamper-evident-state-engine-1c19)
+- [CIberus: A Three-Headed ASCII Guardian for Your CI Pipeline](https://dev.to/simandebvu/ciberus-a-three-headed-ascii-guardian-for-your-ci-pipeline-52m8)
+- [OpenCode: Tu Agente de lA Potenciado para la Terminal](https://dev.to/kevinl/opencode-your-empowered-agent-for-the-terminal-10)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
