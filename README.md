@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [THE NEW WEB](https://dev.to/arber/the-new-web-2kac)
-- [Building an AI Proposal Pipeline: From Call Transcripts to Branded Web Pages with Python and Supabase](https://dev.to/syntora/building-an-ai-proposal-pipeline-from-call-transcripts-to-branded-web-pages-with-python-and-2a08)
-- [ImportKit vs Flatfile: The Best Affordable Alternative for Small Startups in 2026](https://dev.to/importkit/importkit-vs-flatfile-the-best-affordable-alternative-for-small-startups-in-2026-3hda)
-- [🥂 Beginner-Friendly Guide &#39;Champagne Tower&#39; - Problem 799 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-champagne-tower-problem-799-c-python-javascript-34om)
-- [When “Damaged” Isn’t the Problem: Fixing Data Rancher’s File Access on macOS Sonoma](https://dev.to/ammad155/when-damaged-isnt-the-problem-fixing-data-ranchers-file-access-on-macos-sonoma-4epm)
+- [What STEM Professionals Should Know About EB1A Self-Petition in 2026](https://dev.to/chisha_d5ceeffee4e27/what-stem-professionals-should-know-about-eb1a-self-petition-in-2026-59h5)
+- [How We Built Multi-Modal Screen Detection for Cryptographic Evidence Capture: VeraSnap](https://dev.to/veritaschain/how-we-built-multi-modal-screen-detection-for-cryptographic-evidence-capture-verasnap-3f2m)
+- [OpenClaw记忆系统深度解析：三层架构解决AI失忆问题 &lpar;修正版&rpar;](https://dev.to/chx381/openclawji-yi-xi-tong-shen-du-jie-xi-san-ceng-jia-gou-jie-jue-aishi-yi-wen-ti-xiu-zheng-ban--4ged)
+- [An Illegal Order: The Limits of Obedience and Hierarchy](https://dev.to/fundacjadobrepanstwo/an-illegal-order-the-limits-of-obedience-and-hierarchy-5aej)
+- [Daily Tech Digest: Skills Ops, Dev.to Publishing, and Codex WebUI Debugging](https://dev.to/brutalstrike2/daily-tech-digest-skills-ops-devto-publishing-and-codex-webui-debugging-4di6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
