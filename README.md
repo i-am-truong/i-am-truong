@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AWS Organizations + IAM Identity Center: The ‘multi-account + access’ combo I use everywhere](https://dev.to/mouheb_ghabri_3146951706c/aws-organizations-iam-identity-center-the-multi-account-access-combo-i-use-everywhere-ii3)
-- [I Built a “AWS CDK NodejsFunction”… but for AWS Fargate](https://dev.to/aws-builders/i-built-a-aws-cdk-nodejsfunction-but-for-aws-fargate-97i)
-- [Interfaces and Abstract Classes in C#](https://dev.to/allcoderthings/interfaces-and-abstract-classes-in-c-4e13)
-- [LLD-5:Stock Market Notification System](https://dev.to/_noob/lld-5stock-market-notification-system-4ji3)
-- [Building Sentinel AI: A Cybersecurity CLI Powered by Copilot](https://dev.to/bangkah/building-sentinel-ai-a-cybersecurity-cli-powered-by-copilot-35fh)
+- [10 Mistakes You&#39;re making in Kubernetes that cost you money](https://dev.to/tal_shafir_49b67973e9d3b4/10-mistakes-youre-making-in-kubernetes-that-cost-you-money-48c5)
+- [From Chaos to Clarity: My Journey Building JSON Query Pro](https://dev.to/priyabratapaul/from-chaos-to-clarity-my-journey-building-json-query-pro-45kg)
+- [How I Brought Wiimotes Back to Life in 2026](https://dev.to/juanipis/how-i-bring-back-the-wiimotes-on-2026-29h8)
+- [NDM-TCP: The 100Gbps Ultra-Low Latency Build](https://dev.to/hejhdiss/ndm-tcp-the-100gbps-ultra-low-latency-build-24ie)
+- [How I Built My Django Portfolio Website from Scratch &lpar;Step-by-Step Guide&rpar;](https://dev.to/anonymous2583/how-i-built-my-django-portfolio-website-from-scratch-step-by-step-guide-2ma6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
