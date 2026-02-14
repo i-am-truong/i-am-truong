@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Custom OSINT Tool for Digital Footprinting &lpar;by lazyekansh&rpar;](https://dev.to/lazyekansh/building-a-custom-osint-tool-for-digital-footprinting-by-lazyekansh-501m)
-- [Day 1 — Back to Scratch: Relearning Python Without Autopilot](https://dev.to/hafiz_shamnad_f513385b0a9/day-1-back-to-scratch-relearning-python-without-autopilot-4ak7)
-- [6 months until the EU AI Act hits. Here&#39;s what runtime security means.](https://dev.to/luckypipewrench/6-months-until-the-eu-ai-act-hits-heres-what-runtime-security-means-23bo)
-- [WebMCP is Coming, but Your AI Needs Eyes Today: Why MCP-FE is the Bridge to the Future](https://dev.to/michalkopecky/webmcp-is-coming-but-your-ai-needs-eyes-today-why-mcp-fe-is-the-bridge-to-the-future-5gli)
-- [tui-notes the &#39;post it&#39; in terminal](https://dev.to/douglas019br/tui-notes-the-post-it-in-terminal-86e)
+- [Introducing NotumAi: The Open-Source, AI-Powered Annotation Tool](https://dev.to/maulik_sompura_22/introducing-notumai-the-open-source-ai-powered-annotation-tool-1o9)
+- [Why I stopped over-customizing my VS Code setup](https://dev.to/palks_studio/why-i-stopped-over-customizing-my-vs-code-setup-374a)
+- [AltSchool Of Engineering Tinyuka’24 Month 12 Week 4](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-12-week-4-2bjg)
+- [What Is a Blockchain, Actually?](https://dev.to/kianenigma/what-is-a-blockchain-actually-4le1)
+- [How I Vibe Coded My Vibe Coding Platform](https://dev.to/bigsondev/how-i-vibe-coded-my-vibe-coding-platform-4p4d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
