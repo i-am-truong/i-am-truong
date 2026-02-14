@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [EasyPrompt - AI Prompt Optimization Platform](https://dev.to/hustler_sniper/easyprompt-ai-prompt-optimization-platform-2nci)
-- [Navigating the current tech landscape.](https://dev.to/victoravelar/navigating-the-current-tech-landscape-9ca)
-- [Why Refactoring Can’t Save Bad Architecture](https://dev.to/hilqia_kenda/why-refactoring-cant-save-bad-architecture-17ee)
-- [Dead Simple CI Introduction](https://dev.to/melezhik/dead-simple-ci-introduction-1jh6)
-- [GLPI with Docker + Portainer: Complete Setup Guide &lpar;Self-Hosted IT Asset Management&rpar;](https://dev.to/jonas_oliveira_aa5bd76624/glpi-with-docker-portainer-complete-setup-guide-self-hosted-it-asset-management-234l)
+- [From Perception to Embodied Intelligence: Evolution, Architectures, and the Humanoid Gap](https://dev.to/ankk98/from-perception-to-embodied-intelligence-evolution-architectures-and-the-humanoid-gap-3dhi)
+- [Running Ubuntu Minimal Cloud Image with QEMU-KVM and SSH in GitHub Actions](https://dev.to/vast-cow/running-ubuntu-minimal-cloud-image-with-qemu-kvm-and-ssh-in-github-actions-3lnk)
+- [I Stopped Reading Newsletters. Here&#39;s What I Use Instead.](https://dev.to/warren_allen/i-stopped-reading-newsletters-heres-what-i-use-instead-2hi)
+- [Built Something Crazy This Week – Inkash](https://dev.to/random_ti/built-something-crazy-this-week-inkash-17g1)
+- [Specter: Give Your Codebase a Voice](https://dev.to/liztacular/specter-give-your-codebase-a-voice-2pd0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
