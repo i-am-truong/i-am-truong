@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Unstructured Data is a Good Fit for Java](https://dev.to/aasawari_sahasrabuddhe_3c/why-unstructured-data-is-a-good-fit-for-java-2o05)
-- [Streamlining Java Application Development With MongoDB: A Comprehensive Guide to Using Testcontainers](https://dev.to/aasawari_sahasrabuddhe_3c/streamlining-java-application-development-with-mongodb-a-comprehensive-guide-to-using-1469)
-- [I Built a Discord Bot Manager with Python &amp; Tkinter &lpar;With AI Help&rpar;](https://dev.to/v3ct0r924/i-built-a-discord-bot-manager-with-python-tkinter-with-ai-help-3j87)
-- [Final Chapter: Jenkins EFS Problem Solved - From 100% to 0% Throughput Usage](https://dev.to/tielec-takashi/final-chapter-jenkins-efs-problem-solved-from-100-to-0-throughput-usage-2km7)
-- [Terminal Tutor - an interactive Git CLI coach built with GitHub Copilot CLI](https://dev.to/anthonyerazo/terminal-tutor-an-interactive-git-cli-coach-built-with-github-copilot-cli-1522)
+- [MongoDB Advanced Techniques: Going Beyond the Basics](https://dev.to/whytrchy/mongodb-advanced-techniques-going-beyond-the-basics-g71)
+- [MonBusiness: When AI Helped Me Build My Sister a Business in One Week](https://dev.to/gervaisamoah/monbusiness-when-ai-helped-me-build-my-sister-a-business-in-one-week-4jia)
+- [Designing a Layered YouTube Analytics Pipeline with AWS Bedrock &lpar;Architecture Overview](https://dev.to/geets_a1be902588b38e52740/designing-a-layered-youtube-analytics-pipeline-with-aws-bedrock-architecture-overview-1ba4)
+- [Offline vs Cloud: the Real Threat Model in Password Managers](https://dev.to/marano/offline-vs-cloud-il-vero-modello-di-minaccia-nei-password-manager-1b4e)
+- [Why Your API Integration Keeps Breaking](https://dev.to/apiverve/why-your-api-integration-keeps-breaking-10c8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
