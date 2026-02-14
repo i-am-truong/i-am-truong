@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Rock ✊ Paper ✋ Scissors ✌️](https://dev.to/elanatframework/rock-paper-scissors-3adb)
 - [CVE-2026-22892: Confused Deputy in the Chatroom: Dissecting CVE-2026-22892](https://dev.to/cverports/cve-2026-22892-confused-deputy-in-the-chatroom-dissecting-cve-2026-22892-4pp8)
 - [I Built a CLI That Remembers What I Was Working On &lpar;So I Don&#39;t Have To&rpar;](https://dev.to/hempun10/i-built-a-cli-that-remembers-what-i-was-working-on-so-i-dont-have-to-4p1j)
 - [Copilot CLI helped me with VS Code accessibility extension](https://dev.to/vadimengineer/copilot-cli-helped-me-with-vs-code-accessibility-extension-39d)
 - [Pixel Pal: Gamifying the GitHub Copilot CLI Experience 🧙‍♂️⚔️](https://dev.to/gbolahan_olanrewaju_01796/pixel-pal-gamifying-the-github-copilot-cli-experience-4g16)
-- [[Boost]](https://dev.to/kijmoshi/-kkj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
