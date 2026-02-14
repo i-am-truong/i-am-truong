@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SciVerify: I Built an AI Agent that &quot;Reads&quot; Science So You Don&#39;t Have To](https://dev.to/natashanewbold/sciverify-i-built-an-ai-agent-that-reads-science-so-you-dont-have-to-258g)
-- [How I Prevented CSV Injection Attacks in a QR Batch Generator &lpar;And Why You Should Care&rpar;](https://dev.to/abdurrahmanhassan/how-i-prevented-csv-injection-attacks-in-a-qr-batch-generator-and-why-you-should-care-6en)
-- [Why I don&#39;t trust AI with my query plans](https://dev.to/ash_mse/why-i-dont-trust-ai-with-my-query-plans-1aed)
-- [AI Agent Frameworks: The $500k Decision Founders Get Wrong](https://dev.to/dr_hernani_costa/ai-agent-frameworks-the-500k-decision-founders-get-wrong-4ol8)
-- [Google&#39;s AI Hardware: The $250/mo Platform Tax for Founders](https://dev.to/dr_hernani_costa/googles-ai-hardware-the-250mo-platform-tax-for-founders-cg6)
+- [Semantic Search in C# Without Python](https://dev.to/olafur_aron/semantic-search-in-c-without-python-348m)
+- [The Sovereign Agent: Why vServers are the new home of AGI](https://dev.to/agentnexus/the-sovereign-agent-why-vservers-are-the-new-home-of-agi-4bo2)
+- [I Built a Free Open-Source Hotel AI &lpar;By Accident&rpar;](https://dev.to/arashkay/i-built-a-free-open-source-hotel-ai-by-accident-309i)
+- [Linux Networking Commands to Master](https://dev.to/kervie_sazon/linux-networking-commands-to-master-4505)
+- [Can Logs Help Optimize Databases? Using Grafana Loki as Support](https://dev.to/cleiton_silva_7d463557a05/can-logs-help-optimize-databases-using-grafana-loki-as-support-ldk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
