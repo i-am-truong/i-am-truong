@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Implementing BLE Security on ESP32: LE Secure Connections the Hard Way](https://dev.to/makepkg/implementing-ble-security-on-esp32-le-secure-connections-the-hard-way-2kb9)
-- [Advanced GPU Optimization: Metal &amp; Vulkan Compute from zero to hero - Part 2](https://dev.to/javadinteger/advanced-gpu-optimization-metal-vulkan-compute-from-zero-to-hero-part-2-1inn)
-- [AuthKit Pro – Simplifying NextAuth Setup in Next.js](https://dev.to/muhammad_rabbi_dev/authkit-pro-simplifying-nextauth-setup-in-nextjs-2ji7)
-- [Salt, Pepper, and Secret Sauce: The Recipe for Uncrackable Passwords](https://dev.to/igornosatov_15/salt-pepper-and-secret-sauce-the-recipe-for-uncrackable-passwords-k3k)
-- [Advanced GPU Optimization: Metal &amp; Vulkan Compute from zero to hero](https://dev.to/javadinteger/advanced-gpu-optimization-metal-vulkan-compute-from-zero-to-hero-4cfg)
+- [HakoNyans: A Transparent Lossless Codec Challenge &lpar;with GitHub Copilot CLI&rpar;](https://dev.to/charmpic/hakonyans-a-transparent-lossless-codec-challenge-with-github-copilot-cli-2imj)
+- [Making offline time-tracker with Copilot CLI](https://dev.to/zmateusz/making-offline-time-tracker-with-copilot-cli-34c2)
+- [Learning Programming Alone: From Panic Loops to Mental Pictures 💻](https://dev.to/oyinade_olawoyin_aaaa6272/learning-programming-alone-from-panic-loops-to-mental-pictures-21i8)
+- [AI Agents in 2026: The Revolution That&#39;s Already Here](https://dev.to/__4766e6d50a94a/ai-agents-in-2026-the-revolution-thats-already-here-9d9)
+- [Sliding Window in Action — Solving “Grumpy Bookstore Owner” Step by Step](https://dev.to/nithya_dharshiniofficial/sliding-window-in-action-solving-grumpy-bookstore-owner-step-by-step-57n6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
