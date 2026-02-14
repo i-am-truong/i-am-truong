@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [10 Mistakes You&#39;re making in Kubernetes that cost you money](https://dev.to/tal_shafir_49b67973e9d3b4/10-mistakes-youre-making-in-kubernetes-that-cost-you-money-48c5)
-- [From Chaos to Clarity: My Journey Building JSON Query Pro](https://dev.to/priyabratapaul/from-chaos-to-clarity-my-journey-building-json-query-pro-45kg)
-- [How I Brought Wiimotes Back to Life in 2026](https://dev.to/juanipis/how-i-bring-back-the-wiimotes-on-2026-29h8)
-- [NDM-TCP: The 100Gbps Ultra-Low Latency Build](https://dev.to/hejhdiss/ndm-tcp-the-100gbps-ultra-low-latency-build-24ie)
-- [How I Built My Django Portfolio Website from Scratch &lpar;Step-by-Step Guide&rpar;](https://dev.to/anonymous2583/how-i-built-my-django-portfolio-website-from-scratch-step-by-step-guide-2ma6)
+- [NDM-TCP Hyper-Embedded &lpar;v3.0&rpar;: Technical Overview](https://dev.to/hejhdiss/ndm-tcp-hyper-embedded-v30-technical-overview-39fm)
+- [The Control Plane Is Your Real Production System](https://dev.to/iyanu_david/the-control-plane-is-your-real-production-system-3ic1)
+- [3-way Boolean Anti-pattern](https://dev.to/sualeh/3-way-boolean-anti-pattern-2fdf)
+- [🧬 ProjectDNA — I Built an AI Tool that Reality-Checks Your Project Ideas using GitHub Copilot CLI](https://dev.to/sreelaxmi21/projectdna-i-built-an-ai-tool-that-reality-checks-your-project-ideas-using-github-copilot-cli-158g)
+- [How We Built a 15-Agent AI Operations Team in One Day](https://dev.to/agentforge/how-i-built-a-15-agent-ai-operations-team-in-one-day-3lm8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
