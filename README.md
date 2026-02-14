@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [MVCC Concept: The No-Lock Approach for High-Concurrency Systems](https://dev.to/markliu2013/mvcc-concept-the-no-lock-approach-for-high-concurrency-systems-ooj)
-- [What is the LED &amp; FND?](https://dev.to/insu/what-is-the-led-fnd-3aa8)
-- [The AWS Knowledge Gap: What Certifications Don’t Teach About Production](https://dev.to/manishpcp/the-aws-knowledge-gap-what-certifications-dont-teach-about-production-4be6)
-- [Azure Container Apps: Workload Profiles v2 Is Now the Default — What You Need to Know](https://dev.to/bspann/azure-container-apps-workload-profiles-v2-is-now-the-default-what-you-need-to-know-4ek8)
-- [From Localhost to Production: How I Built a Resource Hub for Student Developers](https://dev.to/studentdiscount/from-localhost-to-production-how-i-built-a-resource-hub-for-student-developers-545b)
+- [I Gave My AI a Toolbox — It Surprised Me by Using It](https://dev.to/yujisuzuki/i-gave-my-ai-a-toolbox-it-surprised-me-by-using-it-4on2)
+- [[Boost]](https://dev.to/__0810e626d277d685/-fpo)
+- [Extending an ASP.NET Core App with External Middleware Using &quot;Hosting Startup&quot;](https://dev.to/j_sakamoto/extending-an-aspnet-core-app-with-external-middleware-using-hosting-startup-345b)
+- [Building a Production CLI Tool to Gamify and Enforce Code Documentation with GitHub Copilot CLI](https://dev.to/mdsaalim/building-a-production-cli-tool-to-gamify-and-enforce-code-documentation-with-github-copilot-cli-1j4m)
+- [Stop Building Laravel Admin Panels From Scratch — Meet Lara Dashboard](https://dev.to/maniruzzamanakash/stop-building-laravel-admin-panels-from-scratch-meet-lara-dashboard-12jl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
