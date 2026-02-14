@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Praxis meets AI Agents](https://dev.to/intoinside/praxis-meets-ai-agents-1f3f)
-- [Using GitHub Copilot Coding Agent for DevOps Automation](https://dev.to/pwd9000/using-github-copilot-coding-agent-for-devops-automation-3f43)
-- [Building a Multi-Tenant Firebase Application: Environment Setup and Role-Based Access Control](https://dev.to/leo_rio/managing-production-firebase-infrastructure-multi-environment-deployment-for-a-react-pwa-1nfp)
-- [Terraform 1.15 Alpha: Variable and Output Deprecation](https://dev.to/quixoticmonk/terraform-115-alpha-variable-and-output-deprecation-4dol)
-- [Happy 25th Birthday, Agile!](https://dev.to/ghostinit0x/happy-25th-birthday-agile-3kkm)
+- [Building My Own Web Product from 0 to 1 &lpar;1&rpar;: Defining Requirements &amp; Feature Analysis](https://dev.to/stringzwb/building-my-own-web-product-from-0-to-1-1-defining-requirements-feature-analysis-51n4)
+- [Why 90% of Backtests Lie: Introducing Kiploks Data Quality Guard &lpar;DQG&rpar;](https://dev.to/kiploksrobustnessengine/why-90-of-backtests-lie-introducing-kiploks-data-quality-guard-dqg-4l10)
+- [Update: Scaling Back The Foundation](https://dev.to/the-foundation/update-scaling-back-the-foundation-5bek)
+- [MultiCarbon: Native Jalali &amp; Hijri Calendar Support for PHP Carbon](https://dev.to/hamed_pakdaman_c724e294d9/multicarbon-native-jalali-hijri-calendar-support-for-php-carbon-38fl)
+- [NDM-TCP v2.0: Bringing Neural Network Intelligence to High-Speed Networks](https://dev.to/hejhdiss/ndm-tcp-v20-bringing-neural-network-intelligence-to-high-speed-networks-426n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
