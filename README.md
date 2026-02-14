@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building My Own Web Product from 0 to 1 &lpar;1&rpar;: Defining Requirements &amp; Feature Analysis](https://dev.to/stringzwb/building-my-own-web-product-from-0-to-1-1-defining-requirements-feature-analysis-51n4)
-- [Why 90% of Backtests Lie: Introducing Kiploks Data Quality Guard &lpar;DQG&rpar;](https://dev.to/kiploksrobustnessengine/why-90-of-backtests-lie-introducing-kiploks-data-quality-guard-dqg-4l10)
-- [Update: Scaling Back The Foundation](https://dev.to/the-foundation/update-scaling-back-the-foundation-5bek)
-- [MultiCarbon: Native Jalali &amp; Hijri Calendar Support for PHP Carbon](https://dev.to/hamed_pakdaman_c724e294d9/multicarbon-native-jalali-hijri-calendar-support-for-php-carbon-38fl)
-- [NDM-TCP v2.0: Bringing Neural Network Intelligence to High-Speed Networks](https://dev.to/hejhdiss/ndm-tcp-v20-bringing-neural-network-intelligence-to-high-speed-networks-426n)
+- [Building a Custom OSINT Tool for Digital Footprinting &lpar;by lazyekansh&rpar;](https://dev.to/lazyekansh/building-a-custom-osint-tool-for-digital-footprinting-by-lazyekansh-501m)
+- [Day 1 — Back to Scratch: Relearning Python Without Autopilot](https://dev.to/hafiz_shamnad_f513385b0a9/day-1-back-to-scratch-relearning-python-without-autopilot-4ak7)
+- [6 months until the EU AI Act hits. Here&#39;s what runtime security means.](https://dev.to/luckypipewrench/6-months-until-the-eu-ai-act-hits-heres-what-runtime-security-means-23bo)
+- [WebMCP is Coming, but Your AI Needs Eyes Today: Why MCP-FE is the Bridge to the Future](https://dev.to/michalkopecky/webmcp-is-coming-but-your-ai-needs-eyes-today-why-mcp-fe-is-the-bridge-to-the-future-5gli)
+- [tui-notes the &#39;post it&#39; in terminal](https://dev.to/douglas019br/tui-notes-the-post-it-in-terminal-86e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
