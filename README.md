@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Explorando el Universo SEO: Más Allá de Semrush en la Búsqueda de la Excelencia Digital](https://dev.to/pedro_joserodriguezgome/explorando-el-universo-seo-mas-alla-de-semrush-en-la-busqueda-de-la-excelencia-digital-68)
+- [Cute Magick: A Website Platform You Can Call Home](https://dev.to/pixelswithin/cute-magick-a-website-platform-you-can-call-home-551n)
+- [Foswiki on macOS — Silent Launch and Folder Permission Fix](https://dev.to/ammad155/foswiki-on-macos-silent-launch-and-folder-permission-fix-4pf0)
 - [Experimenting with the idea of a &quot;TypeScript&quot; for CSS](https://dev.to/reinvanoyen/experimenting-with-the-idea-of-a-typescript-for-css-3i8l)
-- [PyTorch Neural Network Guide: 5 Mistakes That Break Training](https://dev.to/tildalice/pytorch-neural-network-guide-5-mistakes-that-break-training-12ga)
 - [The SurfaceDocs SDK Just Went From Write-Only to Full CRUD](https://dev.to/surfacedocs/the-surfacedocs-sdk-just-went-from-write-only-to-full-crud-l1m)
-- [Analytics After Dashboards: Understanding Data in the GA4 Era](https://dev.to/rjay/analytics-after-dashboards-understanding-data-in-the-ga4-era-3em5)
-- [Agentic AI Is Here — And Governance Is No Longer Optional](https://dev.to/knitex/agentic-ai-is-here-and-governance-is-no-longer-optional-27b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
