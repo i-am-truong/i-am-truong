@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Perception to Embodied Intelligence: Evolution, Architectures, and the Humanoid Gap](https://dev.to/ankk98/from-perception-to-embodied-intelligence-evolution-architectures-and-the-humanoid-gap-3dhi)
-- [Running Ubuntu Minimal Cloud Image with QEMU-KVM and SSH in GitHub Actions](https://dev.to/vast-cow/running-ubuntu-minimal-cloud-image-with-qemu-kvm-and-ssh-in-github-actions-3lnk)
-- [I Stopped Reading Newsletters. Here&#39;s What I Use Instead.](https://dev.to/warren_allen/i-stopped-reading-newsletters-heres-what-i-use-instead-2hi)
-- [Built Something Crazy This Week – Inkash](https://dev.to/random_ti/built-something-crazy-this-week-inkash-17g1)
-- [Specter: Give Your Codebase a Voice](https://dev.to/liztacular/specter-give-your-codebase-a-voice-2pd0)
+- [Praxis meets AI Agents](https://dev.to/intoinside/praxis-meets-ai-agents-1f3f)
+- [Using GitHub Copilot Coding Agent for DevOps Automation](https://dev.to/pwd9000/using-github-copilot-coding-agent-for-devops-automation-3f43)
+- [Building a Multi-Tenant Firebase Application: Environment Setup and Role-Based Access Control](https://dev.to/leo_rio/managing-production-firebase-infrastructure-multi-environment-deployment-for-a-react-pwa-1nfp)
+- [Terraform 1.15 Alpha: Variable and Output Deprecation](https://dev.to/quixoticmonk/terraform-115-alpha-variable-and-output-deprecation-4dol)
+- [Happy 25th Birthday, Agile!](https://dev.to/ghostinit0x/happy-25th-birthday-agile-3kkm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
