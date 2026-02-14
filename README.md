@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [OLSRT: The Runtime I Built on Windows 7 When I Couldn&#39;t Run MSVC &lpar;And Why It Might Be the Last Runtime You&#39;ll Ever Need&rpar;](https://dev.to/javadinteger/olsrt-the-runtime-i-built-on-windows-7-when-i-couldnt-run-msvc-and-why-it-might-be-the-last-oe7)
-- [Let Your OpenClaw Work While You Sleep - And Even Earn for You](https://dev.to/zen7/let-your-openclaw-work-while-you-sleep-and-even-earn-for-you-eb1)
-- [A copy-paste React Carousel from my product UI &lpar;styled-components&rpar;. Full source included, no package required](https://dev.to/bartek_/a-copy-paste-react-carousel-from-my-product-ui-styled-components-full-source-included-no-1172)
-- [Building a Privacy-First Finance App with Laravel 12 and React 19](https://dev.to/victoor/building-a-privacy-first-finance-app-with-laravel-12-and-react-19-2j3d)
-- [Build log: Making product onboarding actually engaging &lpar;codename: Path&rpar;](https://dev.to/eko137/build-log-making-product-onboarding-actually-engaging-codename-path-1md9)
+- [Implementing BLE Security on ESP32: LE Secure Connections the Hard Way](https://dev.to/makepkg/implementing-ble-security-on-esp32-le-secure-connections-the-hard-way-2kb9)
+- [Advanced GPU Optimization: Metal &amp; Vulkan Compute from zero to hero - Part 2](https://dev.to/javadinteger/advanced-gpu-optimization-metal-vulkan-compute-from-zero-to-hero-part-2-1inn)
+- [AuthKit Pro – Simplifying NextAuth Setup in Next.js](https://dev.to/muhammad_rabbi_dev/authkit-pro-simplifying-nextauth-setup-in-nextjs-2ji7)
+- [Salt, Pepper, and Secret Sauce: The Recipe for Uncrackable Passwords](https://dev.to/igornosatov_15/salt-pepper-and-secret-sauce-the-recipe-for-uncrackable-passwords-k3k)
+- [Advanced GPU Optimization: Metal &amp; Vulkan Compute from zero to hero](https://dev.to/javadinteger/advanced-gpu-optimization-metal-vulkan-compute-from-zero-to-hero-4cfg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
