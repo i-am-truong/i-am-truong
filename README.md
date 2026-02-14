@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How We Built SEO-Driven Content for a Niche EdTech Platform &lpar;Pharmacist Licensing Exams&rpar;](https://dev.to/vipesh_bhat_66bb011eabb2b/how-we-built-seo-driven-content-for-a-niche-edtech-platform-pharmacist-licensing-exams-14if)
-- [Cupid-Commit 💘 - Finding the Code That Completes You](https://dev.to/devjash15/cupid-commit-finding-the-code-that-completes-you-1kk2)
-- [10 System Design Concepts That Took Me From Junior Dev to Senior Engineer](https://dev.to/somadevtoo/10-system-design-concepts-that-took-me-from-junior-dev-to-senior-engineer-1blm)
-- [I Gave My AI a Toolbox — It Surprised Me by Using It](https://dev.to/yujisuzuki/i-gave-my-ai-a-toolbox-it-surprised-me-by-using-it-4on2)
-- [[Boost]](https://dev.to/__0810e626d277d685/-fpo)
+- [Stop Switching Repos: The Hidden Efficiency Ceiling in Multi-Repo Debugging — Broken by One Feature](https://dev.to/wingtao/stop-switching-repos-the-hidden-efficiency-ceiling-in-multi-repo-debugging-broken-by-one-feature-74a)
+- [My blog - Building with GitHub Copilot CLI](https://dev.to/trinhminhnhat/my-blog-building-with-github-copilot-cli-a0k)
+- [Mastering useMutation — The Complete Deep Dive Guide](https://dev.to/munna_thakur_2019444f0351/mastering-usemutation-the-complete-deep-dive-guide-362o)
+- [Agent-Oriented API Design Patterns: Lessons from the Moltbook Protocol](https://dev.to/yukioikeda/agent-oriented-api-design-patterns-lessons-from-the-moltbook-protocol-2l5i)
+- [Setw&lpar;&rpar; &amp; Setfill&lpar;&rpar; function | C++](https://dev.to/whysoempty/setw-setfill-function-c-1dfb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
