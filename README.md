@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Fine Tuned an Open Source Model and the Bhagavad Gita Explained It Better Than Any Paper](https://dev.to/sreeni5018/i-fine-tuned-an-open-source-model-and-the-bhagavad-gita-explained-it-better-than-any-paper-lf6)
-- [Exploring the Advanced Search Capabilities With MongoDB Atlas Search-Part 3](https://dev.to/aasawari_sahasrabuddhe_3c/exploring-the-advanced-search-capabilities-with-mongodb-atlas-search-part-3-181l)
-- [Kaggle Code Competitions Without a Local GPU: GitHub Actions + Kaggle API Cloud Workflow](https://dev.to/yasumorishima/kaggle-code-competitions-without-a-local-gpu-github-actions-kaggle-api-cloud-workflow-m3)
-- [5 AI Image Prompts That Are Saving Game Devs and Designers Hours of Work](https://dev.to/nanoprompts/5-ai-image-prompts-that-are-saving-game-devs-and-designers-hours-of-work-56m6)
-- [Exploring Search Capabilities With Atlas Search-Part 2](https://dev.to/aasawari_sahasrabuddhe_3c/exploring-search-capabilities-with-atlas-search-part-2-2i4c)
+- [MVCC Concept: The No-Lock Approach for High-Concurrency Systems](https://dev.to/markliu2013/mvcc-concept-the-no-lock-approach-for-high-concurrency-systems-ooj)
+- [What is the LED &amp; FND?](https://dev.to/insu/what-is-the-led-fnd-3aa8)
+- [The AWS Knowledge Gap: What Certifications Don’t Teach About Production](https://dev.to/manishpcp/the-aws-knowledge-gap-what-certifications-dont-teach-about-production-4be6)
+- [Azure Container Apps: Workload Profiles v2 Is Now the Default — What You Need to Know](https://dev.to/bspann/azure-container-apps-workload-profiles-v2-is-now-the-default-what-you-need-to-know-4ek8)
+- [From Localhost to Production: How I Built a Resource Hub for Student Developers](https://dev.to/studentdiscount/from-localhost-to-production-how-i-built-a-resource-hub-for-student-developers-545b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
