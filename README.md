@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop Rebuilding Multi-Step Form Logic — Use rhf-stepper Instead](https://dev.to/omerrkosar/stop-rebuilding-multi-step-form-logic-use-rhf-stepper-instead-f86)
-- [Difference between IAM role and policy in Google Cloud Google Cloud Platform?](https://dev.to/realnamehidden1_61/difference-between-iam-role-and-policy-in-google-cloud-google-cloud-platform-3pl1)
-- [DevScope: System Activity &amp; Productivity Analyzer with GitHub Copilot CLI](https://dev.to/shubham_pareta_7337a009cd/devscope-system-activity-productivity-analyzer-with-github-copilot-cli-4hko)
-- [From Code to Shape: A Beginner’s Guide to Unity Mesh Generation](https://dev.to/prasanth_sivakumar/from-code-to-shape-a-beginners-guide-to-unity-mesh-generation-gff)
-- [I Stopped Treating Claude Code Like a Chat Tool — and My Workflow Got More Reliable](https://dev.to/9000labs/i-stopped-treating-claude-code-like-a-chat-tool-and-my-workflow-got-more-reliable-2bm6)
+- [🚀 Rebuilding useEffect From Scratch to Truly Understand React](https://dev.to/chandrapenugonda/rebuilding-useeffect-from-scratch-to-truly-understand-react-4m08)
+- [Git Blamed Me, CSS Gaslit Me, Node Ghosted Me, React Re-rendered My Trauma](https://dev.to/art_light/git-blamed-me-css-gaslit-me-node-ghosted-me-react-re-rendered-my-trauma-12k6)
+- [Distributed Training Across Mixed GPUs: Solving the Heterogeneous Fleet Problem](https://dev.to/douglasrawson/distributed-training-across-mixed-gpus-solving-the-heterogeneous-fleet-problem-a72)
+- [NDM-TCP: AI That Runs on a Diet of Bytes and Cycles](https://dev.to/hejhdiss/ndm-tcp-ai-that-runs-on-a-diet-of-bytes-and-cycles-5ci0)
+- [Fine-Tuning Your First AI Model: Custom Training a Text Classifier for Real-World Data](https://dev.to/paul_robertson_e844997d2b/fine-tuning-your-first-ai-model-custom-training-a-text-classifier-for-real-world-data-39jj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
