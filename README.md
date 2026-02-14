@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop Your Coding Agent From Stealing Production Secrets](https://dev.to/dean0x/stop-your-coding-agent-from-stealing-production-secrets-4ogi)
-- [From Frontend to Full-Stack: Building a Real Estate Marketplace and Learning Backend Development](https://dev.to/maxixo/from-frontend-to-full-stack-building-a-real-estate-marketplace-and-learning-backend-development-2258)
-- [Beyond Encryption: Designing a Tamper-Evident State Engine](https://dev.to/laphilosophia/beyond-encryption-designing-a-tamper-evident-state-engine-1c19)
-- [CIberus: A Three-Headed ASCII Guardian for Your CI Pipeline](https://dev.to/simandebvu/ciberus-a-three-headed-ascii-guardian-for-your-ci-pipeline-52m8)
-- [OpenCode: Tu Agente de lA Potenciado para la Terminal](https://dev.to/kevinl/opencode-your-empowered-agent-for-the-terminal-10)
+- [4 Hooks That Let Claude Code Run Autonomously &lpar;With Zero Babysitting&rpar;](https://dev.to/yurukusa/4-hooks-that-let-claude-code-run-autonomously-with-zero-babysitting-1748)
+- [How We Taught Our App to Find Medical Lab Results in Gmail](https://dev.to/alexrixten/how-we-taught-our-app-to-find-medical-lab-results-in-gmail-1405)
+- [CLI Github Challenge- #LinuxCompass](https://dev.to/thegamersbaxechief/cli-github-challenge-linuxcompass-1e3c)
+- [Testability vs. Automatability: Why Most Automation Efforts Fail Before They Begin-Part4](https://dev.to/qa-leaders/testability-vs-automatability-why-most-automation-efforts-fail-before-they-begin-part4-5dp8)
+- [57% of Agencies Lose $1K-$5K Monthly to Scope Creep. Here&#39;s Why It Keeps Happening.](https://dev.to/valynx_saas/57-of-agencies-lose-1k-5k-monthly-to-scope-creep-heres-why-it-keeps-happening-39hf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
