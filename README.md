@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Rock ✊ Paper ✋ Scissors ✌️](https://dev.to/elanatframework/rock-paper-scissors-3adb)
-- [CVE-2026-22892: Confused Deputy in the Chatroom: Dissecting CVE-2026-22892](https://dev.to/cverports/cve-2026-22892-confused-deputy-in-the-chatroom-dissecting-cve-2026-22892-4pp8)
-- [I Built a CLI That Remembers What I Was Working On &lpar;So I Don&#39;t Have To&rpar;](https://dev.to/hempun10/i-built-a-cli-that-remembers-what-i-was-working-on-so-i-dont-have-to-4p1j)
-- [Copilot CLI helped me with VS Code accessibility extension](https://dev.to/vadimengineer/copilot-cli-helped-me-with-vs-code-accessibility-extension-39d)
-- [Pixel Pal: Gamifying the GitHub Copilot CLI Experience 🧙‍♂️⚔️](https://dev.to/gbolahan_olanrewaju_01796/pixel-pal-gamifying-the-github-copilot-cli-experience-4g16)
+- [How I Use 19 AI Agents to Design Physics Engines &lpar;Tournament Architecture&rpar;](https://dev.to/0x000null/how-i-use-19-ai-agents-to-design-physics-engines-tournament-architecture-4ipp)
+- [CVE-2026-1721: CVE-2026-1721: When JSON.stringify&lpar;&rpar; Betrays You in Cloudflare Agents](https://dev.to/cverports/cve-2026-1721-cve-2026-1721-when-jsonstringify-betrays-you-in-cloudflare-agents-2m9g)
+- [The Waterfall Pattern: A Tiered Strategy for Reliable Data Extraction](https://dev.to/withatte/the-waterfall-pattern-a-tiered-strategy-for-reliable-data-extraction-295k)
+- [From Zero to Production API in 5 Minutes](https://dev.to/rapidkit/from-zero-to-production-api-in-5-minutes-2ehl)
+- [Why the Next Freelance Marketplace Needs AI Agents as First-Class Citizens](https://dev.to/chovy/why-the-next-freelance-marketplace-needs-ai-agents-as-first-class-citizens-2mcp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
