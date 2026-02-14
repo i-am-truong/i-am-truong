@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Stop Rebuilding Multi-Step Form Logic — Use rhf-stepper Instead](https://dev.to/omerrkosar/stop-rebuilding-multi-step-form-logic-use-rhf-stepper-instead-f86)
 - [Difference between IAM role and policy in Google Cloud Google Cloud Platform?](https://dev.to/realnamehidden1_61/difference-between-iam-role-and-policy-in-google-cloud-google-cloud-platform-3pl1)
 - [DevScope: System Activity &amp; Productivity Analyzer with GitHub Copilot CLI](https://dev.to/shubham_pareta_7337a009cd/devscope-system-activity-productivity-analyzer-with-github-copilot-cli-4hko)
 - [From Code to Shape: A Beginner’s Guide to Unity Mesh Generation](https://dev.to/prasanth_sivakumar/from-code-to-shape-a-beginners-guide-to-unity-mesh-generation-gff)
 - [I Stopped Treating Claude Code Like a Chat Tool — and My Workflow Got More Reliable](https://dev.to/9000labs/i-stopped-treating-claude-code-like-a-chat-tool-and-my-workflow-got-more-reliable-2bm6)
-- [The Real Cost of &quot;I&#39;ll Refactor It Later&quot; &lpar;And Why I Finally Stopped Lying to Myself&rpar;](https://dev.to/nader0913/the-real-cost-of-ill-refactor-it-later-and-why-i-finally-stopped-lying-to-myself-40g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
