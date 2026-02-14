@@ -120,11 +120,13 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I built ResumeTarget AI - A tool to help you tailor your resume to a specific job in minutes](https://dev.to/geraldmuvengei06/i-built-resumetarget-ai-a-tool-to-help-you-tailor-your-resume-to-a-specific-job-in-minutes-375f)
+- [Nebula: Building a Fast, Lightweight C++ Code Editor](https://dev.to/twisterrl/nebula-building-a-fast-lightweight-c-code-editor-4kae)
+- [Boys on February 14: Babe, these flowers are for you, let&#39;s go to that fancy restaurant.
+
+Men on February 14: Okay, I fixed production for the fifth time today, lemme push a few commits to the GitHub as well.](https://dev.to/artemooon/boys-on-february-14-babe-these-flowers-are-for-you-lets-go-to-that-fancy-restaurant-men-on-39j7)
+- [Day 1: What is Agentic AI?](https://dev.to/swatigoyal911/day-1-what-is-agentic-ai-3fjd)
 - [Building a Character-Level Language Model in Rust: From Zero to &quot;Aha!&quot;](https://dev.to/palash90/building-a-character-level-language-model-in-rust-from-zero-to-aha-416i)
-- [Is Your Streaming Service Down? How to Check Netflix, Disney+, Hulu &amp; More &lpar;2026&rpar;](https://dev.to/shibley/is-your-streaming-service-down-how-to-check-netflix-disney-hulu-more-2026-437c)
-- [How to Scrape Pinduoduo &lpar;拼多多&rpar; for Product Data: A Complete Guide](https://dev.to/wfgsss/how-to-scrape-pinduoduo-pin-duo-duo-for-product-data-a-complete-guide-34dj)
-- [The &quot;This&quot; Identity Crisis: A Survival Guide to `.call&lpar;&rpar;`, `.apply&lpar;&rpar;`, and `.bind&lpar;&rpar;`](https://dev.to/kiran_ravi_092a2cfcf60389/the-this-identity-crisis-a-survival-guide-to-call-apply-and-bind-pcm)
-- [The Client Knows Best: Deep Dive into WebRTC getStats&lpar;&rpar; and Quality Monitoring](https://dev.to/deepak_mishra_35863517037/the-client-knows-best-deep-dive-into-webrtc-getstats-and-quality-monitoring-3e5p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
