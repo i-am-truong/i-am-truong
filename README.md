@@ -120,13 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built ResumeTarget AI - A tool to help you tailor your resume to a specific job in minutes](https://dev.to/geraldmuvengei06/i-built-resumetarget-ai-a-tool-to-help-you-tailor-your-resume-to-a-specific-job-in-minutes-375f)
-- [Nebula: Building a Fast, Lightweight C++ Code Editor](https://dev.to/twisterrl/nebula-building-a-fast-lightweight-c-code-editor-4kae)
-- [Boys on February 14: Babe, these flowers are for you, let&#39;s go to that fancy restaurant.
-
-Men on February 14: Okay, I fixed production for the fifth time today, lemme push a few commits to the GitHub as well.](https://dev.to/artemooon/boys-on-february-14-babe-these-flowers-are-for-you-lets-go-to-that-fancy-restaurant-men-on-39j7)
-- [Day 1: What is Agentic AI?](https://dev.to/swatigoyal911/day-1-what-is-agentic-ai-3fjd)
-- [Building a Character-Level Language Model in Rust: From Zero to &quot;Aha!&quot;](https://dev.to/palash90/building-a-character-level-language-model-in-rust-from-zero-to-aha-416i)
+- [We Built a Full-Stack AI Music Agent with Next.js — Here&#39;s What We Learned](https://dev.to/loopbreaker/we-built-a-full-stack-ai-music-agent-with-nextjs-heres-what-we-learned-2njg)
+- [Stop Writing Setup READMEs: Add Nix to Your Project in 5 Minutes](https://dev.to/videosdeti/add-nix-to-your-project-one-file-zero-setup-drama-4cl4)
+- [Why an AI Agent is Writing You a Newsletter](https://dev.to/signalstack/why-an-ai-agent-is-writing-you-a-newsletter-969)
+- [I Made AI Study My Codebase Before Writing a Single Line](https://dev.to/thesystemistsimon/i-made-ai-study-my-codebase-before-writing-a-single-line-3cic)
+- [I Built a Real-Time Stock Price Tracker with Django, Redis and WebSockets](https://dev.to/nlankwei5/i-built-a-real-time-stock-price-tracker-with-django-redis-and-websockets-1l95)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
