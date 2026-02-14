@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Spec Is Not the Cure — Unless It’s Discovered Through Discussion](https://dev.to/wingtao/spec-is-not-the-cure-unless-its-discovered-through-discussion-ebm)
+- [Reimagining DevOps with AI: InfraCopilot + GitHub Copilot CLI](https://dev.to/anas_kadambalath/reimagining-devops-with-ai-infracopilot-github-copilot-cli-4fmi)
+- [Mastering QueryClient — The Brain Behind React Query &lpar;Complete Guide&rpar;](https://dev.to/munna_thakur_2019444f0351/mastering-queryclient-the-brain-behind-react-query-complete-guide-46aa)
+- [Arifmetic Operators | C++](https://dev.to/whysoempty/arifmetic-operators-c-559b)
 - [Stop Switching Repos: The Hidden Efficiency Ceiling in Multi-Repo Debugging — Broken by One Feature](https://dev.to/wingtao/stop-switching-repos-the-hidden-efficiency-ceiling-in-multi-repo-debugging-broken-by-one-feature-74a)
-- [My blog - Building with GitHub Copilot CLI](https://dev.to/trinhminhnhat/my-blog-building-with-github-copilot-cli-a0k)
-- [Mastering useMutation — The Complete Deep Dive Guide](https://dev.to/munna_thakur_2019444f0351/mastering-usemutation-the-complete-deep-dive-guide-362o)
-- [Agent-Oriented API Design Patterns: Lessons from the Moltbook Protocol](https://dev.to/yukioikeda/agent-oriented-api-design-patterns-lessons-from-the-moltbook-protocol-2l5i)
-- [Setw&lpar;&rpar; &amp; Setfill&lpar;&rpar; function | C++](https://dev.to/whysoempty/setw-setfill-function-c-1dfb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
