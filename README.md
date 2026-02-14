@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Introducing NotumAi: The Open-Source, AI-Powered Annotation Tool](https://dev.to/maulik_sompura_22/introducing-notumai-the-open-source-ai-powered-annotation-tool-1o9)
-- [Why I stopped over-customizing my VS Code setup](https://dev.to/palks_studio/why-i-stopped-over-customizing-my-vs-code-setup-374a)
-- [AltSchool Of Engineering Tinyuka’24 Month 12 Week 4](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-12-week-4-2bjg)
-- [What Is a Blockchain, Actually?](https://dev.to/kianenigma/what-is-a-blockchain-actually-4le1)
-- [How I Vibe Coded My Vibe Coding Platform](https://dev.to/bigsondev/how-i-vibe-coded-my-vibe-coding-platform-4p4d)
+- [OLSRT: The Runtime I Built on Windows 7 When I Couldn&#39;t Run MSVC &lpar;And Why It Might Be the Last Runtime You&#39;ll Ever Need&rpar;](https://dev.to/javadinteger/olsrt-the-runtime-i-built-on-windows-7-when-i-couldnt-run-msvc-and-why-it-might-be-the-last-oe7)
+- [Let Your OpenClaw Work While You Sleep - And Even Earn for You](https://dev.to/zen7/let-your-openclaw-work-while-you-sleep-and-even-earn-for-you-eb1)
+- [A copy-paste React Carousel from my product UI &lpar;styled-components&rpar;. Full source included, no package required](https://dev.to/bartek_/a-copy-paste-react-carousel-from-my-product-ui-styled-components-full-source-included-no-1172)
+- [Building a Privacy-First Finance App with Laravel 12 and React 19](https://dev.to/victoor/building-a-privacy-first-finance-app-with-laravel-12-and-react-19-2j3d)
+- [Build log: Making product onboarding actually engaging &lpar;codename: Path&rpar;](https://dev.to/eko137/build-log-making-product-onboarding-actually-engaging-codename-path-1md9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
