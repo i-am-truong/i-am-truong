@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Rebuilding useEffect From Scratch to Truly Understand React](https://dev.to/chandrapenugonda/rebuilding-useeffect-from-scratch-to-truly-understand-react-4m08)
-- [Git Blamed Me, CSS Gaslit Me, Node Ghosted Me, React Re-rendered My Trauma](https://dev.to/art_light/git-blamed-me-css-gaslit-me-node-ghosted-me-react-re-rendered-my-trauma-12k6)
-- [Distributed Training Across Mixed GPUs: Solving the Heterogeneous Fleet Problem](https://dev.to/douglasrawson/distributed-training-across-mixed-gpus-solving-the-heterogeneous-fleet-problem-a72)
-- [NDM-TCP: AI That Runs on a Diet of Bytes and Cycles](https://dev.to/hejhdiss/ndm-tcp-ai-that-runs-on-a-diet-of-bytes-and-cycles-5ci0)
-- [Fine-Tuning Your First AI Model: Custom Training a Text Classifier for Real-World Data](https://dev.to/paul_robertson_e844997d2b/fine-tuning-your-first-ai-model-custom-training-a-text-classifier-for-real-world-data-39jj)
+- [I built an idea-to-repo CLI with Github copilot](https://dev.to/devmahn/i-built-an-idea-to-repo-cli-with-github-copilot-hfb)
+- [Fundamental matters more in AI era](https://dev.to/kination/fundamental-matters-more-in-ai-era-4nkf)
+- [Self-Hosted Docker Registry on Your Own SFTP: Introducing Refity](https://dev.to/troke12/self-hosted-docker-registry-on-your-own-sftp-introducing-refity-5ce5)
+- [Converting Large JSON, NDJSON, CSV and XML Files without Blowing Up Memory](https://dev.to/bruno_hanss_6b82bb52cd0fa/converting-large-json-ndjson-csv-and-xml-files-without-blowing-up-memory-20ao)
+- [How We Run Lighthouse from 18 Regions in Under 2 Minutes](https://dev.to/ahojmetrics/how-we-run-lighthouse-from-18-regions-in-under-2-minutes-pd7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
