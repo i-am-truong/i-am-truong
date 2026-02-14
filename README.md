@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [MongoDB Advanced Techniques: Going Beyond the Basics](https://dev.to/whytrchy/mongodb-advanced-techniques-going-beyond-the-basics-g71)
-- [MonBusiness: When AI Helped Me Build My Sister a Business in One Week](https://dev.to/gervaisamoah/monbusiness-when-ai-helped-me-build-my-sister-a-business-in-one-week-4jia)
-- [Designing a Layered YouTube Analytics Pipeline with AWS Bedrock &lpar;Architecture Overview](https://dev.to/geets_a1be902588b38e52740/designing-a-layered-youtube-analytics-pipeline-with-aws-bedrock-architecture-overview-1ba4)
-- [Offline vs Cloud: the Real Threat Model in Password Managers](https://dev.to/marano/offline-vs-cloud-il-vero-modello-di-minaccia-nei-password-manager-1b4e)
-- [Why Your API Integration Keeps Breaking](https://dev.to/apiverve/why-your-api-integration-keeps-breaking-10c8)
+- [I Fine Tuned an Open Source Model and the Bhagavad Gita Explained It Better Than Any Paper](https://dev.to/sreeni5018/i-fine-tuned-an-open-source-model-and-the-bhagavad-gita-explained-it-better-than-any-paper-lf6)
+- [Exploring the Advanced Search Capabilities With MongoDB Atlas Search-Part 3](https://dev.to/aasawari_sahasrabuddhe_3c/exploring-the-advanced-search-capabilities-with-mongodb-atlas-search-part-3-181l)
+- [Kaggle Code Competitions Without a Local GPU: GitHub Actions + Kaggle API Cloud Workflow](https://dev.to/yasumorishima/kaggle-code-competitions-without-a-local-gpu-github-actions-kaggle-api-cloud-workflow-m3)
+- [5 AI Image Prompts That Are Saving Game Devs and Designers Hours of Work](https://dev.to/nanoprompts/5-ai-image-prompts-that-are-saving-game-devs-and-designers-hours-of-work-56m6)
+- [Exploring Search Capabilities With Atlas Search-Part 2](https://dev.to/aasawari_sahasrabuddhe_3c/exploring-search-capabilities-with-atlas-search-part-2-2i4c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
