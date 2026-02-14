@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Spec Is Not the Cure — Unless It’s Discovered Through Discussion](https://dev.to/wingtao/spec-is-not-the-cure-unless-its-discovered-through-discussion-ebm)
-- [Reimagining DevOps with AI: InfraCopilot + GitHub Copilot CLI](https://dev.to/anas_kadambalath/reimagining-devops-with-ai-infracopilot-github-copilot-cli-4fmi)
-- [Mastering QueryClient — The Brain Behind React Query &lpar;Complete Guide&rpar;](https://dev.to/munna_thakur_2019444f0351/mastering-queryclient-the-brain-behind-react-query-complete-guide-46aa)
-- [Arifmetic Operators | C++](https://dev.to/whysoempty/arifmetic-operators-c-559b)
-- [Stop Switching Repos: The Hidden Efficiency Ceiling in Multi-Repo Debugging — Broken by One Feature](https://dev.to/wingtao/stop-switching-repos-the-hidden-efficiency-ceiling-in-multi-repo-debugging-broken-by-one-feature-74a)
+- [Solidity to Compact: Developer&#39;s Migration Guide](https://dev.to/henry_messiahtmt_099ca84/solidity-to-compact-developers-migration-guide-1kij)
+- [Week 1 — When LLM Failures Weren’t About Load, But Timing &lpar;ZooKeeper + Distributed Locking&rpar;](https://dev.to/namratha_3/week-1-when-llm-failures-werent-about-load-but-timing-zookeeper-distributed-locking-ii4)
+- [I Built a Chrome Extension That Scans Websites for Threats Using AI — Entirely On-Device](https://dev.to/sattyamjjain/i-built-a-chrome-extension-that-scans-websites-for-threats-using-ai-entirely-on-device-23kp)
+- [I Built a Python Library with 90+ Data Structures, Algorithms &amp; Design Patterns](https://dev.to/sattyamjjain/i-built-a-python-library-with-90-data-structures-algorithms-design-patterns-kb)
+- [Explainable Causal Reinforcement Learning for heritage language revitalization programs with inverse simulation verification](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-heritage-language-revitalization-programs-with-18m4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
