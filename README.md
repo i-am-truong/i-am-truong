@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Observable AI Streaming on AWS — Part 1: API Gateway REST with Lambda](https://dev.to/pabloalbaladejo/observable-ai-streaming-on-aws-part-1-api-gateway-rest-with-lambda-595a)
-- [Enumerating in RakuDoc v2](https://dev.to/finanalyst/enumerating-in-rakudoc-v2-5d8j)
-- [This a test](https://dev.to/generalkl/this-a-test-ckp)
-- [AI Agent Orchestration: Building Multi-Agent Systems with LangGraph and OpenAI](https://dev.to/chx381/ai-agent-orchestration-building-multi-agent-systems-with-langgraph-and-openai-33o)
-- [I got tired of copy-pasting messages from RabbitMQ to validate them, so I built an MCP server](https://dev.to/lacow/i-got-tired-of-copy-pasting-messages-from-rabbitmq-to-validate-them-so-i-built-an-mcp-server-1g1n)
+- [Visualizing UV on a Polygon2D in Godot](https://dev.to/datadeer/visualizing-uv-on-a-polygon2d-in-godot-1e8o)
+- [The Practical Value of Public Relations Services: Trust, Risk, and Momentum](https://dev.to/sonia_bobrik_1939cdddd79d/the-practical-value-of-public-relations-services-trust-risk-and-momentum-711)
+- [Complete CDK Stack with Tests](https://dev.to/pabloalbaladejo/observable-ai-streaming-on-aws-part-4-complete-cdk-stack-38cj)
+- [Deferred Observability with TransformStream flush&lpar;&rpar;](https://dev.to/pabloalbaladejo/observable-ai-streaming-on-aws-part-3-the-transformstream-pipeline-4p4j)
+- [The Middy After Hook Problem](https://dev.to/pabloalbaladejo/observable-ai-streaming-on-aws-part-2-the-middy-after-hook-problem-3b7c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
