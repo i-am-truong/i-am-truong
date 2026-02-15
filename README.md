@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Copilot CLI Challenge | Solving Lunch Indecision | Building a Restaurant Slot Picker with GitHub Copilot CLI](https://dev.to/liam_chiu_20df42e754f8cd6/github-copilot-cli-challenge-solving-lunch-indecision-building-a-restaurant-slot-picker-with-mmf)
-- [My AI Broke Out of Its Container — And I Let It](https://dev.to/yujisuzuki/my-ai-broke-out-of-its-container-and-i-let-it-4dkh)
-- [What If Your A11y Linter Could Actually Fix the Bugs It Found?](https://dev.to/safvantsy/what-if-your-a11y-linter-could-actually-fix-the-bugs-it-found-4coe)
-- [Flaky Tests Are Not a Testing Problem. They&#39;re a Feedback Loop You Broke.](https://dev.to/microseyuyu/flaky-tests-are-not-a-testing-problem-theyre-a-feedback-loop-you-broke-8j5)
-- [🤖 code-stream: A Smart CLI for Secure &amp; Healthy Code](https://dev.to/vrkforever/code-stream-a-smart-cli-for-secure-healthy-code-2jgi)
+- [I&#39;m a Filipino Developer - Here&#39;s What US Companies Get Wrong When Hiring Us](https://dev.to/devwithzach/im-a-filipino-developer-heres-what-us-companies-get-wrong-when-hiring-us-764)
+- [How to Setup DNS Manager in Proxmox Using AdGuard Home](https://dev.to/mss/how-to-setup-dns-manager-in-proxmox-using-adguard-home-2jlo)
+- [How I automated my bug backlog with n8n and a coding agent API](https://dev.to/rbilgil/how-i-automated-my-bug-backlog-with-n8n-and-a-coding-agent-api-1i1h)
+- [Mini CLI Productivity Tool – GitHub Copilot CLI Challenge](https://dev.to/usan/mini-cli-productivity-tool-github-copilot-cli-challenge-556)
+- [AWS Data Engineer Associate &lpar;DEA-C01&rpar;: What Each Domain Actually Tests &lpar;From Someone Who Just Passed&rpar;](https://dev.to/andy_youtube_371fe0c1a37e/aws-data-engineer-associate-dea-c01-what-each-domain-actually-tests-from-someone-who-just-3pao)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
