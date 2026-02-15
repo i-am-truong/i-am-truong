@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Text: How to Embed Interactive UI Components in AI Chat Streams](https://dev.to/programmingcentral/beyond-text-how-to-embed-interactive-ui-components-in-ai-chat-streams-5fic)
-- [If you think you can use LinkedIn automation — think twice](https://dev.to/axrisi/if-you-think-you-can-use-linkedin-automation-think-twice-55pk)
-- [Python OOP for Java Developers](https://dev.to/citronbrick/python-oop-for-java-developers-5be7)
-- [Turning Bug Hunting Into a Game: The Birth of an Innovative Idea](https://dev.to/owaspblt/turning-bug-hunting-into-a-game-the-birth-of-an-innovative-idea-3c4)
-- [Novel Studio for Copilot CLI — Write Novels Together](https://dev.to/tiny_flowlab/novel-studio-for-copilot-cli-write-novels-together-2bp1)
+- [Advanced LangGraph Orchestration: Enterprise-Ready AI Workflow Management](https://dev.to/topuzas/advanced-langgraph-orchestration-enterprise-ready-ai-workflow-management-186)
+- [How To Built a Search Engine &lpar;And Finally Understood Google&rpar;](https://dev.to/igornosatov_15/how-to-built-a-search-engine-and-finally-understood-google-253e)
+- [Building an 8-Layer Security Architecture for a $15 Hardware Device](https://dev.to/makepkg/building-an-8-layer-security-architecture-for-a-15-hardware-device-3p8k)
+- [Integrating Google Street View into your React App WITHOUT using Google Maps](https://dev.to/dannyhodge/integrating-google-street-view-into-your-react-app-without-using-google-maps-985)
+- [How to fix inconsistent Play-Pause behaviour with Bluetooth Headsets on Linux](https://dev.to/foxes/how-to-fix-inconsistent-play-pause-behaviour-with-bluetooth-headsets-on-linux-1oa8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
