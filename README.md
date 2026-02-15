@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/nghihua/-4a5c)
-- [Why I’m Doing This &lpar;and Probably Failing&rpar;](https://dev.to/photopi/why-im-doing-this-and-probably-failing-4851)
-- [WordPress: ACF поле не сохраняется — чиним запись meta](https://dev.to/_vproger_/wordpress-acf-polie-nie-sokhraniaietsia-chinim-zapis-meta-2d9l)
-- [Stop Your AI Agent from Leaking API Keys, Private Keys, and PII](https://dev.to/zeshama/stop-your-ai-agent-from-leaking-api-keys-private-keys-and-pii-2pj2)
-- [Backpressure, Buffers, and Logging Sidecars](https://dev.to/bala101/backpressure-buffers-and-logging-sidecars-j00)
+- [Understanding Perceptrons: The Foundation of Modern AI](https://dev.to/rnilav/understanding-perceptrons-the-foundation-of-modern-ai-2g04)
+- [LLM Audit for Developers: A 30-Minute Self-Check Before You Tune That Prompt Again](https://dev.to/optyxstack/llm-audit-for-developers-a-30-minute-self-check-before-you-tune-that-prompt-again-2jp1)
+- [Daily Challenge #3 : The &quot;Binary Clock&quot; 🕰️](https://dev.to/bingkahu/daily-challenge-3-the-binary-clock-55oo)
+- [Socratic Sentinel - AI-Powered Socratic Tutor for Deep Coding Mastery with GitHub Copilot CLI](https://dev.to/aviral_srivastava_2c4e212/socratic-sentinel-ai-powered-socratic-tutor-for-deep-coding-mastery-with-github-copilot-cli-32gh)
+- [The Complete Guide to Integrating Claude API with Laravel](https://dev.to/dewald_hugo_472be9f413c2a/the-complete-guide-to-integrating-claude-api-with-laravel-5413)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
