@@ -120,12 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Sharing this because the mission matters 💛
-I built a stutter friendly app that makes speaking practice calm, supportive, and judgment free, with gentle feedback and privacy first design at its core. It&#39;s built with Elm, Elixir, and Copilot CLI. Thoughts?](https://dev.to/ujja/sharing-this-because-the-mission-matters-i-built-a-stutter-friendly-app-that-makes-speaking-3j76)
-- [Observability II – Server-Side Metrics with Prometheus and Grafana for SFU Health](https://dev.to/deepak_mishra_35863517037/observability-ii-server-side-metrics-with-prometheus-and-grafana-for-sfu-health-44ji)
-- [An Independent backoffice for WordPress?](https://dev.to/giuliopanda/an-independent-backoffice-for-wordpress-24co)
-- [GitHub Copilot CLI Challenge: bt: Modern BLE CLI Tool](https://dev.to/qainsights/github-copilot-cli-challenge-bt-modern-ble-cli-tool-55lk)
-- [Acta Non Verba: Building a GTD Task Manager by Conversation with GitHub Copilot](https://dev.to/alinp25/acta-non-verba-building-a-gtd-task-manager-by-conversation-with-github-copilot-25d8)
+- [Resolution Tracker: Secure &amp; Scalable with GitHub Copilot CLI](https://dev.to/shannieche/resolution-tracker-secure-scalable-with-github-copilot-cli-35ki)
+- [I Built a TUI That Makes Rust Code Inspection Feel Like Magic ✨](https://dev.to/yashksaini/i-built-a-tui-that-makes-rust-code-inspection-feel-like-magic-375k)
+- [Exploring Coffee Quality Data with GitHub Copilot CLI](https://dev.to/marina_eremina/exploring-coffee-quality-data-with-github-copilot-cli-192l)
+- [I Built Clasez: An AI Study Copilot That Changes How Students Use Lecture Recordings with the GitHub Copilot SDK](https://dev.to/jamesrhurtado/i-built-clasez-an-ai-study-copilot-that-changes-how-students-use-lecture-recordings-with-the-43id)
+- [GitHub Copilot for Fast Presentation Generation](https://dev.to/jn1707/github-copilot-for-fast-presentation-generation-319o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
