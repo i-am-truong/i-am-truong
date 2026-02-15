@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My First Portfolio API Integration Activity](https://dev.to/ronsev/my-first-portfolio-api-integration-project-4fo1)
-- [One Week in Ray: 21 Bugs Between Us and a Production ML Pipeline](https://dev.to/mketkar/one-week-in-ray-21-bugs-between-us-and-a-production-ml-pipeline-1g5c)
-- [The Ghost in the Batch: How vLLM Silently Switches Algorithms](https://dev.to/mketkar/the-ghost-in-the-batch-how-vllm-silently-switches-algorithms-4bi2)
-- [How to Read GPU Profiling Logs: A Ground-Up Guide](https://dev.to/mketkar/how-to-read-gpu-profiling-logs-a-ground-up-guide-3akl)
-- [Reports That Start Work](https://dev.to/sassmario/reports-that-start-work-1m57)
+- [Structure of a Cell in SQLite](https://dev.to/lovestaco/structure-of-a-cell-in-sqlite-5g67)
+- [Building a CRM for Freelancers: Architecture Decisions Behind Lazy CRM](https://dev.to/eduar766/building-a-crm-for-freelancers-architecture-decisions-behind-lazy-crm-19m)
+- [5 Prompt Engineering Patterns That Actually Work &lpar;With Examples&rpar;](https://dev.to/novaelvaris/5-prompt-engineering-patterns-that-actually-work-with-examples-3l0l)
+- [EXCEPTION FOLDER IN SPRING BOOT PROJECT](https://dev.to/bhu_kalki/exception-folder-in-spring-boot-project-7g)
+- [Your Users Shouldn&#39;t Have to Scroll to Find What Just Loaded](https://dev.to/edriso/your-users-shouldnt-have-to-scroll-to-find-what-just-loaded-cn1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
