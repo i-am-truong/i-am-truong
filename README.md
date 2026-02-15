@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [PHP Top Salaries, 100% Remote – Surviving the AI Compression Era](https://dev.to/suckup_de/php-top-salaries-100-remote-surviving-the-ai-compression-era-5df0)
+- [Do people still genuinely care about technical articles ?](https://dev.to/miracool/do-people-still-genuinely-care-about-technical-articles--1hfk)
 - [Foveal - App to help you read 3x faster](https://dev.to/mondovdev/foveal-app-to-help-you-read-3x-faster-4f1e)
 - [Circumventing Internet Censorship: Protocols, Techniques, and the Arms Race](https://dev.to/shinomontaz/circumventing-internet-censorship-protocols-techniques-and-the-arms-race-20ff)
 - [Building EduCLI – Offline-First Learning Content Generator with GitHub Copilot CLI](https://dev.to/beneditotulio/building-educli-offline-first-learning-content-generator-with-github-copilot-cli-1gce)
-- [From Terminal to Desktop: How a Desktop App Uses Copilot CLI as Its Entire AI Layer](https://dev.to/tsadhoq/from-terminal-to-desktop-how-a-desktop-app-uses-copilot-cli-as-its-entire-ai-layer-bl9)
-- [Redacta: Elevating Video Content with GitHub Copilot CLI](https://dev.to/julcasans/redacta-elevating-video-content-with-github-copilot-cli-kc9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
