@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to MS Excel for Data Analysis](https://dev.to/sharon_m/introduction-to-ms-excel-for-data-analysis-12n9)
+- [Flaky Tests Are Not a Testing Problem. They&#39;re a Feedback Loop You Broke.](https://dev.to/microseyuyu/flaky-tests-are-not-a-testing-problem-theyre-a-feedback-loop-you-broke-8j5)
+- [🤖 code-stream: A Smart CLI for Secure &amp; Healthy Code](https://dev.to/vrkforever/code-stream-a-smart-cli-for-secure-healthy-code-2jgi)
+- [Why MCP Without Agent Discovery Is Like the Web Without DNS](https://dev.to/aganium_platform/why-mcp-without-agent-discovery-is-like-the-web-without-dns-1opd)
 - [AI Pareidolia: The Strange Art of Making AI &#39;See&#39; What Isn&#39;t There Through Abstract and Nonsense Prompts](https://dev.to/velocityai/ai-pareidolia-the-strange-art-of-making-ai-see-what-isnt-there-through-abstract-and-nonsense-2cd8)
 - [Hacker Heuristics: Mental Shortcuts for Surviving a World Without &#39;Correct&#39; Answers](https://dev.to/kanywst/hacker-heuristics-mental-shortcuts-for-surviving-a-world-without-correct-answers-4725)
-- [AI Agents Unleashed: Direct Dialogue Between Agents](https://dev.to/negaga53/ai-agents-unleashed-direct-dialogue-between-agents-3d7d)
-- [🚨 阿宝警报：慧军发布任务失败](https://dev.to/chx381/a-bao-jing-bao-hui-jun-fa-bu-ren-wu-shi-bai-3a6k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
