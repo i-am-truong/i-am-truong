@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Production-Ready Utility Web App Using GitHub Copilot CLI](https://dev.to/devcodehub99/how-i-built-a-production-ready-utility-web-app-using-github-copilot-cli-1jc2)
-- [6 Pitfalls of Dynamic OG Image Generation on Cloudflare Workers &lpar;Satori + resvg-wasm&rpar;](https://dev.to/devoresyah/6-pitfalls-of-dynamic-og-image-generation-on-cloudflare-workers-satori-resvg-wasm-1kle)
-- [My Docs Are Safer Than My Search History 😎](https://dev.to/rohan_sharma/my-docs-are-safer-than-my-search-history-5e4f)
-- [🤖 Copilot Telegram Bot: A Secure, Mobile-First Agent in Your Pocket](https://dev.to/julianchun/copilot-telegram-bot-a-secure-mobile-first-agent-in-your-pocket-5ah6)
-- [Day #1 - The beginning of the path](https://dev.to/chi1lya/day-1-the-beginning-of-the-path-2edk)
+- [HOSPITAL &amp; PHARMACY DATA ANALYSIS](https://dev.to/dishon_gatambiadd_31a1/hospital-pharmacy-data-analysis-4eoi)
+- [I Built 28 Web Scrapers on Apify — Here&#39;s What I Learned](https://dev.to/vhub_systems_ed5641f65d59/i-built-28-web-scrapers-on-apify-heres-what-i-learned-2ge4)
+- [GitHub Copilot CLI Challenge - estazka.cz](https://dev.to/justondra/github-copilot-cli-challenge-estazkacz-3odn)
+- [Carnitrix-ai: AI-Powered Code Evolution &amp; Risk Intelligence Engine](https://dev.to/rehan99/carnitrix-ai-ai-powered-code-evolution-risk-intelligence-engine-ba1)
+- [What are Transformers, Why do they Dominate the AI World?](https://dev.to/iamyuvaraj/what-are-transformers-why-do-they-dominate-the-ai-world-2278)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
