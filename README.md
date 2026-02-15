@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Happy Valentine&#39;s Day ❤](https://dev.to/aaron_rose_0787cc8b4775a0/happy-valentines-day-4la4)
-- [Traduje “la guía” de Elm al español](https://dev.to/agj/traduje-la-guia-de-elm-al-espanol-1mkj)
-- [10 Minutes! Build a Stunning Personal CV Website with Markdown](https://dev.to/uuware/10-minutes-build-a-stunning-personal-cv-website-with-markdown-3g65)
-- [Diffusion Models from Scratch: DDPM Training in PyTorch](https://dev.to/tildalice/diffusion-models-from-scratch-ddpm-training-in-pytorch-1pim)
-- [macOS Hardware Info : AI performance benchmarking](https://dev.to/samuraidev/macos-hardware-info-20i3)
+- [Introducing Repo-Pulse: Stop Repo Rot Before It Starts](https://dev.to/mobrahi/introducing-repo-pulse-stop-repo-rot-before-it-starts-4gbd)
+- [I Built a Game Where GitHub Copilot CLI is the Game Master](https://dev.to/depapp/i-built-a-game-where-github-copilot-cli-is-the-game-master-9b)
+- [CareCode Open HMIS: An Open-Source Hospital Management System Built in Production, Not in Theory](https://dev.to/buddhika_ariyaratne/carecode-open-hmis-an-open-source-hospital-management-system-built-in-production-not-in-theory-55a1)
+- [Daily Tech Digest: Codex Publishing Pipeline Check-in](https://dev.to/brutalstrike2/daily-tech-digest-codex-publishing-pipeline-check-in-29in)
+- [LaunchFast vs ShipFast: Honest Comparison for 2026](https://dev.to/wsdevguy/launchfast-vs-shipfast-honest-comparison-for-2026-36m8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
