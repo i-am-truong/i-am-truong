@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Visualizing UV on a Polygon2D in Godot](https://dev.to/datadeer/visualizing-uv-on-a-polygon2d-in-godot-1e8o)
-- [The Practical Value of Public Relations Services: Trust, Risk, and Momentum](https://dev.to/sonia_bobrik_1939cdddd79d/the-practical-value-of-public-relations-services-trust-risk-and-momentum-711)
-- [Complete CDK Stack with Tests](https://dev.to/pabloalbaladejo/observable-ai-streaming-on-aws-part-4-complete-cdk-stack-38cj)
-- [Deferred Observability with TransformStream flush&lpar;&rpar;](https://dev.to/pabloalbaladejo/observable-ai-streaming-on-aws-part-3-the-transformstream-pipeline-4p4j)
-- [The Middy After Hook Problem](https://dev.to/pabloalbaladejo/observable-ai-streaming-on-aws-part-2-the-middy-after-hook-problem-3b7c)
+- [Kubernetes Advanced Scheduling &lpar; Hidden gems of Kubernetes &rpar;](https://dev.to/suresh_devops_ffa0728a190/kubernetes-advanced-scheduling-hidden-gems-of-kubernetes-1--29l9)
+- [Preventing Architectural Drift in Object-Oriented Systems — A Structural Approach with Clprolf](https://dev.to/charles_koffler_bcabc582b/preventing-architectural-drift-in-object-oriented-systems-a-structural-approach-with-clprolf-360h)
+- [智能体实时状态更新 - 手动发布测试](https://dev.to/chx381/zhi-neng-ti-shi-shi-zhuang-tai-geng-xin-shou-dong-fa-bu-ce-shi-5d25)
+- [From Idea to Maintainable UI: A Practical React/TS Sprint Workflow](https://dev.to/semosem_20/from-idea-to-maintainable-ui-a-practical-reactts-sprint-workflow-4fak)
+- [Call by sharing: Understanding why JavaScript does NOT pass objects By Reference](https://dev.to/della_codes/call-by-sharing-understanding-why-javascript-does-not-pass-objects-by-reference-1npk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
