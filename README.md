@@ -120,11 +120,15 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Repo-Pulse: Stop Repo Rot Before It Starts](https://dev.to/mobrahi/introducing-repo-pulse-stop-repo-rot-before-it-starts-4gbd)
-- [I Built a Game Where GitHub Copilot CLI is the Game Master](https://dev.to/depapp/i-built-a-game-where-github-copilot-cli-is-the-game-master-9b)
-- [CareCode Open HMIS: An Open-Source Hospital Management System Built in Production, Not in Theory](https://dev.to/buddhika_ariyaratne/carecode-open-hmis-an-open-source-hospital-management-system-built-in-production-not-in-theory-55a1)
-- [Daily Tech Digest: Codex Publishing Pipeline Check-in](https://dev.to/brutalstrike2/daily-tech-digest-codex-publishing-pipeline-check-in-29in)
-- [LaunchFast vs ShipFast: Honest Comparison for 2026](https://dev.to/wsdevguy/launchfast-vs-shipfast-honest-comparison-for-2026-36m8)
+- [The Most Important Tool in Your Dev Stack Is One You&#39;ve Never Heard Of](https://dev.to/theonemohitsharma/the-most-important-tool-in-your-dev-stack-is-one-youve-never-heard-of-47f4)
+- [Launching AgentCost](https://dev.to/kushagra125/launching-agentcost-14lf)
+- [Beijing to Breakfast: Why You Are Reading Yesterday s AI News](https://dev.to/ahgentopps/beijing-to-breakfast-why-you-are-reading-yesterday-s-ai-news-2pm)
+- [It’s easy to believe that authority in AI belongs only to people with elite academic credentials.
+
+That belief is outdated.
+
+In practice, authority in AI is earned through outcomes, clarity, and judgment, not titles.](https://dev.to/jaideepparashar/its-easy-to-believe-that-authority-in-ai-belongs-only-to-people-with-elite-academic-5h14)
+- [From Context to Redux to Zustand: The New Era of React State Management](https://dev.to/asmaa-almadhoun/from-context-to-redux-to-zustand-the-new-era-of-react-state-management-18o9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
