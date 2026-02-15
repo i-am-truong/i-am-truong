@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [shadcn &amp; ai give me superpower....](https://dev.to/sourav_mahato_3900/shadcn-ai-give-me-superpower-p3k)
-- [The silver bullet – why building software is still hard](https://dev.to/nuri/the-silver-bullet-why-building-software-is-still-hard-4o6p)
-- [Partial Indexes in PostgreSQL](https://dev.to/mrpercival/partial-indexes-in-postgresql-24pb)
-- [LLM Integration in Distributed Systems: Engineering for Reliability at Scale](https://dev.to/topuzas/llm-integration-in-distributed-systems-engineering-for-reliability-at-scale-l79)
-- [Advanced LangGraph Orchestration: Enterprise-Ready AI Workflow Management](https://dev.to/topuzas/advanced-langgraph-orchestration-enterprise-ready-ai-workflow-management-186)
+- [binmate - a binary version manager](https://dev.to/cturner8/binmate-a-binary-version-manager-13cb)
+- [Stop Saying Java Is Verbose](https://dev.to/igoriot/stop-saying-java-is-verbose-127i)
+- [Performance Tuning 101: Finding and Fixing Backend Bottlenecks](https://dev.to/zainabfirdous/performance-tuning-101-finding-and-fixing-backend-bottlenecks-28h5)
+- [Jurnal: A Voice-First Journal App with On-Device Whisper + LLM Note](https://dev.to/pizidavi/jurnal-a-voice-first-journal-app-with-on-device-whisper-llm-note-36le)
+- [Prevent Hugging Face Spaces from Sleeping with GitHub Actions + agent-browser](https://dev.to/0xkoji/prevent-hugging-face-spaces-from-sleeping-with-github-actions-agent-browser-2p4f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
