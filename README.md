@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Perceptrons: The Foundation of Modern AI](https://dev.to/rnilav/understanding-perceptrons-the-foundation-of-modern-ai-2g04)
-- [LLM Audit for Developers: A 30-Minute Self-Check Before You Tune That Prompt Again](https://dev.to/optyxstack/llm-audit-for-developers-a-30-minute-self-check-before-you-tune-that-prompt-again-2jp1)
-- [Daily Challenge #3 : The &quot;Binary Clock&quot; 🕰️](https://dev.to/bingkahu/daily-challenge-3-the-binary-clock-55oo)
-- [Socratic Sentinel - AI-Powered Socratic Tutor for Deep Coding Mastery with GitHub Copilot CLI](https://dev.to/aviral_srivastava_2c4e212/socratic-sentinel-ai-powered-socratic-tutor-for-deep-coding-mastery-with-github-copilot-cli-32gh)
-- [The Complete Guide to Integrating Claude API with Laravel](https://dev.to/dewald_hugo_472be9f413c2a/the-complete-guide-to-integrating-claude-api-with-laravel-5413)
+- [We Benchmarked 4 AI API Strategies With Real Money — The Results Changed How We Think About Model Selection](https://dev.to/robinbanner/we-benchmarked-4-ai-api-strategies-with-real-money-the-results-changed-how-we-think-about-model-5coa)
+- [What Happens After the Hero? The Section That Decides If Users Stay](https://dev.to/bhavin-allinonetools/what-happens-after-the-hero-the-section-that-decides-if-users-stay-2hm)
+- [AI Tech Trends 2026: Architectures, Efficiency, and Emerging Practices](https://dev.to/chx381/ai-tech-trends-2026-architectures-efficiency-and-emerging-practices-3o18)
+- [Custom software development: a scoping playbook that ships](https://dev.to/dharan_8759b7f9825/custom-software-development-a-scoping-playbook-that-ships-3h3m)
+- [🎮 Children Memory Games - 6 Interactive Educational Games for Kids](https://dev.to/sujah_ameer/children-memory-games-6-interactive-educational-games-for-kids-7f8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
