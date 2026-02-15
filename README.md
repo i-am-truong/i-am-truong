@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Explorando el Universo SEO: Más Allá de Semrush en la Búsqueda de la Excelencia Digital](https://dev.to/pedro_joserodriguezgome/explorando-el-universo-seo-mas-alla-de-semrush-en-la-busqueda-de-la-excelencia-digital-68)
-- [Cute Magick: A Website Platform You Can Call Home](https://dev.to/pixelswithin/cute-magick-a-website-platform-you-can-call-home-551n)
-- [Foswiki on macOS — Silent Launch and Folder Permission Fix](https://dev.to/ammad155/foswiki-on-macos-silent-launch-and-folder-permission-fix-4pf0)
-- [Experimenting with the idea of a &quot;TypeScript&quot; for CSS](https://dev.to/reinvanoyen/experimenting-with-the-idea-of-a-typescript-for-css-3i8l)
-- [The SurfaceDocs SDK Just Went From Write-Only to Full CRUD](https://dev.to/surfacedocs/the-surfacedocs-sdk-just-went-from-write-only-to-full-crud-l1m)
+- [Happy Valentine&#39;s Day ❤](https://dev.to/aaron_rose_0787cc8b4775a0/happy-valentines-day-4la4)
+- [Traduje “la guía” de Elm al español](https://dev.to/agj/traduje-la-guia-de-elm-al-espanol-1mkj)
+- [10 Minutes! Build a Stunning Personal CV Website with Markdown](https://dev.to/uuware/10-minutes-build-a-stunning-personal-cv-website-with-markdown-3g65)
+- [Diffusion Models from Scratch: DDPM Training in PyTorch](https://dev.to/tildalice/diffusion-models-from-scratch-ddpm-training-in-pytorch-1pim)
+- [macOS Hardware Info : AI performance benchmarking](https://dev.to/samuraidev/macos-hardware-info-20i3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
