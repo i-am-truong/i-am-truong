@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Copilot CLI as a Creative Engine: Building My TUI Trilogy](https://dev.to/vukhoi_gvm/copilot-cli-as-a-creative-engine-building-my-tui-trilogy-2l85)
-- [I Spent 3 Months Compressing AI Models So You Don&#39;t Have To – Here&#39;s What I Learned](https://dev.to/darshitp091/i-spent-3-months-compressing-ai-models-so-you-dont-have-to-heres-what-i-learned-d12)
-- [Building a Minimal Telegram Bot Library for Java - Handler Chain Pattern](https://dev.to/nomad4tech/building-a-minimal-telegram-bot-library-for-java-handler-chain-pattern-3kmb)
-- [GitGuard: The AI Safety Net for your Repository](https://dev.to/yorky47/gitguard-the-ai-safety-net-for-your-repository-f4c)
-- [Beautiful Perl feature: &#39;local&#39;, for temporary changes to global variables](https://dev.to/damil/beautiful-perl-feature-local-for-temporary-changes-to-global-variables-4ejk)
+- [Deadlock](https://dev.to/sanjayghosh/deadlock-abe)
+- [Building an MCP server: teaching AI assistants about backups](https://dev.to/edeckers/building-my-first-mcp-server-teaching-ai-assistants-about-backups-21g5)
+- [🔮 Nostradiffmus: Predict Your Next Bug Before It Manifests](https://dev.to/simandebvu/nostradiffmus-predict-your-next-bug-before-it-manifests-1a57)
+- [The Silent Process](https://dev.to/z_m_570bc25c2745/the-silent-process-371e)
+- [How I Used Claude Code&#39;s Multi-Agent Orchestration and Laravel to Rebuild a Backend Overnight](https://dev.to/tessak22/how-i-used-claude-codes-multi-agent-orchestration-and-laravel-to-rebuild-a-backend-overnight-174)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
