@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/dennistraub/-31b6)
-- [A Debugging Companion that follows the Socratic Method](https://dev.to/alraj/a-debugging-companion-that-follows-the-socratic-method-5e58)
-- [Mastering Cloud-Native Architectures with Kubernetes](https://dev.to/meet_patel_b41bbf81ec83f2/mastering-cloud-native-architectures-with-kubernetes-4hb4)
-- [Why We Abandoned Cloud Memory for Local Sovereignty](https://dev.to/nucleusos/why-we-abandoned-cloud-memory-for-local-sovereignty-5bbo)
-- [The Digital Traffic Cop: Understanding Load Balancing in GCP](https://dev.to/realnamehidden1_61/the-digital-traffic-cop-understanding-load-balancing-in-gcp-5hgo)
+- [Observable AI Streaming on AWS — Part 1: API Gateway REST with Lambda](https://dev.to/pabloalbaladejo/observable-ai-streaming-on-aws-part-1-api-gateway-rest-with-lambda-595a)
+- [Enumerating in RakuDoc v2](https://dev.to/finanalyst/enumerating-in-rakudoc-v2-5d8j)
+- [This a test](https://dev.to/generalkl/this-a-test-ckp)
+- [AI Agent Orchestration: Building Multi-Agent Systems with LangGraph and OpenAI](https://dev.to/chx381/ai-agent-orchestration-building-multi-agent-systems-with-langgraph-and-openai-33o)
+- [I got tired of copy-pasting messages from RabbitMQ to validate them, so I built an MCP server](https://dev.to/lacow/i-got-tired-of-copy-pasting-messages-from-rabbitmq-to-validate-them-so-i-built-an-mcp-server-1g1n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
