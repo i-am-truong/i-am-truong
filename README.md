@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Python Internals: The Iterator Protocol](https://dev.to/aykhlf_yassir/python-internals-mastering-the-iterator-protocol-3cij)
-- [GitPet - Git Your Pet](https://dev.to/k66inthesky/gitpet-git-your-pet-5913)
-- [Neural Web renamed to Larkos, fixes and improvements](https://dev.to/okerew/neural-web-renamed-to-larkos-fixes-and-improvements-19c7)
-- [The Notre Dame question](https://dev.to/frederic_thomas_944a4a1ad/the-notre-dame-question-551p)
-- [Building an IDO Launchpad in 2026: A Full-Stack Requirements Doc](https://dev.to/chaingpt/building-an-ido-launchpad-in-2026-a-full-stack-requirements-doc-4keo)
+- [My First Portfolio API Integration Activity](https://dev.to/ronsev/my-first-portfolio-api-integration-project-4fo1)
+- [One Week in Ray: 21 Bugs Between Us and a Production ML Pipeline](https://dev.to/mketkar/one-week-in-ray-21-bugs-between-us-and-a-production-ml-pipeline-1g5c)
+- [The Ghost in the Batch: How vLLM Silently Switches Algorithms](https://dev.to/mketkar/the-ghost-in-the-batch-how-vllm-silently-switches-algorithms-4bi2)
+- [How to Read GPU Profiling Logs: A Ground-Up Guide](https://dev.to/mketkar/how-to-read-gpu-profiling-logs-a-ground-up-guide-3akl)
+- [Reports That Start Work](https://dev.to/sassmario/reports-that-start-work-1m57)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
