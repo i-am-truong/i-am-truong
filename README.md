@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [binmate - a binary version manager](https://dev.to/cturner8/binmate-a-binary-version-manager-13cb)
-- [Stop Saying Java Is Verbose](https://dev.to/igoriot/stop-saying-java-is-verbose-127i)
-- [Performance Tuning 101: Finding and Fixing Backend Bottlenecks](https://dev.to/zainabfirdous/performance-tuning-101-finding-and-fixing-backend-bottlenecks-28h5)
-- [Jurnal: A Voice-First Journal App with On-Device Whisper + LLM Note](https://dev.to/pizidavi/jurnal-a-voice-first-journal-app-with-on-device-whisper-llm-note-36le)
-- [Prevent Hugging Face Spaces from Sleeping with GitHub Actions + agent-browser](https://dev.to/0xkoji/prevent-hugging-face-spaces-from-sleeping-with-github-actions-agent-browser-2p4f)
+- [An Independent backoffice for WordPress?](https://dev.to/giuliopanda/an-independent-backoffice-for-wordpress-24co)
+- [GitHub Copilot CLI Challenge: bt: Modern BLE CLI Tool](https://dev.to/qainsights/github-copilot-cli-challenge-bt-modern-ble-cli-tool-55lk)
+- [Acta Non Verba: Building a GTD Task Manager by Conversation with GitHub Copilot](https://dev.to/alinp25/acta-non-verba-building-a-gtd-task-manager-by-conversation-with-github-copilot-25d8)
+- [Vibe Coding Is Dead. Here&#39;s What Replaced It.](https://dev.to/michelle-jones/vibe-coding-is-dead-heres-what-replaced-it-4472)
+- [Termi-host : Web-Based Terminal Access from Any browser, Built with GitHub Copilot cli](https://dev.to/vishal_prajapat_dd1993221/termi-host-web-based-terminal-access-anywheretvphone-built-with-github-copilot-cli-21nl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
