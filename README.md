@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Sign Your Python .exe With Sigstore &lpar;No Certificate Required&rpar;](https://dev.to/huckler/how-to-sign-your-python-exe-with-sigstore-no-certificate-required-m5l)
+- [How I made a budget tracker for my gf because she kept complaining about Google Sheets](https://dev.to/edm115/how-i-made-a-budget-tracker-for-my-gf-because-she-kept-complaining-about-google-sheets-49l3)
+- [Configuration Xdebug sur PHPSTORM + Windows + WSL + Docker](https://dev.to/tokirak/configuration-xdebug-sur-phpstorm-windows-wsl-docker-2ian)
+- [Take your voice anywhere, transcribe on YOUR hardware.](https://dev.to/tams89/take-your-voice-anywhere-transcribe-on-your-hardware-52j1)
 - [Deadlock](https://dev.to/sanjayghosh/deadlock-abe)
-- [Building an MCP server: teaching AI assistants about backups](https://dev.to/edeckers/building-my-first-mcp-server-teaching-ai-assistants-about-backups-21g5)
-- [🔮 Nostradiffmus: Predict Your Next Bug Before It Manifests](https://dev.to/simandebvu/nostradiffmus-predict-your-next-bug-before-it-manifests-1a57)
-- [The Silent Process](https://dev.to/z_m_570bc25c2745/the-silent-process-371e)
-- [How I Used Claude Code&#39;s Multi-Agent Orchestration and Laravel to Rebuild a Backend Overnight](https://dev.to/tessak22/how-i-used-claude-codes-multi-agent-orchestration-and-laravel-to-rebuild-a-backend-overnight-174)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
