@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m a Filipino Developer - Here&#39;s What US Companies Get Wrong When Hiring Us](https://dev.to/devwithzach/im-a-filipino-developer-heres-what-us-companies-get-wrong-when-hiring-us-764)
-- [How to Setup DNS Manager in Proxmox Using AdGuard Home](https://dev.to/mss/how-to-setup-dns-manager-in-proxmox-using-adguard-home-2jlo)
-- [How I automated my bug backlog with n8n and a coding agent API](https://dev.to/rbilgil/how-i-automated-my-bug-backlog-with-n8n-and-a-coding-agent-api-1i1h)
-- [Mini CLI Productivity Tool – GitHub Copilot CLI Challenge](https://dev.to/usan/mini-cli-productivity-tool-github-copilot-cli-challenge-556)
-- [AWS Data Engineer Associate &lpar;DEA-C01&rpar;: What Each Domain Actually Tests &lpar;From Someone Who Just Passed&rpar;](https://dev.to/andy_youtube_371fe0c1a37e/aws-data-engineer-associate-dea-c01-what-each-domain-actually-tests-from-someone-who-just-3pao)
+- [Your Senior Engineer Is Not 10x. He’s a 0.1ms Cache.](https://dev.to/art_light/your-senior-engineer-is-not-10x-hes-a-01ms-cache-3705)
+- [Your JSON Schema Is a Prompt - Tips for AWS Bedrock Structured Output](https://dev.to/aws-builders/your-json-schema-is-a-prompt-tips-for-aws-bedrock-structured-output-5aie)
+- [Why I Built GenosDB: The P2P Database That Works Out of the Box](https://dev.to/estebanrfp/why-i-built-genosdb-the-p2p-database-that-works-out-of-the-box-d5i)
+- [Hambugsy: The CLI That Tells You WHO Is Wrong—Your Test or Your Code](https://dev.to/aporkolab/hambugsy-the-cli-that-tells-you-who-is-wrong-your-test-or-your-code-2ncd)
+- [TableCraft - How I Built a Production-Ready Data Table Engine](https://dev.to/jacksonkasi/tablecraft-how-i-built-a-production-ready-data-table-engine-1g59)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
