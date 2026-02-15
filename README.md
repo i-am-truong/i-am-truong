@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Terminal User Interface &lpar;TUI&rpar; for Stellar RPC with Rust and Ratatui](https://dev.to/padparadscho/building-a-terminal-user-interface-tui-for-stellar-rpc-with-rust-and-ratatui-1529)
-- [I Built an AST-Based Tool to Migrate CSS to Tailwind for React &lpar;like frameworks&rpar;](https://dev.to/vyeos/i-built-an-ast-based-tool-to-migrate-css-to-tailwind-for-react-like-frameworks-he2)
-- [AI CTO: Why Ecosystem Vision Beats Algorithm Tunnel Vision](https://dev.to/dr_hernani_costa/ai-cto-why-ecosystem-vision-beats-algorithm-tunnel-vision-55ba)
-- [AI Agents: The $500k Team Member You&#39;re Not Using](https://dev.to/dr_hernani_costa/ai-agents-the-500k-team-member-youre-not-using-28i7)
-- [5 AI Security Mistakes That Will Get Your Agent Hacked](https://dev.to/techfind777/5-ai-security-mistakes-that-will-get-your-agent-hacked-1cnn)
+- [How I Built a Production-Ready Utility Web App Using GitHub Copilot CLI](https://dev.to/devcodehub99/how-i-built-a-production-ready-utility-web-app-using-github-copilot-cli-1jc2)
+- [6 Pitfalls of Dynamic OG Image Generation on Cloudflare Workers &lpar;Satori + resvg-wasm&rpar;](https://dev.to/devoresyah/6-pitfalls-of-dynamic-og-image-generation-on-cloudflare-workers-satori-resvg-wasm-1kle)
+- [My Docs Are Safer Than My Search History 😎](https://dev.to/rohan_sharma/my-docs-are-safer-than-my-search-history-5e4f)
+- [🤖 Copilot Telegram Bot: A Secure, Mobile-First Agent in Your Pocket](https://dev.to/julianchun/copilot-telegram-bot-a-secure-mobile-first-agent-in-your-pocket-5ah6)
+- [Day #1 - The beginning of the path](https://dev.to/chi1lya/day-1-the-beginning-of-the-path-2edk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
