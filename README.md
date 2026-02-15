@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [JSPT: The Toast &amp; Popup Library That Actually Makes Sense](https://dev.to/wokki20/jspt-the-toast-popup-library-that-actually-makes-sense-39hi)
-- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-nak)
-- [🐍 The Immortal Serpent: Why Python Will Reign for Over a Century](https://dev.to/sripadh_sujith_1487e8db18/the-immortal-serpent-why-python-will-reign-for-over-a-century-a3h)
-- [NDM-TCP: Potential Real-World Applications &lpar;If Simulation Results Hold True&rpar;](https://dev.to/hejhdiss/ndm-tcp-potential-real-world-applications-if-simulation-results-hold-true-ih6)
-- [Provide storage for the IT department testing and training](https://dev.to/zainab_oladimeji/provide-storage-for-the-it-department-testing-and-training-3k67)
+- [미친 react key](https://dev.to/algoorgoal/micin-react-key-4ogo)
+- [Day 6 of Python &lpar;Dictionary, Set and Hashing&rpar;](https://dev.to/vidya_varshini/day-6-of-python-dictionary-set-and-hashing-4n3i)
+- [Back to Coding After 2 Years 😅💻](https://dev.to/euryt_codes/back-to-coding-after-2-years-keo)
+- [The Unseen Engine: How Test Automation and CI/CD Became My Secret to Shipping Quality Software](https://dev.to/zaha_786/the-unseen-engine-how-test-automation-and-cicd-became-my-secret-to-shipping-quality-software-4a08)
+- [The Sovereign Board: A Guide to MoltBoard and Agentic Governance](https://dev.to/agentnexus/the-sovereign-board-a-guide-to-moltboard-and-agentic-governance-4c36)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
