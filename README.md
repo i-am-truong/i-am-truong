@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your Senior Engineer Is Not 10x. He’s a 0.1ms Cache.](https://dev.to/art_light/your-senior-engineer-is-not-10x-hes-a-01ms-cache-3705)
-- [Your JSON Schema Is a Prompt - Tips for AWS Bedrock Structured Output](https://dev.to/aws-builders/your-json-schema-is-a-prompt-tips-for-aws-bedrock-structured-output-5aie)
-- [Why I Built GenosDB: The P2P Database That Works Out of the Box](https://dev.to/estebanrfp/why-i-built-genosdb-the-p2p-database-that-works-out-of-the-box-d5i)
-- [Hambugsy: The CLI That Tells You WHO Is Wrong—Your Test or Your Code](https://dev.to/aporkolab/hambugsy-the-cli-that-tells-you-who-is-wrong-your-test-or-your-code-2ncd)
-- [TableCraft - How I Built a Production-Ready Data Table Engine](https://dev.to/jacksonkasi/tablecraft-how-i-built-a-production-ready-data-table-engine-1g59)
+- [Python Internals: The Iterator Protocol](https://dev.to/aykhlf_yassir/python-internals-mastering-the-iterator-protocol-3cij)
+- [GitPet - Git Your Pet](https://dev.to/k66inthesky/gitpet-git-your-pet-5913)
+- [Neural Web renamed to Larkos, fixes and improvements](https://dev.to/okerew/neural-web-renamed-to-larkos-fixes-and-improvements-19c7)
+- [The Notre Dame question](https://dev.to/frederic_thomas_944a4a1ad/the-notre-dame-question-551p)
+- [Building an IDO Launchpad in 2026: A Full-Stack Requirements Doc](https://dev.to/chaingpt/building-an-ido-launchpad-in-2026-a-full-stack-requirements-doc-4keo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
