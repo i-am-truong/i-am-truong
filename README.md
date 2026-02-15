@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [shadcn &amp; ai give me superpower....](https://dev.to/sourav_mahato_3900/shadcn-ai-give-me-superpower-p3k)
+- [The silver bullet – why building software is still hard](https://dev.to/nuri/the-silver-bullet-why-building-software-is-still-hard-4o6p)
+- [Partial Indexes in PostgreSQL](https://dev.to/mrpercival/partial-indexes-in-postgresql-24pb)
+- [LLM Integration in Distributed Systems: Engineering for Reliability at Scale](https://dev.to/topuzas/llm-integration-in-distributed-systems-engineering-for-reliability-at-scale-l79)
 - [Advanced LangGraph Orchestration: Enterprise-Ready AI Workflow Management](https://dev.to/topuzas/advanced-langgraph-orchestration-enterprise-ready-ai-workflow-management-186)
-- [How To Built a Search Engine &lpar;And Finally Understood Google&rpar;](https://dev.to/igornosatov_15/how-to-built-a-search-engine-and-finally-understood-google-253e)
-- [Building an 8-Layer Security Architecture for a $15 Hardware Device](https://dev.to/makepkg/building-an-8-layer-security-architecture-for-a-15-hardware-device-3p8k)
-- [Integrating Google Street View into your React App WITHOUT using Google Maps](https://dev.to/dannyhodge/integrating-google-street-view-into-your-react-app-without-using-google-maps-985)
-- [How to fix inconsistent Play-Pause behaviour with Bluetooth Headsets on Linux](https://dev.to/foxes/how-to-fix-inconsistent-play-pause-behaviour-with-bluetooth-headsets-on-linux-1oa8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
