@@ -120,11 +120,12 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Sharing this because the mission matters 💛
+I built a stutter friendly app that makes speaking practice calm, supportive, and judgment free, with gentle feedback and privacy first design at its core. It&#39;s built with Elm, Elixir, and Copilot CLI. Thoughts?](https://dev.to/ujja/sharing-this-because-the-mission-matters-i-built-a-stutter-friendly-app-that-makes-speaking-3j76)
+- [Observability II – Server-Side Metrics with Prometheus and Grafana for SFU Health](https://dev.to/deepak_mishra_35863517037/observability-ii-server-side-metrics-with-prometheus-and-grafana-for-sfu-health-44ji)
 - [An Independent backoffice for WordPress?](https://dev.to/giuliopanda/an-independent-backoffice-for-wordpress-24co)
 - [GitHub Copilot CLI Challenge: bt: Modern BLE CLI Tool](https://dev.to/qainsights/github-copilot-cli-challenge-bt-modern-ble-cli-tool-55lk)
 - [Acta Non Verba: Building a GTD Task Manager by Conversation with GitHub Copilot](https://dev.to/alinp25/acta-non-verba-building-a-gtd-task-manager-by-conversation-with-github-copilot-25d8)
-- [Vibe Coding Is Dead. Here&#39;s What Replaced It.](https://dev.to/michelle-jones/vibe-coding-is-dead-heres-what-replaced-it-4472)
-- [Termi-host : Web-Based Terminal Access from Any browser, Built with GitHub Copilot cli](https://dev.to/vishal_prajapat_dd1993221/termi-host-web-based-terminal-access-anywheretvphone-built-with-github-copilot-cli-21nl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
