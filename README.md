@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Sign Your Python .exe With Sigstore &lpar;No Certificate Required&rpar;](https://dev.to/huckler/how-to-sign-your-python-exe-with-sigstore-no-certificate-required-m5l)
-- [How I made a budget tracker for my gf because she kept complaining about Google Sheets](https://dev.to/edm115/how-i-made-a-budget-tracker-for-my-gf-because-she-kept-complaining-about-google-sheets-49l3)
-- [Configuration Xdebug sur PHPSTORM + Windows + WSL + Docker](https://dev.to/tokirak/configuration-xdebug-sur-phpstorm-windows-wsl-docker-2ian)
-- [Take your voice anywhere, transcribe on YOUR hardware.](https://dev.to/tams89/take-your-voice-anywhere-transcribe-on-your-hardware-52j1)
-- [Deadlock](https://dev.to/sanjayghosh/deadlock-abe)
+- [Beyond Text: How to Embed Interactive UI Components in AI Chat Streams](https://dev.to/programmingcentral/beyond-text-how-to-embed-interactive-ui-components-in-ai-chat-streams-5fic)
+- [If you think you can use LinkedIn automation — think twice](https://dev.to/axrisi/if-you-think-you-can-use-linkedin-automation-think-twice-55pk)
+- [Python OOP for Java Developers](https://dev.to/citronbrick/python-oop-for-java-developers-5be7)
+- [Turning Bug Hunting Into a Game: The Birth of an Innovative Idea](https://dev.to/owaspblt/turning-bug-hunting-into-a-game-the-birth-of-an-innovative-idea-3c4)
+- [Novel Studio for Copilot CLI — Write Novels Together](https://dev.to/tiny_flowlab/novel-studio-for-copilot-cli-write-novels-together-2bp1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
