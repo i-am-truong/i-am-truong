@@ -120,15 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Most Important Tool in Your Dev Stack Is One You&#39;ve Never Heard Of](https://dev.to/theonemohitsharma/the-most-important-tool-in-your-dev-stack-is-one-youve-never-heard-of-47f4)
-- [Launching AgentCost](https://dev.to/kushagra125/launching-agentcost-14lf)
-- [Beijing to Breakfast: Why You Are Reading Yesterday s AI News](https://dev.to/ahgentopps/beijing-to-breakfast-why-you-are-reading-yesterday-s-ai-news-2pm)
-- [It’s easy to believe that authority in AI belongs only to people with elite academic credentials.
-
-That belief is outdated.
-
-In practice, authority in AI is earned through outcomes, clarity, and judgment, not titles.](https://dev.to/jaideepparashar/its-easy-to-believe-that-authority-in-ai-belongs-only-to-people-with-elite-academic-5h14)
-- [From Context to Redux to Zustand: The New Era of React State Management](https://dev.to/asmaa-almadhoun/from-context-to-redux-to-zustand-the-new-era-of-react-state-management-18o9)
+- [Rustroke - WASM mini draw](https://dev.to/pengeszikra/rustroke-wasm-mini-draw-3oih)
+- [I Built a Tamagotchi That Judges Your GitHub Activity 🐾 &lpar;and it&#39;s brutally honest&rpar;](https://dev.to/depapp/i-built-a-tamagotchi-that-judges-your-github-activity-and-its-brutally-honest-oh1)
+- [How to Auto-Label your Segmentation Dataset with SAM3](https://dev.to/artzabarov/how-to-auto-label-your-segmentation-dataset-with-sam3-3p8)
+- [Practical Applications of AI in Web Development](https://dev.to/mystrix/practical-applications-of-ai-in-web-development-1kdc)
+- [Generate Your CLAUDE.md in 30 Seconds &lpar;Interactive Script&rpar;](https://dev.to/yurukusa/generate-your-claudemd-in-30-seconds-interactive-script-54n4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
