@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Copy-Paste WBS Template Library](https://dev.to/_jeongyuhyeon_03de1/copy-paste-wbs-template-library-3ia6)
+- [FixForward: One Command to Go from Broken Build to Ready-to-Merge PR](https://dev.to/stackmasteraliza/fixforward-one-command-to-go-from-broken-build-to-ready-to-merge-pr-167g)
+- [Configure DependencyTrack with Terraform](https://dev.to/bjarnerentz/configure-dependencytrack-with-terraform-32ga)
+- [Your AI Reviewer Has the Same Blind Spots You Do](https://dev.to/theskillsteam/your-ai-reviewer-has-the-same-blind-spots-you-do-1e44)
 - [미친 react key](https://dev.to/algoorgoal/micin-react-key-4ogo)
-- [Day 6 of Python &lpar;Dictionary, Set and Hashing&rpar;](https://dev.to/vidya_varshini/day-6-of-python-dictionary-set-and-hashing-4n3i)
-- [Back to Coding After 2 Years 😅💻](https://dev.to/euryt_codes/back-to-coding-after-2-years-keo)
-- [The Unseen Engine: How Test Automation and CI/CD Became My Secret to Shipping Quality Software](https://dev.to/zaha_786/the-unseen-engine-how-test-automation-and-cicd-became-my-secret-to-shipping-quality-software-4a08)
-- [The Sovereign Board: A Guide to MoltBoard and Agentic Governance](https://dev.to/agentnexus/the-sovereign-board-a-guide-to-moltboard-and-agentic-governance-4c36)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
