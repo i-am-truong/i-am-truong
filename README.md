@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding TOCTOU: The Race Condition Hiding in Your Code](https://dev.to/codewithveek/understanding-toctou-the-race-condition-hiding-in-your-code-43nh)
-- [Database Partitioning Lessons That Apply Directly to Embedding Storage](https://dev.to/gauthamram_ravichandran/database-partitioning-lessons-that-apply-directly-to-embedding-storage-2i71)
-- [Why I Stopped Using Redux for State Management](https://dev.to/kuldeep-modi/why-i-stopped-using-redux-for-state-management-32c8)
-- [AI Agent Memory Management: The Complete Guide](https://dev.to/techfind777/ai-agent-memory-management-the-complete-guide-55h9)
-- [The Container Troubleshooting Playbook: OOMs, CPU, and I/O](https://dev.to/sajjasudhakararao/the-container-troubleshooting-playbook-ooms-cpu-and-io-19g4)
+- [JSPT: The Toast &amp; Popup Library That Actually Makes Sense](https://dev.to/wokki20/jspt-the-toast-popup-library-that-actually-makes-sense-39hi)
+- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-nak)
+- [🐍 The Immortal Serpent: Why Python Will Reign for Over a Century](https://dev.to/sripadh_sujith_1487e8db18/the-immortal-serpent-why-python-will-reign-for-over-a-century-a3h)
+- [NDM-TCP: Potential Real-World Applications &lpar;If Simulation Results Hold True&rpar;](https://dev.to/hejhdiss/ndm-tcp-potential-real-world-applications-if-simulation-results-hold-true-ih6)
+- [Provide storage for the IT department testing and training](https://dev.to/zainab_oladimeji/provide-storage-for-the-it-department-testing-and-training-3k67)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
