@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up AI Code Review in Bitbucket: A Practical Guide and Comparison⚖️](https://dev.to/dev_kiran/setting-up-ai-code-review-in-bitbucket-a-practical-guide-and-comparison-19dp)
-- [When NOT to Use AI as a Developer](https://dev.to/ahmadwaqarcs/when-not-to-use-ai-as-a-developer-3if2)
-- [We All Accepted the &quot;Python Tax.&quot;, Pandas 3.0 Just Reduced It.](https://dev.to/kaniel_outis/we-all-accepted-the-python-tax-pandas-30-just-reduced-it-1n43)
-- [I built Spotify Wrapped for Git using GitHub Copilot CLI](https://dev.to/stackmasteraliza/i-built-spotify-wrapped-for-git-using-github-copilot-cli-10lj)
-- [Stop Writing &quot;Clean&quot; Code. Start Writing Readable Code](https://dev.to/oyminirole/stop-writing-clean-code-start-writing-readable-code-544h)
+- [Stop Your AI Agent from Leaking API Keys, Private Keys, and PII](https://dev.to/zeshama/stop-your-ai-agent-from-leaking-api-keys-private-keys-and-pii-2pj2)
+- [Backpressure, Buffers, and Logging Sidecars](https://dev.to/bala101/backpressure-buffers-and-logging-sidecars-j00)
+- [You Don’t “Prompt Engineer” Identity — You Architect It &lpar;Why CloYou Explores Constrained AI Clones&rpar;](https://dev.to/cloyouai/you-dont-prompt-engineer-identity-you-architect-it-why-cloyou-explores-constrained-ai-clones-2h5g)
+- [Built my first TUI as a web dev and the experience was awesome](https://dev.to/ashiqsultan/built-my-first-tui-as-a-web-dev-and-the-experiecnce-was-awesome-1i8n)
+- [A Bug Finder CLI to explore your application bugs](https://dev.to/iambpn/a-bug-finder-cli-to-explore-your-application-bugs-6p6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
