@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Structure of a Cell in SQLite](https://dev.to/lovestaco/structure-of-a-cell-in-sqlite-5g67)
-- [Building a CRM for Freelancers: Architecture Decisions Behind Lazy CRM](https://dev.to/eduar766/building-a-crm-for-freelancers-architecture-decisions-behind-lazy-crm-19m)
-- [5 Prompt Engineering Patterns That Actually Work &lpar;With Examples&rpar;](https://dev.to/novaelvaris/5-prompt-engineering-patterns-that-actually-work-with-examples-3l0l)
-- [EXCEPTION FOLDER IN SPRING BOOT PROJECT](https://dev.to/bhu_kalki/exception-folder-in-spring-boot-project-7g)
-- [Your Users Shouldn&#39;t Have to Scroll to Find What Just Loaded](https://dev.to/edriso/your-users-shouldnt-have-to-scroll-to-find-what-just-loaded-cn1)
+- [Copilot CLI as a Creative Engine: Building My TUI Trilogy](https://dev.to/vukhoi_gvm/copilot-cli-as-a-creative-engine-building-my-tui-trilogy-2l85)
+- [I Spent 3 Months Compressing AI Models So You Don&#39;t Have To – Here&#39;s What I Learned](https://dev.to/darshitp091/i-spent-3-months-compressing-ai-models-so-you-dont-have-to-heres-what-i-learned-d12)
+- [Building a Minimal Telegram Bot Library for Java - Handler Chain Pattern](https://dev.to/nomad4tech/building-a-minimal-telegram-bot-library-for-java-handler-chain-pattern-3kmb)
+- [GitGuard: The AI Safety Net for your Repository](https://dev.to/yorky47/gitguard-the-ai-safety-net-for-your-repository-f4c)
+- [Beautiful Perl feature: &#39;local&#39;, for temporary changes to global variables](https://dev.to/damil/beautiful-perl-feature-local-for-temporary-changes-to-global-variables-4ejk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
