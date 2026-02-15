@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Resolution Tracker: Secure &amp; Scalable with GitHub Copilot CLI](https://dev.to/shannieche/resolution-tracker-secure-scalable-with-github-copilot-cli-35ki)
-- [I Built a TUI That Makes Rust Code Inspection Feel Like Magic ✨](https://dev.to/yashksaini/i-built-a-tui-that-makes-rust-code-inspection-feel-like-magic-375k)
-- [Exploring Coffee Quality Data with GitHub Copilot CLI](https://dev.to/marina_eremina/exploring-coffee-quality-data-with-github-copilot-cli-192l)
-- [I Built Clasez: An AI Study Copilot That Changes How Students Use Lecture Recordings with the GitHub Copilot SDK](https://dev.to/jamesrhurtado/i-built-clasez-an-ai-study-copilot-that-changes-how-students-use-lecture-recordings-with-the-43id)
-- [GitHub Copilot for Fast Presentation Generation](https://dev.to/jn1707/github-copilot-for-fast-presentation-generation-319o)
+- [Drift CLI - Terminal-Native AI Assistant for Safe Command Execution](https://dev.to/a_elhaag/drift-cli-terminal-native-ai-assistant-for-safe-command-execution-4m4n)
+- [O que é Kurbenetes](https://dev.to/ikauedev/o-que-e-kurbenetes-1nge)
+- [DevFlow - Developer Workflow Intelligence Built with GitHub Copilot CLI](https://dev.to/mr-ahtashamulhaq/devflow-developer-workflow-intelligence-built-with-github-copilot-cli-1g4k)
+- [Offline-First Apps Without Firebase: A P2P Approach With GenosDB](https://dev.to/estebanrfp/offline-first-apps-without-firebase-a-p2p-approach-with-genosdb-51ec)
+- [Dev Tartan: Deterministic Plaid from a GitHub Username](https://dev.to/leereilly/dev-tartan-deterministic-plaid-from-a-github-username-101m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
