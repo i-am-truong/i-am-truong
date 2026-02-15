@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[Boost]](https://dev.to/nghihua/-4a5c)
+- [Why I’m Doing This &lpar;and Probably Failing&rpar;](https://dev.to/photopi/why-im-doing-this-and-probably-failing-4851)
+- [WordPress: ACF поле не сохраняется — чиним запись meta](https://dev.to/_vproger_/wordpress-acf-polie-nie-sokhraniaietsia-chinim-zapis-meta-2d9l)
 - [Stop Your AI Agent from Leaking API Keys, Private Keys, and PII](https://dev.to/zeshama/stop-your-ai-agent-from-leaking-api-keys-private-keys-and-pii-2pj2)
 - [Backpressure, Buffers, and Logging Sidecars](https://dev.to/bala101/backpressure-buffers-and-logging-sidecars-j00)
-- [You Don’t “Prompt Engineer” Identity — You Architect It &lpar;Why CloYou Explores Constrained AI Clones&rpar;](https://dev.to/cloyouai/you-dont-prompt-engineer-identity-you-architect-it-why-cloyou-explores-constrained-ai-clones-2h5g)
-- [Built my first TUI as a web dev and the experience was awesome](https://dev.to/ashiqsultan/built-my-first-tui-as-a-web-dev-and-the-experiecnce-was-awesome-1i8n)
-- [A Bug Finder CLI to explore your application bugs](https://dev.to/iambpn/a-bug-finder-cli-to-explore-your-application-bugs-6p6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
