@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Rustroke - WASM mini draw](https://dev.to/pengeszikra/rustroke-wasm-mini-draw-3oih)
-- [I Built a Tamagotchi That Judges Your GitHub Activity 🐾 &lpar;and it&#39;s brutally honest&rpar;](https://dev.to/depapp/i-built-a-tamagotchi-that-judges-your-github-activity-and-its-brutally-honest-oh1)
-- [How to Auto-Label your Segmentation Dataset with SAM3](https://dev.to/artzabarov/how-to-auto-label-your-segmentation-dataset-with-sam3-3p8)
-- [Practical Applications of AI in Web Development](https://dev.to/mystrix/practical-applications-of-ai-in-web-development-1kdc)
-- [Generate Your CLAUDE.md in 30 Seconds &lpar;Interactive Script&rpar;](https://dev.to/yurukusa/generate-your-claudemd-in-30-seconds-interactive-script-54n4)
+- [Setting Up AI Code Review in Bitbucket: A Practical Guide and Comparison⚖️](https://dev.to/dev_kiran/setting-up-ai-code-review-in-bitbucket-a-practical-guide-and-comparison-19dp)
+- [When NOT to Use AI as a Developer](https://dev.to/ahmadwaqarcs/when-not-to-use-ai-as-a-developer-3if2)
+- [We All Accepted the &quot;Python Tax.&quot;, Pandas 3.0 Just Reduced It.](https://dev.to/kaniel_outis/we-all-accepted-the-python-tax-pandas-30-just-reduced-it-1n43)
+- [I built Spotify Wrapped for Git using GitHub Copilot CLI](https://dev.to/stackmasteraliza/i-built-spotify-wrapped-for-git-using-github-copilot-cli-10lj)
+- [Stop Writing &quot;Clean&quot; Code. Start Writing Readable Code](https://dev.to/oyminirole/stop-writing-clean-code-start-writing-readable-code-544h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
