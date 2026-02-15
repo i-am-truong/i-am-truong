@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Terminal User Interface &lpar;TUI&rpar; for Stellar RPC with Rust and Ratatui](https://dev.to/padparadscho/building-a-terminal-user-interface-tui-for-stellar-rpc-with-rust-and-ratatui-1529)
+- [I Built an AST-Based Tool to Migrate CSS to Tailwind for React &lpar;like frameworks&rpar;](https://dev.to/vyeos/i-built-an-ast-based-tool-to-migrate-css-to-tailwind-for-react-like-frameworks-he2)
 - [AI CTO: Why Ecosystem Vision Beats Algorithm Tunnel Vision](https://dev.to/dr_hernani_costa/ai-cto-why-ecosystem-vision-beats-algorithm-tunnel-vision-55ba)
 - [AI Agents: The $500k Team Member You&#39;re Not Using](https://dev.to/dr_hernani_costa/ai-agents-the-500k-team-member-youre-not-using-28i7)
 - [5 AI Security Mistakes That Will Get Your Agent Hacked](https://dev.to/techfind777/5-ai-security-mistakes-that-will-get-your-agent-hacked-1cnn)
-- [Tokenizing Investments with NFTs on Equillar](https://dev.to/icolomina/tokenizing-investments-with-nfts-on-equillar-54e0)
-- [Human-Aligned Decision Transformers for planetary geology survey missions during mission-critical recovery windows](https://dev.to/rikinptl/human-aligned-decision-transformers-for-planetary-geology-survey-missions-during-mission-critical-116b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
