@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Copy-Paste WBS Template Library](https://dev.to/_jeongyuhyeon_03de1/copy-paste-wbs-template-library-3ia6)
-- [FixForward: One Command to Go from Broken Build to Ready-to-Merge PR](https://dev.to/stackmasteraliza/fixforward-one-command-to-go-from-broken-build-to-ready-to-merge-pr-167g)
-- [Configure DependencyTrack with Terraform](https://dev.to/bjarnerentz/configure-dependencytrack-with-terraform-32ga)
-- [Your AI Reviewer Has the Same Blind Spots You Do](https://dev.to/theskillsteam/your-ai-reviewer-has-the-same-blind-spots-you-do-1e44)
-- [미친 react key](https://dev.to/algoorgoal/micin-react-key-4ogo)
+- [Introduction to MS Excel for Data Analysis](https://dev.to/sharon_m/introduction-to-ms-excel-for-data-analysis-12n9)
+- [AI Pareidolia: The Strange Art of Making AI &#39;See&#39; What Isn&#39;t There Through Abstract and Nonsense Prompts](https://dev.to/velocityai/ai-pareidolia-the-strange-art-of-making-ai-see-what-isnt-there-through-abstract-and-nonsense-2cd8)
+- [Hacker Heuristics: Mental Shortcuts for Surviving a World Without &#39;Correct&#39; Answers](https://dev.to/kanywst/hacker-heuristics-mental-shortcuts-for-surviving-a-world-without-correct-answers-4725)
+- [AI Agents Unleashed: Direct Dialogue Between Agents](https://dev.to/negaga53/ai-agents-unleashed-direct-dialogue-between-agents-3d7d)
+- [🚨 阿宝警报：慧军发布任务失败](https://dev.to/chx381/a-bao-jing-bao-hui-jun-fa-bu-ren-wu-shi-bai-3a6k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
