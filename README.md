@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [HOSPITAL &amp; PHARMACY DATA ANALYSIS](https://dev.to/dishon_gatambiadd_31a1/hospital-pharmacy-data-analysis-4eoi)
-- [I Built 28 Web Scrapers on Apify — Here&#39;s What I Learned](https://dev.to/vhub_systems_ed5641f65d59/i-built-28-web-scrapers-on-apify-heres-what-i-learned-2ge4)
-- [GitHub Copilot CLI Challenge - estazka.cz](https://dev.to/justondra/github-copilot-cli-challenge-estazkacz-3odn)
-- [Carnitrix-ai: AI-Powered Code Evolution &amp; Risk Intelligence Engine](https://dev.to/rehan99/carnitrix-ai-ai-powered-code-evolution-risk-intelligence-engine-ba1)
-- [What are Transformers, Why do they Dominate the AI World?](https://dev.to/iamyuvaraj/what-are-transformers-why-do-they-dominate-the-ai-world-2278)
+- [[Boost]](https://dev.to/dennistraub/-31b6)
+- [A Debugging Companion that follows the Socratic Method](https://dev.to/alraj/a-debugging-companion-that-follows-the-socratic-method-5e58)
+- [Mastering Cloud-Native Architectures with Kubernetes](https://dev.to/meet_patel_b41bbf81ec83f2/mastering-cloud-native-architectures-with-kubernetes-4hb4)
+- [Why We Abandoned Cloud Memory for Local Sovereignty](https://dev.to/nucleusos/why-we-abandoned-cloud-memory-for-local-sovereignty-5bbo)
+- [The Digital Traffic Cop: Understanding Load Balancing in GCP](https://dev.to/realnamehidden1_61/the-digital-traffic-cop-understanding-load-balancing-in-gcp-5hgo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
