@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [We Benchmarked 4 AI API Strategies With Real Money — The Results Changed How We Think About Model Selection](https://dev.to/robinbanner/we-benchmarked-4-ai-api-strategies-with-real-money-the-results-changed-how-we-think-about-model-5coa)
-- [What Happens After the Hero? The Section That Decides If Users Stay](https://dev.to/bhavin-allinonetools/what-happens-after-the-hero-the-section-that-decides-if-users-stay-2hm)
-- [AI Tech Trends 2026: Architectures, Efficiency, and Emerging Practices](https://dev.to/chx381/ai-tech-trends-2026-architectures-efficiency-and-emerging-practices-3o18)
-- [Custom software development: a scoping playbook that ships](https://dev.to/dharan_8759b7f9825/custom-software-development-a-scoping-playbook-that-ships-3h3m)
-- [🎮 Children Memory Games - 6 Interactive Educational Games for Kids](https://dev.to/sujah_ameer/children-memory-games-6-interactive-educational-games-for-kids-7f8)
+- [AI CTO: Why Ecosystem Vision Beats Algorithm Tunnel Vision](https://dev.to/dr_hernani_costa/ai-cto-why-ecosystem-vision-beats-algorithm-tunnel-vision-55ba)
+- [AI Agents: The $500k Team Member You&#39;re Not Using](https://dev.to/dr_hernani_costa/ai-agents-the-500k-team-member-youre-not-using-28i7)
+- [5 AI Security Mistakes That Will Get Your Agent Hacked](https://dev.to/techfind777/5-ai-security-mistakes-that-will-get-your-agent-hacked-1cnn)
+- [Tokenizing Investments with NFTs on Equillar](https://dev.to/icolomina/tokenizing-investments-with-nfts-on-equillar-54e0)
+- [Human-Aligned Decision Transformers for planetary geology survey missions during mission-critical recovery windows](https://dev.to/rikinptl/human-aligned-decision-transformers-for-planetary-geology-survey-missions-during-mission-critical-116b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
