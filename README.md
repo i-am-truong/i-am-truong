@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Use Markdown Files to Orchestrate Multi-File Changes in GitHub Copilot](https://dev.to/supreet_pradhan/how-to-use-markdown-files-to-orchestrate-multi-file-changes-in-github-copilot-5him)
-- [How I Use Obsidian for Everything &lpar;Almost&rpar;](https://dev.to/mvaldes/how-i-use-obsidian-for-everything-almost-2paf)
-- [Harnessing Gemini AI for Automatic Alt Text Generation: A PHP Developer&#39;s Guide](https://dev.to/proga100/harnessing-gemini-ai-for-automatic-alt-text-generation-a-php-developers-guide-1cg9)
-- [I Launched to Nobody](https://dev.to/strandnerd/i-launched-to-nobody-18a4)
-- [LeetCode: The “Contains Duplicate” Problem](https://dev.to/workspacedex/leetcode-the-contains-duplicate-problem-23m7)
+- [I Built This Because I Was Tired of Building Admin Panels](https://dev.to/homeless-coder/i-built-this-because-i-was-tired-of-building-admin-panels-4e97)
+- [How to Test a Retell Agent in CI with GitHub Actions](https://dev.to/pld/how-to-test-a-retell-agent-in-ci-with-github-actions-2cjb)
+- [#showdev: FrontendAtlas — practice real frontend interview questions](https://dev.to/mslm_ylmaz_4e21e9dbcc9/showdev-frontendatlas-practice-real-frontend-interview-questions-1ofh)
+- [Cursor Agent Mode Ignores .cursorrules — Use .mdc Instead](https://dev.to/nedcodes/cursor-agent-mode-ignores-cursorrules-use-mdc-instead-5flb)
+- [The Ghost in the Training Set](https://dev.to/abahgat/the-ghost-in-the-training-set-496n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
