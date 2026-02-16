@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My Linux Devlog: From WSL to the Cloud &lpar;Days 1–5&rpar;](https://dev.to/tyrone101/my-linux-devlog-from-wsl-to-the-cloud-days-1-5-bcl)
-- [Let&#39;s talk about grief.](https://dev.to/manuartero/lets-talk-about-grief-325h)
-- [I Built a Free Email Signature Generator in a Day — No Backend Required](https://dev.to/mackmoneymaker/i-built-a-free-email-signature-generator-in-a-day-no-backend-required-20ki)
-- [I Built a Free, Ad-Free Google Ads Keyword Mixer — Because Every Other One Sucks](https://dev.to/maxxmini/i-built-a-free-ad-free-google-ads-keyword-mixer-because-every-other-one-sucks-j0i)
-- [Burnout Detector for Coders](https://dev.to/manasssk/burnout-detector-for-coders-36kj)
+- [Automatically Generate ER Diagrams from SharePoint ERD Generator](https://dev.to/reire_shake/automatically-generate-er-diagrams-from-sharepoint-erd-generator-439)
+- [JavaScript’s Weirdest Comparison](https://dev.to/twisterrl/javascripts-weirdest-comparison-i29)
+- [Business Advantages of Using Nuxt](https://dev.to/jacobandrewsky/business-advantages-of-using-nuxt-51j2)
+- [XMovieHub: การออกแบบแพลตฟอร์มวิดีโอแบบมีโครงสร้าง เพื่อการค้นหาที่มีประสิทธิภาพ](https://dev.to/xmoviehub/xmoviehub-kaarkaebbaephltfrmwidiioaebbmiiokhrngsraang-ephuuekaarkhnhaathiimiiprasiththiphaaph-46gn)
+- [Why NDM-TCP Tests Are Single-Run Snapshots &lpar;Not Statistical Averages&rpar;](https://dev.to/hejhdiss/why-ndm-tcp-tests-are-single-run-snapshots-not-statistical-averages-340j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
