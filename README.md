@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Redefining Event-Driven Architecture on Google Cloud](https://dev.to/gde/redefining-event-driven-architecture-on-google-cloud-5abj)
-- [Agent First, Human Simple](https://dev.to/kasrazunnaiyyer/agent-first-human-simple-a-new-product-design-framework-for-the-autonomous-agent-era-1m30)
-- [Speech-to-Text on any Field in 70 Lines of Stimulus &lpar;Zero Backend!&rpar;](https://dev.to/seryllns_/speech-to-text-on-any-field-in-70-lines-of-stimulus-zero-backend-38ao)
-- [💡 🔄 CRISP-DM en la práctica: cuando comienzas un proyecto de datos](https://dev.to/irasema_trejo/crisp-dm-en-la-practica-cuando-comienzas-un-proyecto-de-datos-1dnb)
-- [Connecting Your Computer with GitHub - Part Five](https://dev.to/theoriginalbpc/connecting-your-computer-with-github-part-five-4m4n)
+- [How I Use Obsidian for Everything &lpar;Almost&rpar;](https://dev.to/mvaldes/how-i-use-obsidian-for-everything-almost-2paf)
+- [Harnessing Gemini AI for Automatic Alt Text Generation: A PHP Developer&#39;s Guide](https://dev.to/proga100/harnessing-gemini-ai-for-automatic-alt-text-generation-a-php-developers-guide-1cg9)
+- [I Launched to Nobody](https://dev.to/strandnerd/i-launched-to-nobody-18a4)
+- [LeetCode: The “Contains Duplicate” Problem](https://dev.to/workspacedex/leetcode-the-contains-duplicate-problem-23m7)
+- [Making Amazon Bedrock AgentCore Gateway Accessible &lpar;Only Through CloudFront&rpar;](https://dev.to/alexeybaltacov/making-amazon-bedrock-agentcore-gateway-accessible-only-through-cloudfront-ha1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
