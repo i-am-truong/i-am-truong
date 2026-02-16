@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Importance of Employee Appreciation: Why Recognition Matters More Than Ever](https://dev.to/synergita/the-importance-of-employee-appreciation-why-recognition-matters-more-than-ever-2bmh)
-- [🔄 Beginner-Friendly Guide &#39;Reverse Bits&#39; - Problem 190 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-reverse-bits-problem-190-c-python-javascript-1n3f)
-- [Mastering Monad Testnet: Automate Your Developer Activity with Python 🐍](https://dev.to/purplepilldev/mastering-monad-testnet-automate-your-developer-activity-with-python-5hi0)
-- [DEALZ: Save and browse local promos and deals.](https://dev.to/hicknughes_87/dealz-save-and-browse-local-promos-and-deals-43ll)
-- [Building Unravel: Learning RAG Through Visualization](https://dev.to/jvorndran/building-unravel-learning-rag-through-visualization-26o)
+- [A simple but really useful browser extension for frontend devs](https://dev.to/suvo-dev/a-simple-but-really-useful-browser-extension-for-frontend-devs-4c49)
+- [When Pixel Fixes Became Productive: Rethinking Visual Cleanup in Creative Workflows](https://dev.to/azimkhan72/when-pixel-fixes-became-productive-rethinking-visual-cleanup-in-creative-workflows-mfl)
+- [Why Do Advanced AI Models Falter in Real Use - and What Actually Fixes That?](https://dev.to/sofiabennett84/why-do-advanced-ai-models-falter-in-real-use-and-what-actually-fixes-that-187f)
+- [Perl 🐪 Weekly #760 - Async Perl](https://dev.to/szabgab/perl-weekly-760-async-perl-pfi)
+- [Why Your Diff Tool is Failing on JSONL Files](https://dev.to/lechlabs/why-your-diff-tool-is-failing-on-jsonl-files-19k0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
