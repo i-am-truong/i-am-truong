@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop Leaking Resources: How to Use AbortSignal in Playwright Tests](https://dev.to/vitalicset/stop-leaking-resources-how-to-use-abortsignal-in-playwright-tests-jb2)
-- [Azure AI Search vs Manticore Search](https://dev.to/sanikolaev/azure-ai-search-vs-manticore-search-15g4)
-- [React Compound Components: The &quot;Build Your Own Adventure&quot; Pattern](https://dev.to/masudursourav/react-compound-components-the-build-your-own-adventure-pattern-2dff)
-- [Culture Trap: Why Your DevOps Transformation is Failing](https://dev.to/sebs/culture-trap-why-your-devops-transformation-is-failing-22l6)
-- [AI Wrote 1000 Lines of Code. I Found the Bug in 3 Lines.](https://dev.to/harsh2644/ai-wrote-1000-lines-of-code-i-found-the-bug-in-3-lines-2c49)
+- [How to Get a Tech Interview in 30 Days: Resume + LinkedIn Strategy &lpar;2026 Guide&rpar;](https://dev.to/fastapplyai/how-to-get-a-tech-interview-in-30-days-resume-linkedin-strategy-2026-guide-11nd)
+- [I&#39;m Building a Tenant Rights Tool for Korea&#39;s Unique Rental System](https://dev.to/maxxmini/im-building-a-tenant-rights-tool-for-koreas-unique-rental-system-1akn)
+- [Self-Hosted AI in 2026: Automating Your Linux Workflow with Ollama and Bash](https://dev.to/lyraalishaikh/self-hosted-ai-in-2026-automating-your-linux-workflow-with-ollama-and-bash-3ibh)
+- [Building an RLM with Mastra: Introducing mastra-rlm-kit](https://dev.to/metasurfero/building-an-rlm-with-mastra-introducing-mastra-rlm-kit-1c6j)
+- [Dotfiles Coach Update: Interactive TUI and RAG Search for Shell History](https://dev.to/olaproeis/dotfiles-coach-update-interactive-tui-and-rag-search-for-shell-history-p06)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
