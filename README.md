@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Parallel work with Claude Code in iTerm2 - a workflow inspired by Boris Cherny](https://dev.to/kamilbuksakowski/parallel-work-with-claude-code-in-iterm2-a-workflow-inspired-by-boris-cherny-5940)
-- [Aurora DSQL: The Serverless PostgreSQL That Scales to Zero &lpar;Should You Migrate?&rpar;](https://dev.to/dineshelumalai/aurora-dsql-the-serverless-postgresql-that-scales-to-zero-should-you-migrate-2bfn)
-- [Explain-Error CLI – Making JavaScript Errors Beginner-Friendly](https://dev.to/preeti_yadav/explain-error-cli-making-javascript-errors-beginner-friendly-3bb9)
-- [A Free Way to Accept Crypto on your own website &lpar;guide from Open Source project DV.net&rpar;](https://dev.to/dvnet/a-free-way-to-accept-crypto-on-your-own-website-guide-from-open-source-project-dvnet-363i)
-- [ClickMapper — A Keyboard-Driven Chrome Extension to Eliminate Repetitive Clicks for Content Moderators](https://dev.to/splmdny/clickmapper-a-keyboard-driven-chrome-extension-to-eliminate-repetitive-clicks-for-content-9c5)
+- [Definition for JDK,JRE,JVM,JIT](https://dev.to/velvizhi_muthu_251052a3f8/definition-for-jdkjrejvmjit-3g55)
+- [Module-01--Interview Question _JAVA](https://dev.to/velvizhi_muthu_251052a3f8/module-01-interview-question-java-49il)
+- [BDFL: Benevolent Dictator for Lobster - or - How I met Sam Altman](https://dev.to/quotentiroler/bdfl-benevolent-dictator-for-lobster-or-how-i-met-sam-altman-1k4m)
+- [Confidential Smart Contracts with Oasis Sapphire](https://dev.to/rollingindo/confidential-smart-contracts-with-oasis-sapphire-4nk2)
+- [Kubernetes HPA Not Scaling: Debugging Guide](https://dev.to/aicontentlab/kubernetes-hpa-not-scaling-debugging-guide-4ld7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
