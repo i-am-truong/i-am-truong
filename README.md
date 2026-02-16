@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Pareto Principle in IT: How 80/20 Thinking Shapes Everything We Build](https://dev.to/nandishdave/the-pareto-principle-in-it-how-8020-thinking-shapes-everything-we-build-4g0d)
-- [📰 All Data and AI Weekly #229-16 Feb 2026](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-229-16-feb-2026-kl5)
-- [Understanding Tokens in LLMs - The Complete Guide 🧩](https://dev.to/soumia_g_9dc322fc4404cecd/understanding-tokens-in-llms-the-complete-guide-5g7d)
-- [I built an accessibility data API because every restaurant app ignores wheelchair users](https://dev.to/thattechiedude/i-built-an-accessibility-data-api-because-every-restaurant-app-ignores-wheelchair-users-43d)
-- [Streaming LLM Agent: From Grok Chat to Live Blog Posts](https://dev.to/kasi_viswanath/streaming-llm-agent-from-grok-chat-to-live-blog-posts-4a5j)
+- [Microsoft Agent Framework: The Future of .NET AI Agents Has Arrived](https://dev.to/bspann/microsoft-agent-framework-the-future-of-net-ai-agents-has-arrived-22mf)
+- [EF Core HasQueryFilter II](https://dev.to/karenpayneoregon/ef-core-hasqueryfilter-ii-39gf)
+- [Which AI Model Should You Actually Use? A Simple Guide for 2026](https://dev.to/sindhu_murthy_628835a359d/which-ai-model-should-you-actually-use-a-simple-guide-for-2026-31d4)
+- [Python Internals: Generators &amp; Coroutines](https://dev.to/aykhlf_yassir/python-internals-generators-coroutines-11j2)
+- [Tutorial: Secure Serverless RAG in 5 Minutes with Amazon Bedrock + S3 Vector Store](https://dev.to/aws-builders/tutorial-secure-serverless-rag-in-5-minutes-with-amazon-bedrock-s3-vector-store-3b77)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
