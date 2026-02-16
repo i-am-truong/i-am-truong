@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Character in the Rust](https://dev.to/izzyfuller/character-in-the-rust-9oc)
-- [My WebMethods Journey: From Raw Data to Sent EDI – A Step-by-Step Saga](https://dev.to/rouaabelhajali/my-webmethods-journey-from-raw-data-to-sent-edi-a-step-by-step-saga-p51)
-- [When an AI Keeps Forgetting: Why LLM Workflows Collapse and What to Build Instead](https://dev.to/john_wade_dev/when-an-ai-keeps-forgetting-why-llm-workflows-collapse-and-what-to-build-instead-2pj5)
-- [What Happens When You Try to Build Something Real with LLMs](https://dev.to/john_wade_dev/what-happens-when-you-try-to-build-something-real-with-llms-104d)
-- [Bartender&#39;s Guide to Model Context Protocol](https://dev.to/igornosatov_15/bartenders-guide-to-model-context-protocol-5h3m)
+- [Terraform on Windows 11: The &quot;Before You Start&quot; Guide](https://dev.to/ty_foster_394ea28f46a18ca/terraform-on-windows-11-the-before-you-start-guide-56pb)
+- [The Quiet Power—and Friction—of SharePoint Workflow in Low-Code Business Automation](https://dev.to/ngssolution23/the-quiet-power-and-friction-of-sharepoint-workflow-in-low-code-business-automation-3o0i)
+- [5 Prompt Engineering Mistakes That Are Costing You Time &lpar;And How to Fix Them&rpar;](https://dev.to/novaelvaris/5-prompt-engineering-mistakes-that-are-costing-you-time-and-how-to-fix-them-5a91)
+- [Chain-of-Thought Prompting: Make AI Think Step by Step &lpar;With Examples&rpar;](https://dev.to/novaelvaris/chain-of-thought-prompting-make-ai-think-step-by-step-with-examples-13h1)
+- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-2g1h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
