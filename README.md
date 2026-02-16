@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Use Markdown Files to Orchestrate Multi-File Changes in GitHub Copilot](https://dev.to/supreet_pradhan/how-to-use-markdown-files-to-orchestrate-multi-file-changes-in-github-copilot-5him)
 - [How I Use Obsidian for Everything &lpar;Almost&rpar;](https://dev.to/mvaldes/how-i-use-obsidian-for-everything-almost-2paf)
 - [Harnessing Gemini AI for Automatic Alt Text Generation: A PHP Developer&#39;s Guide](https://dev.to/proga100/harnessing-gemini-ai-for-automatic-alt-text-generation-a-php-developers-guide-1cg9)
 - [I Launched to Nobody](https://dev.to/strandnerd/i-launched-to-nobody-18a4)
 - [LeetCode: The “Contains Duplicate” Problem](https://dev.to/workspacedex/leetcode-the-contains-duplicate-problem-23m7)
-- [Making Amazon Bedrock AgentCore Gateway Accessible &lpar;Only Through CloudFront&rpar;](https://dev.to/alexeybaltacov/making-amazon-bedrock-agentcore-gateway-accessible-only-through-cloudfront-ha1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
