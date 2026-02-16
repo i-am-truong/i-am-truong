@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Vero: How I Used Super Context with GitHub Copilot CLI to Create a Premium Visual Debugger](https://dev.to/tiagordebarros/building-vero-how-i-used-super-context-with-github-copilot-cli-to-create-a-premium-visual-debugger-198g)
-- [🍫 Chocolate Distribution Problem — JavaScript Solution Explained &lpar;Sliding Window&rpar;](https://dev.to/abhishek-nexgen-dev/chocolate-distribution-problem-javascript-solution-explained-sliding-window-1gff)
-- [OWASP Cornucopia is publishing it’s darkest secrets!](https://dev.to/owasp/owasp-cornucopia-is-publishing-its-darkest-secrets-fjc)
-- [Cloudflare 新功能：&quot;Markdown for Agents&quot;让AI Agent 的token 消耗减少80%](https://dev.to/white_satomini/cloudflare-xin-gong-neng-markdown-for-agentsrang-ai-agent-de-token-xiao-hao-jian-shao-80-4hh7)
-- [How a DEV Friend and I Brought Two Avatars to Life](https://dev.to/itsugo/how-a-dev-friend-and-i-brought-two-avatars-to-life-chp)
+- [Parallel work with Claude Code in iTerm2 - a workflow inspired by Boris Cherny](https://dev.to/kamilbuksakowski/parallel-work-with-claude-code-in-iterm2-a-workflow-inspired-by-boris-cherny-5940)
+- [Aurora DSQL: The Serverless PostgreSQL That Scales to Zero &lpar;Should You Migrate?&rpar;](https://dev.to/dineshelumalai/aurora-dsql-the-serverless-postgresql-that-scales-to-zero-should-you-migrate-2bfn)
+- [Explain-Error CLI – Making JavaScript Errors Beginner-Friendly](https://dev.to/preeti_yadav/explain-error-cli-making-javascript-errors-beginner-friendly-3bb9)
+- [A Free Way to Accept Crypto on your own website &lpar;guide from Open Source project DV.net&rpar;](https://dev.to/dvnet/a-free-way-to-accept-crypto-on-your-own-website-guide-from-open-source-project-dvnet-363i)
+- [ClickMapper — A Keyboard-Driven Chrome Extension to Eliminate Repetitive Clicks for Content Moderators](https://dev.to/splmdny/clickmapper-a-keyboard-driven-chrome-extension-to-eliminate-repetitive-clicks-for-content-9c5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
