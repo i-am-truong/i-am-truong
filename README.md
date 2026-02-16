@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Containerized Parent Registration Portal with Docker A Hands-On Guide to Dockerizing a Full-Stack Application](https://dev.to/joe_seun/building-a-containerized-parent-registration-portal-with-docker-a-hands-on-guide-to-dockerizing-a-2io8)
-- [How to Install GCC on Windows with w64devkit](https://dev.to/lautarolobo/how-to-install-gcc-on-windows-with-w64devkit-m14)
-- [Your AI Agent Knows Your Passwords — Here&#39;s How I Fixed It](https://dev.to/demojacob/your-ai-agent-knows-your-passwords-heres-how-i-fixed-it-4kcd)
-- [Why I Rewrote My Email Editor from Scratch: From Blocks to Atoms Rewrite](https://dev.to/antonreshetov/why-i-rewrote-my-email-editor-from-scratch-from-blocks-to-atoms-rewrite-11n8)
-- [Building Failure Intelligence for AI Agents](https://dev.to/prateekdalal/building-failure-intelligence-for-ai-agents-170d)
+- [Using Qlik Regex to Organise Messy Comment Fields](https://dev.to/hiadam/using-qlik-regex-to-organise-messy-comment-fields-221e)
+- [Agentic workflow design — index and reading order](https://dev.to/danielbutlerirl/agentic-workflow-design-index-and-reading-order-4443)
+- [AWS cloudWatch: Monitoring Your Resources Made Easy](https://dev.to/akintoye_gbenga/aws-cloudwatch-monitoring-your-resources-made-easy-1knk)
+- [Designing agentic workflows: supplementary commands and pressure valves](https://dev.to/danielbutlerirl/designing-agentic-workflows-supplementary-commands-and-pressure-valves-l51)
+- [How We Built a Deterministic File Import Pipeline in TypeScript &lpar;CSV, XLSX, ZIP&rpar;](https://dev.to/r_j_multischema/how-we-built-a-deterministic-file-import-pipeline-in-typescript-csv-xlsx-zip-23pe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
