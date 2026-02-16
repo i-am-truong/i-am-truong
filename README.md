@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built This Because I Was Tired of Building Admin Panels](https://dev.to/homeless-coder/i-built-this-because-i-was-tired-of-building-admin-panels-4e97)
-- [How to Test a Retell Agent in CI with GitHub Actions](https://dev.to/pld/how-to-test-a-retell-agent-in-ci-with-github-actions-2cjb)
-- [#showdev: FrontendAtlas — practice real frontend interview questions](https://dev.to/mslm_ylmaz_4e21e9dbcc9/showdev-frontendatlas-practice-real-frontend-interview-questions-1ofh)
-- [Cursor Agent Mode Ignores .cursorrules — Use .mdc Instead](https://dev.to/nedcodes/cursor-agent-mode-ignores-cursorrules-use-mdc-instead-5flb)
-- [The Ghost in the Training Set](https://dev.to/abahgat/the-ghost-in-the-training-set-496n)
+- [The Pareto Principle in IT: How 80/20 Thinking Shapes Everything We Build](https://dev.to/nandishdave/the-pareto-principle-in-it-how-8020-thinking-shapes-everything-we-build-4g0d)
+- [📰 All Data and AI Weekly #229-16 Feb 2026](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-229-16-feb-2026-kl5)
+- [Understanding Tokens in LLMs - The Complete Guide 🧩](https://dev.to/soumia_g_9dc322fc4404cecd/understanding-tokens-in-llms-the-complete-guide-5g7d)
+- [I built an accessibility data API because every restaurant app ignores wheelchair users](https://dev.to/thattechiedude/i-built-an-accessibility-data-api-because-every-restaurant-app-ignores-wheelchair-users-43d)
+- [Streaming LLM Agent: From Grok Chat to Live Blog Posts](https://dev.to/kasi_viswanath/streaming-llm-agent-from-grok-chat-to-live-blog-posts-4a5j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
