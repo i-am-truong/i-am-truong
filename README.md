@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A simple but really useful browser extension for frontend devs](https://dev.to/suvo-dev/a-simple-but-really-useful-browser-extension-for-frontend-devs-4c49)
-- [When Pixel Fixes Became Productive: Rethinking Visual Cleanup in Creative Workflows](https://dev.to/azimkhan72/when-pixel-fixes-became-productive-rethinking-visual-cleanup-in-creative-workflows-mfl)
-- [Why Do Advanced AI Models Falter in Real Use - and What Actually Fixes That?](https://dev.to/sofiabennett84/why-do-advanced-ai-models-falter-in-real-use-and-what-actually-fixes-that-187f)
-- [Perl 🐪 Weekly #760 - Async Perl](https://dev.to/szabgab/perl-weekly-760-async-perl-pfi)
-- [Why Your Diff Tool is Failing on JSONL Files](https://dev.to/lechlabs/why-your-diff-tool-is-failing-on-jsonl-files-19k0)
+- [🧱 Lesson 13A: Centralized Error Handling &amp; Validation Backend](https://dev.to/farrukh_rehman/lesson-13a-centralized-error-handling-validation-backend-29ip)
+- [AI Technology Trends 2026: Latest Developments and Future Directions](https://dev.to/chx381/ai-technology-trends-2026-latest-developments-and-future-directions-47o4)
+- [I Tested 5 AI Code Review Tools So You Don&#39;t Have To &lpar;CodeRabbit, Qodo, Mesrai, and More&rpar;](https://dev.to/tdn/i-tested-5-ai-code-review-tools-so-you-dont-have-to-coderabbit-qodo-mesrai-and-more-57bb)
+- [mrktr: A Reseller Price Dashboard That Lives in Your Terminal](https://dev.to/keiranhaax/mrktr-a-reseller-price-dashboard-that-lives-in-your-terminal-28l5)
+- [Is C programing language still worth learning in 2026](https://dev.to/namrah_jawad_c43c0ba41054/is-c-programing-language-still-worth-learning-in-2026-4mi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
