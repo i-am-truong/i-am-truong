@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Using Qlik Regex to Organise Messy Comment Fields](https://dev.to/hiadam/using-qlik-regex-to-organise-messy-comment-fields-221e)
-- [Agentic workflow design — index and reading order](https://dev.to/danielbutlerirl/agentic-workflow-design-index-and-reading-order-4443)
-- [AWS cloudWatch: Monitoring Your Resources Made Easy](https://dev.to/akintoye_gbenga/aws-cloudwatch-monitoring-your-resources-made-easy-1knk)
-- [Designing agentic workflows: supplementary commands and pressure valves](https://dev.to/danielbutlerirl/designing-agentic-workflows-supplementary-commands-and-pressure-valves-l51)
-- [How We Built a Deterministic File Import Pipeline in TypeScript &lpar;CSV, XLSX, ZIP&rpar;](https://dev.to/r_j_multischema/how-we-built-a-deterministic-file-import-pipeline-in-typescript-csv-xlsx-zip-23pe)
+- [Context vs Zustand vs Redux: A A Senior Engineer&#39;s Story](https://dev.to/shrinivasshah/context-vs-zustand-vs-redux-a-a-senior-engineers-story-2jnm)
+- [The Tree Module Functionalities in SQLite](https://dev.to/lovestaco/the-tree-module-functionalities-in-sqlite-4emg)
+- [How to send OTP codes with WhatsApp using Node.js](https://dev.to/jahongir2007/how-to-send-otp-codes-with-whatsapp-using-nodejs-36ap)
+- [C++ arfmetik operatorlar.](https://dev.to/shavkatovbexzod1987crypto/c-arfmetik-operatorlar-404e)
+- [Pruebas en APIs de microservicios: 5 esenciales para arquitectos de software](https://dev.to/_ferpaz/pruebas-en-apis-de-microservicios-5-esenciales-para-arquitectos-de-software-2i55)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
