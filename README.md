@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Go Heap Fragmentation Deep Dive: The Battle Against &#39;Invisible Memory&#39; Continues](https://dev.to/kanywst/go-heap-fragmentation-deep-dive-the-battle-against-invisible-memory-continues-4o7h)
-- [Relational composition and Codd&#39;s &quot;connection trap&quot; in PostgreSQL and MongoDB](https://dev.to/franckpachot/relational-composition-and-codds-connection-trap-in-postgresql-and-mongodb-4k34)
-- [Pair Programming in the AI Era](https://dev.to/carl_hembrough_4ff217c2f1/pair-programming-in-the-ai-era-52bb)
-- [I Built an MCP Server That Lets AI Agents like Claude Code Use Interactive Terminals — Here&#39;s Why It Matters](https://dev.to/sleepycoder21/i-built-an-mcp-server-that-lets-ai-agents-like-claude-code-use-interactive-terminals-heres-why-3ah5)
-- [How to Deploy Voice AI Agents Using Railway: Real Insights &amp; Tips](https://dev.to/callstacktech/how-to-deploy-voice-ai-agents-using-railway-real-insights-tips-1fd2)
+- [Building a Containerized Parent Registration Portal with Docker A Hands-On Guide to Dockerizing a Full-Stack Application](https://dev.to/joe_seun/building-a-containerized-parent-registration-portal-with-docker-a-hands-on-guide-to-dockerizing-a-2io8)
+- [How to Install GCC on Windows with w64devkit](https://dev.to/lautarolobo/how-to-install-gcc-on-windows-with-w64devkit-m14)
+- [Your AI Agent Knows Your Passwords — Here&#39;s How I Fixed It](https://dev.to/demojacob/your-ai-agent-knows-your-passwords-heres-how-i-fixed-it-4kcd)
+- [Why I Rewrote My Email Editor from Scratch: From Blocks to Atoms Rewrite](https://dev.to/antonreshetov/why-i-rewrote-my-email-editor-from-scratch-from-blocks-to-atoms-rewrite-11n8)
+- [Building Failure Intelligence for AI Agents](https://dev.to/prateekdalal/building-failure-intelligence-for-ai-agents-170d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
