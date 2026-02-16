@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Nike Was Right: The Only Coding Advice You Actually Need](https://dev.to/maame-codes/nike-was-right-the-only-coding-advice-you-actually-need-1cih)
-- [Build a Web Product from 0 to 1 &lpar;2&rpar;: Documentation and Tech Stack Choices](https://dev.to/stringzwb/build-a-web-product-from-0-to-1-2-documentation-and-tech-stack-choices-1hk8)
-- [How Limiting My Internet Usage Changed the Way I Work and Live](https://dev.to/geeksta/how-limiting-my-internet-usage-changed-the-way-i-work-and-live-1mbe)
-- [IQueryable vs IEnumerable in C# — The Practical, No‑Nonsense Guide](https://dev.to/libintombaby/iqueryable-vs-ienumerable-in-c-the-practical-no-nonsense-guide-5fp1)
-- [How to Build and Deploy an Agent Skill from Scratch](https://dev.to/ialijr/how-to-build-and-deploy-an-agent-skill-from-scratch-53po)
+- [Somnia On-Chain Reactivity](https://dev.to/kalidecoder/somnia-on-chain-reactivity-2a2i)
+- [AI Agents Run Unsandboxed Code — How to Fix It &lpar;2026&rpar;](https://dev.to/tan_genie_6a51065da7b63b6/ai-agents-run-unsandboxed-code-how-to-fix-it-2026-1np4)
+- [How to Benchmark CAPTCHA Solving Services &lpar;With Working Python Scripts&rpar;](https://dev.to/hasdata_com/how-to-benchmark-captcha-solving-services-with-working-python-scripts-46p1)
+- [AI Already Won. Programmers Still Have Jobs. Nobody Can Explain Why.](https://dev.to/kirill_tolmachev/ai-already-won-programmers-still-have-jobs-nobody-can-explain-why-2ap6)
+- [Claude Code で Obsidian Vault 3,674ファイルを一括整理した](https://dev.to/shimo4228/claude-code-de-obsidian-vault-3674huairuwo-gua-zheng-li-sita-hg1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
