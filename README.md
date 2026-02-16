@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Custom Blog Editor That Connects Directly to Your CMS](https://dev.to/froala_e3824d66439393cbce/how-to-create-a-custom-blog-editor-that-connects-directly-to-your-cms-nfi)
-- [I Built a Cron Job Monitor Because Silence Kills Production](https://dev.to/jpbroeders/i-built-a-cron-job-monitor-because-silence-kills-production-56h1)
-- [anilogin: a reactive authentication ui with anime character gaze tracking](https://dev.to/iamovi/anilogin-a-reactive-authentication-ui-with-anime-character-gaze-tracking-1nb9)
-- [Designing agentic workflows: the core loop](https://dev.to/danielbutlerirl/designing-agentic-workflows-the-core-loop-166d)
-- [How to find a branch parent in Git](https://dev.to/nikola/how-to-find-a-branch-parent-in-git-4iil)
+- [Go Heap Fragmentation Deep Dive: The Battle Against &#39;Invisible Memory&#39; Continues](https://dev.to/kanywst/go-heap-fragmentation-deep-dive-the-battle-against-invisible-memory-continues-4o7h)
+- [Relational composition and Codd&#39;s &quot;connection trap&quot; in PostgreSQL and MongoDB](https://dev.to/franckpachot/relational-composition-and-codds-connection-trap-in-postgresql-and-mongodb-4k34)
+- [Pair Programming in the AI Era](https://dev.to/carl_hembrough_4ff217c2f1/pair-programming-in-the-ai-era-52bb)
+- [I Built an MCP Server That Lets AI Agents like Claude Code Use Interactive Terminals — Here&#39;s Why It Matters](https://dev.to/sleepycoder21/i-built-an-mcp-server-that-lets-ai-agents-like-claude-code-use-interactive-terminals-heres-why-3ah5)
+- [How to Deploy Voice AI Agents Using Railway: Real Insights &amp; Tips](https://dev.to/callstacktech/how-to-deploy-voice-ai-agents-using-railway-real-insights-tips-1fd2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
