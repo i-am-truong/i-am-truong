@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Agent Framework: The Future of .NET AI Agents Has Arrived](https://dev.to/bspann/microsoft-agent-framework-the-future-of-net-ai-agents-has-arrived-22mf)
-- [EF Core HasQueryFilter II](https://dev.to/karenpayneoregon/ef-core-hasqueryfilter-ii-39gf)
-- [Which AI Model Should You Actually Use? A Simple Guide for 2026](https://dev.to/sindhu_murthy_628835a359d/which-ai-model-should-you-actually-use-a-simple-guide-for-2026-31d4)
-- [Python Internals: Generators &amp; Coroutines](https://dev.to/aykhlf_yassir/python-internals-generators-coroutines-11j2)
-- [Tutorial: Secure Serverless RAG in 5 Minutes with Amazon Bedrock + S3 Vector Store](https://dev.to/aws-builders/tutorial-secure-serverless-rag-in-5-minutes-with-amazon-bedrock-s3-vector-store-3b77)
+- [Character in the Rust](https://dev.to/izzyfuller/character-in-the-rust-9oc)
+- [My WebMethods Journey: From Raw Data to Sent EDI – A Step-by-Step Saga](https://dev.to/rouaabelhajali/my-webmethods-journey-from-raw-data-to-sent-edi-a-step-by-step-saga-p51)
+- [When an AI Keeps Forgetting: Why LLM Workflows Collapse and What to Build Instead](https://dev.to/john_wade_dev/when-an-ai-keeps-forgetting-why-llm-workflows-collapse-and-what-to-build-instead-2pj5)
+- [What Happens When You Try to Build Something Real with LLMs](https://dev.to/john_wade_dev/what-happens-when-you-try-to-build-something-real-with-llms-104d)
+- [Bartender&#39;s Guide to Model Context Protocol](https://dev.to/igornosatov_15/bartenders-guide-to-model-context-protocol-5h3m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
