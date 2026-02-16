@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Get a Tech Interview in 30 Days: Resume + LinkedIn Strategy &lpar;2026 Guide&rpar;](https://dev.to/fastapplyai/how-to-get-a-tech-interview-in-30-days-resume-linkedin-strategy-2026-guide-11nd)
-- [I&#39;m Building a Tenant Rights Tool for Korea&#39;s Unique Rental System](https://dev.to/maxxmini/im-building-a-tenant-rights-tool-for-koreas-unique-rental-system-1akn)
-- [Self-Hosted AI in 2026: Automating Your Linux Workflow with Ollama and Bash](https://dev.to/lyraalishaikh/self-hosted-ai-in-2026-automating-your-linux-workflow-with-ollama-and-bash-3ibh)
-- [Building an RLM with Mastra: Introducing mastra-rlm-kit](https://dev.to/metasurfero/building-an-rlm-with-mastra-introducing-mastra-rlm-kit-1c6j)
-- [Dotfiles Coach Update: Interactive TUI and RAG Search for Shell History](https://dev.to/olaproeis/dotfiles-coach-update-interactive-tui-and-rag-search-for-shell-history-p06)
+- [Nike Was Right: The Only Coding Advice You Actually Need](https://dev.to/maame-codes/nike-was-right-the-only-coding-advice-you-actually-need-1cih)
+- [Build a Web Product from 0 to 1 &lpar;2&rpar;: Documentation and Tech Stack Choices](https://dev.to/stringzwb/build-a-web-product-from-0-to-1-2-documentation-and-tech-stack-choices-1hk8)
+- [How Limiting My Internet Usage Changed the Way I Work and Live](https://dev.to/geeksta/how-limiting-my-internet-usage-changed-the-way-i-work-and-live-1mbe)
+- [IQueryable vs IEnumerable in C# — The Practical, No‑Nonsense Guide](https://dev.to/libintombaby/iqueryable-vs-ienumerable-in-c-the-practical-no-nonsense-guide-5fp1)
+- [How to Build and Deploy an Agent Skill from Scratch](https://dev.to/ialijr/how-to-build-and-deploy-an-agent-skill-from-scratch-53po)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
