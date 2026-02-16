@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Compared the True Cost of Freelancing on Every Developer Platform in 2026 — With Actual Code to Calculate Your Real Rate](https://dev.to/jobbers_io_8a6f201f0be4fb/i-compared-the-true-cost-of-freelancing-on-every-developer-platform-in-2026-with-actual-code-to-5baj)
-- [GenosDB: A Solution for Trust in Distributed Systems](https://dev.to/estebanrfp/genosdb-a-solution-for-trust-in-distributed-systems-5dl4)
-- [Part 3: Testing, Documentation &amp; Deployment 🚀](https://dev.to/abdelrahman_adnan/part-3-testing-documentation-deployment-1bek)
-- [The Invisible Layer: Mastering HTTP Caching &lpar;Part 2&rpar;](https://dev.to/peterintech/the-invisible-layer-mastering-http-caching-part-2-31gn)
-- [Part 2: dbt Project Structure &amp; Building Models 📁](https://dev.to/abdelrahman_adnan/part-2-dbt-project-structure-building-models-5g3g)
+- [Software engineering is not dead](https://dev.to/juan1003/software-engineering-is-not-dead-5flc)
+- [Prompt Engineering for Software Docs: 2026 Ultimate Guide](https://dev.to/dev_narratives_023afd008e/prompt-engineering-for-software-docs-2026-ultimate-guide-9ab)
+- [How to Troubleshoot RAG in Production: A Field Guide](https://dev.to/sindhu_murthy_628835a359d/how-to-troubleshoot-rag-in-production-a-field-guide-6nb)
+- [Technical Content Calendar: 2026 AI Automation Guide](https://dev.to/dev_narratives_023afd008e/technical-content-calendar-2026-ai-automation-guide-8e0)
+- [How Poor Git Branching Practices Quietly Damage Software Quality](https://dev.to/akdevcraft/how-poor-git-branching-practices-quietly-damage-software-quality-nf7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
