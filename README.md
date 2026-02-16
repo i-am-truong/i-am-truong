@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🧱 Lesson 13A: Centralized Error Handling &amp; Validation Backend](https://dev.to/farrukh_rehman/lesson-13a-centralized-error-handling-validation-backend-29ip)
-- [AI Technology Trends 2026: Latest Developments and Future Directions](https://dev.to/chx381/ai-technology-trends-2026-latest-developments-and-future-directions-47o4)
-- [I Tested 5 AI Code Review Tools So You Don&#39;t Have To &lpar;CodeRabbit, Qodo, Mesrai, and More&rpar;](https://dev.to/tdn/i-tested-5-ai-code-review-tools-so-you-dont-have-to-coderabbit-qodo-mesrai-and-more-57bb)
-- [mrktr: A Reseller Price Dashboard That Lives in Your Terminal](https://dev.to/keiranhaax/mrktr-a-reseller-price-dashboard-that-lives-in-your-terminal-28l5)
-- [Is C programing language still worth learning in 2026](https://dev.to/namrah_jawad_c43c0ba41054/is-c-programing-language-still-worth-learning-in-2026-4mi)
+- [Building Vero: How I Used Super Context with GitHub Copilot CLI to Create a Premium Visual Debugger](https://dev.to/tiagordebarros/building-vero-how-i-used-super-context-with-github-copilot-cli-to-create-a-premium-visual-debugger-198g)
+- [🍫 Chocolate Distribution Problem — JavaScript Solution Explained &lpar;Sliding Window&rpar;](https://dev.to/abhishek-nexgen-dev/chocolate-distribution-problem-javascript-solution-explained-sliding-window-1gff)
+- [OWASP Cornucopia is publishing it’s darkest secrets!](https://dev.to/owasp/owasp-cornucopia-is-publishing-its-darkest-secrets-fjc)
+- [Cloudflare 新功能：&quot;Markdown for Agents&quot;让AI Agent 的token 消耗减少80%](https://dev.to/white_satomini/cloudflare-xin-gong-neng-markdown-for-agentsrang-ai-agent-de-token-xiao-hao-jian-shao-80-4hh7)
+- [How a DEV Friend and I Brought Two Avatars to Life](https://dev.to/itsugo/how-a-dev-friend-and-i-brought-two-avatars-to-life-chp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
