@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Terraform on Windows 11: The &quot;Before You Start&quot; Guide](https://dev.to/ty_foster_394ea28f46a18ca/terraform-on-windows-11-the-before-you-start-guide-56pb)
-- [The Quiet Power—and Friction—of SharePoint Workflow in Low-Code Business Automation](https://dev.to/ngssolution23/the-quiet-power-and-friction-of-sharepoint-workflow-in-low-code-business-automation-3o0i)
-- [5 Prompt Engineering Mistakes That Are Costing You Time &lpar;And How to Fix Them&rpar;](https://dev.to/novaelvaris/5-prompt-engineering-mistakes-that-are-costing-you-time-and-how-to-fix-them-5a91)
-- [Chain-of-Thought Prompting: Make AI Think Step by Step &lpar;With Examples&rpar;](https://dev.to/novaelvaris/chain-of-thought-prompting-make-ai-think-step-by-step-with-examples-13h1)
-- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-2g1h)
+- [I Compared the True Cost of Freelancing on Every Developer Platform in 2026 — With Actual Code to Calculate Your Real Rate](https://dev.to/jobbers_io_8a6f201f0be4fb/i-compared-the-true-cost-of-freelancing-on-every-developer-platform-in-2026-with-actual-code-to-5baj)
+- [GenosDB: A Solution for Trust in Distributed Systems](https://dev.to/estebanrfp/genosdb-a-solution-for-trust-in-distributed-systems-5dl4)
+- [Part 3: Testing, Documentation &amp; Deployment 🚀](https://dev.to/abdelrahman_adnan/part-3-testing-documentation-deployment-1bek)
+- [The Invisible Layer: Mastering HTTP Caching &lpar;Part 2&rpar;](https://dev.to/peterintech/the-invisible-layer-mastering-http-caching-part-2-31gn)
+- [Part 2: dbt Project Structure &amp; Building Models 📁](https://dev.to/abdelrahman_adnan/part-2-dbt-project-structure-building-models-5g3g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
