@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Definition for JDK,JRE,JVM,JIT](https://dev.to/velvizhi_muthu_251052a3f8/definition-for-jdkjrejvmjit-3g55)
-- [Module-01--Interview Question _JAVA](https://dev.to/velvizhi_muthu_251052a3f8/module-01-interview-question-java-49il)
-- [BDFL: Benevolent Dictator for Lobster - or - How I met Sam Altman](https://dev.to/quotentiroler/bdfl-benevolent-dictator-for-lobster-or-how-i-met-sam-altman-1k4m)
-- [Confidential Smart Contracts with Oasis Sapphire](https://dev.to/rollingindo/confidential-smart-contracts-with-oasis-sapphire-4nk2)
-- [Kubernetes HPA Not Scaling: Debugging Guide](https://dev.to/aicontentlab/kubernetes-hpa-not-scaling-debugging-guide-4ld7)
+- [My Linux Devlog: From WSL to the Cloud &lpar;Days 1–5&rpar;](https://dev.to/tyrone101/my-linux-devlog-from-wsl-to-the-cloud-days-1-5-bcl)
+- [Let&#39;s talk about grief.](https://dev.to/manuartero/lets-talk-about-grief-325h)
+- [I Built a Free Email Signature Generator in a Day — No Backend Required](https://dev.to/mackmoneymaker/i-built-a-free-email-signature-generator-in-a-day-no-backend-required-20ki)
+- [I Built a Free, Ad-Free Google Ads Keyword Mixer — Because Every Other One Sucks](https://dev.to/maxxmini/i-built-a-free-ad-free-google-ads-keyword-mixer-because-every-other-one-sucks-j0i)
+- [Burnout Detector for Coders](https://dev.to/manasssk/burnout-detector-for-coders-36kj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
