@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Context vs Zustand vs Redux: A A Senior Engineer&#39;s Story](https://dev.to/shrinivasshah/context-vs-zustand-vs-redux-a-a-senior-engineers-story-2jnm)
-- [The Tree Module Functionalities in SQLite](https://dev.to/lovestaco/the-tree-module-functionalities-in-sqlite-4emg)
-- [How to send OTP codes with WhatsApp using Node.js](https://dev.to/jahongir2007/how-to-send-otp-codes-with-whatsapp-using-nodejs-36ap)
-- [C++ arfmetik operatorlar.](https://dev.to/shavkatovbexzod1987crypto/c-arfmetik-operatorlar-404e)
-- [Pruebas en APIs de microservicios: 5 esenciales para arquitectos de software](https://dev.to/_ferpaz/pruebas-en-apis-de-microservicios-5-esenciales-para-arquitectos-de-software-2i55)
+- [Mastering Git Internals: A Guide to Git Reset, Rebase, Merge &amp; Reflog](https://dev.to/ari-ghosh/mastering-git-internals-a-guide-to-git-reset-rebase-merge-reflog-i11)
+- [Your Phone Already Has the Hardware to Prove a Photo Is Real. Nothing Uses It.](https://dev.to/franciscuo/your-phone-already-has-the-hardware-to-prove-a-photo-is-real-nothing-uses-it-3ik6)
+- [Building a Gemini-Powered Robotics Simulator in the Browser with MuJoCo WASM](https://dev.to/googleai/building-a-gemini-powered-robotics-simulator-in-the-browser-with-mujoco-wasm-hjj)
+- [AV1 vs VP9 vs VP8: Codec Comparison Guide 2025](https://dev.to/red5/av1-vs-vp9-vs-vp8-codec-comparison-guide-2025-497j)
+- [Solving Cross-Origin Cookies](https://dev.to/freddster14/solving-cross-origin-cookies-54j8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
