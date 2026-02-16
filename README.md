@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Somnia On-Chain Reactivity](https://dev.to/kalidecoder/somnia-on-chain-reactivity-2a2i)
-- [AI Agents Run Unsandboxed Code — How to Fix It &lpar;2026&rpar;](https://dev.to/tan_genie_6a51065da7b63b6/ai-agents-run-unsandboxed-code-how-to-fix-it-2026-1np4)
-- [How to Benchmark CAPTCHA Solving Services &lpar;With Working Python Scripts&rpar;](https://dev.to/hasdata_com/how-to-benchmark-captcha-solving-services-with-working-python-scripts-46p1)
-- [AI Already Won. Programmers Still Have Jobs. Nobody Can Explain Why.](https://dev.to/kirill_tolmachev/ai-already-won-programmers-still-have-jobs-nobody-can-explain-why-2ap6)
-- [Claude Code で Obsidian Vault 3,674ファイルを一括整理した](https://dev.to/shimo4228/claude-code-de-obsidian-vault-3674huairuwo-gua-zheng-li-sita-hg1)
+- [How to Create a Custom Blog Editor That Connects Directly to Your CMS](https://dev.to/froala_e3824d66439393cbce/how-to-create-a-custom-blog-editor-that-connects-directly-to-your-cms-nfi)
+- [I Built a Cron Job Monitor Because Silence Kills Production](https://dev.to/jpbroeders/i-built-a-cron-job-monitor-because-silence-kills-production-56h1)
+- [anilogin: a reactive authentication ui with anime character gaze tracking](https://dev.to/iamovi/anilogin-a-reactive-authentication-ui-with-anime-character-gaze-tracking-1nb9)
+- [Designing agentic workflows: the core loop](https://dev.to/danielbutlerirl/designing-agentic-workflows-the-core-loop-166d)
+- [How to find a branch parent in Git](https://dev.to/nikola/how-to-find-a-branch-parent-in-git-4iil)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
