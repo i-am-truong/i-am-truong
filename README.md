@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [20. C# &lpar;Infinite Loops&rpar;](https://dev.to/sabin_sim/19-c-infinite-loops-3hbe)
-- [Coding Challenge Practice - Question 120](https://dev.to/tomivan/coding-challenge-practice-question-120-2bmh)
-- [How I built 700+ developer tools as a static site with Next.js, Zod, and Claude Code](https://dev.to/kranthi_kumarmuppala_f22/how-i-built-700-developer-tools-as-a-static-site-with-nextjs-zod-and-claude-code-19e0)
-- [Building a Framework-Agnostic Health Check Library for Python Microservices](https://dev.to/tasenikol/building-a-framework-agnostic-health-check-library-for-python-microservices-1402)
-- [Introduction to Selenium Java and Playwright: First Session](https://dev.to/scindia_bethuraj_7ffec81b/introduction-to-selenium-java-and-playwright-first-session-41hd)
+- [Surprise: You Can &quot;Intercept&quot; the C# lock Statement](https://dev.to/dimonsmart/surprise-you-can-intercept-the-c-lock-statement-14n)
+- [Azure AI Agent Service: Your First Production-Ready AI Agent in C#](https://dev.to/bspann/azure-ai-agent-service-your-first-production-ready-ai-agent-in-c-4pg4)
+- [GitHub Copilot SDK - Build AI-Powered DevOps Agents for Your Own Apps](https://dev.to/pwd9000/github-copilot-sdk-build-ai-powered-devops-agents-for-your-own-apps-3d05)
+- [I’ve Seen This Architecture Before. It Ends in Tears.](https://dev.to/art_light/ive-seen-this-architecture-before-it-ends-in-tears-3bld)
+- [API Testing Tools in 2026: Why I Built My Own &lpar;After Comparing All the Popular Ones&rpar;](https://dev.to/mbadyl/api-testing-tools-in-2026-why-i-built-my-own-after-comparing-all-the-popular-ones-3jhn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
