@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GitHub added Anthropic Claude and OpenAI Codex inside Agent HQ](https://dev.to/meisterit_systems_/github-added-anthropic-claude-and-openai-codex-inside-agent-hq-2b9n)
-- [Enterprise Jenkins Pipeline: Deploy WAR to DEV, QA, UAT, and PROD with Approval Gates, Rollback, and SCP](https://dev.to/srinivasamcjf/enterprise-jenkins-pipeline-deploy-war-to-dev-qa-uat-and-prod-with-approval-gates-rollback-3l5e)
-- [I Built a Pre-commit Security Scanner with Claude Code](https://dev.to/camof1ow/i-built-a-pre-commit-security-scanner-with-claude-code-2lk)
-- [How to Track AI Citation Traffic in GA4 &lpar;And Why It&#39;s Replacing Google Organic&rpar;](https://dev.to/msmyaqoob25/how-to-track-ai-citation-traffic-in-ga4-and-why-its-replacing-google-organic-559k)
-- [Low-Rank Matrix Factorization: Shrinking LLMs Without Breaking Their Brain](https://dev.to/madesh_v_00772d0bb44df29/low-rank-matrix-factorization-shrinking-llms-without-breaking-their-brain-fod)
+- [Build AI Videos with Code: Seedance 2.0 API Integration Guide](https://dev.to/singho/build-ai-videos-with-code-seedance-20-api-integration-guide-3957)
+- [Design System Is All You Need](https://dev.to/pnal/design-system-is-all-you-need-17b2)
+- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-345n)
+- [GitHub Copilot to Generate Conventional Commit Messages in VSCode and JetBrains Rider](https://dev.to/playfulprogramming/github-copilot-to-generate-conventional-commit-messages-in-vscode-and-jetbrains-rider-1n3b)
+- [Your CLAUDE.md Instructions Are Being Ignored - Here&#39;s Why &lpar;and How to Fix It&rpar;](https://dev.to/albert_nahas_cdc8469a6ae8/your-claudemd-instructions-are-being-ignored-heres-why-and-how-to-fix-it-23p6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
