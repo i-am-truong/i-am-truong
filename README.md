@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Your GCP Account is AI-Ready: Deploy your first AI endpoint with Terraform in 10 minutes⚡](https://dev.to/suhas_mallesh/your-gcp-account-is-ai-ready-deploy-your-first-ai-endpoint-with-terraform-in-10-minutes-37n7)
+- [How AI Changed the Way I Build &lpar;Not Just the Speed&rpar;: A Solo Founder&#39;s Reflection](https://dev.to/papredapp/how-ai-changed-the-way-i-build-not-just-the-speed-a-solo-founders-reflection-3o1g)
+- [I Tried to Trick 7 AI Models with Fake Facts. They Didn&#39;t Fall for It. &lpar;That&#39;s a Problem.&rpar;](https://dev.to/ambalogun/i-tried-to-trick-7-ai-models-with-fake-facts-they-didnt-fall-for-it-thats-a-problem-58m8)
 - [Surprise: You Can &quot;Intercept&quot; the C# lock Statement](https://dev.to/dimonsmart/surprise-you-can-intercept-the-c-lock-statement-14n)
-- [Azure AI Agent Service: Your First Production-Ready AI Agent in C#](https://dev.to/bspann/azure-ai-agent-service-your-first-production-ready-ai-agent-in-c-4pg4)
-- [GitHub Copilot SDK - Build AI-Powered DevOps Agents for Your Own Apps](https://dev.to/pwd9000/github-copilot-sdk-build-ai-powered-devops-agents-for-your-own-apps-3d05)
-- [I’ve Seen This Architecture Before. It Ends in Tears.](https://dev.to/art_light/ive-seen-this-architecture-before-it-ends-in-tears-3bld)
-- [API Testing Tools in 2026: Why I Built My Own &lpar;After Comparing All the Popular Ones&rpar;](https://dev.to/mbadyl/api-testing-tools-in-2026-why-i-built-my-own-after-comparing-all-the-popular-ones-3jhn)
+- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-2mio)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
