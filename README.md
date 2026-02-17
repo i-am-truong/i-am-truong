@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [95% of AI Pilots Fail. The Ones That Succeed All Do This One Thing.](https://dev.to/utibe_okodi_339fb47a13ef5/95-of-ai-pilots-fail-the-ones-that-succeed-all-do-this-one-thing-37if)
-- [Alerts for self-hosted customer deployments](https://dev.to/distr/alerts-for-self-hosted-customer-deployments-487a)
-- [Building and Installing VS Code Extensions in Cursor](https://dev.to/ahmedehab/building-and-installing-vs-code-extensions-in-cursor-5can)
-- [Stepping outside your role - how to gain an edge at work](https://dev.to/adaxelx/stepping-outside-your-role-how-to-gain-an-edge-at-work-58n5)
-- [The Vonage Dev Discussion](https://dev.to/vonagedev/the-vonage-dev-discussion-4h52)
+- [20. C# &lpar;Infinite Loops&rpar;](https://dev.to/sabin_sim/19-c-infinite-loops-3hbe)
+- [Coding Challenge Practice - Question 120](https://dev.to/tomivan/coding-challenge-practice-question-120-2bmh)
+- [How I built 700+ developer tools as a static site with Next.js, Zod, and Claude Code](https://dev.to/kranthi_kumarmuppala_f22/how-i-built-700-developer-tools-as-a-static-site-with-nextjs-zod-and-claude-code-19e0)
+- [Building a Framework-Agnostic Health Check Library for Python Microservices](https://dev.to/tasenikol/building-a-framework-agnostic-health-check-library-for-python-microservices-1402)
+- [Introduction to Selenium Java and Playwright: First Session](https://dev.to/scindia_bethuraj_7ffec81b/introduction-to-selenium-java-and-playwright-first-session-41hd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
