@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Built an &quot;Agentic&quot; AWS Cost Optimizer &lpar;That Doesn&#39;t Break Production&rpar;](https://dev.to/cloudwiseteam/how-i-built-an-agentic-aws-cost-optimizer-that-doesnt-break-production-d77)
-- [Desacoplamento e Reatividade: Implementando o Design Pattern Observer com Spring Events](https://dev.to/wagnernegrao/desacoplamento-e-reatividade-implementando-o-design-pattern-observer-com-spring-events-2fnd)
-- [How I Ended Up Building a “Gemini Bug Hunter” to Find Vulnerabilities in My Code](https://dev.to/holasoymalva/how-i-ended-up-building-a-gemini-bug-hunter-to-find-vulnerabilities-in-my-code-4m8e)
-- [# DirectShell: I Turned the Accessibility Layer Into a Universal App Interface. No Screenshots. No Vision Models.](https://dev.to/tlrag/-directshell-i-turned-the-accessibility-layer-into-a-universal-app-interface-no-screenshots-no-2457)
-- [ACID compliance in data analytics platforms: what it is, why it matters, and how to verify it &lpar;2026&rpar;](https://dev.to/manveer_chawla_64a7283d5a/acid-compliance-in-data-analytics-platforms-what-it-is-why-it-matters-and-how-to-verify-it-2026-38kj)
+- [Understanding RNNs – Part 2: Running Sequential Data Through the Network](https://dev.to/rijultp/understanding-rnns-part-2-running-sequential-data-through-the-network-5f8c)
+- [I Built 16 Free Developer Tools &lpar;No Signup, No BS&rpar;](https://dev.to/bigsondev/i-built-16-free-developer-tools-no-signup-no-bs-34p9)
+- [SwarmCLI vs. Portainer and Native Docker: Why It&#39;s the Lightweight Choice for Swarm Users](https://dev.to/eldara/swarmcli-vs-portainer-and-native-docker-why-its-the-lightweight-choice-for-swarm-users-gkg)
+- [How I Built Four Cloud‑Integrated Apps in Four Weeks Using AI as My Engineering Copilot](https://dev.to/cellurl/how-i-built-four-cloud-integrated-apps-in-four-weeks-using-ai-as-my-engineering-copilot-454l)
+- [AI-Led Growth: What Happens When Pipeline Generation Becomes a Compute Problem](https://dev.to/revenueleaks/ai-led-growth-what-happens-when-pipeline-generation-becomes-a-compute-problem-5622)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
