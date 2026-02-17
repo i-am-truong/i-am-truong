@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How We Built a Real-Time Analytics Platform on Cloudflare Workers &lpar;Architecture Deep-Dive&rpar;](https://dev.to/zenovay/how-we-built-a-real-time-analytics-platform-on-cloudflare-workers-architecture-deep-dive-5h3h)
-- [Virtualisation with TanStack Virtual](https://dev.to/dev_tom/virtualisation-with-tanstack-virtual-2md5)
-- [NoamVC v0.3 — We deleted 3,500 lines and the app got better](https://dev.to/steven_hans_b26a962c69563/noamvc-v03-we-deleted-3500-lines-and-the-app-got-better-4nlb)
-- [DAY6 -Event-driven](https://dev.to/maso_eb42159b65f6592/day6-event-driven-2ond)
-- [MLflow: primeiros passos em MLOps](https://dev.to/cassiogiehl/mlflow-primeiros-passos-em-mlops-52ed)
+- [95% of AI Pilots Fail. The Ones That Succeed All Do This One Thing.](https://dev.to/utibe_okodi_339fb47a13ef5/95-of-ai-pilots-fail-the-ones-that-succeed-all-do-this-one-thing-37if)
+- [Alerts for self-hosted customer deployments](https://dev.to/distr/alerts-for-self-hosted-customer-deployments-487a)
+- [Building and Installing VS Code Extensions in Cursor](https://dev.to/ahmedehab/building-and-installing-vs-code-extensions-in-cursor-5can)
+- [Stepping outside your role - how to gain an edge at work](https://dev.to/adaxelx/stepping-outside-your-role-how-to-gain-an-edge-at-work-58n5)
+- [The Vonage Dev Discussion](https://dev.to/vonagedev/the-vonage-dev-discussion-4h52)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
