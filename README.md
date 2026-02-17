@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Selecting local AI models for me and my fellows in network analysis field](https://dev.to/teminian/applying-ai-for-me-and-for-out-tech-support-in-network-analysis-5hhm)
-- [AI Coding Tip 007 - Avoid Malicious Skills](https://dev.to/mcsee/ai-coding-tip-007-avoid-malicious-skills-1jh)
-- [I Automated My Blog with Cron + AI Agents — 30 Days of Real Data](https://dev.to/leejackson/i-automated-my-blog-with-cron-ai-agents-30-days-of-real-data-4amp)
-- [Building a Simple BMI Calculator with HTML, CSS, and JavaScript](https://dev.to/yuvronixstudio/building-a-simple-bmi-calculator-with-html-css-and-javascript-4031)
-- [I kept hitting the &quot;quota wall&quot; with AI coding tools. So I built a router.](https://dev.to/dor_amir_dbb52baafff7ca5b/i-kept-hitting-the-quota-wall-with-ai-coding-tools-so-i-built-a-router-5lj)
+- [Secure Remote Access to AWS Resources from On-Premises](https://dev.to/aws-builders/secure-remote-access-to-aws-resources-from-on-premises-37ll)
+- [Beginner&#39;s Guide To TypeScript + React Integration](https://dev.to/myogeshchavan97/beginners-guide-to-typescript-react-integration-15nd)
+- [Using Zig Functions from Python](https://dev.to/jailop/using-zig-functions-from-python-3ki6)
+- [I Built a Full Game in One Day Using AI Agents — Here&#39;s What Happened](https://dev.to/maxxmini/i-built-a-full-game-in-one-day-using-ai-agents-heres-what-happened-3c3o)
+- [🟢 Part 2: Android HCE Implementation — Build a Complete Type 4 NFC Tag with HostApduService](https://dev.to/sky1309/part-2-android-hce-implementation-build-a-complete-type-4-nfc-tag-with-hostapduservice-1ka7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
