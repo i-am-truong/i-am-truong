@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding RNNs – Part 2: Running Sequential Data Through the Network](https://dev.to/rijultp/understanding-rnns-part-2-running-sequential-data-through-the-network-5f8c)
-- [I Built 16 Free Developer Tools &lpar;No Signup, No BS&rpar;](https://dev.to/bigsondev/i-built-16-free-developer-tools-no-signup-no-bs-34p9)
-- [SwarmCLI vs. Portainer and Native Docker: Why It&#39;s the Lightweight Choice for Swarm Users](https://dev.to/eldara/swarmcli-vs-portainer-and-native-docker-why-its-the-lightweight-choice-for-swarm-users-gkg)
-- [How I Built Four Cloud‑Integrated Apps in Four Weeks Using AI as My Engineering Copilot](https://dev.to/cellurl/how-i-built-four-cloud-integrated-apps-in-four-weeks-using-ai-as-my-engineering-copilot-454l)
-- [AI-Led Growth: What Happens When Pipeline Generation Becomes a Compute Problem](https://dev.to/revenueleaks/ai-led-growth-what-happens-when-pipeline-generation-becomes-a-compute-problem-5622)
+- [How We Built a Real-Time Analytics Platform on Cloudflare Workers &lpar;Architecture Deep-Dive&rpar;](https://dev.to/zenovay/how-we-built-a-real-time-analytics-platform-on-cloudflare-workers-architecture-deep-dive-5h3h)
+- [Virtualisation with TanStack Virtual](https://dev.to/dev_tom/virtualisation-with-tanstack-virtual-2md5)
+- [NoamVC v0.3 — We deleted 3,500 lines and the app got better](https://dev.to/steven_hans_b26a962c69563/noamvc-v03-we-deleted-3500-lines-and-the-app-got-better-4nlb)
+- [DAY6 -Event-driven](https://dev.to/maso_eb42159b65f6592/day6-event-driven-2ond)
+- [MLflow: primeiros passos em MLOps](https://dev.to/cassiogiehl/mlflow-primeiros-passos-em-mlops-52ed)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
