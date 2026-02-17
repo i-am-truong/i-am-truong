@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Privacy-First Collection of Browser-Based Dev Tools](https://dev.to/bussardramjet/i-built-a-privacy-first-collection-of-browser-based-dev-tools-1bn)
-- [Two ClickHouse Internals That Change How You Write Queries](https://dev.to/mohhddhassan/two-clickhouse-internals-that-change-how-you-write-queries-5ea5)
-- [Lessons Learned Building My First EdTech Startup as a Solo Developer in two month](https://dev.to/steve_weng_2d0c3078e39eb9/lessons-learned-building-my-first-edtech-startup-as-a-solo-developer-in-two-month-2cml)
-- [Exploring conv-kmeans-lab: A C++ Tool for CIELAB Image Color Segmentation](https://dev.to/rpi1337/exploring-conv-kmeans-lab-a-c-tool-for-cielab-image-color-segmentation-31aa)
-- [Pruning in Deep Learning: Structured vs Unstructured](https://dev.to/kishorev_2006/knowledge-distillation-with-low-rank-matrix-factorization-3bnm)
+- [GitHub added Anthropic Claude and OpenAI Codex inside Agent HQ](https://dev.to/meisterit_systems_/github-added-anthropic-claude-and-openai-codex-inside-agent-hq-2b9n)
+- [Enterprise Jenkins Pipeline: Deploy WAR to DEV, QA, UAT, and PROD with Approval Gates, Rollback, and SCP](https://dev.to/srinivasamcjf/enterprise-jenkins-pipeline-deploy-war-to-dev-qa-uat-and-prod-with-approval-gates-rollback-3l5e)
+- [I Built a Pre-commit Security Scanner with Claude Code](https://dev.to/camof1ow/i-built-a-pre-commit-security-scanner-with-claude-code-2lk)
+- [How to Track AI Citation Traffic in GA4 &lpar;And Why It&#39;s Replacing Google Organic&rpar;](https://dev.to/msmyaqoob25/how-to-track-ai-citation-traffic-in-ga4-and-why-its-replacing-google-organic-559k)
+- [Low-Rank Matrix Factorization: Shrinking LLMs Without Breaking Their Brain](https://dev.to/madesh_v_00772d0bb44df29/low-rank-matrix-factorization-shrinking-llms-without-breaking-their-brain-fod)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
