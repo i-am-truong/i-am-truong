@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Privacy-First Zakat Calculator with React—Here&#39;s What I Learned](https://dev.to/karayel_b8db3c5b2df2c5f40/i-built-a-privacy-first-zakat-calculator-with-react-heres-what-i-learned-2f8d)
-- [Software engineering is not dead](https://dev.to/juan1003/software-engineering-is-not-dead-5flc)
-- [Prompt Engineering for Software Docs: 2026 Ultimate Guide](https://dev.to/dev_narratives_023afd008e/prompt-engineering-for-software-docs-2026-ultimate-guide-9ab)
-- [How to Troubleshoot RAG in Production: A Field Guide](https://dev.to/sindhu_murthy_628835a359d/how-to-troubleshoot-rag-in-production-a-field-guide-6nb)
-- [Technical Content Calendar: 2026 AI Automation Guide](https://dev.to/dev_narratives_023afd008e/technical-content-calendar-2026-ai-automation-guide-8e0)
+- [You Are a &lpar;Mostly&rpar; Helpful Assistant](https://dev.to/jtvanwage/you-are-a-mostly-helpful-assistant-he2)
+- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-4o7h)
+- [Balancing Creative Identity with Senior-Level Engineering Responsibilities](https://dev.to/austinwdigital/balancing-creative-identity-with-senior-level-engineering-responsibilities-4e53)
+- [From Zero to 360,000 Lines of Code in 40 Days](https://dev.to/alairjt/from-zero-to-360000-lines-of-code-in-40-days-pe1)
+- [New devs with real projects — are you struggling to get hired too?](https://dev.to/israelrotimi/new-devs-with-real-projects-are-you-struggling-to-get-hired-too-4544)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
