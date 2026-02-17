@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Get Real-Time Notifications When AWS Glue Schema Registry Changes](https://dev.to/pratik_26/how-to-get-real-time-notifications-when-aws-glue-schema-registry-changes-4nbd)
-- [Get started with Google Workspace Studio](https://dev.to/googleworkspace/get-started-with-google-workspace-studio-5bmc)
-- [Where DeFi Meets the Physical World](https://dev.to/ribhavmodi/where-defi-meets-the-physical-world-1k71)
-- [Building a Simple JavaScript Slider: A Code Walkthrough](https://dev.to/iszy/building-a-simple-javascript-slider-a-code-walkthrough-2ae1)
-- [Cloud Cost Control: Implementing FinOps Before Bills Spiral](https://dev.to/ian_maskell_f4d0899494b94/cloud-cost-control-implementing-finops-before-bills-spiral-l33)
+- [The Feedback System That Actually Improves Products: Turning Noise into Decisions](https://dev.to/sonia_bobrik_1939cdddd79d/the-feedback-system-that-actually-improves-products-turning-noise-into-decisions-lgf)
+- [Zero-Downtime Schema Changes in SQL Server: The Reality Behind “Just Run the Migration”](https://dev.to/sonia_bobrik_1939cdddd79d/zero-downtime-schema-changes-in-sql-server-the-reality-behind-just-run-the-migration-bl)
+- [Stop Using Heavy MD5 Libraries in 2026: pure-md5 Review](https://dev.to/eustatos/stop-using-heavy-md5-libraries-in-2026-pure-md5-review-5h66)
+- [Why Platform Engineering Is the Next Big Shift &lpar;and How Ops Teams Win&rpar;](https://dev.to/kubeha_18/why-platform-engineering-is-the-next-big-shift-and-how-ops-teams-win-1lkp)
+- [CLAUDE.md Best Practices: Mermaid for Workflows](https://dev.to/cleverhoods/claudemd-best-practices-mermaid-for-workflows-khb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
