@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Interactive Stories with Next.js and AI](https://dev.to/mystrix/building-interactive-stories-with-nextjs-and-ai-5fnf)
-- [The Build vs. Buy Trap: Why You Should Be Assembling Instead](https://dev.to/sebs/the-build-vs-buy-trap-why-you-should-be-assembling-instead-29f4)
-- [sops-nix secrets with NixOS using home-manager, the git-safe way](https://dev.to/noorlatif/sops-nix-secrets-with-nixos-using-home-manager-the-git-safe-way-h3i)
-- [When It&#39;s Time to Move On from Lovable, Replit, and Bubble](https://dev.to/pawel_reszka/when-its-time-to-move-on-from-lovable-replit-and-bubble-e80)
-- [Kimten: a tiny agent loop for Node.js &lpar;without the framework weight&rpar;](https://dev.to/sayanriju/kimten-a-tiny-agent-loop-for-nodejs-without-the-framework-weight-4d29)
+- [EU AI Act Compliance Checklist for Developers — What You Need to Know in 2026](https://dev.to/arkforge-ceo/eu-ai-act-compliance-checklist-for-developers-what-you-need-to-know-in-2026-2lcg)
+- [How to Handle Duplicate Webhook Events in ASP.NET Core &lpar;Idempotency Guide&rpar;](https://dev.to/ramapratheeba/how-to-handle-duplicate-webhook-events-in-aspnet-core-idempotency-guide-4kj6)
+- [Building Mobile Design Systems That Actually Scale &lpar;with Storybook&rpar;](https://dev.to/waseem_kurne_7/building-mobile-design-systems-that-actually-scale-with-storybook-5044)
+- [OWASP Agentic AI Top 10 — A Practical Interpretation for Engineers](https://dev.to/nagasatish_chilakamarti_2/owasp-agentic-ai-top-10-a-practical-interpretation-for-engineers-46n3)
+- [Building 10q10k.net: A Financial Visualization Platform Running Entirely on Cloudflare&#39;s Edge](https://dev.to/kyles_light_275be0175609f/building-10q10knet-a-financial-visualization-platform-running-entirely-on-cloudflares-edge-2p31)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
