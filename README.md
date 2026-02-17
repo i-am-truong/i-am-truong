@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Feedback System That Actually Improves Products: Turning Noise into Decisions](https://dev.to/sonia_bobrik_1939cdddd79d/the-feedback-system-that-actually-improves-products-turning-noise-into-decisions-lgf)
-- [Zero-Downtime Schema Changes in SQL Server: The Reality Behind “Just Run the Migration”](https://dev.to/sonia_bobrik_1939cdddd79d/zero-downtime-schema-changes-in-sql-server-the-reality-behind-just-run-the-migration-bl)
-- [Stop Using Heavy MD5 Libraries in 2026: pure-md5 Review](https://dev.to/eustatos/stop-using-heavy-md5-libraries-in-2026-pure-md5-review-5h66)
-- [Why Platform Engineering Is the Next Big Shift &lpar;and How Ops Teams Win&rpar;](https://dev.to/kubeha_18/why-platform-engineering-is-the-next-big-shift-and-how-ops-teams-win-1lkp)
-- [CLAUDE.md Best Practices: Mermaid for Workflows](https://dev.to/cleverhoods/claudemd-best-practices-mermaid-for-workflows-khb)
+- [I&#39;m Done With Magic. Here&#39;s What I Built Instead.](https://dev.to/iceonfire/im-done-with-magic-heres-what-i-built-instead-988)
+- [I Spent 200+ Hours Building the DDD Microservices Starter Kit I Wish Existed](https://dev.to/tyson_cung/i-spent-200-hours-building-the-ddd-microservices-starter-kit-i-wish-existed-5dga)
+- [Build a Complete PKI from Scratch in Node.js](https://dev.to/lepresk/build-a-complete-pki-from-scratch-in-nodejs-2lfd)
+- [Arquitetura de Alta Performance: O &quot;Sob o Capô&quot; da Modern Data Stack](https://dev.to/franciscojdsjr/arquitetura-de-alta-performance-o-sob-o-capo-da-modern-data-stack-4hi9)
+- [Building a Rails Engine #3 — Configuration DSL: Making the Gem Flexible](https://dev.to/seryllns_/building-a-rails-engine-3-configuration-dsl-making-the-gem-flexible-1nb8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
