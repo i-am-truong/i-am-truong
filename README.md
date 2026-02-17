@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My AI Escaped Its Container and Did Everything — Except Review Its Own Code](https://dev.to/yujisuzuki/my-ai-escaped-its-container-and-did-everything-except-review-its-own-code-388o)
-- [Method Not Found Fallback](https://dev.to/lizmat/method-not-found-fallback-5cn8)
-- [When One API Means Different Mocks for Each Team - Designing a Distributed WireMock Setup](https://dev.to/ykagano/when-one-api-means-different-mocks-for-each-team-designing-a-distributed-wiremock-setup-25jm)
-- [Choosing the Right Model: GPT vs Claude vs Local &lpar;A Practical Decision Tree&rpar;](https://dev.to/novaelvaris/choosing-the-right-model-gpt-vs-claude-vs-local-a-practical-decision-tree-47pj)
-- [Building QM2: A Modern, Dockerized CLI Quiz Engine with 330+ Tests](https://dev.to/ahalvadzija/building-qm2-a-modern-dockerized-cli-quiz-engine-with-330-tests-2dgc)
+- [Story points vs Horas](https://dev.to/david_goyes_a488f58a17a53/story-points-vs-horas-55n5)
+- [AWS Lambda Managed Instances with Java 25 and AWS SAM - Part 3 Create Lambda function with LMI compute type](https://dev.to/aws-heroes/aws-lambda-managed-instances-with-java-25-and-aws-sam-part-3-create-lambda-function-with-lmi-1d9g)
+- [Solved: Notion not working!!!](https://dev.to/techresolve/solved-notion-not-working-4388)
+- [How I stopped my team from breaking CI with missing .env variables](https://dev.to/xserhio/how-to-stop-your-team-from-breaking-ci-with-missing-env-variables-2lbf)
+- [How We Reduced INP by 100ms+: GTM Isolation, React Compiler, and Better Telemetry](https://dev.to/subito/how-we-reduced-inp-by-100ms-gtm-isolation-react-compiler-and-better-telemetry-315g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
