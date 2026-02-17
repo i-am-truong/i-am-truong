@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Secure Remote Access to AWS Resources from On-Premises](https://dev.to/aws-builders/secure-remote-access-to-aws-resources-from-on-premises-37ll)
-- [Beginner&#39;s Guide To TypeScript + React Integration](https://dev.to/myogeshchavan97/beginners-guide-to-typescript-react-integration-15nd)
-- [Using Zig Functions from Python](https://dev.to/jailop/using-zig-functions-from-python-3ki6)
-- [I Built a Full Game in One Day Using AI Agents — Here&#39;s What Happened](https://dev.to/maxxmini/i-built-a-full-game-in-one-day-using-ai-agents-heres-what-happened-3c3o)
-- [🟢 Part 2: Android HCE Implementation — Build a Complete Type 4 NFC Tag with HostApduService](https://dev.to/sky1309/part-2-android-hce-implementation-build-a-complete-type-4-nfc-tag-with-hostapduservice-1ka7)
+- [I Built a Privacy-First Collection of Browser-Based Dev Tools](https://dev.to/bussardramjet/i-built-a-privacy-first-collection-of-browser-based-dev-tools-1bn)
+- [Two ClickHouse Internals That Change How You Write Queries](https://dev.to/mohhddhassan/two-clickhouse-internals-that-change-how-you-write-queries-5ea5)
+- [Lessons Learned Building My First EdTech Startup as a Solo Developer in two month](https://dev.to/steve_weng_2d0c3078e39eb9/lessons-learned-building-my-first-edtech-startup-as-a-solo-developer-in-two-month-2cml)
+- [Exploring conv-kmeans-lab: A C++ Tool for CIELAB Image Color Segmentation](https://dev.to/rpi1337/exploring-conv-kmeans-lab-a-c-tool-for-cielab-image-color-segmentation-31aa)
+- [Pruning in Deep Learning: Structured vs Unstructured](https://dev.to/kishorev_2006/knowledge-distillation-with-low-rank-matrix-factorization-3bnm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
