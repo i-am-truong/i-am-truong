@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [You Are a &lpar;Mostly&rpar; Helpful Assistant](https://dev.to/jtvanwage/you-are-a-mostly-helpful-assistant-he2)
-- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-4o7h)
-- [Balancing Creative Identity with Senior-Level Engineering Responsibilities](https://dev.to/austinwdigital/balancing-creative-identity-with-senior-level-engineering-responsibilities-4e53)
-- [From Zero to 360,000 Lines of Code in 40 Days](https://dev.to/alairjt/from-zero-to-360000-lines-of-code-in-40-days-pe1)
-- [New devs with real projects — are you struggling to get hired too?](https://dev.to/israelrotimi/new-devs-with-real-projects-are-you-struggling-to-get-hired-too-4544)
+- [Selecting local AI models for me and my fellows in network analysis field](https://dev.to/teminian/applying-ai-for-me-and-for-out-tech-support-in-network-analysis-5hhm)
+- [AI Coding Tip 007 - Avoid Malicious Skills](https://dev.to/mcsee/ai-coding-tip-007-avoid-malicious-skills-1jh)
+- [I Automated My Blog with Cron + AI Agents — 30 Days of Real Data](https://dev.to/leejackson/i-automated-my-blog-with-cron-ai-agents-30-days-of-real-data-4amp)
+- [Building a Simple BMI Calculator with HTML, CSS, and JavaScript](https://dev.to/yuvronixstudio/building-a-simple-bmi-calculator-with-html-css-and-javascript-4031)
+- [I kept hitting the &quot;quota wall&quot; with AI coding tools. So I built a router.](https://dev.to/dor_amir_dbb52baafff7ca5b/i-kept-hitting-the-quota-wall-with-ai-coding-tools-so-i-built-a-router-5lj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
