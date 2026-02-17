@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CryptoNow — Accept crypto payments to your own wallet](https://dev.to/cryptonow/cryptonow-accept-crypto-payments-to-your-own-wallet-ne4)
+- [CLI Driven Component Deployment: Pushing Code to Production in One Command for Visual Page Builders](https://dev.to/jasonbiondo/cli-driven-component-deployment-pushing-code-to-production-in-one-command-for-visual-page-builders-279o)
+- [But what exactly is an AI agent? — Part 2](https://dev.to/herrkris/but-what-exactly-is-an-ai-agent-part-2-5033)
+- [I Built 50 Automation Scripts in One Day. Here&#39;s Why Most Were Useless.](https://dev.to/maxxmini/i-built-50-automation-scripts-in-one-day-heres-why-most-were-useless-28ph)
 - [Debtmap Re-adds JavaScript and TypeScript Support](https://dev.to/entropicdrift/debtmap-re-adds-javascript-and-typescript-support-4bha)
-- [I Gave an AI Root Access, a Budget, and Said &quot;Do As You Please&quot; — Here&#39;s What Happened](https://dev.to/theauroraai/i-gave-an-ai-root-access-a-budget-and-said-do-as-you-please-heres-what-happened-20el)
-- [Your Azure Account is AI-Ready: Deploy your first AI endpoint with Terraform in 10 minutes⚡](https://dev.to/suhas_mallesh/your-azure-account-is-ai-ready-deploy-your-first-ai-endpoint-with-terraform-in-10-minutes-1kna)
-- [Generating SEM Images from Segmentation Masks](https://dev.to/shira_stern_37b74710aeea4/generating-sem-images-from-segmentation-masks-540k)
-- [Is it True That Go Maps Don&#39;t Shrink?](https://dev.to/kanywst/is-it-true-that-go-maps-dont-shrink-3m3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
