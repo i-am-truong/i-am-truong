@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Build AI Videos with Code: Seedance 2.0 API Integration Guide](https://dev.to/singho/build-ai-videos-with-code-seedance-20-api-integration-guide-3957)
-- [Design System Is All You Need](https://dev.to/pnal/design-system-is-all-you-need-17b2)
-- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-345n)
-- [GitHub Copilot to Generate Conventional Commit Messages in VSCode and JetBrains Rider](https://dev.to/playfulprogramming/github-copilot-to-generate-conventional-commit-messages-in-vscode-and-jetbrains-rider-1n3b)
-- [Your CLAUDE.md Instructions Are Being Ignored - Here&#39;s Why &lpar;and How to Fix It&rpar;](https://dev.to/albert_nahas_cdc8469a6ae8/your-claudemd-instructions-are-being-ignored-heres-why-and-how-to-fix-it-23p6)
+- [Building Interactive Stories with Next.js and AI](https://dev.to/mystrix/building-interactive-stories-with-nextjs-and-ai-5fnf)
+- [The Build vs. Buy Trap: Why You Should Be Assembling Instead](https://dev.to/sebs/the-build-vs-buy-trap-why-you-should-be-assembling-instead-29f4)
+- [sops-nix secrets with NixOS using home-manager, the git-safe way](https://dev.to/noorlatif/sops-nix-secrets-with-nixos-using-home-manager-the-git-safe-way-h3i)
+- [When It&#39;s Time to Move On from Lovable, Replit, and Bubble](https://dev.to/pawel_reszka/when-its-time-to-move-on-from-lovable-replit-and-bubble-e80)
+- [Kimten: a tiny agent loop for Node.js &lpar;without the framework weight&rpar;](https://dev.to/sayanriju/kimten-a-tiny-agent-loop-for-nodejs-without-the-framework-weight-4d29)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
