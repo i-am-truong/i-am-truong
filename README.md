@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Python Async Patterns: A Complete Guide to asyncio in 2026](https://dev.to/shehzan/mastering-python-async-patterns-a-complete-guide-to-asyncio-in-2026-10o6)
-- [Beyond the Prompt: An Explorer’s Guide to Claude Skills &lpar;Part 1&rpar;](https://dev.to/supreet_s/beyond-the-prompt-an-explorers-guide-to-claude-skills-part-1-gon)
-- [This command creates a VM on any cloud: cloudbrew create vm](https://dev.to/awasthi577/loudbrew-one-command-any-cloud-no-headaches-1n7m)
-- [5 Advanced JS Patterns to Level Up Your Senior Engineering Game](https://dev.to/dimitrisk_cyclopt/5-advanced-js-patterns-to-level-up-your-senior-engineering-game-18ce)
-- [If Your AI Product Can’t Handle Deletion, It Can’t Handle Monetization](https://dev.to/cizo/if-your-ai-product-cant-handle-deletion-it-cant-handle-monetization-46ee)
+- [How to Get Real-Time Notifications When AWS Glue Schema Registry Changes](https://dev.to/pratik_26/how-to-get-real-time-notifications-when-aws-glue-schema-registry-changes-4nbd)
+- [Get started with Google Workspace Studio](https://dev.to/googleworkspace/get-started-with-google-workspace-studio-5bmc)
+- [Where DeFi Meets the Physical World](https://dev.to/ribhavmodi/where-defi-meets-the-physical-world-1k71)
+- [Building a Simple JavaScript Slider: A Code Walkthrough](https://dev.to/iszy/building-a-simple-javascript-slider-a-code-walkthrough-2ae1)
+- [Cloud Cost Control: Implementing FinOps Before Bills Spiral](https://dev.to/ian_maskell_f4d0899494b94/cloud-cost-control-implementing-finops-before-bills-spiral-l33)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
