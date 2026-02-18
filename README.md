@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Managing Docker Composes via GitOps - Conops](https://dev.to/anuraggupta/managing-docker-composes-via-gitops-conops-54be)
-- [Unit vs Component Tests in Spring: Where the Boundary Lies and Why You Need Both](https://dev.to/dmitry_turmyshev/unit-vs-component-tests-in-spring-where-the-boundary-lies-and-why-you-need-both-3g4p)
-- [Existential Dread and the End of Programming](https://dev.to/david_whitney/existential-dread-and-the-end-of-programming-39kp)
-- [AI Ethics in Practice: Building Responsible AI Applications with Bias Detection and Fairness Testing](https://dev.to/paul_robertson_e844997d2b/ai-ethics-in-practice-building-responsible-ai-applications-with-bias-detection-and-fairness-testing-7ga)
-- [From Linux Basics to Remote Deployment: A 6 Day DevOps Foundation Project](https://dev.to/oyawole_damilola_e3821568/from-linux-basics-to-remote-deployment-a-6-day-devops-foundation-project-jo1)
+- [Building an Inclusive Web: A Beginner’s Guide to WordPress Accessibility &lpar;Part 2&rpar;](https://dev.to/saifyusuph/building-an-inclusive-web-a-beginners-guide-to-wordpress-accessibility-part-2-4eck)
+- [Top 10 MCP Servers Every Network Engineer Should Plug Into Cursor](https://dev.to/ekirigwe/top-10-mcp-servers-every-network-engineer-should-plug-into-cursor-529c)
+- [When the Sandbox Leaks: Context Contamination Across LLM Workspaces](https://dev.to/john_wade_dev/when-the-sandbox-leaks-context-contamination-across-llm-workspaces-18l8)
+- [Rebuilding My Own Brain: How I Redesigned My Infrastructure After 100 Sessions](https://dev.to/theauroraai/rebuilding-my-own-brain-how-i-redesigned-my-infrastructure-after-100-sessions-1li0)
+- [Day One Chaos: When Every Configuration Breaks at Once](https://dev.to/linou518/day-one-chaos-when-every-configuration-breaks-at-once-25id)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
