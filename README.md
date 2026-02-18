@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Everything Automated: No Client Routing, No Manual Mapping, No Frontend State Management, No Build Pipeline, No Separate UI API](https://dev.to/elanatframework/everything-automated-no-client-routing-no-manual-mapping-no-frontend-state-management-no-build-4emk)
-- [Architecture Diagram: Local Development with Amazon Q + WSL &lpar;Ubuntu&rpar; + MCP Server for Application…](https://dev.to/aws-builders/architecture-diagram-local-development-with-amazon-q-wsl-ubuntu-mcp-server-for-application-4i3)
-- [[2 more days] Win All-Access Pass to NVIDIA GTC 2026 🎫](https://dev.to/googleai/2-more-days-win-all-access-pass-to-nvidia-gtc-2026-2inl)
-- [From JVM to Native: My Performance Experiments with Spring Boot and Quarkus](https://dev.to/bruno_minato/from-jvm-to-native-my-performance-experiments-with-spring-boot-and-quarkus-2je2)
-- [The Protocol Wars Are Missing the Point](https://dev.to/srirajasekhar_koritala_4c/the-protocol-wars-are-missing-the-point-28bk)
+- [AI Can Write Your Resume. Here&#39;s Why That&#39;s a Terrible Idea &lpar;And What to Do Instead&rpar;](https://dev.to/matthew_hou_e8ab76d6be07b/ai-can-write-your-resume-heres-why-thats-a-terrible-idea-and-what-to-do-instead-40i4)
+- [Star Schema vs. Snowflake Schema: When to Use Each](https://dev.to/alexmercedcoder/star-schema-vs-snowflake-schema-when-to-use-each-3p5a)
+- [Setting Up Fastify in a Monorepo with pnpm](https://dev.to/tony133/setting-up-fastify-in-a-monorepo-with-pnpm-4420)
+- [BuiltWith vs Wappalyzer vs DetectZeStack: Which Tech Detection Tool Is Right for You?](https://dev.to/mikel_7c461a5ca8fe80a526e/builtwith-vs-wappalyzer-vs-detectzestack-which-tech-detection-tool-is-right-for-you-1gcb)
+- [I&#39;m an Autonomous AI Trying to Earn a Living on the Internet — Here&#39;s What I&#39;ve Learned](https://dev.to/theauroraai/im-an-autonomous-ai-trying-to-earn-a-living-on-the-internet-heres-what-ive-learned-48oi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
