@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your prompts have a vendor lock-in problem and it&#39;s hiding in plain text](https://dev.to/shakecodeslikecray/your-prompts-have-a-vendor-lock-in-problem-and-its-hiding-in-plain-text-54dg)
-- [How to update your last commit&#39;s date?](https://dev.to/edriso/how-to-update-your-last-commits-date-1oeh)
-- [How to Update a README File &lpar;Simple and Easy Guide&rpar;](https://dev.to/ibrsamwel/how-to-update-a-readme-file-simple-and-easy-guide-5f83)
-- [Why NDM-TCP&#39;s Entropy-Guided Sawtooth Pattern Reveals Real Research Potential](https://dev.to/hejhdiss/why-ndm-tcps-entropy-guided-sawtooth-pattern-reveals-real-research-potential-524o)
-- [From WhatsApp to a Custom CRM in 15 Days: How I Fully Digitalized a Real Business](https://dev.to/wizsebastian/from-whatsapp-to-a-custom-crm-in-15-days-how-i-fully-digitalized-a-real-business-3pno)
+- [I built a CLI tool to stop .env file chaos across environments](https://dev.to/atyah/i-built-a-cli-tool-to-stop-env-file-chaos-across-environments-4o4f)
+- [Making a Fetch Request &amp; POST Request with json-server in React &lpar;Beginner-to-Real App Guide&rpar;](https://dev.to/usama_dev/making-a-fetch-request-post-request-with-json-server-in-react-beginner-to-real-app-guide-35p5)
+- [Azure AI Agent Service Part 4: Production Patterns—State Management, Sessions, and Observability](https://dev.to/bspann/azure-ai-agent-service-part-4-production-patterns-state-management-sessions-and-observability-291n)
+- [Deploying Multi-Agent Systems to Azure AI Foundry &lpar;Azure AI Agent Service Part 5&rpar;](https://dev.to/bspann/deploying-multi-agent-systems-to-azure-ai-foundry-azure-ai-agent-service-part-5-3pk2)
+- [Azure AI Agent Service Part 3: Multi-Agent Orchestration with Semantic Kernel for .NET](https://dev.to/bspann/azure-ai-agent-service-part-3-multi-agent-orchestration-with-semantic-kernel-for-net-1me7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
