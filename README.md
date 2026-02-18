@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Dashboard Born: From Static Page to Flask API](https://dev.to/linou518/dashboard-born-from-static-page-to-flask-api-nga)
-- [Hello everyone, how are you? What advice would you give to stay energetic and healthy?](https://dev.to/viktoriya_wlasenko_b6e783/hello-everyone-how-are-you-what-advice-would-you-give-to-stay-energetic-and-healthy-3lcd)
-- [Creating 10 Telegram Bots in One Day](https://dev.to/linou518/creating-10-telegram-bots-in-one-day-12e9)
-- [Building High-Availability Failover: 90-Second Auto-Takeover](https://dev.to/linou518/building-high-availability-failover-90-second-auto-takeover-33ao)
-- [COALESCE in SQL: the “Don’t Let NULL Win” Function You’ll Use Everywhere](https://dev.to/baldwin_apps/coalesce-in-sql-the-dont-let-null-win-function-youll-use-everywhere-n7o)
+- [Repeat Yourself](https://dev.to/vnykmshr/repeat-yourself-1h9k)
+- [SwiftUI in Real Apps](https://dev.to/marypiakovski/swiftui-in-real-apps-2cn)
+- [Least Privilege: The Security Habit That Pays Off Every Day](https://dev.to/yal41n/least-privilege-the-security-habit-that-pays-off-every-day-nag)
+- [4-Platform Blog Auto-Publishing: Fully Automated Pipeline](https://dev.to/linou518/4-platform-blog-auto-publishing-fully-automated-pipeline-18e0)
+- [How I Built a WCAG Contrast Checker in 50 Lines of JavaScript.](https://dev.to/afsar_khan/how-i-built-a-wcag-contrast-checker-in-50-lines-of-javascript-1lo5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
