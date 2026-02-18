@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mohamed Farah Tahar Analyzes the Crippling Impact of Tribalism on Africa’s Development](https://dev.to/gov_afrika_b681dfae823748/mohamed-farah-tahar-analyzes-the-crippling-impact-of-tribalism-on-africas-development-372a)
-- [Building a Modern Portfolio with Tailwind CSS v4, React, and Vite](https://dev.to/bwanachairman/building-a-modern-portfolio-with-tailwind-css-v4-react-and-vite-28me)
-- [You Don’t Need a Mac mini to Run OpenClaw: VPS‑First Agent Ops for Everyday Devs](https://dev.to/shahdeep/you-dont-need-a-mac-mini-to-run-openclaw-vps-first-agent-ops-for-everyday-devs-3jg7)
-- [Your MCP Tools Are a Backdoor](https://dev.to/behrensd/your-mcp-tools-are-a-backdoor-5fbh)
-- [Understanding the K-th Character in the String Game &lpar;Step-by-Step&rpar; - LeetCode 3304](https://dev.to/purav_patel_13/understanding-the-k-th-character-in-the-string-game-step-by-step-leetcode-3304-1b64)
+- [How to persistently store object-type data on a hard drive using PersistentStorage](https://dev.to/harmonyos/how-to-persistently-store-object-type-data-on-a-hard-drive-using-persistentstorage-472f)
+- [Building an Open-Source Dip-Buying Strategy for Altcoins &lpar;Pine Script&rpar;](https://dev.to/s_morozov/building-an-open-source-dip-buying-strategy-for-altcoins-pine-script-1k8)
+- [Using Claude Code as a Free LLM Backend for Voice Agent Testing](https://dev.to/pld/using-claude-code-as-a-free-llm-backend-for-voice-agent-testing-40bg)
+- [Rethinking Jira &amp; Confluence: Deploy Your Own Customizable Issue &amp; Wiki Stack in Just 15 Minutes](https://dev.to/kent_testperspectiv/rethinking-jira-confluence-deploy-your-own-customizable-issue-wiki-stack-in-just-15-minutes-2kgl)
+- [5 Common Clarity Development Mistakes &lpar;And How to Fix Them&rpar;](https://dev.to/rajuice/5-common-clarity-development-mistakes-and-how-to-fix-them-3dl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
