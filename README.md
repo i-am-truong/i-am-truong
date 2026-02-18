@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your Choice of Framework Doesn’t Matter Anymore](https://dev.to/web_dev-usman/your-choice-of-framework-doesnt-matter-anymore-2ha7)
-- [The Secret Life of JavaScript: The Batch](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-batch-1i0d)
-- [5 Most Asked Spring Interview Questions](https://dev.to/quipoin_a9cb84280f6225b1e/5-most-asked-spring-interview-questions-1hon)
-- [[Boost]](https://dev.to/willzmu/-3j8n)
-- [Simplifying Localization in React: An Inside Look at `translation-service-react`](https://dev.to/rpi1337/simplifying-localization-in-react-an-inside-look-at-translation-service-react-adp)
+- [Your Azure Bill Hit $10K and Nobody Noticed 😱 Deploy Budget Alerts as Code with Terraform](https://dev.to/suhas_mallesh/your-azure-bill-hit-10k-and-nobody-noticed-deploy-budget-alerts-as-code-with-terraform-1ei2)
+- [Building a Universal Memory Layer for AI Agents](https://dev.to/varun_pratapbhardwaj_b13/building-a-universal-memory-layer-for-ai-agents-2do)
+- [Never Get a Surprise GCP Bill Again: Budget Alerts as Code with Terraform 🚨](https://dev.to/suhas_mallesh/never-get-a-surprise-gcp-bill-again-budget-alerts-as-code-with-terraform-280i)
+- [Develop Software When Your AI Model Starts Acting Like a Teammate](https://dev.to/sashido/develop-software-when-your-ai-model-starts-acting-like-a-teammate-3f4d)
+- [How to Preview and Test HTML Email Templates Programmatically](https://dev.to/mackmoneymaker/how-to-preview-and-test-html-email-templates-programmatically-1ca1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
