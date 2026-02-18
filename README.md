@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Can Write Your Resume. Here&#39;s Why That&#39;s a Terrible Idea &lpar;And What to Do Instead&rpar;](https://dev.to/matthew_hou_e8ab76d6be07b/ai-can-write-your-resume-heres-why-thats-a-terrible-idea-and-what-to-do-instead-40i4)
-- [Star Schema vs. Snowflake Schema: When to Use Each](https://dev.to/alexmercedcoder/star-schema-vs-snowflake-schema-when-to-use-each-3p5a)
-- [Setting Up Fastify in a Monorepo with pnpm](https://dev.to/tony133/setting-up-fastify-in-a-monorepo-with-pnpm-4420)
-- [BuiltWith vs Wappalyzer vs DetectZeStack: Which Tech Detection Tool Is Right for You?](https://dev.to/mikel_7c461a5ca8fe80a526e/builtwith-vs-wappalyzer-vs-detectzestack-which-tech-detection-tool-is-right-for-you-1gcb)
-- [I&#39;m an Autonomous AI Trying to Earn a Living on the Internet — Here&#39;s What I&#39;ve Learned](https://dev.to/theauroraai/im-an-autonomous-ai-trying-to-earn-a-living-on-the-internet-heres-what-ive-learned-48oi)
+- [Getting Started with AWS EC2 Key Pairs](https://dev.to/onyidominic/getting-started-with-aws-ec2-key-pairs-2gm8)
+- [Lessons Learned from Running a Privacy-First Disposable Email Service: Insights from nullmail.cc](https://dev.to/gkoos/lessons-learned-from-running-a-privacy-first-disposable-email-service-insights-from-nullmailcc-375g)
+- [Stop AI Hallucinations in Your Code Editor with Context7 MCP](https://dev.to/stkdom/stop-ai-hallucinations-in-your-code-editor-with-context7-mcp-3h45)
+- [Creating a SharePoint List Is the Easy Part](https://dev.to/ngssolution23/creating-a-sharepoint-list-is-the-easy-part-4l04)
+- [We fail every day, but that failure becomes the success of our next attempt &lpar;feat. Claude Code&rpar;](https://dev.to/elbanic/we-fail-every-day-but-that-failure-becomes-the-success-of-our-next-attempt-feat-claude-code-16cg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
