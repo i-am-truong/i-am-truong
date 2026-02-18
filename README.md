@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Complete Guide to Deploying Next.js Apps in 2026: Vercel, Self-Hosted, and Everything In Between](https://dev.to/zahg_81752b307f5df5d56035/the-complete-guide-to-deploying-nextjs-apps-in-2026-vercel-self-hosted-and-everything-in-between-48ia)
-- [Docker Unlocked: What I Wish I Knew earlier.](https://dev.to/juma_evans_34e389ef539266/docker-unlocked-what-i-wish-i-knew-earlier-143f)
-- [The Ghost in the CLI: Why Claude Code Kills Local Inference](https://dev.to/mfolsom/the-ghost-in-the-cli-why-claude-code-kills-local-inference-dfc)
-- [Finding my Frontier: Cloud free coding on GLM-5](https://dev.to/mfolsom/finding-my-frontier-cloud-free-coding-on-glm-5-47o4)
-- [Your Team&#39;s Icebreakers Shouldn&#39;t Make People Cringe 😬](https://dev.to/mattlewandowski93/your-teams-icebreakers-shouldnt-make-people-cringe-2dk0)
+- [Everything Automated: No Client Routing, No Manual Mapping, No Frontend State Management, No Build Pipeline, No Separate UI API](https://dev.to/elanatframework/everything-automated-no-client-routing-no-manual-mapping-no-frontend-state-management-no-build-4emk)
+- [Architecture Diagram: Local Development with Amazon Q + WSL &lpar;Ubuntu&rpar; + MCP Server for Application…](https://dev.to/aws-builders/architecture-diagram-local-development-with-amazon-q-wsl-ubuntu-mcp-server-for-application-4i3)
+- [[2 more days] Win All-Access Pass to NVIDIA GTC 2026 🎫](https://dev.to/googleai/2-more-days-win-all-access-pass-to-nvidia-gtc-2026-2inl)
+- [From JVM to Native: My Performance Experiments with Spring Boot and Quarkus](https://dev.to/bruno_minato/from-jvm-to-native-my-performance-experiments-with-spring-boot-and-quarkus-2je2)
+- [The Protocol Wars Are Missing the Point](https://dev.to/srirajasekhar_koritala_4c/the-protocol-wars-are-missing-the-point-28bk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
