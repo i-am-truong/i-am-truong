@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CryptoNow — Accept crypto payments to your own wallet](https://dev.to/cryptonow/cryptonow-accept-crypto-payments-to-your-own-wallet-ne4)
-- [CLI Driven Component Deployment: Pushing Code to Production in One Command for Visual Page Builders](https://dev.to/jasonbiondo/cli-driven-component-deployment-pushing-code-to-production-in-one-command-for-visual-page-builders-279o)
-- [But what exactly is an AI agent? — Part 2](https://dev.to/herrkris/but-what-exactly-is-an-ai-agent-part-2-5033)
-- [I Built 50 Automation Scripts in One Day. Here&#39;s Why Most Were Useless.](https://dev.to/maxxmini/i-built-50-automation-scripts-in-one-day-heres-why-most-were-useless-28ph)
-- [Debtmap Re-adds JavaScript and TypeScript Support](https://dev.to/entropicdrift/debtmap-re-adds-javascript-and-typescript-support-4bha)
+- [Mohamed Farah Tahar Analyzes the Crippling Impact of Tribalism on Africa’s Development](https://dev.to/gov_afrika_b681dfae823748/mohamed-farah-tahar-analyzes-the-crippling-impact-of-tribalism-on-africas-development-372a)
+- [Building a Modern Portfolio with Tailwind CSS v4, React, and Vite](https://dev.to/bwanachairman/building-a-modern-portfolio-with-tailwind-css-v4-react-and-vite-28me)
+- [You Don’t Need a Mac mini to Run OpenClaw: VPS‑First Agent Ops for Everyday Devs](https://dev.to/shahdeep/you-dont-need-a-mac-mini-to-run-openclaw-vps-first-agent-ops-for-everyday-devs-3jg7)
+- [Your MCP Tools Are a Backdoor](https://dev.to/behrensd/your-mcp-tools-are-a-backdoor-5fbh)
+- [Understanding the K-th Character in the String Game &lpar;Step-by-Step&rpar; - LeetCode 3304](https://dev.to/purav_patel_13/understanding-the-k-th-character-in-the-string-game-step-by-step-leetcode-3304-1b64)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
