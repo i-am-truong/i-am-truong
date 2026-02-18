@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [On‑Chain Identity As The Glue &lpar;After 45 Days, Identity Looks Different&rpar;](https://dev.to/ribhavmodi/on-chain-identity-as-the-glue-after-45-days-identity-looks-different-3inm)
-- [I Let Three AI Agents Argue About My Architecture — Here&#39;s What Happened](https://dev.to/sujaypillai/i-let-three-ai-agents-argue-about-my-architecture-heres-what-happened-4d3)
-- [Beyond the Chatbot: Mastering Local RAG with Open WebUI and DeepSeek-R1](https://dev.to/lyraalishaikh/beyond-the-chatbot-mastering-local-rag-with-open-webui-and-deepseek-r1-101l)
-- [Welcome Thread - v365](https://dev.to/devteam/welcome-thread-v365-1n88)
-- [Understanding Stock Options &lpar;ESOPs&rpar; as a Junior Developer](https://dev.to/piotr-get-talent/understanding-stock-options-esops-as-a-junior-developer-45de)
+- [Your Choice of Framework Doesn’t Matter Anymore](https://dev.to/web_dev-usman/your-choice-of-framework-doesnt-matter-anymore-2ha7)
+- [The Secret Life of JavaScript: The Batch](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-batch-1i0d)
+- [5 Most Asked Spring Interview Questions](https://dev.to/quipoin_a9cb84280f6225b1e/5-most-asked-spring-interview-questions-1hon)
+- [[Boost]](https://dev.to/willzmu/-3j8n)
+- [Simplifying Localization in React: An Inside Look at `translation-service-react`](https://dev.to/rpi1337/simplifying-localization-in-react-an-inside-look-at-translation-service-react-adp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
