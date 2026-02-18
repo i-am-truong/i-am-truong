@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Didn&#39;t Learn to Code. I Learned to Build.](https://dev.to/wcamon/i-didnt-learn-to-code-i-learned-to-build-4ba9)
-- [Rick Beato: Simon Phillips: How To Tune And Record Your Drums!](https://dev.to/music_youtube/rick-beato-simon-phillips-how-to-tune-and-record-your-drums-1f56)
-- [Understanding Event-Driven Architecture &lpar;With a Simple Example&rpar;](https://dev.to/aznaxdev/understanding-event-driven-architecture-with-a-simple-example-1gfj)
-- [Building a Small Rent Conversion Tool](https://dev.to/suhassunder/building-a-small-rent-conversion-tool-222p)
-- [Do Monólito ao Supergraph: Como o GraphQL Federation Escala Microservices](https://dev.to/sh4rkzy/do-monolito-ao-supergraph-como-o-graphql-federation-escala-microservices-1l38)
+- [Your prompts have a vendor lock-in problem and it&#39;s hiding in plain text](https://dev.to/shakecodeslikecray/your-prompts-have-a-vendor-lock-in-problem-and-its-hiding-in-plain-text-54dg)
+- [How to update your last commit&#39;s date?](https://dev.to/edriso/how-to-update-your-last-commits-date-1oeh)
+- [How to Update a README File &lpar;Simple and Easy Guide&rpar;](https://dev.to/ibrsamwel/how-to-update-a-readme-file-simple-and-easy-guide-5f83)
+- [Why NDM-TCP&#39;s Entropy-Guided Sawtooth Pattern Reveals Real Research Potential](https://dev.to/hejhdiss/why-ndm-tcps-entropy-guided-sawtooth-pattern-reveals-real-research-potential-524o)
+- [From WhatsApp to a Custom CRM in 15 Days: How I Fully Digitalized a Real Business](https://dev.to/wizsebastian/from-whatsapp-to-a-custom-crm-in-15-days-how-i-fully-digitalized-a-real-business-3pno)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
