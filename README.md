@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I made an LLM visibility tool](https://dev.to/scorder/i-made-an-llm-visibility-tool-5il)
-- [Code Scalpel: Making Software Development with AI Agents Cheaper, Governable, Accurate, and Safe](https://dev.to/tescolopio/code-scalpel-making-software-development-with-ai-agents-cheaper-governable-accurate-and-safe-4aao)
-- [Building a City-Based SEO Platform with Django and Structured Data](https://dev.to/preku_cl/building-a-city-based-seo-platform-with-django-and-structured-data-f3m)
-- [Stop Writing Brittle Tests: The Smart Locator Strategy Every Playwright Dev Needs](https://dev.to/jagadeeshjayachandran/stop-writing-brittle-tests-the-smart-locator-strategy-every-playwright-dev-needs-45ki)
-- [The Manifesto That Keeps Our Remote Team Moving Fast](https://dev.to/slickstef11/the-manifesto-that-keeps-our-remote-team-moving-fast-1118)
+- [The Complete Guide to Tech Job Search in 2026 &lpar;Tools, Strategy, and Timeline&rpar;](https://dev.to/matthew_hou_e8ab76d6be07b/the-complete-guide-to-tech-job-search-in-2026-tools-strategy-and-timeline-52pp)
+- [Introducing muxtree: Dead-Simple Worktree + Tmux Sessions for AI Coding](https://dev.to/b-d055/introducing-muxtree-dead-simple-worktree-tmux-sessions-for-ai-coding-2kf2)
+- [I Built a Privacy-First Image Resizer That Runs Entirely in Your Browser](https://dev.to/resizer/i-built-a-privacy-first-image-resizer-that-runs-entirely-in-your-browser-5dnp)
+- [Moving WSL Distributions to Another Drive](https://dev.to/octasoft-ltd/moving-wsl-distributions-to-another-drive-3id4)
+- [Edge Rendering vs Server Side Rendering: Performance Trade Offs Explained](https://dev.to/jasonbiondo/edge-rendering-vs-server-side-rendering-performance-trade-offs-explained-lmg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
