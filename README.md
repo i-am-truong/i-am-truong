@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Every AI Agent Framework Trusts the Agent. That&#39;s the Problem.](https://dev.to/saezbaldo/every-ai-agent-framework-trusts-the-agent-thats-the-problem-5gfa)
-- [Docker Explained: A Beginner-Friendly Introduction to Containerization &lpar;2025–2026&rpar;](https://dev.to/mukhil_77/docker-explained-a-beginner-friendly-introduction-to-containerization-2025-2026-lcn)
-- [Provide storage for the public website.](https://dev.to/rahimah_dev/provide-storage-for-the-public-website-356l)
-- [How To Set Up a UPS on Windows 11](https://dev.to/dev_neil_a/how-to-set-up-a-ups-on-windows-11-1p33)
-- [Build Modern Browser Extensions with WXT, React and TypeScript](https://dev.to/seryllns_/build-modern-browser-extensions-with-wxt-react-and-typescript-h3h)
+- [I Didn&#39;t Learn to Code. I Learned to Build.](https://dev.to/wcamon/i-didnt-learn-to-code-i-learned-to-build-4ba9)
+- [Rick Beato: Simon Phillips: How To Tune And Record Your Drums!](https://dev.to/music_youtube/rick-beato-simon-phillips-how-to-tune-and-record-your-drums-1f56)
+- [Understanding Event-Driven Architecture &lpar;With a Simple Example&rpar;](https://dev.to/aznaxdev/understanding-event-driven-architecture-with-a-simple-example-1gfj)
+- [Building a Small Rent Conversion Tool](https://dev.to/suhassunder/building-a-small-rent-conversion-tool-222p)
+- [Do Monólito ao Supergraph: Como o GraphQL Federation Escala Microservices](https://dev.to/sh4rkzy/do-monolito-ao-supergraph-como-o-graphql-federation-escala-microservices-1l38)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
