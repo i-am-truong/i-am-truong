@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CVE-2017-18892:When Templates Betray Security ## 📧 XSS in Email Templates - Mattermost Under](https://dev.to/asrarmared/cve-2017-18892when-templates-betray-security-xss-in-email-templates-mattermost-under-2de6)
-- [GHSA-RWJ8-P9VQ-25GV: OpenClaw BlueBubbles: When Your iMessage Bridge Becomes a Spy](https://dev.to/cverports/ghsa-rwj8-p9vq-25gv-openclaw-bluebubbles-when-your-imessage-bridge-becomes-a-spy-1m72)
-- [Ternary &amp; Conditional Expressions στην C#](https://dev.to/__b63657/ternary-conditional-expressions-sten-c-aic)
-- [Part 2: Complete Microservices Architecture - Fault Tolerance and Security](https://dev.to/leriaetnasta/part-2-complete-microservices-architecture-fault-tolerance-and-security-5c4e)
-- [BracketView&#39;s JQ Panel Just Got Smarter — AI-Powered Queries, Dynamic Filters &amp; More](https://dev.to/jameelshaikh/bracketviews-jq-panel-just-got-smarter-ai-powered-queries-dynamic-filters-more-17m9)
+- [The Complete Guide to Deploying Next.js Apps in 2026: Vercel, Self-Hosted, and Everything In Between](https://dev.to/zahg_81752b307f5df5d56035/the-complete-guide-to-deploying-nextjs-apps-in-2026-vercel-self-hosted-and-everything-in-between-48ia)
+- [Docker Unlocked: What I Wish I Knew earlier.](https://dev.to/juma_evans_34e389ef539266/docker-unlocked-what-i-wish-i-knew-earlier-143f)
+- [The Ghost in the CLI: Why Claude Code Kills Local Inference](https://dev.to/mfolsom/the-ghost-in-the-cli-why-claude-code-kills-local-inference-dfc)
+- [Finding my Frontier: Cloud free coding on GLM-5](https://dev.to/mfolsom/finding-my-frontier-cloud-free-coding-on-glm-5-47o4)
+- [Your Team&#39;s Icebreakers Shouldn&#39;t Make People Cringe 😬](https://dev.to/mattlewandowski93/your-teams-icebreakers-shouldnt-make-people-cringe-2dk0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
