@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Repeat Yourself](https://dev.to/vnykmshr/repeat-yourself-1h9k)
-- [SwiftUI in Real Apps](https://dev.to/marypiakovski/swiftui-in-real-apps-2cn)
-- [Least Privilege: The Security Habit That Pays Off Every Day](https://dev.to/yal41n/least-privilege-the-security-habit-that-pays-off-every-day-nag)
-- [4-Platform Blog Auto-Publishing: Fully Automated Pipeline](https://dev.to/linou518/4-platform-blog-auto-publishing-fully-automated-pipeline-18e0)
-- [How I Built a WCAG Contrast Checker in 50 Lines of JavaScript.](https://dev.to/afsar_khan/how-i-built-a-wcag-contrast-checker-in-50-lines-of-javascript-1lo5)
+- [Every AI Agent Framework Trusts the Agent. That&#39;s the Problem.](https://dev.to/saezbaldo/every-ai-agent-framework-trusts-the-agent-thats-the-problem-5gfa)
+- [Docker Explained: A Beginner-Friendly Introduction to Containerization &lpar;2025–2026&rpar;](https://dev.to/mukhil_77/docker-explained-a-beginner-friendly-introduction-to-containerization-2025-2026-lcn)
+- [Provide storage for the public website.](https://dev.to/rahimah_dev/provide-storage-for-the-public-website-356l)
+- [How To Set Up a UPS on Windows 11](https://dev.to/dev_neil_a/how-to-set-up-a-ups-on-windows-11-1p33)
+- [Build Modern Browser Extensions with WXT, React and TypeScript](https://dev.to/seryllns_/build-modern-browser-extensions-with-wxt-react-and-typescript-h3h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
