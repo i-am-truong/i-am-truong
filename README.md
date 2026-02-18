@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your Azure Bill Hit $10K and Nobody Noticed 😱 Deploy Budget Alerts as Code with Terraform](https://dev.to/suhas_mallesh/your-azure-bill-hit-10k-and-nobody-noticed-deploy-budget-alerts-as-code-with-terraform-1ei2)
-- [Building a Universal Memory Layer for AI Agents](https://dev.to/varun_pratapbhardwaj_b13/building-a-universal-memory-layer-for-ai-agents-2do)
-- [Never Get a Surprise GCP Bill Again: Budget Alerts as Code with Terraform 🚨](https://dev.to/suhas_mallesh/never-get-a-surprise-gcp-bill-again-budget-alerts-as-code-with-terraform-280i)
-- [Develop Software When Your AI Model Starts Acting Like a Teammate](https://dev.to/sashido/develop-software-when-your-ai-model-starts-acting-like-a-teammate-3f4d)
-- [How to Preview and Test HTML Email Templates Programmatically](https://dev.to/mackmoneymaker/how-to-preview-and-test-html-email-templates-programmatically-1ca1)
+- [Mastering Host &amp; Network Penetration Testing: A Windows CTF Walkthrough](https://dev.to/james_kariuki/mastering-host-network-penetration-testing-a-windows-ctf-walkthrough-25o7)
+- [My Daily Essentials: The Apps/ Programs That I Use And Keep Me Organised](https://dev.to/tavare/my-daily-essentials-the-apps-programs-that-i-use-and-keep-me-organised-3mcp)
+- [OpenClaw for Developers: Building Solo-Dev Companies](https://dev.to/shehzan/openclaw-for-developers-building-solo-dev-companies-2o6g)
+- [How to Build a Smart Call Agent Using Twilio + ElevenLabs + n8n](https://dev.to/ciphernutz/how-to-build-a-smart-call-agent-using-twilio-elevenlabs-n8n-296a)
+- [Why I Built a File Converter That Doesn&#39;t Upload Your Files](https://dev.to/ansonchan/why-i-built-a-file-converter-that-doesnt-upload-your-files-3jkc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
