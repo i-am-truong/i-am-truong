@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Automate Your Release Announcements: GitHub Release 4 Social Platforms with n8n](https://dev.to/_350df62777eb55e1/automate-your-release-announcements-github-release-4-social-platforms-with-n8n-1okd)
-- [Conceptual, Logical, and Physical Data Models Explained](https://dev.to/alexmercedcoder/conceptual-logical-and-physical-data-models-explained-h10)
-- [What Is Data Modeling? A Complete Guide](https://dev.to/alexmercedcoder/what-is-data-modeling-a-complete-guide-53lh)
-- [I Did My First Small Data Analysis Project Last Night: I&#39;m Hooked](https://dev.to/gwynnemichele/i-did-my-first-small-data-analysis-project-last-night-im-hooked-2cg6)
-- [I built a RAG system where hallucinations aren&#39;t acceptable. Here&#39;s what actually worked.](https://dev.to/buildsyncinc/i-built-a-rag-system-where-hallucinations-arent-acceptable-heres-what-actually-worked-b2e)
+- [Tribute To Richard Pascoe](https://dev.to/bingkahu/tribute-to-richard-pascoe-127o)
+- [Introducing ts-dash: A Quick and Simple TypeScript Project Creator](https://dev.to/elylucas/introducing-ts-dash-a-quick-and-simple-typescript-project-creator-53k0)
+- [My Personal Blog Is Finally Live](https://dev.to/joacod/my-personal-blog-is-finally-live-46j9)
+- [How I Turned an Ugly Spreadsheet into an AI Assisted App with Antigravity](https://dev.to/googleai/how-i-turned-an-ugly-spreadsheet-into-an-ai-assisted-app-with-antigravity-3j52)
+- [Ran out of Cursor tokens and switched to GitHub Copilot: Side-by-Side](https://dev.to/maximsaplin/ran-out-of-cursor-tokens-and-switched-to-github-copilot-side-by-side-2n5p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
