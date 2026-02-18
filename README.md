@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a CLI tool to stop .env file chaos across environments](https://dev.to/atyah/i-built-a-cli-tool-to-stop-env-file-chaos-across-environments-4o4f)
-- [Making a Fetch Request &amp; POST Request with json-server in React &lpar;Beginner-to-Real App Guide&rpar;](https://dev.to/usama_dev/making-a-fetch-request-post-request-with-json-server-in-react-beginner-to-real-app-guide-35p5)
-- [Azure AI Agent Service Part 4: Production Patterns—State Management, Sessions, and Observability](https://dev.to/bspann/azure-ai-agent-service-part-4-production-patterns-state-management-sessions-and-observability-291n)
-- [Deploying Multi-Agent Systems to Azure AI Foundry &lpar;Azure AI Agent Service Part 5&rpar;](https://dev.to/bspann/deploying-multi-agent-systems-to-azure-ai-foundry-azure-ai-agent-service-part-5-3pk2)
-- [Azure AI Agent Service Part 3: Multi-Agent Orchestration with Semantic Kernel for .NET](https://dev.to/bspann/azure-ai-agent-service-part-3-multi-agent-orchestration-with-semantic-kernel-for-net-1me7)
+- [Automate Your Release Announcements: GitHub Release 4 Social Platforms with n8n](https://dev.to/_350df62777eb55e1/automate-your-release-announcements-github-release-4-social-platforms-with-n8n-1okd)
+- [Conceptual, Logical, and Physical Data Models Explained](https://dev.to/alexmercedcoder/conceptual-logical-and-physical-data-models-explained-h10)
+- [What Is Data Modeling? A Complete Guide](https://dev.to/alexmercedcoder/what-is-data-modeling-a-complete-guide-53lh)
+- [I Did My First Small Data Analysis Project Last Night: I&#39;m Hooked](https://dev.to/gwynnemichele/i-did-my-first-small-data-analysis-project-last-night-im-hooked-2cg6)
+- [I built a RAG system where hallucinations aren&#39;t acceptable. Here&#39;s what actually worked.](https://dev.to/buildsyncinc/i-built-a-rag-system-where-hallucinations-arent-acceptable-heres-what-actually-worked-b2e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
