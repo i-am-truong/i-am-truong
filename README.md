@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Complete Guide to Tech Job Search in 2026 &lpar;Tools, Strategy, and Timeline&rpar;](https://dev.to/matthew_hou_e8ab76d6be07b/the-complete-guide-to-tech-job-search-in-2026-tools-strategy-and-timeline-52pp)
-- [Introducing muxtree: Dead-Simple Worktree + Tmux Sessions for AI Coding](https://dev.to/b-d055/introducing-muxtree-dead-simple-worktree-tmux-sessions-for-ai-coding-2kf2)
-- [I Built a Privacy-First Image Resizer That Runs Entirely in Your Browser](https://dev.to/resizer/i-built-a-privacy-first-image-resizer-that-runs-entirely-in-your-browser-5dnp)
-- [Moving WSL Distributions to Another Drive](https://dev.to/octasoft-ltd/moving-wsl-distributions-to-another-drive-3id4)
-- [Edge Rendering vs Server Side Rendering: Performance Trade Offs Explained](https://dev.to/jasonbiondo/edge-rendering-vs-server-side-rendering-performance-trade-offs-explained-lmg)
+- [Day 17 of 100 Days of Code — Forms With Libraries in React](https://dev.to/m_saad_ahmad/day-17-of-100-days-of-code-forms-with-libraries-in-react-1nk6)
+- [Navigating the AI Frontier: A Framework for Product Leadership](https://dev.to/angelica_dacillo_31b1d789/navigating-the-ai-frontier-a-framework-for-product-leadership-46h8)
+- [The story behind building a simpler alternative to Shopify](https://dev.to/tharindufit/the-story-behind-building-a-simpler-alternative-to-shopify-3bcn)
+- [How I Built a Synthetic Goat Scream Pipeline &lpar;And the Tools Along the Way&rpar;](https://dev.to/aimatey/how-i-built-a-synthetic-goat-scream-pipeline-and-the-tools-along-the-way-1aln)
+- [Best Alternatives to Mastra AI and Why Calljmp Stands Out](https://dev.to/anna_chaykovskaya_9ad7aea/best-alternatives-to-mastra-ai-and-why-calljmp-stands-out-1j7p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
