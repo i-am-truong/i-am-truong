@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Content Integrity Protocol &lpar;ACIP&rpar;](https://dev.to/gaurav_suthar/ai-content-integrity-protocol-acip-97e)
-- [The First Operating System for AI Agents](https://dev.to/aipass/the-first-operating-system-for-ai-agents-4kib)
-- [SuperLocalMemory v2.7: Your AI Learns You — Adaptive Learning with Local ML](https://dev.to/varun_pratapbhardwaj_b13/superlocalmemory-v27-your-ai-learns-you-adaptive-learning-with-local-ml-8kn)
-- [Space Management: Where Bytes Are Won and Reclaimed in SQLite](https://dev.to/lovestaco/space-management-where-bytes-are-won-and-reclaimed-in-sqlite-p1o)
-- [Provide Private Storage for Internal Company Documents](https://dev.to/fredrick_chukwuma_13220c9/provide-private-storage-for-internal-company-documents-235k)
+- [CVE-2017-18892:When Templates Betray Security ## 📧 XSS in Email Templates - Mattermost Under](https://dev.to/asrarmared/cve-2017-18892when-templates-betray-security-xss-in-email-templates-mattermost-under-2de6)
+- [GHSA-RWJ8-P9VQ-25GV: OpenClaw BlueBubbles: When Your iMessage Bridge Becomes a Spy](https://dev.to/cverports/ghsa-rwj8-p9vq-25gv-openclaw-bluebubbles-when-your-imessage-bridge-becomes-a-spy-1m72)
+- [Ternary &amp; Conditional Expressions στην C#](https://dev.to/__b63657/ternary-conditional-expressions-sten-c-aic)
+- [Part 2: Complete Microservices Architecture - Fault Tolerance and Security](https://dev.to/leriaetnasta/part-2-complete-microservices-architecture-fault-tolerance-and-security-5c4e)
+- [BracketView&#39;s JQ Panel Just Got Smarter — AI-Powered Queries, Dynamic Filters &amp; More](https://dev.to/jameelshaikh/bracketviews-jq-panel-just-got-smarter-ai-powered-queries-dynamic-filters-more-17m9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
