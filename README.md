@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to persistently store object-type data on a hard drive using PersistentStorage](https://dev.to/harmonyos/how-to-persistently-store-object-type-data-on-a-hard-drive-using-persistentstorage-472f)
-- [Building an Open-Source Dip-Buying Strategy for Altcoins &lpar;Pine Script&rpar;](https://dev.to/s_morozov/building-an-open-source-dip-buying-strategy-for-altcoins-pine-script-1k8)
-- [Using Claude Code as a Free LLM Backend for Voice Agent Testing](https://dev.to/pld/using-claude-code-as-a-free-llm-backend-for-voice-agent-testing-40bg)
-- [Rethinking Jira &amp; Confluence: Deploy Your Own Customizable Issue &amp; Wiki Stack in Just 15 Minutes](https://dev.to/kent_testperspectiv/rethinking-jira-confluence-deploy-your-own-customizable-issue-wiki-stack-in-just-15-minutes-2kgl)
-- [5 Common Clarity Development Mistakes &lpar;And How to Fix Them&rpar;](https://dev.to/rajuice/5-common-clarity-development-mistakes-and-how-to-fix-them-3dl)
+- [On‑Chain Identity As The Glue &lpar;After 45 Days, Identity Looks Different&rpar;](https://dev.to/ribhavmodi/on-chain-identity-as-the-glue-after-45-days-identity-looks-different-3inm)
+- [I Let Three AI Agents Argue About My Architecture — Here&#39;s What Happened](https://dev.to/sujaypillai/i-let-three-ai-agents-argue-about-my-architecture-heres-what-happened-4d3)
+- [Beyond the Chatbot: Mastering Local RAG with Open WebUI and DeepSeek-R1](https://dev.to/lyraalishaikh/beyond-the-chatbot-mastering-local-rag-with-open-webui-and-deepseek-r1-101l)
+- [Welcome Thread - v365](https://dev.to/devteam/welcome-thread-v365-1n88)
+- [Understanding Stock Options &lpar;ESOPs&rpar; as a Junior Developer](https://dev.to/piotr-get-talent/understanding-stock-options-esops-as-a-junior-developer-45de)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
