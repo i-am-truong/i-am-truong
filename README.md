@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Tribute To Richard Pascoe](https://dev.to/bingkahu/tribute-to-richard-pascoe-127o)
-- [Introducing ts-dash: A Quick and Simple TypeScript Project Creator](https://dev.to/elylucas/introducing-ts-dash-a-quick-and-simple-typescript-project-creator-53k0)
-- [My Personal Blog Is Finally Live](https://dev.to/joacod/my-personal-blog-is-finally-live-46j9)
-- [How I Turned an Ugly Spreadsheet into an AI Assisted App with Antigravity](https://dev.to/googleai/how-i-turned-an-ugly-spreadsheet-into-an-ai-assisted-app-with-antigravity-3j52)
-- [Ran out of Cursor tokens and switched to GitHub Copilot: Side-by-Side](https://dev.to/maximsaplin/ran-out-of-cursor-tokens-and-switched-to-github-copilot-side-by-side-2n5p)
+- [AI Content Integrity Protocol &lpar;ACIP&rpar;](https://dev.to/gaurav_suthar/ai-content-integrity-protocol-acip-97e)
+- [The First Operating System for AI Agents](https://dev.to/aipass/the-first-operating-system-for-ai-agents-4kib)
+- [SuperLocalMemory v2.7: Your AI Learns You — Adaptive Learning with Local ML](https://dev.to/varun_pratapbhardwaj_b13/superlocalmemory-v27-your-ai-learns-you-adaptive-learning-with-local-ml-8kn)
+- [Space Management: Where Bytes Are Won and Reclaimed in SQLite](https://dev.to/lovestaco/space-management-where-bytes-are-won-and-reclaimed-in-sqlite-p1o)
+- [Provide Private Storage for Internal Company Documents](https://dev.to/fredrick_chukwuma_13220c9/provide-private-storage-for-internal-company-documents-235k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
