@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built an open-source Vercel alternative in Rust — here&#39;s what I learned](https://dev.to/david_viejo_4d48fdfa7cfff/i-built-an-open-source-vercel-alternative-in-rust-heres-what-i-learned-3oel)
-- [Scaling From 3 Cinemas to 240 Venues: What Broke and What Evolved](https://dev.to/alistairjcbrown/scaling-from-3-cinemas-to-240-venues-what-broke-and-what-evolved-2jkk)
-- [Is Software Engineering Dead? 2026 Complete Career Guide](https://dev.to/dev_narratives_023afd008e/is-software-engineering-dead-2026-complete-career-guide-4588)
-- [A Guide To Using The Interswitch API Marketplace](https://dev.to/chizurum/a-guide-to-using-the-interswitch-api-marketplace-m9n)
-- [Stop Looking at Documentation - If You Use an MCP Server](https://dev.to/thecoder93/stop-looking-at-documentation-if-you-use-an-mcp-server-512b)
+- [Managing Docker Composes via GitOps - Conops](https://dev.to/anuraggupta/managing-docker-composes-via-gitops-conops-54be)
+- [Unit vs Component Tests in Spring: Where the Boundary Lies and Why You Need Both](https://dev.to/dmitry_turmyshev/unit-vs-component-tests-in-spring-where-the-boundary-lies-and-why-you-need-both-3g4p)
+- [Existential Dread and the End of Programming](https://dev.to/david_whitney/existential-dread-and-the-end-of-programming-39kp)
+- [AI Ethics in Practice: Building Responsible AI Applications with Bias Detection and Fairness Testing](https://dev.to/paul_robertson_e844997d2b/ai-ethics-in-practice-building-responsible-ai-applications-with-bias-detection-and-fairness-testing-7ga)
+- [From Linux Basics to Remote Deployment: A 6 Day DevOps Foundation Project](https://dev.to/oyawole_damilola_e3821568/from-linux-basics-to-remote-deployment-a-6-day-devops-foundation-project-jo1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
