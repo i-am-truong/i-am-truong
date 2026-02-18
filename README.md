@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with AWS EC2 Key Pairs](https://dev.to/onyidominic/getting-started-with-aws-ec2-key-pairs-2gm8)
-- [Lessons Learned from Running a Privacy-First Disposable Email Service: Insights from nullmail.cc](https://dev.to/gkoos/lessons-learned-from-running-a-privacy-first-disposable-email-service-insights-from-nullmailcc-375g)
-- [Stop AI Hallucinations in Your Code Editor with Context7 MCP](https://dev.to/stkdom/stop-ai-hallucinations-in-your-code-editor-with-context7-mcp-3h45)
-- [Creating a SharePoint List Is the Easy Part](https://dev.to/ngssolution23/creating-a-sharepoint-list-is-the-easy-part-4l04)
-- [We fail every day, but that failure becomes the success of our next attempt &lpar;feat. Claude Code&rpar;](https://dev.to/elbanic/we-fail-every-day-but-that-failure-becomes-the-success-of-our-next-attempt-feat-claude-code-16cg)
+- [I made an LLM visibility tool](https://dev.to/scorder/i-made-an-llm-visibility-tool-5il)
+- [Code Scalpel: Making Software Development with AI Agents Cheaper, Governable, Accurate, and Safe](https://dev.to/tescolopio/code-scalpel-making-software-development-with-ai-agents-cheaper-governable-accurate-and-safe-4aao)
+- [Building a City-Based SEO Platform with Django and Structured Data](https://dev.to/preku_cl/building-a-city-based-seo-platform-with-django-and-structured-data-f3m)
+- [Stop Writing Brittle Tests: The Smart Locator Strategy Every Playwright Dev Needs](https://dev.to/jagadeeshjayachandran/stop-writing-brittle-tests-the-smart-locator-strategy-every-playwright-dev-needs-45ki)
+- [The Manifesto That Keeps Our Remote Team Moving Fast](https://dev.to/slickstef11/the-manifesto-that-keeps-our-remote-team-moving-fast-1118)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
