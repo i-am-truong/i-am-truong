@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 17 of 100 Days of Code — Forms With Libraries in React](https://dev.to/m_saad_ahmad/day-17-of-100-days-of-code-forms-with-libraries-in-react-1nk6)
-- [Navigating the AI Frontier: A Framework for Product Leadership](https://dev.to/angelica_dacillo_31b1d789/navigating-the-ai-frontier-a-framework-for-product-leadership-46h8)
-- [The story behind building a simpler alternative to Shopify](https://dev.to/tharindufit/the-story-behind-building-a-simpler-alternative-to-shopify-3bcn)
-- [How I Built a Synthetic Goat Scream Pipeline &lpar;And the Tools Along the Way&rpar;](https://dev.to/aimatey/how-i-built-a-synthetic-goat-scream-pipeline-and-the-tools-along-the-way-1aln)
-- [Best Alternatives to Mastra AI and Why Calljmp Stands Out](https://dev.to/anna_chaykovskaya_9ad7aea/best-alternatives-to-mastra-ai-and-why-calljmp-stands-out-1j7p)
+- [Voice Agent Evaluation with LLM Judges: How It Works](https://dev.to/pld/voice-agent-evaluation-with-llm-judges-how-it-works-11hb)
+- [Beyond Blogging: Creating a Technical Showcase and Learning Platform](https://dev.to/cdameworth/beyond-blogging-creating-a-technical-showcase-and-learning-platform-37n1)
+- [.Net Learning Notes: Custom In-Memory Provider&lpar;4&rpar; - ReadPath - From IQueryable to Result Execution](https://dev.to/alexleeeeeeeeee/net-learning-notes-custom-in-memory-provider4-readpath-from-iqueryable-to-result-execution-f9l)
+- [Automating entire workflows with ralph-starter](https://dev.to/rubenmarcus/automating-entire-workflows-with-ralph-starter-43gc)
+- [Leetcode 696 Solution Explained](https://dev.to/mahua_vaidya221030396_46/leetcode-696-solution-explained-3425)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
