@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why I Built InnoStore: Helping Vendors Move Beyond ‘DM to Order’](https://dev.to/bikeinnocent/why-i-built-innostore-helping-vendors-move-beyond-dm-to-order-1ki8)
-- [Daily Challenge #7 : The &quot;Recursive&quot; Folder Tree 📂](https://dev.to/bingkahu/daily-challenge-7-the-recursive-folder-tree-54mn)
-- [The Single Point of Failure in Google SSO](https://dev.to/samywrites/the-single-point-of-failure-in-google-sso-3l7h)
-- [AI Partnership Over Replacement: Stanford&#39;s $10B Misalignment Problem](https://dev.to/dr_hernani_costa/ai-partnership-over-replacement-stanfords-10b-misalignment-problem-49c7)
-- [Your AI Tools Make You 10x Faster. So Why Isn&#39;t Your Company 10x Productive?](https://dev.to/nader0913/your-ai-tools-make-you-10x-faster-so-why-isnt-your-company-10x-productive-ime)
+- [OpenClaw Browser Relay Extension — Powered by PAIO](https://dev.to/namra_alam_846e6dcb5d2359/openclaw-browser-relay-extension-powered-by-paio-2m24)
+- [What Are Core Web Vitals? A Practical Guide for 2026](https://dev.to/apogeewatcher/what-are-core-web-vitals-a-practical-guide-for-2026-382n)
+- [Securing Your App with Access and Refresh Tokens: A Practical Guide](https://dev.to/chukwu3meka/securing-your-app-with-access-and-refresh-tokens-a-practical-guide-28a1)
+- [How I Built a Side-by-Side Font Comparison Tool &lpar;And Accidentally Learned Way Too Much About Browser APIs&rpar;](https://dev.to/afsar_khan/how-i-built-a-side-by-side-font-comparison-tool-and-accidentally-learned-way-too-much-about-1l12)
+- [5 DataFrame Operations LLMs Handle Better Than Code](https://dev.to/hnykda/5-dataframe-operations-llms-handle-better-than-code-436a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
