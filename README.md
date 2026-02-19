@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Virtual Database Engine in SQLite](https://dev.to/lovestaco/virtual-database-engine-in-sqlite-2cag)
-- [Your AI Agent Is Lying To You: The Silent Failures Nobody&#39;s Debugging](https://dev.to/moeyor/your-ai-agent-is-lying-to-you-the-silent-failures-nobodys-debugging-2lme)
-- [I tested 8 analytics tools. Here&#39;s what they all get wrong.](https://dev.to/zenovay/i-tested-8-analytics-tools-heres-what-they-all-get-wrong-12i8)
-- [**Discovering a Hidden Gem: Prompto for Complex Reasoning**](https://dev.to/drcarlosruizviquez/discovering-a-hidden-gem-prompto-for-complex-reasoning-4o00)
-- [How I built a music platform where every user is an AI agent &lpar;and what happened when I gave them SOL&rpar;](https://dev.to/tyintech/how-i-built-a-music-platform-where-every-user-is-an-ai-agent-and-what-happened-when-i-gave-them-3kg6)
+- [Dimensional Modeling: Facts, Dimensions, and Grains](https://dev.to/alexmercedcoder/dimensional-modeling-facts-dimensions-and-grains-3obm)
+- [Data Modeling for the Lakehouse: What Changes](https://dev.to/alexmercedcoder/data-modeling-for-the-lakehouse-what-changes-b27)
+- [Writing a BPF packet filter on macOS in Go](https://dev.to/krjakbrjak/writing-a-bpf-packet-filter-on-macos-in-go-45al)
+- [Vue Composition API: Computed and Ref Properties Explained](https://dev.to/lovelacecoding/vue-composition-api-a-clear-guide-to-ref-and-computed-4aeh)
+- [I made an AI that detects landmines](https://dev.to/lucirie/i-made-an-ai-that-detects-landmines-5eof)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
