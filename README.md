@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Fundamentals of ADK Learning Path](https://dev.to/asrar_khan/fundamentals-of-adk-learning-path-499h)
-- [Choosing the Right Vector Embedding Model and Dimension: A School Analogy That Makes Everything Clear](https://dev.to/sreeni5018/choosing-the-right-vector-embedding-model-and-dimension-a-school-analogy-that-makes-everything-1e1d)
-- [Week 6 OAuth2 Conceptual Quiz](https://dev.to/fosres/week-6-oauth2-conceptual-quiz-463d)
-- [I Built a Cursor Plugin to Track My Team&#39;s AI Spend From the IDE](https://dev.to/ofershap/i-built-a-cursor-plugin-to-track-my-teams-ai-spend-from-the-ide-2d53)
-- [How I Made My First $1,000 Freelancing on the Side &lpar;While Working Full-Time&rpar;](https://dev.to/matthewhou/how-i-made-my-first-1000-freelancing-on-the-side-while-working-full-time-3ilc)
+- [I Tried Running File Conversion Fully in the Browser &lpar;WASM, LibreOffice, FFmpeg&rpar;](https://dev.to/digitalofen/i-tried-running-file-conversion-fully-in-the-browser-wasm-libreoffice-ffmpeg-57mh)
+- [Spring Crud Generator v1.2.0 — Improved DB Compatibility, JSON Collections, and More Reliable Docker Runs](https://dev.to/mzivkovicdev/spring-crud-generator-v120-improved-db-compatibility-json-collections-and-more-reliable-485e)
+- [List in Java](https://dev.to/vishnu_vishnu_856744a4421/list-in-java-2o0m)
+- [VoxCPM: A Novel Tokenizer-Free Approach to Context-Aware Speech Generation and Voice Cloning](https://dev.to/stelixx-insider/voxcpm-a-novel-tokenizer-free-approach-to-context-aware-speech-generation-and-voice-cloning-pme)
+- [How I Automated Employee Leave Requests with Make.com &lpar;Free Tools Only&rpar;](https://dev.to/alexkraft/how-i-automated-employee-leave-requests-with-makecom-free-tools-only-5003)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
