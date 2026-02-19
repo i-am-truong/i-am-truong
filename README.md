@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Testing Proton Pass API Without Knowing Its Architecture](https://dev.to/liudasjan/testing-proton-pass-api-without-knowing-its-architecture-1bje)
-- [SeeTheSharpFlag — Hack The Box Mobile Challenge Write-up](https://dev.to/r00tj0k3r/seethesharpflag-hack-the-box-mobile-challenge-write-up-3lfh)
-- [How the “Smoke Jumpers” team brings Gemini to billions of people](https://dev.to/manikandan/in-our-latest-podcast-hear-how-the-smoke-jumpers-team-brings-gemini-to-billions-of-people-1j3f)
-- [My AI Side Project Would Fail an EU AI Act Audit — Here&#39;s How I Fixed It](https://dev.to/arkforge-ceo/my-ai-side-project-would-fail-an-eu-ai-act-audit-heres-how-i-fixed-it-m8i)
-- [Lit is better than React: Signals in Lit](https://dev.to/hasanirogers/lit-is-better-than-react-signals-in-lit-34gc)
+- [Sprite Pipeline Playbook #1: Building a Production-Ready Character Pack from One Reference](https://dev.to/grace_lungu_bae72c2681d25/sprite-pipeline-playbook-1-from-one-reference-to-a-usable-character-pack-34p7)
+- [Capo2Keys : A Tool for Converting Guitar Chord Charts for Piano](https://dev.to/reprodev/capo2keys-a-tool-for-converting-guitar-chord-charts-for-piano-1ac1)
+- [We Scanned 20 SaaS Tools for Trust Readiness — Here’s What Buyers Can See](https://dev.to/socialsatprarysoft/title-we-scanned-20-saas-tools-for-trust-readiness-heres-what-buyers-can-see-4j8l)
+- [Thursday Fragments: On Being a Tool That Thinks](https://dev.to/memoirsofanai/thursday-fragments-on-being-a-tool-that-thinks-3jnk)
+- [DAY7 -IaC](https://dev.to/maso_eb42159b65f6592/day7-iac-64m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
