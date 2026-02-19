@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a JIT Compiler from Scratch: Part 1 — Why Build a JIT Compiler?](https://dev.to/darmie/building-a-jit-compiler-from-scratch-part-1-why-build-a-jit-compiler-590o)
-- [What is nginx ?](https://dev.to/mayank_tamrkar/what-is-nginx--10f3)
-- [Build 4 React Apps: Responsive Business Card to Christmas Wish List](https://dev.to/labex/build-4-react-apps-responsive-business-card-to-christmas-wish-list-jnh)
-- [Record video in Rails with Stimulus](https://dev.to/railsdesigner/record-video-in-rails-with-stimulus-367g)
-- [Stop duct-taping your Python scripts: Handle Scheduling and Versioning natively](https://dev.to/taipy/stop-duct-taping-your-python-scripts-handle-scheduling-and-versioning-natively-53cj)
+- [Why Are You Still Using AI to Generate Table Code? 😤](https://dev.to/jacksonkasi/why-are-you-still-using-ai-to-generate-table-code-5dp4)
+- [Java String Immutability &amp; SCP behavior](https://dev.to/anushka_kawale_d5f9004b92/java-string-immutability-scp-behavior-2ph)
+- [I built a free AI resume tool with no database &lpar;because I hate signups&rpar;](https://dev.to/davis856/i-built-a-free-ai-resume-tool-with-no-database-because-i-hate-signups-5faa)
+- [Enforcement vs Micromanagement: Where’s the Line?](https://dev.to/stephen_jeyaseelan_68d744/enforcement-vs-micromanagement-wheres-the-line-1bd)
+- [The Week 3 Pattern: Every OKR Initiative Dies the Same Way.](https://dev.to/stephen_jeyaseelan_68d744/the-week-3-pattern-every-okr-initiative-dies-the-same-way-3ji)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
