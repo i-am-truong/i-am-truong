@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🧄 [Project] A Garlic Farmer&#39;s garlic-agent: Inspired by OpenClaw, Built on Android Termux with 6K Documents](https://dev.to/c_ckp_3d3e45d77ceafe05823/project-project-a-garlic-farmers-garlic-agent-inspired-by-openclaw-built-on-android-termux-4009)
 - [I Tried Running File Conversion Fully in the Browser &lpar;WASM, LibreOffice, FFmpeg&rpar;](https://dev.to/digitalofen/i-tried-running-file-conversion-fully-in-the-browser-wasm-libreoffice-ffmpeg-57mh)
+- [From Legacy to Leading Edge: Digital Transformation Success Stories in South Africa](https://dev.to/new_phase_solutions/from-legacy-to-leading-edge-digital-transformation-success-stories-in-south-africa-4ihh)
+- [I Spent 3 Months Solving a Security Gap Nobody Talks About: LLM Artifact Integrity](https://dev.to/ogulcanaydogan/i-spent-3-months-solving-a-security-gap-nobody-talks-about-llm-artifact-integrity-6co)
 - [Spring Crud Generator v1.2.0 — Improved DB Compatibility, JSON Collections, and More Reliable Docker Runs](https://dev.to/mzivkovicdev/spring-crud-generator-v120-improved-db-compatibility-json-collections-and-more-reliable-485e)
-- [List in Java](https://dev.to/vishnu_vishnu_856744a4421/list-in-java-2o0m)
-- [VoxCPM: A Novel Tokenizer-Free Approach to Context-Aware Speech Generation and Voice Cloning](https://dev.to/stelixx-insider/voxcpm-a-novel-tokenizer-free-approach-to-context-aware-speech-generation-and-voice-cloning-pme)
-- [How I Automated Employee Leave Requests with Make.com &lpar;Free Tools Only&rpar;](https://dev.to/alexkraft/how-i-automated-employee-leave-requests-with-makecom-free-tools-only-5003)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
