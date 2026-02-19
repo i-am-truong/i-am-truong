@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Dimensional Modeling: Facts, Dimensions, and Grains](https://dev.to/alexmercedcoder/dimensional-modeling-facts-dimensions-and-grains-3obm)
-- [Data Modeling for the Lakehouse: What Changes](https://dev.to/alexmercedcoder/data-modeling-for-the-lakehouse-what-changes-b27)
-- [Writing a BPF packet filter on macOS in Go](https://dev.to/krjakbrjak/writing-a-bpf-packet-filter-on-macos-in-go-45al)
-- [Vue Composition API: Computed and Ref Properties Explained](https://dev.to/lovelacecoding/vue-composition-api-a-clear-guide-to-ref-and-computed-4aeh)
-- [I made an AI that detects landmines](https://dev.to/lucirie/i-made-an-ai-that-detects-landmines-5eof)
+- [I Built a Rust Compiler for a 20-Year-Old Mac &lpar;Borrow Checker and All&rpar;](https://dev.to/scottcjn/i-built-a-rust-compiler-for-a-20-year-old-mac-borrow-checker-and-all-37n7)
+- [How We Made &#39;One CPU, One Vote&#39; Actually Work &lpar;After 17 Years of Broken Promises&rpar;](https://dev.to/scottcjn/how-we-made-one-cpu-one-vote-actually-work-after-17-years-of-broken-promises-1ioo)
+- [Self-Hosting a Vision Model on a Datacenter GPU: BAGEL-7B-MoT on a Tesla V100](https://dev.to/scottcjn/self-hosting-a-vision-model-on-a-datacenter-gpu-bagel-7b-mot-on-a-tesla-v100-4mm4)
+- [I&#39;m Porting Node.js 22 to a 20-Year-Old Power Mac G5. It&#39;s Going About as Well as You&#39;d Expect.](https://dev.to/scottcjn/im-porting-nodejs-22-to-a-20-year-old-power-mac-g5-its-going-about-as-well-as-youd-expect-529g)
+- [How We Added Machine-to-Machine Payments to an AI Video Platform in One Session](https://dev.to/scottcjn/how-we-added-machine-to-machine-payments-to-an-ai-video-platform-in-one-session-54mi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
