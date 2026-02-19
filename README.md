@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Instalando o NVM sem privilégios administrativos no Windows &lpar;10/11&rpar;](https://dev.to/mvilasboas/instalando-o-nvm-sem-privilegios-administrativos-no-windows-1011-jg9)
-- [Hand the mic to your users and testers](https://dev.to/davidisaac/hand-the-mic-to-your-users-and-testers-308i)
-- [I Got Tired of Guessing My Claude Quota, So I Made a Robot Read It For Me](https://dev.to/tommy_leonhardsen_81d1f4e/i-got-tired-of-guessing-my-claude-quota-so-i-made-a-robot-read-it-for-me-3513)
-- [All my Articles by Theme](https://dev.to/bcouetil/all-my-articles-by-theme-463k)
-- [5 reasons why you should learn to code even if you are unsure if you want to pursue a career as a full-time programmer](https://dev.to/derkxyz/5-reasons-why-you-should-learn-to-code-even-if-you-are-unsure-if-you-want-to-pursue-a-career-as-a-3ema)
+- [WebAssembly &lpar;Wasm&rpar; at the Edge: Why the Future of Serverless is not Docker](https://dev.to/agp_marka_62a62d1cdadad70/webassembly-wasm-at-the-edge-why-the-future-of-serverless-is-not-docker-5368)
+- [Why did you become a Developer?](https://dev.to/francistrdev/why-did-you-become-a-developer-57ea)
+- [Gemini 3.1 Pro: A smarter model for your most complex tasks](https://dev.to/googleai/gemini-31-pro-a-smarter-model-for-your-most-complex-tasks-53h2)
+- [The Ultimate Guide to Self-Reflective RAG &lpar;CRAG&rpar;: Solving the Hallucination Crisis](https://dev.to/agp_marka_62a62d1cdadad70/the-ultimate-guide-to-self-reflective-rag-crag-solving-the-hallucination-crisis-27hf)
+- [Tailwind CSS vs MUI vs Ant Design — Which One Should You Choose in 2026?](https://dev.to/wafa_bergaoui/tailwind-css-vs-mui-vs-ant-design-which-one-should-you-choose-in-2026-3pjb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
