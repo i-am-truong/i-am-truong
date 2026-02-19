@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Voice Agent Evaluation with LLM Judges: How It Works](https://dev.to/pld/voice-agent-evaluation-with-llm-judges-how-it-works-11hb)
-- [Beyond Blogging: Creating a Technical Showcase and Learning Platform](https://dev.to/cdameworth/beyond-blogging-creating-a-technical-showcase-and-learning-platform-37n1)
-- [.Net Learning Notes: Custom In-Memory Provider&lpar;4&rpar; - ReadPath - From IQueryable to Result Execution](https://dev.to/alexleeeeeeeeee/net-learning-notes-custom-in-memory-provider4-readpath-from-iqueryable-to-result-execution-f9l)
-- [Automating entire workflows with ralph-starter](https://dev.to/rubenmarcus/automating-entire-workflows-with-ralph-starter-43gc)
-- [Leetcode 696 Solution Explained](https://dev.to/mahua_vaidya221030396_46/leetcode-696-solution-explained-3425)
+- [Three.js Architecture: ECS](https://dev.to/i_babkov/threejs-architecture-ecs-3fg2)
+- [Suffering from BUGS: How I Almost Deleted My Entire Project](https://dev.to/maame-codes/suffering-from-bugs-how-i-almost-deleted-my-entire-project-1eef)
+- [INSTALAÇÃO OUTLINE WIKI EM CONTAINER PROXMOX](https://dev.to/lucasesg/instalacao-outline-wiki-5a00)
+- [The Ultimate Databricks Data Engineer Associate Exam Guide for AWS Engineers](https://dev.to/datatechbridge/the-ultimate-databricks-data-engineer-associate-exam-guide-for-aws-engineers-4662)
+- [I built an auto PID tuning tool for Betaflight — here&#39;s how it works under the hood](https://dev.to/fpvtune/i-built-an-auto-pid-tuning-tool-for-betaflight-heres-how-it-works-under-the-hood-okg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
