@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🪟 gwt — Stupidly Simple Git Worktrees in PowerShell. Isolated Branches for AI Coding.](https://dev.to/aasimsani/gwt-stupidly-simple-git-worktrees-in-powershell-isolated-branches-for-ai-coding-33i3)
-- [🌳 gwt — Stupidly Simple Git Worktrees. Isolated Branches for AI Coding.](https://dev.to/aasimsani/gwt-stupidly-simple-git-worktrees-isolated-branches-for-ai-coding-120k)
-- [Build an AI Shopping Agent in 50 Lines of TypeScript](https://dev.to/ucptools/build-an-ai-shopping-agent-in-50-lines-of-typescript-ggd)
-- [API Monitor for the Terminal](https://dev.to/nathan_melegari/api-monitor-for-the-terminal-2ejg)
-- [How to implement “CreatedAt” and “UpdatedAt” timestamps in Entity Framework Core?](https://dev.to/tbayramov/how-to-implement-createdat-and-updatedat-timestamps-in-entity-framework-core-4mec)
+- [I Built a Chrome Extension to Copy URLs Faster — Here&#39;s What I Learned](https://dev.to/roman-builder/i-built-a-chrome-extension-to-copy-urls-faster-heres-what-i-learned-2pil)
+- [I Built a WBC 2026 Scouting Dashboard with MLB Statcast Data](https://dev.to/yasumorishima/i-built-a-wbc-2026-scouting-dashboard-with-mlb-statcast-data-4j5f)
+- [Proof-Driven Engineering: Turning “We Think” Into “We Can Show”](https://dev.to/sonia_bobrik_1939cdddd79d/proof-driven-engineering-turning-we-think-into-we-can-show-1e5b)
+- [Getting Kiro CLI to use short lived AWS credentials](https://dev.to/aws/getting-kiro-cli-to-use-short-lived-aws-credentials-55d2)
+- [Should I keep my face on camera with my accent, or go faceless with a polished AI voice?](https://dev.to/jaymoreno/should-i-keep-my-face-on-camera-with-my-accent-or-go-faceless-with-a-polished-ai-voice-5225)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
