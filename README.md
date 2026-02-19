@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Fundamentals of ADK Learning Path](https://dev.to/asrar_khan/fundamentals-of-adk-learning-path-499h)
 - [Choosing the Right Vector Embedding Model and Dimension: A School Analogy That Makes Everything Clear](https://dev.to/sreeni5018/choosing-the-right-vector-embedding-model-and-dimension-a-school-analogy-that-makes-everything-1e1d)
 - [Week 6 OAuth2 Conceptual Quiz](https://dev.to/fosres/week-6-oauth2-conceptual-quiz-463d)
 - [I Built a Cursor Plugin to Track My Team&#39;s AI Spend From the IDE](https://dev.to/ofershap/i-built-a-cursor-plugin-to-track-my-teams-ai-spend-from-the-ide-2d53)
 - [How I Made My First $1,000 Freelancing on the Side &lpar;While Working Full-Time&rpar;](https://dev.to/matthewhou/how-i-made-my-first-1000-freelancing-on-the-side-while-working-full-time-3ilc)
-- [The Debugging Framework That Finds Every Bug in Under 30 Minutes](https://dev.to/matthewhou/the-debugging-framework-that-finds-every-bug-in-under-30-minutes-lhi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
