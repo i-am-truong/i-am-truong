@@ -120,13 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [OpenClaw and GDPR](https://dev.to/markus_tretzmller_1d02bf/openclaw-and-gdpr-5e40)
-- [When a Model Goes Wide Instead of Deep: Installing Quality Gates That Actually Hold](https://dev.to/john_wade_dev/when-a-model-goes-wide-instead-of-deep-installing-quality-gates-that-actually-hold-5gj9)
-- [Final Round AI Alternatives in 2026: What Engineers Should Actually Pay Attention To](https://dev.to/finalroundai/final-round-ai-alternatives-in-2026-what-engineers-should-actually-pay-attention-to-41oc)
-- [I recently learnt the ASP.NET Core request flow:
-Client Kestrel Middleware Routing Controller Response 
-Kestrel receives it, Middleware processes it, routing finds the endpoint, controller runs logic, then response travels back through Middleware](https://dev.to/prajjwal203/i-recently-learnt-the-aspnet-core-request-flow-client-kestrel-middleware-routing--27ob)
-- [Artificial Intelligence Coding Is Turning Into Vibe Working: What Still Breaks](https://dev.to/sashido/artificial-intelligence-coding-is-turning-into-vibe-working-what-still-breaks-1fj1)
+- [Mastering Serverless Architecture: Event-Driven Design with Azure Functions and Cosmos DB](https://dev.to/jubinsoni/mastering-serverless-architecture-event-driven-design-with-azure-functions-and-cosmos-db-2ef5)
+- [ShadNG for Angular: Shadcn/UI-Inspired Design System With Icons, MCP, and Skills](https://dev.to/alimjan_ablikim_cf79f17a6/shadng-for-angular-shadcnui-inspired-design-system-with-icons-mcp-and-skills-313)
+- [What “Agentic AI” Actually Means &lpar;In Practice&rpar;](https://dev.to/shaheryaryousaf/what-agentic-ai-actually-means-in-practice-14ih)
+- [I Burned Out at a FAANG and It Took 18 Months to Recover. Here Are the Warning Signs I Ignored.](https://dev.to/matthew_hou_e8ab76d6be07b/i-burned-out-at-a-faang-and-it-took-18-months-to-recover-here-are-the-warning-signs-i-ignored-3ffg)
+- [I&#39;ve Reviewed 300+ API Designs. Here Are the 9 Mistakes Everyone Makes. in the comments.*](https://dev.to/matthew_hou_e8ab76d6be07b/ive-reviewed-300-api-designs-here-are-the-9-mistakes-everyone-makes-in-the-comments-28l0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
