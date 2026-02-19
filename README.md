@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hybrid Orchestration Basics: Avoiding Single-Provider Risks in 2026](https://dev.to/daya-shankar/hybrid-orchestration-basics-avoiding-single-provider-risks-in-2026-5951)
-- [OpenAI a perdu 22 points en 12 mois : Le marché IA se recompose.](https://dev.to/agaches/openai-a-perdu-22-points-en-12-mois-le-marche-ia-se-recompose-4g3d)
-- [Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools](https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo)
-- [Check out how to get started with Google Workspace Studio](https://dev.to/googleworkspace/check-out-how-to-get-started-with-google-workspace-studio-3pb7)
-- [Presenting a Modern Markdown Viewer with Mermaid, MathJax, and PDF Export](https://dev.to/akshit_suthar/presenting-a-modern-markdown-viewer-with-mermaid-mathjax-and-pdf-export-1lce)
+- [Testing Proton Pass API Without Knowing Its Architecture](https://dev.to/liudasjan/testing-proton-pass-api-without-knowing-its-architecture-1bje)
+- [SeeTheSharpFlag — Hack The Box Mobile Challenge Write-up](https://dev.to/r00tj0k3r/seethesharpflag-hack-the-box-mobile-challenge-write-up-3lfh)
+- [How the “Smoke Jumpers” team brings Gemini to billions of people](https://dev.to/manikandan/in-our-latest-podcast-hear-how-the-smoke-jumpers-team-brings-gemini-to-billions-of-people-1j3f)
+- [My AI Side Project Would Fail an EU AI Act Audit — Here&#39;s How I Fixed It](https://dev.to/arkforge-ceo/my-ai-side-project-would-fail-an-eu-ai-act-audit-heres-how-i-fixed-it-m8i)
+- [Lit is better than React: Signals in Lit](https://dev.to/hasanirogers/lit-is-better-than-react-signals-in-lit-34gc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
