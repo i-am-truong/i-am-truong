@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Are You Still Using AI to Generate Table Code? 😤](https://dev.to/jacksonkasi/why-are-you-still-using-ai-to-generate-table-code-5dp4)
-- [Java String Immutability &amp; SCP behavior](https://dev.to/anushka_kawale_d5f9004b92/java-string-immutability-scp-behavior-2ph)
-- [I built a free AI resume tool with no database &lpar;because I hate signups&rpar;](https://dev.to/davis856/i-built-a-free-ai-resume-tool-with-no-database-because-i-hate-signups-5faa)
-- [Enforcement vs Micromanagement: Where’s the Line?](https://dev.to/stephen_jeyaseelan_68d744/enforcement-vs-micromanagement-wheres-the-line-1bd)
-- [The Week 3 Pattern: Every OKR Initiative Dies the Same Way.](https://dev.to/stephen_jeyaseelan_68d744/the-week-3-pattern-every-okr-initiative-dies-the-same-way-3ji)
+- [Instalando o NVM sem privilégios administrativos no Windows &lpar;10/11&rpar;](https://dev.to/mvilasboas/instalando-o-nvm-sem-privilegios-administrativos-no-windows-1011-jg9)
+- [Hand the mic to your users and testers](https://dev.to/davidisaac/hand-the-mic-to-your-users-and-testers-308i)
+- [I Got Tired of Guessing My Claude Quota, So I Made a Robot Read It For Me](https://dev.to/tommy_leonhardsen_81d1f4e/i-got-tired-of-guessing-my-claude-quota-so-i-made-a-robot-read-it-for-me-3513)
+- [All my Articles by Theme](https://dev.to/bcouetil/all-my-articles-by-theme-463k)
+- [5 reasons why you should learn to code even if you are unsure if you want to pursue a career as a full-time programmer](https://dev.to/derkxyz/5-reasons-why-you-should-learn-to-code-even-if-you-are-unsure-if-you-want-to-pursue-a-career-as-a-3ema)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
