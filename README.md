@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Three.js Architecture: ECS](https://dev.to/i_babkov/threejs-architecture-ecs-3fg2)
-- [Suffering from BUGS: How I Almost Deleted My Entire Project](https://dev.to/maame-codes/suffering-from-bugs-how-i-almost-deleted-my-entire-project-1eef)
-- [INSTALAÇÃO OUTLINE WIKI EM CONTAINER PROXMOX](https://dev.to/lucasesg/instalacao-outline-wiki-5a00)
-- [The Ultimate Databricks Data Engineer Associate Exam Guide for AWS Engineers](https://dev.to/datatechbridge/the-ultimate-databricks-data-engineer-associate-exam-guide-for-aws-engineers-4662)
-- [I built an auto PID tuning tool for Betaflight — here&#39;s how it works under the hood](https://dev.to/fpvtune/i-built-an-auto-pid-tuning-tool-for-betaflight-heres-how-it-works-under-the-hood-okg)
+- [🔍 Build a Desktop File Content Search App with Python &amp; Tkinter](https://dev.to/matetechnologie/build-a-desktop-file-content-search-app-with-python-tkinter-4mg5)
+- [I Built a Serverless X &lpar;Twitter&rpar; Quote Bot with AWS Lambda + S3 + DynamoDB](https://dev.to/aws-builders/i-built-a-serverless-x-twitter-quote-bot-with-aws-lambda-s3-dynamodb-3mnd)
+- [Can a Web App Carry Philosophy? Building a Devotional Platform with Next.js](https://dev.to/preeti_yadav/can-a-web-app-carry-philosophy-building-a-devotional-platform-with-nextjs-3blk)
+- [# Why Your LLM App Breaks at Scale — 7 Architecture Mistakes Most AI Startups Make](https://dev.to/cloyouai/-why-your-llm-app-breaks-at-scale-7-architecture-mistakes-most-ai-startups-make-5def)
+- [Building long-running usage reports on AWS](https://dev.to/aws-builders/building-long-running-usage-reports-on-aws-with-event-driven-orchestration-45ba)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
