@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Chaos to Clarity: Turning Temple Operations into a Structured Digital System](https://dev.to/neelima_dhingra_9ca91ba7e/from-chaos-to-clarity-turning-temple-operations-into-a-structured-digital-system-30fn)
-- [Finite State Machines: The Most Underused Design Pattern in Frontend Development](https://dev.to/osama_alghanmi_3a45d72c33/finite-state-machines-the-most-underused-design-pattern-in-frontend-development-4dfp)
-- [Voice AI APIs and the Next Wave of Developer-Built Audio Applications](https://dev.to/ben_blog/voice-ai-apis-and-the-next-wave-of-developer-built-audio-applications-4cal)
-- [What Building a Temple Pooja Booking System Teaches Us About Real-World Digital Transformation](https://dev.to/neelima_dhingra_9ca91ba7e/what-building-a-temple-pooja-booking-system-teaches-us-about-real-world-digital-transformation-2llj)
-- [“Build in Public” Posts](https://dev.to/vasu_sharma_44aab47557610/build-in-public-posts-11h4)
+- [Hybrid Orchestration Basics: Avoiding Single-Provider Risks in 2026](https://dev.to/daya-shankar/hybrid-orchestration-basics-avoiding-single-provider-risks-in-2026-5951)
+- [OpenAI a perdu 22 points en 12 mois : Le marché IA se recompose.](https://dev.to/agaches/openai-a-perdu-22-points-en-12-mois-le-marche-ia-se-recompose-4g3d)
+- [Your Secrets Aren’t Safe: How the .git Directory Can Leak Data via AI Tools](https://dev.to/yoheiseki/your-secrets-arent-safe-how-the-git-directory-can-leak-data-via-ai-tools-4ioo)
+- [Check out how to get started with Google Workspace Studio](https://dev.to/googleworkspace/check-out-how-to-get-started-with-google-workspace-studio-3pb7)
+- [Presenting a Modern Markdown Viewer with Mermaid, MathJax, and PDF Export](https://dev.to/akshit_suthar/presenting-a-modern-markdown-viewer-with-mermaid-mathjax-and-pdf-export-1lce)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
