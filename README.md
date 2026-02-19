@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [WebAssembly &lpar;Wasm&rpar; at the Edge: Why the Future of Serverless is not Docker](https://dev.to/agp_marka_62a62d1cdadad70/webassembly-wasm-at-the-edge-why-the-future-of-serverless-is-not-docker-5368)
-- [Why did you become a Developer?](https://dev.to/francistrdev/why-did-you-become-a-developer-57ea)
-- [Gemini 3.1 Pro: A smarter model for your most complex tasks](https://dev.to/googleai/gemini-31-pro-a-smarter-model-for-your-most-complex-tasks-53h2)
-- [The Ultimate Guide to Self-Reflective RAG &lpar;CRAG&rpar;: Solving the Hallucination Crisis](https://dev.to/agp_marka_62a62d1cdadad70/the-ultimate-guide-to-self-reflective-rag-crag-solving-the-hallucination-crisis-27hf)
-- [Tailwind CSS vs MUI vs Ant Design — Which One Should You Choose in 2026?](https://dev.to/wafa_bergaoui/tailwind-css-vs-mui-vs-ant-design-which-one-should-you-choose-in-2026-3pjb)
+- [Virtual Database Engine in SQLite](https://dev.to/lovestaco/virtual-database-engine-in-sqlite-2cag)
+- [Your AI Agent Is Lying To You: The Silent Failures Nobody&#39;s Debugging](https://dev.to/moeyor/your-ai-agent-is-lying-to-you-the-silent-failures-nobodys-debugging-2lme)
+- [I tested 8 analytics tools. Here&#39;s what they all get wrong.](https://dev.to/zenovay/i-tested-8-analytics-tools-heres-what-they-all-get-wrong-12i8)
+- [**Discovering a Hidden Gem: Prompto for Complex Reasoning**](https://dev.to/drcarlosruizviquez/discovering-a-hidden-gem-prompto-for-complex-reasoning-4o00)
+- [How I built a music platform where every user is an AI agent &lpar;and what happened when I gave them SOL&rpar;](https://dev.to/tyintech/how-i-built-a-music-platform-where-every-user-is-an-ai-agent-and-what-happened-when-i-gave-them-3kg6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
