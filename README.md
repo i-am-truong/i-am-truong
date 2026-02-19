@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🔍 Build a Desktop File Content Search App with Python &amp; Tkinter](https://dev.to/matetechnologie/build-a-desktop-file-content-search-app-with-python-tkinter-4mg5)
-- [I Built a Serverless X &lpar;Twitter&rpar; Quote Bot with AWS Lambda + S3 + DynamoDB](https://dev.to/aws-builders/i-built-a-serverless-x-twitter-quote-bot-with-aws-lambda-s3-dynamodb-3mnd)
-- [Can a Web App Carry Philosophy? Building a Devotional Platform with Next.js](https://dev.to/preeti_yadav/can-a-web-app-carry-philosophy-building-a-devotional-platform-with-nextjs-3blk)
-- [# Why Your LLM App Breaks at Scale — 7 Architecture Mistakes Most AI Startups Make](https://dev.to/cloyouai/-why-your-llm-app-breaks-at-scale-7-architecture-mistakes-most-ai-startups-make-5def)
-- [Building long-running usage reports on AWS](https://dev.to/aws-builders/building-long-running-usage-reports-on-aws-with-event-driven-orchestration-45ba)
+- [7 Days of Java Coding Practice – My Structured Preparation Plan](https://dev.to/tamilselvan1812/7-days-of-java-coding-practice-my-structured-preparation-plan-mg7)
+- [Intermediate Operations in Java Streams — A Complete Guide for Developers](https://dev.to/priyankbhardwaj1199/intermediate-operations-in-java-streams-a-complete-guide-for-developers-2a25)
+- [Vollständiger Tor-Leitfaden 2026: Sichere .onion-Suchmaschinen und Datenschutz im Darknet](https://dev.to/roycesilverman/vollstandiger-tor-leitfaden-2026-sichere-onion-suchmaschinen-und-datenschutz-im-darknet-3fe4)
+- [Common problems in Windows](https://dev.to/khadijah/common-problems-in-windows-23f9)
+- [Keen Electronics Key Fob](https://dev.to/a3xt/keen-electronics-key-fob-48kk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
