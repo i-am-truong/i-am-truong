@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building in Public: Adsloty, a Newsletter Ad Marketplace](https://dev.to/miraclejudeiv/building-in-public-adsloty-a-newsletter-ad-marketplace-2nh8)
-- [How I Achieved 100/100 on Lighthouse Score For My Portfolio Site](https://dev.to/myogeshchavan97/how-i-achieved-100100-on-lighthouse-score-for-my-portfolio-site-lge)
-- [Lessons from OpenClaw&#39;s Architecture for Agent Builders](https://dev.to/ialijr/lessons-from-openclaws-architecture-for-agent-builders-1j93)
-- [CVE-2026-22769: Rooting Recovery: The Dell RP4VMs Hardcoded Horror Show](https://dev.to/cverports/cve-2026-22769-rooting-recovery-the-dell-rp4vms-hardcoded-horror-show-oml)
-- [Exploring a Command-Line Hangman Implementation in Node.js](https://dev.to/rpi1337/exploring-a-command-line-hangman-implementation-in-nodejs-2j8b)
+- [🪟 gwt — Stupidly Simple Git Worktrees in PowerShell. Isolated Branches for AI Coding.](https://dev.to/aasimsani/gwt-stupidly-simple-git-worktrees-in-powershell-isolated-branches-for-ai-coding-33i3)
+- [🌳 gwt — Stupidly Simple Git Worktrees. Isolated Branches for AI Coding.](https://dev.to/aasimsani/gwt-stupidly-simple-git-worktrees-isolated-branches-for-ai-coding-120k)
+- [Build an AI Shopping Agent in 50 Lines of TypeScript](https://dev.to/ucptools/build-an-ai-shopping-agent-in-50-lines-of-typescript-ggd)
+- [API Monitor for the Terminal](https://dev.to/nathan_melegari/api-monitor-for-the-terminal-2ejg)
+- [How to implement “CreatedAt” and “UpdatedAt” timestamps in Entity Framework Core?](https://dev.to/tbayramov/how-to-implement-createdat-and-updatedat-timestamps-in-entity-framework-core-4mec)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
