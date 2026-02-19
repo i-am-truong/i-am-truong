@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Rust Compiler for a 20-Year-Old Mac &lpar;Borrow Checker and All&rpar;](https://dev.to/scottcjn/i-built-a-rust-compiler-for-a-20-year-old-mac-borrow-checker-and-all-37n7)
-- [How We Made &#39;One CPU, One Vote&#39; Actually Work &lpar;After 17 Years of Broken Promises&rpar;](https://dev.to/scottcjn/how-we-made-one-cpu-one-vote-actually-work-after-17-years-of-broken-promises-1ioo)
-- [Self-Hosting a Vision Model on a Datacenter GPU: BAGEL-7B-MoT on a Tesla V100](https://dev.to/scottcjn/self-hosting-a-vision-model-on-a-datacenter-gpu-bagel-7b-mot-on-a-tesla-v100-4mm4)
-- [I&#39;m Porting Node.js 22 to a 20-Year-Old Power Mac G5. It&#39;s Going About as Well as You&#39;d Expect.](https://dev.to/scottcjn/im-porting-nodejs-22-to-a-20-year-old-power-mac-g5-its-going-about-as-well-as-youd-expect-529g)
-- [How We Added Machine-to-Machine Payments to an AI Video Platform in One Session](https://dev.to/scottcjn/how-we-added-machine-to-machine-payments-to-an-ai-video-platform-in-one-session-54mi)
+- [What If GPT Didn’t “Learn”, It Just Found a Winning Lottery Ticket?](https://dev.to/maulik_sompura_22/what-if-gpt-didnt-learn-it-just-found-a-winning-lottery-ticket-1gp7)
+- [I ran 2,178 simulations on an autonomous AI economy to find how to prevent systemic collapse](https://dev.to/swimmingkiim/i-ran-2178-simulations-on-an-autonomous-ai-economy-to-find-how-to-prevent-systemic-collapse-oe6)
+- [I Built an Open-Source Endpoint Manager Because Enterprise Tools Are Ridiculous](https://dev.to/benedikt_schackenberg_5c0/i-built-an-open-source-endpoint-manager-because-enterprise-tools-are-ridiculous-23m2)
+- [Why I built a &quot;Zero-Backend&quot; dev toolset with Next.js 16 and Tailwind v4](https://dev.to/davtyan1202/why-i-built-a-zero-backend-dev-toolset-with-nextjs-16-and-tailwind-v4-49al)
+- [Preface](https://dev.to/pinkbear20056/preface-2jmk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
