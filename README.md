@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Serverless Architecture: Event-Driven Design with Azure Functions and Cosmos DB](https://dev.to/jubinsoni/mastering-serverless-architecture-event-driven-design-with-azure-functions-and-cosmos-db-2ef5)
-- [ShadNG for Angular: Shadcn/UI-Inspired Design System With Icons, MCP, and Skills](https://dev.to/alimjan_ablikim_cf79f17a6/shadng-for-angular-shadcnui-inspired-design-system-with-icons-mcp-and-skills-313)
-- [What “Agentic AI” Actually Means &lpar;In Practice&rpar;](https://dev.to/shaheryaryousaf/what-agentic-ai-actually-means-in-practice-14ih)
-- [I Burned Out at a FAANG and It Took 18 Months to Recover. Here Are the Warning Signs I Ignored.](https://dev.to/matthew_hou_e8ab76d6be07b/i-burned-out-at-a-faang-and-it-took-18-months-to-recover-here-are-the-warning-signs-i-ignored-3ffg)
-- [I&#39;ve Reviewed 300+ API Designs. Here Are the 9 Mistakes Everyone Makes. in the comments.*](https://dev.to/matthew_hou_e8ab76d6be07b/ive-reviewed-300-api-designs-here-are-the-9-mistakes-everyone-makes-in-the-comments-28l0)
+- [Why I Built InnoStore: Helping Vendors Move Beyond ‘DM to Order’](https://dev.to/bikeinnocent/why-i-built-innostore-helping-vendors-move-beyond-dm-to-order-1ki8)
+- [Daily Challenge #7 : The &quot;Recursive&quot; Folder Tree 📂](https://dev.to/bingkahu/daily-challenge-7-the-recursive-folder-tree-54mn)
+- [The Single Point of Failure in Google SSO](https://dev.to/samywrites/the-single-point-of-failure-in-google-sso-3l7h)
+- [AI Partnership Over Replacement: Stanford&#39;s $10B Misalignment Problem](https://dev.to/dr_hernani_costa/ai-partnership-over-replacement-stanfords-10b-misalignment-problem-49c7)
+- [Your AI Tools Make You 10x Faster. So Why Isn&#39;t Your Company 10x Productive?](https://dev.to/nader0913/your-ai-tools-make-you-10x-faster-so-why-isnt-your-company-10x-productive-ime)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
