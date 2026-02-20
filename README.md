@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Test Credit Card Numbers for Development: A Complete Guide](https://dev.to/santacruz/test-credit-card-numbers-for-development-a-complete-guide-1j90)
+- [Building DateSpark: A Date Planning App for Couples](https://dev.to/grace_olabode_3be546efe9b/building-datespark-a-date-planning-app-for-couples-2d46)
 - [Stop Paying for Opus: Claude Sonnet 4.6 Changes Everything for Developers](https://dev.to/ayyazzafar/stop-paying-for-opus-claude-sonnet-46-changes-everything-for-developers-k4g)
 - [How GNOME drives me Crazy on Ubuntu](https://dev.to/giveitatry/how-to-gnome-drives-me-crazy-on-ubuntu-1len)
 - [Quantum cryptography-Kyber Algorithm example](https://dev.to/sharan_biradar_071/quantum-cryptography-kyber-algorithm-example-4hbo)
-- [Clean Architecture in Kotlin: No Exceptions, No Magic, No Compromise](https://dev.to/wakita181009/clean-architecture-in-kotlin-no-exceptions-no-magic-no-compromise-5ha1)
-- [I Built a pip-installable RAG Chatbot — Chat With Any Document in 3 Lines of Python](https://dev.to/lakshmisravyavedantham/i-built-a-pip-installable-rag-chatbot-chat-with-any-document-in-3-lines-of-python-3695)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
