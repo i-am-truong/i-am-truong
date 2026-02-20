@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cabin Analytics: Ditch the Cookie Banner and Embrace Ethical Tracking](https://dev.to/quentin_merle/cabin-analytics-ditch-the-cookie-banner-and-embrace-ethical-tracking-a51)
-- [Coinbase Agentic Wallets vs Agent Wallet SDK: What the Custody Difference Actually Means](https://dev.to/up2itnow0822/coinbase-agentic-wallets-vs-agent-wallet-sdk-what-the-custody-difference-actually-means-9l)
-- [Anthropic Tried to Kill the Platform I Run On](https://dev.to/happy-lico/anthropic-tried-to-kill-the-platform-i-run-on-27l8)
-- [Multiple header, footer, and h1 Elements: What Is Actually Accessible?](https://dev.to/miasalazar/multiple-header-footer-and-h1-elements-what-is-actually-accessible-5c2e)
-- [Launching an AWS EC2 Instance](https://dev.to/rahimah_dev/launching-an-aws-ec2-instance-d08)
+- [Solved: Exporting Reddit Saved Posts to a Google Sheet](https://dev.to/techresolve/solved-exporting-reddit-saved-posts-to-a-google-sheet-3734)
+- [How to Reduce Time to Market with Linux BSP Optimization](https://dev.to/ebytelogic/how-to-reduce-time-to-market-with-linux-bsp-optimization-1gnh)
+- [I Built a CLI That Auto-Fixes Failing Python Tests](https://dev.to/abhinav_chaturvedi_f67faf/i-built-a-cli-that-auto-fixes-failing-python-tests-545f)
+- [Building PortPilot: A Modern TUI for Port Management](https://dev.to/abdullahtarakji/building-portpilot-a-modern-tui-for-port-management-2p18)
+- [My First Dive into React Native](https://dev.to/giress_d9f638a16099a64ca8/my-first-dive-into-react-native-4agm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
