@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Backpressure: Why “Just Handle More Traffic” Is the Wrong Mindset](https://dev.to/shpreeti/backpressure-why-just-handle-more-traffic-is-the-wrong-mindset-3j49)
-- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-548e)
-- [Code Coverage + Test Coverage](https://dev.to/active/code-coverage-test-coverage-3hc1)
-- [Hexagonal Architecture in Angular - A Practical, Minimal Use Case](https://dev.to/nugetchar/hexagonal-architecture-in-angular-a-practical-minimal-use-case-3og5)
-- [At MakerX, we built Kagan — a conductor for your AI coding agents](https://dev.to/aorumbayev/at-makerx-we-built-kagan-a-conductor-for-your-ai-coding-agents-3laj)
+- [App Monetization for iOS Devs: Stop Guessing, Start Earning](https://dev.to/tobby_scraper/app-monetization-for-ios-devs-stop-guessing-start-earning-3i10)
+- [What Are Stablecoins? Understand How They Work](https://dev.to/flutterwaveeng/what-are-stablecoins-understand-how-they-work-3kg9)
+- [Authorization methods in .NET microservices](https://dev.to/belochka1-04/authorization-methods-in-net-microservices-1dl0)
+- [Software in a Spec-First World](https://dev.to/mikewirth/software-in-a-spec-first-world-5col)
+- [Build A Custom AI Voice Agent Using MirrorFly &lpar;RAG&rpar;](https://dev.to/alexsam986/build-a-custom-ai-voice-agent-using-mirrorfly-rag-393)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
