@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mercedes Benz Engine in a Second Hand 15-year-old Economic Car](https://dev.to/sreejith_madhavan_31a309f/mercedes-benz-engine-in-a-second-hand-15-year-old-economic-car-b35)
-- [Ship Your Tauri v2 App Like a Pro: Code Signing for macOS and Windows &lpar;Part 1/2&rpar;](https://dev.to/tomtomdu73/ship-your-tauri-v2-app-like-a-pro-code-signing-for-macos-and-windows-part-12-3o9n)
-- [What users secretly judge right after your hero section](https://dev.to/bhavin-allinonetools/what-users-secretly-judge-right-after-your-hero-section-5b6k)
-- [I Built a Free BMI, BMR, Calorie &amp; Ideal Weight Calculator Using React and Tailwind CSS](https://dev.to/swetasingh8844/i-built-a-free-bmi-bmr-calorie-ideal-weight-calculator-using-react-and-tailwind-css-3915)
-- [Online Stock Span: Coding Problem Solution](https://dev.to/stack_overflowed/online-stock-span-coding-problem-solution-3moa)
+- [What Claude Taught Me About Using Claude](https://dev.to/dang-w/what-claude-taught-me-about-using-claude-2njn)
+- [Why Your OpenClaw Agent Sucks &lpar;And How SOUL.md Fixes It&rpar;](https://dev.to/techfind777/why-your-openclaw-agent-sucks-and-how-soulmd-fixes-it-3h0d)
+- [You Don’t Need a Bigger Model — You Need a Stable One](https://dev.to/cloyouai/you-dont-need-a-bigger-model-you-need-a-stable-one-5dff)
+- [Creating a Windows Virtual Machine &lpar;VM&rpar; in Azure](https://dev.to/nwafor_somadina_efa388085/creating-a-windows-virtual-machine-vm-in-azure-5fd0)
+- [Eye-Tracking UI: Designing Gaze-Driven Interfaces That Work](https://dev.to/kyl67899/eye-tracking-ui-designing-gaze-driven-interfaces-that-work-1d35)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
