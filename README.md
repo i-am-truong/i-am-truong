@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [10.Set Up Time Check Pod in Kubernetes](https://dev.to/thukhakyawe_cloud/10set-up-time-check-pod-in-kubernetes-2g4p)
-- [Why C Requires the “struct” Keyword for Structures](https://dev.to/pauljlucas/why-c-requires-the-struct-keyword-for-structures-nec)
-- [Tu comida en código: Construyendo un agente nutricional con visión artificial y Gemini](https://dev.to/maureenbarahona/tu-comida-en-codigo-construyendo-un-agente-nutricional-con-vision-artificial-y-gemini-41ph)
-- [Skills Sentry: a static scanner for agent skill bundles](https://dev.to/victorstackai/skills-sentry-a-static-scanner-for-agent-skill-bundles-1fhd)
-- [GHSA-6C9J-X93C-RW6J: OpenClaw Side-Channel: The `safeBins` File Existence Oracle](https://dev.to/cverports/ghsa-6c9j-x93c-rw6j-openclaw-side-channel-the-safebins-file-existence-oracle-4pap)
+- [The First Zero-Knowledge Proof of AI Safety Judgment](https://dev.to/alexgardenmnemom/the-first-zero-knowledge-proof-of-ai-safety-judgment-1hfi)
+- [Build Domain-driven HTTP services](https://dev.to/mirzaleka/build-domain-driven-http-services-5b0a)
+- [Understanding n8n from a System Design Perspective](https://dev.to/tinhtinhcd/understanding-n8n-from-a-system-design-perspective-5075)
+- [Claude Code Skills Not Triggering? 2 Fixes for 100% Activation](https://dev.to/oluwawunmiadesewa/claude-code-skills-not-triggering-2-fixes-for-100-activation-3b57)
+- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-5a06)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
