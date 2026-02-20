@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Top 10 Open-Source User Interfaces for LLMs](https://dev.to/techlatestnet/top-10-open-source-user-interfaces-for-llms-4pgj)
+- [Store Proxy Fetch](https://dev.to/lizmat/store-proxy-fetch-a07)
+- [Top 50 Must-Know BlackArch Linux Tools for Penetration Testing](https://dev.to/techlatestnet/top-50-must-know-blackarch-linux-tools-for-penetration-testing-3675)
 - [Zero-Downtime Embedding Migration: Switching from text-embedding-004 to text-embedding-3-large in Production](https://dev.to/humzakt/zero-downtime-embedding-migration-switching-from-text-embedding-004-to-text-embedding-3-large-in-1292)
 - [YouTube&#39;s API Quota Is 10,000 Units/Day. Here&#39;s How I Track 100K Videos Without Hitting It.](https://dev.to/siyabuilt/youtubes-api-quota-is-10000-unitsday-heres-how-i-track-100k-videos-without-hitting-it-5d8h)
-- [What does MLH stand for?](https://dev.to/mellen/what-does-mlh-stand-for-2cbg)
-- [MCP, n8n, Symfony: New tutorials to kickstart 2026 🚀](https://dev.to/vonagedev/mcp-n8n-symfony-new-tutorials-to-kickstart-2026-36nm)
-- [Prompting in Dead Languages: Latin, Ancient Greek, and Proto-Indo-European as Creative Constraints](https://dev.to/velocityai/prompting-in-dead-languages-latin-ancient-greek-and-proto-indo-european-as-creative-constraints-5efn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
