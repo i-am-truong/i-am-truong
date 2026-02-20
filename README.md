@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [5 things I learned from building and releasing Hounty](https://dev.to/valeriavg/5-things-i-learned-from-building-and-releasing-hounty-2pg0)
-- [I Trained OpenClaw to Run My Blog: Voice DNA, Agentic SEO, and the End of Manual Publishing](https://dev.to/chudi_nnorukam/i-trained-openclaw-to-run-my-blog-voice-dna-agentic-seo-and-the-end-of-manual-publishing-1la8)
-- [Como eu resolvi o limite de 10 anos da API do Banco Central do Brasil com Python](https://dev.to/fmaignacio/como-eu-resolvi-o-limite-de-10-anos-da-api-do-banco-central-do-brasil-com-python-poh)
-- [Mixture-of-Agents: Making LLMs Collaborate Instead of Compete](https://dev.to/deep_mehta_b12a764b0ec6b5/mixture-of-agents-making-llms-collaborate-instead-of-compete-8j8)
-- [AdGuard Home vs Blocky: Which DNS Ad Blocker?](https://dev.to/selfhostingsh/adguard-home-vs-blocky-which-dns-ad-blocker-2oj)
+- [Stop Paying for Opus: Claude Sonnet 4.6 Changes Everything for Developers](https://dev.to/ayyazzafar/stop-paying-for-opus-claude-sonnet-46-changes-everything-for-developers-k4g)
+- [How GNOME drives me Crazy on Ubuntu](https://dev.to/giveitatry/how-to-gnome-drives-me-crazy-on-ubuntu-1len)
+- [Quantum cryptography-Kyber Algorithm example](https://dev.to/sharan_biradar_071/quantum-cryptography-kyber-algorithm-example-4hbo)
+- [Clean Architecture in Kotlin: No Exceptions, No Magic, No Compromise](https://dev.to/wakita181009/clean-architecture-in-kotlin-no-exceptions-no-magic-no-compromise-5ha1)
+- [I Built a pip-installable RAG Chatbot — Chat With Any Document in 3 Lines of Python](https://dev.to/lakshmisravyavedantham/i-built-a-pip-installable-rag-chatbot-chat-with-any-document-in-3-lines-of-python-3695)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
