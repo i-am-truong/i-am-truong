@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Lint Your Cursor Rules in CI &lpar;So Broken Rules Don&#39;t Ship&rpar;](https://dev.to/nedcodes/how-to-lint-your-cursor-rules-in-ci-so-broken-rules-dont-ship-2n7a)
-- [I built a crypto airdrop tracker because I kept missing snapshots. Here&#39;s what I learned.](https://dev.to/loopey/i-built-a-crypto-airdrop-tracker-because-i-kept-missing-snapshots-heres-what-i-learned-3f4)
-- [Docs that never lie](https://dev.to/lioneldraghi/docs-that-never-lie-4df)
-- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-1f4c)
-- [Open Source Maintenance: Do I Need to Update My License Year?](https://dev.to/rlespinasse/open-source-maintenance-do-i-need-to-update-my-license-year-4o8e)
+- [Activity in Wonderland - Distributed Tracing with OpenTelemetry and .NET](https://dev.to/hypertextcoffeepot/activity-in-wonderland-distributed-tracing-with-opentelemetry-and-net-2ehe)
+- [Security news weekly round-up - 20th February 2026](https://dev.to/ziizium/security-news-weekly-round-up-20th-february-2026-2kmg)
+- [SkyLink API’s Commitment to Sustainable Infrastructure — SkyLink API](https://dev.to/skylink_api/skylink-apis-commitment-to-sustainable-infrastructure-skylink-api-1pfc)
+- [AnnotateAI Medical AI Insights](https://dev.to/annotateai/annotateai-medical-ai-insights-33k8)
+- [Stop maintaining your own Puppeteer setup. There is a simpler way.](https://dev.to/custodiaadmin/stop-maintaining-your-own-puppeteer-setup-there-is-a-simpler-way-3i8k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
