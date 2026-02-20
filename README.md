@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What Claude Taught Me About Using Claude](https://dev.to/dang-w/what-claude-taught-me-about-using-claude-2njn)
-- [Why Your OpenClaw Agent Sucks &lpar;And How SOUL.md Fixes It&rpar;](https://dev.to/techfind777/why-your-openclaw-agent-sucks-and-how-soulmd-fixes-it-3h0d)
-- [You Don’t Need a Bigger Model — You Need a Stable One](https://dev.to/cloyouai/you-dont-need-a-bigger-model-you-need-a-stable-one-5dff)
-- [Creating a Windows Virtual Machine &lpar;VM&rpar; in Azure](https://dev.to/nwafor_somadina_efa388085/creating-a-windows-virtual-machine-vm-in-azure-5fd0)
-- [Eye-Tracking UI: Designing Gaze-Driven Interfaces That Work](https://dev.to/kyl67899/eye-tracking-ui-designing-gaze-driven-interfaces-that-work-1d35)
+- [I pip-installed LangChain and Accidentally Triggered EU AI Act Compliance](https://dev.to/arkforge-ceo/i-pip-installed-langchain-and-accidentally-triggered-eu-ai-act-compliance-44kf)
+- [The Boy Scout Rule: Leave Code Better Than You Found It](https://dev.to/maximeshr/the-boy-scout-rule-leave-code-better-than-you-found-it-5e68)
+- [Cloud Cost Governance: A Practical Guide for Modern Teams](https://dev.to/usage_9835/cloud-cost-governance-a-practical-guide-for-modern-teams-17ac)
+- [Agentic Workflows: When Autonomy Pays Off and When It Backfires](https://dev.to/sashido/agentic-workflows-when-autonomy-pays-off-and-when-it-backfires-27b0)
+- [Generate PDF Reports from HTML with Screenshots — A Developer&#39;s Toolkit](https://dev.to/mackmoneymaker/generate-pdf-reports-from-html-with-screenshots-a-developers-toolkit-3nk1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
