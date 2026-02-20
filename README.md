@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Meter Was Always Running](https://dev.to/dannwaneri/the-meter-was-always-running-44c4)
-- [Building a Non-Custodial Multi-Chain Payment Infrastructure &lpar;EVM + Tron + Solana + Bitcoin&rpar;](https://dev.to/dhru/building-a-non-custodial-multi-chain-payment-infrastructure-evm-tron-solana-bitcoin-3eff)
-- [Anthropic raises $1B for AI safety &amp; research! Validation for responsible AI dev](https://dev.to/umesh_chandra_6913d8298f6/anthropic-raises-1b-for-ai-safety-research-validation-for-responsible-ai-dev-50cl)
-- [Here is a 5-tweet Twitter thread about &quot;Anthropic raises $1 billion for AI safet](https://dev.to/umesh_chandra_6913d8298f6/here-is-a-5-tweet-twitter-thread-about-anthropic-raises-1-billion-for-ai-safet-11le)
-- [Who fixes the zero-days AI finds in abandoned software?](https://dev.to/martinald/who-fixes-the-zero-days-ai-finds-in-abandoned-software-2cej)
+- [5 things I learned from building and releasing Hounty](https://dev.to/valeriavg/5-things-i-learned-from-building-and-releasing-hounty-2pg0)
+- [I Trained OpenClaw to Run My Blog: Voice DNA, Agentic SEO, and the End of Manual Publishing](https://dev.to/chudi_nnorukam/i-trained-openclaw-to-run-my-blog-voice-dna-agentic-seo-and-the-end-of-manual-publishing-1la8)
+- [Como eu resolvi o limite de 10 anos da API do Banco Central do Brasil com Python](https://dev.to/fmaignacio/como-eu-resolvi-o-limite-de-10-anos-da-api-do-banco-central-do-brasil-com-python-poh)
+- [Mixture-of-Agents: Making LLMs Collaborate Instead of Compete](https://dev.to/deep_mehta_b12a764b0ec6b5/mixture-of-agents-making-llms-collaborate-instead-of-compete-8j8)
+- [AdGuard Home vs Blocky: Which DNS Ad Blocker?](https://dev.to/selfhostingsh/adguard-home-vs-blocky-which-dns-ad-blocker-2oj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
