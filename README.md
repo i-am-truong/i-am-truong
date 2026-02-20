@@ -120,15 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 1318 : Time](https://dev.to/dwane/day-1318-time-4ak1)
 - [I wrote a dev tool post that got 25k reads. My follow-up got 11. Here&#39;s what I learned.](https://dev.to/reposweeper/i-wrote-a-dev-tool-post-that-got-25k-reads-my-follow-up-got-11-heres-what-i-learned-3g51)
 - [Modular Structure in CodeBehind](https://dev.to/elanatframework/modular-structure-in-codebehind-31aa)
 - [[Boost]](https://dev.to/cherryramatis/-m2d)
 - [How to Set Up Your Own AI Assistant with OpenClaw &lpar;Beginner Guide&rpar;](https://dev.to/happy-lico/how-to-set-up-your-own-ai-assistant-with-openclaw-beginner-guide-1gjm)
-- [Tech for good, built and shared on DEV 💛. 
-
-I built a stutter-friendly app for calm, supportive, judgment-free speaking practice, with gentle feedback and privacy-first design at its core.
-
-Built with Elm, Elixir, and Copilot CLI. Thoughts?](https://dev.to/ujja/tech-for-good-built-and-shared-on-dev-i-built-a-stutter-friendly-app-for-calm-supportive-2e5n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
