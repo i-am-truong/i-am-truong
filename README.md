@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Test Credit Card Numbers for Development: A Complete Guide](https://dev.to/santacruz/test-credit-card-numbers-for-development-a-complete-guide-1j90)
-- [Building DateSpark: A Date Planning App for Couples](https://dev.to/grace_olabode_3be546efe9b/building-datespark-a-date-planning-app-for-couples-2d46)
-- [Stop Paying for Opus: Claude Sonnet 4.6 Changes Everything for Developers](https://dev.to/ayyazzafar/stop-paying-for-opus-claude-sonnet-46-changes-everything-for-developers-k4g)
-- [How GNOME drives me Crazy on Ubuntu](https://dev.to/giveitatry/how-to-gnome-drives-me-crazy-on-ubuntu-1len)
-- [Quantum cryptography-Kyber Algorithm example](https://dev.to/sharan_biradar_071/quantum-cryptography-kyber-algorithm-example-4hbo)
+- [Por que resolvi criar um canal no YouTube sobre programação](https://dev.to/polymorphicguy/por-que-resolvi-criar-um-canal-no-youtube-sobre-programacao-e1e)
+- [Extending Better Auth with global Rate Limiting](https://dev.to/lutz-grex/extending-better-auth-with-global-rate-limiting-2g98)
+- [How to Lower Your AI Costs When Scaling Your Business](https://dev.to/digitalocean/how-to-lower-your-ai-costs-when-scaling-your-business-4i9k)
+- [How We Added Folders and Tags to Organize Video Libraries](https://dev.to/alexneamtu/how-we-added-folders-and-tags-to-organize-video-libraries-2f53)
+- [Is C# the new TypeScript? How Minimal APIs felt like home for a React Dev](https://dev.to/aroarko/is-c-the-new-typescript-how-minimal-apis-felt-like-home-for-a-react-dev-1nan)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
