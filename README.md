@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Choice means letting go: to gain something, you have to give something up &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/choice-means-letting-go-to-gain-something-you-have-to-give-something-up-bite-size-article-4i7c)
-- [Steps to Launch a Virtual Machine &lpar;EC2 Instance&rpar; in AWS](https://dev.to/nwafor_somadina_efa388085/steps-to-launch-a-virtual-machine-ec2-instance-in-aws-2g29)
-- [What Do You Want to Know About Antigravity?](https://dev.to/devteam/what-do-you-want-to-know-about-antigravity-1o7a)
-- [Generic Repository στο Entity Framework Core: Σύγχρονες και Ασύγχρονες Λειτουργίες](https://dev.to/__b63657/generic-repository-sto-entity-framework-core-sugkhrones-kai-asugkhrones-leitourgies-265b)
-- [Por que resolvi criar um canal no YouTube sobre programação](https://dev.to/polymorphicguy/por-que-resolvi-criar-um-canal-no-youtube-sobre-programacao-e1e)
+- [The $500 Million Security Gap: Bank of Ireland UK’s Critical Failure](https://dev.to/kush_dhuvad_c8d4f344c66c7/the-500-million-security-gap-bank-of-ireland-uks-critical-failure-1kkj)
+- [How I Built a 700+ Calculator Platform with Pure PHP, Zero Frameworks, and a JSON Registry Pattern](https://dev.to/julien786534/how-i-built-a-700-calculator-platform-with-pure-php-zero-frameworks-and-a-json-registry-pattern-2pfp)
+- [My First Experience Using Figma as a Beginner](https://dev.to/ibrsamwel/my-first-experience-using-figma-as-a-beginner-2e5c)
+- [Building a Frontend-Friendly Star Wars API with Next.js BFF](https://dev.to/maiano/building-a-frontend-friendly-star-wars-api-with-nextjs-bff-bjp)
+- [Exploring Olympic Downhill Results with PHP Statistics](https://dev.to/robertobutti/exploring-olympic-downhill-results-with-php-statistics-3eo1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
