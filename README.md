@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Thought I Knew Linux. This Lab Proved Me Wrong.](https://dev.to/yaak/i-thought-i-knew-linux-this-lab-proved-me-wrong-2ljp)
-- [How to Add a Photo to an Existing Page in a PDF Using macOS Preview](https://dev.to/rlespinasse/how-to-add-a-photo-to-an-existing-page-in-a-pdf-using-macos-preview-ho9)
-- [What Is LLM Grounding? A Developer&#39;s Guide](https://dev.to/moshe_io/what-is-llm-grounding-a-developers-guide-3cj4)
-- [Avatar Profile Generator Built with Imagen - Build Your Own App](https://dev.to/lukeponga-dev/avatar-profile-generator-built-with-imagen-2m2o)
-- [Python Just Turned 35, Here&#39;s What Kept It Alive All These Years](https://dev.to/wallaceespindola/python-just-turned-35-heres-what-kept-it-alive-all-these-years-4jh9)
+- [How to Lint Your Cursor Rules in CI &lpar;So Broken Rules Don&#39;t Ship&rpar;](https://dev.to/nedcodes/how-to-lint-your-cursor-rules-in-ci-so-broken-rules-dont-ship-2n7a)
+- [I built a crypto airdrop tracker because I kept missing snapshots. Here&#39;s what I learned.](https://dev.to/loopey/i-built-a-crypto-airdrop-tracker-because-i-kept-missing-snapshots-heres-what-i-learned-3f4)
+- [Docs that never lie](https://dev.to/lioneldraghi/docs-that-never-lie-4df)
+- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-1f4c)
+- [Open Source Maintenance: Do I Need to Update My License Year?](https://dev.to/rlespinasse/open-source-maintenance-do-i-need-to-update-my-license-year-4o8e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
