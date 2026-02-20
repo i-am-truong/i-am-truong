@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Multi-Container Applications using Podman Quadlets](https://dev.to/project42/building-multi-container-applications-using-podman-quadlets-3063)
-- [Game Dev Digest — Issue #319 - 2D Guides, Game Ideas/Concepts, Optimizing, and more](https://dev.to/gamedevdigest/game-dev-digest-issue-319-2d-guides-game-ideasconcepts-optimizing-and-more-10j1)
-- [How to Build a Futures Trading System](https://dev.to/devexperts/how-to-build-a-futures-trading-system-44gh)
-- [API e REST: descomplicando conceitos que muita gente confunde](https://dev.to/adelinopds/api-e-rest-descomplicando-conceitos-que-muita-gente-confunde-5ami)
-- [How to Build a Research Assistant using Deep Agents](https://dev.to/copilotkit/how-to-build-a-research-assistant-using-deep-agents-2bpg)
+- [Cabin Analytics: Ditch the Cookie Banner and Embrace Ethical Tracking](https://dev.to/quentin_merle/cabin-analytics-ditch-the-cookie-banner-and-embrace-ethical-tracking-a51)
+- [Coinbase Agentic Wallets vs Agent Wallet SDK: What the Custody Difference Actually Means](https://dev.to/up2itnow0822/coinbase-agentic-wallets-vs-agent-wallet-sdk-what-the-custody-difference-actually-means-9l)
+- [Anthropic Tried to Kill the Platform I Run On](https://dev.to/happy-lico/anthropic-tried-to-kill-the-platform-i-run-on-27l8)
+- [Multiple header, footer, and h1 Elements: What Is Actually Accessible?](https://dev.to/miasalazar/multiple-header-footer-and-h1-elements-what-is-actually-accessible-5c2e)
+- [Launching an AWS EC2 Instance](https://dev.to/rahimah_dev/launching-an-aws-ec2-instance-d08)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
