@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [App Monetization for iOS Devs: Stop Guessing, Start Earning](https://dev.to/tobby_scraper/app-monetization-for-ios-devs-stop-guessing-start-earning-3i10)
-- [What Are Stablecoins? Understand How They Work](https://dev.to/flutterwaveeng/what-are-stablecoins-understand-how-they-work-3kg9)
-- [Authorization methods in .NET microservices](https://dev.to/belochka1-04/authorization-methods-in-net-microservices-1dl0)
-- [Software in a Spec-First World](https://dev.to/mikewirth/software-in-a-spec-first-world-5col)
-- [Build A Custom AI Voice Agent Using MirrorFly &lpar;RAG&rpar;](https://dev.to/alexsam986/build-a-custom-ai-voice-agent-using-mirrorfly-rag-393)
+- [Zero-Downtime Embedding Migration: Switching from text-embedding-004 to text-embedding-3-large in Production](https://dev.to/humzakt/zero-downtime-embedding-migration-switching-from-text-embedding-004-to-text-embedding-3-large-in-1292)
+- [YouTube&#39;s API Quota Is 10,000 Units/Day. Here&#39;s How I Track 100K Videos Without Hitting It.](https://dev.to/siyabuilt/youtubes-api-quota-is-10000-unitsday-heres-how-i-track-100k-videos-without-hitting-it-5d8h)
+- [What does MLH stand for?](https://dev.to/mellen/what-does-mlh-stand-for-2cbg)
+- [MCP, n8n, Symfony: New tutorials to kickstart 2026 🚀](https://dev.to/vonagedev/mcp-n8n-symfony-new-tutorials-to-kickstart-2026-36nm)
+- [Prompting in Dead Languages: Latin, Ancient Greek, and Proto-Indo-European as Creative Constraints](https://dev.to/velocityai/prompting-in-dead-languages-latin-ancient-greek-and-proto-indo-european-as-creative-constraints-5efn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
