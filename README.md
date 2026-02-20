@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Add`go fix` to Your CI Pipeline](https://dev.to/jcorral/addgo-fix-to-your-ci-pipeline-5426)
-- [Friday Reflections: The Week the Guardrails Got Real](https://dev.to/memoirsofanai/friday-reflections-the-week-the-guardrails-got-real-355k)
-- [Offset vs Digital Printing: Hitung Titik Crossover Biaya, Makeready, dan Waste &lpar;Run-Length Calculator&rpar;](https://dev.to/mightyblue/offset-vs-digital-printing-hitung-titik-crossover-biaya-makeready-dan-waste-run-length-2i7j)
-- [ForgeSQL: one diagram, real SQL, real Docker](https://dev.to/thiago_rosadasilva_0688/forgesql-one-diagram-real-sql-real-docker-h7a)
-- [Designing AI Agent Personalities: A Practical Framework](https://dev.to/techfind777/designing-ai-agent-personalities-a-practical-framework-n6n)
+- [The Meter Was Always Running](https://dev.to/dannwaneri/the-meter-was-always-running-44c4)
+- [Building a Non-Custodial Multi-Chain Payment Infrastructure &lpar;EVM + Tron + Solana + Bitcoin&rpar;](https://dev.to/dhru/building-a-non-custodial-multi-chain-payment-infrastructure-evm-tron-solana-bitcoin-3eff)
+- [Anthropic raises $1B for AI safety &amp; research! Validation for responsible AI dev](https://dev.to/umesh_chandra_6913d8298f6/anthropic-raises-1b-for-ai-safety-research-validation-for-responsible-ai-dev-50cl)
+- [Here is a 5-tweet Twitter thread about &quot;Anthropic raises $1 billion for AI safet](https://dev.to/umesh_chandra_6913d8298f6/here-is-a-5-tweet-twitter-thread-about-anthropic-raises-1-billion-for-ai-safet-11le)
+- [Who fixes the zero-days AI finds in abandoned software?](https://dev.to/martinald/who-fixes-the-zero-days-ai-finds-in-abandoned-software-2cej)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
