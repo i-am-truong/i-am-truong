@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The First Zero-Knowledge Proof of AI Safety Judgment](https://dev.to/alexgardenmnemom/the-first-zero-knowledge-proof-of-ai-safety-judgment-1hfi)
-- [Build Domain-driven HTTP services](https://dev.to/mirzaleka/build-domain-driven-http-services-5b0a)
-- [Understanding n8n from a System Design Perspective](https://dev.to/tinhtinhcd/understanding-n8n-from-a-system-design-perspective-5075)
-- [Claude Code Skills Not Triggering? 2 Fixes for 100% Activation](https://dev.to/oluwawunmiadesewa/claude-code-skills-not-triggering-2-fixes-for-100-activation-3b57)
-- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-5a06)
+- [Mercedes Benz Engine in a Second Hand 15-year-old Economic Car](https://dev.to/sreejith_madhavan_31a309f/mercedes-benz-engine-in-a-second-hand-15-year-old-economic-car-b35)
+- [Ship Your Tauri v2 App Like a Pro: Code Signing for macOS and Windows &lpar;Part 1/2&rpar;](https://dev.to/tomtomdu73/ship-your-tauri-v2-app-like-a-pro-code-signing-for-macos-and-windows-part-12-3o9n)
+- [What users secretly judge right after your hero section](https://dev.to/bhavin-allinonetools/what-users-secretly-judge-right-after-your-hero-section-5b6k)
+- [I Built a Free BMI, BMR, Calorie &amp; Ideal Weight Calculator Using React and Tailwind CSS](https://dev.to/swetasingh8844/i-built-a-free-bmi-bmr-calorie-ideal-weight-calculator-using-react-and-tailwind-css-3915)
+- [Online Stock Span: Coding Problem Solution](https://dev.to/stack_overflowed/online-stock-span-coding-problem-solution-3moa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
