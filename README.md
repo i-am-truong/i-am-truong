@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Real-Time Dashboards: When Live Data Helps and When It Just Adds Noise](https://dev.to/fusedash/real-time-dashboards-when-live-data-helps-and-when-it-just-adds-noise-49c2)
-- [Expand, Filter, Absorb: How I Actually Use AI](https://dev.to/turtleand/expand-filter-absorb-how-i-actually-use-ai-51f6)
-- [Senior Developers Don&#39;t Write Better Code. They Delete More of It.](https://dev.to/kirill_tolmachev/senior-developers-dont-write-better-code-they-delete-more-of-it-1o88)
-- [How We Added AI Summaries and Chapters to Video Recordings](https://dev.to/alexneamtu/how-we-added-ai-summaries-and-chapters-to-video-recordings-25ia)
-- [Top 5 Snowflake Data Ingestion Tools in 2026 &lpar;Compared &amp; Reviewed&rpar;](https://dev.to/techsourabh/top-5-snowflake-data-ingestion-tools-in-2026-compared-reviewed-2h26)
+- [Building Multi-Container Applications using Podman Quadlets](https://dev.to/project42/building-multi-container-applications-using-podman-quadlets-3063)
+- [Game Dev Digest — Issue #319 - 2D Guides, Game Ideas/Concepts, Optimizing, and more](https://dev.to/gamedevdigest/game-dev-digest-issue-319-2d-guides-game-ideasconcepts-optimizing-and-more-10j1)
+- [How to Build a Futures Trading System](https://dev.to/devexperts/how-to-build-a-futures-trading-system-44gh)
+- [API e REST: descomplicando conceitos que muita gente confunde](https://dev.to/adelinopds/api-e-rest-descomplicando-conceitos-que-muita-gente-confunde-5ami)
+- [How to Build a Research Assistant using Deep Agents](https://dev.to/copilotkit/how-to-build-a-research-assistant-using-deep-agents-2bpg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
