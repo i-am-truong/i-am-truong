@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The $500 Million Security Gap: Bank of Ireland UK’s Critical Failure](https://dev.to/kush_dhuvad_c8d4f344c66c7/the-500-million-security-gap-bank-of-ireland-uks-critical-failure-1kkj)
-- [How I Built a 700+ Calculator Platform with Pure PHP, Zero Frameworks, and a JSON Registry Pattern](https://dev.to/julien786534/how-i-built-a-700-calculator-platform-with-pure-php-zero-frameworks-and-a-json-registry-pattern-2pfp)
-- [My First Experience Using Figma as a Beginner](https://dev.to/ibrsamwel/my-first-experience-using-figma-as-a-beginner-2e5c)
-- [Building a Frontend-Friendly Star Wars API with Next.js BFF](https://dev.to/maiano/building-a-frontend-friendly-star-wars-api-with-nextjs-bff-bjp)
-- [Exploring Olympic Downhill Results with PHP Statistics](https://dev.to/robertobutti/exploring-olympic-downhill-results-with-php-statistics-3eo1)
+- [Why I Built Monk Mode: A Developers Guide to Deep Focus](https://dev.to/monkmodeapp/why-i-built-monk-mode-a-developers-guide-to-deep-focus-5dc3)
+- [How to Build a High-Performance WebSocket Server in Go for Real-Time Applications](https://dev.to/nithinbharathwaj/how-to-build-a-high-performance-websocket-server-in-go-for-real-time-applications-5fdc)
+- [How We Built Transcript-Powered Video Editing in Go](https://dev.to/alexneamtu/how-we-built-transcript-powered-video-editing-in-go-4p58)
+- [The Job Isn&#39;t Writing Code. It&#39;s Knowing When the AI Is Wrong.](https://dev.to/dalleyne/the-job-isnt-writing-code-its-knowing-when-the-ai-is-wrong-4fek)
+- [Why Your Backend Needs an Agentic Loop: My Research on the Musfique Decision Loop &lpar;MDL&rpar;.](https://dev.to/sifatmusfique/why-your-backend-needs-an-agentic-loop-my-research-on-the-musfique-decision-loop-mdl-22ej)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
