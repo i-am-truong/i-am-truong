@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Gmail/Outlook email preview component for Vue](https://dev.to/aoifecarrigan/building-a-gmailoutlook-email-preview-component-for-vue-29kk)
-- [🧵 From JRuby + WebLogic Panic to Peace: A Debugging Story](https://dev.to/santattech/from-jruby-weblogic-panic-to-peace-a-debugging-story-1k3)
-- [My portfolio fetches NASA&#39;s Daily Space Photo - and never fails!](https://dev.to/lfariaus/i-embedded-nasas-api-into-my-portfolio-with-fallback-scraping-rate-limiting-and-zero-3gbh)
-- [SaaS Uptime Monitoring Explained: How Late Outage Detection Hurts Growth and Trust](https://dev.to/mukul_sharma/saas-uptime-monitoring-explained-how-late-outage-detection-hurts-growth-and-trust-34ib)
-- [I built a minimal company profile template because I was tired of colorful noise](https://dev.to/aardnsyhs/i-built-a-minimal-company-profile-template-because-i-was-tired-of-colorful-noise-40b1)
+- [The Secret Life of JavaScript: The Rejection](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-rejection-124d)
+- [回声（第20章）：第二次断开（第一部分）](https://dev.to/chx381/hui-sheng-di-20zhang-di-er-ci-duan-kai-di-bu-fen--261p)
+- [Java Edition of Claude Code CLI is Here! Solon Code CLI Released](https://dev.to/noear/java-edition-of-claude-code-cli-is-here-solon-code-cli-released-1lpb)
+- [&quot;loading...&quot; vs. &quot;thinking...&quot;](https://dev.to/manuartero/loading-vs-thinking-56i0)
+- [AI Image Detection Software in 2026: Identifying Synthetic and Deepfake Images](https://dev.to/hazel_94/ai-image-detection-software-in-2026-identifying-synthetic-and-deepfake-images-10op)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
