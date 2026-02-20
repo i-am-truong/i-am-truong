@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I pip-installed LangChain and Accidentally Triggered EU AI Act Compliance](https://dev.to/arkforge-ceo/i-pip-installed-langchain-and-accidentally-triggered-eu-ai-act-compliance-44kf)
-- [The Boy Scout Rule: Leave Code Better Than You Found It](https://dev.to/maximeshr/the-boy-scout-rule-leave-code-better-than-you-found-it-5e68)
-- [Cloud Cost Governance: A Practical Guide for Modern Teams](https://dev.to/usage_9835/cloud-cost-governance-a-practical-guide-for-modern-teams-17ac)
-- [Agentic Workflows: When Autonomy Pays Off and When It Backfires](https://dev.to/sashido/agentic-workflows-when-autonomy-pays-off-and-when-it-backfires-27b0)
-- [Generate PDF Reports from HTML with Screenshots — A Developer&#39;s Toolkit](https://dev.to/mackmoneymaker/generate-pdf-reports-from-html-with-screenshots-a-developers-toolkit-3nk1)
+- [Building a Gmail/Outlook email preview component for Vue](https://dev.to/aoifecarrigan/building-a-gmailoutlook-email-preview-component-for-vue-29kk)
+- [🧵 From JRuby + WebLogic Panic to Peace: A Debugging Story](https://dev.to/santattech/from-jruby-weblogic-panic-to-peace-a-debugging-story-1k3)
+- [My portfolio fetches NASA&#39;s Daily Space Photo - and never fails!](https://dev.to/lfariaus/i-embedded-nasas-api-into-my-portfolio-with-fallback-scraping-rate-limiting-and-zero-3gbh)
+- [SaaS Uptime Monitoring Explained: How Late Outage Detection Hurts Growth and Trust](https://dev.to/mukul_sharma/saas-uptime-monitoring-explained-how-late-outage-detection-hurts-growth-and-trust-34ib)
+- [I built a minimal company profile template because I was tired of colorful noise](https://dev.to/aardnsyhs/i-built-a-minimal-company-profile-template-because-i-was-tired-of-colorful-noise-40b1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
