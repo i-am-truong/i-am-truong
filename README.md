@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 Open-Source User Interfaces for LLMs](https://dev.to/techlatestnet/top-10-open-source-user-interfaces-for-llms-4pgj)
-- [Store Proxy Fetch](https://dev.to/lizmat/store-proxy-fetch-a07)
-- [Top 50 Must-Know BlackArch Linux Tools for Penetration Testing](https://dev.to/techlatestnet/top-50-must-know-blackarch-linux-tools-for-penetration-testing-3675)
-- [Zero-Downtime Embedding Migration: Switching from text-embedding-004 to text-embedding-3-large in Production](https://dev.to/humzakt/zero-downtime-embedding-migration-switching-from-text-embedding-004-to-text-embedding-3-large-in-1292)
-- [YouTube&#39;s API Quota Is 10,000 Units/Day. Here&#39;s How I Track 100K Videos Without Hitting It.](https://dev.to/siyabuilt/youtubes-api-quota-is-10000-unitsday-heres-how-i-track-100k-videos-without-hitting-it-5d8h)
+- [A Guide to Multi-Server MCP with React &amp; FastMCP](https://dev.to/alapati_suryapruthvi_955e/a-guide-to-multi-server-mcp-with-react-fastmcp-59f8)
+- [5 EU AI Act Compliance Checks Every Python Developer Should Know](https://dev.to/arkforge-ceo/5-eu-ai-act-compliance-checks-every-python-developer-should-know-2kk2)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-5a3g)
+- [What the &#39;sealed&#39; Keyword Means in C# — And When You Should Use It](https://dev.to/libintombaby/what-the-sealed-keyword-means-in-c-and-when-you-should-use-it-572g)
+- [Deep Dive: Self-Improving AI with ACE Skillbooks](https://dev.to/armelhbobdad/deep-dive-self-improving-ai-with-ace-skillbooks-2300)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
