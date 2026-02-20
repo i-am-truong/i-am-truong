@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why I Built Monk Mode: A Developers Guide to Deep Focus](https://dev.to/monkmodeapp/why-i-built-monk-mode-a-developers-guide-to-deep-focus-5dc3)
-- [How to Build a High-Performance WebSocket Server in Go for Real-Time Applications](https://dev.to/nithinbharathwaj/how-to-build-a-high-performance-websocket-server-in-go-for-real-time-applications-5fdc)
-- [How We Built Transcript-Powered Video Editing in Go](https://dev.to/alexneamtu/how-we-built-transcript-powered-video-editing-in-go-4p58)
-- [The Job Isn&#39;t Writing Code. It&#39;s Knowing When the AI Is Wrong.](https://dev.to/dalleyne/the-job-isnt-writing-code-its-knowing-when-the-ai-is-wrong-4fek)
-- [Why Your Backend Needs an Agentic Loop: My Research on the Musfique Decision Loop &lpar;MDL&rpar;.](https://dev.to/sifatmusfique/why-your-backend-needs-an-agentic-loop-my-research-on-the-musfique-decision-loop-mdl-22ej)
+- [I Thought I Knew Linux. This Lab Proved Me Wrong.](https://dev.to/yaak/i-thought-i-knew-linux-this-lab-proved-me-wrong-2ljp)
+- [How to Add a Photo to an Existing Page in a PDF Using macOS Preview](https://dev.to/rlespinasse/how-to-add-a-photo-to-an-existing-page-in-a-pdf-using-macos-preview-ho9)
+- [What Is LLM Grounding? A Developer&#39;s Guide](https://dev.to/moshe_io/what-is-llm-grounding-a-developers-guide-3cj4)
+- [Avatar Profile Generator Built with Imagen - Build Your Own App](https://dev.to/lukeponga-dev/avatar-profile-generator-built-with-imagen-2m2o)
+- [Python Just Turned 35, Here&#39;s What Kept It Alive All These Years](https://dev.to/wallaceespindola/python-just-turned-35-heres-what-kept-it-alive-all-these-years-4jh9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
