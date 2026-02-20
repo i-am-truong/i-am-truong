@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Guide to Multi-Server MCP with React &amp; FastMCP](https://dev.to/alapati_suryapruthvi_955e/a-guide-to-multi-server-mcp-with-react-fastmcp-59f8)
-- [5 EU AI Act Compliance Checks Every Python Developer Should Know](https://dev.to/arkforge-ceo/5-eu-ai-act-compliance-checks-every-python-developer-should-know-2kk2)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-5a3g)
-- [What the &#39;sealed&#39; Keyword Means in C# — And When You Should Use It](https://dev.to/libintombaby/what-the-sealed-keyword-means-in-c-and-when-you-should-use-it-572g)
-- [Deep Dive: Self-Improving AI with ACE Skillbooks](https://dev.to/armelhbobdad/deep-dive-self-improving-ai-with-ace-skillbooks-2300)
+- [Real-Time Dashboards: When Live Data Helps and When It Just Adds Noise](https://dev.to/fusedash/real-time-dashboards-when-live-data-helps-and-when-it-just-adds-noise-49c2)
+- [Expand, Filter, Absorb: How I Actually Use AI](https://dev.to/turtleand/expand-filter-absorb-how-i-actually-use-ai-51f6)
+- [Senior Developers Don&#39;t Write Better Code. They Delete More of It.](https://dev.to/kirill_tolmachev/senior-developers-dont-write-better-code-they-delete-more-of-it-1o88)
+- [How We Added AI Summaries and Chapters to Video Recordings](https://dev.to/alexneamtu/how-we-added-ai-summaries-and-chapters-to-video-recordings-25ia)
+- [Top 5 Snowflake Data Ingestion Tools in 2026 &lpar;Compared &amp; Reviewed&rpar;](https://dev.to/techsourabh/top-5-snowflake-data-ingestion-tools-in-2026-compared-reviewed-2h26)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
