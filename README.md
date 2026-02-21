@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Python CGI Programming Tutorial: Learn Server-Side Python Step by Step](https://dev.to/jt_pt_fae02e46ad80f3cb75d/python-cgi-programming-tutorial-learn-server-side-python-step-by-step-4gng)
+- [OpenClaw on Mac Mini: Secure 24/7 Setup Guide for Production Use](https://dev.to/zafarr/openclaw-on-mac-mini-secure-247-setup-guide-for-production-use-5a29)
 - [Docker vs Kubernetes - Which One Should You Actually Use?](https://dev.to/prateekbka/docker-vs-kubernetes-which-one-should-you-actually-use-4473)
 - [Operational Excellence Begins With Architecture Awareness](https://dev.to/abchatterjee7/operational-excellence-begins-with-architecture-awareness-4fe4)
 - [I built a GitHub star monitor in a single YAML file — zero dependencies, zero config](https://dev.to/woojinahn/i-built-a-github-star-monitor-in-a-single-yaml-file-zero-dependencies-zero-config-2ccb)
-- [I built a full Markdown IDE using Claude Opus 4. Live preview, AI assistant &lpar;BYOM&rpar;, diagrams, workspaces all client-side, zero backend. No signup. No subscriptions. Just open and write. Try it now - https://v-senthil.github.io/mark-viwer/](https://dev.to/senthil_v/i-built-a-full-markdown-ide-using-claude-opus-4-live-preview-ai-assistant-byom-diagrams-4c6c)
-- [BunnyJump counter](https://dev.to/megzlawther1/bunnyjump-counter-4jp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
