@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Great stuff in there......](https://dev.to/iammtander/great-stuff-in-there-3dm4)
-- [The Essence of DDD: The Practice Guide from Philosophy to Mathematics to Engineering](https://dev.to/canonical/the-essence-of-ddd-the-practice-guide-from-philosophy-to-mathematics-to-engineering-37gp)
-- [The Python Guide: Virtual Environments, pip, and Everyday Workflows](https://dev.to/namraj/the-python-guide-virtual-environments-pip-and-everyday-workflows-dcf)
-- [Top 17 Trending Python Projects on GitHub](https://dev.to/rosgluk/top-17-trending-python-projects-on-github-5033)
-- [NET SDK](https://dev.to/tyropon/net-sdk-550j)
+- [Controlling VRM Character Motions for an AI Agent on the Web](https://dev.to/yokomachi/controlling-vrm-character-motions-for-an-ai-agent-on-the-web-3gga)
+- [Stop Paying the Vercel Tax: Self-Host Next.js with Coolify &amp; VPS &lpar;2026 Guide&rpar;](https://dev.to/saqibshahdev/stop-paying-the-vercel-tax-self-host-nextjs-with-coolify-vps-2026-guide-f1b)
+- [How to Build a Web Page to PDF Converter and Not Lose Your Mind](https://dev.to/borzab/how-to-build-a-web-page-to-pdf-converter-and-not-lose-your-mind-2kp0)
+- [EKS-node-viewer: See Your EKS Costs in Real-Time &lpar;No Dashboard Needed&rpar;](https://dev.to/prithiviraj_rengarajan/eks-node-viewer-see-your-eks-costs-in-real-time-no-dashboard-needed-34n2)
+- [آموزش نصب Odoo 19 روی ویندوز &lpar;از صفر تا اجرا&rpar; | نصب نسخه Community مرحله‌به‌مرحله](https://dev.to/zagros_erp/amwzsh-nsb-odoo-19-rwy-wyndwz-z-sfr-t-jr-nsb-nskhh-community-mrhlhbhmrhlh-58ek)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
