@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Blocking Bing at Home with Pi-Hole &lpar;Without Breaking Edge&rpar;](https://dev.to/lancer1977/blocking-bing-at-home-with-pi-hole-without-breaking-edge-21fl)
-- [Find Pivot Index &lpar;Prefix Sum Made Simple&rpar;](https://dev.to/nithya_dharshiniofficial/find-pivot-index-prefix-sum-made-simple-2h68)
-- [Moving from Node Groups to NodePools on Amazon EKS](https://dev.to/aws-heroes/moving-from-node-groups-to-nodepools-on-amazon-eks-1kc5)
-- [Thinking Out Loud: A Workflow Engine I Built at Work This Week](https://dev.to/thomas_emad/thinking-out-loud-a-workflow-engine-i-built-at-work-this-week-1gf9)
-- [🧮 Building a Binary Decimal Converter Pro with Python &amp; Tkinter](https://dev.to/matetechnologie/building-a-binary-decimal-converter-pro-with-python-tkinter-4f9n)
+- [Getting Started with LLM Gateway in 5 Minutes](https://dev.to/smakosh/getting-started-with-llm-gateway-in-5-minutes-67p)
+- [Habits I Learned Too Late as a Developer — part 2](https://dev.to/glnurltn/habits-i-learned-too-late-as-a-developer-part-2-1gio)
+- [The $100k AWS Routing Trap: S3 + NAT Gateways &lpar;and how to fix it with Terraform&rpar;](https://dev.to/ntctech/the-100k-aws-routing-trap-s3-nat-gateways-and-how-to-fix-it-with-terraform-41fo)
+- [Procrastination in disguise](https://dev.to/jaboarnoldlandry/procrastination-in-disguise-3605)
+- [I Built 7 AI Products in One Weekend — Here&#39;s What I Learned &lpar;And You Can Have Them&rpar;](https://dev.to/caper_dev/i-built-7-ai-products-in-one-weekend-heres-what-i-learned-and-you-can-have-them-2nj9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
