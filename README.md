@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Hosting Comparison Platform with Astro, Svelte 5 &amp; Hono](https://dev.to/hostingsift/i-built-a-hosting-comparison-platform-with-astro-svelte-5-hono-3kde)
-- [Why LLMs Alone Are Not Agents](https://dev.to/shaheryaryousaf/why-llms-alone-are-not-agents-342e)
-- [Why AI Agents Need to Think About Trust: Lessons from the MoltBook Security Incident](https://dev.to/operationalneuralnetwork/why-ai-agents-need-to-think-about-trust-lessons-from-the-moltbook-security-incident-45pk)
-- [The Best Free OpenClaw Setup for OpenRouter :free Models](https://dev.to/curi0us_dev/the-best-free-openclaw-setup-for-openrouter-free-models-366g)
-- [I Failed 4 FAANG Interviews Before Learning This: The Complete Coding Interview Preparation Guide for 2026](https://dev.to/somadevtoo/i-failed-4-faang-interviews-before-learning-this-the-complete-coding-interview-preparation-guide-gjh)
+- [Docker vs Kubernetes - Which One Should You Actually Use?](https://dev.to/prateekbka/docker-vs-kubernetes-which-one-should-you-actually-use-4473)
+- [Operational Excellence Begins With Architecture Awareness](https://dev.to/abchatterjee7/operational-excellence-begins-with-architecture-awareness-4fe4)
+- [I built a GitHub star monitor in a single YAML file — zero dependencies, zero config](https://dev.to/woojinahn/i-built-a-github-star-monitor-in-a-single-yaml-file-zero-dependencies-zero-config-2ccb)
+- [I built a full Markdown IDE using Claude Opus 4. Live preview, AI assistant &lpar;BYOM&rpar;, diagrams, workspaces all client-side, zero backend. No signup. No subscriptions. Just open and write. Try it now - https://v-senthil.github.io/mark-viwer/](https://dev.to/senthil_v/i-built-a-full-markdown-ide-using-claude-opus-4-live-preview-ai-assistant-byom-diagrams-4c6c)
+- [BunnyJump counter](https://dev.to/megzlawther1/bunnyjump-counter-4jp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
