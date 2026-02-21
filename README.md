@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Great stuff in there......](https://dev.to/iammtander/great-stuff-in-there-3dm4)
+- [The Essence of DDD: The Practice Guide from Philosophy to Mathematics to Engineering](https://dev.to/canonical/the-essence-of-ddd-the-practice-guide-from-philosophy-to-mathematics-to-engineering-37gp)
+- [The Python Guide: Virtual Environments, pip, and Everyday Workflows](https://dev.to/namraj/the-python-guide-virtual-environments-pip-and-everyday-workflows-dcf)
+- [Top 17 Trending Python Projects on GitHub](https://dev.to/rosgluk/top-17-trending-python-projects-on-github-5033)
 - [NET SDK](https://dev.to/tyropon/net-sdk-550j)
-- [Best LLMs for Ollama on 16GB VRAM GPU](https://dev.to/rosgluk/best-llms-for-ollama-on-16gb-vram-gpu-393h)
-- [Stop Overengineering Your Side Projects](https://dev.to/baransel/stop-overengineering-your-side-projects-1a3c)
-- [Qwen3.5 Released! Native Multimodality and Superior Performance – Proje Defteri](https://dev.to/projedefteri/qwen35-released-native-multimodality-and-superior-performance-proje-defteri-297g)
-- [Researchers Gave AI Agents Real Jobs. The Agents Couldn&#39;t Close a Pop-Up.](https://dev.to/mothasa/researchers-gave-ai-agents-real-jobs-the-agents-couldnt-close-a-pop-up-b0d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
