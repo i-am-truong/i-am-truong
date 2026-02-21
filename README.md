@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Designing a Machine-First Website That Detects AI Crawlers in Production](https://dev.to/daniel_shively_40098e06e4/designing-a-machine-first-website-that-detects-ai-crawlers-in-production-37ic)
 - [Clean up repo with knip and two-line prompt](https://dev.to/0xkoji/clean-up-repo-with-knip-and-two-line-prompt-2ol1)
 - [On the Properties of the Softmax Function with Application in Game Theory andReinforcement Learning](https://dev.to/paperium/on-the-properties-of-the-softmax-function-with-application-in-game-theory-andreinforcement-learning-4fal)
 - [Why Your AI Agent Should Use a Speech API Instead of LLM Inference](https://dev.to/fabiosuizu/why-your-ai-agent-should-use-a-speech-api-instead-of-llm-inference-1cfe)
 - [I Built a Free yt-dlp Web Frontend That Supports 1000+ Sites — Here&#39;s How](https://dev.to/john_jewskiz/i-built-a-free-yt-dlp-web-frontend-that-supports-1000-sites-heres-how-1f45)
-- [Side project idea I](https://dev.to/karenpayneoregon/side-project-idea-i-32g8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
