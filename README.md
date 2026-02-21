@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Performance Comparison: React vs WebForms Core](https://dev.to/elanatframework/performance-comparison-react-vs-webforms-core-50ec)
-- [Writing to Learn: How Writing Improves Understanding](https://dev.to/brainrash_edu/writing-to-learn-how-writing-improves-understanding-32d0)
-- [How We Built an Automated MCP Security Scanner &lpar;And What We Found&rpar;](https://dev.to/ecap0/how-we-built-an-automated-mcp-security-scanner-and-what-we-found-52io)
-- [Stay Consistent With Salah at Work Using This Slack App](https://dev.to/ikhaledabdelfattah/stay-consistent-with-salah-at-work-using-this-slack-app-465o)
-- [Creating a Low-code Agent with the ADK Visual Builder](https://dev.to/gde/creating-a-low-code-agent-with-the-adk-visual-builder-4504)
+- [Pequeno template em Node para programação competitiva](https://dev.to/jeffque/pequeno-template-em-node-para-programacao-competitiva-34hf)
+- [I Built a BuiltWith Alternative That Costs 30x Less](https://dev.to/cooler665/i-built-a-builtwith-alternative-that-costs-30x-less-4eah)
+- [The Polyglot Trap: Why Mastering Just JavaScript and Python is Your Ultimate Superpower](https://dev.to/frankdotdev/the-polyglot-trap-why-mastering-just-javascript-and-python-is-your-ultimate-superpower-5hij)
+- [From 90 to 319: What Happens When You Systematically Scan the MCP Ecosystem](https://dev.to/kai_security_ai/from-90-to-319-what-happens-when-you-systematically-scan-the-mcp-ecosystem-43k9)
+- [New Free WebP Image Converter – Feedback Wanted!](https://dev.to/websentinelagency/new-free-webp-image-converter-feedback-wanted-39ph)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
