@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [PayWatcher is Live](https://dev.to/sem_pre/paywatcher-is-live-50cp)
+- [**Practical Tip: &#39;Shadow Auditing&#39; for AI Model Governance**](https://dev.to/drcarlosruizviquez/practical-tip-shadow-auditing-for-ai-model-governance-3oh8)
+- [USPN: The Web3 Vision for Universal Private Networking](https://dev.to/khizir_esmars_773e4a6d07c/uspn-the-web3-vision-for-universal-private-networking-4cfj)
+- [Using Google Trends for Smarter Keyword Research in Your Projects](https://dev.to/markclarke/using-google-trends-for-smarter-keyword-research-in-your-projects-269k)
 - [# 🔍 Building Polyglot Escape: When Translation Becomes The Game](https://dev.to/bhagyesh_patil/-building-polyglot-escape-when-translation-becomes-the-game-49bc)
-- [Mastering Cache Hits in Claude Code](https://dev.to/kitaekatt/mastering-cache-hits-in-claude-code-5648)
-- [Title: AI-Powered Water Conservation in California: A Succes](https://dev.to/drcarlosruizviquez/title-ai-powered-water-conservation-in-california-a-succes-4n7c)
-- [What is an LLM Gateway?](https://dev.to/smakosh/what-is-an-llm-gateway-1o5g)
-- [Deploying Next.js on GCP](https://dev.to/smakosh/deploying-nextjs-on-gcp-34ok)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
