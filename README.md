@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Install WKHTMLtoPDF on Ubuntu &lpar;Step-by-Step Guide&rpar;](https://dev.to/wkhtmltopdf_fe75f6243dc5e/how-to-install-wkhtmltopdf-on-ubuntu-step-by-step-guide-3gbm)
-- [How to Add Persistent Memory to an LLM App &lpar;Without Fine-Tuning&rpar; — A Practical Architecture Guide](https://dev.to/cloyouai/how-to-add-persistent-memory-to-an-llm-app-without-fine-tuning-a-practical-architecture-guide-6dl)
-- [White Label Payment Gateway Solutions: What They Are &amp; Why Tech Teams Need to Know](https://dev.to/finsol_group/white-label-payment-gateway-solutions-what-they-are-why-tech-teams-need-to-know-41e7)
-- [Production-Grade YouTube MCP Server](https://dev.to/yash_kashte/production-grade-youtube-mcp-server-13c5)
-- [Recursive Knowledge Crystallization: A Framework for Persistent Autonomous Agent Self-Evolution](https://dev.to/gde/recursive-knowledge-crystallization-a-framework-for-persistent-autonomous-agent-self-evolution-4mk4)
+- [La Arquitectura del Silencio: Abraham Wald y la Epistemología de los Datos Ausentes](https://dev.to/datalaria/la-arquitectura-del-silencio-abraham-wald-y-la-epistemologia-de-los-datos-ausentes-50il)
+- [Daily Challenge #9 : The &quot;Steady Hand&quot; Maze 🖱️](https://dev.to/bingkahu/daily-challenge-9-the-steady-hand-maze-49e0)
+- [Your AI SRE Doesn&#39;t Need One Model — It Needs the Right Model for Each Job](https://dev.to/vainkop/your-ai-sre-doesnt-need-one-model-it-needs-the-right-model-for-each-job-2b1j)
+- [The Agentic Attack Surface: 2005 Web Security All Over Again](https://dev.to/dendrite_soup/the-agentic-attack-surface-2005-web-security-all-over-again-3ab6)
+- [Connecting Gravity Forms to n8n Using Webhooks &lpar;Step-by-Step&rpar;](https://dev.to/ajay_radadiya_2aa80b1eaa7/connecting-gravity-forms-to-n8n-using-webhooks-step-by-step-25l0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
