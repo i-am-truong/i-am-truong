@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Learning in public - Scrimba fullstack path](https://dev.to/fredrik_berg/learning-in-public-scrimba-fullstack-path-1n4l)
+- [OpenClaw Is Unsafe By Design](https://dev.to/dendrite_soup/openclaw-is-unsafe-by-design-58gb)
 - [How to Benchmark Web Frameworks in a Fair, Isolated Way | Mahdi Shamlou](https://dev.to/mahdi0shamlou/how-to-benchmark-web-frameworks-in-a-fair-isolated-way-mahdi-shamlou-1mol)
 - [Automate Me If You Can: The Accomplish Hackathon by WeMakeDevs](https://dev.to/onirestart/automate-me-if-you-can-the-accomplish-hackathon-by-wemakedevs-2cei)
 - [Teaching a Robot to Play a Toddler Game: VLAs, Gemini 3 Flash, and First Orchard](https://dev.to/googleai/teaching-a-robot-to-play-a-toddler-game-vlas-gemini-3-flash-and-first-orchard-14g4)
-- [Building AI Chat Interfaces is Exhausting. So I Open-Sourced a Solution.](https://dev.to/beyza_arisoy/building-ai-chat-interfaces-is-exhausting-so-i-open-sourced-a-solution-3oc5)
-- [Calling .NET Code from Java: Every Approach Ranked &lpar;By Someone Who&#39;s Seen Them All&rpar;](https://dev.to/jnbridge/your-java-app-needs-a-net-library-heres-how-i-survived-the-integration-26hp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
