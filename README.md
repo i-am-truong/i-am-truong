@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Python CGI Programming Tutorial: Learn Server-Side Python Step by Step](https://dev.to/jt_pt_fae02e46ad80f3cb75d/python-cgi-programming-tutorial-learn-server-side-python-step-by-step-4gng)
-- [OpenClaw on Mac Mini: Secure 24/7 Setup Guide for Production Use](https://dev.to/zafarr/openclaw-on-mac-mini-secure-247-setup-guide-for-production-use-5a29)
-- [Docker vs Kubernetes - Which One Should You Actually Use?](https://dev.to/prateekbka/docker-vs-kubernetes-which-one-should-you-actually-use-4473)
-- [Operational Excellence Begins With Architecture Awareness](https://dev.to/abchatterjee7/operational-excellence-begins-with-architecture-awareness-4fe4)
-- [I built a GitHub star monitor in a single YAML file — zero dependencies, zero config](https://dev.to/woojinahn/i-built-a-github-star-monitor-in-a-single-yaml-file-zero-dependencies-zero-config-2ccb)
+- [Your Company&#39;s Biggest AI Risk Is the AI Nobody Approved](https://dev.to/mothasa/your-companys-biggest-ai-risk-is-the-ai-nobody-approved-7f9)
+- [The Most Popular AI Agent on GitHub Is a Security Catastrophe](https://dev.to/mothasa/the-most-popular-ai-agent-on-github-is-a-security-catastrophe-415m)
+- [L&#39;Architecture de la Pensée Numérique : De l&#39;Algorithme à la Conscience](https://dev.to/lazarusfin/larchitecture-de-la-pensee-numerique-de-lalgorithme-a-la-conscience-5805)
+- [#java #oop #programming #computerscience](https://dev.to/kanishkashr/java-oop-programming-computerscience-4op)
+- [Virtual Machines](https://dev.to/big_namz/virtual-machines-3c2g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
