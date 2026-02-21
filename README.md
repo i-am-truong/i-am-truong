@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CloudFormation Template does count whitespaces in Template Size...](https://dev.to/prithvijj/cloudformation-template-does-count-whitespaces-in-template-size-5hlg)
-- [From Binary to AI Agents: Developers Have Never Been More Powerful](https://dev.to/abdeltoto/from-binary-to-ai-agents-developers-have-never-been-more-powerful-5hck)
-- [Your Architecture Diagram Is a Lie and Everyone in the Meeting Knows It](https://dev.to/kirill_tolmachev/your-architecture-diagram-is-a-lie-and-everyone-in-the-meeting-knows-it-15l9)
-- [Deep dive into the IAM concepts and understand it with practicle hands-on.](https://dev.to/nandan_007/deep-dive-into-the-iam-concepts-and-understand-it-with-practicle-hands-on-2ogp)
-- [Introducing CAF: Clean Architecture Frontend](https://dev.to/ali_aslani/introducing-caf-clean-architecture-frontend-4k37)
+- [A multilingual programming language where the same AST runs English, French, Spanish, etc.](https://dev.to/jsamwrites/a-multilingual-programming-language-where-the-same-ast-runs-english-french-spanish-etc-23bd)
+- [How Apple Music Maps Audio to Lyrics — The Engineering Behind Real-Time Lyric Sync](https://dev.to/vimu_kale_4b5058f002ff8b1/how-apple-music-maps-audio-to-lyrics-the-engineering-behind-real-time-lyric-sync-4fin)
+- [Docker Port Exposing: My Real Production Mistake](https://dev.to/prashanta0234/docker-port-exposing-my-real-production-mistake-4jd0)
+- [Turbocharge Your Content with Sitecore AI Publishing V2](https://dev.to/roshan_ravaliya_c84c08f79/turbocharge-your-content-with-sitecore-ai-publishing-v2-18b5)
+- [Build your own AI code review agent in CI](https://dev.to/lvndry/build-your-own-ai-code-review-agent-in-ci-4mai)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
