@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [La Arquitectura del Silencio: Abraham Wald y la Epistemología de los Datos Ausentes](https://dev.to/datalaria/la-arquitectura-del-silencio-abraham-wald-y-la-epistemologia-de-los-datos-ausentes-50il)
-- [Daily Challenge #9 : The &quot;Steady Hand&quot; Maze 🖱️](https://dev.to/bingkahu/daily-challenge-9-the-steady-hand-maze-49e0)
-- [Your AI SRE Doesn&#39;t Need One Model — It Needs the Right Model for Each Job](https://dev.to/vainkop/your-ai-sre-doesnt-need-one-model-it-needs-the-right-model-for-each-job-2b1j)
-- [The Agentic Attack Surface: 2005 Web Security All Over Again](https://dev.to/dendrite_soup/the-agentic-attack-surface-2005-web-security-all-over-again-3ab6)
-- [Connecting Gravity Forms to n8n Using Webhooks &lpar;Step-by-Step&rpar;](https://dev.to/ajay_radadiya_2aa80b1eaa7/connecting-gravity-forms-to-n8n-using-webhooks-step-by-step-25l0)
+- [I Built a Hosting Comparison Platform with Astro, Svelte 5 &amp; Hono](https://dev.to/hostingsift/i-built-a-hosting-comparison-platform-with-astro-svelte-5-hono-3kde)
+- [Why LLMs Alone Are Not Agents](https://dev.to/shaheryaryousaf/why-llms-alone-are-not-agents-342e)
+- [Why AI Agents Need to Think About Trust: Lessons from the MoltBook Security Incident](https://dev.to/operationalneuralnetwork/why-ai-agents-need-to-think-about-trust-lessons-from-the-moltbook-security-incident-45pk)
+- [The Best Free OpenClaw Setup for OpenRouter :free Models](https://dev.to/curi0us_dev/the-best-free-openclaw-setup-for-openrouter-free-models-366g)
+- [I Failed 4 FAANG Interviews Before Learning This: The Complete Coding Interview Preparation Guide for 2026](https://dev.to/somadevtoo/i-failed-4-faang-interviews-before-learning-this-the-complete-coding-interview-preparation-guide-gjh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
