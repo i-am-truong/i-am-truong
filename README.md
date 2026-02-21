@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A multilingual programming language where the same AST runs English, French, Spanish, etc.](https://dev.to/jsamwrites/a-multilingual-programming-language-where-the-same-ast-runs-english-french-spanish-etc-23bd)
-- [How Apple Music Maps Audio to Lyrics — The Engineering Behind Real-Time Lyric Sync](https://dev.to/vimu_kale_4b5058f002ff8b1/how-apple-music-maps-audio-to-lyrics-the-engineering-behind-real-time-lyric-sync-4fin)
-- [Docker Port Exposing: My Real Production Mistake](https://dev.to/prashanta0234/docker-port-exposing-my-real-production-mistake-4jd0)
-- [Turbocharge Your Content with Sitecore AI Publishing V2](https://dev.to/roshan_ravaliya_c84c08f79/turbocharge-your-content-with-sitecore-ai-publishing-v2-18b5)
-- [Build your own AI code review agent in CI](https://dev.to/lvndry/build-your-own-ai-code-review-agent-in-ci-4mai)
+- [How to Create an EC2 instance in AWS free tier: A Step-by-Step Guide](https://dev.to/louis_oodo_a59b230b894609/how-to-create-an-ec2-instance-in-aws-free-tier-a-step-by-step-guide-2kh)
+- [How Komilion&#39;s Request Routing Actually Works](https://dev.to/robinbanner/how-komilions-request-routing-actually-works-4oef)
+- [Continue.dev + Claude Max Ban: Fix in 60 Seconds](https://dev.to/robinbanner/continuedev-claude-max-ban-fix-in-60-seconds-1n01)
+- [Claude Code Is Expensive by Default — Here&#39;s How to Fix That](https://dev.to/robinbanner/claude-code-is-expensive-by-default-heres-how-to-fix-that-45j0)
+- [Cursor + Claude Max Ban: What Broke and How to Fix It](https://dev.to/robinbanner/cursor-claude-max-ban-what-broke-and-how-to-fix-it-1ci8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
