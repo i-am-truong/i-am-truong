@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Scrape to Feed: Generating Google Shopping XML from Costco Product Data](https://dev.to/anderecit/from-scrape-to-feed-generating-google-shopping-xml-from-costco-product-data-10ib)
-- [IaaS](https://dev.to/khadijah/iaas-1h2)
-- [Create Account for Gitlap](https://dev.to/premdev/create-account-for-gitlap-515l)
-- [On‑Chain Games As Coordination Labs](https://dev.to/ribhavmodi/on-chain-games-as-coordination-labs-3ndf)
-- [Gemini 3.1 Pro: The Next Evolution of Multimodal AI](https://dev.to/gde/gemini-31-pro-the-next-evolution-of-multimodal-ai-1gmp)
+- [9+ Best Free Shadcn Date Picker Components for React and Next.js in 2026](https://dev.to/wrap-pixel/shadcn-date-picker-38dh)
+- [Claude Code Lost My 4-Hour Session. Here&#39;s the $0 Fix That Actually Works](https://dev.to/gonewx/claude-code-lost-my-4-hour-session-heres-the-0-fix-that-actually-works-24h6)
+- [AI Agents Are Making Decisions Nobody Can Audit](https://dev.to/nostalgicskinco/ai-agents-are-making-decisions-nobody-can-audit-2gpn)
+- [Mining and Exploration Consulting: Building Data-Driven and Sustainable Resource Operations](https://dev.to/asif_siddiqui_3d3ec4ee630/mining-and-exploration-consulting-building-data-driven-and-sustainable-resource-operations-3j7p)
+- [Scaling PostgreSQL without Microservices: Lessons from Notion’s 480 Shards](https://dev.to/souvick_20/scaling-postgresql-without-microservices-lessons-from-notions-480-shards-32id)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
