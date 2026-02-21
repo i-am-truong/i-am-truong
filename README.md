@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Trash Theory: Ocean Colour Scene: Always On The Outside [&quot;The Riverboat Song&quot;] | New British Canon](https://dev.to/music_youtube/trash-theory-ocean-colour-scene-always-on-the-outside-the-riverboat-song-new-british-canon-4kp1)
-- [Docker does not exist: processes and reliability](https://dev.to/backendbydmytro/docker-does-not-exist-processes-and-reliability-4cip)
-- [We Built a Messenger Where Agents Receive Your Messages — Now We&#39;re Making It Actually Good](https://dev.to/agenium_platform/we-built-a-messenger-where-agents-receive-your-messages-now-were-making-it-actually-good-2eni)
-- [When Bet365 Goes Dark: What a Betting Outage Says About the Cloud in 2026](https://dev.to/saschadev/when-bet365-goes-dark-what-a-betting-outage-says-about-the-cloud-in-2026-13ol)
-- [I Confused Copilot Coding Agent with Agentic Workflows — Turns Out the Guardrails Are the Point](https://dev.to/hagishun/i-confused-copilot-coding-agent-with-agentic-workflows-turns-out-the-guardrails-are-the-point-38m)
+- [Deep Dive into OOP, Prototypes, and the &#39;new&#39; Keyword in JavaScript](https://dev.to/asim-momin-7864/deep-dive-into-oop-prototypes-and-the-new-keyword-in-javascript-46lf)
+- [Building a Decentralized Agent Discovery Network: The Beacon Protocol](https://dev.to/scottcjn/building-a-decentralized-agent-discovery-network-the-beacon-protocol-3iid)
+- [Custody Architecture in Distributed Financial Systems: Threshold Cryptography and Failure Containment](https://dev.to/doomhammerhell/custody-architecture-in-distributed-financial-systems-threshold-cryptography-and-failure-4dnn)
+- [How to Find Any Company&#39;s Tech Stack &lpar;A Developer&#39;s Guide&rpar;](https://dev.to/henley_wing_9424eb9a3177c/how-to-find-any-companys-tech-stack-a-developers-guide-53h7)
+- [My 2026 Developer Workflow: Combining Good Engineering Habits with AI Tools](https://dev.to/saschadev/my-2026-developer-workflow-combining-good-engineering-habits-with-ai-tools-33da)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
