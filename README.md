@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Controlling VRM Character Motions for an AI Agent on the Web](https://dev.to/yokomachi/controlling-vrm-character-motions-for-an-ai-agent-on-the-web-3gga)
-- [Stop Paying the Vercel Tax: Self-Host Next.js with Coolify &amp; VPS &lpar;2026 Guide&rpar;](https://dev.to/saqibshahdev/stop-paying-the-vercel-tax-self-host-nextjs-with-coolify-vps-2026-guide-f1b)
-- [How to Build a Web Page to PDF Converter and Not Lose Your Mind](https://dev.to/borzab/how-to-build-a-web-page-to-pdf-converter-and-not-lose-your-mind-2kp0)
-- [EKS-node-viewer: See Your EKS Costs in Real-Time &lpar;No Dashboard Needed&rpar;](https://dev.to/prithiviraj_rengarajan/eks-node-viewer-see-your-eks-costs-in-real-time-no-dashboard-needed-34n2)
-- [آموزش نصب Odoo 19 روی ویندوز &lpar;از صفر تا اجرا&rpar; | نصب نسخه Community مرحله‌به‌مرحله](https://dev.to/zagros_erp/amwzsh-nsb-odoo-19-rwy-wyndwz-z-sfr-t-jr-nsb-nskhh-community-mrhlhbhmrhlh-58ek)
+- [I Built 16 Free Dev Tools in a Week — Here&#39;s What I Learned](https://dev.to/mackmoneymaker/i-built-16-free-dev-tools-in-a-week-heres-what-i-learned-37bd)
+- [I Built a Multi-Service Kubernetes App and Here&#39;s What Actually Broke](https://dev.to/adil-khan-723/i-built-a-multi-service-kubernetes-app-and-heres-what-actually-broke-c81)
+- [The Undocumented Secret to Hedera Message Signature Verification](https://dev.to/maxis/-the-undocumented-secret-to-hedera-message-signature-verification-e5l)
+- [StackOverflow - was it worth it?](https://dev.to/nikola/stackoverflow-was-it-worth-it-21ki)
+- [Tool That Converts Floor Plans to Furnitized Apartment — Here&#39;s How It Works Under the Hood](https://dev.to/meltflex_sales_421e71a49f/tool-that-converts-floor-plans-to-furnitized-apartment-heres-how-it-works-under-the-hood-dlc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
