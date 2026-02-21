@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Automate Website Thumbnails for Your Link Aggregator or Directory](https://dev.to/mackmoneymaker/automate-website-thumbnails-for-your-link-aggregator-or-directory-c7l)
-- [I Built an Autonomous AI DevOps Agent Using LangGraph and AWS Bedrock — Here&#39;s Everything I Learned](https://dev.to/kartikmanimuthu/i-built-an-autonomous-ai-devops-agent-using-langgraph-and-aws-bedrock-heres-everything-i-learned-5591)
-- [Building a Smart Video Compressor in Python &lpar;Step-by-Step&rpar;](https://dev.to/matetechnologie/building-a-smart-video-compressor-in-python-step-by-step-4f23)
-- [How I Built a 5,000-Page Programmatic SEO Engine with Next.js, Supabase and Claude AI](https://dev.to/kamal_rifai_12718c8dc688d/how-i-built-a-5000-page-programmatic-seo-engine-with-nextjs-supabase-and-claude-ai-4601)
-- [What Women Learn in Krav Maga Self-Defense Training](https://dev.to/dayandean/what-women-learn-in-krav-maga-self-defense-training-4el2)
+- [Qwen3.5 Released! Native Multimodality and Superior Performance – Proje Defteri](https://dev.to/projedefteri/qwen35-released-native-multimodality-and-superior-performance-proje-defteri-297g)
+- [Researchers Gave AI Agents Real Jobs. The Agents Couldn&#39;t Close a Pop-Up.](https://dev.to/mothasa/researchers-gave-ai-agents-real-jobs-the-agents-couldnt-close-a-pop-up-b0d)
+- [AI-Powered KPI Extraction: From Annual Reports to Actionable Insights.](https://dev.to/contextfirstai/ai-powered-kpi-extraction-from-annual-reports-to-actionable-insights-1lc)
+- [I Built. I Failed. I Deleted Everything. And I’m Okay With That.](https://dev.to/puneetkumar2010/i-built-i-failed-i-deleted-everything-and-im-okay-with-that-303b)
+- [I built a todo app for people who hate todo apps ✅](https://dev.to/amanso23/i-built-a-todo-app-for-people-who-hate-todo-apps-m18)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
