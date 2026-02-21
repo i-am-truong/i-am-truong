@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Built a 5-Agent AI Collaborative Operating System with OpenClaw: A Full Technical Breakdown!!!](https://dev.to/behruamm/i-built-a-5-agent-ai-collaborative-operating-system-with-openclaw-a-full-technical-breakdown-35gj)
+- [Musings on Structure Declarations](https://dev.to/pauljlucas/musings-on-structure-declarations-cfb)
 - [How to Create an EC2 instance in AWS free tier: A Step-by-Step Guide](https://dev.to/louis_oodo_a59b230b894609/how-to-create-an-ec2-instance-in-aws-free-tier-a-step-by-step-guide-2kh)
 - [How Komilion&#39;s Request Routing Actually Works](https://dev.to/robinbanner/how-komilions-request-routing-actually-works-4oef)
 - [Continue.dev + Claude Max Ban: Fix in 60 Seconds](https://dev.to/robinbanner/continuedev-claude-max-ban-fix-in-60-seconds-1n01)
-- [Claude Code Is Expensive by Default — Here&#39;s How to Fix That](https://dev.to/robinbanner/claude-code-is-expensive-by-default-heres-how-to-fix-that-45j0)
-- [Cursor + Claude Max Ban: What Broke and How to Fix It](https://dev.to/robinbanner/cursor-claude-max-ban-what-broke-and-how-to-fix-it-1ci8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
