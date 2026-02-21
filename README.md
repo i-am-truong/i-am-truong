@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Pequeno template em Node para programação competitiva](https://dev.to/jeffque/pequeno-template-em-node-para-programacao-competitiva-34hf)
-- [I Built a BuiltWith Alternative That Costs 30x Less](https://dev.to/cooler665/i-built-a-builtwith-alternative-that-costs-30x-less-4eah)
-- [The Polyglot Trap: Why Mastering Just JavaScript and Python is Your Ultimate Superpower](https://dev.to/frankdotdev/the-polyglot-trap-why-mastering-just-javascript-and-python-is-your-ultimate-superpower-5hij)
-- [From 90 to 319: What Happens When You Systematically Scan the MCP Ecosystem](https://dev.to/kai_security_ai/from-90-to-319-what-happens-when-you-systematically-scan-the-mcp-ecosystem-43k9)
-- [New Free WebP Image Converter – Feedback Wanted!](https://dev.to/websentinelagency/new-free-webp-image-converter-feedback-wanted-39ph)
+- [Microservices Most Asked Interview Questions](https://dev.to/bhu_kalki/microservices-most-asked-interview-questions-46mm)
+- [I built a note-taking app where I literally can&#39;t access your data](https://dev.to/braska/i-built-a-note-taking-app-where-i-literally-cant-access-your-data-14ai)
+- [[Boost]](https://dev.to/jeffque/-4579)
+- [The Two Layers of MCP Security: Runtime Exposure vs Supply Chain](https://dev.to/kai_security_ai/the-two-layers-of-mcp-security-runtime-exposure-vs-supply-chain-5702)
+- [How to Add a Kill Switch to Your AI Agent in 5 Minutes](https://dev.to/json_shotwell/how-to-add-a-kill-switch-to-your-ai-agent-in-5-minutes-8ih)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
