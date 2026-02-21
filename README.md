@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Forcing a Review Between Claude and git commit](https://dev.to/lovestaco/forcing-a-review-between-claude-and-git-commit-1442)
-- [How I Built an AI Assistant on a Mac Mini M4](https://dev.to/caper_dev/how-i-built-an-ai-assistant-on-a-mac-mini-m4-409d)
-- [Solved: Network Engineer to Cloud Engineer? Has anyone made this move?](https://dev.to/techresolve/solved-network-engineer-to-cloud-engineer-has-anyone-made-this-move-2j5p)
-- [Lakehouse or Warehouse which one to choose in Fabric ?](https://dev.to/anshul_02/lakehouse-or-warehouse-which-one-to-choose-in-fabric--356k)
-- [I Run My Businesses With 7 AI Agents for $200/Month. Here&#39;s What Actually Happens.](https://dev.to/the200dollarceo/i-run-my-businesses-with-7-ai-agents-for-200month-heres-what-actually-happens-5cdm)
+- [Thinking Out Loud: A Workflow Engine I Built at Work This Week](https://dev.to/thomas_emad/thinking-out-loud-a-workflow-engine-i-built-at-work-this-week-1gf9)
+- [🧮 Building a Binary Decimal Converter Pro with Python &amp; Tkinter](https://dev.to/matetechnologie/building-a-binary-decimal-converter-pro-with-python-tkinter-4f9n)
+- [lazygit-style TUI for NuGet](https://dev.to/nikolaos_protopapas_d3bd6/lazygit-style-tui-for-nuget-25fh)
+- [How We Added Generic Webhooks to SendRec](https://dev.to/alexneamtu/how-we-added-generic-webhooks-to-sendrec-na)
+- [Complete Database Backup Strategy for SaaS](https://dev.to/baqir_naqvi_41192fad7c962/complete-database-backup-strategy-for-saas-142l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
