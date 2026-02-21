@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Convert Ether to Wei, Gwei, Finney &amp; Szabo &lpar;Free Tool&rpar;](https://dev.to/n3st3dlabs/how-to-convert-ether-to-wei-gwei-finney-szabo-free-tool-485k)
-- [Building Transformer from Scratch](https://dev.to/nova44056/building-transformer-from-scratch-5h2h)
-- [Python Internals: Decorators](https://dev.to/aykhlf_yassir/python-internals-decorators-595k)
-- [Phi-4 Technical Report](https://dev.to/paperium/phi-4-technical-report-1in1)
-- [dxgi.dll funny](https://dev.to/zljxl/dxgidll-funny-5bg5)
+- [My Top 5 Self-Hosted Tools Running on My Home Server via Docker &lpar;Part 2&rpar;](https://dev.to/cyberdev_/my-top-5-self-hosted-tools-running-on-my-home-server-via-docker-part-2-4aln)
+- [I Swapped the Database Client and Added GraphQL. The Domain Never Noticed](https://dev.to/wakita181009/i-swapped-the-database-client-and-added-graphql-the-domain-never-noticed-24k9)
+- [From Dispatch to Done: Visibility That Keeps Jobs Moving](https://dev.to/angela_ash_6da09e1fd957c1/from-dispatch-to-done-visibility-that-keeps-jobs-moving-4aca)
+- [InfiniteTalk: I Gave a Portrait a Voice. It Took One Audio File and Zero Cloud Services.](https://dev.to/local_ai_28441e061d716cb1/infinitetalk-i-gave-a-portrait-a-voice-it-took-one-audio-file-and-zero-cloud-services-2g8)
+- [Membuat Plugin Oracle APEX QR Code dengan Custom Logo](https://dev.to/azmil_awaludin/membuat-plugin-oracle-apex-qr-code-dengan-custom-logo-2nop)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
