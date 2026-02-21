@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Blocking Bing at Home with Pi-Hole &lpar;Without Breaking Edge&rpar;](https://dev.to/lancer1977/blocking-bing-at-home-with-pi-hole-without-breaking-edge-21fl)
+- [Find Pivot Index &lpar;Prefix Sum Made Simple&rpar;](https://dev.to/nithya_dharshiniofficial/find-pivot-index-prefix-sum-made-simple-2h68)
+- [Moving from Node Groups to NodePools on Amazon EKS](https://dev.to/aws-heroes/moving-from-node-groups-to-nodepools-on-amazon-eks-1kc5)
 - [Thinking Out Loud: A Workflow Engine I Built at Work This Week](https://dev.to/thomas_emad/thinking-out-loud-a-workflow-engine-i-built-at-work-this-week-1gf9)
 - [🧮 Building a Binary Decimal Converter Pro with Python &amp; Tkinter](https://dev.to/matetechnologie/building-a-binary-decimal-converter-pro-with-python-tkinter-4f9n)
-- [lazygit-style TUI for NuGet](https://dev.to/nikolaos_protopapas_d3bd6/lazygit-style-tui-for-nuget-25fh)
-- [How We Added Generic Webhooks to SendRec](https://dev.to/alexneamtu/how-we-added-generic-webhooks-to-sendrec-na)
-- [Complete Database Backup Strategy for SaaS](https://dev.to/baqir_naqvi_41192fad7c962/complete-database-backup-strategy-for-saas-142l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
