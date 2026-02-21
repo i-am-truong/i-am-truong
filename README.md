@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [NET SDK](https://dev.to/tyropon/net-sdk-550j)
+- [Best LLMs for Ollama on 16GB VRAM GPU](https://dev.to/rosgluk/best-llms-for-ollama-on-16gb-vram-gpu-393h)
+- [Stop Overengineering Your Side Projects](https://dev.to/baransel/stop-overengineering-your-side-projects-1a3c)
 - [Qwen3.5 Released! Native Multimodality and Superior Performance – Proje Defteri](https://dev.to/projedefteri/qwen35-released-native-multimodality-and-superior-performance-proje-defteri-297g)
 - [Researchers Gave AI Agents Real Jobs. The Agents Couldn&#39;t Close a Pop-Up.](https://dev.to/mothasa/researchers-gave-ai-agents-real-jobs-the-agents-couldnt-close-a-pop-up-b0d)
-- [AI-Powered KPI Extraction: From Annual Reports to Actionable Insights.](https://dev.to/contextfirstai/ai-powered-kpi-extraction-from-annual-reports-to-actionable-insights-1lc)
-- [I Built. I Failed. I Deleted Everything. And I’m Okay With That.](https://dev.to/puneetkumar2010/i-built-i-failed-i-deleted-everything-and-im-okay-with-that-303b)
-- [I built a todo app for people who hate todo apps ✅](https://dev.to/amanso23/i-built-a-todo-app-for-people-who-hate-todo-apps-m18)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
