@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your Company&#39;s Biggest AI Risk Is the AI Nobody Approved](https://dev.to/mothasa/your-companys-biggest-ai-risk-is-the-ai-nobody-approved-7f9)
-- [The Most Popular AI Agent on GitHub Is a Security Catastrophe](https://dev.to/mothasa/the-most-popular-ai-agent-on-github-is-a-security-catastrophe-415m)
-- [L&#39;Architecture de la Pensée Numérique : De l&#39;Algorithme à la Conscience](https://dev.to/lazarusfin/larchitecture-de-la-pensee-numerique-de-lalgorithme-a-la-conscience-5805)
-- [#java #oop #programming #computerscience](https://dev.to/kanishkashr/java-oop-programming-computerscience-4op)
-- [Virtual Machines](https://dev.to/big_namz/virtual-machines-3c2g)
+- [Automate Website Thumbnails for Your Link Aggregator or Directory](https://dev.to/mackmoneymaker/automate-website-thumbnails-for-your-link-aggregator-or-directory-c7l)
+- [I Built an Autonomous AI DevOps Agent Using LangGraph and AWS Bedrock — Here&#39;s Everything I Learned](https://dev.to/kartikmanimuthu/i-built-an-autonomous-ai-devops-agent-using-langgraph-and-aws-bedrock-heres-everything-i-learned-5591)
+- [Building a Smart Video Compressor in Python &lpar;Step-by-Step&rpar;](https://dev.to/matetechnologie/building-a-smart-video-compressor-in-python-step-by-step-4f23)
+- [How I Built a 5,000-Page Programmatic SEO Engine with Next.js, Supabase and Claude AI](https://dev.to/kamal_rifai_12718c8dc688d/how-i-built-a-5000-page-programmatic-seo-engine-with-nextjs-supabase-and-claude-ai-4601)
+- [What Women Learn in Krav Maga Self-Defense Training](https://dev.to/dayandean/what-women-learn-in-krav-maga-self-defense-training-4el2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
