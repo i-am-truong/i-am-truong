@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Install WKHTMLtoPDF on Ubuntu &lpar;Step-by-Step Guide&rpar;](https://dev.to/wkhtmltopdf_fe75f6243dc5e/how-to-install-wkhtmltopdf-on-ubuntu-step-by-step-guide-3gbm)
+- [How to Add Persistent Memory to an LLM App &lpar;Without Fine-Tuning&rpar; — A Practical Architecture Guide](https://dev.to/cloyouai/how-to-add-persistent-memory-to-an-llm-app-without-fine-tuning-a-practical-architecture-guide-6dl)
+- [White Label Payment Gateway Solutions: What They Are &amp; Why Tech Teams Need to Know](https://dev.to/finsol_group/white-label-payment-gateway-solutions-what-they-are-why-tech-teams-need-to-know-41e7)
 - [Production-Grade YouTube MCP Server](https://dev.to/yash_kashte/production-grade-youtube-mcp-server-13c5)
 - [Recursive Knowledge Crystallization: A Framework for Persistent Autonomous Agent Self-Evolution](https://dev.to/gde/recursive-knowledge-crystallization-a-framework-for-persistent-autonomous-agent-self-evolution-4mk4)
-- [I Built an AI Agent That Calls Me on the Phone](https://dev.to/thebrierfox/i-built-an-ai-agent-that-calls-me-on-the-phone-3bm1)
-- [25 Essential Free Developer Tools You Should Be Using in 2026](https://dev.to/moonlitcapy/25-essential-free-developer-tools-you-should-be-using-in-2026-4k7o)
-- [Stop Paying for Crawl4AI and Moltbot: You Already Have Everything You Need](https://dev.to/victorstackai/stop-paying-for-crawl4ai-and-moltbot-you-already-have-everything-you-need-1850)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
