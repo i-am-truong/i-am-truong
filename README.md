@@ -124,7 +124,7 @@ Python                   1 repo              █░░░░░░░░░░�
 - [Automate Me If You Can: The Accomplish Hackathon by WeMakeDevs](https://dev.to/onirestart/automate-me-if-you-can-the-accomplish-hackathon-by-wemakedevs-2cei)
 - [Teaching a Robot to Play a Toddler Game: VLAs, Gemini 3 Flash, and First Orchard](https://dev.to/googleai/teaching-a-robot-to-play-a-toddler-game-vlas-gemini-3-flash-and-first-orchard-14g4)
 - [Building AI Chat Interfaces is Exhausting. So I Open-Sourced a Solution.](https://dev.to/beyza_arisoy/building-ai-chat-interfaces-is-exhausting-so-i-open-sourced-a-solution-3oc5)
-- [Week 6 Challenge - Can You Explain the TLS Handshake?](https://dev.to/fosres/week-6-challenge-can-you-explain-the-tls-handshake-2d8g)
+- [Calling .NET Code from Java: Every Approach Ranked &lpar;By Someone Who&#39;s Seen Them All&rpar;](https://dev.to/jnbridge/your-java-app-needs-a-net-library-heres-how-i-survived-the-integration-26hp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
