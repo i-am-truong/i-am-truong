@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [When Your Kid Wants a Party You Can&#39;t Afford](https://dev.to/stephanie_jelks_ed8308c3c/when-your-kid-wants-a-party-you-cant-afford-36pi)
-- [CVE-2026-27206: The Zumba Class Dance: RCE via PHP Object Injection in json-serializer](https://dev.to/cverports/cve-2026-27206-the-zumba-class-dance-rce-via-php-object-injection-in-json-serializer-2930)
-- [CUDA Graphs in LLM Inference: Deep Dive](https://dev.to/sfahad/cuda-graphs-in-llm-inference-deep-dive-36pb)
-- [When One Model Reviews Its Own Work: The Case for Adversarial Cross-Model Review](https://dev.to/john_wade_dev/when-one-model-reviews-its-own-work-the-case-for-adversarial-cross-model-review-37k1)
-- [Deploying Prefect Workflows on Cloud Run with Cloud SQL &lpar;Production-Ready GCP Setup&rpar;](https://dev.to/devopspilot/deploying-prefect-workflows-on-cloud-run-with-cloud-sql-production-ready-gcp-setup-57a2)
+- [Production-Grade YouTube MCP Server](https://dev.to/yash_kashte/production-grade-youtube-mcp-server-13c5)
+- [Recursive Knowledge Crystallization: A Framework for Persistent Autonomous Agent Self-Evolution](https://dev.to/gde/recursive-knowledge-crystallization-a-framework-for-persistent-autonomous-agent-self-evolution-4mk4)
+- [I Built an AI Agent That Calls Me on the Phone](https://dev.to/thebrierfox/i-built-an-ai-agent-that-calls-me-on-the-phone-3bm1)
+- [25 Essential Free Developer Tools You Should Be Using in 2026](https://dev.to/moonlitcapy/25-essential-free-developer-tools-you-should-be-using-in-2026-4k7o)
+- [Stop Paying for Crawl4AI and Moltbot: You Already Have Everything You Need](https://dev.to/victorstackai/stop-paying-for-crawl4ai-and-moltbot-you-already-have-everything-you-need-1850)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
