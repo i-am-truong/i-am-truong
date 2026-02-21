@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Do you think there&#39;s value in automated git summaries for standups and sprint reviews?](https://dev.to/reposweeper/do-you-think-theres-value-in-automated-git-summaries-for-standups-and-sprint-reviews-4gdm)
+- [Why Most “AI-Powered CMS” Tools Are Architecturally Wrong](https://dev.to/alexygh/why-most-ai-powered-cms-tools-are-architecturally-wrong-9mm)
 - [PayWatcher is Live](https://dev.to/sem_pre/paywatcher-is-live-50cp)
-- [**Practical Tip: &#39;Shadow Auditing&#39; for AI Model Governance**](https://dev.to/drcarlosruizviquez/practical-tip-shadow-auditing-for-ai-model-governance-3oh8)
-- [USPN: The Web3 Vision for Universal Private Networking](https://dev.to/khizir_esmars_773e4a6d07c/uspn-the-web3-vision-for-universal-private-networking-4cfj)
-- [Using Google Trends for Smarter Keyword Research in Your Projects](https://dev.to/markclarke/using-google-trends-for-smarter-keyword-research-in-your-projects-269k)
-- [# 🔍 Building Polyglot Escape: When Translation Becomes The Game](https://dev.to/bhagyesh_patil/-building-polyglot-escape-when-translation-becomes-the-game-49bc)
+- [Understanding useEffect — The Hook I Got Wrong for Months](https://dev.to/animesh_sarker2311150/understanding-useeffect-the-hook-i-got-wrong-for-months-hh0)
+- [How I Solved My 300th Problem on Codeforces](https://dev.to/animesh_sarker2311150/how-i-solved-my-300th-problem-on-codeforces-1je2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
