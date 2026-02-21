@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Do you think there&#39;s value in automated git summaries for standups and sprint reviews?](https://dev.to/reposweeper/do-you-think-theres-value-in-automated-git-summaries-for-standups-and-sprint-reviews-4gdm)
-- [Why Most “AI-Powered CMS” Tools Are Architecturally Wrong](https://dev.to/alexygh/why-most-ai-powered-cms-tools-are-architecturally-wrong-9mm)
-- [PayWatcher is Live](https://dev.to/sem_pre/paywatcher-is-live-50cp)
-- [Understanding useEffect — The Hook I Got Wrong for Months](https://dev.to/animesh_sarker2311150/understanding-useeffect-the-hook-i-got-wrong-for-months-hh0)
-- [How I Solved My 300th Problem on Codeforces](https://dev.to/animesh_sarker2311150/how-i-solved-my-300th-problem-on-codeforces-1je2)
+- [3 Tools to Download TikToks Without Watermarks &lpar;And Why I Built My Own One&rpar;](https://dev.to/hatratilis1972/3-tools-to-download-tiktoks-without-watermarks-and-why-i-built-my-own-one-1mj9)
+- [CrowdStrike Says OpenClaw Is Dangerous. They&#39;re Right. Here&#39;s What To Do About It.](https://dev.to/darbogach/crowdstrike-says-openclaw-is-dangerous-theyre-right-heres-what-to-do-about-it-1kbc)
+- [Moneyshot#1: Month 1 till I make $1k MRR](https://dev.to/siren/moneyshot1-month-1-till-i-make-1k-mrr-2o4a)
+- [ShowDev: I&#39;m building a real-time chat-controlled map engine, and I need help breaking the expansion logic.](https://dev.to/conquerthemap/showdev-im-building-a-real-time-chat-controlled-map-engine-and-i-need-help-breaking-the-hg)
+- [I Vibe-Coded a GPU Accelerated Face Cropping Tool in Rust — Here’s Why](https://dev.to/gregorycarnegie/i-vibe-coded-a-gpu-accelerated-face-cropping-tool-in-rust-heres-why-2cfg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
