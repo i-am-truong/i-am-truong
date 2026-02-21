@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [3 Tools to Download TikToks Without Watermarks &lpar;And Why I Built My Own One&rpar;](https://dev.to/hatratilis1972/3-tools-to-download-tiktoks-without-watermarks-and-why-i-built-my-own-one-1mj9)
-- [CrowdStrike Says OpenClaw Is Dangerous. They&#39;re Right. Here&#39;s What To Do About It.](https://dev.to/darbogach/crowdstrike-says-openclaw-is-dangerous-theyre-right-heres-what-to-do-about-it-1kbc)
-- [Moneyshot#1: Month 1 till I make $1k MRR](https://dev.to/siren/moneyshot1-month-1-till-i-make-1k-mrr-2o4a)
-- [ShowDev: I&#39;m building a real-time chat-controlled map engine, and I need help breaking the expansion logic.](https://dev.to/conquerthemap/showdev-im-building-a-real-time-chat-controlled-map-engine-and-i-need-help-breaking-the-hg)
-- [I Vibe-Coded a GPU Accelerated Face Cropping Tool in Rust — Here’s Why](https://dev.to/gregorycarnegie/i-vibe-coded-a-gpu-accelerated-face-cropping-tool-in-rust-heres-why-2cfg)
+- [How to Benchmark Web Frameworks in a Fair, Isolated Way | Mahdi Shamlou](https://dev.to/mahdi0shamlou/how-to-benchmark-web-frameworks-in-a-fair-isolated-way-mahdi-shamlou-1mol)
+- [Automate Me If You Can: The Accomplish Hackathon by WeMakeDevs](https://dev.to/onirestart/automate-me-if-you-can-the-accomplish-hackathon-by-wemakedevs-2cei)
+- [Teaching a Robot to Play a Toddler Game: VLAs, Gemini 3 Flash, and First Orchard](https://dev.to/googleai/teaching-a-robot-to-play-a-toddler-game-vlas-gemini-3-flash-and-first-orchard-14g4)
+- [Building AI Chat Interfaces is Exhausting. So I Open-Sourced a Solution.](https://dev.to/beyza_arisoy/building-ai-chat-interfaces-is-exhausting-so-i-open-sourced-a-solution-3oc5)
+- [Week 6 Challenge - Can You Explain the TLS Handshake?](https://dev.to/fosres/week-6-challenge-can-you-explain-the-tls-handshake-2d8g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
