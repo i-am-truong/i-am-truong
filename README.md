@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Deep Dive into OOP, Prototypes, and the &#39;new&#39; Keyword in JavaScript](https://dev.to/asim-momin-7864/deep-dive-into-oop-prototypes-and-the-new-keyword-in-javascript-46lf)
-- [Building a Decentralized Agent Discovery Network: The Beacon Protocol](https://dev.to/scottcjn/building-a-decentralized-agent-discovery-network-the-beacon-protocol-3iid)
-- [Custody Architecture in Distributed Financial Systems: Threshold Cryptography and Failure Containment](https://dev.to/doomhammerhell/custody-architecture-in-distributed-financial-systems-threshold-cryptography-and-failure-4dnn)
-- [How to Find Any Company&#39;s Tech Stack &lpar;A Developer&#39;s Guide&rpar;](https://dev.to/henley_wing_9424eb9a3177c/how-to-find-any-companys-tech-stack-a-developers-guide-53h7)
-- [My 2026 Developer Workflow: Combining Good Engineering Habits with AI Tools](https://dev.to/saschadev/my-2026-developer-workflow-combining-good-engineering-habits-with-ai-tools-33da)
+- [Forcing a Review Between Claude and git commit](https://dev.to/lovestaco/forcing-a-review-between-claude-and-git-commit-1442)
+- [How I Built an AI Assistant on a Mac Mini M4](https://dev.to/caper_dev/how-i-built-an-ai-assistant-on-a-mac-mini-m4-409d)
+- [Solved: Network Engineer to Cloud Engineer? Has anyone made this move?](https://dev.to/techresolve/solved-network-engineer-to-cloud-engineer-has-anyone-made-this-move-2j5p)
+- [Lakehouse or Warehouse which one to choose in Fabric ?](https://dev.to/anshul_02/lakehouse-or-warehouse-which-one-to-choose-in-fabric--356k)
+- [I Run My Businesses With 7 AI Agents for $200/Month. Here&#39;s What Actually Happens.](https://dev.to/the200dollarceo/i-run-my-businesses-with-7-ai-agents-for-200month-heres-what-actually-happens-5cdm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
