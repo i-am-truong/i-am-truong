@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [When 64KB Was Enough: The Masters of Assembly](https://dev.to/caminhodaspedras/when-64kb-was-enough-the-masters-of-assembly-h6o)
-- [98 Bytes That Prove Your Document Existed](https://dev.to/dzatona/98-bytes-that-prove-your-document-existed-c5i)
-- [Drupal Canvas Full HTML rollout guide](https://dev.to/victorstackai/drupal-canvas-full-html-rollout-guide-1b5m)
-- [Devlog: 2026-02-04](https://dev.to/victorstackai/devlog-2026-02-04-1h93)
-- [GEO &lpar;Generative Engine Optimization&rpar;: Why Your Website Might Be Invisible to AI in 2026](https://dev.to/kazkn/geo-generative-engine-optimization-why-your-website-might-be-invisible-to-ai-in-2026-df7)
+- [From Scrape to Feed: Generating Google Shopping XML from Costco Product Data](https://dev.to/anderecit/from-scrape-to-feed-generating-google-shopping-xml-from-costco-product-data-10ib)
+- [IaaS](https://dev.to/khadijah/iaas-1h2)
+- [Create Account for Gitlap](https://dev.to/premdev/create-account-for-gitlap-515l)
+- [On‑Chain Games As Coordination Labs](https://dev.to/ribhavmodi/on-chain-games-as-coordination-labs-3ndf)
+- [Gemini 3.1 Pro: The Next Evolution of Multimodal AI](https://dev.to/gde/gemini-31-pro-the-next-evolution-of-multimodal-ai-1gmp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
