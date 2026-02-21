@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [On a Quest for the Fastest P2P File Transfer CLI: Thruflux &lpar;Open Alpha&rpar;](https://dev.to/samsungplay/on-a-quest-for-the-fastest-p2p-file-transfer-cli-thruflux-open-alpha-49oi)
-- [SOLID in C# Part 1: Single Responsibility](https://dev.to/csharpdev/solid-in-c-part-1-single-responsibility-5eao)
-- [Kubernetes ImagePullBackOff: It’s Not the Registry &lpar;It’s IAM&rpar;](https://dev.to/ntctech/kubernetes-imagepullbackoff-its-not-the-registry-its-iam-2fek)
-- [I Built a Local-First Agent Runtime in Rust &lpar;and Why Wrapping Existing CLIs Didn’t Work&rpar;](https://dev.to/calvinbuild/i-built-a-local-first-agent-runtime-in-rust-and-why-wrapping-existing-clis-didnt-work-3b59)
-- [I&#39;m Finance Ops, not a developer. I built a KoSIT-valid XRechnung generator in the browser anyway](https://dev.to/mihai82adrian/im-finance-ops-not-a-developer-i-built-a-kosit-valid-xrechnung-generator-in-the-browser-anyway-4bn2)
+- [Clean up repo with knip and two-line prompt](https://dev.to/0xkoji/clean-up-repo-with-knip-and-two-line-prompt-2ol1)
+- [On the Properties of the Softmax Function with Application in Game Theory andReinforcement Learning](https://dev.to/paperium/on-the-properties-of-the-softmax-function-with-application-in-game-theory-andreinforcement-learning-4fal)
+- [Why Your AI Agent Should Use a Speech API Instead of LLM Inference](https://dev.to/fabiosuizu/why-your-ai-agent-should-use-a-speech-api-instead-of-llm-inference-1cfe)
+- [I Built a Free yt-dlp Web Frontend That Supports 1000+ Sites — Here&#39;s How](https://dev.to/john_jewskiz/i-built-a-free-yt-dlp-web-frontend-that-supports-1000-sites-heres-how-1f45)
+- [Side project idea I](https://dev.to/karenpayneoregon/side-project-idea-i-32g8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
