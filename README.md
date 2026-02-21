@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with LLM Gateway in 5 Minutes](https://dev.to/smakosh/getting-started-with-llm-gateway-in-5-minutes-67p)
-- [Habits I Learned Too Late as a Developer — part 2](https://dev.to/glnurltn/habits-i-learned-too-late-as-a-developer-part-2-1gio)
-- [The $100k AWS Routing Trap: S3 + NAT Gateways &lpar;and how to fix it with Terraform&rpar;](https://dev.to/ntctech/the-100k-aws-routing-trap-s3-nat-gateways-and-how-to-fix-it-with-terraform-41fo)
-- [Procrastination in disguise](https://dev.to/jaboarnoldlandry/procrastination-in-disguise-3605)
-- [I Built 7 AI Products in One Weekend — Here&#39;s What I Learned &lpar;And You Can Have Them&rpar;](https://dev.to/caper_dev/i-built-7-ai-products-in-one-weekend-heres-what-i-learned-and-you-can-have-them-2nj9)
+- [# 🔍 Building Polyglot Escape: When Translation Becomes The Game](https://dev.to/bhagyesh_patil/-building-polyglot-escape-when-translation-becomes-the-game-49bc)
+- [Mastering Cache Hits in Claude Code](https://dev.to/kitaekatt/mastering-cache-hits-in-claude-code-5648)
+- [Title: AI-Powered Water Conservation in California: A Succes](https://dev.to/drcarlosruizviquez/title-ai-powered-water-conservation-in-california-a-succes-4n7c)
+- [What is an LLM Gateway?](https://dev.to/smakosh/what-is-an-llm-gateway-1o5g)
+- [Deploying Next.js on GCP](https://dev.to/smakosh/deploying-nextjs-on-gcp-34ok)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
