@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 1318 : Time](https://dev.to/dwane/day-1318-time-4ak1)
-- [I wrote a dev tool post that got 25k reads. My follow-up got 11. Here&#39;s what I learned.](https://dev.to/reposweeper/i-wrote-a-dev-tool-post-that-got-25k-reads-my-follow-up-got-11-heres-what-i-learned-3g51)
-- [Modular Structure in CodeBehind](https://dev.to/elanatframework/modular-structure-in-codebehind-31aa)
-- [[Boost]](https://dev.to/cherryramatis/-m2d)
-- [How to Set Up Your Own AI Assistant with OpenClaw &lpar;Beginner Guide&rpar;](https://dev.to/happy-lico/how-to-set-up-your-own-ai-assistant-with-openclaw-beginner-guide-1gjm)
+- [How to Convert Ether to Wei, Gwei, Finney &amp; Szabo &lpar;Free Tool&rpar;](https://dev.to/n3st3dlabs/how-to-convert-ether-to-wei-gwei-finney-szabo-free-tool-485k)
+- [Building Transformer from Scratch](https://dev.to/nova44056/building-transformer-from-scratch-5h2h)
+- [Python Internals: Decorators](https://dev.to/aykhlf_yassir/python-internals-decorators-595k)
+- [Phi-4 Technical Report](https://dev.to/paperium/phi-4-technical-report-1in1)
+- [dxgi.dll funny](https://dev.to/zljxl/dxgidll-funny-5bg5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
