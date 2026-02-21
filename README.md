@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Performance Comparison: React vs WebForms Core](https://dev.to/elanatframework/performance-comparison-react-vs-webforms-core-50ec)
+- [Writing to Learn: How Writing Improves Understanding](https://dev.to/brainrash_edu/writing-to-learn-how-writing-improves-understanding-32d0)
+- [How We Built an Automated MCP Security Scanner &lpar;And What We Found&rpar;](https://dev.to/ecap0/how-we-built-an-automated-mcp-security-scanner-and-what-we-found-52io)
 - [Stay Consistent With Salah at Work Using This Slack App](https://dev.to/ikhaledabdelfattah/stay-consistent-with-salah-at-work-using-this-slack-app-465o)
-- [I Built a Stateless Image Processing API — Here&#39;s How It Works](https://dev.to/theglitchapp/i-built-a-stateless-image-processing-api-heres-how-it-works-7ho)
-- [God Is Real,’ Can We Convince AI? A Fail-Closed Thought Experiment for Builders](https://dev.to/phuc_truong_4dd92c18684c9/god-is-real-can-we-convince-ai-a-fail-closed-thought-experiment-for-builders-1jbl)
-- [How to Deploy a Dynamic Web Application on AWS &lpar;Beginner-Friendly Guide&rpar;](https://dev.to/oluwatobiloba_oludare1/how-to-deploy-a-dynamic-web-application-on-aws-beginner-friendly-guide-4nhp)
-- [Read‑your‑writes on replicas: PostgreSQL WAIT FOR LSN and MongoDB Causal Consistency](https://dev.to/franckpachot/read-your-writes-on-replicas-postgresql-wait-for-lsn-and-mongodb-causal-consistency-4he2)
+- [Creating a Low-code Agent with the ADK Visual Builder](https://dev.to/gde/creating-a-low-code-agent-with-the-adk-visual-builder-4504)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
