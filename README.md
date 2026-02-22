@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Lightning-Fast Data Platform: How We Tackled Core Web Vitals on a Heavy Content Site](https://dev.to/ladlablogger/building-a-lightning-fast-data-platform-how-we-tackled-core-web-vitals-on-a-heavy-content-site-3fgg)
-- [I Built a Neural Network from Scratch &lpar;No Frameworks&rpar; - Here&#39;s What I Discovered](https://dev.to/ashisane/i-built-a-neural-network-from-scratch-no-frameworks-heres-what-i-discovered-5ee)
-- [WebMCP: A Browser-Native Execution Model for AI Agents](https://dev.to/astrodevil/webmcp-a-browser-native-execution-model-for-ai-agents-125n)
-- [Decoding the Shape of Life: The Next Frontier in RNA 3D Folding](https://dev.to/jonathan_jackson/decoding-the-shape-of-life-the-next-frontier-in-rna-3d-folding-48e2)
-- [First try with OpenCode &lpar;Windows&rpar;: finished the task while I played a game](https://dev.to/stringzwb/first-try-with-opencode-windows-finished-the-task-while-i-played-a-game-5ei8)
+- [From Data Chaos to Executable Graphs: Turning Relationships into Infrastructure](https://dev.to/hello_arisyn_0dc948aa82b3/from-data-chaos-to-executable-graphs-turning-relationships-into-infrastructure-1f7m)
+- [[Boost]](https://dev.to/ladarius_davis_90f595f6e8/-1k3h)
+- [Flutter for Beginners: Where to Start?](https://dev.to/ratratatyu/flutter-for-beginners-where-to-start-142a)
+- [Features of Integrating Nmap with Python Using subprocess.](https://dev.to/ganesh_hari_18/features-of-integrating-nmap-with-python-using-subprocess-df)
+- [Awesome AI Agent Papers 2026](https://dev.to/necatiozmen/awesome-ai-agent-papers-2026-2ili)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
