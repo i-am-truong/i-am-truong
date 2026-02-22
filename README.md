@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Leveraging a Vector Database for Semantic Search with ChromaDB: A Beginner’s Guide](https://dev.to/up_min_sparcs/leveraging-a-vector-database-for-semantic-search-with-chromadb-a-beginners-guide-2mfd)
-- [Prompting, Vague and Precise](https://dev.to/david_shimon/prompting-vague-and-precise-1ngc)
-- [How I Show Car Photos Without Storing a Single Image](https://dev.to/rrosset91/how-i-show-car-photos-without-storing-a-single-image-4f96)
-- [Who Said What to Whom](https://dev.to/dannwaneri/who-said-what-to-whom-5914)
-- [I Built a Free, Self-Hosted SNMP Toolkit — Now With Real-Time WebSocket Push](https://dev.to/tosumitdhaka/i-built-a-free-self-hosted-snmp-toolkit-now-with-real-time-websocket-push-3782)
+- [I Left My First Hackathon at 8 PM — And it Was a Massive Success!](https://dev.to/maame-codes/i-left-my-first-hackathon-at-8-pm-and-it-was-a-massive-success-1hme)
+- [I Gave an AI Full Access to My VPS — Here&#39;s What Happened](https://dev.to/teguh_coding/i-gave-an-ai-full-access-to-my-vps-heres-what-happened-40g8)
+- [I Thought I Knew Data. Then This Book Proved Me Wrong.](https://dev.to/akshay_rajinikanth/i-thought-i-knew-data-then-this-book-proved-me-wrong-11dj)
+- [Building My Own Openclaw With Local LLM Model: The Xoul Development Story](https://dev.to/kim_namhyun_e7535f3dc4c69/building-my-ai-assistant-with-local-llm-model-the-xoul-development-story-519k)
+- [Stylo for Android: From Idea to Release](https://dev.to/gostylo/stylo-for-android-from-idea-to-release-2h0e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
