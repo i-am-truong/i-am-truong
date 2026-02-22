@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Loom Does Not Care Who Owns It](https://dev.to/choutos/the-loom-does-not-care-who-owns-it-2965)
-- [The Developer&#39;s Guide to API Versioning &lpar;What Nobody Tells You Until It&#39;s Too Late&rpar;](https://dev.to/dipuoec/the-developers-guide-to-api-versioning-what-nobody-tells-you-until-its-too-late-3edj)
-- [When NASDAQ Freezes: Chaos Engineering a Stock Quotes API with Java and ToxiProxy](https://dev.to/douglas_carmo_cd84c5548f2/when-nasdaq-freezes-chaos-engineering-a-stock-quotes-api-with-java-and-toxiproxy-3nmo)
-- [The AI Productivity Crisis And The Architecture Of Execution](https://dev.to/alifunk/the-ai-productivity-crisis-and-the-architecture-of-execution-37j5)
-- [FullAgenticStack WhatsApp-first Anti-Patterns: A Reference Handbook](https://dev.to/fullagenticstack/fullagenticstack-whatsapp-first-anti-patterns-a-reference-handbook-3jb0)
+- [Did some actual coding today - found a blind spot example for coding agents](https://dev.to/scott_raisbeck_24ea5fbc1e/did-some-actual-coding-today--27in)
+- [How to Receive Stripe Webhooks on Localhost &lpar;Without the Headache&rpar;](https://dev.to/tpaksu/how-to-receive-stripe-webhooks-on-localhost-without-the-headache-4mi1)
+- [Concurrency patterns on Golang: Fan-out / Fan-in](https://dev.to/silver_dev/concurrency-patterns-on-golang-fan-out-fan-in-goj)
+- [The evolution of AI prompting: how 4 years of research inspired my new Claude Code Skill](https://dev.to/isspicycode/the-evolution-of-ai-prompting-how-4-years-of-research-inspired-my-new-claude-code-skill-nfh)
+- [drift: an open source CLI that detects silent technical debt in AI-generated TypeScript code](https://dev.to/eduardbar/drift-an-open-source-cli-that-detects-silent-technical-debt-in-ai-generated-typescript-code-4ll7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
