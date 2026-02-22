@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Six frameworks. Four storage backends. One import. Zero dependencies.](https://dev.to/shayanhussainsb/six-frameworks-four-storage-backends-one-import-zero-dependencies-2k1o)
-- [We Just Made an MCP Tool That Spawns Claude Code Sessions. Here&#39;s Why That Matters.](https://dev.to/jefe_cool/we-just-made-an-mcp-tool-that-spawns-claude-code-sessions-heres-why-that-matters-50oe)
-- [Data Engineering Basics: From What is Data to Modern Lakehouse Architecture](https://dev.to/salma_aga/-data-engineering-basics-from-what-is-data-to-modern-lakehouse-architecture-1l10)
-- [I built a system-wide tech dictionary because AI made me feel dumb](https://dev.to/cengiz_selcuk/i-built-a-system-wide-tech-dictionary-because-ai-made-me-feel-dumb-e31)
-- [Claude Code&#39;s compaction discards data that&#39;s still on disk](https://dev.to/jgnoncelogic/claude-codes-compaction-discards-data-thats-still-on-disk-2pjo)
+- [ERC-8128: Your Ethereum Wallet Might Soon Be Your Only Login.](https://dev.to/caffinecoder54/erc-8128-your-ethereum-wallet-might-soon-be-your-only-loginpublished-18fb)
+- [Why MQTT Last Will Testament Isn&#39;t Enough for Production IoT &lpar;And What We Built Instead&rpar;](https://dev.to/anil_saithana/why-mqtt-last-will-testament-isnt-enough-for-production-iot-and-what-we-built-instead-44cj)
+- [I replaced the `man` command with a Python TUI — and it&#39;s actually useful](https://dev.to/yash_ambaskar_c13cc5c5f10/i-replaced-the-man-command-with-a-python-tui-and-its-actually-useful-1h7h)
+- [Unit testing ESP-IDF components with GoogleTest &lpar;host-based&rpar;](https://dev.to/aluiziotomazelli/unit-testing-esp-idf-components-with-googletest-host-based-1c16)
+- [I Built a Cart Recovery System That Saved My Client $127K in 6 Months](https://dev.to/shajalal/i-built-a-cart-recovery-system-that-saved-my-client-127k-in-6-months-klo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
