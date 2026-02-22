@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From AI Chat to Claude Code in 3 Seconds](https://dev.to/m4sui/from-ai-chat-to-claude-code-in-3-seconds-47f3)
-- [I Built a Free OG Image Generator — Here&#39;s How &lpar;and Why&rpar;](https://dev.to/mackmoneymaker/i-built-a-free-og-image-generator-heres-how-and-why-3khj)
-- [Improving Accessibility - Tooltip](https://dev.to/hritickjaiswal/improving-accessibility-tooltip-3ogc)
-- [Designing Agentic AI Systems: How Real Applications Combine Patterns, Not Hype](https://dev.to/sreeni5018/designing-agentic-ai-systems-how-real-applications-combine-patterns-not-hype-1ob4)
-- [Como implementei WhatsApp-first sem notar](https://dev.to/fullagenticstack/como-implementei-whatsapp-first-sem-notar-6g5)
+- [The section that actually makes users use your website &lpar;not the hero&rpar;](https://dev.to/bhavin-allinonetools/the-section-that-actually-makes-users-use-your-website-not-the-hero-1cdl)
+- [What is Serialization and Deserialization in Programming?](https://dev.to/itssohampatel/what-is-serialization-and-deserialization-in-programming-11d0)
+- [Open-source React DevTools extension for spotting performance and state issues in real time](https://dev.to/hoainhoblogdev/open-source-react-devtools-extension-for-spotting-performance-and-state-issues-in-real-time-54ib)
+- [To the Programmer Quietly Drowning in AI Anxiety](https://dev.to/kaniel_outis/to-the-programmer-quietly-drowning-in-ai-anxiety-42pm)
+- [Hello World, Literally: Mapping Real-World Data using Geospatial Python](https://dev.to/up_min_sparcs/hello-world-literally-mapping-real-world-data-using-geospatial-python-4995)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
