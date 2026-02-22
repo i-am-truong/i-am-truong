@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Benchmarks Are Breaking: Why Many ‘Top Scores’ Don’t Mean Production-Ready.](https://dev.to/lamhot/benchmarks-are-breaking-why-many-top-scores-dont-mean-production-ready-3cc9)
-- [Your Lighthouse Score Is Only Half the Story](https://dev.to/ahojmetrics/your-lighthouse-score-is-only-half-the-story-1d80)
-- [DoraHacks Hackathon Newsletter 2026 February](https://dev.to/dorahacks/dorahacks-hackathon-newsletter-2026-february-53i0)
-- [JWT vs PASETO v2 vs TECTO: Choosing the Right Token Protocol in 2026](https://dev.to/zastinian/jwt-vs-paseto-v2-vs-tecto-choosing-the-right-token-protocol-in-2026-573j)
-- [I Built a Tiny MCP That Understands Your Code and Saves 70% Tokens](https://dev.to/badmonster0/i-built-a-tiny-mcp-that-understands-your-code-and-saves-70-tokens-2hp4)
+- [Six frameworks. Four storage backends. One import. Zero dependencies.](https://dev.to/shayanhussainsb/six-frameworks-four-storage-backends-one-import-zero-dependencies-2k1o)
+- [We Just Made an MCP Tool That Spawns Claude Code Sessions. Here&#39;s Why That Matters.](https://dev.to/jefe_cool/we-just-made-an-mcp-tool-that-spawns-claude-code-sessions-heres-why-that-matters-50oe)
+- [Data Engineering Basics: From What is Data to Modern Lakehouse Architecture](https://dev.to/salma_aga/-data-engineering-basics-from-what-is-data-to-modern-lakehouse-architecture-1l10)
+- [I built a system-wide tech dictionary because AI made me feel dumb](https://dev.to/cengiz_selcuk/i-built-a-system-wide-tech-dictionary-because-ai-made-me-feel-dumb-e31)
+- [Claude Code&#39;s compaction discards data that&#39;s still on disk](https://dev.to/jgnoncelogic/claude-codes-compaction-discards-data-thats-still-on-disk-2pjo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
