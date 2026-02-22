@@ -124,7 +124,7 @@ Python                   1 repo              █░░░░░░░░░░�
 - [Understanding Lambda Tenant Isolation](https://dev.to/aws-builders/understanding-lambda-tenant-isolation-4kdc)
 - [Building Software Solutions ... the next gen](https://dev.to/trevbee55/building-software-solutions-the-next-gen-i1p)
 - [PR Bot: AI-Powered PR Reviews for Azure DevOps, GitHub &amp; Bitbucket](https://dev.to/lokeshagarwal/pr-bot-ai-powered-pr-reviews-for-azure-devops-github-bitbucket-4gib)
-- [How to Use Analytics to Prioritize Your Next Landing Page Improvements: A Data-Driven Framework for Growth Teams](https://dev.to/jasonbiondo/how-to-use-analytics-to-prioritize-your-next-landing-page-improvements-a-data-driven-framework-for-1o32)
+- [Role of developers today...](https://dev.to/trevbee55/role-of-developers-today-18lo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
