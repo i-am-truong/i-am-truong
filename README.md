@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [#java #oop #programming #100daysofcode](https://dev.to/kanishkashr/java-oop-programming-100daysofcode-441k)
-- [When LLMs Converge, Orchestration Becomes Your Competitive Edge](https://dev.to/developer_100x_42fe0ea544/when-llms-converge-orchestration-becomes-your-competitive-edge-d62)
-- [The 3-Step System for Never Missing a Deadline](https://dev.to/caelummain1/the-3-step-system-for-never-missing-a-deadline-3m6g)
-- [Next.js 16 Caching Explained: Revalidation, Tags, Draft Mode &amp; Real Production Patterns](https://dev.to/realacjoshua/nextjs-16-caching-explained-revalidation-tags-draft-mode-real-production-patterns-26dl)
-- [After 5 Years of Coding, This Is What Actually Matters](https://dev.to/jojo_kunsang/after-5-years-of-coding-this-is-what-actually-matters-24ee)
+- [🚨 AI Will Not Replace Developers – Lazy Developers Will Be Replaced](https://dev.to/darshanraval/ai-will-not-replace-developers-lazy-developers-will-be-replaced-224j)
+- [I Bet Your Table Code is 200+ Lines. Prove Me Wrong. 😏](https://dev.to/jacksonkasi/i-bet-your-table-code-is-200-lines-prove-me-wrong-4jfe)
+- [Zero-Knowledge Encryption: What “We Can’t See Your Data” Actually Means](https://dev.to/inkrypt/zero-knowledge-encryption-what-we-cant-see-your-data-actually-means-1mbl)
+- [[Boost]](https://dev.to/mboukou_ricardo_fdb06062/i-want-to-run-my-website-from-local-to-my-mobile-phone-it-is-a-dynamic-website-using-react-and-40le)
+- [AI Settles the Ultimate Venezuelan vs Colombian Arepa Debate &lpar;Kimi K2.5&rpar;](https://dev.to/juandenis/ai-settles-the-ultimate-venezuelan-vs-colombian-arepa-debate-2ngm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
