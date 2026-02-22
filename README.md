@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Instalar OpenClaw en MacMini, Parte 2.](https://dev.to/victoraguilarc/instalar-openclaw-en-macmini-parte-2-5f1d)
-- [As AI systems become increasingly intertwined with our daily](https://dev.to/drcarlosruizviquez/as-ai-systems-become-increasingly-intertwined-with-our-daily-3j2d)
-- [JSON to Java Class Converter: Generate POJOs from JSON Data](https://dev.to/arenasbob2024cell/json-to-java-class-converter-generate-pojos-from-json-data-3n1b)
-- [How to Convert SVG to React Components: Complete Guide](https://dev.to/arenasbob2024cell/how-to-convert-svg-to-react-components-complete-guide-34jc)
-- [Instalar OpenClaw en MacMini, Parte 1.](https://dev.to/victoraguilarc/instalar-openclaw-en-macmini-parte-1-1ipo)
+- [How I Built a System That Tracks 900,000 Real-Time Events Per Day](https://dev.to/spindex/how-i-built-a-system-that-tracks-900000-real-time-events-per-day-7m8)
+- [Testing, is it the egg or the chicken?](https://dev.to/peter_iregi/testing-is-it-the-egg-or-the-chicken-og9)
+- [The time bomb in your codebase &lpar;and mine too&rpar;](https://dev.to/andrey_andrade_7a534cfc95/the-time-bomb-in-your-codebase-and-mine-too-2hj4)
+- [TorchAO vs ONNX Runtime: 8-bit Quantization Benchmark](https://dev.to/tildalice/torchao-vs-onnx-runtime-8-bit-quantization-benchmark-2leg)
+- [Cognitive Load Theory: Learning Within Your Brain&#39;s Limits](https://dev.to/brainrash_edu/cognitive-load-theory-learning-within-your-brains-limits-5hb8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
