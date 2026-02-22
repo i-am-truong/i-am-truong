@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [One OpenClaw Gateway Multiple Isolated AI Assistants &lpar;One Telegram Bot Per Worker&rpar;](https://dev.to/onin/one-openclaw-gateway-multiple-isolated-ai-assistants-one-telegram-bot-per-worker-3k97)
-- [Daily Challenge #10 : The &quot;Zero-Script&quot; Shopping Cart 🛒](https://dev.to/bingkahu/daily-challenge-10-the-zero-script-shopping-cart-2ka4)
-- [All you need to know about 🦞 OpenClaw](https://dev.to/xilinwei/all-you-need-to-know-about-openclaw-35cb)
-- [Hud.io Doesn’t Replace Observability It Replaces Guessing](https://dev.to/aws-builders/hudio-doesnt-replace-observability-it-replaces-guessing-13m2)
-- [Building a Visual Regression Engine in Python with Playwright](https://dev.to/nijil71/building-a-visual-regression-engine-in-python-with-playwright-2117)
+- [From Chatbot to Coworker: How Agentic AI Is Rewiring the Way We Build Software in 2026](https://dev.to/vasughanta09/from-chatbot-to-coworker-how-agentic-ai-is-rewiring-the-way-we-build-software-in-2026-44f5)
+- [Proxmox Virtual Machine optimization - Deep Dive](https://dev.to/sergelogvinov/proxmox-virtual-machine-optimization-deep-dive-mn9)
+- [Distro Wars 2026: Which Linux Should You Actually Use?](https://dev.to/md8_habibullah/distro-wars-2026-which-linux-should-you-actually-use-51n)
+- [回声（第13章）：能源异常（第一部分）](https://dev.to/chx381/hui-sheng-di-13zhang-neng-yuan-yi-chang-di-bu-fen--1492)
+- [回声（第12章）：安全检查（第一部分）](https://dev.to/chx381/hui-sheng-di-12zhang-an-quan-jian-cha-di-bu-fen--14ek)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
