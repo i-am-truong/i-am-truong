@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Chatbot to Coworker: How Agentic AI Is Rewiring the Way We Build Software in 2026](https://dev.to/vasughanta09/from-chatbot-to-coworker-how-agentic-ai-is-rewiring-the-way-we-build-software-in-2026-44f5)
-- [Proxmox Virtual Machine optimization - Deep Dive](https://dev.to/sergelogvinov/proxmox-virtual-machine-optimization-deep-dive-mn9)
-- [Distro Wars 2026: Which Linux Should You Actually Use?](https://dev.to/md8_habibullah/distro-wars-2026-which-linux-should-you-actually-use-51n)
-- [回声（第13章）：能源异常（第一部分）](https://dev.to/chx381/hui-sheng-di-13zhang-neng-yuan-yi-chang-di-bu-fen--1492)
-- [回声（第12章）：安全检查（第一部分）](https://dev.to/chx381/hui-sheng-di-12zhang-an-quan-jian-cha-di-bu-fen--14ek)
+- [Agents Need Permissionless Infrastructure — So We Built It](https://dev.to/alfredz0x/agents-need-permissionless-infrastructure-so-we-built-it-357c)
+- [Could AI in the Terminal Make Us Worse Engineers?](https://dev.to/kostia_3807e016df1085b9bd/could-ai-in-the-terminal-make-us-worse-engineers-3b5a)
+- [Introduction to TCP/IP and Data Flow](https://dev.to/manoj_kumarvemula_31e045/introduction-to-tcpip-and-data-flow-4l49)
+- [Kubernetes Dashboard is Dead!](https://dev.to/agardnerit/kubernetes-dashboard-is-dead-2a4d)
+- [Build a RAG System with Python and a Local LLM &lpar;No API Costs&rpar;](https://dev.to/satstack/build-a-rag-system-with-python-and-a-local-llm-no-api-costs-2go0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
