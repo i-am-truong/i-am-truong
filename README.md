@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Use AI Coding Assistants Without Trusting Them BlindlyHow I Use AI Coding Assistants Without…](https://dev.to/kuldeep-modi/how-i-use-ai-coding-assistants-without-trusting-them-blindlyhow-i-use-ai-coding-assistants-without-lp2)
-- [LLMs Are Not Deterministic. And Making Them Reliable Is Expensive &lpar;In Both the Bad Way and the Good Way&rpar;](https://dev.to/marcosomma/llms-are-not-deterministic-and-making-them-reliable-is-expensive-in-both-the-bad-way-and-the-good-5bo4)
-- [Raku Resolutions #3](https://dev.to/lizmat/raku-resolutions-3-3j6m)
-- [5 Errores Comunes en Facturación que te Están Costando Dinero](https://dev.to/brthls/5-errores-comunes-en-facturacion-que-te-estan-costando-dinero-24ne)
-- [ERP vs Contabilidad Online: ¿Cuál Elegir para Tu Negocio?](https://dev.to/brthls/erp-vs-contabilidad-online-cual-elegir-para-tu-negocio-3k9)
+- [We Built Iron Dome for AI Agents 🛡️](https://dev.to/mkdelta221/we-built-iron-dome-for-ai-agents-h1p)
+- [Managing Services in Linux](https://dev.to/khadijah/managing-services-in-linux-4467)
+- [Building a Transparent AI Window: My Journey with Gemini API](https://dev.to/pspatil/building-a-transparent-ai-window-my-journey-with-gemini-api-3aab)
+- [Dancing Pixels: Building an Immersive Audio-Reactive 3D Web Experience with React Three Fiber](https://dev.to/up_min_sparcs/dancing-pixels-building-an-immersive-audio-reactive-3d-web-experience-with-react-three-fiber-2ln6)
+- [A Beginner’s Guide to Building a REST API with Express.js, PostgreSQL, and Postman](https://dev.to/up_min_sparcs/a-beginners-guide-to-building-a-rest-api-with-expressjs-postgresql-and-postman-377e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
