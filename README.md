@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ERC-8128: Your Ethereum Wallet Might Soon Be Your Only Login.](https://dev.to/caffinecoder54/erc-8128-your-ethereum-wallet-might-soon-be-your-only-loginpublished-18fb)
-- [Why MQTT Last Will Testament Isn&#39;t Enough for Production IoT &lpar;And What We Built Instead&rpar;](https://dev.to/anil_saithana/why-mqtt-last-will-testament-isnt-enough-for-production-iot-and-what-we-built-instead-44cj)
-- [I replaced the `man` command with a Python TUI — and it&#39;s actually useful](https://dev.to/yash_ambaskar_c13cc5c5f10/i-replaced-the-man-command-with-a-python-tui-and-its-actually-useful-1h7h)
-- [Unit testing ESP-IDF components with GoogleTest &lpar;host-based&rpar;](https://dev.to/aluiziotomazelli/unit-testing-esp-idf-components-with-googletest-host-based-1c16)
-- [I Built a Cart Recovery System That Saved My Client $127K in 6 Months](https://dev.to/shajalal/i-built-a-cart-recovery-system-that-saved-my-client-127k-in-6-months-klo)
+- [From AI Chat to Claude Code in 3 Seconds](https://dev.to/m4sui/from-ai-chat-to-claude-code-in-3-seconds-47f3)
+- [I Built a Free OG Image Generator — Here&#39;s How &lpar;and Why&rpar;](https://dev.to/mackmoneymaker/i-built-a-free-og-image-generator-heres-how-and-why-3khj)
+- [Improving Accessibility - Tooltip](https://dev.to/hritickjaiswal/improving-accessibility-tooltip-3ogc)
+- [Designing Agentic AI Systems: How Real Applications Combine Patterns, Not Hype](https://dev.to/sreeni5018/designing-agentic-ai-systems-how-real-applications-combine-patterns-not-hype-1ob4)
+- [Como implementei WhatsApp-first sem notar](https://dev.to/fullagenticstack/como-implementei-whatsapp-first-sem-notar-6g5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
