@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/iwilsonq/-3875)
-- [Apex C. OpenClaw, Buenas Practicas de Operación.](https://dev.to/victoraguilarc/apex-d-openclaw-buenas-practicas-de-operacion-2dj7)
-- [The Evolution of the AI-Driven Coder](https://dev.to/iwilsonq/the-evolution-of-the-ai-driven-coder-2p0f)
-- [Leetcode Sunday #4](https://dev.to/rezzcode/leetcode-sunday-4-1025)
-- [Apex B. OpenClaw, Local Embeddings.](https://dev.to/victoraguilarc/apex-b-openclaw-local-embeddings-2mo4)
+- [I Built an AI Pipeline for Books, Here&#39;s the Architecture](https://dev.to/nikitachernenko/i-built-an-ai-pipeline-for-books-heres-the-architecture-52b6)
+- [Once Upon a Time, Writing Code Was Fun](https://dev.to/ismail9k/once-upon-a-time-writing-code-was-fun-2cik)
+- [I&#39;m Open-Sourcing My Claude Code Toolkit - Separate Your Execution Layer from Your Intelligence Layer](https://dev.to/austinkidwell/im-open-sourcing-my-claude-code-toolkit-separate-your-execution-layer-from-your-intelligence-3kda)
+- [Apex D. OpenClaw, Mejorar la Busqueda.](https://dev.to/victoraguilarc/apex-d-openclaw-mejorar-la-busqueda-4m5l)
+- [Using Code Agents Effectively](https://dev.to/misterbiggs/using-code-agents-effectively-4k7a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
