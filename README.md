@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building an AI Image Generation SaaS with Z-Image From Idea to a Scalable AI Visual Creation Platform](https://dev.to/nikiki/building-an-ai-image-generation-saas-with-z-image-from-idea-to-a-scalable-ai-visual-creation-1jag)
 - [The section that actually makes users use your website &lpar;not the hero&rpar;](https://dev.to/bhavin-allinonetools/the-section-that-actually-makes-users-use-your-website-not-the-hero-1cdl)
 - [What is Serialization and Deserialization in Programming?](https://dev.to/itssohampatel/what-is-serialization-and-deserialization-in-programming-11d0)
 - [Open-source React DevTools extension for spotting performance and state issues in real time](https://dev.to/hoainhoblogdev/open-source-react-devtools-extension-for-spotting-performance-and-state-issues-in-real-time-54ib)
 - [To the Programmer Quietly Drowning in AI Anxiety](https://dev.to/kaniel_outis/to-the-programmer-quietly-drowning-in-ai-anxiety-42pm)
-- [Hello World, Literally: Mapping Real-World Data using Geospatial Python](https://dev.to/up_min_sparcs/hello-world-literally-mapping-real-world-data-using-geospatial-python-4995)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
