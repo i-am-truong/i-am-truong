@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [We Built Iron Dome for AI Agents 🛡️](https://dev.to/mkdelta221/we-built-iron-dome-for-ai-agents-h1p)
-- [Managing Services in Linux](https://dev.to/khadijah/managing-services-in-linux-4467)
-- [Building a Transparent AI Window: My Journey with Gemini API](https://dev.to/pspatil/building-a-transparent-ai-window-my-journey-with-gemini-api-3aab)
-- [Dancing Pixels: Building an Immersive Audio-Reactive 3D Web Experience with React Three Fiber](https://dev.to/up_min_sparcs/dancing-pixels-building-an-immersive-audio-reactive-3d-web-experience-with-react-three-fiber-2ln6)
-- [A Beginner’s Guide to Building a REST API with Express.js, PostgreSQL, and Postman](https://dev.to/up_min_sparcs/a-beginners-guide-to-building-a-rest-api-with-expressjs-postgresql-and-postman-377e)
+- [The GPU Delusion: Why AI Is Getting Lazy](https://dev.to/zenoguy/the-gpu-delusion-why-ai-is-getting-lazy-8bp)
+- [Secuditor Lite – Diagnostic Security Tool for Windows Endpoints](https://dev.to/mennylevinski/secuditor-lite-diagnostic-security-tool-for-windows-endpoints-5e14)
+- [The Vulnerability: CVE-2026-2441](https://dev.to/chaudharidevam/the-vulnerability-cve-2026-2441-2hj1)
+- [Data Science at My MobApp Studio](https://dev.to/hanaez/data-science-at-my-mobapp-studio-1b1n)
+- [The Internet’s Trust Problem: BGP Hijacking, RPKI, and the Role of Blackwell-Scale Compute](https://dev.to/navinder/the-internets-trust-problem-bgp-hijacking-rpki-and-the-role-of-blackwell-scale-compute-2dkj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
