@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I built AI tools that roast your startup ideas so your investors don&#39;t](https://dev.to/luuuc/i-built-ai-tools-that-roast-your-startup-ideas-so-your-investors-dont-54di)
 - [Agents Need Permissionless Infrastructure — So We Built It](https://dev.to/alfredz0x/agents-need-permissionless-infrastructure-so-we-built-it-357c)
 - [Could AI in the Terminal Make Us Worse Engineers?](https://dev.to/kostia_3807e016df1085b9bd/could-ai-in-the-terminal-make-us-worse-engineers-3b5a)
 - [Introduction to TCP/IP and Data Flow](https://dev.to/manoj_kumarvemula_31e045/introduction-to-tcpip-and-data-flow-4l49)
 - [Kubernetes Dashboard is Dead!](https://dev.to/agardnerit/kubernetes-dashboard-is-dead-2a4d)
-- [Build a RAG System with Python and a Local LLM &lpar;No API Costs&rpar;](https://dev.to/satstack/build-a-rag-system-with-python-and-a-local-llm-no-api-costs-2go0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
