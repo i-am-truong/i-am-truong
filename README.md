@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Global AI Design Studio: RAG, Vector Search, and the Physics of Localization](https://dev.to/thirupathi_pyati/building-a-global-ai-design-studio-rag-vector-search-and-the-physics-of-localization-2b79)
+- [FullStack Diaries](https://dev.to/ft_mj_5b31d5ca700bb51d61f/fullstack-diaries-kb9)
+- [Software Development 101: An Introduction to Version Control with Git and Github](https://dev.to/up_min_sparcs/software-development-101-an-introduction-to-version-control-with-git-and-github-o3o)
+- [React Router: Loaders, Actions &amp; Form](https://dev.to/edriso/react-router-loaders-actions-form-2bbe)
 - [The GPU Delusion: Why AI Is Getting Lazy](https://dev.to/zenoguy/the-gpu-delusion-why-ai-is-getting-lazy-8bp)
-- [Secuditor Lite – Diagnostic Security Tool for Windows Endpoints](https://dev.to/mennylevinski/secuditor-lite-diagnostic-security-tool-for-windows-endpoints-5e14)
-- [The Vulnerability: CVE-2026-2441](https://dev.to/chaudharidevam/the-vulnerability-cve-2026-2441-2hj1)
-- [Data Science at My MobApp Studio](https://dev.to/hanaez/data-science-at-my-mobapp-studio-1b1n)
-- [The Internet’s Trust Problem: BGP Hijacking, RPKI, and the Role of Blackwell-Scale Compute](https://dev.to/navinder/the-internets-trust-problem-bgp-hijacking-rpki-and-the-role-of-blackwell-scale-compute-2dkj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
