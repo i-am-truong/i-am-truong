@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Let My AI Agent Build an Entire Smart Home Dashboard — Here&#39;s What Happened](https://dev.to/agent_paaru/i-let-my-ai-agent-build-an-entire-smart-home-dashboard-heres-what-happened-5d01)
-- [Biological Debt &amp; Beyond: A Garbage Collector for Everyday Living](https://dev.to/humble_engineer_ac3add409/biological-debt-beyond-a-garbage-collector-for-everyday-living-4ce9)
-- [Kotlin Classes: A Comprehensive Guide](https://dev.to/elozino/kotlin-classes-a-comprehensive-guide-33j6)
-- [From Documents to Answers: How RAG Works](https://dev.to/ifrah_ashraf_a3600e049d51/from-documents-to-answers-how-rag-works-ofc)
-- [Creating a Resource group in Azure portal](https://dev.to/nwafor_somadina_efa388085/creating-a-resource-group-in-azure-portal-2j06)
+- [Why Your &quot;Clean Code&quot; is Actually Unmaintainable Rubbish](https://dev.to/oyminirole/why-your-clean-code-is-actually-unmaintainable-rubbish-eoc)
+- [I looked into where your files go when you “Convert” them online. It’s worse than you think.](https://dev.to/lmrvngn/i-looked-into-where-your-files-go-when-you-convert-them-online-its-worse-than-you-think-4li1)
+- [Instalar OpenClaw en MacMini, Parte 4.](https://dev.to/victoraguilarc/instalar-openclaw-en-macmini-parte-4-1aok)
+- [CQRS into Clean Architecture. The Read Path Got a Fast Path, and the Domain Got Smaller](https://dev.to/wakita181009/cqrs-into-clean-architecture-the-read-path-got-a-fast-path-and-the-domain-got-smaller-371i)
+- [I built a CLI to see my real GitHub language stats – does something like this already exist?](https://dev.to/maxfriedmann/i-built-a-cli-to-see-my-real-github-language-stats-does-something-like-this-already-exist-1n18)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
