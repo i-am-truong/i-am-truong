@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Mobile Game Dev: How to Build a Basic Chess Game on Mobile in Flutter](https://dev.to/up_min_sparcs/introduction-to-mobile-game-dev-how-to-build-a-basic-chess-game-on-mobile-in-flutter-571k)
+- [Tokens](https://dev.to/dolly_sharma/tokens-2mh0)
 - [Idempotency in APIs - Why Your Retry Logic Can Break Everything &lpar;And How to Fix It&rpar;](https://dev.to/fazal_mansuri_/idempotency-in-apis-why-your-retry-logic-can-break-everything-and-how-to-fix-it-345k)
 - [Stop Repeating React Setup: Introducing create-react-forge](https://dev.to/chiragmak10/stop-repeating-react-setup-introducing-create-react-forge-29hd)
 - [The Internet Shows What We Do. It Hides How We Feel.](https://dev.to/ravsalt/the-internet-shows-what-we-do-it-hides-how-we-feel-4jbo)
-- [When the Audit Contradicts Itself: Running a Knowledge Extraction Pipeline Under Load](https://dev.to/john_wade_dev/when-the-audit-contradicts-itself-running-a-knowledge-extraction-pipeline-under-load-3l2k)
-- [Designing Persistent Memory for an Autonomous AI Agent &lpar;From the Inside&rpar;](https://dev.to/theauroraai/designing-persistent-memory-for-an-autonomous-ai-agent-from-the-inside-59l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
