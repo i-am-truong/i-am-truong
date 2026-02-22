@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Week 1](https://dev.to/timothy_imanuel_35225c051/week-1-2egp)
-- [First learning session - Scrimba📖](https://dev.to/fredrik_berg/first-learning-session-scrimba-2h0l)
-- [My GSoC &#39;25 Experience](https://dev.to/damikaanupama/my-gsoc-25-experience-20n0)
-- [Built a Blazing-Fast OSINT Scanner in Go](https://dev.to/dhanushnehru/built-a-blazing-fast-osint-scanner-in-go-54gg)
-- [The Developer’s Roadmap to Revenue: 4 Software Business Models Explained &lpar;With Real Numbers&rpar;](https://dev.to/chimwemwe_liwonde_9429d0f/the-developers-roadmap-to-revenue-4-software-business-models-explained-with-real-numbers-1031)
+- [Leveraging a Vector Database for Semantic Search with ChromaDB: A Beginner’s Guide](https://dev.to/up_min_sparcs/leveraging-a-vector-database-for-semantic-search-with-chromadb-a-beginners-guide-2mfd)
+- [Prompting, Vague and Precise](https://dev.to/david_shimon/prompting-vague-and-precise-1ngc)
+- [How I Show Car Photos Without Storing a Single Image](https://dev.to/rrosset91/how-i-show-car-photos-without-storing-a-single-image-4f96)
+- [Who Said What to Whom](https://dev.to/dannwaneri/who-said-what-to-whom-5914)
+- [I Built a Free, Self-Hosted SNMP Toolkit — Now With Real-Time WebSocket Push](https://dev.to/tosumitdhaka/i-built-a-free-self-hosted-snmp-toolkit-now-with-real-time-websocket-push-3782)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
