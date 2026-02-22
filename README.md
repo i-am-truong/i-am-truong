@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Make Any React App Multilingual - Static UI + Dynamic Data](https://dev.to/manjhss/how-to-make-any-react-app-multilingual-static-ui-dynamic-data-1d0p)
-- [Beautiful Perl feature: trailing commas](https://dev.to/damil/beautiful-perl-feature-trailing-commas-4504)
-- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-4ohk)
-- [Apex E. OpenClaw, Templates Útiles](https://dev.to/victoraguilarc/apex-e-openclaw-templates-utiles-3nhf)
-- [I Built an AI Pipeline for Books, Here&#39;s the Architecture](https://dev.to/nikitachernenko/i-built-an-ai-pipeline-for-books-heres-the-architecture-52b6)
+- [I added a first-party MCP server to my API. Here is what AI coding assistants can now do.](https://dev.to/custodiaadmin/i-added-a-first-party-mcp-server-to-my-api-here-is-what-ai-coding-assistants-can-now-do-2flh)
+- [Anatomy of a Schema Drift Incident: 5 Real Patterns That Break Production](https://dev.to/qa-leaders/anatomy-of-a-schema-drift-incident-5-real-patterns-that-break-production-274l)
+- [Everything I&#39;ve learned so far about .cursorrules after mass testing them](https://dev.to/nedcodes/everything-i-learned-about-cursorrules-after-mass-testing-them-for-2-months-31km)
+- [I launched on 3 platforms with 0 followers. My 7-year-old article beat all of them.](https://dev.to/reposweeper/i-launched-on-3-platforms-with-0-followers-my-7-year-old-article-beat-all-of-them-5438)
+- [How to Fix Function _load_textdomain_just_in_time Error in WordPress](https://dev.to/juddee/how-to-fix-function-loadtextdomainjustintime-error-in-wordpress-l4d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
