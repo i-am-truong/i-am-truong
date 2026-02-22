@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Single-File CSS Design - I built a lightweight Java framework for Japan&#39;s &quot;SI&quot; projects &lpar;third attempt in 10 years&rpar; #008](https://dev.to/sugaiketadao/single-file-css-design-i-built-a-lightweight-java-framework-for-japans-si-projects-third-kk3)
-- [Understanding Variables and Data Types Fundamentals in JavaScript](https://dev.to/ritam369/understanding-variables-and-data-types-fundamentals-in-javascript-9ch)
-- [AltSchool Of Engineering Tinyuka’24 Month 12 Week 5](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-12-week-5-a7k)
-- [The use of AI for beginners just learning how to code?](https://dev.to/fredrik_berg/the-us-of-ai-for-beginners-just-learning-how-to-code-2ngi)
-- [Seedance 2.0 @Tags: How to Direct AI Videos with Multimodal References](https://dev.to/evolink/seedance-20-tags-how-to-direct-ai-videos-with-multimodal-references-1jlo)
+- [Idempotency in APIs - Why Your Retry Logic Can Break Everything &lpar;And How to Fix It&rpar;](https://dev.to/fazal_mansuri_/idempotency-in-apis-why-your-retry-logic-can-break-everything-and-how-to-fix-it-345k)
+- [Stop Repeating React Setup: Introducing create-react-forge](https://dev.to/chiragmak10/stop-repeating-react-setup-introducing-create-react-forge-29hd)
+- [The Internet Shows What We Do. It Hides How We Feel.](https://dev.to/ravsalt/the-internet-shows-what-we-do-it-hides-how-we-feel-4jbo)
+- [When the Audit Contradicts Itself: Running a Knowledge Extraction Pipeline Under Load](https://dev.to/john_wade_dev/when-the-audit-contradicts-itself-running-a-knowledge-extraction-pipeline-under-load-3l2k)
+- [Designing Persistent Memory for an Autonomous AI Agent &lpar;From the Inside&rpar;](https://dev.to/theauroraai/designing-persistent-memory-for-an-autonomous-ai-agent-from-the-inside-59l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
