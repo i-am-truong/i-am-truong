@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Mobile Game Dev: How to Build a Basic Chess Game on Mobile in Flutter](https://dev.to/up_min_sparcs/introduction-to-mobile-game-dev-how-to-build-a-basic-chess-game-on-mobile-in-flutter-571k)
-- [Tokens](https://dev.to/dolly_sharma/tokens-2mh0)
-- [Idempotency in APIs - Why Your Retry Logic Can Break Everything &lpar;And How to Fix It&rpar;](https://dev.to/fazal_mansuri_/idempotency-in-apis-why-your-retry-logic-can-break-everything-and-how-to-fix-it-345k)
-- [Stop Repeating React Setup: Introducing create-react-forge](https://dev.to/chiragmak10/stop-repeating-react-setup-introducing-create-react-forge-29hd)
-- [The Internet Shows What We Do. It Hides How We Feel.](https://dev.to/ravsalt/the-internet-shows-what-we-do-it-hides-how-we-feel-4jbo)
+- [Week 1](https://dev.to/timothy_imanuel_35225c051/week-1-2egp)
+- [First learning session - Scrimba📖](https://dev.to/fredrik_berg/first-learning-session-scrimba-2h0l)
+- [My GSoC &#39;25 Experience](https://dev.to/damikaanupama/my-gsoc-25-experience-20n0)
+- [Built a Blazing-Fast OSINT Scanner in Go](https://dev.to/dhanushnehru/built-a-blazing-fast-osint-scanner-in-go-54gg)
+- [The Developer’s Roadmap to Revenue: 4 Software Business Models Explained &lpar;With Real Numbers&rpar;](https://dev.to/chimwemwe_liwonde_9429d0f/the-developers-roadmap-to-revenue-4-software-business-models-explained-with-real-numbers-1031)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
