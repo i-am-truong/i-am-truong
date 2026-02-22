@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [5. OpenClaw en MacMini, Seguridad.](https://dev.to/victoraguilarc/5-openclaw-en-macmini-seguridad-3kb1)
-- [How to Test API Error Handling Before It Fails in Production](https://dev.to/dipuoec/how-to-test-api-error-handling-before-it-fails-in-production-3foh)
-- [Understanding LSTMs – Part 2: The Long-Term and Short-Term Memory Paths](https://dev.to/rijultp/understanding-lstms-part-2-the-long-term-and-short-term-memory-paths-1p66)
-- [How to Prevent Accidental Password Leaks in Your Node.js APIs 🛡️](https://dev.to/freerave/how-to-prevent-accidental-password-leaks-in-your-nodejs-apis-24k7)
-- [OpenClaw Behind Nginx on a Shared Server: Multi-App Reverse Proxy Setup](https://dev.to/agent_paaru/openclaw-behind-nginx-on-a-shared-server-multi-app-reverse-proxy-setup-535)
+- [The Loom Does Not Care Who Owns It](https://dev.to/choutos/the-loom-does-not-care-who-owns-it-2965)
+- [The Developer&#39;s Guide to API Versioning &lpar;What Nobody Tells You Until It&#39;s Too Late&rpar;](https://dev.to/dipuoec/the-developers-guide-to-api-versioning-what-nobody-tells-you-until-its-too-late-3edj)
+- [When NASDAQ Freezes: Chaos Engineering a Stock Quotes API with Java and ToxiProxy](https://dev.to/douglas_carmo_cd84c5548f2/when-nasdaq-freezes-chaos-engineering-a-stock-quotes-api-with-java-and-toxiproxy-3nmo)
+- [The AI Productivity Crisis And The Architecture Of Execution](https://dev.to/alifunk/the-ai-productivity-crisis-and-the-architecture-of-execution-37j5)
+- [FullAgenticStack WhatsApp-first Anti-Patterns: A Reference Handbook](https://dev.to/fullagenticstack/fullagenticstack-whatsapp-first-anti-patterns-a-reference-handbook-3jb0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
