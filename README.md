@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Left My First Hackathon at 8 PM — And it Was a Massive Success!](https://dev.to/maame-codes/i-left-my-first-hackathon-at-8-pm-and-it-was-a-massive-success-1hme)
-- [I Gave an AI Full Access to My VPS — Here&#39;s What Happened](https://dev.to/teguh_coding/i-gave-an-ai-full-access-to-my-vps-heres-what-happened-40g8)
-- [I Thought I Knew Data. Then This Book Proved Me Wrong.](https://dev.to/akshay_rajinikanth/i-thought-i-knew-data-then-this-book-proved-me-wrong-11dj)
-- [Building My Own Openclaw With Local LLM Model: The Xoul Development Story](https://dev.to/kim_namhyun_e7535f3dc4c69/building-my-ai-assistant-with-local-llm-model-the-xoul-development-story-519k)
-- [Stylo for Android: From Idea to Release](https://dev.to/gostylo/stylo-for-android-from-idea-to-release-2h0e)
+- [LLMs Are Not Deterministic. And Making Them Reliable Is Expensive &lpar;In Both the Bad Way and the Good Way&rpar;](https://dev.to/marcosomma/llms-are-not-deterministic-and-making-them-reliable-is-expensive-in-both-the-bad-way-and-the-good-5bo4)
+- [Raku Resolutions #3](https://dev.to/lizmat/raku-resolutions-3-3j6m)
+- [5 Errores Comunes en Facturación que te Están Costando Dinero](https://dev.to/brthls/5-errores-comunes-en-facturacion-que-te-estan-costando-dinero-24ne)
+- [ERP vs Contabilidad Online: ¿Cuál Elegir para Tu Negocio?](https://dev.to/brthls/erp-vs-contabilidad-online-cual-elegir-para-tu-negocio-3k9)
+- [Guía Completa: Cómo Facturar como Autónomo en España en 2026](https://dev.to/brthls/guia-completa-como-facturar-como-autonomo-en-espana-en-2026-7k0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
