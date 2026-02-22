@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a System That Tracks 900,000 Real-Time Events Per Day](https://dev.to/spindex/how-i-built-a-system-that-tracks-900000-real-time-events-per-day-7m8)
-- [Testing, is it the egg or the chicken?](https://dev.to/peter_iregi/testing-is-it-the-egg-or-the-chicken-og9)
-- [The time bomb in your codebase &lpar;and mine too&rpar;](https://dev.to/andrey_andrade_7a534cfc95/the-time-bomb-in-your-codebase-and-mine-too-2hj4)
-- [TorchAO vs ONNX Runtime: 8-bit Quantization Benchmark](https://dev.to/tildalice/torchao-vs-onnx-runtime-8-bit-quantization-benchmark-2leg)
-- [Cognitive Load Theory: Learning Within Your Brain&#39;s Limits](https://dev.to/brainrash_edu/cognitive-load-theory-learning-within-your-brains-limits-5hb8)
+- [I Let My AI Agent Build an Entire Smart Home Dashboard — Here&#39;s What Happened](https://dev.to/agent_paaru/i-let-my-ai-agent-build-an-entire-smart-home-dashboard-heres-what-happened-5d01)
+- [Biological Debt &amp; Beyond: A Garbage Collector for Everyday Living](https://dev.to/humble_engineer_ac3add409/biological-debt-beyond-a-garbage-collector-for-everyday-living-4ce9)
+- [Kotlin Classes: A Comprehensive Guide](https://dev.to/elozino/kotlin-classes-a-comprehensive-guide-33j6)
+- [From Documents to Answers: How RAG Works](https://dev.to/ifrah_ashraf_a3600e049d51/from-documents-to-answers-how-rag-works-ofc)
+- [Creating a Resource group in Azure portal](https://dev.to/nwafor_somadina_efa388085/creating-a-resource-group-in-azure-portal-2j06)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
