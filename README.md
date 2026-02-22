@@ -122,9 +122,9 @@ Python                   1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [I added a first-party MCP server to my API. Here is what AI coding assistants can now do.](https://dev.to/custodiaadmin/i-added-a-first-party-mcp-server-to-my-api-here-is-what-ai-coding-assistants-can-now-do-2flh)
 - [Anatomy of a Schema Drift Incident: 5 Real Patterns That Break Production](https://dev.to/qa-leaders/anatomy-of-a-schema-drift-incident-5-real-patterns-that-break-production-274l)
+- [Redis in NestJS: The RedisX Solution You Didn&#39;t Know You Needed](https://dev.to/sur-ser/redis-in-nestjs-the-redisx-solution-you-didnt-know-you-needed-1c7f)
 - [Everything I&#39;ve learned so far about .cursorrules after mass testing them](https://dev.to/nedcodes/everything-i-learned-about-cursorrules-after-mass-testing-them-for-2-months-31km)
 - [I launched on 3 platforms with 0 followers. My 7-year-old article beat all of them.](https://dev.to/reposweeper/i-launched-on-3-platforms-with-0-followers-my-7-year-old-article-beat-all-of-them-5438)
-- [How to Fix Function _load_textdomain_just_in_time Error in WordPress](https://dev.to/juddee/how-to-fix-function-loadtextdomainjustintime-error-in-wordpress-l4d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
