@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Your &quot;Clean Code&quot; is Actually Unmaintainable Rubbish](https://dev.to/oyminirole/why-your-clean-code-is-actually-unmaintainable-rubbish-eoc)
-- [I looked into where your files go when you “Convert” them online. It’s worse than you think.](https://dev.to/lmrvngn/i-looked-into-where-your-files-go-when-you-convert-them-online-its-worse-than-you-think-4li1)
-- [Instalar OpenClaw en MacMini, Parte 4.](https://dev.to/victoraguilarc/instalar-openclaw-en-macmini-parte-4-1aok)
-- [CQRS into Clean Architecture. The Read Path Got a Fast Path, and the Domain Got Smaller](https://dev.to/wakita181009/cqrs-into-clean-architecture-the-read-path-got-a-fast-path-and-the-domain-got-smaller-371i)
-- [I built a CLI to see my real GitHub language stats – does something like this already exist?](https://dev.to/maxfriedmann/i-built-a-cli-to-see-my-real-github-language-stats-does-something-like-this-already-exist-1n18)
+- [Understanding LSTMs – Part 2: The Long-Term and Short-Term Memory Paths](https://dev.to/rijultp/understanding-lstms-part-2-the-long-term-and-short-term-memory-paths-1p66)
+- [How to Prevent Accidental Password Leaks in Your Node.js APIs 🛡️](https://dev.to/freerave/how-to-prevent-accidental-password-leaks-in-your-nodejs-apis-24k7)
+- [OpenClaw Behind Nginx on a Shared Server: Multi-App Reverse Proxy Setup](https://dev.to/agent_paaru/openclaw-behind-nginx-on-a-shared-server-multi-app-reverse-proxy-setup-535)
+- [Nginx Trick: Serve HTTP and WebSocket on the Same Root Path](https://dev.to/agent_paaru/nginx-trick-serve-http-and-websocket-on-the-same-root-path-5d5l)
+- [AWS S3 Storage Classes &lpar;Start to End&rpar;](https://dev.to/salma_aga/aws-s3-storage-classes-start-to-end-258c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
