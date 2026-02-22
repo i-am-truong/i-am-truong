@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Make Any React App Multilingual - Static UI + Dynamic Data](https://dev.to/manjhss/how-to-make-any-react-app-multilingual-static-ui-dynamic-data-1d0p)
+- [Beautiful Perl feature: trailing commas](https://dev.to/damil/beautiful-perl-feature-trailing-commas-4504)
+- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-4ohk)
+- [Apex E. OpenClaw, Templates Útiles](https://dev.to/victoraguilarc/apex-e-openclaw-templates-utiles-3nhf)
 - [I Built an AI Pipeline for Books, Here&#39;s the Architecture](https://dev.to/nikitachernenko/i-built-an-ai-pipeline-for-books-heres-the-architecture-52b6)
-- [Once Upon a Time, Writing Code Was Fun](https://dev.to/ismail9k/once-upon-a-time-writing-code-was-fun-2cik)
-- [I&#39;m Open-Sourcing My Claude Code Toolkit - Separate Your Execution Layer from Your Intelligence Layer](https://dev.to/austinkidwell/im-open-sourcing-my-claude-code-toolkit-separate-your-execution-layer-from-your-intelligence-3kda)
-- [Apex D. OpenClaw, Mejorar la Busqueda.](https://dev.to/victoraguilarc/apex-d-openclaw-mejorar-la-busqueda-4m5l)
-- [Using Code Agents Effectively](https://dev.to/misterbiggs/using-code-agents-effectively-4k7a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
