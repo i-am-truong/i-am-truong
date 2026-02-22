@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Did some actual coding today - found a blind spot example for coding agents](https://dev.to/scott_raisbeck_24ea5fbc1e/did-some-actual-coding-today--27in)
-- [How to Receive Stripe Webhooks on Localhost &lpar;Without the Headache&rpar;](https://dev.to/tpaksu/how-to-receive-stripe-webhooks-on-localhost-without-the-headache-4mi1)
-- [Concurrency patterns on Golang: Fan-out / Fan-in](https://dev.to/silver_dev/concurrency-patterns-on-golang-fan-out-fan-in-goj)
-- [The evolution of AI prompting: how 4 years of research inspired my new Claude Code Skill](https://dev.to/isspicycode/the-evolution-of-ai-prompting-how-4-years-of-research-inspired-my-new-claude-code-skill-nfh)
-- [drift: an open source CLI that detects silent technical debt in AI-generated TypeScript code](https://dev.to/eduardbar/drift-an-open-source-cli-that-detects-silent-technical-debt-in-ai-generated-typescript-code-4ll7)
+- [Apex B. OpenClaw, Local Embeddings.](https://dev.to/victoraguilarc/apex-b-openclaw-local-embeddings-2mo4)
+- [I Fixed 110 Failing E2E Tests in 2 Hours Without Writing a Single Line of Test Code](https://dev.to/nikolarss0n/i-fixed-110-failing-e2e-tests-in-2-hours-without-writing-a-single-line-of-test-code-2mfd)
+- [Apex 1. OpenClaw, Historial de Providers.](https://dev.to/victoraguilarc/apex-1-openclaw-historial-de-providers-2kp4)
+- [I Built the Open Source “Microsoft Edge Drop” Replacement Using Cloudflare R2 + Turso](https://dev.to/_russell/i-built-a-self-hosted-microsoft-edge-drop-replacement-using-cloudflare-r2-turso-2gg0)
+- [Goroutines vs. Java Virtual Threads: um guia de sobrevivência](https://dev.to/cvilanova76/goroutines-vs-java-virtual-threads-um-guia-de-sobrevivencia-40pe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
