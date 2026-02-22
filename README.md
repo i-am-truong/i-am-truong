@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Debugging APIs? Why a Visual JSON Editor is Better Than Your Terminal](https://dev.to/99tools/debugging-apis-why-a-visual-json-editor-is-better-than-your-terminal-1b40)
-- [🔐 TLS Encryption &amp; Decryption in AWS Network Firewall](https://dev.to/aws-builders/tls-encryption-decryption-in-aws-network-firewall-3olb)
-- [Competitive Puzzles](https://dev.to/jesuspinarte/competitive-puzzles-ma1)
-- [How I Built an AI Chat That Speaks As Me](https://dev.to/mjd/how-i-built-an-ai-chat-that-speaks-as-me-1hn3)
-- [From PR to Production: How Kubernetes Deployments Actually Work &lpar;Microservices in the Real World&rpar;](https://dev.to/speaklouder/from-pr-to-production-how-kubernetes-deployments-actually-work-microservices-in-the-real-world-1cfb)
+- [Building a Lightning-Fast Data Platform: How We Tackled Core Web Vitals on a Heavy Content Site](https://dev.to/ladlablogger/building-a-lightning-fast-data-platform-how-we-tackled-core-web-vitals-on-a-heavy-content-site-3fgg)
+- [I Built a Neural Network from Scratch &lpar;No Frameworks&rpar; - Here&#39;s What I Discovered](https://dev.to/ashisane/i-built-a-neural-network-from-scratch-no-frameworks-heres-what-i-discovered-5ee)
+- [WebMCP: A Browser-Native Execution Model for AI Agents](https://dev.to/astrodevil/webmcp-a-browser-native-execution-model-for-ai-agents-125n)
+- [Decoding the Shape of Life: The Next Frontier in RNA 3D Folding](https://dev.to/jonathan_jackson/decoding-the-shape-of-life-the-next-frontier-in-rna-3d-folding-48e2)
+- [First try with OpenCode &lpar;Windows&rpar;: finished the task while I played a game](https://dev.to/stringzwb/first-try-with-opencode-windows-finished-the-task-while-i-played-a-game-5ei8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
