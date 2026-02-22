@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚨 AI Will Not Replace Developers – Lazy Developers Will Be Replaced](https://dev.to/darshanraval/ai-will-not-replace-developers-lazy-developers-will-be-replaced-224j)
-- [I Bet Your Table Code is 200+ Lines. Prove Me Wrong. 😏](https://dev.to/jacksonkasi/i-bet-your-table-code-is-200-lines-prove-me-wrong-4jfe)
-- [Zero-Knowledge Encryption: What “We Can’t See Your Data” Actually Means](https://dev.to/inkrypt/zero-knowledge-encryption-what-we-cant-see-your-data-actually-means-1mbl)
-- [[Boost]](https://dev.to/mboukou_ricardo_fdb06062/i-want-to-run-my-website-from-local-to-my-mobile-phone-it-is-a-dynamic-website-using-react-and-40le)
-- [AI Settles the Ultimate Venezuelan vs Colombian Arepa Debate &lpar;Kimi K2.5&rpar;](https://dev.to/juandenis/ai-settles-the-ultimate-venezuelan-vs-colombian-arepa-debate-2ngm)
+- [Single-File CSS Design - I built a lightweight Java framework for Japan&#39;s &quot;SI&quot; projects &lpar;third attempt in 10 years&rpar; #008](https://dev.to/sugaiketadao/single-file-css-design-i-built-a-lightweight-java-framework-for-japans-si-projects-third-kk3)
+- [Understanding Variables and Data Types Fundamentals in JavaScript](https://dev.to/ritam369/understanding-variables-and-data-types-fundamentals-in-javascript-9ch)
+- [AltSchool Of Engineering Tinyuka’24 Month 12 Week 5](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-12-week-5-a7k)
+- [The use of AI for beginners just learning how to code?](https://dev.to/fredrik_berg/the-us-of-ai-for-beginners-just-learning-how-to-code-2ngi)
+- [Seedance 2.0 @Tags: How to Direct AI Videos with Multimodal References](https://dev.to/evolink/seedance-20-tags-how-to-direct-ai-videos-with-multimodal-references-1jlo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
