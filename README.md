@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why we chose Astro over SvelteKit for our hosting comparison platform](https://dev.to/hostingsift/why-we-chose-astro-over-sveltekit-for-our-hosting-comparison-platform-3cc6)
-- [Visual Studio Weekly: Copilot Memories, AI-Powered Testing, and Custom Agents](https://dev.to/htekdev/visual-studio-weekly-copilot-memories-ai-powered-testing-and-custom-agents-3am5)
-- [The Complete Guide to GitHub Copilot in Visual Studio: Every Feature, Every Shortcut, Every Pattern](https://dev.to/htekdev/the-complete-guide-to-github-copilot-in-visual-studio-every-feature-every-shortcut-every-pattern-2b97)
-- [Tests Are Everything in Agentic AI: Building DevOps Guardrails for AI-Powered Development](https://dev.to/htekdev/tests-are-everything-in-agentic-ai-building-devops-guardrails-for-ai-powered-development-2onl)
-- [Building a Shopify App was the easy part. Finding the first testers is incredibly hard.](https://dev.to/noelmarketing/building-a-shopify-app-was-the-easy-part-finding-the-first-testers-is-incredibly-hard-5flo)
+- [Introducing EnvGuard: Catch .env Mistakes Before They Break Your App](https://dev.to/deyemie/introducing-envguard-catch-env-mistakes-before-they-break-your-app-32mg)
+- [I built an open-source alternative to Toast and Square for restaurant management](https://dev.to/mighty840/i-built-an-open-source-alternative-to-toast-and-square-for-restaurant-management-3mdf)
+- [Engineering a Privacy-First Emotion Analytics Pipeline for Regulated Healthcare Data](https://dev.to/mukundhan_mohan_403443a12/engineering-a-privacy-first-emotion-analytics-pipeline-for-regulated-healthcare-data-3kbd)
+- [I Built a Niche AI/ML Job Board in 48 Hours — Stack, Code &amp; Live Revenue Model](https://dev.to/oblivionlabz/i-built-a-niche-aiml-job-board-in-48-hours-stack-code-live-revenue-model-1l1g)
+- [Salary Data is Messy: What 10,000+ PMHNP Job Posts Say About DNP vs MSN &lpar;+$10–20K?&rpar;](https://dev.to/sathish_daggula/salary-data-is-messy-what-10000-pmhnp-job-posts-say-about-dnp-vs-msn-10-20k-5gp3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
