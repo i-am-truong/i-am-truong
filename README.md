@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Artificial Intelligence Coding Is Shrinking Teams. Adapt Fast](https://dev.to/sashido/artificial-intelligence-coding-is-shrinking-teams-adapt-fast-m8g)
-- [2026 is the New 2016 and Honestly? I Kind of Get It.](https://dev.to/vasughanta09/2026-is-the-new-2016-and-honestly-i-kind-of-get-it-57bg)
-- [The Secret Life of Go: Worker Pools](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-worker-pools-n1d)
-- [Tight Coupling &lpar;Request-Response&rpar; vs. Loose Coupling &lpar;Event-Driven&rpar;.](https://dev.to/glax3max/tight-coupling-request-response-vs-loose-coupling-event-driven-5cpa)
-- [Why Fat Models Hurt Laravel Projects More Than You Think](https://dev.to/laracopilot/why-fat-models-hurt-laravel-projects-more-than-you-think-mk8)
+- [Documentation doesn&#39;t scale. Here&#39;s what we learned from organizations that made it work.](https://dev.to/lorina_b/documentation-doesnt-scale-heres-what-we-learned-from-organizations-that-made-it-work-2l3g)
+- [15 Cool AI-Based Mobile App Project Ideas for 2026](https://dev.to/hassan_raza_seo/15-cool-ai-based-mobile-app-project-ideas-for-2026-4l70)
+- [Best Type-Safe UI Component Libraries for React in 2026](https://dev.to/ninarao/best-type-safe-ui-component-libraries-for-react-in-2026-f22)
+- [Boost Your Productivity: M365 Copilot Makes Language Barriers Disappear](https://dev.to/balagmadhu/boost-your-productivity-m365-copilot-makes-language-barriers-disappear-213o)
+- [5 DIY Python Decorators for Building Cleaner Data Pipelines](https://dev.to/balapriya/5-diy-python-decorators-for-building-cleaner-data-pipelines-1f24)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
