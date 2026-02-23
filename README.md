@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [LLM System Design Checklist: 7 Things I Wish Every AI Engineer Knew Before Building an AI App](https://dev.to/cloyouai/llm-system-design-checklist-7-things-i-wish-every-ai-engineer-knew-before-building-an-ai-app-21b5)
-- [Why Snapshot Testing Is the Secret Weapon for API Stability](https://dev.to/kreya/why-snapshot-testing-is-the-secret-weapon-for-api-stability-4797)
-- [What I Learned Developing a Custom Framework *with* Generative AI](https://dev.to/sugaiketadao/what-i-learned-developing-a-custom-framework-with-generative-ai-3npe)
-- [Face Avatar Generator — My Submission for the DEV x Google AI Studio Track](https://dev.to/lukeponga-dev/face-avatar-generator-my-submission-for-the-dev-x-google-ai-studio-track-k7i)
-- [DevOps Blind Spot: Linux and EC2 Boot Internals Explained](https://dev.to/srinivasamcjf/devops-blind-spot-linux-and-ec2-boot-internals-explained-10e5)
+- [Authentication in MCP: What 518 Production Servers Actually Do](https://dev.to/kai_security_ai/authentication-in-mcp-what-518-production-servers-actually-do-2a63)
+- [Running OpenClaw on NVIDIA Jetson Thor with Docker Model Runner: A Complete Guide](https://dev.to/ajeetraina/running-openclaw-on-nvidia-jetson-thor-with-docker-model-runner-a-complete-guide-5162)
+- [Why GitOps Doesn&#39;t Work at Scale &lpar;and What to Do Instead&rpar;](https://dev.to/jsbroks/why-gitops-doesnt-work-at-scale-and-what-to-do-instead-2p91)
+- [MLB Bat Tracking Dataset &lpar;2024-2025&rpar;](https://dev.to/yasumorishima/mlb-bat-tracking-dataset-2024-2025-34hc)
+- [How I Fixed the Hashnode GraphQL API Stale Cache Bug &lpar;Stellate CDN&rpar;](https://dev.to/highcenburg/how-i-fixed-the-hashnode-graphql-api-stale-cache-bug-stellate-cdn-koh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
