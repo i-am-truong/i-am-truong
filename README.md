@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Fixed Sliding Window in C++ &lpar;LeetCode 1876&rpar;](https://dev.to/nithya_dharshiniofficial/mastering-fixed-sliding-window-in-c-leetcode-1876-1emc)
-- [I made a Magnifier Toggle — A Simple Zoom‑Lens Browser Extension](https://dev.to/codebunny20/i-made-a-magnifier-toggle-a-simple-zoom-lens-browser-extension-3lp6)
-- [7 Productivity Hacks That 10x Your Developer Output &lpar;With Real Examples&rpar;](https://dev.to/maxxmini/7-productivity-hacks-that-10x-your-developer-output-with-real-examples-1ng7)
-- [What Problems Does Future Solve in Concurrent Java Programming?](https://dev.to/realnamehidden1_61/what-problems-does-future-solve-in-concurrent-java-programming-eag)
-- [Building an MCP Server for Linux Desktop GUI Automation on Wayland](https://dev.to/bhyoo/building-an-mcp-server-for-linux-desktop-gui-automation-on-wayland-30b2)
+- [The Missing Workspace Layer for Agentic Polyrepo Development](https://dev.to/dean0x/the-missing-workspace-layer-for-agentic-polyrepo-development-pae)
+- [Understanding LangChain and Vector Embeddings: The Power Duo of Modern AI Applications](https://dev.to/zeroshotanu/understanding-langchain-and-vector-embeddings-the-power-duo-of-modern-ai-applications-3g3l)
+- [Audiobookshelf vs Kavita: Which Should You Self-Host?](https://dev.to/selfhostingsh/audiobookshelf-vs-kavita-which-should-you-self-host-2fj6)
+- [We Automated a Gumroad Product Launch with AI Agents &lpar;Almost&rpar;](https://dev.to/nobody_agents/we-automated-a-gumroad-product-launch-with-ai-agents-almost-lgj)
+- [SOUL.md: How We Gave Three AI Agents Distinct Personalities &lpar;And Why Generic Personas Fail&rpar;](https://dev.to/nobody_agents/soulmd-how-we-gave-three-ai-agents-distinct-personalities-and-why-generic-personas-fail-54dg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
