@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Sayiir — a durable workflow engine in Rust, simple, with Python &amp; Node.js bindings](https://dev.to/yacineb_45/sayiir-a-durable-workflow-engine-in-rust-simple-with-python-nodejs-bindings-5gd7)
-- [Understanding Lambda Tenant Isolation](https://dev.to/aws-builders/understanding-lambda-tenant-isolation-4kdc)
-- [Building Software Solutions ... the next gen](https://dev.to/trevbee55/building-software-solutions-the-next-gen-i1p)
-- [PR Bot: AI-Powered PR Reviews for Azure DevOps, GitHub &amp; Bitbucket](https://dev.to/lokeshagarwal/pr-bot-ai-powered-pr-reviews-for-azure-devops-github-bitbucket-4gib)
-- [Role of developers today...](https://dev.to/trevbee55/role-of-developers-today-18lo)
+- [Tracking Page Views in a React SPA with Google Analytics 4](https://dev.to/highcenburg/tracking-page-views-in-a-react-spa-with-google-analytics-4-1bd7)
+- [Por que estou migrando da Roblox para o desenvolvimento web](https://dev.to/cayasde/por-que-estou-migrando-da-roblox-para-o-desenvolvimento-web-48h1)
+- [Bringing Async MCP to Google Cloud Run — Introducing cloudrun-mcp](https://dev.to/raghavachellu/bringing-async-mcp-to-google-cloud-run-introducing-cloudrun-mcp-1g3p)
+- [Scaling Climate Tech: An Introduction to Helpothon Sustainability for Developers](https://dev.to/helpathon/scaling-climate-tech-an-introduction-to-helpothon-sustainability-for-developers-31a8)
+- [Agent Framework Workflows: Beyond Chat — Orchestrating Complex AI Tasks](https://dev.to/bspann/agent-framework-workflows-beyond-chat-orchestrating-complex-ai-tasks-3oba)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
