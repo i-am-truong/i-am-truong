@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Tracking Page Views in a React SPA with Google Analytics 4](https://dev.to/highcenburg/tracking-page-views-in-a-react-spa-with-google-analytics-4-1bd7)
-- [Por que estou migrando da Roblox para o desenvolvimento web](https://dev.to/cayasde/por-que-estou-migrando-da-roblox-para-o-desenvolvimento-web-48h1)
-- [Bringing Async MCP to Google Cloud Run — Introducing cloudrun-mcp](https://dev.to/raghavachellu/bringing-async-mcp-to-google-cloud-run-introducing-cloudrun-mcp-1g3p)
-- [Scaling Climate Tech: An Introduction to Helpothon Sustainability for Developers](https://dev.to/helpathon/scaling-climate-tech-an-introduction-to-helpothon-sustainability-for-developers-31a8)
-- [Agent Framework Workflows: Beyond Chat — Orchestrating Complex AI Tasks](https://dev.to/bspann/agent-framework-workflows-beyond-chat-orchestrating-complex-ai-tasks-3oba)
+- [LLM System Design Checklist: 7 Things I Wish Every AI Engineer Knew Before Building an AI App](https://dev.to/cloyouai/llm-system-design-checklist-7-things-i-wish-every-ai-engineer-knew-before-building-an-ai-app-21b5)
+- [Why Snapshot Testing Is the Secret Weapon for API Stability](https://dev.to/kreya/why-snapshot-testing-is-the-secret-weapon-for-api-stability-4797)
+- [What I Learned Developing a Custom Framework *with* Generative AI](https://dev.to/sugaiketadao/what-i-learned-developing-a-custom-framework-with-generative-ai-3npe)
+- [Face Avatar Generator — My Submission for the DEV x Google AI Studio Track](https://dev.to/lukeponga-dev/face-avatar-generator-my-submission-for-the-dev-x-google-ai-studio-track-k7i)
+- [DevOps Blind Spot: Linux and EC2 Boot Internals Explained](https://dev.to/srinivasamcjf/devops-blind-spot-linux-and-ec2-boot-internals-explained-10e5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
