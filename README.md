@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The European Accessibility Act Is the New GDPR — And You&#39;re Already Late](https://dev.to/petrilahdelma/the-european-accessibility-act-is-the-new-gdpr-and-youre-already-late-1i14)
-- [Fix: `xurl` OAuth 2.0 Fails with &quot;unauthorized_client&quot; on X API](https://dev.to/code_performance/fix-xurl-oauth-20-fails-with-unauthorizedclient-on-x-api-3n3g)
-- [My Tailwind style guide](https://dev.to/tom_franssen_b0b5a05dedeb/my-tailwind-style-guide-ldf)
-- [[SU] Shapes](https://dev.to/david_goyes_a488f58a17a53/su-shapes-2j6n)
-- [I Built a Tool to Convert Invoice PDFs into Excel - Here’s What Surprised Me](https://dev.to/chris_wakefieldchris_4/i-built-a-tool-to-convert-invoice-pdfs-into-excel-heres-what-surprised-me-134d)
+- [More sprites, GameManager and refactoring](https://dev.to/depoco/more-sprites-gamemanager-and-refactoring-2gmj)
+- [Meme Monday](https://dev.to/ben/meme-monday-k5h)
+- [OCI Networking Explained: Virtual Cloud Networks &lpar;VCN&rpar; Deep Dive](https://dev.to/hiltonj/oci-networking-explained-virtual-cloud-networks-vcn-deep-dive-4fha)
+- [Build Your First MCP Server for Claude Code in Python](https://dev.to/klement_gunndu/build-your-first-mcp-server-for-claude-code-in-python-2fji)
+- [Containerize and Run an e-commerce based application in AWS EKS cluster with all best practices &lpar;Part - 1&rpar;](https://dev.to/nandan_007/containerize-and-run-an-e-commerce-based-application-in-aws-eks-cluster-with-all-best-practices-l5o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
