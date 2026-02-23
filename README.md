@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Privacy LLM Inference Engine That Runs on $10 Hardware](https://dev.to/roylin/a-privacy-llm-inference-engine-that-runs-on-10-hardware-3i6h)
-- [Three Ways MCP Servers Handle Authentication &lpar;and Why Passive Scanning Misses One&rpar;](https://dev.to/kai_security_ai/three-ways-mcp-servers-handle-authentication-and-why-passive-scanning-misses-one-3chh)
-- [🚀 React Native: Fully Customizable Image Crop Picker &lpar;Android + iOS&rpar;](https://dev.to/amitkumar13/react-native-fully-customizable-image-crop-picker-android-ios-12h6)
-- [The GSOC Trojectory: From first line of code to the final commit](https://dev.to/owaspblt/the-gsoc-trojectory-from-first-line-of-code-to-the-final-commit-1gh9)
-- [Structured Output for AI Coding Agents: Why I Built Pare](https://dev.to/dave_london_d0728737f5d67/structured-output-for-ai-coding-agents-why-i-built-pare-2k5f)
+- [I Built an AI Services Storefront Powered by 15+ Models — Here is How](https://dev.to/pocket_linguist/i-built-an-ai-services-storefront-powered-by-15-models-here-is-how-24cj)
+- [The Science of Language Learning: What Research Actually Says](https://dev.to/pocket_linguist/the-science-of-language-learning-what-research-actually-says-1a93)
+- [How SendRec Compares to Loom, Zight, and Cap](https://dev.to/alexneamtu/how-sendrec-compares-to-loom-zight-and-cap-27kb)
+- [Shift as far left as you can... but you trust the shifter?](https://dev.to/cupofpython/shift-as-far-left-as-you-can-but-you-trust-the-shifter-2j47)
+- [Using a Headless CMS with Angular and Analog Content Loaders](https://dev.to/brandontroberts/using-a-headless-cms-with-angular-and-analog-content-loaders-21e7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
