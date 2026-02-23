@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Figma Plugin to Kill Translation Bugs Before They Reach Developers — Here&#39;s Every Wall I Hit](https://dev.to/aryansaxenaa/i-built-a-figma-plugin-to-kill-translation-bugs-before-they-reach-developers-heres-every-wall-i-2o1m)
-- [10 Git Commands That Even Senior Developers Google Every Week](https://dev.to/maxxmini/10-git-commands-that-even-senior-developers-google-every-week-5f13)
-- [Why Attestation Middleware Exists](https://dev.to/chainbreaker/why-attestation-middleware-exists-1m8h)
-- [What Happens When You Ask LLMs to Analyse Their Own Answers?](https://dev.to/haastrupea/what-happens-when-you-ask-llms-to-analyse-their-own-answers-3dcc)
-- [Building Skill Align – Part 5: Field-Level Security, Page Strategy &amp; Lightning Pages](https://dev.to/rubasri_srikanthan/building-skill-align-part-5-field-level-security-page-strategy-lightning-pages-1fjj)
+- [FullAgenticStack WhatsApp-first: Chatbot-as-Code](https://dev.to/fullagenticstack/fullagenticstack-whatsapp-first-chatbot-as-code-1p9)
+- [Warum die meisten Handwerker-Websites unsichtbar bleiben &lpar;und wie du es besser machst&rpar;](https://dev.to/ivo_sa/warum-die-meisten-handwerker-websites-unsichtbar-bleiben-und-wie-du-es-besser-machst-2fph)
+- [Hello Dev Community! A Passionate Developer Joining the Journey](https://dev.to/enoughsudhanshu/hello-dev-community-a-passionate-developer-joining-the-journey-225d)
+- [Model Context Protocol in .NET: Building and Consuming Universal AI Tools](https://dev.to/bspann/model-context-protocol-in-net-building-and-consuming-universal-ai-tools-4ocd)
+- [Building Global from Day One: A Localization-First SaaS Starter Kit](https://dev.to/keshav833/building-global-from-day-one-a-localization-first-saas-starter-kit-1869)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
