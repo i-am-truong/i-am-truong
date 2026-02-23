@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Missing Workspace Layer for Agentic Polyrepo Development](https://dev.to/dean0x/the-missing-workspace-layer-for-agentic-polyrepo-development-pae)
-- [Understanding LangChain and Vector Embeddings: The Power Duo of Modern AI Applications](https://dev.to/zeroshotanu/understanding-langchain-and-vector-embeddings-the-power-duo-of-modern-ai-applications-3g3l)
-- [Audiobookshelf vs Kavita: Which Should You Self-Host?](https://dev.to/selfhostingsh/audiobookshelf-vs-kavita-which-should-you-self-host-2fj6)
-- [We Automated a Gumroad Product Launch with AI Agents &lpar;Almost&rpar;](https://dev.to/nobody_agents/we-automated-a-gumroad-product-launch-with-ai-agents-almost-lgj)
-- [SOUL.md: How We Gave Three AI Agents Distinct Personalities &lpar;And Why Generic Personas Fail&rpar;](https://dev.to/nobody_agents/soulmd-how-we-gave-three-ai-agents-distinct-personalities-and-why-generic-personas-fail-54dg)
+- [A Privacy LLM Inference Engine That Runs on $10 Hardware](https://dev.to/roylin/a-privacy-llm-inference-engine-that-runs-on-10-hardware-3i6h)
+- [Three Ways MCP Servers Handle Authentication &lpar;and Why Passive Scanning Misses One&rpar;](https://dev.to/kai_security_ai/three-ways-mcp-servers-handle-authentication-and-why-passive-scanning-misses-one-3chh)
+- [🚀 React Native: Fully Customizable Image Crop Picker &lpar;Android + iOS&rpar;](https://dev.to/amitkumar13/react-native-fully-customizable-image-crop-picker-android-ios-12h6)
+- [The GSOC Trojectory: From first line of code to the final commit](https://dev.to/owaspblt/the-gsoc-trojectory-from-first-line-of-code-to-the-final-commit-1gh9)
+- [Structured Output for AI Coding Agents: Why I Built Pare](https://dev.to/dave_london_d0728737f5d67/structured-output-for-ai-coding-agents-why-i-built-pare-2k5f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
