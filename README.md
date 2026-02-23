@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Authentication in MCP: What 518 Production Servers Actually Do](https://dev.to/kai_security_ai/authentication-in-mcp-what-518-production-servers-actually-do-2a63)
-- [Running OpenClaw on NVIDIA Jetson Thor with Docker Model Runner: A Complete Guide](https://dev.to/ajeetraina/running-openclaw-on-nvidia-jetson-thor-with-docker-model-runner-a-complete-guide-5162)
-- [Why GitOps Doesn&#39;t Work at Scale &lpar;and What to Do Instead&rpar;](https://dev.to/jsbroks/why-gitops-doesnt-work-at-scale-and-what-to-do-instead-2p91)
-- [MLB Bat Tracking Dataset &lpar;2024-2025&rpar;](https://dev.to/yasumorishima/mlb-bat-tracking-dataset-2024-2025-34hc)
-- [How I Fixed the Hashnode GraphQL API Stale Cache Bug &lpar;Stellate CDN&rpar;](https://dev.to/highcenburg/how-i-fixed-the-hashnode-graphql-api-stale-cache-bug-stellate-cdn-koh)
+- [Artificial Intelligence Coding Is Shrinking Teams. Adapt Fast](https://dev.to/sashido/artificial-intelligence-coding-is-shrinking-teams-adapt-fast-m8g)
+- [2026 is the New 2016 and Honestly? I Kind of Get It.](https://dev.to/vasughanta09/2026-is-the-new-2016-and-honestly-i-kind-of-get-it-57bg)
+- [The Secret Life of Go: Worker Pools](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-worker-pools-n1d)
+- [Tight Coupling &lpar;Request-Response&rpar; vs. Loose Coupling &lpar;Event-Driven&rpar;.](https://dev.to/glax3max/tight-coupling-request-response-vs-loose-coupling-event-driven-5cpa)
+- [Why Fat Models Hurt Laravel Projects More Than You Think](https://dev.to/laracopilot/why-fat-models-hurt-laravel-projects-more-than-you-think-mk8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
