@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Created a GitHub Reusable Workflows Repository for Personal Use](https://dev.to/masutaka/created-a-github-reusable-workflows-repository-for-personal-use-28mo)
-- [Ten years late to the dbt party &lpar;DuckDB edition&rpar;](https://dev.to/rmoff/ten-years-late-to-the-dbt-party-duckdb-edition-2cg)
-- [The Comprehensive Guide to OTel Collector Contrib](https://dev.to/ankit01oss/the-comprehensive-guide-to-otel-collector-contrib-5cp2)
-- [Git Worktrees for AI Coding: Run Multiple Agents in Parallel](https://dev.to/mashrulhaque/git-worktrees-for-ai-coding-run-multiple-agents-in-parallel-3pgb)
-- [GitHub热门项目: visual-explainer](https://dev.to/liu5580a/githubre-men-xiang-mu-visual-explainer-53j2)
+- [Cross-boundary communication between desktop and web](https://dev.to/eelcolos/cross-boundary-communication-between-desktop-and-web-575n)
+- [Risk-Adaptive Friction: Designing Human-Aware Security Controls in CI/CD](https://dev.to/ktamarapalli/risk-adaptive-friction-designing-human-aware-security-controls-in-cicd-2m19)
+- [Problem 15: Longest Common Prefix](https://dev.to/highcenburg/problem-15-longest-common-prefix-1bhm)
+- [Top 10 MCP Servers Every Developer Should Know in 2026](https://dev.to/rupa_tiwari_dd308948d710f/top-10-mcp-servers-every-developer-should-know-in-2026-264f)
+- [LIVO Next-Level Flutter State Management](https://dev.to/pravin_kunnure_f4663a859a/livo-next-level-flutter-state-management-2mk2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
