@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built an AI Services Storefront Powered by 15+ Models — Here is How](https://dev.to/pocket_linguist/i-built-an-ai-services-storefront-powered-by-15-models-here-is-how-24cj)
-- [The Science of Language Learning: What Research Actually Says](https://dev.to/pocket_linguist/the-science-of-language-learning-what-research-actually-says-1a93)
-- [How SendRec Compares to Loom, Zight, and Cap](https://dev.to/alexneamtu/how-sendrec-compares-to-loom-zight-and-cap-27kb)
-- [Shift as far left as you can... but you trust the shifter?](https://dev.to/cupofpython/shift-as-far-left-as-you-can-but-you-trust-the-shifter-2j47)
-- [Using a Headless CMS with Angular and Analog Content Loaders](https://dev.to/brandontroberts/using-a-headless-cms-with-angular-and-analog-content-loaders-21e7)
+- [Everybody Knows That Drizzle is the Word!](https://dev.to/rubenoalvarado/everybody-knows-that-drizzle-is-the-word-5f75)
+- [ayat saadati — Complete Guide](https://dev.to/sahand1987/ayat-saadati-complete-guide-e1h)
+- [Building a NinjaTrader 8 Indicator: What Actually Went Wrong](https://dev.to/alexandrustefan_90/building-a-ninjatrader-8-indicator-what-actually-went-wrong-1lh1)
+- [Customer Lifetime Value &lpar;CLV&rpar; Prediction with Machine Learning](https://dev.to/maureenmuthonihue/customer-lifetime-value-clv-prediction-with-machine-learning-4545)
+- [Voice AI Integration: From Silent Pixels to Conversational UI with Whisper](https://dev.to/programmingcentral/voice-ai-integration-from-silent-pixels-to-conversational-ui-with-whisper-3ii8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
