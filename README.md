@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cross-boundary communication between desktop and web](https://dev.to/eelcolos/cross-boundary-communication-between-desktop-and-web-575n)
-- [Risk-Adaptive Friction: Designing Human-Aware Security Controls in CI/CD](https://dev.to/ktamarapalli/risk-adaptive-friction-designing-human-aware-security-controls-in-cicd-2m19)
-- [Problem 15: Longest Common Prefix](https://dev.to/highcenburg/problem-15-longest-common-prefix-1bhm)
-- [Top 10 MCP Servers Every Developer Should Know in 2026](https://dev.to/rupa_tiwari_dd308948d710f/top-10-mcp-servers-every-developer-should-know-in-2026-264f)
-- [LIVO Next-Level Flutter State Management](https://dev.to/pravin_kunnure_f4663a859a/livo-next-level-flutter-state-management-2mk2)
+- [Re-thinking DevOps practices to handle accelerating dev throughput](https://dev.to/nanojoel/re-thinking-devops-practices-to-handle-accelerating-dev-throughput-4c29)
+- [How I Use AI Tools in My Daily Workflow &lpar;And Where I Do Not&rpar;](https://dev.to/alexcloudstar/how-i-use-ai-tools-in-my-daily-workflow-and-where-i-do-not-5f6i)
+- [𝐍𝐞𝐭𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐁𝐚𝐬𝐢𝐜𝐬 𝐟𝐨𝐫 𝐃𝐞𝐯𝐎𝐩𝐬 &lpar;𝐓𝐂𝐏/𝐈𝐏, 𝐃𝐍𝐒, 𝐇𝐓𝐓𝐏&rpar;](https://dev.to/pallavivemula/--5bl)
+- [Modernización sin fricción: AWS Transform y el futuro del rehosting inteligente. &lpar;Parte 1&rpar;](https://dev.to/oscar_gaviria_2b862594738/modernizacion-sin-friccion-aws-transform-y-el-futuro-del-rehosting-inteligente-parte-1-3058)
+- [ChatApp V2: The Next Generation of Chatting](https://dev.to/alexcloudstar/chatapp-v2-the-next-generation-of-chatting-38g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
