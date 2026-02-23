@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Documentation doesn&#39;t scale. Here&#39;s what we learned from organizations that made it work.](https://dev.to/lorina_b/documentation-doesnt-scale-heres-what-we-learned-from-organizations-that-made-it-work-2l3g)
-- [15 Cool AI-Based Mobile App Project Ideas for 2026](https://dev.to/hassan_raza_seo/15-cool-ai-based-mobile-app-project-ideas-for-2026-4l70)
-- [Best Type-Safe UI Component Libraries for React in 2026](https://dev.to/ninarao/best-type-safe-ui-component-libraries-for-react-in-2026-f22)
-- [Boost Your Productivity: M365 Copilot Makes Language Barriers Disappear](https://dev.to/balagmadhu/boost-your-productivity-m365-copilot-makes-language-barriers-disappear-213o)
-- [5 DIY Python Decorators for Building Cleaner Data Pipelines](https://dev.to/balapriya/5-diy-python-decorators-for-building-cleaner-data-pipelines-1f24)
+- [AWS CloudWatch vs Azure Monitor: Features, Costs, and Best Fit](https://dev.to/signoz/aws-cloudwatch-vs-azure-monitor-features-costs-and-best-fit-28nf)
+- [What Happened When I Stopped Delegating and Started Prompting](https://dev.to/nandishdave/what-happened-when-i-stopped-delegating-and-started-prompting-18ml)
+- [How to Auto-Export Glasp Highlights with n8n](https://dev.to/glasp/how-to-auto-export-glasp-highlights-with-n8n-24ll)
+- [CloudWatch Pricing Without the Confusion [Part 1]](https://dev.to/signoz/cloudwatch-pricing-without-the-confusion-part-1-3n1d)
+- [The Ultimate Guide to API Documentation Tools for 2026](https://dev.to/therealmrmumba/the-ultimate-guide-to-api-documentation-tools-for-2026-2f7m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
