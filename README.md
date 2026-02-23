@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Everybody Knows That Drizzle is the Word!](https://dev.to/rubenoalvarado/everybody-knows-that-drizzle-is-the-word-5f75)
-- [ayat saadati — Complete Guide](https://dev.to/sahand1987/ayat-saadati-complete-guide-e1h)
-- [Building a NinjaTrader 8 Indicator: What Actually Went Wrong](https://dev.to/alexandrustefan_90/building-a-ninjatrader-8-indicator-what-actually-went-wrong-1lh1)
-- [Customer Lifetime Value &lpar;CLV&rpar; Prediction with Machine Learning](https://dev.to/maureenmuthonihue/customer-lifetime-value-clv-prediction-with-machine-learning-4545)
-- [Voice AI Integration: From Silent Pixels to Conversational UI with Whisper](https://dev.to/programmingcentral/voice-ai-integration-from-silent-pixels-to-conversational-ui-with-whisper-3ii8)
+- [Why we chose Astro over SvelteKit for our hosting comparison platform](https://dev.to/hostingsift/why-we-chose-astro-over-sveltekit-for-our-hosting-comparison-platform-3cc6)
+- [Visual Studio Weekly: Copilot Memories, AI-Powered Testing, and Custom Agents](https://dev.to/htekdev/visual-studio-weekly-copilot-memories-ai-powered-testing-and-custom-agents-3am5)
+- [The Complete Guide to GitHub Copilot in Visual Studio: Every Feature, Every Shortcut, Every Pattern](https://dev.to/htekdev/the-complete-guide-to-github-copilot-in-visual-studio-every-feature-every-shortcut-every-pattern-2b97)
+- [Tests Are Everything in Agentic AI: Building DevOps Guardrails for AI-Powered Development](https://dev.to/htekdev/tests-are-everything-in-agentic-ai-building-devops-guardrails-for-ai-powered-development-2onl)
+- [Building a Shopify App was the easy part. Finding the first testers is incredibly hard.](https://dev.to/noelmarketing/building-a-shopify-app-was-the-easy-part-finding-the-first-testers-is-incredibly-hard-5flo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
