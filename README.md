@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [More sprites, GameManager and refactoring](https://dev.to/depoco/more-sprites-gamemanager-and-refactoring-2gmj)
-- [Meme Monday](https://dev.to/ben/meme-monday-k5h)
-- [OCI Networking Explained: Virtual Cloud Networks &lpar;VCN&rpar; Deep Dive](https://dev.to/hiltonj/oci-networking-explained-virtual-cloud-networks-vcn-deep-dive-4fha)
-- [Build Your First MCP Server for Claude Code in Python](https://dev.to/klement_gunndu/build-your-first-mcp-server-for-claude-code-in-python-2fji)
-- [Containerize and Run an e-commerce based application in AWS EKS cluster with all best practices &lpar;Part - 1&rpar;](https://dev.to/nandan_007/containerize-and-run-an-e-commerce-based-application-in-aws-eks-cluster-with-all-best-practices-l5o)
+- [I Built a Figma Plugin to Kill Translation Bugs Before They Reach Developers — Here&#39;s Every Wall I Hit](https://dev.to/aryansaxenaa/i-built-a-figma-plugin-to-kill-translation-bugs-before-they-reach-developers-heres-every-wall-i-2o1m)
+- [10 Git Commands That Even Senior Developers Google Every Week](https://dev.to/maxxmini/10-git-commands-that-even-senior-developers-google-every-week-5f13)
+- [Why Attestation Middleware Exists](https://dev.to/chainbreaker/why-attestation-middleware-exists-1m8h)
+- [What Happens When You Ask LLMs to Analyse Their Own Answers?](https://dev.to/haastrupea/what-happens-when-you-ask-llms-to-analyse-their-own-answers-3dcc)
+- [Building Skill Align – Part 5: Field-Level Security, Page Strategy &amp; Lightning Pages](https://dev.to/rubasri_srikanthan/building-skill-align-part-5-field-level-security-page-strategy-lightning-pages-1fjj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
