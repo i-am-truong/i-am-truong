@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [FullAgenticStack WhatsApp-first: Chatbot-as-Code](https://dev.to/fullagenticstack/fullagenticstack-whatsapp-first-chatbot-as-code-1p9)
-- [Warum die meisten Handwerker-Websites unsichtbar bleiben &lpar;und wie du es besser machst&rpar;](https://dev.to/ivo_sa/warum-die-meisten-handwerker-websites-unsichtbar-bleiben-und-wie-du-es-besser-machst-2fph)
-- [Hello Dev Community! A Passionate Developer Joining the Journey](https://dev.to/enoughsudhanshu/hello-dev-community-a-passionate-developer-joining-the-journey-225d)
-- [Model Context Protocol in .NET: Building and Consuming Universal AI Tools](https://dev.to/bspann/model-context-protocol-in-net-building-and-consuming-universal-ai-tools-4ocd)
-- [Building Global from Day One: A Localization-First SaaS Starter Kit](https://dev.to/keshav833/building-global-from-day-one-a-localization-first-saas-starter-kit-1869)
+- [Mastering Fixed Sliding Window in C++ &lpar;LeetCode 1876&rpar;](https://dev.to/nithya_dharshiniofficial/mastering-fixed-sliding-window-in-c-leetcode-1876-1emc)
+- [I made a Magnifier Toggle — A Simple Zoom‑Lens Browser Extension](https://dev.to/codebunny20/i-made-a-magnifier-toggle-a-simple-zoom-lens-browser-extension-3lp6)
+- [7 Productivity Hacks That 10x Your Developer Output &lpar;With Real Examples&rpar;](https://dev.to/maxxmini/7-productivity-hacks-that-10x-your-developer-output-with-real-examples-1ng7)
+- [What Problems Does Future Solve in Concurrent Java Programming?](https://dev.to/realnamehidden1_61/what-problems-does-future-solve-in-concurrent-java-programming-eag)
+- [Building an MCP Server for Linux Desktop GUI Automation on Wayland](https://dev.to/bhyoo/building-an-mcp-server-for-linux-desktop-gui-automation-on-wayland-30b2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
