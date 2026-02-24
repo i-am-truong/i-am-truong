@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Analysts translate Messy Data, DAX and Dashboards into Action using Power BI](https://dev.to/victor_ds/how-analysts-translate-messy-data-dax-and-dashboards-into-action-using-power-bi-5gl0)
-- [How to configure ACP agents in Zed](https://dev.to/hallancosta/how-to-configure-acp-agents-in-zed-521e)
-- [How to Set Up Claude Code with Multiple AI Models](https://dev.to/hallancosta/how-to-set-up-claude-code-with-multiple-ai-models-4k6j)
-- [How to configure Claude CLI ACP for other compatible models, such as MiniMax M2.5](https://dev.to/hallancosta/how-to-configure-claude-cli-acp-for-other-compatible-models-such-as-minimax-m25-3j4n)
-- [From Bag of Words to Lexicons: A Simple Journey Through NLP Basics](https://dev.to/ramkashyap2050/from-bag-of-words-to-lexicons-a-simple-journey-through-nlp-basics-29k0)
+- [Why Most Teams Shouldn&#39;t Build a Chat System](https://dev.to/adamthedeveloper/why-most-teams-shouldnt-build-a-chat-system-8ci)
+- [What a “Development Session Proof” Workflow Looks Like with SessionAttested](https://dev.to/shizuku198411/what-a-development-session-proof-workflow-looks-like-with-sessionattested-512b)
+- [Second-Order Thinking: The Skill Most People Never Learn](https://dev.to/_b8d89ece3338719863cb03/second-order-thinking-the-skill-most-people-never-learn-p6p)
+- [Master Azure Container Instances &lpar;ACI&rpar; and Restart Policies](https://dev.to/pilgrim2go/master-azure-container-instances-aci-and-restart-policies-5ga0)
+- [A safe way to let coding agents interact with your database &lpar;without prod write access&rpar;](https://dev.to/getpochi/a-safe-way-to-let-coding-agents-interact-with-your-database-without-prod-write-access-49jm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
