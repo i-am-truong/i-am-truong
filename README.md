@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Dispatch From the Other Side: Designing for Leverage](https://dev.to/prince_of_pasta/dispatch-from-the-other-side-designing-for-leverage-4c62)
-- [Why Kiro Looks Unassuming: Organizing Design Philosophy Differences in the Age of Claude Code and Cursor](https://dev.to/aws-builders/why-kiro-looks-unassuming-organizing-design-philosophy-differences-in-the-age-of-claude-code-and-1dp9)
-- [What Static Scanning Misses: 211 Real Requests to a Live MCP Server](https://dev.to/kai_security_ai/what-static-scanning-misses-211-real-requests-to-a-live-mcp-server-33a5)
-- [From Automation to Intelligence: How AI Transforms SRE at Enterprise Scale](https://dev.to/venu_hulmane/from-automation-to-intelligence-how-ai-transforms-sre-at-enterprise-scale-2aod)
-- [Are we Surreal yet?](https://dev.to/itsezc/are-we-surreal-yet-1el9)
+- [How Analysts translate Messy Data, DAX and Dashboards into Action using Power BI](https://dev.to/victor_ds/how-analysts-translate-messy-data-dax-and-dashboards-into-action-using-power-bi-5gl0)
+- [How to configure ACP agents in Zed](https://dev.to/hallancosta/how-to-configure-acp-agents-in-zed-521e)
+- [How to Set Up Claude Code with Multiple AI Models](https://dev.to/hallancosta/how-to-set-up-claude-code-with-multiple-ai-models-4k6j)
+- [How to configure Claude CLI ACP for other compatible models, such as MiniMax M2.5](https://dev.to/hallancosta/how-to-configure-claude-cli-acp-for-other-compatible-models-such-as-minimax-m25-3j4n)
+- [From Bag of Words to Lexicons: A Simple Journey Through NLP Basics](https://dev.to/ramkashyap2050/from-bag-of-words-to-lexicons-a-simple-journey-through-nlp-basics-29k0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
