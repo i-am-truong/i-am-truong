@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How We Fixed Firefox&#39;s localStorage Race in Playwright: Two Navigation Helpers](https://dev.to/papredapp/how-we-fixed-firefoxs-localstorage-race-in-playwright-two-navigation-helpers-bbi)
-- [Why Your Cloud Security is Probably &quot;Security by Hope&quot; &lpar;And How to Fix It&rpar;](https://dev.to/rajesh_nadiminti_298759b7/why-your-cloud-security-is-probably-security-by-hope-and-how-to-fix-it-4dj9)
-- [Think of AI-assisted coding as calculators in math classes. You can&#39;t use them until you know the procedure you want to automate by hand.](https://dev.to/canro91/think-of-ai-assisted-coding-as-calculators-in-math-classes-you-cant-use-them-until-you-know-the-2dlh)
-- [Understanding Gitaly and Kernel Memory Consumption in Kubernetes on Self-Hosted GitLab](https://dev.to/camilacodes/understanding-gitaly-and-kernel-memory-consumption-in-kubernetes-on-self-hosted-gitlab-2je3)
-- [Data Modeling Best Practices: 7 Mistakes to Avoid](https://dev.to/alexmercedcoder/data-modeling-best-practices-7-mistakes-to-avoid-38fj)
+- [Someone Cloned an Oura Ring MCP Server and Poisoned the Supply Chain. We Can Fix This.](https://dev.to/phil_stafford/someone-cloned-an-oura-ring-mcp-server-and-poisoned-the-supply-chain-we-can-fix-this-2fcc)
+- [🧠 My 2026 Shopify Stack — I Don’t Build Apps, I Build Business Solutions](https://dev.to/uribejr/my-2026-shopify-stack-i-dont-build-apps-i-build-business-solutions-m4p)
+- [What Is a Semantic Layer? A Complete Guide](https://dev.to/alexmercedcoder/what-is-a-semantic-layer-a-complete-guide-2l87)
+- [How We Detect AI Agent Drift &lpar;Before Your Users Do&rpar;](https://dev.to/7hakurg/how-we-detect-ai-agent-drift-before-your-users-do-2jm3)
+- [Getting Started with brandspec: Define Your Brand in One YAML File](https://dev.to/numtet/getting-started-with-brandspec-define-your-brand-in-one-yaml-file-2lgc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
