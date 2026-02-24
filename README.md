@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [When Your AI Deletes the Database: Why Testing LLM Applications Requires a Different Playbook](https://dev.to/javi_vendrell_m/when-your-ai-deletes-the-database-why-testing-llm-applications-requires-a-different-playbook-3kdb)
-- [How I Built a Telegram Bot for Real-Time Crypto Alerts &lpar;And You Can Too&rpar;](https://dev.to/mfs_corp/how-i-built-a-telegram-bot-for-real-time-crypto-alerts-and-you-can-too-26io)
-- [Optimization Without Philosophy Is Just Refactoring](https://dev.to/paul_desai_ff9e1e7b5605ef/optimization-without-philosophy-is-just-refactoring-117d)
-- [Predicting Industrial Heartbeats: Building a RAG Pipeline for Mechanical RUL with Elastic](https://dev.to/joyboy_07/predicting-industrial-heartbeats-building-a-rag-pipeline-for-mechanical-rul-with-elastic-bbk)
-- [OpenClaw: The AI Agent That Actually Does Stuff - Part 1](https://dev.to/shresthapandey/openclaw-the-ai-agent-that-actually-does-stuff-part-1-51n4)
+- [Best Freelance Pricing Tools in 2025 &lpar;Budget Calculators &amp; Negotiation Software&rpar;](https://dev.to/fairpricework/best-freelance-pricing-tools-in-2025-budget-calculators-negotiation-software-23k0)
+- [Containerize and Run an e-commerce based application in AWS EKS cluster using Terraform with all best practices](https://dev.to/nandan_007/containerize-and-run-an-e-commerce-based-application-in-aws-eks-cluster-using-terraform-with-all-1oei)
+- [JuiceToast v1.3.4 Release](https://dev.to/music_khairy_5d86a69a3af9/juicetoast-v134-release-5b75)
+- [The Quest for Ultra-Reliable E2E UI Tests: Making API Contracts First-Class in Page Objects](https://dev.to/serhiy1/the-quest-for-ultra-reliable-e2e-ui-tests-making-api-contracts-first-class-in-page-objects-581k)
+- [JuicToast v1.3.3 Release](https://dev.to/music_khairy_5d86a69a3af9/juictoast-v133-release-58ne)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
