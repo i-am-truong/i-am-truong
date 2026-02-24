@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Copilot Skills: Reusable AI Workflows for DevOps and SREs](https://dev.to/pwd9000/github-copilot-skills-reusable-ai-workflows-for-devops-and-sres-caf)
-- [I make a simple desktop app with Python](https://dev.to/victorchendraa/heres-how-i-make-a-simple-desktop-app-with-python-tkinter-customtkinter-4431)
-- [13 Angular Concepts You Must Master Before Your Next Interview &lpar;2026 Edition&rpar;](https://dev.to/cristiansifuentes/13-angular-concepts-you-must-master-before-your-next-interview-2026-edition-5b74)
-- [Stop writing API test scripts. Use plain English instead.](https://dev.to/mbadyl/stop-writing-api-test-scripts-use-plain-english-instead-532d)
-- [Detect User Inactivity System-Wide on Android with AccessibilityService](https://dev.to/lepresk/detect-user-inactivity-system-wide-on-android-with-accessibilityservice-3aed)
+- [Assertions vs pre and post scripts](https://dev.to/nikolas_dimitroulakis_d23/assertions-vs-pre-and-post-scripts-5b6m)
+- [I Asked 4 AIs to Judge Each Other&#39;s Code](https://dev.to/yurukusa/i-asked-4-ais-to-judge-each-others-code-5c2a)
+- [Angular Signals Explained Like a Senior Developer &lpar;Angular 21 Perspective&rpar;](https://dev.to/cristiansifuentes/angular-signals-explained-like-a-senior-developer-angular-21-perspective-2c0p)
+- [🚀 WebDevDaily Challenges – Leveling Up with Real Frontend Projects](https://dev.to/kyl67899/webdevdaily-challenges-leveling-up-with-real-frontend-projects-487m)
+- [SUBNETTING EXPLAINED](https://dev.to/manoj_kumarvemula_31e045/subnetting-explained-5hl9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
