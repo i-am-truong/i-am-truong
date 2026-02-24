@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Someone Cloned an Oura Ring MCP Server and Poisoned the Supply Chain. We Can Fix This.](https://dev.to/phil_stafford/someone-cloned-an-oura-ring-mcp-server-and-poisoned-the-supply-chain-we-can-fix-this-2fcc)
-- [🧠 My 2026 Shopify Stack — I Don’t Build Apps, I Build Business Solutions](https://dev.to/uribejr/my-2026-shopify-stack-i-dont-build-apps-i-build-business-solutions-m4p)
-- [What Is a Semantic Layer? A Complete Guide](https://dev.to/alexmercedcoder/what-is-a-semantic-layer-a-complete-guide-2l87)
-- [How We Detect AI Agent Drift &lpar;Before Your Users Do&rpar;](https://dev.to/7hakurg/how-we-detect-ai-agent-drift-before-your-users-do-2jm3)
-- [Getting Started with brandspec: Define Your Brand in One YAML File](https://dev.to/numtet/getting-started-with-brandspec-define-your-brand-in-one-yaml-file-2lgc)
+- [Building an AI Travel Budgeting Tool After Planning a Japan Trip](https://dev.to/sebastian_alexis_187cf2a4/building-an-ai-travel-budgeting-tool-after-planning-a-japan-trip-2jjl)
+- [Build a Private Skills Registry for OpenClaw](https://dev.to/chwu1946/build-a-private-skills-registry-for-openclaw-2cm5)
+- [Resisting the Eye of the Machine: A Reflection on AI and Data Ownership](https://dev.to/calganaygun/resisting-the-eye-of-the-machine-a-reflection-on-ai-and-data-ownership-510m)
+- [Monitoring an ML Pipeline in Production: Anatomy of an Open-Source Stack](https://dev.to/erythix_6d20050c4f1039b32/monitoring-an-ml-pipeline-in-production-anatomy-of-an-open-source-stack-55ik)
+- [Building a Load Balancer from Scratch on a $20 VPS](https://dev.to/abustamam/building-a-load-balancer-from-scratch-on-a-20-vps-4fjb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
