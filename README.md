@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Extension Methods in C#](https://dev.to/allcoderthings/extension-methods-in-c-4je7)
-- [The No-Code Credit Trap: How AI Builders Are Quietly Draining Your Budget](https://dev.to/pawel_reszka/the-no-code-credit-trap-how-ai-builders-are-quietly-draining-your-budget-20p4)
-- [Javascript Question of the Day #21 [Talk::Overflow]](https://dev.to/valpetaltechlabs/javascript-question-of-the-day-21-talkoverflow-bc4)
-- [What is an Interpretable LLM and Why It Matters?](https://dev.to/elara1/what-is-an-interpretable-llm-and-why-it-matters-mfk)
-- [Markdown pages, are they a good solution?](https://dev.to/xwero/markdown-pages-are-they-a-good-solution-154a)
+- [Template de testes de API com K6](https://dev.to/marcos_vile/template-de-testes-de-api-com-k6-2k3d)
+- [Building Reusable Game Frameworks: How We Ship Games 50% Faster](https://dev.to/oceanviewgames/building-reusable-game-frameworks-how-we-ship-games-50-faster-2ieb)
+- [Procedural Generation on Mobile: Balancing Complexity and Performance](https://dev.to/oceanviewgames/procedural-generation-on-mobile-balancing-complexity-and-performance-11d8)
+- [The Increasing Need for Human Connection in the Age of AI](https://dev.to/javz/the-increasing-need-for-human-connection-in-the-age-of-ai-43cd)
+- [Tiny Diffusion](https://dev.to/unica_2804/tiny-diffusion-5g8k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
