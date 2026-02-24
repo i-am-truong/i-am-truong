@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Best Freelance Pricing Tools in 2025 &lpar;Budget Calculators &amp; Negotiation Software&rpar;](https://dev.to/fairpricework/best-freelance-pricing-tools-in-2025-budget-calculators-negotiation-software-23k0)
-- [Containerize and Run an e-commerce based application in AWS EKS cluster using Terraform with all best practices](https://dev.to/nandan_007/containerize-and-run-an-e-commerce-based-application-in-aws-eks-cluster-using-terraform-with-all-1oei)
-- [JuiceToast v1.3.4 Release](https://dev.to/music_khairy_5d86a69a3af9/juicetoast-v134-release-5b75)
-- [The Quest for Ultra-Reliable E2E UI Tests: Making API Contracts First-Class in Page Objects](https://dev.to/serhiy1/the-quest-for-ultra-reliable-e2e-ui-tests-making-api-contracts-first-class-in-page-objects-581k)
-- [JuicToast v1.3.3 Release](https://dev.to/music_khairy_5d86a69a3af9/juictoast-v133-release-58ne)
+- [Extension Methods in C#](https://dev.to/allcoderthings/extension-methods-in-c-4je7)
+- [The No-Code Credit Trap: How AI Builders Are Quietly Draining Your Budget](https://dev.to/pawel_reszka/the-no-code-credit-trap-how-ai-builders-are-quietly-draining-your-budget-20p4)
+- [Javascript Question of the Day #21 [Talk::Overflow]](https://dev.to/valpetaltechlabs/javascript-question-of-the-day-21-talkoverflow-bc4)
+- [What is an Interpretable LLM and Why It Matters?](https://dev.to/elara1/what-is-an-interpretable-llm-and-why-it-matters-mfk)
+- [Markdown pages, are they a good solution?](https://dev.to/xwero/markdown-pages-are-they-a-good-solution-154a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
