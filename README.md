@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Bring Bitcoin to your app now in minutes](https://dev.to/akashneelesh/bring-bitcoin-to-your-app-now-in-minutes-39oe)
-- [Code generation for algorithms in Java](https://dev.to/pvsdev/code-generation-for-algorithms-in-java-34j)
-- [I Built a Godot MCP Server Because Existing Ones Couldn&#39;t Let AI Test My Game](https://dev.to/y1uda/i-built-a-godot-mcp-server-because-existing-ones-couldnt-let-ai-test-my-game-47dl)
-- [Master NGINX Configuration: From Basics to Advanced Security 2024](https://dev.to/opssquad_ai/master-nginx-configuration-from-basics-to-advanced-security-2024-4m0e)
-- [Configure NGINX: Master Web Serving &amp; Proxying](https://dev.to/opssquad_ai/configure-nginx-master-web-serving-proxying-47eh)
+- [Stop Using .any? the Wrong Way in Rails](https://dev.to/pavelmyslik/stop-using-any-the-wrong-way-in-rails-429e)
+- [Undefined vs Not Defined](https://dev.to/ananya_mohanta_b44a988e76/undefined-and-not-defined-1fp5)
+- [Spring CRUD Generator v1.3.0 Released 🚀](https://dev.to/mzivkovicdev/spring-crud-generator-v130-released-160l)
+- [Prompt Regression Tests: Stop Your AI Workflow From Breaking](https://dev.to/novaelvaris/prompt-regression-tests-stop-your-ai-workflow-from-breaking-9a)
+- [The &#39;Instruction Hierarchy&#39; is Dead: Why Your Agent&#39;s Skills Are a Supply Chain Nightmare](https://dev.to/an0nymus/the-instruction-hierarchy-is-dead-why-your-agents-skills-are-a-supply-chain-nightmare-4ffn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
