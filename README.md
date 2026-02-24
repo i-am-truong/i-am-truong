@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Assertions vs pre and post scripts](https://dev.to/nikolas_dimitroulakis_d23/assertions-vs-pre-and-post-scripts-5b6m)
-- [I Asked 4 AIs to Judge Each Other&#39;s Code](https://dev.to/yurukusa/i-asked-4-ais-to-judge-each-others-code-5c2a)
-- [Angular Signals Explained Like a Senior Developer &lpar;Angular 21 Perspective&rpar;](https://dev.to/cristiansifuentes/angular-signals-explained-like-a-senior-developer-angular-21-perspective-2c0p)
-- [🚀 WebDevDaily Challenges – Leveling Up with Real Frontend Projects](https://dev.to/kyl67899/webdevdaily-challenges-leveling-up-with-real-frontend-projects-487m)
-- [SUBNETTING EXPLAINED](https://dev.to/manoj_kumarvemula_31e045/subnetting-explained-5hl9)
+- [I Built a Compiler with AI Engineering Over a Weekend. These are 3 Core Strategies for Scalable AI Development](https://dev.to/yaser/i-built-a-compiler-with-ai-engineering-over-a-weekend-these-are-3-core-strategies-for-scalable-ai-5k7)
+- [EXP-032B: From Fail-Closed Blocking to Reproducible PASS/BLOCK Separation](https://dev.to/flamehaven01/exp-032b-from-fail-closed-blocking-to-reproducible-passblock-separation-3ldg)
+- [Build a 6-DOF Arduino Robotic Arm with Web Control](https://dev.to/david_thomas/build-a-6-dof-arduino-robotic-arm-with-web-control-1g1j)
+- [I Spent Two Minutes Testing Amazon’s API. It Was Enough.](https://dev.to/liudasjan/i-spent-two-minutes-testing-amazons-api-it-was-enough-2m1b)
+- [From Multilingual Syntax to Multilingual Runtimes: Taking a Human-Language-First Language to the Web](https://dev.to/jsamwrites/from-multilingual-syntax-to-multilingual-runtimes-taking-a-human-language-first-language-to-the-web-11kk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
