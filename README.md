@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Multi-Engine AI Content Detector — Here&#39;s What I Learned About Detection Accuracy](https://dev.to/omnidetect/i-built-a-multi-engine-ai-content-detector-heres-what-i-learned-about-detection-accuracy-47o7)
-- [I Built a Privacy-First Image Compressor That Runs 100% in Your Browser](https://dev.to/isuatfurkan/i-built-a-privacy-first-image-compressor-that-runs-100-in-your-browser-2apm)
-- [30 CVEs Later: How MCP&#39;s Attack Surface Expanded Into Three Distinct Layers](https://dev.to/kai_security_ai/30-cves-later-how-mcps-attack-surface-expanded-into-three-distinct-layers-ihp)
-- [I Launched. Users Showed Up. And Then I Watched Them Get Lost.](https://dev.to/homeless-coder/i-launched-users-showed-up-and-then-i-watched-them-get-lost-2d19)
-- [run.sh Diaries #3: My Terminal Stack – tmux, zoxide, and lazygit](https://dev.to/lazydoomslayer/runsh-diaries-3-my-terminal-stack-tmux-zoxide-and-lazygit-4hmm)
+- [COUNT&lpar;column&rpar; vs COUNT&lpar;*&rpar; in SQL — With INNER, LEFT, RIGHT &amp; FULL JOIN Explained](https://dev.to/deko39/countcolumn-vs-count-in-sql-with-inner-left-right-full-join-explained-1a1f)
+- [I’m trying to understand how AI tools &lpar;Copilot, ChatGPT, CodeRabbit, etc.&rpar; are changing code review.](https://dev.to/neha_singh_9e16fd832703e4/im-trying-to-understand-how-ai-tools-copilot-chatgpt-coderabbit-etc-are-changing-code-review-55f3)
+- [🎉 New Plugin: DevTools for Zustand in Rozenite &lpar;React-Native&rpar;](https://dev.to/irontony/new-plugin-devtools-for-zustand-in-rozenite-react-native-2d79)
+- [Elevate Your Terminal: From Oh My Zsh to Starship in 2026](https://dev.to/trung_hoang_52851df1766f0/elevate-your-terminal-from-oh-my-zsh-to-starship-in-2026-3e58)
+- [Building a File Sharing App with Puter.js](https://dev.to/reynaldi/building-a-file-sharing-app-with-puterjs-2i37)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
