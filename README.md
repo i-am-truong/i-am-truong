@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Most Teams Shouldn&#39;t Build a Chat System](https://dev.to/adamthedeveloper/why-most-teams-shouldnt-build-a-chat-system-8ci)
-- [What a “Development Session Proof” Workflow Looks Like with SessionAttested](https://dev.to/shizuku198411/what-a-development-session-proof-workflow-looks-like-with-sessionattested-512b)
-- [Second-Order Thinking: The Skill Most People Never Learn](https://dev.to/_b8d89ece3338719863cb03/second-order-thinking-the-skill-most-people-never-learn-p6p)
-- [Master Azure Container Instances &lpar;ACI&rpar; and Restart Policies](https://dev.to/pilgrim2go/master-azure-container-instances-aci-and-restart-policies-5ga0)
-- [A safe way to let coding agents interact with your database &lpar;without prod write access&rpar;](https://dev.to/getpochi/a-safe-way-to-let-coding-agents-interact-with-your-database-without-prod-write-access-49jm)
+- [Python Check If Number is an Integer](https://dev.to/victorchendraa/python-check-if-number-is-an-integer-35aa)
+- [Configuring Apache Exporter with Prometheus in Kubernetes &lpar;Minikube&rpar;](https://dev.to/pilgrim2go/configuring-apache-exporter-with-prometheus-in-kubernetes-minikube-5316)
+- [Hello, World](https://dev.to/skyguan92/hello-world-4aah)
+- [Jestr &lpar;2014&rpar;: The Architecture of a Social App and the Power of PostgreSQL Views](https://dev.to/rpi1337/jestr-2014-the-architecture-of-a-social-app-and-the-power-of-postgresql-views-5d34)
+- [Agentic SEO: What It Actually Is and How I Use It &lpar;2026 Guide&rpar;](https://dev.to/marc0dev/agentic-seo-what-it-actually-is-and-how-i-use-it-2026-guide-3f3f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
