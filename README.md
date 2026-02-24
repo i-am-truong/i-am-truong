@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [COUNT&lpar;column&rpar; vs COUNT&lpar;*&rpar; in SQL — With INNER, LEFT, RIGHT &amp; FULL JOIN Explained](https://dev.to/deko39/countcolumn-vs-count-in-sql-with-inner-left-right-full-join-explained-1a1f)
-- [I’m trying to understand how AI tools &lpar;Copilot, ChatGPT, CodeRabbit, etc.&rpar; are changing code review.](https://dev.to/neha_singh_9e16fd832703e4/im-trying-to-understand-how-ai-tools-copilot-chatgpt-coderabbit-etc-are-changing-code-review-55f3)
-- [🎉 New Plugin: DevTools for Zustand in Rozenite &lpar;React-Native&rpar;](https://dev.to/irontony/new-plugin-devtools-for-zustand-in-rozenite-react-native-2d79)
-- [Elevate Your Terminal: From Oh My Zsh to Starship in 2026](https://dev.to/trung_hoang_52851df1766f0/elevate-your-terminal-from-oh-my-zsh-to-starship-in-2026-3e58)
-- [Building a File Sharing App with Puter.js](https://dev.to/reynaldi/building-a-file-sharing-app-with-puterjs-2i37)
+- [When Your AI Deletes the Database: Why Testing LLM Applications Requires a Different Playbook](https://dev.to/javi_vendrell_m/when-your-ai-deletes-the-database-why-testing-llm-applications-requires-a-different-playbook-3kdb)
+- [How I Built a Telegram Bot for Real-Time Crypto Alerts &lpar;And You Can Too&rpar;](https://dev.to/mfs_corp/how-i-built-a-telegram-bot-for-real-time-crypto-alerts-and-you-can-too-26io)
+- [Optimization Without Philosophy Is Just Refactoring](https://dev.to/paul_desai_ff9e1e7b5605ef/optimization-without-philosophy-is-just-refactoring-117d)
+- [Predicting Industrial Heartbeats: Building a RAG Pipeline for Mechanical RUL with Elastic](https://dev.to/joyboy_07/predicting-industrial-heartbeats-building-a-rag-pipeline-for-mechanical-rul-with-elastic-bbk)
+- [OpenClaw: The AI Agent That Actually Does Stuff - Part 1](https://dev.to/shresthapandey/openclaw-the-ai-agent-that-actually-does-stuff-part-1-51n4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
