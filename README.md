@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Python Check If Number is an Integer](https://dev.to/victorchendraa/python-check-if-number-is-an-integer-35aa)
-- [Configuring Apache Exporter with Prometheus in Kubernetes &lpar;Minikube&rpar;](https://dev.to/pilgrim2go/configuring-apache-exporter-with-prometheus-in-kubernetes-minikube-5316)
-- [Hello, World](https://dev.to/skyguan92/hello-world-4aah)
-- [Jestr &lpar;2014&rpar;: The Architecture of a Social App and the Power of PostgreSQL Views](https://dev.to/rpi1337/jestr-2014-the-architecture-of-a-social-app-and-the-power-of-postgresql-views-5d34)
-- [Agentic SEO: What It Actually Is and How I Use It &lpar;2026 Guide&rpar;](https://dev.to/marc0dev/agentic-seo-what-it-actually-is-and-how-i-use-it-2026-guide-3f3f)
+- [I Reviewed Final Round AI for Technical Interviews: Here’s What Actually Matters in 2026](https://dev.to/finalroundai/i-reviewed-final-round-ai-for-technical-interviews-heres-what-actually-matters-in-2026-47gd)
+- [From Zero to AI Agent: Your First Python Project Guide](https://dev.to/klement_gunndu/from-zero-to-ai-agent-your-first-python-project-guide-g93)
+- [Minesweeper in Power App: Two Buttons One Gallery](https://dev.to/niacrisss/minesweeper-in-power-app-two-buttons-one-gallery-4i6c)
+- [Why I Built BloxMeta: The Free Roblox Code Database Every Gamer Needs](https://dev.to/lyyluca/why-i-built-bloxmeta-the-free-roblox-code-database-every-gamer-needs-4kb2)
+- [I tried Python. Something felt wrong. Then I touched the Linux kernel — and everything clicked.](https://dev.to/jillravaliya/i-tried-python-something-felt-wrong-then-i-touched-the-linux-kernel-and-everything-clicked-4ag2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
