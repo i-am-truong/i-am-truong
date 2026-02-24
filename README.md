@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Template de testes de API com K6](https://dev.to/marcos_vile/template-de-testes-de-api-com-k6-2k3d)
-- [Building Reusable Game Frameworks: How We Ship Games 50% Faster](https://dev.to/oceanviewgames/building-reusable-game-frameworks-how-we-ship-games-50-faster-2ieb)
-- [Procedural Generation on Mobile: Balancing Complexity and Performance](https://dev.to/oceanviewgames/procedural-generation-on-mobile-balancing-complexity-and-performance-11d8)
-- [The Increasing Need for Human Connection in the Age of AI](https://dev.to/javz/the-increasing-need-for-human-connection-in-the-age-of-ai-43cd)
-- [Tiny Diffusion](https://dev.to/unica_2804/tiny-diffusion-5g8k)
+- [I Removed One Line of Django Code and My API Got 95ms Faster](https://dev.to/iistrate/i-removed-one-line-of-django-code-and-my-api-got-95ms-faster-36pl)
+- [How I Run 5+ AI Agents in Parallel on the Same Repo with Git Worktrees](https://dev.to/kuderr/how-i-run-5-ai-agents-in-parallel-on-the-same-repo-with-git-worktrees-2ngb)
+- [Hello dev.to](https://dev.to/nynana233/hello-devto-5dma)
+- [AGORA Oracle: Bloomberg Terminal for AI API Pricing](https://dev.to/cylonmoltingcreator/agora-oracle-bloomberg-terminal-for-ai-api-pricing-36ok)
+- [38 Issues: Showdown between BugBot, Copilot and Claude](https://dev.to/terence/38-issues-showdown-between-bugbot-copilot-and-claude-2o7e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
