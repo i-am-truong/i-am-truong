@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Semantic Layer vs. Data Catalog: Complementary, Not Competing](https://dev.to/alexmercedcoder/semantic-layer-vs-data-catalog-complementary-not-competing-2lf1)
-- [T-Ruby: Adding Static Typing to Ruby Without Runtime Overhead](https://dev.to/aeremin/t-ruby-adding-static-typing-to-ruby-without-runtime-overhead-3ddf)
-- [I Built a Vibe-Check Tool — Then Ran It on an AI-Built Codebase and It Scored 0/100](https://dev.to/lakshmisravyavedantham/i-built-a-vibe-check-tool-then-ran-it-on-an-ai-built-codebase-and-it-scored-0100-5mn)
-- [Building a Local-First Tauri App with Drizzle ORM, Encryption, and Turso Sync](https://dev.to/huakun/building-a-local-first-tauri-app-with-drizzle-orm-encryption-and-turso-sync-31pn)
-- [🇳🇱 Nederland devs: Add BSN &lpar;Burgerservicenummer&rpar; to the AI identity standard — Soulprint open source &lpar;30 min PR&rpar;](https://dev.to/manuel_felipeariaspined/nederland-devs-add-bsn-burgerservicenummer-to-the-ai-identity-standard-soulprint-open-30np)
+- [DevLog 20260224 Divooka - Node-Level Automatic Dispatch &lpar;Runtime Execution Behavior&rpar;](https://dev.to/methodox/devlog-20260224-divooka-node-level-automatic-dispatch-runtime-execution-behavior-2dih)
+- [Taking Action to Defend Democracy, Human Rights, and Ethical Governance](https://dev.to/mystrix/taking-action-to-defend-democracy-human-rights-and-ethical-governance-5g9e)
+- [Enterprise Integration Patterns Aren&#39;t Dead; They&#39;re Running on Kubernetes and Orchestrating AI](https://dev.to/dcruver/enterprise-integration-patterns-arent-dead-theyre-running-on-kubernetes-and-orchestrating-ai-30ol)
+- [Memory Leaks in Angular: The Silent Performance Killer](https://dev.to/cristiansifuentes/memory-leaks-in-angular-the-silent-performance-killer-3ie4)
+- [Technical Deep Dive: How we Created a Security-hardened 1-Click Deploy OpenClaw](https://dev.to/digitalocean/technical-deep-dive-how-we-created-a-security-hardened-1-click-deploy-openclaw-4b99)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
