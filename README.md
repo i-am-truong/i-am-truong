@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Reviewed Final Round AI for Technical Interviews: Here’s What Actually Matters in 2026](https://dev.to/finalroundai/i-reviewed-final-round-ai-for-technical-interviews-heres-what-actually-matters-in-2026-47gd)
-- [From Zero to AI Agent: Your First Python Project Guide](https://dev.to/klement_gunndu/from-zero-to-ai-agent-your-first-python-project-guide-g93)
-- [Minesweeper in Power App: Two Buttons One Gallery](https://dev.to/niacrisss/minesweeper-in-power-app-two-buttons-one-gallery-4i6c)
-- [Why I Built BloxMeta: The Free Roblox Code Database Every Gamer Needs](https://dev.to/lyyluca/why-i-built-bloxmeta-the-free-roblox-code-database-every-gamer-needs-4kb2)
-- [I tried Python. Something felt wrong. Then I touched the Linux kernel — and everything clicked.](https://dev.to/jillravaliya/i-tried-python-something-felt-wrong-then-i-touched-the-linux-kernel-and-everything-clicked-4ag2)
+- [Concurrent Requests များကို ဘယ်လို ကိုင်တွယ်ဖြေရှင်းမလဲ?](https://dev.to/mytc/concurrent-requests-maakiu-bhyliu-kiungttypherngmlai-44f3)
+- [Stop Writing NestJS CRUD Boilerplate - Generate It from Zod Schemas Instead](https://dev.to/tyson_cung/stop-writing-nestjs-crud-boilerplate-generate-it-from-zod-schemas-instead-4mjo)
+- [WASM Microservices: From Single Binaries to Composable Components](https://dev.to/rafacalderon/wasm-microservices-from-single-binaries-to-composable-components-2kan)
+- [The Secret Life of Go: The Mutex](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-the-mutex-1mph)
+- [Week in Security: Feb 17–23, 2026](https://dev.to/dendrite_soup/week-in-security-feb-17-23-2026-3pmk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
