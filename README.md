@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Removed One Line of Django Code and My API Got 95ms Faster](https://dev.to/iistrate/i-removed-one-line-of-django-code-and-my-api-got-95ms-faster-36pl)
-- [How I Run 5+ AI Agents in Parallel on the Same Repo with Git Worktrees](https://dev.to/kuderr/how-i-run-5-ai-agents-in-parallel-on-the-same-repo-with-git-worktrees-2ngb)
-- [Hello dev.to](https://dev.to/nynana233/hello-devto-5dma)
-- [AGORA Oracle: Bloomberg Terminal for AI API Pricing](https://dev.to/cylonmoltingcreator/agora-oracle-bloomberg-terminal-for-ai-api-pricing-36ok)
-- [38 Issues: Showdown between BugBot, Copilot and Claude](https://dev.to/terence/38-issues-showdown-between-bugbot-copilot-and-claude-2o7e)
+- [Bring Bitcoin to your app now in minutes](https://dev.to/akashneelesh/bring-bitcoin-to-your-app-now-in-minutes-39oe)
+- [Code generation for algorithms in Java](https://dev.to/pvsdev/code-generation-for-algorithms-in-java-34j)
+- [I Built a Godot MCP Server Because Existing Ones Couldn&#39;t Let AI Test My Game](https://dev.to/y1uda/i-built-a-godot-mcp-server-because-existing-ones-couldnt-let-ai-test-my-game-47dl)
+- [Master NGINX Configuration: From Basics to Advanced Security 2024](https://dev.to/opssquad_ai/master-nginx-configuration-from-basics-to-advanced-security-2024-4m0e)
+- [Configure NGINX: Master Web Serving &amp; Proxying](https://dev.to/opssquad_ai/configure-nginx-master-web-serving-proxying-47eh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
