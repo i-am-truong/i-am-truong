@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [DevLog 20260224 Divooka - Node-Level Automatic Dispatch &lpar;Runtime Execution Behavior&rpar;](https://dev.to/methodox/devlog-20260224-divooka-node-level-automatic-dispatch-runtime-execution-behavior-2dih)
-- [Taking Action to Defend Democracy, Human Rights, and Ethical Governance](https://dev.to/mystrix/taking-action-to-defend-democracy-human-rights-and-ethical-governance-5g9e)
-- [Enterprise Integration Patterns Aren&#39;t Dead; They&#39;re Running on Kubernetes and Orchestrating AI](https://dev.to/dcruver/enterprise-integration-patterns-arent-dead-theyre-running-on-kubernetes-and-orchestrating-ai-30ol)
-- [Memory Leaks in Angular: The Silent Performance Killer](https://dev.to/cristiansifuentes/memory-leaks-in-angular-the-silent-performance-killer-3ie4)
-- [Technical Deep Dive: How we Created a Security-hardened 1-Click Deploy OpenClaw](https://dev.to/digitalocean/technical-deep-dive-how-we-created-a-security-hardened-1-click-deploy-openclaw-4b99)
+- [Memory isn’t magic: 3 types of AI &#39;memory&#39; &lpar;and when to use each&rpar;](https://dev.to/an0nymus/memory-isnt-magic-3-types-of-ai-memory-and-when-to-use-each-1e0e)
+- [Your AI Agents Have 5 Months to Comply With the EU AI Act — Here&#39;s What You&#39;re Missing](https://dev.to/json_shotwell/your-ai-agents-have-5-months-to-comply-with-the-eu-ai-act-heres-what-youre-missing-4c3a)
+- [Ng-News 26/07: Angular&#39;s Router, Vitest, Hashbrown, History &amp; Popularity](https://dev.to/playfulprogramming-angular/ng-news-2607-angulars-router-vitest-hashbrown-history-popularity-4phc)
+- [The 24 Hour Campaign Launch: Operational Workflows for Agile Landing Page Deployment](https://dev.to/jasonbiondo/the-24-hour-campaign-launch-operational-workflows-for-agile-landing-page-deployment-4him)
+- [Repository Pattern vs Direct DbContext Usage in .NET &lpar;2026 Edition&rpar;](https://dev.to/cristiansifuentes/repository-pattern-vs-direct-dbcontext-usage-in-net-2026-edition-31pd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
