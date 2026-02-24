@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop Using .any? the Wrong Way in Rails](https://dev.to/pavelmyslik/stop-using-any-the-wrong-way-in-rails-429e)
-- [Undefined vs Not Defined](https://dev.to/ananya_mohanta_b44a988e76/undefined-and-not-defined-1fp5)
-- [Spring CRUD Generator v1.3.0 Released 🚀](https://dev.to/mzivkovicdev/spring-crud-generator-v130-released-160l)
-- [Prompt Regression Tests: Stop Your AI Workflow From Breaking](https://dev.to/novaelvaris/prompt-regression-tests-stop-your-ai-workflow-from-breaking-9a)
-- [The &#39;Instruction Hierarchy&#39; is Dead: Why Your Agent&#39;s Skills Are a Supply Chain Nightmare](https://dev.to/an0nymus/the-instruction-hierarchy-is-dead-why-your-agents-skills-are-a-supply-chain-nightmare-4ffn)
+- [GitHub Copilot Skills: Reusable AI Workflows for DevOps and SREs](https://dev.to/pwd9000/github-copilot-skills-reusable-ai-workflows-for-devops-and-sres-caf)
+- [I make a simple desktop app with Python](https://dev.to/victorchendraa/heres-how-i-make-a-simple-desktop-app-with-python-tkinter-customtkinter-4431)
+- [13 Angular Concepts You Must Master Before Your Next Interview &lpar;2026 Edition&rpar;](https://dev.to/cristiansifuentes/13-angular-concepts-you-must-master-before-your-next-interview-2026-edition-5b74)
+- [Stop writing API test scripts. Use plain English instead.](https://dev.to/mbadyl/stop-writing-api-test-scripts-use-plain-english-instead-532d)
+- [Detect User Inactivity System-Wide on Android with AccessibilityService](https://dev.to/lepresk/detect-user-inactivity-system-wide-on-android-with-accessibilityservice-3aed)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
