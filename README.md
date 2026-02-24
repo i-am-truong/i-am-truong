@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI Travel Budgeting Tool After Planning a Japan Trip](https://dev.to/sebastian_alexis_187cf2a4/building-an-ai-travel-budgeting-tool-after-planning-a-japan-trip-2jjl)
-- [Build a Private Skills Registry for OpenClaw](https://dev.to/chwu1946/build-a-private-skills-registry-for-openclaw-2cm5)
-- [Resisting the Eye of the Machine: A Reflection on AI and Data Ownership](https://dev.to/calganaygun/resisting-the-eye-of-the-machine-a-reflection-on-ai-and-data-ownership-510m)
-- [Monitoring an ML Pipeline in Production: Anatomy of an Open-Source Stack](https://dev.to/erythix_6d20050c4f1039b32/monitoring-an-ml-pipeline-in-production-anatomy-of-an-open-source-stack-55ik)
-- [Building a Load Balancer from Scratch on a $20 VPS](https://dev.to/abustamam/building-a-load-balancer-from-scratch-on-a-20-vps-4fjb)
+- [Semantic Layer vs. Data Catalog: Complementary, Not Competing](https://dev.to/alexmercedcoder/semantic-layer-vs-data-catalog-complementary-not-competing-2lf1)
+- [T-Ruby: Adding Static Typing to Ruby Without Runtime Overhead](https://dev.to/aeremin/t-ruby-adding-static-typing-to-ruby-without-runtime-overhead-3ddf)
+- [I Built a Vibe-Check Tool — Then Ran It on an AI-Built Codebase and It Scored 0/100](https://dev.to/lakshmisravyavedantham/i-built-a-vibe-check-tool-then-ran-it-on-an-ai-built-codebase-and-it-scored-0100-5mn)
+- [Building a Local-First Tauri App with Drizzle ORM, Encryption, and Turso Sync](https://dev.to/huakun/building-a-local-first-tauri-app-with-drizzle-orm-encryption-and-turso-sync-31pn)
+- [🇳🇱 Nederland devs: Add BSN &lpar;Burgerservicenummer&rpar; to the AI identity standard — Soulprint open source &lpar;30 min PR&rpar;](https://dev.to/manuel_felipeariaspined/nederland-devs-add-bsn-burgerservicenummer-to-the-ai-identity-standard-soulprint-open-30np)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
