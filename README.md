@@ -120,22 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [⚡ React Native Tip #47
-
-Don&#39;t use console.log in production.
-
-Use react-native-logs instead:
-- Filter by level
-- Write to file
-- Send to crashlytics
-
-Your future debugging self will thank you.
-
-Save this](https://dev.to/adewebdeveloper/react-native-tip-47-dont-use-consolelog-in-production-use-react-native-logs-instead--1db5)
-- [Day 6: Trust as a Structure](https://dev.to/chitintrust/day-6-trust-as-a-structure-4odg)
-- [How I Added 6 Languages to a Next.js App in One Day](https://dev.to/ji_ai/how-i-added-6-languages-to-a-nextjs-app-in-one-day-37nc)
-- [LLM API 비용을 88% 줄인 방법](https://dev.to/ji_ai/llm-api-biyongeul-88-julin-bangbeob-1l5d)
-- [What is Subnet mask? And its Usage with examples in general &amp; on cloud implications.](https://dev.to/giridharan_devops/what-is-subnet-mask-and-its-usage-with-examples-in-general-on-cloud-implications-8mo)
+- [Understanding Cache Coherency](https://dev.to/ripan030/understanding-cache-coherency-4lj8)
+- [Battle scarred developer&#39;s guide to Umbraco v17 - Sections](https://dev.to/kevinjump/battle-scarred-developers-guide-to-umbraco-v17-sections-5ha2)
+- [Battle scarred developer&#39;s guide to Umbraco v17 - Entry Points](https://dev.to/kevinjump/battle-scarred-developers-guide-to-umbraco-v17-entry-points-2ke4)
+- [Battle scarred developer&#39;s guide to Umbraco v17 - Bundles](https://dev.to/kevinjump/battle-scarred-developers-guide-to-umbraco-v17-bundles-100g)
+- [Battle scarred developer&#39;s guide to Umbraco v17 - Setup](https://dev.to/kevinjump/battle-scarred-developers-guide-to-umbraco-v17-setup-2998)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
