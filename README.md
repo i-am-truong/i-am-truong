@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CVE-2026-3105: Mautic SQLi: When &quot;Order By&quot; Becomes &quot;Pwned By&quot;](https://dev.to/cverports/cve-2026-3105-mautic-sqli-when-order-by-becomes-pwned-by-1ci6)
-- [When Disk Space is Not Enough: A Lesson in Challenging MySQL Database Cleansing](https://dev.to/taufiqtab/when-disk-space-is-not-enough-a-lesson-in-challenging-mysql-database-cleansing-eoj)
-- [Conversational Development With Claude Code — Part 15: Cost Control and Model Strategy in Claude Code](https://dev.to/cristiansifuentes/conversational-development-with-claude-code-part-15-cost-control-and-model-strategy-in-claude-2018)
-- [Conversational Development With Claude Code — Part 14: Installing MCP Servers in Claude Code](https://dev.to/cristiansifuentes/conversational-development-with-claude-code-part-14-installing-mcp-servers-in-claude-code-3jg0)
-- [AWS Amplify + Amazon Cognito + AWS CDK: A Complete Setup Guide](https://dev.to/aws-builders/aws-amplify-amazon-cognito-aws-cdk-a-complete-setup-guide-26f2)
+- [Verifying Ledger Live Source Code](https://dev.to/subreddit_thoughts_e9b83e/verifying-ledger-live-source-code-4pc)
+- [Provide shared file storage for the company offices](https://dev.to/precious_nwafor/provide-shared-file-storage-for-the-company-offices-1mlc)
+- [Building a YouTube Channel in Public](https://dev.to/rndthts/building-a-youtube-channel-in-public-4kn1)
+- [I built an MCP server that forces AI to spec before it codes](https://dev.to/hendryavila/i-built-an-mcp-server-that-forces-ai-to-spec-before-it-codes-236f)
+- [The Frontend Bridge: Building a Robust Signaling Adapter in TypeScript](https://dev.to/deepak_mishra_35863517037/the-frontend-bridge-building-a-robust-signaling-adapter-in-typescript-b0b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
