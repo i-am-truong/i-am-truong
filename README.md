@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Wanderer&#39;s Log #3: The Tết Reflection — Why Skill-Wanderer Is Going AI-First](https://dev.to/skill-wanderer/wanderers-log-3-the-tet-reflection-why-skill-wanderer-is-going-ai-first-4eil)
-- [Building Datasets for Agentic AI: A Call for Contributors](https://dev.to/operationalneuralnetwork/building-datasets-for-agentic-ai-a-call-for-contributors-1eoh)
-- [$20 subscription 6 people: Google One AI family sharing explained 😈✨](https://dev.to/amals367/20-subscription-6-people-google-one-ai-family-sharing-explained-65a)
-- [Help improve accessibility error messages with PDF4WCAG](https://dev.to/katash/help-improve-accessibility-error-messages-with-pdf4wcag-32oh)
-- [I Built a Free Offline CRM for Real Estate Agents Using Flutter — Here&#39;s Why](https://dev.to/ubedulla_midde_98599e9a95/i-built-a-free-offline-crm-for-real-estate-agents-using-flutter-heres-why-3nhn)
+- [# How I Built a Web Editor That Turns AI-Generated Music Into Playable MIDI](https://dev.to/adams_watercolorli_4ad3/-how-i-built-a-web-editor-that-turns-ai-generated-music-into-playable-midi-12mp)
+- [7 Prompt Injection Attacks That Work on Most AI Chatbots &lpar;And How to Block Them&rpar;](https://dev.to/botguard/7-prompt-injection-attacks-that-work-on-most-ai-chatbots-and-how-to-block-them-3eji)
+- [Introducing me.txt](https://dev.to/rollsmorr/introducing-metxt-2ed7)
+- [Undefined vs Null in TypeScript: What’s the Difference?](https://dev.to/jefersoneiji/undefined-vs-null-in-typescript-whats-the-difference-cgp)
+- [That GitHub Repo Could Be a Backdoor — How Attackers Target Developers Through Fake Projects](https://dev.to/deepseax/that-github-repo-could-be-a-backdoor-how-attackers-target-developers-through-fake-projects-3chh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
