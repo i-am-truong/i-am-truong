@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Orchids as Cybersecurity, AI, and ML Systems: A Substrate-Layer Mapping](https://dev.to/narnaiezzsshaa/orchids-as-cybersecurity-ai-and-ml-systems-a-substrate-layer-mapping-5c4n)
-- [Conversational Development With Claude Code — Part 19: Course Summary — From Prompts to Contextual Engineering](https://dev.to/cristiansifuentes/conversational-development-with-claude-code-part-19-course-summary-from-prompts-to-contextual-nao)
-- [Aider + OpenClaw: How Autonomous Exploit Generators Rewrite the Rules of Security Research](https://dev.to/numbpill3d/aider-openclaw-how-autonomous-exploit-generators-rewrite-the-rules-of-security-research-32h5)
-- [Building a Personal Expense Tracker with OpenTelemetry and CI/CD](https://dev.to/davidgrath/building-a-personal-expense-tracker-with-opentelemetry-and-cicd-5865)
-- [CVE-2026-27822: RustFS &amp; The PDF Trojan: Anatomy of a Critical Stored XSS](https://dev.to/cverports/cve-2026-27822-rustfs-the-pdf-trojan-anatomy-of-a-critical-stored-xss-2lpk)
+- [Build Your Own AI Ops Assistant — Part 3: The AI Brain](https://dev.to/stephengoldberg/build-your-own-ai-ops-assistant-part-3-the-ai-brain-2dcm)
+- [How to Build and Test iOS Apps on a Physical Phone: Adding Internal Testers &lpar;Part 3/5&rpar;](https://dev.to/cathylai/how-to-build-and-test-ios-apps-on-a-physical-phone-testers-and-apple-testflight-part-35-eoo)
+- [CVE-2026-27795: The Chain Breaker: Bypassing LangChain&#39;s SSRF Guards](https://dev.to/cverports/cve-2026-27795-the-chain-breaker-bypassing-langchains-ssrf-guards-49fb)
+- [THE ORDER DOCTRINE // Operational Supremacy](https://dev.to/faripod/the-order-doctrine-operational-supremacy-336m)
+- [THE INTERROGATION PROTOCOL // Developer Intelligence in the Age of AI](https://dev.to/faripod/the-interrogation-protocol-developer-intelligence-in-the-age-of-ai-4mh1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
