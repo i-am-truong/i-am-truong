@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Javascript Works on browser ? complete guide](https://dev.to/harshkamoriya/how-javascript-works-on-browser-complete-guide-bfm)
-- [Things Are Moving Fast: Generative UI, MCP Apps, and the New Standards Race](https://dev.to/betodias/things-are-moving-fast-generative-ui-mcp-apps-and-the-new-standards-race-56bk)
-- [How AI Agents Can Verify Seller Policies Before Making Autonomous Purchases](https://dev.to/policycheck30035/how-ai-agents-can-verify-seller-policies-before-making-autonomous-purchases-2a56)
-- [Meet Semantic Components — A Modern Angular UI Library](https://dev.to/gridou/meet-semantic-components-a-modern-angular-ui-library-3352)
-- [Exposing services behing CGNAT | My home-Lab experience with Jio-Fiber](https://dev.to/jagadeesh0074/exposing-services-behing-cgnat-my-home-lab-experience-with-jio-fiber-2ed2)
+- [Founder Compass: Designing a Stateless AI Profiler with Svelte 5 and Cloudflare Workers](https://dev.to/mihai82adrian/founder-compass-designing-a-stateless-ai-profiler-with-svelte-5-and-cloudflare-workers-5g0o)
+- [How to Read HTTP Headers](https://dev.to/jamsheer_ali/how-to-read-http-headers-1f5e)
+- [Data Engineering Best Practices: The Complete Checklist](https://dev.to/alexmercedcoder/data-engineering-best-practices-the-complete-checklist-21e9)
+- [Serializers &amp; DTOs: Controlling What Your API Exposes](https://dev.to/ghost_script/serializers-dtos-controlling-what-your-api-exposes-1p0k)
+- [Pipeline Observability: Know When Things Break](https://dev.to/alexmercedcoder/pipeline-observability-know-when-things-break-3g46)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
