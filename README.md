@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Prompt Injection Problem: A Guide to Defense-in-Depth for AI Agents](https://dev.to/manveer_chawla_64a7283d5a/the-prompt-injection-problem-a-guide-to-defense-in-depth-for-ai-agents-3p1)
-- [Does anyone here us HCL DX?](https://dev.to/rodatdoh/does-anyone-here-us-hcl-dx-1a63)
-- [Conversational Development With Claude Code — Part 16: Installing Claude Code in GitHub with Actions](https://dev.to/cristiansifuentes/conversational-development-with-claude-code-part-16-installing-claude-code-in-github-with-actions-2mnf)
-- [Understanding LSTMs – Part 4: How LSTM Decides What to Forget](https://dev.to/rijultp/understanding-lstms-part-4-how-lstm-decides-what-to-forget-c9o)
-- [Agentic Engineering: How to build Apps with AI Agents.](https://dev.to/olyray/agentic-engineering-how-to-build-apps-with-ai-agents-4dhp)
+- [CVE-2026-3105: Mautic SQLi: When &quot;Order By&quot; Becomes &quot;Pwned By&quot;](https://dev.to/cverports/cve-2026-3105-mautic-sqli-when-order-by-becomes-pwned-by-1ci6)
+- [When Disk Space is Not Enough: A Lesson in Challenging MySQL Database Cleansing](https://dev.to/taufiqtab/when-disk-space-is-not-enough-a-lesson-in-challenging-mysql-database-cleansing-eoj)
+- [Conversational Development With Claude Code — Part 15: Cost Control and Model Strategy in Claude Code](https://dev.to/cristiansifuentes/conversational-development-with-claude-code-part-15-cost-control-and-model-strategy-in-claude-2018)
+- [Conversational Development With Claude Code — Part 14: Installing MCP Servers in Claude Code](https://dev.to/cristiansifuentes/conversational-development-with-claude-code-part-14-installing-mcp-servers-in-claude-code-3jg0)
+- [AWS Amplify + Amazon Cognito + AWS CDK: A Complete Setup Guide](https://dev.to/aws-builders/aws-amplify-amazon-cognito-aws-cdk-a-complete-setup-guide-26f2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
