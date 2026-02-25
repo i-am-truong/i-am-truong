@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Graceful Exit Strategies: How to Fail at a Project Without Crashing Your Life](https://dev.to/chandravijayagr/graceful-exit-strategies-how-to-fail-at-a-project-without-crashing-your-life-321i)
-- [Suddenly, everyone cares about code quality.](https://dev.to/james920609/suddenly-everyonecares-about-code-quality-1bn9)
-- [Stop Shipping Translations to the Client: Edge-Native i18n with Astro &amp; Cloudflare &lpar;Part 1&rpar;](https://dev.to/garyedgekits/stop-shipping-translations-to-the-client-edge-native-i18n-with-astro-cloudflare-part-1-5b38)
-- [From System Monitoring to Business Insights: A Comprehensive Analysis of the Custom Metric Collection Feature of ARMS](https://dev.to/observabilityguy/from-system-monitoring-to-business-insights-a-comprehensive-analysis-of-the-custom-metric-3f0h)
-- [Solved: Anyone noticing shifts in Azure best practices around scaling, monitoring, or automation?](https://dev.to/techresolve/solved-anyone-noticing-shifts-in-azure-best-practices-around-scaling-monitoring-or-automation-44oi)
+- [Switching between files in Vim without fuzzy-finding everything](https://dev.to/vimtrickswiki/switching-between-files-in-vim-without-fuzzy-finding-everything-2hme)
+- [We gave an AI with only a subconscious $90 and a Bybit account](https://dev.to/rsdouglas/we-gave-an-ai-with-only-a-subconscious-90-and-a-bybit-account-5dio)
+- [Debugging the Job Search: Lessons from Germany’s 2026 Hiring Market](https://dev.to/abdulosman/debugging-the-job-search-lessons-from-germanys-2026-hiring-market-5902)
+- [Building Persistent Memory for AI Agents: A 4-Layer File-Based Architecture](https://dev.to/oblivionlabz/building-persistent-memory-for-ai-agents-a-4-layer-file-based-architecture-4pip)
+- [News Roundup: From AI crypto to 100% renewable energy](https://dev.to/shrinithi_v/news-roundup-from-ai-crypto-to-100-renewable-energy-59n9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
