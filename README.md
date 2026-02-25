@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Prompt Snippets and Auto-DRY Analysis for Voice Agent Graphs](https://dev.to/pld/prompt-snippets-and-auto-dry-analysis-for-voice-agent-graphs-1972)
-- [Building Persistent AI Agent Memory: A 4-Layer File-Based Architecture for Cross-Session Recall](https://dev.to/oblivionlabz/building-persistent-ai-agent-memory-a-4-layer-file-based-architecture-for-cross-session-recall-ffd)
-- [I Built a Reasonably Secure OpenClaw Box with Spare PC Parts, NixOS, and microVMs](https://dev.to/ryoooo/i-built-a-reasonably-secure-openclaw-box-with-spare-pc-parts-nixos-and-microvms-2177)
-- [Getting Started with Ent: Facebook’s Open-Source ORM for Go Developers](https://dev.to/jones_charles_ad50858dbc0/getting-started-with-ent-facebooks-open-source-orm-for-go-developers-1non)
-- [🇦🇹 Österreich devs: Add Personalausweis to the AI identity standard — Soulprint open source &lpar;30 min PR&rpar;](https://dev.to/manuel_felipeariaspined/osterreich-devs-add-personalausweis-to-the-ai-identity-standard-soulprint-open-source-30-min-12dd)
+- [React Native Explained: From the Legacy Bridge to the New Architecture](https://dev.to/thatsmanmeet/react-native-explained-from-the-legacy-bridge-to-the-new-architecture-309b)
+- [I Built 14 Free Web Tools — Here&#39;s What I Learned](https://dev.to/fivebot2006/i-built-14-free-web-tools-heres-what-i-learned-55kl)
+- [🛡️ Cloud Networking Level 3: The Data Sovereignty Plan](https://dev.to/pilgrim2go/cloud-networking-level-3-the-data-sovereignty-plan-4ad0)
+- [🇨🇿 Česko devs: Add Rodné číslo to the AI identity standard — Soulprint open source &lpar;30 min PR&rpar;](https://dev.to/manuel_felipeariaspined/cesko-devs-add-rodne-cislo-to-the-ai-identity-standard-soulprint-open-source-30-min-pr-9i)
+- [Engineering Resilient Flutter Apps That Survive Backend Changes](https://dev.to/pravin_kunnure_f4663a859a/engineering-resilient-flutter-apps-that-survive-backend-changes-1p99)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
