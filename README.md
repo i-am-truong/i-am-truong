@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Prompt Injection Problem: A Guide to Defense-in-Depth for AI Agents](https://dev.to/manveer_chawla_64a7283d5a/the-prompt-injection-problem-a-guide-to-defense-in-depth-for-ai-agents-3p1)
+- [Does anyone here us HCL DX?](https://dev.to/rodatdoh/does-anyone-here-us-hcl-dx-1a63)
+- [Conversational Development With Claude Code — Part 16: Installing Claude Code in GitHub with Actions](https://dev.to/cristiansifuentes/conversational-development-with-claude-code-part-16-installing-claude-code-in-github-with-actions-2mnf)
 - [Understanding LSTMs – Part 4: How LSTM Decides What to Forget](https://dev.to/rijultp/understanding-lstms-part-4-how-lstm-decides-what-to-forget-c9o)
 - [Agentic Engineering: How to build Apps with AI Agents.](https://dev.to/olyray/agentic-engineering-how-to-build-apps-with-ai-agents-4dhp)
-- [Save Money with GitHub&#39;s Package Manager](https://dev.to/nyruchi/save-money-with-githubs-package-manager-4k4j)
-- [🚀 Building a Multi-Agent Content Studio with Gemini 2.5 This post is my submission for .](https://dev.to/halakabir234hub/building-a-multi-agent-content-studio-with-gemini-25this-post-is-my-submission-for--560e)
-- [Building DualTicker: A Deterministic, Configurable RSS Dashboard](https://dev.to/bassthermal/building-dualticker-a-deterministic-configurable-rss-dashboard-12fp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
