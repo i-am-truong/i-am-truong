@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Design API for AI Agents as a Solo Dev](https://dev.to/mokyio/how-i-built-a-design-api-for-ai-agents-as-a-solo-dev-4o0e)
-- [Claude Code Plugin Cache](https://dev.to/wkusnierczyk/claude-code-plugin-cache-1dn)
-- [Traces Without Limits - Load a Million Spans with SigNoz](https://dev.to/ankit01oss/traces-without-limits-load-a-million-spans-with-signoz-5h1i)
-- [Provide shared file storage for the company offices](https://dev.to/rahimah_dev/provide-shared-file-storage-for-the-company-offices-g2d)
-- [Free voice to text software review - MurMur VT](https://dev.to/gorohov/free-voice-to-text-software-review-murmur-vt-5c6j)
+- [Wanderer&#39;s Log #3: The Tết Reflection — Why Skill-Wanderer Is Going AI-First](https://dev.to/skill-wanderer/wanderers-log-3-the-tet-reflection-why-skill-wanderer-is-going-ai-first-4eil)
+- [Building Datasets for Agentic AI: A Call for Contributors](https://dev.to/operationalneuralnetwork/building-datasets-for-agentic-ai-a-call-for-contributors-1eoh)
+- [$20 subscription 6 people: Google One AI family sharing explained 😈✨](https://dev.to/amals367/20-subscription-6-people-google-one-ai-family-sharing-explained-65a)
+- [Help improve accessibility error messages with PDF4WCAG](https://dev.to/katash/help-improve-accessibility-error-messages-with-pdf4wcag-32oh)
+- [I Built a Free Offline CRM for Real Estate Agents Using Flutter — Here&#39;s Why](https://dev.to/ubedulla_midde_98599e9a95/i-built-a-free-offline-crm-for-real-estate-agents-using-flutter-heres-why-3nhn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
