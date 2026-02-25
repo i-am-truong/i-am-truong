@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Founder Compass: Designing a Stateless AI Profiler with Svelte 5 and Cloudflare Workers](https://dev.to/mihai82adrian/founder-compass-designing-a-stateless-ai-profiler-with-svelte-5-and-cloudflare-workers-5g0o)
-- [How to Read HTTP Headers](https://dev.to/jamsheer_ali/how-to-read-http-headers-1f5e)
-- [Data Engineering Best Practices: The Complete Checklist](https://dev.to/alexmercedcoder/data-engineering-best-practices-the-complete-checklist-21e9)
-- [Serializers &amp; DTOs: Controlling What Your API Exposes](https://dev.to/ghost_script/serializers-dtos-controlling-what-your-api-exposes-1p0k)
-- [Pipeline Observability: Know When Things Break](https://dev.to/alexmercedcoder/pipeline-observability-know-when-things-break-3g46)
+- [Understanding LSTMs – Part 4: How LSTM Decides What to Forget](https://dev.to/rijultp/understanding-lstms-part-4-how-lstm-decides-what-to-forget-c9o)
+- [Agentic Engineering: How to build Apps with AI Agents.](https://dev.to/olyray/agentic-engineering-how-to-build-apps-with-ai-agents-4dhp)
+- [Save Money with GitHub&#39;s Package Manager](https://dev.to/nyruchi/save-money-with-githubs-package-manager-4k4j)
+- [🚀 Building a Multi-Agent Content Studio with Gemini 2.5 This post is my submission for .](https://dev.to/halakabir234hub/building-a-multi-agent-content-studio-with-gemini-25this-post-is-my-submission-for--560e)
+- [Building DualTicker: A Deterministic, Configurable RSS Dashboard](https://dev.to/bassthermal/building-dualticker-a-deterministic-configurable-rss-dashboard-12fp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
