@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SEO Didn&#39;t Die. It Just Got Evicted From Its Own House.](https://dev.to/lizechengnet/seo-didnt-die-it-just-got-evicted-from-its-own-house-2kim)
-- [Rediscovering C++: Building a High-Performance Blog Engine in 2026](https://dev.to/vrannang1/rediscovering-c-building-a-high-performance-blog-engine-in-2026-3gf)
-- [Just learned the Power of Delegates in C#](https://dev.to/jjybaliguat/just-learned-the-power-of-delegates-in-c-4138)
-- [Anthropic Just Told You Who They Are. Believe Them.](https://dev.to/lizechengnet/anthropic-just-told-you-who-they-are-believe-them-4ffe)
-- [10 Practical AI Developer Workflows That Save Hours Every Week &lpar;With Code Examples&rpar;](https://dev.to/cloyouai/10-practical-ai-developer-workflows-that-save-hours-every-week-with-code-examples-2nb)
+- [Graceful Exit Strategies: How to Fail at a Project Without Crashing Your Life](https://dev.to/chandravijayagr/graceful-exit-strategies-how-to-fail-at-a-project-without-crashing-your-life-321i)
+- [Suddenly, everyone cares about code quality.](https://dev.to/james920609/suddenly-everyonecares-about-code-quality-1bn9)
+- [Stop Shipping Translations to the Client: Edge-Native i18n with Astro &amp; Cloudflare &lpar;Part 1&rpar;](https://dev.to/garyedgekits/stop-shipping-translations-to-the-client-edge-native-i18n-with-astro-cloudflare-part-1-5b38)
+- [From System Monitoring to Business Insights: A Comprehensive Analysis of the Custom Metric Collection Feature of ARMS](https://dev.to/observabilityguy/from-system-monitoring-to-business-insights-a-comprehensive-analysis-of-the-custom-metric-3f0h)
+- [Solved: Anyone noticing shifts in Azure best practices around scaling, monitoring, or automation?](https://dev.to/techresolve/solved-anyone-noticing-shifts-in-azure-best-practices-around-scaling-monitoring-or-automation-44oi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
