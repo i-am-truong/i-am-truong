@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Verifying Ledger Live Source Code](https://dev.to/subreddit_thoughts_e9b83e/verifying-ledger-live-source-code-4pc)
-- [Provide shared file storage for the company offices](https://dev.to/precious_nwafor/provide-shared-file-storage-for-the-company-offices-1mlc)
-- [Building a YouTube Channel in Public](https://dev.to/rndthts/building-a-youtube-channel-in-public-4kn1)
-- [I built an MCP server that forces AI to spec before it codes](https://dev.to/hendryavila/i-built-an-mcp-server-that-forces-ai-to-spec-before-it-codes-236f)
-- [The Frontend Bridge: Building a Robust Signaling Adapter in TypeScript](https://dev.to/deepak_mishra_35863517037/the-frontend-bridge-building-a-robust-signaling-adapter-in-typescript-b0b)
+- [I Stopped Fighting My Logging Tools and Built an AI Co-Investigator](https://dev.to/moclei/i-stopped-fighting-my-logging-tools-and-built-an-ai-co-investigator-46ii)
+- [Generating self-Contained HTML Snapshots Without Puppeteer](https://dev.to/kcsujeet/generating-self-contained-html-snapshots-inlining-css-and-images-without-puppeteer-2ak7)
+- [The Developer I&#39;m Grateful I Never Became](https://dev.to/narnaiezzsshaa/the-developer-im-grateful-i-never-became-255d)
+- [Why Agent Testing is Broken](https://dev.to/dingomanhammer/why-agent-testing-is-broken-12a2)
+- [How defineModel simplifies v-model in custom Vue components](https://dev.to/olehhladkov/how-definemodel-simplifies-v-model-in-custom-vue-components-c23)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
