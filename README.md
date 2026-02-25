@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Cache Coherency](https://dev.to/ripan030/understanding-cache-coherency-4lj8)
-- [Battle scarred developer&#39;s guide to Umbraco v17 - Sections](https://dev.to/kevinjump/battle-scarred-developers-guide-to-umbraco-v17-sections-5ha2)
-- [Battle scarred developer&#39;s guide to Umbraco v17 - Entry Points](https://dev.to/kevinjump/battle-scarred-developers-guide-to-umbraco-v17-entry-points-2ke4)
-- [Battle scarred developer&#39;s guide to Umbraco v17 - Bundles](https://dev.to/kevinjump/battle-scarred-developers-guide-to-umbraco-v17-bundles-100g)
-- [Battle scarred developer&#39;s guide to Umbraco v17 - Setup](https://dev.to/kevinjump/battle-scarred-developers-guide-to-umbraco-v17-setup-2998)
+- [I Put My Prompts on a Diet and Cut My LLM Bill by 72%](https://dev.to/lakshmisravyavedantham/i-put-my-prompts-on-a-diet-and-cut-my-llm-bill-by-72-2425)
+- [I Found an API Key I Deleted 18 Months Ago Still Living in My Git History](https://dev.to/lakshmisravyavedantham/i-found-an-api-key-i-deleted-18-months-ago-still-living-in-my-git-history-1328)
+- [I Built a Tool That Shows Exactly Where GPT-4 and Claude Disagree — The Results Were Surprising](https://dev.to/lakshmisravyavedantham/i-built-a-tool-that-shows-exactly-where-gpt-4-and-claude-disagree-the-results-were-surprising-2n65)
+- [I Built a Lie Detector for LLM Output — It Found 4 Functions That Don&#39;t Exist in My Codebase](https://dev.to/lakshmisravyavedantham/i-built-a-lie-detector-for-llm-output-it-found-4-functions-that-dont-exist-in-my-codebase-4204)
+- [I Ran My Git History Through a D&amp;D Alignment Test — It Called Me Chaotic Evil](https://dev.to/lakshmisravyavedantham/i-ran-my-git-history-through-a-dd-alignment-test-it-called-me-chaotic-evil-5fn9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
