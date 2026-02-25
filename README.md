@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Memory isn’t magic: 3 types of AI &#39;memory&#39; &lpar;and when to use each&rpar;](https://dev.to/an0nymus/memory-isnt-magic-3-types-of-ai-memory-and-when-to-use-each-1e0e)
-- [Your AI Agents Have 5 Months to Comply With the EU AI Act — Here&#39;s What You&#39;re Missing](https://dev.to/json_shotwell/your-ai-agents-have-5-months-to-comply-with-the-eu-ai-act-heres-what-youre-missing-4c3a)
-- [Ng-News 26/07: Angular&#39;s Router, Vitest, Hashbrown, History &amp; Popularity](https://dev.to/playfulprogramming-angular/ng-news-2607-angulars-router-vitest-hashbrown-history-popularity-4phc)
-- [The 24 Hour Campaign Launch: Operational Workflows for Agile Landing Page Deployment](https://dev.to/jasonbiondo/the-24-hour-campaign-launch-operational-workflows-for-agile-landing-page-deployment-4him)
-- [Repository Pattern vs Direct DbContext Usage in .NET &lpar;2026 Edition&rpar;](https://dev.to/cristiansifuentes/repository-pattern-vs-direct-dbcontext-usage-in-net-2026-edition-31pd)
+- [How I Added Zero-Trust Guardrails to 4 MCP Servers Using AgentGateway — and Modernized Legacy COBOL Along the Way](https://dev.to/venkateshwar_raonagala_4/how-i-added-zero-trust-guardrails-to-4-mcp-servers-using-agentgateway-and-modernized-legacy-cobol-1fl8)
+- [Building Persistent Memory for AI Agents: A 4-Layer File-Based Architecture](https://dev.to/oblivionlabz/building-persistent-memory-for-ai-agents-a-4-layer-file-based-architecture-469j)
+- [Stop Writing CSS Selectors That Break - Extract Web Data with Plain English Using AI](https://dev.to/yukendiran_jayachandiran_/stop-writing-css-selectors-that-break-extract-web-data-with-plain-english-using-ai-3ckd)
+- [How We Built a Governance Loop for AI Coding Agents](https://dev.to/dttai71/how-we-built-a-governance-loop-for-ai-coding-agents-da8)
+- [Stop Ignoring RFC 2324. It&#39;s the Most Important Protocol You&#39;ve Never Implemented.](https://dev.to/pascal_cescato_692b7a8a20/stop-ignoring-rfc-2324-its-the-most-important-protocol-youve-never-implemented-53pe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
