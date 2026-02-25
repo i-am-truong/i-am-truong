@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [# How I Built a Web Editor That Turns AI-Generated Music Into Playable MIDI](https://dev.to/adams_watercolorli_4ad3/-how-i-built-a-web-editor-that-turns-ai-generated-music-into-playable-midi-12mp)
-- [7 Prompt Injection Attacks That Work on Most AI Chatbots &lpar;And How to Block Them&rpar;](https://dev.to/botguard/7-prompt-injection-attacks-that-work-on-most-ai-chatbots-and-how-to-block-them-3eji)
-- [Introducing me.txt](https://dev.to/rollsmorr/introducing-metxt-2ed7)
-- [Undefined vs Null in TypeScript: What’s the Difference?](https://dev.to/jefersoneiji/undefined-vs-null-in-typescript-whats-the-difference-cgp)
-- [That GitHub Repo Could Be a Backdoor — How Attackers Target Developers Through Fake Projects](https://dev.to/deepseax/that-github-repo-could-be-a-backdoor-how-attackers-target-developers-through-fake-projects-3chh)
+- [[Boost]](https://dev.to/anthonymax/-g41)
+- [SELENE: Why Women’s Healthcare AI Must Be Open, Local, and Privacy-First](https://dev.to/innacampo/selene-why-womens-healthcare-ai-must-be-open-local-and-privacy-first-3p3n)
+- [Prompt Budgeting: Ship Faster by Capping Tokens, Latency, and Chaos](https://dev.to/novaelvaris/prompt-budgeting-ship-faster-by-capping-tokens-latency-and-chaos-33oc)
+- [🇸🇬 Singapore devs: Add NRIC / FIN to the AI identity standard — Soulprint open source &lpar;30 min PR&rpar;](https://dev.to/manuel_felipeariaspined/singapore-devs-add-nric-fin-to-the-ai-identity-standard-soulprint-open-source-30-min-pr-4eal)
+- [From Web Table to Pandas DataFrame in 30 Seconds](https://dev.to/circobit/from-web-table-to-pandas-dataframe-in-30-seconds-53fk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
