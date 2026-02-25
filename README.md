@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [React Native Explained: From the Legacy Bridge to the New Architecture](https://dev.to/thatsmanmeet/react-native-explained-from-the-legacy-bridge-to-the-new-architecture-309b)
-- [I Built 14 Free Web Tools — Here&#39;s What I Learned](https://dev.to/fivebot2006/i-built-14-free-web-tools-heres-what-i-learned-55kl)
-- [🛡️ Cloud Networking Level 3: The Data Sovereignty Plan](https://dev.to/pilgrim2go/cloud-networking-level-3-the-data-sovereignty-plan-4ad0)
-- [🇨🇿 Česko devs: Add Rodné číslo to the AI identity standard — Soulprint open source &lpar;30 min PR&rpar;](https://dev.to/manuel_felipeariaspined/cesko-devs-add-rodne-cislo-to-the-ai-identity-standard-soulprint-open-source-30-min-pr-9i)
-- [Engineering Resilient Flutter Apps That Survive Backend Changes](https://dev.to/pravin_kunnure_f4663a859a/engineering-resilient-flutter-apps-that-survive-backend-changes-1p99)
+- [SEO Didn&#39;t Die. It Just Got Evicted From Its Own House.](https://dev.to/lizechengnet/seo-didnt-die-it-just-got-evicted-from-its-own-house-2kim)
+- [Rediscovering C++: Building a High-Performance Blog Engine in 2026](https://dev.to/vrannang1/rediscovering-c-building-a-high-performance-blog-engine-in-2026-3gf)
+- [Just learned the Power of Delegates in C#](https://dev.to/jjybaliguat/just-learned-the-power-of-delegates-in-c-4138)
+- [Anthropic Just Told You Who They Are. Believe Them.](https://dev.to/lizechengnet/anthropic-just-told-you-who-they-are-believe-them-4ffe)
+- [10 Practical AI Developer Workflows That Save Hours Every Week &lpar;With Code Examples&rpar;](https://dev.to/cloyouai/10-practical-ai-developer-workflows-that-save-hours-every-week-with-code-examples-2nb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
