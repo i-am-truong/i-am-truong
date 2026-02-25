@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Wild West of AI Agents: Why NIST is Stepping In](https://dev.to/alessandro_pignati/the-wild-west-of-ai-agents-why-nist-is-stepping-in-2lam)
-- [Why I Built a Recipe Finder That Starts With Your Pantry](https://dev.to/1ojn/why-i-built-a-recipe-finder-that-starts-with-your-pantry-2p3o)
-- [I Built 11 Web Apps in One Night Using AI](https://dev.to/curiouspilot/i-built-11-web-apps-in-one-night-using-ai-2mcj)
-- [SEO Is Not Dead — It’s Being Replaced by Agent Operability](https://dev.to/bridgeai/seo-is-not-dead-its-being-replaced-by-agent-operability-1mn8)
-- [Stop Treating Clawdbot &lpar;OpenClaw&rpar; Like a Plug-and-Play Solution](https://dev.to/yunsoft/stop-treating-clawdbot-openclaw-like-a-plug-and-play-solution-fo0)
+- [Built a lightweight Prometheus tool to rightsize CPU/RAM](https://dev.to/grachamba/built-a-lightweight-prometheus-tool-to-rightsize-cpuram-52di)
+- [I Built a Visual Desktop App for Claude Code — Here&#39;s What I Learned](https://dev.to/pilosdotnet/i-built-a-visual-desktop-app-for-claude-code-heres-what-i-learned-47be)
+- [How Modern Developers Are Adapting to AI-Driven Web Development](https://dev.to/prince_d62be3d6251d200476/how-modern-developers-are-adapting-to-ai-driven-web-development-5ffo)
+- [How Moving to MVC Changed the Way I Write Express Apps](https://dev.to/alireza_naseri_481e266dae/how-moving-to-mvc-changed-the-way-i-write-express-apps-3bdj)
+- [Unleashing the Power of APIs with GraphQL](https://dev.to/vjnvisakh/unleashing-the-power-of-apis-with-graphql-352h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
