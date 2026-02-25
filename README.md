@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I made our AI understand Sling’s data](https://dev.to/turinglovesdeathmetal/how-i-made-our-ai-understand-slings-data-3oaj)
-- [How to Boost Your OpenClaw Bot 10x 🦞](https://dev.to/anthonymax/how-to-boost-your-openclaw-bot-10x-35o7)
-- [J&#39;ai construit un conseiller gaming IA qui connaît vraiment votre collection](https://dev.to/e5k1m0/jai-construit-un-conseiller-gaming-ia-qui-connait-vraiment-votre-collection-5ho)
-- [I built an audit plugin to audit Claude Code plugins](https://dev.to/nestedcat/i-built-an-audit-plugin-to-audit-claude-code-plugins-2hlg)
-- [CQRS in .NET: Deep Analysis, Benefits, and Trade-Offs](https://dev.to/arthus15/cqrs-in-net-deep-analysis-benefits-and-trade-offs-47ka)
+- [How I Built a Design API for AI Agents as a Solo Dev](https://dev.to/mokyio/how-i-built-a-design-api-for-ai-agents-as-a-solo-dev-4o0e)
+- [Claude Code Plugin Cache](https://dev.to/wkusnierczyk/claude-code-plugin-cache-1dn)
+- [Traces Without Limits - Load a Million Spans with SigNoz](https://dev.to/ankit01oss/traces-without-limits-load-a-million-spans-with-signoz-5h1i)
+- [Provide shared file storage for the company offices](https://dev.to/rahimah_dev/provide-shared-file-storage-for-the-company-offices-g2d)
+- [Free voice to text software review - MurMur VT](https://dev.to/gorohov/free-voice-to-text-software-review-murmur-vt-5c6j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
