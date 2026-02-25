@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Put My Prompts on a Diet and Cut My LLM Bill by 72%](https://dev.to/lakshmisravyavedantham/i-put-my-prompts-on-a-diet-and-cut-my-llm-bill-by-72-2425)
-- [I Found an API Key I Deleted 18 Months Ago Still Living in My Git History](https://dev.to/lakshmisravyavedantham/i-found-an-api-key-i-deleted-18-months-ago-still-living-in-my-git-history-1328)
-- [I Built a Tool That Shows Exactly Where GPT-4 and Claude Disagree — The Results Were Surprising](https://dev.to/lakshmisravyavedantham/i-built-a-tool-that-shows-exactly-where-gpt-4-and-claude-disagree-the-results-were-surprising-2n65)
-- [I Built a Lie Detector for LLM Output — It Found 4 Functions That Don&#39;t Exist in My Codebase](https://dev.to/lakshmisravyavedantham/i-built-a-lie-detector-for-llm-output-it-found-4-functions-that-dont-exist-in-my-codebase-4204)
-- [I Ran My Git History Through a D&amp;D Alignment Test — It Called Me Chaotic Evil](https://dev.to/lakshmisravyavedantham/i-ran-my-git-history-through-a-dd-alignment-test-it-called-me-chaotic-evil-5fn9)
+- [How Javascript Works on browser ? complete guide](https://dev.to/harshkamoriya/how-javascript-works-on-browser-complete-guide-bfm)
+- [Things Are Moving Fast: Generative UI, MCP Apps, and the New Standards Race](https://dev.to/betodias/things-are-moving-fast-generative-ui-mcp-apps-and-the-new-standards-race-56bk)
+- [How AI Agents Can Verify Seller Policies Before Making Autonomous Purchases](https://dev.to/policycheck30035/how-ai-agents-can-verify-seller-policies-before-making-autonomous-purchases-2a56)
+- [Meet Semantic Components — A Modern Angular UI Library](https://dev.to/gridou/meet-semantic-components-a-modern-angular-ui-library-3352)
+- [Exposing services behing CGNAT | My home-Lab experience with Jio-Fiber](https://dev.to/jagadeesh0074/exposing-services-behing-cgnat-my-home-lab-experience-with-jio-fiber-2ed2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
