@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Built a lightweight Prometheus tool to rightsize CPU/RAM](https://dev.to/grachamba/built-a-lightweight-prometheus-tool-to-rightsize-cpuram-52di)
-- [I Built a Visual Desktop App for Claude Code — Here&#39;s What I Learned](https://dev.to/pilosdotnet/i-built-a-visual-desktop-app-for-claude-code-heres-what-i-learned-47be)
-- [How Modern Developers Are Adapting to AI-Driven Web Development](https://dev.to/prince_d62be3d6251d200476/how-modern-developers-are-adapting-to-ai-driven-web-development-5ffo)
-- [How Moving to MVC Changed the Way I Write Express Apps](https://dev.to/alireza_naseri_481e266dae/how-moving-to-mvc-changed-the-way-i-write-express-apps-3bdj)
-- [Unleashing the Power of APIs with GraphQL](https://dev.to/vjnvisakh/unleashing-the-power-of-apis-with-graphql-352h)
+- [How I made our AI understand Sling’s data](https://dev.to/turinglovesdeathmetal/how-i-made-our-ai-understand-slings-data-3oaj)
+- [How to Boost Your OpenClaw Bot 10x 🦞](https://dev.to/anthonymax/how-to-boost-your-openclaw-bot-10x-35o7)
+- [J&#39;ai construit un conseiller gaming IA qui connaît vraiment votre collection](https://dev.to/e5k1m0/jai-construit-un-conseiller-gaming-ia-qui-connait-vraiment-votre-collection-5ho)
+- [I built an audit plugin to audit Claude Code plugins](https://dev.to/nestedcat/i-built-an-audit-plugin-to-audit-claude-code-plugins-2hlg)
+- [CQRS in .NET: Deep Analysis, Benefits, and Trade-Offs](https://dev.to/arthus15/cqrs-in-net-deep-analysis-benefits-and-trade-offs-47ka)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
