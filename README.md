@@ -120,11 +120,22 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/anthonymax/-g41)
-- [SELENE: Why Women’s Healthcare AI Must Be Open, Local, and Privacy-First](https://dev.to/innacampo/selene-why-womens-healthcare-ai-must-be-open-local-and-privacy-first-3p3n)
-- [Prompt Budgeting: Ship Faster by Capping Tokens, Latency, and Chaos](https://dev.to/novaelvaris/prompt-budgeting-ship-faster-by-capping-tokens-latency-and-chaos-33oc)
-- [🇸🇬 Singapore devs: Add NRIC / FIN to the AI identity standard — Soulprint open source &lpar;30 min PR&rpar;](https://dev.to/manuel_felipeariaspined/singapore-devs-add-nric-fin-to-the-ai-identity-standard-soulprint-open-source-30-min-pr-4eal)
-- [From Web Table to Pandas DataFrame in 30 Seconds](https://dev.to/circobit/from-web-table-to-pandas-dataframe-in-30-seconds-53fk)
+- [⚡ React Native Tip #47
+
+Don&#39;t use console.log in production.
+
+Use react-native-logs instead:
+- Filter by level
+- Write to file
+- Send to crashlytics
+
+Your future debugging self will thank you.
+
+Save this](https://dev.to/adewebdeveloper/react-native-tip-47-dont-use-consolelog-in-production-use-react-native-logs-instead--1db5)
+- [Day 6: Trust as a Structure](https://dev.to/chitintrust/day-6-trust-as-a-structure-4odg)
+- [How I Added 6 Languages to a Next.js App in One Day](https://dev.to/ji_ai/how-i-added-6-languages-to-a-nextjs-app-in-one-day-37nc)
+- [LLM API 비용을 88% 줄인 방법](https://dev.to/ji_ai/llm-api-biyongeul-88-julin-bangbeob-1l5d)
+- [What is Subnet mask? And its Usage with examples in general &amp; on cloud implications.](https://dev.to/giridharan_devops/what-is-subnet-mask-and-its-usage-with-examples-in-general-on-cloud-implications-8mo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
