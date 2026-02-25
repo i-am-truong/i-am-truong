@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The 4-Part Structure That Makes AI Prompts Actually Work &lpar;With 5 Real Examples&rpar;](https://dev.to/chenyanchen/the-4-part-structure-that-makes-ai-prompts-actually-work-with-5-real-examples-oni)
-- [I Built a Crypto Trading Bot in Python — Here&#39;s the Whole Thing](https://dev.to/maymay5692/i-built-a-crypto-trading-bot-in-python-heres-the-whole-thing-4j6p)
-- [SEO in 2026 Is a Battle of Intent, Not Keywords &lpar;Here&#39;s What That Means for Devs&rpar;](https://dev.to/nr_djedidi_5a033361399c1/seo-in-2026-is-a-battle-of-intent-not-keywords-heres-what-that-means-for-devs-dj9)
-- [Building AI Agent Memory Architecture: A Deep Dive into LLM State Management for Power Users](https://dev.to/oblivionlabz/building-ai-agent-memory-architecture-a-deep-dive-into-llm-state-management-for-power-users-h8m)
-- [The Host Problem: Why Prompt Scanning Isn&#39;t Enough for AI Agent Security](https://dev.to/darbogach/the-host-problem-why-prompt-scanning-isnt-enough-for-ai-agent-security-2l60)
+- [The Wild West of AI Agents: Why NIST is Stepping In](https://dev.to/alessandro_pignati/the-wild-west-of-ai-agents-why-nist-is-stepping-in-2lam)
+- [Why I Built a Recipe Finder That Starts With Your Pantry](https://dev.to/1ojn/why-i-built-a-recipe-finder-that-starts-with-your-pantry-2p3o)
+- [I Built 11 Web Apps in One Night Using AI](https://dev.to/curiouspilot/i-built-11-web-apps-in-one-night-using-ai-2mcj)
+- [SEO Is Not Dead — It’s Being Replaced by Agent Operability](https://dev.to/bridgeai/seo-is-not-dead-its-being-replaced-by-agent-operability-1mn8)
+- [Stop Treating Clawdbot &lpar;OpenClaw&rpar; Like a Plug-and-Play Solution](https://dev.to/yunsoft/stop-treating-clawdbot-openclaw-like-a-plug-and-play-solution-fo0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
