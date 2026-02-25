@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Added Zero-Trust Guardrails to 4 MCP Servers Using AgentGateway — and Modernized Legacy COBOL Along the Way](https://dev.to/venkateshwar_raonagala_4/how-i-added-zero-trust-guardrails-to-4-mcp-servers-using-agentgateway-and-modernized-legacy-cobol-1fl8)
-- [Building Persistent Memory for AI Agents: A 4-Layer File-Based Architecture](https://dev.to/oblivionlabz/building-persistent-memory-for-ai-agents-a-4-layer-file-based-architecture-469j)
-- [Stop Writing CSS Selectors That Break - Extract Web Data with Plain English Using AI](https://dev.to/yukendiran_jayachandiran_/stop-writing-css-selectors-that-break-extract-web-data-with-plain-english-using-ai-3ckd)
-- [How We Built a Governance Loop for AI Coding Agents](https://dev.to/dttai71/how-we-built-a-governance-loop-for-ai-coding-agents-da8)
-- [Stop Ignoring RFC 2324. It&#39;s the Most Important Protocol You&#39;ve Never Implemented.](https://dev.to/pascal_cescato_692b7a8a20/stop-ignoring-rfc-2324-its-the-most-important-protocol-youve-never-implemented-53pe)
+- [Prompt Snippets and Auto-DRY Analysis for Voice Agent Graphs](https://dev.to/pld/prompt-snippets-and-auto-dry-analysis-for-voice-agent-graphs-1972)
+- [Building Persistent AI Agent Memory: A 4-Layer File-Based Architecture for Cross-Session Recall](https://dev.to/oblivionlabz/building-persistent-ai-agent-memory-a-4-layer-file-based-architecture-for-cross-session-recall-ffd)
+- [I Built a Reasonably Secure OpenClaw Box with Spare PC Parts, NixOS, and microVMs](https://dev.to/ryoooo/i-built-a-reasonably-secure-openclaw-box-with-spare-pc-parts-nixos-and-microvms-2177)
+- [Getting Started with Ent: Facebook’s Open-Source ORM for Go Developers](https://dev.to/jones_charles_ad50858dbc0/getting-started-with-ent-facebooks-open-source-orm-for-go-developers-1non)
+- [🇦🇹 Österreich devs: Add Personalausweis to the AI identity standard — Soulprint open source &lpar;30 min PR&rpar;](https://dev.to/manuel_felipeariaspined/osterreich-devs-add-personalausweis-to-the-ai-identity-standard-soulprint-open-source-30-min-12dd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
