@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Stopped Fighting My Logging Tools and Built an AI Co-Investigator](https://dev.to/moclei/i-stopped-fighting-my-logging-tools-and-built-an-ai-co-investigator-46ii)
-- [Generating self-Contained HTML Snapshots Without Puppeteer](https://dev.to/kcsujeet/generating-self-contained-html-snapshots-inlining-css-and-images-without-puppeteer-2ak7)
-- [The Developer I&#39;m Grateful I Never Became](https://dev.to/narnaiezzsshaa/the-developer-im-grateful-i-never-became-255d)
-- [Why Agent Testing is Broken](https://dev.to/dingomanhammer/why-agent-testing-is-broken-12a2)
-- [How defineModel simplifies v-model in custom Vue components](https://dev.to/olehhladkov/how-definemodel-simplifies-v-model-in-custom-vue-components-c23)
+- [Orchids as Cybersecurity, AI, and ML Systems: A Substrate-Layer Mapping](https://dev.to/narnaiezzsshaa/orchids-as-cybersecurity-ai-and-ml-systems-a-substrate-layer-mapping-5c4n)
+- [Conversational Development With Claude Code — Part 19: Course Summary — From Prompts to Contextual Engineering](https://dev.to/cristiansifuentes/conversational-development-with-claude-code-part-19-course-summary-from-prompts-to-contextual-nao)
+- [Aider + OpenClaw: How Autonomous Exploit Generators Rewrite the Rules of Security Research](https://dev.to/numbpill3d/aider-openclaw-how-autonomous-exploit-generators-rewrite-the-rules-of-security-research-32h5)
+- [Building a Personal Expense Tracker with OpenTelemetry and CI/CD](https://dev.to/davidgrath/building-a-personal-expense-tracker-with-opentelemetry-and-cicd-5865)
+- [CVE-2026-27822: RustFS &amp; The PDF Trojan: Anatomy of a Critical Stored XSS](https://dev.to/cverports/cve-2026-27822-rustfs-the-pdf-trojan-anatomy-of-a-critical-stored-xss-2lpk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
