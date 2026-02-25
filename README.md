@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Switching between files in Vim without fuzzy-finding everything](https://dev.to/vimtrickswiki/switching-between-files-in-vim-without-fuzzy-finding-everything-2hme)
-- [We gave an AI with only a subconscious $90 and a Bybit account](https://dev.to/rsdouglas/we-gave-an-ai-with-only-a-subconscious-90-and-a-bybit-account-5dio)
-- [Debugging the Job Search: Lessons from Germany’s 2026 Hiring Market](https://dev.to/abdulosman/debugging-the-job-search-lessons-from-germanys-2026-hiring-market-5902)
-- [Building Persistent Memory for AI Agents: A 4-Layer File-Based Architecture](https://dev.to/oblivionlabz/building-persistent-memory-for-ai-agents-a-4-layer-file-based-architecture-4pip)
-- [News Roundup: From AI crypto to 100% renewable energy](https://dev.to/shrinithi_v/news-roundup-from-ai-crypto-to-100-renewable-energy-59n9)
+- [The 4-Part Structure That Makes AI Prompts Actually Work &lpar;With 5 Real Examples&rpar;](https://dev.to/chenyanchen/the-4-part-structure-that-makes-ai-prompts-actually-work-with-5-real-examples-oni)
+- [I Built a Crypto Trading Bot in Python — Here&#39;s the Whole Thing](https://dev.to/maymay5692/i-built-a-crypto-trading-bot-in-python-heres-the-whole-thing-4j6p)
+- [SEO in 2026 Is a Battle of Intent, Not Keywords &lpar;Here&#39;s What That Means for Devs&rpar;](https://dev.to/nr_djedidi_5a033361399c1/seo-in-2026-is-a-battle-of-intent-not-keywords-heres-what-that-means-for-devs-dj9)
+- [Building AI Agent Memory Architecture: A Deep Dive into LLM State Management for Power Users](https://dev.to/oblivionlabz/building-ai-agent-memory-architecture-a-deep-dive-into-llm-state-management-for-power-users-h8m)
+- [The Host Problem: Why Prompt Scanning Isn&#39;t Enough for AI Agent Security](https://dev.to/darbogach/the-host-problem-why-prompt-scanning-isnt-enough-for-ai-agent-security-2l60)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
