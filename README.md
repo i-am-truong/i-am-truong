@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Designing a Content Distribution Engine in 10 Minutes](https://dev.to/signalfast/designing-a-content-distribution-engine-in-10-minutes-45hl)
-- [AWS who? Meet AAS](https://dev.to/aws-builders/aws-who-meet-aas-3b69)
-- [Gig Draft](https://dev.to/alan_liu_5a14fec35c7fcc0e/gig-draft-mfj)
-- [Event marketplace architecture for food trucks in Romania](https://dev.to/signalfast/event-marketplace-architecture-for-food-trucks-in-romania-p22)
-- [The Agent Skills Gold Rush Has a Malware Problem](https://dev.to/meimakes/the-agent-skills-gold-rush-has-a-malware-problem-2jai)
+- [Understanding importmap-rails](https://dev.to/railsdesigner/understanding-importmap-rails-1odo)
+- [You just need Postgres](https://dev.to/olucasandrade/you-just-need-postgres-2jf5)
+- [A Practical Guide to Running Claude for a Team Without Hitting Quotas](https://dev.to/nakul_tk/a-practical-guide-to-running-claude-for-a-team-without-hitting-quotas-4jd8)
+- [Can You Break an AI Guardrail? APort Vault Is Open — $6,500 on the Line](https://dev.to/uu/can-you-break-an-ai-guardrail-aport-vault-is-open-6500-on-the-line-260l)
+- [Maintaining truthful docs over time: how to keep security claims honest](https://dev.to/crisiscoresystems/maintaining-truthful-docs-over-time-how-to-keep-security-claims-honest-2778)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
