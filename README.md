@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Nano Banana 2: Combining Pro capabilities with lightning-fast speed](https://dev.to/googleai/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed-4fm1)
-- [I built a real-time audio pipeline from the browser to my server. Here&#39;s what actually works.](https://dev.to/flo152121063061/i-built-a-real-time-audio-pipeline-from-the-browser-to-my-server-heres-what-actually-works-5465)
-- [Check out what Harper is up to](https://dev.to/margo_hdb/-4mne)
-- [Seu primeiro sistema serverless com AWS Lambda](https://dev.to/aws/seu-primeiro-sistema-serverless-com-aws-lambda-7ai)
-- [I Made Tkinter Look Like a Modern Glassmorphic App — Here&#39;s the Dark Magic I Used](https://dev.to/benito_mallamaci_c902e934/i-made-tkinter-look-like-a-modern-glassmorphic-app-heres-the-dark-magic-i-used-3718)
+- [OpenClaw can do a lot, but it shouldn&#39;t have access to your tokens](https://dev.to/torresmateo/openclaw-can-do-a-lot-but-it-shouldnt-have-access-to-your-tokens-2343)
+- [I Built an MCP Server with 36 Developer Tools. Now Claude Does My Site Audits.](https://dev.to/bicibg/i-built-an-mcp-server-with-36-developer-tools-now-claude-does-my-site-audits-35lf)
+- [Use LeanVox TTS Directly from Claude, ChatGPT &amp; Cursor — No Code Required](https://dev.to/leanvox/use-leanvox-tts-directly-from-claude-chatgpt-cursor-no-code-required-29g)
+- [Component Level Conversion Attribution: How to Track Which Developer Built Elements Actually Drive Revenue](https://dev.to/jasonbiondo/component-level-conversion-attribution-how-to-track-which-developer-built-elements-actually-drive-n5c)
+- [**The Great AI in Cybersecurity Debate: Anomalous Activity D](https://dev.to/drcarlosruizviquez/the-great-ai-in-cybersecurity-debate-anomalous-activity-d-5fi6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
