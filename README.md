@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hide API Keys from Your Frontend — No Backend Required](https://dev.to/robleney/hide-api-keys-from-your-frontend-no-backend-required-nnb)
-- [The Agentic Software Factory: How AI Teams Debate, Code, and Secure Enterprise Infrastructure](https://dev.to/uenyioha/the-agentic-software-factory-how-ai-teams-debate-code-and-secure-enterprise-infrastructure-9eh)
-- [I Built a Production 4-Agent AI Stack on Local Hardware — Here&#39;s What I Learned](https://dev.to/aiengineeringat/i-built-a-production-4-agent-ai-stack-on-local-hardware-heres-what-i-learned-4o0e)
-- [Abstraction: Designing Systems That Don’t Collapse Under Complexity](https://dev.to/walternascimentobarroso/abstraction-designing-systems-that-dont-collapse-under-complexity-3h29)
-- [How we built a hybrid FTS5 + embedding search for code — and why you need both](https://dev.to/tofutim/how-we-built-a-hybrid-fts5-embedding-search-for-code-and-why-you-need-both-4ec2)
+- [ChatGPT에 \&quot;잘 물어보기\&quot;는 아마추어다](https://dev.to/ji_ai/chatgpte-jal-muleobogineun-amacueoda-35mi)
+- [\&quot;Ask ChatGPT nicely\&quot; is amateur hour](https://dev.to/ji_ai/ask-chatgpt-nicely-is-amateur-hour-54bm)
+- [Claude vs GPT vs Gemini — 칵테일해서 쓰는 법](https://dev.to/ji_ai/claude-vs-gpt-vs-gemini-kagteilhaeseo-sseuneun-beob-5gdb)
+- [Claude vs GPT vs Gemini — how to cocktail them like a pro](https://dev.to/ji_ai/claude-vs-gpt-vs-gemini-how-to-cocktail-them-like-a-pro-66k)
+- [LLM API 비용을 70% 줄이는 프로의 스킬 트리](https://dev.to/ji_ai/llm-api-biyongeul-70-julineun-peuroyi-seukil-teuri-2lj5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
