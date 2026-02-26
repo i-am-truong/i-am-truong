@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Thinking beyond the box, building inside constraints.](https://dev.to/vivek_ae4cbc77ec323c6a68a/thinking-beyond-the-box-building-inside-constraints-8b3)
-- [I Built a Free Tool to Extract Contacts from WhatsApp Groups](https://dev.to/mbhunt/i-built-a-free-tool-to-extract-contacts-from-whatsapp-groups-291h)
-- [How to Implement API Pagination in Node.js &lpar;2026 Guide&rpar;](https://dev.to/1xapi/how-to-implement-api-pagination-in-nodejs-2026-guide-550h)
-- [SQLite Opus — Web-Based SQLite Browser for Flask](https://dev.to/hungle00/sqlite-opus-web-based-sqlite-browser-for-flask-23ji)
-- [FSCSS Variable Fallback Operator &lpar;||&rpar;](https://dev.to/fscss-ttr/fscss-variable-fallback-operator--1gdb)
+- [Claude Code just dropped Remote Control — continue your terminal session from your phone](https://dev.to/bruceyao/claude-code-just-dropped-remote-control-continue-your-terminal-session-from-your-phone-4hc0)
+- [Secure Code Learning for Devs](https://dev.to/secdim/secure-code-learning-for-devs-5b6m)
+- [Remote Developer Jobs in 2026: What Actually Changed](https://dev.to/__be2942592/remote-developer-jobs-in-2026-what-actually-changed-2o48)
+- [This blog post was submitted to the Elastic Blogathon Contest and is eligible to win a prize.](https://dev.to/gaurav_navghare_69/this-blog-post-was-submitted-to-the-elastic-blogathon-contest-and-is-eligible-to-win-a-prize-23mm)
+- [I Built 5 Notion Systems That Run My Entire Dev Life](https://dev.to/__be2942592/i-built-5-notion-systems-that-run-my-entire-dev-life-1cek)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
