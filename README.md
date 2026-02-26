@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Antivirus for File Uploads: Add Virus and Malware Scan to Any App](https://dev.to/andreaswittig/antivirus-for-file-uploads-add-virus-and-malware-scan-to-any-app-5cnm)
-- [Sovereign Communities for Web3 Leaders A Strategic Pivot](https://dev.to/wevolv3_c2aea5159adf3b85f/sovereign-communities-for-web3-leaders-a-strategic-pivot-3jh5)
-- [AI Is Absolutely Production‑Ready — Just Not the Way We Keep Trying to Use It](https://dev.to/devengers/ai-is-absolutely-production-ready-just-not-the-way-we-keep-trying-to-use-it-283p)
-- [my first post](https://dev.to/leo606/my-first-post-5fke)
-- [CVE-2026-27735: Git Outta Here: Exfiltrating Secrets via CVE-2026-27735](https://dev.to/cverports/cve-2026-27735-git-outta-here-exfiltrating-secrets-via-cve-2026-27735-5dff)
+- [Advanced Azure Storage Security: Managed Identities, Key Vaults, and Immutability](https://dev.to/louis_oodo_a59b230b894609/advanced-azure-storage-security-managed-identities-key-vaults-and-immutability-37fe)
+- [How to Automate Meta Ads with Claude AI and MCP — Real Workflows, Real Results](https://dev.to/rupa_tiwari_dd308948d710f/how-to-automate-meta-ads-with-claude-ai-and-mcp-real-workflows-real-results-m9o)
+- [Anything API: Turn Any Browser Workflow into a Production-Ready API](https://dev.to/nottelabs/anything-api-turn-any-browser-workflow-into-a-production-ready-api-hnb)
+- [The Descent Through the Trust Stack](https://dev.to/narnaiezzsshaa/the-descent-through-the-trust-stack-2128)
+- [Mastering Alt Text Generation: A Comprehensive Guide for SEO and Accessibility](https://dev.to/proga100/mastering-alt-text-generation-a-comprehensive-guide-for-seo-and-accessibility-3leo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
