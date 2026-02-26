@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes&#39;te StorageClass Nedir?](https://dev.to/tarikanafarta/kuberneteste-storageclass-nedir-dha)
-- [Why is cdk.out &lpar;Cloud Assembly&rpar; Necessary in AWS CDK?](https://dev.to/aws-heroes/why-is-cdkout-cloud-assembly-necessary-in-aws-cdk-n5f)
-- [My Pixel&#39;s Keyboard Generated a Custom Emoji.](https://dev.to/megzlawther1/my-pixels-keyboard-generated-a-custom-emoji-42k)
-- [I Built and Launched an AI Document API in Under a Week — Here&#39;s Exactly How I Did It](https://dev.to/senzen/i-built-and-launched-an-ai-document-api-in-under-a-week-heres-exactly-how-i-did-it-4j8c)
-- [Why We Replaced Debezium + Kafka in Our Large-Scale Real-Time Pipeline](https://dev.to/heywalter/why-we-replaced-debezium-kafka-in-our-large-scale-real-time-pipeline-2dc1)
+- [The Token Economy](https://dev.to/dannwaneri/the-token-economy-3cd9)
+- [Stop Guessing If Your AI Agent Works: 3 Eval Patterns That Catch Failures First](https://dev.to/klement_gunndu/stop-guessing-if-your-ai-agent-works-3-eval-patterns-that-catch-failures-first-1paf)
+- [Does Increasing AWS Lambda Memory to 10GB Really Make It Faster? &lpar;AWS Lambda chDB/DuckDB PyIceberg Benchmark&rpar;](https://dev.to/datapenguin/does-increasing-aws-lambda-memory-to-10gb-really-make-it-faster-aws-lambda-chdbduckdb-pyiceberg-19j2)
+- [How I Built a Semgrep-Like Scanner for AI Agent Skills](https://dev.to/0x711/how-i-built-a-semgrep-like-scanner-for-ai-agent-skills-hgh)
+- [I built a native macOS companion app for Claude Code in a weekend](https://dev.to/leocardz/i-built-a-native-macos-companion-app-for-claude-code-in-a-weekend-2hcg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
