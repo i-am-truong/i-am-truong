@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Advanced Azure Storage Security: Managed Identities, Key Vaults, and Immutability](https://dev.to/louis_oodo_a59b230b894609/advanced-azure-storage-security-managed-identities-key-vaults-and-immutability-37fe)
-- [How to Automate Meta Ads with Claude AI and MCP — Real Workflows, Real Results](https://dev.to/rupa_tiwari_dd308948d710f/how-to-automate-meta-ads-with-claude-ai-and-mcp-real-workflows-real-results-m9o)
-- [Anything API: Turn Any Browser Workflow into a Production-Ready API](https://dev.to/nottelabs/anything-api-turn-any-browser-workflow-into-a-production-ready-api-hnb)
-- [The Descent Through the Trust Stack](https://dev.to/narnaiezzsshaa/the-descent-through-the-trust-stack-2128)
-- [Mastering Alt Text Generation: A Comprehensive Guide for SEO and Accessibility](https://dev.to/proga100/mastering-alt-text-generation-a-comprehensive-guide-for-seo-and-accessibility-3leo)
+- [I turned an old laptop into a NAS, here&#39;s what I learned.](https://dev.to/h8moss/i-turned-an-old-laptop-into-a-nas-heres-what-i-learned-5fj3)
+- [Azure Sentinel vs. Wazuh: SIEM Vergleich für KMU 2025](https://dev.to/rainyday_7139f53fa9f963fe/azure-sentinel-vs-wazuh-siem-vergleich-fur-kmu-2025-20ep)
+- [From HealthTech to Open Source: Building a sovereign web analytics engine in a single binary](https://dev.to/examo/from-healthtech-to-open-source-building-a-sovereign-web-analytics-engine-in-a-single-binary-4phm)
+- [15 Best MCP Gateways for Developers in 2026](https://dev.to/rebeccaws/15-best-mcp-gateways-for-developers-in-2026-4j9j)
+- [I Stopped Trying to Make AI Smarter. I Made My Code Dumber.](https://dev.to/matthewhou/i-stopped-trying-to-make-ai-smarter-i-made-my-code-dumber-4npa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
