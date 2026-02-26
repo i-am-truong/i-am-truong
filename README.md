@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Shadow AI to Enterprise Asset: A Seven-Layer Reference Architecture for Docker&#39;s AI Stack - The Deep Dive](https://dev.to/aldenweaver/from-shadow-ai-to-enterprise-asset-a-seven-layer-reference-architecture-for-dockers-ai-stack--39f7)
-- [Building a Personalized Meal Recommendation System](https://dev.to/albert_nahas_cdc8469a6ae8/building-a-personalized-meal-recommendation-system-1ec0)
-- [Animating SVG Icons with CSS and Framer Motion](https://dev.to/albert_nahas_cdc8469a6ae8/animating-svg-icons-with-css-and-framer-motion-1l15)
-- [Field Guide v0.1 is Live](https://dev.to/crisiscoresystems/field-guide-v01-is-live-3f0a)
-- [When “Just Calling a Function” Isn’t That Simple Anymore](https://dev.to/yceruto/when-just-calling-a-function-isnt-that-simple-anymore-4ppb)
+- [[AutoBe] We Built an AI That Writes Full Backend Apps — Then Broke Its 100% Success Rate on Purpose with Weak Local LLMs](https://dev.to/samchon/autobe-we-built-an-ai-that-writes-full-backend-apps-then-broke-its-100-success-rate-on-purpose-5757)
+- [How I Built a Plugin and Service for Claude Code Agent Teams](https://dev.to/_b6eedfa0c44fb8af59ed9/how-i-built-a-plugin-and-service-for-claude-code-agent-teams-1cn6)
+- [Quartz.NET in Production: Advanced Job Scheduling for High-Traffic .NET APIs](https://dev.to/boldsign/quartznet-in-production-advanced-job-scheduling-for-high-traffic-net-apis-30d2)
+- [WordPress Optimization Has an Architectural Blind Spot](https://dev.to/rushdev/wordpress-optimization-has-an-architectural-blind-spot-p1e)
+- [Solved: Feeling stuck at 10k$/month…](https://dev.to/techresolve/solved-feeling-stuck-at-10kmonth-2l3d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
