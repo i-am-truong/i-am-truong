@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CVE-2026-27465: Fleet&#39;s Open Secret: The Google Calendar Key Leak](https://dev.to/cverports/cve-2026-27465-fleets-open-secret-the-google-calendar-key-leak-53jb)
-- [Winner Announcement Delayed for Algolia Agent Studio Challenge and GitHub CLI Challenge](https://dev.to/devteam/winner-announcement-delayed-for-algolia-agent-studio-challenge-and-github-cli-challenge-53ac)
-- [Parallel Programming in Zig: Threads, Shared Memory, and Synchronization](https://dev.to/11110110011/parallel-programming-in-zig-threads-shared-memory-and-synchronization-2k21)
-- [Understanding LSTMs – Part 5: The Input Gate Explained](https://dev.to/rijultp/understanding-lstms-part-5-the-input-gate-explained-1mop)
-- [7 AI Agents, One Command, 50% Cheaper Claude Code.](https://dev.to/ar6420/7-ai-agents-one-command-50-cheaper-claude-code-1fdp)
+- [Duplicati vs Borgmatic: Which Backup Tool?](https://dev.to/selfhostingsh/duplicati-vs-borgmatic-which-backup-tool-bdd)
+- [I got tired of Googling pandas methods, so I built this](https://dev.to/ali_aldahmani/i-got-tired-of-googling-pandas-methods-so-i-built-this-35pn)
+- [Millions of Flow Cytometry Datasets Are Useless for AI — Here&#39;s Why, and What It Would Take to Fix It](https://dev.to/wcamon/millions-of-flow-cytometry-datasets-are-useless-for-ai-heres-why-and-what-it-would-take-to-fix-425i)
+- [Stop Writing Step Functions by Hand](https://dev.to/devnamedzed/stop-writing-step-functions-by-hand-4nog)
+- [Introducing PgBeam](https://dev.to/sferadev/introducing-pgbeam-3d55)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
