@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code just dropped Remote Control — continue your terminal session from your phone](https://dev.to/bruceyao/claude-code-just-dropped-remote-control-continue-your-terminal-session-from-your-phone-4hc0)
-- [Secure Code Learning for Devs](https://dev.to/secdim/secure-code-learning-for-devs-5b6m)
-- [Remote Developer Jobs in 2026: What Actually Changed](https://dev.to/__be2942592/remote-developer-jobs-in-2026-what-actually-changed-2o48)
-- [This blog post was submitted to the Elastic Blogathon Contest and is eligible to win a prize.](https://dev.to/gaurav_navghare_69/this-blog-post-was-submitted-to-the-elastic-blogathon-contest-and-is-eligible-to-win-a-prize-23mm)
-- [I Built 5 Notion Systems That Run My Entire Dev Life](https://dev.to/__be2942592/i-built-5-notion-systems-that-run-my-entire-dev-life-1cek)
+- [당신이 AI를 잘 못 쓰는 이유, 0.5초](https://dev.to/kiwibreaksme/dangsini-aireul-jal-mos-sseuneun-iyu-05co-4b0c)
+- [When the Reasoning Doesn&#39;t Survive](https://dev.to/john_wade_dev/when-the-reasoning-doesnt-survive-mnj)
+- [I Asked ChatGPT for a Project Idea. It Gave Me One. Then It Stole It.](https://dev.to/manyaa_fr/i-asked-chatgpt-for-a-project-idea-it-gave-me-one-then-it-stole-it-4bkn)
+- [From .NET to Cloud – AWS Engineer Journey &lpar;Day 2: Deep Dive into EC2&rpar;](https://dev.to/avinashwagh/from-net-to-cloud-aws-engineer-journey-day-2-deep-dive-into-ec2-kn7)
+- [Reducing Cognitive Load with Internal Developer Platforms on AWS](https://dev.to/cygnetone/reducing-cognitive-load-with-internal-developer-platforms-on-aws-34ih)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
