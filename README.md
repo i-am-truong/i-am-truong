@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I let AI build my entire side project from scratch. I just supervised.](https://dev.to/devhikun/i-let-ai-build-my-entire-side-project-from-scratch-i-just-supervised-2hjo)
-- [Register Today 🔥](https://dev.to/gateremark/-54gc)
-- [Clean UI Is Not a Brand Strategy](https://dev.to/pixel_mosaic/clean-ui-is-not-a-brand-strategy-1hme)
-- [We Built an AI Browser Because Comet Was Too Slow](https://dev.to/azeruddin_sheikh_f75230b5/we-built-an-ai-browser-because-comet-was-too-slow-pk8)
-- [tmux: a modern replacement for screen](https://dev.to/odmikes/tmux-a-modern-replacement-for-screen-271h)
+- [Kubernetes&#39;te StorageClass Nedir?](https://dev.to/tarikanafarta/kuberneteste-storageclass-nedir-dha)
+- [Why is cdk.out &lpar;Cloud Assembly&rpar; Necessary in AWS CDK?](https://dev.to/aws-heroes/why-is-cdkout-cloud-assembly-necessary-in-aws-cdk-n5f)
+- [My Pixel&#39;s Keyboard Generated a Custom Emoji.](https://dev.to/megzlawther1/my-pixels-keyboard-generated-a-custom-emoji-42k)
+- [I Built and Launched an AI Document API in Under a Week — Here&#39;s Exactly How I Did It](https://dev.to/senzen/i-built-and-launched-an-ai-document-api-in-under-a-week-heres-exactly-how-i-did-it-4j8c)
+- [Why We Replaced Debezium + Kafka in Our Large-Scale Real-Time Pipeline](https://dev.to/heywalter/why-we-replaced-debezium-kafka-in-our-large-scale-real-time-pipeline-2dc1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
