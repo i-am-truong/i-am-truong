@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[AutoBe] We Built an AI That Writes Full Backend Apps — Then Broke Its 100% Success Rate on Purpose with Weak Local LLMs](https://dev.to/samchon/autobe-we-built-an-ai-that-writes-full-backend-apps-then-broke-its-100-success-rate-on-purpose-5757)
-- [How I Built a Plugin and Service for Claude Code Agent Teams](https://dev.to/_b6eedfa0c44fb8af59ed9/how-i-built-a-plugin-and-service-for-claude-code-agent-teams-1cn6)
-- [Quartz.NET in Production: Advanced Job Scheduling for High-Traffic .NET APIs](https://dev.to/boldsign/quartznet-in-production-advanced-job-scheduling-for-high-traffic-net-apis-30d2)
-- [WordPress Optimization Has an Architectural Blind Spot](https://dev.to/rushdev/wordpress-optimization-has-an-architectural-blind-spot-p1e)
-- [Solved: Feeling stuck at 10k$/month…](https://dev.to/techresolve/solved-feeling-stuck-at-10kmonth-2l3d)
+- [We built an open-source tool that lets you click on UI bugs in the browser and have AI agents fix them automatically](https://dev.to/imon_cmar_1b6026c67d3771/we-built-an-open-source-tool-that-lets-you-click-on-ui-bugs-in-the-browser-and-have-ai-agents-fix-34b1)
+- [Vuetify 4 is Live Now](https://dev.to/rakesh_nakrani/vuetify-4-is-live-now-d15)
+- [Prompt Driven Development &lpar;PDD&rpar; A Manifesto Against Comfortable Guessing](https://dev.to/blame76/prompt-driven-development-pdda-manifesto-against-comfortable-guessing-4m4a)
+- [Will AI Replace You &lpar;Yes, You&rpar; in the Near Future?](https://dev.to/maximthomas/will-ai-replace-you-yes-you-in-the-near-future-2ppg)
+- [Spack: Package manager for MPI Cluster](https://dev.to/rohanbabbar04/spack-package-manager-for-mpi-cluster-13p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
