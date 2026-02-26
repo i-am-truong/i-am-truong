@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding importmap-rails](https://dev.to/railsdesigner/understanding-importmap-rails-1odo)
-- [You just need Postgres](https://dev.to/olucasandrade/you-just-need-postgres-2jf5)
-- [A Practical Guide to Running Claude for a Team Without Hitting Quotas](https://dev.to/nakul_tk/a-practical-guide-to-running-claude-for-a-team-without-hitting-quotas-4jd8)
-- [Can You Break an AI Guardrail? APort Vault Is Open — $6,500 on the Line](https://dev.to/uu/can-you-break-an-ai-guardrail-aport-vault-is-open-6500-on-the-line-260l)
-- [Maintaining truthful docs over time: how to keep security claims honest](https://dev.to/crisiscoresystems/maintaining-truthful-docs-over-time-how-to-keep-security-claims-honest-2778)
+- [I Built an AI Agent Monitoring System as a Non-Dev Side Project. Here&#39;s Why.](https://dev.to/sidhomein/i-built-an-ai-agent-monitoring-system-as-a-non-dev-side-project-heres-why-4jmg)
+- [&quot;Fuck You NVIDIA&quot; &lpar;and What I Learned Staring at a Blank Screen&rpar;](https://dev.to/workspacedex/fuck-you-nvidia-and-what-i-learned-staring-at-a-blank-screen-3g1g)
+- [I Ship Faster Than Ever. I&#39;ve Never Felt More Lost](https://dev.to/nicoeft/i-ship-faster-than-ever-ive-never-felt-more-lost-2mdn)
+- [Trash Theory: Ocean Colour Scene: The Original Dadrock Band [&quot;The Riverboat Song&quot;] | New British Canon](https://dev.to/music_youtube/trash-theory-ocean-colour-scene-the-original-dadrock-band-the-riverboat-song-new-british-27p2)
+- [Understanding Next.js Rewrites](https://dev.to/cole_ruche/understanding-nextjs-rewrites-234j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
