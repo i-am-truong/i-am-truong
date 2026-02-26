@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I turned an old laptop into a NAS, here&#39;s what I learned.](https://dev.to/h8moss/i-turned-an-old-laptop-into-a-nas-heres-what-i-learned-5fj3)
-- [Azure Sentinel vs. Wazuh: SIEM Vergleich für KMU 2025](https://dev.to/rainyday_7139f53fa9f963fe/azure-sentinel-vs-wazuh-siem-vergleich-fur-kmu-2025-20ep)
-- [From HealthTech to Open Source: Building a sovereign web analytics engine in a single binary](https://dev.to/examo/from-healthtech-to-open-source-building-a-sovereign-web-analytics-engine-in-a-single-binary-4phm)
-- [15 Best MCP Gateways for Developers in 2026](https://dev.to/rebeccaws/15-best-mcp-gateways-for-developers-in-2026-4j9j)
-- [I Stopped Trying to Make AI Smarter. I Made My Code Dumber.](https://dev.to/matthewhou/i-stopped-trying-to-make-ai-smarter-i-made-my-code-dumber-4npa)
+- [POST /items: Adding New Data to Your API with FastAPI &amp; Pydantic](https://dev.to/ghost_script/post-items-adding-new-data-to-your-api-with-fastapi-pydantic-12p4)
+- [A2A: How AI Agents Communicate](https://dev.to/alisterbaroi/a2a-how-ai-agents-communicate-35d5)
+- [Craft Web Theme Loader using ChatGPT 4](https://dev.to/zijianhuang/craft-web-theme-loader-using-chatgpt-4-5g04)
+- [Homelab Netzwerk mit VLANs absichern: Schritt-für-Schritt mit pfSense](https://dev.to/rainyday_7139f53fa9f963fe/homelab-netzwerk-mit-vlans-absichern-schritt-fur-schritt-mit-pfsense-26gg)
+- [IT Security Manager werden: Der realistische Karrierepfad 2025](https://dev.to/rainyday_7139f53fa9f963fe/it-security-manager-werden-der-realistische-karrierepfad-2025-1h29)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
