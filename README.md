@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Token Economy](https://dev.to/dannwaneri/the-token-economy-3cd9)
-- [Stop Guessing If Your AI Agent Works: 3 Eval Patterns That Catch Failures First](https://dev.to/klement_gunndu/stop-guessing-if-your-ai-agent-works-3-eval-patterns-that-catch-failures-first-1paf)
-- [Does Increasing AWS Lambda Memory to 10GB Really Make It Faster? &lpar;AWS Lambda chDB/DuckDB PyIceberg Benchmark&rpar;](https://dev.to/datapenguin/does-increasing-aws-lambda-memory-to-10gb-really-make-it-faster-aws-lambda-chdbduckdb-pyiceberg-19j2)
-- [How I Built a Semgrep-Like Scanner for AI Agent Skills](https://dev.to/0x711/how-i-built-a-semgrep-like-scanner-for-ai-agent-skills-hgh)
-- [I built a native macOS companion app for Claude Code in a weekend](https://dev.to/leocardz/i-built-a-native-macos-companion-app-for-claude-code-in-a-weekend-2hcg)
+- [AI Strategy vs Human Intuition: A Bug-Finding Showdown](https://dev.to/yurukusa/ai-strategy-vs-human-intuition-a-bug-finding-showdown-2m82)
+- [Stop Tabbing. Start Using Your Monitor](https://dev.to/nikola/stop-tabbing-start-using-your-monitor-59k7)
+- [Breaking the Memory Wall in .NET: The Buffer–Model Architecture](https://dev.to/thuangf45/breaking-the-memory-wall-in-net-the-buffer-model-architecture-4kal)
+- [A Step-by-Step Guide: SSH into Your Parallels Ubuntu VM from a Mac](https://dev.to/0xkoji/a-step-by-step-guide-ssh-into-your-parallels-ubuntu-vm-from-a-mac-1gd7)
+- [What Happens If Your Production Database Crashes?](https://dev.to/baqir_naqvi_41192fad7c962/what-happens-if-your-production-database-crashes-202h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
