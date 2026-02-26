@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Reverse proxy in Go](https://dev.to/lemper29/reverse-proxy-in-go-3g5f)
-- [Taming Prometheus Scrapes - Understanding and Analyzing Your Metrics Endpoints](https://dev.to/frosnerd/taming-prometheus-scrapes-understanding-and-analyzing-your-metrics-endpoints-ik5)
-- [From H-1B to Green Card: What Engineers Should Know About Self-Petition Timelines](https://dev.to/chisha_d5ceeffee4e27/from-h-1b-to-green-card-what-engineers-should-know-about-self-petition-timelines-4mmd)
-- [Solved: Critical RSC Vulnerability in Next.js &amp; React 19. Here&#39;s the Fix.](https://dev.to/techresolve/solved-critical-rsc-vulnerability-in-nextjs-react-19-heres-the-fix-3mlk)
-- [Best Open-Source ChatGPT Alternatives in 2026](https://dev.to/lightningdev123/best-open-source-chatgpt-alternatives-in-2026-53el)
+- [From Shadow AI to Enterprise Asset: A Seven-Layer Reference Architecture for Docker&#39;s AI Stack - The Deep Dive](https://dev.to/aldenweaver/from-shadow-ai-to-enterprise-asset-a-seven-layer-reference-architecture-for-dockers-ai-stack--39f7)
+- [Building a Personalized Meal Recommendation System](https://dev.to/albert_nahas_cdc8469a6ae8/building-a-personalized-meal-recommendation-system-1ec0)
+- [Animating SVG Icons with CSS and Framer Motion](https://dev.to/albert_nahas_cdc8469a6ae8/animating-svg-icons-with-css-and-framer-motion-1l15)
+- [Field Guide v0.1 is Live](https://dev.to/crisiscoresystems/field-guide-v01-is-live-3f0a)
+- [When “Just Calling a Function” Isn’t That Simple Anymore](https://dev.to/yceruto/when-just-calling-a-function-isnt-that-simple-anymore-4ppb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
