@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [We built an open-source tool that lets you click on UI bugs in the browser and have AI agents fix them automatically](https://dev.to/imon_cmar_1b6026c67d3771/we-built-an-open-source-tool-that-lets-you-click-on-ui-bugs-in-the-browser-and-have-ai-agents-fix-34b1)
-- [Vuetify 4 is Live Now](https://dev.to/rakesh_nakrani/vuetify-4-is-live-now-d15)
-- [Prompt Driven Development &lpar;PDD&rpar; A Manifesto Against Comfortable Guessing](https://dev.to/blame76/prompt-driven-development-pdda-manifesto-against-comfortable-guessing-4m4a)
-- [Will AI Replace You &lpar;Yes, You&rpar; in the Near Future?](https://dev.to/maximthomas/will-ai-replace-you-yes-you-in-the-near-future-2ppg)
-- [Spack: Package manager for MPI Cluster](https://dev.to/rohanbabbar04/spack-package-manager-for-mpi-cluster-13p)
+- [I let AI build my entire side project from scratch. I just supervised.](https://dev.to/devhikun/i-let-ai-build-my-entire-side-project-from-scratch-i-just-supervised-2hjo)
+- [Register Today 🔥](https://dev.to/gateremark/-54gc)
+- [Clean UI Is Not a Brand Strategy](https://dev.to/pixel_mosaic/clean-ui-is-not-a-brand-strategy-1hme)
+- [We Built an AI Browser Because Comet Was Too Slow](https://dev.to/azeruddin_sheikh_f75230b5/we-built-an-ai-browser-because-comet-was-too-slow-pk8)
+- [tmux: a modern replacement for screen](https://dev.to/odmikes/tmux-a-modern-replacement-for-screen-271h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
