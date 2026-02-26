@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Duplicati vs Borgmatic: Which Backup Tool?](https://dev.to/selfhostingsh/duplicati-vs-borgmatic-which-backup-tool-bdd)
-- [I got tired of Googling pandas methods, so I built this](https://dev.to/ali_aldahmani/i-got-tired-of-googling-pandas-methods-so-i-built-this-35pn)
-- [Millions of Flow Cytometry Datasets Are Useless for AI — Here&#39;s Why, and What It Would Take to Fix It](https://dev.to/wcamon/millions-of-flow-cytometry-datasets-are-useless-for-ai-heres-why-and-what-it-would-take-to-fix-425i)
-- [Stop Writing Step Functions by Hand](https://dev.to/devnamedzed/stop-writing-step-functions-by-hand-4nog)
-- [Introducing PgBeam](https://dev.to/sferadev/introducing-pgbeam-3d55)
+- [Nano Banana 2: Combining Pro capabilities with lightning-fast speed](https://dev.to/googleai/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed-4fm1)
+- [I built a real-time audio pipeline from the browser to my server. Here&#39;s what actually works.](https://dev.to/flo152121063061/i-built-a-real-time-audio-pipeline-from-the-browser-to-my-server-heres-what-actually-works-5465)
+- [Check out what Harper is up to](https://dev.to/margo_hdb/-4mne)
+- [Seu primeiro sistema serverless com AWS Lambda](https://dev.to/aws/seu-primeiro-sistema-serverless-com-aws-lambda-7ai)
+- [I Made Tkinter Look Like a Modern Glassmorphic App — Here&#39;s the Dark Magic I Used](https://dev.to/benito_mallamaci_c902e934/i-made-tkinter-look-like-a-modern-glassmorphic-app-heres-the-dark-magic-i-used-3718)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
