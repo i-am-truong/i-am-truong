@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Strategy vs Human Intuition: A Bug-Finding Showdown](https://dev.to/yurukusa/ai-strategy-vs-human-intuition-a-bug-finding-showdown-2m82)
-- [Stop Tabbing. Start Using Your Monitor](https://dev.to/nikola/stop-tabbing-start-using-your-monitor-59k7)
-- [Breaking the Memory Wall in .NET: The Buffer–Model Architecture](https://dev.to/thuangf45/breaking-the-memory-wall-in-net-the-buffer-model-architecture-4kal)
-- [A Step-by-Step Guide: SSH into Your Parallels Ubuntu VM from a Mac](https://dev.to/0xkoji/a-step-by-step-guide-ssh-into-your-parallels-ubuntu-vm-from-a-mac-1gd7)
-- [What Happens If Your Production Database Crashes?](https://dev.to/baqir_naqvi_41192fad7c962/what-happens-if-your-production-database-crashes-202h)
+- [Everything You Need to Know About Arrays in JavaScript](https://dev.to/vinayagam_6a170db9281d526/everything-you-need-to-know-about-arrays-in-javascript-1b2f)
+- [pop&lpar;&rpar; vs del in Python: Same Result, Completely Different Intent](https://dev.to/felipecezar01/pop-vs-del-in-python-same-result-completely-different-intent-21eb)
+- [My Developer Portfolio — Umer Azmi](https://dev.to/umerazmi/my-developer-portfolio-umer-azmi-4k2b)
+- [Give Your AG2 Agents a UI with AG‑UI and CopilotKit](https://dev.to/copilotkit/give-your-ag2-agents-a-ui-with-ag-ui-and-copilotkit-3kl5)
+- [I Built an Anonymous Confession App for Developers – Here&#39;s How](https://dev.to/getinfotoyou/i-built-an-anonymous-confession-app-for-developers-heres-how-10oa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
