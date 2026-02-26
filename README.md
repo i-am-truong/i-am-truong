@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Build Your Own AI Ops Assistant — Part 3: The AI Brain](https://dev.to/stephengoldberg/build-your-own-ai-ops-assistant-part-3-the-ai-brain-2dcm)
-- [How to Build and Test iOS Apps on a Physical Phone: Adding Internal Testers &lpar;Part 3/5&rpar;](https://dev.to/cathylai/how-to-build-and-test-ios-apps-on-a-physical-phone-testers-and-apple-testflight-part-35-eoo)
-- [CVE-2026-27795: The Chain Breaker: Bypassing LangChain&#39;s SSRF Guards](https://dev.to/cverports/cve-2026-27795-the-chain-breaker-bypassing-langchains-ssrf-guards-49fb)
-- [THE ORDER DOCTRINE // Operational Supremacy](https://dev.to/faripod/the-order-doctrine-operational-supremacy-336m)
-- [THE INTERROGATION PROTOCOL // Developer Intelligence in the Age of AI](https://dev.to/faripod/the-interrogation-protocol-developer-intelligence-in-the-age-of-ai-4mh1)
+- [Thinking beyond the box, building inside constraints.](https://dev.to/vivek_ae4cbc77ec323c6a68a/thinking-beyond-the-box-building-inside-constraints-8b3)
+- [I Built a Free Tool to Extract Contacts from WhatsApp Groups](https://dev.to/mbhunt/i-built-a-free-tool-to-extract-contacts-from-whatsapp-groups-291h)
+- [How to Implement API Pagination in Node.js &lpar;2026 Guide&rpar;](https://dev.to/1xapi/how-to-implement-api-pagination-in-nodejs-2026-guide-550h)
+- [SQLite Opus — Web-Based SQLite Browser for Flask](https://dev.to/hungle00/sqlite-opus-web-based-sqlite-browser-for-flask-23ji)
+- [FSCSS Variable Fallback Operator &lpar;||&rpar;](https://dev.to/fscss-ttr/fscss-variable-fallback-operator--1gdb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
