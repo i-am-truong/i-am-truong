@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [OpenClaw can do a lot, but it shouldn&#39;t have access to your tokens](https://dev.to/torresmateo/openclaw-can-do-a-lot-but-it-shouldnt-have-access-to-your-tokens-2343)
-- [I Built an MCP Server with 36 Developer Tools. Now Claude Does My Site Audits.](https://dev.to/bicibg/i-built-an-mcp-server-with-36-developer-tools-now-claude-does-my-site-audits-35lf)
-- [Use LeanVox TTS Directly from Claude, ChatGPT &amp; Cursor — No Code Required](https://dev.to/leanvox/use-leanvox-tts-directly-from-claude-chatgpt-cursor-no-code-required-29g)
-- [Component Level Conversion Attribution: How to Track Which Developer Built Elements Actually Drive Revenue](https://dev.to/jasonbiondo/component-level-conversion-attribution-how-to-track-which-developer-built-elements-actually-drive-n5c)
-- [**The Great AI in Cybersecurity Debate: Anomalous Activity D](https://dev.to/drcarlosruizviquez/the-great-ai-in-cybersecurity-debate-anomalous-activity-d-5fi6)
+- [Generators in the Age of AI &lpar;Saving 4 Person-Years&rpar;](https://dev.to/grant_biggert/generators-in-the-age-of-ai-saving-4-person-years-3ae2)
+- [CVE-2026-22728: The Old Switcheroo: Unsealing Secrets via Metadata Manipulation in Bitnami Sealed Secrets](https://dev.to/cverports/cve-2026-22728-the-old-switcheroo-unsealing-secrets-via-metadata-manipulation-in-bitnami-sealed-4jcc)
+- [When AI Refactors Break Layering &lpar;And How to Prevent It&rpar;](https://dev.to/dbrown/when-ai-refactors-break-layering-and-how-to-prevent-it-k)
+- [The Curse of Context Window](https://dev.to/deathsaber/the-curse-of-context-window-1c7i)
+- [Preview Deployments with Firebase Hosting &amp; GitHub Actions](https://dev.to/ozantunca/preview-deployments-with-firebase-hosting-github-actions-27ag)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
