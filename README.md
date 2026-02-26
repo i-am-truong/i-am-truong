@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT에 \&quot;잘 물어보기\&quot;는 아마추어다](https://dev.to/ji_ai/chatgpte-jal-muleobogineun-amacueoda-35mi)
-- [\&quot;Ask ChatGPT nicely\&quot; is amateur hour](https://dev.to/ji_ai/ask-chatgpt-nicely-is-amateur-hour-54bm)
-- [Claude vs GPT vs Gemini — 칵테일해서 쓰는 법](https://dev.to/ji_ai/claude-vs-gpt-vs-gemini-kagteilhaeseo-sseuneun-beob-5gdb)
-- [Claude vs GPT vs Gemini — how to cocktail them like a pro](https://dev.to/ji_ai/claude-vs-gpt-vs-gemini-how-to-cocktail-them-like-a-pro-66k)
-- [LLM API 비용을 70% 줄이는 프로의 스킬 트리](https://dev.to/ji_ai/llm-api-biyongeul-70-julineun-peuroyi-seukil-teuri-2lj5)
+- [Reverse proxy in Go](https://dev.to/lemper29/reverse-proxy-in-go-3g5f)
+- [Taming Prometheus Scrapes - Understanding and Analyzing Your Metrics Endpoints](https://dev.to/frosnerd/taming-prometheus-scrapes-understanding-and-analyzing-your-metrics-endpoints-ik5)
+- [From H-1B to Green Card: What Engineers Should Know About Self-Petition Timelines](https://dev.to/chisha_d5ceeffee4e27/from-h-1b-to-green-card-what-engineers-should-know-about-self-petition-timelines-4mmd)
+- [Solved: Critical RSC Vulnerability in Next.js &amp; React 19. Here&#39;s the Fix.](https://dev.to/techresolve/solved-critical-rsc-vulnerability-in-nextjs-react-19-heres-the-fix-3mlk)
+- [Best Open-Source ChatGPT Alternatives in 2026](https://dev.to/lightningdev123/best-open-source-chatgpt-alternatives-in-2026-53el)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
