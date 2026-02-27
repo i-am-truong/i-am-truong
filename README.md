@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Ways to Call Java from C# — Honest Comparison from Someone Who Does This Daily](https://dev.to/jnbridge/5-ways-to-call-java-from-c-honest-comparison-from-someone-who-does-this-daily-4i87)
+- [How We’re Surviving 20+ Domains and 100+ SQL Tables While Migrating Our Legacy .NET Backend to GraphQL](https://dev.to/ujja/how-were-surviving-20-domains-and-100-sql-tables-while-migrating-our-legacy-net-backend-to-e38)
 - [Beyond Prompt Engineering: Why Your AI Architecture Is Leaking Tokens &lpar;And How to Fix It with FMCF&rpar;](https://dev.to/chrismichaelps/beyond-prompt-engineering-why-your-ai-architecture-is-leaking-tokens-and-how-to-fix-it-with-fmcf-5kb)
 - [MCP Has a Supply Chain Problem](https://dev.to/0x711/mcp-has-a-supply-chain-problem-1nb8)
 - [Why Does Contributing to Open Source Require Permanent Identity?](https://dev.to/livrasand/why-does-contributing-to-open-source-require-permanent-identity-emp)
-- [Key Signals for Identifying Trend Momentum Turning Points: Breakout Measured Moves, Range Contraction, and Pattern Compr](https://dev.to/victorjia/key-signals-for-identifying-trend-momentum-turning-points-breakout-measured-moves-range-2cp8)
-- [MOSSDeF packages update](https://dev.to/stangri/mossdef-packages-update-2m0e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
