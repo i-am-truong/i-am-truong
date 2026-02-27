@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Drupal MCP Toolkit: Four Modules for Agent-Driven Site Management](https://dev.to/victorstackai/drupal-mcp-toolkit-four-modules-for-agent-driven-site-management-4c75)
-- [I built a testimonial collection tool — here&#39;s what I learned](https://dev.to/trustwallapp/i-built-a-testimonial-collection-tool-heres-what-i-learned-1b59)
-- [So many types of social engineering hacks, targeting web3 developers 💀](https://dev.to/wildanzr/so-many-types-of-social-engineering-hacks-targeting-web3-developers-21cn)
-- [How I Added Screenshare Sound Notifications to an Open Source Chat App](https://dev.to/orjinameh/how-i-added-screenshare-sound-notifications-to-an-open-source-chat-app-286b)
-- [From Relational Algebra to Document Semantics](https://dev.to/franckpachot/from-relational-algebra-to-document-semantics-b00)
+- [Why I Bundled My Small JavaScript Calculators Into One Practical Kit](https://dev.to/yuvronixstudio/why-i-bundled-my-small-javascript-calculators-into-one-practical-kit-56b4)
+- [Predicting Your AI Agent&#39;s Cost](https://dev.to/aws/predicting-your-ai-agents-cost-6m9)
+- [I Built a Fake Market Detector Using DEX Trade Fees](https://dev.to/boba_bobo_c54aa2b42146177/i-built-a-fake-market-detector-using-dex-trade-fees-1loc)
+- [##Dataguard: A Multiagentic Pipeline for ML](https://dev.to/nikhil_ramank_152ca48266/dataguard-a-multiagentic-pipeline-for-ml-1ik5)
+- [Triage-Relay](https://dev.to/juan_camiloauriti_646918/triage-relay-3gm3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
