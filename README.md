@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [PCI-DSS 4.0 Tagging Requirements: A Practical Implementation Guide](https://dev.to/mark_rayhshtat_b33ccde07a/pci-dss-40-tagging-requirements-a-practical-implementation-guide-48a6)
-- [I ship a lot of API/webhook integrations. Here’s how I make them NOT hurt in production 🔥](https://dev.to/amals367/i-ship-a-lot-of-apiwebhook-integrations-heres-how-i-make-them-not-hurt-in-production-50hb)
-- [Dependency Injection Basics in C#](https://dev.to/allcoderthings/dependency-injection-basics-in-c-17mn)
-- [How to Integrate bKash Payment Gateway in Python &lpar;The Easy Way&rpar;](https://dev.to/itsmmdoha/how-to-integrate-bkash-payment-gateway-in-python-the-easy-way-1997)
-- [From Java to Kotlin: How Would You Rewrite This Class?](https://dev.to/felipecezar01/from-java-to-kotlin-how-would-you-rewrite-this-class-kmh)
+- [From Code Dreams to AI Reality: Building MarketPulse with Google Gemini](https://dev.to/aniruddhaadak/from-code-dreams-to-ai-reality-building-marketpulse-with-google-gemini-2hmf)
+- [Part 4: Decoupled Architecture](https://dev.to/jumptotech/part-4-decoupled-architecture-2i0c)
+- [CodeShare Hub: Building a Community-First Code Snippet Platform](https://dev.to/aniruddhaadak/codeshare-hub-building-a-community-first-code-snippet-platform-25il)
+- [Distributed Rate Limiting — Five Problems That Break Your Counters](https://dev.to/saumya_karnwal/distributed-rate-limiting-five-problems-that-break-your-counters-454)
+- [Your AI Agents Are Ungovernable &lpar;And You Don&#39;t Even Know It&rpar;](https://dev.to/jabbath3hutt/your-ai-agents-are-ungovernable-and-you-dont-even-know-it-28l8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
