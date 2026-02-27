@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [rule-porter: Convert Cursor rules to CLAUDE.md, AGENTS.md, and Copilot](https://dev.to/nedcodes/rule-porter-convert-cursor-rules-to-claudemd-agentsmd-and-copilot-4hjc)
+- [MongoDB didn&#39;t start because of File permission issue](https://dev.to/ralvaracode/mongodb-didnt-start-because-of-file-permission-issue-19i5)
+- [Showcase Your Credly Certifications in Your GitHub README](https://dev.to/ebenezer-isaac/showcase-your-credly-certifications-in-your-github-readme-32f3)
+- [7 MongoDB indexing strategies to speed up your queries](https://dev.to/finny_collins/7-mongodb-indexing-strategies-to-speed-up-your-queries-528b)
 - [DevOps and Vibe Coding: A Journey](https://dev.to/camb/devops-and-vibe-coding-a-journey-3e3l)
-- [Torc Bot 3: Torclation Services](https://dev.to/j3ffjessie/torc-bot-3-torclation-services-3m8k)
-- [I Built a RAG Agent From Scratch — Here&#39;s What I Actually Learned](https://dev.to/familyguyfg/i-built-a-rag-agent-from-scratch-heres-what-i-actually-learned-4fhp)
-- [OpenAI just raised $110 billion. Wow](https://dev.to/ben/openai-just-raised-110-billion-wow-5fci)
-- [Small Thing, Big Impact](https://dev.to/kiolk/small-thing-big-impact-ol7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
