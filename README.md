@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [승률 44%인데 돈을 번다고?](https://dev.to/ji_ai/seungryul-44inde-doneul-beondago-26p3)
-- [44% Win Rate and Still Profitable?](https://dev.to/ji_ai/44-win-rate-and-still-profitable-2i14)
-- [OpenClaw: The AI Agent That Actually Does Stuff - Part 2 - Building a Real Bot](https://dev.to/shresthapandey/openclaw-the-ai-agent-that-actually-does-stuff-part-2-building-a-real-bot-26n7)
-- [When More Examples Make Your LLM Worse: Discovering Few-Shot Collapse](https://dev.to/shuntarookuma/when-more-examples-make-your-llm-worse-discovering-few-shot-collapse-106i)
-- [I Read 9,000 Lines of a Stranger&#39;s Mergetool](https://dev.to/ticktockbent/i-read-9000-lines-of-a-strangers-mergetool-5bf0)
+- [Drupal MCP Toolkit: Four Modules for Agent-Driven Site Management](https://dev.to/victorstackai/drupal-mcp-toolkit-four-modules-for-agent-driven-site-management-4c75)
+- [I built a testimonial collection tool — here&#39;s what I learned](https://dev.to/trustwallapp/i-built-a-testimonial-collection-tool-heres-what-i-learned-1b59)
+- [So many types of social engineering hacks, targeting web3 developers 💀](https://dev.to/wildanzr/so-many-types-of-social-engineering-hacks-targeting-web3-developers-21cn)
+- [How I Added Screenshare Sound Notifications to an Open Source Chat App](https://dev.to/orjinameh/how-i-added-screenshare-sound-notifications-to-an-open-source-chat-app-286b)
+- [From Relational Algebra to Document Semantics](https://dev.to/franckpachot/from-relational-algebra-to-document-semantics-b00)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
