@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Build an Agent Skill: A Practical Guide](https://dev.to/smakosh/how-to-build-an-agent-skill-a-practical-guide-l61)
-- [What is LLM Orchestration? A Complete Guide](https://dev.to/pranay_batta/what-is-llm-orchestration-a-complete-guide-fc4)
-- [Ladybird Browser Rust Migration: AI-Assisted Porting Risks](https://dev.to/maverickjkp/ladybird-browser-rust-migration-ai-assisted-porting-risks-k83)
-- [Age Verification&#39;s Surveillance Trap: What the IEEE Analysis Found](https://dev.to/maverickjkp/age-verifications-surveillance-trap-what-the-ieee-analysis-found-1l2f)
-- [Embedding Memory into Claude Code: From Session Loss to Persistent Context](https://dev.to/shimo4228/embedding-memory-into-claude-code-from-session-loss-to-persistent-context-54d8)
+- [Why Real-Time Analytics Can’t Depend on Cloud in 2026](https://dev.to/actiandev/why-real-time-analytics-cant-depend-on-cloud-in-2026-1paj)
+- [How to share passwords and API keys without getting burned](https://dev.to/_c6d7a3af717510af83/how-to-share-passwords-and-api-keys-without-getting-burned-45dl)
+- [One Method to Test Them All](https://dev.to/stepan_romankov/one-method-to-test-them-all-3j54)
+- [CVE-2026-22769: Dell RecoverPoint Zero-Day Exploited by China Since 2024 — CVSS 10.0](https://dev.to/deepseax/cve-2026-22769-dell-recoverpoint-zero-day-exploited-by-china-since-2024-cvss-100-1n55)
+- [Why Embedded Systems Deserve Their Own Machine Learning Library](https://dev.to/hejhdiss/why-embedded-systems-deserve-their-own-machine-learning-library-3830)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
