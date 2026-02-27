@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Sockpuppetting: Jailbreak Most Open-Weight LLMs With One Line of Code](https://dev.to/kienmarkdo/sockpuppetting-jailbreak-most-open-weight-llms-with-one-line-of-code-3nfb)
-- [Is Laravel AI Development a Future-Proof Choice in 2026?](https://dev.to/laracopilot/is-laravel-ai-development-a-future-proof-choice-in-2026-ppj)
-- [Text-to-SQL Finally Gets Real: DySQL-Bench, BibSQL, DLBench Fix the &#39;Perfect Query&#39; Myth](https://dev.to/rebooter_s/text-to-sql-finally-gets-real-dysql-bench-bibsql-dlbench-fix-the-perfect-query-myth-3oc1)
-- [Wiring Claude Into Real Systems With Tool Use](https://dev.to/prabhatkjena/wiring-claude-into-real-systems-with-tool-use-2i86)
-- [Prompt Architecture for a Reliable AI Dungeon Master](https://dev.to/austin_amento_860aebb9f55/prompt-architecture-for-a-reliable-ai-dungeon-master-d99)
+- [How to add 8 AI tools to your agent in one API call &lpar;MCP format&rpar;](https://dev.to/phani_avagaddi/how-to-add-8-ai-tools-to-your-agent-in-one-api-call-mcp-format-3788)
+- [Localizing Dates in Go Templates: A Deep Dive](https://dev.to/geanruca/localizing-dates-in-go-templates-a-deep-dive-3p1p)
+- [The Scripted Middle Tier Is Reaching Its Limits What Comes Next Is Agentic](https://dev.to/sreeni5018/the-scripted-middle-tier-is-reaching-its-limits-what-comes-next-is-agentic-2f86)
+- [Your Resume Passed ATS — So Why Are You Still Getting Ghosted?](https://dev.to/sira_ai/your-resume-passed-ats-so-why-are-you-still-getting-ghosted-idl)
+- [Crawled 3,000,000 URLs and broke Vercel](https://dev.to/kashewknutt/crawled-3000000-urls-and-broke-vercel-33al)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
