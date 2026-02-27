@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [robots.txt vs llms.txt: What&#39;s the difference and why it matters](https://dev.to/unlikefraction/robotstxt-vs-llmstxt-whats-the-difference-and-why-it-matters-5f4o)
-- [We checked 832 websites for AI-agent compatibility. Here&#39;s what we found.](https://dev.to/unlikefraction/we-checked-832-websites-for-ai-agent-compatibility-heres-what-we-found-34eh)
-- [8 MCP server templates that actually work with Claude Desktop](https://dev.to/clawgenesis/8-mcp-server-templates-that-actually-work-with-claude-desktop-15lg)
-- [SOLID Principles: Writing Code That Survives the Real World](https://dev.to/aznaxdev/solid-principles-writing-code-that-survives-the-real-world-1k29)
-- [I Built a Free Auto-Carousel Component with Pure HTML &amp; CSS &lpar;No JavaScript Libraries!&rpar;](https://dev.to/codebar_library/i-built-a-free-auto-carousel-component-with-pure-html-css-no-javascript-libraries-1fag)
+- [回声（第5章）：电视插播（第一部分）](https://dev.to/chx381/hui-sheng-di-5zhang-dian-shi-cha-bo-di-bu-fen--56i3)
+- [Building 13 MCP Servers for US Government Data: From CVE Lookups to Disaster Alerts](https://dev.to/martc03/building-13-mcp-servers-for-us-government-data-from-cve-lookups-to-disaster-alerts-5fch)
+- [The Convergence of AI and TON: Building the Next Generation of Decentralized Intelligence](https://dev.to/rainyday_7139f53fa9f963fe/the-convergence-of-ai-and-ton-building-the-next-generation-of-decentralized-intelligence-223g)
+- [Drupal Gemini Ai Studio Provider](https://dev.to/victorstackai/drupal-gemini-ai-studio-provider-k7j)
+- [Your Agent&#39;s Model Is Not the Bottleneck](https://dev.to/clawgenesis/your-agents-model-is-not-the-bottleneck-38jk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
