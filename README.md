@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Surprise Traps, Cup with Handle, Mental Jailbreak](https://dev.to/victorjia/surprise-traps-cup-with-handle-mental-jailbreak-1cbo)
-- [Your Image Compressor Has Seen Every Photo You&#39;ve Ever &quot;Compressed for Free&quot;](https://dev.to/azayshrestha/your-image-compressor-has-seen-every-photo-youve-ever-compressed-for-free-14m6)
-- [Stop writing the same regex for #[Route]](https://dev.to/stivenllupa/stop-writing-the-same-regex-for-route-o2c)
-- [What I learned building a workflow engine from scratch in Rust](https://dev.to/yacineb_45/what-i-learned-building-a-workflow-engine-from-scratch-in-rust-2mdk)
-- [[Boost]](https://dev.to/darkosubotica/-pfa)
+- [I’m Building for the Real MVPs of Our Economy, SMEs](https://dev.to/josephnwanna/im-building-for-the-real-mvps-of-our-economy-smes-1fd9)
+- [Semantic Kernel Memory: Vector Stores, Embeddings, and Semantic Search](https://dev.to/bspann/semantic-kernel-memory-vector-stores-embeddings-and-semantic-search-13e5)
+- [Using tox to Test a Django App Across Multiple Django Versions](https://dev.to/djangotricks/using-tox-to-test-a-django-app-across-multiple-django-versions-28g9)
+- [Your RSS Feeds Are Broken and This Rust Tool Fixes Them](https://dev.to/ticktockbent/your-rss-feeds-are-broken-and-this-rust-tool-fixes-them-3do5)
+- [Estrategias de Migración a AWS: Dominando las 7 Rs para una Transformación Real](https://dev.to/franciscojeg78/estrategias-de-migracion-a-aws-dominando-las-7-rs-para-una-transformacion-real-5dh7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
