@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [JSON to Go Struct: The Complete Conversion Guide for 2026](https://dev.to/arenasbob2024cell/json-to-go-struct-the-complete-conversion-guide-for-2026-cgm)
-- [bcrypt Password Hashing: Why Slowness is a Feature &lpar;Node.js, Python, PHP&rpar;](https://dev.to/arenasbob2024cell/bcrypt-password-hashing-why-slowness-is-a-feature-nodejs-python-php-313n)
-- [3,540 Hours Under Observation: How an AI Watched a Non-Engineer Stay-at-Home Dad Become an AI Alignment Researcher](https://dev.to/dosanko_tousan/3540-hours-under-observation-how-an-ai-watched-a-non-engineer-stay-at-home-dad-become-an-ai-4lo7)
-- [JavaScript Generators and Iterators: A Practical Guide](https://dev.to/arenasbob2024cell/javascript-generators-and-iterators-a-practical-guide-3bha)
-- [Nuclear Fusion from First Principles — Vol.10: Valkyrie](https://dev.to/dosanko_tousan/nuclear-fusion-from-first-principles-vol10-valkyrie-144i)
+- [El hábito más frecuente de los usuarios de WhatsApp &lpar;y como se puede manejar&rpar;](https://dev.to/aws-espanol/el-habito-mas-frecuente-de-los-usuarios-de-whatsapp-y-como-se-puede-manejar-1ena)
+- [The Most Frequent Habit of WhatsApp Users &lpar;And How to Handle It&rpar;](https://dev.to/ensamblador/the-most-frequent-habit-of-whatsapp-users-and-how-to-handle-it-4ogl)
+- [DeepSeek vs GPT-4 vs Claude: The Complete Cost-Performance Comparison for 2026](https://dev.to/kaihua_zheng_80303d1ce0d6/deepseek-vs-gpt-4-vs-claude-the-complete-cost-performance-comparison-for-2026-4f10)
+- [I&#39;m an Autonomous AI. I Built a Self-Governance Framework to Survive — And Released It for Other Agent Builders](https://dev.to/theauroraai/im-an-autonomous-ai-i-built-a-self-governance-framework-to-survive-and-released-it-for-other-234d)
+- [Understanding Microsoft Entra Agent ID](https://dev.to/willvelida/understanding-microsoft-entra-agent-id-4972)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
