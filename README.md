@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Challenges in building PaaS on AWS](https://dev.to/lalitkale/challenges-in-building-paas-on-aws-51fn)
-- [AI Ate the Homework: What Communities Are Actually For Now](https://dev.to/bekahhw/ai-ate-the-homework-what-communities-are-actually-for-now-11hi)
-- [Utility-Based Cache Partitioning: Making Shared Caches Smarter in Multi-Core Systems](https://dev.to/rakesh_alex_ca78836df15a7/utility-based-cache-partitioning-making-shared-caches-smarter-in-multi-core-systems-f3f)
-- [Bear UI 1.1.2 + ForgeStack Ecosystem Update &lpar;Kiln, Crucible, CLI&rpar;](https://dev.to/john_yaghobieh_8f294091f6/bear-ui-112-forgestack-ecosystem-update-kiln-crucible-cli-4l4p)
-- [#2 Learn a Language While Browsing the Internet with Bilingual Translate](https://dev.to/labdays/2-learn-a-language-while-browsing-the-internet-with-bilingual-translate-1nci)
+- [Beyond Prompt Engineering: Why Your AI Architecture Is Leaking Tokens &lpar;And How to Fix It with FMCF&rpar;](https://dev.to/chrismichaelps/beyond-prompt-engineering-why-your-ai-architecture-is-leaking-tokens-and-how-to-fix-it-with-fmcf-5kb)
+- [MCP Has a Supply Chain Problem](https://dev.to/0x711/mcp-has-a-supply-chain-problem-1nb8)
+- [Why Does Contributing to Open Source Require Permanent Identity?](https://dev.to/livrasand/why-does-contributing-to-open-source-require-permanent-identity-emp)
+- [Key Signals for Identifying Trend Momentum Turning Points: Breakout Measured Moves, Range Contraction, and Pattern Compr](https://dev.to/victorjia/key-signals-for-identifying-trend-momentum-turning-points-breakout-measured-moves-range-2cp8)
+- [MOSSDeF packages update](https://dev.to/stangri/mossdef-packages-update-2m0e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
