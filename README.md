@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Code Dreams to AI Reality: Building MarketPulse with Google Gemini](https://dev.to/aniruddhaadak/from-code-dreams-to-ai-reality-building-marketpulse-with-google-gemini-2hmf)
-- [Part 4: Decoupled Architecture](https://dev.to/jumptotech/part-4-decoupled-architecture-2i0c)
-- [CodeShare Hub: Building a Community-First Code Snippet Platform](https://dev.to/aniruddhaadak/codeshare-hub-building-a-community-first-code-snippet-platform-25il)
-- [Distributed Rate Limiting — Five Problems That Break Your Counters](https://dev.to/saumya_karnwal/distributed-rate-limiting-five-problems-that-break-your-counters-454)
-- [Your AI Agents Are Ungovernable &lpar;And You Don&#39;t Even Know It&rpar;](https://dev.to/jabbath3hutt/your-ai-agents-are-ungovernable-and-you-dont-even-know-it-28l8)
+- [The AI Coding Model Wars: How Open Source Is Closing the Gap on Proprietary Coding Models](https://dev.to/cwilkins507/the-ai-coding-model-wars-how-open-source-is-closing-the-gap-on-proprietary-coding-models-3ca8)
+- [🦀 Rust Weekly Log — Resilience, Cryptography &amp; Observability](https://dev.to/vinecksie_rust/rust-weekly-log-resilience-cryptography-observability-1e4l)
+- [I Turned Claude into an Executive Assistant. Here&#39;s What Happened](https://dev.to/wchatt/i-turned-claude-into-an-executive-assistant-heres-what-happened-324)
+- [CAD Connect: A Community Knowledge Board for Mechanical Designers ⚙️](https://dev.to/joyboy_07/cad-connect-a-community-knowledge-board-for-mechanical-designers-3pf0)
+- [How AI Prompts in Mantis Simplify Developer Workflows](https://dev.to/codedthemes/how-ai-prompts-in-mantis-simplify-developer-workflows-4628)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
