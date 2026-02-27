@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Run a Java JAR from C#: 5 Methods Benchmarked](https://dev.to/jnbridge/how-to-run-a-java-jar-from-c-5-methods-benchmarked-1bg0)
-- [How to Build a Home Cloud with Proxmox](https://dev.to/denisinvader/how-to-build-a-home-cloud-with-proxmox-1n9m)
-- [Teaching AI Agents by Example: A New Paradigm in Automation](https://dev.to/syncchain2026helix/teaching-ai-agents-by-example-a-new-paradigm-in-automation-3mcj)
-- [Enterprise Agentic AI — Memory Is the Architecture](https://dev.to/eagleeyethinker/enterprise-agentic-ai-memory-is-the-architecture-d1p)
-- [Crea tu asistente personal en los Meta Glasses.](https://dev.to/aws-builders/crea-tu-asistente-personal-en-los-meta-glasses-4nen)
+- [Day 1323 : Sayin Whatever](https://dev.to/dwane/day-1323-sayin-whatever-37ch)
+- [The .NET Architecture Pattern That Looks Professional but Scales Like Trash &lpar;and What to Do Instead&rpar;](https://dev.to/cristiansifuentes/the-net-architecture-pattern-that-looks-professional-but-scales-like-trash-and-what-to-do-instead-2og3)
+- [JPG to SVG: How Vectorization Works in the Browser &lpar;No Server Required&rpar;](https://dev.to/zepubocode/jpg-to-svg-how-vectorization-works-in-the-browser-no-server-required-2ink)
+- [I shipped two frontend libraries in one day using AI agents](https://dev.to/snwolak/i-shipped-two-frontend-libraries-in-one-day-using-ai-agents-4lh6)
+- [How to Build a Client-Side PDF to JPG Converter &lpar;No Server Required&rpar;](https://dev.to/zepubocode/how-to-build-a-client-side-pdf-to-jpg-converter-no-server-required-45l6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
