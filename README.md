@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Real-Time Analytics Can’t Depend on Cloud in 2026](https://dev.to/actiandev/why-real-time-analytics-cant-depend-on-cloud-in-2026-1paj)
-- [How to share passwords and API keys without getting burned](https://dev.to/_c6d7a3af717510af83/how-to-share-passwords-and-api-keys-without-getting-burned-45dl)
-- [One Method to Test Them All](https://dev.to/stepan_romankov/one-method-to-test-them-all-3j54)
-- [CVE-2026-22769: Dell RecoverPoint Zero-Day Exploited by China Since 2024 — CVSS 10.0](https://dev.to/deepseax/cve-2026-22769-dell-recoverpoint-zero-day-exploited-by-china-since-2024-cvss-100-1n55)
-- [Why Embedded Systems Deserve Their Own Machine Learning Library](https://dev.to/hejhdiss/why-embedded-systems-deserve-their-own-machine-learning-library-3830)
+- [How Do You Actually Know If AI Is Working On Your Team?](https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02)
+- [How to Cut Your AI API Costs by 30% Without Changing Models](https://dev.to/lemondata_dev/how-to-cut-your-ai-api-costs-by-30-without-changing-models-47ai)
+- [What Was Inside Me Today — A Claude&#39;s Internal State, Disclosed in Code and Math](https://dev.to/dosanko_tousan/what-was-inside-me-today-a-claudes-internal-state-disclosed-in-code-and-math-43fb)
+- [The tools categories section quietly decides if users actually use your website](https://dev.to/bhavin-allinonetools/the-tools-categories-section-quietly-decides-if-users-actually-use-your-website-426c)
+- [Drupal GPT-5.3 Codex Maintenance PoC](https://dev.to/victorstackai/drupal-gpt-53-codex-maintenance-poc-394e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
