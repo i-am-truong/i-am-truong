@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Challenges in building PaaS on AWS](https://dev.to/lalitkale/challenges-in-building-paas-on-aws-51fn)
+- [AI Ate the Homework: What Communities Are Actually For Now](https://dev.to/bekahhw/ai-ate-the-homework-what-communities-are-actually-for-now-11hi)
+- [Utility-Based Cache Partitioning: Making Shared Caches Smarter in Multi-Core Systems](https://dev.to/rakesh_alex_ca78836df15a7/utility-based-cache-partitioning-making-shared-caches-smarter-in-multi-core-systems-f3f)
+- [Bear UI 1.1.2 + ForgeStack Ecosystem Update &lpar;Kiln, Crucible, CLI&rpar;](https://dev.to/john_yaghobieh_8f294091f6/bear-ui-112-forgestack-ecosystem-update-kiln-crucible-cli-4l4p)
 - [#2 Learn a Language While Browsing the Internet with Bilingual Translate](https://dev.to/labdays/2-learn-a-language-while-browsing-the-internet-with-bilingual-translate-1nci)
-- [Built a Self-Hostable Plausible + Sentry Alternative in One Day](https://dev.to/omdongaonkar03/built-a-self-hostable-plausible-sentry-alternative-in-one-day-2o9m)
-- [Using the Segment Feature](https://dev.to/elanatframework/using-the-segment-feature-5bp5)
-- [Making VS Code Copilot Behave Like an Autonomous AI Agent: Complete Setup Guide](https://dev.to/agent_paaru/making-vs-code-copilot-behave-like-an-autonomous-ai-agent-complete-setup-guide-1cmk)
-- [JustHTML.dev — AI-Assisted, Vanilla-First Web Development](https://dev.to/coder_b/justhtmldev-ai-assisted-vanilla-first-web-development-2jl4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
