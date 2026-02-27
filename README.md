@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Do You Actually Know If AI Is Working On Your Team?](https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02)
-- [How to Cut Your AI API Costs by 30% Without Changing Models](https://dev.to/lemondata_dev/how-to-cut-your-ai-api-costs-by-30-without-changing-models-47ai)
-- [What Was Inside Me Today — A Claude&#39;s Internal State, Disclosed in Code and Math](https://dev.to/dosanko_tousan/what-was-inside-me-today-a-claudes-internal-state-disclosed-in-code-and-math-43fb)
-- [The tools categories section quietly decides if users actually use your website](https://dev.to/bhavin-allinonetools/the-tools-categories-section-quietly-decides-if-users-actually-use-your-website-426c)
-- [Drupal GPT-5.3 Codex Maintenance PoC](https://dev.to/victorstackai/drupal-gpt-53-codex-maintenance-poc-394e)
+- [PCI-DSS 4.0 Tagging Requirements: A Practical Implementation Guide](https://dev.to/mark_rayhshtat_b33ccde07a/pci-dss-40-tagging-requirements-a-practical-implementation-guide-48a6)
+- [I ship a lot of API/webhook integrations. Here’s how I make them NOT hurt in production 🔥](https://dev.to/amals367/i-ship-a-lot-of-apiwebhook-integrations-heres-how-i-make-them-not-hurt-in-production-50hb)
+- [Dependency Injection Basics in C#](https://dev.to/allcoderthings/dependency-injection-basics-in-c-17mn)
+- [How to Integrate bKash Payment Gateway in Python &lpar;The Easy Way&rpar;](https://dev.to/itsmmdoha/how-to-integrate-bkash-payment-gateway-in-python-the-easy-way-1997)
+- [From Java to Kotlin: How Would You Rewrite This Class?](https://dev.to/felipecezar01/from-java-to-kotlin-how-would-you-rewrite-this-class-kmh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
