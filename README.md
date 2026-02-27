@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to add 8 AI tools to your agent in one API call &lpar;MCP format&rpar;](https://dev.to/phani_avagaddi/how-to-add-8-ai-tools-to-your-agent-in-one-api-call-mcp-format-3788)
-- [Localizing Dates in Go Templates: A Deep Dive](https://dev.to/geanruca/localizing-dates-in-go-templates-a-deep-dive-3p1p)
-- [The Scripted Middle Tier Is Reaching Its Limits What Comes Next Is Agentic](https://dev.to/sreeni5018/the-scripted-middle-tier-is-reaching-its-limits-what-comes-next-is-agentic-2f86)
-- [Your Resume Passed ATS — So Why Are You Still Getting Ghosted?](https://dev.to/sira_ai/your-resume-passed-ats-so-why-are-you-still-getting-ghosted-idl)
-- [Crawled 3,000,000 URLs and broke Vercel](https://dev.to/kashewknutt/crawled-3000000-urls-and-broke-vercel-33al)
+- [robots.txt vs llms.txt: What&#39;s the difference and why it matters](https://dev.to/unlikefraction/robotstxt-vs-llmstxt-whats-the-difference-and-why-it-matters-5f4o)
+- [We checked 832 websites for AI-agent compatibility. Here&#39;s what we found.](https://dev.to/unlikefraction/we-checked-832-websites-for-ai-agent-compatibility-heres-what-we-found-34eh)
+- [8 MCP server templates that actually work with Claude Desktop](https://dev.to/clawgenesis/8-mcp-server-templates-that-actually-work-with-claude-desktop-15lg)
+- [SOLID Principles: Writing Code That Survives the Real World](https://dev.to/aznaxdev/solid-principles-writing-code-that-survives-the-real-world-1k29)
+- [I Built a Free Auto-Carousel Component with Pure HTML &amp; CSS &lpar;No JavaScript Libraries!&rpar;](https://dev.to/codebar_library/i-built-a-free-auto-carousel-component-with-pure-html-css-no-javascript-libraries-1fag)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
