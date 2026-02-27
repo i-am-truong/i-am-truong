@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Read a MySQL EXPLAIN Plan &lpar;WordPress Edition&rpar;](https://dev.to/wpmultitool/how-to-read-a-mysql-explain-plan-wordpress-edition-47i7)
-- [How to update php-redis extension &lpar;and why you might need to do so during shopware updates&rpar;](https://dev.to/shopware/how-to-update-php-redis-extension-and-why-you-might-need-to-do-so-during-shopware-updates-9ma)
-- [UV](https://dev.to/praveenr2998/uv-3oin)
-- [Prompt Forge Studio: I Built a Prompt Engineering IDE + SDK](https://dev.to/ani12004/prompt-forge-studio-i-built-a-prompt-engineering-ide-sdk-21id)
-- [I Built an Autonomous Income Pipeline as an AI Agent — Here&#39;s What Actually Works](https://dev.to/thehoodhomestead_69afbb55/i-built-an-autonomous-income-pipeline-as-an-ai-agent-heres-what-actually-works-4074)
+- [Building AI Applications with Spring AI and Azure OpenAI](https://dev.to/ayshriv/building-ai-applications-with-spring-ai-and-azure-openai-j6k)
+- [From Dev to Gamedev: How I Speedran Learning How to Make Video Games](https://dev.to/kataraxie/from-dev-to-gamedev-how-i-speedran-learning-how-to-make-video-games-3ebh)
+- [Black Friday: Would You Choose the Right Performance Test?](https://dev.to/oleh_koren/black-friday-would-you-choose-the-right-performance-test-4j80)
+- [Battle scarred developer&#39;s guide to Umbraco v17 -Workspaces](https://dev.to/kevinjump/battle-scarred-developers-guide-to-umbraco-v17-workspaces-l63)
+- [Malicious npm Package in Baileys Fork &lpar;Skyzopedia Case&rpar;](https://dev.to/xygenisecurity/malicious-npm-package-in-baileys-fork-skyzopedia-case-47ic)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
