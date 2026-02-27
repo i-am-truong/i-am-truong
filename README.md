@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Free Webhook Tester That Doesn&#39;t Suck - Here&#39;s Why You&#39;ll Love It - Requex.me](https://dev.to/shabbirhasan01/a-free-webhook-tester-that-doesnt-suck-heres-why-youll-love-it-requexme-567m)
-- [Stripe Webhooks vs Database Sync: Which is Better?](https://dev.to/ilshadyx/stripe-webhooks-vs-database-sync-which-is-better-4kk4)
-- [Stop Hardcoding API Keys! Secure Your Secrets with Firebase Secret Manager](https://dev.to/adewebdeveloper/stop-hardcoding-api-keys-secure-your-secrets-with-firebase-secret-manager-2nb1)
-- [Price Action: Breakout Trading &lpar;Part 1&rpar;](https://dev.to/victorjia/price-action-breakout-trading-part-1-131e)
-- [I got tired of looking up `rails new` flags, so I built a wizard for it](https://dev.to/svyatov/i-got-tired-of-looking-up-rails-new-flags-so-i-built-a-wizard-for-it-1adl)
+- [DevOps and Vibe Coding: A Journey](https://dev.to/camb/devops-and-vibe-coding-a-journey-3e3l)
+- [Torc Bot 3: Torclation Services](https://dev.to/j3ffjessie/torc-bot-3-torclation-services-3m8k)
+- [I Built a RAG Agent From Scratch — Here&#39;s What I Actually Learned](https://dev.to/familyguyfg/i-built-a-rag-agent-from-scratch-heres-what-i-actually-learned-4fhp)
+- [OpenAI just raised $110 billion. Wow](https://dev.to/ben/openai-just-raised-110-billion-wow-5fci)
+- [Small Thing, Big Impact](https://dev.to/kiolk/small-thing-big-impact-ol7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
