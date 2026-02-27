@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I’m Building for the Real MVPs of Our Economy, SMEs](https://dev.to/josephnwanna/im-building-for-the-real-mvps-of-our-economy-smes-1fd9)
-- [Semantic Kernel Memory: Vector Stores, Embeddings, and Semantic Search](https://dev.to/bspann/semantic-kernel-memory-vector-stores-embeddings-and-semantic-search-13e5)
-- [Using tox to Test a Django App Across Multiple Django Versions](https://dev.to/djangotricks/using-tox-to-test-a-django-app-across-multiple-django-versions-28g9)
-- [Your RSS Feeds Are Broken and This Rust Tool Fixes Them](https://dev.to/ticktockbent/your-rss-feeds-are-broken-and-this-rust-tool-fixes-them-3do5)
-- [Estrategias de Migración a AWS: Dominando las 7 Rs para una Transformación Real](https://dev.to/franciscojeg78/estrategias-de-migracion-a-aws-dominando-las-7-rs-para-una-transformacion-real-5dh7)
+- [What 20 Years of Building Fintech Systems Before AI Taught Me That No Tool Ever Will](https://dev.to/sudhirkumar_bedaysee_48f/what-20-years-of-building-fintech-systems-before-ai-taught-me-that-no-tool-ever-will-2ofh)
+- [Why Your AI Agent Needs a Kill Switch That Actually Works](https://dev.to/prakashd88/why-your-ai-agent-needs-a-kill-switch-that-actually-works-2e3)
+- [I Built workz: The Zoxide for Git Worktrees That Finally Fixes .env + node_modules Hell in 2026](https://dev.to/rohansx/i-built-workz-the-zoxide-for-git-worktrees-that-finally-fixes-env-nodemodules-hell-in-2026-2dpj)
+- [How I stopped declaring login in each of my 5k tests](https://dev.to/cypress/how-i-stopped-declaring-login-in-each-of-my-5k-tests-37km)
+- [PageAgent: The GUI Agent Living in Your Web Page](https://dev.to/simon_luv_pho/pageagent-the-gui-agent-living-in-your-web-page-1cda)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
