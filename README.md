@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What 20 Years of Building Fintech Systems Before AI Taught Me That No Tool Ever Will](https://dev.to/sudhirkumar_bedaysee_48f/what-20-years-of-building-fintech-systems-before-ai-taught-me-that-no-tool-ever-will-2ofh)
-- [Why Your AI Agent Needs a Kill Switch That Actually Works](https://dev.to/prakashd88/why-your-ai-agent-needs-a-kill-switch-that-actually-works-2e3)
-- [I Built workz: The Zoxide for Git Worktrees That Finally Fixes .env + node_modules Hell in 2026](https://dev.to/rohansx/i-built-workz-the-zoxide-for-git-worktrees-that-finally-fixes-env-nodemodules-hell-in-2026-2dpj)
-- [How I stopped declaring login in each of my 5k tests](https://dev.to/cypress/how-i-stopped-declaring-login-in-each-of-my-5k-tests-37km)
-- [PageAgent: The GUI Agent Living in Your Web Page](https://dev.to/simon_luv_pho/pageagent-the-gui-agent-living-in-your-web-page-1cda)
+- [A Free Webhook Tester That Doesn&#39;t Suck - Here&#39;s Why You&#39;ll Love It - Requex.me](https://dev.to/shabbirhasan01/a-free-webhook-tester-that-doesnt-suck-heres-why-youll-love-it-requexme-567m)
+- [Stripe Webhooks vs Database Sync: Which is Better?](https://dev.to/ilshadyx/stripe-webhooks-vs-database-sync-which-is-better-4kk4)
+- [Stop Hardcoding API Keys! Secure Your Secrets with Firebase Secret Manager](https://dev.to/adewebdeveloper/stop-hardcoding-api-keys-secure-your-secrets-with-firebase-secret-manager-2nb1)
+- [Price Action: Breakout Trading &lpar;Part 1&rpar;](https://dev.to/victorjia/price-action-breakout-trading-part-1-131e)
+- [I got tired of looking up `rails new` flags, so I built a wizard for it](https://dev.to/svyatov/i-got-tired-of-looking-up-rails-new-flags-so-i-built-a-wizard-for-it-1adl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
