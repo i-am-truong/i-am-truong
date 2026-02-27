@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why I Bundled My Small JavaScript Calculators Into One Practical Kit](https://dev.to/yuvronixstudio/why-i-bundled-my-small-javascript-calculators-into-one-practical-kit-56b4)
-- [Predicting Your AI Agent&#39;s Cost](https://dev.to/aws/predicting-your-ai-agents-cost-6m9)
-- [I Built a Fake Market Detector Using DEX Trade Fees](https://dev.to/boba_bobo_c54aa2b42146177/i-built-a-fake-market-detector-using-dex-trade-fees-1loc)
-- [##Dataguard: A Multiagentic Pipeline for ML](https://dev.to/nikhil_ramank_152ca48266/dataguard-a-multiagentic-pipeline-for-ml-1ik5)
-- [Triage-Relay](https://dev.to/juan_camiloauriti_646918/triage-relay-3gm3)
+- [Surprise Traps, Cup with Handle, Mental Jailbreak](https://dev.to/victorjia/surprise-traps-cup-with-handle-mental-jailbreak-1cbo)
+- [Your Image Compressor Has Seen Every Photo You&#39;ve Ever &quot;Compressed for Free&quot;](https://dev.to/azayshrestha/your-image-compressor-has-seen-every-photo-youve-ever-compressed-for-free-14m6)
+- [Stop writing the same regex for #[Route]](https://dev.to/stivenllupa/stop-writing-the-same-regex-for-route-o2c)
+- [What I learned building a workflow engine from scratch in Rust](https://dev.to/yacineb_45/what-i-learned-building-a-workflow-engine-from-scratch-in-rust-2mdk)
+- [[Boost]](https://dev.to/darkosubotica/-pfa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
