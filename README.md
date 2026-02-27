@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [JustHTML.dev — AI-Assisted, Vanilla-First Web Development](https://dev.to/coder_b/justhtmldev-ai-assisted-vanilla-first-web-development-2jl4)
+- [Automatic cross-platform testing: part 7: 32 bit, again](https://dev.to/drhyde/automatic-cross-platform-testing-part-7-32-bit-again-1ipf)
+- [Security news weekly round-up - 27th February 2026](https://dev.to/ziizium/security-news-weekly-round-up-27th-february-2026-2agb)
 - [rule-porter: Convert Cursor rules to CLAUDE.md, AGENTS.md, and Copilot](https://dev.to/nedcodes/rule-porter-convert-cursor-rules-to-claudemd-agentsmd-and-copilot-4hjc)
 - [MongoDB didn&#39;t start because of File permission issue](https://dev.to/ralvaracode/mongodb-didnt-start-because-of-file-permission-issue-19i5)
-- [Showcase Your Credly Certifications in Your GitHub README](https://dev.to/ebenezer-isaac/showcase-your-credly-certifications-in-your-github-readme-32f3)
-- [7 MongoDB indexing strategies to speed up your queries](https://dev.to/finny_collins/7-mongodb-indexing-strategies-to-speed-up-your-queries-528b)
-- [DevOps and Vibe Coding: A Journey](https://dev.to/camb/devops-and-vibe-coding-a-journey-3e3l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
