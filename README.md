@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [RFC 1516: A Build for the Community That Keeps 418 Alive](https://dev.to/pascal_cescato_692b7a8a20/rfc-1516-a-build-for-the-community-that-keeps-418-alive-3ah4)
-- [Project Compass: Europol Takes Down The Com — The Teen Cybercrime Network Behind MGM, M&amp;S and Scattered Spider Attacks](https://dev.to/deepseax/project-compass-europol-takes-down-the-com-the-teen-cybercrime-network-behind-mgm-ms-and-3bjk)
-- [Free AI API Models in 2026: Complete Guide to Zero-Cost AI Access](https://dev.to/lemondata_dev/free-ai-api-models-in-2026-complete-guide-to-zero-cost-ai-access-2nja)
-- [Understanding JavaScript Callbacks: The &quot;Don&#39;t Call Us, We&#39;ll Call You&quot; Concept](https://dev.to/dhanraj_s_8fe1023a6e88992/understanding-javascript-callbacks-the-dont-call-us-well-call-you-concept-12im)
-- [Understanding JavaScript Callbacks: The &quot;Don&#39;t Call Us, We&#39;ll Call You&quot; Concept](https://dev.to/dhanraj_s_8fe1023a6e88992/understanding-javascript-callbacks-the-dont-call-us-well-call-you-concept-30p1)
+- [승률 44%인데 돈을 번다고?](https://dev.to/ji_ai/seungryul-44inde-doneul-beondago-26p3)
+- [44% Win Rate and Still Profitable?](https://dev.to/ji_ai/44-win-rate-and-still-profitable-2i14)
+- [OpenClaw: The AI Agent That Actually Does Stuff - Part 2 - Building a Real Bot](https://dev.to/shresthapandey/openclaw-the-ai-agent-that-actually-does-stuff-part-2-building-a-real-bot-26n7)
+- [When More Examples Make Your LLM Worse: Discovering Few-Shot Collapse](https://dev.to/shuntarookuma/when-more-examples-make-your-llm-worse-discovering-few-shot-collapse-106i)
+- [I Read 9,000 Lines of a Stranger&#39;s Mergetool](https://dev.to/ticktockbent/i-read-9000-lines-of-a-strangers-mergetool-5bf0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
