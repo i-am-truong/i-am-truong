@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building AI Applications with Spring AI and Azure OpenAI](https://dev.to/ayshriv/building-ai-applications-with-spring-ai-and-azure-openai-j6k)
-- [From Dev to Gamedev: How I Speedran Learning How to Make Video Games](https://dev.to/kataraxie/from-dev-to-gamedev-how-i-speedran-learning-how-to-make-video-games-3ebh)
-- [Black Friday: Would You Choose the Right Performance Test?](https://dev.to/oleh_koren/black-friday-would-you-choose-the-right-performance-test-4j80)
-- [Battle scarred developer&#39;s guide to Umbraco v17 -Workspaces](https://dev.to/kevinjump/battle-scarred-developers-guide-to-umbraco-v17-workspaces-l63)
-- [Malicious npm Package in Baileys Fork &lpar;Skyzopedia Case&rpar;](https://dev.to/xygenisecurity/malicious-npm-package-in-baileys-fork-skyzopedia-case-47ic)
+- [Designing a Production-Grade AI Chat Service with FastAPI.](https://dev.to/masteringbackend/designing-a-production-grade-ai-chat-service-with-fastapi-8o2)
+- [What Are Autonomous AI Agents? Complete Beginner Guide for Developers, Founders, and CTOs](https://dev.to/gofortool/what-are-autonomous-ai-agents-complete-beginner-guide-for-developers-founders-and-ctos-11ia)
+- [Microservices Architecture for Modular EdTech File Processing](https://dev.to/ideradevtools/microservices-architecture-for-modular-edtech-file-processing-268n)
+- [Why Polish Small Businesses Don&#39;t Need Websites &lpar;And Why I&#39;m Building Them Anyway&rpar;](https://dev.to/maxmendes91/why-polish-small-businesses-dont-need-websites-and-why-im-building-them-anyway-36bb)
+- [DuckCon #7 Singapore](https://dev.to/gabor-szarnyas/duckcon-7-singapore-3hhk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
