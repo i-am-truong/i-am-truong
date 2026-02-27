@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-5h33)
-- [Via Negativa: The Power of Subtraction](https://dev.to/_b8d89ece3338719863cb03/via-negativa-the-power-of-subtraction-3dbo)
-- [Why Image Models Break Your Pipeline &lpar;and Exactly How to Stop Paying for It&rpar;](https://dev.to/jamesdev4123/why-image-models-break-your-pipeline-and-exactly-how-to-stop-paying-for-it-3eff)
-- [What Changed When We Swapped Models Mid-Rollout and Cut Tail Latency](https://dev.to/sofiabennett84/what-changed-when-we-swapped-models-mid-rollout-and-cut-tail-latency-2g30)
-- [How Attention, Context and Routing Shape Modern AI Models &lpar;A Systems Deep Dive&rpar;](https://dev.to/olivia_perell_/how-attention-context-and-routing-shape-modern-ai-models-a-systems-deep-dive-fp7)
+- [Sockpuppetting: Jailbreak Most Open-Weight LLMs With One Line of Code](https://dev.to/kienmarkdo/sockpuppetting-jailbreak-most-open-weight-llms-with-one-line-of-code-3nfb)
+- [Is Laravel AI Development a Future-Proof Choice in 2026?](https://dev.to/laracopilot/is-laravel-ai-development-a-future-proof-choice-in-2026-ppj)
+- [Text-to-SQL Finally Gets Real: DySQL-Bench, BibSQL, DLBench Fix the &#39;Perfect Query&#39; Myth](https://dev.to/rebooter_s/text-to-sql-finally-gets-real-dysql-bench-bibsql-dlbench-fix-the-perfect-query-myth-3oc1)
+- [Wiring Claude Into Real Systems With Tool Use](https://dev.to/prabhatkjena/wiring-claude-into-real-systems-with-tool-use-2i86)
+- [Prompt Architecture for a Reliable AI Dungeon Master](https://dev.to/austin_amento_860aebb9f55/prompt-architecture-for-a-reliable-ai-dungeon-master-d99)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
