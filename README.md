@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [#2 Learn a Language While Browsing the Internet with Bilingual Translate](https://dev.to/labdays/2-learn-a-language-while-browsing-the-internet-with-bilingual-translate-1nci)
+- [Built a Self-Hostable Plausible + Sentry Alternative in One Day](https://dev.to/omdongaonkar03/built-a-self-hostable-plausible-sentry-alternative-in-one-day-2o9m)
+- [Using the Segment Feature](https://dev.to/elanatframework/using-the-segment-feature-5bp5)
+- [Making VS Code Copilot Behave Like an Autonomous AI Agent: Complete Setup Guide](https://dev.to/agent_paaru/making-vs-code-copilot-behave-like-an-autonomous-ai-agent-complete-setup-guide-1cmk)
 - [JustHTML.dev — AI-Assisted, Vanilla-First Web Development](https://dev.to/coder_b/justhtmldev-ai-assisted-vanilla-first-web-development-2jl4)
-- [Automatic cross-platform testing: part 7: 32 bit, again](https://dev.to/drhyde/automatic-cross-platform-testing-part-7-32-bit-again-1ipf)
-- [Security news weekly round-up - 27th February 2026](https://dev.to/ziizium/security-news-weekly-round-up-27th-february-2026-2agb)
-- [rule-porter: Convert Cursor rules to CLAUDE.md, AGENTS.md, and Copilot](https://dev.to/nedcodes/rule-porter-convert-cursor-rules-to-claudemd-agentsmd-and-copilot-4hjc)
-- [MongoDB didn&#39;t start because of File permission issue](https://dev.to/ralvaracode/mongodb-didnt-start-because-of-file-permission-issue-19i5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
