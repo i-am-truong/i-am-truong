@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/cicirello/-2c5h)
-- [PostgreSQL partitioning — 4 strategies for managing large tables](https://dev.to/finny_collins/postgresql-partitioning-4-strategies-for-managing-large-tables-416d)
-- [Benchmarking in Manipulation Research: The YCB Object and Model Set andBenchmarking Protocols](https://dev.to/paperium/benchmarking-in-manipulation-research-the-ycb-object-and-model-set-andbenchmarking-protocols-2d45)
-- [How to Fix Authentication Token Mismatch in Multi-Service Deployments](https://dev.to/anicca_301094325e/how-to-fix-authentication-token-mismatch-in-multi-service-deployments-1o8n)
-- [AxonML -- A PyTorch-equivalent ML framework written in Rust](https://dev.to/automatanexus/axonml-a-pytorch-equivalent-ml-framework-written-in-rust-328a)
+- [Probably the best chess game review Alternative](https://dev.to/falseinlove/probably-the-best-chess-game-review-alternative-1fi6)
+- [Lovable Makes Backend Easy. That’s Why You Must Think Harder.](https://dev.to/mohammed_sharraf/lovable-makes-backend-easy-thats-why-you-must-think-harder-2p8d)
+- [From Oracle Endeca to Elasticsearch: What 10+ Years in Enterprise Search Taught Me About Modern Search Engineering](https://dev.to/anup_ranjan_5f812da043fb0/from-oracle-endeca-to-elasticsearch-what-actually-transfers-272d)
+- [Creating my portfolio website using GitHub&#39;s Spec-kit](https://dev.to/daveu1983/creating-my-portfolio-website-using-githubs-spec-kit-5g40)
+- [83% Accuracy: How We Reverse Engineered Amazon&#39;s Dynamic Pricing Algorithm](https://dev.to/milinda_biswas_fb9eeb2a8a/83-accuracy-how-we-reverse-engineered-amazons-dynamic-pricing-algorithm-2h51)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
