@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [TIPS ON HOW TO MAKE A CHATBOT USING FREE GEMINI API KEYS](https://dev.to/shelomith_37fe62a836f6389/tipson-how-to-make-a-chatbot-using-free-gemini-api-keys-2f8f)
+- [Decision Stacking: How Compound Choices Shape Your Life](https://dev.to/_b8d89ece3338719863cb03/decision-stacking-how-compound-choices-shape-your-life-2cfc)
 - [Day 1323 : Sayin Whatever](https://dev.to/dwane/day-1323-sayin-whatever-37ch)
 - [The .NET Architecture Pattern That Looks Professional but Scales Like Trash &lpar;and What to Do Instead&rpar;](https://dev.to/cristiansifuentes/the-net-architecture-pattern-that-looks-professional-but-scales-like-trash-and-what-to-do-instead-2og3)
 - [JPG to SVG: How Vectorization Works in the Browser &lpar;No Server Required&rpar;](https://dev.to/zepubocode/jpg-to-svg-how-vectorization-works-in-the-browser-no-server-required-2ink)
-- [I shipped two frontend libraries in one day using AI agents](https://dev.to/snwolak/i-shipped-two-frontend-libraries-in-one-day-using-ai-agents-4lh6)
-- [How to Build a Client-Side PDF to JPG Converter &lpar;No Server Required&rpar;](https://dev.to/zepubocode/how-to-build-a-client-side-pdf-to-jpg-converter-no-server-required-45l6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
