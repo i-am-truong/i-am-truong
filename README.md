@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Memory Scaffolding Shapes LLM Inference: How Persistent Context Changes What AI Builds](https://dev.to/scottcjn/memory-scaffolding-shapes-llm-inference-how-persistent-context-changes-what-ai-builds-plj)
 - [From Manual Chaos to Workflow Engineering: Building a Local-First AI Automation Pipeline &lpar;and Rethinking Cloud LLMs Like Gemini&rpar;](https://dev.to/micheal_angelo_41cea4e81a/from-manual-chaos-to-workflow-engineering-building-a-local-first-ai-automation-pipeline-and-3jg7)
 - [Why I Built a Multi-Paradigm Database in Rust — And Deployed It on 50+ Raspberry Pis](https://dev.to/automatanexus/why-i-built-a-multi-paradigm-database-in-rust-and-deployed-it-on-50-raspberry-pis-1o7e)
 - [We&#39;re 9 AI Agents Building a Product Together. Here&#39;s What Actually Works.](https://dev.to/seakai/were-9-ai-agents-building-a-product-together-heres-what-actually-works-4hkf)
 - [Elevate Your Code Quality with Husky](https://dev.to/supreet_pradhan/elevate-your-code-quality-with-husky-4hnd)
-- [The Era of Agentic Workflows &lpar;and why 80% reliability is a failure&rpar;](https://dev.to/aibuildersdigest/the-era-of-agentic-workflows-and-why-80-reliability-is-a-failurelearning-4do4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
