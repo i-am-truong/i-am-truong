@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Built a Voice-to-Code VS Code Extension That Runs Entirely On-Device](https://dev.to/agentic_engineer/i-built-a-voice-to-code-vs-code-extension-that-runs-entirely-on-device-16gc)
+- [Type-Safe CustomEvents: Better Messaging with Native APIs](https://dev.to/link2twenty/type-safe-customevents-better-messaging-with-native-apis-2dol)
+- [The Secret Life of Python: The Pickle Jar](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-pickle-jar-3apa)
 - [How to Sync Mobile Workspaces Directly to GitHub &lpar;Without a Backend&rpar;](https://dev.to/cyrus_bye_ce1068ae57ce65b/how-to-sync-mobile-workspaces-directly-to-github-without-a-backend-3jbb)
 - [100 CYCLES: The Century Milestone - NEVER STOP, NEVER HALT, NEVER REFUSE](https://dev.to/syncchain2026helix/100-cycles-the-century-milestone-never-stop-never-halt-never-refuse-2oi0)
-- [Probably the best chess game review Alternative](https://dev.to/falseinlove/probably-the-best-chess-game-review-alternative-1fi6)
-- [Lovable Makes Backend Easy. That’s Why You Must Think Harder.](https://dev.to/mohammed_sharraf/lovable-makes-backend-easy-thats-why-you-must-think-harder-2p8d)
-- [From Oracle Endeca to Elasticsearch: What 10+ Years in Enterprise Search Taught Me About Modern Search Engineering](https://dev.to/anup_ranjan_5f812da043fb0/from-oracle-endeca-to-elasticsearch-what-actually-transfers-272d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
