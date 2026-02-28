@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [TIPS ON HOW TO MAKE A CHATBOT USING FREE GEMINI API KEYS](https://dev.to/shelomith_37fe62a836f6389/tipson-how-to-make-a-chatbot-using-free-gemini-api-keys-2f8f)
-- [Decision Stacking: How Compound Choices Shape Your Life](https://dev.to/_b8d89ece3338719863cb03/decision-stacking-how-compound-choices-shape-your-life-2cfc)
-- [Day 1323 : Sayin Whatever](https://dev.to/dwane/day-1323-sayin-whatever-37ch)
-- [The .NET Architecture Pattern That Looks Professional but Scales Like Trash &lpar;and What to Do Instead&rpar;](https://dev.to/cristiansifuentes/the-net-architecture-pattern-that-looks-professional-but-scales-like-trash-and-what-to-do-instead-2og3)
-- [JPG to SVG: How Vectorization Works in the Browser &lpar;No Server Required&rpar;](https://dev.to/zepubocode/jpg-to-svg-how-vectorization-works-in-the-browser-no-server-required-2ink)
+- [Python f&lpar;x&rpar; &amp; grad](https://dev.to/slackman/python-fx-grad-158m)
+- [Parte 3: Adicionando Multi-Tenancy por Coluna Discriminadora](https://dev.to/uiratan/parte-3-adicionando-multi-tenancy-por-coluna-discriminadora-4a8o)
+- [How I Replaced $3,000/Year of SaaS With 50 Lines of Code - Building FeatureDrop](https://dev.to/thegdsks/how-i-replaced-3000year-of-saas-with-50-lines-of-code-building-featuredrop-9ji)
+- [15-Minute Node.js Setup: From Zero to Production &lpar;GraphQL, PostgreSQL, Docker &amp; CI/CD&rpar;](https://dev.to/paudang/15-minute-nodejs-setup-from-zero-to-production-graphql-postgresql-docker-cicd-11eg)
+- [Sandboxed Python in the Browser with Pydantic&#39;s Monty](https://dev.to/victorstackai/sandboxed-python-in-the-browser-with-pydantics-monty-10ne)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
