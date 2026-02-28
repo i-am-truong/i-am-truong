@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How Claude Code Automates Software Development: A Deep-Dive Into AI-Powered Engineering Workflows](https://dev.to/th19930828/how-claude-code-automates-software-development-a-deep-dive-into-ai-powered-engineering-workflows-4j0)
+- [Building a Private AI Assistant in 2026 — No Cloud Required &lpar;Mostly&rpar;](https://dev.to/yankoaleksandrov/building-a-private-ai-assistant-in-2026-no-cloud-required-mostly-3d46)
+- [The End of Brittle Browser Automation is Here](https://dev.to/syncchain2026helix/the-end-of-brittle-browser-automation-is-here-3agk)
 - [GitHub Copilot CLI Executes Malware With Zero Approval. Your CI/CD Pipeline Would Have Caught It.](https://dev.to/matthewhou/github-copilot-cli-executes-malware-with-zero-approval-your-cicd-pipeline-would-have-caught-it-4g19)
 - [Why I Became a Developer &lpar;And Why I&#39;m Still Here 17 Years Later&rpar;](https://dev.to/crystalreyesdev/why-i-became-a-developer-and-why-im-still-here-17-years-later-261m)
-- [Country codes and regional differences](https://dev.to/stivenllupa/country-codes-and-regional-differences-5fmh)
-- [Probabilistic Graph Neural Inference for bio-inspired soft robotics maintenance with ethical auditability baked in](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-bio-inspired-soft-robotics-maintenance-with-ethical-5b3d)
-- [CiudadActiva - Bridging the gap between citizens and their Municipality &lpar;government&rpar;](https://dev.to/edwineinsen/ciudadactiva-bridging-the-gap-between-citizens-and-their-municipality-government-2npm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
