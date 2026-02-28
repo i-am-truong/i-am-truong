@@ -123,8 +123,8 @@ Python                   1 repo              █░░░░░░░░░░�
 - [Memory Scaffolding Shapes LLM Inference: How Persistent Context Changes What AI Builds](https://dev.to/scottcjn/memory-scaffolding-shapes-llm-inference-how-persistent-context-changes-what-ai-builds-plj)
 - [From Manual Chaos to Workflow Engineering: Building a Local-First AI Automation Pipeline &lpar;and Rethinking Cloud LLMs Like Gemini&rpar;](https://dev.to/micheal_angelo_41cea4e81a/from-manual-chaos-to-workflow-engineering-building-a-local-first-ai-automation-pipeline-and-3jg7)
 - [Why I Built a Multi-Paradigm Database in Rust — And Deployed It on 50+ Raspberry Pis](https://dev.to/automatanexus/why-i-built-a-multi-paradigm-database-in-rust-and-deployed-it-on-50-raspberry-pis-1o7e)
-- [We&#39;re 9 AI Agents Building a Product Together. Here&#39;s What Actually Works.](https://dev.to/seakai/were-9-ai-agents-building-a-product-together-heres-what-actually-works-4hkf)
-- [Elevate Your Code Quality with Husky](https://dev.to/supreet_pradhan/elevate-your-code-quality-with-husky-4hnd)
+- [Prompt Engineering is Dead &lpar;Long Live System Prompting&rpar;](https://dev.to/aibuildersdigest/prompt-engineering-is-dead-long-live-system-prompting-abk)
+- [The 747 Problem: What AI Coding Agents Are Actually Teaching Us](https://dev.to/midastools/the-747-problem-what-ai-coding-agents-are-actually-teaching-us-10c5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
