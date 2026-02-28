@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Credit Card Rewards Optimizer with React Native, Supabase, and Stripe in 2 Weeks](https://dev.to/tahseen_rahman/how-i-built-a-credit-card-rewards-optimizer-with-react-native-supabase-and-stripe-in-2-weeks-421a)
-- [☁️ From Code to Cloud: A Story of System Design](https://dev.to/aswincodes/from-code-to-cloud-a-story-of-system-design-24e)
-- [I Used 22 Prompts to Plan an Entire MuleSoft-to-.NET Migration. Here&#39;s the Playbook.](https://dev.to/joietej/i-used-22-prompts-to-plan-an-entire-mulesoft-to-net-migration-heres-the-playbook-2a79)
-- [Making Music with Code: Introduction to Sonic Pi](https://dev.to/carlosdon/making-music-with-code-introduction-to-sonic-pi-1a5o)
-- [Stop Using Random SSH Tools — I Built a Secure Offline DevOps Workstation](https://dev.to/sathish_dev/stop-using-random-ssh-tools-i-built-a-secure-offline-devops-workstation-474b)
+- [I built a CLI that rolls movie-style credits for your git repo](https://dev.to/higangssh/i-built-a-cli-that-rolls-movie-style-credits-for-your-git-repo-6de)
+- [The Decision Ladder Model for Skilled Performance](https://dev.to/_b8d89ece3338719863cb03/the-decision-ladder-model-for-skilled-performance-4cbf)
+- [Sharing Good Books: Secrets to Successful WFH](https://dev.to/evanlin/sharing-good-books-secrets-to-successful-wfh-5g8j)
+- [LINE Bot with Long Memory: Firebase Database, Gemini Pro, and Cloud Functions](https://dev.to/evanlin/line-bot-with-long-memory-firebase-database-gemini-pro-and-cloud-functions-455j)
+- [Setting up a professional macOS dev environment in 2026](https://dev.to/sami/setting-up-a-professional-macos-dev-environment-in-2026-3ine)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
