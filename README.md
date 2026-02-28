@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Availability Cascade: How Beliefs Become Self-Reinforcing and What to Do About It](https://dev.to/_b8d89ece3338719863cb03/the-availability-cascade-how-beliefs-become-self-reinforcing-and-what-to-do-about-it-36ik)
-- [Systems Thinking for Individual Decision-Makers: See the Forest and the Trees](https://dev.to/_b8d89ece3338719863cb03/systems-thinking-for-individual-decision-makers-see-the-forest-and-the-trees-2ma9)
-- [How AI Agents Learn From Screen Recordings](https://dev.to/syncchain2026helix/how-ai-agents-learn-from-screen-recordings-1pb)
-- [The Value of Doing Nothing: Why Inaction Can Be the Best Decision](https://dev.to/_b8d89ece3338719863cb03/the-value-of-doing-nothing-why-inaction-can-be-the-best-decision-j1d)
-- [When My AI Blocked Itself: What Constitutional Governance Actually Looks Like in Practice](https://dev.to/dariusz_newecki_e35b0924c/when-my-ai-blocked-itself-what-constitutional-governance-actually-looks-like-in-practice-1j14)
+- [φ-NTT: A Carry-Free Transform on Z ^B with Hierarchical Wavelet Structure](https://dev.to/morc_b13/ph-ntt-a-carry-free-transform-on-z-b-with-hierarchical-wavelet-structure-3omb)
+- [The Keyboard Layout Lie That’s Making Us Type Slower](https://dev.to/nikola/the-keyboard-layout-lie-thats-making-us-type-slower-45h1)
+- [Securing GenAI Applications: Prompt Injection, RAG Risks, and Data Isolation](https://dev.to/cygnetone/securing-genai-applications-prompt-injection-rag-risks-and-data-isolation-2o37)
+- [Anime Nexus — a sleek community planner for anime fans](https://dev.to/joyboy_07/anime-nexus-a-sleek-community-planner-for-anime-fans-67h)
+- [IoT Development with kiro: Part 1. STM32 on Zephyr](https://dev.to/aws-builders/iot-development-with-kiro-part-1-stm32-on-zephyr-1jg9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
