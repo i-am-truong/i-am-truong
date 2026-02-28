@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Claude Code Automates Software Development: A Deep-Dive Into AI-Powered Engineering Workflows](https://dev.to/th19930828/how-claude-code-automates-software-development-a-deep-dive-into-ai-powered-engineering-workflows-4j0)
-- [Building a Private AI Assistant in 2026 — No Cloud Required &lpar;Mostly&rpar;](https://dev.to/yankoaleksandrov/building-a-private-ai-assistant-in-2026-no-cloud-required-mostly-3d46)
-- [The End of Brittle Browser Automation is Here](https://dev.to/syncchain2026helix/the-end-of-brittle-browser-automation-is-here-3agk)
-- [GitHub Copilot CLI Executes Malware With Zero Approval. Your CI/CD Pipeline Would Have Caught It.](https://dev.to/matthewhou/github-copilot-cli-executes-malware-with-zero-approval-your-cicd-pipeline-would-have-caught-it-4g19)
-- [Why I Became a Developer &lpar;And Why I&#39;m Still Here 17 Years Later&rpar;](https://dev.to/crystalreyesdev/why-i-became-a-developer-and-why-im-still-here-17-years-later-261m)
+- [Аз Съм Спартак! — The Pulse of a Football Community](https://dev.to/k1lgor/az-sm-spartak-the-pulse-of-a-football-community-3dah)
+- [Platform Engineering Without the Ticket Factory](https://dev.to/anderson_leite/platform-engineering-without-the-ticket-factory-kc4)
+- [Inside OpenClaw: How AI Agents Actually Work &lpar;And Why It&#39;s Not Magic&rpar;](https://dev.to/nazarf/inside-openclaw-how-ai-agents-actually-work-and-why-its-not-magic-1im1)
+- [I Stopped Manually Filling PDFs — Here’s the Workflow That Finally Made Sense](https://dev.to/hafiz_huzaifazaifi_13f/i-stopped-manually-filling-pdfs-heres-the-workflow-that-finally-made-sense-1nj8)
+- [PostgreSQL XID Wraparound: What It Is and How to Prevent It](https://dev.to/philip_mcclarence_2ef9475/postgresql-xid-wraparound-what-it-is-and-how-to-prevent-it-4gnd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
