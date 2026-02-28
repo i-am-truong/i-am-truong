@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [FreeBSD AI-Written WiFi Driver for MacBook: Real-World Result](https://dev.to/maverickjkp/freebsd-ai-written-wifi-driver-for-macbook-real-world-result-533h)
-- [Testing Microservice Changes from Git Worktrees End to End Without the Terminal Tab Explosion](https://dev.to/janvandorth/testing-microservice-changes-from-git-worktrees-end-to-end-without-the-terminal-tab-explosion-e1f)
-- [The Economics of Calculator Content: How Free Tools Drive Organic Traffic](https://dev.to/julien786534/the-economics-of-calculator-content-how-free-tools-drive-organic-traffic-1p01)
-- [🚀 Stop Guessing Which LLM Runs on Your Machine — Meet llmfit](https://dev.to/lokeshsenthilkumar/stop-guessing-which-llm-runs-on-your-machine-meet-llmfit-3dkg)
-- [Your AI Coding Assistant is Probably Writing Vulnerabilities. Here&#39;s How to Catch Them.](https://dev.to/aditi_bhatnagar_0250c01e4/your-ai-coding-assistant-is-probably-writing-vulnerabilities-heres-how-to-catch-them-3k8j)
+- [We stopped teaching AI and started shipping client projects with volunteer teams. Here&#39;s the architecture.](https://dev.to/contextfirstai/we-stopped-teaching-ai-and-started-shipping-client-projects-with-volunteer-teams-heres-the-2k74)
+- [The Rise of Native CSS: Revolutionizing Web Development in 2023](https://dev.to/dd8888/the-rise-of-native-css-revolutionizing-web-development-in-2023-ad2)
+- [RAG Explained for SQL Developers: Think of It as SELECT, But for Meaning](https://dev.to/prabhuvikas/rag-explained-for-sql-developers-think-of-it-as-select-but-for-meaning-olg)
+- [The Secret Life of Python: The Blueprint &lpar;The Builder Pattern&rpar;](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-blueprint-the-builder-pattern-4kbh)
+- [The Map Is Not the Territory: How Mental Models Both Help and Hinder Decisions](https://dev.to/_b8d89ece3338719863cb03/the-map-is-not-the-territory-how-mental-models-both-help-and-hinder-decisions-5672)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
