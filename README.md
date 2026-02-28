@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your Identity System Is Your Biggest Single Point of Failure](https://dev.to/ntctech/your-identity-system-is-your-biggest-single-point-of-failure-59ja)
-- [Decision Minimalism: The Case for Making Fewer Choices](https://dev.to/_b8d89ece3338719863cb03/decision-minimalism-the-case-for-making-fewer-choices-4d54)
-- [Async/Await in C# — A Deep Dive Into How Asynchronous Programming Really Works](https://dev.to/libintombaby/asyncawait-in-c-a-deep-dive-into-how-asynchronous-programming-really-works-3f01)
-- [Track My Cash: Building a Secure, Decoupled Ledger with Spring Boot, Vanilla JS, and Gemini](https://dev.to/rohithv07/track-my-cash-building-a-secure-decoupled-ledger-with-spring-boot-vanilla-js-and-gemini-2d79)
-- [I Won The Build4Students Hackathon! WeRelaySyllabus Devlog](https://dev.to/hamdivazim/i-won-the-build4students-hackathon-werelaysyllabus-devlog-ed4)
+- [Protocol Launcher Series: One-Click GitHub Desktop Collaboration](https://dev.to/zhensherlock/protocol-launcher-series-one-click-github-desktop-collaboration-4j29)
+- [Moral Hazard in Decision-Making: When Protection Creates Recklessness](https://dev.to/_b8d89ece3338719863cb03/moral-hazard-in-decision-making-when-protection-creates-recklessness-2ne9)
+- [The Killer App of LLMs Isn&#39;t What You Think](https://dev.to/aaronzara/the-killer-app-of-llms-isnt-what-you-think-3ka6)
+- [Stop Parsing JSON by Hand: Structured LLM Outputs With Pydantic](https://dev.to/klement_gunndu/stop-parsing-json-by-hand-structured-llm-outputs-with-pydantic-1pg0)
+- [Decision Journaling: The Simplest Practice That Transforms Decision Quality](https://dev.to/_b8d89ece3338719863cb03/decision-journaling-the-simplest-practice-that-transforms-decision-quality-mgi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
