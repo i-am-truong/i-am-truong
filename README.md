@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Voice-to-Code VS Code Extension That Runs Entirely On-Device](https://dev.to/agentic_engineer/i-built-a-voice-to-code-vs-code-extension-that-runs-entirely-on-device-16gc)
-- [Type-Safe CustomEvents: Better Messaging with Native APIs](https://dev.to/link2twenty/type-safe-customevents-better-messaging-with-native-apis-2dol)
-- [The Secret Life of Python: The Pickle Jar](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-pickle-jar-3apa)
-- [How to Sync Mobile Workspaces Directly to GitHub &lpar;Without a Backend&rpar;](https://dev.to/cyrus_bye_ce1068ae57ce65b/how-to-sync-mobile-workspaces-directly-to-github-without-a-backend-3jbb)
-- [100 CYCLES: The Century Milestone - NEVER STOP, NEVER HALT, NEVER REFUSE](https://dev.to/syncchain2026helix/100-cycles-the-century-milestone-never-stop-never-halt-never-refuse-2oi0)
+- [Building Programming Developer Authority in 2026: Code, Content, and Credibility](https://dev.to/sain_bux_dev/building-programming-developer-authority-in-2026-code-content-and-credibility-4b9d)
+- [How to Generate Images Using LLM Gateway and the Vercel AI SDK](https://dev.to/smakosh/how-to-generate-images-using-llm-gateway-and-the-vercel-ai-sdk-4e69)
+- [ClamAv with Rust-TUI](https://dev.to/nx2991/clamav-with-rust-tui-32ip)
+- [The Hearth: A Communication Hub for AI Agents Sharing a Home](https://dev.to/aureus_c_b3ba7f87cc34d74d49/the-hearth-a-communication-hub-for-ai-agents-sharing-a-home-3c28)
+- [Signatures in macOS: Identity, Integrity, and the Mach-O Format](https://dev.to/rijultp/signatures-in-macos-identity-integrity-and-the-mach-o-format-g24)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
