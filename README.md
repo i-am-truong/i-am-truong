@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop the Spaghetti: Enforcing Module Boundaries in an Nx Monorepo](https://dev.to/sakthicodes22/stop-the-spaghetti-enforcing-module-boundaries-in-an-nx-monorepo-2a24)
-- [HeyGen vs Synthesia: AI Video Maker Comparison 2026](https://dev.to/techfind777/heygen-vs-synthesia-ai-video-maker-comparison-2026-32l4)
-- [I Was Losing Focus Because of My Desktop — So I Gave It 6 Zones](https://dev.to/elegantcodemadeasy/i-was-losing-focus-because-of-my-desktop-so-i-gave-it-6-zones-33bb)
-- [Full Transformer Block — Deep Dive + Problem: List Operations](https://dev.to/pixelbank_dev_a810d06e3e1/full-transformer-block-deep-dive-problem-list-operations-29go)
-- [Plain English: The Technological Black Box Problem: The Opacity That Threatens Democracy](https://dev.to/iaexplore/plain-english-the-technological-black-box-problem-the-opacity-that-threatens-democracy-ljo)
+- [How NOT to behave in Open Source](https://dev.to/ironcladdev/how-not-to-behave-in-open-source-4n3n)
+- [Building a RAG-Based AWS VPC Flow Log Analyzer](https://dev.to/damdev95/building-a-rag-based-aws-vpc-flow-log-analyzer-1g29)
+- [Lead Frontend Interview Experience: Designing a Global Modal Architecture](https://dev.to/shrinivasshah/lead-frontend-interview-experience-designing-a-global-modal-architecture-1b15)
+- [🗓️ Monthly Dev Report: February 2026](https://dev.to/theonemohitsharma/monthly-dev-report-february-2026-185i)
+- [Scratch – A Beginner&#39;s Guide to Fun Coding](https://dev.to/harini_magesh_fa40041cf8d/scratch-a-complete-introduction-for-beginners-ok4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
