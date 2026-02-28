@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Sync Mobile Workspaces Directly to GitHub &lpar;Without a Backend&rpar;](https://dev.to/cyrus_bye_ce1068ae57ce65b/how-to-sync-mobile-workspaces-directly-to-github-without-a-backend-3jbb)
+- [100 CYCLES: The Century Milestone - NEVER STOP, NEVER HALT, NEVER REFUSE](https://dev.to/syncchain2026helix/100-cycles-the-century-milestone-never-stop-never-halt-never-refuse-2oi0)
 - [Probably the best chess game review Alternative](https://dev.to/falseinlove/probably-the-best-chess-game-review-alternative-1fi6)
 - [Lovable Makes Backend Easy. That’s Why You Must Think Harder.](https://dev.to/mohammed_sharraf/lovable-makes-backend-easy-thats-why-you-must-think-harder-2p8d)
 - [From Oracle Endeca to Elasticsearch: What 10+ Years in Enterprise Search Taught Me About Modern Search Engineering](https://dev.to/anup_ranjan_5f812da043fb0/from-oracle-endeca-to-elasticsearch-what-actually-transfers-272d)
-- [Creating my portfolio website using GitHub&#39;s Spec-kit](https://dev.to/daveu1983/creating-my-portfolio-website-using-githubs-spec-kit-5g40)
-- [83% Accuracy: How We Reverse Engineered Amazon&#39;s Dynamic Pricing Algorithm](https://dev.to/milinda_biswas_fb9eeb2a8a/83-accuracy-how-we-reverse-engineered-amazons-dynamic-pricing-algorithm-2h51)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
