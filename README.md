@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Phase 1 - Building a Multi-Region Backend on Azure &lpar;Before Azure Front Door&rpar;](https://dev.to/pilgrim2go/phase-1-building-a-multi-region-backend-on-azure-before-azure-front-door-1ik)
-- [Phase 2 — Global Routing with Azure Front Door &lpar;Standard&rpar; Using Azure CLI](https://dev.to/pilgrim2go/phase-2-global-routing-with-azure-front-door-standard-using-azure-cli-2on5)
-- [Building FleetVault — A Clean Multi-User Storage System with PHP &amp; MySQL](https://dev.to/aniketyadav0/building-fleetvault-a-clean-multi-user-storage-system-with-php-mysql-409g)
-- [Line of Defense: Three Systems, Not One](https://dev.to/saumya_karnwal/line-of-defense-three-systems-not-one-4h6o)
-- [Building Your Own AI-Powered StreamDeck with re:Button](https://dev.to/vsenger/building-your-own-ai-powered-streamdeck-with-rebutton-4ol5)
+- [CloYou Is Finally Live — A Founder’s Note on Building an AI That Thinks With You](https://dev.to/cloyouai/cloyou-is-finally-live-a-founders-note-on-building-an-ai-that-thinks-with-you-4ogb)
+- [Building a Privacy-First Mobile Speech Assistant Using Google Gemini](https://dev.to/ujja/building-a-privacy-first-mobile-speech-assistant-using-google-gemini-59pm)
+- [Python sigmoid&lpar;&rpar;](https://dev.to/slackman/python-sigmoid-kgh)
+- [Reflexivity: How Our Beliefs Change the Reality We Observe](https://dev.to/_b8d89ece3338719863cb03/reflexivity-how-our-beliefs-change-the-reality-we-observe-5fk9)
+- [I’ve replaced POCOs with Stateless Models. Am I crazy or is this the future of #performance?](https://dev.to/thuangf45/ive-replaced-pocos-with-stateless-models-am-i-crazy-or-is-this-the-future-of-performance-2dh3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
