@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [φ-NTT: A Carry-Free Transform on Z ^B with Hierarchical Wavelet Structure](https://dev.to/morc_b13/ph-ntt-a-carry-free-transform-on-z-b-with-hierarchical-wavelet-structure-3omb)
-- [The Keyboard Layout Lie That’s Making Us Type Slower](https://dev.to/nikola/the-keyboard-layout-lie-thats-making-us-type-slower-45h1)
-- [Securing GenAI Applications: Prompt Injection, RAG Risks, and Data Isolation](https://dev.to/cygnetone/securing-genai-applications-prompt-injection-rag-risks-and-data-isolation-2o37)
-- [Anime Nexus — a sleek community planner for anime fans](https://dev.to/joyboy_07/anime-nexus-a-sleek-community-planner-for-anime-fans-67h)
-- [IoT Development with kiro: Part 1. STM32 on Zephyr](https://dev.to/aws-builders/iot-development-with-kiro-part-1-stm32-on-zephyr-1jg9)
+- [Your Identity System Is Your Biggest Single Point of Failure](https://dev.to/ntctech/your-identity-system-is-your-biggest-single-point-of-failure-59ja)
+- [Decision Minimalism: The Case for Making Fewer Choices](https://dev.to/_b8d89ece3338719863cb03/decision-minimalism-the-case-for-making-fewer-choices-4d54)
+- [Async/Await in C# — A Deep Dive Into How Asynchronous Programming Really Works](https://dev.to/libintombaby/asyncawait-in-c-a-deep-dive-into-how-asynchronous-programming-really-works-3f01)
+- [Track My Cash: Building a Secure, Decoupled Ledger with Spring Boot, Vanilla JS, and Gemini](https://dev.to/rohithv07/track-my-cash-building-a-secure-decoupled-ledger-with-spring-boot-vanilla-js-and-gemini-2d79)
+- [I Won The Build4Students Hackathon! WeRelaySyllabus Devlog](https://dev.to/hamdivazim/i-won-the-build4students-hackathon-werelaysyllabus-devlog-ed4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
