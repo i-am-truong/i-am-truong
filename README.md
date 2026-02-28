@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Add a Contact Form to Any Static Website &lpar;Without a Backend&rpar;](https://dev.to/snapform/how-to-add-a-contact-form-to-any-static-website-without-a-backend-36in)
-- [How I Built Videly Ei8, Video Hosting Platform on a Shoestring Budget](https://dev.to/rezapurnama/how-i-built-videly-ei8-video-hosting-platform-on-a-shoestring-budget-5eng)
-- [Wiring Up SMART on FHIR OAuth2 Between OpenEMR and a Python Microservice Locally](https://dev.to/jack0lantern/wiring-up-smart-on-fhir-oauth2-between-openemr-and-a-python-microservice-locally-h27)
-- [Introducing codespaces.el: The Best Way to Use GitHub Codespaces](https://dev.to/f4ban/introducing-codespacesel-the-best-way-to-use-github-codespaces-1cd)
-- [Finding the Breaking Point: Data-Driven Load Testing with JMeter &amp; Docker](https://dev.to/karakoyunlu/finding-the-breaking-point-data-driven-load-testing-with-jmeter-docker-245f)
+- [How I Built a Credit Card Rewards Optimizer with React Native, Supabase, and Stripe in 2 Weeks](https://dev.to/tahseen_rahman/how-i-built-a-credit-card-rewards-optimizer-with-react-native-supabase-and-stripe-in-2-weeks-421a)
+- [☁️ From Code to Cloud: A Story of System Design](https://dev.to/aswincodes/from-code-to-cloud-a-story-of-system-design-24e)
+- [I Used 22 Prompts to Plan an Entire MuleSoft-to-.NET Migration. Here&#39;s the Playbook.](https://dev.to/joietej/i-used-22-prompts-to-plan-an-entire-mulesoft-to-net-migration-heres-the-playbook-2a79)
+- [Making Music with Code: Introduction to Sonic Pi](https://dev.to/carlosdon/making-music-with-code-introduction-to-sonic-pi-1a5o)
+- [Stop Using Random SSH Tools — I Built a Secure Offline DevOps Workstation](https://dev.to/sathish_dev/stop-using-random-ssh-tools-i-built-a-secure-offline-devops-workstation-474b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
