@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic&#39;s dispute with the DOD raises critical questions for US military partners like Nvidia, Google, Amazon, and...](https://dev.to/chx381/anthropics-dispute-with-the-dod-raises-critical-questions-for-us-military-partners-like-nvidia-3l5o)
-- [How We Built a Browser-Based Image Converter with WebAssembly Encoders](https://dev.to/_85dbad023e63293c4c6db/how-we-built-a-browser-based-image-converter-with-webassembly-encoders-3i39)
-- [Local LLM Agent Benchmark: Comparing 6 Models in Real-World Scenarios](https://dev.to/kim_namhyun_e7535f3dc4c69/local-llm-agent-benchmark-comparing-6-models-in-real-world-scenarios-3ffb)
-- [I Vibe Coded a Daily Tarot App in 2 Months with Cursor + Cloudflare — Here&#39;s What AI Can&#39;t Do &lpar;Yet&rpar;](https://dev.to/xianghua_feng_fe6a036b774/i-vibe-coded-a-daily-tarot-app-in-2-months-with-cursor-cloudflare-heres-what-ai-cant-do-yet-4km9)
-- [SSL Certificates Explained: A Deep Dive into Encryption, Attacks, and How HTTPS Secures the Web 🔐](https://dev.to/jps27cse/ssl-certificates-explained-a-deep-dive-into-encryption-attacks-and-how-https-secures-the-web-4han)
+- [Building OmniGuide AI — A Real-Time Visual Assistant with Gemini Live](https://dev.to/zenieverse/building-omniguide-ai-a-real-time-visual-assistant-with-gemini-live-120e)
+- [vCluster &lpar;Virtual Clusters&rpar;](https://dev.to/godofgeeks/vcluster-virtual-clusters-532e)
+- [386 Malicious Skills: How ClawMoat&#39;s Skill Audit Would Have Caught Them](https://dev.to/darbogach/386-malicious-skills-how-clawmoats-skill-audit-would-have-caught-them-59l4)
+- [Can any one help....?](https://dev.to/sudish_deuja_fdbff506d0c8/can-any-one-help-ei)
+- [CVE-2026-28351: CVE-2026-28351: Uncontrolled Resource Consumption in pypdf RunLengthDecode](https://dev.to/cverports/cve-2026-28351-cve-2026-28351-uncontrolled-resource-consumption-in-pypdf-runlengthdecode-4o7j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
