@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Built a Gemini-Powered History Narrator 6 Months Ago. Here&#39;s What I&#39;d Tell You Now.](https://dev.to/axrisi/i-built-a-gemini-powered-history-narrator-6-months-ago-heres-what-id-tell-you-now-dkg)
+- [Flutter in 2026: What It Is, Why It Matters, and Why App Development Is a Skill Worth Learning?](https://dev.to/safiullahkorai/flutter-in-2026-what-it-is-why-it-matters-and-why-app-development-is-a-skill-worth-learning-1h20)
+- [You&#39;re Flying Blind With Your AI Agents. Here&#39;s How to Fix It.](https://dev.to/dor_amir_dbb52baafff7ca5b/youre-flying-blind-with-your-ai-agents-heres-how-to-fix-it-3hdh)
+- [Database Indexing Made Easy: SQL vs MongoDB](https://dev.to/satishjaiswal/database-indexing-made-easy-sql-vs-mongodb-2cgp)
 - [I built a CLI that rolls movie-style credits for your git repo](https://dev.to/higangssh/i-built-a-cli-that-rolls-movie-style-credits-for-your-git-repo-6de)
-- [The Decision Ladder Model for Skilled Performance](https://dev.to/_b8d89ece3338719863cb03/the-decision-ladder-model-for-skilled-performance-4cbf)
-- [Sharing Good Books: Secrets to Successful WFH](https://dev.to/evanlin/sharing-good-books-secrets-to-successful-wfh-5g8j)
-- [LINE Bot with Long Memory: Firebase Database, Gemini Pro, and Cloud Functions](https://dev.to/evanlin/line-bot-with-long-memory-firebase-database-gemini-pro-and-cloud-functions-455j)
-- [Setting up a professional macOS dev environment in 2026](https://dev.to/sami/setting-up-a-professional-macos-dev-environment-in-2026-3ine)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
