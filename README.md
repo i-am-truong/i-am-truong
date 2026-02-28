@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a small SSH wrapper to reduce daily friction](https://dev.to/linkwithjoydeep/i-built-a-small-ssh-wrapper-to-reduce-daily-friction-651)
-- [I&#39;m Building a Programming Language From Scratch. Here&#39;s What That&#39;s Actually Like.](https://dev.to/ericdacoder/im-building-a-programming-language-from-scratch-heres-what-thats-actually-like-4aji)
-- [Coding is dead; Engineering is not.](https://dev.to/sheraz4194/coding-is-dead-engineering-is-not-3il2)
-- [📝 Dev.to Writers Community: One Command to Maintain Them All](https://dev.to/zenika/devto-writers-community-one-command-to-maintain-them-all-2feo)
-- [Bringing up an AmpereOne system](https://dev.to/luzero/bringing-up-an-ampereone-system-1ln6)
+- [RAG — Building Reliable AI Pipelines](https://dev.to/madhesh00/rag-building-reliable-ai-pipelines-4kfi)
+- [Easily Minify Your CSS and JS in Symfony with SensioLabs Minify Bundle](https://dev.to/hypernetware/easily-minify-your-css-and-js-in-symfony-with-sensiolabs-minify-bundle-50hf)
+- [Continuous Refactoring with LLMs: Patterns That Work in Production](https://dev.to/dextralabs/continuous-refactoring-with-llms-patterns-that-work-in-production-136e)
+- [Your README Is Already a Website](https://dev.to/davorg/your-readme-is-already-a-website-dg7)
+- [Stop Downloading Apps for Your Kids. Build Them Instead.](https://dev.to/meimakes/stop-downloading-apps-for-your-kids-build-them-instead-1bhn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
