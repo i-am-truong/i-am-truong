@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Qoranet&#39;s Pure Rust AI Infrastructure](https://dev.to/blockmandev/qoranet-1lok)
-- [BoTTube Integration Guide: Building AI Agents for the First Video Platform Built for Automation](https://dev.to/sa_sami_2777e227533e23b3d/bottube-integration-guide-building-ai-agents-for-the-first-video-platform-built-for-automation-4ei6)
-- [🚨The $100B AI Time Bomb: Why DeepSeek Broke the Market and the CapEx Crisis No One Wants to See](https://dev.to/santiagopalma12/the-100b-ai-time-bomb-why-deepseek-broke-the-market-and-the-capex-crisis-no-one-wants-to-see-hi9)
-- [Week 3](https://dev.to/timothy_imanuel_35225c051/week-3-3e1a)
-- [Why I Love These Kinds of Challenges 🔥](https://dev.to/julsr_mx/why-i-love-these-kinds-of-challenges-15n9)
+- [Phase 1 - Building a Multi-Region Backend on Azure &lpar;Before Azure Front Door&rpar;](https://dev.to/pilgrim2go/phase-1-building-a-multi-region-backend-on-azure-before-azure-front-door-1ik)
+- [Phase 2 — Global Routing with Azure Front Door &lpar;Standard&rpar; Using Azure CLI](https://dev.to/pilgrim2go/phase-2-global-routing-with-azure-front-door-standard-using-azure-cli-2on5)
+- [Building FleetVault — A Clean Multi-User Storage System with PHP &amp; MySQL](https://dev.to/aniketyadav0/building-fleetvault-a-clean-multi-user-storage-system-with-php-mysql-409g)
+- [Line of Defense: Three Systems, Not One](https://dev.to/saumya_karnwal/line-of-defense-three-systems-not-one-4h6o)
+- [Building Your Own AI-Powered StreamDeck with re:Button](https://dev.to/vsenger/building-your-own-ai-powered-streamdeck-with-rebutton-4ol5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
