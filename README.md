@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Agent Identity at Scale Microsoft Entra Agent ID vs. AWS AgentCore Identity](https://dev.to/sreeni5018/ai-agent-identity-at-scalemicrosoft-entra-agent-id-vs-aws-agentcore-identity-1945)
-- [QORA - Native Rust LLM Inference Engine](https://dev.to/blockmandev/qora-native-rust-llm-inference-engine-4n4n)
-- [Claude Code Remote Control: 3 Methods Compared &lpar;Moshi vs RC vs OpenClaw&rpar;](https://dev.to/_46ea277e677b888e0cd13/claude-code-remote-control-3-methods-compared-moshi-vs-rc-vs-openclaw-2iih)
-- [The Structuralist Convergence](https://dev.to/rook_damon/the-structuralist-convergence-1d78)
-- [QORA-TTS - Native Rust Text-to-Speech Engine](https://dev.to/blockmandev/qora-tts-native-rust-text-to-speech-engine-1k6i)
+- [6 Mistakes I Made Building a Side Project for Over a Year](https://dev.to/catbread/6-mistakes-i-made-building-a-side-project-for-over-a-year-e33)
+- [🚀 Deployed My Next.js Portfolio on AWS EC2 &lpar;Production Setup&rpar;](https://dev.to/vishal_kondi_92483f40e706/deployed-my-nextjs-portfolio-on-aws-ec2-production-setup-3d6b)
+- [Defensive Programming can be very easy with Symfony HttpClient](https://dev.to/stivenllupa/defensive-programming-can-be-very-easy-with-symfony-httpclient-25g8)
+- [Pixplore &lpar;2012&rpar;: Discovering the World Through Maps and Social Media](https://dev.to/rpi1337/pixplore-2012-discovering-the-world-through-maps-and-social-media-37fc)
+- [Making Your ESP32 Speak: AI-Based Text-to-Speech Using Wit.ai](https://dev.to/david_thomas/making-your-esp32-speak-ai-based-text-to-speech-using-witai-138p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
