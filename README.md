@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Safer Online Spaces with CommonGround](https://dev.to/ujja/building-safer-online-spaces-with-commonground-2746)
+- [CVE-2026-28279: osctrl-admin Enrollment Script Command Injection](https://dev.to/cverports/cve-2026-28279-osctrl-admin-enrollment-script-command-injection-3bhg)
+- [How to Detect Science Sentiment Shifts with the Pulsebit API &lpar;Python&rpar;](https://dev.to/pulsebitapi/how-to-detect-science-sentiment-shifts-with-the-pulsebit-api-python-3ei2)
 - [Building OmniGuide AI — A Real-Time Visual Assistant with Gemini Live](https://dev.to/zenieverse/building-omniguide-ai-a-real-time-visual-assistant-with-gemini-live-120e)
 - [vCluster &lpar;Virtual Clusters&rpar;](https://dev.to/godofgeeks/vcluster-virtual-clusters-532e)
-- [386 Malicious Skills: How ClawMoat&#39;s Skill Audit Would Have Caught Them](https://dev.to/darbogach/386-malicious-skills-how-clawmoats-skill-audit-would-have-caught-them-59l4)
-- [Can any one help....?](https://dev.to/sudish_deuja_fdbff506d0c8/can-any-one-help-ei)
-- [CVE-2026-28351: CVE-2026-28351: Uncontrolled Resource Consumption in pypdf RunLengthDecode](https://dev.to/cverports/cve-2026-28351-cve-2026-28351-uncontrolled-resource-consumption-in-pypdf-runlengthdecode-4o7j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
