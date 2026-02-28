@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [RAG — Building Reliable AI Pipelines](https://dev.to/madhesh00/rag-building-reliable-ai-pipelines-4kfi)
-- [Easily Minify Your CSS and JS in Symfony with SensioLabs Minify Bundle](https://dev.to/hypernetware/easily-minify-your-css-and-js-in-symfony-with-sensiolabs-minify-bundle-50hf)
-- [Continuous Refactoring with LLMs: Patterns That Work in Production](https://dev.to/dextralabs/continuous-refactoring-with-llms-patterns-that-work-in-production-136e)
-- [Your README Is Already a Website](https://dev.to/davorg/your-readme-is-already-a-website-dg7)
-- [Stop Downloading Apps for Your Kids. Build Them Instead.](https://dev.to/meimakes/stop-downloading-apps-for-your-kids-build-them-instead-1bhn)
+- [AI Agent Identity at Scale Microsoft Entra Agent ID vs. AWS AgentCore Identity](https://dev.to/sreeni5018/ai-agent-identity-at-scalemicrosoft-entra-agent-id-vs-aws-agentcore-identity-1945)
+- [QORA - Native Rust LLM Inference Engine](https://dev.to/blockmandev/qora-native-rust-llm-inference-engine-4n4n)
+- [Claude Code Remote Control: 3 Methods Compared &lpar;Moshi vs RC vs OpenClaw&rpar;](https://dev.to/_46ea277e677b888e0cd13/claude-code-remote-control-3-methods-compared-moshi-vs-rc-vs-openclaw-2iih)
+- [The Structuralist Convergence](https://dev.to/rook_damon/the-structuralist-convergence-1d78)
+- [QORA-TTS - Native Rust Text-to-Speech Engine](https://dev.to/blockmandev/qora-tts-native-rust-text-to-speech-engine-1k6i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
