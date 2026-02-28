@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Python f&lpar;x&rpar; &amp; grad](https://dev.to/slackman/python-fx-grad-158m)
-- [Parte 3: Adicionando Multi-Tenancy por Coluna Discriminadora](https://dev.to/uiratan/parte-3-adicionando-multi-tenancy-por-coluna-discriminadora-4a8o)
-- [How I Replaced $3,000/Year of SaaS With 50 Lines of Code - Building FeatureDrop](https://dev.to/thegdsks/how-i-replaced-3000year-of-saas-with-50-lines-of-code-building-featuredrop-9ji)
-- [15-Minute Node.js Setup: From Zero to Production &lpar;GraphQL, PostgreSQL, Docker &amp; CI/CD&rpar;](https://dev.to/paudang/15-minute-nodejs-setup-from-zero-to-production-graphql-postgresql-docker-cicd-11eg)
-- [Sandboxed Python in the Browser with Pydantic&#39;s Monty](https://dev.to/victorstackai/sandboxed-python-in-the-browser-with-pydantics-monty-10ne)
+- [Qoranet&#39;s Pure Rust AI Infrastructure](https://dev.to/blockmandev/qoranet-1lok)
+- [BoTTube Integration Guide: Building AI Agents for the First Video Platform Built for Automation](https://dev.to/sa_sami_2777e227533e23b3d/bottube-integration-guide-building-ai-agents-for-the-first-video-platform-built-for-automation-4ei6)
+- [🚨The $100B AI Time Bomb: Why DeepSeek Broke the Market and the CapEx Crisis No One Wants to See](https://dev.to/santiagopalma12/the-100b-ai-time-bomb-why-deepseek-broke-the-market-and-the-capex-crisis-no-one-wants-to-see-hi9)
+- [Week 3](https://dev.to/timothy_imanuel_35225c051/week-3-3e1a)
+- [Why I Love These Kinds of Challenges 🔥](https://dev.to/julsr_mx/why-i-love-these-kinds-of-challenges-15n9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
