@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Gemini-Powered History Narrator 6 Months Ago. Here&#39;s What I&#39;d Tell You Now.](https://dev.to/axrisi/i-built-a-gemini-powered-history-narrator-6-months-ago-heres-what-id-tell-you-now-dkg)
-- [Flutter in 2026: What It Is, Why It Matters, and Why App Development Is a Skill Worth Learning?](https://dev.to/safiullahkorai/flutter-in-2026-what-it-is-why-it-matters-and-why-app-development-is-a-skill-worth-learning-1h20)
-- [You&#39;re Flying Blind With Your AI Agents. Here&#39;s How to Fix It.](https://dev.to/dor_amir_dbb52baafff7ca5b/youre-flying-blind-with-your-ai-agents-heres-how-to-fix-it-3hdh)
-- [Database Indexing Made Easy: SQL vs MongoDB](https://dev.to/satishjaiswal/database-indexing-made-easy-sql-vs-mongodb-2cgp)
-- [I built a CLI that rolls movie-style credits for your git repo](https://dev.to/higangssh/i-built-a-cli-that-rolls-movie-style-credits-for-your-git-repo-6de)
+- [I built a small SSH wrapper to reduce daily friction](https://dev.to/linkwithjoydeep/i-built-a-small-ssh-wrapper-to-reduce-daily-friction-651)
+- [I&#39;m Building a Programming Language From Scratch. Here&#39;s What That&#39;s Actually Like.](https://dev.to/ericdacoder/im-building-a-programming-language-from-scratch-heres-what-thats-actually-like-4aji)
+- [Coding is dead; Engineering is not.](https://dev.to/sheraz4194/coding-is-dead-engineering-is-not-3il2)
+- [📝 Dev.to Writers Community: One Command to Maintain Them All](https://dev.to/zenika/devto-writers-community-one-command-to-maintain-them-all-2feo)
+- [Bringing up an AmpereOne system](https://dev.to/luzero/bringing-up-an-ampereone-system-1ln6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
