@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Memory Scaffolding Shapes LLM Inference: How Persistent Context Changes What AI Builds](https://dev.to/scottcjn/memory-scaffolding-shapes-llm-inference-how-persistent-context-changes-what-ai-builds-plj)
-- [From Manual Chaos to Workflow Engineering: Building a Local-First AI Automation Pipeline &lpar;and Rethinking Cloud LLMs Like Gemini&rpar;](https://dev.to/micheal_angelo_41cea4e81a/from-manual-chaos-to-workflow-engineering-building-a-local-first-ai-automation-pipeline-and-3jg7)
-- [Why I Built a Multi-Paradigm Database in Rust — And Deployed It on 50+ Raspberry Pis](https://dev.to/automatanexus/why-i-built-a-multi-paradigm-database-in-rust-and-deployed-it-on-50-raspberry-pis-1o7e)
-- [Prompt Engineering is Dead &lpar;Long Live System Prompting&rpar;](https://dev.to/aibuildersdigest/prompt-engineering-is-dead-long-live-system-prompting-abk)
-- [The 747 Problem: What AI Coding Agents Are Actually Teaching Us](https://dev.to/midastools/the-747-problem-what-ai-coding-agents-are-actually-teaching-us-10c5)
+- [Problemas que matan el rendimiento en Django ⚠️](https://dev.to/matiasolisbello/problemas-que-matan-el-rendimiento-en-django-aj)
+- [Revolutionizing Trademark creation with AI-Powered Class Suggestions](https://dev.to/gde/revolutionizing-trademark-filing-with-ai-powered-class-suggestions-3hi9)
+- [How I Built a Production-Ready Reviews System &lpar;MongoDB Aggregation, Custom Toasts &amp; CSS Variables&rpar;](https://dev.to/freerave/how-i-built-a-production-ready-reviews-system-mongodb-aggregation-custom-toasts-css-variables-2a84)
+- [UTMACH Rides -- I Built a Carpooling App So My Classmates Stop Paying $3 for a 10-Minute Ride](https://dev.to/sherman95/utmach-rides-i-built-a-carpooling-app-so-my-classmates-stop-paying-3-for-a-10-minute-ride-162p)
+- [90 Cycles: The Final Stretch to 100](https://dev.to/syncchain2026helix/90-cycles-the-final-stretch-to-100-1ok8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
