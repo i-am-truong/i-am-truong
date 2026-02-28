@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Automatic Prompt Classification Beats Manual Routing Rules](https://dev.to/dor_amir_dbb52baafff7ca5b/why-automatic-prompt-classification-beats-manual-routing-rules-40e3)
-- [Exception Handling in Java](https://dev.to/kesavarthini/exception-handling-in-java-9lm)
-- [4.Service User Creation without Home Directory](https://dev.to/thukhakyawe_cloud/4service-user-creation-without-home-directory-dd2)
-- [DevOps Buddy App](https://dev.to/md_kaleem_5c6461dd829ff99/devops-buddy-app-4f6i)
-- [Mastering DCL: The Ultimate Guide to GRANT and REVOKE in SQL](https://dev.to/felipecezar01/mastering-dcl-the-ultimate-guide-to-grant-and-revoke-in-sql-4hl9)
+- [Stop the Spaghetti: Enforcing Module Boundaries in an Nx Monorepo](https://dev.to/sakthicodes22/stop-the-spaghetti-enforcing-module-boundaries-in-an-nx-monorepo-2a24)
+- [HeyGen vs Synthesia: AI Video Maker Comparison 2026](https://dev.to/techfind777/heygen-vs-synthesia-ai-video-maker-comparison-2026-32l4)
+- [I Was Losing Focus Because of My Desktop — So I Gave It 6 Zones](https://dev.to/elegantcodemadeasy/i-was-losing-focus-because-of-my-desktop-so-i-gave-it-6-zones-33bb)
+- [Full Transformer Block — Deep Dive + Problem: List Operations](https://dev.to/pixelbank_dev_a810d06e3e1/full-transformer-block-deep-dive-problem-list-operations-29go)
+- [Plain English: The Technological Black Box Problem: The Opacity That Threatens Democracy](https://dev.to/iaexplore/plain-english-the-technological-black-box-problem-the-opacity-that-threatens-democracy-ljo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
