@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Аз Съм Спартак! — The Pulse of a Football Community](https://dev.to/k1lgor/az-sm-spartak-the-pulse-of-a-football-community-3dah)
-- [Platform Engineering Without the Ticket Factory](https://dev.to/anderson_leite/platform-engineering-without-the-ticket-factory-kc4)
-- [Inside OpenClaw: How AI Agents Actually Work &lpar;And Why It&#39;s Not Magic&rpar;](https://dev.to/nazarf/inside-openclaw-how-ai-agents-actually-work-and-why-its-not-magic-1im1)
-- [I Stopped Manually Filling PDFs — Here’s the Workflow That Finally Made Sense](https://dev.to/hafiz_huzaifazaifi_13f/i-stopped-manually-filling-pdfs-heres-the-workflow-that-finally-made-sense-1nj8)
-- [PostgreSQL XID Wraparound: What It Is and How to Prevent It](https://dev.to/philip_mcclarence_2ef9475/postgresql-xid-wraparound-what-it-is-and-how-to-prevent-it-4gnd)
+- [FreeBSD AI-Written WiFi Driver for MacBook: Real-World Result](https://dev.to/maverickjkp/freebsd-ai-written-wifi-driver-for-macbook-real-world-result-533h)
+- [Testing Microservice Changes from Git Worktrees End to End Without the Terminal Tab Explosion](https://dev.to/janvandorth/testing-microservice-changes-from-git-worktrees-end-to-end-without-the-terminal-tab-explosion-e1f)
+- [The Economics of Calculator Content: How Free Tools Drive Organic Traffic](https://dev.to/julien786534/the-economics-of-calculator-content-how-free-tools-drive-organic-traffic-1p01)
+- [🚀 Stop Guessing Which LLM Runs on Your Machine — Meet llmfit](https://dev.to/lokeshsenthilkumar/stop-guessing-which-llm-runs-on-your-machine-meet-llmfit-3dkg)
+- [Your AI Coding Assistant is Probably Writing Vulnerabilities. Here&#39;s How to Catch Them.](https://dev.to/aditi_bhatnagar_0250c01e4/your-ai-coding-assistant-is-probably-writing-vulnerabilities-heres-how-to-catch-them-3k8j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
