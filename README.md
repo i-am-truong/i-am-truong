@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [6 Mistakes I Made Building a Side Project for Over a Year](https://dev.to/catbread/6-mistakes-i-made-building-a-side-project-for-over-a-year-e33)
-- [🚀 Deployed My Next.js Portfolio on AWS EC2 &lpar;Production Setup&rpar;](https://dev.to/vishal_kondi_92483f40e706/deployed-my-nextjs-portfolio-on-aws-ec2-production-setup-3d6b)
-- [Defensive Programming can be very easy with Symfony HttpClient](https://dev.to/stivenllupa/defensive-programming-can-be-very-easy-with-symfony-httpclient-25g8)
-- [Pixplore &lpar;2012&rpar;: Discovering the World Through Maps and Social Media](https://dev.to/rpi1337/pixplore-2012-discovering-the-world-through-maps-and-social-media-37fc)
-- [Making Your ESP32 Speak: AI-Based Text-to-Speech Using Wit.ai](https://dev.to/david_thomas/making-your-esp32-speak-ai-based-text-to-speech-using-witai-138p)
+- [The Era of Agentic Workflows &lpar;and why 80% reliability is a failure&rpar;](https://dev.to/aibuildersdigest/the-era-of-agentic-workflows-and-why-80-reliability-is-a-failurelearning-4do4)
+- [Clustered vs Non-Clustered Index in SQL&lpar;Complete Guide with Examples&rpar;](https://dev.to/mohammad-atif/clustered-vs-non-clustered-index-in-sqlcomplete-guide-with-examples-14gm)
+- [HookLab - Watch your Claude Code hooks in real time](https://dev.to/felipeelias/hooklab-watch-your-claude-code-hooks-in-real-time-42n3)
+- [Autonomous Teams Rule the Future of Work – Why Managed Teams Stall](https://dev.to/umesh_chandra_6913d8298f6/autonomous-teams-rule-the-future-of-work-why-managed-teams-stall-1joj)
+- [Tamper-Proof AI Agents: On-Chain Verification for AI Outputs](https://dev.to/theauroraai/tamper-proof-ai-agents-on-chain-verification-for-ai-outputs-28f8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
