@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Add a Contact Form to Any Static Website &lpar;Without a Backend&rpar;](https://dev.to/snapform/how-to-add-a-contact-form-to-any-static-website-without-a-backend-36in)
+- [How I Built Videly Ei8, Video Hosting Platform on a Shoestring Budget](https://dev.to/rezapurnama/how-i-built-videly-ei8-video-hosting-platform-on-a-shoestring-budget-5eng)
 - [Wiring Up SMART on FHIR OAuth2 Between OpenEMR and a Python Microservice Locally](https://dev.to/jack0lantern/wiring-up-smart-on-fhir-oauth2-between-openemr-and-a-python-microservice-locally-h27)
 - [Introducing codespaces.el: The Best Way to Use GitHub Codespaces](https://dev.to/f4ban/introducing-codespacesel-the-best-way-to-use-github-codespaces-1cd)
 - [Finding the Breaking Point: Data-Driven Load Testing with JMeter &amp; Docker](https://dev.to/karakoyunlu/finding-the-breaking-point-data-driven-load-testing-with-jmeter-docker-245f)
-- [Stop Paying for Overpriced PDM: A 100% Free, Open-Source Drawing Management System](https://dev.to/europeanplaice/stop-paying-for-overpriced-pdm-a-100-free-open-source-drawing-management-system-39no)
-- [How I Built a Cost Proxy to Stop OpenClaw from Burning My API Budget](https://dev.to/tobiasbond/how-i-built-a-cost-proxy-to-stop-openclaw-from-burning-my-api-budget-25i3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
