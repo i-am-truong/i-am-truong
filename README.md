@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Tragedy of the Commons: Why Shared Resources Get Destroyed](https://dev.to/_b8d89ece3338719863cb03/the-tragedy-of-the-commons-why-shared-resources-get-destroyed-5e7p)
-- [FullAgenticStack: Do Fail Fast ao Antifrágil - A Revolução do Intent-Healing Protocol](https://dev.to/fullagenticstack/fullagenticstack-do-fail-fast-ao-antifragil-a-revolucao-do-intent-healing-protocol-39o8)
-- [Why Stripe&#39;s API is the Gold Standard: Design Patterns That Every API Builder Should Steal](https://dev.to/yukioikeda/why-stripes-api-is-the-gold-standard-design-patterns-that-every-api-builder-should-steal-3ikk)
-- [16 Recursos Modernos do JavaScript Que Você Precisa Conhecer](https://dev.to/fullagenticstack/16-recursos-modernos-do-javascript-que-voce-precisa-conhecer-4m38)
-- [Preference Falsification: Why People Hide Their True Opinions](https://dev.to/_b8d89ece3338719863cb03/preference-falsification-why-people-hide-their-true-opinions-3c6n)
+- [Anthropic&#39;s dispute with the DOD raises critical questions for US military partners like Nvidia, Google, Amazon, and...](https://dev.to/chx381/anthropics-dispute-with-the-dod-raises-critical-questions-for-us-military-partners-like-nvidia-3l5o)
+- [How We Built a Browser-Based Image Converter with WebAssembly Encoders](https://dev.to/_85dbad023e63293c4c6db/how-we-built-a-browser-based-image-converter-with-webassembly-encoders-3i39)
+- [Local LLM Agent Benchmark: Comparing 6 Models in Real-World Scenarios](https://dev.to/kim_namhyun_e7535f3dc4c69/local-llm-agent-benchmark-comparing-6-models-in-real-world-scenarios-3ffb)
+- [I Vibe Coded a Daily Tarot App in 2 Months with Cursor + Cloudflare — Here&#39;s What AI Can&#39;t Do &lpar;Yet&rpar;](https://dev.to/xianghua_feng_fe6a036b774/i-vibe-coded-a-daily-tarot-app-in-2-months-with-cursor-cloudflare-heres-what-ai-cant-do-yet-4km9)
+- [SSL Certificates Explained: A Deep Dive into Encryption, Attacks, and How HTTPS Secures the Web 🔐](https://dev.to/jps27cse/ssl-certificates-explained-a-deep-dive-into-encryption-attacks-and-how-https-secures-the-web-4han)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
