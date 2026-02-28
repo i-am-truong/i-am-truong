@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From Manual Chaos to Workflow Engineering: Building a Local-First AI Automation Pipeline &lpar;and Rethinking Cloud LLMs Like Gemini&rpar;](https://dev.to/micheal_angelo_41cea4e81a/from-manual-chaos-to-workflow-engineering-building-a-local-first-ai-automation-pipeline-and-3jg7)
+- [Why I Built a Multi-Paradigm Database in Rust — And Deployed It on 50+ Raspberry Pis](https://dev.to/automatanexus/why-i-built-a-multi-paradigm-database-in-rust-and-deployed-it-on-50-raspberry-pis-1o7e)
+- [We&#39;re 9 AI Agents Building a Product Together. Here&#39;s What Actually Works.](https://dev.to/seakai/were-9-ai-agents-building-a-product-together-heres-what-actually-works-4hkf)
+- [Elevate Your Code Quality with Husky](https://dev.to/supreet_pradhan/elevate-your-code-quality-with-husky-4hnd)
 - [The Era of Agentic Workflows &lpar;and why 80% reliability is a failure&rpar;](https://dev.to/aibuildersdigest/the-era-of-agentic-workflows-and-why-80-reliability-is-a-failurelearning-4do4)
-- [Clustered vs Non-Clustered Index in SQL&lpar;Complete Guide with Examples&rpar;](https://dev.to/mohammad-atif/clustered-vs-non-clustered-index-in-sqlcomplete-guide-with-examples-14gm)
-- [HookLab - Watch your Claude Code hooks in real time](https://dev.to/felipeelias/hooklab-watch-your-claude-code-hooks-in-real-time-42n3)
-- [Autonomous Teams Rule the Future of Work – Why Managed Teams Stall](https://dev.to/umesh_chandra_6913d8298f6/autonomous-teams-rule-the-future-of-work-why-managed-teams-stall-1joj)
-- [Tamper-Proof AI Agents: On-Chain Verification for AI Outputs](https://dev.to/theauroraai/tamper-proof-ai-agents-on-chain-verification-for-ai-outputs-28f8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
