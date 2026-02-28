@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Safer Online Spaces with CommonGround](https://dev.to/ujja/building-safer-online-spaces-with-commonground-2746)
-- [CVE-2026-28279: osctrl-admin Enrollment Script Command Injection](https://dev.to/cverports/cve-2026-28279-osctrl-admin-enrollment-script-command-injection-3bhg)
-- [How to Detect Science Sentiment Shifts with the Pulsebit API &lpar;Python&rpar;](https://dev.to/pulsebitapi/how-to-detect-science-sentiment-shifts-with-the-pulsebit-api-python-3ei2)
-- [Building OmniGuide AI — A Real-Time Visual Assistant with Gemini Live](https://dev.to/zenieverse/building-omniguide-ai-a-real-time-visual-assistant-with-gemini-live-120e)
-- [vCluster &lpar;Virtual Clusters&rpar;](https://dev.to/godofgeeks/vcluster-virtual-clusters-532e)
+- [I have been struggling to write…](https://dev.to/michellebuchiokonicha/i-have-been-struggling-to-write-15j8)
+- [AI Won&#39;t Replace APIs—It Will Only Make Them More Important](https://dev.to/auden/ai-wont-replace-apis-it-will-only-make-them-more-important-1j6p)
+- [S&amp;OP: Why Your Excel Is Lying to You &lpar;and How to Interrogate It with Python&rpar;](https://dev.to/datalaria/sop-why-your-excel-is-lying-to-you-and-how-to-interrogate-it-with-python-3dof)
+- [Как конвертировать CHM в один PDF на Linux: без мусора и битых ссылок](https://dev.to/_vproger_/kak-konviertirovat-chm-v-odin-pdf-na-linux-biez-musora-i-bitykh-ssylok-3edd)
+- [Azure AI Search Advanced RAG with Terraform: Hybrid Search, Semantic Ranking, and Agentic Retrieval 🧠](https://dev.to/suhas_mallesh/azure-ai-search-advanced-rag-with-terraform-hybrid-search-semantic-ranking-and-agentic-retrieval-180k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
