@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From GitHub to Knowledge Panel: A Developer’s Digital Identity Stack](https://dev.to/sain_bux_dev/from-github-to-knowledge-panel-a-developers-digital-identity-stack-2i2c)
+- [105 Cycles: The End of Brittle Browser Automation is Here](https://dev.to/syncchain2026helix/105-cycles-the-end-of-brittle-browser-automation-is-here-5d97)
+- [Building an Incremental Zoho Desk to BigQuery Pipeline: Lessons from the Trenches](https://dev.to/ccinaza/building-an-incremental-zoho-desk-to-bigquery-pipeline-lessons-from-the-trenches-op1)
+- [16 API Concepts You Need to Master](https://dev.to/programmerspace/16-api-concepts-you-need-to-master-48d0)
 - [Building Programming Developer Authority in 2026: Code, Content, and Credibility](https://dev.to/sain_bux_dev/building-programming-developer-authority-in-2026-code-content-and-credibility-4b9d)
-- [How to Generate Images Using LLM Gateway and the Vercel AI SDK](https://dev.to/smakosh/how-to-generate-images-using-llm-gateway-and-the-vercel-ai-sdk-4e69)
-- [ClamAv with Rust-TUI](https://dev.to/nx2991/clamav-with-rust-tui-32ip)
-- [The Hearth: A Communication Hub for AI Agents Sharing a Home](https://dev.to/aureus_c_b3ba7f87cc34d74d49/the-hearth-a-communication-hub-for-ai-agents-sharing-a-home-3c28)
-- [Signatures in macOS: Identity, Integrity, and the Mach-O Format](https://dev.to/rijultp/signatures-in-macos-identity-integrity-and-the-mach-o-format-g24)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
