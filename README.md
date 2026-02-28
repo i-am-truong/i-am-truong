@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Inside the Multilingual Playground: How the Browser, WASM Runtime, and Language Packs Fit Together](https://dev.to/jsamwrites/inside-the-multilingual-playground-how-the-browser-wasm-runtime-and-language-packs-fit-together-3f27)
-- [How I Solved DynamoDB + Amplify Search Problem with OpenSearch for $27/Month Instead of Migrating to Aurora](https://dev.to/coa00/how-i-solved-dynamodbs-search-problem-with-opensearch-for-27month-instead-of-migrating-to-aurora-300f)
-- [TokenLens - A CLI tool to check token usage for Cursor and other AI providers.](https://dev.to/ctzeero/tokenlens-a-cli-tool-to-check-token-usage-for-cursor-and-other-ai-providers-5fbh)
-- [Building a Mini Basketball Game as a VS Code Extension](https://dev.to/louis7/building-a-mini-basketball-game-as-a-vs-code-extension-5dmb)
-- [Data Fetching Patterns Every Developer Should Know &lpar;And When to Actually Use Them&rpar;](https://dev.to/budiwidhiyanto/data-fetching-patterns-every-developer-should-know-and-when-to-actually-use-them-16j3)
+- [Probabilistic Graph Neural Inference for bio-inspired soft robotics maintenance with ethical auditability baked in](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-bio-inspired-soft-robotics-maintenance-with-ethical-5b3d)
+- [CiudadActiva - Bridging the gap between citizens and their Municipality &lpar;government&rpar;](https://dev.to/edwineinsen/ciudadactiva-bridging-the-gap-between-citizens-and-their-municipality-government-2npm)
+- [National Vaccine Appointment &amp; Administration System](https://dev.to/budiwidhiyanto/national-vaccine-appointment-administration-system-303o)
+- [SaaS Documentation Tools Are Not Enough: The Hidden Cost of Fragmented Product Communication](https://dev.to/mukul_sharma/saas-documentation-tools-are-not-enough-the-hidden-cost-of-fragmented-product-communication-1i14)
+- [How Interactive API Docs Improve Developer Adoption](https://dev.to/therealmrmumba/how-interactive-api-docs-improve-developer-adoption-2m6a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
