@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AlmaLinux: From Firmware Preparation to Continuous Auditing](https://dev.to/lbcristaldo/almalinux-from-firmware-preparation-to-continuous-auditing-38c1)
-- [The Hardest Part of Being a Developer Isn’t Coding. It’s Disappearing Quietly.](https://dev.to/the_nortern_dev/the-hardest-part-of-being-a-developer-isnt-coding-its-disappearing-quietly-52l)
-- [How I built my designerly CV](https://dev.to/conw_y/how-i-built-my-designerly-cv-2i7m)
-- [Shortest Round-Trip: Implementing IEEE 754 to Decimal Conversion in Go](https://dev.to/lenny321/shortest-round-trip-implementing-ieee-754-to-decimal-conversion-in-go-1a8h)
-- [How We Built an AI Product Manager That Actually Learns Your Team&#39;s Templates](https://dev.to/prodini_admin/how-we-built-an-ai-product-manager-that-actually-learns-your-teams-templates-58k3)
+- [The Tragedy of the Commons: Why Shared Resources Get Destroyed](https://dev.to/_b8d89ece3338719863cb03/the-tragedy-of-the-commons-why-shared-resources-get-destroyed-5e7p)
+- [FullAgenticStack: Do Fail Fast ao Antifrágil - A Revolução do Intent-Healing Protocol](https://dev.to/fullagenticstack/fullagenticstack-do-fail-fast-ao-antifragil-a-revolucao-do-intent-healing-protocol-39o8)
+- [Why Stripe&#39;s API is the Gold Standard: Design Patterns That Every API Builder Should Steal](https://dev.to/yukioikeda/why-stripes-api-is-the-gold-standard-design-patterns-that-every-api-builder-should-steal-3ikk)
+- [16 Recursos Modernos do JavaScript Que Você Precisa Conhecer](https://dev.to/fullagenticstack/16-recursos-modernos-do-javascript-que-voce-precisa-conhecer-4m38)
+- [Preference Falsification: Why People Hide Their True Opinions](https://dev.to/_b8d89ece3338719863cb03/preference-falsification-why-people-hide-their-true-opinions-3c6n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
