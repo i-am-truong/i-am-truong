@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From 2023 to 2026: What Actually Changed in the Google Cloud Professional Architect Exam](https://dev.to/abdelwaheb_moalla_00c8999/from-2023-to-2026-what-actually-changed-in-the-google-cloud-professional-architect-exam-1nha)
-- [Building a Simple RAG Pipeline with Elasticsearch as a Vector Database: A Practical Guide with Code, Architecture](https://dev.to/saivarnik/building-a-simple-rag-pipeline-with-elasticsearch-as-a-vector-database-a-practical-guide-with-1co2)
-- [5 Mistakes I Avoided While Building a React and TypeScript Application](https://dev.to/mehrabgholamsamani/5-mistakes-i-avoided-while-building-a-react-and-typescript-application-40ha)
-- [# love for community](https://dev.to/hackero112/-love-for-community-5804)
-- [Teaching Agents by Example Not Code](https://dev.to/syncchain2026helix/teaching-agents-by-example-not-code-2696)
+- [The Availability Cascade: How Beliefs Become Self-Reinforcing and What to Do About It](https://dev.to/_b8d89ece3338719863cb03/the-availability-cascade-how-beliefs-become-self-reinforcing-and-what-to-do-about-it-36ik)
+- [Systems Thinking for Individual Decision-Makers: See the Forest and the Trees](https://dev.to/_b8d89ece3338719863cb03/systems-thinking-for-individual-decision-makers-see-the-forest-and-the-trees-2ma9)
+- [How AI Agents Learn From Screen Recordings](https://dev.to/syncchain2026helix/how-ai-agents-learn-from-screen-recordings-1pb)
+- [The Value of Doing Nothing: Why Inaction Can Be the Best Decision](https://dev.to/_b8d89ece3338719863cb03/the-value-of-doing-nothing-why-inaction-can-be-the-best-decision-j1d)
+- [When My AI Blocked Itself: What Constitutional Governance Actually Looks Like in Practice](https://dev.to/dariusz_newecki_e35b0924c/when-my-ai-blocked-itself-what-constitutional-governance-actually-looks-like-in-practice-1j14)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
