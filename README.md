@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CloYou Is Finally Live — A Founder’s Note on Building an AI That Thinks With You](https://dev.to/cloyouai/cloyou-is-finally-live-a-founders-note-on-building-an-ai-that-thinks-with-you-4ogb)
-- [Building a Privacy-First Mobile Speech Assistant Using Google Gemini](https://dev.to/ujja/building-a-privacy-first-mobile-speech-assistant-using-google-gemini-59pm)
-- [Python sigmoid&lpar;&rpar;](https://dev.to/slackman/python-sigmoid-kgh)
-- [Reflexivity: How Our Beliefs Change the Reality We Observe](https://dev.to/_b8d89ece3338719863cb03/reflexivity-how-our-beliefs-change-the-reality-we-observe-5fk9)
-- [I’ve replaced POCOs with Stateless Models. Am I crazy or is this the future of #performance?](https://dev.to/thuangf45/ive-replaced-pocos-with-stateless-models-am-i-crazy-or-is-this-the-future-of-performance-2dh3)
+- [AlmaLinux: From Firmware Preparation to Continuous Auditing](https://dev.to/lbcristaldo/almalinux-from-firmware-preparation-to-continuous-auditing-38c1)
+- [The Hardest Part of Being a Developer Isn’t Coding. It’s Disappearing Quietly.](https://dev.to/the_nortern_dev/the-hardest-part-of-being-a-developer-isnt-coding-its-disappearing-quietly-52l)
+- [How I built my designerly CV](https://dev.to/conw_y/how-i-built-my-designerly-cv-2i7m)
+- [Shortest Round-Trip: Implementing IEEE 754 to Decimal Conversion in Go](https://dev.to/lenny321/shortest-round-trip-implementing-ieee-754-to-decimal-conversion-in-go-1a8h)
+- [How We Built an AI Product Manager That Actually Learns Your Team&#39;s Templates](https://dev.to/prodini_admin/how-we-built-an-ai-product-manager-that-actually-learns-your-teams-templates-58k3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
