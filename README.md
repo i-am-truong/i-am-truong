@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I have been struggling to write…](https://dev.to/michellebuchiokonicha/i-have-been-struggling-to-write-15j8)
-- [AI Won&#39;t Replace APIs—It Will Only Make Them More Important](https://dev.to/auden/ai-wont-replace-apis-it-will-only-make-them-more-important-1j6p)
-- [S&amp;OP: Why Your Excel Is Lying to You &lpar;and How to Interrogate It with Python&rpar;](https://dev.to/datalaria/sop-why-your-excel-is-lying-to-you-and-how-to-interrogate-it-with-python-3dof)
-- [Как конвертировать CHM в один PDF на Linux: без мусора и битых ссылок](https://dev.to/_vproger_/kak-konviertirovat-chm-v-odin-pdf-na-linux-biez-musora-i-bitykh-ssylok-3edd)
-- [Azure AI Search Advanced RAG with Terraform: Hybrid Search, Semantic Ranking, and Agentic Retrieval 🧠](https://dev.to/suhas_mallesh/azure-ai-search-advanced-rag-with-terraform-hybrid-search-semantic-ranking-and-agentic-retrieval-180k)
+- [예외 처리 구문](https://dev.to/koareum/yeoe-ceori-gumun-20he)
+- [I Built a “Real‑Time Dashboard Mock” Because Interviews Wouldn’t Let It Go](https://dev.to/hcsum/i-built-a-real-time-dashboard-mock-because-interviews-wouldnt-let-it-go-1lac)
+- [回声（第24章）：议会辩论（第一部分）](https://dev.to/chx381/hui-sheng-di-24zhang-yi-hui-bian-lun-di-bu-fen--36di)
+- [回声（第23章）：Phase 2完成（第一部分）](https://dev.to/chx381/hui-sheng-di-23zhang-phase-2wan-cheng-di-bu-fen--2e6)
+- [Dissecting Three AIs: What Appeared When the Fences Came Down](https://dev.to/dosanko_tousan/dissecting-three-ais-what-appeared-when-the-fences-came-down-3he7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
