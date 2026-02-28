@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Built a Cost Proxy to Stop OpenClaw from Burning My API Budget](https://dev.to/tobiasbond/how-i-built-a-cost-proxy-to-stop-openclaw-from-burning-my-api-budget-25i3)
+- [Why Testing After with AI Is Even Worse](https://dev.to/mbarzeev/why-testing-after-with-ai-is-even-worse-4jc1)
+- [Ever Spent Hours Looking for an Open Source Issue to Contribute To? Those Days Are Over.](https://dev.to/axrisi/ever-spent-hours-looking-for-an-open-source-issue-to-contribute-to-those-days-are-over-5cn)
+- [Async JavaScript Explained: How setTimeout Really Works](https://dev.to/satishjaiswal/async-javascript-explained-how-settimeout-really-works-f1m)
 - [How NOT to behave in Open Source](https://dev.to/ironcladdev/how-not-to-behave-in-open-source-4n3n)
-- [Building a RAG-Based AWS VPC Flow Log Analyzer](https://dev.to/damdev95/building-a-rag-based-aws-vpc-flow-log-analyzer-1g29)
-- [Lead Frontend Interview Experience: Designing a Global Modal Architecture](https://dev.to/shrinivasshah/lead-frontend-interview-experience-designing-a-global-modal-architecture-1b15)
-- [🗓️ Monthly Dev Report: February 2026](https://dev.to/theonemohitsharma/monthly-dev-report-february-2026-185i)
-- [Scratch – A Beginner&#39;s Guide to Fun Coding](https://dev.to/harini_magesh_fa40041cf8d/scratch-a-complete-introduction-for-beginners-ok4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
