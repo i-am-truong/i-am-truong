@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Copilot CLI Executes Malware With Zero Approval. Your CI/CD Pipeline Would Have Caught It.](https://dev.to/matthewhou/github-copilot-cli-executes-malware-with-zero-approval-your-cicd-pipeline-would-have-caught-it-4g19)
+- [Why I Became a Developer &lpar;And Why I&#39;m Still Here 17 Years Later&rpar;](https://dev.to/crystalreyesdev/why-i-became-a-developer-and-why-im-still-here-17-years-later-261m)
+- [Country codes and regional differences](https://dev.to/stivenllupa/country-codes-and-regional-differences-5fmh)
 - [Probabilistic Graph Neural Inference for bio-inspired soft robotics maintenance with ethical auditability baked in](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-bio-inspired-soft-robotics-maintenance-with-ethical-5b3d)
 - [CiudadActiva - Bridging the gap between citizens and their Municipality &lpar;government&rpar;](https://dev.to/edwineinsen/ciudadactiva-bridging-the-gap-between-citizens-and-their-municipality-government-2npm)
-- [National Vaccine Appointment &amp; Administration System](https://dev.to/budiwidhiyanto/national-vaccine-appointment-administration-system-303o)
-- [SaaS Documentation Tools Are Not Enough: The Hidden Cost of Fragmented Product Communication](https://dev.to/mukul_sharma/saas-documentation-tools-are-not-enough-the-hidden-cost-of-fragmented-product-communication-1i14)
-- [How Interactive API Docs Improve Developer Adoption](https://dev.to/therealmrmumba/how-interactive-api-docs-improve-developer-adoption-2m6a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
