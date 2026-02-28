@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built an AI Agent That Timestamps Market Intelligence on Hedera](https://dev.to/noopy420/i-built-an-ai-agent-that-timestamps-market-intelligence-on-hedera-57d9)
-- [Introducing KOllama: A Kotlin-First Ollama Client with Full Type Safety](https://dev.to/mojavehao/introducing-kollama-a-kotlin-first-ollama-client-with-full-type-safety-3jhd)
-- [CLAUDE.md - how to set up project instructions for Claude Code](https://dev.to/dembsky/claudemd-how-to-set-up-project-instructions-for-claude-code-5gna)
-- [Order Matching Engine: What Every Crypto Exchange Developer Must Know](https://dev.to/riley_quinn_8e58a0a96d107/order-matching-engine-what-every-crypto-exchange-developer-must-know-1ic3)
-- [Edge Functions Explained: Why Your Next Backend Might Not Have a Server](https://dev.to/raiyan_hasan_857d2fb07211/edge-functions-explained-why-your-next-backend-might-not-have-a-server-58k7)
+- [From 2023 to 2026: What Actually Changed in the Google Cloud Professional Architect Exam](https://dev.to/abdelwaheb_moalla_00c8999/from-2023-to-2026-what-actually-changed-in-the-google-cloud-professional-architect-exam-1nha)
+- [Building a Simple RAG Pipeline with Elasticsearch as a Vector Database: A Practical Guide with Code, Architecture](https://dev.to/saivarnik/building-a-simple-rag-pipeline-with-elasticsearch-as-a-vector-database-a-practical-guide-with-1co2)
+- [5 Mistakes I Avoided While Building a React and TypeScript Application](https://dev.to/mehrabgholamsamani/5-mistakes-i-avoided-while-building-a-react-and-typescript-application-40ha)
+- [# love for community](https://dev.to/hackero112/-love-for-community-5804)
+- [Teaching Agents by Example Not Code](https://dev.to/syncchain2026helix/teaching-agents-by-example-not-code-2696)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
