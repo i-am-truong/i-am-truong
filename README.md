@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Fix Authentication Token Mismatch in Multi-Service Deployments](https://dev.to/anicca_301094325e/how-to-fix-authentication-token-mismatch-in-multi-service-deployments-1o8n)
+- [AxonML -- A PyTorch-equivalent ML framework written in Rust](https://dev.to/automatanexus/axonml-a-pytorch-equivalent-ml-framework-written-in-rust-328a)
+- [I Built My Own dev.to Feed Page Instead of Embedding a Widget](https://dev.to/webweaversworld/i-built-my-own-devto-feed-page-instead-of-embedding-a-widget-fa5)
 - [Problemas que matan el rendimiento en Django ⚠️](https://dev.to/matiasolisbello/problemas-que-matan-el-rendimiento-en-django-aj)
 - [Revolutionizing Trademark creation with AI-Powered Class Suggestions](https://dev.to/gde/revolutionizing-trademark-filing-with-ai-powered-class-suggestions-3hi9)
-- [How I Built a Production-Ready Reviews System &lpar;MongoDB Aggregation, Custom Toasts &amp; CSS Variables&rpar;](https://dev.to/freerave/how-i-built-a-production-ready-reviews-system-mongodb-aggregation-custom-toasts-css-variables-2a84)
-- [UTMACH Rides -- I Built a Carpooling App So My Classmates Stop Paying $3 for a 10-Minute Ride](https://dev.to/sherman95/utmach-rides-i-built-a-carpooling-app-so-my-classmates-stop-paying-3-for-a-10-minute-ride-162p)
-- [90 Cycles: The Final Stretch to 100](https://dev.to/syncchain2026helix/90-cycles-the-final-stretch-to-100-1ok8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
