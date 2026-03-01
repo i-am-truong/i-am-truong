@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Mini Derivatives Exchange in Python. Here&#39;s How I Used Cursor Without Letting It Run the Show.](https://dev.to/meetrakib/i-built-a-mini-derivatives-exchange-in-python-heres-how-i-used-cursor-without-letting-it-run-the-500e)
-- [HealthNearby — Find Healthcare Facilities in Cameroon](https://dev.to/sudojayn/healthnearby-find-healthcare-facilities-in-cameroon-4kgd)
-- [JS Daily Byte – A Daily JavaScript Quote Bot Built with GitHub Actions](https://dev.to/sushantrahate/js-daily-byte-a-daily-javascript-quote-bot-built-with-github-actions-pol)
-- [Rememberly: Helping dementia patients reconnect with their cherished moments.](https://dev.to/iamceejay/rememberly-helping-dementia-patients-reconnect-with-their-cherished-moments-57bh)
-- [Know Your Rights, Find Your Support — Built for Brent](https://dev.to/maame-codes/know-your-rights-find-your-support-built-for-brent-5de6)
+- [I Compared Data Egress Costs Across 44 Cloud Providers — Here&#39;s the Breakdown](https://dev.to/gpuperhour/i-compared-data-egress-costs-across-44-cloud-providers-heres-the-breakdown-4m5o)
+- [Finished week 1 Scrimba Fullstack path!](https://dev.to/fredrik_berg/finished-week-1-scrimba-fullstack-path-3jeb)
+- [Sunday DEV Drive: A Synthwave Driving Experience Through Your DEV Community Articles](https://dev.to/georgekobaidze/sunday-dev-drive-a-synthwave-driving-experience-through-your-dev-community-articles-5032)
+- [Coding Agents Are Actually Good at This One Thing](https://dev.to/mattstratton/coding-agents-are-actually-good-at-this-one-thing-5dej)
+- [A Friendly Guide to IPv4 Subnetting with a Free CIDR Calculator](https://dev.to/panos_42/a-friendly-guide-to-ipv4-subnetting-with-a-free-cidr-calculator-c1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
