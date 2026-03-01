@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Added AI Video Clips to My SaaS and It Broke Everything — 5 Times](https://dev.to/kazutaka-dev/i-added-ai-video-clips-to-my-saas-and-it-broke-everything-5-times-4j8l)
-- [🏆 I Survived the Meta Graph API: Building a 1-Click Python Social Media Auto-Poster](https://dev.to/bharath_kumar_30_vog/i-survived-the-meta-graph-api-building-a-1-click-python-social-media-auto-poster-3l5d)
-- [I Just Wanted a Login Form: The &quot;Swamp&quot; of Complexity in the Modern Auth Ecosystem](https://dev.to/kanywst/i-just-wanted-a-login-form-the-swamp-of-complexity-in-the-modern-auth-ecosystem-23pm)
-- [Group Expenses](https://dev.to/vetrivel_m_f1b9bf471f4aa0/group-expenses-in2)
-- [Why AI-Generated Code is a Security Minefield &lpar;And What To Do About It&rpar;](https://dev.to/ayame0328/why-ai-generated-code-is-a-security-minefield-and-what-to-do-about-it-3i1l)
+- [How I built an AI-powered plant swap community app in a weekend](https://dev.to/soham0047/how-i-built-an-ai-powered-plant-swap-community-app-in-a-weekend-2co4)
+- [I Built the Resume Tool My Broke Student Self Needed](https://dev.to/attahiruj/i-built-the-resume-tool-my-broke-student-self-needed-1932)
+- [Build Your Own Developer Card with Astro and Tailwind CSS](https://dev.to/sami/build-your-own-developer-card-with-astro-and-tailwind-css-45de)
+- [SaaS Competitor Monitoring Framework: What to Track Weekly, Monthly, Quarterly](https://dev.to/yl_seeto/saas-competitor-monitoring-framework-what-to-track-weekly-monthly-quarterly-2f2j)
+- [Code Buddy: Connect, code and upskill](https://dev.to/richk21/code-buddy-connect-code-and-upskill-1kho)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
