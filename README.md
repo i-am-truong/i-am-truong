@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [gobench.dev Creator Seeks Usability and Effectiveness Feedback for Performance Benchmarking Tool](https://dev.to/viklogix/gobenchdev-creator-seeks-usability-and-effectiveness-feedback-for-performance-benchmarking-tool-301h)
-- [How a silent cron job failure made me build my own monitoring tool](https://dev.to/cronbeats/how-a-silent-cron-job-failure-made-me-build-my-own-monitoring-tool-5gh1)
-- [Replace Broken Characters in Text Copied from Copilot Using PowerShell or Python](https://dev.to/alexiskypridemos/replace-broken-characters-in-text-copied-from-copilot-in-powershell-or-python-3e31)
-- [Before the Week Begins](https://dev.to/programmer_gamer_c856712c/before-the-week-begins-bl0)
-- [MEA – Modbus Exposure Analyzer: Passive ICS/OT Security Analysis by Rugero Tesla &lpar;404saint&rpar;](https://dev.to/null_saint/mea-modbus-exposure-analyzer-passive-icsot-security-analysis-by-rugero-tesla-404saint-3b4a)
+- [CVE-2026-28426: Chain Reaction: Stored XSS and Antlers Template Injection in Statamic Control Panel](https://dev.to/cverports/cve-2026-28426-chain-reaction-stored-xss-and-antlers-template-injection-in-statamic-control-panel-32b6)
+- [The Super-Tree: How One Merkle Tree Proves Another](https://dev.to/dzatona/the-super-tree-how-one-merkle-tree-proves-another-417c)
+- [BeSA Batch 09 Week2 - Building with Agentic AI](https://dev.to/girishmukim/besa-batch-09-week2-building-with-agentic-ai-4ih3)
+- [I Built a Persona Library to Assign Expert Roles to Your Prompts](https://dev.to/craig_301/i-built-a-persona-library-to-assign-expert-roles-to-your-prompts-2p51)
+- [How I Automated My Entire Business with OpenClaw Multi-Agent Architecture](https://dev.to/mfs_corp/how-i-automated-my-entire-business-with-openclaw-multi-agent-architecture-3dd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
