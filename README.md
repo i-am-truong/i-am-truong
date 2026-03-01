@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Asked AI to Build an Android App. It Took 47 Seconds.](https://dev.to/myougatheaxo/i-asked-ai-to-build-an-android-app-it-took-47-seconds-4omn)
+- [Understanding and Addressing Press Freedom Threats](https://dev.to/mystrix/understanding-and-addressing-press-freedom-threats-a01)
+- [AI Pitch Deck Generator: A multimodal AI agent that generates complete startup pitch decks](https://dev.to/bibhupradhan/ai-pitch-deck-generator-a-multimodal-ai-agent-that-generates-complete-startup-pitch-decks-392c)
+- [I built a tool that lets AI agents browse the real internet — and you can watch them do it](https://dev.to/lowjax/i-built-a-tool-that-lets-ai-agents-browse-the-real-internet-and-you-can-watch-them-do-it-2fff)
 - [Weekend Project: I Built a Full MLOps Pipeline for a Credit Scoring Model &lpar;And You Can Too&rpar;](https://dev.to/wu-dao/weekend-project-i-built-a-full-mlops-pipeline-for-a-credit-scoring-model-and-you-can-too-37lk)
-- [From Recursion to Backtracking](https://dev.to/bhavya_thakkar_203f9c2f66/from-recursion-to-backtracking-4ei2)
-- [I was tired of bloated changelog tools, so I built BearLog](https://dev.to/phaxz10/i-was-tired-of-bloated-changelog-tools-so-i-built-bearlog-cfm)
-- [Securing the NPM Ecosystem: Introducing Zift The Symbolically-Intelligent Security Engine](https://dev.to/7nsane/securing-the-npm-ecosystem-introducing-zift-the-symbolically-intelligent-security-engine-59gl)
-- [Agentic Secrets Infrastructure: The Missing Layer in Every AI Agent Stack](https://dev.to/the_seventeen/agentic-secrets-infrastructure-the-missing-layer-in-every-ai-agent-stack-42li)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
