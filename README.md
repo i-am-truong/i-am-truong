@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building AI Video Transcription with OpenAI Whisper](https://dev.to/vitalii_petrenko_dev/building-ai-video-transcription-with-openai-whisper-3aof)
-- [Why Your AI Agent Should Never Depend on One Provider](https://dev.to/turtleand/why-your-ai-agent-should-never-depend-on-one-provider-3926)
-- [feat: add DevPulse AI to the list of advanced AI agents in README.](https://dev.to/jgnoncelogic/feat-add-devpulse-ai-to-the-list-of-advanced-ai-agents-in-readme-4cch)
-- [C.H. Robinson CEO says AI will drive freight brokerage consolidation - Yahoo Finance](https://dev.to/jgnoncelogic/ch-robinson-ceo-says-ai-will-drive-freight-brokerage-consolidation-yahoo-finance-117h)
-- [How I Saved 20,000 Gas Per Transaction by Reordering One Line in Solidity](https://dev.to/illegalcall/how-i-saved-20000-gas-per-transaction-by-reordering-one-line-in-solidity-2dgl)
+- [The Death of the &#39;Chat&#39; UX &lpar;AI as a Background Process&rpar;](https://dev.to/aibuildersdigest/the-death-of-the-chat-ux-ai-as-a-background-process-3aca)
+- [Built an AI Agent That Wrecked My Prod Database. Here&#39;s How I Fixed That](https://dev.to/nitish_kovuru_76280d3ed4b/built-an-ai-agent-that-wrecked-my-prod-database-heres-how-i-fixed-that-p03)
+- [A EVOLUÇÃO DO MODELO RELACIONAL PARA O OBJETO-RELACIONAL](https://dev.to/victormacedocb/a-evolucao-do-modelo-relacional-para-o-objeto-relacional-35j6)
+- [Hack, Reflect, Look Forward: Building FLTK with Google Gemini](https://dev.to/srijan-xi/hack-reflect-look-forward-building-fltk-with-google-gemini-4759)
+- [DEV.to Weekend Challenge Submission - forgeStat](https://dev.to/olaproeis/devto-weekend-challenge-submission-forgestat-1l6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
