@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Built a Gmail AI Responder in Node.js &lpar;and it Actually Works&rpar;](https://dev.to/alagrede/i-built-a-gmail-ai-responder-in-nodejs-and-it-actually-works-2jc6)
+- [Add a pre-build reality check to your AI agent — one line, every project](https://dev.to/mnemox/add-a-pre-build-reality-check-to-your-ai-agent-one-line-every-project-46e5)
+- [Solved: Why do people still start restaurants if they fail 90% of the time?](https://dev.to/techresolve/solved-why-do-people-still-start-restaurants-if-they-fail-90-of-the-time-432h)
+- [Which promise method do you need?](https://dev.to/mandy8055/which-promise-method-do-you-need-da9)
 - [Turn Your Regional AKS Ingress into a Global SaaS Entry Point](https://dev.to/pilgrim2go/turn-your-regional-aks-ingress-into-a-global-saas-entry-point-14n4)
-- [From Idea to Pull Request in Minutes: Building an Autonomous Dev Team with Google Gemini](https://dev.to/shogun_the_grt/from-idea-to-pull-request-in-minutes-building-an-autonomous-dev-team-with-google-gemini-5729)
-- [Kiln: WebGPU-Native Out-of-Core Volume Rendering for Multi-GB Datasets](https://dev.to/mpanknin/kiln-webgpu-native-out-of-core-volume-rendering-for-multi-gb-datasets-2alb)
-- [Google Launches Nano Banana 2 AI Image Model](https://dev.to/bruceyao/google-launches-nano-banana-2-ai-image-model-521h)
-- [WordPress Security in 2026: What&#39;s Changed](https://dev.to/davidshusterman/wordpress-security-in-2026-whats-changed-4n1e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
