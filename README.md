@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Asked AI to Build an Android App. It Took 47 Seconds.](https://dev.to/myougatheaxo/i-asked-ai-to-build-an-android-app-it-took-47-seconds-4omn)
-- [Understanding and Addressing Press Freedom Threats](https://dev.to/mystrix/understanding-and-addressing-press-freedom-threats-a01)
-- [AI Pitch Deck Generator: A multimodal AI agent that generates complete startup pitch decks](https://dev.to/bibhupradhan/ai-pitch-deck-generator-a-multimodal-ai-agent-that-generates-complete-startup-pitch-decks-392c)
-- [I built a tool that lets AI agents browse the real internet — and you can watch them do it](https://dev.to/lowjax/i-built-a-tool-that-lets-ai-agents-browse-the-real-internet-and-you-can-watch-them-do-it-2fff)
-- [Weekend Project: I Built a Full MLOps Pipeline for a Credit Scoring Model &lpar;And You Can Too&rpar;](https://dev.to/wu-dao/weekend-project-i-built-a-full-mlops-pipeline-for-a-credit-scoring-model-and-you-can-too-37lk)
+- [JavaScript Promises: From Pending Proposals to Bollywood Bliss – A Desi Guide to Async Magic](https://dev.to/ritam369/javascript-promises-from-pending-proposals-to-bollywood-bliss-a-desi-guide-to-async-magic-gbp)
+- [Unsaid: Turning Reactive Messages Into Intentional Conversations](https://dev.to/preeti_yadav/unsaid-turning-reactive-messages-into-intentional-conversations-2iop)
+- [Feature Flags changed how we ship code, why not our pipelines too?](https://dev.to/lamphan0320/feature-flags-changed-how-we-ship-code-why-not-our-pipelines-too-4hnk)
+- [We Proved Physics in Zero Knowledge -- Here&#39;s What That Means](https://dev.to/jacobi0x/we-proved-physics-in-zero-knowledge-heres-what-that-means-5ce9)
+- [Pytest Like a Pro: Fixtures, Mocks, and Patterns That Actually Work](https://dev.to/_85e8844dcca5f98bfa936/pytest-like-a-pro-fixtures-mocks-and-patterns-that-actually-work-1d8n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
