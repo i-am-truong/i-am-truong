@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [L&#39;accessibilité web n&#39;est pas une option — et voici pourquoi ça vous coûte des clients](https://dev.to/yourweb/laccessibilite-web-nest-pas-une-option-et-voici-pourquoi-ca-vous-coute-des-clients-4nbe)
-- [I built a React library for Material 3 “Expressive” &lpar;with motion&rpar; — demos + docs](https://dev.to/prudhvi_raj/i-built-a-react-library-for-material-3-expressive-with-motion-demos-docs-mb1)
-- [I Built an AI Video Ad Generator with Claude + MCP — Here&#39;s the Architecture](https://dev.to/qays_kadhim_c3fea1c94957f/i-built-an-ai-video-ad-generator-with-claude-mcp-heres-the-architecture-1kei)
-- [Web Scraping Dynamic Websites using Selenium and BeautifulSoup](https://dev.to/notsol/web-scraping-lazada-using-selenium-and-beautifulsoup-1526)
-- [Let&#39;s stop forcing ideas into lists. I built an AI infinite canvas for visual thinkers.](https://dev.to/berkaydisli/lets-stop-forcing-ideas-into-lists-i-built-an-ai-infinite-canvas-for-visual-thinkers-29dg)
+- [How We Saved a High-Traffic IoT Service from 200 RPS to 20,000+ RPS &lpar;and a $42k+ AWS Bill&rpar;](https://dev.to/pikomonde/how-we-saved-a-high-traffic-iot-service-from-200-rps-to-20000-rps-and-a-42k-aws-bill-14j1)
+- [Built an AI Study Tool That Refuses to Give You the Answers for UoM](https://dev.to/inushathathsara/built-an-ai-study-tool-that-refuses-to-give-you-the-answers-for-uom-1eho)
+- [11ty : how to use the image plugin to generate responsive images for CSS](https://dev.to/rentierdigital/11ty-how-to-use-the-image-plugin-to-generate-responsive-images-for-css-2o06)
+- [StarGather: Shared Astronomy Observation Log with Instant Sky Map Viewer &lpar;DEV Weekend Challenge: Community&rpar;](https://dev.to/datadr1ven/stargather-shared-astronomy-observation-log-with-instant-sky-map-viewer-dev-weekend-challenge-4ohp)
+- [7 Failed Attempts to Create One Cloud Server on Alibaba Cloud](https://dev.to/osovsky/7-failed-attempts-to-create-one-cloud-server-on-alibaba-cloud-24gi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
