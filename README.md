@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [agentwallet-sdk v2.5.0: Your AI Agent Now Works on Arbitrum and Optimism](https://dev.to/up2itnow0822/agentwallet-sdk-v250-your-ai-agent-now-works-on-arbitrum-and-optimism-6i2)
-- [Why standard searches fail for deep technical questions - and how to fix the gap](https://dev.to/sofiabennett84/why-standard-searches-fail-for-deep-technical-questions-and-how-to-fix-the-gap-bc0)
-- [Build a $10 DIY Wi-Fi USB Keylogger with ESP32-S3 and MicroPython &lpar;DuckLogger&rpar;](https://dev.to/itsmmdoha/build-a-10-diy-wi-fi-usb-keylogger-with-esp32-s3-and-micropython-ducklogger-30dl)
-- [Mastering OpenClaw on AWS: Fine-Tuning Personality, Memory, and Soul](https://dev.to/aws-builders/mastering-openclaw-on-aws-fine-tuning-personality-memory-and-soul-37ig)
-- [Acessibilidade Web: Guia de boas práticas para interfaces inclusivas ♿️](https://dev.to/psrodrigs/acessibilidade-web-guia-de-boas-praticas-para-interfaces-inclusivas-4jjf)
+- [I Added AI Video Clips to My SaaS and It Broke Everything — 5 Times](https://dev.to/kazutaka-dev/i-added-ai-video-clips-to-my-saas-and-it-broke-everything-5-times-4j8l)
+- [🏆 I Survived the Meta Graph API: Building a 1-Click Python Social Media Auto-Poster](https://dev.to/bharath_kumar_30_vog/i-survived-the-meta-graph-api-building-a-1-click-python-social-media-auto-poster-3l5d)
+- [I Just Wanted a Login Form: The &quot;Swamp&quot; of Complexity in the Modern Auth Ecosystem](https://dev.to/kanywst/i-just-wanted-a-login-form-the-swamp-of-complexity-in-the-modern-auth-ecosystem-23pm)
+- [Group Expenses](https://dev.to/vetrivel_m_f1b9bf471f4aa0/group-expenses-in2)
+- [Why AI-Generated Code is a Security Minefield &lpar;And What To Do About It&rpar;](https://dev.to/ayame0328/why-ai-generated-code-is-a-security-minefield-and-what-to-do-about-it-3i1l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
