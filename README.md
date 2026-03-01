@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Criando uma arquitetura de microsserviços para organização de decks Yu-Gi-Oh com Spring Boot – Parte 03](https://dev.to/odevpedro/criando-uma-arquitetura-de-microsservicos-para-organizacao-de-decks-yu-gi-oh-com-spring-boot--1oh9)
 - [Never Repeat Yourself: Give Your LLM Apps Persistent Memory with ContextMD](https://dev.to/subham_kundu_335580d3c8e4/never-repeat-yourself-give-your-llm-apps-persistent-memory-with-contextmd-lh3)
 - [The agent economy is here: AI agents earning and spending money autonomously](https://dev.to/purpleflea/the-agent-economy-is-here-ai-agents-earning-and-spending-money-autonomously-3oh5)
 - [Building Multi-Model AI Agents with OpenAI, Ollama, Groq and Gemini](https://dev.to/redoh/building-multi-model-ai-agents-with-openai-ollama-groq-and-gemini-3mga)
 - [From My Kitchen to Yours: I Built a Food Swap Board for My Neighborhood](https://dev.to/meemeealm/from-my-kitchen-to-yours-i-built-a-food-swap-board-for-my-neighborhood-23ej)
-- [Why on-device agentic AI can&#39;t keep up](https://dev.to/martinald/why-on-device-agentic-ai-cant-keep-up-4c54)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
