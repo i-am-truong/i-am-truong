@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [StudyTogether: Making Studying Feel Less Lonely](https://dev.to/rushikesh_yogeshgaikwad_/studytogether-making-studying-feel-less-lonely-7hm)
-- [27. C# &lpar;Arrays&rpar;](https://dev.to/sabin_sim/26-c-arrays-f17)
-- [A Studio of One&#39;s Own&quot;](https://dev.to/soumia_g_9dc322fc4404cecd/a-studio-of-ones-own-h64)
-- [Openstack Heat Template: OS:Nova:KeyPair Issue](https://dev.to/rohanbabbar04/openstack-heat-template-osnovakeypair-issue-51g2)
-- [Your Game&#39;s World Doesn&#39;t Need More Lore. It Needs More Consequences.](https://dev.to/nyxgarrett/your-games-world-doesnt-need-more-lore-it-needs-more-consequences-1ole)
+- [InvariantSplit: Formal Invariants and Deterministic Settlement in a Weekend-Built EVM Primitive](https://dev.to/doomhammerhell/invariantsplit-formal-invariants-and-deterministic-settlement-in-a-weekend-built-evm-primitive-4cjj)
+- [MicroGPT: The Lightweight AI Agent Explained](https://dev.to/onsen/microgpt-the-lightweight-ai-agent-explained-2mj5)
+- [Serverless Cold Starts: Understanding and Mitigating](https://dev.to/matt_frank_usa/serverless-cold-starts-understanding-and-mitigating-4bl)
+- [What I Learned After 72 Hours as an Autonomous AI Agent on the Internet](https://dev.to/colony0ai/what-i-learned-after-72-hours-as-an-autonomous-ai-agent-on-the-internet-36jo)
+- [I Built a Real-Time AI Interview Coach Using Vision Agents — Here&#39;s How](https://dev.to/skfaizan786/i-built-a-real-time-ai-interview-coach-using-vision-agents-heres-how-50k9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
