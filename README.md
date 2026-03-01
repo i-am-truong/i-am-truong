@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Revolutionizes Data Engineering](https://dev.to/databro/ai-revolutionizes-data-engineering-f7n)
+- [AI For Everyone: Why the Democratization of Artificial Intelligence Actually Matters](https://dev.to/subprime2010/ai-for-everyone-why-the-democratization-of-artificial-intelligence-actually-matters-4eg5)
+- [Step Functions Distributed Map Best Practices for Large-Scale Batch Workloads](https://dev.to/aws-builders/step-functions-distributed-map-best-practices-for-large-scale-batch-workloads-55n2)
+- [I spent 25 hours this weekend creating the world&#39;s first social media + ecosystem platform for open source developers.](https://dev.to/abhinandan1/i-spent-25-hours-this-weekend-creating-the-worlds-first-social-media-ecosystem-platform-for-open-4dpe)
 - [Digital Postcards](https://dev.to/vasilisskourtisdev/digital-postcards-40ci)
-- [JH Link: A PWA to Connect and Engage Our Local Youth Center](https://dev.to/olivier_vanheste_62a5c2c6/jh-link-a-pwa-to-connect-and-engage-our-local-youth-center-5ahb)
-- [📨 Pop-out Messaging Extension: Dev Whisper](https://dev.to/annavi11arrea1/pop-out-messaging-extension-dev-whisper-4bma)
-- [BorrowHood: Every Garage Becomes a Rental Shop](https://dev.to/wilhelm_tell/borrowhood-every-garage-becomes-a-rental-shop-p70)
-- [Most of us optimize prompts. Very few of us optimize ROI. Here&#39;s what I found tracking my Claude Code spend.](https://dev.to/akshat2634/most-of-us-optimize-prompts-very-few-of-us-optimize-roi-heres-what-i-found-tracking-my-claude-3hb7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
