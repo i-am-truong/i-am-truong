@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Compared Data Egress Costs Across 44 Cloud Providers — Here&#39;s the Breakdown](https://dev.to/gpuperhour/i-compared-data-egress-costs-across-44-cloud-providers-heres-the-breakdown-4m5o)
-- [Finished week 1 Scrimba Fullstack path!](https://dev.to/fredrik_berg/finished-week-1-scrimba-fullstack-path-3jeb)
-- [Sunday DEV Drive: A Synthwave Driving Experience Through Your DEV Community Articles](https://dev.to/georgekobaidze/sunday-dev-drive-a-synthwave-driving-experience-through-your-dev-community-articles-5032)
-- [Coding Agents Are Actually Good at This One Thing](https://dev.to/mattstratton/coding-agents-are-actually-good-at-this-one-thing-5dej)
-- [A Friendly Guide to IPv4 Subnetting with a Free CIDR Calculator](https://dev.to/panos_42/a-friendly-guide-to-ipv4-subnetting-with-a-free-cidr-calculator-c1)
+- [From Burned Sensors to Sunset Algorithms: My Full-Stack IoT Journey with Google Gemini](https://dev.to/sherman95/from-burned-sensors-to-sunset-algorithms-my-full-stack-iot-journey-with-google-gemini-5fae)
+- [Understanding LSTMs – Part 6: How LSTM Produces Its Final Output](https://dev.to/rijultp/understanding-lstms-part-6-how-lstm-produces-its-final-output-16ec)
+- [AuraMaxx: Open-Source Apple Keychain for AI Agents](https://dev.to/nicoletteduclar/auramaxx-open-source-apple-keychain-for-ai-agents-35m9)
+- [From Static Timeline to Fully Interactive Scheduler: Drag &amp; Drop in My React Native Library](https://dev.to/kozerkarol/from-static-timeline-to-fully-interactive-scheduler-drag-drop-in-my-react-native-library-4jkl)
+- [Side project idea II](https://dev.to/karenpayneoregon/side-project-idea-ii-4bce)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
