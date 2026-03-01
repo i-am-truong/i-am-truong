@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Death of the &#39;Chat&#39; UX &lpar;AI as a Background Process&rpar;](https://dev.to/aibuildersdigest/the-death-of-the-chat-ux-ai-as-a-background-process-3aca)
-- [Built an AI Agent That Wrecked My Prod Database. Here&#39;s How I Fixed That](https://dev.to/nitish_kovuru_76280d3ed4b/built-an-ai-agent-that-wrecked-my-prod-database-heres-how-i-fixed-that-p03)
-- [A EVOLUÇÃO DO MODELO RELACIONAL PARA O OBJETO-RELACIONAL](https://dev.to/victormacedocb/a-evolucao-do-modelo-relacional-para-o-objeto-relacional-35j6)
-- [Hack, Reflect, Look Forward: Building FLTK with Google Gemini](https://dev.to/srijan-xi/hack-reflect-look-forward-building-fltk-with-google-gemini-4759)
-- [DEV.to Weekend Challenge Submission - forgeStat](https://dev.to/olaproeis/devto-weekend-challenge-submission-forgestat-1l6)
+- [Why Nobody Completes Postmortem Action Items &lpar;and How to Fix It&rpar;](https://dev.to/solobuilder/why-nobody-completes-postmortem-action-items-and-how-to-fix-it-37ee)
+- [I Built a Simulated Kernel Driven Operating System in the Browser](https://dev.to/mukund_149/i-built-a-simulated-kernel-driven-operating-system-in-the-browser-2d0k)
+- [Building Secure AI Applications with HazelJS Guardrails: A Real-World Customer Support Chatbot](https://dev.to/arslan_mecom/building-secure-ai-applications-with-hazeljs-guardrails-a-real-world-customer-support-chatbot-i07)
+- [How to Size a Spark Cluster. And How Not To.](https://dev.to/therectoverse/how-to-size-a-spark-cluster-and-how-not-to-2f46)
+- [The Hidden Program Behind Every SQL Statement](https://dev.to/lovestaco/the-hidden-program-behind-every-sql-statement-2a2h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
