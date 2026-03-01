@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Automating Zendesk Workflows with n8n: Zero-Code AI Agents for Support Teams](https://dev.to/helpando/automating-zendesk-workflows-with-n8n-zero-code-ai-agents-for-support-teams-6gf)
-- [Building TrustGuard AI with Google Gemini: Explainable AI to Fight Scams](https://dev.to/roshni_yogeshgaikwad_62e/building-trustguard-ai-with-google-gemini-explainable-ai-to-fight-scams-bjg)
-- [We Shipped a Product With 9 AI Agents. Here&#39;s What Actually Happened.](https://dev.to/seakai/we-shipped-a-product-with-9-ai-agents-heres-what-actually-happened-2g3f)
-- [CVE-2026-3304: Denial of Service via Incomplete File Cleanup in Multer Middleware](https://dev.to/cverports/cve-2026-3304-denial-of-service-via-incomplete-file-cleanup-in-multer-middleware-35gf)
-- [Exploring 4-Layer Frontend Architecture: A Practical Guide](https://dev.to/ahr_dev/exploring-4-layer-frontend-architecture-a-practical-guide-362b)
+- [回声（第21章）：第三次断开（第一部分）](https://dev.to/chx381/hui-sheng-di-21zhang-di-san-ci-duan-kai-di-bu-fen--274a)
+- [Memopt++:Adaptive Linux Memory Governor &lpar;C++&rpar;](https://dev.to/shiv_kumarmishra_7954d27/memoptadaptive-linux-memory-governor-c-1871)
+- [OpenClaw&#39;s &quot;Unknown Model&quot; Error — How One Missing JSON Entry Broke My AI Assistant for 4 Hours](https://dev.to/shifu_legend/openclaws-unknown-model-error-how-one-missing-json-entry-broke-my-ai-assistant-for-4-hours-5f19)
+- [I built 6 JavaScript widgets with zero dependencies — here&#39;s what I learned from each](https://dev.to/ali_rajab_caef7d25f6410f2/i-built-6-javascript-widgets-with-zero-dependencies-heres-what-i-learned-from-each-21ca)
+- [I Built an AI Agent That Runs My Infrastructure](https://dev.to/kainorden/i-built-an-ai-agent-that-runs-my-infrastructure-4e93)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
