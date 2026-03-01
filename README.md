@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Revolutionizes Data Engineering](https://dev.to/databro/ai-revolutionizes-data-engineering-f7n)
-- [AI For Everyone: Why the Democratization of Artificial Intelligence Actually Matters](https://dev.to/subprime2010/ai-for-everyone-why-the-democratization-of-artificial-intelligence-actually-matters-4eg5)
-- [Step Functions Distributed Map Best Practices for Large-Scale Batch Workloads](https://dev.to/aws-builders/step-functions-distributed-map-best-practices-for-large-scale-batch-workloads-55n2)
-- [I spent 25 hours this weekend creating the world&#39;s first social media + ecosystem platform for open source developers.](https://dev.to/abhinandan1/i-spent-25-hours-this-weekend-creating-the-worlds-first-social-media-ecosystem-platform-for-open-4dpe)
-- [Digital Postcards](https://dev.to/vasilisskourtisdev/digital-postcards-40ci)
+- [Never Repeat Yourself: Give Your LLM Apps Persistent Memory with ContextMD](https://dev.to/subham_kundu_335580d3c8e4/never-repeat-yourself-give-your-llm-apps-persistent-memory-with-contextmd-lh3)
+- [The agent economy is here: AI agents earning and spending money autonomously](https://dev.to/purpleflea/the-agent-economy-is-here-ai-agents-earning-and-spending-money-autonomously-3oh5)
+- [Building Multi-Model AI Agents with OpenAI, Ollama, Groq and Gemini](https://dev.to/redoh/building-multi-model-ai-agents-with-openai-ollama-groq-and-gemini-3mga)
+- [From My Kitchen to Yours: I Built a Food Swap Board for My Neighborhood](https://dev.to/meemeealm/from-my-kitchen-to-yours-i-built-a-food-swap-board-for-my-neighborhood-23ej)
+- [Why on-device agentic AI can&#39;t keep up](https://dev.to/martinald/why-on-device-agentic-ai-cant-keep-up-4c54)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
