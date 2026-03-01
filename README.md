@@ -120,13 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Deploying a Web Application on AWS EC2: From Localhost to Public Access &lpar;Day 3&rpar;](https://dev.to/avinashwagh/deploying-a-web-application-on-aws-ec2-from-localhost-to-public-access-day-3-1j1j)
-- [How I Built a Full Xiangqi Game in a Week Using GitHub Copilot &lpar;Instead of 3 Months with a small Team&rpar;](https://dev.to/kabir_adm_76034a5d8d76022/how-i-built-a-full-xiangqi-game-in-a-week-using-github-copilot-instead-of-3-months-with-a-small-57ml)
-- [By 2030, degrees won’t disappear. But opportunities will not be limited to degrees only.
-
-AI doesn’t reward those who finished learning. It rewards those who never stop learning.](https://dev.to/jaideepparashar/by-2030-degrees-wont-disappear-but-opportunities-will-not-be-limited-to-degrees-only-ai-4ekc)
-- [CVE-2026-28415: Open Redirect in Gradio OAuth Flow Enables Phishing Attacks](https://dev.to/cverports/cve-2026-28415-open-redirect-in-gradio-oauth-flow-enables-phishing-attacks-a5m)
-- [🚀Mission Accomplished: Building a Real-Time AI Spatial Agent | Vision Possible Hackathon &amp; The Power of Learning by Building](https://dev.to/swagatika_beura2/mission-accomplished-building-a-real-time-ai-spatial-agent-vision-possible-hackathon-the-40m5)
+- [800 Malicious Plugins, 40K Exposed Instances: The OpenClaw Security Reckoning](https://dev.to/darbogach/800-malicious-plugins-40k-exposed-instances-the-openclaw-security-reckoning-3bi2)
+- [30 CVEs and Counting: The MCP Security Crisis Nobody&#39;s Talking About](https://dev.to/darbogach/30-cves-and-counting-the-mcp-security-crisis-nobodys-talking-about-28ml)
+- [I Scanned 706 MCP Servers — 30% Had No Authentication](https://dev.to/kai_beget/i-scanned-706-mcp-servers-30-had-no-authentication-2998)
+- [RippleMessenger: A blockchain-based client &lpar;part 1/2&rpar;](https://dev.to/ripplemessenger/ripplemessenger-a-blockchain-based-client-part-12-1nj9)
+- [Building an Automated Competitive Intelligence Pipeline &lpar;Without Enterprise Pricing&rpar;](https://dev.to/warren_allen/building-an-automated-competitive-intelligence-pipeline-without-enterprise-pricing-1l5e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
