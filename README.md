@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Promises: From Pending Proposals to Bollywood Bliss – A Desi Guide to Async Magic](https://dev.to/ritam369/javascript-promises-from-pending-proposals-to-bollywood-bliss-a-desi-guide-to-async-magic-gbp)
-- [Unsaid: Turning Reactive Messages Into Intentional Conversations](https://dev.to/preeti_yadav/unsaid-turning-reactive-messages-into-intentional-conversations-2iop)
-- [Feature Flags changed how we ship code, why not our pipelines too?](https://dev.to/lamphan0320/feature-flags-changed-how-we-ship-code-why-not-our-pipelines-too-4hnk)
-- [We Proved Physics in Zero Knowledge -- Here&#39;s What That Means](https://dev.to/jacobi0x/we-proved-physics-in-zero-knowledge-heres-what-that-means-5ce9)
-- [Pytest Like a Pro: Fixtures, Mocks, and Patterns That Actually Work](https://dev.to/_85e8844dcca5f98bfa936/pytest-like-a-pro-fixtures-mocks-and-patterns-that-actually-work-1d8n)
+- [I Built an AI Pet Photographer to Help Shelter Animals Get Adopted &lpar;Inspired by Google&#39;s Campaign&rpar;](https://dev.to/harsh2644/i-built-an-ai-pet-photographer-to-help-shelter-animals-get-adopted-inspired-by-googles-campaign-5ci4)
+- [How We Built a Multi-Industry WhatsApp AI Agent in Israel](https://dev.to/aibuddy_il/how-we-built-a-multi-industry-whatsapp-ai-agent-in-israel-4mfj)
+- [Providing storage for the IT department testing and training](https://dev.to/kingbabz/providing-storage-for-the-it-department-testing-and-training-47d2)
+- [A Evolução do Modelo Relacional para Objeto-Relacional](https://dev.to/diego_ferreira_874246de77/a-evolucao-do-modelo-relacional-para-objeto-relacional-3jod)
+- [Agent Skills: Automatically Scaffold a .NET Solution Structure](https://dev.to/incomplete_developer/agent-skills-automatically-scaffold-a-net-solution-structure-1570)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
