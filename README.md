@@ -120,11 +120,13 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CVE-2026-28426: Chain Reaction: Stored XSS and Antlers Template Injection in Statamic Control Panel](https://dev.to/cverports/cve-2026-28426-chain-reaction-stored-xss-and-antlers-template-injection-in-statamic-control-panel-32b6)
-- [The Super-Tree: How One Merkle Tree Proves Another](https://dev.to/dzatona/the-super-tree-how-one-merkle-tree-proves-another-417c)
-- [BeSA Batch 09 Week2 - Building with Agentic AI](https://dev.to/girishmukim/besa-batch-09-week2-building-with-agentic-ai-4ih3)
-- [I Built a Persona Library to Assign Expert Roles to Your Prompts](https://dev.to/craig_301/i-built-a-persona-library-to-assign-expert-roles-to-your-prompts-2p51)
-- [How I Automated My Entire Business with OpenClaw Multi-Agent Architecture](https://dev.to/mfs_corp/how-i-automated-my-entire-business-with-openclaw-multi-agent-architecture-3dd)
+- [Deploying a Web Application on AWS EC2: From Localhost to Public Access &lpar;Day 3&rpar;](https://dev.to/avinashwagh/deploying-a-web-application-on-aws-ec2-from-localhost-to-public-access-day-3-1j1j)
+- [How I Built a Full Xiangqi Game in a Week Using GitHub Copilot &lpar;Instead of 3 Months with a small Team&rpar;](https://dev.to/kabir_adm_76034a5d8d76022/how-i-built-a-full-xiangqi-game-in-a-week-using-github-copilot-instead-of-3-months-with-a-small-57ml)
+- [By 2030, degrees won’t disappear. But opportunities will not be limited to degrees only.
+
+AI doesn’t reward those who finished learning. It rewards those who never stop learning.](https://dev.to/jaideepparashar/by-2030-degrees-wont-disappear-but-opportunities-will-not-be-limited-to-degrees-only-ai-4ekc)
+- [CVE-2026-28415: Open Redirect in Gradio OAuth Flow Enables Phishing Attacks](https://dev.to/cverports/cve-2026-28415-open-redirect-in-gradio-oauth-flow-enables-phishing-attacks-a5m)
+- [🚀Mission Accomplished: Building a Real-Time AI Spatial Agent | Vision Possible Hackathon &amp; The Power of Learning by Building](https://dev.to/swagatika_beura2/mission-accomplished-building-a-real-time-ai-spatial-agent-vision-possible-hackathon-the-40m5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
