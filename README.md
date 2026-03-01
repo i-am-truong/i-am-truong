@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How We Saved a High-Traffic IoT Service from 200 RPS to 20,000+ RPS &lpar;and a $42k+ AWS Bill&rpar;](https://dev.to/pikomonde/how-we-saved-a-high-traffic-iot-service-from-200-rps-to-20000-rps-and-a-42k-aws-bill-14j1)
-- [Built an AI Study Tool That Refuses to Give You the Answers for UoM](https://dev.to/inushathathsara/built-an-ai-study-tool-that-refuses-to-give-you-the-answers-for-uom-1eho)
-- [11ty : how to use the image plugin to generate responsive images for CSS](https://dev.to/rentierdigital/11ty-how-to-use-the-image-plugin-to-generate-responsive-images-for-css-2o06)
-- [StarGather: Shared Astronomy Observation Log with Instant Sky Map Viewer &lpar;DEV Weekend Challenge: Community&rpar;](https://dev.to/datadr1ven/stargather-shared-astronomy-observation-log-with-instant-sky-map-viewer-dev-weekend-challenge-4ohp)
-- [7 Failed Attempts to Create One Cloud Server on Alibaba Cloud](https://dev.to/osovsky/7-failed-attempts-to-create-one-cloud-server-on-alibaba-cloud-24gi)
+- [A Studio of One&#39;s Own&quot;](https://dev.to/soumia_g_9dc322fc4404cecd/a-studio-of-ones-own-h64)
+- [Openstack Heat Template: OS:Nova:KeyPair Issue](https://dev.to/rohanbabbar04/openstack-heat-template-osnovakeypair-issue-51g2)
+- [Your Game&#39;s World Doesn&#39;t Need More Lore. It Needs More Consequences.](https://dev.to/nyxgarrett/your-games-world-doesnt-need-more-lore-it-needs-more-consequences-1ole)
+- [Dev Challenge. Solo Learning — Gamified Productivity Tracker](https://dev.to/ratratatyu/dev-challenge-solo-learning-gamified-productivity-tracker-33d4)
+- [Introducing @hazeljs/oauth: One Package for Google, Microsoft, GitHub, Facebook &amp; Twitter Login](https://dev.to/arslan_mecom/introducing-hazeljsoauth-one-package-for-google-microsoft-github-facebook-twitter-login-mg1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
