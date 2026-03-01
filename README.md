@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [800 Malicious Plugins, 40K Exposed Instances: The OpenClaw Security Reckoning](https://dev.to/darbogach/800-malicious-plugins-40k-exposed-instances-the-openclaw-security-reckoning-3bi2)
-- [30 CVEs and Counting: The MCP Security Crisis Nobody&#39;s Talking About](https://dev.to/darbogach/30-cves-and-counting-the-mcp-security-crisis-nobodys-talking-about-28ml)
-- [I Scanned 706 MCP Servers — 30% Had No Authentication](https://dev.to/kai_beget/i-scanned-706-mcp-servers-30-had-no-authentication-2998)
-- [RippleMessenger: A blockchain-based client &lpar;part 1/2&rpar;](https://dev.to/ripplemessenger/ripplemessenger-a-blockchain-based-client-part-12-1nj9)
-- [Building an Automated Competitive Intelligence Pipeline &lpar;Without Enterprise Pricing&rpar;](https://dev.to/warren_allen/building-an-automated-competitive-intelligence-pipeline-without-enterprise-pricing-1l5e)
+- [The Terraform Mistakes I Made So You Do Not Have To](https://dev.to/yash_step2dev/the-terraform-mistakes-i-made-so-you-do-not-have-to-43a0)
+- [Day 14 — I Built ProcWatch : A Linux Process Security Scanner for Forensics &amp; Incident Response](https://dev.to/hafiz_shamnad/day-14-i-built-procwatch-a-linux-process-security-scanner-for-forensics-incident-response-2bm5)
+- [JIT Compiler: BrainFuck](https://dev.to/pseudoclone/jit-compiler-brainfuck-261j)
+- [CVE-2026-21619: Unsafe Deserialization in Erlang Hex Ecosystem &lpar;hex_core, rebar3&rpar;](https://dev.to/cverports/cve-2026-21619-unsafe-deserialization-in-erlang-hex-ecosystem-hexcore-rebar3-4ifd)
+- [Reverse array in groups](https://dev.to/tanzimsafin_42/reverse-array-in-groups-3dj5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
