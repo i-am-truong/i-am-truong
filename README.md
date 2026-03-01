@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Terraform Mistakes I Made So You Do Not Have To](https://dev.to/yash_step2dev/the-terraform-mistakes-i-made-so-you-do-not-have-to-43a0)
-- [Day 14 — I Built ProcWatch : A Linux Process Security Scanner for Forensics &amp; Incident Response](https://dev.to/hafiz_shamnad/day-14-i-built-procwatch-a-linux-process-security-scanner-for-forensics-incident-response-2bm5)
-- [JIT Compiler: BrainFuck](https://dev.to/pseudoclone/jit-compiler-brainfuck-261j)
-- [CVE-2026-21619: Unsafe Deserialization in Erlang Hex Ecosystem &lpar;hex_core, rebar3&rpar;](https://dev.to/cverports/cve-2026-21619-unsafe-deserialization-in-erlang-hex-ecosystem-hexcore-rebar3-4ifd)
-- [Reverse array in groups](https://dev.to/tanzimsafin_42/reverse-array-in-groups-3dj5)
+- [Recursive SNARKs Explained: How Proofs Verify Other Proofs](https://dev.to/jacobi0x/recursive-snarks-explained-how-proofs-verify-other-proofs-249b)
+- [Troubleshooting Azure Application Gateway Ingress Controller 403 Error](https://dev.to/pilgrim2go/troubleshooting-azure-application-gateway-ingress-controller-403-error-fhc)
+- [The PKM Setup I Settled On After Many Iterations](https://dev.to/gantengx/the-pkm-setup-i-settled-on-after-many-iterations-6pa)
+- [How Text-First Toolchains Break Down - An Architects Under-the-Hood Deconstruction](https://dev.to/kailash_ac43c0ef1daf14abd/how-text-first-toolchains-break-down-an-architects-under-the-hood-deconstruction-48fl)
+- [The Scaffold: Playwright Project Structure Built for AI](https://dev.to/idavidov13/the-scaffold-playwright-project-structure-built-for-ai-3a62)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
