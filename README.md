@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Python to Rust to Proof: Cross-Validating a ZK System](https://dev.to/jacobi0x/python-to-rust-to-proof-cross-validating-a-zk-system-14n1)
-- [Understanding Joins and Window Functions in SQL](https://dev.to/geraldm/understanding-joins-and-window-functions-in-sql-4mdk)
-- [The Witness Problem: When BigInt Precision Breaks Your Proof](https://dev.to/jacobi0x/the-witness-problem-when-bigint-precision-breaks-your-proof-2153)
-- [[DEV Weekend Challenge: Community] Kanoon Mera Kawach](https://dev.to/devtoamz/dev-weekend-challenge-community-kanoon-mera-kawach-2k0j)
-- [DevStretch: The Antiburnout Protocol for Devs Who Forgot They Have Bodies](https://dev.to/highflyer910/devstretch-the-antiburnout-protocol-for-devs-who-forgot-they-have-bodies-3am)
+- [📨 Pop-out Messaging Extension: Dev Whisper](https://dev.to/annavi11arrea1/pop-out-messaging-extension-dev-whisper-4bma)
+- [BorrowHood: Every Garage Becomes a Rental Shop](https://dev.to/wilhelm_tell/borrowhood-every-garage-becomes-a-rental-shop-p70)
+- [Most of us optimize prompts. Very few of us optimize ROI. Here&#39;s what I found tracking my Claude Code spend.](https://dev.to/akshat2634/most-of-us-optimize-prompts-very-few-of-us-optimize-roi-heres-what-i-found-tracking-my-claude-3hb7)
+- [83% Accuracy: How We Reverse Engineered Amazon&#39;s Dynamic Pricing Algorithm](https://dev.to/milinda_biswas_fb9eeb2a8a/83-accuracy-how-we-reverse-engineered-amazons-dynamic-pricing-algorithm-4ecj)
+- [🤑 A Price for Everyone 🤑](https://dev.to/trickell/a-price-for-everyone-123k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
