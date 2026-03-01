@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekend Project: I Built a Full MLOps Pipeline for a Credit Scoring Model &lpar;And You Can Too&rpar;](https://dev.to/wu-dao/weekend-project-i-built-a-full-mlops-pipeline-for-a-credit-scoring-model-and-you-can-too-37lk)
 - [From Recursion to Backtracking](https://dev.to/bhavya_thakkar_203f9c2f66/from-recursion-to-backtracking-4ei2)
 - [I was tired of bloated changelog tools, so I built BearLog](https://dev.to/phaxz10/i-was-tired-of-bloated-changelog-tools-so-i-built-bearlog-cfm)
-- [DevDNA — Turn Your GitHub Activity Into a Developer Personality](https://dev.to/akshit_suthar/devdna-turn-your-github-activity-into-a-developer-personality-292g)
-- [I Built a Free Tool That Removes Silence from Audio Instantly — No Uploads, No Signup](https://dev.to/random_code_0440e489e9712/i-built-a-free-tool-that-removes-silence-from-audio-instantly-no-uploads-no-signup-ldn)
-- [A Horror Story About JavaScript Promise](https://dev.to/satyasootar/a-horror-story-about-javascript-promise-50f1)
+- [Securing the NPM Ecosystem: Introducing Zift The Symbolically-Intelligent Security Engine](https://dev.to/7nsane/securing-the-npm-ecosystem-introducing-zift-the-symbolically-intelligent-security-engine-59gl)
+- [Agentic Secrets Infrastructure: The Missing Layer in Every AI Agent Stack](https://dev.to/the_seventeen/agentic-secrets-infrastructure-the-missing-layer-in-every-ai-agent-stack-42li)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
