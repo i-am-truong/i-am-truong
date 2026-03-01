@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Recursive SNARKs Explained: How Proofs Verify Other Proofs](https://dev.to/jacobi0x/recursive-snarks-explained-how-proofs-verify-other-proofs-249b)
-- [Troubleshooting Azure Application Gateway Ingress Controller 403 Error](https://dev.to/pilgrim2go/troubleshooting-azure-application-gateway-ingress-controller-403-error-fhc)
-- [The PKM Setup I Settled On After Many Iterations](https://dev.to/gantengx/the-pkm-setup-i-settled-on-after-many-iterations-6pa)
-- [How Text-First Toolchains Break Down - An Architects Under-the-Hood Deconstruction](https://dev.to/kailash_ac43c0ef1daf14abd/how-text-first-toolchains-break-down-an-architects-under-the-hood-deconstruction-48fl)
-- [The Scaffold: Playwright Project Structure Built for AI](https://dev.to/idavidov13/the-scaffold-playwright-project-structure-built-for-ai-3a62)
+- [Cache Strategies in Distributed Systems](https://dev.to/hiral/cache-strategies-in-distributed-systems-3l9n)
+- [I built a Neovim plugin for Java development and open sourced it — nvim-javacreator](https://dev.to/nirmalravidas/i-built-a-neovim-plugin-for-java-development-and-open-sourced-it-nvim-javacreator-2h9c)
+- [Kubernetes Federation](https://dev.to/godofgeeks/kubernetes-federation-6b1)
+- [Building Search That Doesn&#39;t Suck &lpar;Vector + Keyword&rpar;](https://dev.to/aibuildersdigest/building-search-that-doesnt-suck-vector-keyword-5c6k)
+- [Deploying a MEAN Stack App Without a Cloud Provider](https://dev.to/amjadcp/deploying-a-mean-stack-app-without-a-cloud-provider-50nm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
