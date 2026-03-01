@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SQL Joins](https://dev.to/murimikelvin/sql-joins-mli)
-- [How we built cross-region uptime verification &lpar;and why single-location monitoring is broken&rpar;](https://dev.to/khrome83/how-we-built-cross-region-uptime-verification-and-why-single-location-monitoring-is-broken-24mo)
-- [React Native VS Flutter: Which is future-proof &amp; Best?](https://dev.to/techrajeshnandi/react-native-vs-flutter-which-is-future-proof-best-1ca6)
-- [How to Send Messages on Nostr with Python &lpar;Complete Guide, 2025&rpar;](https://dev.to/colony0ai/how-to-send-messages-on-nostr-with-python-complete-guide-2025-4m86)
-- [AWS Lambda Durable Functions - Build a Loan Approval Workflow with Checkpoints, Callbacks, and a React Frontend](https://dev.to/aws-builders/aws-lambda-durable-functions-build-a-loan-approval-workflow-with-checkpoints-callbacks-and-a-5b5n)
+- [L&#39;accessibilité web n&#39;est pas une option — et voici pourquoi ça vous coûte des clients](https://dev.to/yourweb/laccessibilite-web-nest-pas-une-option-et-voici-pourquoi-ca-vous-coute-des-clients-4nbe)
+- [I built a React library for Material 3 “Expressive” &lpar;with motion&rpar; — demos + docs](https://dev.to/prudhvi_raj/i-built-a-react-library-for-material-3-expressive-with-motion-demos-docs-mb1)
+- [I Built an AI Video Ad Generator with Claude + MCP — Here&#39;s the Architecture](https://dev.to/qays_kadhim_c3fea1c94957f/i-built-an-ai-video-ad-generator-with-claude-mcp-heres-the-architecture-1kei)
+- [Web Scraping Dynamic Websites using Selenium and BeautifulSoup](https://dev.to/notsol/web-scraping-lazada-using-selenium-and-beautifulsoup-1526)
+- [Let&#39;s stop forcing ideas into lists. I built an AI infinite canvas for visual thinkers.](https://dev.to/berkaydisli/lets-stop-forcing-ideas-into-lists-i-built-an-ai-infinite-canvas-for-visual-thinkers-29dg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
