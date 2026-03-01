@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Burned Sensors to Sunset Algorithms: My Full-Stack IoT Journey with Google Gemini](https://dev.to/sherman95/from-burned-sensors-to-sunset-algorithms-my-full-stack-iot-journey-with-google-gemini-5fae)
-- [Understanding LSTMs – Part 6: How LSTM Produces Its Final Output](https://dev.to/rijultp/understanding-lstms-part-6-how-lstm-produces-its-final-output-16ec)
-- [AuraMaxx: Open-Source Apple Keychain for AI Agents](https://dev.to/nicoletteduclar/auramaxx-open-source-apple-keychain-for-ai-agents-35m9)
-- [From Static Timeline to Fully Interactive Scheduler: Drag &amp; Drop in My React Native Library](https://dev.to/kozerkarol/from-static-timeline-to-fully-interactive-scheduler-drag-drop-in-my-react-native-library-4jkl)
-- [Side project idea II](https://dev.to/karenpayneoregon/side-project-idea-ii-4bce)
+- [Python to Rust to Proof: Cross-Validating a ZK System](https://dev.to/jacobi0x/python-to-rust-to-proof-cross-validating-a-zk-system-14n1)
+- [Understanding Joins and Window Functions in SQL](https://dev.to/geraldm/understanding-joins-and-window-functions-in-sql-4mdk)
+- [The Witness Problem: When BigInt Precision Breaks Your Proof](https://dev.to/jacobi0x/the-witness-problem-when-bigint-precision-breaks-your-proof-2153)
+- [[DEV Weekend Challenge: Community] Kanoon Mera Kawach](https://dev.to/devtoamz/dev-weekend-challenge-community-kanoon-mera-kawach-2k0j)
+- [DevStretch: The Antiburnout Protocol for Devs Who Forgot They Have Bodies](https://dev.to/highflyer910/devstretch-the-antiburnout-protocol-for-devs-who-forgot-they-have-bodies-3am)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
