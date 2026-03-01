@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why I spent my weekend building a &quot;Cyber-Immune System&quot; for students](https://dev.to/agp_marka_62a62d1cdadad70/why-i-spent-my-weekend-building-a-cyber-immune-system-for-students-4682)
+- [APOD-Mood-Gallery: A visually rich, AI-powered interactive astronomy gallery](https://dev.to/bibhupradhan/apod-mood-gallery-a-visually-rich-ai-powered-interactive-astronomy-gallery-671)
 - [Automating LeetCode Documentation with a Local LLM + GitHub Workflow](https://dev.to/micheal_angelo_41cea4e81a/automating-leetcode-documentation-with-a-local-llm-github-workflow-47e0)
 - [JavaScript Promises Explained: A Startup Analogy for Beginners](https://dev.to/kunal_dev/javascript-promises-explained-a-startup-analogy-for-beginners-bi5)
 - [Building a Real-Time Multimodal AI Communication Coach](https://dev.to/rajg07/building-a-real-time-multimodal-ai-communication-coach-1o5e)
-- [Introducing Agent Duelist: Benchmark LLM Providers Like a Pro](https://dev.to/datagobes/introducing-agent-duelist-benchmark-llm-providers-like-a-pro-4hh0)
-- [DoraHacks Hackathon Newsletter 2026 March](https://dev.to/dorahacks/dorahacks-hackathon-newsletter-2026-march-52ca)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
