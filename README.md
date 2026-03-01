@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why I spent my weekend building a &quot;Cyber-Immune System&quot; for students](https://dev.to/agp_marka_62a62d1cdadad70/why-i-spent-my-weekend-building-a-cyber-immune-system-for-students-4682)
-- [APOD-Mood-Gallery: A visually rich, AI-powered interactive astronomy gallery](https://dev.to/bibhupradhan/apod-mood-gallery-a-visually-rich-ai-powered-interactive-astronomy-gallery-671)
-- [Automating LeetCode Documentation with a Local LLM + GitHub Workflow](https://dev.to/micheal_angelo_41cea4e81a/automating-leetcode-documentation-with-a-local-llm-github-workflow-47e0)
-- [JavaScript Promises Explained: A Startup Analogy for Beginners](https://dev.to/kunal_dev/javascript-promises-explained-a-startup-analogy-for-beginners-bi5)
-- [Building a Real-Time Multimodal AI Communication Coach](https://dev.to/rajg07/building-a-real-time-multimodal-ai-communication-coach-1o5e)
+- [From Recursion to Backtracking](https://dev.to/bhavya_thakkar_203f9c2f66/from-recursion-to-backtracking-4ei2)
+- [I was tired of bloated changelog tools, so I built BearLog](https://dev.to/phaxz10/i-was-tired-of-bloated-changelog-tools-so-i-built-bearlog-cfm)
+- [DevDNA — Turn Your GitHub Activity Into a Developer Personality](https://dev.to/akshit_suthar/devdna-turn-your-github-activity-into-a-developer-personality-292g)
+- [I Built a Free Tool That Removes Silence from Audio Instantly — No Uploads, No Signup](https://dev.to/random_code_0440e489e9712/i-built-a-free-tool-that-removes-silence-from-audio-instantly-no-uploads-no-signup-ldn)
+- [A Horror Story About JavaScript Promise](https://dev.to/satyasootar/a-horror-story-about-javascript-promise-50f1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
