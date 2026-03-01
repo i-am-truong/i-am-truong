@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [StudyTogether: Making Studying Feel Less Lonely](https://dev.to/rushikesh_yogeshgaikwad_/studytogether-making-studying-feel-less-lonely-7hm)
+- [27. C# &lpar;Arrays&rpar;](https://dev.to/sabin_sim/26-c-arrays-f17)
 - [A Studio of One&#39;s Own&quot;](https://dev.to/soumia_g_9dc322fc4404cecd/a-studio-of-ones-own-h64)
 - [Openstack Heat Template: OS:Nova:KeyPair Issue](https://dev.to/rohanbabbar04/openstack-heat-template-osnovakeypair-issue-51g2)
 - [Your Game&#39;s World Doesn&#39;t Need More Lore. It Needs More Consequences.](https://dev.to/nyxgarrett/your-games-world-doesnt-need-more-lore-it-needs-more-consequences-1ole)
-- [Dev Challenge. Solo Learning — Gamified Productivity Tracker](https://dev.to/ratratatyu/dev-challenge-solo-learning-gamified-productivity-tracker-33d4)
-- [Introducing @hazeljs/oauth: One Package for Google, Microsoft, GitHub, Facebook &amp; Twitter Login](https://dev.to/arslan_mecom/introducing-hazeljsoauth-one-package-for-google-microsoft-github-facebook-twitter-login-mg1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
