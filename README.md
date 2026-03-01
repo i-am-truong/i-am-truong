@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Gmail AI Responder in Node.js &lpar;and it Actually Works&rpar;](https://dev.to/alagrede/i-built-a-gmail-ai-responder-in-nodejs-and-it-actually-works-2jc6)
-- [Add a pre-build reality check to your AI agent — one line, every project](https://dev.to/mnemox/add-a-pre-build-reality-check-to-your-ai-agent-one-line-every-project-46e5)
-- [Solved: Why do people still start restaurants if they fail 90% of the time?](https://dev.to/techresolve/solved-why-do-people-still-start-restaurants-if-they-fail-90-of-the-time-432h)
-- [Which promise method do you need?](https://dev.to/mandy8055/which-promise-method-do-you-need-da9)
-- [Turn Your Regional AKS Ingress into a Global SaaS Entry Point](https://dev.to/pilgrim2go/turn-your-regional-aks-ingress-into-a-global-saas-entry-point-14n4)
+- [The Death of Flash: Building a Facebook-Integrated HTML5 Memory Game in 2013](https://dev.to/rpi1337/the-death-of-flash-building-a-facebook-integrated-html5-memory-game-in-2013-1ka2)
+- [Ephemeral Storage in AKS — A Practical Hands-On Lab](https://dev.to/pilgrim2go/ephemeral-storage-in-aks-a-practical-hands-on-lab-22c)
+- [Best AI Tools for Language Learning: Speak Any Language Faster](https://dev.to/arenasbob2024cell/best-ai-tools-for-language-learning-speak-any-language-faster-pa8)
+- [Perplexity Pro vs ChatGPT Plus vs Claude Pro: Best AI Subscription](https://dev.to/arenasbob2024cell/perplexity-pro-vs-chatgpt-plus-vs-claude-pro-best-ai-subscription-4jkc)
+- [🚀 LeetCode Top 150 — Progress Log #1](https://dev.to/deekshitha-connect/leetcode-top-150-progress-log-1-m8f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
