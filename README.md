@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Digital Postcards](https://dev.to/vasilisskourtisdev/digital-postcards-40ci)
+- [JH Link: A PWA to Connect and Engage Our Local Youth Center](https://dev.to/olivier_vanheste_62a5c2c6/jh-link-a-pwa-to-connect-and-engage-our-local-youth-center-5ahb)
 - [📨 Pop-out Messaging Extension: Dev Whisper](https://dev.to/annavi11arrea1/pop-out-messaging-extension-dev-whisper-4bma)
 - [BorrowHood: Every Garage Becomes a Rental Shop](https://dev.to/wilhelm_tell/borrowhood-every-garage-becomes-a-rental-shop-p70)
 - [Most of us optimize prompts. Very few of us optimize ROI. Here&#39;s what I found tracking my Claude Code spend.](https://dev.to/akshat2634/most-of-us-optimize-prompts-very-few-of-us-optimize-roi-heres-what-i-found-tracking-my-claude-3hb7)
-- [83% Accuracy: How We Reverse Engineered Amazon&#39;s Dynamic Pricing Algorithm](https://dev.to/milinda_biswas_fb9eeb2a8a/83-accuracy-how-we-reverse-engineered-amazons-dynamic-pricing-algorithm-4ecj)
-- [🤑 A Price for Everyone 🤑](https://dev.to/trickell/a-price-for-everyone-123k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
