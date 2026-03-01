@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I reduced medical no-shows from 21% to 8.1% with an AI Telegram bot](https://dev.to/grekcreator/how-i-reduced-medical-no-shows-from-21-to-81-with-an-ai-telegram-bot-1a4o)
-- [Placement Panic Solver](https://dev.to/ansari_gufran/placement-panic-solver-4c15)
-- [The Hardest Part of AI Isn&#39;t the AI](https://dev.to/mikefalk/the-hardest-part-of-ai-isnt-the-ai-3of8)
-- [The Hardest Part of AI Isn&#39;t the AI](https://dev.to/mikefalk/the-hardest-part-of-ai-isnt-the-ai-j9)
-- [The Hardest Part of AI Isn&#39;t the AI](https://dev.to/mikefalk/the-hardest-part-of-ai-isnt-the-ai-855)
+- [Building AI Video Transcription with OpenAI Whisper](https://dev.to/vitalii_petrenko_dev/building-ai-video-transcription-with-openai-whisper-3aof)
+- [Why Your AI Agent Should Never Depend on One Provider](https://dev.to/turtleand/why-your-ai-agent-should-never-depend-on-one-provider-3926)
+- [feat: add DevPulse AI to the list of advanced AI agents in README.](https://dev.to/jgnoncelogic/feat-add-devpulse-ai-to-the-list-of-advanced-ai-agents-in-readme-4cch)
+- [C.H. Robinson CEO says AI will drive freight brokerage consolidation - Yahoo Finance](https://dev.to/jgnoncelogic/ch-robinson-ceo-says-ai-will-drive-freight-brokerage-consolidation-yahoo-finance-117h)
+- [How I Saved 20,000 Gas Per Transaction by Reordering One Line in Solidity](https://dev.to/illegalcall/how-i-saved-20000-gas-per-transaction-by-reordering-one-line-in-solidity-2dgl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
