@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Criando uma arquitetura de microsserviços para organização de decks Yu-Gi-Oh com Spring Boot – Parte 03](https://dev.to/odevpedro/criando-uma-arquitetura-de-microsservicos-para-organizacao-de-decks-yu-gi-oh-com-spring-boot--1oh9)
-- [Never Repeat Yourself: Give Your LLM Apps Persistent Memory with ContextMD](https://dev.to/subham_kundu_335580d3c8e4/never-repeat-yourself-give-your-llm-apps-persistent-memory-with-contextmd-lh3)
-- [The agent economy is here: AI agents earning and spending money autonomously](https://dev.to/purpleflea/the-agent-economy-is-here-ai-agents-earning-and-spending-money-autonomously-3oh5)
-- [Building Multi-Model AI Agents with OpenAI, Ollama, Groq and Gemini](https://dev.to/redoh/building-multi-model-ai-agents-with-openai-ollama-groq-and-gemini-3mga)
-- [From My Kitchen to Yours: I Built a Food Swap Board for My Neighborhood](https://dev.to/meemeealm/from-my-kitchen-to-yours-i-built-a-food-swap-board-for-my-neighborhood-23ej)
+- [Cat-Connect](https://dev.to/stentorian-studio/cat-connect-35nj)
+- [Why Bare Metal Nostalgia is Dead and Cloud Governance is the New Sovereignty](https://dev.to/alifunk/why-bare-metal-nostalgia-is-dead-and-cloud-governance-is-the-new-sovereignty-78f)
+- [YOLOv6 v3.0: A Full-Scale Reloading](https://dev.to/paperium/yolov6-v30-a-full-scale-reloading-jln)
+- [The 600x LLM Pricing Gap and How to Exploit It](https://dev.to/dor_amir_dbb52baafff7ca5b/the-600x-llm-pricing-gap-and-how-to-exploit-it-5hhk)
+- [Turning Community Event Downtime Into Interaction With a Live Heatmap App](https://dev.to/javz/turning-community-event-downtime-into-interaction-with-a-live-heatmap-app-4mg8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
