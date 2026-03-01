@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Reverse WHO IS the right way!](https://dev.to/biradarkris/reverse-who-is-the-right-way-3p73)
-- [Circular recomputation and rounding drift in Odoo](https://dev.to/borovlevas/circular-recomputation-and-rounding-drift-in-odoo-12l1)
-- [I built a macOS menu bar app to monitor all my Claude Code sessions — here&#39;s how it works](https://dev.to/minchenlee/i-built-a-macos-menu-bar-app-to-monitor-all-my-claude-code-sessions-heres-how-it-works-1kb7)
-- [Array Methods You Must Know](https://dev.to/hiral/array-methods-you-must-know-42ja)
-- [The &quot;Invisible Tunnel&quot;: Host from Your Laptop via Oracle Cloud and Tailscale](https://dev.to/vimal/the-invisible-tunnel-host-from-your-laptop-via-oracle-cloud-and-tailscale-18b5)
+- [Turn Your Regional AKS Ingress into a Global SaaS Entry Point](https://dev.to/pilgrim2go/turn-your-regional-aks-ingress-into-a-global-saas-entry-point-14n4)
+- [From Idea to Pull Request in Minutes: Building an Autonomous Dev Team with Google Gemini](https://dev.to/shogun_the_grt/from-idea-to-pull-request-in-minutes-building-an-autonomous-dev-team-with-google-gemini-5729)
+- [Kiln: WebGPU-Native Out-of-Core Volume Rendering for Multi-GB Datasets](https://dev.to/mpanknin/kiln-webgpu-native-out-of-core-volume-rendering-for-multi-gb-datasets-2alb)
+- [Google Launches Nano Banana 2 AI Image Model](https://dev.to/bruceyao/google-launches-nano-banana-2-ai-image-model-521h)
+- [WordPress Security in 2026: What&#39;s Changed](https://dev.to/davidshusterman/wordpress-security-in-2026-whats-changed-4n1e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
