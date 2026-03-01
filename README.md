@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Death of Flash: Building a Facebook-Integrated HTML5 Memory Game in 2013](https://dev.to/rpi1337/the-death-of-flash-building-a-facebook-integrated-html5-memory-game-in-2013-1ka2)
-- [Ephemeral Storage in AKS — A Practical Hands-On Lab](https://dev.to/pilgrim2go/ephemeral-storage-in-aks-a-practical-hands-on-lab-22c)
-- [Best AI Tools for Language Learning: Speak Any Language Faster](https://dev.to/arenasbob2024cell/best-ai-tools-for-language-learning-speak-any-language-faster-pa8)
-- [Perplexity Pro vs ChatGPT Plus vs Claude Pro: Best AI Subscription](https://dev.to/arenasbob2024cell/perplexity-pro-vs-chatgpt-plus-vs-claude-pro-best-ai-subscription-4jkc)
-- [🚀 LeetCode Top 150 — Progress Log #1](https://dev.to/deekshitha-connect/leetcode-top-150-progress-log-1-m8f)
+- [Automating LeetCode Documentation with a Local LLM + GitHub Workflow](https://dev.to/micheal_angelo_41cea4e81a/automating-leetcode-documentation-with-a-local-llm-github-workflow-47e0)
+- [JavaScript Promises Explained: A Startup Analogy for Beginners](https://dev.to/kunal_dev/javascript-promises-explained-a-startup-analogy-for-beginners-bi5)
+- [Building a Real-Time Multimodal AI Communication Coach](https://dev.to/rajg07/building-a-real-time-multimodal-ai-communication-coach-1o5e)
+- [Introducing Agent Duelist: Benchmark LLM Providers Like a Pro](https://dev.to/datagobes/introducing-agent-duelist-benchmark-llm-providers-like-a-pro-4hh0)
+- [DoraHacks Hackathon Newsletter 2026 March](https://dev.to/dorahacks/dorahacks-hackathon-newsletter-2026-march-52ca)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
