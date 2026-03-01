@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cache Strategies in Distributed Systems](https://dev.to/hiral/cache-strategies-in-distributed-systems-3l9n)
-- [I built a Neovim plugin for Java development and open sourced it — nvim-javacreator](https://dev.to/nirmalravidas/i-built-a-neovim-plugin-for-java-development-and-open-sourced-it-nvim-javacreator-2h9c)
-- [Kubernetes Federation](https://dev.to/godofgeeks/kubernetes-federation-6b1)
-- [Building Search That Doesn&#39;t Suck &lpar;Vector + Keyword&rpar;](https://dev.to/aibuildersdigest/building-search-that-doesnt-suck-vector-keyword-5c6k)
-- [Deploying a MEAN Stack App Without a Cloud Provider](https://dev.to/amjadcp/deploying-a-mean-stack-app-without-a-cloud-provider-50nm)
+- [Automating Zendesk Workflows with n8n: Zero-Code AI Agents for Support Teams](https://dev.to/helpando/automating-zendesk-workflows-with-n8n-zero-code-ai-agents-for-support-teams-6gf)
+- [Building TrustGuard AI with Google Gemini: Explainable AI to Fight Scams](https://dev.to/roshni_yogeshgaikwad_62e/building-trustguard-ai-with-google-gemini-explainable-ai-to-fight-scams-bjg)
+- [We Shipped a Product With 9 AI Agents. Here&#39;s What Actually Happened.](https://dev.to/seakai/we-shipped-a-product-with-9-ai-agents-heres-what-actually-happened-2g3f)
+- [CVE-2026-3304: Denial of Service via Incomplete File Cleanup in Multer Middleware](https://dev.to/cverports/cve-2026-3304-denial-of-service-via-incomplete-file-cleanup-in-multer-middleware-35gf)
+- [Exploring 4-Layer Frontend Architecture: A Practical Guide](https://dev.to/ahr_dev/exploring-4-layer-frontend-architecture-a-practical-guide-362b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
