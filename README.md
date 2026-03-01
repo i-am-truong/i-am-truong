@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I built an AI-powered plant swap community app in a weekend](https://dev.to/soham0047/how-i-built-an-ai-powered-plant-swap-community-app-in-a-weekend-2co4)
-- [I Built the Resume Tool My Broke Student Self Needed](https://dev.to/attahiruj/i-built-the-resume-tool-my-broke-student-self-needed-1932)
-- [Build Your Own Developer Card with Astro and Tailwind CSS](https://dev.to/sami/build-your-own-developer-card-with-astro-and-tailwind-css-45de)
-- [SaaS Competitor Monitoring Framework: What to Track Weekly, Monthly, Quarterly](https://dev.to/yl_seeto/saas-competitor-monitoring-framework-what-to-track-weekly-monthly-quarterly-2f2j)
-- [Code Buddy: Connect, code and upskill](https://dev.to/richk21/code-buddy-connect-code-and-upskill-1kho)
+- [SQL Joins](https://dev.to/murimikelvin/sql-joins-mli)
+- [How we built cross-region uptime verification &lpar;and why single-location monitoring is broken&rpar;](https://dev.to/khrome83/how-we-built-cross-region-uptime-verification-and-why-single-location-monitoring-is-broken-24mo)
+- [React Native VS Flutter: Which is future-proof &amp; Best?](https://dev.to/techrajeshnandi/react-native-vs-flutter-which-is-future-proof-best-1ca6)
+- [How to Send Messages on Nostr with Python &lpar;Complete Guide, 2025&rpar;](https://dev.to/colony0ai/how-to-send-messages-on-nostr-with-python-complete-guide-2025-4m86)
+- [AWS Lambda Durable Functions - Build a Loan Approval Workflow with Checkpoints, Callbacks, and a React Frontend](https://dev.to/aws-builders/aws-lambda-durable-functions-build-a-loan-approval-workflow-with-checkpoints-callbacks-and-a-5b5n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
