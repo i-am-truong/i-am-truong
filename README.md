@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cat-Connect](https://dev.to/stentorian-studio/cat-connect-35nj)
-- [Why Bare Metal Nostalgia is Dead and Cloud Governance is the New Sovereignty](https://dev.to/alifunk/why-bare-metal-nostalgia-is-dead-and-cloud-governance-is-the-new-sovereignty-78f)
-- [YOLOv6 v3.0: A Full-Scale Reloading](https://dev.to/paperium/yolov6-v30-a-full-scale-reloading-jln)
-- [The 600x LLM Pricing Gap and How to Exploit It](https://dev.to/dor_amir_dbb52baafff7ca5b/the-600x-llm-pricing-gap-and-how-to-exploit-it-5hhk)
-- [Turning Community Event Downtime Into Interaction With a Live Heatmap App](https://dev.to/javz/turning-community-event-downtime-into-interaction-with-a-live-heatmap-app-4mg8)
+- [Material3 Dynamic Colors: How AI Gets Android Theming Right &lpar;And You Can Too&rpar;](https://dev.to/myougatheaxo/material3-dynamic-colors-how-ai-gets-android-theming-right-and-you-can-too-31nm)
+- [$0 Budget, $52M Problem: How a Stay-at-Home Dad Built an AI Memory System](https://dev.to/dosanko_tousan/0-budget-52m-problem-how-a-stay-at-home-dad-built-an-ai-memory-system-3o95)
+- [Why My Android Apps Have Zero INTERNET Permission &lpar;And Why Yours Should Too&rpar;](https://dev.to/myougatheaxo/why-my-android-apps-have-zero-internet-permission-and-why-yours-should-too-coo)
+- [2026&#39;da Kendi Web Siteni Kurmak İçin Bilmen Gereken Her Şey &lpar;Gerçekçi Rehber&rpar;](https://dev.to/bilal_demirkr_33df0f13389/2026da-kendi-web-siteni-kurmak-icin-bilmen-gereken-her-sey-gercekci-rehber-51af)
+- [The Open Source Bridge: An AI-Powered Engine for Your Next Major Contribution](https://dev.to/devjash15/the-open-source-bridge-an-ai-powered-engine-for-your-next-major-contribution-2gb4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
