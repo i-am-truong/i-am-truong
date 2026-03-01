@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Distillation Attacks : Risks and Controversies](https://dev.to/roshanacharya/distillation-attacks-risks-and-controversies-1iaf)
-- [I Asked Gemini One Question! It Became an Accessibility App](https://dev.to/devcodehub99/i-asked-gemini-one-question-it-became-an-accessibility-app-41a7)
-- [Your Memes. At Light Speed](https://dev.to/louise_vish/your-memes-at-light-speed-1on)
-- [Book Review: Co-Intelligence by Ethan Mollick](https://dev.to/bolt04/book-review-co-intelligence-by-ethan-mollick-f5k)
-- [We built a new AI EdTech service for developers.](https://dev.to/resetmerlin/we-built-a-new-ai-edtech-service-for-developers-5805)
+- [agentwallet-sdk v2.5.0: Your AI Agent Now Works on Arbitrum and Optimism](https://dev.to/up2itnow0822/agentwallet-sdk-v250-your-ai-agent-now-works-on-arbitrum-and-optimism-6i2)
+- [Why standard searches fail for deep technical questions - and how to fix the gap](https://dev.to/sofiabennett84/why-standard-searches-fail-for-deep-technical-questions-and-how-to-fix-the-gap-bc0)
+- [Build a $10 DIY Wi-Fi USB Keylogger with ESP32-S3 and MicroPython &lpar;DuckLogger&rpar;](https://dev.to/itsmmdoha/build-a-10-diy-wi-fi-usb-keylogger-with-esp32-s3-and-micropython-ducklogger-30dl)
+- [Mastering OpenClaw on AWS: Fine-Tuning Personality, Memory, and Soul](https://dev.to/aws-builders/mastering-openclaw-on-aws-fine-tuning-personality-memory-and-soul-37ig)
+- [Acessibilidade Web: Guia de boas práticas para interfaces inclusivas ♿️](https://dev.to/psrodrigs/acessibilidade-web-guia-de-boas-praticas-para-interfaces-inclusivas-4jjf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
