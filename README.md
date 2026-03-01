@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built an AI Pet Photographer to Help Shelter Animals Get Adopted &lpar;Inspired by Google&#39;s Campaign&rpar;](https://dev.to/harsh2644/i-built-an-ai-pet-photographer-to-help-shelter-animals-get-adopted-inspired-by-googles-campaign-5ci4)
-- [How We Built a Multi-Industry WhatsApp AI Agent in Israel](https://dev.to/aibuddy_il/how-we-built-a-multi-industry-whatsapp-ai-agent-in-israel-4mfj)
-- [Providing storage for the IT department testing and training](https://dev.to/kingbabz/providing-storage-for-the-it-department-testing-and-training-47d2)
-- [A Evolução do Modelo Relacional para Objeto-Relacional](https://dev.to/diego_ferreira_874246de77/a-evolucao-do-modelo-relacional-para-objeto-relacional-3jod)
-- [Agent Skills: Automatically Scaffold a .NET Solution Structure](https://dev.to/incomplete_developer/agent-skills-automatically-scaffold-a-net-solution-structure-1570)
+- [GNOME 2.20 but its Web Components](https://dev.to/bennypowers/gnome-220-but-its-web-components-3dk6)
+- [[Python/Fin] 打造股票質押計算器&lpar;1&rpar;：模擬「借新還舊」與「恆定槓桿」策略的數據實驗](https://dev.to/arne_li_369/pythonfin-da-zao-gu-piao-zhi-ya-ji-suan-qi-1mo-ni-jie-xin-huan-jiu-yu-heng-ding-gang-gan-ce-lue-de-shu-ju-shi-yan-b1c)
+- [How to Detect Climate Sentiment Shifts with the Pulsebit API &lpar;Python&rpar;](https://dev.to/pulsebitapi/how-to-detect-climate-sentiment-shifts-with-the-pulsebit-api-python-3nm9)
+- [I keep messing up my MCP config files, so I built a visual generator](https://dev.to/trinhcuong-ast/i-keep-messing-up-my-mcp-config-files-so-i-built-a-visual-generator-4i08)
+- [5 Ways to Cut Your AI Agent&#39;s API Bill by 80%](https://dev.to/klement_gunndu/5-ways-to-cut-your-ai-agents-api-bill-by-80-aee)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
