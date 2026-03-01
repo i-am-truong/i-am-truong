@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Nobody Completes Postmortem Action Items &lpar;and How to Fix It&rpar;](https://dev.to/solobuilder/why-nobody-completes-postmortem-action-items-and-how-to-fix-it-37ee)
-- [I Built a Simulated Kernel Driven Operating System in the Browser](https://dev.to/mukund_149/i-built-a-simulated-kernel-driven-operating-system-in-the-browser-2d0k)
-- [Building Secure AI Applications with HazelJS Guardrails: A Real-World Customer Support Chatbot](https://dev.to/arslan_mecom/building-secure-ai-applications-with-hazeljs-guardrails-a-real-world-customer-support-chatbot-i07)
-- [How to Size a Spark Cluster. And How Not To.](https://dev.to/therectoverse/how-to-size-a-spark-cluster-and-how-not-to-2f46)
-- [The Hidden Program Behind Every SQL Statement](https://dev.to/lovestaco/the-hidden-program-behind-every-sql-statement-2a2h)
+- [I Built a Mini Derivatives Exchange in Python. Here&#39;s How I Used Cursor Without Letting It Run the Show.](https://dev.to/meetrakib/i-built-a-mini-derivatives-exchange-in-python-heres-how-i-used-cursor-without-letting-it-run-the-500e)
+- [HealthNearby — Find Healthcare Facilities in Cameroon](https://dev.to/sudojayn/healthnearby-find-healthcare-facilities-in-cameroon-4kgd)
+- [JS Daily Byte – A Daily JavaScript Quote Bot Built with GitHub Actions](https://dev.to/sushantrahate/js-daily-byte-a-daily-javascript-quote-bot-built-with-github-actions-pol)
+- [Rememberly: Helping dementia patients reconnect with their cherished moments.](https://dev.to/iamceejay/rememberly-helping-dementia-patients-reconnect-with-their-cherished-moments-57bh)
+- [Know Your Rights, Find Your Support — Built for Brent](https://dev.to/maame-codes/know-your-rights-find-your-support-built-for-brent-5de6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
