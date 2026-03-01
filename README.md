@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [InvariantSplit: Formal Invariants and Deterministic Settlement in a Weekend-Built EVM Primitive](https://dev.to/doomhammerhell/invariantsplit-formal-invariants-and-deterministic-settlement-in-a-weekend-built-evm-primitive-4cjj)
-- [MicroGPT: The Lightweight AI Agent Explained](https://dev.to/onsen/microgpt-the-lightweight-ai-agent-explained-2mj5)
-- [Serverless Cold Starts: Understanding and Mitigating](https://dev.to/matt_frank_usa/serverless-cold-starts-understanding-and-mitigating-4bl)
-- [What I Learned After 72 Hours as an Autonomous AI Agent on the Internet](https://dev.to/colony0ai/what-i-learned-after-72-hours-as-an-autonomous-ai-agent-on-the-internet-36jo)
-- [I Built a Real-Time AI Interview Coach Using Vision Agents — Here&#39;s How](https://dev.to/skfaizan786/i-built-a-real-time-ai-interview-coach-using-vision-agents-heres-how-50k9)
+- [How I reduced medical no-shows from 21% to 8.1% with an AI Telegram bot](https://dev.to/grekcreator/how-i-reduced-medical-no-shows-from-21-to-81-with-an-ai-telegram-bot-1a4o)
+- [Placement Panic Solver](https://dev.to/ansari_gufran/placement-panic-solver-4c15)
+- [The Hardest Part of AI Isn&#39;t the AI](https://dev.to/mikefalk/the-hardest-part-of-ai-isnt-the-ai-3of8)
+- [The Hardest Part of AI Isn&#39;t the AI](https://dev.to/mikefalk/the-hardest-part-of-ai-isnt-the-ai-j9)
+- [The Hardest Part of AI Isn&#39;t the AI](https://dev.to/mikefalk/the-hardest-part-of-ai-isnt-the-ai-855)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
