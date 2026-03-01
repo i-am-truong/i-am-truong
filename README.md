@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hub Map GH: Mapping Ghana&#39;s Tech Future with AI &amp; Community](https://dev.to/grandkojo/hub-map-gh-mapping-ghanas-tech-future-with-ai-community-11fd)
+- [Room Database in 5 Minutes: How AI Generates Perfect Data Persistence for Android](https://dev.to/myougatheaxo/room-database-in-5-minutes-how-ai-generates-perfect-data-persistence-for-android-3g40)
+- [Our agreement with the Department of War](https://dev.to/minimal-architect/our-agreement-with-the-department-of-war-4mgf)
+- [How to Detect Sports Sentiment Shifts with the Pulsebit API &lpar;Python&rpar;](https://dev.to/pulsebitapi/how-to-detect-sports-sentiment-shifts-with-the-pulsebit-api-python-2cb9)
 - [Material3 Dynamic Colors: How AI Gets Android Theming Right &lpar;And You Can Too&rpar;](https://dev.to/myougatheaxo/material3-dynamic-colors-how-ai-gets-android-theming-right-and-you-can-too-31nm)
-- [$0 Budget, $52M Problem: How a Stay-at-Home Dad Built an AI Memory System](https://dev.to/dosanko_tousan/0-budget-52m-problem-how-a-stay-at-home-dad-built-an-ai-memory-system-3o95)
-- [Why My Android Apps Have Zero INTERNET Permission &lpar;And Why Yours Should Too&rpar;](https://dev.to/myougatheaxo/why-my-android-apps-have-zero-internet-permission-and-why-yours-should-too-coo)
-- [2026&#39;da Kendi Web Siteni Kurmak İçin Bilmen Gereken Her Şey &lpar;Gerçekçi Rehber&rpar;](https://dev.to/bilal_demirkr_33df0f13389/2026da-kendi-web-siteni-kurmak-icin-bilmen-gereken-her-sey-gercekci-rehber-51af)
-- [The Open Source Bridge: An AI-Powered Engine for Your Next Major Contribution](https://dev.to/devjash15/the-open-source-bridge-an-ai-powered-engine-for-your-next-major-contribution-2gb4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
