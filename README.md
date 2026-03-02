@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a shared clipboard for dev teams — looking for feedback](https://dev.to/mohitgauniyal/building-a-shared-clipboard-for-dev-teams-looking-for-feedback-4flc)
-- [Perl 🐪 Weekly #762 - Perl with MetaCPAN](https://dev.to/szabgab/perl-weekly-762-perl-with-metacpan-2i8l)
-- [I launched my side project two weeks ago. Here&#39;s what actually happened.](https://dev.to/dearjohnmusic/i-launched-my-side-project-two-weeks-ago-heres-what-actually-happened-h4g)
-- [Bash, Coffee, and Me: Learning Shell without losing your Mind](https://dev.to/silaslelei/bash-coffee-and-me-learning-shell-without-losing-your-mind-50fj)
-- [[Boost]](https://dev.to/manualwise/-46nf)
+- [Common Mobile UX Mistakes I See in Almost Every Project](https://dev.to/dinko7/common-mobile-ux-mistakes-i-see-in-almost-every-project-djb)
+- [Unit Conversion at Scale: Building a Multi-System Calculator Platform](https://dev.to/julien786534/unit-conversion-at-scale-building-a-multi-system-calculator-platform-3ph4)
+- [Building a Multi-Region Video Platform Serving Asia-Pacific Markets](https://dev.to/ahmet_gedik778845/building-a-multi-region-video-platform-serving-asia-pacific-markets-5abf)
+- [Enhancing User Onboarding with Product Tours](https://dev.to/geanruca/enhancing-user-onboarding-with-product-tours-gi2)
+- [Implementing IndexNow Protocol in PHP for Instant Indexing](https://dev.to/ahmet_gedik778845/implementing-indexnow-protocol-in-php-for-instant-indexing-22kl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
