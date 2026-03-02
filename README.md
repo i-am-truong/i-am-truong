@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [RAG Showdown: Why Telling Your Agent Less Gets You More](https://dev.to/balagmadhu/rag-showdown-why-telling-your-agent-less-gets-you-more-3jpb)
-- [Talking to Your AI Career Coach Like It&#39;s the First Meeting — Every. Single. Time.](https://dev.to/coach4life/talking-to-your-ai-career-coach-like-its-the-first-meeting-every-single-time-2kce)
-- [3 UK Money Checks I Run Before Saying Yes to a Pay Rise](https://dev.to/kitfunso/3-uk-money-checks-i-run-before-saying-yes-to-a-pay-rise-7p4)
-- [Building a DevOps SaaS Solo: Month 1 Retrospective](https://dev.to/yash_step2dev/building-a-devops-saas-solo-month-1-retrospective-2e5k)
-- [JOBSFILE](https://dev.to/vatukah/jobsfile-2nng)
+- [Building a shared clipboard for dev teams — looking for feedback](https://dev.to/mohitgauniyal/building-a-shared-clipboard-for-dev-teams-looking-for-feedback-4flc)
+- [Perl 🐪 Weekly #762 - Perl with MetaCPAN](https://dev.to/szabgab/perl-weekly-762-perl-with-metacpan-2i8l)
+- [I launched my side project two weeks ago. Here&#39;s what actually happened.](https://dev.to/dearjohnmusic/i-launched-my-side-project-two-weeks-ago-heres-what-actually-happened-h4g)
+- [Bash, Coffee, and Me: Learning Shell without losing your Mind](https://dev.to/silaslelei/bash-coffee-and-me-learning-shell-without-losing-your-mind-50fj)
+- [[Boost]](https://dev.to/manualwise/-46nf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
