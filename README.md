@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Free math game for kids](https://dev.to/codebehind_10a5be0a48e848/free-math-game-for-kids-1n08)
-- [The Impatient Programmer&#39;s Guide to Bevy and Rust: Chapter 1 - Let There Be a Player](https://dev.to/jamesfebin/the-impatient-programmers-guide-to-bevy-and-rust-chapter-1-let-there-be-a-player-17cb)
-- [CLI + AI = 🤯 How I Stopped Googling Commands and Started Shipping Faster](https://dev.to/deepakgupta/cli-ai-how-i-stopped-googling-commands-and-started-shipping-faster-1l8k)
-- [The Quiet Work of Automating SharePoint Server](https://dev.to/ngssolution23/the-quiet-work-of-automating-sharepoint-server-420i)
-- [Bridging the Semantic Gap in Neural Network Execution and Verification for Safety-Critical Systems](https://dev.to/valesys/bridging-the-semantic-gap-in-neural-network-execution-and-verification-for-safety-critical-systems-24bn)
+- [Solved: how I used Webflow + automation + SEO to replace $1.2K/month in Upwork leads](https://dev.to/techresolve/solved-how-i-used-webflow-automation-seo-to-replace-12kmonth-in-upwork-leads-1hme)
+- [Meet BlokJS - 9 KB, No Build Step, Standalone, Full FE Framework](https://dev.to/maleta/meet-blokjs-9-kb-no-build-step-standalone-full-fe-framework-3gfg)
+- [Expanding the Dataset: A Comprehensive Guide to SQL Joins and Window Functions](https://dev.to/dennis_ogaka_2d188ab5bef7/expanding-the-dataset-a-comprehensive-guide-to-sql-joins-and-window-functions-gg7)
+- [GoodMonkey - 57% Reduction* in Claude Code Context via Extensible Proxy](https://dev.to/simplemindedrobot/goodmonkey-57-reduction-in-claude-code-context-via-extensible-proxy-5bh7)
+- [Design a Rate Limiter](https://dev.to/josephakayesi/design-a-rate-limiter-4bkf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
