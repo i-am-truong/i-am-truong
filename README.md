@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Minimal .NET LLM Observability: Reproduce Timeouts and Triage in 15 Minutes](https://dev.to/lukaswalter/minimal-net-llm-observability-reproduce-timeouts-and-triage-in-15-minutes-29km)
-- [Football Pitchsync](https://dev.to/volde/football-pitchsync-2537)
-- [Stopping the Domino Effect: How I Built Resilico to Protect Community Lending](https://dev.to/shogun_the_grt/stopping-the-domino-effect-how-i-built-resilico-to-protect-community-lending-5b0a)
-- [When Disasters Strike, Cell Towers Fall First — So I Built a Mesh Network for Coastal Communities](https://dev.to/gowshik/when-disasters-strike-cell-towers-fall-first-so-i-built-a-mesh-network-for-coastal-communities-1kmk)
-- [Senior Developer, Failed Startup, Confused, IDK](https://dev.to/faisalkhandev/i-deleted-my-startup-repo-and-i-dont-know-what-that-says-about-me-396i)
+- [RAG Showdown: Why Telling Your Agent Less Gets You More](https://dev.to/balagmadhu/rag-showdown-why-telling-your-agent-less-gets-you-more-3jpb)
+- [Talking to Your AI Career Coach Like It&#39;s the First Meeting — Every. Single. Time.](https://dev.to/coach4life/talking-to-your-ai-career-coach-like-its-the-first-meeting-every-single-time-2kce)
+- [3 UK Money Checks I Run Before Saying Yes to a Pay Rise](https://dev.to/kitfunso/3-uk-money-checks-i-run-before-saying-yes-to-a-pay-rise-7p4)
+- [Building a DevOps SaaS Solo: Month 1 Retrospective](https://dev.to/yash_step2dev/building-a-devops-saas-solo-month-1-retrospective-2e5k)
+- [JOBSFILE](https://dev.to/vatukah/jobsfile-2nng)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
