@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [# Building TalkNowZone: An Educational Speech Development App for Children](https://dev.to/abdelali_58daa0c6ea4141bb/-building-talknowzone-an-educational-speech-development-app-for-children-25k3)
-- [Proving Sonoluminescence in Zero Knowledge: How We Built a 1,664-Byte Proof for Real Physics](https://dev.to/jacobi0x/proving-sonoluminescence-in-zero-knowledge-how-we-built-a-1664-byte-proof-for-real-physics-bg2)
-- [Ozigi v2 Changelog: Building a Modular Agentic Content Engine with Next.js, Supabase, and Playwright](https://dev.to/dumebii/ozigi-v2-changelog-building-a-modular-agentic-content-engine-with-nextjs-supabase-and-playwright-59mo)
-- [Comprendre les Tokens : Ne laissez plus l&#39;IA vider votre portefeuille](https://dev.to/pepetoken/comprendre-les-tokens-ne-laissez-plus-lia-vider-votre-portefeuille-3f8)
-- [🚀 10 JavaScript Functions Every Developer Should Master &lpar;With Real-World Examples&rpar;](https://dev.to/codehuntersharath/10-javascript-functions-every-developer-should-master-with-real-world-examples-499b)
+- [SQL JOINS AND WINDOW FUNCTIONS](https://dev.to/tonny-o/sql-joins-and-window-functions-334h)
+- [How to add browser automation to any MCP server using PageBolt](https://dev.to/custodiaadmin/how-to-add-browser-automation-to-any-mcp-server-using-pagebolt-3m06)
+- [Maîtriser la Fenêtre de Contexte : Évitez l&#39;amnésie de votre IA](https://dev.to/pepetoken/maitriser-la-fenetre-de-contexte-evitez-lamnesie-de-votre-ia-33pp)
+- [Log Entry 004 - Certified &lpar;The Hard Way&rpar;](https://dev.to/paderich87/log-entry-004--14cd)
+- [PostgreSQL Joins and Window Function](https://dev.to/ajani_lukekariuki_79255c/postgresql-joins-and-window-function-2mnj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
