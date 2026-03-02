@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why I Built an Industrial IoT Gateway Using Python and Serverless](https://dev.to/sangminwoo/why-i-built-an-industrial-iot-gateway-using-python-and-serverless-590)
-- [Data Pipeline Architecture: From Messy CSVs to Clean Database](https://dev.to/n3x1s/data-pipeline-architecture-from-messy-csvs-to-clean-database-285a)
-- [Designing Efficient Queries with SQL Joins and Window Functions](https://dev.to/edmund_eryuba/designing-efficient-queries-with-sql-joins-and-window-functions-447k)
-- [Built Testream - A Better Alternative for Jira Test Management](https://dev.to/hturan/built-testream-a-better-alternative-for-jira-test-management-ah5)
-- [WinClaw: Auto-Deploy to AWS, Azure &amp; Alibaba Cloud with AI-Powered Conversations](https://dev.to/winclawdev/winclaw-auto-deploy-to-aws-azure-alibaba-cloud-with-ai-powered-conversations-4pjo)
+- [# Building TalkNowZone: An Educational Speech Development App for Children](https://dev.to/abdelali_58daa0c6ea4141bb/-building-talknowzone-an-educational-speech-development-app-for-children-25k3)
+- [Proving Sonoluminescence in Zero Knowledge: How We Built a 1,664-Byte Proof for Real Physics](https://dev.to/jacobi0x/proving-sonoluminescence-in-zero-knowledge-how-we-built-a-1664-byte-proof-for-real-physics-bg2)
+- [Ozigi v2 Changelog: Building a Modular Agentic Content Engine with Next.js, Supabase, and Playwright](https://dev.to/dumebii/ozigi-v2-changelog-building-a-modular-agentic-content-engine-with-nextjs-supabase-and-playwright-59mo)
+- [Comprendre les Tokens : Ne laissez plus l&#39;IA vider votre portefeuille](https://dev.to/pepetoken/comprendre-les-tokens-ne-laissez-plus-lia-vider-votre-portefeuille-3f8)
+- [🚀 10 JavaScript Functions Every Developer Should Master &lpar;With Real-World Examples&rpar;](https://dev.to/codehuntersharath/10-javascript-functions-every-developer-should-master-with-real-world-examples-499b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
