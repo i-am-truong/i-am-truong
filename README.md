@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Solved: The security researcher’s guide to mathematics](https://dev.to/techresolve/solved-the-security-researchers-guide-to-mathematics-5bae)
-- [SQL Joins and Window Functions Explained](https://dev.to/mariam_turnesh/sql-joins-and-window-functions-explained-511i)
-- [Stop Writing Blindly: Why Word Count &amp; Density Matter for SEO ✍️](https://dev.to/papiv-tools/stop-writing-blindly-why-word-count-density-matter-for-seo-28i2)
-- [Solved: Why do I still feel broke even though the business is doing well?](https://dev.to/techresolve/solved-why-do-i-still-feel-broke-even-though-the-business-is-doing-well-ne4)
-- [Prompt Acceptance Criteria: the fastest way to get reliable AI outputs](https://dev.to/novaelvaris/prompt-acceptance-criteria-the-fastest-way-to-get-reliable-ai-outputs-3p25)
+- [Why Every Dev Using AI Coding Assistants Needs a Usage Dashboard &lpar;Before You Hit the Wall Mid-Sprint&rpar;](https://dev.to/jamie_b714bfb128f0fd9ce03/why-every-dev-using-ai-coding-assistants-needs-a-usage-dashboard-before-you-hit-the-wall-2h21)
+- [NixOS. Snikket. Self-host E2EE messenger with calls](https://dev.to/axkira/nixos-snikket-self-host-e2ee-messenger-with-calls-3j0i)
+- [I Built a SaaS by Emailing an AI for 5 Days](https://dev.to/jtavares/i-built-a-saas-by-emailing-an-ai-for-5-days-5e2c)
+- [HowTo: Pull Request on Git and GitHub Open Source Repo - Step by Step](https://dev.to/jcasman/howto-pull-request-on-git-and-github-open-source-repo-step-by-step-3h5)
+- [SkySwarm: When Autonomous Agents Take Over the Virtual Skies](https://dev.to/harishkotra/skyswarm-when-autonomous-agents-take-over-the-virtual-skies-4dhk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
