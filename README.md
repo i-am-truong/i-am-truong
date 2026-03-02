@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [# The Engineer’s Guide to Anti-Scraping Protections](https://dev.to/freeze_francis/-the-engineers-guide-to-anti-scraping-protections-l8m)
-- [Why My Multi-Tenant Chatbot Needed Two Types of API Keys](https://dev.to/hamurda/why-my-multi-tenant-chatbot-needed-two-types-of-api-keys-4248)
-- [Generate a CSR on Tableau Server](https://dev.to/edenallen/generate-a-csr-on-tableau-server-akm)
-- [Small weekend hack Daily JavaScript quotes via GitHub Actions. No backend required.](https://dev.to/sushantrahate/small-weekend-hack-daily-javascript-quotes-via-github-actions-no-backend-required-49b8)
-- [PawRover:A Community-Driven Solution for Pet Care](https://dev.to/sujankoirala021/pawrovera-community-driven-solution-for-pet-care-3le1)
+- [Your AI is a Confident Liar: How to Actually Fix Factual Hallucinations](https://dev.to/yaseen_tech/your-ai-is-a-confident-liar-how-to-actually-fix-factual-hallucinations-1p55)
+- [GenAI Roadmap &lpar;By Deeplearning.ai&rpar;](https://dev.to/jenil_sheth_3eb6f86dc4900/genai-roadmap-by-deeplearningai-2gl6)
+- [I Built a Subscription Pricing API — Because Every AI Agent Gives You Wrong Prices for Netflix, Spotify, and ChatGPT](https://dev.to/john_yesh38/i-built-a-subscription-pricing-api-because-every-ai-agent-gives-you-wrong-prices-for-netflix-517j)
+- [The Introduction - Journey to Data Analyst](https://dev.to/essym_19/the-introduction-107d)
+- [What Changed in Our Document-AI Pipeline After Adding a Deep-Search Layer &lpar;Production Case Study&rpar;](https://dev.to/azimkhan72/what-changed-in-our-document-ai-pipeline-after-adding-a-deep-search-layer-production-case-study-32b1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
