@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What Happens When Your Hackathon Has Less Than 24 Hours Left and Your Backend Isn&#39;t Built](https://dev.to/soumia_g_9dc322fc4404cecd/what-happens-when-your-hackathon-has-less-than-24-hours-left-and-your-backend-isnt-built-405b)
-- [The Two Problems Nobody Owns in AI: Accessibility and Security Are Design Problems in Disguise](https://dev.to/soumia_g_9dc322fc4404cecd/the-two-problems-nobody-owns-in-ai-accessibility-and-security-are-design-problems-in-disguise-5314)
-- [How to Visualize and Style Routes on a Leaflet Map](https://dev.to/geoapify-maps-api/how-to-visualize-and-style-routes-on-a-leaflet-map-4ljk)
-- [The Vision: A Living Map of the Machine 🌐](https://dev.to/soumia_g_9dc322fc4404cecd/the-vision-a-living-map-of-the-machine-4nln)
-- [Azure Weekly: OpenAI&#39;s GPT-5.3-Codex, Agentic Cloud Ops, and MCP Everywhere](https://dev.to/htekdev/azure-weekly-openais-gpt-53-codex-agentic-cloud-ops-and-mcp-everywhere-81n)
+- [Preventing UI Flash with Alpine.js and CSS](https://dev.to/geanruca/preventing-ui-flash-with-alpinejs-and-css-h80)
+- [Build an AI-Powered QA Agent with Agent Browser, Vercel AI SDK, and LLM Gateway](https://dev.to/smakosh/build-an-ai-powered-qa-agent-with-agent-browser-vercel-ai-sdk-and-llm-gateway-2om0)
+- [Código síncrono e assíncrono. Qual a diferença entre eles e como pode afetar as requisições?](https://dev.to/tun1n/codigo-sincrono-e-assincrono-qual-a-diferenca-entre-eles-e-como-pode-afetar-as-requisicoes-4p46)
+- [Competitive Intelligence Agent: From Slides to Live Signals](https://dev.to/james_collins/competitive-intelligence-agent-from-slides-to-live-signals-4bn3)
+- [X-forge: Improving AI-Assisted Development in VS Code with Better Context](https://dev.to/xiden001/x-forge-improving-ai-assisted-development-in-vs-code-with-better-context-4b5i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
