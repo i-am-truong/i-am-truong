@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building an Automated Influencer Outreach Pipeline in Node.js](https://dev.to/olams/building-an-automated-influencer-outreach-pipeline-in-nodejs-28mp)
 - [Closing the Gap: How a Mac Mini and AI Reignited 20 Years of Ideas](https://dev.to/charlieseay/closing-the-gap-how-a-mac-mini-and-ai-reignited-20-years-of-ideas-4l6a)
 - [The Hardest Part of Being a Developer Isn&#39;t Coding—It&#39;s Staying Visible to Yourself](https://dev.to/narnaiezzsshaa/the-hardest-part-of-being-a-developer-isnt-coding-its-staying-visible-to-yourself-33fa)
 - [Agentic Drift: It&#39;s Hard to Be Multiple Developers at Once](https://dev.to/helgesverre/agentic-drift-its-hard-to-be-multiple-developers-at-once-4872)
 - [I built a local memory layer for any LLM — stores your preferences, injects them into every session](https://dev.to/lakshmisravyavedantham/i-built-a-local-memory-layer-for-any-llm-stores-your-preferences-injects-them-into-every-session-78b)
-- [How We Built a GA4-Compatible Analytics Pipeline to Escape US Tech Lock-in](https://dev.to/archibald_duskbottle_366f/how-we-built-a-ga4-compatible-analytics-pipeline-to-escape-us-tech-lock-in-a06)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
