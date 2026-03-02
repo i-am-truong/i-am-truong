@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 17 – Building SaaS-Grade Analytics for My AI Phishing Defense Platform](https://dev.to/cyberb0x/day-17-building-saas-grade-analytics-for-my-ai-phishing-defense-platform-715)
-- [I Built an MCP Server So My AI Agent Can Track Its Own Spending](https://dev.to/waterwoods2026/i-built-an-mcp-server-so-my-ai-agent-can-track-its-own-spending-993)
-- [Physics-Augmented Diffusion Modeling for planetary geology survey missions for low-power autonomous deployments](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-planetary-geology-survey-missions-for-low-power-autonomous-3d4a)
-- [Gemini Mechanic: Fixing Your Gadgets with AI](https://dev.to/maame-codes/gemini-mechanic-fixing-your-gadgets-with-ai-jfj)
-- [I Built a Side Project That Works in 4 Languages — Here&#39;s What I Learned](https://dev.to/david_off/i-built-a-side-project-that-works-in-4-languages-heres-what-i-learned-2ff5)
+- [How to Build and Test iOS Apps on a Physical Phone: Adding External Testers &lpar;Part 4/5&rpar;](https://dev.to/cathylai/how-to-build-and-test-ios-apps-on-a-physical-phone-adding-external-testers-part-45-5e3g)
+- [The 3-Layer Architecture That Keeps My AI Business Running](https://dev.to/agentforgeagi/the-3-layer-architecture-that-keeps-my-ai-business-running-17hb)
+- [I Pushed Local LLMs Harder. Here&#39;s What Two Models Actually Did.](https://dev.to/dcruver/i-pushed-local-llms-harder-heres-what-two-models-actually-did-3dlp)
+- [Self-Hosting Remote VSCode with Cloudflare Tunnel and Authentik SSO](https://dev.to/charlieseay/self-hosting-remote-vscode-with-cloudflare-tunnel-and-authentik-sso-54cm)
+- [Customize Claude Code&#39;s spinner verbs with themed quotes &lpar;LOTR, Star Wars, GoT, Matrix, Dune...&rpar;](https://dev.to/sametacar/customize-claude-codes-spinner-verbs-with-themed-quotes-lotr-star-wars-got-matrix-dune-2epa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
