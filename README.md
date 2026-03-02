@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Protocol Launcher Series: Powering Cursor with MCP Services and AI](https://dev.to/zhensherlock/protocol-launcher-series-powering-cursor-with-mcp-services-and-ai-3dif)
-- [A beginner&#39;s guide to the Flux-2-Klein-4b model by Black-Forest-Labs on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-flux-2-klein-4b-model-by-black-forest-labs-on-replicate-kog)
-- [I Migrated Years of ChatGPT Conversations to Claude Using Cowork. Here&#39;s How.](https://dev.to/robiul_islam/i-migrated-years-of-chatgpt-conversations-to-claude-using-cowork-heres-how-plc)
-- [Key Mistakes to Avoid While Building a Bookkeeping SaaS for Dental Clinics](https://dev.to/rahul_kumar_1988/key-mistakes-to-avoid-while-building-a-bookkeeping-saasfor-dental-clinics-2e52)
-- [MeraSociety — I Turned My Apartment Society&#39;s WhatsApp Chaos into a Real App](https://dev.to/jackbright/merasociety-i-turned-my-apartment-societys-whatsapp-chaos-into-a-real-app-4o85)
+- [Production Observability for $0: How I Monitor My Portfolio with Sentry + Pulsetic](https://dev.to/lfariaus/production-observability-for-0-how-i-monitor-my-portfolio-with-sentry-pulsetic-3dil)
+- [Pinned Brews - A social coffee community](https://dev.to/austin_amento_860aebb9f55/pinned-brews-a-social-coffee-community-2m5d)
+- [The Loop: Making Art with AI about Making Art with AI](https://dev.to/helgesverre/the-loop-making-art-with-ai-about-making-art-with-ai-5f8c)
+- [I Built a Memory System for My AI — Here&#39;s What I Learned](https://dev.to/charm1987/i-built-a-memory-system-for-my-ai-heres-what-i-learned-4e68)
+- [Who Watches the Agent That Rewrites Itself?](https://dev.to/thenexusguard/who-watches-the-agent-that-rewrites-itself-4gdg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
