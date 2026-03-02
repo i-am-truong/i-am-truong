@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Week in Security: Feb 24 – Mar 2, 2026](https://dev.to/dendrite_soup/week-in-security-feb-24-mar-2-2026-21p8)
-- [Hack, Reflect, Look Forward: Building JH Link with Google Gemini](https://dev.to/olivier_vanheste_62a5c2c6/hack-reflect-look-forward-building-jh-link-with-google-gemini-glj)
-- [The Missile Incident: AWS Data Centers Under Fire and What It Means](https://dev.to/dd8888/the-missile-incident-aws-data-centers-under-fire-and-what-it-means-4jmc)
-- [Setting Up TypeScript ESLint Rules Teams Actually Follow](https://dev.to/tarunmj6/setting-up-typescript-eslint-rules-teams-actually-follow-4121)
-- [🧙‍♂️ Docker Wizard: Because Setting Up Dev Environments Shouldn&#39;t Feel Like Dark Magic](https://dev.to/youssef_ayman_c4cb65afabe/docker-wizard-because-setting-up-dev-environments-shouldnt-feel-like-dark-magic-18ca)
+- [Day 17 – Building SaaS-Grade Analytics for My AI Phishing Defense Platform](https://dev.to/cyberb0x/day-17-building-saas-grade-analytics-for-my-ai-phishing-defense-platform-715)
+- [I Built an MCP Server So My AI Agent Can Track Its Own Spending](https://dev.to/waterwoods2026/i-built-an-mcp-server-so-my-ai-agent-can-track-its-own-spending-993)
+- [Physics-Augmented Diffusion Modeling for planetary geology survey missions for low-power autonomous deployments](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-planetary-geology-survey-missions-for-low-power-autonomous-3d4a)
+- [Gemini Mechanic: Fixing Your Gadgets with AI](https://dev.to/maame-codes/gemini-mechanic-fixing-your-gadgets-with-ai-jfj)
+- [I Built a Side Project That Works in 4 Languages — Here&#39;s What I Learned](https://dev.to/david_off/i-built-a-side-project-that-works-in-4-languages-heres-what-i-learned-2ff5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
