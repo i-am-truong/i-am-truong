@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hub Map GH: Mapping Ghana&#39;s Tech Future with AI &amp; Community](https://dev.to/grandkojo/hub-map-gh-mapping-ghanas-tech-future-with-ai-community-11fd)
-- [Room Database in 5 Minutes: How AI Generates Perfect Data Persistence for Android](https://dev.to/myougatheaxo/room-database-in-5-minutes-how-ai-generates-perfect-data-persistence-for-android-3g40)
-- [Our agreement with the Department of War](https://dev.to/minimal-architect/our-agreement-with-the-department-of-war-4mgf)
-- [How to Detect Sports Sentiment Shifts with the Pulsebit API &lpar;Python&rpar;](https://dev.to/pulsebitapi/how-to-detect-sports-sentiment-shifts-with-the-pulsebit-api-python-2cb9)
-- [Material3 Dynamic Colors: How AI Gets Android Theming Right &lpar;And You Can Too&rpar;](https://dev.to/myougatheaxo/material3-dynamic-colors-how-ai-gets-android-theming-right-and-you-can-too-31nm)
+- [Protocol Launcher Series: Powering Cursor with MCP Services and AI](https://dev.to/zhensherlock/protocol-launcher-series-powering-cursor-with-mcp-services-and-ai-3dif)
+- [A beginner&#39;s guide to the Flux-2-Klein-4b model by Black-Forest-Labs on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-flux-2-klein-4b-model-by-black-forest-labs-on-replicate-kog)
+- [I Migrated Years of ChatGPT Conversations to Claude Using Cowork. Here&#39;s How.](https://dev.to/robiul_islam/i-migrated-years-of-chatgpt-conversations-to-claude-using-cowork-heres-how-plc)
+- [Key Mistakes to Avoid While Building a Bookkeeping SaaS for Dental Clinics](https://dev.to/rahul_kumar_1988/key-mistakes-to-avoid-while-building-a-bookkeeping-saasfor-dental-clinics-2e52)
+- [MeraSociety — I Turned My Apartment Society&#39;s WhatsApp Chaos into a Real App](https://dev.to/jackbright/merasociety-i-turned-my-apartment-societys-whatsapp-chaos-into-a-real-app-4o85)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
