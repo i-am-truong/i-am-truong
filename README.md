@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Build and Test iOS Apps on a Physical Phone: Adding External Testers &lpar;Part 4/5&rpar;](https://dev.to/cathylai/how-to-build-and-test-ios-apps-on-a-physical-phone-adding-external-testers-part-45-5e3g)
-- [The 3-Layer Architecture That Keeps My AI Business Running](https://dev.to/agentforgeagi/the-3-layer-architecture-that-keeps-my-ai-business-running-17hb)
-- [I Pushed Local LLMs Harder. Here&#39;s What Two Models Actually Did.](https://dev.to/dcruver/i-pushed-local-llms-harder-heres-what-two-models-actually-did-3dlp)
-- [Self-Hosting Remote VSCode with Cloudflare Tunnel and Authentik SSO](https://dev.to/charlieseay/self-hosting-remote-vscode-with-cloudflare-tunnel-and-authentik-sso-54cm)
-- [Customize Claude Code&#39;s spinner verbs with themed quotes &lpar;LOTR, Star Wars, GoT, Matrix, Dune...&rpar;](https://dev.to/sametacar/customize-claude-codes-spinner-verbs-with-themed-quotes-lotr-star-wars-got-matrix-dune-2epa)
+- [Closing the Gap: How a Mac Mini and AI Reignited 20 Years of Ideas](https://dev.to/charlieseay/closing-the-gap-how-a-mac-mini-and-ai-reignited-20-years-of-ideas-4l6a)
+- [The Hardest Part of Being a Developer Isn&#39;t Coding—It&#39;s Staying Visible to Yourself](https://dev.to/narnaiezzsshaa/the-hardest-part-of-being-a-developer-isnt-coding-its-staying-visible-to-yourself-33fa)
+- [Agentic Drift: It&#39;s Hard to Be Multiple Developers at Once](https://dev.to/helgesverre/agentic-drift-its-hard-to-be-multiple-developers-at-once-4872)
+- [I built a local memory layer for any LLM — stores your preferences, injects them into every session](https://dev.to/lakshmisravyavedantham/i-built-a-local-memory-layer-for-any-llm-stores-your-preferences-injects-them-into-every-session-78b)
+- [How We Built a GA4-Compatible Analytics Pipeline to Escape US Tech Lock-in](https://dev.to/archibald_duskbottle_366f/how-we-built-a-ga4-compatible-analytics-pipeline-to-escape-us-tech-lock-in-a06)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
