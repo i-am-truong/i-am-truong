@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [BrowserRouter in React](https://dev.to/harini_magesh_fa40041cf8d/browserrouter-in-react-49j5)
-- [Introduction to OpenCLAW](https://dev.to/autonomousworld/introduction-to-openclaw-5e96)
-- [From Streamlit to Flask: When and Why to Make the Jump](https://dev.to/przemyslawkepka/from-streamlit-to-flask-when-and-why-to-make-the-jump-4fkp)
-- [The 4 Rules of Client Communication Nobody Taught You](https://dev.to/edriso/the-4-rules-of-client-communication-nobody-taught-you-2mo3)
-- [When the Fancy Model Burned the Pipeline: A Reverse-Guide to Image Model Nightmares](https://dev.to/kailash_ac43c0ef1daf14abd/when-the-fancy-model-burned-the-pipeline-a-reverse-guide-to-image-model-nightmares-2p7l)
+- [Solved: The security researcher’s guide to mathematics](https://dev.to/techresolve/solved-the-security-researchers-guide-to-mathematics-5bae)
+- [SQL Joins and Window Functions Explained](https://dev.to/mariam_turnesh/sql-joins-and-window-functions-explained-511i)
+- [Stop Writing Blindly: Why Word Count &amp; Density Matter for SEO ✍️](https://dev.to/papiv-tools/stop-writing-blindly-why-word-count-density-matter-for-seo-28i2)
+- [Solved: Why do I still feel broke even though the business is doing well?](https://dev.to/techresolve/solved-why-do-i-still-feel-broke-even-though-the-business-is-doing-well-ne4)
+- [Prompt Acceptance Criteria: the fastest way to get reliable AI outputs](https://dev.to/novaelvaris/prompt-acceptance-criteria-the-fastest-way-to-get-reliable-ai-outputs-3p25)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
