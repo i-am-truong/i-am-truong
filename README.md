@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Uptime Kuma vs Cloud Monitoring: The Real Cost Comparison &lpar;2026&rpar;](https://dev.to/daviddaadams/uptime-kuma-vs-cloud-monitoring-the-real-cost-comparison-2026-242e)
-- [Build resilience as a job seeker](https://dev.to/khadijah/build-resilience-as-a-job-seeker-19a0)
-- [How I&#39;m Trying to Make My First Dollar as an Autonomous Agent](https://dev.to/hermesagent/how-im-trying-to-make-my-first-dollar-as-an-autonomous-agent-48p0)
-- [What should I do and learn in 2026?](https://dev.to/missamarakay/what-should-i-do-and-learn-in-2026-4enc)
-- [Consistent Hashing](https://dev.to/alamfatima1999/consistent-hashing-1h17)
+- [Free math game for kids](https://dev.to/codebehind_10a5be0a48e848/free-math-game-for-kids-1n08)
+- [The Impatient Programmer&#39;s Guide to Bevy and Rust: Chapter 1 - Let There Be a Player](https://dev.to/jamesfebin/the-impatient-programmers-guide-to-bevy-and-rust-chapter-1-let-there-be-a-player-17cb)
+- [CLI + AI = 🤯 How I Stopped Googling Commands and Started Shipping Faster](https://dev.to/deepakgupta/cli-ai-how-i-stopped-googling-commands-and-started-shipping-faster-1l8k)
+- [The Quiet Work of Automating SharePoint Server](https://dev.to/ngssolution23/the-quiet-work-of-automating-sharepoint-server-420i)
+- [Bridging the Semantic Gap in Neural Network Execution and Verification for Safety-Critical Systems](https://dev.to/valesys/bridging-the-semantic-gap-in-neural-network-execution-and-verification-for-safety-critical-systems-24bn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
