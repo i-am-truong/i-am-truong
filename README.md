@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My AI Tool Stack for 2026: What I Use, Why, and How I Keep It All Running](https://dev.to/jamie_b714bfb128f0fd9ce03/my-ai-tool-stack-for-2026-what-i-use-why-and-how-i-keep-it-all-running-3l02)
-- [What Most CSV Ingestion Scripts Get Wrong &lpar;And How to Fix It&rpar;](https://dev.to/looplylabs/what-most-csv-ingestion-scripts-get-wrong-and-how-to-fix-it-el8)
-- [When AI Writes Code. Why Frontend and Mobile Development Need a New Standard for State Management](https://dev.to/flexsurfer/when-ai-writes-code-why-frontend-and-mobile-development-need-a-new-standard-for-state-management-5l5)
-- [🧱 Beginner-Friendly Guide &#39;Minimum Swaps to Arrange a Binary Grid&#39; - Problem 1536 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-minimum-swaps-to-arrange-a-binary-grid-problem-1536-c-python-5amj)
-- [Manejo de Archivos Adjuntos &lpar;y notas de voz&rpar; entre WhatsApp y Amazon Connect](https://dev.to/ensamblador/manejo-de-archivos-adjuntos-y-notas-de-voz-entre-whatsapp-y-amazon-connect-15jj)
+- [Why I use markdown plan files instead of Cursor and Claude&#39;s built-in planning](https://dev.to/0xandrewshu/why-i-use-markdown-plan-files-instead-of-cursor-and-claudes-built-in-planning-35co)
+- [Security Cameras Don’t Understand. This One Does - Building an Agentic Physical Intelligence Platform with Gemini](https://dev.to/vision2030/security-cameras-dont-understand-this-one-does-building-an-agentic-physical-intelligence-d1k)
+- [A Nuvem Nem Sempre é a Resposta: A História da LusoFicta Foods](https://dev.to/anderson_leite/a-nuvem-nem-sempre-e-a-resposta-a-historia-da-lusoficta-foods-1nf9)
+- [How to Cut LLM Waste with DriftQ](https://dev.to/behnamaxo/how-to-cut-llm-waste-with-driftq-4g4o)
+- [How I automate agent evals starter kit for AI agent workflows](https://dev.to/shellsage_ai/how-i-automate-agent-evals-starter-kit-for-ai-agent-workflows-3fbp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
