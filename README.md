@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Solved: how I used Webflow + automation + SEO to replace $1.2K/month in Upwork leads](https://dev.to/techresolve/solved-how-i-used-webflow-automation-seo-to-replace-12kmonth-in-upwork-leads-1hme)
-- [Meet BlokJS - 9 KB, No Build Step, Standalone, Full FE Framework](https://dev.to/maleta/meet-blokjs-9-kb-no-build-step-standalone-full-fe-framework-3gfg)
-- [Expanding the Dataset: A Comprehensive Guide to SQL Joins and Window Functions](https://dev.to/dennis_ogaka_2d188ab5bef7/expanding-the-dataset-a-comprehensive-guide-to-sql-joins-and-window-functions-gg7)
-- [GoodMonkey - 57% Reduction* in Claude Code Context via Extensible Proxy](https://dev.to/simplemindedrobot/goodmonkey-57-reduction-in-claude-code-context-via-extensible-proxy-5bh7)
-- [Design a Rate Limiter](https://dev.to/josephakayesi/design-a-rate-limiter-4bkf)
+- [Week in Security: Feb 24 – Mar 2, 2026](https://dev.to/dendrite_soup/week-in-security-feb-24-mar-2-2026-21p8)
+- [Hack, Reflect, Look Forward: Building JH Link with Google Gemini](https://dev.to/olivier_vanheste_62a5c2c6/hack-reflect-look-forward-building-jh-link-with-google-gemini-glj)
+- [The Missile Incident: AWS Data Centers Under Fire and What It Means](https://dev.to/dd8888/the-missile-incident-aws-data-centers-under-fire-and-what-it-means-4jmc)
+- [Setting Up TypeScript ESLint Rules Teams Actually Follow](https://dev.to/tarunmj6/setting-up-typescript-eslint-rules-teams-actually-follow-4121)
+- [🧙‍♂️ Docker Wizard: Because Setting Up Dev Environments Shouldn&#39;t Feel Like Dark Magic](https://dev.to/youssef_ayman_c4cb65afabe/docker-wizard-because-setting-up-dev-environments-shouldnt-feel-like-dark-magic-18ca)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
