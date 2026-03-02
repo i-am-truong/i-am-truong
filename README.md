@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SQL JOINS AND WINDOW FUNCTIONS](https://dev.to/tonny-o/sql-joins-and-window-functions-334h)
-- [How to add browser automation to any MCP server using PageBolt](https://dev.to/custodiaadmin/how-to-add-browser-automation-to-any-mcp-server-using-pagebolt-3m06)
-- [Maîtriser la Fenêtre de Contexte : Évitez l&#39;amnésie de votre IA](https://dev.to/pepetoken/maitriser-la-fenetre-de-contexte-evitez-lamnesie-de-votre-ia-33pp)
-- [Log Entry 004 - Certified &lpar;The Hard Way&rpar;](https://dev.to/paderich87/log-entry-004--14cd)
-- [PostgreSQL Joins and Window Function](https://dev.to/ajani_lukekariuki_79255c/postgresql-joins-and-window-function-2mnj)
+- [What Happens When Your Hackathon Has Less Than 24 Hours Left and Your Backend Isn&#39;t Built](https://dev.to/soumia_g_9dc322fc4404cecd/what-happens-when-your-hackathon-has-less-than-24-hours-left-and-your-backend-isnt-built-405b)
+- [The Two Problems Nobody Owns in AI: Accessibility and Security Are Design Problems in Disguise](https://dev.to/soumia_g_9dc322fc4404cecd/the-two-problems-nobody-owns-in-ai-accessibility-and-security-are-design-problems-in-disguise-5314)
+- [How to Visualize and Style Routes on a Leaflet Map](https://dev.to/geoapify-maps-api/how-to-visualize-and-style-routes-on-a-leaflet-map-4ljk)
+- [The Vision: A Living Map of the Machine 🌐](https://dev.to/soumia_g_9dc322fc4404cecd/the-vision-a-living-map-of-the-machine-4nln)
+- [Azure Weekly: OpenAI&#39;s GPT-5.3-Codex, Agentic Cloud Ops, and MCP Everywhere](https://dev.to/htekdev/azure-weekly-openais-gpt-53-codex-agentic-cloud-ops-and-mcp-everywhere-81n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
