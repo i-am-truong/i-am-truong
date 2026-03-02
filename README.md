@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Preventing UI Flash with Alpine.js and CSS](https://dev.to/geanruca/preventing-ui-flash-with-alpinejs-and-css-h80)
-- [Build an AI-Powered QA Agent with Agent Browser, Vercel AI SDK, and LLM Gateway](https://dev.to/smakosh/build-an-ai-powered-qa-agent-with-agent-browser-vercel-ai-sdk-and-llm-gateway-2om0)
-- [Código síncrono e assíncrono. Qual a diferença entre eles e como pode afetar as requisições?](https://dev.to/tun1n/codigo-sincrono-e-assincrono-qual-a-diferenca-entre-eles-e-como-pode-afetar-as-requisicoes-4p46)
-- [Competitive Intelligence Agent: From Slides to Live Signals](https://dev.to/james_collins/competitive-intelligence-agent-from-slides-to-live-signals-4bn3)
-- [X-forge: Improving AI-Assisted Development in VS Code with Better Context](https://dev.to/xiden001/x-forge-improving-ai-assisted-development-in-vs-code-with-better-context-4b5i)
+- [BrowserRouter in React](https://dev.to/harini_magesh_fa40041cf8d/browserrouter-in-react-49j5)
+- [Introduction to OpenCLAW](https://dev.to/autonomousworld/introduction-to-openclaw-5e96)
+- [From Streamlit to Flask: When and Why to Make the Jump](https://dev.to/przemyslawkepka/from-streamlit-to-flask-when-and-why-to-make-the-jump-4fkp)
+- [The 4 Rules of Client Communication Nobody Taught You](https://dev.to/edriso/the-4-rules-of-client-communication-nobody-taught-you-2mo3)
+- [When the Fancy Model Burned the Pipeline: A Reverse-Guide to Image Model Nightmares](https://dev.to/kailash_ac43c0ef1daf14abd/when-the-fancy-model-burned-the-pipeline-a-reverse-guide-to-image-model-nightmares-2p7l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
