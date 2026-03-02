@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your AI is a Confident Liar: How to Actually Fix Factual Hallucinations](https://dev.to/yaseen_tech/your-ai-is-a-confident-liar-how-to-actually-fix-factual-hallucinations-1p55)
-- [GenAI Roadmap &lpar;By Deeplearning.ai&rpar;](https://dev.to/jenil_sheth_3eb6f86dc4900/genai-roadmap-by-deeplearningai-2gl6)
-- [I Built a Subscription Pricing API — Because Every AI Agent Gives You Wrong Prices for Netflix, Spotify, and ChatGPT](https://dev.to/john_yesh38/i-built-a-subscription-pricing-api-because-every-ai-agent-gives-you-wrong-prices-for-netflix-517j)
-- [The Introduction - Journey to Data Analyst](https://dev.to/essym_19/the-introduction-107d)
-- [What Changed in Our Document-AI Pipeline After Adding a Deep-Search Layer &lpar;Production Case Study&rpar;](https://dev.to/azimkhan72/what-changed-in-our-document-ai-pipeline-after-adding-a-deep-search-layer-production-case-study-32b1)
+- [Minimal .NET LLM Observability: Reproduce Timeouts and Triage in 15 Minutes](https://dev.to/lukaswalter/minimal-net-llm-observability-reproduce-timeouts-and-triage-in-15-minutes-29km)
+- [Football Pitchsync](https://dev.to/volde/football-pitchsync-2537)
+- [Stopping the Domino Effect: How I Built Resilico to Protect Community Lending](https://dev.to/shogun_the_grt/stopping-the-domino-effect-how-i-built-resilico-to-protect-community-lending-5b0a)
+- [When Disasters Strike, Cell Towers Fall First — So I Built a Mesh Network for Coastal Communities](https://dev.to/gowshik/when-disasters-strike-cell-towers-fall-first-so-i-built-a-mesh-network-for-coastal-communities-1kmk)
+- [Senior Developer, Failed Startup, Confused, IDK](https://dev.to/faisalkhandev/i-deleted-my-startup-repo-and-i-dont-know-what-that-says-about-me-396i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
