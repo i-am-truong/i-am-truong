@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Production Observability for $0: How I Monitor My Portfolio with Sentry + Pulsetic](https://dev.to/lfariaus/production-observability-for-0-how-i-monitor-my-portfolio-with-sentry-pulsetic-3dil)
-- [Pinned Brews - A social coffee community](https://dev.to/austin_amento_860aebb9f55/pinned-brews-a-social-coffee-community-2m5d)
-- [The Loop: Making Art with AI about Making Art with AI](https://dev.to/helgesverre/the-loop-making-art-with-ai-about-making-art-with-ai-5f8c)
-- [I Built a Memory System for My AI — Here&#39;s What I Learned](https://dev.to/charm1987/i-built-a-memory-system-for-my-ai-heres-what-i-learned-4e68)
-- [Who Watches the Agent That Rewrites Itself?](https://dev.to/thenexusguard/who-watches-the-agent-that-rewrites-itself-4gdg)
+- [# The Engineer’s Guide to Anti-Scraping Protections](https://dev.to/freeze_francis/-the-engineers-guide-to-anti-scraping-protections-l8m)
+- [Why My Multi-Tenant Chatbot Needed Two Types of API Keys](https://dev.to/hamurda/why-my-multi-tenant-chatbot-needed-two-types-of-api-keys-4248)
+- [Generate a CSR on Tableau Server](https://dev.to/edenallen/generate-a-csr-on-tableau-server-akm)
+- [Small weekend hack Daily JavaScript quotes via GitHub Actions. No backend required.](https://dev.to/sushantrahate/small-weekend-hack-daily-javascript-quotes-via-github-actions-no-backend-required-49b8)
+- [PawRover:A Community-Driven Solution for Pet Care](https://dev.to/sujankoirala021/pawrovera-community-driven-solution-for-pet-care-3le1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
