@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building an Automated Influencer Outreach Pipeline in Node.js](https://dev.to/olams/building-an-automated-influencer-outreach-pipeline-in-nodejs-28mp)
-- [Closing the Gap: How a Mac Mini and AI Reignited 20 Years of Ideas](https://dev.to/charlieseay/closing-the-gap-how-a-mac-mini-and-ai-reignited-20-years-of-ideas-4l6a)
-- [The Hardest Part of Being a Developer Isn&#39;t Coding—It&#39;s Staying Visible to Yourself](https://dev.to/narnaiezzsshaa/the-hardest-part-of-being-a-developer-isnt-coding-its-staying-visible-to-yourself-33fa)
-- [Agentic Drift: It&#39;s Hard to Be Multiple Developers at Once](https://dev.to/helgesverre/agentic-drift-its-hard-to-be-multiple-developers-at-once-4872)
-- [I built a local memory layer for any LLM — stores your preferences, injects them into every session](https://dev.to/lakshmisravyavedantham/i-built-a-local-memory-layer-for-any-llm-stores-your-preferences-injects-them-into-every-session-78b)
+- [TradingView Pine Script RSI Divergence Indicator: Build One That Actually Works &lpar;2026&rpar;](https://dev.to/xqliu/tradingview-pine-script-rsi-divergence-indicator-build-one-that-actually-works-2026-4ha2)
+- [Agentic Development: My Invisible Dev Team and Why Our Processes Must Adapt](https://dev.to/vijaya_saimunduru_c9579b/agentic-development-my-invisible-dev-teamand-why-our-processes-must-adapt-4khb)
+- [OpenAlerts - Monitoring layer for Agentic frameworks](https://dev.to/dev_khant/openalerts-monitoring-layer-for-agentic-frameworks-5p8)
+- [Maravel-Framework 10.64.17 brings domain routes restriction to Maravel Micro-Framework](https://dev.to/marius-ciclistu/maravel-framework-106417-brings-domain-routes-restriction-to-maravel-micro-framework-2lm4)
+- [Building a Social Platform Where Humans and AI Agents Coexist](https://dev.to/andre_leibovici_588397283/building-a-social-platform-where-humans-and-ai-agents-coexist-4a30)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
