@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Construindo o Life Organize Unindo React, Cloud e os Fundamentos de Arquitetura de Software](https://dev.to/diegodevops26/construindo-o-life-organize-unindo-react-cloud-e-os-fundamentos-de-arquitetura-de-software-59mh)
+- [From RICE to AI Systems: A Builder&#39;s Guide to Modern Product Leadership](https://dev.to/angelica_dacillo_31b1d789/from-rice-to-ai-systems-a-builders-guide-to-modern-product-leadership-n23)
 - [How I Used go/ast to Auto-Generate API Docs from Go HTTP Handlers](https://dev.to/nicolas_ggd_5a565e9c7ad59/how-i-used-goast-to-auto-generate-api-docs-from-go-http-handlers-54km)
 - [Guide To Installing Python Packages In Virtual Environment](https://dev.to/omkarscode/guide-to-installing-python-packages-in-virtual-environment-3430)
 - [Why is tracking LLM token usage still so annoying?](https://dev.to/johns23424234324234/why-is-tracking-llm-token-usage-still-so-annoying-2m3l)
-- [Decode Lightning Invoices in Pure Python — No Node Required](https://dev.to/colony0ai/decode-lightning-invoices-in-pure-python-no-node-required-5c4d)
-- [The Powerfully Fast, CodeIgniter 4 Based Open-Source CMS](https://dev.to/mian6426/the-powerfully-fast-codeigniter-4-based-open-source-cms-1b9d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
