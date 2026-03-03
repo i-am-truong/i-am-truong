@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [5 Web Dev Pitfalls That Are Silently Killing Your Projects &lpar;With Real Fixes&rpar;](https://dev.to/dharanidharan_d_tech/5-web-dev-pitfalls-that-are-silently-killing-your-projects-with-real-fixes-1hpl)
-- [Building a Rails Engine #7 — The Orchestrator: Coordinating the Workflow](https://dev.to/seryllns_/building-a-rails-engine-7-the-orchestrator-coordinating-the-workflow-1p4i)
-- [I got tired of the official EU VAT API crashing, so I built a Serverless wrapper with Webhooks 🚀](https://dev.to/quicreatdev/i-got-tired-of-the-official-eu-vat-api-crashing-so-i-built-a-serverless-wrapper-with-webhooks-4il5)
-- [Simple Code Injection into ELF Executable](https://dev.to/cangulmez/simple-code-injection-into-elf-executable-2i2o)
-- [25+ Best ETL Tools for 2026: The No-Fluff Engineer&#39;s Guide](https://dev.to/kuznetsova/25-best-etl-tools-for-2026-the-no-fluff-engineers-guide-8lj)
+- [Joins and Window- SQL Functions for relational Databases.](https://dev.to/juliet_kiplimo_b9a825c95a/joins-and-window-sql-functions-for-relational-databases-50h8)
+- [Desvendando a Caixa Preta: O Guia Definitivo de IA e Machine Learning](https://dev.to/fazedordecodigo/desvendando-a-caixa-preta-o-guia-definitivo-de-ia-e-machine-learning-1mbo)
+- [De 3 Dias de Trabalho para 15 Minutos: O Segredo da Automação com IA](https://dev.to/fazedordecodigo/de-3-dias-de-trabalho-para-15-minutos-o-segredo-da-automacao-com-ia-3okb)
+- [The Velocity Paradox](https://dev.to/abahgat/the-velocity-paradox-4182)
+- [Gemini 3: O Google Parou de &quot;Ler Texto&quot; e Começou a &quot;Ler o Ambiente&quot;](https://dev.to/fazedordecodigo/gemini-3-o-google-parou-de-ler-texto-e-comecou-a-ler-o-ambiente-4k5b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
