@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mantine Split Pane v3 - Responsive Sizing, Container-Aware Panes, and a Leaner API](https://dev.to/undolog/mantine-split-pane-v3-responsive-sizing-container-aware-panes-and-a-leaner-api-ko1)
-- [28% of My Users Are on Mobile. My Conversion Page Was Broken for All of Them.](https://dev.to/kazutaka-dev/28-of-my-users-are-on-mobile-my-conversion-page-was-broken-for-all-of-them-70j)
-- [Building a Knowledge Base with RAG Using NestJS, LangChain and OpenAI](https://dev.to/dan1618/building-a-knowledge-base-with-rag-using-nestjs-langchain-and-openai-12nk)
-- [Fusing NASA Data with AI: How I Built CosmoDex and Won the MLH Data Hackfest!](https://dev.to/astrodeeptej/fusing-nasa-data-with-ai-how-i-built-cosmodex-and-won-the-mlh-data-hackfest-5fmm)
-- [🔐 Understanding Text to Base64 Encoding &lpar;With Practical Examples&rpar;](https://dev.to/amatosdecaris/understanding-text-to-base64-encoding-with-practical-examples-142k)
+- [Getting Started with Genji: Your Web3 Adventure Begins Here!](https://dev.to/julienbrg/getting-started-with-genji-your-web3-adventure-begins-here-3oec)
+- [Your RAG pipeline is probably lying to you &lpar;here&#39;s how to test it&rpar;](https://dev.to/rajat_sharma_370a62b67b15/your-rag-pipeline-is-probably-lying-to-you-heres-how-to-test-it-51nf)
+- [OpenClaw Quickstart: Install with Docker &lpar;Ollama GPU or Claude + CPU&rpar;](https://dev.to/rosgluk/openclaw-quickstart-install-with-docker-ollama-gpu-or-claude-cpu-3h9j)
+- [Open Source Project of the Day &lpar;Part 4&rpar;: OpenCode - A Powerful AI Coding Agent Built for the Terminal](https://dev.to/wonderlab/open-source-project-of-the-day-part-4-opencode-a-powerful-ai-coding-agent-built-for-the-g05)
+- [How I built a real-time, 3D interactive Data Globe with visualization platform](https://dev.to/heat_globe/how-i-built-a-real-time-3d-interactive-data-globe-with-visualization-platform-55ci)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
