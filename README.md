@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Wrong Unit of Work: What Happened When I Built My Dev Environment using Claude Code](https://dev.to/amitaile/the-wrong-unit-of-work-what-happened-when-i-built-my-dev-environment-using-claude-code-5a6)
-- [I used Google Gemini for the First Time. A Deep Analysis of my Experience so far! ✨](https://dev.to/francistrdev/i-used-google-gemini-for-the-first-time-a-deep-analysis-of-my-experience-so-far-2n12)
-- [Understanding MCP Server Transports: STDIO, SSE, and HTTP Streamable](https://dev.to/zrcic/understanding-mcp-server-transports-stdio-sse-and-http-streamable-5b1p)
-- [My First Month Learning JavaScript and Backend Development](https://dev.to/hassaan_65d636b18f9637d21/my-first-month-learning-javascript-and-backend-development-1oog)
-- [Deep Dive: SSE vs HTTP Streamable — What&#39;s the Difference?](https://dev.to/zrcic/deep-dive-sse-vs-http-streamable-whats-the-difference-1829)
+- [The Next Generation of Actually Useful Micro-SaaS Ideas &lpar;2026 Edition&rpar;](https://dev.to/kesimo/the-next-generation-of-actually-useful-micro-saas-ideas-2026-edition-j23)
+- [How to migrate from Dead Man&#39;s Snitch to CronObserver in 5 minutes](https://dev.to/joao_thomazinho/how-to-migrate-from-dead-mans-snitch-to-cronobserver-in-5-minutes-5689)
+- [Heartbeat monitoring for Kubernetes CronJobs](https://dev.to/joao_thomazinho/heartbeat-monitoring-for-kubernetes-cronjobs-3pda)
+- [Closing the Loop: From Audit Violation to AI Fix in One Command](https://dev.to/dariusz_newecki_e35b0924c/closing-the-loop-from-audit-violation-to-ai-fix-in-one-command-3aj8)
+- [Debugging &amp; Refactoring Spaghetti Code - The A.I Special 🤖](https://dev.to/blocool/debugging-refactoring-spaghetti-code-the-ai-special-55be)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
