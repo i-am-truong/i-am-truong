@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Niyə hələ də Linux işlətmirik, ya da işlədə bilmirik?](https://dev.to/jalilabdulla/niy-hl-d-linux-isltmirik-ya-da-isld-bilmirik-2ef8)
-- [Build a voice agent in JavaScript with Vercel AI SDK](https://dev.to/mkp_bijit/build-a-voice-agent-in-javascript-with-vercel-ai-sdk-1dc3)
-- [Slapping Secondary Indexes on Random Fields is Silently Killing Your Database.](https://dev.to/opeyemi_oluwagbemiga_a213/slapping-secondary-indexes-on-random-fields-is-silently-killing-your-database-15p3)
-- [How I Overcame the Optimization Wall by Implementing the Augmented Lagrangian Method &lpar;ALM&rpar; with AI](https://dev.to/yassan8/how-i-overcame-the-optimization-wall-by-implementing-the-augmented-lagrangian-method-alm-with-ai-4moa)
-- [How to Automate CRM with n8n &lpar;Step-by-Step, Real Use Cases&rpar;](https://dev.to/ciphernutz/how-to-automate-crm-with-n8n-step-by-step-real-use-cases-2aa4)
+- [You Can Automate AI Tasks With a Markdown File. Here&#39;s Why I Built a Visual Tool Anyway.](https://dev.to/jadessoriano/you-can-automate-ai-tasks-with-a-markdown-file-heres-why-i-built-a-visual-tool-anyway-405a)
+- [I Pointed Claude Code at My Hackathon API. It Built the Public Website](https://dev.to/restdbjones/i-pointed-claude-code-at-my-hackathon-api-it-built-the-public-website-4j7p)
+- [Postman&#39;s Free Plan Is Now Limited to 1 User &lpar;Here’s the Alternative&rpar;](https://dev.to/auden/postmans-free-plan-is-now-limited-to-1-user-heres-the-alternative-250c)
+- [Building a Universal Memory Layer for AI Agents: Architecture Patterns and Implementation](https://dev.to/varun_pratapbhardwaj_b13/building-a-universal-memory-layer-for-ai-agents-architecture-patterns-and-implementation-4b5h)
+- [Adding Traffic Prioritization to Node.js: The Story Behind setTypeOfService](https://dev.to/amyssnippet/adding-traffic-prioritization-to-nodejs-the-story-behind-settypeofservice-21al)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
