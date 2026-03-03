@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Google Workspace Studio: Extract PDF Data to Sheets Automatically](https://dev.to/googleworkspace/google-workspace-studio-extract-pdf-data-to-sheets-automatically-6ln)
-- [Stop Manually Translating “What’s New” in App Store Connect](https://dev.to/vlad_mobi/stop-manually-translating-whats-new-in-app-store-connect-1cad)
-- [The Hardest Part Isn&#39;t Being Invisible—It&#39;s Being Flattened Into One Dimension](https://dev.to/narnaiezzsshaa/the-hardest-part-isnt-being-invisible-its-being-flattened-into-one-dimension-2okj)
-- [How I Built an SEO Skill for AI IDEs Because My Cursor Kept Getting It Wrong](https://dev.to/aryanpanwar1/how-i-built-an-seo-skill-for-ai-ides-because-my-cursor-kept-getting-it-wrong-5hd1)
-- [LLM Hallucination Index 2026: Why Claude 4.6 Sonnet Dominates BullshitBench v2 While Reasoning Models Fail](https://dev.to/es2026/llm-hallucination-index-2026-why-claude-46-sonnet-dominates-bullshitbench-v2-while-reasoning-5cp5)
+- [Why Your IndexedDB Data Keeps Disappearing](https://dev.to/denyherianto/why-your-indexeddb-data-keeps-disappearing-1m0a)
+- [Evaluating Agent Output Quality: Lightweight Evals Without a Framework](https://dev.to/gunnargrosch/evaluating-agent-output-quality-lightweight-evals-without-a-framework-38gk)
+- [Alfred — Your AI-Powered Knowledge Butler, Built with Google Gemini](https://dev.to/nowaysid/alfred-your-ai-powered-knowledge-butler-built-with-google-gemini-24f2)
+- [Most &quot;Multi-Agent&quot; Frameworks Are Just Multiple Prompts Wearing a Trenchcoat](https://dev.to/diego_falciola_02ab709202/most-multi-agent-frameworks-are-just-multiple-prompts-wearing-a-trenchcoat-21lb)
+- [Oooh very interesting](https://dev.to/ben/oooh-very-interesting-ohk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
