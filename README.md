@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I built a single compile Mutation testing lib for Kotlin which runs inside your normal test suite](https://dev.to/5n4p_/i-built-a-single-compile-mutation-testing-lib-for-kotlin-which-runs-inside-your-normal-test-suite-4253)
+- [SD #010 - Designing a Distributed Cache System](https://dev.to/sreya-satheesh/sd-010-designing-a-distributed-cache-system-41ke)
+- [The Process Illusion: When documentation replaces decisions](https://dev.to/abdulosman/the-process-illusion-when-documentation-replaces-decisions-4j2a)
 - [You Can Automate AI Tasks With a Markdown File. Here&#39;s Why I Built a Visual Tool Anyway.](https://dev.to/jadessoriano/you-can-automate-ai-tasks-with-a-markdown-file-heres-why-i-built-a-visual-tool-anyway-405a)
-- [I Pointed Claude Code at My Hackathon API. It Built the Public Website](https://dev.to/restdbjones/i-pointed-claude-code-at-my-hackathon-api-it-built-the-public-website-4j7p)
-- [Postman&#39;s Free Plan Is Now Limited to 1 User &lpar;Here’s the Alternative&rpar;](https://dev.to/auden/postmans-free-plan-is-now-limited-to-1-user-heres-the-alternative-250c)
-- [Building a Universal Memory Layer for AI Agents: Architecture Patterns and Implementation](https://dev.to/varun_pratapbhardwaj_b13/building-a-universal-memory-layer-for-ai-agents-architecture-patterns-and-implementation-4b5h)
-- [Adding Traffic Prioritization to Node.js: The Story Behind setTypeOfService](https://dev.to/amyssnippet/adding-traffic-prioritization-to-nodejs-the-story-behind-settypeofservice-21al)
+- [Why Attention Isnt Enough: Peeling Back the Layers of Modern AI Memory and Routing](https://dev.to/kailash_ac43c0ef1daf14abd/why-attention-isnt-enough-peeling-back-the-layers-of-modern-ai-memory-and-routing-4pao)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
