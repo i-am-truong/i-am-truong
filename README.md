@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Lumitrace: See What Your Ruby Code Is Actually Doing, Instantly](https://dev.to/ko1/lumitrace-see-what-your-ruby-code-is-actually-doing-instantly-251n)
-- [Claude Code with Any LLM: A Step-by-Step Guide Using Bifrost](https://dev.to/debmckinney/claude-code-with-any-llm-a-step-by-step-guide-using-bifrost-2l9d)
-- [Gemini Became My Entire Hackathon Team — How a Solo Dev in Kenya Won His First MLH Prize Building RepoX](https://dev.to/mutaician/gemini-became-my-entire-hackathon-team-how-a-solo-dev-in-kenya-won-his-first-mlh-prize-building-2k27)
-- [Semantic Invalidation That Doesn&#39;t Suck](https://dev.to/albertobadia/semantic-invalidation-that-doesnt-suck-1f0f)
-- [Execution Strategy στο Entity Framework Core](https://dev.to/__b63657/execution-strategy-sto-entity-framework-core-mdp)
+- [Google Workspace Studio: Extract PDF Data to Sheets Automatically](https://dev.to/googleworkspace/google-workspace-studio-extract-pdf-data-to-sheets-automatically-6ln)
+- [Stop Manually Translating “What’s New” in App Store Connect](https://dev.to/vlad_mobi/stop-manually-translating-whats-new-in-app-store-connect-1cad)
+- [The Hardest Part Isn&#39;t Being Invisible—It&#39;s Being Flattened Into One Dimension](https://dev.to/narnaiezzsshaa/the-hardest-part-isnt-being-invisible-its-being-flattened-into-one-dimension-2okj)
+- [How I Built an SEO Skill for AI IDEs Because My Cursor Kept Getting It Wrong](https://dev.to/aryanpanwar1/how-i-built-an-seo-skill-for-ai-ides-because-my-cursor-kept-getting-it-wrong-5hd1)
+- [LLM Hallucination Index 2026: Why Claude 4.6 Sonnet Dominates BullshitBench v2 While Reasoning Models Fail](https://dev.to/es2026/llm-hallucination-index-2026-why-claude-46-sonnet-dominates-bullshitbench-v2-while-reasoning-5cp5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
