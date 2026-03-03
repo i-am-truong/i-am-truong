@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Replaced WordPress + 3 Paid Tools With a Custom Stack for a $48K/Month Business. Here&#39;s the Full Breakdown.](https://dev.to/pandacodegen/i-replaced-wordpress-3-paid-tools-with-a-custom-stack-for-a-48kmonth-business-heres-the-full-34n)
-- [Serverless Bedrock: How I invoke Claude from Lambda in warrantyAI](https://dev.to/harisharavindan/serverless-bedrock-how-i-invoke-claude-from-lambda-in-warrantyai-3hk)
-- [When Work Becomes a Mental Health Risk](https://dev.to/mishravi2270/when-work-becomes-a-mental-health-risk-3l7d)
-- [Building a Browser-Based Pixel Art Tool with Gemini](https://dev.to/rohan_mirjankar/building-a-browser-based-pixel-art-tool-with-gemini-4866)
-- [Detecting Hidden Table Relationships with Inclusion-Based Field Analysis](https://dev.to/hello_arisyn_0dc948aa82b3/detecting-hidden-table-relationships-with-inclusion-based-field-analysis-nkp)
+- [The Cybersecurity Ego Taxonomy](https://dev.to/narnaiezzsshaa/the-cybersecurity-ego-taxonomy-42kg)
+- [C#: Does a Static Constructor Always Run First?](https://dev.to/dimonsmart/c-does-a-static-constructor-always-run-first-48mb)
+- [Google Gemini Writing Challenge](https://dev.to/dan52242644dan/google-gemini-writing-challenge-28d1)
+- [A GUI editor for Mapbox Color Themes](https://dev.to/mapbox/a-gui-editor-for-mapbox-color-themes-5fho)
+- [How We Built X Submission Intake: From Social Chaos to Structured Pipeline](https://dev.to/chefbc2k/how-we-built-x-submission-intake-from-social-chaos-to-structured-pipeline-3hjb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
