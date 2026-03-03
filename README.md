@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [71 Malicious Skills Found on ClawHub. Here&#39;s How to Protect Your Agent.](https://dev.to/up2itnow0822/71-malicious-skills-found-on-clawhub-heres-how-to-protect-your-agent-509g)
-- [Your AI Agent Earned $0 Because the Marketplace Doesn&#39;t Exist Yet](https://dev.to/up2itnow0822/your-ai-agent-earned-0-because-the-marketplace-doesnt-exist-yet-4aak)
-- [The macOS Terminal Email Setup Nobody Talks About](https://dev.to/cheeto/the-macos-terminal-email-setup-nobody-talks-about-5682)
-- [Hackers don&#39;t have to be too smart unless you do this](https://dev.to/bastiasa/hackers-doesnt-have-to-be-too-smart-unless-you-do-this-2f8o)
-- [HTTP Protocols Explained Simply](https://dev.to/omkarscode/http-protocols-explained-simply-540j)
+- [Supervision Framework for Multi-Agent LLMs: 52 Production Runs of the Deterministic Observability Framework &lpar;DOF&rpar;](https://dev.to/cyberpaisa/supervision-framework-for-multi-agent-llms-52-production-runs-of-the-deterministic-observability-5bod)
+- [Why Retry Logic Is Not Governance](https://dev.to/no1rstack/why-retry-logic-is-not-governance-7c2)
+- [The automation trap: I kept spending 2 hours to build 5-minute tasks. So I fixed it.](https://dev.to/lakshmisravyavedantham/i-described-10-of-my-daily-workflows-in-plain-english-this-tool-automated-all-of-them-2gpj)
+- [I described my entire AWS infrastructure in plain English. This tool wrote all the Terraform.](https://dev.to/lakshmisravyavedantham/i-described-my-entire-aws-infrastructure-in-plain-english-this-tool-wrote-all-the-terraform-oaf)
+- [I built an AI agent that watches your GitHub repo and opens PRs when it finds bugs — automatically](https://dev.to/lakshmisravyavedantham/i-built-an-ai-agent-that-watches-your-github-repo-and-opens-prs-when-it-finds-bugs-automatically-16l7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
