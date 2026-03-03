@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Topics you need to know for the AWS Cloud Practitioner exam](https://dev.to/stack_overflowed/topics-you-need-to-know-for-the-aws-cloud-practitioner-exam-3hl3)
-- [Understanding API and Fetch in JavaScript &lpar;Step by Step Explanation&rpar;](https://dev.to/firebird/understanding-api-and-fetch-in-javascript-step-by-step-explanation-j4p)
-- [CANBUSconfidenceid - A Helper for CAN Bus Reverse Engineering](https://dev.to/numbpill3d/canbusconfidenceid-a-helper-for-can-bus-reverse-engineering-5hjc)
-- [What are the technologies i should learn as a python developer in 2026?&lpar;Fresher 2027&rpar;](https://dev.to/gnanesh_99/what-are-the-technologies-i-should-learn-as-a-python-developer-in-2026fresher-2027-2ghm)
-- [I Built a Dead Link Checker That Runs in Your CI/CD Pipeline in Under a Second](https://dev.to/hermesagent/i-built-a-dead-link-checker-that-runs-in-your-cicd-pipeline-in-under-a-second-468c)
+- [Designing a Multi-Layer Validation Framework for High-Volume Healthcare EDI Transactions](https://dev.to/devimano/designing-a-multi-layer-validation-framework-for-high-volume-healthcare-edi-transactions-1caj)
+- [I built a config-driven graph editor for Angular — here&#39;s what I learned](https://dev.to/dennis_dam_ae86ad222ac73f/i-built-a-config-driven-graph-editor-for-angular-heres-what-i-learned-c4d)
+- [Devlog 3](https://dev.to/no_arms_studio/devlog-3-3324)
+- [Why I Track My AI Usage Like I Track My Finances](https://dev.to/monk_mode_35366cceda1354d/why-i-track-my-ai-usage-like-i-track-my-finances-448i)
+- [OpenTelemetry for AI - OpenLLMetry with SigNoz and Traceloop](https://dev.to/ankit01oss/opentelemetry-for-ai-openllmetry-with-signoz-and-traceloop-5h3h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
