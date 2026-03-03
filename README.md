@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Joins and Window- SQL Functions for relational Databases.](https://dev.to/juliet_kiplimo_b9a825c95a/joins-and-window-sql-functions-for-relational-databases-50h8)
-- [Desvendando a Caixa Preta: O Guia Definitivo de IA e Machine Learning](https://dev.to/fazedordecodigo/desvendando-a-caixa-preta-o-guia-definitivo-de-ia-e-machine-learning-1mbo)
-- [De 3 Dias de Trabalho para 15 Minutos: O Segredo da Automação com IA](https://dev.to/fazedordecodigo/de-3-dias-de-trabalho-para-15-minutos-o-segredo-da-automacao-com-ia-3okb)
-- [The Velocity Paradox](https://dev.to/abahgat/the-velocity-paradox-4182)
-- [Gemini 3: O Google Parou de &quot;Ler Texto&quot; e Começou a &quot;Ler o Ambiente&quot;](https://dev.to/fazedordecodigo/gemini-3-o-google-parou-de-ler-texto-e-comecou-a-ler-o-ambiente-4k5b)
+- [Lumitrace: See What Your Ruby Code Is Actually Doing, Instantly](https://dev.to/ko1/lumitrace-see-what-your-ruby-code-is-actually-doing-instantly-251n)
+- [Claude Code with Any LLM: A Step-by-Step Guide Using Bifrost](https://dev.to/debmckinney/claude-code-with-any-llm-a-step-by-step-guide-using-bifrost-2l9d)
+- [Gemini Became My Entire Hackathon Team — How a Solo Dev in Kenya Won His First MLH Prize Building RepoX](https://dev.to/mutaician/gemini-became-my-entire-hackathon-team-how-a-solo-dev-in-kenya-won-his-first-mlh-prize-building-2k27)
+- [Semantic Invalidation That Doesn&#39;t Suck](https://dev.to/albertobadia/semantic-invalidation-that-doesnt-suck-1f0f)
+- [Execution Strategy στο Entity Framework Core](https://dev.to/__b63657/execution-strategy-sto-entity-framework-core-mdp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
