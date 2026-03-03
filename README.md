@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Claude 3.5 Haiku vs Sonnet vs Opus: which one should you actually use?](https://dev.to/clawgenesis/untitled-dcm)
-- [AWS X-Ray](https://dev.to/softwarejutsu/aws-x-ray-201d)
-- [Vectorized Thinking: Building Production-Ready RAG Pipelines with Elasticsearch](https://dev.to/yashprakash07/vectorized-thinking-building-production-ready-rag-pipelines-with-elasticsearch-bk5)
-- [AWS IAM Security Best Practices — Why Over-Permissive Access Is Your Biggest Cloud Risk](https://dev.to/kuboidsecurelayer/aws-iam-security-best-practices-why-over-permissive-access-is-your-biggest-cloud-risk-4neo)
-- [Stop writing CLAUDE.md from scratch](https://dev.to/clawgenesis/untitled-1dfp)
+- [Optimizing Vector Search](https://dev.to/devbymansi/optimizing-vector-search-1i0c)
+- [How to Install and Run OpenClaw: An Open-Source Personal AI Assistant](https://dev.to/auden/how-to-install-and-run-openclaw-an-open-source-personal-ai-assistant-ddd)
+- [Control a Farming Drone with C++ — Play It in Your Browser &lpar;Cropbot&rpar;](https://dev.to/pioner92/control-a-farming-drone-with-c-play-it-in-your-browser-cropbot-5f79)
+- [Installing and managing python packages via PIP](https://dev.to/import_sys_e5dc095b85cbb9/installing-and-managing-python-packages-via-pip-17ka)
+- [Introducing FleetPlayer: A Headless, TypeScript-First HLS Video Player Engine](https://dev.to/aniketyadav0/introducing-fleetplayer-a-headless-typescript-first-hls-video-player-engine-2ipj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
