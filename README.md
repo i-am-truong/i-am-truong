@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Construindo o Life Organize Unindo React, Cloud e os Fundamentos de Arquitetura de Software](https://dev.to/diegodevops26/construindo-o-life-organize-unindo-react-cloud-e-os-fundamentos-de-arquitetura-de-software-59mh)
-- [From RICE to AI Systems: A Builder&#39;s Guide to Modern Product Leadership](https://dev.to/angelica_dacillo_31b1d789/from-rice-to-ai-systems-a-builders-guide-to-modern-product-leadership-n23)
-- [How I Used go/ast to Auto-Generate API Docs from Go HTTP Handlers](https://dev.to/nicolas_ggd_5a565e9c7ad59/how-i-used-goast-to-auto-generate-api-docs-from-go-http-handlers-54km)
-- [Guide To Installing Python Packages In Virtual Environment](https://dev.to/omkarscode/guide-to-installing-python-packages-in-virtual-environment-3430)
-- [Why is tracking LLM token usage still so annoying?](https://dev.to/johns23424234324234/why-is-tracking-llm-token-usage-still-so-annoying-2m3l)
+- [71 Malicious Skills Found on ClawHub. Here&#39;s How to Protect Your Agent.](https://dev.to/up2itnow0822/71-malicious-skills-found-on-clawhub-heres-how-to-protect-your-agent-509g)
+- [Your AI Agent Earned $0 Because the Marketplace Doesn&#39;t Exist Yet](https://dev.to/up2itnow0822/your-ai-agent-earned-0-because-the-marketplace-doesnt-exist-yet-4aak)
+- [The macOS Terminal Email Setup Nobody Talks About](https://dev.to/cheeto/the-macos-terminal-email-setup-nobody-talks-about-5682)
+- [Hackers don&#39;t have to be too smart unless you do this](https://dev.to/bastiasa/hackers-doesnt-have-to-be-too-smart-unless-you-do-this-2f8o)
+- [HTTP Protocols Explained Simply](https://dev.to/omkarscode/http-protocols-explained-simply-540j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
