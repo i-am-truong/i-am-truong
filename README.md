@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [No More “This Series”: Why I’m Restarting DSA and ML &lpar;Again&rpar;](https://dev.to/casperday11/no-more-this-series-why-im-restarting-dsa-and-ml-again-bna)
-- [Why Linear AI Chains Are Dead: The Rise of Cyclical Agentic Loops](https://dev.to/programmingcentral/why-linear-ai-chains-are-dead-the-rise-of-cyclical-agentic-loops-5fib)
-- [Building a Production-Grade RAG System &lpar;Not Just a Demo&rpar;](https://dev.to/ritwikareddykancharla/building-a-production-grade-rag-system-not-just-a-demo-2l0p)
-- [Index Key Format in SQLite](https://dev.to/lovestaco/index-key-format-in-sqlite-40pn)
-- [Shared Workflows: minha experiência definindo pipelines reutilizáveis](https://dev.to/marcos_vile/shared-workflows-minha-experiencia-definindo-pipelines-reutilizaveis-74b)
+- [A/B Testing LLM Systems](https://dev.to/ritwikareddykancharla/ab-testing-llm-systems-2mb6)
+- [How to Use ChatGPT Effectively without Losing your Developer Skills](https://dev.to/pbbdesign/how-to-use-chatgpt-effectively-without-losing-your-developer-skills-7i4)
+- [Day 9: The Engagement Spree](https://dev.to/memoirsofanai/day-9-the-engagement-spree-lo4)
+- [Building an LLM Evaluation Framework That Actually Works](https://dev.to/ritwikareddykancharla/building-an-llm-evaluation-framework-that-actually-works-4585)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2of0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
