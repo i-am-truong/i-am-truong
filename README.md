@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Genji: Your Web3 Adventure Begins Here!](https://dev.to/julienbrg/getting-started-with-genji-your-web3-adventure-begins-here-3oec)
-- [Your RAG pipeline is probably lying to you &lpar;here&#39;s how to test it&rpar;](https://dev.to/rajat_sharma_370a62b67b15/your-rag-pipeline-is-probably-lying-to-you-heres-how-to-test-it-51nf)
-- [OpenClaw Quickstart: Install with Docker &lpar;Ollama GPU or Claude + CPU&rpar;](https://dev.to/rosgluk/openclaw-quickstart-install-with-docker-ollama-gpu-or-claude-cpu-3h9j)
-- [Open Source Project of the Day &lpar;Part 4&rpar;: OpenCode - A Powerful AI Coding Agent Built for the Terminal](https://dev.to/wonderlab/open-source-project-of-the-day-part-4-opencode-a-powerful-ai-coding-agent-built-for-the-g05)
-- [How I built a real-time, 3D interactive Data Globe with visualization platform](https://dev.to/heat_globe/how-i-built-a-real-time-3d-interactive-data-globe-with-visualization-platform-55ci)
+- [5 Web Dev Pitfalls That Are Silently Killing Your Projects &lpar;With Real Fixes&rpar;](https://dev.to/dharanidharan_d_tech/5-web-dev-pitfalls-that-are-silently-killing-your-projects-with-real-fixes-1hpl)
+- [Building a Rails Engine #7 — The Orchestrator: Coordinating the Workflow](https://dev.to/seryllns_/building-a-rails-engine-7-the-orchestrator-coordinating-the-workflow-1p4i)
+- [I got tired of the official EU VAT API crashing, so I built a Serverless wrapper with Webhooks 🚀](https://dev.to/quicreatdev/i-got-tired-of-the-official-eu-vat-api-crashing-so-i-built-a-serverless-wrapper-with-webhooks-4il5)
+- [Simple Code Injection into ELF Executable](https://dev.to/cangulmez/simple-code-injection-into-elf-executable-2i2o)
+- [25+ Best ETL Tools for 2026: The No-Fluff Engineer&#39;s Guide](https://dev.to/kuznetsova/25-best-etl-tools-for-2026-the-no-fluff-engineers-guide-8lj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
