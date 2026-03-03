@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing Vector Search](https://dev.to/devbymansi/optimizing-vector-search-1i0c)
-- [How to Install and Run OpenClaw: An Open-Source Personal AI Assistant](https://dev.to/auden/how-to-install-and-run-openclaw-an-open-source-personal-ai-assistant-ddd)
-- [Control a Farming Drone with C++ — Play It in Your Browser &lpar;Cropbot&rpar;](https://dev.to/pioner92/control-a-farming-drone-with-c-play-it-in-your-browser-cropbot-5f79)
-- [Installing and managing python packages via PIP](https://dev.to/import_sys_e5dc095b85cbb9/installing-and-managing-python-packages-via-pip-17ka)
-- [Introducing FleetPlayer: A Headless, TypeScript-First HLS Video Player Engine](https://dev.to/aniketyadav0/introducing-fleetplayer-a-headless-typescript-first-hls-video-player-engine-2ipj)
+- [Rust Learning Log: Glob Imports, Library Crates, Multiple Binaries](https://dev.to/tehilafavourite/rust-learning-log-glob-imports-library-crates-multiple-binaries-2mbl)
+- [If You Don’t Know These Array Methods, We Need to Talk.](https://dev.to/kunal_dev/if-you-dont-know-these-array-methods-we-need-to-talk-49gi)
+- [Your Service Passes All Tests But Breaks Production: Detecting Inter-Service API Regression](https://dev.to/dmitry_turmyshev/your-service-passes-all-tests-but-breaks-production-detecting-inter-service-api-regression-1igk)
+- [Why &#39;FINAL&#39; in ClickHouse Is Usually a Design Smell](https://dev.to/mohhddhassan/why-final-in-clickhouse-is-usually-a-design-smell-2jg2)
+- [I Run a Solo Company with AI Agent Departments](https://dev.to/setas/i-run-a-solo-company-with-ai-agent-departments-50nf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
