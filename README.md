@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Rust Learning Log: Glob Imports, Library Crates, Multiple Binaries](https://dev.to/tehilafavourite/rust-learning-log-glob-imports-library-crates-multiple-binaries-2mbl)
-- [If You Don’t Know These Array Methods, We Need to Talk.](https://dev.to/kunal_dev/if-you-dont-know-these-array-methods-we-need-to-talk-49gi)
-- [Your Service Passes All Tests But Breaks Production: Detecting Inter-Service API Regression](https://dev.to/dmitry_turmyshev/your-service-passes-all-tests-but-breaks-production-detecting-inter-service-api-regression-1igk)
-- [Why &#39;FINAL&#39; in ClickHouse Is Usually a Design Smell](https://dev.to/mohhddhassan/why-final-in-clickhouse-is-usually-a-design-smell-2jg2)
-- [I Run a Solo Company with AI Agent Departments](https://dev.to/setas/i-run-a-solo-company-with-ai-agent-departments-50nf)
+- [Mantine Split Pane v3 - Responsive Sizing, Container-Aware Panes, and a Leaner API](https://dev.to/undolog/mantine-split-pane-v3-responsive-sizing-container-aware-panes-and-a-leaner-api-ko1)
+- [28% of My Users Are on Mobile. My Conversion Page Was Broken for All of Them.](https://dev.to/kazutaka-dev/28-of-my-users-are-on-mobile-my-conversion-page-was-broken-for-all-of-them-70j)
+- [Building a Knowledge Base with RAG Using NestJS, LangChain and OpenAI](https://dev.to/dan1618/building-a-knowledge-base-with-rag-using-nestjs-langchain-and-openai-12nk)
+- [Fusing NASA Data with AI: How I Built CosmoDex and Won the MLH Data Hackfest!](https://dev.to/astrodeeptej/fusing-nasa-data-with-ai-how-i-built-cosmodex-and-won-the-mlh-data-hackfest-5fmm)
+- [🔐 Understanding Text to Base64 Encoding &lpar;With Practical Examples&rpar;](https://dev.to/amatosdecaris/understanding-text-to-base64-encoding-with-practical-examples-142k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
