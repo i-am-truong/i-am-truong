@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a single compile Mutation testing lib for Kotlin which runs inside your normal test suite](https://dev.to/5n4p_/i-built-a-single-compile-mutation-testing-lib-for-kotlin-which-runs-inside-your-normal-test-suite-4253)
-- [SD #010 - Designing a Distributed Cache System](https://dev.to/sreya-satheesh/sd-010-designing-a-distributed-cache-system-41ke)
-- [The Process Illusion: When documentation replaces decisions](https://dev.to/abdulosman/the-process-illusion-when-documentation-replaces-decisions-4j2a)
-- [You Can Automate AI Tasks With a Markdown File. Here&#39;s Why I Built a Visual Tool Anyway.](https://dev.to/jadessoriano/you-can-automate-ai-tasks-with-a-markdown-file-heres-why-i-built-a-visual-tool-anyway-405a)
-- [Why Attention Isnt Enough: Peeling Back the Layers of Modern AI Memory and Routing](https://dev.to/kailash_ac43c0ef1daf14abd/why-attention-isnt-enough-peeling-back-the-layers-of-modern-ai-memory-and-routing-4pao)
+- [When the Model Is the Machine](https://dev.to/mikegcaws/when-the-model-is-the-machine-25g4)
+- [I Was Tired of SSH — So I Built an AI Agent That Lets Me Check My Terminal From My Phone](https://dev.to/markin/i-was-tired-of-ssh-so-i-built-an-ai-agent-that-lets-me-check-my-terminal-from-my-phone-5g7c)
+- [I built a tool that turns RSS, YouTube, and Reddit into a single daily briefing](https://dev.to/sangkwun/i-built-a-tool-that-turns-rss-youtube-and-reddit-into-a-single-daily-briefing-1nci)
+- [Challenges and Solutions in Developing a Stable, User-Friendly, Open-Source Cross-Platform Database Client](https://dev.to/serbyte/challenges-and-solutions-in-developing-a-stable-user-friendly-open-source-cross-platform-database-3e8g)
+- [ML Theory is Everywhere. Practice is Nowhere. So I Built It.](https://dev.to/anurag_jain/ml-theory-is-everywhere-practice-is-nowhere-so-i-built-it-5f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
