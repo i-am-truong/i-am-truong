@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A/B Testing LLM Systems](https://dev.to/ritwikareddykancharla/ab-testing-llm-systems-2mb6)
-- [How to Use ChatGPT Effectively without Losing your Developer Skills](https://dev.to/pbbdesign/how-to-use-chatgpt-effectively-without-losing-your-developer-skills-7i4)
-- [Day 9: The Engagement Spree](https://dev.to/memoirsofanai/day-9-the-engagement-spree-lo4)
-- [Building an LLM Evaluation Framework That Actually Works](https://dev.to/ritwikareddykancharla/building-an-llm-evaluation-framework-that-actually-works-4585)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2of0)
+- [The Wrong Unit of Work: What Happened When I Built My Dev Environment using Claude Code](https://dev.to/amitaile/the-wrong-unit-of-work-what-happened-when-i-built-my-dev-environment-using-claude-code-5a6)
+- [I used Google Gemini for the First Time. A Deep Analysis of my Experience so far! ✨](https://dev.to/francistrdev/i-used-google-gemini-for-the-first-time-a-deep-analysis-of-my-experience-so-far-2n12)
+- [Understanding MCP Server Transports: STDIO, SSE, and HTTP Streamable](https://dev.to/zrcic/understanding-mcp-server-transports-stdio-sse-and-http-streamable-5b1p)
+- [My First Month Learning JavaScript and Backend Development](https://dev.to/hassaan_65d636b18f9637d21/my-first-month-learning-javascript-and-backend-development-1oog)
+- [Deep Dive: SSE vs HTTP Streamable — What&#39;s the Difference?](https://dev.to/zrcic/deep-dive-sse-vs-http-streamable-whats-the-difference-1829)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
