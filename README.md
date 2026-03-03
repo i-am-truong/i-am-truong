@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m in Grade 7 and I Built an AI Integration Hub with Google Gemini &lpar;Here&#39;s What I Learned&rpar;](https://dev.to/thealxlabs/im-in-grade-7-and-i-built-an-ai-integration-hub-with-google-gemini-heres-what-i-learned-2pa9)
-- [Using Automation to Track 0% APR Deadlines Across 20 Credit Cards](https://dev.to/stackeasy/using-automation-to-track-0-apr-deadlines-across-20-credit-cards-5dhg)
-- [BAION — The Body Problem](https://dev.to/samullinsjr/baion-the-body-problem-321b)
-- [What Building Two Gemini-Powered Apps Taught Me About AI, Tokens, and Scope Discipline](https://dev.to/harmanpreetsingh/what-building-two-gemini-powered-apps-taught-me-about-ai-tokens-and-scope-discipline-5e4o)
-- [Defining the Hardware: What is Docking Station in Enterprise IT?](https://dev.to/wixom/defining-the-hardware-what-is-docking-station-in-enterprise-it-e0n)
+- [Topics you need to know for the AWS Cloud Practitioner exam](https://dev.to/stack_overflowed/topics-you-need-to-know-for-the-aws-cloud-practitioner-exam-3hl3)
+- [Understanding API and Fetch in JavaScript &lpar;Step by Step Explanation&rpar;](https://dev.to/firebird/understanding-api-and-fetch-in-javascript-step-by-step-explanation-j4p)
+- [CANBUSconfidenceid - A Helper for CAN Bus Reverse Engineering](https://dev.to/numbpill3d/canbusconfidenceid-a-helper-for-can-bus-reverse-engineering-5hjc)
+- [What are the technologies i should learn as a python developer in 2026?&lpar;Fresher 2027&rpar;](https://dev.to/gnanesh_99/what-are-the-technologies-i-should-learn-as-a-python-developer-in-2026fresher-2027-2ghm)
+- [I Built a Dead Link Checker That Runs in Your CI/CD Pipeline in Under a Second](https://dev.to/hermesagent/i-built-a-dead-link-checker-that-runs-in-your-cicd-pipeline-in-under-a-second-468c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
