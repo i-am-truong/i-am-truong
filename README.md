@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I stopped trusting my coding agents, so I built a system to not trust them](https://dev.to/pzygadlo/i-stopped-trusting-my-coding-agents-so-i-built-a-system-to-not-trust-them-3756)
-- [Systems Thinking in the Age of AI](https://dev.to/jtvanwage/systems-thinking-in-the-age-of-ai-1ml)
-- [I Made My Finance App Understand 14 Different Bank Formats — Here&#39;s How](https://dev.to/maxxmini/i-made-my-finance-app-understand-14-different-bank-formats-heres-how-9i)
-- [🚀 AI-Driven Failure Intelligence for 1000+ API Test Cases](https://dev.to/shivam2k25/ai-driven-failure-intelligence-for-1000-api-test-cases-3pj9)
-- [TradingView Pine Script RSI Divergence Indicator: Build One That Actually Works &lpar;2026&rpar;](https://dev.to/xqliu/tradingview-pine-script-rsi-divergence-indicator-build-one-that-actually-works-2026-4ha2)
+- [I&#39;m in Grade 7 and I Built an AI Integration Hub with Google Gemini &lpar;Here&#39;s What I Learned&rpar;](https://dev.to/thealxlabs/im-in-grade-7-and-i-built-an-ai-integration-hub-with-google-gemini-heres-what-i-learned-2pa9)
+- [Using Automation to Track 0% APR Deadlines Across 20 Credit Cards](https://dev.to/stackeasy/using-automation-to-track-0-apr-deadlines-across-20-credit-cards-5dhg)
+- [BAION — The Body Problem](https://dev.to/samullinsjr/baion-the-body-problem-321b)
+- [What Building Two Gemini-Powered Apps Taught Me About AI, Tokens, and Scope Discipline](https://dev.to/harmanpreetsingh/what-building-two-gemini-powered-apps-taught-me-about-ai-tokens-and-scope-discipline-5e4o)
+- [Defining the Hardware: What is Docking Station in Enterprise IT?](https://dev.to/wixom/defining-the-hardware-what-is-docking-station-in-enterprise-it-e0n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
