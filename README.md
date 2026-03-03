@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Designing a Multi-Layer Validation Framework for High-Volume Healthcare EDI Transactions](https://dev.to/devimano/designing-a-multi-layer-validation-framework-for-high-volume-healthcare-edi-transactions-1caj)
-- [I built a config-driven graph editor for Angular — here&#39;s what I learned](https://dev.to/dennis_dam_ae86ad222ac73f/i-built-a-config-driven-graph-editor-for-angular-heres-what-i-learned-c4d)
-- [Devlog 3](https://dev.to/no_arms_studio/devlog-3-3324)
-- [Why I Track My AI Usage Like I Track My Finances](https://dev.to/monk_mode_35366cceda1354d/why-i-track-my-ai-usage-like-i-track-my-finances-448i)
-- [OpenTelemetry for AI - OpenLLMetry with SigNoz and Traceloop](https://dev.to/ankit01oss/opentelemetry-for-ai-openllmetry-with-signoz-and-traceloop-5h3h)
+- [Niyə hələ də Linux işlətmirik, ya da işlədə bilmirik?](https://dev.to/jalilabdulla/niy-hl-d-linux-isltmirik-ya-da-isld-bilmirik-2ef8)
+- [Build a voice agent in JavaScript with Vercel AI SDK](https://dev.to/mkp_bijit/build-a-voice-agent-in-javascript-with-vercel-ai-sdk-1dc3)
+- [Slapping Secondary Indexes on Random Fields is Silently Killing Your Database.](https://dev.to/opeyemi_oluwagbemiga_a213/slapping-secondary-indexes-on-random-fields-is-silently-killing-your-database-15p3)
+- [How I Overcame the Optimization Wall by Implementing the Augmented Lagrangian Method &lpar;ALM&rpar; with AI](https://dev.to/yassan8/how-i-overcame-the-optimization-wall-by-implementing-the-augmented-lagrangian-method-alm-with-ai-4moa)
+- [How to Automate CRM with n8n &lpar;Step-by-Step, Real Use Cases&rpar;](https://dev.to/ciphernutz/how-to-automate-crm-with-n8n-step-by-step-real-use-cases-2aa4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
