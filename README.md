@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Cybersecurity Ego Taxonomy](https://dev.to/narnaiezzsshaa/the-cybersecurity-ego-taxonomy-42kg)
-- [C#: Does a Static Constructor Always Run First?](https://dev.to/dimonsmart/c-does-a-static-constructor-always-run-first-48mb)
-- [Google Gemini Writing Challenge](https://dev.to/dan52242644dan/google-gemini-writing-challenge-28d1)
-- [A GUI editor for Mapbox Color Themes](https://dev.to/mapbox/a-gui-editor-for-mapbox-color-themes-5fho)
-- [How We Built X Submission Intake: From Social Chaos to Structured Pipeline](https://dev.to/chefbc2k/how-we-built-x-submission-intake-from-social-chaos-to-structured-pipeline-3hjb)
+- [[Boost]](https://dev.to/elizabethfuentes12/-26hc)
+- [I ran cursor-doctor on 50 real projects. Here&#39;s what broke.](https://dev.to/nedcodes/i-ran-cursor-doctor-on-50-real-projects-heres-what-broke-14ba)
+- [Stop Writing .subscribe&lpar;&rpar; in Angular Components — Use toSignal Instead](https://dev.to/paszekdev/stop-writing-subscribe-in-angular-components-use-tosignal-instead-bom)
+- [Mocking HTTP Services in PHP with Phiremock](https://dev.to/brunohsouza/mocking-http-services-in-php-with-phiremock-aa7)
+- [Safe AWS Lambda Durable Functions with XState](https://dev.to/aws-builders/safe-aws-lambda-durable-functions-with-xstate-2j31)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
