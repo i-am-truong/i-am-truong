@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/elizabethfuentes12/-26hc)
-- [I ran cursor-doctor on 50 real projects. Here&#39;s what broke.](https://dev.to/nedcodes/i-ran-cursor-doctor-on-50-real-projects-heres-what-broke-14ba)
-- [Stop Writing .subscribe&lpar;&rpar; in Angular Components — Use toSignal Instead](https://dev.to/paszekdev/stop-writing-subscribe-in-angular-components-use-tosignal-instead-bom)
-- [Mocking HTTP Services in PHP with Phiremock](https://dev.to/brunohsouza/mocking-http-services-in-php-with-phiremock-aa7)
-- [Safe AWS Lambda Durable Functions with XState](https://dev.to/aws-builders/safe-aws-lambda-durable-functions-with-xstate-2j31)
+- [No More “This Series”: Why I’m Restarting DSA and ML &lpar;Again&rpar;](https://dev.to/casperday11/no-more-this-series-why-im-restarting-dsa-and-ml-again-bna)
+- [Why Linear AI Chains Are Dead: The Rise of Cyclical Agentic Loops](https://dev.to/programmingcentral/why-linear-ai-chains-are-dead-the-rise-of-cyclical-agentic-loops-5fib)
+- [Building a Production-Grade RAG System &lpar;Not Just a Demo&rpar;](https://dev.to/ritwikareddykancharla/building-a-production-grade-rag-system-not-just-a-demo-2l0p)
+- [Index Key Format in SQLite](https://dev.to/lovestaco/index-key-format-in-sqlite-40pn)
+- [Shared Workflows: minha experiência definindo pipelines reutilizáveis](https://dev.to/marcos_vile/shared-workflows-minha-experiencia-definindo-pipelines-reutilizaveis-74b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
