@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Import Spreadsheet to BigQuery](https://dev.to/csvbox/import-spreadsheet-to-bigquery-1661)
-- [Import Spreadsheet to n8n without Code](https://dev.to/csvbox/import-spreadsheet-to-n8n-without-code-2ck0)
-- [Everyone Scrambled to Ship MCP Servers. The Agents That Actually Work Just Use the Command Line.](https://dev.to/octomind_dev/everyone-scrambled-to-ship-mcp-servers-the-agents-that-actually-work-just-use-the-command-line-17m7)
-- [Make WooCommerce and Wordpress Visible to ChatGPT, Claude &amp; Perplexity](https://dev.to/madeburo/make-woocommerce-and-wordpress-visible-to-chatgpt-claude-perplexity-dhh)
-- [DP State Transitions: How to Design Tables That Actually Work](https://dev.to/alex_hunter_44f4c9ed6671e/dp-state-transitions-how-to-design-tables-that-actually-work-5efe)
+- [Building an AI Floor Planner with Google Gemini and Matplotlib](https://dev.to/bindupautra_jyotibrat/building-an-ai-floor-planner-with-google-gemini-and-matplotlib-5c5d)
+- [Fixing “Got AttributeError: &#39;NoneType&#39; object has no attribute …” in Django REST Framework](https://dev.to/moinulhaq/fixing-got-attributeerror-nonetype-object-has-no-attribute-in-django-rest-framework-4ln2)
+- [Import Excel to Retool without Code](https://dev.to/csvbox-io/import-excel-to-retool-without-code-557c)
+- [Zero-Trust Architecture in Practice: Real-World Implementation Steps](https://dev.to/ekirigwe/zero-trust-architecture-in-practice-real-world-implementation-steps-ih)
+- [Import CSV to BigQuery](https://dev.to/csvbox-io/import-csv-to-bigquery-380k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
