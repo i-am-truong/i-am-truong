@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Complete Guide to Collectors in Java 8 Streams - Part 2](https://dev.to/priyankbhardwaj1199/a-complete-guide-to-collectors-in-java-8-streams-part-2-21b8)
-- [Integrate Kiro CLI into Openclaw via ACP](https://dev.to/xiaofeili/integrate-kiro-cli-into-openclaw-via-acp-428j)
-- [How ChatGPT Actually Predicts Words &lpar;Explained Simply&rpar;](https://dev.to/rajkiran_389/how-chatgpt-actually-predicts-words-explained-simply-364a)
-- [Sustainable Funding for Open-Source Critical Infrastructure: Balancing Free Access and Revenue Generation](https://dev.to/elenbit/sustainable-funding-for-open-source-critical-infrastructure-balancing-free-access-and-revenue-4l6m)
-- [RepoRecon: Mapping the DNA of Source Code with Gemini 2.5 Flash-Latest](https://dev.to/az-dev1/reporecon-mapping-the-dna-of-source-code-with-gemini-25-flash-latest-460e)
+- [I Built Daftari - A Digital Ledger for Solopreneurs to Track Job Cards and Payments via WhatApp Chats](https://dev.to/geraldmuvengei06/i-built-daftari-a-digital-ledger-for-solopreneurs-to-track-job-cards-and-payments-via-whatapp-1jnp)
+- [I built a free JSON formatter that never uploads your data — here&#39;s why that matters](https://dev.to/gokuldas137/i-built-a-free-json-formatter-that-never-uploads-your-data-heres-why-that-matters-344p)
+- [Kaizen — Let your focus follow you!](https://dev.to/neilblaze/kaizen-let-your-focus-follow-you-pi0)
+- [My Docker examples are now part of the official Next.js Documentation](https://dev.to/kristiyanvelkov/my-docker-examples-are-now-part-of-the-official-nextjs-documentation-3kbg)
+- [Hi, I&#39;m Grek — Full-Stack Python Developer &amp; AI Engineer](https://dev.to/grekcreator/hi-im-grek-full-stack-python-developer-ai-engineer-4big)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
