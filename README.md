@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Collection Framework](https://dev.to/nanthini_ammu_ac02ad32802/collection-framework-2p93)
-- [Forensic Architecture of a Scam: Deconstructing the BTDUex Fake Crypto Exchange](https://dev.to/nezahualpillitlapalco/forensic-architecture-of-a-scam-deconstructing-the-btduex-fake-crypto-exchange-36e6)
-- [I Built a Free AI Tools Directory with 500+ Tools, Comparisons &amp; Prompt Templates](https://dev.to/aimin_wang_7060db4544e521/i-built-a-free-ai-tools-directory-with-500-tools-comparisons-prompt-templates-3hpa)
-- [SQL Cheatsheet](https://dev.to/krutidb/sql-cheatsheet-4aii)
-- [Day 5 🚀](https://dev.to/zain_ali_c4cfc112295d8b5a/day-5-55hp)
+- [I built a CLI to sync Cursor chat history between machines](https://dev.to/callum_5c4104e61f9bc/i-built-a-cli-to-sync-cursor-chat-history-between-machines-2cnf)
+- [Add Runtime Context to Your AI Coding Workflow &lpar;Next.js + Frontman&rpar;](https://dev.to/bluehotdog/add-runtime-context-to-your-ai-coding-workflow-nextjs-frontman-439o)
+- [Gerencie suas bases SQL via Terminal com esse App](https://dev.to/marcosplusplus/gerencie-suas-bases-sql-via-terminal-com-esse-app-374)
+- [The Two SQL Concepts That Made Me Finally Understand Real Data: Joins &amp; Window Functions.](https://dev.to/wilbon/the-two-sql-concepts-that-made-me-finally-understand-real-data-joins-window-functions-d8m)
+- [Prompting Efficient : Parlez Markdown et XML, pas Français](https://dev.to/pepetoken/prompting-efficient-parlez-markdown-et-xml-pas-francais-1opc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
