@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Bathroom Occupancy Notifier with Home Assistant](https://dev.to/kevinlu-swe/i-built-a-bathroom-occupancy-notifier-with-home-assistant-4fcl)
-- [Most &quot;Multi-Agent&quot; Frameworks Are Just Multiple Prompts Wearing a Trenchcoat](https://dev.to/diego_falciola_02ab709202/most-multi-agent-frameworks-are-just-multiple-prompts-wearing-a-trenchcoat-38kf)
-- [I Spent 50 Hours Building a Next.js Boilerplate So You Can Ship in 30 Minutes](https://dev.to/salman_shahriar/i-spent-50-hours-building-a-nextjs-boilerplate-so-you-can-ship-in-30-minutes-1pl3)
-- [Woxi: Wolfram Mathematica Reimplementation in Rust](https://dev.to/guy_d/woxi-wolfram-mathematica-reimplementation-in-rust-4doi)
-- [Use Your Tokens Before You Lose Your Tokens](https://dev.to/nicholassynovic/use-your-tokens-before-you-lose-your-tokens-kdp)
+- [Trust Is the Architecture &lpar;Part 1&rpar;](https://dev.to/aws-builders/trust-is-the-architecture-part-1-1pek)
+- [AWS ECS Lab](https://dev.to/jumptotech/aws-ecs-lab-18li)
+- [I built a collection of privacy-focused browser tools &lpar;no uploads&rpar;](https://dev.to/mpsoftwarestudio/i-built-a-collection-of-privacy-focused-browser-tools-no-uploads-5ei)
+- [Excelize 2.10.1 Released - Powerful open-source library for spreadsheet &lpar;Excel&rpar; document](https://dev.to/xuri/excelize-2100-released-powerful-open-source-library-for-spreadsheet-excel-document-1kjf)
+- [A Meal Prep Co-Pilot Built with Google Gemini - A Reflection](https://dev.to/kathleen_bonaventure/a-meal-prep-co-pilot-built-with-google-gemini-a-reflection-3gb0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
