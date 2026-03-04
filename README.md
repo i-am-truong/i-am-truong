@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Take Website Screenshots with Code: One API Call, No Puppeteer Setup](https://dev.to/ozorown/take-website-screenshots-with-code-one-api-call-no-puppeteer-setup-dac)
+- [Understanding How Attackers Hide Malware in “Legitimate” Software: A Technical Deep Dive](https://dev.to/wambita_sheila_fana/understanding-how-attackers-hide-malware-in-legitimate-software-a-technical-deep-dive-4c3k)
+- [Educational Development Program: Build Apps with Google AI Studio](https://dev.to/adrii_ana/educational-development-program-build-apps-with-google-ai-studio-2c1f)
 - [Safer Pushes, SIEM Webhooks, and Verifiable Releases](https://dev.to/joerucci/safer-pushes-siem-webhooks-and-verifiable-releases-1cng)
 - [Adaptive Neuro-Symbolic Planning for precision oncology clinical workflows during mission-critical recovery windows](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-precision-oncology-clinical-workflows-during-mission-critical-23m2)
-- [The Ambies at a Turning Point: A Ceremony in Search of Its Identity](https://dev.to/recognized/the-ambies-at-a-turning-point-a-ceremony-in-search-of-its-identity-2m0h)
-- [Email Validation Best Practices: Beyond Simple Regex](https://dev.to/apiverve/email-validation-best-practices-beyond-simple-regex-491l)
-- [WHOIS Data: Domain Intelligence for Business and Security](https://dev.to/apiverve/whois-data-domain-intelligence-for-business-and-security-26p6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
