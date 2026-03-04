@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What Changed When Our Production NLU Pipeline Hit a Hard Ceiling &lpar;A Live Case Study&rpar;](https://dev.to/olivia_perell_/what-changed-when-our-production-nlu-pipeline-hit-a-hard-ceiling-a-live-case-study-6bc)
-- [When Image Models Grew Up: Practical Moves for Teams Choosing the Right Generator](https://dev.to/gabrieal845/when-image-models-grew-up-practical-moves-for-teams-choosing-the-right-generator-h64)
-- [Building an Automated Growth Engine: How We Replaced Ad-Tech &quot;Guesswork&quot; with an AI+BI Architecture](https://dev.to/hmb_berry/building-an-automated-growth-engine-how-we-replaced-ad-tech-guesswork-with-an-aibi-architecture-241f)
-- [I Built a Simple Log Aggregation and Analytics tool](https://dev.to/prajwal_zore_lm10/i-built-a-simple-log-aggregation-and-analytics-tool-2idp)
-- [[Boost]](https://dev.to/anthonymax/-igl)
+- [## I Built an AI Tourism Assistant for Kenya Using RAG, pgvector, and Streamlit](https://dev.to/john_analytics/-i-built-an-ai-tourism-assistant-for-kenya-using-rag-pgvector-and-streamlit-c71)
+- [How I Built a Recipe Extractor from YouTube Using AWS Transcribe](https://dev.to/robindeva/how-i-built-a-recipe-extractor-from-youtube-using-aws-transcribe-1jj0)
+- [The Day I Couldn&#39;t Access My Code on GitHub &lpar;And What I Built After That&rpar;](https://dev.to/junior_stan_c087076954866/the-day-i-couldnt-access-my-code-on-github-and-what-i-built-after-that-2567)
+- [Creating Software for Dance Studios: Lessons from a Niche SaaS Marketplace](https://dev.to/fabio_dancemasterpro_ae/creating-software-for-dance-studios-lessons-from-a-niche-saas-marketplace-17b5)
+- [Use LD_PRELOAD to inject OpenTelemetry into everything](https://dev.to/agardnerit/use-ldpreload-to-inject-opentelemetry-into-everything-hmp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
