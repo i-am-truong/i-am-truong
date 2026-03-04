@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Standard AI Conversation Portability Does Not Exist Yet: Here Is Why That Should Bother You](https://dev.to/isabelsmith/standard-ai-conversation-portability-does-not-exist-yet-here-is-why-that-should-bother-you-p34)
-- [Settings ή Strategy Pattern;](https://dev.to/__b63657/settings-e-strategy-pattern-10je)
-- [How I Reduced Mobile Test Cycles by 90% Using Device Orchestration](https://dev.to/suresh_kumarm_5fd59409a3/how-i-reduced-mobile-test-cycles-by-90-using-device-orchestration-dcl)
-- [How to Fix the NVM for Windows `NVM_SYMLINK` Activation Error](https://dev.to/trivedivatsal/fixing-the-nvmsymlink-is-set-to-a-physical-filedirectory-error-on-windows-21hp)
-- [Stripe&#39;s Payment Retries Are a Blunt Instrument &lpar;And It&#39;s Costing You Thousands&rpar;](https://dev.to/tahseen_rahman/stripes-payment-retries-are-a-blunt-instrument-and-its-costing-you-thousands-19ei)
+- [Collection Framework](https://dev.to/nanthini_ammu_ac02ad32802/collection-framework-2p93)
+- [Forensic Architecture of a Scam: Deconstructing the BTDUex Fake Crypto Exchange](https://dev.to/nezahualpillitlapalco/forensic-architecture-of-a-scam-deconstructing-the-btduex-fake-crypto-exchange-36e6)
+- [I Built a Free AI Tools Directory with 500+ Tools, Comparisons &amp; Prompt Templates](https://dev.to/aimin_wang_7060db4544e521/i-built-a-free-ai-tools-directory-with-500-tools-comparisons-prompt-templates-3hpa)
+- [SQL Cheatsheet](https://dev.to/krutidb/sql-cheatsheet-4aii)
+- [Day 5 🚀](https://dev.to/zain_ali_c4cfc112295d8b5a/day-5-55hp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
