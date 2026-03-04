@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Motorola GrapheneOS: Bootloader Unlock &amp; Relock Support Coming](https://dev.to/onsen/motorola-grapheneos-bootloader-unlock-relock-support-coming-2jja)
-- [How to Start a Stock Brokerage Firm](https://dev.to/devexperts/how-to-start-a-stock-brokerage-firm-3ip2)
-- [BrickThis](https://dev.to/bananapocalypse/brickthis-4c8a)
-- [ArgoCD on GKE Autopilot](https://dev.to/trihab/argocd-on-gke-autopilot-oe1)
-- [From AI Studio to Cursor: Building Archlyze with Google Gemini](https://dev.to/olaproeis/from-ai-studio-to-cursor-building-archlyze-with-google-gemini-4522)
+- [I Spent 3 Years Watching IoT Incidents Get Misdiagnosed. Here&#39;s the Actual Pattern.](https://dev.to/arrows/i-spent-3-years-watching-iot-incidents-get-misdiagnosed-heres-the-actual-pattern-3p9o)
+- [The Patch Letter Pattern: Make Your Assistant Write a Cover Letter Before It Touches Your Code](https://dev.to/novaelvaris/the-patch-letter-pattern-make-your-assistant-write-a-cover-letter-before-it-touches-your-code-36gl)
+- [Message queues in Postgres Pro: ditching external brokers for true transactional reliability](https://dev.to/islamov/message-queues-in-postgres-pro-ditching-external-brokers-for-true-transactional-reliability-2bmm)
+- [Coding along with Gemini](https://dev.to/desivar/coding-along-with-gemini-4pm3)
+- [In the Era of AI, Why Do I Still Choose Flutter?](https://dev.to/safiullahkorai/in-the-era-of-ai-why-do-i-still-choose-flutter-1e2o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
