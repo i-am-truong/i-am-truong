@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Spent 3 Years Watching IoT Incidents Get Misdiagnosed. Here&#39;s the Actual Pattern.](https://dev.to/arrows/i-spent-3-years-watching-iot-incidents-get-misdiagnosed-heres-the-actual-pattern-3p9o)
-- [The Patch Letter Pattern: Make Your Assistant Write a Cover Letter Before It Touches Your Code](https://dev.to/novaelvaris/the-patch-letter-pattern-make-your-assistant-write-a-cover-letter-before-it-touches-your-code-36gl)
-- [Message queues in Postgres Pro: ditching external brokers for true transactional reliability](https://dev.to/islamov/message-queues-in-postgres-pro-ditching-external-brokers-for-true-transactional-reliability-2bmm)
-- [Coding along with Gemini](https://dev.to/desivar/coding-along-with-gemini-4pm3)
-- [In the Era of AI, Why Do I Still Choose Flutter?](https://dev.to/safiullahkorai/in-the-era-of-ai-why-do-i-still-choose-flutter-1e2o)
+- [Built with Google Gemini: The Story Behind MentorAI](https://dev.to/codeexplorerray/built-with-google-gemini-the-story-behind-mentorai-233e)
+- [Cold vs Hot Observables in RxJS Explained](https://dev.to/dimitar_gaydardzhiev/cold-vs-hot-observables-in-rxjs-explained-1ea8)
+- [A practical guide to creating software applications regardless of programming language](https://dev.to/hectorw_tt/a-practical-guide-to-creating-software-applications-regardless-of-programming-language-54n3)
+- [How AI Can Help With Software Architecture Planning](https://dev.to/scott_mcmahan_d085ae6e508/how-ai-can-help-with-software-architecture-planning-5d72)
+- [📊 From Excel to SQL in Seconds: Meet Your New Favorite Firefox Extension](https://dev.to/onyxwizard/from-excel-to-sql-in-seconds-meet-your-new-favorite-firefox-extension-35mf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
