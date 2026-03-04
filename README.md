@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [## I Built an AI Tourism Assistant for Kenya Using RAG, pgvector, and Streamlit](https://dev.to/john_analytics/-i-built-an-ai-tourism-assistant-for-kenya-using-rag-pgvector-and-streamlit-c71)
-- [How I Built a Recipe Extractor from YouTube Using AWS Transcribe](https://dev.to/robindeva/how-i-built-a-recipe-extractor-from-youtube-using-aws-transcribe-1jj0)
-- [The Day I Couldn&#39;t Access My Code on GitHub &lpar;And What I Built After That&rpar;](https://dev.to/junior_stan_c087076954866/the-day-i-couldnt-access-my-code-on-github-and-what-i-built-after-that-2567)
-- [Creating Software for Dance Studios: Lessons from a Niche SaaS Marketplace](https://dev.to/fabio_dancemasterpro_ae/creating-software-for-dance-studios-lessons-from-a-niche-saas-marketplace-17b5)
-- [Use LD_PRELOAD to inject OpenTelemetry into everything](https://dev.to/agardnerit/use-ldpreload-to-inject-opentelemetry-into-everything-hmp)
+- [Import Spreadsheet to BigQuery](https://dev.to/csvbox/import-spreadsheet-to-bigquery-1661)
+- [Import Spreadsheet to n8n without Code](https://dev.to/csvbox/import-spreadsheet-to-n8n-without-code-2ck0)
+- [Everyone Scrambled to Ship MCP Servers. The Agents That Actually Work Just Use the Command Line.](https://dev.to/octomind_dev/everyone-scrambled-to-ship-mcp-servers-the-agents-that-actually-work-just-use-the-command-line-17m7)
+- [Make WooCommerce and Wordpress Visible to ChatGPT, Claude &amp; Perplexity](https://dev.to/madeburo/make-woocommerce-and-wordpress-visible-to-chatgpt-claude-perplexity-dhh)
+- [DP State Transitions: How to Design Tables That Actually Work](https://dev.to/alex_hunter_44f4c9ed6671e/dp-state-transitions-how-to-design-tables-that-actually-work-5efe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
