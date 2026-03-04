@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [That inflight memory leak warning in your npm install? Here&#39;s the fix](https://dev.to/firekid846/that-inflight-memory-leak-warning-in-your-npm-install-heres-the-fix-4b00)
-- [Understanding Linux Boot Memory Management](https://dev.to/ripan030/understanding-linux-boot-memory-management-1dcn)
-- [I built the AWS platform that every DevOps engineer would want to have](https://dev.to/hsniama/i-built-the-aws-platform-that-every-devops-engineer-would-want-to-have-11fl)
-- [LangGraph.js Explained: Why Your Next AI Agent Needs a Graph, Not a Chain](https://dev.to/programmingcentral/langgraphjs-explained-why-your-next-ai-agent-needs-a-graph-not-a-chain-58h)
-- [Balancing Deep Work and Spiritual Goals: Introducing CodeTune v1.1.0](https://dev.to/freerave/balancing-deep-work-and-spiritual-goals-introducing-codetune-v110-10om)
+- [Node.js Scraping: How to Use Cheerio and Axios for High Speed](https://dev.to/onlineproxy_io/nodejs-scraping-how-to-use-cheerio-and-axios-for-high-speed-kob)
+- [Get started with GitHub Copilot SDK](https://dev.to/azure/get-started-with-github-copilot-sdk-1ijm)
+- [Openclad: A 24/7 Personal AI Agent That Actually Does Things](https://dev.to/foodlbs/openclad-a-247-personal-ai-agent-that-actually-does-things-4amc)
+- [What Can AI See About You Right Now? I Built a Scanner to Find Out](https://dev.to/lakshmisravyavedantham/what-can-ai-see-about-you-right-now-i-built-a-scanner-to-find-out-4dop)
+- [Async/Await no .NET 10: Eliminando o Overhead da State Machine](https://dev.to/unhacked/asyncawait-no-net-10-eliminando-o-overhead-da-state-machine-3d3n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
