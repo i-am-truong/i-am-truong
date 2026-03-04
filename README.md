@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 1/100: Building Your First FastAPI REST API - A Complete Beginner&#39;s Guide](https://dev.to/archijain/day-1100-building-your-first-fastapi-rest-api-a-complete-beginners-guide-n2j)
-- [What software can manage FMCG distributor sales and inventory?](https://dev.to/dealer-hq/what-software-can-manage-fmcg-distributor-sales-and-inventory-5gb4)
-- [Best OCR APIs — Why Open-Source Falls Short for Devs](https://dev.to/aiengine/best-ocr-apis-why-open-source-falls-short-for-devs-2619)
-- [Automate Content Moderation with an NSFW Detection API](https://dev.to/aiengine/automate-content-moderation-with-an-nsfw-detection-api-k12)
-- [Giving LLMs a Long-Term Memory: An Introduction to Mem0 🧠](https://dev.to/syed_mehrab_08fb0419feedf/giving-llms-a-long-term-memory-an-introduction-to-mem0-3jhp)
+- [I Tried Windsurf — An AI Native Coding Environment](https://dev.to/saloniagrawal/i-tried-windsurf-an-ai-native-coding-environment-59i0)
+- [Join the Notion MCP Challenge: $1,500 in Prizes!](https://dev.to/devteam/join-the-notion-mcp-challenge-1500-in-prizes-73e)
+- [🚀 Day 10 of My Automation Journey – Tricky Constructor Questions &lpar;Inheritance in Java&rpar;](https://dev.to/bala_dkaveri_443d4beb9c8/day-10-of-my-automation-journey-tricky-constructor-questions-inheritance-in-java-2pnj)
+- [Why I&#39;m supporting the petition to recognize open-source work as volunteering in Germany](https://dev.to/kermie/why-im-supporting-the-petition-to-recognize-open-source-work-as-volunteering-in-germany-29ac)
+- [How I Turned 1,079 GitHub API Endpoints into 25 AI-Ready Tools](https://dev.to/lorenzosaraiva/how-i-turned-1079-github-api-endpoints-into-25-ai-ready-tools-2ga8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
