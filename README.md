@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Generate PDF from HTML Content in Node.js Applications](https://dev.to/froala_e3824d66439393cbce/generate-pdf-from-html-content-in-nodejs-applications-3k68)
-- [Meet Vantura: Build Stateful Agentic AI Brains That Run *Inside* Your Flutter App](https://dev.to/woda_toki/meet-vantura-build-stateful-agentic-ai-brains-that-run-inside-your-flutter-app-3p4j)
-- [Managing python virtual environments](https://dev.to/import_sys_e5dc095b85cbb9/managing-python-virtual-environments-b0f)
-- [AI, Cognitive Debt, and Ownership](https://dev.to/sukkergris/ai-cognitive-debt-and-ownership-3jcm)
-- [Add AI Governance to Your Agent in 5 Minutes with Tork SDK](https://dev.to/torkjacobs/add-ai-governance-to-your-agent-in-5-minutes-with-tork-sdk-32m2)
+- [What Changed When Our Production NLU Pipeline Hit a Hard Ceiling &lpar;A Live Case Study&rpar;](https://dev.to/olivia_perell_/what-changed-when-our-production-nlu-pipeline-hit-a-hard-ceiling-a-live-case-study-6bc)
+- [When Image Models Grew Up: Practical Moves for Teams Choosing the Right Generator](https://dev.to/gabrieal845/when-image-models-grew-up-practical-moves-for-teams-choosing-the-right-generator-h64)
+- [Building an Automated Growth Engine: How We Replaced Ad-Tech &quot;Guesswork&quot; with an AI+BI Architecture](https://dev.to/hmb_berry/building-an-automated-growth-engine-how-we-replaced-ad-tech-guesswork-with-an-aibi-architecture-241f)
+- [I Built a Simple Log Aggregation and Analytics tool](https://dev.to/prajwal_zore_lm10/i-built-a-simple-log-aggregation-and-analytics-tool-2idp)
+- [[Boost]](https://dev.to/anthonymax/-igl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
