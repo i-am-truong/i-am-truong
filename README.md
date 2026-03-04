@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built Daftari - A Digital Ledger for Solopreneurs to Track Job Cards and Payments via WhatApp Chats](https://dev.to/geraldmuvengei06/i-built-daftari-a-digital-ledger-for-solopreneurs-to-track-job-cards-and-payments-via-whatapp-1jnp)
-- [I built a free JSON formatter that never uploads your data — here&#39;s why that matters](https://dev.to/gokuldas137/i-built-a-free-json-formatter-that-never-uploads-your-data-heres-why-that-matters-344p)
-- [Kaizen — Let your focus follow you!](https://dev.to/neilblaze/kaizen-let-your-focus-follow-you-pi0)
-- [My Docker examples are now part of the official Next.js Documentation](https://dev.to/kristiyanvelkov/my-docker-examples-are-now-part-of-the-official-nextjs-documentation-3kbg)
-- [Hi, I&#39;m Grek — Full-Stack Python Developer &amp; AI Engineer](https://dev.to/grekcreator/hi-im-grek-full-stack-python-developer-ai-engineer-4big)
+- [Generate PDF from HTML Content in Node.js Applications](https://dev.to/froala_e3824d66439393cbce/generate-pdf-from-html-content-in-nodejs-applications-3k68)
+- [Meet Vantura: Build Stateful Agentic AI Brains That Run *Inside* Your Flutter App](https://dev.to/woda_toki/meet-vantura-build-stateful-agentic-ai-brains-that-run-inside-your-flutter-app-3p4j)
+- [Managing python virtual environments](https://dev.to/import_sys_e5dc095b85cbb9/managing-python-virtual-environments-b0f)
+- [AI, Cognitive Debt, and Ownership](https://dev.to/sukkergris/ai-cognitive-debt-and-ownership-3jcm)
+- [Add AI Governance to Your Agent in 5 Minutes with Tork SDK](https://dev.to/torkjacobs/add-ai-governance-to-your-agent-in-5-minutes-with-tork-sdk-32m2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
