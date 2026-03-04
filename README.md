@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [New terms and their definitions: Technical support fundamentals](https://dev.to/khadijah/new-terms-and-their-definitions-technical-support-fundamentals-93p)
-- [The Overengineering Trap: You&#39;re Building a Spaceship When You Need a Bicycle](https://dev.to/ruhidibadli/the-overengineering-trap-youre-building-a-spaceship-when-you-need-a-bicycle-292m)
-- [YouTube Mobile Website Missing &#39;Newest Comments&#39; Sorting: Potential Solutions Explored](https://dev.to/pavkode/youtube-mobile-website-missing-newest-comments-sorting-potential-solutions-explored-n9o)
-- [Exclusive: China&#39;s DeepSeek trained AI model on Nvidia&#39;s best chip despite US ban, official says - Reuters](https://dev.to/jgnoncelogic/exclusive-chinas-deepseek-trained-ai-model-on-nvidias-best-chip-despite-us-ban-official-says--5cno)
-- [We built post-quantum encrypted email that works with Gmail. Here&#39;s how.](https://dev.to/findleyl/we-built-post-quantum-encrypted-email-that-works-with-gmail-heres-how-3ffn)
+- [Dalexor MI: The MCP Server That Gives Your AI a Permanent Memory of Your Codebase](https://dev.to/dragos_marincas_c5a67510e/dalexor-mi-the-mcp-server-that-gives-your-ai-a-permanent-memory-of-your-codebasepublished-true-2db)
+- [AI Hallucinations and Irreversible Actions: A Near-Death Experience](https://dev.to/originalb/ai-hallucinations-and-irreversible-actions-a-near-death-experience-4ojc)
+- [Optimizing Next.js Performance: A Practical Case Study &lpar;96+ Lighthouse Mobile&rpar;](https://dev.to/trlz/optimizing-nextjs-performance-a-practical-case-study-96-lighthouse-mobile-31da)
+- [“The Death of Business Software &lpar;As We Know It&rpar;”](https://dev.to/formever_corin/the-death-of-business-software-as-we-know-it-1f7a)
+- [Understanding Elixir&#39;s List.to_string](https://dev.to/shishini/understanding-elixirs-listtostring-1h0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
