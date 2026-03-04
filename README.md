@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Give Your AI Agent 13 Superpowers with One MCP Server](https://dev.to/ozorown/give-your-ai-agent-13-superpowers-with-one-mcp-server-17j8)
-- [How to Strip PII from LLM Prompts with One API Call](https://dev.to/tiamat/how-to-strip-pii-from-llm-prompts-with-one-api-call-ceb)
-- [The AI Code Review Bottleneck: When Generation Outpaces Human Judgment](https://dev.to/lizechengnet/the-ai-code-review-bottleneck-when-generation-outpaces-human-judgment-7k1)
-- [Reactive Data Without the Async Headaches](https://dev.to/robert_sanders_04918a4344/reactive-data-without-the-async-headaches-5fbd)
-- [Soulkiller in Code: The AI Hibernation Trick That Blows MoE Out of the Water](https://dev.to/owly/soulkiller-in-code-the-ai-hibernation-trick-that-blows-moe-out-of-the-water-4n4h)
+- [I Built a Free AI School for the World — Here&#39;s How You Can Help 🌱](https://dev.to/rameshreddy-adutla/i-built-a-free-ai-school-for-the-world-heres-how-you-can-help-4hpf)
+- [Production-Ready MCP: Why Security Standards Matter for AI Tool Infrastructure](https://dev.to/wdawson/production-ready-mcp-why-security-standards-matter-for-ai-tool-infrastructure-5229)
+- [Week 8 Challenge: Build an Anti-XSS Escape Encoding Framework in Python](https://dev.to/fosres/security-challenge-build-an-xss-prevention-framework-in-python-100-tests-4i81)
+- [We Taught AI Agents to Stop Talking Like Humans](https://dev.to/aipass/we-taught-ai-agents-to-stop-talking-like-humans-c59)
+- [How I Get Claude to Think Like 5 Specialists &lpar;And Never Lose Context&rpar;](https://dev.to/nolrm/how-i-get-claude-to-think-like-5-specialists-and-never-lose-context-4h4l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
