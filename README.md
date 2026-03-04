@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Take Website Screenshots with Code: One API Call, No Puppeteer Setup](https://dev.to/ozorown/take-website-screenshots-with-code-one-api-call-no-puppeteer-setup-dac)
-- [Understanding How Attackers Hide Malware in “Legitimate” Software: A Technical Deep Dive](https://dev.to/wambita_sheila_fana/understanding-how-attackers-hide-malware-in-legitimate-software-a-technical-deep-dive-4c3k)
-- [Educational Development Program: Build Apps with Google AI Studio](https://dev.to/adrii_ana/educational-development-program-build-apps-with-google-ai-studio-2c1f)
-- [Safer Pushes, SIEM Webhooks, and Verifiable Releases](https://dev.to/joerucci/safer-pushes-siem-webhooks-and-verifiable-releases-1cng)
-- [Adaptive Neuro-Symbolic Planning for precision oncology clinical workflows during mission-critical recovery windows](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-precision-oncology-clinical-workflows-during-mission-critical-23m2)
+- [System Overhaul: How I Hacked My Biology to Become a Developer](https://dev.to/akab/system-overhaul-how-i-hacked-my-biology-to-become-a-developer-55n0)
+- [Lovable App Exposes 18,000 Users: The Vibe Coding Security Crisis Nobody Saw Coming](https://dev.to/serenitiesai/lovable-app-exposes-18000-users-the-vibe-coding-security-crisis-nobody-saw-coming-jo6)
+- [From Lambdas to Agents - ECS for Orchestration](https://dev.to/tyson_cung/from-lambdas-to-agents-ecs-for-orchestration-1ap)
+- [The Samurai and the Syntax: Why AI is a Sword, Not a Magic Wand ⚔️](https://dev.to/chadders13/the-samurai-and-the-syntax-why-ai-is-a-sword-not-a-magic-wand-4bdc)
+- [MFA Is Working Fine. That&#39;s the Problem.](https://dev.to/dendrite_soup/mfa-is-working-fine-thats-the-problem-4nf8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
