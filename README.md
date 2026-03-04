@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Built Zero-Knowledge File Sharing Using the Web Crypto API &lpar;No Server Ever Sees Your Data&rpar;](https://dev.to/graysoftdev/how-i-built-zero-knowledge-file-sharing-using-the-web-crypto-api-no-server-ever-sees-your-data-28cp)
-- [How I Built a Tool That Warns Me 60 Seconds Before My Site Goes Down](https://dev.to/furozq/how-i-built-a-tool-that-warns-me-60-seconds-before-my-site-goes-down-56pd)
-- [Datatype Management in SQLite](https://dev.to/lovestaco/datatype-management-in-sqlite-441f)
-- [In the AI Era, Code Is Cheap. Reputation Isn’t.](https://dev.to/kaleman15/in-the-ai-era-code-is-cheap-reputation-isnt-3482)
-- [This is My First and Last &quot;Vibe Coded&quot; Product](https://dev.to/aazan_noor_khuwaja/this-is-my-first-and-last-vibe-coded-product-4ig4)
+- [Safer Pushes, SIEM Webhooks, and Verifiable Releases](https://dev.to/joerucci/safer-pushes-siem-webhooks-and-verifiable-releases-1cng)
+- [Adaptive Neuro-Symbolic Planning for precision oncology clinical workflows during mission-critical recovery windows](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-precision-oncology-clinical-workflows-during-mission-critical-23m2)
+- [The Ambies at a Turning Point: A Ceremony in Search of Its Identity](https://dev.to/recognized/the-ambies-at-a-turning-point-a-ceremony-in-search-of-its-identity-2m0h)
+- [Email Validation Best Practices: Beyond Simple Regex](https://dev.to/apiverve/email-validation-best-practices-beyond-simple-regex-491l)
+- [WHOIS Data: Domain Intelligence for Business and Security](https://dev.to/apiverve/whois-data-domain-intelligence-for-business-and-security-26p6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
