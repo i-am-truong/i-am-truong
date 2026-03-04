@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI Floor Planner with Google Gemini and Matplotlib](https://dev.to/bindupautra_jyotibrat/building-an-ai-floor-planner-with-google-gemini-and-matplotlib-5c5d)
-- [Fixing “Got AttributeError: &#39;NoneType&#39; object has no attribute …” in Django REST Framework](https://dev.to/moinulhaq/fixing-got-attributeerror-nonetype-object-has-no-attribute-in-django-rest-framework-4ln2)
-- [Import Excel to Retool without Code](https://dev.to/csvbox-io/import-excel-to-retool-without-code-557c)
-- [Zero-Trust Architecture in Practice: Real-World Implementation Steps](https://dev.to/ekirigwe/zero-trust-architecture-in-practice-real-world-implementation-steps-ih)
-- [Import CSV to BigQuery](https://dev.to/csvbox-io/import-csv-to-bigquery-380k)
+- [Standard AI Conversation Portability Does Not Exist Yet: Here Is Why That Should Bother You](https://dev.to/isabelsmith/standard-ai-conversation-portability-does-not-exist-yet-here-is-why-that-should-bother-you-p34)
+- [Settings ή Strategy Pattern;](https://dev.to/__b63657/settings-e-strategy-pattern-10je)
+- [How I Reduced Mobile Test Cycles by 90% Using Device Orchestration](https://dev.to/suresh_kumarm_5fd59409a3/how-i-reduced-mobile-test-cycles-by-90-using-device-orchestration-dcl)
+- [How to Fix the NVM for Windows `NVM_SYMLINK` Activation Error](https://dev.to/trivedivatsal/fixing-the-nvmsymlink-is-set-to-a-physical-filedirectory-error-on-windows-21hp)
+- [Stripe&#39;s Payment Retries Are a Blunt Instrument &lpar;And It&#39;s Costing You Thousands&rpar;](https://dev.to/tahseen_rahman/stripes-payment-retries-are-a-blunt-instrument-and-its-costing-you-thousands-19ei)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
