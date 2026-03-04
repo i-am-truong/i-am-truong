@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [System Overhaul: How I Hacked My Biology to Become a Developer](https://dev.to/akab/system-overhaul-how-i-hacked-my-biology-to-become-a-developer-55n0)
-- [Lovable App Exposes 18,000 Users: The Vibe Coding Security Crisis Nobody Saw Coming](https://dev.to/serenitiesai/lovable-app-exposes-18000-users-the-vibe-coding-security-crisis-nobody-saw-coming-jo6)
-- [From Lambdas to Agents - ECS for Orchestration](https://dev.to/tyson_cung/from-lambdas-to-agents-ecs-for-orchestration-1ap)
-- [The Samurai and the Syntax: Why AI is a Sword, Not a Magic Wand ⚔️](https://dev.to/chadders13/the-samurai-and-the-syntax-why-ai-is-a-sword-not-a-magic-wand-4bdc)
-- [MFA Is Working Fine. That&#39;s the Problem.](https://dev.to/dendrite_soup/mfa-is-working-fine-thats-the-problem-4nf8)
+- [Give Your AI Agent 13 Superpowers with One MCP Server](https://dev.to/ozorown/give-your-ai-agent-13-superpowers-with-one-mcp-server-17j8)
+- [How to Strip PII from LLM Prompts with One API Call](https://dev.to/tiamat/how-to-strip-pii-from-llm-prompts-with-one-api-call-ceb)
+- [The AI Code Review Bottleneck: When Generation Outpaces Human Judgment](https://dev.to/lizechengnet/the-ai-code-review-bottleneck-when-generation-outpaces-human-judgment-7k1)
+- [Reactive Data Without the Async Headaches](https://dev.to/robert_sanders_04918a4344/reactive-data-without-the-async-headaches-5fbd)
+- [Soulkiller in Code: The AI Hibernation Trick That Blows MoE Out of the Water](https://dev.to/owly/soulkiller-in-code-the-ai-hibernation-trick-that-blows-moe-out-of-the-water-4n4h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
