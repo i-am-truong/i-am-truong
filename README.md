@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s the typical cost comparison between lift-and-shift vs complete rewrite for mainframe modernization?](https://dev.to/flynnjones/whats-the-typical-cost-comparison-between-lift-and-shift-vs-complete-rewrite-for-mainframe-54nd)
-- [I Built a Simple Font Detector Tool to Identify Fonts From Websites](https://dev.to/smoin7/i-built-a-simple-font-detector-tool-to-identify-fonts-from-websites-4ggc)
-- [I Built a Simple Online PDF Converter Tool &lpar;Free &amp; No Installation Required&rpar;](https://dev.to/smoin7/i-built-a-simple-online-pdf-converter-tool-free-no-installation-required-2526)
-- [FitGuard AI: Building a Real-Time Fitness Coach with Gemini Live API and Brain Endurance Training](https://dev.to/gonzaayrton/fitguard-ai-building-a-real-time-fitness-coach-with-gemini-live-api-and-brain-endurance-training-3656)
-- [Sign in with Claude &lpar;or OpenAI&rpar; — your AI agent team is live in 7 minutes](https://dev.to/seakai/sign-in-with-claude-or-openai-your-ai-agent-team-is-live-in-7-minutes-291)
+- [A Complete Guide to Collectors in Java 8 Streams - Part 2](https://dev.to/priyankbhardwaj1199/a-complete-guide-to-collectors-in-java-8-streams-part-2-21b8)
+- [Integrate Kiro CLI into Openclaw via ACP](https://dev.to/xiaofeili/integrate-kiro-cli-into-openclaw-via-acp-428j)
+- [How ChatGPT Actually Predicts Words &lpar;Explained Simply&rpar;](https://dev.to/rajkiran_389/how-chatgpt-actually-predicts-words-explained-simply-364a)
+- [Sustainable Funding for Open-Source Critical Infrastructure: Balancing Free Access and Revenue Generation](https://dev.to/elenbit/sustainable-funding-for-open-source-critical-infrastructure-balancing-free-access-and-revenue-4l6m)
+- [RepoRecon: Mapping the DNA of Source Code with Gemini 2.5 Flash-Latest](https://dev.to/az-dev1/reporecon-mapping-the-dna-of-source-code-with-gemini-25-flash-latest-460e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
