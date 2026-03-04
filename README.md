@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a CLI to sync Cursor chat history between machines](https://dev.to/callum_5c4104e61f9bc/i-built-a-cli-to-sync-cursor-chat-history-between-machines-2cnf)
-- [Add Runtime Context to Your AI Coding Workflow &lpar;Next.js + Frontman&rpar;](https://dev.to/bluehotdog/add-runtime-context-to-your-ai-coding-workflow-nextjs-frontman-439o)
-- [Gerencie suas bases SQL via Terminal com esse App](https://dev.to/marcosplusplus/gerencie-suas-bases-sql-via-terminal-com-esse-app-374)
-- [The Two SQL Concepts That Made Me Finally Understand Real Data: Joins &amp; Window Functions.](https://dev.to/wilbon/the-two-sql-concepts-that-made-me-finally-understand-real-data-joins-window-functions-d8m)
-- [Prompting Efficient : Parlez Markdown et XML, pas Français](https://dev.to/pepetoken/prompting-efficient-parlez-markdown-et-xml-pas-francais-1opc)
+- [The Disconnected Brain: Why Cloud-Dependent AI is an Architectural Liability](https://dev.to/ntctech/the-disconnected-brain-why-cloud-dependent-ai-is-an-architectural-liability-391i)
+- [Day 10: Advanced Privilege Escalation &amp; Security Audits 🕵️‍♂️](https://dev.to/devon_argent_f9a11303298a/day-10-advanced-privilege-escalation-security-audits-4g1f)
+- [Building a RAG Pipeline That Actually Works](https://dev.to/tyson_cung/building-a-rag-pipeline-that-actually-works-5c7d)
+- [The first step in open source](https://dev.to/owaspblt/the-first-step-in-open-source-5b58)
+- [From a desktop “spaghetti” to a control cabinet: How to migrate your ESP32 to a factory.](https://dev.to/redisage-electronics/from-a-desktop-spaghetti-to-a-control-cabinet-how-to-migrate-your-esp32-to-a-factory-e6p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
