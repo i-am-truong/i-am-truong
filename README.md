@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Tried Windsurf — An AI Native Coding Environment](https://dev.to/saloniagrawal/i-tried-windsurf-an-ai-native-coding-environment-59i0)
-- [Join the Notion MCP Challenge: $1,500 in Prizes!](https://dev.to/devteam/join-the-notion-mcp-challenge-1500-in-prizes-73e)
-- [🚀 Day 10 of My Automation Journey – Tricky Constructor Questions &lpar;Inheritance in Java&rpar;](https://dev.to/bala_dkaveri_443d4beb9c8/day-10-of-my-automation-journey-tricky-constructor-questions-inheritance-in-java-2pnj)
-- [Why I&#39;m supporting the petition to recognize open-source work as volunteering in Germany](https://dev.to/kermie/why-im-supporting-the-petition-to-recognize-open-source-work-as-volunteering-in-germany-29ac)
-- [How I Turned 1,079 GitHub API Endpoints into 25 AI-Ready Tools](https://dev.to/lorenzosaraiva/how-i-turned-1079-github-api-endpoints-into-25-ai-ready-tools-2ga8)
+- [He Asked AI For Q3. It Fired Him.](https://dev.to/tim_rattigan_503adc6c5f94/he-asked-ai-for-q3-it-fired-him-543c)
+- [I Run a Screen Printing Shop. A Few Weeks Ago I Built an iOS App. It Flopped. Here&#39;s Everything.](https://dev.to/neritamo_/i-run-a-screen-printing-shop-a-few-weeks-ago-i-built-an-ios-app-it-flopped-heres-everything-5ej6)
+- [When You Need to Delete a Comment… But Your Button Refuses to Cooperate](https://dev.to/tahsin_zidane/when-you-need-to-delete-a-comment-but-your-button-refuses-to-cooperate-4maa)
+- [cursor-doctor v1.10: coverage gaps and README badges](https://dev.to/nedcodes/cursor-doctor-v110-coverage-gaps-and-readme-badges-537a)
+- [How I Deploy My Backend to a VPS &lpar;Zero Downtime + Instant Rollbacks,Guide Included&rpar;](https://dev.to/vishw-patel/how-i-deploy-my-backend-to-a-vps-zero-downtime-instant-rollbacksguide-included-4h46)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
