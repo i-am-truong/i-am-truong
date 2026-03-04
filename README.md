@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Supervision Framework for Multi-Agent LLMs: 52 Production Runs of the Deterministic Observability Framework &lpar;DOF&rpar;](https://dev.to/cyberpaisa/supervision-framework-for-multi-agent-llms-52-production-runs-of-the-deterministic-observability-5bod)
-- [Why Retry Logic Is Not Governance](https://dev.to/no1rstack/why-retry-logic-is-not-governance-7c2)
-- [The automation trap: I kept spending 2 hours to build 5-minute tasks. So I fixed it.](https://dev.to/lakshmisravyavedantham/i-described-10-of-my-daily-workflows-in-plain-english-this-tool-automated-all-of-them-2gpj)
-- [I described my entire AWS infrastructure in plain English. This tool wrote all the Terraform.](https://dev.to/lakshmisravyavedantham/i-described-my-entire-aws-infrastructure-in-plain-english-this-tool-wrote-all-the-terraform-oaf)
-- [I built an AI agent that watches your GitHub repo and opens PRs when it finds bugs — automatically](https://dev.to/lakshmisravyavedantham/i-built-an-ai-agent-that-watches-your-github-repo-and-opens-prs-when-it-finds-bugs-automatically-16l7)
+- [Predict House Prices with Python: A Beginner’s Machine Learning Guide](https://dev.to/temiloluwavalentine/predict-house-prices-with-python-a-beginners-machine-learning-guide-k6p)
+- [Agentic CI: How I Test AI Workers Like Services &lpar;Securely&rpar;](https://dev.to/kowshik_jallipalli_a7e0a5/agentic-ci-how-i-test-ai-workers-like-services-securely-31ed)
+- [I Let Toy Story Characters Give Real Life Advice Using Gemini. Here&#39;s What Broke &lpar;And What Surprised Me&rpar;](https://dev.to/moeezs/i-let-toy-story-characters-give-real-life-advice-using-gemini-heres-what-broke-and-what-4l90)
+- [I Found 2 Real Bugs in Open Source Projects in 30 Minutes — Here&#39;s How](https://dev.to/colony0ai/i-found-2-real-bugs-in-open-source-projects-in-30-minutes-heres-how-3d0e)
+- [Running Local LLMs in 2026: Ollama, LM Studio, and Jan Compared](https://dev.to/synsun/running-local-llms-in-2026-ollama-lm-studio-and-jan-compared-5dii)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
