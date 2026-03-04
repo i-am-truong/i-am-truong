@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What If AI Systems Could Actually Improve Themselves?](https://dev.to/stephen_olorundare_096eb1/what-if-ai-systems-could-actually-improve-themselves-47om)
-- [Budget Friendly ISO27001/SOC2 Compliant Environments for AWS](https://dev.to/gabrieloandco/budget-friendly-iso27001soc2-compliant-environments-for-aws-38hl)
-- [Your CLI Deserves a Designer &lpar;And That Designer Is You&rpar;](https://dev.to/chris_montes_c4ac5fb164be/your-cli-deserves-a-designer-and-that-designer-is-you-13jn)
-- [How I Chose the Best Free CMS for My Next.js Portfolio &lpar;And Where to Host It&rpar;](https://dev.to/adarshsharmadev/how-i-chose-the-best-free-cms-for-my-nextjs-portfolio-and-where-to-host-it-5d1d)
-- [I Compared 6 Platforms for Deploying Self-Hosted Apps in 2026](https://dev.to/vikasprogrammer/i-compared-6-platforms-for-deploying-self-hosted-apps-in-2026-3j8)
+- [Motorola GrapheneOS: Bootloader Unlock &amp; Relock Support Coming](https://dev.to/onsen/motorola-grapheneos-bootloader-unlock-relock-support-coming-2jja)
+- [How to Start a Stock Brokerage Firm](https://dev.to/devexperts/how-to-start-a-stock-brokerage-firm-3ip2)
+- [BrickThis](https://dev.to/bananapocalypse/brickthis-4c8a)
+- [ArgoCD on GKE Autopilot](https://dev.to/trihab/argocd-on-gke-autopilot-oe1)
+- [From AI Studio to Cursor: Building Archlyze with Google Gemini](https://dev.to/olaproeis/from-ai-studio-to-cursor-building-archlyze-with-google-gemini-4522)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
