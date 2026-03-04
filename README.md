@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Disconnected Brain: Why Cloud-Dependent AI is an Architectural Liability](https://dev.to/ntctech/the-disconnected-brain-why-cloud-dependent-ai-is-an-architectural-liability-391i)
-- [Day 10: Advanced Privilege Escalation &amp; Security Audits 🕵️‍♂️](https://dev.to/devon_argent_f9a11303298a/day-10-advanced-privilege-escalation-security-audits-4g1f)
-- [Building a RAG Pipeline That Actually Works](https://dev.to/tyson_cung/building-a-rag-pipeline-that-actually-works-5c7d)
-- [The first step in open source](https://dev.to/owaspblt/the-first-step-in-open-source-5b58)
-- [From a desktop “spaghetti” to a control cabinet: How to migrate your ESP32 to a factory.](https://dev.to/redisage-electronics/from-a-desktop-spaghetti-to-a-control-cabinet-how-to-migrate-your-esp32-to-a-factory-e6p)
+- [What If AI Systems Could Actually Improve Themselves?](https://dev.to/stephen_olorundare_096eb1/what-if-ai-systems-could-actually-improve-themselves-47om)
+- [Budget Friendly ISO27001/SOC2 Compliant Environments for AWS](https://dev.to/gabrieloandco/budget-friendly-iso27001soc2-compliant-environments-for-aws-38hl)
+- [Your CLI Deserves a Designer &lpar;And That Designer Is You&rpar;](https://dev.to/chris_montes_c4ac5fb164be/your-cli-deserves-a-designer-and-that-designer-is-you-13jn)
+- [How I Chose the Best Free CMS for My Next.js Portfolio &lpar;And Where to Host It&rpar;](https://dev.to/adarshsharmadev/how-i-chose-the-best-free-cms-for-my-nextjs-portfolio-and-where-to-host-it-5d1d)
+- [I Compared 6 Platforms for Deploying Self-Hosted Apps in 2026](https://dev.to/vikasprogrammer/i-compared-6-platforms-for-deploying-self-hosted-apps-in-2026-3j8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
