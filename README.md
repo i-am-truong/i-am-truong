@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Built with Google Gemini: The Story Behind MentorAI](https://dev.to/codeexplorerray/built-with-google-gemini-the-story-behind-mentorai-233e)
-- [Cold vs Hot Observables in RxJS Explained](https://dev.to/dimitar_gaydardzhiev/cold-vs-hot-observables-in-rxjs-explained-1ea8)
-- [A practical guide to creating software applications regardless of programming language](https://dev.to/hectorw_tt/a-practical-guide-to-creating-software-applications-regardless-of-programming-language-54n3)
-- [How AI Can Help With Software Architecture Planning](https://dev.to/scott_mcmahan_d085ae6e508/how-ai-can-help-with-software-architecture-planning-5d72)
-- [📊 From Excel to SQL in Seconds: Meet Your New Favorite Firefox Extension](https://dev.to/onyxwizard/from-excel-to-sql-in-seconds-meet-your-new-favorite-firefox-extension-35mf)
+- [Day 1/100: Building Your First FastAPI REST API - A Complete Beginner&#39;s Guide](https://dev.to/archijain/day-1100-building-your-first-fastapi-rest-api-a-complete-beginners-guide-n2j)
+- [What software can manage FMCG distributor sales and inventory?](https://dev.to/dealer-hq/what-software-can-manage-fmcg-distributor-sales-and-inventory-5gb4)
+- [Best OCR APIs — Why Open-Source Falls Short for Devs](https://dev.to/aiengine/best-ocr-apis-why-open-source-falls-short-for-devs-2619)
+- [Automate Content Moderation with an NSFW Detection API](https://dev.to/aiengine/automate-content-moderation-with-an-nsfw-detection-api-k12)
+- [Giving LLMs a Long-Term Memory: An Introduction to Mem0 🧠](https://dev.to/syed_mehrab_08fb0419feedf/giving-llms-a-long-term-memory-an-introduction-to-mem0-3jhp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
