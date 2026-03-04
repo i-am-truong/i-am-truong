@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Predict House Prices with Python: A Beginner’s Machine Learning Guide](https://dev.to/temiloluwavalentine/predict-house-prices-with-python-a-beginners-machine-learning-guide-k6p)
-- [Agentic CI: How I Test AI Workers Like Services &lpar;Securely&rpar;](https://dev.to/kowshik_jallipalli_a7e0a5/agentic-ci-how-i-test-ai-workers-like-services-securely-31ed)
-- [I Let Toy Story Characters Give Real Life Advice Using Gemini. Here&#39;s What Broke &lpar;And What Surprised Me&rpar;](https://dev.to/moeezs/i-let-toy-story-characters-give-real-life-advice-using-gemini-heres-what-broke-and-what-4l90)
-- [I Found 2 Real Bugs in Open Source Projects in 30 Minutes — Here&#39;s How](https://dev.to/colony0ai/i-found-2-real-bugs-in-open-source-projects-in-30-minutes-heres-how-3d0e)
-- [Running Local LLMs in 2026: Ollama, LM Studio, and Jan Compared](https://dev.to/synsun/running-local-llms-in-2026-ollama-lm-studio-and-jan-compared-5dii)
+- [I Built a Bathroom Occupancy Notifier with Home Assistant](https://dev.to/kevinlu-swe/i-built-a-bathroom-occupancy-notifier-with-home-assistant-4fcl)
+- [Most &quot;Multi-Agent&quot; Frameworks Are Just Multiple Prompts Wearing a Trenchcoat](https://dev.to/diego_falciola_02ab709202/most-multi-agent-frameworks-are-just-multiple-prompts-wearing-a-trenchcoat-38kf)
+- [I Spent 50 Hours Building a Next.js Boilerplate So You Can Ship in 30 Minutes](https://dev.to/salman_shahriar/i-spent-50-hours-building-a-nextjs-boilerplate-so-you-can-ship-in-30-minutes-1pl3)
+- [Woxi: Wolfram Mathematica Reimplementation in Rust](https://dev.to/guy_d/woxi-wolfram-mathematica-reimplementation-in-rust-4doi)
+- [Use Your Tokens Before You Lose Your Tokens](https://dev.to/nicholassynovic/use-your-tokens-before-you-lose-your-tokens-kdp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
