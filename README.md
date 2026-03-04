@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Dalexor MI: The MCP Server That Gives Your AI a Permanent Memory of Your Codebase](https://dev.to/dragos_marincas_c5a67510e/dalexor-mi-the-mcp-server-that-gives-your-ai-a-permanent-memory-of-your-codebasepublished-true-2db)
-- [AI Hallucinations and Irreversible Actions: A Near-Death Experience](https://dev.to/originalb/ai-hallucinations-and-irreversible-actions-a-near-death-experience-4ojc)
-- [Optimizing Next.js Performance: A Practical Case Study &lpar;96+ Lighthouse Mobile&rpar;](https://dev.to/trlz/optimizing-nextjs-performance-a-practical-case-study-96-lighthouse-mobile-31da)
-- [“The Death of Business Software &lpar;As We Know It&rpar;”](https://dev.to/formever_corin/the-death-of-business-software-as-we-know-it-1f7a)
-- [Understanding Elixir&#39;s List.to_string](https://dev.to/shishini/understanding-elixirs-listtostring-1h0)
+- [That inflight memory leak warning in your npm install? Here&#39;s the fix](https://dev.to/firekid846/that-inflight-memory-leak-warning-in-your-npm-install-heres-the-fix-4b00)
+- [Understanding Linux Boot Memory Management](https://dev.to/ripan030/understanding-linux-boot-memory-management-1dcn)
+- [I built the AWS platform that every DevOps engineer would want to have](https://dev.to/hsniama/i-built-the-aws-platform-that-every-devops-engineer-would-want-to-have-11fl)
+- [LangGraph.js Explained: Why Your Next AI Agent Needs a Graph, Not a Chain](https://dev.to/programmingcentral/langgraphjs-explained-why-your-next-ai-agent-needs-a-graph-not-a-chain-58h)
+- [Balancing Deep Work and Spiritual Goals: Introducing CodeTune v1.1.0](https://dev.to/freerave/balancing-deep-work-and-spiritual-goals-introducing-codetune-v110-10om)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
