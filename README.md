@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [He Asked AI For Q3. It Fired Him.](https://dev.to/tim_rattigan_503adc6c5f94/he-asked-ai-for-q3-it-fired-him-543c)
-- [I Run a Screen Printing Shop. A Few Weeks Ago I Built an iOS App. It Flopped. Here&#39;s Everything.](https://dev.to/neritamo_/i-run-a-screen-printing-shop-a-few-weeks-ago-i-built-an-ios-app-it-flopped-heres-everything-5ej6)
-- [When You Need to Delete a Comment… But Your Button Refuses to Cooperate](https://dev.to/tahsin_zidane/when-you-need-to-delete-a-comment-but-your-button-refuses-to-cooperate-4maa)
-- [cursor-doctor v1.10: coverage gaps and README badges](https://dev.to/nedcodes/cursor-doctor-v110-coverage-gaps-and-readme-badges-537a)
-- [How I Deploy My Backend to a VPS &lpar;Zero Downtime + Instant Rollbacks,Guide Included&rpar;](https://dev.to/vishw-patel/how-i-deploy-my-backend-to-a-vps-zero-downtime-instant-rollbacksguide-included-4h46)
+- [New terms and their definitions: Technical support fundamentals](https://dev.to/khadijah/new-terms-and-their-definitions-technical-support-fundamentals-93p)
+- [The Overengineering Trap: You&#39;re Building a Spaceship When You Need a Bicycle](https://dev.to/ruhidibadli/the-overengineering-trap-youre-building-a-spaceship-when-you-need-a-bicycle-292m)
+- [YouTube Mobile Website Missing &#39;Newest Comments&#39; Sorting: Potential Solutions Explored](https://dev.to/pavkode/youtube-mobile-website-missing-newest-comments-sorting-potential-solutions-explored-n9o)
+- [Exclusive: China&#39;s DeepSeek trained AI model on Nvidia&#39;s best chip despite US ban, official says - Reuters](https://dev.to/jgnoncelogic/exclusive-chinas-deepseek-trained-ai-model-on-nvidias-best-chip-despite-us-ban-official-says--5cno)
+- [We built post-quantum encrypted email that works with Gmail. Here&#39;s how.](https://dev.to/findleyl/we-built-post-quantum-encrypted-email-that-works-with-gmail-heres-how-3ffn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
