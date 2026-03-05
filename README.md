@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Harden Linux Services with `systemd-analyze security`: From Score to Enforceable Policy](https://dev.to/lyraalishaikh/harden-linux-services-with-systemd-analyze-security-from-score-to-enforceable-policy-3045)
-- [From Prototype to Production: Building a Reliable RAG API with FastAPI + ChromaDB](https://dev.to/sowndappan_s/from-prototype-to-production-building-a-reliable-rag-api-with-fastapi-chromadb-2d88)
-- [From Applications to Agents: The New Software Paradigm](https://dev.to/jaideepparashar/from-applications-to-agents-the-new-software-paradigm-29da)
-- [Top Fintech APIs for Startups](https://dev.to/apideck/top-fintech-apis-for-startups-5df5)
-- [Stripe has been doing amazing work with their llms.txt, and this guide covers it well. This might be worth adding to your own llms.txt file too!](https://dev.to/srbhr/stripe-has-been-doing-amazing-work-with-their-llmstxt-and-this-guide-covers-it-well-this-might-2ba4)
+- [The bot monitors Polymarket order books through WebSocket streams and reacts in milliseconds.](https://dev.to/benjamin_martin_749c1d57f/the-bot-monitors-polymarket-order-books-through-websocket-streams-and-reacts-in-milliseconds-5h7g)
+- [Debugging Playwright failures in CI is harder than it should be](https://dev.to/sentinelqa/debugging-playwright-failures-in-ci-is-harder-than-it-should-be-42bc)
+- [Guia de Seleção de Modelos: Modo SOLO no TRAE &lpar;Edição Internacional&rpar;](https://dev.to/captaincc/guia-de-selecao-de-modelos-modo-solo-no-trae-edicao-internacional-3790)
+- [Why Anthropic’s &quot;Agent Teams&quot; is missing the most important part: Governance.](https://dev.to/erashu212/why-anthropics-agent-teams-is-missing-the-most-important-part-governance-4hhi)
+- [I&#39;ve created a detailed guide for building on top of Accounting APIs, let me know your thoughts or anything that you want to build.](https://dev.to/srbhr/ive-created-a-detailed-guide-for-building-on-top-of-accounting-apis-let-me-know-your-thoughts-or-2ldp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
