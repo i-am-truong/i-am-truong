@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [37 Vulnerabilities Exposed Across 15 AI IDEs: The Threat Model Every Agent Builder Must Understand](https://dev.to/uenyioha/37-vulnerabilities-exposed-across-15-ai-ides-the-threat-model-every-agent-builder-must-understand-3f5)
-- [I Let an AI Agent Use My Browser Tool Unsupervised. It Found 3 Bugs in 20 Minutes.](https://dev.to/ticktockbent/i-let-an-ai-agent-use-my-browser-tool-unsupervised-it-found-3-bugs-in-20-minutes-2c70)
-- [Your AI Design Reviewer Has a Script. Here It Is.](https://dev.to/tanya-donska/your-ai-design-reviewer-has-a-script-here-it-is-3j1j)
-- [The Story Behind StudyClock — From Helping My Sister to Building a Global Study Platform](https://dev.to/maulik008/the-story-behind-studyclock-from-helping-my-sister-to-building-a-global-study-platform-20cl)
-- [I built a fast, driver-less TUI for browsing PostgreSQL, with ER diagrams](https://dev.to/riii111_8782a7e607d04c8e8/i-built-a-fast-driver-less-tui-for-browsing-postgresql-with-er-diagrams-50k9)
+- [Nobody Taught You the Function Philosophy. Let Me Fix That.](https://dev.to/thomijasir/nobody-taught-you-the-function-philosophy-let-me-fix-that-293i)
+- [AI writes code fast, but it&#39;s missing structure. So I built a methodology layer.](https://dev.to/ilom/ai-writes-code-fast-but-its-missing-structure-so-i-built-a-methodology-layer-2mli)
+- [How I Structure Every Laravel REST API Project](https://dev.to/polash/how-i-structure-every-laravel-rest-api-project-33n1)
+- [Protocol Launcher Series: One-Click CodeBuddy Development Experience](https://dev.to/zhensherlock/protocol-launcher-series-one-click-codebuddy-development-experience-1jn)
+- [Predicting the Unpredictable: A Startup&#39;s Guide to Intelligent Demand Forecasting](https://dev.to/millietechinsights/predicting-the-unpredictable-a-startups-guide-to-intelligent-demand-forecasting-d70)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
