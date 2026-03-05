@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Is SaaS Dead?](https://dev.to/cyclr/is-saas-dead-3044)
-- [Why CRAG is the Evolutionary Leap RAG Has Been Waiting For](https://dev.to/ruchika_bhat_876f8530fa3b/why-crag-is-the-evolutionary-leap-rag-has-been-waiting-for-1d3h)
-- [Why Every Terraform Module Needs Proper Validation](https://dev.to/haitmg/why-every-terraform-module-needs-proper-validation-24bp)
-- [Runs vs. Threads: When to Use Which](https://dev.to/vhalasi/runs-vs-threads-when-to-use-which-3e58)
-- [Multiple Deployments, One Config File](https://dev.to/vhalasi/multiple-deployments-one-config-file-2757)
+- [Optimizing Re-renders in React Native: React.memo, useCallback, useMemo — When They Actually Help](https://dev.to/nitish_poonia/optimizing-re-renders-in-react-native-reactmemo-usecallback-usememo-when-they-actually-help-c8l)
+- [Regex Cheat Sheet: 10 Patterns That Handle 90% of Real Work](https://dev.to/textkit/regex-cheat-sheet-10-patterns-that-handle-90-of-real-work-2hfa)
+- [I Built an App That Lets You Hear the Crypto Market in Real-Time](https://dev.to/cm_founder/i-built-an-app-that-lets-you-hear-the-crypto-market-in-real-time-45an)
+- [Stop Building API Dashboards From Scratch](https://dev.to/konstantinkai/stop-building-api-dashboards-from-scratch-4deo)
+- [Jupiteros.Ai , a parallel AI orchestration engine , one prompt , one project .](https://dev.to/jupiteros_ai/jupiterosai-a-parallel-ai-orchestration-engine-one-prompt-one-project--1i7k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
