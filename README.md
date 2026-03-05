@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Inherited a .NET Nightmare? 5 Strategies to Tame Legacy Code](https://dev.to/jdinnovensa/inherited-a-net-nightmare-5-strategies-to-tame-legacy-code-4c0d)
-- [Webinar on integrating SAST into DevSecOps](https://dev.to/pvsdev/webinar-on-integrating-sast-into-devsecops-3hmn)
-- [Create your first MCP server using the MCP Framework. Guide to testing/debugging with MCP Inspector.](https://dev.to/tainguyennnn/create-your-first-mcp-server-using-the-mcp-framework-guide-to-testingdebugging-with-mcp-inspector-1fkj)
-- [Laravel Layihələrində Docker Necə və Niyə İstifadə Edilməlidir?](https://dev.to/jalilabdulla/laravel-layihlrind-docker-nec-v-niy-istifad-edilmlidir-9mc)
-- [How to Vet an Enterprise AI Implementation Partner in 2026](https://dev.to/rohit_soni_0a28b1d490e930/how-to-vet-an-enterprise-ai-implementation-partner-in-2026-4l3f)
+- [How Claude Skills Replaced Our Documentation](https://dev.to/magnusrodseth/how-claude-skills-replaced-our-documentation-emi)
+- [Stop Holding Your Breath Every Time You Deploy: Zero-Downtime Secrets for Node.js Developers](https://dev.to/paudang/stop-holding-your-breath-every-time-you-deploy-zero-downtime-secrets-for-nodejs-developers-3294)
+- [How We Scaled Our Payment Processing Platform to 50 Million Daily Transactions with Conductor](https://dev.to/streamer_air_348ac8001e4c/how-we-scaled-our-payment-processing-platform-to-50-million-daily-transactions-with-conductor-2cim)
+- [Any Recommendation for a modern Oracle APEX reporting tool?](https://dev.to/farazz5/any-recommendation-for-a-modern-oracle-apex-reporting-tool-1ki3)
+- [Stop Asking About Cost](https://dev.to/abdulosman/stop-asking-about-cost-85l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
