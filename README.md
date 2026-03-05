@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Claude Skills Replaced Our Documentation](https://dev.to/magnusrodseth/how-claude-skills-replaced-our-documentation-emi)
-- [Stop Holding Your Breath Every Time You Deploy: Zero-Downtime Secrets for Node.js Developers](https://dev.to/paudang/stop-holding-your-breath-every-time-you-deploy-zero-downtime-secrets-for-nodejs-developers-3294)
-- [How We Scaled Our Payment Processing Platform to 50 Million Daily Transactions with Conductor](https://dev.to/streamer_air_348ac8001e4c/how-we-scaled-our-payment-processing-platform-to-50-million-daily-transactions-with-conductor-2cim)
-- [Any Recommendation for a modern Oracle APEX reporting tool?](https://dev.to/farazz5/any-recommendation-for-a-modern-oracle-apex-reporting-tool-1ki3)
-- [Stop Asking About Cost](https://dev.to/abdulosman/stop-asking-about-cost-85l)
+- [Next.js 16 Partial Prerendering &lpar;PPR&rpar;: The Best of Static and Dynamic Rendering](https://dev.to/u11d/nextjs-16-partial-prerendering-ppr-the-best-of-static-and-dynamic-rendering-2fgg)
+- [The Real Skill in Programming Is Debugging. Everything Else Is Copy-Paste](https://dev.to/sylwia-lask/the-real-skill-in-programming-is-debugging-everything-else-is-copy-paste-i39)
+- [CompScan: Your computer&#39;s health doctor. Fully local, private, free &lpar;Rust&rpar;](https://dev.to/vvk_147/compscan-your-computers-health-doctor-fully-local-private-free-rust-3naa)
+- [Why JavaScript Developers Are Obsessed With Arrow Functions](https://dev.to/kunal_dev/why-javascript-developers-are-obsessed-with-arrow-functions-ipd)
+- [AI科技热点日报 2月19日：知乎热榜、GitHub Trending、行业头条](https://dev.to/chx381/aike-ji-re-dian-ri-bao-2yue-19ri-zhi-hu-re-bang-github-trending-xing-ye-tou-tiao-1a7k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
