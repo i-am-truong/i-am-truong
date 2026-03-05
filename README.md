@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Browser Automation Built for Agents](https://dev.to/steeldotdev/browser-automation-built-for-agents-5gp2)
-- [Why AI Might Be the WORST Thing That Could Have Happened to Us](https://dev.to/al-sori/why-ai-might-be-the-worst-thing-that-could-have-happened-to-us-j1o)
-- [I Built a Real-Time SEO Linter That Lives Inside Your React App 🔍](https://dev.to/harutyunyan/-i-built-a-real-time-seo-linter-that-lives-inside-your-react-app-nd5)
-- [Day 2: I Didn&#39;t Write Any Code Today &lpar;And That&#39;s the Point&rpar;](https://dev.to/brook94/day-2-i-didnt-write-any-code-today-and-thats-the-point-1bg3)
-- [I Stopped Claude Code From Breaking My Projects. Here&#39;s the Exact Setup](https://dev.to/creatman/i-stopped-claude-code-from-breaking-my-projects-heres-the-exact-setup-1agi)
+- [JavaScript Operators: The Basics You Need to Know](https://dev.to/subhrangsu90/javascript-operators-the-basics-you-need-to-know-4koi)
+- [The less obvious traffic source of successful indie hackers and how to tap into it](https://dev.to/michal_strnad/the-less-obvious-traffic-source-of-successful-indie-hackers-and-how-to-tap-into-it-a58)
+- [JSX — A Formal View &lpar;JavaScript + XML Syntax Extension&rpar;](https://dev.to/quddus-larik/jsx-a-formal-view-javascript-xml-syntax-extension-3kj5)
+- [Data Relationship Intelligence Is Infrastructure — Not a Feature](https://dev.to/hello_arisyn_0dc948aa82b3/data-relationship-intelligence-is-infrastructure-not-a-feature-1d4g)
+- [AI Agents x Solana: Your Money&#39;s Getting a Brain Upgrade 🧠💰](https://dev.to/hitsuji_t2_7171e7fa9293d4/ai-agents-x-solana-your-moneys-getting-a-brain-upgrade-ljh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
