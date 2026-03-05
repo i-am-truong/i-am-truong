@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Operators: The Basics You Need to Know](https://dev.to/subhrangsu90/javascript-operators-the-basics-you-need-to-know-4koi)
-- [The less obvious traffic source of successful indie hackers and how to tap into it](https://dev.to/michal_strnad/the-less-obvious-traffic-source-of-successful-indie-hackers-and-how-to-tap-into-it-a58)
-- [JSX — A Formal View &lpar;JavaScript + XML Syntax Extension&rpar;](https://dev.to/quddus-larik/jsx-a-formal-view-javascript-xml-syntax-extension-3kj5)
-- [Data Relationship Intelligence Is Infrastructure — Not a Feature](https://dev.to/hello_arisyn_0dc948aa82b3/data-relationship-intelligence-is-infrastructure-not-a-feature-1d4g)
-- [AI Agents x Solana: Your Money&#39;s Getting a Brain Upgrade 🧠💰](https://dev.to/hitsuji_t2_7171e7fa9293d4/ai-agents-x-solana-your-moneys-getting-a-brain-upgrade-ljh)
+- [The &quot;AI Sandwich&quot; of Future Tech Jobs](https://dev.to/regnard/the-ai-sandwich-of-future-tech-jobs-370i)
+- [Introduction to GitOps: Argo CD &amp; Argo Image Updater](https://dev.to/kalpesh47/introduction-to-gitops-argo-cd-argo-image-updater-1m8d)
+- [I&#39;m done building things nobody wants — here&#39;s my new approach](https://dev.to/thefern/im-done-building-things-nobody-wants-heres-my-new-approach-1dj6)
+- [How to Build a Flight Status Dashboard with SkyLink API and React](https://dev.to/skylink_api/how-to-build-a-flight-status-dashboard-with-skylink-api-and-react-3167)
+- [Is JAVA 100% Object Oriented Programming Language?](https://dev.to/deepika_k_6841b1a02fb03bd/is-java-100-object-oriented-programming-language-4pfa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
