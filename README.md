@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Security-First Architecture from Day One.](https://dev.to/contextfirstai/building-security-first-architecture-from-day-one-2h0i)
-- [Turning Cabinet Drawings into 3D Models with AI](https://dev.to/cizo/turning-cabinet-drawings-into-3d-models-with-ai-de6)
-- [10x Faster Recall + Memory That Evolves: Aura v1.3 for AI Agents](https://dev.to/teolex2020/10x-faster-recall-memory-that-evolves-aura-v13-for-ai-agents-44ln)
-- [How I Built a Distributed Uptime Monitoring System with FastAPI](https://dev.to/secengineerx/how-i-built-a-distributed-uptime-monitoring-system-with-fastapi-1a2h)
-- [vLLM vs SGLang vs LMDeploy: Fastest LLM Inference Engine in 2026?](https://dev.to/jaipalsingh/vllm-vs-sglang-vs-lmdeploy-fastest-llm-inference-engine-in-2026-5h04)
+- [Edge AI&#39;s Silent Killer: The Observability Gap in Full-Duplex Fidelity](https://dev.to/sovereignrevenueguard/edge-ais-silent-killer-the-observability-gap-in-full-duplex-fidelity-4d8l)
+- [Free Public IP API — No Key, No Signup, No Rate Limits &lpar;ipify Alternative&rpar;](https://dev.to/ozorown/free-public-ip-api-no-key-no-signup-no-rate-limits-ipify-alternative-3lpj)
+- [How I Prepared for PM Interviews](https://dev.to/emily_davis_6bf6e94308541/how-i-prepared-for-pm-interviews-e05)
+- [Deep Dive: Resolving DNS Issues with GitHub and Understanding SSH vs HTTPS](https://dev.to/cynthia-cycy/deep-dive-resolving-dns-issues-with-github-and-understanding-ssh-vs-https-4bom)
+- [How I Built a Chrome Extension to Extract ChatGPT Search Queries](https://dev.to/pavan_am_a8b37b51bf1357b/how-i-built-a-chrome-extension-to-extract-chatgpt-search-queries-3oo5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
