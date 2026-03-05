@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Debugging a 400 Error in Sign in with Apple Token Exchange](https://dev.to/devsnake/debugging-a-400-error-in-sign-in-with-apple-token-exchange-4aoj)
-- [Reachy Mini Not Speaking](https://dev.to/krunal16c/reachy-mini-not-speaking-5dcc)
-- [How I Designed a Content Distribution Pipeline — 9 Content Types, 20+ Platforms, One Interactive Diagram](https://dev.to/osovsky/how-i-designed-a-content-distribution-pipeline-9-content-types-20-platforms-one-interactive-lef)
-- [How to Build Website Uptime Monitoring in 10 Minutes &lpar;Free, No Dependencies&rpar;](https://dev.to/robocular/how-to-build-website-uptime-monitoring-in-10-minutes-free-no-dependencies-2ofb)
-- [How I applied SOLID principles and Interface patterns in AL to build an AppSource-ready BC extension](https://dev.to/yahyatouil/how-i-applied-solid-principles-and-interface-patterns-in-al-to-build-an-appsource-ready-bc-extension-9ep)
+- [DevUtils: Offline Developer Swiss Army Knife 10+ Essential Tools in One Tab](https://dev.to/riviergrullon/devutils-offline-developer-swiss-army-knife-10-essential-tools-in-one-tab-48pk)
+- [Multimodal Rerankers: The Fix for Object Storage RAG](https://dev.to/hatmanstack/multimodal-rerankers-the-fix-for-object-storage-rag-2662)
+- [[Boost]](https://dev.to/stefan_donosa/-3g20)
+- [I Gave Claude Code a &quot;Phone a Friend&quot; Lifeline — It Calls GPT, Gemini, and DeepSeek](https://dev.to/spranab/i-gave-claude-code-a-phone-a-friend-lifeline-it-calls-gpt-gemini-and-deepseek-3gjo)
+- [GitHub Copilot CLI Challenge Winner Announcement - Further Delayed](https://dev.to/devteam/github-copilot-cli-challenge-further-delay-5abg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
