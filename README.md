@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [DevUtils: Offline Developer Swiss Army Knife 10+ Essential Tools in One Tab](https://dev.to/riviergrullon/devutils-offline-developer-swiss-army-knife-10-essential-tools-in-one-tab-48pk)
-- [Multimodal Rerankers: The Fix for Object Storage RAG](https://dev.to/hatmanstack/multimodal-rerankers-the-fix-for-object-storage-rag-2662)
-- [[Boost]](https://dev.to/stefan_donosa/-3g20)
-- [I Gave Claude Code a &quot;Phone a Friend&quot; Lifeline — It Calls GPT, Gemini, and DeepSeek](https://dev.to/spranab/i-gave-claude-code-a-phone-a-friend-lifeline-it-calls-gpt-gemini-and-deepseek-3gjo)
-- [GitHub Copilot CLI Challenge Winner Announcement - Further Delayed](https://dev.to/devteam/github-copilot-cli-challenge-further-delay-5abg)
+- [Python Web Scraping: The Production Guide &lpar;What the Tutorials Don&#39;t Tell You&rpar;](https://dev.to/ottobrennan/python-web-scraping-the-production-guide-what-the-tutorials-dont-tell-you-49j9)
+- [I built an AI agent with 57 tools that actually does stuff on your iPhone](https://dev.to/denisbabkevich/i-built-an-ai-agent-with-57-tools-that-actually-does-stuff-on-your-iphone-3345)
+- [Why Go &lpar;Golang&rpar; Is Becoming a Favorite Language for Backend Developers](https://dev.to/ghrabla/why-go-golang-is-becoming-a-favorite-language-for-backend-developers-50j7)
+- [Introducing Hive Index: A real-time custom json operations explorer for Hive](https://dev.to/serpent7776/introducing-hive-index-a-real-time-custom-json-operations-explorer-for-hive-35p7)
+- [Pourquoi j&#39;ai arrêté de payer pour un SaaS de time-tracking et j&#39;ai créé Presto](https://dev.to/tux86/pourquoi-jai-arrete-de-payer-pour-un-saas-de-time-tracking-et-jai-cree-presto-11i8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
