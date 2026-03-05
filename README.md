@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing Re-renders in React Native: React.memo, useCallback, useMemo — When They Actually Help](https://dev.to/nitish_poonia/optimizing-re-renders-in-react-native-reactmemo-usecallback-usememo-when-they-actually-help-c8l)
-- [Regex Cheat Sheet: 10 Patterns That Handle 90% of Real Work](https://dev.to/textkit/regex-cheat-sheet-10-patterns-that-handle-90-of-real-work-2hfa)
-- [I Built an App That Lets You Hear the Crypto Market in Real-Time](https://dev.to/cm_founder/i-built-an-app-that-lets-you-hear-the-crypto-market-in-real-time-45an)
-- [Stop Building API Dashboards From Scratch](https://dev.to/konstantinkai/stop-building-api-dashboards-from-scratch-4deo)
-- [Jupiteros.Ai , a parallel AI orchestration engine , one prompt , one project .](https://dev.to/jupiteros_ai/jupiterosai-a-parallel-ai-orchestration-engine-one-prompt-one-project--1i7k)
+- [So, you want to vibecode a linkblog?](https://dev.to/fernand0/so-you-want-to-vibecode-a-linkblog-245n)
+- [Step-by-Step Guide: Deploy a Containerized App to AWS](https://dev.to/ijay/step-by-step-guide-deploy-a-containerized-app-to-aws-56ne)
+- [The Adventures of Blink S5e1: Kicking off the Build](https://dev.to/linkbenjamin/the-adventures-of-blink-s5e1-kicking-off-the-build-4lmg)
+- [#java #collections #programming #datastructures](https://dev.to/kanishkashr/java-collections-programming-datastructures-4jbk)
+- [Surviving an Apple &quot;Sherlock&quot; and a 12-month cash burn](https://dev.to/diegodotta/surviving-an-apple-sherlock-and-a-12-month-cash-burn-c5f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
