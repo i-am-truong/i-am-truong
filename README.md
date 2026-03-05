@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What is an API? Complete Beginner&#39;s Guide](https://dev.to/theodoresummer/what-is-an-api-complete-beginners-guide-2ag8)
-- [What is the average salary for an AWS Cloud Practitioner?](https://dev.to/stack_overflowed/what-is-the-average-salary-for-an-aws-cloud-practitioner-26h0)
-- [How I Built an Offline-First Sync Engine for Flutter Apps](https://dev.to/hostspica/how-i-built-an-offline-first-sync-engine-for-flutter-apps-4l8a)
-- [Guia Completo de Skills: Do Conceito à Prática](https://dev.to/captaincc/guia-completo-de-skills-do-conceito-a-pratica-56hm)
-- [Ma première réplication AmazonS3 : comment la réaliser en 5 minutes !](https://dev.to/franklin_kabisayi/ma-premiere-replication-amazons3-comment-la-realiser-en-5-minutes--4nck)
+- [Harden Linux Services with `systemd-analyze security`: From Score to Enforceable Policy](https://dev.to/lyraalishaikh/harden-linux-services-with-systemd-analyze-security-from-score-to-enforceable-policy-3045)
+- [From Prototype to Production: Building a Reliable RAG API with FastAPI + ChromaDB](https://dev.to/sowndappan_s/from-prototype-to-production-building-a-reliable-rag-api-with-fastapi-chromadb-2d88)
+- [From Applications to Agents: The New Software Paradigm](https://dev.to/jaideepparashar/from-applications-to-agents-the-new-software-paradigm-29da)
+- [Top Fintech APIs for Startups](https://dev.to/apideck/top-fintech-apis-for-startups-5df5)
+- [Stripe has been doing amazing work with their llms.txt, and this guide covers it well. This might be worth adding to your own llms.txt file too!](https://dev.to/srbhr/stripe-has-been-doing-amazing-work-with-their-llmstxt-and-this-guide-covers-it-well-this-might-2ba4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
