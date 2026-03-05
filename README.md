@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [So, you want to vibecode a linkblog?](https://dev.to/fernand0/so-you-want-to-vibecode-a-linkblog-245n)
-- [Step-by-Step Guide: Deploy a Containerized App to AWS](https://dev.to/ijay/step-by-step-guide-deploy-a-containerized-app-to-aws-56ne)
-- [The Adventures of Blink S5e1: Kicking off the Build](https://dev.to/linkbenjamin/the-adventures-of-blink-s5e1-kicking-off-the-build-4lmg)
-- [#java #collections #programming #datastructures](https://dev.to/kanishkashr/java-collections-programming-datastructures-4jbk)
-- [Surviving an Apple &quot;Sherlock&quot; and a 12-month cash burn](https://dev.to/diegodotta/surviving-an-apple-sherlock-and-a-12-month-cash-burn-c5f)
+- [We Reinvented PHP but 10x Slower: Why React Server Components Might Be an Architectural Dead End](https://dev.to/gerus_team/we-reinvented-php-but-10x-slower-why-react-server-components-might-be-an-architectural-dead-end-17pf)
+- [Fast Delivery Isn&#39;t Enough. You Need Fast Feedback.](https://dev.to/imdone/fast-delivery-isnt-enough-you-need-fast-feedback-138n)
+- [I Built an Android App Without Writing a Single Line of Code &lpar;Using AI Agents&rpar;](https://dev.to/gokhanaytekinn/i-built-an-android-app-without-writing-a-single-line-of-code-using-ai-agents-lbn)
+- [I audited a codebase written by Devin 3.0. It was a nightmare.](https://dev.to/saqibshahdev/i-audited-a-codebase-written-by-devin-30-it-was-a-nightmare-ppb)
+- [How to Never Quit Your Coding Journey](https://dev.to/daniel_possiblekwabi_b57/how-to-never-quit-your-coding-journey-35fg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
