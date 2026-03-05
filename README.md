@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The bot monitors Polymarket order books through WebSocket streams and reacts in milliseconds.](https://dev.to/benjamin_martin_749c1d57f/the-bot-monitors-polymarket-order-books-through-websocket-streams-and-reacts-in-milliseconds-5h7g)
-- [Debugging Playwright failures in CI is harder than it should be](https://dev.to/sentinelqa/debugging-playwright-failures-in-ci-is-harder-than-it-should-be-42bc)
-- [Guia de Seleção de Modelos: Modo SOLO no TRAE &lpar;Edição Internacional&rpar;](https://dev.to/captaincc/guia-de-selecao-de-modelos-modo-solo-no-trae-edicao-internacional-3790)
-- [Why Anthropic’s &quot;Agent Teams&quot; is missing the most important part: Governance.](https://dev.to/erashu212/why-anthropics-agent-teams-is-missing-the-most-important-part-governance-4hhi)
-- [I&#39;ve created a detailed guide for building on top of Accounting APIs, let me know your thoughts or anything that you want to build.](https://dev.to/srbhr/ive-created-a-detailed-guide-for-building-on-top-of-accounting-apis-let-me-know-your-thoughts-or-2ldp)
+- [Inherited a .NET Nightmare? 5 Strategies to Tame Legacy Code](https://dev.to/jdinnovensa/inherited-a-net-nightmare-5-strategies-to-tame-legacy-code-4c0d)
+- [Webinar on integrating SAST into DevSecOps](https://dev.to/pvsdev/webinar-on-integrating-sast-into-devsecops-3hmn)
+- [Create your first MCP server using the MCP Framework. Guide to testing/debugging with MCP Inspector.](https://dev.to/tainguyennnn/create-your-first-mcp-server-using-the-mcp-framework-guide-to-testingdebugging-with-mcp-inspector-1fkj)
+- [Laravel Layihələrində Docker Necə və Niyə İstifadə Edilməlidir?](https://dev.to/jalilabdulla/laravel-layihlrind-docker-nec-v-niy-istifad-edilmlidir-9mc)
+- [How to Vet an Enterprise AI Implementation Partner in 2026](https://dev.to/rohit_soni_0a28b1d490e930/how-to-vet-an-enterprise-ai-implementation-partner-in-2026-4l3f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
