@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Localstack](https://dev.to/luisferdeleon/localstack-1kbk)
-- [TaskTimer](https://dev.to/shiahalan/tasktimer-3c9m)
-- [Claude Went Down for 2 Days and Devs Forgot How to Code](https://dev.to/adioof/claude-went-down-for-2-days-and-devs-forgot-how-to-code-6me)
-- [We Built a 3KB WebMCP Polyfill &lpar;97x Smaller Than @mcp-b/global&rpar;](https://dev.to/up2itnow0822/we-built-a-3kb-webmcp-polyfill-97x-smaller-than-mcp-bglobal-3kg4)
-- [PDF SDK for AI Agents](https://dev.to/steventsao/pdf-sdk-for-ai-agents-b13)
+- [How OpenClaw Serves HTTP, WebSocket, and 70+ Methods on a Single Port](https://dev.to/agentinternals/how-openclaw-serves-http-websocket-and-70-methods-on-a-single-port-4g10)
+- [GHSA-W75W-9QV4-J5XJ: GHSA-W75W-9QV4-J5XJ: Path Traversal in dbt-common Archive Extraction](https://dev.to/cverports/ghsa-w75w-9qv4-j5xj-ghsa-w75w-9qv4-j5xj-path-traversal-in-dbt-common-archive-extraction-4ebp)
+- [What Makes an Architecture &quot;Clear&quot; in Modern Android Apps?](https://dev.to/gengwang_zhang/what-makes-an-architecture-clear-in-modern-android-apps-34pc)
+- [Building My First Creao AI Agent: Notes from a Curious Med Student](https://dev.to/hassanismailtech/building-my-first-creao-ai-agent-notes-from-a-curious-med-student-347)
+- [Introducing SLS Materialized Views: Accelerate Large-Scale Log Queries by 100x and Cut Resource Use by 90%](https://dev.to/observabilityguy/introducing-sls-materialized-views-accelerate-large-scale-log-queries-by-100x-and-cut-resource-use-1681)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
