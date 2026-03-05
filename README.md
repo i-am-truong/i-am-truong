@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Neural Networks Still Confuse You? Start Here.](https://dev.to/nishitacode/neural-networks-still-confuse-you-start-here-1h4p)
-- [Powering Autonomous Robots: What Developers Should Know About Lithium Batteries](https://dev.to/aaaakira/powering-autonomous-robots-what-developers-should-know-about-lithium-batteries-4p42)
-- [Angular Signal Forms Explained: Build Safer Forms With Less Boilerplate](https://dev.to/karol_modelski/angular-signal-forms-explained-build-safer-forms-with-less-boilerplate-1mci)
-- [Claude Code to AI OS Blueprint: Skills, Hooks, Agents &amp; MCP Setup in 2026](https://dev.to/jan_lucasandmann_bb9257c/claude-code-to-ai-os-blueprint-skills-hooks-agents-mcp-setup-in-2026-46gg)
-- [I built an email-to-URL service on Cloudflare Workers — here&#39;s what I learned about parsing email threads](https://dev.to/agrath/i-built-an-email-to-url-service-on-cloudflare-workers-heres-what-i-learned-about-parsing-email-3heg)
+- [Building Security-First Architecture from Day One.](https://dev.to/contextfirstai/building-security-first-architecture-from-day-one-2h0i)
+- [Turning Cabinet Drawings into 3D Models with AI](https://dev.to/cizo/turning-cabinet-drawings-into-3d-models-with-ai-de6)
+- [10x Faster Recall + Memory That Evolves: Aura v1.3 for AI Agents](https://dev.to/teolex2020/10x-faster-recall-memory-that-evolves-aura-v13-for-ai-agents-44ln)
+- [How I Built a Distributed Uptime Monitoring System with FastAPI](https://dev.to/secengineerx/how-i-built-a-distributed-uptime-monitoring-system-with-fastapi-1a2h)
+- [vLLM vs SGLang vs LMDeploy: Fastest LLM Inference Engine in 2026?](https://dev.to/jaipalsingh/vllm-vs-sglang-vs-lmdeploy-fastest-llm-inference-engine-in-2026-5h04)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
