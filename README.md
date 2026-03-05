@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The &quot;AI Sandwich&quot; of Future Tech Jobs](https://dev.to/regnard/the-ai-sandwich-of-future-tech-jobs-370i)
-- [Introduction to GitOps: Argo CD &amp; Argo Image Updater](https://dev.to/kalpesh47/introduction-to-gitops-argo-cd-argo-image-updater-1m8d)
-- [I&#39;m done building things nobody wants — here&#39;s my new approach](https://dev.to/thefern/im-done-building-things-nobody-wants-heres-my-new-approach-1dj6)
-- [How to Build a Flight Status Dashboard with SkyLink API and React](https://dev.to/skylink_api/how-to-build-a-flight-status-dashboard-with-skylink-api-and-react-3167)
-- [Is JAVA 100% Object Oriented Programming Language?](https://dev.to/deepika_k_6841b1a02fb03bd/is-java-100-object-oriented-programming-language-4pfa)
+- [Sound Field: How Disco Explains The Bad Bunny Controversy](https://dev.to/music_youtube/sound-field-how-disco-explains-the-bad-bunny-controversy-389f)
+- [The Hidden Cost Layers of EC2 &lpar;And Why Stopped Instances Still Drain Your Budget&rpar;](https://dev.to/cloudwiseteam/the-hidden-cost-layers-of-ec2-and-why-stopped-instances-still-drain-your-budget-5bmf)
+- [Introducing Maester](https://dev.to/lei_ye_2cc01a0af9e8260e/introducing-maester-the-knowledge-engine-of-your-company-h22)
+- [The Age of AI Isn&#39;t About Replacement. It&#39;s About Relevance](https://dev.to/leolanese/the-age-of-ai-isnt-about-replacement-its-about-relevance-133p)
+- [How QR Code Works .....](https://dev.to/praveensk/how-qr-code-works--4o28)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
