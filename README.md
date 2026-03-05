@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Next.js 16 Partial Prerendering &lpar;PPR&rpar;: The Best of Static and Dynamic Rendering](https://dev.to/u11d/nextjs-16-partial-prerendering-ppr-the-best-of-static-and-dynamic-rendering-2fgg)
-- [The Real Skill in Programming Is Debugging. Everything Else Is Copy-Paste](https://dev.to/sylwia-lask/the-real-skill-in-programming-is-debugging-everything-else-is-copy-paste-i39)
-- [CompScan: Your computer&#39;s health doctor. Fully local, private, free &lpar;Rust&rpar;](https://dev.to/vvk_147/compscan-your-computers-health-doctor-fully-local-private-free-rust-3naa)
-- [Why JavaScript Developers Are Obsessed With Arrow Functions](https://dev.to/kunal_dev/why-javascript-developers-are-obsessed-with-arrow-functions-ipd)
-- [AI科技热点日报 2月19日：知乎热榜、GitHub Trending、行业头条](https://dev.to/chx381/aike-ji-re-dian-ri-bao-2yue-19ri-zhi-hu-re-bang-github-trending-xing-ye-tou-tiao-1a7k)
+- [Neural Networks Still Confuse You? Start Here.](https://dev.to/nishitacode/neural-networks-still-confuse-you-start-here-1h4p)
+- [Powering Autonomous Robots: What Developers Should Know About Lithium Batteries](https://dev.to/aaaakira/powering-autonomous-robots-what-developers-should-know-about-lithium-batteries-4p42)
+- [Angular Signal Forms Explained: Build Safer Forms With Less Boilerplate](https://dev.to/karol_modelski/angular-signal-forms-explained-build-safer-forms-with-less-boilerplate-1mci)
+- [Claude Code to AI OS Blueprint: Skills, Hooks, Agents &amp; MCP Setup in 2026](https://dev.to/jan_lucasandmann_bb9257c/claude-code-to-ai-os-blueprint-skills-hooks-agents-mcp-setup-in-2026-46gg)
+- [I built an email-to-URL service on Cloudflare Workers — here&#39;s what I learned about parsing email threads](https://dev.to/agrath/i-built-an-email-to-url-service-on-cloudflare-workers-heres-what-i-learned-about-parsing-email-3heg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
