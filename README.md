@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Python Web Scraping: The Production Guide &lpar;What the Tutorials Don&#39;t Tell You&rpar;](https://dev.to/ottobrennan/python-web-scraping-the-production-guide-what-the-tutorials-dont-tell-you-49j9)
-- [I built an AI agent with 57 tools that actually does stuff on your iPhone](https://dev.to/denisbabkevich/i-built-an-ai-agent-with-57-tools-that-actually-does-stuff-on-your-iphone-3345)
-- [Why Go &lpar;Golang&rpar; Is Becoming a Favorite Language for Backend Developers](https://dev.to/ghrabla/why-go-golang-is-becoming-a-favorite-language-for-backend-developers-50j7)
-- [Introducing Hive Index: A real-time custom json operations explorer for Hive](https://dev.to/serpent7776/introducing-hive-index-a-real-time-custom-json-operations-explorer-for-hive-35p7)
-- [Pourquoi j&#39;ai arrêté de payer pour un SaaS de time-tracking et j&#39;ai créé Presto](https://dev.to/tux86/pourquoi-jai-arrete-de-payer-pour-un-saas-de-time-tracking-et-jai-cree-presto-11i8)
+- [I Built the Missing Layer Between A2A and MCP — Here&#39;s How NEXUS Coordinates AI Agents](https://dev.to/francosimon53/i-built-the-missing-layer-between-a2a-and-mcp-heres-how-nexus-coordinates-ai-agents-51j7)
+- [Apache Data Lakehouse Weekly: February 26 – March 5, 2026](https://dev.to/alexmercedcoder/apache-data-lakehouse-weekly-february-26-march-5-2026-3ni1)
+- [&quot;Marketing Attribution Models: A Developer&#39;s Guide to Knowing What Actually Works&quot;](https://dev.to/andreashatlem/marketing-attribution-models-a-developers-guide-to-knowing-what-actually-works-4bj2)
+- [&quot;GDPR Cookie Consent Implementation: What Most Developers Get Wrong &lpar;and How to Fix It&rpar;&quot;](https://dev.to/andreashatlem/gdpr-cookie-consent-implementation-what-most-developers-get-wrong-and-how-to-fix-it-1jpl)
+- [AI Code Velocity vs. Security Reality: Copilot Scale, Drupal Patch Discipline, and Identity-Aware Defense](https://dev.to/victorstackai/ai-code-velocity-vs-security-reality-copilot-scale-drupal-patch-discipline-and-identity-aware-3nk5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
