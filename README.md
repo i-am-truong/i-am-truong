@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Free AI School for the World — Here&#39;s How You Can Help 🌱](https://dev.to/rameshreddy-adutla/i-built-a-free-ai-school-for-the-world-heres-how-you-can-help-4hpf)
-- [Production-Ready MCP: Why Security Standards Matter for AI Tool Infrastructure](https://dev.to/wdawson/production-ready-mcp-why-security-standards-matter-for-ai-tool-infrastructure-5229)
-- [Week 8 Challenge: Build an Anti-XSS Escape Encoding Framework in Python](https://dev.to/fosres/security-challenge-build-an-xss-prevention-framework-in-python-100-tests-4i81)
-- [We Taught AI Agents to Stop Talking Like Humans](https://dev.to/aipass/we-taught-ai-agents-to-stop-talking-like-humans-c59)
-- [How I Get Claude to Think Like 5 Specialists &lpar;And Never Lose Context&rpar;](https://dev.to/nolrm/how-i-get-claude-to-think-like-5-specialists-and-never-lose-context-4h4l)
+- [Localstack](https://dev.to/luisferdeleon/localstack-1kbk)
+- [TaskTimer](https://dev.to/shiahalan/tasktimer-3c9m)
+- [Claude Went Down for 2 Days and Devs Forgot How to Code](https://dev.to/adioof/claude-went-down-for-2-days-and-devs-forgot-how-to-code-6me)
+- [We Built a 3KB WebMCP Polyfill &lpar;97x Smaller Than @mcp-b/global&rpar;](https://dev.to/up2itnow0822/we-built-a-3kb-webmcp-polyfill-97x-smaller-than-mcp-bglobal-3kg4)
+- [PDF SDK for AI Agents](https://dev.to/steventsao/pdf-sdk-for-ai-agents-b13)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
