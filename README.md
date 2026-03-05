@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How OpenClaw Serves HTTP, WebSocket, and 70+ Methods on a Single Port](https://dev.to/agentinternals/how-openclaw-serves-http-websocket-and-70-methods-on-a-single-port-4g10)
-- [GHSA-W75W-9QV4-J5XJ: GHSA-W75W-9QV4-J5XJ: Path Traversal in dbt-common Archive Extraction](https://dev.to/cverports/ghsa-w75w-9qv4-j5xj-ghsa-w75w-9qv4-j5xj-path-traversal-in-dbt-common-archive-extraction-4ebp)
-- [What Makes an Architecture &quot;Clear&quot; in Modern Android Apps?](https://dev.to/gengwang_zhang/what-makes-an-architecture-clear-in-modern-android-apps-34pc)
-- [Building My First Creao AI Agent: Notes from a Curious Med Student](https://dev.to/hassanismailtech/building-my-first-creao-ai-agent-notes-from-a-curious-med-student-347)
-- [Introducing SLS Materialized Views: Accelerate Large-Scale Log Queries by 100x and Cut Resource Use by 90%](https://dev.to/observabilityguy/introducing-sls-materialized-views-accelerate-large-scale-log-queries-by-100x-and-cut-resource-use-1681)
+- [What is an API? Complete Beginner&#39;s Guide](https://dev.to/theodoresummer/what-is-an-api-complete-beginners-guide-2ag8)
+- [What is the average salary for an AWS Cloud Practitioner?](https://dev.to/stack_overflowed/what-is-the-average-salary-for-an-aws-cloud-practitioner-26h0)
+- [How I Built an Offline-First Sync Engine for Flutter Apps](https://dev.to/hostspica/how-i-built-an-offline-first-sync-engine-for-flutter-apps-4l8a)
+- [Guia Completo de Skills: Do Conceito à Prática](https://dev.to/captaincc/guia-completo-de-skills-do-conceito-a-pratica-56hm)
+- [Ma première réplication AmazonS3 : comment la réaliser en 5 minutes !](https://dev.to/franklin_kabisayi/ma-premiere-replication-amazons3-comment-la-realiser-en-5-minutes--4nck)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
