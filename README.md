@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Nobody Taught You the Function Philosophy. Let Me Fix That.](https://dev.to/thomijasir/nobody-taught-you-the-function-philosophy-let-me-fix-that-293i)
-- [AI writes code fast, but it&#39;s missing structure. So I built a methodology layer.](https://dev.to/ilom/ai-writes-code-fast-but-its-missing-structure-so-i-built-a-methodology-layer-2mli)
-- [How I Structure Every Laravel REST API Project](https://dev.to/polash/how-i-structure-every-laravel-rest-api-project-33n1)
-- [Protocol Launcher Series: One-Click CodeBuddy Development Experience](https://dev.to/zhensherlock/protocol-launcher-series-one-click-codebuddy-development-experience-1jn)
-- [Predicting the Unpredictable: A Startup&#39;s Guide to Intelligent Demand Forecasting](https://dev.to/millietechinsights/predicting-the-unpredictable-a-startups-guide-to-intelligent-demand-forecasting-d70)
+- [Browser Automation Built for Agents](https://dev.to/steeldotdev/browser-automation-built-for-agents-5gp2)
+- [Why AI Might Be the WORST Thing That Could Have Happened to Us](https://dev.to/al-sori/why-ai-might-be-the-worst-thing-that-could-have-happened-to-us-j1o)
+- [I Built a Real-Time SEO Linter That Lives Inside Your React App 🔍](https://dev.to/harutyunyan/-i-built-a-real-time-seo-linter-that-lives-inside-your-react-app-nd5)
+- [Day 2: I Didn&#39;t Write Any Code Today &lpar;And That&#39;s the Point&rpar;](https://dev.to/brook94/day-2-i-didnt-write-any-code-today-and-thats-the-point-1bg3)
+- [I Stopped Claude Code From Breaking My Projects. Here&#39;s the Exact Setup](https://dev.to/creatman/i-stopped-claude-code-from-breaking-my-projects-heres-the-exact-setup-1agi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
