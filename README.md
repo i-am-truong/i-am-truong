@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Sound Field: How Disco Explains The Bad Bunny Controversy](https://dev.to/music_youtube/sound-field-how-disco-explains-the-bad-bunny-controversy-389f)
-- [The Hidden Cost Layers of EC2 &lpar;And Why Stopped Instances Still Drain Your Budget&rpar;](https://dev.to/cloudwiseteam/the-hidden-cost-layers-of-ec2-and-why-stopped-instances-still-drain-your-budget-5bmf)
-- [Introducing Maester](https://dev.to/lei_ye_2cc01a0af9e8260e/introducing-maester-the-knowledge-engine-of-your-company-h22)
-- [The Age of AI Isn&#39;t About Replacement. It&#39;s About Relevance](https://dev.to/leolanese/the-age-of-ai-isnt-about-replacement-its-about-relevance-133p)
-- [How QR Code Works .....](https://dev.to/praveensk/how-qr-code-works--4o28)
+- [Debugging a 400 Error in Sign in with Apple Token Exchange](https://dev.to/devsnake/debugging-a-400-error-in-sign-in-with-apple-token-exchange-4aoj)
+- [Reachy Mini Not Speaking](https://dev.to/krunal16c/reachy-mini-not-speaking-5dcc)
+- [How I Designed a Content Distribution Pipeline — 9 Content Types, 20+ Platforms, One Interactive Diagram](https://dev.to/osovsky/how-i-designed-a-content-distribution-pipeline-9-content-types-20-platforms-one-interactive-lef)
+- [How to Build Website Uptime Monitoring in 10 Minutes &lpar;Free, No Dependencies&rpar;](https://dev.to/robocular/how-to-build-website-uptime-monitoring-in-10-minutes-free-no-dependencies-2ofb)
+- [How I applied SOLID principles and Interface patterns in AL to build an AppSource-ready BC extension](https://dev.to/yahyatouil/how-i-applied-solid-principles-and-interface-patterns-in-al-to-build-an-appsource-ready-bc-extension-9ep)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
