@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Edge AI&#39;s Silent Killer: The Observability Gap in Full-Duplex Fidelity](https://dev.to/sovereignrevenueguard/edge-ais-silent-killer-the-observability-gap-in-full-duplex-fidelity-4d8l)
-- [Free Public IP API — No Key, No Signup, No Rate Limits &lpar;ipify Alternative&rpar;](https://dev.to/ozorown/free-public-ip-api-no-key-no-signup-no-rate-limits-ipify-alternative-3lpj)
-- [How I Prepared for PM Interviews](https://dev.to/emily_davis_6bf6e94308541/how-i-prepared-for-pm-interviews-e05)
-- [Deep Dive: Resolving DNS Issues with GitHub and Understanding SSH vs HTTPS](https://dev.to/cynthia-cycy/deep-dive-resolving-dns-issues-with-github-and-understanding-ssh-vs-https-4bom)
-- [How I Built a Chrome Extension to Extract ChatGPT Search Queries](https://dev.to/pavan_am_a8b37b51bf1357b/how-i-built-a-chrome-extension-to-extract-chatgpt-search-queries-3oo5)
+- [Is SaaS Dead?](https://dev.to/cyclr/is-saas-dead-3044)
+- [Why CRAG is the Evolutionary Leap RAG Has Been Waiting For](https://dev.to/ruchika_bhat_876f8530fa3b/why-crag-is-the-evolutionary-leap-rag-has-been-waiting-for-1d3h)
+- [Why Every Terraform Module Needs Proper Validation](https://dev.to/haitmg/why-every-terraform-module-needs-proper-validation-24bp)
+- [Runs vs. Threads: When to Use Which](https://dev.to/vhalasi/runs-vs-threads-when-to-use-which-3e58)
+- [Multiple Deployments, One Config File](https://dev.to/vhalasi/multiple-deployments-one-config-file-2757)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
