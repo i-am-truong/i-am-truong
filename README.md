@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built the Missing Layer Between A2A and MCP — Here&#39;s How NEXUS Coordinates AI Agents](https://dev.to/francosimon53/i-built-the-missing-layer-between-a2a-and-mcp-heres-how-nexus-coordinates-ai-agents-51j7)
-- [Apache Data Lakehouse Weekly: February 26 – March 5, 2026](https://dev.to/alexmercedcoder/apache-data-lakehouse-weekly-february-26-march-5-2026-3ni1)
-- [&quot;Marketing Attribution Models: A Developer&#39;s Guide to Knowing What Actually Works&quot;](https://dev.to/andreashatlem/marketing-attribution-models-a-developers-guide-to-knowing-what-actually-works-4bj2)
-- [&quot;GDPR Cookie Consent Implementation: What Most Developers Get Wrong &lpar;and How to Fix It&rpar;&quot;](https://dev.to/andreashatlem/gdpr-cookie-consent-implementation-what-most-developers-get-wrong-and-how-to-fix-it-1jpl)
-- [AI Code Velocity vs. Security Reality: Copilot Scale, Drupal Patch Discipline, and Identity-Aware Defense](https://dev.to/victorstackai/ai-code-velocity-vs-security-reality-copilot-scale-drupal-patch-discipline-and-identity-aware-3nk5)
+- [How to Build a Broken Link Checker in JavaScript &lpar;Free API&rpar;](https://dev.to/robocular/how-to-build-a-broken-link-checker-in-javascript-free-api-1400)
+- [Why is my CDN slow? Bypassing the 10MB Compression Limit on AWS CloudFront](https://dev.to/felipecarrillo100/why-is-my-cdn-slow-bypassing-the-10mb-compression-limit-on-aws-cloudfront-1okn)
+- [I built a DocSend competitor in weeks using Claude Code](https://dev.to/robertatkinson3570/i-built-a-docsend-competitor-in-weeks-using-claude-code-i69)
+- [I Let AI Handle 80% of My Email Responses for 30 Days. Here is What Happened.](https://dev.to/andreashatlem/i-let-ai-handle-80-of-my-email-responses-for-30-days-here-is-what-happened-53c8)
+- [How to Verify Email Addresses in JavaScript &lpar;Without Sending Emails&rpar;](https://dev.to/robocular/how-to-verify-email-addresses-in-javascript-without-sending-emails-18b4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
