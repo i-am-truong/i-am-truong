@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Questions about building multimodal agents? The Google team might just have an answer for you!](https://dev.to/devteam/questions-about-building-multimodal-agents-the-google-team-might-just-have-an-answer-for-you-e1j)
-- [CVE-2026-30241: CVE-2026-30241: Missing Query Depth Validation in Mercurius GraphQL Subscriptions](https://dev.to/cverports/cve-2026-30241-cve-2026-30241-missing-query-depth-validation-in-mercurius-graphql-subscriptions-4bia)
-- [watch — underrated Linux command](https://dev.to/odmikes/watch-underrated-linux-command-1oe5)
-- [Your AI Therapist Is Not Bound by HIPAA — And That&#39;s a Crisis](https://dev.to/tiamatenity/your-ai-therapist-is-not-bound-by-hipaa-and-thats-a-crisis-1jik)
-- [I got tired of clunky font menus, so I built a blazing-fast local font explorer &lpar;Zero Tracking&rpar;](https://dev.to/fady_helmey_7dce3c4eb4aa4/i-got-tired-of-clunky-font-menus-so-i-built-a-blazing-fast-local-font-explorer-zero-tracking-1d2p)
+- [Building a JSON Formatter: Zero-Click Auto-Format and the Clipboard API Trap](https://dev.to/tommy_worklab/building-a-json-formatter-zero-click-auto-format-and-the-clipboard-api-trap-n9i)
+- [I Searched for a Skitch Alternative, Then Built One in a Day — A PWA Image Annotation Tool](https://dev.to/tommy_worklab/i-searched-for-a-skitch-alternative-then-built-one-in-a-day-a-pwa-image-annotation-tool-hbj)
+- [Claude Code + Obsidian: Turn AI Conversations into a Persistent Knowledge Base](https://dev.to/tommy_worklab/claude-code-obsidian-turn-ai-conversations-into-a-persistent-knowledge-base-4l29)
+- [Palantir&#39;s Secret Weapon Isn&#39;t AI — It&#39;s Ontology. Here&#39;s Why Engineers Should Care.](https://dev.to/s3atoshi_leading_ai/palantirs-secret-weapon-isnt-ai-its-ontology-heres-why-engineers-should-care-kk8)
+- [I built guardrails for AI coding agents — same governance principle, new domain](https://dev.to/irrindar/i-built-guardrails-for-ai-coding-agents-same-governance-principle-new-domain-28j3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
