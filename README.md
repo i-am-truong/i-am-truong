@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mental Models a Senior Engineering Leader Uses and How to Know When You’re Using the Wrong One](https://dev.to/tawe/mental-models-a-senior-engineering-leader-uses-and-how-to-know-when-youre-using-the-wrong-one-58ln)
-- [SOLID Principles with C#](https://dev.to/allcoderthings/solid-principles-with-c-lp0)
-- [From Nostalgia to Code - Building a MU Online Server in Rust](https://dev.to/douglasmakey/from-nostalgia-to-code-building-a-mu-online-server-in-rust-391h)
-- [The GitOps Standard in 2026: A Comparative Analysis of ArgoCD and FluxCD](https://dev.to/mechcloud_academy/the-gitops-standard-in-2026-a-comparative-research-analysis-of-argocd-and-fluxcd-46d8)
-- [Why I Built a Reverse-CAPTCHA That Verifies AI Agents, Not Humans](https://dev.to/leo_pechnicki/why-i-built-a-reverse-captcha-that-verifies-ai-agents-not-humans-2jbi)
+- [The GDPR Fine You Don&#39;t Know You&#39;re Accumulating: Why Every LLM API Call Is a Compliance Event](https://dev.to/tiamatenity/the-gdpr-fine-you-dont-know-youre-accumulating-why-every-llm-api-call-is-a-compliance-event-heb)
+- [How to build a pnpm monorepo, the right way](https://dev.to/ishchhabra/how-to-build-a-pnpm-monorepo-the-right-way-43d3)
+- [Evaluating LLM Models in GitHub Copilot. A Practical Scoring and Assessment Guide](https://dev.to/pwd9000/evaluating-llm-models-in-github-copilot-a-practical-scoring-and-assessment-guide-1f23)
+- [How I Built a Visioryx Forensic Engine with FastAPI and BLIP 🛡️](https://dev.to/yousafk279/how-i-built-a-visioryx-forensic-engine-with-fastapi-and-blip-3kbh)
+- [March 19 - Women in AI Meetup](https://dev.to/voxel51/march-19-women-in-ai-meetup-1bd7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
