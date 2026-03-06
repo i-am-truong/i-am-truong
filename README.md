@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Navidrome vs Emby: Which Music Server Should You Self-Host?](https://dev.to/selfhostingsh/navidrome-vs-emby-which-music-server-should-you-self-host-4ppj)
-- [Why Kubernetes Isn’t Just Another Buzzword](https://dev.to/574n13y/why-kubernetes-isnt-just-another-buzzword-53kh)
-- [How to Add PII Scrubbing to Your MCP Server &lpar;Before Guest Data Hits Any AI Provider&rpar;](https://dev.to/tiamatenity/how-to-add-pii-scrubbing-to-your-mcp-server-before-guest-data-hits-any-ai-provider-kan)
-- [I Built E2E Encrypted AI Proxying Using X25519 and SealedBox — Here&#39;s How](https://dev.to/tiamatenity/i-built-e2e-encrypted-ai-proxying-using-x25519-and-sealedbox-heres-how-2ffa)
-- [The UK Tech Career Switch Guide Nobody Told You About &lpar;2026 Edition&rpar;](https://dev.to/kelvin_godson_d687b3c1d39/the-uk-tech-career-switch-guide-nobody-told-you-about-2026-edition-1l5e)
+- [Docker key terms simplified](https://dev.to/jaboarnoldlandry/docker-key-terms-simplified-31c6)
+- [How I Built an Animated Circle Progress Component Using FSCSS &lpar;No JavaScript&rpar;](https://dev.to/fscss-ttr/how-i-built-an-animated-circle-progress-component-using-fscss-no-javascript-18o4)
+- [I Found an Open-Source AI Agent That Runs on Your Laptop and Talks Through Telegram, Discord, and WhatsApp](https://dev.to/dsharma08k/i-found-an-open-source-ai-agent-that-runs-on-your-laptop-and-talks-through-telegram-discord-and-17kl)
+- [Join the 2026 WeCoded Challenge and Celebrate Underrepresented Voices in Tech Through Writing &amp; Frontend Art 🎨!](https://dev.to/devteam/join-the-2026-wecoded-challenge-and-celebrate-underrepresented-voices-in-tech-through-writing--4828)
+- [How Memory Actually Works in Programming &lpar;No Jargon, Just Clarity&rpar;](https://dev.to/trace_dynamics_a0720be946/how-memory-actually-works-in-programming-no-jargon-just-clarity-4eck)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
