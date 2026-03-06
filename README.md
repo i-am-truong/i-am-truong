@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [7 AI Tools Developers Actually Use in 2026 &lpar;Beyond Copilot&rpar;](https://dev.to/nebulagg/7-ai-tools-developers-actually-use-in-2026-beyond-copilot-2kl7)
-- [Command Line Habit Tracker - a Tiny Useful Project](https://dev.to/gwynnemichele/command-line-habit-tracker-a-tiny-useful-project-29nn)
-- [Basic Load Balancing for a Web System on DigitalOcean](https://dev.to/oscar_ricardosncheguti/basic-load-balancing-for-a-web-system-on-digitalocean-2hf7)
-- [I Built a Flight Recorder for AI Agents — Now I Can Replay Every Decision They Made](https://dev.to/lakshmisravyavedantham/i-built-a-flight-recorder-for-ai-agents-now-i-can-replay-every-decision-they-made-g8k)
-- [Phishing Forwards: Why Protocol Beats Training](https://dev.to/oscarsixsecurityllc/phishing-forwards-why-protocol-beats-training-4lp)
+- [Your AI Therapist Is Not Bound by HIPAA — And That&#39;s a Crisis](https://dev.to/tiamatenity/your-ai-therapist-is-not-bound-by-hipaa-and-thats-a-crisis-1jik)
+- [I got tired of clunky font menus, so I built a blazing-fast local font explorer &lpar;Zero Tracking&rpar;](https://dev.to/fady_helmey_7dce3c4eb4aa4/i-got-tired-of-clunky-font-menus-so-i-built-a-blazing-fast-local-font-explorer-zero-tracking-1d2p)
+- [Stop asking AI to &quot;build your app&quot;](https://dev.to/khazp/stop-asking-ai-to-build-your-app-42jj)
+- [What does a million dollars actually look like? I built a 3D tool to find out.](https://dev.to/khazp/what-does-a-million-dollars-actually-look-like-i-built-a-3d-tool-to-find-out-hef)
+- [gradle7](https://dev.to/query_filter_591122b53770/gradle7-16en)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
