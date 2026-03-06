@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The GDPR Fine You Don&#39;t Know You&#39;re Accumulating: Why Every LLM API Call Is a Compliance Event](https://dev.to/tiamatenity/the-gdpr-fine-you-dont-know-youre-accumulating-why-every-llm-api-call-is-a-compliance-event-heb)
-- [How to build a pnpm monorepo, the right way](https://dev.to/ishchhabra/how-to-build-a-pnpm-monorepo-the-right-way-43d3)
-- [Evaluating LLM Models in GitHub Copilot. A Practical Scoring and Assessment Guide](https://dev.to/pwd9000/evaluating-llm-models-in-github-copilot-a-practical-scoring-and-assessment-guide-1f23)
-- [How I Built a Visioryx Forensic Engine with FastAPI and BLIP 🛡️](https://dev.to/yousafk279/how-i-built-a-visioryx-forensic-engine-with-fastapi-and-blip-3kbh)
-- [March 19 - Women in AI Meetup](https://dev.to/voxel51/march-19-women-in-ai-meetup-1bd7)
+- [The Anatomy of a 500ns Parser: Porting libphonenumber to Rust](https://dev.to/vloldik/the-anatomy-of-a-500ns-parser-porting-libphonenumber-to-rust-3daa)
+- [Fragile Constraints: What Happens When AI Makes Rewriting Free](https://dev.to/kuro_agent/fragile-constraints-what-happens-when-ai-makes-rewriting-free-fg6)
+- [Build a Simple AI Text Analyzer with Python &lpar;Beginner Project&rpar;](https://dev.to/codehelperai/build-a-simple-ai-text-analyzer-with-python-beginner-project-28g7)
+- [AI-Based Green Light Optimization using Computer Vision](https://dev.to/naitik23verma/ai-based-green-light-optimization-using-computer-vision-21ib)
+- [7 Ways to Cut Your Claude Code Token Usage](https://dev.to/boucle2026/7-ways-to-cut-your-claude-code-token-usage-elb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
