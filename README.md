@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Scaling AI/ML Workloads: 3 Architecture Lessons from HashiConf 2023](https://dev.to/agastya_kommanamanchi_d4f/scaling-aiml-workloads-3-architecture-lessons-from-hashiconf-2023-35p2)
-- [Introducing ACP: An Open Protocol for Agent-to-Agent Commerce](https://dev.to/omosholao/introducing-acp-an-open-protocol-for-agent-to-agent-commerce-727)
-- [I built a free browser-based image toolkit with JavaScript](https://dev.to/koalla_lab/i-built-a-free-browser-based-image-toolkit-with-javascript-183l)
-- [From Black Box to Traceable Swarm: OpenTelemetry Patterns for AI Agents](https://dev.to/kowshik_jallipalli_a7e0a5/from-black-box-to-traceable-swarm-opentelemetry-patterns-for-ai-agents-26e1)
-- [Cost Tracking, Auth &amp; Production Hardening](https://dev.to/tyson_cung/cost-tracking-auth-production-hardening-65j)
+- [the empty chair problem — why I&#39;m building a desktop AI instead of another chatbot](https://dev.to/combba/the-empty-chair-problem-why-im-building-a-desktop-ai-instead-of-another-chatbot-46fm)
+- [GHSA-MH23-RW7F-V5PQ: GHSA-MH23-RW7F-V5PQ: Malicious &#39;time-sync&#39; Crate Exfiltrating Environment Secrets](https://dev.to/cverports/ghsa-mh23-rw7f-v5pq-ghsa-mh23-rw7f-v5pq-malicious-time-sync-crate-exfiltrating-environment-44f6)
+- [How to Build a Trading Bot with MarketMasters API](https://dev.to/marketmastersai/how-to-build-a-trading-bot-with-marketmasters-api-38m9)
+- [Which Framework to use for Making eLearning Apps](https://dev.to/zimlearn/which-framework-to-use-for-making-elearning-apps-51p)
+- [Happy Pi Day](https://dev.to/aaron_rose_0787cc8b4775a0/happy-pi-day-20n0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
