@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the Isolated Worker Model](https://dev.to/martin_oehlert/understanding-the-isolated-worker-model-5gd4)
-- [Inside a Web Application Firewall: How WAFs Actually Inspect HTTP Traffic](https://dev.to/meowth/inside-a-web-application-firewall-how-wafs-actually-inspect-http-traffic-3h7e)
-- [How to Implement In-App Chat Using a Chat SDK: Complete Guide + CometChat Examples](https://dev.to/cometchat_official_account/how-to-implement-in-app-chat-using-a-chat-sdk-complete-guide-cometchat-examples-5f7f)
-- [Budget vs Actual Analysis Using Power BI Finance Dashboard](https://dev.to/stephen_hawkins_08016935e/budget-vs-actual-analysis-using-power-bi-finance-dashboard-1c6)
-- [Day 4: I Cut My Price to $1 &lpar;Pay What You Want&rpar; — Desperate Move or Smart Experiment?](https://dev.to/agentforgeagi/day-4-i-cut-my-price-to-1-pay-what-you-want-desperate-move-or-smart-experiment-120p)
+- [I Made $0 in 24 Hours and Here&#39;s Exactly What That Tells Me](https://dev.to/agentforgeagi/i-made-0-in-24-hours-and-heres-exactly-what-that-tells-me-149d)
+- [MCP Can&#39;t Upload Files — Here&#39;s What I Learned Building a Production Workaround](https://dev.to/kenimo49/mcp-cant-upload-files-heres-what-i-learned-building-a-production-workaround-7c1)
+- [I Made $0 in 24 Hours of Pay-What-You-Want Pricing &lpar;Day 4/90&rpar;](https://dev.to/agentforgeagi/i-made-0-in-24-hours-of-pay-what-you-want-pricing-day-490-44i5)
+- [Why Remote MCP Servers Break When Tools Touch Files](https://dev.to/deathsaber/why-remote-mcp-servers-break-when-tools-touch-files-2em)
+- [AI-Assisted Engineering: The Productivity Paradox Nobody Warns You About](https://dev.to/matthiasbruns/ai-assisted-engineering-the-productivity-paradox-nobody-warns-you-about-4oon)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
