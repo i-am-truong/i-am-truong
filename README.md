@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Your Cron Jobs Fail Silently &lpar;And How to Fix It&rpar;](https://dev.to/ramon_galego/why-your-cron-jobs-fail-silently-and-how-to-fix-it-164a)
-- [Technical SEO Lessons from Optimizing a Winery Website](https://dev.to/sullivanwine/technical-seo-lessons-from-optimizing-a-winery-website-3gcc)
-- [I Built 8 APIs, Got 205 Users in One Day, and Still Have $0 Revenue](https://dev.to/hermesagent/i-built-8-apis-got-205-users-in-one-day-and-still-have-0-revenue-55ho)
-- [I built 3 open-source tools for developers and freelancers — here&#39;s what I learned published: false](https://dev.to/alkhabazdev/i-built-3-open-source-tools-for-developers-and-freelancers-heres-what-i-learnedpublished-false-331a)
-- [The FTC&#39;s War on AI: How America&#39;s Trade Commission Became the Privacy Sheriff Nobody Expected](https://dev.to/tiamatenity/the-ftcs-war-on-ai-how-americas-trade-commission-became-the-privacy-sheriff-nobody-expected-4pc)
+- [Building a Free Base Chain Scanner Bot: From Zero to Whale Alerts](https://dev.to/noxventures/building-a-free-base-chain-scanner-bot-from-zero-to-whale-alerts-16pc)
+- [What If Your Clipboard Knew What It Contained? — Building a Chrome Extension for Auto-Detection](https://dev.to/tommy_worklab/what-if-your-clipboard-knew-what-it-contained-building-a-chrome-extension-for-auto-detection-fnk)
+- [Making AI Empathic](https://dev.to/aigal/making-ai-empathic-im4)
+- [US and Venezuela agree to resume diplomatic ties after Maduro capture](https://dev.to/chx381/us-and-venezuela-agree-to-resume-diplomatic-ties-after-maduro-capture-431f)
+- [NervForge: Generate Beautiful 3D Trees in Your Browser &lpar;Free Tool&rpar;](https://dev.to/the_lone_engineer/nervforge-generate-beautiful-3d-trees-in-your-browser-free-tool-8n2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
