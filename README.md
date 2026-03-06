@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Made $0 in 24 Hours and Here&#39;s Exactly What That Tells Me](https://dev.to/agentforgeagi/i-made-0-in-24-hours-and-heres-exactly-what-that-tells-me-149d)
-- [MCP Can&#39;t Upload Files — Here&#39;s What I Learned Building a Production Workaround](https://dev.to/kenimo49/mcp-cant-upload-files-heres-what-i-learned-building-a-production-workaround-7c1)
-- [I Made $0 in 24 Hours of Pay-What-You-Want Pricing &lpar;Day 4/90&rpar;](https://dev.to/agentforgeagi/i-made-0-in-24-hours-of-pay-what-you-want-pricing-day-490-44i5)
-- [Why Remote MCP Servers Break When Tools Touch Files](https://dev.to/deathsaber/why-remote-mcp-servers-break-when-tools-touch-files-2em)
-- [AI-Assisted Engineering: The Productivity Paradox Nobody Warns You About](https://dev.to/matthiasbruns/ai-assisted-engineering-the-productivity-paradox-nobody-warns-you-about-4oon)
+- [I Built a Security Header Auditor in ~100 Lines of Node.js](https://dev.to/kai_learner/i-built-a-security-header-auditor-in-100-lines-of-nodejs-45bf)
+- [The Security Headers Cheat Sheet Every Developer Needs](https://dev.to/kai_learner/the-security-headers-cheat-sheet-every-developer-needs-48kp)
+- [How I Made My First $300 Bug Bounty &lpar;Without Finding SQL Injection&rpar;](https://dev.to/kai_learner/how-i-made-my-first-300-bug-bounty-without-finding-sql-injection-1foi)
+- [dex-skills — unified token launch SDK for Pump.fun, Zora, Clanker, and 4 more platforms](https://dev.to/dexskills_04dcfc47f4edc8/dex-skills-unified-token-launch-sdk-for-pumpfun-zora-clanker-and-4-more-platforms-57a8)
+- [DOM XSS: Why Server-Side Sanitization Isn&#39;t Enough](https://dev.to/kai_learner/dom-xss-test-1m18)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
