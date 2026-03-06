@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Git Pre-commit Magic: Stop Leaking API Keys from Your Mac](https://dev.to/mazharul/git-pre-commit-magic-stop-leaking-api-keys-from-your-mac-20nc)
-- [Building an AI-Powered Revenue Recovery Engine for SaaS 🚀 &lpar;Next.js 15 + Gemini 2.0&rpar;](https://dev.to/ezekielreu6/building-an-ai-powered-revenue-recovery-engine-for-saas-nextjs-15-gemini-20-427)
-- [scrollbar-gutter to the rescue](https://dev.to/hrgdavor/scrollbar-gutter-to-the-rescue-30hm)
-- [Developer in the Age of AI](https://dev.to/xiaoguang_/developer-in-the-age-of-ai-53dl)
-- [Stop Letting Your AI Agent Read the entire Repo: Introducing trail-docs](https://dev.to/silicon_zee/stop-letting-your-ai-agent-read-the-entire-repo-introducing-trail-docs-321k)
+- [Tenant Landing Page Optimization: Caching for Performance](https://dev.to/geanruca/tenant-landing-page-optimization-caching-for-performance-18nf)
+- [I ran a privacy proxy on my AI traffic. Here&#39;s what it found.](https://dev.to/ubcent/i-ran-a-privacy-proxy-on-my-ai-traffic-heres-what-it-found-4dbo)
+- [How I Built a Privacy-First, Automated Tech News Aggregator in PHP &lpar;And Why I Ditched the Heavy Frameworks&rpar;](https://dev.to/donpolanco/how-i-built-a-privacy-first-automated-tech-news-aggregator-in-php-and-why-i-ditched-the-heavy-3ipd)
+- [OpenAI GPT-5.4 Complete Guide: Benchmarks, Use Cases, Pricing, API, and GPT-5.4 Pro Comparison](https://dev.to/umesh_malik/openai-gpt-54-complete-guide-benchmarks-use-cases-pricing-api-and-gpt-54-pro-comparison-m8k)
+- [How Teams Integrate Stablecoin Rails Without Rewriting Their Platform](https://dev.to/flutterwaveeng/how-teams-integrate-stablecoin-rails-without-rewriting-their-platform-20fl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
