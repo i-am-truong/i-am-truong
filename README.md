@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Broken Link Checker in JavaScript &lpar;Free API&rpar;](https://dev.to/robocular/how-to-build-a-broken-link-checker-in-javascript-free-api-1400)
-- [Why is my CDN slow? Bypassing the 10MB Compression Limit on AWS CloudFront](https://dev.to/felipecarrillo100/why-is-my-cdn-slow-bypassing-the-10mb-compression-limit-on-aws-cloudfront-1okn)
-- [I built a DocSend competitor in weeks using Claude Code](https://dev.to/robertatkinson3570/i-built-a-docsend-competitor-in-weeks-using-claude-code-i69)
-- [I Let AI Handle 80% of My Email Responses for 30 Days. Here is What Happened.](https://dev.to/andreashatlem/i-let-ai-handle-80-of-my-email-responses-for-30-days-here-is-what-happened-53c8)
-- [How to Verify Email Addresses in JavaScript &lpar;Without Sending Emails&rpar;](https://dev.to/robocular/how-to-verify-email-addresses-in-javascript-without-sending-emails-18b4)
+- [Scaling AI/ML Workloads: 3 Architecture Lessons from HashiConf 2023](https://dev.to/agastya_kommanamanchi_d4f/scaling-aiml-workloads-3-architecture-lessons-from-hashiconf-2023-35p2)
+- [Introducing ACP: An Open Protocol for Agent-to-Agent Commerce](https://dev.to/omosholao/introducing-acp-an-open-protocol-for-agent-to-agent-commerce-727)
+- [I built a free browser-based image toolkit with JavaScript](https://dev.to/koalla_lab/i-built-a-free-browser-based-image-toolkit-with-javascript-183l)
+- [From Black Box to Traceable Swarm: OpenTelemetry Patterns for AI Agents](https://dev.to/kowshik_jallipalli_a7e0a5/from-black-box-to-traceable-swarm-opentelemetry-patterns-for-ai-agents-26e1)
+- [Cost Tracking, Auth &amp; Production Hardening](https://dev.to/tyson_cung/cost-tracking-auth-production-hardening-65j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
