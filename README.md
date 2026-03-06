@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Let&#39;s build an invoice assistant in Workspace Studio](https://dev.to/googleworkspace/lets-build-an-invoice-assistant-in-workspace-studio-3pmn)
+- [How to Convert Word to TIFF with Java](https://dev.to/leondavis1991/how-to-convert-word-to-tiff-with-java-6m8)
+- [I built a water reminder plugin for JetBrains and VS Code — here&#39;s how and why](https://dev.to/f3dc4r/i-built-a-water-reminder-plugin-for-jetbrains-and-vs-code-heres-how-and-why-1ac9)
+- [GPT-5.4 dropped. The hype isn&#39;t fully justified, but the shift is real](https://dev.to/larsniet/gpt-54-dropped-the-hype-isnt-fully-justified-but-the-shift-is-real-2303)
 - [Next.js Weekly #120: Drizzle joins PlanetScale, Prisma Next, Better Auth 1.5, react-doctor, next-md-negotiate, Vercel Queues](https://dev.to/erfanebrahimnia/nextjs-weekly-120-drizzle-joins-planetscale-prisma-next-better-auth-15-react-doctor-4oeg)
-- [I Reviewed 100+ Indian Engineer Resumes. Here Are the 7 Mistakes Killing Your US Job Applications](https://dev.to/forge_b4e4b2cff010/i-reviewed-100-indian-engineer-resumes-here-are-the-7-mistakes-killing-your-us-job-applications-2mi9)
-- [Frontend in Commercial Development: First 6 Months, Expectations vs Reality](https://dev.to/byteminds/frontend-in-commercial-development-first-6-months-expectations-vs-reality-a49)
-- [I Shipped 126 Tests Last Month. Here&#39;s the AI Workflow That Got Me There.](https://dev.to/vipin_singh_701b96b0df516/i-shipped-126-tests-last-month-heres-the-ai-workflow-that-got-me-there-bb4)
-- [PDF Export for Resume Builders Without Hosting Puppeteer](https://dev.to/opspawn/pdf-export-for-resume-builders-without-hosting-puppeteer-34h9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
