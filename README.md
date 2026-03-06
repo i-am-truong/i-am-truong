@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why the web doesn&#39;t need humans anymore](https://dev.to/jayfox_8873/why-the-web-doesnt-need-humans-anymore-4jea)
-- [How Much VRAM Do You Need to Fine-Tune an LLM? Stop Guessing and Use This Tool.](https://dev.to/wick229/how-much-vram-do-you-need-to-fine-tune-an-llm-stop-guessing-and-use-this-tool-338g)
-- [Two ways to Greatly Enhance Webflow for Real Business Value](https://dev.to/devced/two-ways-to-greatly-enhance-webflow-for-real-business-value-2744)
-- [WebMCP: A Web Standard for AI Agents](https://dev.to/pwnedbyme/webmcp-a-web-standard-for-ai-agents-il2)
-- [ChatGPT Desktop Client for Linux](https://dev.to/jfscoertzen/chatgpt-desktop-client-for-linux-28al)
+- [Git Pre-commit Magic: Stop Leaking API Keys from Your Mac](https://dev.to/mazharul/git-pre-commit-magic-stop-leaking-api-keys-from-your-mac-20nc)
+- [Building an AI-Powered Revenue Recovery Engine for SaaS 🚀 &lpar;Next.js 15 + Gemini 2.0&rpar;](https://dev.to/ezekielreu6/building-an-ai-powered-revenue-recovery-engine-for-saas-nextjs-15-gemini-20-427)
+- [scrollbar-gutter to the rescue](https://dev.to/hrgdavor/scrollbar-gutter-to-the-rescue-30hm)
+- [Developer in the Age of AI](https://dev.to/xiaoguang_/developer-in-the-age-of-ai-53dl)
+- [Stop Letting Your AI Agent Read the entire Repo: Introducing trail-docs](https://dev.to/silicon_zee/stop-letting-your-ai-agent-read-the-entire-repo-introducing-trail-docs-321k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
