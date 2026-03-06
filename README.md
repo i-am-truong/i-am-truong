@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Security Header Auditor in ~100 Lines of Node.js](https://dev.to/kai_learner/i-built-a-security-header-auditor-in-100-lines-of-nodejs-45bf)
-- [The Security Headers Cheat Sheet Every Developer Needs](https://dev.to/kai_learner/the-security-headers-cheat-sheet-every-developer-needs-48kp)
-- [How I Made My First $300 Bug Bounty &lpar;Without Finding SQL Injection&rpar;](https://dev.to/kai_learner/how-i-made-my-first-300-bug-bounty-without-finding-sql-injection-1foi)
-- [dex-skills — unified token launch SDK for Pump.fun, Zora, Clanker, and 4 more platforms](https://dev.to/dexskills_04dcfc47f4edc8/dex-skills-unified-token-launch-sdk-for-pumpfun-zora-clanker-and-4-more-platforms-57a8)
-- [DOM XSS: Why Server-Side Sanitization Isn&#39;t Enough](https://dev.to/kai_learner/dom-xss-test-1m18)
+- [Render LaTeX, Math &amp; Chemistry in React, React Native, Flutter — One Package](https://dev.to/sandipandassd/render-latex-math-chemistry-in-react-react-native-flutter-one-package-5cgp)
+- [I Replaced 6 WordPress Plugins With One — Here&#39;s What Happened](https://dev.to/wpmultitool/i-replaced-6-wordpress-plugins-with-one-heres-what-happened-1na9)
+- [Spring Boot Project Structure: Best Practices Used in Production🚀](https://dev.to/kamlesh_patil/spring-boot-project-structure-best-practices-used-in-production-4h85)
+- [The Observer&#39;s Trap: Why &#39;AI Safety&#39; Is an Oxymoron](https://dev.to/telegraph-stego/the-observers-trap-why-ai-safety-is-an-oxymoron-26e5)
+- [Squircle Mathematics Explorer [EN/PT Interactive]](https://dev.to/alansdead/squircle-mathematics-explorer-enpt-interactive-150l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
