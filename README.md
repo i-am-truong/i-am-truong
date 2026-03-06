@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Privacy-First Video Converter with WebAssembly](https://dev.to/jonathan_wallace_c6087363/building-a-privacy-first-video-converter-with-webassembly-4pi4)
-- [Minologue: Why I Started Building This Boring AI Application](https://dev.to/yasir_etc/minologue-why-i-started-building-this-boring-ai-application-3g98)
-- [I Put a 5MB Rust Binary Between My Code and Every LLM API — It Cut My Bill by 40%](https://dev.to/lakshmisravyavedantham/i-put-a-5mb-rust-binary-between-my-code-and-every-llm-api-it-cut-my-bill-by-40-1n51)
-- [How to Publish Your Browser Extension on the Chrome Web Store](https://dev.to/uncle_drew/how-to-publish-your-browser-extension-on-the-chrome-web-store-2kge)
-- [Archival Intelligence: A Forensic Rare Book Auditor](https://dev.to/kenwalger/archival-intelligence-a-forensic-rare-book-auditor-448)
+- [7 AI Tools Developers Actually Use in 2026 &lpar;Beyond Copilot&rpar;](https://dev.to/nebulagg/7-ai-tools-developers-actually-use-in-2026-beyond-copilot-2kl7)
+- [Command Line Habit Tracker - a Tiny Useful Project](https://dev.to/gwynnemichele/command-line-habit-tracker-a-tiny-useful-project-29nn)
+- [Basic Load Balancing for a Web System on DigitalOcean](https://dev.to/oscar_ricardosncheguti/basic-load-balancing-for-a-web-system-on-digitalocean-2hf7)
+- [I Built a Flight Recorder for AI Agents — Now I Can Replay Every Decision They Made](https://dev.to/lakshmisravyavedantham/i-built-a-flight-recorder-for-ai-agents-now-i-can-replay-every-decision-they-made-g8k)
+- [Phishing Forwards: Why Protocol Beats Training](https://dev.to/oscarsixsecurityllc/phishing-forwards-why-protocol-beats-training-4lp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
