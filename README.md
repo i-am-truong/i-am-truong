@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why We Don&#39;t Use Socket Connections for Everything](https://dev.to/rajat10/why-we-dont-use-socket-connections-for-everything-3j6g)
-- [Why is moving money from card to bank account so difficult? Building VZr0 to explore a simpler flow](https://dev.to/vzr0/why-is-moving-money-from-card-to-bank-account-so-difficult-building-vzr0-to-explore-a-simpler-flow-33m8)
-- [The Combinatorial Explosion Problem: Why Adding One Modifier Can Collapse Your Output Space](https://dev.to/velocityai/the-combinatorial-explosion-problem-why-adding-one-modifier-can-collapse-your-output-space-3e2h)
-- [One simple action will put you in the top 50% of respondents...](https://dev.to/canro91/one-simple-action-will-put-you-in-the-top-50-of-respondents-9a8)
-- [Free API: Look Up Any US Tariff Rate in Seconds](https://dev.to/archiekane/free-api-look-up-any-us-tariff-rate-in-seconds-4724)
+- [Mental Models a Senior Engineering Leader Uses and How to Know When You’re Using the Wrong One](https://dev.to/tawe/mental-models-a-senior-engineering-leader-uses-and-how-to-know-when-youre-using-the-wrong-one-58ln)
+- [SOLID Principles with C#](https://dev.to/allcoderthings/solid-principles-with-c-lp0)
+- [From Nostalgia to Code - Building a MU Online Server in Rust](https://dev.to/douglasmakey/from-nostalgia-to-code-building-a-mu-online-server-in-rust-391h)
+- [The GitOps Standard in 2026: A Comparative Analysis of ArgoCD and FluxCD](https://dev.to/mechcloud_academy/the-gitops-standard-in-2026-a-comparative-research-analysis-of-argocd-and-fluxcd-46d8)
+- [Why I Built a Reverse-CAPTCHA That Verifies AI Agents, Not Humans](https://dev.to/leo_pechnicki/why-i-built-a-reverse-captcha-that-verifies-ai-agents-not-humans-2jbi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
