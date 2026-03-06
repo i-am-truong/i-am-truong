@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Render LaTeX, Math &amp; Chemistry in React, React Native, Flutter — One Package](https://dev.to/sandipandassd/render-latex-math-chemistry-in-react-react-native-flutter-one-package-5cgp)
-- [I Replaced 6 WordPress Plugins With One — Here&#39;s What Happened](https://dev.to/wpmultitool/i-replaced-6-wordpress-plugins-with-one-heres-what-happened-1na9)
-- [Spring Boot Project Structure: Best Practices Used in Production🚀](https://dev.to/kamlesh_patil/spring-boot-project-structure-best-practices-used-in-production-4h85)
-- [The Observer&#39;s Trap: Why &#39;AI Safety&#39; Is an Oxymoron](https://dev.to/telegraph-stego/the-observers-trap-why-ai-safety-is-an-oxymoron-26e5)
-- [Squircle Mathematics Explorer [EN/PT Interactive]](https://dev.to/alansdead/squircle-mathematics-explorer-enpt-interactive-150l)
+- [Why the web doesn&#39;t need humans anymore](https://dev.to/jayfox_8873/why-the-web-doesnt-need-humans-anymore-4jea)
+- [How Much VRAM Do You Need to Fine-Tune an LLM? Stop Guessing and Use This Tool.](https://dev.to/wick229/how-much-vram-do-you-need-to-fine-tune-an-llm-stop-guessing-and-use-this-tool-338g)
+- [Two ways to Greatly Enhance Webflow for Real Business Value](https://dev.to/devced/two-ways-to-greatly-enhance-webflow-for-real-business-value-2744)
+- [WebMCP: A Web Standard for AI Agents](https://dev.to/pwnedbyme/webmcp-a-web-standard-for-ai-agents-il2)
+- [ChatGPT Desktop Client for Linux](https://dev.to/jfscoertzen/chatgpt-desktop-client-for-linux-28al)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
