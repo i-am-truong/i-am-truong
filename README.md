@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Docker key terms simplified](https://dev.to/jaboarnoldlandry/docker-key-terms-simplified-31c6)
-- [How I Built an Animated Circle Progress Component Using FSCSS &lpar;No JavaScript&rpar;](https://dev.to/fscss-ttr/how-i-built-an-animated-circle-progress-component-using-fscss-no-javascript-18o4)
-- [I Found an Open-Source AI Agent That Runs on Your Laptop and Talks Through Telegram, Discord, and WhatsApp](https://dev.to/dsharma08k/i-found-an-open-source-ai-agent-that-runs-on-your-laptop-and-talks-through-telegram-discord-and-17kl)
-- [Join the 2026 WeCoded Challenge and Celebrate Underrepresented Voices in Tech Through Writing &amp; Frontend Art 🎨!](https://dev.to/devteam/join-the-2026-wecoded-challenge-and-celebrate-underrepresented-voices-in-tech-through-writing--4828)
-- [How Memory Actually Works in Programming &lpar;No Jargon, Just Clarity&rpar;](https://dev.to/trace_dynamics_a0720be946/how-memory-actually-works-in-programming-no-jargon-just-clarity-4eck)
+- [Why We Don&#39;t Use Socket Connections for Everything](https://dev.to/rajat10/why-we-dont-use-socket-connections-for-everything-3j6g)
+- [Why is moving money from card to bank account so difficult? Building VZr0 to explore a simpler flow](https://dev.to/vzr0/why-is-moving-money-from-card-to-bank-account-so-difficult-building-vzr0-to-explore-a-simpler-flow-33m8)
+- [The Combinatorial Explosion Problem: Why Adding One Modifier Can Collapse Your Output Space](https://dev.to/velocityai/the-combinatorial-explosion-problem-why-adding-one-modifier-can-collapse-your-output-space-3e2h)
+- [One simple action will put you in the top 50% of respondents...](https://dev.to/canro91/one-simple-action-will-put-you-in-the-top-50-of-respondents-9a8)
+- [Free API: Look Up Any US Tariff Rate in Seconds](https://dev.to/archiekane/free-api-look-up-any-us-tariff-rate-in-seconds-4724)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
