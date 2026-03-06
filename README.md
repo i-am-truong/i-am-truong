@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Marcus Aurelius Was the First SRE &lpar;And His Meditations Is the Best Production Run book Ever Written&rpar;](https://dev.to/quantummanuals/marcus-aurelius-was-the-first-sre-and-his-meditations-is-the-best-production-run-book-ever-written-1ilp)
 - [How I Built a Rental Property Deal Analyzer with FastAPI and AI](https://dev.to/berkcankapusuzoglu/how-i-built-a-rental-property-deal-analyzer-with-fastapi-and-ai-285l)
 - [Building a Free Marketplace for Developers](https://dev.to/prince_sharma_spx/building-a-free-marketplace-for-developers-5go7)
 - [Understanding Word2Vec – Part 2: Converting Words into Neural Network Inputs](https://dev.to/rijultp/understanding-word2vec-part-2-converting-words-into-neural-network-inputs-2hn1)
 - [Not All Laziness Is Created Equal](https://dev.to/abeydev/not-all-laziness-is-created-equal-3g20)
-- [I Built a Free Resume Builder That Works 100% in Your Browser — Here&#39;s How](https://dev.to/srvmhptr/i-built-a-free-resume-builder-that-works-100-in-your-browser-heres-how-4jek)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
