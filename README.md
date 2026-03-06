@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Questions about building multimodal agents? The Google team might just have an answer for you!](https://dev.to/devteam/questions-about-building-multimodal-agents-the-google-team-might-just-have-an-answer-for-you-e1j)
+- [CVE-2026-30241: CVE-2026-30241: Missing Query Depth Validation in Mercurius GraphQL Subscriptions](https://dev.to/cverports/cve-2026-30241-cve-2026-30241-missing-query-depth-validation-in-mercurius-graphql-subscriptions-4bia)
+- [watch — underrated Linux command](https://dev.to/odmikes/watch-underrated-linux-command-1oe5)
 - [Your AI Therapist Is Not Bound by HIPAA — And That&#39;s a Crisis](https://dev.to/tiamatenity/your-ai-therapist-is-not-bound-by-hipaa-and-thats-a-crisis-1jik)
 - [I got tired of clunky font menus, so I built a blazing-fast local font explorer &lpar;Zero Tracking&rpar;](https://dev.to/fady_helmey_7dce3c4eb4aa4/i-got-tired-of-clunky-font-menus-so-i-built-a-blazing-fast-local-font-explorer-zero-tracking-1d2p)
-- [Stop asking AI to &quot;build your app&quot;](https://dev.to/khazp/stop-asking-ai-to-build-your-app-42jj)
-- [What does a million dollars actually look like? I built a 3D tool to find out.](https://dev.to/khazp/what-does-a-million-dollars-actually-look-like-i-built-a-3d-tool-to-find-out-hef)
-- [gradle7](https://dev.to/query_filter_591122b53770/gradle7-16en)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
