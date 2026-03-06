@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Let&#39;s build an invoice assistant in Workspace Studio](https://dev.to/googleworkspace/lets-build-an-invoice-assistant-in-workspace-studio-3pmn)
-- [How to Convert Word to TIFF with Java](https://dev.to/leondavis1991/how-to-convert-word-to-tiff-with-java-6m8)
-- [I built a water reminder plugin for JetBrains and VS Code — here&#39;s how and why](https://dev.to/f3dc4r/i-built-a-water-reminder-plugin-for-jetbrains-and-vs-code-heres-how-and-why-1ac9)
-- [GPT-5.4 dropped. The hype isn&#39;t fully justified, but the shift is real](https://dev.to/larsniet/gpt-54-dropped-the-hype-isnt-fully-justified-but-the-shift-is-real-2303)
-- [Next.js Weekly #120: Drizzle joins PlanetScale, Prisma Next, Better Auth 1.5, react-doctor, next-md-negotiate, Vercel Queues](https://dev.to/erfanebrahimnia/nextjs-weekly-120-drizzle-joins-planetscale-prisma-next-better-auth-15-react-doctor-4oeg)
+- [I Automated My Entire iOS Development Workflow. Here&#39;s the Exact Setup.](https://dev.to/__be2942592/i-automated-my-entire-ios-development-workflow-heres-the-exact-setup-6bn)
+- [Why I Stopped Using Storyboards and Never Looked Back &lpar;SwiftUI Changed Everything&rpar;](https://dev.to/__be2942592/why-i-stopped-using-storyboards-and-never-looked-back-swiftui-changed-everything-1lnh)
+- [Get your project on the map](https://dev.to/devsofmidnight/get-your-project-on-the-map-41ma)
+- [How We Monitor AI Agents in Real Time to Prevent Costly Mistakes](https://dev.to/jairo_junior_b5caf3172f89/how-we-monitor-ai-agents-in-real-time-to-prevent-costly-mistakes-2b4)
+- [Building a Production-Grade AI Agent Library: YAML Schemas, Composable Pipelines, and 6-Runtime Support](https://dev.to/kutlarov/building-a-production-grade-ai-agent-library-yaml-schemas-composable-pipelines-and-6-runtime-587m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
