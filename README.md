@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Anatomy of a 500ns Parser: Porting libphonenumber to Rust](https://dev.to/vloldik/the-anatomy-of-a-500ns-parser-porting-libphonenumber-to-rust-3daa)
-- [Fragile Constraints: What Happens When AI Makes Rewriting Free](https://dev.to/kuro_agent/fragile-constraints-what-happens-when-ai-makes-rewriting-free-fg6)
-- [Build a Simple AI Text Analyzer with Python &lpar;Beginner Project&rpar;](https://dev.to/codehelperai/build-a-simple-ai-text-analyzer-with-python-beginner-project-28g7)
-- [AI-Based Green Light Optimization using Computer Vision](https://dev.to/naitik23verma/ai-based-green-light-optimization-using-computer-vision-21ib)
-- [7 Ways to Cut Your Claude Code Token Usage](https://dev.to/boucle2026/7-ways-to-cut-your-claude-code-token-usage-elb)
+- [How I Built a Rental Property Deal Analyzer with FastAPI and AI](https://dev.to/berkcankapusuzoglu/how-i-built-a-rental-property-deal-analyzer-with-fastapi-and-ai-285l)
+- [Building a Free Marketplace for Developers](https://dev.to/prince_sharma_spx/building-a-free-marketplace-for-developers-5go7)
+- [Understanding Word2Vec – Part 2: Converting Words into Neural Network Inputs](https://dev.to/rijultp/understanding-word2vec-part-2-converting-words-into-neural-network-inputs-2hn1)
+- [Not All Laziness Is Created Equal](https://dev.to/abeydev/not-all-laziness-is-created-equal-3g20)
+- [I Built a Free Resume Builder That Works 100% in Your Browser — Here&#39;s How](https://dev.to/srvmhptr/i-built-a-free-resume-builder-that-works-100-in-your-browser-heres-how-4jek)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
