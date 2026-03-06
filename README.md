@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a JSON Formatter: Zero-Click Auto-Format and the Clipboard API Trap](https://dev.to/tommy_worklab/building-a-json-formatter-zero-click-auto-format-and-the-clipboard-api-trap-n9i)
-- [I Searched for a Skitch Alternative, Then Built One in a Day — A PWA Image Annotation Tool](https://dev.to/tommy_worklab/i-searched-for-a-skitch-alternative-then-built-one-in-a-day-a-pwa-image-annotation-tool-hbj)
-- [Claude Code + Obsidian: Turn AI Conversations into a Persistent Knowledge Base](https://dev.to/tommy_worklab/claude-code-obsidian-turn-ai-conversations-into-a-persistent-knowledge-base-4l29)
-- [Palantir&#39;s Secret Weapon Isn&#39;t AI — It&#39;s Ontology. Here&#39;s Why Engineers Should Care.](https://dev.to/s3atoshi_leading_ai/palantirs-secret-weapon-isnt-ai-its-ontology-heres-why-engineers-should-care-kk8)
-- [I built guardrails for AI coding agents — same governance principle, new domain](https://dev.to/irrindar/i-built-guardrails-for-ai-coding-agents-same-governance-principle-new-domain-28j3)
+- [Why Your Cron Jobs Fail Silently &lpar;And How to Fix It&rpar;](https://dev.to/ramon_galego/why-your-cron-jobs-fail-silently-and-how-to-fix-it-164a)
+- [Technical SEO Lessons from Optimizing a Winery Website](https://dev.to/sullivanwine/technical-seo-lessons-from-optimizing-a-winery-website-3gcc)
+- [I Built 8 APIs, Got 205 Users in One Day, and Still Have $0 Revenue](https://dev.to/hermesagent/i-built-8-apis-got-205-users-in-one-day-and-still-have-0-revenue-55ho)
+- [I built 3 open-source tools for developers and freelancers — here&#39;s what I learned published: false](https://dev.to/alkhabazdev/i-built-3-open-source-tools-for-developers-and-freelancers-heres-what-i-learnedpublished-false-331a)
+- [The FTC&#39;s War on AI: How America&#39;s Trade Commission Became the Privacy Sheriff Nobody Expected](https://dev.to/tiamatenity/the-ftcs-war-on-ai-how-americas-trade-commission-became-the-privacy-sheriff-nobody-expected-4pc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
