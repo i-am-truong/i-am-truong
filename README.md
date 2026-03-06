@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Automated My Entire iOS Development Workflow. Here&#39;s the Exact Setup.](https://dev.to/__be2942592/i-automated-my-entire-ios-development-workflow-heres-the-exact-setup-6bn)
-- [Why I Stopped Using Storyboards and Never Looked Back &lpar;SwiftUI Changed Everything&rpar;](https://dev.to/__be2942592/why-i-stopped-using-storyboards-and-never-looked-back-swiftui-changed-everything-1lnh)
-- [Get your project on the map](https://dev.to/devsofmidnight/get-your-project-on-the-map-41ma)
-- [How We Monitor AI Agents in Real Time to Prevent Costly Mistakes](https://dev.to/jairo_junior_b5caf3172f89/how-we-monitor-ai-agents-in-real-time-to-prevent-costly-mistakes-2b4)
-- [Building a Production-Grade AI Agent Library: YAML Schemas, Composable Pipelines, and 6-Runtime Support](https://dev.to/kutlarov/building-a-production-grade-ai-agent-library-yaml-schemas-composable-pipelines-and-6-runtime-587m)
+- [Part 6 — Two instances](https://dev.to/voieducode/part-6-two-instances-26ll)
+- [Part 5 — Vault, and the afternoon I deleted everything](https://dev.to/voieducode/part-5-vault-and-the-afternoon-i-deleted-everything-4kdj)
+- [Part 4 — The first Supabase instance](https://dev.to/voieducode/part-4-the-first-supabase-instance-1e7f)
+- [Part 3 — Traefik and SSL](https://dev.to/voieducode/part-3-traefik-and-ssl-3b29)
+- [Troubleshooting WordPress: &quot;Error Establishing a Database Connection&quot; on MySQL 8.4+ &lpar;macOS/MacPorts&rpar;](https://dev.to/chanurholis/troubleshooting-wordpress-error-establishing-a-database-connection-on-mysql-84-macosmacports-2gj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
