@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [the empty chair problem — why I&#39;m building a desktop AI instead of another chatbot](https://dev.to/combba/the-empty-chair-problem-why-im-building-a-desktop-ai-instead-of-another-chatbot-46fm)
-- [GHSA-MH23-RW7F-V5PQ: GHSA-MH23-RW7F-V5PQ: Malicious &#39;time-sync&#39; Crate Exfiltrating Environment Secrets](https://dev.to/cverports/ghsa-mh23-rw7f-v5pq-ghsa-mh23-rw7f-v5pq-malicious-time-sync-crate-exfiltrating-environment-44f6)
-- [How to Build a Trading Bot with MarketMasters API](https://dev.to/marketmastersai/how-to-build-a-trading-bot-with-marketmasters-api-38m9)
-- [Which Framework to use for Making eLearning Apps](https://dev.to/zimlearn/which-framework-to-use-for-making-elearning-apps-51p)
-- [Happy Pi Day](https://dev.to/aaron_rose_0787cc8b4775a0/happy-pi-day-20n0)
+- [MCP vs A2A: The Two Protocols Defining the AI Agent Economy](https://dev.to/barbara_wu/mcp-vs-a2a-the-two-protocols-defining-the-ai-agent-economy-4b5m)
+- [A starting guide to web accessibility](https://dev.to/amira_chaabane_ef95a1cc19/a-starting-guide-to-web-accessibility-42jh)
+- [From EC2 Servers to Serverless Hosting: Learning Amazon S3, IAM &amp; AWS CLI &lpar;Day 4&rpar;](https://dev.to/avinashwagh/from-ec2-servers-to-serverless-hosting-learning-amazon-s3-iam-aws-cli-day-4-iak)
+- [A Journey Inside the Asynchronous Nature of JavaScript](https://dev.to/ebraheemsaid/a-journey-inside-the-asynchronous-nature-of-javascript-49j8)
+- [What Is Confidential AI? The Security Gap Your Encryption Doesn’t Cover](https://dev.to/jaipalsingh/what-is-confidential-ai-the-security-gap-your-encryption-doesnt-cover-4k51)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
