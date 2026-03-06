@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Marcus Aurelius Was the First SRE &lpar;And His Meditations Is the Best Production Run book Ever Written&rpar;](https://dev.to/quantummanuals/marcus-aurelius-was-the-first-sre-and-his-meditations-is-the-best-production-run-book-ever-written-1ilp)
-- [How I Built a Rental Property Deal Analyzer with FastAPI and AI](https://dev.to/berkcankapusuzoglu/how-i-built-a-rental-property-deal-analyzer-with-fastapi-and-ai-285l)
-- [Building a Free Marketplace for Developers](https://dev.to/prince_sharma_spx/building-a-free-marketplace-for-developers-5go7)
-- [Understanding Word2Vec – Part 2: Converting Words into Neural Network Inputs](https://dev.to/rijultp/understanding-word2vec-part-2-converting-words-into-neural-network-inputs-2hn1)
-- [Not All Laziness Is Created Equal](https://dev.to/abeydev/not-all-laziness-is-created-equal-3g20)
+- [Building a Privacy-First Video Converter with WebAssembly](https://dev.to/jonathan_wallace_c6087363/building-a-privacy-first-video-converter-with-webassembly-4pi4)
+- [Minologue: Why I Started Building This Boring AI Application](https://dev.to/yasir_etc/minologue-why-i-started-building-this-boring-ai-application-3g98)
+- [I Put a 5MB Rust Binary Between My Code and Every LLM API — It Cut My Bill by 40%](https://dev.to/lakshmisravyavedantham/i-put-a-5mb-rust-binary-between-my-code-and-every-llm-api-it-cut-my-bill-by-40-1n51)
+- [How to Publish Your Browser Extension on the Chrome Web Store](https://dev.to/uncle_drew/how-to-publish-your-browser-extension-on-the-chrome-web-store-2kge)
+- [Archival Intelligence: A Forensic Rare Book Auditor](https://dev.to/kenwalger/archival-intelligence-a-forensic-rare-book-auditor-448)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
