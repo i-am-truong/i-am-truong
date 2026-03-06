@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Let Your AI Agent Generate Images and Videos Automatically - Open Source Skill](https://dev.to/zerolu/let-your-ai-agent-generate-images-and-videos-automatically-open-source-skill-kk2)
-- [Adding Image Generation to Any AI Coding Environment — imgx-mcp](https://dev.to/somacoffeekyoto/adding-image-generation-to-any-ai-coding-environment-imgx-mcp-4maj)
-- [I built 18 Chrome extensions, kept rewriting the same code, so I open-sourced the toolkit](https://dev.to/michael_lip_52d5151c3e364/i-built-18-chrome-extensions-kept-rewriting-the-same-code-so-i-open-sourced-the-toolkit-5hlm)
-- [Building with Care: My Week 1 Setup for Bloom After](https://dev.to/grace_olabode_3be546efe9b/building-with-care-my-week-1-setup-for-bloom-after-3590)
-- [I built a Claude Code skill that screenshots any website &lpar;and it handles anti-bot sites too&rpar;](https://dev.to/extractdata/i-built-a-claude-code-skill-that-screenshots-any-website-and-it-handles-anti-bot-sites-too-2m4b)
+- [Navidrome vs Emby: Which Music Server Should You Self-Host?](https://dev.to/selfhostingsh/navidrome-vs-emby-which-music-server-should-you-self-host-4ppj)
+- [Why Kubernetes Isn’t Just Another Buzzword](https://dev.to/574n13y/why-kubernetes-isnt-just-another-buzzword-53kh)
+- [How to Add PII Scrubbing to Your MCP Server &lpar;Before Guest Data Hits Any AI Provider&rpar;](https://dev.to/tiamatenity/how-to-add-pii-scrubbing-to-your-mcp-server-before-guest-data-hits-any-ai-provider-kan)
+- [I Built E2E Encrypted AI Proxying Using X25519 and SealedBox — Here&#39;s How](https://dev.to/tiamatenity/i-built-e2e-encrypted-ai-proxying-using-x25519-and-sealedbox-heres-how-2ffa)
+- [The UK Tech Career Switch Guide Nobody Told You About &lpar;2026 Edition&rpar;](https://dev.to/kelvin_godson_d687b3c1d39/the-uk-tech-career-switch-guide-nobody-told-you-about-2026-edition-1l5e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
