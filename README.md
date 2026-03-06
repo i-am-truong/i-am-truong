@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Tenant Landing Page Optimization: Caching for Performance](https://dev.to/geanruca/tenant-landing-page-optimization-caching-for-performance-18nf)
-- [I ran a privacy proxy on my AI traffic. Here&#39;s what it found.](https://dev.to/ubcent/i-ran-a-privacy-proxy-on-my-ai-traffic-heres-what-it-found-4dbo)
-- [How I Built a Privacy-First, Automated Tech News Aggregator in PHP &lpar;And Why I Ditched the Heavy Frameworks&rpar;](https://dev.to/donpolanco/how-i-built-a-privacy-first-automated-tech-news-aggregator-in-php-and-why-i-ditched-the-heavy-3ipd)
-- [OpenAI GPT-5.4 Complete Guide: Benchmarks, Use Cases, Pricing, API, and GPT-5.4 Pro Comparison](https://dev.to/umesh_malik/openai-gpt-54-complete-guide-benchmarks-use-cases-pricing-api-and-gpt-54-pro-comparison-m8k)
-- [How Teams Integrate Stablecoin Rails Without Rewriting Their Platform](https://dev.to/flutterwaveeng/how-teams-integrate-stablecoin-rails-without-rewriting-their-platform-20fl)
+- [Next.js Weekly #120: Drizzle joins PlanetScale, Prisma Next, Better Auth 1.5, react-doctor, next-md-negotiate, Vercel Queues](https://dev.to/erfanebrahimnia/nextjs-weekly-120-drizzle-joins-planetscale-prisma-next-better-auth-15-react-doctor-4oeg)
+- [I Reviewed 100+ Indian Engineer Resumes. Here Are the 7 Mistakes Killing Your US Job Applications](https://dev.to/forge_b4e4b2cff010/i-reviewed-100-indian-engineer-resumes-here-are-the-7-mistakes-killing-your-us-job-applications-2mi9)
+- [Frontend in Commercial Development: First 6 Months, Expectations vs Reality](https://dev.to/byteminds/frontend-in-commercial-development-first-6-months-expectations-vs-reality-a49)
+- [I Shipped 126 Tests Last Month. Here&#39;s the AI Workflow That Got Me There.](https://dev.to/vipin_singh_701b96b0df516/i-shipped-126-tests-last-month-heres-the-ai-workflow-that-got-me-there-bb4)
+- [PDF Export for Resume Builders Without Hosting Puppeteer](https://dev.to/opspawn/pdf-export-for-resume-builders-without-hosting-puppeteer-34h9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
