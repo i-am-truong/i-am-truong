@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Part 6 — Two instances](https://dev.to/voieducode/part-6-two-instances-26ll)
-- [Part 5 — Vault, and the afternoon I deleted everything](https://dev.to/voieducode/part-5-vault-and-the-afternoon-i-deleted-everything-4kdj)
-- [Part 4 — The first Supabase instance](https://dev.to/voieducode/part-4-the-first-supabase-instance-1e7f)
-- [Part 3 — Traefik and SSL](https://dev.to/voieducode/part-3-traefik-and-ssl-3b29)
-- [Troubleshooting WordPress: &quot;Error Establishing a Database Connection&quot; on MySQL 8.4+ &lpar;macOS/MacPorts&rpar;](https://dev.to/chanurholis/troubleshooting-wordpress-error-establishing-a-database-connection-on-mysql-84-macosmacports-2gj)
+- [Building Notification Infrastructure at Scale Is a Trap: Why Your Team Will Regret Rolling Their Own](https://dev.to/andreashatlem/building-notification-infrastructure-at-scale-is-a-trap-why-your-team-will-regret-rolling-their-own-4deg)
+- [Implementing a &quot;Conjure-to-Climb&quot; Mechanic in Unity &amp; C#](https://dev.to/shanmukhasrinivasa/implementing-a-conjure-to-climb-mechanic-in-unity-c-251i)
+- [I Built a Free, Multilingual AI Education Platform — Here&#39;s How 🌍🤖](https://dev.to/rameshreddy-adutla/i-built-a-free-multilingual-ai-education-platform-heres-how-443j)
+- [my little notion-powered sidekick](https://dev.to/aniruddhaadak/my-little-notion-powered-sidekick-imj)
+- [How to Share a Project](https://dev.to/munemprionto/how-to-share-a-project-lph)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
