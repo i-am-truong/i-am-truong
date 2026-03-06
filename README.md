@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Free Base Chain Scanner Bot: From Zero to Whale Alerts](https://dev.to/noxventures/building-a-free-base-chain-scanner-bot-from-zero-to-whale-alerts-16pc)
-- [What If Your Clipboard Knew What It Contained? — Building a Chrome Extension for Auto-Detection](https://dev.to/tommy_worklab/what-if-your-clipboard-knew-what-it-contained-building-a-chrome-extension-for-auto-detection-fnk)
-- [Making AI Empathic](https://dev.to/aigal/making-ai-empathic-im4)
-- [US and Venezuela agree to resume diplomatic ties after Maduro capture](https://dev.to/chx381/us-and-venezuela-agree-to-resume-diplomatic-ties-after-maduro-capture-431f)
-- [NervForge: Generate Beautiful 3D Trees in Your Browser &lpar;Free Tool&rpar;](https://dev.to/the_lone_engineer/nervforge-generate-beautiful-3d-trees-in-your-browser-free-tool-8n2)
+- [I Built a Full-Stack AI App on Cloudflare Workers With D1, Durable Objects, and Queues — Here&#39;s What Actually Worked](https://dev.to/divkix/i-built-a-full-stack-ai-app-on-cloudflare-workers-with-d1-durable-objects-and-queues-heres-2dhg)
+- [in case of fire put your heap on a cage - how we reduced our mem usage](https://dev.to/aws-builders/in-case-of-fire-put-your-heap-on-a-cage-how-we-reduced-our-mem-usage-3d54)
+- [The Svelte Compiler Got 55% Faster. The Fix Was 3 Files.](https://dev.to/lnguyen/the-svelte-compiler-got-55-faster-the-fix-was-3-files-5adc)
+- [CCPA vs AI: California&#39;s Privacy Law Is Fighting a Battle It Wasn&#39;t Built For](https://dev.to/tiamatenity/ccpa-vs-ai-californias-privacy-law-is-fighting-a-battle-it-wasnt-built-for-20jo)
+- [Deploying a Static Website on Azure Using Blob Storage](https://dev.to/goodnessoj/deploying-a-static-website-on-azure-using-blob-storage-54ho)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
