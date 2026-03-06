@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Notification Infrastructure at Scale Is a Trap: Why Your Team Will Regret Rolling Their Own](https://dev.to/andreashatlem/building-notification-infrastructure-at-scale-is-a-trap-why-your-team-will-regret-rolling-their-own-4deg)
-- [Implementing a &quot;Conjure-to-Climb&quot; Mechanic in Unity &amp; C#](https://dev.to/shanmukhasrinivasa/implementing-a-conjure-to-climb-mechanic-in-unity-c-251i)
-- [I Built a Free, Multilingual AI Education Platform — Here&#39;s How 🌍🤖](https://dev.to/rameshreddy-adutla/i-built-a-free-multilingual-ai-education-platform-heres-how-443j)
-- [my little notion-powered sidekick](https://dev.to/aniruddhaadak/my-little-notion-powered-sidekick-imj)
-- [How to Share a Project](https://dev.to/munemprionto/how-to-share-a-project-lph)
+- [Let Your AI Agent Generate Images and Videos Automatically - Open Source Skill](https://dev.to/zerolu/let-your-ai-agent-generate-images-and-videos-automatically-open-source-skill-kk2)
+- [Adding Image Generation to Any AI Coding Environment — imgx-mcp](https://dev.to/somacoffeekyoto/adding-image-generation-to-any-ai-coding-environment-imgx-mcp-4maj)
+- [I built 18 Chrome extensions, kept rewriting the same code, so I open-sourced the toolkit](https://dev.to/michael_lip_52d5151c3e364/i-built-18-chrome-extensions-kept-rewriting-the-same-code-so-i-open-sourced-the-toolkit-5hlm)
+- [Building with Care: My Week 1 Setup for Bloom After](https://dev.to/grace_olabode_3be546efe9b/building-with-care-my-week-1-setup-for-bloom-after-3590)
+- [I built a Claude Code skill that screenshots any website &lpar;and it handles anti-bot sites too&rpar;](https://dev.to/extractdata/i-built-a-claude-code-skill-that-screenshots-any-website-and-it-handles-anti-bot-sites-too-2m4b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
