@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [MCP vs A2A: The Two Protocols Defining the AI Agent Economy](https://dev.to/barbara_wu/mcp-vs-a2a-the-two-protocols-defining-the-ai-agent-economy-4b5m)
-- [A starting guide to web accessibility](https://dev.to/amira_chaabane_ef95a1cc19/a-starting-guide-to-web-accessibility-42jh)
-- [From EC2 Servers to Serverless Hosting: Learning Amazon S3, IAM &amp; AWS CLI &lpar;Day 4&rpar;](https://dev.to/avinashwagh/from-ec2-servers-to-serverless-hosting-learning-amazon-s3-iam-aws-cli-day-4-iak)
-- [A Journey Inside the Asynchronous Nature of JavaScript](https://dev.to/ebraheemsaid/a-journey-inside-the-asynchronous-nature-of-javascript-49j8)
-- [What Is Confidential AI? The Security Gap Your Encryption Doesn’t Cover](https://dev.to/jaipalsingh/what-is-confidential-ai-the-security-gap-your-encryption-doesnt-cover-4k51)
+- [I compiled 459 landlord-tenant statutes into a database and built free tools on top of it](https://dev.to/rentsolveai/i-compiled-459-landlord-tenant-statutes-into-a-database-and-built-free-tools-on-top-of-it-2l7i)
+- [I Built a Physics Certification Layer for Motion Data — Here&#39;s What I Found](https://dev.to/timbo4u1/i-built-a-physics-certification-layer-for-motion-data-heres-what-i-found-4dbp)
+- [TreeSet in Java](https://dev.to/nanthini_ammu_ac02ad32802/treeset-in-java-5eg7)
+- [Architecting for Vulnerability: Introducing Protective Computing Core v1.0](https://dev.to/crisiscoresystems/architecting-for-vulnerability-introducing-protective-computing-core-v10-91g)
+- [Adding Giscus Comments to Next.js Blog Pages](https://dev.to/estebankt123/adding-giscus-comments-to-nextjs-blog-pages-5e1b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
