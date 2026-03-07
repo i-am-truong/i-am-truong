@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Browser-Based NCM File Converter &lpar;NetEase Cloud Music to FLAC/MP3&rpar;](https://dev.to/richard00726/building-a-browser-based-ncm-file-converter-netease-cloud-music-to-flacmp3-3c38)
-- [Probabilistic Graph Neural Inference for coastal climate resilience planning for extreme data sparsity scenarios](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-coastal-climate-resilience-planning-for-extreme-data-4p61)
-- [A Beginner&#39;s Guide to SQL Joins and Window Functions](https://dev.to/nganga_njongo/a-beginners-guide-to-sql-joins-and-window-functions-45db)
-- [Book Review: “Mastering NLP From Foundations to Agents - 2nd Edition”](https://dev.to/aairom/book-review-mastering-nlp-from-foundations-to-agents-2nd-edition-2p31)
-- [FERPA&#39;s Blind Spot: Why Your School&#39;s AI Tools Know More Than Your Doctor](https://dev.to/tiamatenity/ferpas-blind-spot-why-your-schools-ai-tools-know-more-than-your-doctor-49o9)
+- [Scaling pgvector: Memory, Quantization, and Index Build Strategies](https://dev.to/philip_mcclarence_2ef9475/scaling-pgvector-memory-quantization-and-index-build-strategies-8m2)
+- [A 2018 Access Key. Still Active in Production. Here&#39;s the Python Script That Found It Across an Entire AWS Organization.](https://dev.to/aws-heroes/a-2018-access-key-still-active-in-production-heres-the-python-script-that-found-it-across-an-3pd3)
+- [Making .NET GC Behavior Observable: What I Learned Building GCExperiment](https://dev.to/mehedi_shuvo/making-net-gc-behavior-observable-what-i-learned-building-gcexperiment-h02)
+- [Building UDP-Like Telemetry with Auto-Remediation Over WebSockets](https://dev.to/rpi1337/building-udp-like-telemetry-with-auto-remediation-over-websockets-57h1)
+- [How Schools Became Surveillance Networks: FERPA, EdTech, and Your Child&#39;s Data](https://dev.to/tiamatenity/how-schools-became-surveillance-networks-ferpa-edtech-and-your-childs-data-4c80)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
