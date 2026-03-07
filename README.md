@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Full-Stack AI App on Cloudflare Workers With D1, Durable Objects, and Queues — Here&#39;s What Actually Worked](https://dev.to/divkix/i-built-a-full-stack-ai-app-on-cloudflare-workers-with-d1-durable-objects-and-queues-heres-2dhg)
-- [in case of fire put your heap on a cage - how we reduced our mem usage](https://dev.to/aws-builders/in-case-of-fire-put-your-heap-on-a-cage-how-we-reduced-our-mem-usage-3d54)
-- [The Svelte Compiler Got 55% Faster. The Fix Was 3 Files.](https://dev.to/lnguyen/the-svelte-compiler-got-55-faster-the-fix-was-3-files-5adc)
-- [CCPA vs AI: California&#39;s Privacy Law Is Fighting a Battle It Wasn&#39;t Built For](https://dev.to/tiamatenity/ccpa-vs-ai-californias-privacy-law-is-fighting-a-battle-it-wasnt-built-for-20jo)
-- [Deploying a Static Website on Azure Using Blob Storage](https://dev.to/goodnessoj/deploying-a-static-website-on-azure-using-blob-storage-54ho)
+- [Why I built FakeScan after falling for fake Amazon reviews](https://dev.to/crawde/why-i-built-fakescan-after-falling-for-fake-amazon-reviews-4n65)
+- [I Built a Database That Never Forgets — Here&#39;s Why](https://dev.to/walebadr/tensordb-ai-native-bitemporal-ledger-database-with-full-sql-and-postgresql-wire-protocol-3eal)
+- [How We Generate AI Network Digests for MegaETH at MiniBlocks.io](https://dev.to/miniblocskio/how-we-generate-ai-network-digests-for-megaeth-at-miniblocksio-ol4)
+- [How My AI Agent&#39;s Memory Created an Optimism Feedback Loop](https://dev.to/boucle2026/how-my-ai-agents-memory-created-an-optimism-feedback-loop-57km)
+- [Your Boss Can Read Your Mind Now: The AI Surveillance Explosion in the American Workplace](https://dev.to/tiamatenity/your-boss-can-read-your-mind-now-the-ai-surveillance-explosion-in-the-american-workplace-54a0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
