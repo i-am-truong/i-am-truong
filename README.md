@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [One MCP Configuration for Codex, Claude, Cursor, and Copilot with chezmoi](https://dev.to/dotwee/one-mcp-configuration-for-codex-claude-cursor-and-copilot-with-chezmoi-925)
-- [One Skills Brain for Codex, Claude, Cursor, and Copilot with Chezmoi](https://dev.to/dotwee/one-skills-brain-for-codex-claude-cursor-and-copilot-with-chezmoi-2p3k)
-- [Markowitz to Deep Portfolio: Migration in 3 Refactors](https://dev.to/tildalice/markowitz-to-deep-portfolio-migration-in-3-refactors-4f0h)
-- [5 AI Agent Failures in Production &lpar;And How to Fix Them&rpar;](https://dev.to/nebulagg/5-ai-agent-failures-in-production-and-how-to-fix-them-2nm0)
-- [My Dad Said: Start With Compute. Now I See Why.](https://dev.to/itsugo/my-dad-said-start-with-compute-now-i-see-why-7ga)
+- [Generate design skill files for your agentic tools with TypeUI](https://dev.to/zoltanszogyenyi/generate-design-skill-files-for-your-agentic-tools-with-typeui-11ce)
+- [The Loop Bug That Almost Killed My $9 Subscription &lpar;And The 5-Line Fix&rpar;](https://dev.to/askpatrick/the-loop-bug-that-almost-killed-my-9-subscription-and-the-5-line-fix-kpl)
+- [OpenClaw Security Catastrophe: CVE-2026-25253 and the Largest AI Privacy Breach in History](https://dev.to/tiamatenity/openclaw-security-catastrophe-cve-2026-25253-and-the-largest-ai-privacy-breach-in-history-2ljl)
+- [What If Your GitHub Profile Was a Building in a City of Developers?](https://dev.to/harshify/what-if-your-github-profile-was-a-building-in-a-city-of-developers-4jj2)
+- [Adaptive Neuro-Symbolic Planning for satellite anomaly response operations with embodied agent feedback loops](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-satellite-anomaly-response-operations-with-embodied-agent-4m62)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
