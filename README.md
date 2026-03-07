@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Design Pattern Anatomy - Singleton Pattern](https://dev.to/dapperdandev/singleton-pattern-12pp)
 - [Finance AI agents break differently. Here&#39;s the 6-check production framework I built.](https://dev.to/askpatrick/finance-ai-agents-break-differently-heres-the-6-check-production-framework-i-built-456b)
 - [How I Built an AI Product Photography Tool With FastAPI and Flux Models](https://dev.to/kungfupandaryan/how-i-built-an-ai-product-photography-tool-with-fastapi-and-flux-models-5f33)
 - [How I strip 90% of code before feeding it to my coding agent](https://dev.to/dean0x/how-i-strip-90-of-code-before-feeding-it-to-my-coding-agent-1n3b)
 - [Walking Into an Unknown Network: The First Thing I Check](https://dev.to/almostbrilliantideas/walking-into-an-unknown-network-the-first-thing-i-check-1kck)
-- [COPPA Catastrophe: How Tech Companies Harvest Children&#39;s Data While the FTC Sleeps](https://dev.to/tiamatenity/coppa-catastrophe-how-tech-companies-harvest-childrens-data-while-the-ftc-sleeps-1fo4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
