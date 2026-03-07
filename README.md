@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Accept Payments in Salesforce: A Complete Guide to Stripe Integration](https://dev.to/sabir_sheikh_cd49d4c419e3/accept-payments-in-salesforce-a-complete-guide-to-stripe-integration-1a2k)
-- [AI Agents in Marketing: Why Automation Should Handle the Busywork](https://dev.to/giang_hng_fed6018a61f46/ai-agents-in-marketing-why-automation-should-handle-the-busywork-502p)
-- [Next Week Is Going to Be Pure Chaos!!](https://dev.to/owaspblt/next-week-is-going-to-be-pure-chaos-1kg0)
-- [How to build a self-improving AI agent: the nightly loop pattern](https://dev.to/askpatrick/how-to-build-a-self-improving-ai-agent-the-nightly-loop-pattern-njn)
-- [Key Math Concepts in Data Structures and Algorithms](https://dev.to/saptarshisarkar/key-math-concepts-in-data-structures-and-algorithms-392c)
+- [Demystifying GCP: Generate Clear Google Cloud Platform Diagrams Automatically with Coordimap](https://dev.to/coordimap/demystifying-gcp-generate-clear-google-cloud-platform-diagrams-automatically-with-coordimap-4dpa)
+- [Mastering SQL Joins and Window Functions: A Practical Guide with an E‑commerce Dataset](https://dev.to/charles_ndungu/mastering-sql-joins-and-window-functions-a-practical-guide-with-an-e-commerce-dataset-ejg)
+- [Just What Is Rust, Anyway?](https://dev.to/dimension-zero/just-what-is-rust-anyway-28bh)
+- [Building and Configuring Custom Docker Images: From Execution Mechanics to Global Distribution](https://dev.to/anusha_kuppili/building-and-configuring-custom-docker-images-from-execution-mechanics-to-global-distribution-2h12)
+- [I Found a 2-Year-Old GitHub Feature Request and Built It](https://dev.to/reposweeper/i-found-a-2-year-old-github-feature-request-and-built-it-1ibm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
