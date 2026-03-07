@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Cookie Banner Listed 1,467 Partners — So I Used AI to Unmask Them](https://dev.to/irarainey/a-cookie-banner-listed-1467-partners-so-i-used-ai-to-unmask-them-22dp)
+- [Open source Intercom &amp; CCTV platform with Mobile apps, Face and LP Recognition, Media Server &lpar;GPLv3&rpar;](https://dev.to/sbca68/open-source-intercom-cctv-platform-with-mobile-apps-face-and-lp-recognition-media-server-gplv3-1chk)
+- [PDFWorkSpace &lpar;Local, In-Browser PDF toolkit&rpar; - Reaching 5k+ Users and What&#39;s Coming Next](https://dev.to/rahil1202/pdfworkspace-local-in-browser-pdf-toolkit-reaching-5k-users-and-whats-coming-next-27mj)
 - [OpenTofu vs Terraform in 2026: Is the Fork Finally Worth It?](https://dev.to/mechcloud_academy/opentofu-vs-terraform-in-2026-is-the-fork-finally-worth-it-3nd1)
 - [FERPA &amp; AI: How EdTech Is Surveilling Students &lpar;And Why the Law Lets Them&rpar;](https://dev.to/tiamatenity/ferpa-ai-how-edtech-is-surveilling-students-and-why-the-law-lets-them-1715)
-- [I got tired of clicking &quot;I Agree&quot; without reading anything. So I fixed it.](https://dev.to/rrubayet321/i-got-tired-of-clicking-i-agree-without-reading-anything-so-i-fixed-it-2ln9)
-- [Introducing YellowScout: A Community Portal for the Yellow Ecosystem](https://dev.to/maharshi_mishra/introducing-yellowscout-a-community-portal-for-the-yellow-ecosystem-2579)
-- [Automating OTP Retrieval from Emails in Python](https://dev.to/francofuji/automating-otp-retrieval-from-emails-in-python-1j0a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
