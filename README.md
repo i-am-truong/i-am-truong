@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [FAQ: Surveillance Capitalism — Your Questions About Behavioral Data Answered](https://dev.to/tiamatenity/faq-surveillance-capitalism-your-questions-about-behavioral-data-answered-28lc)
-- [I Built My Portfolio to Look Like VS Code 👨‍💻](https://dev.to/muhammad_rabbi_dev/i-built-my-portfolio-to-look-like-vs-code-4f59)
-- [🚀 Google Workspace CLI Is Here — A Game‑Changer for Developers &amp; AI Agents](https://dev.to/manikandan/google-workspace-cli-is-here-a-game-changer-for-developers-ai-agents-5e44)
-- [FAQ: The HIPAA Illusion — Your Medical Data Privacy Questions Answered](https://dev.to/tiamatenity/faq-the-hipaa-illusion-your-medical-data-privacy-questions-answered-48ga)
-- [CLI tool that explains C memory leaks and suggests fixes](https://dev.to/emmanuel_martin_d71c7e3d3/cli-tool-that-explains-c-memory-leaks-and-suggests-fixes-3n84)
+- [Why AI Systems Become Expensive: Tokenization, Chunking, and Retrieval Design in the Cloud &lpar;AWS&rpar;](https://dev.to/mihinduranasinghe/why-ai-systems-become-expensive-tokenization-chunking-and-retrieval-design-in-the-cloud-aws-2g17)
+- [Nearest Neighbor Value Interpolation](https://dev.to/paperium/nearest-neighbor-value-interpolation-n77)
+- [Supabase vs Firebase: The Ultimate Guide for Startups in 2026](https://dev.to/rupa_tiwari_dd308948d710f/supabase-vs-firebase-the-ultimate-guide-for-startups-in-2026-1eae)
+- [Why We Built an AI Agent, Not an AI Feature — And What That Means for Your Team](https://dev.to/upendradevsingh/why-we-built-an-ai-agent-not-an-ai-feature-and-what-that-means-for-your-team-479b)
+- [Composition Pattern in React](https://dev.to/gabrielenache/composition-pattern-in-react-1i52)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
