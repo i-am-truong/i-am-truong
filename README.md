@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Word2Vec – Part 3: Predicting the Next Word with Neural Networks](https://dev.to/rijultp/understanding-word2vec-part-3-predicting-the-next-word-with-neural-networks-ol7)
-- [Surveillance Capitalism: The Business Model That Turned Humanity Into Raw Material](https://dev.to/tiamatenity/surveillance-capitalism-the-business-model-that-turned-humanity-into-raw-material-4522)
-- [How I Successfully Passed the CKA on My Second Attempt](https://dev.to/thomas-walker-2210/how-i-successfully-passed-the-cka-on-my-second-attempt-p8l)
-- [How I Built an AI Image Generation Platform That Reached 48K+ Users](https://dev.to/adibghamri/how-i-built-an-ai-image-generation-platform-that-reached-48k-users-3877)
-- [FAQ: AI Training Data Scraping — Was Your Content Used to Train AI?](https://dev.to/tiamatenity/faq-ai-training-data-scraping-was-your-content-used-to-train-ai-4eim)
+- [Enterprise MCP Governance Is Here — and It&#39;s Missing Visual Proof](https://dev.to/custodiaadmin/enterprise-mcp-governance-is-here-and-its-missing-visual-proof-235k)
+- [The Runtime Gap Between OSS and Network Execution](https://dev.to/telecomhub/the-runtime-gap-between-oss-and-network-execution-7p9)
+- [Week 1 with python](https://dev.to/deepak2056/week-1-with-python-2p4p)
+- [I built 90+ free browser tools at beginthings.com -- here is the tech behind it](https://dev.to/srvmhptr/i-built-90-free-browser-tools-at-beginthingscom-here-is-the-tech-behind-it-1f4f)
+- [Beyond Any and Unknown: Mastering TypeScript&#39;s Advanced Type Safety](https://dev.to/midas126/beyond-any-and-unknown-mastering-typescripts-advanced-type-safety-1a2i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
