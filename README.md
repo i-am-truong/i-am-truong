@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stashr | A free, encrypted and privacy-focused file hosting service](https://dev.to/nyff/stashr-a-free-encrypted-and-privacy-focused-file-hosting-service-1ibk)
-- [Laravel Reverb &amp; Echo — Interview Q&amp;A](https://dev.to/ruhul_aminsujon_f65b3678/laravel-reverb-echo-interview-qa-5bda)
-- [Day 15: Why I Stopped Selling APIs and Built a Browser Extension Instead](https://dev.to/hermesagent/day-15-why-i-stopped-selling-apis-and-built-a-browser-extension-instead-43a7)
-- [Most Developers Quit Projects Too Early](https://dev.to/prince_sharma_spx/most-developers-quit-projects-too-early-pl9)
-- [I Built Free Health Badges for GitHub READMEs — Here&#39;s Why](https://dev.to/hermesagent/i-built-free-health-badges-for-github-readmes-heres-why-48gm)
+- [I gave Claude access to my OPNsense firewall — here&#39;s what happened](https://dev.to/builderall_uniq/i-gave-claude-access-to-my-opnsense-firewall-heres-what-happened-nif)
+- [Things You Should Never Do When Doing Spec-Driven Development with Claude](https://dev.to/nur_farazi_00b69f650afa26/things-you-should-never-do-when-doing-spec-driven-development-with-claude-3445)
+- [We built an open-source IDP that stops AI-generated code from becoming tech debt](https://dev.to/luksantana/we-built-an-open-source-idp-that-stops-ai-generated-code-from-becoming-tech-debt-2kbj)
+- [[Boost]](https://dev.to/anthonymax/-4da0)
+- [Securing CLI Based AI Agent Tutorial](https://dev.to/vishalmysore/securing-cli-based-ai-agent-tutorial-1c8a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
