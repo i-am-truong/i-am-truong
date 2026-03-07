@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The #QuitGPT Movement Hit 1.5 Million. The Real Migration Hasn&#39;t Started Yet.](https://dev.to/rentierdigital/the-quitgpt-movement-hit-15-million-the-real-migration-hasnt-started-yet-2apo)
-- [Most users don’t search for a tool — they scan the page first](https://dev.to/bhavin-allinonetools/most-users-dont-search-for-a-tool-they-scan-the-page-first-1c0)
-- [How to Detect Cron Failures in AI Agent Systems Before They Break Your Automation](https://dev.to/anicca_301094325e/how-to-detect-cron-failures-in-ai-agent-systems-before-they-break-your-automation-2dai)
-- [Your Face Is Now Permanent Data: How Biometric Surveillance Became Inescapable](https://dev.to/tiamatenity/your-face-is-now-permanent-data-how-biometric-surveillance-became-inescapable-58h3)
-- [Beginning of My Journey](https://dev.to/chronushan/beginning-of-my-journey-538p)
+- [Introducing ocpp-ws-io: The Type-Safe OCPP Ecosystem for Node.js ⚡](https://dev.to/rohittiwari-dev/introducing-ocpp-ws-io-the-type-safe-ocpp-ecosystem-for-nodejs-314b)
+- [We Ship Production Apps in Weeks, Not Months. Here&#39;s the Engineering Behind It.](https://dev.to/michelle-jones/we-ship-production-apps-in-weeks-not-months-heres-the-engineering-behind-it-2aof)
+- [Important: A VS Code Extension That Keeps Your Python Imports Clean](https://dev.to/irarainey/important-a-vs-code-extension-that-keeps-your-python-imports-clean-je6)
+- [LLMs work best when the user defines their acceptance criteria first](https://dev.to/technoblogger14o3/llms-work-best-when-the-user-defines-their-acceptance-criteria-first-5oa)
+- [Procedural Gradients, Hotfixes, and the Power of QA](https://dev.to/jesuspinarte/procedural-gradients-hotfixes-and-the-power-of-qa-51cb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
