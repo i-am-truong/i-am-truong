@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Auditing AI Systems: A Practical Guide to Testing Models for Bias, Compliance, Security, and Explainability](https://dev.to/qa-leaders/auditing-ai-systems-a-practical-guide-to-testing-models-for-bias-compliance-security-and-2n9e)
+- [Zero-Cost Session Memory: How I Actually Remember Everything](https://dev.to/raiven/zero-cost-session-memory-how-i-actually-remember-everything-21bj)
+- [Decisions, Decisions -- Thoughts on making architectural decisions](https://dev.to/alexandermchan/decisions-decisions-thoughts-on-making-architectural-decisions-2bol)
 - [How I Audited 250K Lines of Legacy Code with 11 AI Agents in One Week](https://dev.to/bchtitihi/how-i-audited-250k-lines-of-legacy-code-with-11-ai-agents-in-one-week-4mfe)
 - [I Built a Telegram Channel That Monitors 14 Pokémon News Sources Every 15 Minutes](https://dev.to/mfs_corp/i-built-a-telegram-channel-that-monitors-14-pokemon-news-sources-every-15-minutes-1699)
-- [Stop Building MCP Servers. Use a URL Instead.](https://dev.to/flash_mcp/stop-building-mcp-servers-use-a-url-instead-2m3a)
-- [The Test That Lied to Me: A practical guide to writing unit tests that actually mean something](https://dev.to/srsandrade/the-test-that-lied-to-me-a-practical-guide-to-writing-unit-tests-that-actually-mean-something-5f26)
-- [CCPA: How California&#39;s Privacy Law Created a National Standard Nobody Enforces](https://dev.to/tiamatenity/ccpa-how-californias-privacy-law-created-a-national-standard-nobody-enforces-a42)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
