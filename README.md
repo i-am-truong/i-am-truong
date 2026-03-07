@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How GenAI Genesis Began](https://dev.to/alankritverma/how-genai-genesis-began-523b)
-- [I Built a Free Hemingway Editor Alternative That Runs in Your Browser](https://dev.to/ckmtools/i-built-a-free-hemingway-editor-alternative-that-runs-in-your-browser-14d4)
-- [Your Therapist&#39;s Notes Are for Sale: The Mental Health App Privacy Catastrophe](https://dev.to/tiamatenity/your-therapists-notes-are-for-sale-the-mental-health-app-privacy-catastrophe-4c54)
-- [Building MIRROR: A Luxury AI Fashion Try-On App with Perfect Corp APIs](https://dev.to/stevenwallace/building-mirror-a-luxury-ai-fashion-try-on-app-with-perfect-corp-apis-4o1n)
-- [Nextcloud vs ownCloud: Which File Server to Use?](https://dev.to/selfhostingsh/nextcloud-vs-owncloud-which-file-server-to-use-28p9)
+- [Web3 Jobs Decoded: Feedback Loops, Interview Prep, and Hiring Criteria](https://dev.to/ribhavmodi/web3-jobs-decoded-feedback-loops-interview-prep-and-hiring-criteria-42ed)
+- [Current AI Coding Will Never Replace Human Programmers—Hint from the Story of AlphaGo](https://dev.to/rex_zhen_a9a8400ee9f22e98/current-ai-coding-will-never-replace-human-programmers-hint-from-the-story-of-alphago-4fla)
+- [Social Media Doesn’t Run on Algorithms. It Runs on People.](https://dev.to/hemantanandi/social-media-doesnt-run-on-algorithms-it-runs-on-people-1198)
+- [How to get your first 100 users &lpar;even if you suck at marketing&rpar;](https://dev.to/kislay/how-to-get-your-first-100-users-even-if-you-suck-at-marketing-22kp)
+- [I Turned Notion Into a Control Plane for my 18 OpenClaw AI Agents](https://dev.to/aws-heroes/i-turned-notion-into-a-control-plane-for-my-18-openclaw-ai-agents-5624)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
