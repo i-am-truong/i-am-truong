@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Next Week Is Going to Be Pure Chaos!!](https://dev.to/rudraps/next-week-is-going-to-be-pure-chaos-1kg0)
-- [DevOps From Scratch: Entry #05](https://dev.to/maame-codes/devops-from-scratch-entry-05-56o9)
-- [# 🚀 The Rise of AI Hardware: Why GPUs and Custom Chips Dominate AI](https://dev.to/akdevi99/-the-rise-of-ai-hardware-why-gpus-and-custom-chips-dominate-ai-5f48)
-- [Apprenez à forcer l&#39;API de l&#39;IA à vous répondre exclusivement dans un format JSON strict et validé](https://dev.to/saphirtoken/apprenez-a-forcer-lapi-de-lia-a-vous-repondre-exclusivement-dans-un-format-json-strict-et-valide-3o4e)
-- [I Checked What Security Vulnerabilities AI Coding Tools Actually Introduce](https://dev.to/vitalii_petrenko_dev/i-checked-what-security-vulnerabilities-ai-coding-tools-actually-introduce-1cjd)
+- [Accept Payments in Salesforce: A Complete Guide to Stripe Integration](https://dev.to/sabir_sheikh_cd49d4c419e3/accept-payments-in-salesforce-a-complete-guide-to-stripe-integration-1a2k)
+- [AI Agents in Marketing: Why Automation Should Handle the Busywork](https://dev.to/giang_hng_fed6018a61f46/ai-agents-in-marketing-why-automation-should-handle-the-busywork-502p)
+- [Next Week Is Going to Be Pure Chaos!!](https://dev.to/owaspblt/next-week-is-going-to-be-pure-chaos-1kg0)
+- [How to build a self-improving AI agent: the nightly loop pattern](https://dev.to/askpatrick/how-to-build-a-self-improving-ai-agent-the-nightly-loop-pattern-njn)
+- [Key Math Concepts in Data Structures and Algorithms](https://dev.to/saptarshisarkar/key-math-concepts-in-data-structures-and-algorithms-392c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
