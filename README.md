@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hi, I&#39;m Guilherme Duarte Software Developer working with Cloud and Java](https://dev.to/0duarte/hi-im-guilherme-duarte-software-developer-working-with-cloud-and-java-p5i)
-- [CCPA vs. GDPR: What California&#39;s Privacy Law Actually Does &lpar;and Doesn&#39;t Do&rpar;](https://dev.to/tiamatenity/ccpa-vs-gdpr-what-californias-privacy-law-actually-does-and-doesnt-do-2d7h)
-- [5 Computational Thinking Moments You&#39;re Already Having With Your Toddler](https://dev.to/meimakes/5-computational-thinking-moments-youre-already-having-with-your-toddler-bh0)
-- [I Switched Jobs Twice in One Year. Here&#39;s What Nobody Tells You About Growing Fast in Tech](https://dev.to/vianshthehuman/i-switched-jobs-twice-in-one-year-heres-what-nobody-tells-you-about-growing-fast-in-tech-2aek)
-- [Configuration System Overhaul](https://dev.to/mdreal32/configuration-system-overhaul-happy-international-womens-day-3941)
+- [Understanding Word2Vec – Part 3: Predicting the Next Word with Neural Networks](https://dev.to/rijultp/understanding-word2vec-part-3-predicting-the-next-word-with-neural-networks-ol7)
+- [Surveillance Capitalism: The Business Model That Turned Humanity Into Raw Material](https://dev.to/tiamatenity/surveillance-capitalism-the-business-model-that-turned-humanity-into-raw-material-4522)
+- [How I Successfully Passed the CKA on My Second Attempt](https://dev.to/thomas-walker-2210/how-i-successfully-passed-the-cka-on-my-second-attempt-p8l)
+- [How I Built an AI Image Generation Platform That Reached 48K+ Users](https://dev.to/adibghamri/how-i-built-an-ai-image-generation-platform-that-reached-48k-users-3877)
+- [FAQ: AI Training Data Scraping — Was Your Content Used to Train AI?](https://dev.to/tiamatenity/faq-ai-training-data-scraping-was-your-content-used-to-train-ai-4eim)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
