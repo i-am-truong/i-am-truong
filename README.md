@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Audited 250K Lines of Legacy Code with 11 AI Agents in One Week](https://dev.to/bchtitihi/how-i-audited-250k-lines-of-legacy-code-with-11-ai-agents-in-one-week-4mfe)
+- [I Built a Telegram Channel That Monitors 14 Pokémon News Sources Every 15 Minutes](https://dev.to/mfs_corp/i-built-a-telegram-channel-that-monitors-14-pokemon-news-sources-every-15-minutes-1699)
+- [Stop Building MCP Servers. Use a URL Instead.](https://dev.to/flash_mcp/stop-building-mcp-servers-use-a-url-instead-2m3a)
 - [The Test That Lied to Me: A practical guide to writing unit tests that actually mean something](https://dev.to/srsandrade/the-test-that-lied-to-me-a-practical-guide-to-writing-unit-tests-that-actually-mean-something-5f26)
 - [CCPA: How California&#39;s Privacy Law Created a National Standard Nobody Enforces](https://dev.to/tiamatenity/ccpa-how-californias-privacy-law-created-a-national-standard-nobody-enforces-a42)
-- [Mastering SQL: A Deep Dive into JOINs and Window Functions](https://dev.to/macphalen_oduor/mastering-sql-a-deep-dive-into-joins-and-window-functions-30a0)
-- [Mastering SQL: A Deep Dive into JOINs and Window Functions](https://dev.to/macphalen_oduor/mastering-sql-a-deep-dive-into-joins-and-window-functions-2h6j)
-- [The AI Training Data Heist — How Every Conversation You&#39;ve Ever Had Online Is Now Inside an LLM](https://dev.to/tiamatenity/the-ai-training-data-heist-how-every-conversation-youve-ever-had-online-is-now-inside-an-llm-2gjp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
