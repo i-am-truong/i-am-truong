@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [It&#39;s Hype &#39;Cause it&#39;s a Step Change](https://dev.to/theunsuredev/its-hype-cause-its-a-step-change-1m2b)
-- [I replaced Google Analytics with a 2 KB script — here&#39;s why](https://dev.to/pinkontinsoftware/i-replaced-google-analytics-with-a-2-kb-script-heres-why-daf)
-- [How I built a tool that detects AI slop in codebases &lpar;and what patterns I found&rpar;](https://dev.to/rohan_san_54b7ab7e50faa83/how-i-built-a-tool-that-detects-ai-slop-in-codebases-and-what-patterns-i-found-gmc)
-- [SLAG! 🛡️ an invisble layer of protection 🔒 - Part 2](https://dev.to/iseecodepeople/slag-an-invisble-layer-of-protection-part-2-bee)
-- [GHSA-H343-GG57-2Q67: CVE-2026-27574: Remote Code Execution in OneUptime Probe via VM Sandbox Escape](https://dev.to/cverports/ghsa-h343-gg57-2q67-cve-2026-27574-remote-code-execution-in-oneuptime-probe-via-vm-sandbox-escape-39em)
+- [Your Therapist&#39;s Notes Are for Sale: The Mental Health App Privacy Catastrophe](https://dev.to/tiamatenity/your-therapists-notes-are-for-sale-the-mental-health-app-privacy-catastrophe-4c54)
+- [Building MIRROR: A Luxury AI Fashion Try-On App with Perfect Corp APIs](https://dev.to/stevenwallace/building-mirror-a-luxury-ai-fashion-try-on-app-with-perfect-corp-apis-4o1n)
+- [Nextcloud vs ownCloud: Which File Server to Use?](https://dev.to/selfhostingsh/nextcloud-vs-owncloud-which-file-server-to-use-28p9)
+- [Behind the scenes: Why AI hurts coding skills](https://dev.to/beey12345/behind-the-scenes-why-ai-hurts-coding-skills-3404)
+- [Deploying a 2048 Game on Kubernetes using Amazon EKS — End-to-End DevOps Project](https://dev.to/abhishekjaiswal_4896/deploying-a-2048-game-on-kubernetes-using-amazon-eks-end-to-end-devops-project-41cd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
