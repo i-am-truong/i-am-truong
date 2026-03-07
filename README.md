@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why AI Systems Become Expensive: Tokenization, Chunking, and Retrieval Design in the Cloud &lpar;AWS&rpar;](https://dev.to/mihinduranasinghe/why-ai-systems-become-expensive-tokenization-chunking-and-retrieval-design-in-the-cloud-aws-2g17)
-- [Nearest Neighbor Value Interpolation](https://dev.to/paperium/nearest-neighbor-value-interpolation-n77)
-- [Supabase vs Firebase: The Ultimate Guide for Startups in 2026](https://dev.to/rupa_tiwari_dd308948d710f/supabase-vs-firebase-the-ultimate-guide-for-startups-in-2026-1eae)
-- [Why We Built an AI Agent, Not an AI Feature — And What That Means for Your Team](https://dev.to/upendradevsingh/why-we-built-an-ai-agent-not-an-ai-feature-and-what-that-means-for-your-team-479b)
-- [Composition Pattern in React](https://dev.to/gabrielenache/composition-pattern-in-react-1i52)
+- [Building a Reliable Job Scheduler with Cloudflare Durable Objects and Queues](https://dev.to/shaikhalamin/building-a-reliable-job-scheduler-with-cloudflare-durable-objects-and-queues-3d27)
+- [How We Managed State Across 900+ React Components Without Losing Our Minds](https://dev.to/keshav422/how-we-managed-state-across-900-react-components-without-losing-our-minds-56mj)
+- [How I Built a CRDT Engine for a Collaborative Whiteboard in Rust](https://dev.to/rafacalderon/how-i-built-a-crdt-engine-for-a-collaborative-whiteboard-in-rust-41kl)
+- [Tracking Search Rankings &amp; SEO on Depop](https://dev.to/jonathanfisher/tracking-search-rankings-seo-on-depop-2o59)
+- [Production AI Broke Because of a Model Deprecation — So I Built llm-model-deprecation](https://dev.to/sudharsana_viswanathan_46/production-ai-broke-because-of-a-model-deprecation-so-i-built-llm-model-deprecation-4925)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
