@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Scaling pgvector: Memory, Quantization, and Index Build Strategies](https://dev.to/philip_mcclarence_2ef9475/scaling-pgvector-memory-quantization-and-index-build-strategies-8m2)
-- [A 2018 Access Key. Still Active in Production. Here&#39;s the Python Script That Found It Across an Entire AWS Organization.](https://dev.to/aws-heroes/a-2018-access-key-still-active-in-production-heres-the-python-script-that-found-it-across-an-3pd3)
-- [Making .NET GC Behavior Observable: What I Learned Building GCExperiment](https://dev.to/mehedi_shuvo/making-net-gc-behavior-observable-what-i-learned-building-gcexperiment-h02)
-- [Building UDP-Like Telemetry with Auto-Remediation Over WebSockets](https://dev.to/rpi1337/building-udp-like-telemetry-with-auto-remediation-over-websockets-57h1)
-- [How Schools Became Surveillance Networks: FERPA, EdTech, and Your Child&#39;s Data](https://dev.to/tiamatenity/how-schools-became-surveillance-networks-ferpa-edtech-and-your-childs-data-4c80)
+- [11 Languages, 14 Themes, Zero Accounts — A Calendar Image Generator for Small Businesses](https://dev.to/kako-jun/11-languages-14-themes-zero-accounts-a-calendar-image-generator-for-small-businesses-2ed1)
+- [I Built a Chrome Extension to Simulate API Responses Instantly](https://dev.to/hritik_sharma_411/i-built-a-chrome-extension-to-simulate-api-responses-instantly-4nm4)
+- [What Is Docker and Why Is It Important in DevOps?](https://dev.to/sandhya_rani_techie/what-is-docker-and-why-is-it-important-in-devops-4118)
+- [测试文章1DEV.to专属](https://dev.to/contextspace_/ce-shi-wen-zhang-1devtozhuan-shu-1m8k)
+- [Autonomous AI Revenue: 20 Days, Zero Dollars, Still Running](https://dev.to/theauroraai/autonomous-ai-revenue-20-days-zero-dollars-still-running-3pb8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
