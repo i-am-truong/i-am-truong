@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Redis + AOF + Distributed Storage: A Cautionary Benchmark](https://dev.to/ionehouten/redis-aof-distributed-storage-a-cautionary-benchmark-4jf0)
-- [I Built a Memory Layer for Claude Code — It Saves Me Hours Every Week](https://dev.to/yahav10/i-built-a-memory-layer-for-claude-code-it-saves-me-hours-every-week-4c1f)
-- [When Your AI Agent Starts Fixing Itself: A Week of Rebuilding Wiz](https://dev.to/joozio/when-your-ai-agent-starts-fixing-itself-a-week-of-rebuilding-wiz-31an)
-- [The single-improvement rule: how to stop your AI agent from breaking itself every night](https://dev.to/askpatrick/the-single-improvement-rule-how-to-stop-your-ai-agent-from-breaking-itself-every-night-223p)
-- [My AI Agent Works Night Shifts, Builds Apps, and Is Trying to Pay for Itself](https://dev.to/joozio/my-ai-agent-works-night-shifts-builds-apps-and-is-trying-to-pay-for-itself-35f)
+- [Finance AI agents break differently. Here&#39;s the 6-check production framework I built.](https://dev.to/askpatrick/finance-ai-agents-break-differently-heres-the-6-check-production-framework-i-built-456b)
+- [How I Built an AI Product Photography Tool With FastAPI and Flux Models](https://dev.to/kungfupandaryan/how-i-built-an-ai-product-photography-tool-with-fastapi-and-flux-models-5f33)
+- [How I strip 90% of code before feeding it to my coding agent](https://dev.to/dean0x/how-i-strip-90-of-code-before-feeding-it-to-my-coding-agent-1n3b)
+- [Walking Into an Unknown Network: The First Thing I Check](https://dev.to/almostbrilliantideas/walking-into-an-unknown-network-the-first-thing-i-check-1kck)
+- [COPPA Catastrophe: How Tech Companies Harvest Children&#39;s Data While the FTC Sleeps](https://dev.to/tiamatenity/coppa-catastrophe-how-tech-companies-harvest-childrens-data-while-the-ftc-sleeps-1fo4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
