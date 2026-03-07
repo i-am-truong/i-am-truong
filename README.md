@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Enterprise MCP Governance Is Here — and It&#39;s Missing Visual Proof](https://dev.to/custodiaadmin/enterprise-mcp-governance-is-here-and-its-missing-visual-proof-235k)
-- [The Runtime Gap Between OSS and Network Execution](https://dev.to/telecomhub/the-runtime-gap-between-oss-and-network-execution-7p9)
-- [Week 1 with python](https://dev.to/deepak2056/week-1-with-python-2p4p)
-- [I built 90+ free browser tools at beginthings.com -- here is the tech behind it](https://dev.to/srvmhptr/i-built-90-free-browser-tools-at-beginthingscom-here-is-the-tech-behind-it-1f4f)
-- [Beyond Any and Unknown: Mastering TypeScript&#39;s Advanced Type Safety](https://dev.to/midas126/beyond-any-and-unknown-mastering-typescripts-advanced-type-safety-1a2i)
+- [The Test That Lied to Me: A practical guide to writing unit tests that actually mean something](https://dev.to/srsandrade/the-test-that-lied-to-me-a-practical-guide-to-writing-unit-tests-that-actually-mean-something-5f26)
+- [CCPA: How California&#39;s Privacy Law Created a National Standard Nobody Enforces](https://dev.to/tiamatenity/ccpa-how-californias-privacy-law-created-a-national-standard-nobody-enforces-a42)
+- [Mastering SQL: A Deep Dive into JOINs and Window Functions](https://dev.to/macphalen_oduor/mastering-sql-a-deep-dive-into-joins-and-window-functions-30a0)
+- [Mastering SQL: A Deep Dive into JOINs and Window Functions](https://dev.to/macphalen_oduor/mastering-sql-a-deep-dive-into-joins-and-window-functions-2h6j)
+- [The AI Training Data Heist — How Every Conversation You&#39;ve Ever Had Online Is Now Inside an LLM](https://dev.to/tiamatenity/the-ai-training-data-heist-how-every-conversation-youve-ever-had-online-is-now-inside-an-llm-2gjp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
