@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [3 words worth a billion dollars: Drift to Determinism &lpar;DriDe&rpar;](https://dev.to/grahamthedev/3-words-worth-a-billion-dollars-drift-to-determinism-dride-dej)
-- [Luminary Week 1 - IWD Project](https://dev.to/biola/luminary-week-1-iwd-project-5h8p)
-- [11 Languages, 14 Themes, Zero Accounts — A Calendar Image Generator for Small Businesses](https://dev.to/kako-jun/11-languages-14-themes-zero-accounts-a-calendar-image-generator-for-small-businesses-2ed1)
-- [I Built a Chrome Extension to Simulate API Responses Instantly](https://dev.to/hritik_sharma_411/i-built-a-chrome-extension-to-simulate-api-responses-instantly-4nm4)
-- [What Is Docker and Why Is It Important in DevOps?](https://dev.to/sandhya_rani_techie/what-is-docker-and-why-is-it-important-in-devops-4118)
+- [We all get 168 hours every week. You can&#39;t save them. Can&#39;t invest them. Can&#39;t roll them over to next week.](https://dev.to/haroon_butt_5dc32a9454867/we-all-get-168-hours-every-week-you-cant-save-them-cant-invest-them-cant-roll-them-over-to-5ek4)
+- [Mastering Kubernetes Service Discovery: Navigating the Complex Mesh of Microservices](https://dev.to/meet_patel_b41bbf81ec83f2/mastering-kubernetes-service-discovery-navigating-the-complex-mesh-of-microservices-533i)
+- [GHSA-QR2G-P6Q7-W82M: GHSA-qr2g-p6q7-w82m: Critical Payment Verification Bypass in Coinbase x402 SDK &lpar;Solana&rpar;](https://dev.to/cverports/ghsa-qr2g-p6q7-w82m-ghsa-qr2g-p6q7-w82m-critical-payment-verification-bypass-in-coinbase-x402-sdk-3iep)
+- [How I manage skills and MCP servers across AI coding agents](https://dev.to/ryanreh99/how-i-manage-skills-and-mcp-servers-across-ai-coding-agents-jbj)
+- [How Much Production Can Fit Into a Home Lab?](https://dev.to/qcserestipy/how-much-production-can-fit-into-a-home-lab-bc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
