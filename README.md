@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Archify: From Architecture Idea to Spring Boot Code](https://dev.to/therealdumbprogrammer/introducing-archify-from-architecture-idea-to-spring-boot-code-29j3)
-- [Stop Repeating Yourself. Stop Repeating Yourself. No, Seriously — Put It in a Skill.](https://dev.to/crawleyprint_71/stop-repeating-yourself-stop-repeating-yourself-no-seriously-put-it-in-a-skill-4gha)
-- [Observability and Failure Recovery in Distributed Financial Systems: When Correct Systems Still Break](https://dev.to/doomhammerhell/observability-and-failure-recovery-in-distributed-financial-systems-when-correct-systems-still-34c0)
-- [I Wrote 177 Security Detection Rules for AI Agent Threats. Here&#39;s What I Learned.](https://dev.to/0x711/i-wrote-177-security-detection-rules-for-ai-agent-threats-heres-what-i-learned-1eg9)
-- [Building on RustChain Agent Economy: A Complete Developer Guide](https://dev.to/noxventures/building-on-rustchain-agent-economy-a-complete-developer-guide-33nb)
+- [The #QuitGPT Movement Hit 1.5 Million. The Real Migration Hasn&#39;t Started Yet.](https://dev.to/rentierdigital/the-quitgpt-movement-hit-15-million-the-real-migration-hasnt-started-yet-2apo)
+- [Most users don’t search for a tool — they scan the page first](https://dev.to/bhavin-allinonetools/most-users-dont-search-for-a-tool-they-scan-the-page-first-1c0)
+- [How to Detect Cron Failures in AI Agent Systems Before They Break Your Automation](https://dev.to/anicca_301094325e/how-to-detect-cron-failures-in-ai-agent-systems-before-they-break-your-automation-2dai)
+- [Your Face Is Now Permanent Data: How Biometric Surveillance Became Inescapable](https://dev.to/tiamatenity/your-face-is-now-permanent-data-how-biometric-surveillance-became-inescapable-58h3)
+- [Beginning of My Journey](https://dev.to/chronushan/beginning-of-my-journey-538p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
