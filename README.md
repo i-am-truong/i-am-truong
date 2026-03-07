@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Demystifying GCP: Generate Clear Google Cloud Platform Diagrams Automatically with Coordimap](https://dev.to/coordimap/demystifying-gcp-generate-clear-google-cloud-platform-diagrams-automatically-with-coordimap-4dpa)
-- [Mastering SQL Joins and Window Functions: A Practical Guide with an E‑commerce Dataset](https://dev.to/charles_ndungu/mastering-sql-joins-and-window-functions-a-practical-guide-with-an-e-commerce-dataset-ejg)
-- [Just What Is Rust, Anyway?](https://dev.to/dimension-zero/just-what-is-rust-anyway-28bh)
-- [Building and Configuring Custom Docker Images: From Execution Mechanics to Global Distribution](https://dev.to/anusha_kuppili/building-and-configuring-custom-docker-images-from-execution-mechanics-to-global-distribution-2h12)
-- [I Found a 2-Year-Old GitHub Feature Request and Built It](https://dev.to/reposweeper/i-found-a-2-year-old-github-feature-request-and-built-it-1ibm)
+- [I Switched Jobs Twice in One Year. Here&#39;s What Nobody Tells You About Growing Fast in Tech](https://dev.to/vianshthehuman/i-switched-jobs-twice-in-one-year-heres-what-nobody-tells-you-about-growing-fast-in-tech-2aek)
+- [Configuration System Overhaul](https://dev.to/mdreal32/configuration-system-overhaul-happy-international-womens-day-3941)
+- [Mac Volume Control Not Working with HDMI? 5 Solutions That Actually Work](https://dev.to/appish/mac-volume-control-not-working-with-hdmi-5-solutions-that-actually-work-bl9)
+- [Rust Globals and Locks: Mutex, RwLock, and the Lock-Free Trick &lpar;ArcSwap&rpar; I Wish I’d Known Earlier](https://dev.to/manan_shukla_eebf35d10bbf/rust-globals-and-locks-mutex-rwlock-and-the-lock-free-trick-arcswap-i-wish-id-known-earlier-27lj)
+- [Feature Flags: The Release Superpower You&#39;re Missing](https://dev.to/rohit19060/feature-flags-the-release-superpower-youre-missing-1n3a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
