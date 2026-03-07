@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Import Spreadsheet to BigQuery](https://dev.to/csvbox-io/import-spreadsheet-to-bigquery-23p9)
-- [Pitch Replication And Axis Compression In Unreal Engine](https://dev.to/roasted-kaju/pitch-replication-and-axis-compression-in-unreal-engine-285k)
-- [Polymorphism in Java: The &quot;Shape-Shifter&quot; Secret to Flexible Code](https://dev.to/realnamehidden1_61/polymorphism-in-java-the-shape-shifter-secret-to-flexible-code-51ij)
-- [Ditching the Laptop: My N8N Cloud Automation Adventure!](https://dev.to/hishamkherbouch/ditching-the-laptop-my-n8n-cloud-automation-adventure-4ja3)
-- [The Best Way to Use AI for Coding](https://dev.to/deep_mishra_/the-best-way-to-use-ai-for-coding-2226)
+- [I Fed My Tech Book into NotebookLM, and It Generated Spot-On Infographics](https://dev.to/tinyalg/i-fed-my-tech-book-into-notebooklm-and-it-generated-spot-on-infographics-3668)
+- [HTML pen](https://dev.to/danh_nguyen_edd06370345cc/html-pen-15bl)
+- [Simulated Touch With Input Swapping In Unreal Engine](https://dev.to/roasted-kaju/simulated-touch-with-input-swapping-in-unreal-engine-42aa)
+- [Function Declaration vs Function Expression: What’s the Difference?](https://dev.to/ritam369/function-declaration-vs-function-expression-whats-the-difference-1a6o)
+- [InboxGuilt and the Tone Dial Feature](https://dev.to/colocodes/inboxguilt-and-the-tone-dial-feature-393i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
