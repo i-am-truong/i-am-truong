@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop manually setting up tRPC in Next.js — use this CLI instead](https://dev.to/dhavalkurkutiya/stop-manually-setting-up-trpc-in-nextjs-use-this-cli-instead-10pj)
-- [Reducing the time between a production crash and a fix](https://dev.to/zakaria_hili_686648600332/reducing-the-time-between-a-production-crash-and-a-fix-21pe)
-- [FERPA Is Dead: How EdTech Turned Schools Into Surveillance Infrastructure](https://dev.to/tiamatenity/ferpa-is-dead-how-edtech-turned-schools-into-surveillance-infrastructure-54fl)
-- [Visualizer Components](https://dev.to/roasted-kaju/visualizer-components-1hg6)
-- [Mental Health Apps: Your Therapy Session Is a Data Product](https://dev.to/tiamatenity/mental-health-apps-your-therapy-session-is-a-data-product-f11)
+- [Your Voice Assistant Is Always Listening: What Amazon, Google, and Apple Are Actually Recording](https://dev.to/tiamatenity/your-voice-assistant-is-always-listening-what-amazon-google-and-apple-are-actually-recording-1a85)
+- [Developers Should Learn a Little Marketing](https://dev.to/prince_sharma_spx/developers-should-learn-a-little-marketing-38ld)
+- [Will AI Reduce Software Engineering Salaries?](https://dev.to/aijob/will-ai-reduce-software-engineering-salaries-52l5)
+- [Why Merging AI Models Fails &lpar;And How a &#39;Gossip Handshake&#39; Fixed It&rpar;](https://dev.to/tflux2011/why-merging-ai-models-fails-and-how-a-gossip-handshake-fixed-it-3gef)
+- [Everything You Need to Know About Edge Page Caching](https://dev.to/serveravatar/everything-you-need-to-know-about-edge-page-caching-4l0i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
