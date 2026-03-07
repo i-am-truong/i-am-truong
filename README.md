@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What Changed When Our Research Pipeline Hit a PDF Wall &lpar;Production Case Study&rpar;](https://dev.to/kailash_ac43c0ef1daf14abd/what-changed-when-our-research-pipeline-hit-a-pdf-wall-production-case-study-g94)
+- [Figma vs Adobe XD: Design Tool for Product Teams — The Honest 2026 Verdict](https://dev.to/glen_kiptoo_25bf70b816136/figma-vs-adobe-xd-design-tool-for-product-teams-the-honest-2026-verdict-36b0)
+- [When Deep Search Breaks: The Costly Mistakes Teams Make When Hunting Research Signal](https://dev.to/azimkhan72/when-deep-search-breaks-the-costly-mistakes-teams-make-when-hunting-research-signal-4e47)
 - [A Cookie Banner Listed 1,467 Partners — So I Used AI to Unmask Them](https://dev.to/irarainey/a-cookie-banner-listed-1467-partners-so-i-used-ai-to-unmask-them-22dp)
 - [Open source Intercom &amp; CCTV platform with Mobile apps, Face and LP Recognition, Media Server &lpar;GPLv3&rpar;](https://dev.to/sbca68/open-source-intercom-cctv-platform-with-mobile-apps-face-and-lp-recognition-media-server-gplv3-1chk)
-- [PDFWorkSpace &lpar;Local, In-Browser PDF toolkit&rpar; - Reaching 5k+ Users and What&#39;s Coming Next](https://dev.to/rahil1202/pdfworkspace-local-in-browser-pdf-toolkit-reaching-5k-users-and-whats-coming-next-27mj)
-- [OpenTofu vs Terraform in 2026: Is the Fork Finally Worth It?](https://dev.to/mechcloud_academy/opentofu-vs-terraform-in-2026-is-the-fork-finally-worth-it-3nd1)
-- [FERPA &amp; AI: How EdTech Is Surveilling Students &lpar;And Why the Law Lets Them&rpar;](https://dev.to/tiamatenity/ferpa-ai-how-edtech-is-surveilling-students-and-why-the-law-lets-them-1715)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
