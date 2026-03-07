@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [PowerSkills: Giving AI Agents Control Over Windows with PowerShell](https://dev.to/xlth/powerskills-giving-ai-agents-control-over-windows-with-powershell-1il2)
-- [ER Diagram](https://dev.to/dolly_sharma/er-diagram-2dn2)
-- [Ingeniería S&amp;OP II: Demand Planning, de la Adivinación a la Probabilidad](https://dev.to/datalaria/ingenieria-sop-ii-demand-planning-de-la-adivinacion-a-la-probabilidad-15m2)
-- [Dari Developer ke Penyair 🌿: Kenapa Aku Menulis &quot;Hening yang Berjalan&quot;](https://dev.to/cas8398/dari-developer-ke-penyair-kenapa-aku-menulis-hening-yang-berjalan-1ilf)
-- [I Tried 20+ Claude Code Courses on Udemy: Here Are 5 Courses I Recommend](https://dev.to/somadevtoo/i-tried-20-claude-code-courses-on-udemy-here-are-5-courses-i-recommend-1kc9)
+- [SLM vs. LLM: The Enterprise Decision Guide With Real Cost Data and Benchmarks](https://dev.to/jaipalsingh/slm-vs-llm-the-enterprise-decision-guide-with-real-cost-data-and-benchmarks-2h75)
+- [About Invisibility, Propaganda, and Assumptions of Incompetence](https://dev.to/eevajonnapanula/about-invisibility-propaganda-and-assumptions-of-incompetence-4ce0)
+- [Deploy a Production AI Platform on AWS for $100/month](https://dev.to/tyson_cung/deploy-a-production-ai-platform-on-aws-for-100month-3jgn)
+- [I Built a Free AI Tools Directory with 500+ Tools, Comparisons &amp; Prompt Templates](https://dev.to/aimin_wang_7060db4544e521/i-built-a-free-ai-tools-directory-with-500-tools-comparisons-prompt-templates-4njd)
+- [I Built a Solana Tip Jar](https://dev.to/kingfaitho/i-built-a-solana-tip-jar-27c8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
