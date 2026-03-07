@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How GenAI Genesis Began](https://dev.to/alankritverma/how-genai-genesis-began-523b)
+- [I Built a Free Hemingway Editor Alternative That Runs in Your Browser](https://dev.to/ckmtools/i-built-a-free-hemingway-editor-alternative-that-runs-in-your-browser-14d4)
 - [Your Therapist&#39;s Notes Are for Sale: The Mental Health App Privacy Catastrophe](https://dev.to/tiamatenity/your-therapists-notes-are-for-sale-the-mental-health-app-privacy-catastrophe-4c54)
 - [Building MIRROR: A Luxury AI Fashion Try-On App with Perfect Corp APIs](https://dev.to/stevenwallace/building-mirror-a-luxury-ai-fashion-try-on-app-with-perfect-corp-apis-4o1n)
 - [Nextcloud vs ownCloud: Which File Server to Use?](https://dev.to/selfhostingsh/nextcloud-vs-owncloud-which-file-server-to-use-28p9)
-- [Behind the scenes: Why AI hurts coding skills](https://dev.to/beey12345/behind-the-scenes-why-ai-hurts-coding-skills-3404)
-- [Deploying a 2048 Game on Kubernetes using Amazon EKS — End-to-End DevOps Project](https://dev.to/abhishekjaiswal_4896/deploying-a-2048-game-on-kubernetes-using-amazon-eks-end-to-end-devops-project-41cd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
