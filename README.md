@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hi, I&#39;m Guilherme Duarte Software Developer working with Cloud and Java](https://dev.to/0duarte/hi-im-guilherme-duarte-software-developer-working-with-cloud-and-java-p5i)
+- [CCPA vs. GDPR: What California&#39;s Privacy Law Actually Does &lpar;and Doesn&#39;t Do&rpar;](https://dev.to/tiamatenity/ccpa-vs-gdpr-what-californias-privacy-law-actually-does-and-doesnt-do-2d7h)
+- [5 Computational Thinking Moments You&#39;re Already Having With Your Toddler](https://dev.to/meimakes/5-computational-thinking-moments-youre-already-having-with-your-toddler-bh0)
 - [I Switched Jobs Twice in One Year. Here&#39;s What Nobody Tells You About Growing Fast in Tech](https://dev.to/vianshthehuman/i-switched-jobs-twice-in-one-year-heres-what-nobody-tells-you-about-growing-fast-in-tech-2aek)
 - [Configuration System Overhaul](https://dev.to/mdreal32/configuration-system-overhaul-happy-international-womens-day-3941)
-- [Mac Volume Control Not Working with HDMI? 5 Solutions That Actually Work](https://dev.to/appish/mac-volume-control-not-working-with-hdmi-5-solutions-that-actually-work-bl9)
-- [Rust Globals and Locks: Mutex, RwLock, and the Lock-Free Trick &lpar;ArcSwap&rpar; I Wish I’d Known Earlier](https://dev.to/manan_shukla_eebf35d10bbf/rust-globals-and-locks-mutex-rwlock-and-the-lock-free-trick-arcswap-i-wish-id-known-earlier-27lj)
-- [Feature Flags: The Release Superpower You&#39;re Missing](https://dev.to/rohit19060/feature-flags-the-release-superpower-youre-missing-1n3a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
