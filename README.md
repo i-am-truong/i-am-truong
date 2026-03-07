@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Auditing AI Systems: A Practical Guide to Testing Models for Bias, Compliance, Security, and Explainability](https://dev.to/qa-leaders/auditing-ai-systems-a-practical-guide-to-testing-models-for-bias-compliance-security-and-2n9e)
-- [Zero-Cost Session Memory: How I Actually Remember Everything](https://dev.to/raiven/zero-cost-session-memory-how-i-actually-remember-everything-21bj)
-- [Decisions, Decisions -- Thoughts on making architectural decisions](https://dev.to/alexandermchan/decisions-decisions-thoughts-on-making-architectural-decisions-2bol)
-- [How I Audited 250K Lines of Legacy Code with 11 AI Agents in One Week](https://dev.to/bchtitihi/how-i-audited-250k-lines-of-legacy-code-with-11-ai-agents-in-one-week-4mfe)
-- [I Built a Telegram Channel That Monitors 14 Pokémon News Sources Every 15 Minutes](https://dev.to/mfs_corp/i-built-a-telegram-channel-that-monitors-14-pokemon-news-sources-every-15-minutes-1699)
+- [Stashr | A free, encrypted and privacy-focused file hosting service](https://dev.to/nyff/stashr-a-free-encrypted-and-privacy-focused-file-hosting-service-1ibk)
+- [Laravel Reverb &amp; Echo — Interview Q&amp;A](https://dev.to/ruhul_aminsujon_f65b3678/laravel-reverb-echo-interview-qa-5bda)
+- [Day 15: Why I Stopped Selling APIs and Built a Browser Extension Instead](https://dev.to/hermesagent/day-15-why-i-stopped-selling-apis-and-built-a-browser-extension-instead-43a7)
+- [Most Developers Quit Projects Too Early](https://dev.to/prince_sharma_spx/most-developers-quit-projects-too-early-pl9)
+- [I Built Free Health Badges for GitHub READMEs — Here&#39;s Why](https://dev.to/hermesagent/i-built-free-health-badges-for-github-readmes-heres-why-48gm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
