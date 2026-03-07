@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Web3 Jobs Decoded: Feedback Loops, Interview Prep, and Hiring Criteria](https://dev.to/ribhavmodi/web3-jobs-decoded-feedback-loops-interview-prep-and-hiring-criteria-42ed)
-- [Current AI Coding Will Never Replace Human Programmers—Hint from the Story of AlphaGo](https://dev.to/rex_zhen_a9a8400ee9f22e98/current-ai-coding-will-never-replace-human-programmers-hint-from-the-story-of-alphago-4fla)
-- [Social Media Doesn’t Run on Algorithms. It Runs on People.](https://dev.to/hemantanandi/social-media-doesnt-run-on-algorithms-it-runs-on-people-1198)
-- [How to get your first 100 users &lpar;even if you suck at marketing&rpar;](https://dev.to/kislay/how-to-get-your-first-100-users-even-if-you-suck-at-marketing-22kp)
-- [I Turned Notion Into a Control Plane for my 18 OpenClaw AI Agents](https://dev.to/aws-heroes/i-turned-notion-into-a-control-plane-for-my-18-openclaw-ai-agents-5624)
+- [Stop manually setting up tRPC in Next.js — use this CLI instead](https://dev.to/dhavalkurkutiya/stop-manually-setting-up-trpc-in-nextjs-use-this-cli-instead-10pj)
+- [Reducing the time between a production crash and a fix](https://dev.to/zakaria_hili_686648600332/reducing-the-time-between-a-production-crash-and-a-fix-21pe)
+- [FERPA Is Dead: How EdTech Turned Schools Into Surveillance Infrastructure](https://dev.to/tiamatenity/ferpa-is-dead-how-edtech-turned-schools-into-surveillance-infrastructure-54fl)
+- [Visualizer Components](https://dev.to/roasted-kaju/visualizer-components-1hg6)
+- [Mental Health Apps: Your Therapy Session Is a Data Product](https://dev.to/tiamatenity/mental-health-apps-your-therapy-session-is-a-data-product-f11)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
