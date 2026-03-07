@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I built a 3D room moodboard that works with screenshots from any store](https://dev.to/kamilbakierzynski/i-built-a-3d-room-moodboard-that-works-with-screenshots-from-any-store-35a4)
+- [Kubernetes Service Mesh vs eBPF Networking: Cilium vs Calico Explained](https://dev.to/ntctech/kubernetes-service-mesh-vs-ebpf-networking-cilium-vs-calico-explained-139m)
+- [Bridging the Gap: From Classical Search Theory to the Era of Agentic AI](https://dev.to/sajid0875/bridging-the-gap-from-classical-search-theory-to-the-era-of-agentic-ai-2gcg)
+- [MASTER CODING ORGANISATION](https://dev.to/mastercotutorials/master-coding-organisation-30g6)
 - [Quantum Computing Will Break AI Privacy — And Nobody in the Industry Is Ready](https://dev.to/tiamatenity/quantum-computing-will-break-ai-privacy-and-nobody-in-the-industry-is-ready-5dn7)
-- [Protocols Visualizer: An Interactive Way to Learn Network Protocols](https://dev.to/r9n/protocols-visualizer-an-interactive-way-to-learn-network-protocols-4nep)
-- [Screen Reader Experience Mitigation on Gemini](https://dev.to/wiscer/screen-reader-experience-mitigation-on-gemini-2all)
-- [5 AI Portfolio Projects That Actually Get You Hired in 2026](https://dev.to/klement_gunndu/5-ai-portfolio-projects-that-actually-get-you-hired-in-2026-5bpl)
-- [talkDOM: A Tiny Message-Passing Runtime for the DOM](https://dev.to/ilhannegis/talkdom-a-tiny-message-passing-runtime-for-the-dom-4jgc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
