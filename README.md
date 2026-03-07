@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Fed My Tech Book into NotebookLM, and It Generated Spot-On Infographics](https://dev.to/tinyalg/i-fed-my-tech-book-into-notebooklm-and-it-generated-spot-on-infographics-3668)
-- [HTML pen](https://dev.to/danh_nguyen_edd06370345cc/html-pen-15bl)
-- [Simulated Touch With Input Swapping In Unreal Engine](https://dev.to/roasted-kaju/simulated-touch-with-input-swapping-in-unreal-engine-42aa)
-- [Function Declaration vs Function Expression: What’s the Difference?](https://dev.to/ritam369/function-declaration-vs-function-expression-whats-the-difference-1a6o)
-- [InboxGuilt and the Tone Dial Feature](https://dev.to/colocodes/inboxguilt-and-the-tone-dial-feature-393i)
+- [California Knows Your AI Confession — And It&#39;s Selling It](https://dev.to/tiamatenity/california-knows-your-ai-confession-and-its-selling-it-13fn)
+- [From Developer to Poet 🌿: Why I Wrote &quot;Stillness That Walks&quot;](https://dev.to/cas8398/from-developer-to-poet-why-i-wrote-stillness-that-walks-2ccb)
+- [Building a High-Performance AI-Native Notebook Interface with React and Groq API](https://dev.to/ashutosh_maurya/building-a-high-performance-ai-native-notebook-interface-with-react-and-groq-api-1d32)
+- [Build a RAG Pipeline in Python That Actually Works](https://dev.to/klement_gunndu/build-a-rag-pipeline-in-python-that-actually-works-28dg)
+- [REEL: A Proper Name for the Autonomous Agent Loop](https://dev.to/gregsmethells/reel-a-proper-name-for-the-autonomous-agent-loop-37fj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
