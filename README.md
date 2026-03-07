@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What Changed When Our Research Pipeline Hit a PDF Wall &lpar;Production Case Study&rpar;](https://dev.to/kailash_ac43c0ef1daf14abd/what-changed-when-our-research-pipeline-hit-a-pdf-wall-production-case-study-g94)
-- [Figma vs Adobe XD: Design Tool for Product Teams — The Honest 2026 Verdict](https://dev.to/glen_kiptoo_25bf70b816136/figma-vs-adobe-xd-design-tool-for-product-teams-the-honest-2026-verdict-36b0)
-- [When Deep Search Breaks: The Costly Mistakes Teams Make When Hunting Research Signal](https://dev.to/azimkhan72/when-deep-search-breaks-the-costly-mistakes-teams-make-when-hunting-research-signal-4e47)
-- [A Cookie Banner Listed 1,467 Partners — So I Used AI to Unmask Them](https://dev.to/irarainey/a-cookie-banner-listed-1467-partners-so-i-used-ai-to-unmask-them-22dp)
-- [Open source Intercom &amp; CCTV platform with Mobile apps, Face and LP Recognition, Media Server &lpar;GPLv3&rpar;](https://dev.to/sbca68/open-source-intercom-cctv-platform-with-mobile-apps-face-and-lp-recognition-media-server-gplv3-1chk)
+- [Damoa – 80+ Free Online Tools, 100% Browser-Based](https://dev.to/_db622ecf2c37fb23b9806/damoa-80-free-online-tools-100-browser-based-1o20)
+- [Prolog &quot;Mathematical Induction&quot; Compression on Recursion](https://dev.to/luciangreen/prolog-mathematical-induction-compression-on-recursion-2n8e)
+- [28 TOOL DEFINITIONS! — Cutting AI Agent Costs with Sub-Agent Splitting](https://dev.to/yokomachi/28-tool-definitions-cutting-ai-agent-costs-with-sub-agent-splitting-4dbp)
+- [How to actually start your fitness journey and stick to it &lpar;with the FitJourney platform&rpar;](https://dev.to/eunit/how-to-actually-start-your-fitness-journey-and-stick-to-it-with-the-fitjourney-platform-1oj4)
+- [JPA Mapping with Hibernate-One-to-One Relationship](https://dev.to/ankitdevcode/jpa-mapping-with-hibernate-one-to-one-relationship-g41)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
