@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Introducing ocpp-ws-io: The Type-Safe OCPP Ecosystem for Node.js ⚡](https://dev.to/rohittiwari-dev/introducing-ocpp-ws-io-the-type-safe-ocpp-ecosystem-for-nodejs-314b)
-- [We Ship Production Apps in Weeks, Not Months. Here&#39;s the Engineering Behind It.](https://dev.to/michelle-jones/we-ship-production-apps-in-weeks-not-months-heres-the-engineering-behind-it-2aof)
-- [Important: A VS Code Extension That Keeps Your Python Imports Clean](https://dev.to/irarainey/important-a-vs-code-extension-that-keeps-your-python-imports-clean-je6)
-- [LLMs work best when the user defines their acceptance criteria first](https://dev.to/technoblogger14o3/llms-work-best-when-the-user-defines-their-acceptance-criteria-first-5oa)
-- [Procedural Gradients, Hotfixes, and the Power of QA](https://dev.to/jesuspinarte/procedural-gradients-hotfixes-and-the-power-of-qa-51cb)
+- [FAQ: Surveillance Capitalism — Your Questions About Behavioral Data Answered](https://dev.to/tiamatenity/faq-surveillance-capitalism-your-questions-about-behavioral-data-answered-28lc)
+- [I Built My Portfolio to Look Like VS Code 👨‍💻](https://dev.to/muhammad_rabbi_dev/i-built-my-portfolio-to-look-like-vs-code-4f59)
+- [🚀 Google Workspace CLI Is Here — A Game‑Changer for Developers &amp; AI Agents](https://dev.to/manikandan/google-workspace-cli-is-here-a-game-changer-for-developers-ai-agents-5e44)
+- [FAQ: The HIPAA Illusion — Your Medical Data Privacy Questions Answered](https://dev.to/tiamatenity/faq-the-hipaa-illusion-your-medical-data-privacy-questions-answered-48ga)
+- [CLI tool that explains C memory leaks and suggests fixes](https://dev.to/emmanuel_martin_d71c7e3d3/cli-tool-that-explains-c-memory-leaks-and-suggests-fixes-3n84)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
