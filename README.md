@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Evaluating Large Language Models: A Comprehensive Survey](https://dev.to/paperium/evaluating-large-language-models-a-comprehensive-survey-44kf)
 - [I Implemented Myers Diff in 130 Lines, Then Lost Half a Day to an Off-by-One Bug](https://dev.to/tommy_worklab/i-implemented-myers-diff-in-130-lines-then-lost-half-a-day-to-an-off-by-one-bug-545d)
 - [Review: Clinejection Incident Analysis and Release-Pipeline Hardening for WordPress/Drupal Agent Teams](https://dev.to/victorstackai/review-clinejection-incident-analysis-and-release-pipeline-hardening-for-wordpressdrupal-agent-2h5n)
 - [AI Deflation Risk: Why Citi&#39;s Warning Matters for Policy](https://dev.to/simon_paxton_755c20049aea/ai-deflation-risk-why-citis-warning-matters-for-policy-3j9j)
 - [Cancel ChatGPT: Why the User Boycott Could Change AI](https://dev.to/simon_paxton_755c20049aea/cancel-chatgpt-why-the-user-boycott-could-change-ai-47oj)
-- [Claude Desktop to Claude Code: What I Learned Rebuilding My AI Dev Environment 3 Times](https://dev.to/tommy_worklab/claude-desktop-to-claude-code-what-i-learned-rebuilding-my-ai-dev-environment-3-times-28m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
