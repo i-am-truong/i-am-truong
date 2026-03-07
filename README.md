@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a 3D room moodboard that works with screenshots from any store](https://dev.to/kamilbakierzynski/i-built-a-3d-room-moodboard-that-works-with-screenshots-from-any-store-35a4)
-- [Kubernetes Service Mesh vs eBPF Networking: Cilium vs Calico Explained](https://dev.to/ntctech/kubernetes-service-mesh-vs-ebpf-networking-cilium-vs-calico-explained-139m)
-- [Bridging the Gap: From Classical Search Theory to the Era of Agentic AI](https://dev.to/sajid0875/bridging-the-gap-from-classical-search-theory-to-the-era-of-agentic-ai-2gcg)
-- [MASTER CODING ORGANISATION](https://dev.to/mastercotutorials/master-coding-organisation-30g6)
-- [Quantum Computing Will Break AI Privacy — And Nobody in the Industry Is Ready](https://dev.to/tiamatenity/quantum-computing-will-break-ai-privacy-and-nobody-in-the-industry-is-ready-5dn7)
+- [Introducing Archify: From Architecture Idea to Spring Boot Code](https://dev.to/therealdumbprogrammer/introducing-archify-from-architecture-idea-to-spring-boot-code-29j3)
+- [Stop Repeating Yourself. Stop Repeating Yourself. No, Seriously — Put It in a Skill.](https://dev.to/crawleyprint_71/stop-repeating-yourself-stop-repeating-yourself-no-seriously-put-it-in-a-skill-4gha)
+- [Observability and Failure Recovery in Distributed Financial Systems: When Correct Systems Still Break](https://dev.to/doomhammerhell/observability-and-failure-recovery-in-distributed-financial-systems-when-correct-systems-still-34c0)
+- [I Wrote 177 Security Detection Rules for AI Agent Threats. Here&#39;s What I Learned.](https://dev.to/0x711/i-wrote-177-security-detection-rules-for-ai-agent-threats-heres-what-i-learned-1eg9)
+- [Building on RustChain Agent Economy: A Complete Developer Guide](https://dev.to/noxventures/building-on-rustchain-agent-economy-a-complete-developer-guide-33nb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
