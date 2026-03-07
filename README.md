@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [We all get 168 hours every week. You can&#39;t save them. Can&#39;t invest them. Can&#39;t roll them over to next week.](https://dev.to/haroon_butt_5dc32a9454867/we-all-get-168-hours-every-week-you-cant-save-them-cant-invest-them-cant-roll-them-over-to-5ek4)
-- [Mastering Kubernetes Service Discovery: Navigating the Complex Mesh of Microservices](https://dev.to/meet_patel_b41bbf81ec83f2/mastering-kubernetes-service-discovery-navigating-the-complex-mesh-of-microservices-533i)
-- [GHSA-QR2G-P6Q7-W82M: GHSA-qr2g-p6q7-w82m: Critical Payment Verification Bypass in Coinbase x402 SDK &lpar;Solana&rpar;](https://dev.to/cverports/ghsa-qr2g-p6q7-w82m-ghsa-qr2g-p6q7-w82m-critical-payment-verification-bypass-in-coinbase-x402-sdk-3iep)
-- [How I manage skills and MCP servers across AI coding agents](https://dev.to/ryanreh99/how-i-manage-skills-and-mcp-servers-across-ai-coding-agents-jbj)
-- [How Much Production Can Fit Into a Home Lab?](https://dev.to/qcserestipy/how-much-production-can-fit-into-a-home-lab-bc)
+- [OpenTofu vs Terraform in 2026: Is the Fork Finally Worth It?](https://dev.to/mechcloud_academy/opentofu-vs-terraform-in-2026-is-the-fork-finally-worth-it-3nd1)
+- [FERPA &amp; AI: How EdTech Is Surveilling Students &lpar;And Why the Law Lets Them&rpar;](https://dev.to/tiamatenity/ferpa-ai-how-edtech-is-surveilling-students-and-why-the-law-lets-them-1715)
+- [I got tired of clicking &quot;I Agree&quot; without reading anything. So I fixed it.](https://dev.to/rrubayet321/i-got-tired-of-clicking-i-agree-without-reading-anything-so-i-fixed-it-2ln9)
+- [Introducing YellowScout: A Community Portal for the Yellow Ecosystem](https://dev.to/maharshi_mishra/introducing-yellowscout-a-community-portal-for-the-yellow-ecosystem-2579)
+- [Automating OTP Retrieval from Emails in Python](https://dev.to/francofuji/automating-otp-retrieval-from-emails-in-python-1j0a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
