@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [California Knows Your AI Confession — And It&#39;s Selling It](https://dev.to/tiamatenity/california-knows-your-ai-confession-and-its-selling-it-13fn)
-- [From Developer to Poet 🌿: Why I Wrote &quot;Stillness That Walks&quot;](https://dev.to/cas8398/from-developer-to-poet-why-i-wrote-stillness-that-walks-2ccb)
-- [Building a High-Performance AI-Native Notebook Interface with React and Groq API](https://dev.to/ashutosh_maurya/building-a-high-performance-ai-native-notebook-interface-with-react-and-groq-api-1d32)
-- [Build a RAG Pipeline in Python That Actually Works](https://dev.to/klement_gunndu/build-a-rag-pipeline-in-python-that-actually-works-28dg)
-- [REEL: A Proper Name for the Autonomous Agent Loop](https://dev.to/gregsmethells/reel-a-proper-name-for-the-autonomous-agent-loop-37fj)
+- [PowerSkills: Giving AI Agents Control Over Windows with PowerShell](https://dev.to/xlth/powerskills-giving-ai-agents-control-over-windows-with-powershell-1il2)
+- [ER Diagram](https://dev.to/dolly_sharma/er-diagram-2dn2)
+- [Ingeniería S&amp;OP II: Demand Planning, de la Adivinación a la Probabilidad](https://dev.to/datalaria/ingenieria-sop-ii-demand-planning-de-la-adivinacion-a-la-probabilidad-15m2)
+- [Dari Developer ke Penyair 🌿: Kenapa Aku Menulis &quot;Hening yang Berjalan&quot;](https://dev.to/cas8398/dari-developer-ke-penyair-kenapa-aku-menulis-hening-yang-berjalan-1ilf)
+- [I Tried 20+ Claude Code Courses on Udemy: Here Are 5 Courses I Recommend](https://dev.to/somadevtoo/i-tried-20-claude-code-courses-on-udemy-here-are-5-courses-i-recommend-1kc9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
