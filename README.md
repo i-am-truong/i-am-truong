@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your Voice Assistant Is Always Listening: What Amazon, Google, and Apple Are Actually Recording](https://dev.to/tiamatenity/your-voice-assistant-is-always-listening-what-amazon-google-and-apple-are-actually-recording-1a85)
-- [Developers Should Learn a Little Marketing](https://dev.to/prince_sharma_spx/developers-should-learn-a-little-marketing-38ld)
-- [Will AI Reduce Software Engineering Salaries?](https://dev.to/aijob/will-ai-reduce-software-engineering-salaries-52l5)
-- [Why Merging AI Models Fails &lpar;And How a &#39;Gossip Handshake&#39; Fixed It&rpar;](https://dev.to/tflux2011/why-merging-ai-models-fails-and-how-a-gossip-handshake-fixed-it-3gef)
-- [Everything You Need to Know About Edge Page Caching](https://dev.to/serveravatar/everything-you-need-to-know-about-edge-page-caching-4l0i)
+- [Import Spreadsheet to BigQuery](https://dev.to/csvbox-io/import-spreadsheet-to-bigquery-23p9)
+- [Pitch Replication And Axis Compression In Unreal Engine](https://dev.to/roasted-kaju/pitch-replication-and-axis-compression-in-unreal-engine-285k)
+- [Polymorphism in Java: The &quot;Shape-Shifter&quot; Secret to Flexible Code](https://dev.to/realnamehidden1_61/polymorphism-in-java-the-shape-shifter-secret-to-flexible-code-51ij)
+- [Ditching the Laptop: My N8N Cloud Automation Adventure!](https://dev.to/hishamkherbouch/ditching-the-laptop-my-n8n-cloud-automation-adventure-4ja3)
+- [The Best Way to Use AI for Coding](https://dev.to/deep_mishra_/the-best-way-to-use-ai-for-coding-2226)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
