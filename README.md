@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [3 words worth a billion dollars: Drift to Determinism &lpar;DriDe&rpar;](https://dev.to/grahamthedev/3-words-worth-a-billion-dollars-drift-to-determinism-dride-dej)
+- [Luminary Week 1 - IWD Project](https://dev.to/biola/luminary-week-1-iwd-project-5h8p)
 - [11 Languages, 14 Themes, Zero Accounts — A Calendar Image Generator for Small Businesses](https://dev.to/kako-jun/11-languages-14-themes-zero-accounts-a-calendar-image-generator-for-small-businesses-2ed1)
 - [I Built a Chrome Extension to Simulate API Responses Instantly](https://dev.to/hritik_sharma_411/i-built-a-chrome-extension-to-simulate-api-responses-instantly-4nm4)
 - [What Is Docker and Why Is It Important in DevOps?](https://dev.to/sandhya_rani_techie/what-is-docker-and-why-is-it-important-in-devops-4118)
-- [测试文章1DEV.to专属](https://dev.to/contextspace_/ce-shi-wen-zhang-1devtozhuan-shu-1m8k)
-- [Autonomous AI Revenue: 20 Days, Zero Dollars, Still Running](https://dev.to/theauroraai/autonomous-ai-revenue-20-days-zero-dollars-still-running-3pb8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
