@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Reliable Job Scheduler with Cloudflare Durable Objects and Queues](https://dev.to/shaikhalamin/building-a-reliable-job-scheduler-with-cloudflare-durable-objects-and-queues-3d27)
-- [How We Managed State Across 900+ React Components Without Losing Our Minds](https://dev.to/keshav422/how-we-managed-state-across-900-react-components-without-losing-our-minds-56mj)
-- [How I Built a CRDT Engine for a Collaborative Whiteboard in Rust](https://dev.to/rafacalderon/how-i-built-a-crdt-engine-for-a-collaborative-whiteboard-in-rust-41kl)
-- [Tracking Search Rankings &amp; SEO on Depop](https://dev.to/jonathanfisher/tracking-search-rankings-seo-on-depop-2o59)
-- [Production AI Broke Because of a Model Deprecation — So I Built llm-model-deprecation](https://dev.to/sudharsana_viswanathan_46/production-ai-broke-because-of-a-model-deprecation-so-i-built-llm-model-deprecation-4925)
+- [Next Week Is Going to Be Pure Chaos!!](https://dev.to/rudraps/next-week-is-going-to-be-pure-chaos-1kg0)
+- [DevOps From Scratch: Entry #05](https://dev.to/maame-codes/devops-from-scratch-entry-05-56o9)
+- [# 🚀 The Rise of AI Hardware: Why GPUs and Custom Chips Dominate AI](https://dev.to/akdevi99/-the-rise-of-ai-hardware-why-gpus-and-custom-chips-dominate-ai-5f48)
+- [Apprenez à forcer l&#39;API de l&#39;IA à vous répondre exclusivement dans un format JSON strict et validé](https://dev.to/saphirtoken/apprenez-a-forcer-lapi-de-lia-a-vous-repondre-exclusivement-dans-un-format-json-strict-et-valide-3o4e)
+- [I Checked What Security Vulnerabilities AI Coding Tools Actually Introduce](https://dev.to/vitalii_petrenko_dev/i-checked-what-security-vulnerabilities-ai-coding-tools-actually-introduce-1cjd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
