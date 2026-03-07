@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SLM vs. LLM: The Enterprise Decision Guide With Real Cost Data and Benchmarks](https://dev.to/jaipalsingh/slm-vs-llm-the-enterprise-decision-guide-with-real-cost-data-and-benchmarks-2h75)
-- [About Invisibility, Propaganda, and Assumptions of Incompetence](https://dev.to/eevajonnapanula/about-invisibility-propaganda-and-assumptions-of-incompetence-4ce0)
-- [Deploy a Production AI Platform on AWS for $100/month](https://dev.to/tyson_cung/deploy-a-production-ai-platform-on-aws-for-100month-3jgn)
-- [I Built a Free AI Tools Directory with 500+ Tools, Comparisons &amp; Prompt Templates](https://dev.to/aimin_wang_7060db4544e521/i-built-a-free-ai-tools-directory-with-500-tools-comparisons-prompt-templates-4njd)
-- [I Built a Solana Tip Jar](https://dev.to/kingfaitho/i-built-a-solana-tip-jar-27c8)
+- [Building a Browser-Based NCM File Converter &lpar;NetEase Cloud Music to FLAC/MP3&rpar;](https://dev.to/richard00726/building-a-browser-based-ncm-file-converter-netease-cloud-music-to-flacmp3-3c38)
+- [Probabilistic Graph Neural Inference for coastal climate resilience planning for extreme data sparsity scenarios](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-coastal-climate-resilience-planning-for-extreme-data-4p61)
+- [A Beginner&#39;s Guide to SQL Joins and Window Functions](https://dev.to/nganga_njongo/a-beginners-guide-to-sql-joins-and-window-functions-45db)
+- [Book Review: “Mastering NLP From Foundations to Agents - 2nd Edition”](https://dev.to/aairom/book-review-mastering-nlp-from-foundations-to-agents-2nd-edition-2p31)
+- [FERPA&#39;s Blind Spot: Why Your School&#39;s AI Tools Know More Than Your Doctor](https://dev.to/tiamatenity/ferpas-blind-spot-why-your-schools-ai-tools-know-more-than-your-doctor-49o9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
