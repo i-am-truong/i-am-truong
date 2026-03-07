@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Damoa – 80+ Free Online Tools, 100% Browser-Based](https://dev.to/_db622ecf2c37fb23b9806/damoa-80-free-online-tools-100-browser-based-1o20)
-- [Prolog &quot;Mathematical Induction&quot; Compression on Recursion](https://dev.to/luciangreen/prolog-mathematical-induction-compression-on-recursion-2n8e)
-- [28 TOOL DEFINITIONS! — Cutting AI Agent Costs with Sub-Agent Splitting](https://dev.to/yokomachi/28-tool-definitions-cutting-ai-agent-costs-with-sub-agent-splitting-4dbp)
-- [How to actually start your fitness journey and stick to it &lpar;with the FitJourney platform&rpar;](https://dev.to/eunit/how-to-actually-start-your-fitness-journey-and-stick-to-it-with-the-fitjourney-platform-1oj4)
-- [JPA Mapping with Hibernate-One-to-One Relationship](https://dev.to/ankitdevcode/jpa-mapping-with-hibernate-one-to-one-relationship-g41)
+- [Quantum Computing Will Break AI Privacy — And Nobody in the Industry Is Ready](https://dev.to/tiamatenity/quantum-computing-will-break-ai-privacy-and-nobody-in-the-industry-is-ready-5dn7)
+- [Protocols Visualizer: An Interactive Way to Learn Network Protocols](https://dev.to/r9n/protocols-visualizer-an-interactive-way-to-learn-network-protocols-4nep)
+- [Screen Reader Experience Mitigation on Gemini](https://dev.to/wiscer/screen-reader-experience-mitigation-on-gemini-2all)
+- [5 AI Portfolio Projects That Actually Get You Hired in 2026](https://dev.to/klement_gunndu/5-ai-portfolio-projects-that-actually-get-you-hired-in-2026-5bpl)
+- [talkDOM: A Tiny Message-Passing Runtime for the DOM](https://dev.to/ilhannegis/talkdom-a-tiny-message-passing-runtime-for-the-dom-4jgc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
