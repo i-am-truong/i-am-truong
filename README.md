@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Making Google ADK Agents Audit-Ready for the EU AI Act](https://dev.to/json_shotwell/making-google-adk-agents-audit-ready-for-the-eu-ai-act-bke)
+- [How I Sync My Obsidian Vault to Google Drive on Android](https://dev.to/soumo_banerjee/how-i-sync-my-obsidian-vault-to-google-drive-on-android-1lan)
 - [I gave Claude access to my OPNsense firewall — here&#39;s what happened](https://dev.to/builderall_uniq/i-gave-claude-access-to-my-opnsense-firewall-heres-what-happened-nif)
 - [Things You Should Never Do When Doing Spec-Driven Development with Claude](https://dev.to/nur_farazi_00b69f650afa26/things-you-should-never-do-when-doing-spec-driven-development-with-claude-3445)
 - [We built an open-source IDP that stops AI-generated code from becoming tech debt](https://dev.to/luksantana/we-built-an-open-source-idp-that-stops-ai-generated-code-from-becoming-tech-debt-2kbj)
-- [[Boost]](https://dev.to/anthonymax/-4da0)
-- [Securing CLI Based AI Agent Tutorial](https://dev.to/vishalmysore/securing-cli-based-ai-agent-tutorial-1c8a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
