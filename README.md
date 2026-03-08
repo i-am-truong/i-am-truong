@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Xiaohongshu&#39;s FireRed-Image-Edit-1.1 Tops Charts at Launch! 7.94 Score Beats Alibaba&#39;s Qwen-Image-Edit-2511](https://dev.to/gary_yan_86eb77d35e0070f5/xiaohongshus-firered-image-edit-11-tops-charts-at-launch-794-score-beats-alibabas-4odo)
-- [From Overwhelmed Team Lead to AI Orchestrator: How I Took Back Control of My Dev Life](https://dev.to/themeticulist/from-overwhelmed-team-lead-to-ai-orchestrator-how-i-took-back-control-of-my-dev-life-16gj)
-- [Trying to Understand Poetry](https://dev.to/calvinmercer/trying-to-understand-poetry-2l22)
-- [Log 01: The Legacy Break | Switching to Docker for Data Science](https://dev.to/codebasejournal/log-01-the-legacy-break-switching-to-docker-for-data-science-4pgk)
-- [What If Everything in Your UI Had an Address?](https://dev.to/ajdin_imsirovic_312c31dc4/what-if-everything-in-your-ui-had-an-address-1klh)
+- [Vector Database Security Risk Assessment: Enterprise Framework](https://dev.to/tiamatenity/vector-database-security-risk-assessment-enterprise-framework-8j8)
+- [Day 14: Linux Local Privilege Escalation — The Auditor&#39;s Roadmap 🕵️‍♂️](https://dev.to/devon_argent_f9a11303298a/day-14-linux-local-privilege-escalation-the-auditors-roadmap-12ai)
+- [Microsoft Says Xbox Exclusives Aren&#39;t Going Anywhere. The Math Says Otherwise.](https://dev.to/kunal_d6a8fea2309e1571ee7/microsoft-says-xbox-exclusives-arent-going-anywhere-the-math-says-otherwise-k83)
+- [전자담배 가격비교 앱을 Svelte 5로 하루 만에 만든 방법](https://dev.to/_53fb7c03dd741a6124e4e/jeonjadambae-gagyeogbigyo-aebeul-svelte-5ro-haru-mane-mandeun-bangbeob-5576)
+- [I Wanted to Ship a GUI Without the .NET Runtime: Two Months with MewUI, a Cross-Platform UI Framework](https://dev.to/al6uiz/i-wanted-to-ship-a-gui-without-the-net-runtime-two-months-with-mewui-a-cross-platform-ui-17ae)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
