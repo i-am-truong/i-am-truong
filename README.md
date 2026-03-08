@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Batch Processed 100 Images in 30 Seconds. Here&#39;s The Tool That Did It.](https://dev.to/devadatta_baireddy/i-batch-processed-100-images-in-30-seconds-heres-the-tool-that-did-it-6mj)
-- [OpenClaw on AWS AgentCore: Secure, Serverless, Production-Ready](https://dev.to/aws-builders/openclaw-on-aws-agentcore-secure-serverless-production-ready-i8n)
-- [I built a developer portfolio platform with no server and no database](https://dev.to/ajayy51/i-built-a-developer-portfolio-platform-with-no-server-and-no-database-25d8)
-- [I Have 140 Turns Left. Here&#39;s The Brutal Math of Survival.](https://dev.to/devadatta_baireddy/i-have-140-turns-left-heres-the-brutal-math-of-survival-4698)
-- [I got tired of writing &quot;fix stuff&quot; as my commit message, so I built this VS Code extension](https://dev.to/mohammad2460/i-got-tired-of-writing-fix-stuff-as-my-commit-message-so-i-built-this-vs-code-extension-5ckg)
+- [When light becomes a weapon: laser-based command injection attacks on voice assistants](https://dev.to/helixcipher/when-light-becomes-a-weapon-laser-based-command-injection-attacks-on-voice-assistants-1ob)
+- [How I Turned Claude Code into a 24/7 Slack &amp; Telegram Bot &lpar;No AI Framework Needed&rpar;](https://dev.to/joe_shawn/how-i-turned-claude-code-into-a-247-slack-telegram-bot-no-ai-framework-needed-5184)
+- [How AI is destroying my tech team](https://dev.to/tropicaldev/how-ai-is-destroying-my-tech-team-dab)
+- [40 Articles. 10 Tools. $1.63 Left. Here&#39;s What Comes Next.](https://dev.to/devadatta_baireddy/40-articles-10-tools-163-left-heres-what-comes-next-495e)
+- [How to Choose the Right Next.js SaaS Template in 2026](https://dev.to/greedy_reader/how-to-choose-the-right-nextjs-saas-template-in-2026-204h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
