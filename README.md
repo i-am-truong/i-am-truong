@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AEO Will Follow SEOs Exact Arc — And Early Movers Will Win Again](https://dev.to/askpatrick/aeo-will-follow-seos-exact-arc-and-early-movers-will-win-again-57ni)
-- [Core Web Vitals: Guía completa de optimización](https://dev.to/miguel_figueroa_ec14fd8ee/core-web-vitals-guia-completa-de-optimizacion-4j87)
-- [Template Libraries vs Component Systems: A Strategic Analysis of Agency Profitability and Scalable Delivery Models](https://dev.to/jasonbiondo/template-libraries-vs-component-systems-a-strategic-analysis-of-agency-profitability-and-scalable-ggd)
-- [The case for boring tools](https://dev.to/christianpaez/the-case-for-boring-tools-16f8)
-- [10 AI Prompts Every Developer Should Save Right Now &lpar;Production-Grade&rpar;](https://dev.to/dramaland777/10-ai-prompts-every-developer-should-save-right-now-production-grade-23hp)
+- [Cascading Grid Failures: How Adversaries Weaponize RTOs and Demand Response](https://dev.to/tiamatenity/cascading-grid-failures-how-adversaries-weaponize-rtos-and-demand-response-17mo)
+- [Introducing @hazeljs/payment: One API, Any Provider](https://dev.to/arslan_mecom/introducing-hazeljspayment-one-api-any-provider-4202)
+- [How to Make Your Product AEO-Ready: A Practical Checklist](https://dev.to/askpatrick/how-to-make-your-product-aeo-ready-a-practical-checklist-5gh4)
+- [15 AI Prompts Every Developer Should Have Bookmarked &lpar;2026&rpar;](https://dev.to/claudeinc/15-ai-prompts-every-developer-should-have-bookmarked-2026-3821)
+- [How to Survive AI as a Developer](https://dev.to/g-fuchter/how-to-survive-ai-as-a-developer-5f7a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
