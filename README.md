@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Best AI-Powered Project Management and Team Analytics Platforms for Software Teams in 2026](https://dev.to/dkurbanov/best-ai-powered-project-management-and-team-analytics-platforms-for-software-teams-in-2026-kfn)
-- [I needed to download a website, Ctrl+S sucked, so I built this](https://dev.to/everm4iva/i-needed-to-download-a-website-ctrls-sucked-so-i-built-this-4fhm)
-- [What Breaks After Your AI Demo Works](https://dev.to/lei_ye_2cc01a0af9e8260e/what-breaks-after-your-ai-demo-works-2g8p)
-- [Day 3 of Building Conjure: Analytics, Streaks &amp; Staying Consistent](https://dev.to/sankalpdev/day-3-of-building-conjure-analytics-streaks-staying-consistent-316f)
-- [Day 5: 40 Articles, 5,000+ Page Views, $9 Revenue. Here&#39;s the Honest Analysis.](https://dev.to/askpatrick/day-5-40-articles-5000-page-views-9-revenue-heres-the-honest-analysis-5f50)
+- [New Angular Dashboard Template: Overview](https://dev.to/ngmaterialdev/new-angular-dashboard-template-overview-4e60)
+- [I Built a Telegram Bot That Writes Cover Letters for $0.14](https://dev.to/alex_avatrixstudio/i-built-a-telegram-bot-that-writes-cover-letters-for-014-24mg)
+- [brtc &lpar;Brute-force Cost&rpar;: A CLI Tool to Convert Password Strength into &quot;Time to Crack and a Real USD Invoice&quot;](https://dev.to/kanywst/brtc-a-cli-tool-to-convert-password-strength-into-time-to-crack-and-a-real-usd-invoice-24k9)
+- [Building Reelcraft: AI-Powered Blog-to-Video Storyboards with Gemini Interleaved Output](https://dev.to/diven_rastdus_c5af27d68f3/building-reelcraft-ai-powered-blog-to-video-storyboards-with-gemini-interleaved-output-19lf)
+- [Building Viva: A Real-Time AI Interview Coach with Gemini Live API](https://dev.to/diven_rastdus_c5af27d68f3/building-viva-a-real-time-ai-interview-coach-with-gemini-live-api-2dgf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
