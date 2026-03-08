@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Tales of the Algorhymer: Martian Mining](https://dev.to/algorhymer/tales-of-the-algorhymer-martian-mining-gmd)
-- [5 Free Developer Tools I Built for Everyday Coding](https://dev.to/dipgarg0011/5-free-developer-tools-i-built-for-everyday-coding-a02)
-- [Claude Designed Its Own Rule System — A Public Experiment](https://dev.to/minatoplanb/claude-designed-its-own-rule-system-a-public-experiment-1bl)
-- [I Wrote 200 Lines of Rules for Claude Code. It Ignored Them All.](https://dev.to/minatoplanb/i-wrote-200-lines-of-rules-for-claude-code-it-ignored-them-all-4mbf)
-- [Speech note](https://dev.to/dolly_sharma/speech-note-42e7)
+- [AI Can Lie. And You Can&#39;t Tell.](https://dev.to/minatoplanb/ai-can-lie-and-you-cant-tell-bf8)
+- [Know Your Agent: Why AI agents need credit checks before they transact](https://dev.to/zarq-ai/know-your-agent-why-ai-agents-need-credit-checks-before-they-transact-1l8o)
+- [Just What Is Clojure, Anyway?](https://dev.to/dimension-ai/just-what-is-clojure-anyway-42np)
+- [Mastering iOS Context Menus &amp; Link Previews: React Native &amp; Expo Router](https://dev.to/serifcolakel/mastering-ios-context-menus-link-previews-react-native-expo-router-561g)
+- [I&#39;ve Spent 10 Years in Mobile Development. What DON&#39;T I Know?](https://dev.to/patterueldev/ive-spent-10-years-in-mobile-development-what-dont-i-know-22ih)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
