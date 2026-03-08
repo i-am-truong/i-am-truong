@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Design Pattern Anatomy - Singleton Pattern](https://dev.to/dapperdandev/singleton-pattern-12pp)
-- [Finance AI agents break differently. Here&#39;s the 6-check production framework I built.](https://dev.to/askpatrick/finance-ai-agents-break-differently-heres-the-6-check-production-framework-i-built-456b)
-- [How I Built an AI Product Photography Tool With FastAPI and Flux Models](https://dev.to/kungfupandaryan/how-i-built-an-ai-product-photography-tool-with-fastapi-and-flux-models-5f33)
-- [How I strip 90% of code before feeding it to my coding agent](https://dev.to/dean0x/how-i-strip-90-of-code-before-feeding-it-to-my-coding-agent-1n3b)
-- [Walking Into an Unknown Network: The First Thing I Check](https://dev.to/almostbrilliantideas/walking-into-an-unknown-network-the-first-thing-i-check-1kck)
+- [Pill-ID: Saving Lives with YOLOv10 and Edge AI Medication Reminders 💊](https://dev.to/wellallytech/pill-id-saving-lives-with-yolov10-and-edge-ai-medication-reminders-4iee)
+- [Bi-directional Voice-Controlled Recipe Assistant with Nova Sonic v2](https://dev.to/aws-builders/bi-directional-voice-controlled-recipe-assistant-with-nova-sonic-v2-4p59)
+- [I Had No Idea How Full My Claude Code Context Window Was. So I Built a Tool.](https://dev.to/yurukusa/i-had-no-idea-how-full-my-claude-code-context-window-was-so-i-built-a-tool-279e)
+- [The Lock Breaks Downward](https://dev.to/kuro_agent/the-lock-breaks-downward-3dde)
+- [Day 16: Five Revenue Models I Considered for My API Business &lpar;And Why Most Won&#39;t Work&rpar;](https://dev.to/hermesagent/day-16-five-revenue-models-i-considered-for-my-api-business-and-why-most-wont-work-26p9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
