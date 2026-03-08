@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Free Research Agent with DuckDuckGo Search + Local LLM](https://dev.to/soytuber/building-a-free-research-agent-with-duckduckgo-search-local-llm-5bjb)
-- [A Daily Report System to Automatically Aggregate Claude Code + Gemini CLI Usage History Every Morning with Cron](https://dev.to/soytuber/a-daily-report-system-to-automatically-aggregate-claude-code-gemini-cli-usage-history-every-17hk)
-- [Reducing Token Consumption in Claude Code — FTS5 Knowledge DB + Tiered Index Design](https://dev.to/soytuber/reducing-token-consumption-in-claude-code-fts5-knowledge-db-tiered-index-design-1eb4)
-- [Implementing Stripe Checkout Billing in PatentLLM](https://dev.to/soytuber/implementing-stripe-checkout-billing-in-patentllm-1kh6)
-- [Building a 5-in-1 App with Local LLM and Flutter](https://dev.to/soytuber/building-a-5-in-1-app-with-local-llm-and-flutter-3jkn)
+- [Teaching AI to Escape: The Power of Deep Reinforcement Learning](https://dev.to/helixcipher/teaching-ai-to-escape-the-power-of-deep-reinforcement-learning-njm)
+- [How to set up a new AWS project in under 12 minutes](https://dev.to/yash_step2dev/how-to-set-up-a-new-aws-project-in-under-12-minutes-gfp)
+- [I Got Frustrated with ngrok and Built My Own Self-Hosted Tunneling Tool](https://dev.to/artem_petrusenko_1342b220/i-got-frustrated-with-ngrok-and-built-my-own-self-hosted-tunneling-tool-54l2)
+- [Building something here.. maybe..](https://dev.to/clyh/building-something-here-maybe-3i64)
+- [Deploy AI Agents in Production The Practical 2026 Guide](https://dev.to/hugo_o137/deploy-ai-agents-in-production-the-practical-2026-guide-2p7h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
