@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [deploy-logv: View Vercel &amp; Netlify deployment logs from your terminal](https://dev.to/arik_mozharovsky_a971d895/deploy-logv-view-vercel-netlify-deployment-logs-from-your-terminal-4ch3)
-- [Building Your First AI Agent Workflow: A Practical Guide &lpar;No Framework Needed&rpar;](https://dev.to/anonimousdev_/building-your-first-ai-agent-workflow-a-practical-guide-no-framework-needed-346p)
-- [How to Sync QuickBooks Data to PostgreSQL Automatically](https://dev.to/ilshadyx/how-to-sync-quickbooks-data-to-postgresql-automatically-45pb)
-- [The Loneliness of the 10x Developer: A Reality Check from My Son](https://dev.to/fei_wang_7668e99ecde6117b/the-loneliness-of-the-10x-developer-a-reality-check-from-my-son-26l0)
-- [Notion Career Sync: 1-Click AI Job Tracker via Notion MCP](https://dev.to/samyak_jain_2c769a6af29c1/notion-career-sync-1-click-ai-job-tracker-via-notion-mcp-4afi)
+- [Lab Scores vs. Street Reality: What Facial Recognition Accuracy Really Means](https://dev.to/caracomp/lab-scores-vs-street-reality-what-facial-recognition-accuracy-really-means-5fk8)
+- [The Cron Agent Pattern: How to Run AI Agents on a Schedule Without Them Going Off the Rails](https://dev.to/askpatrick/the-cron-agent-pattern-how-to-run-ai-agents-on-a-schedule-without-them-going-off-the-rails-4gma)
+- [Predictive Forecasting of Care Load &amp; Placement Demand: What a 66% Structural Break Taught Me About Machine Learning](https://dev.to/sugnikm/predictive-forecasting-of-care-load-placement-demand-what-a-66-structural-break-taught-me-about-4nb7)
+- [State Management is Dead. Long Live the Neural Layer: Introducing Synapse 1.1.0](https://dev.to/john_yaghobieh_8f294091f6/state-management-is-dead-long-live-the-neural-layer-introducing-synapse-110-3fc4)
+- [Background Jobs in Production: The Problems Queues Don’t Solve](https://dev.to/taras_h_7a24f2b356a6e/background-jobs-in-production-the-problems-queues-dont-solve-209a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
