@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Sentiment Analysis in Node.js Without External APIs](https://dev.to/ckmtools/sentiment-analysis-in-nodejs-without-external-apis-3ck1)
-- [The End of Vibe Coding](https://dev.to/dmitryame/the-end-of-vibe-coding-2e78)
-- [I Built a Stock Market Hours Tracker - markethours.io](https://dev.to/fj3703/i-built-a-stock-market-hours-tracker-markethoursio-jb6)
-- [How AI Will Redefine Technical Excellence by 2030](https://dev.to/jaideepparashar/how-ai-will-redefine-technical-excellence-by-2030-2i2b)
-- [Olmo Hybrid](https://dev.to/minimal-architect/olmo-hybrid-1e58)
+- [How to Add Face Search to Your App](https://dev.to/kencho/how-to-add-face-search-to-your-app-2mfe)
+- [Understanding SQL Joins with Practical Examples &lpar;Beginner Friendly Guide&rpar;](https://dev.to/itsmunyalo/understanding-sql-joins-with-practical-examples-beginner-friendly-guide-1iee)
+- [How I built a 140-page, 0ms latency web-app in Next.js 15 &lpar;Without a single database query&rpar;](https://dev.to/mihokoto/how-i-built-a-140-page-0ms-latency-web-app-in-nextjs-15-without-a-single-database-query-4b57)
+- [My One-Command macOS Dev Setup: Ruby, Elixir, Zig, and Everything in Between](https://dev.to/anjanj/my-one-command-macos-dev-setup-ruby-elixir-zig-and-everything-in-between-fjf)
+- [Visual Studio Weekly: AI Agents Go Deep Into the IDE](https://dev.to/htekdev/visual-studio-weekly-ai-agents-go-deep-into-the-ide-21dp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
