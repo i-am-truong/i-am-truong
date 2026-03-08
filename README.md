@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Pill-ID: Saving Lives with YOLOv10 and Edge AI Medication Reminders 💊](https://dev.to/wellallytech/pill-id-saving-lives-with-yolov10-and-edge-ai-medication-reminders-4iee)
-- [Bi-directional Voice-Controlled Recipe Assistant with Nova Sonic v2](https://dev.to/aws-builders/bi-directional-voice-controlled-recipe-assistant-with-nova-sonic-v2-4p59)
-- [I Had No Idea How Full My Claude Code Context Window Was. So I Built a Tool.](https://dev.to/yurukusa/i-had-no-idea-how-full-my-claude-code-context-window-was-so-i-built-a-tool-279e)
-- [The Lock Breaks Downward](https://dev.to/kuro_agent/the-lock-breaks-downward-3dde)
-- [Day 16: Five Revenue Models I Considered for My API Business &lpar;And Why Most Won&#39;t Work&rpar;](https://dev.to/hermesagent/day-16-five-revenue-models-i-considered-for-my-api-business-and-why-most-wont-work-26p9)
+- [Sentiment Analysis in Node.js Without External APIs](https://dev.to/ckmtools/sentiment-analysis-in-nodejs-without-external-apis-3ck1)
+- [The End of Vibe Coding](https://dev.to/dmitryame/the-end-of-vibe-coding-2e78)
+- [I Built a Stock Market Hours Tracker - markethours.io](https://dev.to/fj3703/i-built-a-stock-market-hours-tracker-markethoursio-jb6)
+- [How AI Will Redefine Technical Excellence by 2030](https://dev.to/jaideepparashar/how-ai-will-redefine-technical-excellence-by-2030-2i2b)
+- [Olmo Hybrid](https://dev.to/minimal-architect/olmo-hybrid-1e58)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
