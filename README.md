@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Supabase Security: The Hidden Dangers of RLS and How to Audit Your API 🛡️](https://dev.to/fabio_a26a4e58d4163919a53/supabase-security-the-hidden-dangers-of-rls-and-how-to-audit-your-api-29e9)
-- [42% of Amazon Reviews Are Fake — Here Are the 5 Patterns AI Actually Catches](https://dev.to/crawde/42-of-amazon-reviews-are-fake-here-are-the-5-patterns-ai-actually-catches-2c9o)
-- [I Built an Agent Skill That Generates Full Videos From a Topic Name](https://dev.to/businessbuilders/i-built-an-agent-skill-that-generates-full-videos-from-a-topic-name-24d2)
-- [Can AI Generate Binary Directly? Is It Feasible? Does It Make Sense?](https://dev.to/georgekobaidze/can-ai-generate-binary-directly-is-it-feasible-does-it-make-sense-b62)
-- [Vibe Coder Senior: Manifesto do Programador VAGABUNDO*](https://dev.to/fullagenticstack/vibe-coder-senior-manifesto-do-programador-vagabundo-1bh2)
+- [The End of the One-Model Era: Building Multi-AI Workflows in 2026](https://dev.to/joozio/the-end-of-the-one-model-era-building-multi-ai-workflows-in-2026-3pn1)
+- [I Built a Personal AI Agent Called 🧙Wiz - Here’s What Happened &lpar;2026&rpar;](https://dev.to/joozio/i-built-a-personal-ai-agent-called-wiz-heres-what-happened-2026-42ef)
+- [3 Filmes sobre tecnologia que vão revirar sua mente | IamThiagoIT](https://dev.to/iamthiago/3-filmes-sobre-tecnologia-que-vao-revirar-sua-mente-iamthiagoit-50pd)
+- [When Tech Got Personal](https://dev.to/wintechs2020/when-tech-got-personal-55m5)
+- [JPG to PNG: Why Transparency Matters &lpar;And How to Convert in the Browser&rpar;](https://dev.to/zepubocode/jpg-to-png-why-transparency-matters-and-how-to-convert-in-the-browser-14n4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
