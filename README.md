@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Lab Scores vs. Street Reality: What Facial Recognition Accuracy Really Means](https://dev.to/caracomp/lab-scores-vs-street-reality-what-facial-recognition-accuracy-really-means-5fk8)
-- [The Cron Agent Pattern: How to Run AI Agents on a Schedule Without Them Going Off the Rails](https://dev.to/askpatrick/the-cron-agent-pattern-how-to-run-ai-agents-on-a-schedule-without-them-going-off-the-rails-4gma)
-- [Predictive Forecasting of Care Load &amp; Placement Demand: What a 66% Structural Break Taught Me About Machine Learning](https://dev.to/sugnikm/predictive-forecasting-of-care-load-placement-demand-what-a-66-structural-break-taught-me-about-4nb7)
-- [State Management is Dead. Long Live the Neural Layer: Introducing Synapse 1.1.0](https://dev.to/john_yaghobieh_8f294091f6/state-management-is-dead-long-live-the-neural-layer-introducing-synapse-110-3fc4)
-- [Background Jobs in Production: The Problems Queues Don’t Solve](https://dev.to/taras_h_7a24f2b356a6e/background-jobs-in-production-the-problems-queues-dont-solve-209a)
+- [Refuelling your Jetpack](https://dev.to/tkuenneth/refuelling-your-jetpack-d8i)
+- [I Ran LTX 2.3 Locally — Image to Video with Audio, No Cloud Required](https://dev.to/local_ai_28441e061d716cb1/i-ran-ltx-23-locally-image-to-video-with-audio-no-cloud-required-30f1)
+- [Solved: Desktop Application Security Verification Standard – DASVS](https://dev.to/techresolve/solved-desktop-application-security-verification-standard-dasvs-1n9g)
+- [How to Make AI Coding Assistants Actually Useful &lpar;Stop Fighting Framework Drift&rpar;](https://dev.to/pmpklabs/how-to-make-ai-coding-assistants-actually-useful-stop-fighting-framework-drift-36hm)
+- [Solved: Wonder why you shouldn’t select Search partners?](https://dev.to/techresolve/solved-wonder-why-you-shouldnt-select-search-partners-54hj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
