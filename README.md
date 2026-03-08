@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Free Quote Generator With No Backend &lpar;PDF Generated in the Browser&rpar;](https://dev.to/palks_studio/building-a-free-quote-generator-with-no-backend-pdf-generated-in-the-browser-4f5m)
-- [Vector Database Leaks: Why Your AI Embeddings Are as Dangerous as Your Raw Data](https://dev.to/tiamatenity/vector-database-leaks-why-your-ai-embeddings-are-as-dangerous-as-your-raw-data-4jf2)
-- [From Image to Vector: Building Image Similarity Search with Python and MySQL](https://dev.to/sanjayghosh/from-image-to-vector-building-image-similarity-search-with-python-and-mysql-kol)
-- [🚀 Running a 5-Day Mini Sprint in Jira and Shipping a Real Website Change to EC2](https://dev.to/ft_mj_5b31d5ca700bb51d61f/running-a-5-day-mini-sprint-in-jira-and-shipping-a-real-website-change-to-ec2-3dc1)
-- [Solved: Pricing changes for GitHub Actions](https://dev.to/techresolve/solved-pricing-changes-for-github-actions-4623)
+- [Consultorio Virtual Psicológico](https://dev.to/abigail_lpezurias_07eb4/consultorio-virtual-psicologico-1lmf)
+- [Mastering LangGraph&#39;s ToolNode: The Ultimate Bridge Between AI and the Real World](https://dev.to/programmingcentral/mastering-langgraphs-toolnode-the-ultimate-bridge-between-ai-and-the-real-world-4e2h)
+- [🔥 Something new for developers just dropped!](https://dev.to/bishwajit_paul_0ec4b2de9a/something-new-for-developers-just-dropped-360p)
+- [Can you spot the vulnerability?](https://dev.to/pinkdraconian/can-you-spot-the-vulnerability-2aon)
+- [Vector Database Breaches: How Embeddings Expose Your Sensitive Data](https://dev.to/tiamatenity/vector-database-breaches-how-embeddings-expose-your-sensitive-data-21a9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
