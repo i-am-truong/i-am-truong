@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Built an Open-Source CLI to Compare LLM API Costs in Your Terminal &lpar;npx, Zero Install&rpar;](https://dev.to/followtayeeb/i-built-an-open-source-cli-to-compare-llm-api-costs-in-your-terminal-npx-zero-install-47mk)
+- [How to Add RevenueCat to a React Native App](https://dev.to/jayf_nnadi_47ea457bb6e32/how-to-add-revenuecat-to-a-react-native-app-5g61)
+- [Every Readability Formula Explained &lpar;with JavaScript Examples&rpar;](https://dev.to/ckmtools/every-readability-formula-explained-with-javascript-examples-21ml)
 - [HTML Generation](https://dev.to/albiee/html-generation-3da7)
 - [What Is Agent Engine Optimization &lpar;AEO&rpar;? The Emerging Discipline Every Builder Needs to Know](https://dev.to/askpatrick/what-is-agent-engine-optimization-aeo-the-emerging-discipline-every-builder-needs-to-know-3fm4)
-- [start with vectorizetion using docker and postgres](https://dev.to/allan_roberto_3c86dab9d94/start-with-vectorizetion-using-docker-and-postgres-2o4p)
-- [Auditing in Java systems: RLS in the database or application-level control?](https://dev.to/reislucaz/auditing-in-java-systems-rls-in-the-database-or-application-level-control-26e)
-- [I Spent $847 on AI Coding Tools Last Month Without Realizing It. Here&#39;s How I Fixed That.](https://dev.to/jamie_b714bfb128f0fd9ce03/i-spent-847-on-ai-coding-tools-last-month-without-realizing-it-heres-how-i-fixed-that-5b52)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
