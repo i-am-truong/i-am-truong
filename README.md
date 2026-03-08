@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CLI RSS/Atom feed reader inspired by Taskwarrior, synced using Git!](https://dev.to/mgobea/cli-rssatom-feed-reader-inspired-by-taskwarrior-synced-using-git-336e)
-- [I Built a Runtime Control Plane to Stop AI Agents From Burning Money](https://dev.to/vijaym2k6/i-built-a-runtime-control-plane-to-stop-ai-agents-from-burning-money-20ii)
-- [I Built a Free JavaScript Obfuscator That Runs 100% in Your Browser](https://dev.to/n2xto/i-built-a-free-javascript-obfuscator-that-runs-100-in-your-browser-5f4m)
-- [The Minimum Viable AI Agent: Why You Should Start With Three Files](https://dev.to/askpatrick/the-minimum-viable-ai-agent-why-you-should-start-with-three-files-3pme)
-- [The Cheapest Way to Self-Host n8n in 2026](https://dev.to/vikasprogrammer/the-cheapest-way-to-self-host-n8n-in-2026-8ac)
+- [AI-Native Open Source — Open Source Built with AI](https://dev.to/nextaininc/ai-native-open-source-open-source-built-with-ai-k0a)
+- [I Got Tired of Mocking APIs in pytest. So I Built a Cleaner Way.](https://dev.to/vision2030/i-got-tired-of-mocking-apis-in-pytest-so-i-built-a-cleaner-way-3nen)
+- [AI Chat UI Best Practices: Designing Better LLM Interfaces](https://dev.to/greedy_reader/ai-chat-ui-best-practices-designing-better-llm-interfaces-18jj)
+- [Track any npm package&#39;s downloads, trends, and health score for free](https://dev.to/chemmangat/track-any-npm-packages-downloads-trends-and-health-score-for-free-4672)
+- [PHP 8.3 Enums for Video Category Management](https://dev.to/ahmet_gedik778845/php-83-enums-for-video-category-management-5e1h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
