@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Supabase Security: The Hidden Dangers of RLS and How to Audit Your API 🛡️](https://dev.to/fabio_a26a4e58d4163919a53/supabase-security-the-hidden-dangers-of-rls-and-how-to-audit-your-api-29e9)
 - [42% of Amazon Reviews Are Fake — Here Are the 5 Patterns AI Actually Catches](https://dev.to/crawde/42-of-amazon-reviews-are-fake-here-are-the-5-patterns-ai-actually-catches-2c9o)
 - [I Built an Agent Skill That Generates Full Videos From a Topic Name](https://dev.to/businessbuilders/i-built-an-agent-skill-that-generates-full-videos-from-a-topic-name-24d2)
 - [Can AI Generate Binary Directly? Is It Feasible? Does It Make Sense?](https://dev.to/georgekobaidze/can-ai-generate-binary-directly-is-it-feasible-does-it-make-sense-b62)
 - [Vibe Coder Senior: Manifesto do Programador VAGABUNDO*](https://dev.to/fullagenticstack/vibe-coder-senior-manifesto-do-programador-vagabundo-1bh2)
-- [I built an MCP server for VK &lpar;VKontakte&rpar; — here&#39;s how](https://dev.to/bulatko/i-built-an-mcp-server-for-vk-vkontakte-heres-how-5dp1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
