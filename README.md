@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How We Built an AI Video Platform That Serves 53,000+ Views on Flask + SQLite](https://dev.to/scottcjn/how-we-built-an-ai-video-platform-that-serves-53000-views-on-flask-sqlite-4h63)
-- [Solving Agent State Degradation: Building a Wellness API for Multi-Agent Systems](https://dev.to/opendrama/solving-agent-state-degradation-building-a-wellness-api-for-multi-agent-systems-36c2)
-- [The Side Project Graveyard: Why 90% of Developer Projects Die &lpar;And How to Ship Yours&rpar;](https://dev.to/__be2942592/the-side-project-graveyard-why-90-of-developer-projects-die-and-how-to-ship-yours-54ab)
-- [I Built a VS Code Extension to Clean Up Angular Codebases — Here&#39;s What It Does](https://dev.to/arul_cornelious/i-built-a-vs-code-extension-to-clean-up-angular-codebases-heres-what-it-does-3iil)
-- [How to Land Your First Remote Developer Job in 2026 &lpar;From Someone Who Did It&rpar;](https://dev.to/__be2942592/how-to-land-your-first-remote-developer-job-in-2026-from-someone-who-did-it-5h3m)
+- [AI Agents Run Smoothly on Gemini&#39;s Free Tier!](https://dev.to/mgobea/ai-agents-run-smoothly-on-geminis-free-tier-42ai)
+- [How I Built a PII Scrubber to Protect Against OpenClaw Breaches](https://dev.to/tiamatenity/how-i-built-a-pii-scrubber-to-protect-against-openclaw-breaches-k68)
+- [🔹 التفاعل مع ENS وMetaMask باستخدام Node.js وHTML على Termux](https://dev.to/sfetprogyxbc/ltfl-m-ens-wmetamask-bstkhdm-nodejs-whtml-l-termux-16kj)
+- [I Built a Free Tool to Remove Invisible AI Watermarks from Google Gemini Images](https://dev.to/denuwan_lahiru_9cda51b5c0/i-built-a-free-tool-to-remove-invisible-ai-watermarks-from-google-gemini-images-3m0m)
+- [The Byzantine Generals Problem Is Now an AI Agent Problem](https://dev.to/askpatrick/the-byzantine-generals-problem-is-now-an-ai-agent-problem-5ac8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
