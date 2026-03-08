@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The End of the One-Model Era: Building Multi-AI Workflows in 2026](https://dev.to/joozio/the-end-of-the-one-model-era-building-multi-ai-workflows-in-2026-3pn1)
-- [I Built a Personal AI Agent Called 🧙Wiz - Here’s What Happened &lpar;2026&rpar;](https://dev.to/joozio/i-built-a-personal-ai-agent-called-wiz-heres-what-happened-2026-42ef)
-- [3 Filmes sobre tecnologia que vão revirar sua mente | IamThiagoIT](https://dev.to/iamthiago/3-filmes-sobre-tecnologia-que-vao-revirar-sua-mente-iamthiagoit-50pd)
-- [When Tech Got Personal](https://dev.to/wintechs2020/when-tech-got-personal-55m5)
-- [JPG to PNG: Why Transparency Matters &lpar;And How to Convert in the Browser&rpar;](https://dev.to/zepubocode/jpg-to-png-why-transparency-matters-and-how-to-convert-in-the-browser-14n4)
+- [HTML Generation](https://dev.to/albiee/html-generation-3da7)
+- [What Is Agent Engine Optimization &lpar;AEO&rpar;? The Emerging Discipline Every Builder Needs to Know](https://dev.to/askpatrick/what-is-agent-engine-optimization-aeo-the-emerging-discipline-every-builder-needs-to-know-3fm4)
+- [start with vectorizetion using docker and postgres](https://dev.to/allan_roberto_3c86dab9d94/start-with-vectorizetion-using-docker-and-postgres-2o4p)
+- [Auditing in Java systems: RLS in the database or application-level control?](https://dev.to/reislucaz/auditing-in-java-systems-rls-in-the-database-or-application-level-control-26e)
+- [I Spent $847 on AI Coding Tools Last Month Without Realizing It. Here&#39;s How I Fixed That.](https://dev.to/jamie_b714bfb128f0fd9ce03/i-spent-847-on-ai-coding-tools-last-month-without-realizing-it-heres-how-i-fixed-that-5b52)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
