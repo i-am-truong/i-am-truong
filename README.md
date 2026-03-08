@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Three-File Stack: How to Stop AI Agents from Drifting](https://dev.to/askpatrick/the-three-file-stack-how-to-stop-ai-agents-from-drifting-1k50)
-- [Every Developer’s Nightmare: Decoding 404, 403, 500, and Other HTTP Mysteries](https://dev.to/kathirvel-s/every-developers-nightmare-decoding-404-403-500-and-other-http-mysteries-3ock)
-- [AlphaGeometry DSL Guide: Google Geometry DSL, defs.txt Actions, and Predicates](https://dev.to/luhuidev/alphageometry-dsl-guide-google-geometry-dsl-defstxt-actions-and-predicates-479j)
-- [My friends kept recommending movies… I kept forgetting them. So I built an app.](https://dev.to/pablo_parra_ac2ecb233ab70/my-friends-kept-recommending-movies-i-kept-forgetting-them-so-i-built-an-app-18eo)
-- [Identity-First Security Strategy](https://dev.to/danieljglover/identity-first-security-strategy-4150)
+- [How I Invented &quot;Lodu Code&quot; - The Most Aggressive Desi Programming Language](https://dev.to/prince_pandit_15ea3192c6d/how-i-invented-lodu-code-the-most-aggressive-desi-programming-language-2i87)
+- [[Python/Fin]打造股票質押計算器&lpar;2&rpar;：利用數學公式驗證槓桿策略](https://dev.to/arne_li_369/pythonfinda-zao-gu-piao-zhi-ya-ji-suan-qi-2li-yong-shu-xue-gong-shi-yan-zheng-gang-gan-ce-lue-52m8)
+- [How to Fix Inconsistent Chaos or Niagara Simulations in Unreal Engine](https://dev.to/dinesh_04/how-to-fix-inconsistent-chaos-or-niagara-simulations-in-unreal-engine-2nhm)
+- [Should You Pay That AI Agent? Add a Trust Check in 3 Lines](https://dev.to/thezenmonster/should-you-pay-that-ai-agent-add-a-trust-check-in-3-lines-3gk4)
+- [Building an AI Business Operating System using Notion MCP](https://dev.to/abhishek_verma_eddd879a44/building-an-ai-business-operating-system-using-notion-mcp-4569)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
