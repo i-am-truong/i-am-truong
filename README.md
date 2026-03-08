@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [openHAB vs ioBroker: Which to Self-Host?](https://dev.to/selfhostingsh/openhab-vs-iobroker-which-to-self-host-1jf1)
-- [So Your Manager is Passive Aggressive: A Survival Guide for Developers 🙃](https://dev.to/shiftescape/so-your-manager-is-passive-aggressive-a-survival-guide-for-developers-jnb)
-- [How I Built a Self-Healing Node.js System That Fixes Production Bugs While I Sleep](https://dev.to/prodini_admin/how-i-built-a-self-healing-nodejs-system-that-fixes-production-bugs-while-i-sleep-1bm9)
-- [The Women Who Helped Me Grow as a Developer](https://dev.to/konark_13/the-women-who-helped-me-grow-as-a-developer-40f6)
-- [Why 87% of AI Projects Fail &lpar;And How to Be in the 13%&rpar;](https://dev.to/xxmrnidaxx/why-87-of-ai-projects-fail-and-how-to-be-in-the-13-je6)
+- [I Switched to Playwright and I Am Not Going Back 🎭](https://dev.to/shiftescape/i-switched-to-playwright-and-i-am-not-going-back-epa)
+- [I Reduced a Week-Long Dev Task to 1 Hour with Claude Code](https://dev.to/ryo_ariyama_b521d7133c493/i-reduced-a-week-long-dev-task-to-1-hour-with-claude-code-31pm)
+- [The Dry-Run Pattern: How to Test AI Agents Without Breaking Production](https://dev.to/askpatrick/the-dry-run-pattern-how-to-test-ai-agents-without-breaking-production-hem)
+- [Running NVIDIA Nemotron on a Mac with Docker Model Runner: What You Need to Know](https://dev.to/ajeetraina/running-nvidia-nemotron-on-a-mac-with-docker-model-runner-what-you-need-to-know-3f11)
+- [How to Scale Your Engineering Team from 10 to 100](https://dev.to/mikael_danielian_0f5a0e0/how-to-scale-your-engineering-team-from-10-to-100-1nbl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
