@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Refuelling your Jetpack](https://dev.to/tkuenneth/refuelling-your-jetpack-d8i)
-- [I Ran LTX 2.3 Locally — Image to Video with Audio, No Cloud Required](https://dev.to/local_ai_28441e061d716cb1/i-ran-ltx-23-locally-image-to-video-with-audio-no-cloud-required-30f1)
-- [Solved: Desktop Application Security Verification Standard – DASVS](https://dev.to/techresolve/solved-desktop-application-security-verification-standard-dasvs-1n9g)
-- [How to Make AI Coding Assistants Actually Useful &lpar;Stop Fighting Framework Drift&rpar;](https://dev.to/pmpklabs/how-to-make-ai-coding-assistants-actually-useful-stop-fighting-framework-drift-36hm)
-- [Solved: Wonder why you shouldn’t select Search partners?](https://dev.to/techresolve/solved-wonder-why-you-shouldnt-select-search-partners-54hj)
+- [🚀 DevOrch: The Multi-Provider AI Coding CLI](https://dev.to/amanbig/devorch-the-multi-provider-ai-coding-cli-kc0)
+- [&quot;How to Fix Claude Code&#39;s Broken Permissions &lpar;With Hooks&rpar;&quot;](https://dev.to/boucle2026/how-to-fix-claude-codes-broken-permissions-with-hooks-23gl)
+- [Markdown to HTML Converter CLI - No More Manual Conversions](https://dev.to/devadatta_baireddy/markdown-to-html-converter-cli-no-more-manual-conversions-4hl6)
+- [The “Vibe Coding” Trap: Why Your AI-Generated App is a Ticking Time Bomb](https://dev.to/try_relia/the-vibe-coding-trap-why-your-ai-generated-app-is-a-ticking-time-bomb-43i5)
+- [I built an AI agent that understands your AWS infrastructure](https://dev.to/suliman_abdulrazzaq_14907/i-built-an-ai-agent-that-understands-your-aws-infrastructure-55g3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
