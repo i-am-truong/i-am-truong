@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a persistent memory MCP with Hebbian learning and GraphRAG](https://dev.to/lenadro1910/i-built-a-persistent-memory-mcp-with-hebbian-learning-and-graphrag-1b5p)
-- [Summary of insights into traditional CSS Grid &amp; Flexbox](https://dev.to/rinidh/summary-of-insights-into-traditional-css-grid-flexbox-1bc8)
-- [Unboxable in Tech: 30 Years of Being the Wrong Shape](https://dev.to/pascal_cescato_692b7a8a20/unboxable-in-tech-30-years-of-being-the-wrong-shape-22fg)
-- [5 Things AI Can&#39;t Do, Even in • Next.js](https://dev.to/devunionx/5-things-ai-cant-do-even-in-nextjs-3o7j)
-- [Small LLMs Aren’t Dumb — They’re Just Missing Tools](https://dev.to/workspacedex/small-llms-arent-dumb-theyre-just-missing-tools-2fnh)
+- [Understanding Unicode Text Styles on the Web &lpar;Superscript, Small Caps, Fancy Text &amp; More&rpar;](https://dev.to/babybuildss/understanding-unicode-text-styles-on-the-web-superscript-small-caps-fancy-text-more-2447)
+- [Why AI Agents Need an OAuth Infrastructure Layer](https://dev.to/kaeso/why-ai-agents-need-an-oauth-infrastructure-layer-135)
+- [Agents Don&#39;t Fail at AI — They Fail at DevOps](https://dev.to/jarveyspecter/agents-dont-fail-at-ai-they-fail-at-devops-4b0i)
+- [OpenClaw Security Incident Timeline: How One Platform Became the Largest Sovereign AI Breach](https://dev.to/tiamatenity/openclaw-security-incident-timeline-how-one-platform-became-the-largest-sovereign-ai-breach-1892)
+- [Why I Run 9 AI Agents on a $50/Month Server Instead of the Cloud](https://dev.to/jarveyspecter/why-i-run-9-ai-agents-on-a-50month-server-instead-of-the-cloud-111n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
