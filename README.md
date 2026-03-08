@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Vector Database Security Risk Assessment: Enterprise Framework](https://dev.to/tiamatenity/vector-database-security-risk-assessment-enterprise-framework-8j8)
-- [Day 14: Linux Local Privilege Escalation — The Auditor&#39;s Roadmap 🕵️‍♂️](https://dev.to/devon_argent_f9a11303298a/day-14-linux-local-privilege-escalation-the-auditors-roadmap-12ai)
-- [Microsoft Says Xbox Exclusives Aren&#39;t Going Anywhere. The Math Says Otherwise.](https://dev.to/kunal_d6a8fea2309e1571ee7/microsoft-says-xbox-exclusives-arent-going-anywhere-the-math-says-otherwise-k83)
-- [전자담배 가격비교 앱을 Svelte 5로 하루 만에 만든 방법](https://dev.to/_53fb7c03dd741a6124e4e/jeonjadambae-gagyeogbigyo-aebeul-svelte-5ro-haru-mane-mandeun-bangbeob-5576)
-- [I Wanted to Ship a GUI Without the .NET Runtime: Two Months with MewUI, a Cross-Platform UI Framework](https://dev.to/al6uiz/i-wanted-to-ship-a-gui-without-the-net-runtime-two-months-with-mewui-a-cross-platform-ui-17ae)
+- [AI SalesGrid: Transforming Enterprise Sales with Google Cloud Multi-Agent Intelligence](https://dev.to/gde/ai-salesgrid-transforming-enterprise-sales-with-google-cloud-multi-agent-intelligence-3l5p)
+- [Πότε και πώς να μετατρέψεις ένα pattern σε NuGet Package](https://dev.to/__b63657/pote-kai-pos-na-metatrepseis-ena-pattern-se-nuget-package-2am7)
+- [Series Week 18 / 52 — Managed Cost Optimization: Controlling OCI Database Spends](https://dev.to/nabhaas/week-18-52-managed-cost-optimization-controlling-oci-database-spends-5hef)
+- [Running AI Agents Safely with Firecracker MicroVMs &lpar;Introducing BunkerVM&rpar;](https://dev.to/ashish_chaudhary_b6089002/running-ai-agents-safely-with-firecracker-microvms-introducing-bunkervm-1ma8)
+- [SaaS Multi-Tenant en Go: Guia Practica de Row-Level Security en PostgreSQL](https://dev.to/gopherscl/saas-multi-tenant-en-go-guia-practica-de-row-level-security-en-postgresql-1hkk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
