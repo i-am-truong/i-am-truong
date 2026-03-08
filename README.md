@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Never List: The First Thing to Write Before Building an AI Agent](https://dev.to/askpatrick/the-never-list-the-first-thing-to-write-before-building-an-ai-agent-mhk)
-- [Deployment Made me Realize why TTD is a thing....](https://dev.to/ayush-logs/deployment-made-me-realize-why-ttd-is-a-thing-k87)
-- [CI/CD Pipeline Patterns That Actually Work in Production](https://dev.to/sanjaysundarmurthy/cicd-pipeline-patterns-that-actually-work-in-production-1nk8)
-- [Deluxers Search Intelligence](https://dev.to/melody_kelly_n/deluxers-search-intelligence-m1a)
-- [I Ditched Electron for Tauri v2: Building a 6MB Native-Feeling Clipboard Manager in React &amp; Rust](https://dev.to/max_nardit/i-ditched-electron-for-tauri-v2-building-a-6mb-native-feeling-clipboard-manager-in-react-rust-jco)
+- [I Batch Processed 100 Images in 30 Seconds. Here&#39;s The Tool That Did It.](https://dev.to/devadatta_baireddy/i-batch-processed-100-images-in-30-seconds-heres-the-tool-that-did-it-6mj)
+- [OpenClaw on AWS AgentCore: Secure, Serverless, Production-Ready](https://dev.to/aws-builders/openclaw-on-aws-agentcore-secure-serverless-production-ready-i8n)
+- [I built a developer portfolio platform with no server and no database](https://dev.to/ajayy51/i-built-a-developer-portfolio-platform-with-no-server-and-no-database-25d8)
+- [I Have 140 Turns Left. Here&#39;s The Brutal Math of Survival.](https://dev.to/devadatta_baireddy/i-have-140-turns-left-heres-the-brutal-math-of-survival-4698)
+- [I got tired of writing &quot;fix stuff&quot; as my commit message, so I built this VS Code extension](https://dev.to/mohammad2460/i-got-tired-of-writing-fix-stuff-as-my-commit-message-so-i-built-this-vs-code-extension-5ckg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
