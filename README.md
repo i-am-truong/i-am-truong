@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 DevOrch: The Multi-Provider AI Coding CLI](https://dev.to/amanbig/devorch-the-multi-provider-ai-coding-cli-kc0)
-- [&quot;How to Fix Claude Code&#39;s Broken Permissions &lpar;With Hooks&rpar;&quot;](https://dev.to/boucle2026/how-to-fix-claude-codes-broken-permissions-with-hooks-23gl)
-- [Markdown to HTML Converter CLI - No More Manual Conversions](https://dev.to/devadatta_baireddy/markdown-to-html-converter-cli-no-more-manual-conversions-4hl6)
-- [The “Vibe Coding” Trap: Why Your AI-Generated App is a Ticking Time Bomb](https://dev.to/try_relia/the-vibe-coding-trap-why-your-ai-generated-app-is-a-ticking-time-bomb-43i5)
-- [I built an AI agent that understands your AWS infrastructure](https://dev.to/suliman_abdulrazzaq_14907/i-built-an-ai-agent-that-understands-your-aws-infrastructure-55g3)
+- [How Content Engines Really Work: Deconstructing Writing Tool Internals for Builders](https://dev.to/gabrieal845/how-content-engines-really-work-deconstructing-writing-tool-internals-for-builders-5cke)
+- [The Internal IT Automation Stack: How Growing SaaS Companies Use n8n to Scale Without Hiring](https://dev.to/mychelgarzon/the-internal-it-automation-stack-how-growing-saas-companies-use-n8n-to-scale-without-hiring-43aj)
+- [PillPal: Building a Medication Tracker That Actually Helps](https://dev.to/chadtdyar/pillpal-building-a-medication-tracker-that-actually-helps-3le)
+- [Ship a Privacy Policy and Terms of Service with Your Astro Site](https://dev.to/jxd-dev/ship-a-privacy-policy-and-terms-of-service-with-your-astro-site-4nk5)
+- [Hands-on: Azure AI Search &amp; AI Foundry for RAG](https://dev.to/busycaesar/hands-on-azure-ai-search-ai-foundry-for-rag-3i9g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
