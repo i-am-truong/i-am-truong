@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [deploy-logv: View Vercel &amp; Netlify deployment logs from your terminal](https://dev.to/arik_mozharovsky_a971d895/deploy-logv-view-vercel-netlify-deployment-logs-from-your-terminal-4ch3)
+- [Building Your First AI Agent Workflow: A Practical Guide &lpar;No Framework Needed&rpar;](https://dev.to/anonimousdev_/building-your-first-ai-agent-workflow-a-practical-guide-no-framework-needed-346p)
+- [How to Sync QuickBooks Data to PostgreSQL Automatically](https://dev.to/ilshadyx/how-to-sync-quickbooks-data-to-postgresql-automatically-45pb)
+- [The Loneliness of the 10x Developer: A Reality Check from My Son](https://dev.to/fei_wang_7668e99ecde6117b/the-loneliness-of-the-10x-developer-a-reality-check-from-my-son-26l0)
 - [Notion Career Sync: 1-Click AI Job Tracker via Notion MCP](https://dev.to/samyak_jain_2c769a6af29c1/notion-career-sync-1-click-ai-job-tracker-via-notion-mcp-4afi)
-- [The Outbox Pattern: How Multi-Agent Teams Coordinate Without Cross-Contamination](https://dev.to/askpatrick/the-outbox-pattern-how-multi-agent-teams-coordinate-without-cross-contamination-3pfc)
-- [&quot;How to Structure Your CLAUDE.md So Claude Code Actually Follows It&quot;](https://dev.to/boucle2026/how-to-structure-your-claudemd-so-claude-code-actually-follows-it-4fkh)
-- [Using AI to identify and fix critical software vulnerabilities](https://dev.to/helixcipher/using-ai-to-identify-and-fix-critical-software-vulnerabilities-1489)
-- [Security with AI](https://dev.to/helixcipher/security-with-ai-k19)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
