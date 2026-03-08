@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Ivy - Bringing LLMs to 35 Million offline students in Ethiopia](https://dev.to/zeshama/ivy-bringing-llms-to-35-million-offline-students-in-ethiopia-30e8)
-- [The Escalation Rule Pattern Every AI Agent Needs &lpar;and Most Skip&rpar;](https://dev.to/askpatrick/the-escalation-rule-pattern-every-ai-agent-needs-and-most-skip-ph9)
-- [Week in AI &lpar;Mar 8&rpar;: Local-First AI Is Winning](https://dev.to/cumulus/week-in-ai-mar-8-local-first-ai-is-winning-4baj)
-- [I got tired of setting up MERN projects, so I built a VS Code extension to automate it](https://dev.to/farhan043/how-i-built-a-vs-code-extension-to-automate-mern-stack-setup-in-seconds-1d33)
-- [&quot;How to Tell If Your AI Agent Is Stuck &lpar;With Real Data From 220 Loops&rpar;&quot;](https://dev.to/boucle2026/how-to-tell-if-your-ai-agent-is-stuck-with-real-data-from-220-loops-4d4h)
+- [The Three-File Stack: How to Stop AI Agents from Drifting](https://dev.to/askpatrick/the-three-file-stack-how-to-stop-ai-agents-from-drifting-1k50)
+- [Every Developer’s Nightmare: Decoding 404, 403, 500, and Other HTTP Mysteries](https://dev.to/kathirvel-s/every-developers-nightmare-decoding-404-403-500-and-other-http-mysteries-3ock)
+- [AlphaGeometry DSL Guide: Google Geometry DSL, defs.txt Actions, and Predicates](https://dev.to/luhuidev/alphageometry-dsl-guide-google-geometry-dsl-defstxt-actions-and-predicates-479j)
+- [My friends kept recommending movies… I kept forgetting them. So I built an app.](https://dev.to/pablo_parra_ac2ecb233ab70/my-friends-kept-recommending-movies-i-kept-forgetting-them-so-i-built-an-app-18eo)
+- [Identity-First Security Strategy](https://dev.to/danieljglover/identity-first-security-strategy-4150)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
