@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Switched to Playwright and I Am Not Going Back 🎭](https://dev.to/shiftescape/i-switched-to-playwright-and-i-am-not-going-back-epa)
-- [I Reduced a Week-Long Dev Task to 1 Hour with Claude Code](https://dev.to/ryo_ariyama_b521d7133c493/i-reduced-a-week-long-dev-task-to-1-hour-with-claude-code-31pm)
-- [The Dry-Run Pattern: How to Test AI Agents Without Breaking Production](https://dev.to/askpatrick/the-dry-run-pattern-how-to-test-ai-agents-without-breaking-production-hem)
-- [Running NVIDIA Nemotron on a Mac with Docker Model Runner: What You Need to Know](https://dev.to/ajeetraina/running-nvidia-nemotron-on-a-mac-with-docker-model-runner-what-you-need-to-know-3f11)
-- [How to Scale Your Engineering Team from 10 to 100](https://dev.to/mikael_danielian_0f5a0e0/how-to-scale-your-engineering-team-from-10-to-100-1nbl)
+- [Giving a &#39;Brain&#39; to Minecraft NPCs with a Local LLM — Nemotron + Mineflayer Implementation Notes](https://dev.to/soytuber/giving-a-brain-to-minecraft-npcs-with-a-local-llm-nemotron-mineflayer-implementation-notes-1mph)
+- [Exposing Multiple Web Applications from a Home Server with Cloudflare Tunnel + Caddy](https://dev.to/soytuber/exposing-multiple-web-applications-from-a-home-server-with-cloudflare-tunnel-caddy-32nb)
+- [Personal AI Development Environment Built with RTX 5090 + WSL2 — A Practical Setup Fully Utilizing 32GB GPU](https://dev.to/soytuber/personal-ai-development-environment-built-with-rtx-5090-wsl2-a-practical-setup-fully-utilizing-3if7)
+- [I Built a Unix Timestamp Converter and Stepped on 3 JavaScript Date API Landmines](https://dev.to/tommy_worklab/i-built-a-unix-timestamp-converter-and-stepped-on-3-javascript-date-api-landmines-5d2f)
+- [I got tired of rebuilding auth and Stripe for every SaaS. So I packaged my own starter.](https://dev.to/utkarsh_singh_6f06fc63800/i-got-tired-of-rebuilding-auth-and-stripe-for-every-saas-so-i-packaged-my-own-starter-2pjb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
