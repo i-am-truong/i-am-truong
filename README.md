@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cascading Grid Failures: How Adversaries Weaponize RTOs and Demand Response](https://dev.to/tiamatenity/cascading-grid-failures-how-adversaries-weaponize-rtos-and-demand-response-17mo)
-- [Introducing @hazeljs/payment: One API, Any Provider](https://dev.to/arslan_mecom/introducing-hazeljspayment-one-api-any-provider-4202)
-- [How to Make Your Product AEO-Ready: A Practical Checklist](https://dev.to/askpatrick/how-to-make-your-product-aeo-ready-a-practical-checklist-5gh4)
-- [15 AI Prompts Every Developer Should Have Bookmarked &lpar;2026&rpar;](https://dev.to/claudeinc/15-ai-prompts-every-developer-should-have-bookmarked-2026-3821)
-- [How to Survive AI as a Developer](https://dev.to/g-fuchter/how-to-survive-ai-as-a-developer-5f7a)
+- [Zero-Trust Architecture in Practice: Why Perimeter Security Failed and What Actually Works](https://dev.to/tiamatenity/zero-trust-architecture-in-practice-why-perimeter-security-failed-and-what-actually-works-2oc7)
+- [How to Extract Keywords and Score Content Quality in Node.js](https://dev.to/ckmtools/how-to-extract-keywords-and-score-content-quality-in-nodejs-2d67)
+- [AI, IoT and the Human Factor: Rebuilding an Undocumented Enterprise Network](https://dev.to/slavik_gokhman_db2f0f6a58/ai-iot-and-the-human-factor-rebuilding-an-undocumented-enterprise-network-293f)
+- [I Was Tired of Setting Up Express.js From Scratch Every Time — So I Built a CLI](https://dev.to/nomanawan/i-was-tired-of-setting-up-expressjs-from-scratch-every-time-so-i-built-a-cli-di1)
+- [I Was Subscribed to 43 Status Pages. So I Built One Dashboard to Replace Them All.](https://dev.to/oukabi/i-was-subscribed-to-43-status-pages-so-i-built-one-dashboard-to-replace-them-all-2n0h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
