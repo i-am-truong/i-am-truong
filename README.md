@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Zero-Trust Architecture in Practice: Why Perimeter Security Failed and What Actually Works](https://dev.to/tiamatenity/zero-trust-architecture-in-practice-why-perimeter-security-failed-and-what-actually-works-2oc7)
-- [How to Extract Keywords and Score Content Quality in Node.js](https://dev.to/ckmtools/how-to-extract-keywords-and-score-content-quality-in-nodejs-2d67)
-- [AI, IoT and the Human Factor: Rebuilding an Undocumented Enterprise Network](https://dev.to/slavik_gokhman_db2f0f6a58/ai-iot-and-the-human-factor-rebuilding-an-undocumented-enterprise-network-293f)
-- [I Was Tired of Setting Up Express.js From Scratch Every Time — So I Built a CLI](https://dev.to/nomanawan/i-was-tired-of-setting-up-expressjs-from-scratch-every-time-so-i-built-a-cli-di1)
-- [I Was Subscribed to 43 Status Pages. So I Built One Dashboard to Replace Them All.](https://dev.to/oukabi/i-was-subscribed-to-43-status-pages-so-i-built-one-dashboard-to-replace-them-all-2n0h)
+- [How We Built an AI Video Platform That Serves 53,000+ Views on Flask + SQLite](https://dev.to/scottcjn/how-we-built-an-ai-video-platform-that-serves-53000-views-on-flask-sqlite-4h63)
+- [Solving Agent State Degradation: Building a Wellness API for Multi-Agent Systems](https://dev.to/opendrama/solving-agent-state-degradation-building-a-wellness-api-for-multi-agent-systems-36c2)
+- [The Side Project Graveyard: Why 90% of Developer Projects Die &lpar;And How to Ship Yours&rpar;](https://dev.to/__be2942592/the-side-project-graveyard-why-90-of-developer-projects-die-and-how-to-ship-yours-54ab)
+- [I Built a VS Code Extension to Clean Up Angular Codebases — Here&#39;s What It Does](https://dev.to/arul_cornelious/i-built-a-vs-code-extension-to-clean-up-angular-codebases-heres-what-it-does-3iil)
+- [How to Land Your First Remote Developer Job in 2026 &lpar;From Someone Who Did It&rpar;](https://dev.to/__be2942592/how-to-land-your-first-remote-developer-job-in-2026-from-someone-who-did-it-5h3m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
