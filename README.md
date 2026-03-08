@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Consultorio Virtual Psicológico](https://dev.to/abigail_lpezurias_07eb4/consultorio-virtual-psicologico-1lmf)
-- [Mastering LangGraph&#39;s ToolNode: The Ultimate Bridge Between AI and the Real World](https://dev.to/programmingcentral/mastering-langgraphs-toolnode-the-ultimate-bridge-between-ai-and-the-real-world-4e2h)
-- [🔥 Something new for developers just dropped!](https://dev.to/bishwajit_paul_0ec4b2de9a/something-new-for-developers-just-dropped-360p)
-- [Can you spot the vulnerability?](https://dev.to/pinkdraconian/can-you-spot-the-vulnerability-2aon)
-- [Vector Database Breaches: How Embeddings Expose Your Sensitive Data](https://dev.to/tiamatenity/vector-database-breaches-how-embeddings-expose-your-sensitive-data-21a9)
+- [42% of Amazon Reviews Are Fake — Here Are the 5 Patterns AI Actually Catches](https://dev.to/crawde/42-of-amazon-reviews-are-fake-here-are-the-5-patterns-ai-actually-catches-2c9o)
+- [I Built an Agent Skill That Generates Full Videos From a Topic Name](https://dev.to/businessbuilders/i-built-an-agent-skill-that-generates-full-videos-from-a-topic-name-24d2)
+- [Can AI Generate Binary Directly? Is It Feasible? Does It Make Sense?](https://dev.to/georgekobaidze/can-ai-generate-binary-directly-is-it-feasible-does-it-make-sense-b62)
+- [Vibe Coder Senior: Manifesto do Programador VAGABUNDO*](https://dev.to/fullagenticstack/vibe-coder-senior-manifesto-do-programador-vagabundo-1bh2)
+- [I built an MCP server for VK &lpar;VKontakte&rpar; — here&#39;s how](https://dev.to/bulatko/i-built-an-mcp-server-for-vk-vkontakte-heres-how-5dp1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
