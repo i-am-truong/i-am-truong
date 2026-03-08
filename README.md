@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The 24GB AI Lab: A Survival Guide to Full-Stack Local AI on Consumer Hardware](https://dev.to/chris_kesler_8a60b6e38dd8/the-24gb-ai-lab-a-survival-guide-to-full-stack-local-ai-on-consumer-hardware-931)
-- [Homelab AI stack 2026 — what to run and in what order](https://dev.to/signal-weekly/homelab-ai-stack-2026-what-to-run-and-in-what-order-4cn)
-- [HackTropica’26: A 36-Hour Journey of Innovation, Collaboration, and Creativity 🚀](https://dev.to/shuvam_dutta_dev/hacktropica26-a-36-hour-journey-of-innovation-collaboration-and-creativity-1l11)
-- [How I Built a Mock API Platform Solo and Shipped It to Production](https://dev.to/jawad_khan1992/how-i-built-a-mock-api-platform-solo-and-shipped-it-to-production-3h6l)
-- [How to Schedule AI Agents That Run Themselves](https://dev.to/nebulagg/how-to-schedule-ai-agents-that-run-themselves-1a2f)
+- [Building a Free Quote Generator With No Backend &lpar;PDF Generated in the Browser&rpar;](https://dev.to/palks_studio/building-a-free-quote-generator-with-no-backend-pdf-generated-in-the-browser-4f5m)
+- [Vector Database Leaks: Why Your AI Embeddings Are as Dangerous as Your Raw Data](https://dev.to/tiamatenity/vector-database-leaks-why-your-ai-embeddings-are-as-dangerous-as-your-raw-data-4jf2)
+- [From Image to Vector: Building Image Similarity Search with Python and MySQL](https://dev.to/sanjayghosh/from-image-to-vector-building-image-similarity-search-with-python-and-mysql-kol)
+- [🚀 Running a 5-Day Mini Sprint in Jira and Shipping a Real Website Change to EC2](https://dev.to/ft_mj_5b31d5ca700bb51d61f/running-a-5-day-mini-sprint-in-jira-and-shipping-a-real-website-change-to-ec2-3dc1)
+- [Solved: Pricing changes for GitHub Actions](https://dev.to/techresolve/solved-pricing-changes-for-github-actions-4623)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
