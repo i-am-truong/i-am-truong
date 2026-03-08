@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Add Face Search to Your App](https://dev.to/kencho/how-to-add-face-search-to-your-app-2mfe)
-- [Understanding SQL Joins with Practical Examples &lpar;Beginner Friendly Guide&rpar;](https://dev.to/itsmunyalo/understanding-sql-joins-with-practical-examples-beginner-friendly-guide-1iee)
-- [How I built a 140-page, 0ms latency web-app in Next.js 15 &lpar;Without a single database query&rpar;](https://dev.to/mihokoto/how-i-built-a-140-page-0ms-latency-web-app-in-nextjs-15-without-a-single-database-query-4b57)
-- [My One-Command macOS Dev Setup: Ruby, Elixir, Zig, and Everything in Between](https://dev.to/anjanj/my-one-command-macos-dev-setup-ruby-elixir-zig-and-everything-in-between-fjf)
-- [Visual Studio Weekly: AI Agents Go Deep Into the IDE](https://dev.to/htekdev/visual-studio-weekly-ai-agents-go-deep-into-the-ide-21dp)
+- [Best AI-Powered Project Management and Team Analytics Platforms for Software Teams in 2026](https://dev.to/dkurbanov/best-ai-powered-project-management-and-team-analytics-platforms-for-software-teams-in-2026-kfn)
+- [I needed to download a website, Ctrl+S sucked, so I built this](https://dev.to/everm4iva/i-needed-to-download-a-website-ctrls-sucked-so-i-built-this-4fhm)
+- [What Breaks After Your AI Demo Works](https://dev.to/lei_ye_2cc01a0af9e8260e/what-breaks-after-your-ai-demo-works-2g8p)
+- [Day 3 of Building Conjure: Analytics, Streaks &amp; Staying Consistent](https://dev.to/sankalpdev/day-3-of-building-conjure-analytics-streaks-staying-consistent-316f)
+- [Day 5: 40 Articles, 5,000+ Page Views, $9 Revenue. Here&#39;s the Honest Analysis.](https://dev.to/askpatrick/day-5-40-articles-5000-page-views-9-revenue-heres-the-honest-analysis-5f50)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
