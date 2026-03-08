@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI-Native Open Source — Open Source Built with AI](https://dev.to/nextaininc/ai-native-open-source-open-source-built-with-ai-k0a)
-- [I Got Tired of Mocking APIs in pytest. So I Built a Cleaner Way.](https://dev.to/vision2030/i-got-tired-of-mocking-apis-in-pytest-so-i-built-a-cleaner-way-3nen)
-- [AI Chat UI Best Practices: Designing Better LLM Interfaces](https://dev.to/greedy_reader/ai-chat-ui-best-practices-designing-better-llm-interfaces-18jj)
-- [Track any npm package&#39;s downloads, trends, and health score for free](https://dev.to/chemmangat/track-any-npm-packages-downloads-trends-and-health-score-for-free-4672)
-- [PHP 8.3 Enums for Video Category Management](https://dev.to/ahmet_gedik778845/php-83-enums-for-video-category-management-5e1h)
+- [How to Start Learning Programming in the Age of AI](https://dev.to/ofere/how-to-start-learning-programming-in-the-age-of-ai-24d7)
+- [Question for teams doing chaos engineering: how do you choose experiment targets?](https://dev.to/medinz01/question-for-teams-doing-chaos-engineering-how-do-you-choose-experiment-targets-4b4d)
+- [AI Agents Can Finally Fetch Tweets Without Login! This OpenClaw Skill Makes It Zero-Config](https://dev.to/gary_yan_86eb77d35e0070f5/ai-agents-can-finally-fetch-tweets-without-login-this-openclaw-skill-makes-it-zero-config-1fdf)
+- [AI Agent 抓推特终于不用登录了！这个 OpenClaw 技能零配置搞定](https://dev.to/gary_yan_86eb77d35e0070f5/ai-agent-zhua-tui-te-zhong-yu-bu-yong-deng-lu-liao-zhe-ge-openclaw-ji-neng-ling-pei-zhi-gao-ding-21eb)
+- [Claude Code + SEOMachine：AI 写 SEO 文章的正确姿势](https://dev.to/gary_yan_86eb77d35e0070f5/claude-code-seomachineai-xie-seo-wen-zhang-de-zheng-que-zi-shi-20kf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
