@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Can Lie. And You Can&#39;t Tell.](https://dev.to/minatoplanb/ai-can-lie-and-you-cant-tell-bf8)
-- [Know Your Agent: Why AI agents need credit checks before they transact](https://dev.to/zarq-ai/know-your-agent-why-ai-agents-need-credit-checks-before-they-transact-1l8o)
-- [Just What Is Clojure, Anyway?](https://dev.to/dimension-ai/just-what-is-clojure-anyway-42np)
-- [Mastering iOS Context Menus &amp; Link Previews: React Native &amp; Expo Router](https://dev.to/serifcolakel/mastering-ios-context-menus-link-previews-react-native-expo-router-561g)
-- [I&#39;ve Spent 10 Years in Mobile Development. What DON&#39;T I Know?](https://dev.to/patterueldev/ive-spent-10-years-in-mobile-development-what-dont-i-know-22ih)
+- [I built a persistent memory MCP with Hebbian learning and GraphRAG](https://dev.to/lenadro1910/i-built-a-persistent-memory-mcp-with-hebbian-learning-and-graphrag-1b5p)
+- [Summary of insights into traditional CSS Grid &amp; Flexbox](https://dev.to/rinidh/summary-of-insights-into-traditional-css-grid-flexbox-1bc8)
+- [Unboxable in Tech: 30 Years of Being the Wrong Shape](https://dev.to/pascal_cescato_692b7a8a20/unboxable-in-tech-30-years-of-being-the-wrong-shape-22fg)
+- [5 Things AI Can&#39;t Do, Even in • Next.js](https://dev.to/devunionx/5-things-ai-cant-do-even-in-nextjs-3o7j)
+- [Small LLMs Aren’t Dumb — They’re Just Missing Tools](https://dev.to/workspacedex/small-llms-arent-dumb-theyre-just-missing-tools-2fnh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
