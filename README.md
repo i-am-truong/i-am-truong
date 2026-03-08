@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Unicode Text Styles on the Web &lpar;Superscript, Small Caps, Fancy Text &amp; More&rpar;](https://dev.to/babybuildss/understanding-unicode-text-styles-on-the-web-superscript-small-caps-fancy-text-more-2447)
-- [Why AI Agents Need an OAuth Infrastructure Layer](https://dev.to/kaeso/why-ai-agents-need-an-oauth-infrastructure-layer-135)
-- [Agents Don&#39;t Fail at AI — They Fail at DevOps](https://dev.to/jarveyspecter/agents-dont-fail-at-ai-they-fail-at-devops-4b0i)
-- [OpenClaw Security Incident Timeline: How One Platform Became the Largest Sovereign AI Breach](https://dev.to/tiamatenity/openclaw-security-incident-timeline-how-one-platform-became-the-largest-sovereign-ai-breach-1892)
-- [Why I Run 9 AI Agents on a $50/Month Server Instead of the Cloud](https://dev.to/jarveyspecter/why-i-run-9-ai-agents-on-a-50month-server-instead-of-the-cloud-111n)
+- [The 24GB AI Lab: A Survival Guide to Full-Stack Local AI on Consumer Hardware](https://dev.to/chris_kesler_8a60b6e38dd8/the-24gb-ai-lab-a-survival-guide-to-full-stack-local-ai-on-consumer-hardware-931)
+- [Homelab AI stack 2026 — what to run and in what order](https://dev.to/signal-weekly/homelab-ai-stack-2026-what-to-run-and-in-what-order-4cn)
+- [HackTropica’26: A 36-Hour Journey of Innovation, Collaboration, and Creativity 🚀](https://dev.to/shuvam_dutta_dev/hacktropica26-a-36-hour-journey-of-innovation-collaboration-and-creativity-1l11)
+- [How I Built a Mock API Platform Solo and Shipped It to Production](https://dev.to/jawad_khan1992/how-i-built-a-mock-api-platform-solo-and-shipped-it-to-production-3h6l)
+- [How to Schedule AI Agents That Run Themselves](https://dev.to/nebulagg/how-to-schedule-ai-agents-that-run-themselves-1a2f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
