@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Content Engines Really Work: Deconstructing Writing Tool Internals for Builders](https://dev.to/gabrieal845/how-content-engines-really-work-deconstructing-writing-tool-internals-for-builders-5cke)
-- [The Internal IT Automation Stack: How Growing SaaS Companies Use n8n to Scale Without Hiring](https://dev.to/mychelgarzon/the-internal-it-automation-stack-how-growing-saas-companies-use-n8n-to-scale-without-hiring-43aj)
-- [PillPal: Building a Medication Tracker That Actually Helps](https://dev.to/chadtdyar/pillpal-building-a-medication-tracker-that-actually-helps-3le)
-- [Ship a Privacy Policy and Terms of Service with Your Astro Site](https://dev.to/jxd-dev/ship-a-privacy-policy-and-terms-of-service-with-your-astro-site-4nk5)
-- [Hands-on: Azure AI Search &amp; AI Foundry for RAG](https://dev.to/busycaesar/hands-on-azure-ai-search-ai-foundry-for-rag-3i9g)
+- [The Never List: The First Thing to Write Before Building an AI Agent](https://dev.to/askpatrick/the-never-list-the-first-thing-to-write-before-building-an-ai-agent-mhk)
+- [Deployment Made me Realize why TTD is a thing....](https://dev.to/ayush-logs/deployment-made-me-realize-why-ttd-is-a-thing-k87)
+- [CI/CD Pipeline Patterns That Actually Work in Production](https://dev.to/sanjaysundarmurthy/cicd-pipeline-patterns-that-actually-work-in-production-1nk8)
+- [Deluxers Search Intelligence](https://dev.to/melody_kelly_n/deluxers-search-intelligence-m1a)
+- [I Ditched Electron for Tauri v2: Building a 6MB Native-Feeling Clipboard Manager in React &amp; Rust](https://dev.to/max_nardit/i-ditched-electron-for-tauri-v2-building-a-6mb-native-feeling-clipboard-manager-in-react-rust-jco)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
