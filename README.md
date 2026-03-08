@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Start Learning Programming in the Age of AI](https://dev.to/ofere/how-to-start-learning-programming-in-the-age-of-ai-24d7)
-- [Question for teams doing chaos engineering: how do you choose experiment targets?](https://dev.to/medinz01/question-for-teams-doing-chaos-engineering-how-do-you-choose-experiment-targets-4b4d)
-- [AI Agents Can Finally Fetch Tweets Without Login! This OpenClaw Skill Makes It Zero-Config](https://dev.to/gary_yan_86eb77d35e0070f5/ai-agents-can-finally-fetch-tweets-without-login-this-openclaw-skill-makes-it-zero-config-1fdf)
-- [AI Agent 抓推特终于不用登录了！这个 OpenClaw 技能零配置搞定](https://dev.to/gary_yan_86eb77d35e0070f5/ai-agent-zhua-tui-te-zhong-yu-bu-yong-deng-lu-liao-zhe-ge-openclaw-ji-neng-ling-pei-zhi-gao-ding-21eb)
-- [Claude Code + SEOMachine：AI 写 SEO 文章的正确姿势](https://dev.to/gary_yan_86eb77d35e0070f5/claude-code-seomachineai-xie-seo-wen-zhang-de-zheng-que-zi-shi-20kf)
+- [Xiaohongshu&#39;s FireRed-Image-Edit-1.1 Tops Charts at Launch! 7.94 Score Beats Alibaba&#39;s Qwen-Image-Edit-2511](https://dev.to/gary_yan_86eb77d35e0070f5/xiaohongshus-firered-image-edit-11-tops-charts-at-launch-794-score-beats-alibabas-4odo)
+- [From Overwhelmed Team Lead to AI Orchestrator: How I Took Back Control of My Dev Life](https://dev.to/themeticulist/from-overwhelmed-team-lead-to-ai-orchestrator-how-i-took-back-control-of-my-dev-life-16gj)
+- [Trying to Understand Poetry](https://dev.to/calvinmercer/trying-to-understand-poetry-2l22)
+- [Log 01: The Legacy Break | Switching to Docker for Data Science](https://dev.to/codebasejournal/log-01-the-legacy-break-switching-to-docker-for-data-science-4pgk)
+- [What If Everything in Your UI Had an Address?](https://dev.to/ajdin_imsirovic_312c31dc4/what-if-everything-in-your-ui-had-an-address-1klh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
