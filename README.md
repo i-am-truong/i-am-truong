@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Giving a &#39;Brain&#39; to Minecraft NPCs with a Local LLM — Nemotron + Mineflayer Implementation Notes](https://dev.to/soytuber/giving-a-brain-to-minecraft-npcs-with-a-local-llm-nemotron-mineflayer-implementation-notes-1mph)
-- [Exposing Multiple Web Applications from a Home Server with Cloudflare Tunnel + Caddy](https://dev.to/soytuber/exposing-multiple-web-applications-from-a-home-server-with-cloudflare-tunnel-caddy-32nb)
-- [Personal AI Development Environment Built with RTX 5090 + WSL2 — A Practical Setup Fully Utilizing 32GB GPU](https://dev.to/soytuber/personal-ai-development-environment-built-with-rtx-5090-wsl2-a-practical-setup-fully-utilizing-3if7)
-- [I Built a Unix Timestamp Converter and Stepped on 3 JavaScript Date API Landmines](https://dev.to/tommy_worklab/i-built-a-unix-timestamp-converter-and-stepped-on-3-javascript-date-api-landmines-5d2f)
-- [I got tired of rebuilding auth and Stripe for every SaaS. So I packaged my own starter.](https://dev.to/utkarsh_singh_6f06fc63800/i-got-tired-of-rebuilding-auth-and-stripe-for-every-saas-so-i-packaged-my-own-starter-2pjb)
+- [Building a Free Research Agent with DuckDuckGo Search + Local LLM](https://dev.to/soytuber/building-a-free-research-agent-with-duckduckgo-search-local-llm-5bjb)
+- [A Daily Report System to Automatically Aggregate Claude Code + Gemini CLI Usage History Every Morning with Cron](https://dev.to/soytuber/a-daily-report-system-to-automatically-aggregate-claude-code-gemini-cli-usage-history-every-17hk)
+- [Reducing Token Consumption in Claude Code — FTS5 Knowledge DB + Tiered Index Design](https://dev.to/soytuber/reducing-token-consumption-in-claude-code-fts5-knowledge-db-tiered-index-design-1eb4)
+- [Implementing Stripe Checkout Billing in PatentLLM](https://dev.to/soytuber/implementing-stripe-checkout-billing-in-patentllm-1kh6)
+- [Building a 5-in-1 App with Local LLM and Flutter](https://dev.to/soytuber/building-a-5-in-1-app-with-local-llm-and-flutter-3jkn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
