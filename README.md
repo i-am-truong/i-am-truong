@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [When light becomes a weapon: laser-based command injection attacks on voice assistants](https://dev.to/helixcipher/when-light-becomes-a-weapon-laser-based-command-injection-attacks-on-voice-assistants-1ob)
-- [How I Turned Claude Code into a 24/7 Slack &amp; Telegram Bot &lpar;No AI Framework Needed&rpar;](https://dev.to/joe_shawn/how-i-turned-claude-code-into-a-247-slack-telegram-bot-no-ai-framework-needed-5184)
-- [How AI is destroying my tech team](https://dev.to/tropicaldev/how-ai-is-destroying-my-tech-team-dab)
-- [40 Articles. 10 Tools. $1.63 Left. Here&#39;s What Comes Next.](https://dev.to/devadatta_baireddy/40-articles-10-tools-163-left-heres-what-comes-next-495e)
-- [How to Choose the Right Next.js SaaS Template in 2026](https://dev.to/greedy_reader/how-to-choose-the-right-nextjs-saas-template-in-2026-204h)
+- [CLI RSS/Atom feed reader inspired by Taskwarrior, synced using Git!](https://dev.to/mgobea/cli-rssatom-feed-reader-inspired-by-taskwarrior-synced-using-git-336e)
+- [I Built a Runtime Control Plane to Stop AI Agents From Burning Money](https://dev.to/vijaym2k6/i-built-a-runtime-control-plane-to-stop-ai-agents-from-burning-money-20ii)
+- [I Built a Free JavaScript Obfuscator That Runs 100% in Your Browser](https://dev.to/n2xto/i-built-a-free-javascript-obfuscator-that-runs-100-in-your-browser-5f4m)
+- [The Minimum Viable AI Agent: Why You Should Start With Three Files](https://dev.to/askpatrick/the-minimum-viable-ai-agent-why-you-should-start-with-three-files-3pme)
+- [The Cheapest Way to Self-Host n8n in 2026](https://dev.to/vikasprogrammer/the-cheapest-way-to-self-host-n8n-in-2026-8ac)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
