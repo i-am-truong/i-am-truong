@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [FAQ: Employee AI Monitoring — What Workers Need To Know](https://dev.to/tiamatenity/faq-employee-ai-monitoring-what-workers-need-to-know-1pnm)
-- [Best Engineering Capacity Planning Software for Software Teams in 2026](https://dev.to/dkurbanov/best-engineering-capacity-planning-software-for-software-teams-in-2026-331d)
-- [🚀 My Hands-On Experience Deploying Applications on Azure cloud](https://dev.to/tufail_mohammed_822ce7383/my-hands-on-experience-deploying-applications-on-azure-cloud-o2n)
-- [Relicensing Open Source with an AI](https://dev.to/spara_50/relicensing-open-source-with-an-ai-1ac8)
-- [Layered Architecture A Beginner&#39;s Guide to Structuring Software Systems](https://dev.to/aznaxdev/layered-architecture-a-beginners-guide-to-structuring-software-systems-4omm)
+- [Tales of the Algorhymer: Martian Mining](https://dev.to/algorhymer/tales-of-the-algorhymer-martian-mining-gmd)
+- [5 Free Developer Tools I Built for Everyday Coding](https://dev.to/dipgarg0011/5-free-developer-tools-i-built-for-everyday-coding-a02)
+- [Claude Designed Its Own Rule System — A Public Experiment](https://dev.to/minatoplanb/claude-designed-its-own-rule-system-a-public-experiment-1bl)
+- [I Wrote 200 Lines of Rules for Claude Code. It Ignored Them All.](https://dev.to/minatoplanb/i-wrote-200-lines-of-rules-for-claude-code-it-ignored-them-all-4mbf)
+- [Speech note](https://dev.to/dolly_sharma/speech-note-42e7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
