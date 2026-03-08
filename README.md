@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Teaching AI to Escape: The Power of Deep Reinforcement Learning](https://dev.to/helixcipher/teaching-ai-to-escape-the-power-of-deep-reinforcement-learning-njm)
-- [How to set up a new AWS project in under 12 minutes](https://dev.to/yash_step2dev/how-to-set-up-a-new-aws-project-in-under-12-minutes-gfp)
-- [I Got Frustrated with ngrok and Built My Own Self-Hosted Tunneling Tool](https://dev.to/artem_petrusenko_1342b220/i-got-frustrated-with-ngrok-and-built-my-own-self-hosted-tunneling-tool-54l2)
-- [Building something here.. maybe..](https://dev.to/clyh/building-something-here-maybe-3i64)
-- [Deploy AI Agents in Production The Practical 2026 Guide](https://dev.to/hugo_o137/deploy-ai-agents-in-production-the-practical-2026-guide-2p7h)
+- [Notion Career Sync: 1-Click AI Job Tracker via Notion MCP](https://dev.to/samyak_jain_2c769a6af29c1/notion-career-sync-1-click-ai-job-tracker-via-notion-mcp-4afi)
+- [The Outbox Pattern: How Multi-Agent Teams Coordinate Without Cross-Contamination](https://dev.to/askpatrick/the-outbox-pattern-how-multi-agent-teams-coordinate-without-cross-contamination-3pfc)
+- [&quot;How to Structure Your CLAUDE.md So Claude Code Actually Follows It&quot;](https://dev.to/boucle2026/how-to-structure-your-claudemd-so-claude-code-actually-follows-it-4fkh)
+- [Using AI to identify and fix critical software vulnerabilities](https://dev.to/helixcipher/using-ai-to-identify-and-fix-critical-software-vulnerabilities-1489)
+- [Security with AI](https://dev.to/helixcipher/security-with-ai-k19)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
