@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Giving Your AI the Right Context with Model Context Protocol &lpar;MCP&rpar;](https://dev.to/krjakbrjak/giving-your-ai-the-right-context-with-model-context-protocol-mcp-276o)
-- [I Built a Free AI Education Platform in 5 Languages — And Open-Sourced Everything](https://dev.to/rameshreddy-adutla/i-built-a-free-ai-education-platform-in-5-languages-and-open-sourced-everything-1a73)
-- [My Journey Into Machine Learning at 15 - Looking for Advice!](https://dev.to/thameemx/my-journey-into-machine-learning-at-15-looking-for-advice-5dki)
-- [Installing SysLens: A Lightweight Linux System Information Tool](https://dev.to/mahmudul626/installing-syslens-a-lightweight-linux-system-information-tool-4f9h)
-- [Running Federation with Cosmo: No Glue Code, No Surprises](https://dev.to/slickstef11/running-federation-with-cosmo-no-glue-code-no-surprises-3nkl)
+- [I Scanned 100 Vibe-Coded Apps for Security. I Found 318 Vulnerabilities.](https://dev.to/vibewrench/i-scanned-100-vibe-coded-apps-for-security-i-found-318-vulnerabilities-4dp7)
+- [The Agentic Web: When AI Starts Talking to Other AI](https://dev.to/praneet_gogoi_beastsoul/the-agentic-web-when-ai-starts-talking-to-other-ai-2f90)
+- [I Built a Local-First HSA Receipt Tracker with Flask, Google Drive, and AI](https://dev.to/pjhoberman/i-built-a-local-first-hsa-receipt-tracker-with-flask-google-drive-and-ai-23dl)
+- [Change Management When Specs Are Living Documents](https://dev.to/juranki/change-management-when-specs-are-living-documents-1mjb)
+- [Bootstrapping a Project with AI and Specs](https://dev.to/juranki/bootstrapping-a-project-with-ai-and-specs-2om8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
