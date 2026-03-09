@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The One-Line Escalation Rule That Cut Our Agent Mistakes by 80%](https://dev.to/askpatrick/the-one-line-escalation-rule-that-cut-our-agent-mistakes-by-80-32ic)
-- [🚧 En el mientras tanto](https://dev.to/laumontironi/en-el-mientras-tanto-4l31)
-- [Why Automated E2E Testing is Non-Negotiable in 2026 and Beyond](https://dev.to/yidne3445/why-automated-e2e-testing-is-non-negotiable-in-2026-and-beyond-3g2p)
-- [What Does a Performance QA Engineer Actually Do?](https://dev.to/oleh_koren/what-does-a-performance-qa-engineer-actually-do-311)
-- [The Developer&#39;s Attention Crisis: Why Your AI Bills Are Higher Than They Should Be](https://dev.to/jamie_b714bfb128f0fd9ce03/the-developers-attention-crisis-why-your-ai-bills-are-higher-than-they-should-be-4li6)
+- [ZeroClaw: A Minimal Rust-Based AI Agent Framework for Self-Hosted Systems](https://dev.to/lightningdev123/zeroclaw-a-minimal-rust-based-ai-agent-framework-for-self-hosted-systems-5593)
+- [Meme Monday](https://dev.to/ben/meme-monday-2676)
+- [How to Convert Python Files to PDF or DOCX &lpar;Without Installing LaTeX&rpar;](https://dev.to/pbinder_2e65897d5/how-to-convert-python-files-to-pdf-or-docx-without-installing-latex-2o84)
+- [Уроки из опыта AI-assisted разработки](https://dev.to/paul310/uroki-iz-opyta-ai-assisted-razrabotki-2fgb)
+- [I built a startup validator that queries 40+ live sources. Here&#39;s what I learned.](https://dev.to/vxncxnx/i-scanned-2500-startup-ideas-with-ai-here-is-what-the-data-says-about-why-most-fail-nh3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
