@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Turn Old Android Phones into AI Agents &lpar;Complete Guide&rpar;](https://dev.to/priya_negi_9ffd29931ea408/how-to-turn-old-android-phones-into-ai-agents-complete-guide-c6e)
-- [Terraform Modules: Building Reusable Infrastructure for Azure](https://dev.to/sanjaysundarmurthy/terraform-modules-building-reusable-infrastructure-for-azure-51i6)
-- [AI will fuck you up if you’re not on board](https://dev.to/rmoff/ai-will-fuck-you-up-if-youre-not-on-board-1jof)
-- [[Boost]](https://dev.to/joachimzeelmaekers/-ec6)
-- [The &quot;Lazy&quot; Developer’s Guide to Twilio Auto-Replies &lpar;No Server Required&rpar;](https://dev.to/trivedivatsal/the-lazy-developers-guide-to-twilio-auto-replies-no-server-required-bmh)
+- [The One-Line Escalation Rule That Cut Our Agent Mistakes by 80%](https://dev.to/askpatrick/the-one-line-escalation-rule-that-cut-our-agent-mistakes-by-80-32ic)
+- [🚧 En el mientras tanto](https://dev.to/laumontironi/en-el-mientras-tanto-4l31)
+- [Why Automated E2E Testing is Non-Negotiable in 2026 and Beyond](https://dev.to/yidne3445/why-automated-e2e-testing-is-non-negotiable-in-2026-and-beyond-3g2p)
+- [What Does a Performance QA Engineer Actually Do?](https://dev.to/oleh_koren/what-does-a-performance-qa-engineer-actually-do-311)
+- [The Developer&#39;s Attention Crisis: Why Your AI Bills Are Higher Than They Should Be](https://dev.to/jamie_b714bfb128f0fd9ce03/the-developers-attention-crisis-why-your-ai-bills-are-higher-than-they-should-be-4li6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
