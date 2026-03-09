@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop Guessing: Turn Vibe Coding from &quot;Sometimes Magic&quot; to &quot;Reliably Powerful&quot;!](https://dev.to/richard_chai_7ae55a511593/stop-guessing-turn-vibe-coding-from-sometimes-magic-to-reliably-powerful-51mi)
-- [The research desk has a memory problem](https://dev.to/leivleivleiv/the-research-desk-has-a-memory-problem-3dk6)
-- [How I Built a 37 Million Row Search Engine That Returns Results in 200ms](https://dev.to/faiz_md_37b12e52f7275ac34/how-i-built-a-37-million-row-search-engine-that-returns-results-in-200ms-k0l)
-- [5 Simple Practices That Help Me Write Cleaner Code](https://dev.to/noriuki/5-simple-practices-that-help-me-write-cleaner-code-1o2p)
-- [Authentication vs Authorization](https://dev.to/noriuki/authentication-vs-authorization-3je5)
+- [Uncovering Hidden E-Commerce Churn Risks with SHAP-IQ](https://dev.to/exploredataaiml/uncovering-hidden-e-commerce-churn-risks-with-shap-iq-4og2)
+- [Zero-Day Economics: Why Nation States Sell Exploits to Criminal Markets](https://dev.to/tiamatenity/zero-day-economics-why-nation-states-sell-exploits-to-criminal-markets-184)
+- [Type-safe LLM prompts in Rust: catching prompt bugs before they happen](https://dev.to/lakshmisravyavedantham/type-safe-llm-prompts-in-rust-catching-prompt-bugs-before-they-happen-2nnf)
+- [#1 – AWS Cloud Introduction](https://dev.to/dareosewa/1-aws-cloud-introduction-3083)
+- [Export Installed WordPress Plugins &amp; Themes to CSV &lpar;Developer-Friendly Method&rpar;](https://dev.to/zeeshansardar08/export-installed-wordpress-plugins-themes-to-csv-developer-friendly-method-2cpa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
