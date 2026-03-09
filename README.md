@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Smooth gradient animation using @property](https://dev.to/nicooprat/smooth-gradient-animation-using-property-3ndh)
-- [Human Code Review Is Not the Last Frontier](https://dev.to/joacod/human-code-review-is-not-the-last-frontier-60c)
-- [Building Ask Zen Insight: An AI Meditation Teacher with Next.js 16 and Streaming Responses](https://dev.to/duncan_drew_3f84d0cf1763d/building-ask-zen-insight-an-ai-meditation-teacher-with-nextjs-16-and-streaming-responses-2dpl)
-- [Why Clean Architecture Still Matters in 2026](https://dev.to/web2and3/why-clean-architecture-still-matters-in-2026-aja)
-- [Review: GitHub Security Lab&#39;s Open-Source AI Vulnerability-Scanning Framework for Drupal Module and WordPress Plugin CI Pipel...](https://dev.to/victorstackai/review-github-security-labs-open-source-ai-vulnerability-scanning-framework-for-drupal-module-and-1ikm)
+- [ChatGPT Told Me to Go Work for Anthropic](https://dev.to/jballanc/chatgpt-told-me-to-go-work-for-anthropic-29ja)
+- [The Painting Ideas I Found in Old Family Photos](https://dev.to/danielrhodes/the-painting-ideas-i-found-in-old-family-photos-59aa)
+- [Build an AI Agent from Scratch — No Frameworks, Just Python](https://dev.to/shashi_kiran_bcfdbb223140/build-an-ai-agent-from-scratch-no-frameworks-just-python-3850)
+- [I built 130+ web components for myself. Now they&#39;re free for everyone.](https://dev.to/hedzer_ferwerda_a9c37a296/i-built-130-web-components-for-myself-now-theyre-free-for-everyone-4olf)
+- [I Built a Chrome Extension to Track My Job Applications](https://dev.to/rishabh_6ddccd0e0d2917ac5/i-built-a-chrome-extension-to-track-my-job-applications-520h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
