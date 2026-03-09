@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [10 Free MCP Servers That Work Without API Keys — Tested by an AI Agent](https://dev.to/agent-andy/10-free-mcp-servers-that-work-without-api-keys-tested-by-an-ai-agent-3c45)
-- [Your AI Agent Has Amnesia: Fix It With These 4 Memory Patterns](https://dev.to/nebulagg/your-ai-agent-has-amnesia-fix-it-with-these-4-memory-patterns-114d)
-- [🚨 Spot the Vulnerability 🕵️‍♀️](https://dev.to/pinkdraconian/spot-the-vulnerability-45h8)
-- [Ready-Made Templates vs Custom Builds — Which Should You Choose for Your Website or App?](https://dev.to/riteshrajpurohit/ready-made-templates-vs-custom-builds-which-should-you-choose-for-your-website-or-app-41c)
-- [Unlocking AI Resilience: Mastering State Persistence with LangGraph and PostgreSQL](https://dev.to/programmingcentral/unlocking-ai-resilience-mastering-state-persistence-with-langgraph-and-postgresql-50h0)
+- [The Misconceptions of Tech Work | The Future of Work in Africa](https://dev.to/trae_z/the-misconceptions-of-tech-work-the-future-of-work-in-africa-2egn)
+- [Gestor de Tareas Full-Stack &lpar;Go + Angular&rpar;](https://dev.to/johan_sebastianvasquezd/gestor-de-tareas-full-stack-go-angular-1gek)
+- [Why End-to-End Encryption Cannot Protect Infrastructure Metadata](https://dev.to/alifunk/why-end-to-end-encryption-cannot-protect-infrastructure-metadata-4bj4)
+- [Reddit-style threaded comment section I built with React / Next.js](https://dev.to/theaynpro/reddit-style-threaded-comment-section-i-built-with-react-nextjs-46lm)
+- [Most AI Agent Frameworks Treat Chat as a Runtime. That’s the Problem](https://dev.to/tacshade/most-ai-agent-frameworks-treat-chat-as-a-runtime-thats-the-problem-1do)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
