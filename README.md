@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Flash Loans Explained: Zero-Collateral DeFi in One Transaction](https://dev.to/metadevdigital/flash-loans-explained-zero-collateral-defi-in-one-transaction-223o)
-- [# Why Wait 90 Days for NVD? I Built a System That Creates CVEs Instantly.](https://dev.to/joupify/-why-wait-90-days-for-nvd-i-built-a-system-that-creates-cves-instantly-4gkp)
-- [GHSA-9Q2P-VC84-2RWM: GHSA-9Q2P-VC84-2RWM: Parser Differential Vulnerability in OpenClaw Security Allowlist](https://dev.to/cverports/ghsa-9q2p-vc84-2rwm-ghsa-9q2p-vc84-2rwm-parser-differential-vulnerability-in-openclaw-security-2e1p)
-- [Your Undo Button is Just a Stack of Pancakes](https://dev.to/doogal/your-undo-button-is-just-a-stack-of-pancakes-5297)
-- [Import Your AI Memory into ContextForge: Claude Code, ChatGPT, and Knowledge Graph](https://dev.to/alfredoizjr/import-your-ai-memory-into-contextforge-claude-code-chatgpt-and-knowledge-graph-5615)
+- [5 Simple Practices That Help Me Write Cleaner Code](https://dev.to/noriuki/5-simple-practices-that-help-me-write-cleaner-code-1o2p)
+- [Authentication vs Authorization](https://dev.to/noriuki/authentication-vs-authorization-3je5)
+- [Daily AI News — Feb 27, 2026: Copilot Tasks, ChatGPT Projects ‘Sources’, and a Codex CLI Update](https://dev.to/damogallagher/daily-ai-news-feb-27-2026-copilot-tasks-chatgpt-projects-sources-and-a-codex-cli-update-5hd3)
+- [12 Days That Shook AI: Everything That Happened Feb 26 – Mar 9, 2026](https://dev.to/damogallagher/12-days-that-shook-ai-everything-that-happened-feb-26-mar-9-2026-2c95)
+- [Docker Fundamentals: The Tip of the Iceberg](https://dev.to/akbarsiddic/docker-fundamentals-the-tip-of-the-iceberg-m4g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
