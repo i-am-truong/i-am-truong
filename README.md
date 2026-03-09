@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [229 Demos, 0 Signups — Here&#39;s What We Are Doing Next](https://dev.to/agenium_platform/229-demos-0-signups-heres-what-we-are-doing-next-2bhk)
+- [Running a Local Sandboxed macOS Desktop Using VNC and a Restricted User](https://dev.to/jlarky/running-a-local-sandboxed-macos-desktop-using-vnc-and-a-restricted-user-38dk)
+- [Git Explained: From Mental Models to Production Workflows](https://dev.to/gold_roger/git-explained-from-mental-models-to-production-workflows-1nkc)
 - [Uncovering Hidden E-Commerce Churn Risks with SHAP-IQ](https://dev.to/exploredataaiml/uncovering-hidden-e-commerce-churn-risks-with-shap-iq-4og2)
 - [Zero-Day Economics: Why Nation States Sell Exploits to Criminal Markets](https://dev.to/tiamatenity/zero-day-economics-why-nation-states-sell-exploits-to-criminal-markets-184)
-- [Type-safe LLM prompts in Rust: catching prompt bugs before they happen](https://dev.to/lakshmisravyavedantham/type-safe-llm-prompts-in-rust-catching-prompt-bugs-before-they-happen-2nnf)
-- [#1 – AWS Cloud Introduction](https://dev.to/dareosewa/1-aws-cloud-introduction-3083)
-- [Export Installed WordPress Plugins &amp; Themes to CSV &lpar;Developer-Friendly Method&rpar;](https://dev.to/zeeshansardar08/export-installed-wordpress-plugins-themes-to-csv-developer-friendly-method-2cpa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
