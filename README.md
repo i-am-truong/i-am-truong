@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Agents Run Smoothly on Gemini&#39;s Free Tier!](https://dev.to/mgobea/ai-agents-run-smoothly-on-geminis-free-tier-42ai)
-- [How I Built a PII Scrubber to Protect Against OpenClaw Breaches](https://dev.to/tiamatenity/how-i-built-a-pii-scrubber-to-protect-against-openclaw-breaches-k68)
-- [🔹 التفاعل مع ENS وMetaMask باستخدام Node.js وHTML على Termux](https://dev.to/sfetprogyxbc/ltfl-m-ens-wmetamask-bstkhdm-nodejs-whtml-l-termux-16kj)
-- [I Built a Free Tool to Remove Invisible AI Watermarks from Google Gemini Images](https://dev.to/denuwan_lahiru_9cda51b5c0/i-built-a-free-tool-to-remove-invisible-ai-watermarks-from-google-gemini-images-3m0m)
-- [The Byzantine Generals Problem Is Now an AI Agent Problem](https://dev.to/askpatrick/the-byzantine-generals-problem-is-now-an-ai-agent-problem-5ac8)
+- [OCI Networking Best Practices for Beginners](https://dev.to/js116521/oci-networking-best-practices-for-beginners-30cf)
+- [Web Accessibility &lpar;WCAG&rpar; for Business Websites: A Practical Developer&#39;s Checklist](https://dev.to/emongmarcc/web-accessibility-wcag-for-business-websites-a-practical-developers-checklist-2gn4)
+- [splitting one human colleague into 9 Go agents](https://dev.to/combba/splitting-one-human-colleague-into-9-go-agents-1lbm)
+- [Shadow Production: How to Test Dangerous Changes Without Being Dangerous](https://dev.to/iseecodepeople/shadow-production-how-to-test-dangerous-changes-without-being-dangerous-21p)
+- [Making iMessage Reliable with OpenClaw: 3 Problems and How We Fixed Them](https://dev.to/qiushiwu/making-imessage-reliable-with-openclaw-3-problems-and-how-we-fixed-them-o8m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
