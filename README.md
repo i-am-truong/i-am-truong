@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The for Loop in Java — What Most Tutorials Don&#39;t Tell You](https://dev.to/thecodeforge/the-for-loop-in-java-what-most-tutorials-dont-tell-you-46fl)
-- [GCP Defaults Every VM to Premium Network and You&#39;re Paying 40% More for Egress You Don&#39;t Need 🌐](https://dev.to/suhas_mallesh/gcp-defaults-every-vm-to-premium-network-and-youre-paying-40-more-for-egress-you-dont-need-5bhm)
-- [Expense Tracker: Learning CI/CD](https://dev.to/davidgrath/expense-tracker-learning-cicd-2ah1)
-- [GPT 5.4 Thinks Like a Person Under Pressure: What Autonomous Agent Logs Reveal About Model Cognition](https://dev.to/rsdouglas/gpt-54-thinks-like-a-person-under-pressure-what-autonomous-agent-logs-reveal-about-model-cognition-1dm6)
-- [HTMX for building a SQLite query dashboard](https://dev.to/hungle00/htmx-for-building-a-sqlite-query-dashboard-32ck)
+- [CQRS - Design Pattern](https://dev.to/tannu28_/cqrs-design-pattern-26ap)
+- [The Succession Problem](https://dev.to/rook_damon/the-succession-problem-2bkp)
+- [Enterprise Automation is Missing Context. Here&#39;s How Agentic AI Fixes It](https://dev.to/agixtech/enterprise-automation-is-missing-context-heres-how-agentic-ai-fixes-it-1na5)
+- [Trace Context Propagation](https://dev.to/godofgeeks/trace-context-propagation-3lpb)
+- [10 Practical Script Examples for API Testing](https://dev.to/kanishkrawattt/10-practical-script-examples-for-api-testing-23h7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
