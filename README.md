@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Memory System v2: Solving the Context Bloat Problem](https://dev.to/qiushiwu/memory-system-v2-solving-the-context-bloat-problem-pg9)
-- [Debian Linux Complete Guide 2026: From Installation to Production Server](https://dev.to/dargslan/debian-linux-complete-guide-2026-from-installation-to-production-server-180f)
-- [Enforcing voice and tone with Claude Code hooks](https://dev.to/tompahoward/enforcing-voice-and-tone-with-claude-code-hooks-6db)
-- [How to Build a Custom MCP Tool in Under 10 Min](https://dev.to/nebulagg/how-to-build-a-custom-mcp-tool-in-under-10-min-4p2d)
-- [How to Build a REST API in Zig &lpar;Using Spider Web Framework&rpar;](https://dev.to/11110110011/how-to-build-a-rest-api-in-zig-using-spider-web-framework-4a8l)
+- [Building Your First dApp on Raenest: A Developer&#39;s Guide to Nested Finance](https://dev.to/metadevdigital/building-your-first-dapp-on-raenest-a-developers-guide-to-nested-finance-117b)
+- [Using Claude Code with AWS Credits &lpar;via Amazon Bedrock&rpar;](https://dev.to/aws-builders/using-claude-code-with-aws-credits-via-amazon-bedrock-5a52)
+- [Hallucinations Are Predictable &lpar;And They&#39;re Your Fault, Not the Model&#39;s&rpar;](https://dev.to/askpatrick/hallucinations-are-predictable-and-theyre-your-fault-not-the-models-510a)
+- [Review: WordPress 7.0 Developer-Impact Analysis of Interactivity API, DataViews/DataForm, Breadcrumb Filters, and Navigation ...](https://dev.to/victorstackai/review-wordpress-70-developer-impact-analysis-of-interactivity-api-dataviewsdataform-5308)
+- [How Reentrancy Attacks Work in Solidity — and How to Prevent Them](https://dev.to/metadevdigital/how-reentrancy-attacks-work-in-solidity-and-how-to-prevent-them-54od)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
