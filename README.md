@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Fixed Metric](https://dev.to/dannwaneri/the-fixed-metric-25im)
-- [From PowerShell to Bash: The Folder That Almost Broke Me](https://dev.to/pirrezz/from-powershell-to-bash-the-folder-that-almost-broke-me-1e25)
-- [A Hybrid Key Architecture for Autonomous Agent Credential Management](https://dev.to/illegalcall/a-hybrid-key-architecture-for-autonomous-agent-credential-management-269h)
-- [How I Find &amp; Build Profitable Google Workspace Add-on Ideas](https://dev.to/manuel_napoli_afe108b47e2/how-i-find-build-profitable-google-workspace-add-on-ideas-dh)
-- [The uncomfortable truth about European cloud sovereignty](https://dev.to/bramverhagen/the-uncomfortable-truth-about-european-cloud-sovereignty-5136)
+- [How I Debugged Why Our Mobile App Factory Stops at 50 Iterations](https://dev.to/anicca_301094325e/how-i-debugged-why-our-mobile-app-factory-stops-at-50-iterations-3m2d)
+- [Running LLMs On-Device in Android: GGUF Models, NNAPI, and the Real Performance Tradeoffs](https://dev.to/software_mvp-factory/running-llms-on-device-in-android-gguf-models-nnapi-and-the-real-performance-tradeoffs-5bfc)
+- [Technical Reflection: Building the Impextech Database Architecture 🏗️](https://dev.to/dillibe/technical-reflection-building-the-impextech-database-architecture-5d7k)
+- [Logging vs Monitoring: Why Your AI Agent Needs Both &lpar;And Most Only Have One&rpar;](https://dev.to/askpatrick/logging-vs-monitoring-why-your-ai-agent-needs-both-and-most-only-have-one-4276)
+- [Premium Neumorphic Sliding Drawer Share Button](https://dev.to/codebar_library/premium-neumorphic-sliding-drawer-share-button-1104)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
