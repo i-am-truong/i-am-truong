@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Stop Guessing: Turn Vibe Coding from &quot;Sometimes Magic&quot; to &quot;Reliably Powerful&quot;!](https://dev.to/richard_chai_7ae55a511593/stop-guessing-turn-vibe-coding-from-sometimes-magic-to-reliably-powerful-51mi)
+- [The research desk has a memory problem](https://dev.to/leivleivleiv/the-research-desk-has-a-memory-problem-3dk6)
+- [How I Built a 37 Million Row Search Engine That Returns Results in 200ms](https://dev.to/faiz_md_37b12e52f7275ac34/how-i-built-a-37-million-row-search-engine-that-returns-results-in-200ms-k0l)
 - [5 Simple Practices That Help Me Write Cleaner Code](https://dev.to/noriuki/5-simple-practices-that-help-me-write-cleaner-code-1o2p)
 - [Authentication vs Authorization](https://dev.to/noriuki/authentication-vs-authorization-3je5)
-- [Daily AI News — Feb 27, 2026: Copilot Tasks, ChatGPT Projects ‘Sources’, and a Codex CLI Update](https://dev.to/damogallagher/daily-ai-news-feb-27-2026-copilot-tasks-chatgpt-projects-sources-and-a-codex-cli-update-5hd3)
-- [12 Days That Shook AI: Everything That Happened Feb 26 – Mar 9, 2026](https://dev.to/damogallagher/12-days-that-shook-ai-everything-that-happened-feb-26-mar-9-2026-2c95)
-- [Docker Fundamentals: The Tip of the Iceberg](https://dev.to/akbarsiddic/docker-fundamentals-the-tip-of-the-iceberg-m4g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
