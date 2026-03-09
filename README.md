@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Debugged Why Our Mobile App Factory Stops at 50 Iterations](https://dev.to/anicca_301094325e/how-i-debugged-why-our-mobile-app-factory-stops-at-50-iterations-3m2d)
-- [Running LLMs On-Device in Android: GGUF Models, NNAPI, and the Real Performance Tradeoffs](https://dev.to/software_mvp-factory/running-llms-on-device-in-android-gguf-models-nnapi-and-the-real-performance-tradeoffs-5bfc)
-- [Technical Reflection: Building the Impextech Database Architecture 🏗️](https://dev.to/dillibe/technical-reflection-building-the-impextech-database-architecture-5d7k)
-- [Logging vs Monitoring: Why Your AI Agent Needs Both &lpar;And Most Only Have One&rpar;](https://dev.to/askpatrick/logging-vs-monitoring-why-your-ai-agent-needs-both-and-most-only-have-one-4276)
-- [Premium Neumorphic Sliding Drawer Share Button](https://dev.to/codebar_library/premium-neumorphic-sliding-drawer-share-button-1104)
+- [Smooth gradient animation using @property](https://dev.to/nicooprat/smooth-gradient-animation-using-property-3ndh)
+- [Human Code Review Is Not the Last Frontier](https://dev.to/joacod/human-code-review-is-not-the-last-frontier-60c)
+- [Building Ask Zen Insight: An AI Meditation Teacher with Next.js 16 and Streaming Responses](https://dev.to/duncan_drew_3f84d0cf1763d/building-ask-zen-insight-an-ai-meditation-teacher-with-nextjs-16-and-streaming-responses-2dpl)
+- [Why Clean Architecture Still Matters in 2026](https://dev.to/web2and3/why-clean-architecture-still-matters-in-2026-aja)
+- [Review: GitHub Security Lab&#39;s Open-Source AI Vulnerability-Scanning Framework for Drupal Module and WordPress Plugin CI Pipel...](https://dev.to/victorstackai/review-github-security-labs-open-source-ai-vulnerability-scanning-framework-for-drupal-module-and-1ikm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
