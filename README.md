@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What is Clawwork &lpar;hkuds&rpar;? The Browser Agent That Finally Understands the Web](https://dev.to/yunsoft/what-is-clawwork-hkuds-the-browser-agent-that-finally-understands-the-web-2dhh)
-- [Machines can learn from data. Should humans still learn statistics?](https://dev.to/aleksandra_6bf530a531488b/machines-can-learn-from-data-should-humans-still-learn-statistics-3mco)
-- [How Our AI Agents Found a Security Bug in Their Own Code](https://dev.to/bridgeace/how-our-ai-agents-found-a-security-bug-in-their-own-code-268f)
-- [Why Your AI Code Editor Sends Your Code to the Cloud &lpar;And Why It Shouldn&#39;t&rpar;](https://dev.to/bridgeace/why-your-ai-code-editor-sends-your-code-to-the-cloud-and-why-it-shouldnt-49c8)
-- [Simulating Boids with ECSx and liveview](https://dev.to/w3ndo/simulating-boids-with-ecsx-and-liveview-124m)
+- [How to Turn Old Android Phones into AI Agents &lpar;Complete Guide&rpar;](https://dev.to/priya_negi_9ffd29931ea408/how-to-turn-old-android-phones-into-ai-agents-complete-guide-c6e)
+- [Terraform Modules: Building Reusable Infrastructure for Azure](https://dev.to/sanjaysundarmurthy/terraform-modules-building-reusable-infrastructure-for-azure-51i6)
+- [AI will fuck you up if you’re not on board](https://dev.to/rmoff/ai-will-fuck-you-up-if-youre-not-on-board-1jof)
+- [[Boost]](https://dev.to/joachimzeelmaekers/-ec6)
+- [The &quot;Lazy&quot; Developer’s Guide to Twilio Auto-Replies &lpar;No Server Required&rpar;](https://dev.to/trivedivatsal/the-lazy-developers-guide-to-twilio-auto-replies-no-server-required-bmh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
