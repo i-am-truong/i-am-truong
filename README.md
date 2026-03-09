@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AWS SageMaker: End-to-End ML Platform](https://dev.to/matt_frank_usa/aws-sagemaker-end-to-end-ml-platform-4fch)
-- [I Made an LLM Add Features to Its Own Code — Classic Spring Boot vs Clean Architecture](https://dev.to/wakita181009/i-made-an-llm-add-features-to-its-own-code-classic-spring-boot-vs-clean-architecture-l6l)
-- [Connecting Power BI to SQL Databases: A Step-by-Step Guide](https://dev.to/macphalen_oduor/connecting-power-bi-to-sql-databases-a-step-by-step-guide-5em2)
-- [Why Constraints Matter in Problem Solving](https://dev.to/codewithishwar/why-constraints-matter-in-problem-solving-4gk6)
-- [Review: GitHub Agentic Workflows Security Architecture Translated into Enforceable CI/CD Guardrails for Drupal and WordPress ...](https://dev.to/victorstackai/review-github-agentic-workflows-security-architecture-translated-into-enforceable-cicd-guardrails-d9i)
+- [Giving Your AI the Right Context with Model Context Protocol &lpar;MCP&rpar;](https://dev.to/krjakbrjak/giving-your-ai-the-right-context-with-model-context-protocol-mcp-276o)
+- [I Built a Free AI Education Platform in 5 Languages — And Open-Sourced Everything](https://dev.to/rameshreddy-adutla/i-built-a-free-ai-education-platform-in-5-languages-and-open-sourced-everything-1a73)
+- [My Journey Into Machine Learning at 15 - Looking for Advice!](https://dev.to/thameemx/my-journey-into-machine-learning-at-15-looking-for-advice-5dki)
+- [Installing SysLens: A Lightweight Linux System Information Tool](https://dev.to/mahmudul626/installing-syslens-a-lightweight-linux-system-information-tool-4f9h)
+- [Running Federation with Cosmo: No Glue Code, No Surprises](https://dev.to/slickstef11/running-federation-with-cosmo-no-glue-code-no-surprises-3nkl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
