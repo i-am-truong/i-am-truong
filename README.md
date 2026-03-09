@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Most Kubernetes Clusters Are Over-Engineered](https://dev.to/kubeha_18/most-kubernetes-clusters-are-over-engineered-3ni2)
-- [Debugging Java in IntelliJ Is Not Hard Once You Start It](https://dev.to/manikanta_yarramsetti_7bc/how-i-debug-java-in-intellij-without-going-crazy-3bha)
-- [After 3,874 Memories, My AI Coding Assistant Couldn&#39;t Find Anything Useful](https://dev.to/living0tribunal/after-3874-memories-my-ai-coding-assistant-couldnt-find-anything-useful-1cc)
-- [5 Chinese AI Open-Source Tools the West Doesn&#39;t Know About &lpar;2026&rpar;](https://dev.to/victorjia/5-chinese-ai-open-source-tools-the-west-doesnt-know-about-2026-18b0)
-- [I Made an LLM Build the Same App Twice — Classic Spring Boot vs Clean Architecture](https://dev.to/wakita181009/i-made-an-llm-build-the-same-app-twice-classic-spring-boot-vs-clean-architecture-9hl)
+- [AWS SageMaker: End-to-End ML Platform](https://dev.to/matt_frank_usa/aws-sagemaker-end-to-end-ml-platform-4fch)
+- [I Made an LLM Add Features to Its Own Code — Classic Spring Boot vs Clean Architecture](https://dev.to/wakita181009/i-made-an-llm-add-features-to-its-own-code-classic-spring-boot-vs-clean-architecture-l6l)
+- [Connecting Power BI to SQL Databases: A Step-by-Step Guide](https://dev.to/macphalen_oduor/connecting-power-bi-to-sql-databases-a-step-by-step-guide-5em2)
+- [Why Constraints Matter in Problem Solving](https://dev.to/codewithishwar/why-constraints-matter-in-problem-solving-4gk6)
+- [Review: GitHub Agentic Workflows Security Architecture Translated into Enforceable CI/CD Guardrails for Drupal and WordPress ...](https://dev.to/victorstackai/review-github-agentic-workflows-security-architecture-translated-into-enforceable-cicd-guardrails-d9i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
