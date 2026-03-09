@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I gave Linus Torvalds a MySpace page](https://dev.to/lowjax/i-gave-linus-torvalds-a-myspace-page-20ip)
-- [Your OpenClaw Slack Agent Is Probably Leaking Data. Here&#39;s How to Fix It.](https://dev.to/helen_mireille_47b02db70c/your-openclaw-slack-agent-is-probably-leaking-data-heres-how-to-fix-it-1p4d)
-- [Commit Code, Update Docs: Building an AI Pipeline With Notion MCP](https://dev.to/sarupurisailalith/commit-code-update-docs-building-an-ai-pipeline-with-notion-mcp-36he)
-- [Billing and Subscription](https://dev.to/palash_gupta_883252c73ea5/billing-and-subscription-1haj)
-- [Ways to use ChatGPT for Whatsapp messaging](https://dev.to/palash_gupta_883252c73ea5/ways-to-use-chatgpt-for-whatsapp-messaging-2k02)
+- [The for Loop in Java — What Most Tutorials Don&#39;t Tell You](https://dev.to/thecodeforge/the-for-loop-in-java-what-most-tutorials-dont-tell-you-46fl)
+- [GCP Defaults Every VM to Premium Network and You&#39;re Paying 40% More for Egress You Don&#39;t Need 🌐](https://dev.to/suhas_mallesh/gcp-defaults-every-vm-to-premium-network-and-youre-paying-40-more-for-egress-you-dont-need-5bhm)
+- [Expense Tracker: Learning CI/CD](https://dev.to/davidgrath/expense-tracker-learning-cicd-2ah1)
+- [GPT 5.4 Thinks Like a Person Under Pressure: What Autonomous Agent Logs Reveal About Model Cognition](https://dev.to/rsdouglas/gpt-54-thinks-like-a-person-under-pressure-what-autonomous-agent-logs-reveal-about-model-cognition-1dm6)
+- [HTMX for building a SQLite query dashboard](https://dev.to/hungle00/htmx-for-building-a-sqlite-query-dashboard-32ck)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
