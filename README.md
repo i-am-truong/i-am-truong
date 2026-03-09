@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT Told Me to Go Work for Anthropic](https://dev.to/jballanc/chatgpt-told-me-to-go-work-for-anthropic-29ja)
-- [The Painting Ideas I Found in Old Family Photos](https://dev.to/danielrhodes/the-painting-ideas-i-found-in-old-family-photos-59aa)
-- [Build an AI Agent from Scratch — No Frameworks, Just Python](https://dev.to/shashi_kiran_bcfdbb223140/build-an-ai-agent-from-scratch-no-frameworks-just-python-3850)
-- [I built 130+ web components for myself. Now they&#39;re free for everyone.](https://dev.to/hedzer_ferwerda_a9c37a296/i-built-130-web-components-for-myself-now-theyre-free-for-everyone-4olf)
-- [I Built a Chrome Extension to Track My Job Applications](https://dev.to/rishabh_6ddccd0e0d2917ac5/i-built-a-chrome-extension-to-track-my-job-applications-520h)
+- [Most Kubernetes Clusters Are Over-Engineered](https://dev.to/kubeha_18/most-kubernetes-clusters-are-over-engineered-3ni2)
+- [Debugging Java in IntelliJ Is Not Hard Once You Start It](https://dev.to/manikanta_yarramsetti_7bc/how-i-debug-java-in-intellij-without-going-crazy-3bha)
+- [After 3,874 Memories, My AI Coding Assistant Couldn&#39;t Find Anything Useful](https://dev.to/living0tribunal/after-3874-memories-my-ai-coding-assistant-couldnt-find-anything-useful-1cc)
+- [5 Chinese AI Open-Source Tools the West Doesn&#39;t Know About &lpar;2026&rpar;](https://dev.to/victorjia/5-chinese-ai-open-source-tools-the-west-doesnt-know-about-2026-18b0)
+- [I Made an LLM Build the Same App Twice — Classic Spring Boot vs Clean Architecture](https://dev.to/wakita181009/i-made-an-llm-build-the-same-app-twice-classic-spring-boot-vs-clean-architecture-9hl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
