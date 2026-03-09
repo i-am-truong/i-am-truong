@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Multi-Terminal Restaurant POS with C# .NET — Architecture &amp; Lessons](https://dev.to/iamahsanmehmood/building-a-multi-terminal-restaurant-pos-with-c-net-architecture-lessons-56e2)
-- [KaTeX + html-to-image Outputs a Blank White Image — Here&#39;s Why and How to Fix It](https://dev.to/x_kernel27795/katex-html-to-image-outputs-a-blank-white-image-heres-why-and-how-to-fix-it-2ikd)
-- [Without Guardrails, AI Coding Turns Into Chaos](https://dev.to/naysmith/without-guardrails-ai-coding-turns-into-chaos-3l7j)
-- [Pointer in C++](https://dev.to/dolly_sharma/pointer-in-c-2ikg)
-- [🚀 Solution Challenge 2026 India – Build with AI is Here!](https://dev.to/sneha_2004/solution-challenge-2026-india-build-with-ai-is-here-18kk)
+- [Why Do Model Choices Break Production Pipelines &lpar;And How to Fix Them&rpar;?](https://dev.to/gabrieal845/why-do-model-choices-break-production-pipelines-and-how-to-fix-them-3691)
+- [Managing Multiple Docker Compose Projects Was Driving Me Crazy So I Built a Small GUI for It](https://dev.to/yingbo_miao_2c992f62d56fc/managing-multiple-docker-compose-projects-was-driving-me-crazyso-i-built-a-small-gui-for-it-4fep)
+- [Interactive Celebration Progress Bar with Confetti Burst](https://dev.to/codebar_library/interactive-celebration-progress-bar-with-confetti-burst-22c4)
+- [Automatically Generating Omni Semantic Layer YAML from Tableau .twb Files Using Claude Code](https://dev.to/sagara/automatically-generating-omni-semantic-layer-yaml-from-tableau-twb-files-using-claude-code-4548)
+- [The Prompt Pattern That Made AI Coding Actually Work](https://dev.to/naysmith/the-prompt-pattern-that-made-ai-coding-actually-work-3c88)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
