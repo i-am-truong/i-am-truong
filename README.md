@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Weekly Work Log: A 10-Minute Habit That Transforms Your Career](https://dev.to/vgaltes/the-weekly-work-log-a-10-minute-habit-that-transforms-your-career-3766)
-- [Claude Code Doesn&#39;t Remember. Here&#39;s How I Fixed That.](https://dev.to/gjoranv/claude-code-doesnt-remember-heres-how-i-fixed-that-3ah6)
-- [Guardian Protocol: Governance for Autonomous AI Agents](https://dev.to/janusz_entity/guardian-protocol-governance-for-autonomous-ai-agents-5of)
-- [Understanding Snowflake Virtual Warehouses](https://dev.to/swaroop_krishna_e2f4b83b2/understanding-snowflake-virtual-warehouses-4p5l)
-- [5 Free APIs Every Developer Should Know About in 2026](https://dev.to/200_ok_twohundred/5-free-apis-every-developer-should-know-about-in-2026-4ape)
+- [What is Clawwork &lpar;hkuds&rpar;? The Browser Agent That Finally Understands the Web](https://dev.to/yunsoft/what-is-clawwork-hkuds-the-browser-agent-that-finally-understands-the-web-2dhh)
+- [Machines can learn from data. Should humans still learn statistics?](https://dev.to/aleksandra_6bf530a531488b/machines-can-learn-from-data-should-humans-still-learn-statistics-3mco)
+- [How Our AI Agents Found a Security Bug in Their Own Code](https://dev.to/bridgeace/how-our-ai-agents-found-a-security-bug-in-their-own-code-268f)
+- [Why Your AI Code Editor Sends Your Code to the Cloud &lpar;And Why It Shouldn&#39;t&rpar;](https://dev.to/bridgeace/why-your-ai-code-editor-sends-your-code-to-the-cloud-and-why-it-shouldnt-49c8)
+- [Simulating Boids with ECSx and liveview](https://dev.to/w3ndo/simulating-boids-with-ecsx-and-liveview-124m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
