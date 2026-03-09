@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Do Model Choices Break Production Pipelines &lpar;And How to Fix Them&rpar;?](https://dev.to/gabrieal845/why-do-model-choices-break-production-pipelines-and-how-to-fix-them-3691)
-- [Managing Multiple Docker Compose Projects Was Driving Me Crazy So I Built a Small GUI for It](https://dev.to/yingbo_miao_2c992f62d56fc/managing-multiple-docker-compose-projects-was-driving-me-crazyso-i-built-a-small-gui-for-it-4fep)
-- [Interactive Celebration Progress Bar with Confetti Burst](https://dev.to/codebar_library/interactive-celebration-progress-bar-with-confetti-burst-22c4)
-- [Automatically Generating Omni Semantic Layer YAML from Tableau .twb Files Using Claude Code](https://dev.to/sagara/automatically-generating-omni-semantic-layer-yaml-from-tableau-twb-files-using-claude-code-4548)
-- [The Prompt Pattern That Made AI Coding Actually Work](https://dev.to/naysmith/the-prompt-pattern-that-made-ai-coding-actually-work-3c88)
+- [I gave Linus Torvalds a MySpace page](https://dev.to/lowjax/i-gave-linus-torvalds-a-myspace-page-20ip)
+- [Your OpenClaw Slack Agent Is Probably Leaking Data. Here&#39;s How to Fix It.](https://dev.to/helen_mireille_47b02db70c/your-openclaw-slack-agent-is-probably-leaking-data-heres-how-to-fix-it-1p4d)
+- [Commit Code, Update Docs: Building an AI Pipeline With Notion MCP](https://dev.to/sarupurisailalith/commit-code-update-docs-building-an-ai-pipeline-with-notion-mcp-36he)
+- [Billing and Subscription](https://dev.to/palash_gupta_883252c73ea5/billing-and-subscription-1haj)
+- [Ways to use ChatGPT for Whatsapp messaging](https://dev.to/palash_gupta_883252c73ea5/ways-to-use-chatgpt-for-whatsapp-messaging-2k02)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
