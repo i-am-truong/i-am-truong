@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ZeroClaw: A Minimal Rust-Based AI Agent Framework for Self-Hosted Systems](https://dev.to/lightningdev123/zeroclaw-a-minimal-rust-based-ai-agent-framework-for-self-hosted-systems-5593)
-- [Meme Monday](https://dev.to/ben/meme-monday-2676)
-- [How to Convert Python Files to PDF or DOCX &lpar;Without Installing LaTeX&rpar;](https://dev.to/pbinder_2e65897d5/how-to-convert-python-files-to-pdf-or-docx-without-installing-latex-2o84)
-- [Уроки из опыта AI-assisted разработки](https://dev.to/paul310/uroki-iz-opyta-ai-assisted-razrabotki-2fgb)
-- [I built a startup validator that queries 40+ live sources. Here&#39;s what I learned.](https://dev.to/vxncxnx/i-scanned-2500-startup-ideas-with-ai-here-is-what-the-data-says-about-why-most-fail-nh3)
+- [The Fixed Metric](https://dev.to/dannwaneri/the-fixed-metric-25im)
+- [From PowerShell to Bash: The Folder That Almost Broke Me](https://dev.to/pirrezz/from-powershell-to-bash-the-folder-that-almost-broke-me-1e25)
+- [A Hybrid Key Architecture for Autonomous Agent Credential Management](https://dev.to/illegalcall/a-hybrid-key-architecture-for-autonomous-agent-credential-management-269h)
+- [How I Find &amp; Build Profitable Google Workspace Add-on Ideas](https://dev.to/manuel_napoli_afe108b47e2/how-i-find-build-profitable-google-workspace-add-on-ideas-dh)
+- [The uncomfortable truth about European cloud sovereignty](https://dev.to/bramverhagen/the-uncomfortable-truth-about-european-cloud-sovereignty-5136)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
