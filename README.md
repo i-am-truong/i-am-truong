@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Your First dApp on Raenest: A Developer&#39;s Guide to Nested Finance](https://dev.to/metadevdigital/building-your-first-dapp-on-raenest-a-developers-guide-to-nested-finance-117b)
-- [Using Claude Code with AWS Credits &lpar;via Amazon Bedrock&rpar;](https://dev.to/aws-builders/using-claude-code-with-aws-credits-via-amazon-bedrock-5a52)
-- [Hallucinations Are Predictable &lpar;And They&#39;re Your Fault, Not the Model&#39;s&rpar;](https://dev.to/askpatrick/hallucinations-are-predictable-and-theyre-your-fault-not-the-models-510a)
-- [Review: WordPress 7.0 Developer-Impact Analysis of Interactivity API, DataViews/DataForm, Breadcrumb Filters, and Navigation ...](https://dev.to/victorstackai/review-wordpress-70-developer-impact-analysis-of-interactivity-api-dataviewsdataform-5308)
-- [How Reentrancy Attacks Work in Solidity — and How to Prevent Them](https://dev.to/metadevdigital/how-reentrancy-attacks-work-in-solidity-and-how-to-prevent-them-54od)
+- [Flash Loans Explained: Zero-Collateral DeFi in One Transaction](https://dev.to/metadevdigital/flash-loans-explained-zero-collateral-defi-in-one-transaction-223o)
+- [# Why Wait 90 Days for NVD? I Built a System That Creates CVEs Instantly.](https://dev.to/joupify/-why-wait-90-days-for-nvd-i-built-a-system-that-creates-cves-instantly-4gkp)
+- [GHSA-9Q2P-VC84-2RWM: GHSA-9Q2P-VC84-2RWM: Parser Differential Vulnerability in OpenClaw Security Allowlist](https://dev.to/cverports/ghsa-9q2p-vc84-2rwm-ghsa-9q2p-vc84-2rwm-parser-differential-vulnerability-in-openclaw-security-2e1p)
+- [Your Undo Button is Just a Stack of Pancakes](https://dev.to/doogal/your-undo-button-is-just-a-stack-of-pancakes-5297)
+- [Import Your AI Memory into ContextForge: Claude Code, ChatGPT, and Knowledge Graph](https://dev.to/alfredoizjr/import-your-ai-memory-into-contextforge-claude-code-chatgpt-and-knowledge-graph-5615)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
