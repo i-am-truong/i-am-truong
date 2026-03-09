@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Misconceptions of Tech Work | The Future of Work in Africa](https://dev.to/trae_z/the-misconceptions-of-tech-work-the-future-of-work-in-africa-2egn)
-- [Gestor de Tareas Full-Stack &lpar;Go + Angular&rpar;](https://dev.to/johan_sebastianvasquezd/gestor-de-tareas-full-stack-go-angular-1gek)
-- [Why End-to-End Encryption Cannot Protect Infrastructure Metadata](https://dev.to/alifunk/why-end-to-end-encryption-cannot-protect-infrastructure-metadata-4bj4)
-- [Reddit-style threaded comment section I built with React / Next.js](https://dev.to/theaynpro/reddit-style-threaded-comment-section-i-built-with-react-nextjs-46lm)
-- [Most AI Agent Frameworks Treat Chat as a Runtime. That’s the Problem](https://dev.to/tacshade/most-ai-agent-frameworks-treat-chat-as-a-runtime-thats-the-problem-1do)
+- [Memory System v2: Solving the Context Bloat Problem](https://dev.to/qiushiwu/memory-system-v2-solving-the-context-bloat-problem-pg9)
+- [Debian Linux Complete Guide 2026: From Installation to Production Server](https://dev.to/dargslan/debian-linux-complete-guide-2026-from-installation-to-production-server-180f)
+- [Enforcing voice and tone with Claude Code hooks](https://dev.to/tompahoward/enforcing-voice-and-tone-with-claude-code-hooks-6db)
+- [How to Build a Custom MCP Tool in Under 10 Min](https://dev.to/nebulagg/how-to-build-a-custom-mcp-tool-in-under-10-min-4p2d)
+- [How to Build a REST API in Zig &lpar;Using Spider Web Framework&rpar;](https://dev.to/11110110011/how-to-build-a-rest-api-in-zig-using-spider-web-framework-4a8l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
