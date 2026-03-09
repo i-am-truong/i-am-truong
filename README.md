@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [OCI Networking Best Practices for Beginners](https://dev.to/js116521/oci-networking-best-practices-for-beginners-30cf)
-- [Web Accessibility &lpar;WCAG&rpar; for Business Websites: A Practical Developer&#39;s Checklist](https://dev.to/emongmarcc/web-accessibility-wcag-for-business-websites-a-practical-developers-checklist-2gn4)
-- [splitting one human colleague into 9 Go agents](https://dev.to/combba/splitting-one-human-colleague-into-9-go-agents-1lbm)
-- [Shadow Production: How to Test Dangerous Changes Without Being Dangerous](https://dev.to/iseecodepeople/shadow-production-how-to-test-dangerous-changes-without-being-dangerous-21p)
-- [Making iMessage Reliable with OpenClaw: 3 Problems and How We Fixed Them](https://dev.to/qiushiwu/making-imessage-reliable-with-openclaw-3-problems-and-how-we-fixed-them-o8m)
+- [Building a Multi-Terminal Restaurant POS with C# .NET — Architecture &amp; Lessons](https://dev.to/iamahsanmehmood/building-a-multi-terminal-restaurant-pos-with-c-net-architecture-lessons-56e2)
+- [KaTeX + html-to-image Outputs a Blank White Image — Here&#39;s Why and How to Fix It](https://dev.to/x_kernel27795/katex-html-to-image-outputs-a-blank-white-image-heres-why-and-how-to-fix-it-2ikd)
+- [Without Guardrails, AI Coding Turns Into Chaos](https://dev.to/naysmith/without-guardrails-ai-coding-turns-into-chaos-3l7j)
+- [Pointer in C++](https://dev.to/dolly_sharma/pointer-in-c-2ikg)
+- [🚀 Solution Challenge 2026 India – Build with AI is Here!](https://dev.to/sneha_2004/solution-challenge-2026-india-build-with-ai-is-here-18kk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
