@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CQRS - Design Pattern](https://dev.to/tannu28_/cqrs-design-pattern-26ap)
-- [The Succession Problem](https://dev.to/rook_damon/the-succession-problem-2bkp)
-- [Enterprise Automation is Missing Context. Here&#39;s How Agentic AI Fixes It](https://dev.to/agixtech/enterprise-automation-is-missing-context-heres-how-agentic-ai-fixes-it-1na5)
-- [Trace Context Propagation](https://dev.to/godofgeeks/trace-context-propagation-3lpb)
-- [10 Practical Script Examples for API Testing](https://dev.to/kanishkrawattt/10-practical-script-examples-for-api-testing-23h7)
+- [Pattern Matching vs Manual Casting in C#](https://dev.to/marufsarker/pattern-matching-vs-manual-casting-in-c-3ih0)
+- [The Circuit Breaker Pattern: Stop Your AI Agent From Amplifying Failures](https://dev.to/askpatrick/the-circuit-breaker-pattern-stop-your-ai-agent-from-amplifying-failures-30d4)
+- [I&#39;m Not a Developer — So I Built a Movie App in 2 Months with AI](https://dev.to/alexandru_stan_ccfce88c92/im-not-a-developer-so-i-built-a-movie-app-in-2-months-with-ai-4nal)
+- [What 3 Years of Stack Overflow Data Tells Us About AI and Machine Learning in Development](https://dev.to/thecodeforge/what-3-years-of-stack-overflow-data-tells-us-about-ai-and-machine-learning-in-development-am1)
+- [Built 5 apps in 20 Days](https://dev.to/shreyvijayvargiya/built-5-apps-in-20-days-3l8d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
