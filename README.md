@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Lumina: Free Offline Knowledge for Everyone, Everywhere, Forever](https://dev.to/luminaarchive/lumina-free-offline-knowledge-for-everyone-everywhere-forever-m06)
-- [Your Agent Is a Small, Low-Stakes HAL](https://dev.to/romanonthego/your-agent-is-a-small-low-stakes-hal-59j8)
-- [Directory of 3,900+ Tools for AI Agents](https://dev.to/rachel_su_54a233e53a87523/directory-of-3900-tools-for-ai-agents-10kf)
-- [[Open Source] ADEval — A Tool for Evaluating Tool-Use Capabilities of Google ADK AI Agents](https://dev.to/gde/open-source-adeval-a-tool-for-evaluating-tool-use-capabilities-of-google-adk-ai-agents-3284)
-- [[Boost]](https://dev.to/elizabethfuentes12/-26k9)
+- [I built 500+ free tools in 10 days — here&#39;s what actually happened](https://dev.to/akashxlabs/i-built-500-free-tools-in-10-days-heres-what-actually-happened-1a7l)
+- [Ninja&#39;s Training](https://dev.to/dolly_sharma/ninjas-training-2jnd)
+- [Running Anchor Tests on GitHub Actions Without Losing Your Mind](https://dev.to/burgossrodrigo/running-anchor-tests-on-github-actions-without-losing-your-mind-20j0)
+- [Finding the Right Reference Changed Everything for my Project](https://dev.to/jona_mike/finding-the-right-reference-changed-everything-for-my-project-3bom)
+- [Vibe Coding Challenge — Day 12: Tattoo Generator](https://dev.to/labdays/vibe-coding-challenge-day-12-tattoo-generator-34id)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
