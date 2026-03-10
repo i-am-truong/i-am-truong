@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [No, AI Won&#39;t Replace Your Engineering Team](https://dev.to/bashanova/no-ai-wont-replace-your-engineering-team-cpi)
-- [AI-Assisted Python: Refactoring and Reviewing with Copilot](https://dev.to/letstalkoss/ai-assisted-python-refactoring-and-reviewing-with-copilot-4ejh)
-- [GitHub Weekly: GPT-5.4, Agentic Code Review, and the Platform&#39;s AI Evolution](https://dev.to/htekdev/github-weekly-gpt-54-agentic-code-review-and-the-platforms-ai-evolution-449d)
-- [When AI Writes the Code… Who Takes Responsibility?](https://dev.to/subhrangsu90/when-ai-writes-the-code-who-takes-responsibility-19fc)
-- [Google Just Made Every Android App an AI Agent Tool — Here&#39;s What&#39;s Missing](https://dev.to/policylayer/google-just-made-every-android-app-an-ai-agent-tool-heres-whats-missing-4eg0)
+- [How I automated text dataset cleaning for ML training with AI &lpar;and why regex wasn&#39;t enough&rpar;](https://dev.to/lattanzi/how-i-automated-text-dataset-cleaning-for-ml-training-with-ai-and-why-regex-wasnt-enough-3h19)
+- [Dealing with flaky tests](https://dev.to/conw_y/dealing-with-flaky-tests-4d2e)
+- [Zero-effort offline static websites with Apptron](https://dev.to/progrium/zero-effort-offline-static-websites-with-apptron-47m6)
+- [Detecting Embedding Drift: The Silent Killer of RAG Accuracy](https://dev.to/dev-zc/detecting-embedding-drift-the-silent-killer-of-rag-accuracy-17md)
+- [Process Manager Comparison 2026 — PM2, Systemd, Supervisor, Oxmgr, and More](https://dev.to/empellio/process-manager-comparison-2026-pm2-systemd-supervisor-oxmgr-and-more-4e0p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
