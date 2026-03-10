@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [229 Demos, 0 Signups — Here&#39;s What We Are Doing Next](https://dev.to/agenium_platform/229-demos-0-signups-heres-what-we-are-doing-next-2bhk)
-- [Running a Local Sandboxed macOS Desktop Using VNC and a Restricted User](https://dev.to/jlarky/running-a-local-sandboxed-macos-desktop-using-vnc-and-a-restricted-user-38dk)
-- [Git Explained: From Mental Models to Production Workflows](https://dev.to/gold_roger/git-explained-from-mental-models-to-production-workflows-1nkc)
-- [Uncovering Hidden E-Commerce Churn Risks with SHAP-IQ](https://dev.to/exploredataaiml/uncovering-hidden-e-commerce-churn-risks-with-shap-iq-4og2)
-- [Zero-Day Economics: Why Nation States Sell Exploits to Criminal Markets](https://dev.to/tiamatenity/zero-day-economics-why-nation-states-sell-exploits-to-criminal-markets-184)
+- [Pocket Oracle: Building Your Mobile AI Command Center with Termux + Tmux](https://dev.to/hainanzhao/pocket-oracle-building-your-mobile-ai-command-center-with-termux-tmux-2id2)
+- [阿里开源 Qwen3.5-9B：9B 参数干翻 120B，小模型的 SOTA 时刻](https://dev.to/gary_yan_86eb77d35e0070f5/a-li-kai-yuan-qwen35-9b9b-can-shu-gan-fan-120bxiao-mo-xing-de-sota-shi-ke-j36)
+- [STREAM API INTERVIEW QUESTION](https://dev.to/bhu_kalki/stream-api-interview-question-3b7h)
+- [Part 2: Building the Engine — Tools, URIs, and the Art of Indexing FHIR](https://dev.to/chaets/part-2-building-the-engine-tools-uris-and-the-art-of-indexing-fhir-fi1)
+- [The script worked. The CISO needed something else. iam-audit v2: interactive dashboard, root account detection and Docker.](https://dev.to/aws-heroes/the-script-worked-the-ciso-needed-something-else-iam-audit-v2-interactive-dashboard-root-3dc0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
