@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built MLShip — deploy your Streamlit or Gradio ML app in 60 seconds. No Docker. No AWS.](https://dev.to/uday_yadav/i-built-mlship-deploy-your-streamlit-or-gradio-ml-app-in-60-seconds-no-docker-no-aws-1en)
-- [SQL Joins and Window Functions](https://dev.to/njagiii/sql-joins-and-window-functions-3fe7)
-- [Zero-Friction Publishing: A Human-in-the-Loop Agentic CMS powered by Notion MCP](https://dev.to/lwgena/zero-friction-publishing-a-human-in-the-loop-agentic-cms-powered-by-notion-mcp-12nn)
-- [The AI Cold Start That Breaks Kubernetes Autoscaling](https://dev.to/namratha_3/the-ai-cold-start-that-breaks-kubernetes-autoscaling-280n)
-- [Data Paradigms for the Agent Era: From Human-Readable to AI-Understandable](https://dev.to/andrew202510/data-paradigms-for-the-agent-era-from-human-readable-to-ai-understandable-535)
+- [2PC vs Saga](https://dev.to/xrs0/2pc-vs-saga-l23)
+- [MVI as a Unifying Architecture Pattern Across KMP, SwiftUI, and Compose: Implementing a Shared State Machine](https://dev.to/software_mvp-factory/mvi-as-a-unifying-architecture-pattern-across-kmp-swiftui-and-compose-implementing-a-shared-1bim)
+- [How to Get Your First 1,000 Users to Actually Come Back](https://dev.to/alichherawalla/how-to-get-your-first-1000-users-to-actually-come-back-2jj)
+- [Mastering Retrieval-Augmented Generation with Gemini API&#39;s File Search Tool](https://dev.to/wayne_gakuo/mastering-retrieval-augmented-generation-with-gemini-apis-file-search-tool-4lok)
+- [11 Best Open WebUI Alternatives for Enterprise LLM Chat &lpar;2026&rpar;](https://dev.to/jaipalsingh/11-best-open-webui-alternatives-for-enterprise-llm-chat-2026-2mjc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
