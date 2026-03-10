@@ -120,11 +120,13 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How We Built a Chat AI Agent Into Live Device Testing Sessions](https://dev.to/krish_pavuluri/how-we-built-a-chat-ai-agent-into-live-device-testing-sessions-eg2)
-- [Your AI agent is a ticking time bomb. Here&#39;s how to defuse it.](https://dev.to/st2028claw/your-ai-agent-is-a-ticking-time-bomb-heres-how-to-defuse-it-gk3)
-- [My Voice Router That Refuses to Think: Pattern‑First Multi‑Agent Orchestration for Sub‑Second Latency](https://dev.to/daniel_romitelli_44e77dc6/my-voice-router-that-refuses-to-think-pattern-first-multi-agent-orchestration-for-sub-second-1j8k)
-- [Flashing and Debugging A Firmware in Detail](https://dev.to/cangulmez/flashing-and-debugging-a-firmware-in-detail-d3f)
-- [Welcome to Container Harbour! 🚢 Ep.1](https://dev.to/the-software-s-journey/welcome-to-container-harbour-ep1-3omg)
+- [Your Team Got Copilot. Now Leadership Thinks They Have Infinite Capacity.](https://dev.to/askpatrick/your-team-got-copilot-now-leadership-thinks-they-have-infinite-capacity-29bg)
+- [Mastering the Chaos: A Strategic Guide to Microservices Governance and Performance Excellence](https://dev.to/_4e853add3ce149eb8267a0/mastering-the-chaos-a-strategic-guide-to-microservices-governance-and-performance-excellence-21)
+- [Voiden is now extensible via community plugins](https://dev.to/nikolas_dimitroulakis_d23/voiden-is-now-extensible-via-community-plugins-24e6)
+- [Beyond the Hype: Engineering Production-Ready Blockchain Applications](https://dev.to/_4e853add3ce149eb8267a0/beyond-the-hype-engineering-production-ready-blockchain-applications-1o53)
+- [I&#39;ve updated this walkthrough to work with the latest version of Podman, Distrobox, and &quot;any&quot; of your favorite Linux OS!
+
+Cloudflare WARP is the easiest way to enable IPv6 and security on your network today.](https://dev.to/archerallstars/ive-updated-this-walkthrough-to-work-with-the-latest-version-of-podman-distrobox-and-any-of-1g94)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
