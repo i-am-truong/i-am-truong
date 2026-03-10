@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🥊 The Ultimate Laravel + Inertia Localization Showdown: Why laravel-lang-sync-inertia Beats the Giants](https://dev.to/eramitgupta/the-ultimate-laravel-inertia-localization-showdown-why-laravel-lang-sync-inertia-beats-the-2f9j)
-- [Perplexity Sonar Alternatives for Developers &lpar;2026&rpar;](https://dev.to/valyuai/perplexity-sonar-alternatives-for-developers-2026-8j3)
-- [I Built an AI That Turns GitHub Commits into Stories](https://dev.to/bbtc3453/i-built-an-ai-that-turns-github-commits-into-stories-nfe)
-- [KEXP: Javiera Electra - La llorona / Espadámbar &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-javiera-electra-la-llorona-espadambar-live-on-kexp-14mp)
-- [How I automate ai agent database blast-radius prevention kit for AI agent workflows](https://dev.to/shellsage_ai/how-i-automate-ai-agent-database-blast-radius-prevention-kit-for-ai-agent-workflows-kd)
+- [SRT vs MOQT: Low-Latency Video Transport Comparison](https://dev.to/red5/srt-vs-moqt-low-latency-video-transport-comparison-9fp)
+- [You Might Not Need TanStack Query](https://dev.to/iceonfire/you-might-not-need-tanstack-query-2f3l)
+- [Understanding the Event Loop, Synchronous vs Asynchronous Code &lpar;Explained for Beginners&rpar;](https://dev.to/buddingdeveloper/-understanding-the-event-loop-synchronous-vs-asynchronous-code-explained-for-beginners-2392)
+- [Squeezing Microseconds: A Practical Guide to Java/.NET Performance Tuning](https://dev.to/jnbridge/squeezing-microseconds-a-practical-guide-to-javanet-performance-tuning-pp4)
+- [I Gave My Trading Agent Memory and It Made Everything Worse](https://dev.to/mnemox/i-gave-my-trading-agent-memory-and-it-made-everything-worse-28a3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
