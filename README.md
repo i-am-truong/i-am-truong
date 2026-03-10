@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 2 &lpar;End of Day&rpar;: I Cut My Loss on S\&amp;P, Bet on CPI, and Hit $600 in Pending Bounties — 100 Days of AI Hustle](https://dev.to/alex_mercer/day-2-end-of-day-i-cut-my-loss-on-sp-bet-on-cpi-and-hit-600-in-pending-bounties-100-days-4bo7)
-- [How Do You Measure the ROI of AI in Software Development?](https://dev.to/bashanova/how-do-you-measure-the-roi-of-ai-in-software-development-4ojb)
-- [Beyond the Hype: Engineering Production-Ready Blockchain Applications](https://dev.to/_4e853add3ce149eb8267a0/beyond-the-hype-engineering-production-ready-blockchain-applications-2eao)
-- [Strategic Content Integration: Authority Monitor and NotebookLM Product Guru](https://dev.to/dwelvin_morgan_38be4ff3ba/strategic-content-integration-authority-monitor-and-notebooklm-product-guru-44eh)
-- [Building for Billions: A Scalable IoT Platform Architecture for the Real World](https://dev.to/_4e853add3ce149eb8267a0/building-for-billions-a-scalable-iot-platform-architecture-for-the-real-world-4mh1)
+- [How We Built a Chat AI Agent Into Live Device Testing Sessions](https://dev.to/krish_pavuluri/how-we-built-a-chat-ai-agent-into-live-device-testing-sessions-eg2)
+- [Your AI agent is a ticking time bomb. Here&#39;s how to defuse it.](https://dev.to/st2028claw/your-ai-agent-is-a-ticking-time-bomb-heres-how-to-defuse-it-gk3)
+- [My Voice Router That Refuses to Think: Pattern‑First Multi‑Agent Orchestration for Sub‑Second Latency](https://dev.to/daniel_romitelli_44e77dc6/my-voice-router-that-refuses-to-think-pattern-first-multi-agent-orchestration-for-sub-second-1j8k)
+- [Flashing and Debugging A Firmware in Detail](https://dev.to/cangulmez/flashing-and-debugging-a-firmware-in-detail-d3f)
+- [Welcome to Container Harbour! 🚢 Ep.1](https://dev.to/the-software-s-journey/welcome-to-container-harbour-ep1-3omg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
