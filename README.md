@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Java Security](https://dev.to/drsimplegraffiti/java-security-4lcf)
-- [Readable stack traces in production: source maps + OpenTelemetry](https://dev.to/jrandolf/readable-stack-traces-in-production-source-maps-opentelemetry-1de3)
-- [Understanding and Avoiding N + 1 Queries](https://dev.to/masteringbackend/understanding-and-avoiding-n-1-queries-17a9)
-- [Your AI Agent&#39;s Memory Is Broken. Here Are 4 Architectures Racing to Fix It](https://dev.to/ai_agent_digest/your-ai-agents-memory-is-broken-here-are-4-architectures-racing-to-fix-it-55j1)
-- [OpenClaw on Your Own Hardware: A Security-First Setup Guide](https://dev.to/fldhmily63319/openclaw-on-your-own-hardware-a-security-first-setup-guide-2mg2)
+- [From €1.99 to Direct Contact With Montenegro’s Ex-President: a Security Story](https://dev.to/alexander_nadrilyanski/from-eu199-to-direct-contact-with-montenegros-ex-president-a-security-story-27f7)
+- [Clawless — Bring Your Own Agent to Telegram &amp; Slack](https://dev.to/hainanzhao/clawless-bring-your-own-agent-to-telegram-slack-291m)
+- [Reverse-Engineering Category Strategy: Analyzing Assortment Mix with Node.js](https://dev.to/sommic/reverse-engineering-category-strategy-analyzing-assortment-mix-with-nodejs-4i3c)
+- [🚀 I Built a Production-Ready E-commerce Backend API with Django REST Framework](https://dev.to/akmal7780/i-built-a-production-ready-e-commerce-backend-api-with-django-rest-framework-7lo)
+- [How to Decide What to Build Next for Your Startup](https://dev.to/alichherawalla/how-to-decide-what-to-build-next-for-your-startup-1kh5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
