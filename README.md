@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [2PC vs Saga](https://dev.to/xrs0/2pc-vs-saga-l23)
-- [MVI as a Unifying Architecture Pattern Across KMP, SwiftUI, and Compose: Implementing a Shared State Machine](https://dev.to/software_mvp-factory/mvi-as-a-unifying-architecture-pattern-across-kmp-swiftui-and-compose-implementing-a-shared-1bim)
-- [How to Get Your First 1,000 Users to Actually Come Back](https://dev.to/alichherawalla/how-to-get-your-first-1000-users-to-actually-come-back-2jj)
-- [Mastering Retrieval-Augmented Generation with Gemini API&#39;s File Search Tool](https://dev.to/wayne_gakuo/mastering-retrieval-augmented-generation-with-gemini-apis-file-search-tool-4lok)
-- [11 Best Open WebUI Alternatives for Enterprise LLM Chat &lpar;2026&rpar;](https://dev.to/jaipalsingh/11-best-open-webui-alternatives-for-enterprise-llm-chat-2026-2mjc)
+- [Java Security](https://dev.to/drsimplegraffiti/java-security-4lcf)
+- [Readable stack traces in production: source maps + OpenTelemetry](https://dev.to/jrandolf/readable-stack-traces-in-production-source-maps-opentelemetry-1de3)
+- [Understanding and Avoiding N + 1 Queries](https://dev.to/masteringbackend/understanding-and-avoiding-n-1-queries-17a9)
+- [Your AI Agent&#39;s Memory Is Broken. Here Are 4 Architectures Racing to Fix It](https://dev.to/ai_agent_digest/your-ai-agents-memory-is-broken-here-are-4-architectures-racing-to-fix-it-55j1)
+- [OpenClaw on Your Own Hardware: A Security-First Setup Guide](https://dev.to/fldhmily63319/openclaw-on-your-own-hardware-a-security-first-setup-guide-2mg2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
