@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Redundancy Transformation Plan - Your Redundancy is a Disguised Setup for Your Next Great Chapter](https://dev.to/pheistman/redundancy-transformation-plan-your-redundancy-is-a-disguised-setup-for-your-next-great-chapter-4c08)
-- [Terraform으로 AWS Managed Grafana 모니터링 체계 구축하기 — MSA 6개 서비스를 한 눈에](https://dev.to/artistrator/terraformeuro-aws-managed-grafana-moniteoring-cegye-gucughagi-msa-6gae-seobiseureul-han-nune-gj8)
-- [What Really Happens When You Deploy with AWS CDK?](https://dev.to/mianzubair/what-really-happens-when-you-deploy-with-aws-cdk-4kli)
-- [Skaro — AI-Powered Software Development Platform](https://dev.to/yermolaev/skaro-ai-powered-software-development-platform-n9h)
-- [Protocol Launcher Series: One-Click Launch for IntelliJ IDEA and JetBrains IDEs](https://dev.to/zhensherlock/protocol-launcher-series-one-click-launch-for-intellij-idea-and-jetbrains-ides-1ldi)
+- [DevLog: ZK Battleship - part 2](https://dev.to/olivmath/devlog-zk-battleship-part-2-25lp)
+- [Let&#39;s Build a Script to Retrieve Data from Sera Protocol!](https://dev.to/mashharuki/lets-build-a-script-to-retrieve-data-from-sera-protocol-533a)
+- [EAV: a fascinating, but often dangerous pattern](https://dev.to/giuliopanda/eav-a-fascinating-but-often-dangerous-pattern-200j)
+- [Scaling Django APIs: How I Reduced Database Load by 80% with Redis and Optimized Queries](https://dev.to/kabasele754/scaling-django-apis-how-i-reduced-database-load-by-80-with-redis-and-optimized-queries-g5j)
+- [Stop giving your real email to websites. Here&#39;s what I built with Laravel and cPanel API.](https://dev.to/misterdebug/stop-giving-your-real-email-to-websites-heres-what-i-built-with-laravel-and-cpanel-api-3613)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
