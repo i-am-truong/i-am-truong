@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [47-Day SSL Certificates Are Coming. Are You Ready?](https://dev.to/oceansach/47-day-ssl-certificates-are-coming-are-you-ready-1i9g)
-- [Listings, Liquidity and Illusions: What Really Happens When Your Coin Hits an Exchange](https://dev.to/tanelith/listings-liquidity-and-illusions-what-really-happens-when-your-coin-hits-an-exchange-em1)
-- [Encapsulation](https://dev.to/seenu_seenu_1e97a9dd35e0c/encapsulation-in-oop-with-simple-java-example-db0)
-- [Why M-Pesa, Africa&#39;s Talking, and USSD are missing from AI agent tooling — and what I did about it](https://dev.to/gabrielmahia/why-m-pesa-africas-talking-and-ussd-are-missing-from-ai-agent-tooling-and-what-i-did-about-it-56fo)
-- [Build Your Own Anime App with AniPub&#39;s Public API — 100% Free &amp; Simple](https://dev.to/adnandluffy/build-your-own-anime-app-with-anipubs-public-api-100-free-simple-j3d)
+- [🥊 The Ultimate Laravel + Inertia Localization Showdown: Why laravel-lang-sync-inertia Beats the Giants](https://dev.to/eramitgupta/the-ultimate-laravel-inertia-localization-showdown-why-laravel-lang-sync-inertia-beats-the-2f9j)
+- [Perplexity Sonar Alternatives for Developers &lpar;2026&rpar;](https://dev.to/valyuai/perplexity-sonar-alternatives-for-developers-2026-8j3)
+- [I Built an AI That Turns GitHub Commits into Stories](https://dev.to/bbtc3453/i-built-an-ai-that-turns-github-commits-into-stories-nfe)
+- [KEXP: Javiera Electra - La llorona / Espadámbar &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-javiera-electra-la-llorona-espadambar-live-on-kexp-14mp)
+- [How I automate ai agent database blast-radius prevention kit for AI agent workflows](https://dev.to/shellsage_ai/how-i-automate-ai-agent-database-blast-radius-prevention-kit-for-ai-agent-workflows-kd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
