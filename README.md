@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Multi‑Agent Firecrawl Research: My Fallback Chain That Refuses to Pretend It Knows the Company](https://dev.to/daniel_romitelli_44e77dc6/multi-agent-firecrawl-research-my-fallback-chain-that-refuses-to-pretend-it-knows-the-company-44dl)
-- [Why Every AI-Assisted Project Needs a .agents/ Folder](https://dev.to/jackby03/why-every-ai-assisted-project-needs-a-agents-folder-49i3)
-- [I replaced a 50-node n8n workflow with a proper app — and open-sourced it](https://dev.to/kfuras/i-replaced-a-50-node-n8n-workflow-with-a-proper-app-and-open-sourced-it-4o6h)
-- [Stop Writing 20 @Preview Functions — Build a Runtime Sandbox Instead](https://dev.to/seijind/stop-writing-20-preview-functions-build-a-runtime-sandbox-instead-3269)
-- [Signals vs Observables — I Built the Same Feature 3 Ways. Here&#39;s What I Learned.](https://dev.to/paszekdev/signals-vs-observables-i-built-the-same-feature-3-ways-heres-what-i-learned-1g8c)
+- [Selenium Simplified — Understanding Waits in Selenium &lpar;Implicit vs Explicit Wait&rpar;](https://dev.to/saras_growth_space/selenium-simplified-understanding-waits-in-selenium-implicit-vs-explicit-wait-4p35)
+- [What do you actually check in the first 15 minutes after deploy?](https://dev.to/lazypl82/what-do-you-actually-check-in-the-first-15-minutes-after-deploy-52i4)
+- [Application-Layer Defense: Stopping Exfiltration Inside the Sandbox](https://dev.to/uenyioha/application-layer-defense-stopping-exfiltration-inside-the-sandbox-4l6c)
+- [OS-Level Sandboxing: Kernel Isolation for AI Agents](https://dev.to/uenyioha/os-level-sandboxing-kernel-isolation-for-ai-agents-3fdg)
+- [Beyond the Hype: Architecting Scalable Low-Code Platforms for Enterprise Ecosystems](https://dev.to/_4e853add3ce149eb8267a0/beyond-the-hype-architecting-scalable-low-code-platforms-for-enterprise-ecosystems-3blm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
