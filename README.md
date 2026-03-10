@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Portainer vs Yacht: Docker Management UIs](https://dev.to/selfhostingsh/portainer-vs-yacht-docker-management-uis-3ge5)
-- [Running LLMs Locally on macOS: The Complete 2026 Comparison](https://dev.to/bspann/running-llms-locally-on-macos-the-complete-2026-comparison-48fc)
-- [Backtesting Trading Strategies on NSE Data: What Retail Traders Actually Need to Know](https://dev.to/trademineai/backtesting-trading-strategies-on-nse-data-what-retail-traders-actually-need-to-know-2n8k)
-- [How We Built AI Search for WooCommerce Using RAG](https://dev.to/nightw0rk/how-we-built-ai-search-for-woocommerce-using-rag-2h8c)
-- [Building Maester — Enable Multi-provider LLM APIs](https://dev.to/lei_ye_2cc01a0af9e8260e/building-maester-enable-multi-provider-llm-apis-4lp7)
+- [ব্যাকএন্ড ইঞ্জিনিয়ারের জন্য সিস্টেম ডিজাইন শেখা](https://dev.to/ruhul_aminsujon_f65b3678/byaakendd-inyjiniyaarer-jny-sisttem-ddijaain-shekhaa-fim)
+- [Mastering Email Delivery in SHONiR CMS — Guide to Multiple SMTP Servers, Relay Limits &amp; Smart Failover](https://dev.to/mian6426/mastering-email-delivery-in-shonir-cms-guide-to-multiple-smtp-servers-relay-limits-smart-3783)
+- [Understanding Grafana: A Comprehensive Guide for Beginners](https://dev.to/shamir456/understanding-grafana-a-comprehensive-guide-for-beginners-1ma6)
+- [Trackless Links: Building a Safari Extension for Automatic URL Cleaning](https://dev.to/xlth/trackless-links-building-a-safari-extension-for-automatic-url-cleaning-100i)
+- [Designing Detection‑as‑Code Without a SIEM](https://dev.to/barrosleo/designing-detection-as-code-without-a-siem-1k7f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
