@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SRT vs MOQT: Low-Latency Video Transport Comparison](https://dev.to/red5/srt-vs-moqt-low-latency-video-transport-comparison-9fp)
-- [You Might Not Need TanStack Query](https://dev.to/iceonfire/you-might-not-need-tanstack-query-2f3l)
-- [Understanding the Event Loop, Synchronous vs Asynchronous Code &lpar;Explained for Beginners&rpar;](https://dev.to/buddingdeveloper/-understanding-the-event-loop-synchronous-vs-asynchronous-code-explained-for-beginners-2392)
-- [Squeezing Microseconds: A Practical Guide to Java/.NET Performance Tuning](https://dev.to/jnbridge/squeezing-microseconds-a-practical-guide-to-javanet-performance-tuning-pp4)
-- [I Gave My Trading Agent Memory and It Made Everything Worse](https://dev.to/mnemox/i-gave-my-trading-agent-memory-and-it-made-everything-worse-28a3)
+- [How to Introduce Claude Code to Your Engineering Team &lpar;Without It Dying in Week 2&rpar;](https://dev.to/askpatrick/how-to-introduce-claude-code-to-your-engineering-team-without-it-dying-in-week-2-3nhg)
+- [Stop Using Context for State: Use an Event-Driven Pattern](https://dev.to/alvarogfn/stop-using-context-for-state-use-an-event-driven-pattern-ieo)
+- [My Apartment Now Dims the Lights on Guests &lpar;On Purpose🙈&rpar;](https://dev.to/juihungyuan/my-apartment-now-dims-the-lights-on-guests-on-purpose-598l)
+- [How CORE Used Its Own Pipeline to Eliminate 36 Constitutional Violations — Including Its Own](https://dev.to/dariusz_newecki_e35b0924c/how-core-used-its-own-pipeline-to-eliminate-36-constitutional-violations-including-its-own-206c)
+- [Top CSS3 Features You Need to Know in 2026](https://dev.to/balassenthilrrd/top-css3-features-you-need-to-know-in-2026-2h6l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
