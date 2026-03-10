@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [DevLog: ZK Battleship - part 2](https://dev.to/olivmath/devlog-zk-battleship-part-2-25lp)
-- [Let&#39;s Build a Script to Retrieve Data from Sera Protocol!](https://dev.to/mashharuki/lets-build-a-script-to-retrieve-data-from-sera-protocol-533a)
-- [EAV: a fascinating, but often dangerous pattern](https://dev.to/giuliopanda/eav-a-fascinating-but-often-dangerous-pattern-200j)
-- [Scaling Django APIs: How I Reduced Database Load by 80% with Redis and Optimized Queries](https://dev.to/kabasele754/scaling-django-apis-how-i-reduced-database-load-by-80-with-redis-and-optimized-queries-g5j)
-- [Stop giving your real email to websites. Here&#39;s what I built with Laravel and cPanel API.](https://dev.to/misterdebug/stop-giving-your-real-email-to-websites-heres-what-i-built-with-laravel-and-cpanel-api-3613)
+- [The Trader&#39;s Paradox: Why Being Good at Crypto Means You Can&#39;t Prove It](https://dev.to/aldorax/the-traders-paradox-why-being-good-at-crypto-means-you-cant-prove-it-4ip3)
+- [OpenTelemetry Production Error Debugging Improved with Source Map Integration for Minified Stack Traces](https://dev.to/pavkode/opentelemetry-production-error-debugging-improved-with-source-map-integration-for-minified-stack-2dee)
+- [Your AI Agent Looks Fine in Staging. Production Is a Different Story.](https://dev.to/rzerrad/your-ai-agent-looks-fine-in-staging-production-is-a-different-story-37lm)
+- [My Journey into Software Engineering and Artificial Intelligence – Vishal Uttam Mane](https://dev.to/vishaluttammane/my-journey-into-software-engineering-and-artificial-intelligence-vishal-uttam-mane-1k5k)
+- [Debugging a PID Mystery: Why My fork&lpar;&rpar; Child PID Wasn’t Parent+1](https://dev.to/moonlitpath1/debugging-a-pid-mystery-why-my-fork-child-pid-wasnt-parent1-225a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
