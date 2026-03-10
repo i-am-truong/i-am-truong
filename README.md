@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Trader&#39;s Paradox: Why Being Good at Crypto Means You Can&#39;t Prove It](https://dev.to/aldorax/the-traders-paradox-why-being-good-at-crypto-means-you-cant-prove-it-4ip3)
-- [OpenTelemetry Production Error Debugging Improved with Source Map Integration for Minified Stack Traces](https://dev.to/pavkode/opentelemetry-production-error-debugging-improved-with-source-map-integration-for-minified-stack-2dee)
-- [Your AI Agent Looks Fine in Staging. Production Is a Different Story.](https://dev.to/rzerrad/your-ai-agent-looks-fine-in-staging-production-is-a-different-story-37lm)
-- [My Journey into Software Engineering and Artificial Intelligence – Vishal Uttam Mane](https://dev.to/vishaluttammane/my-journey-into-software-engineering-and-artificial-intelligence-vishal-uttam-mane-1k5k)
-- [Debugging a PID Mystery: Why My fork&lpar;&rpar; Child PID Wasn’t Parent+1](https://dev.to/moonlitpath1/debugging-a-pid-mystery-why-my-fork-child-pid-wasnt-parent1-225a)
+- [I Tested Every Open-Source Brand SVG Library So You Don&#39;t Have To &lpar;2026 Edition&rpar;](https://dev.to/thegdsks/i-tested-every-open-source-brand-svg-library-so-you-dont-have-to-2026-edition-46oe)
+- [Public Speaking for Engineers: Conferences and Meetups](https://dev.to/matt_frank_usa/public-speaking-for-engineers-conferences-and-meetups-1l07)
+- [Show HN: I Was Here – Draw on street panoramas, others can find your drawings](https://dev.to/jgnoncelogic/show-hn-i-was-here-draw-on-street-panoramas-others-can-find-your-drawings-54f5)
+- [So You Want to Contribute to Jenkins? Here&#39;s Everything Nobody Told Me](https://dev.to/sharma-sugurthi/so-you-want-to-contribute-to-jenkins-heres-everything-nobody-told-me-9ne)
+- [How I Built My Developer Portfolio &lpar;React + Netlify&rpar; and What I Improved](https://dev.to/moksh57/how-i-built-my-developer-portfolio-react-netlify-and-what-i-improved-4mdg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
