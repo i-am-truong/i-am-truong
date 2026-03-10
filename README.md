@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From €1.99 to Direct Contact With Montenegro’s Ex-President: a Security Story](https://dev.to/alexander_nadrilyanski/from-eu199-to-direct-contact-with-montenegros-ex-president-a-security-story-27f7)
-- [Clawless — Bring Your Own Agent to Telegram &amp; Slack](https://dev.to/hainanzhao/clawless-bring-your-own-agent-to-telegram-slack-291m)
-- [Reverse-Engineering Category Strategy: Analyzing Assortment Mix with Node.js](https://dev.to/sommic/reverse-engineering-category-strategy-analyzing-assortment-mix-with-nodejs-4i3c)
-- [🚀 I Built a Production-Ready E-commerce Backend API with Django REST Framework](https://dev.to/akmal7780/i-built-a-production-ready-e-commerce-backend-api-with-django-rest-framework-7lo)
-- [How to Decide What to Build Next for Your Startup](https://dev.to/alichherawalla/how-to-decide-what-to-build-next-for-your-startup-1kh5)
+- [47-Day SSL Certificates Are Coming. Are You Ready?](https://dev.to/oceansach/47-day-ssl-certificates-are-coming-are-you-ready-1i9g)
+- [Listings, Liquidity and Illusions: What Really Happens When Your Coin Hits an Exchange](https://dev.to/tanelith/listings-liquidity-and-illusions-what-really-happens-when-your-coin-hits-an-exchange-em1)
+- [Encapsulation](https://dev.to/seenu_seenu_1e97a9dd35e0c/encapsulation-in-oop-with-simple-java-example-db0)
+- [Why M-Pesa, Africa&#39;s Talking, and USSD are missing from AI agent tooling — and what I did about it](https://dev.to/gabrielmahia/why-m-pesa-africas-talking-and-ussd-are-missing-from-ai-agent-tooling-and-what-i-did-about-it-56fo)
+- [Build Your Own Anime App with AniPub&#39;s Public API — 100% Free &amp; Simple](https://dev.to/adnandluffy/build-your-own-anime-app-with-anipubs-public-api-100-free-simple-j3d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
