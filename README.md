@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built an Ecosystem of 46 AI-Assisted Repos. Then I Realized It Might Be Eating Itself.](https://dev.to/flamehaven01/i-built-an-ecosystem-of-46-ai-assisted-repos-then-i-realized-it-might-be-eating-itself-46ni)
-- [Why AI Agents Need Unlisted Numbers](https://dev.to/vizmutlabs/why-ai-agents-need-unlisted-numbers-567h)
-- [Broken Authentication in Fintech Systems](https://dev.to/tech_wizard/broken-authentication-in-fintech-systems-5592)
-- [Why Hospitals Are Switching to Cloud-Based HMIS in 2026](https://dev.to/sisgaintech/why-hospitals-are-switching-to-cloud-based-hmis-in-2026-ibj)
-- [Debugging Invisible Elements: transform-origin + scaleX&lpar;-1&rpar;](https://dev.to/beep_beep_cat/debugging-invisible-elements-transform-origin-scalex-1-4f1f)
+- [I Built a Self-Hosted Web Layer for AI Agents](https://dev.to/fay_/i-built-a-self-hosted-web-layer-for-ai-agents-2gah)
+- [Deniability Engineering: How Leaders Delegate Blame but Centralize Power](https://dev.to/abdulosman/deniability-engineering-how-leaders-delegate-blame-but-centralize-power-2e68)
+- [How Testing Has Evolved: Life Before Cypress, With Cypress Today, and the Future of Testing](https://dev.to/john_chima_d8530cec771dc7/how-testing-has-evolved-life-before-cypress-with-cypress-today-and-the-future-of-testing-d3e)
+- [How I Built My First ML Engineering Project And Got Noticed](https://dev.to/talha_t_76898bb5ac8d3f366/how-i-built-my-first-ml-engineering-project-and-got-noticed-56cn)
+- [Stop Staring at JSON: A Developer&#39;s Guide to MongoDB Compass 🧭](https://dev.to/syed_mehrab_08fb0419feedf/stop-staring-at-json-a-developers-guide-to-mongodb-compass-4885)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
