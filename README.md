@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Cross-Agent Development Method](https://dev.to/marmartins/the-cross-agent-development-method-1j1e)
-- [O método de desenvolimento Cross-Agent](https://dev.to/marmartins/o-metodo-de-desenvolimento-cross-agent-4i93)
-- [The Hidden Architecture of the AI Revolution](https://dev.to/canabady/the-hidden-architecture-of-the-ai-revolution-45nj)
-- [Why I Built a Multilingual SaaS Frontend Without React, Next.js, or a Build Step](https://dev.to/charles_snow_fastly/why-i-built-a-multilingual-saas-frontend-without-react-nextjs-or-a-build-step-45dl)
-- [How I Got My First Open Source Pull Request Merged &lpar;Beginner Guide&rpar;](https://dev.to/maibhushan/my-first-open-source-contribution-got-merged-1c8k)
+- [Lumina: Free Offline Knowledge for Everyone, Everywhere, Forever](https://dev.to/luminaarchive/lumina-free-offline-knowledge-for-everyone-everywhere-forever-m06)
+- [Your Agent Is a Small, Low-Stakes HAL](https://dev.to/romanonthego/your-agent-is-a-small-low-stakes-hal-59j8)
+- [Directory of 3,900+ Tools for AI Agents](https://dev.to/rachel_su_54a233e53a87523/directory-of-3900-tools-for-ai-agents-10kf)
+- [[Open Source] ADEval — A Tool for Evaluating Tool-Use Capabilities of Google ADK AI Agents](https://dev.to/gde/open-source-adeval-a-tool-for-evaluating-tool-use-capabilities-of-google-adk-ai-agents-3284)
+- [[Boost]](https://dev.to/elizabethfuentes12/-26k9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
