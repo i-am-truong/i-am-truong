@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Pocket Oracle: Building Your Mobile AI Command Center with Termux + Tmux](https://dev.to/hainanzhao/pocket-oracle-building-your-mobile-ai-command-center-with-termux-tmux-2id2)
-- [阿里开源 Qwen3.5-9B：9B 参数干翻 120B，小模型的 SOTA 时刻](https://dev.to/gary_yan_86eb77d35e0070f5/a-li-kai-yuan-qwen35-9b9b-can-shu-gan-fan-120bxiao-mo-xing-de-sota-shi-ke-j36)
-- [STREAM API INTERVIEW QUESTION](https://dev.to/bhu_kalki/stream-api-interview-question-3b7h)
-- [Part 2: Building the Engine — Tools, URIs, and the Art of Indexing FHIR](https://dev.to/chaets/part-2-building-the-engine-tools-uris-and-the-art-of-indexing-fhir-fi1)
-- [The script worked. The CISO needed something else. iam-audit v2: interactive dashboard, root account detection and Docker.](https://dev.to/aws-heroes/the-script-worked-the-ciso-needed-something-else-iam-audit-v2-interactive-dashboard-root-3dc0)
+- [The Cross-Agent Development Method](https://dev.to/marmartins/the-cross-agent-development-method-1j1e)
+- [O método de desenvolimento Cross-Agent](https://dev.to/marmartins/o-metodo-de-desenvolimento-cross-agent-4i93)
+- [The Hidden Architecture of the AI Revolution](https://dev.to/canabady/the-hidden-architecture-of-the-ai-revolution-45nj)
+- [Why I Built a Multilingual SaaS Frontend Without React, Next.js, or a Build Step](https://dev.to/charles_snow_fastly/why-i-built-a-multilingual-saas-frontend-without-react-nextjs-or-a-build-step-45dl)
+- [How I Got My First Open Source Pull Request Merged &lpar;Beginner Guide&rpar;](https://dev.to/maibhushan/my-first-open-source-contribution-got-merged-1c8k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
