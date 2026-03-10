@@ -120,13 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your Team Got Copilot. Now Leadership Thinks They Have Infinite Capacity.](https://dev.to/askpatrick/your-team-got-copilot-now-leadership-thinks-they-have-infinite-capacity-29bg)
-- [Mastering the Chaos: A Strategic Guide to Microservices Governance and Performance Excellence](https://dev.to/_4e853add3ce149eb8267a0/mastering-the-chaos-a-strategic-guide-to-microservices-governance-and-performance-excellence-21)
-- [Voiden is now extensible via community plugins](https://dev.to/nikolas_dimitroulakis_d23/voiden-is-now-extensible-via-community-plugins-24e6)
-- [Beyond the Hype: Engineering Production-Ready Blockchain Applications](https://dev.to/_4e853add3ce149eb8267a0/beyond-the-hype-engineering-production-ready-blockchain-applications-1o53)
-- [I&#39;ve updated this walkthrough to work with the latest version of Podman, Distrobox, and &quot;any&quot; of your favorite Linux OS!
-
-Cloudflare WARP is the easiest way to enable IPv6 and security on your network today.](https://dev.to/archerallstars/ive-updated-this-walkthrough-to-work-with-the-latest-version-of-podman-distrobox-and-any-of-1g94)
+- [Portainer vs Yacht: Docker Management UIs](https://dev.to/selfhostingsh/portainer-vs-yacht-docker-management-uis-3ge5)
+- [Running LLMs Locally on macOS: The Complete 2026 Comparison](https://dev.to/bspann/running-llms-locally-on-macos-the-complete-2026-comparison-48fc)
+- [Backtesting Trading Strategies on NSE Data: What Retail Traders Actually Need to Know](https://dev.to/trademineai/backtesting-trading-strategies-on-nse-data-what-retail-traders-actually-need-to-know-2n8k)
+- [How We Built AI Search for WooCommerce Using RAG](https://dev.to/nightw0rk/how-we-built-ai-search-for-woocommerce-using-rag-2h8c)
+- [Building Maester — Enable Multi-provider LLM APIs](https://dev.to/lei_ye_2cc01a0af9e8260e/building-maester-enable-multi-provider-llm-apis-4lp7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
