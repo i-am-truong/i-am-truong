@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Introduce Claude Code to Your Engineering Team &lpar;Without It Dying in Week 2&rpar;](https://dev.to/askpatrick/how-to-introduce-claude-code-to-your-engineering-team-without-it-dying-in-week-2-3nhg)
-- [Stop Using Context for State: Use an Event-Driven Pattern](https://dev.to/alvarogfn/stop-using-context-for-state-use-an-event-driven-pattern-ieo)
-- [My Apartment Now Dims the Lights on Guests &lpar;On Purpose🙈&rpar;](https://dev.to/juihungyuan/my-apartment-now-dims-the-lights-on-guests-on-purpose-598l)
-- [How CORE Used Its Own Pipeline to Eliminate 36 Constitutional Violations — Including Its Own](https://dev.to/dariusz_newecki_e35b0924c/how-core-used-its-own-pipeline-to-eliminate-36-constitutional-violations-including-its-own-206c)
-- [Top CSS3 Features You Need to Know in 2026](https://dev.to/balassenthilrrd/top-css3-features-you-need-to-know-in-2026-2h6l)
+- [Redundancy Transformation Plan - Your Redundancy is a Disguised Setup for Your Next Great Chapter](https://dev.to/pheistman/redundancy-transformation-plan-your-redundancy-is-a-disguised-setup-for-your-next-great-chapter-4c08)
+- [Terraform으로 AWS Managed Grafana 모니터링 체계 구축하기 — MSA 6개 서비스를 한 눈에](https://dev.to/artistrator/terraformeuro-aws-managed-grafana-moniteoring-cegye-gucughagi-msa-6gae-seobiseureul-han-nune-gj8)
+- [What Really Happens When You Deploy with AWS CDK?](https://dev.to/mianzubair/what-really-happens-when-you-deploy-with-aws-cdk-4kli)
+- [Skaro — AI-Powered Software Development Platform](https://dev.to/yermolaev/skaro-ai-powered-software-development-platform-n9h)
+- [Protocol Launcher Series: One-Click Launch for IntelliJ IDEA and JetBrains IDEs](https://dev.to/zhensherlock/protocol-launcher-series-one-click-launch-for-intellij-idea-and-jetbrains-ides-1ldi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
