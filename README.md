@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Self-Hosted Web Layer for AI Agents](https://dev.to/fay_/i-built-a-self-hosted-web-layer-for-ai-agents-2gah)
-- [Deniability Engineering: How Leaders Delegate Blame but Centralize Power](https://dev.to/abdulosman/deniability-engineering-how-leaders-delegate-blame-but-centralize-power-2e68)
-- [How Testing Has Evolved: Life Before Cypress, With Cypress Today, and the Future of Testing](https://dev.to/john_chima_d8530cec771dc7/how-testing-has-evolved-life-before-cypress-with-cypress-today-and-the-future-of-testing-d3e)
-- [How I Built My First ML Engineering Project And Got Noticed](https://dev.to/talha_t_76898bb5ac8d3f366/how-i-built-my-first-ml-engineering-project-and-got-noticed-56cn)
-- [Stop Staring at JSON: A Developer&#39;s Guide to MongoDB Compass 🧭](https://dev.to/syed_mehrab_08fb0419feedf/stop-staring-at-json-a-developers-guide-to-mongodb-compass-4885)
+- [The Practical Limits of DuckDB on Commodity Hardware](https://dev.to/prithwish_nath/the-practical-limits-of-duckdb-on-commodity-hardware-f76)
+- [Time-to-Owner in Incident Response: How Platform Teams Cut Escalation Delay](https://dev.to/coordimap/time-to-owner-in-incident-response-how-platform-teams-cut-escalation-delay-4j7j)
+- [Building a Live AI Market Research Terminal: How Bright Data and Convex Replace Polling With Real-Time Everything](https://dev.to/sholajegede/building-a-live-ai-market-research-terminal-how-bright-data-and-convex-replace-polling-with-mm)
+- [How to Prepare Images and Videos for Social Media Faster in the Browser](https://dev.to/charles_snow_fastly/how-to-prepare-images-and-videos-for-social-media-faster-in-the-browser-3e20)
+- [Claude Code Hooks: 5 Automations That Replaced My Manual Workflow](https://dev.to/klement_gunndu/claude-code-hooks-5-automations-that-replaced-my-manual-workflow-47f4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
