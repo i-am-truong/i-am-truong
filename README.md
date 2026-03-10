@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built 500+ free tools in 10 days — here&#39;s what actually happened](https://dev.to/akashxlabs/i-built-500-free-tools-in-10-days-heres-what-actually-happened-1a7l)
-- [Ninja&#39;s Training](https://dev.to/dolly_sharma/ninjas-training-2jnd)
-- [Running Anchor Tests on GitHub Actions Without Losing Your Mind](https://dev.to/burgossrodrigo/running-anchor-tests-on-github-actions-without-losing-your-mind-20j0)
-- [Finding the Right Reference Changed Everything for my Project](https://dev.to/jona_mike/finding-the-right-reference-changed-everything-for-my-project-3bom)
-- [Vibe Coding Challenge — Day 12: Tattoo Generator](https://dev.to/labdays/vibe-coding-challenge-day-12-tattoo-generator-34id)
+- [I Built an Ecosystem of 46 AI-Assisted Repos. Then I Realized It Might Be Eating Itself.](https://dev.to/flamehaven01/i-built-an-ecosystem-of-46-ai-assisted-repos-then-i-realized-it-might-be-eating-itself-46ni)
+- [Why AI Agents Need Unlisted Numbers](https://dev.to/vizmutlabs/why-ai-agents-need-unlisted-numbers-567h)
+- [Broken Authentication in Fintech Systems](https://dev.to/tech_wizard/broken-authentication-in-fintech-systems-5592)
+- [Why Hospitals Are Switching to Cloud-Based HMIS in 2026](https://dev.to/sisgaintech/why-hospitals-are-switching-to-cloud-based-hmis-in-2026-ibj)
+- [Debugging Invisible Elements: transform-origin + scaleX&lpar;-1&rpar;](https://dev.to/beep_beep_cat/debugging-invisible-elements-transform-origin-scalex-1-4f1f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
