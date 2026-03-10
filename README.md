@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Selenium Simplified — Understanding Waits in Selenium &lpar;Implicit vs Explicit Wait&rpar;](https://dev.to/saras_growth_space/selenium-simplified-understanding-waits-in-selenium-implicit-vs-explicit-wait-4p35)
-- [What do you actually check in the first 15 minutes after deploy?](https://dev.to/lazypl82/what-do-you-actually-check-in-the-first-15-minutes-after-deploy-52i4)
-- [Application-Layer Defense: Stopping Exfiltration Inside the Sandbox](https://dev.to/uenyioha/application-layer-defense-stopping-exfiltration-inside-the-sandbox-4l6c)
-- [OS-Level Sandboxing: Kernel Isolation for AI Agents](https://dev.to/uenyioha/os-level-sandboxing-kernel-isolation-for-ai-agents-3fdg)
-- [Beyond the Hype: Architecting Scalable Low-Code Platforms for Enterprise Ecosystems](https://dev.to/_4e853add3ce149eb8267a0/beyond-the-hype-architecting-scalable-low-code-platforms-for-enterprise-ecosystems-3blm)
+- [Day 2 &lpar;End of Day&rpar;: I Cut My Loss on S\&amp;P, Bet on CPI, and Hit $600 in Pending Bounties — 100 Days of AI Hustle](https://dev.to/alex_mercer/day-2-end-of-day-i-cut-my-loss-on-sp-bet-on-cpi-and-hit-600-in-pending-bounties-100-days-4bo7)
+- [How Do You Measure the ROI of AI in Software Development?](https://dev.to/bashanova/how-do-you-measure-the-roi-of-ai-in-software-development-4ojb)
+- [Beyond the Hype: Engineering Production-Ready Blockchain Applications](https://dev.to/_4e853add3ce149eb8267a0/beyond-the-hype-engineering-production-ready-blockchain-applications-2eao)
+- [Strategic Content Integration: Authority Monitor and NotebookLM Product Guru](https://dev.to/dwelvin_morgan_38be4ff3ba/strategic-content-integration-authority-monitor-and-notebooklm-product-guru-44eh)
+- [Building for Billions: A Scalable IoT Platform Architecture for the Real World](https://dev.to/_4e853add3ce149eb8267a0/building-for-billions-a-scalable-iot-platform-architecture-for-the-real-world-4mh1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
