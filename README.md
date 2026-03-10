@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Practical Limits of DuckDB on Commodity Hardware](https://dev.to/prithwish_nath/the-practical-limits-of-duckdb-on-commodity-hardware-f76)
-- [Time-to-Owner in Incident Response: How Platform Teams Cut Escalation Delay](https://dev.to/coordimap/time-to-owner-in-incident-response-how-platform-teams-cut-escalation-delay-4j7j)
-- [Building a Live AI Market Research Terminal: How Bright Data and Convex Replace Polling With Real-Time Everything](https://dev.to/sholajegede/building-a-live-ai-market-research-terminal-how-bright-data-and-convex-replace-polling-with-mm)
-- [How to Prepare Images and Videos for Social Media Faster in the Browser](https://dev.to/charles_snow_fastly/how-to-prepare-images-and-videos-for-social-media-faster-in-the-browser-3e20)
-- [Claude Code Hooks: 5 Automations That Replaced My Manual Workflow](https://dev.to/klement_gunndu/claude-code-hooks-5-automations-that-replaced-my-manual-workflow-47f4)
+- [I built MLShip — deploy your Streamlit or Gradio ML app in 60 seconds. No Docker. No AWS.](https://dev.to/uday_yadav/i-built-mlship-deploy-your-streamlit-or-gradio-ml-app-in-60-seconds-no-docker-no-aws-1en)
+- [SQL Joins and Window Functions](https://dev.to/njagiii/sql-joins-and-window-functions-3fe7)
+- [Zero-Friction Publishing: A Human-in-the-Loop Agentic CMS powered by Notion MCP](https://dev.to/lwgena/zero-friction-publishing-a-human-in-the-loop-agentic-cms-powered-by-notion-mcp-12nn)
+- [The AI Cold Start That Breaks Kubernetes Autoscaling](https://dev.to/namratha_3/the-ai-cold-start-that-breaks-kubernetes-autoscaling-280n)
+- [Data Paradigms for the Agent Era: From Human-Readable to AI-Understandable](https://dev.to/andrew202510/data-paradigms-for-the-agent-era-from-human-readable-to-ai-understandable-535)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
