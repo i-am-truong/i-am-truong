@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I automated text dataset cleaning for ML training with AI &lpar;and why regex wasn&#39;t enough&rpar;](https://dev.to/lattanzi/how-i-automated-text-dataset-cleaning-for-ml-training-with-ai-and-why-regex-wasnt-enough-3h19)
-- [Dealing with flaky tests](https://dev.to/conw_y/dealing-with-flaky-tests-4d2e)
-- [Zero-effort offline static websites with Apptron](https://dev.to/progrium/zero-effort-offline-static-websites-with-apptron-47m6)
-- [Detecting Embedding Drift: The Silent Killer of RAG Accuracy](https://dev.to/dev-zc/detecting-embedding-drift-the-silent-killer-of-rag-accuracy-17md)
-- [Process Manager Comparison 2026 — PM2, Systemd, Supervisor, Oxmgr, and More](https://dev.to/empellio/process-manager-comparison-2026-pm2-systemd-supervisor-oxmgr-and-more-4e0p)
+- [AI Agents Took Over My App](https://dev.to/betterforall/ai-agents-took-over-my-app-d77)
+- [The Brief Method: How to Get 10x Better Results from Claude Code](https://dev.to/askpatrick/the-brief-method-how-to-get-10x-better-results-from-claude-code-5bnl)
+- [How to Introduce Claude Code to Your Engineering Team &lpar;Without It Dying in Week 2&rpar;](https://dev.to/askpatrick/how-to-introduce-claude-code-to-your-engineering-team-without-it-dying-in-week-2-4bh6)
+- [Beyond the Hype: Engineering Production-Ready Blockchain Applications for Enterprise Impact](https://dev.to/_4e853add3ce149eb8267a0/beyond-the-hype-engineering-production-ready-blockchain-applications-for-enterprise-impact-3p8c)
+- [Beyond the Hype: Engineering Production-Ready Blockchain Applications](https://dev.to/_4e853add3ce149eb8267a0/beyond-the-hype-engineering-production-ready-blockchain-applications-k9d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
