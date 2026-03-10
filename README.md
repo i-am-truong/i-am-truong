@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Tested Every Open-Source Brand SVG Library So You Don&#39;t Have To &lpar;2026 Edition&rpar;](https://dev.to/thegdsks/i-tested-every-open-source-brand-svg-library-so-you-dont-have-to-2026-edition-46oe)
-- [Public Speaking for Engineers: Conferences and Meetups](https://dev.to/matt_frank_usa/public-speaking-for-engineers-conferences-and-meetups-1l07)
-- [Show HN: I Was Here – Draw on street panoramas, others can find your drawings](https://dev.to/jgnoncelogic/show-hn-i-was-here-draw-on-street-panoramas-others-can-find-your-drawings-54f5)
-- [So You Want to Contribute to Jenkins? Here&#39;s Everything Nobody Told Me](https://dev.to/sharma-sugurthi/so-you-want-to-contribute-to-jenkins-heres-everything-nobody-told-me-9ne)
-- [How I Built My Developer Portfolio &lpar;React + Netlify&rpar; and What I Improved](https://dev.to/moksh57/how-i-built-my-developer-portfolio-react-netlify-and-what-i-improved-4mdg)
+- [Multi‑Agent Firecrawl Research: My Fallback Chain That Refuses to Pretend It Knows the Company](https://dev.to/daniel_romitelli_44e77dc6/multi-agent-firecrawl-research-my-fallback-chain-that-refuses-to-pretend-it-knows-the-company-44dl)
+- [Why Every AI-Assisted Project Needs a .agents/ Folder](https://dev.to/jackby03/why-every-ai-assisted-project-needs-a-agents-folder-49i3)
+- [I replaced a 50-node n8n workflow with a proper app — and open-sourced it](https://dev.to/kfuras/i-replaced-a-50-node-n8n-workflow-with-a-proper-app-and-open-sourced-it-4o6h)
+- [Stop Writing 20 @Preview Functions — Build a Runtime Sandbox Instead](https://dev.to/seijind/stop-writing-20-preview-functions-build-a-runtime-sandbox-instead-3269)
+- [Signals vs Observables — I Built the Same Feature 3 Ways. Here&#39;s What I Learned.](https://dev.to/paszekdev/signals-vs-observables-i-built-the-same-feature-3-ways-heres-what-i-learned-1g8c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
