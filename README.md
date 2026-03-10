@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Core Web Vitals Impact SEO Rankings: What the Data Shows](https://dev.to/apogeewatcher/how-core-web-vitals-impact-seo-rankings-what-the-data-shows-31ce)
-- [Got error msgpack on mac M2](https://dev.to/ugifractal/got-error-msgpack-on-mac-m2-1i56)
-- [How I built a hidden ARG inside a Deltarune fan site](https://dev.to/raaywasdead/how-i-built-a-hidden-arg-inside-a-deltarune-fan-site-28dn)
-- [The Missing Layer in the SaaS Stack: Capability Platforms](https://dev.to/aspantel/the-missing-layer-in-the-saas-stack-capability-platforms-1f20)
-- [CVE-2026-28292: How a Simple Case-Sensitivity Bug Turns simple-git Into a Remote Code Execution Weapon &lpar;CVSS 9.8&rpar;](https://dev.to/amartyajha/cve-2026-28292-how-a-simple-case-sensitivity-bug-turns-simple-git-into-a-remote-code-execution-4ki3)
+- [No, AI Won&#39;t Replace Your Engineering Team](https://dev.to/bashanova/no-ai-wont-replace-your-engineering-team-cpi)
+- [AI-Assisted Python: Refactoring and Reviewing with Copilot](https://dev.to/letstalkoss/ai-assisted-python-refactoring-and-reviewing-with-copilot-4ejh)
+- [GitHub Weekly: GPT-5.4, Agentic Code Review, and the Platform&#39;s AI Evolution](https://dev.to/htekdev/github-weekly-gpt-54-agentic-code-review-and-the-platforms-ai-evolution-449d)
+- [When AI Writes the Code… Who Takes Responsibility?](https://dev.to/subhrangsu90/when-ai-writes-the-code-who-takes-responsibility-19fc)
+- [Google Just Made Every Android App an AI Agent Tool — Here&#39;s What&#39;s Missing](https://dev.to/policylayer/google-just-made-every-android-app-an-ai-agent-tool-heres-whats-missing-4eg0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
