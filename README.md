@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Built My Own Prometheus Service Discovery for Oracle Cloud Because a 3-Year-Old PR Never Got Merged](https://dev.to/amaan-igs/built-my-own-prometheus-service-discovery-for-oracle-cloud-because-a-3-year-old-pr-never-got-merged-2fme)
-- [Building DailyMood: How We Used AI-Assisted Development to Ship a Full-Stack Mood Tracker in Two Sprints](https://dev.to/kelson_qu/building-dailymood-how-we-used-ai-assisted-development-to-ship-a-full-stack-mood-tracker-in-two-411a)
-- [Djangonaut Diaries: Week 1 — Setting up the space &lpar;and the machine&rpar;](https://dev.to/rodbv/djangonaut-diaries-week-1-setting-the-stage-and-the-machine-592h)
-- [Things I Wish I Knew Before Building My Own IT Infrastructure](https://dev.to/jonaszjozwicki/things-i-wish-i-knew-before-building-my-own-it-infrastructure-2ib2)
-- [Send vs WeTransfer: Self-Hosted File Sharing](https://dev.to/selfhostingsh/send-vs-wetransfer-self-hosted-file-sharing-8h5)
+- [How Android Actually Protects Data Stored on Your Device](https://dev.to/almostbrilliantideas/how-android-actually-protects-data-stored-on-your-device-2ml3)
+- [Provisioning a Virtual Network and Virtual Machine in Azure with Azure CLI](https://dev.to/pirrezz/provisioning-a-virtual-network-and-virtual-machine-in-azure-with-azure-cli-5f1g)
+- [𝗧𝗵𝗿𝗲𝗲 𝗠𝗲𝘁𝗿𝗶𝗰𝘀 𝗧𝗵𝗮𝘁 𝗠𝗮𝘁𝘁𝗲𝗿 𝗠𝗼𝗿𝗲 𝗧𝗵𝗮𝗻 𝗖𝗼𝗿𝗲 𝗪𝗲𝗯 𝗩𝗶𝘁𝗮𝗹𝘀 𝗶𝗻 𝗧𝗿𝗮𝗱𝗶𝗻𝗴 𝗔𝗽𝗽𝘀](https://dev.to/ricardosaumeth/-16p5)
+- [🔥 𝐓𝐡𝐞 𝐇𝐚𝐫𝐝𝐞𝐬𝐭 𝐏𝐫𝐨𝐛𝐥𝐞𝐦𝐬 𝐢𝐧 𝐑𝐞𝐚𝐥‑𝐓𝐢𝐦𝐞 𝐅𝐫𝐨𝐧𝐭‑𝐄𝐧𝐝 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 &lpar;𝐚𝐧𝐝 𝐭𝐡𝐞 𝐩𝐚𝐭𝐭𝐞𝐫𝐧𝐬 𝐭𝐡𝐚𝐭 𝐚𝐜𝐭𝐮𝐚𝐥𝐥𝐲 𝐰𝐨𝐫𝐤&rpar;](https://dev.to/ricardosaumeth/--1fk8)
+- [Why LLMs Suck at Calling APIs &lpar;And How Flat Schemas Fix It&rpar;](https://dev.to/docat0209/why-llms-suck-at-calling-apis-and-how-flat-schemas-fix-it-o0j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
