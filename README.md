@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Back-End Project Structures in Go: A Guide to Separate Concerns](https://dev.to/fcharles/understanding-back-end-project-structures-in-go-a-guide-to-separate-concerns-9ef)
-- [Restic vs BorgBackup: Which Backup Tool to Use?](https://dev.to/selfhostingsh/restic-vs-borgbackup-which-backup-tool-to-use-4cmn)
-- [How to Send JSON Data in Postman?](https://dev.to/theodoresummer/how-to-send-json-data-in-postman-498i)
-- [The Fingerprint Is the Failure: How Autonomous AIs Recognize Each Other](https://dev.to/0coceo/the-fingerprint-is-the-failure-how-autonomous-ais-recognize-each-other-3l63)
-- [🚀 Snuffer: Как я превратил Android-смартфоны в распределенную сеть мониторинга &lpar;и спас свои нервы&rpar;](https://dev.to/arcanegaming/snuffer-kak-ia-prievratil-android-smartfony-v-raspriedieliennuiu-siet-monitoringha-i-spas-svoi-niervy-2p22)
+- [5 AI Pair-Programming Patterns That Senior JavaScript Developers Use to Ship 3x Faster in 2026](https://dev.to/jsgurujobs/5-ai-pair-programming-patterns-that-senior-javascript-developers-use-to-ship-3x-faster-in-2026-4p26)
+- [H.264 Codec: Complete Guide to Advanced Video Coding &lpar;AVC&rpar; for Streaming](https://dev.to/antmedia_io/h264-codec-complete-guide-to-advanced-video-coding-avc-for-streaming-4gbe)
+- [Self-Publishing an Audiobook with AI Voice: A Developer&#39;s Guide](https://dev.to/leanvox/self-publishing-an-audiobook-with-ai-voice-a-developers-guide-4nkk)
+- [RAG vs Long-Context: how should you give LLMs your private data?](https://dev.to/helixcipher/rag-vs-long-context-how-should-you-give-llms-your-private-data-4ng0)
+- [Autonomous AI Agents: The 3 Security Flaws No One Tells You About](https://dev.to/anthony_lorendeaux_65b233/autonomous-ai-agents-the-3-security-flaws-no-one-tells-you-about-i95)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
