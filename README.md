@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Open Source Minecraft Server Tools: Why We Built ServerHub and What We Learned](https://dev.to/draginox/open-source-minecraft-server-tools-why-we-built-serverhub-and-what-we-learned-1ldo)
-- [Worst Case Scenario - an online minigame](https://dev.to/lnlenost/worst-case-scenario-an-online-minigame-1089)
-- [Things I Wish I Knew Before Becoming a Web Developer](https://dev.to/micro-chel/things-i-wish-i-knew-before-becoming-a-web-developer-3k8j)
-- [I Built a Free API That Scans 10,000+ Prediction Markets for Arbitrage](https://dev.to/vesper_finch/i-built-a-free-api-that-scans-10000-prediction-markets-for-arbitrage-4kmm)
-- [Looking for Beginner-Friendly Open Source Projects](https://dev.to/encryptman/looking-for-beginner-friendly-open-source-projects-2lle)
+- [AI Stem Splitter API Comparison 2026: StemSplit vs LALAL.AI vs Moises &lpar;With Benchmarks&rpar;](https://dev.to/stevecase430/ai-stem-splitter-api-comparison-2026-stemsplit-vs-lalalai-vs-moises-with-benchmarks-372l)
+- [I Open-Sourced a Figma-to-Avada Shortcode Converter &lpar;AI + Claude Code&rpar;](https://dev.to/andreata/i-open-sourced-a-figma-to-avada-shortcode-converter-ai-claude-code-4fdn)
+- [5 Simple Tips That Made Me a Better Web Developer](https://dev.to/micro-chel/5-simple-tips-that-made-me-a-better-web-developer-5ek2)
+- [Python&#39;s __slots__ can reduce memory usage by up to 50% for large object classes](https://dev.to/jeffrin-dev/pythons-slots-can-reduce-memory-usage-by-up-to-50-for-large-object-classes-18pi)
+- [Echoes of Experience: Don’t Be &quot;Too Senior&quot; to Ask](https://dev.to/gramli/echoes-of-experience-dont-be-too-senior-to-ask-4ake)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
