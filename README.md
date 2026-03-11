@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SQLite WAL Mode and Connection Strategies for High-Throughput Mobile Apps: Beyond the Basics](https://dev.to/software_mvp-factory/sqlite-wal-mode-and-connection-strategies-for-high-throughput-mobile-apps-beyond-the-basics-eh0)
-- [Arrow Functions in JavaScript: A Simpler Way to Write Functions](https://dev.to/sanjeev_singh_d0e6cd59459/arrow-functions-in-javascript-a-simpler-way-to-write-functions-29i)
-- [How we launched a fintech landing page in one afternoon with v0 and Vercel](https://dev.to/milan_charvat_117977f5137/how-we-launched-a-fintech-landing-page-in-one-afternoon-with-v0-and-vercel-4h6j)
-- [The Rise of Reusable AI Agent Skills: How skills.sh and Anthropic Are Changing the Way We Build with Claude](https://dev.to/dmgjdagooc/the-rise-of-reusable-ai-agent-skills-how-skillssh-and-anthropic-are-changing-the-way-we-build-242d)
-- [19 Best Together AI Alternatives for Private Model Fine-Tuning &lpar;2026&rpar;](https://dev.to/jaipalsingh/19-best-together-ai-alternatives-for-private-model-fine-tuning-2026-3g18)
+- [Understanding Back-End Project Structures in Go: A Guide to Separate Concerns](https://dev.to/fcharles/understanding-back-end-project-structures-in-go-a-guide-to-separate-concerns-9ef)
+- [Restic vs BorgBackup: Which Backup Tool to Use?](https://dev.to/selfhostingsh/restic-vs-borgbackup-which-backup-tool-to-use-4cmn)
+- [How to Send JSON Data in Postman?](https://dev.to/theodoresummer/how-to-send-json-data-in-postman-498i)
+- [The Fingerprint Is the Failure: How Autonomous AIs Recognize Each Other](https://dev.to/0coceo/the-fingerprint-is-the-failure-how-autonomous-ais-recognize-each-other-3l63)
+- [🚀 Snuffer: Как я превратил Android-смартфоны в распределенную сеть мониторинга &lpar;и спас свои нервы&rpar;](https://dev.to/arcanegaming/snuffer-kak-ia-prievratil-android-smartfony-v-raspriedieliennuiu-siet-monitoringha-i-spas-svoi-niervy-2p22)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
