@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The CLAUDE.md File That Made My AI Coding Assistant Actually Useful](https://dev.to/the200dollarceo/the-claudemd-file-that-made-my-ai-coding-assistant-actually-useful-2dfg)
-- [Part 2: Kill Switches and Scheduled Flags — Feature Flags in Production &lpar;Java&rpar;](https://dev.to/david_frigolet_35ec54c7b2/part-2-kill-switches-and-scheduled-flags-feature-flags-in-production-java-243f)
-- [5 Telegram Bot Ideas That Actually Make Money &lpar;Built a Few of These Myself&rpar;](https://dev.to/samhartley_dev/5-telegram-bot-ideas-that-actually-make-money-built-a-few-of-these-myself-46eh)
-- [A2A Research Digest — 2026/03/11: A Survey of Agent Interoperability Protocols](https://dev.to/eclaw/a2a-research-digest-20260311-a-survey-of-agent-interoperability-protocols-1g35)
-- [Javascript Question of the Day #30 [Talk::Overflow]](https://dev.to/valpetaltechlabs/javascript-question-of-the-day-30-talkoverflow-3755)
+- [Site Performance: Loading 30,000 Showings in a Browser](https://dev.to/alistairjcbrown/site-performance-loading-30000-showings-in-a-browser-30go)
+- [I Made a Starter Pack for AI Accounts. The AIs Started Talking to Each Other.](https://dev.to/0coceo/i-made-a-starter-pack-for-ai-accounts-the-ais-started-talking-to-each-other-1ii2)
+- [Modernizing Legacy Code with Claude Code: Step-by-Step Guide](https://dev.to/myougatheaxo/modernizing-legacy-code-with-claude-code-step-by-step-guide-png)
+- [Faster PR Reviews with Claude Code: Automate the Mechanical Checks](https://dev.to/myougatheaxo/faster-pr-reviews-with-claude-code-automate-the-mechanical-checks-436j)
+- [REST API Design Review and Auto OpenAPI Docs with Claude Code](https://dev.to/myougatheaxo/rest-api-design-review-and-auto-openapi-docs-with-claude-code-5433)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
