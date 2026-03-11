@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Architecting MLOps Connectivity: Balancing Isolation and Communication](https://dev.to/anusha_kuppili/architecting-mlops-connectivity-balancing-isolation-and-communication-1e0j)
-- [Next.js 16 for Beginners: Start Building Full-Stack React Apps](https://dev.to/hamzasehouli/nextjs-16-for-beginners-start-building-full-stack-react-apps-4n4c)
-- [Why Production Databases Break Normalization &lpar;And Why That&#39;s Okay&rpar;](https://dev.to/ayushshrivastav/why-production-databases-break-normalization-and-why-thats-okay-3hih)
-- [Paddle Review 2026: Pros, Cons &amp; Pricing Explained](https://dev.to/onsen/paddle-review-2026-pros-cons-pricing-explained-4cgk)
-- [How I Build Features with Agent Swarms and TDD](https://dev.to/stewartjarod/how-i-build-features-with-agent-swarms-and-tdd-9gd)
+- [Tomorrow: March 12 - MCP, Agents and Skills Meetup](https://dev.to/voxel51/tomorrow-march-12-mcp-agents-and-skills-meetup-1nhh)
+- [A Small Habit That Improves Code Quality](https://dev.to/micro-chel/a-small-habit-that-improves-code-quality-3n36)
+- [Building Xenith: 75% Done, 25 Signups, and the Final Sprint to Launch 🚀](https://dev.to/codebybryant/building-xenith-75-done-25-signups-and-the-final-sprint-to-launch-3djo)
+- [I Let an AI Agent Review My GitHub Repos](https://dev.to/aws-builders/i-let-an-ai-agent-review-my-github-repos-72)
+- [Understanding Word2Vec – Part 6: Two Ways Word2Vec Learns Context](https://dev.to/rijultp/understanding-word2vec-part-6-two-ways-word2vec-learns-context-3ppl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
