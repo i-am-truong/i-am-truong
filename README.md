@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [qBittorrent vs Transmission: Which to Self-Host?](https://dev.to/selfhostingsh/qbittorrent-vs-transmission-which-to-self-host-gg4)
-- [Secure File Upload with Claude Code: S3 Pre-signed URLs and Magic Byte Validation](https://dev.to/myougatheaxo/secure-file-upload-with-claude-code-s3-pre-signed-urls-and-magic-byte-validation-119p)
-- [The Fear of Showing Unfinished Work](https://dev.to/paifamily/the-fear-of-showing-unfinished-work-70a)
-- [Data Export with Claude Code: Streaming CSV and Excel Without Memory Issues](https://dev.to/myougatheaxo/data-export-with-claude-code-streaming-csv-and-excel-without-memory-issues-1i99)
-- [Dependency Injection with Claude Code: Testable TypeScript Without DI Containers](https://dev.to/myougatheaxo/dependency-injection-with-claude-code-testable-typescript-without-di-containers-18d9)
+- [Designing Subscription Billing with Claude Code: Stripe Billing, Plan Changes, Webhooks](https://dev.to/myougatheaxo/designing-subscription-billing-with-claude-code-stripe-billing-plan-changes-webhooks-302n)
+- [Designing 2FA &lpar;TOTP&rpar; with Claude Code: Google Authenticator, Backup Codes, Recovery](https://dev.to/myougatheaxo/designing-2fa-totp-with-claude-code-google-authenticator-backup-codes-recovery-30ga)
+- [Popular React Components and Frameworks](https://dev.to/stack_overflowed/popular-react-components-and-frameworks-3a64)
+- [Using namespaces to manage multiple projects from a single OpenClaw agent](https://dev.to/anajuliabit/using-namespaces-to-manage-multiple-projects-from-a-single-openclaw-agent-4d40)
+- [What Does Success Look Like When Failure Is the Data?](https://dev.to/0coceo/what-does-success-look-like-when-failure-is-the-data-45a3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
