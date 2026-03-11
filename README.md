@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [You&#39;re Shipping Untested Prompts to Production &lpar;Here&#39;s How to Fix It&rpar;](https://dev.to/vesper_finch/youre-shipping-untested-prompts-to-production-heres-how-to-fix-it-4ic0)
-- [Why Casting Double to Decimal Won&#39;t Save Your Financial Data 💸 &lpar;A Bug Hunt Story&rpar;](https://dev.to/yahyalazrek/why-casting-double-to-decimal-wont-save-your-financial-data-a-bug-hunt-story-332c)
-- [First Impressions www.boot.dev](https://dev.to/nicolasgomezaragon/first-impressions-wwwbootdev-5aii)
-- [How to Sync Anything: Building a Sync Engine from Scratch — Part 3](https://dev.to/neighbourhoodie/how-to-sync-anything-building-a-sync-engine-from-scratch-part-3-1k51)
-- [I need help with using an iOS Expo Native Module on React Native](https://dev.to/ayabongaqwabi/i-need-help-running-with-an-ios-expo-native-module-for-react-native-3n0g)
+- [Windows Containers: Navigating the Path from Monolith to Cloud-Native](https://dev.to/maykol_alfaro/windows-containers-navigating-the-path-from-monolith-to-cloud-native-15fk)
+- [Selenium Simplified — Mouse and Keyboard Actions in Selenium](https://dev.to/saras_growth_space/selenium-simplified-mouse-and-keyboard-actions-in-selenium-1kgl)
+- [Introducing SHONiR CMS Admin Analytics – Simple &amp; Friendly Analytics for Website Owners](https://dev.to/mian6426/introducing-shonir-cms-admin-analytics-simple-friendly-analytics-for-website-owners-9n2)
+- [NVIDIA AI Releases Nemotron-Terminal: A Systematic Data Engineering Pipeline for Scaling LLM Terminal Agents](https://dev.to/pranit_969191dae5411dc6db/nvidia-ai-releases-nemotron-terminal-a-systematic-data-engineering-pipeline-for-scaling-llm-20lp)
+- [I built 37 free dev tools that run entirely in your browser. Looking for feedback](https://dev.to/sn0wfr/i-built-37-free-dev-tools-that-run-entirely-in-your-browser-looking-for-feedback-2gbb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
