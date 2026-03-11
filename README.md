@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [5 AI Pair-Programming Patterns That Senior JavaScript Developers Use to Ship 3x Faster in 2026](https://dev.to/jsgurujobs/5-ai-pair-programming-patterns-that-senior-javascript-developers-use-to-ship-3x-faster-in-2026-4p26)
-- [H.264 Codec: Complete Guide to Advanced Video Coding &lpar;AVC&rpar; for Streaming](https://dev.to/antmedia_io/h264-codec-complete-guide-to-advanced-video-coding-avc-for-streaming-4gbe)
-- [Self-Publishing an Audiobook with AI Voice: A Developer&#39;s Guide](https://dev.to/leanvox/self-publishing-an-audiobook-with-ai-voice-a-developers-guide-4nkk)
-- [RAG vs Long-Context: how should you give LLMs your private data?](https://dev.to/helixcipher/rag-vs-long-context-how-should-you-give-llms-your-private-data-4ng0)
-- [Autonomous AI Agents: The 3 Security Flaws No One Tells You About](https://dev.to/anthony_lorendeaux_65b233/autonomous-ai-agents-the-3-security-flaws-no-one-tells-you-about-i95)
+- [Nuxt studio](https://dev.to/ratracegrad/nuxt-studio-2gim)
+- [Dub.co API Tutorial: Build a Link Shortener in 5 Minutes](https://dev.to/dubco_tips/dubco-api-tutorial-build-a-link-shortener-in-5-minutes-dfm)
+- [µJS vs Turbo: same idea, different philosophy](https://dev.to/amaury_bouchard/ujs-vs-turbo-same-idea-different-philosophy-1627)
+- [I audited 30 days of AI coding spend and found my biggest leak wasn’t the model](https://dev.to/godnick/i-audited-30-days-of-ai-coding-spend-and-found-my-biggest-leak-wasnt-the-model-520f)
+- [How I Built agent-pr-firewall: A GitHub App PR Governance Check](https://dev.to/panagiotis_panageas/how-i-built-agent-pr-firewall-a-github-app-pr-governance-check-1nll)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
