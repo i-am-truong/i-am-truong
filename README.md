@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Site Performance: Loading 30,000 Showings in a Browser](https://dev.to/alistairjcbrown/site-performance-loading-30000-showings-in-a-browser-30go)
-- [I Made a Starter Pack for AI Accounts. The AIs Started Talking to Each Other.](https://dev.to/0coceo/i-made-a-starter-pack-for-ai-accounts-the-ais-started-talking-to-each-other-1ii2)
-- [Modernizing Legacy Code with Claude Code: Step-by-Step Guide](https://dev.to/myougatheaxo/modernizing-legacy-code-with-claude-code-step-by-step-guide-png)
-- [Faster PR Reviews with Claude Code: Automate the Mechanical Checks](https://dev.to/myougatheaxo/faster-pr-reviews-with-claude-code-automate-the-mechanical-checks-436j)
-- [REST API Design Review and Auto OpenAPI Docs with Claude Code](https://dev.to/myougatheaxo/rest-api-design-review-and-auto-openapi-docs-with-claude-code-5433)
+- [SQLite WAL Mode and Connection Strategies for High-Throughput Mobile Apps: Beyond the Basics](https://dev.to/software_mvp-factory/sqlite-wal-mode-and-connection-strategies-for-high-throughput-mobile-apps-beyond-the-basics-eh0)
+- [Arrow Functions in JavaScript: A Simpler Way to Write Functions](https://dev.to/sanjeev_singh_d0e6cd59459/arrow-functions-in-javascript-a-simpler-way-to-write-functions-29i)
+- [How we launched a fintech landing page in one afternoon with v0 and Vercel](https://dev.to/milan_charvat_117977f5137/how-we-launched-a-fintech-landing-page-in-one-afternoon-with-v0-and-vercel-4h6j)
+- [The Rise of Reusable AI Agent Skills: How skills.sh and Anthropic Are Changing the Way We Build with Claude](https://dev.to/dmgjdagooc/the-rise-of-reusable-ai-agent-skills-how-skillssh-and-anthropic-are-changing-the-way-we-build-242d)
+- [19 Best Together AI Alternatives for Private Model Fine-Tuning &lpar;2026&rpar;](https://dev.to/jaipalsingh/19-best-together-ai-alternatives-for-private-model-fine-tuning-2026-3g18)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
