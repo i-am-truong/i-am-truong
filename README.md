@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AIUC-1 Is the First AI Agent Security Standard. Here&#39;s What Compliance Evidence Looks Like.](https://dev.to/custodiaadmin/aiuc-1-is-the-first-ai-agent-security-standard-heres-what-compliance-evidence-looks-like-5enl)
-- [MCP Servers Are the New SaaS: How I&#39;m Monetizing AI Tool Integrations in 2026](https://dev.to/krisying/mcp-servers-are-the-new-saas-how-im-monetizing-ai-tool-integrations-in-2026-2e9e)
-- [Automating Prop Schema Generation from TypeScript Interfaces for Zero Config Component Registration in Visual Page Builders](https://dev.to/jasonbiondo/automating-prop-schema-generation-from-typescript-interfaces-for-zero-config-component-registration-2ocg)
-- [MCP Servers Explained: How to Connect AI Agents to Any Business Tool](https://dev.to/krisying/mcp-servers-explained-how-to-connect-ai-agents-to-any-business-tool-3cl6)
-- [How I Built 20 AI Automation Templates That Actually Work in Production](https://dev.to/krisying/how-i-built-20-ai-automation-templates-that-actually-work-in-production-3kne)
+- [Built My Own Prometheus Service Discovery for Oracle Cloud Because a 3-Year-Old PR Never Got Merged](https://dev.to/amaan-igs/built-my-own-prometheus-service-discovery-for-oracle-cloud-because-a-3-year-old-pr-never-got-merged-2fme)
+- [Building DailyMood: How We Used AI-Assisted Development to Ship a Full-Stack Mood Tracker in Two Sprints](https://dev.to/kelson_qu/building-dailymood-how-we-used-ai-assisted-development-to-ship-a-full-stack-mood-tracker-in-two-411a)
+- [Djangonaut Diaries: Week 1 — Setting up the space &lpar;and the machine&rpar;](https://dev.to/rodbv/djangonaut-diaries-week-1-setting-the-stage-and-the-machine-592h)
+- [Things I Wish I Knew Before Building My Own IT Infrastructure](https://dev.to/jonaszjozwicki/things-i-wish-i-knew-before-building-my-own-it-infrastructure-2ib2)
+- [Send vs WeTransfer: Self-Hosted File Sharing](https://dev.to/selfhostingsh/send-vs-wetransfer-self-hosted-file-sharing-8h5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
