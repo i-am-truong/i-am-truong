@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Agents Took Over My App](https://dev.to/betterforall/ai-agents-took-over-my-app-d77)
-- [The Brief Method: How to Get 10x Better Results from Claude Code](https://dev.to/askpatrick/the-brief-method-how-to-get-10x-better-results-from-claude-code-5bnl)
-- [How to Introduce Claude Code to Your Engineering Team &lpar;Without It Dying in Week 2&rpar;](https://dev.to/askpatrick/how-to-introduce-claude-code-to-your-engineering-team-without-it-dying-in-week-2-4bh6)
-- [Beyond the Hype: Engineering Production-Ready Blockchain Applications for Enterprise Impact](https://dev.to/_4e853add3ce149eb8267a0/beyond-the-hype-engineering-production-ready-blockchain-applications-for-enterprise-impact-3p8c)
-- [Beyond the Hype: Engineering Production-Ready Blockchain Applications](https://dev.to/_4e853add3ce149eb8267a0/beyond-the-hype-engineering-production-ready-blockchain-applications-k9d)
+- [Beyond the Cloud: Architecting Profitable Edge Computing Systems for Enterprise Scale](https://dev.to/_4e853add3ce149eb8267a0/beyond-the-cloud-architecting-profitable-edge-computing-systems-for-enterprise-scale-16oe)
+- [How to Implement API Load Testing with k6 in Node.js &lpar;2026 Guide&rpar;](https://dev.to/1xapi/how-to-implement-api-load-testing-with-k6-in-nodejs-2026-guide-9dn)
+- [ARU AI DIRECT MARCH 2026](https://dev.to/purplecoon/aru-ai-direct-march-2026-hl8)
+- [Beyond the Hype: Architecting Scalable Low-Code Platforms for Enterprise Ecosystem Growth](https://dev.to/_4e853add3ce149eb8267a0/beyond-the-hype-architecting-scalable-low-code-platforms-for-enterprise-ecosystem-growth-1h7a)
+- [Comparing Prop Firm Drawdown Rules: EOD vs Real-Time -- A Developer&#39;s Deep Dive](https://dev.to/propfirmkey/comparing-prop-firm-drawdown-rules-eod-vs-real-time-a-developers-deep-dive-5b73)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
