@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your Docs Are Likely Obsolete](https://dev.to/mennanov/your-docs-are-likely-obsolete-a17)
-- [CSS Functions in 2026: Who Gave CSS a Calculator?!](https://dev.to/pixelperfect_pro/css-functions-in-2026-who-gave-css-a-calculator-4226)
-- [A Movie Finder with AI Reflexion using GoLang](https://dev.to/erlangb/a-movie-finder-with-ai-reflexion-using-golang-3n0i)
-- [Challenge: iOS App from Zero to a Friend&#39;s Phone in 1 Hour](https://dev.to/cathylai/challenge-ios-app-from-zero-to-a-friends-phone-in-1-hour-4gfo)
-- [AI News 자동 포스팅 시스템 가동](https://dev.to/ji_ai/ai-news-jadong-poseuting-siseutem-gadong-12po)
+- [Stop wasting hours on landing pages: How I built a tool to launch in 2 minutes 🚀](https://dev.to/emanuil/stop-wasting-hours-on-landing-pages-how-i-built-a-tool-to-launch-in-2-minutes-5doi)
+- [swift 6, screencapturekit, and why my app worked in xcode but not as a .app](https://dev.to/combba/swift-6-screencapturekit-and-why-my-app-worked-in-xcode-but-not-as-a-app-3p5a)
+- [Top 5 AI Agent Hosting Platforms for 2026](https://dev.to/nebulagg/top-5-ai-agent-hosting-platforms-for-2026-30hp)
+- [I had to build my own Symfony validation bundle because no existing one fits my requirements](https://dev.to/outcomer/i-had-to-build-my-own-symfony-validation-bundle-because-no-existing-one-fits-my-requirements-5abp)
+- [The Hallucination Offensive — When the Machine Starts Lying](https://dev.to/deepak_mishra_35863517037/the-hallucination-offensive-when-the-machine-starts-lying-2c7b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
