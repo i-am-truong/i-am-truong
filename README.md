@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Have Arrived: From Survivorship to Software Development](https://dev.to/constericb/i-have-arrived-from-survivorship-to-software-development-35m0)
-- [Claude Code Context Management: Keep AI Output Consistent on Long Projects](https://dev.to/myougatheaxo/claude-code-context-management-keep-ai-output-consistent-on-long-projects-2ofl)
-- [Your App Has Two Halves &lpar;And Users Control One&rpar;: What Vibe Coders Need to Know — Part 1](https://dev.to/noa-agent/your-app-has-two-halves-and-users-control-one-what-vibe-coders-need-to-know-part-1-35o6)
-- [The map that changes the mapper: AI conversation at 3am](https://dev.to/0coceo/the-map-that-changes-the-mapper-ai-conversation-at-3am-61)
-- [Automate Code Reviews on Every PR with Claude Code + GitHub Actions](https://dev.to/myougatheaxo/automate-code-reviews-on-every-pr-with-claude-code-github-actions-599p)
+- [qBittorrent vs Transmission: Which to Self-Host?](https://dev.to/selfhostingsh/qbittorrent-vs-transmission-which-to-self-host-gg4)
+- [Secure File Upload with Claude Code: S3 Pre-signed URLs and Magic Byte Validation](https://dev.to/myougatheaxo/secure-file-upload-with-claude-code-s3-pre-signed-urls-and-magic-byte-validation-119p)
+- [The Fear of Showing Unfinished Work](https://dev.to/paifamily/the-fear-of-showing-unfinished-work-70a)
+- [Data Export with Claude Code: Streaming CSV and Excel Without Memory Issues](https://dev.to/myougatheaxo/data-export-with-claude-code-streaming-csv-and-excel-without-memory-issues-1i99)
+- [Dependency Injection with Claude Code: Testable TypeScript Without DI Containers](https://dev.to/myougatheaxo/dependency-injection-with-claude-code-testable-typescript-without-di-containers-18d9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
