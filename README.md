@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Chainlink Price Feeds Work — and When They Can Be Manipulated](https://dev.to/metadevdigital/how-chainlink-price-feeds-work-and-when-they-can-be-manipulated-2hi7)
-- [I Gave My AI Assistant Permanent Memory — Here&#39;s Exactly How](https://dev.to/jeffwitters/i-gave-my-ai-assistant-permanent-memory-heres-exactly-how-1g8l)
-- [Selenium for Automation Testing Using Python](https://dev.to/sri_ram_af45956066fca623f/selenium-for-automation-testing-using-python-b8p)
-- [Seafile vs Syncthing: Server vs Peer-to-Peer](https://dev.to/selfhostingsh/seafile-vs-syncthing-server-vs-peer-to-peer-1om0)
-- [Getting Started with Gemini CLI](https://dev.to/googleai/getting-started-with-gemini-cli-17nm)
+- [Architecting MLOps Connectivity: Balancing Isolation and Communication](https://dev.to/anusha_kuppili/architecting-mlops-connectivity-balancing-isolation-and-communication-1e0j)
+- [Next.js 16 for Beginners: Start Building Full-Stack React Apps](https://dev.to/hamzasehouli/nextjs-16-for-beginners-start-building-full-stack-react-apps-4n4c)
+- [Why Production Databases Break Normalization &lpar;And Why That&#39;s Okay&rpar;](https://dev.to/ayushshrivastav/why-production-databases-break-normalization-and-why-thats-okay-3hih)
+- [Paddle Review 2026: Pros, Cons &amp; Pricing Explained](https://dev.to/onsen/paddle-review-2026-pros-cons-pricing-explained-4cgk)
+- [How I Build Features with Agent Swarms and TDD](https://dev.to/stewartjarod/how-i-build-features-with-agent-swarms-and-tdd-9gd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
