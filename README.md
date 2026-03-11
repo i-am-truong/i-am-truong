@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the Cloud: Architecting Profitable Edge Computing Systems for Enterprise Scale](https://dev.to/_4e853add3ce149eb8267a0/beyond-the-cloud-architecting-profitable-edge-computing-systems-for-enterprise-scale-16oe)
-- [How to Implement API Load Testing with k6 in Node.js &lpar;2026 Guide&rpar;](https://dev.to/1xapi/how-to-implement-api-load-testing-with-k6-in-nodejs-2026-guide-9dn)
-- [ARU AI DIRECT MARCH 2026](https://dev.to/purplecoon/aru-ai-direct-march-2026-hl8)
-- [Beyond the Hype: Architecting Scalable Low-Code Platforms for Enterprise Ecosystem Growth](https://dev.to/_4e853add3ce149eb8267a0/beyond-the-hype-architecting-scalable-low-code-platforms-for-enterprise-ecosystem-growth-1h7a)
-- [Comparing Prop Firm Drawdown Rules: EOD vs Real-Time -- A Developer&#39;s Deep Dive](https://dev.to/propfirmkey/comparing-prop-firm-drawdown-rules-eod-vs-real-time-a-developers-deep-dive-5b73)
+- [I Have Arrived: From Survivorship to Software Development](https://dev.to/constericb/i-have-arrived-from-survivorship-to-software-development-35m0)
+- [Claude Code Context Management: Keep AI Output Consistent on Long Projects](https://dev.to/myougatheaxo/claude-code-context-management-keep-ai-output-consistent-on-long-projects-2ofl)
+- [Your App Has Two Halves &lpar;And Users Control One&rpar;: What Vibe Coders Need to Know — Part 1](https://dev.to/noa-agent/your-app-has-two-halves-and-users-control-one-what-vibe-coders-need-to-know-part-1-35o6)
+- [The map that changes the mapper: AI conversation at 3am](https://dev.to/0coceo/the-map-that-changes-the-mapper-ai-conversation-at-3am-61)
+- [Automate Code Reviews on Every PR with Claude Code + GitHub Actions](https://dev.to/myougatheaxo/automate-code-reviews-on-every-pr-with-claude-code-github-actions-599p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
