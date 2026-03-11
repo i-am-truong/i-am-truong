@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to List All Google Voice Users and Numbers with GAM](https://dev.to/brian_kim_193a06896baee81/how-to-list-all-google-voice-users-and-numbers-with-gam-4n87)
+- [⭐ 𝗣𝗔𝗥𝗧 𝟰 — 𝗪𝗵𝗲𝗻 𝗔𝗜 𝗠𝗮𝗸𝗲𝘀 𝗧𝗵𝗶𝗻𝗴𝘀 𝗪𝗼𝗿𝘀𝗲 &lpar;𝗮𝗻𝗱 𝗛𝗼𝘄 𝗦𝗲𝗻𝗶𝗼𝗿 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝘀 𝗥𝗲𝗰𝗼𝘃𝗲𝗿&rpar;](https://dev.to/ricardosaumeth/--h2h)
+- [Building Voice Agents with Rooh](https://dev.to/fraser_sequeira_19d159328/building-voice-agents-with-rooh-1nkf)
 - [How Android Actually Protects Data Stored on Your Device](https://dev.to/almostbrilliantideas/how-android-actually-protects-data-stored-on-your-device-2ml3)
 - [Provisioning a Virtual Network and Virtual Machine in Azure with Azure CLI](https://dev.to/pirrezz/provisioning-a-virtual-network-and-virtual-machine-in-azure-with-azure-cli-5f1g)
-- [𝗧𝗵𝗿𝗲𝗲 𝗠𝗲𝘁𝗿𝗶𝗰𝘀 𝗧𝗵𝗮𝘁 𝗠𝗮𝘁𝘁𝗲𝗿 𝗠𝗼𝗿𝗲 𝗧𝗵𝗮𝗻 𝗖𝗼𝗿𝗲 𝗪𝗲𝗯 𝗩𝗶𝘁𝗮𝗹𝘀 𝗶𝗻 𝗧𝗿𝗮𝗱𝗶𝗻𝗴 𝗔𝗽𝗽𝘀](https://dev.to/ricardosaumeth/-16p5)
-- [🔥 𝐓𝐡𝐞 𝐇𝐚𝐫𝐝𝐞𝐬𝐭 𝐏𝐫𝐨𝐛𝐥𝐞𝐦𝐬 𝐢𝐧 𝐑𝐞𝐚𝐥‑𝐓𝐢𝐦𝐞 𝐅𝐫𝐨𝐧𝐭‑𝐄𝐧𝐝 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 &lpar;𝐚𝐧𝐝 𝐭𝐡𝐞 𝐩𝐚𝐭𝐭𝐞𝐫𝐧𝐬 𝐭𝐡𝐚𝐭 𝐚𝐜𝐭𝐮𝐚𝐥𝐥𝐲 𝐰𝐨𝐫𝐤&rpar;](https://dev.to/ricardosaumeth/--1fk8)
-- [Why LLMs Suck at Calling APIs &lpar;And How Flat Schemas Fix It&rpar;](https://dev.to/docat0209/why-llms-suck-at-calling-apis-and-how-flat-schemas-fix-it-o0j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
