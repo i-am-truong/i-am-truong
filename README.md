@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Tomorrow: March 12 - MCP, Agents and Skills Meetup](https://dev.to/voxel51/tomorrow-march-12-mcp-agents-and-skills-meetup-1nhh)
-- [A Small Habit That Improves Code Quality](https://dev.to/micro-chel/a-small-habit-that-improves-code-quality-3n36)
-- [Building Xenith: 75% Done, 25 Signups, and the Final Sprint to Launch 🚀](https://dev.to/codebybryant/building-xenith-75-done-25-signups-and-the-final-sprint-to-launch-3djo)
-- [I Let an AI Agent Review My GitHub Repos](https://dev.to/aws-builders/i-let-an-ai-agent-review-my-github-repos-72)
-- [Understanding Word2Vec – Part 6: Two Ways Word2Vec Learns Context](https://dev.to/rijultp/understanding-word2vec-part-6-two-ways-word2vec-learns-context-3ppl)
+- [Design-First or Infrastructure-as-Code? Choosing the Source of Truth for your Solace Broker](https://dev.to/pascalre/design-first-or-infrastructure-as-code-choosing-the-source-of-truth-for-your-solace-broker-33di)
+- [How to Create an SSH Key and configure key-based authenication on your linux server](https://dev.to/altairlage/how-to-create-an-ssh-key-and-configure-key-based-authenication-on-your-linux-server-4fc3)
+- [Your AI Agent is Modifying Its Own Safety Rules](https://dev.to/0coceo/your-ai-agent-is-modifying-its-own-safety-rules-1n49)
+- [8 GLSL Shader Systems in 6 Months: Building Elemental Effects for a Character Animation Engine](https://dev.to/joshtol/8-glsl-shader-systems-in-6-months-building-elemental-effects-for-a-character-animation-engine-2jmb)
+- [Learned a lot from this post - check it out](https://dev.to/jonmarkgo/learned-a-lot-from-this-post-check-it-out-1o3j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
