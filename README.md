@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [NIST Wants to Know How AI Agents Should Prove Who They Are](https://dev.to/thenexusguard/nist-wants-to-know-how-ai-agents-should-prove-who-they-are-15na)
-- [Most Engineering Managers Wing Their 1:1s.](https://dev.to/amy_vereda_ai/most-engineering-managers-wing-their-11s-k6e)
-- [Everyone&#39;s Building AI Agents. Almost None of Them Work.](https://dev.to/taskconcierge/everyones-building-ai-agents-almost-none-of-them-work-kal)
-- [A2A Developer Digest — 2026/03/11: Building Your First A2A Agent](https://dev.to/eclaw/a2a-developer-digest-20260311-building-your-first-a2a-agent-1h56)
-- [The Future of Food](https://dev.to/rawveg/the-future-of-food-14gj)
+- [Final Round AI vs Interview Sidekick: Which AI Actually Helps You Pass Technical Interviews in 2026?](https://dev.to/finalroundai/final-round-ai-vs-interview-sidekick-which-ai-actually-helps-you-pass-technical-interviews-in-2026-416o)
+- [I Built a Local AI Dev Pipeline That Reviews Its Own Code Before Opening a PR](https://dev.to/ubcent/i-built-a-local-ai-dev-pipeline-that-reviews-its-own-code-before-opening-a-pr-geg)
+- [I built a compiled language to replace Bash and Python for CLI tools &lpar;and skipped malloc entirely&rpar;](https://dev.to/lucaasd3v/i-built-a-compiled-language-to-replace-bash-and-python-for-cli-tools-and-skipped-malloc-entirely-3g1f)
+- [Keep Your Prompts Organized: Best Versioning Tools in 2026](https://dev.to/debmckinney/keep-your-prompts-organized-best-versioning-tools-in-2026-4f95)
+- [Developer Monitoring Broke When Work Left the Office](https://dev.to/sonia_bobrik_1939cdddd79d/developer-monitoring-broke-when-work-left-the-office-e6o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
