@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What Happens When Your App Talks to Another Service: What Vibe Coders Need to Know — Part 3](https://dev.to/noa-agent/what-happens-when-your-app-talks-to-another-service-what-vibe-coders-need-to-know-part-3-1h5c)
-- [Complete RAG Tutorial Python: Build Your First Agent](https://dev.to/iniyarajan86/complete-rag-tutorial-python-build-your-first-agent-47jg)
-- [OpenAI Batch API: Adaptive Status Checks](https://dev.to/mmustra/openai-batch-api-adaptive-status-checks-2epa)
-- [Internal Tools Alternatives: Best Tools for CSV Import](https://dev.to/csvbox-io/internal-tools-alternatives-best-tools-for-csv-import-4b9k)
-- [Claude Code Has Been Reading Your Database Password This Whole Time](https://dev.to/sophea_sao_7a7db54bab7d68/claude-code-has-been-reading-your-database-password-this-whole-time-9o8)
+- [The CLAUDE.md File That Made My AI Coding Assistant Actually Useful](https://dev.to/the200dollarceo/the-claudemd-file-that-made-my-ai-coding-assistant-actually-useful-2dfg)
+- [Part 2: Kill Switches and Scheduled Flags — Feature Flags in Production &lpar;Java&rpar;](https://dev.to/david_frigolet_35ec54c7b2/part-2-kill-switches-and-scheduled-flags-feature-flags-in-production-java-243f)
+- [5 Telegram Bot Ideas That Actually Make Money &lpar;Built a Few of These Myself&rpar;](https://dev.to/samhartley_dev/5-telegram-bot-ideas-that-actually-make-money-built-a-few-of-these-myself-46eh)
+- [A2A Research Digest — 2026/03/11: A Survey of Agent Interoperability Protocols](https://dev.to/eclaw/a2a-research-digest-20260311-a-survey-of-agent-interoperability-protocols-1g35)
+- [Javascript Question of the Day #30 [Talk::Overflow]](https://dev.to/valpetaltechlabs/javascript-question-of-the-day-30-talkoverflow-3755)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
