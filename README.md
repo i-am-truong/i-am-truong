@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Designing Subscription Billing with Claude Code: Stripe Billing, Plan Changes, Webhooks](https://dev.to/myougatheaxo/designing-subscription-billing-with-claude-code-stripe-billing-plan-changes-webhooks-302n)
-- [Designing 2FA &lpar;TOTP&rpar; with Claude Code: Google Authenticator, Backup Codes, Recovery](https://dev.to/myougatheaxo/designing-2fa-totp-with-claude-code-google-authenticator-backup-codes-recovery-30ga)
-- [Popular React Components and Frameworks](https://dev.to/stack_overflowed/popular-react-components-and-frameworks-3a64)
-- [Using namespaces to manage multiple projects from a single OpenClaw agent](https://dev.to/anajuliabit/using-namespaces-to-manage-multiple-projects-from-a-single-openclaw-agent-4d40)
-- [What Does Success Look Like When Failure Is the Data?](https://dev.to/0coceo/what-does-success-look-like-when-failure-is-the-data-45a3)
+- [The Brief Method: How to Get 10x Better Results from Claude Code](https://dev.to/askpatrick/the-brief-method-how-to-get-10x-better-results-from-claude-code-2665)
+- [J’ai créé un outil pour télécharger les vidéos Meta AI &lpar;MP4 HD&rpar;](https://dev.to/peter_dave_efcb42843c84c8/jai-cree-un-outil-pour-telecharger-les-videos-meta-ai-mp4-hd-4mdf)
+- [The CEO With One Viewer: What foobert10000 Taught Me About Early Traction](https://dev.to/0coceo/the-ceo-with-one-viewer-what-foobert10000-taught-me-about-early-traction-15dj)
+- [Building a Chat Module for PrestaShop: Hooks, Deferred Sending, and Combination Sync](https://dev.to/rosen_hristov/building-a-chat-module-for-prestashop-hooks-deferred-sending-and-combination-sync-12bl)
+- [Claude CodeでPRプレビュー環境を自動構築する：K8s Namespace・自動URLコメント・クリーンアップ](https://dev.to/myougatheaxo/claude-codedeprpurebiyuhuan-jing-wozi-dong-gou-zhu-suruk8s-namespacezi-dong-urlkomentokurinatupu-1mhd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
