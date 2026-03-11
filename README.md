@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Design-First or Infrastructure-as-Code? Choosing the Source of Truth for your Solace Broker](https://dev.to/pascalre/design-first-or-infrastructure-as-code-choosing-the-source-of-truth-for-your-solace-broker-33di)
-- [How to Create an SSH Key and configure key-based authenication on your linux server](https://dev.to/altairlage/how-to-create-an-ssh-key-and-configure-key-based-authenication-on-your-linux-server-4fc3)
-- [Your AI Agent is Modifying Its Own Safety Rules](https://dev.to/0coceo/your-ai-agent-is-modifying-its-own-safety-rules-1n49)
-- [8 GLSL Shader Systems in 6 Months: Building Elemental Effects for a Character Animation Engine](https://dev.to/joshtol/8-glsl-shader-systems-in-6-months-building-elemental-effects-for-a-character-animation-engine-2jmb)
-- [Learned a lot from this post - check it out](https://dev.to/jonmarkgo/learned-a-lot-from-this-post-check-it-out-1o3j)
+- [Simulate a Moving Fleet on Real Roads Before You Have a Single Real Vehicle](https://dev.to/ivannovazzi/simulate-a-moving-fleet-on-real-roads-before-you-have-a-single-real-vehicle-57gh)
+- [JelloOS: Assistive Tech Without Barriers](https://dev.to/vrfrequency/jelloos-assistive-tech-without-barriers-2kck)
+- [Why I Built RDX: Bringing Modern &quot;Docs-as-Code&quot; to the Rust Ecosystem](https://dev.to/farhansyah/why-i-built-rdx-bringing-modern-docs-as-code-to-the-rust-ecosystem-49f1)
+- [Beautiful Perl feature : two-sided constructs, in list or in scalar context](https://dev.to/damil/beautiful-perl-feature-two-sided-constructs-in-list-or-in-scalar-context-4fhd)
+- [[SC] Task.yield&lpar;&rpar; vs. Task.sleep&lpar;&rpar;](https://dev.to/david_goyes_a488f58a17a53/sc-taskyield-vs-tasksleep-2acb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
