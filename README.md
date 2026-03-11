@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Simulate a Moving Fleet on Real Roads Before You Have a Single Real Vehicle](https://dev.to/ivannovazzi/simulate-a-moving-fleet-on-real-roads-before-you-have-a-single-real-vehicle-57gh)
-- [JelloOS: Assistive Tech Without Barriers](https://dev.to/vrfrequency/jelloos-assistive-tech-without-barriers-2kck)
-- [Why I Built RDX: Bringing Modern &quot;Docs-as-Code&quot; to the Rust Ecosystem](https://dev.to/farhansyah/why-i-built-rdx-bringing-modern-docs-as-code-to-the-rust-ecosystem-49f1)
-- [Beautiful Perl feature : two-sided constructs, in list or in scalar context](https://dev.to/damil/beautiful-perl-feature-two-sided-constructs-in-list-or-in-scalar-context-4fhd)
-- [[SC] Task.yield&lpar;&rpar; vs. Task.sleep&lpar;&rpar;](https://dev.to/david_goyes_a488f58a17a53/sc-taskyield-vs-tasksleep-2acb)
+- [MiniScript Roadmap Update &lpar;March 2026&rpar;](https://dev.to/joestrout/miniscript-roadmap-update-march-2026-41a4)
+- [Why Most AI Infrastructure Fails in Production](https://dev.to/dgopalan/why-most-ai-infrastructure-fails-in-production-4bde)
+- [Welcome to Container Harbour! 🚢 Ep.15](https://dev.to/the-software-s-journey/welcome-to-container-harbour-ep15-1p4c)
+- [Welcome to Container Harbour! 🚢 Ep.14](https://dev.to/the-software-s-journey/welcome-to-container-harbour-ep14-24fj)
+- [Welcome to Container Harbour! 🚢 Ep.13](https://dev.to/the-software-s-journey/welcome-to-container-harbour-ep13-36hj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
