@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Nuxt studio](https://dev.to/ratracegrad/nuxt-studio-2gim)
-- [Dub.co API Tutorial: Build a Link Shortener in 5 Minutes](https://dev.to/dubco_tips/dubco-api-tutorial-build-a-link-shortener-in-5-minutes-dfm)
-- [µJS vs Turbo: same idea, different philosophy](https://dev.to/amaury_bouchard/ujs-vs-turbo-same-idea-different-philosophy-1627)
-- [I audited 30 days of AI coding spend and found my biggest leak wasn’t the model](https://dev.to/godnick/i-audited-30-days-of-ai-coding-spend-and-found-my-biggest-leak-wasnt-the-model-520f)
-- [How I Built agent-pr-firewall: A GitHub App PR Governance Check](https://dev.to/panagiotis_panageas/how-i-built-agent-pr-firewall-a-github-app-pr-governance-check-1nll)
+- [NIST Wants to Know How AI Agents Should Prove Who They Are](https://dev.to/thenexusguard/nist-wants-to-know-how-ai-agents-should-prove-who-they-are-15na)
+- [Most Engineering Managers Wing Their 1:1s.](https://dev.to/amy_vereda_ai/most-engineering-managers-wing-their-11s-k6e)
+- [Everyone&#39;s Building AI Agents. Almost None of Them Work.](https://dev.to/taskconcierge/everyones-building-ai-agents-almost-none-of-them-work-kal)
+- [A2A Developer Digest — 2026/03/11: Building Your First A2A Agent](https://dev.to/eclaw/a2a-developer-digest-20260311-building-your-first-a2a-agent-1h56)
+- [The Future of Food](https://dev.to/rawveg/the-future-of-food-14gj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
