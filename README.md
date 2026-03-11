@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop wasting hours on landing pages: How I built a tool to launch in 2 minutes 🚀](https://dev.to/emanuil/stop-wasting-hours-on-landing-pages-how-i-built-a-tool-to-launch-in-2-minutes-5doi)
-- [swift 6, screencapturekit, and why my app worked in xcode but not as a .app](https://dev.to/combba/swift-6-screencapturekit-and-why-my-app-worked-in-xcode-but-not-as-a-app-3p5a)
-- [Top 5 AI Agent Hosting Platforms for 2026](https://dev.to/nebulagg/top-5-ai-agent-hosting-platforms-for-2026-30hp)
-- [I had to build my own Symfony validation bundle because no existing one fits my requirements](https://dev.to/outcomer/i-had-to-build-my-own-symfony-validation-bundle-because-no-existing-one-fits-my-requirements-5abp)
-- [The Hallucination Offensive — When the Machine Starts Lying](https://dev.to/deepak_mishra_35863517037/the-hallucination-offensive-when-the-machine-starts-lying-2c7b)
+- [AIUC-1 Is the First AI Agent Security Standard. Here&#39;s What Compliance Evidence Looks Like.](https://dev.to/custodiaadmin/aiuc-1-is-the-first-ai-agent-security-standard-heres-what-compliance-evidence-looks-like-5enl)
+- [MCP Servers Are the New SaaS: How I&#39;m Monetizing AI Tool Integrations in 2026](https://dev.to/krisying/mcp-servers-are-the-new-saas-how-im-monetizing-ai-tool-integrations-in-2026-2e9e)
+- [Automating Prop Schema Generation from TypeScript Interfaces for Zero Config Component Registration in Visual Page Builders](https://dev.to/jasonbiondo/automating-prop-schema-generation-from-typescript-interfaces-for-zero-config-component-registration-2ocg)
+- [MCP Servers Explained: How to Connect AI Agents to Any Business Tool](https://dev.to/krisying/mcp-servers-explained-how-to-connect-ai-agents-to-any-business-tool-3cl6)
+- [How I Built 20 AI Automation Templates That Actually Work in Production](https://dev.to/krisying/how-i-built-20-ai-automation-templates-that-actually-work-in-production-3kne)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
