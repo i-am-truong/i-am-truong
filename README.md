@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Windows Containers: Navigating the Path from Monolith to Cloud-Native](https://dev.to/maykol_alfaro/windows-containers-navigating-the-path-from-monolith-to-cloud-native-15fk)
-- [Selenium Simplified — Mouse and Keyboard Actions in Selenium](https://dev.to/saras_growth_space/selenium-simplified-mouse-and-keyboard-actions-in-selenium-1kgl)
-- [Introducing SHONiR CMS Admin Analytics – Simple &amp; Friendly Analytics for Website Owners](https://dev.to/mian6426/introducing-shonir-cms-admin-analytics-simple-friendly-analytics-for-website-owners-9n2)
-- [NVIDIA AI Releases Nemotron-Terminal: A Systematic Data Engineering Pipeline for Scaling LLM Terminal Agents](https://dev.to/pranit_969191dae5411dc6db/nvidia-ai-releases-nemotron-terminal-a-systematic-data-engineering-pipeline-for-scaling-llm-20lp)
-- [I built 37 free dev tools that run entirely in your browser. Looking for feedback](https://dev.to/sn0wfr/i-built-37-free-dev-tools-that-run-entirely-in-your-browser-looking-for-feedback-2gbb)
+- [Open Source Minecraft Server Tools: Why We Built ServerHub and What We Learned](https://dev.to/draginox/open-source-minecraft-server-tools-why-we-built-serverhub-and-what-we-learned-1ldo)
+- [Worst Case Scenario - an online minigame](https://dev.to/lnlenost/worst-case-scenario-an-online-minigame-1089)
+- [Things I Wish I Knew Before Becoming a Web Developer](https://dev.to/micro-chel/things-i-wish-i-knew-before-becoming-a-web-developer-3k8j)
+- [I Built a Free API That Scans 10,000+ Prediction Markets for Arbitrage](https://dev.to/vesper_finch/i-built-a-free-api-that-scans-10000-prediction-markets-for-arbitrage-4kmm)
+- [Looking for Beginner-Friendly Open Source Projects](https://dev.to/encryptman/looking-for-beginner-friendly-open-source-projects-2lle)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
