@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [MiniScript Roadmap Update &lpar;March 2026&rpar;](https://dev.to/joestrout/miniscript-roadmap-update-march-2026-41a4)
-- [Why Most AI Infrastructure Fails in Production](https://dev.to/dgopalan/why-most-ai-infrastructure-fails-in-production-4bde)
-- [Welcome to Container Harbour! 🚢 Ep.15](https://dev.to/the-software-s-journey/welcome-to-container-harbour-ep15-1p4c)
-- [Welcome to Container Harbour! 🚢 Ep.14](https://dev.to/the-software-s-journey/welcome-to-container-harbour-ep14-24fj)
-- [Welcome to Container Harbour! 🚢 Ep.13](https://dev.to/the-software-s-journey/welcome-to-container-harbour-ep13-36hj)
+- [Your Docs Are Likely Obsolete](https://dev.to/mennanov/your-docs-are-likely-obsolete-a17)
+- [CSS Functions in 2026: Who Gave CSS a Calculator?!](https://dev.to/pixelperfect_pro/css-functions-in-2026-who-gave-css-a-calculator-4226)
+- [A Movie Finder with AI Reflexion using GoLang](https://dev.to/erlangb/a-movie-finder-with-ai-reflexion-using-golang-3n0i)
+- [Challenge: iOS App from Zero to a Friend&#39;s Phone in 1 Hour](https://dev.to/cathylai/challenge-ios-app-from-zero-to-a-friends-phone-in-1-hour-4gfo)
+- [AI News 자동 포스팅 시스템 가동](https://dev.to/ji_ai/ai-news-jadong-poseuting-siseutem-gadong-12po)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
