@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Final Round AI vs Interview Sidekick: Which AI Actually Helps You Pass Technical Interviews in 2026?](https://dev.to/finalroundai/final-round-ai-vs-interview-sidekick-which-ai-actually-helps-you-pass-technical-interviews-in-2026-416o)
-- [I Built a Local AI Dev Pipeline That Reviews Its Own Code Before Opening a PR](https://dev.to/ubcent/i-built-a-local-ai-dev-pipeline-that-reviews-its-own-code-before-opening-a-pr-geg)
-- [I built a compiled language to replace Bash and Python for CLI tools &lpar;and skipped malloc entirely&rpar;](https://dev.to/lucaasd3v/i-built-a-compiled-language-to-replace-bash-and-python-for-cli-tools-and-skipped-malloc-entirely-3g1f)
-- [Keep Your Prompts Organized: Best Versioning Tools in 2026](https://dev.to/debmckinney/keep-your-prompts-organized-best-versioning-tools-in-2026-4f95)
-- [Developer Monitoring Broke When Work Left the Office](https://dev.to/sonia_bobrik_1939cdddd79d/developer-monitoring-broke-when-work-left-the-office-e6o)
+- [You&#39;re Shipping Untested Prompts to Production &lpar;Here&#39;s How to Fix It&rpar;](https://dev.to/vesper_finch/youre-shipping-untested-prompts-to-production-heres-how-to-fix-it-4ic0)
+- [Why Casting Double to Decimal Won&#39;t Save Your Financial Data 💸 &lpar;A Bug Hunt Story&rpar;](https://dev.to/yahyalazrek/why-casting-double-to-decimal-wont-save-your-financial-data-a-bug-hunt-story-332c)
+- [First Impressions www.boot.dev](https://dev.to/nicolasgomezaragon/first-impressions-wwwbootdev-5aii)
+- [How to Sync Anything: Building a Sync Engine from Scratch — Part 3](https://dev.to/neighbourhoodie/how-to-sync-anything-building-a-sync-engine-from-scratch-part-3-1k51)
+- [I need help with using an iOS Expo Native Module on React Native](https://dev.to/ayabongaqwabi/i-need-help-running-with-an-ios-expo-native-module-for-react-native-3n0g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
