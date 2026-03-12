@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hello world! My first Baseball Sim - Powered by Python and Gemini AI.](https://dev.to/lee12/hello-world-my-first-baseball-sim-powered-by-python-and-gemini-ai-1pd7)
-- [CVE-2026-32319: CVE-2026-32319: Unauthenticated Denial of Service in Ella Core AMF via Malformed NAS Messages](https://dev.to/cverports/cve-2026-32319-cve-2026-32319-unauthenticated-denial-of-service-in-ella-core-amf-via-malformed-2fb)
-- [The Pentagon vs. Anthropic: Why AI Companies Just Picked Sides](https://dev.to/derivinate/the-pentagon-vs-anthropic-why-ai-companies-just-picked-sides-9ih)
-- [I built a free invoice generator with jsPDF — here&#39;s how the PDF generation works](https://dev.to/acllc/i-built-a-free-invoice-generator-with-jspdf-heres-how-the-pdf-generation-works-ajh)
-- [Netlify Forms Is Getting Expensive. Here Are the Best Alternatives in 2026](https://dev.to/allenarduino/netlify-forms-is-getting-expensive-here-are-the-best-alternatives-in-2026-3a7k)
+- [Amazon Bedrock AgentCore: Quick Reference Guide](https://dev.to/mindy_jen_b0e16e70c2c4202/amazon-bedrock-agentcore-quick-reference-guide-5bh2)
+- [Devlog 4](https://dev.to/no_arms_studio/devlog-4-2d1i)
+- [API Key Security Best Practices Every Developer Should Know.](https://dev.to/affansaas/api-key-security-best-practices-every-developer-should-know-5262)
+- [Claude&#39;s take on the Slawk Codebase &lpar;14-day build&rpar;](https://dev.to/naysmith/claudes-take-on-the-slawk-codebase-14-day-build-26o6)
+- [10 AI Tools Developers Are Using in 2026 &lpar;Complete Guide&rpar;](https://dev.to/aiwithlisa/10-ai-tools-developers-are-using-in-2026-complete-guide-4m2a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
