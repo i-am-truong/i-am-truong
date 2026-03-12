@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Split a Vibe Coding Platform into 8 Microservices Using Domain-Driven Design](https://dev.to/mijura/how-i-split-a-vibe-coding-platform-into-8-microservices-using-domain-driven-design-51c7)
-- [Cursor + Claude: my vibe-coding safety net](https://dev.to/sathish_daggula/cursor-claude-my-vibe-coding-safety-net-3ko1)
-- [Complexity Theory and Project Management: Why Complex Projects Often Fail](https://dev.to/_jeongyuhyeon_03de1/complexity-theory-and-project-management-why-complex-projects-often-fail-1121)
-- [What actually breaks when you run a Claude agent for 6 months](https://dev.to/clawgenesis/what-actually-breaks-when-you-run-a-claude-agent-for-6-months-3d0b)
-- [What is Three.js? And Why Every Developer Should Know It](https://dev.to/deltacraft/-threejstohahe-kasositenazesubetenokai-fa-zhe-gazhi-rubekinanoka-2hl4)
+- [I Built a SaaS in 48 Hours Using Only AI Tools — Here&#39;s What Happened](https://dev.to/__be2942592/i-built-a-saas-in-48-hours-using-only-ai-tools-heres-what-happened-3j72)
+- [7 OpenClaw Security Challenges to Watch for in 2026](https://dev.to/digitalocean/7-openclaw-security-challenges-to-watch-for-in-2026-46b1)
+- [Part 1: Zero-Copy Sharing – Salesforce Snowflake for Analytics](https://dev.to/swaroop_krishna_e2f4b83b2/part-1-zero-copy-sharing-salesforce-snowflake-for-analytics-4f0j)
+- [Sleep Better at Night: Why Unit Testing is Your Secret Weapon for Graded Units 🛡️](https://dev.to/xh1m/sleep-better-at-night-why-unit-testing-is-your-secret-weapon-for-hnd-graded-units-4ce6)
+- [AWS Amplify vs Vercel: Complete Pricing Comparison for Next.js Applications](https://dev.to/u11d-michal-miler/aws-amplify-vs-vercel-complete-pricing-comparison-for-nextjs-applications-1a48)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
