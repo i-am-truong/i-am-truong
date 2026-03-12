@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a SaaS in 48 Hours Using Only AI Tools — Here&#39;s What Happened](https://dev.to/__be2942592/i-built-a-saas-in-48-hours-using-only-ai-tools-heres-what-happened-3j72)
-- [7 OpenClaw Security Challenges to Watch for in 2026](https://dev.to/digitalocean/7-openclaw-security-challenges-to-watch-for-in-2026-46b1)
-- [Part 1: Zero-Copy Sharing – Salesforce Snowflake for Analytics](https://dev.to/swaroop_krishna_e2f4b83b2/part-1-zero-copy-sharing-salesforce-snowflake-for-analytics-4f0j)
-- [Sleep Better at Night: Why Unit Testing is Your Secret Weapon for Graded Units 🛡️](https://dev.to/xh1m/sleep-better-at-night-why-unit-testing-is-your-secret-weapon-for-hnd-graded-units-4ce6)
-- [AWS Amplify vs Vercel: Complete Pricing Comparison for Next.js Applications](https://dev.to/u11d-michal-miler/aws-amplify-vs-vercel-complete-pricing-comparison-for-nextjs-applications-1a48)
+- [How I Structure Every Spring Boot Application as a Senior Developer](https://dev.to/paszekdev/how-i-structure-every-spring-boot-application-as-a-senior-developer-5ack)
+- [50% of Your Users Don&#39;t Have Eyes](https://dev.to/moebiusansa/50-of-your-users-dont-have-eyes-1507)
+- [Building a Crypto Payment Flow](https://dev.to/cryptoesim/building-a-crypto-payment-flow-18b3)
+- [I Built curl for Modbus](https://dev.to/bernardkibathi/i-built-curl-for-modbus-1c42)
+- [Rebuilding domenicotenace.dev: How Pure Astro and CSS Reminded Me That Simple Is Better 🌟](https://dev.to/playfulprogramming/rebuilding-domenicotenacedev-how-pure-astro-and-css-reminded-me-that-simple-is-better-2gpe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
