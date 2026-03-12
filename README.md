@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Can Claude Code Replace a Junior Developer? I Tested It.](https://dev.to/themachinepulse/can-claude-code-replace-a-junior-developer-i-tested-it-f5i)
-- [If you can read the manual, you can change the world](https://dev.to/dakshim/if-you-can-read-the-manual-you-can-change-the-world-43lo)
-- [I Got Tired of Rewriting Macro Boilerplate — So I Built a Template Engine for Proc Macros](https://dev.to/aacebo/i-got-tired-of-rewriting-macro-boilerplate-so-i-built-a-template-engine-for-proc-macros-1do9)
-- [The Anatomy of a Smart Contract Audit: What Auditors Look For](https://dev.to/metadevdigital/the-anatomy-of-a-smart-contract-audit-what-auditors-look-for-1p5j)
-- [I Stopped Posting on Twitter for 2 Months](https://dev.to/deeflect/i-stopped-posting-on-twitter-for-2-months-4l1p)
+- [I built MIAU Browser — open source, privacy-first desktop browser](https://dev.to/leo_e1e2092c2b47b4c01fcb5/i-built-miau-browser-open-source-privacy-first-desktop-browser-235m)
+- [Why Perkoon Exists](https://dev.to/perkoon/why-perkoon-exists-3i8h)
+- [Stop Blocking the Event Loop: A Deep Dive into Node.js Worker Threads and Multithreading](https://dev.to/naveenhere/stop-blocking-the-event-loop-a-deep-dive-into-nodejs-worker-threads-and-multithreading-4hg)
+- [JADEx: A New Practical Null-Safety Solution for Java](https://dev.to/jadex/jadex-a-new-practical-null-safety-solution-for-java-5514)
+- [The X-Axis of Data: How BigQuery Models the Customer Dimension for Agentic AI Decisions](https://dev.to/ramavala/the-x-axis-of-data-how-bigquery-models-the-customer-dimension-for-agentic-ai-decisions-16jh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
