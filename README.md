@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Your E-Commerce Platform Needs ACID Compliance](https://dev.to/momen_hq/why-your-e-commerce-platform-needs-acid-compliance-pl5)
-- [I built an AI hairstyle try-on tool because haircut regret is expensive](https://dev.to/bigben_qin_53328bc8e6cc0e/i-built-an-ai-hairstyle-try-on-tool-because-haircut-regret-is-expensive-4d18)
-- [Building AI-Powered APIs with ASP.NET Core and OpenAI &lpar;.NET 8 Guide&rpar;](https://dev.to/alinabi19/building-ai-powered-apis-with-aspnet-core-and-openai-net-8-guide-2nam)
-- [Why Is NullClaw So Small? A Deep Dive into the 678KB AI Coder](https://dev.to/apilover/why-is-nullclaw-so-small-a-deep-dive-into-the-678kb-ai-coder-24og)
-- [Prometheus Query Language &lpar;PromQL&rpar; Deep Dive](https://dev.to/godofgeeks/prometheus-query-language-promql-deep-dive-51f3)
+- [Like LEGO? Love Python! 🧱🐍 Episode 1: Building Your First Brick](https://dev.to/the-software-s-journey/like-lego-love-python-episode-1-building-your-first-brick-2ddc)
+- [From Microsoft to Bayeslab: Our Year-Long Journey to “Agentic Data Analysis”](https://dev.to/sean_l_dd00862cd5250f3a1c/from-microsoft-to-bayeslab-our-year-long-journey-to-agentic-data-analysis-4m79)
+- [RUST:MY JOURNEY FROM 0 TO 1&lpar;Day 1&rpar;](https://dev.to/jeseekuya/rustmy-journey-from-0-to-1day-1-51co)
+- [experience report: coding a framework with AI](https://dev.to/theodordiaconu/experience-report-coding-a-framework-with-ai-hlj)
+- [I Built an AI Tool That Analyzes Production Logs and Generates Incident Reports](https://dev.to/luke_xue_c05ae565fab26061/i-built-an-ai-tool-that-analyzes-production-logs-and-generates-incident-reports-5603)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
