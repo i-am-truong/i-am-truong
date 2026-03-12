@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Cognitive Costs of AI Chatbots and a Framework for Better Design](https://dev.to/yaaooo/the-cognitive-costs-of-ai-chatbots-and-a-framework-for-better-design-533l)
-- [AI Regex Generator: Build Accurate Patterns from Plain English in Seconds](https://dev.to/luoyao_dev/ai-regex-generator-build-accurate-patterns-from-plain-english-in-seconds-1123)
-- [CVE-2026-26127: CVE-2026-26127: .NET Denial of Service via Base64Url Out-of-Bounds Read](https://dev.to/cverports/cve-2026-26127-cve-2026-26127-net-denial-of-service-via-base64url-out-of-bounds-read-53fb)
-- [Why Your Agent-Extracted Data Is Wrong &lpar;And You Don&#39;t Know It&rpar;](https://dev.to/custodiaadmin/why-your-agent-extracted-data-is-wrong-and-you-dont-know-it-4c87)
-- [How I stopped burning money on AI and attention at the same time &lpar;9 rules for solo builders&rpar;](https://dev.to/godnick/how-i-stopped-burning-money-on-ai-and-attention-at-the-same-time-9-rules-for-solo-builders-5fa2)
+- [The Simplest Way to Integrate Keycloak with Spring Boot 3](https://dev.to/hoanglong2534/the-simplest-way-to-integrate-keycloak-with-spring-boot-3-36h7)
+- [The Death of Transient Memory: Engineering a Zero-Cost B2B LLM Edge Cluster](https://dev.to/asterios07/the-death-of-transient-memory-engineering-a-zero-cost-b2b-llm-edge-cluster-3c2)
+- [The Rain Doesn&#39;t Care About His EMI](https://dev.to/anusha_selvam/the-rain-doesnt-care-about-his-emi-4hcl)
+- [How I Built a Multimodal AI Virtual Stager with the Gemini API and Cloud Run](https://dev.to/corporeal/how-i-built-a-multimodal-ai-virtual-stager-with-the-gemini-api-and-cloud-run-1cjg)
+- [Web App Manifest Creating an Immersive PWA Experience](https://dev.to/tianyaschool/web-app-manifest-creating-an-immersive-pwa-experience-1lb4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
