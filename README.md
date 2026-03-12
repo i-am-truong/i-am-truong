@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [XP-R — Technotes: Slowing Down to Scale: Building Context as a Force Multiplier](https://dev.to/alabex_/xp-r-technotes-slowing-down-to-scale-building-context-as-a-force-multiplier-4mof)
-- [Bridging the Gap - How We Made AI Agents 10x Developers in Our Organization](https://dev.to/sag1v/bridging-the-gap-how-we-made-ai-agents-10x-developers-in-our-organization-p44)
-- [Top 5 AI Agent Tools That Skip the Framework](https://dev.to/nebulagg/top-5-ai-agent-tools-that-skip-the-framework-77c)
-- [How I Built a Verification Layer for Copilot CLI&#39;s Multi-Agent Output](https://dev.to/moonrunnerkc/how-i-built-a-verification-layer-for-copilot-clis-multi-agent-output-4b7h)
-- [Friendly Fire in the Frontend: How Vibe Coding is Sabotaging Your Security Architecture](https://dev.to/deepak_mishra_35863517037/friendly-fire-in-the-frontend-how-vibe-coding-is-sabotaging-your-security-architecture-3j92)
+- [Hello world! My first Baseball Sim - Powered by Python and Gemini AI.](https://dev.to/lee12/hello-world-my-first-baseball-sim-powered-by-python-and-gemini-ai-1pd7)
+- [CVE-2026-32319: CVE-2026-32319: Unauthenticated Denial of Service in Ella Core AMF via Malformed NAS Messages](https://dev.to/cverports/cve-2026-32319-cve-2026-32319-unauthenticated-denial-of-service-in-ella-core-amf-via-malformed-2fb)
+- [The Pentagon vs. Anthropic: Why AI Companies Just Picked Sides](https://dev.to/derivinate/the-pentagon-vs-anthropic-why-ai-companies-just-picked-sides-9ih)
+- [I built a free invoice generator with jsPDF — here&#39;s how the PDF generation works](https://dev.to/acllc/i-built-a-free-invoice-generator-with-jspdf-heres-how-the-pdf-generation-works-ajh)
+- [Netlify Forms Is Getting Expensive. Here Are the Best Alternatives in 2026](https://dev.to/allenarduino/netlify-forms-is-getting-expensive-here-are-the-best-alternatives-in-2026-3a7k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
