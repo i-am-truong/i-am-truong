@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to List All Google Voice Users and Numbers with GAM](https://dev.to/brian_kim_193a06896baee81/how-to-list-all-google-voice-users-and-numbers-with-gam-4n87)
-- [⭐ 𝗣𝗔𝗥𝗧 𝟰 — 𝗪𝗵𝗲𝗻 𝗔𝗜 𝗠𝗮𝗸𝗲𝘀 𝗧𝗵𝗶𝗻𝗴𝘀 𝗪𝗼𝗿𝘀𝗲 &lpar;𝗮𝗻𝗱 𝗛𝗼𝘄 𝗦𝗲𝗻𝗶𝗼𝗿 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝘀 𝗥𝗲𝗰𝗼𝘃𝗲𝗿&rpar;](https://dev.to/ricardosaumeth/--h2h)
-- [Building Voice Agents with Rooh](https://dev.to/fraser_sequeira_19d159328/building-voice-agents-with-rooh-1nkf)
-- [How Android Actually Protects Data Stored on Your Device](https://dev.to/almostbrilliantideas/how-android-actually-protects-data-stored-on-your-device-2ml3)
-- [Provisioning a Virtual Network and Virtual Machine in Azure with Azure CLI](https://dev.to/pirrezz/provisioning-a-virtual-network-and-virtual-machine-in-azure-with-azure-cli-5f1g)
+- [The Cognitive Costs of AI Chatbots and a Framework for Better Design](https://dev.to/yaaooo/the-cognitive-costs-of-ai-chatbots-and-a-framework-for-better-design-533l)
+- [AI Regex Generator: Build Accurate Patterns from Plain English in Seconds](https://dev.to/luoyao_dev/ai-regex-generator-build-accurate-patterns-from-plain-english-in-seconds-1123)
+- [CVE-2026-26127: CVE-2026-26127: .NET Denial of Service via Base64Url Out-of-Bounds Read](https://dev.to/cverports/cve-2026-26127-cve-2026-26127-net-denial-of-service-via-base64url-out-of-bounds-read-53fb)
+- [Why Your Agent-Extracted Data Is Wrong &lpar;And You Don&#39;t Know It&rpar;](https://dev.to/custodiaadmin/why-your-agent-extracted-data-is-wrong-and-you-dont-know-it-4c87)
+- [How I stopped burning money on AI and attention at the same time &lpar;9 rules for solo builders&rpar;](https://dev.to/godnick/how-i-stopped-burning-money-on-ai-and-attention-at-the-same-time-9-rules-for-solo-builders-5fa2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
