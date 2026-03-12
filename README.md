@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Send GET and POST Requests in Postman?](https://dev.to/theodoresummer/how-to-send-get-and-post-requests-in-postman-38d5)
-- [Frontend interview questions you&#39;ll actually get in 2026](https://dev.to/bishoy_bishai/frontend-interview-questions-youll-actually-get-in-2026-1gon)
-- [Learning Python Was a Life-Changing Experience](https://dev.to/mennylevinski/learning-python-was-a-life-changing-experience-18ac)
-- [Fear of AI made me create my own product](https://dev.to/misterion96/fear-of-ai-made-me-create-my-own-product-47gh)
-- [My First Public Project on Python](https://dev.to/pydev69/my-first-public-project-on-python-29ob)
+- [Tabby vs Continue: Self-Hosted Code AI Compared](https://dev.to/selfhostingsh/tabby-vs-continue-self-hosted-code-ai-compared-41ka)
+- [the moment vibecat stopped waiting and started suggesting](https://dev.to/combba/the-moment-vibecat-stopped-waiting-and-started-suggesting-4ek)
+- [The Six Contract Errors I Keep Finding That Human Reviewers Missed](https://dev.to/rmccain_cns/the-six-contract-errors-i-keep-finding-that-human-reviewers-missed-1njk)
+- [I stopped treating AI cost and doomscrolling as separate problems &lpar;solo Mac dev notes&rpar;](https://dev.to/godnick/i-stopped-treating-ai-cost-and-doomscrolling-as-separate-problems-solo-mac-dev-notes-15f9)
+- [Fixing CORS Errors in ASP.NET Core APIs &lpar;The Real Reasons&rpar;](https://dev.to/alinabi19/fixing-cors-errors-in-aspnet-core-apis-the-real-reasons-583c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
