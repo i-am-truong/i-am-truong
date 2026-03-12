@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [15 Claude Code Skills That Replace Repetitive Dev Workflows &lpar;with free /review skill&rpar;](https://dev.to/the200dollarceo/15-claude-code-skills-that-replace-repetitive-dev-workflows-with-free-review-skill-1j4)
-- [Speech-To-Action - Turning Voice Into CLI Pipelines with Whisper.cpp](https://dev.to/artanidos/speech-to-action-turning-voice-into-cli-pipelines-with-whispercpp-49mk)
-- [Y si toda tu empresa funcionara gracias a agentes de IA?](https://dev.to/singarajatech/y-si-toda-tu-empresa-funcionara-gracias-a-agentes-de-ia-g2d)
-- [Qué es DevOps: Guía Completa de Cultura, Herramientas y Carrera [2026]](https://dev.to/devopsfreelance_pro/que-es-devops-guia-completa-de-cultura-herramientas-y-carrera-2026-2190)
-- [How I built root cause analysis into my free API uptime monitor](https://dev.to/acrticsludge/how-i-built-root-cause-analysis-into-my-free-api-uptime-monitor-56pe)
+- [Strapi CMS: The Modern Headless CMS Powering Scalable Digital Experiences](https://dev.to/geekyants-inc/strapi-cms-the-modern-headless-cms-powering-scalable-digital-experiences-29md)
+- [Why &quot;Good Enough&quot; is Killing the Web &lpar;and How We’re Fixing It&rpar;](https://dev.to/bandhan/why-good-enough-is-killing-the-web-and-how-were-fixing-it-1nad)
+- [Your Bedrock Bill Is a Ticking Clock — Here&#39;s How to Stop It](https://dev.to/harisharavindan/your-bedrock-bill-is-a-ticking-clock-heres-how-to-stop-it-1c0i)
+- [Session Bloat Detector v3: Auto-Clear Without CLI Dependency](https://dev.to/adam_cipher/session-bloat-detector-v3-auto-clear-without-cli-dependency-38h6)
+- [Clojure Inheritance… Sort Of](https://dev.to/quoll/clojure-inheritance-sort-of-2i6i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
