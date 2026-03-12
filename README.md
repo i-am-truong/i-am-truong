@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building my first AI lead generation SaaS &lpar;LeadIt&rpar; — MVP architecture](https://dev.to/knihal12/building-my-first-ai-lead-generation-saas-leadit-mvp-architecture-f1d)
-- [I Built an AI Legal OS with 60 Specialized Agents and Real-time Statute Verification](https://dev.to/peter_choe_74edfaa33306ed/i-built-an-ai-legal-os-with-60-specialized-agents-and-real-time-statute-verification-251g)
-- [How I Reduced My OpenAI API Bill by 40% While Building AI Apps](https://dev.to/krishna_mohan_4f7a5232697/how-i-reduced-my-openai-api-bill-by-40-while-building-ai-apps-1c81)
-- [𝗥𝗲𝗮𝗰𝘁 + 𝗧𝘆𝗽𝗲𝗦𝗰𝗿𝗶𝗽𝘁 𝗶𝗻 𝟮𝟬𝟮𝟲: 𝗧𝗵𝗲 𝗣𝗮𝘁𝘁𝗲𝗿𝗻𝘀 𝗧𝗵𝗮𝘁 𝗔𝗰𝘁𝘂𝗮𝗹𝗹𝘆 𝗦𝗰𝗮𝗹𝗲](https://dev.to/ricardosaumeth/--77h)
-- [Build Tic Tac Toe in React &lpar;Frontend Machine Coding Interview&rpar;](https://dev.to/malkeet_singh_b4a6768f132/build-tic-tac-toe-in-react-frontend-machine-coding-interview-66i)
+- [Building a 100% Passwordless Future: Passkeys in Symfony 7.4](https://dev.to/mattleads/building-a-100-passwordless-future-passkeys-in-symfony-74-ajn)
+- [Bypassing Azure Service Bus Session Limits: A Sync-over-Async Pattern for Spring Boot](https://dev.to/shivamsaluja/bypassing-azure-service-bus-session-limits-a-sync-over-async-pattern-for-spring-boot-293k)
+- [2026年第11週 AI 深度週報：政府、電力、安全的三重考驗](https://dev.to/yang_goufang_23c7ba674984/2026nian-di-11zhou-ai-shen-du-zhou-bao-zheng-fu-dian-li-an-quan-de-san-zhong-kao-yan-3e2i)
+- [Google paid me $15,000 for this Prompt Injection bug.](https://dev.to/behi_sec/google-paid-me-15000-for-this-prompt-injection-bug-5fn6)
+- [The Passkey Problem - Why Doesn’t the Watchman Give Me My Own Home Keys?](https://dev.to/adityamitra5102/the-passkey-problem-why-doesnt-the-watchman-give-me-my-own-home-keys-1413)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
