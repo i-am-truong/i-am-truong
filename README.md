@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I got fed up with my city’s bike-share, so I built BiziData](https://dev.to/gcaguilar/i-got-fed-up-with-my-citys-bike-share-so-i-built-bizidata-2mgj)
-- [Why Your RAG System Needs a Graph Database &lpar;Not Just Vectors&rpar;](https://dev.to/nathanhamlett/why-your-rag-system-needs-a-graph-database-not-just-vectors-52i3)
-- [Building Conversational AI: Memory Patterns, Context Management, and Conversation Design](https://dev.to/bspann/building-conversational-ai-memory-patterns-context-management-and-conversation-design-2i58)
-- [Reliable AI Outputs: Function Calling, JSON Mode, and Structured Generation in C#](https://dev.to/bspann/reliable-ai-outputs-function-calling-json-mode-and-structured-generation-in-c-2m87)
-- [I was spending an hour every week on spreadsheets to figure out if my apps were profitable - so I automated it](https://dev.to/domingo56/i-was-spending-an-hour-every-week-on-spreadsheets-to-figure-out-if-my-apps-were-profitable-so-i-2l4)
+- [Running code quality pipelines during AI coding workflows](https://dev.to/toni_antunovi_7d9a99d4fa/running-code-quality-pipelines-during-ai-coding-workflows-55l6)
+- [I built a Chrome extension that eliminates copy-pasting into ChatGPT](https://dev.to/helix_labs_dev/i-built-a-chrome-extension-that-eliminates-copy-pasting-into-chatgpt-123e)
+- [How Architecture Firms Are Using AI to Win More Design Competitions](https://dev.to/aitoolsreview3/how-architecture-firms-are-using-ai-to-win-more-design-competitions-5daf)
+- [How to Add a Form Wizard to Your Website &lpar;React, Angular, Vue, plain JS&rpar;](https://dev.to/surveyjs/how-to-add-a-form-wizard-to-your-website-react-angular-vue-plain-js-198d)
+- [We replaced our agent orchestration server with a git repo](https://dev.to/dinershtein/we-replaced-our-agent-orchestration-server-with-a-git-repo-2ncn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
