@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Simplest Way to Integrate Keycloak with Spring Boot 3](https://dev.to/hoanglong2534/the-simplest-way-to-integrate-keycloak-with-spring-boot-3-36h7)
-- [The Death of Transient Memory: Engineering a Zero-Cost B2B LLM Edge Cluster](https://dev.to/asterios07/the-death-of-transient-memory-engineering-a-zero-cost-b2b-llm-edge-cluster-3c2)
-- [The Rain Doesn&#39;t Care About His EMI](https://dev.to/anusha_selvam/the-rain-doesnt-care-about-his-emi-4hcl)
-- [How I Built a Multimodal AI Virtual Stager with the Gemini API and Cloud Run](https://dev.to/corporeal/how-i-built-a-multimodal-ai-virtual-stager-with-the-gemini-api-and-cloud-run-1cjg)
-- [Web App Manifest Creating an Immersive PWA Experience](https://dev.to/tianyaschool/web-app-manifest-creating-an-immersive-pwa-experience-1lb4)
+- [15 Claude Code Skills That Replace Repetitive Dev Workflows &lpar;with free /review skill&rpar;](https://dev.to/the200dollarceo/15-claude-code-skills-that-replace-repetitive-dev-workflows-with-free-review-skill-1j4)
+- [Speech-To-Action - Turning Voice Into CLI Pipelines with Whisper.cpp](https://dev.to/artanidos/speech-to-action-turning-voice-into-cli-pipelines-with-whispercpp-49mk)
+- [Y si toda tu empresa funcionara gracias a agentes de IA?](https://dev.to/singarajatech/y-si-toda-tu-empresa-funcionara-gracias-a-agentes-de-ia-g2d)
+- [Qué es DevOps: Guía Completa de Cultura, Herramientas y Carrera [2026]](https://dev.to/devopsfreelance_pro/que-es-devops-guia-completa-de-cultura-herramientas-y-carrera-2026-2190)
+- [How I built root cause analysis into my free API uptime monitor](https://dev.to/acrticsludge/how-i-built-root-cause-analysis-into-my-free-api-uptime-monitor-56pe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
