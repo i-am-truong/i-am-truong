@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Arrays vs Objects: Myths, Destructuring &amp; Puzzles That Will Break Your Brain](https://dev.to/buddingdeveloper/javascript-arrays-vs-objects-myths-destructuring-puzzles-that-will-break-your-brain-3g6h)
-- [The day I realized I didn&#39;t actually know Linux](https://dev.to/frank_a_64393c6f49a90e428/the-day-i-realized-i-didnt-actually-know-linux-1iii)
-- [Generative Engine Optimization &lpar;GEO&rpar;: How to Make Your Store Visible to AI Shopping Agents](https://dev.to/ucptools/generative-engine-optimization-geo-how-to-make-your-store-visible-to-ai-shopping-agents-ki1)
-- [The Info-Site: A Name for Something Small Businesses Actually Need](https://dev.to/ziur_/the-info-site-a-name-for-something-small-businesses-actually-need-3cgp)
-- [Weekly SEO Research on Autopilot &lpar;Saving 12 Hours/Month&rpar;](https://dev.to/cristiantalasanchez/weekly-seo-research-on-autopilot-saving-12-hoursmonth-35h7)
+- [How I Split a Vibe Coding Platform into 8 Microservices Using Domain-Driven Design](https://dev.to/mijura/how-i-split-a-vibe-coding-platform-into-8-microservices-using-domain-driven-design-51c7)
+- [Cursor + Claude: my vibe-coding safety net](https://dev.to/sathish_daggula/cursor-claude-my-vibe-coding-safety-net-3ko1)
+- [Complexity Theory and Project Management: Why Complex Projects Often Fail](https://dev.to/_jeongyuhyeon_03de1/complexity-theory-and-project-management-why-complex-projects-often-fail-1121)
+- [What actually breaks when you run a Claude agent for 6 months](https://dev.to/clawgenesis/what-actually-breaks-when-you-run-a-claude-agent-for-6-months-3d0b)
+- [What is Three.js? And Why Every Developer Should Know It](https://dev.to/deltacraft/-threejstohahe-kasositenazesubetenokai-fa-zhe-gazhi-rubekinanoka-2hl4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
