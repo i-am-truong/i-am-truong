@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a 100% Passwordless Future: Passkeys in Symfony 7.4](https://dev.to/mattleads/building-a-100-passwordless-future-passkeys-in-symfony-74-ajn)
-- [Bypassing Azure Service Bus Session Limits: A Sync-over-Async Pattern for Spring Boot](https://dev.to/shivamsaluja/bypassing-azure-service-bus-session-limits-a-sync-over-async-pattern-for-spring-boot-293k)
-- [2026年第11週 AI 深度週報：政府、電力、安全的三重考驗](https://dev.to/yang_goufang_23c7ba674984/2026nian-di-11zhou-ai-shen-du-zhou-bao-zheng-fu-dian-li-an-quan-de-san-zhong-kao-yan-3e2i)
-- [Google paid me $15,000 for this Prompt Injection bug.](https://dev.to/behi_sec/google-paid-me-15000-for-this-prompt-injection-bug-5fn6)
-- [The Passkey Problem - Why Doesn’t the Watchman Give Me My Own Home Keys?](https://dev.to/adityamitra5102/the-passkey-problem-why-doesnt-the-watchman-give-me-my-own-home-keys-1413)
+- [Building Zero-Config LAN Discovery in Node.js &lpar;mDNS + UDP Broadcast&rpar;](https://dev.to/silverstream/building-zero-config-lan-discovery-in-nodejs-mdns-udp-broadcast-44go)
+- [I Built a 1-Click OAuth Flow for VS Code to Stop Copying API Keys](https://dev.to/freerave/i-built-a-1-click-oauth-flow-for-vs-code-to-stop-copying-api-keys-257i)
+- [Building Secure Session Management in NestJS — Refresh Tokens, Device Tracking &amp; Session Revocation&lpar;PART 1&rpar;](https://dev.to/bismark66/building-secure-session-management-in-nestjs-refresh-tokens-device-tracking-session-25n6)
+- [Rendering AutoCAD DXF files in the browser — how and why I built dxf-render](https://dev.to/arbaev/rendering-autocad-dxf-files-in-the-browser-how-and-why-i-built-dxf-render-1h6i)
+- [Why Are We Still Doing GPU Work in JavaScript? &lpar;Live WebGPU Benchmark &amp; Demo🚀&rpar;](https://dev.to/sylwia-lask/why-are-we-still-doing-gpu-work-in-javascript-live-webgpu-benchmark-demo-4j6i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
