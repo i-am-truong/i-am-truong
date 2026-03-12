@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Tabby vs Continue: Self-Hosted Code AI Compared](https://dev.to/selfhostingsh/tabby-vs-continue-self-hosted-code-ai-compared-41ka)
-- [the moment vibecat stopped waiting and started suggesting](https://dev.to/combba/the-moment-vibecat-stopped-waiting-and-started-suggesting-4ek)
-- [The Six Contract Errors I Keep Finding That Human Reviewers Missed](https://dev.to/rmccain_cns/the-six-contract-errors-i-keep-finding-that-human-reviewers-missed-1njk)
-- [I stopped treating AI cost and doomscrolling as separate problems &lpar;solo Mac dev notes&rpar;](https://dev.to/godnick/i-stopped-treating-ai-cost-and-doomscrolling-as-separate-problems-solo-mac-dev-notes-15f9)
-- [Fixing CORS Errors in ASP.NET Core APIs &lpar;The Real Reasons&rpar;](https://dev.to/alinabi19/fixing-cors-errors-in-aspnet-core-apis-the-real-reasons-583c)
+- [Frontend System Design: Image Optimization – Performance](https://dev.to/zeeshanali0704/frontend-system-design-image-optimization-frontend-performance-2ja)
+- [Why I Stopped Building Apps and Started Building an Engine in Flutter](https://dev.to/bhanu_nagpure/why-i-stopped-building-apps-and-started-building-an-engine-in-flutter-406)
+- [SWE-bench Scores Are Lying to You: Half of Passing PRs Wouldnt Be Merged](https://dev.to/benriemer/swe-bench-scores-are-lying-to-you-half-of-passing-prs-wouldnt-be-merged-8h2)
+- [Google Agreed to Pay $32 Billion for Wiz. Here&#39;s Why Cloud Security Was Worth Every Dollar.](https://dev.to/kunal_d6a8fea2309e1571ee7/google-agreed-to-pay-32-billion-for-wiz-heres-why-cloud-security-was-worth-every-dollar-3gmp)
+- [Autonomous AI Research Does Not Need a Giant Framework](https://dev.to/javz/autonomous-ai-research-does-not-need-a-giant-framework-32el)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
