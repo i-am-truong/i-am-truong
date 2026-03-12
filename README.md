@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Bedrock AgentCore: Quick Reference Guide](https://dev.to/mindy_jen_b0e16e70c2c4202/amazon-bedrock-agentcore-quick-reference-guide-5bh2)
-- [Devlog 4](https://dev.to/no_arms_studio/devlog-4-2d1i)
-- [API Key Security Best Practices Every Developer Should Know.](https://dev.to/affansaas/api-key-security-best-practices-every-developer-should-know-5262)
-- [Claude&#39;s take on the Slawk Codebase &lpar;14-day build&rpar;](https://dev.to/naysmith/claudes-take-on-the-slawk-codebase-14-day-build-26o6)
-- [10 AI Tools Developers Are Using in 2026 &lpar;Complete Guide&rpar;](https://dev.to/aiwithlisa/10-ai-tools-developers-are-using-in-2026-complete-guide-4m2a)
+- [How I Built an AI Chatbot Service for Small Businesses as a CS Student &lpar;And Launched It This Week&rpar;](https://dev.to/youssef_abobakr_014266134/how-i-built-an-ai-chatbot-service-for-small-businesses-as-a-cs-student-and-launched-it-this-week-3h57)
+- [Mansão Maromba Distribution Radar](https://dev.to/paulo_abbcba03b4df70572fc/mansao-maromba-distribution-radar-342a)
+- [Clean Architecture: criando sistemas robustos, flexíveis e testáveis](https://dev.to/isac_canedo/clean-architecture-criando-sistemas-robustos-flexiveis-e-testaveis-3f0b)
+- [&quot;Ownership&quot; é um conceito que vai além da posse legal...](https://dev.to/isac_canedo/ownership-e-um-conceito-que-vai-alem-da-posse-legal-101)
+- [Building WatchContact: An AI Chat Analyzer with OCR, Rate Limiting, and a Content Blog](https://dev.to/emrahg/building-watchcontact-an-ai-chat-analyzer-with-ocr-rate-limiting-and-a-content-blog-cph)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
