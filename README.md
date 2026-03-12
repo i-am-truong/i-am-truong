@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Built drift-guard: A CLI to Stop AI Agents from Destroying Your Design](https://dev.to/hwaninet/how-i-built-drift-guard-a-cli-to-stop-ai-agents-from-destroying-your-design-3egc)
-- [Your Agent builds the app. But who tests it?](https://dev.to/flinchify/your-agent-builds-the-app-but-who-tests-it-37jl)
-- [Zenovay vs Plausible: both privacy-first, but different depth](https://dev.to/zenovay/zenovay-vs-plausible-both-privacy-first-but-different-depth-35b3)
-- [What is Actually Happening in AI Right Now — March 2026 Edition](https://dev.to/aibughunter/ai-trends-developers-cant-ignore-right-now-2d5h)
-- [Introducing the `Temporal` Object: A Game-Changer for JavaScript Date Handling](https://dev.to/pritampatil/introducing-the-temporal-object-a-game-changer-for-javascript-date-handling-3n1b)
+- [Why Your E-Commerce Platform Needs ACID Compliance](https://dev.to/momen_hq/why-your-e-commerce-platform-needs-acid-compliance-pl5)
+- [I built an AI hairstyle try-on tool because haircut regret is expensive](https://dev.to/bigben_qin_53328bc8e6cc0e/i-built-an-ai-hairstyle-try-on-tool-because-haircut-regret-is-expensive-4d18)
+- [Building AI-Powered APIs with ASP.NET Core and OpenAI &lpar;.NET 8 Guide&rpar;](https://dev.to/alinabi19/building-ai-powered-apis-with-aspnet-core-and-openai-net-8-guide-2nam)
+- [Why Is NullClaw So Small? A Deep Dive into the 678KB AI Coder](https://dev.to/apilover/why-is-nullclaw-so-small-a-deep-dive-into-the-678kb-ai-coder-24og)
+- [Prometheus Query Language &lpar;PromQL&rpar; Deep Dive](https://dev.to/godofgeeks/prometheus-query-language-promql-deep-dive-51f3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
