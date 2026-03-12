@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Like LEGO? Love Python! 🧱🐍 Episode 1: Building Your First Brick](https://dev.to/the-software-s-journey/like-lego-love-python-episode-1-building-your-first-brick-2ddc)
-- [From Microsoft to Bayeslab: Our Year-Long Journey to “Agentic Data Analysis”](https://dev.to/sean_l_dd00862cd5250f3a1c/from-microsoft-to-bayeslab-our-year-long-journey-to-agentic-data-analysis-4m79)
-- [RUST:MY JOURNEY FROM 0 TO 1&lpar;Day 1&rpar;](https://dev.to/jeseekuya/rustmy-journey-from-0-to-1day-1-51co)
-- [experience report: coding a framework with AI](https://dev.to/theodordiaconu/experience-report-coding-a-framework-with-ai-hlj)
-- [I Built an AI Tool That Analyzes Production Logs and Generates Incident Reports](https://dev.to/luke_xue_c05ae565fab26061/i-built-an-ai-tool-that-analyzes-production-logs-and-generates-incident-reports-5603)
+- [Building my first AI lead generation SaaS &lpar;LeadIt&rpar; — MVP architecture](https://dev.to/knihal12/building-my-first-ai-lead-generation-saas-leadit-mvp-architecture-f1d)
+- [I Built an AI Legal OS with 60 Specialized Agents and Real-time Statute Verification](https://dev.to/peter_choe_74edfaa33306ed/i-built-an-ai-legal-os-with-60-specialized-agents-and-real-time-statute-verification-251g)
+- [How I Reduced My OpenAI API Bill by 40% While Building AI Apps](https://dev.to/krishna_mohan_4f7a5232697/how-i-reduced-my-openai-api-bill-by-40-while-building-ai-apps-1c81)
+- [𝗥𝗲𝗮𝗰𝘁 + 𝗧𝘆𝗽𝗲𝗦𝗰𝗿𝗶𝗽𝘁 𝗶𝗻 𝟮𝟬𝟮𝟲: 𝗧𝗵𝗲 𝗣𝗮𝘁𝘁𝗲𝗿𝗻𝘀 𝗧𝗵𝗮𝘁 𝗔𝗰𝘁𝘂𝗮𝗹𝗹𝘆 𝗦𝗰𝗮𝗹𝗲](https://dev.to/ricardosaumeth/--77h)
+- [Build Tic Tac Toe in React &lpar;Frontend Machine Coding Interview&rpar;](https://dev.to/malkeet_singh_b4a6768f132/build-tic-tac-toe-in-react-frontend-machine-coding-interview-66i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
