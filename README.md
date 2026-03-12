@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Built an AI Chatbot Service for Small Businesses as a CS Student &lpar;And Launched It This Week&rpar;](https://dev.to/youssef_abobakr_014266134/how-i-built-an-ai-chatbot-service-for-small-businesses-as-a-cs-student-and-launched-it-this-week-3h57)
-- [Mansão Maromba Distribution Radar](https://dev.to/paulo_abbcba03b4df70572fc/mansao-maromba-distribution-radar-342a)
-- [Clean Architecture: criando sistemas robustos, flexíveis e testáveis](https://dev.to/isac_canedo/clean-architecture-criando-sistemas-robustos-flexiveis-e-testaveis-3f0b)
-- [&quot;Ownership&quot; é um conceito que vai além da posse legal...](https://dev.to/isac_canedo/ownership-e-um-conceito-que-vai-alem-da-posse-legal-101)
-- [Building WatchContact: An AI Chat Analyzer with OCR, Rate Limiting, and a Content Blog](https://dev.to/emrahg/building-watchcontact-an-ai-chat-analyzer-with-ocr-rate-limiting-and-a-content-blog-cph)
+- [CodeRabbit vs Code Climate: AI PR Review vs Code Quality Platform &lpar;2026&rpar;](https://dev.to/rahulxsingh/coderabbit-vs-code-climate-ai-pr-review-vs-code-quality-platform-2026-2cmo)
+- [I built a real-time AI visual companion in one week from Zambia, here&#39;s what actually happened](https://dev.to/rkchellah/i-built-a-real-time-ai-visual-companion-in-one-week-from-zambia-heres-what-actually-happened-dd4)
+- [Gemini 1.5 Pro Also Drifts. Here&#39;s What Changed in Our Production Prompts.](https://dev.to/clawgenesis/gemini-15-pro-also-drifts-heres-what-changed-in-our-production-prompts-3fid)
+- [How to Add Visual Audit Trails to Your OpenClaw Agent with PageBolt](https://dev.to/custodiaadmin/how-to-add-visual-audit-trails-to-your-openclaw-agent-with-pagebolt-1d89)
+- [I Have 18 GitHub Repos at 17 — Here&#39;s What I Built, Broke, and Learned](https://dev.to/itxashancode/i-have-18-github-repos-at-17-heres-what-i-built-broke-and-learned-3kh9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
