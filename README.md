@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built MIAU Browser — open source, privacy-first desktop browser](https://dev.to/leo_e1e2092c2b47b4c01fcb5/i-built-miau-browser-open-source-privacy-first-desktop-browser-235m)
-- [Why Perkoon Exists](https://dev.to/perkoon/why-perkoon-exists-3i8h)
-- [Stop Blocking the Event Loop: A Deep Dive into Node.js Worker Threads and Multithreading](https://dev.to/naveenhere/stop-blocking-the-event-loop-a-deep-dive-into-nodejs-worker-threads-and-multithreading-4hg)
-- [JADEx: A New Practical Null-Safety Solution for Java](https://dev.to/jadex/jadex-a-new-practical-null-safety-solution-for-java-5514)
-- [The X-Axis of Data: How BigQuery Models the Customer Dimension for Agentic AI Decisions](https://dev.to/ramavala/the-x-axis-of-data-how-bigquery-models-the-customer-dimension-for-agentic-ai-decisions-16jh)
+- [When the Code Writes Itself](https://dev.to/cheetah100/when-the-code-writes-itself-380b)
+- [EXIT Protocol + MCP: Portable AI Agent History](https://dev.to/dogcomplex/exit-protocol-mcp-portable-ai-agent-history-4dj)
+- [Adding Departure Records to Your LangChain Agents](https://dev.to/dogcomplex/adding-departure-records-to-your-langchain-agents-h7o)
+- [I turned OpenAI Symphony into a one-command local workflow for any repo](https://dev.to/ntty/i-turned-openai-symphony-into-a-one-command-local-workflow-for-any-repo-3gop)
+- [I Built an AI Agent That Applies to Jobs While I Sleep](https://dev.to/nathanhamlett/i-built-an-ai-agent-that-applies-to-jobs-while-i-sleep-43og)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
