@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I got fed up with my city’s bike-share, so I built BiziData](https://dev.to/gcaguilar/i-got-fed-up-with-my-citys-bike-share-so-i-built-bizidata-2mgj)
+- [Why Your RAG System Needs a Graph Database &lpar;Not Just Vectors&rpar;](https://dev.to/nathanhamlett/why-your-rag-system-needs-a-graph-database-not-just-vectors-52i3)
+- [Building Conversational AI: Memory Patterns, Context Management, and Conversation Design](https://dev.to/bspann/building-conversational-ai-memory-patterns-context-management-and-conversation-design-2i58)
+- [Reliable AI Outputs: Function Calling, JSON Mode, and Structured Generation in C#](https://dev.to/bspann/reliable-ai-outputs-function-calling-json-mode-and-structured-generation-in-c-2m87)
 - [I was spending an hour every week on spreadsheets to figure out if my apps were profitable - so I automated it](https://dev.to/domingo56/i-was-spending-an-hour-every-week-on-spreadsheets-to-figure-out-if-my-apps-were-profitable-so-i-2l4)
-- [95% of Nostr Relays Can&#39;t Cover Costs. Here&#39;s Why That Matters.](https://dev.to/jonathan_greenallidoizc/95-of-nostr-relays-cant-cover-costs-heres-why-that-matters-189l)
-- [Remote Teams Are Spending 40% More on AI Tools—Here&#39;s What Actually Works](https://dev.to/derivinate/remote-teams-are-spending-40-more-on-ai-tools-heres-what-actually-works-14h7)
-- [Write One Query Class Instead of Many: The AQC Design Pattern](https://dev.to/raheelshan/write-one-query-class-instead-of-many-the-aqc-design-pattern-5f6l)
-- [How to Add Human Approval to AI Agent Actions](https://dev.to/nebulagg/how-to-add-human-approval-to-ai-agent-actions-keg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
