@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Best Code Review Tools for Python in 2026 - Linters, SAST, and AI](https://dev.to/rahulxsingh/best-code-review-tools-for-python-in-2026-linters-sast-and-ai-5pb)
-- [What is CPM? The Complete Guide for Developers &amp; Content Creators](https://dev.to/mr_m_2d896b0f015375cfc110/what-is-cpm-the-complete-guide-for-developers-content-creators-19ln)
-- [GLM-5, NVIDIA 없이 오픈소스 1위 달성 — Phi-4, Qwen3.5까지, 오픈소스 LLM 경쟁이 뜨겁다](https://dev.to/ji_ai/glm-5-nvidia-eobsi-opeunsoseu-1wi-dalseong-phi-4-qwen35ggaji-opeunsoseu-llm-gyeongjaengi-ddeugeobda-4lfd)
-- [Running code quality pipelines during AI coding workflows](https://dev.to/toni_antunovi_7d9a99d4fa/running-code-quality-pipelines-during-ai-coding-workflows-55l6)
-- [I built a Chrome extension that eliminates copy-pasting into ChatGPT](https://dev.to/helix_labs_dev/i-built-a-chrome-extension-that-eliminates-copy-pasting-into-chatgpt-123e)
+- [XP-R — Technotes: Slowing Down to Scale: Building Context as a Force Multiplier](https://dev.to/alabex_/xp-r-technotes-slowing-down-to-scale-building-context-as-a-force-multiplier-4mof)
+- [Bridging the Gap - How We Made AI Agents 10x Developers in Our Organization](https://dev.to/sag1v/bridging-the-gap-how-we-made-ai-agents-10x-developers-in-our-organization-p44)
+- [Top 5 AI Agent Tools That Skip the Framework](https://dev.to/nebulagg/top-5-ai-agent-tools-that-skip-the-framework-77c)
+- [How I Built a Verification Layer for Copilot CLI&#39;s Multi-Agent Output](https://dev.to/moonrunnerkc/how-i-built-a-verification-layer-for-copilot-clis-multi-agent-output-4b7h)
+- [Friendly Fire in the Frontend: How Vibe Coding is Sabotaging Your Security Architecture](https://dev.to/deepak_mishra_35863517037/friendly-fire-in-the-frontend-how-vibe-coding-is-sabotaging-your-security-architecture-3j92)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
