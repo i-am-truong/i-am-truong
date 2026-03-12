@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Structure Every Spring Boot Application as a Senior Developer](https://dev.to/paszekdev/how-i-structure-every-spring-boot-application-as-a-senior-developer-5ack)
-- [50% of Your Users Don&#39;t Have Eyes](https://dev.to/moebiusansa/50-of-your-users-dont-have-eyes-1507)
-- [Building a Crypto Payment Flow](https://dev.to/cryptoesim/building-a-crypto-payment-flow-18b3)
-- [I Built curl for Modbus](https://dev.to/bernardkibathi/i-built-curl-for-modbus-1c42)
-- [Rebuilding domenicotenace.dev: How Pure Astro and CSS Reminded Me That Simple Is Better 🌟](https://dev.to/playfulprogramming/rebuilding-domenicotenacedev-how-pure-astro-and-css-reminded-me-that-simple-is-better-2gpe)
+- [Can Claude Code Replace a Junior Developer? I Tested It.](https://dev.to/themachinepulse/can-claude-code-replace-a-junior-developer-i-tested-it-f5i)
+- [If you can read the manual, you can change the world](https://dev.to/dakshim/if-you-can-read-the-manual-you-can-change-the-world-43lo)
+- [I Got Tired of Rewriting Macro Boilerplate — So I Built a Template Engine for Proc Macros](https://dev.to/aacebo/i-got-tired-of-rewriting-macro-boilerplate-so-i-built-a-template-engine-for-proc-macros-1do9)
+- [The Anatomy of a Smart Contract Audit: What Auditors Look For](https://dev.to/metadevdigital/the-anatomy-of-a-smart-contract-audit-what-auditors-look-for-1p5j)
+- [I Stopped Posting on Twitter for 2 Months](https://dev.to/deeflect/i-stopped-posting-on-twitter-for-2-months-4l1p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
