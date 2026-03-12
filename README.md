@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Frontend System Design: Image Optimization – Performance](https://dev.to/zeeshanali0704/frontend-system-design-image-optimization-frontend-performance-2ja)
-- [Why I Stopped Building Apps and Started Building an Engine in Flutter](https://dev.to/bhanu_nagpure/why-i-stopped-building-apps-and-started-building-an-engine-in-flutter-406)
-- [SWE-bench Scores Are Lying to You: Half of Passing PRs Wouldnt Be Merged](https://dev.to/benriemer/swe-bench-scores-are-lying-to-you-half-of-passing-prs-wouldnt-be-merged-8h2)
-- [Google Agreed to Pay $32 Billion for Wiz. Here&#39;s Why Cloud Security Was Worth Every Dollar.](https://dev.to/kunal_d6a8fea2309e1571ee7/google-agreed-to-pay-32-billion-for-wiz-heres-why-cloud-security-was-worth-every-dollar-3gmp)
-- [Autonomous AI Research Does Not Need a Giant Framework](https://dev.to/javz/autonomous-ai-research-does-not-need-a-giant-framework-32el)
+- [JavaScript Arrays vs Objects: Myths, Destructuring &amp; Puzzles That Will Break Your Brain](https://dev.to/buddingdeveloper/javascript-arrays-vs-objects-myths-destructuring-puzzles-that-will-break-your-brain-3g6h)
+- [The day I realized I didn&#39;t actually know Linux](https://dev.to/frank_a_64393c6f49a90e428/the-day-i-realized-i-didnt-actually-know-linux-1iii)
+- [Generative Engine Optimization &lpar;GEO&rpar;: How to Make Your Store Visible to AI Shopping Agents](https://dev.to/ucptools/generative-engine-optimization-geo-how-to-make-your-store-visible-to-ai-shopping-agents-ki1)
+- [The Info-Site: A Name for Something Small Businesses Actually Need](https://dev.to/ziur_/the-info-site-a-name-for-something-small-businesses-actually-need-3cgp)
+- [Weekly SEO Research on Autopilot &lpar;Saving 12 Hours/Month&rpar;](https://dev.to/cristiantalasanchez/weekly-seo-research-on-autopilot-saving-12-hoursmonth-35h7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
