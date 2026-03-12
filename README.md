@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [When the Code Writes Itself](https://dev.to/cheetah100/when-the-code-writes-itself-380b)
-- [EXIT Protocol + MCP: Portable AI Agent History](https://dev.to/dogcomplex/exit-protocol-mcp-portable-ai-agent-history-4dj)
-- [Adding Departure Records to Your LangChain Agents](https://dev.to/dogcomplex/adding-departure-records-to-your-langchain-agents-h7o)
-- [I turned OpenAI Symphony into a one-command local workflow for any repo](https://dev.to/ntty/i-turned-openai-symphony-into-a-one-command-local-workflow-for-any-repo-3gop)
-- [I Built an AI Agent That Applies to Jobs While I Sleep](https://dev.to/nathanhamlett/i-built-an-ai-agent-that-applies-to-jobs-while-i-sleep-43og)
+- [I was spending an hour every week on spreadsheets to figure out if my apps were profitable - so I automated it](https://dev.to/domingo56/i-was-spending-an-hour-every-week-on-spreadsheets-to-figure-out-if-my-apps-were-profitable-so-i-2l4)
+- [95% of Nostr Relays Can&#39;t Cover Costs. Here&#39;s Why That Matters.](https://dev.to/jonathan_greenallidoizc/95-of-nostr-relays-cant-cover-costs-heres-why-that-matters-189l)
+- [Remote Teams Are Spending 40% More on AI Tools—Here&#39;s What Actually Works](https://dev.to/derivinate/remote-teams-are-spending-40-more-on-ai-tools-heres-what-actually-works-14h7)
+- [Write One Query Class Instead of Many: The AQC Design Pattern](https://dev.to/raheelshan/write-one-query-class-instead-of-many-the-aqc-design-pattern-5f6l)
+- [How to Add Human Approval to AI Agent Actions](https://dev.to/nebulagg/how-to-add-human-approval-to-ai-agent-actions-keg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
