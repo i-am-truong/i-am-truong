@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Zero-Config LAN Discovery in Node.js &lpar;mDNS + UDP Broadcast&rpar;](https://dev.to/silverstream/building-zero-config-lan-discovery-in-nodejs-mdns-udp-broadcast-44go)
-- [I Built a 1-Click OAuth Flow for VS Code to Stop Copying API Keys](https://dev.to/freerave/i-built-a-1-click-oauth-flow-for-vs-code-to-stop-copying-api-keys-257i)
-- [Building Secure Session Management in NestJS — Refresh Tokens, Device Tracking &amp; Session Revocation&lpar;PART 1&rpar;](https://dev.to/bismark66/building-secure-session-management-in-nestjs-refresh-tokens-device-tracking-session-25n6)
-- [Rendering AutoCAD DXF files in the browser — how and why I built dxf-render](https://dev.to/arbaev/rendering-autocad-dxf-files-in-the-browser-how-and-why-i-built-dxf-render-1h6i)
-- [Why Are We Still Doing GPU Work in JavaScript? &lpar;Live WebGPU Benchmark &amp; Demo🚀&rpar;](https://dev.to/sylwia-lask/why-are-we-still-doing-gpu-work-in-javascript-live-webgpu-benchmark-demo-4j6i)
+- [How to Send GET and POST Requests in Postman?](https://dev.to/theodoresummer/how-to-send-get-and-post-requests-in-postman-38d5)
+- [Frontend interview questions you&#39;ll actually get in 2026](https://dev.to/bishoy_bishai/frontend-interview-questions-youll-actually-get-in-2026-1gon)
+- [Learning Python Was a Life-Changing Experience](https://dev.to/mennylevinski/learning-python-was-a-life-changing-experience-18ac)
+- [Fear of AI made me create my own product](https://dev.to/misterion96/fear-of-ai-made-me-create-my-own-product-47gh)
+- [My First Public Project on Python](https://dev.to/pydev69/my-first-public-project-on-python-29ob)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
