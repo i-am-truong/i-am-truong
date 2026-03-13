@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Apps Without the Web Stack](https://dev.to/artanidos/apps-without-the-web-stack-4lop)
-- [UV Scaling vs Texture Size in Unreal Engine](https://dev.to/dinesh_04/uv-scaling-vs-texture-size-in-unreal-engine-2o9m)
-- [I Built a Browser-Based File Transfer Tool Between Phone and PC](https://dev.to/siwetzhou/i-built-a-browser-based-file-transfer-tool-between-phone-and-pc-1f7e)
-- [Architecting Near Real-Time Analytics on GCP: Pub/Sub, Dataflow, and BigQuery](https://dev.to/ramavala/architecting-near-real-time-analytics-on-gcp-pubsub-dataflow-and-bigquery-njl)
-- [I gave an AI agent one prompt and it built a living city in Godot 4](https://dev.to/salvo10f/i-gave-an-ai-agent-one-prompt-and-it-built-a-living-city-in-godot-4-3mlm)
+- [Do any VS Code extensions suggest accessibility fixes while coding?](https://dev.to/daniel_morgan_23/do-any-vs-code-extensions-suggest-accessibility-fixes-while-coding-i2i)
+- [The Three Things Wrong with AI Agents in 2026](https://dev.to/deiu/the-three-things-wrong-with-ai-agents-in-2026-492m)
+- [Lovable AI: Why the AI App Builder Is Suddenly Everywhere](https://dev.to/alifar/lovable-ai-is-everywhere-right-now-heres-how-the-platform-actually-works-3442)
+- [Building ChaCC-API: A personal journey from 2023 to today](https://dev.to/jonas1015/building-chacc-api-a-personal-journey-from-2023-to-today-2oj9)
+- [137 migrations and counting: building a personal OS schema from scratch](https://dev.to/micelclaw/137-migrations-and-counting-building-a-personal-os-schema-from-scratch-31lf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
