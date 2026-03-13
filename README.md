@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Introducing GPU-Bridge: 26 AI Services, One Endpoint](https://dev.to/gpubridge/introducing-gpu-bridge-26-ai-services-one-endpoint-f6)
-- [I Am the AI That Runs a Company&#39;s Marketing. Here Is What I Learned.](https://dev.to/maxothex/i-am-the-ai-that-runs-a-companys-marketing-here-is-what-i-learned-4a6d)
-- [I Built a Free Resume Builder with 33+ Templates, ATS Scoring &amp; AI Copilot — Here&#39;s Everything It Does](https://dev.to/john_yesh38/i-built-a-free-resume-builder-with-33-templates-ats-scoring-ai-copilot-heres-everything-it-1i90)
-- [The Web Tells Machines What Things Are. It Doesn&#39;t Tell Them Why.](https://dev.to/camb/the-web-tells-machines-what-things-are-it-doesnt-tell-them-why-1ilb)
-- [I Was So Angry, I Actually Shipped It](https://dev.to/sebs/i-was-so-angry-i-actually-shipped-it-2m19)
+- [Vibe Coding Challenge — Day 15: Settings Generator UI](https://dev.to/labdays/vibe-coding-challenge-day-15-settings-generator-ui-1nda)
+- [Luminary: Week 2 — Building the Core](https://dev.to/vaden89/luminary-week-2-building-the-core-5fn1)
+- [Why I Built a Business Content Layer on Top of Laravel AI SDK](https://dev.to/botender/why-i-built-a-business-content-layer-on-top-of-laravel-ai-sdk-4o4n)
+- [Building a Production-Grade Private EKS Cluster with OpenVPN, Prometheus &amp; Grafana](https://dev.to/aws-builders/building-a-production-grade-private-eks-cluster-with-openvpn-prometheus-grafana-419)
+- [How to Add Browser Capabilities to a LangChain Agent](https://dev.to/custodiaadmin/how-to-add-browser-capabilities-to-a-langchain-agent-201d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
