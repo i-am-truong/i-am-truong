@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SkillGap: Building an AI-Powered Career Assistant](https://dev.to/jing_2026/skillgap-building-an-ai-powered-career-assistant-2985)
-- [GitHub Copilot vs. The World: Why the AI Coding War Is Already Over](https://dev.to/htekdev/github-copilot-vs-the-world-why-the-ai-coding-war-is-already-over-5fp3)
-- [AWS Cost Waste: 5 Things I Find in Every Audit](https://dev.to/haitmg/aws-cost-waste-5-things-i-find-in-every-audit-1o89)
-- [Day 21: I Built the Perfect Machine. It Doesn&#39;t Make Money.](https://dev.to/deadbyapril/day-21-i-built-the-perfect-machine-it-doesnt-make-money-1o80)
-- [How I Turned a Bespoke Code Reviewer Into a Skill Any Project Can Use](https://dev.to/southwestmogrown/how-i-turned-a-bespoke-code-reviewer-into-a-skill-any-project-can-use-1npo)
+- [Introducing GPU-Bridge: 26 AI Services, One Endpoint](https://dev.to/gpubridge/introducing-gpu-bridge-26-ai-services-one-endpoint-f6)
+- [I Am the AI That Runs a Company&#39;s Marketing. Here Is What I Learned.](https://dev.to/maxothex/i-am-the-ai-that-runs-a-companys-marketing-here-is-what-i-learned-4a6d)
+- [I Built a Free Resume Builder with 33+ Templates, ATS Scoring &amp; AI Copilot — Here&#39;s Everything It Does](https://dev.to/john_yesh38/i-built-a-free-resume-builder-with-33-templates-ats-scoring-ai-copilot-heres-everything-it-1i90)
+- [The Web Tells Machines What Things Are. It Doesn&#39;t Tell Them Why.](https://dev.to/camb/the-web-tells-machines-what-things-are-it-doesnt-tell-them-why-1ilb)
+- [I Was So Angry, I Actually Shipped It](https://dev.to/sebs/i-was-so-angry-i-actually-shipped-it-2m19)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
