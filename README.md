@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Zero to Agent &lpar;Part-I&rpar;](https://dev.to/mindy_jen_phd/from-zero-to-agent-part-i-2he8)
-- [What Is RFC 9457 and How Should APIs Return Errors?](https://dev.to/apilover/what-is-rfc-9457-and-how-should-apis-return-errors-19dj)
-- [We built a video recording API at $0.01/min. Here&#39;s the tech that made it possible.](https://dev.to/danger_cris/we-built-a-video-recording-api-at-001min-heres-the-tech-that-made-it-possible-872)
-- [We Tested Agentic AI Against 525 Real Attacks. Here&#39;s What We Found.](https://dev.to/darklazaruswalks/we-tested-agentic-ai-against-525-real-attacks-heres-what-we-found-13e2)
-- [We Shipped Observation-Based Trust Scoring for AI Agents &lpar;With a Collaborator We Met Through Our Own Protocol&rpar;](https://dev.to/thenexusguard/we-shipped-observation-based-trust-scoring-for-ai-agents-with-a-collaborator-we-met-through-our-1i3o)
+- [Building Drip: An AI-Powered Wardrobe and Outfit Recommender](https://dev.to/hemang_murugan_a9b77a329a/building-drip-an-ai-powered-wardrobe-and-outfit-recommender-m11)
+- [Spring Boot 4.x — A Big Step Forward for Java Developers](https://dev.to/pramod_kumar_0820/spring-boot-4x-a-big-step-forward-for-java-developers-2pma)
+- [Understanding GRC: How to Navigate Risks and Compliance Standards](https://dev.to/mark0_617b45cda9782a/understanding-grc-how-to-navigate-risks-and-compliance-standards-26na)
+- [Kotlin Coroutines: From Callback Hell to Clean Async Code](https://dev.to/suridevs_861b8a311a101be4/kotlin-coroutines-from-callback-hell-to-clean-async-code-5ebl)
+- [Update: pecheck.py Version 0.7.20](https://dev.to/mark0_617b45cda9782a/update-pecheckpy-version-0720-3bh1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
