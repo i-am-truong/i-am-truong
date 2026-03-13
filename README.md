@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [tmate: the fastest way to share your terminal](https://dev.to/odmikes/tmate-the-fastest-way-to-share-your-terminal-17fj)
-- [What Is a Productype?](https://dev.to/voieducode/what-is-a-productype-41f9)
-- [Simple C++ networking libraries don&#39;t exist anymore - here&#39;s the fix.](https://dev.to/nullora/simple-c-networking-libraries-dont-exist-anymore-heres-the-fix-f3d)
-- [Google Only Indexed 2% of My 100,000-Page Site. Here&#39;s What I&#39;m Doing About It.](https://dev.to/apex_stack/google-only-indexed-2-of-my-100000-page-site-heres-what-im-doing-about-it-3jof)
-- [QuizPlay - play certification quizzes straight from GitHub](https://dev.to/taarimalta/quizplay-play-certification-quizzes-straight-from-github-26in)
+- [Why HazelJS Is the Best AI-Native Runtime Platform and Framework](https://dev.to/arslan_mecom/why-hazeljs-is-the-best-ai-native-runtime-platform-and-framework-2di4)
+- [Beyond Prompt Engineering: The Layers of Modern AI Engineering](https://dev.to/naresh_007/beyond-prompt-engineering-the-layers-of-modern-ai-engineering-38j8)
+- [🧑‍💻 Alt Text vs ARIA Labels — What Developers Often Miss](https://dev.to/pawar-shivam7/alt-text-vs-aria-labels-what-developers-often-miss-17j1)
+- [Why I replaced Nexus with a 32MB binary](https://dev.to/devitway/why-i-replaced-nexus-with-a-32mb-binary-470f)
+- [clasp 3 Dropped TypeScript — Here&#39;s a Vite Plugin for Google Apps Script](https://dev.to/wakita181009/clasp-3-dropped-typescript-heres-a-vite-plugin-for-google-apps-script-49k8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
