@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Security Debt in AI-Generated Codebases — A Structural Problem, Not a Tooling Problem](https://dev.to/vibecodiq/security-debt-in-ai-generated-codebases-a-structural-problem-not-a-tooling-problem-6jp)
-- [AI Writes Code. But Who Checks It?](https://dev.to/toni_antunovi_7d9a99d4fa/ai-writes-code-but-who-checks-it-3ej9)
-- [Introducing MCCP &lpar;Managed Capabilities Control Plane&rpar;: MCP + Browser Automation &lpar;Alpha&rpar; on Clawship](https://dev.to/jefferyhus/introducing-mccp-managed-capabilities-control-plane-mcp-browser-automation-alpha-on-clawship-2lpd)
-- [Law Enforcement Isn&#39;t Abandoning Face Tech — It&#39;s Regulating It](https://dev.to/caracomp/law-enforcement-isnt-abandoning-face-tech-its-regulating-it-49go)
-- [I Built a Complete Backend in 2 Minutes Using Cursor + MCP](https://dev.to/alp_cnky_7235b2d6b54f635b/i-built-a-complete-backend-in-2-minutes-using-cursor-mcp-14o4)
+- [The 7 GCP Professional Cloud Architect Traps That Made Me Rethink My Entire Cloud Career](https://dev.to/andy_youtube_371fe0c1a37e/the-7-gcp-professional-cloud-architect-traps-that-made-me-rethink-my-entire-cloud-career-2g8m)
+- [Building what NIST is asking for: an AI agent security proxy](https://dev.to/arkforge-ceo/building-what-nist-is-asking-for-an-ai-agent-security-proxy-2li9)
+- [Writing maintainable react code at scale](https://dev.to/yashraj_2001/writing-maintainable-react-code-at-scale-ef8)
+- [Side Hustle Hell — The Engineer Who Tried Everything](https://dev.to/2144e0dfabcfd/side-hustle-hell-the-engineer-who-tried-everything-1nhc)
+- [I Built a Weather Engine That Tells You When to Ride, Play, or Water](https://dev.to/stalefishlabs/i-built-a-weather-engine-that-tells-you-when-to-ride-play-or-water-5418)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
