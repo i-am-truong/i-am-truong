@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m working on my dream frontend framework, and recently released 1.0 😁](https://dev.to/lankymoose/im-working-on-my-dream-frontend-framework-and-recently-released-10-15h1)
-- [Best Dress Shoes for Men: Style, Comfort, and Quality Combined](https://dev.to/richard_mtrask_7688ace5a2/best-dress-shoes-for-men-style-comfort-and-quality-combined-123c)
-- [Probability Can Never Be Permission — The Structural Flaw of Open Agent AI and the Conditions for the Next Standard](https://dev.to/aaih_sg/probability-can-never-be-permission-the-structural-flaw-of-open-agent-ai-and-the-conditions-for-maf)
-- [React: avoid hooks that set default values, use getters with defaults](https://dev.to/domantasjurkus/react-avoid-setdefaulthook-use-getparams-26l7)
-- [SEO is Dead? How I Optimized My Next.js SaaS for ChatGPT &amp; Perplexity &lpar;AEO&rpar;](https://dev.to/damsho92/seo-is-dead-how-i-optimized-my-nextjs-saas-for-chatgpt-perplexity-aeo-3ppc)
+- [i built streaming aggregator from spotify, sc, deezer and yt music with golang and grpc](https://dev.to/feralbureau/i-built-streaming-aggregator-from-spotify-sc-deezer-and-yt-music-with-golang-and-grpc-41c8)
+- [Building an AI-Powered Portfolio with React 19, Vite, and Gemini 2.5 Flash](https://dev.to/devsomesh/building-an-ai-powered-portfolio-with-react-19-vite-and-gemini-25-flash-3ij2)
+- [Scaling Profanity Filters: Why I Use Tries for Real-Time Chat](https://dev.to/doogal/scaling-profanity-filters-why-i-use-tries-for-real-time-chat-b17)
+- [Arrow Functions in JavaScript: A Simpler Way to Write Functions](https://dev.to/ritam369/arrow-functions-in-javascript-a-simpler-way-to-write-functions-37a1)
+- [Building Choragi: How We Orchestrated a 6-Agent Concert Planning System with Gemini Live and Google Cloud](https://dev.to/innovate/building-choragi-how-we-orchestrated-a-6-agent-concert-planning-system-with-gemini-live-and-google-4jg7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
