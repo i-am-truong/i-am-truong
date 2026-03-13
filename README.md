@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ERC-4337 Smart Account Security: 6 Critical Vulnerabilities That Could Drain Your Wallet](https://dev.to/ohmygod/erc-4337-smart-account-security-6-critical-vulnerabilities-that-could-drain-your-wallet-3e96)
-- [Your AI Hiring Problem Is Not an AI Problem](https://dev.to/hassan_4e2f0901edda/your-ai-hiring-problem-is-not-an-ai-problem-5fnl)
-- [AI Integration Without AI Researchers: What Engineering Teams Actually Need in 2026](https://dev.to/hassan_4e2f0901edda/ai-integration-without-ai-researchers-what-engineering-teams-actually-need-in-2026-36pa)
-- [Series A, Month Three: Why DACH Engineering Teams Stop Growing](https://dev.to/hassan_4e2f0901edda/series-a-month-three-why-dach-engineering-teams-stop-growing-21hn)
-- [Building a Serverless TODO API with AWS SAM, Lambda, DynamoDB and LocalStack](https://dev.to/aws-builders/building-a-serverless-todo-api-with-aws-sam-lambda-dynamodb-and-localstack-10cb)
+- [The Power of Routine: Why Structure Matters for Homeschooling Kids with Autism](https://dev.to/tiffany_young/the-power-of-routine-why-structure-matters-for-homeschooling-kids-with-autism-k7e)
+- [Andrew Huang: My new music experiment](https://dev.to/music_youtube/andrew-huang-my-new-music-experiment-1lhf)
+- [Designing an Expiring Inbox System with Background Workers](https://dev.to/francofuji/designing-an-expiring-inbox-system-with-background-workers-3f22)
+- [The Plain-Text AI Interface](https://dev.to/meimakes/the-plain-text-ai-interface-2217)
+- [How to Read Findings: Fast, Clear, Actionable](https://dev.to/pachilo/how-to-read-findings-fast-clear-actionable-1e20)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
