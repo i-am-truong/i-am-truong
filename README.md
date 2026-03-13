@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Brew: I Built a Real-Time Voice AI Drive-Thru Barista with Gemini Live API and Google ADK](https://dev.to/thilak15/brew-i-built-a-real-time-voice-ai-drive-thru-barista-with-gemini-live-api-and-google-adk-4di5)
-- [When Zero-Knowledge Proofs Break: How Groth16 Verification Key Misconfigs Drained $3M+ From DeFi](https://dev.to/ohmygod/when-zero-knowledge-proofs-break-how-groth16-verification-key-misconfigs-drained-3m-from-defi-47i9)
-- [Gemini Agent vs Microsoft Copilot vs ChatGPT Operator: How they compare](https://dev.to/jubinsoni/gemini-agent-vs-microsoft-copilot-vs-chatgpt-operator-how-they-compare-4k3i)
-- [How I Used PostgreSQL to Diagnose an Ecommerce Revenue Decline](https://dev.to/legacyunlimited/how-i-used-postgresql-to-diagnose-an-ecommerce-revenue-decline-114i)
-- [The Swiss Cheese Model of AI Security — Why Single-Layer Defense Always Fails](https://dev.to/kenimo49/the-swiss-cheese-model-of-ai-security-why-single-layer-defense-always-fails-258l)
+- [Why Every Developer Should Learn Terraform in 2026 &lpar;And How to Start&rpar; -](https://dev.to/aws-builders/why-every-developer-should-learn-terraform-in-2026-and-how-to-start--4fk0)
+- [Multitasking, A NIGHTMARE !](https://dev.to/mdkaifansari04/multitasking-a-nightmare--1e7p)
+- [Getting AI Governance Right](https://dev.to/cheetah100/getting-ai-governance-right-3om9)
+- [Build a Multi-Modal AI Agent with GPU-Bridge &lpar;LLMs + Image + Audio&rpar;](https://dev.to/gpubridge/build-a-multi-modal-ai-agent-with-gpu-bridge-llms-image-audio-2fj4)
+- [There’s no rule that Agents, Skills, Tools or Commands must be LLM-based. Some use cases require 100% accuracy and determinism – for those cases, we can apply these patterns to regular code.](https://dev.to/conw_y/theres-no-rule-that-agents-skills-tools-or-commands-must-be-llm-based-some-use-cases-require-36df)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
