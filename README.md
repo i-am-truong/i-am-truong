@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Balgs Store](https://dev.to/grayxcode/building-balgs-store-2ndg)
-- [I Built a Small Agentic Trading App. It Cost Me a Few Hours and About $0.20 Per Run.](https://dev.to/ionionascu/i-built-a-small-agentic-trading-app-it-cost-me-a-few-hours-and-about-020-per-run-3ikj)
-- [5 Text Tools Every AI Agent Needs: Stats, Embeddings, Markdown, and More with IteraTools](https://dev.to/fredpsantos33/5-text-tools-every-ai-agent-needs-stats-embeddings-markdown-and-more-with-iteratools-58am)
-- [I Built a Test Data Generator for 38 Countries — Here&#39;s What I Learned](https://dev.to/kaustubh_memane/i-built-a-test-data-generator-for-38-countries-heres-what-i-learned-7c)
-- [Why I stopped writing manual test cases: This OpenClaw skill does it for me 🤖✨](https://dev.to/shifu_legend/why-i-stopped-writing-manual-test-cases-this-openclaw-skill-does-it-for-me-3ni2)
+- [tmate: the fastest way to share your terminal](https://dev.to/odmikes/tmate-the-fastest-way-to-share-your-terminal-17fj)
+- [What Is a Productype?](https://dev.to/voieducode/what-is-a-productype-41f9)
+- [Simple C++ networking libraries don&#39;t exist anymore - here&#39;s the fix.](https://dev.to/nullora/simple-c-networking-libraries-dont-exist-anymore-heres-the-fix-f3d)
+- [Google Only Indexed 2% of My 100,000-Page Site. Here&#39;s What I&#39;m Doing About It.](https://dev.to/apex_stack/google-only-indexed-2-of-my-100000-page-site-heres-what-im-doing-about-it-3jof)
+- [QuizPlay - play certification quizzes straight from GitHub](https://dev.to/taarimalta/quizplay-play-certification-quizzes-straight-from-github-26in)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
