@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Do any VS Code extensions suggest accessibility fixes while coding?](https://dev.to/daniel_morgan_23/do-any-vs-code-extensions-suggest-accessibility-fixes-while-coding-i2i)
-- [The Three Things Wrong with AI Agents in 2026](https://dev.to/deiu/the-three-things-wrong-with-ai-agents-in-2026-492m)
-- [Lovable AI: Why the AI App Builder Is Suddenly Everywhere](https://dev.to/alifar/lovable-ai-is-everywhere-right-now-heres-how-the-platform-actually-works-3442)
-- [Building ChaCC-API: A personal journey from 2023 to today](https://dev.to/jonas1015/building-chacc-api-a-personal-journey-from-2023-to-today-2oj9)
-- [137 migrations and counting: building a personal OS schema from scratch](https://dev.to/micelclaw/137-migrations-and-counting-building-a-personal-os-schema-from-scratch-31lf)
+- [I Built 35+ Free Developer Tools as a Solo Dev — Here&#39;s Everything I Learned](https://dev.to/ali83128/i-built-35-free-developer-tools-as-a-solo-dev-heres-everything-i-learned-52dj)
+- [Building a Frontend for a Rust-Based RISC-V Smart Contract on Polkadot: The Flipper Example](https://dev.to/ical10/building-a-frontend-for-a-rust-based-risc-v-smart-contract-on-polkadot-the-flipper-example-3ldb)
+- [Building Joshu: A Real-Time Multimodal AI Assistant with Gemini Live](https://dev.to/parulmalhotraiitk/building-joshu-a-real-time-multimodal-ai-assistant-with-gemini-live-4nca)
+- [Databricks BI Implementation Best Practices for Scalable Enterprise Analytics](https://dev.to/lucy1/databricks-bi-implementation-best-practices-for-scalable-enterprise-analytics-3i9h)
+- [From GreyBox to Styled Video](https://dev.to/artanidos/from-greybox-to-styled-video-41e1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
