@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built 35+ Free Developer Tools as a Solo Dev — Here&#39;s Everything I Learned](https://dev.to/ali83128/i-built-35-free-developer-tools-as-a-solo-dev-heres-everything-i-learned-52dj)
-- [Building a Frontend for a Rust-Based RISC-V Smart Contract on Polkadot: The Flipper Example](https://dev.to/ical10/building-a-frontend-for-a-rust-based-risc-v-smart-contract-on-polkadot-the-flipper-example-3ldb)
-- [Building Joshu: A Real-Time Multimodal AI Assistant with Gemini Live](https://dev.to/parulmalhotraiitk/building-joshu-a-real-time-multimodal-ai-assistant-with-gemini-live-4nca)
-- [Databricks BI Implementation Best Practices for Scalable Enterprise Analytics](https://dev.to/lucy1/databricks-bi-implementation-best-practices-for-scalable-enterprise-analytics-3i9h)
-- [From GreyBox to Styled Video](https://dev.to/artanidos/from-greybox-to-styled-video-41e1)
+- [How to Build a Strapi Plugin That Extends the Admin and Backend](https://dev.to/strapi/how-to-build-a-strapi-plugin-that-extends-the-admin-and-backend-2enj)
+- [Mastering Code Reviews with GitHub Copilot: The Definitive Guide](https://dev.to/pwd9000/mastering-code-reviews-with-github-copilot-the-definitive-guide-3nfp)
+- [Deploying a Rails + SQLite App to a Synology NAS](https://dev.to/julianrubisch/deploying-a-rails-sqlite-app-to-a-synology-nas-2l59)
+- [Automating Cabinet Design: Converting Architectural Drawings into 3D Models with AI](https://dev.to/cizo/automating-cabinet-design-converting-architectural-drawings-into-3d-models-with-ai-5a55)
+- [pnpm Workspaces in Production: What Actually Matters](https://dev.to/silverstream/pnpm-workspaces-in-production-what-actually-matters-16p7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
