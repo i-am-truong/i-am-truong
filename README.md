@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [i built streaming aggregator from spotify, sc, deezer and yt music with golang and grpc](https://dev.to/feralbureau/i-built-streaming-aggregator-from-spotify-sc-deezer-and-yt-music-with-golang-and-grpc-41c8)
-- [Building an AI-Powered Portfolio with React 19, Vite, and Gemini 2.5 Flash](https://dev.to/devsomesh/building-an-ai-powered-portfolio-with-react-19-vite-and-gemini-25-flash-3ij2)
-- [Scaling Profanity Filters: Why I Use Tries for Real-Time Chat](https://dev.to/doogal/scaling-profanity-filters-why-i-use-tries-for-real-time-chat-b17)
-- [Arrow Functions in JavaScript: A Simpler Way to Write Functions](https://dev.to/ritam369/arrow-functions-in-javascript-a-simpler-way-to-write-functions-37a1)
-- [Building Choragi: How We Orchestrated a 6-Agent Concert Planning System with Gemini Live and Google Cloud](https://dev.to/innovate/building-choragi-how-we-orchestrated-a-6-agent-concert-planning-system-with-gemini-live-and-google-4jg7)
+- [Hackeando en 8 bits &lpar;y III&rpar;](https://dev.to/baltasarq/hackeando-en-8-bits-y-iii-i07)
+- [From Terminal to Cloud: A Mac User&#39;s Guide to Deploying Linux on Azure cli](https://dev.to/louis_oodo_a59b230b894609/from-terminal-to-cloud-a-mac-users-guide-to-deploying-linux-on-azure-cli-46d0)
+- [Vim commands I use when precision editing matters](https://dev.to/vimtrickswiki/vim-commands-i-use-when-precision-editing-matters-396k)
+- [Open Code Review: The Missing Quality Gate for AI-Generated Code](https://dev.to/raye_deng_622ab98e19a2147/open-code-review-the-missing-quality-gate-for-ai-generated-code-1p9j)
+- [Vite 8 Is Here — And It Changes Everything About Frontend Builds](https://dev.to/gabrielenache/vite-8-is-here-and-it-changes-everything-about-frontend-builds-45ci)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
