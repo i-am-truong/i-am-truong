@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Claude AI Gets Weirdly Slow After 9 PM &lpar;I Noticed It While Reviewing Code&rpar;](https://dev.to/jeffrin-dev/claude-ai-gets-weirdly-slow-after-9-pm-i-noticed-it-while-reviewing-code-4gia)
-- [The Black Box Syndrome in Outsourcing](https://dev.to/krun_pro/the-black-box-syndrome-in-outsourcing-170d)
-- [Tsarr: a type-safe TypeScript SDK &amp; CLI for the Servarr ecosystem](https://dev.to/robbeverhelst/tsarr-a-type-safe-typescript-sdk-cli-for-the-servarr-ecosystem-55n4)
-- [Everything We Know About the MTG Arena Log File in 2026](https://dev.to/manasightgg/everything-we-know-about-the-mtg-arena-log-file-in-2026-1k7l)
-- [Why asking LLMs to generate React/Nested code is a dead end for Agent UI](https://dev.to/wisethewizard/why-asking-llms-to-generate-reactnested-code-is-a-dead-end-for-agent-ui-2821)
+- [Security Debt in AI-Generated Codebases — A Structural Problem, Not a Tooling Problem](https://dev.to/vibecodiq/security-debt-in-ai-generated-codebases-a-structural-problem-not-a-tooling-problem-6jp)
+- [AI Writes Code. But Who Checks It?](https://dev.to/toni_antunovi_7d9a99d4fa/ai-writes-code-but-who-checks-it-3ej9)
+- [Introducing MCCP &lpar;Managed Capabilities Control Plane&rpar;: MCP + Browser Automation &lpar;Alpha&rpar; on Clawship](https://dev.to/jefferyhus/introducing-mccp-managed-capabilities-control-plane-mcp-browser-automation-alpha-on-clawship-2lpd)
+- [Law Enforcement Isn&#39;t Abandoning Face Tech — It&#39;s Regulating It](https://dev.to/caracomp/law-enforcement-isnt-abandoning-face-tech-its-regulating-it-49go)
+- [I Built a Complete Backend in 2 Minutes Using Cursor + MCP](https://dev.to/alp_cnky_7235b2d6b54f635b/i-built-a-complete-backend-in-2-minutes-using-cursor-mcp-14o4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
