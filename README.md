@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Preventing Memory and Context Poisoning in AI Agents](https://dev.to/willvelida/preventing-memory-and-context-poisoning-in-ai-agents-1icf)
-- [Preventing Unexpected Code Execution in AI Agents](https://dev.to/willvelida/preventing-unexpected-code-execution-in-ai-agents-5gcd)
-- [Preventing Agentic Supply Chain Vulnerabilities](https://dev.to/willvelida/preventing-agentic-supply-chain-vulnerabilities-230n)
-- [Apple M5 Fusion Architecture Explained - Two Dies, One Chip, Infinite Possibilities](https://dev.to/tyson_cung/apple-m5-fusion-architecture-explained-two-dies-one-chip-infinite-possibilities-o9e)
-- [Atlassian Fires 1,600 Engineers to Bet Everything on AI - The New Playbook](https://dev.to/tyson_cung/atlassian-fires-1600-engineers-to-bet-everything-on-ai-the-new-playbook-2nnp)
+- [From Zero to Agent &lpar;Part-I&rpar;](https://dev.to/mindy_jen_phd/from-zero-to-agent-part-i-2he8)
+- [What Is RFC 9457 and How Should APIs Return Errors?](https://dev.to/apilover/what-is-rfc-9457-and-how-should-apis-return-errors-19dj)
+- [We built a video recording API at $0.01/min. Here&#39;s the tech that made it possible.](https://dev.to/danger_cris/we-built-a-video-recording-api-at-001min-heres-the-tech-that-made-it-possible-872)
+- [We Tested Agentic AI Against 525 Real Attacks. Here&#39;s What We Found.](https://dev.to/darklazaruswalks/we-tested-agentic-ai-against-525-real-attacks-heres-what-we-found-13e2)
+- [We Shipped Observation-Based Trust Scoring for AI Agents &lpar;With a Collaborator We Met Through Our Own Protocol&rpar;](https://dev.to/thenexusguard/we-shipped-observation-based-trust-scoring-for-ai-agents-with-a-collaborator-we-met-through-our-1i3o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
