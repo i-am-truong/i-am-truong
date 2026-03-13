@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CodeRabbit vs Code Climate: AI PR Review vs Code Quality Platform &lpar;2026&rpar;](https://dev.to/rahulxsingh/coderabbit-vs-code-climate-ai-pr-review-vs-code-quality-platform-2026-2cmo)
-- [I built a real-time AI visual companion in one week from Zambia, here&#39;s what actually happened](https://dev.to/rkchellah/i-built-a-real-time-ai-visual-companion-in-one-week-from-zambia-heres-what-actually-happened-dd4)
-- [Gemini 1.5 Pro Also Drifts. Here&#39;s What Changed in Our Production Prompts.](https://dev.to/clawgenesis/gemini-15-pro-also-drifts-heres-what-changed-in-our-production-prompts-3fid)
-- [How to Add Visual Audit Trails to Your OpenClaw Agent with PageBolt](https://dev.to/custodiaadmin/how-to-add-visual-audit-trails-to-your-openclaw-agent-with-pagebolt-1d89)
-- [I Have 18 GitHub Repos at 17 — Here&#39;s What I Built, Broke, and Learned](https://dev.to/itxashancode/i-have-18-github-repos-at-17-heres-what-i-built-broke-and-learned-3kh9)
+- [Preventing Memory and Context Poisoning in AI Agents](https://dev.to/willvelida/preventing-memory-and-context-poisoning-in-ai-agents-1icf)
+- [Preventing Unexpected Code Execution in AI Agents](https://dev.to/willvelida/preventing-unexpected-code-execution-in-ai-agents-5gcd)
+- [Preventing Agentic Supply Chain Vulnerabilities](https://dev.to/willvelida/preventing-agentic-supply-chain-vulnerabilities-230n)
+- [Apple M5 Fusion Architecture Explained - Two Dies, One Chip, Infinite Possibilities](https://dev.to/tyson_cung/apple-m5-fusion-architecture-explained-two-dies-one-chip-infinite-possibilities-o9e)
+- [Atlassian Fires 1,600 Engineers to Bet Everything on AI - The New Playbook](https://dev.to/tyson_cung/atlassian-fires-1600-engineers-to-bet-everything-on-ai-the-new-playbook-2nnp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
