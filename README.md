@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Power of Routine: Why Structure Matters for Homeschooling Kids with Autism](https://dev.to/tiffany_young/the-power-of-routine-why-structure-matters-for-homeschooling-kids-with-autism-k7e)
-- [Andrew Huang: My new music experiment](https://dev.to/music_youtube/andrew-huang-my-new-music-experiment-1lhf)
-- [Designing an Expiring Inbox System with Background Workers](https://dev.to/francofuji/designing-an-expiring-inbox-system-with-background-workers-3f22)
-- [The Plain-Text AI Interface](https://dev.to/meimakes/the-plain-text-ai-interface-2217)
-- [How to Read Findings: Fast, Clear, Actionable](https://dev.to/pachilo/how-to-read-findings-fast-clear-actionable-1e20)
+- [Claude AI Gets Weirdly Slow After 9 PM &lpar;I Noticed It While Reviewing Code&rpar;](https://dev.to/jeffrin-dev/claude-ai-gets-weirdly-slow-after-9-pm-i-noticed-it-while-reviewing-code-4gia)
+- [The Black Box Syndrome in Outsourcing](https://dev.to/krun_pro/the-black-box-syndrome-in-outsourcing-170d)
+- [Tsarr: a type-safe TypeScript SDK &amp; CLI for the Servarr ecosystem](https://dev.to/robbeverhelst/tsarr-a-type-safe-typescript-sdk-cli-for-the-servarr-ecosystem-55n4)
+- [Everything We Know About the MTG Arena Log File in 2026](https://dev.to/manasightgg/everything-we-know-about-the-mtg-arena-log-file-in-2026-1k7l)
+- [Why asking LLMs to generate React/Nested code is a dead end for Agent UI](https://dev.to/wisethewizard/why-asking-llms-to-generate-reactnested-code-is-a-dead-end-for-agent-ui-2821)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
