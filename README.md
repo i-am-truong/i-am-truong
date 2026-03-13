@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Vibe Coding Challenge — Day 15: Settings Generator UI](https://dev.to/labdays/vibe-coding-challenge-day-15-settings-generator-ui-1nda)
-- [Luminary: Week 2 — Building the Core](https://dev.to/vaden89/luminary-week-2-building-the-core-5fn1)
-- [Why I Built a Business Content Layer on Top of Laravel AI SDK](https://dev.to/botender/why-i-built-a-business-content-layer-on-top-of-laravel-ai-sdk-4o4n)
-- [Building a Production-Grade Private EKS Cluster with OpenVPN, Prometheus &amp; Grafana](https://dev.to/aws-builders/building-a-production-grade-private-eks-cluster-with-openvpn-prometheus-grafana-419)
-- [How to Add Browser Capabilities to a LangChain Agent](https://dev.to/custodiaadmin/how-to-add-browser-capabilities-to-a-langchain-agent-201d)
+- [Brew: I Built a Real-Time Voice AI Drive-Thru Barista with Gemini Live API and Google ADK](https://dev.to/thilak15/brew-i-built-a-real-time-voice-ai-drive-thru-barista-with-gemini-live-api-and-google-adk-4di5)
+- [When Zero-Knowledge Proofs Break: How Groth16 Verification Key Misconfigs Drained $3M+ From DeFi](https://dev.to/ohmygod/when-zero-knowledge-proofs-break-how-groth16-verification-key-misconfigs-drained-3m-from-defi-47i9)
+- [Gemini Agent vs Microsoft Copilot vs ChatGPT Operator: How they compare](https://dev.to/jubinsoni/gemini-agent-vs-microsoft-copilot-vs-chatgpt-operator-how-they-compare-4k3i)
+- [How I Used PostgreSQL to Diagnose an Ecommerce Revenue Decline](https://dev.to/legacyunlimited/how-i-used-postgresql-to-diagnose-an-ecommerce-revenue-decline-114i)
+- [The Swiss Cheese Model of AI Security — Why Single-Layer Defense Always Fails](https://dev.to/kenimo49/the-swiss-cheese-model-of-ai-security-why-single-layer-defense-always-fails-258l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
