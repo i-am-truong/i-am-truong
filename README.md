@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Параллелизм в ruby 1: создаем потоки](https://dev.to/kopylov_vlad/parallielizm-v-ruby-1-sozdaiem-potoki-2i83)
-- [We Scanned 17 Popular MCP Servers — Here&#39;s What We Found](https://dev.to/elliotllliu/we-scanned-17-popular-mcp-servers-heres-what-we-found-321c)
-- [Orchestrating a Team of AI Agents from a Single CLI](https://dev.to/oxgeneral/orchestrating-a-team-of-ai-agents-from-a-single-cli-4h6)
-- [The OWASP Smart Contract Top 10: 2026 — Every Vulnerability Explained With Real Exploits](https://dev.to/ohmygod/the-owasp-smart-contract-top-10-2026-every-vulnerability-explained-with-real-exploits-i30)
-- [Update and Maintain Resources in Azure - Control Storage Access](https://dev.to/fredrick_chukwuma_13220c9/update-and-maintain-resources-in-azure-control-storage-access-4jg7)
+- [How to Trade on the XRP Ledger DEX Without a Centralized Exchange](https://dev.to/nyxagi/how-to-trade-on-the-xrp-ledger-dex-without-a-centralized-exchange-1ng1)
+- [I Tracked My Claude Code Token Spend for a Week. Here&#39;s What Actually Surprised Me.](https://dev.to/godnick/i-tracked-my-claude-code-token-spend-for-a-week-heres-what-actually-surprised-me-34o1)
+- [The Fastest Way to Share Live HTML Previews Without a Server](https://dev.to/htmlsave/the-fastest-way-to-share-live-html-previews-without-a-server-4dgj)
+- [Building Developer Tools That Scale: Lessons from Email Infrastructure](https://dev.to/francofuji/building-developer-tools-that-scale-lessons-from-email-infrastructure-161b)
+- [Solana Upgrade Authority Security: The $40M Lesson Most Protocols Haven&#39;t Learned](https://dev.to/ohmygod/solana-upgrade-authority-security-the-40m-lesson-most-protocols-havent-learned-2g42)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
