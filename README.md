@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hackeando en 8 bits &lpar;y III&rpar;](https://dev.to/baltasarq/hackeando-en-8-bits-y-iii-i07)
-- [From Terminal to Cloud: A Mac User&#39;s Guide to Deploying Linux on Azure cli](https://dev.to/louis_oodo_a59b230b894609/from-terminal-to-cloud-a-mac-users-guide-to-deploying-linux-on-azure-cli-46d0)
-- [Vim commands I use when precision editing matters](https://dev.to/vimtrickswiki/vim-commands-i-use-when-precision-editing-matters-396k)
-- [Open Code Review: The Missing Quality Gate for AI-Generated Code](https://dev.to/raye_deng_622ab98e19a2147/open-code-review-the-missing-quality-gate-for-ai-generated-code-1p9j)
-- [Vite 8 Is Here — And It Changes Everything About Frontend Builds](https://dev.to/gabrielenache/vite-8-is-here-and-it-changes-everything-about-frontend-builds-45ci)
+- [ERC-4337 Smart Account Security: 6 Critical Vulnerabilities That Could Drain Your Wallet](https://dev.to/ohmygod/erc-4337-smart-account-security-6-critical-vulnerabilities-that-could-drain-your-wallet-3e96)
+- [Your AI Hiring Problem Is Not an AI Problem](https://dev.to/hassan_4e2f0901edda/your-ai-hiring-problem-is-not-an-ai-problem-5fnl)
+- [AI Integration Without AI Researchers: What Engineering Teams Actually Need in 2026](https://dev.to/hassan_4e2f0901edda/ai-integration-without-ai-researchers-what-engineering-teams-actually-need-in-2026-36pa)
+- [Series A, Month Three: Why DACH Engineering Teams Stop Growing](https://dev.to/hassan_4e2f0901edda/series-a-month-three-why-dach-engineering-teams-stop-growing-21hn)
+- [Building a Serverless TODO API with AWS SAM, Lambda, DynamoDB and LocalStack](https://dev.to/aws-builders/building-a-serverless-todo-api-with-aws-sam-lambda-dynamodb-and-localstack-10cb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
