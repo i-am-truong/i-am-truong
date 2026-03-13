@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Drip: An AI-Powered Wardrobe and Outfit Recommender](https://dev.to/hemang_murugan_a9b77a329a/building-drip-an-ai-powered-wardrobe-and-outfit-recommender-m11)
-- [Spring Boot 4.x — A Big Step Forward for Java Developers](https://dev.to/pramod_kumar_0820/spring-boot-4x-a-big-step-forward-for-java-developers-2pma)
-- [Understanding GRC: How to Navigate Risks and Compliance Standards](https://dev.to/mark0_617b45cda9782a/understanding-grc-how-to-navigate-risks-and-compliance-standards-26na)
-- [Kotlin Coroutines: From Callback Hell to Clean Async Code](https://dev.to/suridevs_861b8a311a101be4/kotlin-coroutines-from-callback-hell-to-clean-async-code-5ebl)
-- [Update: pecheck.py Version 0.7.20](https://dev.to/mark0_617b45cda9782a/update-pecheckpy-version-0720-3bh1)
+- [Secure Gemini CLI for Cloud development](https://dev.to/googleai/secure-gemini-cli-for-cloud-development-2mpe)
+- [Every &quot;I Automated My Business&quot; Post Is Lying To You &lpar;Here&#39;s What They Cut Out&rpar;](https://dev.to/mrlinuncut/every-i-automated-my-business-post-is-lying-to-you-heres-what-they-cut-out-3a4j)
+- [I Tested 10 Shadcn Templates for Next.js Projects &lpar;Here Are the Best Ones&rpar;](https://dev.to/vaibhavg/i-tested-shadcn-templates-for-nextjs-projects-32p6)
+- [Por qué pusimos un CDN frente a nuestro balanceador de carga &lpar;y por qué las cookies fueron el verdadero problema&rpar;](https://dev.to/davidcuy/por-que-pusimos-un-cdn-frente-a-nuestro-balanceador-de-carga-y-por-que-las-cookies-fueron-el-4mfh)
+- [Design or Die: How UX Decides the Fate of Fintech Apps](https://dev.to/geekyants-inc/design-or-die-how-ux-decides-the-fate-of-fintech-apps-302o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
