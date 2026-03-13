@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [An LLM Is Not a Deficient Mind](https://dev.to/romanonthego/an-llm-is-not-a-deficient-mind-234l)
-- [How Developers Can Prevent Frontend Wallet Drainer Attacks: A Case Study of the BONK.fun Hack](https://dev.to/cryip/how-developers-can-prevent-frontend-wallet-drainer-attacks-a-case-study-of-the-bonkfun-hack-29k4)
-- [Connecting power bi to SQL databases locally and through cloud service.](https://dev.to/maggy_njuguna/connecting-power-bi-to-sql-databases-locally-and-through-cloud-service-4876)
-- [ما هو التوكن؟ الدليل النهائي لأمن API](https://dev.to/yusuf_khalidd/m-hw-ltwkn-ldlyl-lnhyy-lmn-api-fbd)
-- [Tokenização: Guia Completo para Segurança de API](https://dev.to/lucas_ferreira/tokenizacao-guia-completo-para-seguranca-de-api-4eo5)
+- [I&#39;m working on my dream frontend framework, and recently released 1.0 😁](https://dev.to/lankymoose/im-working-on-my-dream-frontend-framework-and-recently-released-10-15h1)
+- [Best Dress Shoes for Men: Style, Comfort, and Quality Combined](https://dev.to/richard_mtrask_7688ace5a2/best-dress-shoes-for-men-style-comfort-and-quality-combined-123c)
+- [Probability Can Never Be Permission — The Structural Flaw of Open Agent AI and the Conditions for the Next Standard](https://dev.to/aaih_sg/probability-can-never-be-permission-the-structural-flaw-of-open-agent-ai-and-the-conditions-for-maf)
+- [React: avoid hooks that set default values, use getters with defaults](https://dev.to/domantasjurkus/react-avoid-setdefaulthook-use-getparams-26l7)
+- [SEO is Dead? How I Optimized My Next.js SaaS for ChatGPT &amp; Perplexity &lpar;AEO&rpar;](https://dev.to/damsho92/seo-is-dead-how-i-optimized-my-nextjs-saas-for-chatgpt-perplexity-aeo-3ppc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
