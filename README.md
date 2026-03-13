@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Copilot CLI Weekly: PR Workflows, Extensions, and Multi-Turn Background Agents](https://dev.to/htekdev/copilot-cli-weekly-pr-workflows-extensions-and-multi-turn-background-agents-37bj)
-- [Hawkeye - open source flight recorder &amp; guardrails for AI agents before things go wrong](https://dev.to/darkninja/hawkeye-open-source-flight-recorder-guardrails-for-ai-agents-before-things-go-wrong-4k31)
-- [Python Baseball Sim Update: Adding Pitcher Logic and JSON Data Support](https://dev.to/lee12/python-baseball-sim-update-adding-pitcher-logic-and-json-data-support-2ja9)
-- [Implementing Visual Audit Trails for LLM Agents in Production — A Step-by-Step Guide](https://dev.to/custodiaadmin/implementing-visual-audit-trails-for-llm-agents-in-production-a-step-by-step-guide-3p83)
-- [Deploying a FastAPI App to Render: Taking Your API Live](https://dev.to/ghost_script/deploying-a-fastapi-app-to-render-taking-your-api-live-59bp)
+- [How to Automate Product Walkthroughs and Onboarding Videos Without Screen Recording Software](https://dev.to/custodiaadmin/how-to-automate-product-walkthroughs-and-onboarding-videos-without-screen-recording-software-31d5)
+- [agentlens, unworldly, and the text audit trail gap — why visual replay is still missing](https://dev.to/custodiaadmin/agentlens-unworldly-and-the-text-audit-trail-gap-why-visual-replay-is-still-missing-46oi)
+- [We Published a Formal Spec for Tamper-Evident AI Audit Chains](https://dev.to/json_shotwell/we-published-a-formal-spec-for-tamper-evident-ai-audit-chains-1ghb)
+- [Privacy-Preserving Active Learning for heritage language revitalization programs across multilingual stakeholder groups](https://dev.to/rikinptl/privacy-preserving-active-learning-for-heritage-language-revitalization-programs-across-29nf)
+- [I replaced 4 SaaS tools with one workspace. Here&#39;s what actually happened.](https://dev.to/mihirkanzariya/i-replaced-4-saas-tools-with-one-workspace-heres-what-actually-happened-39gp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
