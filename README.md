@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Secure Gemini CLI for Cloud development](https://dev.to/googleai/secure-gemini-cli-for-cloud-development-2mpe)
-- [Every &quot;I Automated My Business&quot; Post Is Lying To You &lpar;Here&#39;s What They Cut Out&rpar;](https://dev.to/mrlinuncut/every-i-automated-my-business-post-is-lying-to-you-heres-what-they-cut-out-3a4j)
-- [I Tested 10 Shadcn Templates for Next.js Projects &lpar;Here Are the Best Ones&rpar;](https://dev.to/vaibhavg/i-tested-shadcn-templates-for-nextjs-projects-32p6)
-- [Por qué pusimos un CDN frente a nuestro balanceador de carga &lpar;y por qué las cookies fueron el verdadero problema&rpar;](https://dev.to/davidcuy/por-que-pusimos-un-cdn-frente-a-nuestro-balanceador-de-carga-y-por-que-las-cookies-fueron-el-4mfh)
-- [Design or Die: How UX Decides the Fate of Fintech Apps](https://dev.to/geekyants-inc/design-or-die-how-ux-decides-the-fate-of-fintech-apps-302o)
+- [Rideshield!](https://dev.to/mehak_sethi_09a40f0513604/rideshield-5de8)
+- [Deploy Your First Bedrock Agent with Terraform: Model-Agnostic and Future-Proof 🤖](https://dev.to/suhas_mallesh/deploy-your-first-bedrock-agent-with-terraform-model-agnostic-and-future-proof-25k)
+- [Angular Signal Forms: Is FormValueControl Better for Large Forms?](https://dev.to/brianmtreese/angular-signal-forms-is-formvaluecontrol-better-for-large-forms-3i4h)
+- [Integrating PostgreSQL with Power BI for Data Analysis](https://dev.to/erasto/integrating-postgresql-with-power-bi-for-data-analysis-11lm)
+- [From Zero to Compliance: Saudi Arabia Cybersecurity Roadmap for Businesses](https://dev.to/rahman_iqbal_21df7c748ed6/from-zero-to-compliance-saudi-arabia-cybersecurity-roadmap-for-businesses-13gk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
