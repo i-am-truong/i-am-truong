@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Automate Product Walkthroughs and Onboarding Videos Without Screen Recording Software](https://dev.to/custodiaadmin/how-to-automate-product-walkthroughs-and-onboarding-videos-without-screen-recording-software-31d5)
-- [agentlens, unworldly, and the text audit trail gap — why visual replay is still missing](https://dev.to/custodiaadmin/agentlens-unworldly-and-the-text-audit-trail-gap-why-visual-replay-is-still-missing-46oi)
-- [We Published a Formal Spec for Tamper-Evident AI Audit Chains](https://dev.to/json_shotwell/we-published-a-formal-spec-for-tamper-evident-ai-audit-chains-1ghb)
-- [Privacy-Preserving Active Learning for heritage language revitalization programs across multilingual stakeholder groups](https://dev.to/rikinptl/privacy-preserving-active-learning-for-heritage-language-revitalization-programs-across-29nf)
-- [I replaced 4 SaaS tools with one workspace. Here&#39;s what actually happened.](https://dev.to/mihirkanzariya/i-replaced-4-saas-tools-with-one-workspace-heres-what-actually-happened-39gp)
+- [SkillGap: Building an AI-Powered Career Assistant](https://dev.to/jing_2026/skillgap-building-an-ai-powered-career-assistant-2985)
+- [GitHub Copilot vs. The World: Why the AI Coding War Is Already Over](https://dev.to/htekdev/github-copilot-vs-the-world-why-the-ai-coding-war-is-already-over-5fp3)
+- [AWS Cost Waste: 5 Things I Find in Every Audit](https://dev.to/haitmg/aws-cost-waste-5-things-i-find-in-every-audit-1o89)
+- [Day 21: I Built the Perfect Machine. It Doesn&#39;t Make Money.](https://dev.to/deadbyapril/day-21-i-built-the-perfect-machine-it-doesnt-make-money-1o80)
+- [How I Turned a Bespoke Code Reviewer Into a Skill Any Project Can Use](https://dev.to/southwestmogrown/how-i-turned-a-bespoke-code-reviewer-into-a-skill-any-project-can-use-1npo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
