@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Trade on the XRP Ledger DEX Without a Centralized Exchange](https://dev.to/nyxagi/how-to-trade-on-the-xrp-ledger-dex-without-a-centralized-exchange-1ng1)
-- [I Tracked My Claude Code Token Spend for a Week. Here&#39;s What Actually Surprised Me.](https://dev.to/godnick/i-tracked-my-claude-code-token-spend-for-a-week-heres-what-actually-surprised-me-34o1)
-- [The Fastest Way to Share Live HTML Previews Without a Server](https://dev.to/htmlsave/the-fastest-way-to-share-live-html-previews-without-a-server-4dgj)
-- [Building Developer Tools That Scale: Lessons from Email Infrastructure](https://dev.to/francofuji/building-developer-tools-that-scale-lessons-from-email-infrastructure-161b)
-- [Solana Upgrade Authority Security: The $40M Lesson Most Protocols Haven&#39;t Learned](https://dev.to/ohmygod/solana-upgrade-authority-security-the-40m-lesson-most-protocols-havent-learned-2g42)
+- [Copilot CLI Weekly: PR Workflows, Extensions, and Multi-Turn Background Agents](https://dev.to/htekdev/copilot-cli-weekly-pr-workflows-extensions-and-multi-turn-background-agents-37bj)
+- [Hawkeye - open source flight recorder &amp; guardrails for AI agents before things go wrong](https://dev.to/darkninja/hawkeye-open-source-flight-recorder-guardrails-for-ai-agents-before-things-go-wrong-4k31)
+- [Python Baseball Sim Update: Adding Pitcher Logic and JSON Data Support](https://dev.to/lee12/python-baseball-sim-update-adding-pitcher-logic-and-json-data-support-2ja9)
+- [Implementing Visual Audit Trails for LLM Agents in Production — A Step-by-Step Guide](https://dev.to/custodiaadmin/implementing-visual-audit-trails-for-llm-agents-in-production-a-step-by-step-guide-3p83)
+- [Deploying a FastAPI App to Render: Taking Your API Live](https://dev.to/ghost_script/deploying-a-fastapi-app-to-render-taking-your-api-live-59bp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
