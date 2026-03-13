@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Rideshield!](https://dev.to/mehak_sethi_09a40f0513604/rideshield-5de8)
-- [Deploy Your First Bedrock Agent with Terraform: Model-Agnostic and Future-Proof 🤖](https://dev.to/suhas_mallesh/deploy-your-first-bedrock-agent-with-terraform-model-agnostic-and-future-proof-25k)
-- [Angular Signal Forms: Is FormValueControl Better for Large Forms?](https://dev.to/brianmtreese/angular-signal-forms-is-formvaluecontrol-better-for-large-forms-3i4h)
-- [Integrating PostgreSQL with Power BI for Data Analysis](https://dev.to/erasto/integrating-postgresql-with-power-bi-for-data-analysis-11lm)
-- [From Zero to Compliance: Saudi Arabia Cybersecurity Roadmap for Businesses](https://dev.to/rahman_iqbal_21df7c748ed6/from-zero-to-compliance-saudi-arabia-cybersecurity-roadmap-for-businesses-13gk)
+- [Apps Without the Web Stack](https://dev.to/artanidos/apps-without-the-web-stack-4lop)
+- [UV Scaling vs Texture Size in Unreal Engine](https://dev.to/dinesh_04/uv-scaling-vs-texture-size-in-unreal-engine-2o9m)
+- [I Built a Browser-Based File Transfer Tool Between Phone and PC](https://dev.to/siwetzhou/i-built-a-browser-based-file-transfer-tool-between-phone-and-pc-1f7e)
+- [Architecting Near Real-Time Analytics on GCP: Pub/Sub, Dataflow, and BigQuery](https://dev.to/ramavala/architecting-near-real-time-analytics-on-gcp-pubsub-dataflow-and-bigquery-njl)
+- [I gave an AI agent one prompt and it built a living city in Godot 4](https://dev.to/salvo10f/i-gave-an-ai-agent-one-prompt-and-it-built-a-living-city-in-godot-4-3mlm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
