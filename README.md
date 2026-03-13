@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The 7 GCP Professional Cloud Architect Traps That Made Me Rethink My Entire Cloud Career](https://dev.to/andy_youtube_371fe0c1a37e/the-7-gcp-professional-cloud-architect-traps-that-made-me-rethink-my-entire-cloud-career-2g8m)
-- [Building what NIST is asking for: an AI agent security proxy](https://dev.to/arkforge-ceo/building-what-nist-is-asking-for-an-ai-agent-security-proxy-2li9)
-- [Writing maintainable react code at scale](https://dev.to/yashraj_2001/writing-maintainable-react-code-at-scale-ef8)
-- [Side Hustle Hell — The Engineer Who Tried Everything](https://dev.to/2144e0dfabcfd/side-hustle-hell-the-engineer-who-tried-everything-1nhc)
-- [I Built a Weather Engine That Tells You When to Ride, Play, or Water](https://dev.to/stalefishlabs/i-built-a-weather-engine-that-tells-you-when-to-ride-play-or-water-5418)
+- [Building Balgs Store](https://dev.to/grayxcode/building-balgs-store-2ndg)
+- [I Built a Small Agentic Trading App. It Cost Me a Few Hours and About $0.20 Per Run.](https://dev.to/ionionascu/i-built-a-small-agentic-trading-app-it-cost-me-a-few-hours-and-about-020-per-run-3ikj)
+- [5 Text Tools Every AI Agent Needs: Stats, Embeddings, Markdown, and More with IteraTools](https://dev.to/fredpsantos33/5-text-tools-every-ai-agent-needs-stats-embeddings-markdown-and-more-with-iteratools-58am)
+- [I Built a Test Data Generator for 38 Countries — Here&#39;s What I Learned](https://dev.to/kaustubh_memane/i-built-a-test-data-generator-for-38-countries-heres-what-i-learned-7c)
+- [Why I stopped writing manual test cases: This OpenClaw skill does it for me 🤖✨](https://dev.to/shifu_legend/why-i-stopped-writing-manual-test-cases-this-openclaw-skill-does-it-for-me-3ni2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
