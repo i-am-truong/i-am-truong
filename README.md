@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why HazelJS Is the Best AI-Native Runtime Platform and Framework](https://dev.to/arslan_mecom/why-hazeljs-is-the-best-ai-native-runtime-platform-and-framework-2di4)
-- [Beyond Prompt Engineering: The Layers of Modern AI Engineering](https://dev.to/naresh_007/beyond-prompt-engineering-the-layers-of-modern-ai-engineering-38j8)
-- [🧑‍💻 Alt Text vs ARIA Labels — What Developers Often Miss](https://dev.to/pawar-shivam7/alt-text-vs-aria-labels-what-developers-often-miss-17j1)
-- [Why I replaced Nexus with a 32MB binary](https://dev.to/devitway/why-i-replaced-nexus-with-a-32mb-binary-470f)
-- [clasp 3 Dropped TypeScript — Here&#39;s a Vite Plugin for Google Apps Script](https://dev.to/wakita181009/clasp-3-dropped-typescript-heres-a-vite-plugin-for-google-apps-script-49k8)
+- [HuntOS: an automated job application tool; and my experience vibe coding](https://dev.to/blainesensei/huntos-an-automated-job-application-tool-and-my-experience-vibe-coding-1ie)
+- [[Boost]](https://dev.to/anthonymax/-3mne)
+- [Your AI Agent Is Making Things Up Instead of Looking Things Up](https://dev.to/levelsofself/your-ai-agent-is-making-things-up-instead-of-looking-things-up-3hdd)
+- [Hey there I&#39;m new here come to know about this platform from ChatGPT 😁](https://dev.to/kiran_dhongadi_7/hey-there-im-new-here-come-to-know-about-this-platform-from-chatgpt-3ebj)
+- [From Vue to Rust: Why a Frontend Developer Started Writing Systems Tools](https://dev.to/lazydoomslayer/from-vue-to-rust-why-a-frontend-developer-started-writing-systems-tools-2204)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
