@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Strapi Plugin That Extends the Admin and Backend](https://dev.to/strapi/how-to-build-a-strapi-plugin-that-extends-the-admin-and-backend-2enj)
-- [Mastering Code Reviews with GitHub Copilot: The Definitive Guide](https://dev.to/pwd9000/mastering-code-reviews-with-github-copilot-the-definitive-guide-3nfp)
-- [Deploying a Rails + SQLite App to a Synology NAS](https://dev.to/julianrubisch/deploying-a-rails-sqlite-app-to-a-synology-nas-2l59)
-- [Automating Cabinet Design: Converting Architectural Drawings into 3D Models with AI](https://dev.to/cizo/automating-cabinet-design-converting-architectural-drawings-into-3d-models-with-ai-5a55)
-- [pnpm Workspaces in Production: What Actually Matters](https://dev.to/silverstream/pnpm-workspaces-in-production-what-actually-matters-16p7)
+- [An LLM Is Not a Deficient Mind](https://dev.to/romanonthego/an-llm-is-not-a-deficient-mind-234l)
+- [How Developers Can Prevent Frontend Wallet Drainer Attacks: A Case Study of the BONK.fun Hack](https://dev.to/cryip/how-developers-can-prevent-frontend-wallet-drainer-attacks-a-case-study-of-the-bonkfun-hack-29k4)
+- [Connecting power bi to SQL databases locally and through cloud service.](https://dev.to/maggy_njuguna/connecting-power-bi-to-sql-databases-locally-and-through-cloud-service-4876)
+- [ما هو التوكن؟ الدليل النهائي لأمن API](https://dev.to/yusuf_khalidd/m-hw-ltwkn-ldlyl-lnhyy-lmn-api-fbd)
+- [Tokenização: Guia Completo para Segurança de API](https://dev.to/lucas_ferreira/tokenizacao-guia-completo-para-seguranca-de-api-4eo5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
