@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [VIOLET : End-to-End Video-Language Transformers with Masked Visual-tokenModeling](https://dev.to/paperium/violet-end-to-end-video-language-transformers-with-masked-visual-tokenmodeling-12n7)
-- [👁️ Computer Vision Explained Like You&#39;re 5](https://dev.to/esreekarreddy/computer-vision-explained-like-youre-5-37cl)
-- [Building a Prop Firm Cost Analysis Tool with Next.js and SQLite](https://dev.to/propfirmkey/building-a-prop-firm-cost-analysis-tool-with-nextjs-and-sqlite-1fo0)
-- [Practical Tips When Working with AI Coding Assistants](https://dev.to/akdevcraft/practical-tips-when-working-with-ai-coding-assistants-1pea)
-- [Mastering Multi-Provider Routing with OpenRouter](https://dev.to/kirponik/mastering-multi-provider-routing-with-openrouter-1ce3)
+- [WebMCP and WebAI: Exploring native AI tools in Chrome](https://dev.to/kevin-uehara/webmcp-and-webai-exploring-native-ai-tools-in-chrome-4ocf)
+- [75% of resumes get rejected by ATS before a human sees them — here&#39;s how to check yours for](https://dev.to/kzahiri/75-of-resumes-get-rejected-by-ats-before-a-human-sees-them-heres-how-to-check-yours-for-5e1a)
+- [Your Browser Automation Agent Is Blind to Failures](https://dev.to/custodiaadmin/your-browser-automation-agent-is-blind-to-failures-2hk8)
+- [From Zero To Crypto-Hero - &lpar;Week 2&rpar; A Dream Came True...](https://dev.to/luftietheanonymous/from-zero-to-crypto-hero-week-2-a-dream-came-true-413m)
+- [I Built a Bash Script That Traces Code Faster Than Your IDE &lpar;And Saves AI Tokens&rpar;](https://dev.to/mirzalazuardi/i-built-a-bash-script-that-traces-code-faster-than-your-ide-and-saves-ai-tokens-1hki)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
