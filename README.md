@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m a Swift Dev Who Shipped a Full-Stack Next.js App in 3 Days with AI Agents — Here&#39;s What Actually Worked](https://dev.to/_45970c3dfcf5c81b3da29/im-a-swift-dev-who-shipped-a-full-stack-nextjs-app-in-3-days-with-ai-agents-heres-what-4hb0)
-- [How We Built srat.fr: Digitizing Real Estate Diagnostics for French Homeowners](https://dev.to/julien786534/how-we-built-sratfr-digitizing-real-estate-diagnostics-for-french-homeowners-10lp)
-- [Crypto Comparison Tools: Building Trust Through Transparent Data](https://dev.to/julien786534/crypto-comparison-tools-building-trust-through-transparent-data-5bid)
-- [AI Chatbot Comparison 2026: Which Bot Actually Understands Context?](https://dev.to/julien786534/ai-chatbot-comparison-2026-which-bot-actually-understands-context-23cg)
-- [Diving into Doxygen: Documenting for Devs, Teammates, and AIs](https://dev.to/patrocinioluisf/diving-into-doxygen-documenting-for-devs-teammates-and-ais-1d59)
+- [Research on A* Algorithm Based on Adaptive Weights &lpar;2025&rpar;](https://dev.to/24p0697_muhammadusman_0/research-on-a-algorithm-based-on-adaptive-weights-2025-2f2b)
+- [I built a tool that runs your Postgres migrations before they hit production](https://dev.to/flvmnt/i-built-a-tool-that-runs-your-postgres-migrations-before-they-hit-production-2b22)
+- [n8n vs Zapier in 2026: Which Automation Tool Should You Actually Use?](https://dev.to/fermainpariz/n8n-vs-zapier-in-2026-which-automation-tool-should-you-actually-use-309e)
+- [First Blog](https://dev.to/abubakarliaqat_/first-blog-2b9j)
+- [Running OpenClaw on Kubernetes](https://dev.to/thenjdevopsguy/running-openclaw-on-kubernetes-57ki)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
