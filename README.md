@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Azure Management Task 5: Manage Tags and Locks](https://dev.to/pirrezz/azure-management-task-5-manage-tags-and-locks-233e)
-- [Stop Guessing Your LLM Replacement](https://dev.to/theprodsde/stop-guessing-your-llm-replacement-5f7m)
-- [Scrape and build a LinkedIn user profile app with Bright Data and React.js](https://dev.to/alexanie_/scrape-and-build-a-linkedin-user-profile-app-with-bright-data-and-reactjs-42ak)
-- [Chingu.io: Build, Collaborate, Learn: Remote Projects V59 Showcase](https://dev.to/chingu/chinguio-build-collaborate-learn-remote-projects-v59-showcase-56m3)
-- [Agent.BTZ — how one USB stick rewrote modern cyber defence](https://dev.to/helixcipher/agentbtz-how-one-usb-stick-rewrote-modern-cyber-defence-3enb)
+- [YouCanChef: Cómo creé mi propio asistente de cocina nómada con IA](https://dev.to/derlys/youcanchef-como-cree-mi-propio-asistente-de-cocina-nomada-con-ia-495l)
+- [Day 6 – Real-world Agentic AI Use Cases &lpar;2026 Snapshot&rpar;](https://dev.to/swatigoyal911/day-6-real-world-agentic-ai-use-cases-2026-snapshot-4p8o)
+- [I Built a Threat Intelligence Tool That Maps Malicious IPs in Real Time](https://dev.to/shynsec/i-built-a-threat-intelligence-tool-that-maps-malicious-ips-in-real-time-1cjb)
+- [Real-Time Data Monitoring Using InfluxDB and Grafana](https://dev.to/bsd/real-time-data-monitoring-using-influxdb-and-grafana-3a1n)
+- [I Got Tired of Writing Hacky Cross-Tab Code. So I Built Omnitab.](https://dev.to/anishbhandarkar/i-got-tired-of-writing-hacky-cross-tab-code-so-i-built-omnitab-2bac)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
