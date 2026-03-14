@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cross-Chain Bridges: The Distributed Consensus Problem Nobody Talks About](https://dev.to/metadevdigital/cross-chain-bridges-the-distributed-consensus-problem-nobody-talks-about-52fd)
-- [I’m considering open-sourcing Work Break](https://dev.to/workbreak/im-considering-open-sourcing-work-break-2dkp)
-- [20 Years, Infinite Objects: The Amazon S3 Story](https://dev.to/aws-builders/20-years-infinite-objects-the-amazon-s3-story-1mie)
-- [Training a Tiny Two‑Layer Neural Network to Learn XOR](https://dev.to/viswa_m_09/training-a-tiny-two-layer-neural-network-to-learn-xor-4c6p)
-- [Day 20: SUID Deep-Dive — From Zip to Tar Exploitation 🕵️‍♂️](https://dev.to/devon_argent_f9a11303298a/day-20-suid-deep-dive-from-zip-to-tar-exploitation-40la)
+- [MY AI REREARCG BLOG](https://dev.to/24p0669_saadahmedijaz_/my-ai-rerearcg-blog-20nl)
+- [WebMCP: Turn Your Web App Into an AI-Ready Tool Server — No Backend Required](https://dev.to/nicoavanzdev/webmcp-turn-your-web-app-into-an-ai-ready-tool-server-no-backend-required-2pk4)
+- [The Rise of Intelligent AI Agents and Deep Search](https://dev.to/muhammad_bilal_7e5da1fdbc/the-rise-of-intelligent-ai-agents-and-deep-search-25e5)
+- [Beyond the Hype: A Practical Guide to Integrating AI into Your Development Workflow](https://dev.to/midas126/beyond-the-hype-a-practical-guide-to-integrating-ai-into-your-development-workflow-936)
+- [Future Of Manual Testers in Age of AI](https://dev.to/balajee_venkatachalam_3b7/future-of-manual-testers-in-age-of-ai-573a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
