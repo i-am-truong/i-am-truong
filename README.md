@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [3º. Entity extraction with a 2B model: benchmarks from a personal knowledge graph](https://dev.to/micelclaw/entity-extraction-with-a-2b-model-benchmarks-from-a-personal-knowledge-graph-2f27)
-- [GitOps for ML in 2026: Treat Your AI Models Like Microservices &lpar;Or Watch Them Drift Into Production Chaos&rpar;](https://dev.to/mateenali66/gitops-for-ml-in-2026-treat-your-ai-models-like-microservices-or-watch-them-drift-into-production-40m2)
-- [It&#39;s over, Repo. I have the high ground!](https://dev.to/sagi0312/its-over-repo-i-have-the-high-ground-58md)
-- [Teaching an AI to Play Dwarf Fortress: The Idea](https://dev.to/rpmiller/teaching-an-ai-to-play-dwarf-fortress-the-idea-2o6i)
-- [Git Archaeology #11 — Entropy: The Universe Always Tends Toward Disorder](https://dev.to/machuz/git-archaeology-11-entropy-the-universe-always-tends-toward-disorder-ak9)
+- [VIOLET : End-to-End Video-Language Transformers with Masked Visual-tokenModeling](https://dev.to/paperium/violet-end-to-end-video-language-transformers-with-masked-visual-tokenmodeling-12n7)
+- [👁️ Computer Vision Explained Like You&#39;re 5](https://dev.to/esreekarreddy/computer-vision-explained-like-youre-5-37cl)
+- [Building a Prop Firm Cost Analysis Tool with Next.js and SQLite](https://dev.to/propfirmkey/building-a-prop-firm-cost-analysis-tool-with-nextjs-and-sqlite-1fo0)
+- [Practical Tips When Working with AI Coding Assistants](https://dev.to/akdevcraft/practical-tips-when-working-with-ai-coding-assistants-1pea)
+- [Mastering Multi-Provider Routing with OpenRouter](https://dev.to/kirponik/mastering-multi-provider-routing-with-openrouter-1ce3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
