@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Most React Apps Fail Core Web Vitals &lpar;And How to Actually Fix Them&rpar;](https://dev.to/munna_thakur_2019444f0351/why-most-react-apps-fail-core-web-vitals-and-how-to-actually-fix-them-312e)
-- [TypeScript Type Guards for Discriminated Unions &lpar;Best Practices for Scalable Code&rpar;](https://dev.to/sunny7899/typescript-type-guards-for-discriminated-unions-best-practices-for-scalable-code-4g07)
-- [5 Companies That Replaced Workers with AI — It Backfired Spectacularly](https://dev.to/tyson_cung/5-companies-that-replaced-workers-with-ai-it-backfired-spectacularly-1co7)
-- [5 AI Vulnerabilities Most Developers Miss &lpar;And How to Find Them&rpar;](https://dev.to/tom_herbin_79c8dce30832bc/5-ai-vulnerabilities-most-developers-miss-and-how-to-find-them-2nc8)
-- [How I Built clsh: Phone-First Terminal Access to Your Mac](https://dev.to/nadav_avisrur/how-i-built-clsh-phone-first-terminal-access-to-your-mac-jgb)
+- [Cross-Chain Bridges: The Distributed Consensus Problem Nobody Talks About](https://dev.to/metadevdigital/cross-chain-bridges-the-distributed-consensus-problem-nobody-talks-about-52fd)
+- [I’m considering open-sourcing Work Break](https://dev.to/workbreak/im-considering-open-sourcing-work-break-2dkp)
+- [20 Years, Infinite Objects: The Amazon S3 Story](https://dev.to/aws-builders/20-years-infinite-objects-the-amazon-s3-story-1mie)
+- [Training a Tiny Two‑Layer Neural Network to Learn XOR](https://dev.to/viswa_m_09/training-a-tiny-two-layer-neural-network-to-learn-xor-4c6p)
+- [Day 20: SUID Deep-Dive — From Zip to Tar Exploitation 🕵️‍♂️](https://dev.to/devon_argent_f9a11303298a/day-20-suid-deep-dive-from-zip-to-tar-exploitation-40la)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
