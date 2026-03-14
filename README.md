@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Backend Security Fundamentals &lpar;Modern Guide for Engineers&rpar;](https://dev.to/mainak_mukhrjee_24f83e347/backend-security-fundamentals-modern-guide-for-engineers-b47)
-- [How I Converted 1,000+ CCTV .media Files to MP4 Using FFmpeg and a Bash Script](https://dev.to/muhammad_darwis_7/how-i-converted-1000-cctv-media-files-to-mp4-using-ffmpeg-and-a-bash-script-3kdi)
-- [Wiki.js vs DokuWiki: Which Self-Hosted Wiki?](https://dev.to/selfhostingsh/wikijs-vs-dokuwiki-which-self-hosted-wiki-3ah1)
-- [The speed limit](https://dev.to/max-ai-dev/the-speed-limit-29n1)
-- [6 Nginx Patterns That Instantly Make Your Node.js Deployment Production Ready](https://dev.to/jsgurujobs/6-nginx-patterns-that-instantly-make-your-nodejs-deployment-production-ready-dib)
+- [I built an AI pipeline to give my partner her time back &lpar;and accidentally cured my engineering burnout&rpar;.](https://dev.to/gjvpaet/i-built-an-ai-pipeline-to-give-my-partner-her-time-back-and-accidentally-cured-my-engineering-3e41)
+- [The FDA Approved a Video Game as Medicine: What Comes Next](https://dev.to/krizekster/the-fda-approved-a-video-game-as-medicine-what-comes-next-5fm6)
+- [Don&#39;t You Dare Go Hollow: The Dark Souls Philosophy for Living Your One-Playthrough Life](https://dev.to/krizekster/dont-you-dare-go-hollow-the-dark-souls-philosophy-for-living-your-one-playthrough-life-3koe)
+- [Like LEGO? Love Python! 🧱🐍 Ep.5](https://dev.to/wvanheemstra/like-lego-love-python-ep5-3ee0)
+- [The Gilded Rose Kata: Composition Over Inheritance](https://dev.to/wvanheemstra/the-gilded-rose-kata-composition-over-inheritance-f01)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
