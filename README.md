@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Your Webhook Handler Is Silently Failing &lpar;And How to Fix It&rpar;](https://dev.to/deadletter/why-your-webhook-handler-is-silently-failing-and-how-to-fix-it-50ah)
-- [Why I built codesize: enforcing function length limits with an AST](https://dev.to/chrisgve/why-i-built-codesize-enforcing-function-length-limits-with-an-ast-4fe2)
-- [I built a PDF toolkit that never uploads your files — here&#39;s how](https://dev.to/muath_aljehani_9d9238bb3a/i-built-a-pdf-toolkit-that-never-uploads-your-files-heres-how-5f2o)
-- [Building CostRouter — Route AI requests to the cheapest capable model automatically.](https://dev.to/rizzel7/building-costrouter-route-ai-requests-to-the-cheapest-capable-model-automatically-58gd)
-- [Amazon S3 Introduces Account-Regional Namespaces for Buckets](https://dev.to/aws-builders/amazon-s3-introduces-account-regional-namespaces-for-buckets-4m2c)
+- [Installing Terraform and Setting Up Your Environment](https://dev.to/sarvar_04/installing-terraform-and-setting-up-your-environment-1j9b)
+- [Scrapamoja: A Production-Grade Python Web Scraping Framework](https://dev.to/tisonek/scrapamoja-a-production-grade-python-web-scraping-framework-3d7j)
+- [The Great Abstraction: The Messy Middle of Engineering in the Age of AI](https://dev.to/nareshipme/the-great-abstraction-the-messy-middle-of-engineering-in-the-age-of-ai-4jd2)
+- [Building a Ray Tracer from Scratch in C++ Part 1: Mathematical Foundations](https://dev.to/alazar_demessie_0657c72a2/building-a-ray-tracer-from-scratch-in-c-part-1-mathematical-foundations-587b)
+- [numr 0.5.0: The Rust numerical computing library that doesn&#39;t make you choose](https://dev.to/farhansyah/numr-050-the-rust-numerical-computing-library-that-doesnt-make-you-choose-cpp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
