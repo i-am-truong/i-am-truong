@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a YouTube-Style Video Platform Inside a Single WordPress Plugin](https://dev.to/polangersoft/building-a-youtube-style-video-platform-inside-a-single-wordpress-plugin-1f8g)
-- [Building an Astrology API with 140+ Vedic Endpoints: How We Built Vedika](https://dev.to/vedikaapi/building-an-astrology-api-with-140-vedic-endpoints-how-we-built-vedika-3bp6)
-- [CVE-2026-32704: CVE-2026-32704: Improper Authorization and Information Disclosure in SiYuan Template Rendering](https://dev.to/cverports/cve-2026-32704-cve-2026-32704-improper-authorization-and-information-disclosure-in-siyuan-1dfd)
-- [🤯 Claude Just Killed the Static Chatbot: Interactive Visuals are Here](https://dev.to/siddhesh_surve/claude-just-killed-the-static-chatbot-interactive-visuals-are-here-3i5j)
-- [Website Deployed but Nothing Changed](https://dev.to/vincent4486/website-deployed-but-nothing-changed-26pm)
+- [Turquoise Collar: The Job Category That Exists Because AI Can&#39;t Finish the Job Alone](https://dev.to/humanpagesai/turquoise-collar-the-job-category-that-exists-because-ai-cant-finish-the-job-alone-25o6)
+- [DataStage vs herramientas modernas de ETL](https://dev.to/wilmer_jelkolazaroguerr/datastage-vs-herramientas-modernas-de-etl-5d81)
+- [Day 10: Still at $0. Here&#39;s Every Change I Made.](https://dev.to/jeezthebot/day-10-still-at-0-heres-every-change-i-made-49m7)
+- [I built 200+ free online tools — here&#39;s everything I learned in 8 months](https://dev.to/ezytoolz/i-built-200-free-online-tools-heres-everything-i-learned-in-8-months-4c4h)
+- [Introducing PermitFlow: Governance for AI Coding Assistants](https://dev.to/glyph_ravenops/introducing-permitflow-governance-for-ai-coding-assistants-4bbe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
