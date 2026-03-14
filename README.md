@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [MY AI REREARCG BLOG](https://dev.to/24p0669_saadahmedijaz_/my-ai-rerearcg-blog-20nl)
-- [WebMCP: Turn Your Web App Into an AI-Ready Tool Server — No Backend Required](https://dev.to/nicoavanzdev/webmcp-turn-your-web-app-into-an-ai-ready-tool-server-no-backend-required-2pk4)
-- [The Rise of Intelligent AI Agents and Deep Search](https://dev.to/muhammad_bilal_7e5da1fdbc/the-rise-of-intelligent-ai-agents-and-deep-search-25e5)
-- [Beyond the Hype: A Practical Guide to Integrating AI into Your Development Workflow](https://dev.to/midas126/beyond-the-hype-a-practical-guide-to-integrating-ai-into-your-development-workflow-936)
-- [Future Of Manual Testers in Age of AI](https://dev.to/balajee_venkatachalam_3b7/future-of-manual-testers-in-age-of-ai-573a)
+- [Day 2 First Half anyway](https://dev.to/true63/day-2-first-half-anyway-2o5k)
+- [I built a browser-only Git diff viewer using File System Access API — no server needed](https://dev.to/chigichan24/i-built-a-browser-only-git-diff-viewer-using-file-system-access-api-no-server-needed-282g)
+- [Earnflo: A Salary Dashboard That Shows Your Earnings in Real Time](https://dev.to/jzr-supove/earnflo-a-salary-dashboard-that-shows-your-earnings-in-real-time-50m8)
+- [Big Companies steal your data, so I made a secure chat for you.](https://dev.to/kijmoshi/big-companies-steal-your-data-so-i-made-a-secure-chat-for-you-3of8)
+- [Get Your Hands Dirty - AgentCore - Set Up](https://dev.to/mindy_jen_phd/get-your-hands-dirty-agentcore-set-up-4c4i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
