@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [RepoDocs AI: a repo-native docs system for API teams](https://dev.to/sulagna_sasmal/repodocs-ai-a-repo-native-docs-system-for-api-teams-me5)
-- [ZeroTier vs Tailscale: Which Mesh VPN to Use?](https://dev.to/selfhostingsh/zerotier-vs-tailscale-which-mesh-vpn-to-use-c1o)
-- [The Face Recognition Error That&#39;s Wrecking Investigations](https://dev.to/caracomp/the-face-recognition-error-thats-wrecking-investigations-17kk)
-- [How I Built Clara: A Mobile-First AI Form-Filling Companion with Gemini and Google Cloud](https://dev.to/rishika_thulasi_65134a1cc/how-i-built-clara-a-mobile-first-ai-form-filling-companion-with-gemini-and-google-cloud-kck)
-- [I built a local-only shell history manager in Rust with AI agent tracking](https://dev.to/madhuappachi/i-built-a-local-only-shell-history-manager-in-rust-with-ai-agent-tracking-fh0)
+- [Astro Docs Without a Single Manual Screenshot](https://dev.to/omachala/astro-docs-without-a-single-manual-screenshot-3fi8)
+- [Infrastructure as Code: Deploying a Financial Ecosystem with Docker Compose](https://dev.to/rvneto/infrastructure-as-code-deploying-a-financial-ecosystem-with-docker-compose-2p3d)
+- [How ProofVault turned trust from a documentation claim into a reproducible release artifact](https://dev.to/crisiscoresystems/how-proofvault-turned-trust-from-a-documentation-claim-into-a-reproducible-release-artifact-22pb)
+- [4 Years on DEV 🎉 – My First Post](https://dev.to/spacetimeking/4-years-on-dev-my-first-post-3o0d)
+- [When Storage Becomes Biology, Security Stops Being Purely Digital](https://dev.to/helixcipher/when-storage-becomes-biology-security-stops-being-purely-digital-1eo1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
