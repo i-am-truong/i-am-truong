@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [pingtrace](https://dev.to/skhell/pingtrace-2nia)
-- [Wiki.js vs Outline: Which to Self-Host?](https://dev.to/selfhostingsh/wikijs-vs-outline-which-to-self-host-lo1)
-- [Update and Maintain Resources in Azure - Manage tags and locks](https://dev.to/fredrick_chukwuma_13220c9/update-and-maintain-resources-in-azure-manage-tags-and-locks-3c6g)
-- [🌳 Building Realistic 3D Bushes: Optimizing Procedural Generation in NervForge](https://dev.to/the_lone_engineer/building-realistic-3d-bushes-optimizing-procedural-generation-in-nervforge-53l9)
-- [&quot;Just Automate It&quot; — When an Engineer Builds a Trading Bot](https://dev.to/2144e0dfabcfd/just-automate-it-when-an-engineer-builds-a-trading-bot-5g9o)
+- [RAGFlow — 문서 파싱부터 하이브리드 검색까지, 7만 스타 RAG 엔진의 전체 구조](https://dev.to/ji_ai/ragflow-munseo-pasingbuteo-haibeurideu-geomsaegggaji-7man-seuta-rag-enjinyi-jeonce-gujo-2l5o)
+- [promptfoo — LLM 앱의 보안을 테스트하는 1.1만 스타 레드팀 도구](https://dev.to/ji_ai/promptfoo-llm-aebyi-boaneul-teseuteuhaneun-11man-seuta-redeutim-dogu-47cc)
+- [Full Toss Payments integration — then one line broke all Korean checkouts](https://dev.to/ji_ai/full-toss-payments-integration-then-one-line-broke-all-korean-checkouts-2igd)
+- [AI로 결제 시스템 구축하기 — 다중 PG사 통합할 때 놓치면 안 되는 프롬프팅 패턴](https://dev.to/ji_ai/airo-gyeolje-siseutem-gucughagi-dajung-pgsa-tonghabhal-ddae-nohcimyeon-an-doeneun-peurompeuting-paeteon-2j2b)
+- [Anthropic, $100M 클로드 파트너 네트워크 출범 — 동시에 중국 AI 기업의 24,000개 위장 계정 적발](https://dev.to/ji_ai/anthropic-100m-keulrodeu-pateuneo-neteuweokeu-culbeom-dongsie-junggug-ai-gieobyi-24000gae-wijang-gyejeong-jeogbal-5f62)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
