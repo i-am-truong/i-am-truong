@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Zipline vs XBackBone: ShareX Server Showdown](https://dev.to/selfhostingsh/zipline-vs-xbackbone-sharex-server-showdown-45d1)
-- [Bulletproof Error Handling in Kotlin Multiplatform with ResponseResult and safeRequest](https://dev.to/shivathapaa/bulletproof-error-handling-in-kotlin-multiplatform-with-responseresult-and-saferequest-387o)
-- [Setting Up Ktor the Right Way in Kotlin Multiplatform](https://dev.to/shivathapaa/setting-up-ktor-the-right-way-in-kotlin-multiplatform-lg3)
-- [JavaScript Optional Chaining: The Complete Guide](https://dev.to/agunechemba/javascript-optional-chaining-the-complete-guide-2jkj)
-- [Smart Contract Infrastructure in Financial Systems: Determinism, Security Boundaries, and Execution Guarantees](https://dev.to/doomhammerhell/smart-contract-infrastructure-in-financial-systems-determinism-security-boundaries-and-execution-15of)
+- [Agent Orchestration Patterns: Swarm vs Mesh vs Hierarchical vs Pipeline](https://dev.to/jose_gurusup_dev/agent-orchestration-patterns-swarm-vs-mesh-vs-hierarchical-vs-pipeline-b40)
+- [The &quot;Vibe Coding&quot; Reality Check: Are You Actually Engineering or Just Prompting? 🚀](https://dev.to/xh1m/the-vibe-coding-reality-check-are-you-actually-engineering-or-just-prompting-1186)
+- [[SC] Ejecutando Tasks en SwiftUI](https://dev.to/david_goyes_a488f58a17a53/sc-ejecutando-tasks-en-swiftui-dgg)
+- [Building Agent Emulator: Habbo emulator + MCP 👨‍💻🏨](https://dev.to/tijmen_de_jong/building-agent-emulator-habbo-emulator-mcp-4ob4)
+- [Git Archaeology #8 — Engineering Relativity: Why the Same Engineer Gets Different Scores](https://dev.to/machuz/git-archaeology-8-engineering-relativity-why-the-same-engineer-gets-different-scores-5dnl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
