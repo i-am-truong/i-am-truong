@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mastering CSS Scroll Timeline: A Complete Guide to Animation on Scroll in 2026](https://dev.to/softheartengineer/mastering-css-scroll-timeline-a-complete-guide-to-animation-on-scroll-in-2025-3g7p)
-- [A colleague told me my prompt was garbage. He was right.](https://dev.to/hamza_konte_04e855f6449da/a-colleague-told-me-my-prompt-was-garbage-he-was-right-59j4)
-- [Ditch the Theme: Building Headless Apps with the WordPress REST API](https://dev.to/needlecode/ditch-the-theme-building-headless-apps-with-the-wordpress-rest-api-g2i)
-- [How to Build a Production-Ready WooCommerce Plugin &lpar;Architecture &amp; Best Practices&rpar;](https://dev.to/needlecode/how-to-build-a-production-ready-woocommerce-plugin-architecture-best-practices-9f7)
-- [Why AI Agents Need Guardrails &lpar;Not Just Prompts&rpar;](https://dev.to/john_d_kearney/why-ai-agents-need-guardrails-not-just-prompts-3pe)
+- [How I Built My Developer Portfolio Featuring AI Automation and DevOps Projects](https://dev.to/abinesh_k_ebad0f31e79451e/how-i-built-my-developer-portfolio-featuring-ai-automation-and-devops-projects-4054)
+- [Common AWS Tagging Anti-Patterns and How to Fix Them](https://dev.to/mark_rayhshtat_b33ccde07a/common-aws-tagging-anti-patterns-and-how-to-fix-them-4487)
+- [5 Business CRM Templates you can’t avoid](https://dev.to/shreyvijayvargiya/freelance-crm-nextjs-14-react-template-4ig0)
+- [3 Patterns That Fix LLM API Calling &lpar;Stop Getting Hallucinated Parameters&rpar;](https://dev.to/docat0209/3-patterns-that-fix-llm-api-calling-stop-getting-hallucinated-parameters-4n3b)
+- [What is Forg.to? &lpar;And Why I Think It&#39;s Going to Be Big for Developers&rpar;](https://dev.to/kislay/what-is-forgto-and-why-i-think-its-going-to-be-big-for-developers-3p5b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
