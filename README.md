@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [YouCanChef: Cómo creé mi propio asistente de cocina nómada con IA](https://dev.to/derlys/youcanchef-como-cree-mi-propio-asistente-de-cocina-nomada-con-ia-495l)
-- [Day 6 – Real-world Agentic AI Use Cases &lpar;2026 Snapshot&rpar;](https://dev.to/swatigoyal911/day-6-real-world-agentic-ai-use-cases-2026-snapshot-4p8o)
-- [I Built a Threat Intelligence Tool That Maps Malicious IPs in Real Time](https://dev.to/shynsec/i-built-a-threat-intelligence-tool-that-maps-malicious-ips-in-real-time-1cjb)
-- [Real-Time Data Monitoring Using InfluxDB and Grafana](https://dev.to/bsd/real-time-data-monitoring-using-influxdb-and-grafana-3a1n)
-- [I Got Tired of Writing Hacky Cross-Tab Code. So I Built Omnitab.](https://dev.to/anishbhandarkar/i-got-tired-of-writing-hacky-cross-tab-code-so-i-built-omnitab-2bac)
+- [Frontend System Design: Communication Protocols &amp; Real-Time Data](https://dev.to/zeeshanali0704/frontend-system-design-communication-protocols-real-time-data-h7h)
+- [Linking Two Research Papers to Real AI Applications](https://dev.to/abbas__ahmed/linking-two-research-papers-to-real-ai-applications-3674)
+- [WordPress vs Hugo: Which Should You Self-Host?](https://dev.to/selfhostingsh/wordpress-vs-hugo-which-should-you-self-host-17c5)
+- [From Architecture to Reality: Building My First SaaS &lpar;LeadIt&rpar; with AI Outreach and Company Analysis](https://dev.to/knihal12/from-architecture-to-reality-building-my-first-saas-leadit-with-ai-outreach-and-company-analysis-4f37)
+- [Escaping the Buffer: The Advanced Guide to Streams in Node.js &amp; Next.js](https://dev.to/shubhamkhatik/escaping-the-buffer-the-advanced-guide-to-streams-in-nodejs-nextjs-4734)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
