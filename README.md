@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Research on A* Algorithm Based on Adaptive Weights &lpar;2025&rpar;](https://dev.to/24p0697_muhammadusman_0/research-on-a-algorithm-based-on-adaptive-weights-2025-2f2b)
-- [I built a tool that runs your Postgres migrations before they hit production](https://dev.to/flvmnt/i-built-a-tool-that-runs-your-postgres-migrations-before-they-hit-production-2b22)
-- [n8n vs Zapier in 2026: Which Automation Tool Should You Actually Use?](https://dev.to/fermainpariz/n8n-vs-zapier-in-2026-which-automation-tool-should-you-actually-use-309e)
-- [First Blog](https://dev.to/abubakarliaqat_/first-blog-2b9j)
-- [Running OpenClaw on Kubernetes](https://dev.to/thenjdevopsguy/running-openclaw-on-kubernetes-57ki)
+- [Why Most React Apps Fail Core Web Vitals &lpar;And How to Actually Fix Them&rpar;](https://dev.to/munna_thakur_2019444f0351/why-most-react-apps-fail-core-web-vitals-and-how-to-actually-fix-them-312e)
+- [TypeScript Type Guards for Discriminated Unions &lpar;Best Practices for Scalable Code&rpar;](https://dev.to/sunny7899/typescript-type-guards-for-discriminated-unions-best-practices-for-scalable-code-4g07)
+- [5 Companies That Replaced Workers with AI — It Backfired Spectacularly](https://dev.to/tyson_cung/5-companies-that-replaced-workers-with-ai-it-backfired-spectacularly-1co7)
+- [5 AI Vulnerabilities Most Developers Miss &lpar;And How to Find Them&rpar;](https://dev.to/tom_herbin_79c8dce30832bc/5-ai-vulnerabilities-most-developers-miss-and-how-to-find-them-2nc8)
+- [How I Built clsh: Phone-First Terminal Access to Your Mac](https://dev.to/nadav_avisrur/how-i-built-clsh-phone-first-terminal-access-to-your-mac-jgb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
