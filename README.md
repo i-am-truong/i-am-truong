@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [WebMCP and WebAI: Exploring native AI tools in Chrome](https://dev.to/kevin-uehara/webmcp-and-webai-exploring-native-ai-tools-in-chrome-4ocf)
-- [75% of resumes get rejected by ATS before a human sees them — here&#39;s how to check yours for](https://dev.to/kzahiri/75-of-resumes-get-rejected-by-ats-before-a-human-sees-them-heres-how-to-check-yours-for-5e1a)
-- [Your Browser Automation Agent Is Blind to Failures](https://dev.to/custodiaadmin/your-browser-automation-agent-is-blind-to-failures-2hk8)
-- [From Zero To Crypto-Hero - &lpar;Week 2&rpar; A Dream Came True...](https://dev.to/luftietheanonymous/from-zero-to-crypto-hero-week-2-a-dream-came-true-413m)
-- [I Built a Bash Script That Traces Code Faster Than Your IDE &lpar;And Saves AI Tokens&rpar;](https://dev.to/mirzalazuardi/i-built-a-bash-script-that-traces-code-faster-than-your-ide-and-saves-ai-tokens-1hki)
+- [I built a self-hosted cloud that installs in ONE command &lpar;Nextcloud alternative&rpar;](https://dev.to/errriikkk/i-built-a-self-hosted-nextcloud-alternative-that-installs-in-one-command-1m2o)
+- [Zero-Copy GPU Compute on Camera Frames in React Native — What Actually Worked](https://dev.to/kbrandwijk/zero-copy-gpu-compute-on-camera-frames-in-react-native-what-actually-worked-512j)
+- [The Era of &quot;Vibe Coding&quot; &amp; Agentic Workflows: Why You’re Still Using AI Wrong](https://dev.to/syedahmershah/the-era-of-vibe-coding-agentic-workflows-why-youre-still-using-ai-wrong-4idb)
+- [Building MCP Servers: Extend AI with Custom Tools](https://dev.to/eqhoids/building-mcp-servers-extend-ai-with-custom-tools-3cp0)
+- [How API Data Bloat is Ruining Your AI Agents &lpar;And How I Cut Token Usage by 98% in Python&rpar;](https://dev.to/craig_mac_dev/how-api-data-bloat-is-ruining-your-ai-agents-and-how-i-cut-token-usage-by-98-in-python-3bif)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
