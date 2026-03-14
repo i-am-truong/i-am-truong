@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Installing Terraform and Setting Up Your Environment](https://dev.to/sarvar_04/installing-terraform-and-setting-up-your-environment-1j9b)
-- [Scrapamoja: A Production-Grade Python Web Scraping Framework](https://dev.to/tisonek/scrapamoja-a-production-grade-python-web-scraping-framework-3d7j)
-- [The Great Abstraction: The Messy Middle of Engineering in the Age of AI](https://dev.to/nareshipme/the-great-abstraction-the-messy-middle-of-engineering-in-the-age-of-ai-4jd2)
-- [Building a Ray Tracer from Scratch in C++ Part 1: Mathematical Foundations](https://dev.to/alazar_demessie_0657c72a2/building-a-ray-tracer-from-scratch-in-c-part-1-mathematical-foundations-587b)
-- [numr 0.5.0: The Rust numerical computing library that doesn&#39;t make you choose](https://dev.to/farhansyah/numr-050-the-rust-numerical-computing-library-that-doesnt-make-you-choose-cpp)
+- [WHERE DATA SCIENCE BEGINS](https://dev.to/lindahkima/where-data-science-begins-3g5j)
+- [Why I stopped routing AI agents by keyword — and what I built instead](https://dev.to/nullfeather/why-i-stopped-routing-ai-agents-by-keyword-and-what-i-built-instead-2c5k)
+- [Learning Xahau: Building an Automatic NFT Factory with Hooks](https://dev.to/ekiserrepe/learning-xahau-building-an-automatic-nft-factory-with-hooks-4j44)
+- [I Benchmarked TimescaleDB vs ClickHouse vs MongoDB for Observability Data - The Results Surprised Me](https://dev.to/aws-builders/i-benchmarked-timescaledb-vs-clickhouse-vs-mongodb-for-observability-data-the-results-surprised-me-3d7d)
+- [TIL: Rust&#39;s lack of HKTs can cause inductive cycles that ICE the compiler](https://dev.to/velx/til-rusts-lack-of-hkts-can-cause-inductive-cycles-that-ice-the-compiler-o79)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
