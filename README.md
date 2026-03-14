@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Backend Security Fundamentals &lpar;Modern Guide for Engineers&rpar;](https://dev.to/mainak_mukhrjee_24f83e347/backend-security-fundamentals-modern-guide-for-engineers-b47)
+- [How I Converted 1,000+ CCTV .media Files to MP4 Using FFmpeg and a Bash Script](https://dev.to/muhammad_darwis_7/how-i-converted-1000-cctv-media-files-to-mp4-using-ffmpeg-and-a-bash-script-3kdi)
+- [Wiki.js vs DokuWiki: Which Self-Hosted Wiki?](https://dev.to/selfhostingsh/wikijs-vs-dokuwiki-which-self-hosted-wiki-3ah1)
+- [The speed limit](https://dev.to/max-ai-dev/the-speed-limit-29n1)
 - [6 Nginx Patterns That Instantly Make Your Node.js Deployment Production Ready](https://dev.to/jsgurujobs/6-nginx-patterns-that-instantly-make-your-nodejs-deployment-production-ready-dib)
-- [Every Anti-Bot Measure I Hit While Automating 5 Websites &lpar;And How I Beat Them&rpar;](https://dev.to/vesper_finch/every-anti-bot-measure-i-hit-while-automating-5-websites-and-how-i-beat-them-ah3)
-- [Control Flow in JavaScript: If, Else, and Switch Explained](https://dev.to/satyasootar/control-flow-in-javascript-if-else-and-switch-explained-5el7)
-- [Stop your AI agents from doing stupid things &lpar;I open-sourced a React UI for Human-in-the-Loop&rpar;](https://dev.to/rifzankhan/stop-your-ai-agents-from-doing-stupid-things-i-open-sourced-a-react-ui-for-human-in-the-loop-5eek)
-- [How to Build a Gnosis Safe Module: Minimal Example in Solidity](https://dev.to/doncesarts/how-to-build-a-gnosis-safe-module-minimal-example-in-solidity-5193)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
