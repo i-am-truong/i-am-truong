@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Built My Developer Portfolio Featuring AI Automation and DevOps Projects](https://dev.to/abinesh_k_ebad0f31e79451e/how-i-built-my-developer-portfolio-featuring-ai-automation-and-devops-projects-4054)
-- [Common AWS Tagging Anti-Patterns and How to Fix Them](https://dev.to/mark_rayhshtat_b33ccde07a/common-aws-tagging-anti-patterns-and-how-to-fix-them-4487)
-- [5 Business CRM Templates you can’t avoid](https://dev.to/shreyvijayvargiya/freelance-crm-nextjs-14-react-template-4ig0)
-- [3 Patterns That Fix LLM API Calling &lpar;Stop Getting Hallucinated Parameters&rpar;](https://dev.to/docat0209/3-patterns-that-fix-llm-api-calling-stop-getting-hallucinated-parameters-4n3b)
-- [What is Forg.to? &lpar;And Why I Think It&#39;s Going to Be Big for Developers&rpar;](https://dev.to/kislay/what-is-forgto-and-why-i-think-its-going-to-be-big-for-developers-3p5b)
+- [6 Nginx Patterns That Instantly Make Your Node.js Deployment Production Ready](https://dev.to/jsgurujobs/6-nginx-patterns-that-instantly-make-your-nodejs-deployment-production-ready-dib)
+- [Every Anti-Bot Measure I Hit While Automating 5 Websites &lpar;And How I Beat Them&rpar;](https://dev.to/vesper_finch/every-anti-bot-measure-i-hit-while-automating-5-websites-and-how-i-beat-them-ah3)
+- [Control Flow in JavaScript: If, Else, and Switch Explained](https://dev.to/satyasootar/control-flow-in-javascript-if-else-and-switch-explained-5el7)
+- [Stop your AI agents from doing stupid things &lpar;I open-sourced a React UI for Human-in-the-Loop&rpar;](https://dev.to/rifzankhan/stop-your-ai-agents-from-doing-stupid-things-i-open-sourced-a-react-ui-for-human-in-the-loop-5eek)
+- [How to Build a Gnosis Safe Module: Minimal Example in Solidity](https://dev.to/doncesarts/how-to-build-a-gnosis-safe-module-minimal-example-in-solidity-5193)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
