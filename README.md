@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Every Developer Should Learn Terraform in 2026 &lpar;And How to Start&rpar; -](https://dev.to/aws-builders/why-every-developer-should-learn-terraform-in-2026-and-how-to-start--4fk0)
-- [Multitasking, A NIGHTMARE !](https://dev.to/mdkaifansari04/multitasking-a-nightmare--1e7p)
-- [Getting AI Governance Right](https://dev.to/cheetah100/getting-ai-governance-right-3om9)
-- [Build a Multi-Modal AI Agent with GPU-Bridge &lpar;LLMs + Image + Audio&rpar;](https://dev.to/gpubridge/build-a-multi-modal-ai-agent-with-gpu-bridge-llms-image-audio-2fj4)
-- [There’s no rule that Agents, Skills, Tools or Commands must be LLM-based. Some use cases require 100% accuracy and determinism – for those cases, we can apply these patterns to regular code.](https://dev.to/conw_y/theres-no-rule-that-agents-skills-tools-or-commands-must-be-llm-based-some-use-cases-require-36df)
+- [Building a YouTube-Style Video Platform Inside a Single WordPress Plugin](https://dev.to/polangersoft/building-a-youtube-style-video-platform-inside-a-single-wordpress-plugin-1f8g)
+- [Building an Astrology API with 140+ Vedic Endpoints: How We Built Vedika](https://dev.to/vedikaapi/building-an-astrology-api-with-140-vedic-endpoints-how-we-built-vedika-3bp6)
+- [CVE-2026-32704: CVE-2026-32704: Improper Authorization and Information Disclosure in SiYuan Template Rendering](https://dev.to/cverports/cve-2026-32704-cve-2026-32704-improper-authorization-and-information-disclosure-in-siyuan-1dfd)
+- [🤯 Claude Just Killed the Static Chatbot: Interactive Visuals are Here](https://dev.to/siddhesh_surve/claude-just-killed-the-static-chatbot-interactive-visuals-are-here-3i5j)
+- [Website Deployed but Nothing Changed](https://dev.to/vincent4486/website-deployed-but-nothing-changed-26pm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
