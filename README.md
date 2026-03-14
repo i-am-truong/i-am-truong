@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Django Needs Convention Over Configuration &lpar;And How DJX Fixes It&rpar;](https://dev.to/redson_ngwira_6fab644076d/why-django-needs-convention-over-configuration-and-how-djx-fixes-it-1f81)
-- [AI-Powered Content Scheduler: Automate Your Publishing Workflow with Notion MCP &amp; Claude](https://dev.to/ashish25031/ai-powered-content-scheduler-automate-your-publishing-workflow-with-notion-mcp-claude-233f)
-- [🗄️ Blob-Based Storage Optimization](https://dev.to/denesbeck/blob-based-storage-optimization-2j2h)
-- [Making Shell Scripts Safer in Production](https://dev.to/o_7969a270d071/making-shell-scripts-safer-in-production-2km5)
-- [AI Did Not Simplify Software Engineering: It Just Made Bad Engineering Easier](https://dev.to/robenglander/ai-did-not-simplify-software-engineering-it-just-made-bad-engineering-easier-4lnn)
+- [Google SEO is Dead. Long Live LLM Optimization.](https://dev.to/samuelmamootil/google-seo-is-dead-long-live-llm-optimization-1mhc)
+- [AI Research Papers](https://dev.to/24p0512_manaalamir_4ee5/ai-research-papers-bom)
+- [ZoneMinder vs Shinobi: Which NVR to Self-Host?](https://dev.to/selfhostingsh/zoneminder-vs-shinobi-which-nvr-to-self-host-4n8l)
+- [AI](https://dev.to/24p0505/ai-3iii)
+- [Building a Clean REST API in Go — No Frameworks, No Fuss](https://dev.to/blamsa0mine/building-a-clean-rest-api-in-go-no-frameworks-no-fuss-2dg1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
