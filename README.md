@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Agent Orchestration Patterns: Swarm vs Mesh vs Hierarchical vs Pipeline](https://dev.to/jose_gurusup_dev/agent-orchestration-patterns-swarm-vs-mesh-vs-hierarchical-vs-pipeline-b40)
-- [The &quot;Vibe Coding&quot; Reality Check: Are You Actually Engineering or Just Prompting? 🚀](https://dev.to/xh1m/the-vibe-coding-reality-check-are-you-actually-engineering-or-just-prompting-1186)
-- [[SC] Ejecutando Tasks en SwiftUI](https://dev.to/david_goyes_a488f58a17a53/sc-ejecutando-tasks-en-swiftui-dgg)
-- [Building Agent Emulator: Habbo emulator + MCP 👨‍💻🏨](https://dev.to/tijmen_de_jong/building-agent-emulator-habbo-emulator-mcp-4ob4)
-- [Git Archaeology #8 — Engineering Relativity: Why the Same Engineer Gets Different Scores](https://dev.to/machuz/git-archaeology-8-engineering-relativity-why-the-same-engineer-gets-different-scores-5dnl)
+- [Why Django Needs Convention Over Configuration &lpar;And How DJX Fixes It&rpar;](https://dev.to/redson_ngwira_6fab644076d/why-django-needs-convention-over-configuration-and-how-djx-fixes-it-1f81)
+- [AI-Powered Content Scheduler: Automate Your Publishing Workflow with Notion MCP &amp; Claude](https://dev.to/ashish25031/ai-powered-content-scheduler-automate-your-publishing-workflow-with-notion-mcp-claude-233f)
+- [🗄️ Blob-Based Storage Optimization](https://dev.to/denesbeck/blob-based-storage-optimization-2j2h)
+- [Making Shell Scripts Safer in Production](https://dev.to/o_7969a270d071/making-shell-scripts-safer-in-production-2km5)
+- [AI Did Not Simplify Software Engineering: It Just Made Bad Engineering Easier](https://dev.to/robenglander/ai-did-not-simplify-software-engineering-it-just-made-bad-engineering-easier-4lnn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
