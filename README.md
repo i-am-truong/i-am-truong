@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 2 First Half anyway](https://dev.to/true63/day-2-first-half-anyway-2o5k)
-- [I built a browser-only Git diff viewer using File System Access API — no server needed](https://dev.to/chigichan24/i-built-a-browser-only-git-diff-viewer-using-file-system-access-api-no-server-needed-282g)
-- [Earnflo: A Salary Dashboard That Shows Your Earnings in Real Time](https://dev.to/jzr-supove/earnflo-a-salary-dashboard-that-shows-your-earnings-in-real-time-50m8)
-- [Big Companies steal your data, so I made a secure chat for you.](https://dev.to/kijmoshi/big-companies-steal-your-data-so-i-made-a-secure-chat-for-you-3of8)
-- [Get Your Hands Dirty - AgentCore - Set Up](https://dev.to/mindy_jen_phd/get-your-hands-dirty-agentcore-set-up-4c4i)
+- [Building CostRouter — Route AI requests to the cheapest capable model automatically.](https://dev.to/rizzel7/building-costrouter-route-ai-requests-to-the-cheapest-capable-model-automatically-58gd)
+- [Amazon S3 Introduces Account-Regional Namespaces for Buckets](https://dev.to/aws-builders/amazon-s3-introduces-account-regional-namespaces-for-buckets-4m2c)
+- [Bring your own phosphor: thirteen problems Claude Code couldn&#39;t solve without me](https://dev.to/jord0cmd/bring-your-own-phosphor-thirteen-problems-claude-code-couldnt-solve-without-me-5fid)
+- [ConfDroid Puppet Modules - Nagios](https://dev.to/12ww1160/confdroid-puppet-modules-nagios-2997)
+- [Get Your Hands Dirty - AgentCore - Code Interpreter](https://dev.to/mindy_jen_phd/get-your-hands-dirty-agentcore-code-interpreter-432d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
