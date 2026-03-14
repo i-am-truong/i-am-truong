@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [It&#39;s over, Repo. I have the high ground!](https://dev.to/sagi0312/its-over-repo-i-have-the-high-ground-58md)
+- [Teaching an AI to Play Dwarf Fortress: The Idea](https://dev.to/rpmiller/teaching-an-ai-to-play-dwarf-fortress-the-idea-2o6i)
+- [Git Archaeology #11 — Entropy: The Universe Always Tends Toward Disorder](https://dev.to/machuz/git-archaeology-11-entropy-the-universe-always-tends-toward-disorder-ak9)
+- [Git Archaeology #10 — Dark Matter: The Invisible Gravity](https://dev.to/machuz/git-archaeology-10-dark-matter-the-invisible-gravity-45ne)
 - [HookChaos: Webhook Stress Tester CLI/Open-Sourced Project](https://dev.to/umutkeskin1001/hookchaos-webhook-stress-tester-cliopen-sourced-project-21ne)
-- [Add Escrow Protection to Any x402 Agent Payment in 5 Minutes](https://dev.to/michu5696/add-escrow-protection-to-any-x402-agent-payment-in-5-minutes-1n0b)
-- [KIRO and AMDF MCP For create reusable packages for Kubernetes with &lpar;KRO&rpar;](https://dev.to/segoja7/kiro-and-amdf-mcp-for-create-reusable-packages-for-kubernetes-with-kro-gig)
-- [Understanding Seq2Seq Neural Networks – Part 2: Embeddings for Sequence Inputs](https://dev.to/rijultp/understanding-seq2seq-neural-networks-part-2-embeddings-for-sequence-inputs-32k9)
-- [How to Add Memory to a Python AI Agent](https://dev.to/nebulagg/how-to-add-memory-to-a-python-ai-agent-od5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
