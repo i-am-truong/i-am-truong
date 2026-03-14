@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [WHERE DATA SCIENCE BEGINS](https://dev.to/lindahkima/where-data-science-begins-3g5j)
-- [Why I stopped routing AI agents by keyword — and what I built instead](https://dev.to/nullfeather/why-i-stopped-routing-ai-agents-by-keyword-and-what-i-built-instead-2c5k)
-- [Learning Xahau: Building an Automatic NFT Factory with Hooks](https://dev.to/ekiserrepe/learning-xahau-building-an-automatic-nft-factory-with-hooks-4j44)
-- [I Benchmarked TimescaleDB vs ClickHouse vs MongoDB for Observability Data - The Results Surprised Me](https://dev.to/aws-builders/i-benchmarked-timescaledb-vs-clickhouse-vs-mongodb-for-observability-data-the-results-surprised-me-3d7d)
-- [TIL: Rust&#39;s lack of HKTs can cause inductive cycles that ICE the compiler](https://dev.to/velx/til-rusts-lack-of-hkts-can-cause-inductive-cycles-that-ice-the-compiler-o79)
+- [HookChaos: Webhook Stress Tester CLI/Open-Sourced Project](https://dev.to/umutkeskin1001/hookchaos-webhook-stress-tester-cliopen-sourced-project-21ne)
+- [Add Escrow Protection to Any x402 Agent Payment in 5 Minutes](https://dev.to/michu5696/add-escrow-protection-to-any-x402-agent-payment-in-5-minutes-1n0b)
+- [KIRO and AMDF MCP For create reusable packages for Kubernetes with &lpar;KRO&rpar;](https://dev.to/segoja7/kiro-and-amdf-mcp-for-create-reusable-packages-for-kubernetes-with-kro-gig)
+- [Understanding Seq2Seq Neural Networks – Part 2: Embeddings for Sequence Inputs](https://dev.to/rijultp/understanding-seq2seq-neural-networks-part-2-embeddings-for-sequence-inputs-32k9)
+- [How to Add Memory to a Python AI Agent](https://dev.to/nebulagg/how-to-add-memory-to-a-python-ai-agent-od5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
