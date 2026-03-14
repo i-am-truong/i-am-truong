@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a self-hosted cloud that installs in ONE command &lpar;Nextcloud alternative&rpar;](https://dev.to/errriikkk/i-built-a-self-hosted-nextcloud-alternative-that-installs-in-one-command-1m2o)
-- [Zero-Copy GPU Compute on Camera Frames in React Native — What Actually Worked](https://dev.to/kbrandwijk/zero-copy-gpu-compute-on-camera-frames-in-react-native-what-actually-worked-512j)
-- [The Era of &quot;Vibe Coding&quot; &amp; Agentic Workflows: Why You’re Still Using AI Wrong](https://dev.to/syedahmershah/the-era-of-vibe-coding-agentic-workflows-why-youre-still-using-ai-wrong-4idb)
-- [Building MCP Servers: Extend AI with Custom Tools](https://dev.to/eqhoids/building-mcp-servers-extend-ai-with-custom-tools-3cp0)
-- [How API Data Bloat is Ruining Your AI Agents &lpar;And How I Cut Token Usage by 98% in Python&rpar;](https://dev.to/craig_mac_dev/how-api-data-bloat-is-ruining-your-ai-agents-and-how-i-cut-token-usage-by-98-in-python-3bif)
+- [Day 41 of #100DaysOfCode — TypeScript on the Backend &lpar;Node.js + Express&rpar;](https://dev.to/m_saad_ahmad/day-41-of-100daysofcode-typescript-on-the-backend-nodejs-express-1g97)
+- [MiroFish: The Open-Source AI Engine That Builds Digital Worlds to Predict the Future](https://dev.to/arshtechpro/mirofish-the-open-source-ai-engine-that-builds-digital-worlds-to-predict-the-future-ki8)
+- [Open Graph Tags: Make Your Links Look Good When Shared](https://dev.to/_84f82f80221994c2ae/open-graph-tags-make-your-links-look-good-when-shared-12pp)
+- [QR Codes for Developers: Beyond the Basics](https://dev.to/_84f82f80221994c2ae/qr-codes-for-developers-beyond-the-basics-4982)
+- [Privacy Policy for Your Side Project: A Developer&#39;s No-BS Guide](https://dev.to/_84f82f80221994c2ae/privacy-policy-for-your-side-project-a-developers-no-bs-guide-1iob)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
