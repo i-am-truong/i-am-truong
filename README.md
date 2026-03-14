@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [b/i vs strong/em + nav Tag — Small HTML Tags, Big SEO Impact](https://dev.to/pawar-shivam7/bi-vs-strongem-nav-tag-small-html-tags-big-seo-impact-25o1)
-- [The Subconscious Gamer: How Repeated Play Programs Your Habits Without Your Knowledge](https://dev.to/krizekster/the-subconscious-gamer-how-repeated-play-programs-your-habits-without-your-knowledge-12fl)
-- [Run an Open Source AI Model Locally on Your PC — No Internet Required &lpar;Using LLaMA&rpar; 🦙](https://dev.to/hamidrazadev/run-an-open-source-ai-model-locally-on-your-pc-no-internet-required-using-llama-3mem)
-- [Seven Games That Changed Players&#39; Lives: Real Stories from the Gaming Community](https://dev.to/krizekster/seven-games-that-changed-players-lives-real-stories-from-the-gaming-community-5bn5)
-- [From Hospital Bed to Home Console: How Gaming is Revolutionizing Physical Rehabilitation](https://dev.to/krizekster/from-hospital-bed-to-home-console-how-gaming-is-revolutionizing-physical-rehabilitation-1mgc)
+- [The Rise of Agentic AI and Smarter Search Algorithms](https://dev.to/muneebdev/the-rise-of-agentic-ai-and-smarter-search-algorithms-3of)
+- [DubTranslate: Claude 활용 더빙 프로그램](https://dev.to/csong2023/dubtranslate-ai-generated-dubbing-program-17oi)
+- [I Built an AI README Generator Inside VS Code &lpar;BYOK&rpar;](https://dev.to/freerave/i-built-an-ai-readme-generator-inside-vs-code-byok-2ci0)
+- [I Built an AI That Tells You If Your Idea Already Exists — And Syncs Results to Notion](https://dev.to/mnemox/i-built-an-ai-that-tells-you-if-your-idea-already-exists-and-syncs-results-to-notion-3pba)
+- [From screen recording to portable AI skills: why I built SkillForge](https://dev.to/syncchain2026helix/from-screen-recording-to-portable-ai-skills-why-i-built-skillforge-4aig)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
