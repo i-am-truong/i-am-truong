@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Astro Docs Without a Single Manual Screenshot](https://dev.to/omachala/astro-docs-without-a-single-manual-screenshot-3fi8)
-- [Infrastructure as Code: Deploying a Financial Ecosystem with Docker Compose](https://dev.to/rvneto/infrastructure-as-code-deploying-a-financial-ecosystem-with-docker-compose-2p3d)
-- [How ProofVault turned trust from a documentation claim into a reproducible release artifact](https://dev.to/crisiscoresystems/how-proofvault-turned-trust-from-a-documentation-claim-into-a-reproducible-release-artifact-22pb)
-- [4 Years on DEV 🎉 – My First Post](https://dev.to/spacetimeking/4-years-on-dev-my-first-post-3o0d)
-- [When Storage Becomes Biology, Security Stops Being Purely Digital](https://dev.to/helixcipher/when-storage-becomes-biology-security-stops-being-purely-digital-1eo1)
+- [Zipline vs XBackBone: ShareX Server Showdown](https://dev.to/selfhostingsh/zipline-vs-xbackbone-sharex-server-showdown-45d1)
+- [Bulletproof Error Handling in Kotlin Multiplatform with ResponseResult and safeRequest](https://dev.to/shivathapaa/bulletproof-error-handling-in-kotlin-multiplatform-with-responseresult-and-saferequest-387o)
+- [Setting Up Ktor the Right Way in Kotlin Multiplatform](https://dev.to/shivathapaa/setting-up-ktor-the-right-way-in-kotlin-multiplatform-lg3)
+- [JavaScript Optional Chaining: The Complete Guide](https://dev.to/agunechemba/javascript-optional-chaining-the-complete-guide-2jkj)
+- [Smart Contract Infrastructure in Financial Systems: Determinism, Security Boundaries, and Execution Guarantees](https://dev.to/doomhammerhell/smart-contract-infrastructure-in-financial-systems-determinism-security-boundaries-and-execution-15of)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
