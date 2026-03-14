@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Gave My Local AI a Public Brain: Echo + Notion MCP](https://dev.to/crow/i-gave-my-local-ai-a-public-brain-echo-notion-mcp-ci1)
-- [The “Jurassic World” Rule is simple: Don’t try to outrun the raptor. Train it.](https://dev.to/itsmeramc/the-jurassic-world-rule-is-simple-dont-try-to-outrun-the-raptor-train-it-2be3)
-- [Try XtermChat | Self Hosted Terminal Chat App](https://dev.to/ketutdana/try-xtermchat-self-hosted-terminal-chat-app-2njh)
-- [Giving Specs Their Own Home: Why We Built mdspec](https://dev.to/zameermfm/giving-specs-their-own-home-why-we-built-mdspec-5g8e)
-- [From Curiosity to Code: My Journey Into Tech 🚀](https://dev.to/muhammad-shasil/from-curiosity-to-code-my-journey-into-tech-2nen)
+- [Mastering CSS Scroll Timeline: A Complete Guide to Animation on Scroll in 2026](https://dev.to/softheartengineer/mastering-css-scroll-timeline-a-complete-guide-to-animation-on-scroll-in-2025-3g7p)
+- [A colleague told me my prompt was garbage. He was right.](https://dev.to/hamza_konte_04e855f6449da/a-colleague-told-me-my-prompt-was-garbage-he-was-right-59j4)
+- [Ditch the Theme: Building Headless Apps with the WordPress REST API](https://dev.to/needlecode/ditch-the-theme-building-headless-apps-with-the-wordpress-rest-api-g2i)
+- [How to Build a Production-Ready WooCommerce Plugin &lpar;Architecture &amp; Best Practices&rpar;](https://dev.to/needlecode/how-to-build-a-production-ready-woocommerce-plugin-architecture-best-practices-9f7)
+- [Why AI Agents Need Guardrails &lpar;Not Just Prompts&rpar;](https://dev.to/john_d_kearney/why-ai-agents-need-guardrails-not-just-prompts-3pe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
