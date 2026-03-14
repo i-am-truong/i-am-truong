@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Rise of Agentic AI and Smarter Search Algorithms](https://dev.to/muneebdev/the-rise-of-agentic-ai-and-smarter-search-algorithms-3of)
-- [DubTranslate: Claude 활용 더빙 프로그램](https://dev.to/csong2023/dubtranslate-ai-generated-dubbing-program-17oi)
-- [I Built an AI README Generator Inside VS Code &lpar;BYOK&rpar;](https://dev.to/freerave/i-built-an-ai-readme-generator-inside-vs-code-byok-2ci0)
-- [I Built an AI That Tells You If Your Idea Already Exists — And Syncs Results to Notion](https://dev.to/mnemox/i-built-an-ai-that-tells-you-if-your-idea-already-exists-and-syncs-results-to-notion-3pba)
-- [From screen recording to portable AI skills: why I built SkillForge](https://dev.to/syncchain2026helix/from-screen-recording-to-portable-ai-skills-why-i-built-skillforge-4aig)
+- [Azure Management Task 5: Manage Tags and Locks](https://dev.to/pirrezz/azure-management-task-5-manage-tags-and-locks-233e)
+- [Stop Guessing Your LLM Replacement](https://dev.to/theprodsde/stop-guessing-your-llm-replacement-5f7m)
+- [Scrape and build a LinkedIn user profile app with Bright Data and React.js](https://dev.to/alexanie_/scrape-and-build-a-linkedin-user-profile-app-with-bright-data-and-reactjs-42ak)
+- [Chingu.io: Build, Collaborate, Learn: Remote Projects V59 Showcase](https://dev.to/chingu/chinguio-build-collaborate-learn-remote-projects-v59-showcase-56m3)
+- [Agent.BTZ — how one USB stick rewrote modern cyber defence](https://dev.to/helixcipher/agentbtz-how-one-usb-stick-rewrote-modern-cyber-defence-3enb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
