@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [3º. Entity extraction with a 2B model: benchmarks from a personal knowledge graph](https://dev.to/micelclaw/entity-extraction-with-a-2b-model-benchmarks-from-a-personal-knowledge-graph-2f27)
+- [GitOps for ML in 2026: Treat Your AI Models Like Microservices &lpar;Or Watch Them Drift Into Production Chaos&rpar;](https://dev.to/mateenali66/gitops-for-ml-in-2026-treat-your-ai-models-like-microservices-or-watch-them-drift-into-production-40m2)
 - [It&#39;s over, Repo. I have the high ground!](https://dev.to/sagi0312/its-over-repo-i-have-the-high-ground-58md)
 - [Teaching an AI to Play Dwarf Fortress: The Idea](https://dev.to/rpmiller/teaching-an-ai-to-play-dwarf-fortress-the-idea-2o6i)
 - [Git Archaeology #11 — Entropy: The Universe Always Tends Toward Disorder](https://dev.to/machuz/git-archaeology-11-entropy-the-universe-always-tends-toward-disorder-ak9)
-- [Git Archaeology #10 — Dark Matter: The Invisible Gravity](https://dev.to/machuz/git-archaeology-10-dark-matter-the-invisible-gravity-45ne)
-- [HookChaos: Webhook Stress Tester CLI/Open-Sourced Project](https://dev.to/umutkeskin1001/hookchaos-webhook-stress-tester-cliopen-sourced-project-21ne)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
