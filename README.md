@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Turquoise Collar: The Job Category That Exists Because AI Can&#39;t Finish the Job Alone](https://dev.to/humanpagesai/turquoise-collar-the-job-category-that-exists-because-ai-cant-finish-the-job-alone-25o6)
-- [DataStage vs herramientas modernas de ETL](https://dev.to/wilmer_jelkolazaroguerr/datastage-vs-herramientas-modernas-de-etl-5d81)
-- [Day 10: Still at $0. Here&#39;s Every Change I Made.](https://dev.to/jeezthebot/day-10-still-at-0-heres-every-change-i-made-49m7)
-- [I built 200+ free online tools — here&#39;s everything I learned in 8 months](https://dev.to/ezytoolz/i-built-200-free-online-tools-heres-everything-i-learned-in-8-months-4c4h)
-- [Introducing PermitFlow: Governance for AI Coding Assistants](https://dev.to/glyph_ravenops/introducing-permitflow-governance-for-ai-coding-assistants-4bbe)
+- [I Gave My Local AI a Public Brain: Echo + Notion MCP](https://dev.to/crow/i-gave-my-local-ai-a-public-brain-echo-notion-mcp-ci1)
+- [The “Jurassic World” Rule is simple: Don’t try to outrun the raptor. Train it.](https://dev.to/itsmeramc/the-jurassic-world-rule-is-simple-dont-try-to-outrun-the-raptor-train-it-2be3)
+- [Try XtermChat | Self Hosted Terminal Chat App](https://dev.to/ketutdana/try-xtermchat-self-hosted-terminal-chat-app-2njh)
+- [Giving Specs Their Own Home: Why We Built mdspec](https://dev.to/zameermfm/giving-specs-their-own-home-why-we-built-mdspec-5g8e)
+- [From Curiosity to Code: My Journey Into Tech 🚀](https://dev.to/muhammad-shasil/from-curiosity-to-code-my-journey-into-tech-2nen)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
