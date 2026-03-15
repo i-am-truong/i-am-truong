@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Are You Really a Developer? The Mindset That Matters More Than Code](https://dev.to/konark_13/are-you-really-a-developer-the-mindset-that-matters-more-than-code-40e)
-- [Building Scalable Document Pipelines: Mastering Autype API for Bulk Rendering and Webhooks](https://dev.to/kesimo/building-scalable-document-pipelines-mastering-autype-api-for-bulk-rendering-and-webhooks-4b6a)
-- [EPD Consultants in Colombia](https://dev.to/colombia-le/epd-consultants-in-colombia-52a0)
-- [Notican: I Built an AI That Writes Your Engineering Docs From GitHub Automatically](https://dev.to/flightlesstux/notican-i-built-an-ai-that-writes-your-engineering-docs-from-github-automatically-19cc)
-- [Python program to communicate to an API](https://dev.to/devi1701/program-to-communicate-to-an-api-5fa7)
+- [MCP Development with Amazon Lightsail and Gemini CLI](https://dev.to/gde/mcp-development-with-amazon-lightsail-and-gemini-cli-274j)
+- [How an Interior Designer Built a Construction SaaS Using AI in 50 Days — Without Writing a Single Line of Code](https://dev.to/lihtar/how-an-interior-designer-built-a-construction-saas-using-ai-in-50-days-without-writing-a-single-5m5)
+- [Building Lexie: How I Used Google&#39;s Gemini Live API and Vertex AI to Transform Legal Intake](https://dev.to/amelia751/building-lexie-how-i-used-googles-gemini-live-api-and-vertex-ai-to-transform-legal-intake-47mj)
+- [To my friend, Zac, that never lacks](https://dev.to/bibimbop123/to-my-friend-zac-that-never-lacks-4678)
+- [Most Developers Don’t Know How to Write Proper Git Commits](https://dev.to/taherahmed/most-developers-dont-know-how-to-write-proper-git-commits-1gn7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
