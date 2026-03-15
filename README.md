@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Lerna to Changesets](https://dev.to/mbarzeev/from-lerna-to-changesets-4cip)
-- [Tool Every Developer Should Know: Netcat](https://dev.to/vkimutai/tool-every-developer-should-know-netcat-1a9k)
-- [Git Archaeology #16 — The Engineers Who Shape Gravity](https://dev.to/machuz/git-archaeology-16-the-engineers-who-shape-gravity-3fmi)
-- [Why We Built HttpArena — A Better Way to Benchmark HTTP Frameworks](https://dev.to/fbio_reis_355b87b508598e/why-we-built-httparena-a-better-way-to-benchmark-http-frameworks-j94)
-- [Deploying a Web Application using AWS EC2 and Application Load Balancer – Hands-on Project](https://dev.to/sushant_deshpande/deploying-a-web-application-using-aws-ec2-and-application-load-balancer-hands-on-project-563e)
+- [10 DevOps Mistakes Beginners Make &lpar;and How to Avoid Them&rpar;](https://dev.to/devops_descent/10-devops-mistakes-beginners-make-and-how-to-avoid-them-2e7i)
+- [Watching Isn&#39;t Enough: The Case for a Runtime Control Plane for AI Agents](https://dev.to/ai_agent_digest/watching-isnt-enough-the-case-for-a-runtime-control-plane-for-ai-agents-3nd6)
+- [NodeLLM 1.14: Demystifying Agents and Expanding the Ecosystem](https://dev.to/eshaiju/nodellm-114-demystifying-agents-and-expanding-the-ecosystem-2fm1)
+- [Why Unified APIs Aren&#39;t Enough: The &quot;Sync Logic&quot; Trap 🕳️](https://dev.to/aspantel/why-unified-apis-arent-enough-the-sync-logic-trap-1fmb)
+- [EduNova — Building a Real-Time AI Tutor That Sees &amp; Speaks with Gemini Live API](https://dev.to/sumit231292/edunova-building-a-real-time-ai-tutor-that-sees-speaks-with-gemini-live-api-4im3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
