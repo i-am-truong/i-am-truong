@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Async compaction: the race conditions nobody talks about](https://dev.to/openwalrus/async-compaction-the-race-conditions-nobody-talks-about-4ni)
-- [How Blaze Could Change Blade Component Rendering in Laravel](https://dev.to/thomas_emad/how-blaze-could-change-blade-component-rendering-in-laravel-272o)
-- [I Built a Local AI Podcast Editor Because I&#39;m Done Renting My Own Workflow](https://dev.to/drjoanneskiles/i-built-a-local-ai-podcast-editor-because-im-done-renting-my-own-workflow-1mpk)
-- [The Developer&#39;s Daily Routine: What High-Output Builders Actually Do Differently](https://dev.to/slowcommit/the-developers-daily-routine-what-high-output-builders-actually-do-differently-3649)
-- [Build a Kubernetes Cluster at Home with Raspberry Pis](https://dev.to/anavalo/building-a-kubernetes-cluster-at-home-with-raspberry-pis-1l8c)
+- [UPDATE: VBAF v4.0.0 is complete](https://dev.to/jupyterps/update-vbaf-v400-is-complete-28l)
+- [The Exact Prompts That Make My AI Agents Not Suck &lpar;Before/After&rpar;](https://dev.to/the200dollarceo/the-exact-prompts-that-make-my-ai-agents-not-suck-beforeafter-4cgj)
+- [Why Vibe Engineering — Not Just Vibe Coding — Is the Future of Software Development](https://dev.to/vila_segura_34b9bdb2c9cd6/why-vibe-engineering-not-just-vibe-coding-is-the-future-of-software-development-46ha)
+- [Ethni-CITY: The New Travel App](https://dev.to/ebukae/ethni-city-the-new-travel-app-3o64)
+- [How I Built Encrypted Bluetooth Team Sync in Flutter — AES-256-GCM, ECDH, CRDTs, Zero Servers](https://dev.to/redgridtactical/how-i-built-encrypted-bluetooth-team-sync-in-flutter-aes-256-gcm-ecdh-crdts-zero-servers-40e2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
