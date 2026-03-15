@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Git Commit Split: Shell Command Quick Reference](https://dev.to/bmf_san/git-commit-split-shell-command-quick-reference-2981)
-- [Quick and easy Next.js boilerplate with TypeScript to jumpstart your project](https://dev.to/dekigk/quick-and-easy-nextjs-boilerplate-with-typescript-to-jumpstart-your-project-2lkn)
-- [Common Mistakes in Software Architecture: Developing and Evaluating Non-Functional Requirements](https://dev.to/bmf_san/common-mistakes-in-software-architecture-developing-and-evaluating-non-functional-requirements-432b)
-- [Why AI agents need a standard profile format](https://dev.to/boubacardiallo/why-ai-agents-need-a-standard-profile-format-3akj)
-- [Building a Simple RAG Document Assistant with LangChain and GPT](https://dev.to/srvdwivedi/building-a-simple-rag-document-assistant-with-langchain-and-gpt-2a7l)
+- [How We Let Users Register with Just a Phone Number on a NOT NULL Email Column](https://dev.to/linou518/how-we-let-users-register-with-just-a-phone-number-on-a-not-null-email-column-16on)
+- [The Pitfall of LLM Fallback Chains: The Day DeepSeek Erased Our Agent&#39;s Personality](https://dev.to/linou518/the-pitfall-of-llm-fallback-chains-the-day-deepseek-erased-our-agents-personality-2fj8)
+- [Power BI Meets SQL: Everything You Need to Know About Database Connections.](https://dev.to/guyo_mohammed/power-bi-meets-sql-everything-you-need-to-know-about-database-connections-5aij)
+- [Cal.com Agents](https://dev.to/minimal-architect/calcom-agents-6ne)
+- [Overcoming Python&#39;s Memory Limitations for Efficient Handling of Massive Datasets in Graph Neural Networks](https://dev.to/romdevin/overcoming-pythons-memory-limitations-for-efficient-handling-of-massive-datasets-in-graph-neural-34ge)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
