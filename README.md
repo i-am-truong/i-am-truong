@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Fortran meets AI](https://dev.to/viksaaskool/fortran-meets-ai-3oac)
-- [Deploy OpenClaw on AWS EC2 with Amazon Bedrock Using Terraform — No API Keys Required](https://dev.to/jhparmar/deploy-openclaw-on-aws-ec2-with-amazon-bedrock-using-terraform-no-api-keys-required-4gg4)
-- [Gemini CLI and Jules: my March 2026 stack](https://dev.to/rowan_m/gemini-cli-and-jules-my-march-2026-stack-4146)
-- [Frontend System Design: Virtualization &amp; Handling Large Data Sets](https://dev.to/zeeshanali0704/frontend-system-design-virtualization-handling-large-data-sets-29nf)
-- [#13 Known is a drop! Inheritance Tricky questions -Type of Inheritance JAVA](https://dev.to/deepikandas/13-known-is-a-drop-inheritance-tricky-questions-type-of-inheritance-java-3hlo)
+- [Async compaction: the race conditions nobody talks about](https://dev.to/openwalrus/async-compaction-the-race-conditions-nobody-talks-about-4ni)
+- [How Blaze Could Change Blade Component Rendering in Laravel](https://dev.to/thomas_emad/how-blaze-could-change-blade-component-rendering-in-laravel-272o)
+- [I Built a Local AI Podcast Editor Because I&#39;m Done Renting My Own Workflow](https://dev.to/drjoanneskiles/i-built-a-local-ai-podcast-editor-because-im-done-renting-my-own-workflow-1mpk)
+- [The Developer&#39;s Daily Routine: What High-Output Builders Actually Do Differently](https://dev.to/slowcommit/the-developers-daily-routine-what-high-output-builders-actually-do-differently-3649)
+- [Build a Kubernetes Cluster at Home with Raspberry Pis](https://dev.to/anavalo/building-a-kubernetes-cluster-at-home-with-raspberry-pis-1l8c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
