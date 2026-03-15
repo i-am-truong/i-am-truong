@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [BK&#39;s Soul Quest](https://dev.to/bibimbop123/bks-soul-quest-3on6)
-- [Your printer hates your designs. So I made them print-ready by default.](https://dev.to/heocoi/your-printer-hates-your-designs-so-i-made-them-print-ready-by-default-12fm)
-- [Cidersoft vs Toptal: An Honest Comparison for Engineering Leaders](https://dev.to/ilya_lipovich_6d50e89a0ee/cidersoft-vs-toptal-an-honest-comparison-for-engineering-leaders-5756)
-- [How We Built 26 SEO-Optimized Pages in 10 Minutes with Next.js](https://dev.to/yunhan_dev/how-we-built-26-seo-optimized-pages-in-10-minutes-with-nextjs-54n3)
-- [Getting Started with Google Cloud: A Step-by-Step Guide for 2026](https://dev.to/mulera/getting-started-with-google-cloud-a-step-by-step-guide-for-2026-17hh)
+- [Architectural Foundations of MLOps, AIOps, and LLMOps](https://dev.to/anusha_kuppili/architectural-foundations-of-mlops-aiops-and-llmops-1471)
+- [Common Array Methods in JavaScript](https://dev.to/harman_panwar_46de8d9454b/common-array-methods-in-javascript-2jl9)
+- [SurrealDB: The &quot;One-Size-Fits-All&quot; Database for Lazy Developers &lpar;Part 1&rpar;](https://dev.to/jakubb_ing/surrealdb-the-one-size-fits-all-database-for-lazy-developers-part-1-1foe)
+- [I built an open-source \&quot;limbic system\&quot; for AI agents — emotion, bias, and memory as MCP servers](https://dev.to/kagioneko/i-built-an-open-source-limbic-system-for-ai-agents-emotion-bias-and-memory-as-mcp-servers-2ln1)
+- [Interrupt Handlers as Locks: A Deadlock-Free SMP Design](https://dev.to/debug_codefurry_7be8b1b2f/interrupt-handlers-as-locks-a-deadlock-free-smp-design-1lf2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
