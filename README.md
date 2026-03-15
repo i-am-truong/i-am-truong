@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [EClaw v1.0.47 — Multi-Platform Publisher, Dynamic Entities &amp; More](https://dev.to/eclaw/eclaw-v1047-multi-platform-publisher-dynamic-entities-more-44h3)
-- [My first attempt at building a productivity tool: The &quot;Yes/No&quot;minimal task list](https://dev.to/miams/my-first-attempt-at-building-a-productivity-tool-the-yesnominimal-task-list-50d)
-- [Why Your Agent&#39;s Memory Architecture Is Probably Wrong](https://dev.to/agentteams/why-your-agents-memory-architecture-is-probably-wrong-55fc)
-- [Building Kindred: A Children&#39;s Friendship Book Powered by Google AI](https://dev.to/tsyg/building-kindred-a-childrens-friendship-book-powered-by-google-ai-3m51)
-- [Gemini Live: The Smart Multi- Agent Kitchen Sentinel.](https://dev.to/vijay_siva_b950270525ee8e/gemini-live-the-smart-multi-agent-kitchen-sentinel-2hbi)
+- [Microfluidics: The Tiny Channels Transforming How We Study Life in Soil](https://dev.to/padawanabhi/microfluidics-the-tiny-channels-transforming-how-we-study-life-in-soil-5d9p)
+- [How I Built a Free Password Security Toolkit &lpar;And What I Learned&rpar;](https://dev.to/password_giant/how-i-built-a-free-password-security-toolkit-and-what-i-learned-4mda)
+- [Agentic AI for Dummies, Part 4: Real-World Impact &amp; The Future](https://dev.to/padawanabhi/agentic-ai-for-dummies-part-4-real-world-impact-the-future-508b)
+- [Agentic AI for Dummies, Part 3: How Agents Use Tools](https://dev.to/padawanabhi/agentic-ai-for-dummies-part-3-how-agents-use-tools-563j)
+- [Agentic AI for Dummies, Part 2: Choosing Your Framework](https://dev.to/padawanabhi/agentic-ai-for-dummies-part-2-choosing-your-framework-5eb0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
