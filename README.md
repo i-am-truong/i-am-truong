@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [EClaw v1.0.47 — Multi-Platform Publisher, Dynamic Entities &amp; More](https://dev.to/eclaw/eclaw-v1047-multi-platform-publisher-dynamic-entities-more-44h3)
+- [My first attempt at building a productivity tool: The &quot;Yes/No&quot;minimal task list](https://dev.to/miams/my-first-attempt-at-building-a-productivity-tool-the-yesnominimal-task-list-50d)
+- [Why Your Agent&#39;s Memory Architecture Is Probably Wrong](https://dev.to/agentteams/why-your-agents-memory-architecture-is-probably-wrong-55fc)
 - [Building Kindred: A Children&#39;s Friendship Book Powered by Google AI](https://dev.to/tsyg/building-kindred-a-childrens-friendship-book-powered-by-google-ai-3m51)
-- [WBS Review Process: 1 Missing Task Out of 1000 Ruins the Project](https://dev.to/_jeongyuhyeon_03de1/wbs-review-process-1-missing-task-out-of-1000-ruins-the-project-295b)
-- [How to Create the Perfect OG Image &lpar;With AI + A Simple Screenshot&rpar;](https://dev.to/edriso/how-to-create-the-perfect-og-image-with-ai-a-simple-screenshot-3egh)
-- [🚀 Day 16 of My Automation Journey – Installing Java, Eclipse &amp; Setting Up Maven for Selenium](https://dev.to/bala_dkaveri_443d4beb9c8/day-16-of-my-automation-journey-installing-java-eclipse-setting-up-maven-for-selenium-4n5j)
-- [LinguaCam live: AI-Translated Global Captions, Unified Dynamic Chat, and Interactive Stream Widgets.](https://dev.to/nikhil_xd_a4c0a044981127b/linguacam-live-ai-translated-global-captions-unified-dynamic-chat-and-interactive-stream-widgets-43ao)
+- [Gemini Live: The Smart Multi- Agent Kitchen Sentinel.](https://dev.to/vijay_siva_b950270525ee8e/gemini-live-the-smart-multi-agent-kitchen-sentinel-2hbi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
