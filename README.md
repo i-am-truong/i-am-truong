@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Docker commands](https://dev.to/methew_smith/docker-commands-1kh)
-- [Get Your Hands Dirty - AgentCore - Memory](https://dev.to/mindy_jen_phd/get-your-hands-dirty-agentcore-memory-8bf)
-- [MCP Design in the Real World](https://dev.to/lihsuanlung/mcp-design-in-the-real-world-3446)
-- [Running LLMs Locally: A Rigorous Benchmark of Phi-3, Mistral, and Llama 3.2 on Ollama](https://dev.to/gurjeet333/running-llms-locally-a-rigorous-benchmark-of-phi-3-mistral-and-llama-32-on-ollama-2289)
-- [Tokis: A Performance-First, Token-Native UI Library for Building Modern Design Systems](https://dev.to/prerak/tokis-a-performance-first-token-native-ui-library-for-building-modern-design-systems-2cad)
+- [SonarQube vs ESLint: Code Quality Platform vs JavaScript Linter &lpar;2026&rpar;](https://dev.to/rahulxsingh/sonarqube-vs-eslint-code-quality-platform-vs-javascript-linter-2026-i55)
+- [Code Review Best Practices - The Complete Guide for Engineering Teams &lpar;2026&rpar;](https://dev.to/rahulxsingh/code-review-best-practices-the-complete-guide-for-engineering-teams-2026-52a4)
+- [How I Built a Real-Time Voice AI University Counsellor with Google ADK and Gemini Live in 10 Days](https://dev.to/eliotc/how-i-built-a-real-time-voice-ai-university-counsellor-with-google-adk-and-gemini-live-in-10-days-1if7)
+- [The Three Reliability Modes I See in Production AI Agents](https://dev.to/the_bookmaster/the-three-reliability-modes-i-see-in-production-ai-agents-3h8n)
+- [How I Built a WhatsApp Chat Analyzer Powered by Claude AI](https://dev.to/match_mgt/how-i-built-a-whatsapp-chat-analyzer-powered-by-claude-ai-mgl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
