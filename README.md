@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Breaking the Language Barrier When Truth Matters Most](https://dev.to/samar_shetye/breaking-the-language-barrier-when-truth-matters-most-5b5o)
-- [Turning 105 Session Logs into Build Logs: A Claude Code Automation Pipeline](https://dev.to/ji_ai/turning-105-session-logs-into-build-logs-a-claude-code-automation-pipeline-30lg)
-- [Building Hybrid Identity at Scale: 1,000+ Users from Active Directory to Entra ID](https://dev.to/chrisiam/building-hybrid-identity-at-scale-1000-users-from-active-directory-to-entra-id-4e11)
-- [Building an AI Trading Bot with Claude Code: 14 Sessions, 961 Tool Calls](https://dev.to/ji_ai/building-an-ai-trading-bot-with-claude-code-14-sessions-961-tool-calls-4o0n)
-- [Olostep Web Data API for AI Agents &amp; RAG Pipelines](https://dev.to/yasser_sami/olostep-web-data-api-for-ai-agents-rag-pipelines-4fd7)
+- [Harness Engineering: Why the Model Is a Commodity and the Infrastructure Is Your Moat](https://dev.to/krisying/harness-engineering-why-the-model-is-a-commodity-and-the-infrastructure-is-your-moat-398a)
+- [I Built a Control Plane for My AI Agent — Because It Kept Making the Same Mistakes](https://dev.to/krisying/i-built-a-control-plane-for-my-ai-agent-because-it-kept-making-the-same-mistakes-5hf2)
+- [I&#39;m Building a Meme Coin Alone With Zero Budget. Here&#39;s What I Learned.](https://dev.to/motodiariesfun/im-building-a-meme-coin-alone-with-zero-budget-heres-what-i-learned-3efd)
+- [The Little Singleton That Could](https://dev.to/luisdoingdev/the-little-singleton-that-could-2a2j)
+- [The $5/Month AI Automation Stack: n8n + GPT-4o-mini + VPS](https://dev.to/automatewithai/the-5month-ai-automation-stack-n8n-gpt-4o-mini-vps-269j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
