@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [E2E Test Automation Strategy for Frontend Upgrades &lpar;Angular, React, Vue.js&rpar;](https://dev.to/arkreddysfo/e2e-test-automation-strategy-for-frontend-upgrades-angular-react-vuejs-4b68)
-- [What to Tell Claude Code to Test &lpar;and What to Skip&rpar;](https://dev.to/ramon_galego/what-to-tell-claude-code-to-test-and-what-to-skip-3foo)
-- [How to Add Tools to a PydanticAI Agent in 10 Min](https://dev.to/nebulagg/how-to-add-tools-to-a-pydanticai-agent-in-10-min-2d41)
-- [Harness Engineering: Why the Model Is a Commodity and the Infrastructure Is Your Moat](https://dev.to/krisying/harness-engineering-why-the-model-is-a-commodity-and-the-infrastructure-is-your-moat-398a)
-- [I Built a Control Plane for My AI Agent — Because It Kept Making the Same Mistakes](https://dev.to/krisying/i-built-a-control-plane-for-my-ai-agent-because-it-kept-making-the-same-mistakes-5hf2)
+- [How to Build a No-Code AI Pipeline with n8n and GPT-4o-mini](https://dev.to/automatewithai/how-to-build-a-no-code-ai-pipeline-with-n8n-and-gpt-4o-mini-n75)
+- [I Built an AI That Finds Your Bugs and Rewrites Your Code to Fix Them.](https://dev.to/kamaumbuguadev/i-built-an-ai-that-finds-your-bugs-and-rewrites-your-code-to-fix-them-4e21)
+- [Deploying a Flask Application On AWS with CI/CD Pipeline](https://dev.to/lmprojectdevto/deploying-a-flask-application-on-aws-with-cicd-pipeline-4i2l)
+- [End-to-End Testing with Playwright: Complete Guide with Page Object Model](https://dev.to/satish_reddybudati_42652/end-to-end-testing-with-playwright-complete-guide-with-page-object-model-3nai)
+- [E2E Test Automation Strategy for Backend Upgrades &lpar;Java, Go, Node.js&rpar;](https://dev.to/satish_reddybudati_42652/e2e-test-automation-strategy-for-backend-upgrades-java-go-nodejs-1ma8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
