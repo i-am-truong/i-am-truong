@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [UPDATE: VBAF v4.0.0 is complete](https://dev.to/jupyterps/update-vbaf-v400-is-complete-28l)
-- [The Exact Prompts That Make My AI Agents Not Suck &lpar;Before/After&rpar;](https://dev.to/the200dollarceo/the-exact-prompts-that-make-my-ai-agents-not-suck-beforeafter-4cgj)
-- [Why Vibe Engineering — Not Just Vibe Coding — Is the Future of Software Development](https://dev.to/vila_segura_34b9bdb2c9cd6/why-vibe-engineering-not-just-vibe-coding-is-the-future-of-software-development-46ha)
-- [Ethni-CITY: The New Travel App](https://dev.to/ebukae/ethni-city-the-new-travel-app-3o64)
-- [How I Built Encrypted Bluetooth Team Sync in Flutter — AES-256-GCM, ECDH, CRDTs, Zero Servers](https://dev.to/redgridtactical/how-i-built-encrypted-bluetooth-team-sync-in-flutter-aes-256-gcm-ecdh-crdts-zero-servers-40e2)
+- [Are You Really a Developer? The Mindset That Matters More Than Code](https://dev.to/konark_13/are-you-really-a-developer-the-mindset-that-matters-more-than-code-40e)
+- [Building Scalable Document Pipelines: Mastering Autype API for Bulk Rendering and Webhooks](https://dev.to/kesimo/building-scalable-document-pipelines-mastering-autype-api-for-bulk-rendering-and-webhooks-4b6a)
+- [EPD Consultants in Colombia](https://dev.to/colombia-le/epd-consultants-in-colombia-52a0)
+- [Notican: I Built an AI That Writes Your Engineering Docs From GitHub Automatically](https://dev.to/flightlesstux/notican-i-built-an-ai-that-writes-your-engineering-docs-from-github-automatically-19cc)
+- [Python program to communicate to an API](https://dev.to/devi1701/program-to-communicate-to-an-api-5fa7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
