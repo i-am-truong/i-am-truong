@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Termix v2.0.0 - RDP, VNC, and Telnet Support &lpar;self-hosted Termius alternative that syncs across all devices&rpar;](https://dev.to/luke_gustafson_b876923974/termix-v200-rdp-vnc-and-telnet-support-self-hosted-termius-alternative-that-syncs-across-all-hl)
+- [Website Maintenance](https://dev.to/seongbae/website-maintenance-3m0i)
+- [Introducing AgentPay: payments for autonomous agents](https://dev.to/ghazghazibahaeddinarch/introducing-agentpay-payments-for-autonomous-agents-58l4)
 - [How We Let Users Register with Just a Phone Number on a NOT NULL Email Column](https://dev.to/linou518/how-we-let-users-register-with-just-a-phone-number-on-a-not-null-email-column-16on)
 - [The Pitfall of LLM Fallback Chains: The Day DeepSeek Erased Our Agent&#39;s Personality](https://dev.to/linou518/the-pitfall-of-llm-fallback-chains-the-day-deepseek-erased-our-agents-personality-2fj8)
-- [Power BI Meets SQL: Everything You Need to Know About Database Connections.](https://dev.to/guyo_mohammed/power-bi-meets-sql-everything-you-need-to-know-about-database-connections-5aij)
-- [Cal.com Agents](https://dev.to/minimal-architect/calcom-agents-6ne)
-- [Overcoming Python&#39;s Memory Limitations for Efficient Handling of Massive Datasets in Graph Neural Networks](https://dev.to/romdevin/overcoming-pythons-memory-limitations-for-efficient-handling-of-massive-datasets-in-graph-neural-34ge)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
