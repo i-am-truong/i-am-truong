@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Arrays 101](https://dev.to/souvik_blog_b790df30e8dea/javascript-arrays-101-nf5)
-- [Understanding Object-Oriented Programming in JavaScript](https://dev.to/souvik_blog_b790df30e8dea/understanding-object-oriented-programming-in-javascript-12lh)
-- [Git Explained Simply — For People Who Have No Idea What It Is](https://dev.to/itxshakil/git-explained-simply-for-people-who-have-no-idea-what-it-is-53ho)
-- [Understanding Objects in JavaScript](https://dev.to/souvik_blog_b790df30e8dea/understanding-objects-in-javascript-25eh)
-- [Array Methods You Must Know](https://dev.to/souvik_blog_b790df30e8dea/array-methods-you-must-know-147g)
+- [About Bitemporal Data Model](https://dev.to/bmf_san/about-bitemporal-data-model-31k4)
+- [Memory Types in LangChain](https://dev.to/tomerbendavid/memory-types-in-langchain-4l0n)
+- [Stop Loading 30 MCP Tools Into One Agent — 3 Design Patterns That Actually Work](https://dev.to/akshay_kumar_bm/stop-loading-30-mcp-tools-into-one-agent-3-design-patterns-that-actually-work-49l1)
+- [Algorithms and Data Structures - Quick Sort](https://dev.to/bmf_san/algorithms-and-data-structures-quick-sort-3812)
+- [HazelJS vs. the Ecosystem: A Comprehensive Comparison of Frameworks and AI Runtime Platforms](https://dev.to/arslan_mecom/hazeljs-vs-the-ecosystem-a-comprehensive-comparison-of-frameworks-and-ai-runtime-platforms-4bc6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
