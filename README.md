@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Microfluidics: The Tiny Channels Transforming How We Study Life in Soil](https://dev.to/padawanabhi/microfluidics-the-tiny-channels-transforming-how-we-study-life-in-soil-5d9p)
-- [How I Built a Free Password Security Toolkit &lpar;And What I Learned&rpar;](https://dev.to/password_giant/how-i-built-a-free-password-security-toolkit-and-what-i-learned-4mda)
-- [Agentic AI for Dummies, Part 4: Real-World Impact &amp; The Future](https://dev.to/padawanabhi/agentic-ai-for-dummies-part-4-real-world-impact-the-future-508b)
-- [Agentic AI for Dummies, Part 3: How Agents Use Tools](https://dev.to/padawanabhi/agentic-ai-for-dummies-part-3-how-agents-use-tools-563j)
-- [Agentic AI for Dummies, Part 2: Choosing Your Framework](https://dev.to/padawanabhi/agentic-ai-for-dummies-part-2-choosing-your-framework-5eb0)
+- [Interactive Star Rating Component](https://dev.to/naimesh_rao_aa5688c26bee6/interactive-star-rating-component-32p7)
+- [Snakebite v2.0: The All-in-One Vulnerability Scanner for Modern Security Testing](https://dev.to/xkillerdeadx/snakebite-v20-the-all-in-one-vulnerability-scanner-for-modern-security-testing-4b9e)
+- [CSS Anchor Positioning Menu Highlight](https://dev.to/naimesh_rao_aa5688c26bee6/css-anchor-positioning-menu-highlight-110d)
+- [Learn Kubernetes Architecture : In different way](https://dev.to/dhritiraj_nath_212b175585/learn-kubernetes-architecture-in-different-way-2pm2)
+- [URL and HTML Encoding: A Practical Guide to Safer Web Applications](https://dev.to/padawanabhi/url-and-html-encoding-a-practical-guide-to-safer-web-applications-2807)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
