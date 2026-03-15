@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [HumanityTree](https://dev.to/artanidos/humanitytree-46ca)
-- [The Magic of this, call&lpar;&rpar;, apply&lpar;&rpar;, and bind&lpar;&rpar;](https://dev.to/satyasootar/the-magic-of-this-call-apply-and-bind-e0e)
-- [WP-CLI Auditor: Triage Wordfence RSS Advisories Against Installed Plugins](https://dev.to/victorstackai/wp-cli-auditor-triage-wordfence-rss-advisories-against-installed-plugins-2di9)
-- [Stop Brainstorming Startup Ideas. Mine Them From Developer Communities](https://dev.to/kushagara_singh_e8cddd8fa/stop-brainstorming-startup-ideas-mine-them-from-developer-communities-46al)
-- [Understanding Object-Oriented Programming in JavaScript](https://dev.to/satyasootar/understanding-object-oriented-programming-in-javascript-23fl)
+- [JavaScript Arrays 101](https://dev.to/souvik_blog_b790df30e8dea/javascript-arrays-101-nf5)
+- [Understanding Object-Oriented Programming in JavaScript](https://dev.to/souvik_blog_b790df30e8dea/understanding-object-oriented-programming-in-javascript-12lh)
+- [Git Explained Simply — For People Who Have No Idea What It Is](https://dev.to/itxshakil/git-explained-simply-for-people-who-have-no-idea-what-it-is-53ho)
+- [Understanding Objects in JavaScript](https://dev.to/souvik_blog_b790df30e8dea/understanding-objects-in-javascript-25eh)
+- [Array Methods You Must Know](https://dev.to/souvik_blog_b790df30e8dea/array-methods-you-must-know-147g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
