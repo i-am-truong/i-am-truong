@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Excluding Table Names from Laravel&#39;s Many-to-Many Relations](https://dev.to/bmf_san/excluding-table-names-from-laravels-many-to-many-relations-449e)
-- [Participated as Core Staff and LT Speaker at Laravel JP Conference](https://dev.to/bmf_san/participated-as-core-staff-and-lt-speaker-at-laravel-jp-conference-16jp)
-- [Database ID Design: UUID vs Auto Increment vs ULID — Which to Choose?](https://dev.to/bmf_san/database-id-design-uuid-vs-auto-increment-vs-ulid-which-to-choose-3c29)
-- [HTTP and SSL/TLS](https://dev.to/bmf_san/http-and-ssltls-38nm)
-- [Creating a Cross-platform Data Sandbox that makes Working with Data Easier and Faster](https://dev.to/muraddevs/creating-a-cross-platform-data-sandbox-that-makes-working-with-data-easier-and-faster-4mi5)
+- [REVOLUTIONARY CHATBOTS UNLEASHED: SpringAI Unveils Game Changing Context Aware Bots That Will Blow Your Mind](https://dev.to/codingmavrick/revolutionary-chatbots-unleashed-springai-unveils-game-changing-context-aware-bots-that-will-blow-41oo)
+- [I Built an AI Dungeon Master with Gemini to Automate My D&amp;D Campaigns](https://dev.to/doubledare704/i-built-an-ai-dungeon-master-with-gemini-to-automate-my-dd-campaigns-16ji)
+- [Tool for Automatically Generating UML with PHP - phUML](https://dev.to/bmf_san/tool-for-automatically-generating-uml-with-php-phuml-kpl)
+- [PHP Interfaces and Type Hinting](https://dev.to/bmf_san/php-interfaces-and-type-hinting-1bgj)
+- [[Shameless Plug] I built a local AI work tracker to cure time-blindness, and v1.2 just dropped 🐑🐈](https://dev.to/chadders13/shameless-plug-i-built-a-local-ai-work-tracker-to-cure-time-blindness-and-v12-just-dropped-3jd2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
