@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [REVOLUTIONARY CHATBOTS UNLEASHED: SpringAI Unveils Game Changing Context Aware Bots That Will Blow Your Mind](https://dev.to/codingmavrick/revolutionary-chatbots-unleashed-springai-unveils-game-changing-context-aware-bots-that-will-blow-41oo)
-- [I Built an AI Dungeon Master with Gemini to Automate My D&amp;D Campaigns](https://dev.to/doubledare704/i-built-an-ai-dungeon-master-with-gemini-to-automate-my-dd-campaigns-16ji)
-- [Tool for Automatically Generating UML with PHP - phUML](https://dev.to/bmf_san/tool-for-automatically-generating-uml-with-php-phuml-kpl)
-- [PHP Interfaces and Type Hinting](https://dev.to/bmf_san/php-interfaces-and-type-hinting-1bgj)
-- [[Shameless Plug] I built a local AI work tracker to cure time-blindness, and v1.2 just dropped 🐑🐈](https://dev.to/chadders13/shameless-plug-i-built-a-local-ai-work-tracker-to-cure-time-blindness-and-v12-just-dropped-3jd2)
+- [Git Commit Split: Shell Command Quick Reference](https://dev.to/bmf_san/git-commit-split-shell-command-quick-reference-2981)
+- [Quick and easy Next.js boilerplate with TypeScript to jumpstart your project](https://dev.to/dekigk/quick-and-easy-nextjs-boilerplate-with-typescript-to-jumpstart-your-project-2lkn)
+- [Common Mistakes in Software Architecture: Developing and Evaluating Non-Functional Requirements](https://dev.to/bmf_san/common-mistakes-in-software-architecture-developing-and-evaluating-non-functional-requirements-432b)
+- [Why AI agents need a standard profile format](https://dev.to/boubacardiallo/why-ai-agents-need-a-standard-profile-format-3akj)
+- [Building a Simple RAG Document Assistant with LangChain and GPT](https://dev.to/srvdwivedi/building-a-simple-rag-document-assistant-with-langchain-and-gpt-2a7l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
