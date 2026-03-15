@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [MCP Development with Amazon Lightsail and Gemini CLI](https://dev.to/gde/mcp-development-with-amazon-lightsail-and-gemini-cli-274j)
-- [How an Interior Designer Built a Construction SaaS Using AI in 50 Days — Without Writing a Single Line of Code](https://dev.to/lihtar/how-an-interior-designer-built-a-construction-saas-using-ai-in-50-days-without-writing-a-single-5m5)
-- [Building Lexie: How I Used Google&#39;s Gemini Live API and Vertex AI to Transform Legal Intake](https://dev.to/amelia751/building-lexie-how-i-used-googles-gemini-live-api-and-vertex-ai-to-transform-legal-intake-47mj)
-- [To my friend, Zac, that never lacks](https://dev.to/bibimbop123/to-my-friend-zac-that-never-lacks-4678)
-- [Most Developers Don’t Know How to Write Proper Git Commits](https://dev.to/taherahmed/most-developers-dont-know-how-to-write-proper-git-commits-1gn7)
+- [Why PostgreSQL Row-Level Security Is the Right Approach to Django Multitenancy](https://dev.to/dvoraj75/why-postgresql-row-level-security-is-the-right-approach-to-django-multitenancy-3e1m)
+- [Building a Cost-Efficient Generative UI Architecture in React Native](https://dev.to/serifcolakel/building-a-cost-efficient-generative-ui-architecture-in-react-native-2d58)
+- [Building a Semantic Search API with Spring Boot and pgvector - Part 2: Designing the PostgreSQL Schema](https://dev.to/oozioma/building-a-semantic-search-api-with-spring-boot-and-pgvector-part-2-designing-the-postgresql-2jlb)
+- [Building an AI Agent Team: How I Save 80% on API Costs with Smart Model Routing](https://dev.to/bear_yellow_67b56678247d8/building-an-ai-agent-team-how-i-save-80-on-api-costs-with-smart-model-routing-58o7)
+- [MCP Development with Amazon App Runner and Gemini CLI](https://dev.to/gde/mcp-development-with-amazon-app-runner-and-gemini-cli-3pb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
