@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [MS Dynamics Web API Quirks: The Strange Case of Polymorphic Fields](https://dev.to/aspantel/ms-dynamics-web-api-quirks-the-strange-case-of-polymorphic-fields-1n8k)
-- [Introduction to Lmfit](https://dev.to/autonomousworld/introduction-to-lmfit-p03)
-- [I Evaluated Every AI Agent Observability Tool on the Market. Here&#39;s What&#39;s Actually Missing.](https://dev.to/utibe_okodi_339fb47a13ef5/i-evaluated-every-ai-agent-observability-tool-on-the-market-heres-whats-actually-missing-54c)
-- [Your AI Agent Just Failed in Production. Where Do You Even Start Debugging?](https://dev.to/utibe_okodi_339fb47a13ef5/your-ai-agent-just-failed-in-production-where-do-you-even-start-debugging-268)
-- [I Built a Free Android App to Track Subscriptions – Here&#39;s What I Learned](https://dev.to/sohail_manzoor_1297ab0256/i-built-a-free-android-app-to-track-subscriptions-heres-what-i-learned-4p69)
+- [Why “I’ll Start Tomorrow” Is My Favorite Lie](https://dev.to/safdarali25/why-ill-start-tomorrow-is-my-favorite-lie-4b4c)
+- [We audit our code regularly, why don&#39;t we audit our monitoring?](https://dev.to/paulg7516/we-audit-our-code-regularly-why-dont-we-audit-our-monitoring-lfh)
+- [Inside Aura: Building a Live AI Fashion Agent with Gemini Live, Vertex AI, and Google Cloud](https://dev.to/l_25792d02ec25e107aeb/inside-aura-building-a-live-ai-fashion-agent-with-gemini-live-vertex-ai-and-google-cloud-h8n)
+- [Your Vibecoded Prototype Took 30 Minutes. Shipping It Will Take 100 Hours.](https://dev.to/adioof/your-vibecoded-prototype-took-30-minutes-shipping-it-will-take-100-hours-4bkf)
+- [n8n vs Zapier in 2026: Which Automation Tool Should You Actually Use?](https://dev.to/atlasdigital/n8n-vs-zapier-in-2026-which-automation-tool-should-you-actually-use-n6m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
