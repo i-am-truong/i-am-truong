@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Interactive Star Rating Component](https://dev.to/naimesh_rao_aa5688c26bee6/interactive-star-rating-component-32p7)
-- [Snakebite v2.0: The All-in-One Vulnerability Scanner for Modern Security Testing](https://dev.to/xkillerdeadx/snakebite-v20-the-all-in-one-vulnerability-scanner-for-modern-security-testing-4b9e)
-- [CSS Anchor Positioning Menu Highlight](https://dev.to/naimesh_rao_aa5688c26bee6/css-anchor-positioning-menu-highlight-110d)
-- [Learn Kubernetes Architecture : In different way](https://dev.to/dhritiraj_nath_212b175585/learn-kubernetes-architecture-in-different-way-2pm2)
-- [URL and HTML Encoding: A Practical Guide to Safer Web Applications](https://dev.to/padawanabhi/url-and-html-encoding-a-practical-guide-to-safer-web-applications-2807)
+- [🌓 CSS System Theme Detection – Auto Dark &amp; Light Mode](https://dev.to/naimesh_rao_aa5688c26bee6/css-system-theme-detection-auto-dark-light-mode-4ikb)
+- [The Complete AI Stack for Social Media Managers in 2026](https://dev.to/atlasdigital/the-complete-ai-stack-for-social-media-managers-in-2026-4lb0)
+- [Building On-Premises AI Analytics for Industrial Automation with Ollama](https://dev.to/bassomarsu/building-on-premises-ai-analytics-for-industrial-automation-with-ollama-4jhp)
+- [Whisnap: Your CLI Solution for Audio and Video Transcription](https://dev.to/aloycwl/whisnap-your-cli-solution-for-audio-and-video-transcription-3cj0)
+- [A Comprehensive Comparison of JavaScript Frameworks: Which One Suits You Best?](https://dev.to/yourleader/a-comprehensive-comparison-of-javascript-frameworks-which-one-suits-you-best-p61)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
