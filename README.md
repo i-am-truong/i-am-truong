@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SonarQube vs ESLint: Code Quality Platform vs JavaScript Linter &lpar;2026&rpar;](https://dev.to/rahulxsingh/sonarqube-vs-eslint-code-quality-platform-vs-javascript-linter-2026-i55)
-- [Code Review Best Practices - The Complete Guide for Engineering Teams &lpar;2026&rpar;](https://dev.to/rahulxsingh/code-review-best-practices-the-complete-guide-for-engineering-teams-2026-52a4)
-- [How I Built a Real-Time Voice AI University Counsellor with Google ADK and Gemini Live in 10 Days](https://dev.to/eliotc/how-i-built-a-real-time-voice-ai-university-counsellor-with-google-adk-and-gemini-live-in-10-days-1if7)
-- [The Three Reliability Modes I See in Production AI Agents](https://dev.to/the_bookmaster/the-three-reliability-modes-i-see-in-production-ai-agents-3h8n)
-- [How I Built a WhatsApp Chat Analyzer Powered by Claude AI](https://dev.to/match_mgt/how-i-built-a-whatsapp-chat-analyzer-powered-by-claude-ai-mgl)
+- [BK&#39;s Soul Quest](https://dev.to/bibimbop123/bks-soul-quest-3on6)
+- [Your printer hates your designs. So I made them print-ready by default.](https://dev.to/heocoi/your-printer-hates-your-designs-so-i-made-them-print-ready-by-default-12fm)
+- [Cidersoft vs Toptal: An Honest Comparison for Engineering Leaders](https://dev.to/ilya_lipovich_6d50e89a0ee/cidersoft-vs-toptal-an-honest-comparison-for-engineering-leaders-5756)
+- [How We Built 26 SEO-Optimized Pages in 10 Minutes with Next.js](https://dev.to/yunhan_dev/how-we-built-26-seo-optimized-pages-in-10-minutes-with-nextjs-54n3)
+- [Getting Started with Google Cloud: A Step-by-Step Guide for 2026](https://dev.to/mulera/getting-started-with-google-cloud-a-step-by-step-guide-for-2026-17hh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
