@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Explain Recursive Structure Finding Algorithms](https://dev.to/luciangreen/explain-recursive-structure-finding-algorithms-4hgg)
-- [Differences Between Little Endian, Big Endian, Middle Endian, and Bi-endian](https://dev.to/bmf_san/differences-between-little-endian-big-endian-middle-endian-and-bi-endian-22ce)
-- [Exploring Articles on Development Productivity](https://dev.to/bmf_san/exploring-articles-on-development-productivity-31ch)
-- [Considering the Shelf Life of Design](https://dev.to/bmf_san/considering-the-shelf-life-of-design-3ia5)
-- [About Design Docs](https://dev.to/bmf_san/about-design-docs-327f)
+- [Excluding Table Names from Laravel&#39;s Many-to-Many Relations](https://dev.to/bmf_san/excluding-table-names-from-laravels-many-to-many-relations-449e)
+- [Participated as Core Staff and LT Speaker at Laravel JP Conference](https://dev.to/bmf_san/participated-as-core-staff-and-lt-speaker-at-laravel-jp-conference-16jp)
+- [Database ID Design: UUID vs Auto Increment vs ULID — Which to Choose?](https://dev.to/bmf_san/database-id-design-uuid-vs-auto-increment-vs-ulid-which-to-choose-3c29)
+- [HTTP and SSL/TLS](https://dev.to/bmf_san/http-and-ssltls-38nm)
+- [Creating a Cross-platform Data Sandbox that makes Working with Data Easier and Faster](https://dev.to/muraddevs/creating-a-cross-platform-data-sandbox-that-makes-working-with-data-easier-and-faster-4mi5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
