@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 41 of #100DaysOfCode — TypeScript on the Backend &lpar;Node.js + Express&rpar;](https://dev.to/m_saad_ahmad/day-41-of-100daysofcode-typescript-on-the-backend-nodejs-express-1g97)
-- [MiroFish: The Open-Source AI Engine That Builds Digital Worlds to Predict the Future](https://dev.to/arshtechpro/mirofish-the-open-source-ai-engine-that-builds-digital-worlds-to-predict-the-future-ki8)
-- [Open Graph Tags: Make Your Links Look Good When Shared](https://dev.to/_84f82f80221994c2ae/open-graph-tags-make-your-links-look-good-when-shared-12pp)
-- [QR Codes for Developers: Beyond the Basics](https://dev.to/_84f82f80221994c2ae/qr-codes-for-developers-beyond-the-basics-4982)
-- [Privacy Policy for Your Side Project: A Developer&#39;s No-BS Guide](https://dev.to/_84f82f80221994c2ae/privacy-policy-for-your-side-project-a-developers-no-bs-guide-1iob)
+- [Docker commands](https://dev.to/methew_smith/docker-commands-1kh)
+- [Get Your Hands Dirty - AgentCore - Memory](https://dev.to/mindy_jen_phd/get-your-hands-dirty-agentcore-memory-8bf)
+- [MCP Design in the Real World](https://dev.to/lihsuanlung/mcp-design-in-the-real-world-3446)
+- [Running LLMs Locally: A Rigorous Benchmark of Phi-3, Mistral, and Llama 3.2 on Ollama](https://dev.to/gurjeet333/running-llms-locally-a-rigorous-benchmark-of-phi-3-mistral-and-llama-32-on-ollama-2289)
+- [Tokis: A Performance-First, Token-Native UI Library for Building Modern Design Systems](https://dev.to/prerak/tokis-a-performance-first-token-native-ui-library-for-building-modern-design-systems-2cad)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
