@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🌓 CSS System Theme Detection – Auto Dark &amp; Light Mode](https://dev.to/naimesh_rao_aa5688c26bee6/css-system-theme-detection-auto-dark-light-mode-4ikb)
-- [The Complete AI Stack for Social Media Managers in 2026](https://dev.to/atlasdigital/the-complete-ai-stack-for-social-media-managers-in-2026-4lb0)
-- [Building On-Premises AI Analytics for Industrial Automation with Ollama](https://dev.to/bassomarsu/building-on-premises-ai-analytics-for-industrial-automation-with-ollama-4jhp)
-- [Whisnap: Your CLI Solution for Audio and Video Transcription](https://dev.to/aloycwl/whisnap-your-cli-solution-for-audio-and-video-transcription-3cj0)
-- [A Comprehensive Comparison of JavaScript Frameworks: Which One Suits You Best?](https://dev.to/yourleader/a-comprehensive-comparison-of-javascript-frameworks-which-one-suits-you-best-p61)
+- [Fortran meets AI](https://dev.to/viksaaskool/fortran-meets-ai-3oac)
+- [Deploy OpenClaw on AWS EC2 with Amazon Bedrock Using Terraform — No API Keys Required](https://dev.to/jhparmar/deploy-openclaw-on-aws-ec2-with-amazon-bedrock-using-terraform-no-api-keys-required-4gg4)
+- [Gemini CLI and Jules: my March 2026 stack](https://dev.to/rowan_m/gemini-cli-and-jules-my-march-2026-stack-4146)
+- [Frontend System Design: Virtualization &amp; Handling Large Data Sets](https://dev.to/zeeshanali0704/frontend-system-design-virtualization-handling-large-data-sets-29nf)
+- [#13 Known is a drop! Inheritance Tricky questions -Type of Inheritance JAVA](https://dev.to/deepikandas/13-known-is-a-drop-inheritance-tricky-questions-type-of-inheritance-java-3hlo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
