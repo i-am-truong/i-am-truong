@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Termix v2.0.0 - RDP, VNC, and Telnet Support &lpar;self-hosted Termius alternative that syncs across all devices&rpar;](https://dev.to/luke_gustafson_b876923974/termix-v200-rdp-vnc-and-telnet-support-self-hosted-termius-alternative-that-syncs-across-all-hl)
-- [Website Maintenance](https://dev.to/seongbae/website-maintenance-3m0i)
-- [Introducing AgentPay: payments for autonomous agents](https://dev.to/ghazghazibahaeddinarch/introducing-agentpay-payments-for-autonomous-agents-58l4)
-- [How We Let Users Register with Just a Phone Number on a NOT NULL Email Column](https://dev.to/linou518/how-we-let-users-register-with-just-a-phone-number-on-a-not-null-email-column-16on)
-- [The Pitfall of LLM Fallback Chains: The Day DeepSeek Erased Our Agent&#39;s Personality](https://dev.to/linou518/the-pitfall-of-llm-fallback-chains-the-day-deepseek-erased-our-agents-personality-2fj8)
+- [I Built a Cyberpunk Dev Registry &lpar;And Now It’s Open Source&rpar;](https://dev.to/sudhanshuambastha/i-built-a-cyberpunk-dev-registry-and-now-its-open-source-382o)
+- [Solana Token-2022 Security: The Hidden Attack Surface in Token Extensions Every DeFi Protocol Must Address](https://dev.to/ohmygod/solana-token-2022-security-the-hidden-attack-surface-in-token-extensions-every-defi-protocol-must-1jke)
+- [Flutter vs Native App Development in 2026: Which One Should Businesses Choose?](https://dev.to/digitalinnovationsdev/flutter-vs-native-app-development-in-2026-which-one-should-businesses-choose-1p6b)
+- [The Long Walk: What They Don&#39;t Tell You About Building Hardware in Germany](https://dev.to/padawanabhi/the-long-walk-what-they-dont-tell-you-about-building-hardware-in-germany-1ode)
+- [I built a TypeScript client for Ceph Object Storage because the only npm package was 7 years old. Here&#39;s What I Learned](https://dev.to/okay_anshu/i-built-a-typescript-client-for-ceph-object-storage-because-the-only-npm-package-was-7-years-old-1nh0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
