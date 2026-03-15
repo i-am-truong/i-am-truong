@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Architectural Foundations of MLOps, AIOps, and LLMOps](https://dev.to/anusha_kuppili/architectural-foundations-of-mlops-aiops-and-llmops-1471)
-- [Common Array Methods in JavaScript](https://dev.to/harman_panwar_46de8d9454b/common-array-methods-in-javascript-2jl9)
-- [SurrealDB: The &quot;One-Size-Fits-All&quot; Database for Lazy Developers &lpar;Part 1&rpar;](https://dev.to/jakubb_ing/surrealdb-the-one-size-fits-all-database-for-lazy-developers-part-1-1foe)
-- [I built an open-source \&quot;limbic system\&quot; for AI agents — emotion, bias, and memory as MCP servers](https://dev.to/kagioneko/i-built-an-open-source-limbic-system-for-ai-agents-emotion-bias-and-memory-as-mcp-servers-2ln1)
-- [Interrupt Handlers as Locks: A Deadlock-Free SMP Design](https://dev.to/debug_codefurry_7be8b1b2f/interrupt-handlers-as-locks-a-deadlock-free-smp-design-1lf2)
+- [GitHub Spark - A First Look at GitHub’s New Developer Tool](https://dev.to/akkaraponph/github-spark-a-first-look-at-githubs-new-developer-tool-hjo)
+- [Arrow Functions in JavaScript: A Simpler Way to Write Functions](https://dev.to/satyasootar/arrow-functions-in-javascript-a-simpler-way-to-write-functions-532o)
+- [Managing Azure Storage: Containers, File Shares, and Security Tokens](https://dev.to/louis_oodo_a59b230b894609/managing-azure-storage-containers-file-shares-and-security-tokens-23dn)
+- [Function Declaration vs Function Expression](https://dev.to/satyasootar/function-declaration-vs-function-expression-4b3k)
+- [GPT-5 Codex Shorts Pipeline, How I Bootstrapped 5,800 Lines in 4 Commits](https://dev.to/ji_ai/gpt-5-codex-shorts-pipeline-how-i-bootstrapped-5800-lines-in-4-commits-11hl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
