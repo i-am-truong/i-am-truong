@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Spark - A First Look at GitHub’s New Developer Tool](https://dev.to/akkaraponph/github-spark-a-first-look-at-githubs-new-developer-tool-hjo)
-- [Arrow Functions in JavaScript: A Simpler Way to Write Functions](https://dev.to/satyasootar/arrow-functions-in-javascript-a-simpler-way-to-write-functions-532o)
-- [Managing Azure Storage: Containers, File Shares, and Security Tokens](https://dev.to/louis_oodo_a59b230b894609/managing-azure-storage-containers-file-shares-and-security-tokens-23dn)
-- [Function Declaration vs Function Expression](https://dev.to/satyasootar/function-declaration-vs-function-expression-4b3k)
-- [GPT-5 Codex Shorts Pipeline, How I Bootstrapped 5,800 Lines in 4 Commits](https://dev.to/ji_ai/gpt-5-codex-shorts-pipeline-how-i-bootstrapped-5800-lines-in-4-commits-11hl)
+- [HumanityTree](https://dev.to/artanidos/humanitytree-46ca)
+- [The Magic of this, call&lpar;&rpar;, apply&lpar;&rpar;, and bind&lpar;&rpar;](https://dev.to/satyasootar/the-magic-of-this-call-apply-and-bind-e0e)
+- [WP-CLI Auditor: Triage Wordfence RSS Advisories Against Installed Plugins](https://dev.to/victorstackai/wp-cli-auditor-triage-wordfence-rss-advisories-against-installed-plugins-2di9)
+- [Stop Brainstorming Startup Ideas. Mine Them From Developer Communities](https://dev.to/kushagara_singh_e8cddd8fa/stop-brainstorming-startup-ideas-mine-them-from-developer-communities-46al)
+- [Understanding Object-Oriented Programming in JavaScript](https://dev.to/satyasootar/understanding-object-oriented-programming-in-javascript-23fl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
