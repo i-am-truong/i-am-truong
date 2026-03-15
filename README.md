@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Cyberpunk Dev Registry &lpar;And Now It’s Open Source&rpar;](https://dev.to/sudhanshuambastha/i-built-a-cyberpunk-dev-registry-and-now-its-open-source-382o)
-- [Solana Token-2022 Security: The Hidden Attack Surface in Token Extensions Every DeFi Protocol Must Address](https://dev.to/ohmygod/solana-token-2022-security-the-hidden-attack-surface-in-token-extensions-every-defi-protocol-must-1jke)
-- [Flutter vs Native App Development in 2026: Which One Should Businesses Choose?](https://dev.to/digitalinnovationsdev/flutter-vs-native-app-development-in-2026-which-one-should-businesses-choose-1p6b)
-- [The Long Walk: What They Don&#39;t Tell You About Building Hardware in Germany](https://dev.to/padawanabhi/the-long-walk-what-they-dont-tell-you-about-building-hardware-in-germany-1ode)
-- [I built a TypeScript client for Ceph Object Storage because the only npm package was 7 years old. Here&#39;s What I Learned](https://dev.to/okay_anshu/i-built-a-typescript-client-for-ceph-object-storage-because-the-only-npm-package-was-7-years-old-1nh0)
+- [Week 6: How GusLift Matches Rides in Real Time](https://dev.to/guslift/week-6-how-guslift-matches-rides-in-real-time-41pl)
+- [Why Domain-Specific AI Often Outperforms General Models](https://dev.to/natan_vidra/why-domain-specific-ai-often-outperforms-general-models-33dk)
+- [Building a QR Code Generator with 10 Content Types and Scan Analytics](https://dev.to/shaishav_patel_271fdcd61a/building-a-qr-code-generator-with-10-content-types-and-scan-analytics-1dfg)
+- [mediaforge — A Modern TypeScript FFmpeg Wrapper &lpar;fluent-ffmpeg is Dead, Long Live mediaforge&rpar;](https://dev.to/globaltechinfo/mediaforge-a-modern-typescript-ffmpeg-wrapper-fluent-ffmpeg-is-dead-long-live-mediaforge-5ajm)
+- [WEFT OS – Rethinking “Firefox OS” For 2026](https://dev.to/marcoallegretti/weft-os-rethinking-firefox-os-for-2026-1aai)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
