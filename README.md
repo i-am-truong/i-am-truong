@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why PostgreSQL Row-Level Security Is the Right Approach to Django Multitenancy](https://dev.to/dvoraj75/why-postgresql-row-level-security-is-the-right-approach-to-django-multitenancy-3e1m)
-- [Building a Cost-Efficient Generative UI Architecture in React Native](https://dev.to/serifcolakel/building-a-cost-efficient-generative-ui-architecture-in-react-native-2d58)
-- [Building a Semantic Search API with Spring Boot and pgvector - Part 2: Designing the PostgreSQL Schema](https://dev.to/oozioma/building-a-semantic-search-api-with-spring-boot-and-pgvector-part-2-designing-the-postgresql-2jlb)
-- [Building an AI Agent Team: How I Save 80% on API Costs with Smart Model Routing](https://dev.to/bear_yellow_67b56678247d8/building-an-ai-agent-team-how-i-save-80-on-api-costs-with-smart-model-routing-58o7)
-- [MCP Development with Amazon App Runner and Gemini CLI](https://dev.to/gde/mcp-development-with-amazon-app-runner-and-gemini-cli-3pb)
+- [Breaking the Language Barrier When Truth Matters Most](https://dev.to/samar_shetye/breaking-the-language-barrier-when-truth-matters-most-5b5o)
+- [Turning 105 Session Logs into Build Logs: A Claude Code Automation Pipeline](https://dev.to/ji_ai/turning-105-session-logs-into-build-logs-a-claude-code-automation-pipeline-30lg)
+- [Building Hybrid Identity at Scale: 1,000+ Users from Active Directory to Entra ID](https://dev.to/chrisiam/building-hybrid-identity-at-scale-1000-users-from-active-directory-to-entra-id-4e11)
+- [Building an AI Trading Bot with Claude Code: 14 Sessions, 961 Tool Calls](https://dev.to/ji_ai/building-an-ai-trading-bot-with-claude-code-14-sessions-961-tool-calls-4o0n)
+- [Olostep Web Data API for AI Agents &amp; RAG Pipelines](https://dev.to/yasser_sami/olostep-web-data-api-for-ai-agents-rag-pipelines-4fd7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
