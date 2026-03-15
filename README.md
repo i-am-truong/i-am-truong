@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why “I’ll Start Tomorrow” Is My Favorite Lie](https://dev.to/safdarali25/why-ill-start-tomorrow-is-my-favorite-lie-4b4c)
-- [We audit our code regularly, why don&#39;t we audit our monitoring?](https://dev.to/paulg7516/we-audit-our-code-regularly-why-dont-we-audit-our-monitoring-lfh)
-- [Inside Aura: Building a Live AI Fashion Agent with Gemini Live, Vertex AI, and Google Cloud](https://dev.to/l_25792d02ec25e107aeb/inside-aura-building-a-live-ai-fashion-agent-with-gemini-live-vertex-ai-and-google-cloud-h8n)
-- [Your Vibecoded Prototype Took 30 Minutes. Shipping It Will Take 100 Hours.](https://dev.to/adioof/your-vibecoded-prototype-took-30-minutes-shipping-it-will-take-100-hours-4bkf)
-- [n8n vs Zapier in 2026: Which Automation Tool Should You Actually Use?](https://dev.to/atlasdigital/n8n-vs-zapier-in-2026-which-automation-tool-should-you-actually-use-n6m)
+- [AX: A Design Discipline for the AI Agent Era](https://dev.to/attebury/ax-a-design-discipline-for-the-ai-agent-era-266e)
+- [I built the personal AI that OpenClaw should have been](https://dev.to/heliosnova/i-built-the-personal-ai-that-openclaw-should-have-been-1fgj)
+- [Building Adaptive Language Coaching with Gemini Live API](https://dev.to/ryan_ahamer_105192d3215e3/building-adaptive-language-coaching-with-gemini-live-api-2ngd)
+- [Golang. M:P:G Model](https://dev.to/silver_dev/golang-mpg-model-kg6)
+- [Stop Manually Creating App Store Screenshots: A Founder&#39;s Practical Solution](https://dev.to/darren_egick_5774637ad15e/stop-manually-creating-app-store-screenshots-a-founders-practical-solution-378d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
