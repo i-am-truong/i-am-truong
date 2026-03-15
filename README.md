@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a No-Code AI Pipeline with n8n and GPT-4o-mini](https://dev.to/automatewithai/how-to-build-a-no-code-ai-pipeline-with-n8n-and-gpt-4o-mini-n75)
-- [I Built an AI That Finds Your Bugs and Rewrites Your Code to Fix Them.](https://dev.to/kamaumbuguadev/i-built-an-ai-that-finds-your-bugs-and-rewrites-your-code-to-fix-them-4e21)
-- [Deploying a Flask Application On AWS with CI/CD Pipeline](https://dev.to/lmprojectdevto/deploying-a-flask-application-on-aws-with-cicd-pipeline-4i2l)
-- [End-to-End Testing with Playwright: Complete Guide with Page Object Model](https://dev.to/satish_reddybudati_42652/end-to-end-testing-with-playwright-complete-guide-with-page-object-model-3nai)
-- [E2E Test Automation Strategy for Backend Upgrades &lpar;Java, Go, Node.js&rpar;](https://dev.to/satish_reddybudati_42652/e2e-test-automation-strategy-for-backend-upgrades-java-go-nodejs-1ma8)
+- [webhookstorage is live](https://dev.to/sammons/webhookstorage-is-live-21fb)
+- [Picking a Package Manager for Your CI/CD Pipeline](https://dev.to/ymerzouka/picking-a-package-manager-for-your-cicd-pipeline-59lc)
+- [טוב, שוב הלם. ביקשתי מקלוד קוד לשווק את האתר שיצרתי, &lpar;אתר משחקים חינוכיים סופ...](https://dev.to/__4766e6d50a94a/tvb-shvb-hlm-byqshty-mqlvd-qvd-lshvvq-t-htr-shytsrty-tr-mshkhqym-khynvkyym-svp-4od3)
+- [Ship Safer Code: The GitHub Actions Patterns That Actually Matter](https://dev.to/prabhu_ponnambalam_67867a/ship-safer-code-the-github-actions-patterns-that-actually-matter-1omd)
+- [Simple coding example for Inheritance](https://dev.to/deepikandas/simple-coding-example-for-inheritance-2p29)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
