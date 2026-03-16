@@ -120,11 +120,13 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AX: A Design Discipline for the AI Agent Era](https://dev.to/attebury/ax-a-design-discipline-for-the-ai-agent-era-266e)
-- [I built the personal AI that OpenClaw should have been](https://dev.to/heliosnova/i-built-the-personal-ai-that-openclaw-should-have-been-1fgj)
-- [Building Adaptive Language Coaching with Gemini Live API](https://dev.to/ryan_ahamer_105192d3215e3/building-adaptive-language-coaching-with-gemini-live-api-2ngd)
-- [Golang. M:P:G Model](https://dev.to/silver_dev/golang-mpg-model-kg6)
-- [Stop Manually Creating App Store Screenshots: A Founder&#39;s Practical Solution](https://dev.to/darren_egick_5774637ad15e/stop-manually-creating-app-store-screenshots-a-founders-practical-solution-378d)
+- [I Built an AI Assistant That Actually Tells You What It&#39;s Doing](https://dev.to/jonahreed/i-built-an-ai-assistant-that-actually-tells-you-what-its-doing-54f4)
+- [Mahotas: Open source software for scriptable computer vision](https://dev.to/paperium/mahotas-open-source-software-for-scriptable-computer-vision-3mep)
+- [Forget retyping! 🐧 If a Linux command fails due to missing permissions, just type:
+sudo !!
+The &quot;Bang Bang&quot; shortcut re-runs your last command with root access. Save time and stay in the flow! 🔥 #Linux #Terminal #DevTips](https://dev.to/7assanosama/forget-retyping-if-a-linux-command-fails-due-to-missing-permissions-just-type-sudo-the-1o7n)
+- [Small Architecture Firms Winning Sports Complex Contracts With AI Rendering](https://dev.to/aitoolsreview3/small-architecture-firms-winning-sports-complex-contracts-with-ai-rendering-2nk2)
+- [How Kitchenware Brands Cut Product Photography Costs 77% With AI Image Editors](https://dev.to/aitoolsreview3/how-kitchenware-brands-cut-product-photography-costs-77-with-ai-image-editors-1kcd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
