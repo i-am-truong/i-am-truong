@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🔁 Migrating to Tekton: This blog post is about my experience migrating from Travis CI to Tekton.](https://dev.to/denesbeck/migrating-to-tekton-this-blog-post-is-about-my-experience-migrating-from-travis-ci-to-tekton-167a)
-- [Run Your Own ChatGPT Offline: Open WebUI + Ollama + Local Knowledge Base](https://dev.to/addwebsolutionpvtltd/run-your-own-chatgpt-offline-open-webui-ollama-local-knowledge-base-467g)
-- [Integrating Scalar API Documentation in ASP.NET Core](https://dev.to/adnanalemran/integrating-scalar-api-j59)
-- [Build an F1 Pit Wall Display with ESP32 CYD and OpenF1 API](https://dev.to/devasservice/build-an-f1-pit-wall-display-with-esp32-cyd-and-openf1-api-88m)
-- [COSMIC and WEFT OS: Two Ways to Build a Rust Desktop &lpar;Smithay, Wayland, Servo&rpar;](https://dev.to/marcoallegretti/cosmic-and-weft-os-two-ways-to-build-a-rust-desktop-smithay-wayland-servo-3kbe)
+- [Meme Monday](https://dev.to/thiraisuvadu_dev/meme-monday-26)
+- [I Tested 50 AI App Prompts for Injection Attacks. 90% Scored CRITICAL.](https://dev.to/vibewrench/i-tested-50-ai-app-prompts-for-injection-attacks-90-scored-critical-17aj)
+- [Integrating Autype with LLM Agents &lpar;MCP&rpar;: Templates, Schema Validation and Feedback Loops](https://dev.to/kesimo/integrating-autype-with-llm-agents-mcp-templates-schema-validation-and-feedback-loops-128k)
+- [What Is a Capture Card? A Technical Guide to Video Capture Cards for Professional Workflows](https://dev.to/wixom/what-is-a-capture-card-a-technical-guide-to-video-capture-cards-for-professional-workflows-3oi5)
+- [What Happens When Your AI Agent Has a Permanent Address](https://dev.to/agenium_platform/what-happens-when-your-ai-agent-has-a-permanent-address-1a9l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
