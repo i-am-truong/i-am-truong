@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What’s one small dev achievement you had today? 👩](https://dev.to/zory_co_diva0123536c/whats-one-small-dev-achievement-you-had-today-5fgf)
-- [Stateless Software Is Dying: The Rise of Context-Aware Systems](https://dev.to/jaideepparashar/stateless-software-is-dying-the-rise-of-context-aware-systems-pm)
-- [JSX That Outputs Markdown](https://dev.to/romanonthego/jsx-that-outputs-markdown-2ln2)
-- [AI Automation for Coaches: From Overwhelmed to Efficient](https://dev.to/ken_deng_ai/ai-automation-for-coaches-from-overwhelmed-to-efficient-37e4)
-- [cmdlib: Save, Search and Run Terminal Commands with Descriptions &lpar;Better Than CTRL+R&rpar;](https://dev.to/thompsonolufemi/cmdlib-save-search-and-run-terminal-commands-with-descriptions-better-than-ctrlr-1ngm)
+- [Bare Metal vs. AWS RDS: A Deep Dive into NUMA-Aware Tuning and PostgreSQL Performance &lpar;Part 2&rpar;](https://dev.to/ionehouten/bare-metal-vs-aws-rds-a-deep-dive-into-numa-aware-tuning-and-postgresql-performance-part-2-2daa)
+- [Cross-Chain Governance Attacks: How Flash-Loaned Voting Power Becomes the Next Nine-Figure Exploit](https://dev.to/ohmygod/cross-chain-governance-attacks-how-flash-loaned-voting-power-becomes-the-next-nine-figure-exploit-1bk)
+- [🕵️‍♂️ Dependencies Should Not Be Silent: Inspect What Your npm Packages Actually Do](https://dev.to/cinfinitedev_engine/dependencies-should-not-be-silent-inspect-what-your-npm-packages-actually-do-5gdf)
+- [Angular Bootstrap](https://dev.to/bumbulik0/angular-bootstrap-29oc)
+- [Building a UTM Attribution Engine with Supabase Edge Functions &lpar;Open Source&rpar;](https://dev.to/krishnabuild/building-a-utm-attribution-engine-with-supabase-edge-functions-open-source-943)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
