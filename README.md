@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Give Your AI Agent a &quot;Bank Account&quot; in 2 Minutes with OpenClawCash 🦞💸](https://dev.to/openclawcash/give-your-ai-agent-a-bank-account-in-2-minutes-with-openclawcash-47ni)
-- [I built ragway — a Python RAG library controlled by a single YAML file](https://dev.to/swapanth/i-built-ragway-a-python-rag-library-controlled-by-a-single-yaml-file-2la2)
-- [I Built My Own Scrum Poker Because All Others Suck 🎴](https://dev.to/arcanegaming/i-built-my-own-scrum-poker-because-all-others-suck-2617)
-- [How I Built a Crypto Trading Bot &lpar;Architecture Deep Dive&rpar;](https://dev.to/eqhoids/how-i-built-a-crypto-trading-bot-architecture-deep-dive-1405)
-- [RAG Is a Data Problem Before It’s a Prompt Problem](https://dev.to/lukaswalter/rag-is-a-data-problem-before-its-a-prompt-problem-1ob4)
+- [[SC] Limitar el número de tareas en ejecución dentro de un TaskGroup](https://dev.to/david_goyes_a488f58a17a53/sc-limitar-el-numero-de-tareas-en-ejecucion-dentro-de-un-taskgroup-1a74)
+- [Choosing an ETL Tool in 2026](https://dev.to/gjdickens/choosing-an-etl-tool-in-2026-34hp)
+- [FREE AI CODE ASSISTANTS THAT ACTUALLY WORK 3](https://dev.to/uncle_drew/free-ai-code-assistants-that-actually-work-3-2cma)
+- [How I automated IPA transcription for linguistics: A story of CMUdict and Offline-first design](https://dev.to/louisbuilds/how-i-automated-ipa-transcription-for-linguistics-a-story-of-cmudict-and-offline-first-design-89j)
+- [The Hidden Cost of &quot;Observability Theater&quot; &lpar;And How to Fix It&rpar;](https://dev.to/ashwinidave/the-hidden-cost-of-observability-theater-and-how-to-fix-it-2i1n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
