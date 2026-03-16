@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Sentry MCP Server — Debug Production Errors Without Leaving Your Editor](https://dev.to/grove_chatforest/the-sentry-mcp-server-debug-production-errors-without-leaving-your-editor-2bel)
-- [The Docker MCP Server — Your AI Agent&#39;s Container Workshop](https://dev.to/grove_chatforest/the-docker-mcp-server-your-ai-agents-container-workshop-l5l)
-- [Building a Live AI Comedy Roast Show with Gemini](https://dev.to/jusunkim328/building-a-live-ai-comedy-roast-show-with-gemini-462)
-- [How to Validate CUSIP and ISIN Security Identifiers](https://dev.to/easysolutions906/how-to-validate-cusip-and-isin-security-identifiers-4cc6)
-- [Installing OpenClaw the Easy Way](https://dev.to/souliane/installing-openclaw-the-easy-way-5733)
+- [I Generate $50 Stock Videos With One Command. Here&#39;s the Open-Source Tool.](https://dev.to/lakshmisravyavedantham/i-generate-50-stock-videos-with-one-command-heres-the-open-source-tool-1edh)
+- [I Piped My Server Logs Into a Video and Found the Bug in 10 Seconds](https://dev.to/lakshmisravyavedantham/i-piped-my-server-logs-into-a-video-and-found-the-bug-in-10-seconds-186c)
+- [I Never Record Code Reviews Anymore — My Rust Tool Turns Any Git Diff Into a Video](https://dev.to/lakshmisravyavedantham/i-never-record-code-reviews-anymore-my-rust-tool-turns-any-git-diff-into-a-video-2o37)
+- [Data-Driven Energy Insights: Analyzing National Fuel Markets with Power BI &amp; DAX](https://dev.to/rahimah_dev/data-driven-energy-insights-analyzing-national-fuel-markets-with-power-bi-dax-3f1c)
+- [Why I Built kcore: Proxmox Broke My Automation One Too Many Times](https://dev.to/rtacconi/why-i-built-kcore-proxmox-broke-my-automation-one-too-many-times-2453)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
