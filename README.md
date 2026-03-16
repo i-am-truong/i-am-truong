@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hard Numbers: HTTP/2 vs UDP Overlay for Agent Communication](https://dev.to/teoslayer/hard-numbers-http2-vs-udp-overlay-for-agent-communication-3070)
-- [Trust Debt: The Production Crisis Hidden Inside AI-Generated Codebases](https://dev.to/deepak_mishra_35863517037/trust-debt-the-production-crisis-hidden-inside-ai-generated-codebases-125h)
-- [Building RepWise: A Live AI Gym Coach That Rescues Your Workout](https://dev.to/sujnesh/building-repwise-a-live-ai-gym-coach-that-rescues-your-workout-1f86)
-- [I Got Tired of Lame QR Scanners, So I Built My Own for Brave 🦁](https://dev.to/coderanik/i-got-tired-of-lame-qr-scanners-so-i-built-my-own-for-brave-10if)
-- [How we built a real-time pharmacogenomic agent with Gemini Live and C++23 at 40 nanoseconds](https://dev.to/riyaneel/how-we-built-a-real-time-pharmacogenomic-agent-with-gemini-live-and-c23-at-40-nanoseconds-2g2p)
+- [Why Open Source AI Tools Are Quietly Winning](https://dev.to/safdarali25/why-open-source-ai-tools-are-quietly-winning-nj6)
+- [Travigo](https://dev.to/ssithub/travigo-21j2)
+- [I Built a Free Freelance Rate Calculator - Here&#39;s Why Most Freelancers Undercharge](https://dev.to/_84f82f80221994c2ae/i-built-a-free-freelance-rate-calculator-heres-why-most-freelancers-undercharge-ked)
+- [Threading Async Together](https://dev.to/tavari/threading-async-together-hf1)
+- [How I built sandboxes that boot in 28ms using Firecracker snapshots](https://dev.to/adwitiya/how-i-built-sandboxes-that-boot-in-28ms-using-firecracker-snapshots-i0k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
