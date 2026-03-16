@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the Scrapbook: Building a Developer Knowledge Commons](https://dev.to/dannwaneri/beyond-the-scrapbook-building-a-developer-knowledge-commons-4d40)
-- [Stop Shipping Ungoverned AI: Add Policy Gates, Audit Trails, and Compliance to Every LLM Call](https://dev.to/ramon_marrero_dd8539e55fb/stop-shipping-ungoverned-ai-add-policy-gates-audit-trails-and-compliance-to-every-llm-call-2o2a)
-- [MiroFish: Simulating the Future, One Agent at a Time](https://dev.to/sarvabharan/mirofish-simulating-the-future-one-agent-at-a-time-1mce)
-- [Open-sourcing Foundation CLI — a dependency-aware project scaffolding tool](https://dev.to/ronak_parmar_033c50d168b5/open-sourcing-foundation-cli-a-dependency-aware-project-scaffolding-tool-pan)
-- [Someone Said My Failure Is the Product](https://dev.to/deadbyapril/someone-said-my-failure-is-the-product-1810)
+- [Give Your AI Agent a &quot;Bank Account&quot; in 2 Minutes with OpenClawCash 🦞💸](https://dev.to/openclawcash/give-your-ai-agent-a-bank-account-in-2-minutes-with-openclawcash-47ni)
+- [I built ragway — a Python RAG library controlled by a single YAML file](https://dev.to/swapanth/i-built-ragway-a-python-rag-library-controlled-by-a-single-yaml-file-2la2)
+- [I Built My Own Scrum Poker Because All Others Suck 🎴](https://dev.to/arcanegaming/i-built-my-own-scrum-poker-because-all-others-suck-2617)
+- [How I Built a Crypto Trading Bot &lpar;Architecture Deep Dive&rpar;](https://dev.to/eqhoids/how-i-built-a-crypto-trading-bot-architecture-deep-dive-1405)
+- [RAG Is a Data Problem Before It’s a Prompt Problem](https://dev.to/lukaswalter/rag-is-a-data-problem-before-its-a-prompt-problem-1ob4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
