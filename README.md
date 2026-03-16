@@ -120,13 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built an AI Assistant That Actually Tells You What It&#39;s Doing](https://dev.to/jonahreed/i-built-an-ai-assistant-that-actually-tells-you-what-its-doing-54f4)
-- [Mahotas: Open source software for scriptable computer vision](https://dev.to/paperium/mahotas-open-source-software-for-scriptable-computer-vision-3mep)
-- [Forget retyping! 🐧 If a Linux command fails due to missing permissions, just type:
-sudo !!
-The &quot;Bang Bang&quot; shortcut re-runs your last command with root access. Save time and stay in the flow! 🔥 #Linux #Terminal #DevTips](https://dev.to/7assanosama/forget-retyping-if-a-linux-command-fails-due-to-missing-permissions-just-type-sudo-the-1o7n)
-- [Small Architecture Firms Winning Sports Complex Contracts With AI Rendering](https://dev.to/aitoolsreview3/small-architecture-firms-winning-sports-complex-contracts-with-ai-rendering-2nk2)
-- [How Kitchenware Brands Cut Product Photography Costs 77% With AI Image Editors](https://dev.to/aitoolsreview3/how-kitchenware-brands-cut-product-photography-costs-77-with-ai-image-editors-1kcd)
+- [Taming Legacy APIs with Snapshot Testing](https://dev.to/kreya/taming-legacy-apis-with-snapshot-testing-64l)
+- [From MVP to Production: Tools That Grow With Your SaaS 🚀](https://dev.to/dev_kiran/from-mvp-to-production-tools-that-grow-with-your-saas-148)
+- [I Built a 3D Memory Palace That Listens, Remembers, and Speaks Back using Gemini Live Agents](https://dev.to/yelnady/i-built-a-3d-memory-palace-that-listens-remembers-and-speaks-back-2hip)
+- [The Faster We Build with AI, the More Dangerous Bad Auth Becomes - And the Rarer Good Auth Becomes](https://dev.to/ravigupta97/the-faster-we-build-with-ai-the-more-dangerous-bad-auth-becomes-and-the-rarer-good-auth-becomes-1oeg)
+- [Making Tax Digital goes live in 21 days. Here&#39;s what actually changes.](https://dev.to/landolio/making-tax-digital-goes-live-in-21-days-heres-what-actually-changes-1137)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
