@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Open Source AI Tools Are Quietly Winning](https://dev.to/safdarali25/why-open-source-ai-tools-are-quietly-winning-nj6)
-- [Travigo](https://dev.to/ssithub/travigo-21j2)
-- [I Built a Free Freelance Rate Calculator - Here&#39;s Why Most Freelancers Undercharge](https://dev.to/_84f82f80221994c2ae/i-built-a-free-freelance-rate-calculator-heres-why-most-freelancers-undercharge-ked)
-- [Threading Async Together](https://dev.to/tavari/threading-async-together-hf1)
-- [How I built sandboxes that boot in 28ms using Firecracker snapshots](https://dev.to/adwitiya/how-i-built-sandboxes-that-boot-in-28ms-using-firecracker-snapshots-i0k)
+- [Serverless on AWS without infrastructure boilerplate](https://dev.to/hero64/serverless-on-aws-without-infrastructure-boilerplate-14ip)
+- [Building Argus: A Voice-Driven SOC Copilot with Gemini Live](https://dev.to/pratima-sapkota/building-argus-a-voice-driven-soc-copilot-with-gemini-live-2np6)
+- [Waypoint — Building a Universal Intent Layer for the Web](https://dev.to/prof2k/waypoint-building-a-universal-intent-layer-for-the-web-55a5)
+- [Build a Node.js HTTP Server From Scratch &lpar;No Frameworks Needed and Less Then 30 Lines!&rpar;](https://dev.to/deividas-strole/build-a-nodejs-http-server-from-scratch-no-frameworks-needed-and-less-then-30-lines-2gc6)
+- [Amibuddy Live homework agent app - Gemini Live agent hackathon](https://dev.to/_6bb3445a3dec/amibuddy-live-homework-agent-app-gemini-live-agent-hackathon-2mp3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
