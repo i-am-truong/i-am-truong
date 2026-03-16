@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Bare Metal vs. AWS RDS: A Deep Dive into NUMA-Aware Tuning and PostgreSQL Performance &lpar;Part 2&rpar;](https://dev.to/ionehouten/bare-metal-vs-aws-rds-a-deep-dive-into-numa-aware-tuning-and-postgresql-performance-part-2-2daa)
-- [Cross-Chain Governance Attacks: How Flash-Loaned Voting Power Becomes the Next Nine-Figure Exploit](https://dev.to/ohmygod/cross-chain-governance-attacks-how-flash-loaned-voting-power-becomes-the-next-nine-figure-exploit-1bk)
-- [🕵️‍♂️ Dependencies Should Not Be Silent: Inspect What Your npm Packages Actually Do](https://dev.to/cinfinitedev_engine/dependencies-should-not-be-silent-inspect-what-your-npm-packages-actually-do-5gdf)
-- [Angular Bootstrap](https://dev.to/bumbulik0/angular-bootstrap-29oc)
-- [Building a UTM Attribution Engine with Supabase Edge Functions &lpar;Open Source&rpar;](https://dev.to/krishnabuild/building-a-utm-attribution-engine-with-supabase-edge-functions-open-source-943)
+- [🔁 Migrating to Tekton: This blog post is about my experience migrating from Travis CI to Tekton.](https://dev.to/denesbeck/migrating-to-tekton-this-blog-post-is-about-my-experience-migrating-from-travis-ci-to-tekton-167a)
+- [Run Your Own ChatGPT Offline: Open WebUI + Ollama + Local Knowledge Base](https://dev.to/addwebsolutionpvtltd/run-your-own-chatgpt-offline-open-webui-ollama-local-knowledge-base-467g)
+- [Integrating Scalar API Documentation in ASP.NET Core](https://dev.to/adnanalemran/integrating-scalar-api-j59)
+- [Build an F1 Pit Wall Display with ESP32 CYD and OpenF1 API](https://dev.to/devasservice/build-an-f1-pit-wall-display-with-esp32-cyd-and-openf1-api-88m)
+- [COSMIC and WEFT OS: Two Ways to Build a Rust Desktop &lpar;Smithay, Wayland, Servo&rpar;](https://dev.to/marcoallegretti/cosmic-and-weft-os-two-ways-to-build-a-rust-desktop-smithay-wayland-servo-3kbe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
