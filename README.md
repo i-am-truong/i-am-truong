@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Yes – you can execute native Apps Script with Office 365 back end](https://dev.to/brucemcpherson/yes-you-can-execute-native-apps-script-with-office-365-back-end-3pjo)
-- [What if LLMs needed a spine, not a bigger brain?](https://dev.to/commonlayer/what-if-llms-needed-a-spine-not-a-bigger-brain-4812)
-- [I Pitched a Privacy-First Wearable AI at 4YFN as CTO — Here&#39;s What I Learned](https://dev.to/nazarf/i-pitched-a-privacy-first-wearable-ai-at-4yfn-as-cto-heres-what-i-learned-3f86)
-- [Why static trading strategies fail in non-stationary markets](https://dev.to/darwintiq/why-static-trading-strategies-fail-in-non-stationary-markets-4j24)
-- [Kiro for Test-Driven Development &lpar;TDD&rpar;](https://dev.to/dhelper/kiro-for-test-driven-development-tdd-11me)
+- [An Autonomous, Agentic, AI Assistant, Meet Alfred and this is how I built him.](https://dev.to/joojodontoh/an-autonomous-agentic-ai-assistant-meet-alfred-and-this-is-how-i-built-him-4e7m)
+- [The Problem with AI Tests That Don&#39;t Know Your App](https://dev.to/cypress/the-problem-with-ai-tests-that-dont-know-your-app-2iga)
+- [How I turned approved SQL into governed business KPIs](https://dev.to/vincenzo_nudo_842cddd9973/how-i-turned-approved-sql-into-governed-business-kpis-4673)
+- [Understanding the JavaScript Window Object](https://dev.to/bhupeshchandrajoshi/understanding-the-javascript-window-object-jd5)
+- [Show DEV: I Built an Operating System for Claude Code](https://dev.to/hugo662/show-dev-i-built-an-operating-system-for-claude-code-17p7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
