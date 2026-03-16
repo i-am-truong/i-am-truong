@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Serverless on AWS without infrastructure boilerplate](https://dev.to/hero64/serverless-on-aws-without-infrastructure-boilerplate-14ip)
-- [Building Argus: A Voice-Driven SOC Copilot with Gemini Live](https://dev.to/pratima-sapkota/building-argus-a-voice-driven-soc-copilot-with-gemini-live-2np6)
-- [Waypoint — Building a Universal Intent Layer for the Web](https://dev.to/prof2k/waypoint-building-a-universal-intent-layer-for-the-web-55a5)
-- [Build a Node.js HTTP Server From Scratch &lpar;No Frameworks Needed and Less Then 30 Lines!&rpar;](https://dev.to/deividas-strole/build-a-nodejs-http-server-from-scratch-no-frameworks-needed-and-less-then-30-lines-2gc6)
-- [Amibuddy Live homework agent app - Gemini Live agent hackathon](https://dev.to/_6bb3445a3dec/amibuddy-live-homework-agent-app-gemini-live-agent-hackathon-2mp3)
+- [Your First Infrastructure as Code in Four Commands](https://dev.to/aws-builders/your-first-infrastructure-as-code-in-four-commands-46ep)
+- [Mentori: Turning Documents Into Interactive AI Tutors with Gemini Live](https://dev.to/harshini_hegde_1ab5ee3606/mentori-turning-documents-into-interactive-ai-tutors-with-gemini-live-26nl)
+- [Building Apache Iceberg Lakehouse Storage with S3 Table Buckets](https://dev.to/tallgray1/building-apache-iceberg-lakehouse-storage-with-s3-table-buckets-4dio)
+- [Building Wand: A Voice + Hand Pointer Live Agent with Google ADK and Gemini Live](https://dev.to/lifuyuan/building-wand-a-voice-hand-pointer-live-agent-with-google-adk-and-gemini-live-2fp7)
+- [Claude Code: Agentic Coding Tool for Terminal](https://dev.to/stelixx-insider/claude-code-agentic-coding-tool-for-terminal-89m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
