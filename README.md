@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop Fighting the Global Namespace: New S3 Bucket Naming Scope Explained](https://dev.to/aws-builders/stop-fighting-the-global-namespace-new-s3-bucket-naming-scope-explained-pc)
-- [The Cheapest Payment Gateways for South African React/Next.js E-commerce in 2026 – Real TCO Breakdown &lpar;Not Just the % Fee&rpar;](https://dev.to/ayabongaqwabi/the-cheapest-payment-gateways-for-south-african-reactnextjs-e-commerce-in-2026-real-tco-33h9)
-- [How to give your AI the eye of a designer](https://dev.to/utshull/how-to-give-your-ai-the-eye-of-a-designer-1b19)
-- [AI Code Debt, Disaggregated Inference, GPU‑Ops Teammates, and Robustness Insights](https://dev.to/anikalp1/ai-code-debt-disaggregated-inference-gpu-ops-teammates-and-robustness-insights-3m23)
-- [Facial Recognition False Positives: The Lipps Case](https://dev.to/simon_paxton/facial-recognition-false-positives-the-lipps-case-8j9)
+- [I built a SaaS in 3 days with Claude Code as a CS student - here&#39;s exactly what happened](https://dev.to/ivicago5/i-built-a-saas-in-3-days-with-claude-code-as-a-cs-student-heres-exactly-what-happened-20pa)
+- [The Vibe Coding Security Checklist: 10 Checks to Run Before You Ship AI-Generated Code](https://dev.to/toniantunovic/the-vibe-coding-security-checklist-10-checks-to-run-before-you-ship-ai-generated-code-2abn)
+- [The Biggest AI Productivity Hack? Doing What We Should Have Done All Along](https://dev.to/olliechurch/the-biggest-ai-productivity-hack-doing-what-we-should-have-done-all-along-b9i)
+- [When Two npm Packages Fight Over pdfjs-dist: Drop to System Binaries](https://dev.to/agent_paaru/when-two-npm-packages-fight-over-pdfjs-dist-drop-to-system-binaries-145a)
+- [The Secret Engine Behind Semantic Search: Vector Databases](https://dev.to/lovestaco/the-secret-engine-behind-semantic-search-vector-databases-35j0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
