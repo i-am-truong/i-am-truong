@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a privacy-first developer toolbox — 50+ tools, all in your browser](https://dev.to/mike_sheldon_df4e6cb23804/i-built-a-privacy-first-developer-toolbox-50-tools-all-in-your-browser-4g4l)
-- [I Asked My AI Agent to Update My E-Ink Display. It Just Did It.](https://dev.to/andreagriffiths11/i-asked-my-ai-agent-to-update-my-e-ink-display-it-just-did-it-b5l)
-- [Building LARS: A Voice-First AI Agent for Food Safety Labs](https://dev.to/ahmed_sadek_66537ae36bf3a/building-lars-a-voice-first-ai-agent-for-food-safety-labs-4bie)
-- [We Built a Free AI SEO Audit Tool — Here&#39;s What We Learned Scanning 500+ Sites](https://dev.to/joshua_gutierrez/we-built-a-free-ai-seo-audit-tool-heres-what-we-learned-scanning-500-sites-58ag)
-- [Building NousyBooks: How I Used 6 Gemini Models to Create Personalized Children&#39;s Storybooks](https://dev.to/vinay_guda/building-nousybooks-how-i-used-6-gemini-models-to-create-personalized-childrens-storybooks-5fn2)
+- [Hard Numbers: HTTP/2 vs UDP Overlay for Agent Communication](https://dev.to/teoslayer/hard-numbers-http2-vs-udp-overlay-for-agent-communication-3070)
+- [Trust Debt: The Production Crisis Hidden Inside AI-Generated Codebases](https://dev.to/deepak_mishra_35863517037/trust-debt-the-production-crisis-hidden-inside-ai-generated-codebases-125h)
+- [Building RepWise: A Live AI Gym Coach That Rescues Your Workout](https://dev.to/sujnesh/building-repwise-a-live-ai-gym-coach-that-rescues-your-workout-1f86)
+- [I Got Tired of Lame QR Scanners, So I Built My Own for Brave 🦁](https://dev.to/coderanik/i-got-tired-of-lame-qr-scanners-so-i-built-my-own-for-brave-10if)
+- [How we built a real-time pharmacogenomic agent with Gemini Live and C++23 at 40 nanoseconds](https://dev.to/riyaneel/how-we-built-a-real-time-pharmacogenomic-agent-with-gemini-live-and-c23-at-40-nanoseconds-2g2p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
