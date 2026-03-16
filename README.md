@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Generate $50 Stock Videos With One Command. Here&#39;s the Open-Source Tool.](https://dev.to/lakshmisravyavedantham/i-generate-50-stock-videos-with-one-command-heres-the-open-source-tool-1edh)
-- [I Piped My Server Logs Into a Video and Found the Bug in 10 Seconds](https://dev.to/lakshmisravyavedantham/i-piped-my-server-logs-into-a-video-and-found-the-bug-in-10-seconds-186c)
-- [I Never Record Code Reviews Anymore — My Rust Tool Turns Any Git Diff Into a Video](https://dev.to/lakshmisravyavedantham/i-never-record-code-reviews-anymore-my-rust-tool-turns-any-git-diff-into-a-video-2o37)
-- [Data-Driven Energy Insights: Analyzing National Fuel Markets with Power BI &amp; DAX](https://dev.to/rahimah_dev/data-driven-energy-insights-analyzing-national-fuel-markets-with-power-bi-dax-3f1c)
-- [Why I Built kcore: Proxmox Broke My Automation One Too Many Times](https://dev.to/rtacconi/why-i-built-kcore-proxmox-broke-my-automation-one-too-many-times-2453)
+- [Stop Fighting the Global Namespace: New S3 Bucket Naming Scope Explained](https://dev.to/aws-builders/stop-fighting-the-global-namespace-new-s3-bucket-naming-scope-explained-pc)
+- [The Cheapest Payment Gateways for South African React/Next.js E-commerce in 2026 – Real TCO Breakdown &lpar;Not Just the % Fee&rpar;](https://dev.to/ayabongaqwabi/the-cheapest-payment-gateways-for-south-african-reactnextjs-e-commerce-in-2026-real-tco-33h9)
+- [How to give your AI the eye of a designer](https://dev.to/utshull/how-to-give-your-ai-the-eye-of-a-designer-1b19)
+- [AI Code Debt, Disaggregated Inference, GPU‑Ops Teammates, and Robustness Insights](https://dev.to/anikalp1/ai-code-debt-disaggregated-inference-gpu-ops-teammates-and-robustness-insights-3m23)
+- [Facial Recognition False Positives: The Lipps Case](https://dev.to/simon_paxton/facial-recognition-false-positives-the-lipps-case-8j9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
