@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Taming Legacy APIs with Snapshot Testing](https://dev.to/kreya/taming-legacy-apis-with-snapshot-testing-64l)
-- [From MVP to Production: Tools That Grow With Your SaaS 🚀](https://dev.to/dev_kiran/from-mvp-to-production-tools-that-grow-with-your-saas-148)
-- [I Built a 3D Memory Palace That Listens, Remembers, and Speaks Back using Gemini Live Agents](https://dev.to/yelnady/i-built-a-3d-memory-palace-that-listens-remembers-and-speaks-back-2hip)
-- [The Faster We Build with AI, the More Dangerous Bad Auth Becomes - And the Rarer Good Auth Becomes](https://dev.to/ravigupta97/the-faster-we-build-with-ai-the-more-dangerous-bad-auth-becomes-and-the-rarer-good-auth-becomes-1oeg)
-- [Making Tax Digital goes live in 21 days. Here&#39;s what actually changes.](https://dev.to/landolio/making-tax-digital-goes-live-in-21-days-heres-what-actually-changes-1137)
+- [What’s one small dev achievement you had today? 👩](https://dev.to/zory_co_diva0123536c/whats-one-small-dev-achievement-you-had-today-5fgf)
+- [Stateless Software Is Dying: The Rise of Context-Aware Systems](https://dev.to/jaideepparashar/stateless-software-is-dying-the-rise-of-context-aware-systems-pm)
+- [JSX That Outputs Markdown](https://dev.to/romanonthego/jsx-that-outputs-markdown-2ln2)
+- [AI Automation for Coaches: From Overwhelmed to Efficient](https://dev.to/ken_deng_ai/ai-automation-for-coaches-from-overwhelmed-to-efficient-37e4)
+- [cmdlib: Save, Search and Run Terminal Commands with Descriptions &lpar;Better Than CTRL+R&rpar;](https://dev.to/thompsonolufemi/cmdlib-save-search-and-run-terminal-commands-with-descriptions-better-than-ctrlr-1ngm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
