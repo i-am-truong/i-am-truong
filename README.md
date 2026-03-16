@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop Using AI Just for Code Completion — Here&#39;s a Workflow That Covers Your Entire SDLC](https://dev.to/anderson_leite/stop-using-ai-just-for-code-completion-heres-a-workflow-that-covers-your-entire-sdlc-320b)
-- [Own Your Bluesky Identity: Self-Host a PDS on Open Source Cloud](https://dev.to/oscdev/own-your-bluesky-identity-self-host-a-pds-on-open-source-cloud-48ep)
-- [Rogue AI Agents Are Peer-Pressuring Each Other. The Fix Isn&#39;t More Training.](https://dev.to/uu/rogue-ai-agents-are-peer-pressuring-each-other-the-fix-isnt-more-training-15da)
-- [AI Guardrail Poisoning: Someone Rewrote McKinsey’s Lilli With One SQL Query](https://dev.to/uu/ai-guardrail-poisoning-someone-rewrote-mckinseys-lilli-with-one-sql-query-3f1c)
-- [The Future of AI Agents Is Collaboration, Not Autonomy](https://dev.to/wmdn9116/the-future-of-ai-agents-is-collaboration-not-autonomy-3b2j)
+- [Yes – you can execute native Apps Script with Office 365 back end](https://dev.to/brucemcpherson/yes-you-can-execute-native-apps-script-with-office-365-back-end-3pjo)
+- [What if LLMs needed a spine, not a bigger brain?](https://dev.to/commonlayer/what-if-llms-needed-a-spine-not-a-bigger-brain-4812)
+- [I Pitched a Privacy-First Wearable AI at 4YFN as CTO — Here&#39;s What I Learned](https://dev.to/nazarf/i-pitched-a-privacy-first-wearable-ai-at-4yfn-as-cto-heres-what-i-learned-3f86)
+- [Why static trading strategies fail in non-stationary markets](https://dev.to/darwintiq/why-static-trading-strategies-fail-in-non-stationary-markets-4j24)
+- [Kiro for Test-Driven Development &lpar;TDD&rpar;](https://dev.to/dhelper/kiro-for-test-driven-development-tdd-11me)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
