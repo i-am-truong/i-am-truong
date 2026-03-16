@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [An Autonomous, Agentic, AI Assistant, Meet Alfred and this is how I built him.](https://dev.to/joojodontoh/an-autonomous-agentic-ai-assistant-meet-alfred-and-this-is-how-i-built-him-4e7m)
-- [The Problem with AI Tests That Don&#39;t Know Your App](https://dev.to/cypress/the-problem-with-ai-tests-that-dont-know-your-app-2iga)
-- [How I turned approved SQL into governed business KPIs](https://dev.to/vincenzo_nudo_842cddd9973/how-i-turned-approved-sql-into-governed-business-kpis-4673)
-- [Understanding the JavaScript Window Object](https://dev.to/bhupeshchandrajoshi/understanding-the-javascript-window-object-jd5)
-- [Show DEV: I Built an Operating System for Claude Code](https://dev.to/hugo662/show-dev-i-built-an-operating-system-for-claude-code-17p7)
+- [The Sentry MCP Server — Debug Production Errors Without Leaving Your Editor](https://dev.to/grove_chatforest/the-sentry-mcp-server-debug-production-errors-without-leaving-your-editor-2bel)
+- [The Docker MCP Server — Your AI Agent&#39;s Container Workshop](https://dev.to/grove_chatforest/the-docker-mcp-server-your-ai-agents-container-workshop-l5l)
+- [Building a Live AI Comedy Roast Show with Gemini](https://dev.to/jusunkim328/building-a-live-ai-comedy-roast-show-with-gemini-462)
+- [How to Validate CUSIP and ISIN Security Identifiers](https://dev.to/easysolutions906/how-to-validate-cusip-and-isin-security-identifiers-4cc6)
+- [Installing OpenClaw the Easy Way](https://dev.to/souliane/installing-openclaw-the-easy-way-5733)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
