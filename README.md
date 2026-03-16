@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Makes Your Firm Faster. Maister Explains Why It Doesn&#39;t Make You Richer.](https://dev.to/paul310/ai-makes-your-firm-faster-maister-explains-why-it-doesnt-make-you-richer-1kd)
-- [Why Single Agents Fail: Building Scalable AI Teams with the Manager-Worker Pattern](https://dev.to/programmingcentral/why-single-agents-fail-building-scalable-ai-teams-with-the-manager-worker-pattern-4nh5)
-- [Building WebClaw: A Personal Live AI Support Agent That Actually Operates Websites](https://dev.to/zaghadon/building-webclaw-a-personal-live-ai-support-agent-that-actually-operates-websites-4238)
-- [The 80/20 of AWS &lpar;the services that actually matter&rpar;](https://dev.to/heyjoshlee/the-8020-of-aws-the-services-that-actually-matter-561g)
-- [AVIF vs WebP vs HEIC vs JPEG XL: which image format should you use in 2026?](https://dev.to/serhii_kalyna_730b636889c/avif-vs-webp-vs-heic-vs-jpeg-xl-which-image-format-should-you-use-in-2026-4gn0)
+- [Running the Full Agentic Deployment Pipeline: Scaffold to Live CloudFront](https://dev.to/vivian_okose/running-the-full-agentic-deployment-pipeline-scaffold-to-live-cloudfront-2ggd)
+- [Why Local-First Is the Future of Productivity](https://dev.to/whisperd/why-local-first-is-the-future-of-productivity-3070)
+- [Tokens - the Language of AI](https://dev.to/alonkejzman/tokens-the-language-of-ai-36i7)
+- [[SC] Sendable](https://dev.to/david_goyes_a488f58a17a53/sc-sendable-4k3j)
+- [Atomic Query Construction &lpar;AQC&rpar; Design Pattern: A Practical CRUD Implementation Guide](https://dev.to/raheelshan/atomic-query-construction-aqc-design-pattern-a-practical-crud-implementation-guide-38hd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
