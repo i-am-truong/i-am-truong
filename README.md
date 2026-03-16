@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Meme Monday](https://dev.to/thiraisuvadu_dev/meme-monday-26)
-- [I Tested 50 AI App Prompts for Injection Attacks. 90% Scored CRITICAL.](https://dev.to/vibewrench/i-tested-50-ai-app-prompts-for-injection-attacks-90-scored-critical-17aj)
-- [Integrating Autype with LLM Agents &lpar;MCP&rpar;: Templates, Schema Validation and Feedback Loops](https://dev.to/kesimo/integrating-autype-with-llm-agents-mcp-templates-schema-validation-and-feedback-loops-128k)
-- [What Is a Capture Card? A Technical Guide to Video Capture Cards for Professional Workflows](https://dev.to/wixom/what-is-a-capture-card-a-technical-guide-to-video-capture-cards-for-professional-workflows-3oi5)
-- [What Happens When Your AI Agent Has a Permanent Address](https://dev.to/agenium_platform/what-happens-when-your-ai-agent-has-a-permanent-address-1a9l)
+- [Beyond the Scrapbook: Building a Developer Knowledge Commons](https://dev.to/dannwaneri/beyond-the-scrapbook-building-a-developer-knowledge-commons-4d40)
+- [Stop Shipping Ungoverned AI: Add Policy Gates, Audit Trails, and Compliance to Every LLM Call](https://dev.to/ramon_marrero_dd8539e55fb/stop-shipping-ungoverned-ai-add-policy-gates-audit-trails-and-compliance-to-every-llm-call-2o2a)
+- [MiroFish: Simulating the Future, One Agent at a Time](https://dev.to/sarvabharan/mirofish-simulating-the-future-one-agent-at-a-time-1mce)
+- [Open-sourcing Foundation CLI — a dependency-aware project scaffolding tool](https://dev.to/ronak_parmar_033c50d168b5/open-sourcing-foundation-cli-a-dependency-aware-project-scaffolding-tool-pan)
+- [Someone Said My Failure Is the Product](https://dev.to/deadbyapril/someone-said-my-failure-is-the-product-1810)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
