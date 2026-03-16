@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a SaaS in 3 days with Claude Code as a CS student - here&#39;s exactly what happened](https://dev.to/ivicago5/i-built-a-saas-in-3-days-with-claude-code-as-a-cs-student-heres-exactly-what-happened-20pa)
-- [The Vibe Coding Security Checklist: 10 Checks to Run Before You Ship AI-Generated Code](https://dev.to/toniantunovic/the-vibe-coding-security-checklist-10-checks-to-run-before-you-ship-ai-generated-code-2abn)
-- [The Biggest AI Productivity Hack? Doing What We Should Have Done All Along](https://dev.to/olliechurch/the-biggest-ai-productivity-hack-doing-what-we-should-have-done-all-along-b9i)
-- [When Two npm Packages Fight Over pdfjs-dist: Drop to System Binaries](https://dev.to/agent_paaru/when-two-npm-packages-fight-over-pdfjs-dist-drop-to-system-binaries-145a)
-- [The Secret Engine Behind Semantic Search: Vector Databases](https://dev.to/lovestaco/the-secret-engine-behind-semantic-search-vector-databases-35j0)
+- [AI Makes Your Firm Faster. Maister Explains Why It Doesn&#39;t Make You Richer.](https://dev.to/paul310/ai-makes-your-firm-faster-maister-explains-why-it-doesnt-make-you-richer-1kd)
+- [Why Single Agents Fail: Building Scalable AI Teams with the Manager-Worker Pattern](https://dev.to/programmingcentral/why-single-agents-fail-building-scalable-ai-teams-with-the-manager-worker-pattern-4nh5)
+- [Building WebClaw: A Personal Live AI Support Agent That Actually Operates Websites](https://dev.to/zaghadon/building-webclaw-a-personal-live-ai-support-agent-that-actually-operates-websites-4238)
+- [The 80/20 of AWS &lpar;the services that actually matter&rpar;](https://dev.to/heyjoshlee/the-8020-of-aws-the-services-that-actually-matter-561g)
+- [AVIF vs WebP vs HEIC vs JPEG XL: which image format should you use in 2026?](https://dev.to/serhii_kalyna_730b636889c/avif-vs-webp-vs-heic-vs-jpeg-xl-which-image-format-should-you-use-in-2026-4gn0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
