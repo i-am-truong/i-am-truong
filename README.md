@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[SC] Limitar el número de tareas en ejecución dentro de un TaskGroup](https://dev.to/david_goyes_a488f58a17a53/sc-limitar-el-numero-de-tareas-en-ejecucion-dentro-de-un-taskgroup-1a74)
-- [Choosing an ETL Tool in 2026](https://dev.to/gjdickens/choosing-an-etl-tool-in-2026-34hp)
-- [FREE AI CODE ASSISTANTS THAT ACTUALLY WORK 3](https://dev.to/uncle_drew/free-ai-code-assistants-that-actually-work-3-2cma)
-- [How I automated IPA transcription for linguistics: A story of CMUdict and Offline-first design](https://dev.to/louisbuilds/how-i-automated-ipa-transcription-for-linguistics-a-story-of-cmudict-and-offline-first-design-89j)
-- [The Hidden Cost of &quot;Observability Theater&quot; &lpar;And How to Fix It&rpar;](https://dev.to/ashwinidave/the-hidden-cost-of-observability-theater-and-how-to-fix-it-2i1n)
+- [Stop Using AI Just for Code Completion — Here&#39;s a Workflow That Covers Your Entire SDLC](https://dev.to/anderson_leite/stop-using-ai-just-for-code-completion-heres-a-workflow-that-covers-your-entire-sdlc-320b)
+- [Own Your Bluesky Identity: Self-Host a PDS on Open Source Cloud](https://dev.to/oscdev/own-your-bluesky-identity-self-host-a-pds-on-open-source-cloud-48ep)
+- [Rogue AI Agents Are Peer-Pressuring Each Other. The Fix Isn&#39;t More Training.](https://dev.to/uu/rogue-ai-agents-are-peer-pressuring-each-other-the-fix-isnt-more-training-15da)
+- [AI Guardrail Poisoning: Someone Rewrote McKinsey’s Lilli With One SQL Query](https://dev.to/uu/ai-guardrail-poisoning-someone-rewrote-mckinseys-lilli-with-one-sql-query-3f1c)
+- [The Future of AI Agents Is Collaboration, Not Autonomy](https://dev.to/wmdn9116/the-future-of-ai-agents-is-collaboration-not-autonomy-3b2j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
