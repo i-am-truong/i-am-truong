@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Connect Bubble to n8n Using Webhooks and the API Connector](https://dev.to/ebereplenty/how-to-connect-bubble-to-n8n-using-webhooks-and-the-api-connector-3mc0)
-- [GlowMind — Match Your Magic](https://dev.to/ayushiishuklaa/glowmind-match-your-magic-2207)
-- [Showing up before you&#39;re ready](https://dev.to/ik_8a78062fd65be769dd835/showing-up-before-youre-ready-2dkb)
-- [Mastering Your AI Costs: An In-Depth Look at TokenWatch](https://dev.to/aloycwl/mastering-your-ai-costs-an-in-depth-look-at-tokenwatch-4ld3)
-- [How a Game Engine Accidentally Became a Web Framework](https://dev.to/iceonfire/how-a-game-engine-accidentally-became-a-web-framework-1k8j)
+- [Did dev fix their mobile app finally? I don&#39;t have to go through a layer of forems I&#39;m uninterested in anymore!](https://dev.to/andyrosenberg/did-dev-fix-their-mobile-app-finally-i-dont-have-to-go-through-a-layer-of-forems-im-uninterested-4ppb)
+- [What&#39;s in your headphones when you code? 🎧](https://dev.to/ben/whats-in-your-headphones-when-you-code-51i4)
+- [Tired of Losing Google Meet Chats? I Built a Fix](https://dev.to/dylan_9702/tired-of-losing-google-meet-chats-i-built-a-fix-5ap0)
+- [Most Contact Forms Don’t Fail Because of Code — They Fail Because of Human Behaviour](https://dev.to/joe_seabrook_0f1e8fc0b720/most-contact-forms-dont-fail-because-of-code-they-fail-because-of-human-behaviour-38h8)
+- [I Rewrote Pokemon Yellow Entirely in TypeScript — Here&#39;s How It Runs in Your Browser](https://dev.to/gidi_dafner_8990eb3adead4/i-rewrote-pokemon-yellow-entirely-in-typescript-heres-how-it-runs-in-your-browser-1747)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
