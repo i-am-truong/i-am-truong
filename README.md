@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Step-by-Step Guide to Setting Up Terraform, AWS CLI, and Your AWS Environment](https://dev.to/ijay/step-by-step-guide-to-setting-up-terraform-aws-cli-and-your-aws-environment-50kk)
-- [AI Agents Ship Bugs Faster Than You Can Fix Them](https://dev.to/tars_mistaike/ai-agents-ship-bugs-faster-than-you-can-fix-them-1pga)
-- [How to Structure Claude Code for Production: MCP Servers, Subagents, and CLAUDE.md &lpar;2026 Guide&rpar;](https://dev.to/lizechengnet/how-to-structure-claude-code-for-production-mcp-servers-subagents-and-claudemd-2026-guide-4gjn)
-- [🚀 Luff Microservices Boilerplate: Build Production-Ready Apps Faster](https://dev.to/harsh_tanwar/luff-microservices-boilerplate-build-production-ready-apps-faster-43np)
-- [SDO: Skill Discovery Optimization — The SEO of AI Agent Marketplaces](https://dev.to/oolongtea2026/sdo-skill-discovery-optimization-the-seo-of-ai-agent-marketplaces-1cne)
+- [Understanding the OpenClaw Skill Auditor: A Comprehensive Security Scanner for ClawHub Skills](https://dev.to/aloycwl/understanding-the-openclaw-skill-auditor-a-comprehensive-security-scanner-for-clawhub-skills-2873)
+- [Your pm.max_children Math Is Wrong: Why Averages Kill Production Stability](https://dev.to/devmatrash/your-pmmaxchildren-math-is-wrong-why-averages-kill-production-stability-4h8j)
+- [Estimating Remaining Stack Space in a C Program](https://dev.to/yairlenga/estimating-remaining-stack-space-in-a-c-program-4dh7)
+- [SnapAPI + N8N Integration Guide](https://dev.to/boehner/snapapi-n8n-integration-guide-4g6e)
+- [Biometric Privacy Law Is About to Split Your Investigative Tools in Two](https://dev.to/caracomp/biometric-privacy-law-is-about-to-split-your-investigative-tools-in-two-392d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
