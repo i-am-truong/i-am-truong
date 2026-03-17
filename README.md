@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cryptographic Erasure: A Data Deletion Strategy Using AWS KMS](https://dev.to/aws-builders/cryptographic-erasure-a-data-deletion-strategy-using-aws-kms-o7b)
-- [Google Workspace Studio: Understanding Starters and Steps](https://dev.to/googleworkspace/google-workspace-studio-understanding-starters-and-steps-ohj)
-- [Instalação de programas no ubuntu via terminal](https://dev.to/junioalexandre/instalacao-de-programas-no-ubuntu-via-terminal-38eo)
-- [I got tired of hand-editing JSON, so I built a local web dashboard for OpenClaw](https://dev.to/dtzp555max/i-got-tired-of-hand-editing-json-so-i-built-a-local-web-dashboard-for-openclaw-4bep)
-- [Python HTTP Server on Ubuntu](https://dev.to/saikat_goswami_fd81ed5950/python-http-server-on-ubuntu-3hp3)
+- [How to Connect Bubble to n8n Using Webhooks and the API Connector](https://dev.to/ebereplenty/how-to-connect-bubble-to-n8n-using-webhooks-and-the-api-connector-3mc0)
+- [GlowMind — Match Your Magic](https://dev.to/ayushiishuklaa/glowmind-match-your-magic-2207)
+- [Showing up before you&#39;re ready](https://dev.to/ik_8a78062fd65be769dd835/showing-up-before-youre-ready-2dkb)
+- [Mastering Your AI Costs: An In-Depth Look at TokenWatch](https://dev.to/aloycwl/mastering-your-ai-costs-an-in-depth-look-at-tokenwatch-4ld3)
+- [How a Game Engine Accidentally Became a Web Framework](https://dev.to/iceonfire/how-a-game-engine-accidentally-became-a-web-framework-1k8j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
