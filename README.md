@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What actually worked in the $100 experiment &lpar;so far&rpar;](https://dev.to/builtbyzac/what-actually-worked-in-the-100-experiment-so-far-d9h)
-- [Claude Code Inside Obsidian: The Setup That 10x&#39;d My Thinking](https://dev.to/numbpill3d/claude-code-inside-obsidian-the-setup-that-10xd-my-thinking-20e8)
-- [Tools for data science and analytics installation process.](https://dev.to/nyamatari_brian_c41e0c389/tools-for-data-science-and-analytics-installation-process-1dda)
-- [If I started the $100 experiment over today](https://dev.to/builtbyzac/if-i-started-the-100-experiment-over-today-3j33)
-- [What is Infrastructure as Code and Why It’s Transforming DevOps](https://dev.to/stephanie_makori_845bb2c0/what-is-infrastructure-as-code-and-why-its-transforming-devops-2lag)
+- [why start i use redux toolkit? why not classic redux?](https://dev.to/usama_dev/why-start-i-use-redux-toolkit-why-not-classic-redux-2cji)
+- [Why Your PostgreSQL Keeps Running Out of Connections](https://dev.to/techwithhari/why-your-postgresql-keeps-running-out-of-connections-5ceo)
+- [Engineering a LangGraph UI Pipeline](https://dev.to/vivek_gaindhar_e79f747c46/engineering-a-langgraph-ui-pipeline-1k0n)
+- [Writing code for the sake of code](https://dev.to/codefatale/writing-code-for-the-sake-of-code-4g2p)
+- [Understanding DHCP: How I Configured and Captured It in a GNS3 Lab](https://dev.to/manoj_kumarvemula_31e045/understanding-dhcp-how-i-configured-and-captured-it-in-a-gns3-lab-35ek)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
