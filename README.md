@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I got tired of repackaging the same AI context, so I built a Go CLI](https://dev.to/erik_koo_de6ffb7e6aaff446/i-got-tired-of-repackaging-the-same-ai-context-so-i-built-a-go-cli-4njk)
-- [I Built a Blogging Platform — Feedback Wanted Before I Host! 🚀](https://dev.to/abhishek_holla_026d8c35b4/i-built-a-blogging-platform-feedback-wanted-before-i-host-377f)
-- [Bug that eluded me last time](https://dev.to/lee12/bug-that-eluded-me-last-time-3kdd)
-- [Beyond Text: seekdb Does Travel, Image Search, and Voice—in One DB](https://dev.to/seekdb/beyond-text-seekdb-does-travel-image-search-and-voice-in-one-db-mjk)
-- [6 Best Link in Bio for Creators in 2026](https://dev.to/ada_gao_1d265adffb29f2141/6-best-link-in-bio-for-creators-in-2026-1jkd)
+- [Struggling to Learn Docker? I Built a Hands-On Learning Environment &lpar;DockerQuest&rpar;](https://dev.to/praveenkanaparthy/struggling-to-learn-docker-i-built-a-hands-on-learning-environment-dockerquest-1422)
+- [Learning Automation the Smart Way: Scripts, Bots, and AI Workflows Every Developer Should Master](https://dev.to/eva_clari_289d85ecc68da48/learning-automation-the-smart-way-scripts-bots-and-ai-workflows-every-developer-should-master-1k2k)
+- [How I Automated Backlink Submission for My Side Projects &lpar;and Why You Should Care About SEO&rpar;](https://dev.to/mr-zhang-bo/how-i-automated-backlink-submission-for-my-side-projects-and-why-you-should-care-about-seo-1phi)
+- [🚀 I Built a QR Code Menu &amp; Ordering System for Restaurants &lpar;Restra Menu&rpar;](https://dev.to/restra_menu_8fae63d4ffc03/i-built-a-qr-code-menu-ordering-system-for-restaurants-restra-menu-4imo)
+- [How to protect your miners from DDOS attack](https://dev.to/james4u/how-to-protect-your-miners-from-ddos-attack-5fg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
