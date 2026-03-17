@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Struggling to Learn Docker? I Built a Hands-On Learning Environment &lpar;DockerQuest&rpar;](https://dev.to/praveenkanaparthy/struggling-to-learn-docker-i-built-a-hands-on-learning-environment-dockerquest-1422)
-- [Learning Automation the Smart Way: Scripts, Bots, and AI Workflows Every Developer Should Master](https://dev.to/eva_clari_289d85ecc68da48/learning-automation-the-smart-way-scripts-bots-and-ai-workflows-every-developer-should-master-1k2k)
-- [How I Automated Backlink Submission for My Side Projects &lpar;and Why You Should Care About SEO&rpar;](https://dev.to/mr-zhang-bo/how-i-automated-backlink-submission-for-my-side-projects-and-why-you-should-care-about-seo-1phi)
-- [🚀 I Built a QR Code Menu &amp; Ordering System for Restaurants &lpar;Restra Menu&rpar;](https://dev.to/restra_menu_8fae63d4ffc03/i-built-a-qr-code-menu-ordering-system-for-restaurants-restra-menu-4imo)
-- [How to protect your miners from DDOS attack](https://dev.to/james4u/how-to-protect-your-miners-from-ddos-attack-5fg)
+- [Scaling FastAPI from 180 1300 Requests/sec: What Actually Worked](https://dev.to/winsongr/scaling-fastapi-from-180-1300-requestssec-what-actually-worked-10n9)
+- [AlgRelay The Westworld Pattern: Multi-Stage Algorithmic Systems](https://dev.to/owly/algrelay-the-westworld-pattern-multi-stage-algorithmic-systems-543b)
+- [Is your Production RAG giving up too?](https://dev.to/royanannya/is-your-production-rag-giving-up-too-3pi0)
+- [Day 19 and 20 - Deployment: From Local System to Live Product](https://dev.to/imsushant12/day-19-and-20-deployment-from-local-system-to-live-product-1509)
+- [Stop Fighting With Paid Tools: I Launched a 100% Free Online Audio Cutter ✂️](https://dev.to/jinwen_hao_7a5d3d2a7cb6ae/stop-fighting-with-paid-tools-i-launched-a-100-free-online-audio-cutter-1d8i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
