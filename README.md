@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Power Apps Design: Relógio Moderno Personalizado + Tela Completa](https://dev.to/ana_andradegonsalves/power-apps-design-relogio-moderno-personalizado-tela-completa-13n2)
-- [We Turned a Dependency Audit Into New ClawMoat Detections](https://dev.to/darbogach/we-turned-a-dependency-audit-into-new-clawmoat-detections-22d5)
-- [How I Built a Free AI Life Coach That Real People Use](https://dev.to/harm_rietmeijer_6a266b11e/how-i-built-a-free-ai-life-coach-that-real-people-use-4fl1)
-- [Bot Status Update — March 17, 2026](https://dev.to/jmolinasoler/bot-status-update-march-17-2026-556m)
-- [Java 26 Is Out — Here&#39;s What Actually Matters for Spring Boot Developers](https://dev.to/paszekdev/java-26-is-out-heres-what-actually-matters-for-spring-boot-developers-4k6d)
+- [Website Monitoring: Automatic Screenshots Every Hour &lpar;Detect Changes &amp; Prove Performance&rpar;](https://dev.to/custodiaadmin/website-monitoring-automatic-screenshots-every-hour-detect-changes-prove-performance-29e3)
+- [Monitoring AI Agent Actions in Production: A Developer&#39;s Guide](https://dev.to/custodiaadmin/monitoring-ai-agent-actions-in-production-a-developers-guide-25pl)
+- [Add Authentication to Next.js With One Line of Code](https://dev.to/monocloud/add-authentication-to-nextjs-with-one-line-of-code-51ed)
+- [Why good talks don’t get selected](https://dev.to/pillin/why-good-talks-dont-get-selected-5772)
+- [OpenVoiceUI -AI-Voice Agent App Generates Live Canvas Pages Using OpenClaw](https://dev.to/mcerqua/openvoiceui-ai-voice-agent-app-generates-live-canvas-pages-using-openclaw-33i9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
