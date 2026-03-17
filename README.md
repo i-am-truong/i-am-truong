@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Scaling FastAPI from 180 1300 Requests/sec: What Actually Worked](https://dev.to/winsongr/scaling-fastapi-from-180-1300-requestssec-what-actually-worked-10n9)
-- [AlgRelay The Westworld Pattern: Multi-Stage Algorithmic Systems](https://dev.to/owly/algrelay-the-westworld-pattern-multi-stage-algorithmic-systems-543b)
-- [Is your Production RAG giving up too?](https://dev.to/royanannya/is-your-production-rag-giving-up-too-3pi0)
-- [Day 19 and 20 - Deployment: From Local System to Live Product](https://dev.to/imsushant12/day-19-and-20-deployment-from-local-system-to-live-product-1509)
-- [Stop Fighting With Paid Tools: I Launched a 100% Free Online Audio Cutter ✂️](https://dev.to/jinwen_hao_7a5d3d2a7cb6ae/stop-fighting-with-paid-tools-i-launched-a-100-free-online-audio-cutter-1d8i)
+- [Proof of Concept vs Prototype vs MVP: Knowing When to Use Which](https://dev.to/lollypop_vietnam_d12b708c/proof-of-concept-vs-prototype-vs-mvp-knowing-when-to-use-which-3ib6)
+- [How we reduced AI inference costs by 60% without sacrificing accuracy](https://dev.to/adamo_software/how-we-reduced-ai-inference-costs-by-60-without-sacrificing-accuracy-448h)
+- [When Autonomous AI Agents Go Mainstream: The Hidden Security Risks Behind OpenClaw](https://dev.to/meowth/when-autonomous-ai-agents-go-mainstream-the-hidden-security-risks-behind-openclaw-2ffg)
+- [Handling Crypto Exchange API Rate Limits Without Losing Your Mind](https://dev.to/kerryhank/handling-crypto-exchange-api-rate-limits-without-losing-your-mind-ag9)
+- [Cloudflare Performance Tuning for WordPress: What Actually Matters](https://dev.to/kerryhank/cloudflare-performance-tuning-for-wordpress-what-actually-matters-o8e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
