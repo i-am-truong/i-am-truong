@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built an AI Code Review Tool and Tested It Against 6 Competitors. Here&#39;s an Honest Breakdown.](https://dev.to/redoh/i-built-an-ai-code-review-tool-and-tested-it-against-6-competitors-heres-an-honest-breakdown-2oam)
-- [I missed Total Commander so much on macOS that I built my own file manager](https://dev.to/imodi79/i-missed-total-commander-so-much-on-macos-that-i-built-my-own-file-manager-44n4)
-- [Setting Up CocoIndex with Docker and pgvector - A Practical Guide](https://dev.to/cdnsteve/setting-up-cocoindex-with-docker-and-pgvector-a-practical-guide-3mag)
-- [ArduBIOS: Opcode Interpreter and ISA for Arduino](https://dev.to/leonardopinezi/ardubios-opcode-interpreter-and-isa-for-arduino-1oh2)
-- [pyGAEB: The Python Library That Unlocks GAEB Construction Data](https://dev.to/kalyanakannan_p/pygaeb-the-python-library-that-unlocks-gaeb-construction-data-2fap)
+- [Debugging Playwright Failures in CI Is Still Painful - I Tried to Fix It](https://dev.to/sentinelqa/debugging-playwright-failures-in-ci-is-still-painful-i-tried-to-fix-it-40g0)
+- [How I Reduced Latency by 40% Using Regional Cloud Setup](https://dev.to/tenbyte233/how-i-reduced-latency-by-40-using-regional-cloud-setup-37gh)
+- [Your Localhost is a Mess: 5 Signs It’s Time to Rebuild Your Dev Environment](https://dev.to/james_miller_8dc58a89cb9e/your-localhost-is-a-mess-5-signs-its-time-to-rebuild-your-dev-environment-32n)
+- [Why We Brought Ethereum&#39;s Most Important Signing Standard to Casper](https://dev.to/casperblockchain/why-we-brought-ethereums-most-important-signing-standard-to-casper-38k2)
+- [स्पीकर डायराइज़ेशन SYSTEM In Hindi](https://dev.to/jenil_sheth_3eb6f86dc4900/spiikr-ddaayraaijeshn-system-in-hindi-1818)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
