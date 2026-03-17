@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [why start i use redux toolkit? why not classic redux?](https://dev.to/usama_dev/why-start-i-use-redux-toolkit-why-not-classic-redux-2cji)
-- [Why Your PostgreSQL Keeps Running Out of Connections](https://dev.to/techwithhari/why-your-postgresql-keeps-running-out-of-connections-5ceo)
-- [Engineering a LangGraph UI Pipeline](https://dev.to/vivek_gaindhar_e79f747c46/engineering-a-langgraph-ui-pipeline-1k0n)
-- [Writing code for the sake of code](https://dev.to/codefatale/writing-code-for-the-sake-of-code-4g2p)
-- [Understanding DHCP: How I Configured and Captured It in a GNS3 Lab](https://dev.to/manoj_kumarvemula_31e045/understanding-dhcp-how-i-configured-and-captured-it-in-a-gns3-lab-35ek)
+- [I Built an AI Code Review Tool and Tested It Against 6 Competitors. Here&#39;s an Honest Breakdown.](https://dev.to/redoh/i-built-an-ai-code-review-tool-and-tested-it-against-6-competitors-heres-an-honest-breakdown-2oam)
+- [I missed Total Commander so much on macOS that I built my own file manager](https://dev.to/imodi79/i-missed-total-commander-so-much-on-macos-that-i-built-my-own-file-manager-44n4)
+- [Setting Up CocoIndex with Docker and pgvector - A Practical Guide](https://dev.to/cdnsteve/setting-up-cocoindex-with-docker-and-pgvector-a-practical-guide-3mag)
+- [ArduBIOS: Opcode Interpreter and ISA for Arduino](https://dev.to/leonardopinezi/ardubios-opcode-interpreter-and-isa-for-arduino-1oh2)
+- [pyGAEB: The Python Library That Unlocks GAEB Construction Data](https://dev.to/kalyanakannan_p/pygaeb-the-python-library-that-unlocks-gaeb-construction-data-2fap)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
