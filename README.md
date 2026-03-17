@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Did dev fix their mobile app finally? I don&#39;t have to go through a layer of forems I&#39;m uninterested in anymore!](https://dev.to/andyrosenberg/did-dev-fix-their-mobile-app-finally-i-dont-have-to-go-through-a-layer-of-forems-im-uninterested-4ppb)
-- [What&#39;s in your headphones when you code? 🎧](https://dev.to/ben/whats-in-your-headphones-when-you-code-51i4)
-- [Tired of Losing Google Meet Chats? I Built a Fix](https://dev.to/dylan_9702/tired-of-losing-google-meet-chats-i-built-a-fix-5ap0)
-- [Most Contact Forms Don’t Fail Because of Code — They Fail Because of Human Behaviour](https://dev.to/joe_seabrook_0f1e8fc0b720/most-contact-forms-dont-fail-because-of-code-they-fail-because-of-human-behaviour-38h8)
-- [I Rewrote Pokemon Yellow Entirely in TypeScript — Here&#39;s How It Runs in Your Browser](https://dev.to/gidi_dafner_8990eb3adead4/i-rewrote-pokemon-yellow-entirely-in-typescript-heres-how-it-runs-in-your-browser-1747)
+- [I gave a local LLM memory, moods, and a task loop. Then it wrote a philosophical book.](https://dev.to/southy404/i-gave-a-local-llm-memory-moods-and-a-task-loop-then-it-wrote-a-philosophical-book-57o8)
+- [.NET Programming Habits I Wish I’d Started Sooner](https://dev.to/csharp-programming/net-programming-habits-i-wish-id-started-sooner-5715)
+- [Send Bulk Emails in Python Using mail-senderpy](https://dev.to/extinctsion/send-bulk-emails-in-python-using-mail-senderpy-243o)
+- [The prompts that actually work with Claude Code &lpar;copy-paste ready&rpar;](https://dev.to/builtbyzac/the-prompts-that-actually-work-with-claude-code-copy-paste-ready-1ghm)
+- [Mantine QR Code - A Real QR Code Generator for Mantine](https://dev.to/undolog/mantine-qr-code-a-real-qr-code-generator-for-mantine-1a7j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
