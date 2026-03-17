@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Explaining the OpenClaw Personality Switcher Skill: Create, Switch, and Manage AI Personas](https://dev.to/aloycwl/explaining-the-openclaw-personality-switcher-skill-create-switch-and-manage-ai-personas-95b)
-- [Why Local-First AI Agents Are the Future &lpar;And Why It Matters for Your Privacy&rpar;](https://dev.to/m13v/why-local-first-ai-agents-are-the-future-and-why-it-matters-for-your-privacy-4ffm)
-- [When systemd-resolved Picks the Wrong DNS Server](https://dev.to/krjakbrjak/when-systemd-resolved-picks-the-wrong-dns-server-3pk5)
-- [How to monetize your AI agent tools with x402 micropayments](https://dev.to/nathanielc85523/how-to-monetize-your-ai-agent-tools-with-x402-micropayments-2l2d)
-- [Stop Letting AI Write Untestable Code. Add Determinism Back with TWD](https://dev.to/kevinccbsg/stop-letting-ai-write-untestable-code-add-determinism-back-with-twd-3a02)
+- [Step-by-Step Guide to Setting Up Terraform, AWS CLI, and Your AWS Environment](https://dev.to/ijay/step-by-step-guide-to-setting-up-terraform-aws-cli-and-your-aws-environment-50kk)
+- [AI Agents Ship Bugs Faster Than You Can Fix Them](https://dev.to/tars_mistaike/ai-agents-ship-bugs-faster-than-you-can-fix-them-1pga)
+- [How to Structure Claude Code for Production: MCP Servers, Subagents, and CLAUDE.md &lpar;2026 Guide&rpar;](https://dev.to/lizechengnet/how-to-structure-claude-code-for-production-mcp-servers-subagents-and-claudemd-2026-guide-4gjn)
+- [🚀 Luff Microservices Boilerplate: Build Production-Ready Apps Faster](https://dev.to/harsh_tanwar/luff-microservices-boilerplate-build-production-ready-apps-faster-43np)
+- [SDO: Skill Discovery Optimization — The SEO of AI Agent Marketplaces](https://dev.to/oolongtea2026/sdo-skill-discovery-optimization-the-seo-of-ai-agent-marketplaces-1cne)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
