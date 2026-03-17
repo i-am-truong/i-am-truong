@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Proof of Concept vs Prototype vs MVP: Knowing When to Use Which](https://dev.to/lollypop_vietnam_d12b708c/proof-of-concept-vs-prototype-vs-mvp-knowing-when-to-use-which-3ib6)
-- [How we reduced AI inference costs by 60% without sacrificing accuracy](https://dev.to/adamo_software/how-we-reduced-ai-inference-costs-by-60-without-sacrificing-accuracy-448h)
-- [When Autonomous AI Agents Go Mainstream: The Hidden Security Risks Behind OpenClaw](https://dev.to/meowth/when-autonomous-ai-agents-go-mainstream-the-hidden-security-risks-behind-openclaw-2ffg)
-- [Handling Crypto Exchange API Rate Limits Without Losing Your Mind](https://dev.to/kerryhank/handling-crypto-exchange-api-rate-limits-without-losing-your-mind-ag9)
-- [Cloudflare Performance Tuning for WordPress: What Actually Matters](https://dev.to/kerryhank/cloudflare-performance-tuning-for-wordpress-what-actually-matters-o8e)
+- [Getting Started with Sidekick &lpar;sdkck&rpar;: A Complete Setup Guide](https://dev.to/allentcm/getting-started-with-sidekick-sdkck-a-complete-setup-guide-460m)
+- [What is Markdown-Based Test Management?](https://dev.to/reema_riyazkhan_aa44ab89/what-is-markdown-based-test-management-11k2)
+- [HumanPersonaBase: A Language-Agnostic Framework for Human-like AI Communication](https://dev.to/rintaromatsumoto/humanpersonabase-a-language-agnostic-framework-for-human-like-ai-communication-2ilp)
+- [The Psychology of SaaS User Abandonment — And How a Product Design Consultant Fixes It](https://dev.to/foundey_eadc3df7af9a10298/the-psychology-of-saas-user-abandonment-and-how-a-product-design-consultant-fixes-it-439g)
+- [Oracle APEX Reporting Tools Comparison &lpar;2026 Edition&rpar;](https://dev.to/shanemccoy37/oracle-apex-reporting-tools-comparison-2026-edition-bf4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
