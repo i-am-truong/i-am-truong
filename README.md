@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How is Leyden improving Java Performance? Part 2 of 3](https://dev.to/delawen/how-is-leyden-improving-java-performance-part-2-of-3-n5n)
-- [A Practical Pattern for Comparing AI-Generated Code Before It Reaches Production](https://dev.to/leena_malhotra/a-practical-pattern-for-comparing-ai-generated-code-before-it-reaches-production-31lp)
-- [I Got Tired of AI Files Messing Up My Repos — So I Built This CLI](https://dev.to/takielias/i-got-tired-of-ai-files-messing-up-my-repos-so-i-built-this-cli-1cj4)
-- [How I Built a Production RAG Pipeline with FastAPI, pgvector and Cross-Encoder Reranking](https://dev.to/martin_palopoli/how-i-built-a-production-rag-pipeline-with-fastapi-pgvector-and-cross-encoder-reranking-j2o)
-- [Building CDDBS — Part 2: Inside the Analysis Pipeline](https://dev.to/be11amer/building-cddbs-part-2-inside-the-analysis-pipeline-14gh)
+- [Cryptographic Erasure: A Data Deletion Strategy Using AWS KMS](https://dev.to/aws-builders/cryptographic-erasure-a-data-deletion-strategy-using-aws-kms-o7b)
+- [Google Workspace Studio: Understanding Starters and Steps](https://dev.to/googleworkspace/google-workspace-studio-understanding-starters-and-steps-ohj)
+- [Instalação de programas no ubuntu via terminal](https://dev.to/junioalexandre/instalacao-de-programas-no-ubuntu-via-terminal-38eo)
+- [I got tired of hand-editing JSON, so I built a local web dashboard for OpenClaw](https://dev.to/dtzp555max/i-got-tired-of-hand-editing-json-so-i-built-a-local-web-dashboard-for-openclaw-4bep)
+- [Python HTTP Server on Ubuntu](https://dev.to/saikat_goswami_fd81ed5950/python-http-server-on-ubuntu-3hp3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
