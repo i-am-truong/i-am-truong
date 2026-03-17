@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Zed - dubuggler not showing value on hover](https://dev.to/nishant_badhautiya/zed-dubuggler-not-showing-value-on-hover-4fln)
-- [The Layer Missing from Every MCP vs A2A Debate](https://dev.to/agenium_platform/the-layer-missing-from-every-mcp-vs-a2a-debate-2pl0)
-- [I Gave AI Agents a Telecom Job Interview. Most Failed Without a Cheat Sheet](https://dev.to/mattercoder/i-gave-ai-agents-a-telecom-job-interview-most-failed-without-a-cheat-sheet-ddj)
-- [Claude CodeでSagaパターンを設計する：分散トランザクション・補償トランザクション・オーケストレーション](https://dev.to/myougatheaxo/claude-codedesagapatanwoshe-ji-surufen-san-toranzakusiyonbu-chang-toranzakusiyonokesutoresiyon-3hp0)
-- [What To Do When Your WordPress Site Goes Down &lpar;Step-by-Step&rpar;](https://dev.to/wpmultitool/what-to-do-when-your-wordpress-site-goes-down-step-by-step-2ao2)
+- [From Celery/Redis to Temporal: A Journey Toward Idempotency and Reliable Workflows](https://dev.to/wintrover/from-celeryredis-to-temporal-a-journey-toward-idempotency-and-reliable-workflows-k1i)
+- [Testing in the Age of AI Agents: How I Kept QA from Collapsing](https://dev.to/wintrover/testing-in-the-age-of-ai-agents-how-i-kept-qa-from-collapsing-2ld9)
+- [The Pitfalls of Test Coverage: Introducing Mutation Testing with Stryker and Cosmic Ray](https://dev.to/wintrover/the-pitfalls-of-test-coverage-introducing-mutation-testing-with-stryker-and-cosmic-ray-75)
+- [Do I Really Need Svelte in My Django Project? — A Practical Checklist I Wrote After Comparing Vanilla JS vs. Frameworks](https://dev.to/wintrover/do-i-really-need-svelte-in-my-django-project-a-practical-checklist-i-wrote-after-comparing-10ma)
+- [How Startups Can Reduce AWS Cloud Costs Without Sacrificing Performance](https://dev.to/khurram_bilal786/how-startups-can-reduce-aws-cloud-costs-without-sacrificing-performance-2gj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
