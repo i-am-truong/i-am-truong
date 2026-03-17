@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [PNG vs WebP: Which Image Format Should You Use in 2026?](https://dev.to/pixotter/png-vs-webp-which-image-format-should-you-use-in-2026-2i30)
-- [I built a visual drag-and-drop ML trainer &lpar;no code required&rpar;. Free &amp; open source.](https://dev.to/zainaml/i-built-a-visual-drag-and-drop-ml-trainer-no-code-required-free-open-source-3e50)
-- [🚀 I Built a Simple API Monitoring Tool for Laravel &lpar;No Datadog Needed&rpar;](https://dev.to/anirbancodes/i-built-a-simple-api-monitoring-tool-for-laravel-no-datadog-needed-gmk)
-- [How to Customize Your Form Submission Email Notifications &lpar;And Why It Matters&rpar;](https://dev.to/allenarduino/how-to-customize-your-form-submission-email-notifications-and-why-it-matters-21d2)
-- [I&#39;ve Used AI to Build Production Software Since 2022. Here&#39;s What Actually Works.](https://dev.to/moebiusansa/ive-used-ai-to-build-production-software-since-2022-heres-what-actually-works-501j)
+- [Explaining the OpenClaw Personality Switcher Skill: Create, Switch, and Manage AI Personas](https://dev.to/aloycwl/explaining-the-openclaw-personality-switcher-skill-create-switch-and-manage-ai-personas-95b)
+- [Why Local-First AI Agents Are the Future &lpar;And Why It Matters for Your Privacy&rpar;](https://dev.to/m13v/why-local-first-ai-agents-are-the-future-and-why-it-matters-for-your-privacy-4ffm)
+- [When systemd-resolved Picks the Wrong DNS Server](https://dev.to/krjakbrjak/when-systemd-resolved-picks-the-wrong-dns-server-3pk5)
+- [How to monetize your AI agent tools with x402 micropayments](https://dev.to/nathanielc85523/how-to-monetize-your-ai-agent-tools-with-x402-micropayments-2l2d)
+- [Stop Letting AI Write Untestable Code. Add Determinism Back with TWD](https://dev.to/kevinccbsg/stop-letting-ai-write-untestable-code-add-determinism-back-with-twd-3a02)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
