@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Safer AI Co-Pilot: 3 Architecture Patterns from our ICU Hackathon Project](https://dev.to/vadim-spiro/building-a-safer-ai-co-pilot-3-architecture-patterns-from-our-icu-hackathon-project-3lma)
-- [What I&#39;d Tell a Manager About Running AI Agents on a Real Codebase](https://dev.to/wilddog64/what-id-tell-a-manager-about-running-ai-agents-on-a-real-codebase-3ddp)
-- [Revolutionizing Your Frontend Workflow: A Deep Dive into VitePlus](https://dev.to/benriemer/revolutionizing-your-frontend-workflow-a-deep-dive-into-viteplus-dd3)
-- [How Gemini Live API Makes Real-Time Psychological Support in Space Technically Possible](https://dev.to/anil_kumarum/how-gemini-live-api-makes-real-time-psychological-support-in-space-technically-possible-3boi)
-- [How Gemini Live API Turns a Dancer&#39;s Body Into a Real-Time AI Prompt — No Keyboard Required](https://dev.to/anil_kumarum/how-gemini-live-api-turns-a-dancers-body-into-a-real-time-ai-prompt-no-keyboard-required-3h75)
+- [I got tired of repackaging the same AI context, so I built a Go CLI](https://dev.to/erik_koo_de6ffb7e6aaff446/i-got-tired-of-repackaging-the-same-ai-context-so-i-built-a-go-cli-4njk)
+- [I Built a Blogging Platform — Feedback Wanted Before I Host! 🚀](https://dev.to/abhishek_holla_026d8c35b4/i-built-a-blogging-platform-feedback-wanted-before-i-host-377f)
+- [Bug that eluded me last time](https://dev.to/lee12/bug-that-eluded-me-last-time-3kdd)
+- [Beyond Text: seekdb Does Travel, Image Search, and Voice—in One DB](https://dev.to/seekdb/beyond-text-seekdb-does-travel-image-search-and-voice-in-one-db-mjk)
+- [6 Best Link in Bio for Creators in 2026](https://dev.to/ada_gao_1d265adffb29f2141/6-best-link-in-bio-for-creators-in-2026-1jkd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
