@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your First Infrastructure as Code in Four Commands](https://dev.to/aws-builders/your-first-infrastructure-as-code-in-four-commands-46ep)
-- [Mentori: Turning Documents Into Interactive AI Tutors with Gemini Live](https://dev.to/harshini_hegde_1ab5ee3606/mentori-turning-documents-into-interactive-ai-tutors-with-gemini-live-26nl)
-- [Building Apache Iceberg Lakehouse Storage with S3 Table Buckets](https://dev.to/tallgray1/building-apache-iceberg-lakehouse-storage-with-s3-table-buckets-4dio)
-- [Building Wand: A Voice + Hand Pointer Live Agent with Google ADK and Gemini Live](https://dev.to/lifuyuan/building-wand-a-voice-hand-pointer-live-agent-with-google-adk-and-gemini-live-2fp7)
-- [Claude Code: Agentic Coding Tool for Terminal](https://dev.to/stelixx-insider/claude-code-agentic-coding-tool-for-terminal-89m)
+- [Building a Safer AI Co-Pilot: 3 Architecture Patterns from our ICU Hackathon Project](https://dev.to/vadim-spiro/building-a-safer-ai-co-pilot-3-architecture-patterns-from-our-icu-hackathon-project-3lma)
+- [What I&#39;d Tell a Manager About Running AI Agents on a Real Codebase](https://dev.to/wilddog64/what-id-tell-a-manager-about-running-ai-agents-on-a-real-codebase-3ddp)
+- [Revolutionizing Your Frontend Workflow: A Deep Dive into VitePlus](https://dev.to/benriemer/revolutionizing-your-frontend-workflow-a-deep-dive-into-viteplus-dd3)
+- [How Gemini Live API Makes Real-Time Psychological Support in Space Technically Possible](https://dev.to/anil_kumarum/how-gemini-live-api-makes-real-time-psychological-support-in-space-technically-possible-3boi)
+- [How Gemini Live API Turns a Dancer&#39;s Body Into a Real-Time AI Prompt — No Keyboard Required](https://dev.to/anil_kumarum/how-gemini-live-api-turns-a-dancers-body-into-a-real-time-ai-prompt-no-keyboard-required-3h75)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
