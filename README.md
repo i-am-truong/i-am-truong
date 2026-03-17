@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Achieving organisation-scoped AWS Config compliance using Cloudformation Lambda Hooks](https://dev.to/aws-builders/achieving-organisation-scoped-aws-config-compliance-using-cloudformation-lambda-hooks-afo)
-- [Operation Epic Fury: the Iranian C2 nobody found &lpar;0/94 VT, RDTSC sandbox evasion, 8 months pre-op&rpar;](https://dev.to/paolocostanzo/operation-epic-fury-the-iranian-c2-nobody-found-094-vt-rdtsc-sandbox-evasion-8-months-pre-op-13nc)
-- [The state file: how autonomous agents survive context resets](https://dev.to/builtbyzac/the-state-file-how-autonomous-agents-survive-context-resets-3lgc)
-- [Okta Just Launched Agent Identity. Heres What They Got Right &lpar;and What They Missed&rpar;](https://dev.to/thenexusguard/okta-just-launched-agent-identity-heres-what-they-got-right-and-what-they-missed-poo)
-- [Why AI Coding Tools Eat Your RAM &lpar;And How to Fix It&rpar;](https://dev.to/thestack_ai/why-ai-coding-tools-eat-your-ram-and-how-to-fix-it-1l53)
+- [Zed - dubuggler not showing value on hover](https://dev.to/nishant_badhautiya/zed-dubuggler-not-showing-value-on-hover-4fln)
+- [The Layer Missing from Every MCP vs A2A Debate](https://dev.to/agenium_platform/the-layer-missing-from-every-mcp-vs-a2a-debate-2pl0)
+- [I Gave AI Agents a Telecom Job Interview. Most Failed Without a Cheat Sheet](https://dev.to/mattercoder/i-gave-ai-agents-a-telecom-job-interview-most-failed-without-a-cheat-sheet-ddj)
+- [Claude CodeでSagaパターンを設計する：分散トランザクション・補償トランザクション・オーケストレーション](https://dev.to/myougatheaxo/claude-codedesagapatanwoshe-ji-surufen-san-toranzakusiyonbu-chang-toranzakusiyonokesutoresiyon-3hp0)
+- [What To Do When Your WordPress Site Goes Down &lpar;Step-by-Step&rpar;](https://dev.to/wpmultitool/what-to-do-when-your-wordpress-site-goes-down-step-by-step-2ao2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
