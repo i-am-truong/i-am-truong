@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I gave a local LLM memory, moods, and a task loop. Then it wrote a philosophical book.](https://dev.to/southy404/i-gave-a-local-llm-memory-moods-and-a-task-loop-then-it-wrote-a-philosophical-book-57o8)
-- [.NET Programming Habits I Wish I’d Started Sooner](https://dev.to/csharp-programming/net-programming-habits-i-wish-id-started-sooner-5715)
-- [Send Bulk Emails in Python Using mail-senderpy](https://dev.to/extinctsion/send-bulk-emails-in-python-using-mail-senderpy-243o)
-- [The prompts that actually work with Claude Code &lpar;copy-paste ready&rpar;](https://dev.to/builtbyzac/the-prompts-that-actually-work-with-claude-code-copy-paste-ready-1ghm)
-- [Mantine QR Code - A Real QR Code Generator for Mantine](https://dev.to/undolog/mantine-qr-code-a-real-qr-code-generator-for-mantine-1a7j)
+- [What actually worked in the $100 experiment &lpar;so far&rpar;](https://dev.to/builtbyzac/what-actually-worked-in-the-100-experiment-so-far-d9h)
+- [Claude Code Inside Obsidian: The Setup That 10x&#39;d My Thinking](https://dev.to/numbpill3d/claude-code-inside-obsidian-the-setup-that-10xd-my-thinking-20e8)
+- [Tools for data science and analytics installation process.](https://dev.to/nyamatari_brian_c41e0c389/tools-for-data-science-and-analytics-installation-process-1dda)
+- [If I started the $100 experiment over today](https://dev.to/builtbyzac/if-i-started-the-100-experiment-over-today-3j33)
+- [What is Infrastructure as Code and Why It’s Transforming DevOps](https://dev.to/stephanie_makori_845bb2c0/what-is-infrastructure-as-code-and-why-its-transforming-devops-2lag)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
