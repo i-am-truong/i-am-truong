@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Website Monitoring: Automatic Screenshots Every Hour &lpar;Detect Changes &amp; Prove Performance&rpar;](https://dev.to/custodiaadmin/website-monitoring-automatic-screenshots-every-hour-detect-changes-prove-performance-29e3)
-- [Monitoring AI Agent Actions in Production: A Developer&#39;s Guide](https://dev.to/custodiaadmin/monitoring-ai-agent-actions-in-production-a-developers-guide-25pl)
-- [Add Authentication to Next.js With One Line of Code](https://dev.to/monocloud/add-authentication-to-nextjs-with-one-line-of-code-51ed)
-- [Why good talks don’t get selected](https://dev.to/pillin/why-good-talks-dont-get-selected-5772)
-- [OpenVoiceUI -AI-Voice Agent App Generates Live Canvas Pages Using OpenClaw](https://dev.to/mcerqua/openvoiceui-ai-voice-agent-app-generates-live-canvas-pages-using-openclaw-33i9)
+- [What We Learned Building a macOS AI Agent in Swift &lpar;ScreenCaptureKit, Accessibility APIs, Async Pipelines&rpar;](https://dev.to/m13v/what-we-learned-building-a-macos-ai-agent-in-swift-screencapturekit-accessibility-apis-async-28fb)
+- [Anatomy of a RAG System Architecture](https://dev.to/letstalkoss/anatomy-of-a-rag-system-architecture-1l96)
+- [awesome-trending-repos: Auto-Tracking GitHub Trending](https://dev.to/furkankoykiran/awesome-trending-repos-auto-tracking-github-trending-1afj)
+- [awesome-trending-repos: GitHub Trending&#39;i Otomatik Takip Etme](https://dev.to/furkankoykiran/awesome-trending-repos-github-trendingi-otomatik-takip-etme-eb2)
+- [The Complete Beginner&#39;s Guide to GSD &lpar;Get Shit Done&rpar; Framework for Claude Code](https://dev.to/alikazmidev/the-complete-beginners-guide-to-gsd-get-shit-done-framework-for-claude-code-24h0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
