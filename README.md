@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Sidekick &lpar;sdkck&rpar;: A Complete Setup Guide](https://dev.to/allentcm/getting-started-with-sidekick-sdkck-a-complete-setup-guide-460m)
-- [What is Markdown-Based Test Management?](https://dev.to/reema_riyazkhan_aa44ab89/what-is-markdown-based-test-management-11k2)
-- [HumanPersonaBase: A Language-Agnostic Framework for Human-like AI Communication](https://dev.to/rintaromatsumoto/humanpersonabase-a-language-agnostic-framework-for-human-like-ai-communication-2ilp)
-- [The Psychology of SaaS User Abandonment — And How a Product Design Consultant Fixes It](https://dev.to/foundey_eadc3df7af9a10298/the-psychology-of-saas-user-abandonment-and-how-a-product-design-consultant-fixes-it-439g)
-- [Oracle APEX Reporting Tools Comparison &lpar;2026 Edition&rpar;](https://dev.to/shanemccoy37/oracle-apex-reporting-tools-comparison-2026-edition-bf4)
+- [Achieving organisation-scoped AWS Config compliance using Cloudformation Lambda Hooks](https://dev.to/aws-builders/achieving-organisation-scoped-aws-config-compliance-using-cloudformation-lambda-hooks-afo)
+- [Operation Epic Fury: the Iranian C2 nobody found &lpar;0/94 VT, RDTSC sandbox evasion, 8 months pre-op&rpar;](https://dev.to/paolocostanzo/operation-epic-fury-the-iranian-c2-nobody-found-094-vt-rdtsc-sandbox-evasion-8-months-pre-op-13nc)
+- [The state file: how autonomous agents survive context resets](https://dev.to/builtbyzac/the-state-file-how-autonomous-agents-survive-context-resets-3lgc)
+- [Okta Just Launched Agent Identity. Heres What They Got Right &lpar;and What They Missed&rpar;](https://dev.to/thenexusguard/okta-just-launched-agent-identity-heres-what-they-got-right-and-what-they-missed-poo)
+- [Why AI Coding Tools Eat Your RAM &lpar;And How to Fix It&rpar;](https://dev.to/thestack_ai/why-ai-coding-tools-eat-your-ram-and-how-to-fix-it-1l53)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
