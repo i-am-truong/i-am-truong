@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What We Learned Building a macOS AI Agent in Swift &lpar;ScreenCaptureKit, Accessibility APIs, Async Pipelines&rpar;](https://dev.to/m13v/what-we-learned-building-a-macos-ai-agent-in-swift-screencapturekit-accessibility-apis-async-28fb)
-- [Anatomy of a RAG System Architecture](https://dev.to/letstalkoss/anatomy-of-a-rag-system-architecture-1l96)
-- [awesome-trending-repos: Auto-Tracking GitHub Trending](https://dev.to/furkankoykiran/awesome-trending-repos-auto-tracking-github-trending-1afj)
-- [awesome-trending-repos: GitHub Trending&#39;i Otomatik Takip Etme](https://dev.to/furkankoykiran/awesome-trending-repos-github-trendingi-otomatik-takip-etme-eb2)
-- [The Complete Beginner&#39;s Guide to GSD &lpar;Get Shit Done&rpar; Framework for Claude Code](https://dev.to/alikazmidev/the-complete-beginners-guide-to-gsd-get-shit-done-framework-for-claude-code-24h0)
+- [PNG vs WebP: Which Image Format Should You Use in 2026?](https://dev.to/pixotter/png-vs-webp-which-image-format-should-you-use-in-2026-2i30)
+- [I built a visual drag-and-drop ML trainer &lpar;no code required&rpar;. Free &amp; open source.](https://dev.to/zainaml/i-built-a-visual-drag-and-drop-ml-trainer-no-code-required-free-open-source-3e50)
+- [🚀 I Built a Simple API Monitoring Tool for Laravel &lpar;No Datadog Needed&rpar;](https://dev.to/anirbancodes/i-built-a-simple-api-monitoring-tool-for-laravel-no-datadog-needed-gmk)
+- [How to Customize Your Form Submission Email Notifications &lpar;And Why It Matters&rpar;](https://dev.to/allenarduino/how-to-customize-your-form-submission-email-notifications-and-why-it-matters-21d2)
+- [I&#39;ve Used AI to Build Production Software Since 2022. Here&#39;s What Actually Works.](https://dev.to/moebiusansa/ive-used-ai-to-build-production-software-since-2022-heres-what-actually-works-501j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
