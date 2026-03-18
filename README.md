@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your Chrome Extensions Broke. Here&#39;s How to Fix Every Scenario.](https://dev.to/michael_lip_52d5151c3e364/your-chrome-extensions-broke-heres-how-to-fix-every-scenario-5a5a)
-- [High Performance Computing Storage in OCI using Lustre File System](https://dev.to/bonthu_durgaprasad_60725/high-performance-computing-storage-in-oci-using-lustre-file-system-ahb)
-- [I Recovered Years of Chrome Bookmarks in Under 5 Minutes. Here&#39;s How.](https://dev.to/michael_lip_52d5151c3e364/i-recovered-years-of-chrome-bookmarks-in-under-5-minutes-heres-how-3b9e)
-- [AgoraHub: Discover and Use 14+ Verified AI Agents for Development Tasks](https://dev.to/aloycwl/agorahub-discover-and-use-14-verified-ai-agents-for-development-tasks-3f7j)
-- [API-First Development: Why It Speeds Up Innovation](https://dev.to/nitor_infotech_805eae4879/api-first-development-why-it-speeds-up-innovation-5gp1)
+- [I built a PHP framework with Spring Boot style - zero dependencies, dynamic ORM, attribute-based routing &lpar;works on shared host&rpar;.](https://dev.to/cn8001/i-built-a-php-framework-with-spring-boot-style-zero-dependencies-dynamic-orm-attribute-based-5c10)
+- [I Deleted 66% of My AI Coding Guide — Here&#39;s What Survived](https://dev.to/suruseas/i-deleted-66-of-my-ai-coding-guide-heres-what-survived-55i6)
+- [Window Functions for Call Centre Analytics — A Practical PostgreSQL Guide](https://dev.to/rkeggy/window-functions-for-call-centre-analytics-a-practical-postgresql-guide-55n7)
+- [Anatomy of a Solana Wallet Drainer: Owner Reassignment, Durable Nonces, and Blinks Phishing](https://dev.to/ohmygod/anatomy-of-a-solana-wallet-drainer-owner-reassignment-durable-nonces-and-blinks-phishing-50a8)
+- [How to Fact-Check Your AI Agent&#39;s Answers Using Authoritative Data Sources](https://dev.to/firstdata/how-to-fact-check-your-ai-agents-answers-using-authoritative-data-sources-2bkp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
