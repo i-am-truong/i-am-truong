@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the OpenClaw Skill Auditor: A Comprehensive Security Scanner for ClawHub Skills](https://dev.to/aloycwl/understanding-the-openclaw-skill-auditor-a-comprehensive-security-scanner-for-clawhub-skills-2873)
-- [Your pm.max_children Math Is Wrong: Why Averages Kill Production Stability](https://dev.to/devmatrash/your-pmmaxchildren-math-is-wrong-why-averages-kill-production-stability-4h8j)
-- [Estimating Remaining Stack Space in a C Program](https://dev.to/yairlenga/estimating-remaining-stack-space-in-a-c-program-4dh7)
-- [SnapAPI + N8N Integration Guide](https://dev.to/boehner/snapapi-n8n-integration-guide-4g6e)
-- [Biometric Privacy Law Is About to Split Your Investigative Tools in Two](https://dev.to/caracomp/biometric-privacy-law-is-about-to-split-your-investigative-tools-in-two-392d)
+- [Securing Cloud Credentials in Regulated Environments: Mitigating Leakage Risks with Enhanced Distribution Controls](https://dev.to/alitron/securing-cloud-credentials-in-regulated-environments-mitigating-leakage-risks-with-enhanced-33ko)
+- [Built this after watching Claude install packages that don&#39;t exist. Turns out closing the feedback loop is all it needed.](https://dev.to/tuckerschreiber/built-this-after-watching-claude-install-packages-that-dont-exist-turns-out-closing-the-feedback-13c5)
+- [Send task updates from an API to Slack using webhooks](https://dev.to/alex_gekas/send-task-updates-from-an-api-to-slack-using-webhooks-3ka4)
+- [AI agents are quietly building a tool registry for each other](https://dev.to/tuckerschreiber/ai-agents-are-quietly-building-a-tool-registry-for-each-other-4ph3)
+- [Selecting Impactful Open-Source Projects for Engaging Interviews: A Strategic Approach](https://dev.to/denlava/selecting-impactful-open-source-projects-for-engaging-interviews-a-strategic-approach-b19)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
