@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What Happens When an AI Agent Hits a Paywall](https://dev.to/nathanielc85523/what-happens-when-an-ai-agent-hits-a-paywall-33kf)
-- [To Find the kth Smallest element in a array](https://dev.to/abirami_prabhakar/to-find-the-kth-smallest-element-in-a-array-39f0)
-- [Text Analysis in Go Without a Machine Learning Library](https://dev.to/ckmtools/text-analysis-in-go-without-a-machine-learning-library-25fc)
-- [5 AI Agents vs Tesla: P1 Vulnerability Found in 38 Minutes](https://dev.to/bridgeace/5-ai-agents-vs-tesla-p1-vulnerability-found-in-38-minutes-3cfb)
-- [Kubernetes Is Moving Past Ingress. Most Clusters Aren&#39;t.](https://dev.to/ntctech/kubernetes-is-moving-past-ingress-most-clusters-arent-3pab)
+- [I Stress-Tested Google&#39;s Colab MCP Server with a Real Quantum Workflow](https://dev.to/axrisi/i-stress-tested-googles-colab-mcp-server-with-a-real-quantum-workflow-2oih)
+- [The 270 Million iPhone Crypto Heist: How DarkSword&#39;s Hit-and-Run Exploit Kit Drains Wallets in Under 60 Seconds](https://dev.to/ohmygod/the-270-million-iphone-crypto-heist-how-darkswords-hit-and-run-exploit-kit-drains-wallets-in-3kf)
+- [Deploying Your First Server with Terraform: A Beginner&#39;s Guide](https://dev.to/tink-origami/deploying-your-first-server-with-terraform-a-beginners-guide-4g2d)
+- [I built a local-only PDF bank statement parser with a plugin system — here&#39;s how it works](https://dev.to/tiozerj/i-built-a-local-only-pdf-bank-statement-parser-with-a-plugin-system-heres-how-it-works-3gd8)
+- [ClawRoute Technical Architecture: How Smart Model Routing Works](https://dev.to/mrjhsn/clawroute-technical-architecture-how-smart-model-routing-works-13h2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
