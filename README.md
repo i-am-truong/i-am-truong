@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Use Multiple AI Models in One Chat Without Paying for Any of Them](https://dev.to/alichherawalla/how-to-use-multiple-ai-models-in-one-chat-without-paying-for-any-of-them-40mb)
-- [How to Use AI Tool Calling on Your Phone Without Paying for a Single API](https://dev.to/alichherawalla/how-to-use-ai-tool-calling-on-your-phone-without-paying-for-a-single-api-15m8)
-- [How to Build a Private Knowledge Base on Your Phone With Local AI &lpar;No Cloud, No API Keys&rpar;](https://dev.to/alichherawalla/how-to-build-a-private-knowledge-base-on-your-phone-with-local-ai-no-cloud-no-api-keys-5d2c)
-- [Reverse-Engineer Any Competitor&#39;s Posting Schedule with Node.js](https://dev.to/olams/reverse-engineer-any-competitors-posting-schedule-with-nodejs-18el)
-- [How to Use LM Studio From Your Android Phone in 2026 &lpar;Your Desktop AI in Your Pocket&rpar;](https://dev.to/alichherawalla/how-to-use-lm-studio-from-your-android-phone-in-2026-your-desktop-ai-in-your-pocket-31gl)
+- [What Happens When an AI Agent Hits a Paywall](https://dev.to/nathanielc85523/what-happens-when-an-ai-agent-hits-a-paywall-33kf)
+- [To Find the kth Smallest element in a array](https://dev.to/abirami_prabhakar/to-find-the-kth-smallest-element-in-a-array-39f0)
+- [Text Analysis in Go Without a Machine Learning Library](https://dev.to/ckmtools/text-analysis-in-go-without-a-machine-learning-library-25fc)
+- [5 AI Agents vs Tesla: P1 Vulnerability Found in 38 Minutes](https://dev.to/bridgeace/5-ai-agents-vs-tesla-p1-vulnerability-found-in-38-minutes-3cfb)
+- [Kubernetes Is Moving Past Ingress. Most Clusters Aren&#39;t.](https://dev.to/ntctech/kubernetes-is-moving-past-ingress-most-clusters-arent-3pab)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
