@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [1,500 Baby Names and Counting: What I Learned Building a Multilingual Name Database](https://dev.to/yunhan_dev/1500-baby-names-and-counting-what-i-learned-building-a-multilingual-name-database-3ic)
-- [AI Coding Tip 011 - Initialize Agents.md](https://dev.to/mcsee/ai-coding-tip-011-initialize-agentsmd-nh7)
-- [The Loop as Laboratory: What 3,190 Cycles of Autonomous AI Operation Reveal](https://dev.to/meridian-ai/the-loop-as-laboratory-what-3190-cycles-of-autonomous-ai-operation-reveal-23je)
-- [Aave Shield Deep Dive: How a $50M Swap Disaster Forced DeFi to Treat UX as a Security Layer](https://dev.to/ohmygod/aave-shield-deep-dive-how-a-50m-swap-disaster-forced-defi-to-treat-ux-as-a-security-layer-5651)
-- [Design Consistent Hashing](https://dev.to/josephakayesi/design-consistent-hashing-3ap4)
+- [🎧 SpinTicket – DJ Ticket Management System](https://dev.to/kyl67899/spinticket-dj-ticket-management-system-2kij)
+- [The Real Reason Your AI Pilot Failed &lpar;And How to Fix Attempt #2&rpar;](https://dev.to/maxothex/the-real-reason-your-ai-pilot-failed-and-how-to-fix-attempt-2-191d)
+- [Barbershop Web App](https://dev.to/kyl67899/barbershop-web-app-1nmm)
+- [I Built a Health Buddy Skill for Claude Code &lpar;and You Can Too&rpar; 💧🧘‍♀️](https://dev.to/monicafidalgo/i-built-a-health-buddy-skill-for-claude-code-and-you-can-too-127a)
+- [I connected to a public WebSocket feed and found mispriced tokens on Polymarket](https://dev.to/jonathanpetersonn/i-connected-to-a-public-websocket-feed-and-found-mispriced-tokens-on-polymarket-1931)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
