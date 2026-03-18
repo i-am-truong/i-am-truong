@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Music Streaming](https://dev.to/selfhostingsh/music-streaming-3ghb)
-- [ESP32-C3 AI Text-to-Speech System: Build a Cloud Voice Output Device with I2S Audio and Wit.ai](https://dev.to/alexmo/esp32-c3-ai-text-to-speech-system-build-a-cloud-voice-output-device-with-i2s-audio-and-witai-4jho)
-- [The Python Cheat Sheet You&#39;ll Actually Use](https://dev.to/apaksh/the-python-cheat-sheet-youll-actually-use-4976)
-- [AWS Security Hardening: The Checklist Your Cloud Needs](https://dev.to/apaksh/aws-security-hardening-the-checklist-your-cloud-needs-4d99)
-- [A Comprehensive Look at GPT-5.4 Mini and Nano: OpenAI’s ‘Small’ Models with ‘Big’ Ambitions](https://dev.to/evan-dong/a-comprehensive-look-at-gpt-54-mini-and-nano-openais-small-models-with-big-ambitions-2ig4)
+- [AWS Lambda cold starts: causes and fixes](https://dev.to/yash_step2dev/aws-lambda-cold-starts-causes-and-fixes-4hm0)
+- [Stop Passing Raw DataFrames to Your LLM — Here&#39;s a Better Way](https://dev.to/serada/stop-passing-raw-dataframes-to-your-llm-heres-a-better-way-2mg7)
+- [I Test All My APIs in Chrome DevTools. Here&#39;s How.](https://dev.to/michael_lip_52d5151c3e364/i-test-all-my-apis-in-chrome-devtools-heres-how-4ak)
+- [8 Key BYOC Deployment Options Every Data Engineer Should Know](https://dev.to/techsourabh/8-key-byoc-deployment-optionsevery-data-engineer-should-know-5952)
+- [Less Heard — A Terminal Sketch on Gender Equity in Tech](https://dev.to/commonlayer/less-heard-a-terminal-sketch-on-gender-equity-in-tech-10j8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
