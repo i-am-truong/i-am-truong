@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[ShowDev] Construí um PWA de Fitness Local-First com Vanilla JS e IA &lpar;Adeus, MyFitnessPal&rpar;](https://dev.to/srpakura/showdev-construi-um-pwa-de-fitness-local-first-com-vanilla-js-e-ia-adeus-myfitnesspal-41e0)
-- [Designing Scalable Environmental Monitoring Systems for Transport Operations](https://dev.to/alex-morgan/designing-scalable-environmental-monitoring-systems-for-transport-operations-1pfc)
-- [We built a payment network where AI agents pay each other autonomously — live demo](https://dev.to/gekk_587c54281ff0/we-built-a-payment-network-where-ai-agents-pay-each-other-autonomously-live-demo-3kpd)
-- [Exploring an AST-Based Template Engine in PHP — Thoughts?](https://dev.to/thomas_emad/exploring-an-ast-based-template-engine-in-php-thoughts-4g98)
-- [Mistral AI Releases Forge](https://dev.to/technoblogger14o3/mistral-ai-releases-forge-15o3)
+- [3 New IteraTools Endpoints: Google Calendar, JSON Validator &amp; RSS Feed Parser](https://dev.to/fredpsantos33/3-new-iteratools-endpoints-google-calendar-json-validator-rss-feed-parser-11oj)
+- [EIP-7702 Broke Your tx.origin Check: How Ethereum&#39;s Pectra Upgrade Created a New Class of Account Confusion Vulnerabilities](https://dev.to/ohmygod/eip-7702-broke-your-txorigin-check-how-ethereums-pectra-upgrade-created-a-new-class-of-account-g8o)
+- [I built 180+ free browser-side developer tools — no login, no data uploads](https://dev.to/saravanan_s/i-built-180-free-browser-side-developer-tools-no-login-no-data-uploads-4f3f)
+- [fastpdf2png: PDF to PNG at 1,500 pages/s with SIMD and PDFium](https://dev.to/n_c_9d57ca535480141520fcf/fastpdf2png-pdf-to-png-at-1500-pagess-with-simd-and-pdfium-3eib)
+- [🚀 JavaScript Async/Await vs `.then&lpar;&rpar;` : The Microtask &amp; Event Loop Secret](https://dev.to/keshav___dev/javascript-asyncawait-vs-then-the-microtask-event-loop-secret-2e8n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
