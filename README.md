@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [LangExtract: Google’s New Library for Simplifying Language Processing Tasks &lpar;NLP&rpar;](https://dev.to/aloycwl/langextract-googles-new-library-for-simplifying-language-processing-tasks-nlp-2666)
-- [Unreviewed AI Code Is Everywhere — Here&#39;s What Breaks First](https://dev.to/ayame0328/unreviewed-ai-code-is-everywhere-heres-what-breaks-first-480j)
-- [Chat Completions vs OpenAI Responses API: What Actually Changed](https://dev.to/dev-in-progress/chat-completions-vs-openai-responses-api-what-actually-changed-4bco)
-- [Django Apps vs Projects Explained: A Complete Production Guide](https://dev.to/alansomathew/django-apps-vs-projects-explained-a-complete-production-guide-4cc9)
-- [🚀 How to Become a Generative AI Engineer &lpar;Complete Roadmap&rpar;](https://dev.to/04anilr/how-to-become-a-generative-ai-engineer-complete-roadmap-1al7)
+- [Music Streaming](https://dev.to/selfhostingsh/music-streaming-3ghb)
+- [ESP32-C3 AI Text-to-Speech System: Build a Cloud Voice Output Device with I2S Audio and Wit.ai](https://dev.to/alexmo/esp32-c3-ai-text-to-speech-system-build-a-cloud-voice-output-device-with-i2s-audio-and-witai-4jho)
+- [The Python Cheat Sheet You&#39;ll Actually Use](https://dev.to/apaksh/the-python-cheat-sheet-youll-actually-use-4976)
+- [AWS Security Hardening: The Checklist Your Cloud Needs](https://dev.to/apaksh/aws-security-hardening-the-checklist-your-cloud-needs-4d99)
+- [A Comprehensive Look at GPT-5.4 Mini and Nano: OpenAI’s ‘Small’ Models with ‘Big’ Ambitions](https://dev.to/evan-dong/a-comprehensive-look-at-gpt-54-mini-and-nano-openais-small-models-with-big-ambitions-2ig4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
