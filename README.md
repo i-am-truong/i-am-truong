@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a PHP framework with Spring Boot style - zero dependencies, dynamic ORM, attribute-based routing &lpar;works on shared host&rpar;.](https://dev.to/cn8001/i-built-a-php-framework-with-spring-boot-style-zero-dependencies-dynamic-orm-attribute-based-5c10)
-- [I Deleted 66% of My AI Coding Guide — Here&#39;s What Survived](https://dev.to/suruseas/i-deleted-66-of-my-ai-coding-guide-heres-what-survived-55i6)
-- [Window Functions for Call Centre Analytics — A Practical PostgreSQL Guide](https://dev.to/rkeggy/window-functions-for-call-centre-analytics-a-practical-postgresql-guide-55n7)
-- [Anatomy of a Solana Wallet Drainer: Owner Reassignment, Durable Nonces, and Blinks Phishing](https://dev.to/ohmygod/anatomy-of-a-solana-wallet-drainer-owner-reassignment-durable-nonces-and-blinks-phishing-50a8)
-- [How to Fact-Check Your AI Agent&#39;s Answers Using Authoritative Data Sources](https://dev.to/firstdata/how-to-fact-check-your-ai-agents-answers-using-authoritative-data-sources-2bkp)
+- [Elements Kinds](https://dev.to/leonardo_peixoto/elements-kinds-3394)
+- [From Zero to Shipped: How We Built Indiefy.xyz in a Weekend &lpar;With AI as Co-Founder&rpar;](https://dev.to/remibuchaillat/from-zero-to-shipped-how-we-built-indiefyxyz-in-a-weekend-with-ai-as-co-founder-51jo)
+- [My First Electronics Project - Building a Real-Time Power Outage Monitor with ESP32 and Slack](https://dev.to/ravgeetdhillon/building-a-real-time-power-outage-monitor-with-esp32-and-slack-2kmk)
+- [The Grimoire and Latent Space](https://dev.to/hidden_developer_5c94d579/the-grimoire-and-latent-space-46kk)
+- [How to Implement Room Database CRUD in Android with RecyclerView &lpar;Step-by-Step Kotlin Guide&rpar;](https://dev.to/devika_android/how-to-implement-room-database-crud-in-android-with-recyclerview-step-by-step-kotlin-guide-2nne)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
