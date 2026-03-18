@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [📝 06. Java Self-Study: Variables &amp; System I/O](https://dev.to/hannalog/06-java-self-study-variables-system-io-22p7)
-- [Building a macOS Desktop Agent with Claude - How AI Wrote Most of Its Own Code](https://dev.to/m13v/building-a-macos-desktop-agent-with-claude-how-ai-wrote-most-of-its-own-code-1440)
-- [SuperLocalMemory V3: Mathematical Foundations for Production-Grade Agent Memory](https://dev.to/varun_pratapbhardwaj_b13/superlocalmemory-v3-mathematical-foundations-for-production-grade-agent-memory-4hfg)
-- [You Do Not Need an MCP Server for Every Mac App - Accessibility APIs as a Universal Interface](https://dev.to/m13v/you-do-not-need-an-mcp-server-for-every-mac-app-accessibility-apis-as-a-universal-interface-27bn)
-- [Welcome Thread - v369](https://dev.to/devteam/welcome-thread-v369-326k)
+- [LangExtract: Google’s New Library for Simplifying Language Processing Tasks &lpar;NLP&rpar;](https://dev.to/aloycwl/langextract-googles-new-library-for-simplifying-language-processing-tasks-nlp-2666)
+- [Unreviewed AI Code Is Everywhere — Here&#39;s What Breaks First](https://dev.to/ayame0328/unreviewed-ai-code-is-everywhere-heres-what-breaks-first-480j)
+- [Chat Completions vs OpenAI Responses API: What Actually Changed](https://dev.to/dev-in-progress/chat-completions-vs-openai-responses-api-what-actually-changed-4bco)
+- [Django Apps vs Projects Explained: A Complete Production Guide](https://dev.to/alansomathew/django-apps-vs-projects-explained-a-complete-production-guide-4cc9)
+- [🚀 How to Become a Generative AI Engineer &lpar;Complete Roadmap&rpar;](https://dev.to/04anilr/how-to-become-a-generative-ai-engineer-complete-roadmap-1al7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
