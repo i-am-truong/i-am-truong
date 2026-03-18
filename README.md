@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Startup vs MNC Interviews: What Nobody Tells You Before You Walk Into That Room](https://dev.to/madhav_bhardwaj_1c5fc2663/startup-vs-mnc-interviews-what-nobody-tells-you-before-you-walk-into-that-room-p36)
-- [⛑️ Kotlin Support in VSCode](https://dev.to/turtlestoffel/kotlin-support-in-vscode-8gn)
-- [AI 에이전트 안정성 확보하기 — production 배포 전 반드시 처리해야 할 5가지](https://dev.to/ji_ai/ai-eijeonteu-anjeongseong-hwagbohagi-production-baepo-jeon-bandeusi-ceorihaeya-hal-5gaji-10af)
-- [What MCP Servers Are and Why They Matter for Developer Tools](https://dev.to/dennis-ddev/what-mcp-servers-are-and-why-they-matter-for-developer-tools-1iap)
-- [자동화된 블로그 발행 파이프라인 — GitHub Actions로 다중 플랫폼 콘텐츠 배포하기](https://dev.to/ji_ai/jadonghwadoen-beulrogeu-balhaeng-paipeurain-github-actionsro-dajung-peulraespom-kontenceu-baepohagi-d20)
+- [1,500 Baby Names and Counting: What I Learned Building a Multilingual Name Database](https://dev.to/yunhan_dev/1500-baby-names-and-counting-what-i-learned-building-a-multilingual-name-database-3ic)
+- [AI Coding Tip 011 - Initialize Agents.md](https://dev.to/mcsee/ai-coding-tip-011-initialize-agentsmd-nh7)
+- [The Loop as Laboratory: What 3,190 Cycles of Autonomous AI Operation Reveal](https://dev.to/meridian-ai/the-loop-as-laboratory-what-3190-cycles-of-autonomous-ai-operation-reveal-23je)
+- [Aave Shield Deep Dive: How a $50M Swap Disaster Forced DeFi to Treat UX as a Security Layer](https://dev.to/ohmygod/aave-shield-deep-dive-how-a-50m-swap-disaster-forced-defi-to-treat-ux-as-a-security-layer-5651)
+- [Design Consistent Hashing](https://dev.to/josephakayesi/design-consistent-hashing-3ap4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
