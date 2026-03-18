@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🎧 SpinTicket – DJ Ticket Management System](https://dev.to/kyl67899/spinticket-dj-ticket-management-system-2kij)
-- [The Real Reason Your AI Pilot Failed &lpar;And How to Fix Attempt #2&rpar;](https://dev.to/maxothex/the-real-reason-your-ai-pilot-failed-and-how-to-fix-attempt-2-191d)
-- [Barbershop Web App](https://dev.to/kyl67899/barbershop-web-app-1nmm)
-- [I Built a Health Buddy Skill for Claude Code &lpar;and You Can Too&rpar; 💧🧘‍♀️](https://dev.to/monicafidalgo/i-built-a-health-buddy-skill-for-claude-code-and-you-can-too-127a)
-- [I connected to a public WebSocket feed and found mispriced tokens on Polymarket](https://dev.to/jonathanpetersonn/i-connected-to-a-public-websocket-feed-and-found-mispriced-tokens-on-polymarket-1931)
+- [Wembean.com: The “Undetectable” Cheat Machine That Targets Students and Calls It “Automation”](https://dev.to/adalbiggl23/wembeancom-the-undetectable-cheat-machine-that-targets-students-and-calls-it-automation-44nk)
+- [🧠 LLM Engineering Roadmap — Complete Developer Guide](https://dev.to/tal7aouy/llm-engineering-roadmap-complete-developer-guide-59d0)
+- [AI Is Hiring Humans. Who&#39;s Governing the AI?](https://dev.to/levelsofself/ai-is-hiring-humans-whos-governing-the-ai-47n7)
+- [NVIDIA Just Validated What We Built: AI Agents Need Governance Guardrails](https://dev.to/levelsofself/nvidia-just-validated-what-we-built-ai-agents-need-governance-guardrails-54a5)
+- [Inside the Venus Protocol Exploit: How 9 Months of Patience and a Donation Attack Bypassed Supply Caps to Drain $3.7M](https://dev.to/ohmygod/inside-the-venus-protocol-exploit-how-9-months-of-patience-and-a-donation-attack-bypassed-supply-42e7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
