@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [3 New IteraTools Endpoints: Google Calendar, JSON Validator &amp; RSS Feed Parser](https://dev.to/fredpsantos33/3-new-iteratools-endpoints-google-calendar-json-validator-rss-feed-parser-11oj)
-- [EIP-7702 Broke Your tx.origin Check: How Ethereum&#39;s Pectra Upgrade Created a New Class of Account Confusion Vulnerabilities](https://dev.to/ohmygod/eip-7702-broke-your-txorigin-check-how-ethereums-pectra-upgrade-created-a-new-class-of-account-g8o)
-- [I built 180+ free browser-side developer tools — no login, no data uploads](https://dev.to/saravanan_s/i-built-180-free-browser-side-developer-tools-no-login-no-data-uploads-4f3f)
-- [fastpdf2png: PDF to PNG at 1,500 pages/s with SIMD and PDFium](https://dev.to/n_c_9d57ca535480141520fcf/fastpdf2png-pdf-to-png-at-1500-pagess-with-simd-and-pdfium-3eib)
-- [🚀 JavaScript Async/Await vs `.then&lpar;&rpar;` : The Microtask &amp; Event Loop Secret](https://dev.to/keshav___dev/javascript-asyncawait-vs-then-the-microtask-event-loop-secret-2e8n)
+- [I Evaluated Every AI Chat UI Library in 2026. Here&#39;s What I Found &lpar;and What I Built&rpar;](https://dev.to/alexander_lukashov/i-evaluated-every-ai-chat-ui-library-in-2026-heres-what-i-found-and-what-i-built-4p10)
+- [How to Use Ollama From Your iPhone in 2026 &lpar;No Configuration Required&rpar;](https://dev.to/alichherawalla/how-to-use-ollama-from-your-iphone-in-2026-no-configuration-required-184c)
+- [Claude Codeで楽観的並行制御を設計する：バージョニング・競合検出・自動リトライ](https://dev.to/myougatheaxo/claude-codedele-guan-de-bing-xing-zhi-yu-woshe-ji-surubaziyoningujing-he-jian-chu-zi-dong-ritorai-76k)
+- [Part 2: Zero-Copy data federation Snowflake Customer 360 Data to Salesforce Sales Reps](https://dev.to/swaroop_krishna_e2f4b83b2/part-2-reverse-zero-copy-activating-customer-360-in-salesforce-3c2b)
+- [How to Switch Between Local and Remote LLMs on Your Phone &lpar;Without Two Apps or Two Workflows&rpar;](https://dev.to/alichherawalla/how-to-switch-between-local-and-remote-llms-on-your-phone-without-two-apps-or-two-workflows-1o9l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
