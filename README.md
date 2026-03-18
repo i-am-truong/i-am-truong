@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Microservices Doesn&#39;t Mean Lambda Everything](https://dev.to/jlinco/microservices-doesnt-mean-lambda-everything-4339)
-- [Konsep Dasar Digital &lpar;Komputer&rpar;](https://dev.to/rachmad_andriatmoko_ca7e/konsep-dasar-digital-komputer-30hl)
-- [Building “The Better Store”  — Part 4: Implementing a Microservices Architecture with Cloud Native Patterns and AWS Services](https://dev.to/aws-builders/building-the-better-store-part-4-implementing-a-microservices-architecture-with-cloud-native-585a)
-- [Institutional Treasury 2026: Stablecoin Risk Mitigation](https://dev.to/vinu_digital/institutional-treasury-2026-stablecoin-risk-mitigation-32g9)
-- [Ebooks Reading](https://dev.to/selfhostingsh/ebooks-reading-2p5l)
+- [Why FinOps for AI Is Becoming Essential for Modern Enterprises](https://dev.to/datta_kharad_3fd1383b5036/why-finops-for-ai-is-becoming-essential-for-modern-enterprises-13ip)
+- [ChatGPT Review: Popular Best](https://dev.to/futurestackreviews/chatgpt-review-popular-best-3hf)
+- [Review: Four Kitchens CMS Dashboard Patterns Applied to Drupal 10/11, Drupal CMS, and WordPress Editorial UX](https://dev.to/victorstackai/review-four-kitchens-cms-dashboard-patterns-applied-to-drupal-1011-drupal-cms-and-wordpress-4881)
+- [The Six Pillars of a Good Web App — And How to Enforce All of Them in a Single Lovable Prompt](https://dev.to/soumia_g_9dc322fc4404cecd/the-six-pillars-of-a-good-web-app-and-how-to-enforce-all-of-them-in-a-single-lovable-prompt-1m3a)
+- [[Exam Report] Datadog Fundamentals — A Modern Learning Approach Leveraging AI &lpar;NotebookLM &amp; Antigravity&rpar;](https://dev.to/rintarowako/exam-report-datadog-fundamentals-a-modern-learning-approach-leveraging-ai-notebooklm--14ea)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
