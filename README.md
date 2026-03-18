@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why FinOps for AI Is Becoming Essential for Modern Enterprises](https://dev.to/datta_kharad_3fd1383b5036/why-finops-for-ai-is-becoming-essential-for-modern-enterprises-13ip)
-- [ChatGPT Review: Popular Best](https://dev.to/futurestackreviews/chatgpt-review-popular-best-3hf)
-- [Review: Four Kitchens CMS Dashboard Patterns Applied to Drupal 10/11, Drupal CMS, and WordPress Editorial UX](https://dev.to/victorstackai/review-four-kitchens-cms-dashboard-patterns-applied-to-drupal-1011-drupal-cms-and-wordpress-4881)
-- [The Six Pillars of a Good Web App — And How to Enforce All of Them in a Single Lovable Prompt](https://dev.to/soumia_g_9dc322fc4404cecd/the-six-pillars-of-a-good-web-app-and-how-to-enforce-all-of-them-in-a-single-lovable-prompt-1m3a)
-- [[Exam Report] Datadog Fundamentals — A Modern Learning Approach Leveraging AI &lpar;NotebookLM &amp; Antigravity&rpar;](https://dev.to/rintarowako/exam-report-datadog-fundamentals-a-modern-learning-approach-leveraging-ai-notebooklm--14ea)
+- [Your Chrome Extensions Broke. Here&#39;s How to Fix Every Scenario.](https://dev.to/michael_lip_52d5151c3e364/your-chrome-extensions-broke-heres-how-to-fix-every-scenario-5a5a)
+- [High Performance Computing Storage in OCI using Lustre File System](https://dev.to/bonthu_durgaprasad_60725/high-performance-computing-storage-in-oci-using-lustre-file-system-ahb)
+- [I Recovered Years of Chrome Bookmarks in Under 5 Minutes. Here&#39;s How.](https://dev.to/michael_lip_52d5151c3e364/i-recovered-years-of-chrome-bookmarks-in-under-5-minutes-heres-how-3b9e)
+- [AgoraHub: Discover and Use 14+ Verified AI Agents for Development Tasks](https://dev.to/aloycwl/agorahub-discover-and-use-14-verified-ai-agents-for-development-tasks-3f7j)
+- [API-First Development: Why It Speeds Up Innovation](https://dev.to/nitor_infotech_805eae4879/api-first-development-why-it-speeds-up-innovation-5gp1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
