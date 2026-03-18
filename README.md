@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Google Agreed to Pay $32 Billion for Wiz: Why Cloud Security Was Worth Every Dollar [2026]](https://dev.to/kunal_d6a8fea2309e1571ee7/google-agreed-to-pay-32-billion-for-wiz-why-cloud-security-was-worth-every-dollar-2026-1lk0)
-- [Live Nation&#39;s Ticketmaster Monopoly Isn&#39;t About Ticket Fees. It&#39;s a Tech Platform Flywheel.](https://dev.to/kunal_d6a8fea2309e1571ee7/live-nations-ticketmaster-monopoly-isnt-about-ticket-fees-its-a-tech-platform-flywheel-fi3)
-- [Why I’m Building BIT Voices in Public](https://dev.to/bdonald/why-im-building-bit-voices-in-public-2a81)
-- [From Tools to Teammates: The Rise of Agentic AI Systems &lpar;2026&rpar;](https://dev.to/ruddhi_12/from-tools-to-teammates-the-rise-of-agentic-ai-systems-2026-12nj)
-- [Chrome Zero-Day Exploits: 4 Vulnerabilities Exposed in May 2024&#39;s Most Aggressive Attack Wave](https://dev.to/kunal_d6a8fea2309e1571ee7/chrome-zero-day-exploits-4-vulnerabilities-exposed-in-may-2024s-most-aggressive-attack-wave-2hhb)
+- [출시 직전 대규모 리팩토링을 AI에게 맡기는 법 — 안전장치가 핵심이다](https://dev.to/ji_ai/culsi-jigjeon-daegyumo-ripaegtoringeul-aiege-matgineun-beob-anjeonjangciga-haegsimida-5507)
+- [GitHub Actions로 AI 블로그를 멀티 플랫폼에 자동 배포하는 워크플로우 설계법](https://dev.to/ji_ai/github-actionsro-ai-beulrogeureul-meolti-peulraespome-jadong-baepohaneun-weokeupeulrou-seolgyebeob-496n)
+- [AI 에이전트 카탈로그를 만들며 배운 LLM 협업 패턴 — 8000줄 TypeScript 프로젝트 회고](https://dev.to/ji_ai/ai-eijeonteu-katalrogeureul-mandeulmyeo-baeun-llm-hyeobeob-paeteon-8000jul-typescript-peurojegteu-hoego-1b8p)
+- [Give Your AI a Map, Not a Code Dump](https://dev.to/s4kura/give-your-ai-a-map-not-a-code-dump-4fln)
+- [How I Built Eval Tools for Karpathy&#39;s Autoresearch](https://dev.to/dean0x/how-i-built-eval-tools-for-karpathys-autoresearch-144b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
