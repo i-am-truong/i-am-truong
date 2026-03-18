@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AWS Lambda cold starts: causes and fixes](https://dev.to/yash_step2dev/aws-lambda-cold-starts-causes-and-fixes-4hm0)
-- [Stop Passing Raw DataFrames to Your LLM — Here&#39;s a Better Way](https://dev.to/serada/stop-passing-raw-dataframes-to-your-llm-heres-a-better-way-2mg7)
-- [I Test All My APIs in Chrome DevTools. Here&#39;s How.](https://dev.to/michael_lip_52d5151c3e364/i-test-all-my-apis-in-chrome-devtools-heres-how-4ak)
-- [8 Key BYOC Deployment Options Every Data Engineer Should Know](https://dev.to/techsourabh/8-key-byoc-deployment-optionsevery-data-engineer-should-know-5952)
-- [Less Heard — A Terminal Sketch on Gender Equity in Tech](https://dev.to/commonlayer/less-heard-a-terminal-sketch-on-gender-equity-in-tech-10j8)
+- [Microservices Doesn&#39;t Mean Lambda Everything](https://dev.to/jlinco/microservices-doesnt-mean-lambda-everything-4339)
+- [Konsep Dasar Digital &lpar;Komputer&rpar;](https://dev.to/rachmad_andriatmoko_ca7e/konsep-dasar-digital-komputer-30hl)
+- [Building “The Better Store”  — Part 4: Implementing a Microservices Architecture with Cloud Native Patterns and AWS Services](https://dev.to/aws-builders/building-the-better-store-part-4-implementing-a-microservices-architecture-with-cloud-native-585a)
+- [Institutional Treasury 2026: Stablecoin Risk Mitigation](https://dev.to/vinu_digital/institutional-treasury-2026-stablecoin-risk-mitigation-32g9)
+- [Ebooks Reading](https://dev.to/selfhostingsh/ebooks-reading-2p5l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
