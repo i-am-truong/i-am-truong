@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Stress-Tested Google&#39;s Colab MCP Server with a Real Quantum Workflow](https://dev.to/axrisi/i-stress-tested-googles-colab-mcp-server-with-a-real-quantum-workflow-2oih)
-- [The 270 Million iPhone Crypto Heist: How DarkSword&#39;s Hit-and-Run Exploit Kit Drains Wallets in Under 60 Seconds](https://dev.to/ohmygod/the-270-million-iphone-crypto-heist-how-darkswords-hit-and-run-exploit-kit-drains-wallets-in-3kf)
-- [Deploying Your First Server with Terraform: A Beginner&#39;s Guide](https://dev.to/tink-origami/deploying-your-first-server-with-terraform-a-beginners-guide-4g2d)
-- [I built a local-only PDF bank statement parser with a plugin system — here&#39;s how it works](https://dev.to/tiozerj/i-built-a-local-only-pdf-bank-statement-parser-with-a-plugin-system-heres-how-it-works-3gd8)
-- [ClawRoute Technical Architecture: How Smart Model Routing Works](https://dev.to/mrjhsn/clawroute-technical-architecture-how-smart-model-routing-works-13h2)
+- [Claude Codeで値オブジェクトを設計する：不変性・等値性・ドメイン表現の型安全化](https://dev.to/myougatheaxo/claude-codedezhi-obuziekutowoshe-ji-surubu-bian-xing-deng-zhi-xing-domeinbiao-xian-noxing-an-quan-hua-53cp)
+- [Pointblank: Data Validation That&#39;s Actually Beautiful](https://dev.to/rich_i/pointblank-data-validation-thats-actually-beautiful-15b2)
+- [The Hidden Pitfalls of AI Job Matching](https://dev.to/adelbeit/the-hidden-pitfalls-of-ai-job-matching-2n82)
+- [Worktrees isolate code. Not runtimes.](https://dev.to/daniel_hyman_576dbc1d7883/worktrees-isolate-code-not-runtimes-61l)
+- [How Did AI Learn to Be Nice? The Humans Behind the Curtain](https://dev.to/ankitdey01/how-did-ai-learn-to-be-nicethe-humans-behind-the-curtain-352h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
