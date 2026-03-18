@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Elements Kinds](https://dev.to/leonardo_peixoto/elements-kinds-3394)
-- [From Zero to Shipped: How We Built Indiefy.xyz in a Weekend &lpar;With AI as Co-Founder&rpar;](https://dev.to/remibuchaillat/from-zero-to-shipped-how-we-built-indiefyxyz-in-a-weekend-with-ai-as-co-founder-51jo)
-- [My First Electronics Project - Building a Real-Time Power Outage Monitor with ESP32 and Slack](https://dev.to/ravgeetdhillon/building-a-real-time-power-outage-monitor-with-esp32-and-slack-2kmk)
-- [The Grimoire and Latent Space](https://dev.to/hidden_developer_5c94d579/the-grimoire-and-latent-space-46kk)
-- [How to Implement Room Database CRUD in Android with RecyclerView &lpar;Step-by-Step Kotlin Guide&rpar;](https://dev.to/devika_android/how-to-implement-room-database-crud-in-android-with-recyclerview-step-by-step-kotlin-guide-2nne)
+- [Google Agreed to Pay $32 Billion for Wiz: Why Cloud Security Was Worth Every Dollar [2026]](https://dev.to/kunal_d6a8fea2309e1571ee7/google-agreed-to-pay-32-billion-for-wiz-why-cloud-security-was-worth-every-dollar-2026-1lk0)
+- [Live Nation&#39;s Ticketmaster Monopoly Isn&#39;t About Ticket Fees. It&#39;s a Tech Platform Flywheel.](https://dev.to/kunal_d6a8fea2309e1571ee7/live-nations-ticketmaster-monopoly-isnt-about-ticket-fees-its-a-tech-platform-flywheel-fi3)
+- [Why I’m Building BIT Voices in Public](https://dev.to/bdonald/why-im-building-bit-voices-in-public-2a81)
+- [From Tools to Teammates: The Rise of Agentic AI Systems &lpar;2026&rpar;](https://dev.to/ruddhi_12/from-tools-to-teammates-the-rise-of-agentic-ai-systems-2026-12nj)
+- [Chrome Zero-Day Exploits: 4 Vulnerabilities Exposed in May 2024&#39;s Most Aggressive Attack Wave](https://dev.to/kunal_d6a8fea2309e1571ee7/chrome-zero-day-exploits-4-vulnerabilities-exposed-in-may-2024s-most-aggressive-attack-wave-2hhb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
