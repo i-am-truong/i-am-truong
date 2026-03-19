@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Agent memory on a budget: stretch MemoClaw&#39;s free tier before you swipe](https://dev.to/anajuliabit/agent-memory-on-a-budget-stretch-memoclaws-free-tier-before-you-swipe-1jfj)
-- [Day 14/30: Got 0 Impressions, 0 Signups, and 3 Messages Worth More Than Gold POST:](https://dev.to/microhabit/day-1430-got-0-impressions-0-signups-and-3-messages-worth-more-than-goldpost-17f7)
-- [Mastering Precise Scheduling with OpenClaw TrueTime Skill](https://dev.to/aloycwl/mastering-precise-scheduling-with-openclaw-truetime-skill-28mg)
-- [Anki On My Wrist](https://dev.to/matheusmaldaner/anki-on-my-wrist-3gi6)
-- [How to Set Up Automated PageSpeed Monitoring for Multiple Sites](https://dev.to/apogeewatcher/how-to-set-up-automated-pagespeed-monitoring-for-multiple-sites-4hc1)
+- [Setup OSDev Environment on macOS](https://dev.to/vincent4486/setup-osdev-environment-on-macos-132j)
+- [The Alibi](https://dev.to/thesythesis/the-alibi-383p)
+- [MCP Tool Design: Why Your AI Agent Is Failing &lpar;And How to Fix It&rpar;](https://dev.to/aws-heroes/mcp-tool-design-why-your-ai-agent-is-failing-and-how-to-fix-it-40fc)
+- [How BIN Lookup Actually Stops Card Fraud for Small E‑commerce Stores](https://dev.to/rabbitholeinphp/how-bin-lookup-actually-stops-card-fraud-for-small-e-commerce-stores-14h8)
+- [The Blind Spot](https://dev.to/thesythesis/the-blind-spot-42mc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
