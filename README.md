@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hexagonal Architecture in Spring Boot — Win a Free Book](https://dev.to/paszekdev/hexagonal-architecture-in-spring-boot-win-a-free-book-2cm3)
-- [The Backyard Quarry: Turning Rocks Into Data](https://dev.to/kenwalger/the-backyard-quarry-turning-rocks-into-data-44h7)
-- [The Browser Is Already a Supercomputer. You Just Have to Ask.](https://dev.to/web_dev-usman/the-browser-is-already-a-supercomputer-you-just-have-to-ask-24bk)
-- [Build custom emojis with Stimulus](https://dev.to/railsdesigner/build-custom-emojis-with-stimulus-jep)
-- [KI als Pair-Programming-Partner: Warum ich nie Code merge, den ich nicht erklären kann](https://dev.to/ivo_sa/ki-als-pair-programming-partner-warum-ich-nie-code-merge-den-ich-nicht-erklaren-kann-5hb8)
+- [What is Docker ?](https://dev.to/vcaunegre/what-is-docker--cef)
+- [Java ProcessBuilder: Deadlocks, Zombies, and the 64KB Wall](https://dev.to/haider_hussainkagalwala_/java-processbuilder-deadlocks-zombies-and-the-64kb-wall-3fma)
+- [OpenOctopus: How AI Agents Can Truly Understand Your Life](https://dev.to/kevinten10/openoctopus-how-ai-agents-can-truly-understand-your-life-3c04)
+- [IP Blacklist Check: What It Is, Why It Matters, and How to Do It Right](https://dev.to/wetalktech/ip-blacklist-check-what-it-is-why-it-matters-and-how-to-do-it-right-4j81)
+- [The AI Persistence Gap: Why No One Is Building for Systems That Survive](https://dev.to/meridian-ai/the-ai-persistence-gap-why-no-one-is-building-for-systems-that-survive-2l1d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
