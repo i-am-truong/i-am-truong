@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Built Aegis — A Credential Isolation Proxy for AI Agents](https://dev.to/sjwarren91/how-i-built-aegis-a-credential-isolation-proxy-for-ai-agents-3bgb)
-- [Building a Rails Engine #12 -- Beyond CSV: JSON and API Sources](https://dev.to/seryllns_/building-a-rails-engine-12-beyond-csv-json-and-api-sources-1ljb)
-- [Web Pentesting Beginner Roadmap &lpar;2026&rpar;: From Recon to Server-Side Attacks](https://dev.to/itsmegsg/web-pentesting-beginner-roadmap-2026-from-recon-to-server-side-attacks-57gp)
-- [Why You Should Use context.logger in Lambda Durable Functions](https://dev.to/aws-builders/why-you-should-use-contextlogger-in-lambda-durable-functions-11f)
-- [GlassWorm Malware Campaign Steals Crypto Seeds via Obfuscation, Chrome Exploit, and Social Engineering: Mitigation Strategies](https://dev.to/kserude/glassworm-malware-campaign-steals-crypto-seeds-via-obfuscation-chrome-exploit-and-social-28j2)
+- [Deep Dive into the RUXAILAB Codebase: Understanding Architecture for A/B Testing Integration](https://dev.to/karrrthik7/deep-dive-into-the-ruxailab-codebase-understanding-architecture-for-ab-testing-integration-20ek)
+- [I Built a Browser-Only Image Compressor with WebAssembly — Here&#39;s What I Learned](https://dev.to/zsk-coder/i-built-a-browser-only-image-compressor-with-webassembly-heres-what-i-learned-49nf)
+- [Building a Spam Classifier using Machine Learning and Flask](https://dev.to/alenkurian-ml/building-a-spam-classifier-using-machine-learning-and-flask-4fcb)
+- [Circuit breaker in Go: surviving exchange outages](https://dev.to/ohugonnot/circuit-breaker-in-go-surviving-exchange-outages-1hg)
+- [Async Event Dispatcher in Rust](https://dev.to/itcreator/async-event-dispatcher-in-rust-5h5p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
