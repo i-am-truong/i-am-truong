@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Deep Dive into the RUXAILAB Codebase: Understanding Architecture for A/B Testing Integration](https://dev.to/karrrthik7/deep-dive-into-the-ruxailab-codebase-understanding-architecture-for-ab-testing-integration-20ek)
-- [I Built a Browser-Only Image Compressor with WebAssembly — Here&#39;s What I Learned](https://dev.to/zsk-coder/i-built-a-browser-only-image-compressor-with-webassembly-heres-what-i-learned-49nf)
-- [Building a Spam Classifier using Machine Learning and Flask](https://dev.to/alenkurian-ml/building-a-spam-classifier-using-machine-learning-and-flask-4fcb)
-- [Circuit breaker in Go: surviving exchange outages](https://dev.to/ohugonnot/circuit-breaker-in-go-surviving-exchange-outages-1hg)
-- [Async Event Dispatcher in Rust](https://dev.to/itcreator/async-event-dispatcher-in-rust-5h5p)
+- [I gave Claude real-time stock analysis. Here&#39;s how it works.](https://dev.to/marras0914/i-gave-claude-real-time-stock-analysis-heres-how-it-works-56d0)
+- [I built a SaaS in a weekend. Here&#39;s what broke first.](https://dev.to/redo_c_ebiv/i-built-a-saas-in-a-weekend-heres-what-broke-first-1me1)
+- [Most AI agent demos optimize for capability. Production buyers pay for control.](https://dev.to/setas/most-ai-agent-demos-optimize-for-capability-production-buyers-pay-for-control-1ea4)
+- [I Built a MITM Proxy to See What Claude Code Actually Sends to Anthropic](https://dev.to/kangraemin/i-built-a-mitm-proxy-to-see-what-claude-code-actually-sends-to-anthropic-26ic)
+- [ChatGPT Prompt Engineering for Freelancers: Unlocking Efficient Client Communication](https://dev.to/caper_dev/chatgpt-prompt-engineering-for-freelancers-unlocking-efficient-client-communication-2agg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
