@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Postman for AI – a tool that has been missing for a while](https://dev.to/alchaplinsky/postman-for-ai-a-tool-that-has-been-missing-for-a-while-56l6)
-- [Discover telegram-scrapper: Effortless Telegram Data Scraping!](https://dev.to/hesamhadadi/discover-telegram-scrapper-effortless-telegram-data-scraping-8b5)
-- [How the OpenClaw Travel Destination Brochure Skill Turns Any City into a Ready‑to‑Share Travel Guide](https://dev.to/aloycwl/how-the-openclaw-travel-destination-brochure-skill-turns-any-city-into-a-ready-to-share-travel-guide-3ni9)
-- [10 BPMN Best Practices Every Camunda Developer Should Know](https://dev.to/nirankari/10-bpmn-best-practices-every-camunda-developer-should-know-b24)
-- [Why Personas Still Matter in the Age of AI](https://dev.to/karelvandenbussche/why-personas-still-matter-in-the-age-of-ai-26ce)
+- [Announcing Dashtera: a powerful dashboarding platform](https://dev.to/omar_lightningchart/announcing-dashtera-a-powerful-dashboarding-platform-24kg)
+- [[JavaScript] 데이터 복사 이해하기 &lpar;feat. 얕은 복사, 깊은 복사&rpar;](https://dev.to/seungyeon_/javascript-deiteo-bogsa-ihaehagi-feat-yateun-bogsa-gipeun-bogsa-243e)
+- [Hey DEV Community](https://dev.to/lampa/hey-dev-community-2mcd)
+- [개발자를 위한 AI 활용 학습법: 4단계 학습 방법론](https://dev.to/seungyeon_/gaebaljareul-wihan-ai-hwalyong-hagseubbeob-4dangye-hagseub-bangbeobron-1ldf)
+- [Eager Loading Without Eloquent: Laravel Collection hasMany](https://dev.to/victorstackai/eager-loading-without-eloquent-laravel-collection-hasmany-44e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
