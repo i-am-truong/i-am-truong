@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Ng-News 26/09: AI &amp; Angular, debounced&lpar;&rpar; in v22, Oxidation Compiler in Analog](https://dev.to/playfulprogramming-angular/ng-news-2609-ai-angular-debounced-in-v22-oxidation-compiler-in-analog-4n3)
-- [Stop decompressing entire archives to get one file — introducing ARCX](https://dev.to/highpass_studio_382ce5641/stop-decompressing-entire-archives-to-get-one-file-introducing-arcx-5dhn)
-- [We Built Multi-Tenancy Into a Blazor App. Here&#39;s Every Layer Preventing Data Leaks.](https://dev.to/octobernorth/we-built-multi-tenancy-into-a-blazor-app-heres-every-layer-preventing-data-leaks-3fbc)
-- [Gathering Hyrox Race Insights with Python](https://dev.to/jamesives/gathering-hyrox-race-insights-with-python-1kp9)
-- [🚀 Build a Schema-Based Wizard Form in Vue 3 &lpar;No Templates Needed&rpar;](https://dev.to/parsajiravand/build-a-schema-based-wizard-form-in-vue-3-no-templates-needed-2h8p)
+- [Why 70% of Americans See AI as a Wealth Inequality Machine: The Developer&#39;s Role in Building Fairer Tech](https://dev.to/theawesomeblog/why-70-of-americans-see-ai-as-a-wealth-inequality-machine-the-developers-role-in-building-fairer-1jgf)
+- [WCAG - Links and accessible text](https://dev.to/dawid_ryczko/wcag-links-and-accessible-text-5bmn)
+- [Definiendo la necesidad &lpar;día 1&rpar;](https://dev.to/denelesan/definiendo-la-necesidad-dia-1-1aoc)
+- [How to Add LLM Model Fallbacks in Python in 5 Min](https://dev.to/nebulagg/how-to-add-llm-model-fallbacks-in-python-in-5-min-5200)
+- [CI/CD na Magalu Cloud com GitHub Actions](https://dev.to/magalucloud/cicd-na-magalu-cloud-com-github-actions-382p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
