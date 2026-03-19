@@ -120,11 +120,13 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Mystery Solved: Hunter Alpha on OpenRouter is Xiaomi MiMo-V2-Pro](https://dev.to/hubert_shelley_32028fa7a7/the-mystery-solved-hunter-alpha-on-openrouter-is-xiaomi-mimo-v2-pro-3dmd)
-- [The 2026 Solopreneur AI Stack: Every Tool You Need](https://dev.to/neo_one_944288aac0bb5e89b/the-2026-solopreneur-ai-stack-every-tool-you-need-39e2)
-- [I Came Back to Kotlin for KMP — Here’s What Broke First](https://dev.to/rarroyo00/i-came-back-to-kotlin-for-kmp-heres-what-broke-first-hfn)
-- [Nvidia GPU Rental: H100, A100, RTX 4090 Explained](https://dev.to/dev_yadav_26252073f3a3761/nvidia-gpu-rental-h100-a100-rtx-4090-explained-40m0)
-- [Cryptographic Proof That Your LLM Never Saw Real Data](https://dev.to/cloakllm/cryptographic-proof-that-your-llm-never-saw-real-data-50fd)
+- [Extract Metadata from Any URL with a Single CLI Command](https://dev.to/chengyixu/extract-metadata-from-any-url-with-a-single-cli-command-49i3)
+- [How to Use Bifrost CLI with Any AI Model &lpar;Claude Code, Codex, Gemini &amp; Opencode&rpar;](https://dev.to/hadil/how-to-use-bifrost-cli-with-any-ai-model-claude-code-codex-gemini-opencode-19m2)
+- [The Rise of AI Middleware: Why the Unsexy Layer Will Win](https://dev.to/cumulus/the-rise-of-ai-middleware-why-the-unsexy-layer-will-win-f6j)
+- [What if calling Python from C# took 4 lines, supported Native AOT, and didn&#39;t need a project file?
+Just shipped DotNetPy v0.5.0 — a lightweight Python interop library built for modern .NET.
+📦 https://github.com/rkttu/dotnetpy](https://dev.to/rkttu/what-if-calling-python-from-c-took-4-lines-supported-native-aot-and-didnt-need-a-project-file-2na8)
+- [Como economizar com o TRAE &lpar;Parte 1&rpar; | Entenda o que são Tokens e Janelas de Contexto](https://dev.to/captaincc/como-economizar-com-o-trae-parte-1-entenda-o-que-sao-tokens-e-janelas-de-contexto-39ng)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
