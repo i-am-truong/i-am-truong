@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [OCR vs VLM: Why You Need Both &lpar;And How Hybrid Approaches Win&rpar;](https://dev.to/kesimo/ocr-vs-vlm-why-you-need-both-and-how-hybrid-approaches-win-5bo4)
-- [Python Baseball Engine Update: How to Separate Game Logic from UI](https://dev.to/lee12/python-baseball-engine-update-how-to-separate-game-logic-from-ui-1bd8)
-- [1m Tokens &lpar;&amp; WebSocket&rpar;](https://dev.to/tavari/1m-tokens-websocket-1f0c)
-- [Helper Classes vs Extension Methods](https://dev.to/__b63657/helper-classes-vs-extension-methods-3f8f)
-- [I built a mobile DevOps dashboard because managing Docker from my phone shouldn&#39;t require SSH](https://dev.to/bigabou007dev/i-built-a-mobile-devops-dashboard-because-managing-docker-from-my-phone-shouldnt-require-ssh-4j6n)
+- [AWS Cloud Praticttioner #02](https://dev.to/fedrummond_/aws-cloud-praticttioner-02-3l61)
+- [Rick Beato: Jack Gardiner Talks Like A Beatle, But SHREDS Like A Samurai](https://dev.to/music_youtube/rick-beato-jack-gardiner-talks-like-a-beatle-but-shreds-like-a-samurai-38jl)
+- [Dissecando o Navegador &lpar;Parte 1&rpar; - Da Arquitetura Multi-Processo aos Pixels na Tela](https://dev.to/erickg123/dissecando-o-navegador-parte-1-da-arquitetura-multi-processo-aos-pixels-na-tela-5g5m)
+- [Workflow Builders vs AI Agents: 5 Automation Tools Compared &lpar;2026&rpar;](https://dev.to/nebulagg/workflow-builders-vs-ai-agents-5-automation-tools-compared-2026-3ld5)
+- [Your AI has no memory. Here&#39;s How to Add One with Node.js and Mem0](https://dev.to/techsplot/your-ai-has-no-memory-heres-how-to-add-one-with-nodejs-and-mem0-2fbh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
