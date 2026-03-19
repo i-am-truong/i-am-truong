@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Rentilot: A Practical Alternative to Rentila for Property Management](https://dev.to/brunoantunes/rentilot-a-practical-alternative-to-rentila-for-property-management-nge)
-- [Test Doubles in Automated Testing](https://dev.to/godinhojoao/test-doubles-in-automated-testing-4bkd)
-- [Unlocking Efficiency: A Deep Dive into Spec-Driven Development](https://dev.to/julian_christ/unlocking-efficiency-a-deep-dive-into-spec-driven-development-le9)
-- [15 Must-Read Books For Management Professionals to Elevate Your Leadership](https://dev.to/aloycwl/15-must-read-books-for-management-professionals-to-elevate-your-leadership-2pmn)
-- [The three silent killers in edge AI deployment, and how to catch them before they catch you.](https://dev.to/marwan_abdelnaby_2ca11f12/the-three-silent-killers-in-edge-ai-deployment-and-how-to-catch-them-before-they-catch-you-lka)
+- [Base64 Encoding Explained: When and Why to Use It](https://dev.to/_d7eb1c1703182e3ce1782/base64-encoding-explained-when-and-why-to-use-it-4hld)
+- [The Future of Websites: From Pages to Intelligent Systems](https://dev.to/safdarali25/the-future-of-websites-from-pages-to-intelligent-systems-5ah5)
+- [HTTP 402 Was &#39;Reserved for Future Use&#39; for 29 Years. Stripe Just Gave It a Job.](https://dev.to/adioof/http-402-was-reserved-for-future-use-for-29-years-stripe-just-gave-it-a-job-3phg)
+- [Finding Profitable Niches with GitHub Trending Data: My Automated Pipeline for Product Opportunities](https://dev.to/eqhoids/finding-profitable-niches-with-github-trending-data-my-automated-pipeline-for-product-opportunities-4900)
+- [A Home Weather Monitoring System Built Without AI](https://dev.to/nandofm/a-home-weather-monitoring-system-built-without-ai-4a29)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
