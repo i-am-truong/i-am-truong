@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding How AI Agents Work](https://dev.to/erasto/understanding-how-ai-agents-work-2bb4)
-- [Stop Rewriting This React Form UX Logic](https://dev.to/sayan_paul/stop-rewriting-this-react-form-ux-logic-225p)
-- [Your Browser Has a Remote Control — And Nobody Told You](https://dev.to/timtech4u/your-browser-has-a-remote-control-and-nobody-told-you-5e97)
-- [Cómo solicitar aumentos de cuota para Amazon Bedrock &lpar;y que te los aprueben&rpar;](https://dev.to/dcastillogi/como-solicitar-aumentos-de-cuota-para-amazon-bedrock-y-que-te-los-aprueben-295o)
-- [Cercle: Denis Horvat, Sahar - Mayflies](https://dev.to/music_youtube/cercle-denis-horvat-sahar-mayflies-dhb)
+- [Hexagonal Architecture in Spring Boot — Win a Free Book](https://dev.to/paszekdev/hexagonal-architecture-in-spring-boot-win-a-free-book-2cm3)
+- [The Backyard Quarry: Turning Rocks Into Data](https://dev.to/kenwalger/the-backyard-quarry-turning-rocks-into-data-44h7)
+- [The Browser Is Already a Supercomputer. You Just Have to Ask.](https://dev.to/web_dev-usman/the-browser-is-already-a-supercomputer-you-just-have-to-ask-24bk)
+- [Build custom emojis with Stimulus](https://dev.to/railsdesigner/build-custom-emojis-with-stimulus-jep)
+- [KI als Pair-Programming-Partner: Warum ich nie Code merge, den ich nicht erklären kann](https://dev.to/ivo_sa/ki-als-pair-programming-partner-warum-ich-nie-code-merge-den-ich-nicht-erklaren-kann-5hb8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
