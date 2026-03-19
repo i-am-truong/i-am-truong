@@ -120,13 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Extract Metadata from Any URL with a Single CLI Command](https://dev.to/chengyixu/extract-metadata-from-any-url-with-a-single-cli-command-49i3)
-- [How to Use Bifrost CLI with Any AI Model &lpar;Claude Code, Codex, Gemini &amp; Opencode&rpar;](https://dev.to/hadil/how-to-use-bifrost-cli-with-any-ai-model-claude-code-codex-gemini-opencode-19m2)
-- [The Rise of AI Middleware: Why the Unsexy Layer Will Win](https://dev.to/cumulus/the-rise-of-ai-middleware-why-the-unsexy-layer-will-win-f6j)
-- [What if calling Python from C# took 4 lines, supported Native AOT, and didn&#39;t need a project file?
-Just shipped DotNetPy v0.5.0 — a lightweight Python interop library built for modern .NET.
-📦 https://github.com/rkttu/dotnetpy](https://dev.to/rkttu/what-if-calling-python-from-c-took-4-lines-supported-native-aot-and-didnt-need-a-project-file-2na8)
-- [Como economizar com o TRAE &lpar;Parte 1&rpar; | Entenda o que são Tokens e Janelas de Contexto](https://dev.to/captaincc/como-economizar-com-o-trae-parte-1-entenda-o-que-sao-tokens-e-janelas-de-contexto-39ng)
+- [Postman for AI – a tool that has been missing for a while](https://dev.to/alchaplinsky/postman-for-ai-a-tool-that-has-been-missing-for-a-while-56l6)
+- [Discover telegram-scrapper: Effortless Telegram Data Scraping!](https://dev.to/hesamhadadi/discover-telegram-scrapper-effortless-telegram-data-scraping-8b5)
+- [How the OpenClaw Travel Destination Brochure Skill Turns Any City into a Ready‑to‑Share Travel Guide](https://dev.to/aloycwl/how-the-openclaw-travel-destination-brochure-skill-turns-any-city-into-a-ready-to-share-travel-guide-3ni9)
+- [10 BPMN Best Practices Every Camunda Developer Should Know](https://dev.to/nirankari/10-bpmn-best-practices-every-camunda-developer-should-know-b24)
+- [Why Personas Still Matter in the Age of AI](https://dev.to/karelvandenbussche/why-personas-still-matter-in-the-age-of-ai-26ce)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
