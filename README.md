@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Vibe Coding Is Real, and It&#39;s Creating Devs Who Can&#39;t Debug](https://dev.to/taskconcierge/vibe-coding-is-real-and-its-creating-devs-who-cant-debug-3je)
-- [Productivity Up, Expertise Down](https://dev.to/rawveg/productivity-up-expertise-down-584k)
-- [DeepSource vs Codacy: Code Quality Tools Compared &lpar;2026&rpar;](https://dev.to/rahulxsingh/deepsource-vs-codacy-code-quality-tools-compared-2026-52dd)
-- [Claude Codeで非同期ジョブパターンを設計する：長時間処理の非同期化・ポーリング・Webhook通知](https://dev.to/myougatheaxo/claude-codedefei-tong-qi-ziyobupatanwoshe-ji-suruchang-shi-jian-chu-li-nofei-tong-qi-hua-poringuwebhooktong-zhi-42em)
-- [Amazon S3 Bucket Names Aren’t Always Globally Unique Anymore — Here’s What Changed &lpar;and Why I’m Excited&rpar;](https://dev.to/rufilboss/amazon-s3-bucket-names-arent-always-globally-unique-anymore-heres-what-changed-and-why-im-3a1f)
+- [How I Built Aegis — A Credential Isolation Proxy for AI Agents](https://dev.to/sjwarren91/how-i-built-aegis-a-credential-isolation-proxy-for-ai-agents-3bgb)
+- [Building a Rails Engine #12 -- Beyond CSV: JSON and API Sources](https://dev.to/seryllns_/building-a-rails-engine-12-beyond-csv-json-and-api-sources-1ljb)
+- [Web Pentesting Beginner Roadmap &lpar;2026&rpar;: From Recon to Server-Side Attacks](https://dev.to/itsmegsg/web-pentesting-beginner-roadmap-2026-from-recon-to-server-side-attacks-57gp)
+- [Why You Should Use context.logger in Lambda Durable Functions](https://dev.to/aws-builders/why-you-should-use-contextlogger-in-lambda-durable-functions-11f)
+- [GlassWorm Malware Campaign Steals Crypto Seeds via Obfuscation, Chrome Exploit, and Social Engineering: Mitigation Strategies](https://dev.to/kserude/glassworm-malware-campaign-steals-crypto-seeds-via-obfuscation-chrome-exploit-and-social-28j2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
